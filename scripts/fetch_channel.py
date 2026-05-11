@@ -5,54 +5,50 @@ import sys
 import time
 from datetime import datetime
 from pathlib import Path
+from typing import List, Dict, Any
 
 import requests
 from bs4 import BeautifulSoup
 
 HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/124.0.0.0 Safari/537.36"
-    ),
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9",
 }
 
-
-def parse_message(el):
+# ------------------------------------------------------------
+#  Message parsing (same logic, but returns dict)
+# ------------------------------------------------------------
+def parse_message(el) -> Dict[str, Any]:
     msg = {}
-
     msg_id = el.get("data-post", "")
     msg["id"] = msg_id
 
     date_el = el.select_one(".tgme_widget_message_date time")
     if date_el:
-        msg["date_raw"] = date_el.get("datetime", "")
+        raw = date_el.get("datetime", "")
         try:
-            dt = datetime.fromisoformat(msg["date_raw"].replace("Z", "+00:00"))
+            dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
             msg["date"] = dt.strftime("%H:%M · %d %b %Y")
-        except Exception:
-            msg["date"] = msg["date_raw"]
+            msg["timestamp"] = dt.timestamp()
+        except:
+            msg["date"] = raw
+            msg["timestamp"] = 0
     else:
         msg["date"] = ""
-        msg["date_raw"] = ""
 
     views_el = el.select_one(".tgme_widget_message_views")
     msg["views"] = views_el.get_text(strip=True) if views_el else ""
 
     text_el = el.select_one(".tgme_widget_message_text")
-    if text_el:
-        msg["text"] = text_el.get_text(separator="\n", strip=True)
-    else:
-        msg["text"] = ""
+    msg["text"] = text_el.get_text(separator="\n", strip=True) if text_el else ""
 
     photo_el = el.select_one(".tgme_widget_message_photo_wrap")
+    msg["photo"] = ""
     if photo_el:
         style = photo_el.get("style", "")
         m = re.search(r"url\('(.+?)'\)", style)
-        msg["photo"] = m.group(1) if m else ""
-    else:
-        msg["photo"] = ""
+        if m:
+            msg["photo"] = m.group(1)
 
     album_photos = el.select(".tgme_widget_message_photo_wrap")
     msg["album"] = []
@@ -72,8 +68,7 @@ def parse_message(el):
         msg["doc_title"] = title_el.get_text(strip=True) if title_el else ""
         msg["doc_extra"] = extra_el.get_text(strip=True) if extra_el else ""
     else:
-        msg["doc_title"] = ""
-        msg["doc_extra"] = ""
+        msg["doc_title"] = msg["doc_extra"] = ""
 
     fwd_el = el.select_one(".tgme_widget_message_forwarded_from")
     msg["forwarded_from"] = fwd_el.get_text(strip=True) if fwd_el else ""
@@ -88,36 +83,30 @@ def parse_message(el):
         msg["poll_question"] = ""
         msg["poll_options"] = []
 
-    msg_url_el = el.select_one(".tgme_widget_message_date")
-    msg["url"] = msg_url_el.get("href", "") if msg_url_el else ""
+    url_el = el.select_one(".tgme_widget_message_date")
+    msg["url"] = url_el.get("href", "") if url_el else ""
 
     return msg
 
 
-def fetch_channel(channel, count):
+def fetch_channel(channel: str, limit: int):
     messages = []
     channel_info = {"name": channel, "title": "", "description": "", "avatar": "", "members": ""}
     base_url = f"https://t.me/s/{channel}"
     before = None
 
-    print(f"[+] Fetching @{channel}")
+    print(f"[+] Fetching @{channel} (limit {limit})")
 
-    while len(messages) < count:
+    while len(messages) < limit:
         url = base_url if before is None else f"{base_url}?before={before}"
-        print(f"    → {url}")
-
         try:
             resp = requests.get(url, headers=HEADERS, timeout=30)
             resp.raise_for_status()
         except Exception as e:
-            print(f"[!] Error fetching URL: {e}")
+            print(f"[!] Error: {e}")
             break
 
-        try:
-            soup = BeautifulSoup(resp.text, "lxml")
-        except Exception as e:
-            print(f"[!] Error parsing HTML: {e}")
-            break
+        soup = BeautifulSoup(resp.text, "lxml")
 
         if before is None:
             try:
@@ -133,168 +122,246 @@ def fetch_channel(channel, count):
                 members_el = soup.select_one(".tgme_channel_info_counter .counter_value")
                 if members_el:
                     channel_info["members"] = members_el.get_text(strip=True)
-                print(f"[+] Channel: {channel_info['title']} ({channel_info['members']} members)")
+                print(f"    → {channel_info['title']} ({channel_info['members']} members)")
             except Exception as e:
-                print(f"[!] Error parsing channel info: {e}")
+                print(f"    [!] Could not parse channel info: {e}")
 
-        try:
-            bubbles = soup.select(".tgme_widget_message_wrap")
-            if not bubbles:
-                print("[!] No messages found.")
-                break
-
-            page_messages = []
-            for b in bubbles:
-                inner = b.select_one(".tgme_widget_message")
-                if inner:
-                    page_messages.append(parse_message(inner))
-
-            if not page_messages:
-                break
-
-            messages = page_messages + messages
-            ids = [int(m["id"].split("/")[-1]) for m in page_messages if m["id"]]
-            if not ids:
-                break
-            before = min(ids)
-
-            if len(messages) >= count:
-                break
-
-            time.sleep(0.8)
-        except Exception as e:
-            print(f"[!] Error processing messages: {e}")
+        bubbles = soup.select(".tgme_widget_message_wrap")
+        if not bubbles:
             break
 
-    messages = messages[-count:]
-    print(f"[+] Got {len(messages)} messages")
+        page_msgs = []
+        for b in bubbles:
+            inner = b.select_one(".tgme_widget_message")
+            if inner:
+                page_msgs.append(parse_message(inner))
+
+        if not page_msgs:
+            break
+
+        messages = page_msgs + messages
+        ids = [int(m["id"].split("/")[-1]) for m in page_msgs if m["id"]]
+        if not ids:
+            break
+        before = min(ids)
+
+        if len(messages) >= limit:
+            break
+
+        time.sleep(0.8)
+
+    messages = messages[-limit:]
+    print(f"    ✓ fetched {len(messages)} messages")
     return messages, channel_info
 
 
-def render_markdown(messages, channel_info, channel, fetch_time):
+def render_messages_html(messages: List[Dict]) -> str:
+    """Convert list of messages to HTML (Telegram‑like bubbles)"""
     lines = []
-
-    title = channel_info.get("title") or f"@{channel}"
-    members = channel_info.get("members", "")
-    desc = channel_info.get("description", "")
-    avatar = channel_info.get("avatar", "")
-
-    # Header
-    lines.append(f"<div align=\"center\">")
-    if avatar:
-        lines.append(f"\n<img src=\"{avatar}\" width=\"80\" height=\"80\" style=\"border-radius:50%\"/>\n")
-    lines.append(f"\n# 📡 {title}\n")
-    lines.append(f"**@{channel}**")
-    if members:
-        lines.append(f" · 👥 {members} عضو")
-    lines.append(f"\n\n")
-    if desc:
-        lines.append(f"*{desc}*\n\n")
-    lines.append(f"🕐 آپدیت: `{fetch_time}` · 📨 {len(messages)} پیام\n")
-    lines.append(f"\n[![باز کردن در تلگرام](https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/{channel})\n")
-    lines.append(f"\n</div>\n\n")
-    lines.append("---\n\n")
-
-    # Messages (newest last)
     for m in messages:
-        # Forwarded
+        bubble_parts = []
+
+        # forward badge
         if m.get("forwarded_from"):
-            lines.append(f"> ↪ **فوروارد از:** {m['forwarded_from']}\n\n")
+            bubble_parts.append(f'<div class="msg-forward">↪ فوروارد از {m["forwarded_from"]}</div>')
 
-        # Album (multiple photos)
-        if m.get("album") and len(m["album"]) > 1:
-            for i, ph in enumerate(m["album"]):
-                lines.append(f"[![photo {i+1}]({ph})]({ph})\n")
-            lines.append("\n")
+        # album
+        if len(m.get("album", [])) > 1:
+            album_html = '<div class="msg-album">'
+            for idx, ph in enumerate(m["album"]):
+                album_html += f'''
+                <div class="album-item">
+                    <img src="{ph}" loading="lazy" alt="photo {idx+1}">
+                    <a href="{ph}" class="dl-badge" download>⬇</a>
+                </div>
+                '''
+            album_html += '</div>'
+            bubble_parts.append(album_html)
         elif m.get("photo"):
-            lines.append(f"[![photo]({m['photo']})]({m['photo']})\n\n")
+            bubble_parts.append(f'''
+            <div class="msg-photo">
+                <img src="{m["photo"]}" loading="lazy">
+                <a href="{m["photo"]}" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            ''')
 
-        # Video
+        # video
         if m.get("video"):
-            lines.append(f"🎬 **[دانلود ویدیو]({m['video']})**\n\n")
+            bubble_parts.append(f'''
+            <div class="msg-video">
+                <video controls preload="metadata" poster="{m.get('photo', '')}">
+                    <source src="{m['video']}">
+                </video>
+                <a href="{m['video']}" class="dl-btn" download>📥 دانلود ویدیو</a>
+            </div>
+            ''')
 
-        # Document
+        # document
         if m.get("doc_title"):
-            lines.append(f"📄 **{m['doc_title']}** `{m['doc_extra']}`\n\n")
+            bubble_parts.append(f'''
+            <div class="msg-doc">
+                <div class="doc-icon">📄</div>
+                <div class="doc-info">
+                    <div class="doc-title">{m["doc_title"]}</div>
+                    <div class="doc-extra">{m["doc_extra"]}</div>
+                </div>
+                <a href="#" class="doc-dl" download>⬇</a>
+            </div>
+            ''')
 
-        # Poll
+        # poll
         if m.get("poll_question"):
-            lines.append(f"📊 **{m['poll_question']}**\n\n")
-            for opt in m.get("poll_options", []):
-                lines.append(f"- {opt}\n")
-            lines.append("\n")
+            opts = "".join(f'<li class="poll-opt">{opt}</li>' for opt in m["poll_options"])
+            bubble_parts.append(f'''
+            <div class="msg-poll">
+                <div class="poll-question">📊 {m["poll_question"]}</div>
+                <ul class="poll-opts">{opts}</ul>
+            </div>
+            ''')
 
-        # Text
+        # text (with linkify)
         if m.get("text"):
-            text = m["text"]
-            lines.append(f"{text}\n\n")
+            text = m["text"].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+            # simple URL detection
+            text = re.sub(r'(https?://[^\s]+)', r'<a href="\1" target="_blank">\1</a>', text)
+            bubble_parts.append(f'<div class="msg-text">{text}</div>')
 
-        # Footer
-        footer_parts = []
+        # footer (views + date)
+        footer = []
         if m.get("views"):
-            footer_parts.append(f"👁 {m['views']}")
+            footer.append(f'<span class="msg-views">👁 {m["views"]}</span>')
         if m.get("date") and m.get("url"):
-            footer_parts.append(f"[{m['date']}]({m['url']})")
-        elif m.get("date"):
-            footer_parts.append(m["date"])
+            footer.append(f'<a href="{m["url"]}" class="msg-date" target="_blank">{m["date"]}</a>')
+        if footer:
+            bubble_parts.append(f'<div class="msg-footer">{" · ".join(footer)}</div>')
 
-        if footer_parts:
-            lines.append(f"<sub>{' · '.join(footer_parts)}</sub>\n\n")
+        bubble_html = f'<div class="msg-wrap"><div class="msg-bubble">{"".join(bubble_parts)}</div></div>'
+        lines.append(bubble_html)
 
-        lines.append("---\n\n")
+    return "\n".join(lines)
 
-    return "".join(lines)
+
+def generate_html(channel: str, channel_info: Dict, messages: List[Dict], fetch_time: str) -> str:
+    """Fill template.html with real data"""
+    template_path = Path("scripts/template.html")
+    if not template_path.exists():
+        # fallback minimal template
+        return f"<html><body><h1>@{channel}</h1><p>Template missing</p></body></html>"
+
+    template = template_path.read_text(encoding="utf-8")
+
+    avatar_html = ""
+    if channel_info.get("avatar"):
+        avatar_html = f'<img src="{channel_info["avatar"]}" class="ch-avatar" alt="avatar">'
+    else:
+        avatar_html = f'<div class="ch-avatar-placeholder">{channel_info["title"][0] if channel_info["title"] else "@"}</div>'
+
+    desc_html = ""
+    if channel_info.get("description"):
+        desc_html = f'<div class="ch-desc">{channel_info["description"]}</div>'
+
+    messages_html = render_messages_html(messages)
+
+    html = template.replace("{{AVATAR_HTML}}", avatar_html) \
+                   .replace("{{CHANNEL_TITLE}}", channel_info["title"] or f"@{channel}") \
+                   .replace("{{CHANNEL_NAME}}", channel) \
+                   .replace("{{CHANNEL_MEMBERS}}", channel_info.get("members", "?")) \
+                   .replace("{{DESC_HTML}}", desc_html) \
+                   .replace("{{MESSAGES}}", messages_html) \
+                   .replace("{{MSG_COUNT}}", str(len(messages))) \
+                   .replace("{{FETCH_TIME}}", fetch_time)
+
+    return html
+
+
+def update_channels_list(new_channel: str):
+    """Append channel to channels.txt if not already there"""
+    list_file = Path("channels.txt")
+    if not list_file.exists():
+        list_file.write_text("")
+    current = set(line.strip() for line in list_file.read_text(encoding="utf-8").splitlines() if line.strip())
+    if new_channel not in current:
+        with list_file.open("a", encoding="utf-8") as f:
+            f.write(f"{new_channel}\n")
+        print(f"[+] Added {new_channel} to channels list")
+    else:
+        print(f"[*] {new_channel} already in channels list")
+
+
+def build_index_page():
+    """Generate index.html listing all channels"""
+    channels_dir = Path("channels")
+    channels_dir.mkdir(exist_ok=True)
+    list_file = Path("channels.txt")
+    if not list_file.exists():
+        return
+    channels = [line.strip() for line in list_file.read_text(encoding="utf-8").splitlines() if line.strip()]
+    if not channels:
+        return
+
+    index_items = []
+    for ch in channels:
+        html_path = channels_dir / f"{ch}.html"
+        if html_path.exists():
+            # extract title from the html itself quickly (simple regex)
+            content = html_path.read_text(encoding="utf-8")
+            title_match = re.search(r'<div class="ch-title">(.*?)</div>', content)
+            title = title_match.group(1) if title_match else f"@{ch}"
+            index_items.append(f'<li><a href="{ch}.html">{title}</a> <span>@{ch}</span></li>')
+        else:
+            index_items.append(f'<li>@{ch} (not yet fetched)</li>')
+    index_html = f'''<!DOCTYPE html>
+<html lang="fa" dir="auto">
+<head><meta charset="UTF-8"><title>لیست کانال‌ها</title>
+<style>body{{background:#0e1621;color:#e8edf2;font-family:Vazirmatn,sans-serif;padding:2rem;}}
+a{{color:#64b5f6;}} ul{{list-style:none;padding:0;}} li{{margin:1rem 0;}}</style>
+</head>
+<body><h1>📡 لیست کانال‌های mirror</h1><ul>{"".join(index_items)}</ul></body></html>'''
+    (channels_dir / "index.html").write_text(index_html, encoding="utf-8")
+    print("[✓] Index page updated")
 
 
 def main():
-    try:
-        parser = argparse.ArgumentParser(description="Fetch Telegram channel messages")
-        parser.add_argument("--channel", required=True, help="Channel username (without @)")
-        parser.add_argument("--count", type=int, default=100, help="Number of messages to fetch")
-        args = parser.parse_args()
+    # Determine channels to fetch
+    channels_list = []
+    manual_channel = os.getenv("INPUT_CHANNEL", "").strip()
+    manual_count = os.getenv("INPUT_COUNT", "100").strip()
 
-        channel = args.channel.lstrip("@").strip()
-        if not channel:
-            print("[!] Error: Channel name is empty")
-            sys.exit(1)
+    if manual_channel:
+        # manual run: only this channel, and update channels.txt
+        channels_list = [manual_channel]
+        update_channels_list(manual_channel)
+        msg_limit = max(10, min(int(manual_count), 200))
+    else:
+        # scheduled run: read from channels.txt
+        list_file = Path("channels.txt")
+        if not list_file.exists():
+            print("[!] No channels.txt found, nothing to do")
+            sys.exit(0)
+        channels_list = [line.strip() for line in list_file.read_text(encoding="utf-8").splitlines() if line.strip()]
+        if not channels_list:
+            print("[!] channels.txt is empty")
+            sys.exit(0)
+        msg_limit = 100   # default limit for scheduled updates
 
-        count = max(10, min(args.count, 200))
-        print(f"[*] Parameters: channel=@{channel}, count={count}")
+    fetch_time = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
-        messages, channel_info = fetch_channel(channel, count)
-
-        if not messages:
-            print("[!] No messages fetched.")
-            sys.exit(1)
-
-        now = datetime.utcnow()
-        fetch_time = now.strftime("%Y-%m-%d %H:%M UTC")
-        file_date = now.strftime("%Y-%m-%d_%H-%M")
-
-        md = render_markdown(messages, channel_info, channel, fetch_time)
-
-        out_dir = Path("channels")
+    for ch in channels_list:
+        print("\n" + "="*50)
         try:
-            out_dir.mkdir(parents=True, exist_ok=True)
-            print(f"[+] Created directory: {out_dir}")
+            messages, info = fetch_channel(ch, msg_limit)
+            if not messages:
+                print(f"[!] No messages for @{ch}, skipping")
+                continue
+            html_content = generate_html(ch, info, messages, fetch_time)
+            out_file = Path(f"channels/{ch}.html")
+            out_file.write_text(html_content, encoding="utf-8")
+            print(f"[✓] Saved {out_file}")
         except Exception as e:
-            print(f"[!] Error creating directory: {e}")
-            sys.exit(1)
+            print(f"[!] Failed to process @{ch}: {e}")
 
-        filename = f"{channel}_{file_date}.md"
-        out_file = out_dir / filename
-        
-        try:
-            out_file.write_text(md, encoding="utf-8")
-            file_size = out_file.stat().st_size
-            print(f"[✓] Saved: {out_file} ({file_size} bytes)")
-        except Exception as e:
-            print(f"[!] Error writing file: {e}")
-            sys.exit(1)
-
-    except Exception as e:
-        print(f"[!] Unexpected error: {e}")
-        sys.exit(1)
+    build_index_page()
+    print("\n[✅] All done.")
 
 
 if __name__ == "__main__":
