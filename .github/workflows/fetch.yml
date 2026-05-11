@@ -1,4 +1,4 @@
-name: 📡 تلگرام بدون فیلتر آرین
+name: 📡 Fetch Telegram Channels
 
 on:
   workflow_dispatch:
@@ -8,12 +8,12 @@ on:
         required: false
         type: string
       count:
-        description: 'تعداد پیام (حداکثر 200)'
+        description: 'تعداد پیام برای کانال جدید (حداکثر 200)'
         required: false
         default: '100'
         type: string
   schedule:
-    - cron: '0 */2 * * *'   # هر ۲ ساعت
+    - cron: '0 */2 * * *'
 
 permissions:
   contents: write
@@ -46,10 +46,27 @@ jobs:
         run: |
           python scripts/fetch_channel.py
 
-      - name: Commit changes
+      - name: Commit and push with retry
         run: |
           git config user.name "TG Mirror Bot"
           git config user.email "bot@tgmirror.local"
           git add channels/ channels.txt
-          git diff --staged --quiet || git commit -m "🔄 بروزرسانی کانال‌ها در $(date -u '+%Y-%m-%d %H:%M') UTC"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "🔄 بروزرسانی کانال‌ها در $(date -u '+%Y-%m-%d %H:%M') UTC"
+          
+          # Retry logic for git push (max 3 attempts)
+          for i in 1 2 3; do
+            echo "Push attempt $i"
+            if git push; then
+              echo "Push succeeded"
+              exit 0
+            else
+              echo "Push failed, waiting 5 seconds..."
+              sleep 5
+            fi
+          done
+          echo "Push failed after 3 attempts"
+          exit 1
