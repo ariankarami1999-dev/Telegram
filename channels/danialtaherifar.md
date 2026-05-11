@@ -55,7 +55,7 @@ img {
 <h1>📡 دانیال طاهری فر | آموزش سئو و دیجیتال مارکتینگ</h1>
 <p><strong>@danialtaherifar</strong> · 👥 1.56K عضو</p>
 <p><em>آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</em></p>
-<p>🕐 آخرین بروزرسانی: <code>1405-02-21 19:01:16</code></p>
+<p>🕐 آخرین بروزرسانی: <code>1405-02-21 19:55:27</code></p>
 <p><a href="https://t.me/danialtaherifar" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
@@ -160,8 +160,8 @@ img {
 </div>
 <div class="tg-message">
 <!-- msg_id: 916 -->
-<p><img src="https://cdn4.telesco.pe/file/FqpV8yUX_johGgB2VlWi0Lq4T2YriTknqSpZTE2dOkuiTj8OYple3jprhAG3L5foCHvD5QQp6X4LH5DuDX9Z9_8apem-NRWzKEwCAu8JyEgJUfQ_TROB9hygERr4EX6Vn2HzrevBSa4je1Cpu-6f_2Yp67Btw30_RYVNU4NzloVzZgBpVt5COV8IA7PqEcrwUEkfceJUtyJ41QqXQbSiGx--Eur7wkKGHBcJf5OzXGgpyIEg24SWIdTGtj0MX8wGdkOdbVRbftrU1OF6x4Zfvi34lBuUSL57yvGtykiHEmxr13yfgv9LpPBm6fgBuhyIRew22Uyk-gZDV_i87AeTdg.jpg" alt="photo 1"/></p>
-<p><img src="https://cdn4.telesco.pe/file/FtegdNE756QZzXugwymgTTcG0zKhpcpojNGxA7TO2PKISuEzanRn9PkVM806I6OZZl-e9G4W-X4rjOLDELdsofeXrKiqdl4a1DjNq6OSuPUlomdYGyaF2E2wiZcTzk4654i2UxVqH9ha5Kg3bv7wdrWhT6afzlD5qj30i6XMmzyCEFmKfb8C_vfSYzXgfwxhwj1svqVUs_zitm9AeeOHpAECp4TY0ox9f4-0DJszgPWw69WquAoWxKT8ke7XRlREbZd_I58Xf_PkvMfENT8BADcEMbEaHgp2x89QWymQOBEUSMx0Z-eFkG6axocvf1cCSKC_FteIjrA0HaU0_GYZtQ.jpg" alt="photo 2"/></p>
+<p><img src="https://cdn4.telesco.pe/file/AgkRWPD3fKl2k4JyPsCj2DqYgUpwEelKOIRv_M3NhYXv5BocxrprkKZZGU3Tf2akJ3f-uKdDaaHxTUna8_DXKKVOG0Mzruz_Y6vAc8iBOU3NtN7JxFCyUeHI2Z7CpqSaWF8tjPw-l0AUSBAtZhy3c5O_1G3KpVv5ilx89qFFGZ4aEkh9nhbYY5SwJrJMWwhh_SSGkHieGEKylvbMtfhT5cuWrcpCDWj1DBKEOXufbqu6cXpk6ZUEZTcqDWOiWR5fSDu3MSzmmwwa9oHHejULYSO6cU1Ty0TZRUiEjjCQWn1mL8jSqz_50sWsmDxyLsE2l23gnYfWaDZgPvJOvGCQnw.jpg" alt="photo 1"/></p>
+<p><img src="https://cdn4.telesco.pe/file/WE-Ff8GiYOvpQ_5mOdRPI8B8duy5mdxPzXEHHt4S--fV1LYAFkV9vW1DhRzy-aDXbkkHBpDF_qVVg15QjbfzHdGQgFdIbNoj8iDJvofIQykLz9kiLONWbw7QZj3J6_g_pU3gnKm2zRZSXGRRo8winVHsMa9JjSWPoIE8pn1jUGp9dCkwShTvrzC2cK9qG6lgfIbza6fBqtG1xEpFOoY_Mv1tMrSBgjSLbVlfhLX-K7QzMeR78RBTPAFOkr7-NZl2RKrGFB60aopAvjyvK1EjLmAY1rfNGIzBEQXY8TWV8OvW0no8o5CzfKOY1uRhmk6KVn_okhs0viaINQyyReLxTg.jpg" alt="photo 2"/></p>
 <p>مقایسه سرچ کنسول سایت های میزبانی شده در ایران و خارج از ایران:  نکته جالبی که تو این تغییرات به چشمم اومد این بود که سایت هایی که رتبه‌های عالی داشتن بیشتر آسیب دیدن و سایت های رده سوم در سرور ایران هم موقتا رشد گرفتن و بالا اومدن، که البته با توجه به قطعی…</p>
 <div class="tg-footer">👁 1.06K · <a href="https://t.me/danialtaherifar/916" target="_blank">13:01 · 10 Bahman 1404</a></div>
 </div>
@@ -1092,7 +1092,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 </div>
 <div class="tg-message">
 <!-- msg_id: 853 -->
-<p><img src="https://cdn4.telesco.pe/file/qdfMTjn0aErtXrJvvXaHj50i5guXORNyugGGVe2ZAcpdqOdJDgNFSfNE52PUlVOl9hWcNWaeazIfm6Vl2FXnJe7D58YAVImnGMZSLZuOF-l4QzU2k38VjLLTYDXGRDmgGWc3nzyHdbJ14dCCOSB65B0uxxMiQ_OpVnvfjTvCrfNu2xpmtlcHQyXWAKK1oSITG5y8Vjkq-kRuXaN3LZzq7njLGgG9PUlVxECpNVeW0NqBmWooxPF9rbI7rOjUgrH5jnWyNieONNqPepbBH2my1pIcViNyqsx3lbaCZn3CREbwrCuAfdK7jXOqJ_WB1gAh1GaO0qkJv6aZolupDq67YQ.jpg" alt="photo 1"/></p>
+<p><img src="https://cdn4.telesco.pe/file/FkUfBl0TaqIxjnRz2L0w1FRpFgQU8LJqMMcPXWIYjFF-4tcQU49xX_95wlVKRkEuybBp9FyTaU-1tt-SB1G5k7UCw8TixZMgo7t6VTtfa42HIKYKZ5DmI1wZUmMWMNQUD2aHjjgzHw6jti_hJa1Hp522y0___c_x-TwU6-9W575CKVwdiULEDOxDrQONyUcO58Wnp1rka0lTJYbgGE2bvFuO93W7f6v6gPLqaPcnDMrkoEGPq1JBmyjvTK5_mg9JhDIpzwEzoLivrt_PzCs-oYou0WCWBfj5anOcznBKWAXxqJt_8_D0CYw7vgtc9mIzB5h_n0q-MLQc2oXEjDDeDg.jpg" alt="photo 1"/></p>
 <p><img src="https://cdn4.telesco.pe/file/lmH5aBTYKOW7iBcAPRBNY_rosc2NBgI1TdKM3maQPz0WQ4qbDcMZDYkL_6zaQ1rIjxQahv25u210ixcyweQ_9yJBbAZvbRwoNNHeFXQhJv92-SgnJr_u_WTMv-bbhGFCBr6iQcXr_HqfQ71x2zepjzyT1Ve2m9x1uwA_hHs8qRxX9AZTL5jiassbnTJTmGTg2CmgPXfFfmwHyLU_LR9FeeqjvyR4JgTxBWunWKjtTBrejP4bifu1nUy43pTV2_LWo1AIMx-9KvOWTSd_NAQ7FFPkGmh1nhHUjR8bugJcFn5rIUA-czrzfRgfS0qeeQJ9uWDed0VVrDS9Q96ZCNjmJg.jpg" alt="photo 2"/></p>
 <p>📉
 نوسانات شدید رتبه‌ بندی گوگل در ۹ و ۱۰ آوریل ۲۰۲۵​

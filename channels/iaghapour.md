@@ -55,7 +55,7 @@ img {
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p><strong>@iaghapour</strong> · 👥 50.4K عضو</p>
 <p><em>اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</em></p>
-<p>🕐 آخرین بروزرسانی: <code>1405-02-21 19:01:16</code></p>
+<p>🕐 آخرین بروزرسانی: <code>1405-02-21 19:55:27</code></p>
 <p><a href="https://t.me/iaghapour" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
@@ -65,7 +65,7 @@ img {
 حدودا 500 پیام بررسی نشده از 2 روز پیش داریم که پشتیبانی تا فردا همه رو بررسی میکنه.
 جدا از بحث بالا، از ته دل آرزو میکنم تو این روزهای عجیب و غریبی که داریم می‌گذرونیم، حال دلتون خوب باشه. می‌بینیم و حس میکنم که زندگی چقدر برای خیلی‌ها سخت شده و دغدغه‌ها چقدر زیادن.
 امیدواریم هرچه زودتر این روزهای سخت جاشون رو به روزهای روشن‌تری بدن. هوای خودتون و دلتون رو داشته باشید.</p>
-<div class="tg-footer">👁 13.1K · <a href="https://t.me/iaghapour/2598" target="_blank">03:02 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 13.3K · <a href="https://t.me/iaghapour/2598" target="_blank">03:02 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2597 -->
@@ -109,7 +109,7 @@ img {
 لینک گیت‌هاب پروژه
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 16K · <a href="https://t.me/iaghapour/2597" target="_blank">23:25 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 16.2K · <a href="https://t.me/iaghapour/2597" target="_blank">23:25 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2596 -->
@@ -137,7 +137,7 @@ img {
 متن تهیه شده توسط نویسنده اسکریپت KevinDNS
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 16.2K · <a href="https://t.me/iaghapour/2596" target="_blank">23:21 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 16.3K · <a href="https://t.me/iaghapour/2596" target="_blank">23:21 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2595 -->
@@ -157,7 +157,7 @@ img {
 پ.ن: حالا فارق از این حرفا داره میگه اینا دارن از کاربراشون جاسوسی میکنن برای همین ما باید اپ های خودمون رو داشته باشیم... من حرفی ندارم.
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 18.8K · <a href="https://t.me/iaghapour/2595" target="_blank">18:19 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 18.9K · <a href="https://t.me/iaghapour/2595" target="_blank">18:19 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2594 -->
@@ -179,7 +179,7 @@ img {
 رو شما باید درخواست بدی تا بهت بدن...
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 22.3K · <a href="https://t.me/iaghapour/2592" target="_blank">18:27 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 22.4K · <a href="https://t.me/iaghapour/2592" target="_blank">18:27 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2591 -->
@@ -258,7 +258,7 @@ img {
 </div>
 <div class="tg-message">
 <!-- msg_id: 2588 -->
-<p><img src="https://cdn4.telesco.pe/file/m_ML7kEsej9dVVNBxvZqxHtidKohorwXPtj1Js1bN0F7SFqr4H0R9fZTc6PvQYKuSrGPn-yF3HxPi7XP-kPyn9N54pVBSA91yS9FrxyYrw3GCWenAeY_Lix8vOMio15SaQFJtfVKjL5Cwj0KQvI2yGBEg2pK5pKpuYMgk0MXiq2zviGIWNAbB7f4H0BCSm8juTEIQu1qDysoaUzwAf0whiEbrfGwJY-GAegn6urrlqIECsT4r3if5mT9lC86wWg6uMmMgot2R_868lT6C-ZBPbM2Uqwjlri5M_Ykb13F3wK__h0dp4UoeVP_akuFD_BuRttmxngL7aMnZJAa2OecYw.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/lwDB5m-uuFrw6hWRhD3XrqkI_CgzEUft5M8BH7N0qqVNNhkfH8ahU1f7aRnJrsTJ8uqM9rcP1JxxOWVio7kIAvdbYnbc_HnMOERtWZanNi_LMlGmZ0l27PZtq8JedczyUuT1SELjrKbfm_JLN8PStVysVsR_TVUP9FEV6ofJi-tu9b7ysJjAdhP31wtzTvbYHu5p2aLYlrtw_hvOZkOO9nMcfbnORjnCKDhFKcNHpsmH8x9isTh_CdVOZ6BBhk9mBhEHi5NC_zDUtG1x2xEsAcnLDNf3nZMth3Du5B82KDVGFkkY0OrfwytUtdC_6CgeE7jEKQAtJV6DyoClg4y76A.jpg" alt="photo"/></p>
 <p>💢
 سخنگو وزارت خارجه حذف تیک آبی خود در شبکه X را (سرکوب حقیقت) خواند.
 68 روزه اینترنت مردم ایران رو قطع کردن، بعد یه تیک آبی‌شو گرفتن میگه حقیقت سرکوب شد.
@@ -277,7 +277,7 @@ img {
 پ.ن: البته به این نکته هم توجه کنید که خبرگذاری داخلی اینو گفته و ممکنه دقیقا مقصودشون از این حرف هم همین باشه که بگن چقدر این طرح خوب و سودآور هستش و...
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 28.6K · <a href="https://t.me/iaghapour/2587" target="_blank">14:33 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 28.7K · <a href="https://t.me/iaghapour/2587" target="_blank">14:33 · 16 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2585 -->
@@ -296,7 +296,7 @@ img {
 در حالی که دولت تلاش می‌کند قطعی‌ها و طرح‌های بحث‌برانگیزی مثل اینترنت پرو را صرفا به شرایط اضطراری گره بزند، کاربران و کسب‌وکارها همچنان منتظرند تا ببینند آیا این وعده‌ها در عمل به یک اینترنت آزاد و بدون محدودیت ختم می‌شود یا صرفا وعده‌ای برای کنترل نارضایتی‌های فعلی است.
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 26.7K · <a href="https://t.me/iaghapour/2585" target="_blank">21:12 · 15 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 26.8K · <a href="https://t.me/iaghapour/2585" target="_blank">21:12 · 15 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2584 -->
@@ -317,7 +317,7 @@ img {
 پ.ن: از سوپر اپلیکیشن های ایتا و سروش و گپ و بله که از تلگرام کپی کردین مشخصه توانایی اینکار رو دارید.
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 28.2K · <a href="https://t.me/iaghapour/2584" target="_blank">19:36 · 15 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 28.3K · <a href="https://t.me/iaghapour/2584" target="_blank">19:36 · 15 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2583 -->
@@ -342,7 +342,7 @@ img {
 #زندگی
 #جنگ
 #اینترنت</p>
-<div class="tg-footer">👁 32.9K · <a href="https://t.me/iaghapour/2581" target="_blank">19:09 · 14 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 33K · <a href="https://t.me/iaghapour/2581" target="_blank">19:09 · 14 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2580 -->
@@ -411,7 +411,7 @@ LatestReleaseMirror
 آدرس گیت‌هاب پروژه
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 34.7K · <a href="https://t.me/iaghapour/2577" target="_blank">14:05 · 13 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 34.8K · <a href="https://t.me/iaghapour/2577" target="_blank">14:05 · 13 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2576 -->
@@ -443,7 +443,7 @@ LatestReleaseMirror
 💚
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 45.6K · <a href="https://t.me/iaghapour/2576" target="_blank">19:53 · 12 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 45.7K · <a href="https://t.me/iaghapour/2576" target="_blank">19:53 · 12 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2575 -->
@@ -571,7 +571,7 @@ pull
 <p>ای بابا روش Vercel چرا بسته شد؟ هنوز آموزش نداده بودم که.
 😁
 سازمان فیلترینگ زرنگ شده ها. فک کنم خودشون رو آپدیت کردن دیگه به کانال من نگاه نمیکنن :)</p>
-<div class="tg-footer">👁 36K · <a href="https://t.me/iaghapour/2567" target="_blank">16:34 · 09 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 36.1K · <a href="https://t.me/iaghapour/2567" target="_blank">16:34 · 09 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2566 -->
@@ -1099,7 +1099,7 @@ v0.9.0
 اگر اینترنت در یک کشور غربی دو ساعت قطع شود، دنیا جلسه اضطراری می‌گذارد! اما ماه‌ها حبس دیجیتال در ایران، ارزش یک واکنش قاطع را برای آن‌ها ندارد.
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 24.8K · <a href="https://t.me/iaghapour/2522" target="_blank">19:45 · 31 Farvardin 1405</a></div>
+<div class="tg-footer">👁 24.9K · <a href="https://t.me/iaghapour/2522" target="_blank">19:45 · 31 Farvardin 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2521 -->
@@ -1201,7 +1201,7 @@ v0.9.0
 لینک گیت‌هاب پروژه
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 23.7K · <a href="https://t.me/iaghapour/2516" target="_blank">21:53 · 30 Farvardin 1405</a></div>
+<div class="tg-footer">👁 23.8K · <a href="https://t.me/iaghapour/2516" target="_blank">21:53 · 30 Farvardin 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2515 -->
@@ -1379,7 +1379,7 @@ v0.9.0
 شدیم.
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 26.9K · <a href="https://t.me/iaghapour/2508" target="_blank">12:07 · 29 Farvardin 1405</a></div>
+<div class="tg-footer">👁 27K · <a href="https://t.me/iaghapour/2508" target="_blank">12:07 · 29 Farvardin 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2506 -->
