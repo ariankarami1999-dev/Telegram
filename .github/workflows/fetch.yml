@@ -1,4 +1,4 @@
-name: 📡 تلگرام نت ملی
+name: 📡 Fetch Telegram Channels
 
 on:
   workflow_dispatch:
@@ -8,12 +8,11 @@ on:
         required: false
         type: string
       count:
-        description: 'تعداد پیام برای کانال جدید (حداکثر 200)'
+        description: 'تعداد پیام برای کانال جدید (حداکثر 200) - فقط در صورت پر کردن فیلد channel معنی دارد'
         required: false
-        default: '100'
         type: string
   schedule:
-    - cron: '0 */2 * * *'   # هر ۲ ساعت
+    - cron: '0 */2 * * *'
 
 permissions:
   contents: write
@@ -31,7 +30,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml jdatetime pytz
+        run: pip install requests beautifulsoup4 lxml jdatetime
 
       - name: Create directories
         run: mkdir -p channels scripts
@@ -56,8 +55,6 @@ jobs:
             exit 0
           fi
           git commit -m "🔄 بروزرسانی کانال‌ها در $(date -u '+%Y-%m-%d %H:%M') UTC"
-          
-          # Retry logic for git push (max 3 attempts)
           for i in 1 2 3; do
             echo "Push attempt $i"
             if git push; then
