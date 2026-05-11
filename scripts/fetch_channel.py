@@ -9,18 +9,32 @@ from typing import List, Dict, Any, Optional
 
 import requests
 import jdatetime
-import pytz
 from bs4 import BeautifulSoup
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9",
 }
-TEHRAN_TZ = pytz.timezone('Asia/Tehran')
+
+# تلاش برای استفاده از pytz برای زمان دقیق تهران، در صورت عدم وجود fallback به timedelta
+try:
+    import pytz
+    TEHRAN_TZ = pytz.timezone('Asia/Tehran')
+    USE_PYTZ = True
+except ImportError:
+    USE_PYTZ = False
+    print("[!] pytz not installed, using simple timedelta (no DST)")
+
+def utc_to_tehran(dt_utc: datetime) -> datetime:
+    """Convert UTC datetime to Tehran local time."""
+    if USE_PYTZ:
+        return dt_utc.astimezone(TEHRAN_TZ)
+    else:
+        return dt_utc + timedelta(hours=3, minutes=30)
 
 def to_jalali_str(dt_utc: datetime) -> str:
     """Convert UTC datetime to Jalali (Shamsi) with Tehran timezone and return formatted string."""
-    dt_tehran = dt_utc.astimezone(TEHRAN_TZ)
+    dt_tehran = utc_to_tehran(dt_utc)
     jd = jdatetime.datetime.fromgregorian(datetime=dt_tehran)
     return jd.strftime("%H:%M · %d %B %Y")  # like "۱۴:۳۰ · ۲۲ اردیبهشت ۱۴۰۴"
 
@@ -184,94 +198,93 @@ def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetc
     desc = channel_info.get("description", "")
     avatar = channel_info.get("avatar", "")
 
-    theme_style = """
-<style>
+    # CSS به صورت یک بلوک یکپارچه (بدون فاصله اضافی در ابتدای خط)
+    style_block = """<style>
+.tg-mirror {
+  --bg: #0d1117;
+  --text: #c9d1d9;
+  --border: #30363d;
+  --accent: #58a6ff;
+}
+@media (prefers-color-scheme: light) {
   .tg-mirror {
-    --bg: #0d1117;
-    --text: #c9d1d9;
-    --border: #30363d;
-    --accent: #58a6ff;
+    --bg: #ffffff;
+    --text: #24292f;
+    --border: #d0d7de;
+    --accent: #0969da;
   }
-  @media (prefers-color-scheme: light) {
-    .tg-mirror {
-      --bg: #ffffff;
-      --text: #24292f;
-      --border: #d0d7de;
-      --accent: #0969da;
-    }
-  }
-  .tg-mirror {
-    background: var(--bg);
-    color: var(--text);
-    padding: 16px;
-    border-radius: 16px;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Vazirmatn', sans-serif;
-  }
-  .tg-header {
-    text-align: center;
-    border-bottom: 1px solid var(--border);
-    padding-bottom: 16px;
-    margin-bottom: 16px;
-  }
-  .tg-avatar {
-    border-radius: 50%;
-    width: 64px;
-    border: 2px solid var(--accent);
-  }
-  .tg-message {
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 12px;
-    margin: 12px 0;
-    background: var(--bg);
-  }
-  .tg-footer {
-    font-size: 0.8em;
-    color: #8b949e;
-    margin-top: 8px;
-  }
-  img {
-    max-width: 100%;
-    border-radius: 8px;
-  }
+}
+.tg-mirror {
+  background: var(--bg);
+  color: var(--text);
+  padding: 16px;
+  border-radius: 16px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Vazirmatn', sans-serif;
+}
+.tg-header {
+  text-align: center;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 16px;
+  margin-bottom: 16px;
+}
+.tg-avatar {
+  border-radius: 50%;
+  width: 64px;
+  border: 2px solid var(--accent);
+}
+.tg-message {
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px;
+  margin: 12px 0;
+  background: var(--bg);
+}
+.tg-footer {
+  font-size: 0.8em;
+  color: #8b949e;
+  margin-top: 8px;
+}
+img {
+  max-width: 100%;
+  border-radius: 8px;
+}
 </style>
-<div class="tg-mirror">
-<div class="tg-header">
 """
+    output = style_block
+    output += '<div class="tg-mirror">\n'
+    output += '<div class="tg-header">\n'
     if avatar:
-        theme_style += f'<img src="{avatar}" class="tg-avatar"/><br/>'
-    theme_style += f"""
-<h1>📡 {title}</h1>
-<p><strong>@{channel}</strong> · 👥 {members} عضو</p>
-<p><em>{desc}</em></p>
-<p>🕐 آخرین بروزرسانی: <code>{fetch_time_str}</code></p>
-<p><a href="https://t.me/{channel}" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
-</div>
-<hr/>
-"""
+        output += f'<img src="{avatar}" class="tg-avatar"/><br/>\n'
+    output += f'<h1>📡 {title}</h1>\n'
+    output += f'<p><strong>@{channel}</strong> · 👥 {members} عضو</p>\n'
+    if desc:
+        output += f'<p><em>{desc}</em></p>\n'
+    output += f'<p>🕐 آخرین بروزرسانی: <code>{fetch_time_str}</code></p>\n'
+    output += f'<p><a href="https://t.me/{channel}" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>\n'
+    output += '</div>\n<hr/>\n'
 
     for m in messages:
-        theme_style += '<div class="tg-message">'
-        theme_style += f'<!-- msg_id: {m["id_num"]} -->'
+        output += '<div class="tg-message">\n'
+        output += f'<!-- msg_id: {m["id_num"]} -->\n'
         if m.get("forwarded_from"):
-            theme_style += f'<blockquote>↪ فوروارد از: <strong>{m["forwarded_from"]}</strong></blockquote>'
+            output += f'<blockquote>↪ فوروارد از: <strong>{m["forwarded_from"]}</strong></blockquote>\n'
         if len(m.get("album", [])) > 1:
             for idx, ph in enumerate(m["album"]):
-                theme_style += f'<p><img src="{ph}" alt="photo {idx+1}"/></p>'
+                output += f'<p><img src="{ph}" alt="photo {idx+1}"/></p>\n'
         elif m.get("photo"):
-            theme_style += f'<p><img src="{m["photo"]}" alt="photo"/></p>'
+            output += f'<p><img src="{m["photo"]}" alt="photo"/></p>\n'
         if m.get("video"):
-            theme_style += f'<p>🎬 <a href="{m["video"]}" target="_blank">دانلود ویدیو</a></p>'
+            output += f'<p>🎬 <a href="{m["video"]}" target="_blank">دانلود ویدیو</a></p>\n'
         if m.get("doc_title"):
-            theme_style += f'<p>📄 <strong>{m["doc_title"]}</strong> <code>{m["doc_extra"]}</code></p>'
+            output += f'<p>📄 <strong>{m["doc_title"]}</strong> <code>{m["doc_extra"]}</code></p>\n'
         if m.get("poll_question"):
-            theme_style += f'<p>📊 <strong>{m["poll_question"]}</strong></p><ul>'
+            output += f'<p>📊 <strong>{m["poll_question"]}</strong></p><ul>\n'
             for opt in m["poll_options"]:
-                theme_style += f'<li>{opt}</li>'
-            theme_style += '</ul>'
+                output += f'<li>{opt}</li>\n'
+            output += '</ul>\n'
         if m.get("text"):
             text = m["text"].replace("\\", "\\\\").replace("`", "\\`")
-            theme_style += f'<p>{text}</p>'
+            output += f'<p>{text}</p>\n'
         footer_parts = []
         if m.get("views"):
             footer_parts.append(f'👁 {m["views"]}')
@@ -280,11 +293,11 @@ def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetc
         elif m.get("date"):
             footer_parts.append(m["date"])
         if footer_parts:
-            theme_style += f'<div class="tg-footer">{" · ".join(footer_parts)}</div>'
-        theme_style += '</div>'
+            output += f'<div class="tg-footer">{" · ".join(footer_parts)}</div>\n'
+        output += '</div>\n'
 
-    theme_style += '</div>'
-    return theme_style
+    output += '</div>\n'
+    return output
 
 def update_channels_list(new_channel: str):
     list_file = Path("channels.txt")
@@ -315,7 +328,7 @@ def build_index_markdown():
             if match:
                 last_update = match.group(1)
             else:
-                # fallback to file modification time (local)
+                # fallback to file modification time
                 mtime = datetime.fromtimestamp(md_file.stat().st_mtime)
                 # convert to jalali for consistency
                 try:
@@ -353,7 +366,7 @@ def main():
 
     # زمان بروزرسانی به شمسی و تهران
     now_utc = datetime.utcnow()
-    now_tehran = now_utc + timedelta(hours=3, minutes=30)
+    now_tehran = utc_to_tehran(now_utc)
     jnow = jdatetime.datetime.fromgregorian(datetime=now_tehran)
     fetch_time_str = jnow.strftime("%Y-%m-%d %H:%M:%S")
 
