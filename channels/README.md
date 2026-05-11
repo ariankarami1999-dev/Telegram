@@ -2,11 +2,11 @@
 
 | کانال | آخرین بروزرسانی |
 |-------|----------------|
-| [@iaghapour](./iaghapour.md) | 1405-02-21 14:41 |
-| [@alonews](./alonews.md) | 1405-02-21 14:41 |
-| [@withyashar](./withyashar.md) | 1405-02-21 14:41 |
-| [@akhbarefori](./akhbarefori.md) | 1405-02-21 14:41 |
-| [@naya_foriraq](./naya_foriraq.md) | 1405-02-21 14:41 |
+| [@iaghapour](./iaghapour.md) | 1405-02-21 14:48 |
+| [@alonews](./alonews.md) | 1405-02-21 14:48 |
+| [@withyashar](./withyashar.md) | 1405-02-21 14:48 |
+| [@akhbarefori](./akhbarefori.md) | 1405-02-21 14:48 |
+| [@naya_foriraq](./naya_foriraq.md) | 1405-02-21 14:48 |
 
 ---
 ✨ این لیست هر ۲ ساعت خودکار بروز می‌شود. برای بروزرسانی دستی همه کانال‌ها، فیلد channel را خالی بگذارید.
