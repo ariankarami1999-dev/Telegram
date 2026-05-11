@@ -3,32 +3,39 @@ import os
 import re
 import sys
 import time
-import hashlib
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 
 import requests
+import jdatetime
+import pytz
 from bs4 import BeautifulSoup
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
     "Accept-Language": "en-US,en;q=0.9",
 }
+TEHRAN_TZ = pytz.timezone('Asia/Tehran')
+
+def to_jalali_str(dt_utc: datetime) -> str:
+    """Convert UTC datetime to Jalali (Shamsi) with Tehran timezone and return formatted string."""
+    dt_tehran = dt_utc.astimezone(TEHRAN_TZ)
+    jd = jdatetime.datetime.fromgregorian(datetime=dt_tehran)
+    return jd.strftime("%H:%M · %d %B %Y")  # like "۱۴:۳۰ · ۲۲ اردیبهشت ۱۴۰۴"
 
 def parse_message(el) -> Dict[str, Any]:
     msg = {}
     msg_id = el.get("data-post", "")
-    msg["id"] = msg_id   # format: "channel/12345"
-    # extract numeric id
+    msg["id"] = msg_id
     msg["id_num"] = int(msg_id.split("/")[-1]) if msg_id else 0
 
     date_el = el.select_one(".tgme_widget_message_date time")
     if date_el:
         raw = date_el.get("datetime", "")
         try:
-            dt = datetime.fromisoformat(raw.replace("Z", "+00:00"))
-            msg["date"] = dt.strftime("%H:%M · %d %b %Y")
+            dt_utc = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+            msg["date"] = to_jalali_str(dt_utc)
         except:
             msg["date"] = raw
     else:
@@ -87,11 +94,6 @@ def parse_message(el) -> Dict[str, Any]:
     return msg
 
 def fetch_channel(channel: str, limit: int, after_id: Optional[int] = None):
-    """
-    Fetch messages from a Telegram channel.
-    If after_id is given, fetch only messages newer than that ID (incremental update).
-    Otherwise fetch up to 'limit' most recent messages.
-    """
     messages = []
     channel_info = {"name": channel, "title": "", "description": "", "avatar": "", "members": ""}
     base_url = f"https://t.me/s/{channel}"
@@ -99,8 +101,6 @@ def fetch_channel(channel: str, limit: int, after_id: Optional[int] = None):
 
     print(f"[+] Fetching @{channel} (limit={limit}, after_id={after_id})")
 
-    # For incremental update: we collect messages until we hit the after_id
-    # We'll fetch pages until we have no more new messages or reach limit
     fetched_new = 0
     stop = False
 
@@ -116,7 +116,6 @@ def fetch_channel(channel: str, limit: int, after_id: Optional[int] = None):
         soup = BeautifulSoup(resp.text, "lxml")
 
         if before is None:
-            # Parse channel info only once
             try:
                 title_el = soup.select_one(".tgme_channel_info_header_title")
                 if title_el:
@@ -143,7 +142,6 @@ def fetch_channel(channel: str, limit: int, after_id: Optional[int] = None):
             inner = b.select_one(".tgme_widget_message")
             if inner:
                 msg = parse_message(inner)
-                # If we have after_id and this message's id_num <= after_id, stop
                 if after_id is not None and msg["id_num"] <= after_id:
                     stop = True
                     break
@@ -152,52 +150,40 @@ def fetch_channel(channel: str, limit: int, after_id: Optional[int] = None):
         if not page_msgs:
             break
 
-        # New messages come in chronological order from oldest to newest on each page?
-        # Actually Telegram's 'before' pagination gives older messages first.
-        # To get newest first, we need to reverse.
-        # But we'll collect and later sort.
-        page_msgs.reverse()  # now newest first
+        page_msgs.reverse()
         messages = page_msgs + messages
         fetched_new += len(page_msgs)
 
-        # Get the oldest message ID on this page to use as 'before' for next page
         ids = [m["id_num"] for m in page_msgs if m["id_num"]]
         if not ids:
             break
-        before = min(ids) - 1  # go older
+        before = min(ids) - 1
 
         time.sleep(0.8)
 
-    # Limit to requested count (for initial fetch) or keep all new ones
     if after_id is None:
         messages = messages[-limit:]
     else:
-        # For incremental, we already stopped when we hit old messages
-        # Ensure we don't exceed limit (but limit is small like 20)
         messages = messages[:limit]
 
     print(f"    ✓ fetched {len(messages)} new messages")
     return messages, channel_info
 
 def get_latest_message_id_from_md(md_file: Path) -> Optional[int]:
-    """Extract the highest message ID from existing Markdown file."""
     if not md_file.exists():
         return None
     content = md_file.read_text(encoding="utf-8")
-    # Look for <!-- msg_id: 12345 --> comments
     matches = re.findall(r'<!-- msg_id: (\d+) -->', content)
     if matches:
         return max(int(x) for x in matches)
     return None
 
-def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetch_time: str) -> str:
-    """Generate GitHub Markdown with theme toggle and hidden IDs."""
+def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetch_time_str: str) -> str:
     title = channel_info.get("title") or f"@{channel}"
     members = channel_info.get("members", "")
     desc = channel_info.get("description", "")
     avatar = channel_info.get("avatar", "")
 
-    # CSS for dark/light (works on GitHub)
     theme_style = """
 <style>
   .tg-mirror {
@@ -258,7 +244,7 @@ def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetc
 <h1>📡 {title}</h1>
 <p><strong>@{channel}</strong> · 👥 {members} عضو</p>
 <p><em>{desc}</em></p>
-<p>🕐 آخرین بروزرسانی: <code>{fetch_time}</code></p>
+<p>🕐 آخرین بروزرسانی: <code>{fetch_time_str}</code></p>
 <p><a href="https://t.me/{channel}" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
@@ -266,7 +252,6 @@ def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetc
 
     for m in messages:
         theme_style += '<div class="tg-message">'
-        # Hidden ID for incremental update
         theme_style += f'<!-- msg_id: {m["id_num"]} -->'
         if m.get("forwarded_from"):
             theme_style += f'<blockquote>↪ فوروارد از: <strong>{m["forwarded_from"]}</strong></blockquote>'
@@ -280,10 +265,10 @@ def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetc
         if m.get("doc_title"):
             theme_style += f'<p>📄 <strong>{m["doc_title"]}</strong> <code>{m["doc_extra"]}</code></p>'
         if m.get("poll_question"):
-            theme_style += f'<p>📊 <strong>{m["poll_question"]}</strong><br/><ul>'
+            theme_style += f'<p>📊 <strong>{m["poll_question"]}</strong></p><ul>'
             for opt in m["poll_options"]:
                 theme_style += f'<li>{opt}</li>'
-            theme_style += '</ul></p>'
+            theme_style += '</ul>'
         if m.get("text"):
             text = m["text"].replace("\\", "\\\\").replace("`", "\\`")
             theme_style += f'<p>{text}</p>'
@@ -327,7 +312,17 @@ def build_index_markdown():
         if md_file.exists():
             content = md_file.read_text(encoding="utf-8")
             match = re.search(r'🕐 آخرین بروزرسانی: `(.*?)`', content)
-            last_update = match.group(1) if match else "نامشخص"
+            if match:
+                last_update = match.group(1)
+            else:
+                # fallback to file modification time (local)
+                mtime = datetime.fromtimestamp(md_file.stat().st_mtime)
+                # convert to jalali for consistency
+                try:
+                    jmtime = jdatetime.datetime.fromgregorian(datetime=mtime)
+                    last_update = jmtime.strftime("%Y-%m-%d %H:%M")
+                except:
+                    last_update = mtime.strftime("%Y-%m-%d %H:%M")
             lines.append(f"| [@{ch}](./{ch}.md) | {last_update} |")
         else:
             lines.append(f"| @{ch} | ❌ هنوز گرفته نشده |")
@@ -339,15 +334,12 @@ def main():
     manual_channel = os.getenv("INPUT_CHANNEL", "").strip()
     manual_count = os.getenv("INPUT_COUNT", "100").strip()
 
-    # Determine list of channels to process
     if manual_channel:
         channels_list = [manual_channel]
         update_channels_list(manual_channel)
-        # For manually added channel, fetch up to 100 messages initially
         limit = max(10, min(int(manual_count), 200))
         incremental = False
     else:
-        # Scheduled run or bulk update (channel field empty)
         list_file = Path("channels.txt")
         if not list_file.exists():
             print("[!] No channels.txt found")
@@ -356,11 +348,14 @@ def main():
         if not channels_list:
             print("[!] channels.txt is empty")
             sys.exit(0)
-        # For bulk updates, only fetch 20 newest messages per channel
         limit = 20
         incremental = True
 
-    fetch_time = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    # زمان بروزرسانی به شمسی و تهران
+    now_utc = datetime.utcnow()
+    now_tehran = now_utc + timedelta(hours=3, minutes=30)
+    jnow = jdatetime.datetime.fromgregorian(datetime=now_tehran)
+    fetch_time_str = jnow.strftime("%Y-%m-%d %H:%M:%S")
 
     for ch in channels_list:
         print("\n" + "="*50)
@@ -375,18 +370,10 @@ def main():
 
             messages, info = fetch_channel(ch, limit, after_id=after_id)
             if not messages:
-                print(f"[!] No new messages for @{ch}")
-                # Still update the file to refresh timestamp? Optional: keep old content.
+                print(f"[!] No new messages for @{ch}. Skipping update (keeping old file).")
                 continue
 
-            # Merge with existing content if incremental?
-            # For simplicity, we regenerate entire file with new messages + old ones?
-            # But incremental should only add new messages. However since we only keep last 20, we can just replace.
-            # But if user wants to keep history, that's different. Based on request, they only want latest 20.
-            # So we just overwrite with the new messages (which are the most recent up to limit=20).
-            # But what if there are more than 20 new messages? We limit to 20.
-            # Good.
-            md_content = render_markdown(messages, info, ch, fetch_time)
+            md_content = render_markdown(messages, info, ch, fetch_time_str)
             md_file.write_text(md_content, encoding="utf-8")
             print(f"[✓] Saved {md_file} with {len(messages)} messages")
         except Exception as e:
