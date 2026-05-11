@@ -1,19 +1,19 @@
-name: 📡 Fetch Telegram Channels
+name: 📡 تلگرام بدون فیلتر آرین
 
 on:
   workflow_dispatch:
     inputs:
       channel:
-        description: 'Channel username (without @)'
+        description: 'نام کانال (بدون @) - خالی بگذارید برای بروزرسانی همه کانال‌ها'
         required: false
         type: string
       count:
-        description: 'Number of messages to fetch (max 200)'
+        description: 'تعداد پیام (حداکثر 200)'
         required: false
         default: '100'
         type: string
   schedule:
-    - cron: '0 */2 * * *'   # every 2 hours
+    - cron: '0 */2 * * *'   # هر ۲ ساعت
 
 permissions:
   contents: write
@@ -51,5 +51,5 @@ jobs:
           git config user.name "TG Mirror Bot"
           git config user.email "bot@tgmirror.local"
           git add channels/ channels.txt
-          git diff --staged --quiet || git commit -m "🔄 Auto-update channels at $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git diff --staged --quiet || git commit -m "🔄 بروزرسانی کانال‌ها در $(date -u '+%Y-%m-%d %H:%M') UTC"
           git push
