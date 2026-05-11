@@ -3,7 +3,10 @@
 | کانال | آخرین بروزرسانی |
 |-------|----------------|
 | [@iaghapour](./iaghapour.md) | نامشخص |
-| [@alonews](./alonews.md) | 2026-05-11 14:10 UTC |
+| [@alonews](./alonews.md) | نامشخص |
+| [@withyashar](./withyashar.md) | نامشخص |
+| [@akhbarefori](./akhbarefori.md) | نامشخص |
+| [@naya_foriraq](./naya_foriraq.md) | نامشخص |
 
 ---
 ✨ این لیست هر ۲ ساعت خودکار بروز می‌شود. برای بروزرسانی دستی همه کانال‌ها، فیلد channel را خالی بگذارید.
