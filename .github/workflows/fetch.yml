@@ -1,17 +1,19 @@
-name: 📡 Fetch Telegram Channel
+name: 📡 Fetch Telegram Channels
 
 on:
   workflow_dispatch:
     inputs:
       channel:
         description: 'Channel username (without @)'
-        required: true
+        required: false
         type: string
       count:
-        description: 'Number of messages to fetch'
+        description: 'Number of messages to fetch (max 200)'
         required: false
         default: '100'
         type: string
+  schedule:
+    - cron: '0 */2 * * *'   # every 2 hours
 
 permissions:
   contents: write
@@ -31,27 +33,23 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4 lxml
 
-      - name: Create channels directory
-        run: mkdir -p channels
+      - name: Create directories
+        run: mkdir -p channels scripts
 
-      - name: Fetch channel
-        run: |
-          python scripts/fetch_channel.py \
-            --channel "${{ github.event.inputs.channel }}" \
-            --count "${{ github.event.inputs.count }}"
+      - name: Ensure channels list exists
+        run: touch channels.txt
 
-      - name: Check if files were created
+      - name: Fetch channel(s)
+        env:
+          INPUT_CHANNEL: ${{ github.event.inputs.channel }}
+          INPUT_COUNT: ${{ github.event.inputs.count }}
         run: |
-          if [ -z "$(ls -A channels/)" ]; then
-            echo "❌ Error: No files created in channels/ directory"
-            exit 1
-          fi
-          ls -lah channels/
+          python scripts/fetch_channel.py
 
-      - name: Commit to repo
+      - name: Commit changes
         run: |
-          git config user.name "TG Reader Bot"
-          git config user.email "bot@tgreader.local"
-          git add channels/
-          git commit -m "📡 @${{ github.event.inputs.channel }} — $(date +'%Y-%m-%d %H:%M') UTC"
+          git config user.name "TG Mirror Bot"
+          git config user.email "bot@tgmirror.local"
+          git add channels/ channels.txt
+          git diff --staged --quiet || git commit -m "🔄 Auto-update channels at $(date -u '+%Y-%m-%d %H:%M') UTC"
           git push
