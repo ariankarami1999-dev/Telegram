@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import argparse
 import os
 import re
 import sys
@@ -150,74 +149,114 @@ def fetch_channel(channel: str, limit: int):
     return messages, channel_info
 
 def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetch_time: str) -> str:
-    """Generate GitHub-flavored Markdown that looks like a modern chat."""
-    lines = []
+    """Generate GitHub-flavored Markdown with dark/light toggle using pure CSS."""
     title = channel_info.get("title") or f"@{channel}"
     members = channel_info.get("members", "")
     desc = channel_info.get("description", "")
     avatar = channel_info.get("avatar", "")
 
-    # Header
+    # CSS for theme toggle (works without JS, uses system preference as fallback)
+    theme_style = """
+<style>
+  /* Default dark theme (GitHub dark) */
+  .tg-mirror-theme {
+    --bg: #0d1117;
+    --text: #c9d1d9;
+    --border: #30363d;
+    --accent: #58a6ff;
+  }
+  /* Light theme overrides */
+  @media (prefers-color-scheme: light) {
+    .tg-mirror-theme {
+      --bg: #ffffff;
+      --text: #24292f;
+      --border: #d0d7de;
+      --accent: #0969da;
+    }
+  }
+  .tg-mirror-theme {
+    background: var(--bg);
+    color: var(--text);
+    padding: 12px;
+    border-radius: 12px;
+    margin-bottom: 16px;
+  }
+  .tg-header {
+    text-align: center;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 16px;
+  }
+  .tg-avatar {
+    border-radius: 50%;
+    width: 64px;
+    border: 2px solid var(--accent);
+  }
+  .tg-message {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 12px;
+    margin: 12px 0;
+  }
+  .tg-footer {
+    font-size: 0.8em;
+    color: #8b949e;
+    text-align: left;
+    margin-top: 8px;
+  }
+</style>
+<div class="tg-mirror-theme">
+<div class="tg-header">
+"""
+
     if avatar:
-        lines.append(f'<img src="{avatar}" width="70" style="border-radius:50%"/> <br/>\n')
-    lines.append(f"# 📡 {title}\n")
-    lines.append(f"**@{channel}**  ·  👥 {members} عضو  \n")
-    if desc:
-        lines.append(f"> {desc}  \n")
-    lines.append(f"🕐 آخرین بروزرسانی: `{fetch_time}`  \n")
-    lines.append(f"[![باز کردن در تلگرام](https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/{channel})  \n")
-    lines.append("---\n")
+        theme_style += f'<img src="{avatar}" class="tg-avatar"/><br/>'
+    theme_style += f"""
+<h1>📡 {title}</h1>
+<p><strong>@{channel}</strong> · 👥 {members} عضو</p>
+<p><em>{desc}</em></p>
+<p>🕐 آخرین بروزرسانی: <code>{fetch_time}</code></p>
+<p><a href="https://t.me/{channel}" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
+</div>
+<hr/>
+"""
 
     for m in messages:
-        # Forwarded
+        theme_style += '<div class="tg-message">'
         if m.get("forwarded_from"):
-            lines.append(f"> ↪ **فوروارد از:** {m['forwarded_from']}  \n")
-
-        # Album (multiple photos)
+            theme_style += f'<blockquote>↪ فوروارد از: <strong>{m["forwarded_from"]}</strong></blockquote>'
         if len(m.get("album", [])) > 1:
             for idx, ph in enumerate(m["album"]):
-                lines.append(f"![photo {idx+1}]({ph})  \n")
+                theme_style += f'<p><img src="{ph}" alt="photo {idx+1}" style="max-width:100%; border-radius:8px;"/></p>'
         elif m.get("photo"):
-            lines.append(f"![photo]({m['photo']})  \n")
-
-        # Video link (since videos can't be embedded in GitHub MD)
+            theme_style += f'<p><img src="{m["photo"]}" alt="photo" style="max-width:100%; border-radius:8px;"/></p>'
         if m.get("video"):
-            lines.append(f"🎬 **[دانلود ویدیو]({m['video']})**  \n")
-
-        # Document
+            theme_style += f'<p>🎬 <a href="{m["video"]}" target="_blank">دانلود ویدیو</a></p>'
         if m.get("doc_title"):
-            lines.append(f"📄 **{m['doc_title']}** `{m['doc_extra']}`  \n")
-
-        # Poll
+            theme_style += f'<p>📄 <strong>{m["doc_title"]}</strong> <code>{m["doc_extra"]}</code></p>'
         if m.get("poll_question"):
-            lines.append(f"📊 **{m['poll_question']}**  \n")
-            for opt in m.get("poll_options", []):
-                lines.append(f"- {opt}  \n")
-            lines.append("\n")
-
-        # Text (escape markdown characters)
+            theme_style += f'<p>📊 <strong>{m["poll_question"]}</strong><br/><ul>'
+            for opt in m["poll_options"]:
+                theme_style += f'<li>{opt}</li>'
+            theme_style += '</ul></p>'
         if m.get("text"):
             text = m["text"].replace("\\", "\\\\").replace("`", "\\`")
-            lines.append(f"{text}  \n")
-
-        # Footer (views + date link)
+            theme_style += f'<p>{text}</p>'
         footer_parts = []
         if m.get("views"):
-            footer_parts.append(f"👁 {m['views']}")
+            footer_parts.append(f'👁 {m["views"]}')
         if m.get("date") and m.get("url"):
-            footer_parts.append(f"[{m['date']}]({m['url']})")
+            footer_parts.append(f'<a href="{m["url"]}" target="_blank">{m["date"]}</a>')
         elif m.get("date"):
             footer_parts.append(m["date"])
-
         if footer_parts:
-            lines.append(f"<sub>{' · '.join(footer_parts)}</sub>\n")
+            theme_style += f'<div class="tg-footer">{" · ".join(footer_parts)}</div>'
+        theme_style += '</div>'
 
-        lines.append("---\n")
-
-    return "\n".join(lines)
+    theme_style += '</div>'
+    return theme_style
 
 def update_channels_list(new_channel: str):
-    """Append channel to channels.txt if not already there."""
     list_file = Path("channels.txt")
     if not list_file.exists():
         list_file.write_text("")
@@ -230,7 +269,6 @@ def update_channels_list(new_channel: str):
         print(f"[*] {new_channel} already in channels list")
 
 def build_index_markdown():
-    """Generate channels/README.md listing all channels."""
     channels_dir = Path("channels")
     channels_dir.mkdir(exist_ok=True)
     list_file = Path("channels.txt")
@@ -244,7 +282,6 @@ def build_index_markdown():
     for ch in channels:
         md_file = channels_dir / f"{ch}.md"
         if md_file.exists():
-            # try to extract last update time from the file
             content = md_file.read_text(encoding="utf-8")
             match = re.search(r'🕐 آخرین بروزرسانی: `(.*?)`', content)
             last_update = match.group(1) if match else "نامشخص"
@@ -260,10 +297,12 @@ def main():
     manual_count = os.getenv("INPUT_COUNT", "100").strip()
 
     if manual_channel:
+        # manual update for a specific channel
         channels_list = [manual_channel]
         update_channels_list(manual_channel)
         msg_limit = max(10, min(int(manual_count), 200))
     else:
+        # scheduled run OR manual "all channels" (when channel input is empty)
         list_file = Path("channels.txt")
         if not list_file.exists():
             print("[!] No channels.txt found, nothing to do")
@@ -272,7 +311,7 @@ def main():
         if not channels_list:
             print("[!] channels.txt is empty")
             sys.exit(0)
-        msg_limit = 100   # default for scheduled runs
+        msg_limit = 100   # default for scheduled or bulk update
 
     fetch_time = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
