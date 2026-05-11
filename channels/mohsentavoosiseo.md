@@ -55,7 +55,7 @@ img {
 <h1>📡 آموزش سئو محسن طاوسی</h1>
 <p><strong>@mohsentavoosiseo</strong> · 👥 7.35K عضو</p>
 <p><em>اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</em></p>
-<p>🕐 آخرین بروزرسانی: <code>1405-02-22 00:41:26</code></p>
+<p>🕐 آخرین بروزرسانی: <code>1405-02-22 02:16:28</code></p>
 <p><a href="https://t.me/mohsentavoosiseo" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
@@ -78,7 +78,7 @@ https://t.me/mohsentavoosiseo/633
 https://t.me/mohsentavoosiseo/634
 https://t.me/mohsentavoosiseo/639
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 1.43K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">18:48 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 1.44K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">18:48 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 679 -->
@@ -95,7 +95,7 @@ https://t.me/mohsentavoosiseo/639
 ولی بهتره ما جهانی فکر کنیم و کل کره زمین رو ببینیم. جهت خط خطی کردن ذهن هایی که ناخواسته محدود شدند، یاداور میشم:
 خارج شامل هند، بنگلادش، نپال، سومالی، کنگو، هنگ کنگ، فیلیپین، میانمار، تانزانیا، گامبیا، بوسنی هرزگوین، مغولستان، لیتوانی، لیبی، مصر، غزه و رام الله و کرانه باختری، صربستان، مراکش، قرقیزستان، زامبیا، شیلی، بولیوی، گواتمالا و... هم هست و این ها هم خارج محسوب میشن و جمع کوچکی از سرزمین ها و کشور های غیر انگلیسی زبان هستند!
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 1.52K · <a href="https://t.me/mohsentavoosiseo/678" target="_blank">11:42 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 1.53K · <a href="https://t.me/mohsentavoosiseo/678" target="_blank">11:42 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 677 -->
@@ -108,7 +108,7 @@ https://t.me/mohsentavoosiseo/639
 خلاصه: هم کلاد درسته هم کلود. آ و اُ . کوتاه.
 نظر شخصی: برای اینکه با فضای ابری قاطی نکنیم، کلاد بهتره. چه برای مخاطب انگلیسی چه فارسی. تلفظ رسمی انگلیسیش هم کلاد هست.
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 1.49K · <a href="https://t.me/mohsentavoosiseo/677" target="_blank">11:34 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 1.5K · <a href="https://t.me/mohsentavoosiseo/677" target="_blank">11:34 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 676 -->
@@ -127,7 +127,7 @@ https://t.me/mohsentavoosiseo/639
 <!-- msg_id: 675 -->
 <p>🟢
 اکانت ChatGPT قبلی مبلغ 1 میلیون تومن بود که یک workspace اضافه میشد به اکانت فعلی خود شما و موجودیش فعلا تموم شد.  الان اکانت ChatGPT Plus یک ماهه موجود هست که کلا یک اکانت user pass داده میشه و شما می تونید پسوردش رو عوض کنید و استفاده کنید. مبلغ: 1700.…</p>
-<div class="tg-footer">👁 2.17K · <a href="https://t.me/mohsentavoosiseo/675" target="_blank">15:51 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.18K · <a href="https://t.me/mohsentavoosiseo/675" target="_blank">15:51 · 16 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 674 -->
@@ -504,7 +504,7 @@ https://parspack.com/cdn
 راستی میرور و sync نیست! یعنی هاست داخل من عوض شه خارج نمیشه. اگه فروشگاهی باشید سبد خرید و سفارش های هاست خارجتون با داخلتون هماهنگ نیست. من روش هماهنگ رو بلد نیستم. برای من جداست. اهمیتی هم برام نداره.
 اگرم فروشگاه باشید اکه بتونید سفارش هایی که با وی پی ان و بی وی ان مدیریت کنید هم کار تمومه. اکثرا دسترسی از خارج رو برای گوگل میخوان و سینک بودن براشون مهم نیست. ملاک رو میتونید دیتای ایران در نظر بگیرید.
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 4.06K · <a href="https://t.me/mohsentavoosiseo/623" target="_blank">16:51 · 21 Farvardin 1405</a></div>
+<div class="tg-footer">👁 4.07K · <a href="https://t.me/mohsentavoosiseo/623" target="_blank">16:51 · 21 Farvardin 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 622 -->
@@ -526,7 +526,7 @@ https://parspack.com/cdn
 <div class="tg-message">
 <!-- msg_id: 619 -->
 <p>بیشتر از آمادگی بابت قطعی های مقطعی اینترنت ایران و دسترسی از خارج،  در فکر آمادگی برای تغییر قوانینی هستم که در سود و زیان وب سایت ها موثره و بازی رو عوض میکنه. آیا خدمات و محصولات شما بعد از تغییرات بزرگ همچنان تقاضا یا سود داره‌؟  بر خلاف تصور عموم، به…</p>
-<div class="tg-footer">👁 4.24K · <a href="https://t.me/mohsentavoosiseo/619" target="_blank">17:27 · 18 Esfand 1404</a></div>
+<div class="tg-footer">👁 4.25K · <a href="https://t.me/mohsentavoosiseo/619" target="_blank">17:27 · 18 Esfand 1404</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 616 -->
@@ -739,7 +739,7 @@ https://www.linkedin.com/posts/mohsentavoosi_aebaeoaew-activity-7409525124615348
 </div>
 <div class="tg-message">
 <!-- msg_id: 591 -->
-<p><img src="https://cdn4.telesco.pe/file/SuucceRxUSlzZYlxpSS0yxxOxGeBa_k5X0AKDCMiOjuJl1A27OJqwZhatDrz0M1P1CX3TFmrPVBffVO9m-VRMZHVrsHGTCvvzinc4p7zueOSZR57sABi0-WMwngccXYf0a0lNrcbTQW9WzU4wEcGRQaXCUUhQzWWYCSgoRtB3KKLhNQIgX-WO9TSx-nOLY-h_vw7iYVQgboObLK2FoT9aMzsicMgCuc72PgPjhlpQp-EFv7UhkLcoEz-mVf0eVm4SUC_BrRyvPQ9hle_nEGaYe-T_Lfkh2UgK2F-l2bbup6YknzCmk1tmeYQmTRAuNuQs0z4E7LYIQlnJWeJLN-RfQ.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/FNNHm6kfJBmgZI15uqnX1Tfp2bikp-5p5SmMC7kq-w-ivQ0PQ-Ve9EDUUcfgUoNH2X7GXfatwGxFYusd60HE4_amLNj1rCdRInb310yS3rTpadim2EOTBqPRRCfbub6dtslZaZwGlxsnMTuW_l5UZIF1pbkYbfbSQA6EQmTb5SAMfUSlMUsVYXxeipfrUaa5vFdFifYj691Cke_Sw7R-CfH6rtCiwQcfPNTyAiRnBMcQcnBEkPjJnNMTbrLiEV9pJNT6mO_nPVNPxDR2DAIxoLYfu1xHOjlu27Y6jm_9V-krgK8H1aWVxeGbV1AKqWU1VojhIMC1X4KYn89It99plQ.jpg" alt="photo"/></p>
 <p>https://eseminar.tv/webinar/%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B3%D8%A6%D9%88%D9%84%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%DB%8C-%DB%B4
 در این رویداد حضوری، قراره من و جمعی از دوستان در پنل درباره بحث قیمت و بازدهی رپورتاژ ها در سئو از نظر فنی و تجاری صحبت کنیم.
 من برگزار کننده نیستم و صرفا یکی از اعضای پنل هستم.</p>
@@ -761,7 +761,7 @@ Disavow & Ahrefs
 </div>
 <div class="tg-message">
 <!-- msg_id: 587 -->
-<p><img src="https://cdn4.telesco.pe/file/sxKOTRUQvr7GeLjQIJzGoR3Jne19vs9kFcQUYy2X1ux0q3zFnkZJ1kz-P2SavDq2lsNvNCsl6E84T5DKquqZrMNAmtDVpgCkvvPG2FXxb8iTjeTbo4ozCqaN5pEon_BUeq5UMfbFYiUEGIMCqOJvmvAe90_TOBGXbUccelPk5uT822dh7Lceu5CiOmy4jdmgxaZ9eHQNzKWKZixtRQ3QuTvxKlDojAC9qdC9t_Oaazv_SRER35SzadtEAqMtO-TYCXdcWImObN6a7PxTf7T4FIo4t6JI0CJr724Ea93eYUJwvz2AO9SJrXsMCaMunCK4OnX_w3nmqDXqDjO36aEiBA.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/ugJY-xP57nfzps6mpLWL71Bmpx8yOgcDcdPAE0RWTP6slCtkVmhLCV1NJ38bSQHrKWxQkbEz-h7OGADQkzFMxfIcK37zxHHf5VD6XcK-EUHQq8oIxKDxMQ9ibUEBmc0_h7TrZEQVOw0GkvBR2LcwJbdv8_xnnke7k-jkvjjPkl3hcOChPRYeU-SO76F37E1mPBJfdhucB_a3nUB8V1fVUXd29x_fYRaGPGm5VegEfSl4eDwDUw1Bp7p8Mdei5b9yCZs8EdWoT6FEqsE2aj9eKfjKQmkdoqHLwCIhLzkzezj4VStMvXNdT42dRCmyLRv63SybBfG8rUh_oWBHtNWsfg.jpg" alt="photo"/></p>
 <p>تا ۷۸٪ تخفیف خرید رپورتاژ (انواع بک لینک)
 تا ۳۵٪ تخفیف سفارش محتوا
 از ۹ تا ۲۲ آذر
@@ -911,7 +911,7 @@ https://youtu.be/P9NGXdQF1Ks
 </div>
 <div class="tg-message">
 <!-- msg_id: 567 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/a79e28f998.mp4?token=NywguxoZT0Olb9R9Z4L3YpKAfSkjjZ6WQASwLzKMDSaPXwQP81UOSDKiWEF_wf-jG-YRWU-1kHjBvbIWm6gp_6-iO57MM-27a28F4vzfrEIvcNC2kJ0pBsoXp_Ag0LQRukC6ljRe5xvHr5fgeTtr1qrQPSaEzT0pS1j_JBlqBIylBAe_uiCIMqW6rEBSbHc64qU-6tWt9a1l2qSrASokKZ3Qe0FbzSysP2zfJyWDXlFNe1CWrcxZroeZFVl6TAFB-NAxOhA1hV28m4Zr5P5cB6cd1Q3s3NF8t-9XSikBZVZ8j0S0ekFflN5dp7WMREypVmACNn1RXoXuunDCIbzR0IkPgBtnb1BfJuSZ0MTCI3_iNeTDwvKBoR_7W57YJBriAND0DhbKLZC80wibgmOAs5GYud4thvoPXDzL6RxQM8Pv72aBqOK1Z8T0iDU_JNZptWfvhC8nsCzSAKya90EqOcPe_R77exO5tSld8yGp9YOjW2joLjNjdzNkXKSrW5_YV-XYyR75XTGPTkWP7eN6VQW2JHUl3seuBXp3dLahLmQ8QfjkXFe9O4hEdhIewtIsa7QpthtSynxdug27nWYZ98oOWtbfcxHzLTXRmROLnWZNep5086rcea1yvdRsn8IXpmVamThlF_KtoX2iCgW7hwLxJPRSdZt-UBUJsIPEDLY" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/a79e28f998.mp4?token=K4LYjx3RF3VZYB50_LjFE_QI5A6WgeSyXZoo-VTh7uWOl1XdetLX90ohD9vW6as8VXXFAffzfizCJ6ITMSAiQXR2XcqWwI4B44x1PnQKoYPZ3J-IunZv8YSZKM-BxhpOLZ8Kz4XaD8aG9-O-43uYpL6AWgnL5IuSMqbWbayeOhKpiS7KvKAHebhBxOVzTX7oH4cBVe6waPPSohqBvB13vK_qIvZxdDlVym2ZoNx9jieLvtE1dwiKtXZbo9oUe6YfrzvQzg-ykyblPSgzgl78fV0K-3tzRAJTcspY9LOSs-6QMB8h22zg39GMq_jN4xu1ygnuOskTr-0X-2yH3khrYHYAo1XH2rQWHphO7UMAClY9V8ZdfeqVkdL2W2gchkJRnijxyztrtLXBg1do6cfrTPUXyKY-tON8DwClDbV3NawuM6BUO_swZuJgbAOUKXMrYNJ6U9exggyTcSdVIzdoSpFKOp0rxOYH0DkQBzm1ewjRaWZHl0cra4MeeTbmGX-L3gCLUf0NJ4cXdq1fyN3hddgzXy7hW9-UnhvWuiQnjmBT3mwz-eWsCAHhMxz8yYBzshCbp4j0IHMQzfgQ1Hw64WS-evfdHygCufWp53Tkt0sfrmxgbNEstWmy89IktcCRpdAUB3syIbJZcL1AGJ71PrVbRCFVRNUCD-QCiJdCOes" target="_blank">دانلود ویدیو</a></p>
 <p>🟢
 انتخاب عنوان رپورتاژ
 انکرتکست خیلی مهمه! مهمه معنیش این نیست که عین کیورد باشه!
@@ -995,7 +995,7 @@ https://mohsentavoosi.com/video/ابزار-رایگان-هوش-مصنوعی/
 </div>
 <div class="tg-message">
 <!-- msg_id: 553 -->
-<p><img src="https://cdn4.telesco.pe/file/kWHjPZkkaTurS2i9mY-v-5ukFcm3PMzMC3UIu51NeiBCRv5ESdgpEcvuZa7PjAdME8EqmpH5nGdqD177G7hklpUfThzgGgX1G-Kw3S2fi20f5uDQEf_HKxEj8d19qv16qotH7FpFbTSzSKJdPXFBe5STXGPgeIT7zLUsI5du3wvZ0_xzL4S-m9ZJCjxzZfJgxuegL7xdc4d0NIuEwgICS-VxJvcY7jFdP3y9_tN_ml-O40ah3EWMkdhMPJkO5eSQm8RqFPAWrH0eQg865IYUjPJCJNWoZrlpRQelcHUylUIbaQgzSJ1cC2baGjxr2WS2rKDjcknk0nBJWBjyQWQ08A.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/jawVhqyTnlPSVXhczzvl_YYcvVCbZpiAwY_QLmWBEgUtg5iPWzMmrX0jdWw_phWNEsAI5FQc5t3fgNkEsVmQY_etq4nzHepfkw9h4v1lQDI-Kb5am8B_8Rmisa2R62d46z7AUVCmlD9H-0n0khmKzjOVGsJDVSwm2e72uQjD4-SUoWRU2EU5Ozey0Wi2m6lnwIOOgwO3a7peQDul_rF2boP5-zAl9LrE8TGdtFjQ8sTMORZS7jSZgJba4nnE8IR1vvRaXLZdIPgjjAeBcPrIvz4Pwgdcf9RRL1xe1QIHapdXYbddU99xjlhDeMgZR27HUqzEmRKfO8-o69cE7Q04uA.jpg" alt="photo"/></p>
 <p>چرا پای برهنه؟ چون خیلی مبتدی هست. خیلی. از صفر مطلق. این یکی از ویدیو های دوره هست و بعد از این کم کم پیشرفته تر میشه.
 لینک:
 https://mohsentavoosi.com/video/n8n-zero-tutorial/
@@ -1004,7 +1004,7 @@ https://mohsentavoosi.com/video/n8n-zero-tutorial/
 </div>
 <div class="tg-message">
 <!-- msg_id: 552 -->
-<p><img src="https://cdn4.telesco.pe/file/TwgNRQCdo53hYo_V5CPQddgALfBgQ0H4KKz1qIGCPiKXWmn-WcaX5VdAXO9Ij5W84ywHPlXEWYIEKMWNl5x0Xu15rCsaYopMQTAPJcbqf6035OzgY27GsBNDHAJxkw-y3_Gp02oads230LhDC4J7B_7Thk3i_A51a7WdeoZS-4iVB1vRyC8EdOxjqxSdwpfH5emeCUVsYvfW67qsUdFGncHfOGbzwFyqTQcZ9mrpp8FTBF6HMl891oE-4Ml_jliNprBRO3MDLEBbralBKIkrxezCReByHYUKLMKyImUrJ1BQ8kIhGUyO2NKm4xeVDIipsAVOzXx31-JOH1UCVsXCGA.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/nyXBWILDUUfbVmAZ7F7ES6--x98UX4_kc_PukN6Kw_6bQrRXAGuYOFhRy0YCBB7kKo5aC0iSaIQIn1dOBYVTROYZFTBwbnaRoDpjUokmqa2HVjJJpGxOW9MKYOzvMVUpwxojEe5fsy-pqtVpBdC1apQxDODV_mq-Zh6o5otRp1hHw9IZk_3WnUC1d0NtPvupX8pZKxxGPnu7ufux-OAq5uVl_9QEY9IypRfm0kgpgj2Aq3ETaxraRhejO19MGY_w_Mv3gpaon9BqGrB9c9QVLeuyvz1tu94y3aRWIumRtqxweMaBCU6Xm9sfuJL7eFNarBsUb3mlN_v-E1dXdLQIMw.jpg" alt="photo"/></p>
 <p>من گفتم رپورتاژ کلاه سیاهه کلا. اگر فالو باشه.
 خیلی ها فکر کردن یعنی من گفتم نباید رپورتاژ بریم!
 خیلی ها هم فکر میکنن یعنی فقط نوفالو باید بریم!
