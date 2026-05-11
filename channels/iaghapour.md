@@ -55,7 +55,7 @@ img {
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p><strong>@iaghapour</strong> · 👥 50.4K عضو</p>
 <p><em>اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</em></p>
-<p>🕐 آخرین بروزرسانی: <code>1405-02-21 18:54:53</code></p>
+<p>🕐 آخرین بروزرسانی: <code>1405-02-21 19:01:16</code></p>
 <p><a href="https://t.me/iaghapour" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
@@ -946,7 +946,7 @@ IRCF
 <p>بچه‌ها حجم پیام‌ها اون‌قدر زیاده که اون عزیزی که به عنوان پشتیبان داره همکاری میکنه با ما واقعاً نمی‌رسه همه رو سریع بخونه یا جواب بده. شرمنده‌ی روی ماهتونیم و بابت این موضوع از همگی عذر می‌خوایم.
 🙏🏻
 🌹</p>
-<div class="tg-footer">👁 28.3K · <a href="https://t.me/iaghapour/2535" target="_blank">00:37 · 02 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 28.4K · <a href="https://t.me/iaghapour/2535" target="_blank">00:37 · 02 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2534 -->
@@ -1046,7 +1046,7 @@ v0.9.0
 👌
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 29K · <a href="https://t.me/iaghapour/2529" target="_blank">17:53 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 29.1K · <a href="https://t.me/iaghapour/2529" target="_blank">17:53 · 01 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2528 -->
@@ -1157,7 +1157,7 @@ v0.9.0
 فرنود به مشتریان اطمینان داده است که تمامی هزینه‌های آن‌ها به صورت کامل مسترد خواهد شد. وی در نهایت تاکید کرد که رسیدن به خط پایان به معنای بی‌ارزش بودن این راه نیست و کاموا یکی از مهم‌ترین تجربه‌های زندگی او باقی خواهد ماند.
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 27K · <a href="https://t.me/iaghapour/2518" target="_blank">23:33 · 30 Farvardin 1405</a></div>
+<div class="tg-footer">👁 27.1K · <a href="https://t.me/iaghapour/2518" target="_blank">23:33 · 30 Farvardin 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2517 -->
@@ -1399,7 +1399,7 @@ v0.9.0
 پ.ن: آدم می‌مونه چی بگه! بیشتر از چند ماهه که با این وضعیت، کلی کسب‌وکار رو به مرز نابودی کشوندن. حالا به جای اینکه بابت این خسارت‌ها شرمنده باشن، خیلی راحت میگن «فعلاً مصلحت نیست مردم اینترنت داشته باشن!»
 🆔
 @iaghapour</p>
-<div class="tg-footer">👁 35.9K · <a href="https://t.me/iaghapour/2505" target="_blank">21:01 · 28 Farvardin 1405</a></div>
+<div class="tg-footer">👁 36K · <a href="https://t.me/iaghapour/2505" target="_blank">21:01 · 28 Farvardin 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2504 -->
@@ -1426,7 +1426,7 @@ v0.9.0
 <p><img src="https://cdn4.telesco.pe/file/rSlfqbIu7TWsAJSnRaEtNX0nmHLQloSitNiXTUjItsMXTGMub2by88biW1cEYN19PMv9CkkPGTxmFws47AqMsvhhbDU6rSG24EtTD3IAfWLJzo97_1xoIfHt5u1o_SaFpd_9AWRTjqItc63QpfTJz2BpMBBo6HgSMOfHxbmwhBPkJtaylGIT0bmKSU8xEMAX5qR1X1WPcC25bUJHG2RPcytWDfv5KmOTVQC8GP9i4HFC-jRVphP30b56oH9yrITFQIiTRjtrZggcs4vlzzj6A4igh434Mf5u8L2yQhBffFMZJiegAg_d4rMgln8dCxEFIgQiy9GBSybA2G83wNPH6g.jpg" alt="photo"/></p>
 <p>پیشرفت کردیم و بعد 49 روز و 1152 ساعت سطح اتصال به 2 درصد رسیده.
 😡</p>
-<div class="tg-footer">👁 31.7K · <a href="https://t.me/iaghapour/2502" target="_blank">11:04 · 28 Farvardin 1405</a></div>
+<div class="tg-footer">👁 31.8K · <a href="https://t.me/iaghapour/2502" target="_blank">11:04 · 28 Farvardin 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 2501 -->

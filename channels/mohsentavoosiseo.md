@@ -55,7 +55,7 @@ img {
 <h1>📡 آموزش سئو محسن طاوسی</h1>
 <p><strong>@mohsentavoosiseo</strong> · 👥 7.35K عضو</p>
 <p><em>اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</em></p>
-<p>🕐 آخرین بروزرسانی: <code>1405-02-21 18:54:53</code></p>
+<p>🕐 آخرین بروزرسانی: <code>1405-02-21 19:01:16</code></p>
 <p><a href="https://t.me/mohsentavoosiseo" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
@@ -299,7 +299,7 @@ X.AI
 در جریان باشید
 🏴
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 2.96K · <a href="https://t.me/mohsentavoosiseo/648" target="_blank">21:32 · 06 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.97K · <a href="https://t.me/mohsentavoosiseo/648" target="_blank">21:32 · 06 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 647 -->

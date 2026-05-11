@@ -2,18 +2,18 @@
 
 | کانال | آخرین بروزرسانی |
 |-------|----------------|
-| [@Futball180TV](./Futball180TV.md) | 1405-02-21 18:54:53 |
-| [@IranProxyV2](./IranProxyV2.md) | 1405-02-21 18:54:53 |
-| [@akhbarefori](./akhbarefori.md) | 1405-02-21 18:54:53 |
-| [@alonews](./alonews.md) | 1405-02-21 18:54:53 |
-| [@danialtaherifar](./danialtaherifar.md) | 1405-02-21 18:54:53 |
-| [@iaghapour](./iaghapour.md) | 1405-02-21 18:54:53 |
-| [@mohsentavoosiseo](./mohsentavoosiseo.md) | 1405-02-21 18:54:53 |
-| [@naya_foriraq](./naya_foriraq.md) | 1405-02-21 18:54:53 |
-| [@news_hut](./news_hut.md) | 1405-02-21 18:54:53 |
-| [@persiana_Soccer](./persiana_Soccer.md) | 1405-02-21 18:54:53 |
+| [@Futball180TV](./Futball180TV.md) | 1405-02-21 19:01:16 |
+| [@IranProxyV2](./IranProxyV2.md) | 1405-02-21 19:01:16 |
+| [@akhbarefori](./akhbarefori.md) | 1405-02-21 19:01:16 |
+| [@alonews](./alonews.md) | 1405-02-21 19:01:16 |
+| [@danialtaherifar](./danialtaherifar.md) | 1405-02-21 19:01:16 |
+| [@iaghapour](./iaghapour.md) | 1405-02-21 19:01:16 |
+| [@mohsentavoosiseo](./mohsentavoosiseo.md) | 1405-02-21 19:01:16 |
+| [@naya_foriraq](./naya_foriraq.md) | 1405-02-21 19:01:16 |
+| [@news_hut](./news_hut.md) | 1405-02-21 19:01:16 |
+| [@persiana_Soccer](./persiana_Soccer.md) | 1405-02-21 19:01:16 |
 | @semanticradio | ❌ هنوز گرفته نشده |
-| [@withyashar](./withyashar.md) | 1405-02-21 18:54:53 |
+| [@withyashar](./withyashar.md) | 1405-02-21 19:01:16 |
 
 ---
 ✨ این لیست هر ۲ ساعت خودکار بروز می‌شود. برای بروزرسانی دستی همه کانال‌ها، فیلد channel را خالی بگذارید.

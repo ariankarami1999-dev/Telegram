@@ -55,10 +55,157 @@ img {
 <h1>📡 دانیال طاهری فر | آموزش سئو و دیجیتال مارکتینگ</h1>
 <p><strong>@danialtaherifar</strong> · 👥 1.56K عضو</p>
 <p><em>آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</em></p>
-<p>🕐 آخرین بروزرسانی: <code>1405-02-21 18:54:53</code></p>
+<p>🕐 آخرین بروزرسانی: <code>1405-02-21 19:01:16</code></p>
 <p><a href="https://t.me/danialtaherifar" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
+<div class="tg-message">
+<!-- msg_id: 928 -->
+<p>ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده   @danialtaherifar</p>
+<div class="tg-footer">👁 393 · <a href="https://t.me/danialtaherifar/928" target="_blank">20:51 · 01 Ordibehesht 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 927 -->
+<p><img src="https://cdn4.telesco.pe/file/YJjdDAYKp73w99snxE-RqycvtxwUweTCH1LDZtAmhNOl2IyqYcPsVhK8jL1cwbVoFMAfHg_NUPg8L6I7hHJPKLjL4poUWwySo3xRRwr0SJozDhrYAf39nZv9KoyfO0_IE8FCK-RAGZsgW4NS5xvyuOutLMoTkuK01TQAOHHLFf9vdAkQsd5aAXf7qUI2pRdae5gpHVPKUVZufppQIPWuzmrHYIdYozX531-GFuPzpKSspQMzpmkITLjmKtJSg3PwPpp3VjGC2-u7m1fYdxt3JqBxsayhhvBiJajcRU-DwhnWgscwH4iI_j9YjCkc3pA6H9hV6VfKmmeY0hHC8kxPLw.jpg" alt="photo"/></p>
+<p>ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده
+@danialtaherifar</p>
+<div class="tg-footer">👁 397 · <a href="https://t.me/danialtaherifar/927" target="_blank">20:47 · 01 Ordibehesht 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 926 -->
+<p>درسته که سرچ گوگل باز شده، اما هنوز سایت‌های ایرانی رو نمیبینه و عملاً همچنان از اینترنت حذفیم!
+😞
+🚫
+@danialtaherifar</p>
+<div class="tg-footer">👁 570 · <a href="https://t.me/danialtaherifar/926" target="_blank">18:34 · 27 Farvardin 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 925 -->
+<p><img src="https://cdn4.telesco.pe/file/fbckaW7qT5ffUy3BblaX8wV49vd2_RpQSRqvnolFcDHOEbaxKuH9ODBiik3d4TJFQzHNZtEVYCdTpuXHe2EVAKqWnmef4Z35qg0GpA9sfPCODekCFJiF67joabg-8R4UDqUJuVtRToChGCIA_J9S4326XtSmmneBxQ53N7vry8XeULS7rY5i3OqkZReUaBFWI46UedCM6Yo-EnEihpVg2BO0NWC5DipD4xdLlaNgqSfl-i6HRnk-hcYxO3vRu__PGlFAIg56wCkO_0F9y-W1hG5aI7UY9hzSOXXKmVe9_X_8v7h9wp_9QrgYPxiKhZVYSOoRSqjsEm-KhN4-CzDKrA.jpg" alt="photo"/></p>
+<p>درود
+ظاهرا دسترسی به یک سری دیتاسنترهای بین المللی برقرار شده.
+@danialtaherifar</p>
+<div class="tg-footer">👁 665 · <a href="https://t.me/danialtaherifar/925" target="_blank">16:23 · 24 Farvardin 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 924 -->
+<p><img src="https://cdn4.telesco.pe/file/NW7LPDqvF2DoDmEUapSITZzY8GwfiKvWX1bIAYzSVDv7s136W8kqJSsvN7RBVwO9-0ZJPaRyOLysGZ51kAN_2WFfG1iJ-oLlC5ymFc3awRnrrTyGEyG3pKWrb5w9hM94EAtKyDvMUCerVojiNMxFlpZi1p0j7TKVvezr9Ki-r5ZQOLVjrpkZozNNS_ISUqQqLhrowOAEQjgcqrPGYJHYlYFkI6nnKgdxDtM6H3i9Xx0wh-ietp5Inbrrqfd_UHLO0bp7e0xHTdZ16VMjyT9g_zNjmKyqS6ozU34xW6u66mdvdLXss60VrvX74fGEd9zuPMUwaHEyt6ljS9i2wlMxSw.jpg" alt="photo"/></p>
+<p>تبدیل ضربان قلب کسب‌وکارهای اینترنتی به یک «خط صاف» صفر...
+💔
+ما کسانی هستیم که زندگی‌مان، تخصص‌مان و آرزوهایمان به این «ریسمان نازک» وصل بود.
+این فقط یک نمودار نیست ... این، فریاد خاموشِ میلیاردها تومان سرمایه، هزاران ساعت کار و تلاش و امیدِ صدها نفری است که در این مدت، نابود شده‌اند.
+ما یاد گرفته بودیم با الگوریتم‌های گوگل بجنگیم، با رقبا رقابت کنیم، با «محدودیت‌های فنی» دست‌وپنجه نرم کنیم؛ اما هیچ‌وقت یاد نگرفتیم چطور با «قطع شدن» نفس بکشیم.
+بیش از یک ماه گذشت...
+یک ماه از روزی که «دسترسی آزاد» به اینترنت، تبدیل به یک «رویای شیرین» شد.
+آقایان مسئول! این اینترنت، برای ما «تفریح» نیست؛ «نفس» است. برای کسب و کارها، برای فروشگاه‌ها، برای خدماتی‌ها... برای همه ما.
+#قطع_اینترنت
+#سئو
+#دیجیتال_مارکتینگ
+#سرچ_کنسول
+#کسب_و_کار_اینترنتی
+#ایران
+@danialtaherifar</p>
+<div class="tg-footer">👁 863 · <a href="https://t.me/danialtaherifar/924" target="_blank">13:42 · 11 Farvardin 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 923 -->
+<p><img src="https://cdn4.telesco.pe/file/aRh3H4PBJY86Jtgv9rhz2CXhjoKiniP0rTJV9izC1dYCjoOhahWrEcELkvAoLNnHmP0D9w4MD9dUegEj6oMV1HUg-PCLUJqQyV1D-aYDjFBZoycPGTo10H_NC-B8wxuYFjp07Nn_IyS5aOwIi5VsUETtD6CauaQVEE1Sj6iENR-NcBKAJiJURrR-Mn9KmIwBFZ69WjcxwUJ8tZMdBXensnwdOkK64aY5GUfiPxKKwQfH2wVskYj5XJ9VyskYHT6dh5y6ahNJpC_fbHFEKgDQPClHjNaurzFKd_oHzYNTi3zGWCgEAF-sSwJg_4vGLMGQGB_p44MW53KK2BYd_Lw7_Q.jpg" alt="photo"/></p>
+<p>✅
+آپدیت هسته مارچ 2026 شروع شد.
+بختت ایرانی...
+@danialtaherifar</p>
+<div class="tg-footer">👁 739 · <a href="https://t.me/danialtaherifar/923" target="_blank">13:26 · 07 Farvardin 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 922 -->
+<p>✅
+از دیشب پیامی در فضای مجازی دست‌به‌دست می‌شود مبنی بر اینکه ارائه «اینترنت پرو» توسط همراه اول آغاز شده است؛ موضوع را بررسی کردیم.
+طی تماسی که با پشتیبانی همراه اول داشتم، مشخص شد که این سرویس در حال حاضر فقط برای مشترکین سازمانی و اصناف ارائه می‌شود. در واقع سازمان‌ها می‌توانند فهرستی از اعضای زیرمجموعه خود را ارائه دهند و سرویس تنها برای آن افراد قابل تهیه خواهد بود.
+در حال حاضر برای عموم کاربران چنین سرویسی ارائه نمی‌شود (و امیدواریم هیچ‌وقت هم نشود؛ وگرنه رسماً با پدیده «اینترنت طبقاتی» روبرو خواهیم شد که بازگرداندن آن به شرایط عادی، بسیار دشوار و شاید نشدنی باشد).
+@danialtaherifar</p>
+<div class="tg-footer">👁 744 · <a href="https://t.me/danialtaherifar/922" target="_blank">17:39 · 06 Farvardin 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 921 -->
+<p>درود عزیزان
+نوروز رو به همتون شادباش میگم
+❤️
+امیدوارم که سال بسیار خوبی در انتظارمون‌ باشه و بعد از سال سختی که گذروندیم، کسب‌وکار دیجیتال حسابی رونق بگیره و یواش‌یواش درهای بین‌المللی به روی کسب‌وکارهای ایرانی باز بشه. سالی که در پیش داریم،میتونه فرصتی باشه برای جبران، برای یادگیری بیشتر و برای رسیدن به اهدافی که شاید سال پیش دور از دسترس به نظر می‌رسیدند.
+سال نو مبارک و ایامتون به کام.
+با آرزوی بهترین‌ها، دانیال طاهری‌فر
+@danialtaherifar</p>
+<div class="tg-footer">👁 708 · <a href="https://t.me/danialtaherifar/921" target="_blank">19:38 · 29 Esfand 1404</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 920 -->
+<p>در حال حاضر بیشتر VPN فروش ها کلاهبردار هستن!  مراقب باشید از هر کسی خرید نکنید، مگر از قبل آشنا باشید.  @danialtaherifar</p>
+<div class="tg-footer">👁 736 · <a href="https://t.me/danialtaherifar/920" target="_blank">14:45 · 24 Esfand 1404</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 919 -->
+<p>در حال حاضر بیشتر VPN فروش ها کلاهبردار هستن!
+مراقب باشید از هر کسی خرید نکنید، مگر از قبل آشنا باشید.
+@danialtaherifar</p>
+<div class="tg-footer">👁 854 · <a href="https://t.me/danialtaherifar/919" target="_blank">12:47 · 15 Esfand 1404</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 918 -->
+<p><img src="https://cdn4.telesco.pe/file/Z_mwT-BBJiGl9iS-smvH8jvmWMmPiLpHwRZBoTy_PxpvTfkmRpsh7dtDMfn8Dl6DzwfcZ6MTkOj9nNzaHnr6rzIPESJx9TxzcOBtEie8Z3YqQzv_pk3H6URmJObxMSPVLFnRn_e2Z9WCM1ZWrKlopMin9OVOgmmAzGS5GcJTqmuzTQhuGP4wZ4A0Lp3Ex0faSUYJohuPc0poUy4Su3U7ntvyKaCP3AqWTV22oArbdpCk_EkgwZCzd0FCuT8MPm9Pe_dTul8hCfxplr6kHgS_D_EH83Rl48SI0azvWBwgK-WhEJj3jtcxSZLaLOFNfBSkHtPMGfdXDZn5bv0hu6tBPw.jpg" alt="photo"/></p>
+<p>✅
+اینم کسب و کاره ما داریم؟
+با هر ماجرایی باید صفر بشیم! باید کلی استرس بکشیم.
+امیدوارم این آخرین قطعی اینترنتی باشه که تجربه می کنیم
+@danialtaherifar</p>
+<div class="tg-footer">👁 865 · <a href="https://t.me/danialtaherifar/918" target="_blank">00:47 · 14 Esfand 1404</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 916 -->
+<p><img src="https://cdn4.telesco.pe/file/FqpV8yUX_johGgB2VlWi0Lq4T2YriTknqSpZTE2dOkuiTj8OYple3jprhAG3L5foCHvD5QQp6X4LH5DuDX9Z9_8apem-NRWzKEwCAu8JyEgJUfQ_TROB9hygERr4EX6Vn2HzrevBSa4je1Cpu-6f_2Yp67Btw30_RYVNU4NzloVzZgBpVt5COV8IA7PqEcrwUEkfceJUtyJ41QqXQbSiGx--Eur7wkKGHBcJf5OzXGgpyIEg24SWIdTGtj0MX8wGdkOdbVRbftrU1OF6x4Zfvi34lBuUSL57yvGtykiHEmxr13yfgv9LpPBm6fgBuhyIRew22Uyk-gZDV_i87AeTdg.jpg" alt="photo 1"/></p>
+<p><img src="https://cdn4.telesco.pe/file/FtegdNE756QZzXugwymgTTcG0zKhpcpojNGxA7TO2PKISuEzanRn9PkVM806I6OZZl-e9G4W-X4rjOLDELdsofeXrKiqdl4a1DjNq6OSuPUlomdYGyaF2E2wiZcTzk4654i2UxVqH9ha5Kg3bv7wdrWhT6afzlD5qj30i6XMmzyCEFmKfb8C_vfSYzXgfwxhwj1svqVUs_zitm9AeeOHpAECp4TY0ox9f4-0DJszgPWw69WquAoWxKT8ke7XRlREbZd_I58Xf_PkvMfENT8BADcEMbEaHgp2x89QWymQOBEUSMx0Z-eFkG6axocvf1cCSKC_FteIjrA0HaU0_GYZtQ.jpg" alt="photo 2"/></p>
+<p>مقایسه سرچ کنسول سایت های میزبانی شده در ایران و خارج از ایران:  نکته جالبی که تو این تغییرات به چشمم اومد این بود که سایت هایی که رتبه‌های عالی داشتن بیشتر آسیب دیدن و سایت های رده سوم در سرور ایران هم موقتا رشد گرفتن و بالا اومدن، که البته با توجه به قطعی…</p>
+<div class="tg-footer">👁 1.06K · <a href="https://t.me/danialtaherifar/916" target="_blank">13:01 · 10 Bahman 1404</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 915 -->
+<p><img src="https://cdn4.telesco.pe/file/owQX2IMswyYW4DxvMkUCGdKNrNigdHw2kkjQzKUmTUQUHA6D1q8G9g8QAD8Uid6X6UihwvXE8rwyy0rE5Mw8fduTl8LbPuZTG3f84Hgs7Op_bRqFpd1MibPTftQ2jlaf8Jej220v8Yg1-xqVvjgeWqM9BA3NwizNPQMaNwK4KlxHcwxRz9_42spmoLiNzeQv_qNSgT8EmZFd4Kx3uyOpcNLdQSk3zRn4QsgtfkY0oAyh9sYhZWhB8npyMEKNTHd3k4-0DICWBLcg16sjcwCBKe1e7Ds8CLidF6q13EYUgRcrNlWoYaOx5dSf3KNxlky_6afjL9OWxDetGyWltLhFPg.jpg" alt="photo"/></p>
+<p>💥
+دسترسی گوگل به هاست ایران باز شد.
+@danialtaherifar</p>
+<div class="tg-footer">👁 835 · <a href="https://t.me/danialtaherifar/915" target="_blank">13:21 · 08 Bahman 1404</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 914 -->
+<p>⭕️
+❗️
+بعضی از هاستینگ‌ها از شرایط به وجود اومده نهایت سوء استفاده رو بردن...
+از هزینه های 40-50 میلیونی بابت ارائه خدمات ویژه، تا مجبور کردن مشتری به خرید سرور اختصاصی برای سایتی که ۲۰۰ آیپی روزانه ورودی داشته ...
+منهای این الان شروع به تبلیغ پیامکی کردن یه عده برای این موضوع، بعد سایت خودشون فقط یا از ایران باز میشه یا از خارج !
+در کل مراقب باشید ازتون سوء استفاده نشه، وقتی که عصبی و تحت فشار هستید راحت ‌تر کلاه سرتون میره
+@danialtaherifar</p>
+<div class="tg-footer">👁 906 · <a href="https://t.me/danialtaherifar/914" target="_blank">21:08 · 07 Bahman 1404</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 913 -->
+<p>حل مشکل سئو هاستای ایرانی :  استفاده همزمان از  دو هاست ایران و خارج برای یک سایت   @poinair پوینا</p>
+<div class="tg-footer">👁 793 · <a href="https://t.me/danialtaherifar/913" target="_blank">20:38 · 07 Bahman 1404</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 912 -->
+<blockquote>↪ فوروارد از: <strong>Forwarded fromمتخصص وردپرس | پوینا</strong></blockquote>
+<p>حل مشکل سئو هاستای ایرانی :
+استفاده همزمان از  دو هاست ایران و خارج برای یک سایت
+@poinair
+پوینا</p>
+<div class="tg-footer">👁 638 · <a href="https://t.me/danialtaherifar/912" target="_blank">20:37 · 07 Bahman 1404</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 911 -->
+<p>🛑
+از دقایقی پیش دسترسی نت همراه به سایت‌های میزبانی شده در خارج کشور(آلمان) باز شده.
+اما همچنان بات گوگل به سایت های داخلی دسترسی ندارد.
+@danialtaherifar</p>
+<div class="tg-footer">👁 853 · <a href="https://t.me/danialtaherifar/911" target="_blank">10:28 · 07 Bahman 1404</a></div>
+</div>
 <div class="tg-message">
 <!-- msg_id: 910 -->
 <p><img src="https://cdn4.telesco.pe/file/Yk80w2WdAYPWNQ3VzquPSQfKdaWKB-vL_m_TUblEK9s-AjcAwQoWVZpSVSwu_V8URY_C1hjC0N5Hs2jnoKzm5lfDAiIztDwqxTwNU7cjodR85oLmYUewYPmWZ8J0nxwbykwCSz-H9z03BxCoqSlgQN7EU-WxGRwg9MO3kTrlXhisnJHrs8MwMeo8ZYgOQVDDVCwwscdy1eZmrRA9NAKozAJmtOSUyL13AuiPvliwIYRJGkEIdLS8qOS2KPLfBckFQpTume-kd3pMTC0txFHJ4_gpOMPgROQwoi2wduCaKJ75ZniVHKwUqt167ZpR02HmTbJL_xXUrqfEqgLa8xexGA.jpg" alt="photo"/></p>
@@ -1979,287 +2126,5 @@ How Many muslim president has the us had
 کانال آموزشی دانیال طاهری فر
 @danialtaherifar</p>
 <div class="tg-footer">👁 2.17K · <a href="https://t.me/danialtaherifar/797" target="_blank">19:29 · 23 Farvardin 1402</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 796 -->
-<p>📄 <strong>all-in-one-seo-pack-pro_4.3.4.1+addons.zip</strong> <code>5.3 MB</code></p>
-<p>✅
-افزونه حرفه ای سئو All in One Seo Pack pro نسخه 4.3.4.1
-✅
-کانال آموزشی دانیال طاهری فر
-@danialtaherifar</p>
-<div class="tg-footer">👁 2.02K · <a href="https://t.me/danialtaherifar/796" target="_blank">19:29 · 23 Farvardin 1402</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 794 -->
-<p>سلام دوستان،‌ امیدوارم که حالتون خوب باشه نیاز به یک همکار و دستیار دارم که برای مدیریت کارها بتونه کنارم باشه.  یه آدم همه چیز بلد
-😄
-- سئو ( بیشتر آف پیج برای آماده سازی رپورتاژ و لینک سازی و اجرای کمپین های طراحی شده) - تولید محتوا  ( قرار نیست کار تولید…</p>
-<div class="tg-footer">👁 3.06K · <a href="https://t.me/danialtaherifar/794" target="_blank">18:14 · 21 Bahman 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 793 -->
-<p>سلام دوستان،‌ امیدوارم که حالتون خوب باشه نیاز به یک همکار و دستیار دارم که برای مدیریت کارها بتونه کنارم باشه.  یه آدم همه چیز بلد
-😄
-- سئو ( بیشتر آف پیج برای آماده سازی رپورتاژ و لینک سازی و اجرای کمپین های طراحی شده) - تولید محتوا  ( قرار نیست کار تولید…</p>
-<div class="tg-footer">👁 2.44K · <a href="https://t.me/danialtaherifar/793" target="_blank">13:36 · 18 Bahman 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 792 -->
-<p>سلام دوستان،‌ امیدوارم که حالتون خوب باشه
-نیاز به یک همکار و دستیار دارم که برای مدیریت کارها بتونه کنارم باشه.
-یه آدم همه چیز بلد
-😄
-- سئو ( بیشتر آف پیج برای آماده سازی رپورتاژ و لینک سازی و اجرای کمپین های طراحی شده)
-- تولید محتوا  ( قرار نیست کار تولید محتوا باشه، اما نیاز به تسلط هست)
--علاقه مند به یادگیری و تحقیق
-- استراتژی محتوا
-- طراحی سایت با صفحه ساز  (المنتور و wpbakery)
-- تسلط به کاربری وردپرس
--آشنایی با شبکه های احتماعی (البته فعلا برنامه خاصی واسش نداریم)
-- و به طور کلی هر کاری پیش بیاد تو همین زمینه ها
-روزانه 5 ساعت کار با تمرکز و بدون حواس پرتی
-—-
-اگر فکر می کنید میتونید به من کمک کنید، با من در تماس باشید
-@danial_taherifar
-و روزمه و حقوق درخواستی مد نظرتون رو میتونید به ایمیل من بفرستید:‌
-danial.taherifar@gmail.com
-—
-دانیال طاهری فر
-@danialtaherifar</p>
-<div class="tg-footer">👁 2.5K · <a href="https://t.me/danialtaherifar/792" target="_blank">12:16 · 18 Bahman 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 790 -->
-<p>✅
-مراقب تیم های تولید محتوا باشید!
-یه موردی جدیدا خیلی زیاد شده، استفاده از ابزارهای تولید محتوا، ابزارهای ترجمه و در آخر هوش مصنوعی هست که در نهایت یک خروجی ضعیف را در اختیار شما قرار میدهند و بعد از اعلام و اعتراض بهشون شروع به فرافکنی و ... می کنند.
-در کل اگر سفارش تولید محتوا دارید حتما یک مقدار زمان صرف مطالعه کار تحویل داده شده بکنید.
-با پابلیک شدن ابزارهای هوش مصنوعی این موضوع در حال فراگیر شدن هست.
-@danialtaherifar</p>
-<div class="tg-footer">👁 2.53K · <a href="https://t.me/danialtaherifar/790" target="_blank">15:11 · 08 Bahman 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 789 -->
-<p>✅
-نصب نکنید!‌
-لطفا هر افزونه ای که تو کانال ها و گروه‌های تلگرامی میبینید روی سایت اصلی‌تون نصب نکنید.
-گاهی اوقات افزونه ها اسیب جدی میتونن به سایتتون بزنن.
-یک سایت ازمایشی داشته باشید یا با نرم‌افزارهایی مثل xampp روی سیستم عامل خودتون میتونید به راحتی وردپرس نصب کنید و شروع به آزمون و خطا کنید.
-لطفا هرچیزی که میبینید نصب نکنید!
-@danialtaherifar</p>
-<div class="tg-footer">👁 2.75K · <a href="https://t.me/danialtaherifar/789" target="_blank">12:58 · 21 Dey 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 786 -->
-<p>📄 <strong>Free Soul and Rainy</strong> <code>Martin Czerny</code></p>
-<p>موسیقی آرامش بخش
-♥️</p>
-<div class="tg-footer">👁 2.82K · <a href="https://t.me/danialtaherifar/786" target="_blank">23:04 · 06 Dey 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 785 -->
-<p>✅
-حذف لینک های مختلف در هد(head) صفحات وردپرس
-با استفاده از کدهای زیر میتونید لینک هایی که در سورس وردپرس برای صفحات ایجاد می‌شود را کنترل کنید.
-به عنوان مثال با قرار دادن خط زیر در functions.php لینک های /feed/ دیگر در سورس کد نمایش داده نمی‌شوند.
-remove_action( 'wp_head', 'feed_links', 2 );
-توضیج همه ی کدها جلوشون نوشته شده، یک کاربر در stackoverflow به صورت یکجا کدهارو قرار داده بود که حیف بود توی کانال نداشته باشیمشون.
-🛑
-اگر از عملکرد دقیق کدها اطلاع ندارید «لطفا استفاده نکنید». صرفا برای دسترسی سریع و تکمیل آرشیو در کانال قرار گرفتن.
-remove_action( 'wp_head', 'feed_links_extra', 3 ); // Display the links to the extra feeds such as category feeds
-remove_action( 'wp_head', 'feed_links', 2 ); // Display the links to the general feeds: Post and Comment Feed
-remove_action( 'wp_head', 'rsd_link' ); // Display the link to the Really Simple Discovery service endpoint, EditURI link
-remove_action( 'wp_head', 'wlwmanifest_link' ); // Display the link to the Windows Live Writer manifest file.
-remove_action( 'wp_head', 'index_rel_link' ); // index link
-remove_action( 'wp_head', 'parent_post_rel_link', 10, 0 ); // prev link
-remove_action( 'wp_head', 'start_post_rel_link', 10, 0 ); // start link
-remove_action( 'wp_head', 'adjacent_posts_rel_link', 10, 0 ); // Display relational links for the posts adjacent to the current post.
-remove_action( 'wp_head', 'wp_generator' ); // Display the XHTML generator that is generated on the wp_head hook, WP version
-@danialtaherifar</p>
-<div class="tg-footer">👁 2.57K · <a href="https://t.me/danialtaherifar/785" target="_blank">07:39 · 04 Dey 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 784 -->
-<p><img src="https://cdn4.telesco.pe/file/tofkZ8k8tfiFrP9g6Fhhpmzsp8DZp6YwttZjLaERYx-uz8TiJH5vfnmth6w8P6MOGkGNKzOoSijiIrSEkwMhyqDyjHdQmrAGKkGi1BfkqAVKz4UDmRvAACg6QPp5HXD7XalengyElOXOXPGMR67Ub5iIlHYZQ5PAHq0yqIa5xFyWZZc6aPMEImw49EKKBTfYTiXtZ-A7bHRXAqfN7OY8iYxz6_4MhtYwGPv0IkweLGo_7_vv438_igiaZgAVutphFfuiIa_xHON-JPMNU5XDa1H2jIaIwnTZ9IsP2PFgqsS7rFHowCLC5rV7F5lmMbcRhieTKqb0LgX4wGpz2H7vAA.jpg" alt="photo"/></p>
-<p>✅
-سرنوشت برخی از سایت های هک شده
-یک نمونه از مشکلات رایج که اغلب برای سایت‌هایی که روی سرورهای با امنیت پایین میزبانی میشن پیش میاد شرایطی هست که در تصویر میتونید ببینید.
-این سایت حدودا 25 هزار نوشته داشته و بازدید راضی کننده ای برای صاحب سایت داشته. اما چه اتفاقی افتاده؟‌
-تعداد صفحات ایندکس شده از 25 هزار به 380 هزار رسیده...
-اما چه صفحاتی؟
-اغلب 404 یا با کوئری استرینگ که در نهایت منجر به از دست رفتن کامل ایمپرشن شده
-بعد از اصلاح هاست و robots.txt کم کم در حال بازگشت به نتایج هست که سعی می کنم آپدیتشو ماه آینده قرار بدم ببینیم وضعیتش به چه صورت میشه.
-@danialtaherifar</p>
-<div class="tg-footer">👁 1.85K · <a href="https://t.me/danialtaherifar/784" target="_blank">13:49 · 03 Dey 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 783 -->
-<p>✅
-راهنمای سیستم رتبه بندی جدید جستجوی گوگل
-👇
-💢
-در اینجا لیستی از سیستم‌های رتبه‌بندی جستجوی گوگل که در حال حاضر فعال هستند در لیست زیر قرار گرفته است:
-1️⃣
-BERT
-2️⃣
-Crisis information systems
-3️⃣
-Deduplication systems
-4️⃣
-Exact match domain system
-5️⃣
-Freshness systems
-6️⃣
-Helpful content system
-7️⃣
-Link analysis systems and PageRank
-9️⃣
-Local news systems
-1️⃣
-0️⃣
-MUM
-1️⃣
-1️⃣
-Neural matching
-1️⃣
-2️⃣
-Original content systems
-1️⃣
-3️⃣
-Removal-based demotion systems
-1️⃣
-4️⃣
-Page experience system
-1️⃣
-5️⃣
-Passage ranking system
-1️⃣
-6️⃣
-Product reviews system
-1️⃣
-7️⃣
-RankBrain
-1️⃣
-8️⃣
-Reliable information systems
-1️⃣
-9️⃣
-Site diversity system
-2️⃣
-0️⃣
-SpamBrain, spam policies, etc
-💢
-در اینجا فهرستی از سیستم‌ها یا به‌روزرسانی‌های رتبه‌بندی گوگل که دیگر استفاده نمی‌شوند یا در سیستم‌های دیگر گنجانده نشده‌اند:
-1️⃣
-Hummingbird
-2️⃣
-Mobile-friendly ranking system
-3️⃣
-Page speed system
-4️⃣
-Panda system
-5️⃣
-Penguin system
-6️⃣
-Secure sites system
-@danialtaherifar</p>
-<div class="tg-footer">👁 2.76K · <a href="https://t.me/danialtaherifar/783" target="_blank">11:43 · 03 Azar 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 782 -->
-<p><img src="https://cdn4.telesco.pe/file/kbwq8QwYQMUjuvggHvPSC_UQSgdxUSWKXcMpJ93XjY_nia2beaxOBma_mzc9OQyDNddn9pfpG8UpTbiPmqECEimYZ1LOIfqv4q8cDpxC3-9WKDOOm5MSDJVHmSjOKnKDOBrwU3qXvos9AiBmlnM325PsD5hjcY5Kyfkzhya9HhrGTGLpm_3XU4Z8ZV6LDsCALVZfmwS-eLGp8jQgjFECybSG6iPaOYNPSi9uKU-jxIStCkbjGPcJ4FMxyJig3nWVdti-oVo20WAqAbf2sWp9juPEKHw-xfCwJdLzWOQIlLMkynwcHmHwsFhUsfg8UgL-etE8iPmk1Itub-q2X6sUyw.jpg" alt="photo"/></p>
-<p>✅
-تفاوت اجرای اسکریپ در سایت بدون اتریبیوت و با async و defer
-بسته به کاربرد اسکریپت شما میتونید از روش مناسب استفاده کنید.
-در حالت عادی اسکریپت های جاوا اسکریپتی میتونن باعث توقف در پارس کردن کدهای Html میشه.
-◻️
-با استفاده از اتریبیوت async زمان توقف به بعد از دانلود اسکریپت و به زمان اجرای اسکریپت محدود میشه.
-◻️
-با کمک تگ defer اجرای اسکریپت به بعد از مرحله parsing کدهای html به تعویق میافته.
-@danialtaherifar</p>
-<div class="tg-footer">👁 3.31K · <a href="https://t.me/danialtaherifar/782" target="_blank">12:35 · 04 Mordad 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 781 -->
-<p>✅
-حذف شورت لینک وردپرس از بخش head
-اگر از سیستم وردپرس استفاده کرده باشید احتمالا متوجه لینک‌های غیرایستا همراه با آی دی پست شده باشید، مثل:‌
-https://danialtaherifar.ir/?p=9931
-که گاهی اوقات در قالب ها هم ازشون استفاده میشه که لازمه تکه کد مربوط به آن بخش را به طور کلی حذف کنید.
-اما بعد از حذف از قالب در بخش head کدهای سایتتون یک rel=shortlink باقی میمونه که با اضافه کردن کد زیر به functions.php قالبتون میتونید به راحتی آن‌ها را حذف کنید:‌
-remove_action('wp_head', 'wp_shortlink_wp_head', 10, 0);
-موفق باشید
-🌺
-@danialtaherifar</p>
-<div class="tg-footer">👁 3.4K · <a href="https://t.me/danialtaherifar/781" target="_blank">14:21 · 13 Tir 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 780 -->
-<p>سلام به همه دوستان و وبمستران عزیز
-🛑
-اخیرا یک روش درآمدزایی به صاحبین وبسایت های دانلودی پر بازدید پیشنهاد میشه که لازم دونستم یکم شفاف‌تر راجع بهش صحبت کنیم.
-🛑
-شاید متوجهش شده باشین وقتی  که در برخی از سایت های موزیک یا فیلم وارد میشین در پایین صفحه یک «و
-یدئوی غیر مرتبط
-»ب ا صفحه به صورت بی صدا در حال پخش شدن هست، البته این مورد به صورتی کانفیگ شده که فقط برای اشخاصی که با اینترنت موبایل وارد صفحه شدن لود بشه و با دسکتاپ قابل مشاهده نیست.
-علت این ماجرا هم صرفا مصرف ترافیک اینترنت موبایل هست که اپراتورها در ازای مصرف به دلال‌های ترافیک هزینه های مناسبی را پرداخت می کنند.
-🛑
-اگر بخواهیم صریح‌تر راجع بهش صحبت کنیم این روش درآمد چیزی جز دست در جیب مردم کردن نیست و دزدی ترافیک موبایل کاربران هست.
-تصور کنید که کاربری برای دانلود یک موزیک 3 تا ۱۰ مگابایتی وارد وبسایت میشه اما با اینترنت 4G در عرض مدتی که در سایت حضور داره حدود 70 تا 100 مگابایت از بسته اینترنتی کاربر توسط این مدل درآمدزایی کثیف دزدیده خواهد شد.
-لطفا اگر این روش به شما هم پیشنهاد شد، به جز درامد ماهانه جذابی که به شما پیشنهاد میدن به این فکر کنید که آیا این روش کسب درآمد سالم هست یا نه؟‌
-«به نظر من این روش نامشروعی هست که توسط برخی افراد در حال انجام هست.»
-اگر تا قبل از این پیام مردد بودین و چشمتون رو به روی "شکی" که به این ماجرا میبستید... از این به بعد با پذیرفتن همچین تبلیغ و روش درآمدزایی آگاهانه همراه با دزدها می‌شوید.
-اگر با وبسایت های این مدلی روبرو شدین حتما اعتراض خودتون رو به ادمین این سایت ها اعلام کنید تا زودتر به خودشون بیان...
-امیدوارم که هرچی زودتر دست این آدم‌ها از وبسایت ها کوتاه بشه...
-#ترافیک_دزدی
-#دزدی_ترافیک
-@danialtaherifar</p>
-<div class="tg-footer">👁 4.11K · <a href="https://t.me/danialtaherifar/780" target="_blank">13:43 · 10 Tir 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 779 -->
-<p><img src="https://cdn4.telesco.pe/file/D1ugcdOiIHDkxHjpT9LSfm6qRuRiqRt_zgXH1W5a84evCwyt2W2OVhjikU827KgCkp380owXtwSqqNRT8ZDvLLDQv6OkUHbQKV6eXe0ijl6_Z00rUqaOwEEd8T3rIk_UrVRv7aTnG-yL8bOEM2t-Ru7XIOgdw7wJnrlEJ5bIne4tvdi0XkMfzGdz-4sT_SkCNbkbqy1gfvaeEAJrynid1S680Wz_M4RGyz5fkxEnwOf59--nT_CYEysXtb7KhyCpaLmtka4Xzd-QLdTNqQtnSnEnupcxwIlbVgN89Fg7Ptj_i-Ngw0X3-7kbzvsmebm-dwfRTUKQu4jT4bdUbDmQ2w.jpg" alt="photo"/></p>
-<p>✅
-فیلترینگ Google Amp
-💢
-متاسفانه ظاهرا دوستان فیلترینگ آدرس های مربوط به Amp رو فیلتر کردند و در صورت بازدید در نسخه موبایل از سایت های دارای Amp با صفحه سفید روبه رو می‌شوید.
-⚠️
-چند ماه پیش هم این اتفاق افتاده بود اما بعد از مدتی رفع شد. فیلترینگ Amp حتی بر روی خبرگذاری های رسمی مثل تسنیم، خبرآنلاین و الف هم تاثیر منفی بسیار زیادی داشته است.
-—
-آپدیت: به نظر میرسه این سرویس مجددا در دسترس کاربران قرار گرفته اما شاید بهتر باشد جوانب احتیاط را رعایت کنید، این دومین باری بود که amp درگیر فیلترینگ کوتاه مدت شده .
-@danialtaherifar</p>
-<div class="tg-footer">👁 2.75K · <a href="https://t.me/danialtaherifar/779" target="_blank">07:08 · 20 Khordad 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 778 -->
-<p><img src="https://cdn4.telesco.pe/file/nadYnCu35zWhMF4HbTHzITyfs6RGOISBNGtxewoE9wMM4v6f_PXv2MdsJRrGzYN_2LKhDnbiUcJfTdiDsnV2UFIJKZQq5wMZ8eeXypdH6O0a-21io42yTrCvUnSU09ziBWrGRL6Bi-379UPicEg9B395c8T3KtJQOjesV5i5V8jg1y7HFgemcyfBFFxnmphyTfTzimrt2AfPgbgxGdXwS2Fnpm1XeFielEfePde2aJxr07kG_CL3XVHgTc9wND9BOvk4yR3zsETKAvTl1K4FNGUFR8_jEauWIT9lMTiK8NPrjEz-yFQK_BZE-a4MSVWPO93xVMN_BXRjVcy0DJEj_w.jpg" alt="photo"/></p>
-<p>✅
-اچرف (ahrefs) موتور جستجوی خود را راه اندازی می‌کند
-💢
-ابزار کاربردی اچرف، 60 میلیون دلار در ساخت موتور جستجوی خود سرمایه گذاری می‌کند. همچنین 90 درصد از درآمد تبلیغات موتور جستجوی اچرف، به تولید کنندگان محتوا تعلق می‌گیرد.  @danialtaherifar</p>
-<div class="tg-footer">👁 2.75K · <a href="https://t.me/danialtaherifar/778" target="_blank">15:50 · 14 Khordad 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 777 -->
-<p><img src="https://cdn4.telesco.pe/file/awjBTSV8omP9rVAWmXg8NI5a-Jo23TV3FqVAkvlMuQDKmnORUdCPV8BQ3TgAEzjs13a4h7HfKDERBu9hVFeT_k6xds_7ebM3sYOxe0G_RLjkq76a52_meg5hvM91MEN-Bv74sut7KTfswa-kX7E7dJCw2y9RAJwdS7blVCqBo3X5C9Cc74S-QaffSAiolhgOIWKgsJxjNivRbUGaUlcrlN473X6bQIWnjv_n_G0_fxH_gGpzrq8Fl24OOHmx-Wy0XlmlVoE9-2q2RJxoZJLeQs22SwmlLQ3oDyLdU7gYIle14WwY8uTEOHu1VECwWeOelwuSaIVU7HWQaJ4ah681ng.jpg" alt="photo"/></p>
-<p>✅
-اچرف (ahrefs) موتور جستجوی خود را راه اندازی می‌کند
-💢
-ابزار کاربردی اچرف، 60 میلیون دلار در ساخت موتور جستجوی خود سرمایه گذاری می‌کند. همچنین 90 درصد از درآمد تبلیغات موتور جستجوی اچرف، به تولید کنندگان محتوا تعلق می‌گیرد.
-@danialtaherifar</p>
-<div class="tg-footer">👁 2.33K · <a href="https://t.me/danialtaherifar/777" target="_blank">08:29 · 14 Khordad 1401</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 774 -->
-<p><img src="https://cdn4.telesco.pe/file/gMJb42Bu3yOIGv6vd_DUua8SUyjZohiMr4m7_sPMJo12rZVu9leHdrR21sY1GAFGh5qF9X6pb0UVff9kQLgiKYYP11cxaehL-_eCBC9hd2xz0QaUrjIHV5_nPN84wTKdlK2iVoC9v9dMUFuHo6zq9EqtLG-ikyHalPi5bwDyhCYJqnu88mjDrBHxgNIRKUPah07w4OU7SF0-u6zv_cVNSiMJRKPU2vMcFWujw-XTbVlEBVV9xPGdUU-CXhLW24T5OFJSiEK5R4lAA3-FHoD7JreCOIyDMkNnSJpe9NEJI45taWj-7lvlx4iKWyAy01W4NC4o36YQVNGweyV0GvK0Ag.jpg" alt="photo 1"/></p>
-<p><img src="https://cdn4.telesco.pe/file/bDW4zgMHNqnmqtiJCh5mFFl3Im2-_9c1DKlv47UJ0e5ZL4oGv5ndrvbsizxtWW-i5B-SZmUJeOveTXKfhgkmofM89pHUMOTsx32XSepZhgjybEgj5iZfrnH2EY7n0qhcpUy5lQskZUQvCCFnS7mdc2Gy5IZy_s74k79g3p_GaYOsRnl20jJig5JBRt58t-af7hsW8IsLEbKpnoYzdiDBzOmZnh9G9N_4cQNWdIyRnejj2Y7ubnkjTMGODNthPmgVr_Fod_mf4l9-Cv5LCSaxokQJoR1SdCsdz8aMxgVoaDpsotuOUBR3-TcPT4EyBbFK4TjZK6wKfJlzSfVuwVXt6A.jpg" alt="photo 2"/></p>
-<p><img src="https://cdn4.telesco.pe/file/rBN--AznO0pM-g2XZxmIv8ydiUr_ISmBFXvjvwGOdfIMtXbs5Y-ht5SMJi11l6nuTl1MwGhbIo1OT6InVVC3k3M3X_ROXBHvzmGpW1EE9NsxHxiaVTWg8dW6oSVJ3S6K_LkiqS2MATaeI-1ovdi36_lJQdkKImP8zCQj105uM0uZMPfmac1xEapQH0Cm59CxIe7H8HypAMyDQxLupLRXzXgILJ4v2jRW68jbvagUuc8dEGWF1SLwVNIVGb_HZIR6MyLLBczhKjnB7XD5YkwMuHOh8VccceKjltoNGDF8U6oiKuUzNzuJrozpF_Ayq9dtZu5Xpc-opfPs0fpPfynYnA.jpg" alt="photo 3"/></p>
-<p>✅
-گوگل Sitelinks های کمتری را در چند ماه گذشته نمایش می‌دهد
-💢
-به نظر می‌رسد گوگل Sitelinks هایی که از 6 لینک تشکیل شده باشد را نسبت به قبل کاهش داده است و اغلب بین 2 یا 4 سایت لینک در نتایج دیده می‌شود.
-@danialtaherifar</p>
-<div class="tg-footer">👁 2.48K · <a href="https://t.me/danialtaherifar/774" target="_blank">20:23 · 06 Khordad 1401</a></div>
 </div>
 </div>

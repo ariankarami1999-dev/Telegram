@@ -55,23 +55,24 @@ img {
 <h1>📡 WarRoom with YASHAR</h1>
 <p><strong>@withyashar</strong> · 👥 258K عضو</p>
 <p><em>چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیلinstagram.com/yasharDonatePaypal :https://www.paypal.com/paypalme/yasharrapfaUSDT trc20: THebHKGpmnhWZzNZAbdSdr4fUAK3qkxDgkhttps://X.com/yasharrapfa</em></p>
-<p>🕐 آخرین بروزرسانی: <code>1405-02-21 18:54:53</code></p>
+<p>🕐 آخرین بروزرسانی: <code>1405-02-21 19:01:16</code></p>
 <p><a href="https://t.me/withyashar" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
 <div class="tg-message">
 <!-- msg_id: 10941 -->
+<p>🎬 <a href="https://cdn4.telesco.pe/file/2c6c6ff7b6.mp4?token=Yj0ttI2cQA9bqT3GjOxo_hrC8y__MyPtpOpffO08O_mH7S7dpqEKfP7UKS5s2jdN3j1CLkbQuqRfN24X4LjY2GB-aCcu6tqSM3towzDGcjT3haHMlNihvxu9L_ChlstDEFvwZt2pR4Uw2EmSgcxJ_lllZ5TFAyVSa6rmqk0lANB2loxhtw1feFkYOiET9jo8XhdzLDLBtcViuyMreAwHL6sGfjGI3V38fbSRtftfmXVUhGcYh99XutRdPdpukQGwAIc0Aw_KcXPZrUgqLSno0GHm4KBKKvFm-SnpeEplrAl2k4sPuUMSneN5cJdIiFAmntnRYhCkWV89APSVV_a56A" target="_blank">دانلود ویدیو</a></p>
 <p>طعنه سنگین ترامپ:
 الان یک گروه بزرگ از ژنرال‌ها منتظر من هستند؛ دربارهٔ کشور کاملاً دوست‌داشتنیِ ایران.
 @withyashar</p>
-<div class="tg-footer">👁 3.17K · <a href="https://t.me/withyashar/10941" target="_blank">18:51 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 7.41K · <a href="https://t.me/withyashar/10941" target="_blank">18:51 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10940 -->
 <p>ترامپ در مصاحبه با CBS News اعلام کرد که قصد دارد مالیات فدرال ۱۸ سنتی بر بنزین را برای مدتی به حالت تعلیق درآورد!
 تحلیلگران این اقدام ترامپ را در راستای کنترل قیمت بنزین برای ادامه جنگ با ایران عنوان کرده‌اند.
 @withyashar</p>
-<div class="tg-footer">👁 7.49K · <a href="https://t.me/withyashar/10940" target="_blank">18:45 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 10.7K · <a href="https://t.me/withyashar/10940" target="_blank">18:45 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10939 -->
@@ -80,62 +81,62 @@ img {
 سندرم ترامپ‌هراسی
 ” واقعاً یک بیماری است. باعث افتخار من است.»
 @withyashar</p>
-<div class="tg-footer">👁 8.03K · <a href="https://t.me/withyashar/10939" target="_blank">18:43 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 11.2K · <a href="https://t.me/withyashar/10939" target="_blank">18:43 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10938 -->
 <p>رئیس شرکت رافائل اسرائیل : اسرائیل هیچ کمبودی در موشک‌های رهگیر سامانه گنبد آهنین ندارد
 @withyashar</p>
-<div class="tg-footer">👁 12K · <a href="https://t.me/withyashar/10938" target="_blank">18:34 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.2K · <a href="https://t.me/withyashar/10938" target="_blank">18:34 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10937 -->
 <p>ترامپ به فاکس نیوز:
 تا زمانی که معامله‌ای صورت نگیرد با ایران برخورد خواهیم کرد. ایران عقب‌نشینی خواهد کرد
 @withyashar</p>
-<div class="tg-footer">👁 15.5K · <a href="https://t.me/withyashar/10937" target="_blank">18:26 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 17.6K · <a href="https://t.me/withyashar/10937" target="_blank">18:26 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10936 -->
 <p>ترامپ به فاکس‌نیوز :
 آنها تسلیم خواهند شد... من با آنها معامله خواهم کرد تا زمانی که به توافق برسند.
 @withyashar</p>
-<div class="tg-footer">👁 15.1K · <a href="https://t.me/withyashar/10936" target="_blank">18:25 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 18.2K · <a href="https://t.me/withyashar/10936" target="_blank">18:25 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10935 -->
 <p>همچنین ترامپ به فاکس نیوز گفت که او "به طور جدی" در حال بررسی طرحی برای
 تبدیل ونزوئلا به ایالت پنجاه و یکم است.
 @withyashar</p>
-<div class="tg-footer">👁 16.7K · <a href="https://t.me/withyashar/10935" target="_blank">18:22 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 18.8K · <a href="https://t.me/withyashar/10935" target="_blank">18:22 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10934 -->
 <p>ترامپ
 : در حال بررسی از سرگیری پروژه آزادی هستم، اما با دامنه گسترده‌تر که فقط به اسکورت کشتی‌ها از طریق تنگه هرمز محدود نشود.
 @withyashar</p>
-<div class="tg-footer">👁 17.3K · <a href="https://t.me/withyashar/10934" target="_blank">18:20 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 19.4K · <a href="https://t.me/withyashar/10934" target="_blank">18:20 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10933 -->
 <p>ترامپ
 :  تیم مذاکره‌کننده جمهوری اسلامی به ما گفت که آمریکا باید اورانیوم غنی‌شده را خارج کند، زیرا جمهوری اسلامی فناوری انجام این کار را ندارد
 @withyashar</p>
-<div class="tg-footer">👁 17.3K · <a href="https://t.me/withyashar/10933" target="_blank">18:19 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 19.4K · <a href="https://t.me/withyashar/10933" target="_blank">18:19 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10932 -->
 <p>🎬 <a href="https://cdn4.telesco.pe/file/d051e88656.mp4?token=SoBsnC8hadZij1zV_cbp2ylb6K_6tzZftf9TwW8qT_D0yStVwSIRTjYk2YeVGjnf2X4mhkB0il__g8J4MWbUPNEyeiTHj5dcsNvDBNxelYyYFxcL4Z7kZHJkx-Gb1P5_8mDMveTGpjyQIzdw2dIlzY2O6SVsIZMS5vq6_5l6GINVBrLSId3E4kSbNgmZipIcsak3ldDcpIY6jhOX1OsBYaS3P3SlCtm6ohgDNqXnUhFWKknBqERjeSH_hknendZw6FIE_CtVeQyafVUuA7chzSkwyjS4sEetVaSkFP6zvwU16SFhOmKE9EbioWXEsbeKKTclakLG7WBVkLfrEQvdXQ" target="_blank">دانلود ویدیو</a></p>
 <p>حسین یکتا: علی خامنه ای توی دوران جنگ شبانه با حاج علی مالکی رفتن حموم، حضرت آقا گفت فقط به شرطی میذارم منو لیف بکشی که منم تورو لیف بزنم و کیسه بکشم.
 @withyashar</p>
-<div class="tg-footer">👁 24.6K · <a href="https://t.me/withyashar/10932" target="_blank">17:58 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 25.7K · <a href="https://t.me/withyashar/10932" target="_blank">17:58 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10931 -->
 <p><img src="https://cdn4.telesco.pe/file/Ku7t1bqoJgsxj_kBi3dPKZOTRnloTkqBdsBFa1UcIhrC9Zg0m-dwqSvdkgAKyTcSwHMFi_ETnjUDNQTxWrW0ChcFl1ZrmVz4XfpMwZsd0mfwSP5TOxVEWpGOXR0D5aIfZIMeR2-18bZrVZlnMNJ5TzuawQXfYWGfgPIZhES3bzaXxNW2VL_ZDIWIhJcy7_ywTSpY1zlQZvN5SmDWzneF4WjbNrdJO1JHaWEAawdZadFoPhxCom-5bh3ZUDUOcF0AY5vIQkMp3y8WyWm10QsbgkrBkG3gMt-vvWWxlsIirYprQWGNtNPsheexeuFJp8SGn6-eCuHNaTxkZsVVrh-Bqg.jpg" alt="photo"/></p>
 <p>تصاویر بیشتر از عرفان شکورزاده دانشجوی ۲۹ ساله هوا‌فضای دانشگاه علم و صنعت ایران که صبح امروز رژیم جسمش رو ازش گرفت
 @withyashar</p>
-<div class="tg-footer">👁 34.3K · <a href="https://t.me/withyashar/10931" target="_blank">17:05 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 35.3K · <a href="https://t.me/withyashar/10931" target="_blank">17:05 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10930 -->
@@ -144,7 +145,7 @@ img {
 - صنعت خودروسازی و پایگاه‌ های موشک بالستیک
 - صنعت نفت و صنعت فولاد
 @withyashar</p>
-<div class="tg-footer">👁 35.5K · <a href="https://t.me/withyashar/10930" target="_blank">16:57 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 36.6K · <a href="https://t.me/withyashar/10930" target="_blank">16:57 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10929 -->
@@ -158,25 +159,25 @@ img {
 نظرت چیه در این مورد؟
 ممکنه اصلا حتی تو سفرش شروع بشه؟ امنیتش به خطر نمیوفته؟
 چی میشه به نظرت</p>
-<div class="tg-footer">👁 41.3K · <a href="https://t.me/withyashar/10928" target="_blank">16:05 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 42.4K · <a href="https://t.me/withyashar/10928" target="_blank">16:05 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10927 -->
 <blockquote>↪ فوروارد از: <strong>Forwarded from.بی دل فرزند ایران</strong></blockquote>
 <p>داداش  خسته نباشید. من مسیحی هستم. این آیات رو بارها و بارها خوندم. اما هیچوقت از این زاویه بهشون نگاه نکرده بودم. عالی بود.</p>
-<div class="tg-footer">👁 40.7K · <a href="https://t.me/withyashar/10927" target="_blank">16:05 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 41.7K · <a href="https://t.me/withyashar/10927" target="_blank">16:05 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10926 -->
 <p>Voice message</p>
-<div class="tg-footer">👁 41.4K · <a href="https://t.me/withyashar/10926" target="_blank">15:57 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 42.5K · <a href="https://t.me/withyashar/10926" target="_blank">15:57 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10925 -->
 <blockquote>↪ فوروارد از: <strong>Forwarded fromShex Hh</strong></blockquote>
 <p>شما کافر نیستی. کافر کسیه که زیر بار حرف درست و حقیقت نمیره اتفاقا امثال شما از خیلی از ماها مسلمون ها به حق و حقیقت نزدیک ترن
 🙌</p>
-<div class="tg-footer">👁 43K · <a href="https://t.me/withyashar/10925" target="_blank">15:44 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 44K · <a href="https://t.me/withyashar/10925" target="_blank">15:44 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10924 -->
@@ -187,13 +188,13 @@ img {
 <!-- msg_id: 10923 -->
 <blockquote>↪ فوروارد از: <strong>Forwarded fromMilad</strong></blockquote>
 <p>دادا تو مسیحی هستی</p>
-<div class="tg-footer">👁 44.5K · <a href="https://t.me/withyashar/10923" target="_blank">15:28 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 45.5K · <a href="https://t.me/withyashar/10923" target="_blank">15:28 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10922 -->
 <p>@withyashar
 سفر ترامپ به چین</p>
-<div class="tg-footer">👁 44.3K · <a href="https://t.me/withyashar/10922" target="_blank">15:27 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 45.3K · <a href="https://t.me/withyashar/10922" target="_blank">15:27 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10921 -->
@@ -441,7 +442,7 @@ BIBI JOON , FINISH THE JOB
 <p>به گزارش بلومبرگ، انتظار می‌رود دونالد ترامپ این هفته در دیدار با شی جین‌پینگ درباره حمایت چین از ایران از جمله خرید نفت ایران و احتمال صادرات سلاح با او روبه‌رو شود.
 قرار است این دو رهبر روز پنج‌شنبه و جمعه در پکن دیدار کنند؛ در حالی که تنش‌ها بر سر تجارت، تایوان، هوش مصنوعی و درگیری آمریکا و اسرائیل با ایران افزایش یافته است
 @withyashar</p>
-<div class="tg-footer">👁 63.1K · <a href="https://t.me/withyashar/10888" target="_blank">01:18 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 63.2K · <a href="https://t.me/withyashar/10888" target="_blank">01:18 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10887 -->
@@ -462,7 +463,7 @@ BIBI JOON , FINISH THE JOB
 <p>روابط عمومی ارتش: یک فروند پهپاد دشمن متجاوز، توسط سامانه‌های شبکه یکپارچه پدافند هوایی منهدم شد
 ساعتی پیش یک فروند پهپاد شناسایی دشمن متجاوز، توسط سامانه‌های شبکه یکپارچه پدافند، تحت فرماندهی قرارگاه مشترک پدافند هوایی کشور در منطقه جنوب غرب منهدم شد.
 @withyashar</p>
-<div class="tg-footer">👁 57.5K · <a href="https://t.me/withyashar/10885" target="_blank">00:46 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 57.6K · <a href="https://t.me/withyashar/10885" target="_blank">00:46 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10884 -->
@@ -598,7 +599,7 @@ BIBI JOON , FINISH THE JOB
 اهداف نظامی محقق شده‌اند اما پایان دادن به برنامه هسته‌ای ایران هنوز باید محقق شود.
 به احتمال زیاد این مهم از طریق مذاکره محقق می‌شود، اما لزوماً اینگونه نخواهد شد.»
 @withyashar</p>
-<div class="tg-footer">👁 58.5K · <a href="https://t.me/withyashar/10870" target="_blank">20:28 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 58.6K · <a href="https://t.me/withyashar/10870" target="_blank">20:28 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 10869 -->
