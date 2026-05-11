@@ -1,0 +1,1182 @@
+<img src="https://cdn4.telesco.pe/file/Ri68I6WD5RSB4iaGP3tHO3I1mbhkLUiNYUGaJEGh2hNWmc43lMq87eeM02wNS8YM-SbmTWJfiXamfy_GU3URwz0yhmg6zvzM9-4IYzyKx2YAXKfk9DkUB66X6Ikb9lhd9KU_V8I8vtMtCWFS6vIm9K5rGP9pguGD0bsU4fqSEtEp_lwYx_YMyMSdyA4FDqy6QvBZLjoLtOhQGlRRmT4LpKwVJhB9Zac18RFnUgQkU6utkcjRsolOkRX8ZmDHIQnbpdDSOuADljXMYwkAvmpMXb8pLzenFemhahtZSqikGWENPE9Rv8CcDABL1_sbmjq09FlVBalm8DvuIwjuWaRVtA.jpg" width="70" style="border-radius:50%"/> <br/>
+
+# 📡 اخبار جنگ الونیوز AloNews
+
+**@alonews**  ·  👥 965K عضو  
+
+> با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌پشتیبانی کانال🕵️https://t.me/AloNews?directادمین کانال🎩@AloNewsBotجهت رزرو تبلیغات👇https://t.me/ads_alonewshttps://t.me/ads_alonews  
+
+🕐 آخرین بروزرسانی: `2026-05-11 14:10 UTC`  
+
+[![باز کردن در تلگرام](https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alonews)  
+
+---
+
+👈
+ریاست جمهوری کره جنوبی: ما حمله به کشتی باری کره‌ای را به شدت محکوم می‌کنیم |پس از شناسایی عامل این حمله، به آن واکنش نشان خواهیم داد
+🔴
+تا کنون درباره نقش ایران در این حمله نمی دانیم
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.8K · [07:12 · 11 May 2026](https://t.me/alonews/119194)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/7bfcaaeac8.mp4?token=LWgcVT3yr0dt_p1t4e-OVK85-m54dGHBTAPdh8xsxQIEfLC01fbNnR4OW3BYQH6sInGGl5VrW5JeqS8Mp3GxkOzE5mNFwVSwDYWQ41ck8ow9_gQ5MpLZ9InAlylfBx3s8vR-KyKxmIRw_pOUN-1Sn1m3GpVymFqg85k07yVCBGScDB0HVZkTy7XkSXDrFKNT_w4zA6bbdTvcVRI09TSWGiRVYEEn_GbpDa_0UsVe429-tY6oUOb4jF_uTRfx8PDRes_aHyTI-CW3Y9lkdKamnzwx20Bk2SGW5tpuxs6oy2adRfA0o5PkxP4RykXRz0ys1DmI_WZwwAYMYQjbXjU4Hw)**  
+
+👈
+لحظه تصادف عجیب و پرواز موتور سیکلت بر فراز چراغ راهنمایی!
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18K · [07:15 · 11 May 2026](https://t.me/alonews/119195)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/WyNM7Wmli0YLECdBRG2JW3r2mND_tEa1uEQ6Rv1PecNI_qilJzTAPKxpGAUIhoXzidk1_gF3uG1GpKMp5XHljEbFqPrCjbO77cvGSTHGGxcV5Jj_bdrqaSPS3KZgH3mVbbei2R8bV5GsRHx9gjAXkJp3vfY6dPCRWunOnpsJLjhEs4Z8PdgStzT7JXgwXcQIOWNUmdyzsBf3O-qGvo38VGIV4fFYHb_JdCOdNAMFzFTrq_EbIRlVAr4uzxvjCvWGaz0DSgxoO2ogGjuwM2Q9Y9SrPSFAbRvqlYRgamMTsiHqOnW87R91X18jZg-sX1GAN-TDLfLHi_Jpt3cUvwoH7g.jpg)  
+
+👈
+لیست دموکرات‌هایی که خواستار آشکار شدن جزئیات برنامه هسته‌ای اسرائیل شده‌اند!
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.5K · [07:18 · 11 May 2026](https://t.me/alonews/119196)</sub>
+
+---
+
+👈
+اولین مورد آلوده به ویروس هانتا در فرانسه ثبت شد
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.2K · [07:25 · 11 May 2026](https://t.me/alonews/119197)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/cc1654c2e2.mp4?token=KvISWuekOxVt4KMOrlbT2zEWtH_ExFROvwost6E2ZF8JmoopoFtm25VBShJnlxNP9XLfK_aqKmeNk4S1YAGKyZj6k6NssIh99YdZUSYr9DnrgN0dSx_nQRdr0Sm7Zkz09MtXWKHAmLTbtF1zxJxqPljCEOM3pMvJLyor5Ekpfh0-C6FI5L7ANO28wwGOz4ng6BCeYPphVN12u05Mx9igQVapJP93aR3pDFHzm_EimV7VQp29x3cKPcKTsBG7NhueXB-2mnvFW4SjzhlMC06-yUKAmfXc1GnqNk8_X7AdrF89Lunp2VGhECyrT42VAqX7v5qPULa7mWAjjFQ962VSXlomaZPOnLPag-LJFHODXYbpyXie44XNiQ0_puavOOTDI8I3gcSrfEFhOW7yGYyXQJk6uCp1JvxIHiI7jAiDVL3jMnnz55l28a25hqcAnKwinkUldzHIENI7EZKJcyO2DoTu4XSNQmxqaSI3-Bffzw663MGdYW5Ti76DN_ldxp7U2tAv4fI4F7TknxvZBzAsPEuZuYn3ph2Z4j4C-Xf0l2UUjARwWwcRqsGuwkc0tbN3WKDdoKwfWTUu0OQUYmVRC3yqc9QJlYM9t6ZanPn1eT4KLlbf4Kdmds_rKf_2Q_YVB3IGFswVpszHPqeg-8wHVfXidGtg7mP7YKyqhRGUTPw)**  
+
+👈
+به گفته GB News، نخست‌وزیر بریتانیا کیر استارمر «به نظر می‌رسد این هفته استعفا دهد»
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.2K · [07:26 · 11 May 2026](https://t.me/alonews/119198)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/202693583a.mp4?token=qHcd0H0Ztis5H2cImzcu0UNVYJEjv_mzlWwMXZAOesvuNNvA8IHQWAn8U6EYEZ_2KMLuprYcwzDh_S75i-YDR55h7AclyIQ5EnN-vLaRkFIQAyd5EiFLNV7uydIB9euRypqpi9Csh9mlkX4rZmu2r4Ji-4O-1EUYRJjQjsXNjUmJDvsT5jmcHZRMSz81VQR5qp1KxNLTxylwUVPKy8dtTphCbXSBbESODunolZ2INfFAxi2Eqa6FcYjZxafhrFKtaHMOVs24sX_GehdUgYkQJVwX4ytN0m5lnKXXfpMO4kFbSDTeRh_bFuE_VIy4eed97QFv5E3q1zS6d5WtPzYLBQ)**  
+
+👈
+اظهارات جنجالی ظهره‌وند درباره سلاح سری ایران
+:
+من جاها و ظرفیت هایی رو دیدم که اتفاقی میوفته که بمب اتم جلوش ترقه است
+🔴
+شما میتونید زمان رو پشت سر بزارید، چیزی که در چند ثانیه از تهران تا واشنگتن برود
+🔴
+میشه یه کارهایی کرد که بمب اتم جلوش بچه بازیه!
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.7K · [07:27 · 11 May 2026](https://t.me/alonews/119199)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/InLuFULT3mKAeNLnfDiOgooh4jsqfdGLLuEgVvj0xC2fo-TwD5MNe9wAVKprQBBL8Y5WRVefENikn3OJJjL97nDadueGBSOUGCVDqNpMOKEgje8Kx9wowPr3BcQi6clGKDkLk2FtLtzwS56lFD6DP--pESkfJWaoRKwaSQ8nlOQ4CwqZYV2t2MrOXJ8fRmjLA78vy2qgQj0_1xUtoij8POIKcpywaVgwbE6aa8JCIWbIiewRJp8p4hAbKbPRbO-27D3MZSrzp24XIRWSiR1vDZKhaFKJpfzM_z6gwJImyhcESBTsBxjDatMym1kH8pQ5MJ6i2JlLZ1gxfH64YrjO0A.jpg)  
+
+👈
+جنگنده‌های اسرائیلی شهر کفر رومانی در جنوب لبنان را بمباران کردند.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.5K · [07:32 · 11 May 2026](https://t.me/alonews/119200)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/VhXToG-pE_5BvoKYaH1LuOoDwjnrNerDYwBD5fDEeDzl54IFURqP35YDQCNmTTjQPf8SekDhtG45qO7BFEfuOlcP0_POtQn3TYEV0gcI76pyBPxK8-jf2chfeB69jrU2srdsGXeDNaHeeuZDrnrj1wfKLdYLhevkKD0SLZBlK6GGrmWM1WtCbytJTt7bJ-JIjdNpW5WK9WwEuIguNGSm4IMXzvs-2MeV0YqXh_76WGXt1NAAtfP5WpvfraCg_hKIu0jmVD_8h4vaKpuMeklz0ZH4gD_Ifn2VwmsR_hiO_f_84D1vokDZBkcMn1LnCDISz8aEswZs50TLgP4qhRwYgg.jpg)  
+
+👈
+۲۰ سال حضور عباس عراقچی در مذاکرات؛ از مونیخ ۲۰۰۶ تا تهران ۲۰۲۶
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 19.2K · [07:33 · 11 May 2026](https://t.me/alonews/119201)</sub>
+
+---
+
+👈
+وزارت خارجه ایران: پاسخ ما به آمریکا شامل مطالبات منطقی است و در واکنش به پیشنهاد واشینگتن نیز همین رویکرد را دنبال می‌کنیم
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18.4K · [07:39 · 11 May 2026](https://t.me/alonews/119202)</sub>
+
+---
+
+👈
+سخنگوی وزارت خارجه: ما هیچ امتیازی مطالبه نکردیم. تنها چیزی که مطالبه کردیم حقوق مشروع ایران است
+🔴
+قضاوت را به شما و مردم واگذار می‌کنم که آیا مطالبه ایران برای خاتمه جنگ در منطقه، توقف راهزنی دریایی علیه کشتی‌های ایران (محاصره دریایی)، آزاد شدن دارایی‌های متعلق به مردم ایران که سال‌هاست به ناحق در بانک‌های خارجی مسدود شده، آیا این‌ها مطالبه زیاده خواهانه است.
+🔴
+هر آنچه در متن پیشنهاد کردیم معقول و سخاوتمندانه بود. نه تنها برای منافع ملی ایران بلکه برای خیر و صلاح منطقه و جهان.
+🔴
+طرف‌های آمریکایی همچنان بر خواسته‌های نامعقول خود پافشاری می‌کنند
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18.3K · [07:45 · 11 May 2026](https://t.me/alonews/119203)</sub>
+
+---
+
+👈
+سخنگوی وزارت خارجه: ایران ثابت کرده و قدرت مسئولیت پذیر در منطقه است. ما قلدر نیستیم، قلدر ستیز هستیم. کافی است به عملکرد ما نگاه شود. آیا ما بودیم که به آمریکا لشکرکشی کردیم.
+🔴
+آیا ما هستیم که در نیمکره غربی علیه کوبا و ونزوئلا و ... قلدری می‌کنیم. آیا ما بودیم که در روند دیپلماتیک دو نوبت مرتکب این جنایت شدیم.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18.3K · [07:48 · 11 May 2026](https://t.me/alonews/119204)</sub>
+
+---
+
+👈
+سخنگوی وزارت خارجه: سفر ترامپ به چین یک سفر دوجانبه است و به خودشان مربوط است. با چین به عنوان شریک راهبردی و کشور اثرگذار در شورای امنیت در ارتباط مستمر هستیم.
+🔴
+عراقچی اخیرا سفری به چین داشت و نقطه نظرات و ملاحظات خود را بیان کردیم و چین از مواضع ما آگاه است.
+🔴
+چین می‌داند جنگ تحمیلی علیه ایران بخشی از یک روند جهانی در راستای تشدید یکجانبه گرایی از سوی آمریکاست که هنجارهای بین‌المللی را مورد آسیب قرار داده است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 19.1K · [07:48 · 11 May 2026](https://t.me/alonews/119205)</sub>
+
+---
+
+👈
+سخنگوی وزارت امورخارجه: طرف رسمی میانجی کماکان پاکستان است. طرف قطری هم ایده‌هایی دارد که هرموقع ضرورت داشته باشد در میان می‌گذارد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18.5K · [07:53 · 11 May 2026](https://t.me/alonews/119206)</sub>
+
+---
+
+👈
+سخنگوی وزارت خارجه: هرگونه مداخله در امور تنگه هرمز باعث پیچیده‌تر شدن موضوع می‌شود
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18.1K · [08:03 · 11 May 2026](https://t.me/alonews/119207)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/2deeaf89d1.mp4?token=XGAq52eQZBVlraJIbKxQfFdOkenBN5tbOWK6Mzqsedi2HlT_DVhuuM42BHntx4GbBwAFx83DrpGqG8Q0p3PyBT2Dr1dCy8S5KR68Z7NcJ0sKLUtWDYpS_UTitueOJU3yCXsX6fZ68i6iU0F7iaL_2-em8Lb0nf8G5t6erWtDg8B2KnztZZWSP5ucsk5usbbr0qE4eOfuoYwzLMn2x7C2ndaVZmHjCmK1F_4lJBtiwK74riH3QMoXZPB3iyu34OsDcyhgTNLT3A5MiO7IyONS6oVJ0PIM9gqO54JXzbhbIb2VtsK9y_oW91u8zNGtxibpTNhI41dJI5cEVICzREC0Mg)**  
+
+👈
+بقایی در واکنش به انتقال اورانیوم غنی‌شده ونزوئلا به آمریکا :  ما خسیس نیستیم؛ اینکه آمریکا بخواد برای خودش از این ماجرا دستاورد بسازه، به خودش مربوطه
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18.9K · [08:10 · 11 May 2026](https://t.me/alonews/119208)</sub>
+
+---
+
+👈
+بقایی: ایران قلدر نیست، قلدرستیز است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18.9K · [08:10 · 11 May 2026](https://t.me/alonews/119209)</sub>
+
+---
+
+👈
+بقایی : آمریکا سابقه خوبی نداره
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18.8K · [08:11 · 11 May 2026](https://t.me/alonews/119210)</sub>
+
+---
+
+👈
+احتمال شنیده شدن صدای انفجارهای کنترل‌شده در جنوب تهران
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18.3K · [08:13 · 11 May 2026](https://t.me/alonews/119211)</sub>
+
+---
+
+👈
+سخنگوی وزارت خارجه درباره اظهارات نتانیاهو در خصوص اینکه جنگ با ایران تمام نشده، گفت:  ما با کسانی که علیه ملت ایران اقدام کردند، تسویه حساب نکردیم، حتما فرصتی به نیروهای مسلح ما داده شود به بهترین وجه از آن استفاده می‌شود.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18K · [08:18 · 11 May 2026](https://t.me/alonews/119212)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/fn0nUzIh7G_-cYe1vg4dj4fUdlimjunjVz4njJCxN7ovg5DL8TmiD6RsC5IpX7uZUIAi3fWGzT-jNQo6fpdaLXu6MgI59p5QmGzxu_m-HECwDx9Vs2nbXns8rkOcO2ztCJ641WIDVpKkm97mfIalTsgd11lL_TGR6uyAupS7tnkokYXVPm2NNGF6Z7JZOAQxf-1ikd6ts02i4DSLkRT6lt2T_g9oU4xDRRsS2jYdOKNusjy6fOx90pqQi5VI1sxdP2ztkjPE2stx-cKn6GVpmmsf30HoNURzWG4TkuU9OPsSgBKTbKnyPpPUTz9F3C7v2ofGDztnQ3lb05Od547MzQ.jpg)  
+
+👈
+کشورهای مرتبط با کشتی کروزِ آلوده به «هانتاویروس» کدامند؟
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 19.2K · [08:21 · 11 May 2026](https://t.me/alonews/119213)</sub>
+
+---
+
+👈
+یدیعوت آحارانوت: نتانیاهو عصر امروز در پی بحران مذاکرات بین تهران و واشنگتن، یک جلسه امنیتی برگزار خواهد کرد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.9K · [08:36 · 11 May 2026](https://t.me/alonews/119214)</sub>
+
+---
+
+👈
+بقایی: ادعای ریختن نفت در دریا دروغ است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.3K · [08:44 · 11 May 2026](https://t.me/alonews/119215)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/fN-1M_Dh8D42J-khSLMOmIVLTxVJtcKiCO3-3eHI9Ks7p4QD8txuJQM5d-9n8NkevtJyclG3G1rwCyO2KhYF5jM6duKNd8zz0H-FX8BYtzVcHQw4lms2DLM4VdthXKdbexoLqDA5y4OorJTrlKAjCnuUIwlRpIyQPbOa79azpYsAtT9O2iHvNF-eh3_PRnOzFYpNo_HjdLJ_BmEKeYn95i0iSsNSGGpQaY9RvC_Hq2E7lbnGxjN-wyb1W0YfvFLmyA1lLuHD-Xu3EnXn26-KzVc-Wi70-K2aGi-v5LKM3LCkCVtQnJxwhwgw2dpKPAGQ01-lsFT_Hj4WprfwfZJOHA.jpg)  
+
+👈
+ارتش اسرائیل هشدارهای تخلیه را به ساکنان در شعاع ۱۰۰۰ متری در شهرها و روستاهای زیر در جنوب لبنان و دره بقاع غربی صادر کرده است: الریحان (جزین)، جرجوع، کفرمان، النمریه، عرب سلیم، جمیجمه، مشغره و قالایا (بقاع غربی)
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 18.5K · [08:45 · 11 May 2026](https://t.me/alonews/119216)</sub>
+
+---
+
+👈
+احتمال شنیده شدن صدای انفجار در ری
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.6K · [08:51 · 11 May 2026](https://t.me/alonews/119217)</sub>
+
+---
+
+👈
+سخنگوی صنعت آب: کشور مطلقا وارد ترسالی نشده است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.2K · [08:55 · 11 May 2026](https://t.me/alonews/119218)</sub>
+
+---
+
+👈
+سخنگوی وزارت خارجه: هر اقدام دستگاه دیپلماسی بر مبنای دستورالعمل شورای عالی امنیت ملی است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.4K · [08:56 · 11 May 2026](https://t.me/alonews/119219)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/d506f96988.mp4?token=YBIk4UDK0-MU21J37ym_wFFDwQrszRnUuJhUIOLrBrAHlLdYtGHqn-OnhIIRLlttcGk7NJm7idpoH-bXDeistUkObIV8PEEli67hhoyiaamrJvbaAMci3OkhYipNeOAU3fEQOxxdsc8TvYT9v9PFc86dE_zmwOSG7IcEsrcAj84LEH_yEmT-CXZcjlubFRHehkWnBfgnJjgrkDJiqI3a11f7RjDrDFBtSvD-wHXBGaEpHTeTBBP_w2CGXZVi-ERH1bfPOltfZW26IIKa3ANin3HjnCaeJhVPvDq1myCcYlhHTpihMfWPV4jNUg1apI3UYZPo1HRg0M6h0QXtbFLrpg)**  
+
+👈
+خوش چشم، کارشناس صدا سیما: احتمال می‌دهم ظرف یک هفته آینده جنگ مجددا آغاز شود
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.2K · [08:59 · 11 May 2026](https://t.me/alonews/119220)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/IYq-cXQ6g73Go6lzCCoh9roijw-dPHwJXxuUvPqE-0kxBRMw94_rQGapIEfWQ8b84fECpjSc4ygkCHik1kdqSq5dgnHKKh0HbNrNmUZwQIXuNMEUQaBiLvBKfumfmnXTkPVSH9-sQAGc0sHTQkNhvQ7r9mskNsCtWxmJoijxQmYvzHiR8QfxE4QF-4flNNJtVSU7tChIW8j0ZXYiCjeEPEV-bCYeuS21GYU6jamxU6S_GKiINClGsIPdz-a6dJyNMSn-JLfKettSl0VzDItU5L46LrxNs9_O67PA9W1nHWWX4T_GOtu71YlceSO7TzJ5T2eh8aTq0kXMyb9L4uLVIA.jpg)  
+
+👈
+وضعیت شیراز بعد از انفجار مهمات عمل نکرده دقایقی پیش!
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 16.5K · [09:04 · 11 May 2026](https://t.me/alonews/119221)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/P0hdnOEY0VIa8UNCy9QJ2trFFdI7-m71Ic0xQ-m7tMhr_HcDiLSHvIjweTiCMj4YlxXFQ_gPRf3ZCARZ9vfMi7ByLjFaxuC_DNypi3r0Yyf1uL2hmbRp7sRymaNgXjm-vqGA0nJ17OEbuWT64c6qcnYFyutJteJZ0guvEoHN27w-0APTwgOb6ZXIIe0-QHCCIGl2upgR_x2Pc5xsKpzi8DHWhqpElwgWeW71N43tT879CddnIsuaKpWDU10dztjqPYUL0VzDuQjHxjikkEJF2DeJGQZNxX-3s_KLSdcmY_3Ol1ORY3_cJljUNOXBXzzaX0oB4pqbfJq7Y4oKRVxkLA.jpg)  
+
+👈
+یک افسر ذخیره اسرائیلی به نام الکساندر گلووانیوف ۴۷ ساله، دیروز در حمله پهپادی حزب‌الله در شمال اسرائیل کشته شد، ارتش اسرائیل اعلام کرد.
+🔴
+بر اساس تحقیقات ارتش اسرائیل، چند پهپاد FPV حزب‌الله از مرز لبنان وارد خاک اسرائیل شدند و یکی از آن‌ها به گلووانیوف اصابت کرده و او را کشت
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 16.7K · [09:08 · 11 May 2026](https://t.me/alonews/119222)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/vUp0fi955JPyKRha_NR7fsEvKbIbkLB_KqlC2uRuACxmEcV8quHxXkjWL90XgP09H-FYwgiedEe230GFHHdTQm3pRiMdxrW0nwTj8wazXz_EkGP0q4pI33ABwBOz0-Aof6j5rH7UxQ32kkv-OElMx3TxzUEd7kq4oi5vTKpflb7TRyROFN1K2OFD6Chicsos78ATbY0Y9Vv0pfHquD1QHQTzCQj7kuGQal2uBifkLe9Jr6Ohd0IDXoIzwXxn-uuW49Pfcflk3yvMQakX-3GgFD-oX_a39q3A9gqx4ArcU5Po5p4fnbi8PdEsHPUxstl-EULkn9kLECNJQAjpJ7EFog.jpg)  
+
+👈
+بلومبرگ نوشت: یک کشتی حامل گاز مایع (LPG) که سابقه حمل LPG ایران را دارد، در حال عبور از تنگه هرمز است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.1K · [09:13 · 11 May 2026](https://t.me/alonews/119223)</sub>
+
+---
+
+👈
+یدیعوت آحرونوت: رئیس ستاد کل ارتش اسرائیل، به کنست هشدار داد که ارتش به طور فوری به هزاران سرباز بیشتر نیاز دارد
+🔴
+او گفت: «من با جنگ چند جبهه‌ای سروکار دارم. برای ادامه این کار، ارتش اسرائیل فوراً به سربازان بیشتری نیاز دارد،»
+🔴
+«اگر هر کس فقط به شرایط خودش خدمت کند، ارتش از هم خواهد پاشید»
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.1K · [09:16 · 11 May 2026](https://t.me/alonews/119224)</sub>
+
+---
+
+👈
+وزارت بهداشت: هیچ موردی از هانتاویروس در کشور گزارش نشده است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 16.2K · [09:30 · 11 May 2026](https://t.me/alonews/119225)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/9e1aa141ea.mp4?token=bIKDTI0GSVm-kWm8f2TWzg_zcNQ1nHjlaVs299_TgAZ56iYVSp0McaOweiuLsbzM6oVJcl_CuJ8Gg5X7j84UTSLmgCEKzu_ZbVASlCqc-eriY2QVzF318OTdWDZVWu1q3j_MFRqsHo5PRRp6ChLQDSjbS2SYKKdPYMkDP-P2f696PPsO-iGZ2OM_bj_DewN1xBB0a3QrOWBFqtYm5oDlYyy8X-INexxBT6KNWF3f4jOP1gD890FgqshE2kooXmMEW4bqkc0_-tXGU6lD4XmVLPhFNwm3Q9gzUeEolyvo7s256Bl0BBHcs2sE_uay582jzaDcQqqZDpzrtiQhub_zYA)**  
+
+👈
+ساکنان گالیلای غربی گزارش دادند که دود غلیظی در نزدیکی مرز لبنان مشاهده شده است، طبق گزارش کانال ۱۲ اسرائیل
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 16.6K · [09:31 · 11 May 2026](https://t.me/alonews/119226)</sub>
+
+---
+
+👈
+دو شهروند آمریکایی به ویروس هانتا مبتلا شدند و این اتفاق بزرگترین تهدید برای جام جهانی ۲۰۲۶ محسوب می‌شود.
+🔴
+وزارت بهداشت و خدمات انسانی آمریکا می‌گوید آزمایش یک آمریکایی مثبت بوده و یک نفر دیگر علائم ابتلا به ویروس هانتا را نشان می‌دهد. مسافران کشتی کروز MV Hondius صبح یکشنبه در جزایر قناری، پیاده شدند و از آنجا با پرواز‌های چارتر به کشور‌های خود منتقل شدند.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 16.7K · [09:36 · 11 May 2026](https://t.me/alonews/119227)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/098cceb4bb.mp4?token=Prw7RXSBG51SByoIB6czkCzedPp6nKX21Bgr1Slq2gyIqoKWNIMJEdGBlVfBs8MyiRspJ3U5YPWoFp6fLEcm26mUbpzyKBCXAZyIVDL2kGq0BmS_jH_2aTCQEqgZd10FI3wVMO-PuVvK92nLvdEcD2w3G1VS1dmE5r4XoiKBLPh8MTnWXzyTp7AnZM5UKQYqhd8ttqRbpwtn4cFCOuXSW-4RtfdE33aGjp-Is-RQXze7mQsrSGO2m4N7ET5yZqiz4TQ8wYCqEDWmZbZzh56hkOE2XXkMHoaHufRj_oaaPZO2IoWGlpnRfgXMz9RiEQt_D7J1JWMnu8lThRggt_WdQA)**  
+
+👈
+کیر استارمر، نخست وزیر بریتانیا : می‌دونم مردم و حتی کشور ازم ناراضی شدن
+🔴
+ولی قصد ندارم استفعا بدم و می‌خوام ثابت کنم که منتقدها اشتباه میکنن
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 16.6K · [09:39 · 11 May 2026](https://t.me/alonews/119228)</sub>
+
+---
+
+👈
+کانال ۱۲ عبری: سه سرباز در انفجار یک پهپاد در جنوب لبنان زخمی شدند
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 16.1K · [09:43 · 11 May 2026](https://t.me/alonews/119229)</sub>
+
+---
+
+👈
+ادعای وال استریت ژورنال به نقل از منابع: ترامپ با این آمادگی در پکن فرود خواهد آمد که چین را تحت فشار قرار دهد... تا به میانجی‌گری برای توافقی که به [جنگ با ایران] پایان دهد، کمک کند.
+🔴
+با این حال، مقامات ارشد آمریکایی اصرار دارند که بحران تنگه [هرمز] و امتناع تهران از امتیازدهی در مسئله هسته‌ای، پس از آغاز اجلاس [اصلی] سران آمریکا و چین، موضوعی فرعی و کم‌اهمیت خواهد بود.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 16.1K · [09:49 · 11 May 2026](https://t.me/alonews/119230)</sub>
+
+---
+
+👈
+بلومبرگ به نقل از منابع خود نوشت:
+تهران خواستار لغو محاصره دریایی، کاهش تحریم‌ها و حفظ برخی کنترل‌ها بر ناوبری در تنگه هرمز شد.
+🔴
+ایران اصرار دارد که هرگونه توافقی باید به توقف فوری خصومت‌ها در لبنان منجر شود.
+🔴
+خواسته‌های ایران شامل آزادسازی دارایی‌های مسدود شده‌اش و لغو تحریم‌های آمریکا علیه صادرات نفت این کشور بود
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.9K · [09:53 · 11 May 2026](https://t.me/alonews/119231)</sub>
+
+---
+
+👈
+کیر استارمر : اگر انگلیس وارد جنگ با ایران می‌شد، با آن درگیر می‌شد، «اما من هرگز این کار را نخواهم کرد.»
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.7K · [10:03 · 11 May 2026](https://t.me/alonews/119232)</sub>
+
+---
+
+👈
+رادیوی ارتش اسرائیل به نقل از مقامات نظامی تأیید کرده است که در حملۀ پهپادی حزبالله، یک سامانۀ گنبد آهنین دچار آسیب شده است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.7K · [10:04 · 11 May 2026](https://t.me/alonews/119233)</sub>
+
+---
+
+👈
+داوود بیگی نژاد، نایب رئیس اتحادیه املاک تهران: با آگهی در سایت‌ها قیمت مسکن را بالا می‌برند!
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.1K · [10:07 · 11 May 2026](https://t.me/alonews/119234)</sub>
+
+---
+
+👈
+کیر استارمر می‌گوید دولت قانونی را برای ملی کردن صنعت فولاد بریتانیا معرفی خواهد کرد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 13.2K · [10:10 · 11 May 2026](https://t.me/alonews/119235)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/3257c052df.mp4?token=Hl9K52tJBrD8InjjsNgOFdmQZw_TuA41uT4MN_G5r2CZVWtzV_yb4tDl8aDftwISoDCtgi_LygqT3KZhCTvZQ46UZHolbpzfdcCP2NUhExPal8Ree6hzItlV9Ty8HwHfrHBCVABNA2jPViJEx_jG9mrjzw87aVaOm-P4JvpSaL4BrzYQ4ExQRBNgD-8g6nQrlT_N5tlcMq2c3hqQxETCK_r2O8mI9YnLN6zBWpdCOjqCu1a1YWmr0gyXt66yL4cN7ogZaLyBUy8QTPlSqc0589DnDJBzOdHD5ILGsbDEwCABosTnrIlS1hNBgKYHkFMegdedcniXODY9b3hZVPtBnA)**  
+
+👈
+رئیس‌جمهور فرانسه، امانوئل ماکرون، برای دویدن صبحگاهی به نایروبی، کنیا رفت
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 12.9K · [10:13 · 11 May 2026](https://t.me/alonews/119236)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/3257c052df.mp4?token=VeCakWYK2ga-gdzI-WE_B6vH7MX_O_n1W231gk2Tf-PFBykD-VY8UeqiFiMpxUkQhGNoE_27H0K3-SDQdQYzZqfXt9tAOoisX6yJNAMi7xGGEtMLBmjMRYhqgprkxDjZOZmB1qp-5Jfhm0ck3p7t_PqlTupPTQg72t1DMTbZpj7piqJPTmhfuwTY2J1u20Ihu6TjLeNWduy1Ce5Vfxm2lj8OHS9Ek_mnzSW98Tv6PkrHPjflo4Azat0sZnyPmudfW7owl57jWVRppx2Pdu-dQZjwPk5z3VO-VtGT3o02QtmgbYwj9Il67o_oljeYvqlUmE1jMRZFB_0QXJZS3790VA)**  
+
+👈
+رئیس‌جمهور فرانسه، امانوئل ماکرون، برای دویدن صبحگاهی به نایروبی، کنیا رفت
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.8K · [10:14 · 11 May 2026](https://t.me/alonews/119237)</sub>
+
+---
+
+![photo 1](https://cdn4.telesco.pe/file/jDkpPn1rW5zEh--d0xtyYZ0HIcj7v7q80WjIH3DeEuG31H7sg0mPI6VLd4gvsrFsn7RhP64PyVYuUkeOSCTrWZ1ilFjmOjZdZZmmnrDjAswY-veadntPwWHIjxWdXgKFNlrq6xOx5GHxy8Wny-llqilDDAZ1o7VC1F1zGIBcpeoLCGkpk0oBgw3xGH9PgSsYUYrA9oQcl0nxx-W4LzUDwMFgNYSaoAv-3bKQmT714-tkYMehS-04Ra1yqOQF9dnh3bOtAmdgGvswL28LUN9bFsY4fVjmO6xqj2sWwe4-6FSD55FtliC_R9Fwbm-0yBj1ztg3X91fjt9EfiiJat93nQ.jpg)  
+
+![photo 2](https://cdn4.telesco.pe/file/Ft_SXKgt_oOK-cVJy7UfJM_q9QHUcLGyKcyGvZPW1VKd0h-3O5mknlhyqpa9U_AqFD1zNajunNPpHNjrJkU2Vp4CFh19Eg-nGMyYkhiuiwuRSSgy0ExdvaJpN7rVH4gegr9vmSRSUl78UDabwdAuNWpLv1nm52QWXNgW87PueKvJaNEaoESg74ZOuLLhUQH6xpdJViYylIN0NEtRx_pHx5Cez3cJUoV34GJ3egH2Yyq3321FEDF3ttBPmj6zqGFs4YLC-xBElefj_L0UQVsuC1FF80asUHlc8Of17BwxtqE_8QCZ6ZtxsU92WJc6pDio5Oy5Af__HX-Rf_IBj5SJfg.jpg)  
+
+👈
+یک پهپاد اسرائیلی یک وانت شهرداری را در شهر زبدین در جنوب لبنان هدف قرار داد، در حالی که در حال حمل نان به ساکنان بود.
+🔴
+دو نفر در این حمله زخمی شدند
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.2K · [10:14 · 11 May 2026](https://t.me/alonews/119238)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/fE0FbXannVBvkXIsTcMMBvdPgwhoi7CwUlI3XFZILRExw3Gpy95aKEVb8qViSrgi8I-2PK5bwXPECQs0zQ0KwsRVCvySi-RozXkjzSNFct_VSyn1qw8ptLsZ2Epcie4cRIAjCymsFIwmxND0IyR1nkdUaa2gL5MPNcYpb6_HXay3HWjDo4ulKP7MxaywjHNN4jiub-8-AQdksfBrZuvtnUM6rKAIeWdq3cjXJ0UHjk8HpLsgtJuGrtkI6zTIyxnoYQgyVv6nVTYQCsO9QV9GthnI_A0oaaETvQJRL0FfE3o-caQo8X98izwN6pSUuLEevhmYTFKZ2rGDJWNdGDwKDA.jpg)  
+
+👈
+ارتش اسرائیل اکنون از مانکن‌های نظامی در جنوب لبنان استفاده می‌کند تا حزب‌الله را به هدر دادن پهپادهای FPV خود روی اهداف جعلی فریب دهد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.7K · [10:15 · 11 May 2026](https://t.me/alonews/119240)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/sSnkaxdxBclOdWgoA1PvsDzCPNmY6eKm60Bqz7daMIhiU8n45ZauQVCvrg8reWJ-65IAPiGpFGqkoNt0zAZG83kv-NvOeuhiJ_PHzF1QYAP1QrH16lUWqNoexdJClhNIBuYB-xGeh4JpUDTgna16F14PygLSHS8KMLseyVv9LIqIxMOpOordhD22z8Squ4qR7Sx0cnhqb8OZIvuiDJKAUjXnC6R08ysl1LGJjbeTD0ZRYgiXqlvJfEVYhScA9NFhvfLbSPDK2Ns7gvaJb5f0g1qX38ilKlgWylu4B4xGQZn4mFlXwnYYqMLfwQtSCZuUu06Yrjb1A8OpUOfa81h6jg.jpg)  
+
+👈
+پیامدها در کفر جوز، جنوب لبنان، پس از حمله اسرائیل در اوایل امروز
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.8K · [10:17 · 11 May 2026](https://t.me/alonews/119241)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/ee41e3d0f7.mp4?token=WqD1SI7lOrGPLx7wWSPavk2tzCTqrwAgJlXBd2kj00MBzGvTmbcWp2uxIVnZAzBK1aiopWhf57iXjHi4u6YtUVPbGIyMEnjlK-XhT5wvB2osl8h47eIqYjwFrfMzHePLMwJsHHV5arO4wmytTqhKD_B2Pgo0PwTZLXX-t5rfpR0S744AMiJn-JsGUWBvHtxpvdZy3q_Kh_VbLK-vTIHKIIaDLYPVS00SKn4l-Tfl1rgs4gk0Vg6PCYhFOC-KP2yc2ugAfpgomVgByY5asStzlVBai2NVl60wp6CZRI_PF--xIF99ZPrifCUR-OC6Uoej3yicnimqbWX3-dj4PjmsmQ)**  
+
+❤️
+رضا پهلوی‌ در صحبت‌های خود در پنل آزادی دو نکته مهم را مطرح کرد که به‌نظر من، فارغ از هرگونه قضاوت احساسی یا دور از منطق، باید دوباره درباره‌شان اندیشید.
+🔴
+نکته اول، درباره مسئولیت‌پذیری در فضای سیاسی و مجازی بود. ایشان گفتند تکلیف ما با سایبری ها مشخص است، هر صاحب تریبون و هر فردی که در پلتفرم‌های مجازی فعالیت می‌کند، باید چند اصل را رعایت کند:
+🔴
+احترام به فرهنگ و عقاید متفاوت، مقابله با فحاشی و هتاکی، و مهم‌تر از همه، مشخص کردن مرز خود با جریان‌های مخرب و رفتارهای غیرمسئولانه.
+🔴
+یعنی نقد، اختلاف‌نظر و حتی مخالفت، حق طبیعی هر فرد است؛ اما این مسیر نباید به نفرت، انگ زدن و سایبری  خواندن  و حذف و تفرقه ختم شود.
+🔴
+نکته دوم، بازگشت به اصل بنیادین مردم‌سالاری بود. ایشان تأکید کردند که در هر کشوری، بالاترین مرجع تصمیم‌گیری مردم و نمایندگان مردم‌اند و تنها معیار سنجش نیز صندوق رأی  خواهد بود، یعنی نوع حکومت آینده را مردم تصمیم خواهند گرفت و لاغیر.
+🤔
+ما این مسیر را فقط برای امروز طی نمی‌کنیم، بلکه برای آینده ایران و نسل‌های آینده می‌سازیم.
+✅
+@AloNews  
+
+<sub>👁 19.1K · [10:19 · 11 May 2026](https://t.me/alonews/119242)</sub>
+
+---
+
+👈
+امروز به دستور قوه قضاییه، 2 واحد تجاری و 4 واحد مسکونی متعلق به علی کریمی توقیف و مصادره شد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 17.4K · [10:21 · 11 May 2026](https://t.me/alonews/119243)</sub>
+
+---
+
+👈
+کیر استارمر: ما فقط با زمان‌های خطرناک روبرو نیستیم، بلکه با دشمنان خطرناک — دشمنانی بسیار خطرناک مواجه‌ایم.
+🔴
+اگر این را درست انجام ندهیم، کشور ما به مسیری بسیار تاریک خواهد رفت
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.3K · [10:23 · 11 May 2026](https://t.me/alonews/119244)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/QiBuvVJrGwIlosXsnXYR44x49XJfBGur6T6EuAxrgJqSn1xpo21oWL3YaQBfTsjkS_NK_LxVLEwh5bCCMU0xmzvcYTiWhxFoBdZRKKNn-5vXpDBTPo9iuDBgeISz7GCO22CusV4dihNTItpSsx_kw08HbmxSq0cSCOBZLPHTsc1OpP84d8Led6KNuzp0YHLlW-O8ou8ZM7hIE5IjcsYv34qGXSM78-4IZBeppaNSWijnljmEYT1OPDS-Fi_7n3ZQnDN4Rz8Byn96QRYvCEih9-3UiY3ihVFH_rxaMTwAyuGrv0GxwyJZPHoEKqRXbqG6Jg4_qR1nQBmM6a7pwPVwlg.jpg)  
+
+👈
+قطعی اینترنت در ایران وارد روز 73ام شد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.9K · [10:23 · 11 May 2026](https://t.me/alonews/119245)</sub>
+
+---
+
+👈
+کیر استارمر: نه نایجل فاراژ و نه زک پولانسکی رهبری جدی و پیشرو که این دوران می‌طلبد را به کشور ما ارائه نمی‌دهند.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.9K · [10:24 · 11 May 2026](https://t.me/alonews/119246)</sub>
+
+---
+
+👈
+افزایش 25 درصدی سود شرکت نفت آرامکو سعودی به دلیل جنگ خاورمیانه
+🔴
+عربستان سعودی با استفاده از خط لوله شرق - غرب، با دور زدن تنگه هرمز، نفت خود را از خلیج فارس به ساحل دریای سرخ منتقل کند.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.2K · [10:25 · 11 May 2026](https://t.me/alonews/119247)</sub>
+
+---
+
+👈
+کیر استارمر: در اجلاس بعدی اتحادیه اروپا، جهت‌گیری جدیدی برای بریتانیا تعیین خواهم کرد.
+🔴
+دولت قبلی با قطع رابطه ما با اروپا شناخته می‌شد. این دولت کارگر با بازسازی رابطه ما با اروپا شناخته خواهد شد — با قرار دادن بریتانیا در قلب اروپا.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.7K · [10:28 · 11 May 2026](https://t.me/alonews/119248)</sub>
+
+---
+
+👈
+مدیرعامل شرکت گاز استان کهگیلویه و بویراحمد از قطع ۱۰ ساعته جریان گاز در بخش کبگیان شهرستان بویراحمد طی روز سه‌شنبه ۲۲ اردیبهشت ماه به دلیل عملیات توسعه شبکه خبر داد
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.9K · [10:29 · 11 May 2026](https://t.me/alonews/119249)</sub>
+
+---
+
+👈
+شرکت اسرائیلی رافائل: از 1500 موشک ایرانی پرتاب شده به سمت اسرائیل، تنها  ۱۰-۲۰ موشک رهگیری نشدند.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.8K · [10:41 · 11 May 2026](https://t.me/alonews/119250)</sub>
+
+---
+
+👈
+حملات هوایی اسرائیل به نبطیه در جنوب لبنان، طبق گزارش خبرگزاری ملی لبنان، چهار نفر را کشته است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.1K · [10:41 · 11 May 2026](https://t.me/alonews/119251)</sub>
+
+---
+
+👈
+وقوع انفجاری در یکی از منازل مسکونی واقع در خیابان جهانگیری اراک، منجر به تخریب ساختمان مسکونی شد.
+🔴
+تیم‌های امدادی در حال حاضر در محل حادثه حضور دارند و عملیات ایمن‌سازی و آواربرداری را آغاز کرده‌اند.
+🔴
+علت دقیق این انفجار و همچنین تعداد احتمالی مصدومان و خسارات وارده، در دست بررسی کارشناسان است.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 16.2K · [10:43 · 11 May 2026](https://t.me/alonews/119252)</sub>
+
+---
+
+👈
+سفر فیدان به قطر برای رایزنی درباره حل درگیری در خلیج فارس
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 16.2K · [10:48 · 11 May 2026](https://t.me/alonews/119253)</sub>
+
+---
+
+👈
+قیمت بنزین کمی کاهش یافته است اما طبق گفته انجمن خودروی آمریکا، همچنان تقریباً ۵۱٪ بالاتر از ابتدای جنگ باقی مانده است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.4K · [10:55 · 11 May 2026](https://t.me/alonews/119254)</sub>
+
+---
+
+👈
+گفتگوی تلفنی وزرای خارجه ایران و عربستان
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.3K · [10:55 · 11 May 2026](https://t.me/alonews/119255)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/u5t8ugVXB2iEq6z-ZiJqIB6Id_NfVM3RIp-SCMaB9CMoq-oRHJDCkvRWMOUno80UC90geX5TRy-detpa49AxDuQYkH3VfuLcHTT9y6R7-Pl3pddc_s-90-buxL2AcCQNORYuDn63AByvPE2-48CX1zGcvICIxHASEFW6t3gGGwaS5ipb9e4AmHWt37ty0-QbaJsgt58NNar2v2nmozq78F7PxPGVpDiwzRosWdeujxt6k3GbzN_Q587fkad1LIM-nFp4C0wcNHYKK2V43oVyjhWrqDAkydh7XeEajt6VzP93HwEISAoEyzjeWi1DPTxBFhOyTVJupYVj2G8vEGr8Wg.jpg)  
+
+👈
+اسماعیل بقائی:
+ایران قلدر نیست  قلدر ستيز است.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.9K · [10:58 · 11 May 2026](https://t.me/alonews/119256)</sub>
+
+---
+
+👈
+پورابراهیمی، رئیس کمیسیون اقتصادی مجمع تشخیص مصلحت نظام: آرایش سیاسی آمریکا از جنگ نظامی به جنگ اقتصادی با ایران تغییر کرده است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.3K · [10:58 · 11 May 2026](https://t.me/alonews/119257)</sub>
+
+---
+
+👈
+همراه اول و رایتل و ایرانسل دارن اینترنت پرو میفروشن، یعنی همون فیلترشکن اما کسی بهشون چیزی نمیگه
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.7K · [11:03 · 11 May 2026](https://t.me/alonews/119258)</sub>
+
+---
+
+👈
+نماینده حزب کارگر دیوید اسمیت خواستار استعفای نخست‌وزیر بریتانیا، کیر استارمر، پس از سخنرانی او شده است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.3K · [11:06 · 11 May 2026](https://t.me/alonews/119259)</sub>
+
+---
+
+![photo](https://cdn1.telesco.pe/file/NjQkEwoB0xrejJ8ywdsG7ZVldodUh6ExYkVseOBlZjI69TXzJrWEVuGJuFfMVmXLLQRmR5qnmphAuSrXsLP25kmXWNqndgKqsBPOjefl41v9-DTcVbf6u_b4I7pQ3C6TpGPvbN1FTyiHXd_TZeb7mCDjsCCHjW9S-a1KokGSgVnSUIYFS3mgZhc4MNUMbulVF94KWYQ54RQHOO2m1NPx4cBSuO88BJjib79ND6UouxviY4EQFzjSuqvMj7dZAOltiycusisKSTrF8cG1soOqnQjlbFevcdfJxdON-5SN3Z70AUj-vB1dzMhv9pWCDb5o9qRFgHlmLUdtW8vsSJ1FzA.jpg)  
+
+👈
+وضعیت سد کرج، که در آستانه پر شدن است
+🔴
+سازمان آب و فاضلاب گفته که ۴۰ درصد کلا پر شده است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.9K · [11:06 · 11 May 2026](https://t.me/alonews/119260)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/856687da66.mp4?token=vePnQjaXBjZYADYJd5FUNrmZ3iifnWmC3CopgPAe3nshAr0EKd0y_0_0v1oGyi5UPEVBGXJkcSbG5fldESxkkLf4zAufyXK-8JsCN6Isz-Jr9Qc2SI3WlbSIAs5EP6oWXIK_llJ39uFybihmMwEaIbDGvGpzDcuyy1_cpBF4pXb4e5zgUxrpzRHuHh_wPgZYhos77Th1z22FpVWFc-Ht10dO4L216hdwWLaD1ORU3bLsUd_WpRsQwrtq10iYXE7hY77MRfo_UVa1kAYCjoF2FPCNdKaMJr92gRk0vfMUw_6sXJeJaQtI5ytod7paDEs82ltQ3vkEafLmq4c6U4nw8g)**  
+
+⭕️
+ایلان ماسک تأیید کرد که تمام‌قد وارد میدان می‌شود و جمهوری‌خواهان را در انتخابات میان‌دوره‌ای (Midterms) تأمین مالی می‌کند تا به ترامپ کمک کند.
+🔴
+این یک پیروزی بزرگ برای آمریکاست!
+✅
+@AloNews  
+
+<sub>👁 14.2K · [11:14 · 11 May 2026](https://t.me/alonews/119261)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/O0WeuXAlyTcEuXGL-vbhTN2-LQmXPuBEQ89xcQsEzYr82Rx6QVm8X55feYBqLiXJxP6WDnvH-QS1yKtDv9EGd7tw0b0ZC7D9yO3C8N_TgLzNBIeW3YYxowtt5tyEIvFFCploP1Iw9N0FQwMStV04flCGqcxF2VFkt1JeJZegLUGcHq9dc02P576DTxhTdqb6pm6lPptHzj1xvcXvuiqYJK5KNfTKgny68tFBf51Zu1_xM7akX4d9iQfZGkDdyswU4LM06jjHj4CPGGn99r9CDIUF6n56SdXhkEo9ibxQIWO5VJETpOUUIaK0UvwDALZ-vseTiP6kgT9BOAHvLqA_8g.jpg)  
+
+👈
+قیمت بنزین در آمریکا به روایت ان‌بی‌سی
+🔴
+گران‌ترین ایالت:
+کالیفرنیا 6.15 دلار
+🔴
+ارزان‌ترین ایالت: اوکلاهما 3.96 دلار
+🔴
+گران‌ترین شهرستان:مونو، کالیفرنیا 7.04 دلار
+🔴
+ارزان‌ترین شهرستان: فیشر، تگزاس 3.60 دلار
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.7K · [11:14 · 11 May 2026](https://t.me/alonews/119262)</sub>
+
+---
+
+👈
+وزیر رفاه: مشکلی در تأمین نیازهای دارویی کشور وجود ندارد
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.3K · [11:15 · 11 May 2026](https://t.me/alonews/119263)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/fl0umZZBeqBr73Xj1RH6hzYVceEMfm9p3PcOwLwpnuWDkV5e4oIaeEGW5fbIpE3JZ7B4UX-C9HLyu4Fk9pvT4QlHJ1l-gT7hu0FCVbjy-64X1UrETZ7UjHPfWza1gMXW5xCNoKKE24OGgVPeBF3YaEYOO7LTe2LLnx4OGtX4OXG82bgWLrBcsM1Z8XTzMGS4SCYMUxBhiefnNLdFgvk8cAccAA7_CRt5IJLjRWFl93Py1E5PG5A9tPTeHruBQjfwiPtwwBE7swNm-G21n7eO9g3rCEVwzntZLBh7Ef1Lnu64jP8eeLg_3mU85hguCMN-F2mNueiMQ1Ct0a2mJSrMwQ.jpg)  
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/a38a98ddd5.mp4?token=kamULSMwWY86aGfKsG2TQmtzjnlL_-nJpfc5cWYc1o6Zgkp9LbLZRuG2ugOJzO8ZQoNzO0MhNZuJZ-KGB2ng0HCkSpUsASpZ35gqXvpOzQ27ObWWGZ6MJsqPGvY0DdXQ0pp6uH7m5siF15sGLt_1Jdo1f0pgKF10JdzX5MB9z7KTrNkA3rKEo_3LsWEzwnuXHsfpxzCipXhU5Wz-B6bTRJeIV69aYY_lO2I6CIuqNPnLNvq8lqhwEHIjfVU5Fk4ZP3g5qzHuw1zMfqWfRnBsTYxke6Z-buoQO84onOOnn0Xt5dX2hygFqURr5soqIam3zDPhQ4oZFet_ICjeB7COQA)**  
+
+👈
+حملات هوایی اسرائیل مدتی پیش مناطق نبطیه و زبدین در جنوب لبنان را هدف قرار داد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.4K · [11:23 · 11 May 2026](https://t.me/alonews/119264)</sub>
+
+---
+
+👈
+یک جنگنده F35 آمریکایی برای دومین بار طی شبانه روز گذشته، بر فراز خلیج عمان پیام اضطراری فرستاد و در امارات متحده عربی فرود اضطراری کرد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 16.2K · [11:24 · 11 May 2026](https://t.me/alonews/119266)</sub>
+
+---
+
+👈
+موج گسترده ای از حملات هوایی اسرائیل در سراسر جنوب لبنان در حال وقوع است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 15.2K · [11:29 · 11 May 2026](https://t.me/alonews/119267)</sub>
+
+---
+
+👈
+وزیر خارجه سوریه: امیدواریم در آینده «روابطی باثبات و آرام» میان ما با اسرائیل شکل بگیرد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14K · [11:38 · 11 May 2026](https://t.me/alonews/119268)</sub>
+
+---
+
+![photo 1](https://cdn4.telesco.pe/file/Xx-v6E64mX2qNIFakUeZw6pmxyvQH4w3eJGe6nLY6hbr-DV6IgxsX464hFaG_BynYqgA7V88fVkqzRRlVh6FZbM5S7ZIH-I-h_Wl30pp3EZl1prctR3BM2SW6TKSAxgpoD3gEXzedZW3IAS2K9XnsKWPvS1gfTk79Dymus3XHzbu_hIFiVjnj9hAplPTcsRshWGmDHyBQa17RlUPJ67F6pn6KiJG-h7kNjQW-1M-f_tTOBJPqqMTEoQ9dtosa_oKeGDevFBnMOHaXK8ibssUK-1R5m_oTDSkkYGMGOIdHStuxuU1X2gUTFzG8Jug7s7JY5F4TYk56jawBGXMc2DkLw.jpg)  
+
+![photo 2](https://cdn4.telesco.pe/file/MfDZuRvHkQvu6RyDiobFbotixnllsKJTZIza6hPY__YOO4OeAPDIwA1cni9yCXo2fGCnI3dsAKoGF-VEVcQw30ZRJA65RXQbdxgtSCyrwyQ2xfyC-TTvNr58MG8XFuHO1aI3ED1SqiFp4xLwTwXaHIu8I4iZ5Tcj24j2hx7JBlFgbF7ibx607lWgqnc4bnzWsUsc9f2ppDFqdbFv2zKTu2qyiBGwEiz-65Kri-xiN5jmIw-NDoyfZs-UOJJWWuHjjjcMzpJwVm9g-RFSRpd8hqPp9FK795zteMlwXag5pVMKiX5X-R3Ca-pl0fimqkPijzlYCiLyjz5mCY7I7O1xSw.jpg)  
+
+![photo 3](https://cdn4.telesco.pe/file/j2aRgnAj7Jv8gpx0wVCiU1UNIuuoI8buTwoIPh_OnCM3XRpYIUj1c4AYrc5r3LaAAWY2crQhyjc2lERZBTzQGyUqyP4eNHJqbHSlIEaOOWikmuF2Wmn19mswaHwm5NhoxgUuNB3s4y5GIvoh8o2oy0hybFirbG41zwPHWDYkkzl9-r9alBLkVA59oOdDwIC1n-oWktdsNukI3xfZiwDhO6k-3NS0yRO-_oL-X_YRSTqHMYbTO-Hrh5xw_aKG37b3OW4em-a3AWRC91mSW1vaxBcPTAZo4naxqlOIxyY7fYeyJmrg93NrSI6Skvetj1HIak1J0DOt2FnJtORXmnb0MA.jpg)  
+
+👈
+حملات هوایی اسرائیل شهرهای صدّیقین، عرب‌سلیم و النمریه در جنوب لبنان را هدف قرار داده‌اند
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.6K · [11:42 · 11 May 2026](https://t.me/alonews/119269)</sub>
+
+---
+
+👈
+وزیر نفت : ما برنامه‌هایی برای مقابله با پیامدهای تحریم‌های آمریکا تدوین کرده‌ایم و تولید ما در طول ۴۰ روز جنگ کاهش نیافته است
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.3K · [11:42 · 11 May 2026](https://t.me/alonews/119272)</sub>
+
+---
+
+👈
+ارتش اسرائیل در حال آماده‌سازی برای گسترش عملیات زمینی خود در لبنان در پی ادامه نقض‌های حزب‌الله است و موقعیت نظامی را برای امکان تصمیم‌گیری رهبری سیاسی فراهم می‌کند، به گزارش کانال ۱۲ و به نقل از منابع نظامی اسرائیلی
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.7K · [11:45 · 11 May 2026](https://t.me/alonews/119273)</sub>
+
+---
+
+👈
+چین: محدودیت‌های اعمال شده بر شرکت‌های چینی از سوی آمریکا با ادعای اینکه پاسخ نظامی ایران را تقویت کرده‌اند، غیر قانونی استآماده همکاری و حل اختلافات با واشنگتن هستیم
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.7K · [11:48 · 11 May 2026](https://t.me/alonews/119274)</sub>
+
+---
+
+👈
+اتحادیه اروپا پس از حدود ۱۵ سال تعلیق بخشی از روابط اقتصادی و تجاری با دمشق، اجرای کامل توافق همکاری با سوریه را با هدف تقویت مناسبات دو جانبه از سر گرفت
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 13.6K · [11:56 · 11 May 2026](https://t.me/alonews/119275)</sub>
+
+---
+
+> ↪ **فوروارد از:** Forwarded fromالو توئیت | AloTweet  
+
+![photo](https://cdn1.telesco.pe/file/f8xUJO_HMCDAb2NHgyngr2oSQhZiMR_McUkFABPUIJBlmeVFk2uWg49SpTgfVP4zYk5k3Um7PDfjNzg7Ktdeh2guB0pr8x8EkzhdeFGrG_kFNK6JqvONGyKzdHoXa4Ausa3qR5HXUFLYvPCpdkvHdFdt7jAkTmRS5xxjYGXz1PUTEoEtYdLhvSrt8wplIk1qZ06fns4K8heMxRUbBK9WYIdBRUmxxPrbEZJBeZZpCOh8YAjtdyaXJXD0tYB3eMaAKS51gCQrocbjrITqub2miJ7sPBHBQQfxFgE7TCYSZgOMzTYI2tL0dFCz3nPSd7g2yieOfg4EdYKGoDyP6CWoyQ.jpg)  
+
+گسترش پدیده ‎دوست اجاره‌ای در تهران و کلان‌شهرها
+شنیده شدن و همراهی در مهمانی و کافه، از چند صد هزار تومان تا ساعتی یک میلیون تومان خرید و فروش می‌شود.
+دلیل این اتفاق هزینه‌های بالای پارتنر داشتن است
+[
+@AloTweet
+]  
+
+<sub>👁 14.3K · [11:57 · 11 May 2026](https://t.me/alonews/119276)</sub>
+
+---
+
+👈
+روزنامه اطلاعات : مردم تو مصرف آب، نون و برنج صرفه جویی کنن و "دور دور" نکنن
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 13.6K · [12:05 · 11 May 2026](https://t.me/alonews/119277)</sub>
+
+---
+
+👈
+مقام روس: انتقال اورانیوم غنی‌شده بدون رضایت ایران ممکن نیست
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 13.5K · [12:07 · 11 May 2026](https://t.me/alonews/119278)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/kyeD28-P_1xeLb5iCbyunaPbLxsiXHrxfDZ1oZL413ROpL5Qp-D16vj9wqim181Mp6YpNEY45wXK6kEYXbCSJI5k2ifxw6Vh_OpLoEKrjjB6xmGr2sUUFAQUgvp--EPDIYgZFqDU3oJZxQJNoHHWKqhtNFcEFylk-QWr6QS-_2C4l8rHRsm-ITt5RB1D3Z0l-29dTEs4ltei8NHBAlwfkLcTedE_ywYU05joFE8KcGS4zRK_p3JZF55ByP5LOnhLINUj_VBvz5_b0bHFgnMEGvEfKQrsRx40AhYTfLj8s4iACsb_niIhCDVd7-vw9p8AT4KCHGIxLaeXgUesR2ND-w.jpg)  
+
+👈
+دوستان این نوع تبلیغات که توسط تلگرام منتشر میشه کاملا کلاهبرداری و ما کاری از دستمون برنمیاد
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.3K · [12:08 · 11 May 2026](https://t.me/alonews/119279)</sub>
+
+---
+
+![photo 1](https://cdn4.telesco.pe/file/hsF6DdvckrHQbEMC8jihEm3zZ5qdAH1klZBBYCmk01zm7ae7kmvXLfOY4Vvw06A3BMjbDc3m6e2k5dnvpBypKRX8wfl7pHK6tEea21LFvSlXkWEmnXq2ffIE0JdQysyvkMhDC62FDEDR14MozhEKwJhT1TBJuvsOeCGm1fq3P5SNbPR2XY1kzjgPeWEGZ4r3uE-GO98ubV6S58QBqEcDJZtz_mcy75bjv0aZkqqObdc9x3Pxt9ICfhTDZ10lLTyeUzfJTDMzxfcIlgRbEwAhdFJh3ZWf32WNBKSMK-g2CjZv0pdqdToTBM7Jt4c7TiDI8TEm9DB2OnBBqVq6E7F-Cg.jpg)  
+
+![photo 2](https://cdn4.telesco.pe/file/DFj3-qJCrPIaVwcVLOLDdCrWOLfvyfeNFQFFZMb9CEtISKc-OxEfiHxVLZm_LuQPU9ZdvnzOCjvbW4nTraOOftneRh5d1iZ1aQLDF0KicWbCe4A5ZNNkQYBt9f9JHeVvZMgZs_ktERqFstibzcwzhtv3DhZjoG2joh9e_RB4TdH1dDWOcqrsWxRFnjiAKjpoyqOVZIDv557OjDeljlcOCfRP0_ZH1ULIa2MGtgmqvzkN-WohuZvxbe6rPoGFImoEADKiPvrgaNH6y7cEXYSOX79TL74qkUf1ZVpk-DL-0Spnd-7jWDSME8z44XjO3AjlLA9OYu8bdMdxDXA4zQb5RA.jpg)  
+
+![photo 3](https://cdn4.telesco.pe/file/cAiaR6Myi1LWLuL7Q_IGF5jqw3WGKlmrMOCmmngNdBstt1gdVdb0mJgKcv-C83BQE4S7F2JHC6vk4zDOQ5486BSR7jXXdJqxbx2DFosFqaZcZQ9W5l8HUNBxV9M1LLgDkLfp4cJ9M7rAeW1kerYXnsT_H5Ieo7Pg_z1TTkMnQQpoQfm5gvWPZj6V98L-aSnmaQ0lVraZp7_fxa9nTUtQKTRyASgLIAg3Ao-gbLpQBCJqSyksafH4eqXYRxALIXIHm3S8yDy0fRiA1bkG3ypJfj5q-AUrayyvgG-ASajTEZhmgIRriJ9-5NS8yh5EDURj-NPyvyOtQQ9hiA3N_aStKg.jpg)  
+
+👈
+وانت‌بار ساخت دست ارتش روسیه مجهز به قفسی موقتی ضد پهپاد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.6K · [12:13 · 11 May 2026](https://t.me/alonews/119280)</sub>
+
+---
+
+👈
+رسانه‌های هند: شاید عراقچی، برای شرکت در نشست وزرای امور خارجه بریکس به هند سفر کند.
+🔴
+این نشست قرار است روزهای پنجشنبه و جمعه (24 و 25 اردیبهشت) در دهلی نو برگزار شود.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.6K · [12:18 · 11 May 2026](https://t.me/alonews/119283)</sub>
+
+---
+
+👈
+در جلسه کارگروه بنزین به ریاست معاون اول رئیس‌جمهوری تصمیماتی درباره مرحله اول از فاز سوم اصلاح ساختاری مدیریت مصرف بنزین گرفته شد که از اول خرداد اجرا می‌شود و در این مرحله هیچ افزایش قیمتی در بنزین اعمال نخواهد شد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.3K · [12:24 · 11 May 2026](https://t.me/alonews/119284)</sub>
+
+---
+
+🔴
+فوری/ارم‌نیوز به نقل از مقام‌های ارشد آمریکایی نوشت که آخرین پاسخ ایران به پیشنهاد آمریکا مسیر راه‌حل دیپلماتیک با تهران را به صورت کامل مسدود کرده است،ترامپ به زودی برای ادامه مسیر تصمیم گیری خواهد کرد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 14.6K · [12:25 · 11 May 2026](https://t.me/alonews/119285)</sub>
+
+---
+
+![photo](https://cdn1.telesco.pe/file/YKLEifFtYiofitWhxpwdrt1mvafMgQXV_AdQoKZUoD9v2tIVLgH-AHPG08c8W2dH5fwNs-JQlwrwjrUulgzCt_5w4f38CdCLN4VpQwMH94fgmnVK1cMagWWZkayNuVdMKyoStc9I4LBti7ab3Leb8D6VMNb6br_ybzVXtLuZUE1A_XwMOdt6tUxdyE-MNrk2dQdFsy0DCPCjRVU5Aqcguy97UAm_kAaEL4qHOaNRuch3p5ihb9Iv9UDUtvMM3cdhzOvYIlOcOZbqEjNDjGVKt7-r2JniSK3BQiRP5_e-UGKuZ0Wk1zMG7Emeo6ZwTWY9U87_Ts7VVGuOGMry1HpCmw.jpg)  
+
+👈
+یک کشتی LNG با پرچم سنگاپور که از قطر حرکت کرده بود، تلاش کرد از تنگه هرمز عبور کند، اما توسط ایران دستور بازگشت دریافت کرد
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 12.8K · [12:41 · 11 May 2026](https://t.me/alonews/119286)</sub>
+
+---
+
+👈
+وزارت خارجه عربستان: وزیر خارجه عربستان تماس تلفنی از وزیر خارجه ایران دریافت کرد که در آن درباره میانجیگری پاکستان و گفتوگوها با آمریکا بحث شد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 11.9K · [12:50 · 11 May 2026](https://t.me/alonews/119287)</sub>
+
+---
+
+👈
+رویترز: اروپا بر سر تحریم‌های جدید علیه شهرک‌نشینان در کرانه باختری به توافق رسید
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 11.9K · [12:50 · 11 May 2026](https://t.me/alonews/119288)</sub>
+
+---
+
+👈
+وزارت خارجه عربستان: وزیر خارجه عربستان تماس تلفنی از وزیر خارجه ایران دریافت کرد که در آن درباره میانجیگری پاکستان و گفتوگوها با آمریکا بحث شد.
+✅
+@AloNews خبر جنگ  
+
+<sub>👁 12.2K · [12:51 · 11 May 2026](https://t.me/alonews/119289)</sub>
+
+---
+
+👈
+وزیر امور خارجه عمان: برای آزادی کشتی‌های توقیف شده در خلیج فارس، به یک ابتکار بشردوستانه با همکاری کشورهای ساحلی نیاز است.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 11.9K · [12:55 · 11 May 2026](https://t.me/alonews/119290)</sub>
+
+---
+
+👈
+مطهری نماینده مجلس: ما دنیارو از شر نتانیاهو و ترامپ نجات میدیم
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 11.6K · [12:58 · 11 May 2026](https://t.me/alonews/119291)</sub>
+
+---
+
+![photo](https://cdn1.telesco.pe/file/KFgLNoCgN8_hcDYjh1TpG11vTz4wQ-CDG_h6zSieug2oonDw0CwipPJzbK5tJm2No0oNXG22ETOLdKAG75TAiu3aw500mYDp-rCbFQ8vywIfRycBto62ZKlshhIakOxrLAm7yNL1HmGYouunrNj2fAPE0ETFy6vQDwU1FeVxhf_TTO3WuGTgNkvnM8E1Wj-V57JxY_PlMtz2_Q3RQR4rj0kjmQt8nJE6lIhY3kxF6kZa61kFO478nhcUEjUx3jjcHjYA27Bymokz_BBD8RSlEw7ecJuWjjWvuPhXuYAySxzPrhiUuicwGJgAqSeDAzkcm-8VrWZ2c00Y5O6EQa45NQ.jpg)  
+
+👈
+ایران مانع عبور دومین نفتکش گاز مایع شد که از قطر به‌سوی پاکستان در حرکت بود؛ این کشتی از تنگه هرمز عبور نکرد و بازگشت.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 11.4K · [13:03 · 11 May 2026](https://t.me/alonews/119292)</sub>
+
+---
+
+👈
+خبرگزاری فرانسه به نقل از یک مقام سازمان ملل: ده‌ها میلیون نفر به دلیل کودهای شیمیایی که در تنگه هرمز گیر افتاده‌اند، در معرض گرسنگی قرار دارند.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 11.4K · [13:06 · 11 May 2026](https://t.me/alonews/119293)</sub>
+
+---
+
+![photo](https://cdn1.telesco.pe/file/hoQpKdi2Dy78PZIj7NFtmVhhofLTFEs568RJrqtKdg84l4DObx2SyDX8LHe1ITAe6dkXhi1e0A1z8zA3LBip4aOtktYc6NlgpVmHGvK8GDVeKyGLc_1jaIX2fs1LE7yjYM2fg3SUPousqpuBvYn5PmHrQ-3gvVButLF4VBlTiR7RtrccM2iWf2qJAkgZz5hcZvfk7Ronp483qPXKgYPuuf9Gb5eEbZfojMsKu_ZXPWGFC4_5hjjG222NkHYNOIJJYcmJkLquyHuvyG678LJ7vilBEUnWLOsEHl0gC0IUULGV0XF9oUb7O_g5ogSjwPSoUxKLLtOwJAFjCY-4ZyJGww.jpg)  
+
+👈
+خودشون از خودشون برای "هیچ" تشکر می‌ کنند
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 9.8K · [13:20 · 11 May 2026](https://t.me/alonews/119294)</sub>
+
+---
+
+🎬 **[دانلود ویدیو](https://cdn4.telesco.pe/file/651ea89999.mp4?token=NMd1cozpp7_5l7roA6upwxryjoNNW2EP-KmNLOk58ag2elslm-wAgJGuOyxzJowNgXiLp_eTLRAY43P7B_w7ppl8ZE0-FdJmZzCC_tEkQNzXUQ3EzqP7xTQRUz5fYJF0Nj7vvwzNzcZdUKnAN6ROp8GmQ9s_RW754gT8Kvn4pg7VcpnlA9zCA-j1S-lSd7jtAtKNHnFBtnZl_Lw9zZwymyOe1Q83YiTAgSZ8Y9ixoNZ5aDRrallgiSFRKLA--vcy4niIpnlZsnbSXknUmsb8EAGynuLMWC7CpsTamfyQzj4RmnXKPjCNxMiGy6zzoylORfsSNAURsCFD20WudRVDLg)**  
+
+👈
+معاون رئیس‌جمهور: حتی در شرایط جنگی هم بستن اینترنت راهکار درستی نیست، چرا که دیدیم وقتی اینترنت کامل بسته بود هم ترورها ادامه داشت
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 8.54K · [13:30 · 11 May 2026](https://t.me/alonews/119295)</sub>
+
+---
+
+> ↪ **فوروارد از:** Forwarded fromالو توئیت | AloTweet  
+
+![photo](https://cdn4.telesco.pe/file/fDylAtIaLTYX9l2e5cEbdeBZlHWhhYFn2D9qI3zyXp9U644R1jjhtCWiI9Nox07fows718lkTnIKNBK1HkQHaROFS_4IKmDjYgzLU1vUTIXfgx0OG_h6lAB6p04AML5Ul1guJeM2NE1QsMl2kXEPtz59l6M3ZhxcBfSRO_8Qn0OFktJQf5ExO2942Vm16poLbrcO3agEMSAhZvFVtbFHEi995etqYBA9jdnjEz-XmuGs8S-4VmFfVT7Fh5cLZmfoESBLcYzF13bV-dmkkRwO90UxLQY8jtaRs9JY9HauUA7l05U6XVo4lkAMXwbmoH42Z7-nPc-ZQjqgEvldH7hg_A.jpg)  
+
+️ثروتمندترین افراد جهان سال ۲۰۲۶ در مقابل ثروتمندان سال  ۲۰۰۰
+ایلان ماسک با ثروتی در حدود ۱ تریلیون دلار با اختلاف همچنان ثروتمندترین انسان روی کره زمین است
+[
+@AloTweet
+]  
+
+<sub>👁 6.66K · [13:41 · 11 May 2026](https://t.me/alonews/119296)</sub>
+
+---
+
+![photo](https://cdn1.telesco.pe/file/gtMNcfWonTW3n3VReUVHMDT1WSenJo931cDvWUx8WKGqpx57Jsix6ksw11RdzPdcJgEsj0gBO6Mn4E75zRN0AqARPW6FggX7AOQy9upER7layqbc85HL6YArCUMF-ayB7o5UfVhpJGwxlfJ9laPNpB4PpYhTHmZQF2fHrE6xBxWPI4EdNfHH1l1IXeAe4ip30fL5hlk36IFt2mwu973TYBl5KrvhuGR1MxUEEb8hJ6mR1pGvYiif1VcV1loCzxbvNXSHI2ZPU5Sq26ooZucLMAdmBEkDLiNbpw4YCRAESL1O1BRKp22PjCzepWtiuJxnN6LB85N8av9s2cRLEcGxZQ.jpg)  
+
+👈
+آخوند علی بخشی: نیلوفر عزیز؛ باشد که همین موهای رهایت در روز حساب شفیع من باشد
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 6.02K · [13:48 · 11 May 2026](https://t.me/alonews/119297)</sub>
+
+---
+
+👈
+فرماندهی مرکزی ایالات متحده:
+نیروهای سنتکام ۶۲ کشتی تجاری را هدایت مجدد کرده و ۴ کشتی را غیرفعال کرده‌اند تا از رعایت قوانین اطمینان حاصل شود.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 4.76K · [13:53 · 11 May 2026](https://t.me/alonews/119298)</sub>
+
+---
+
+![photo](https://cdn4.telesco.pe/file/EMsiBQXZcUawV0GJmlPz0oxy73s2DMs8tZH6kGxRzb1i_lSgv952Wmly7yUhVnvpt2TQf1LV8zITB6CpWlnHU-_EA9XCQ8nLCD6RzUjCakWxs2apqv6KHClejebct7TxAUtO3ZcgnmjbinbU_ludmezYl7I1bcLumNBn0nbGAKL0jyCiOkeaQVIqGJMBF1lYVVPwzO1bpQKpjFwzxkD432c5Kwz-Rd_vbyJ7dFiVSdeN22zmM1LV3V8UmzpSsjOj9F8bbDqeOFQBFcBn4GM5oI1LYPSunJ4DKqKHymCPz_hUN1PvtZ5Rwtx01OfhxBmL933kxTTjzp4j_oIKafajlw.jpg)  
+
+👈
+تلگراف: چین بررسی کرده که سامانه‌های پدافند هوایی را از طریق کشورهای دیگر به ایران ارسال کند تا نقش خودش را پنهان کند.
+گفته می‌شود دونالد ترامپ قرار است در دیدار این هفته با شی جین‌پینگ در پکن، درباره این موضوعات از چین توضیح بخواهد؛ از جمله ادعای فروش سلاح به ایران.
+هنوز مشخص نیست آمریکا در مقابل چه پیشنهادی به چین خواهد داد، اما احتمال‌هایی مثل کاهش محدودیت‌های دریایی در تنگه هرمز مطرح شده است.
+همچنین ترامپ قرار است از چین بخواهد خرید نفت از آمریکا را افزایش دهد.
+✅
+@AloNews
+خبر جنگ  
+
+<sub>👁 2.55K · [14:01 · 11 May 2026](https://t.me/alonews/119299)</sub>
+
+---
