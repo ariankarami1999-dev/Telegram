@@ -1,0 +1,1941 @@
+<!DOCTYPE html>
+<html lang="fa" dir="auto">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>iAghapour | Digital Freedom🎯 — TG Mirror</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --bg: #0e1621;
+      --bg2: #17212b;
+      --bg3: #1c2733;
+      --bubble: #182533;
+      --bubble-border: #1f3247;
+      --accent: #5288c1;
+      --accent2: #64b5f6;
+      --text: #e8edf2;
+      --text2: #8fa8c8;
+      --text3: #627d9b;
+      --green: #4fbe8e;
+      --radius: 14px;
+      --shadow: 0 2px 12px rgba(0,0,0,0.35);
+      --font: 'Vazirmatn', 'Segoe UI', sans-serif;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      font-size: 15px;
+      min-height: 100vh;
+    }
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: var(--bg2); }
+    ::-webkit-scrollbar-thumb { background: var(--bg3); border-radius: 3px; }
+    .app {
+      display: flex;
+      flex-direction: column;
+      max-width: 780px;
+      margin: 0 auto;
+      min-height: 100vh;
+    }
+    /* header */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--bg2);
+      border-bottom: 1px solid var(--bubble-border);
+      padding: 12px 16px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      backdrop-filter: blur(12px);
+      box-shadow: var(--shadow);
+    }
+    .ch-avatar {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid var(--accent);
+      flex-shrink: 0;
+      background: var(--bg3);
+    }
+    .ch-avatar-placeholder {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--accent), #2d5fa0);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      font-weight: 700;
+      color: #fff;
+      flex-shrink: 0;
+      border: 2px solid var(--accent);
+    }
+    .ch-info { flex: 1; min-width: 0; }
+    .ch-title {
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--text);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .ch-sub {
+      font-size: 12px;
+      color: var(--text3);
+      margin-top: 2px;
+    }
+    .ch-sub span { color: var(--green); }
+    .open-tg {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--accent);
+      color: #fff;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 7px 16px;
+      border-radius: 20px;
+      text-decoration: none;
+      transition: background 0.2s, transform 0.15s;
+    }
+    .open-tg:hover {
+      background: #3d70a3;
+      transform: translateY(-1px);
+    }
+    /* description */
+    .ch-desc {
+      background: var(--bg2);
+      border-bottom: 1px solid var(--bubble-border);
+      padding: 10px 16px;
+      font-size: 13px;
+      color: var(--text2);
+      line-height: 1.5;
+    }
+    /* messages container */
+    .messages {
+      flex: 1;
+      padding: 16px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    /* message bubble */
+    .msg-wrap {
+      display: flex;
+      justify-content: flex-start;
+      margin: 2px 0;
+      animation: fadeUp 0.2s ease both;
+    }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .msg-bubble {
+      background: var(--bubble);
+      border: 1px solid var(--bubble-border);
+      border-radius: 4px 16px 16px 16px;
+      padding: 10px 12px 8px;
+      max-width: min(560px, 90vw);
+      min-width: 120px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+      transition: border-color 0.2s;
+    }
+    .msg-bubble:hover { border-color: var(--accent); }
+    .msg-forward {
+      font-size: 12px;
+      color: var(--accent2);
+      margin-bottom: 6px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid var(--bubble-border);
+    }
+    /* photo & album */
+    .msg-photo {
+      position: relative;
+      margin: -10px -12px 8px;
+      border-radius: 3px 15px 0 0;
+      overflow: hidden;
+    }
+    .msg-photo img {
+      width: 100%;
+      max-height: 400px;
+      object-fit: cover;
+      display: block;
+      cursor: zoom-in;
+    }
+    .dl-overlay {
+      position: absolute;
+      bottom: 8px;
+      left: 8px;
+      background: rgba(0,0,0,0.6);
+      color: #fff;
+      font-size: 12px;
+      padding: 4px 10px;
+      border-radius: 20px;
+      opacity: 0;
+      transition: opacity 0.2s;
+      backdrop-filter: blur(4px);
+      text-decoration: none;
+    }
+    .msg-photo:hover .dl-overlay { opacity: 1; }
+    .msg-album {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 3px;
+      margin: -10px -12px 8px;
+      border-radius: 3px 15px 0 0;
+      overflow: hidden;
+    }
+    .album-item {
+      position: relative;
+      display: block;
+      aspect-ratio: 1;
+      overflow: hidden;
+    }
+    .album-item img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s;
+    }
+    .album-item:hover img { transform: scale(1.05); }
+    .dl-badge {
+      position: absolute;
+      top: 6px;
+      left: 6px;
+      background: rgba(0,0,0,0.55);
+      color: #fff;
+      font-size: 11px;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      transition: opacity 0.2s;
+      text-decoration: none;
+    }
+    .album-item:hover .dl-badge { opacity: 1; }
+    /* video */
+    .msg-video {
+      margin: -10px -12px 8px;
+      border-radius: 3px 15px 0 0;
+      overflow: hidden;
+    }
+    .msg-video video {
+      width: 100%;
+      max-height: 380px;
+      display: block;
+      background: #000;
+    }
+    .dl-btn {
+      display: block;
+      background: var(--accent);
+      color: #fff;
+      text-align: center;
+      padding: 7px;
+      font-size: 13px;
+      font-weight: 500;
+      text-decoration: none;
+    }
+    .dl-btn:hover { background: #3d70a3; }
+    /* document */
+    .msg-doc {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--bubble-border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      margin-bottom: 6px;
+    }
+    .doc-icon { font-size: 22px; flex-shrink: 0; }
+    .doc-info {
+      flex: 1;
+      min-width: 0;
+    }
+    .doc-title {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .doc-extra { font-size: 12px; color: var(--text3); margin-top: 2px; }
+    .doc-dl {
+      color: var(--accent2);
+      font-size: 18px;
+      text-decoration: none;
+      flex-shrink: 0;
+      width: 32px;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+    }
+    .doc-dl:hover { background: rgba(82,136,193,0.2); }
+    /* poll */
+    .msg-poll {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--bubble-border);
+      border-radius: 10px;
+      padding: 10px 12px;
+      margin-bottom: 6px;
+    }
+    .poll-question { font-weight: 600; margin-bottom: 8px; }
+    .poll-opts { list-style: none; display: flex; flex-direction: column; gap: 6px; }
+    .poll-opt {
+      background: rgba(82,136,193,0.1);
+      border: 1px solid rgba(82,136,193,0.3);
+      border-radius: 20px;
+      padding: 6px 14px;
+      font-size: 13px;
+      color: var(--text2);
+    }
+    /* text */
+    .msg-text {
+      font-size: 14.5px;
+      line-height: 1.6;
+      color: var(--text);
+      word-break: break-word;
+    }
+    .msg-text a {
+      color: var(--accent2);
+      text-decoration: none;
+    }
+    .msg-text a:hover { text-decoration: underline; }
+    /* footer */
+    .msg-footer {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 8px;
+      margin-top: 6px;
+    }
+    .msg-views { font-size: 11px; color: var(--text3); }
+    .msg-date {
+      font-size: 11px;
+      color: var(--text3);
+      text-decoration: none;
+    }
+    .msg-date:hover { color: var(--accent2); }
+    /* info bar */
+    .info-bar {
+      background: var(--bg2);
+      border-top: 1px solid var(--bubble-border);
+      padding: 10px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 12px;
+      color: var(--text3);
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+    #jump-top {
+      position: fixed;
+      bottom: 24px;
+      right: 20px;
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      font-size: 18px;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+      z-index: 200;
+    }
+    #jump-top:hover { background: #3d70a3; transform: translateY(-2px); }
+    #jump-top.visible { display: flex; }
+    /* lightbox */
+    #lightbox {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.88);
+      z-index: 999;
+      align-items: center;
+      justify-content: center;
+      cursor: zoom-out;
+      backdrop-filter: blur(8px);
+    }
+    #lightbox.open { display: flex; }
+    #lightbox img {
+      max-width: 92vw;
+      max-height: 90vh;
+      border-radius: 8px;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.6);
+    }
+    #lightbox-close {
+      position: absolute;
+      top: 16px;
+      right: 20px;
+      color: #fff;
+      font-size: 28px;
+      cursor: pointer;
+    }
+    @media (max-width: 520px) {
+      .msg-bubble { max-width: 95vw; }
+      .header { padding: 10px 12px; }
+    }
+  </style>
+</head>
+<body>
+<div class="app">
+  <header class="header">
+    <img src="https://cdn4.telesco.pe/file/AjHQmgqIegrNf3MoQHJcB3buw0POfm0Ge5pOwdTvGTR0vUvahGw6x04LXJDng29rF8Eb_OgR9KMCphLUlEutPs7eG0MTE4o9HIwf9dhNc5AAikmbRehdpB3mwDxZEqbFM2K-Z63SlGLA5vl_dfXpRsqC0ML3rBkaRrgE1vQFnDLJEoN1VgJlCADfVrK1ffbxZfV96qR_NwxVqmRwKdzC-jdz8nEEjBZxYELw9SVngourJuWA_QBCw5J6mbOLPnY7Jm4_IH-rRusEIECmtSKNrOh7NeADgEEJfIgFjtGC7Y5KqaSOf0L4Xl_959of8wLvq2yRkYaSXRVKix5USocCBQ.jpg" class="ch-avatar" alt="avatar">
+    <div class="ch-info">
+      <div class="ch-title">iAghapour | Digital Freedom🎯</div>
+      <div class="ch-sub">@iaghapour &nbsp;·&nbsp; <span>50.4K</span> عضو</div>
+    </div>
+    <a class="open-tg" href="https://t.me/iaghapour" target="_blank">✈ باز کردن در تلگرام</a>
+  </header>
+  <div class="ch-desc">اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
+  <main class="messages" id="messages-container"><div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+برای عده ای در بعضی اپراتور ها یک سری سایت ها مثل Next.js و... باز شده.
+هنوز معلوم نیست اختلال هستش یا یکسری سایت ها دارن باز میشن. تو قطعی های گذشته هم این اتفاق افتاده بود.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 22.5K</span> · <a href="https://t.me/iaghapour/2463" class="msg-date" target="_blank">10:09 · 12 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+به نقل از خبرگذاری سیتنا :
+احتمال داره تا چند ساعت آینده یه‌سری از محدودیت‌های اینترنت خارجی کم یا برداشته بشه؛
+اگه این تصمیم اجرا بشه، دسترسی مردم به اینترنت جهانی هم کم‌کم بهتر و بازتر میشه.
+✍🏻
+بعد 1 ماه و نیم قطعی تازه تیتر زدن کم کم
+😐
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 24.3K</span> · <a href="https://t.me/iaghapour/2464" class="msg-date" target="_blank">10:23 · 12 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+انجمن تجارت الکترونیک تهران با اشاره به محدودیت‌های اخیر اینترنت، برقراری فوری و پایدار آن را حق جامعه و پیش‌نیاز بازگشت رونق اقتصادی، امید اجتماعی و جریان عادی زندگی دانست و خواستار رفع سریع این محدودیت‌ها برای جلوگیری از آسیب بیشتر به معیشت مردم و بخش خصوصی شد.
+پ.ن: خیلی دیر به فکر نیافتادین؟
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 22.7K</span> · <a href="https://t.me/iaghapour/2466" class="msg-date" target="_blank">16:30 · 12 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/PWqgNU56Bb_15OHpQtt5H2R9e0qsjrSgGHRgs54t-2mLMO23jLthkfdUkoBgW2vrvHldHRLIPDtxsLC4YFkr_UeR2u4oD3IzmJw8ZVCCPff902X2YgVHnSJnjxSwRZaCK802e6657My4o8q-UuNri7Glf4L3Pv7EPfq4gyZVCuLdwTDPV5U3fXZBj7TKOQzJibfmDfKGbNlLHKCRawHFeWt9HOtakjoWAdhk2djRFS_dDxvr42iTx1vPna-DsWtFqnnrYABB55bdsrPs41Avd4KWoun25ZESMfCmdy5R5fsyA3g8sa8q3NJhk4Kos-_UVRpXNXBzceMZvF07OOuQWg.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/PWqgNU56Bb_15OHpQtt5H2R9e0qsjrSgGHRgs54t-2mLMO23jLthkfdUkoBgW2vrvHldHRLIPDtxsLC4YFkr_UeR2u4oD3IzmJw8ZVCCPff902X2YgVHnSJnjxSwRZaCK802e6657My4o8q-UuNri7Glf4L3Pv7EPfq4gyZVCuLdwTDPV5U3fXZBj7TKOQzJibfmDfKGbNlLHKCRawHFeWt9HOtakjoWAdhk2djRFS_dDxvr42iTx1vPna-DsWtFqnnrYABB55bdsrPs41Avd4KWoun25ZESMfCmdy5R5fsyA3g8sa8q3NJhk4Kos-_UVRpXNXBzceMZvF07OOuQWg.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+اسکریپت cText؛ سرویس سریع برای اشتراک‌گذاری متن و کد شبیه Pastebin
+🔹
+اگر نیاز دارید متن‌ها، تکه‌کدها و کانفیگ‌های خود را به ساده‌ترین و سریع‌ترین شکل ممکن با دیگران به اشتراک بگذارید، cText یک ابزار بسیار سبک و متن‌باز است که دقیقاً برای همین نیاز طراحی شده است.
+🔗
+آدرس اسکریپت در گیت‌هاب و نمونه سایت ساخته شده
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 24.8K</span> · <a href="https://t.me/iaghapour/2467" class="msg-date" target="_blank">16:47 · 12 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+خودم نمیتونم تایید کنم ولی عده ای میگن
+#سایفون
+رو همراه اول متصل هست.
+سایفون در حالت فیلترینگ عادی جواب نمیده حالا آدم شده برای ما
+😁
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 22.3K</span> · <a href="https://t.me/iaghapour/2468" class="msg-date" target="_blank">17:06 · 12 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/G2Y8QcwVYLTsHT6pPk3-VnYuKQcsIMPBny5QcXo5W-nZMnH9hTrv9ceGD_x4QIO-4BzXaucNh2Z_zrzFUjePfG3oKHzlHkWrpkjSVZZ9C6dE_z88cS3ZrZQInEyChCJPgquEVE-sFaQa100f1Q0HsLN2e5HKM4UqvOzB5EFma2GG9Ua6JkIublXCv8A0wAHswYawR7baFtQ0mCaoDLnzXzDmpxjJylZcbcZeI9GjtvMUVxoUjsy76ZGrfyxS5OztBcveJdwXYliGjVl80jB5AVTm887I5M-J6AyX9aTLVZo8MNWnwe0KKI-HQv4BirjzHYTJLk810k9m3cScSI1YGA.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/G2Y8QcwVYLTsHT6pPk3-VnYuKQcsIMPBny5QcXo5W-nZMnH9hTrv9ceGD_x4QIO-4BzXaucNh2Z_zrzFUjePfG3oKHzlHkWrpkjSVZZ9C6dE_z88cS3ZrZQInEyChCJPgquEVE-sFaQa100f1Q0HsLN2e5HKM4UqvOzB5EFma2GG9Ua6JkIublXCv8A0wAHswYawR7baFtQ0mCaoDLnzXzDmpxjJylZcbcZeI9GjtvMUVxoUjsy76ZGrfyxS5OztBcveJdwXYliGjVl80jB5AVTm887I5M-J6AyX9aTLVZo8MNWnwe0KKI-HQv4BirjzHYTJLk810k9m3cScSI1YGA.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⚠️
+صفحه
+#نت‌بلاکس
+در X یه نظرسنجی گذاشته و از مردم پرسیده؛ «آیا شبکه‌های اجتماعی مثل توییتر و تلگرام و اینستاگرام و ... باید حساب‌های دولت‌ها و مقاماتی را که اینترنت را برای مردم خود قطع یا سانسور می‌کنند، تعلیق کنند؟»
+🔻
+که بیش از ۹۶ درصد گفتن آره باید صفحاتشون مسدود بشن!
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 26.7K</span> · <a href="https://t.me/iaghapour/2469" class="msg-date" target="_blank">17:12 · 12 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⚠️
+سخنگوی دولت اخبار این روزها مبنی بر باز شدن اینترنت را تکذیب کرد؛ به محض دریافت خبر رسمی اعلام خواهیم کرد
+سخنگوی دولت:
+💢
+باز شدن اینترنت موضوعی نیست که دست ما باشد.
+💢
+به محض اینکه خبر رسمی از مبادی رسمی دریافت کنیم، حتما اعلام خواهیم کرد.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 26.2K</span> · <a href="https://t.me/iaghapour/2470" class="msg-date" target="_blank">07:47 · 13 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/KOn3WhJqBKPZdDr2FB9SHjl4SMb8YaFWuTbeAKmnqjTmL2y4-BcD58ZQb2I4NpoM0ypD5MSq5X6PCjxNpTUVx3nY7yyLBTdRP-_gVoShZAMoRYp3YTsZmcBGLa7LnGKCfJxzx5rju0mC6kBZtKWwwT-uQXvOMzKZGnu7fXEnYH2W66ZQuZWR6gjAiPa9UFmKWBRD1kYpP78EGAu7B_TIHvHiSOvhnmwxEAqqnGPSwJ23Ol3rhzFof2nRbnSuLvk2l8hlRPSthXugBb4PRJGVgWmn2RAClvipvwgBg_DJdkVeBKZQV97ZDSl4F7WIpfIY4y4RaVNXDEKZB8vmpzkgwA.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/KOn3WhJqBKPZdDr2FB9SHjl4SMb8YaFWuTbeAKmnqjTmL2y4-BcD58ZQb2I4NpoM0ypD5MSq5X6PCjxNpTUVx3nY7yyLBTdRP-_gVoShZAMoRYp3YTsZmcBGLa7LnGKCfJxzx5rju0mC6kBZtKWwwT-uQXvOMzKZGnu7fXEnYH2W66ZQuZWR6gjAiPa9UFmKWBRD1kYpP78EGAu7B_TIHvHiSOvhnmwxEAqqnGPSwJ23Ol3rhzFof2nRbnSuLvk2l8hlRPSthXugBb4PRJGVgWmn2RAClvipvwgBg_DJdkVeBKZQV97ZDSl4F7WIpfIY4y4RaVNXDEKZB8vmpzkgwA.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">💢
+این خیلی مسخره‌ست که منظورمون از وصل شدنِ اینترنت شرایطیه که توش فیلترشکن های ارزون بتونن وصل شن.
+یه سطحی از بدبختی به عنوان شرایطِ خوب بهمون قالب شده و خودمون یادمون نمیاد کی اینو پذیرفتیم.
+©
+Kian
+🔹
+پ. ن:
+البته نپذیرفتیم بلکه تحمیل شده به ما...
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 26.8K</span> · <a href="https://t.me/iaghapour/2471" class="msg-date" target="_blank">09:55 · 13 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+دیجیاتو
+روزشمار قطعی اینترنت گذاشته بود صفحه اول سایتش که فقط نشون میداد الان چند روزه مردم به اینترنت آزاد دسترسی ندارن!
+⚠️
+امروز به دستور نهاد امنیتی از روی سایت حذف شد!
+روز شماری که فقط تعداد روزها و ساعت قطعی رو نشون میداد.
+هیچی دیگه همین...
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 26.2K</span> · <a href="https://t.me/iaghapour/2474" class="msg-date" target="_blank">13:01 · 13 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+همونطور که بالاتر هم اطلاع داده شد یک سری سایت ها از دیروز باز شدن که بیشتر به درد برنامه نویس ها میخوره.
+🔹
+البته برای من رو ایرانسل سایت sourceforge باز نشد :)
+<a href="https://vercel.com" target="_blank">https://vercel.com</a>
+<a href="https://nextjs.org" target="_blank">https://nextjs.org</a>
+<a href="https://sourceforge.net" target="_blank">https://sourceforge.net</a>
+<a href="https://letsencrypt.org" target="_blank">https://letsencrypt.org</a>
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 26.2K</span> · <a href="https://t.me/iaghapour/2475" class="msg-date" target="_blank">13:07 · 13 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+آموزش متنی SNI-Spoofing برای استفاده از آیپی سفیدهای کلودفلر
+میخاستم تا فردا صبر کنم که یهو 100 تا پیام اومد :)
+🔸
+یکی از دوستان زحمت کشیده و از دامنه هایی که آزاد شدن استفاده کرده برای اینکار. به فایل config.json توجه کنید که هم حاوی آیپی سفید هست هم دامنه.
+نحوه کار این ابزار به این صورت است که با جعل آدرسِ سایت‌هایی که در حال حاضر در لیست سفید (Whitelist) قرار دارند، سیستم فیلترینگ را دور زده و اتصال شما را به اینترنت آزاد برقرار می‌کند.
+با استفاده از این برنامه، می‌توانید تمام کانفیگ‌های مبتنی بر کلودفلر را که از کار افتاده‌اند رو دوباره زنده کنید!
+🔻
+مراحل اجرا و تنظیمات:
+اجرای برنامه واسط:
+پس از دانلود فایل، روی برنامه SNI-Spoofing کلیک راست کرده و حتماً گزینه Run as administrator را انتخاب کنید تا با دسترسی ادمین اجرا شود.
+تنظیم کلاینت:
+وارد برنامه کلاینت خود (مثل ،v2rayN یا هر برنامه مشابهی که استفاده می‌کنید) شوید و کانفیگ مورد نظرتان را برای ویرایش باز کنید.
+تغییر آدرس و پورت:
+در تنظیمات کانفیگ، بخش آدرس (Address) را به آی‌پی لوکال
+127.0.0.1
+تغییر دهید و پورت (Port) را روی 40443 تنظیم کنید. کانفیگ را ذخیره کنید.
+کار تمامه و میتونید به کانفیگ خودتون متصل بشید.
+🔗
+آدرس گیت‌هاب پروژه برای دانلود فایل
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 31.8K</span> · <a href="https://t.me/iaghapour/2481" class="msg-date" target="_blank">22:14 · 13 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/r8P1RiFFFrMK8nVWcXRsGdXrlocuuwTkMB3eoB-j8pJ3je-gdMrZWVtFApci1_0IvOwVJrVOgMhctDo1vMVEi1-FkF8Lx5_h_8fvhyApDWqhrtfVDlc4kk3d3dTj9EG_aZEZvC_5-AqXAjTENbIJa-FzrklcXothnEz2SmFcQHlEMDBfBk-lahvgzM2DRKOb9EJeOQq2QjIXgTLbxKy25WWvJBgk7eFO2TKls3ey9jHD4ZnjgBa86SmuotbO29k0dgdBn4Xkr9lB-U3Ue-7oPjvtCPjoFG8V7Om64TaR2zdDUeAsSJSmIy2pk46Gogt-7m4AgOmkHF33tl5Vvph6fg.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/r8P1RiFFFrMK8nVWcXRsGdXrlocuuwTkMB3eoB-j8pJ3je-gdMrZWVtFApci1_0IvOwVJrVOgMhctDo1vMVEi1-FkF8Lx5_h_8fvhyApDWqhrtfVDlc4kk3d3dTj9EG_aZEZvC_5-AqXAjTENbIJa-FzrklcXothnEz2SmFcQHlEMDBfBk-lahvgzM2DRKOb9EJeOQq2QjIXgTLbxKy25WWvJBgk7eFO2TKls3ey9jHD4ZnjgBa86SmuotbO29k0dgdBn4Xkr9lB-U3Ue-7oPjvtCPjoFG8V7Om64TaR2zdDUeAsSJSmIy2pk46Gogt-7m4AgOmkHF33tl5Vvph6fg.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+راهنمای کانفیگ برای روش SNI Spoofing
+🔹
+بعضی از دوستان دچار مشکل شدن و میگن کانفیگ از کجا بگیریم. هم کانفیگ های رایگان در سطح وب که وجود دارن میتونین استفاده کنین هم خودتون یکی با دامنه بسازین و بندازین پشت کلودفلر.
+— فقط کانفیگ باید پشت کلودفلر باشه.
+⚠️
+نمونه کانفیگ ویرایش شده رو به شکل عکس براتون ارسال کردم.
+🔻
+لیست یکسری سایت هایی که سفید هستن هم براتون میفرستم حالا نمیدونم همشون پشت کلودفلر هستن یا نه! میتونید این سایت ها رو در فایل config.json تست کنید.
+vercel.com
+sourceforge.net
+ubuntu.com
+letsencrypt.org
+react.dev
+nexjs.org
+python.org
+pipy.org
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 34.2K</span> · <a href="https://t.me/iaghapour/2484" class="msg-date" target="_blank">00:03 · 14 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">🟢
+روش SNI Spoofing همچنان فعاله.
+دلیل اینکه آموزش رو کمی دیرتر گذاشتیم این بود که می‌خواستیم اول خودمون دقیق تستش کنیم. البته قبل از ما، بقیه دوستان آموزش‌های متنی و ویدیویی کاملی ساخته بودن که واقعا جای تشکر داره. حجم پیام‌ها اونقدر بالا بود که پشتیبانی فرصت نکرد زودتر این اسکریپت رو بررسی کنه. جالب اینجاست که بیشتر از ۱۰۰ نفر این اسکریپت رو برای ما فرستاده بودن تا آموزشش رو بذاریم :)
+🔻
+پشتیبانی ربات گفت که چند تا سوال پرتکرار داشتید، که اینجا بهشون جواب می‌دم:
+۱- آیا این روش خطرناکه؟
+— همون‌طور که قبلا هم یه توضیح کوتاه دادیم، این روش با IP Spoofing فرق داره. پس مشکلی نداره و با خیال راحت می‌تونید ازش استفاده کنید. یک نگرانی درباره فایل EXE وجود داشت که دوستان گفتن بررسی شد و مشکلی نبود.
+۲- امکان استفاده از کانفیگ‌های رایگان و یا کانفیگ‌های BPB وجود دارد؟
+— من خودم کانفیگ‌های BPB رو برای این کار تست نکردم، اما بچه‌ها تو ربات پیام دادن و گفتن که بدون مشکل کار می‌کنه. (یه نگاه به عکس راهنمای کانفیگ که بالاتر فرستادم بندازید).
+۳- دلیل از کار افتادن ناگهانی این روش برای برخی کاربران چیست؟
+— با افزایش استفاده از هر روشی و فراگیر شدن الگوی مصرف آن، احتمال مسدود شدن وجود دارد. با این حال، روش فعلی همچنان فعال است. در صورت بروز قطعی، به فایل config.json مراجعه کرده و آی‌پی‌ها و دامنه‌های تمیز (سفید) دیگری را جایگزین و آزمایش کنید.
+۴- آیا احتمال مسدود شدن کامل این روش وجود دارد؟
+— صد درصد این امکان وجود داره. یادتونه یه مدت (دوران اعتراضات) دامنه ChatGPT باز شده بود و همه روش کانفیگ می‌زدن، اما بعدش مسدود شد؟ همون‌طور که گفتم، وقتی یهو همه برن سمت یه روش و الگوی مصرفش مشخص بشه، سیستم فیلترینگ متوجه می‌شه و جلوش رو می‌گیره. پس به حرف افراد با دانش کم و یا بیسواد توجه نکنید و هر روشی که الان کار می‌کنه رو با دوستان‌تون به اشتراک بذارید تا تو همین مدت محدود بتونن استفاده کنن و کارشون راه بیفته.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 31.3K</span> · <a href="https://t.me/iaghapour/2486" class="msg-date" target="_blank">08:56 · 14 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+مشکل ارسال کد تلگرام با پیامک درست شد
+بر اساس گزارش‌های دریافتی از کاربران، اختلالی در ورود به پیام‌رسان تلگرام از طریق پیامک وجود داشت که در حال حاضر رفع شده.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 27.9K</span> · <a href="https://t.me/iaghapour/2489" class="msg-date" target="_blank">18:58 · 14 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">✍🏻
+شاید دلم نمی‌خواد قضاوت کنم، یا شایدم می‌خوام... واقعاً نمی‌دونم! :( اما بعضی حرف‌ها رو دیگه باید زد.
+🔹
+روی صحبتم اول از همه با کسانیه که «سیم‌کارت سفید» تو جیبشونه یا به هر شکلی، رانتِ داشتنِ اینترنتِ آزاد و بدون محدودیت رو دارن. شمایی که وقتی مردم عادی برای باز کردن یه عکس یا فرستادن یه پیام صوتی دارن با ده تا پروکسی و فیلترشکن می‌جنگن، خیلی راحت و بدون دغدغه وصل می‌شید.
+🔹
+بیایید با خودمون رو راست باشیم؛ شما هیچ فرقی با سیاست‌گذارهای فیلترینگ ندارید! وقتی شما دردِ قطع شدن و محدودیت رو حس نمی‌کنید، یعنی دقیقا دارید از همین ساختارِ فیلترینگ حمایت می‌کنید. سکوتِ شما و استفاده از این رانت، تاییدِ وضع موجوده.
+🔸
+اما روی دومِ صحبتم با اون کسب‌وکارها، برندها و مجله‌های ایرانیه (که نیازی نیست اسمشون رو بیارم، خودشون می‌دونن). شمایی که بدون اینکه واقعاً مجبور باشید و کارد به استخونتون رسیده باشه، خیلی راحت کانال‌ها و پیج‌هاتون رو از تلگرام و اینستاگرام جمع کردید و بردید تو پیام‌رسان‌های داخلی.
+🔸
+شما با این کارتون عملاً به فیلترینگ مشروعیت دادید. شما به اون کسی که دکمه فیلتر رو فشار داده این پیام رو دادید که: "دمتون گرم، ما که مشکلی نداریم، با شرایط جدید هم کنار اومدیم!" شما با عادی‌سازیِ این شرایط، دقیقاً از محدودیت‌های بیشتر حمایت کردید.
+🔻
+پس لطفاً... حداقل با ما صادق باشید. برای ما ژستِ آدم‌های نگران، دلسوز و دغدغه‌مند رو نگیرید. کسی که تو روزهای سخت، به جای ایستادن کنار مردم، فقط به فکر بیرون کشیدنِ گلیمِ خودش از آب بوده و با محدودیت‌ها همراهی کرده، حق نداره ادعای همراهی و پیگیریِ حقِ مردم رو داشته باشه.
+#فیلترینگ
+#اینترنت_آزاد
+#عادی_سازی
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 29.1K</span> · <a href="https://t.me/iaghapour/2490" class="msg-date" target="_blank">12:41 · 15 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">📉
+بر اساس اظهارات افشین کلاهی، رئیس کمیسیون کسب‌وکارهای دانش‌بنیان اتاق بازرگانی ایران، خسارت مستقیم ناشی از
+#قطع_اینترنت
+در
+#ایران
+روزانه بین ۳۰ تا ۴۰ میلیون دلار برآورد می‌شود. اگر تبعات غیرمستقیم هم در نظر گرفته شود، این عدد به حدود ۸۰ میلیون دلار در روز می‌رسد؛ رقمی معادل نابودی روزانه چندین پروژه زیرساختی بزرگ.
+©
+پس‌کوچه
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 25K</span> · <a href="https://t.me/iaghapour/2491" class="msg-date" target="_blank">14:40 · 15 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">🚀
+حل مشکل گیر کردن و لود نشدن سایت‌های ایرانی در زمان اختلال اینترنت
+🔻
+تو زمان نت ملی وقتی وارد یک سایت ایرانی میشید میبینید سایت خیلی طول میکشه لود بشه یا ناقص لود میشه. اگر به گوشه پایین مرورگر دقت کنید، معمولاً می‌بینید مرورگر روی عباراتی مثل Waiting for
+www.googletagmanager.com
+یا
+fonts.googleapis.com
+گیر کرده! دلیلش هم اینه که سایت های ایرانی یک سری فایل ها رو از منابع خارجی لود میکردن و الان دچار مشکل شدن!
+💡
+راه‌حل چیست؟
+با مسدود کردن هوشمندِ این سرویس‌های اضافه‌، مرورگر دیگر منتظر آن‌ها نمی‌ماند و سایت را بلافاصله برایتان باز می‌کند.
+۱. افزونه uBlock Origin را روی مرورگر خود (کروم، فایرفاکس یا اج) نصب کنید.
+۲. روی آیکون افزونه (سپر قرمز رنگ) کلیک کرده و آیکون چرخ‌دنده
+⚙️
+را بزنید تا تنظیمات باز شود.
+۳. از تب‌های بالا به بخش My filters بروید.
+۴. کدهای زیر را کپی کرده و در آنجا Paste کنید:
+||fonts.googleapis.com^
+||fonts.gstatic.com^
+||googletagmanager.com^
+||www.googletagmanager.com^
+||google-analytics.com^
+||www.google-analytics.com^
+||hotjar.com^
+||clarity.ms^
+||mc.yandex.ru^
+||connect.facebook.net^
+||googlesyndication.com^
+||doubleclick.net^
+۵. در نهایت روی دکمه Apply changes کلیک کنید. تمام!
+✅
+⚠️
+نکته: لیست بالا کاملاً بی‌خطر است. فقط دقت کنید که هرگز دامنه اصلی گوگل (
+google.com
+) یا ریکپچا (recaptcha) را مسدود نکنید.
+🔗
+صفحه افزونه برای کروم / ادج
+🔗
+صفحه افزونه برای فایرفاکس
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 26.6K</span> · <a href="https://t.me/iaghapour/2492" class="msg-date" target="_blank">16:16 · 15 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+خلاصه‌ی داستان SNI Spoofing (جعل SNI)
+🔸
+این روش چیست ؟
+به این تکنیک SNI Spoofing (جعل SNI) یا Fake SNI می‌گویند که یکی از قدیمی‌ترین و کلاسیک‌ترین روش‌های دور زدن فیلترینگ است.
+کار این روش این است که در اولین مرحله‌ی ارتباط (دست‌دهی اولیه یا همون Handshake)، یک نامِ دروغینِ مجاز (مثل
+auth.vercel.com
+) را به فایروال نشان می‌دهد تا فایروال گول بخورد و دروازه را باز کند.
+🔹
+چرا در ابتدا کار کرد؟
+چون فایروال ملی در نگاه اول فقط به همین نامِ دامنه (پوسته) نگاه می‌کند. از آنجا که دامنه‌هایی مثل Vercel یا Ubuntu برای توسعه‌دهندگان حیاتی هستند و در لیست سفید  قرار دارند، فایروال به آن‌ها اعتماد کرده و اجازه عبور ترافیک را می‌دهد.
+🔸
+چرا بعد از مدت کوتاهی از کار افتاد؟
+هوش مصنوعی و سیستم‌های فیلترینگ پیشرفته (DPI) امروزی، فقط به نامِ دامنه بسنده نمی‌کنند. آن‌ها در لایه‌های بعدی یقه این روش را می‌گیرند. دلایل اصلی بسته شدن سریع آن عبارتند از:
+—
+تحلیل رفتار غیرطبیعی:
+فایروال متوجه می‌شود که حجم و الگوی مصرفِ کاربری که در حال استفاده از این روش است، شبیه مرور یک سایت عادی نیست، بلکه شبیه یک تونلِ دانلود/آپلود سنگین است. بنابراین آن را قطع می‌کند.
+— لو رفتن آی‌پی:
+این ابزار معمولاً ترافیک را به سمت آی‌پی‌های معروفی مثل
+188.114.98.0
+می‌فرستد که فایروال ملی مدت‌هاست روی آن‌ها حساس است. وقتی ببیند هزاران درخواستِ عجیب با نامِ ورسل به سمت این آی‌پی می‌رود، آن را مسدود می‌کند.
+—
+مسدودسازی توسط خود کلادفلر:
+خود شبکه‌ی کلادفلر (مقصد) نیز استفاده از SNI جعلی برای دسترسی به دیتای غیرمرتبط را مسدود می‌کند.
+🔻
+نتیجه‌گیری نهایی:
+استفاده از این ابزار (جعل SNI روی بستر TCP) مانند پنهان شدن پشت یک شیشه‌ی شفاف است؛ در لحظه‌ی اول شاید کار کند، اما با کمی دقت کاملاً لو می‌رود.
+پ.ن: شاید هم مواردی وجود داشته باشه که از درک من خارج باشه.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 29.7K</span> · <a href="https://t.me/iaghapour/2494" class="msg-date" target="_blank">17:06 · 15 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-video">
+                <video controls preload="metadata" poster="">
+                    <source src="https://cdn4.telesco.pe/file/913ef6b1f4.mp4?token=lcm0de4ZAV3IFPW00AXDplVpQf28A1fGWZdhe58f_p1bNHHcncGpkW6AGj6GX_5ODZ9Vh8STkCiVUL7C6LqMemkb8tmQWKm7GwRSe_75nVuoQgptzh7VYOl3TiSTE7KK7rumt6_tf69-7bFg7VCF1TQNJCOvoXJHktBRX6EFdcaoNPu53D6gJh4NDxLoq-P0qo3PTs95H3b6oQpm-1-dA0cqXVPJpHApkI7UdPWDjFgqNKrZe504TEwLvxlrYL1Y3flmpUlUHByz4rZEE4fjPb6LHVhhBx1ShVhcgG9Of0uPbjeqO8d-tfq4sczsJAjazsxgl4zbzKqSg4AcFgTUbg">
+                </video>
+                <a href="https://cdn4.telesco.pe/file/913ef6b1f4.mp4?token=lcm0de4ZAV3IFPW00AXDplVpQf28A1fGWZdhe58f_p1bNHHcncGpkW6AGj6GX_5ODZ9Vh8STkCiVUL7C6LqMemkb8tmQWKm7GwRSe_75nVuoQgptzh7VYOl3TiSTE7KK7rumt6_tf69-7bFg7VCF1TQNJCOvoXJHktBRX6EFdcaoNPu53D6gJh4NDxLoq-P0qo3PTs95H3b6oQpm-1-dA0cqXVPJpHApkI7UdPWDjFgqNKrZe504TEwLvxlrYL1Y3flmpUlUHByz4rZEE4fjPb6LHVhhBx1ShVhcgG9Of0uPbjeqO8d-tfq4sczsJAjazsxgl4zbzKqSg4AcFgTUbg" class="dl-btn" download>📥 دانلود ویدیو</a>
+            </div>
+            <div class="msg-text">یه متنی توی توییتر دیدم واقعا قشنگ بود و حال و روز خیلی ها رو نشون میده. میدونم شما هم با این افراد برخورد کردین تو این روزها. یعنی افرادی که در مقابل فهمیدن مقاومت میکنن چون سودشون تو نفهمیدن هستش.
+👇🏻
+ظاهراً حماقت مسری شده و جمعیت احمق ها هر روز در حال افزایشه. یه عده هم کارشون شده گوسفندوار سوار هر موج مبتذلی بشن و تهش هم بشن یه احمقِ کپی‌پیست شده مثل بقیه. گور بابای حرف این جماعت؛ کرکره‌ی گوشِت رو بکش پایین و فقط مسیر خودت رو برو.</div><div class="msg-footer"><span class="msg-views">👁 32.5K</span> · <a href="https://t.me/iaghapour/2496" class="msg-date" target="_blank">10:29 · 16 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+گوگل رفع محدودیت شد
+🔹
+در ساعت‌های اخیر دسترسی به موتور جستجوی گوگل مجدداً برقرار شد.
+پ.ن: آدم روش نمیشه این اخبار رو منتشر کنه.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 32.8K</span> · <a href="https://t.me/iaghapour/2497" class="msg-date" target="_blank">12:54 · 16 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+به نظر میاد هوش مصنوعی
+#Deepseek
+هم باز شده. رو اینترنت های خانگی و همراه تست شده. البته روی دیتاسنتر ها هم به نظر باز شده.
+✍🏻
+توی تست خودم اختلال زیاد داشت.
+🔹
+به نظر میاد همون وایت لیست هستش و نشونه ای از باز شدن اینترنت وجود نداره!
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 33.8K</span> · <a href="https://t.me/iaghapour/2498" class="msg-date" target="_blank">14:31 · 16 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">ببخشید این خبرهای ساده رو پوشش میدم ولی میگم شاید برای یکی مهم باشه.
+💢
+جیمیل در دسترس کاربران قرار گرفت.
+‌
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 33.2K</span> · <a href="https://t.me/iaghapour/2499" class="msg-date" target="_blank">15:21 · 16 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/QdMtc1cyqOiaBjSOgF-aaqI4VItD-nDWXOw60rh3gfq9i0k3O6JS9DmCxsEfERTGjj0uSq39-oA8qQMYby3WDIbdAzrs5C-pi1lUzINqw2f9dXooH128zjJkExTHlip_1esREFIkPWtyNf6Yp6nD8SAUartkYJUwhsNlkVrHnYdgtRL0k-MVaP75l27JCpRg1ZlNF6oKRzYYY4t4ZUReq05cCpiwijIzvc_jVAJo-zo8ruyFtFbSq9coVRf7FdqJjHhbM445TKVY81JED0kfzgcTYpoUTYIM675Hed36VC2SjZVC3xs11c_ysIy9k8cQLhRGktJnO0_RRrRVuRZcnQ.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/QdMtc1cyqOiaBjSOgF-aaqI4VItD-nDWXOw60rh3gfq9i0k3O6JS9DmCxsEfERTGjj0uSq39-oA8qQMYby3WDIbdAzrs5C-pi1lUzINqw2f9dXooH128zjJkExTHlip_1esREFIkPWtyNf6Yp6nD8SAUartkYJUwhsNlkVrHnYdgtRL0k-MVaP75l27JCpRg1ZlNF6oKRzYYY4t4ZUReq05cCpiwijIzvc_jVAJo-zo8ruyFtFbSq9coVRf7FdqJjHhbM445TKVY81JED0kfzgcTYpoUTYIM675Hed36VC2SjZVC3xs11c_ysIy9k8cQLhRGktJnO0_RRrRVuRZcnQ.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+موج فیلترینگ آی‌پی های ایرانی
+🔸
+یکی از بچه‌ها این عکس رو فرستاده و میگه تو یک دیتاسنتر معروف برای یه سرور ایران، تا الان ۳۷ بار آی‌پی عوض کرده ولی دریغ از حتی یه دونه آی‌پی سالم!
+🔹
+به طرز عجیبی آی‌پی سرورهای ایران هم دارن فیلتر میشن و بدتر اینکه این داستان فقط مال یه دیتاسنتر نیست و ظاهرا بقیه هم درگیرشن.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 39.9K</span> · <a href="https://t.me/iaghapour/2500" class="msg-date" target="_blank">16:04 · 16 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">من کسانی رو که میشناختم به خاطر بی احترامی به کسانی که نمیشناختم از زندگیم حذف کردم.
+#دی
+🖤</div><div class="msg-footer"><span class="msg-views">👁 39.9K</span> · <a href="https://t.me/iaghapour/2501" class="msg-date" target="_blank">19:33 · 16 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/rSlfqbIu7TWsAJSnRaEtNX0nmHLQloSitNiXTUjItsMXTGMub2by88biW1cEYN19PMv9CkkPGTxmFws47AqMsvhhbDU6rSG24EtTD3IAfWLJzo97_1xoIfHt5u1o_SaFpd_9AWRTjqItc63QpfTJz2BpMBBo6HgSMOfHxbmwhBPkJtaylGIT0bmKSU8xEMAX5qR1X1WPcC25bUJHG2RPcytWDfv5KmOTVQC8GP9i4HFC-jRVphP30b56oH9yrITFQIiTRjtrZggcs4vlzzj6A4igh434Mf5u8L2yQhBffFMZJiegAg_d4rMgln8dCxEFIgQiy9GBSybA2G83wNPH6g.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/rSlfqbIu7TWsAJSnRaEtNX0nmHLQloSitNiXTUjItsMXTGMub2by88biW1cEYN19PMv9CkkPGTxmFws47AqMsvhhbDU6rSG24EtTD3IAfWLJzo97_1xoIfHt5u1o_SaFpd_9AWRTjqItc63QpfTJz2BpMBBo6HgSMOfHxbmwhBPkJtaylGIT0bmKSU8xEMAX5qR1X1WPcC25bUJHG2RPcytWDfv5KmOTVQC8GP9i4HFC-jRVphP30b56oH9yrITFQIiTRjtrZggcs4vlzzj6A4igh434Mf5u8L2yQhBffFMZJiegAg_d4rMgln8dCxEFIgQiy9GBSybA2G83wNPH6g.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">پیشرفت کردیم و بعد 49 روز و 1152 ساعت سطح اتصال به 2 درصد رسیده.
+😡</div><div class="msg-footer"><span class="msg-views">👁 31.7K</span> · <a href="https://t.me/iaghapour/2502" class="msg-date" target="_blank">07:34 · 17 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/LRx8j4Z8hUWe67actfJPu3dX5h5q7EtgFMwDbW2SEM9ivcxgokBWCjyNGWn0VjLXX-O66q0bsJvJwgeq18JxtvvMEKbPjcLgn0Kci2DYmtz_sZizKkcGeGd6j5nitHlFx_RoZ6XgEo7CGKWLTaya2iUfqeCfpNTKF9vn8Uln7JtTUCSLkGnDbnPFcCpSf0bG3umresXG9QInvlJhBOguhAs4AxJ7qVPVPvqlIdZO57BSZsn4JSqomjBMmrdUxCJKiJO_dLBZnjThsuJE-vwVp04qur4EOqIhZ1ZxG5LblMlyLc-gtSvFBPXRN-YvFYxDJgoMKd3VTsVcK7sYW85OEg.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/LRx8j4Z8hUWe67actfJPu3dX5h5q7EtgFMwDbW2SEM9ivcxgokBWCjyNGWn0VjLXX-O66q0bsJvJwgeq18JxtvvMEKbPjcLgn0Kci2DYmtz_sZizKkcGeGd6j5nitHlFx_RoZ6XgEo7CGKWLTaya2iUfqeCfpNTKF9vn8Uln7JtTUCSLkGnDbnPFcCpSf0bG3umresXG9QInvlJhBOguhAs4AxJ7qVPVPvqlIdZO57BSZsn4JSqomjBMmrdUxCJKiJO_dLBZnjThsuJE-vwVp04qur4EOqIhZ1ZxG5LblMlyLc-gtSvFBPXRN-YvFYxDJgoMKd3VTsVcK7sYW85OEg.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⁉️
+فکر کن تیتر خبر تو یه کشوری باز شدن گوگل باشه...
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 31K</span> · <a href="https://t.me/iaghapour/2503" class="msg-date" target="_blank">08:51 · 17 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">می‌گویند وقتی سنگی در تاریکی پرتاب می‌کنی، صدای کسی درمی‌آید که سنگ به او خورده است. این روزها شاهد دست‌وپا زدن‌های حقیرانه عده‌ای هستیم؛ همان‌هایی که اینترنت آزاد را که حق مسلم هر انسانی است، به چشم یک تجارت پر سود می‌بینند و خون مردم را در شیشه کرده‌اند.
+✍🏻
+هدف من در این کانال از روز اول فقط یک چیز بوده و هست:
+کمک به دسترسی آزاد شما به اینترنت.
+درد شما این است که من و امثال من، با آموزش‌های کاملاً رایگان، دکان شما را تخته کرده‌ایم. درد شما این است که ما به مردم یاد می‌دهیم چطور بدون پرداخت هزینه‌های گزاف و «گیگی فلان قدر تومن» که به جیب شما می‌رود، به اینترنت آزاد دسترسی داشته باشند.
+من هیچ‌گاه نیازی نمی‌بینم وارد حاشیه شوم یا پاسخ کینه‌توزی‌ها را بدهم. تمرکز من فقط روی ارائه بهترین روش‌ها برای شماست و بهترین پاسخ به بدخواهان، همین استقبال و حمایت شماست.
+دلیل وقفه کوتاهی که در انتشار آموزش‌ها افتاد، دقیقاً مدیریت همین حواشی بود. وقتی منافع عده‌ای در خطر است، با تمام توان سنگ‌اندازی می‌کنند. در مقابل این هجمه‌ها، سکوتِ کسانی که از این مسیر استفاده می‌کنند، کمکی به ما نمی‌کند. این مسیر دوطرفه است و ادامه آن به حمایت و صدای شما بستگی دارد.</div><div class="msg-footer"><span class="msg-views">👁 33.2K</span> · <a href="https://t.me/iaghapour/2504" class="msg-date" target="_blank">11:30 · 17 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+فضل‌الله رنجبر (عضو کمیسیون اجتماعی مجلس):
+«دسترسی به اینترنت فعلاً به مصلحت نیست و این ما هستیم که زمان وصل شدن آن را تشخیص می‌دهیم.»
+✍🏻
+پ.ن: آدم می‌مونه چی بگه! بیشتر از چند ماهه که با این وضعیت، کلی کسب‌وکار رو به مرز نابودی کشوندن. حالا به جای اینکه بابت این خسارت‌ها شرمنده باشن، خیلی راحت میگن «فعلاً مصلحت نیست مردم اینترنت داشته باشن!»
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 35.9K</span> · <a href="https://t.me/iaghapour/2505" class="msg-date" target="_blank">17:31 · 17 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">✍🏻
+یه سری از دوستان گله کردن که چرا من فقط به کشته شدن بچه‌های دی‌ماه اشاره کردم و حرفی از بچه‌های مدرسه میناب نزدم.
+تو فضاهای دیگه چندین بار راجع به این اتفاق تلخ حرف زدم و ابراز همدردی کردم. ولی با این حال، مگه میشه آدم به این فاجعه فکر کنه و دلش خون نشه؟ از دست رفتن بچه‌های معصوم میناب واقعاً قلب هر آدمی رو به درد میاره.
+این غم خیلی بزرگه... به خانواده‌های داغدارشون تسلیت میگم.
+🖤</div><div class="msg-footer"><span class="msg-views">👁 31.8K</span> · <a href="https://t.me/iaghapour/2506" class="msg-date" target="_blank">17:42 · 17 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+در حالی که دنیا با سرعت نور به سمت پیشرفت‌های نفس‌گیر مثل هوش مصنوعی پیشرفته، مأموریت آرتمیس ۲ برای بازگشت انسان به ماه، و هزاران نوآوری دیگه پیش می‌ره، ما اینجا اسیر یه چرخه‌ی تکراری و خفه‌کننده‌ایم: هر روز باید اخبار رو چک کنیم و ببینیم که بالاخره کی قراره این چکمه‌ی سنگین سانسور رو از گلوی اینترنت‌مون بردارن.
+این وضعیت نه تنها فرصت‌های برابر رو ازمون می‌گیره، بلکه ما رو از جریان اصلی جهان عقب نگه می‌داره – انگار که به جای پیشرفت در یک مسیر، داریم تو باتلاق محدودیت‌ها دست و پا می‌زنیم.
+امروز وارد پنجاهمین روز
+#قطعی_اینترنت
+شدیم.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 26.9K</span> · <a href="https://t.me/iaghapour/2508" class="msg-date" target="_blank">08:37 · 18 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+هشدار اتاق اصناف درباره ابعاد فاجعه‌بار محدودیت‌های اینترنتی
+سخنگوی اتاق اصناف ایران با اشاره به سهم ۵ درصدی اقتصاد دیجیتال در تولید ناخالص داخلی، ابعاد خسارات ناشی از قطع اینترنت را بسیار فراتر از پیش‌بینی‌ها دانست.
+وی تأکید کرد که رویکرد «دسترسی گزینشی» یا اینترنت طبقاتی برای واحدهای صنفی کارآمد نخواهد بود؛ چرا که در صورت عدم دسترسی مشتریان به شبکه، عملاً بازاری برای فروش باقی نمی‌ماند.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 25.4K</span> · <a href="https://t.me/iaghapour/2509" class="msg-date" target="_blank">15:09 · 18 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+لیست لینک های مهم و کاربردی (سری دوم)
+این لیست، یک راهنمای جامع و دسته‌بندی شده از تمام آموزش‌ها، ابزارها و مطالب مهم 3 ماه اخیر کانال است.
+=================================================
+🟢
+بخش اول: شروع از اینجا (بسیار مهم برای اعضای جدید)
+🔸
+لیست لینک‌های مهم و کاربردی
+(سری اول)
+🔹
+پاسخ به پرتکرارترین سوالات شما عزیزان
+(حتما مطالعه شود)
+🔸
+چرا آموزش عمومی، تنها راه بقای اینترنت آزاد است؟ (حتما مطالعه شود)
+|
+لینک دوم
+🔹
+مراقب کلاهبرداران باشید!
+=================================================
+🔵
+بخش دوم: مفاهیم پایه و آگاهی‌بخشی
+🔸
+وقتی اینترنت ملی می‌شود؛ چه راه‌هایی واقعاً باقی می‌ماند؟
+🔹
+اینترنت ملی چه تبعاتی دارد؟
+🔸
+چرا الان خودمون فیلترشکن نسازیم؟
+🔹
+دلیل حمله فیلترشکن فروش‌ها به کانال ما
+=================================================
+🟡
+بخش سوم: ترفندها و آموزش‌های عمومی
+🔹
+آموزش ساخت کانفیگ محافظت شده با Npv Tunnel
+🔸
+حل مشکل گیر کردن و لود نشدن سایت‌های ایرانی در زمان اختلال اینترنت
+🔹
+اشتراک‌گذاری فیلترشکن از طریق هات‌اسپات گوشی
+🔸
+ابزار رایگان تبدیل فایل JSON به لینک Vless و...
+🔹
+توقف کامل آپدیت مرورگر فایرفاکس، کروم و ادج
+=================================================
+🟠
+بخش چهارم: آموزش‌های تخصصی عبور از فیلترینگ
+🔸
+آموزش VayDNS و MasterDnsVPN حتی با ضعیف‌ترین ریزالورها
+(پیشنهادی)
+🔹
+نکته بسیار مهم و اصلاحیه درباره تنظیمات VayDNS
+🔻
+آموزش ۴ روش اسکن بهترین DNS سالم در موبایل و کامپیوتر
+(برای روش های مبتنی بر dns نیازه ببینید) | چندتا از پست های پایین تر همین پست رو مطالعه کنید.
+🔸
+دو کلاینت اندروید برای MasterDns منتشر شد
+🔹
+آموزش متنی SNI-Spoofing
+|
+لینک دوم
+🔸
+کمی توضیحات درباره روش Spoof Tunnel
+🔹
+پیاده‌سازی همزمان NoizDNS ،DNSTT و Slipstream در یک سرور
+=================================================
+🔴
+بخش پنجم: آموزش‌های کاربردی و مفید
+🔸
+قبل از تانل زدن ببینید: آموزش تست ارتباط بین سرور ایران و خارج
+🔹
+آموزش نصب آفلاین هر اسکریپتی روی سرور ایران + نصب X-UI
+🔸
+آموزش گرفتن سرتیفیکت برای دامنه پوینت شده به سرور ایران
+🔹
+آموزش ساخت ربات تلگرامی برای SSH زدن به سرور
+=================================================
+🟣
+بخش ششم: ابزارهای کاربردی | اطلاعات مفید
+🔸
+اسکریپت کبوتر برای دریافت خبر از تلگرام با DNS
+🔹
+پیام‌رسان شخصی و رایگان موروِب
+(قابل اجرا روی هاست)
+🔸
+نصب آفلاین مسنجر songbird
+🔹
+راهنمایی درباره کامنت‌های یوتیوب و ربات تماس با ما
+🔸
+درباره تبلیغات تلگرام و کانال
+🔻
+ممنون از حمایت و دلگرمی شما
+❤️
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 27.2K</span> · <a href="https://t.me/iaghapour/2510" class="msg-date" target="_blank">16:50 · 18 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/kGapR7xcWOGkMmAZJ4ViAJmoFMx2pq9hP94sQ5rWOybM1E_GWIrrNDB9QSyHDP9wrurthTA4cNx9ICS8efZZ3eOjtP4kvyx2RGFiZPgifkN_D6oKhlKki9rGFqqZPdVw0QMbqWP11ZRGHpFwVxL0ZdX7qUj2NLzXvksGWKNx38ZZ8HPj5r9HrkUaVmmewmO_eQLyvGnE1zeSSpTtGoIOIfjFYousQUcn983ZrK3mZbaeM62yXl1Zy_CueyWV3cjgG8ImPeGm9xBUqD1w-wjKv9JrsFEMIvgA2Gmbhni-QgbBmZngHFHT4NSPtD0rkf5DNSaksK5Wr58GIj5qPtxTRQ.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/kGapR7xcWOGkMmAZJ4ViAJmoFMx2pq9hP94sQ5rWOybM1E_GWIrrNDB9QSyHDP9wrurthTA4cNx9ICS8efZZ3eOjtP4kvyx2RGFiZPgifkN_D6oKhlKki9rGFqqZPdVw0QMbqWP11ZRGHpFwVxL0ZdX7qUj2NLzXvksGWKNx38ZZ8HPj5r9HrkUaVmmewmO_eQLyvGnE1zeSSpTtGoIOIfjFYousQUcn983ZrK3mZbaeM62yXl1Zy_CueyWV3cjgG8ImPeGm9xBUqD1w-wjKv9JrsFEMIvgA2Gmbhni-QgbBmZngHFHT4NSPtD0rkf5DNSaksK5Wr58GIj5qPtxTRQ.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">🚨
+گیت‌هاب در بیشتر نت ها و دیتاسنتر ها باز شده
+سایت گیت‌هاب (GitHub) به‌تازگی روی اینترنت‌های مختلف و دیتاسنترها باز شده و در دسترس قرار گرفته اما ظاهراً ماجرا به همین سادگی نیست!
+🔹
+طبق گزارش کانال IRCF:
+ترافیک سایت‌های پرکاربرد برنامه‌نویسان مثل Github و Npmjs در حال حاضر به‌جای اینکه از مسیر عادی و بین‌المللی خارج شود، در داخل کشور به رنج‌های داخلی (شبکه زیرساخت) هدایت می‌شود.
+⚠️
+این یعنی چه؟
+این اتفاق به این معنیه که دیتای شما در حال عبور از یک مسیر دستکاری‌شده هستش. این نوع مسیریابی غیرطبیعی (Hijacking/Routing Manipulation) میتونه خطراتی برای امنیت داده‌ها داشته باشه یا نشان‌دهنده‌ی پیاده‌سازی سیستم‌های مانیتورینگ جدید روی ترافیک باشه (یا شایدم من دارم اشتباه میکنم).
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 27.8K</span> · <a href="https://t.me/iaghapour/2511" class="msg-date" target="_blank">19:58 · 18 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">✍🏻
+چندتا از کانال‌ها لطف کردن و تو چند روز گذشته کانال ما رو معرفی کردن؛ به همین خاطر افتخار این رو داریم که میزبان چند هزار عضو جدید باشیم. :)
+🔻
+دوستان عزیز، به کانال خودتون خیلی خوش اومدید!
+💚
+فقط یک خواهش کوچیک دارم، ممنون می‌شم پستی که
+بالاتر
+براتون قرار دادم رو حتماً مطالعه کنید.</div><div class="msg-footer"><span class="msg-views">👁 24.7K</span> · <a href="https://t.me/iaghapour/2512" class="msg-date" target="_blank">21:06 · 18 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-poll">
+                <div class="poll-question">📊 به نظر میاد لیست سفید داره اجرا میشه و فقط به سایت‌هایی که خودشون باز میکنن قراره دسترسی داشته باشیم.هیچ نشونه ای از بازگشت اینترنت نیست!⁉️نظر شما در این‌باره چیه؟</div>
+                <ul class="poll-opts"><li class="poll-opt">همینطوره و قرار نیست باز بشه.</li><li class="poll-opt">باز میشه بزودی.</li><li class="poll-opt">بعد جنگ باز میشه.</li><li class="poll-opt">نمیدونم :(</li></ul>
+            </div>
+            <div class="msg-footer"><span class="msg-views">👁 25K</span> · <a href="https://t.me/iaghapour/2513" class="msg-date" target="_blank">21:54 · 18 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/qcUz095VjbOUe9MzTWb4Q3upeeHaFYFG2TSNfisapAwGiPwH_HuSHmn__tZKrdLkCf8CC4OBVOLPmRmHZPEhcFd5h3r0ia1E0Pi0DjH3GmfOwcNqYW08UxWR_9I2a-VQi_z3JAVtSrm5ZYrYhzj8Hm0KiKfRMsSHE17kjuJSr6zBWFBsATxiOdxQ4OVOOGuiPzU5WRGN7tZABwhu3QIbYyHz2EK8-r41QJ0WNvpqTIPpZFAKKXLU9HRaH3G19bOWVINeqX1J7Ra3sVO0V20hEpaI7KvbA2Xwl0EnsyjYPekA3CZB8tjiXNGfV-Mg0XD0OXdkeYGdqlnMrBdCsJ4glA.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/qcUz095VjbOUe9MzTWb4Q3upeeHaFYFG2TSNfisapAwGiPwH_HuSHmn__tZKrdLkCf8CC4OBVOLPmRmHZPEhcFd5h3r0ia1E0Pi0DjH3GmfOwcNqYW08UxWR_9I2a-VQi_z3JAVtSrm5ZYrYhzj8Hm0KiKfRMsSHE17kjuJSr6zBWFBsATxiOdxQ4OVOOGuiPzU5WRGN7tZABwhu3QIbYyHz2EK8-r41QJ0WNvpqTIPpZFAKKXLU9HRaH3G19bOWVINeqX1J7Ra3sVO0V20hEpaI7KvbA2Xwl0EnsyjYPekA3CZB8tjiXNGfV-Mg0XD0OXdkeYGdqlnMrBdCsJ4glA.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+معرفی ابزار MasterDnsWeb
+🔸
+این ابزار بدرد کسانی میخوره که، روی سرور ایران میخوان نسخه کلاینت MasterDnsVPN رو نصب کنن و از طریق وب مدیریتش کنن.
+🔻
+ویژگی‌های اصلی:
+🔹
+قابلیت ساخت چندین Instance به طور همزمان
+🔸
+قابلیت مدیریت و انجام تغییرات کانفیگ و ریزالور روی وب
+🔹
+نمایش لاگ های هر systemctl و قابلیت ریست کردن و استارت کردن.
+🔗
+گیت‌هاب پروژه
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 23.7K</span> · <a href="https://t.me/iaghapour/2515" class="msg-date" target="_blank">16:58 · 19 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/C-47Vfz9jE1x-5bD8Xf9R-1QPDJhORXdHUPbk4kGaJcBa4Krn13xizqxpscnSxmjr1hBUN-u60QIpEulxZjxAqH6niYUqGvIxo9FZjOkWJWfz2qTKSmajxtDkSTiammNflMU92CUM0QTjVB8VVqGM9hi34CWVSuebbRag3FyUsqI5c6QcFIv0C9U05Nv0TsTATzsB_wYDw0MkFWwnpPz_NDc3bgugQkRATU0eLS32L68FB_b3FO47drz30I9ffBBr1LtDFgP6RFvZKBYezLtrWedZL2aZYQpL7dkE4zRWz-YVC4URXBPq_0DrMO3_hGQ0rxM9AoiCcApi4MFllU7cA.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/C-47Vfz9jE1x-5bD8Xf9R-1QPDJhORXdHUPbk4kGaJcBa4Krn13xizqxpscnSxmjr1hBUN-u60QIpEulxZjxAqH6niYUqGvIxo9FZjOkWJWfz2qTKSmajxtDkSTiammNflMU92CUM0QTjVB8VVqGM9hi34CWVSuebbRag3FyUsqI5c6QcFIv0C9U05Nv0TsTATzsB_wYDw0MkFWwnpPz_NDc3bgugQkRATU0eLS32L68FB_b3FO47drz30I9ffBBr1LtDFgP6RFvZKBYezLtrWedZL2aZYQpL7dkE4zRWz-YVC4URXBPq_0DrMO3_hGQ0rxM9AoiCcApi4MFllU7cA.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">📱
+معرفی اپلیکیشن Range Scout؛ اسکنر قدرتمند DNS برای اندروید
+🔹
+اگر به دنبال یک ابزار حرفه‌ای و در دسترس برای اسکن و تحلیل DNS resolverها هستید، دیگر نیازی به سیستم‌های دسکتاپ ندارید! اپلیکیشن Range Scout یک ابزار کاملاً رایگان و متن‌باز برای اندروید است که این کار را مستقیماً روی گوشی موبایل شما انجام می‌دهد.
+🔸
+این برنامه با موتور اسکن قدرتمند خود، به شما کمک می‌کند تا بهترین و باکیفیت‌ترین Resolverها را پیدا کرده و آن‌ها را بر اساس عملکردشان بسنجید.
+— اسکن منعطف:
+پشتیبانی از اسکن دقیق روی IPهای تکی و همچنین رنج‌های کامل IPv4.
+— پشتیبانی از پروتکل‌های اصلی:
+موتور اسکن DNS با قابلیت پشتیبانی کامل از هر دو پروتکل UDP و TCP.
+—
+تشخیص پروکسی:
+قابلیت بسیار کاربردی تشخیص DNS Proxy به‌صورت شفاف (Transparent) در اسکن‌های UDP.
+📥
+لینک گیت‌هاب پروژه
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 23.7K</span> · <a href="https://t.me/iaghapour/2516" class="msg-date" target="_blank">18:23 · 19 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/d35TGw8wboDvRFLDZ_mQm2jCGhlISTKpVGlICQGT1RcP0q13HRuIB73POJOvZIzsPDv_VnJLbfYqm0my07rtlMJdCURUlrop-PG8YFzFhUYYEtgoG-zDFv35c_zghTBnbhzTCeZHyxC3enWu0fS_3IbpJSzN89Vvha-SDhMkDYbsf2VJ5oJXLq7XmADEw5M-dxF-7sMfFzfAXfmEqBJJIuwQ82UzVH1Cq5HuopADAk9qAAzZts7BpGiZj3BjuYlqO3WRffMEKRNU62TNos_767cujp7Dacs6o4N-PhVcJYY1PAUhLY82vLus2rNUWVL-4QUYjOavvY4c7dGZNLvquQ.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/d35TGw8wboDvRFLDZ_mQm2jCGhlISTKpVGlICQGT1RcP0q13HRuIB73POJOvZIzsPDv_VnJLbfYqm0my07rtlMJdCURUlrop-PG8YFzFhUYYEtgoG-zDFv35c_zghTBnbhzTCeZHyxC3enWu0fS_3IbpJSzN89Vvha-SDhMkDYbsf2VJ5oJXLq7XmADEw5M-dxF-7sMfFzfAXfmEqBJJIuwQ82UzVH1Cq5HuopADAk9qAAzZts7BpGiZj3BjuYlqO3WRffMEKRNU62TNos_767cujp7Dacs6o4N-PhVcJYY1PAUhLY82vLus2rNUWVL-4QUYjOavvY4c7dGZNLvquQ.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">🚨
+وضعیت بحرانی اینترنت در ایران؛ رتبه ۹۸ در میان ۱۰۰ کشور جهان!
+📉
+تازه‌ترین گزارش انجمن تجارت الکترونیک تهران از وضعیت اینترنت ایران (زمستان ۱۴۰۴)، تصویر بسیار نگران‌کننده‌ای را نشان می‌دهد. بر اساس این گزارش، اینترنت کشور را می‌توان با سه کلمه «کُند (رتبه ۹۲)»، «پراختلال (رتبه ۹۶)» و «محدود (رتبه ۹۸)» توصیف کرد.
+📊
+آمارهای کلیدی و نگران‌کننده:
+🔹
+سرعت پایین: میانگین پهنای باند در ایران تنها ۵.۴ مگابیت‌برثانیه است، در حالی که میانگین آسیا به ۱۳ مگابیت‌برثانیه می‌رسد.
+🔹
+اختلالات شدید: شاخص تأخیر (Latency) بسیار بالاست و تنها ۳ درصد از وب‌سایت‌های پرکاربرد برای کاربران ایرانی در وضعیت مطلوب و پایدار قرار دارند.
+🔹
+فیلترینگ گسترده: با مسدود بودن ۳۹ درصد از دامنه‌ها، اینترنت ایران از نظر میزان سانسور پس از چین و میانمار در انتهای جدول قرار دارد.
+پ.ن: به نظر میاد این آمار فقط مربوط به سال قبل باشه در صورتی که تو کل سال جدید که 1 ماه ازش میگذره هم اینترنت نداشتیم!
+©️
+زومیت
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 25K</span> · <a href="https://t.me/iaghapour/2517" class="msg-date" target="_blank">19:15 · 19 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/f_FaOp1QKAZ9PT4KuX97WkhkF4ehHwpKpngsUUoDomd_m066uG6Zddg0vQMHqWM0qu3HbJQHfY0Y2FVVdJbrNPrucB8kNXO3S77yph_oFZOQkDQj5pAYKLBjX7tehabtE2nlBDYQhwKvp0bi0HtU9mtFsgSMS_jjVEQKbzltR2KibjmSYbeVBSFbV8JKVMA_brble3xjcN0lZQQ_IQhXcq5YW4dJuaRDaaDSQRv6R_GKBTvt6viIeHJAS2FBxhuNkwtUlTQdkMEyGvdS-HeF7ktOhmOJ7U_YIXZlXHrowCRooo4JDV0CjbWmWCAiOGgWSWsWrm0CO46O0hS5PDOTxw.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/f_FaOp1QKAZ9PT4KuX97WkhkF4ehHwpKpngsUUoDomd_m066uG6Zddg0vQMHqWM0qu3HbJQHfY0Y2FVVdJbrNPrucB8kNXO3S77yph_oFZOQkDQj5pAYKLBjX7tehabtE2nlBDYQhwKvp0bi0HtU9mtFsgSMS_jjVEQKbzltR2KibjmSYbeVBSFbV8JKVMA_brble3xjcN0lZQQ_IQhXcq5YW4dJuaRDaaDSQRv6R_GKBTvt6viIeHJAS2FBxhuNkwtUlTQdkMEyGvdS-HeF7ktOhmOJ7U_YIXZlXHrowCRooo4JDV0CjbWmWCAiOGgWSWsWrm0CO46O0hS5PDOTxw.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">💢
+تعطیلی پلتفرم «کاموا» در سایه جنگ و قطعی اینترنت
+🔹
+پلتفرم فروشگاه‌ساز باسابقه «کاموا» پس از ۸ سال فعالیت، به دلیل بحران‌های سنگین ناشی از دو جنگ و ماه‌ها قطعی کامل اینترنت، از فردا برای همیشه به کار خود پایان می‌دهد.
+🔸
+هادی فرنود، بنیان‌گذار این مجموعه، ضمن اعلام این خبر تلخ اشاره کرد که اگرچه در سالیان گذشته توانسته بودند از سد چالش‌های اقتصادی و قوانین دست‌وپاگیر عبور کنند، اما تحمل بحران‌های اخیر غیرممکن بوده است. او این تصمیم را فراتر از یک اتفاق تجاری دانست و کاموا را بخش مهمی از زندگی خود توصیف کرد.
+🔹
+فرنود به مشتریان اطمینان داده است که تمامی هزینه‌های آن‌ها به صورت کامل مسترد خواهد شد. وی در نهایت تاکید کرد که رسیدن به خط پایان به معنای بی‌ارزش بودن این راه نیست و کاموا یکی از مهم‌ترین تجربه‌های زندگی او باقی خواهد ماند.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 27K</span> · <a href="https://t.me/iaghapour/2518" class="msg-date" target="_blank">20:03 · 19 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">یادتونه یه زمانی می‌گفتیم هوش مصنوعی قراره خیلی از ماها رو بیکار کنه؟
+هیچکس فکرش رو نمی‌کرد یک روز سیاست فیلترینگ و نت ملی و... نزدیک به 10 میلیون آدم رو بیکار کنه!
+بیش از چند ماهه که هزاران کسب و کار نابود شدن و هزاران آرزو مردن! پاسخگو اینها چه کسانی هستن؟ تا کی قراره قطعی اینترنت ادامه داشته باشه؟
+#اینترنت_را_وصل_کنید
+#اینترنت_ملی
+#DigitalBlackOutIran‌
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 23.7K</span> · <a href="https://t.me/iaghapour/2519" class="msg-date" target="_blank">08:00 · 20 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">🚨
+موج حملات در کمین سایت‌های آپدیت‌نشده!
+تو این دو ماه اخیر که اینترنت ملی شده و دسترسی‌ها به شدت محدود بوده، یه خطر امنیتی پنهان اما بسیار بزرگ، خیلی از کسب‌وکارهای آنلاین رو تهدید می‌کنه:
+عقب موندن از آپدیت‌ها!
+فکرش رو بکنید؛ تو این مدت چقدر سایت وردپرسی و پلتفرم‌های مختلف داریم که هسته اصلی، قالب‌ها و افزونه‌هاشون رنگ آپدیت رو ندیدن؟
+⚠️
+خطر اصلی کی خودش رو نشون میده؟
+دقیقاً همون لحظه‌ای که اینترنت دوباره به حالت عادی برگرده و دسترسی‌های بین‌المللی باز بشه. ربات‌های مخرب و هکرها منتظر همین فرصت هستن تا از باگ‌ها و آسیب‌پذیری‌های امنیتی این چند وقت (که پچ و برطرف نشدن) سوءاستفاده کنن. با وصل شدن اینترنت، باید منتظر یه موج گسترده از حملات هکری و بدافزاری به این سایت‌های بی‌دفاع باشیم.
+🛡
+چاره چیه؟ (همین الان دست به کار بشید)
+آپدیت دستی:
+منتظر آپدیت خودکار از پیشخوان نمونید. فایل‌های آپدیت‌شده افزونه‌ها و قالب‌های ضروری رو (از طریق منابع در دسترس یا شبکه‌های داخلی) دانلود کنید و از طریق هاست یا FTP به‌صورت دستی جایگزین کنید.
+بک‌آپ‌گیری فوری:
+همین الان یه فول‌بک‌آپ از دیتابیس و فایل‌های سایتتون بگیرید و تو یه فضای امن خارج از هاست ذخیره کنید.
+محدودسازی دسترسی‌ها:
+موقتاً تنظیمات افزونه‌های امنیتی (مثل Wordfence یا iThemes) رو روی حالت سخت‌گیرانه‌تری قرار بدید.
+🔄
+حتماً این پست رو برای دوستان وب‌مستر، طراحان سایت و صاحبان کسب‌وکار بفرستید تا اونا هم آماده باشن.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 24.3K</span> · <a href="https://t.me/iaghapour/2520" class="msg-date" target="_blank">11:02 · 20 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/LdtYCePUoBqFsVzbgCS5H_NxkIQpGuMHzuybQi008vTs_z6Z_491E48w50wSqO_n01Ej32IZ1pANwrapNpkOyXmShUuTSvwb2iOE10TO_umLKuElEV3Ra8gJWRR6Brxrd4gm3cbKpZ2gaRBz_IXE6Ac3uCHtFbAKKxA9j6JKlcaiTiWgruKM6_aMhFpCPXJS2vAFN_XDbybHCwvXTOfbW3KV8OGvyr7C9PByo0LELyyE4hnUDrR0kN1uC_Ww3tlCYlJk7dAPJZSOJtXSo_DWFYcfQI0rUwnpJw9R_w127uIJSE2cyjYDSIP47fC7jJeS9oC-257V72M2nIpXPn3gDw.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/LdtYCePUoBqFsVzbgCS5H_NxkIQpGuMHzuybQi008vTs_z6Z_491E48w50wSqO_n01Ej32IZ1pANwrapNpkOyXmShUuTSvwb2iOE10TO_umLKuElEV3Ra8gJWRR6Brxrd4gm3cbKpZ2gaRBz_IXE6Ac3uCHtFbAKKxA9j6JKlcaiTiWgruKM6_aMhFpCPXJS2vAFN_XDbybHCwvXTOfbW3KV8OGvyr7C9PByo0LELyyE4hnUDrR0kN1uC_Ww3tlCYlJk7dAPJZSOJtXSo_DWFYcfQI0rUwnpJw9R_w127uIJSE2cyjYDSIP47fC7jJeS9oC-257V72M2nIpXPn3gDw.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">بهترین کانفیگ فروش دنیا
+😊</div><div class="msg-footer"><span class="msg-views">👁 25.8K</span> · <a href="https://t.me/iaghapour/2521" class="msg-date" target="_blank">12:00 · 20 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/XMsoGakz1t5sGLsDLIikDwVbRDCE-dct0fJT-fyPfAxp2XNe7Z9c1pv6eX0l_31ZQLrWuZf0GdSsSfDCk31dvN1kENpyG-0dJZQZ5EA_15OJ5TKKv7OKkyfcP3DGRJeVWzs6lhh0uyuiJ6Coy3Oo5Pa7bENcYGO5ijgJP44FrzTrBSxZjFA7vo6uOGXaxApDnXJNfSA2ef2ZMwh2cvGszRhuiywl8W9wH_pNZFSsAZ41hjyFFttC-iWIoFezjnPbzCtq1exhKmFgghozujKsOdZJGylsV3fK8-Q0tNGUg9wZ1p2OWRigPfRFkATe6NsEnoLxaqq1ohfM3ChOSRLofQ.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/XMsoGakz1t5sGLsDLIikDwVbRDCE-dct0fJT-fyPfAxp2XNe7Z9c1pv6eX0l_31ZQLrWuZf0GdSsSfDCk31dvN1kENpyG-0dJZQZ5EA_15OJ5TKKv7OKkyfcP3DGRJeVWzs6lhh0uyuiJ6Coy3Oo5Pa7bENcYGO5ijgJP44FrzTrBSxZjFA7vo6uOGXaxApDnXJNfSA2ef2ZMwh2cvGszRhuiywl8W9wH_pNZFSsAZ41hjyFFttC-iWIoFezjnPbzCtq1exhKmFgghozujKsOdZJGylsV3fK8-Q0tNGUg9wZ1p2OWRigPfRFkATe6NsEnoLxaqq1ohfM3ChOSRLofQ.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⚠️
+چرا جهان، زندان دیجیتال ایران را نمی‌بیند؟
+بیش از دو ماه است که اینترنت در ایران قطع شده و میلیون‌ها نفر در یک «اینترانتِ» محدود و ایزوله حبس شده‌اند. کسب‌وکارها نابود شده و ارتباطات فلج شده است، اما در کمال تعجب، سازمان‌های مدعی حقوق بشر خود را به خواب زده‌اند.
+🔻
+چرا نهادهای بین‌المللی خفه خون گرفته‌اند؟
+سازمان ملل سال‌ها پیش قطع اینترنت را نقض صریح حقوق بشر اعلام کرد. اما ظاهراً وقتی نوبت به ایران می‌رسد، این قوانین چیزی جز کاغذپاره‌های نمایشی نیستند.
+اگر اینترنت در یک کشور غربی دو ساعت قطع شود، دنیا جلسه اضطراری می‌گذارد! اما ماه‌ها حبس دیجیتال در ایران، ارزش یک واکنش قاطع را برای آن‌ها ندارد.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 24.8K</span> · <a href="https://t.me/iaghapour/2522" class="msg-date" target="_blank">16:15 · 20 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/u1yosg1Shyx2m4rDlaV11CeoSrP8oxqv1UdVyJ8q63uw18ryqUAPLalI55G0Ii5tbaFeOkGdNNu_2KOkj3CU5TURDg9GMYwt3VNCMuhkycnPYTKPSfgzxiWIhusjTKijk-IjjUmoapZkibJkPya4U0x3-ZYH9Epgg-nL3ho3NvOEVoGCrgvSTnLn2omre-5jrnytpD0MmyHDgcgjaAnE6RtaFFsXaic4E3gdX_sUiA2hj-kiA1ugAmvSeKUcErCuXtGgXbwEhPRf7xK7vY63n5YQkFMaebpXhxlMNaO--maIslWEO_JUF5kOuxQERwt2WotEOL0xCA4C-EgcTz4usg.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/u1yosg1Shyx2m4rDlaV11CeoSrP8oxqv1UdVyJ8q63uw18ryqUAPLalI55G0Ii5tbaFeOkGdNNu_2KOkj3CU5TURDg9GMYwt3VNCMuhkycnPYTKPSfgzxiWIhusjTKijk-IjjUmoapZkibJkPya4U0x3-ZYH9Epgg-nL3ho3NvOEVoGCrgvSTnLn2omre-5jrnytpD0MmyHDgcgjaAnE6RtaFFsXaic4E3gdX_sUiA2hj-kiA1ugAmvSeKUcErCuXtGgXbwEhPRf7xK7vY63n5YQkFMaebpXhxlMNaO--maIslWEO_JUF5kOuxQERwt2WotEOL0xCA4C-EgcTz4usg.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">🚨
+استارت اینترنت طبقاتی توسط همراه اول!
+🔹
+همراه اول رسماً از طرح اینترنت طبقاتی خود رونمایی کرد. با افزوده شدن بخش «اشتراک پرو» به منوی این اپراتور، زین‌پس تنها افراد خاصی که فرآیند احراز هویت را طی کرده باشند، امکان دسترسی به این سرویس را خواهند داشت. گفتنی است هزینه بسته ۵۰ گیگابایتی در این اشتراک، ۲ میلیون تومان تعیین شده است.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 27.5K</span> · <a href="https://t.me/iaghapour/2523" class="msg-date" target="_blank">20:57 · 20 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⚠️
+گوگل مجدد فیلتر شد
+البته وقتی سرچ میکردی سایت های توش رو نمیتونستی باز کنی پس خیلی هم فایده نداشت! مثل این میمونه که بچه رو ببری ویترین اسباب بازی رو بهش نشون بدی ولی بگی حق دست زدن نداری...
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 25.3K</span> · <a href="https://t.me/iaghapour/2524" class="msg-date" target="_blank">08:14 · 21 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⚠️
+گیت هاب هم بسته شد
+احتمال موقت بودن یا اختلال هم وجود داره!
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 25.1K</span> · <a href="https://t.me/iaghapour/2525" class="msg-date" target="_blank">08:17 · 21 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">🔻
+گوگل و گیت‌هاب دوباره باز شد!
+بازی موش و گربه شده قشنگ!
+🧐
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 26.4K</span> · <a href="https://t.me/iaghapour/2528" class="msg-date" target="_blank">10:01 · 21 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+رئیس شورای اطلاع رسانی دولت: قطعی اینترنت موقتیه و یکم دندون رو جیگر بزارید تا دشمن رو به یه شکست ذلیلانه بکشونیم بعدش حتما وصل میشه و به شرایط عادی برمیگرده.
+پ.ن: کاملا از ثبت نام اینترنت پرو در رسته ها و شغل های مختلف مشخصه دارید راست میگید.
+👌
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 29K</span> · <a href="https://t.me/iaghapour/2529" class="msg-date" target="_blank">14:23 · 21 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">🔻
+آتش بس تا اطلاع ثانوی تمدید شد.
+🔹
+ولی اینترنت باز نمیشه. چون امنیت به خطر میفته. این که 2 ماهه سیستم خودمون و حتی گوشی رو آپدیت نکردیم و آنتی ویروس خودمون رو آپدیت نکردیم و.. خیلی به امنیت آسیبی نمیزنه. حداقل به امنیت ما آسیبی نمیزنه :|</div><div class="msg-footer"><span class="msg-views">👁 24.2K</span> · <a href="https://t.me/iaghapour/2531" class="msg-date" target="_blank">20:44 · 21 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">✍🏻
+همان‌طور که احتمالاً دیده‌اید، اخیراً آموزش‌ها و اسکریپت‌هایی (مشابه Spoof SNI) برای دور زدن فیلترینگ یوتیوب و برخی سایت‌ها منتشر شده است. البته قبلاً هم شاهد موارد مشابه بوده‌ایم.
+دلیل اینکه ما این روش‌ها را در کانال قرار ندادیم، درخواست بعضی از دوستان بود! درخواستشان چه بود؟
+اینکه روش‌های جدید را «پابلیک» نکنیم
+تا مبادا هزاران نفر از مردم عادی از آن استفاده کنند و روش بسته شود؛ در عوض، فقط یک عده محدود بتوانند با خیال راحت از آن لذت ببرند. واقعاً عجب منطق جالب و «ازخودگذشته‌ای»!
+😇
+ولی خب به هر حال، کانال‌های دیگه این آموزش‌ها را منتشر کردن و میتونید از اون ها استفاده کنید.
+این توضیحات هم بماند برای آن دسته از دوستانی که قدرت تفکر دارند و متوجه ماجرا میشن. :)</div><div class="msg-footer"><span class="msg-views">👁 27.1K</span> · <a href="https://t.me/iaghapour/2532" class="msg-date" target="_blank">20:55 · 21 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">2 تا آموزش عمومی و خوب در پیش داریم.
+👈🏻
+یکی آموزش نصب و اجرا هوش مصنوعی لوکال و بدون اینترنت.
+👈🏻
+و یک آموزش کاربردی و پاسخ به سوالات پر تکرار شما.
+فردا یکی از اینها منتشر میشه.
+💚</div><div class="msg-footer"><span class="msg-views">👁 25K</span> · <a href="https://t.me/iaghapour/2533" class="msg-date" target="_blank">20:56 · 21 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+آپدیت مسنجر سانگبرد منتشر شد
+(
+v0.9.0
+)
+🔹
+با اسکریپت زیر میتونید روی سرور ایران یک مسنجر شخصی برای خودتون و خانواده بسازید.
+-
+📥
+قابلیت آپدیت آفلاین برنامه از اسکریپت
+-
+🔒
+رمزنگاری Client-Server
+-
+📃
+قابلیت Context Menu اختصاصی برنامه
+-
+↪️
+قابلیت فوروارد کردن پیام
+-
+🗑
+قابلیت پاک کردن پیام (یک طرفه و دو طرفه)
+-
+✏️
+قابلیت ادیت پیام
+-
+💬
+قابلیت پاک کردن خودکار پیام های متنی
+-
+📜
+امکان دریافت سرتیفیکیت 6 روزه برای IP در اسکریپت
+-
+♻️
+دستور بازیابی دیتابیس از بکاپ در اسکریپت
+-
+🚫
+دستور بن کردن یوزرها در اسکریپت
+-
+✨
+بهبود UI/UX
+-
+📜
+قابلیت نصب سرتیفیکیت با فایل های کلید SSL
+-
+👤
+دستور ادیت مشخصات یوزر در اسکریپت
+-
+⚙️
+قابلیت تنظیم پورت دلخواه برای nginx در حالت نصب با دامنه
+-
+🔧
+به همراه رفع باگ های متعدد
+اطلاعات بیشتر در گیت‌هاب
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 29K</span> · <a href="https://t.me/iaghapour/2534" class="msg-date" target="_blank">21:01 · 21 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">بچه‌ها حجم پیام‌ها اون‌قدر زیاده که اون عزیزی که به عنوان پشتیبان داره همکاری میکنه با ما واقعاً نمی‌رسه همه رو سریع بخونه یا جواب بده. شرمنده‌ی روی ماهتونیم و بابت این موضوع از همگی عذر می‌خوایم.
+🙏🏻
+🌹</div><div class="msg-footer"><span class="msg-views">👁 28.3K</span> · <a href="https://t.me/iaghapour/2535" class="msg-date" target="_blank">21:07 · 21 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/sHWWsLHwk2NALSG4MnYdNCmDS9vIyyBvQpxZGqzbKdU_8LQsr0E2q_Ad_tZSPUq4q7LQj1p7hw0bYivvYyIpoitctrnp-1rLe2KqiWWKUEqKj2a5V6nQDxVZHJbKSuvr7dcvapjZFd_El_QQhHj12tZidhUtHqW6v3vK_Mtzx6ERL6ktPpqh-fazAqsSqNYx9kSOQoh2oVdqA3hGVJLvnsN9o44ZGPQwvrGo10Isj6XgAERh1jTFXzRKNNNU3xxktdazCI_yZEESWwasrSVOxxDuAXViIMvZD5qGD6act2drBnktT0I-Jj88QEBee3jqu_ASwdEpGWMmTjsyb8GriA.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/sHWWsLHwk2NALSG4MnYdNCmDS9vIyyBvQpxZGqzbKdU_8LQsr0E2q_Ad_tZSPUq4q7LQj1p7hw0bYivvYyIpoitctrnp-1rLe2KqiWWKUEqKj2a5V6nQDxVZHJbKSuvr7dcvapjZFd_El_QQhHj12tZidhUtHqW6v3vK_Mtzx6ERL6ktPpqh-fazAqsSqNYx9kSOQoh2oVdqA3hGVJLvnsN9o44ZGPQwvrGo10Isj6XgAERh1jTFXzRKNNNU3xxktdazCI_yZEESWwasrSVOxxDuAXViIMvZD5qGD6act2drBnktT0I-Jj88QEBee3jqu_ASwdEpGWMmTjsyb8GriA.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+درخواست ملی کردن کامل اینترنت فقط برای طرفداران نت ملی!
+🔹
+هرچی از طنز ماجرا بگم کمه :) یک
+کارزار
+ساختن و گفتن کد ملی طرفدارهای نت ملی رو بگیرید و اینترنت رو برای اونا برای همیشه ملی کنید :)
+داداشایی که سنگ اینترنت ملی رو به سینه می‌زنن، بفرما این گوی و این میدان! لطفاً اینترنت این عزیزان رو روی کد ملی‌شون برای همیشه «ملی» کنید تا دیگه غصه ما رو نخورن. ما خودمون یه جوری با این اینترنتِ پر از فسادِ بین‌المللی کنار میایم!
+🤣
+🔥
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 33.6K</span> · <a href="https://t.me/iaghapour/2537" class="msg-date" target="_blank">21:32 · 21 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/HnHqBtH2ahMIJgrrN3nrF9dlNujnkIg-Iug3vcbshdeR9CAJzGV0cc6I4mFCrFuOzkRfzz5t9347XE4_tpfbeQiGRzEScVPLNfv3xilbHeWTtAz2-5sIorWLX1AOgjGCOJ4tzNI92b8L3oyg5eyObyFwzGFan1vTSbYNcKyLs8ZiKBDzLsA77TjzFBQRF-7DJMamxYI1jLz5P1ncp1oIt6qPRsTzI6V-d_qMHBzkWf_cmg_LpLaxSf2KMPpC7X-EA1LUNH9vD9PmQID8KY-RCxF1fQ3JVtL7FDZofueNeoXNxgSs05o8JhcRJCpKE7c1l6le6vbI-I-f9It7qoun3Q.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/HnHqBtH2ahMIJgrrN3nrF9dlNujnkIg-Iug3vcbshdeR9CAJzGV0cc6I4mFCrFuOzkRfzz5t9347XE4_tpfbeQiGRzEScVPLNfv3xilbHeWTtAz2-5sIorWLX1AOgjGCOJ4tzNI92b8L3oyg5eyObyFwzGFan1vTSbYNcKyLs8ZiKBDzLsA77TjzFBQRF-7DJMamxYI1jLz5P1ncp1oIt6qPRsTzI6V-d_qMHBzkWf_cmg_LpLaxSf2KMPpC7X-EA1LUNH9vD9PmQID8KY-RCxF1fQ3JVtL7FDZofueNeoXNxgSs05o8JhcRJCpKE7c1l6le6vbI-I-f9It7qoun3Q.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⁉️
+جواب به سوالات پرتکرار شما + بهینه ترین روش اتصال با پروتکل DNS
+🔹
+توی این ویدیو به پرتکرارترین سوالات شما درباره ساخت فیلترشکن جواب دادم. در نیمه دوم هم یک روش فوق‌العاده و بهینه برای اتصال با پروتکل DNS رو به صورت قدم‌به‌قدم آموزش دادم تا پایداری بیشتری داشته باشید.
+🔗
+لینک ویدیو در یوتیوب
+🔗
+دانلود ویدیو با لینک مستقیم
+🔻
+دانلود فایل exe اسکریپت
+#آموزش
+#فیلترشکن
+#dns
+برای دور زدن
+فیلترینگ
+و آموزش
+تکنولوژی
+و
+هوش مصنوعی
+ما رو دنبال کنید
+💚
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 34.9K</span> · <a href="https://t.me/iaghapour/2540" class="msg-date" target="_blank">12:55 · 22 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⁉️
+جواب به سوالات پرتکرار شما + بهینه ترین روش اتصال با پروتکل DNS
+🔹
+توی این ویدیو به پرتکرارترین سوالات شما درباره ساخت فیلترشکن جواب دادم. در نیمه دوم هم یک روش فوق‌العاده و بهینه برای اتصال با پروتکل DNS رو به صورت قدم‌به‌قدم آموزش دادم تا پایداری بیشتری…</div><div class="msg-footer"><span class="msg-views">👁 32.8K</span> · <a href="https://t.me/iaghapour/2542" class="msg-date" target="_blank">13:38 · 22 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">✍🏻
+دوستان، اگر برای باز کردن تلگرام و سایت‌های مختلف از روش
+MasterHttpRelayVPN
+استفاده می‌کنید، حتماً حواستون به این 2 تا نکته مهم باشه:
+۱. آی‌پی شما تغییر نمی‌کنه:
+برخلاف فیلترشکن‌های عادی، آی‌پی شما تو این روش همون ایران می‌مونه. در نتیجه سایت‌های تحریمی براتون باز نمیشن و حتی ممکنه سایت‌های حساس اکانتتون رو به خاطر آی‌پی ایران بن کنن.
+۲. جیمیل اصلی‌تون رو استفاده نکنید:
+یه سری گزارش‌ها به دستمون رسیده که گوگل ممکنه اکانت‌ها رو مسدود کنه. با اینکه هنوز مدرک زیادی وجود نداره و قطعی نشده، اما بهتره اصلاً ریسک نکنید و از جیمیل شخصی‌تون استفاده نکنید.
+۳. نسخه اندروید رسید:
+خبر خوب اینه که از امروز می‌تونید نسخه اندروید این روش رو هم نصب و استفاده کنید.
+🔻
+ممکنه مواردی رو من پوشش ندم ولی کانال
+IRCF
+که یکی از قدیمی ترین و بهترین کانال ها هستش میتونه راهنمای شما باشه.</div><div class="msg-footer"><span class="msg-views">👁 37.1K</span> · <a href="https://t.me/iaghapour/2544" class="msg-date" target="_blank">09:39 · 23 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">🚀
+معرفی پیام‌رسان دلتا چت و سرور Madmail
+🔹
+یک پیام‌رسان امن و غیرمتمرکز بر بستر ایمیل که حتی در زمان محدودیت‌های اینترنت هم به کارتان می‌آید! با پروژه Madmail می‌توانید به سادگی و سرعت، سرور اختصاصی خودتان را بالا بیاورید.
+🔻
+ویژگی‌های کلیدی:
+- امنیت به شدت بالا: رمزنگاری پیشرفته و عدم نیاز به شماره موبایل.
+- مقاوم در برابر قطعی‌ها: امکان راه‌اندازی آسان رله‌ها روی سرورهای داخلی.
+- اجرای سرور چت‌میل تنها با یک فایل باینری (حتی روی سرورهای آپدیت‌نشده و بدون اینترنت بین‌الملل).
+- پشتیبانی از تماس صوتی و تصویری.
+🔗
+لینک گیت‌هاب برای بررسی و نصب
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 33.2K</span> · <a href="https://t.me/iaghapour/2545" class="msg-date" target="_blank">09:45 · 23 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⚠️
+یک یادآوری و هشدار خیلی مهم به دوستان عزیز
+دیگه واقعاً حسابش از دستم در رفته که تا حالا چند بار این موضوع رو گفتم، اما باز هم باید تکرار کنم:
+ما اصلاً هیچ گروهی نداریم!
+متأسفانه بعضی‌ها با استفاده از اسم و عکس ما اقدام به ساخت گروه یا کانال می‌کنند. حتی بعضی‌ها خودشون رو به عنوان «پشتیبانی» ما معرفی می‌کنند. من قصد قضاوت در مورد هدف این افراد رو ندارم، اما این کار باعث سردرگمی شما میشه و اصلاً درست نیست.
+لطفاً توجه کنید که فعالیت رسمی ما فقط و فقط در چند آدرس زیر انجام میشه و تمام:
+🔸
+یوتیوب:
+youtube.com/@iAghapour
+🔹
+کانال تلگرام:
+t.me/iaghapour
+🤖
+ربات تماس با ما:
+@iaghapourbot
+🐦
+توییتر:
+(که البته خیلی اونجا فعال نیستم)
+نکته مهم: هر گروه، کانال یا شخصی که خارج از این لیستِ بالا خودش رو مرتبط با ما معرفی کرد، هیچ ارتباطی به ما نداره.
+ممنون از درک و همراهی همیشگی‌تون!
+🌹</div><div class="msg-footer"><span class="msg-views">👁 33.7K</span> · <a href="https://t.me/iaghapour/2547" class="msg-date" target="_blank">12:12 · 23 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/Libtd6tlVLUMX6sKZ5oetDbya6dRMfN5MC6VMa4fTWUHxUfumnKy_IRDprAgEj_yZUbBmvWpp0XfS7mLemhEq8h68_Q3k5Z0aYbEEgMMQr8QAjHYqy0FOHo5CORkGJ9jFi5Nh0REl4RjUim31uwrcd8X0csthKjKgITdEXfPoEY69vWILilhEVVcO07WJ_Cqby2C19nIMw6gk_pP5LkTavzCyKzrJq6oYxGXySE5RbZPQT3DIkwcrI5bSGiRDr6cPka7BTly9FbNZ2uSpVMrJWHtN5DDOf7y35Z2yaJbQppro5LfVd05-zHIDyg-G11ok95RZvU170KZEdeRIITKzA.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/Libtd6tlVLUMX6sKZ5oetDbya6dRMfN5MC6VMa4fTWUHxUfumnKy_IRDprAgEj_yZUbBmvWpp0XfS7mLemhEq8h68_Q3k5Z0aYbEEgMMQr8QAjHYqy0FOHo5CORkGJ9jFi5Nh0REl4RjUim31uwrcd8X0csthKjKgITdEXfPoEY69vWILilhEVVcO07WJ_Cqby2C19nIMw6gk_pP5LkTavzCyKzrJq6oYxGXySE5RbZPQT3DIkwcrI5bSGiRDr6cPka7BTly9FbNZ2uSpVMrJWHtN5DDOf7y35Z2yaJbQppro5LfVd05-zHIDyg-G11ok95RZvU170KZEdeRIITKzA.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⚠️
+روز ۵۶ام از قطع اینترنت در
+#ایران
+هستش و اتصال بین‌المللی بیش از ۱۳۲۰ ساعته که قطع شده و کسی پاسخگو نیست!
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 29.2K</span> · <a href="https://t.me/iaghapour/2550" class="msg-date" target="_blank">07:49 · 24 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">✍🏻
+یه تناقض عجیب بین حرفای مسئولین و واقعیت اینترنت کشور هست. از یه طرف رئیس‌جمهور میگه موافق وصل شدن اینترنته، از اون طرف سخنگوی دولت میگه اصلاً اینترنت طبقاتی نداریم و وزیر ارتباطات هم کلاً وجود لیست سفید رو گردن نمی‌گیره.
+ولی خب تو عمل، داریم یه جور تبعیض و آپارتاید اینترنتی رو به چشم می‌بینیم:
+افراد رانتی:
+اینترنت کاملاً آزاد و بدون فیلتر (همون لیست سفید).
+شهروندای درجه دو:
+یه اینترنتی که بدون فیلترشکن دوزار نمی‌ارزه (همون اینترنت پرو).
+مردم عادی:
+محدودیت کامل و حبس شدن تو شبکه داخلی.
+از همه جالب‌تر مسئولینی هستن که میان میگن این محدودیتا موقتیه. یعنی ۶۰ روز قطعیِ پشت سر هم، معنی «موقت» میده؟ اصلاً می‌دونید موقت یعنی چی؟
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 36.3K</span> · <a href="https://t.me/iaghapour/2551" class="msg-date" target="_blank">16:00 · 24 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+اردستانی؛ نماینده مجلس
+:
+حکومت تصمیم گرفته فعلا روایت خودشو بیان کنه. برای‌همین به خبرنگارها؛ دانشگاهی ها؛ نماینده های مجلس و هنرمندانی که با حکومت همراهن اینترنت داده تا برای خارجی ها تولید محتوا کنن.
+پ.ن: عجب بابا عجب دیگه کار از مخفی کردن و شرمنده بودن و... گذشته. خیلی قشنگ این تبعیض رو فریاد میزنن.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 29.8K</span> · <a href="https://t.me/iaghapour/2552" class="msg-date" target="_blank">14:08 · 25 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/fkTY3_rprzd82HDv8MJ0BJSe_vEPDl4WbZnMQ4pEBi836FJeQUb7IdB_Gxtmu-VDS5FNKJ4AIksGYdNgYcN8WwbmcJFyu0K922WRp1SBUnSHBWQ-znrxjQOmgy99E7aoEZmcIGjNlwVC50QXhQ2kEVqdoaAPFsK4lGvwuOhcO_2ePExWCRmM44ZlxOSaNkqhl82cai41orcR7JebJ6VBH6rtRrHoXMEwuVVTUqj2WE7QYcyP_ZGb8QE3cJ-UkFSLe_QQU5FoR-lhE4YUprspvJDrOMlHPoaOetqusFmgZh79q_E0LHzqpJvJ3CFmfr6zY1DN1Wgz6imnB3Tvlpo4Uw.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/fkTY3_rprzd82HDv8MJ0BJSe_vEPDl4WbZnMQ4pEBi836FJeQUb7IdB_Gxtmu-VDS5FNKJ4AIksGYdNgYcN8WwbmcJFyu0K922WRp1SBUnSHBWQ-znrxjQOmgy99E7aoEZmcIGjNlwVC50QXhQ2kEVqdoaAPFsK4lGvwuOhcO_2ePExWCRmM44ZlxOSaNkqhl82cai41orcR7JebJ6VBH6rtRrHoXMEwuVVTUqj2WE7QYcyP_ZGb8QE3cJ-UkFSLe_QQU5FoR-lhE4YUprspvJDrOMlHPoaOetqusFmgZh79q_E0LHzqpJvJ3CFmfr6zY1DN1Wgz6imnB3Tvlpo4Uw.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+ربات‌های کاربردی تلگرام برای شرایط اینترنت محدود
+با توجه به محدودیت‌های فعلی، این ربات‌ها حکم یک اینترنت آزاد و همه‌کاره را در قلب تلگرام دارند:
+🔹
+@GPT4Telegrambot
+دسترسی به ChatGPT، جمنای و تولید تصویر.
+🔸
+@WebSearchAiBot
+جستجو در گوگل و خواندن محتوای سایت‌های فیلتر شده.
+🔹
+@apkdl_bot
+دانلود مستقیم برنامه‌های گوگل‌پلی (جایگزین استور).
+🔸
+@SaveAsBot
+دانلود ویدیو و عکس از یوتیوب، اینستاگرام و توییتر.
+🔹
+@reddit_download_bot
+دانلود محتوای متنی و تصویری از سایت ردیت.
+🔸
+@UrlUploadBot
+تبدیل لینک دانلود سایت‌ها به فایل مستقیم تلگرامی.
+🔹
+@ReadabBot
+تبدیل مقالات وب به حالت مطالعه سریع در خود تلگرام.
+🔸
+@vtovbot
+تبدیل فایل‌های صوتی پرحجم به ویس باکیفیت و کم‌حجم.
+🔹
+@voicybot
+تبدیل ویس به متن با پشتیبانی از زبان فارسی.
+🔸
+@fakemailbot
+ساخت ایمیل موقت برای زمان‌هایی که جیمیل در دسترس نیست.
+🔹
+@newfileconverterbot
+تغییر فرمت انواع فایل‌ها مثل عکس، ویدیو و داکیومنت.
+©️
+با تشکر از ایوب عزیز.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 38.9K</span> · <a href="https://t.me/iaghapour/2553" class="msg-date" target="_blank">17:11 · 25 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+سازمان نظام پرستاری:
+با وجود اینکه امکان برقراری اینترنت پرو برای اعضای خود را داریم، تا زمانی که همه مردم ایران به اینترنت متصل نشوند از این امکان استفاده نخواهیم کرد.
+🔴
+در اطلاعیه کامل سازمان نظام پرستاری:
+«بسمه تعالی
+سازمان نظام پرستاری جمهوری اسلامی ایران به اطلاع کلیه پرستاران و مردم عزیز ایران می‌رساند؛ با توجه به محدودیت‌های ایجادشده در دسترسی به اینترنت بین‌الملل به‌دلیل شرایط خاص جنگی کشور و ارائه دسترسی محدود (اینترنت پرو) به برخی اقشار، امکان اعطای این امتیاز به اعضای سازمان نظام پرستاری نیز از سوی مقامات مسئول اعلام شد، لکن سازمان نظام پرستاری جمهوری اسلامی ایران براساس بررسی جوانب مختلف تا زمان رفع محدودیت‌های دسترسی عموم مردم به اینترنت بین‌الملل، درخواست هیچ امتیاز ویژه‌ای را برای اعضای خود نخواهد داشت.
+ان‌شالله زمانی که این امکان برای همه مردم ایران فراهم باشد، پرستاران نیز در کنار آحاد مردم از این امکان استفاده خواهند نمود.»
+﻿
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 31.1K</span> · <a href="https://t.me/iaghapour/2555" class="msg-date" target="_blank">09:50 · 26 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/Y2_zqY1ZtHqJMffBLozT42seuRNazmDjYusmkh2rvTqh5ZH5SXZ_ZfFrNhERUx2aB41k8UCa7GPlZ_ZlJU7sCyKIOwMawG7l673j-N0E4t6H4movYJn8xSQl3PSpJCByUpc02ugGYW4B3_EXl7aDfz1V_9KfoVblUou-4WSXMFliy1bdePWOCyJzmrN77aYbf8u_fFcnqigbyNKOlbiOsBwwEGWPBzOMmINdd8TPyRintNFeTuQOx3q38SxEaSiXyD45HKibe6-M1HkC6jp2U8K4KDTIkjLWENyfXgHIYv5ilhoFCqogBDp96i0dhPp8Pz8sqkYQBJ3d5Uw755-PBw.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/Y2_zqY1ZtHqJMffBLozT42seuRNazmDjYusmkh2rvTqh5ZH5SXZ_ZfFrNhERUx2aB41k8UCa7GPlZ_ZlJU7sCyKIOwMawG7l673j-N0E4t6H4movYJn8xSQl3PSpJCByUpc02ugGYW4B3_EXl7aDfz1V_9KfoVblUou-4WSXMFliy1bdePWOCyJzmrN77aYbf8u_fFcnqigbyNKOlbiOsBwwEGWPBzOMmINdd8TPyRintNFeTuQOx3q38SxEaSiXyD45HKibe6-M1HkC6jp2U8K4KDTIkjLWENyfXgHIYv5ilhoFCqogBDp96i0dhPp8Pz8sqkYQBJ3d5Uw755-PBw.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">🌐
+لینک همه سایت‌های کاربردی تو این سایته!
+🔹
+از اونجایی که پیدا کردن لینک سایت‌های کاربردی در دسته‌بندی‌های مختلف مثل آپلودسنترها، سایت‌های دانلود فیلم و سریال، ابزارهای آنلاین و... خیلی سخت و زمان‌بر شده، سایت WebDX اومده همه این‌ها رو به صورت منظم و دسته‌بندی شده یک جا جمع‌آوری کرده.
+🔗
+لینک ورود به سایت
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 28K</span> · <a href="https://t.me/iaghapour/2556" class="msg-date" target="_blank">18:10 · 26 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/GyoCDTTJRijbKOV0VbM2iwg1C7ueqwjNCgS22eqmxKlPndSWfldJr2Zm49UkbMNm7134xNRtUo1F_n8LByGxCQC2LgqRXGV0iAZzaRygei6LTxZOf3WwhH3p-o8IOFgzdSmE9OWKmHvWL5NBnsBSzQGkuifbF_I5F3O8QRABV44jC93sQgE7w5lyjoudrJTrLEA2FW5PbNt60K9sqOvtMY1uQL65dllDJPZgNbo3q0JtAZmx5q8qdAp2Bts9Pot5cjwMUCzGPmy3wLBP3c0SjddjT5p7PE2wzuTZXZRpCKhXSz2qhrDh9-DMaWix0e4DuX1YGpWbbHOeVQLdoVul-g.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/GyoCDTTJRijbKOV0VbM2iwg1C7ueqwjNCgS22eqmxKlPndSWfldJr2Zm49UkbMNm7134xNRtUo1F_n8LByGxCQC2LgqRXGV0iAZzaRygei6LTxZOf3WwhH3p-o8IOFgzdSmE9OWKmHvWL5NBnsBSzQGkuifbF_I5F3O8QRABV44jC93sQgE7w5lyjoudrJTrLEA2FW5PbNt60K9sqOvtMY1uQL65dllDJPZgNbo3q0JtAZmx5q8qdAp2Bts9Pot5cjwMUCzGPmy3wLBP3c0SjddjT5p7PE2wzuTZXZRpCKhXSz2qhrDh9-DMaWix0e4DuX1YGpWbbHOeVQLdoVul-g.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+نصب‌کننده خودکار Parley Chat
+🔻
+از اونجایی که راه‌اندازی و کانفیگ کامل یک پلتفرم چت روی سرور (با تمام دردسرهای تنظیم دیتابیس، وب‌سرور و گواهینامه امنیتی) کار سخت و زمان‌بریه، این ابزار جذاب اومده تا همه چیز رو براتون ساده کنه!
+🔸
+راه‌اندازی کامل بکند (Backend) و فرانت‌اند (Frontend)
+🔹
+کانفیگ خودکار Nginx به همراه دریافت گواهینامه SSL
+🔸
+ایجاد سرویس‌های Systemd برای مدیریت آسان‌تر و پایداری سرویس
+🔗
+لینک گیت‌هاب پروژه
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 34.2K</span> · <a href="https://t.me/iaghapour/2557" class="msg-date" target="_blank">18:18 · 26 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/Iw0oJlWwe0S0NcI9bHITBd5SUQQF2xes9W1NjrXDiVBx2HgCFnLmhkguDBLeRQGAI8JZ6pq-HcCWWYluB4YuvcyS0tMvkQpe1JniJOmb8OPttp0VHfc7WeaTs5pIbef52vMFrqTEKLNxB7Tjh53TIWkWpfXLtE_WxZAI8nj-g9l0eOSU7N57l-EjZ-Cn0_lemnLOzn1KOCO3zml-ZB7ZgnI49zDOK7ftVU7wypnlAymCAA8NlIXd2WtkOMswjt-M9vJUjlHpaIH6TXsbD1fPkk1gdZGHcZTJp0G9Tx8cXHVF57IxrByIsD5TvtUebQRpT1ykIppbENxiOrd2PEUD9Q.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/Iw0oJlWwe0S0NcI9bHITBd5SUQQF2xes9W1NjrXDiVBx2HgCFnLmhkguDBLeRQGAI8JZ6pq-HcCWWYluB4YuvcyS0tMvkQpe1JniJOmb8OPttp0VHfc7WeaTs5pIbef52vMFrqTEKLNxB7Tjh53TIWkWpfXLtE_WxZAI8nj-g9l0eOSU7N57l-EjZ-Cn0_lemnLOzn1KOCO3zml-ZB7ZgnI49zDOK7ftVU7wypnlAymCAA8NlIXd2WtkOMswjt-M9vJUjlHpaIH6TXsbD1fPkk1gdZGHcZTJp0G9Tx8cXHVF57IxrByIsD5TvtUebQRpT1ykIppbENxiOrd2PEUD9Q.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">قیمت هارد ۱۰ ترابایت بنفش (Western Digital Purple) ناقابل 108 میلیون
+🫠
+همینطوری ادامه داشته باشه برای خرید یک گوشی دکمه ای هم باید همین مقدار پول بدیم....
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 34.2K</span> · <a href="https://t.me/iaghapour/2558" class="msg-date" target="_blank">06:04 · 27 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">اسکریپت KevinNet DNS با پشتیبانی از VayDNS آپدیت شد
+حدودا 1 هفته پیش یک آموزش ضبط شده به اسم
+(بهینه ترین روش اتصال با پروتکل DNS)
+و توی این ویدیو ما اومدیم اسکریپت
+KevinNet
+رو معرفی کردیم. و الان در آپدیت جدید میتونه از VayDns هم ساپورت کنه.
+🔹
+اضافه شدن قابلیت تغییر مقادیر در برنامه
+🔸
+قابلیت تست ریزالور حتی در vaydns
+🔹
+قابلیت ایجاد پروفایل متعدد برای دامنه
+. قابلیت های دیگه ...
+🔗
+اطلاعات بیشتر در گیت‌هاب پروژه
+برای دور زدن
+فیلترینگ
+و آموزش
+تکنولوژی
+و
+هوش مصنوعی
+ما رو دنبال کنید
+💚
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 34.5K</span> · <a href="https://t.me/iaghapour/2559" class="msg-date" target="_blank">15:52 · 27 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">✍🏻
+از اونجایی که دیگه کسی حوصله خوندن خبر رو نداره براتون عناوین خبر رو قرار دادم :)
+🔸
+دو ماه قطعی اینترنت؛ تعدیل ۳۰ تا ۵۰ درصدی نیروی انسانی در شرکت‌های اینترنت اشیا
+🔹
+ثبت ۳۱۸ هزار درخواست کار در یک روز در جاب‌ویژن
+🔸
+کانون وکلای اصفهان هم اینترنت «پرو» را نپذیرفت
+🔹
+ارسال پیامک اینترنت «پرو» این بار برای مهندسان
+🔸
+خزنده‌های گوگل پس از ۶۰ روز قطعی، دوباره سایت‌های ایرانی را می‌بینند
+🔹
+ضربه سنگین قطعی اینترنت به اشتغال زنان
+🔸
+دبیر سابق شورای‌ عالی فضای مجازی: اینترنت بین‌الملل می‌تواند ظرف ۵ دقیقه وصل شود.
+🔹
+سخنگوی دولت: با پایان بحران وضعیت اینترنت تغییر خواهد کرد
+منبع: زومیت - دیجیاتو
+برای دور زدن
+فیلترینگ
+و آموزش
+تکنولوژی
+و
+هوش مصنوعی
+ما رو دنبال کنید
+💚
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 38.3K</span> · <a href="https://t.me/iaghapour/2562" class="msg-date" target="_blank">08:24 · 28 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/C9rs07HY7FBnEjxHCrwiy1KTZEfTcUEg4BtXSp2cGkRD2ePzEnmW72aeDJxualgDz0WuIwHP8T1y-g-wWRbGLIwuAW4LSrZ2v0-yKSqVNoZxlORVo3cqOHFEwIcU_SEfs5olt8mEcqvKj-6VZo7E2VYM24WEt6vJx8-W7HZiHKecm7Z44O7Ci0HHik1087TpeKesaBbXTSm6TmxbnS_30abiDdnPKFxpM5xn2EnJRKLRzAlAf4id9oIx777PsRNucXuqEa-F41qfru6cf8F9tbhwb9dO7sATXJhRrcRu_tlEn-0HN38RFo6FWtNz3Q5dvQiqwXt9y3_-YSqVLmT7Jg.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/C9rs07HY7FBnEjxHCrwiy1KTZEfTcUEg4BtXSp2cGkRD2ePzEnmW72aeDJxualgDz0WuIwHP8T1y-g-wWRbGLIwuAW4LSrZ2v0-yKSqVNoZxlORVo3cqOHFEwIcU_SEfs5olt8mEcqvKj-6VZo7E2VYM24WEt6vJx8-W7HZiHKecm7Z44O7Ci0HHik1087TpeKesaBbXTSm6TmxbnS_30abiDdnPKFxpM5xn2EnJRKLRzAlAf4id9oIx777PsRNucXuqEa-F41qfru6cf8F9tbhwb9dO7sATXJhRrcRu_tlEn-0HN38RFo6FWtNz3Q5dvQiqwXt9y3_-YSqVLmT7Jg.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+ساخت فیلترشکن شخصی و تانلینگ امن با سرویس‌های ابری! (GooseRelayVPN)
+🔹
+در این آموزش، یک روش عالی به نام GooseRelayVPN رو بهتون معرفی می‌کنم. با استفاده از اسکریپت‌های ابری (Apps Script) به عنوان واسطه و اتصال اون به سرور لینوکسی خودمون، یک تانل امن میسازیم.
+🔗
+لینک ویدیو در یوتیوب
+🔗
+دانلود ویدیو با لینک مستقیم
+🔻
+دانلود فایل کدها
+#آموزش
+#فیلترشکن
+#گوگل
+#تانل
+برای دور زدن
+فیلترینگ
+و آموزش
+تکنولوژی
+و
+هوش مصنوعی
+ما رو دنبال کنید
+💚
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 48.6K</span> · <a href="https://t.me/iaghapour/2563" class="msg-date" target="_blank">10:48 · 28 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-doc">
+                <div class="doc-icon">📄</div>
+                <div class="doc-info">
+                    <div class="doc-title">GooseRelayVPN Guid -- @iAghapour.txt</div>
+                    <div class="doc-extra">1.2 KB</div>
+                </div>
+                <a href="#" class="doc-dl" download>⬇</a>
+            </div>
+            <div class="msg-text">🟢
+دستورات
+برای ویدیو
+GooseRelayVPN
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 47.4K</span> · <a href="https://t.me/iaghapour/2564" class="msg-date" target="_blank">10:51 · 28 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">حالا نیاز نیست پول بدین ری اکشن فیک بزنید.
+😁</div><div class="msg-footer"><span class="msg-views">👁 42.4K</span> · <a href="https://t.me/iaghapour/2565" class="msg-date" target="_blank">17:22 · 28 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">‼️
+دلار 177 و طلا 19,400,000
+شب میخوابی صبح بلند میشی یه پله بدبخت تر میشی!</div><div class="msg-footer"><span class="msg-views">👁 38.5K</span> · <a href="https://t.me/iaghapour/2566" class="msg-date" target="_blank">07:40 · 29 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">ای بابا روش Vercel چرا بسته شد؟ هنوز آموزش نداده بودم که.
+😁
+سازمان فیلترینگ زرنگ شده ها. فک کنم خودشون رو آپدیت کردن دیگه به کانال من نگاه نمیکنن :)</div><div class="msg-footer"><span class="msg-views">👁 36K</span> · <a href="https://t.me/iaghapour/2567" class="msg-date" target="_blank">13:04 · 29 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⚠️
+هشدار مهم درباره اسکریپت VPN Over GitHub
+▪️
+لطفاً از این ابزار به عنوان
+فیلترشکن
+استفاده نکنید!
+🚫
+بن شدن اکانت:
+تبدیل گیت‌هاب به تونل ترافیک، خلاف قوانین این سایت است و خیلی زود باعث مسدود شدن حساب شما می‌شود.
+🐢
+سرعت بسیار پایین:
+برای هر ارتباط به یک بار
+push
+و
+pull
+نیاز دارد که آن را عملاً غیرقابل استفاده می‌کند.
+🔻
+خطر برای برنامه‌نویس‌ها:
+گیت‌هاب یک سایت حیاتی برای توسعه‌دهندگان است؛ سوءاستفاده از آن ممکن است باعث حساسیت شده و دسترسی به این پلتفرم مهم را دوباره از کار بیندازد. (خارج شدن از لیست سفید و...)
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 36.3K</span> · <a href="https://t.me/iaghapour/2569" class="msg-date" target="_blank">15:51 · 29 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">✍🏻
+دوستان، همان‌طور که خودتون در جریان هستید، من در این چند ماه حتی یک مورد
+تبلیغ فیلترشکن، اوتباند
+و موارد مشابه
+قرار ندادم.
+الان هم واقعاً تمایلی به این کار ندارم، چون شرایط اصلاً به‌گونه‌ای نیست که بشه کسی را معرفی کرد.
+با این حال، در همین چند ماه پیام‌های بسیار زیادی داشتیم که درخواست می‌کردند حتماً یک شخص معتبر را معرفی کنیم؛ چرا که خیلی‌ها از کلاهبرداری‌های پیاپی خسته شدن و ارسال این دست پیام‌ها تا به همین امروز هم ادامه داره.
+به همین دلیل، اگه خودتون موافق باشید،
+افرادی رو که
+از قبل با ما همکاری می‌کردند
+و تا حدودی قابل‌اطمینان هستند، یکی‌یکی به شما معرفی کنیم. در این مورد ذکر چند نکته ضروری هستش:
+🔸
+عدم تضمین صددرصدی:
+ناگفته نماند ما واقعاً نمیتونیم کسی را با اطمینان ۱۰۰ درصدی تأیید کنیم، اما افرادی که معرفی میشن همگی سابقه همکاری با ما را دارن.
+🔹
+عدم پذیرش تبلیغ جدید و اوتباند:
+تا زمانی که شرایط استیبل و پایدار نشود، تبلیغ
+هیچ فرد جدیدی را قبول نمی‌کنیم.
+در ضمن،
+تبلیغ فروش اوتباند هم به‌هیچ‌وجه پذیرفته نمی‌شود.
+🔸
+قیمت‌های منصفانه:
+تمام سعی ما بر اینه افرادی را معرفی کنیم که در این زمینه منصف باشند و قیمت‌های بالایی ارائه ندهند. ولی خب، طبیعتاً نمیشه انتظار قیمت‌های قدیمی را داشت؛ چون همان‌طور که خودتون میدونید در حال حاضر هیچ‌کس با اون قیمت‌های قبلی فروشی نداره.
+اگه تمایل دارید، لطفاً در نظرسنجی زیر شرکت کنید.
+البته نظر شخصی خودم اینه که اگه در حال حاضر واقعاً مشکل خاصی ندارید، در نظرسنجی همان گزینه
+(خیر) را انتخاب کنید
+.</div><div class="msg-footer"><span class="msg-views">👁 37.5K</span> · <a href="https://t.me/iaghapour/2570" class="msg-date" target="_blank">20:54 · 29 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-poll">
+                <div class="poll-question">📊 ⁉️نظرسنجی درباره سوال بالا (اگه واقعا نیاز دارید بله رو بزنید).</div>
+                <ul class="poll-opts"><li class="poll-opt">بله معرفی بشه.</li><li class="poll-opt">خیر نیازی نیست.</li></ul>
+            </div>
+            <div class="msg-footer"><span class="msg-views">👁 37.3K</span> · <a href="https://t.me/iaghapour/2571" class="msg-date" target="_blank">20:55 · 29 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">💢
+رئیس اتحادیه کسب‌وکارهای مجازی
+:
+به شرکت‌ها زنگ می‌زنند و پیشنهاد فروش اینترنت بدون فیلتر(پرو) برای کارمندانشان را می‌دهند.
+⁉️
+اگر موضوع واقعاً امنیت ملی است، چطور با پرداخت پول، امنیت تأمین می‌شود؟!
+منبع: کانال خبری
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 35.2K</span> · <a href="https://t.me/iaghapour/2572" class="msg-date" target="_blank">09:53 · 30 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/OHEvGydNFd0gT9KfGeOeEx9RUb5SkUzwaevYtkG9Bw3zlwhL1_poZ4Air0oZt0Z5wOwMlId_jhKpkgbOFm19n3KtjRnWaf0qWO2K6VBv5YJdSglr17Ny8puMiHzb3XK6ekiit06IMHw4iy7OAmr3k6n3rKEaKtEy0lBzS_bsJNkYogN6Fucxt9ka3sSkVKJJOxSsVnktyhaG478Wqk7pPEHdJso87sM1hMaaMlfH2YD7hUUbsi1BDZQy-DEjM4H7ws3E6JnJp_lduevsgO1VKqi0sDuHTiG4lNBEX34_hfrH1P6z5JFWeaZhNRHpehiSiLMD417ehxK8b4ve68iWsw.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/OHEvGydNFd0gT9KfGeOeEx9RUb5SkUzwaevYtkG9Bw3zlwhL1_poZ4Air0oZt0Z5wOwMlId_jhKpkgbOFm19n3KtjRnWaf0qWO2K6VBv5YJdSglr17Ny8puMiHzb3XK6ekiit06IMHw4iy7OAmr3k6n3rKEaKtEy0lBzS_bsJNkYogN6Fucxt9ka3sSkVKJJOxSsVnktyhaG478Wqk7pPEHdJso87sM1hMaaMlfH2YD7hUUbsi1BDZQy-DEjM4H7ws3E6JnJp_lduevsgO1VKqi0sDuHTiG4lNBEX34_hfrH1P6z5JFWeaZhNRHpehiSiLMD417ehxK8b4ve68iWsw.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+کلاینت اندروید GooseRelayVPN
+🔹
+کلاینت اندروید GooseRelayVPN که هسته GooseRelay را از طریق Go mobile اجرا می‌کند و رابط کاربری کامل برای مدیریت VPN، پروفایل‌ها، لاگ‌ها و تنظیمات ارائه می‌دهد. این اپ یک SOCKS5 محلی روی اندروید ایجاد می‌کند و ترافیک TCP را از معماری GooseRelay عبور می‌دهد.
+🔹
+پیکربندی مبتنی بر پروفایل
+🔸
+وضعیت و تله‌متری در صفحه Home
+🔹
+تب Logs برای عیب‌یابی Android/Core
+🔸
+قابلیت Split Tunneling و Internet Sharing
+🔗
+آدرس گیت‌هاب پروژه
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 40.4K</span> · <a href="https://t.me/iaghapour/2573" class="msg-date" target="_blank">16:36 · 30 Apr 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/Fzz874jSrJyzPK22YXT1CmpAE9gl30Uj08LkpS3i0JcvqFokkcwzxkVVQR1xbTVPXHT0sIacLxWy0yrNZCw7RDsMpEtnNRb1vjE9Pmq1OieWqBKMWAU0SqJjZTG3aKcBUNsDhXVMX4TptqEcEVVIs1Mo5POyksEMYDsC7ImXA8IAo-akMlvySIUurwOpzjWiFt05qMzSHRT3tXJFGD9M9idbtQcGrcqE4-hMmJMY_BRmyJqfdEkugucsVsJ4M-ZjZzUxZC4o8VZxKsPnB-bxjrjNqA4-xDaSyYpTXe-MJvDDV5yvBYUBwbRaMt4wG7yOAd86EXrQs_FHNOKxWOp0Bw.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/Fzz874jSrJyzPK22YXT1CmpAE9gl30Uj08LkpS3i0JcvqFokkcwzxkVVQR1xbTVPXHT0sIacLxWy0yrNZCw7RDsMpEtnNRb1vjE9Pmq1OieWqBKMWAU0SqJjZTG3aKcBUNsDhXVMX4TptqEcEVVIs1Mo5POyksEMYDsC7ImXA8IAo-akMlvySIUurwOpzjWiFt05qMzSHRT3tXJFGD9M9idbtQcGrcqE4-hMmJMY_BRmyJqfdEkugucsVsJ4M-ZjZzUxZC4o8VZxKsPnB-bxjrjNqA4-xDaSyYpTXe-MJvDDV5yvBYUBwbRaMt4wG7yOAd86EXrQs_FHNOKxWOp0Bw.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+پشت‌پرده‌ی «اینترنت پرو»؛ امتیاز ویژه یا تله‌ی نظارتی؟
+این روزها سیم‌کارت‌های بدون فیلتر با نام «اینترنت پرو» در ازای دریافت هزینه و ثبت کامل مشخصات هویتی به فروش می‌رسند. اما هدف اصلی این طرح، دلسوزی برای نیاز اینترنتی اقشار مختلف نیست.
+هدف اصلی و پنهان این ماجرا، چیزی جز «تشخیص هویت دقیق و رصد لحظه‌ایِ کاربر» نیست.
+👁‍🗨
+وقتی اینترنت آزاد را مستقیماً با نام و کد ملی خودتان دریافت می‌کنید دقیقاً چه اتفاقی می‌افتد؟
+🔹
+پایان گمنامی:
+تمام سایت‌هایی که سر می‌زنید و محتوایی که می‌بینید، مستقیماً و شفاف روی نام خودتان ثبت و مانیتور می‌شود.
+🔸
+تزریق خودسانسوری:
+وقتی می‌دانید هر کلیک شما رصد می‌شود، ناخودآگاه وارد یک «زندان شیشه‌ای» می‌شوید که خودتان هزینه‌اش را داده‌اید!
+🔹
+تجارت با حقوق اولیه:
+حق بدیهی دسترسی به اینترنت آزاد را مسدود کرده‌اند و حالا همان را به قیمت نقض حریم خصوصی، به عنوان یک «آپشن ویژه» به خودمان می‌فروشند.
+«اینترنت پرو» یک امکان رفاهی نیست؛ ابزاری برای کنترل نقطه‌ای و عادی‌سازیِ اینترنت طبقاتی است. بهای اصلی این سیم‌کارت‌ها پول نیست؛ حریم خصوصی ماست.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 45.5K</span> · <a href="https://t.me/iaghapour/2575" class="msg-date" target="_blank">12:00 · 01 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/ODjnisDGze2tH8c4G3lQ55qvkIBTWdU4WvcXjS6RiTdiHAi3TGBaErIMHWFn_ygwh2LBGYSLixYH3jCA6D3idXj6fawv7sh3BOp9Ip1X4VdYHEA039DiIOXL8G8Mh1WQkOaF4KmUv7SxtGq5Lx7VwJWZX6r1mjSUVB6PjMDJqiM2gXXmHuh205FRsaSrTmFaB5SzgMU2wejHI2uUjzorTCZpe50djQhUU4C5KIhmTo4NPIbWuEJlke3vA39FAQcuiqXN-8dWwawiocFht7TOUhUVCg-YZOu8a3AALV6VDgp6Imzq3N-7PZvs_afrWT0aHnT7EUminfLqNKkUibITFA.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/ODjnisDGze2tH8c4G3lQ55qvkIBTWdU4WvcXjS6RiTdiHAi3TGBaErIMHWFn_ygwh2LBGYSLixYH3jCA6D3idXj6fawv7sh3BOp9Ip1X4VdYHEA039DiIOXL8G8Mh1WQkOaF4KmUv7SxtGq5Lx7VwJWZX6r1mjSUVB6PjMDJqiM2gXXmHuh205FRsaSrTmFaB5SzgMU2wejHI2uUjzorTCZpe50djQhUU4C5KIhmTo4NPIbWuEJlke3vA39FAQcuiqXN-8dWwawiocFht7TOUhUVCg-YZOu8a3AALV6VDgp6Imzq3N-7PZvs_afrWT0aHnT7EUminfLqNKkUibITFA.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+آموزش ساخت فیلترشکن رایگان و شخصی به 2 روش با نت ملی
+🔹
+با استفاده از دو ابزار قدرتمند MHRV و Nova-Proxy، دیگه نیازی به خرید کانفیگ‌ها و سرورهای گرون‌قیمت ندارید. تو این آموزش قدم‌به‌قدم به ۲ روش مختلف پیش میریم تا بتونید یه اتصال پایدار و بدون قطعی داشته باشید. حتماً تا آخر ویدیو همراه من باشید.
+🔗
+لینک ویدیو در یوتیوب
+🔗
+دانلود ویدیو با لینک مستقیم
+🔹
+دانلود کلاینت ویندوز
+🔸
+دانلود کلاینت اندروید
+#آموزش
+#فیلترشکن
+#mhrv
+#novaproxy
+#رایگان
+برای دور زدن
+فیلترینگ
+و آموزش
+تکنولوژی
+و
+هوش مصنوعی
+ما رو دنبال کنید
+💚
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 45.5K</span> · <a href="https://t.me/iaghapour/2576" class="msg-date" target="_blank">16:23 · 02 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+ورژن جدید کلاینت اندروید GooseRelayVPN منتشر شد
+کلاینت اندروید GooseRelayVPN که هسته GooseRelay را از طریق Go mobile اجرا می‌کند و رابط کاربری کامل برای مدیریت VPN، پروفایل‌ها، لاگ‌ها و تنظیمات ارائه می‌دهد. این اپ یک SOCKS5 محلی روی اندروید ایجاد می‌کند و ترافیک TCP را از معماری GooseRelay عبور می‌دهد.
+🔹
+هسته پروژه به ورژن 1.5.0 آپدیت شد.
+🔸
+قابلیت fake dns اضافه شد.
+🔹
+باگ ها در این نسخه برطرف شدن.
+🔗
+آدرس گیت‌هاب پروژه
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 34.7K</span> · <a href="https://t.me/iaghapour/2577" class="msg-date" target="_blank">10:35 · 03 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+اسکریپت بهینه شده XHTTP Relay ECO برای Vercel Pro
+🔹
+نسخه ECO طوری تیون شده که علاوه بر امنیت سفت‌وسخت v1.3، کم‌هزینه‌ترین رفتار ممکن روی Vercel Pro رو داشته باشه؛ یعنی با کنترل هوشمند Timeout، Inflight، Throttle و Logها، مصرف منابع و هزینه نهایی تا جای ممکن پایین نگه داشته میشه.
+🔸
+فقط با GET، HEAD و POST کار می‌کنه تا امنیت بالاتر بره.
+🔹
+احراز هویت فقط از طریق هدر x-relay-key انجام میشه
+🔸
+هدرهای اضافی پلتفرم و hop-by-hop رو بی‌رحمانه فیلتر می‌کنیم.
+🔹
+روی آپلود و دانلود محدودیت سرعت (Throttling) واقعی گذاشتیم.
+🔸
+بردیمش روی Node runtime با لیمیت ۱۲۸ مگابایت رم و مدیریت کانکشن‌های همزمان.
+🔗
+اطلاعات بیشتر در گیت‌هاب پروژه
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 35.9K</span> · <a href="https://t.me/iaghapour/2578" class="msg-date" target="_blank">18:58 · 03 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">ركورد جديد سرعت اينترنت ژاپن:
+با سرعت 1.02 پتابيت بر ثانيه، كل نتفليكس را در 1 ثانيه دانلود مى‌كند.
+✍
+ما هم اینجا باید با DNStt وصل بشیم تا بزور بتونیم فقط این خبر رو بخونیم...
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 35.6K</span> · <a href="https://t.me/iaghapour/2579" class="msg-date" target="_blank">10:26 · 04 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+حل مشکل دانلود از ریلیز گیت‌هاب با LatestReleaseMirror
+اگر در دانلود فایل‌ها از بخش ریلیزهای (Releases) گیت‌هاب به دلیل محدودیت‌های اینترنت مشکل دارید، این اسکریپت کاربردی دقیقاً برای شما ساخته شده است!
+ابزار
+LatestReleaseMirror
+به صورت خودکار فایل‌های آخرین آپدیتِ ریپازیتوری‌های دلخواه شما را دریافت کرده و آن‌ها را به عنوان فایل‌های عادی در ساختار پوشه‌های گیت‌هاب ذخیره می‌کند؛ در نتیجه می‌توانید آن‌ها را به راحتی و حتی با اینترنت داخلی دانلود کنید.
+🔹
+دریافت و آپدیت خودکار آخرین نسخه با استفاده از GitHub Actions.
+🔸
+امکان فیلتر کردن فایل‌های مورد نیاز (مثلاً فقط نسخه‌های ویندوز یا اندروید)
+🔹
+دسته‌بندی تمیز فایل‌های خروجی در مسیرهای مشخص.
+🔗
+لینک ریپازیتوری و راهنمای استفاده
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 37K</span> · <a href="https://t.me/iaghapour/2580" class="msg-date" target="_blank">12:39 · 04 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">اسم این زندگــــــی نبود
+یک مبارزه تمام عیار بود...
+#جوانی
+#زندگی
+#جنگ
+#اینترنت</div><div class="msg-footer"><span class="msg-views">👁 32.9K</span> · <a href="https://t.me/iaghapour/2581" class="msg-date" target="_blank">15:39 · 04 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+مرگ خاموش اقتصاد خرد: نابودی ۴۰ درصد از کسب‌وکارهای اینستاگرامی!
+قطعی‌ها و محدودیت‌های اینترنتی فقط حق دسترسی آزاد ما به شبکه‌های اجتماعی را سلب نکرده، بلکه تیشه به ریشه‌ی اقتصاد خرد و معیشت مردم زده است. طبق اعلام پشوتن پورپزشک، عضو هیئت‌مدیره اتحادیه کسب‌وکارهای مجازی، فیلترینگ و اختلالات باعث نابودی بخش عظیمی از مشاغل آنلاین شده است.
+🔹
+فاجعه‌ی آماری: نزدیک به ۴۰ درصد از کسب‌وکارهای اینستاگرامی برای همیشه از بین رفته‌اند؛ این یعنی مرگ مستقیم بیش از ۴۰۰ هزار شغل!
+🔸
+دومینوی ویرانی: وقتی شوکی مثل محدودیت اینترنت وارد می‌شود، ابتدا کسب‌وکارهای کوچک و آسیب‌پذیر می‌میرند، اما این نابودی با کمی تاخیر گریبان شرکت‌های بزرگ اقتصادی را هم خواهد گرفت.
+🔹
+زنجیره‌ی به هم پیوسته: کسب‌وکارهای بزرگ در تولید، تامین و توزیع به شدت به همین کسب‌وکارهای خرد وابسته‌اند. توهم مصونیت برای شرکت‌های بزرگ، در نهایت منجر به فروپاشی خود آن‌ها می‌شود. منبع: زومیت
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 25.4K</span> · <a href="https://t.me/iaghapour/2583" class="msg-date" target="_blank">15:59 · 05 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+ایده عجیب در مجلس: تاسیس «اینستاگرام دولتی» و مدیریت کامل اینترنت!
+نمایندگان مجلس در تازه‌ترین نشست خود با وزیر ارتباطات، از طرح‌ها و نگاه‌های جدیدی برای کنترل بیشتر فضای مجازی پرده برداشتند. در این جلسه، پیشنهاد ایجاد یک پلتفرم کاملا دولتی مشابه اینستاگرام مطرح شد تا به زعم آن‌ها، نیاز کشور برطرف شود.
+🔹
+اینستاگرام دولتی:
+یکی از نمایندگان با اشاره به بازار سیاه و چند میلیونی فیلترشکن‌ها، رسما پیشنهاد ساخت یک سکوی دولتی شبیه اینستاگرام را برای پر کردن جای خالی این پلتفرم ارائه داده است.
+🔸
+رویای مدیریت اینترنت:
+نایب رئیس مجلس تاکید کرده که مشکل آن‌ها اصل اینترنت نیست، بلکه می‌خواهند در صحنه بین‌المللی، مدیریت اینترنت کاملا در دست خودشان باشد و این فضا را به یک جبهه تقابل تشبیه کرده است.
+🔹
+فرصت‌سازی از بحران:
+بخش قابل توجهی از صحبت‌های نمایندگان، حسرت خوردن برای از دست رفتن فرصت در شرایط ملتهب و جنگی است؛ آن‌ها معتقدند باید از این شرایط استفاده می‌کردند تا مردم و کسب‌وکارها به اجبار به سمت سکوهای داخلی کوچ کنند.
+این صحبت‌ها به وضوح نشان می‌دهد که دغدغه اصلی، کاهش نارضایتی مردم از قیمت و کیفیت اینترنت نیست؛ بلکه تلاش برای بومی‌سازی اجباری، قطع ارتباط با شبکه‌های اجتماعی بین‌المللی و کشاندن کاربران به پلتفرم‌های تحت کنترل و نظارت است. / زومیت
+✍🏻
+پ.ن: از سوپر اپلیکیشن های ایتا و سروش و گپ و بله که از تلگرام کپی کردین مشخصه توانایی اینکار رو دارید.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 28.1K</span> · <a href="https://t.me/iaghapour/2584" class="msg-date" target="_blank">16:06 · 05 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+وعده بازگشت به وضعیت عادی؛ توجیه محدودیت‌ها یا امید به بهبود اینترنت؟
+معاون ارتباطات دفتر رئیس‌جمهور به تازگی اعلام کرده که وضعیت فعلی اینترنت مورد تایید دولت نیست و رئیس‌جمهور، محمدرضا عارف را مامور ساماندهی این شرایط کرده است. به گفته او، این محدودیت‌های شدید و قطعی‌ها صرفا تصمیماتی از سوی شورای عالی امنیت ملی و به دلیل شرایط خاص امنیتی و جنگی بوده‌اند.
+🔹
+وعده روزهای بهتر:
+این مقام مسئول قول داده که با عبور از این شرایط ویژه، اینترنت نه تنها به حالت قبل برمی‌گردد، بلکه وضعیتی بهتر از گذشته پیدا خواهد کرد و وعده‌های انتخاباتی رئیس‌جمهور در این زمینه همچنان پیگیری می‌شوند.
+🔸
+دفاع از اینترنت پرو:
+در واکنش به انتقادات، دولت ادعا می‌کند طرح «اینترنت پرو» صرفا برای نجات کسب‌وکارها در روزهای محدودیت ایجاد شده و نباید به آن برچسب اینترنت طبقاتی زد؛ چرا که به گفته آن‌ها، در شرایط عادی اصلا نیازی به چنین طرحی نخواهد بود.
+🔹
+کاهش محدودیت‌های عمومی:
+خبر دیگر این است که قرار شده تدابیر جدیدی برای دسترسی بهتر سایر شهروندان به اینترنت اتخاذ شود تا فشار محدودیت‌های فعلی روی مردم کاهش یابد.
+در حالی که دولت تلاش می‌کند قطعی‌ها و طرح‌های بحث‌برانگیزی مثل اینترنت پرو را صرفا به شرایط اضطراری گره بزند، کاربران و کسب‌وکارها همچنان منتظرند تا ببینند آیا این وعده‌ها در عمل به یک اینترنت آزاد و بدون محدودیت ختم می‌شود یا صرفا وعده‌ای برای کنترل نارضایتی‌های فعلی است.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 26.7K</span> · <a href="https://t.me/iaghapour/2585" class="msg-date" target="_blank">17:42 · 05 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">🔻
+تسنیم: درآمد طرح اینترنت «پرو» در سال به ۹۶ هزار میلیارد تومن می‌رسه!
+🔹
+خب با این رقم‌های نجومی و پول هنگفتی که درمیاد، معلومه که از این تبعیضی که راه انداختن حسابی راضی‌ان. وقتی محدودیت و فیلترینگ این‌قدر براشون سود داره، چرا نباید اینترنت داخلی و بسته رو بیشتر تحویل بگیرن؟
+🔸
+این وسط یه تشکر ویژه و خسته نباشید هم باید بگیم به اون دسته از دوستانی که رفتن تو صف اینترنت پرو و این سیستم طبقاتی رو خیلی راحت پذیرفتن. از رئیس فلان اتحادیه و مدیر فلان اداره بگیر تا نماینده صنف لاستیک‌فروش‌ها و یه سری کسب‌وکارهایی که واقعاً بدون اینترنت آزاد هم کارشون لنگ نمی‌موند. تو شرایطی که ۹۹ درصد مردم هیچ دسترسیِ عادی به اینترنت آزاد ندارن، مرسی از شماها که رفتین این اینترنت رو گرفتین و با این کارتون، قشنگ به این تبعیض و نابرابری رسمیت دادین!
+پ.ن: البته به این نکته هم توجه کنید که خبرگذاری داخلی اینو گفته و ممکنه دقیقا مقصودشون از این حرف هم همین باشه که بگن چقدر این طرح خوب و سودآور هستش و...
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 28.5K</span> · <a href="https://t.me/iaghapour/2587" class="msg-date" target="_blank">11:03 · 06 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/m_ML7kEsej9dVVNBxvZqxHtidKohorwXPtj1Js1bN0F7SFqr4H0R9fZTc6PvQYKuSrGPn-yF3HxPi7XP-kPyn9N54pVBSA91yS9FrxyYrw3GCWenAeY_Lix8vOMio15SaQFJtfVKjL5Cwj0KQvI2yGBEg2pK5pKpuYMgk0MXiq2zviGIWNAbB7f4H0BCSm8juTEIQu1qDysoaUzwAf0whiEbrfGwJY-GAegn6urrlqIECsT4r3if5mT9lC86wWg6uMmMgot2R_868lT6C-ZBPbM2Uqwjlri5M_Ykb13F3wK__h0dp4UoeVP_akuFD_BuRttmxngL7aMnZJAa2OecYw.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/m_ML7kEsej9dVVNBxvZqxHtidKohorwXPtj1Js1bN0F7SFqr4H0R9fZTc6PvQYKuSrGPn-yF3HxPi7XP-kPyn9N54pVBSA91yS9FrxyYrw3GCWenAeY_Lix8vOMio15SaQFJtfVKjL5Cwj0KQvI2yGBEg2pK5pKpuYMgk0MXiq2zviGIWNAbB7f4H0BCSm8juTEIQu1qDysoaUzwAf0whiEbrfGwJY-GAegn6urrlqIECsT4r3if5mT9lC86wWg6uMmMgot2R_868lT6C-ZBPbM2Uqwjlri5M_Ykb13F3wK__h0dp4UoeVP_akuFD_BuRttmxngL7aMnZJAa2OecYw.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">💢
+سخنگو وزارت خارجه حذف تیک آبی خود در شبکه X را (سرکوب حقیقت) خواند.
+68 روزه اینترنت مردم ایران رو قطع کردن، بعد یه تیک آبی‌شو گرفتن میگه حقیقت سرکوب شد.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 27.4K</span> · <a href="https://t.me/iaghapour/2588" class="msg-date" target="_blank">16:52 · 06 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">🔻
+اطلاعیه مهم: معرفی فروشندگان کانفیگ
+طبق نتایج
+نظرسنجی اخیر،
+قصد داریم فروشندگان قدیمی و معتبری که از قبل می‌شناسیم را یکی‌یکی برای خرید به شما معرفی کنیم.
+📌
+قوانین و شرایط مربوط به فروشندگان:
+—
+عدم پذیرش فروشنده جدید:
+در حال حاضر شخص جدیدی معرفی نمی‌شود؛ بنابراین لطفاً در قسمت
+«تماس با ما»
+برای معرفی خود پیام ندهید. افرادی که معرفی می‌شوند، همگی پیش‌تر در کانال ما سابقه تبلیغ داشته‌اند.
+—
+تضمین خرید شما:
+مبلغی از پول این افراد نزد ما به عنوان امانت می‌ماند تا در صورت بروز هرگونه مشکل، بتوانیم مطالبات شما کاربران عزیز را پیگیری کنیم.
+—
+ضمانت بازگشت وجه:
+این فروشندگان موظف‌اند در صورت لزوم (بسته به شرایطی که خودشان به شما اعلام می‌کنند)، بین ۴۸ تا ۷۲ ساعت امکان عودت وجه را فراهم کنند.
+—
+قیمت منصفانه:
+تمامی این افراد تعهد داده‌اند که نسبت به شرایط بازار، قیمت‌های منصفانه‌تری برای کاربران کانال ما در نظر بگیرند.
+— معرفی فروشندگان صرفاً در زمینه
+فروش کانفیگ
+انجام می‌شود. هیچ‌یک از فروشندگان معرفی‌شده مجاز نیستند پس از معرفی، در کانال شخصی خود تبلیغات مربوط به "
+اوتباند
+" قرار دهند و یا به کاربران پیشنهاد خرید آن را بدهند.
+⚠️
+نکات مهم برای کاربران عزیز:
+—
+انتظارات از کیفیت:
+کانفیگ‌ها باید بتوانند تلگرام، اینستاگرام و یوتیوب را به راحتی باز کنند. با توجه به شرایط فعلی اینترنت، داشتن سرعت‌های بسیار بالایِ گذشته کمی دور از انتظار است (هرچند ممکن است کیفیت سرویس‌ها عالی باشد)، پس لطفاً واقع‌بین باشید.
+—
+اختلال و پشتیبانی:
+ممکن است در طول هفته، گاهی با اختلال مواجه شوید. پشتیبان‌ها موظف‌اند در سریع‌ترین زمان ممکن مشکل را حل کنند؛ اما لطفاً صبور باشید، حداقل یک ساعت به آن‌ها فرصت دهید و از ایجاد فشار زودهنگام به پشتیبانی کانال‌ها خودداری کنید.
+— در ضمن، توجه داشته باشید که
+ما ذی‌نفع این کانال‌ها نیستیم
+و فقط به دلیل درخواست‌های زیاد شما این دوستان را معرفی می‌کنیم.</div><div class="msg-footer"><span class="msg-views">👁 25.3K</span> · <a href="https://t.me/iaghapour/2589" class="msg-date" target="_blank">20:06 · 07 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">🔻
+مومن‌نسب: فضای مجازی به هیچ وجه نباید به حالت قبل برگردد
+حالا این آدم انقدر مهم نیست که دربارش صحبت کنیم ولی خواستم بگم این همون آدمیه که چندسال پیش تو صداوسیما میگفت من خطرات اینترنت رو میدونم و اطلاع دارم یک نفر با 2 گیگ اینترنت حامله شده و پدر دختره با گریه اینو برای من تعریف می‌کرد...
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 22.6K</span> · <a href="https://t.me/iaghapour/2590" class="msg-date" target="_blank">08:05 · 08 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/mat06z5qwzY8t91gxW4ymukHNu1_l7wBa3NLWS69iBGQAS6ySKlIUZx4YZXfEhuONu7pqDVgq7JVdvmNs2avS28KqBKfxSvR3k6ub6JUxgxybSD1sxDoq17ZwvJG3bM1p2Hwlw0E2LuKdJtrHns_RYAv83u9rB7oGTej3_-WHuM0_iXq3L1BnGrBjOE0DR0nq5UDvnIF5kR6AX4y2Dwm02K6Zc3f_wpsBqnyRWwn09KGR5zPVdx_1MOQ2xCq0TbMNgMDgx9exsL0qqwfTiUfdnSybVFW1rKR7kFPaRNolovU78UHc-Yexio9kM1eiHUjnBgBtocijYl5-HKf6O1HQg.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/mat06z5qwzY8t91gxW4ymukHNu1_l7wBa3NLWS69iBGQAS6ySKlIUZx4YZXfEhuONu7pqDVgq7JVdvmNs2avS28KqBKfxSvR3k6ub6JUxgxybSD1sxDoq17ZwvJG3bM1p2Hwlw0E2LuKdJtrHns_RYAv83u9rB7oGTej3_-WHuM0_iXq3L1BnGrBjOE0DR0nq5UDvnIF5kR6AX4y2Dwm02K6Zc3f_wpsBqnyRWwn09KGR5zPVdx_1MOQ2xCq0TbMNgMDgx9exsL0qqwfTiUfdnSybVFW1rKR7kFPaRNolovU78UHc-Yexio9kM1eiHUjnBgBtocijYl5-HKf6O1HQg.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+آپدیت بزرگ تلگرام: ورود دستیار هوشمند به پروفایل شخصی!
+تلگرام در آپدیت جدید تمرکز ویژه‌ای روی هوش مصنوعی داشته است. در ادامه مهم‌ترین تغییرات این نسخه را مرور می‌کنیم:
+🔹
+ربات‌های مهمان:
+فراخوانی ربات‌ها در هر چت یا گروهی، تنها با تگ کردن آیدی و بدون نیاز به افزودن آن‌ها.
+🔸
+منشی شخصی هوشمند:
+قابلیت اتصال مستقیم یک ربات به پروفایل شخصی تا در غیاب شما به پیام‌ها پاسخ دهد!
+🔹
+تعاملات زنده هوش مصنوعی:
+تایپ و نمایش لحظه‌ای پاسخ ربات‌ها، به همراه قابلیت جدید ارتباط ربات با ربات برای انجام وظایف پیچیده‌تر.
+🔸
+امکانات جدید برای کانال‌ها و تولید محتوا:
+قابلیت محدود کردن نظرسنجی‌ها (بر اساس کشور یا عضویت در کانال)، مشاهده نمودار آرا، و همچنین ساخت استایل‌های متنی سفارشی.
+🔹
+اضافه شدن قابلیت انتخاب فونت از سیستم خودتون (میتونید فونت وزیر رو نصب کنید و استفاده کنید).
+با این به‌روزرسانی که شامل جستجوی هوشمند ایموجی‌ها، ارسال بی‌صدای پیام زمان‌بندی‌شده و رفع ۲۰۰ باگ فنی است، تلگرام قدم بزرگی برای ادغام کامل پیام‌رسانی انسان و هوش مصنوعی برداشته است.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 22.7K</span> · <a href="https://t.me/iaghapour/2591" class="msg-date" target="_blank">10:43 · 08 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">#فیلترینگ
+به ما تحمیل شد,
+ولی
+#اینترنت_طبقاتی
+رو شما باید درخواست بدی تا بهت بدن...
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 22.2K</span> · <a href="https://t.me/iaghapour/2592" class="msg-date" target="_blank">14:57 · 08 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/N88s2Zx5KPQeKgSXPbERfvIWoI4gxag_HssrWEmvKOSlpHGy2CkXWWp3ExN4ZbHcJEwFactMil2zX7Ab09a22-FHnTq_8Mk0n-PrawZkUI0aKMZ7QlblsV5jmg5PMWMqSXiti5FFh4llfa4HhNBMqrVWmWwZrQt23anwokdQ7KS1-JKTIpXU7x_xlJA4TenqPLmXLTLHPZ5TU3LqRHrGw9zpoQ8_mwHlB-O4rf1IFIigjU3GZwnAzUFn8JD2s5yxNKdScLt217dMivPhpMezco21K-m927C1u9h3pFlumDbV4BLclxmHy0k-vmBzNfYqGVrYW2qYvq_-K4lAz3n0Ig.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/N88s2Zx5KPQeKgSXPbERfvIWoI4gxag_HssrWEmvKOSlpHGy2CkXWWp3ExN4ZbHcJEwFactMil2zX7Ab09a22-FHnTq_8Mk0n-PrawZkUI0aKMZ7QlblsV5jmg5PMWMqSXiti5FFh4llfa4HhNBMqrVWmWwZrQt23anwokdQ7KS1-JKTIpXU7x_xlJA4TenqPLmXLTLHPZ5TU3LqRHrGw9zpoQ8_mwHlB-O4rf1IFIigjU3GZwnAzUFn8JD2s5yxNKdScLt217dMivPhpMezco21K-m927C1u9h3pFlumDbV4BLclxmHy0k-vmBzNfYqGVrYW2qYvq_-K4lAz3n0Ig.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⚠️
+ایران 11 هفته در خاموشی دیجیتال!
+هیچ‌وقت تو زندگیم فکر نمی‌کردم یه روزی برسه که این‌جوری تلخ، شاهد از بین رفتن زحمت‌ آدما باشم. ۱۱ هفته قطعی اینترنت واسه خیلی‌ها فقط یه اختلال ساده نبود؛ قصه پدر مادرا و جووناییه که با هزار امید یه کسب‌وکار کوچیک راه انداخته بودن تا خرج زندگیشونو دربیارن و الان دستشون به هیچ‌جا بند نیست.
+تا همین چند وقت پیش با کلی استرس می‌گفتیم کسب‌وکارهای نوپا و خونگی تو «مرز نابودی» هستن و همه‌مون چشم‌انتظار بودیم زودتر اینترنت وصل بشه؛ ولی الان دیگه حرف از مرز نیست. خیلی‌ها کل سرمایه، جوونی و حاصل سال‌ها تلاششون جلوی چشماشون دود شد و رفت رو هوا. کاش دردی که افتاده رو دوش این مردم، میافتاد رو دوش مسئولین...
+🆔
+@NetProPlus</div><div class="msg-footer"><span class="msg-views">👁 20.9K</span> · <a href="https://t.me/iaghapour/2594" class="msg-date" target="_blank">08:07 · 09 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+ادعای عجیب نماینده مجلس: با ۴ هزار میلیارد تومان ایتا را به سطح واتس‌اپ می‌رسانیم!
+رئیس کمیته ICT مجلس در اظهارنظری جنجالی مدعی شده است که فاصله میان پیام‌رسان‌های داخلی مثل ایتا با نمونه‌های جهانی مانند واتس‌اپ، تنها در کمبود بودجه برای خرید سرور خلاصه می‌شود. به گفته او، ارتقای این پلتفرم‌ها هزینه چندانی برای کشور ندارد.
+این نماینده مجلس معتقد است که پلتفرم‌های داخلی از نظر فنی کمبودی ندارند و تنها زیرساخت‌های سخت‌افزاری آن‌ها باید تقویت شود:
+🔹
+بودجه برای رقابت:
+مصطفی طاهری مدعی است با صرف ۳ تا ۴ هزار میلیارد تومان برای خرید سرور، می‌توان کیفیت ایتا را به سطح واتس‌اپ رساند تا توانایی پذیرش بدون مشکل بیش از ۲۰ میلیون کاربر را داشته باشد.
+🔸
+هشدار درباره جاسوسی سخت‌افزاری:
+این مقام مسئول همچنین به موضوع استفاده از بیگ‌دیتا (داده‌های بزرگ) اشاره کرده و مدعی شده که آمریکا قوانینی برای جاسوسی در لایه‌های سخت‌افزاری و تراشه‌ها (حتی پایین‌تر از سطح سیستم‌عامل) دارد.
+این اظهارات در حالی مطرح می‌شود که کارشناسان حوزه تکنولوژی، موفقیت پلتفرم‌های جهانی را فراتر از صرفا تعداد سرور می‌دانند و مواردی چون امنیت، پروتکل‌های رمزنگاری، حریم خصوصی و نوآوری‌های مداوم نرم‌افزاری را از عوامل اصلی برتری آن‌ها به حساب می‌آورند.
+یکی از کاربرا زیر همین پست در دیجیاتو کامنت جالبی گذاشته بود:
+مامان‌بزرگ منم با چند میلیارد نیکی میناژ میشه!
+پ.ن: حالا فارق از این حرفا داره میگه اینا دارن از کاربراشون جاسوسی میکنن برای همین ما باید اپ های خودمون رو داشته باشیم... من حرفی ندارم.
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 18.6K</span> · <a href="https://t.me/iaghapour/2595" class="msg-date" target="_blank">14:49 · 10 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">⭕️
+ساده‌ترین راه برای دور زدن فیلترینگ با تانل DNS
+اگه خانواده‌ شما هم داخل ایران برای اتصال به اینترنت مشکل دارند، این پیام ممکن است به شما کمک کند.
+این برنامه یک برنامه‌ی  گرافیکیست که کار با آن بسیار ساده است و برای اتصال به اینترنت هر دو روش MasterDNS و VayDNS را پشتیبانی می‌کند.
+👈
+لینک گیت‌هاب
+👈
+دانلود
+اپ
+📖
+آموزش کامل MasterDNS و VayDNS
+▶️
+آموزش روی یوتیوب
+📱
+آموزش KevinNet DNS
+▶️
+آموزش روی یوتیوب
+🔄
+آپدیت‌های جدید برنامه
+در صورت وجود هرگونه مشکل یا سوالات مرتبط با KevinNetDNS میتوانید با آدرس ایمیل زیر در تماس باشید:
+©️
+متن تهیه شده توسط نویسنده اسکریپت KevinDNS
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 15.9K</span> · <a href="https://t.me/iaghapour/2596" class="msg-date" target="_blank">19:51 · 10 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble">
+            <div class="msg-photo">
+                <img src="https://cdn4.telesco.pe/file/OZ5lG_IIL0SV80RagNkyREeKwuXahkO9J3Qwuq9NI2PilE9Qajnw298tBMw1gLYfe7BF9etiOyaLmRlkgQ4rTKZs3GUeBqYvD6v4AIOYR5oontYuLBEpTbWbR_EhP43ura3FmULguID81zeLxf1-ZxZizOdYilzFWEvztXbxdEO9g-GnSy7e0kXxNILL2z3Jpqjz6m2vgrbin8dSygD0nHncZ1o7ZyGAupr4jtHXtOphWaDJ0ypaHFqE6JDIkA4G8d3jndeoVM7co3tRQl1cQ39rxXLwunkxW3iSHSlPoYfw8gMIMWBZTyYvh5HbLgovtwD4lDQlr7xSdsxJJHvcsQ.jpg" loading="lazy">
+                <a href="https://cdn4.telesco.pe/file/OZ5lG_IIL0SV80RagNkyREeKwuXahkO9J3Qwuq9NI2PilE9Qajnw298tBMw1gLYfe7BF9etiOyaLmRlkgQ4rTKZs3GUeBqYvD6v4AIOYR5oontYuLBEpTbWbR_EhP43ura3FmULguID81zeLxf1-ZxZizOdYilzFWEvztXbxdEO9g-GnSy7e0kXxNILL2z3Jpqjz6m2vgrbin8dSygD0nHncZ1o7ZyGAupr4jtHXtOphWaDJ0ypaHFqE6JDIkA4G8d3jndeoVM7co3tRQl1cQ39rxXLwunkxW3iSHSlPoYfw8gMIMWBZTyYvh5HbLgovtwD4lDQlr7xSdsxJJHvcsQ.jpg" class="dl-overlay" download>📥 دانلود</a>
+            </div>
+            <div class="msg-text">⭕️
+آپدیت ورژن 0.10.0 سانگبرد منتشر شد
+🔹
+با این اسکریپت میتونید در سرور ایران خودتون یک مسنجر شخصی بالا بیارید و با دوستان خودتون چت کنید.
+-
+📡
+قابلیت Remote channel
+-
+🔗
+ساده سازی سیستم Invite link
+-
+🎨
+بازطراحی بخش ساخت/تغییر کانال و گروه در UI
+-
+✨
+انیمیشن build-up پیام ها در چت ها
+-
+🔔
+بهبود عملکرد push notifications
+- تغییرات گرافیکی اسکریپت نصب آسان
+-
+🐳
+پشتیانی از TLS با سرتیفیکیت self-signed در Docker
+-
+🔧
+رفع باگ های گزارش شده
+-
+📄
+اضافه شدن نسخه فارسی فایل readme
+🔘
+اگه به هر مشکلی خوردین، حتما تو گیت هاب یک issue باز کنید و گزارش بدید.
+⭐️
+اگه از پروژه راضی بودین، با ستاره دادن تو گیت هاب از پروژه حمایت کنید.
+🔹
+چنل پروژه
+🔗
+لینک گیت‌هاب پروژه
+🆔
+@iaghapour</div><div class="msg-footer"><span class="msg-views">👁 15.7K</span> · <a href="https://t.me/iaghapour/2597" class="msg-date" target="_blank">19:55 · 10 May 2026</a></div></div></div>
+<div class="msg-wrap"><div class="msg-bubble"><div class="msg-text">✍
+حدودا 500 پیام بررسی نشده از 2 روز پیش داریم که پشتیبانی تا فردا همه رو بررسی میکنه.
+جدا از بحث بالا، از ته دل آرزو میکنم تو این روزهای عجیب و غریبی که داریم می‌گذرونیم، حال دلتون خوب باشه. می‌بینیم و حس میکنم که زندگی چقدر برای خیلی‌ها سخت شده و دغدغه‌ها چقدر زیادن.
+امیدواریم هرچه زودتر این روزهای سخت جاشون رو به روزهای روشن‌تری بدن. هوای خودتون و دلتون رو داشته باشید.</div><div class="msg-footer"><span class="msg-views">👁 12.7K</span> · <a href="https://t.me/iaghapour/2598" class="msg-date" target="_blank">23:32 · 10 May 2026</a></div></div></div></main>
+  <footer class="info-bar">
+    <span>100 پیام آخر · آپدیت: 2026-05-11 13:42 UTC</span>
+    <a href="https://github.com" target="_blank">ساخته شده با TG Mirror 📡</a>
+  </footer>
+</div>
+<button id="jump-top" title="رفتن به بالا">↑</button>
+<div id="lightbox">
+  <span id="lightbox-close">✕</span>
+  <img id="lightbox-img" src="" alt=""/>
+</div>
+<script>
+  const jumpBtn = document.getElementById('jump-top');
+  window.addEventListener('scroll', () => jumpBtn.classList.toggle('visible', window.scrollY > 400));
+  jumpBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+  const lightbox = document.getElementById('lightbox');
+  const lbImg = document.getElementById('lightbox-img');
+  const lbClose = document.getElementById('lightbox-close');
+  document.querySelectorAll('.msg-photo img, .album-item img').forEach(img => {
+    img.style.cursor = 'zoom-in';
+    img.addEventListener('click', e => {
+      e.preventDefault();
+      lbImg.src = img.src;
+      lightbox.classList.add('open');
+    });
+  });
+  function closeLightbox() { lightbox.classList.remove('open'); lbImg.src = ''; }
+  lightbox.addEventListener('click', e => { if (e.target !== lbImg) closeLightbox(); });
+  lbClose.addEventListener('click', closeLightbox);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape') closeLightbox(); });
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.style.opacity = '1';
+        e.target.style.transform = 'translateY(0)';
+        observer.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.05 });
+  document.querySelectorAll('.msg-wrap').forEach((el, i) => {
+    el.style.opacity = '0';
+    el.style.transform = 'translateY(12px)';
+    el.style.transition = `opacity 0.25s ease ${Math.min(i * 30, 300)}ms, transform 0.25s ease ${Math.min(i * 30, 300)}ms`;
+    observer.observe(el);
+  });
+  window.addEventListener('load', () => document.getElementById('messages-container').scrollIntoView({ block: 'end' }));
+</script>
+</body>
+</html>
