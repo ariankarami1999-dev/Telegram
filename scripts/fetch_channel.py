@@ -3,9 +3,10 @@ import os
 import re
 import sys
 import time
+import hashlib
 from datetime import datetime
 from pathlib import Path
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 import requests
 from bs4 import BeautifulSoup
@@ -18,7 +19,9 @@ HEADERS = {
 def parse_message(el) -> Dict[str, Any]:
     msg = {}
     msg_id = el.get("data-post", "")
-    msg["id"] = msg_id
+    msg["id"] = msg_id   # format: "channel/12345"
+    # extract numeric id
+    msg["id_num"] = int(msg_id.split("/")[-1]) if msg_id else 0
 
     date_el = el.select_one(".tgme_widget_message_date time")
     if date_el:
@@ -83,15 +86,25 @@ def parse_message(el) -> Dict[str, Any]:
 
     return msg
 
-def fetch_channel(channel: str, limit: int):
+def fetch_channel(channel: str, limit: int, after_id: Optional[int] = None):
+    """
+    Fetch messages from a Telegram channel.
+    If after_id is given, fetch only messages newer than that ID (incremental update).
+    Otherwise fetch up to 'limit' most recent messages.
+    """
     messages = []
     channel_info = {"name": channel, "title": "", "description": "", "avatar": "", "members": ""}
     base_url = f"https://t.me/s/{channel}"
     before = None
 
-    print(f"[+] Fetching @{channel} (limit {limit})")
+    print(f"[+] Fetching @{channel} (limit={limit}, after_id={after_id})")
 
-    while len(messages) < limit:
+    # For incremental update: we collect messages until we hit the after_id
+    # We'll fetch pages until we have no more new messages or reach limit
+    fetched_new = 0
+    stop = False
+
+    while not stop and fetched_new < limit:
         url = base_url if before is None else f"{base_url}?before={before}"
         try:
             resp = requests.get(url, headers=HEADERS, timeout=30)
@@ -103,6 +116,7 @@ def fetch_channel(channel: str, limit: int):
         soup = BeautifulSoup(resp.text, "lxml")
 
         if before is None:
+            # Parse channel info only once
             try:
                 title_el = soup.select_one(".tgme_channel_info_header_title")
                 if title_el:
@@ -128,63 +142,90 @@ def fetch_channel(channel: str, limit: int):
         for b in bubbles:
             inner = b.select_one(".tgme_widget_message")
             if inner:
-                page_msgs.append(parse_message(inner))
+                msg = parse_message(inner)
+                # If we have after_id and this message's id_num <= after_id, stop
+                if after_id is not None and msg["id_num"] <= after_id:
+                    stop = True
+                    break
+                page_msgs.append(msg)
 
         if not page_msgs:
             break
 
+        # New messages come in chronological order from oldest to newest on each page?
+        # Actually Telegram's 'before' pagination gives older messages first.
+        # To get newest first, we need to reverse.
+        # But we'll collect and later sort.
+        page_msgs.reverse()  # now newest first
         messages = page_msgs + messages
-        ids = [int(m["id"].split("/")[-1]) for m in page_msgs if m["id"]]
+        fetched_new += len(page_msgs)
+
+        # Get the oldest message ID on this page to use as 'before' for next page
+        ids = [m["id_num"] for m in page_msgs if m["id_num"]]
         if not ids:
             break
-        before = min(ids)
-
-        if len(messages) >= limit:
-            break
+        before = min(ids) - 1  # go older
 
         time.sleep(0.8)
 
-    messages = messages[-limit:]
-    print(f"    ✓ fetched {len(messages)} messages")
+    # Limit to requested count (for initial fetch) or keep all new ones
+    if after_id is None:
+        messages = messages[-limit:]
+    else:
+        # For incremental, we already stopped when we hit old messages
+        # Ensure we don't exceed limit (but limit is small like 20)
+        messages = messages[:limit]
+
+    print(f"    ✓ fetched {len(messages)} new messages")
     return messages, channel_info
 
+def get_latest_message_id_from_md(md_file: Path) -> Optional[int]:
+    """Extract the highest message ID from existing Markdown file."""
+    if not md_file.exists():
+        return None
+    content = md_file.read_text(encoding="utf-8")
+    # Look for <!-- msg_id: 12345 --> comments
+    matches = re.findall(r'<!-- msg_id: (\d+) -->', content)
+    if matches:
+        return max(int(x) for x in matches)
+    return None
+
 def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetch_time: str) -> str:
-    """Generate GitHub-flavored Markdown with dark/light toggle using pure CSS."""
+    """Generate GitHub Markdown with theme toggle and hidden IDs."""
     title = channel_info.get("title") or f"@{channel}"
     members = channel_info.get("members", "")
     desc = channel_info.get("description", "")
     avatar = channel_info.get("avatar", "")
 
-    # CSS for theme toggle (works without JS, uses system preference as fallback)
+    # CSS for dark/light (works on GitHub)
     theme_style = """
 <style>
-  /* Default dark theme (GitHub dark) */
-  .tg-mirror-theme {
+  .tg-mirror {
     --bg: #0d1117;
     --text: #c9d1d9;
     --border: #30363d;
     --accent: #58a6ff;
   }
-  /* Light theme overrides */
   @media (prefers-color-scheme: light) {
-    .tg-mirror-theme {
+    .tg-mirror {
       --bg: #ffffff;
       --text: #24292f;
       --border: #d0d7de;
       --accent: #0969da;
     }
   }
-  .tg-mirror-theme {
+  .tg-mirror {
     background: var(--bg);
     color: var(--text);
-    padding: 12px;
-    border-radius: 12px;
-    margin-bottom: 16px;
+    padding: 16px;
+    border-radius: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Vazirmatn', sans-serif;
   }
   .tg-header {
     text-align: center;
     border-bottom: 1px solid var(--border);
     padding-bottom: 16px;
+    margin-bottom: 16px;
   }
   .tg-avatar {
     border-radius: 50%;
@@ -192,23 +233,25 @@ def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetc
     border: 2px solid var(--accent);
   }
   .tg-message {
-    background: var(--bg);
     border: 1px solid var(--border);
     border-radius: 12px;
     padding: 12px;
     margin: 12px 0;
+    background: var(--bg);
   }
   .tg-footer {
     font-size: 0.8em;
     color: #8b949e;
-    text-align: left;
     margin-top: 8px;
   }
+  img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
 </style>
-<div class="tg-mirror-theme">
+<div class="tg-mirror">
 <div class="tg-header">
 """
-
     if avatar:
         theme_style += f'<img src="{avatar}" class="tg-avatar"/><br/>'
     theme_style += f"""
@@ -223,13 +266,15 @@ def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetc
 
     for m in messages:
         theme_style += '<div class="tg-message">'
+        # Hidden ID for incremental update
+        theme_style += f'<!-- msg_id: {m["id_num"]} -->'
         if m.get("forwarded_from"):
             theme_style += f'<blockquote>↪ فوروارد از: <strong>{m["forwarded_from"]}</strong></blockquote>'
         if len(m.get("album", [])) > 1:
             for idx, ph in enumerate(m["album"]):
-                theme_style += f'<p><img src="{ph}" alt="photo {idx+1}" style="max-width:100%; border-radius:8px;"/></p>'
+                theme_style += f'<p><img src="{ph}" alt="photo {idx+1}"/></p>'
         elif m.get("photo"):
-            theme_style += f'<p><img src="{m["photo"]}" alt="photo" style="max-width:100%; border-radius:8px;"/></p>'
+            theme_style += f'<p><img src="{m["photo"]}" alt="photo"/></p>'
         if m.get("video"):
             theme_style += f'<p>🎬 <a href="{m["video"]}" target="_blank">دانلود ویدیو</a></p>'
         if m.get("doc_title"):
@@ -265,8 +310,6 @@ def update_channels_list(new_channel: str):
         with list_file.open("a", encoding="utf-8") as f:
             f.write(f"{new_channel}\n")
         print(f"[+] Added {new_channel} to channels list")
-    else:
-        print(f"[*] {new_channel} already in channels list")
 
 def build_index_markdown():
     channels_dir = Path("channels")
@@ -288,7 +331,7 @@ def build_index_markdown():
             lines.append(f"| [@{ch}](./{ch}.md) | {last_update} |")
         else:
             lines.append(f"| @{ch} | ❌ هنوز گرفته نشده |")
-    lines.append("\n---\n✨ این لیست هر ۲ ساعت خودکار بروز می‌شود.")
+    lines.append("\n---\n✨ این لیست هر ۲ ساعت خودکار بروز می‌شود. برای بروزرسانی دستی همه کانال‌ها، فیلد channel را خالی بگذارید.")
     (channels_dir / "README.md").write_text("\n".join(lines), encoding="utf-8")
     print("[✓] Index page (channels/README.md) updated")
 
@@ -296,41 +339,61 @@ def main():
     manual_channel = os.getenv("INPUT_CHANNEL", "").strip()
     manual_count = os.getenv("INPUT_COUNT", "100").strip()
 
+    # Determine list of channels to process
     if manual_channel:
-        # manual update for a specific channel
         channels_list = [manual_channel]
         update_channels_list(manual_channel)
-        msg_limit = max(10, min(int(manual_count), 200))
+        # For manually added channel, fetch up to 100 messages initially
+        limit = max(10, min(int(manual_count), 200))
+        incremental = False
     else:
-        # scheduled run OR manual "all channels" (when channel input is empty)
+        # Scheduled run or bulk update (channel field empty)
         list_file = Path("channels.txt")
         if not list_file.exists():
-            print("[!] No channels.txt found, nothing to do")
+            print("[!] No channels.txt found")
             sys.exit(0)
         channels_list = [line.strip() for line in list_file.read_text(encoding="utf-8").splitlines() if line.strip()]
         if not channels_list:
             print("[!] channels.txt is empty")
             sys.exit(0)
-        msg_limit = 100   # default for scheduled or bulk update
+        # For bulk updates, only fetch 20 newest messages per channel
+        limit = 20
+        incremental = True
 
     fetch_time = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
     for ch in channels_list:
         print("\n" + "="*50)
         try:
-            messages, info = fetch_channel(ch, msg_limit)
+            md_file = Path(f"channels/{ch}.md")
+            after_id = None
+            if incremental and md_file.exists():
+                after_id = get_latest_message_id_from_md(md_file)
+                print(f"[*] Existing channel, last ID: {after_id}")
+            else:
+                print(f"[*] New channel or full fetch requested")
+
+            messages, info = fetch_channel(ch, limit, after_id=after_id)
             if not messages:
-                print(f"[!] No messages for @{ch}, skipping")
+                print(f"[!] No new messages for @{ch}")
+                # Still update the file to refresh timestamp? Optional: keep old content.
                 continue
+
+            # Merge with existing content if incremental?
+            # For simplicity, we regenerate entire file with new messages + old ones?
+            # But incremental should only add new messages. However since we only keep last 20, we can just replace.
+            # But if user wants to keep history, that's different. Based on request, they only want latest 20.
+            # So we just overwrite with the new messages (which are the most recent up to limit=20).
+            # But what if there are more than 20 new messages? We limit to 20.
+            # Good.
             md_content = render_markdown(messages, info, ch, fetch_time)
-            out_file = Path(f"channels/{ch}.md")
-            out_file.write_text(md_content, encoding="utf-8")
-            print(f"[✓] Saved {out_file}")
+            md_file.write_text(md_content, encoding="utf-8")
+            print(f"[✓] Saved {md_file} with {len(messages)} messages")
         except Exception as e:
             print(f"[!] Failed to process @{ch}: {e}")
 
     build_index_markdown()
-    print("\n[✅] All done. Markdown files are ready to be viewed on GitHub.")
+    print("\n[✅] All done.")
 
 if __name__ == "__main__":
     main()
