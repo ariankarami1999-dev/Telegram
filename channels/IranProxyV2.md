@@ -55,10 +55,19 @@ img {
 <h1>📡 پروکسی | فیلترشکن | کانفیگ v2</h1>
 <p><strong>@IranProxyV2</strong> · 👥 37.5K عضو</p>
 <p><em>ارائه‌دهنده راهکارهای نوین شبکه، سرورهای مجازی پایدار و سرویس‌های مخصوص تلگرام  گیمرها و تریدرها.</em></p>
-<p>🕐 آخرین بروزرسانی: <code>1405-02-21 19:55:27</code></p>
+<p>🕐 آخرین بروزرسانی: <code>1405-02-21 22:58:45</code></p>
 <p><a href="https://t.me/IranProxyV2" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
+<div class="tg-message">
+<!-- msg_id: 8308 -->
+<p>🔴
+معاون علمی پزشکیان:
+حتی در شرایط جنگی هم بستن اینترنت راهکار نیست، زیرا وقتی کامل بسته بود هم ترورها ادامه داشت.
+@RUSSIAPROXYY
+🇷🇺</p>
+<div class="tg-footer">👁 1.15K · <a href="https://t.me/IranProxyV2/8308" target="_blank">21:00 · 21 Ordibehesht 1405</a></div>
+</div>
 <div class="tg-message">
 <!-- msg_id: 8306 -->
 <p>⚠️
@@ -67,7 +76,7 @@ img {
 در حال بررسی از سرگیری عملیات «پروژه آزادی» هستم.
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 931 · <a href="https://t.me/IranProxyV2/8306" target="_blank">18:30 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 1.8K · <a href="https://t.me/IranProxyV2/8306" target="_blank">18:30 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8305 -->
@@ -75,7 +84,7 @@ img {
 <p>وضعیت زندگی مغازه دارا و آنلاین شاپا بعداز ۷۴ روز بسته بودن اینترنت!
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 1.46K · <a href="https://t.me/IranProxyV2/8305" target="_blank">16:25 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.1K · <a href="https://t.me/IranProxyV2/8305" target="_blank">16:25 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8304 -->
@@ -88,21 +97,21 @@ img {
 وضعیت اینترنت در دولت در حال پیگیری است. نظر دولت بازگشت اینترنت به وضعیت عادی است. قطعی اینترنت قطعاً به رتبه علمی ما ضربه می‌زند. در زمان قطعی اینترنت رتبه علمی ما پایین می‌آید.
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 1.5K · <a href="https://t.me/IranProxyV2/8304" target="_blank">16:18 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.06K · <a href="https://t.me/IranProxyV2/8304" target="_blank">16:18 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8303 -->
 <p>📄 <strong>dalage pezeshkian 2.npvt</strong> <code>1.6 KB</code></p>
 <p>@RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 1.58K · <a href="https://t.me/IranProxyV2/8303" target="_blank">15:38 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.08K · <a href="https://t.me/IranProxyV2/8303" target="_blank">15:38 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8302 -->
 <p>داریم بروز رسانی هایی میکنیم که  سرور های مخصوص تلگرام مستقیم وصل بشه
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 1.91K · <a href="https://t.me/IranProxyV2/8302" target="_blank">13:34 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.31K · <a href="https://t.me/IranProxyV2/8302" target="_blank">13:34 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8301 -->
@@ -123,7 +132,7 @@ img {
 قابل استفاده میباشد و برای تمامی دیوایس ها واپلیکیشن ها اوکی هست، در پلن های (1 گیگ، 2 گیگ،3 گیگ و 5 گیگ) تو ربات موجود میباشد برای ثبت سفارش
 ✅
 @RUSSIAPROXYY_Bot</p>
-<div class="tg-footer">👁 2.49K · <a href="https://t.me/IranProxyV2/8301" target="_blank">03:11 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.73K · <a href="https://t.me/IranProxyV2/8301" target="_blank">03:11 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8300 -->
@@ -132,7 +141,7 @@ img {
 ایران آخرین پیشنهاد آمریکا را رد کرد
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.49K · <a href="https://t.me/IranProxyV2/8300" target="_blank">01:43 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.63K · <a href="https://t.me/IranProxyV2/8300" target="_blank">01:43 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8299 -->
@@ -143,14 +152,14 @@ img {
 بسیاری از سایت های ملی و داخلی نیز باز نمیشوند
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.62K · <a href="https://t.me/IranProxyV2/8299" target="_blank">00:55 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.75K · <a href="https://t.me/IranProxyV2/8299" target="_blank">00:55 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8298 -->
 <p>رفقا پروکسیا مشکل خوردن مدیر فنیم داره هر جور شده مشکل حل میکنه از صبوریتون متشکریم
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.47K · <a href="https://t.me/IranProxyV2/8298" target="_blank">00:50 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.62K · <a href="https://t.me/IranProxyV2/8298" target="_blank">00:50 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8297 -->
@@ -158,14 +167,14 @@ img {
 🇷🇺
 پیامتون ادیت بخوره، قابل قبول نیست
 ❤</p>
-<div class="tg-footer">👁 2.46K · <a href="https://t.me/IranProxyV2/8297" target="_blank">00:49 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.57K · <a href="https://t.me/IranProxyV2/8297" target="_blank">00:49 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8295 -->
 <p>🔴
 ترامپ: من همین الان پاسخ به اصطلاح «نمایندگان» ایران را خواندم. این را دوست ندارم — کاملاً غیرقابل قبول است! از توجه شما به این موضوع سپاسگزارم.  @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.45K · <a href="https://t.me/IranProxyV2/8295" target="_blank">00:14 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.56K · <a href="https://t.me/IranProxyV2/8295" target="_blank">00:14 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8294 -->
@@ -174,7 +183,7 @@ img {
 ترامپ: من همین الان پاسخ به اصطلاح «نمایندگان» ایران را خواندم. این را دوست ندارم — کاملاً غیرقابل قبول است! از توجه شما به این موضوع سپاسگزارم.
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.53K · <a href="https://t.me/IranProxyV2/8294" target="_blank">23:59 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.66K · <a href="https://t.me/IranProxyV2/8294" target="_blank">23:59 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8293 -->
@@ -182,7 +191,7 @@ img {
 🇷🇺
 پیامتون ادیت بخوره، قابل قبول نیست
 ❤</p>
-<div class="tg-footer">👁 2.47K · <a href="https://t.me/IranProxyV2/8293" target="_blank">23:42 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.59K · <a href="https://t.me/IranProxyV2/8293" target="_blank">23:42 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8292 -->
@@ -191,17 +200,17 @@ img {
 @
 RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.44K · <a href="https://t.me/IranProxyV2/8292" target="_blank">23:37 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.56K · <a href="https://t.me/IranProxyV2/8292" target="_blank">23:37 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8291 -->
-<p><img src="https://cdn4.telesco.pe/file/Jm8KoUUydrYp5AV0vkFcLuP-XSRcXS-sFVuPH6uJxJSp_BDW3FhsANYYk5psKWFNrK_puCqopOJvqd7DUJap-KdrPNYu2LTwJDGMHUIAxSNeisoUO5_Ke-Ie16aEp2sUTRpsszoUmq-yJwsmo41r7L5DkoOhkAV-QIgIT1z7CFv06xb_l4EsTZMB0hxA0Wec8QOpdqnhTHpXL1vZL_rOMqy2flmBLoZ2DFYWED_-MMLcYFTkQWYFlyMDGNkbn244qaCzF-TX-7_3PxoTlqWzfD9Y2vgxsv-Wgw-s3eAu-htE4vMXtW4iWatipw2MNYS1QJMxCL6NvlDYpHhfcmAdSw.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/j6KOsyO_8acB-LqMziKULZTEvY_bu2iEe66IGBkh1iJ4feD1W8Q5iOGOhZlDCTazB-t_Ru-_33RNGVirbyB9gGhvZ-4uWtWfPEs0_OAS5VsOWBNi01Kc8zDibktrug5djol9e4G9Tf1-c9fYcoOHoXvSLN9k8q51df2wFOs0EERVoPihMc52KeEp2WERwy3WJXMAc10Vkro1DkWRCrzoDuC7_82iigs3rkoBOE9ZBjIYNN4odvCBruB9T-b6fOaRnLe1FGgwUQGCF9HSdQrnJfaT6AuGttBUny2Iw1ViPgeic2KxrxoMxZS9b65GVkczjqECza5O1S30TdV38ulGDQ.jpg" alt="photo"/></p>
 <p>پست جدید ترامپ: ایران به مدت ۴۷ سال با ایالات متحده و بقیه جهان بازی کرده است (تأخیر، تأخیر، تأخیر!)  و سپس سرانجام وقتی باراک حسین اوباما رئیس‌جمهور شد، به «گنج» آنها رسیدند.   او نه تنها با آنها خوب بود، بلکه عالی بود، واقعاً به طرف آنها رفت، اسرائیل و همه…</p>
-<div class="tg-footer">👁 2.55K · <a href="https://t.me/IranProxyV2/8291" target="_blank">21:55 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.61K · <a href="https://t.me/IranProxyV2/8291" target="_blank">21:55 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8290 -->
-<p><img src="https://cdn4.telesco.pe/file/q3PsYb_nLLc9UxYb4VtTZeLiswObNGCJ-lGp9sJMcqcBQT8qcymqjI_rfh0bvmytzyeGxCY0VUH1wSgHCcPBL_QM5JWA49NCcXUvrPBUYXq9zDxUKCFTlFyCSXbfQ0wF8foLKt3HYrZsWwhRelUmX5B67JKJPxTkZPeMrXqUXc7xNzpfgVh8IoQwD7A59RsV1P8DDMcpD_haOgsciXn2ySdDtcr7T2ZHC4ffwJTL7bQP-louZPNahvdbScVmwwTyJwCjPHOyOjPSBpkV0iHHBRy9AgYCCjmpUfxUcqhgkEfdNCMnTbC-NpWQjv6ul6J64ovulcWrWo9994qHCsKDwA.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/Z5ZPvXEbv-GORpqcQZWD0H9-iy0v0akmd0UKG4pMFcAlHnNI7HOgyP_b2I3aCtHZdn206MIgb_kPNmf1AG6IkS2yrYudNi4cQN4z4bp0zB4vdhzZxm5bIZkGGbZUtPlFL1eW1ZBvuVfc6dwI2n2BwycuE4Q3ms6DQ9AOi1DaZDx2_Adyr7gyNKf8uwTvT-SMNppZa1DJFpKZz58A1PNdU1gLHAGYsPQ6cvFKVgN7onuYHb3m2BI1ocla3DwtiPko91wGlr6X0YxcUuQF99P2AZ89h9rxhPNKFP6As8WcKTbig4gIQYE4Q1MObPHZROAnpZVyhWDe7K7dhbohaCEETA.jpg" alt="photo"/></p>
 <p>پست جدید ترامپ:
 ایران به مدت ۴۷ سال با ایالات متحده و بقیه جهان بازی کرده است (تأخیر، تأخیر، تأخیر!)
 و سپس سرانجام وقتی باراک حسین اوباما رئیس‌جمهور شد، به «گنج» آنها رسیدند.
@@ -213,7 +222,7 @@ RUSSIAPROXYY
 به مدت ۴۷ سال ایرانی‌ها ما را «گول زده‌اند»، ما را منتظر نگه داشته‌اند، مردم ما را با بمب‌های کنار جاده‌ای کشته‌اند، اعتراضات را سرکوب کرده‌اند و اخیراً ۴۲ هزار معترض بی‌گناه و بی‌سلاح را از بین برده‌اند و به کشور ما که حالا دوباره بزرگ شده است، می‌خندند. آنها دیگر نخواهند خندید!
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.37K · <a href="https://t.me/IranProxyV2/8290" target="_blank">21:51 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.47K · <a href="https://t.me/IranProxyV2/8290" target="_blank">21:51 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8289 -->
@@ -231,7 +240,7 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 + اعتبارِ لینکِ دانلود : 3 روز [ لینک آپدیت می‌شود . ]
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.4K · <a href="https://t.me/IranProxyV2/8289" target="_blank">20:10 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.48K · <a href="https://t.me/IranProxyV2/8289" target="_blank">20:10 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8288 -->
@@ -240,7 +249,7 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 ✉️
 ◀️
 درضمن توجه داشته باشین که پلن های 1 گیگ، 2 گیگ، 3 گیگ و 5 گیگ تو ربات شارژ شده با قیمت…</p>
-<div class="tg-footer">👁 2.36K · <a href="https://t.me/IranProxyV2/8288" target="_blank">20:02 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.41K · <a href="https://t.me/IranProxyV2/8288" target="_blank">20:02 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8287 -->
@@ -261,7 +270,7 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 پشتیبانی از فردا ظهر ساعت ۱۸ تا ۲ شب پاسخگویی سئوالات و مشکلات شما میباشد
 ❕
 @RUSSIAPROXYY_Admin</p>
-<div class="tg-footer">👁 751 · <a href="https://t.me/IranProxyV2/8287" target="_blank">19:39 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 773 · <a href="https://t.me/IranProxyV2/8287" target="_blank">19:39 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8285 -->
@@ -271,7 +280,7 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 سال گذشته هر هفته ۳ تا ۴ روز خاموشی ۲ ساعته داشتیم ولی امسال تمامی روزهای هفته ۲ ساعت قطعی برق خانگی، تجاری و اداری داریم
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.58K · <a href="https://t.me/IranProxyV2/8285" target="_blank">13:57 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.62K · <a href="https://t.me/IranProxyV2/8285" target="_blank">13:57 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8284 -->
@@ -280,32 +289,32 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 🇷🇺
 پیامتون ادیت بخوره، قابل قبول نیست
 ❤</p>
-<div class="tg-footer">👁 2.56K · <a href="https://t.me/IranProxyV2/8284" target="_blank">12:32 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.59K · <a href="https://t.me/IranProxyV2/8284" target="_blank">12:32 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8283 -->
 <p>کامنت هارو باز میکنم پست بعد حرف نزنید فقط نتیجه رو بنویسد به نفع کیه
 از اونجایی که خودم بارساییم 3.1 به نفع بارسا میشه</p>
-<div class="tg-footer">👁 2.55K · <a href="https://t.me/IranProxyV2/8283" target="_blank">12:30 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.58K · <a href="https://t.me/IranProxyV2/8283" target="_blank">12:30 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8282 -->
 <p>یه چالش میزاریم هر کس اولین نفر نتیجه امروز الکلاسیکو رو درست بگه بعد بازی جایزه میدیم</p>
-<div class="tg-footer">👁 2.59K · <a href="https://t.me/IranProxyV2/8282" target="_blank">12:24 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.64K · <a href="https://t.me/IranProxyV2/8282" target="_blank">12:24 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8280 -->
 <p>📄 <strong>‎⁨الکلاسیکوو🔥⁩.npvt</strong> <code>2.9 KB</code></p>
 <p>@RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.56K · <a href="https://t.me/IranProxyV2/8280" target="_blank">12:23 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.6K · <a href="https://t.me/IranProxyV2/8280" target="_blank">12:23 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8279 -->
 <p>پزشکیان جوری اومدی ریدی تو نتا جلیلی تو خوابشم نمیتونست همچین چیزی ببینه
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.9K · <a href="https://t.me/IranProxyV2/8279" target="_blank">10:42 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.93K · <a href="https://t.me/IranProxyV2/8279" target="_blank">10:42 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8278 -->
@@ -313,7 +322,7 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 <p>استوری علی صبوری که میگه به مرز فروپاشی رسیدم
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.81K · <a href="https://t.me/IranProxyV2/8278" target="_blank">09:58 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.85K · <a href="https://t.me/IranProxyV2/8278" target="_blank">09:58 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8277 -->
@@ -322,11 +331,11 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 الان این استوری رو گذاشته و گفته بیاید منو بگیرید ببرید
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.83K · <a href="https://t.me/IranProxyV2/8277" target="_blank">09:52 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.85K · <a href="https://t.me/IranProxyV2/8277" target="_blank">09:52 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8276 -->
-<p><img src="https://cdn4.telesco.pe/file/jO3WmFQYlLdmPxjPUUm6j2BJHViPByYT5Nu7CspSCzN58DSdeenQ6wbvsqk5bPMAZ_63py6uJpCIUEL3El-5ytLO3ihU-G1Dum3TbzVv6OXd-VnjepAFpOnl1JfkSkRLQVOK8qCD99AP4vUC3B11geUjmoaFHkcFcZkE7_wMYqcfv-Ag2TpXAzYqnDUnhDje7Pp0w3AxqEwMaPAKQ9GalmBgJvD0ZAN_82KBXk8wIhRpWJucgnvkHuiXjJbjcDD09FFXCaCaIp7J0t8O6OA0V7hs7ODT_wvanH-5VbhoBC4yR62dMhEPdqX-7WknI5Int6LPYQtv6lwlFOnpl4bzJQ.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/YjFsXVtYWFwH2W1zvetWELjREzwu6L8Mt8Ld6673nDQb8Z1VVfBsIQUlFFQy_YeicXmDjMFqSPwZv4i4kaFAvrH6Yjm8RAaPHOlNQimLMR4Fvkc36lpSWnSnSmXB3YS1KHOevdgvv1LtQhyfIqomF-ZCTAqpkBdOeylLdsHWYuU2anE_0u1XhMY-dGEJqo7yWDwL8L77FRcI447aDcKMKsYsPxQzYr3Ohy5hGKW3lhmpSDHxoARe9xpQIyPGY8OQTKGIsE7GF6ljdA6qNkluBNkP3zZ_MpgX4gbkNxHYAm-A6SsMAkNlVqpjAlfJSdmcvUduNIE6JmmhWSu33UoXWQ.jpg" alt="photo"/></p>
 <p>🔜
 به دلیل مسائل فنی، و ارتقا سرور تا فردا فروش سرور تلگرام بسته خواهد بود، فقط تا فردا بستس،مجدد فردا باز خواهد شد درصورت رفع مشکل و آپدیت همینجا اطلاع رسانی خواهم کرد
 ✉️
@@ -342,14 +351,14 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 پشتیبانی از فردا ظهر ساعت ۱۸ تا ۲ شب پاسخگویی سئوالات و مشکلات شما میباشد
 ❕
 @RUSSIAPROXYY_Admin</p>
-<div class="tg-footer">👁 3.57K · <a href="https://t.me/IranProxyV2/8276" target="_blank">04:36 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.64K · <a href="https://t.me/IranProxyV2/8276" target="_blank">04:36 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8275 -->
 <p>رفیقا پروکسیا اختلال دارن تیم فنیم در حال درست کردنه اختلاله. کانفیگ ها اکین مشکلی ندارن  میتونین خرید بزنید
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.96K · <a href="https://t.me/IranProxyV2/8275" target="_blank">02:18 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.03K · <a href="https://t.me/IranProxyV2/8275" target="_blank">02:18 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8273 -->
@@ -360,7 +369,7 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 ولی سرورای مختص تلگرام فعلا درحال حاضر سرور خارجمون به مشکل خورده پروکسیا وگرنه سرور خودش اوکیه، یه مقدار طول میکشه اوکی بشه، اطلاع رسانی میکنم همینجا
 ❤️
 ✨</p>
-<div class="tg-footer">👁 3.29K · <a href="https://t.me/IranProxyV2/8273" target="_blank">21:56 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.37K · <a href="https://t.me/IranProxyV2/8273" target="_blank">21:56 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8271 -->
@@ -369,7 +378,7 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 ✨
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.34K · <a href="https://t.me/IranProxyV2/8271" target="_blank">18:23 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.37K · <a href="https://t.me/IranProxyV2/8271" target="_blank">18:23 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8269 -->
@@ -377,7 +386,7 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 <p>آغاز تست خدمات اینترنت 5G در کابل افغانستان
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.43K · <a href="https://t.me/IranProxyV2/8269" target="_blank">17:05 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.45K · <a href="https://t.me/IranProxyV2/8269" target="_blank">17:05 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8268 -->
@@ -398,7 +407,7 @@ https://uploadgirl.ir/d/c99c188e-57fe-469c-91ce-843a37e803f3
 @YoutubeFiler_bot
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.31K · <a href="https://t.me/IranProxyV2/8268" target="_blank">16:05 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.34K · <a href="https://t.me/IranProxyV2/8268" target="_blank">16:05 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8266 -->
@@ -407,7 +416,7 @@ www.karzar.net/291129
 شرکت کنید
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 7.61K · <a href="https://t.me/IranProxyV2/8266" target="_blank">13:57 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 7.67K · <a href="https://t.me/IranProxyV2/8266" target="_blank">13:57 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8265 -->
@@ -417,14 +426,14 @@ www.karzar.net/291129
 سازمان رسانه و ارتباطات عراق از لغو ممنوعیت فعالیت اپلیکیشن تلگرام در سراسر این کشور پس از تعهد مدیریت تلگرام به رعایت قوانین داخلی و استانداردهای نظارتی عراق خبر داد.
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.45K · <a href="https://t.me/IranProxyV2/8265" target="_blank">12:04 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.47K · <a href="https://t.me/IranProxyV2/8265" target="_blank">12:04 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8264 -->
 <p>یکم اختلال داریم رو پروکسیا به زودی حل میشه
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.35K · <a href="https://t.me/IranProxyV2/8264" target="_blank">11:35 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.37K · <a href="https://t.me/IranProxyV2/8264" target="_blank">11:35 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8263 -->
@@ -435,7 +444,7 @@ www.karzar.net/291129
 جهت ثبت سفارش به ربات مراجعه کنید، درضمن درنظر داشته باشین که سرور هامون پرسرعت تر شدن و بهنیه تر
 😁
 ❤</p>
-<div class="tg-footer">👁 3.5K · <a href="https://t.me/IranProxyV2/8263" target="_blank">03:41 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.51K · <a href="https://t.me/IranProxyV2/8263" target="_blank">03:41 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8262 -->
@@ -479,7 +488,7 @@ Port
 8080
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.57K · <a href="https://t.me/IranProxyV2/8262" target="_blank">02:13 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.58K · <a href="https://t.me/IranProxyV2/8262" target="_blank">02:13 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8261 -->
@@ -487,18 +496,18 @@ Port
 <p>شمارو نمیدونم ولی من دیگ از تک تک اینا خستم
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.15K · <a href="https://t.me/IranProxyV2/8261" target="_blank">02:03 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.17K · <a href="https://t.me/IranProxyV2/8261" target="_blank">02:03 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8260 -->
-<p><img src="https://cdn4.telesco.pe/file/XNbTFbVtuUHNhFhnO4fewSXCQzel0pvVdz7Ea8bo3W2r3GI42gy5xveDxBt6lDbDW4nxGg1q_xoVOZFz7wtINnh7fA5svHgtWAwm1GKaFypq50lqmtI5gZ1IhlhdzDgNTGtfII900kQGRWH0bGpi7_jYJjOuqdaJWD3sRtKrpOB8iPF_0zUKly7kJEOFGcPCChaCRzchysfHQh7L3jRy9ilt5NWdhRsGP80A4mDbbD4KykbQjuWB_yAkINKx61qx3BKdpV1CKrygMDlv6mVrkUNyTcWaf2-CCv2V5DXGVjShLdC1cbH65rI2egke3c8gi3UvKv0LGS1K6P2jot-NUw.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/ZRODO4Iiim9q96OTKPB2qBDt2CLoS1a6ElOGPNWSNRvKDNvm3bj8ee9d0JI-jvXfSpXEse40sC1hUxYU2z7t6oHaTPucgreTE3WK37jB9Lziyx-YwR8RLO622kQavovB8Xfr00KFMwRERL2pvYaKPoYRrsFM_-hwlwAw-ooCtMm8MBhRvWOiB2AunvT9jsVH0u_kXD9RaUn0NlLbu8-nhDPC72E-utGam5SvxJHOvL7d_iSTlmKLq36T2O1BamdjuwCCG38r8U9RoNvz-0dLAtV3Cafbjmm715U2PNyb51zV2Zrplv3eSpkyacKktl_5dOJRYZdfxp-gly1aRAoc9w.jpg" alt="photo"/></p>
 <p>نت بلاکس:
 - ایران وارد روز 64ام از قطعی اینترنت شد.
 47.500 ری‌اکشن فیک:
 🤩
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.2K · <a href="https://t.me/IranProxyV2/8260" target="_blank">20:25 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.22K · <a href="https://t.me/IranProxyV2/8260" target="_blank">20:25 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8259 -->
@@ -506,22 +515,22 @@ Port
 <p>کانفیگ اینجکتور مناسب ایفون و اندروید
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.05K · <a href="https://t.me/IranProxyV2/8259" target="_blank">20:20 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.07K · <a href="https://t.me/IranProxyV2/8259" target="_blank">20:20 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8258 -->
 <p>دلم برای هدر دادن وقتم تو اکسپلور تنگ شده
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.11K · <a href="https://t.me/IranProxyV2/8258" target="_blank">20:09 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.14K · <a href="https://t.me/IranProxyV2/8258" target="_blank">20:09 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8257 -->
-<p><img src="https://cdn4.telesco.pe/file/jFy65awUD0vRqHRr7aZGDcrbvaME8dNTLVa_DeK-RcUVv5ngB_sWvqFcVwy5usvP3zvC_ler1QL15Td3-YR1X9QESMVzKNE-O-5__TvVMA1eEox1EGdCuaKY5S8xlbYFUwTmZS12Ot9tDU_JBYXNTWDSAtNN2fkacsBLUxKkXSy-B9VI1S-tlhERa9pS8PBZot-48WYtgamwUNx0hz3lqB5-21h30o0wVRh8CLqGwJv93v7syH4fYEmhu5NpTnqKt1vmm22ot9KfD_6e5h13CPAGs9zCQMqkoXQYbfiJMNBwfUCEVXX_AOgeMLzlzbTIzI5tJXP_azf70lY2hPW_Cg.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/rhFmXM99k_S_5z5DCGRbkYoUBOrgB5xYPWWftGJcCV4xTX_oBxENx-nvO_0lKRrIgSA6JCDYbsvCQLm4npga-uft4m8o1124us5wvTjdDTty-k3TwUmXi0p9dpXP1hCMtTcUHGmropWq0Yv5YtEzNuRZDxr01nzskdkYxhmCqWkdMjML_LprFUjMv-veX3ru4_UYChqksI3U03R0nU9bXJg7vLdL4MDw1KeVVFMTbqQSOCnB1sY3EIzaW7Wp0EBeWWNRaEREuJY3Cu88mJXdyqOXMdvskbuAY_7TV_Z1Vx52nWZsKz3mMNTQl9jhiZgumKtedhJuA2SuOJFGZiZNgw.jpg" alt="photo"/></p>
 <p>یه نفر سال ٢٠٢٢ پیش‌بینی کرده که سال ٢٠٢۶ هانتا ویروس مثل کرونا شیوع پیدا می‌کنه.
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.26K · <a href="https://t.me/IranProxyV2/8257" target="_blank">19:50 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.28K · <a href="https://t.me/IranProxyV2/8257" target="_blank">19:50 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8256 -->
@@ -529,7 +538,7 @@ Port
 🙁
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.16K · <a href="https://t.me/IranProxyV2/8256" target="_blank">19:37 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.18K · <a href="https://t.me/IranProxyV2/8256" target="_blank">19:37 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8255 -->
@@ -537,7 +546,7 @@ Port
 <p>اینم تحویل جایزه چالش امروز
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.14K · <a href="https://t.me/IranProxyV2/8255" target="_blank">18:39 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.16K · <a href="https://t.me/IranProxyV2/8255" target="_blank">18:39 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8254 -->
@@ -546,7 +555,7 @@ Port
 پستی عجیب در پیامرسان های داخلی در مورد فیلترینگ و قطعی اینترنت
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.07K · <a href="https://t.me/IranProxyV2/8254" target="_blank">15:45 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.12K · <a href="https://t.me/IranProxyV2/8254" target="_blank">15:45 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8253 -->
@@ -556,7 +565,7 @@ Port
 این حمله منجر به زخمی شدن حداقل ۳ نفر شده است.
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.86K · <a href="https://t.me/IranProxyV2/8253" target="_blank">15:06 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.87K · <a href="https://t.me/IranProxyV2/8253" target="_blank">15:06 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8252 -->
@@ -564,7 +573,7 @@ Port
 <p>قطعی اینترنت در ایران  به ۷۰ روز رسید.
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.71K · <a href="https://t.me/IranProxyV2/8252" target="_blank">15:01 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.72K · <a href="https://t.me/IranProxyV2/8252" target="_blank">15:01 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8251 -->
@@ -573,7 +582,7 @@ Port
 به گفته این منابع خبری ۲ موشک بالستیک و ۳ پهپاد به سمت امارات شلیک شد.
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.63K · <a href="https://t.me/IranProxyV2/8251" target="_blank">14:53 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.64K · <a href="https://t.me/IranProxyV2/8251" target="_blank">14:53 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8250 -->
@@ -583,7 +592,7 @@ Port
 لیزرها: بوم بوم… رفت هوا!!!
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.82K · <a href="https://t.me/IranProxyV2/8250" target="_blank">14:50 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.84K · <a href="https://t.me/IranProxyV2/8250" target="_blank">14:50 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8249 -->
@@ -591,7 +600,7 @@ Port
 فوری - حمله موشکی به امارات
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.7K · <a href="https://t.me/IranProxyV2/8249" target="_blank">14:48 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.71K · <a href="https://t.me/IranProxyV2/8249" target="_blank">14:48 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8248 -->
@@ -600,7 +609,7 @@ Port
 🐴
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.85K · <a href="https://t.me/IranProxyV2/8248" target="_blank">13:35 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.87K · <a href="https://t.me/IranProxyV2/8248" target="_blank">13:35 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8247 -->
@@ -610,7 +619,7 @@ https://t.me/IranProxyV2/8243?comment=8191
 🔗
 https://t.me/IranProxyV2/8243?comment=8409
 🔗</p>
-<div class="tg-footer">👁 2.91K · <a href="https://t.me/IranProxyV2/8247" target="_blank">13:10 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.92K · <a href="https://t.me/IranProxyV2/8247" target="_blank">13:10 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8246 -->
@@ -621,7 +630,7 @@ https://t.me/IranProxyV2/8243?comment=8191
 🔗
 https://t.me/IranProxyV2/8243?comment=8409
 🔗</p>
-<div class="tg-footer">👁 2.81K · <a href="https://t.me/IranProxyV2/8246" target="_blank">13:09 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.82K · <a href="https://t.me/IranProxyV2/8246" target="_blank">13:09 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8244 -->
@@ -631,7 +640,7 @@ https://t.me/IranProxyV2/8243?comment=8409
 😐
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.86K · <a href="https://t.me/IranProxyV2/8244" target="_blank">12:19 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.87K · <a href="https://t.me/IranProxyV2/8244" target="_blank">12:19 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8243 -->
@@ -639,17 +648,17 @@ https://t.me/IranProxyV2/8243?comment=8409
 هرکی 3بار 777 بیاره توجه کنید 3 بار برندس این بار ربات ایدی هارو خیلی دیر میفرسته
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.9K · <a href="https://t.me/IranProxyV2/8243" target="_blank">11:58 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.92K · <a href="https://t.me/IranProxyV2/8243" target="_blank">11:58 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8242 -->
 <p>اکانت خودم 11:16 استارت کردم ایدیشو نداده نمیخام بی عدالتی بشه دیدین یکی ارسال کرد ایدیشو اصلا نفرستاد تو قرعه کشی شرکت داده نشد</p>
-<div class="tg-footer">👁 2.89K · <a href="https://t.me/IranProxyV2/8242" target="_blank">11:47 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.9K · <a href="https://t.me/IranProxyV2/8242" target="_blank">11:47 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8241 -->
 <p>یه قرعه کشی دیگ میکنیم این ایدی هارو خیلی دیر میفرسته به درد نمیخوره</p>
-<div class="tg-footer">👁 2.87K · <a href="https://t.me/IranProxyV2/8241" target="_blank">11:45 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.89K · <a href="https://t.me/IranProxyV2/8241" target="_blank">11:45 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8240 -->
@@ -658,7 +667,7 @@ https://t.me/IranProxyV2/8243?comment=8409
 صبر کنیم
 قرعه کشی دیگ
 🔥</p>
-<div class="tg-footer">👁 2.84K · <a href="https://t.me/IranProxyV2/8240" target="_blank">11:32 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.85K · <a href="https://t.me/IranProxyV2/8240" target="_blank">11:32 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8239 -->
@@ -673,12 +682,12 @@ https://t.me/IranProxyV2/8243?comment=8409
 <div class="tg-message">
 <!-- msg_id: 8237 -->
 <p>۲۸ دقیقه دیگ قرعه کشی میشه</p>
-<div class="tg-footer">👁 2.57K · <a href="https://t.me/IranProxyV2/8237" target="_blank">11:02 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.58K · <a href="https://t.me/IranProxyV2/8237" target="_blank">11:02 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8236 -->
 <p>یه ربات پیدا کردم میتونید ازش گیفت رایگان بگیرید یه گیفت ۵ دلاری داد دوست داشتین استارت کنید ببینید شانس رایگان به شما هم میده یا نه   @FreeStarsGiftAirdropBot</p>
-<div class="tg-footer">👁 2.62K · <a href="https://t.me/IranProxyV2/8236" target="_blank">11:02 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.64K · <a href="https://t.me/IranProxyV2/8236" target="_blank">11:02 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8235 -->
@@ -686,34 +695,34 @@ https://t.me/IranProxyV2/8243?comment=8409
 نسخه ویندوز هپ
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.57K · <a href="https://t.me/IranProxyV2/8235" target="_blank">10:55 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.59K · <a href="https://t.me/IranProxyV2/8235" target="_blank">10:55 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8234 -->
-<p><img src="https://cdn4.telesco.pe/file/MKzMB8nviEv00l5s3AD9dLY5xvm26OY9QGKdsUPy5uURxl1tjL0nzpSPaeQlhmMRm4EzAPzBLCmETaFaZ9EYzY60q74VH1oqSCQ4NWGy3f9uJRofbPbZU1D3sa9o9BxFLjmRCOLH4BDL5hSBRCkBe1pw_qytGTrz9Znu3mV6d7IowAPdeVtciuWFOFCFTug3g2qrTLge5PNcF0T1kudUNfKsg0_NNZy965ztD9fRLqeoHxR4VbUs2OMw3taicakZWCMsFJi0BHWKhEls6Ak2AcQSfOJQOndUZsg7u1KIZyHbk9ayPZSNzzosNFC3amLjpHTsv117hAdOjjG3WkRTdQ.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/sTGlP9OhXdCouGOpwrW--2CBo7UqJfX_hmG9vfwfcWjKucd5sbWgAAJabeTLVBmlYu1TbgGQx3ddtmHV3gTX4PD6sj3ukbCuDkEKZgI7_uitv-sgIwFsbmgn73kS8qAGd3h4HkBMzi1qnfe9_cug4viBb4S7vR9-A82j-LJAjDjdvwGRx_tbE3hf3n0obSkauCbBtSUjn4JvH5qzvWJRE8FcJkhKdkfc1UM6aZDyg-HcpghYLWko1pg_-_XMZdlAk5Mr6Jqpg_JJBCZ9POUWbNdufkYrYBtiEs8INNp0pyuSK_TKA12jYDDTlQ1tEmto644UdbiLpgWLQEbDhTxvlw.jpg" alt="photo"/></p>
 <p>یه ربات پیدا کردم میتونید ازش گیفت رایگان بگیرید یه گیفت ۵ دلاری داد دوست داشتین استارت کنید ببینید شانس رایگان به شما هم میده یا نه   @FreeStarsGiftAirdropBot</p>
-<div class="tg-footer">👁 2.65K · <a href="https://t.me/IranProxyV2/8234" target="_blank">10:52 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.66K · <a href="https://t.me/IranProxyV2/8234" target="_blank">10:52 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8233 -->
 <p>یه ربات پیدا کردم میتونید ازش گیفت رایگان بگیرید یه گیفت ۵ دلاری داد دوست داشتین استارت کنید ببینید شانس رایگان به شما هم میده یا نه
 @FreeStarsGiftAirdropBot</p>
-<div class="tg-footer">👁 2.31K · <a href="https://t.me/IranProxyV2/8233" target="_blank">10:50 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.32K · <a href="https://t.me/IranProxyV2/8233" target="_blank">10:50 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8232 -->
 <p>ویدیویی تو شبکه‌ های مجازی داره وایرال میشه که ادعا میشه علائم  ترسناک پوستی فردی رو که به «هانتا ویروس» مبتلا شده رو نشون‌میده :  کم مشکلات داریم خودمون الان باید دغدغه این ویروس جدیده(هانتا ویروس) هم‌ داشته باشیم؛  @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.72K · <a href="https://t.me/IranProxyV2/8232" target="_blank">10:08 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.76K · <a href="https://t.me/IranProxyV2/8232" target="_blank">10:08 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8231 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/52b47fb12e.mp4?token=HRX1VgxIgLcIq0rqzXaO1CGFKr0XG-ccuAmA56MaVMCu3RCKTYQr_s3lPCQI1KM-9D5eKZrr75KTcWxF7kUYyrd3QTNrWW4fqJd1gEP6qnXFOF880Q1XK8LGvQVz7Y04S7AOeuPcC6vca06iwLJfKzkCICOHA1lYYqoSq5h9HLbiyoyI0_-7KONzDVY33Jzoh54Xqb5qRyL6wTKqKhYzrXJx9K0sfhdTL3_flQkX7niCMB-BejgMn1RhIQs6pPbTH1GJ2hTIrhsvgbfCiGfPYNoMcw62vGs9uFHjVSjPSfqOb3uatCBSQ2OfGKzf1SWE9YgTWl76KHY-r4IjCt6mtA" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/52b47fb12e.mp4?token=rE5Loo_nz2bEfb3VMKU6-eriVm4bhKESfTnM7tE8FZat4_DkEJeufFyfhG63_NFh6tnISSkOf-R3EsLkN0k5mSzLItI4D_w54QDBykDrIwr1SnUzqHfladfPfBb02UZnrx6LNbBksZDmAxn4odWFnRkLKh-ZuEWGJ2uDNoMp7AlhHFzZHay_MF9qetJ0pynUQGqB62i3Bj3xYm9ntzhc7H2iGZHnbPH0rXQ1etYywFe25xn7VPbToyP7SNSzuEZ6NzraIhssdjcKzkXqUINlghPRx7DT-NCyPRpcHAj487oa46vt_5j68QJxxeYtc2WdMEqdInV8JY7PKzv482RevA" target="_blank">دانلود ویدیو</a></p>
 <p>ویدیویی تو شبکه‌ های مجازی داره وایرال میشه که ادعا میشه علائم  ترسناک پوستی فردی رو که به «هانتا ویروس» مبتلا شده رو نشون‌میده :
 کم مشکلات داریم خودمون الان باید دغدغه این ویروس جدیده(هانتا ویروس) هم‌ داشته باشیم؛
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3K · <a href="https://t.me/IranProxyV2/8231" target="_blank">09:56 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.01K · <a href="https://t.me/IranProxyV2/8231" target="_blank">09:56 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8230 -->
@@ -747,13 +756,13 @@ https://t.me/IranProxyV2/8243?comment=8409
 شبکه سه: آمریکع آتش بس رو نقض کرد
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.29K · <a href="https://t.me/IranProxyV2/8227" target="_blank">00:46 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.3K · <a href="https://t.me/IranProxyV2/8227" target="_blank">00:46 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8226 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/f7c91a84ba.mp4?token=GnpWPrwt9Erm3SWAFEASBAz6egq-jOeTQKTxRV2UnPr2gTfxX0Czv9_yWQRGRhFFaDq5xUG7jKwyrJp3qofvQMuKff6jjr7CSjU7p3lC1wG7hkeQSn1P1QSdZ9mqJv9zVQ8JHGJDsAFObfevOL_hg65C9OieXACw4RHaURWOhD0ph7zzu1HurxKh9F7W_mHisPpM38P299-A4-hH_VTu1PQ7_dQUN358ei6_oZHG_Znp8uCgfIs20nCNzQ7cpW6tcUdnI8lhDq1mNEyrqzGJmqYxdQ3kAphHrFJ65Rnc60MM8BptTIh3EfXBv0cC-q9jrS-fMLYxblrvg-Z2Gz7Olg" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/f7c91a84ba.mp4?token=Ah1HOszzEjSMCZuWDG3CA0_OYJnjC2mT5H5qmX7wT9uSmbcpNItqHjMmWj8FNZ6f_5IykmdcYYMSqVD-p06DVff8C3nzNFzm3k38pT2DlMYHoLOALpRwgz4RJ9h8GgMpIojpnz3wUwOGBoHYPGq1cSQFqCIqgCG2SCxrlAeQOxF20YJQyLrzOU1Y4fWSUgr65Z6SBleDLaELI6M4j0KgQsr7vE9iWzB2ALUNnM_bdsRbY4UnGnBQwfgPL1B8xKUlQIvVtVBF0q9IClF3E_h9OwaAAQbA--b6uejBhBO9W_NPeDVvmG5Fw7HRqt5SvQCk5-KiLK6dD_HWH8uRqPwm0w" target="_blank">دانلود ویدیو</a></p>
 <p>اینم وضعیت سرعت سرورها</p>
-<div class="tg-footer">👁 3.37K · <a href="https://t.me/IranProxyV2/8226" target="_blank">00:40 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.38K · <a href="https://t.me/IranProxyV2/8226" target="_blank">00:40 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8225 -->
@@ -765,7 +774,7 @@ https://t.me/IranProxyV2/8243?comment=8409
 ایران هشدار داد به هرگونه تجاوز، پاسخ قاطع خواهد داد!
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.16K · <a href="https://t.me/IranProxyV2/8225" target="_blank">00:39 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.17K · <a href="https://t.me/IranProxyV2/8225" target="_blank">00:39 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8224 -->
@@ -773,7 +782,7 @@ https://t.me/IranProxyV2/8243?comment=8409
 گزارش هایی از انفجار در دبی!
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.21K · <a href="https://t.me/IranProxyV2/8224" target="_blank">00:38 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.22K · <a href="https://t.me/IranProxyV2/8224" target="_blank">00:38 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8223 -->
@@ -782,7 +791,7 @@ https://t.me/IranProxyV2/8243?comment=8409
 سنتکام اعلام کرد؛ ما در حال انجام عملیاتی در جنوب ایران هستیم!!!!!
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.65K · <a href="https://t.me/IranProxyV2/8223" target="_blank">00:22 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.66K · <a href="https://t.me/IranProxyV2/8223" target="_blank">00:22 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8222 -->
@@ -801,23 +810,23 @@ https://t.me/IranProxyV2/8243?comment=8409
 پشیمان خواهند شد
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.56K · <a href="https://t.me/IranProxyV2/8221" target="_blank">23:51 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.57K · <a href="https://t.me/IranProxyV2/8221" target="_blank">23:51 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8220 -->
 <p>میدل ایست : امارات متحده عربی به قشم حمله کرده
 ✅
 با ما اخبار جنگی بروز باشید  @russiamilitery</p>
-<div class="tg-footer">👁 3.41K · <a href="https://t.me/IranProxyV2/8220" target="_blank">22:59 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.42K · <a href="https://t.me/IranProxyV2/8220" target="_blank">22:59 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8218 -->
 <p>بازهم ویروس چینی ویروس جدید هانتا (از منشا موش) در جهان شروع شده و تا کنون به اسرائیل، سوئیس، آرژانتین و هلند رسیده و نکته ترسناک این ویروس، طبق گزارشات درصد مرگ ۴۰ درصدیشه که از هر ۱۰۰ نفر ۴۰ نفرو میکشه  خاستگاه بومی این ویروس نیز کشور چینه...  @RUSSIAPROXYY…</p>
-<div class="tg-footer">👁 3.52K · <a href="https://t.me/IranProxyV2/8218" target="_blank">21:40 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.53K · <a href="https://t.me/IranProxyV2/8218" target="_blank">21:40 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8217 -->
-<p><img src="https://cdn4.telesco.pe/file/uZrJe_fb9Uvew9OXChhfkF_RTNqjsdHcocI2nT4gSzpgBPJ1tp1Fv4OGgPp3_0ZDWOGc0EawB0WGC4LnSWMYyOjv_Q0SAIlDa5QVOQkTkjCbg5askeuW5CcXfNIIiTCAIiuIYJL_SYwu6t18rmGSfeUyHW9-UmIup1kkALnj434_uOAZa1pXhrlpoSNdk8UMURoF3E40_Ts0Vl6svYL049gafGAzQBD6wEwLQfBJ2SKWH66WqgAuziX51SB0xpIBZdOhrUqL4RoE19vkFkiUQvDNaDj75MqxZWjT93jt9OreZgMTf9B6kPWTnZgnkZTqddfQjrNtVvMGQtbyHXoybA.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/NzHwkQ2CW3FvP4REXcs9uvmgEsTlwjWVS_5vhu39M5SjAzVxzBctvkD66jeissjFJDiLUzJPjtxYgy53mOrAkT4KIyKq_sQTI8utq3ElfSuQZr1MsHT8xlOqwlSSaqt7lc_5BAz7OzYGTOjQUW238Qrm0CPE3cjcgOSIGMdjGJdZo0mLFyWjNj0b9Zm-7JrgXok7D5Z9pN8j0smaazhPpRwWFCHV8fCJWGGIKpabuoVqraAaI9gLo7Kv1ZgUM5Pyv8ialZPwyuezc35FKMUbyObBmvSuKHLsL2cGdXQpfVIOanfFK0IvBRFZ9K5vcqAQJKlaHS6xFm0csZ6R5Qu4Ew.jpg" alt="photo"/></p>
 <p>بازهم
 ویروس چینی ویروس جدید هانتا (از منشا موش) در جهان شروع شده و تا کنون به اسرائیل، سوئیس، آرژانتین و هلند رسیده و نکته ترسناک این ویروس، طبق گزارشات درصد مرگ ۴۰ درصدیشه که از هر ۱۰۰ نفر ۴۰ نفرو میکشه
 خاس
@@ -835,12 +844,12 @@ https://t.me/IranProxyV2/8243?comment=8409
 </div>
 <div class="tg-message">
 <!-- msg_id: 8215 -->
-<p><img src="https://cdn4.telesco.pe/file/IqtOpWXEr08QcVCUIsnL87ZPO91wcZlVWtucNIwNbTHN7oVBQGC5ab-n5OvwV-e2lZqADCYkLbzj5p0AwsLfWAzWti4svKnUcMfPdT-36rMvqMcrJz2R6PRFInJ4OgvFeQvVyb_oVaw9UCYVDrUCMevCOZuujuX7eyZpUMgX3Bp9MDzmHhg9gHE1lgfjlnty_2crUxMu7jD4BP7bzQZBAghC43d0ClJsC9f3A43olFU69Vjgr7oP-Du9AZgWbzxW_xnIkuyjoIss50r5MITu0jvs53CPQ3UqO4zrhDwp54UN-ACQ6DP-GiwclG5nGpKUEGGctzpDEl0rMCiK93fPGQ.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/jgvbTnUMyd6NSrMKMxSeKX_YuI2Q2EOKVB37TrsQwDBopRfF-Mzp2Hy-MQdfK92sLvhlcCs9O5pMM0-3rXxeVZ_HWG04xlHi9O0_UZYSTgOkf6Mc7vqqUq1V8Ll8zn6PSs_RQ2P21XV3F8VVPTSdkX42IsVsxy5NwDxM_sUPAd6PXQtVK3ON3f4Rk9fgFJwI6C3eS3IRglem1PtsJjc_d01UQGmHbRrZN31RWWzsVqd_tu_J4MWuTTk_SmLtGEz_Bt0EteaQEQ8UUkmVNk3V5fSih61Qvr9hlZ9zwcBn5S_lR6rSUS3c1FakZXH7E3Q5B27Meiis65NRlj2QRQsrCw.jpg" alt="photo"/></p>
 <p>سازمان بهداشت جهانی اعلام کرد که تاکنون ۵ مورد ابتلا به هانتاویروس تایید شده است.
 پزشکان اروپایی هشدار دادن که اگر جلوی سرایت این ویروس به سرتاسر دنیا گرفته نشه، با یه‌چیزی فاجعه‌تر از کرونا روبرو می‌شیم!
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.14K · <a href="https://t.me/IranProxyV2/8215" target="_blank">20:31 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.15K · <a href="https://t.me/IranProxyV2/8215" target="_blank">20:31 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8214 -->
@@ -848,7 +857,7 @@ https://t.me/IranProxyV2/8243?comment=8409
 انتظار می‌رود ایران پاسخ خود را به پیشنهاد ۱۴ بندی آمریکا از طریق میانجی‌ها تا پایان امروز ارائه دهد.
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.88K · <a href="https://t.me/IranProxyV2/8214" target="_blank">19:40 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.89K · <a href="https://t.me/IranProxyV2/8214" target="_blank">19:40 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8213 -->
@@ -866,19 +875,19 @@ https://t.me/IranProxyV2/8243?comment=8409
 </div>
 <div class="tg-message">
 <!-- msg_id: 8211 -->
-<p><img src="https://cdn4.telesco.pe/file/NfbkdbL4Oe_nwlr3DRpMX-e0KZ61kiJUf_-396T2_7ThRKrxemniWlB7V8IMUoTEthYZA7BzWSGG0AUBSSuWgkND7yw4LEpLQ8fVw8Oj1wNqPU0AW2PaiKLakUKKdrf8HHgcO8Q_HaKAv1k4-LbHkI1M8yNiEaBsnZUIi1Ar9deAzZwPvMt1LCtjbEhldquYM-qe3sXVUsw1uK7tQBigqMQV-6Y-6KUIg62whV_QZsbrfpAVuRKa1GmLBgkrK16x5rfwkMaeZwKrF6q2YF1wX-4JBJH_yrQUvDapMe_v7Opebh7Pg3tKDIHFFloJA4tJCP641HruQaM-ILQSAwgXfA.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/T8Kjb5453waMkzLH1qMYMtfIA1Fwoua8Yk8lfPIXMU-A5_HdfLaClinUvdgY8H-5D4hB_1F611Gpyzdox5tNVNlsDkKTMdvGl-rP26bAKUI_zq0z9mnJC7L-BzFVrmeh9_UWfbJTvKolLfM67qk68VWxjKEWNiLTKfdcdfMOZV70zRfdR79w7kWw18heahvFbdDxIAK4AtJaxMrmvr_5WTZ0gspT37b2gMTWZFpJQ8SlcxLpHEbXN6f5XGkzQeQA_6lHCloN9LcoocN3DTK96PB_YN463OpHHuUf8IgSV_VwiGBImL3R8dF9El5wm_QCvKap3UjUZ9vFNOZHJ2YXPg.jpg" alt="photo"/></p>
 <p>آدم میمونه بخنده یا گریه کنه؛ یارو یه ساعت اکسپلور گردی کرده فیلمشو گذاشته تا اونایی که توانایی خرید VPN و کانفیگ ندارن نگاه کنن
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.18K · <a href="https://t.me/IranProxyV2/8211" target="_blank">19:08 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.19K · <a href="https://t.me/IranProxyV2/8211" target="_blank">19:08 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8210 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/eef81b4529.mp4?token=I3pNtQsR-p09cIfDpueoyoGhIxbiECX6yEKm8fsr9ymePoSxkDchs4TR3jq3B8Y-Ra5Feacxenu38InUtdYGDNTmg_nZwlJybs6pItIGm_tRTx-kb8cbw5ujhQGPZjrQgQlSIRcPlwhBJSWMKbhvIMZRqSAXNuC9TNOHKXBYWyOxcMPZ6wOu5qy0UvMSmLOmGRgs3uAtLaAwoOSaQ8_ZKitD4GQQ-_cz7zVf-shROnsBmX9ZOcFcQ4gBC9SAzbS2tkfMGgOWv2VHcNmzXUpnR5LRlpWPxWulmnWRwAWbP1Kq5lzJ3bX-Ej6fWLNhmUxLfGAeJI0dLLsAFgUp9AUY2Q" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/eef81b4529.mp4?token=kJqXr3Dn_5PBYC2lKtSOrUKsZiTvFso318GhIEa38jDpIDHhyS7Gxxlk9IoHfUVvacKZXLNvhTTv-57XyY71_kcSZiopYqjxLONfkUMe78y7LViVwS8gRE68WSdOvPP1W-dn0kGWijCh0xbRHeN8hdKIQ3yZ-hWI2RV-x88TbhIekQwHBLfob6aV6RCGXMPIOm-nbycseWrFdsQa7OPYdejoIiqJ1fSK5g-ZcqMfUtVpeJptMU_3iynTCGOeE2ucKMJ0jtbtw0-agLdnftpUMBkeQbUUqYxzTFP--tlkRx6xi0nDY7wSibtgWI3M2cPmgqyACpWbeq3JzNxd_eqtNQ" target="_blank">دانلود ویدیو</a></p>
 <p>طبقه اشراف و طبقه رعایا!
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.7K · <a href="https://t.me/IranProxyV2/8210" target="_blank">17:06 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.71K · <a href="https://t.me/IranProxyV2/8210" target="_blank">17:06 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8209 -->
@@ -887,11 +896,11 @@ https://t.me/IranProxyV2/8243?comment=8409
 ✅
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 2.77K · <a href="https://t.me/IranProxyV2/8209" target="_blank">16:23 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.78K · <a href="https://t.me/IranProxyV2/8209" target="_blank">16:23 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8208 -->
-<p><img src="https://cdn4.telesco.pe/file/HfzCwYDyt4ukyrfAhFgXkF-T7ZOiv63IwDvhMzdiUGy2jSxyNP6bsaBQB4N4IwxX0NVq5Gh_u9N3OH7vW33rFgewnvVW0KN8YjOMbo0H5BB4Bw-yS8nXERcFo92QgF_vVYokc9A0Cc9XViFpx-PWoHzD_j8K3lfeaiAkqlfkZuU5n2u96xN803jfTVjCXrHONmtEBqYWiONOvIFhpCPymtMEePt4FwXDMP1NPZ68Uror2STfO5qvwVTWiYdu9-fvqkjXhHz2PU_QUKDRt8nMG82ADYEsZZ-z7Wddom9rsChzlatbwRzDht8TYqrgHoneaMeZOj5pM6azkh443qASaQ.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/Ccd_7NJiicifHFlXTek4R9J-NhD1Bxl0DrIZvte9OyFT5A0EDl-2K4mrJEyJ7pG5cmy_kC-Jb3xEuBHbwrrGWuGRN0PMmaH2XEdlBNkj4TEDKaKMVElQMaaidYSGWtkndo1_8cawhKe7IVW2eJ7LKmtmHZ4fuxT_WjXzIbI4wgoepsYYf3Wz2DRiCAq0fVkgVwr-Zf-TvzazqWCTHjEvKfFVUsifNBGAzREuMNw1bZ5KLz7m8sKwf9W_qcQH3pIZxKsjQS1V1ah-ofeZgsVTIbxpUugvhmh-zSx_2uOC9Ze8knlYcRo6Dp9tEeFt79weTess_LaFARgabHz3e7j7jA.jpg" alt="photo"/></p>
 <p>🪙
 ارز TON تلگرام داره یه کله میره بالا!
 🔸
@@ -900,27 +909,27 @@ https://t.me/IranProxyV2/8243?comment=8409
 علاوه بر این دوروف از کاهش شدید کارمزد های شبکه تون هم خبر داد. هزینه تراکنش‌های این شبکه حدود ۶ برابر کمتر شده و تقریباً به صفر رسیده. طبق اعلام تیم TON، خیلی از تراکنش‌ها در آینده ممکنه کاملاً بدون کارمزد شن.
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.11K · <a href="https://t.me/IranProxyV2/8208" target="_blank">16:17 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.13K · <a href="https://t.me/IranProxyV2/8208" target="_blank">16:17 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8207 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/2be806eef3.mp4?token=kYSohrfMkzR18zGZt1eQMRARLEzY89f85g5X4aP4BpMSbDu_zioCv634YNZrE3CsEJY76mIuytCRvrL29PIgSUTYmbk7ZK5X6bvoeMav0m9k16bbt3D3az8CJyjVhsMb5B-mZDaZZvBHEeyqkuKVLWrFQMLNbvCQvp-KQGL3ponWWlW0ECyvSYfYkhjzEafEXMP6JqOlsQTUSB8SzmUHQl2OxrP01LXcguvYtpx1hLDCJnyBxIPKYsUaNRy7D5rWNcBJ2_8yJgYiAD5VqKTUClcIAjQiplalZ4JULI4Uh3zgloKgf479tuggWBYz0GZYxUdz4ztr4Kw4HRRPuJgawGWqCabV4cDb50EEob2_eT_kJuzDRTcmhbWq7BG7nukfpmoPEt0IejvicTPUkYfAxBk9aCQQDofDYTb4qA7u60Scu73jrJHNxQWYP716b6vO00J2nR5v72_hJGKM_DMxv9hdsiR3SV5tFwFnS27aCrJp7AjTBdl6UD-2-8nWdVJ7DpesF3ylZFbp7gz8sqX3nORw7HXpVjD3WlDOstnzxEzTh-iMXr9xGIW4IXlrdjzsKAW2IAO9jFlpYtoUGMG389gSA0eaQIpDB8ZO9lZWUAOe91DmQYMTKstfmZNX4jCnnGes_Pw8mykfj24Obm6_PKpCVZsJLI-4fDHlYskNfaA" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/2be806eef3.mp4?token=LTN0rIOR9xWiOAnoZF_7ILdVUtC87s3J6oPnNdo0YAAvoOn8MDv-OrLhhZLKTxukSSnxkb7lZxZXxTJdeg3-nFDd8JtmAtiDbyrZeWPguyOZK78pRDynacDjCcQ2-ZBJ6mbSREEUrELwFXY_7hHPv5F9H6apq8BVAm_irqCTkkHkge6XPFz34gDKgLnFit6RKxKAStCVadMZCL19nBfgLRNdmnvD-7go6DGJLf67MhwbJXUlpcy0H9SyEJbElYcgbBHQfLB7Mp-whm48s-98AgViLdqDPgpF7ziETIEgVYZB1CqMHR6QbhLPEtuX1T4H-R5UIbEKbBFJatxDqmPzJbrrGrnETIktfE_kMnQ9dSjFd5YKwtEwoaGwAv5GSlchzFyKtMIbd_P1vqOP4AIkbWJlDUIICqCJ13-NCKWsQ8xBCSbmEMg9XwWROK3uSelP6l8GiBzs7og6_GhvdX2lKMj7yYTO0rE1Ss1MdHkdSXhWJf8bk2Jp3L4JdOKZGw76L5SSSPbSL0m8UBU9IFmYemLGyMP7yn5A9J1QIwB0TX9W8OLfhQ8bVgjNPZQEW--ve_ah2TiAwKDCY073pnzmQkBT-g3EnGrqBHfGL0PU2aDKdW3F-nFSDBr9y6Bdt38qhsmuEqpltbnD207F13cBscm7-h0RVvrEMMJ3pt4eD1w" target="_blank">دانلود ویدیو</a></p>
 <p>تست سرعت کانفیگ ها
 @RUSSIAPROXYY_Bot</p>
-<div class="tg-footer">👁 8.39K · <a href="https://t.me/IranProxyV2/8207" target="_blank">15:48 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 8.4K · <a href="https://t.me/IranProxyV2/8207" target="_blank">15:48 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8206 -->
-<p><img src="https://cdn4.telesco.pe/file/vvewqEMZcSWz8jSeaiAQkarBbcxX_LN5Yx26fOlH_oxNjcrGPGqhTPRvmZ3V3FPaQRE5U5Sq19MhCAJGq4KFRNeuv9XkQ2obF__bb9DaSYsIw_ZbaBEzdSwG_hbHtDV-POKusnZxwSzKDC1mv5XbZDN-rXX5RgKQKXIcp_AxTj6fSD1NFtH1SnF6qiYoFHsKhNMQD0pQo9amNfaGz4FHp0Nva6T_SpbWy7XF4tAQ1Ii61RidLcWNK_ah1cIzd0KCK8stAeEJpYIpdJnLmQX3EzRazGcxwHF7tGVGLbufFzY7dzABs_oD_a4Pj3_zalEB3GHFXxQw_AWfDPwonNlZ6Q.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/Jp_0okLpPBYXusmmOCSDZjU9x_k2jxl1wH4YU9T8GsEMZL_CqV6LL9aAVjOWGSXlIuDpg-k0rHayVSMdTJqtpsYp_UUFccrzMzaoQ9rTjpjAkpiW80En-CCT75_6_KbXhdCJkvNiG1VpnHYB1t3Vqw5WSo8WCO_jphxmgpOABtNRdqKn3pGf6fOIIDEqHjnwNT4MnlqvGl-cHiaQ1Aex8-vXWu7198UoA3EzxZmnTNHJ4HThaAFwtL67tjhaUdmrgG7Yfkf3iaKzzv85C7bnzLa8USHKXsVrY-RNj-v8T1yZZuEuX84gVzOTOZwQW6IMmM397uqvp4LTBYUpC9_9Sg.jpg" alt="photo"/></p>
 <p>یک لیتر بنزین در اروپا : 2 یورو
 یک گیگ اینترنت در ایران : 4 یورو
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.43K · <a href="https://t.me/IranProxyV2/8206" target="_blank">10:54 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.44K · <a href="https://t.me/IranProxyV2/8206" target="_blank">10:54 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8205 -->
-<p><img src="https://cdn1.telesco.pe/file/rr48tNKn-w8haIcz8-qOrrVRNw_pBpgPMJYzzI5BnIvjpyrdoCTDZ2X1-qgeMlo2b2lgzBYE54h2XCCgXzLuvPuZwVPYn6kHULVEJCWKlM9-DOwAHfU-CO9mSHVjlcJJ0s5jTAWDsP3SHsDfsEjv4qvhQMbsFhQsaifQTQvbHB1Kx9kv16C19HNZQjm9Pio9u52b50VxwinB-K4qY5Jy6IomMMuI8E2kElScz_ns-xEDBXqR9Coq_1mD9EhR0G-agkSWC5Tp7IKsM0ltzbAQU71_PyWNXb48DygHKqeZhz1xa-M3hyiS8Sexr-9phtmUnADak0b82pehX9jVbaQhsQ.jpg" alt="photo"/></p>
+<p><img src="https://cdn1.telesco.pe/file/GBkR3yUKFPNNvPHoFHpS-47JM7qAdtlVGWugJlcPGqIPX6gtnphYNGyqSfDVVt9z3HJwoWV5U7rmIgHfFmrxivAE_lKfT3ALF9dLLW2quMAqzmyBtPz_LHUthR83t3jnIxwXLYl45AhqtNJWqs4MGm2aEl7cviZEY8Z9SPSSB8aEwOq6XKatVjjxfCz0wEpLxllq_-iSgoSYmHKfqXUIZs3wvNK9PHaR0CkT1KRbzJC7oOMNjKvW17OSjh-1Hw0zpS7j_RToycLHMI1fjvGbBuk4rrZGEEgFExBtQEwcq4KghtIzWOPRGWV0I0l3alPIRWVhwKKLlb9kkrJ0UG5JnA.jpg" alt="photo"/></p>
 <p>⭕️
 ترامپ نموداری را منتشر کرد که در آن به مقایسه مدت‌زمان جنگ‌های ایالات متحده پرداخته و تأکید کرده که «عملیات علیه ایران» تنها شش هفته به طول انجامید. وی ضمن اشاره به این موضوع گفته: «وای، لطفاً این نمودار را بررسی نمایید.»
 @RUSSIAPROXYY
@@ -929,12 +938,12 @@ https://t.me/IranProxyV2/8243?comment=8409
 </div>
 <div class="tg-message">
 <!-- msg_id: 8204 -->
-<p><img src="https://cdn4.telesco.pe/file/OaPRpH729oC6EvwtdTVNka3a7YFudjbxI5OTD7Eev3NgTW3B12DxzQ8gtW_kL7-zlt6aXE1ehm8D3UpchjjPidl_LiLcNUbEkVNR9USrHniM5pzXb45Z5HUaWqsysPj6E2W9mA122_AOnkhBcaQ1mHPttupG3qDDZCgdVn5M98osmJoAntKKth_a1ErUxC4cXTUdRMvihY2W2k-en3-cQqJBWaw-0K6rcZD_YIt2cWJVppxR-TJQclJizy4F38UpsEV6oroxqkf0zxI9HqqNaRKMZEv0Fe_Hpk3qWgJALlSZY281OMhEyIAQOfSxTxMSSERKNG6zUTWtSrX2ODcCcA.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/H329265OQfbF9bDo4y4iKLsU3ivNR7caxadNlJVOSnkx4uwlGmZhgvnANeMTsDJavOZ4IbNANCksVL0E7dEMFx1gX6TS9buZm7BGpWnjAnxlN106c9_0YlkeNiy72EaMC7G3PqBnE8rnhZn_iOei5cHGy8C1bodNbZgHCOFHj6PzDw5Ppl53BW_KENxrocDLEwmfuxS92jr3lau9APyDKa3Zxr7CN4Km2y2k60uJC7gT1pUMspnsGtFAnproecyh_K95UILlX99rox80TQItXPQvu-fiUukPq9rZO-VyZhZ4E8InVHLDjA5L4sPufYvWB04NiJ4jDUpqiECF4-wRvQ.jpg" alt="photo"/></p>
 <p>🔴
 تیم اصلی ملی ایران که برای آمادگی جام جهانی که نتونست بازی تدارکی ببینه با تیمای کشورای دیگه امروز تصمیم گرفت با تیم ب ملی ایران بازی کنه که ۳ به ۱ باخت
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.74K · <a href="https://t.me/IranProxyV2/8204" target="_blank">22:27 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.75K · <a href="https://t.me/IranProxyV2/8204" target="_blank">22:27 · 16 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8203 -->
@@ -948,12 +957,12 @@ https://t.me/IranProxyV2/8243?comment=8409
 </div>
 <div class="tg-message">
 <!-- msg_id: 8202 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/0a9a40773d.mp4?token=YGd_i9Q2v653sEd2L_KCGeEUo0pGl0-qeBxowvlCKTlhwy_VvN2kibpJe7gyiuUpADqdGIgrJjfsRP1FaM4UtYjKTRRDtjFjYN_C2Bu_s3bNPdlUt6cgBF0dxvQOnYNsa462pyqRV5IeKEtbHyS3FqkU-jTGDoHDAKWRx7CxBbYWlOfRDgm8ZQbUYYVlwucU0E8FGCfIzwOH2l7fdygECUZ3mlHeZ43Vz0daFhqWdD9Q5HKH0NrHeg6iYVPLRrp-IUZ_nYcjjUJpSa6p-rj5nWxrLxDAF6wKuGZdsMmvIEmIhg_pdtYsl9gVlGeztHMYLJYM25aeDYA4FaHyvaj6-A" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/0a9a40773d.mp4?token=mCzoCkGtFDOXMZBGqW0I9xgpjlHNSbaGZzTAfnlnf4vyQDJddReqqHpxXjVr0CwQeECOWZndAJCF2hh2cu_wXKgMCNatvCc_T0ENKM5BdRNYPpDsRFx99Ech1zkDC-YLEvWgfHLX5RNFerW0aOIgXYFGXQr7I2MdkVdmj0Otw9hkL3NXgf7wY8vdfhsCD1lF_Jw7rR9KCrfgRnM3VScwkWoUuA-AzqttzWUn5Ty_6DaEQCs8HzOWvYNo8CuvrJvhSuGWTGqCktTHvjcKQKKik6z6eEN-Sg5ckNQqVZvYBo75eL4VycsMCybAAiD_RBYUC9u6NBYQF_UtSFVDMR-orA" target="_blank">دانلود ویدیو</a></p>
 <p>ترامپ : اگه الان قبول نکنن، خیلی زود یه جوری می‌کنیم که خودشون بیان قبول کنن
 دورشون یه “دیوار فولادی” کشیدیم
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.86K · <a href="https://t.me/IranProxyV2/8202" target="_blank">20:43 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.87K · <a href="https://t.me/IranProxyV2/8202" target="_blank">20:43 · 16 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8201 -->
@@ -968,21 +977,14 @@ https://t.me/IranProxyV2/8243?comment=8409
 <!-- msg_id: 8200 -->
 <p>سرعت های کانفیگ ۵گیگ همین الان   @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 3.88K · <a href="https://t.me/IranProxyV2/8200" target="_blank">14:10 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.89K · <a href="https://t.me/IranProxyV2/8200" target="_blank">14:10 · 16 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 8199 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/41be3f7761.mp4?token=PU4UFA6npq5csc3NM30EiijOOvepRKSvEdPNxuoAWYX19cRDS_h4QhkzWkmMkxlZgphWKD8XOrSYj0gI0gWYzH2woL0GpQJ6mJNZ04YfIrfW24dWV9riWaIXg2cXrbGicYcopo8wG0AkpO_Sf6YQF8217NnoHqdJ8cTO7nzW-uvxBXTG9oebT_WDrNbORW2dWLt0VOZEBxlFBvPiZgFnqq6FPSGPrdtuB-n-YeUgFtN9Lu8eW1oRcbQN1PgLyNkDZAmBDmaOPe1JY4RKzqU4i0kWzokAszOXABVNOO_GMbJC7Hbj912ct_7lWiSV5xFjE6fpQ-gC0wYQiWIku42cNA" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/41be3f7761.mp4?token=gBMDDXcGmfq0qgF5ybsWKg9yMXAzBhtgu2eBXJ_H8MMsvBsISVhv9G_-2QmZAvJ_nCvSbdph_ueHRyfiEzNcWH2OaCtDPBHMdSD2QBh5XGNUI9eE_ijpWq0e_MIwgN2Bj0FnfMHUtP0YIP85ZCtZRwmP-bvDU-tEB0emkmovwChQFsfFxDzgmk4uoiAcFYkmLG3htL8eHR_jIyb270DXrVMHr3LmHj2dkZyIXWQcMp2nFgjG1vIPzdQv4k4fxx6J944ZYDEB8fLYqhDF1sQVYSSJDVQnXv-AzLlDsyAGEw9ctEvAsuzZ9MWQ_gyT-17A954RFU5rgx733KD2wNJDwg" target="_blank">دانلود ویدیو</a></p>
 <p>سرعت های کانفیگ ۵گیگ همین الان
 @RUSSIAPROXYY
 🇷🇺</p>
-<div class="tg-footer">👁 8.74K · <a href="https://t.me/IranProxyV2/8199" target="_blank">13:48 · 16 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 8198 -->
-<p>حالا این اینترنت پرو چرا گرون‌تره؟ اگر شما به این نتیجه رسیدید که یک سری افراد و کسب‌وکارها اینترنت بین‌الملل براشون ضروریه چرا گرونتر میدید؟ خب با همون قیمت اینترنت قبل بهشون بدید دیگه.
-@RUSSIAPROXYY
-🇷🇺</p>
-<div class="tg-footer">👁 4.2K · <a href="https://t.me/IranProxyV2/8198" target="_blank">10:15 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 8.75K · <a href="https://t.me/IranProxyV2/8199" target="_blank">13:48 · 16 Ordibehesht 1405</a></div>
 </div>
 </div>
