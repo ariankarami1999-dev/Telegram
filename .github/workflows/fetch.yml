@@ -8,7 +8,7 @@ on:
         required: false
         type: string
       count:
-        description: 'تعداد پیام برای کانال جدید (حداکثر 200) - فقط در صورت پر کردن فیلد channel معنی دارد'
+        description: 'تعداد پیام (فقط در صورت افزودن کانال جدید معنی دارد)'
         required: false
         type: string
   schedule:
@@ -54,7 +54,7 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "🔄 بروزرسانی کانال‌ها در $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git commit -m "🔄 بروزرسانی کامل کانال‌ها در $(date -u '+%Y-%m-%d %H:%M') UTC"
           for i in 1 2 3; do
             echo "Push attempt $i"
             if git push; then
