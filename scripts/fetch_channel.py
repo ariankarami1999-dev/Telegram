@@ -18,7 +18,7 @@ HEADERS = {
 }
 
 TEHRAN_OFFSET = timedelta(hours=3, minutes=30)
-DEFAULT_LIMIT = 100  # تعداد پیام پیش‌فرض برای دریافت (در بروزرسانی کامل)
+DEFAULT_LIMIT = 100      # تعداد پیش‌فرض پیام برای بروزرسانی کامل (می‌توانید به ۳۰۰ تغییر دهید)
 
 def utc_to_tehran(dt_utc: datetime) -> datetime:
     return dt_utc + TEHRAN_OFFSET
@@ -26,7 +26,7 @@ def utc_to_tehran(dt_utc: datetime) -> datetime:
 def to_jalali_str(dt_utc: datetime) -> str:
     dt_tehran = utc_to_tehran(dt_utc)
     jd = jdatetime.datetime.fromgregorian(datetime=dt_tehran)
-    return jd.strftime("%H:%M · %d %B %Y")
+    return jd.strftime("%H:%M · %d %B %Y")  # مثال: ۱۴:۳۰ · ۲۲ اردیبهشت ۱۴۰۴
 
 def parse_message(el) -> Dict[str, Any]:
     msg = {}
@@ -98,11 +98,14 @@ def parse_message(el) -> Dict[str, Any]:
     return msg
 
 def fetch_channel_full(channel: str, limit: int) -> tuple[List[Dict], Dict]:
-    """دریافت کامل آخرین 'limit' پیام از کانال (بدون افزایشی)"""
+    """
+    دریافت آخرین 'limit' پیام از کانال (از جدیدترین به قدیمی‌ترین)
+    با استفاده از pagination صحیح
+    """
     messages = []
     channel_info = {"name": channel, "title": "", "description": "", "avatar": "", "members": ""}
     base_url = f"https://t.me/s/{channel}"
-    before = None
+    before = None  # برای صفحه اول
 
     print(f"[+] Fetching @{channel} (full fetch, limit={limit})")
 
@@ -117,6 +120,7 @@ def fetch_channel_full(channel: str, limit: int) -> tuple[List[Dict], Dict]:
 
         soup = BeautifulSoup(resp.text, "lxml")
 
+        # اطلاعات کانال فقط در صفحه اول
         if before is None:
             try:
                 title_el = soup.select_one(".tgme_channel_info_header_title")
@@ -135,8 +139,10 @@ def fetch_channel_full(channel: str, limit: int) -> tuple[List[Dict], Dict]:
             except Exception as e:
                 print(f"    [!] Could not parse channel info: {e}")
 
+        # گرفتن تمام پیام‌های این صفحه
         bubbles = soup.select(".tgme_widget_message_wrap")
         if not bubbles:
+            print("    [!] No messages found on page")
             break
 
         page_msgs = []
@@ -148,18 +154,24 @@ def fetch_channel_full(channel: str, limit: int) -> tuple[List[Dict], Dict]:
         if not page_msgs:
             break
 
-        # پیام‌های صفحه را معکوس می‌کنیم (جدیدترین اول)
+        # ترتیب DOM: ابتدا قدیمی‌ترین، انتها جدیدترین. برای اینکه جدیدترین اول بیاید، معکوس می‌کنیم
         page_msgs.reverse()
-        messages = page_msgs + messages
+        messages.extend(page_msgs)
 
+        # تعیین 'before' برای صفحه بعدی (قدیمی‌تر از کوچکترین id در این صفحه)
         ids = [m["id_num"] for m in page_msgs if m["id_num"]]
         if not ids:
             break
-        before = min(ids) - 1
+        # برای رفتن به صفحه‌ی قدیمی‌تر، مقدار before = کوچکترین id (قدیمی‌ترین پیام این صفحه)
+        before = min(ids)
+        print(f"    → Next before: {before}")
 
         time.sleep(0.8)
 
-    messages = messages[-limit:]
+    # اگر بیشتر از limit پیام گرفته شده، فقط limit تای آخر (جدیدترین‌ها) را نگه دار
+    if len(messages) > limit:
+        messages = messages[-limit:]
+
     print(f"    ✓ fetched {len(messages)} messages")
     return messages, channel_info
 
@@ -235,7 +247,6 @@ img {
 
     for m in messages:
         output += '<div class="tg-message">\n'
-        # اضافه کردن msg_id به صورت مخفی برای استفاده احتمالی بعدی
         output += f'<!-- msg_id: {m["id_num"]} -->\n'
         if m.get("forwarded_from"):
             output += f'<blockquote>↪ فوروارد از: <strong>{m["forwarded_from"]}</strong></blockquote>\n'
@@ -279,16 +290,16 @@ def update_channels_list(new_channel: str):
         with list_file.open("a", encoding="utf-8") as f:
             f.write(f"{new_channel}\n")
         print(f"[+] Added {new_channel} to channels list")
+    else:
+        print(f"[*] {new_channel} already in channels list")
 
 def build_index_markdown(channels_dir: Path, active_channels: set, fetch_time_str: str):
-    """بازسازی فایل README.md داخل پوشه channels"""
     if not active_channels:
         return
     lines = ["# 📡 لیست کانال‌های آینه شده", "", "| کانال | آخرین بروزرسانی |", "|-------|----------------|"]
     for ch in sorted(active_channels):
         md_file = channels_dir / f"{ch}.md"
         if md_file.exists():
-            # زمان آخرین بروزرسانی همان fetch_time_str است (برای یکسان بودن تمام)
             lines.append(f"| [@{ch}](./{ch}.md) | {fetch_time_str} |")
         else:
             lines.append(f"| @{ch} | ❌ هنوز گرفته نشده |")
@@ -309,13 +320,11 @@ def main():
     channels_dir = Path("channels")
     channels_dir.mkdir(exist_ok=True)
 
-    # اگر کانال دستی داده شده و count هم دارد ==> اضافه کردن کانال جدید (بدون پاک کردن بقیه)
+    # حالت افزودن کانال جدید (با پر کردن channel و count)
     if manual_channel and manual_count:
         print("[*] Mode: Add new channel with specific count")
         limit = max(10, min(int(manual_count), 200))
-        # فقط فایل آن کانال را بازنویسی می‌کنیم، بقیه را پاک نمی‌کنیم
         update_channels_list(manual_channel)
-        # دریافت کامل
         messages, info = fetch_channel_full(manual_channel, limit)
         if messages:
             md_content = render_markdown(messages, info, manual_channel, fetch_time_str)
@@ -330,10 +339,10 @@ def main():
         print("[✅] Done")
         return
 
-    # در غیر این صورت: بروزرسانی کامل همه کانال‌ها (پاک کردن پوشه channels و از نو گرفتن)
+    # حالت بروزرسانی کامل همه کانال‌ها (پاک کردن پوشه channels و دریافت از نو)
     print("[*] Mode: Full refresh of all channels (cleaning channels folder)")
 
-    # پاک کردن پوشه channels (به جز خود پوشه)
+    # پاک کردن پوشه channels
     if channels_dir.exists():
         for item in channels_dir.iterdir():
             if item.is_file():
@@ -352,7 +361,7 @@ def main():
         print("[!] channels.txt is empty.")
         sys.exit(0)
 
-    # برای هر کانال، دریافت کامل با تعداد DEFAULT_LIMIT
+    # برای هر کانال، دریافت کامل با DEFAULT_LIMIT
     for ch in channels:
         print("\n" + "="*50)
         try:
