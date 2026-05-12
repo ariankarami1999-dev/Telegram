@@ -53,12 +53,112 @@ img {
 <div class="tg-header">
 <img src="https://cdn4.telesco.pe/file/ixB6tXTcshTlCqs4McarC_Rmhfddiydd0Q1juglucSNN_ydlp1lvI9kLiFTk4vcojOAuWMJETlaJhqCGB7hdeqFKybqyCIjGW43mBUrLqTndHWY_Gx3f-mMcAL1t6ldvJkd1gZAHvndG1qy5020J5vLXYmsH20B3tUGhsHhgUxEU3wc5w1KjDfXZu_ShhDuZMRmzXtqBODPGhqhE8d41r2D9Kw-Hv47I7xzue347dBqFt4HG_G5hPmIE5GNZIwAXMHCctSyhXUVflglbLcFkTOqwYaWGw_g21PVXrdASQnAeAj69g6BwvNGbk6KpT8Jwuw4st_DDsD24aQkR5KoMvQ.jpg" class="tg-avatar"/><br/>
 <h1>📡 خبرفوری</h1>
-<p><strong>@akhbarefori</strong> · 👥 3.86M عضو</p>
+<p><strong>@akhbarefori</strong> · 👥 3.89M عضو</p>
 <p><em>﷽تبلیغ درکانال خبرفوری@ads_foriارتباط مستقیم با ادمین تبلیغ@newsadminجهت رزرو تبلیغ تماس بگیرید. 09018373801؛ارتباط با ما@Ertebat_baforii</em></p>
-<p>🕐 آخرین بروزرسانی: <code>1405-02-22 02:16:28</code></p>
+<p>🕐 آخرین بروزرسانی: <code>1405-02-22 05:40:16</code></p>
 <p><a href="https://t.me/akhbarefori" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
+<div class="tg-message">
+<!-- msg_id: 651861 -->
+<p>♦️
+مقام حماس: جنایات اسرائیل در غزه هنوز ادامه دارد
+🔹
+«طاهر النونو» مشاور رسانه‌ای رئیس دفتر سیاسی حماس شامگاه دوشنبه گفت که اشغالگران به تاکتیک‌های کشتار و گرسنگی در نوار غزه ادامه می‌دهند که ادامه جنگ در مقیاس کوچکتر است.
+🇮🇷
+✊
+@AkhbareFori</p>
+<div class="tg-footer">👁 646 · <a href="https://t.me/akhbarefori/651861" target="_blank">05:10 · 22 Ordibehesht 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 651860 -->
+<p>🎬 <a href="https://cdn4.telesco.pe/file/5dfc83be7d.mp4?token=StABE6TkrXLsdjT0zGwPOUACqzcyNlqU1vDljdBamcyKmmgMGt1Oy0s8-GDj0MO4wIpytrYdh0roKYMUkrM-8rbQULsnrKjDem36VdxvlXsV_zorNMcvVM8kV6sB2Cv6rRwu0-ZtAGwXpBtDbNKj6g2rPRq3n9p9WuWB_-8zOQWWr36-BsVuTO1B3iNyQmKvH8muVVeBiUQCBL0Q_Z7omfJCENDVevJBHzb2HdkzpaVHCZKnFLoFX-xWrRrYxNxlZwtT1_3fs4JjYScV9Zg3xoA4UbTGhSBAlZju1J-XDK9mK4M5SKcTC-wje0mX3h_kos1k8eQE_hIrOx2myYlFj1oHXIHy6rmWit8IiHaV2eowzvKwwPGcz1qyfBGVdvFhsXgf6B7ivHhzX4KiF2uc1OC4L8X-DsB-C3I9JWCCrQf0Pu91HHXiZ4rVQfQ5KW-FiufVagWxUJzGHB7nSP0lRrqNd5QyfnLUQi6L8Tle287i0aZBlDG3DUhBwkMh9aH9_omSI5u3x9Agg1_ethaVqEB-kKrbjjmB1nd1dkLoRBGh97f27ZYYx64RgjcnJHClneDEJXddRwo7-AZJmTMfUeO-jKGJJJRuX7rExxv0sqfJusMLZIgorRwwi68dL45uM0mdmgqGaVsQ8g1w5tuKsf02RDY1NBflgYEDgTcV1l4" target="_blank">دانلود ویدیو</a></p>
+<p>♦️
+دیپلمات ارشد ژاپنی: بازگشت ناو «جرالد فورد» به دلیل خستگی مفرط خدمه، نشان‌دهنده فرسودگی ارتش آمریکا و محدود شدن گزینه‌های نظامی ترامپ علیه ایران است/نبرد فعلی یک «بازی بزدل» (chicken game) برای تاب‌آوری است؛ گزارش‌های اطلاعاتی آمریکا تأیید می‌کند ایران دست‌کم تا سه ماه دیگر توان مقاومت کامل در برابر محاصره دریایی را دارد
+🇮🇷
+✊
+@AkhbareFori</p>
+<div class="tg-footer">👁 1.15K · <a href="https://t.me/akhbarefori/651860" target="_blank">04:50 · 22 Ordibehesht 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 651859 -->
+<p>♦️
+ادعای ترامپ درباره احتمال بازگشت به عملیات نظامی در تنگه هرمز
+🔹
+رئیس جمهور آمریکا در مصاحبه با شبکه «سی‌بی‌اس» ضمن تهدید به انجام اقدامات «بسیار شدیدتر» علیه ایران، مدعی شد که واشنگتن ممکن است به زودی عملیات نظامی در تنگه هرمز را از سر بگیرد.
+🇮🇷
+✊
+@AkhbareFori</p>
+<div class="tg-footer">👁 2.57K · <a href="https://t.me/akhbarefori/651859" target="_blank">03:30 · 22 Ordibehesht 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 651858 -->
+<p>♦️
+نوزادان تازه‌متولد شده، قربانیان دوسال جنایت رژیم‌صهیونیستی در غزه
+🔹
+نقص‌های شدید هنگام تولد که به بمباران، هوای سمی، گرسنگی و فروپاشی سیستم بهداشتی مرتبط است، به طور چشمگیری افزایش یافته‌اند.
+🇮🇷
+✊
+@AkhbareFori</p>
+<div class="tg-footer">👁 2.68K · <a href="https://t.me/akhbarefori/651858" target="_blank">03:17 · 22 Ordibehesht 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 651856 -->
+<p><img src="https://cdn4.telesco.pe/file/l-H46p9jg7zvauNBPeG-7e8r4fZoVv_elkvLPVKIt5VB5pGREESDc7oPrcghLyTaeVIWib6eDc1zvffJC7fARN0ckSPYQyzde3JpTp5PrKKwNmr_USYapfFo-BhTVIbRORD_svbzOfOHvH3mULXHlpwLdc24wCZZ_-ncAElbaAoDT6u2Kgc2RuCuTmX8pS8nM0smMurD4l3sa__KcG6qUAHftrrsMnq0X2xVkzyTAHcyqNiu-xGO7oOxJ5S8JnYXmzRYnQM5qlvjV0jAIhdpNyuIv0Ak8hR97xBqkQIInlTMk3rNlQM8jW5WZe5U61NnPyVJLy2I_eDqR-QMO13K1Q.jpg" alt="photo 1"/></p>
+<p><img src="https://cdn4.telesco.pe/file/OIih7KaEC9lpiTSTAUA-z-xfsJPSqTEe-4OtDn7XbzBojYgMgx997KOQZBJzdMrn_4u5g2cGzzLN4QVAkt8GoGsCi2VUcS8iWy_g1zyXaZv64lTqlWjYNmxmAhpsq-Vv54D3OOddaDGyr74inshncijtDt7rzsdTIV-f-madJlAOKFPS7yzakt5LmVhPzjYJkXHkCjNnFZ_4txIW_Y_WoBXiWZrutxK9wPy9qAHk6ORe2Yem2rG3wq2EpnKqaggSvhFLt1H0dXdgrIQY4WMe4b8bHIFc7Dvwx0dJiaawe9Xx82kNhFN3JVUo5HQAz8SNtWPmsPPUXOu0mHKGFLPadQ.jpg" alt="photo 2"/></p>
+<p>♦️
+نگرانی عمیق مردم آمریکا از افزایش قیمت بنزین/ مردم آمریکا نمی‌دانند چرا ترامپ تجاوز علیه ایران را آغاز کرد!
+🔹
+بر اساس نظرسنجی که روز دوشنبه تکمیل شد، دو سوم آمریکایی‌ها معتقدند رئیس‌جمهور دونالد ترامپ به روشنی توضیح نداده که چرا کشور با ایران به جنگ رفته است.
+🔹
+این نظرسنجی چهارروزه نگرانی‌های عمیقی را درباره افزایش قیمت بنزین آشکار کرد و همچنین نشان داد که بسیاری از رأی‌دهندگان مشکلات خود را بر دوش متحدان جمهوری‌خواه ترامپ می‌اندازند.
+🔹
+بیش از دو ماه از جنگی که در ۲۸ فوریه با حملات هوایی آمریکا و اسرائیل آغاز شد، می‌گذرد. حدود ۶۶ درصد از شرکت‌کنندگان در نظرسنجی، شامل یک سوم جمهوری‌خواهان و تقریباً همه دموکرات‌ها  گفتند ترامپ اهداف دخالت نظامی آمریکا در ایران را به روشنی توضیح نداده است.
+🔹
+این جنگ قیمت بنزین را در سراسر کشور حدود ۵۰ درصد افزایش داده است. ایران با بستن مؤثر تنگه هرمز، علیرغم تلاش ناوهای جنگی آمریکا برای بازگشایی این آبراه به روی نفتکش‌ها - یک پنجم تجارت جهانی نفت را متوقف کرده است.
+🇮🇷
+✊
+@AkhbareFori</p>
+<div class="tg-footer">👁 2.69K · <a href="https://t.me/akhbarefori/651856" target="_blank">03:11 · 22 Ordibehesht 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 651855 -->
+<p><img src="https://cdn4.telesco.pe/file/OECAegYQYpBP6j15_-RXp1ZvlxOwJiL4-N9hy77CsU06583jZoV6PvT4XnIPAgH7R6kHCDwXQANOwZCpfSyBObwIaK-0NarNS7rJgTQdRK4EJgndAeg_Y7ZiYAHkONMsnMgmuvESHJaQ5uDGBpn7MITEHLSWgM1hbdAkDNMKQv3fZN7tpSQijP_Vl7qOtlOON7lNCeUIjAqUNvjSvAslzaVQQcA5-648e66EUs-8CDpGma_ihMZc4iPUIbncAKIJq-FoRTRbJQ9W42XdN0o2pQMN4nMuiyh0PRPXL5gyggND6NIMTlWFlxSxyP-R0hfY7e0-wdsTO8Pyxqjjq6PcYg.jpg" alt="photo"/></p>
+<p>♦️
+ذخایر نفت همچنان روبه کاهش
+🔹
+ترامپ مجبور شد بیش از ۵۳ میلیون بشکه از ذخایر نفتی را برای مهار افزایش قیمت‌های ناشی از جنگ آزادسازی کند.
+🇮🇷
+✊
+@AkhbareFori</p>
+<div class="tg-footer">👁 2.93K · <a href="https://t.me/akhbarefori/651855" target="_blank">02:37 · 22 Ordibehesht 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 651854 -->
+<p><img src="https://cdn4.telesco.pe/file/Qby6_YG_RH97r2KsKiHRQmJcMkZrp4HTybZbPUKieo2WdLvNjrJt_tc_EUJ82I0YaFFhOAID18VRKQ7gw0cnLOf_20P-2JThG6FWujkGQXK6gaijonHXPPgmN0MAiKO4oPdeCsXm9ZIVMqRVkJRZjr3xmy7Jugpvehxv743MMWSWqaTNAP4fF77CdCuDexDUAfu7n4EHZFgAgxmQzu4rn7jeTk5pQ3iQQQfSfuXmI0T0ZeENQkiZLMje4_rqOyNcmhc0InVWhD5ZM3zwLvOSLHzDEhKCRIPcSs8T1B5Y15VuHgFmnbUNlTBJqqYyMmcOHW80dSj272KVXsO0sTDb2w.jpg" alt="photo"/></p>
+<p>♦️
+«برنی سندرز»، سناتور ترقی‌خواه آمریکایی: وقت آن رسیده که آمریکا کمک‌های نظامی به اسرائیل را متوقف کند
+🔹
+اما قرار نیست برای این کار ۱۰ سال صبر کنیم.
+🔹
+زمانِ توقفِ مسلح‌کردن نتانیاهو و پاسخگو کردن او بابت جنایت‌هایش علیه بشریت، همین حالاست!
+🇮🇷
+✊
+@AkhbareFori</p>
+<div class="tg-footer">👁 2.99K · <a href="https://t.me/akhbarefori/651854" target="_blank">02:28 · 22 Ordibehesht 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 651853 -->
+<p><img src="https://cdn4.telesco.pe/file/ckBadekmj21BuEN9t2K1caKoG6cT4EHTZ7ixgMMBrKb7xPf7jB-CTHkLP2hPYOflBr9B4cjCownwzloSDQyRz5JwYS-q1D1YcDUuO3BHop0OA0pH2EJToyRWSHkfWefdrIVc5RKgxGQ80KxXk4b2zb6qKBD8Fl2WSBYvz-H2COFeGB--tarQsdngcQ5t0GK5y0DjfjD9qHSehzGIJ__B82Dz2LjhugxJQ3Gx1NAPVvO0_FKpgTxxVldApkGeCFi_bRa2pOyVgBTNA21zNfAs6y4a-o_lf1bamw1wtq8ya7wtucNfx6rSQyKpJ-I80XTAbc9uuHkZnD8iNXra5wkEBA.jpg" alt="photo"/></p>
+<p>♦️
+رهبر دموکرات‌های سنای آمریکا: برای هفتمین‌بار، طرح محدود کردن اختیارات جنگی ترامپ و پایان دادن جنگ ایران به رأی گذاشته می‌شود
+🔹
+چاک شومر: تکرار می‌کنم، ترامپ آمریکا را به یک جنگ غیرقانونی، پرهزینه و بدون هیچ هدف و هیچ پایانی کشاند.
+🇮🇷
+✊
+@AkhbareFori</p>
+<div class="tg-footer">👁 2.78K · <a href="https://t.me/akhbarefori/651853" target="_blank">02:19 · 22 Ordibehesht 1405</a></div>
+</div>
 <div class="tg-message">
 <!-- msg_id: 651852 -->
 <p>🎬 <a href="https://cdn4.telesco.pe/file/ff3f0044ce.mp4?token=FoLgX01gmAKrBpslmneEXSvcyaDJfeKHJaUQ37C1d6A8X6dMARuAmHqo368vM_p7DbkTZBMZ7MWBqs358I6cJthEu2jP698Bxd2HJRIUUMGGa8Komttk-8zv2vE4BTgPujNxaeT3QfyS3vMxy8mqZ3yNSooLNGQPbmBNMUxugZTvds3vN5Xe3_j2BQoRHW1t3hEYnIobsYeec7PO493-CwVx46KqYNPCgV9Ss_pRt0qA4bpyC7Vfh73gARSejdhaaFv-TNy3HbN_wE3aTfDin_yzwsG96a9zDP2yepC5Zu1zqOpZJhTJte4E9sN3OoAdmC75cFh9SjxX8n2NSw9OhYi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" target="_blank">دانلود ویدیو</a></p>
@@ -67,7 +167,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 288 · <a href="https://t.me/akhbarefori/651852" target="_blank">02:10 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.87K · <a href="https://t.me/akhbarefori/651852" target="_blank">02:10 · 22 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651851 -->
@@ -84,7 +184,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 1.29K · <a href="https://t.me/akhbarefori/651851" target="_blank">01:49 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.39K · <a href="https://t.me/akhbarefori/651851" target="_blank">01:49 · 22 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651850 -->
@@ -95,7 +195,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 1.69K · <a href="https://t.me/akhbarefori/651850" target="_blank">01:38 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.58K · <a href="https://t.me/akhbarefori/651850" target="_blank">01:38 · 22 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651849 -->
@@ -107,7 +207,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 2.54K · <a href="https://t.me/akhbarefori/651849" target="_blank">01:20 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 4.21K · <a href="https://t.me/akhbarefori/651849" target="_blank">01:20 · 22 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651848 -->
@@ -121,7 +221,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 3.04K · <a href="https://t.me/akhbarefori/651848" target="_blank">01:05 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 4.52K · <a href="https://t.me/akhbarefori/651848" target="_blank">01:05 · 22 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651847 -->
@@ -140,7 +240,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 3.49K · <a href="https://t.me/akhbarefori/651847" target="_blank">00:49 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 4.82K · <a href="https://t.me/akhbarefori/651847" target="_blank">00:49 · 22 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651846 -->
@@ -151,7 +251,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 3.87K · <a href="https://t.me/akhbarefori/651846" target="_blank">00:39 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.1K · <a href="https://t.me/akhbarefori/651846" target="_blank">00:39 · 22 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651845 -->
@@ -166,7 +266,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 3.96K · <a href="https://t.me/akhbarefori/651845" target="_blank">00:35 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.22K · <a href="https://t.me/akhbarefori/651845" target="_blank">00:35 · 22 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651844 -->
@@ -182,7 +282,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 4.9K · <a href="https://t.me/akhbarefori/651844" target="_blank">00:10 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6K · <a href="https://t.me/akhbarefori/651844" target="_blank">00:10 · 22 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651843 -->
@@ -194,7 +294,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.36K · <a href="https://t.me/akhbarefori/651843" target="_blank">23:52 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.28K · <a href="https://t.me/akhbarefori/651843" target="_blank">23:52 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651842 -->
@@ -203,7 +303,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.41K · <a href="https://t.me/akhbarefori/651842" target="_blank">23:40 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.22K · <a href="https://t.me/akhbarefori/651842" target="_blank">23:40 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651841 -->
@@ -214,7 +314,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.22K · <a href="https://t.me/akhbarefori/651841" target="_blank">23:39 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.02K · <a href="https://t.me/akhbarefori/651841" target="_blank">23:39 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651840 -->
@@ -228,7 +328,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.29K · <a href="https://t.me/akhbarefori/651840" target="_blank">23:37 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.13K · <a href="https://t.me/akhbarefori/651840" target="_blank">23:37 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651839 -->
@@ -240,7 +340,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.23K · <a href="https://t.me/akhbarefori/651839" target="_blank">23:34 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.06K · <a href="https://t.me/akhbarefori/651839" target="_blank">23:34 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651838 -->
@@ -250,7 +350,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.44K · <a href="https://t.me/akhbarefori/651838" target="_blank">23:22 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.1K · <a href="https://t.me/akhbarefori/651838" target="_blank">23:22 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651837 -->
@@ -262,7 +362,7 @@ img {
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.75K · <a href="https://t.me/akhbarefori/651837" target="_blank">23:13 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.38K · <a href="https://t.me/akhbarefori/651837" target="_blank">23:13 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651836 -->
@@ -274,7 +374,7 @@ img {
 در خبرفوری بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3214160</p>
-<div class="tg-footer">👁 5.67K · <a href="https://t.me/akhbarefori/651836" target="_blank">23:11 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.31K · <a href="https://t.me/akhbarefori/651836" target="_blank">23:11 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651835 -->
@@ -283,7 +383,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.33K · <a href="https://t.me/akhbarefori/651835" target="_blank">23:09 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.93K · <a href="https://t.me/akhbarefori/651835" target="_blank">23:09 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651834 -->
@@ -292,7 +392,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.61K · <a href="https://t.me/akhbarefori/651834" target="_blank">23:03 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.23K · <a href="https://t.me/akhbarefori/651834" target="_blank">23:03 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651833 -->
@@ -303,7 +403,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.18K · <a href="https://t.me/akhbarefori/651833" target="_blank">22:53 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.76K · <a href="https://t.me/akhbarefori/651833" target="_blank">22:53 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651832 -->
@@ -313,7 +413,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.1K · <a href="https://t.me/akhbarefori/651832" target="_blank">22:53 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.69K · <a href="https://t.me/akhbarefori/651832" target="_blank">22:53 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651831 -->
@@ -325,7 +425,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.99K · <a href="https://t.me/akhbarefori/651831" target="_blank">22:51 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.62K · <a href="https://t.me/akhbarefori/651831" target="_blank">22:51 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651830 -->
@@ -336,7 +436,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.54K · <a href="https://t.me/akhbarefori/651830" target="_blank">22:50 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.28K · <a href="https://t.me/akhbarefori/651830" target="_blank">22:50 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651829 -->
@@ -348,7 +448,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.56K · <a href="https://t.me/akhbarefori/651829" target="_blank">22:48 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.58K · <a href="https://t.me/akhbarefori/651829" target="_blank">22:48 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651828 -->
@@ -358,7 +458,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.12K · <a href="https://t.me/akhbarefori/651828" target="_blank">22:39 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 7.03K · <a href="https://t.me/akhbarefori/651828" target="_blank">22:39 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651827 -->
@@ -367,7 +467,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.3K · <a href="https://t.me/akhbarefori/651827" target="_blank">22:30 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.81K · <a href="https://t.me/akhbarefori/651827" target="_blank">22:30 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651826 -->
@@ -382,7 +482,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.58K · <a href="https://t.me/akhbarefori/651826" target="_blank">22:25 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 7.12K · <a href="https://t.me/akhbarefori/651826" target="_blank">22:25 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651825 -->
@@ -397,7 +497,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.7K · <a href="https://t.me/akhbarefori/651825" target="_blank">22:24 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.21K · <a href="https://t.me/akhbarefori/651825" target="_blank">22:24 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651824 -->
@@ -407,7 +507,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.48K · <a href="https://t.me/akhbarefori/651824" target="_blank">22:21 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.91K · <a href="https://t.me/akhbarefori/651824" target="_blank">22:21 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651823 -->
@@ -422,7 +522,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 هفتصدوچهل‌وششمین شماره جلد یک خبرفوری
 #تیتر_یک
 @rozname_fori</p>
-<div class="tg-footer">👁 5.55K · <a href="https://t.me/akhbarefori/651823" target="_blank">22:20 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.05K · <a href="https://t.me/akhbarefori/651823" target="_blank">22:20 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651822 -->
@@ -432,7 +532,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.25K · <a href="https://t.me/akhbarefori/651822" target="_blank">22:15 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.64K · <a href="https://t.me/akhbarefori/651822" target="_blank">22:15 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651821 -->
@@ -443,7 +543,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.68K · <a href="https://t.me/akhbarefori/651821" target="_blank">22:10 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.08K · <a href="https://t.me/akhbarefori/651821" target="_blank">22:10 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651820 -->
@@ -475,7 +575,7 @@ khabarfoori.com/fa/tiny/news-3214160</p>
 @AkhbareFori
 |
 Link</p>
-<div class="tg-footer">👁 5.58K · <a href="https://t.me/akhbarefori/651820" target="_blank">22:10 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.95K · <a href="https://t.me/akhbarefori/651820" target="_blank">22:10 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651819 -->
@@ -494,7 +594,7 @@ Link</p>
 🔹
 موضوع دیگر آب توازن کشتی‌های سوخت‌رسان است که هنگام برگشت، آب داخل مخازن خود را در خلیج فارس رها می‌کنند، این آلودگی‌ها کل آبزیان و پرندگان ما را نابود می‌کند.
 @TV_Fori</p>
-<div class="tg-footer">👁 5.11K · <a href="https://t.me/akhbarefori/651819" target="_blank">22:10 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.46K · <a href="https://t.me/akhbarefori/651819" target="_blank">22:10 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651818 -->
@@ -509,7 +609,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.15K · <a href="https://t.me/akhbarefori/651818" target="_blank">22:07 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.5K · <a href="https://t.me/akhbarefori/651818" target="_blank">22:07 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651817 -->
@@ -526,7 +626,7 @@ Link</p>
 🔹
 تنگه هرمز بین ما و کشور عمان است از این جهت این کار صورت گرفته است و نتایج نهایی آن باید در مجلس به تصویب برسد.
 @TV_Fori</p>
-<div class="tg-footer">👁 5.26K · <a href="https://t.me/akhbarefori/651817" target="_blank">22:07 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.62K · <a href="https://t.me/akhbarefori/651817" target="_blank">22:07 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651816 -->
@@ -538,7 +638,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.47K · <a href="https://t.me/akhbarefori/651816" target="_blank">21:59 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.79K · <a href="https://t.me/akhbarefori/651816" target="_blank">21:59 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651815 -->
@@ -552,7 +652,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.41K · <a href="https://t.me/akhbarefori/651815" target="_blank">21:59 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.76K · <a href="https://t.me/akhbarefori/651815" target="_blank">21:59 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651814 -->
@@ -571,7 +671,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.25K · <a href="https://t.me/akhbarefori/651814" target="_blank">21:54 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.57K · <a href="https://t.me/akhbarefori/651814" target="_blank">21:54 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651813 -->
@@ -588,7 +688,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.42K · <a href="https://t.me/akhbarefori/651813" target="_blank">21:52 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.71K · <a href="https://t.me/akhbarefori/651813" target="_blank">21:52 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651811 -->
@@ -606,7 +706,7 @@ Link</p>
 🔹
 سالانه ۲.۵ تا ۳ میلیون اهداکننده خون داریم و هزینه پذیرایی (نوشیدنی و کیک) سالی ۳۰۰ میلیارد تومان می‌شود.
 @TV_Fori</p>
-<div class="tg-footer">👁 5.26K · <a href="https://t.me/akhbarefori/651811" target="_blank">21:50 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.58K · <a href="https://t.me/akhbarefori/651811" target="_blank">21:50 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651810 -->
@@ -616,7 +716,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.44K · <a href="https://t.me/akhbarefori/651810" target="_blank">21:40 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.72K · <a href="https://t.me/akhbarefori/651810" target="_blank">21:40 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651809 -->
@@ -632,7 +732,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.54K · <a href="https://t.me/akhbarefori/651809" target="_blank">21:29 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.79K · <a href="https://t.me/akhbarefori/651809" target="_blank">21:29 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651808 -->
@@ -656,7 +756,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.32K · <a href="https://t.me/akhbarefori/651808" target="_blank">21:28 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.61K · <a href="https://t.me/akhbarefori/651808" target="_blank">21:28 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651807 -->
@@ -674,7 +774,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.18K · <a href="https://t.me/akhbarefori/651807" target="_blank">21:26 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.47K · <a href="https://t.me/akhbarefori/651807" target="_blank">21:26 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651806 -->
@@ -686,7 +786,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 4.88K · <a href="https://t.me/akhbarefori/651806" target="_blank">21:22 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.13K · <a href="https://t.me/akhbarefori/651806" target="_blank">21:22 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651805 -->
@@ -702,7 +802,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 4.68K · <a href="https://t.me/akhbarefori/651805" target="_blank">21:20 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 4.93K · <a href="https://t.me/akhbarefori/651805" target="_blank">21:20 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651804 -->
@@ -711,7 +811,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 4.67K · <a href="https://t.me/akhbarefori/651804" target="_blank">21:18 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 4.92K · <a href="https://t.me/akhbarefori/651804" target="_blank">21:18 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651803 -->
@@ -724,7 +824,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.21K · <a href="https://t.me/akhbarefori/651803" target="_blank">21:12 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.46K · <a href="https://t.me/akhbarefori/651803" target="_blank">21:12 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651802 -->
@@ -735,7 +835,7 @@ Link</p>
 هر سال میلیون‌ها تن زباله پلاستیکی به طبیعت راه پیدا می‌کند. این هیولا از زباله‌های ما متولد شده. اکنون زمان بیداری است  شما هم به کمپین #نه_به_پلاستیک بپیوندید و تصاویر مربوط به این کمپین را برای ما ارسال کنید
 👇
 @Na_be_pelastic…</p>
-<div class="tg-footer">👁 5.63K · <a href="https://t.me/akhbarefori/651802" target="_blank">21:06 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.91K · <a href="https://t.me/akhbarefori/651802" target="_blank">21:06 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651801 -->
@@ -747,7 +847,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 4.94K · <a href="https://t.me/akhbarefori/651801" target="_blank">21:05 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.19K · <a href="https://t.me/akhbarefori/651801" target="_blank">21:05 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651800 -->
@@ -764,7 +864,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.51K · <a href="https://t.me/akhbarefori/651800" target="_blank">20:55 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.79K · <a href="https://t.me/akhbarefori/651800" target="_blank">20:55 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651799 -->
@@ -775,7 +875,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.36K · <a href="https://t.me/akhbarefori/651799" target="_blank">20:54 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.64K · <a href="https://t.me/akhbarefori/651799" target="_blank">20:54 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651798 -->
@@ -787,7 +887,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.92K · <a href="https://t.me/akhbarefori/651798" target="_blank">20:42 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.16K · <a href="https://t.me/akhbarefori/651798" target="_blank">20:42 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651797 -->
@@ -801,7 +901,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.34K · <a href="https://t.me/akhbarefori/651797" target="_blank">20:40 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.62K · <a href="https://t.me/akhbarefori/651797" target="_blank">20:40 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651796 -->
@@ -816,7 +916,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.15K · <a href="https://t.me/akhbarefori/651796" target="_blank">20:26 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.36K · <a href="https://t.me/akhbarefori/651796" target="_blank">20:26 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651795 -->
@@ -830,7 +930,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.51K · <a href="https://t.me/akhbarefori/651795" target="_blank">20:18 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.72K · <a href="https://t.me/akhbarefori/651795" target="_blank">20:18 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651794 -->
@@ -848,7 +948,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.89K · <a href="https://t.me/akhbarefori/651794" target="_blank">20:09 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.1K · <a href="https://t.me/akhbarefori/651794" target="_blank">20:09 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651793 -->
@@ -859,7 +959,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.47K · <a href="https://t.me/akhbarefori/651793" target="_blank">20:08 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.68K · <a href="https://t.me/akhbarefori/651793" target="_blank">20:08 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651792 -->
@@ -875,7 +975,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.07K · <a href="https://t.me/akhbarefori/651792" target="_blank">19:59 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.28K · <a href="https://t.me/akhbarefori/651792" target="_blank">19:59 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651791 -->
@@ -887,7 +987,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.78K · <a href="https://t.me/akhbarefori/651791" target="_blank">19:59 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.99K · <a href="https://t.me/akhbarefori/651791" target="_blank">19:59 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651790 -->
@@ -898,7 +998,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.11K · <a href="https://t.me/akhbarefori/651790" target="_blank">19:56 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.32K · <a href="https://t.me/akhbarefori/651790" target="_blank">19:56 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651789 -->
@@ -909,7 +1009,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.45K · <a href="https://t.me/akhbarefori/651789" target="_blank">19:40 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.63K · <a href="https://t.me/akhbarefori/651789" target="_blank">19:40 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651788 -->
@@ -922,7 +1022,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.36K · <a href="https://t.me/akhbarefori/651788" target="_blank">19:40 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.57K · <a href="https://t.me/akhbarefori/651788" target="_blank">19:40 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651787 -->
@@ -934,7 +1034,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.47K · <a href="https://t.me/akhbarefori/651787" target="_blank">19:34 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.65K · <a href="https://t.me/akhbarefori/651787" target="_blank">19:34 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651786 -->
@@ -946,7 +1046,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.32K · <a href="https://t.me/akhbarefori/651786" target="_blank">19:33 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.5K · <a href="https://t.me/akhbarefori/651786" target="_blank">19:33 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651785 -->
@@ -956,7 +1056,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.07K · <a href="https://t.me/akhbarefori/651785" target="_blank">19:29 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.21K · <a href="https://t.me/akhbarefori/651785" target="_blank">19:29 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651784 -->
@@ -968,7 +1068,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.59K · <a href="https://t.me/akhbarefori/651784" target="_blank">19:22 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.77K · <a href="https://t.me/akhbarefori/651784" target="_blank">19:22 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651783 -->
@@ -980,7 +1080,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.37K · <a href="https://t.me/akhbarefori/651783" target="_blank">19:22 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.54K · <a href="https://t.me/akhbarefori/651783" target="_blank">19:22 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651782 -->
@@ -990,7 +1090,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.7K · <a href="https://t.me/akhbarefori/651782" target="_blank">19:08 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.88K · <a href="https://t.me/akhbarefori/651782" target="_blank">19:08 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651781 -->
@@ -1000,7 +1100,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.98K · <a href="https://t.me/akhbarefori/651781" target="_blank">18:55 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 7.16K · <a href="https://t.me/akhbarefori/651781" target="_blank">18:55 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651780 -->
@@ -1009,7 +1109,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.89K · <a href="https://t.me/akhbarefori/651780" target="_blank">18:50 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 7.06K · <a href="https://t.me/akhbarefori/651780" target="_blank">18:50 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651779 -->
@@ -1027,7 +1127,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.97K · <a href="https://t.me/akhbarefori/651779" target="_blank">18:48 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 7.17K · <a href="https://t.me/akhbarefori/651779" target="_blank">18:48 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651778 -->
@@ -1036,7 +1136,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.19K · <a href="https://t.me/akhbarefori/651778" target="_blank">18:46 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.36K · <a href="https://t.me/akhbarefori/651778" target="_blank">18:46 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651777 -->
@@ -1052,7 +1152,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.75K · <a href="https://t.me/akhbarefori/651777" target="_blank">18:27 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.89K · <a href="https://t.me/akhbarefori/651777" target="_blank">18:27 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651776 -->
@@ -1065,7 +1165,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.81K · <a href="https://t.me/akhbarefori/651776" target="_blank">18:25 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.94K · <a href="https://t.me/akhbarefori/651776" target="_blank">18:25 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651775 -->
@@ -1079,7 +1179,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.05K · <a href="https://t.me/akhbarefori/651775" target="_blank">18:20 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.18K · <a href="https://t.me/akhbarefori/651775" target="_blank">18:20 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651774 -->
@@ -1091,7 +1191,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.67K · <a href="https://t.me/akhbarefori/651774" target="_blank">18:17 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.8K · <a href="https://t.me/akhbarefori/651774" target="_blank">18:17 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651773 -->
@@ -1100,7 +1200,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.68K · <a href="https://t.me/akhbarefori/651773" target="_blank">18:13 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.81K · <a href="https://t.me/akhbarefori/651773" target="_blank">18:13 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651772 -->
@@ -1128,7 +1228,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6K · <a href="https://t.me/akhbarefori/651772" target="_blank">18:11 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.13K · <a href="https://t.me/akhbarefori/651772" target="_blank">18:11 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651771 -->
@@ -1137,7 +1237,7 @@ Link</p>
 پلاستیک‌ها را خودمان میخوریم!  شما هم به کمپین #نه_به_پلاستیک بپیوندید و تصاویر مربوط به این کمپین را برای ما ارسال کنید
 👇
 @Na_be_pelastic #نه_به_پلاستیک</p>
-<div class="tg-footer">👁 5.48K · <a href="https://t.me/akhbarefori/651771" target="_blank">17:55 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.61K · <a href="https://t.me/akhbarefori/651771" target="_blank">17:55 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651770 -->
@@ -1149,7 +1249,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.26K · <a href="https://t.me/akhbarefori/651770" target="_blank">17:54 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.39K · <a href="https://t.me/akhbarefori/651770" target="_blank">17:54 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651769 -->
@@ -1161,7 +1261,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.16K · <a href="https://t.me/akhbarefori/651769" target="_blank">17:50 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.28K · <a href="https://t.me/akhbarefori/651769" target="_blank">17:50 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651768 -->
@@ -1173,7 +1273,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.55K · <a href="https://t.me/akhbarefori/651768" target="_blank">17:44 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.68K · <a href="https://t.me/akhbarefori/651768" target="_blank">17:44 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651767 -->
@@ -1187,7 +1287,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.33K · <a href="https://t.me/akhbarefori/651767" target="_blank">17:36 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.46K · <a href="https://t.me/akhbarefori/651767" target="_blank">17:36 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651766 -->
@@ -1201,7 +1301,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.76K · <a href="https://t.me/akhbarefori/651766" target="_blank">17:32 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.88K · <a href="https://t.me/akhbarefori/651766" target="_blank">17:32 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651765 -->
@@ -1212,7 +1312,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 5.73K · <a href="https://t.me/akhbarefori/651765" target="_blank">17:29 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 5.86K · <a href="https://t.me/akhbarefori/651765" target="_blank">17:29 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651764 -->
@@ -1228,7 +1328,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.5K · <a href="https://t.me/akhbarefori/651764" target="_blank">17:13 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.63K · <a href="https://t.me/akhbarefori/651764" target="_blank">17:13 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651763 -->
@@ -1240,7 +1340,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.2K · <a href="https://t.me/akhbarefori/651763" target="_blank">16:58 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.29K · <a href="https://t.me/akhbarefori/651763" target="_blank">16:58 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651762 -->
@@ -1251,7 +1351,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.29K · <a href="https://t.me/akhbarefori/651762" target="_blank">16:55 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.38K · <a href="https://t.me/akhbarefori/651762" target="_blank">16:55 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651761 -->
@@ -1267,7 +1367,7 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.72K · <a href="https://t.me/akhbarefori/651761" target="_blank">16:42 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.78K · <a href="https://t.me/akhbarefori/651761" target="_blank">16:42 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651760 -->
@@ -1281,112 +1381,6 @@ Link</p>
 🇮🇷
 ✊
 @AkhbareFori</p>
-<div class="tg-footer">👁 6.15K · <a href="https://t.me/akhbarefori/651760" target="_blank">16:36 · 21 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 651759 -->
-<p><img src="https://cdn4.telesco.pe/file/KKdCWWnZIOhP0Uo-D1EsunfBHaJcvkD4EkzutSPidALBr8Qo5AYjUntdoqff9zFwKpXqa4K1z7gutbPvIVa-kaJilyMJcRHwMNI582jOu9uVzD0bWRf1VrvkC2fQ-nF6clPW7BrJPNp4d1TuayAMEdy3D6O0ZDKdfW4W4SuZDvwrEpV1wGGrVMSNEDSQw6JZZSEKCFdj7EnV4Iw876nzncsOjkZg5MAgAw-IE_4kTDDH1sfXGs-m_POVtQIa32hMAKcvz7joLmgJdK8l6t3533gXklGWGX6TRn8Hk1WZylndL2-tFUS-5RUFFC44NQYd_4bXdjbS2NztNJk6ZRVZmg.jpg" alt="photo"/></p>
-<p>♦️
-نفتکش قطری در تنگهٔ هرمز متوقف شد
-🔹
-طبق گزارش بلومبرگ نفتکش «محمزم» حامل محموله‌ای راس‌لفان قطر، وارد منطقهٔ تحت کنترل ایران شد و پس از دور زدن متوقف شد.
-🔹
-سیگنال‌های این نفتکش که مقصد خود را پاکستان اعلام کرده است، نشان می‌دهد که اجازهٔ عبور از تنگه هرمز را از ایران دریافت نکرده است.
-🇮🇷
-✊
-@AkhbareFori</p>
-<div class="tg-footer">👁 6.53K · <a href="https://t.me/akhbarefori/651759" target="_blank">16:31 · 21 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 651758 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/0d3c97d46f.mp4?token=NdeTg76px4HViPsy6dqt6cW6RfibHpgUV16tPyyo7KOgJSRTwdPwiGfWvqQaiYyYzs5Ihby4YLjzEFmR8PQ-QXXAK2JX4cc58ZebJkN8W89FzBZOJXFyOvnrhVi2rq8kmGmkD519xCW0nhoW-nyqQh_h7HQPANVY7rO7Nu4FyDK7k1zULws9NL8s9hc-KtsjRIL222hqbDc3A37paeJ_0V8sNT25jh72SvzG1QssT_G6IPYiEPH_LxJBx3cOjWTWqa2O7sXWIoKQI_DcWarUTRgrnVmo4AVMIvEypFMeVU1BJV1RZLNAnHEWqDBzqfA_ghVLCAjtxRl0pFdANtba2w" target="_blank">دانلود ویدیو</a></p>
-<p>♦️
-وقتی نه برای پول، که فقط برای تحقیر دشمن و عزت ایران به میدان میای
-🇮🇷
-✊
-@AkhbareFori
-|
-Link</p>
-<div class="tg-footer">👁 5.83K · <a href="https://t.me/akhbarefori/651758" target="_blank">16:26 · 21 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 651757 -->
-<p>♦️
-افزایش تا ۸۰ درصدی حق پرستاری و ۱۰۰ درصدی یارانه ویزیت در منزل
-🔹
-رئیس سازمان بهزیستی کشور: حق پرستاری تا ۸۰ درصد افزایش خواهد یافت.
-🔹
-یارانه ویزیت در منزل با رشد ۱۰۰ درصدی همراه خواهد بود و این پیشنهادها در مراحل قانونی قرار دارد.
-🔹
-۹ مرکز شبانه‌روزی موقت برای کودکان زیر ۱۴ سال ایجاد شده است و ۱۰ مرکز جدید در سال جاری راه‌اندازی می‌شود.
-🇮🇷
-✊
-@AkhbareFori</p>
-<div class="tg-footer">👁 5.86K · <a href="https://t.me/akhbarefori/651757" target="_blank">16:20 · 21 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 651756 -->
-<p><img src="https://cdn4.telesco.pe/file/ZEB1r9E47FR2aRyrrQ1tqEcTn9eOgjdJ8gK8-A2Q6bp0T5HgS90o1q1q-8qr7pwigTwqN0GM0aPFqdfj5XGT4cVrC8Z0Gc1zML_1e5fjeo2xKitqfQgKsakIiH-8G0u5lIarQvybVw9HHMuiRh69OQknSjbXPGjFUKbRbjiG4WkrXrMdsQWKAjs4RFZ-ldmsD45rITYoqiNea5Ils_n1aj7NkVrHGznfHfGLAI4Q0dYX_nicMZgH8EfkgwV_TbuFGv-pJ07PQbbEj64L8Ta2sUjiPQAXqTAIjkDup8Z8ykXUQkedccwTYnRaurSzgpmFNN_7VLvVtluK4coIqhLB-w.jpg" alt="photo"/></p>
-<p>♦️
-عزالدین قسام: جوانان فلسطینی در کرانه باختری به پا خیزند
-🔹
-سخنگوی عزالدین قسام با تمجید از دو عملیات شهادت‌طلبانه اخیر، خواستار تشدید اقدامات علیه اشغالگران شد.
-🔹
-ابوعبیده در بیانیه‌ای اعلام کرد: «با افتخار به عملياتی می‌نگریم که شهید مجاهد ایمن الهشلمون در چارچوب مقابله با نیروهای اشغالگر در اردوگاه قلندیا در شمال قدس اشغالی انجام داد.»
-🔹
-وی این تحرکات را بیانگر «عزت، خشم و مخالفت ملت فلسطین با ظلم» دانست و گفت تلاش‌های چندساله برای تغییر ماهیت جامعه فلسطینی و ساخت آنچه «فلسطینی جدید» خوانده شده، ناکام خواهد ماند.
-🔹
-ابوعبیده در ادامه، جوانان فلسطینی را به مقابله با نیروهای اسرائیلی و شهرک‌نشینان در مناطق مختلف کرانه باختری فراخواند و تأکید کرد: «نباید اجازه داد اشغالگران واقعیت‌های جدیدی را بر زمین تحمیل کنند.»
-🇮🇷
-✊
-@AkhbareFori</p>
-<div class="tg-footer">👁 6.28K · <a href="https://t.me/akhbarefori/651756" target="_blank">16:09 · 21 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 651755 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/fb71cd1c35.mp4?token=P6iFI5Wva_y3xf-XLNCafbmh-_8JL8ZmQMY79eurctivixN_-5Sos5D644vSavSzsfJDG5rzm0QmRxva4_fIJ42Enk4h6NccQZ6ZVYxFah1b1UIJ-2fsdlcA3-jnw8KQF8757KfVVkF2V9u4c8GEMQG_LyNPXPWhWp0XznY1SlqgGYHdlaZI4NuOyFezIbgzQGztGRq9wzYBqcYbO0ubG2TayvUB7Y0rFZurTANDG-YcZpx4HNv7STCfaBUvTTPy6QStGNTEB0kGIzyqKd8EQt_TW--Bxp1yCyUFZ36qKNVhGCuI3wwtm0qY5cjxeIDpjNnHJcVfor5vkeBWfFLdkoWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" target="_blank">دانلود ویدیو</a></p>
-<p>♦️
-وقتی جاعلان دین، برادران مسلمان را مقابل هم قرار دادند
-🔹
-روایتی از جذب جوانان توسط گروهک تروریستی جیش‌الظلم و آثار جنایات آن‌ها در خیابان‌های سیستان‌وبلوچستان
-🇮🇷
-✊
-@AkhbareFori</p>
-<div class="tg-footer">👁 5.66K · <a href="https://t.me/akhbarefori/651755" target="_blank">16:06 · 21 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 651754 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/5d9a0269cb.mp4?token=ODrLsBWxMRsF0x47dJe-CyZNKib3lbY7zdwlUP1WPrrDiyCPgGt9MntYazDZgjMisZr4Z6YuW8Xzp56M8W6SQPy8QPeA4daeI8gzT9m7HbZK21MR57hm_68_gKeP_B5KSyFZfX7ShgIQV0DD50saqwx87X_VX7bvtRdlB2fcF1YvtMq7XQ0eSkykqhBrUsIC_ENUGjciALUgBKiog9GMiHJqbKEorgzRGAiTyHO4eS7akrxP8x6ol20DZC7YkV3QuCZ-3sraD52pLiHQsarTurHxi29xHkHcRTlWqaRiGX96z0D0ilhxD88Fn3RrBdxhCcZIjRHSjTgTWRgW7vgQiQ" target="_blank">دانلود ویدیو</a></p>
-<p>♦️
-حزب‌الله تصاویری از حمله به خودروهای ارتش صهیونیستی در جنوب لبنان منتشر کرد
-🇮🇷
-✊
-@AkhbareFori</p>
-<div class="tg-footer">👁 5.93K · <a href="https://t.me/akhbarefori/651754" target="_blank">16:01 · 21 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 651753 -->
-<p>♦️
-روایت میدانی از حملهٔ اسرائیل به ایست‌وبازرسی بلوار ارتش
-🇮🇷
-✊
-@AkhbareFori</p>
-<div class="tg-footer">👁 5.93K · <a href="https://t.me/akhbarefori/651753" target="_blank">16:00 · 21 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 651752 -->
-<p><img src="https://cdn4.telesco.pe/file/n_H0WMNCn00cLkvFgkse-Biu6LN2oMa2wFf1raAgIyzBw5UniPDm0IVGAS-gnb6xsOqAvv2aNET_g-S-Nth5xFMknmj84rTDl58M9HN7icd0HwK-O5uUq43lyZCTzMPtO37bgOUmkNXOSVhZsdIRJhxM60sMMgS3GsEAv9FDX1MD0X2UVsUCLtfry07aFWG2Phcz1nzPxGA1O2SbLOaVTCSAklp6PY5FxNfQtsYSFxbydKXgIKncBqLwjnzDns52uy5NsawxOxBRmrQx3LnGi7qtYE7Njbg4hqpR6VuBIgtjuu3j2SVi-rN1i9ZuFRYrkWkGl6DvHdkJ5ATZg3JTEQ.jpg" alt="photo"/></p>
-<p>♦️
-در آستانه سفر ترامپ؛ چین: تحریم‌های آمریکا غیرقانونی و یک‌جانبه است
-🔹
-پکن در واکنش به تحریم اخیر ضد ایرانی آمریکا که شرکت‌های چینی را هدف قرار داد، بر لزوم پایان دادن به جنگ علیه ایران بجای متهم کردن سایر کشورها تاکید کرد.
-🔹
-گوئو جیاکون، سخنگوی وزارت امور خارجه چین، در نشست خبری امروز گفت «ما همیشه از شرکت‌های چینی خواسته‌ایم که مطابق با قوانین و مقررات تجارت کنند و قاطعانه از حقوق و منافع مشروع شرکت‌های چینی محافظت خواهیم کرد».
-🔹
-این دیپلمات ارشد چینی افزود «اولویت این است که به هر طریق ممکن از بازگشت جنگ جلوگیری کنیم، نه اینکه از جنگ برای ارتباط دادن و بدنام کردن کشورهای دیگر به شکلی مخرب استفاده کنیم».
-🇮🇷
-✊
-@AkhbareFori</p>
-<div class="tg-footer">👁 6.18K · <a href="https://t.me/akhbarefori/651752" target="_blank">15:59 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 6.24K · <a href="https://t.me/akhbarefori/651760" target="_blank">16:36 · 21 Ordibehesht 1405</a></div>
 </div>
 </div>

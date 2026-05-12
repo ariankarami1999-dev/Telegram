@@ -55,7 +55,7 @@ img {
 <h1>📡 آموزش سئو محسن طاوسی</h1>
 <p><strong>@mohsentavoosiseo</strong> · 👥 7.35K عضو</p>
 <p><em>اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</em></p>
-<p>🕐 آخرین بروزرسانی: <code>1405-02-22 02:16:28</code></p>
+<p>🕐 آخرین بروزرسانی: <code>1405-02-22 05:40:16</code></p>
 <p><a href="https://t.me/mohsentavoosiseo" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
@@ -78,7 +78,7 @@ https://t.me/mohsentavoosiseo/633
 https://t.me/mohsentavoosiseo/634
 https://t.me/mohsentavoosiseo/639
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 1.44K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">18:48 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 1.45K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">18:48 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 679 -->
@@ -86,7 +86,7 @@ https://t.me/mohsentavoosiseo/639
 <p>واقعا خوشم نمیاد از این خسیس بازی بیش از حد کلاد. دوتا لینک کرد و خوند، یه دونه گوگل شیت دویست ردیفته و ده ستونه ساخت کلاد مکس(5x pro) شد 22 درصد!
 البته با Sonnet کمتر مصرف میکرد قطعا. ولی حوصله خنگ بازیش رو نداشتم چون کار گوگل شیتش پیچیده بود. آدم هم مغزش از جا درمیومد با این تسک.
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 1.45K · <a href="https://t.me/mohsentavoosiseo/679" target="_blank">14:32 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 1.46K · <a href="https://t.me/mohsentavoosiseo/679" target="_blank">14:32 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 678 -->
@@ -121,7 +121,7 @@ https://t.me/mohsentavoosiseo/639
 این ویس
 گفتم.
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 2.02K · <a href="https://t.me/mohsentavoosiseo/676" target="_blank">16:16 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.03K · <a href="https://t.me/mohsentavoosiseo/676" target="_blank">16:16 · 16 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 675 -->
@@ -154,7 +154,7 @@ https://t.me/mohsentavoosiseo/639
 ❗️
 - موقع پرامپت دادن برای تولید چیزی یا انجام کاری، بهش دیتا نمیدید یا دیتای کمی میدید و بعد از اینکه تولید کرد تازه یادتون میفته بهش مشخصات بیشتری بدید. مثلا برای تولید عکس، نه سایز میدید نه نسبت نه تم رنگی و واقعی بودن یا کارتونی بودن یا استفاده کردن یا نکردن از چیز خاصی و... . اما به محض تولید هر خروجی یادتون میفته که ااااا اینم باید بهش بگم. تصورتون اینه که مغز شما رو باید بخونه اون بدبخت.
 @mohsenavoosiseo</p>
-<div class="tg-footer">👁 1.99K · <a href="https://t.me/mohsentavoosiseo/674" target="_blank">15:48 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2K · <a href="https://t.me/mohsentavoosiseo/674" target="_blank">15:48 · 16 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 673 -->
@@ -178,7 +178,7 @@ https://t.me/mohsentavoosiseo/639
 البته من دارم درباره Opus حرف میزنم. Sonnet بسیار خنگ تر هست ولی باز بهتر از نسخه 5.5 هست و گاها برابری میکنه.
 بی انصافی نکنم، باگش تو 5.5 خیلی رفع شد. شما همین سوالی که گفتم رو برو بذار رو نسخه 5.4. کلا در حد ناندرتال ها خنگ میشه دوباره.
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 1.98K · <a href="https://t.me/mohsentavoosiseo/673" target="_blank">15:36 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 1.99K · <a href="https://t.me/mohsentavoosiseo/673" target="_blank">15:36 · 16 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 672 -->
@@ -198,7 +198,7 @@ https://t.me/mohsentavoosiseo/639
 <p>اکانت ChatGPT نسخه Plus روی ایمیل خودتون بدون نیاز به ارسال دسترسی، ماهانه با مبلغ 1100 (یک میلیون و صد هزار تومن) از طریق آی دی  @mohsentavoosisupport  قابل تهیه هست. (اشتراکی نیست).
 ❓
 چرا قیمتش پایین هست. مگه 20 دلار بالای 3 میلیون تومن نمیشه؟  به این علت…</p>
-<div class="tg-footer">👁 2.73K · <a href="https://t.me/mohsentavoosiseo/660" target="_blank">17:41 · 13 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.74K · <a href="https://t.me/mohsentavoosiseo/660" target="_blank">17:41 · 13 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 659 -->
@@ -221,7 +221,7 @@ https://t.me/mohsentavoosiseo/639
 تسلط به کلاد
 رسیدیم به این جمله که در آینده افراد شغل هاشونو از دست نمیدن. بلکه کسانی که بلد نیستند با AI کار کنند شغل هاشونو از دست میدن. (فعلا غیر از کارهای دستی مثل آشپزی و ماساژ و خیاطی و...)
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 3.07K · <a href="https://t.me/mohsentavoosiseo/658" target="_blank">00:48 · 08 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.08K · <a href="https://t.me/mohsentavoosiseo/658" target="_blank">00:48 · 08 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 657 -->
@@ -232,7 +232,7 @@ https://t.me/mohsentavoosiseo/639
 ✅
 باعث کندی  با وی پی ان  یا از خارج از ایران یا زمانی که اینترنت بین الملل وصل هست یا اگه هاست خارج باشه، نمیشه.
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 3.65K · <a href="https://t.me/mohsentavoosiseo/657" target="_blank">00:39 · 08 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.66K · <a href="https://t.me/mohsentavoosiseo/657" target="_blank">00:39 · 08 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 655 -->
@@ -258,7 +258,7 @@ https://t.me/mohsentavoosiseo/639
 <div class="tg-message">
 <!-- msg_id: 652 -->
 <p>Voice message</p>
-<div class="tg-footer">👁 3.5K · <a href="https://t.me/mohsentavoosiseo/652" target="_blank">17:05 · 07 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.51K · <a href="https://t.me/mohsentavoosiseo/652" target="_blank">17:05 · 07 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 651 -->
@@ -270,7 +270,7 @@ https://t.me/mohsentavoosiseo/649
 برای کارهای ساده در حد ترجمه و ویراستاری نقطه ویرگولی و...، اصلا نیاز به Claude نیست. مثل این میمونه که وسط آسفالت صاف، لندکروز ببری. سلطان رو سر چیزای بیخود بیدار نکنید.
 تسک ساده هایی که خیلی هم ساده نیستند ولی پیچیده هم نیستند و فقط نیاز دارید خنگ بازی کمتری داشته باشه هوش مصنوعی، هم روی Sonnet. خیلی با Haiko  تجربه ندارم که بگم دربارش.
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 3.49K · <a href="https://t.me/mohsentavoosiseo/651" target="_blank">14:02 · 07 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 3.5K · <a href="https://t.me/mohsentavoosiseo/651" target="_blank">14:02 · 07 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 650 -->
@@ -374,7 +374,7 @@ https://t.me/mohsentavoosiseo/623
 @mohsentavoosisupport
 ————
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 2.56K · <a href="https://t.me/mohsentavoosiseo/641" target="_blank">14:58 · 03 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 2.57K · <a href="https://t.me/mohsentavoosiseo/641" target="_blank">14:58 · 03 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 639 -->
@@ -419,7 +419,7 @@ mohsentavoosi.com</p>
 امیدوارم هیچ وقت به چنین چیزی دیگه نیاز پیدا نکنیم.
 آرزو میکنم به محض اینکه اینکارو کردید پشیمون شید بخاطر وصل شدن ابدی اینترنت بین الملل. آرزو میکنم زحمتتون هدر بره! می ارزه!
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 3.51K · <a href="https://t.me/mohsentavoosiseo/631" target="_blank">14:21 · 24 Farvardin 1405</a></div>
+<div class="tg-footer">👁 3.52K · <a href="https://t.me/mohsentavoosiseo/631" target="_blank">14:21 · 24 Farvardin 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 630 -->
@@ -472,7 +472,7 @@ https://parspack.com/cdn</p>
 تو این اموزش یاد دادم چطوری با CDN پارس پک بتونن هندل کنن(برای ssl بر خلاف ارجین رول نیاز نیست دیگه ابر cdn روشن بشه فقط از رکوردهاش استفاده میکنن)
 https://docs.parspack.com/ssl/free-ssl-issue-iran-access/
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 3.69K · <a href="https://t.me/mohsentavoosiseo/625" target="_blank">17:00 · 21 Farvardin 1405</a></div>
+<div class="tg-footer">👁 3.7K · <a href="https://t.me/mohsentavoosiseo/625" target="_blank">17:00 · 21 Farvardin 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 624 -->
@@ -534,7 +534,7 @@ https://parspack.com/cdn
 در فکر آمادگی برای تغییر قوانینی هستم که در سود و زیان وب سایت ها موثره و بازی رو عوض میکنه. آیا خدمات و محصولات شما بعد از تغییرات بزرگ همچنان تقاضا یا سود داره‌؟
 بر خلاف تصور عموم، به عقیده من کسب و کار های مهاجرتی، همچنان پررونق تر و راحت تر پیش خواهد رفت.
 @mohsentavoosiseo</p>
-<div class="tg-footer">👁 6.25K · <a href="https://t.me/mohsentavoosiseo/616" target="_blank">19:33 · 03 Esfand 1404</a></div>
+<div class="tg-footer">👁 6.26K · <a href="https://t.me/mohsentavoosiseo/616" target="_blank">19:33 · 03 Esfand 1404</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 613 -->
@@ -739,7 +739,7 @@ https://www.linkedin.com/posts/mohsentavoosi_aebaeoaew-activity-7409525124615348
 </div>
 <div class="tg-message">
 <!-- msg_id: 591 -->
-<p><img src="https://cdn4.telesco.pe/file/FNNHm6kfJBmgZI15uqnX1Tfp2bikp-5p5SmMC7kq-w-ivQ0PQ-Ve9EDUUcfgUoNH2X7GXfatwGxFYusd60HE4_amLNj1rCdRInb310yS3rTpadim2EOTBqPRRCfbub6dtslZaZwGlxsnMTuW_l5UZIF1pbkYbfbSQA6EQmTb5SAMfUSlMUsVYXxeipfrUaa5vFdFifYj691Cke_Sw7R-CfH6rtCiwQcfPNTyAiRnBMcQcnBEkPjJnNMTbrLiEV9pJNT6mO_nPVNPxDR2DAIxoLYfu1xHOjlu27Y6jm_9V-krgK8H1aWVxeGbV1AKqWU1VojhIMC1X4KYn89It99plQ.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/dmoZJvIMqlBtgYlIgktu558hobL71lxOb7ZPbjhiVQkHiYa6xVZ8jLchj_ZGHlK63FSqbwMRtjLaSKBBX1FwfUdeBCpkpqghUYFZgkAFryEKaXCqEe79nU-CMcjmHjvfNWQJVsWMsysWFs7vOKSPWy0d-vaDdkzx16lmvP0pxgPAK6ObLsswuaU7O7NgvOA-OhF_3oemT9fED5czb1YWeom9ogSi8eawK7uOBrwYRswHmI7-mPxar5h7-F-co3MV3NSaF_lK7r45tbHNTjKTBGM4QXciLnQy8aTQPNROeiDiBu0e5UUqX7j8gO_l5sIvybcWQd47AdyTdxRz_GRD3A.jpg" alt="photo"/></p>
 <p>https://eseminar.tv/webinar/%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B3%D8%A6%D9%88%D9%84%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%DB%8C-%DB%B4
 در این رویداد حضوری، قراره من و جمعی از دوستان در پنل درباره بحث قیمت و بازدهی رپورتاژ ها در سئو از نظر فنی و تجاری صحبت کنیم.
 من برگزار کننده نیستم و صرفا یکی از اعضای پنل هستم.</p>
@@ -761,7 +761,7 @@ Disavow & Ahrefs
 </div>
 <div class="tg-message">
 <!-- msg_id: 587 -->
-<p><img src="https://cdn4.telesco.pe/file/ugJY-xP57nfzps6mpLWL71Bmpx8yOgcDcdPAE0RWTP6slCtkVmhLCV1NJ38bSQHrKWxQkbEz-h7OGADQkzFMxfIcK37zxHHf5VD6XcK-EUHQq8oIxKDxMQ9ibUEBmc0_h7TrZEQVOw0GkvBR2LcwJbdv8_xnnke7k-jkvjjPkl3hcOChPRYeU-SO76F37E1mPBJfdhucB_a3nUB8V1fVUXd29x_fYRaGPGm5VegEfSl4eDwDUw1Bp7p8Mdei5b9yCZs8EdWoT6FEqsE2aj9eKfjKQmkdoqHLwCIhLzkzezj4VStMvXNdT42dRCmyLRv63SybBfG8rUh_oWBHtNWsfg.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/nbKPbthCg-jHjWRQ4o5BDy1TJnOrM5mXvjIoQ5AR1jKfFQY1O7TsxpfCCwp2XcxSmS-JKac0frqEqyEf0IoBYgkTFXio1sji0Z98u9sa-WYMP7OdKDHHiS2EAIcODF-qo9NuSzdcrSeDX9p0IecAZp3Xh4kIzaUv6npX7xYQV3pH2PQtlX3RtkEwav5mtESz4wi5KY7wK8K8NDwwMNu6laWhWC10LmgV94GC6H41vluFgcm7tYed9NH0SHlZdXjwVh9M_kQmRS-rdvPLe1BwfK1BEd0isMPnaUfUQ3vMuattQqbdwQ75gD-AC73urGITcMXyY99yKYai1lQ0vCrW2A.jpg" alt="photo"/></p>
 <p>تا ۷۸٪ تخفیف خرید رپورتاژ (انواع بک لینک)
 تا ۳۵٪ تخفیف سفارش محتوا
 از ۹ تا ۲۲ آذر
@@ -983,7 +983,7 @@ https://mohsentavoosi.com/video/search-console-click-count-bug/
 </div>
 <div class="tg-message">
 <!-- msg_id: 554 -->
-<p><img src="https://cdn4.telesco.pe/file/Xxm5clbme2w3zvOTHzIUUnlNFtYTC-FEHy7rzZnvvZgXoBdNmzb_7CxHcDi_r6AJxMxxwvt3GOgw-pzD-Tzafn2OyHii40_kkk40xOPA0glql-tx1Dkv7EEOoLPMPKrRKrPK0ZCjTy1ukLnnr2d7k2K21RJElxvGKYPAUFJi7ookMtS69skyyZ5qLT_rbrbgqpeCpgAy90oGcCdDGP3ZQOpsyY9lxoVZkKEwctdvYnRekuoSDIL3aFXesUwmU6lDhKakksUmwSG1gUTIOuyeuFNsc_P7m5g2AU1omAeVBtEsVE4fmZTvn7iPkkRIJud5wvSODU4zCq9dvbgVWA4aNw.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/S61hQFhRnhUTHHFY8qQ_R2nCN8KRGJL1MyavKBNIoByu8j2dO8uKXbHEmUpImHjr9raWoIJhoLb4m_a3IKE43OtvB23qqlMtSwExO_lyTVj28z1pCHJLZOVepKU95YSSN7nIlYYMJ3dnBE-5Z_KEd_pHmv3IBF4u0vG1SSrL9EUEcnrBKlTgIi3aY1r7k5MAgX2Sq9uzszex6Pm5FTk0xNcAxy7VfM7okmZklMq4MojFSLvHdTs3y5XFRPaitIbFQpRaPFFCWMxXKjcCtyyWkJ1vJocFEkDiIE5ZDjK6iZusoo-bUoiE6xt9j1y5orgrDlypLqicAXcIuwv2YMZMIg.jpg" alt="photo"/></p>
 <p>من خیلی می بینم که به دنبال ابزار رایگان هوش مصنوعی هستند. یا مثلا میگن فلان ابزار AI همه ابزار های هوش مصنوعی رو با مبلغ کمتر داره! این به خاطر عدم آگاهی و اطلاع از این هست که هیچ رایگان شدنی بی دلیل نیست و هیچ ارزان شدنی بدون تلفات نیست.
 برای مثال ابزارهایی که همه ابزار های دیگه رو یک جا ارزون تر میدن، دیگه امکان آپلود فایل رو نمیدن. یا ارسال ویس یا حافظه ای که پاسخ دهی رو برای شما Customize کنه! ابزار های رایگان هم که تکلیفشون مشخصه!
 یا صرفا دوسه تا تقاضای اول رایگان هست که دون پاشی هست برای خرید بخش پولی. و کسی که حاضر هست این همه انرژی و هزینه مالی مستقیم و غیر مستقیم بابت ارزون تر یا رایگان گرفتن چیزی بذاره، قطعا یا کاسبی و درامدزایی نمی کنه یا داره پول بیشتری هدر میره و انرژی بیشتری تلف میکنه.
