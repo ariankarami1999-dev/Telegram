@@ -292,7 +292,7 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-22 12:32:34</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-22 12:56:52</div>
 <hr>
 
 <div class="tg-post" id="msg-89901">
@@ -305,7 +305,7 @@
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 516 · <a href="https://t.me/Futball180TV/89901" target="_blank">📅 12:04 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 742 · <a href="https://t.me/Futball180TV/89901" target="_blank">📅 12:04 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89900">
@@ -318,7 +318,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 574 · <a href="https://t.me/Futball180TV/89900" target="_blank">📅 12:03 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 765 · <a href="https://t.me/Futball180TV/89900" target="_blank">📅 12:03 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89899">
@@ -337,7 +337,7 @@ Channel:
 اپلیکیشن رو دانلود کردید موقع ثبت‌نام، کد هدیه 1x_1566529 رو وارد کن و تا
 100یورو
 هدیه بگیر!</div>
-<div class="tg-footer">👁️ 535 · <a href="https://t.me/Futball180TV/89899" target="_blank">📅 12:03 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 741 · <a href="https://t.me/Futball180TV/89899" target="_blank">📅 12:03 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89898">
@@ -360,7 +360,7 @@ bitly.uk/connect1xbet
 برای ورود به سایت از فیلترشکن کشور های اسیایی یا کانادا یا ترکیه استفاده کنید
 ⬇️
 فایل نصب اندروید 1XBET</div>
-<div class="tg-footer">👁️ 536 · <a href="https://t.me/Futball180TV/89898" target="_blank">📅 12:03 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 740 · <a href="https://t.me/Futball180TV/89898" target="_blank">📅 12:03 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89897">
@@ -373,7 +373,7 @@ bitly.uk/connect1xbet
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 928 · <a href="https://t.me/Futball180TV/89897" target="_blank">📅 11:37 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.06K · <a href="https://t.me/Futball180TV/89897" target="_blank">📅 11:37 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89896">
@@ -385,7 +385,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 1.08K · <a href="https://t.me/Futball180TV/89896" target="_blank">📅 11:30 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.21K · <a href="https://t.me/Futball180TV/89896" target="_blank">📅 11:30 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89895">
@@ -402,7 +402,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/Futball180TV/89895" target="_blank">📅 09:22 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/Futball180TV/89895" target="_blank">📅 09:22 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89894">
@@ -420,7 +420,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/Futball180TV/89894" target="_blank">📅 09:16 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/Futball180TV/89894" target="_blank">📅 09:16 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89893">
@@ -435,7 +435,7 @@ Channel:
 سرویس ها محدودیت زمانی و کاربری ندارند و بدون ضریب هستند.
 خرید:
 @SorenaVpnRobot</div>
-<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/Futball180TV/89893" target="_blank">📅 01:07 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/Futball180TV/89893" target="_blank">📅 01:07 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89892">
@@ -446,7 +446,7 @@ Channel:
 میگی ن ؟ بیا تو چنلمون و ببین
 🔥
 @FutballFuckBet @FutballFuckBet @FutballFuckBet @FutballFuckBet</div>
-<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/Futball180TV/89892" target="_blank">📅 00:31 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.67K · <a href="https://t.me/Futball180TV/89892" target="_blank">📅 00:31 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89891">
@@ -461,7 +461,7 @@ Channel:
 @FutballFuckBet
 @FutballFuckBet
 @FutballFuckBet</div>
-<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/Futball180TV/89891" target="_blank">📅 00:31 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.65K · <a href="https://t.me/Futball180TV/89891" target="_blank">📅 00:31 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89890">
@@ -479,7 +479,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/Futball180TV/89890" target="_blank">📅 00:26 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/Futball180TV/89890" target="_blank">📅 00:26 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89889">
@@ -497,7 +497,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.07K · <a href="https://t.me/Futball180TV/89889" target="_blank">📅 22:50 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.09K · <a href="https://t.me/Futball180TV/89889" target="_blank">📅 22:50 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89888">
@@ -514,7 +514,7 @@ Channel:
 خرید
 @amoadmins_bot
 @amoadmins_bot</div>
-<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/Futball180TV/89888" target="_blank">📅 22:21 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/Futball180TV/89888" target="_blank">📅 22:21 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89887">
@@ -532,7 +532,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/Futball180TV/89887" target="_blank">📅 19:30 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.54K · <a href="https://t.me/Futball180TV/89887" target="_blank">📅 19:30 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89886">
@@ -551,7 +551,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.6K · <a href="https://t.me/Futball180TV/89886" target="_blank">📅 19:13 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.61K · <a href="https://t.me/Futball180TV/89886" target="_blank">📅 19:13 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89885">
@@ -564,7 +564,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.45K · <a href="https://t.me/Futball180TV/89885" target="_blank">📅 19:10 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.46K · <a href="https://t.me/Futball180TV/89885" target="_blank">📅 19:10 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89884">
@@ -578,7 +578,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.61K · <a href="https://t.me/Futball180TV/89884" target="_blank">📅 17:37 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.62K · <a href="https://t.me/Futball180TV/89884" target="_blank">📅 17:37 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89883">
@@ -592,7 +592,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/Futball180TV/89883" target="_blank">📅 17:35 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.54K · <a href="https://t.me/Futball180TV/89883" target="_blank">📅 17:35 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89882">
@@ -619,7 +619,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/Futball180TV/89881" target="_blank">📅 16:41 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.51K · <a href="https://t.me/Futball180TV/89881" target="_blank">📅 16:41 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89880">
@@ -645,7 +645,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.71K · <a href="https://t.me/Futball180TV/89879" target="_blank">📅 13:59 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.72K · <a href="https://t.me/Futball180TV/89879" target="_blank">📅 13:59 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89878">
@@ -750,7 +750,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/Futball180TV/89872" target="_blank">📅 00:47 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.87K · <a href="https://t.me/Futball180TV/89872" target="_blank">📅 00:47 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89871">
@@ -763,7 +763,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/Futball180TV/89871" target="_blank">📅 00:46 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.87K · <a href="https://t.me/Futball180TV/89871" target="_blank">📅 00:46 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89870">
@@ -775,7 +775,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/Futball180TV/89870" target="_blank">📅 00:42 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.51K · <a href="https://t.me/Futball180TV/89870" target="_blank">📅 00:42 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89869">
@@ -788,7 +788,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.41K · <a href="https://t.me/Futball180TV/89869" target="_blank">📅 00:40 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.42K · <a href="https://t.me/Futball180TV/89869" target="_blank">📅 00:40 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89868">
@@ -1277,7 +1277,7 @@ Channel:
 🤝
 همکاری و فروش عمده پذیرفته می‌شود
 .</div>
-<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/Futball180TV/89834" target="_blank">📅 00:27 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/Futball180TV/89834" target="_blank">📅 00:27 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89833">
@@ -1323,7 +1323,7 @@ V2ray
 10 گیگ: 2.800   برای خرید بهشون پیام بدین
 ⬇️
 @kaviani_vpn…</div>
-<div class="tg-footer">👁️ 5.84K · <a href="https://t.me/Futball180TV/89831" target="_blank">📅 01:27 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.85K · <a href="https://t.me/Futball180TV/89831" target="_blank">📅 01:27 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89830">
