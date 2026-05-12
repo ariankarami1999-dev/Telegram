@@ -11,8 +11,9 @@ on:
         description: 'تعداد پیام (فقط در صورت افزودن کانال جدید معنی دارد)'
         required: false
         type: string
-schedule:
-  - cron: '*/30 * * * *'  # هر ۳۰ دقیقه
+  schedule:
+    - cron: '*/30 * * * *'
+
 permissions:
   contents: write
 
