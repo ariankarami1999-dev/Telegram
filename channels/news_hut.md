@@ -55,17 +55,43 @@ img {
 <h1>📡 هات نیوز | HotNews</h1>
 <p><strong>@news_hut</strong> · 👥 148K عضو</p>
 <p><em>بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</em></p>
-<p>🕐 آخرین بروزرسانی: <code>1405-02-22 05:40:16</code></p>
+<p>🕐 آخرین بروزرسانی: <code>1405-02-22 10:02:03</code></p>
 <p><a href="https://t.me/news_hut" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>
 </div>
 <hr/>
+<div class="tg-message">
+<!-- msg_id: 64891 -->
+<p>🎬 <a href="https://cdn4.telesco.pe/file/fbb21e178c.mp4?token=DAH77JyTyRlsfmkJ_B3SqBA2U3KB8YulZgrqRXWWO9LkMx8f0687Ki8BNrZY0O3oY740NXTwYK1UdoxHsLks8Im2GvI26ogJzvVDCvUa81KHkULfW0AjGH7YWhybl_K4koD3uYgGXwBxchrG5hFDc_52owELJ9AnNIZZ3rPFUATgFApWUUULOMTfJ1cbysw-en6gTuj9XFHHmK07iri_pRAoM3tpHhoRhdlazw-O7BgzEY3dmMM3FN2nhdmVsLDXJ_X5Vl25WhGR5x-N0QTZvgBE-FBmi_g7vRPY7UovmQslF12HRRy360yuIgwIlcWNJLyq0BpquJERzxgLUIIvsQ" target="_blank">دانلود ویدیو</a></p>
+<p>🇺🇸
+ترامپ:
+ملانیا بهم  گفته باید رفتارت رو درست کنی تو دیگه رئیس جمهوری پس از کلمات رکیک و فوش استفاده نکن. من هم همین کار رو می‌کنم.
+@News_Hut</p>
+<div class="tg-footer">👁 2.33K · <a href="https://t.me/news_hut/64891" target="_blank">09:38 · 22 Ordibehesht 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 64890 -->
+<p>🎬 <a href="https://cdn4.telesco.pe/file/ba55a8b78a.mp4?token=O098DWCZ1bPw3YMcuEQ5dMeHxaWfR1qq85akoLEEMbBcohaQV1i0hdFaAFhFCTUJ7GiT4DpjT-TbM1j8uVVFDPxVH9cfFKjz46coiR1s1YjHGi_PKYzrNImzrjud8Z6T2Nf9iAmGSWnak3u-z2GeLcHi0A642pxxk1cxNf7mYm3os9XpOGB2sYKQbjp_VFbiHJZljJtmxvhfiwXkbqXx6PhcX83TinwJOnIhfA4zdE_xLDQVv_-hICOeip_m2agHB_3GQpaPwt-r-wp8lAIbSzOrJbprjTVFyD05AIpSgOWjWBGubstfrzjJIk_qBH4kArAK9P6hfc6Y4hwZ3UjD4g" target="_blank">دانلود ویدیو</a></p>
+<p>🇺🇸
+ترامپ درباره نماینده حزب جمهوری خواهان تو انتخابات ریاست جمهوری آینده امریکا:
+کیا جی‌دی ونس رو دوست دارن؟ کیا مارکو روبیو رو؟
+به نظر ترکیب خوبی میان، من معتقدم که این یه تیم رویاییه. فکر می‌کنم کاندیدای ریاست جمهوری و کاندیدای معاونت ریاست جمهوری آینده باشند
+@News_Hut</p>
+<div class="tg-footer">👁 2.38K · <a href="https://t.me/news_hut/64890" target="_blank">09:37 · 22 Ordibehesht 1405</a></div>
+</div>
+<div class="tg-message">
+<!-- msg_id: 64889 -->
+<p>🚨
+📰
+خبرگزاری والا اسرائیل: هفته پیش ایالات متحده نزدیک بود حملات به ایران را از سر بگیرد؛  اما پس از آنکه مشاوران نزدیک ترامپ به او توصیه کردند که قبل از تشدید نظامی، یک تلاش نهایی برای مذاکرات را مجاز کند، تصمیم به تعویق افتاد. ﻿ @HutNewsPlus</p>
+<div class="tg-footer">👁 3.39K · <a href="https://t.me/news_hut/64889" target="_blank">09:21 · 22 Ordibehesht 1405</a></div>
+</div>
 <div class="tg-message">
 <!-- msg_id: 64888 -->
 <p><img src="https://cdn4.telesco.pe/file/puY_PXyNfAmJTYn_-G9TQ4frA80b4cSGIyGfKJ9ZHzVKYMFyN_UdPcswvkb5yc8-yi-y1-X-WSosXf_zWoXRN8aaVUFqrU1OMXRv7z7Zffg679YfhKUbUeQJnp9bT8_5SQjHzZWG4s7xRjoF-QJx_zToveNJ1tz1UH-Z8-JyiEfcdxy50iDjkC3hPpyTWqmxEDZvMAfWj1CUpU6kKl0v5wDvTZqoICI0Ov3qhlJVThV-6sv6f2puMZSjYRw7YIsYsaUqwzvwLmcftPOHriu66zIg_xyCTpywIJk-GfYxKJAJlQq2ASrj2FgcMrazbQFz7pUy9nNrS0a1mDcfcqA9fA.jpg" alt="photo"/></p>
 <p>🇺🇸
 ترامپ: من بسیار مشتاق سفرم به چین هستم، کشوری شگفت‌انگیز، با رهبری، رئیس‌جمهور شی، که مورد احترام همه است. اتفاقات بزرگی برای هر دو کشور خواهد افتاد!
 @News_Hut</p>
-<div class="tg-footer">👁 1.81K · <a href="https://t.me/news_hut/64888" target="_blank">03:38 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 8.18K · <a href="https://t.me/news_hut/64888" target="_blank">03:38 · 22 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64887 -->
@@ -79,14 +105,14 @@ img {
 سرویس ها محدودیت زمانی و کاربری ندارند و بدون ضریب هستند.
 خرید:
 @SorenaVpnRobot</p>
-<div class="tg-footer">👁 4.85K · <a href="https://t.me/news_hut/64887" target="_blank">01:07 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 9.72K · <a href="https://t.me/news_hut/64887" target="_blank">01:07 · 22 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64886 -->
 <p>🇨🇳
 🇺🇸
 سخنگوی وزارت خارجه چین: ترامپ از چارشنبه ۱۳می تا جمعه ۱۵می (۲۳ تا ۲۵ اردیبهشت) میاد چین.  @News_Hut</p>
-<div class="tg-footer">👁 9.88K · <a href="https://t.me/news_hut/64886" target="_blank">22:52 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 12.6K · <a href="https://t.me/news_hut/64886" target="_blank">22:52 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64885 -->
@@ -101,7 +127,7 @@ img {
 خرید
 @amoadmins_bot
 @amoadmins_bot</p>
-<div class="tg-footer">👁 27.3K · <a href="https://t.me/news_hut/64885" target="_blank">22:21 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 32.8K · <a href="https://t.me/news_hut/64885" target="_blank">22:21 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64884 -->
@@ -112,7 +138,7 @@ img {
 اینو که ما خیلی‌وقت پیش گفتیم
 😎
 @News_Hut</p>
-<div class="tg-footer">👁 11.5K · <a href="https://t.me/news_hut/64884" target="_blank">20:56 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 13.1K · <a href="https://t.me/news_hut/64884" target="_blank">20:56 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64883 -->
@@ -121,7 +147,7 @@ img {
 🚨
 🇺🇸
 #فوری؛ ترامپ: آتش‌بس داره می‌میره، بهش اکسیژن وصل کردیم تا زنده بمونه، یک درصد ممکنه زنده بمونه!!!!  @News_Hut</p>
-<div class="tg-footer">👁 13K · <a href="https://t.me/news_hut/64883" target="_blank">19:17 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.1K · <a href="https://t.me/news_hut/64883" target="_blank">19:17 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64882 -->
@@ -132,94 +158,94 @@ img {
 #فوری
 ؛ ترامپ: آتش‌بس داره می‌میره، بهش اکسیژن وصل کردیم تا زنده بمونه، یک درصد ممکنه زنده بمونه!!!!
 @News_Hut</p>
-<div class="tg-footer">👁 13K · <a href="https://t.me/news_hut/64882" target="_blank">19:16 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14K · <a href="https://t.me/news_hut/64882" target="_blank">19:16 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64881 -->
 <p>🇺🇸
 ترامپ: کُرد ها سلاح‌ها رو برداشتند، مردم ایران بی‌سلاح هستند
 @News_Hut</p>
-<div class="tg-footer">👁 12.7K · <a href="https://t.me/news_hut/64881" target="_blank">19:15 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 13.8K · <a href="https://t.me/news_hut/64881" target="_blank">19:15 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64880 -->
 <p>🇺🇸
 ترامپ: ایرانیا گفتن بیاین اورانیوم رو بیرون بیارید چون ما نمی‌تونیم، فقط شما و چین می‌تونید!
 @News_Hut</p>
-<div class="tg-footer">👁 12.4K · <a href="https://t.me/news_hut/64880" target="_blank">19:11 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 13.4K · <a href="https://t.me/news_hut/64880" target="_blank">19:11 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64879 -->
 <p>تا مرز رسیدن به تفکر اوباما</p>
-<div class="tg-footer">👁 12.3K · <a href="https://t.me/news_hut/64879" target="_blank">19:10 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 13.3K · <a href="https://t.me/news_hut/64879" target="_blank">19:10 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64878 -->
 <p>حالا ترامپ با یک نیروی معجزه‌آسای تاریخی بنام #محاصره‌_دریایی به دنبال حداکثرِحداکثرِحداکثرهاست!</p>
-<div class="tg-footer">👁 12.2K · <a href="https://t.me/news_hut/64878" target="_blank">19:09 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 13.2K · <a href="https://t.me/news_hut/64878" target="_blank">19:09 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64877 -->
 <p>🇺🇸
 ترامپ: آخرش رهبرای تندرو ایران رو تسلیم می‌کنیم  @News_Hut</p>
-<div class="tg-footer">👁 12.5K · <a href="https://t.me/news_hut/64877" target="_blank">18:49 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 13.5K · <a href="https://t.me/news_hut/64877" target="_blank">18:49 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64876 -->
 <p>🇺🇸
 ترامپ: ایرانیا بهمون گفتن بیاین اورانیوم های مدفون شده رو خودتون بردارین، چون ما فناوریش استخراجش رو نداریم  @News_Hut</p>
-<div class="tg-footer">👁 12.4K · <a href="https://t.me/news_hut/64876" target="_blank">18:48 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 13.4K · <a href="https://t.me/news_hut/64876" target="_blank">18:48 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64875 -->
 <p>🇺🇸
 ترامپ: ایرانیا بهمون گفتن بیاین اورانیوم های مدفون شده رو خودتون بردارین، چون ما فناوریش استخراجش رو نداریم
 @News_Hut</p>
-<div class="tg-footer">👁 12.1K · <a href="https://t.me/news_hut/64875" target="_blank">18:47 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 13.2K · <a href="https://t.me/news_hut/64875" target="_blank">18:47 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64874 -->
 <p><img src="https://cdn4.telesco.pe/file/YrWNO0dGoc1rfYrk9TCmEy5HnTK9S5BSeNOG-cCsJp73Pv4vYgP6jiSfOPWO6tpum5EPOQo-Z1r8zQeGiN6efMnQ__fOGblS5a_9OlbfojJDReaXetFbuZR7bgVXBGdfq9Wc0Iz-m3CIrxRFRkAKBKH3ZPh4UzRPtzN-cv5X_Ny4nyNn7go2FXr-GcQKlvt9Z67TkfVYIwzqm9a-e7u8-EuatV3kv9r2I_wnbnm2OLhhnq_czJ_FW44fr8NBLwos86b16zPQA5G6AYqe9pd7VL8la14xIJ0KvDDhvIdzRjKC8-Vd8rsp3c7oYaWyZ1mtCVVNEmuOB2cCeaVMXlqHgg.jpg" alt="photo"/></p>
 <p>جمهوری اسلامی بعد از اذان صبح امروز، عرفان شکورزاده، نخبه‌ی هوافضای کشور را اعدام کرد
 @News_Hut</p>
-<div class="tg-footer">👁 14.8K · <a href="https://t.me/news_hut/64874" target="_blank">11:03 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 15.3K · <a href="https://t.me/news_hut/64874" target="_blank">11:03 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64873 -->
-<p><img src="https://cdn4.telesco.pe/file/eomNzrGcfrCHozunwDKu3i_v22HgZBHQ7uREtfE7iJLnfJoas7tn0iH6NQFtRUr0nBEgoEoRPfV4Ssk5pnPl8E8fFHI9QkX-e5jcl4NQb_bvjqnuFgY-Fc8D4fU6S_KEDN7gby2NULYp7gqVg_4F2dhPaiO7vpYRS-zGJnvNjh3MTClzipimNbJWRhEAg9FUaIxEbWDDltcA_ZHbiVJeYQIX_IV83u_v1JVxSzTPA_x1JbFspqO1fbaBENNmvHdgexsi8ui2EXjR0YdTGPyNTODjSlbGYD2_s4QGss4YnFh0bXgMt-SFwNgrdlKSo3uViYOg6xZBHIB8QrufCGh5Bw.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/UJwKSdyBf6wW9w4SMf_s95Q5k45YrGZ-D6Kpx5dKD3kqeeh0NptosA6d-0g6E6KH5YQxlOrLGcllOeAVCJ9X9LKmtOHshkvCfAmzrwsTQNkTvGaotdMP5BtEyXYzZeqC0pGQZOofzUbKyjMS0ADMpCThgj1lZby0XTpsgOrXxBtNZbzyGB1opslw988wcO0xKeTC7tz1adcS1JlM1stqLnMiZ6TzkTgEKjB-ok1-NaxAdHXIGZPhu-0WqugMDs0Od0959jdpa46J6axc2-YgoIk1oebx8Hey0ZXzqOJq-r_StwM68GWQT86PuWhyNngkIp13n5P20KsCU_B0pK3fZQ.jpg" alt="photo"/></p>
 <p>🇺🇸
 لیندسی گراهام:
 من از تلاش‌های جدی دونالد ترامپ برای پیدا کردن یک راه‌حل دیپلماتیک جهت تغییر رفتار رژیم ایران قدردانی می‌کنم.
 ولی با توجه به حمله‌های مداوم آنها به کشتی‌رانی بین‌المللی، حمله‌های ادامه‌دار به متحدان آمریکا در خاورمیانه و حالا هم این پاسخ کاملا غیرقابل‌قبول به پیشنهاد دیپلماتیک آمریکا، به‌نظر من وقتشه مسیر عوض بشه.
 در این زمان “پروژه ازادی پلاس” خیلی ایده خوبی به‌نظر میاد.
 @News_Hut</p>
-<div class="tg-footer">👁 14.6K · <a href="https://t.me/news_hut/64873" target="_blank">09:17 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 15.1K · <a href="https://t.me/news_hut/64873" target="_blank">09:17 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64872 -->
 <p>🚨
 📰
 المیادین: منابع المیادین جزئیات پاسخ ایران به پیشنهاد آمریکا را فاش کردند:  لغو تحریم‌های آمریکا علیه ایران آزادسازی دارایی‌های مسدود شده ایران آزادی صادرات نفت و لغومحدودیت‌ هایOFAC مدیریت تنگه هرمز توسط ایران  گنجاندن بندی مربوط به آتش‌بس در لبنان با تاکید…</p>
-<div class="tg-footer">👁 14.1K · <a href="https://t.me/news_hut/64872" target="_blank">09:12 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.5K · <a href="https://t.me/news_hut/64872" target="_blank">09:12 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64871 -->
-<p><img src="https://cdn4.telesco.pe/file/XYm8rNLBmoxw29wGXnMEwGUhCXLiT65Gl74wBPzzwCG9BLajh-Kzs8zpBdIktqCsYlhmRG_pAlSK6rRl3ZlnFtfthkb8OYPsLUnj4e71JOotAT2cNbU2fhIlupBPQkc0w48aTt00FLZ7H-PnXGqBqtkPSiHiT6H3C2BhPOXkDTY1QNTicAp5aL_hH8uOa2wtSQlrDaexxAB1d8FTUCpA3jjjgl0Tv18o57VwxWlRShSIuX-6iIoh0S7Bk15TFtd3lytua1cz791lOUfuaM9UyiVZuHa8cM1eREQZMOLEe71GcRfHn3vHnvypch4umOvlDZzBKs5I42-9DFE3fjfWVg.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/X5eFKWVUFJu0j34tuUCALoknLdSdplxvFkcEpZfQJpNZhnw5x-O48aLfZkTk4Lj5_b0_uPjb1KyM-dPAu5zvxhaFwHSgsm1u8IzGPaNoVu4Y-wf6q0mD0cJymYRynhV_rD83CRXOGhie-nEYMXlCE6RpWQBrD7M5r9XdDmSYlWwLdCWOtTshOsK7L-fxAam81pQowGAhKG0xlVo40caco_e2yi4TgzDC9M9M8j51e6cXvv84BJR152ZMIuFSislV6Q8wvnOORcmGZ-wJw9dXiFzmoQc7Pe4xBsKUBkR3fly2VwmMM058YcDFU73cosaq_MtMDcSEojpirNJzkeqMiQ.jpg" alt="photo"/></p>
 <p>🇨🇳
 🇺🇸
 سخنگوی وزارت خارجه چین: ترامپ از چارشنبه ۱۳می تا جمعه ۱۵می (۲۳ تا ۲۵ اردیبهشت) میاد چین.
 @News_Hut</p>
-<div class="tg-footer">👁 14.3K · <a href="https://t.me/news_hut/64871" target="_blank">08:04 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.6K · <a href="https://t.me/news_hut/64871" target="_blank">08:04 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64870 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/1ca5d9dd02.mp4?token=n8Df3stXo_FcwJVsMq59PxCyhDdUvGGbsc_RCR4Hx3oWWQCbkKUmpLCOle98Mb6houPqAS5sTJLb57kRWIsm7DIr5xOWci8keYBVigIqiR1VusAUsJRkw6oC6bb8kveW4GaHFdGC1TPb4A-Xs8_g16KY9KnTmGRfeFyM-tUo6uJb5rLocettsue14SiirZOUgJljWoE7YlvJkHv133uXq7tnuDXZQjmNr-2O-w1Pp3uqtFpHkXEo9JTd4jEJ0ppPDoGhDNbQ_sQKpXIYNedBlfIV7l2HEfm1H1iGqHFmrXHDLEUS916XJcA9dHx3oHksATT5q8CLKjZVJlVE_BQMOw" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/1ca5d9dd02.mp4?token=YduwnEEs14zhFXoTxOBR1kjDIi87MX1AlgIS25dxt95wavhMuDHuGQkQ9fZkdHNC6Qjh-41SsAyLuCcr7ZVwxkqd_5aqGm5CCNkqW2O2Eu0Kg6I9YFiXCib4-NhSDpqiGCdYw1E9SgIepCleOBHg2tWKF1_fhQpb8YtFz9fMpa49M6bUqxpYYpkRjiimFR1QOqyPTBsmFhKnUBpf1sIW7H3darzvW2PFCqES20TUUrWVAm8oJvUShjiVXfnL3LBm1un6lljXTCNbavLmwSyfHgDgzO1sf8SEBvQ5fBasOTtpEKBWQ3cKRmeDbWkw0JznA8_FTo280AqifGB38UnTBw" target="_blank">دانلود ویدیو</a></p>
 <p>🇮🇱
 نتانیاهو درباره احتمال سقوط رژیم جمهوری اسلامی:
 فکر می‌کنم که نمی‌توان پیش‌بینی کرد که چه زمانی این اتفاق می‌افتد. آیا ممکن است؟ بله. آیا تضمین شده است؟ خیر.
 شبیه ورشکستگی است — به تدریج پیش می‌رود و سپس سقوط می‌کند.
 @News_Hut</p>
-<div class="tg-footer">👁 14.7K · <a href="https://t.me/news_hut/64870" target="_blank">05:55 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.9K · <a href="https://t.me/news_hut/64870" target="_blank">05:55 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64869 -->
@@ -229,18 +255,18 @@ img {
 در ایران، به نام من خیابان نام‌گذاری کرده‌اند. می‌دانید؟ البته بعد از رئیس‌جمهور ترامپ هم همین‌طور، چون او رهبری این نبرد را بر عهده دارد.
 اما یک چیزی هست  من فارسی بلد نیستم ولی آن‌ها به من می‌گویند “بی‌بی جون”، یعنی بی‌بیِ عزیز.
 @News_Hut</p>
-<div class="tg-footer">👁 14.1K · <a href="https://t.me/news_hut/64869" target="_blank">05:53 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.3K · <a href="https://t.me/news_hut/64869" target="_blank">05:53 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64868 -->
 <p>یک ماه و سه روز از ورودمون به چرخه‌ی سیرک‌وارِ مذاکراتی گذشت، و این چرخه مطمئنا تا روز دیدار ترامپ و شی ادامه داره [اولین رویداد مشخص شده در تصویر]، و بعد از این دیدار بهترین زمان برای آمریکا جهت آغاز مجدد درگیری ها به حساب میاد   #hjAly</p>
-<div class="tg-footer">👁 14.2K · <a href="https://t.me/news_hut/64868" target="_blank">02:38 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.4K · <a href="https://t.me/news_hut/64868" target="_blank">02:38 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64867 -->
-<p><img src="https://cdn1.telesco.pe/file/GBy9dj7YuZpJ-KmRYdC0HG2B4Kv6fSD5Hvf9-GG76w-o-srbgaBXybiX15NvWaqozf-0F7juOlvwpp6GR2gNpIXW2cw16oUT_XGBfw87tIX2C4EM6qQqM7a2ATxxpV1307CNMkvzBrlJpPSX8Hzi18LN9_AZHgEVh_Atr2lH3oh0mCJaOHRkdNwF4VflEEesLLUz9fvP5YmOJ8h-CFfzrF-Dh12Px0WE2Qls7Mj8wsB7n05ocTLunTjDYAqyOT9ExGhdBdF_jUlCPbD6qipN_aheaazZ4g_0rf5Pf11lDmEroRvrhAedxYfIeNbhwBHTB7yNtuaYXXjfWerNYcrgmA.jpg" alt="photo"/></p>
+<p><img src="https://cdn1.telesco.pe/file/FPACZaywg41I7qdV5c_coRTtAdzqzcKWhynfKHJ1ZTvui8QdbF3b7xSFeFQydejp18wPXPaIyjf6LmkFNUIGB7AOtPhnl6c0HqFfzfcmg9_TD7qhce8Amuw3VJg1YCUZ0iP0qNUuD1bMEvBfBlRN3kLY-m_O0O6rn6R8Mjg80c2R684vVOWnukDPsQR51ptC7JBGiw_8JaNU-k5SvihwKfX2Q8XPdE-kq6XRI5ZdYLOdwNp0wtdZWjXRmfAKr2PX8kxwzBAR4Kb_tJgCsptVw3t3sglS464RacsEmbgV1lHlUWKY-WYBWFlfyqzJuaRBMb-J5RK23KsXlFKIWhSsJg.jpg" alt="photo"/></p>
 <p>بنظر می‌رسه تکلیف خیلی از مسائلِ کشور در دیدار آخر هفته بین ترامپ و شی مشخص می‌شه  البته که در همین حالِ‌حاضر، احتمال از سرگیری جنگ خیلی از بیشتر از موفقیتِ مذاکراته، آمریکا بعد از خارج کردن اورانیوم های ونزوئلا، هدفش دقیقا انجام همین فرایند در ایرانه و با…</p>
-<div class="tg-footer">👁 14K · <a href="https://t.me/news_hut/64867" target="_blank">02:18 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.2K · <a href="https://t.me/news_hut/64867" target="_blank">02:18 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64866 -->
@@ -255,26 +281,26 @@ img {
 خرید
 @amoadmins_bot
 @amoadmins_bot</p>
-<div class="tg-footer">👁 44.2K · <a href="https://t.me/news_hut/64866" target="_blank">02:12 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 45.2K · <a href="https://t.me/news_hut/64866" target="_blank">02:12 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64865 -->
 <p><img src="https://cdn4.telesco.pe/file/Vt6MVqDEgIczVpzbitjGtGablON96ehbWdnZp_uRq8foIOZK1CIcAA5VHmx6RHSIDp75ZrR-6GevcI952ROlWxiSlBr5BG7iQEmQ5Igx1mJ6NfaLjPgqQVCgNHZlgaph9QK3VjzIYGYeeLYK-pcfp1ir71IWWm6oWlFXN7Kcey-IqCVZHcu4joIfBzj0Fq9yUdQVSpURiyarfcLUkWnA4NvSD93bjoKxOQoDSJI66lhO6G0JT5ZbAFtO5liiOJ9YaXm9pfyzBH7RJDuiLP2a65NDh0RoPgnUbPE3pGCbWtCqeUl6Sno4xUCzUNoBqXkmXkJy5gmA1ZkNKuUKhfI3wQ.jpg" alt="photo"/></p>
 <p>داریم به دو رویداد مهم نزدیک می‌شیم  ۱.اولین‌دیدار ترامپ در دوره‌ی جدید ریاست جمهوری خود با رئیس جمهور چین ۲‌.آغاز جام جهانی ۲۰۲۶  می‌شه گفت عملیات آزادی که ترامپ استارتش رو زد بخاطر دیدارش با رئیس جمهور چینه و می‌خواد حداقل وضعیت تنگه رو از این آشفتگی در…</p>
-<div class="tg-footer">👁 13.9K · <a href="https://t.me/news_hut/64865" target="_blank">02:08 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.1K · <a href="https://t.me/news_hut/64865" target="_blank">02:08 · 21 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64864 -->
 <p>🚨
 🇺🇸
 ؛ ترامپ: از پاسخ ایران راضی نیستم   @News_Hut</p>
-<div class="tg-footer">👁 14.3K · <a href="https://t.me/news_hut/64864" target="_blank">23:57 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.4K · <a href="https://t.me/news_hut/64864" target="_blank">23:57 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64863 -->
 <p>خبرگزاری فارس: مولوی عبدالحمید همکارِ نتانیاهو و ترامپه!
 @News_hut</p>
-<div class="tg-footer">👁 14.7K · <a href="https://t.me/news_hut/64863" target="_blank">23:54 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.9K · <a href="https://t.me/news_hut/64863" target="_blank">23:54 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64862 -->
@@ -283,14 +309,14 @@ img {
 🇺🇸
 ؛ ترامپ: از پاسخ ایران راضی نیستم
 @News_Hut</p>
-<div class="tg-footer">👁 15.1K · <a href="https://t.me/news_hut/64862" target="_blank">23:47 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 15.3K · <a href="https://t.me/news_hut/64862" target="_blank">23:47 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64861 -->
 <p>بعد مدت‌ها دارم ال‌کلاسیکو می‌بینم این چه کصشریه کاپیتان دو تیم وینسیسوس و پدری شدن یه زمانی کاسیاس و پویول بودن ابهتی داشت بازوبند
 🙁
 @News_Hut</p>
-<div class="tg-footer">👁 15.1K · <a href="https://t.me/news_hut/64861" target="_blank">22:35 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 15.3K · <a href="https://t.me/news_hut/64861" target="_blank">22:35 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64860 -->
@@ -299,14 +325,14 @@ img {
 .
 مجتبی و فرماندهای سپاه:
 @News_Hut</p>
-<div class="tg-footer">👁 14.9K · <a href="https://t.me/news_hut/64860" target="_blank">22:27 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 15.1K · <a href="https://t.me/news_hut/64860" target="_blank">22:27 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64859 -->
 <p>🚨
 🇺🇸
 ترامپ: ایران به مدت ۴۷ سال با ایالات متحده و بقیه جهان بازی کرده است (تأخیر، تأخیر، تأخیر!)، و سپس بالاخره وقتی باراک حسین اوباما رئیس‌جمهور شد، به «گنج» رسید. او نه تنها با آنها خوب بود، بلکه عالی بود، در واقع به طرف آنها رفت، اسرائیل و همه متحدان دیگر…</p>
-<div class="tg-footer">👁 14.9K · <a href="https://t.me/news_hut/64859" target="_blank">21:42 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 15K · <a href="https://t.me/news_hut/64859" target="_blank">21:42 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64858 -->
@@ -321,31 +347,31 @@ img {
 آنها بالاخره بزرگ‌ترین ساده‌لوح را پیدا کردند، به شکل یک رئیس‌جمهور ضعیف و احمق آمریکایی. او به عنوان «رهبر» ما فاجعه بود، اما نه به بدی جو بایدن خواب‌آلود!
 برای ۴۷ سال ایرانی‌ها ما را «آزمایش» کرده‌اند، ما را منتظر نگه داشته‌اند، مردم ما را با بمب‌های کنار جاده‌ای کشته‌اند، اعتراضات را سرکوب کرده‌اند و اخیراً ۴۲ هزار معترض بی‌گناه و بی‌سلاح را از بین برده‌اند و به کشور ما که حالا دوباره بزرگ شده است، می‌خندند. آنها دیگر نخواهند خندید!
 @News_Hut</p>
-<div class="tg-footer">👁 15.8K · <a href="https://t.me/news_hut/64858" target="_blank">21:30 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 16.1K · <a href="https://t.me/news_hut/64858" target="_blank">21:30 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64857 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/777e4c1402.mp4?token=uC9JxRzwiCsKO1GpaET9mJf1Kq_CZkDdZcOL1rzaH_-ThAPUHI5T_oPwGO0nASQNIZ6xk61eyj8-C8p31LH-uS_bGPFSAvJPFc679cMPF4_1tNaC_RfDmunOTn_GOgBt7irQzzfMqrFJS6QXMuAJIE3HIzuEhHFJfNjylHpXLMxSXf-BAC1905DF3ZXghvToRHstyPinYgTUoU8ooKdIuJSfy4wdHxQbeB35d53ffU6THFKpVl1LZ_GwpelXVhFcUwRWPxhlFXS99AysFXZBdrfhhK7-xL7pIj38d1k55ryZ_nvDFJg793-mu4M13Gfz1qbq4r7MQZ0GSx9U-sFF1A" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/777e4c1402.mp4?token=NTd_3I6ydasQ-Ta0ltuIohaXWue8dYbNmG10N3IXxst3BebcBfY7qLjobH6AUpdP8PF9KvCLlL22y3A9oe4N7DiJPerYPdDjI_mZeWQW9yVBjZTYFmFG1K7nTPVgISxKBIjVcP00V-2VOKFBaJhkKNuEBI5MSNyPR10IbRNVTKfHYOxHnD-pqb47vGuHGuCap5oRcIxxtXzaTezn8MCF3U_gj9-4L4j1_GNpzgYlblxAXRFa3-xH65YukYj_BzQEEz8Qx9H6TcIQFrgFhnHqckOKXObtUulCnzAV8na1ePuGEdhY5bgbpU6a22z-jw1TRbdfzH-nyFiR2N1BbMQ-_A" target="_blank">دانلود ویدیو</a></p>
 <p>🎙
 مجری: چگونه تصور می‌کنید اورانیوم بسیار غنی‌شده از ایران خارج شود؟
 🇮🇱
 نتانیاهو: شما وارد می‌شوید و آن را خارج می‌کنید. رئیس‌جمهور ترامپ به من گفته است، «می‌خواهم وارد آنجا شوم.»
 من جدول زمانی برای آن نمی‌دهم، اما می‌گویم این یک مأموریت فوق‌العاده مهم است.
 @News_Hut</p>
-<div class="tg-footer">👁 14K · <a href="https://t.me/news_hut/64857" target="_blank">21:27 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.1K · <a href="https://t.me/news_hut/64857" target="_blank">21:27 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64856 -->
 <p>🎬 <a href="https://cdn4.telesco.pe/file/7bf0dbe0a2.mp4?token=UReSsdS9PqAPfYQ5fJvdQaxYrVebVDyOhijaCJm61YTYbWUTEvLkdQKrb1XV5727NlGW4ssuWR1La94P5z3ytvZMXR657rVB_eOMXjTKecAsGUySUiugZIbVSEaOhORXwMCBTHm9R0vErws-AjLYQqrh1FR86tiz6qVSyIV5MpI_6AMSb9dpdr5B4iHVZO8ucqnqXCkWG-Zv-suQaR4j18Sxu8uy_DCn1tKb9SQkqVLyorEsWhzcVacygqfl-9Q2WkeYB7C-5vlKO4CAxvbSSPsEl9rBO9vRYZiGSoZNquLDsUpKsHDN2hBHJteR_jUdUio1T88OL_4xSxtmrG8FhQ" target="_blank">دانلود ویدیو</a></p>
 <p>نتانیاهو: جنگ با ایران هنوز تموم نشده، چون هنوز یه مقدار اورانیوم غنی‌شده تو ایران مونده که باید از ایران خارج بشه
 @News_Hut</p>
-<div class="tg-footer">👁 14.6K · <a href="https://t.me/news_hut/64856" target="_blank">20:35 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.8K · <a href="https://t.me/news_hut/64856" target="_blank">20:35 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64855 -->
 <blockquote>↪ فوروارد از: <strong>Forwarded fromAriya</strong></blockquote>
 <p>احتمال حقیقت پیدا کردن پست آخرت از تو رابطه رفتن من بیشتره</p>
-<div class="tg-footer">👁 14.8K · <a href="https://t.me/news_hut/64855" target="_blank">20:19 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 14.9K · <a href="https://t.me/news_hut/64855" target="_blank">20:19 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64854 -->
@@ -353,14 +379,14 @@ img {
 <p>آقا سیدمجتبی
 🔥
 @News_Hut</p>
-<div class="tg-footer">👁 14.9K · <a href="https://t.me/news_hut/64854" target="_blank">19:53 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 15K · <a href="https://t.me/news_hut/64854" target="_blank">19:53 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64853 -->
 <p>این وسط کره‌شمالی(آینده بقای جمهوری اسلامی) قانونی رو وضع کرد که اگر رهبر این کشور ینی کیم‌جونگ اون ترور بشه به اون کشور حمله کننده بمب اتمی بزنن
 🙁
 @News_Hut</p>
-<div class="tg-footer">👁 15.5K · <a href="https://t.me/news_hut/64853" target="_blank">16:34 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 15.6K · <a href="https://t.me/news_hut/64853" target="_blank">16:34 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64852 -->
@@ -368,14 +394,14 @@ img {
 <p>📰
 خبرگزاری جمهوری اسلامی، ایرنا: ایران پاسخ پیشنهاد متنی امریکا رو به واسطه پاکستانی ارسال کرد.
 @News_Hut</p>
-<div class="tg-footer">👁 15.5K · <a href="https://t.me/news_hut/64852" target="_blank">16:23 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 15.6K · <a href="https://t.me/news_hut/64852" target="_blank">16:23 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64851 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/81439301a6.mp4?token=fuaYVf7kCRsGOnLQSqlA-lXzJLNKWJ65HJEN7PMkd91f2mCt7NaR84DF9llvgwrVRdRlhtxBs987mK3fL9iGrnOFyphh8oDMLPKMwS8WKbtROi_idm_kfeEZS9LH6kFKKdFiiro9uDUy3S01CCLOYW47_cRRb882yytWaCVmfa7bbRXWqiGfVa6qfGr7oeTgf8DceDjnhYRiL5yCuL2oEz124tFE2tCEDv6pluq-VIkoEwqVXMwML1E-QNwmUrkya7U2y61Z9HDPEJnZmx9YsW1zQTRytFqZE3I7-EpFE7HMWRhDQqo-HLkpmS-qeQcIFlduiARb4DXAU3OkVN3HXA" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/81439301a6.mp4?token=ov56slyLXNSSoSetDwTY-HDQlap-ynGrwP1eQ_rx-ia6DZxsHDAFql4MPglT4RN0sB2dishklcnjKrNZGtzcaipt53JagF4ijWTDzAw2hRYB4MONhZ3kJf6PGBQKpIVH74IzfqzRxHXQlksNhpCu99nYvNaI_E-Jvs-X72flZi5aL0fwjzQ9_U-ZnnHuy8WFRXLkjKNfAEa__V3mv-AJhVn6CQM0UTMEnQsYh1wpRRdTe5kc_2EiIi0TzUwny-u8Nf94r-5Mf-nDCOuxYOvv5APGihvkCFKQLRktl6lO1TzqvhDMtRl5niu4a3XZDIt6XWyZDb2RrKajFx8ZnAUAYg" target="_blank">دانلود ویدیو</a></p>
 <p>در همین حین که ما تو ایران هی داریم به عقب برمی‌گردیم، برقمون بیشتر قطع میشه و اینترنت نداریم؛ بعد از ۱۵ سال تو سوریه دوباره «ویزا» و «مسترکارد» برگشت و مردم‌ش دوباره دارن به بدیهی ترین حقوق شهروندیشون میرسن.
 @News_Hut</p>
-<div class="tg-footer">👁 15K · <a href="https://t.me/news_hut/64851" target="_blank">16:19 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 15.1K · <a href="https://t.me/news_hut/64851" target="_blank">16:19 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64850 -->
@@ -383,7 +409,7 @@ img {
 <p>امروز 10می روز جهانی مادره
 🖤
 @News_Hut</p>
-<div class="tg-footer">👁 16.4K · <a href="https://t.me/news_hut/64850" target="_blank">12:44 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 16.5K · <a href="https://t.me/news_hut/64850" target="_blank">12:44 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64847 -->
@@ -399,7 +425,7 @@ img {
 <!-- msg_id: 64846 -->
 <p>❤️
 تلگرام از هوش‌مصنوعی و دستیار جدیدش با نام «@mira» رو نمایی کرد  امکانات رایگانش شامل چت متنی نامحدود، تبدیل ویس به متن، تبدیل متن به صدا، جستجو داخل اینترنت، تحلیل تصاویر، ساخت ریمایندر، لینک سوال ناشناس و حتی مدیریت والت شبکه TON روی تست‌نته. بخش پولی…</p>
-<div class="tg-footer">👁 14.9K · <a href="https://t.me/news_hut/64846" target="_blank">09:26 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 15K · <a href="https://t.me/news_hut/64846" target="_blank">09:26 · 20 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64845 -->
@@ -442,7 +468,7 @@ img {
 <!-- msg_id: 64839 -->
 <p>کشور عراق، تلگرام رو رفع فیلتر کرد
 @News_Hut</p>
-<div class="tg-footer">👁 17.9K · <a href="https://t.me/news_hut/64839" target="_blank">17:21 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 18K · <a href="https://t.me/news_hut/64839" target="_blank">17:21 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64838 -->
@@ -463,13 +489,13 @@ img {
 </div>
 <div class="tg-message">
 <!-- msg_id: 64836 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/016b41db02.mp4?token=ZK0v-SCYvczpT7q_wCwmo8awGldeWIGjlKnL0v8E4nknjX4yTT-1c6brzO8UEk72molYTFvRNXiz1FNFLoDqNidyUHCVU4BrWiW1jIDAME09Rx88wc3cPUufbcjaVahsVtNQTfSG4B7F0akJ2E_PTEN4eHHzVqcSVXpg0-aF6oMU0Bbuvt8t2G8SODzFkLcLyVEHukLh9-_o14tX34vXv8A52Yk7TJSHefrZUG9QeroWlZut3x3wihl-pfBi8ZLOSAkkgtQQ2JBHbcVjeDshBYkpf4Bzx2Ab6BHyY-Fk27a909qhJkBJzpkMOpOzf8HSdsMr5Mvm2akqRz7R7aOoOQ" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/016b41db02.mp4?token=RHd-A-4uj_T6a6o4sy0SSex6OtHY63jeco4zUKAkW5mEWdjYJawkeO8dSqzwSpQ7KG3IQX-KTlMOFFTJ82ZtLSLpsvAmF1ufLrmXq28RfTzg_g1DE4fMsYJM7mluB5pWsCZvbq-zgkChT3tgFsHGZ9TueE-q5J71e9AfB8Dr0FpcZroHmzexiy0xVMS4ad2wp-Qh5lRw4oQHCiba5VjREzOVeOxO5HPkWRZXwNodHHJRAHI6wLb7pF7BKKNgxPSoEhNIdKOAh49LjnBQtBPO2PF5Q6e1N1G0byrRp-GTbbKFTwZuNc7kfWpmE8hbxlYL5a-COuZMkEBzUGtoSHGTGg" target="_blank">دانلود ویدیو</a></p>
 <p>🎙
 خبرنگار: آقای رئیس‌جمهور تقریباْ ۱۰ هفته از اصابت یک موشک به یک مدرسه در میناب می‌گذرد. چه کسی آن موشک را شلیک کرد؟
 🇺🇸
 ترامپ: این موضوع الان تحت بررسی است و ما به محض اینکه گزارش را دریافت کنیم آن را در اختیار شما قرار خواهیم داد.
 @News_Hut</p>
-<div class="tg-footer">👁 18.1K · <a href="https://t.me/news_hut/64836" target="_blank">09:09 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 18.2K · <a href="https://t.me/news_hut/64836" target="_blank">09:09 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64835 -->
@@ -483,12 +509,12 @@ img {
 <p>🇺🇸
 ترامپ: خواهیم دید چه می‌شود
 @News_Hut</p>
-<div class="tg-footer">👁 17.9K · <a href="https://t.me/news_hut/64834" target="_blank">03:08 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 18K · <a href="https://t.me/news_hut/64834" target="_blank">03:08 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64833 -->
 <p>مارکو روبیو: متأسفانه، تندروهایی که دیدگاهی آخرالزمانی نسبت به آینده دارند، در ایران قدرت نهایی را در دست دارند.  @News_Hut</p>
-<div class="tg-footer">👁 18.2K · <a href="https://t.me/news_hut/64833" target="_blank">00:45 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 18.3K · <a href="https://t.me/news_hut/64833" target="_blank">00:45 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64831 -->
@@ -496,7 +522,7 @@ img {
 <p><img src="https://cdn4.telesco.pe/file/awwPyz2xn5tRLbAD5ESV0M6BGvJtO_xlItQ3LCSvUsaIQJQTnXfdiivv94bQghmrgQhd8Gs4F9-2OuX5bXUaH3ksdOc8wH-pUDg1_eiO5JCF_Bk8PTZQ1tF52l244xyOH9z01ExDMsj-BRdUDhA14Ahj_zoi_tCKQozZ0nr6mizFNJAuYa5jo54_1075FuN-uRRHTCqgl28kOPvL-xdZnKiDLvOB-LS-BwPOQMCSpAFQtUDf4gw2sNC67hikaktGMRjDf020OFDHOmCXkW3KihcQ31kUwOnbL4VCgIZnIt327cyyHxoKKmrNVoYD0yPvYLLs1lMItsbyun-08Xvj6A.jpg" alt="photo 2"/></p>
 <p>پرستوی های صادراتی طرفدار حکومت کنار برج ایفل:
 @News_Hut</p>
-<div class="tg-footer">👁 18.1K · <a href="https://t.me/news_hut/64831" target="_blank">00:31 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 18.2K · <a href="https://t.me/news_hut/64831" target="_blank">00:31 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64828 -->
@@ -505,7 +531,7 @@ img {
 <p>فشار جنگ کم شه
 ☺️
 @News_Hut</p>
-<div class="tg-footer">👁 16.5K · <a href="https://t.me/news_hut/64828" target="_blank">00:08 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 16.6K · <a href="https://t.me/news_hut/64828" target="_blank">00:08 · 19 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64827 -->
@@ -538,7 +564,7 @@ img {
 در حالی که دولت‌های قبلی در این موضوع و با این اسناد و ویدیوها شفاف نبوده‌اند، مردم می‌توانند خودشان تصمیم بگیرند که «دقیقاً چه خبر است؟» لذت ببرید و از آن لذت ببرید!
 war.gov/UFO
 @News_Hut</p>
-<div class="tg-footer">👁 16.4K · <a href="https://t.me/news_hut/64825" target="_blank">22:24 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 16.5K · <a href="https://t.me/news_hut/64825" target="_blank">22:24 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64824 -->
@@ -561,7 +587,7 @@ war.gov/UFO
 📰
 فاکس نیوز به نقل از یک مسئول آمریکایی: ارتش آمریکا امروز به نفتکش‌های ایرانی که قصد شکستن محاصره را داشتند، حمله کرد
 @News_Hut</p>
-<div class="tg-footer">👁 16.8K · <a href="https://t.me/news_hut/64821" target="_blank">16:50 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 16.9K · <a href="https://t.me/news_hut/64821" target="_blank">16:50 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64820 -->
@@ -569,7 +595,7 @@ war.gov/UFO
 🇺🇸
 مارکو روبیو: امروز پاسخ ایران را دریافت می‌کنیم
 @News_Hut</p>
-<div class="tg-footer">👁 17.2K · <a href="https://t.me/news_hut/64820" target="_blank">15:43 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 17.3K · <a href="https://t.me/news_hut/64820" target="_blank">15:43 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64819 -->
@@ -641,7 +667,7 @@ war.gov/UFO
 موشک‌هایی به سمت ناوشکن‌های ما شلیک شد که به‌راحتی سرنگون گشتند. همچنین پهپادهایی آمدند که در هوا سوختند. آن‌ها بسیار زیبا به سمت اقیانوس سقوط کردند، درست مانند پروانه‌ای که به سمت قبرش فرومی‌رود!
 یک کشور عادی اجازه می‌داد این ناوشکن‌ها عبور کنند، اما ایران یک کشور عادی نیست. آن‌ها توسط دیوانگان رهبری می‌شوند، و اگر فرصت استفاده از سلاح هسته‌ای را داشته باشند، بدون تردید این کار را می‌کنند — اما هرگز آن فرصت را نخواهند یافت و همان‌طور که امروز دوباره آن‌ها را از پا درآوردیم، در آینده خیلی سخت‌تر و خیلی شدیدتر آن‌ها را از پا درخواهیم آورد، اگر قرارداد خود را سریع امضا نکنند! سه ناوشکن ما، با خدمه فوق‌العاده خود، اکنون به محاصره دریایی ما خواهند پیوست، که واقعاً یک «دیوار فولادی» است.
 @News_Hut</p>
-<div class="tg-footer">👁 18.7K · <a href="https://t.me/news_hut/64810" target="_blank">02:28 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 18.8K · <a href="https://t.me/news_hut/64810" target="_blank">02:28 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64809 -->
@@ -668,7 +694,7 @@ war.gov/UFO
 </div>
 <div class="tg-message">
 <!-- msg_id: 64805 -->
-<p><img src="https://cdn4.telesco.pe/file/QfHDXyoi9VyMlWkz86MWCg712psBzG7o3J5q_kNuZuuPf4qoz03XJ3YTbqPPW1KF-QHlk2wTp9_DLEIftfLV2SNpG3M1PwtL7x17E0U5sece8tho1ulG9kGuESv-BL4JNYE_FE2vqYKu9_jANHTzO0gtbqVvZLJpHGRYFSO9rq-pLM1QaTUHXGr7XiAPNaS_D0eThzRsCc5iYJc9yFWo-VrCMR8cyh2Md1vswG61pQAHwYRL9gAtq5fenPdcKlna4VDp55xQV-vr2O61SKgC4u9AFrwzQc_w22-o060MXW-wfdzsF7KgZZe0yYrrh5WG3VTZM17PWkAq320duDHboQ.jpg" alt="photo"/></p>
+<p><img src="https://cdn4.telesco.pe/file/dfQK2dl_82Vpp_k_4K5fViWZss1w2fqiCzjoOH7iEYu2OjJ5fUyu_oRaL85-585cXdDpAXOQ3jJHjiNUpmbC7dAMyEpDQ2ghydr1XsMhjKiI1S4unu-hg1xWAH9hZf6ynz2Md5E9A_WN5ouXlCT-S4HX5oE6IyaFYb2z_ZROtdqAOXGQIANAi8Qv5KS6kk364l5v4SaQmp1LbydBMdGHXNbFSdj_TsYR5oflOPJdsl-AKwMIedGFwFqZoNDl-JEXSYSSlUrHt_uIr22eu_AqzSX89vSQBcOAsTWJO6GFzV-DZapRCILoJMwwB2HGo8LXTiVPFaCDA4u62kcBSEzaIw.jpg" alt="photo"/></p>
 <p>هواپیماهای جنگنده زیادی مدتی پیش از بریتانیا خارج شدند
 @News_Hut</p>
 <div class="tg-footer">👁 16.6K · <a href="https://t.me/news_hut/64805" target="_blank">01:29 · 18 Ordibehesht 1405</a></div>
@@ -743,7 +769,7 @@ V2ray
 <p>این جفنگیات [
 کصشرات
 ] رو باور نکنید توروخدا  #hjAly‌</p>
-<div class="tg-footer">👁 16.9K · <a href="https://t.me/news_hut/64797" target="_blank">00:30 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 17K · <a href="https://t.me/news_hut/64797" target="_blank">00:30 · 18 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64796 -->
@@ -761,7 +787,7 @@ V2ray
 </div>
 <div class="tg-message">
 <!-- msg_id: 64794 -->
-<p><img src="https://cdn1.telesco.pe/file/J_Y8fCNtczAccHcly44uEiDTG-KgTF77qBwzIwn3Fl97uF_u8EMBrxEa62P3e6o11SiJjh0xt38FxeQuisyPsNZcDNNRSgam0tg4dxH9kQ0KCc2b_l3GLfvNhVcYjh200y1TehEYWSeei5OCksd4TeKLKbCKgLk6i2EOv02-CERe7FoX8H68dZ7PcU1uj_3BfkQTWjlKfvuOVKu-lfMj_aGelIVjjovt3vfmRVCk_CdPPcplYd0D4vTv6QHKwGDPjQUwxWBo_DBpIG8bzor79nD3k3FLAlkufclZkryfsJhVRU284YzDky33odCV5u44nWO1zjGPE9kR0VxldJGWDQ.jpg" alt="photo"/></p>
+<p><img src="https://cdn1.telesco.pe/file/gFiza__2G8aUAsPeaUgf1JLGHvp9EE0fk9NlFuHpGCKP2gP-rHy03t0TGKMvhzr4eDhbigRylpiJw7yXjAtBnD73l79XR2XJbA0qdJjWDTS0MySuYnrACneB6w0MLvbHSPfdRN_0tiimS55TzRIxCjUAVAIECp_KgUfCuooudDUwUfLZ92E39Ihrnxim3CpFBcoRpQHUc5DA8YRs4GbmJFNC-AYS3sRTCakSWp5AaQqJmHoX8pmiPqAvShmeQ41L2s2MlmbGcCNPWCRLSvwgjuEP8WkSqHoTwAJmocg2A7Z9MNzG31og8oNPtTpVZM3PQ1PJWTZhYYlF4YxTJwbT3Q.jpg" alt="photo"/></p>
 <p>این جفنگیات [
 کصشرات
 ] رو باور نکنید توروخدا
@@ -777,7 +803,7 @@ V2ray
 </div>
 <div class="tg-message">
 <!-- msg_id: 64792 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/1465e8fad2.mov?token=fdK7oquuv2yMN-V0ac-F5TG_NtlxsmHnxSfnyOoAZEmPgdw4zvfTE5LDn0pNmibzLoMWgj_weCLBX5RQJ0cpuYNjrOnFXunkM0h47V5YvQFRzSy4ln1rBwdxPg6zqb3PjdS9sUGvlZjq_2k2fBogk0gR6pZJAAcK8c250io-c3vKyx91sIxc7KzwAukMYxcOodwC5S8Qd9jeIQS0Sq_OFKGvmnStcE734C4xQ7kYfVICL3EGv2ORKb7cSbYJoKs_RcnTS2brWeiWShEC9e-ldye3D-_H7fzew_msKQ-7HLgl0WBCzUDPj51jkm_CG-XyqFkiCNKaCpcSaYyu3pK9TA" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/1465e8fad2.mov?token=sVO5GgpJEWjYN2SBlh7AyOypjb9pdHm6uV9ARhIDCtGBKxcP_gxMHSmdABr4EPGMou7qLnAQ9VptB7ewF_PJslgr9vOuq_ObtG-ubQ8vcp2eW7eY8hJ0VA7CP82lh2F2XwtHXNhCQQt47apZblSxB1T9YgIiB32Bm2H1HOKtA6PNAIf5EKq4MZvuE8vNnOdhplLBTrdexDikg2aUjZnKNwHba0_VTHmX5EKoWOGeOHV58Kz6xmq-N-oHfStkkofiyZfzRbCZWzSsgkeXGLI7wgLv0H-hgZAYlxE-h7D6TN2XKL1xa8_4GdQjYNhNpx8NAwdC3wos68kgTSEjTKdl9A" target="_blank">دانلود ویدیو</a></p>
 <p>🚨
 فعالیت پدافندی تو شمال غرب تهران
 @News_Hut</p>
@@ -785,11 +811,11 @@ V2ray
 </div>
 <div class="tg-message">
 <!-- msg_id: 64791 -->
-<p>🎬 <a href="https://cdn4.telesco.pe/file/0f809f000c.mp4?token=Ol5NQu5xp8COAuPl52ugO-L9QR45MKJycy5CNCMs5f0wBzdF02yooMLyXfk732elxSpm_5UYh0ViGD4WpSuyqbJdNYJV7PSPdU65ZzbSSr4Q9mqCUw-zuCO9Tja5v8MQpmM8VwTGmNR2SwhstvMFhG-n9BVH2o79jmt5wsi52IbK0r-G1U7Xe1iCyW7BcvZMM7kNRAq35Kbh1Xv0WW03xMVo6DnpQN2cao7yPVnUIY91PX5FrKTaxIho9HgkcujH7XVC6BSsenTKg_BbEgDUCyvIR9gOSJA_aWFz2Ta258hCwYy5CO5uOyC6XKwWrQdArde_B2xSXag3EREwlNZzbw" target="_blank">دانلود ویدیو</a></p>
+<p>🎬 <a href="https://cdn4.telesco.pe/file/0f809f000c.mp4?token=WyPB_TInSBbN72Jkg5SMc7XB-ytZwtAiWIFbcX0wym5ajIQ53A3wtonTkO7olgYriGKTVWZxKPxiuj4mHGSJyZpDk5CH9QNvNp8DyBXnqH405mGuRm9i3r5VgmdLUDZa0TOL4MDJGtsp7cpDDUfPXFU4a7EjQ8ww9ugEHDkHBfDpi4pMKLen5jC3CPRfTNDpAXKFYvy0C53p8dF_EkDaCKhauQxeZgyE4ZugxNuHJ2lytDqG4K8LkrHLTDCJey211ygYOW11Y3085HTHvgw7Qkl-uK5jyo9fmEhlwn7BgA978A8xz4JScYuxHXd4bHogMCJ0SeDD4sEWnptGsQHHHQ" target="_blank">دانلود ویدیو</a></p>
 <p>‼️
 صداوسیما: آمریکا به یک نفت‌کش ایرانی حمله کرد که یگان‌های متعرض امریکایی در محدوده تنگه هرمز زیر آتش موشکی ایران قرار گرفتند که پس از تحمل خسارت فرار کردند.
 @News_Hut</p>
-<div class="tg-footer">👁 16.4K · <a href="https://t.me/news_hut/64791" target="_blank">23:40 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁 16.5K · <a href="https://t.me/news_hut/64791" target="_blank">23:40 · 17 Ordibehesht 1405</a></div>
 </div>
 <div class="tg-message">
 <!-- msg_id: 64790 -->
@@ -839,33 +865,5 @@ V2ray
 گزارش صدای چندین انفجار در بندرعباس و سیریک تو جنوب ایران
 @News_Hut</p>
 <div class="tg-footer">👁 16K · <a href="https://t.me/news_hut/64784" target="_blank">22:09 · 17 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 64783 -->
-<p><img src="https://cdn1.telesco.pe/file/oCLRX_IJFwYCkoyiR6LEjxpGKVEaEJPKZckiSz_Lz7gKSrwCiwfCpgjfIPvT39iKZTaatL58YPyU3mrT5-HQKq3zQi_iM9u3q9YchsgmWo0TSTcyxxFKWrcCwOlqQmzBSFyVAqU4LDB-031_ug3qFuRs3X2Jz8w-uC2Dh2XyPEwY8gYjvQyTPdS2RvxssUxjCoRaeliba-FjQmMVtoglsBmVSqftvJ5EkxpEM3tRJB4vSUbvhVoTsdQBSCoU2dI01WAvN8tvR0p11AiHL-2aJTu47LErrs4YgPpI6Je5if8yoKA_tLMKHUkVr8q5kd0HXNOrsHsNqBou88WGYX_Q3g.jpg" alt="photo"/></p>
-<p>بانو کارولین لیویت هم دخترش به دنیا اومد و اسمش بچه‌شون رو وی‌وی(Vivi) گذاشتن.
-@News_Hut</p>
-<div class="tg-footer">👁 16K · <a href="https://t.me/news_hut/64783" target="_blank">21:17 · 17 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 64781 -->
-<p><img src="https://cdn1.telesco.pe/file/og8pl5KVs-PJzl3DcZXm3Dlqop2jJLdORTofa5vohlk_J3FpQfaUTbYc24p_lkMUdvsIAuJh4P1t1Ta7PkHk73AaWGhSVTHptGiURYPAXLnesyniZ9fghSYM6DCGOwOf5QRj-0fWrEYJ3IoPrD6_0cQYRthHGMlyDiZhfUg-zkZ8DHjvLB4HqbLraDx58UwZ5WG3hRwYEHCUMgVKmYOBsA1nE6iyGp5LTKoYMDvKnSGjfTgoAjFgYoYhgNSmCcgRjqeBdVMI2GXMNlU85Q7O4JIwov9A1ImgGEWoGqnZM8ZtUGoq2RqJeq0KzIg-u8aYJOf0OQCQvyiSi7-AK6-dwA.jpg" alt="photo 1"/></p>
-<p><img src="https://cdn1.telesco.pe/file/bx3Yf5qTEBHrvG1Ay1MJUx8aQkq-Kh6-V9P8uJeSDOkTGFzOSJCJGRy7kTi7gb52ywnlervyygybgQAh141oofMGccmpLW3frMTJxzOw9956MZELbc5tsZ5cWLsDqBoY4PVoZFqCU-cYlYy7X9cJYa8kJ6gxI85_xYOcZv-EYMBrUHfS9bEojVGp4Cz2qlSEp5Ir93JjCt26iTJX3lXg0w4UCNlWux_TebzrGYsthi_rLom-qfzYJQJju_Yzb8IFzvV2NCXSW4BcxHSMop0LYC93X9yZQz2E1MoDpmp1Bs2NYzW5rDAs6E1Gme1NpdFEp6mwHMAKYTaACzX2ktW4Og.jpg" alt="photo 2"/></p>
-<p>🦠
-سازمان جهانی بهداشت(WHO)امروز نشست خبری درمورد ویروس جدید هانتاویروس برگزار کرد؛
-تو چند روز اخیر ۸ مورد ابتلا به این ویروس تو سراسر دنیا گزارش شده که شامل ۳ مورد مرگ هم هست یعنی کشندگی حدود ۴۰ درصد داره
-این ویروسه منشاش از جوندگانی مثل موشه و گونه‌ای Andes virus که نوع کشنده تره اونه اتفاقا همین هانتاویروسی هست که داره شیوع پیدا میکنه.
-داستان هم از این قرارع یک کشتی کروز هلندی از اوایل آپریل از آرژانتین حرکت کرده بود به سمت جزایر اقیانوس اطلس حنوبی و چندین مسافر علائم تنفسی تب مربوط به اون رو نشون دادن و تو چندین کشور شناسایی شده
-خوشبختانه انتقال انسان به انسان این گونه هانتا ویروس هیلی نادره ولی همچنان ممکنه یه پانادمی دیگه مثل کرونا رو رقم بزنه
-@News_Hut</p>
-<div class="tg-footer">👁 14.8K · <a href="https://t.me/news_hut/64781" target="_blank">21:02 · 17 Ordibehesht 1405</a></div>
-</div>
-<div class="tg-message">
-<!-- msg_id: 64780 -->
-<p>🇺🇸
-پیت هگست، وزیر جنگ امریکا: با تشکر از بودجه دفاعی ۱.۵ تریلیون دلاری رئیس‌جمهور ترامپ، این وزارت جنگ از بوروکراسی به کسب‌وکار تبدیل شده است.
-این یک سرمایه‌گذاری مالی مسئولانه در زرادخانه آزادی ماست—اطمینان از اینکه نیروی نظامی ما همچنان کشنده‌ترین نیروی جنگی در جهان باقی بماند.
-@News_Hut</p>
-<div class="tg-footer">👁 16.1K · <a href="https://t.me/news_hut/64780" target="_blank">20:04 · 17 Ordibehesht 1405</a></div>
 </div>
 </div>
