@@ -18,7 +18,7 @@ HEADERS = {
 }
 
 TEHRAN_OFFSET = timedelta(hours=3, minutes=30)
-DEFAULT_LIMIT = 100      # تعداد پیش‌فرض پیام (می‌توانید به ۳۰۰ تغییر دهید)
+DEFAULT_LIMIT = 100
 
 def utc_to_tehran(dt_utc: datetime) -> datetime:
     return dt_utc + TEHRAN_OFFSET
@@ -98,10 +98,6 @@ def parse_message(el) -> Dict[str, Any]:
     return msg
 
 def fetch_channel_full(channel: str, limit: int) -> tuple[List[Dict], Dict]:
-    """
-    دریافت آخرین 'limit' پیام از کانال (از جدیدترین به قدیمی‌ترین)
-    با اصلاح خطای برش لیست
-    """
     messages = []
     channel_info = {"name": channel, "title": "", "description": "", "avatar": "", "members": ""}
     base_url = f"https://t.me/s/{channel}"
@@ -152,129 +148,408 @@ def fetch_channel_full(channel: str, limit: int) -> tuple[List[Dict], Dict]:
         if not page_msgs:
             break
 
-        # پیام‌های صفحه در DOM از قدیمی به جدید مرتب هستند، پس برای دستیابی به جدیدترین‌ها معکوس می‌کنیم
         page_msgs.reverse()
         messages.extend(page_msgs)
 
-        # تعیین 'before' برای صفحه بعدی (قدیمی‌تر از کوچکترین id در این صفحه)
         ids = [m["id_num"] for m in page_msgs if m["id_num"]]
         if not ids:
             break
-        before = min(ids)   # قدیمی‌ترین پیام این صفحه
+        before = min(ids)
         print(f"    → Next before: {before}")
 
         time.sleep(0.8)
 
-    # اصلاح مهم: فقط اولین 'limit' پیام (جدیدترین‌ها) را برمی‌گردانیم
     if len(messages) > limit:
-        messages = messages[:limit]   # قبلاً اشتباه [-limit:] بود که قدیمی‌ها را می‌گرفت
+        messages = messages[:limit]
     print(f"    ✓ fetched {len(messages)} messages")
     return messages, channel_info
 
 def render_markdown(messages: List[Dict], channel_info: Dict, channel: str, fetch_time_str: str) -> str:
+    """
+    تولید مارک‌داون خواناتر با استایل بهتر اما بدون خروج از فرمت .md
+    """
     title = channel_info.get("title") or f"@{channel}"
     members = channel_info.get("members", "")
     desc = channel_info.get("description", "")
     avatar = channel_info.get("avatar", "")
 
-    style_block = """<style>
-.tg-mirror {
-  --bg: #0d1117;
-  --text: #c9d1d9;
-  --border: #30363d;
-  --accent: #58a6ff;
-}
-@media (prefers-color-scheme: light) {
-  .tg-mirror {
-    --bg: #ffffff;
-    --text: #24292f;
-    --border: #d0d7de;
-    --accent: #0969da;
-  }
-}
-.tg-mirror {
-  background: var(--bg);
-  color: var(--text);
-  padding: 16px;
-  border-radius: 16px;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Vazirmatn', sans-serif;
-}
-.tg-header {
-  text-align: center;
-  border-bottom: 1px solid var(--border);
-  padding-bottom: 16px;
-  margin-bottom: 16px;
-}
-.tg-avatar {
-  border-radius: 50%;
-  width: 64px;
-  border: 2px solid var(--accent);
-}
-.tg-message {
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 12px;
-  margin: 12px 0;
-  background: var(--bg);
-}
-.tg-footer {
-  font-size: 0.8em;
-  color: #8b949e;
-  margin-top: 8px;
-}
-img {
-  max-width: 100%;
-  border-radius: 8px;
-}
-</style>
-"""
-    output = style_block + '\n'
-    output += '<div class="tg-mirror">\n'
-    output += '<div class="tg-header">\n'
-    if avatar:
-        output += f'<img src="{avatar}" class="tg-avatar"/><br/>\n'
-    output += f'<h1>📡 {title}</h1>\n'
-    output += f'<p><strong>@{channel}</strong> · 👥 {members} عضو</p>\n'
-    if desc:
-        output += f'<p><em>{desc}</em></p>\n'
-    output += f'<p>🕐 آخرین بروزرسانی: <code>{fetch_time_str}</code></p>\n'
-    output += f'<p><a href="https://t.me/{channel}" target="_blank"><img src="https://img.shields.io/badge/باز_کردن_در_تلگرام-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a></p>\n'
-    output += '</div>\n<hr/>\n'
+    # هدر با استایل CSS یکپارچه (درون خود مارک‌داون)
+    output = f'''<div dir="rtl" align="right">
 
-    for m in messages:
-        output += '<div class="tg-message">\n'
-        output += f'<!-- msg_id: {m["id_num"]} -->\n'
+<style>
+.tg-channel-box {{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 16px;
+  font-family: system-ui, -apple-system, 'Segoe UI', 'Vazirmatn', Tahoma, sans-serif;
+  background: #fafafa;
+  border-radius: 20px;
+  line-height: 1.7;
+}}
+
+/* حالت دارک برای کسانی که تم دارک دارن */
+@media (prefers-color-scheme: dark) {{
+  .tg-channel-box {{
+    background: #1a1a2e;
+    color: #eee;
+  }}
+  .tg-post {{
+    background: #16213e;
+    border-color: #0f3460;
+  }}
+  .tg-post-header {{
+    background: #0f3460;
+  }}
+  .tg-footer {{
+    color: #aaa;
+  }}
+  .tg-text a {{
+    color: #7eb6ff;
+  }}
+}}
+
+/* کارت پست */
+.tg-post {{
+  background: white;
+  border-radius: 20px;
+  padding: 18px 22px;
+  margin: 20px 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  border: 1px solid #e5e7eb;
+  transition: box-shadow 0.2s;
+}}
+.tg-post:hover {{
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}}
+.tg-post-header {{
+  background: #f3f4f6;
+  margin: -18px -22px 16px -22px;
+  padding: 10px 22px;
+  border-radius: 20px 20px 0 0;
+  font-size: 13px;
+  color: #4b5563;
+  border-bottom: 1px solid #e5e7eb;
+}}
+
+/* نقل قول / فوروارد */
+.tg-forward {{
+  background: #eef2ff;
+  border-right: 4px solid #3b82f6;
+  padding: 8px 14px;
+  border-radius: 12px;
+  margin: 12px 0;
+  font-size: 13px;
+  color: #1e40af;
+}}
+
+/* متن */
+.tg-text {{
+  font-size: 16px;
+  margin: 14px 0;
+}}
+.tg-text a {{
+  color: #2563eb;
+  text-decoration: none;
+}}
+.tg-text a:hover {{
+  text-decoration: underline;
+}}
+
+/* تصاویر */
+.tg-photo {{
+  margin: 12px 0;
+  text-align: center;
+}}
+.tg-photo img {{
+  max-width: 100%;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}}
+
+/* آلبوم */
+.tg-album {{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 8px;
+  margin: 12px 0;
+}}
+.tg-album-item {{
+  overflow: hidden;
+  border-radius: 12px;
+}}
+.tg-album-item img {{
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  transition: transform 0.2s;
+}}
+.tg-album-item img:hover {{
+  transform: scale(1.02);
+}}
+
+/* ویدیو */
+.tg-video {{
+  margin: 12px 0;
+}}
+.tg-video video {{
+  width: 100%;
+  border-radius: 16px;
+  background: black;
+}}
+.tg-dl-btn {{
+  display: inline-block;
+  background: #3b82f6;
+  color: white;
+  padding: 6px 14px;
+  border-radius: 24px;
+  font-size: 13px;
+  text-decoration: none;
+  margin-top: 6px;
+}}
+.tg-dl-btn:hover {{
+  background: #2563eb;
+}}
+
+/* فایل */
+.tg-doc {{
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+  padding: 12px 16px;
+  margin: 12px 0;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}}
+.tg-doc-icon {{
+  font-size: 32px;
+}}
+.tg-doc-info {{
+  flex: 1;
+}}
+.tg-doc-title {{
+  font-weight: 600;
+}}
+.tg-doc-extra {{
+  font-size: 12px;
+  color: #6b7280;
+}}
+.tg-doc-link {{
+  background: #3b82f6;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  text-decoration: none;
+}}
+
+/* نظرسنجی */
+.tg-poll {{
+  background: #fef9e3;
+  border: 1px solid #fde047;
+  border-radius: 20px;
+  padding: 12px 18px;
+  margin: 12px 0;
+}}
+.tg-poll h4 {{
+  margin: 0 0 10px 0;
+  color: #854d0e;
+}}
+.tg-poll ul {{
+  margin: 0;
+  padding-right: 20px;
+}}
+.tg-poll li {{
+  margin: 6px 0;
+  color: #a16207;
+}}
+
+/* فوتر پست (تاریخ و بازدید) */
+.tg-footer {{
+  font-size: 12px;
+  color: #9ca3af;
+  margin-top: 12px;
+  padding-top: 8px;
+  border-top: 1px solid #e5e7eb;
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+}}
+.tg-footer a {{
+  color: #6b7280;
+  text-decoration: none;
+}}
+.tg-footer a:hover {{
+  color: #3b82f6;
+}}
+
+/* هدر کانال */
+.tg-channel-header {{
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 28px;
+  color: white;
+  margin-bottom: 24px;
+}}
+.tg-avatar {{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: 4px solid white;
+  margin-bottom: 12px;
+}}
+.tg-channel-header h1 {{
+  margin: 8px 0 4px;
+  font-size: 24px;
+}}
+.tg-channel-header p {{
+  margin: 4px 0;
+  opacity: 0.9;
+}}
+.tg-channel-desc {{
+  background: #f3f4f6;
+  padding: 14px 20px;
+  border-radius: 20px;
+  margin: 16px 0;
+  font-size: 14px;
+  color: #374151;
+}}
+.tg-last-update {{
+  text-align: center;
+  font-size: 12px;
+  color: #9ca3af;
+  margin: 16px 0;
+}}
+.tg-telegram-btn {{
+  display: inline-block;
+  background: #1e88e5;
+  color: white;
+  padding: 8px 18px;
+  border-radius: 30px;
+  text-decoration: none;
+  margin: 12px 0;
+  font-weight: 500;
+}}
+.tg-telegram-btn:hover {{
+  background: #0b5e8a;
+}}
+@media (prefers-color-scheme: dark) {{
+  .tg-channel-desc {{
+    background: #1f2937;
+    color: #d1d5db;
+  }}
+  .tg-post {{
+    background: #1e1e2f;
+    border-color: #2d2d44;
+  }}
+  .tg-post-header {{
+    background: #2a2a3b;
+    color: #bbb;
+    border-color: #3a3a52;
+  }}
+  .tg-doc {{
+    background: #252535;
+    border-color: #3a3a52;
+  }}
+  .tg-forward {{
+    background: #1f2a3a;
+    color: #90cdf4;
+  }}
+}}
+</style>
+
+<div class="tg-channel-box">
+
+'''
+
+    # هدر کانال
+    output += '<div class="tg-channel-header">\n'
+    if avatar:
+        output += f'<img src="{avatar}" class="tg-avatar" alt="avatar"/>\n'
+    output += f'<h1>📡 {title}</h1>\n'
+    output += f'<p>@{channel} • 👥 {members} عضو</p>\n'
+    output += f'<a href="https://t.me/{channel}" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>\n'
+    output += '</div>\n'
+
+    if desc:
+        output += f'<div class="tg-channel-desc">📝 {desc}</div>\n'
+
+    output += f'<div class="tg-last-update">🕐 آخرین بروزرسانی: {fetch_time_str}</div>\n'
+    output += '<hr>\n\n'
+
+    # پست‌ها
+    for idx, m in enumerate(messages):
+        output += f'<div class="tg-post" id="msg-{m["id_num"]}">\n'
+        
+        # هدر پست (شماره و ...)
+        output += f'<div class="tg-post-header">📌 پیام #{len(messages) - idx}</div>\n'
+
+        # فوروارد
         if m.get("forwarded_from"):
-            output += f'<blockquote>↪ فوروارد از: <strong>{m["forwarded_from"]}</strong></blockquote>\n'
+            output += f'<div class="tg-forward">↪️ فوروارد از: <strong>{m["forwarded_from"]}</strong></div>\n'
+
+        # آلبوم (چند عکس)
         if len(m.get("album", [])) > 1:
-            for idx, ph in enumerate(m["album"]):
-                output += f'<p><img src="{ph}" alt="photo {idx+1}"/></p>\n'
+            output += '<div class="tg-album">\n'
+            for ph in m["album"]:
+                output += f'<div class="tg-album-item"><img src="{ph}" alt="photo" loading="lazy"/></div>\n'
+            output += '</div>\n'
         elif m.get("photo"):
-            output += f'<p><img src="{m["photo"]}" alt="photo"/></p>\n'
+            output += f'<div class="tg-photo"><img src="{m["photo"]}" alt="photo" loading="lazy"/></div>\n'
+
+        # ویدیو
         if m.get("video"):
-            output += f'<p>🎬 <a href="{m["video"]}" target="_blank">دانلود ویدیو</a></p>\n'
+            output += f'''<div class="tg-video">
+<video controls preload="metadata">
+  <source src="{m["video"]}" type="video/mp4">
+</video>
+<br>
+<a href="{m["video"]}" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>\n'''
+
+        # فایل
         if m.get("doc_title"):
-            output += f'<p>📄 <strong>{m["doc_title"]}</strong> <code>{m["doc_extra"]}</code></p>\n'
+            output += f'''<div class="tg-doc">
+<span class="tg-doc-icon">📎</span>
+<div class="tg-doc-info">
+  <div class="tg-doc-title">{m["doc_title"]}</div>
+  <div class="tg-doc-extra">{m["doc_extra"]}</div>
+</div>
+<a href="{m["url"]}" class="tg-doc-link" target="_blank">دانلود</a>
+</div>\n'''
+
+        # نظرسنجی
         if m.get("poll_question"):
-            output += f'<p>📊 <strong>{m["poll_question"]}</strong></p><ul>\n'
+            output += f'<div class="tg-poll">\n'
+            output += f'<h4>📊 {m["poll_question"]}</h4>\n'
+            output += '<ul>\n'
             for opt in m["poll_options"]:
-                output += f'<li>{opt}</li>\n'
-            output += '</ul>\n'
+                output += f'<li>✓ {opt}</li>\n'
+            output += '</ul>\n</div>\n'
+
+        # متن پیام
         if m.get("text"):
             text = m["text"].replace("\\", "\\\\").replace("`", "\\`")
-            output += f'<p>{text}</p>\n'
+            output += f'<div class="tg-text">{text}</div>\n'
+
+        # فوتر (بازدید و تاریخ)
         footer_parts = []
         if m.get("views"):
-            footer_parts.append(f'👁 {m["views"]}')
+            footer_parts.append(f'👁️ {m["views"]}')
         if m.get("date") and m.get("url"):
-            footer_parts.append(f'<a href="{m["url"]}" target="_blank">{m["date"]}</a>')
+            footer_parts.append(f'<a href="{m["url"]}" target="_blank">📅 {m["date"]}</a>')
         elif m.get("date"):
-            footer_parts.append(m["date"])
+            footer_parts.append(f'📅 {m["date"]}')
+        
         if footer_parts:
             output += f'<div class="tg-footer">{" · ".join(footer_parts)}</div>\n'
-        output += '</div>\n'
 
-    output += '</div>\n'
+        output += '</div>\n\n'
+
+    output += '<hr>\n<p align="center"><small>✨ این صفحه به صورت خودکار از تلگرام بروزرسانی می‌شود</small></p>\n'
+    output += '</div>\n</div>\n'
+    
     return output
 
 def update_channels_list(new_channel: str):
@@ -292,14 +567,19 @@ def update_channels_list(new_channel: str):
 def build_index_markdown(channels_dir: Path, active_channels: set, fetch_time_str: str):
     if not active_channels:
         return
-    lines = ["# 📡 لیست کانال‌های آینه شده", "", "| کانال | آخرین بروزرسانی |", "|-------|----------------|"]
+    lines = [
+        "# 📡 لیست کانال‌های آینه شده",
+        "",
+        "| کانال | آخرین بروزرسانی |",
+        "|-------|----------------|"
+    ]
     for ch in sorted(active_channels):
         md_file = channels_dir / f"{ch}.md"
         if md_file.exists():
             lines.append(f"| [@{ch}](./{ch}.md) | {fetch_time_str} |")
         else:
             lines.append(f"| @{ch} | ❌ هنوز گرفته نشده |")
-    lines.append("\n---\n✨ این لیست هر ۲ ساعت خودکار بروز می‌شود. برای بروزرسانی دستی همه کانال‌ها، فیلد channel را خالی بگذارید.")
+    lines.append("\n---\n✨ این لیست هر ۲ ساعت خودکار بروز می‌شود.")
     (channels_dir / "README.md").write_text("\n".join(lines), encoding="utf-8")
     print("[✓] Index page (channels/README.md) updated")
 
@@ -315,7 +595,6 @@ def main():
     channels_dir = Path("channels")
     channels_dir.mkdir(exist_ok=True)
 
-    # حالت افزودن کانال جدید (با پر کردن channel و count)
     if manual_channel and manual_count:
         print("[*] Mode: Add new channel with specific count")
         limit = max(10, min(int(manual_count), 200))
@@ -333,7 +612,6 @@ def main():
         print("[✅] Done")
         return
 
-    # حالت بروزرسانی کامل همه کانال‌ها (پاک کردن پوشه و دریافت از نو)
     print("[*] Mode: Full refresh of all channels (cleaning channels folder)")
 
     if channels_dir.exists():
