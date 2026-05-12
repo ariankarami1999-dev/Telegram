@@ -1,4 +1,4 @@
-name: 📡 Fetch Telegram Channels
+name: 📡 تلگرام ملی
 
 on:
   workflow_dispatch:
@@ -11,9 +11,8 @@ on:
         description: 'تعداد پیام (فقط در صورت افزودن کانال جدید معنی دارد)'
         required: false
         type: string
-  schedule:
-    - cron: '0 */2 * * *'
-
+schedule:
+  - cron: '*/30 * * * *'  # هر ۳۰ دقیقه
 permissions:
   contents: write
 
