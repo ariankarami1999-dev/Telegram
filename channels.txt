@@ -13,3 +13,5 @@ IranProxyV2
 funhiphop
 VahidOnline
 farahmand_alipour
+farsna
+sorkhtimes
