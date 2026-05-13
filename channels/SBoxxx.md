@@ -292,7 +292,7 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 تاریخ، ژئوپولیتیک و بازارهای مالی</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-23 15:09:06</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-23 17:39:47</div>
 <hr>
 
 <div class="tg-post" id="msg-16246">
@@ -305,7 +305,7 @@
 در همین ایام ، شرکت های زیرساختی که دسترسی شان به اینترنت بین الملل قطع بوده ، هدف حملات متعدد سایبری قرار گرفته اند
 ✈️
 https://t.me/SBoxxx</div>
-<div class="tg-footer">👁️ 537 · <a href="https://t.me/SBoxxx/16246" target="_blank">📅 14:45 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.32K · <a href="https://t.me/SBoxxx/16246" target="_blank">📅 14:45 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16245">
@@ -314,7 +314,7 @@ https://t.me/SBoxxx</div>
 استاد یکی از دانشگاه‌های کشور رفته سوالاتو اینطوری طراحی کرده تا هوش مصنوعی جوابشونو نده:
 ✅
 با ما اخبار جنگی بروز باشید  @russiamilitery</div>
-<div class="tg-footer">👁️ 794 · <a href="https://t.me/SBoxxx/16245" target="_blank">📅 14:27 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.45K · <a href="https://t.me/SBoxxx/16245" target="_blank">📅 14:27 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16244">
@@ -326,13 +326,13 @@ https://t.me/SBoxxx</div>
 ✅
 با ما اخبار جنگی بروز باشید
 @russiamilitery</div>
-<div class="tg-footer">👁️ 787 · <a href="https://t.me/SBoxxx/16244" target="_blank">📅 14:26 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.43K · <a href="https://t.me/SBoxxx/16244" target="_blank">📅 14:26 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16243">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">چرا_آمریکا_به_سوی_جنگ_طولانی_با_ایران_می‌رود.pdf</div>
-<div class="tg-footer">👁️ 1.41K · <a href="https://t.me/SBoxxx/16243" target="_blank">📅 12:27 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/SBoxxx/16243" target="_blank">📅 12:27 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16242">
@@ -351,7 +351,7 @@ https://t.me/SBoxxx</div>
 📌
 کانال ما :
 @cyclicalwaves</div>
-<div class="tg-footer">👁️ 1.35K · <a href="https://t.me/SBoxxx/16242" target="_blank">📅 12:16 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/SBoxxx/16242" target="_blank">📅 12:16 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16241">
@@ -359,13 +359,13 @@ https://t.me/SBoxxx</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KFDRMk8mN6Cnn3XpXkEqUQ0T4vf0cjx7s9c-7r0gzmGNWZrUQQrgnU3Upf9DfuQm5zIKI288bpdgWF_V1ShQc731m8qW83sfO-MexFFcQjrde5DpZDmRk1aPiLbXVaMbfN2CnzqRJ9uuIN970nvuEmBXeR7JZG4y9VynQDK5IO3Ygtp16P6ckeufgBjn1S0yOVXNREZZKDT9i4KG_C5qeU92yB5CHw10UT7mc2VCXzEzdHmV3OasrJiULAq3kalN9_qfb7pqtv-8i2vrab_IT9tIEWmSF3e7ko4_CizHnsI9jStsF8xmt6r_qo4qvB3fj0fn1jGxg0MeLhLXvyYW6Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در جنگ ما با اسرائیل بیشترین آسیب را عربها دیدند!
 سبحان الله!</div>
-<div class="tg-footer">👁️ 1.69K · <a href="https://t.me/SBoxxx/16241" target="_blank">📅 10:11 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/SBoxxx/16241" target="_blank">📅 10:11 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16240">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">ترامپ می‌گوید ایلان ماسک، جنسن هوانگ مدیرعامل انویدیا، تیم کوک اپل و سایر مدیران ارشد شرکت‌های آمریکایی در هواپیمای ایرفورس وان به مقصد چین در حال پرواز هستند.</div>
-<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/SBoxxx/16240" target="_blank">📅 10:01 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.93K · <a href="https://t.me/SBoxxx/16240" target="_blank">📅 10:01 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16239">
@@ -377,7 +377,7 @@ https://t.me/SBoxxx</div>
 ارتباط با پشتیبانی : @cyclicalwavessupport
 📌
 کانال ما : @cyclicalwaves</div>
-<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/SBoxxx/16239" target="_blank">📅 10:01 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/SBoxxx/16239" target="_blank">📅 10:01 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16238">
@@ -394,39 +394,39 @@ https://t.me/SBoxxx</div>
 📌
 کانال ما :
 @cyclicalwaves</div>
-<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/SBoxxx/16238" target="_blank">📅 10:01 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/SBoxxx/16238" target="_blank">📅 10:01 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16237">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromCycFX VIP</strong></div>
 <div class="tg-text">ترامپ می‌گوید ایلان ماسک، جنسن هوانگ مدیرعامل انویدیا، تیم کوک اپل و سایر مدیران ارشد شرکت‌های آمریکایی در هواپیمای ایرفورس وان به مقصد چین در حال پرواز هستند.</div>
-<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/SBoxxx/16237" target="_blank">📅 09:43 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/SBoxxx/16237" target="_blank">📅 09:43 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16236">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qQDLAM7Vt9ZvaJNJSFRNzwB3Y4t_QfaGTcbAA5tttjbfdSj7lr2nzquQqhOBim8nKYj2TeGflSblaRIzDyGYSXj1OkdUYBQvb6MS1YDlGvUYTuP4rTgXnF6va9o4LUvcKUVcny6TrjPUMdcVC_BXpqVTYdH-A2DioIlmz3A9ePxRWNJKFK9iC5ppCDgyIoiilqUgl0ud6TX4Xql6aiqI0wIJCCBTDAJjvzRU1otheUvR0sPFXBdQ_t-5vgPSzqaKZGU9VlASOtmkoOA4DCunwELYzZvecJVfGkaJXtp0H7uxzchwIbvCNd8u2KKyrPY0C5IuXb4Cyrxmo0md5xKZ7w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برخی منابع خبر از طرح حزب الله برای تصرف بیروت می‌دهند.</div>
-<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/SBoxxx/16236" target="_blank">📅 07:12 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/SBoxxx/16236" target="_blank">📅 07:12 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16235">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">لازم به ذکر است که این دو مستراح بزرگ تا ۱۹۷۱ با هم متحد بودند که سپس بنگالی ها با کمک هندی ها از فاکستان جدا شدند.</div>
-<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/SBoxxx/16235" target="_blank">📅 06:48 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/SBoxxx/16235" target="_blank">📅 06:48 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16234">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">نیویورک تایمز:  برآورد فعلی این است که حدود ۱۰٪ از پایگاه‌های موشکی ایران به طور دائمی توسط حملات آمریکا از کار افتاده‌اند.  ۹۰٪ باقی‌مانده پایگاه‌ها و سایت‌های پرتاب موشک در سراسر کشور «یا کاملاً یا تا حدی عملیاتی» باقی مانده‌اند و احتمالاً برای از کار انداختن…</div>
-<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/SBoxxx/16234" target="_blank">📅 06:38 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/SBoxxx/16234" target="_blank">📅 06:38 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16233">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">پست جدید ترامپ !  استخر کاخ سفید را گفته تمیز کرده اند و این را برای رنده کردن دموکرات‌ها سوژه کرده است.</div>
-<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/SBoxxx/16233" target="_blank">📅 06:12 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/SBoxxx/16233" target="_blank">📅 06:12 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16232">
@@ -436,32 +436,32 @@ https://t.me/SBoxxx</div>
 ۹۰٪ باقی‌مانده پایگاه‌ها و سایت‌های پرتاب موشک در سراسر کشور
 «یا کاملاً یا تا حدی عملیاتی»
 باقی مانده‌اند و احتمالاً برای از کار انداختن تنها با حملات هوایی بیش از حد مستحکم هستند.</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/SBoxxx/16232" target="_blank">📅 01:54 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/SBoxxx/16232" target="_blank">📅 01:54 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16231">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">زلزله های پیاپی در تهران!</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/SBoxxx/16231" target="_blank">📅 01:42 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/SBoxxx/16231" target="_blank">📅 01:42 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16230">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">چرا معادله روسیه—اوکراین برای چین—تایوان برقرار نیست؟</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/SBoxxx/16230" target="_blank">📅 01:32 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/SBoxxx/16230" target="_blank">📅 01:32 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16229">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">When the Fake News says that the Iranian enemy is doing well, Militarily, against us, it’s virtual TREASON in that it is such a false, and even preposterous, statement. They are aiding and abetting the enemy! All it does is give Iran false hope when none should…</div>
-<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/SBoxxx/16229" target="_blank">📅 01:10 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/SBoxxx/16229" target="_blank">📅 01:10 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16228">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromDonald J. Trump</strong></div>
 <div class="tg-text">When the Fake News says that the Iranian enemy is doing well, Militarily, against us, it’s virtual TREASON in that it is such a false, and even preposterous, statement. They are aiding and abetting the enemy! All it does is give Iran false hope when none should exist. These are American cowards that are rooting against our Country. Iran had 159 ships in their Navy — Every single ship is now resting at the bottom of the sea. They have no Navy, their Air Force is gone, all Technology is gone, their “leaders” are no longer with us, and the Country is an Economic Disaster. Only Losers, Ingrates, and Fools are able to make a case against America! President DONALD J. TRUMP</div>
-<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/SBoxxx/16228" target="_blank">📅 01:10 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/SBoxxx/16228" target="_blank">📅 01:10 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16227">
@@ -472,13 +472,13 @@ https://t.me/SBoxxx</div>
 #سهام_خارجی
 این یک فرصت ویژه ایرانیان خارج کشور است. صندوق ETF اورانیوم می تواند در قالب موج 5 خود دستکم 70 درصد رشد داشته باشد که در چارت می بینید.
 نظر به مسخره بازی ما در تنگه هرمز، احتمال هجوم سرمایه ها به انرژی های جایگزین بالاست و انرژی هسته ای هم یکی از اینهاست.</div>
-<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/SBoxxx/16227" target="_blank">📅 00:55 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.23K · <a href="https://t.me/SBoxxx/16227" target="_blank">📅 00:55 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16226">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">چرا_آمریکا_به_سوی_جنگ_طولانی_با_ایران_می‌رود.pdf</div>
-<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/SBoxxx/16226" target="_blank">📅 00:39 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/SBoxxx/16226" target="_blank">📅 00:39 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16225">
@@ -492,33 +492,33 @@ https://t.me/SBoxxx</div>
 <a href="https://t.me/SBoxxx/16225" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">ترجمه یادداشت تحلیلی Foreign Policy درباره احتمال فرسایشی شدن جنگ ایران</div>
-<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/SBoxxx/16225" target="_blank">📅 00:37 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/SBoxxx/16225" target="_blank">📅 00:37 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16223">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Kl4SW6OSBpuUDLAo9AFfsuzW7AwqFllLff63kxvx9kVrYG8nnxSaI5VOOAnoWsrQ_riGSly82BhkZ9F4KFkQ8NFdc_eS5yd9EkCpfGMGy0o2RTTmxhshZupYbQm_cSUkcs_-qBN4Yle4v_xM1uUJGF5NTytngD80W0VNd1TWthy4mnwB6BMPmr1d5UAR7gopeEQya85vnYnHsuvzX5fmFMBXPE3FyF1HLUOHLqkL9n5UUMPD4U2tVoaP92OHPv8zpNQg0tdr-EcmfBGftMgfGowuSpZWAusUrzYFB0Z1u_9UnvO40M2wtSf5LHeL-jehznfhhcYpSHZzCCEfuM98MA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای نخستین بار از سال 2023، رشد واقعی دستمزدها در آمریکا به دلیل جهش تورم ناشی از رشد بهای انرژی، منفی شد.</div>
-<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/SBoxxx/16223" target="_blank">📅 00:35 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/SBoxxx/16223" target="_blank">📅 00:35 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16222">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">زلزله های پیاپی در تهران!</div>
-<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/SBoxxx/16222" target="_blank">📅 00:30 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.26K · <a href="https://t.me/SBoxxx/16222" target="_blank">📅 00:30 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16221">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jLldwi9JFbdW1otUgwV-gzQ0kqf6J3ifVR8j5A5frqE0X6njDZC-oI4EGNOSRWEXN6VZiP-MymmD4eTTl5BoYJhjLGWZExJgP9IJs_n7hm5LhLNS8r-mgffYze6UtmkSGjBqtQBxyTQhQvLJ-azWgdjENa3nBy0WkARGegpt2RB0bJ2bI1ToVu_APHjmCm4lOz_KMU5thi6Yq1cOwHziwuBPnIvS_sdpdGG9WbGTxpDu4QbPrxIb7RRMDeYewqNZeAEwG0ZDcm4bqWf0h0-1zuaB5KC4dkzwIMA-DfAigAzFyjB3BnwLfptSvfMChi8EghrEgMTc5y7_kHS8KHnIHQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/SBoxxx/16221" target="_blank">📅 22:10 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/SBoxxx/16221" target="_blank">📅 22:10 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16220">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">منبعی به خبرگزاری فارس گفت که ایران وارد دور دوم مذاکرات با ایالات متحده نخواهد شد مگر اینکه چندین شرط برآورده شود، از جمله پایان جنگ‌های منطقه‌ای، لغو تحریم‌ها، آزادسازی دارایی‌های مسدود شده ایران، جبران خسارات جنگ و به رسمیت شناختن کنترل ایران بر تنگه هرمز.
 بر اساس گفته‌های این منبع، تهران این مطالبات را اقدامات حداقلی برای اعتمادسازی می‌داند که پیش از آغاز هرگونه مذاکره جدید باید انجام شوند.</div>
-<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/SBoxxx/16220" target="_blank">📅 22:10 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/SBoxxx/16220" target="_blank">📅 22:10 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16219">
@@ -528,39 +528,39 @@ https://t.me/SBoxxx</div>
 توزیع ملی شاخص فلاکت
 📊
 بالاترین  مربوط به ایلام و پایین ترین  مربوط به خراسان جنوبي</div>
-<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/SBoxxx/16219" target="_blank">📅 21:38 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/SBoxxx/16219" target="_blank">📅 21:38 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16218">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CBhched27f_x6l4I08S5D9NmKBrqsijq81dWFFki3z8vQT0RHeQ10T3J9FCGpUC_MX7bVqnNiKNsqLPc6Ktb5nU9iSjNGP1ASFc3wt2XXevYdi5qixJCoL9nCr52iFAUBwRG2GDKQ4BKXgzz0HnA-wcNPWQOH-AXoS54VB7Etqi6Qb34tB0KtsBGlsTgJGc1ZaaMHMWISCePbEiqIH6o_3HWZ551mEhsoH_09fNR0iWQtWGN3vjqtOTfvUKAJMwJt-JLCVak727BUSGqwHn299u_TrLq5nDOYJMZTJRIKpBQC5DOHBvOIDK2MSu9t-OGzfjPobe7VPYenEzhfXzWtQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هند قصد دارد یک بندر استراتژیک در یونان را به دست آورد.  بندر الکساندروپولی در نزدیکی مرز ترکیه  یکی از پربازدیدترین بنادر مدیترانه است.  شرکت هندی که در مذاکرات با یونان درگیر است به احتمال زیاد گروه آدانی است.</div>
-<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/SBoxxx/16218" target="_blank">📅 21:12 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/SBoxxx/16218" target="_blank">📅 21:12 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16217">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">نتانیاهو از تشکیل اتحاد جدیدی علیه «محور شیعه بنیادگرا و محور سنی بنیادگرا» خبر داد.  این اتحاد شامل هند، یونان، قبرس، کشورهای آفریقایی، کشورهای عربی و کشورهای آسیایی خواهد بود.</div>
-<div class="tg-footer">👁️ 2.28K · <a href="https://t.me/SBoxxx/16217" target="_blank">📅 21:07 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/SBoxxx/16217" target="_blank">📅 21:07 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16216">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pOVnJOe6WCwlOasa4F2iECYhHP5X7anHCr9XvZP6NRRHnZzTKYkfxCUzTYlPL3VHUwkhPj8EHq-YpjaovZkz3d8-2LRdF4ULJ9L1Nb9eb_YpaOKVHZwFln_8XKNGa9GE_FzYn1szhd3e8licUSsy7nUzNZbwcNTaiZQ3HVX5Rj5Q_dFR34TDWdlYN3j5-bOouG2lMTarONuZ2A8RzAq5k6GpiIUeOeHB-r4O20D48T0riX1IWoUMurXEIVyiLyYh3N3pPpkZBWzcR2uqb5gnUTLan-f9yjO8DnF31u6ml6zYZu9ggDWDfCTtLHRqMBhTotpMLHGMqn-k32x4AFdgfQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همه تیم ها دارند تدارکات عالی برای جام جهانی میبینند ما هم داریم اینطوری با خودمان ور می رویم!</div>
-<div class="tg-footer">👁️ 2.37K · <a href="https://t.me/SBoxxx/16216" target="_blank">📅 20:06 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/SBoxxx/16216" target="_blank">📅 20:06 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16215">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">ژاپن معاملات تسلیحات مرگبار را در جنوب شرق آسیا پیش می‌برد  وزیر دفاع ژاپن، شینجیرو کویزومی، روز دوشنبه در جاکارتا با همتای اندونزیایی خود، شمس الدین، یک پیمان همکاری دفاعی امضا کرد، و پس از به مانیل خواهدرفت؛ جایی که نیروهای ژاپنی در کنار نیروهای آمریکایی…</div>
-<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/SBoxxx/16215" target="_blank">📅 19:38 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/SBoxxx/16215" target="_blank">📅 19:38 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16214">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OOQRHlS-pm_JPcy7JaU6410YjBSZop7LFgSgksZL3HOqzvChP4MmJ1jgxwErXSyGLfm8rYIcCFtqVi4Dxwhlg2bqIXSgXUE6y95ZoqnUGmtO5xvsBmst8MrcG5L5Kp7c6D-SiO5_Xmefb-kSnsOv3RS0Wq3mCKD9jxOUhLxLGOJA8OL1tt-lvz648JwUoMyilwIG7VdjE70poNfzoC1HmZs3Z9_Xv1tliw6QOvDLdSnn53LNTZ3-1Sh0pj2MabrplfxxrS22Y5IlvJNzba0f5HXG7Gxlm_EKcDIP9oMn2wtW91c96C_aiLVs51237zTpch0Kz4usjtDxEj8Me95J5w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/SBoxxx/16214" target="_blank">📅 19:34 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/SBoxxx/16214" target="_blank">📅 19:34 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16212">
@@ -568,20 +568,20 @@ https://t.me/SBoxxx</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IVQJ3NWNXKhVL1dYhcPBJr90Hod2DbNJUINjLFS-s95r8kuYGvhtwGJsgNStITS7gn800pgZ4reDXcKjZ16GNOwiC-v3gVPUc2xqzOFdQOtV7eLUdEyX5zlP5soUnE0ewZzTuXzCRfFmyFz8t4jzAJynociHJDlh9nsTHixnWH761RTj59vhZoroDoOfXw0pZggvy5KFvQMNIsp0NIWYmWWeZByJY5ivyXLrWxS1pJYPKQdRVwUIlFk03-oE5xHaY2cCXIu3TvxU5d1ZYaK32aigqvTV9Qgu-p8nInCK_--O6QPTz1oZYKgIdddjRN0C8HUuhxY9AEj6-c_HCIOUeA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست جدید ترامپ !
 استخر کاخ سفید را گفته تمیز کرده اند و این را برای رنده کردن دموکرات‌ها سوژه کرده است.</div>
-<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/SBoxxx/16212" target="_blank">📅 19:05 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/SBoxxx/16212" target="_blank">📅 19:05 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16211">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">ترامپ درباره ایران:
 ما صد در صد به گرد و غبار هسته‌ای دست خواهیم یافت و کل ماجرا را خواهیم گرفت.</div>
-<div class="tg-footer">👁️ 2.36K · <a href="https://t.me/SBoxxx/16211" target="_blank">📅 18:59 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.37K · <a href="https://t.me/SBoxxx/16211" target="_blank">📅 18:59 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16210">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">ترکیه یک کمپین عمومی در اروپا برای ترویج پیوستن کامل خود به اتحادیه اروپا آغاز می‌کند.  شورای روابط اقتصادی خارجی ترکیه (DEIK) نامه‌های سرگشاده‌ای را به سران کشورها و دولت‌های آلمان، فرانسه، هلند، اسپانیا، ایتالیا، لهستان و بلژیک در روزنامه‌های معتبر کشورهایشان…</div>
-<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/SBoxxx/16210" target="_blank">📅 18:39 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/SBoxxx/16210" target="_blank">📅 18:39 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16209">
@@ -589,7 +589,7 @@ https://t.me/SBoxxx</div>
 <div class="tg-text">ترکیه یک کمپین عمومی در اروپا برای ترویج پیوستن کامل خود به اتحادیه اروپا آغاز می‌کند.
 شورای روابط اقتصادی خارجی ترکیه (DEIK) نامه‌های سرگشاده‌ای را به سران کشورها و دولت‌های آلمان، فرانسه، هلند، اسپانیا، ایتالیا، لهستان و بلژیک در روزنامه‌های معتبر کشورهایشان منتشر کرده است.
 به گفته نیل اولپاک، رئیس DEIK، پیام این است که عضویت کامل ترکیه در اتحادیه اروپا به "استقلال استراتژیک اروپا" و همچنین امنیت جهانی کمک خواهد کرد.</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/SBoxxx/16209" target="_blank">📅 18:39 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/SBoxxx/16209" target="_blank">📅 18:39 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16208">
@@ -604,7 +604,7 @@ https://t.me/SBoxxx</div>
 📌
 کانال ما :
 @cyclicalwaves</div>
-<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/SBoxxx/16208" target="_blank">📅 18:30 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/SBoxxx/16208" target="_blank">📅 18:30 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16207">
@@ -613,27 +613,27 @@ https://t.me/SBoxxx</div>
 وزیر خزانه داری ایالات متحده آمریکا
 :
 تنگه هرمز خودش باز خواهد شد</div>
-<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/SBoxxx/16207" target="_blank">📅 16:32 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/SBoxxx/16207" target="_blank">📅 16:32 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16206">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">فرمانده عملیات استان کربلا:   نیرویی که در ماه مارس در صحرای نجف بود، اسرائیلی بوده و بیش از ۴۸ ساعت نماند.</div>
-<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/SBoxxx/16206" target="_blank">📅 15:55 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/SBoxxx/16206" target="_blank">📅 15:55 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16205">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">حقیقتا «الکسیس میانرودان» لقب شایسته ای برای عراق نیست؟!  تل آویو - اسرائیل برای پشتیبانی از عملیات هوایی خود علیه ایران، یک پایگاه نظامی مخفی در صحرای عراق ایجاد کرد و حملات هوایی علیه نیروهای عراقی انجام داد که تقریباً در اوایل جنگ آن را کشف کردند.  به گفته…</div>
-<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/SBoxxx/16205" target="_blank">📅 15:54 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/SBoxxx/16205" target="_blank">📅 15:54 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16204">
 <div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QlCDRE5RIVV69vhoUXOG1C0UY62F-MlNP1zJT4ldvjPvorW6wV1D5TM8yiq7p_Cd0PTqbCbF-RVYqi7UFdDC0jTDZka3447pn-x8p8yUdudtvp0uzxH-DIzgJ_27MIR2XNXdqv7joO3BgWQoVN6M3Xi_d5M-vCro45JX6hJQjFRqkDNdqmfBzwO9G_jkuEuI0xm3stPLvcWUH4jGQnFHbbODUr2-KK_INVK7Oh-Vvq5iL57q36typ16qjCsq_ZUNowbmSVNeAF-vMlIkTgSH6S9RszebWxznQsmsD_oyF5oaU2LL_yDvFSGCTgLSjR99_voISOCcLLhMv_fcidsRkA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rxVkCggpd6z04YPdymHsP_enRxil3gIHaTh18EJLI7_oBhWhCN70X3Sh04Hl3gSaPNTEraWRgBCbuMib3DWE73jWpy9xMoFpq2UkJ365k0vylDWNJMQZhmu1MOptfMqVDF_hMfOmY1l0w3tSBdcYSFTzq2l2lCXj4In1SrjDoH15_YyNX77kulXzF6xtVvPnUw5OeLlSPl5D83-tmciVME2AV4pucx0_IPpLHF2WWeFrKMYEOvOZC8SUovecnp4ePVo5xB7bIQwU22GVxSWm3TeytPijMMaSkWhFAHTug6VV7AcQYesES3IOfiDgb8T1OZaydoLuGepg7ik0B7rvvw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تصویری از یک شرکت کننده در رزمایش ضد هلی برن «قائد شهید» سپاه محمد رسول اللّه تهران
 به نظر می رسد احتمال عملیات زمینی یا هلی برن آمریکایی ها از دید سپاه پاسداران افزایش یافته است.</div>
-<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/SBoxxx/16204" target="_blank">📅 15:49 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/SBoxxx/16204" target="_blank">📅 15:49 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16203">
@@ -641,7 +641,7 @@ https://t.me/SBoxxx</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/u0dnkZNxX-FPbmnw0OYfw4sonM01ZuFEPIx8WuobnoYf9nOxJD7rEHOhDBk9ejOgVpeJDPd5YD2bBVchF9_-GNI03YSx8NOyMkcqZp98TFEJT6zDO7eUxeJa3OdvDz7G6Fw7WlRlcfhQTPdMGHa8CANj7RETg4bCSXJaXUC01CVfuXU3PRnaNMzhPl4XNtIyNe89XYjmXrVPMex_4LsbHroh1B3Olfq6kL-w7Hs5XnR9WVsnMnlNn_SS13ZtLFBYl2UAi3VN-KNZzboW27SipH6hhSGrRiy3wtUOoOPAJlv7XR_bKPqg9z5woOYw4fuvv--GhB-i4SnSlCh966-8bg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">میزان وابستگی کشورهای مختلف به واردات نفت + گاز طبیعی مایع صادراتی از تنگه هرمز
 کشورهای شرق و جنوب شرق آسیا بیشترین آسیب پذیری را دارند و آمریکا (گوشه سمت چپ پایین) کمترین وابستگی را.</div>
-<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/SBoxxx/16203" target="_blank">📅 14:26 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/SBoxxx/16203" target="_blank">📅 14:26 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16202">
@@ -657,7 +657,7 @@ https://t.me/SBoxxx</div>
 📌
 کانال ما :
 @cyclicalwaves</div>
-<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/SBoxxx/16202" target="_blank">📅 13:38 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/SBoxxx/16202" target="_blank">📅 13:38 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16201">
@@ -679,7 +679,7 @@ https://t.me/SBoxxx</div>
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QtDOXioox6ox-eZ2C0YVOafbBUXGJD7ZyDoFq_e8rcB-WgtCnUmmpCskEMu2HkuwgcQKfDs76QgT2Z0C8PY7LwwVY-IOfENn0NJxa65w_QPvIps6z-kFGoMm7KPG-nG63uaC5PWS17eX58ZPtao-kkS0q0paQOupU3BVVh_ah2-OkpoqmBEZIhNCSe1OJWf3Tnx9f8uvD7WIRTSRwYhHIdGYlLdMUTiVGZHyqlFx3E-p7s09Z0elw4TShbY8SYujA1go-H7gAjOGwXHZxdxEi-AA5n3NMzSxZnA1JygCn_jFnIKpjmGg7Gz-dN8I4zu_KMFSLH4291tfiV1Np88HCQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جنگ ایران و فشار شدید روی ذخایر ارزی و طلای ترکیه !  طبق داده های معتبر، در یک بازه بسیار کوتاه—حدود دو هفته در دوره تشدید جنگ —بانک مرکزی ترکیه حدود ۲۰ تا ۲۲ تن طلا را به‌طور مستقیم فروخته و علاوه بر آن سوآپ‌هایی معادل ۳۰ تا ۴۰ تن طلا انجام داده است.   در…</div>
-<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/SBoxxx/16200" target="_blank">📅 13:18 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/SBoxxx/16200" target="_blank">📅 13:18 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16199">
@@ -688,26 +688,26 @@ https://t.me/SBoxxx</div>
 پس از اعلام آتش‌بس میان تهران و واشنگتن در اوایل آوریل، ایران چندین فروند هواپیما به پایگاه هوایی "نورخان" پاکستان اعزام کرد.
 این پایگاه نظامی از نظر استراتژیک حائز اهمیت است. منابع به سی‌بی‌اس نیوز گفته‌اند که پاکستان با اجازه پارک هواپیماهای نظامی ایران در خاک خود، احتمالاً آن‌ها را از حملات هوایی آمریکا مصون نگه داشته است.
 محموله ارسالی شامل یک فروند هواپیمای شناسایی و جمع‌آوری اطلاعات آر سی-۱۳۰ نیروی هوایی ایران بود</div>
-<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/SBoxxx/16199" target="_blank">📅 13:07 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/SBoxxx/16199" target="_blank">📅 13:07 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16198">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">#ITA — D  اینکه سرانجام ترامپ برای 3 روز هم که شده میان روسیه و اوکراین آتش بس برقرار می کند و سفری به چین دارد که اینقدر دستکم از دید خودش امیدبخش است شاید همان گمانه زنی را تقویت کند که بزودی یک صلح بزرگ — یا دستکم وقفه ای اساسی در روند جنگ ها — در جهان…</div>
-<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/SBoxxx/16198" target="_blank">📅 13:05 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/SBoxxx/16198" target="_blank">📅 13:05 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16197">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">اگر آمریکا دوباره به ما حمله کند، با ۲ بار قبلی می‌شود ۳ بار !</div>
-<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/SBoxxx/16197" target="_blank">📅 13:04 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/SBoxxx/16197" target="_blank">📅 13:04 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16196">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">عضو کمیسیون امنیت ملی مجلس:
 در صورتی که آمریکا دوباره به ما حمله کند، غنی سازی ۹۰٪ را استارت می‌زنیم!</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/SBoxxx/16196" target="_blank">📅 13:03 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/SBoxxx/16196" target="_blank">📅 13:03 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16195">
@@ -723,7 +723,7 @@ pinned an audio file</div>
 <div class="tg-text">کلی مایر از شبکه نیوزنیشن با دونالد ترامپ، رئیس‌جمهور آمریکا، درباره احتمال اقدام نظامی علیه ایران پیش از سفرش به چین گفت‌وگو کرد.
 ترامپ از اظهارنظر در این باره خودداری کرد و گفت: «واضح است که در این مورد با شما صحبت نخواهم کرد.»
 این در حالی است که گزارش‌های اکسیوس حاکی از آن است که دولت آمریکا در حال بررسی یک کارزار حملات محدود علیه ۲۵ درصد از اهداف شناسایی‌شده ایران است که تاکنون هدف قرار نگرفته‌اند، تا تصمیم‌گیرندگان ایرانی را به مذاکره بر سر برنامه هسته‌ای خود وادار کند</div>
-<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/SBoxxx/16194" target="_blank">📅 06:55 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/SBoxxx/16194" target="_blank">📅 06:55 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16193">
@@ -737,7 +737,7 @@ pinned an audio file</div>
 <a href="https://t.me/SBoxxx/16193" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">یک سری اینجا منتظرند چین هم به تایوان حمله کند مشابه آنچه روسیه با اوکراین کرد تا جبهه جدیدی ضد غرب و آمریکا شکل بگیرد و این سمت ما پیروز بشویم.  در یک صوتی توضیح میدهم که چرا به نظرم این ایده یک توهم کودکانه است.</div>
-<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/SBoxxx/16193" target="_blank">📅 03:09 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/SBoxxx/16193" target="_blank">📅 03:09 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16192">
@@ -745,48 +745,48 @@ pinned an audio file</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/F-t3O6C6n4Ek4q16rPoU4wuYnSC2L31FC9lJ8KEwxpbPRVeyhEp0iXh4tb7maHLnc2Sv04EFl2XYIRnmbX4usTtNoehJgUzeycPReGfbOxoww34Bw62Es5qw6Qxjwl6CaGQeGzletmsUQZwaMtv6pq78-Px9NzKGdUqmT3HRfj_DYNw1yeNDs3w_3tQEgL2UIGbFy0HPRpNdfIx7DF_S195puYpMI83XX1TmH_CZYzcCPKwo-uX6oY3-ZmhpS29hxUfAoU8REa2THWmyNUzDMD3-N-rwKTN1UrCFHs85fVLbdsalcLZHoAhxYTlEqfPFaeTQOc9ffM33gScw25EQ0g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نفتکش ایرانی سی استار ۳ همچنان در نزدیکی بندر جاسک در حال سوختن است.
 این شناور اواخر هفته گذشته در اثر حمله هوایی نیروی دریایی آمریکا در بندر آسیب شدیدی به بخش عقب آن وارد شد</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/SBoxxx/16192" target="_blank">📅 02:54 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/SBoxxx/16192" target="_blank">📅 02:54 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16191">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cgOwUg9gfrPBN83Me1ZArUCCe3zJoBQwhpZBx97GYSutULuxfd1vqrPZZ2lhuL-ig71AZEs8cyvP4hIeaART3V0_aRk-jB6lMdSovaajVEpWnqXzd3uAylNLm0v3J334unG0ruqBKOEGCovB67joZHc672gwHhuaIVbkoPo1d5AvfP_-myqxGqak4SwCi4QNlCMj_ho42G96g8XPoL3hSRtr1OCrDqJ6r7Mo5ZaM0tPzLEc2HgTNmIN2j96CWmA_lfBsUwqciR3-uVwrnCf3E619edueNPCO8QgDD_9HvAYM8Uf5pSwdFBCg8EhcHI8kKGsC1EUiMgwwZLdYwC8FIg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#Rheinmetall — D  ببینید چه شد!  بیش از 23% ریزش پس از شکسته شدن خط روند.  به نظر می رسد واقعاً دستکم یک آتش بس موقت هم که شده داشته باشیم.</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/SBoxxx/16191" target="_blank">📅 02:04 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/SBoxxx/16191" target="_blank">📅 02:04 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16190">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DrFSfk5lbltR5SsU8d777aCOo3drnYs5zpu93yvcCHYr-tJ4knzmJ7TvIIbYueO2a7uISTS3qsfq4U7FqwnRf61SSdNXJqhB2IieL3dYRIrwn051u9cRDy5c5Ob6FH73XpCagrOOrjcT6DoVIg-URCRkmTEHZj0iSuUiN7JlOY2OBD-s-tsaJvoYUCLcIsDqsOcX5C9gDqbMcgm8eHU9SbFw5Ug47ntmeRJkZ26osT0xJAxo-gJN1N2RXMHfNv3vThnGip6xvYHIS2PMKBgfOqrGxEe5gmxGwuMD8wuKKcLSK5UhIMOh_DwGqF2ImGdb8efFwLqX7xFRf5cPBR149g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#ITA — W  به نظر می رسد این صندوق که شبیه ساز صنایع دفاعی آمریکا است در آستانه یک سقف اساسی قرار گرفته که به معنی کاهش تنشهای نظامی در آینده نزدیک است.  در صورت شکسته شدن کانال اخیر می توان با قطعیت گفت که فعلاً جنگ بزرگی در جهان نخواهیم داشت.</div>
-<div class="tg-footer">👁️ 2.36K · <a href="https://t.me/SBoxxx/16190" target="_blank">📅 01:52 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.37K · <a href="https://t.me/SBoxxx/16190" target="_blank">📅 01:52 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16189">
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iNgz7jYlGddj3jyNmyGw_2SYGAzL2d4n62RCygP-aSiS7hVa2KNHn22jmPtvE-OuLZetPyliuDrOnBp1VsGe13XzPq3iTcojKqEoU7-g3NoBumPnboKRQodo4HCLuij1ODI2FkTUkisdMe-inRitjs-A_VMmEDF3QREQebEKRz0FRxxYENeqWGfwP--VfyAVejmrTnyanTNACpZMB-u7fXT3BeM_uKWS8pp6MqwcuzOT8thU9UoBWOnZHskc9kRo76pXc9ZSQr3_PXWIQaSWZ0hz-f6xHWugeEfo_6sGd97sNoFO66GBZgT2Ds08UdVSJBIBVUE-cgwJfuwv5K1RHA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#سحرخیز</div>
-<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/SBoxxx/16189" target="_blank">📅 01:45 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.33K · <a href="https://t.me/SBoxxx/16189" target="_blank">📅 01:45 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16188">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/otcmrGu1FRS96uI172jtF0B0r9Mc5hzEUdqDk8fNutFYgiYudfVREy2EOarr33jnXq0G9UL0xJhT_YWFvpy7Kobg7biK9Wk3b3HNzxWqp9p7nD5WRTkD0VWJyDCMQhb8UE4gb_VTq6JO5himUoKtjXd-8b7AwHbziC6QX_RsyvQkSRKWTjLuxnM42A0diUZ_wsynHGMxmGjG-b1G-5FpEgFq2YC3nMoIUngBENS9Hzrr-MQSC9I57mz2dzpTDF_BYJj1dDWzFp7nRcrlqGNTrTZ44O6bfA_fQqwd1yjltGkdB-sHjcDNxnDdKr9lmN3kRgtKBgbF0fnzoWe0iqHpVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#سحرخیز</div>
-<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/SBoxxx/16188" target="_blank">📅 01:43 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/SBoxxx/16188" target="_blank">📅 01:43 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16187">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/caucRh-gr5iveEegLEK2sg75vZrCPt4UMrFJBv3pg7b8dPO8vjCu1k4la__0HtLb9unMTS6WYuv_kEHGXPAQ1mIhKOEpqPnFsESKddAYpVbulR92_fNCO2V5X0FTkHsD-ZOhxemUjW0oG-ZUJXCyiXddfoZzhu6q8md9OC886ZLxxLmpCz0PAOZI9etEi3QE9W7769o92D9ldlSsvYvA9lRR5L8rkiiofe5fn28mobpCo5sjwJmOdu8kQDv-nNZtk2AShG_ga1dJ7JeDluxz8rQyQ927N8t3mjYnQH_-QYYYgTHMkXUbbNpLkiRWtfxU1NjsRaknB9r1mgBT1ngJbA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#نهال</div>
-<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/SBoxxx/16187" target="_blank">📅 01:41 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/SBoxxx/16187" target="_blank">📅 01:41 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16186">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">خبرنگار: آیا فکر می‌کنید آمریکا باید همچنان به تایوان سلاح بفروشد؟  ترامپ: من این بحث را با رئیس‌جمهور شی خواهم داشت. رئیس‌جمهور شی دوست دارد ما این کار را نکنیم و من این بحث را خواهم داشت.</div>
-<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/SBoxxx/16186" target="_blank">📅 01:27 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/SBoxxx/16186" target="_blank">📅 01:27 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16185">
@@ -804,7 +804,7 @@ pinned an audio file</div>
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromCycFX VIP</strong></div>
 <div class="tg-text">قانون‌گذاران مجلس نمایندگان ایالات متحده در حال معرفی لایحه‌ای برای ممنوعیت خودروهای چینی در ایالات متحده هستند!</div>
-<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/SBoxxx/16184" target="_blank">📅 21:33 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/SBoxxx/16184" target="_blank">📅 21:33 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16183">
@@ -818,7 +818,7 @@ pinned an audio file</div>
 <div class="tg-text">طراح قانون حجاب اجباری:
 موساد به زن ها ساعتی ۳ دلار پول میدهد تا لخت بیان وسط میدان ولیعصر بچرخند.
 هرکسی را دیدید حجاب ندارد بدانید اسرائیل دارد به او پول می‌دهد.</div>
-<div class="tg-footer">👁️ 2.57K · <a href="https://t.me/SBoxxx/16182" target="_blank">📅 21:03 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.58K · <a href="https://t.me/SBoxxx/16182" target="_blank">📅 21:03 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16181">
@@ -837,7 +837,7 @@ pinned an audio file</div>
 <div class="tg-post" id="msg-16179">
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">یک سری اینجا منتظرند چین هم به تایوان حمله کند مشابه آنچه روسیه با اوکراین کرد تا جبهه جدیدی ضد غرب و آمریکا شکل بگیرد و این سمت ما پیروز بشویم.  در یک صوتی توضیح میدهم که چرا به نظرم این ایده یک توهم کودکانه است.</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/SBoxxx/16179" target="_blank">📅 20:15 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/SBoxxx/16179" target="_blank">📅 20:15 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16178">
@@ -850,13 +850,13 @@ pinned an audio file</div>
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GpPddGzrV1-SEzHVZQEmC3AQN8yMEtFotCfKy7O5_OpOAtmMB-n2XTwnegj9qKYBODHrqlQ7rFCqBFBH6rAVzW4N4QXF_Wi-jL0pwI5Icer1QygDioxu6Zp2Pj43YcGBqxcoQw9eIp9Er55D7c4AhCREa_HFFbgvZ4QF_TfcQ1We3-5XWkyUwJ_wUKZcK9UjQamaGCxfsJTAn_ePxw8hTvc-uuenBH2KevvEq5vt4HlzC8tyCN8ZRPKp--uPwhlk3F03L1kXhvzZk44yHoqmHJxXBelkTxFeJ7b72f1FDx9WX5pbktcnd3klUSczrbW-HotRVLO1AvNhh6xFQhyTsw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بازارها از دست ترامپ دیوانه شده اند</div>
-<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/SBoxxx/16177" target="_blank">📅 19:59 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/SBoxxx/16177" target="_blank">📅 19:59 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16176">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">ترامپ به صورت ضمنی چین را هم تهدید کرد که به خرید نفت از ایران ادامه ندهد!</div>
-<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/SBoxxx/16176" target="_blank">📅 19:56 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/SBoxxx/16176" target="_blank">📅 19:56 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16175">
@@ -881,7 +881,7 @@ pinned an audio file</div>
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">ترامپ:
 ما ۴ روز برای سندی از ایران منتظر ماندیم که تنظیم آن بیش از ۱۰ دقیقه زمان نمی‌برد!</div>
-<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/SBoxxx/16172" target="_blank">📅 19:43 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/SBoxxx/16172" target="_blank">📅 19:43 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16171">
@@ -899,14 +899,14 @@ pinned an audio file</div>
 <div class="tg-post" id="msg-16169">
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">امروز کله زرد روی Long نفت است.</div>
-<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/SBoxxx/16169" target="_blank">📅 19:31 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/SBoxxx/16169" target="_blank">📅 19:31 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16168">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">❗
 ترامپ: من قرار است با گروه بزرگی از ژنرال‌ها درباره ایران دیدار کنم</div>
-<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/SBoxxx/16168" target="_blank">📅 19:29 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/SBoxxx/16168" target="_blank">📅 19:29 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16167">
@@ -920,31 +920,31 @@ pinned an audio file</div>
 <div class="tg-post" id="msg-16166">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">ترامپ به فاکس: من در حال بررسی تمدید پروژه آزادی هستم. پروژه آزادی بخشی از یک عملیات بزرگ‌تر خواهد بود</div>
-<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/SBoxxx/16166" target="_blank">📅 18:46 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/SBoxxx/16166" target="_blank">📅 18:46 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16165">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">وعده ترامپ برای اطمینان از وجود ذخایر طلا!  در 19 فوریه 2025، رئیس جمهور دونالد ترامپ در حالی که در ایر فورس وان بود، اعلام کرد که قصد دارد از فورت ناکس بازدید کند تا وجود ذخایر طلای ذخیره شده در آنجا را تأیید کند.   این مواضع منعکس کننده بحث ها و نگرانی های…</div>
-<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/SBoxxx/16165" target="_blank">📅 18:26 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/SBoxxx/16165" target="_blank">📅 18:26 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16164">
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">ترامپ به فاکس: من در حال بررسی تمدید پروژه آزادی هستم. پروژه آزادی بخشی از یک عملیات بزرگ‌تر خواهد بود</div>
-<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/SBoxxx/16164" target="_blank">📅 18:22 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/SBoxxx/16164" target="_blank">📅 18:22 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16163">
 <div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">مشاور ارشد کاخ سفید هسّت: در مذاکرات با ایران عجله‌ای نیست چون اقتصاد آن‌ها در آستانه فروپاشی است</div>
-<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/SBoxxx/16163" target="_blank">📅 18:21 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/SBoxxx/16163" target="_blank">📅 18:21 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16162">
 <div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">ترامپ به فاکس: ما تا رسیدن به توافق با ایران تعامل خواهیم کرد</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/SBoxxx/16162" target="_blank">📅 18:19 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/SBoxxx/16162" target="_blank">📅 18:19 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16161">
@@ -964,19 +964,19 @@ pinned an audio file</div>
 <div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ebk9RJv4oYvu_kAZmBQW1Y5YQWUcsiIuJYAk_GPF9wfKfdJt9dY-1Ko3Hcb-0_Iw9QYl9PhYvV5P2ueAGW0LuioGcOKWtu5KYqcI9rp76mHIZz5u-7YKRG74os97ZY4jkPyaEywY5Vyj8mynY_4TH7HBEdwCLPVpWG9qW98nLkrmgvBwjuwwj-s1S64ON28TcfbyuOquntDIPE2Hk5T6MlAm_PyI1bSr_8P6PePscG8HoohIZ0yXZRwJml_wbhzc73cAB3ztCpNlIPOgXYeZ0QrL3WOcv9PxlaOiH767AOnF-dmgp6-wltfLuo3CXlChoRzOqJY9gkYUsCZ7TyR94g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فردا دقیقاً در همین مورد یک یادداشت تحلیلی در سایت کار می شود.</div>
-<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/SBoxxx/16159" target="_blank">📅 12:38 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/SBoxxx/16159" target="_blank">📅 12:38 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16158">
 <div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">پس از رد پیشنهاد ایران  رد آخرین پیشنهاد ایران از سوی ترامپ ورود به چه مرحله‌ای است؟ آیا به معنای پایان دیپلماسی و آغاز جنگی دیگر است؟ همانطور که پوتین گفته است، هیچکدام از طرف‌ها علاقه‌ای به آغاز درگیری نظامی ندارند، با این حال، به نظرم سطح تنش مقداری بالا…</div>
-<div class="tg-footer">👁️ 2.37K · <a href="https://t.me/SBoxxx/16158" target="_blank">📅 11:59 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/SBoxxx/16158" target="_blank">📅 11:59 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16157">
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">نمیدانم این احمق چه اصراری دارد که هر هفته یکی دو بار به همه یادآوری کند که دستکم ۲ تخته کم دارد ولی خب.</div>
-<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/SBoxxx/16157" target="_blank">📅 11:57 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/SBoxxx/16157" target="_blank">📅 11:57 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16156">
@@ -1015,7 +1015,7 @@ pinned an audio file</div>
 <div class="tg-post" id="msg-16151">
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">سفارت ایران در سئول:   ادعای حمله به کشتی کره جنوبی در تنگه هرمز کذب است</div>
-<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/SBoxxx/16151" target="_blank">📅 10:36 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.36K · <a href="https://t.me/SBoxxx/16151" target="_blank">📅 10:36 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16150">
@@ -1032,7 +1032,7 @@ pinned an audio file</div>
 <div class="tg-text">#WHEAT
 — D
 به نظر می رسد گندم هم دارد همان مسیری را می رود که نقره 3 سال پیش در آغاز آن بود...</div>
-<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/SBoxxx/16149" target="_blank">📅 09:59 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/SBoxxx/16149" target="_blank">📅 09:59 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16148">
@@ -1053,7 +1053,7 @@ pinned an audio file</div>
 احتمال شنیده شدن صدای انفجار کنترل شده در محدوده بهارستان و اطراف آن وجود دارد.
 🔹️
 این انفجارها امروز دوشنبه ۲۱ اردیبهشت از ساعت ۹ الی ۱۳ انجام می‌شود و جای هیچ نگرانی برای مردم عزیز نخواهد بود.</div>
-<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/SBoxxx/16147" target="_blank">📅 09:29 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/SBoxxx/16147" target="_blank">📅 09:29 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16146">
