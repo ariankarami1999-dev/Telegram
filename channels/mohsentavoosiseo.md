@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-24 01:21:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-24 02:28:21</div>
 <hr>
 
 <div class="tg-post" id="msg-684">
@@ -303,7 +303,7 @@
 اصلا انگار بشره. توقعمو خیلی برده بالا. خیلی هم ریز بین و دقیقه. خیلی هم عمیق میفهمه.
 آنتروپیک پس فردا مثل Horizon Zero Down و Forbidden West، ربات هاش زندگی انسان رو می گیرند و باید پناه ببریم به پناهگاه ها و ربات های Anthropic بشن موجودات اصلی زمین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 888 · <a href="https://t.me/mohsentavoosiseo/684" target="_blank">📅 17:48 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 911 · <a href="https://t.me/mohsentavoosiseo/684" target="_blank">📅 17:48 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683">
@@ -312,7 +312,7 @@
 به خاطر شرایط جنگی، قیمت دوره از 12 میلیون تومن، به 4 میلیون تومن، کاهش پیدا کرد و این قیمت تا زمان ظهور دوباره امید به بهبود در دل مردم این سرزمین، این قیمت باقی می مونه.
 ❗️
 هیچ وقت هیچ کمپین تخفیف و فروشی نداشتم. این هم کمپین نیست! کاهش دائمی هست تا برگشت…</div>
-<div class="tg-footer">👁️ 1.04K · <a href="https://t.me/mohsentavoosiseo/683" target="_blank">📅 15:04 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.06K · <a href="https://t.me/mohsentavoosiseo/683" target="_blank">📅 15:04 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-682">
@@ -346,7 +346,7 @@ https://t.me/mohsentavoosiseo/633
 https://t.me/mohsentavoosiseo/634
 https://t.me/mohsentavoosiseo/639
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-679">
@@ -355,7 +355,7 @@ https://t.me/mohsentavoosiseo/639
 <div class="tg-text">واقعا خوشم نمیاد از این خسیس بازی بیش از حد کلاد. دوتا لینک کرد و خوند، یه دونه گوگل شیت دویست ردیفته و ده ستونه ساخت کلاد مکس(5x pro) شد 22 درصد!
 البته با Sonnet کمتر مصرف میکرد قطعا. ولی حوصله خنگ بازیش رو نداشتم چون کار گوگل شیتش پیچیده بود. آدم هم مغزش از جا درمیومد با این تسک.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/mohsentavoosiseo/679" target="_blank">📅 14:32 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/mohsentavoosiseo/679" target="_blank">📅 14:32 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-678">
@@ -365,7 +365,7 @@ https://t.me/mohsentavoosiseo/639
 ولی بهتره ما جهانی فکر کنیم و کل کره زمین رو ببینیم. جهت خط خطی کردن ذهن هایی که ناخواسته محدود شدند، یاداور میشم:
 خارج شامل هند، بنگلادش، نپال، سومالی، کنگو، هنگ کنگ، فیلیپین، میانمار، تانزانیا، گامبیا، بوسنی هرزگوین، مغولستان، لیتوانی، لیبی، مصر، غزه و رام الله و کرانه باختری، صربستان، مراکش، قرقیزستان، زامبیا، شیلی، بولیوی، گواتمالا و... هم هست و این ها هم خارج محسوب میشن و جمع کوچکی از سرزمین ها و کشور های غیر انگلیسی زبان هستند!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/mohsentavoosiseo/678" target="_blank">📅 11:42 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/mohsentavoosiseo/678" target="_blank">📅 11:42 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-677">
@@ -379,7 +379,7 @@ https://t.me/mohsentavoosiseo/639
 خلاصه: هم کلاد درسته هم کلود. آ و اُ . کوتاه.
 نظر شخصی: برای اینکه با فضای ابری قاطی نکنیم، کلاد بهتره. چه برای مخاطب انگلیسی چه فارسی. تلفظ رسمی انگلیسیش هم کلاد هست.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/mohsentavoosiseo/677" target="_blank">📅 11:34 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/mohsentavoosiseo/677" target="_blank">📅 11:34 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-676">
@@ -393,7 +393,7 @@ https://t.me/mohsentavoosiseo/639
 این ویس
 گفتم.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/mohsentavoosiseo/676" target="_blank">📅 16:16 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/mohsentavoosiseo/676" target="_blank">📅 16:16 · 16 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-675">
@@ -489,7 +489,7 @@ https://t.me/mohsentavoosiseo/639
 بعضی ها که از اسپانیا و ایتالیا و یونان هم ایراد میگیرن! انگار قراره برن شرکت اسپانیایی ایتالیایی با حقوق های کم اونجا کار کنند.
 چرا ذهن باید انقدر محدود فکر کنه که محل فیزیکی فعلی زندگی یعنی شغلت هم باید وابسته به همون بازار باشه؟ اصلا چرا اومدی تو حوزه دیجیتال اگه اینجوری فکر می کردی؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.46K · <a href="https://t.me/mohsentavoosiseo/659" target="_blank">📅 11:19 · 08 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.47K · <a href="https://t.me/mohsentavoosiseo/659" target="_blank">📅 11:19 · 08 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-658">
@@ -500,7 +500,7 @@ https://t.me/mohsentavoosiseo/639
 تسلط به کلاد
 رسیدیم به این جمله که در آینده افراد شغل هاشونو از دست نمیدن. بلکه کسانی که بلد نیستند با AI کار کنند شغل هاشونو از دست میدن. (فعلا غیر از کارهای دستی مثل آشپزی و ماساژ و خیاطی و...)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.38K · <a href="https://t.me/mohsentavoosiseo/658" target="_blank">📅 00:48 · 08 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.39K · <a href="https://t.me/mohsentavoosiseo/658" target="_blank">📅 00:48 · 08 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-657">
@@ -542,7 +542,7 @@ https://t.me/mohsentavoosiseo/639
 <div class="tg-post" id="msg-652">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 3.63K · <a href="https://t.me/mohsentavoosiseo/652" target="_blank">📅 17:05 · 07 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/mohsentavoosiseo/652" target="_blank">📅 17:05 · 07 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-651">
@@ -704,7 +704,7 @@ https://t.me/mohsentavoosiseo/623
 اما در این شرایط چیکار کنیم و خودم چیکار میکنم؟
 ✅
 برای کسانی که ایران هستند: تولید محتوای فارسی و کمپین های رپورتاژ و محتوای داخلی وب سایت و استخراج عنوان ها با ابزار های داخلی…</div>
-<div class="tg-footer">👁️ 3.16K · <a href="https://t.me/mohsentavoosiseo/635" target="_blank">📅 19:50 · 26 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 3.17K · <a href="https://t.me/mohsentavoosiseo/635" target="_blank">📅 19:50 · 26 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-634">
@@ -844,7 +844,7 @@ https://parspack.com/cdn
 <div class="tg-post" id="msg-619">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">بیشتر از آمادگی بابت قطعی های مقطعی اینترنت ایران و دسترسی از خارج،  در فکر آمادگی برای تغییر قوانینی هستم که در سود و زیان وب سایت ها موثره و بازی رو عوض میکنه. آیا خدمات و محصولات شما بعد از تغییرات بزرگ همچنان تقاضا یا سود داره‌؟  بر خلاف تصور عموم، به…</div>
-<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/mohsentavoosiseo/619" target="_blank">📅 17:27 · 18 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/mohsentavoosiseo/619" target="_blank">📅 17:27 · 18 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-616">
@@ -1093,14 +1093,14 @@ https://www.linkedin.com/posts/mohsentavoosi_aebaeoaew-activity-7409525124615348
 Disavow & Ahrefs
 دیسوو گوگل هیچ ربطی به سایر ابزار ها نداره
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/mohsentavoosiseo/590" target="_blank">📅 17:11 · 19 Azar 1404</a></div>
+<div class="tg-footer">👁️ 3.87K · <a href="https://t.me/mohsentavoosiseo/590" target="_blank">📅 17:11 · 19 Azar 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-589">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">اشتباه ها و تفکر اشتباه رایج پروژه گرفتن در این زمانه
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/mohsentavoosiseo/589" target="_blank">📅 12:05 · 18 Azar 1404</a></div>
+<div class="tg-footer">👁️ 5.61K · <a href="https://t.me/mohsentavoosiseo/589" target="_blank">📅 12:05 · 18 Azar 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-587">

@@ -291,20 +291,20 @@
 <p>@farahmand_alipour • 👥 60.3K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-24 01:21:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-24 02:28:21</div>
 <hr>
 
 <div class="tg-post" id="msg-4960">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GyFQgGlz8HAw9eu44AC_Qq50Q0uDcOoGNVSjSz-KsH0gm-c2e7ftlKIs6sodfhqv8F0z6PkK3Lmyi1Mn7uu3iaQp9tImrITccN2O1ladJDRKYLLT6yG91YlCuVwrhSODgXgCEDIn5scbXH15bYZb6ouix5XWzJYHdY5sIktY9xHDaFUgB45dCWioWHxx2BNkNtEmoqz0YBKO6BLL9SBQvYEvQXtVNHamCTDIAcpNqh840j18UagAxccU-YnqtLkavAGMh-7mxniUYjGQbDHfB9x9daMORHpchVOud4Fl-0G9Q1orEvfXLe64T_WDEZ4lIRVTAlM4u5g773OPI_3g_w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">امارات در حال ایجاد فنس‌های محافظتی برای دفع حملات پهپادی است.</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farahmand_alipour/4960" target="_blank">📅 21:33 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/farahmand_alipour/4960" target="_blank">📅 21:33 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4959">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">جمهوری اسلامی : ۴ مامور دستگیر شده در کویت در چهارچوب ماموریت گشت‌زنی دریایی بودند که به خاطر اختلال در سامانه ناوبری وارد آب‌های کویت شدند.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farahmand_alipour/4959" target="_blank">📅 20:48 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/farahmand_alipour/4959" target="_blank">📅 20:48 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4958">
@@ -313,7 +313,7 @@
 🚨
 ناکامی «هفت باره» دمکرات‌های سنای آمریکا در طرح محدود کردن اختیارات جنگی ترامپ در جنگ علیه جمهوری اسلامی.
 دمکرات‌های سنای آمریکا هفت بار طرح محدود کردن اختیارات رئیس جمهور در  جنگ علیه ایران را به رای گذاشتند و هر ۷ بار شکست خوردند.</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/farahmand_alipour/4958" target="_blank">📅 20:47 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farahmand_alipour/4958" target="_blank">📅 20:47 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4957">
@@ -325,7 +325,7 @@
 لبنان در این نامه نهادهای جمهوری اسلامی، از جمله سپاه پاسداران را مسئول درگیر شدن این کشور در جنگ، برخلاف خواست دولت معرفی کرد.
 ‏این شکایت می‌گوید که این درگیری منجر به کشته و زخمی شدن هزاران شهروند لبنانی، آوارگی بیش از یک میلیون نفر، ویرانی گسترده در روستاها و شهرها، و اشغال بخش‌هایی از خاک لبنان توسط اسرائیل شده است.
 لبنان در این نامه گفته با اینکه سفیر جمهوری اسلامی را اخراج کرده، اما او خاک لبنان را ترک نمی‌کند!</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/farahmand_alipour/4957" target="_blank">📅 20:17 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/farahmand_alipour/4957" target="_blank">📅 20:17 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4956">
@@ -333,7 +333,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HM3QqjzLuON98Gez4LbFHoDP8tkC_0PG0-VIFqvD8lgVWyicnjJASuERJjlGB7xJU5yNmHrf9Aqf3xQPWxaqGbfM2B_umiIvxlRaYLdZfqnmHgGxf7Xa0MxuUQpTQOz_gYF8dvB_ogcnnGzpNrOeHnZ6JeyenWJ_s3ePjIVeALxPGzBn--07KGtI6lkdEYL9P4jGNoTA5ZTz3qCQMYnBm4cBZV7_ayC88K2eobYC6wNf97CPpBNdrPfa39BYzUGmiYsEo-bihmeVL0hAgnEcVKJAZx3xzmivlWbTkQAGEceFBQQendUTvUe1E8prr2vdrFx741G41h6AI4zFDNwubg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برخی از رسانه‌های فرانسوی دست به انتشار گزارشی به نقل از «فلورین تاردیف» خبرنگار «پاری‌مچ» زده‌اند که حکایت از روابط پنهانی امانوئل ماکرون و گلشیفته فراهانی دارد.
 این خبرنگار فرانسوی در گزارش خود نوشته که سیلی که زن ماکرون به او در کنار در خروجی هواپیما زد، به خاطر همین رابطه بوده.</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/4956" target="_blank">📅 14:23 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/4956" target="_blank">📅 14:23 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4955">
@@ -341,14 +341,14 @@
 <div class="tg-text">تداوم انتشار اخبار مشارکت نظامی امارات و عربستان در جنگ ۴۰ روزه توسط رسانه‌های غربی :
 وال استریت ژورنال : رئیس موساد در طی جنگ ۴۰ روزه حداقل دو بار از امارات دیدار کرد.
 ‏گاردین: ‏اختلافات داخلی میان کشورهای حاشیهٔ خلیج فارس، به‌ویژه بین عربستان سعودی و امارات، در محافل خصوصی معطوف به این مسئله بوده است که آیا خشم کشورهای عربی از حملات ایران باید تا حد تلافی‌های نظامی ادامه یابد، یا این اقدام ممکن است سطحی گسترده از تنش غیرقابل کنترل را ایجاد کند.</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farahmand_alipour/4955" target="_blank">📅 14:19 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/4955" target="_blank">📅 14:19 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4954">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">🚨
 ‏«کنگره ملی کردستان»، نهاد فراگیر تشکل‌های کُرد، با انتشار بیانیه‌ای صحبت‌های دونالد ترامپ درباره ارائه سلاح به گروه‌های کُرد برای مقابله با جمهوری اسلامی را رد کرد و هشدار داد چنین اظهاراتی خطر ایجاد یک کارزار خصمانه هماهنگ علیه مردم کُرد را به همراه دارد.</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/4954" target="_blank">📅 14:17 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/farahmand_alipour/4954" target="_blank">📅 14:17 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4953">
@@ -356,7 +356,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JY_DF8kBNmLEoLm1H87lUX8Q0rz2xRTJkxTDr7i7JWyF2yetmEbb3eJ4MJU1Alh5rUT3jes2fvBJwQysMenlP8yXqRYak27iYDMhqqDeESk09OxtWnVYYx7bb1riC7CXqFoXfag6tWT-mu3evrg7-IjKWcAAPmyksCY7NxtXOqIHQ8qOgC2Mhs2JE6gDkxjZHDgwEtOv1--7EujiSQ1j3bhrtjGpnJcnBs58U5MXd2guE067H8zfRhGYwGNc2odeqL6ubLLpsvEvarMItrKvlhb3G_ufiPK5abWdd6u3qbC7hbCAKgwpyRfNDiMM9YPSe8djGujGVwbSW5aQfs3kyA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینها دولت و حکومت نیستن
 مشتی راهزن و گروگانگیرن</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/farahmand_alipour/4953" target="_blank">📅 12:01 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/farahmand_alipour/4953" target="_blank">📅 12:01 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4952">
@@ -371,7 +371,7 @@
 فقط  ۴ نفر حامی بایکوت بودند!
 نماینده ایتالیا هم از ناپل بود و یک ترانه
 با حال و هوای جنوب ایتالیا اجرا کرد.</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/farahmand_alipour/4952" target="_blank">📅 10:58 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/farahmand_alipour/4952" target="_blank">📅 10:58 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4951">
@@ -382,7 +382,7 @@
 این سایت‌ها در زمان جنگ ۴۰ روزه با حمله به وردی آنها مسدود شده بودند.
 همچنین ۷۰ درصد از لانچرهای متحرک خود را همچنان حفظ کرده.
 ‏و مجددا به ۹۰ درصد از انبار و سکوی پرتاب زیرزمینی دسترسی پیدا کرده.</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/farahmand_alipour/4951" target="_blank">📅 10:18 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/farahmand_alipour/4951" target="_blank">📅 10:18 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4950">
@@ -397,7 +397,7 @@
 <div class="tg-text">انتقاد شاهزاده رضا پهلوی  از سیاست‌های ترامپ، «از یک طرف می‌گوید مردم باید قیام کنند و در عین حال می‌گوید صبر کنید، ما در حال مذاکره هستیم. این همه را گیج می‌کند.
 شما نمی‌توانید سیگنال‌های متناقض
 ارسال کنید.»</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farahmand_alipour/4950" target="_blank">📅 10:12 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farahmand_alipour/4950" target="_blank">📅 10:12 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4949">
@@ -417,13 +417,13 @@
 مدرک فلسفه گرفت!
 اون محسن رضایی و قالیباف
 و بقیه شون که هیچ!</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/farahmand_alipour/4949" target="_blank">📅 10:02 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/farahmand_alipour/4949" target="_blank">📅 10:02 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4948">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">پاپ لئون چهاردهم به محمدحسین مختاری، سفیر جمهوری اسلامی در واتیکان، «صلیب بزرگ نشان پاپی پیوس نهم» را اعطا کرد؛ بالاترین نشان دیپلماتیک فعال واتیکان. این تصمیم در سندی مورخ ۸ مه و با امضای کاردینال پیترو پارولین، وزیر امور خارجه واتیکان، تأیید شده است.  هرچند…</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/farahmand_alipour/4948" target="_blank">📅 09:48 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/farahmand_alipour/4948" target="_blank">📅 09:48 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4947">
@@ -431,20 +431,20 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QWeuhai6qyb3ztOdsnlhpZL-VRGLdLkC-HbxneDRlzwuGy_6B1WaER1kwrLtlkJ8Gz5JmJoDZPBgdY8ROFNSpNKKrWmMn1dxn3plNltoketdr57x3Bfc9m1be3a_3Tkut0VvH4OnRtcB_9B_EWXibJsJzpZtQ8_13bS_XXNvPtbha6R9c_3cKEKV4rb2yfP889lVqtozT0B4zW5JTAZDpqZX1V1FsrJrv-eCzquJmBVVVgRS3E5y5vsSTwLdbfYc3qxw26NWI8SZQbubgfl5ojEjzlfOfOnJ8KBaieo6FRfHkFhzb-MLf5YjHsWzplLvb6vw9dEtLre7Sod6cnLq2A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پاپ لئون چهاردهم به محمدحسین مختاری، سفیر جمهوری اسلامی در واتیکان، «صلیب بزرگ نشان پاپی پیوس نهم» را اعطا کرد؛ بالاترین نشان دیپلماتیک فعال واتیکان. این تصمیم در سندی مورخ ۸ مه و با امضای کاردینال پیترو پارولین، وزیر امور خارجه واتیکان، تأیید شده است.
 هرچند این نشان معمولاً بخشی از پروتکل دیپلماتیک واتیکان محسوب می‌شود و معمولاً پس از چند سال خدمت به سفیران مستقر در واتیکان اعطا می‌شود، اما فضای ژئوپلیتیک کنونی و اظهارات اخیر پاپ درباره تنش‌ها با ایران، باعث شده این اقدام به موضوعی بحث‌برانگیز تبدیل شود.</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/farahmand_alipour/4947" target="_blank">📅 09:48 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/farahmand_alipour/4947" target="_blank">📅 09:48 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4946">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hF3hyLYJM8fDN08SD90ppmquwu3HOxMmNIroZcO6B4gGQhSkj7lLQ1KBc6ghqWnWJQQqCjxWPU-YgVUrCMWHOBDLY9xMioMry9i2MdxigAulAi8SvrHcm0lokfBgZuIojuSKT-ppoaSmWYQ3z-OHhMl-9D_U9mSY8eCFdV8QWCQB104H4JZ0kMrjnk1qa-FOMQL3Q-xMLmS_UuJYR4o15NfeoNJbb0SQiPQZjtOydm2KNBsOlWuYi1VB4hWIglyT6EkMngpYmgRxmTFed8MHJLE4IUJ_DGQcdJbf_quNpByDNr5K2lT7J86KReys2gLeFGDqP8OX5axmbfePHRBE_Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر آموزش و ‌پرورش وقت، در گفتگو با خبرنگاران در پاسخ به سؤالی مبنی بر تقاضای برخی نمایندگان مجلس به استعفای وزیر و برکناری مدیر کل آموزش و پرورش استان آذربایجان غربی گفت: «شما چی؟ شما را برکنار کنیم یا نه اگر به موقع خبر می‌دادید مواظب مدرسه شین آباد پیرانشهر باشید این اتفاق روی نمی‌داد.»</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/farahmand_alipour/4946" target="_blank">📅 09:18 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/farahmand_alipour/4946" target="_blank">📅 09:18 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4945">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PVLdMlapE7zhwl8FdbSVHWhhjqJhnLwFS4JRx8e09KG7UZB5vd5QxBBtVOXaBYM7-x8R8iBGu08ttGdTNseSmU8Qg1c6Ettxrc1sLWKvL_cJdShLxcv3hP31WIvls5UQS9hGiCcw1GGldc698zAMXVC8Q2jryEGdMCnRZzv2NtFzsInQC0O_hQ_bcJDyZVc-OQF-fOixGFJbODEDMdA97qJc9uW38onKQ4jNXONQ-04h2FMpfDjHM-sTWg6b5fQBvwPzJpMdhEWt5S2iJZe2wM1atNA5BUi19SFe2Z2-vGstxNYzhe_bHDpFuVYhjpNJBCTLf7vaMMQiQgmLVMhAtg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/farahmand_alipour/4945" target="_blank">📅 09:16 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farahmand_alipour/4945" target="_blank">📅 09:16 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4944">
@@ -457,7 +457,7 @@
 و می‌گویند خطری او را تهدید نمی‌کند.
 احسان برمی‌گردد و حکم اعدام می‌گیرد.
 پدرش چند وقت پیش و بعد از صدور حکم اعدام پسرش - توسط قاضی صلواتی - سکته می‌کند و جانش را از دست می‌دهد. امروز هم خود احسان را اعدام کردند.</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/4944" target="_blank">📅 08:45 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/farahmand_alipour/4944" target="_blank">📅 08:45 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4943">
@@ -492,7 +492,7 @@
 🚨
 🚨
 وزارت خارجه کویت با صدور بیانیه‌ای  رسماً جمهوری اسلامی  را متهم کرده که گروهی  از نیروهای ۳ پ  را با قایق ماهیگری  برای عملیات خرابکارانه به خاکش در جزیره بوبیان فرستاده و  در جریان درگیری  یک نظامی  کویتی زخمی شده است.  کویت که امروز سفیر جمهوری اسلامی…</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/4940" target="_blank">📅 23:39 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/4940" target="_blank">📅 23:39 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4939">
@@ -545,7 +545,7 @@
 </div>
 <div class="tg-text">۵۹ دانشجو امروز از غزه وارد ایتالیا شدند.
 ایتالیا در مجموع به  ۲۲۹ دانشجوی اهل غزه بورسیه تحصیلی و تسهیلات اقامتی داده که امروز اولین گروه آنها با یک‌ پرواز وارد رم شدند.</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/farahmand_alipour/4933" target="_blank">📅 22:26 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/farahmand_alipour/4933" target="_blank">📅 22:26 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4931">
@@ -612,7 +612,7 @@
 در سه ماهه اول سال ۲۰۲۶ به رغم جنگ در خلیج فارس و بسته بودن تنگه هرمز، این شرکت افزایش ۲۵ درصدی درآمد داشت و ۳۲ میلیارد دلار سود به دست آورد.
 بخشی از این افزایش شدید درآمد مربوط به افزایش قیمت نفت است.
 عربستان از طریق دریای سرخ روزانه تا ۷ میلیون بشکه نفت صادرات دارد.</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/4926" target="_blank">📅 12:33 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/4926" target="_blank">📅 12:33 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4925">
@@ -669,7 +669,7 @@
 
 <div class="tg-post" id="msg-4918">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ouJl-md3A7dsGdbN10575WX0VDVFzh3Gs18oJJyKsPHHmiPIdeX1O0Aq7z2aToBXU7uRIPbtVfSHAHAjAiTPlpPSgUyE9VHTtGqlaMLGBec4kgctnenNdsYym2N4b-Q16e7ddESxB-_fZQacg6LVQLIWE8iWYXmgDV81lAi4L6uPr900UGmiJCP5F1b9sUNYGTrp7WYw868bHF4fhd0sGXPYNIs9viGmllr-39VGbOqiPDYZ6ld9p0dl6g7ZeMJTFcFv9NaLY6cjovHxE-Prk5bHfi_8xIMKEIJWuHNG7kwTXQr2s1XNiG6kvkf4FsnfVDvU95jU5aalWPEg2ljxPw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GVhn7UH6Hb9SaEfmwdxreNLNOBM5NkQlCQr4Dwt5OJvId4dvayAHiXL-9vbJUev7fJQoRi5--HD5z2pASGw9foxJkqAmL2kUUybcKI0e1d4dD7NGmvqnSxCyV2BTAPMmEJ8y_s61wI35m4ROwrqFRokwvIk2fnj0E6KBWxgMvz3y0Fico4xSdGiFiFqcUbJKM5X8SjfJ77Y24GOwKUXL8dBH3fXDaM9SzGoVYFJzD6Lsl8WTNsRb7wnFH1bpWqdJLxeb0COGXoSLByzkKvyerEtJ-XThAaZV44xO2vTXUQnrTii2LdKMQpJMM-7VMlJ7E1b4WjnDuMjWZKO8MEKegA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
 وال استریت ژورنال:
@@ -817,7 +817,7 @@
 <div class="tg-post" id="msg-4901">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">پاکستان طرح را برای آمریکا ارسال کرد.</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/farahmand_alipour/4901" target="_blank">📅 21:47 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/farahmand_alipour/4901" target="_blank">📅 21:47 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4900">
@@ -970,7 +970,7 @@
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">🚨
 ‏وزارت دفاع قطر: یک کشتی باری در آب‌های سرزمینی این کشور در شمال شرقی بندر مسیعید، صبح امروز هدف حمله پهپادی قرار گرفت.</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/4888" target="_blank">📅 13:16 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/4888" target="_blank">📅 13:16 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4887">

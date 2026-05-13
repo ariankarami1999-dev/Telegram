@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ارسال پیام:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن. اینجا بعضی ازچیزهایی که می‌خواستم ببینم رو همونجوری که می‌خواستم بهم نشون داده بشه می‌گذارم.استوار بر حمایت‌های مردمی:ماهانهvhdo.nl/patreonیک‌بارهvhdo.nl/paypal</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-24 01:21:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-24 02:28:21</div>
 <hr>
 
 <div class="tg-post" id="msg-75454">
@@ -307,7 +307,7 @@
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 60K · <a href="https://t.me/VahidOnline/75454" target="_blank">📅 00:36 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 90.4K · <a href="https://t.me/VahidOnline/75454" target="_blank">📅 00:36 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75453">
@@ -321,7 +321,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/VahidOnline/75453" target="_blank">📅 23:09 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 150K · <a href="https://t.me/VahidOnline/75453" target="_blank">📅 23:09 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75452">
@@ -334,7 +334,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 158K · <a href="https://t.me/VahidOnline/75452" target="_blank">📅 22:05 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 172K · <a href="https://t.me/VahidOnline/75452" target="_blank">📅 22:05 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75451">
@@ -351,7 +351,7 @@ VahidHeadline
 امارات تکذیب کرد
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 166K · <a href="https://t.me/VahidOnline/75451" target="_blank">📅 21:38 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 178K · <a href="https://t.me/VahidOnline/75451" target="_blank">📅 21:38 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75449">
@@ -364,7 +364,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 196K · <a href="https://t.me/VahidOnline/75449" target="_blank">📅 19:24 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 203K · <a href="https://t.me/VahidOnline/75449" target="_blank">📅 19:24 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75448">
@@ -383,7 +383,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 201K · <a href="https://t.me/VahidOnline/75448" target="_blank">📅 18:08 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 207K · <a href="https://t.me/VahidOnline/75448" target="_blank">📅 18:08 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75447">
@@ -396,7 +396,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 193K · <a href="https://t.me/VahidOnline/75447" target="_blank">📅 18:01 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 198K · <a href="https://t.me/VahidOnline/75447" target="_blank">📅 18:01 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75446">
@@ -408,7 +408,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 179K · <a href="https://t.me/VahidOnline/75446" target="_blank">📅 17:56 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 184K · <a href="https://t.me/VahidOnline/75446" target="_blank">📅 17:56 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75445">
@@ -422,7 +422,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 171K · <a href="https://t.me/VahidOnline/75445" target="_blank">📅 17:55 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 177K · <a href="https://t.me/VahidOnline/75445" target="_blank">📅 17:55 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75444">
@@ -435,7 +435,7 @@ VahidOOnLine
 امروز پیام‌هایی از پس‌لرزه یا پیش‌لرزه ساعت ۱۲:۳۳ دریافت کرده بودم.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 169K · <a href="https://t.me/VahidOnline/75444" target="_blank">📅 17:53 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 175K · <a href="https://t.me/VahidOnline/75444" target="_blank">📅 17:53 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75443">
@@ -448,7 +448,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 190K · <a href="https://t.me/VahidOnline/75443" target="_blank">📅 17:50 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 196K · <a href="https://t.me/VahidOnline/75443" target="_blank">📅 17:50 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75439">
@@ -468,7 +468,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 277K · <a href="https://t.me/VahidOnline/75439" target="_blank">📅 08:34 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 280K · <a href="https://t.me/VahidOnline/75439" target="_blank">📅 08:34 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75438">
@@ -519,7 +519,7 @@ VahidHeadline
 #زلزله
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 326K · <a href="https://t.me/VahidOnline/75438" target="_blank">📅 00:36 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 328K · <a href="https://t.me/VahidOnline/75438" target="_blank">📅 00:36 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75437">
@@ -563,7 +563,7 @@ VahidHeadline
 #زلزله
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 308K · <a href="https://t.me/VahidOnline/75437" target="_blank">📅 00:30 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 309K · <a href="https://t.me/VahidOnline/75437" target="_blank">📅 00:30 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75436">
@@ -577,7 +577,7 @@ VahidHeadline
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 298K · <a href="https://t.me/VahidOnline/75436" target="_blank">📅 23:58 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 299K · <a href="https://t.me/VahidOnline/75436" target="_blank">📅 23:58 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75435">
@@ -630,7 +630,7 @@ realDonaldTrump
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/75433" target="_blank">📅 22:46 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/75433" target="_blank">📅 22:46 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75432">
@@ -660,7 +660,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 266K · <a href="https://t.me/VahidOnline/75431" target="_blank">📅 17:46 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 267K · <a href="https://t.me/VahidOnline/75431" target="_blank">📅 17:46 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75430">
@@ -672,7 +672,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 248K · <a href="https://t.me/VahidOnline/75430" target="_blank">📅 16:36 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 249K · <a href="https://t.me/VahidOnline/75430" target="_blank">📅 16:36 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75429">
@@ -713,7 +713,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 254K · <a href="https://t.me/VahidOnline/75428" target="_blank">📅 16:34 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/75428" target="_blank">📅 16:34 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75427">
@@ -727,7 +727,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/75427" target="_blank">📅 03:13 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/75427" target="_blank">📅 03:13 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75426">
@@ -794,7 +794,7 @@ VahidHeadline
 حالا یا خودشون دارن روی شماره هایی که از یک سایتی یا صنفی داشتن ثبت نام میکنن، یا اینکه یک ادم [...] واسه من فرم پر کرده یا اینکه مسیج الکی فرستادن
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 263K · <a href="https://t.me/VahidOnline/75420" target="_blank">📅 20:53 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 264K · <a href="https://t.me/VahidOnline/75420" target="_blank">📅 20:53 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75408">
@@ -890,7 +890,7 @@ hamedbd
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 211K · <a href="https://t.me/VahidOnline/75404" target="_blank">📅 18:08 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 212K · <a href="https://t.me/VahidOnline/75404" target="_blank">📅 18:08 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75402">
@@ -1044,7 +1044,7 @@ VahidOOnLine
 IranIntlbrk
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 314K · <a href="https://t.me/VahidOnline/75391" target="_blank">📅 00:44 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 315K · <a href="https://t.me/VahidOnline/75391" target="_blank">📅 00:44 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75390">
@@ -1529,7 +1529,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-75344">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CQr90Q1rBcV6-KTeX-vLPFtyX0PfBuUUN_RW6GsIO-uVD284d1ZDNkynBejprXaEFrLMKO87dUfzs_tWxJ2FPzKPcj9za6HIHagkiF_m3Sw1bcI1cjYyn53H9VsZVKszooAd4FVP_BFzkYqDruZH2rjpKMsZhr3FBoEPdY3k6rst4mlmkTXGeuJbqv8XIT-d5MOZCpru1tuKDFeiBhXCDWysKBDshPVv2SlnOEjlcNGKth-X-FKfw9IJqyjhvbkxH79FqdlhSh1POeRbRepX5x2BnMShHEC7IkDawxsKLfyOb7qFGWZxObYrDdPGD5f2HgJir3xNEMSy8a197BT7uw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nQPn-CqwIIqNvCmAPr9M2K2EYgh8GVB-AjAL3S8379Tn2JN22l4jd3_IWNsXf8mHzmfWD3i1diUG9Vb6zFbMegtoFH6LidDdPb_WaBqI3cD4CjrS1JB_BhYCZ5ILEui0VAVCuaa6Rh2x65UDChj0dLKkAFbmVND7WYou_XwrApVmX50fQeaTsqmV5l6dZgPcJx0ubA0FSHYVZUgaaR6QHiJPf3_kh3VIPiiQkTk2kpHPvuEYPQolmAxJQtdIITlRF_jKFpQvjhsLIEKK9_bap62ldnTyg9v8uCvLDRfapMAhL14wtWXhxELOG2zwcoe-YVYCccgdcH6bgikpXDsIZw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ به خبرنگاران درباره چشم‌انداز توافق با جمهوری اسلامی گفت: «اگر همه‌چیز امضا و نهایی نشود، مسیر متفاوتی را در پیش خواهیم گرفت. اگر اتفاقی نیافتد، ممکن است به پروژه آزادی تنگه هرمز بازگردیم، اما آن پروژه آزادی پلاس خواهد بود؛ یعنی پروژه آزادی به‌اضافه موارد دیگر.»
 او در پاسخ به پرسش یک خبرنگار مبنی بر اینکه آیا جمهوری اسلامی عمدا روند مذاکرات را به کندی پیش می‌برد، گفت: «به‌زودی خواهیم فهمید.»
 @
