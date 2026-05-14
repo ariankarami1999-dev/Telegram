@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/EIbChDLiprBGLeWi_AjEm5HQ_VSD-ntUMeY0GIrJl5tsx6PBtSc168y4XQYn6zN4IbEpNCd84QiUKhAuvmipc-6ce3gUzizyleju6c4Z4XU_Pc6HxhWTQ5kaP9euYhPYG8nbCKYwOyesP2K6yeE8UOUuNvlls7t_xoRgj6zk-kWYzzMDuEyEK0vhTvuB5fEM7Ccc8Lds0sGloNUvOAMfEa1D5lHb3xn5qWbLkw0webzTlYVz5WpI1yUHbw4eidn4N3kumT48J6JBs2nVW21WKZ01qrf-ziG2DMvGFxVDrMlD7paPML3d5DpYMX2QZO6Xgiqhvj01EPHPxn4zBkazFQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 خبرفوری</h1>
-<p>@akhbarefori • 👥 3.94M عضو</p>
+<p>@akhbarefori • 👥 3.95M عضو</p>
 <a href="https://t.me/akhbarefori" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽تبلیغ درکانال خبرفوری@ads_foriارتباط مستقیم با ادمین تبلیغ@newsadminجهت رزرو تبلیغ تماس بگیرید. 09018373801؛ارتباط با ما@Ertebat_baforii</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-25 01:33:15</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-25 02:57:01</div>
 <hr>
 
 <div class="tg-post" id="msg-652350">
@@ -309,7 +309,7 @@
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 1.13K · <a href="https://t.me/akhbarefori/652350" target="_blank">📅 01:24 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/akhbarefori/652350" target="_blank">📅 01:24 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652349">
@@ -325,7 +325,7 @@
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/akhbarefori/652349" target="_blank">📅 00:35 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/akhbarefori/652349" target="_blank">📅 00:35 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652346">
@@ -348,7 +348,7 @@
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 3.61K · <a href="https://t.me/akhbarefori/652346" target="_blank">📅 00:34 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/akhbarefori/652346" target="_blank">📅 00:34 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652345">
@@ -361,7 +361,7 @@
 گزارش خبرفوری را اینجا بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3214964</div>
-<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/akhbarefori/652345" target="_blank">📅 00:10 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.14K · <a href="https://t.me/akhbarefori/652345" target="_blank">📅 00:10 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652344">
@@ -386,7 +386,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/akhbarefori/652344" target="_blank">📅 00:02 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.05K · <a href="https://t.me/akhbarefori/652344" target="_blank">📅 00:02 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652343">
@@ -396,7 +396,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/akhbarefori/652343" target="_blank">📅 23:50 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/akhbarefori/652343" target="_blank">📅 23:50 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652342">
@@ -426,7 +426,7 @@ khabarfoori.com/fa/tiny/news-3214881
 🔻
 ویدئوهای جذاب هر روز را در آپارات خبرفوری ببینید
 http://aparat.com/Akhbar.Fori</div>
-<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/akhbarefori/652342" target="_blank">📅 23:39 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.22K · <a href="https://t.me/akhbarefori/652342" target="_blank">📅 23:39 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652341">
@@ -444,7 +444,7 @@ http://aparat.com/Akhbar.Fori</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/akhbarefori/652341" target="_blank">📅 23:26 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/akhbarefori/652341" target="_blank">📅 23:26 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652340">
@@ -457,7 +457,7 @@ http://aparat.com/Akhbar.Fori</div>
 گزارش خبرفوری را اینجا بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3214881</div>
-<div class="tg-footer">👁️ 5.78K · <a href="https://t.me/akhbarefori/652340" target="_blank">📅 23:14 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.59K · <a href="https://t.me/akhbarefori/652340" target="_blank">📅 23:14 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652339">
@@ -473,7 +473,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/akhbarefori/652339" target="_blank">📅 23:12 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.34K · <a href="https://t.me/akhbarefori/652339" target="_blank">📅 23:12 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652338">
@@ -483,7 +483,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 یک روز معمولی… اما با انتخاب‌هایی متفاوت
 🔹
 از صبح که چشم‌هامون رو باز می‌کنیم تا آخر شب، بارها و بارها انتخاب می‌کنیم؛ کیسه پارچه‌ای یا پلاستیکی؟ قمقمه فلزی یا بطری یکبارمصرف؟ ظرف شیشه‌ای یا پلاستیک؟ این کمپین داستان یک روز ساده است؛ روزی که با عادت‌های…</div>
-<div class="tg-footer">👁️ 6.09K · <a href="https://t.me/akhbarefori/652338" target="_blank">📅 22:53 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.83K · <a href="https://t.me/akhbarefori/652338" target="_blank">📅 22:53 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652334">
@@ -499,7 +499,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.72K · <a href="https://t.me/akhbarefori/652334" target="_blank">📅 22:48 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/akhbarefori/652334" target="_blank">📅 22:48 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652333">
@@ -515,7 +515,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.76K · <a href="https://t.me/akhbarefori/652333" target="_blank">📅 22:42 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/akhbarefori/652333" target="_blank">📅 22:42 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652332">
@@ -534,7 +534,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.42K · <a href="https://t.me/akhbarefori/652332" target="_blank">📅 22:28 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.09K · <a href="https://t.me/akhbarefori/652332" target="_blank">📅 22:28 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652331">
@@ -551,7 +551,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.62K · <a href="https://t.me/akhbarefori/652331" target="_blank">📅 22:20 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.22K · <a href="https://t.me/akhbarefori/652331" target="_blank">📅 22:20 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652330">
@@ -560,7 +560,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 <div class="tg-text">♦️
 تقدیر مدیرمسئول خبرفوری از رسانه‌شناسی قالیباف در میانه نبرد در میدان و دیپلماسی
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.14K · <a href="https://t.me/akhbarefori/652330" target="_blank">📅 21:57 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.7K · <a href="https://t.me/akhbarefori/652330" target="_blank">📅 21:57 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652329">
@@ -573,7 +573,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🔹
 امروزه ۵۱ درصد می‌گویند اوضاع خوب پیش نمی‌رود، در حالی‌که این رقم یک ماه پیش ۴۵ درصد بود. تقریباً از هر ده نفر، تنها دو نفر (۲۲ درصد) معتقدند که اقدام نظامی «بسیار عالی» یا «خیلی خوب» در حال پیشرفت است.
 @TV_Fori</div>
-<div class="tg-footer">👁️ 6.96K · <a href="https://t.me/akhbarefori/652329" target="_blank">📅 21:45 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.45K · <a href="https://t.me/akhbarefori/652329" target="_blank">📅 21:45 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652328">
@@ -590,7 +590,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.11K · <a href="https://t.me/akhbarefori/652328" target="_blank">📅 21:29 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.57K · <a href="https://t.me/akhbarefori/652328" target="_blank">📅 21:29 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652327">
@@ -607,7 +607,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/akhbarefori/652327" target="_blank">📅 21:20 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.64K · <a href="https://t.me/akhbarefori/652327" target="_blank">📅 21:20 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652318">
@@ -631,7 +631,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🔹
 در این اسلایدها بازی آنها را در دو فیلم ارزیابی کرده‌ایم.
 @TV_Fori</div>
-<div class="tg-footer">👁️ 6.6K · <a href="https://t.me/akhbarefori/652318" target="_blank">📅 21:15 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7K · <a href="https://t.me/akhbarefori/652318" target="_blank">📅 21:15 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652317">
@@ -648,7 +648,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.57K · <a href="https://t.me/akhbarefori/652317" target="_blank">📅 21:06 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.94K · <a href="https://t.me/akhbarefori/652317" target="_blank">📅 21:06 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652316">
@@ -683,7 +683,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/akhbarefori/652316" target="_blank">📅 20:45 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.5K · <a href="https://t.me/akhbarefori/652316" target="_blank">📅 20:45 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652315">
@@ -696,7 +696,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🔹
 اما وقتی حقوق‌ها با دلار سنجیده می‌شوند، تصویر کاملاً متفاوت است. حداقل دستمزد دلاری از حدود ۳۰۰ دلار در سال ۱۳۹۰ به تنها ۱۰۵ دلار در سال ۱۴۰۵ سقوط کرده؛ یعنی افتی بیش از ۶۵ درصد.
 @TV_Fori</div>
-<div class="tg-footer">👁️ 6.83K · <a href="https://t.me/akhbarefori/652315" target="_blank">📅 20:40 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/akhbarefori/652315" target="_blank">📅 20:40 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652314">
@@ -713,7 +713,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.85K · <a href="https://t.me/akhbarefori/652314" target="_blank">📅 20:37 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.2K · <a href="https://t.me/akhbarefori/652314" target="_blank">📅 20:37 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652313">
@@ -740,7 +740,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.55K · <a href="https://t.me/akhbarefori/652313" target="_blank">📅 20:33 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.87K · <a href="https://t.me/akhbarefori/652313" target="_blank">📅 20:33 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652312">
@@ -753,7 +753,7 @@ khabarfoori.com/fa/tiny/news-3214881</div>
 گزارش خبرفوری را اینجا بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3214964</div>
-<div class="tg-footer">👁️ 5.98K · <a href="https://t.me/akhbarefori/652312" target="_blank">📅 20:27 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.27K · <a href="https://t.me/akhbarefori/652312" target="_blank">📅 20:27 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652311">
@@ -774,7 +774,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.76K · <a href="https://t.me/akhbarefori/652311" target="_blank">📅 20:27 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.05K · <a href="https://t.me/akhbarefori/652311" target="_blank">📅 20:27 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652310">
@@ -790,7 +790,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 #تیتر_یک
 @rozname_fori
 ,</div>
-<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/akhbarefori/652310" target="_blank">📅 20:24 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.89K · <a href="https://t.me/akhbarefori/652310" target="_blank">📅 20:24 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652309">
@@ -802,7 +802,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 هر بار که کیسه پارچه‌ای را انتخاب می‌کنیم، یک قدم به زمین سالم‌تر نزدیک می‌شویم  شما هم به کمپین #نه_به_پلاستیک بپیوندید و تصاویر مربوط به این کمپین را برای ما ارسال کنید
 👇
 @Na_be_pelastic #نه_به_پلاستیک</div>
-<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/akhbarefori/652309" target="_blank">📅 20:15 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.61K · <a href="https://t.me/akhbarefori/652309" target="_blank">📅 20:15 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652308">
@@ -822,7 +822,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🔹
 این ویدئو ناگفته‌های جذابی از او دارد.
 @TV_Fori</div>
-<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/akhbarefori/652308" target="_blank">📅 20:15 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.56K · <a href="https://t.me/akhbarefori/652308" target="_blank">📅 20:15 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652307">
@@ -837,7 +837,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/akhbarefori/652307" target="_blank">📅 20:12 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/akhbarefori/652307" target="_blank">📅 20:12 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652306">
@@ -850,7 +850,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.72K · <a href="https://t.me/akhbarefori/652306" target="_blank">📅 19:59 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.97K · <a href="https://t.me/akhbarefori/652306" target="_blank">📅 19:59 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652305">
@@ -871,7 +871,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.87K · <a href="https://t.me/akhbarefori/652305" target="_blank">📅 19:56 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.08K · <a href="https://t.me/akhbarefori/652305" target="_blank">📅 19:56 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652304">
@@ -885,7 +885,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.81K · <a href="https://t.me/akhbarefori/652304" target="_blank">📅 19:53 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.02K · <a href="https://t.me/akhbarefori/652304" target="_blank">📅 19:53 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652303">
@@ -900,7 +900,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.19K · <a href="https://t.me/akhbarefori/652303" target="_blank">📅 19:45 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.41K · <a href="https://t.me/akhbarefori/652303" target="_blank">📅 19:45 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652302">
@@ -916,7 +916,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🔹
 روزانه ۱۲۴ میلیون لیتر بنزین مصرف می‌شود. با مدیریت مصرف، نیازی به واردات نیست. حدود ۵۰ درصد خانوارهای ایرانی، خودرو ندارند و تخصیص سهمیه به کدملی، یارانه سوخت را عادلانه‌تر می‌کند
 @TV_Fori</div>
-<div class="tg-footer">👁️ 6.14K · <a href="https://t.me/akhbarefori/652302" target="_blank">📅 19:44 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.36K · <a href="https://t.me/akhbarefori/652302" target="_blank">📅 19:44 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652301">
@@ -926,7 +926,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.53K · <a href="https://t.me/akhbarefori/652301" target="_blank">📅 19:37 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.78K · <a href="https://t.me/akhbarefori/652301" target="_blank">📅 19:37 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652300">
@@ -947,7 +947,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.81K · <a href="https://t.me/akhbarefori/652300" target="_blank">📅 19:29 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.07K · <a href="https://t.me/akhbarefori/652300" target="_blank">📅 19:29 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652299">
@@ -963,7 +963,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🔹
 مردم هم آن‌ها را شناختند و می‌دانند به تعهداتشان را انجام نمی‌دهند. معمولا کسی هم ثبت‌نام نمی‌کند مگر پول اضافه‌ای داشته باشد.
 @TV_Fori</div>
-<div class="tg-footer">👁️ 6.63K · <a href="https://t.me/akhbarefori/652299" target="_blank">📅 19:15 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.81K · <a href="https://t.me/akhbarefori/652299" target="_blank">📅 19:15 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652298">
@@ -986,7 +986,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.01K · <a href="https://t.me/akhbarefori/652298" target="_blank">📅 19:08 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.23K · <a href="https://t.me/akhbarefori/652298" target="_blank">📅 19:08 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652297">
@@ -1005,7 +1005,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 جذاب‌ترین عدد امروز مربوط به خبر کاهش ۱۰ تا ۱۵ درصدی قیمت خودروهای خارجیست.
 خبرسازترین عددهای روز را ببینید.
 @TV_Fori</div>
-<div class="tg-footer">👁️ 6.88K · <a href="https://t.me/akhbarefori/652297" target="_blank">📅 18:45 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.03K · <a href="https://t.me/akhbarefori/652297" target="_blank">📅 18:45 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652296">
@@ -1015,7 +1015,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.46K · <a href="https://t.me/akhbarefori/652296" target="_blank">📅 18:42 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.61K · <a href="https://t.me/akhbarefori/652296" target="_blank">📅 18:42 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652295">
@@ -1031,7 +1031,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.74K · <a href="https://t.me/akhbarefori/652295" target="_blank">📅 18:38 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.92K · <a href="https://t.me/akhbarefori/652295" target="_blank">📅 18:38 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652294">
@@ -1052,7 +1052,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.84K · <a href="https://t.me/akhbarefori/652294" target="_blank">📅 18:27 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.01K · <a href="https://t.me/akhbarefori/652294" target="_blank">📅 18:27 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652293">
@@ -1077,7 +1077,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.48K · <a href="https://t.me/akhbarefori/652293" target="_blank">📅 18:25 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.66K · <a href="https://t.me/akhbarefori/652293" target="_blank">📅 18:25 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652292">
@@ -1095,7 +1095,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.98K · <a href="https://t.me/akhbarefori/652292" target="_blank">📅 18:21 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.15K · <a href="https://t.me/akhbarefori/652292" target="_blank">📅 18:21 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652291">
@@ -1110,7 +1110,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 5.92K · <a href="https://t.me/akhbarefori/652291" target="_blank">📅 18:21 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.07K · <a href="https://t.me/akhbarefori/652291" target="_blank">📅 18:21 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652290">
@@ -1121,7 +1121,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 زمان تعویض قطعات خودرو
 #اینفوگرافی
 @Fori_Graphi</div>
-<div class="tg-footer">👁️ 5.91K · <a href="https://t.me/akhbarefori/652290" target="_blank">📅 18:15 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.06K · <a href="https://t.me/akhbarefori/652290" target="_blank">📅 18:15 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652289">
@@ -1139,7 +1139,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.02K · <a href="https://t.me/akhbarefori/652289" target="_blank">📅 18:10 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.17K · <a href="https://t.me/akhbarefori/652289" target="_blank">📅 18:10 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652288">
@@ -1161,7 +1161,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.49K · <a href="https://t.me/akhbarefori/652288" target="_blank">📅 17:58 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.63K · <a href="https://t.me/akhbarefori/652288" target="_blank">📅 17:58 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652287">
@@ -1171,7 +1171,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.19K · <a href="https://t.me/akhbarefori/652287" target="_blank">📅 17:56 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.33K · <a href="https://t.me/akhbarefori/652287" target="_blank">📅 17:56 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652286">
@@ -1183,7 +1183,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.84K · <a href="https://t.me/akhbarefori/652286" target="_blank">📅 17:53 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.02K · <a href="https://t.me/akhbarefori/652286" target="_blank">📅 17:53 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652285">
@@ -1199,7 +1199,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.26K · <a href="https://t.me/akhbarefori/652285" target="_blank">📅 17:47 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.41K · <a href="https://t.me/akhbarefori/652285" target="_blank">📅 17:47 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652284">
@@ -1223,7 +1223,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 🔹
 این ویدئو پشت‌پرده این تصمیم چین را افشا می‌کند؛ آمریکا هنوز حیرت‌زده این تصمیم است.
 @TV_Fori</div>
-<div class="tg-footer">👁️ 6.93K · <a href="https://t.me/akhbarefori/652284" target="_blank">📅 17:35 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.08K · <a href="https://t.me/akhbarefori/652284" target="_blank">📅 17:35 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652283">
@@ -1236,7 +1236,7 @@ khabarfoori.com/fa/tiny/news-3214964</div>
 نظر شما چیست؟ بیشتر بخوانید و نظر بدهید
 👇
 khabarfoori.com/fa/tiny/news-3214858</div>
-<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/akhbarefori/652283" target="_blank">📅 17:24 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.28K · <a href="https://t.me/akhbarefori/652283" target="_blank">📅 17:24 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652282">
@@ -1254,7 +1254,7 @@ khabarfoori.com/fa/tiny/news-3214858</div>
 🔹
 روایتی از مراعات حال مستاجرین توسط مالک‌ها در شرایط سخت این روزهای جنگ.
 @TV_Fori</div>
-<div class="tg-footer">👁️ 7.44K · <a href="https://t.me/akhbarefori/652282" target="_blank">📅 16:57 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.56K · <a href="https://t.me/akhbarefori/652282" target="_blank">📅 16:57 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652281">
@@ -1271,7 +1271,7 @@ khabarfoori.com/fa/tiny/news-3214858</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.63K · <a href="https://t.me/akhbarefori/652281" target="_blank">📅 16:45 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.75K · <a href="https://t.me/akhbarefori/652281" target="_blank">📅 16:45 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652280">
@@ -1286,7 +1286,7 @@ khabarfoori.com/fa/tiny/news-3214858</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.51K · <a href="https://t.me/akhbarefori/652280" target="_blank">📅 16:14 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.63K · <a href="https://t.me/akhbarefori/652280" target="_blank">📅 16:14 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652279">
@@ -1305,7 +1305,7 @@ khabarfoori.com/fa/tiny/news-3214858</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.17K · <a href="https://t.me/akhbarefori/652279" target="_blank">📅 16:12 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.28K · <a href="https://t.me/akhbarefori/652279" target="_blank">📅 16:12 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652278">
@@ -1318,7 +1318,7 @@ khabarfoori.com/fa/tiny/news-3214858</div>
 در خبرفوری بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3214792</div>
-<div class="tg-footer">👁️ 6.82K · <a href="https://t.me/akhbarefori/652278" target="_blank">📅 16:11 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.96K · <a href="https://t.me/akhbarefori/652278" target="_blank">📅 16:11 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652277">
@@ -1338,7 +1338,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/akhbarefori/652277" target="_blank">📅 16:09 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.29K · <a href="https://t.me/akhbarefori/652277" target="_blank">📅 16:09 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652276">
@@ -1349,7 +1349,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.26K · <a href="https://t.me/akhbarefori/652276" target="_blank">📅 15:50 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.39K · <a href="https://t.me/akhbarefori/652276" target="_blank">📅 15:50 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652275">
@@ -1360,7 +1360,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.72K · <a href="https://t.me/akhbarefori/652275" target="_blank">📅 15:29 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.83K · <a href="https://t.me/akhbarefori/652275" target="_blank">📅 15:29 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652274">
@@ -1378,7 +1378,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 8.61K · <a href="https://t.me/akhbarefori/652274" target="_blank">📅 15:03 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.72K · <a href="https://t.me/akhbarefori/652274" target="_blank">📅 15:03 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652273">
@@ -1397,7 +1397,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.86K · <a href="https://t.me/akhbarefori/652273" target="_blank">📅 14:57 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.97K · <a href="https://t.me/akhbarefori/652273" target="_blank">📅 14:57 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652272">
@@ -1413,7 +1413,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🔹
 درحال حاضر یا سهمیه باید کاهش یابد یا از ابزار قیمتی استفاده شود که حداقل مجلس چندان موافق این موضوع نیست. ذخایر بنزین ما نگران کننده نیست.
 @TV_Fori</div>
-<div class="tg-footer">👁️ 7.01K · <a href="https://t.me/akhbarefori/652272" target="_blank">📅 14:55 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.09K · <a href="https://t.me/akhbarefori/652272" target="_blank">📅 14:55 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652270">
@@ -1424,7 +1424,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 8.37K · <a href="https://t.me/akhbarefori/652270" target="_blank">📅 14:31 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.48K · <a href="https://t.me/akhbarefori/652270" target="_blank">📅 14:31 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652269">
@@ -1441,7 +1441,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 8.34K · <a href="https://t.me/akhbarefori/652269" target="_blank">📅 14:19 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.45K · <a href="https://t.me/akhbarefori/652269" target="_blank">📅 14:19 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652268">
@@ -1458,7 +1458,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 8.63K · <a href="https://t.me/akhbarefori/652268" target="_blank">📅 14:00 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.74K · <a href="https://t.me/akhbarefori/652268" target="_blank">📅 14:00 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652267">
@@ -1475,7 +1475,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 8.89K · <a href="https://t.me/akhbarefori/652267" target="_blank">📅 13:56 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.99K · <a href="https://t.me/akhbarefori/652267" target="_blank">📅 13:56 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652266">
@@ -1491,7 +1491,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 <div class="tg-text">♦️
 قصه پیرمردی که از دیرباز در کارهای جهادی بوده
 @TV_Fori</div>
-<div class="tg-footer">👁️ 7.81K · <a href="https://t.me/akhbarefori/652266" target="_blank">📅 13:50 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.88K · <a href="https://t.me/akhbarefori/652266" target="_blank">📅 13:50 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652265">
@@ -1510,7 +1510,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.56K · <a href="https://t.me/akhbarefori/652265" target="_blank">📅 13:34 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.63K · <a href="https://t.me/akhbarefori/652265" target="_blank">📅 13:34 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652264">
@@ -1529,7 +1529,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/akhbarefori/652264" target="_blank">📅 13:32 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.25K · <a href="https://t.me/akhbarefori/652264" target="_blank">📅 13:32 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652263">
@@ -1543,7 +1543,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🔹
 نکته جالب اینجاست که بخش‌های جنوب و جنوبی غربی با میانگین بارش ۳۱۶.۵ میلیمتر بیشترین بارندگی را داشتند. نواحی شرق و بخش‌های از جنوب شرق هم با ۹۴.۹ میلیمتر کمترین بارندگی را تجربه کردند.
 @TV_Fori</div>
-<div class="tg-footer">👁️ 7.22K · <a href="https://t.me/akhbarefori/652263" target="_blank">📅 13:14 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.33K · <a href="https://t.me/akhbarefori/652263" target="_blank">📅 13:14 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652262">
@@ -1555,7 +1555,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 پلاستیک و آلودگی همان لوله‌هایی هستند که راه تنفسش را بسته‌اند. وقت درمان همین حالاست، نه فردا.  شما هم به کمپین #نه_به_پلاستیک بپیوندید و تصاویر مربوط به این کمپین را برای ما ارسال کنید
 👇
 @Na_be_pelastic #نه_به_پلاستیک</div>
-<div class="tg-footer">👁️ 7.06K · <a href="https://t.me/akhbarefori/652262" target="_blank">📅 13:10 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/akhbarefori/652262" target="_blank">📅 13:10 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652261">
@@ -1566,7 +1566,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/akhbarefori/652261" target="_blank">📅 13:10 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.79K · <a href="https://t.me/akhbarefori/652261" target="_blank">📅 13:10 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652260">
@@ -1584,7 +1584,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/akhbarefori/652260" target="_blank">📅 13:01 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.25K · <a href="https://t.me/akhbarefori/652260" target="_blank">📅 13:01 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652259">
@@ -1601,7 +1601,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.49K · <a href="https://t.me/akhbarefori/652259" target="_blank">📅 12:53 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.56K · <a href="https://t.me/akhbarefori/652259" target="_blank">📅 12:53 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652258">
@@ -1613,7 +1613,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.81K · <a href="https://t.me/akhbarefori/652258" target="_blank">📅 12:50 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.85K · <a href="https://t.me/akhbarefori/652258" target="_blank">📅 12:50 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652257">
@@ -1634,7 +1634,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.43K · <a href="https://t.me/akhbarefori/652257" target="_blank">📅 12:32 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.47K · <a href="https://t.me/akhbarefori/652257" target="_blank">📅 12:32 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652256">
@@ -1650,7 +1650,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 <div class="tg-text">سرود رسمی تیم ملی فوتبال ایران برای جام جهانی با صدای پرواز همای منتشر شد.
 در مراسم بدرقه تیم فوتبال ایران برای جام جهانی از قطعه موسیقی "عشق بی کران" با صدای پرواز همای  تولید مرکز هنری رسانه ای نهضت با مشارکت فدراسیون فوتبال برای نخستین بار در میدان انقلاب و حضور گسترده مردم رونمایی شد.
 @Akhbarefori</div>
-<div class="tg-footer">👁️ 6.62K · <a href="https://t.me/akhbarefori/652256" target="_blank">📅 12:32 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.66K · <a href="https://t.me/akhbarefori/652256" target="_blank">📅 12:32 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652255">
@@ -1664,7 +1664,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/akhbarefori/652255" target="_blank">📅 12:28 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.76K · <a href="https://t.me/akhbarefori/652255" target="_blank">📅 12:28 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652254">
@@ -1678,7 +1678,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.94K · <a href="https://t.me/akhbarefori/652254" target="_blank">📅 12:20 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.98K · <a href="https://t.me/akhbarefori/652254" target="_blank">📅 12:20 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652251">
@@ -1693,7 +1693,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.83K · <a href="https://t.me/akhbarefori/652251" target="_blank">📅 12:06 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.9K · <a href="https://t.me/akhbarefori/652251" target="_blank">📅 12:06 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652250">
@@ -1711,7 +1711,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.91K · <a href="https://t.me/akhbarefori/652250" target="_blank">📅 12:00 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.98K · <a href="https://t.me/akhbarefori/652250" target="_blank">📅 12:00 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652249">
@@ -1727,7 +1727,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.95K · <a href="https://t.me/akhbarefori/652249" target="_blank">📅 11:51 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.02K · <a href="https://t.me/akhbarefori/652249" target="_blank">📅 11:51 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652248">
@@ -1746,7 +1746,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.26K · <a href="https://t.me/akhbarefori/652248" target="_blank">📅 11:42 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.33K · <a href="https://t.me/akhbarefori/652248" target="_blank">📅 11:42 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652247">
@@ -1762,7 +1762,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.14K · <a href="https://t.me/akhbarefori/652247" target="_blank">📅 11:32 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.17K · <a href="https://t.me/akhbarefori/652247" target="_blank">📅 11:32 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652246">
@@ -1779,7 +1779,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.07K · <a href="https://t.me/akhbarefori/652246" target="_blank">📅 11:23 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/akhbarefori/652246" target="_blank">📅 11:23 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652245">
@@ -1794,7 +1794,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.53K · <a href="https://t.me/akhbarefori/652245" target="_blank">📅 11:21 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.57K · <a href="https://t.me/akhbarefori/652245" target="_blank">📅 11:21 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652244">
@@ -1809,7 +1809,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.35K · <a href="https://t.me/akhbarefori/652244" target="_blank">📅 11:07 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.42K · <a href="https://t.me/akhbarefori/652244" target="_blank">📅 11:07 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652243">
@@ -1826,7 +1826,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.09K · <a href="https://t.me/akhbarefori/652243" target="_blank">📅 11:02 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/akhbarefori/652243" target="_blank">📅 11:02 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652242">
@@ -1839,7 +1839,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.39K · <a href="https://t.me/akhbarefori/652242" target="_blank">📅 10:58 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.43K · <a href="https://t.me/akhbarefori/652242" target="_blank">📅 10:58 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652241">
@@ -1849,7 +1849,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.41K · <a href="https://t.me/akhbarefori/652241" target="_blank">📅 10:39 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.45K · <a href="https://t.me/akhbarefori/652241" target="_blank">📅 10:39 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652240">
@@ -1859,7 +1859,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 موجی از زباله، دریایی از درد
 🔹
 پلاستیک‌ها تجزیه نمی‌شوند، فقط خرد می‌شوند و وارد زنجیره غذایی ما می‌شوند. برای حفظ سلامت دریاها و خودمان، وقت آن است که جدی‌تر با پلاستیک خداحافظی کنیم.  شما هم به کمپین #نه_به_پلاستیک بپیوندید و تصاویر مربوط به این کمپین…</div>
-<div class="tg-footer">👁️ 7.71K · <a href="https://t.me/akhbarefori/652240" target="_blank">📅 10:36 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.74K · <a href="https://t.me/akhbarefori/652240" target="_blank">📅 10:36 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652239">
@@ -1876,7 +1876,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.99K · <a href="https://t.me/akhbarefori/652239" target="_blank">📅 10:26 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.06K · <a href="https://t.me/akhbarefori/652239" target="_blank">📅 10:26 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652238">
@@ -1895,7 +1895,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.22K · <a href="https://t.me/akhbarefori/652238" target="_blank">📅 10:26 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.26K · <a href="https://t.me/akhbarefori/652238" target="_blank">📅 10:26 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652237">
@@ -1919,7 +1919,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.03K · <a href="https://t.me/akhbarefori/652237" target="_blank">📅 10:25 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.07K · <a href="https://t.me/akhbarefori/652237" target="_blank">📅 10:25 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652236">
@@ -1932,7 +1932,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.37K · <a href="https://t.me/akhbarefori/652236" target="_blank">📅 10:25 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.44K · <a href="https://t.me/akhbarefori/652236" target="_blank">📅 10:25 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-652235">
@@ -1945,7 +1945,7 @@ khabarfoori.com/fa/tiny/news-3214792</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 6.97K · <a href="https://t.me/akhbarefori/652235" target="_blank">📅 10:15 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.01K · <a href="https://t.me/akhbarefori/652235" target="_blank">📅 10:15 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <hr>
