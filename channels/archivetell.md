@@ -288,58 +288,509 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/a8Gneg2h8MS5mHT8WSppsmpYMn1pzODjySSmLD8Y4kvpjka9j3vp1vYA4Y6LKd81OSVFYO3jAC4E4IGJLB5axV7vyxlHpUom6EoAMFrfkE1H8XD23LxHNu1B-89T_wCp8nFvk-GUkPhEzbKep-4kuovWGybkC8kJrhqUYNiD3KnW7FlyF8YNEWMHznxuOLgwB08r7yXjOo5b8plT1Cs2BenLlgwwBYn-efV9VMsGxl_lon3mL8Ip2Ul4l95IHS5CH8jg7ik_ptTloTWLjmW-1mG96HmCoIIhh8SMBgzXwEuHju67WDhwD--YHyz0D26B5Rg8SWbuS3_wCsHO2Hp-Rg.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 ArchiveTel</h1>
-<p>@archivetell • 👥 6.99K عضو</p>
+<p>@archivetell • 👥 7.02K عضو</p>
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 🚀آرشیوتلمرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-25 15:58:03</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-25 18:30:12</div>
 <hr>
 
-<div class="tg-post" id="msg-4965">
+<div class="tg-post" id="msg-4987">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-text">خودتون آیپی اسکن کنید با این روش ها..</div>
+<div class="tg-footer">👁️ 830 · <a href="https://t.me/archivetell/4987" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4986">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel(𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣⚡️)</strong></div>
+<div class="tg-text">اسکنر برای آی پی تمیز https://github.com/seramo/sni-scanner</div>
+<div class="tg-footer">👁️ 174 · <a href="https://t.me/archivetell/4986" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4985">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
+<div class="tg-text">اسکنر برای آی پی تمیز
+https://github.com/seramo/sni-scanner</div>
+<div class="tg-footer">👁️ 143 · <a href="https://t.me/archivetell/4985" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4984">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
+<div class="tg-doc">
+<span class="tg-doc-icon">📎</span>
+<div class="tg-doc-info">
+  <div class="tg-doc-title">hosts.txt</div>
+  <div class="tg-doc-extra">4.1 KB</div>
+</div>
+<a href="https://t.me/archivetell/4984" class="tg-doc-link" target="_blank">دانلود</a>
+</div>
+<div class="tg-text">اینا هم اسکن کنید..</div>
+<div class="tg-footer">👁️ 107 · <a href="https://t.me/archivetell/4984" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4982">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
+<div class="tg-doc">
+<span class="tg-doc-icon">📎</span>
+<div class="tg-doc-info">
+  <div class="tg-doc-title">akamai-AS20940.json</div>
+  <div class="tg-doc-extra">97.1 KB</div>
+</div>
+<a href="https://t.me/archivetell/4982" class="tg-doc-link" target="_blank">دانلود</a>
+</div>
+<div class="tg-text">رنج آیپی akamai واسه اسکن</div>
+<div class="tg-footer">👁️ 59 · <a href="https://t.me/archivetell/4982" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4981">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
+<div class="tg-doc">
+<span class="tg-doc-icon">📎</span>
+<div class="tg-doc-info">
+  <div class="tg-doc-title">ping.py</div>
+  <div class="tg-doc-extra">17.6 KB</div>
+</div>
+<a href="https://t.me/archivetell/4981" class="tg-doc-link" target="_blank">دانلود</a>
+</div>
+<div class="tg-text">اسکنر TCP رنج ایپی های Akamai
+فایل hosts.txt رو کنارش بذارید و روی هر سیستم عاملی با پایتون اجراش کنید (ورودی ایپی تکی و ایپی رنج ساپورت میکنه)
+- قابلیت تشخیص NAT از اتصال واقعی بر اساس پینگ
+- سرعت ورکر رو میشه تنظیم کرد
+- قابلیت بهینه سازی تایم اسکن
+- خروجی رو توی فایل vali.txt میده.
+بدون پیش نیاز...</div>
+<div class="tg-footer">👁️ 112 · <a href="https://t.me/archivetell/4981" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4980">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
+<div class="tg-doc">
+<span class="tg-doc-icon">📎</span>
+<div class="tg-doc-info">
+  <div class="tg-doc-title">Sni-radar.zip</div>
+  <div class="tg-doc-extra">303.4 KB</div>
+</div>
+<a href="https://t.me/archivetell/4980" class="tg-doc-link" target="_blank">دانلود</a>
+</div>
+<div class="tg-text">🔹
+سورس اسکنر اختصاصی تیم پرشیا
+❤️
+🟢
+این
+سورس اسکنر sni و Cdn هست و با بهترین قابلیت ها نوشته شده است
+☑️
+💡
+اموزش نصب در کامپیوتر:
+🔹
+اول فایل را دانلود کرده سپس استخراج کنید
+🔹
+سپس رو محل فایل کلیک کرده ترمینال را باز کرده و در ان این دستور را بنویسید:
+pip install -r requirements.txt
+🔹
+سپس این دستور را بنویسید:
+python sni_web.py
+🔹
+بعدش صفحه باز میشه و میتونید اسکن را شروع کنید
+🟢
+🟢
+🟢
+🟢
+🟢
+🟢
+🟢
+🟢
+🟢
+🟢
+🟢
+🟢
+⏺️
+اموزش نصب در گوشی با برنامه termux
+🔹
+اول وارد برنامه ترموکس شده و پکیچ های پایتون نصب کنید
+🔹
+سپس دستور زیر را وارد کنید
+git clone https://github.com/DevMoEiN/SNI-Radar.git
+🔹
+سپس این دستور:
+cd SNI-Radar
+🟢
+بعد این:
+pip install flask
+🔹
+و در اخر این:
+python sni_web.py
+⏺️
+سپس این را در کروم تایپ کنید:
+http://127.0.0.1:10808</div>
+<div class="tg-footer">👁️ 132 · <a href="https://t.me/archivetell/4980" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4979">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
+<div class="tg-text">📌
+نحوه اسکن آیپی‌‌های Akamai در ترموکس :
+1⃣
+به یک فیلترشکن متصل بشید و ​ترموکس را باز کنید و این ۳ خط را کپی کنید و اینتر بزنید تا ابزارهای لازم نصب بشن :
+pkg update && pkg upgrade -y
+pkg install nmap -y
+termux-setup-storage
+اگر پیغامی برای دسترسی به فایل‌ها اومد، Allow را بزنید.
+2⃣
+​
+حالا فیلترشکن رو خاموش کنید و دستور زیر رو بزنید
+:
+nmap -p 443 --open -T4 2.16.0.0/1
+8
+‼️
+من در دستور از رنج آیپی
+2.16.0.0/18
+استفاده کردم و 4 آیپی وایتی که اسکن کرد رو براتون گذاشتم، شما میتونید اون رنج‌ رو پاک کنید و از این مخزن گیت‌هاب، سایر رنج‌ها رو در دستور جایگذاری کنید :
+https://github.com/platformbuilds/Akamai-ASN-and-IPs-List
+بعد از پایان اسکن، ​هر جا نوشته بود Nmap scan report for و زیرش نوشته بود 443/tcp open یعنی اون آیپی‌ وایته و باید کپیش کنید
+.
+بهتره رنج‌های کوچک رو اسکن کنید، اسکن رنج‌آیپی‌های بزرگ، ساعت‌ها زمان میبره</div>
+<div class="tg-footer">👁️ 110 · <a href="https://t.me/archivetell/4979" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4978">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
+<div class="tg-text">جهت اسکن آیپی های fastly یا akami یا هر آیپی / رنجی که میخواین میتونید از ریپوی زیر استفاده کنید
+https://github.com/penhandev/IP-Scanner</div>
+<div class="tg-footer">👁️ 102 · <a href="https://t.me/archivetell/4978" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4977">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
+<div class="tg-doc">
+<span class="tg-doc-icon">📎</span>
+<div class="tg-doc-info">
+  <div class="tg-doc-title">ip_scanner_gui.exe</div>
+  <div class="tg-doc-extra">9.6 MB</div>
+</div>
+<a href="https://t.me/archivetell/4977" class="tg-doc-link" target="_blank">دانلود</a>
+</div>
+<div class="tg-text">اسکنر آیپی
+قابلیت هاش:
+1. چک کردن ایپی معمولی
+2. چک کردن رنج ایپی Fastly و Akamai
+3. بصورت دستی اضافه کردن ایپی یا رنج
+4. بصورت فایل اضافه کردن .txt  و .json
+5. ماکسیموم پینگ گذاشتن واسش مثلا زیر 180ms
+6. ایپی های که داخل چنلا میزارن بندازید توش اسکن کنه
+منبع : پای پکیج</div>
+<div class="tg-footer">👁️ 117 · <a href="https://t.me/archivetell/4977" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4976">
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
+<div class="tg-doc">
+<span class="tg-doc-icon">📎</span>
+<div class="tg-doc-info">
+  <div class="tg-doc-title">Akamai-IP-Scanner.zip</div>
+  <div class="tg-doc-extra">1.8 KB</div>
+</div>
+<a href="https://t.me/archivetell/4976" class="tg-doc-link" target="_blank">دانلود</a>
+</div>
+<div class="tg-text">برنامه Akamai IP Scanner
+۱. لیست رنج‌های هدف (با پشتیبانی از تمام فرمت‌ها مثل 16/ یا 24/) را در فایل ips.txt قرار دهید. (پیشفرض قرار داده شده)
+۲. روی فایل scan.ps1 راست‌کلیک کرده و گزینه Run with PowerShell را برای شروع اسکن انتخاب کنید.
+۳. بهترین آی‌پی‌ها به‌صورت لحظه‌ای در clean_ips.txt ذخیره می‌شوند (هر زمان مایل بودید می‌توانید اسکن را متوقف کنید).</div>
+<div class="tg-footer">👁️ 106 · <a href="https://t.me/archivetell/4976" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4974">
+<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-text">آپلودسنتر
+https://files.bokhary.fun/dump/
+@ArchiveTell</div>
+<div class="tg-footer">👁️ 1.09K · <a href="https://t.me/archivetell/4974" target="_blank">📅 17:21 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4973">
+<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-text">لینک داخلی شیر و خورشید ، دو تا آپلودسنتر
+دانلود
+دانلود
+@ArchiveTell</div>
+<div class="tg-footer">👁️ 1.15K · <a href="https://t.me/archivetell/4973" target="_blank">📅 17:17 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4969">
+<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-text">Telegram.apk</div>
+<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/archivetell/4969" target="_blank">📅 16:34 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4968">
+<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-text">آیپی تمیز شیر و خورشید
+2.21.134.89
+2.19.204.217
+96.16.122.149
+172.237.127.6
+96.16.53.158
+23.55.163.135
+2.19.205.64
+23.73.2.148
+2.17.147.11
+2.19.204.240
+184.51.252.36</div>
+<div class="tg-footer">👁️ 1.69K · <a href="https://t.me/archivetell/4968" target="_blank">📅 16:28 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4967">
+<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-text">ایرانسل تست شده شیر و خورشید
+185.200.232.49
+185.200.232.50
+185.200.232.42
+185.200.232.41
+184.24.77.42
+184.24.77.32
+184.24.77.5
+184.24.77.7
+184.24.77.16
+184.24.77.36
+184.24.77.21
+184.24.77.11
+23.48.23.186
+23.48.23.133
+23.48.23.195
+23.48.23.178
+184.24.77.29
+2.22.21.152
+95.101.23.82
+23.215.0.164
+23.197.161.35
+184.28.230.87
+23.220.128.221
+96.17.207.142
+23.50.131.18
+23.36.162.209
+23.219.3.212
+23.223.245.150
+96.16.122.59
+23.2.13.138
+23.2.13.144
+96.17.207.135
+23.220.113.51
+96.17.72.41
+23.203.185.105
+95.101.35.83
+2.21.239.23
+23.54.210.170
+23.215.60.73
+95.101.181.125
+23.192.237.222
+23.200.143.71
+23.58.222.98
+125.56.219.8
+104.80.49.118
+96.16.122.158
+2.21.239.10
+96.16.122.65
+95.101.23.170
+104.111.202.158
+23.2.13.201
+92.123.102.104
+23.58.222.139
+2.17.147.89
+96.17.178.132
+23.49.248.6
+23.222.30.64
+23.55.110.70
+23.2.13.153
+173.222.105.65
+23.200.143.73
+23.201.217.14
+23.55.110.200
+95.101.23.25
+23.37.206.186
+173.222.105.42
+95.101.29.12
+88.221.92.177
+23.50.131.132
+184.86.251.27
+2.16.244.11
+2.16.27.71
+2.19.10.30
+104.121.12.86
+23.73.207.16
+2.18.190.26
+96.16.122.149
+23.201.217.150
+95.101.23.168
+96.17.207.162
+96.16.122.48
+95.101.35.73
+23.192.237.208
+80.67.82.179
+96.17.207.154
+2.21.89.66
+2.18.190.27
+95.100.156.147
+23.192.46.51
+104.76.220.137
+23.36.162.198
+23.37.197.128
+96.17.207.143
+23.36.162.208
+23.36.162.202
+23.200.143.88
+23.55.110.46
+23.55.110.143
+173.222.105.18
+2.23.176.166
+23.44.10.10
+104.126.37.171
+23.55.155.169
+23.210.123.174
+104.117.76.26
+23.46.188.168
+23.58.222.147
+95.101.200.63
+125.56.219.32
+23.192.237.209
+95.101.29.54
+23.46.230.118
+96.17.207.153
+184.25.52.200
+23.202.156.203
+23.36.162.196
+96.16.122.145
+23.33.126.163
+95.101.29.30
+23.36.162.215
+23.39.249.249
+2.21.239.29
+23.210.73.136
+104.126.37.161
+23.2.13.186
+23.50.131.160
+23.219.138.200
+96.16.122.153
+104.117.76.146
+23.38.49.97
+2.19.196.105
+96.16.122.141
+104.78.170.186
+96.17.222.31
+23.41.37.129
+23.2.13.227
+23.222.126.108
+2.20.255.113
+2.17.251.98
+23.2.13.152
+95.101.23.27
+2.21.239.21
+23.211.49.252
+88.221.168.5
+104.103.90.156
+23.79.20.249
+88.221.132.162
+23.59.235.208
+23.60.69.118
+23.46.188.71
+104.122.212.92
+23.219.1.4
+23.57.43.195
+184.51.252.135
+2.22.6.68
+23.217.11.56
+95.100.69.108
+185.200.232.49
+185.200.232.50
+185.200.232.42
+185.200.232.41
+184.24.77.42
+184.24.77.32
+184.24.77.5
+184.24.77.7
+184.24.77.16
+184.24.77.36
+184.24.77.21
+184.24.77.11
+23.48.23.186
+23.48.23.133
+23.48.23.195
+23.48.23.178
+184.24.77.29
+23.40.63.69</div>
+<div class="tg-footer">👁️ 1.65K · <a href="https://t.me/archivetell/4967" target="_blank">📅 16:24 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4966">
+<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTelegram APKs for Android</strong></div>
+<div class="tg-doc">
+<span class="tg-doc-icon">📎</span>
+<div class="tg-doc-info">
+  <div class="tg-doc-title">Telegram.apk</div>
+  <div class="tg-doc-extra">77.9 MB</div>
+</div>
+<a href="https://t.me/archivetell/4966" class="tg-doc-link" target="_blank">دانلود</a>
+</div>
+<div class="tg-text">12.7.3 (6750)
+Directly downloadable from
+telegram.org/android</div>
+<div class="tg-footer">👁️ 1.55K · <a href="https://t.me/archivetell/4966" target="_blank">📅 16:20 · 25 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-4965">
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Zr_bE0EBDQ2_OWtH6MFh5rAKww8qr_Gwi30naNkyV_rqvXHQd9_gDqK6Qe1d86Wmj4i_BVjZ3SSlB_B-oQGR_DmeP51br6Lfxxakh-qXkjVqIlcP4fnk2G9AJZM5Vcr85a4TKYObFpkxtuXD8HcQaOUtb5Q4RVkcridxhndxYxMtKki1fq0ckSjTdawdsU_a7QsextkLAdXEViJIVadDerKdU_ottsuwkx66ZzRWXh7kenPhuJ_vEhs76cL84_SNZf6RQW7HUYBZrPYyznArK_TuA3Hr4GYIIdoMsA_PnaHWXxiSiNaS1WXTTlm4Lb_DaS7cGFfe5TitttByi7zP1g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ساده ترین تلاش های یک ایرانی برای اتصال به نت بین المللی:</div>
-<div class="tg-footer">👁️ 631 · <a href="https://t.me/archivetell/4965" target="_blank">📅 15:46 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/archivetell/4965" target="_blank">📅 15:46 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4964">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">شیرخورشید   CDN Edge IPs: 151.101.192.223 CDN SNI Hostname: python.org‎</div>
-<div class="tg-footer">👁️ 732 · <a href="https://t.me/archivetell/4964" target="_blank">📅 15:43 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/archivetell/4964" target="_blank">📅 15:43 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4963">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">شیرخورشید
 CDN Edge IPs:
 151.101.192.223
 CDN SNI Hostname:
 python.org
 ‎</div>
-<div class="tg-footer">👁️ 751 · <a href="https://t.me/archivetell/4963" target="_blank">📅 15:43 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.79K · <a href="https://t.me/archivetell/4963" target="_blank">📅 15:43 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4961">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">اسکنر برای آی پی تمیز https://github.com/seramo/sni-scanner</div>
-<div class="tg-footer">👁️ 1.16K · <a href="https://t.me/archivetell/4961" target="_blank">📅 15:13 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/archivetell/4961" target="_blank">📅 15:13 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4960">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">اسکنر برای آی پی تمیز
 https://github.com/seramo/sni-scanner</div>
-<div class="tg-footer">👁️ 1.45K · <a href="https://t.me/archivetell/4960" target="_blank">📅 14:42 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/archivetell/4960" target="_blank">📅 14:42 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4959">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">آپدیت ویندوز: من ادامه میدم تا وقتی نت هست اتشفشانو نمیشه با برف بست</div>
-<div class="tg-footer">👁️ 1.74K · <a href="https://t.me/archivetell/4959" target="_blank">📅 14:16 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/archivetell/4959" target="_blank">📅 14:16 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4958">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">دستیار هوش مصنوعی تولید محتوا:
 @Scriblastbot
 - مقالات و پست‌های وبلاگی اصیل می‌نویسد.
@@ -347,17 +798,17 @@ https://github.com/seramo/sni-scanner</div>
 - متن‌های جذاب برای شبکه‌های اجتماعی می‌سازد.
 - سئو را بهینه می‌کند و لحن/سبک‌های متنوعی را تنظیم می‌نماید.
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/archivetell/4958" target="_blank">📅 14:15 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/archivetell/4958" target="_blank">📅 14:15 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4957">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">Windows.Update.Blocker.1.8.rar</div>
-<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/archivetell/4957" target="_blank">📅 14:14 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/archivetell/4957" target="_blank">📅 14:14 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4956">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -371,17 +822,17 @@ https://github.com/seramo/sni-scanner</div>
 با یه کلیک ساده اپدیت خودکار رو خاموش کنید و وقتی نیاز داشتی فعال کن .
 منبع سافت 98
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/archivetell/4956" target="_blank">📅 14:13 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/archivetell/4956" target="_blank">📅 14:13 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4955">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">آقا واسه شیر کردن فیلترشکن با PdaNet رو کابل USB که از همه پایدارتره اینجوری پیش برین: ۱. اول فیلترشکن گوشیو روشن کنین. ۲. گوشیو با کابل وصل کنین به کامپیوتر. ۳. تو برنامه PdaNet گوشی، تیک USB Tether رو بزنین. (اگه پیام USB Debugging داد، always allow رو تیک…</div>
-<div class="tg-footer">👁️ 1.75K · <a href="https://t.me/archivetell/4955" target="_blank">📅 14:06 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/archivetell/4955" target="_blank">📅 14:06 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4954">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -392,17 +843,17 @@ https://github.com/seramo/sni-scanner</div>
 </div>
 <div class="tg-text">PdaNet+ v5.32 (Premium).apk
 @archivetell</div>
-<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/archivetell/4954" target="_blank">📅 14:06 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/archivetell/4954" target="_blank">📅 14:06 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4952">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">شاید واستون سوال باشه که چرا پترنیها اینقدر تلاش میکنه واسه پیدا کردن این متد ها  چون حکومت نتونه وایت لیست  رو به راحتی اجرا کنه و فشار زیادی وارد بشه روی فیلترینگ</div>
-<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/archivetell/4952" target="_blank">📅 13:31 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/archivetell/4952" target="_blank">📅 13:31 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4951">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">تازه اسکن شده سرعت فضایی
 💥
 :
@@ -462,36 +913,36 @@ https://github.com/seramo/sni-scanner</div>
 23.3.90.43
 بزنید عشق کنید ری اکشن هم یادتون نره
 ❤️</div>
-<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/archivetell/4951" target="_blank">📅 13:25 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/archivetell/4951" target="_blank">📅 13:25 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4950">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">شاید واستون سوال باشه که چرا پترنیها اینقدر تلاش میکنه واسه پیدا کردن این متد ها
 چون حکومت نتونه وایت لیست  رو به راحتی اجرا کنه و فشار زیادی وارد بشه روی فیلترینگ</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/archivetell/4950" target="_blank">📅 13:01 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/archivetell/4950" target="_blank">📅 13:01 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4949">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/p27f9A3B2LiVQrv4qf8tDCLRQBmhrapyLHPZR08SwdaLL8l80IJDeFHewUwjFZ1qKDj06SXsxPEChwybUdlSXDotyf30Cug_Wm3MMMmzqij9YbSF3lXevugvSemfOUfd0Wsja4gJmITenEjODrNgKLKLMCmobEoH5cFq0PYcP1fdadz3A32P8tFh_cWFcMxcOR4numXUAOwURUH47rPt41ss_L7A6G3jezLKUoyLuNHhRsGTWclGfJjWNPaZ73eZb-RROpjFuFspM45pR6QjT7pvFDT1Ip1_F7tb_MJUe-Ir2a0b6vszs7Uu9sUkIMsYPOW10m4lkl-oepr36jBryg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 قیمت جهانی استارلینک مینی با تخفیف به زیر ۲۰۰دلار (۳۶میلیون تومن) رسیده و پایین‌تر هم میاد. سایز دیشش هم اندازه‌ی یه کاغذ A4 هس و براحتی همه جا مخفی میشه و با وضعیت ایران هیچ رقمه نمیشه جلوی موج قاچاقش رو گرفت.
 حالا بیا جلو اینم بگیر
 😎
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/archivetell/4949" target="_blank">📅 11:41 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.84K · <a href="https://t.me/archivetell/4949" target="_blank">📅 11:41 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4948">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">نتلیفای بای بای
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/archivetell/4948" target="_blank">📅 11:04 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/archivetell/4948" target="_blank">📅 11:04 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4947">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -501,11 +952,11 @@ https://github.com/seramo/sni-scanner</div>
 <a href="https://t.me/archivetell/4947" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">اینا هم اسکن کنید..</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/archivetell/4947" target="_blank">📅 10:16 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.78K · <a href="https://t.me/archivetell/4947" target="_blank">📅 10:16 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4945">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
@@ -516,11 +967,11 @@ https://github.com/seramo/sni-scanner</div>
 <a href="https://t.me/archivetell/4945" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">رنج آیپی akamai واسه اسکن</div>
-<div class="tg-footer">👁️ 892 · <a href="https://t.me/archivetell/4945" target="_blank">📅 10:15 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 960 · <a href="https://t.me/archivetell/4945" target="_blank">📅 10:15 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4944">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -536,17 +987,17 @@ https://github.com/seramo/sni-scanner</div>
 - قابلیت بهینه سازی تایم اسکن
 - خروجی رو توی فایل vali.txt میده.
 بدون پیش نیاز...</div>
-<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/archivetell/4944" target="_blank">📅 10:14 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.67K · <a href="https://t.me/archivetell/4944" target="_blank">📅 10:14 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4943">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">ایرانسل ، همراه اول و رایتل   شیر و خورشید تست کنید   185.200.232.40 185.200.232.43</div>
-<div class="tg-footer">👁️ 2.26K · <a href="https://t.me/archivetell/4943" target="_blank">📅 10:10 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/archivetell/4943" target="_blank">📅 10:10 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4942">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">شیر و خورشید
 151.101.0.223
 151.101.128.223
@@ -597,11 +1048,11 @@ https://github.com/seramo/sni-scanner</div>
 23.48.23.195
 23.48.23.178
 184.24.77.29</div>
-<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/archivetell/4942" target="_blank">📅 10:05 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/archivetell/4942" target="_blank">📅 10:05 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4941">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -660,17 +1111,17 @@ python sni_web.py
 ⏺️
 سپس این را در کروم تایپ کنید:
 http://127.0.0.1:10808</div>
-<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/archivetell/4941" target="_blank">📅 09:57 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/archivetell/4941" target="_blank">📅 09:57 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4940">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">ایرانسل ، همراه اول و رایتل   شیر و خورشید تست کنید   185.200.232.40 185.200.232.43</div>
-<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/archivetell/4940" target="_blank">📅 09:50 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/archivetell/4940" target="_blank">📅 09:50 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4939">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">شیر و خورشید همه نتا
 185.200.232.8
 185.200.232.9
@@ -693,11 +1144,11 @@ http://127.0.0.1:10808</div>
 185.200.232.65
 185.200.232.66
 185.200.232.67</div>
-<div class="tg-footer">👁️ 2.06K · <a href="https://t.me/archivetell/4939" target="_blank">📅 09:48 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/archivetell/4939" target="_blank">📅 09:48 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4938">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">سامانتل شیر و خورشید
 184.24.77.42
 184.24.77.32
@@ -716,35 +1167,35 @@ http://127.0.0.1:10808</div>
 185.200.232.50
 185.200.232.42
 185.200.232.41</div>
-<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/archivetell/4938" target="_blank">📅 09:47 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/archivetell/4938" target="_blank">📅 09:47 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4937">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">سایت های وایت لیست شده رو بستن تا بتونن جلوی این متد رو بگیرن..</div>
-<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/archivetell/4937" target="_blank">📅 09:16 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/archivetell/4937" target="_blank">📅 09:16 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4936">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">ایرانسل ، همراه اول و رایتل
 شیر و خورشید تست کنید
 185.200.232.40
 185.200.232.43</div>
-<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/archivetell/4936" target="_blank">📅 09:02 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/archivetell/4936" target="_blank">📅 09:02 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4935">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromIR NETLIFY</strong></div>
 <div class="tg-text">🔥
 متصل
 https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/IR%20NETLIFY%20SUB</div>
-<div class="tg-footer">👁️ 2K · <a href="https://t.me/archivetell/4935" target="_blank">📅 04:04 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/archivetell/4935" target="_blank">📅 04:04 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4933">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/966f6f971b.mp4?token=jucmCXmGRH0EJp1m4l7n6bcioPhk9oUJv893R9RjYGLBia9PkaMDKFG6jPKsEPG7k5zcyeWH751JoyFcG1udYJodULfuKbmHqYRflyTI2yLr-gqUEdeBSARdWrSzbp-lH7GA_01_N8nmsTFd9xETE0anhmWT9rJvu2OwgVlIiPxZsXKUUbmQHg0xsQWEfYM00d-yFCXcJnnNkTrsleG5JCShXwtJ88_V_a5UFoEFxTTqt5EzkCXa31vYlbnSZ3bjRHe7kLdbnjP4syBrIOBfaJU1VNp4YEIx5XyOIEBgnSkdy-JluvYBVwM8W1Wu2mWHTd92VbpR5itGleLy4ioFfQ" type="video/mp4">
@@ -752,11 +1203,11 @@ https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/IR%20NETLIF
 <br>
 <a href="https://cdn4.telesco.pe/file/966f6f971b.mp4?token=jucmCXmGRH0EJp1m4l7n6bcioPhk9oUJv893R9RjYGLBia9PkaMDKFG6jPKsEPG7k5zcyeWH751JoyFcG1udYJodULfuKbmHqYRflyTI2yLr-gqUEdeBSARdWrSzbp-lH7GA_01_N8nmsTFd9xETE0anhmWT9rJvu2OwgVlIiPxZsXKUUbmQHg0xsQWEfYM00d-yFCXcJnnNkTrsleG5JCShXwtJ88_V_a5UFoEFxTTqt5EzkCXa31vYlbnSZ3bjRHe7kLdbnjP4syBrIOBfaJU1VNp4YEIx5XyOIEBgnSkdy-JluvYBVwM8W1Wu2mWHTd92VbpR5itGleLy4ioFfQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/archivetell/4933" target="_blank">📅 03:05 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.77K · <a href="https://t.me/archivetell/4933" target="_blank">📅 03:05 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4931">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">CDN Edge IPs:
 151.101.0.223
 151.101.128.223
@@ -792,21 +1243,21 @@ https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/IR%20NETLIF
 2.23.41.22
 CDN SNI Hostname:
 python.org</div>
-<div class="tg-footer">👁️ 2.87K · <a href="https://t.me/archivetell/4931" target="_blank">📅 01:14 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.95K · <a href="https://t.me/archivetell/4931" target="_blank">📅 01:14 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4930">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">⭐
 184.50.87.44
 🫥
 SNI Hostname:
 python.org</div>
-<div class="tg-footer">👁️ 2.58K · <a href="https://t.me/archivetell/4930" target="_blank">📅 01:10 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.63K · <a href="https://t.me/archivetell/4930" target="_blank">📅 01:10 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4929">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -816,11 +1267,11 @@ python.org</div>
 <a href="https://t.me/archivetell/4929" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">کانفیگ مستقیم MitM-DomainFronting-v16: https://github.com/patterniha/MITM-DomainFronting/releases/tag/v16  تغییرات: باز کردن موقت سایت github</div>
-<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/archivetell/4929" target="_blank">📅 01:07 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/archivetell/4929" target="_blank">📅 01:07 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4928">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">CDN SNI Hostname:
 pypi.org
 Ip :
@@ -833,20 +1284,20 @@ CDN SNI Hostname:
 docs.mapbox.com
 Ip :
 13.227.192.92</div>
-<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/archivetell/4928" target="_blank">📅 01:06 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.66K · <a href="https://t.me/archivetell/4928" target="_blank">📅 01:06 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4927">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">کانفیگ مستقیم MitM-DomainFronting-v16:
 https://github.com/patterniha/MITM-DomainFronting/releases/tag/v16
 تغییرات:
 باز کردن موقت سایت github</div>
-<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/archivetell/4927" target="_blank">📅 01:04 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/archivetell/4927" target="_blank">📅 01:04 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4926">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">📌
 نحوه اسکن آیپی‌‌های Akamai در ترموکس :
 1⃣
@@ -869,68 +1320,68 @@ https://github.com/platformbuilds/Akamai-ASN-and-IPs-List
 بعد از پایان اسکن، ​هر جا نوشته بود Nmap scan report for و زیرش نوشته بود 443/tcp open یعنی اون آیپی‌ وایته و باید کپیش کنید
 .
 بهتره رنج‌های کوچک رو اسکن کنید، اسکن رنج‌آیپی‌های بزرگ، ساعت‌ها زمان میبره</div>
-<div class="tg-footer">👁️ 2.24K · <a href="https://t.me/archivetell/4926" target="_blank">📅 01:03 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/archivetell/4926" target="_blank">📅 01:03 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4925">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">🌐
 184.26.163.51
 CDN SNI Hostname:
 python.org</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/archivetell/4925" target="_blank">📅 01:02 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/archivetell/4925" target="_blank">📅 01:02 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4924">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">CDN Edge IPs:
 167.82.48.223
 CDN SNI Hostname:
 files.pythonhosted.org</div>
-<div class="tg-footer">👁️ 2.36K · <a href="https://t.me/archivetell/4924" target="_blank">📅 00:56 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/archivetell/4924" target="_blank">📅 00:56 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4923">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">CDN Edge IPs:
 151.101.64.223
 CDN SNI Hostname:
 pypi.org</div>
-<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/archivetell/4923" target="_blank">📅 00:56 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/archivetell/4923" target="_blank">📅 00:56 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4922">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">CDN edge IPs :
 151.101.128.223
 CDN SNI Hostname :
 python.org</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/archivetell/4922" target="_blank">📅 00:50 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/archivetell/4922" target="_blank">📅 00:50 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4921">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">CDN edge IPs :
 151.101.0.223
 CDN SNI Hostname :
 www.python.org</div>
-<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/archivetell/4921" target="_blank">📅 00:41 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.63K · <a href="https://t.me/archivetell/4921" target="_blank">📅 00:41 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4920">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">تست شده شیر و خورشید   CDN Edge IPs: 151.101.192.223  CDN SNI Hostname: python.org</div>
-<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/archivetell/4920" target="_blank">📅 00:20 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.76K · <a href="https://t.me/archivetell/4920" target="_blank">📅 00:20 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4919">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">از این کانفیگ هایی که وقتی کلودفلر بازه کار میکنه بدید کامنت</div>
-<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/archivetell/4919" target="_blank">📅 00:03 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/archivetell/4919" target="_blank">📅 00:03 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4918">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">می‌دونستید جعبه سیاه هواپیما اصلاً سیاه نیست؟
 ✈️
 🟧
@@ -950,21 +1401,21 @@ www.python.org</div>
 #تبعیض
 #اینترنت_طبقاتی
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.68K · <a href="https://t.me/archivetell/4918" target="_blank">📅 00:01 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/archivetell/4918" target="_blank">📅 00:01 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4917">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">تست شده شیر و خورشید
 CDN Edge IPs:
 151.101.192.223
 CDN SNI Hostname:
 python.org</div>
-<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/archivetell/4917" target="_blank">📅 23:52 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/archivetell/4917" target="_blank">📅 23:52 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4916">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">🚀
 معرفی ابزار Pantegnos: رمزگشایی و استخراج کانفیگ‌های قفل‌شده!
 ---
@@ -1000,11 +1451,11 @@ https://github.com/FrontierTM/Pantegnos
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/archivetell/4916" target="_blank">📅 23:48 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/archivetell/4916" target="_blank">📅 23:48 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4915">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">ایرانسل تست شده
 شیر و خورشید
 CDN SNI hostname خالی بذار
@@ -1013,18 +1464,18 @@ CDN edge IPs :
 2.16.53.11
 2.16.53.50
 2.16.19.136</div>
-<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/archivetell/4915" target="_blank">📅 23:13 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/archivetell/4915" target="_blank">📅 23:13 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4914">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">جهت اسکن آیپی های fastly یا akami یا هر آیپی / رنجی که میخواین میتونید از ریپوی زیر استفاده کنید
 https://github.com/penhandev/IP-Scanner</div>
-<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/archivetell/4914" target="_blank">📅 23:10 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/archivetell/4914" target="_blank">📅 23:10 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4913">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1034,28 +1485,28 @@ https://github.com/penhandev/IP-Scanner</div>
 <a href="https://t.me/archivetell/4913" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">لیست آیپی تمیز</div>
-<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/archivetell/4913" target="_blank">📅 23:10 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/archivetell/4913" target="_blank">📅 23:10 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4912">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">خلاصه آموزش شیر و خورشید واسه اونا که تازه وارد کانال شدن
 اول
 شیر و خورشید
 رو نصب کن
 بعد از نصب اپلیکیشن ابتدا وارد (Options|گزینه ها) بشید و سپس (More Options|گزینه های بیشتر) رو انتخاب کنید.
 در قسمت Connection Protocol، گزینه‌ی CDN Fronting رو انتخاب کنید cdn edgei ps آیپی وارد کن بعد هم بزن وصل</div>
-<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/archivetell/4912" target="_blank">📅 23:04 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/archivetell/4912" target="_blank">📅 23:04 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4911">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">گیت هاب بسته شد..</div>
-<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/archivetell/4911" target="_blank">📅 22:58 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/archivetell/4911" target="_blank">📅 22:58 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4910">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">ایرانسل تست شده
 شیر و خورشید
 CDN SNI hostname خالی بذار
@@ -1065,17 +1516,17 @@ CDN edge IPs :
 173.222.105.65
 95.101.35.73
 23.58.222.147</div>
-<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/archivetell/4910" target="_blank">📅 22:58 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/archivetell/4910" target="_blank">📅 22:58 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4909">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">گیت هاب بسته شد..</div>
-<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/archivetell/4909" target="_blank">📅 22:55 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/archivetell/4909" target="_blank">📅 22:55 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4908">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">شیر و خورشید
 CDN SNI hostname خالی بذار
 CDN edge IPs :
@@ -1087,11 +1538,11 @@ CDN edge IPs :
 2.21.2.59
 2.21.2.18
 2.21.2.50</div>
-<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/archivetell/4908" target="_blank">📅 22:50 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/archivetell/4908" target="_blank">📅 22:50 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4907">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1101,17 +1552,17 @@ CDN edge IPs :
 <a href="https://t.me/archivetell/4907" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">رنج فستلی واسه اسکن</div>
-<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/archivetell/4907" target="_blank">📅 22:48 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.46K · <a href="https://t.me/archivetell/4907" target="_blank">📅 22:48 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4905">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">ip_scanner_gui.exe</div>
-<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/archivetell/4905" target="_blank">📅 22:36 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/archivetell/4905" target="_blank">📅 22:36 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4904">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1121,11 +1572,11 @@ CDN edge IPs :
 <a href="https://t.me/archivetell/4904" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">رنج آیپی akamai واسه اسکن</div>
-<div class="tg-footer">👁️ 3.38K · <a href="https://t.me/archivetell/4904" target="_blank">📅 22:28 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/archivetell/4904" target="_blank">📅 22:28 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4903">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1143,11 +1594,11 @@ CDN edge IPs :
 5. ماکسیموم پینگ گذاشتن واسش مثلا زیر 180ms
 6. ایپی های که داخل چنلا میزارن بندازید توش اسکن کنه
 منبع : پای پکیج</div>
-<div class="tg-footer">👁️ 2.64K · <a href="https://t.me/archivetell/4903" target="_blank">📅 22:27 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.81K · <a href="https://t.me/archivetell/4903" target="_blank">📅 22:27 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4902">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">شیر و خورشید
 CDN SNI hostname خالی بذار
 CDN edge IPs :
@@ -1292,11 +1743,11 @@ CDN edge IPs :
 23.217.11.56
 95.100.69.108
 23.40.63.69</div>
-<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/archivetell/4902" target="_blank">📅 22:10 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/archivetell/4902" target="_blank">📅 22:10 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4901">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">شیر و خورشید
 CDN SNI hostname خالی بذار
 CDN edge IPs :
@@ -1354,11 +1805,11 @@ CDN edge IPs :
 23.3.90.43
 184.26.13.91
 23.54.210.170</div>
-<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/archivetell/4901" target="_blank">📅 22:06 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.62K · <a href="https://t.me/archivetell/4901" target="_blank">📅 22:06 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4900">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromIR NETLIFY</strong></div>
 <div class="tg-text">🚀
 ساب ها اپدیت شدن
@@ -1371,32 +1822,32 @@ https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/IR_NETLIFY_
 🔺
 ساب متغیر (هر بار که باز کنید سرور و sni و ip رندوم میده)
 https://sub.ir-netlify.workers.dev/</div>
-<div class="tg-footer">👁️ 2K · <a href="https://t.me/archivetell/4900" target="_blank">📅 22:04 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/archivetell/4900" target="_blank">📅 22:04 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4899">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">این ساب آپدیت شده و اوکیه   https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/test2_1.0.4.txt</div>
-<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/archivetell/4899" target="_blank">📅 20:27 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.62K · <a href="https://t.me/archivetell/4899" target="_blank">📅 20:27 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4898">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromIR NETLIFY</strong></div>
 <div class="tg-text">این ساب آپدیت شده و اوکیه
 https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/test2_1.0.4.txt</div>
-<div class="tg-footer">👁️ 2.03K · <a href="https://t.me/archivetell/4898" target="_blank">📅 20:27 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/archivetell/4898" target="_blank">📅 20:27 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4897">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dr2XVY0Kh2QKfbG6nc2wcFA4FfK2JL0pbZdD8UP94zY8eb8nTW4al1S8RBLX98eQPm0JlTGf0mOF1dUnU2wG3Rrrq2aY_bj5HFJomzBrxWc2n3y2nx1YCifdPEauQ8vKyhiyf1kFlLjTjbRf6Jw9TdmUj64VQDU3W7j3l7W8h8Ar7zSTHXIlC9xEi81KzpSHN5uZWbYen7kpfV9nT0GFya-wBNLktn9ooEmgxyL_gLjcKOF-Ire-NWy75pM3sRTHSfDbodH7nCZNa4yzWhRMvu432QeIG418yKlEmTuZn9OEv8-hhnB8f7BiI64Wkhw-wuGvaBla7s4svyQYy882xw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Iran network core:</div>
-<div class="tg-footer">👁️ 2.76K · <a href="https://t.me/archivetell/4897" target="_blank">📅 20:22 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.78K · <a href="https://t.me/archivetell/4897" target="_blank">📅 20:22 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4896">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1409,17 +1860,17 @@ https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/test2_1.0.4
 CDN SNI hostname خالی بذار
 CDN edge IPs :
 فایل رو باز کن و همه این آیپی ها رو جای گذاری کن</div>
-<div class="tg-footer">👁️ 2.57K · <a href="https://t.me/archivetell/4896" target="_blank">📅 20:22 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/archivetell/4896" target="_blank">📅 20:22 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4895">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">ایرانسل تست شده   2.19.204.225</div>
-<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/archivetell/4895" target="_blank">📅 20:07 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/archivetell/4895" target="_blank">📅 20:07 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4894">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">ایرانسل تست شده
 شیر و خورشید
 CDN SNI hostname خالی بذار
@@ -1478,18 +1929,18 @@ CDN edge IPs :
 23.3.90.43
 184.26.13.91
 23.54.210.170</div>
-<div class="tg-footer">👁️ 2.87K · <a href="https://t.me/archivetell/4894" target="_blank">📅 20:00 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.89K · <a href="https://t.me/archivetell/4894" target="_blank">📅 20:00 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4893">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">ایرانسل تست شده
 2.19.204.225</div>
-<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/archivetell/4893" target="_blank">📅 18:15 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.75K · <a href="https://t.me/archivetell/4893" target="_blank">📅 18:15 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4891">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1502,18 +1953,18 @@ CDN edge IPs :
 ۱. لیست رنج‌های هدف (با پشتیبانی از تمام فرمت‌ها مثل 16/ یا 24/) را در فایل ips.txt قرار دهید. (پیشفرض قرار داده شده)
 ۲. روی فایل scan.ps1 راست‌کلیک کرده و گزینه Run with PowerShell را برای شروع اسکن انتخاب کنید.
 ۳. بهترین آی‌پی‌ها به‌صورت لحظه‌ای در clean_ips.txt ذخیره می‌شوند (هر زمان مایل بودید می‌توانید اسکن را متوقف کنید).</div>
-<div class="tg-footer">👁️ 2.96K · <a href="https://t.me/archivetell/4891" target="_blank">📅 17:55 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.11K · <a href="https://t.me/archivetell/4891" target="_blank">📅 17:55 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4890">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">ایرانسل تست شده
 2.19.204.251</div>
-<div class="tg-footer">👁️ 2.81K · <a href="https://t.me/archivetell/4890" target="_blank">📅 17:52 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.85K · <a href="https://t.me/archivetell/4890" target="_blank">📅 17:52 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4889">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1527,11 +1978,11 @@ CDN edge IPs :
 CDN SNI hostname خالی بذار
 CDN edge IPs :
 این آیپی ها رو بذار</div>
-<div class="tg-footer">👁️ 3.02K · <a href="https://t.me/archivetell/4889" target="_blank">📅 17:46 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.07K · <a href="https://t.me/archivetell/4889" target="_blank">📅 17:46 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4888">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">2.22.151.4
 23.67.253.11
 23.67.253.24
@@ -1658,45 +2109,45 @@ CDN edge IPs :
 2.22.151.194
 2.22.151.195
 ایرانسل وصله ولی ضعیف</div>
-<div class="tg-footer">👁️ 2.75K · <a href="https://t.me/archivetell/4888" target="_blank">📅 17:39 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/archivetell/4888" target="_blank">📅 17:39 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4886">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">شیر و خورشید   CDN SNI hostname خالی بذار   CDN edge IPs :   2.19.204.225 2.19.204.232 2.19.204.234 2.19.204.240 2.19.204.249 2.19.204.250 2.19.204.251 2.19.205.8 2.19.205.9 2.19.205.11 2.19.205.27 2.19.205.33 2.19.205.34 2.19.205.40 2.19.205.41 2.19.205.42…</div>
-<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/archivetell/4886" target="_blank">📅 17:18 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/archivetell/4886" target="_blank">📅 17:18 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4884">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">میگن رو ایرانسل اکامی رو زدن ، وصلید؟</div>
-<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/archivetell/4884" target="_blank">📅 17:04 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/archivetell/4884" target="_blank">📅 17:04 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4882">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/jJxb-YTApppDZuDv-FIgOnSQuTwMT-6IYtUuh9gxJm2QqoKwiAW7-DbNqLIydvOHZgYWdINvN6cVMwXzEYWjzmDQFIvjO-DPR8EbrQNlum-05LtZtgYTh5IfrDyWJDNOZ4-fTw7PGIZgQAoiHeS42P5uPuZIE8JDc8UDn6UftJfOLcZRSmSimxH0ISI2G1EKZszpRy4yw2mYNyKDd_M9uzg8F0SFOkwa17H_OkWTPBKcTGHkJtTIOW99-CbXIg0uzR4UmlSsOo8J2Mui82hbf4mtHkWRnlfNfo9LIAvthQEKQ6_qGJ36uBXcQvUfWYRTDhaj_8ZB7s3mwXX77BN3yQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TEWNKcYIIRv9NY9ZSlW7gY_oXnIxqGdBRAjKcR-g5gwbk5mM6UqwJXZKuugvOhlvpHjLa26eZ_TA80MjbiYOlJyhL8Hhwj28yvMFFNGnkmKH0sh5TgpR66mQV-RP3q1WKY0bZLxSQv8XkGM4jmPt9zCEfzY8fKNTAEvgK_GbjgDoglAf237uPVKRJoYAhNxDdROoCpMCZxfM8ryUtpOFQO0LrJwoYjOkdQ2nLPs_EceKFtMSuSf1d0Wjd9VFn54nmRKXXz0x1NV7ErbRbw3eI7rzfFfnQIHoiS0iqUYx6HNYHKWMLSdl2pCK55Q9Hc_zGQn3WJKWHz1FLCqq9mLzPA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/rvtS_L5siSiYakD750rlBsoVWsZCZd7DOplFiyKCJWU111TCz-T3RHEnrDHjErXXQbqM2Bmn4YvvcQfqVQcSJ2k5lTLbakzekVeNcx0uY4jFO3vK3Z9U7899aEeATIsEgCkIEjFge-UyLJZCJ_Rgzw0mJibYhFZZI5XrWOONclxG322UEeW4PpMduT9sAetiyHx75ppnHenHaRwdxHqYZQU2k69aDxuq_qNJGwaEYIRUc0ump8r9QTpNUMypCFfuR9C8Si6LwBOkOiOgfihshShVAUnrqlLPnZfagHDEnY4moGLkQah6p2fno3UOSJlQUajxxsdEWeuze1NVmyxlxA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/olHK_im_SwVFEKQC9MowcSe2lGFTExmVqmef5D-vQR8uodRLC2kPi5rCT3MZVAF4w03f8xgv_BfEOLGqNyoMi7ltarebmLa6vKa8A4QESdI0ENrxM54Owym6rYQiRMzLeu-6_p94iCWnqIQ4NT7y04apA27GTTMNqocMPdzVxH6xgxSVI7ym1QOQv4kGczp1KGctkzSWsYchZWyvcoaF5kcAJo8IYf4xLt_BVHaTQZLjnFVsCeejI5lKte_CjRCB0ynuRO6VDsBxe5LJe8molC2vqeWypElu1XY75UwRLBJUexnCbqFIlK70jqPIPWNRS03sl031VlxnT1Srb4YkYg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">شیر و خورشید   CDN SNI hostname خالی بذار   CDN edge IPs :   2.19.204.225 2.19.204.232 2.19.204.234 2.19.204.240 2.19.204.249 2.19.204.250 2.19.204.251 2.19.205.8 2.19.205.9 2.19.205.11 2.19.205.27 2.19.205.33 2.19.205.34 2.19.205.40 2.19.205.41 2.19.205.42…</div>
-<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/archivetell/4882" target="_blank">📅 17:01 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/archivetell/4882" target="_blank">📅 17:01 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4881">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">شیر و خورشید   CDN SNI hostname خالی بذار   CDN edge IPs :  92.122.123.128 2.19.204.87 2.19.204.137 2.19.204.144 2.19.204.145 2.19.204.170 2.19.204.184 2.19.204.185 2.19.204.202 2.19.204.210 138.201.54.122</div>
-<div class="tg-footer">👁️ 2.86K · <a href="https://t.me/archivetell/4881" target="_blank">📅 16:55 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.9K · <a href="https://t.me/archivetell/4881" target="_blank">📅 16:55 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4880">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">فعلا در این کانال صرفا مطالب مهم و پین‌های گروه  @ProjectXHTTP   گذاشته می شود.  ///  اگر کارهای بنده باعث شده گره ای از مشکلات شما باز شود ممنون میشم حمایتی هم از اینجانب بکنید:  USDT (BEP20): 0x76a768B53Ca77B43086946315f0BDF21156bF424  USDT (TRC20): TU5…</div>
-<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/archivetell/4880" target="_blank">📅 16:41 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/archivetell/4880" target="_blank">📅 16:41 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4879">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromPatt's Channel</strong></div>
 <div class="tg-text">فعلا در این کانال صرفا مطالب مهم و پین‌های گروه
 @ProjectXHTTP
@@ -1705,11 +2156,11 @@ CDN edge IPs :
 اگر کارهای بنده باعث شده گره ای از مشکلات شما باز شود ممنون میشم حمایتی هم از اینجانب بکنید:
 USDT (BEP20): 0x76a768B53Ca77B43086946315f0BDF21156bF424
 USDT (TRC20): TU5gKvKqcXPn8itp1DouBCwcqGHMemBm8o</div>
-<div class="tg-footer">👁️ 1.98K · <a href="https://t.me/archivetell/4879" target="_blank">📅 16:40 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/archivetell/4879" target="_blank">📅 16:40 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4878">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">شیر و خورشید
 CDN SNI hostname خالی بذار
 CDN edge IPs :
@@ -1724,11 +2175,11 @@ CDN edge IPs :
 2.19.204.202
 2.19.204.210
 138.201.54.122</div>
-<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/archivetell/4878" target="_blank">📅 16:39 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/archivetell/4878" target="_blank">📅 16:39 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4876">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded frompatterniha</strong></div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
@@ -1744,18 +2195,18 @@ CDN edge IPs :
 گرچه دومین‌فرانتینگ های استفاده شده به اپ شیر و خورشید اضافه شده اما با استفاده از هسته Xray-core شما از ویژگی های متعددی مثل "فینگرپرینت کروم" و "happyEyeballs" و ... برخوردار هستید.
 پروژه های دیگری در راه است حمایت فراموش نشه
 @patterniha</div>
-<div class="tg-footer">👁️ 2.64K · <a href="https://t.me/archivetell/4876" target="_blank">📅 16:38 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.68K · <a href="https://t.me/archivetell/4876" target="_blank">📅 16:38 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4874">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">منتظر ایران نتلیفای باشین، از معجزاتش زنده کردن مرده هاست
 ایشالا که خبری بشه</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/archivetell/4874" target="_blank">📅 16:21 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/archivetell/4874" target="_blank">📅 16:21 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4873">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">🎯
 خلاصه و جمع‌بندی متدهای امروز (سایفون + دامین فرانتینگ)
 ---
@@ -1799,11 +2250,11 @@ Port: 20808
 #تونل
 #شیر_و_خورشید
 ArchiveTell |</div>
-<div class="tg-footer">👁️ 2.67K · <a href="https://t.me/archivetell/4873" target="_blank">📅 15:42 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/archivetell/4873" target="_blank">📅 15:42 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4872">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">🚀
 آموزش اتصال رایگان به اینترنت آزاد (ترکیب Psiphon + دامین فرانتینگ پترنیها)
 ---
@@ -1885,11 +2336,11 @@ matinsenpai.pages.dev
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/archivetell/4872" target="_blank">📅 15:31 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/archivetell/4872" target="_blank">📅 15:31 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4871">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">##
 🚀
 آموزش اشتراک‌گذاری اینترنت آزاد روی هات‌سپات (بدون نیاز به نصب برنامه‌ روی گوشی دوم!)
@@ -1964,219 +2415,7 @@ OK
 نکته مهم:
 اگر بعد از این کار اینترنت قطع شد، یک‌بار هات‌سپات و v2ray را خاموش و روشن کنید تا آی‌پی‌ها به‌درستی ست شوند.
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.36K · <a href="https://t.me/archivetell/4871" target="_blank">📅 15:25 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4870">
-<div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-text">ما بزرگ بودیم..
-با من در نیفتید</div>
-<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/archivetell/4870" target="_blank">📅 15:13 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4869">
-<div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-text">🔐
-دریافت SSL برای سرور داخل
-وقتی سرور ایران کلاً روی نت ملی افتاده و دسترسی به خارج نداره، گرفتن گواهینامه SSL مستقیم غیرممکنه؛ چون سرور شما نمیتونه با Let's Encrypt ارتباط بگیره.
-بهترین، سریع‌ترین و مطمئن‌ترین راه برای بالا آوردن پنل‌ها (مثل 3x-ui) یا وب‌سایت‌ها اینه که SSL رو روی سرور خارج بگیریم و دستی منتقل کنیم.
-🚀
-در ادامه قدم‌به‌قدم این ترفند رو بررسی می‌کنیم:
-###
-🌐
-مرحله اول: خواندن فایل‌ها در سرور خارج
-اول وارد سرور خارج (که اینترنت آزاد داره و SSL رو روش گرفتید) بشید. ما به محتوای دو تا فایل نیاز داریم.
-۱. دستور زیر رو بزنید تا محتوای فایل fullchain نمایش داده بشه. تمام متن رو (از خط BEGIN تا END) با موس کپی کنید:
-cat /etc/letsencrypt/live/yourdomain.com/fullchain.pem
-۲. حالا همین کار رو برای privkey انجام بدید و متنش رو کپی کنید (می‌تونید موقتاً تو یه نوت‌پد نگهشون دارید):
-cat /etc/letsencrypt/live/yourdomain.com/privkey.pem
-###
-🇮🇷
-مرحله دوم: ساخت فایل‌ها در سرور ایران
-حالا لاگین کنید به سرور ایران. اول یه پوشه امن برای گواهینامه‌ها می‌سازیم:
-mkdir -p /etc/ssl/mycerts/
-۱. ساخت فایل اول:
-nano /etc/ssl/mycerts/fullchain.pem
-متن فایل fullchain رو اینجا Paste کنید. (برای ذخیره: Ctrl+O بعد Enter و برای خروج Ctrl+X)
-۲. ساخت فایل دوم:
-nano /etc/ssl/mycerts/privkey.pem
-متن فایل privkey رو هم Paste و ذخیره کنید.
-###
-🛡
-مرحله سوم: تأمین امنیت (بسیار مهم)
-برای اینکه خطای امنیتی نگیرید، باید دسترسی کلید خصوصی رو طوری ببندید که فقط روت (root) بتونه بخوندش:
-chmod 600 /etc/ssl/mycerts/privkey.pem
-###
-🎯
-مرحله آخر: اتصال به پنل
-کار تمام است! حالا فایل‌های SSL شما روی سرور ملی آماده کار هستند.
-تنظیم در پنل‌های پروکسی (مثل 3x-ui):
-کافیه برید تو تنظیمات پنل و این مسیرها رو تو بخش Certificate و Private Key قرار بدید و پنل رو ری‌استارت کنید:
-محل سرتیفیکیت:
-/etc/ssl/mycerts/fullchain.pem
-محل کلید خصوصی:
-/etc/ssl/mycerts/privkey.pem
-تنظیم در Nginx:
-ssl_certificate /etc/ssl/mycerts/fullchain.pem;
-ssl_certificate_key /etc/ssl/mycerts/privkey.pem;
-💡
-نکته:
-هر زمان که SSL در سرور خارج منقضی و تمدید شد، کافیه همین پروسه کپی و پیست رو یک بار دیگه انجام بدید.
-#آموزش
-#سرور
-#شبکه
-#اینترنت_ملی
-#تونل
-#لینوکس
-#SSL
-#3xui
-@Archivetell</div>
-<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/archivetell/4869" target="_blank">📅 15:10 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4868">
-<div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-text">وصل..</div>
-<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/archivetell/4868" target="_blank">📅 15:01 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4867">
-<div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-text">با فرانتینگ سایفون زنده شد
-😁</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/archivetell/4867" target="_blank">📅 14:45 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4865">
-<div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gtTKWeH-X1XDIFLiZkeZDmRj30Yc1cBDRBpNroMMaP_v8ID0fr_pDBtTG4hZtBQmLHSY5v4NbHijyMafqVTLxk_QAMmLXgV-meHKDLPC-VqM4VEGlTt06niuDJSjhOFy9vOF7FdS_wtJEk-pCUEthKifgpAepyKKn95vRM9VVAX225cn2a1zdkHzn6P4y_gOx3xQHpiRPQ3mhpWg8rVRetOEYQ1Z3nUIbJOxFXLuDuCVFMgzmZ_-bpcqIMPYKe9sn5tYci7O5Vh-7tOLh_G2uGMXrXlaQh8nTXAPqryVK2b76M75yn8H8CaovNMlQgetweql1WTrRxyuxTQT9Zi6vA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">وصل..</div>
-<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/archivetell/4865" target="_blank">📅 14:29 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4864">
-<div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-text">لینک آپدیت شد</div>
-<div class="tg-footer">👁️ 2.58K · <a href="https://t.me/archivetell/4864" target="_blank">📅 14:21 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4862">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/doXymJTS14__PH0ZAf9NhaVcwwgvZnTXpjDQ8P6-jcMYTE7N3wvu8SI4_pRPZkiGZOwjfmdMMDtU5ACkAPC20_d2LvQF64xCotL4bjF2EVITX898c-RMSmFmh4mlS7Z7AkdrGibTDD6vIneOjjD0CBWGR-oA94yf4_Fop7Itc3DPCiSLK59ok3eRvOJfoh9Pw13LRIZJCEbB9E-Zl7EIFKDGp21Gzt7dbqEx5r6_ig2N1uNoZGLQsOqZAvv17iYkc9uENZdKxCybSMw4Kk7oE2zatzy4SavYXPM49mpz9zWwyYDARy0DOwPLdg5FrO-2NDNblmsYdYTmewfZyIuJIQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/dTrmpUy5p8iybgoFu27zaSrDK2AeoIeqfsBCAqDO4w4sMmBc2JBPFNhoySRLOLZ4nrTDf0-Tf_5FY_y0r-dgptGZmbgH_0yMgtLpLS58b7LywCwsdiQPIpmeNfNCHJ5FBdFKNsDxZT1okburtYL5n31uSs0LFpYvMubACpAyh48iKUZriaUcAvwaLvUJ2qebhJGyZ83cG5VHvQo_4TuP77zO4eENXplg_HRrJUweoFjLKhiSjsUPlpNrvSfzeCtJ8AEFAb19rGd39wfGPneGTkUca-cuyiCc9-wmusEmjIM00JaX7a_17qpARRo5R14p6AMqLGUA5s9orpoQVKVHVw.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">گیت هاب نرم افزار شیر و خورشید آپدیت شد
-پروتکل اتصال رو بزارید روی فرانتینگ cdn خودش وصل میشه ، نیازی به گرفتن سرتیفیکیت یا v2ray و کانفیگ هم نیست
-لینک داخلی شیر و خورشید
-گیت هاب شیر و خورشید
-@ArchiveTell</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/archivetell/4862" target="_blank">📅 14:16 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4861">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-doc">
-<span class="tg-doc-icon">📎</span>
-<div class="tg-doc-info">
-  <div class="tg-doc-title">ProxyVPN11.Json</div>
-  <div class="tg-doc-extra">6.6 KB</div>
-</div>
-<a href="https://t.me/archivetell/4861" class="tg-doc-link" target="_blank">دانلود</a>
-</div>
-<div class="tg-text">کانفیگ جدید متود ترکیبی پترنیها + سایفون
-@ArchiveTell</div>
-<div class="tg-footer">👁️ 2.91K · <a href="https://t.me/archivetell/4861" target="_blank">📅 13:32 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4860">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
-<div class="tg-text">این ربات ها سرتیفیکیت میده اگه سایتو نمیتونید باز کنید
-@CrtGen7Bot
-@SelfSignedCertGeneratorBOT
-﻿
-@ArchiveTell</div>
-<div class="tg-footer">👁️ 1.01K · <a href="https://t.me/archivetell/4860" target="_blank">📅 12:47 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4859">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XMVGW1sEUD_Ce3S4AGKynfF1xVcKZJpERVjwh6VivbPr_Hu6B2JyYumm41DlI5T4VXimGHhjQxSotEecSsIxJLsdrBKpCKi27ReL8rbZD3XZ27arb62CKwR_8qzy6xrO_xaSbbUajOeToqfb5FLAWg0Mc8984twWssvLoTVysPP2BnrgW7VxHk_PA0mLfzzKistNHNZM5Eqrdy0x3HH0kBLJIl5XFTlLX8Jie1iA9JcShyyDzpFb5sLZB2__hPC2QjTKpACXB9DzuYBqdLeqcnmTcksM6i9GdDbju3gFfogN-fU181ch8U6g9x0yDVAKilcWhPRsQnh75Z9seZmhCA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">خیلی راحت به اینترنت آزاد متصل بشید   PsiphonOverMITM  یک لانچر ساده و آماده برای اجرای Psiphon over MITM روی ویندوز  مراحل استفاده :   1) به صفحه ی ریپو مراجعه کنید و بر روی آیکون سبز رنگ Code بزنید و بعد Download ZIP را بزنید. 2) فولدر را اکسترکت کنید و…</div>
-<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/archivetell/4859" target="_blank">📅 12:42 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4858">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-text">استفاده از سرتیفیکیت تو ویندوز
-از این ربات
-@CrtGen7Bot
-سرتیفیکیت و رمز رو بگیر ، نصب کن ، بعد هر دو فایل رو انتقال بده به پوشه bin تو پوشه v2ray
-@ArchiveTell</div>
-<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/archivetell/4858" target="_blank">📅 12:28 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4857">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-text">خیلی راحت به اینترنت آزاد متصل بشید
-PsiphonOverMITM
-یک لانچر ساده و آماده برای اجرای Psiphon over MITM روی ویندوز
-مراحل استفاده :
-1) به صفحه ی ریپو مراجعه کنید و بر روی آیکون سبز رنگ Code بزنید و بعد Download ZIP را بزنید.
-2) فولدر را اکسترکت کنید و بعد فایل Run-PsiphonOverMITM.bat را Run as Administrator کنید.
-3) تمام. حالا فایل p3.exe که برنامه ی سایفون هست رو باز کنید. به Settings برید و در Upstream Proxy آدرس لوکال و پورتی که فایل Bat بهتون داد رو وارد که به صورت پیشفرض 20808 هست
-Hostname :
-127.0.0.1
-Port : 20808
-4) بر روی Apply Changes بزنید و تمام
-تشکر ویژه از پترنیها بابت این متود بمب
-https://github.com/B3hnamR/PsiphonOverMITM
-@ArchiveTell</div>
-<div class="tg-footer">👁️ 3.03K · <a href="https://t.me/archivetell/4857" target="_blank">📅 12:17 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4856">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-text">ادمین های محترم کانال ها
-واسه اون بی شرفایی که اینترنت پرو گرفتن راهکار ندین..
-پ.ن: کلی برنامه نویس و آدم فعال این زمینه پیام دادن که ما تن به این خفت نمیدیم
-پس واسه خودتون توجیه نکنید که ما به اینترنت پرو نیاز داریم..</div>
-<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/archivetell/4856" target="_blank">📅 12:10 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4855">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-text">گرفتن سرتیفیکیت با ترموکس ( واسه متود جدید ترکیبی پترنیها + سایفون )
-pkg install openssl
-openssl req -x509 -newkey rsa:2048 -keyout mycert.key -out mycert.crt -days 3650 -nodes -subj "/CN=localhost"
-@ArchiveTell</div>
-<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/archivetell/4855" target="_blank">📅 11:50 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4854">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">این ربات ها سرتیفیکیت میده اگه سایتو نمیتونید باز کنید
-@CrtGen7Bot
-@SelfSignedCertGeneratorBOT
-﻿
-@ArchiveTell</div>
-<div class="tg-footer">👁️ 3.26K · <a href="https://t.me/archivetell/4854" target="_blank">📅 11:43 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4853">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-text">آموزش ویندوز هم مثل اندرویده..
-لینک داخلی آخرین نسخه سایفون ویندوز
-لینک داخلی آخرین نسخه V2rayn ویندوز
-@ArchiveTell</div>
-<div class="tg-footer">👁️ 2.66K · <a href="https://t.me/archivetell/4853" target="_blank">📅 11:34 · 24 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-4852">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">v2rayNG 2.1.7 لینک داخلی  دانلود  با این نسخه وصل شید..  اینم لینک داخلی سایفون  واسه اونایی که نصب ندارن  @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/archivetell/4852" target="_blank">📅 09:21 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.37K · <a href="https://t.me/archivetell/4871" target="_blank">📅 15:25 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <hr>

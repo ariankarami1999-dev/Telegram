@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/dfynnKWKyBQl64PQM5-1sRPUzOHtmOGOHN1L5_5cyKWIY6qPZgney9xop1bD3s60rYizRimlFaBQKgtURHwNQG3u0lHP168RrniliyfDsnbqoEKMspS0LBi05mDTIdvsR2TQxzrcdu32DEiuzOYhp3QBKvjxy7ab_rPdTj0t2uEh1O0k3FDCqbsU3PpdqXvneRRosJNqDFgBeUD9kQWkimIUu4PE3TFGboIO9Ik1ZiavgKYp94zfud04WWd_xLk9HOBACkunXNNTXL1LvniXND8l5dH210cUP0PrZmz-T9zcm5EVrLlKOX6wezeEvSQvjFAFmQ16Bmh0OHj8zv-skA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 ورود به کانال آقای تحلیلگر</h1>
-<p>@tahlilgar • 👥 107K عضو</p>
+<p>@tahlilgar • 👥 108K عضو</p>
 <a href="https://t.me/tahlilgar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 در این کانال عضو باشید تا درصورت تغییر لینک کانال اصلی لینک جدید اطلاع رسانی شود.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-25 15:58:03</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-25 18:30:12</div>
 <hr>
 
 <div class="tg-post" id="msg-376">
@@ -304,7 +304,7 @@ pinned Deleted message</div>
 
 <div class="tg-post" id="msg-352">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/us3wzLcRWw-LT9_XU1Kx5ID0i21B2P5kBP0831RfuyOG3FASzc6gDqSe23AL709BzlWEMCYIDjAAxn69D7XlXkVjw-uSoJ_o9Q1F6gQZiJmqxgijILmeRJ7z-urxIAVP4rqPfPjldjT64lm_hoXP4lC7ElHlvZnwfS32nyOv9GI6tXmrGMS8nr9kLBJo131UMorXNN20Lk3B1ZGxsa2eyIHZKAWo2-xB5WT7z3FZVY67KUFJ8RLg75oJo2buDHlEOogwOm1m_M0ZoF57069OFHvRh6RCe0Omm8fBsCbl7wheZTAvnQJi0yH9mUYTs0aI5ehYus7acDGd26elJY6m6A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qf9tAbUaXnln3-odeAvfA_6KL5SONcVhoh_7Dx75pcqZhA-XpqhQUNrdmk_5CxpUZOE3EdqWlC9tU0Ond0lyDKotPE55UsK9IXwdiMaKwQIlkWLOZ6QEpBMUPou8oK4nSB-4I3Dgy4q0xgsWiFkjOIjvFn0YGhO6qSXTO8HItzrgRtcxEAdiLbL8LoZgm7xuLVIXT8UhTm5aN9sFqY38lzx6UvyABGO2jNl9vrdtmBa4Pa_qFHqIb58whT6n1rml3AIDxn3CHT2XTRXZFacREYA5LdOgtxLlPwqhZ0KM129lWr8sfaOVLlrefkgytfDKnBCNka75sRKRzgdK4tFcrw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تنها راه ورود به کانال آقای تحلیلگر (ظرفیت محدود)
 🔽
 🔽
