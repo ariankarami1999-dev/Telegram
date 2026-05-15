@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-25 02:57:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-25 04:50:21</div>
 <hr>
 
 <div class="tg-post" id="msg-928">
@@ -350,7 +350,7 @@
 
 <div class="tg-post" id="msg-923">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gUPlY0cTwPtBXZAZv_rpcO8h_frF4iEpmnd0bRr3vv-C8rkceR46l6mcnFjJOISJ2EmyU5OzwOtAWR58z0p48-SitG1YCi1DEBBz8yW50ocP9_mgyvfXlxH7ZBNittvsEzDK-PkohqnM5UglAne5TlVvXsMBgcgKCkEz9aZVqmm1lNt1HWvHQBbK7xSa-nB2znfjX1QSm8OztYaeQUlZyXxg5OpGXytlpuKLE_fwPC1qF7dTurFRtOZkEy7Zmf08XN5clieSNj-qluNbNYsH3StDD649nWxllKXytw3LtumQl-Y1rrRZprSGcNzF3YoS4wUiHX6542PbGkJ7tscq3Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bULTXTqdQnFtkUYOuNxkoaBNFTyIGK8USQt13YaQiQUB7oHjzPX84OQB9E1kdUyXSbO7P4sJFDRlE_0uT3LPvs3hxiZTK9r68tt2SgwZeQabaxCjuTjXEWMd4x5kLkFA9jllBmZa5LFEMTAKL3POPZe_f95eXNx1bt9igvMp_Z95nQPI4QDhA4BJ3QjJmzLi4gNNl-dCIzzGKa7gGqX-VKIl3dWmm40rl98rsYJc6U4WGXTJe0jDYD2s9T6cwJ2h3rklQHhaMh3EB6QEv2QXGmsTK9yXAPIU2czw4AvyMimv2ZxaAt7X-TwDW2HGx8PqkP3ZCAu9-Ue78xCtkwKq2A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 آپدیت هسته مارچ 2026 شروع شد.
 بختت ایرانی...
