@@ -292,13 +292,13 @@
 <a href="https://t.me/naya_foriraq" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اخبار ؛ امن ؛ دراسات ، خرائط ، OSINT ، تسريباتلا تظن الإدارة الأمريكية انها قادرة على إسكات شعوب المنطقة والله لن نسكت .. يوما ما سوف نعيد أيام عماد مغنية وسوف تبث العملية على هذة القناة ..🪪للمراسلة وارسال الاخبار@Nayaforiraq_bot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-26 02:15:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-26 03:16:29</div>
 <hr>
 
 <div class="tg-post" id="msg-75475">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-text">إعلام أمريكي : لقد تمكنا من اعتراض محاولات هذا الرجل الإحداث الفوضى وترويع ليس فقط الولايات المتحدة - كندا وأوروبا.</div>
-<div class="tg-footer">👁️ 2.63K · <a href="https://t.me/naya_foriraq/75475" target="_blank">📅 01:58 · 26 Ordibehesht 1405</a></div>
+<div class="tg-text">إعلام أمريكي: تمكنا من إحباط مساعي هذا الرجل في زرع الفوضى وتصدير الرعب، ليس إلى الولايات المتحدة وحدها، بل إلى كندا وأوروبا أيضا.</div>
+<div class="tg-footer">👁️ 5.76K · <a href="https://t.me/naya_foriraq/75475" target="_blank">📅 01:58 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75474">
@@ -309,7 +309,7 @@
 تشمل الفجوات الرئيسية المملكة العربية السعودية، والإمارات العربية المتحدة، وقطر، والعراق، والكويت، وأوكرانيا، وروسيا. وفي أفريقيا، تفتقر 37 سفارة من أصل 51 سفارة إلى سفراء.
 يمكن للدبلوماسيين المهنيين الذين يعملون كمبعوثين مؤقتين إدارة العمليات اليومية، لكنهم غالباً ما يفتقرون إلى إمكانية الوصول والنفوذ الذي يتمتع به السفراء الذين تم تأكيدهم من قبل مجلس الشيوخ.
 وفقاً للجمعية الأمريكية للخدمة الخارجية، هناك حالياً 115 منصباً سفيرياً شاغراً من أصل 195 منصباً - مقارنة بـ 45 شاغراً في نفس الفترة من الولاية الأولى لترامب و 12 شاغراً خلال الولاية الثانية لأوباما.</div>
-<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/naya_foriraq/75474" target="_blank">📅 01:26 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.84K · <a href="https://t.me/naya_foriraq/75474" target="_blank">📅 01:26 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75473">
@@ -322,7 +322,7 @@
 <a href="https://cdn4.telesco.pe/file/61bb464b53.mp4?token=v852EOfTS01Z2I4bgliPpVULqrpUjes2G4YGyx7vyLCthX3AoNXc8iNsXjOSED5fzb7kfFuMjcfUuDx6oF4KZCMCrrupZJXMlc3Qn0BHCBBLY2dbP80p-1CqI7cQafXRO55xKdO8vGFF5dJnovyjoMgwVQ53tYRBl9VhJ4hdUBmmfiskohamfkxJ_YsTbaPdGCQT8vqmrPR1w11FZefIG7GhRh7Iidfw8l7vgAh7nNjMJYOjemFwfV6TcwxQkx7BI-w6fwbrJ2tQoOZoraWY5muKQJZUD5PT-Ddw8oJV7J2R3I6CkzD7eg4a6mrVaCHoLPLtLr4edUI_0fEt3xRt7Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">جهاز ال FBI الأمريكي : ألقت عناصر مكتب التحقيقات الفيدرالي القبض على محمد السعدي، وهو هدف آخر ذو قيمة عالية مسؤول عن الإرهاب العالمي الجماعي، وأعادته إلى البلاد - في أحدث نجاح في العمل التاريخي لإدارة ترامب لتقديم الإرهابيين إلى العدالة. يُزعم أن السعدي وشركائه…</div>
-<div class="tg-footer">👁️ 6.08K · <a href="https://t.me/naya_foriraq/75473" target="_blank">📅 01:22 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.31K · <a href="https://t.me/naya_foriraq/75473" target="_blank">📅 01:22 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75472">
@@ -330,19 +330,19 @@
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromسرايا اولياء الدم</strong></div>
 <div class="tg-text">«من أراد العزَّ فالعزُّ هنا شامخُ ما بينَ حدٍّ وزناد، لا ينال الذلُّ من عبدٍ مضى يسحق الذلَّ بساحات الجهاد»
 #سرایا_اولياء_الدم</div>
-<div class="tg-footer">👁️ 8.33K · <a href="https://t.me/naya_foriraq/75472" target="_blank">📅 00:25 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/naya_foriraq/75472" target="_blank">📅 00:25 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75471">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">جهاز ال FBI الأمريكي : ألقت عناصر مكتب التحقيقات الفيدرالي القبض على محمد السعدي، وهو هدف آخر ذو قيمة عالية مسؤول عن الإرهاب العالمي الجماعي، وأعادته إلى البلاد - في أحدث نجاح في العمل التاريخي لإدارة ترامب لتقديم الإرهابيين إلى العدالة. يُزعم أن السعدي وشركائه…</div>
-<div class="tg-footer">👁️ 9.2K · <a href="https://t.me/naya_foriraq/75471" target="_blank">📅 00:23 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/naya_foriraq/75471" target="_blank">📅 00:23 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75470">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">جهاز ال FBI الأمريكي : ألقت عناصر مكتب التحقيقات الفيدرالي القبض على محمد السعدي، وهو هدف آخر ذو قيمة عالية مسؤول عن الإرهاب العالمي الجماعي، وأعادته إلى البلاد - في أحدث نجاح في العمل التاريخي لإدارة ترامب لتقديم الإرهابيين إلى العدالة. يُزعم أن السعدي وشركائه…</div>
-<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/naya_foriraq/75470" target="_blank">📅 00:20 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/75470" target="_blank">📅 00:20 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75469">
@@ -350,20 +350,20 @@
 <div class="tg-text">⚔️
 Animation Grafik
 Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the region</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/75469" target="_blank">📅 23:31 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/75469" target="_blank">📅 23:31 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75468">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">مشاهد اولية لاعتقال العراقي محمد باقر السعدي من قبل جهاز ال FBI الأمريكي</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/75468" target="_blank">📅 23:31 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/75468" target="_blank">📅 23:31 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75467">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TZ1-Si_miPEDKvVGhFm_QbquEdN6ecFx4VEkpn7zIG0Rd6A6LgP2JmrnMTRIYBhc4DK33i5RFnuUU9ys6o_Yab5uNjG4Ke09aTUJS0oVC1LslzPnFfqelO_L8rPaa6HeEWIAEk4EeYWC_Y6Yrf50JlV8LfYmmEI55y0EreIxyKJZd6L96vyGyGr82myIpnuCp_BTNvgyLzrsSToC5K_6tidFw3Xgii7tFJ8h3KxRTfYA3LLiqXg8lNBYwkddviApmPp2mipl76MadxJu54PTQkrcUyVITmmA80pq_jlplSzKXQwNo6mt6UWhKO72Gg4AcUyLuDyWQHTGFzDXnZCIFw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جهاز ال FBI الأمريكي : ألقت عناصر مكتب التحقيقات الفيدرالي القبض على محمد السعدي، وهو هدف آخر ذو قيمة عالية مسؤول عن الإرهاب العالمي الجماعي، وأعادته إلى البلاد - في أحدث نجاح في العمل التاريخي لإدارة ترامب لتقديم الإرهابيين إلى العدالة. يُزعم أن السعدي وشركائه…</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/75467" target="_blank">📅 23:25 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/75467" target="_blank">📅 23:25 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75466">
@@ -371,14 +371,14 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🇺🇸
 سي إن إن:
 قراصنة يخترقون أجهزة قراءة خزانات الوقود في محطات الوقود الأمريكية؛ ويشتبه المسؤولون في أن إيران هي المسؤولة.</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/naya_foriraq/75466" target="_blank">📅 23:24 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/75466" target="_blank">📅 23:24 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75465">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">جهاز ال FBI الأمريكي :
 ألقت عناصر مكتب التحقيقات الفيدرالي القبض على محمد السعدي، وهو هدف آخر ذو قيمة عالية مسؤول عن الإرهاب العالمي الجماعي، وأعادته إلى البلاد - في أحدث نجاح في العمل التاريخي لإدارة ترامب لتقديم الإرهابيين إلى العدالة. يُزعم أن السعدي وشركائه خططوا ونسقوا وأعلنوا مسؤوليتهم عن ما لا يقل عن 20 هجومًا إرهابيًا في جميع أنحاء أوروبا وكندا - وكان يُعتقد أنهم يستهدفون الولايات المتحدة بهجمات قادمة بما في ذلك المؤسسات اليهودية في نيويورك وكاليفورنيا وأريزونا.</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/75465" target="_blank">📅 22:48 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/75465" target="_blank">📅 22:48 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75464">
@@ -392,7 +392,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 </div>
 <div class="tg-text">🇺🇸
 ترامب: لم أقلل من تقدير قدرة إيران على التحمل.  أبقينا على جسور إيران ومحطات توليد الكهرباء وبإمكاننا تدمير كل ذلك بالكامل خلال يومين فقط.</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/75464" target="_blank">📅 21:49 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/75464" target="_blank">📅 21:49 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75463">
@@ -400,7 +400,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🇺🇸
 وزارة الخارجية الأمريكية:
 سيتم تمديد وقف إطلاق النار بين إسرائيل ولبنان لمدة 45 يومًا للسماح بمزيد من التقدم.</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/75463" target="_blank">📅 21:42 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/75463" target="_blank">📅 21:42 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75462">
@@ -410,7 +410,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 مشاهد من عملية استهداف المقاومة الإسلامية بتاريخ
 11-05-2026
 آلية هندسيّة تابعة لجيش العدو الإسرائيلي في بلدة البيّاضة جنوبيّ لبنان بمحلّقة انقضاضيّة.</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/75462" target="_blank">📅 21:31 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/75462" target="_blank">📅 21:31 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75461">
@@ -424,7 +424,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 </div>
 <div class="tg-text">⭐️
 ‏نتنياهو يزعم: استهدفنا بغارة قائد الجناح العسكري لحماس عز الدين الحداد.</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/75461" target="_blank">📅 20:54 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/75461" target="_blank">📅 20:54 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75460">
@@ -434,7 +434,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 مشاهد من عملية استهداف المقاومة الإسلامية بتاريخ
 12-05-2026
 تجمّع لجنود جيش العدو الإسرائيلي قرب مرفأ الناقورة في جنوب لبنان بسربٍ من المسيّرات الانقضاضيّة.</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/75460" target="_blank">📅 20:45 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/75460" target="_blank">📅 20:45 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75459">
@@ -450,21 +450,21 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 ‏
 نتنياهو يزعم:
 استهدفنا بغارة قائد الجناح العسكري لحماس عز الدين الحداد.</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/75459" target="_blank">📅 20:41 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/75459" target="_blank">📅 20:41 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75458">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">سوالف الگهوة
 الأساس وتصميم سيلتحقون بالمالكي و الفياض والأسدي والغراوي ويلحقهم المجلس الأعلى وأبو الاء الولائي ..</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/75458" target="_blank">📅 20:37 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/75458" target="_blank">📅 20:37 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75457">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DThSDFDgN3U1dGNH7hWZKaYD0SVVtHOqLWJKz4SqrkMXr8gGrTtdznF9Ir8RtZmgo-uwJy2YF74x8j1xYR3cOaMq7YGKXYbZLMrEP_MNgwa2QTbt7eino2eUhZqZKHrp1emeSoYhhQyBI-NNadaWSkzlbcnrqFWZF7kjAqfPY-JS3n_CuspkmMIHnk9Je4ChSE6QDMPQ1UUFZDD_U9VZifoBFdh6g0aCo2TVkSBOSi4pcBOHJ1kMIZyZ5XGXQnnQQ8F4nGJ8bJ8v0Moanr3_ZtTseydRxh87CoO7IXwMoTkTUHoEByGXmm2_9BTj900khb3Wrqu5I2XaenQD_mxgAA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">السياسي العراقي حامد السيد يؤشر بخلل بموقع رئاسة الجمهورية !</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/75457" target="_blank">📅 20:36 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/75457" target="_blank">📅 20:36 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75455">
@@ -478,7 +478,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 </div>
 <div class="tg-text">⭐️
 إنفجار كبير في محطة للغاز بمدينة زوليا الفنزويلية.</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/naya_foriraq/75455" target="_blank">📅 20:35 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/75455" target="_blank">📅 20:35 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75454">
@@ -486,7 +486,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🏴‍☠️
 إعلام العدو:
 حدث أمني غير عادي جنوب لبنان ويصنّف على أنه خطير جدًا.</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/75454" target="_blank">📅 20:04 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/75454" target="_blank">📅 20:04 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75453">
@@ -500,7 +500,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 </div>
 <div class="tg-text">🏴‍☠️
 على الرغم من محاولات الإعتراض.. مسيرة أطلقت من لبنان تصيب هدفها في كريات شمونة واعمدة الدخان ترتفع.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/75453" target="_blank">📅 19:56 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/75453" target="_blank">📅 19:56 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75452">
@@ -515,7 +515,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🌟
 🏴‍☠️
 هجوم مركب جديد.. إطلاق طيران مسير ورشقات صاروخية من لبنان نحو مستوطنة المطلة بالشمال الفلسطيني المحتل.</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/75452" target="_blank">📅 19:46 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/75452" target="_blank">📅 19:46 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75451">
@@ -524,7 +524,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 ترامب:
 لم أقلل من تقدير قدرة إيران على التحمل.
 أبقينا على جسور إيران ومحطات توليد الكهرباء وبإمكاننا تدمير كل ذلك بالكامل خلال يومين فقط.</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/75451" target="_blank">📅 19:40 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/75451" target="_blank">📅 19:40 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75450">
@@ -541,7 +541,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 مشاهد من عملية استهداف المقاومة الإسلامية بتاريخ
 06-05-2026
 نقطة تموضع تابعة لجيش العدو الإسرائيلي في بلدة الطيبة جنوبيّ لبنان بمحلّقة انقضاضيّة.</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/75450" target="_blank">📅 19:30 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/75450" target="_blank">📅 19:30 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75449">
@@ -550,7 +550,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 🏴‍☠️
 هجوم مركب جديد..
 إطلاق طيران مسير ورشقات صاروخية من لبنان نحو مستوطنة المطلة بالشمال الفلسطيني المحتل.</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/75449" target="_blank">📅 19:25 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/75449" target="_blank">📅 19:25 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75448">
@@ -564,7 +564,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 </div>
 <div class="tg-text">🏴‍☠️
 اندلاع حريق كبير في منطقة بتاح تكفا شرقي تل أبيب المحتلة.</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/75448" target="_blank">📅 19:04 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/75448" target="_blank">📅 19:04 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75447">
@@ -572,7 +572,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fzAYJq8iSwuUgppeOeM2RQeVabqyPwuqmCmIwh8KswmI1Bw-M9rnAHIjnzKOhJuBme6wkgcPdaV4nC6E9Dv0fPpLuHK5sXQidscTAzT6fslz5m3doPNZvBw5CjNmHbQq_mgpH7RPiaeCWd8wreaUfeFhMp3eWgHmsUiLWwY1S1Q5GRQybDgUD-yWpsRsSIJAnDUEqA51RL5V6pQIqYVRdOnSu7gkXgRUSdahMQTiydHDx__waHXv06JHm2iuhFKsFNNWgvSFSCXugcVa4_FAE2sHdQ1Ha3vIttuSaXIoGFFk4fDmgDXkSUwzlTqt51EDSvW-Dgk7V8cpSDg3-iDjEg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭐️
 أسعار النفط العالمي تلامس 109 دولاراً للبرميل الواحد.</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/75447" target="_blank">📅 19:01 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/75447" target="_blank">📅 19:01 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75446">
@@ -580,7 +580,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🏴‍☠️
 هجوم مركب..
 إطلاق أسراب من المسيرات ورشقات صاروخية نحو الشمال الفلسطيني المحتل وصافرات الرعب تدوي من رأس الناقورة إلى نهاريا.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/75446" target="_blank">📅 18:33 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/75446" target="_blank">📅 18:33 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75445">
@@ -590,7 +590,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 إذا ذهبَتْ إيرانُ فليذهبْ معها رُوحي وبدني،
 ولا تبقَ في هذي الربوع نَسَمةُ حيٍّ أو نَفَسٌ لأحدِ.
 ‏خلّد الفردوسي، من خلال الشاهنامة، الهوية التاريخية والثقافية لإيران، ومنح البطولة معنىً مرتبطاً بالعدالة. واليوم، يُعدّ أبناء إيران حماة أمن هذا الوطن وعزته في وجه الظالمين.</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/75445" target="_blank">📅 18:27 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/75445" target="_blank">📅 18:27 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75444">
@@ -605,21 +605,21 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">بالفيديو | مشاهد من عملية استهداف المقاومة الإسلامية بتاريخ
 10-05-2026
 آلية هندسية (D9) تابعة لجيش العدو الإسرائيلي عند خلّة الراج في بلدة دير سريان جنوبيّ لبنان بمحلّقة انقضاضيّة.</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/75444" target="_blank">📅 18:01 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/75444" target="_blank">📅 18:01 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75443">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">وزير الخارجية الباكستاني:
 إعادة 11 باكستانيا و20 إيرانيا اختطفوا على متن سفن سيطرت عليها قوات ألامريكية.</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/75443" target="_blank">📅 17:54 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/75443" target="_blank">📅 17:54 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75442">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pM4ZQ71gdm5QTUWTMFmx_Z4WRKuNArPrBCRUDv2bg38NWvKCXa05RDgBumZvBO9eBWUABFXEcuNHL16wOd7x2YgaDHbZE1P92CkRO7pqtbFj3TbfuKPsTwyVXJE2venbRhcuD-eVNb1dkZS8UDo2GDJd04uVcgVzCnEL_a44hCreDXFwvxo7co5RugNhJX9R-kRFmLtAo3Bebkx8YMHV8wP8BKPd-6N1WCinIx9s6-uMadMYBlUvlNNOqv3Dva6u8-C9Uq5d1EaTl8an-WdBsH7qslLToeIZMoLl57d1fyh6S9ldmQYZBs5dCQFP9u9tfEhwRUDkhy9NLZ99x9LKLg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تفعيل الدفاعات الصهيونية بالقرب من طبريا</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/75442" target="_blank">📅 17:00 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/75442" target="_blank">📅 17:00 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75441">
@@ -627,13 +627,13 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🤺
 حزب الله:
 مشاهد من عملية استهداف المقاومة الإسلامية بتاريخ 12-05-2026 آلية هندسيّة تابعة لجيش العدو الإسرائيلي في بلدة طيرحرفا جنوبيّ لبنان بمحلّقة انقضاضيّة.</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/75441" target="_blank">📅 16:54 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/75441" target="_blank">📅 16:54 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75440">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">وزير الطاقة الأمريكي رايت: أعتقد أن الصين ستكون أكبر مشتر للنفط الخام الأمريكي</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/75440" target="_blank">📅 16:08 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/75440" target="_blank">📅 16:08 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75439">
@@ -641,7 +641,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">‏ترامب: لم أرغب في وقف النار مع إيران وفعلت ذلك كخدمة لباكستان
 اشرب جايك لا يبرد
 😄</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/75439" target="_blank">📅 16:04 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/75439" target="_blank">📅 16:04 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75438">
@@ -649,14 +649,14 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">📰
 مراسل صحيفة نيويورك بوست:
 ‏قبل صعودهم على متن طائرة الرئاسة الأمريكية "إير فورس وان" لمغادرة بكين، قام الوفد الأمريكي بأكمله بإلقاء كل ما قدمه لهم المضيفون الصينيون - من هدايا وشارات ودبابيس وأشياء تذكارية - في سلة المهملات الموجودة في الموقع. ‏لم يصعد على متن الطائرة أي شيء من أصل صيني. ‏كان الوفد قد ترك أجهزته الشخصية في المنزل واستخدم هواتف محمولة نظيفة طوال الرحلة.</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/75438" target="_blank">📅 15:56 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/75438" target="_blank">📅 15:56 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75437">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">سوالف الگهوة
 وزير ادّعوا " انه لم يصوت عليه البارحة سوف يعود بقوة القضاء العراقي المستقل ، العامري الزيدي ورجل معهم حكيم اجتمعوا البارحة عند المالكي ليلاً …</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/75437" target="_blank">📅 15:32 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/75437" target="_blank">📅 15:32 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75436">
@@ -676,20 +676,20 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 ‏ترامب: مع من أنت؟
 ‏س: بي بي سي
 ‏ترامب: بي بي سي مزيفة. هل تقصد أولئك الذين وضعوا الذكاء الاصطناعي في فمي؟</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/75436" target="_blank">📅 15:31 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/75436" target="_blank">📅 15:31 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75435">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">انسحاب الاسدي والغراوي رسميا من السوداني</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/75435" target="_blank">📅 15:18 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/75435" target="_blank">📅 15:18 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75434">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/s8eBLPkhCGJ_KG02S9O6HPOUVI4ijdZkUEalkhh5duwXXUqMsaudifOvT9dl4g5gutStCRxgIbs9jy4TyLqdEqpXzPrUjKBTYS-lsXs_Q9h1MmsN7bY1f4uXZBSISx8M78oTWL_UBJEB57F3BtAGIlz9uAtDqVurAusensA1yW1MLnT3-7U5kbqVVhZ2KjC4rr_vmm7HGTzkc5AI_iUA_indgdnI38r1crRj42dFDces-PErKHzSnATfnR0Xtc28DsvAw46ykS8WnMqDSbAwTyJ_4ew7tfeoxPDTO7zCRYR_2PhfPAJmkE4qkZLLtaWm-qbh6O6OulRegqYvOSzvkg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوالف الگهوة   رسالة من ابو علي بوتين للعراق …</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/75434" target="_blank">📅 15:14 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/75434" target="_blank">📅 15:14 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75433">
@@ -698,100 +698,100 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🇮🇷
 وزير الخارجية الايراني:
 إن مقاومة إيران للتنمر الأمريكي ليست معركة غريبة. فكثير منا يواجه أشكالاً مختلفة من نفس الإكراه البغيض. لقد آن الأوان لنا أن نتكاتف ونعمل معاً على توضيح أن هذه الممارسات يجب أن تُطوى صفحتها إلى الأبد.</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/75433" target="_blank">📅 15:11 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/75433" target="_blank">📅 15:11 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75432">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">سوالف الگهوة
 رسالة من ابو علي بوتين للعراق …</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/75432" target="_blank">📅 15:05 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/75432" target="_blank">📅 15:05 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75431">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">‏ترامب: لقد أجريت اتصالات مع كيم جونغ أون، زعيم كوريا الشمالية</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/75431" target="_blank">📅 14:46 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/75431" target="_blank">📅 14:46 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75430">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">‏ترامب: سأتخذ قراراً خلال الأيام القليلة المقبلة بشأن رفع العقوبات المفروضة على شركات النفط الصينية التي تشتري النفط الإيراني.</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/75430" target="_blank">📅 14:33 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/75430" target="_blank">📅 14:33 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75429">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">‏ترامب: "الغبار النووي" الإيراني قد يُسلّم إلى الصين أو الولايات المتحدة</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/75429" target="_blank">📅 14:29 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/75429" target="_blank">📅 14:29 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75428">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">ترامب: آخر ما نحتاجه الآن هو الحرب.</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/75428" target="_blank">📅 14:29 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/75428" target="_blank">📅 14:29 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75427">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">‏ترامب: لا امانع في تعليق إيران لبرنامجها النووي لمدة 20 عاماً، لكن يجب أن يكون ذلك التزاماً حقيقياً</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/75427" target="_blank">📅 14:28 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/75427" target="_blank">📅 14:28 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75426">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">مصدر لنايا  يتحدث عن خروج كتلة العقد الوطني من ائتلاف الاعمار والتنمية بسبب ما حصل من ممارسات سيئة في جلسة منح الثقة للحكومة الجديدة  اليوم</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/75426" target="_blank">📅 14:27 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/75426" target="_blank">📅 14:27 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75425">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a0nW9BlNazG6KIjgOTRr2xXlFSoOvySL1cjYxgSmtIpZvFxlFTF8q14Br_qAVVrz2fGvOeMuw81r1e9ef5Ii2nO_ZpPrvXTonvarvEw4ZO-VD1YLQwKgJ_dqmKLjLen8d595cZR8gXN2Ng2F_jLfoqUGu72rtED57Phh43aYr7K3D6Db7mEms9DNImeXZKcymfnnyYmJh6pTqxhSui80iVykScCKJCtmBZ0sPHlkLG5bIDIGCQsTiWnlMrMekFLmcewl3B0SifTozIwhcoFrcmFJO6waDh9Uqf-NzlgOEYgwSajk4fk3xgAaIgcSQLfCOusxPvAoFGf_Bt09oLU1yA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مصدر لنايا  يتحدث عن خروج كتلة العقد الوطني من ائتلاف الاعمار والتنمية بسبب ما حصل من ممارسات سيئة في جلسة منح الثقة للحكومة الجديدة  اليوم</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/75425" target="_blank">📅 14:19 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/75425" target="_blank">📅 14:19 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75424">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">ترامب: لم أقدم أي تعهد بشأن تايوان.</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/75424" target="_blank">📅 14:16 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/75424" target="_blank">📅 14:16 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75423">
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">ترامب للصحفيين: لا أعتقد أن هناك خلافًا مع الصين بشأن تايوان</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/75423" target="_blank">📅 14:11 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/75423" target="_blank">📅 14:11 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75422">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">ترامب بعد اختتام زيارته للصين يقول لفوكس نيوز حول تايوان: لا نتطلع إلى خوض حروب</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/75422" target="_blank">📅 14:11 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/75422" target="_blank">📅 14:11 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75421">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">ترامب بعد اختتام زيارته للصين يقول لفوكس نيوز حول تايوان: لا نتطلع إلى خوض حروب</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/75421" target="_blank">📅 14:09 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/75421" target="_blank">📅 14:09 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75420">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">‏بيان لقائد الثورة الاسلامية آية الله السيد مجتبى خامنئي بعد قليل</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/75420" target="_blank">📅 14:03 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/75420" target="_blank">📅 14:03 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75419">
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HdWlwitBtJG-IdsKZSs0WB9ETNZjpGvVEyW2-Oz56moHJiAS5_RVPbtcefcFCN2Z1brxkGN0JdDQk6Z87YGKKheq95zv94HQ7cKLZM7pUaj1NQ8oTXqVLWRL_axMoApjSHy8FlO3b-5B7lp29q27g3jofWbJD8_y3SrXeYeFhDR8PH2Y02pHWMH-7cRgwPfmbnkakvEFTzHwV1AtRSY3cZQIaADaSU4o4N5KPHupzndVBuU_Mp5Up8Ysa8ZVj_EYLtUymrXxu_le6bdQq421nSpMZH0FXawqAW6s5YKP7CGUZY7lN2mTMe3xWeyd3RXtblAQJBHbdYnTRT_b_HzWaQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏ترامب: ‏الصين لديها قاعة رقص، ويجب أن يكون لدى الولايات المتحدة الأمريكية قاعة مماثلة! إنها قيد الإنشاء، وتسير بوتيرة أسرع من المخطط لها، ‏من المقرر افتتاحها في سبتمبر من عام 2028 تقريباً. الرجل الذي أسير معه هو الرئيس شي جين بينغ، رئيس الصين، أحد أعظم قادة العالم!</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/75419" target="_blank">📅 13:45 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/75419" target="_blank">📅 13:45 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75418">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">‏بيان لقائد الثورة الاسلامية آية الله السيد مجتبى خامنئي بعد قليل</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/75418" target="_blank">📅 13:41 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/75418" target="_blank">📅 13:41 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75417">
@@ -800,7 +800,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🇮🇶
 🇮🇷
 الرئيس الايراني مسعود بزشكيان يهنئ رئيس الوزراء العراقي بمناسبة نيل الحكومة ثقة البرلمان</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/75417" target="_blank">📅 13:33 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/75417" target="_blank">📅 13:33 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75416">
@@ -816,13 +816,13 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 ‏- إيران مهتمة بمواصلة أعمال الطاقة والنفط مع الهند
 ‏- اتفق مع الولايات المتحدة على تأجيل المفاوضات بشأن المواد المخصبة
 - الرسائل المتناقضة جعلتنا مترددين بشأن النوايا الحقيقية للأمريكيين في المفاوضات</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/75416" target="_blank">📅 13:27 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/75416" target="_blank">📅 13:27 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75415">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">استهداف دبابة صهيونية في بلدة رشاف جنوب لبنان بمسيرات حزب الله</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/75415" target="_blank">📅 13:00 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/75415" target="_blank">📅 13:00 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75414">
@@ -831,14 +831,14 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 الإمارات حاولت عبثاً حثّ السعوديين على تنسيق الرد على إيران لكنها شعرت بالإحباط عندما قوبل طلبها بالرفض
 في حين سارع محمد بن زايد إلى التعاون مع إدارة ترامب والإسرائيليين أبلغه نظراؤه الخليجيون أن هذه ليست حربهم
 الإمارات نفذت هجمات محدودة ضد إيران من دون دعم من دول الخليج بدءاً من أوائل مارس ومرة أخرى في أبريل</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/75414" target="_blank">📅 12:55 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/75414" target="_blank">📅 12:55 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75413">
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">🌟
 حزب الله: مشاهد من عملية استهداف المقاومة الإسلامية بتاريخ 12-05-2026 تجمّعات لجنود جيش العدو الإسرائيلي في جنوب لبنان بالصواريخ والمسيّرات الانقضاضيّة.</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/75413" target="_blank">📅 12:46 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/75413" target="_blank">📅 12:46 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75411">
@@ -851,7 +851,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <a href="https://cdn4.telesco.pe/file/971b1df4d5.mp4?token=GDAZXT7ZOe0shwLSImQzqDwdDqwqcyMdWmJ1FQ9RAaBFO1b7hZM8o5W8hrxd4mDYd8TBMmIs1u4ajNLNHq27_HU6BSHip6PVm2G8uWnUt-Kp4dFELmjt2qMOvNrIo0YjoDbPCvjI3coBexieT3ultxT5nXqzZj_dEQRVhwhaouT6ATsSOGr1vcBcWbEF92BCf9czmG7CqbD0XMRwE_tZfpBfHPBqJLU2KL2RjFFIt06hoas1rutWqj1R17L7SexpXfPJJSbRRz1FSpYW_QYxVpdL02SEWTe5fpIajGHR8am9JoKf-E3OTV_vdemjB838yqnvxtKnp3i8ASP7kbu6QA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">هجوم بالمسيرات يستهدف مقرات حزب الحرية الإرهابي في محافظة أربيل شمال العراق</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/75411" target="_blank">📅 11:27 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/75411" target="_blank">📅 11:27 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75410">
@@ -864,14 +864,14 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <a href="https://cdn4.telesco.pe/file/2f7e67fea4.mp4?token=LscT4Y7T-tw7tg3dX4YyIqJ7HsPMHqkbYPBrBajZ2bMTxLW4VnoAh5fHDCCwvOzHC34ilx488lCjgiXyF-8XX8pfy4RaZF4OxTi4GMbn_4o4UUR9nCqEB-kIfa14ou4jd0f5LZZPgLwFbQx_V6pXfC96cAplouut9YJMNx_f2jL20j8rw-8mpeB3osB6yYfF3lVzKstZF09fSLWDhLRcMHBGPnbOs4h7Vtqc9IavhuS1j23jQ0WhvDkB6IubMGvoZFUiJzWIYvDDf8qm_CQq3y0LdWoEHtEOKbScrwf79mQkRUxfzb4Dk-KiedAjjZXcGL228uEpQGMClp_-AmEsmA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">هجوم بالمسيرات يستهدف مقرات حزب الحرية الإرهابي في محافظة أربيل شمال العراق</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/75410" target="_blank">📅 11:14 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/naya_foriraq/75410" target="_blank">📅 11:14 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75409">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">🇮🇷
 وزير الخارجية الإيراني: هذا هو الوقت الذي يجب فيه على إيران أن تثبت موقعها وتبرز دورها الإقليمي أكثر من أي وقت مضى</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/75409" target="_blank">📅 10:19 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/75409" target="_blank">📅 10:19 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75408">
@@ -888,7 +888,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 🇮🇷
 قائد القيادة المركزية الأمريكية
 قال امس في مجلس الشيوخ " رئيس الوزراء العراقي الجديد تعهد لنا بإبعاد نفسه عنّ ايران "</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/naya_foriraq/75408" target="_blank">📅 10:09 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/75408" target="_blank">📅 10:09 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75406">
@@ -898,7 +898,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 عندما أشار الرئيس شي بأناقة شديدة إلى الولايات المتحدة على أنها ربما تكون دولة متراجعة، كان يشير إلى الضرر الهائل الذي عانى منه بلدنا خلال السنوات الأربع لجو بايدن النائم وإدارة بايدن، وعلى هذا الصعيد، كان على حق 100٪. عانى بلدنا بشكل لا يُقاس من حدود مفتوحة، وضرائب مرتفعة، والجنسانية للجميع، والرجال في الرياضات النسائية، وDEI، وصفقات تجارية فظيعة، وجريمة متفشية، وأكثر من ذلك بكثير!
 لم يكن يشير الرئيس شي إلى الارتفاع المذهل الذي أظهرته الولايات المتحدة للعالم خلال 16 شهرًا مذهلة من إدارة ترامب، والتي تشمل أسواق الأسهم والـ 401K في أعلى مستوياتها على الإطلاق، والانتصار العسكري في فنزويلا، والتدمير العسكري لإيران (سيستمر!) - أقوى جيش على الأرض إلى حد بعيد، وقوة اقتصادية كبيرة مرة أخرى، مع استثمار 18 تريليون دولارًا أمريكيًا في الولايات المتحدة من قبل الآخرين، وأفضل سوق عمل في التاريخ الأمريكي، مع عدد أكبر من الأشخاص الذين يعملون في الولايات المتحدة الآن من أي وقت مضى، وإنهاء DEI المدمر للبلاد، وأشياء أخرى كثيرة سيكون من المستحيل سردها بسهولة. في الواقع، هنأني الرئيس شي على العديد من النجاحات الهائلة في مثل هذه الفترة القصيرة.
 قبل عامين، كنا في الواقع دولةً متراجعة. وعلى هذا، أنا أتفق تمامًا مع الرئيس شي! لكن الآن، الولايات المتحدة هي الدولة الأكثر سخونة في أي مكان في العالم، ونأمل أن تكون علاقتنا مع الصين أقوى وأفضل من أي وقت مضى!</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/naya_foriraq/75406" target="_blank">📅 01:27 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/naya_foriraq/75406" target="_blank">📅 01:27 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75405">
@@ -944,7 +944,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-post" id="msg-75400">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">مصدر لنايا  يتحدث عن خروج كتلة العقد الوطني من ائتلاف الاعمار والتنمية بسبب ما حصل من ممارسات سيئة في جلسة منح الثقة للحكومة الجديدة  اليوم</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/naya_foriraq/75400" target="_blank">📅 23:31 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/naya_foriraq/75400" target="_blank">📅 23:31 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75399">
@@ -979,7 +979,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <a href="https://cdn4.telesco.pe/file/2dc00397ad.mp4?token=QPIrdHQSwMM3_5UzoVCEWgjaStT6xwQEZYZvKqcdN509AuDqhtf5hBomJ-IMUMXjs_j0r81rQNLB3N7TwS-69cvatZDGvSBh6jscRnxqv3kyBjwClBSrc4zmZffPJJkrd4R8V7eMd2MwlNBbJm9AJ909tnbz4l7CCigqYjs7qd3g379esmuc8aEpH0L1RcPkhX3Scze11Y3olkvr18DGNW-Y8-5F9BtMR40OEIokopvSq55GqXEuoxPyVs8bO_O2zw4Unv3CXVYEtyfyyRdJUXzMJjEdSLklUb5nP3L3EUks5wnzbJHdIQK9Pm786GcKjFPV3nwTtJB3ovoNgY3rcA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">إطلاق رشقات صاروخية من لبنان نحو كريات شمونة ومحيطها في الشمال الفلسطيني المحتل والدفاعات الصهيونية تحاول الإعتراض.</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/75396" target="_blank">📅 22:53 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/naya_foriraq/75396" target="_blank">📅 22:53 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75395">
@@ -1023,7 +1023,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🇮🇶
 قيادة العمليات المشتركة:
 تم رصد تحركات لعنصر إرهابي خطر ضمن قاطع المسؤولية. و​بعد تحديد الهدف بدقة متناهية، نفذت قيادة طيران الجيش ضربة جوية ناجحة بواسطة الطائرة المسيرة المسلحة (CH5)، مستهدفةً الموقع المرصود في وادي الشاي ضمن قاطع قيادة عمليات كركوك ، إذ تم ​تدمير الوكر الإرهابي بالكامل وقتل العنصر الإرهابي المستهدف.</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/naya_foriraq/75392" target="_blank">📅 22:08 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/75392" target="_blank">📅 22:08 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75391">
@@ -1071,7 +1071,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🏴‍☠️
 النتن ياهو: نقول للعالم أجمع إن القدس ستظل عاصمتنا الأبدية والتاريخية.
 ‏أبعدنا خطرا وجوديا يتمثل في القنابل النووية والصواريخ الباليستية الإيرانية.</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/75386" target="_blank">📅 21:10 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/naya_foriraq/75386" target="_blank">📅 21:10 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75385">
@@ -1080,7 +1080,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🇮🇷
 🇮🇶
 عراقجي يهنئ بتشكيل الحكومة العراقية الجديدة.</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/75385" target="_blank">📅 21:02 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/naya_foriraq/75385" target="_blank">📅 21:02 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75384">
@@ -1088,7 +1088,7 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 <div class="tg-text">🏴‍☠️
 القناة 12 العبرية عن مصدر:
 إسرائيل ترفع حالة التأهب إلى الذروة استعدادا لاحتمال تجدد حرب إيران بعد عودة ترمب من الصين.</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/75384" target="_blank">📅 20:33 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/naya_foriraq/75384" target="_blank">📅 20:33 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75383">
@@ -1191,13 +1191,13 @@ Simulation Harakat al-Nujaba attacks on U.S. military bases in Iraq and the regi
 </div>
 <div class="tg-text">🇮🇶
 الوزارات التي تم التصويت عليها من قبل البرلمان العراقي: مجلس النواب يُصوّت بالأغلبية المطلقة على باسم محمد خضير وزيراً للنفط.  مجلس النواب يُصوّت بالأغلبية المطلقة على محمد نوري احمد وزيراً للصناعة.  مجلس النواب يُصوّت بالأغلبية المطلقة على علي سعد وهيب…</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/naya_foriraq/75374" target="_blank">📅 18:54 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/75374" target="_blank">📅 18:54 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75373">
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">استهداف دبابة ميركافا من قبل حزب الله في بلدة الطيبة جنوب لبنان.</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/75373" target="_blank">📅 18:40 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/75373" target="_blank">📅 18:40 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75372">
