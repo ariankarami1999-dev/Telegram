@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/LEnA5FiUbW2cES-9ugkRmIOmyJcdgDdlDliXz2XcxJm6cmNEOjpbtj_haSs7nL87mGOvZ_bVvsNvzYeXlcLPXf2Wb8fV2HlkyRnlYhQc0rlgkxf7VgvryLvmSqSrTw2NFK3swlPZlZgA3EAGErgM-yc08x1ceIwWHqViiRAkP-Vdrm_CTf9yBB9Js5-gRj7-I6BjzrFhOJmL67y9oN83Ywwtdo9hvuvvRUrGQYcfAx9w_hrn5ntEgvy9oatoYeDsokBP3SWbOpEAluAauJMjAFb8la5RR6-sxzA41i5HGGVttnyKwTVjaydZ61lolvpL3H6KMfFQEN-jt0MUq4heyQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/njLTPW2Rf4681wG4Ap-rB8uVFoEwZrqiwyYLt1ke9ajsnsBwim8cKTbX1G0x_aFQJeNPJ9tus40ytKYvDWCzbVXqzflU0x5AiM-vpuzaZC0XLFqm6mcsVim5zpL4x8PbBpGK4h_fsFkQKl9iIwT5Ppy0E7DkH9aNbo9wu8Wrj5preTKMWiylOsv-P7SPCrw0oyM7CJonKrKaSvafNzF9dCcH6GQVzRaP76MpGxM3nOotnShHnVgkHyV2dmahbICTAY8_baEbFeF5F0vwFgsYgkThzqyuAze4xmCxlM0ZxfAy4jkeSYskOUdOmGj0zhyvcpVMW9EqMivtFxI5pZSrvQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p>@iaghapour • 👥 50.8K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-25 22:32:20</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-26 00:08:19</div>
 <hr>
 
 <div class="tg-post" id="msg-2613">
@@ -306,13 +306,13 @@
 دقیقاً همان چیزی است که ادامه‌ی این وضعیت به آن نیاز دارد.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 3.76K · <a href="https://t.me/iaghapour/2613" target="_blank">📅 22:08 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.94K · <a href="https://t.me/iaghapour/2613" target="_blank">📅 22:08 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2612">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">کل ریپازیتوری گیت هاب علیرضا که شامل X-UI و S-UI میشد بسته شده و هنوز دلیلش مشخص نیست.</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/iaghapour/2612" target="_blank">📅 17:30 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/iaghapour/2612" target="_blank">📅 17:30 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2611">
@@ -342,13 +342,13 @@ https://t.me/megacenter0
 @Megav_admin22
 در صورت بالا نیامدن سایت ، بدون وی پی ان امتحان نمایید
 ✅</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/iaghapour/2611" target="_blank">📅 20:14 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2611" target="_blank">📅 20:14 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2609">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">کل ریپازیتوری گیت هاب علیرضا که شامل X-UI و S-UI میشد بسته شده و هنوز دلیلش مشخص نیست.</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/iaghapour/2609" target="_blank">📅 19:58 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/iaghapour/2609" target="_blank">📅 19:58 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2608">
@@ -358,7 +358,7 @@ https://t.me/megacenter0
 کاش تلگرام بیاد از شما یاد بگیره :)
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/iaghapour/2608" target="_blank">📅 12:07 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/iaghapour/2608" target="_blank">📅 12:07 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2607">
@@ -375,7 +375,7 @@ https://t.me/megacenter0
 در مجموع، به نظر می‌رسه این روش هنوز پایدار نیست، اما از بچه‌های تیم خواستیم تست‌های بیشتری روش انجام بدن. اگر خودتون هم مایلید آموزش رو ببینید، می‌تونید مستقیماً به کانال یا گروه سنایی مراجعه کنید.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/iaghapour/2607" target="_blank">📅 22:04 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/iaghapour/2607" target="_blank">📅 22:04 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2606">
@@ -401,7 +401,7 @@ https://t.me/megacenter0
 قطع اینترنت به هفتاد و پنجمین روز خود رسید.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/iaghapour/2606" target="_blank">📅 18:43 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/iaghapour/2606" target="_blank">📅 18:43 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2605">
@@ -415,7 +415,7 @@ https://t.me/megacenter0
 دانلود اپ از گیت‌هاب پروژه
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/iaghapour/2605" target="_blank">📅 14:15 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/iaghapour/2605" target="_blank">📅 14:15 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2603">
@@ -424,7 +424,7 @@ https://t.me/megacenter0
 آدم راننده شوتی باشه به مراتب اضطرابش كمتر از کسیه كه شغلش تو ايران به اينترنت وابسته هستش...
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/iaghapour/2603" target="_blank">📅 21:34 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/iaghapour/2603" target="_blank">📅 21:34 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2602">
@@ -479,7 +479,7 @@ skip-SSL
 با تشکر از ثنایی عزیز.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/iaghapour/2602" target="_blank">📅 18:32 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/iaghapour/2602" target="_blank">📅 18:32 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2601">
@@ -492,7 +492,7 @@ skip-SSL
 پ.ن:  خانم مهاجرانی اگه دوباره عصبی نمیشید خواستم بگم کاش به فکر امنیت اقتصادی مردم هم بودید! کاش به فکر امنیت ذهنی و روانی مردم هم بودید! کاش یه فکری برای چند میلیون آدمی که با قطعی اینترنت بیکار و ناامید کردین هم بودید!
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/iaghapour/2601" target="_blank">📅 14:15 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/iaghapour/2601" target="_blank">📅 14:15 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2600">
@@ -503,7 +503,7 @@ skip-SSL
 — عراق تلگرام رو رفع فیلتر کرده.
 — سوریه هم که ویزا و مستر کارت و...
 این که ما درگیر فیلترینگ مسخره هستیم واقعا گریه داره...</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/iaghapour/2600" target="_blank">📅 09:04 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/iaghapour/2600" target="_blank">📅 09:04 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2599">
@@ -522,7 +522,7 @@ skip-SSL
 یک متخصص بیکار محسوب میشم.
 ©️
 پیام ارسالی از کاربر shafikhany</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/iaghapour/2599" target="_blank">📅 01:31 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/iaghapour/2599" target="_blank">📅 01:31 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2598">
@@ -531,7 +531,7 @@ skip-SSL
 حدودا 500 پیام بررسی نشده از 2 روز پیش داریم که پشتیبانی تا فردا همه رو بررسی میکنه.
 جدا از بحث بالا، از ته دل آرزو میکنم تو این روزهای عجیب و غریبی که داریم می‌گذرونیم، حال دلتون خوب باشه. می‌بینیم و حس میکنم که زندگی چقدر برای خیلی‌ها سخت شده و دغدغه‌ها چقدر زیادن.
 امیدواریم هرچه زودتر این روزهای سخت جاشون رو به روزهای روشن‌تری بدن. هوای خودتون و دلتون رو داشته باشید.</div>
-<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/iaghapour/2598" target="_blank">📅 03:02 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/iaghapour/2598" target="_blank">📅 03:02 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2597">
@@ -577,7 +577,7 @@ skip-SSL
 لینک گیت‌هاب پروژه
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/iaghapour/2597" target="_blank">📅 23:25 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/iaghapour/2597" target="_blank">📅 23:25 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2596">
@@ -606,7 +606,7 @@ skip-SSL
 متن تهیه شده توسط نویسنده اسکریپت KevinDNS
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/iaghapour/2596" target="_blank">📅 23:21 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/iaghapour/2596" target="_blank">📅 23:21 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2595">
@@ -627,7 +627,7 @@ skip-SSL
 پ.ن: حالا فارق از این حرفا داره میگه اینا دارن از کاربراشون جاسوسی میکنن برای همین ما باید اپ های خودمون رو داشته باشیم... من حرفی ندارم.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/iaghapour/2595" target="_blank">📅 18:19 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/iaghapour/2595" target="_blank">📅 18:19 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2594">
@@ -639,7 +639,7 @@ skip-SSL
 تا همین چند وقت پیش با کلی استرس می‌گفتیم کسب‌وکارهای نوپا و خونگی تو «مرز نابودی» هستن و همه‌مون چشم‌انتظار بودیم زودتر اینترنت وصل بشه؛ ولی الان دیگه حرف از مرز نیست. خیلی‌ها کل سرمایه، جوونی و حاصل سال‌ها تلاششون جلوی چشماشون دود شد و رفت رو هوا. کاش دردی که افتاده رو دوش این مردم، میافتاد رو دوش مسئولین...
 🆔
 @NetProPlus</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/iaghapour/2594" target="_blank">📅 11:37 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/iaghapour/2594" target="_blank">📅 11:37 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2592">
@@ -774,7 +774,7 @@ skip-SSL
 در حالی که دولت تلاش می‌کند قطعی‌ها و طرح‌های بحث‌برانگیزی مثل اینترنت پرو را صرفا به شرایط اضطراری گره بزند، کاربران و کسب‌وکارها همچنان منتظرند تا ببینند آیا این وعده‌ها در عمل به یک اینترنت آزاد و بدون محدودیت ختم می‌شود یا صرفا وعده‌ای برای کنترل نارضایتی‌های فعلی است.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 34K · <a href="https://t.me/iaghapour/2585" target="_blank">📅 21:12 · 15 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/iaghapour/2585" target="_blank">📅 21:12 · 15 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2584">
@@ -878,7 +878,7 @@ LatestReleaseMirror
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 38.7K · <a href="https://t.me/iaghapour/2578" target="_blank">📅 22:28 · 13 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 38.8K · <a href="https://t.me/iaghapour/2578" target="_blank">📅 22:28 · 13 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2577">
@@ -929,7 +929,7 @@ LatestReleaseMirror
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/iaghapour/2576" target="_blank">📅 19:53 · 12 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 49.7K · <a href="https://t.me/iaghapour/2576" target="_blank">📅 19:53 · 12 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2575">
@@ -953,7 +953,7 @@ LatestReleaseMirror
 «اینترنت پرو» یک امکان رفاهی نیست؛ ابزاری برای کنترل نقطه‌ای و عادی‌سازیِ اینترنت طبقاتی است. بهای اصلی این سیم‌کارت‌ها پول نیست؛ حریم خصوصی ماست.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/iaghapour/2575" target="_blank">📅 15:30 · 11 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/iaghapour/2575" target="_blank">📅 15:30 · 11 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2573">
@@ -1001,7 +1001,7 @@ LatestReleaseMirror
 <li>✓ خیر نیازی نیست.</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 38.6K · <a href="https://t.me/iaghapour/2571" target="_blank">📅 00:25 · 10 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 38.7K · <a href="https://t.me/iaghapour/2571" target="_blank">📅 00:25 · 10 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2570">
@@ -1033,7 +1033,7 @@ LatestReleaseMirror
 البته نظر شخصی خودم اینه که اگه در حال حاضر واقعاً مشکل خاصی ندارید، در نظرسنجی همان گزینه
 (خیر) را انتخاب کنید
 .</div>
-<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/iaghapour/2570" target="_blank">📅 00:24 · 10 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 39K · <a href="https://t.me/iaghapour/2570" target="_blank">📅 00:24 · 10 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2569">
@@ -1059,7 +1059,7 @@ pull
 گیت‌هاب یک سایت حیاتی برای توسعه‌دهندگان است؛ سوءاستفاده از آن ممکن است باعث حساسیت شده و دسترسی به این پلتفرم مهم را دوباره از کار بیندازد. (خارج شدن از لیست سفید و...)
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/iaghapour/2569" target="_blank">📅 19:21 · 09 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 37.5K · <a href="https://t.me/iaghapour/2569" target="_blank">📅 19:21 · 09 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2567">
@@ -1131,7 +1131,7 @@ GooseRelayVPN
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 50.8K · <a href="https://t.me/iaghapour/2563" target="_blank">📅 14:18 · 08 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/iaghapour/2563" target="_blank">📅 14:18 · 08 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2562">
@@ -1256,7 +1256,7 @@ KevinNet
 ﻿
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/iaghapour/2555" target="_blank">📅 13:20 · 06 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/iaghapour/2555" target="_blank">📅 13:20 · 06 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -1302,7 +1302,7 @@ KevinNet
 با تشکر از ایوب عزیز.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/iaghapour/2553" target="_blank">📅 20:41 · 05 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 40.5K · <a href="https://t.me/iaghapour/2553" target="_blank">📅 20:41 · 05 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2552">
@@ -1416,7 +1416,7 @@ IRCF
 جواب به سوالات پرتکرار شما + بهینه ترین روش اتصال با پروتکل DNS
 🔹
 توی این ویدیو به پرتکرارترین سوالات شما درباره ساخت فیلترشکن جواب دادم. در نیمه دوم هم یک روش فوق‌العاده و بهینه برای اتصال با پروتکل DNS رو به صورت قدم‌به‌قدم آموزش دادم تا پایداری بیشتری…</div>
-<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/iaghapour/2542" target="_blank">📅 17:08 · 02 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/iaghapour/2542" target="_blank">📅 17:08 · 02 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2540">
@@ -1530,7 +1530,7 @@ v0.9.0
 اطلاعات بیشتر در گیت‌هاب
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/iaghapour/2534" target="_blank">📅 00:31 · 02 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/iaghapour/2534" target="_blank">📅 00:31 · 02 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2533">
@@ -1575,7 +1575,7 @@ v0.9.0
 👌
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/iaghapour/2529" target="_blank">📅 17:53 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/iaghapour/2529" target="_blank">📅 17:53 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2528">
@@ -1623,7 +1623,7 @@ v0.9.0
 
 <div class="tg-post" id="msg-2522">
 <div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OpBWs2SW74QIyQcjVfor2UOEwtyQjyeuyi6pk4IENA3Wnkm985fXLhoCNwWdxwaYtElxxYyrLODb-b5vRYM3-iKGP6uTlzxy7aLGHO6nNv9NCq5nPp47DXwCzOqVJQxEta_SzvzLoioqSBfM-3cHwQukwn3Ll1VfeYPRR_MreUKaxOJWSpW9xIzmcJOGGu1sZR8YUY3L-VkooS2LoH3cSig-qtJ98-WuoXrYEb5DfTjTuJuDq4buHrvvoDFXV6vkP5r5krrPYuTqXiUd_7HgQquKkh7iqRZmKDb1Rrz4HG2913N44bXlHT60FxE9X2qgPOL3s_QrVTS2sK6hM9KYfQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/k0wEf7LxgS4CHhxpQq2vlpWoC8zeigXUOgOiJ657ocEaNHHEKr6EMzjpedSaZYyCLWH24c42WBMnX9FkD7N-h7jq_zE7OyNk5gGNxSV3I_LvluVVa8jFU-xObJy3kxk-krBRvVRYCovCr-G752lMRev4vYFKMy2xtqNaXsuNAJ5p-i3RtZhqSlTwR_0CasfsgrGrMjG718aHdrQJcSQxjdLrsSnbXgxXUsy-3s9sHR8EOKmfUhADEqk-wkZZw3dmDETCFGEe2d7DytZw7xKMZetB4UOyJJSx8vJLGOWmxRlFRIllCQFhT72oV2iXlRvXuavCg3qH4W1CFUo8D0P9Gg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚠️
 چرا جهان، زندان دیجیتال ایران را نمی‌بیند؟
 بیش از دو ماه است که اینترنت در ایران قطع شده و میلیون‌ها نفر در یک «اینترانتِ» محدود و ایزوله حبس شده‌اند. کسب‌وکارها نابود شده و ارتباطات فلج شده است، اما در کمال تعجب، سازمان‌های مدعی حقوق بشر خود را به خواب زده‌اند.
@@ -1638,7 +1638,7 @@ v0.9.0
 
 <div class="tg-post" id="msg-2521">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nwT-N5hxaIHL5Onm3xqRVhgsUv068BHgOR9ssmyVeD_3NHhlRFP5PG75SNoeUtQNvf7z2MFHxcqQMqy6KuYyus0dHGeq0zoTZsKR-ELipX67IRypPgGTaTcwtKFfeMbA2AdPY15TbIRYbW5edQtg-uqzl01i0B3QowRoR4Z-xl3SXG0uZQ0nPWeVxTWshkR2wRD-SGCCoGMVR4ZGWSOXyvDq58FLtXtjnoOHKX7Fszc4XLotgv6tHq1c4g5bR00s-cKDTnyWKdCJRmj_pJvXhXFS_zMrhn5nkUdwCs-_ALsw6PIYA9ItBIi6N6ckB85aD9DvGj7I1Qe9KsIqSsIPWw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UKZ0bqOPvXKr5A4wIkO-6QGFKUQHRadZWgiEnfp8l9V6e8V5-V5qdfQ1xy_ys7wRdjLo7irFLYolXyblOYXdfC52aWUyZGRvP2hVVFEGaEu9PrOb4MlcyMYT8LAm1HugOXsDTMv0bMyIKhqDHAdqu2xR-nusUZ6wTKvhQRnsZlCP6b5eE4dX39JOeGuLP65EN5QHXii4qvUN6QAQsb_QLgUBw31AZUh7_RkXa7KpjGoSmAAsYjHKwY93RMomg5QhPa_OnM61axbAgPgLHOIldMr8z5jR1Vk-AHtsC3VOJjTNmPdlZJ9yu4eOTAvv_dZVeNd9h7upEfClC_Ccsbws0Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بهترین کانفیگ فروش دنیا
 😊</div>
 <div class="tg-footer">👁️ 26.2K · <a href="https://t.me/iaghapour/2521" target="_blank">📅 15:30 · 31 Farvardin 1405</a></div>
@@ -1679,12 +1679,12 @@ v0.9.0
 #DigitalBlackOutIran‌
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/iaghapour/2519" target="_blank">📅 11:30 · 31 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/iaghapour/2519" target="_blank">📅 11:30 · 31 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2518">
 <div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UAthqcStWv8oH_FHdj2xhvNfWvSQnq3J9qMRuBOZN1roUk3k96sr8GvBS2raPNYLUFSig2Tddfmw2m--o3aiz0h9kEGVg-ur91RFtjIbPVwFwvr02H7DVt05DcQWQKCEKHKZzE2LCnvqPPx8gveI1V6_fwjruqpeFnxm7nTmo0OV9xAFTIB3DpUDO8bCFtMIjNkM6WAMuGTIwZuTmKSTME6cv1bLwTsdWJiOYWAPw3s2bOGyS1xJu6zXxuPOcBNMs_2ZmmaC8OelIBGLTgyjttsGcXCVghddIFI-ayCNOOkf5HxqBWzTtiF2cxHBm4QjoKQeJ4GMCiTsOsLsDP4pww.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/au50rUCLSpr9cvUcfXY5UNyky63J1JMV1Ng96pm_5a9yiTG101aMG4hDr24b97xrmr0DKzuKZJQN93PT6T3G3NAh09aR6PwFpVN0rB67yZ_CljWCsF-LmKIa40oZTOkiB3fiDnGCt0_5QAaMn5aD4REMtk8UirGDflKyRjUsPcoFIE5zoyeQPDFmM-DK_2cqxS7dypAqGzoKhV03446zc7idis401sIJFbKiKTdDI4nmpKY2Y2xl7kq8Iwzq0BDnk2kgccNz1rCwxoN1y0Q7jdMUQGOYDH7SIOPg15RfCYA5j7LYKQzfQ6O6SqIWZ6cV8tpKVQaKjALNuqTWXZtt_w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💢
 تعطیلی پلتفرم «کاموا» در سایه جنگ و قطعی اینترنت
 🔹
@@ -1700,7 +1700,7 @@ v0.9.0
 
 <div class="tg-post" id="msg-2517">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J-W2txwmQ6BvTNqgwlt0athvXCuG8vQqvyAjE62CT2G6-xZjZZggooFsZa0Mf71rY52jIis_TKTdA-M9Ac5UlYXOD1e811lqZjyNHkAQmssEVy63OksZGiejzwSKTdCTTRV54xZKpYCV-BCeebDDhF12utaR3RK8udmOL3lqeLV5SxoR8KEn2oPcZjP-SPcu71sWrhklHIj4zqO76pbAzns0r1yxY_GKp_7PdCwvnlAbeXYJnr4Ooiv7WR0dDvKANZMhRetYFUyn1c2S5Pm9d2508Q0lqGM-Tt0_nGhO5rSQi13OC1cCMYF1briMpxFRwVcpCh4UHMdn5621D_lWdw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jAh6ynAFsQ9tCY3Ob0NMV23LMDO0YRfHx2FIXRjhWH3d3hyV6AzlmA8Nkb088BOlRqUfxMFqRa5uVrz4QegxdL9_3KnCieLta8JXV4zVvRct6RxHdrIOGZ3D12qtc8jrvlF_NLiLHomLtLK0iy0WBVG4yKwRLddcji4SXh3gRAVadXW8FquF9Nxrn2iqSLJRPdQFeSB0Vb0mZbPWR_tP4bh2sg_ifFNy4wTdvTxP7EHMuXMJKWrIC7JVEwaRBCmGionHeryTmAoHQ90ckkLLQt_hlbR8cC9PM9UU8UleJxj63CxoO8hq1KQ1Zumqh6K9Dgo_nWGNs1KC7Icgh4bC2A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 وضعیت بحرانی اینترنت در ایران؛ رتبه ۹۸ در میان ۱۰۰ کشور جهان!
 📉
@@ -1723,7 +1723,7 @@ v0.9.0
 
 <div class="tg-post" id="msg-2516">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pFkUvyYnkORGlCeHSWqMGCcVM-IQihX-S3IWb4T9QhbWGUT2zqWJpEENEgWImgGZ-4oZVy6cGqCA-0pCcZ_PkBQJVwVVXtv9y4KAoqU72FesEeZwcXECWnK_T4W7S1m4W4mJq4NyJAM_rvjviWhHSYVJjQ2lMihPdLExRGuIob6uvdh3-HIgc27yAcnA7qN9hAo035tlY_ElSk-ZCaKcC5SL8pgpnvgk8j2B-DZHmM7vfGJKKPQSXu0h_w-8547tx4FRmVYrUXGxf5pI1MYAWxtLHZOYSJxqz8or_fOC8mgsCQ_eSJ1QHL8iMLPVXiCD7OvkB2Y7yFqDQPY_cIp_OA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FOfQhT3443-KYyyKSH0iAnqVGd7g3XiVN1ypCt3IdAYv9BUVQunR1WPsiJvny1Zx3o6xuY1g_MLTwA4rttKUsYFhDMKZsZngO3b2uGXJjD4cI1yJwMrGqf6whNrltKEwBAI73c1pXsY-yzh3cSTLy7AEdzEHdzr8gS3gebXg71PMcVtVntNHaxy7u3ZYhcHuCcqGOzXfMXut8nK4byEQUwkJ4DKDiaMz29Ef6Fpf7hULgOAQU-BVquwXGOs2UcmPo9jMdcrS0dA42eR6Gh7ELPcQ8JdtKxTRF-hd5SDD3QoCS5U5bVP9aSKaGPqUShmrPRt1dOJkkoMJfnZm3lXzvg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📱
 معرفی اپلیکیشن Range Scout؛ اسکنر قدرتمند DNS برای اندروید
 🔹
@@ -1746,7 +1746,7 @@ v0.9.0
 
 <div class="tg-post" id="msg-2515">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rL5v_AtPA6-AUpf9AfF0cimbnGX8oPJB8HyKZ9_qk1M3fwuYsf-Pt0GZkjSTsRwhx52SK6LhbbXY4UJqExqdb-Q3d6WoS-XBDgEtkoTxeve7HPRV9TKD-epu7eHA_zKwjbMNcu3ewyQpCX3jXxqmQd4vVL4hOuQmNAhuP6APTZxCeWMtpBsOKSbQC7etR5mfTeYqQ9hV3Ul17wQZVhhO0mSkRstTd8bPpXxQaIAoV5yJPOdUDXYkacGOL7fY9CLiNlVdBqDoXmjeIKtYc0Wp4N-DS0OvxciblfqOSGKgRXvwf1pLNskr7EGcOZFR6R_sZR8VDIIZq82ySa0aQTFbTA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n-35ywQm45exRdkPsRiSTwHVfMPrSneW0LGLhYeXLBl7HZeH9-c2OO4-XjdLqr2-B4Wmr21bexG6E46H53lJsoEPJ8t1HaRluoHXDH_6saJn4S0SGVVgSP-5xrzvSEnQOaTQHorpXfYRQmHcva9IKOmXKoBdZPwAGAds_OLECEGsh7Aa5z0-ey1eFiahPOUYvgoEgHIYnkQRzj3iavrFX5A7oT3yaMIOYPYDqD_fh1d3zjOfK3Kv4Iqvm7ftcgmmqgmMZNBolKE91p4-np2avhfBFHOKgavp-e-k3R5gpfAN3vzXKibuiFn2b7r7AsSR98R3eBp7_s0ltVoZEdhaZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی ابزار MasterDnsWeb
 🔸
@@ -1795,7 +1795,7 @@ v0.9.0
 
 <div class="tg-post" id="msg-2511">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rRfCAOIYerDylbyCYPZVVH7VohRPTV2Ye4nOlV-3NaJ3hp57J_ZerM9nNNWiSNAmox3M_jzSnH148zAX_jIsK-z-_xBPFte6sIKHwqitD6NzJ3Zp2aMahljNL6lSxv2YKLYaZy37kDrrBGveQq_Nri8GxgZvwtstX5Aqe5ydWIai6ntGnTp35VArMu90m5FlPJQNeNJLjIqwUOWJsZQeqn3ey7Mql-O9QVEz4xSOaq9QVactG02d7AhZ7ycREKpUxOjFlFPU1nGeoHimrvCL5vZVkg2A3v1cfYjVErAH_-KaUeekfQubEnI-PWrWfaNmJr8_FmK35Tsoik8w461IbQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JxaH17b9c8pQy7JoPrCNl9DuubI-Twyp-d9Nuc5C0mHntwSFL-nT9E-RMKQwhuoLmDPb9r5O53gASo2ETIOIrroKoYfVP0w1TtxDjkHK76GcKTNvKbx5i9bkOupKSXYhRUsJPAvbdtLCsPDrQyEQjb6Cd9hAWX7EVlrbTGBWIIjOA_v32aJb2DLaGNzgC4o7Xhxy1btzZU8w0A8V9J4msRygPA4h8bJhKUBRngJlb_BA7HCbqst30cQMFFTANe7zY4_lTbA3qkdxD274XOCDhVRjGKvHysoPYvaz8QSRDje9umarnLOX83v8hda3mC9c7PX1H9FHkq9QNIkpDbsifA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 گیت‌هاب در بیشتر نت ها و دیتاسنتر ها باز شده
 سایت گیت‌هاب (GitHub) به‌تازگی روی اینترنت‌های مختلف و دیتاسنترها باز شده و در دسترس قرار گرفته اما ظاهراً ماجرا به همین سادگی نیست!
@@ -1807,7 +1807,7 @@ v0.9.0
 این اتفاق به این معنیه که دیتای شما در حال عبور از یک مسیر دستکاری‌شده هستش. این نوع مسیریابی غیرطبیعی (Hijacking/Routing Manipulation) میتونه خطراتی برای امنیت داده‌ها داشته باشه یا نشان‌دهنده‌ی پیاده‌سازی سیستم‌های مانیتورینگ جدید روی ترافیک باشه (یا شایدم من دارم اشتباه میکنم).
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/iaghapour/2511" target="_blank">📅 23:28 · 29 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/iaghapour/2511" target="_blank">📅 23:28 · 29 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2510">
@@ -1968,7 +1968,7 @@ v0.9.0
 
 <div class="tg-post" id="msg-2503">
 <div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FPU6OnK1fC8aYO6Ln5l6K61xtkbhirHw4Dizna2PI1S47oqUOhH5RcWMh53svEZLnzrLyD6mExjkW-eieHPVUby4Nz6LF2HXib-gKH9ygtqwKbOunhrZxak8zUzqhreqokA7SCUvPkBgmT9xvkW2rGKxhiJgJYXl9TFPInWvWVgs2CNhMQpF-O1jKspbT9uvyoYaPKB1ySgyDWG1w8R3DDUB5uYM4Wvl1-aMDSrX6MVZRsDkqa8xLfL77IRVPkn981s46e1IrIvUA3bjLBciBK2CM2cG7B9X3E9gXchhy8NcMwXGfr5MQCx3FXOF_PhmuLogOR8nd8IucfwgN39f9Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oB4w1i1-rYshxw-pBKLdvkVKMu9o5RjLbP8c6EtTjUuU3sOZH9-OOja4YxluIhXzzrpUuHLgOjZ82jH_uvYiRt2zSiv-p6RF3hJWjxYLCBjp02O3KQnSrwkbdCrwDb7wnPwV4tZWykA71TwOrwmieAv1E9TNRyq38qrEtbZw1lkh-VXOfQxAtLTH94MVSgORqDd8QIhPLZrPYCQ6ySMAwyv-pLdZsIc9wMTEJaus-Brit5SHQyghVHgda7CKc4Q1JEb7yvFtxwObG61toS8QoPu0ec_5YMeuHL016JLbOTNpT3Br_U90VFZu5Mx4B8BanhnWxMbi1wUy8AL0wr2l5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⁉️
 فکر کن تیتر خبر تو یه کشوری باز شدن گوگل باشه...
 🆔
@@ -1978,7 +1978,7 @@ v0.9.0
 
 <div class="tg-post" id="msg-2502">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cAGlHn3Qvg6rUNXvM-18z5LUbu_qBwr16eivXINGmUtHRkaruQMJpDiUDxkzaYXoalUfw_N4gmiKsMlIE9zYwpMw0G5NmbDuEbFxGR6bThRx_M3nLMnOwn0a4z-DR6MsfIYbTn-KE2WsQQlr1fVhQs61hTgVqctphu3ZFcJluRwFYGPixn1KYu1jQgRxQmqBvIVLq97SBaSuqSfIwtcjUegZpswZHsusaBDO2OX7M8vQyBHfsYEEqvsZ7eoah5EGAGuklBKcMSc0gBr_l8EhkM6cKAZ8utYgpudxcUHvn21hETDPKNy3BuYFvzwqkewOtHPZZroY8eCcuiMn_6UEVQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J9gf5QiUI-3_X_rjBqSDRkBI93q8vtdfqAzswtm2PyHRSFnhRYIggc_86HMDdexKnb0aNMbxNVJTSE0heeSdtMsTT_UPQ_oahZUDCtUa1SaOw611clJDLI_VDmIqneeeKhjX6I-BM6jLQSINM0DGXKdJGcXAyK9FzEhKNRSK2QQ8WcghQ5fwEClCN7SZoiczZdGoCPX1KDeJEPfP-wNXXDnHknJAy6vHv-zA-paZcI_mMpM3K0Sa3ETB9ISSJ5VmJAkzig3CN3JQo-qdzjNpetwpXqMFtd1_MEFOKkMkwtsBlxUvDRb5lW9IyaBn-lp5_geXLohQloExF6p4mNaVew.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیشرفت کردیم و بعد 49 روز و 1152 ساعت سطح اتصال به 2 درصد رسیده.
 😡</div>
 <div class="tg-footer">👁️ 32K · <a href="https://t.me/iaghapour/2502" target="_blank">📅 11:04 · 28 Farvardin 1405</a></div>
@@ -1994,7 +1994,7 @@ v0.9.0
 
 <div class="tg-post" id="msg-2500">
 <div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cMv6NxaMXvAT_z7VVfdSlT2C-BEqiHqSOGBvpX4zDqQixafNPdqE63XwybyNYGwckTMPov5ESYzaKkZJ5F4IK5Frb9-USxR46sjvHueTFL3o18xUKqGelo0-hECcfXeogUj0DTRCKRAMTkZJOeSC8WeFjEjgOcubwEsqCez01E4Px2i-L8-AqF1cw9tZNgUSJmk4JeZjRW_cyHZW6c6kIFmQh9va5P_49DWdcShfC_NSusVGZ5PMYvLwg9_A39XqYHe1NVtuhcEkrGvkhCstM7vk9ui62GGIsVGDYBcg9VCFGhcW8EYWsQNrRJ13jmo3rIhOpUax5jEwYjyJL0336A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZfbUOJleLacADTjfY9JT2D8FRFjh4aZ_C7xFPeIsmX7BHzp46ssuv5Zk9TyxoHa8_MQA8Xyr8YfWbMq86DmENp4gjqxbEmL7c5XE4PsEJuqlLJC7XuoSTuqV28Wh7GZeIHZ6nohLiAzOAE6JugTi_fFgV3QBlwg839IYlEF1GEUs2QD5x8E-Hc9Qip7XZ5lGd_Hx3T9kicwAmO67RLuL23NhCitNWhGGfqx9y-9hyL54fSJtUImfixUAF6WiA1l0Hnbj5IOPMOLQtd4HOlfsrL4m6P_08Dfyf92OUA-m4TLdIS2Qk7HZ-KlWVS3yg1fS1HPkK6dCvNrLc5rRkTwLHQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 موج فیلترینگ آی‌پی های ایرانی
 🔸
@@ -2048,10 +2048,10 @@ v0.9.0
 <div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/913ef6b1f4.mp4?token=lbGhN1QgsyNfz2168I56WwIh3F5VZmnizU1iHsyN6q02-G8smVHhzy0an2JKxcx_Y5z66Za6y8futuksMGHT46KX6dlOqCysXo8V5WS1sNgHa7tARa1R6zc31QzZP5_Cym6awmh3LadGHb-F2P9TZfTAOErAAGUYl_WGlcRn2BSi3lhX_VdVr3awlmIOchjGNE2e7hmdvCMz2ArL5vCHwKoD8uxKgo5SI5lGklmhYnGwLUgsfvuEyoSgOSOLddBHEG8ahlPkyKjsZ9E6-jLXU8u_7Xj9qvHYmzmswKodaicNs90iLr4SBFi4EeCl-IiHbBDHyi-XhzUcU-Ysnd_vTQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/913ef6b1f4.mp4?token=bJ1gfk-Ui_ea6OzAblo-xw_oRiv-pN8DXQq8jCdrMjuQtX8x0Bvr8fDL5lofs7e8M4_TqE78oLnDPFHaQJ67yYIfoJRd3c6v-CJ3EnOexmyVyUVbwP4WZma2nWK4GEvlVvp_zhCYbTwm44arz_AmpvhBlrlipHnmNLbUffWhMgZQc3g00hApD2dwTjUK52mmDtRFvtHfdVT79kutgAb5D8gvLRZ51d0oCrQy_a-gOzW2bHDQs7CfNlx2fsVFjtGIT-Zh_W7iwj8r7Jp90D4LffK_m8cj96HysvR0LbfpuB29qTBAm1lm08hvb_UP7m5_xsVMmH7tJgEe0nDtWaqfPg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/913ef6b1f4.mp4?token=lbGhN1QgsyNfz2168I56WwIh3F5VZmnizU1iHsyN6q02-G8smVHhzy0an2JKxcx_Y5z66Za6y8futuksMGHT46KX6dlOqCysXo8V5WS1sNgHa7tARa1R6zc31QzZP5_Cym6awmh3LadGHb-F2P9TZfTAOErAAGUYl_WGlcRn2BSi3lhX_VdVr3awlmIOchjGNE2e7hmdvCMz2ArL5vCHwKoD8uxKgo5SI5lGklmhYnGwLUgsfvuEyoSgOSOLddBHEG8ahlPkyKjsZ9E6-jLXU8u_7Xj9qvHYmzmswKodaicNs90iLr4SBFi4EeCl-IiHbBDHyi-XhzUcU-Ysnd_vTQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/913ef6b1f4.mp4?token=bJ1gfk-Ui_ea6OzAblo-xw_oRiv-pN8DXQq8jCdrMjuQtX8x0Bvr8fDL5lofs7e8M4_TqE78oLnDPFHaQJ67yYIfoJRd3c6v-CJ3EnOexmyVyUVbwP4WZma2nWK4GEvlVvp_zhCYbTwm44arz_AmpvhBlrlipHnmNLbUffWhMgZQc3g00hApD2dwTjUK52mmDtRFvtHfdVT79kutgAb5D8gvLRZ51d0oCrQy_a-gOzW2bHDQs7CfNlx2fsVFjtGIT-Zh_W7iwj8r7Jp90D4LffK_m8cj96HysvR0LbfpuB29qTBAm1lm08hvb_UP7m5_xsVMmH7tJgEe0nDtWaqfPg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">یه متنی توی توییتر دیدم واقعا قشنگ بود و حال و روز خیلی ها رو نشون میده. میدونم شما هم با این افراد برخورد کردین تو این روزها. یعنی افرادی که در مقابل فهمیدن مقاومت میکنن چون سودشون تو نفهمیدن هستش.
 👇🏻

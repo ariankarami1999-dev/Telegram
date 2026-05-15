@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-25 22:32:20</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-26 00:08:19</div>
 <hr>
 
 <div class="tg-post" id="msg-64933">
@@ -300,7 +300,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mwXAi9GN87AdEr0ODN7Y2ALHNQrbhO08jCjD7Z5zDKbFoHTdW5Ep_ggOeNZ-YfWD7nqEU0EouC-khbKkFUHVxFkUt0sTJwOnzsph_LkKWoSrWiR2y2rFij1fcjviU5rrr1qUergSxBSwxeYNKFlsiFrBP9Bj5yCh67uOI_8htzSPTNj-fUHNffJM3qii5KhmK2e-b_ZfWURD-_u3rmRVjp9J9JbFoWw_JC3RLTS8PtumvJ2b1smmfE_Am93a9lIde8-WCFdzApxQ7q_2E8y94isWlgIr32E5qUcr672rn9sBsnvl6VZI8isfHHSVzDpV-wMZCCPCp4FP0d7ES_Rexg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عزالدین حداد، رئیس شاخه نظامی حماس کشته شد
 @News_Hut</div>
-<div class="tg-footer">👁️ 876 · <a href="https://t.me/news_hut/64933" target="_blank">📅 22:28 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.97K · <a href="https://t.me/news_hut/64933" target="_blank">📅 22:28 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64932">
@@ -325,7 +325,7 @@
 ترامپ:
 یک جمله غیرقابل‌قبول. اگر آن‌ها بخواهند هر نوع برنامه هسته‌ای، به هر شکلی، داشته باشند، بقیه‌اش را اصلاً نمی‌خوانم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 5.93K · <a href="https://t.me/news_hut/64932" target="_blank">📅 20:56 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.7K · <a href="https://t.me/news_hut/64932" target="_blank">📅 20:56 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64931">
@@ -338,7 +338,7 @@
 ‌ ‌ ‌ همراه اول
 2.22.250.149
 23.58.193.140</div>
-<div class="tg-footer">👁️ 8.54K · <a href="https://t.me/news_hut/64931" target="_blank">📅 19:31 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/news_hut/64931" target="_blank">📅 19:31 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64929">
@@ -346,14 +346,14 @@
 <div class="tg-text">همه‌ی اعضاء هیأت آمریکایی قبل از اینکه سوار «ایر فورس وان» بشن و پکن رو ترک کنن، هر چی که از میزبان‌های چینی گرفته بودن [هدیه و یادگاری]، همش رو همون‌جا انداختن تو سطل زباله.
 دلیل این کار احتمال جاسوسی بوده
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/news_hut/64929" target="_blank">📅 17:50 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/news_hut/64929" target="_blank">📅 17:50 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64928">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DGUmfTsx06CEDlkqEgXz8yXiZEocV_-oE1Gg25XunwWumTOOHSD1dEonA2bKf_r0WNYoV93I2ciAFMZ4wMduw0LZpxTUosUZWtQP8SIcjofflhgAh_v9nK5Nx9ieNWCL7upl0h0lJ77BcyTmVRylcOtyLLVYyAPIVtG2NlmUpj7j8_GnSOMaUBT_NxSYYJYEH7i1C_z_JU_1oBNAyxbXLej27rClAhQ__QqV2npEJS3ihVoHJtixtRcp69wrp3DaEA770urK2tljHTcXY9ZH6s_80aZVUrCENQkn3G5fAaD7z8skZBLR2Fska4rGKd06rVjcosnhADUeS5GB_HqBdQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بنظر می‌رسه تکلیف خیلی از مسائلِ کشور در دیدار آخر هفته بین ترامپ و شی مشخص می‌شه</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/news_hut/64928" target="_blank">📅 14:47 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/news_hut/64928" target="_blank">📅 14:47 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64927">
@@ -363,7 +363,7 @@
 🚨
 🇺🇸
 #فوری؛ ترامپ: تعلیق ۲۰ ساله‌ی غنی‌سازی باید یک تعهد واقعی باشد  @News_Hut</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/news_hut/64927" target="_blank">📅 14:39 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/news_hut/64927" target="_blank">📅 14:39 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64926">
@@ -373,7 +373,7 @@
 🚨
 🇺🇸
 #مهم؛ ترامپ: با تعلیق ۲۰ ساله‌ی برنامه هسته‌ای ایران موافقم  @News_Hut</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/news_hut/64926" target="_blank">📅 14:32 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/news_hut/64926" target="_blank">📅 14:32 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64925">
@@ -385,20 +385,20 @@
 #مهم
 ؛ ترامپ: با تعلیق ۲۰ ساله‌ی برنامه هسته‌ای ایران موافقم
 @News_Hut</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/news_hut/64925" target="_blank">📅 14:32 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/news_hut/64925" target="_blank">📅 14:32 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64924">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">تنها هدف حاکمیت فعلی، رسیدن به اولین شرط هست و بقیه شرط بیشتر نمایشی هستند برای بستن دهان طرفداران، چون به خوبی ‌می‌دونند که ترامپ، اوباما نیست و تا زمان انجام توافق، قرار نیست تحریمی لغو شه یا اموال بلوک شده آزاد شه!  منتها ترامپ به خوبی برنامه‌ی جمهوری اسلامی…</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/news_hut/64924" target="_blank">📅 14:02 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/news_hut/64924" target="_blank">📅 14:02 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64923">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">🚨
 ایران از چند روز پیش منتظر پاسخ آمریکا به این پیشنهاد پنج‌بندی بوده، طراحان این پنج‌بند فرماندهان سپاه از جمله جعفر عزیزی با مدیریت احمد وحیدی و تایید مجتبی خامنه‌ای بودند، طبق گزارش خبرنگار ارشد الجزیره، تمامی این پنج بند توسط آمریکا رد شده!  جزئیات پیشنهاد…</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/news_hut/64923" target="_blank">📅 13:40 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/news_hut/64923" target="_blank">📅 13:40 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64921">
@@ -411,7 +411,7 @@
 🚨
 🚨
 #مهم؛ الجزیره: پنج بند ایرانی ها توسط ترامپ بطور کامل رد شده‌اند، مجتبی خامنه‌ای دستور داده بود در صورت رد این پنج بند، دیگر وارد مذاکرات نشوند  @News_Hut</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/news_hut/64921" target="_blank">📅 13:26 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/news_hut/64921" target="_blank">📅 13:26 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64920">
@@ -420,14 +420,14 @@
 <div class="tg-text">🚨
 📰
 #فوری؛ علی‌هاشم خبرنگار ارشد الجزیره: یک منبع آگاه ایرانی به من گفت که تهران رسماً پاسخ آمریکا به پیشنهاد ایران را دریافت کرده است و واشنگتن شرایط ایران را به طور کامل رد کرده است  تیم مذاکره‌کننده ایران پنج شرط را که باید قبل از ورود به مذاکرات در مورد…</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/news_hut/64920" target="_blank">📅 13:22 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/news_hut/64920" target="_blank">📅 13:22 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64919">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">🇺🇸
 ترامپ:  امیدوارم ایران در حال تماشا باشد. ما دقیقاً می‌دانیم چه چیزی را به نمایش گذاشته‌اند. می‌دانید، آنها کمی استراحت داشتند، بنابراین سعی می‌کنند چند چیز را جمع کنند. آنها چند موشک را از زیر زمین برداشته‌اند. همه آن‌ها در یک روز از بین خواهد رفت. هر کاری…</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/news_hut/64919" target="_blank">📅 12:46 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/news_hut/64919" target="_blank">📅 12:46 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64918">
@@ -436,7 +436,7 @@
 🇮🇷
 عراقچی: پیام‌های متناقض آمریکایی‌ها مهم‌ترین مشکل است، هیچ راه‌حل نظامی‌ای وجود ندارد و فکر می‌کنم ایالات متحده باید این واقعیت را درک کند. آن‌ها دست‌کم دو بار ما را آزموده‌اند و اکنون به این نتیجه رسیده‌اند که راه‌حل نظامی وجود ندارد!
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/news_hut/64918" target="_blank">📅 12:45 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/news_hut/64918" target="_blank">📅 12:45 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64917">
@@ -453,7 +453,7 @@
 <div class="tg-text">📱
 👑
 یکی از فیلترشکن هایی که گزارش اتصال خیلی بالایی از اون میاد، فیلترشکن غیررسمی سایفون بنام شیر و خورشید هست، دقت کنید این یک ورژن غیررسمی هست که تعداد زیادی از کاربران تونستند با این روش به اینترنت بین‌الملل درستی پیدا کنند! در آخر پست لینک دانلود این اپلیکیشن قرار می‌گیره</div>
-<div class="tg-footer">👁️ 8.37K · <a href="https://t.me/news_hut/64917" target="_blank">📅 12:44 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/news_hut/64917" target="_blank">📅 12:44 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64916">
@@ -686,7 +686,7 @@ https://t.me/hotVPNplus/9
 @HotVpnPlus
 |
 @HutNewsPlus</div>
-<div class="tg-footer">👁️ 8.62K · <a href="https://t.me/news_hut/64916" target="_blank">📅 12:44 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/news_hut/64916" target="_blank">📅 12:44 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64915">
@@ -704,7 +704,7 @@ https://t.me/hotVPNplus/9
 می‌دانید، آنها کمی استراحت داشتند، بنابراین سعی می‌کنند چند چیز را جمع کنند. آنها چند موشک را از زیر زمین برداشته‌اند. همه آن‌ها در یک روز از بین خواهد رفت.
 هر کاری که در چهار هفته گذشته انجام داده‌اند، در یک روز از بین خواهد رفت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/news_hut/64915" target="_blank">📅 10:26 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/news_hut/64915" target="_blank">📅 10:26 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64914">
@@ -712,7 +712,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">🚨
 📰
 کان نیوز:اسرائیل معتقد است که ترامپ پس از بازگشت از سفر چین برای از سرگیری عملیات نظامی علیه ایران تصمیم خواهد گرفت.  مقامات ارشد ارتش اسرائیل و فرماندهی مرکزی آمریکا (CENTCOM) در هفته گذشته درباره احتمال از سرگیری عملیات علیه ایران گفتگو کرده‌اند. بحث‌ها…</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/news_hut/64914" target="_blank">📅 10:23 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/news_hut/64914" target="_blank">📅 10:23 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64913">
@@ -728,7 +728,7 @@ https://t.me/hotVPNplus/9
 خرید
 @amoadmins_bot
 @amoadmins_bot</div>
-<div class="tg-footer">👁️ 42.7K · <a href="https://t.me/news_hut/64913" target="_blank">📅 03:09 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/news_hut/64913" target="_blank">📅 03:09 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64912">
@@ -737,7 +737,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">رسایی؛ نماینده‌ی مجلس:
 دولت قصد داره میزان سهمیه ماهانه بنزین ۱۵۰۰ تومنی و ۳۰۰۰ تومنی رو کاهش بده و قیمت بنزین ۵۰۰۰ تومنی رو هم به ۲۰۰۰۰ تومن برسونه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/64912" target="_blank">📅 19:59 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/64912" target="_blank">📅 19:59 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64911">
@@ -751,7 +751,7 @@ https://t.me/hotVPNplus/9
 </div>
 <div class="tg-text">لحظه‌ی دست دادن ترامپ و شی
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/64911" target="_blank">📅 13:36 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/64911" target="_blank">📅 13:36 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64910">
@@ -760,7 +760,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">خسته‌ایم و کم‌رمق
 😂
 #hjAly</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/64910" target="_blank">📅 02:36 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/64910" target="_blank">📅 02:36 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64909">
@@ -768,7 +768,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">خسته‌ایم و کم‌رمق
 😂
 #hjAly</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/64909" target="_blank">📅 02:33 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/64909" target="_blank">📅 02:33 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64908">
@@ -781,7 +781,7 @@ https://t.me/hotVPNplus/9
 در‌صورت تصویب این قطع نامه ترامپ به عنوان فرمانده کل قوا حق قانونی حملات مجدد به ایران را نخواهد داشت.
 اگرچه در نهایت ترامپ حق وتوی این قطع نامه را خواهد داشت
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/64908" target="_blank">📅 23:04 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/64908" target="_blank">📅 23:04 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64904">
@@ -810,7 +810,7 @@ https://t.me/hotVPNplus/9
 </div>
 <div class="tg-text">با اعلام خبرگزاری قوه اعدامیه با اذان صبح امروز حکم اعدام «احسان افراشته» به اتهام جاسوسی اجرا شد!!
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/64902" target="_blank">📅 09:17 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/64902" target="_blank">📅 09:17 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64901">
@@ -830,7 +830,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">مارکوروبیو داخل «ایر فورس وان» دقیقا لباسی رو پوشیده که مادورو پوشیده بود
 هنوز نرسیده ترول رو شروع کردن :)
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/64899" target="_blank">📅 04:09 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/64899" target="_blank">📅 04:09 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64898">
@@ -839,7 +839,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">باز تهران یه چص‌زلزله اومد، منتظر باشید طهلیلگرا ربطش بدن به آزمایش هسته‌ای
 🤯
 #hjAly</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/64898" target="_blank">📅 03:03 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/64898" target="_blank">📅 03:03 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64897">
@@ -891,7 +891,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">من هیچ جانوری رو ندیده بودم که آرزوی مرگ یک نوزاد رو بکنه...
 جمهوری اسلامی حکومت بی‌ناموسا و حرومزاده‌هاست، اگه حتی جایی یک درصد با اینا همنظر بودی، به انسان بودنت شک کن
 #hjAly</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/64892" target="_blank">📅 14:04 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/64892" target="_blank">📅 14:04 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64891">
@@ -907,7 +907,7 @@ https://t.me/hotVPNplus/9
 ترامپ:
 ملانیا بهم  گفته باید رفتارت رو درست کنی تو دیگه رئیس جمهوری پس از کلمات رکیک و فوش استفاده نکن. من هم همین کار رو می‌کنم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/64891" target="_blank">📅 09:38 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/64891" target="_blank">📅 09:38 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64890">
@@ -992,7 +992,7 @@ https://t.me/hotVPNplus/9
 اینو که ما خیلی‌وقت پیش گفتیم
 😎
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/64884" target="_blank">📅 20:56 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/64884" target="_blank">📅 20:56 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64883">
@@ -1042,7 +1042,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-post" id="msg-64878">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">حالا ترامپ با یک نیروی معجزه‌آسای تاریخی بنام #محاصره‌_دریایی به دنبال حداکثرِحداکثرِحداکثرهاست!</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/64878" target="_blank">📅 19:09 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/64878" target="_blank">📅 19:09 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64877">
@@ -1064,7 +1064,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">🇺🇸
 ترامپ: ایرانیا بهمون گفتن بیاین اورانیوم های مدفون شده رو خودتون بردارین، چون ما فناوریش استخراجش رو نداریم
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/news_hut/64875" target="_blank">📅 18:47 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/64875" target="_blank">📅 18:47 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64874">
@@ -1084,7 +1084,7 @@ https://t.me/hotVPNplus/9
 ولی با توجه به حمله‌های مداوم آنها به کشتی‌رانی بین‌المللی، حمله‌های ادامه‌دار به متحدان آمریکا در خاورمیانه و حالا هم این پاسخ کاملا غیرقابل‌قبول به پیشنهاد دیپلماتیک آمریکا، به‌نظر من وقتشه مسیر عوض بشه.
 در این زمان “پروژه ازادی پلاس” خیلی ایده خوبی به‌نظر میاد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/64873" target="_blank">📅 09:17 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/64873" target="_blank">📅 09:17 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64872">
@@ -1172,7 +1172,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mKOH24YGL87thzla4gGr2Tpgeblz8jurId68xZvqd41264nrz3RK8BdrHa9-KRdmN1ZzVtd9gjvIHwnDyP-Kf8zqB6KRUHrIvcI0BT8JvqvmlsTq5IwXyFoJCdQY7u59xXfYBHNmQ4V3JPrvn6_G-oEJaXH_NsacRKxtwPdybbOsgN6-Qo9BgpfXos0ED6q7vFUV5N_KsEccGOtPOecwsZ78hGAT9ll446UFGK9pWEP4ahnjviR5TCLcqzOvQzGUVw79RI21uz0NfV-wmD9KMsSddG1eGhQE7H2cNwkTdQwtQ22UVqj9kdpFS_Pi0vMHJ3kShXA32QL24tUi7bJocw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">داریم به دو رویداد مهم نزدیک می‌شیم  ۱.اولین‌دیدار ترامپ در دوره‌ی جدید ریاست جمهوری خود با رئیس جمهور چین ۲‌.آغاز جام جهانی ۲۰۲۶  می‌شه گفت عملیات آزادی که ترامپ استارتش رو زد بخاطر دیدارش با رئیس جمهور چینه و می‌خواد حداقل وضعیت تنگه رو از این آشفتگی در…</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/news_hut/64865" target="_blank">📅 02:08 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/news_hut/64865" target="_blank">📅 02:08 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64864">
@@ -1180,7 +1180,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">🚨
 🇺🇸
 ؛ ترامپ: از پاسخ ایران راضی نیستم   @News_Hut</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/news_hut/64864" target="_blank">📅 23:57 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/news_hut/64864" target="_blank">📅 23:57 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64863">
@@ -1229,7 +1229,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">🚨
 🇺🇸
 ترامپ: ایران به مدت ۴۷ سال با ایالات متحده و بقیه جهان بازی کرده است (تأخیر، تأخیر، تأخیر!)، و سپس بالاخره وقتی باراک حسین اوباما رئیس‌جمهور شد، به «گنج» رسید. او نه تنها با آنها خوب بود، بلکه عالی بود، در واقع به طرف آنها رفت، اسرائیل و همه متحدان دیگر…</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/64859" target="_blank">📅 21:42 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/64859" target="_blank">📅 21:42 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64858">
@@ -1284,7 +1284,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromAriya</strong></div>
 <div class="tg-text">احتمال حقیقت پیدا کردن پست آخرت از تو رابطه رفتن من بیشتره</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/64855" target="_blank">📅 20:19 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/64855" target="_blank">📅 20:19 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64854">
@@ -1306,7 +1306,7 @@ https://t.me/hotVPNplus/9
 
 <div class="tg-post" id="msg-64852">
 <div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/I5PkrLEpt61p7T9ZD2AQVebUJ00dtBpnZbyuUlBC9Ajj2uHFhMxRC7re4NPbuxjtAk1-b46HJDivijbqNpYGCZnCH5tF7HYnYs6cMN7RgNwV6AJpGdzUMX21nEpNAe6KHIgx0CVDwVFitNj0IhOcH3i9w_K1xBspWKcYWecPXF5RYtIsnTwWA_9wfcYy4ACNZBm8n_TZVUy73xVTGdyR04XOczoDWxoDm8NFJaa8-Nx81OSYm7yy5WCZ7VJokmeidzOlB1H-41rJ7xVpwnPq3AKk-AWoBvANcXILo9JlaeMhwufuoFroN0WwlKZoNrLUNeYOAIhpvn91CciWBO4FXw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WnIkWZEiTqoLpML9lTRSDgWMKNTLxZJtoNAPv807wYERDTXiyN3oqnOl1fJj5vvGh5S_U3SEFBDl-EoBemIkeSufjyjfVCOwgWOyL18XPTJrXYBD52hm3Df6je2HOU24LVfTNyxJBn6zBS08RA7FYL8YkrrgSz9dz9k8LXzMeXTITLnJy6uE4DjDfHmkCYjW8ZiLN1V1tLlx2PSrzluuFXnR6kJnpu0SN1hDwosngWDe80Gi3XVwYauCsowQ005g1UoKnHnyudbQhT9v2mpa1p92K-T-RNAZCCrwXY06bKysRbAoH8c0k-C53s5WNPgrSFpv4EgULeHW_vz40GRBQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📰
 خبرگزاری جمهوری اسلامی، ایرنا: ایران پاسخ پیشنهاد متنی امریکا رو به واسطه پاکستانی ارسال کرد.
 @News_Hut</div>
@@ -1317,10 +1317,10 @@ https://t.me/hotVPNplus/9
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/81439301a6.mp4?token=QQ5KKyQQ6rVqrtZ8glzkPz3mf51CmxAijHxbch_W4cMCA2iNxGwIxnRLTcC96R9zHg5uDa6W8tqP0DeF_ux3bASSdlqhqcUDF_3Vck6te1bMVi--5rM4l51KQ_Wf63ryQ9fGFG3twPFQb9FgTz0lJXVIJrhESR4ATUH7w65orieZ7yr0UuG2M5zzavFNBRV4gjgBKVHCjYmT1n0YBr-AKPK_TEFR8scy_26SHTBCa9la0oEHPxTIFs-XPsue0HGBBTgn0_CmfgYTyzfYw5Bhj16FSRqtqTLjGlyhf8d1bhJZCivxfDNIQRkS285CsebCE6aA3ZwoREo13vpd2Vo_9w" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/81439301a6.mp4?token=o1BaPejtk9TugoBHP0MDCEH0K_LGxqbRwKxPq8IYHRU0Xen4VHRdK20v1bSp3xA_EC1sgV3UJ8P8uRNy1jBff_IxG7dWwLFL4IteLbUGnfEgtRvo0xTsQNBYfMLdjceVPbTpLymZL_T2i97U4Kr94nQJgfaJ6ifojkqwXFmTcmEH7RfnmV7Mcx_KNoB3w32dCPvZ8Ajw7WY8claaIZjVBhiSTgECsi4Sj6rHE3tMO-a3BXY-eaY7sBs7bVtv0Iv-lisRyzUNlJUhRZLOqbYg0lll3SGhxZO-nm4zW8zw-b1z8x-iBYxK2hBT7tHdbnWy_kVDH2YDZaC4AdoQdKAfIg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/81439301a6.mp4?token=QQ5KKyQQ6rVqrtZ8glzkPz3mf51CmxAijHxbch_W4cMCA2iNxGwIxnRLTcC96R9zHg5uDa6W8tqP0DeF_ux3bASSdlqhqcUDF_3Vck6te1bMVi--5rM4l51KQ_Wf63ryQ9fGFG3twPFQb9FgTz0lJXVIJrhESR4ATUH7w65orieZ7yr0UuG2M5zzavFNBRV4gjgBKVHCjYmT1n0YBr-AKPK_TEFR8scy_26SHTBCa9la0oEHPxTIFs-XPsue0HGBBTgn0_CmfgYTyzfYw5Bhj16FSRqtqTLjGlyhf8d1bhJZCivxfDNIQRkS285CsebCE6aA3ZwoREo13vpd2Vo_9w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/81439301a6.mp4?token=o1BaPejtk9TugoBHP0MDCEH0K_LGxqbRwKxPq8IYHRU0Xen4VHRdK20v1bSp3xA_EC1sgV3UJ8P8uRNy1jBff_IxG7dWwLFL4IteLbUGnfEgtRvo0xTsQNBYfMLdjceVPbTpLymZL_T2i97U4Kr94nQJgfaJ6ifojkqwXFmTcmEH7RfnmV7Mcx_KNoB3w32dCPvZ8Ajw7WY8claaIZjVBhiSTgECsi4Sj6rHE3tMO-a3BXY-eaY7sBs7bVtv0Iv-lisRyzUNlJUhRZLOqbYg0lll3SGhxZO-nm4zW8zw-b1z8x-iBYxK2hBT7tHdbnWy_kVDH2YDZaC4AdoQdKAfIg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">در همین حین که ما تو ایران هی داریم به عقب برمی‌گردیم، برقمون بیشتر قطع میشه و اینترنت نداریم؛ بعد از ۱۵ سال تو سوریه دوباره «ویزا» و «مسترکارد» برگشت و مردم‌ش دوباره دارن به بدیهی ترین حقوق شهروندیشون میرسن.
 @News_Hut</div>
@@ -1345,9 +1345,9 @@ https://t.me/hotVPNplus/9
 <div class="tg-post" id="msg-64847">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/tfuh53210cxAPKYrrq0y8uYycrMFiIGaVxmIfNqWxY-NO09rOpkmg7T7Xt0f3odtshd9zQz9twNQ-ui_Vid5CCIyn3uzHOWVjWQYOkuTrd4_mhv_GiWIrjCA87MXeNATpM_8T_ki1hP1GRWWTthcH6Fb2118rKqcn-R0EMs91KVGt1VnXAML21gZmdkoJrgNQxY4aZeHl-1uGCuFb-BYjvRfHEJU0UrbVhu4foe01T3jwitY5AD9hDtgjViVtW7CxJFRif2O0EdDWahVPtkJrMo_JbMVy8mTyVMdzPCZkFFNfQbMdIMVi_LDgodie2gJLq5kWqiBaJJfcsQXEE5ilQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/jpiuEDt77oDdQz5SLh3-EGar2rjkYMVG39FZUrVqCzUnHw6y1MmeN4tgmXx8fxLGPtQhpWnbUkf4UDVOJ_92eobBXBuXB1H-JSQnCgSer-MKq3CYQ9R5AB1iLDeiF1sxHc2JeJ12l3mZr54YJyBbRYk_3_EqDI62mOH5wwyF_EUgXjFnJoczed9ASaSbNalQ7O56oF7ebspcettpFM1Fz9OhNmPFy9uB2tUU6K2vGfyzdPDJ-sLpv9DlYInsvO3OajrLr6JGYKKfSGwfgGEDM0r3lOeZ2vcQSheI5YrvnC1cNSXyQCLx5vAVrd5YxAtIDYIqac9Yo43dU3XjLX5TJA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/JB9rQtGIUa6w1iz4ZPmuXb7t5DCLWoSkHq8FCyIfda8WatHyxSFS81bGPTaKLeVCfJ-gtjbJpl_BatqUivClzf1g_gWLWPwu4bqt50MCanHxv9EHbpKlZayLX1TyI6K1R3WvLp9Y3GR4W466EfTmKlSrxSlE8l08G2U1TuGohHL123FhMIEFJzYVpeG5vMe076NT5AwmH6WuaUbS5TDS_0ptmvsngoFQ8C_zBEBZyOSYpDNpVFHTbqNxk9dZEezORIf9v3c1_OBNqz26-VTamfSEhBZFqTk9Yh11G0PQVqVKzAyDRFbvYNxQdaQZCKGrYeD8UPyqs_hHdhcrnmQRww.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Y1rPOhN-pOgAqdaGjFMxe2tbT_4Xak8yt8xJd5nRx0u9e2LqrRTXFHkOiMxlotG2RgQNgrYGjjAfvjs9fsNqq0U6EAiTsGNgClRwN5-AoPui0Ohs4yERNrK7jUJcdkE8JxL-wQxLmNqDcf5bpIC2WJoqET8PDIIOI_ZmNSq2nLBinwLnYCip-HrJtRPGzN8Weo-BCnvwTovQ1cYLKMm7zWdv0gNzzRq7Ry6gMn1e1GMIG642CjAIEdKEedEJx7HUrzOI_t90VyAVFAz3rxKzwRSDsmdgUzRu9eIzukdZQL77at5wQBVbo8wkDGmCN2cDw1RpU68zc_4IQSa0Ml5k_g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ODaaitER7CONuXrRLAwIjAzoBIaOxYkatdCyt4jy-mElyL6LrnKDEboo7LFktqZzZCQ1WpwtjCDSeTpIG7She0CgQ2kBJtlo4LvHZg0TGTcfhMGsqvyKgExTud1c7nk-Tmoo4dzXAezGPt471CsR2rc0uTNrfrigDCXydzZiq0dePirInMepCc9zZTYLNU8xyNQcegm0JfQuuUmJ77fH_zATN8Ex_5peqfxpx22u5YujvpFCBpXr_ErZTDJr-p-PFAhF88CI-PQMHsyhLevKuF-sPx8sSGnoQBoezyRaLXkvwXJ9yQFJMdb3ivChsAHmqPnuygYOKltzss8HI7aBaA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">پست های دیشب ترامپِ بیکار تو تر‌وث‌سوشال
 🙁
@@ -1372,7 +1372,7 @@ https://t.me/hotVPNplus/9
 
 <div class="tg-post" id="msg-64844">
 <div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pWe6GNONJQxckqS8PQ6Nzl7JUUqatff9mklztVUZyVKN6YITl0W-93MKS8s8YxLCK8MCs0l9HBhakNkpJ0Paxwr_Bsg2KgSMazx4weoBkGmoVs_Dtd9CpsNlmKvZ0o6vV-vWxNXvf5tOWuSWSSW3p7R8rtTlvbohNhArWzS1hrkouBi6tNEGzXpByTlr16TDcdsQeTuRn2WD7_0TVFAxdlS0741xL8kTtEKTkKHQtMyfLmzQjgYNI5PQiO-Nck91PHYg1CsoP5Lpa89ntyaQhLqhwbVrE-2erYCOkMfLRfvgJU8ENs1c-LeQWw4XnI0exz_dSBMbvvOHBfBrvG7K8w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e8mjDV30UKV1Ip2eUxvweQPEGjK4lonI0eYxihiVeaUd6HuOwrd3_VLoh5gZpRf1IDTXhnc44HCvZuAk6OSL3CgSns2qxcGr28X-7h07xy7gmqxzxv4m6mEtdKRH9M_v-J-uid6PcQbRf5YEMPiPtuBoGfV58w_FrnNbRN9OBRFvzNaboxTLcQteHGdD2K72alJxbiuiN5v34xweO7WatKl_kxcNAFROXaY-trlzExdIgs-6GB5dsdq4Q7h0Pdb2c7AM4OArWUthRkSRI0tB4FZTqSfkCxAmHIstl63CpMPrHaW8YOZVKbNa6bCyinVPfTQK8U0vaJLbLzeZJqz4Bw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نیروی دریایی سپاه: از این به بعد اگه امریکا به نفتکش‌های ما حمله کنه در عوض ما به یکی از پایگاه‌ها یا کشتی‌های امریکا تو منطقه تهاجم سنگنین می‌کنیم
 @News_Hut</div>
 <div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/64844" target="_blank">📅 08:36 · 20 Ordibehesht 1405</a></div>
@@ -1390,10 +1390,10 @@ https://t.me/hotVPNplus/9
 <div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/61d4ece00c.mp4?token=IB13RiRi8q9-sECtZ6FJMI88IogLZIF5m6pVwczvyZawxxySK6OL6IQMkZJ7OKwnGTxZRKxieWxqt7n_4WvskKx9LoCbkP13k9hgv-MEwOV1mWTm4trz7A6X23wKf1X52CfIFvRXlXvoxQCOiMT7-M2err0BF2364tzprSMk0h7c5wPrO2lUmbXN92qUQi1AR_i5l2zNXt5sEwwNB2JgC7-6jxCatNNnwQAmlEZacqeZHP46qlHKs810z1T3CeFDjp_lDucx_hEa6ONS4_mWJkutNt_8NGkxbCcwvOFa-5lRX4Heb3KqTULu4iUQjkXiTuDEDSzJ2lxhzjYG_2oKdg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/61d4ece00c.mp4?token=kvuoCNY4HsB3gwytF2obHuJud1GQeFux4wulAMqwZKPvsKuQ2MKReb8JY3mD1HEqkLXsOhPKSkxTXv4d8nLa96tVUnMkKRAxkiKeSttf3Qb4YLVOR1RVqsDjt1CEQCFgwFXbZVFccArXZSgIWrGClhF99ssqbZYnmkTaUmwU8JZkdzMbU9gamLU5Fy7psliam5rzg7a2fPDT43ygYNr-zDZL3CJrK7NN9SbLwT7ae9UEXJjFWRGx9ZFBYJoB2cvxoNWzxnmCSl2E-d60ADL1sF_My-k8a4XQuXkNm59EmC1kv9yrbWMCiMNCSB0whjGyFzJvdke5yQs8rPBzrIPHUA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/61d4ece00c.mp4?token=IB13RiRi8q9-sECtZ6FJMI88IogLZIF5m6pVwczvyZawxxySK6OL6IQMkZJ7OKwnGTxZRKxieWxqt7n_4WvskKx9LoCbkP13k9hgv-MEwOV1mWTm4trz7A6X23wKf1X52CfIFvRXlXvoxQCOiMT7-M2err0BF2364tzprSMk0h7c5wPrO2lUmbXN92qUQi1AR_i5l2zNXt5sEwwNB2JgC7-6jxCatNNnwQAmlEZacqeZHP46qlHKs810z1T3CeFDjp_lDucx_hEa6ONS4_mWJkutNt_8NGkxbCcwvOFa-5lRX4Heb3KqTULu4iUQjkXiTuDEDSzJ2lxhzjYG_2oKdg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/61d4ece00c.mp4?token=kvuoCNY4HsB3gwytF2obHuJud1GQeFux4wulAMqwZKPvsKuQ2MKReb8JY3mD1HEqkLXsOhPKSkxTXv4d8nLa96tVUnMkKRAxkiKeSttf3Qb4YLVOR1RVqsDjt1CEQCFgwFXbZVFccArXZSgIWrGClhF99ssqbZYnmkTaUmwU8JZkdzMbU9gamLU5Fy7psliam5rzg7a2fPDT43ygYNr-zDZL3CJrK7NN9SbLwT7ae9UEXJjFWRGx9ZFBYJoB2cvxoNWzxnmCSl2E-d60ADL1sF_My-k8a4XQuXkNm59EmC1kv9yrbWMCiMNCSB0whjGyFzJvdke5yQs8rPBzrIPHUA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">رئیس کمیسیون آموزش مجلس: برای آسیب دیدگان جنگ سهمیه کنکور در نظر گرفتیم
 @News_Hut</div>
@@ -1440,10 +1440,10 @@ https://t.me/hotVPNplus/9
 <div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/016b41db02.mp4?token=Duk4txyh-Q7FFJcNpfwZEnwai4HXkncFWBOk_BZtp_bU-OH6AODpY2r-H0pZcJXDqPJ6Q-J-vIOIz4dvFobdwlvAoCVn9Pe4qWHzc5natvIR3kWyVUy8nPJtryYp-kxK6rLL-0L9Heag9lbIpqFW_TeVl92TPtAuvxFseAt0UJA79wkYbJJ1MBpmRmsEmrV2qyjLZ5QOdq6YRJb-yYB1Sw3TbRfhkKFYArgvjLgUv2cz8B1-gkhrFSTGqrjknMDntY0Lw_BSLutVksJpV8o4IpaLbEdD40FBv7d9Q_6Ac8L_0iyrZ7YWJG7aIbaLZP1OxDTUIkRIu2TD1iQ-yQMuaw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/016b41db02.mp4?token=AGmENGBSexeZGNKerpUJuN2lwksIjAckuTbddwvdACCH41rbB8_pASjKXHAb6p1PKZW22NgCSrg34nd_-Kolr0nXvvxTSng8mtUd4ETx3373Jo7vLzjTZWyUt-cLtGupGONG4GlQvz3o6Ilshd6dsc-FevRZ_uuATGQ2ZDHS2-H9you4YsCyK6Af0XilD6bnfTfz02eTVWGof3ILpSQLmGuZqLr3-j0RbrWg_WCVOfvarFWImWNx0TL4m8DSaTbWjslTy2hSNw08642fVHk7MZ8bRhXDYcWQDX0F_wJ99k9KSWoU1-ALMcBUHUnc1SOCzGv3Y6Mqq4pfaYbkvbMm8g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/016b41db02.mp4?token=Duk4txyh-Q7FFJcNpfwZEnwai4HXkncFWBOk_BZtp_bU-OH6AODpY2r-H0pZcJXDqPJ6Q-J-vIOIz4dvFobdwlvAoCVn9Pe4qWHzc5natvIR3kWyVUy8nPJtryYp-kxK6rLL-0L9Heag9lbIpqFW_TeVl92TPtAuvxFseAt0UJA79wkYbJJ1MBpmRmsEmrV2qyjLZ5QOdq6YRJb-yYB1Sw3TbRfhkKFYArgvjLgUv2cz8B1-gkhrFSTGqrjknMDntY0Lw_BSLutVksJpV8o4IpaLbEdD40FBv7d9Q_6Ac8L_0iyrZ7YWJG7aIbaLZP1OxDTUIkRIu2TD1iQ-yQMuaw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/016b41db02.mp4?token=AGmENGBSexeZGNKerpUJuN2lwksIjAckuTbddwvdACCH41rbB8_pASjKXHAb6p1PKZW22NgCSrg34nd_-Kolr0nXvvxTSng8mtUd4ETx3373Jo7vLzjTZWyUt-cLtGupGONG4GlQvz3o6Ilshd6dsc-FevRZ_uuATGQ2ZDHS2-H9you4YsCyK6Af0XilD6bnfTfz02eTVWGof3ILpSQLmGuZqLr3-j0RbrWg_WCVOfvarFWImWNx0TL4m8DSaTbWjslTy2hSNw08642fVHk7MZ8bRhXDYcWQDX0F_wJ99k9KSWoU1-ALMcBUHUnc1SOCzGv3Y6Mqq4pfaYbkvbMm8g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🎙
 خبرنگار: آقای رئیس‌جمهور تقریباْ ۱۰ هفته از اصابت یک موشک به یک مدرسه در میناب می‌گذرد. چه کسی آن موشک را شلیک کرد؟
@@ -1478,8 +1478,8 @@ https://t.me/hotVPNplus/9
 <div class="tg-post" id="msg-64831">
 <div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FgcyBxAJwWg7B2q6WBtvW-16nQGoordsl793_9MrxQHIhs3tgUiGI89SWbAuJE9_5XPevwq5JrPOeefRWh_RvuaK1ul8xYaaDYxSnhi4rfz6Cu115cFwlnH2LqPt8tCUVnW6L94Z1pvbgdJCiJA2bbpbKrwXzhfa5O_HBFaMtuv2bp2wGU6jghfH0J-h7MYXIxKFIB4yFABQzJYvDiXroyM6O7DrDVCdqbhenqT-Uk3SqoKl3RYq-f69T8EYoXsgJw2lJ8wGUN4JLjyrBs72eabQ_-7_aIUeg36DUBeQN-dcExbE_t9W_-JfBEm5QUUBbE9cWtmJffOHngo_kiBciA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/bLK1Kv94ftd4Kto4y6IkOvAfMISZ3Z-z25ya4xFqKFup9QeIvrvrceNZHfp_OMS4wrwwcN4V3mqZGwD5KMfjlPvkD_CO1XTV9sTVI-UWdYZ-3labDOMn8InYefr4f4aDG_m41f-xPpUqSe0lpfE63G5QE0s6oCyMZOR4gQniipO2AF427MMoK-eheVAjbbNA1-0a4lLQOAoGGn_o8mVqMJn02eUnU9DU55eZ3SSxJqlZ9ln-PXKoClb18uQn5NyuhrXpZrbpj5v99YFZBscQWkx9_1a_GuWjrHorM7v1BQj3bumtMvQECUP-Whd5IOL6MG2OfA7l8PfjdNZkAGU2Ug.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/OY1IR6qET9-RrcjA_0mQuCgRi2dYRCOD-5-JufG1KR9o9sp3aBmHPzedxBzgHXW6r3e04AHoQqLWq-ShRuuEzCf0kVXjiMwGJ5FwPDP84dA7v0G_kLGamYbKl1u9jKeAQZAUrz9ZkGNbuLfj6P1M9r1SJdmQOHFO8PbW9aOV0teEq1g09LVIOMtSWMPWtI97Oq2_O9VcN9-J6-DJOo8_yhD_J2lPHjrRxu4PoWuzHokw2_OpBv7i6dMrUSRcDGi8cWlTGnmrWNP5kd9QdJYof-UH8oZvoWGczv0rZunX-VSpyO_QilGUNtWsMbaFXFnQFGJl-jyyCu2bmPnxoYX2hw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/fGjiu6xEryvqbcrawzTmQH2zz6Uk75C5L5bynYSt4Mqf6oecZNTNKT8PIeAVdv2NL2oq7xqXhmrg5CtzIHyVxx7THUOhMEq8JUTREbKgRzY4hvnKcs8lHpDq9n8rQrlOxl7XQFnxc_8LfRRZM1AYYSEGeQkvMUyQJgxVWz1Vw4yh9p206u78_dFg_JV963Xph1a-DV0CJEf5hvN0GwG_i6Pw-R-7x-TJc5p59xFPYhGYp118heDzU-ZKMBl4JFFp8hu5sqNjwcBsYFemixwUOW_bZ0Y2XhcVHz7H0rqW3VP5NLUDLDI_V9LepQKVRF8DIPj9POKbsl8K47FioQspww.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">پرستوی های صادراتی طرفدار حکومت کنار برج ایفل:
 @News_Hut</div>
@@ -1489,8 +1489,8 @@ https://t.me/hotVPNplus/9
 <div class="tg-post" id="msg-64828">
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/B1Qli7fRvksb3g_vObmdxv42Q87JUgbx2dYibKzqQiDlWXBBPI7PuvG_OSsSOMBw93ZA2wSmFeeOx0-ETRzCcGyJgY20lhxmxZ8deMaXbalxnN7QzyhCXX72pDPEqQDdn3ALv01AwDr_NeUBpYjRS3n9jDLO2uZMRuxAIYEKVm-6cUo0q3fDXxPL8lRFxKKzHKmalUi-yAxif9EUPsurB-10p4UKmb15znCMBmiOkBZ-X8a_1DPiG89qyy3MjI6jYUX_Swf3usOZEsDKN7EWvxLupE7xunYJZqMd7XOMznR9Z3YZ_dQ5kpxVu2N2OdAPF0T9P-ysH35C-7PBd_Ea-g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/veevsxrUask2hK3_tTCu8ya1jgjWdxgkAEq673lRXpWP4SNXtCaro0MYImLXWUi_YzjbF287dXraItSQhNpsInCd6QmS-0h0cTo4lWvb1UphA2ZyJWG_fM2PL4dlaRk5ig3tGpfIYFt77YsycgWYDAR5sG4Iabuc9xw-rHU-ObcYXR7NVZz3Lyz_7ENdAcltGpmhDEvlpao2k7FDk4xy9FGaM3h3mBpKPqI6FvY51nS15hDr3k5eSB1c2mtmTrdrrhF5Btbk_QlCiL-xt3j0T9zNmh_d7qGdqjr9LmG2GbVzaeeq5xSws42Zzf_PIT1Mtcnngt7Eei6kqZ6p9VNvqQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/bbOTR3WKTi7K3yjO-ycowt3yJcvLI4s-gECoVMf68_I7ta5ItXW_Nv_6aowrjmibC2YqwhYjjUKU1K-mHwc6Ww4qr5HSDhV0Nq-ebpmOOujsuNbpgx46tQe_0wQQmGYpbIQUMlv8yQnLd9mD0vQBc96Zgd4jB2o03fpRSOTjpdUozCXyejlXRGYwn6Ne7pFDgWeuQKJ76Qiw7_dgd1Wm6Vpi2EqIpJ7VDDGpcz7L5gMwDDiLskk7ilcYH7jf4bMHEFMIoy5BwabxXrWIkNdcjrXDgoQlHBuDMBrui5AlMdpl6si37yWqgcD5kLq2Zo61Y6dzq3ylnnc_KzYq9uQyqQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Cn73njgU9bDO8oGLbUD5dg2aMwMTnD67mnCJUcTT9GKiXV97gsKj0cgt8V1gP_ZbmC-b8ioyaZ4u1Keuazio2YRWfLt1mgmsh3t2O6pbRskJzukZpMkAz6vwsTB97rn_3OHu-lCQnSdMgwB8CY7DwZ3jUhigFOtr2Ehc0kfgKSVIjBfF__XV0UoPk5L9EZsdhW8oNdFsbQ3M0pvNo0U_1wDc0cfHXfHLEHQotkQ_-9fSjSTnCiRbt8xPc4rc4gVG5nP1cIdWo8RZZM-AkOJhErCIGKc67t-oz0qxBZ_-3A1LuAYmRBaMNuE8vLJsu37W5nH6Brtguq22Fl9nYbIDQA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">فشار جنگ کم شه
 ☺️
@@ -1502,10 +1502,10 @@ https://t.me/hotVPNplus/9
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a27dcdec82.mp4?token=SBDdaX_1C3VwWpSg-laB9q1tD_sxNhX4vHd-AV4vyd2ReZDgwfg3lF_hpu1hD9DUkLKG9OCEHAjq0klvKiR93keurbQe6J7qhG0NMzeuhNZr620QdjYCLEX5NYTYUqFKxL5exo7md_T66W6YM2NLHHdAjHp8JYnkuko3cOjmy4FJk5-_dwXYDvxuclj3f3sTWF-LYjEkzIEfO15lJPU0YqGG273zrol_QS4kVRTfligAWT5k4KpksgiWQ15QzE-nBlCJ5W7RRrkvl2CsHPbsbpH3BoTKnDgV88rLihFXUJUkvhHx0gVWzreOEwCdC4TTqyyWBqGSMUkTLKpLfjnuYw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a27dcdec82.mp4?token=eGhLnnaD4M-Vzx8E6BauYkwf0HNk1I8lO88BS382eQdXXfRUqdjAIGSTZRjw5kaGlTabNBfzDsMdX26ATzQLtY7YE8GGLY2tyQsep_0izMXSioU9xkaY4Sa_7QBy2SU2sUXqS-Sr_fPHa-m60NufXD90xrkqoPffD9jN2e7oJGwsG2NcNG07mn3q9H1NKNV36Kxf3Br7ykOTyJH9-p0wPtGrAGw2v-kP-_C5MTp9Os0anRw6J9XZE66IC73CZFckPkYmT2JDUMzAsgWo3m_JGltN6BcUIrFoUQPD19NCl-zt4NNSshbjl9wrgKIYtH7fFs5gv5KKloRg19NLqstgiQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a27dcdec82.mp4?token=SBDdaX_1C3VwWpSg-laB9q1tD_sxNhX4vHd-AV4vyd2ReZDgwfg3lF_hpu1hD9DUkLKG9OCEHAjq0klvKiR93keurbQe6J7qhG0NMzeuhNZr620QdjYCLEX5NYTYUqFKxL5exo7md_T66W6YM2NLHHdAjHp8JYnkuko3cOjmy4FJk5-_dwXYDvxuclj3f3sTWF-LYjEkzIEfO15lJPU0YqGG273zrol_QS4kVRTfligAWT5k4KpksgiWQ15QzE-nBlCJ5W7RRrkvl2CsHPbsbpH3BoTKnDgV88rLihFXUJUkvhHx0gVWzreOEwCdC4TTqyyWBqGSMUkTLKpLfjnuYw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a27dcdec82.mp4?token=eGhLnnaD4M-Vzx8E6BauYkwf0HNk1I8lO88BS382eQdXXfRUqdjAIGSTZRjw5kaGlTabNBfzDsMdX26ATzQLtY7YE8GGLY2tyQsep_0izMXSioU9xkaY4Sa_7QBy2SU2sUXqS-Sr_fPHa-m60NufXD90xrkqoPffD9jN2e7oJGwsG2NcNG07mn3q9H1NKNV36Kxf3Br7ykOTyJH9-p0wPtGrAGw2v-kP-_C5MTp9Os0anRw6J9XZE66IC73CZFckPkYmT2JDUMzAsgWo3m_JGltN6BcUIrFoUQPD19NCl-zt4NNSshbjl9wrgKIYtH7fFs5gv5KKloRg19NLqstgiQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مظاهر حسینی مسئول دفتر علی خامنه ایی درباره مجتبی خامنه‌ای:
 خونه اقا مجتبی رو زدن ولی ایشون تو راه پله ها داشت میرفت طبقه بالا و فقط موج انفجار بهشون خورد و افتاد زمین.
@@ -1517,7 +1517,7 @@ https://t.me/hotVPNplus/9
 
 <div class="tg-post" id="msg-64826">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YmGLTXw9u-_lbfI593pYnJdyVNUSFTM6RLRN9dj49xCYGU452-6SkbB9ORS-vbqBtIN8ToY2aWVhZFZKnqneDas72ln14JWKh7m4ZAZQ-YmcEc_B0jr7ZEAdl-rK5oZjhTLSFpeTbknrvDVReeROSak1iF3bMgW_pQPiScCfvsTxboxqBgGhsV1Pez1dOKFtAyJluNLP4h6yrfmuW_HFAJDkRYKmcQNDgJPE0BoamdD5pH2k2KTePiE7l-Trh1rnEMjSbveWeWhY-KRaT029nwxpNqA1UCFuZvUBmcnOLMOkfTK2EHGUCbdwrox_rq9sHimbPsBsdVf3k7BjfzeNyQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nhOJh1nz4lfIBMSChlUi3CPI1Swcl1kVIfLHPfFFqXQi3LLpNQ4rf2jNOw-Xodv19LiW1A6cTtW_HPILpHmIKeA_stRsXFJOQTkvgrRr3tfJRGT3BQLelPF31xYg90pyX8dzkiQLH0pTmqwOJR1IzOFF4--EAPSMiRXc0iVv1L-Tn9FUQTh3E1zaGSqtHYm18CAZ4wOItFC1MQuDyiAwiR_qwBPEMU3XINX_Hmag95keh9FVc1Qyspy7EiO6sJ8FVqmSMy2JwKAkJrCWEuJPatDPlWgGGWJCIHjhHd6C-_zLChXjplIlHkinQXQTZag6qAAh2rdrNSUOzbcXF_kx5Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🇺🇸
 ترامپ ۳ روز آتش‌بس بین روسیه و اوکراین اعلام کرد:
@@ -1530,7 +1530,7 @@ https://t.me/hotVPNplus/9
 
 <div class="tg-post" id="msg-64825">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dUZ6Ri4Ph2tiFTs__g5r8fThEne-fN3j1zRHyxhihrzqS8R3JnrzpAKKGibL_Fif2-fBecHSRj5uaZubOB3Qs18Napyj3cpJNopsxjqFs_uMtXhjbsu2zc8HxuOniOqg9U4716Zv9hyijDxMEWOf5_Yl9o47Ntt9OFelM0NBxr-CvFdiWqyrs-s4hc56g79RDAkofT6onNbRYCjNkc9M77osF-NWmce--1Cq6hj-fIi9j22SZ13aRSbA-h0fYLx0Ff27SG5jABOGtiqLJZ-jwldig9tj6T-aN4IdLE9X47MvVes8m9Q2MUgA9aQ0j1DnVKqBUI-49CqNYgnuUg_hoQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZXd8v-hnCUezUW_mLkO5319Pgvo1k33H9D8MWT5khfWMHniJSypBu0ju68uCemtE7dF6Mfa8OxEEOxOmq_RoItiLdpIQcRNQUaEpLZ3K_trxFaP6eSnSkKo98Dz3AQnnboIUAdSO0N4g3VxOKid_TlI5zzmjQ3p2exPCehWdqS-SlUI-BPIgg6xbpZJQzyO4ZhJG__SLvTQGolpkJec5voNKTFNWl9hbsJ8XOg_dZxrN_0FWmaQrg2_dYvePszOPXQoz1gN9dZGprv-Opd8oSCRGGbwnh4lcVHGoVBWkOtsf4uP4T68XWI3bI7V35VQ_pqPNsF3Ummms21URSBZM8g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇺🇸
 ترامپ:
 در مورد وعده من به شما، وزارت جنگ اولین دسته از پرونده‌های یوفو/یوآی پی را برای بررسی و مطالعه عمومی منتشر کرده است. در تلاش برای شفافیت کامل و حداکثری، افتخار داشتم که به دولت خود دستور دهم تا پرونده‌های دولتی مربوط به موجودات فضایی و حیات فرازمینی، پدیده‌های هوایی شناسایی‌نشده و اشیاء پروازی شناسایی‌نشده را شناسایی و ارائه دهد.
@@ -1551,10 +1551,10 @@ war.gov/UFO
 <div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/fc869dea56.mp4?token=sFS5jWj4zWf2ewoAXmoRRYtKYRenRziit2vKMX5_qrIOC9SJBTJel_PTruYd4EvxuoyUwO2uY_MYPLcBJhNLtwRjQ5_6xLPl37ODNfCOcqlsRfJ_v2CRXtc9-aStRk95EB12HomjWDvjZXROeqUA_9PMpBgFn1f86joGyeb86IcG6W-HZRqfdQB_j7ZqAhEDXt7YZNj8vR72NWz31IT8-4mk81NeE7_SvFmXF7XdO1rTwdvy1rVX9dG0lTxGyGdTmIhCzgR4oyleRoymu_2t3SZVKX1WbuT3V0K6B0Q0I0Q_xfJF7XXye5tXRpYTG3-9ntR3RJlPW5awX5x_UJrgQA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/fc869dea56.mp4?token=nFqAOasdykWmWsFW54K0woiAD6vXRSjJg5E2eY1k7OtB6Y1sA9UlebjTDgikY0hVuZEjLnH8Sbc0m3qEbvbRmbv0sVYoPuZqVlZvorQB8an_4M8zn1LQU2P7D3bjRFQsl2MNJTeF8iJPgFDTjPqx162yIclGPj6Z-u7rVh8S9g2eHWxXkZWTfmDU5q9UNnXtg7oUX63uOKECfvpfZRcb88j6HwpKMdmYQTR-ER2dbsQGKo-2jhLFZ3tSW-pDMcJpOEzRoJp7aqLXvsgxJODXOrvufTL3dqnLJ2dbMYYCIE9s3UssWKCIDxtYatDSDUnra2BaZtDk0Z9lKLaAmXMhCA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/fc869dea56.mp4?token=sFS5jWj4zWf2ewoAXmoRRYtKYRenRziit2vKMX5_qrIOC9SJBTJel_PTruYd4EvxuoyUwO2uY_MYPLcBJhNLtwRjQ5_6xLPl37ODNfCOcqlsRfJ_v2CRXtc9-aStRk95EB12HomjWDvjZXROeqUA_9PMpBgFn1f86joGyeb86IcG6W-HZRqfdQB_j7ZqAhEDXt7YZNj8vR72NWz31IT8-4mk81NeE7_SvFmXF7XdO1rTwdvy1rVX9dG0lTxGyGdTmIhCzgR4oyleRoymu_2t3SZVKX1WbuT3V0K6B0Q0I0Q_xfJF7XXye5tXRpYTG3-9ntR3RJlPW5awX5x_UJrgQA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/fc869dea56.mp4?token=nFqAOasdykWmWsFW54K0woiAD6vXRSjJg5E2eY1k7OtB6Y1sA9UlebjTDgikY0hVuZEjLnH8Sbc0m3qEbvbRmbv0sVYoPuZqVlZvorQB8an_4M8zn1LQU2P7D3bjRFQsl2MNJTeF8iJPgFDTjPqx162yIclGPj6Z-u7rVh8S9g2eHWxXkZWTfmDU5q9UNnXtg7oUX63uOKECfvpfZRcb88j6HwpKMdmYQTR-ER2dbsQGKo-2jhLFZ3tSW-pDMcJpOEzRoJp7aqLXvsgxJODXOrvufTL3dqnLJ2dbMYYCIE9s3UssWKCIDxtYatDSDUnra2BaZtDk0Z9lKLaAmXMhCA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🇺🇸
 ویدیو سنتکام از حمله نیرو دریایی آمریکا به دو نفتکش ایرانی M/T SEA STAR III و M/T Sevda که سعی داشتند از محاصره عبور کنند؛ این دو نفتکش پس ازحمله متوقف شدند.
