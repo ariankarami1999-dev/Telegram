@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ارسال پیام:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن. اینجا بعضی ازچیزهایی که می‌خواستم ببینم رو همونجوری که می‌خواستم بهم نشون داده بشه می‌گذارم.استوار بر حمایت‌های مردمی:ماهانهvhdo.nl/patreonیک‌بارهvhdo.nl/paypal</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-26 21:19:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-26 22:22:22</div>
 <hr>
 
 <div class="tg-post" id="msg-75506">
@@ -308,7 +308,7 @@
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 5.76K · <a href="https://t.me/VahidOnline/75506" target="_blank">📅 21:18 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 84.7K · <a href="https://t.me/VahidOnline/75506" target="_blank">📅 21:18 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75501">
@@ -330,7 +330,7 @@ realDonaldTrump
 JamilehShafiei
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 150K · <a href="https://t.me/VahidOnline/75501" target="_blank">📅 17:27 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 181K · <a href="https://t.me/VahidOnline/75501" target="_blank">📅 17:27 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75500">
@@ -345,7 +345,7 @@ JamilehShafiei
 <div class="tg-text">"مجری شبکه سه تلویزیون: یک راکت ۲۰۰ دلاری می‌تواند کل ارتش آمریکا را در منطقه به زانو درآورد"  ویدیو با تیتر بالا در منابع جمهوری اسلامی منتشر شده و خانعلی‌زاده متوهم رو نشون میده که مطابق معمول چرندیاتی در سطح خودش میگه.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 160K · <a href="https://t.me/VahidOnline/75500" target="_blank">📅 17:09 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 187K · <a href="https://t.me/VahidOnline/75500" target="_blank">📅 17:09 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75499">
@@ -369,7 +369,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 152K · <a href="https://t.me/VahidOnline/75499" target="_blank">📅 17:05 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 177K · <a href="https://t.me/VahidOnline/75499" target="_blank">📅 17:05 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75498">
@@ -384,7 +384,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 147K · <a href="https://t.me/VahidOnline/75498" target="_blank">📅 17:01 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 168K · <a href="https://t.me/VahidOnline/75498" target="_blank">📅 17:01 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75494">
@@ -418,7 +418,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 242K · <a href="https://t.me/VahidOnline/75494" target="_blank">📅 07:22 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 251K · <a href="https://t.me/VahidOnline/75494" target="_blank">📅 07:22 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75493">
@@ -430,7 +430,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 212K · <a href="https://t.me/VahidOnline/75493" target="_blank">📅 07:21 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 217K · <a href="https://t.me/VahidOnline/75493" target="_blank">📅 07:21 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75492">
@@ -443,7 +443,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 209K · <a href="https://t.me/VahidOnline/75492" target="_blank">📅 07:21 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 216K · <a href="https://t.me/VahidOnline/75492" target="_blank">📅 07:21 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75491">
@@ -455,18 +455,18 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/75491" target="_blank">📅 23:25 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 259K · <a href="https://t.me/VahidOnline/75491" target="_blank">📅 23:25 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75488">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/L-ky1DebhOO3Csuy_477KxfsWXbJKHyHEWi-t33Q64TwLfINJxbX6afZIoxj4aRQlyl-ALQEE9ALOKrUw7eVZap5H_bdpGd8HAkKo2--U_mZVqAWyA2q5n0jTQA9Bv3L8wPAXtDt3WUGUGjxkuk606P9xL0RBns7fKIs4Ffv-K1wiJsBnJnDW8sX3tGHM7bpbxLMVbSd9fwJDnJZDhsvNRUzni7hguKTqJjAIL_gDAZhqRLhgaXdCV0VwmAJKAoxMQ_uowNrlxz4LQX8QqSnr4ewNiXrxcm8kx9JYkNT1eldIVkphZ4JmtydOgPD5-m23Q2vcl1hgpoqZQ_3ZlAfVQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/m8N1TuUdk-gGAJh2O0PmIkgafevDJQUUqhqDRRv8mx-WYeYZgJENjkbVVAbHrjMDbUBqdKC7Z1_r4mIWuTvJ4pjE41AlVNXEMf1wCV02SKsCGE9uIaWrxfSpqXlqx-I-QGQpC97ZwEfrN320fyXAumSqCzr8uqsjy9y31ZGl0IP-pv1UgvfGDZcA1pEOJg1xrrUl0fmMm8bItcuXTv0FloahbpPsO6nQjxvyZIbpk8a4V-nfX2xLYvCkiklNKvOEGDZCdJqquXTc1aU_iND-Pnv6a2TqjL4lL2dCZYHndBv1xE-pPN-_HgoU3pt5Zu14raiBiBQrnJzHkz4NuWMK5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/db61779f21.mp4?token=cX8WBg_4HLNlpHcrn3zLbq72G4BYLhOt7qOC39nrXTXahL68nrASh943FuTfvk1jZ5l1RUAwgVw1xTO6RqmU5fVdY63yqZxhP2yLAtBMMcE9UWRnyWNJ63VdE8VaqOre73scmc7omgZ47uTHCRmcUEagTAT94EKvrh6Xq5P3Lj7-ogpUqMcPGhx9UqajydrPXx3EuLKdtDuPFz66lmA8xi1NRC3ZGWMyy7E0duHY-SfY_EZwNefIL_VFoknllo5J_aFjV4SIk7wZx-W9-LKM6zhIlH3TjUqJWzpG8toS08RYxqv7eX4ZcZNVioDOHOEirMMFrvUcwCt_eyJziBRftw" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/db61779f21.mp4?token=SpKdUyMBw9H9Ck9LqxuXKCZCKOMcO6hlXWzdThUHTDDEHl5z4f5lXxNF33kmlC0YHRBF0-DOCVW5o-PIgIlEg3OcZQ2uAczA2um5_BkquOWS5IJuNA53xhY-3Mr3V-zfwAC5WaPF541LhiCzhG5RDwQdmDBSmCwhH8hJ6bj4n-Jd6Wk8tM-ZaPC4rglNPtNF13WnDpDm-ShBu0IoVK_6rLv47WzeUf04uga2Zgobboz2Yl7qOu6YGtQscPEu9N2yModEjF4ci-PJooym3FDC1Vklp_Zu4487EZj8UN88_Clc-QapmP1VDLDPLsjScDkrz-THptGwix5feqMQnst6Xg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/db61779f21.mp4?token=cX8WBg_4HLNlpHcrn3zLbq72G4BYLhOt7qOC39nrXTXahL68nrASh943FuTfvk1jZ5l1RUAwgVw1xTO6RqmU5fVdY63yqZxhP2yLAtBMMcE9UWRnyWNJ63VdE8VaqOre73scmc7omgZ47uTHCRmcUEagTAT94EKvrh6Xq5P3Lj7-ogpUqMcPGhx9UqajydrPXx3EuLKdtDuPFz66lmA8xi1NRC3ZGWMyy7E0duHY-SfY_EZwNefIL_VFoknllo5J_aFjV4SIk7wZx-W9-LKM6zhIlH3TjUqJWzpG8toS08RYxqv7eX4ZcZNVioDOHOEirMMFrvUcwCt_eyJziBRftw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/db61779f21.mp4?token=SpKdUyMBw9H9Ck9LqxuXKCZCKOMcO6hlXWzdThUHTDDEHl5z4f5lXxNF33kmlC0YHRBF0-DOCVW5o-PIgIlEg3OcZQ2uAczA2um5_BkquOWS5IJuNA53xhY-3Mr3V-zfwAC5WaPF541LhiCzhG5RDwQdmDBSmCwhH8hJ6bj4n-Jd6Wk8tM-ZaPC4rglNPtNF13WnDpDm-ShBu0IoVK_6rLv47WzeUf04uga2Zgobboz2Yl7qOu6YGtQscPEu9N2yModEjF4ci-PJooym3FDC1Vklp_Zu4487EZj8UN88_Clc-QapmP1VDLDPLsjScDkrz-THptGwix5feqMQnst6Xg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">بنیامین نتانیاهو، نخست‌وزیر و یسرائیل کاتز، وزیر دفاع اسرائیل در بیانیه‌ای اعلام کردند ارتش این کشور، عزالدین حداد، فرمانده شاخه نظامی حماس، را در یک حمله هوایی هدف قرار داده است.
 عزالدین حداد، از فرماندهان ارشد گردان‌های عزالدین قسام، شاخه نظامی حماس است.
@@ -474,12 +474,12 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 258K · <a href="https://t.me/VahidOnline/75488" target="_blank">📅 22:26 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 260K · <a href="https://t.me/VahidOnline/75488" target="_blank">📅 22:26 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75487">
 <div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cp24fuugD4RzXWNsz0M1_rbzHYn-B5KX13SEKd4IBAQOGZrmujY0iYtyO9P5b90mlSP5NNBY1LmO5yy6dH5o4X0iWME65tWS8vx0wgW7_38ZKehgtD-eShH5cpRyaMapI1lV3Kat2ossopVFr8LnE9yPNQNIFwlYHb4_j1Iwo9YEBJASELMUirnRlnoboBiPrjNUU4J2FMBikTdt7o8EtX_VcSqcvYrU_sNR8FGjm_YhvacsTPHDNEj0KDtuPC4gkZaDeNCRb6wvdEmQub0T9wGNQSFzZ3-OKi77fQD4oSB4WirE2GfclKALoK2vPWN_Q8yLf5Sn6IiUkVN_9XqC6g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HZb17GCqkN5-aKSSqf8sy5n1oXqjLFgErzDNN7m2MWiTUSErieGQd7nZnqTyvpROtbPAJXgRfQzh3u3q7liqQVCvOzh5bRLQtKFTX0AFnCwAsLQIIows7WgAfFaDHKb0lGfaDLghlSV7_Rgb5DJarPwXBhyHTdmoqc9gfQtreuB48Boy6gjbGQHxT_PD9Z_pzaAYUApZW_4xADAE0r7xO7b84Od1BVpdtHjxEL9yo94Drxm1phtr50LV6mZjpblne-W5HpPk0bcehxIt7HXV1rGZV7EvxIWzrLS5s2w6DaaaKPzpuA8pq8TP_Eo0rgqawnZGNg_AOh9sfS61QMQT4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رضا سپهوند، عضو کمیسیون انرژی مجلس شورای اسلامی از کمبود روزانه دست‌کم «۲۰ میلیون لیتر بنزین» در ایران خبر داد.
 به نوشته خبرگزاری تسنیم، این نماینده گفته که تولید روزانه بنزین در ایران بین « ۱۱۰ تا ۱۱۵ میلیون لیتر» و مصرف روزانه بین «۱۳۰ تا ۱۳۵ میلیون لیتر» است.
 سپهوند با بیان اینکه «در کوتاه‌مدت امکان افزایش تولید وجود ندارد»، خواستار جدی‌گرفتن «مدیریت مصرف سوخت» شد.
@@ -490,7 +490,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/75487" target="_blank">📅 21:52 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 257K · <a href="https://t.me/VahidOnline/75487" target="_blank">📅 21:52 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75486">
@@ -515,7 +515,7 @@ KavehMadani
 AzamBahrami
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/75486" target="_blank">📅 20:06 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 257K · <a href="https://t.me/VahidOnline/75486" target="_blank">📅 20:06 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75485">
@@ -527,7 +527,7 @@ AzamBahrami
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 243K · <a href="https://t.me/VahidOnline/75485" target="_blank">📅 19:09 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 244K · <a href="https://t.me/VahidOnline/75485" target="_blank">📅 19:09 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75484">
@@ -540,7 +540,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 237K · <a href="https://t.me/VahidOnline/75484" target="_blank">📅 18:11 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 238K · <a href="https://t.me/VahidOnline/75484" target="_blank">📅 18:11 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75479">
@@ -585,7 +585,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 228K · <a href="https://t.me/VahidOnline/75479" target="_blank">📅 17:44 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 229K · <a href="https://t.me/VahidOnline/75479" target="_blank">📅 17:44 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75478">
@@ -600,7 +600,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 199K · <a href="https://t.me/VahidOnline/75478" target="_blank">📅 17:35 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 201K · <a href="https://t.me/VahidOnline/75478" target="_blank">📅 17:35 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75477">
@@ -614,7 +614,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 214K · <a href="https://t.me/VahidOnline/75477" target="_blank">📅 17:35 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 216K · <a href="https://t.me/VahidOnline/75477" target="_blank">📅 17:35 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75471">
@@ -649,7 +649,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 276K · <a href="https://t.me/VahidOnline/75471" target="_blank">📅 07:51 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 279K · <a href="https://t.me/VahidOnline/75471" target="_blank">📅 07:51 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75470">
@@ -912,7 +912,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-75452">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Y1SE0WG0AeVML3XqBRDG0OiRQWDiI7JHTwGiiV59hYgj-vzgDFFgPnuY3bW-ZHJPHFm-l_3yZEaV30T75sE-dM13q00fFI9URJ0OcNyArmQOsII2eVF_teoBIGGaZa7BIQ4V_QljwFyFMY3kf5Ib7EL3njpGnB9zw97WV624CVnAqXPvJE18cOS57pVf0Om_gnntM8vXoJ9BSPdNTJqRaTFjR1WInQJyKv-OWQeURIQogm-M7zXtUAX_oLsY27SkkGQmaEBF_LTB3QbkY6dIHTsAmRo08jf4ESbOwbSKI3FnwgBoDg031yE7LtTh6RlWrpDQEReAnF49xnt8RgwxVA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KWWB_-GltQCclt2htFPhBwtPmE9unscaUxTAHpTPWVW0UmjfLLc7ZujBWC0X41C4ettba0CvzV2u21WeuWA_76pJTwhJ9gYDfY60PGhKkzCQeBRwpNftxaOklA6857aksMAAwf033y7mWfmGgzzO2au4F_AaR-05StWfDh-lD4qnNlHSH0jzUO04KPkOrEdmxdRHMQZbLYj5MKXyLrSoJUXEJNP2O5H0bSYFPbbznhRrpKB_ZiUthZVCx2E4jhGTiiIppbV_qW-kbsjTtrvjyK03WqgYuvIt9gHx0XwLCk2W2d7E81L1emwNCxB6wN2ez9l8AADHRpsmObrJAIulOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قوه قضائیه جمهوری اسلامی شامگاه چهارشنبه ۲۳ اردیبهشت اعلام کرد که محمد عباسی، یکی از بازداشت‌شدگان اعتراضات دی‌ماه سال گذشته به اتهام قتل یک مأمور امنیتی اعدام شده است.
 خبرگزاری میزان، وابسته به این قوه، گفته است که او بعد از تأیید حکم توسط دیوان‌عالی کشور و با توجه به «تقاضای اولیا‌ء دم»، «قصاص» شد.
 ساعتی پیش‌تر، پایگاه خبری هرانا به نقل از یک منبع نزدیک به خانواده این زندانی نوشت که مسئولان زندان قزلحصار از خانواده محمد عباسی خواستند که برای ملاقات با او به زندان مراجعه کنند، «اما پس از حضور خانواده در زندان، این امکان از نزدیکان او سلب شد. پس از خروج خانواده عباسی از زندان، آنها در تماسی تلفنی از اجرای حکم اعدام محمد عباسی مطلع شدند.»
@@ -1149,7 +1149,7 @@ VahidHeadline
 #زلزله
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 335K · <a href="https://t.me/VahidOnline/75437" target="_blank">📅 00:30 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 336K · <a href="https://t.me/VahidOnline/75437" target="_blank">📅 00:30 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75436">
@@ -1197,13 +1197,13 @@ realDonaldTrump
 
 <div class="tg-post" id="msg-75433">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cKyO3KOSEg09kNFAWM0YS5zJCnotxJd2WCpHoCWo91FJ6VgtepXVgSqJvgfEDQPCsm3J_bYeWcdWWYONdGwiNPM0E4BZmIl2gpEWBo2kkkoZwr2PEqoewyEdp_f2Zti15-xsqyObVyduemobBS77jIqLzIcSta1In9ZyamNab3u-UTpvzJ2VuMUyw2gHnCcaoFM3Wdx-C_IQaHECU7TEfN_OK10mWlFkaOFtBWEnFlJfD2Zk5C6OgILnsk9LIQZGeqfjgK98-udYbKb4j7e1WWJLFzVhBraOHlcbMKcVW8G3l9O50duGp5J1wI7uRDitpV2XbEj8HY3GTzAwwdcjvg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SljJAONGT00CYZYP4Pt9XsMGhza_6MzeMiTKTXbFFElS2PMCEzslHH0X4k7TzGlPF_ysS_exyVBsh_6-QX--txB-m6m1pw5dqSfvXQYOUg3UDKYkGj_8mWvUBj1wZLJXbTDEytc4_gREfNQtQscBmLx7JtuP7KLZ6EdmJ8QHs5CLIsEfNKRJ2iAv7wFfTFH1WCWEkHZ4PFWoCH7505Wq-vpKD9jzDk-nZowyEWvOiYHtBsiknyfYPuZOjufLovBnPSR2VKKIwxQq5nWcvK8HNRLVahehlnfDakt21VimQCGbqEHWYaBVxQJXWuoQK1FWIE8uC1GnDc6GnJ2Kbl2LbQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/93a0dfa6c7.mp4?token=cr66JnvhcAdSOxaMjQGvAmHU6OEXKU6JSbN_261ytYaGHofU7giq3ZyMmmvPdCGGwfAEtTMi7bDuNyvPCOcYPsms7H-cQ5_RxTy3HRDvAQn6xeTyoygLESGaSddl92PULy7K99qUmLusmooVIsoaVbnZsunwlEyg5RaZDkW-dlP55TnCzaZsyE-z-F9-QVw2CwBdQ5TwiTaVE9Js5obKqNxpkTlwQEYJyw463NKZUQ8ozP5OKMHHy9YKOFAn3dJihLVNBEq3fviS787yq__eOm9sX_RhSNyjuL_tCmAxAyNaDPQ34vzoWg1f7iKSB5mmfGTqtST85IIGNKmbn7IUwA" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/93a0dfa6c7.mp4?token=DEQ85UL8XghEn9fOqFPa3AiyTN0jvL68qh3YUdFUUXNx4-iUrG6fc-eow2SbTZwI-ZbcprQjIe0-z6zKm8Z46UBKwAOF34wC41Mr4bblp6D9tze3Df2N8XuL006aMuUSDkhlyx7AETT0MOs-c5VuqmvtoNlBkNxJ912lVb4JLCO2lb1s_Rdi-Ukj7YhF62N0zrEknEBmKIVkKiu4zxBXb2Dty9jqboW7SQnaKOAempse-atWCjE9T6QlsNawoIzEsxrm5ofj3f5lBNgHbnQCNlmTVyXkfaI_lvyV1LmSy_DYuuE0jq-l4xNagaWym16mVI7Tpr2_KDPJsCXB8Sf7rg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/93a0dfa6c7.mp4?token=cr66JnvhcAdSOxaMjQGvAmHU6OEXKU6JSbN_261ytYaGHofU7giq3ZyMmmvPdCGGwfAEtTMi7bDuNyvPCOcYPsms7H-cQ5_RxTy3HRDvAQn6xeTyoygLESGaSddl92PULy7K99qUmLusmooVIsoaVbnZsunwlEyg5RaZDkW-dlP55TnCzaZsyE-z-F9-QVw2CwBdQ5TwiTaVE9Js5obKqNxpkTlwQEYJyw463NKZUQ8ozP5OKMHHy9YKOFAn3dJihLVNBEq3fviS787yq__eOm9sX_RhSNyjuL_tCmAxAyNaDPQ34vzoWg1f7iKSB5mmfGTqtST85IIGNKmbn7IUwA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/93a0dfa6c7.mp4?token=DEQ85UL8XghEn9fOqFPa3AiyTN0jvL68qh3YUdFUUXNx4-iUrG6fc-eow2SbTZwI-ZbcprQjIe0-z6zKm8Z46UBKwAOF34wC41Mr4bblp6D9tze3Df2N8XuL006aMuUSDkhlyx7AETT0MOs-c5VuqmvtoNlBkNxJ912lVb4JLCO2lb1s_Rdi-Ukj7YhF62N0zrEknEBmKIVkKiu4zxBXb2Dty9jqboW7SQnaKOAempse-atWCjE9T6QlsNawoIzEsxrm5ofj3f5lBNgHbnQCNlmTVyXkfaI_lvyV1LmSy_DYuuE0jq-l4xNagaWym16mVI7Tpr2_KDPJsCXB8Sf7rg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ترامپ: خواهیم دید چه خواهد شد
 دونالد ترامپ، رئیس‌جمهور آمریکا، پیش از سفر به پکن گفت که رئیس‌جمهور چین درباره جنگ ایران «نسبتاً خوب» عمل کرده است، اما واشینگتن به کمک او نیازی ندارد.
@@ -1332,7 +1332,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-75425">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oIeso3V0HTO9men8tznjuMY2_f8WHMMSY_B6mdK9InC97rubc5icVGG0PwUUmfWLoGYC6uUSGC5wYcx3C6-aOPvIfSJIHIy7h1Zxig6lcTWHZuVtqKgBfStZ9OYeA4_kHc65LeBIG14zgX0IbrZcwgS5qnyb3cAuQeiL7XKty1v5TesJXqXoBxXoh06m8Dy_bjk9Cvl0Q2PL8fhRDOOIEvP_lw-zFF2sygbF9NaScOWm6YVA9S0D2fBJjK3QLMRQBpf0o-1J9MS3I_uHik1HZKktfkWkuydHI1fOQ2RWMUQXarfCj8OlNkBAi8-Q0yK_o_oiczSppffpgkByHN6t6w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FHSegrB9AtcJoLLhOarX-7FlQKqL4pC_Rag797exHPPHkdYoYojoxiG-Ai-uytckFaxPWTofTVrpyrwUw_kPeuQH4hW6qlSuLGDAO9B_Fme0jtXKgAhWudMGM9VRsTRNxzxWCM-mWEd1P1N5M4eoGDEe2h5A-vBeLcO16pw-ENeDreDQJeOadSg5FjY88IiPEy2ypkI_hLO6ipfU6fUetQmNxCWvZ4ADd-WYkZAAlzfjrVdn5_DIwaDDHe7GL5m778dNwB995spxFUfDkS8TKp2IwnySgB5W4--GjJ7nZahn9NVJVABmeUH5HDlJdU7B3iiqcdzd88Qi_g0-SXcukw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محمدباقر قالیباف، رئیس مجلس شورای اسلامی و رئیس هیات جمهوری اسلامی در مذاکرات با آمریکا، دوشنبه ۲۱ اردیبهشت‌ماه در شبکه اجتماعی اکس نوشت نیروهای مسلح جمهوری اسلامی آماده «پاسخگویی درس‌آموز» به هر تجاوزی هستند.
 قالیباف نوشت: «استراتژی اشتباه و تصمیم‌های اشتباه همیشه نتیجه اشتباه خواهد داشت. همه دنیا قبلا این را فهمیده‌اند.»
 او افزود: «ما برای تمام گزینه‌ها آماده هستیم؛ شگفت‌زده خواهند شد.»
@@ -1345,7 +1345,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-75424">
 <div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DiUMbYGpZiVUyqF2MMbQjfVhSCyr5kSRJ9DFaZSX-DWDqThi0qOxpEAGouUUzolSsXWxVVBrqzykq6iZdPgimuzNGybra0VVaKmqfFdkWcD8zj3Jn8_3fclyvz9GtSI6CuKpseHgMEl8_H2dai_sw_rMUVP6Mg_BHnhfjYfVIR_vjkxAGkxdiJ3z7ubuJ1Z1kFwuKMC-TCf-gxEmQ5M1nS9zUCyqZma9XFLt83o1RxECzpXBE4F2MHZcXso_Tm9RXEhb0HxRFacOJepF6CkX4k53NQtYDbQKgDKeu_-YaDDMTIRBOITEXVY4XiLTOJVhl7F5ncTlqvMX_Hvkr_mGxg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rM26y7M-AMs2PZnSw9lpd0VqCdepzfo-iNkh_x4jTPjh2LG2oWGFk4KcossmMDybauvWpjj6rOEy2gFBzRAeHAWFSIIjJaHzBh0p_3eyocyle586NKFV07iOGjkHAlbb7nKvdyVWfpl9U_cGBnj0iL7StvSPJysBKa52PBQwxaz0wC-B0uvMED080PPMLVXGMtzH9mKpiwGlZB6P3qQ3fLITsXQFQ_4LPTKEQ3TiEtc7zi2irOYme0jrv6soAjVddq6xErVu0uvFOpDMwJZDgT6ZpKprPQmQoTokppwRrZJM0VwEpATnuOlukNb2MRnKXUkQ8t3XBYML7vh4XTy1PQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وب‌سایت اکسیوس گزارش داد دونالد ترامپ روز دوشنبه روز دوشنبه ۲۱ اردیبهشت ۱۴۰۵ با اعضای تیم امنیت ملی خود درباره ادامه جنگ با ایران و احتمال ازسرگیری اقدام نظامی علیه جمهوری اسلامی جلسه برگزار می‌کند.
 بر اساس این گزارش، سه مقام آمریکایی گفته‌اند مذاکرات میان تهران و واشنگتن روز یکشنبه به بن‌بست رسیده و همین موضوع گزینه نظامی را دوباره روی میز قرار داده است.
 اکسیوس به نقل از مقام‌های آمریکایی نوشت ترامپ همچنان خواهان توافق برای پایان جنگ است، اما رد بسیاری از خواسته‌های آمریکا از سوی ایران و خودداری تهران از دادن امتیاز جدی درباره برنامه هسته‌ای، احتمال اقدام نظامی را افزایش داده است.
@@ -1907,7 +1907,7 @@ realDonaldTrump
 
 <div class="tg-post" id="msg-75367">
 <div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BvODMDVy5rmJ1KzlyEXdMmiNKrTggeecCDlNvge39rfoKR-yeT7OF7NRFVoZhYHQAQo77WHlXXpV_X0wBNVGiAJjPq_J6oZeBY9XrYryhTX8yPrnlklly7zsIITz3yRZ6oV1ikrrh8C6xJw4yf3L8aClkw9RMC0EBUKEBdGGQCZt9_1IGlwFkICBsTa78R-tGO8oAE1GSEL-XTLFIawr8-odVq8FqbJaw_SNxZINxbEUWE3BrFCIiFybqrpwmn2EUoQEnrkAjYna--4V6y-ybvgq8XDnQLCZ5KMjryNvdz3hAEh89hDsEmdqxGuXztCqUe6EzoWyn3Hl5pqsUkmGkg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/v7nMKbjkbhFnmLoxuEtT8vr8imI9sPUx6v3Oom1eVtND_9Sb7CgPh2B1mKw5J1TWjOQ29DBcu7y9GMLEQghUayusQc0HXp-UVmcN4FubW0PflYHfog8UuPkM2jyMDuyvpT7HZqm2OR3JC1Rw1plKqLjUDmtoT_93Xl5bJknyNq0XDyxYY7okfNHmNgngfKe0VtR9MLVIY1DoJcfeVPyWNabxnCR5R5eF2sCM4TIqKqM0QVROmzAk7FAVJJ9wantPmYSpgj2bOMl7XlYHSjKdcQrvI77tX_1IYql2p6ip1974HwP26i0jC-necPttLAb80H3ou1yHs2DHk5ZTx_XjtA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خبرگزاری تسنیم، وابسته به سپاه پاسداران، با اشاره به کابل‌های فیبر نوری عبوری از تنگه هرمز و تهدید به اختلال در اقتصاد دیجیتال جهان در صورت آسیب به این کابل‌ها، خواهان اخذ هزینه از شرکت‌های خارجی و الزام غول‌های فناوری نظیر متا، آمازون و مایکروسافت به فعالیت تحت قوانین جمهوری اسلامی شد.
 تسنیم نوشت: «کابل‌های تار نوری زیردریایی عبوری از تنگه هرمز روزانه حامل بیش از ۱۰ تریلیون دلار آمریکا تراکنش مالی (شامل پیام‌های سوئیفت، معاملات بورس و تبادلات ارزی) هستند.»
 رسانه وابسته به سپاه در ادامه خواستار «اخذ هزینه مجوز اولیه و تمدید سالانه از شرکت‌های خارجی، الزام غول‌های فناوری (متا، آمازون، مایکروسافت) به فعالیت تحت قوانین جمهوری اسلامی و انحصار تعمیر و نگهداری کابل‌ها از سوی شرکت‌های ایرانی شد.»
@@ -1978,11 +1978,11 @@ VahidHeadline
 <div class="tg-post" id="msg-75358">
 <div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/FezURDEw7QQbiaYQkFoOfBqODgn0diX0gxEbLTDgj_Gn9RW4pR6OLX2Zv33Jz3ILZszC0oZPU1DSUfH85xbR72jMELrj1mOQDwmnF0SeEErykzqzq9V0xN3d_rVo0532u1VSQfcJ8Jd7rOtvffJ1fhJwcenIQ9cdYlvcCfHv9cjCxcIE18AMl79xnt2bFB1cx9A-LVen1tiGq_KLL5S5Kw45YGy3EFR0-rAjZAOQdQBN6BzI2LWm_22i_F0yYZThABkDsrN5qs-tG5d_Ax4LBu2GQ6SG5hXNbk7iXifvOSSgHvD3BMkt_-tYyytJUitOb6ZcTM4G5k1xP44-eip85w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/OMxXMRVoCVu4jr24pgYK2G00eq4XMfvUTDeG99n2cQ0Fa1feacN2eKM32pIKNi-KtWmauhL5U2h_9z7iSZU_5YIusQTDcll8zokTzouYCY6QOurA2P85inPw_fQNK7NvJM6G83FHbr9mcs21i6NZ5dZU3ts4WxrJiwTju65644KmU4IDipLJPhhmq4B2zmduodpVoauRlHbHvgI-O3YsfZm6tmqsJY85lN9SPowFjYWbFgJZjizTnmHeKexGLo9V1IUcDvxvhjhOqbeTSuI_5TCzhCVaXeTLlbkIYifS3q49L6vsvrCRyZbfWkMj7ImPke8zsJ6nag8wsTsgjySOXw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/JL5ibXLXyC3bUiC-7svNuGVlPrgR-4ppJecJZvkxJI5ksTovQqXKZp8eSjiLjUdfp3x81CJockQOpJPL81g9Pzb7UejQLnw5CPEl938LyTlmommntaaymfHrcWhpQYPkCtxIeg8HKW0hUUhTDTjHwjOpA2pE-Zp2_u9g1U-NmsfUxjVMytGWhmeoUJPqY1sf77b0F_jP0RlI295cWKegpVuRVuvP1HPZazZpoydXi990QilTbGPz2tI6iAl3gbEE8kRV2mOknOlmy6zpxxo7OI0yuXXpiZ-sOn2XpchJAcXEfIiKhlTjHxAkLMAC-C0rKj7M5gPxiMFvt4znW1HAyQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/EwCpdLaZffPspObONVVrcoqk_873nmXjO2y9k82Qs3DIg_3JafZ4XJ1PJ_CfdQBp1dFFnQAQaw5fEyc0tlCcaI_BGZWK8y40lqEtUXO50XZPFq_Y7qivgYFnBtfkZ09UTv4iLnImFzvk4EmQRYidVHW1-dbtrfOHub-46XrYwHRQI41OwMF5ad7mZLvEDXcm7rFmgixrqxAX-DvwQBakrwntycP2pcMnn7r1lcGrvqMSheQWtPVeBiPNuF40ZzaATHfNAXt29ngZift9e3qgAKR5K35G9jzcQ1i-kWVzLdcWf_KMOWwh-iggHvlG7G-yPCQh5tfLI8NQXK2pzpEW4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/eRYlJWHRSZYM-D-97VMbhfywgLi3xQkRA14zNKmtCtwd5szPztSF3jK9OqgKniY8Oqt24L3iuEB6PIFbZXpoljUMeaSjteIpVF0AOuo_mUS3S9h1ociMN4mOvNih0Lx72tJdpbWzMrnBMARRAiW7DN3qYIeRlqKymXs4SyKYltR12sU4SvArClU2_K7xLFdjGBYGPVG35iZckDnnmItPwOSuCoozcBkHAyI2FWIXdT00DKcvDiM_UTrT5FVGHid_IzeJ9oVi-KMxitbf3D7sY8E3esS6_ajzDcv7H-5YNYi898qIaT6-aQl12FT_0QNPKcbWmNvE2sru2sy4RosAKA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/rRha4HUQhByDCqRpWNET2OrHA3zPkJTZRECRHNRhzPxyZXE0_qhfp5E-Tnh76qGIX7ECAELRJhwPAP3aoN2-Loa0TvUgWO3Q0YBIb_AUDCO3uzk57QzkrvqZEaN9dEQV3RgPfrIuBGdZOUbhoklI7E18xyn_B_MSBdLgqJV-NZ5gA2Qk4pd2_xC33LeQ5x2RNUZLNgGg2eDVRSjUpHxvjpeA1_49hYQ_rHqVKYIAVOaqDC8qkAy4LSuQdqcSVsLUdvm75VRVii59Medw-m8sfztyHyD62jh7fUWaRUD-5YbEsGwnS4Om0-yM5_TN-UJ-GU65wdN7EdsCx7MUT5-55w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/U2UH5NmBwzXLvtiV77bjU3jemwFW46Ck0XYufFpjoLv7ZYNGMsoY8fmK1frAP9razPV6Qh5AWBm9Cb7aCdHgF0GRHPIFMDOlUorypzsijIoeQgOrhfkoC1xR1ZhLia7Bcn-PjXa-43rUaFchWHrgGS_y5d68yLGKsqmDOfshwcV8sqKYw52xs2k3vvLU7OZh_HLwv_ASY9Xpj0wss3cbfSlbRsThbucD_Qr6cRYKKBz3YVtDcwJ7KC7Zy_RCBvY_dJkLN-Pf9R3pXt50udtwkMqELOLjFfAg8ZtAUBWfcjc19Rc9Lub0R0AfuaJOqsuLOfjPXRjiqVrxMwPQPpeRPw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">گذشت
 ‌ عبدالله امیدوار، یکی از دو برادر امیدوار که اولین نزدیک به ۷۰ سال پیش با موتورسیکلت دور جهان را گشتند، در سانتياگو، پايتخت شيلی درگذشت.
@@ -2031,7 +2031,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-75353">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V_BDwAx8fuprY4cdHNpKctryVeNH9VAcGbOnaMF-Q456mquqdcQ09O2yOlJRpNbWieCbNgyuldgx0TA7pdfD-O7YfIyb5UULX1jwBOLTqgCHld3PSWwPQAlhwZnhLYmYBqr6HFcCN1iVK4xp1bkOVf_-1aHQRghxG9Z-7liryoXHL8UdIu2z7dkAkomxeP0AtoaucF3GXM9m_8wk_J8eKVqv1ZK6mHiYWfuousb8PixCuWq_q9DQBIB2Q0_E8FrGhFS_VaQJajVsSocCpM0ODQvRuV8gcrKMtYKatmVsQHx-Ix_eObn9Mzfkm_Iy-F5XGcODGptaecx-WZiRNRrK1w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JANyIDf2DuWtHvFt30mRapMmOrtc0qjp-UkFJ-ePiAWhEVNAG4qpXBfH7wGRLzFjuS4Ykmx21_PZyEGGrLdAvU32tGcnzcCEh_1-uBf5b_dABbCkkZbhztTKiNekozY8DedJvSRMKU-U2J5jtBlyNrIXobH3is1pEZW0lGYCo7q35w3zm5vxw-QiGbA5oQQeQnG9Rn6wxSACz8g_A9WqzY9H5Fb0cp3uhj_5Pu1xCd973tTtflNSVCnmoZYg7OP99ObgYT60y1algn_koPbA0I7d2ax7aJuP0Opsvl8Uj9elbor-okUPEIcfoGAqOvfeI8kkVDY-apkSRGK7S1JRhA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همزمان با شرایط پرتنش منطقه، رویداد «در امارات بسازید» در ابوظبی برگزار شد و شرکت‌های تجاری نزدیک به ۴۶ میلیارد دلار در امارات سرمایه‌گذاری کردند.
 بر اساس اعلام اوپک، این رقم بیش از مجموع درآمد نفتی جمهوری اسلامی، ۴۵.۳ میلیارد دلار، در سال ۲۰۲۵ میلادی است.
 النهار گزارش کرد این سرمایه‌گذاری شامل صنایع دفاعی و تکنولوژیک، دارویی، شیمیایی و انرژی است. این رویداد چهارروزه حتی در شرایط جنگی تعطیل نشد و توانست جایگاه امارات را به عنوان یک قطب صنعتی در منطقه تقویت کند.
@@ -2045,7 +2045,7 @@ VahidOOnLine
 <div class="tg-post" id="msg-75348">
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/QD3wOOP8zhYHahy5Rnbn11i74cAgcHZvR55as14gaMdq0_djNYCFmaOpMOJAQgFw-L6JNA2PtyCIeqPmLfyQrFe6kZQL0pnGsul__VlTJHiqiOLKmpsqGbM4H9OAk2H2G68pr0Ho_OX1gC-bSzcC7Iyp-IALhNO-GAe6hp_4d7n5MOR_JT495D73-aorFgyZNGnVEN6y4gaL2oqAo1PV9Vk3toielwRteuABepdJNEEX1wnYMi1sL_hgJRosqC6ocHK1vn6WKjjf6FuQUJPQwxCFKYEl7pFc5khvS6BAXbZgbhY8cquYIz-8R2Cb5z4xToeCeHidPNPuuMmoS3-JOg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/XDvsR0SOCd24UsjyJca0HRua_p7rlKYf0McIsLLMHWVgncjIk5VP8K_lBaJtytRaxeCFrca_nty7VxnfLOlEjk5rnbKxtwTR1LQtRNchvB9tUKhxjOcVjLahOe8vzfvtooWXmhL6JucXt9tkRNTulLH1WzLQEEkevhs27ZdMi6NfTSVS0E1uYsXayq9qJoRMO4goHGG4iEvtingq5l2Umpv6Q2A1EhrLv4PVH4SF9LFmJTKtMHEZYxYRofEUUfVRVoSeW-9bfKuWl_oQhvnm14Ew9a9YKvPtt8omc40wQcwQUgheOJPVzzhUgNMBGzsNggloS1sjzG645WVFcL2lfg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/XpdhuXegErd9FrdHz0PbQ8BYMJR_zTSjVM6JcmQ3UeQ8kl8PfiJna_a6N-YAhlxOqGLssBfMNySVvZkRsSjI31OURNwxObUyF5juW_gIOhK_ZMYA4Y8Lzhkn9f9kCHG20LTjOrxLCn2f0rwX73mmigP7Q7b59kwiFwmoYtA_fHu0SGjXBi6tYf1Qht-xynK7RyAY7eukJAjLZF91RT6LQymcQmp3x350UZI7h8kKWmrFfIZYgTigTBlfPpyIEuKpEwwHZ-U01JinGjzMFhcVAU41zYrwpg3_TARP-ZDbxDK7Qz7MqckHes7HZpV32S5Lq6ZN59MXRyOMIWEYBszboQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/u28vNG6K47QS4Te96Ep_PWYb8VPbacTtgSv8Hx5h5P0-b4uOdmEi-jgTlfnpBH7V1SLfti1ez1xAme83MjI8YzmqZuVSkltVJaHjjdmZ_JjNicPGHXP6Tmwy1L5D9hvM8kw9jSQLf2VzG0dYwtZi6CjKxRFH55O4yvUuBfGXKDnLFaX5MBjFWFTZXDR2xhyKWeSqyDaARH2AES6-ZIEFAq3XA9flVRBvBXk8sPQ3XkdEzEpdQ3kkep3Go3sa91hwcAwpjhdIHsGZn0QBiRCsOvLJzOBnd0Vc559RRyXRHhUftz8J9gtwcZ7meoSlU0peqa7Oiy6EXSgMbYOdecnHTg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/GlOZEN2qrafEg6Ii3saPIc2ZTH_GX69UO339nFX2TvCaqlLSXEAbfwloL4G-DURcWtycRh8KSSew7aW11JRHmYdOXIuEh9b85CodDybHvQnPYFd0sqir6WhEbh9g7EIgsTiCahJq17P1Y1m_5PWQ7q9zAP9EDhIOM1cKHyVFO66CUNKW6aJnpXy8hdjXYlh_4rc_7wrd78WFkvjry7l1fDBJ2I42Pi9RJMi694zOzkz4rYtU6wSnXGHLkIDSV4tRU08Mx_PRiKfMPUBBcgbGu1NU1Q4v3IecamgkXX4w7AgNxUv6BWLzBWfeaEho5YxEDK1J1vQ8ZiRyQ-0vEAFdWA.jpg" alt="photo" loading="lazy"/></div>
