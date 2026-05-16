@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-27 01:10:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-27 02:07:18</div>
 <hr>
 
 <div class="tg-post" id="msg-64943">
@@ -302,7 +302,7 @@
 🇺🇸
 ترامپ در سوشال تروث: «این آرامشِ پیش از طوفان بود»
 @News_Hut</div>
-<div class="tg-footer">👁️ 5K · <a href="https://t.me/news_hut/64943" target="_blank">📅 00:08 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.3K · <a href="https://t.me/news_hut/64943" target="_blank">📅 00:08 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64942">
@@ -311,7 +311,7 @@
 ❤️
 ‌
 #hjAly</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/news_hut/64942" target="_blank">📅 20:31 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/news_hut/64942" target="_blank">📅 20:31 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64940">
@@ -328,7 +328,7 @@
 چند طرفدار فلسطین از برج ایفل بالا رفتند و پرچم فلسطین را از طبقه اول آن آویزان کردند
 شش نفر از این افراد توسط پلیس دستگیر شدند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/news_hut/64940" target="_blank">📅 19:01 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/news_hut/64940" target="_blank">📅 19:01 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64939">
@@ -339,7 +339,7 @@
 پست ترامپ در تروث‌سوشال:
 بازی نداریم! تماشا کن قراره بعدش تو موضع مورد علاقت چه اتفاقی رخ میده!
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/news_hut/64939" target="_blank">📅 18:38 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/news_hut/64939" target="_blank">📅 18:38 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64938">
@@ -365,7 +365,7 @@ AmnNet30
 برای خرید سریع کلیک کن
 🤖
 @Amnnet_admin_bot</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/news_hut/64938" target="_blank">📅 18:38 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/news_hut/64938" target="_blank">📅 18:38 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64936">
@@ -377,7 +377,7 @@ AmnNet30
 <div class="tg-text">دیکتاتور‌ها مثل هم رفتار می‌کنند
 دیکتاتور ها مثل هم سقوط می‌کند
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/news_hut/64936" target="_blank">📅 10:41 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/news_hut/64936" target="_blank">📅 10:41 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64935">
@@ -386,7 +386,7 @@ AmnNet30
 🇮🇱
 کانال۱۲ اسرائیل گزارش داد که در اسرائیل برآورد می‌شود دونالد ترامپ در ۲۴ ساعت آینده درباره اقدام نظامی علیه جمهوری اسلامی تصمیم بگیرد
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/news_hut/64935" target="_blank">📅 10:37 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/news_hut/64935" target="_blank">📅 10:37 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64934">
@@ -395,7 +395,7 @@ AmnNet30
 🕺
 #hjAly
 ‌</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/news_hut/64934" target="_blank">📅 10:33 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/news_hut/64934" target="_blank">📅 10:33 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64933">
@@ -403,7 +403,7 @@ AmnNet30
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZQg-iLgq9qwzpHQjrM3uwkmeWx1dkvCMY13LE82S3VmtLACKNg50BwNufzgOltICN01qFNU0AM4JHdL-AxXkv9mKxz6W5zRgSoOhuI8Xr6-dx_bLgoPAkSe5NfWqbVbv5FL5w2LMIoQa0qEREypscIL63_ljbe2VmbweqrdeQnYUJDp7ZQNhPeOwWq_5nN3qwFQszhR30ABsfjBDRG_Y7iXFofGMhXIUTZgh21dIjtG5HShGAyF0jYOv3hfZ-11H3_HX7rJr0avAxb6j2XcDpcm_WVN2xMH766icpbvoJ1Z3GX-uYk6tPSYQ2GenAvWgBVQP2aE4utvoRCHF-AvYHw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عزالدین حداد، رئیس شاخه نظامی حماس کشته شد
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/news_hut/64933" target="_blank">📅 22:28 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/64933" target="_blank">📅 22:28 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64932">
@@ -428,7 +428,7 @@ AmnNet30
 ترامپ:
 یک جمله غیرقابل‌قبول. اگر آن‌ها بخواهند هر نوع برنامه هسته‌ای، به هر شکلی، داشته باشند، بقیه‌اش را اصلاً نمی‌خوانم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/news_hut/64932" target="_blank">📅 20:56 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/news_hut/64932" target="_blank">📅 20:56 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64931">
@@ -441,7 +441,7 @@ AmnNet30
 ‌ ‌ ‌ همراه اول
 2.22.250.149
 23.58.193.140</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/news_hut/64931" target="_blank">📅 19:31 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/64931" target="_blank">📅 19:31 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64929">
@@ -449,14 +449,14 @@ AmnNet30
 <div class="tg-text">همه‌ی اعضاء هیأت آمریکایی قبل از اینکه سوار «ایر فورس وان» بشن و پکن رو ترک کنن، هر چی که از میزبان‌های چینی گرفته بودن [هدیه و یادگاری]، همش رو همون‌جا انداختن تو سطل زباله.
 دلیل این کار احتمال جاسوسی بوده
 @News_Hut</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/64929" target="_blank">📅 17:50 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/64929" target="_blank">📅 17:50 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64928">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TxP1mlYTdwMFb-KQOC8B8PPPFEE0VPJZTJ5KEsI5T7YPq_Oc_3opUOIMEPu-b5TZcrAooB1D8JHDATO5b4PUZBPIkRjFJ4bSgRxTwjm_WSQt15RkTCBGhiXrNO6D_Na1Vxyv-r5Z7ZfEWdNBkSNhD3jioN3TjILSekf5ZjzvwJOXIEx54whJOhvN1w-K3cjPr65GsbCmnvY_FI9fN1DNeO_2FXRVQXRKgmCJYhsbZ0xd3_ZeK9M4wntumY_Yvbd594e76QQm1YYpdsJPGKJEbOBeCPi_a5mxH1HZVb74-KzwEH8FY28HEhW5J0vDx1yKZdTQxxOtVSN8dgA8I-RTCw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بنظر می‌رسه تکلیف خیلی از مسائلِ کشور در دیدار آخر هفته بین ترامپ و شی مشخص می‌شه</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/64928" target="_blank">📅 14:47 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/64928" target="_blank">📅 14:47 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64927">
@@ -466,7 +466,7 @@ AmnNet30
 🚨
 🇺🇸
 #فوری؛ ترامپ: تعلیق ۲۰ ساله‌ی غنی‌سازی باید یک تعهد واقعی باشد  @News_Hut</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/news_hut/64927" target="_blank">📅 14:39 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/news_hut/64927" target="_blank">📅 14:39 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64926">
@@ -476,7 +476,7 @@ AmnNet30
 🚨
 🇺🇸
 #مهم؛ ترامپ: با تعلیق ۲۰ ساله‌ی برنامه هسته‌ای ایران موافقم  @News_Hut</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/news_hut/64926" target="_blank">📅 14:32 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/news_hut/64926" target="_blank">📅 14:32 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64925">
@@ -539,7 +539,7 @@ AmnNet30
 🇮🇷
 عراقچی: پیام‌های متناقض آمریکایی‌ها مهم‌ترین مشکل است، هیچ راه‌حل نظامی‌ای وجود ندارد و فکر می‌کنم ایالات متحده باید این واقعیت را درک کند. آن‌ها دست‌کم دو بار ما را آزموده‌اند و اکنون به این نتیجه رسیده‌اند که راه‌حل نظامی وجود ندارد!
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/news_hut/64918" target="_blank">📅 12:45 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/news_hut/64918" target="_blank">📅 12:45 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64917">
@@ -789,7 +789,7 @@ https://t.me/hotVPNplus/9
 @HotVpnPlus
 |
 @HutNewsPlus</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/news_hut/64916" target="_blank">📅 12:44 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/news_hut/64916" target="_blank">📅 12:44 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64915">
@@ -807,7 +807,7 @@ https://t.me/hotVPNplus/9
 می‌دانید، آنها کمی استراحت داشتند، بنابراین سعی می‌کنند چند چیز را جمع کنند. آنها چند موشک را از زیر زمین برداشته‌اند. همه آن‌ها در یک روز از بین خواهد رفت.
 هر کاری که در چهار هفته گذشته انجام داده‌اند، در یک روز از بین خواهد رفت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/news_hut/64915" target="_blank">📅 10:26 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/news_hut/64915" target="_blank">📅 10:26 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64914">
@@ -831,7 +831,7 @@ https://t.me/hotVPNplus/9
 خرید
 @amoadmins_bot
 @amoadmins_bot</div>
-<div class="tg-footer">👁️ 49.4K · <a href="https://t.me/news_hut/64913" target="_blank">📅 03:09 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 49.5K · <a href="https://t.me/news_hut/64913" target="_blank">📅 03:09 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64912">
@@ -840,7 +840,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">رسایی؛ نماینده‌ی مجلس:
 دولت قصد داره میزان سهمیه ماهانه بنزین ۱۵۰۰ تومنی و ۳۰۰۰ تومنی رو کاهش بده و قیمت بنزین ۵۰۰۰ تومنی رو هم به ۲۰۰۰۰ تومن برسونه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/64912" target="_blank">📅 19:59 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/64912" target="_blank">📅 19:59 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64911">
@@ -859,7 +859,7 @@ https://t.me/hotVPNplus/9
 
 <div class="tg-post" id="msg-64910">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mZYpYZyFY930SveoqovzGw9mKyOJBVCg9bDV4iyVuF7fwJARAGgVx3caSmTdGp-t2YKBVUwV5S1ttwX8Of0IVqfMghwElVfnbBn9VgNpqrpO3bYpN7HqBoykUFihN43dDIJQJ8XfzYknImSyjneMTZJkQRFeInsUQZtHPDifJK2LK-U6rVhWGyocPEtKeSf1pnrFgBn8SCJ2npj4kewDrnxUg-iqa69mIPLAw_we43bei3sKkXtP5LByprxZLMoPcy4v2BTsG25iMfHyZvCdQ4xHpMv15NEUDPo3sW8M2jXe-r1wZ-G3-aqfdBnTWyKI5IAdDuqcSzGppkAKxFtk4A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Gzqd3tNoHONrRf2mEfriSc6Up3rj9XX4lFSAC63DWKHpcM67wQXdUyb08xepdkDv3WGmX7CEcM_iBl4yrkkKWmVq2qVz82AIodzYdMl-PQI4-v_Rih7wfD8P2m8egc53-yRV6b1eVUF8I5N6uFrVvBx5QoUfAw04_V90C0_mYurNkoV-ZPzTOoLOEIxfLd2oNCBvZXUoxBu_xtAt_ltU-XR98XhYxp_zVoRogGs0br9FzVBjEcamKg96AeHujaNLI6ELAT4R7D2P1FsR5qiOQOOaJIBQOLe8kpdUtmow2imFmj5IgTHVnUI--gh9k8QnWIXEOsCSey8rqOjw9Hul1w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خسته‌ایم و کم‌رمق
 😂
 #hjAly</div>
@@ -921,7 +921,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">🚨
 📰
 خبرگزاری NBCNEWS: پنتاگون در حال بررسی تغییر نام جنگ ایران به «sledgehammer» به معنی«چکش سنگین» در صورت شکست آتش‌بس است.  یک مقام کاخ سفید به شبکه خبری ان‌بی‌سی گفت هرگونه عملیات نظامی جدید علیه ایران تحت نام و عملیات جدیدی رخ خواهد داد. بحث‌ها در مورد جایگزینی…</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/64901" target="_blank">📅 09:05 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/64901" target="_blank">📅 09:05 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64899">
@@ -938,7 +938,7 @@ https://t.me/hotVPNplus/9
 
 <div class="tg-post" id="msg-64898">
 <div class="tg-post-header">📌 پیام #64</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qO6UAwBEuUQHVi_rrms6AZwp_Ge7pfAOGTw6Pg6YjOKnka_Mc69o-HfHeFpLvAJgj4_Io7ujdKF4m0s4U5dR84XLDuy_BskRDl616XIpbsecc5GJLn24QWNCxYKrpkTh3r_pbSQoUcK0n2VeqFGD6MgBo4stADWiLO1usKFQtuws3On33zrAdQa9tFbgupF7iG-JXIgX9DIxjBoVPq-vtKRN7XYKkkJxC7BsLLoyEkI6kWOLZ6VFh259K9Bbka_IHl5o2os6LPFxjDEcgUGV7PeQz_NmRcxnIdWI61BT0EtXZPgUXU06k-dK3ChtIC0NQy6S9oSJ53zayDOuE-pVYA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KRPs9RocKodPRSMgCs7LGs2WO77Ge4Yyu6X3n1rnNTG_RQDyjGFaYGIHBk1381DST36bUYPyx7Xs_ZCOB9LtPMAgeAH7e_PoY5H1IQMQG1OVb_3G18M9ipqFeIM13jqNcDK0EGKHCSfjOdRh7G_aVRLDHJSQuPquD637GLXGhjELz_95El01t5ORzr9yZIYeFdfpPlxBsM6lTD7PR1rL0fX1nkNxMHD1854nfsXFA5wNChrEg51_YDyg3RIDwS2zeDqCgkNBJVoehBBUfDEtf01T8K8wdwR0729F2LU3tBE5-SPY01xkC1JZScUojLuWxSGz1ywxrOdKgZtQF6Kzsw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باز تهران یه چص‌زلزله اومد، منتظر باشید طهلیلگرا ربطش بدن به آزمایش هسته‌ای
 🤯
 #hjAly</div>
@@ -985,7 +985,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/olaBpOzk74FHAyIgW6u-6F0hcuVSOXUYAqnoSZlw9V7mocOp-EOIZyx7FrYQF9YXKvWJEj_wD8j8r7suwu_lzkpqw05qaTLtqLgM0TmGXrt078ocWbcDn55JvjBYwuCoEDts0NxgixdcmK3036kse8I4wCILfzp20KrBk5mkxI61xzK9QUQfNNgQzrHI2CdbJ6-fMG4dVRb2RsbZhNCayeC-SCoqcYRD5qYz8YSiHIkvlhLtMp_9YAZe1RkGmKTmV700yQrgv97IDMlpR97b5A8K9Nr2osiVaWRhxJCmRMm3Kc2dBcGGsByoMlWOkmIYnq5v9HixqBewqQ81dsORbQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">من هیچ جانوری رو ندیده بودم که آرزوی مرگ یک نوزاد رو بکنه...  جمهوری اسلامی حکومت بی‌ناموسا و حرومزاده‌هاست، اگه حتی جایی یک درصد با اینا همنظر بودی، به انسان بودنت شک کن #hjAly</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/64893" target="_blank">📅 17:50 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/64893" target="_blank">📅 17:50 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64892">
@@ -1083,7 +1083,7 @@ https://t.me/hotVPNplus/9
 خرید
 @amoadmins_bot
 @amoadmins_bot</div>
-<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/news_hut/64885" target="_blank">📅 22:21 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 48.4K · <a href="https://t.me/news_hut/64885" target="_blank">📅 22:21 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64884">
@@ -1105,7 +1105,7 @@ https://t.me/hotVPNplus/9
 🚨
 🇺🇸
 #فوری؛ ترامپ: آتش‌بس داره می‌میره، بهش اکسیژن وصل کردیم تا زنده بمونه، یک درصد ممکنه زنده بمونه!!!!  @News_Hut</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/64883" target="_blank">📅 19:17 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/64883" target="_blank">📅 19:17 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64882">
@@ -1561,7 +1561,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-text">🇺🇸
 ترامپ: می‌خوام کل ماجرارو تموم کنم
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/64835" target="_blank">📅 03:09 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/64835" target="_blank">📅 03:09 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64834">
