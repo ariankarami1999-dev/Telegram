@@ -288,15 +288,29 @@
 <div class="tg-channel-header">
 <img src="https://cdn1.telesco.pe/file/YEer85JBfWTss8q8fYw2ft1kRCyZVqAi3Wh3iF0sjdwh36rNUyF4JBVQ9IQoqvP6nLVfd7TiGVFU9owUf2L4ub61jhwEci3QyRZJGsoN7xuNnSHyWEIYxUoG9ls9aDp7glgEvxO0Hh-35qGaxlb_yhaI637or1n6Zwg4EijeB9P0te6K77r7-Fakf8ZxRqjuMWxZYB0JWaiaSfftif3baC1TTjQ7azM6coDcTdfMmfDYlC9r8jjES_NSbl-2qdqhCbadp0shDxhNbByyP4S4WdC62eCMD0ViFdfbS35ZcQND4629TJbAu7Ij7eyrOoE0rOsba8G3SE5XRtlJP0qH4g.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 Matin SenPai</h1>
-<p>@MatinSenPaii • 👥 112K عضو</p>
+<p>@MatinSenPaii • 👥 113K عضو</p>
 <a href="https://t.me/MatinSenPaii" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 یوتوبر انیمه و مانگا(الان کمی شبکه؟!) - برنامه‌نویسِ ایده‌های باحال•YouTube:http://www.youtube.com/@Matin_SenPai•AniList:https://anilist.co/user/MatinSenPai•Github:https://github.com/MatinSenPai</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-26 12:53:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-26 14:13:26</div>
 <hr>
 
-<div class="tg-post" id="msg-3089">
+<div class="tg-post" id="msg-3091">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qMPi8ehrU1lIi2AHsE8vKwi4jHl2PQJJ3qWh0cbTKunPob_XxwxAWGMW_zjQllVN5iXa0GVm9vD4pi1FtqEL0eL5sHXBZTAEKnlezREpppxNrZwg4HO0NWuelp2o0NT4-kY-qKMI6KbQhmOQodMKESLLTnrF5QRoiV-i-75NLkofOo_DxHsipyFu0Zb7uNUgY5G-go5QrsPvwj4kfjZ43Vq6LPUQdKVvBbvEsdtaoCfWc6oRYyWP6enY0DZQduTCDKv-7DByZ-M5th8shTH8cwGPWII6kuN4fUt0ANVHYy0CGd4hLnux65hdeUoSH9ZHiplChOZewBzFqw4iUh4f4Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">این لیست رو یکی از بچه‌های توییتر واسم فرستاد و گفتش که از دیشب(و تا الان) روی ایرانسل با یه کلیک وصل میشه روی شیر و خورشید. اگر کانکت نشد، مجدد عرض میکنم که بذارید هواپیما و بردارید، آیپی جدید بگیره: 184.24.77.42, 184.24.77.32, 184.24.77.5, 184.24.77.7, 184.24.77.16…</div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/MatinSenPaii/3091" target="_blank">📅 13:39 · 26 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-3090">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-text">Matin SenPai
+pinned a photo</div>
+<div class="tg-footer"><a href="https://t.me/MatinSenPaii/3090" target="_blank">📅 12:55 · 26 Ordibehesht 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-3089">
+<div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">این لیست رو یکی از بچه‌های توییتر واسم فرستاد و گفتش که از دیشب(و تا الان) روی ایرانسل با یه کلیک وصل میشه روی شیر و خورشید. اگر کانکت نشد، مجدد عرض میکنم که بذارید هواپیما و بردارید، آیپی جدید بگیره:
 184.24.77.42
 ,
@@ -400,11 +414,11 @@
 ,
 2.23.176.166
 ,</div>
-<div class="tg-footer">👁️ 8.41K · <a href="https://t.me/MatinSenPaii/3089" target="_blank">📅 12:36 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/MatinSenPaii/3089" target="_blank">📅 12:36 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3088">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/aK670Jd0TKfpMtOf-kuBBw2mZlMJHK-PIkYLmDIeCR3vrIyT-ac20fxA-xWH_8ShFjV02J1ZTd-1i6aDJ-yILj-eScrDcAOQD0qkOcAUwDAzxSkql5hLSzyLATCofS8n4AINSgC7RXeJ4t_Wuxhjva3EewYSxT4fF4C56orIXU5XfnvN9d89y_lOWi9fsf0iDr7EOdQ24jRU9v-GiFxecNeMR4z6PcBvaiUOKYk_u2wOTLF75MWkLRLaCFVpwSn9050Hjnh92dJ0mkaNQIvgUSjBf6-ne5M-QLP_58gj6P0qaCUoPOUXSoukEWEuXc3Eyo7mGX3YePzxfbJW12VPQw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دکتر راس گلر
 :
@@ -420,11 +434,11 @@
 23.67.136.200
 23.67.136.202
 همینجوری paste کنید اوکیه نیازی به کاما(,) نیست</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/MatinSenPaii/3088" target="_blank">📅 11:53 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/MatinSenPaii/3088" target="_blank">📅 11:53 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3087">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QZc-IET8eC6fs_LrDKO9sqD-cJqVKQ3BwuSKrX2UDFfOOuj3km42Rp1Hu8BShOsGYscFHEjB2TwKwqXruJ98Ekoh_NygrjnFnfV0QSls-z8VxYxVAbbh2KyKdD1cBaYJr-zHoPmHnBcQCgSmSVZuKTEEGAxqN8Arw0XuSRIOcD9ePuwflqLUOuJOzSmlrXS_BY9nyozswlsTcIAZlZ6lMf9KP1CneVdh_gmBwt5nbXaeAgmcVIqueOxpz3ETbWxXSaJig5OIf9NsYKV73C6LhER_E0mzxNBzZpvax-pHP0AbnFn0N5NKIecZ3PNr0HTPSjaUd19G0P28r7XSuvwgww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📥
 دانلود اپلیکیشن‌های اندروید از گوگل پلی با اینترنت داخلی
@@ -434,11 +448,11 @@ https://github.com/ZethRise/PlayDL
 https://t.me/APKNitoBot
 ✉️
 @MatinSenPaii</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/MatinSenPaii/3087" target="_blank">📅 10:26 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/MatinSenPaii/3087" target="_blank">📅 10:26 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3086">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromWhite DNS</strong></div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
@@ -475,17 +489,17 @@ WhiteDns Windows v1.0.3
 - سرعت مرور مناسب بود یا نه؟
 - آیا برنامه یا سایتی بود که با وجود Connected بودن کار نکند؟
 @whitedns</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/MatinSenPaii/3086" target="_blank">📅 08:54 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/MatinSenPaii/3086" target="_blank">📅 08:54 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3085">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">اینها رو یکی از بچه‌های توییتر جمع‌آوری کرده و منم واسه‌ی شما می‌ذارم. آیپی برای شیر و خورشیده، بخش sni رو خالی بذارید. خیلیا تونسته بودن وصل بشن باهاشون: 2.16.27.71 2.16.244.11 2.17.147.89 2.17.251.98 2.18.190.26 2.18.190.27 2.19.10.30 2.19.196.105 2.20.255.113…</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/MatinSenPaii/3085" target="_blank">📅 08:46 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/MatinSenPaii/3085" target="_blank">📅 08:46 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3084">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">اینها رو
 یکی از بچه‌های توییتر
 جمع‌آوری کرده و منم واسه‌ی شما می‌ذارم.
@@ -625,28 +639,28 @@ WhiteDns Windows v1.0.3
 185.200.232.41
 185.200.232.42
 185.200.232.49</div>
-<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/MatinSenPaii/3084" target="_blank">📅 05:09 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/MatinSenPaii/3084" target="_blank">📅 05:09 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3083">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">نمیفهمم چرا هر متد جدیدی میاد و هر راه جدیدی باز میشه، یه لگد به گیتهابِ بدبخت می‌زنن
 انگار فیلترچی می‌خواد ما رو تنبیه کنه
 😂
 داره میگه دفعه‌ی بعدی گوگل رو هم فیلتر میکنما، حواستون باشه این سری عصبانیم کردین</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/MatinSenPaii/3083" target="_blank">📅 04:55 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/MatinSenPaii/3083" target="_blank">📅 04:55 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3082">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">طرف بله و روبیکا نصب کرده بعد میاد توییت میزنه که اپ شیر و خورشید(که اوپن سورسه همه کدهاش وسط گیت‌هابه) بو داره نصب نکنید امنیتش پایینه🫩
 امنیت؟
 با من شوخی میکنی؟</div>
-<div class="tg-footer">👁️ 41.3K · <a href="https://t.me/MatinSenPaii/3082" target="_blank">📅 00:47 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/MatinSenPaii/3082" target="_blank">📅 00:47 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3080">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uesmpPMz0sy8gaS61sqdyWb7CCcroMb_veoANmtp5b1ILIcyIk2-6bsw_jYdYsoxqHFjhDYzlrP0NB7Z_LUj9YSqHpqSy2oDQPBoqmCMXINS2A0lDaUKsMTdZd_5IC5uPujjIsZuXCZf-DhfJb11ggx0wNhQqgwGKFVhXHHjFiVij_y7EcbzJlPwDrRrgu9ECvaceT5okmFZcQwad1WgQ0xvtIk3silTZm9Fn4EIVet4se8AhuCuJmNbjorSJv38RS50hy9ziuQ5uLQFBGPX4esld9Lv5GJ7TU98oNOTXNNW2bSPxkFEot4v9rYXZacKXL318wj2tsBc3JD3D8WCsA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -658,25 +672,25 @@ WhiteDns Windows v1.0.3
 <div class="tg-text">اینا چیه درست کردین
 😂
 😂</div>
-<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/MatinSenPaii/3080" target="_blank">📅 00:28 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/MatinSenPaii/3080" target="_blank">📅 00:28 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3079">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">خبر خوب:
 نسخه‌ی اولیه‌ی WhiteDNS برای IOS منتشر شد:
 https://testflight.apple.com/join/GfUqXrFz</div>
-<div class="tg-footer">👁️ 42K · <a href="https://t.me/MatinSenPaii/3079" target="_blank">📅 00:23 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/MatinSenPaii/3079" target="_blank">📅 00:23 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3078">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">این آیپی‌ها رو موفق شدم از سرتاسر توییتر جمع‌آوری کنم برای شیر و خورشید، این بخش‌اش: https://t.me/MatinSenPaii/3070 کافیه که با کاما(,) پشت هم وارد کنین:  2.22.250.149 23.58.193.140 23.48.23.151 2.19.126.81 23.202.138.125 23.43.237.239 104.112.146.82 23.2.13.136…</div>
-<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/MatinSenPaii/3078" target="_blank">📅 00:20 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 44K · <a href="https://t.me/MatinSenPaii/3078" target="_blank">📅 00:20 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3077">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">این آیپی‌ها رو موفق شدم از سرتاسر توییتر جمع‌آوری کنم برای شیر و خورشید، این بخش‌اش:
 https://t.me/MatinSenPaii/3070
 کافیه که با کاما(,) پشت هم وارد کنین:
@@ -725,17 +739,17 @@ https://t.me/MatinSenPaii/3070
 185.200.232.34
 185.200.232.40
 185.200.232.42</div>
-<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/MatinSenPaii/3077" target="_blank">📅 00:16 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/MatinSenPaii/3077" target="_blank">📅 00:16 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3076">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">دور زدن فیلترینگ با کانفیگ سرورلس با ترکیب nekobox و v2rayng</div>
-<div class="tg-footer">👁️ 41K · <a href="https://t.me/MatinSenPaii/3076" target="_blank">📅 23:58 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/MatinSenPaii/3076" target="_blank">📅 23:58 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3074">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/DWKnuZ7jkZj1zm0mKgVjwGlLKi-7blaoivfNG7Ql7wX2U7ycTwup8FIuLYG-tO9nZMp1Tv5NxO5nBj8JRb0cQqAqF4dnvY3NrjBl5BJ4L0vR1m8vK_B5ILHl9qFRkScGwg6Gbqk53LNT5-cY4hoT9Wax5fPmrNr_1S5bvLPYCpiwrSthdN3pJRKGrVklqG38tty3InoAOKUSHAkIRYThZ-i2NXUPs7nPuk9SMwb3Uqfz-WyAcbffUFz2LBcyK8aCySPwzz__jn6qda5qOP-oTL3vtczl9tkVQP-55PoVMgmmZVc-wk7G_HySxRdmkMoggGNRAFFAZQRYo8w8M2aZ2A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/kbDYb8a26l2iPBUfqCkVaQGhUqZoeo4jwMv0gxAr_R9MmhAhCf6SvxlgAhhwY8H-CV5khBe4PWqgFzcydHUNDtJoTqZttKIgKCMkKYtNQCNe7Q3_fNQr79o9Vhr6CYa-rni8CyA_6AsgMyYRr3K2Phkl7OWxLESOo7koT3ujmcjC5XnLi-dt09t_rxZ4Rrv2cEU6gBZdgTUE4LGoMgZwpZhCToFzn_vmN5PBC879Yj39Vl3_GKOtGkDfstWJJC6p61mPf51fDhy97Edv8t8hlk8uRh6hgnAeS4QuouayWXwoYvHmwlKhp7iyn77VWrnKZsibWuWtIWU1ttmJw3nSMA.jpg" alt="photo" loading="lazy"/></div>
@@ -744,11 +758,11 @@ https://t.me/MatinSenPaii/3070
 بعدش با هر دستگاه دیگه‌ای اگر این کانفیگ رو بزنید(با توجه به عدد و پورت خودتون تغییر بدید):
 socks://Og==@192.168.1.147:46597#ShirOKhorshid-MatinSenPIi
 و توی گوشی آیفون(با Streisand)، مک‌بوک(با V2Box)، و هر دستگاهی که کلاینت V2ray با پشتیبانی از Socks داره می‌تونید وصل بشید.</div>
-<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/MatinSenPaii/3074" target="_blank">📅 23:54 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 44K · <a href="https://t.me/MatinSenPaii/3074" target="_blank">📅 23:54 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3071">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/bLD6C1SSIoOyj0i5lPXd3C1EtKfOaiSS3vHhwb9wGgE8dQqig_c2mJ2pFi0xugW-lHc3MT3rnYI7fGjStc5YkSRUYD_FB-d52fM2eRccTF6MCRqgzm4JluSmGZY_6Kvc76b7XRC3YbiEQkX2xDFUpyxB3X5uflZnRYSyV5aiqDhmAfG5WR52XMT70cQbbVi-ef71TGkfCF-De5k_2c8AI2F9lDieekLUizIWoibQYqYPpoCB_PO9qYKev-KMrW7NRRSWvLHdNqlBDVsuG7O7nRchtWS4t-Vh8iOBebGTdRLrvDIW2UawgXDWRLIktAUs8yuUKUcGPks6_4wvUxJWnQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Kharabam
 :
@@ -762,11 +776,11 @@ www . mathworks . com >
 2.23.169.12
 > Akamai
 برای mathworks حتما www بذارید.</div>
-<div class="tg-footer">👁️ 49.7K · <a href="https://t.me/MatinSenPaii/3071" target="_blank">📅 18:11 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/MatinSenPaii/3071" target="_blank">📅 18:11 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3070">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IU80bAtWKBaUN2jV40QgfKHxuylNTAM9w761T45TNpl89eUodMAtCYp-_QmoxA0zXrXyGeboXkMnM2wRx3wB5VBBRI7Jvvz7B6kfxXl_WNLZ018flAGRNnz0rDaYX9grdp-mqU0htKsTF3vflhqk4aGvuPDOJ1j40WeVCaDVInbChXDHc9uatbrwGzisU3Rx4DutOqm2zXZylzBs-p__NLmC1SXFN-TcGJ5A-uU9_Py9nB4qUgOZ8_a2c8lpgn349m0-Ii507MO9tbH9XEXyJ8UWOstdaOC1S9BeAyzfrFsIdWKIHEUd4_Tb3bp-6PEfFrT63FsGJAL0Y2ubwbzIBg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی از دوستان توییتر روی ایرانسل با این دوتا روی شیر و خورشید وصله کاملا اوکی:
 CDN Edge IPs:
@@ -775,11 +789,11 @@ CDN SNI Hostname:
 python.org
 ‎
 توی همون قسمت More Options هستش</div>
-<div class="tg-footer">👁️ 48.4K · <a href="https://t.me/MatinSenPaii/3070" target="_blank">📅 17:55 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/MatinSenPaii/3070" target="_blank">📅 17:55 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3069">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -789,11 +803,11 @@ python.org
 <a href="https://t.me/MatinSenPaii/3069" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">سرور رایگان</div>
-<div class="tg-footer">👁️ 48.7K · <a href="https://t.me/MatinSenPaii/3069" target="_blank">📅 17:31 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/MatinSenPaii/3069" target="_blank">📅 17:31 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3068">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qLb_ZiKmda3_cG8R6v8lmafJf-7SIpB-xdaMgj8zE4QZG6D0fxUiUIW8ma83_FNPFd7xSamY4DjA8xzuEBqikNpbZZ3CNEJERqJzHnkOa7TCYe8Ck5L1r1tya_c1SFN9PLGyui0sNsbToDqHU-og_i93ZgI4FcLPUjfuIcctUZAAGQ_mUpHfoqHIpUvtqqb1QbpM1eFg92VO9Q_j-3NvNam6iHhYA3PceQX1FHXOwJJtpmguQwHh2039P_bLldBtBGfpBXGSyPv4BrYUl9G_arcLAcobeHhhUuOjVDLTIyRqXbMJpYiCXUhuWBPxndwe1Sz_WLBw5BanCVOK3shG_w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دانلود راحت‌تر پکیج‌های Dart و Flutter
 وقتی "
@@ -803,44 +817,44 @@ pub.dev
 مسیرها و DNSهای مختلف رو بررسی می‌کنه و بهترین راه دانلود رو برای "flutter pub get" انتخاب می‌کنه.
 مناسب توسعه‌دهنده‌های Flutter و Dart
 PubYar.ir</div>
-<div class="tg-footer">👁️ 51K · <a href="https://t.me/MatinSenPaii/3068" target="_blank">📅 15:42 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 52.2K · <a href="https://t.me/MatinSenPaii/3068" target="_blank">📅 15:42 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3067">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">گوگل من روی همراه اول یه بیست دقیقه‌ای بسته بود.
 نمیدونم دارن چه گندی می‌زنن باز</div>
-<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/MatinSenPaii/3067" target="_blank">📅 10:02 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/MatinSenPaii/3067" target="_blank">📅 10:02 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3065">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/hSyunhre7VNdcbGHoHmZDZ6XSn5r50gA43odxB9OgXSac6Tz-cCtEzI_QIgAKutEojo2rkMZaEl-PWetha8FvDnCoLRH4hDWdynRCqxlwwMVevbVrV61t6GuEGbOxu3Xv6vcK1yUnURT1ElvKQilmDmk3ja4RaYHwWYKfzFUcwnNWv3PPyJg0zravC-tdrDpCN1B_OjOdNn7aUfh-e7ZqqEr8B1Sb87rlSakJnzaVZ8EjMTtzQr_ig_sqUtzbXSTswA9_nSJs_BEncs0HTaotPX7Xw1S5LSdCpxp5GN-KaXtLZHEtefALp3v8rPsGlDSsOsU268EsEzEsvGX3whfVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/dIpFG1i11CPT9KkfrTMTIzlvAk8XmXUW4wnAQrGPVhlTpP1CO55fbskh4Z3PUMdJqOAWPSCtE0FwGwt5wJdkulU8kAyTpZifdiIiBbTUKjJu063Qe_Ge-_yAUrh5pnAI3a0YEgESNugIGkn2HYeISEaRWNOPYW3UJi7SZaRaVguFBTtrXG7c6ekizc7cdzyjMY7_l1Ec5E3CoADC3N4yyMXdhqjYjFNgGpQyuyBdADWUlrh8tHkMPrG3MH8ntCrrlqi_QuXYVoo34DN11jN2W29BmGDK0w3lDWjwJ_jTDfBuJVk-rg5rOyl7lFro2DsxT4Y-mjKCC9aO31DX3vnzMA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">سرور رایگان</div>
-<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/MatinSenPaii/3065" target="_blank">📅 08:23 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/MatinSenPaii/3065" target="_blank">📅 08:23 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3064">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">ورژن جدید White DNS با یه سرعتی ریزالور اسکن می‌کنه که آدم باورش نمیشه</div>
-<div class="tg-footer">👁️ 54.9K · <a href="https://t.me/MatinSenPaii/3064" target="_blank">📅 07:29 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 55.6K · <a href="https://t.me/MatinSenPaii/3064" target="_blank">📅 07:29 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3063">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">نسخه ۱.۰.۲
 🔄
 WhiteDns Windows
 آموزش خیلی مقدماتی و ساده برای استفاده از این نسخه
 @whitedns</div>
-<div class="tg-footer">👁️ 55.5K · <a href="https://t.me/MatinSenPaii/3063" target="_blank">📅 06:26 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 56K · <a href="https://t.me/MatinSenPaii/3063" target="_blank">📅 06:26 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3062">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -851,11 +865,11 @@ WhiteDns Windows
 </div>
 <div class="tg-text">اینم نسخه gui مس اسکن خیلی کار کردن باهاش راحت تره
 قبل شروع اسکن باید winpcap-4.13.exe نصب بشه روی سیستم(سرچ و دانلود کنید از گوگل)</div>
-<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/MatinSenPaii/3062" target="_blank">📅 01:24 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 58.4K · <a href="https://t.me/MatinSenPaii/3062" target="_blank">📅 01:24 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3061">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -893,11 +907,11 @@ https://github.com/robertdavidgraham/masscan
 -iL
 میتونی بدی بهش
 همشون رو هم ۵ ۶ ساعت بیشتر طول نمیکشن (خیلی زیادن)</div>
-<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/MatinSenPaii/3061" target="_blank">📅 01:08 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/MatinSenPaii/3061" target="_blank">📅 01:08 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3056">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded frompatterniha</strong></div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
@@ -913,22 +927,22 @@ force-fastly, force-akamai
 که در
 https://t.me/projectXhttp/354790
 قرار داده شده بدست آمده.</div>
-<div class="tg-footer">👁️ 67K · <a href="https://t.me/MatinSenPaii/3056" target="_blank">📅 00:52 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 68K · <a href="https://t.me/MatinSenPaii/3056" target="_blank">📅 00:52 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3055">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">برای اسکنر آیپی که خیلی‌هاتون پرسیده بودید دایرکت، ساده‌ترین راه اینه توی ترمینال(چه cmd ویندوز چه ترمینال termux) بنویسید
 ping
 20.20.20.20
 (آیپی مورد نظر)
 حالا اگر اسکنر هوشمند بخواید، میتونید از پروژه سم استفاده کنید که اصلش برای کلودفلره، اما میتونید کلا لیست آیپی بدید اسکن کنه:
 https://github.com/SamNet-dev/cfray</div>
-<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/MatinSenPaii/3055" target="_blank">📅 00:38 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 58.6K · <a href="https://t.me/MatinSenPaii/3055" target="_blank">📅 00:38 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3054">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">یکی از بچه‌ها(abol) گفته بودش که:
 از وقتی سرتیفیکیتو نصب کردم رو سیستم
 دیگه نت سیستم به کل قطع شده
@@ -943,128 +957,128 @@ ipconfig /release
 ipconfig /renew
 ipconfig /flushdns
 در نهایت سیستم رو Restart کن.</div>
-<div class="tg-footer">👁️ 61K · <a href="https://t.me/MatinSenPaii/3054" target="_blank">📅 20:16 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/MatinSenPaii/3054" target="_blank">📅 20:16 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3053">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">دوستان من، خیلی ممنونم بابت حرف‌های پر از مهرتون
 🥰
 خیلی خیلی زیاد خوشحال شدم از دیدن اینهمه پیام‌ زیبا
 🌱</div>
-<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/MatinSenPaii/3053" target="_blank">📅 20:15 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/MatinSenPaii/3053" target="_blank">📅 20:15 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3052">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">دوستان من، خیلی ممنونم بابت حرف‌های پر از مهرتون
 🥰
 خیلی خیلی زیاد خوشحال شدم از دیدن اینهمه پیام‌ زیبا
 🌱</div>
-<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/MatinSenPaii/3052" target="_blank">📅 20:09 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/MatinSenPaii/3052" target="_blank">📅 20:09 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3051">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">اگر حمایت‌های پارتنرم نبود، مدتها پیش سلامت روانم رو از دست داده بودم حقیقتا. و اصلا بعد از دی‌ماه نمیتونستم هیچ کدوم از آموزش‌ها رو استارت بزنم و شاید از مبارزه ناامید شده بودم. تشکر ویژه از شما، بانو
 ❤️</div>
-<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/MatinSenPaii/3051" target="_blank">📅 19:42 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/MatinSenPaii/3051" target="_blank">📅 19:42 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3050">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">خب گویا آی‌پی دیفالتی که پشت جیسون بودش رو زدن. مجددا موش و گربه بازی سر آیپی و sni تمیز.
 Pypi رو زدن،
 خود
 python.org
 بذارید باید اوکی بشه. همینطور از آیپی های این پست استفاده کنید:
 https://t.me/MatinSenPaii/3040?single</div>
-<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/MatinSenPaii/3050" target="_blank">📅 18:52 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 66.4K · <a href="https://t.me/MatinSenPaii/3050" target="_blank">📅 18:52 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3049">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">اگر حمایت‌های پارتنرم نبود، مدتها پیش سلامت روانم رو از دست داده بودم حقیقتا. و اصلا بعد از دی‌ماه نمیتونستم هیچ کدوم از آموزش‌ها رو استارت بزنم و شاید از مبارزه ناامید شده بودم.
 تشکر ویژه از شما، بانو
 ❤️</div>
-<div class="tg-footer">👁️ 68.1K · <a href="https://t.me/MatinSenPaii/3049" target="_blank">📅 17:28 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 68.4K · <a href="https://t.me/MatinSenPaii/3049" target="_blank">📅 17:28 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3048">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/TYKXnF6QjJVYVQgoBWohM7HHkILqE-mY6N_xhcHd1KcF-b70eyXbp1Gbt_MlqIQV5EpnlD1SGvvkJUjj_-jh1mwL6MFLZHsBNZgzG2kIk5-5VG7hQwobiZipGcNl9Hi9VCblbrdDCAUsrftOeEvYAx6bqmNTaVkPEGxtHl1kNg1Ul4_5vRvw_ndwYdbHozR7yFAwYWMLrk7ObCQu2BXbQtUZw-aiAHbcG7PYJ2x1tQnUaJC6_4jCz_paoYXpRhWv_GnuTJbUsv08ZVw9s08lBnRJs1BBjeoXFyb9BTr4F8yX9ahJ9jRfSvMlbw7zBu8J2nJiFaw2AZhZA5C3ueUF6A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Kharabam
 :
 وقتی رو سایفون ویندوز upstream proxy ست میکنید دیگه اجازه انتخاب لوکیشن نمیده برای دور زدن این محدودیت ریجستری ادیتور رو باز کنید برید به این آدرس
 Computer\\HKEY_CURRENT_USER\\Software\\Psiphon3
 و EgressRegion رو ادیت کنید و Value data کد هر کشوری که میخواید بهش وصل بشید بذارید</div>
-<div class="tg-footer">👁️ 67.2K · <a href="https://t.me/MatinSenPaii/3048" target="_blank">📅 17:22 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 67.4K · <a href="https://t.me/MatinSenPaii/3048" target="_blank">📅 17:22 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3047">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">اگر به ارور Upstream proxy میخورید، یعنی پورت رو دقیقا اونی که توی ویدئو گفتم ست نکردید. یا توی بخش مناسبی نزدید. باید مو به مو چیزایی که گفتم انجام بشه دوستان</div>
-<div class="tg-footer">👁️ 64.5K · <a href="https://t.me/MatinSenPaii/3047" target="_blank">📅 17:17 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 64.8K · <a href="https://t.me/MatinSenPaii/3047" target="_blank">📅 17:17 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3046">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">روی ویندوز از این آموزش استفاده کنید:
 https://t.me/MatinSenPaii/3035
 روی اندروید مستقیم وصل میشید با این اپ:
 https://t.me/MatinSenPaii/3038</div>
-<div class="tg-footer">👁️ 70.4K · <a href="https://t.me/MatinSenPaii/3046" target="_blank">📅 16:10 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 70.6K · <a href="https://t.me/MatinSenPaii/3046" target="_blank">📅 16:10 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3045">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">Matin SenPai
 pinned a file</div>
 <div class="tg-footer"><a href="https://t.me/MatinSenPaii/3045" target="_blank">📅 16:02 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3044">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ruW6h-rANk4p-Bp7EccT0RKs8EqZ-8bJPMHfQ8d7DFslKCc9FTT-wV2xx5Z_fgxDQHcciGdqhpsHN9IdEOiqVsS503rRZF4hL7pllFbIWakeVS4UG7KGdH8TZLA7fC2Tbo4qItk0xyD0GkpiEB-LWIaTQHR51x094WXEMlT_KuHnQIG6QMAv_tij6zRy5uCW2koBU_ZDthzN2Om0Vftom1SoVJT4EguiBwA_E6FhaV-aCMbbWw2QkWF0cjmW2oWZmI5gGQ034ICe7LYZ_3SSwIqNccoYKKd4RlyNhS5dSpClR37RuzC6FWxuCJKzTomAE4X9o2npTeyGl0jf5zYdGQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یوتوب ویدئو رو پاک کرد به علت محتوای خطرناک و آسیب زا به منم استرایک زد
 😐</div>
-<div class="tg-footer">👁️ 64.1K · <a href="https://t.me/MatinSenPaii/3044" target="_blank">📅 16:02 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 64.4K · <a href="https://t.me/MatinSenPaii/3044" target="_blank">📅 16:02 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3043">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">یوتوب ویدئو رو پاک کرد به علت محتوای خطرناک و آسیب زا به منم استرایک زد
 😐</div>
-<div class="tg-footer">👁️ 63.5K · <a href="https://t.me/MatinSenPaii/3043" target="_blank">📅 15:50 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/MatinSenPaii/3043" target="_blank">📅 15:50 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3042">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qYGyB4wc7YDl094AxTENnyKFwgaftCy-ng9rhgTmZBSnq6r7_4uKYcqtD6wxSAV9uPUsqpszA5ws65qpgLCbW0H7US2VI073okUe8SF4lRbVq_tlG422Lka_406k22PuDrXcNEuj4rViYWGISlWx_NK1p-LevlS6jw65nYlV5s_8rmXMNmjHTlMI4R0arlbcFBwgPP6x39e8uCKkLmHOEiYnBnVtV1lpTuOrrvvVjBcEg7fXKkSZaCHg3vXZcJ0jIeh8E8u0upwuW0r_1jHKgWLDixx20aoV-WtjIOMsnBrLB7s7tyvbnZXLzt0IMOKslCnLb-WZVbHtR850Da0WWg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یوتوب ویدئو رو پاک کرد به علت محتوای خطرناک و آسیب زا به منم استرایک زد
 😐</div>
-<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/MatinSenPaii/3042" target="_blank">📅 15:43 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/MatinSenPaii/3042" target="_blank">📅 15:43 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3041">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">Matin SenPai
 pinned a video</div>
 <div class="tg-footer"><a href="https://t.me/MatinSenPaii/3041" target="_blank">📅 15:36 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3039">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/HTO7bPlZhJOOo5-k62glnWJAN3CMt9GuezhKN4DvSq5U6i5nctDkVON34rae4RdNLI7rA_ECWgq87icFfhBsRFMBJXH6Wld_mWEr-7XwgecwQoleNBgpcR9BudWb2C-E-iI3hG1N3wXSl74HVZ16EBLZ0s31yRg0M4pvs5oJDcy1KmtgTuwpV3zEFzIpEbeugDAQT7IuEXFVveGvg6hiNBhszhNknGddbp31hXK9huuWGQT9D1FDmIs7ZowbRqMk2Omt14e4adiN7SKas_teXy-hbSpxFWKSHv5ps-0b3U3x4YyCWuZOsmw9uEkK2DLnaMRKoZlIF3lFl6fQqa1qCA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/e0wCXdhc5YFH2duOHGXjac0l6pP9iA8RGrfoUJ1zNiBAPwh0F7sSW_3sX7g-bx0RJzZGy2h29ZumZ7DVbmR6mwPQNjBvryclyHaI4XftnzCfN8EU6Xp2zjS6mhhh0dPk1jOSKCqqseT-3T4flAG1gUrNXvbRG6gnBqzRUK1tcyylwBZtHdaeDepW19uOfb7ASPuYeqZsuJegvntpu72CAdETHDG2_ld9I8v9Pbe8n6KUxkvZOFMdQgwpyevrYTn5-Fd9aEGmK94RB18l1KNRiAzeOWZ77P309w2ZftpXhlyMN0M_6PnsfL5vVmZ4sAfkYjLwIFOszCmg-HYsaQIpXQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">ShirOKhorshid-2026.05.14.apk</div>
-<div class="tg-footer">👁️ 80K · <a href="https://t.me/MatinSenPaii/3039" target="_blank">📅 15:34 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 80.4K · <a href="https://t.me/MatinSenPaii/3039" target="_blank">📅 15:34 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3038">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1081,30 +1095,30 @@ pinned a video</div>
 3- روی More Options کلیک میکنید
 4- گزینه‌ی  Connection Protocol رو قرار میدید روی CDN Fronting
 5- میرید و عادی کانکت میشید و به راحتی وصل میشه!</div>
-<div class="tg-footer">👁️ 103K · <a href="https://t.me/MatinSenPaii/3038" target="_blank">📅 15:31 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/MatinSenPaii/3038" target="_blank">📅 15:31 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3037">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">حالا دیدین متد ترکیبی سایفون افسانه نبود و واقعا وصل میشد؟
 🤣
 🤣
 🤣
 🤣
 🤣</div>
-<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/MatinSenPaii/3037" target="_blank">📅 15:21 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/MatinSenPaii/3037" target="_blank">📅 15:21 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3036">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">دوستان عزیز، خواهش میکنم به DNS بها بدید. معلوم نیست کی مجددا متدهای حال حاضر رو می‌بندن. از نرم‌افزار و آموزش‌های
 @WhiteDNS
 استفاده کنید و الان که اینترنتتون شاید اوکی تر باشه، نصب و ستاپ کنید</div>
-<div class="tg-footer">👁️ 63.5K · <a href="https://t.me/MatinSenPaii/3036" target="_blank">📅 15:18 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 63.8K · <a href="https://t.me/MatinSenPaii/3036" target="_blank">📅 15:18 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3035">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">☠️
 آموزش اتصال رایگان و نامحدود به اینترنت با متد ترکیبی MITM + Psiphon
 ⚡️
@@ -1127,85 +1141,85 @@ https://github.com/patterniha/MITM-DomainFronting
 تماشا در یوتوب
 💰
 دونیت</div>
-<div class="tg-footer">👁️ 99.4K · <a href="https://t.me/MatinSenPaii/3035" target="_blank">📅 15:13 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 99.9K · <a href="https://t.me/MatinSenPaii/3035" target="_blank">📅 15:13 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3034">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">چه حالی میده رایگان وصل بودن
 📚
 از زمان SNI Spoof اینو تجربه نکردم خدایی</div>
-<div class="tg-footer">👁️ 59.6K · <a href="https://t.me/MatinSenPaii/3034" target="_blank">📅 11:45 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 59.8K · <a href="https://t.me/MatinSenPaii/3034" target="_blank">📅 11:45 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3033">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">بی‌زحمت لینک سایت‌های داخلی برای آپلود(هرسایتی که میشناسید اوکیه) واسم بفرستید، تا زمانی که ویدئو حاضر شد واستون همزمان به همراه کلاینت شیر و خورشید و فایل جیسون و ... روی چندین جا آپلود کنم:
 https://t.me/MatinSenPaii?direct</div>
-<div class="tg-footer">👁️ 58.5K · <a href="https://t.me/MatinSenPaii/3033" target="_blank">📅 11:43 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 58.7K · <a href="https://t.me/MatinSenPaii/3033" target="_blank">📅 11:43 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3032">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-footer"><a href="https://t.me/MatinSenPaii/3032" target="_blank">📅 11:42 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3031">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">قطع و وصلی داره ها، اما هر 5 دقیقه، 10 ثانیه قطعه مثلا
 برای گیم شاید عالی نباشه، اما وبگردی، اینستاگرام، تلگرام، توییتر و هوش مصنوعی‌ها همه اوکین</div>
-<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/MatinSenPaii/3031" target="_blank">📅 11:41 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 58.4K · <a href="https://t.me/MatinSenPaii/3031" target="_blank">📅 11:41 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3030">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jFQfHlhbqSTrtVHZ_7htEwFmbV8AfXaDPsLJBkcvsenevIp2e8mtxhXrZng0JljWnMpBOHi1UHwrYni7Pfi_14RtcIY5TSwcj-fC4GR_KFR4vyHJOYNj_DpmJHRkhpEvb3UCVcb1rILTOcDqRv6y6XVb8tQY2Sh1mnbXB_PgjZsW_XOaIRx7mrJfRbEehDZd7oR4pJj4NGi1pr8O1kjuErpWgQomwaZwfTu5zTUPUZLZnR-RiJtwtLPBbtVipkMlcmTcY33PLqpKOcgLTREZvQ-y6Gsz1Hdouj7X6D3C_hghxKilW7wSTHy1c6T-rNfzdYfR16Ji3l1lUAg3UOWsQg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این هم روی گوشی(تمام باگ‌ها و مشکلاتی که توی گروه‌ها گفته شده بود رو در آوردم و دسته‌بندی کردم و خودم امتحان کردم)
 این پست هم با همین متد داره فرستاده میشه
 🕶️</div>
-<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/MatinSenPaii/3030" target="_blank">📅 11:39 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/MatinSenPaii/3030" target="_blank">📅 11:39 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3029">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VyFXgCFsZvPP-SxOu8RPjzbegfm9rax8NGRg2iO1Jxqe0ZL8SH_L7CX4Jh4IhcyOzeXaKoHfPQc2dZ7WyJ5QnzLd7XHOXHemHhTrwtt6OlQ5AImRtSJ3gqN7sg8d0hQ5yi-IOO_rzt32Nv1dw8nHrb1q3ifjc6NlmGq609tHgGZhz3qlSiB7es2-sb5QgTyFXA0KHWp3lI9nZJOXp-JopM-_y6sMIJbWK3QqilQvs-pgvv6OPsxt2BnXfWeNzncumzroyFntMRj3RA7cnTrza3FKBo9fFGyyF95gI-dwidu3keOnmx7Mbn7wty96bO5aDCotEI-qfSF9LHsbhYI62Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای یه روش کاملا رایگان، بدون نیاز به سرور، بدون نیاز به اکانت گوگل، بدون نیاز به شماره حساب خارجی و هیچی، سرعتش عالیه. آموزشش رو می‌ذارم واستون. خیلی ساده‌ست
 با تشکر از
 @patterniha</div>
-<div class="tg-footer">👁️ 53.8K · <a href="https://t.me/MatinSenPaii/3029" target="_blank">📅 10:46 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 54K · <a href="https://t.me/MatinSenPaii/3029" target="_blank">📅 10:46 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3028">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">دوستان عزیز که با اپ میتونن وصل بشن اما چیزی براشون لود نمیشه.</div>
-<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/MatinSenPaii/3028" target="_blank">📅 20:05 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 59.4K · <a href="https://t.me/MatinSenPaii/3028" target="_blank">📅 20:05 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3027">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromWhite DNS</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rQKT18cUscTs25MeXXTAViW61dayIyXExy3CWwlwbX0dGWmC3rxXrVJ9iUOBI3rHK_jpFVl3Dcv8pnIAEk8-SBmyZbvcV5iiIj8iYIzizaFqD78iJ10H9K4D6bxGf-Hxg-0dWG1Vgr1ahTUYg3Bz-oGaaZCr4HXu2CRJZ9vQ9Foh4I805q9lKFRDq-TRalnS73sA3gGIVlvtC_hAXRUpImeaqsCmHB6bp6zf3vxfjBIikeuIqtIl8iwuBv9l9fcEICuQWp2n8DJ3xEKKKD11an_cqB4QXq0GZOSSfMOIj0UyhvvdWAmBfowLoVLX4BkM1MH5bFQGxDs4gR7kxHmnhg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">امکان دانلود کل ریزالور ها به ربات
 @dns_resolvers_bot
 اضافه شد
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/MatinSenPaii/3027" target="_blank">📅 06:27 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 52.3K · <a href="https://t.me/MatinSenPaii/3027" target="_blank">📅 06:27 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3022">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">تجربه و علم نشون داده شخصی که تجربه‌ی توجه زیاد رسانه‌ای نداره، و مطلبی رو آموزش میده یا توییتی می‌زنه و اون مطلب وایرال می‌شه، مغزش عملا دوپامین رو با هویت اشتباه میگیره. اینجا مغز فکر میکنه که خب لابد «من خاصم»، نه اینکه «محتوایی که گذاشتم خوب بود. مردم…</div>
-<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/MatinSenPaii/3022" target="_blank">📅 23:07 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 56.7K · <a href="https://t.me/MatinSenPaii/3022" target="_blank">📅 23:07 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3021">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">تجربه و علم نشون داده شخصی که تجربه‌ی توجه زیاد رسانه‌ای نداره، و مطلبی رو آموزش میده یا توییتی می‌زنه و اون مطلب وایرال می‌شه، مغزش عملا دوپامین رو با هویت اشتباه میگیره. اینجا مغز فکر میکنه که خب لابد «من خاصم»، نه اینکه «محتوایی که گذاشتم خوب بود. مردم…</div>
-<div class="tg-footer">👁️ 55.2K · <a href="https://t.me/MatinSenPaii/3021" target="_blank">📅 21:47 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 55.4K · <a href="https://t.me/MatinSenPaii/3021" target="_blank">📅 21:47 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3020">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">تجربه و علم نشون داده شخصی که تجربه‌ی توجه زیاد رسانه‌ای نداره، و مطلبی رو آموزش میده یا توییتی می‌زنه و اون مطلب وایرال می‌شه، مغزش عملا دوپامین رو با هویت اشتباه میگیره.
 اینجا مغز فکر میکنه که خب لابد «من خاصم»، نه اینکه «محتوایی که گذاشتم خوب بود. مردم صرفا این محتوا رو دوست داشتن، نه اینکه شخصِ من رو دوست داشته باشن.»
 و اینجاست که مغز ما رو به بی‌راهه میکشه.
@@ -1216,11 +1230,11 @@ https://t.me/MatinSenPaii?direct</div>
 ✍️
 Amir Mokhtari
 با کمی تغییر از سمت من</div>
-<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/MatinSenPaii/3020" target="_blank">📅 18:59 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 55.4K · <a href="https://t.me/MatinSenPaii/3020" target="_blank">📅 18:59 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3019">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromxsfilternet(امیرپارسا گودمن)</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rwXCGje2tx_NcvedkSyWaOxseEPnQsZ9PIGzlbLse-fmMAHA3kCHFALMrILTUjmHRd8BffsD49ziPJ7IN1lSNNKlmM3QDIOsMHqWgvkw3yKPgDLa8zir5m0g0v0TXQH34fHv1BeeaVy1IzpUti511PKe3crW1TDAH-n9segfA7uGkYvuAML2H4rvnFMGRyacyLfzAUGaKDAqmA-G5IJQCAKg3bzMxN0g9rzav3uyc898nXaXbZ6sBugjLO2Ubz1UyqF9ezsm4V3SBKECPurlCJcLPMYfNbcI17IcplCHvvh7bAgwi8iKmfqjGEopphTMha3qJ4LChXM8LazNzkMtMQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">IRCF | اینترنت آزاد برای همه (Twitter/X)
@@ -1233,11 +1247,11 @@ TunnelX برای زمانی ساخته شده که کاربر نمیخواد ت�
 http://github.com/MaxiFan/TunnelX/releases/latest
 @xsfilterrnet
 👑</div>
-<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/MatinSenPaii/3019" target="_blank">📅 17:24 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/MatinSenPaii/3019" target="_blank">📅 17:24 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3018">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromWhite DNS</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aUHLID3nlo5s2cTCKi01mbA8MMPfIWy8jNYFGau_4mrVYgKlUZJrT5XIp_64SZKW_eqlCyrr4O3fA_-sufhnO-e1l3p3T7aQgzekiRSSOc3lj25xibZXnXqYeYuyUG3IdxV8nq0m6knMtTWIP1Mt0kLa3M5ZNv68apcp2gx-I_5Dt3Hlv9GmNWsrBG7Ciu1bzjrkxJg7Dxn1Jx1ME9Kk8HWeGV6Nn9SyW5ncfC5cQnkSRaoOV3P761YLRb_2oynqaiVcl6HHEVy_3rJse06ZjGN7cYGJL_M961dLh8M2fs_6FMT2H22mmCFxdUgm3GQy2R2yrxCmQNNmGjZ_ETMyYQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">راهنمای دریافت ریزالورهای MasterDNS / StormDNS در WhiteDNS
@@ -1254,11 +1268,11 @@ http://github.com/MaxiFan/TunnelX/releases/latest
 4️⃣
 لیست کپی‌شده را داخل اپلیکیشن WhiteDNS وارد کنید و از آن برای اتصال استفاده کنید.
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/MatinSenPaii/3018" target="_blank">📅 17:07 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/MatinSenPaii/3018" target="_blank">📅 17:07 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3013">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromWhite DNS</strong></div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
@@ -1310,11 +1324,11 @@ https://github.com/iampedii/WhiteDNS/releases/tag/1.2.0
 ❤️
 1⃣
 WhiteDNS</div>
-<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/MatinSenPaii/3013" target="_blank">📅 17:07 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 40K · <a href="https://t.me/MatinSenPaii/3013" target="_blank">📅 17:07 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3011">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/UrqQJWFKHnszDU_ELgHBtLYEFxYZO7L_8XO8CPibZUr1a2SF_XqA-Vbm-XtImofcR5Sijqc2wmaJzEVCNeDrbVRUp-w_1t2qM2QOSWeWs-ZFwp-QFeearLEOZPDa4Rbblm6QNmDsahGm83GmE-QjUxFd5rj5JedxDH0UpRykY37YTYJYjKe_GyumRMpm2PZgYk61aWyqpF0fO9h-_5Yg6YdVa0Z63nFEtgglJXOxFe-j8tFhi-KJiZVFDTM1XximS6_pr6u6YJXzhXokVX1k-VLz9PLg-_AfzpnZPme-vPPeenT3jy8CAjlG1vQIJycKPedxEjol073-0bxTNKxaTw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/ANe8Qa_nx4RCNaNh8ohO8Ov3Ij7esrMbQcfkQxN_Bol_sjJyqF73YhDwq2fmCm4r0HnxR7XT5dXGHkeZ3ThhTsIh0CWyMEjCvifHH6hRSK7UktId8vJC_jboV_9Sw7NXXVfFZb_xSmpbwQY35oc-oYGsh2j3cyWNYmreTVdVx-RTeWDbkXypcWdCPZUDPpBXMWKclkJYgE6jZg0Xat_z7M5zl3z9x0axW3jUHqsAhRbKgFMxBYzRrRg18f5KN1CnInnAanT5P0LETg-rnq3KSKlSusqUwtscaqlRdDFYkJMvCtUsADAOmI5H5Xe-SLRX9oLMi9PNTkIwIw7w6CpPAQ.jpg" alt="photo" loading="lazy"/></div>
@@ -1323,96 +1337,96 @@ WhiteDNS</div>
 به همراه آموزش پیدا کردن ریزالور
 با تشکر از بچه‌های تیممون، WhiteDNS
 (توی این عکس با سرور رایگان وصلم)</div>
-<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/MatinSenPaii/3011" target="_blank">📅 23:36 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/MatinSenPaii/3011" target="_blank">📅 23:36 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3010">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">من تازه دیدم که یک نفر امروز صبح 500 دلار دونیت کرده به wallet های روی پروفایل توییترم. و هر کس که بوده، واقعا ازش ممنونم
 ❤️
 کمک بسیار بزرگی به ادامه‌ی فعالیت و همینطور دلگرمی هست برای من توی شرایطی که درآمد یوتوب قابل برداشت نیست و شرایط اقتصادی داغونه. اگر…</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/MatinSenPaii/3010" target="_blank">📅 23:35 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/MatinSenPaii/3010" target="_blank">📅 23:35 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3007">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">پول پارو کردنی در کار نیست. این پول‌هایی که دارن می‌گیرن بیشتر واسه جبران ضرر و damage control هست که بتونن یه مدت بیشتر قطع نگه دارن.</div>
-<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/MatinSenPaii/3007" target="_blank">📅 09:35 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/MatinSenPaii/3007" target="_blank">📅 09:35 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3006">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">فیبر نوری مخابرات کلادفلر وایت لیست شده ظاهرا.. امیدوارم بازش کنن ناموسا بریم دنبال زندگیمون</div>
-<div class="tg-footer">👁️ 55.2K · <a href="https://t.me/MatinSenPaii/3006" target="_blank">📅 09:27 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/MatinSenPaii/3006" target="_blank">📅 09:27 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3005">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromfarzad</strong></div>
 <div class="tg-text">متأسفانه همه راهها رو معنای واقعی کلمه بستن (غیر از mhr که اونم نصف و نیمه و داغونه) وشما به هر نحوی بخوای به نت بیرون دسترسی داشته باشی باید هزینه زیاد بکنی ، یا بری نت پرو گیگی ۴۰ هزار تومنی بخری یا وی پی ان گیگی ۱۵۰ تومنی مثلا یا بری سرور بگیری cdn بخری وdns بخری و .... بازم هزینه گیگی بالا میوفته ته همشونم پولش تو جیب خود دولت و سپاهه همه ی اینا</div>
-<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/MatinSenPaii/3005" target="_blank">📅 09:08 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57.8K · <a href="https://t.me/MatinSenPaii/3005" target="_blank">📅 09:08 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3004">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">آقا من نمیدونم این چه وضعیتی هست که درست شده توی این کشور !
 هر چی میاد میگن پاپلیک نشه ! شما متوجه هستین مردم بیشتر از 60 روزه با این قطعی نت مشکل توی زندگی ش پیش اومده ؟!</div>
-<div class="tg-footer">👁️ 52.7K · <a href="https://t.me/MatinSenPaii/3004" target="_blank">📅 08:38 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 52.8K · <a href="https://t.me/MatinSenPaii/3004" target="_blank">📅 08:38 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3003">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">رفقا من متد‌های حال حاضر رو میدونم. بله میدونم که CDN آروان چطوریه داستانش
 منتها برام معقول نیست آموزش دادنش. نه هزینه‌ای که باید واسه‌ی CDN داد منطقیه و نه پابلیک بودنش. اینم احساسی که بهش دارم مثل Shecan هستش. یه Back-Door توسط خود حکومت که خب دست خودشونه.
 مثل گوگل نیست که بهشون فشار بیاد که باز نگهش دارن. اگر اشتباه میکنم من رو متقاعد کنید</div>
-<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/MatinSenPaii/3003" target="_blank">📅 08:29 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 53.7K · <a href="https://t.me/MatinSenPaii/3003" target="_blank">📅 08:29 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3001">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromペコリーヌ</strong></div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/DQ1PcUAdm-cTcxa3tMrCRPzYLXQ4bEjRlXZ1U7cYSsF13aURzzGUwKSaTvF8nS7koHhVdZkR5Lg2VO0ssSoOmlE7rjnpHymfJAz3ey1l4livvqFGY8U-ry4fgQ7RL0zz35Rppp0zWOkOFIVCzPJeCZQF2sjuPDqSwn7J9kOn9Rp0f8QRrPIjokqwR8ftUA4GisORgfZLYQhXo1-uRv2sp8q8EojwxOvI7ikKyMp9DQxzVu5H4-DfkhasBzsSb2pmscBmEi3g1WeFuQmV25_3RGz8XKfPW_8oUYsgqePyp-88mZC9n5Eli-Tqm5Qx4zN-L8FWSOYVUspKC50O3oATlA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Gqv3FPNZqwDM1MsyUqEDJKrc5wuNS_lVmWXwUWKJHIsjRb64TfwrpHBk3p_wvOwW0Kb_1R6UKOI7k7s8ld7OJPqE1Z5wc8F8mFjU5xaIickhDWAU6HM5T9G7mIyA-TsiXRWmg8mSMk4Xr3QOrd-SYUZeUIrBwzQPhVW9vCMgyPmNzA-BcRIAw1BLDTgmhKyfDrKmRsCW7wT1409df9ACu7XhrG_beVPEUypZrVjrWVltBTEMh6C4MdMkfUoadPBqHzk1qcIN1Qp5HYvUlYiCB87Hsev4M2PXbnbWD-vD5KU-L0Fy_MkHsRpuHbmkfCduk6kzl0XwJZaQCV9_3RkY3Q.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">واسه ۸ گیگ اکانت رو بستن ؟!</div>
-<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/MatinSenPaii/3001" target="_blank">📅 20:48 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 55.4K · <a href="https://t.me/MatinSenPaii/3001" target="_blank">📅 20:48 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-3000">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">اینا رو سرور ایرانی شکن فعال کردن روش vpn زدن و کانفیک میفروشن، طرف در عرض چند روز یک ترا ترافیک رد کرده مشخصه مشکوک و پیگیر میشن</div>
-<div class="tg-footer">👁️ 54.3K · <a href="https://t.me/MatinSenPaii/3000" target="_blank">📅 20:03 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 54.4K · <a href="https://t.me/MatinSenPaii/3000" target="_blank">📅 20:03 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2999">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">نقره ای دارم یه ماهه استفاده میکنم راضیم چرت و پرت هست این</div>
-<div class="tg-footer">👁️ 56.4K · <a href="https://t.me/MatinSenPaii/2999" target="_blank">📅 19:28 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/MatinSenPaii/2999" target="_blank">📅 19:28 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2998">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NzEnCluyQPXWq7gThiEHx1pY793Q-nwfiOCHoeShPAd07AOvvNwAAKLpYno5nnNV_ilhAzjWTjm9F5_kfdFZqFZj7V7QgI-Rvd4nwqleXNB9aU6TAsNZpS65mMaXAYrR9oibosDCv6wpb_IZ2R2h1roKRsf2JqaE8RxDRqDAoH9t-mRhztuexHejBHTfkYplAruxlpJ7shwGt2XxADErFEVFhjxIP0IFbdf959WgTueoj-nMYRp_KN3zbLp7PBeuYYbU46tmkSSz6Zp4uAYDWvEjHycxeRCONr7sFRWMhsDMR_GVp1jULl7wG5erEZup8z9C_icLYlYFRitbEhR6sg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پول به "شکن" و امثالهم هم ندید. یادآوری کنم که چند هفته پیش، به مدت دو سه روز chatgpt روش باز شد و ملت کلی اشتراک خریدن و روش کانفیگ ساختن و باز مسدود شد. پول مردم هم رفت سطل آشغال</div>
-<div class="tg-footer">👁️ 59K · <a href="https://t.me/MatinSenPaii/2998" target="_blank">📅 19:12 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/MatinSenPaii/2998" target="_blank">📅 19:12 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2997">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">من این تایم 70 روزه رو خودم 5-6 روزشو قطعِ قطع بودم. اما با اینکه توسط چندنفر بهم آشنا و پارتی از زیرساخت معرفی شد(از فعالیت من هم خبر نداشتن و سر آشنایی بود صرفا) باز قبول نکردم همچین چیزی رو و توی تاریکی و قطعیِ کامل در حالی که لپ تاپم بیست-سی ساعت بود داشت dns اسکن میکرد به دی‌ماه فکر می‌کردم. اگر چند روزی دیدید که من نیستم، بدونید قطع بودن رو ترجیح دادم و یا Dns رو هم بستن عزیزان. کسب و کارها یا نابود شدن یا رو به نابودی هست. هر روز کلی پیام دریافت میکنم که من تدوینگر/هانتر/دیزاینر/فری‌لنسر/برنامه‌نویس/... بودم خرج زن و بچه میدم و تمام درآمدم از اینترنت بوده و لطفا یه متد معرفی کن بتونم وصل بشم و من باید با شرمندگی این جواب دردناک رو بدم که هیچ راه معمولی‌ای وجود نداره برای وصل شدن با سرعت قبل.
 اما چه کاری میشه کرد! جز نگه داشتن امید و صبر.</div>
-<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/MatinSenPaii/2997" target="_blank">📅 21:17 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 65.6K · <a href="https://t.me/MatinSenPaii/2997" target="_blank">📅 21:17 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2996">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">سوخی با همچین موضوعاتی چیز درستی نیست</div>
 <div class="tg-footer">👁️ 66.5K · <a href="https://t.me/MatinSenPaii/2996" target="_blank">📅 21:07 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2995">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1428,15 +1442,15 @@ WhiteDNS</div>
 </div>
 
 <div class="tg-post" id="msg-2994">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">آمریکا هم عجیبه
 ما داریم زجر میکشیم از نت اونا هم اسنادشون رو منتشر کردن راجب یوفو و بشقاب پرنده
 https://www.war.gov/UFO/</div>
-<div class="tg-footer">👁️ 60.3K · <a href="https://t.me/MatinSenPaii/2994" target="_blank">📅 20:02 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/MatinSenPaii/2994" target="_blank">📅 20:02 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2992">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">🚀
 آموزش تنظیم WhiteDNS برای سرعت بیشتر
 ⚙️
@@ -1457,11 +1471,11 @@ Max Download: 1000
 Balancing Strategy: Least Loss
 🔸
 Upload Dup:…</div>
-<div class="tg-footer">👁️ 60.8K · <a href="https://t.me/MatinSenPaii/2992" target="_blank">📅 17:26 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/MatinSenPaii/2992" target="_blank">📅 17:26 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2991">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromWhite DNS</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tFniCtb70ZEt9_RwOjGxqvuXsHeiGGBORDciHNWzAB3lkelFLxYGOeTkL-tibK8696fqi6zdn8BI6uRBRghAKyWgTabQBcaHbKQ7ugUMyscxlwjXfWh-mBlhaNv28HLRf2Iq__AIT0nwON4N1CuNKCJoygQvt1q8Si_6hJAOJjiiRboaTVmDAHGzJ05bDmiURAaVMOQnrbuA2GMrvK0ihmXyE-Wk1X6QT9y0C1NDQBwxj-0DEd9H0yBHEVS67DvxCC7e83YsWvITZ9VMv_IO44v2UoK4pqP-8nqpkO-dFNffLkQiKZMmsb5GgHfIUBrb3eoHZanE-zSTP7hjoPRDCQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
@@ -1496,17 +1510,17 @@ Download Compress: LZ4
 این کانفیگ به‌صورت حدسی انتخاب نشده.
 ما لاگ‌های سرور در ۷۲ ساعت گذشته را پردازش و بررسی کردیم و بر اساس پروفایل‌های موفق‌تر، MTUهای پایدارتر و مسیرهایی که سرعت بهتری داده‌اند، این تنظیمات را پیشنهاد دادیم.
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/MatinSenPaii/2991" target="_blank">📅 17:24 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 51.2K · <a href="https://t.me/MatinSenPaii/2991" target="_blank">📅 17:24 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2990">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">thefeed-android-v0.17.4-arm64-v8a.apk</div>
-<div class="tg-footer">👁️ 56K · <a href="https://t.me/MatinSenPaii/2990" target="_blank">📅 16:40 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/MatinSenPaii/2990" target="_blank">📅 16:40 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2989">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromSarto | سارتو</strong></div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
@@ -1571,24 +1585,24 @@ SHA256:
 لینک دانلود نسخه جدید برای تمام سیستم‌عامل‌ها از داخل ایران (با گیتهاب):
 https://github.com/sartoopjj/thefeed-files/archive/refs/heads/main.zip
 📥</div>
-<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/MatinSenPaii/2989" target="_blank">📅 16:39 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57.8K · <a href="https://t.me/MatinSenPaii/2989" target="_blank">📅 16:39 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2988">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">به نظرم اولین اقدام دولت این خواهد بود که یه لگد میزنه به Google و ما، و MHR قطع میشه</div>
 <div class="tg-footer">👁️ 59.7K · <a href="https://t.me/MatinSenPaii/2988" target="_blank">📅 01:09 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2987">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">این کار «زدن و گردن نگرفتن» واقعا رو اعصاب‌ترین بخش جنگه
 کی اینو بهتون یاد داد اصلا</div>
 <div class="tg-footer">👁️ 62.3K · <a href="https://t.me/MatinSenPaii/2987" target="_blank">📅 23:20 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2986">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Wnqdv8230p6qocmUkLmLOY_MTCdnqGuBfKZcqayNc_E5OI9rYiFIhmTzH_Kdq1hEdkZpeYDEgHYJndviXHZiCNYWoSrwyVK0M3ovqxe4-5TKQghBI23MxvIixclhhKR2HMUpADsuNtGWs5xx2MYEv44yJKnA1Dw9ScHyvvaSRsXXpIcMDoZkacOKh_t54O3KcfIBWJM8hv9L80cqTwRGrzOkZZ68uhzyhUkGfprPrINrZh42K3M98qed1YyxohnSVvmPupXOkLDgsM503ODT2-OOZKA4U4iakIBVGzBV7mW3KZMnUS6kTzLCvffpym1YcLNAFWNP9_jErnbC35ZTqQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هرچه سریعتر اکانت مایکروسافت ویندوزتون رو از مایکروسافت به Local تغییر بدید تا این بلا سرتون نیاد. همینطور علاوه بر پین کد، پسوورد هم تنظیم کنید و راه‌های دیگه‌ی لاگین.
 من دو بار به این مشکل خوردم و متأسفانه تنها راهی که پیش بردم این بود که از طریق Advanced Troubleshooting رفتم و ویندوز رو دوباره نصب کردم(فقط اپ‌های روی درایو C پاک میشن و بقیه درایو‌ها و همینطور پوشه دانلودهاتون سر جاش میمونن)
@@ -1596,18 +1610,18 @@ https://github.com/sartoopjj/thefeed-files/archive/refs/heads/main.zip
 1- تغییر اکانت مایکروسافت روی ویندوز به Local account
 2- حذف پین کد(که بکاپش ایمیل مایکروسافت هست) و اد کردن password یا یه راه لاگین دیگه. بعدش مجددا میتونید پین کد هم اضافه کنید
 الان سه هفته اینهاست که به مشکل نخوردم دیگه</div>
-<div class="tg-footer">👁️ 76.8K · <a href="https://t.me/MatinSenPaii/2986" target="_blank">📅 22:44 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 77K · <a href="https://t.me/MatinSenPaii/2986" target="_blank">📅 22:44 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2985">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hqruc5Si_KbGFECO2Q9ThcTzPpuhOWW2ypdnNaqxiqTlxF7oLxSf7F_oxCE0AjawOfGetB448ym2Fp_OPbgnj3k473reYZnj4T3QrLxFAhRF0JuKTiHK22dsWAJ032QX7AfX3tISxtkvarEbS3KuPkN7aJKII1DALZbWy38vxjEQuvjJ62hYeDGvzeupY-KrJ4L8OUO3T59EP8gRPkNL28zADaqtdhbM2-UGvkn2Od_Qoxcd-ixv5tvpD8mdalXuqDvmoiYXOLFdb3Ok7J8g_y42pVhz_gexR0BBS5Y41JbTWsGCyyXs2xTwsRHjctdhY-FjWbFfrOsdJQNZP-w_Mg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی از دوستان فرمودن که با این ریپو: https://github.com/ThisIsDara/mhr-cfw-go تونستن مشکل کامنت‌ها و ارور restricted رو برطرف کنن</div>
-<div class="tg-footer">👁️ 59K · <a href="https://t.me/MatinSenPaii/2985" target="_blank">📅 21:22 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/MatinSenPaii/2985" target="_blank">📅 21:22 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2984">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">یه سریا برمیدارن Deployment id هایی که من توی ویدئو استفاده میکنم رو می‌زنن و استفاده می‌کنن
 😂
 من عادت ندارم اصلا پاک کنم چیزیو. و اشکالی هم نداره. فقط کلودفلرم و گوگل اسکریپتمو ترکونده بودین هرچی اکانت روش آموزش دادم
@@ -1616,7 +1630,7 @@ https://github.com/sartoopjj/thefeed-files/archive/refs/heads/main.zip
 </div>
 
 <div class="tg-post" id="msg-2983">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/USwY8Sldqa2qOr2VDn9Jdipb7n9M7GlLIAeBbL4uSZ8aHPu8e9QsdIlOTQXIkVfni94RrJAICpfykcFIldfBiOcmXSmrUnf_Iprrc6qZqXOoOszyYHWGkN9ROnjYvwi6fm6jY4d3akN-00i9eRiJh8LpPvyb1QLQy29iy8wVa3FuBEgz6PcwLOAUhmZ7fWRC8apxsFTkikpJpaTWcTSVC0Kby9zcsBGlnM_LrvHjwFPel2Mbwf4vqNakiZa1EzOQdOL8BvQ4D8DjUAIKCxXedbkQN8Q09KW323Ce5x3pbwQTT1d83MzM50j4Yjd5Nf7dNxAxF6-bnRbIPIqI8J2loQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی از دوستان فرمودن که با این ریپو:
 https://github.com/ThisIsDara/mhr-cfw-go
@@ -1625,60 +1639,60 @@ https://github.com/ThisIsDara/mhr-cfw-go
 </div>
 
 <div class="tg-post" id="msg-2982">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">قوانین مسخره ios که نه
 خارج از ایران اصلا نیازی نیست mhr بزنن</div>
-<div class="tg-footer">👁️ 54.8K · <a href="https://t.me/MatinSenPaii/2982" target="_blank">📅 20:51 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 54.9K · <a href="https://t.me/MatinSenPaii/2982" target="_blank">📅 20:51 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2981">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">اندروید نداریم</div>
-<div class="tg-footer">👁️ 56.3K · <a href="https://t.me/MatinSenPaii/2981" target="_blank">📅 20:45 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 56.4K · <a href="https://t.me/MatinSenPaii/2981" target="_blank">📅 20:45 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2980">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">☠️
 آموزش ساخت متد MHR با گوشی + کاهش مصرف ریکوئست های گوگل
 ⚡️
 لینک‌های داخلی جهت دانلود: https://t.me/MatinSenPaii/2969  لینک پروژه اصلی: https://github.com/therealaleph/MasterHttpRelayVPN-RUST
 ⭐️
 توی این ویدئو بهتون یاد میدم که چطوری متد MHR رو صفر تا صد…</div>
-<div class="tg-footer">👁️ 55.2K · <a href="https://t.me/MatinSenPaii/2980" target="_blank">📅 20:43 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/MatinSenPaii/2980" target="_blank">📅 20:43 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2979">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromLinuxor ?</strong></div>
 <div class="tg-text">می‌دونستین یه نوع اعتیاد هم داریم به اسم اعتیاد اطلاعاتی؟
 شما ممکنه ساعت ها با هوش مصنوعی چت کنید و خسته نشید و ولعتون بیشتر بشه برای چت کردن باهاش، یا اینکه یه نصفه روز توی صفحات ویکی پدیا بچرخید و مدام اطلاعات مفید بخونید با این فکر که آره دارم چیزای مفید یاد می‌گیرم، اما این کار شاید ظاهرش به اعتیاد نخوره اما جالب اینجاست چون دوپامین پسیو (دوپامینی که بدون سختی داده بشه) می‌ده و هیچ سودی هم نداره دقیقا خود اعتیاده. فرمول خاصی هم برای ترک کردنش وجود نداره اما مثل همه اعتیاد ها میشه با سختی کشیدن ترکش کرد برای مثال یه کتاب (فقط حتما یک موضوع واحد باشه) رو بخونید دقت کنید فقط موضوعش واحد باشه.
 یادتون باشه هرچقدر هم درباره چیز ها در طول روز بخونید اگه اخر شب نتونید 3 خط دربارش بنویسید اون چیز هیچ وقت به آیندنتون کمک نمیکنه و بیشتر جنبه سرگرمی داره.
 @Linuxor</div>
-<div class="tg-footer">👁️ 59K · <a href="https://t.me/MatinSenPaii/2979" target="_blank">📅 16:19 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/MatinSenPaii/2979" target="_blank">📅 16:19 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2978">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">💬
 یه سری مطالب از Repo سازنده‌ی MHR واستون قرار میدم(مربوط به این روش: https://t.me/MatinSenPaii/2785) :  اول از همه دقت داشته باشید که به روز ترین نسخه‌ی code.gs رو حتما از گیتهاب پروژه گرفته باشید: https://github.com/masterking32/MasterHttpRelayVPN/blob/…</div>
-<div class="tg-footer">👁️ 55.8K · <a href="https://t.me/MatinSenPaii/2978" target="_blank">📅 15:54 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 55.9K · <a href="https://t.me/MatinSenPaii/2978" target="_blank">📅 15:54 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2977">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">ولی من دقت کردم نه کسی پین نگاه میکنه نه سوالشو سرچ میکنه تو گروه فقط میپرسن پشت هم</div>
 <div class="tg-footer">👁️ 61.3K · <a href="https://t.me/MatinSenPaii/2977" target="_blank">📅 04:14 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2976">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">به نظرم تریدرا الان باید به جای دوره‌ی آموزشی، دوره‌ی تحلیل رفتاری ترامپ رو ببینن</div>
-<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/MatinSenPaii/2976" target="_blank">📅 01:35 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/MatinSenPaii/2976" target="_blank">📅 01:35 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2975">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uT9TGkDn69_2Dq6ir0mdDdGHAmTeII4_B5ioKyEyNweKmd75V_edhPF9gVFE6jCdwACB-WAzz1KAK6KmxrF0-C3DyFQ6roMB63-xcfwH6OFlt76jb5KKeabwuQ4g3c4bS02ldjjIjiRwBcVAFqxmIfdGsAKiq6jtJb0Utl6IVqFTPyvM1puI_wAxUr77HusPEiMt0VFfo8mQySAhqpLMQLDeDRIeI4rE-4uFgJp4TjfoPo_Mcbnz4jT1uGoj_3mJrGpcGcb5H3vhCW4gklWb8XinBzZuKisCPEhxqocS4UhhhBVpsakl_FV1iJf-tCrMU6o_7rvw0NF8CzmKXC6jwA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔗
 دانلود با اینترنت ملی از یوتوب و تورنت و هرجای دیگه!
@@ -1693,18 +1707,18 @@ GC2GD
 https://github.com/TheGreatAzizi/AzuDL-GC2GD
 ✉️
 @MatinSenPaii</div>
-<div class="tg-footer">👁️ 66.9K · <a href="https://t.me/MatinSenPaii/2975" target="_blank">📅 01:23 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 67K · <a href="https://t.me/MatinSenPaii/2975" target="_blank">📅 01:23 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2974">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">Matin SenPai
 pinned a video</div>
 <div class="tg-footer"><a href="https://t.me/MatinSenPaii/2974" target="_blank">📅 01:12 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2973">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">لینک های داخلی اموزش و برنامه
 📥
 mhrv-rs-android-universal-v1.9.14 39.2 MB
@@ -1720,7 +1734,7 @@ mhrv-rs-android-armeabi-v7a-v1.9.14 15.8 MB
 </div>
 
 <div class="tg-post" id="msg-2972">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromیـ بـ خـ(ÐΛɌ₭ᑎΞ𐒡𐒡)</strong></div>
 <div class="tg-text">لینک های داخلی اموزش و برنامه
 📥
@@ -1741,22 +1755,22 @@ mhrv-rs-android-armeabi-v7a-v1.9.14
 </div>
 
 <div class="tg-post" id="msg-2971">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">⏱
 لینک فایل‌های apk با نت داخلی:  https://guardnet.ir/f/8785ed32c47c (متاسفانه فقط آرمبی ۷ هست باید اون یکی رو هم بذارم)
 ⏱
 لینک دانلود ویدئو: https://guardnet.ir/f/c5321e5300d0</div>
-<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/MatinSenPaii/2971" target="_blank">📅 19:11 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/MatinSenPaii/2971" target="_blank">📅 19:11 · 16 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2970">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">یعنی انقدری که سر آپلود و سرعت آپلود توی سایت داخلی اعصابم خورد شد سر تمام  فرآیند ضبط و ادیت و آپلود روی یوتوب و  تلگرام ویدئو اعصابم خورد نشد. بهتره تایپ نکنم دیگه چون اصلا کلمات خوبی به ذهنم نمیرسه</div>
-<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/MatinSenPaii/2970" target="_blank">📅 19:04 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 62.6K · <a href="https://t.me/MatinSenPaii/2970" target="_blank">📅 19:04 · 16 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2969">
-<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">⏱
 لینک فایل‌های apk با نت داخلی:
 https://guardnet.ir/f/8785ed32c47c
@@ -1764,40 +1778,7 @@ https://guardnet.ir/f/8785ed32c47c
 ⏱
 لینک دانلود ویدئو:
 https://guardnet.ir/f/c5321e5300d0</div>
-<div class="tg-footer">👁️ 72.1K · <a href="https://t.me/MatinSenPaii/2969" target="_blank">📅 18:59 · 16 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-2968">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-text">☠️
-آموزش ساخت متد MHR با گوشی + کاهش مصرف ریکوئست های گوگل
-⚡️
-لینک‌های داخلی جهت دانلود:
-https://t.me/MatinSenPaii/2969
-لینک پروژه اصلی:
-https://github.com/therealaleph/MasterHttpRelayVPN-RUST
-⭐️
-توی این ویدئو بهتون یاد میدم که چطوری متد MHR رو صفر تا صد با گوشی بسازین، به علاوه‌ی آموزش یه کوچولو کاهش مصرف ریکوئست‌ها(به نظرم دیپلویمنت بیشتر بسازید راحتتره)
-🚀
-لینک‌های دانلود با نت داخلی:
-https://t.me/MatinSenPaii/2969
-⚠️
-پیش‌نیازها و نکات مهم:
-1️⃣
-این ویدئو هیچ پیش نیازی نداره
-✉️
-تماشا در تلگرام
-📹
-تماشا در یوتوب
-💰
-دونیت</div>
-<div class="tg-footer">👁️ 99.1K · <a href="https://t.me/MatinSenPaii/2968" target="_blank">📅 18:58 · 16 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-2967">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">Mhr cfw با ترموکس رو بذار لطفا</div>
-<div class="tg-footer">👁️ 62K · <a href="https://t.me/MatinSenPaii/2967" target="_blank">📅 18:03 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 72.2K · <a href="https://t.me/MatinSenPaii/2969" target="_blank">📅 18:59 · 16 Ordibehesht 1405</a></div>
 </div>
 
 <hr>
