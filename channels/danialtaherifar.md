@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-26 14:13:26</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-26 15:13:52</div>
 <hr>
 
 <div class="tg-post" id="msg-928">
@@ -2081,7 +2081,7 @@ neural networks
 
 <div class="tg-post" id="msg-833">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OYGgwKj50Qn0KJRSehcA26oysiep2joDQlB3SusofZEmC8PXO7xZwJmXfjD3Z2gkyV6v8lEfyP_OlWueaddaV2BgqmM0vRbMY0I0pdd8-YbRzuethIkkGOmlZHGJXZjB_QHB9J9S87MWOA3PpVPJbPYEzpt5Fwg56KmP_cy4NPNyopvXduZ5wchJ088p3FG5tuPu8OqN_iWKOA9Eo5j4IUAZy8GhXuFrjE_TqtZM8n6EzLRuH2YNX67WJjPHyg-bATDsXjmQKr_tdHNWoryxU9Rzj0kmrWkFTZme9SxYfMOg1GaLxz6WAmS-bbQ_uXhFv4GHBpcCWHv0FD4vS65DtQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gHlOeOw3fPHj25IEVXnDODWDfCBakYUcnNzIqsdz5zx2FP83yOCgix9lA-zDk64GWZF4J6O3RTwbR8nnZdzdWaCVDp095H_sKpkvhyixsTBdVy368XdCH6gHNDZ4A5ZUdKZty6LmEvyYjp-qUSxoKDeefK82IAzZe_BuLaL6F1WXPs5D-qmH3YlLiLKPMlX955XERX9OMKDMwxNSFf-Q2LcjXjl_onqK3n4AVY-3fBHg0ptbFbcrQ8EBg3aK58qJm-1dV0J5QJrJeLNSM8Ct_p09wDD2AX2fENRQwKnkegP929gzXyAlVvmippGYQDaY2KJMMT8Ul-uwDfuuoK2Ncg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 نرخ‌ ایندکس شدن صفحات در گوگل بهبود یافته است!
 🚀
