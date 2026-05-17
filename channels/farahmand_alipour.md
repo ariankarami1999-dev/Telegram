@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 61.3K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-28 00:42:31</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-28 01:42:18</div>
 <hr>
 
 <div class="tg-post" id="msg-5032">
@@ -300,34 +300,34 @@
 ‏این جلسه یک روز قبل از آن برگزار شد که ترامپ گفت جمهوری اسلامی «بهتر است سریع حرکت کند، وگرنه چیزی از آنها باقی نخواهد ماند».
 ‏به گفته این منبع، معاون رئیس‌جمهور، جی‌دی ونس، وزیر خارجه، مارکو روبیو، رئیس سیا، جان رتکلیف، و استیو ویتکاف، فرستاده ویژه، همگی در این نشست در باشگاه گلف ترامپ در ویرجینیا حضور داشتند.
 ‏این جلسه تنها ساعاتی پس از بازگشت ترامپ از سفر به چین، کشوری با روابط نزدیک با ایران، برگزار شد.</div>
-<div class="tg-footer">👁️ 2.68K · <a href="https://t.me/farahmand_alipour/5032" target="_blank">📅 00:26 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.88K · <a href="https://t.me/farahmand_alipour/5032" target="_blank">📅 00:26 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5031">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">سخنگوی وزارت دفاع عربستان:
 ۳ فروند پهپاد که از حریم هوایی عراق به سمت عربستان می‌رفتند، رهگیری و نابود شدند.</div>
-<div class="tg-footer">👁️ 7.31K · <a href="https://t.me/farahmand_alipour/5031" target="_blank">📅 23:34 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.43K · <a href="https://t.me/farahmand_alipour/5031" target="_blank">📅 23:34 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5030">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GjpwFCEUGqG2K891Q3q-lObzyR729XQjUPZVTcxvg5yVk3KZuITqVdy46vDqofCD4hm_Oyo481UxF2M6SsPzimxl--QthWFh8xONZQVU0gGAsC5OxKxGqievzkSBy_0uTL_D9iszLDnA8kpih4WH-5pstiDnTC9lGQ6YhWUg65gK-SFs6bucyRpEsiiy0a06n1dfcFH0C3Nsvg-0chhITMvwJHCGICjOy169iFjTVPeRq05cvmckW5ipTKGCBbXChpwDtIBaieLbmMWpL7978TWtq9Or0mR597oT41Rl46Ne-_gslaO3AGvCrw3gNCzpVOhNoBftfikHIaNIP1TXAg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۲۰ سانتیمتر؟؟ شوخی میکنی؟  در پایان جنگ ۸ ساله  ۲۶۰۰ کیلومتر مربع از خاک ایران،  یعنی بخش‌هایی از: شلمچه، طلائیه، فکه، مهران، میمک، سومار، نفت‌شهر و خسروی و دشت‌ ذهاب، در دست ارتش عراق ماند و  شما «جام زهر» نوشیدید!  خود صدام حسین در سال ۱۹۹۰ به خاطر حمله…</div>
-<div class="tg-footer">👁️ 8.26K · <a href="https://t.me/farahmand_alipour/5030" target="_blank">📅 23:23 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farahmand_alipour/5030" target="_blank">📅 23:23 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5029">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IS5jr9TXz-BZNThv0aD8vhyMnjAWJFV_caWU2CFXDIDyUi85510Ml59JH5Q4nWFfN-z4_S_3wwWn2Fl9K1j34cHMMLPWAUmy5qS-UjQFO2HAxBEZkEDZquIlxaemhadIPLihzgPS4bcmV7m_KC2poqeON022dZZjOGE9rvfCr8TLYlnZjh67ALR1Wq19rRiYikX_bqErlOJABZcgjOflwS8d4Nh-FgeHlmOeHxCJqlFl8u1mbsWhF2aPc5KYHY_yfVgWsxOTEvuxbQIJs6RWl5YTJONHTE5shAslnuL9pO642xKXPUzQ-6xQFKvqdVwexL-qgBc4GIbQ3hRdNLxK5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ادبیات سخنگوی کمیسیون امنیت ملی مجلس.</div>
-<div class="tg-footer">👁️ 8.55K · <a href="https://t.me/farahmand_alipour/5029" target="_blank">📅 23:17 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farahmand_alipour/5029" target="_blank">📅 23:17 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5028">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">۲۰ سانتیمتر؟؟ شوخی میکنی؟  در پایان جنگ ۸ ساله  ۲۶۰۰ کیلومتر مربع از خاک ایران،  یعنی بخش‌هایی از: شلمچه، طلائیه، فکه، مهران، میمک، سومار، نفت‌شهر و خسروی و دشت‌ ذهاب، در دست ارتش عراق ماند و  شما «جام زهر» نوشیدید!  خود صدام حسین در سال ۱۹۹۰ به خاطر حمله…</div>
-<div class="tg-footer">👁️ 9.08K · <a href="https://t.me/farahmand_alipour/5028" target="_blank">📅 23:08 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farahmand_alipour/5028" target="_blank">📅 23:08 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5027">
@@ -339,7 +339,7 @@
 شما «جام زهر» نوشیدید!
 خود صدام حسین در سال ۱۹۹۰ به خاطر حمله به کویت این سرزمین‌ها رو آزاد کرد! خودش به اراده خودش! نه به زور شما! شماها که جام زهر رو نوشیده بودید و تموم شده بود! اصلا خمینی بازگشت این سرزمین‌ها رو ندید!
 چون یکسال قبلش مرده بود!</div>
-<div class="tg-footer">👁️ 9.68K · <a href="https://t.me/farahmand_alipour/5027" target="_blank">📅 23:04 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farahmand_alipour/5027" target="_blank">📅 23:04 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5026">
@@ -353,7 +353,7 @@
 </div>
 <div class="tg-text">۶۵۰۰ ایرانی رو به اتهام‌های ساختگی - که سنت همیشگی این نظامه - در سه ماه اخیر دستگیر کردن!
 هر روز هم آشکار و در خفا اعدام میکنن.</div>
-<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/farahmand_alipour/5026" target="_blank">📅 22:55 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farahmand_alipour/5026" target="_blank">📅 22:55 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5025">
@@ -362,19 +362,19 @@
 <div class="tg-text">محمدصالح جوکار، رییس کمیسیون امور داخلی مجلس : «در این مدت پیشنهاداتی از سوی آمریکا مطرح شده اما جمهوری اسلامی همچنان بر همان بندهای اولیه تاکید دارد. شروط ده‌گانه خامنه‌ای خط قرمز هر مذاکره‌ای است.»
 🔺
 ده شرط جمهوری اسلامی که میگن خط قرمز هستن:</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farahmand_alipour/5025" target="_blank">📅 22:40 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/farahmand_alipour/5025" target="_blank">📅 22:40 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5024">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">ابراهیم رضایی سخنگوی کمیسیون امنیت ملی مجلس: آمریکا یا باید شرایط جمهوری اسلامی را بپذیرد و تسلیم دیپلمات‌های ما شود یا تسلیم موشک‌های ما</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farahmand_alipour/5024" target="_blank">📅 22:37 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/farahmand_alipour/5024" target="_blank">📅 22:37 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5023">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">‏ترامپ به اکسیوس: من هنوز معتقدم که ایران خواهان توافق است و منتظر ارسال پیشنهاد به‌روز شده از سوی آنها هستم.</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farahmand_alipour/5023" target="_blank">📅 21:40 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farahmand_alipour/5023" target="_blank">📅 21:40 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5022">
@@ -382,7 +382,7 @@
 <div class="tg-text">🚨
 🚨
 ترامپ روز سه‌شنبه جلسه‌ای در «اتاق وضعیت» با تیم ارشد امنیتی - نظامی خود برگزار کند تا گزینه‌های اقدام نظامی علیه جمهوری اسلامی را بررسی کند.</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/farahmand_alipour/5022" target="_blank">📅 20:53 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/farahmand_alipour/5022" target="_blank">📅 20:53 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5021">
@@ -391,7 +391,7 @@
 <div class="tg-text">🚨
 🚨
 ترامپ :«برای ایران، ساعت در حال تیک‌تاک است و آن‌ها بهتر است خیلی سریع بجنبند، وگرنه چیزی از آن‌ها باقی نخواهد ماند. زمان بسیار حیاتی است!</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/farahmand_alipour/5021" target="_blank">📅 20:27 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farahmand_alipour/5021" target="_blank">📅 20:27 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5020">
@@ -412,20 +412,20 @@
 را داریم! خدا راه حل‌ها را به ما داده!
 قرآن و سنت داریم!  اینهاست  که
 آمریکا را نجات خواهند داد.</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/farahmand_alipour/5020" target="_blank">📅 20:04 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/farahmand_alipour/5020" target="_blank">📅 20:04 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5019">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">حمله پهپادی به ژنراتور برق نیروگاه هسته‌ای امارات!</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/farahmand_alipour/5019" target="_blank">📅 19:40 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farahmand_alipour/5019" target="_blank">📅 19:40 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5018">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jNZnsSWcYDLjNLErsV5T8EOXccfUb-EaSsx1JWp0LbmCtTE-zhDgkWFWFcwNqiJFGBRc6W6wIL6-bNGEp4_R5U7WsNNvLJEGBDW95sCUODnyDXfggYIGUpW7nONOdvJ2qYe7yob7sQrMRM7Agk_EjQVjCkbMJ0LwY49UHeHzzH93NV3MwRllIHwceOAC6KsEjj-DwZ4SAPZ5bW9NsjJ97NNlisaLJ144eD-G8BpJXVZiVWegWrKFF8a6CnGZ2yB6Q4OH1vzp_dBua5uKen3pcxBMcJmX8HPOYvkOiaR4ldXk_4sPs1_PuSz00Asho-UJ1bsS5Yyf32rd95a57L1P7Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حمله پهپادی به ژنراتور برق نیروگاه هسته‌ای امارات!</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/5018" target="_blank">📅 15:43 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/farahmand_alipour/5018" target="_blank">📅 15:43 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5017">
@@ -433,7 +433,7 @@
 <div class="tg-text">🚨
 🚨
 خبرگزاری فارس پاسخ آمریکا به شروط جمهوری اسلامی رو داده، ۵ شرطی که قاطعانه حکایت از انسداد مجدد کامل مسیر دیپلماسی داره !   ‏۱. عدم پرداخت هرگونه غرامت از سوی آمریکا ‏۲️. تحویل ۴۰۰ کیلوگرم اورانیوم به آمریکا ‏۳️. فعال‌ماندن تنها یک تاسیسات هسته‌ای ‏۴️.…</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/5017" target="_blank">📅 15:20 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5017" target="_blank">📅 15:20 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5016">
@@ -446,7 +446,7 @@
 ‏۳️. فعال‌ماندن تنها یک تاسیسات هسته‌ای
 ‏۴️. عدم آزادسازی حتی ۲۵٪ از دارایی‌های بلوکه‌شده
 ‏۵️. توقف جنگ در همه جبهه‌ها [لبنان] فقط منوط به مذاکره است ‌‌دست یابی به توافق!</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5016" target="_blank">📅 14:22 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/5016" target="_blank">📅 14:22 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5015">
@@ -464,7 +464,7 @@
 نیروگاه برق و پتروشیمی و پالایشگاه و… رو زد، نیایید بگیم ما مظلوم دو عالمیم و نیت اینها تجزیه خاک ایرانه و… !
 اون وقت برو پوست پرتغال بخور و عنبر نسا دود کن .
 تا می‌تونید از این ویدئوها پر کنید و یادآور بشید جنگی که بر ایران تحمیل کردید بر سر هوا و هوس‌های هسته‌ای تون بود و دشمنی‌تون با جهان!</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/farahmand_alipour/5015" target="_blank">📅 10:20 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/farahmand_alipour/5015" target="_blank">📅 10:20 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5014">
@@ -485,7 +485,7 @@
 در یکسال میشه ۷۱۴ جوان!
 در چهل سال میشه ۲۸.۵۶۰ جوان.
 کاری که حاکمان شما در دو شب کردن فراتر از افسانه ضخاکه! این نوع از حکومت افتخار داره؟ تباه‌تر از این در تاریخ وجود داشته؟</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/5014" target="_blank">📅 09:54 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5014" target="_blank">📅 09:54 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5013">
@@ -498,7 +498,7 @@
 <a href="https://cdn4.telesco.pe/file/e0bc557a11.mp4?token=opqjJdlFoYhLNfljg6IiMyhk7__2BpfZL01lSMFBORWvyUNktEaXQDsljPdCDHkDcDp5-vvGSoR-IsM1411hONIueXETi-mTeXvyrNhKxxBrT4v4uR4Tyg4p5rqC471O6_ZuTobrrwNiHWi6Kp1otvBRE6xi6Eo6-ae08tn-Qx3VDhM2BHtYvqqtL0P-mcSkKgp8pU1RxcWNL-5Ljt3BLDCnf0CyZkMWHlZJtev5STwCyyraiqmri4ggN6gqI8qa7LetjaXubIU1K8_qHWnFNra_zhHEeq4Py20CWzh-XizcIhuFdvrw2Vn-2GBf05Msi_oB-ay0x29PGuD09eWrTg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">آموزش کار با اسلحه در مساجد</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/farahmand_alipour/5013" target="_blank">📅 23:48 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/farahmand_alipour/5013" target="_blank">📅 23:48 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5012">
@@ -512,7 +512,7 @@
 </div>
 <div class="tg-text">پست جدید ترامپ
 که مشخصا اشاره به جنگ با جمهوری اسلامی داره</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/5012" target="_blank">📅 21:42 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/farahmand_alipour/5012" target="_blank">📅 21:42 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5011">
@@ -525,7 +525,7 @@
 <a href="https://cdn4.telesco.pe/file/316762f84e.mp4?token=XV4RfQVfzO1wDVUFTnWb1WZnh5SmqPEAm7uOk37awSl3EBXO8yhtqg2hun-VeHBjpuLOd8_RLFsKZGnp8PpYhHs8sEHI0QeowZFFM5f-uexH4WD-IXrD97uf4H5Du_0gjLRMziRHGFLNqHA3iwYLqQ3PhN_iNCEfwAyXpuSQjWiONdxFyAxHoOWixg8viNaiSxxazFlzaOdsfv0FiNNQPAs3wG3R0ZgMhwa45esiGxeVk6BWySt-I2ZMxKpEUJPF9IiVQjbtyll_JekMixBo3XM8eBBRNIU4Whd-ML7M9tZbeXnEorRDFem-Y_6GTF5F9qvIEkYoX_6IC3uaj8IEwA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حالا که مجریان جمهوری اسلامی  تفنگ به دست در تلوزیون ظاهر شدن خوبه یادآوری کنیم از سلف اینها خانم «هاله مصراتی» که ۱۴ سال پیش تفنگ به دست در صفحه تلویزیون ظاهر شد.</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/5011" target="_blank">📅 19:18 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/farahmand_alipour/5011" target="_blank">📅 19:18 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5009">
@@ -539,7 +539,7 @@
 خوبه یادآوری کنیم از سلف اینها
 خانم «هاله مصراتی» که ۱۴ سال پیش
 تفنگ به دست در صفحه تلویزیون ظاهر شد.</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/5009" target="_blank">📅 19:14 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/5009" target="_blank">📅 19:14 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5008">
@@ -557,7 +557,7 @@ https://www.paypal.me/Farahmandalipour</div>
 <div class="tg-text">در ابتدای این فایل صوتی که خبرگزاری فارس منتشر کرده، به نقل از
 حداد عادل (پدر زن مجتبی خامنه‌ای)
 نقل شده که فرزندان مجتبی خامنه‌ای در این ۷۷ روزه پدرشون رو ندیدن!</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/5007" target="_blank">📅 18:58 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5007" target="_blank">📅 18:58 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5005">
@@ -569,7 +569,7 @@ https://www.paypal.me/Farahmandalipour</div>
 <div class="tg-text">🔈
 🚨
 چرا خامنه‌ای در پناهگاه نبود ؟  چرا خانواده ، چرا فرماندهان؟  چون «اطمینان داده بودن که کار نظامی در این چند روز صورت نمی‌گیره و اتفاقی نمی‌افته لذا شرایط عادی در بیت بوده»  صدای ناصر رفیعی</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/5005" target="_blank">📅 18:52 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/farahmand_alipour/5005" target="_blank">📅 18:52 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5004">
@@ -588,7 +588,7 @@ https://www.paypal.me/Farahmandalipour</div>
 چون «اطمینان داده بودن که کار نظامی در این چند روز صورت نمی‌گیره و اتفاقی نمی‌افته
 لذا شرایط عادی در بیت بوده»
 صدای ناصر رفیعی</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/5004" target="_blank">📅 18:50 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/5004" target="_blank">📅 18:50 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5003">
@@ -607,7 +607,7 @@ https://www.paypal.me/Farahmandalipour</div>
 <a href="https://cdn4.telesco.pe/file/a7df9e2073.mp4?token=DkKg3GA_mC5giC0JIkT6e0EocIR4EyxYm5jiymhJK_d188-0_ZU42utWgZpjRu9nVsx-2GYiXSmWui4nbNGDSoAuzIorTYfzn--6lyhMCiikqhq0bNybVuShk6xjoy0kj2nKieT2qPlZ2dzM7ZvlBwiodulSjaedMDWsb_zbv-9Um05wxzK2F1m2UzZYOUUGtuphWSeDPxMySOxsZS3EuFGaVALjfMlxjVoZqHsQrFtKo4HohErglkCYTRlg8w5dgVJ2eOPXcmatHVs8AeF82gEJdWYR-6MJ07wJ7UrEwF4rbygcPTWTP60BerRG_nSEit5085FC24oW8By8KIYeig" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">سازمان نظام وظیفه از متولدین ۱۳۵۵ تا ۱۳۸۷ خواسته تا خودشون رو معرفی کنن !</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5002" target="_blank">📅 18:29 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5002" target="_blank">📅 18:29 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5001">
@@ -627,7 +627,7 @@ https://www.paypal.me/Farahmandalipour</div>
 صدا و سیما گفتن همسر خامنه‌ای (مادر مجتبی) هم کشته شده
 ، بعد از ۱۰ روز  گفتن نه! زنده است!
 یعنی وقتی داستان زنده موندن مجتبی رو پررنگ کردن، داستان مادرش رو هم تغییر دادن!</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5001" target="_blank">📅 15:58 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/farahmand_alipour/5001" target="_blank">📅 15:58 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5000">
@@ -647,7 +647,7 @@ https://www.paypal.me/Farahmandalipour</div>
 <a href="https://cdn4.telesco.pe/file/2f56f6e59a.mp4?token=SL94vK9FDYUKZZs8OBkLpadlZP7M9BrQFbRTPAjwNxppFa-BdPVLJRM3EQIcIxumW_VH4QRUpGkHqNdS-bo2nXGcBxHnoUcaGldClhpPvk-kZTl0idpBF8-DM_RXSzOCJ2T5sUf4YSUESWK6SmExzCaOsHfYrf9GwcHf762dWHehS4axhGcTt_g6-opxKpoISQBKgTXk8N7Csf-TdSmFVs6QeRheN45dyRxsntOQ434dljMm6eV7LnCCL46sOfHovXox0QoHEDamQcP_NaKZ_FJQuy2xFaZ4YdQZf4eIhNuCms_BjQeu1DSaPnAWxHC7uBtcZLc4hqeVKNJ4eFMs0rdU7wuQj1mJ6MqJJ-1VRJXyNnAT70C-h46Hayr3fPN_LL3cV_ylMODN4qQ4Go1bcdIZImQUjjfqPnwg0jse7TyHJj1OiB60j9Brk8Wm5tnfr2AySgdm8FLgmRHUJNITvApehOOLdUcDCD19pJJzSKRlixoHcIMt_Kz_-xMu9mGeLNbadL6GIyrJqxoT2z_i5RMaA8sRE00ORLrHCuLtvwp9ymufTN3bzcO1dQYaGtrzfmSZrGPdDMvxUhIku3bLzvA-dGoZR81RA1a9KeGbOPYFIJG_AJGdJgo8k_jwH6gWJ0vDzUUe12IH06V9uHYGrbf5Go5OjvPK6DiglkTv_oM" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">«راس امورشون ۸۰ روزه تعطیله» :)</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/4999" target="_blank">📅 15:46 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/farahmand_alipour/4999" target="_blank">📅 15:46 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4998">
@@ -668,7 +668,7 @@ https://www.paypal.me/Farahmandalipour</div>
 <div class="tg-text">مجری تلویزیون جمهوری اسلامی:
 - بگذار پرچم امارات رو نشانه بگیرم
 - احسنت</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/4997" target="_blank">📅 15:08 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/farahmand_alipour/4997" target="_blank">📅 15:08 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4996">
@@ -678,7 +678,7 @@ https://www.paypal.me/Farahmandalipour</div>
 قسام در واقع نام نیروهای نظامی حکومت حماسه.
 مثل تفاوت نام حکومت «جمهوری اسلامی» و نیروهای نظامی اش (سپاه پاسداران)
 البته ج‌ا ، متفاوت از همه کشورهای جهان، دو نیروی نظامی داره: سپاه و ارتش.</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/4996" target="_blank">📅 14:36 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/farahmand_alipour/4996" target="_blank">📅 14:36 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4995">
@@ -741,7 +741,7 @@ https://www.paypal.me/Farahmandalipour</div>
 در تاریخ ۷۰_۸۰ ساله اخیر، هر بار جنگی راه انداختن تا با جنگ، سرزمین بیشتری بگیرند، بیشتر باختند.
 🔺
 امروزه در دنیا، نه آمریکا و نه کشورهای عرب، هیچ کس هیچ فشاری به اسرائیل نمیاره و دیگه سرزمینی به فلسطینی‌ها تعارف نمیزنن! هر بار بهشون تعارف زدن گفتن کمه، جنگ کردن، بیشتر واگذار کردن!</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/farahmand_alipour/4989" target="_blank">📅 11:44 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/farahmand_alipour/4989" target="_blank">📅 11:44 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4988">
@@ -755,7 +755,7 @@ https://www.paypal.me/Farahmandalipour</div>
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oL8Vx7Al5oHrTgzh5b-udeHRKvilW3_UrRt0nhrDarhihJv6vNROWbwWztHRYULhuybAwcoxJB4ZZurjRZIM37GxEK0Q9ugxvB7XlVCeAtVPPAUi_TWhkmomcKQJTvqa6epQUR-15yRd5C-vEuqRYewPmj3sF2ddjDs170yoGKfCRhk5d3xtdsSatwcBHhwyZlUaUG33lGoy6KwnxXuFy2oj6ZzJ27S2CFynECEMEm3Vfn2ALGkbrgn8UuGw2vbb_96npvMZv4TQgnmImZlRxmPg-1R4A1h1225DYaGeAsfANOUSWt30aCBfCbj6NEvleQ89EiWpFPQPRS60kuY5cQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">افتخارات صبح‌گاهی‌شون!</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/4987" target="_blank">📅 10:25 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/farahmand_alipour/4987" target="_blank">📅 10:25 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4986">
@@ -875,7 +875,7 @@ https://www.paypal.me/Farahmandalipour</div>
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">🚨
 برد کوپر، فرمانده سنتکام، گزارش‌ها مبنی بر اینکه جمهوری اسلامی هنوز ۷۰ تا ۷۵ درصد از ذخایر موشکی و پرتابگرهای پیش از جنگ را حفظ کرده است «نادرست» خواند. او در جلسه کمیته نیروهای مسلح سنای آمریکا گفت ارزیابی‌های منتشرشده درباره توان موشکی جمهوری اسلامی با واقعیت مطابقت ندارد، اما از ارائه جزئیات اطلاعاتی خودداری کرد.</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/4976" target="_blank">📅 16:42 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/4976" target="_blank">📅 16:42 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4975">
@@ -1037,7 +1037,7 @@ https://www.paypal.me/Farahmandalipour</div>
 موقعیت این سایت‌ها رو،
 و در پی حملات موشکی جمهوری اسلامی پی بردند به موقعیت این سایت‌های موشکی ، الان همه رو زیر نظر دارند و رصد می‌کنند
 و شناسایی شدن!</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/farahmand_alipour/4963" target="_blank">📅 10:50 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/4963" target="_blank">📅 10:50 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4962">
@@ -1107,7 +1107,7 @@ https://www.paypal.me/Farahmandalipour</div>
 لبنان در این نامه نهادهای جمهوری اسلامی، از جمله سپاه پاسداران را مسئول درگیر شدن این کشور در جنگ، برخلاف خواست دولت معرفی کرد.
 ‏این شکایت می‌گوید که این درگیری منجر به کشته و زخمی شدن هزاران شهروند لبنانی، آوارگی بیش از یک میلیون نفر، ویرانی گسترده در روستاها و شهرها، و اشغال بخش‌هایی از خاک لبنان توسط اسرائیل شده است.
 لبنان در این نامه گفته با اینکه سفیر جمهوری اسلامی را اخراج کرده، اما او خاک لبنان را ترک نمی‌کند!</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/farahmand_alipour/4957" target="_blank">📅 20:17 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/farahmand_alipour/4957" target="_blank">📅 20:17 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4956">
@@ -1115,7 +1115,7 @@ https://www.paypal.me/Farahmandalipour</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c6Ggg3oxiE2f7uu20Z6MKj3-yXRU360lNqhJMrFpRUPqebnGso-KxYsfg2OlRmF8aEDzvBtbvpOUPtTv8wwEqrQmoQ-howZktGMdjLiyTy9nV3yHJvk-Skr8NTWAJAenoDsAc-BKPpRpPonwddz8XL9JWJjBEd80XyBcWeK9qLcRJtXKUwGPxiAjOVgbGQ59p2VX4vUS_SJt7ngUj1HXZvizmbN9FpJlgJuFUY9SfvLliqxH3fFuq5zKsnMSA6CqX6SC0YCaT5_ivCcjDXchNJh51w6UU8ZMIXh7rKcy8PgVnxpbNIgbLwwuwwYQejbfMHTmRncggW5G9yzSpnFRZg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برخی از رسانه‌های فرانسوی دست به انتشار گزارشی به نقل از «فلورین تاردیف» خبرنگار «پاری‌مچ» زده‌اند که حکایت از روابط پنهانی امانوئل ماکرون و گلشیفته فراهانی دارد.
 این خبرنگار فرانسوی در گزارش خود نوشته که سیلی که زن ماکرون به او در کنار در خروجی هواپیما زد، به خاطر همین رابطه بوده.</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/farahmand_alipour/4956" target="_blank">📅 14:23 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/farahmand_alipour/4956" target="_blank">📅 14:23 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4955">
@@ -1220,7 +1220,7 @@ https://www.paypal.me/Farahmandalipour</div>
 <div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Lj1X6F4VzU6q5YQw6HgTlOtXPFXsM_-veJrqEhqz2mG4yE1QJD7Z5VRke9sCEttQMNpzv5PpbILlMQzNUyN7kkCCMBhBZHtOQH4q31GL2y1NwpH1xJRAetqbwoeQF1C5oXTvfkzf12tIXIS8hP6cv19obTjNDebfnEzptdSoK9lsZ45nvv1bZI16_yHTp1u9OYPvCQIBvRyFdbjVsjjkMPZMeayE91vni-Nl0Xq66b2BSx_XsS76xHXCb5u9063FSrDlHffJOfAn5jLk2XOrYN22jBvxmNoCjtIhFFlqq8PiALuGVS2tyqQMV_OYha2xIu5VAD76ZahKu1Wi42i4Lw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر آموزش و ‌پرورش وقت، در گفتگو با خبرنگاران در پاسخ به سؤالی مبنی بر تقاضای برخی نمایندگان مجلس به استعفای وزیر و برکناری مدیر کل آموزش و پرورش استان آذربایجان غربی گفت: «شما چی؟ شما را برکنار کنیم یا نه اگر به موقع خبر می‌دادید مواظب مدرسه شین آباد پیرانشهر باشید این اتفاق روی نمی‌داد.»</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/farahmand_alipour/4946" target="_blank">📅 09:18 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/farahmand_alipour/4946" target="_blank">📅 09:18 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4945">

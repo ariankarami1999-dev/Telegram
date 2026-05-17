@@ -292,13 +292,13 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-28 00:42:31</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-28 01:42:18</div>
 <hr>
 
 <div class="tg-post" id="msg-928">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده   @danialtaherifar</div>
-<div class="tg-footer">👁️ 420 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 421 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-927">
@@ -306,7 +306,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/A3C_wJO_aO0GbVNf6BtJGMebAY97wIwXz-KDyekEIPOsk-6mQP5OVjPrjaSaItYE7wlX_YJ4WojXBlUyZCDSb29cATNdoF8buMHbKSlzuC6YpvTgziusby8XpNSnRaUUGpYmZ9E4onB4A_cp5722q1TtbdJQg-Pp0OSfZc0xkVR2onFm3CMLrTR0BaDGs3XXGTTYbypJzoFYajLZPsnjQB3gu-7kKHOEe9HEQp19JnaJt05G_Oub8xomIqBzwmacIu_kB_5p_4zZGs35OAIE1Pd273uH64Idb8qt2lcDfYAC3WoeUyoPJfLg0nHbGqjaMExMzm9g5RW5_BLKV40VrQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 425 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 426 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-926">
