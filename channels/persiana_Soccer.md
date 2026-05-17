@@ -292,7 +292,7 @@
 <a href="https://t.me/persiana_Soccer" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پرشیانا ساکر دریچه‌ای تازه از اخبار محرمانه و داغ فوتبال ایران و پوشش اخبار اختصاصی نقل و انتقالاتهماهنگی و رزرو تبلیغات:@adspersianaپیج اینستاگرام:Instagram.com/Persiana_Soccer</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-27 21:21:28</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-27 22:25:48</div>
 <hr>
 
 <div class="tg-post" id="msg-22165">
@@ -304,7 +304,7 @@
 باشکست‌دیشب النصر در فینال لیگ قهرمانان ۲، حالا فوتبال‌ایران طبق ادعای شایت فوتی رنکینگ، برای دوفصل‌آینده‌بصورت قطعی صاحب سه سهمیه لیگ نخبگان و یک سهمیه سطح دوم خواهد بود. در جدول نهایی رنکینگ منطقه غرب، عربستان در رتبه اول ایستاده، امارات‌دوم شد و ایران‌بالاتر ازقطر رتبه سوم غرب‌آسیا راحفظ‌کرد.براساس‌سهمیه‌بندی نهایی فصل ۲۰۲۷–۲۰۲۸، ایران صاحب سه سهمیه مستقیم در لیگ نخبگان آسیا و یک سهمیه مستقیم در سطح دوم لیگ قهرمانان آسیا خواهد شد. این در حالی‌ست که‌ طبق اعلام کنفدراسیون‌آسیا سهمیه‌ایران در فصل آینده ۲ سهمیه مستقیم درلیگ نخبگان و یک سهمیه درلیگ‌قهرمانان ۲ عه. باید دید با این تغییر امتیازی، وضعیت سهمیه‌های ایران به چه شکل خواهد بود.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 2.76K · <a href="https://t.me/persiana_Soccer/22165" target="_blank">📅 20:06 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/persiana_Soccer/22165" target="_blank">📅 20:06 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22164">
@@ -314,7 +314,7 @@
 تایید شد؛ با اعلام ایجنت یاسر آسانی؛ ستاره آلبانیایی استقلال برای فصل بعد در تیم ماندنی شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/persiana_Soccer/22164" target="_blank">📅 18:40 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.42K · <a href="https://t.me/persiana_Soccer/22164" target="_blank">📅 18:40 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22163">
@@ -324,7 +324,7 @@
 متئوس‌کونیا و کاسمیرو دو ستاره منچستر یونایتد و خانواده‌هاشون درتعطیلات کریسمس
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/persiana_Soccer/22163" target="_blank">📅 18:33 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.43K · <a href="https://t.me/persiana_Soccer/22163" target="_blank">📅 18:33 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22162">
@@ -334,7 +334,7 @@
 لیست نهایی تیم‌ جمهوری اسلامی برای رقابت های جام‌ جهانی 2026 به‌ تفکیک تیم‌ های باشگاهی
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/persiana_Soccer/22162" target="_blank">📅 18:30 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/persiana_Soccer/22162" target="_blank">📅 18:30 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22161">
@@ -357,7 +357,7 @@
 اینم ایدیش برید هر چند گیگ لازم دارید ازش بخرید پایین ترین قیمت تلگرام میده
 👇
 @Alireza_mosve</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/persiana_Soccer/22161" target="_blank">📅 18:29 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/persiana_Soccer/22161" target="_blank">📅 18:29 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22160">
@@ -367,7 +367,7 @@
 ترامپ کشته شدن رهبر جمهوری‌ اسلامی را اعلام کرد: خامنه ای یکی از شرورترین افراد تاریخ مرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 7.48K · <a href="https://t.me/persiana_Soccer/22160" target="_blank">📅 13:43 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.76K · <a href="https://t.me/persiana_Soccer/22160" target="_blank">📅 13:43 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22159">
@@ -377,7 +377,7 @@
 بااعلام‌رومانو؛ ژابی آلونسو باعقد قراردادی پنج ساله بعنوان سرمربی جدید چلسی انتخاب شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.09K · <a href="https://t.me/persiana_Soccer/22159" target="_blank">📅 11:48 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.32K · <a href="https://t.me/persiana_Soccer/22159" target="_blank">📅 11:48 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22158">
@@ -387,7 +387,7 @@
 گامبا اوزاکای ژاپن ساعاتی قبل در فینال سطح دوم لیگ قهرمانان آسیا با یک گل النصر رو در خاک عربستان شکست داد و قهرمان رقابت‌ها شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/persiana_Soccer/22158" target="_blank">📅 00:52 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.56K · <a href="https://t.me/persiana_Soccer/22158" target="_blank">📅 00:52 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22157">
@@ -397,7 +397,7 @@
 آخرین آپدیت از عملکرد کامل کریس رونالدو و لیونل مسی دو ابر ستاره تاریخ در مستطیل سبز.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/persiana_Soccer/22157" target="_blank">📅 00:46 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.24K · <a href="https://t.me/persiana_Soccer/22157" target="_blank">📅 00:46 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22156">
@@ -408,7 +408,7 @@
 طبق اعلام رسانه‌های آلمانی: باشگاه چلسی مذاکرات رسمی‌خود را با ژابی‌آلونسو اسطوره باشگاه رئال مادرید آغاز کرده و قصد داره با سرمربی سابق کهکشانی‌ها قراردادی به مدت 5 سال امضا کند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.67K · <a href="https://t.me/persiana_Soccer/22156" target="_blank">📅 00:44 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.8K · <a href="https://t.me/persiana_Soccer/22156" target="_blank">📅 00:44 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22155">
@@ -426,7 +426,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 👀
 کانال وی ای پی رایگان برای همه
 👀</div>
-<div class="tg-footer">👁️ 8.49K · <a href="https://t.me/persiana_Soccer/22155" target="_blank">📅 00:44 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.62K · <a href="https://t.me/persiana_Soccer/22155" target="_blank">📅 00:44 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22154">
@@ -436,7 +436,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 تیم منچسترسیتی با تک گل سمینو چلسی رو در فینال جام‌حذفی انگلیس برد و قهرمان رقابت‌ها شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/persiana_Soccer/22154" target="_blank">📅 20:27 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.29K · <a href="https://t.me/persiana_Soccer/22154" target="_blank">📅 20:27 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22153">
@@ -446,7 +446,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 کاکا اسطوره‌فوتبال‌برزیل: اگه‌اتفاق‌خاصی برای نیمار جونیور پیش‌نیاید اوقطعا درجام جهانی 2026 بعنوان کاپیتان اول کشور ما به میدان خواهد رفت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.44K · <a href="https://t.me/persiana_Soccer/22153" target="_blank">📅 18:12 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.54K · <a href="https://t.me/persiana_Soccer/22153" target="_blank">📅 18:12 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22152">
@@ -456,7 +456,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 آخرین آپدیت از عملکرد کامل کریس رونالدو و لیونل مسی دو ابر ستاره تاریخ در مستطیل سبز.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.47K · <a href="https://t.me/persiana_Soccer/22152" target="_blank">📅 16:12 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/persiana_Soccer/22152" target="_blank">📅 16:12 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22151">
@@ -466,7 +466,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 رویای‌فوتبال‌دوستان:خداحافظی کریس رونالدو و لیونل مسی باپیراهن‌دوتیم رئال مادرید و بارسلونا.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/persiana_Soccer/22151" target="_blank">📅 15:50 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.24K · <a href="https://t.me/persiana_Soccer/22151" target="_blank">📅 15:50 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22150">
@@ -489,7 +489,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 اینم ایدیش برید هر چند گیگ لازم دارید ازش بخرید پایین ترین قیمت تلگرام میده
 👇
 @Alireza_mosve</div>
-<div class="tg-footer">👁️ 8.97K · <a href="https://t.me/persiana_Soccer/22150" target="_blank">📅 15:37 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.01K · <a href="https://t.me/persiana_Soccer/22150" target="_blank">📅 15:37 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22149">
@@ -499,7 +499,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 رابرت لواندوفسکی ستاره لهستانی تیم بارسلونا اعلام کرد که بزودی از جمع آبی اناری‌ها جدا خواهد شد و فصل اینده در این باشگاه نخواهد بود.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.33K · <a href="https://t.me/persiana_Soccer/22149" target="_blank">📅 15:26 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.43K · <a href="https://t.me/persiana_Soccer/22149" target="_blank">📅 15:26 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22148">
@@ -509,7 +509,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 بازیکنان رکورددار بیشترین تعداد قهرمانی درپنج لیگ معتبر اروپا؛ رابرت لواندوفسکی در صدر جدول.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.55K · <a href="https://t.me/persiana_Soccer/22148" target="_blank">📅 15:14 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/persiana_Soccer/22148" target="_blank">📅 15:14 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22147">
@@ -519,7 +519,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 پوستری که باشگاه رئال مادرید به زودی از ژوزه مورینیو سرمربی جدید خود منتشر خواهد کرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/persiana_Soccer/22147" target="_blank">📅 12:43 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/persiana_Soccer/22147" target="_blank">📅 12:43 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22146">
@@ -582,7 +582,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 منیرالحدادی ستاره‌مراکشی استقلال: بزودی به تهران خواهم آمد و در تمرینات شرکت خواهم کرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/persiana_Soccer/22141" target="_blank">📅 16:58 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/persiana_Soccer/22141" target="_blank">📅 16:58 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22140">
@@ -603,7 +603,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 ادعای رسانه الریاضیه عربستان: درصورت عقد قرارداد رسمی ژوزه مورینیو با تیم رئال مادرید احتمال به‌سرگرفتن مذاکرات با کریس رونالدو برای بازگشت به جمع کهکشانی‌ها مادرید وجود دارد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/persiana_Soccer/22138" target="_blank">📅 10:56 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/persiana_Soccer/22138" target="_blank">📅 10:56 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22137">
@@ -625,7 +625,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 بازیکنان رکورددار بیشترین تعداد قهرمانی درپنج لیگ معتبر اروپا؛ رابرت لواندوفسکی در صدر جدول.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/persiana_Soccer/22136" target="_blank">📅 00:37 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/persiana_Soccer/22136" target="_blank">📅 00:37 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22135">
@@ -640,7 +640,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 
 <div class="tg-post" id="msg-22133">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Okb-gKMc59swEYskhzwLnafCtorGUWYb8f-vwN7chkMEVvfm9bfFCsAGlQmiVR1y19CF2HMu0OV6nLJC659mBhy0Hg1mzB4Dt8pGoTVopUlizoJ_l_IMT9w0cy633eZdKCnSq_aU9qzl7kwYy1LoZjXthyD-QPaUMP2UF6Zyp1tQIxQcIuAVfjJK466VJ19fa7rgPdrBUfdxF2Gkdy1BSKj4Ea2-4OhxSrTWhNgdNiCBc1vSyXlOOpk2t2RQeVQGh0xT-sONr7ilvJn5apoZrVkeBjvfD6cqMK91tdext70jmHMHYUoDyQG5leeeO-2BiZbLdL3rItPV2IC2ZWLxmg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t_4E32idR_D3fzP6GKxuy5zX8mnzgqqKCljpVcp925YUbeU3Pf5b0k-iGfwPmulaAAHPNu0l_OyU8yLvofc3njpY7xBlSqWFlwrYK8gfTigBIQndpkrYDWxOdKPt0b-QbKJLV2y5aD9rd1fWt4L_63PqfmPn4RdjjcECsR380kjsEGWRC9W4UEvqqwlBU_rELJ1_ei94EQ0D0dgSrCOVqXvqjjU_mqDUaSMkmN97OtW--4Xqd65zUJX4mPIHAbMzG7xmZKeS5qx4vpWOZSZEDRiNnjh2W_ajYTnJvHrsanA_BqCWsg_5AhqueDqUK368CuRijfIS_GKwOW9153kdqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇪🇸
 رکوردداران بیشترین تعداد قهرمانی در رقابت‌ های تاریخ لالیگا؛ رئال مادرید همچنان در صدر.
 ⚪️
@@ -652,10 +652,10 @@ https://t.me/+--L2Hz5HpiY1YWZk
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/4dbf7d2bbf.mp4?token=gAso4GGcsyAHaU3chSQWfjsSiNUasvRYBhHOtaHNa_JSlzfp9g7LV8DIvtLk-p7PUyKIYFSxnnFBmXkaXzX0c-sDNVMy1hjYlXn_N-NH5soPrB6uEbhqIEsT0JRbzBbbZauJhSH_BnQnZ9lSJkY04M9FXrxefViB51dK2Bnn4FgkudneWHDv1l8QKU8z7ajtIyVn_1ZrrDwLRotAeSsFSS301p-F7SmelCG9vsCps2dG2DakZZ17lGPwoeCUjC4A33IF1SfGX8qil3GEOIqq6yzilgG2MRawOsWqAwqyIDgioE-izI_tq30UIoA59GLzxQrk6V19rx04aoGLXlHWtw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/4dbf7d2bbf.mp4?token=g2_IyqF2Dcw9WSWzxjlf0mDJtM0rS9v5njiQ3AUl3FwUrB_vZj5iM3GSZLGpvDPf4LLzIaWwUhqVAxfEZqdkgZYFkETwtRPhKalbp4D4lbmNNuArF7c3wYttIYa-ah3pAPd6plGgCgJq43RtqViM8RMYs1zttVr5r5GdhXFL3Acvge4EXVq6dHbmHDsiG47uKS8ZeRlko2v2zjLcCDH25OV-d4Y0eFRW8DFoYs2y7H_qD1YQt14B9uyxNj1WNFvjK0bCxYUaEKlJ2zITWuvZ0Y8i2aMIpz-C39rKhv3xtJh6-LaA9MWfehRzze4OXXKzfoZ5R04u_fnf2Unc0-bDzQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/4dbf7d2bbf.mp4?token=gAso4GGcsyAHaU3chSQWfjsSiNUasvRYBhHOtaHNa_JSlzfp9g7LV8DIvtLk-p7PUyKIYFSxnnFBmXkaXzX0c-sDNVMy1hjYlXn_N-NH5soPrB6uEbhqIEsT0JRbzBbbZauJhSH_BnQnZ9lSJkY04M9FXrxefViB51dK2Bnn4FgkudneWHDv1l8QKU8z7ajtIyVn_1ZrrDwLRotAeSsFSS301p-F7SmelCG9vsCps2dG2DakZZ17lGPwoeCUjC4A33IF1SfGX8qil3GEOIqq6yzilgG2MRawOsWqAwqyIDgioE-izI_tq30UIoA59GLzxQrk6V19rx04aoGLXlHWtw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/4dbf7d2bbf.mp4?token=g2_IyqF2Dcw9WSWzxjlf0mDJtM0rS9v5njiQ3AUl3FwUrB_vZj5iM3GSZLGpvDPf4LLzIaWwUhqVAxfEZqdkgZYFkETwtRPhKalbp4D4lbmNNuArF7c3wYttIYa-ah3pAPd6plGgCgJq43RtqViM8RMYs1zttVr5r5GdhXFL3Acvge4EXVq6dHbmHDsiG47uKS8ZeRlko2v2zjLcCDH25OV-d4Y0eFRW8DFoYs2y7H_qD1YQt14B9uyxNj1WNFvjK0bCxYUaEKlJ2zITWuvZ0Y8i2aMIpz-C39rKhv3xtJh6-LaA9MWfehRzze4OXXKzfoZ5R04u_fnf2Unc0-bDzQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🇺🇸
 👤
@@ -664,7 +664,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 اینترمیامی درشبی‌که‌مهمان‌سینسیناتی بود توانست با نتیجه 5-3 به پیروزی برسد. لیونل مسی در این دیدار موفق شد دو گل و 1 پاس گل به ثبت رساند تا نقش اول پیروزی تیمش باشد. با این عملکرد لیونل مسی به آمار 11 گل و 4 پاس‌گل در12 مسابقه فصل جدید ام ال اس رسید تا صدرنشین جدول اثرگذاری لیگ باشد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/persiana_Soccer/22132" target="_blank">📅 18:57 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/persiana_Soccer/22132" target="_blank">📅 18:57 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22129">
@@ -858,7 +858,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 #تکمیلی؛رسانه‌کوپه: مورینیو با رئال‌مادرید برای‌قراردادی‌سه‌ساله به توافق رسیده و پس از پایان فصل به‌صورت رسمی اعلام خواهد شد. پائولو دیبالا یکی از خرید های رئال مادرید خواهد بود!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/persiana_Soccer/22111" target="_blank">📅 15:37 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/persiana_Soccer/22111" target="_blank">📅 15:37 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22110">
@@ -925,7 +925,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 
 <div class="tg-post" id="msg-22103">
 <div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nFE68-ifR0ApJLLt84OSoGht3kv7G3k3VBqGV7GyXgD6AwktfZqWj9UKp_wcIK9haHeaPtLbZNVNxCDPE-tFpnuAgyzdBUf-FZZ7wnbQVMcjjTfDmDbKJJUxtHqjd70Ne1PW1mwY4DuPZq1c0aaeZCEZpCiczMnxdUk4Alxo-mloqx-wmY8Xcut5cqd4Ur62dpyDbr8AzPm3HpBu330Kd5vVAlhtgw1j3l86DztuEcVJE7pGJ5SUKUerBx0mCuG4xtdmCrd4UFXafFUlo_aP7PqNe0SMFvPjuoANifk-llZ2hBz5J6hWR7P3xuQImhXTeTWrLIxBD873SvB9pNEzrg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XpiHDBizLoao3tYI8DRnF6Kc8BsZfKzgul2jn7OLtyUr3Jx8_UPc5XNJ_JiXtmqQnIkKLbIgB-JgYReRW5mNuNstjPy5fvn1bdktepryn7xCyqIfCH3YZT5_fZgV0K3dOB0nCKalTCwZt4GMsCc6nvljGpLKnG1Is7HdENxgbQ1eeNeSiJDpV3FXdAzNIUyuuYJ8Od9Eh8L3a5oqbUV4-dMrok31umjfKLVD8z9zPDN4eZrqJ4CbQh_W-Rsq4NC9vvno1u9VPmxbT3pu_jlmBFkVQZi7KKGt1Sy3v0fK9ZTTFZWPPAHRSMs1vHKsY3YgzCwf6GGuFjoxaMDAeNoy6Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎙
 آنتونیو گالیاردی، مربی جدید تیم ملی در گفتگو با گاتزتا دلو اسپورت: «یه چیزهست‌که هیچ‌کس باور نمی‌کنه، اما بازم‌میگم. دوستام میدونن که در زندگی دو آرزو داشتم: مربیگری ژاپن و مربیگری ایران. من میخواهم سال ها در ایران بمانم و مربیگری کنم.
 ⚪️
@@ -935,7 +935,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 
 <div class="tg-post" id="msg-22102">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PYKcWzvT-hcpiRI8Czw7Jo6M_KbAuadsOLv6ztIPLHj0SHUFf763PzPW15WzDHVAdToAbqtF5yr4n60G-KNLmEYumcdkknQNryMXtCkRrcHCFVLQJpaz6G-eF5Cagb6anQhtWidqx4DzOkdAmng0_1Dn_vlFX0Pmgeyo72q6nsY9Iahg-QKy3KOBLsUKBjUDeNd5-nqA3aURYyljki0orXqktwQJ8tYq7Iylb4NvIRiZHX1BzM2raJyz3lVly3bjWrBlf5nr9WJzv1xdqtDHu-gDS-YxZlYt2NACMChSmgGxrNzNdb6T1rzXk6lEOHubHm5iQujdDIDOGF8nVFT6pg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d4DP7o1EqKQxfF435csTqArhWTxaMzy9tZFVSxSuxHAS9b09OZqb5F6DiK-DpvYAiEjGypX358Vj13tTN6uPRlriovgm6zsgdVmQF9O_eBlODwIhuPsCxZ8ltdrF3G-Ru9S8CVq12MBMQZH9S9qIzhRMGixn5zrFSSG3V5rdJLy4A4_Q4bEsYMESpTId53lAS3yx9KLxatbFMe_tP2y_C3666xxlJ8Ais02Pq2inKqxCIQdRdk3cGR2JAiphSXUmmABUIB6hMhZdh1i_7qt6p5uHpzOCNL47HQQRY3C2MrJ99lgYuZPBsHRUV9XCEn2uKCkuquzn7vo9FK0A_43byw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇪🇸
 🇵🇹
 #تکمیلی؛رسانه‌کوپه: مورینیو با رئال‌مادرید برای‌قراردادی‌سه‌ساله به توافق رسیده و پس از پایان فصل به‌صورت رسمی اعلام خواهد شد. پائولو دیبالا یکی از خرید های رئال مادرید خواهد بود!
@@ -1151,7 +1151,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 خامس رودریگز کاپیتان تیم ملی کلمبیا و فوق ستاره سابق‌باشگاه‌رئال‌مادریدتصمیم گرفته در پایان جام جهانی دراوج از دنیای فوتبال خداحافظی کنه.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.95K · <a href="https://t.me/persiana_Soccer/22078" target="_blank">📅 14:03 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.96K · <a href="https://t.me/persiana_Soccer/22078" target="_blank">📅 14:03 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22077">
@@ -1162,7 +1162,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 منیرالحدادی ستاره‌مراکشی استقلال: بزودی به تهران خواهم آمد و در تمرینات شرکت خواهم کرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.87K · <a href="https://t.me/persiana_Soccer/22077" target="_blank">📅 13:50 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/persiana_Soccer/22077" target="_blank">📅 13:50 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22076">
@@ -1294,7 +1294,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 
 <div class="tg-post" id="msg-22061">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qo4zIEVkfxCPXQOyVtgX8q-hzglJihSzE9gx2x3U8dNzV_TgRqB5xcUUROwGpWK6B9Oa6E3Lr2ple6Nj3VjNjA0vpRxqSw7crvcy9jgn87VLIRXl758fZFkGPaQ9hsAUAGLes_6mty8DIgkHSLku8Eh6nVXNDuwl7nVYttD-aMjyQCTIRUPDCryi9j2F04pxboAVSsMVvDRVW5U7vJEBHngmIS8vcmLSEZFe0sLiXLQPZ2vmAGsH8SOSd8i_s4KdfljBLu9wWhTuqLl2FgVqF59VL-X_WgjjoqbWpH5w3AgATJ04EAE3LK0Cbgd9jF2yxCeeJU8j3Re5dKw8MHvA3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qFHvrzZbwVhF2POTViZ9pedG0AAMZPZupxBApqEHDjP0vUvxBptA65tjhKv76xcEsXab9VLTBTJccvuQDKGkNpN_K5X2Ro4OhM-125iGicbREj0C-MSr7CsgFsCM1tmLg03hW49a5xxShciYXEftrtSgq2CaClkI-4SRc-sTFuc_YozzV8LjbJ24qJEElNsLFC13x9ZAhe2fNiJBM2NcHsn6CgaL4oXUkamvJbe_OEzkVl3eeC_B2lMUy7RN3j_l_mkVlxzKKdUV3kKal-cLNA1Mco5Ya40Y5MSv7yU7YY8pXgVTRylc2Xl69aocaoYt9YQ_DMqLszr_Won7APOWYQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇧🇷
 #تکمیلی؛ با اعلام پزشکان برزیلی؛ نیمار جونیور که 24 ساعت اخیر پای مصدومش رو به تیغ جراحان سپرد به رقابت های جام جهانی 2026 خواهد رسید.
 ⚪️
@@ -1359,7 +1359,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 
 <div class="tg-post" id="msg-22054">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ACSEDmEKKCnrEOqw2dgjJYijZgzIkC4uJ2gn65AAMVgJrfsyqWSiCGenPQa_ImJ5iJC-Bv0yCEBd7CO_2_DmwV-gzceNpkHJpdtpwMNo6kghv4yOQhqu4ybJKFFvw31NQdVUzAnnylgdo5OZ22zeCm9SodC7RwDl67Wy0Vo3tN7sZRp7PoymJ2N8EQzH2csVlQr2jdhEYrPa3GBiMlA0I54S3kd0xgvxEjZjJZ7kVNYHN-vP7ls_1mf4h8Nkh5W5zMeHJlIKglLEfoeGDKluMsKRB1cJ5bB3z9qxSpdI1hX9i9VHt6eFzgk2joNijVxxSNRtY59vLiBQ13Vipemuiw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/r6C4WuHyN6FSdEjyL3b1mXxXcWiT3A8-CkQ8kRNANSGiJ4RySBglrcUZ-lIoYgmv5k7rPy6BLGMEPGrNNd3vMJ8_b73Xf43D_XH9JNeurfJfln1VnGLGeKSabu8SaIVhO-vxdMWqgCUP4Dr71P3ta9A1zOhh0yLar1ukYQ9hkoqUZ-TUSYJIi6d0HaxgD8ZiHvZmdLlLhJRmVp5eLF4whE4PPv-ooOPAKyNDpHDSGrozels73pN4_62C3TcySAmkHuZPWnJnpbQNyzhGzvApcoAe8NTv3OEF6Yh1NySzvVUsAy-hf1kBmF_OuSFqxU3UFIG_M26zVNBIykEVO8Z2DA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🟠
 🟢
 دو گل دیدنی احسان محروقی در بازی امروز فولاد و شمس آذر؛ گل دوم روی پاس رامین رضاییان بود. حمیدمطهری درنیم‌فصل دوم و بعد از جانشینی یحیی گلمحمدی در فولاد نتایج قابل قبولی گرفته.
