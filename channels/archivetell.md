@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/GOLD_GrCwglLNso0rdKtYphLqKUnhR8__WRgKWIBIbVf6Nqfat1pyvgFi3Adej6bPUsffEURIIKLqthygEjavdJpnpkwkU3GZLGraaRMz1k2pdfhABbMjiRNdqR4IiE_JI8PvEyfW6INt4fMwpnZkp0qp7UzYBngMmGZ4QdhyVk1cJ3kf_kU9tbF3MDTSUFRgsro_H2ImC0nX3lIfWNUuVaI_Hved-udo_-4EPwJGM1lyl25IFvNK4fMtnzVfW6RBVnH5jgxDqqIlkximu7x88sJ0VLhEuYMjMQ_DhtT1clSMAvUQ4bJB1iIFUAQyZOwIHzBMI1jRCSkT7snZQygNA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 ArchiveTel</h1>
-<p>@archivetell • 👥 7.31K عضو</p>
+<p>@archivetell • 👥 7.33K عضو</p>
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 🚀آرشیوتلمرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-27 11:55:20</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-27 13:36:02</div>
 <hr>
 
 <div class="tg-post" id="msg-5080">
@@ -350,7 +350,7 @@ proxychains4 bash
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 462 · <a href="https://t.me/archivetell/5080" target="_blank">📅 11:41 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/archivetell/5080" target="_blank">📅 11:41 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5079">
@@ -366,7 +366,7 @@ proxychains4 bash
 2.23.170.80
 2.23.168.254
 185.200.232.40</div>
-<div class="tg-footer">👁️ 611 · <a href="https://t.me/archivetell/5079" target="_blank">📅 11:34 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.37K · <a href="https://t.me/archivetell/5079" target="_blank">📅 11:34 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5078">
@@ -375,7 +375,7 @@ proxychains4 bash
 دانلود
 Pass :
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 738 · <a href="https://t.me/archivetell/5078" target="_blank">📅 11:28 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.43K · <a href="https://t.me/archivetell/5078" target="_blank">📅 11:28 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5077">
@@ -383,13 +383,13 @@ Pass :
 <div class="tg-text">همراه اول شیر و خورشید
 files.pythonhosted.org
 167.82.48.223</div>
-<div class="tg-footer">👁️ 825 · <a href="https://t.me/archivetell/5077" target="_blank">📅 11:22 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.49K · <a href="https://t.me/archivetell/5077" target="_blank">📅 11:22 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5076">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">تا ۱۰ روز دیگه جنگ میشه..</div>
-<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/archivetell/5076" target="_blank">📅 10:35 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/archivetell/5076" target="_blank">📅 10:35 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5074">
@@ -428,7 +428,7 @@ https://github.com/evokelektrique/tunnel-forge/releases/download/v0.7.2/tunnel-f
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 1.42K · <a href="https://t.me/archivetell/5074" target="_blank">📅 10:12 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/archivetell/5074" target="_blank">📅 10:12 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5073">
@@ -436,13 +436,13 @@ https://github.com/evokelektrique/tunnel-forge/releases/download/v0.7.2/tunnel-f
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromㅤ</strong></div>
 <div class="tg-text">امشب شاخص ساندیس و فلافل از اینور بالا میره اونور پیتزا
 😁</div>
-<div class="tg-footer">👁️ 1.42K · <a href="https://t.me/archivetell/5073" target="_blank">📅 10:07 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.78K · <a href="https://t.me/archivetell/5073" target="_blank">📅 10:07 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5071">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">تا ۱۰ روز دیگه جنگ میشه..</div>
-<div class="tg-footer">👁️ 1.46K · <a href="https://t.me/archivetell/5071" target="_blank">📅 10:00 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/archivetell/5071" target="_blank">📅 10:00 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5070">
@@ -451,12 +451,12 @@ https://github.com/evokelektrique/tunnel-forge/releases/download/v0.7.2/tunnel-f
 ⌛️
 "چه معنی میده؟
 🤔</div>
-<div class="tg-footer">👁️ 1.57K · <a href="https://t.me/archivetell/5070" target="_blank">📅 09:38 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/archivetell/5070" target="_blank">📅 09:38 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5066">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/archivetell/5066" target="_blank">📅 02:21 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.65K · <a href="https://t.me/archivetell/5066" target="_blank">📅 02:21 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5063">
@@ -473,7 +473,7 @@ https://github.com/evokelektrique/tunnel-forge/releases/download/v0.7.2/tunnel-f
 <div class="tg-text">app-arm64-v8a-release.apk
 ⚖️
 Size: 31.2 MB</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/archivetell/5063" target="_blank">📅 01:56 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.64K · <a href="https://t.me/archivetell/5063" target="_blank">📅 01:56 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5062">
@@ -489,7 +489,7 @@ Size: 31.2 MB</div>
 </div>
 <div class="tg-text">رنج آیپی های Akamai
 حدود 20 میلیون آیپی</div>
-<div class="tg-footer">👁️ 673 · <a href="https://t.me/archivetell/5062" target="_blank">📅 01:54 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 726 · <a href="https://t.me/archivetell/5062" target="_blank">📅 01:54 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5061">
@@ -553,21 +553,21 @@ https://github.com/mirarr-app/network-checker/releases/latest
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/archivetell/5061" target="_blank">📅 01:53 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/archivetell/5061" target="_blank">📅 01:53 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5060">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">رایتل فیلتر خاموش عازم اینستا بشید تا وقت هست
 😁</div>
-<div class="tg-footer">👁️ 2.86K · <a href="https://t.me/archivetell/5060" target="_blank">📅 00:01 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.94K · <a href="https://t.me/archivetell/5060" target="_blank">📅 00:01 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5059">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">ساب جدید ایران نتلیفای جون
 https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/sub/AbolUp.txt</div>
-<div class="tg-footer">👁️ 2.83K · <a href="https://t.me/archivetell/5059" target="_blank">📅 23:43 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.91K · <a href="https://t.me/archivetell/5059" target="_blank">📅 23:43 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5058">
@@ -582,13 +582,13 @@ https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/sub/AbolUp.
 </div>
 <div class="tg-text">با نت ملی بازش کنید ، خودتون میفهمید چیه
 ترجیحا مرورگر کروم</div>
-<div class="tg-footer">👁️ 3.16K · <a href="https://t.me/archivetell/5058" target="_blank">📅 23:35 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.24K · <a href="https://t.me/archivetell/5058" target="_blank">📅 23:35 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5057">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">XuiFactor  ابزار لینوکسی برای اعمال ضریب مصرف روی کاربران 3x-ui  بدون نیاز به نصب: sqlite3 python یا ابزار اضافه  بدون تغییر در سورس پنل 3x-ui  فایل ریلیز مناسب سرور را با گوشی بگیرید و با Termius یا SFTP بفرستید روی سرور.  نصب روی سرورهای معمولی amd64  tar…</div>
-<div class="tg-footer">👁️ 2.85K · <a href="https://t.me/archivetell/5057" target="_blank">📅 23:33 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/archivetell/5057" target="_blank">📅 23:33 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5056">
@@ -669,7 +669,7 @@ https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.2
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.8K · <a href="https://t.me/archivetell/5056" target="_blank">📅 23:30 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.87K · <a href="https://t.me/archivetell/5056" target="_blank">📅 23:30 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5055">
@@ -678,14 +678,14 @@ https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.2
 🌟
 ❤️‍🔥
 دانلود</div>
-<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/archivetell/5055" target="_blank">📅 23:07 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/archivetell/5055" target="_blank">📅 23:07 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5054">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">امروز دوباره از ساعت 6 اینا یه جمعیتی رفتن سروش و روبیکا مثل اینکه
 🌟</div>
-<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/archivetell/5054" target="_blank">📅 23:05 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.58K · <a href="https://t.me/archivetell/5054" target="_blank">📅 23:05 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5053">
@@ -728,7 +728,7 @@ xui-factor disable-all
 وقتی ضریب حذف می‌شود، مصرفی که قبلاً با ضریب ثبت شده باقی می‌ماند.
 از آن لحظه به بعد، مصرف جدید کاربر عادی حساب می‌شود.
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/archivetell/5053" target="_blank">📅 22:54 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.63K · <a href="https://t.me/archivetell/5053" target="_blank">📅 22:54 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5052">
@@ -739,7 +739,7 @@ xui-factor disable-all
 پروژه XuiFactor به‌عنوان یک sidecar کنار پنل 3x-ui اجرا می‌شود و بدون تغییر در سورس پنل، مصرف کاربران را از طریق دیتابیس SQLite خود 3x-ui مدیریت می‌کند. این ابزار با تمرکز روی کنترل دقیق‌تر مصرف، ruleهای قابل فعال‌سازی، توقف، ادامه و حذف ارائه می‌دهد؛ به‌طوری‌که پس از حذف ضریب، نتیجه‌های قبلی باقی می‌مانند و مصرف‌های بعدی به حالت عادی محاسبه می‌شوند.
 این افزار برای اپراتورهایی ساخته شده که می‌خواهند بدون وابستگی به تغییرات داخلی پنل، روی مصرف کاربران ضریب اعمال کنند، وضعیت ruleها را بررسی کنند، از دیتابیس بکاپ بگیرند، audit داشته باشند و سرویس را به‌صورت پایدار با systemd روی سرورهای لینوکسی اجرا کنند.
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/archivetell/5052" target="_blank">📅 22:54 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.33K · <a href="https://t.me/archivetell/5052" target="_blank">📅 22:54 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5051">
@@ -749,7 +749,7 @@ xui-factor disable-all
 توسعه دهنده از ممبرای عزیز کانال
 @parsimq
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/archivetell/5051" target="_blank">📅 22:51 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/archivetell/5051" target="_blank">📅 22:51 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5050">
@@ -761,7 +761,7 @@ xui-factor disable-all
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">دوستان و دولوپر های عزیز، پروژه ای چیزی اوکی کردین و میخواین تو چنل بذاریم، پیام یا دایرکت بدین درخدمت هستم
 ❤️‍🔥</div>
-<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/archivetell/5049" target="_blank">📅 22:44 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/archivetell/5049" target="_blank">📅 22:44 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5048">
@@ -789,7 +789,7 @@ pinned «
 <div class="tg-text">لینک داخلی یونیورسال مناسب همه گوشیا نیم بها
 🌟
 ❤️‍🔥</div>
-<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/archivetell/5045" target="_blank">📅 22:19 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/archivetell/5045" target="_blank">📅 22:19 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5042">
@@ -843,7 +843,7 @@ https://github.com/GFW-knocker/MahsaNG/releases/download/v16-(1405-2-25)/MahsaNG
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.94K · <a href="https://t.me/archivetell/5042" target="_blank">📅 22:04 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.01K · <a href="https://t.me/archivetell/5042" target="_blank">📅 22:04 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5041">
@@ -851,7 +851,7 @@ https://github.com/GFW-knocker/MahsaNG/releases/download/v16-(1405-2-25)/MahsaNG
 <div class="tg-text">شیر و خورشید همراه اول
 185.200.232.43
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/archivetell/5041" target="_blank">📅 22:01 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/archivetell/5041" target="_blank">📅 22:01 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5040">
@@ -861,7 +861,7 @@ https://github.com/GFW-knocker/MahsaNG/releases/download/v16-(1405-2-25)/MahsaNG
 با شکن و بی شکن تست بگیرین
 https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/sub/new-sub.txt
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/archivetell/5040" target="_blank">📅 21:25 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.65K · <a href="https://t.me/archivetell/5040" target="_blank">📅 21:25 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5039">
@@ -869,7 +869,7 @@ https://raw.githubusercontent.com/IR-NETLIFY/NETLIFY/refs/heads/main/sub/new-sub
 <div class="tg-text">شیر و خورشید ایرانسل
 96.17.207.142
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.65K · <a href="https://t.me/archivetell/5039" target="_blank">📅 20:47 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/archivetell/5039" target="_blank">📅 20:47 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5037">
@@ -886,7 +886,7 @@ https://my.files.ir
 https://toolschi.com/tools/upload-center
 http://nixfile.com
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/archivetell/5037" target="_blank">📅 19:36 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.78K · <a href="https://t.me/archivetell/5037" target="_blank">📅 19:36 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5035">
@@ -963,7 +963,7 @@ Pass :
 انقضا :
 ۲
 روز دیگه</div>
-<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/archivetell/5034" target="_blank">📅 18:51 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/archivetell/5034" target="_blank">📅 18:51 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5033">
@@ -989,7 +989,7 @@ pinned «
 ❤️
 روی اینترنت های مختلف تست کنید
 https://github.com/B3hnamR/XHTTPRelayECO/releases/tag/1.3.8</div>
-<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/archivetell/5032" target="_blank">📅 18:19 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/archivetell/5032" target="_blank">📅 18:19 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5031">
@@ -1090,7 +1090,7 @@ https://github.com/B3hnamR/XHTTPRelayECO
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/archivetell/5031" target="_blank">📅 18:16 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/archivetell/5031" target="_blank">📅 18:16 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5030">
@@ -1235,7 +1235,7 @@ https://github.com/ForExampleZERO/AniScanner
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/archivetell/5028" target="_blank">📅 16:58 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/archivetell/5028" target="_blank">📅 16:58 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5027">
@@ -1246,13 +1246,13 @@ https://github.com/Code-Leafy/G2rayXCodeLeafy
 Codespaces
 ران کنید
 صبر کنید اماده که شد 1 بزنید کانفیگ رو دریافت کنید</div>
-<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/archivetell/5027" target="_blank">📅 16:45 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.75K · <a href="https://t.me/archivetell/5027" target="_blank">📅 16:45 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5025">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">و اینکه سامانتل بدون آیپی شیر و خورشید وصله..</div>
-<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/archivetell/5025" target="_blank">📅 16:17 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/archivetell/5025" target="_blank">📅 16:17 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5024">
@@ -1274,7 +1274,7 @@ Codespaces
 </div>
 <div class="tg-text">رنج آیپی های Akamai
 حدود 20 میلیون آیپی</div>
-<div class="tg-footer">👁️ 3.57K · <a href="https://t.me/archivetell/5023" target="_blank">📅 15:51 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.63K · <a href="https://t.me/archivetell/5023" target="_blank">📅 15:51 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5022">
@@ -1288,7 +1288,7 @@ Codespaces
 <a href="https://t.me/archivetell/5022" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">اسکنر آیپی های شیر و خورشید</div>
-<div class="tg-footer">👁️ 2.9K · <a href="https://t.me/archivetell/5022" target="_blank">📅 15:49 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.94K · <a href="https://t.me/archivetell/5022" target="_blank">📅 15:49 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5021">
@@ -1298,7 +1298,7 @@ Codespaces
 دانلود
 دانلود
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 562 · <a href="https://t.me/archivetell/5021" target="_blank">📅 12:57 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 564 · <a href="https://t.me/archivetell/5021" target="_blank">📅 12:57 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5020">
@@ -1314,7 +1314,7 @@ Codespaces
 96.16.122.70
 23.67.136.200
 23.67.136.202</div>
-<div class="tg-footer">👁️ 2.86K · <a href="https://t.me/archivetell/5020" target="_blank">📅 12:56 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.89K · <a href="https://t.me/archivetell/5020" target="_blank">📅 12:56 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5019">
@@ -1373,7 +1373,7 @@ Codespaces
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/archivetell/5019" target="_blank">📅 12:41 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/archivetell/5019" target="_blank">📅 12:41 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5018">
@@ -1416,7 +1416,7 @@ Codespaces
 2.17.101.187
 2.23.168.254
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.58K · <a href="https://t.me/archivetell/5015" target="_blank">📅 11:06 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.62K · <a href="https://t.me/archivetell/5015" target="_blank">📅 11:06 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5014">
@@ -1462,7 +1462,7 @@ https://github.com/ZethRise/PlayDL
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/archivetell/5014" target="_blank">📅 10:46 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/archivetell/5014" target="_blank">📅 10:46 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5007">
@@ -1483,7 +1483,7 @@ https://github.com/ZethRise/PlayDL
 • ایجاد ویجت‌های سفارشی دسکتاپ بر اساس ورودی متنی (قابلیت Create My Widget)
 اولین دستگاه‌های سازگار با این فناوری، گوشی‌های سامسونگ گلکسی S26 و گوگل پیکسل 10 می‌باشند که در فصل تابستان عرضه خواهند شد. تا پایان سال جاری، این قابلیت‌ها به ساعت‌های هوشمند، رایانه‌های شخصی، هدست‌ها و سیستم‌های رسانه‌ای خودرو نیز گسترش خواهند یافت.
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/archivetell/5007" target="_blank">📅 09:07 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/archivetell/5007" target="_blank">📅 09:07 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5006">
@@ -1492,7 +1492,7 @@ https://github.com/ZethRise/PlayDL
 <div class="tg-text">WhatModels
 ماشین حساب آنلاین برای انتخاب مدل‌های هوش مصنوعی متناسب با سخت‌افزار شما
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.64K · <a href="https://t.me/archivetell/5006" target="_blank">📅 08:59 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.68K · <a href="https://t.me/archivetell/5006" target="_blank">📅 08:59 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5005">
@@ -1502,7 +1502,7 @@ https://github.com/ZethRise/PlayDL
 دانلود
 دانلود
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 938 · <a href="https://t.me/archivetell/5005" target="_blank">📅 03:07 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 942 · <a href="https://t.me/archivetell/5005" target="_blank">📅 03:07 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5004">
@@ -1531,7 +1531,7 @@ pinned «
 <div class="tg-text">همراه اول شیر و خورشید
 184.24.77.42 184.24.77.32 184.24.77.5 184.24.77.7 184.24.77.16 184.24.77.36 184.24.77.21 184.24.77.11 185.200.232.49 185.200.232.50 185.200.232.42 185.200.232.41 23.48.23.186 23.48.23.133 23.48.23.195 23.48.23.178 184.24.77.29 104.78.170.186 96.17.222.31 23.41.37.129 23.2.13.227 23.222.126.108 2.20.255.113 2.17.251.98 23.2.13.152 95.101.23.27 2.21.239.21 23.211.49.252 88.221.168.5 104.103.90.156 23.79.20.249 88.221.132.162 23.59.235.208 23.60.69.118 23.46.188.71 104.122.212.92 23.219.1.4 23.57.43.195 184.51.252.135 2.22.6.68 23.217.11.56 95.100.69.108 23.40.63.69 185.200.232.49 185.200.232.50 185.200.232.42 185.200.232.41 184.24.77.42 184.24.77.32 184.24.77.5 184.24.77.7 184.24.77.16 184.24.77.36 184.24.77.21 184.24.77.11 23.48.23.186 23.48.23.133 23.48.23.195 23.48.23.178 184.24.77.29 96.16.122.74 104.109.250.232 92.123.104.7 104.110.191.57 104.83.5.82 92.122.166.168 104.83.5.65 104.121.0.17 104.66.70.133 92.122.166.146 23.73.2.161 92.122.73.138 92.122.166.141 96.16.122.55 104.81.108.51 23.72.248.214 104.126.37.185 104.83.5.201 104.83.5.216 92.123.104.67 104.83.5.203 96.17.207.151 88.221.168.138 96.17.207.149 104.81.108.10 23.73.2.148 92.122.166.175 172.237.127.6 104.81.104.13 96.17.207.137 92.123.112.7 96.16.122.75 96.16.122.70 92.122.166.182 104.109.128.153 104.96.143.134 23.73.2.141 104.83.5.202 23.67.136.200 23.67.136.202 23.65.119.52 92.122.166.236 92.122.166.234 92.122.166.237 104.110.138.190 173.222.200.5 184.51.252.36 184.51.252.38 104.83.5.208 96.16.122.146 96.17.206.214 92.122.166.197 104.94.100.73 104.83.15.66 88.221.213.81 172.239.57.117 104.117.76.40 184.51.252.4 96.17.207.30 96.16.122.83 96.16.122.150 23.73.207.11 96.16.122.77 96.17.207.155 92.123.189.82 96.16.122.82 96.16.122.66 96.7.218.219 96.16.122.137 184.51.252.157 92.123.189.41 184.86.251.12 96.16.122.154 184.51.252.152 96.17.207.12 23.79.48.162 151.101.0.223 151.101.128.223 151.101.192.223 65.109.34.234 151.101.64.223 142.54.178.211 104.103.90.156 23.79.20.249 88.221.132.162 23.59.235.208 23.60.69.118 23.46.188.71 104.122.212.92 23.219.1.4 23.57.43.195 184.51.252.135 2.22.6.68 23.217.11.56 95.100.69.108 23.40.63.69 2.23.168.47 2.23.170.80 2.23.168.144 2.23.168.213 2.23.168.174 2.23.169.111 2.23.168.96 185.200.232.49 185.200.232.41 2.23.169.105 2.23.168.7 2.23.169.207 185.200.232.50 185.200.232.42
 ﻿</div>
-<div class="tg-footer">👁️ 2.99K · <a href="https://t.me/archivetell/4999" target="_blank">📅 01:56 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.03K · <a href="https://t.me/archivetell/4999" target="_blank">📅 01:56 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4998">
@@ -1541,7 +1541,7 @@ pinned «
 for i in $(seq 1 254); do
 ping -c 1 -W 1 185.200.232.$i >/dev/null && echo "185.200.232.$i"
 done</div>
-<div class="tg-footer">👁️ 3.02K · <a href="https://t.me/archivetell/4998" target="_blank">📅 01:52 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.03K · <a href="https://t.me/archivetell/4998" target="_blank">📅 01:52 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4997">
@@ -1605,7 +1605,7 @@ chmod +x ping_script.sh
 #Termux
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 3.01K · <a href="https://t.me/archivetell/4995" target="_blank">📅 23:48 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.02K · <a href="https://t.me/archivetell/4995" target="_blank">📅 23:48 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4994">
@@ -1676,7 +1676,7 @@ chmod +x ping_script.sh
 در ترمینال VSCode
 در این آموزش با تمام دستورات ضروری Git برای بروزرسانی، حذف، ادغام، و مدیریت کامل پروژه‌هایتان در GitHub آشنا می‌شوید — مستقیم از ترمینال VSCode.
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 3.09K · <a href="https://t.me/archivetell/4991" target="_blank">📅 22:02 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.1K · <a href="https://t.me/archivetell/4991" target="_blank">📅 22:02 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4989">
@@ -1770,7 +1770,7 @@ chmod +x ping_script.sh
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
 <div class="tg-text">اسکنر برای آی پی تمیز
 https://github.com/seramo/sni-scanner</div>
-<div class="tg-footer">👁️ 866 · <a href="https://t.me/archivetell/4985" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 867 · <a href="https://t.me/archivetell/4985" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4984">
@@ -1800,7 +1800,7 @@ https://github.com/seramo/sni-scanner</div>
 <a href="https://t.me/archivetell/4982" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">رنج آیپی akamai واسه اسکن</div>
-<div class="tg-footer">👁️ 522 · <a href="https://t.me/archivetell/4982" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 523 · <a href="https://t.me/archivetell/4982" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4981">
@@ -1821,7 +1821,7 @@ https://github.com/seramo/sni-scanner</div>
 - قابلیت بهینه سازی تایم اسکن
 - خروجی رو توی فایل vali.txt میده.
 بدون پیش نیاز...</div>
-<div class="tg-footer">👁️ 809 · <a href="https://t.me/archivetell/4981" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 810 · <a href="https://t.me/archivetell/4981" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4980">
@@ -1885,7 +1885,7 @@ python sni_web.py
 ⏺️
 سپس این را در کروم تایپ کنید:
 http://127.0.0.1:10808</div>
-<div class="tg-footer">👁️ 819 · <a href="https://t.me/archivetell/4980" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 820 · <a href="https://t.me/archivetell/4980" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4979">
@@ -1913,7 +1913,7 @@ https://github.com/platformbuilds/Akamai-ASN-and-IPs-List
 بعد از پایان اسکن، ​هر جا نوشته بود Nmap scan report for و زیرش نوشته بود 443/tcp open یعنی اون آیپی‌ وایته و باید کپیش کنید
 .
 بهتره رنج‌های کوچک رو اسکن کنید، اسکن رنج‌آیپی‌های بزرگ، ساعت‌ها زمان میبره</div>
-<div class="tg-footer">👁️ 707 · <a href="https://t.me/archivetell/4979" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 708 · <a href="https://t.me/archivetell/4979" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4978">
@@ -1921,7 +1921,7 @@ https://github.com/platformbuilds/Akamai-ASN-and-IPs-List
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromArchiveTel</strong></div>
 <div class="tg-text">جهت اسکن آیپی های fastly یا akami یا هر آیپی / رنجی که میخواین میتونید از ریپوی زیر استفاده کنید
 https://github.com/penhandev/IP-Scanner</div>
-<div class="tg-footer">👁️ 696 · <a href="https://t.me/archivetell/4978" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 698 · <a href="https://t.me/archivetell/4978" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4977">
@@ -1944,7 +1944,7 @@ https://github.com/penhandev/IP-Scanner</div>
 5. ماکسیموم پینگ گذاشتن واسش مثلا زیر 180ms
 6. ایپی های که داخل چنلا میزارن بندازید توش اسکن کنه
 منبع : پای پکیج</div>
-<div class="tg-footer">👁️ 778 · <a href="https://t.me/archivetell/4977" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 779 · <a href="https://t.me/archivetell/4977" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4976">
@@ -1962,7 +1962,7 @@ https://github.com/penhandev/IP-Scanner</div>
 ۱. لیست رنج‌های هدف (با پشتیبانی از تمام فرمت‌ها مثل 16/ یا 24/) را در فایل ips.txt قرار دهید. (پیشفرض قرار داده شده)
 ۲. روی فایل scan.ps1 راست‌کلیک کرده و گزینه Run with PowerShell را برای شروع اسکن انتخاب کنید.
 ۳. بهترین آی‌پی‌ها به‌صورت لحظه‌ای در clean_ips.txt ذخیره می‌شوند (هر زمان مایل بودید می‌توانید اسکن را متوقف کنید).</div>
-<div class="tg-footer">👁️ 701 · <a href="https://t.me/archivetell/4976" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 702 · <a href="https://t.me/archivetell/4976" target="_blank">📅 17:51 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4973">
@@ -1971,7 +1971,7 @@ https://github.com/penhandev/IP-Scanner</div>
 دانلود
 دانلود
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 4.06K · <a href="https://t.me/archivetell/4973" target="_blank">📅 17:17 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/archivetell/4973" target="_blank">📅 17:17 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4969">
@@ -2175,7 +2175,7 @@ https://github.com/penhandev/IP-Scanner</div>
 23.48.23.178
 184.24.77.29
 23.40.63.69</div>
-<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/archivetell/4967" target="_blank">📅 16:24 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/archivetell/4967" target="_blank">📅 16:24 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4966">
@@ -2192,7 +2192,7 @@ https://github.com/penhandev/IP-Scanner</div>
 <div class="tg-text">12.7.3 (6750)
 Directly downloadable from
 telegram.org/android</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/archivetell/4966" target="_blank">📅 16:20 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/archivetell/4966" target="_blank">📅 16:20 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4965">
@@ -2292,7 +2292,7 @@ https://github.com/seramo/sni-scanner</div>
 </div>
 <div class="tg-text">PdaNet+ v5.32 (Premium).apk
 @archivetell</div>
-<div class="tg-footer">👁️ 2.76K · <a href="https://t.me/archivetell/4954" target="_blank">📅 14:06 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.77K · <a href="https://t.me/archivetell/4954" target="_blank">📅 14:06 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4952">

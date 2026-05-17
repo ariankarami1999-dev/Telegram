@@ -292,7 +292,7 @@
 <a href="https://t.me/persiana_Soccer" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پرشیانا ساکر دریچه‌ای تازه از اخبار محرمانه و داغ فوتبال ایران و پوشش اخبار اختصاصی نقل و انتقالاتهماهنگی و رزرو تبلیغات:@adspersianaپیج اینستاگرام:Instagram.com/Persiana_Soccer</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-27 11:55:20</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-27 13:36:02</div>
 <hr>
 
 <div class="tg-post" id="msg-22159">
@@ -302,7 +302,7 @@
 بااعلام‌رومانو؛ ژابی آلونسو باعقد قراردادی پنج ساله بعنوان سرمربی جدید چلسی انتخاب شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 549 · <a href="https://t.me/persiana_Soccer/22159" target="_blank">📅 11:48 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/persiana_Soccer/22159" target="_blank">📅 11:48 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22158">
@@ -312,7 +312,7 @@
 گامبا اوزاکای ژاپن ساعاتی قبل در فینال سطح دوم لیگ قهرمانان آسیا با یک گل النصر رو در خاک عربستان شکست داد و قهرمان رقابت‌ها شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 6.17K · <a href="https://t.me/persiana_Soccer/22158" target="_blank">📅 00:52 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.03K · <a href="https://t.me/persiana_Soccer/22158" target="_blank">📅 00:52 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22157">
@@ -322,7 +322,7 @@
 آخرین آپدیت از عملکرد کامل کریس رونالدو و لیونل مسی دو ابر ستاره تاریخ در مستطیل سبز.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 6.3K · <a href="https://t.me/persiana_Soccer/22157" target="_blank">📅 00:46 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.99K · <a href="https://t.me/persiana_Soccer/22157" target="_blank">📅 00:46 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22156">
@@ -333,7 +333,7 @@
 طبق اعلام رسانه‌های آلمانی: باشگاه چلسی مذاکرات رسمی‌خود را با ژابی‌آلونسو اسطوره باشگاه رئال مادرید آغاز کرده و قصد داره با سرمربی سابق کهکشانی‌ها قراردادی به مدت 5 سال امضا کند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 6.13K · <a href="https://t.me/persiana_Soccer/22156" target="_blank">📅 00:44 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.81K · <a href="https://t.me/persiana_Soccer/22156" target="_blank">📅 00:44 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22155">
@@ -351,7 +351,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 👀
 کانال وی ای پی رایگان برای همه
 👀</div>
-<div class="tg-footer">👁️ 6.06K · <a href="https://t.me/persiana_Soccer/22155" target="_blank">📅 00:44 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.68K · <a href="https://t.me/persiana_Soccer/22155" target="_blank">📅 00:44 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22154">
@@ -361,7 +361,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 تیم منچسترسیتی با تک گل سمینو چلسی رو در فینال جام‌حذفی انگلیس برد و قهرمان رقابت‌ها شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 7.48K · <a href="https://t.me/persiana_Soccer/22154" target="_blank">📅 20:27 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/persiana_Soccer/22154" target="_blank">📅 20:27 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22153">
@@ -371,7 +371,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 کاکا اسطوره‌فوتبال‌برزیل: اگه‌اتفاق‌خاصی برای نیمار جونیور پیش‌نیاید اوقطعا درجام جهانی 2026 بعنوان کاپیتان اول کشور ما به میدان خواهد رفت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.11K · <a href="https://t.me/persiana_Soccer/22153" target="_blank">📅 18:12 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.41K · <a href="https://t.me/persiana_Soccer/22153" target="_blank">📅 18:12 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22152">
@@ -381,7 +381,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 آخرین آپدیت از عملکرد کامل کریس رونالدو و لیونل مسی دو ابر ستاره تاریخ در مستطیل سبز.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.26K · <a href="https://t.me/persiana_Soccer/22152" target="_blank">📅 16:12 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.53K · <a href="https://t.me/persiana_Soccer/22152" target="_blank">📅 16:12 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22151">
@@ -391,7 +391,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 رویای‌فوتبال‌دوستان:خداحافظی کریس رونالدو و لیونل مسی باپیراهن‌دوتیم رئال مادرید و بارسلونا.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.19K · <a href="https://t.me/persiana_Soccer/22151" target="_blank">📅 15:50 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.41K · <a href="https://t.me/persiana_Soccer/22151" target="_blank">📅 15:50 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22150">
@@ -414,7 +414,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 اینم ایدیش برید هر چند گیگ لازم دارید ازش بخرید پایین ترین قیمت تلگرام میده
 👇
 @Alireza_mosve</div>
-<div class="tg-footer">👁️ 7.94K · <a href="https://t.me/persiana_Soccer/22150" target="_blank">📅 15:37 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.14K · <a href="https://t.me/persiana_Soccer/22150" target="_blank">📅 15:37 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22149">
@@ -424,7 +424,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 رابرت لواندوفسکی ستاره لهستانی تیم بارسلونا اعلام کرد که بزودی از جمع آبی اناری‌ها جدا خواهد شد و فصل اینده در این باشگاه نخواهد بود.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.11K · <a href="https://t.me/persiana_Soccer/22149" target="_blank">📅 15:26 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.32K · <a href="https://t.me/persiana_Soccer/22149" target="_blank">📅 15:26 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22148">
@@ -434,17 +434,17 @@ https://t.me/+--L2Hz5HpiY1YWZk
 بازیکنان رکورددار بیشترین تعداد قهرمانی درپنج لیگ معتبر اروپا؛ رابرت لواندوفسکی در صدر جدول.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.41K · <a href="https://t.me/persiana_Soccer/22148" target="_blank">📅 15:14 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.64K · <a href="https://t.me/persiana_Soccer/22148" target="_blank">📅 15:14 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22147">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T0peYZ67qDJI96UqBFyZzEknSGTpBXoQpbltrLVztRo4HDjFzvhhCUlFniDosQ38wfPMROFAMgTdPObYvDTNMJyGgIJQBsD644cJtUwvzgjDKDqbOcKXzoPOk4QMMkgdEgJVfqnQmihk9KpYROs2XAxZNq96oC4NJaJ30CIkGwL_fr8ASMVkGKdvRhKgZh8Pu5YctT_QGaF8JdnRtnTxxqlFs7poViivOXpaxZcZ3JKe6-XNJGjbctlfx65myj6eZlK8Q9vldL3dlY5oxk5l7VYsXkk7XR340IDYGK6kkZl5ttXjnipQ2_49bMHWuMtqPUD-F32LvrX5MwOsmRTt7Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c_OX2msRDN2SlDMHlox5eq47CkLxQSZyUqW8uOXjzQccZ6-Ux2seZGrOJYp26c1StjvZoPJHi7XoQDbpZRW67qpsaOb0GohJpJjI5SunfEEbOEctgNkRZNiJw_x4FGTNCwIjk4gprRvd_v5mlEnvh2uPV8QArMVpS2vB11Fvq_0D3CO-PJvQYbIfvjc_6tr88kM1uoEgdMq44qTKNTWibzpl-tliwuKKxXZ5wLTrpzJEgvktOKbmMw7scRByIHXwW827xIV15TenkV8OUUSO5w_nYijtveKSZnB05v1ifKVYIx45QbmykDsfOTsKEnnY3AMzpss-3G65daX3aeHmcA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇪🇸
 پوستری که باشگاه رئال مادرید به زودی از ژوزه مورینیو سرمربی جدید خود منتشر خواهد کرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.11K · <a href="https://t.me/persiana_Soccer/22147" target="_blank">📅 12:43 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.3K · <a href="https://t.me/persiana_Soccer/22147" target="_blank">📅 12:43 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22146">
@@ -454,7 +454,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 مهدی تاج گفته بود داریم مذاکره میکنیم AFC وقت بیشتری‌برای‌اعلام‌نمایندگان‌ایران در آسیا بده که AFC مخالفت کرده و باید سر وقت یعنی دهم خرداد ماه نماینده ها به AFC معرفی شن.
 ‼️
 پیش‌ترقرارشده که استقلال در لیگ نخبگان آسیا، تراکتورتبریز درپلی‌آف‌لیگ‌نخبگان و…</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/persiana_Soccer/22146" target="_blank">📅 00:42 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/persiana_Soccer/22146" target="_blank">📅 00:42 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22145">
@@ -465,7 +465,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 #تکمیلی؛اوسمار ویرا سرمربی برزیلی باشگاه پرسپولیس بزودی لیست ورودی و خروجی مدنظرش رو به مدیران باشگاه پرسپولیس تهران خواهد داد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/persiana_Soccer/22145" target="_blank">📅 00:37 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/persiana_Soccer/22145" target="_blank">📅 00:37 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22143">
@@ -496,7 +496,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 دو قهرمانی جام جهانی باشگاه‌ها
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/persiana_Soccer/22142" target="_blank">📅 20:08 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/persiana_Soccer/22142" target="_blank">📅 20:08 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22141">
@@ -517,7 +517,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 جدیدترین رنکینگ بندی جایزه توپ طلا فوتبال جهان در سال 2026 بعد از حذف بایرن در UCL
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/persiana_Soccer/22140" target="_blank">📅 16:58 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/persiana_Soccer/22140" target="_blank">📅 16:58 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22138">
@@ -540,7 +540,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 اسپورت ‌کاتالونیا: هانسی فلیک سرمربی باشگاه بارسلونا درپایان فصل جاری قراردادی جدید با این تیم امضا خواهد کرد که به موجب آن تا پایان ماه ژوئن سال 2027 به آبی‌و‌اناری‌ها متعهد خواهد شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/persiana_Soccer/22137" target="_blank">📅 01:02 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/persiana_Soccer/22137" target="_blank">📅 01:02 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22136">
@@ -550,7 +550,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 بازیکنان رکورددار بیشترین تعداد قهرمانی درپنج لیگ معتبر اروپا؛ رابرت لواندوفسکی در صدر جدول.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/persiana_Soccer/22136" target="_blank">📅 00:37 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/persiana_Soccer/22136" target="_blank">📅 00:37 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22135">
@@ -608,7 +608,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 <div class="tg-text">🚨
 🔵
 #فوری؛طبق‌جدیدترین اخبار پرشیانا؛ مهدی تاج رئیس فدراسییون فوتبال امروز صبح در تماس با علی تاجرنیا رئیس هیات‌مدیره باشگاه استقلال اعلام کرده بزودی‌ازطریق سایت فدراسیون تیم استقلال رو به‌عنوان قهرمان این فصل رقابت‌های لیگ برتر معرفی خواهد کرد. چهارده‌باشگاه‌موافقت…</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/persiana_Soccer/22128" target="_blank">📅 08:17 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/persiana_Soccer/22128" target="_blank">📅 08:17 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22127">
@@ -641,7 +641,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 پوستری که باشگاه رئال مادرید به زودی از ژوزه مورینیو سرمربی جدید خود منتشر خواهد کرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/persiana_Soccer/22125" target="_blank">📅 11:42 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/persiana_Soccer/22125" target="_blank">📅 11:42 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22124">
@@ -652,7 +652,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 #تکمیلی؛نماینده‌میلاد محمدی امروزعصر به مدیران باشگاه پرسپولیس اعلام کرده که مدافع ملی پوش سرخپوشان دو افر از سوپر لیگ یونان دریافت کرده اما الویتش تمدید قرارداد با سرخپوشان است.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/persiana_Soccer/22124" target="_blank">📅 11:36 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/persiana_Soccer/22124" target="_blank">📅 11:36 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22123">
@@ -662,7 +662,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 مسی درمورد وعده نامزدهای مدیریت بارسا: فرقی نمیکنه کی رئیس شه من بعنوان بازیکن دیگه به بارسا برنمیگردم و شرایط بدنیم کفاف نمیده!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/persiana_Soccer/22123" target="_blank">📅 22:27 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/persiana_Soccer/22123" target="_blank">📅 22:27 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22122">
@@ -689,7 +689,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 صحبت‌های تامل بر انگیز محمد دادکان رئیس سابق فدراسیون فوتبال در مورد وضعیت مملکت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/persiana_Soccer/22121" target="_blank">📅 22:18 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/persiana_Soccer/22121" target="_blank">📅 22:18 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22118">
@@ -772,7 +772,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 😍
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/persiana_Soccer/22112" target="_blank">📅 15:43 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/persiana_Soccer/22112" target="_blank">📅 15:43 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22111">
@@ -794,7 +794,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 سرخیو راموس اسطوره باشگاه رئال مادرید سهام باشگاه بزرگ سویا اسپانیا رو خریداری کرد و رسما به عنوان مالک جدید این باشگاه انتخاب شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/persiana_Soccer/22110" target="_blank">📅 15:35 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/persiana_Soccer/22110" target="_blank">📅 15:35 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22109">
@@ -814,7 +814,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 <div class="tg-text">🚨
 🔵
 #فوری؛طبق‌جدیدترین اخبار پرشیانا؛ مهدی تاج رئیس فدراسییون فوتبال امروز صبح در تماس با علی تاجرنیا رئیس هیات‌مدیره باشگاه استقلال اعلام کرده بزودی‌ازطریق سایت فدراسیون تیم استقلال رو به‌عنوان قهرمان این فصل رقابت‌های لیگ برتر معرفی خواهد کرد. چهارده‌باشگاه‌موافقت…</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/persiana_Soccer/22108" target="_blank">📅 11:51 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/persiana_Soccer/22108" target="_blank">📅 11:51 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22107">
@@ -966,7 +966,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 هفته‌سی‌پنجم‌لالیگا|دبل‌قهرمانی‌بارسلونا هانسی فلیک در لالیگا با برتری مقابل کهکشانی های مادرید
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/persiana_Soccer/22093" target="_blank">📅 00:30 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/persiana_Soccer/22093" target="_blank">📅 00:30 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22092">
@@ -1056,7 +1056,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 لیست‌بازیکنان‌رئال‌مادرید برای دیدار با بارسلونا؛ کیلیان امباپه نیز بازی مهم امشب رو از دست داد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/persiana_Soccer/22082" target="_blank">📅 15:10 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.73K · <a href="https://t.me/persiana_Soccer/22082" target="_blank">📅 15:10 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22079">
@@ -1076,7 +1076,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 خامس رودریگز کاپیتان تیم ملی کلمبیا و فوق ستاره سابق‌باشگاه‌رئال‌مادریدتصمیم گرفته در پایان جام جهانی دراوج از دنیای فوتبال خداحافظی کنه.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/persiana_Soccer/22078" target="_blank">📅 14:03 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.89K · <a href="https://t.me/persiana_Soccer/22078" target="_blank">📅 14:03 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22077">
@@ -1087,7 +1087,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 منیرالحدادی ستاره‌مراکشی استقلال: بزودی به تهران خواهم آمد و در تمرینات شرکت خواهم کرد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.83K · <a href="https://t.me/persiana_Soccer/22077" target="_blank">📅 13:50 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/persiana_Soccer/22077" target="_blank">📅 13:50 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22076">
@@ -1099,7 +1099,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 بارسلونا در تمام رقابت‌ها؛ بارسا امشب به رئال خواهد رسید یا کهکشانی های مادرید اختلاف خواهند انداخت؟
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/persiana_Soccer/22076" target="_blank">📅 13:36 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/persiana_Soccer/22076" target="_blank">📅 13:36 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22075">
@@ -1120,7 +1120,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 هایلایتی‌از عملکردخیره‌کننده لیونل‌مسی در بازی شب گذشته اینتزمیامی مقابل تورنتو در لیگ MLS
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/persiana_Soccer/22074" target="_blank">📅 12:58 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/persiana_Soccer/22074" target="_blank">📅 12:58 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22072">
@@ -1130,7 +1130,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 مهدی تاج گفته بود داریم مذاکره میکنیم AFC وقت بیشتری‌برای‌اعلام‌نمایندگان‌ایران در آسیا بده که AFC مخالفت کرده و باید سر وقت یعنی دهم خرداد ماه نماینده ها به AFC معرفی شن.
 ‼️
 پیش‌ترقرارشده که استقلال در لیگ نخبگان آسیا، تراکتورتبریز درپلی‌آف‌لیگ‌نخبگان و…</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/persiana_Soccer/22072" target="_blank">📅 00:38 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/persiana_Soccer/22072" target="_blank">📅 00:38 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22070">
@@ -1166,7 +1166,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 <div class="tg-text">‼️
 🔵
 #تکمیلی؛ باتوجه‌به‌اینکه فابیو آبرئو در پایان فصل بازیکن‌آزاد خواهدشد؛ ایجنت نزدیک به مدیران باشگاه استقلال همچون‌قضیه یاسر آسانی به مدیران این باشگاه گفته‌نیم‌فصل با این بازیکن قرارداد امضا کنید تا باشگاه چینی بیجینگ گوان مجبور به صادر شدن رضایت نامه‌اش…</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/persiana_Soccer/22068" target="_blank">📅 21:08 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/persiana_Soccer/22068" target="_blank">📅 21:08 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22066">
@@ -1235,7 +1235,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 کریس رونالدو فو‌ق‌ستاره پرتغالی النصر؛ با گلزنی در بازی دیشب‌مقابل الشباب؛ تعداد گل هایش در دوران حرفه ای خود به عدد 971 رسوند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/persiana_Soccer/22060" target="_blank">📅 13:09 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/persiana_Soccer/22060" target="_blank">📅 13:09 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22059">
@@ -1251,7 +1251,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 
 <div class="tg-post" id="msg-22058">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JUs-YK5xV48iQdjc5meW4bP1UmoP6Uk3HDU0_hqHXfeQ1hDtIg_K2Wnk_Kbxp1gQkvShO_lx-vlg9Sxgtksh9TdV4RHLevSe68Ilw3xJjVfgksWntmBt4bScjne2XtcX2Jy7jhlEjioJ8spkHemzqzgaJJO3rVxF4rsgFjzQ3CzlcN6UmHR92WWaD8aciykVuUzT9hAfw2qquxp-jENJKTPylJCi2jDdYnStTTCHhC9UrKVX1zHR2P1dmnWZyatLFB8h_-HA4REX8TgoCvd49hgwN0_f8T7_sMVwoOqjKNgJh9YUhpVGO915zwFwQkrBKLn9nN8OpArxslasXcmflA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HgQoWDcwwsdauxrK0jp8bnUFsTL98TKTojGa3Zd-URx6hAXkn024Tol4aFBdPYk8vVDSd2RTy6bSeGIw5_TSi0bAW1HEoMGym3iTy-_K9u3cRl1tFhg1oYdt5mkiMjn8Av0WkM0tOdYLIU89yXUvxKscN12d8OiYUrqIA4m4IFOeHBi0klIjNydSxWGZUpQr6_C4SGeQ-orydC0wxXGpwYilgRC-gyHJRPvuBypWy3Azw4EASv651zuHDT2MD7mjo8C1_qmL-2KcKlwygzrVivwUnsoEkKYud47WQM-BWibTUGanc1CjYHpFWNK7-KnlBIsBIv6I_nPtP44vUoIJsg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 #تکمیلی؛‌خارجیهای‌مطرح استقلال و پرسپولیس تا اواسط هفته آینده به ایران و تهران خواهند آمد.
 ⚪️
@@ -1272,8 +1272,8 @@ https://t.me/+--L2Hz5HpiY1YWZk
 <div class="tg-post" id="msg-22055">
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Z3JXoq7RoSo-bTPerZUxXWNIpDXW1cjbOCKQgkMVkVdipVQQFy6V4TSvr6KxZW_DE_J2Fp_sM4oh03L20nvFBlc6WZDYv3xy-L8VjbeJave5qie8JFx2Li3if-QbT1k8f2KSwN-Ms8yKemhaLEI089MA4PkSPMTrZQB8GiZA0cFWiNc3hEHaSmEv8HFTRh0gNvVeVQmTDljR8qkWQlbPVoQD_Ax1osMjGkT8TfP7ppnVhzJ_loQghIoFILI9M9n1ZVMaYMwBWl9Gv6iwvnQMZlp_FHUCMYZ77uxK2JSVVT2qq3eZe1kHWQiBG3w_fcMmTI6iCjlqxr83eSeL8-Okgw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/fB_buoUe6u-kBCnYdnoDDbEtHPHIryYBmE95ft8BwaYLMJJ_Hzzos_7ndkf73Q4cpKkpNUsnTVHUitTclk1VonFj-wW-2bhO2H00oDYLtDvMTXifocuWzukCKNMUdFjjo072XAb3h4UnY5xpPmLMosSSB3a4fnITYKsesxZvu8sUMnl-AsBT0RfF7WmwKXoKC8gF6NHJp-Q1xJyIqj4CmhLbRgSyFT4URbZXSrtL1VIiRYtuKyO3HNRp0nKd3tGx1z3w3jMFm2u-gBaw2ebVNZ4fXs1c23ihQiLWpQ3oZGPFk4_nxFCQ_bjGI9fnKZdSl_TTO29ullLEmlPpZzLNww.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/tY-15rM2fvhGKuG8IKVj6R6w216xcvNyPjo29DBKMnhppcSU6wG0ZRE14HeOxlhlZBAyuJqvmY4e29qLUaHX8N4kdUFL81Mbs0abjRO6z-t6SdQh7IkMHxYavjw7qtx75_KsffW4gU_tRGQCIvJluazPOD01vtnoQYOdL05mb9IutvRGrTnNUOPPaIZ1JJ_yaWHh6Qp27S6odhVegTQl2K0YTJ9iiG7C0iyp4ra99cpbUTFSULHtM3v2RJyANhPJN_GWaxkiQlwWMr4KGnPqJhWQLxTG_-Wa5TJzEJI13Wc_jDh-6spDCCg1cslNLqpTOpX08ERZgF6DXNXpoeFOig.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/KbGlyX6Rmmu97oJvsfoXf1N7Bj8J9GmPJg7z6Le1BbwXeBptBLZbbOnz28Ekx4UQegKClYWy7HCgMtV4pVEEmyac7l4gAL6HS2NDoWjBnHUaIkksu9KP6auLMwNcfeusPvzFdhye7Wj-BR_9sHHJ57zfZOGLFTcku-98-BwMRSmdgBVHpXtww4qYHHtLfpcq6-bnz3TzY7qt0NjQW2JkNkqlVQb59syP-xpR2lCJQZIOUNL9Dd107Vt3-vAVHN3POk7hbRzMXNCUG13zDVbEf1OjsEqDBl38wqG1qh4QTp07PjbbohCIF8-5NdLEkZphHT7C4tbFHvmIPrdadLBayA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">طبق گفته رسانه های پرتغالی؛
 ژوزه مورینیو آمادگی خود را برای بازگشت به رئال مادرید برای فصل آینده رقابت‌ها اعلام کرده است.
@@ -1284,7 +1284,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 
 <div class="tg-post" id="msg-22054">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YWxmg6o56h880icYeX63gQY7o8YURFhicI2YOapvVAI7ZZAXNvKBceylypRaOp0hWLbk94DK5F7vC9upntUMfpDr_crJ6QZB6KvtnS_Kc_s3zatzUlWtHxPKflQw6eQzEU3705Mb9UMfPATTtn9a5iHZC0VBPUO9CfX0idtm7QpDtj1amrUAs1fWrgJgL6xMUmRY_sGpfzpzOxOFAl-yuCLe-wLxgBbG1Xdo29zHsF83vj1DURp_1FAVYKeHZdlosAYKZV0mkNmEOn6GBBCQ3fBPU28FbNL93iRpLAjd_8nIxOubM7aqHV-tAM1aMpfYc0Ly1o46gS1gG5S-j0uC_Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BHMxkPQIZPSSpJg5J_aura7XmO69MjRnPsy6CzuzCy5nvDH2mZVpzU79MZqAh4OgjtNdw1qm9K98ebdUuzTNXXHiC5P69Fcpx7IWBr_t0gGGnGvuMiKKhzmHdL4H-cB4Q_5a_36A2lc9t7D6LqnJPtEbDdyCs6nSCIrUnGgkDG1fN-T8esfWQhf3tOZR52Iaxin7YIhVrquyLq0yXV4N2Hf28myIQ4giQs48VrLqF3eRVpp45P8oFMJe1Cxrn0SKhnQRF-jiIilOyfp0OFnURuOgXiMTOpYxJ7YJ-kCvmJPz6eOFUM8rVqK0y1rEQak0sRKogfP1f09zzVhp5zHq8Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🟠
 🟢
 دو گل دیدنی احسان محروقی در بازی امروز فولاد و شمس آذر؛ گل دوم روی پاس رامین رضاییان بود. حمیدمطهری درنیم‌فصل دوم و بعد از جانشینی یحیی گلمحمدی در فولاد نتایج قابل قبولی گرفته.
@@ -1297,10 +1297,10 @@ https://t.me/+--L2Hz5HpiY1YWZk
 <div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/57250d4705.mp4?token=voqSLcCzAmWrexr2ZjAC1TbmTI7M0YLXu7lzyrp9iCnRNSzrbeu19M5sEW41HUxm9-eRw1QE8UHpcqFKOpIf_u8ATXYCMyTEG5YdkPoo3OTxVfH-CaFE8K1GQVd0Ga57PcQDDeRFt1DxeczBpzPcEMd5rsAUFfB_9BT1LcVLX7QYOIFcrYuEwmCtbGOSMZ4Qwk_G23OcgBMr3A1b4r2XpExFpY-EnRLFL6UP9SSfhjh61C0YWXtHNqe-HPwiuKlu8Lc302002QwU1XAXogN8bydZz3Q9fgdpZfGFjBFqzE5uei1Z3GqhdgO7jvGY69l-8-PgsxBk3NwA0NFrKKN3_Q" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/57250d4705.mp4?token=py0diPWVA1Zz1LQwzrnYsmjPAjAf9heFT8D_puRjdk6ElPr5b9bMLPsL_zz6cUYthGdI4BNt5CiH7l4G_Ot1MQ9Vzl6UsR82VFYk_wHNiCeKIYejD70V-UUBsgFPxq1bRyT3wtm8XeCbf6sg6c8qvW2_DsMePJm7lTKz_3hJnAQ-6J0XNKjBGZdenk8xOi9IX5fWtN_aq_5uCLrD-AwDkUSvfARtmcVze0derPQPSQwlGMeOVBYB90moZZgMM_lC-Pz_lctG_Ug_-pElCEEH_4BnR0ngTosao8q82urp3DBkCMJ-7GzdgX9XkwZ4kx6yAP55ZeRLZQdAf75PtX4SZQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/57250d4705.mp4?token=voqSLcCzAmWrexr2ZjAC1TbmTI7M0YLXu7lzyrp9iCnRNSzrbeu19M5sEW41HUxm9-eRw1QE8UHpcqFKOpIf_u8ATXYCMyTEG5YdkPoo3OTxVfH-CaFE8K1GQVd0Ga57PcQDDeRFt1DxeczBpzPcEMd5rsAUFfB_9BT1LcVLX7QYOIFcrYuEwmCtbGOSMZ4Qwk_G23OcgBMr3A1b4r2XpExFpY-EnRLFL6UP9SSfhjh61C0YWXtHNqe-HPwiuKlu8Lc302002QwU1XAXogN8bydZz3Q9fgdpZfGFjBFqzE5uei1Z3GqhdgO7jvGY69l-8-PgsxBk3NwA0NFrKKN3_Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/57250d4705.mp4?token=py0diPWVA1Zz1LQwzrnYsmjPAjAf9heFT8D_puRjdk6ElPr5b9bMLPsL_zz6cUYthGdI4BNt5CiH7l4G_Ot1MQ9Vzl6UsR82VFYk_wHNiCeKIYejD70V-UUBsgFPxq1bRyT3wtm8XeCbf6sg6c8qvW2_DsMePJm7lTKz_3hJnAQ-6J0XNKjBGZdenk8xOi9IX5fWtN_aq_5uCLrD-AwDkUSvfARtmcVze0derPQPSQwlGMeOVBYB90moZZgMM_lC-Pz_lctG_Ug_-pElCEEH_4BnR0ngTosao8q82urp3DBkCMJ-7GzdgX9XkwZ4kx6yAP55ZeRLZQdAf75PtX4SZQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 #تکمیلی؛ رشید مظاهری عزیز بامداد امروز با یورش نیرو های حکومتی‌جمهوری‌اسلامی به منزلش ربوده شده و به مکان نا معلومی منتقل شده است.
@@ -1326,7 +1326,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 رونالدو یکقدم‌تاقهرمانی‌باالنصر؛ کریس رونالدو و النصر باپیروزی مقابل الهلال‌سه‌شنبه آینده می‌توانند قهرمانی لیگ حرفه‌ای عربستان را قطعی کنند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/persiana_Soccer/22051" target="_blank">📅 12:47 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/persiana_Soccer/22051" target="_blank">📅 12:47 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22050">
@@ -1344,7 +1344,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 
 <div class="tg-post" id="msg-22049">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H3JPnvApBekctNaYPOVEFD0MKCVHsrASTC38i1OH8Xt_ehbw8nvMC3jDCYadAMRtaKla1_JdAwCrBJv9Q2Za31m1SMR-qxosQoPvQy3kSFUbvbRrGHur2V0OWg1hnDiAu7xutEEVWyR0p1eLt8rJIS3cmcpvM06SLVRlZ2V-E9jG9ZkhRLXLQoiBUHUvWC7djU8BVdrxpf2PrOMite2Wo4Oh2LcnLvu42hfXugDyv67YbVwnG77Zop5sZnM2YpmDfPB_pKPKMiuLTkbsrhwyZUYqux9UrNJWH7cWpMhTvR_qVqSkHIGYPBOrp4K1EK_NXXQqukQ6pUaiXOCvzJkMUQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WN3ynoOUFteHqHHZzG_mYNLbJnq8Y7K1FziMxvrYFr3miXSf3N0xx_czpchBtrv6WATz2snEJfqAR_5S_3g-gd9jKXFQdQQtFUVq0Y-3qU9cekmwao1vr868HklGN4nGDLuK65f_LYOXDXSxZ2IvzmnAzBzQ-Zkn_Czcp0a2aY2hdV_DCxOv7ouiKkBuYNVn4gAoWk1YVeNQ-NY8DDnzzvbtra4hZ_W2xPZx3iCA4Gamv_z4anCZsYZ7mF1sBWzLKyhxL5HBjChBDCk4Y8eFbnHC31IvWZoGS-NE6HBlhXtCxCxDZwYPwveX-xz4dyZjeIDDcFKw5HMS7Ategpp01g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 تایید شد؛ با اعلام ایجنت یاسر آسانی؛ ستاره آلبانیایی استقلال برای فصل بعد در تیم ماندنی شد.
 ⚪️
@@ -1374,7 +1374,7 @@ https://t.me/+--L2Hz5HpiY1YWZk
 
 <div class="tg-post" id="msg-22046">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Xz7iLt1cnVWlXrDrsZqbqSX0TzMB7QN9C9iqYgKRvX9dcayhamHnlSqHGUhcI36tSEbdmzVErS3fmC1lbu7EJy8-LcdopM-wG7CSS4wIdfZYWicFKnK6vY_cfGQlSzQJ4eodiU_yqmgHNGGBNsH8xoGVQVfjrBlI_9wzcDCcmzMW9v6Mk5U-INQ45hjM75jKg7dMKLn8XmggFpTbMPgaM4kDOlIDE4PE6noUMUloVhv13HH6Jz6Skp4LZ4jqmVlNfvlIhlmlld5_8yJ9l_-6oGKZ-NbX5bQqU8LKquVFZFUl55_wBtv_vcMOlkVV-OSe5yrJwERtCeMqOHiOAa1zAw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jy280uBaruxj8io_neyCBRQwD1B938kmMP4c6y2g3a7S_WvaxvchIqzrDIwYIswbsjtj5_b8cdIP2uPVTmw5P03q38W2wJpglm8BB7jw6vZVq4qZsKXJH9LRdHD9sVgG5kDL1O28IOTrHdOGDklON9t8dghctMvbwAtZA4vWPpcR9C1xUTWtLVpUWnBBSbhuGrcdRKcfVJcHc2lgsclO63BeIjYXEPGRdN3pzmgqAxW5LywGzznD9CMW7-rn93NU5DCQpjDQ7qXeBNdUN4jTcUuhVfjwA8yJskfsRwNEbQt93wVnOo-fnCWKX4QPa8TR0M2iOiN1QXllNMLQx55-fA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 ‼️
 🔵
@@ -1386,10 +1386,10 @@ https://t.me/+--L2Hz5HpiY1YWZk
 <div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6e82bd445b.mp4?token=pXam7yYY06OANTj0QnbfbyMybbJN3vR6kepGtKUM3OZcZ-kBrgSHkxWZpgqqWDAp8qH8uErJbKuuy04f8jbeDXTLVp7PKthABMkbxDXx4kOnuUPA699cR3TmBSArGm8ZYRnznt9YFKpidrZ9DCXoSC7j3Q0sMD-TaMLyoRHXMdYm_m_JsQ5c2X88bgdOwnPQtUW8xwlZxrEPFulrfkx-TcrTEmuFU-SPiBS3AR-zx1QN_eHghAocqE3Cs0OeltrGv9iLO_TwmgAfux1SXkuHPOuFglGf9RGMAHBhm8cWwnHSnUp8ijlN0g6HagbIceRYVu83cmAFcKzeDl3SN9PLbw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6e82bd445b.mp4?token=NSRYP-nN5Igvlsq6SARiuWe6tzKhscHCiVRWXkW3ruFMT_Rn618e4BakvTdSs6Yb4XSEzhNvJ9e76QmEPLQrWTna7Ylm9EoZnz5oOzWxbsASm6AlT6QMbb-6wQccm5ct0S1th1DOAK94a8GIkTy0T99k7t0quR4PfZrvngvzVDM_iY1TjTFjI9dKoEUkSuFGfAtDP7et87gqwr8QcIqLBNG4DWHefYJOAGC3pqfJXfIJbwnuc8hbgUh-cM--hiiR_ihs71q2DG01PHER8Unz84EFfc-B6edHMGNSLV-IQCDPuPrUsVTjrOcqahHJZVdev73bfxfJF5gdgob4YQMBgQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6e82bd445b.mp4?token=pXam7yYY06OANTj0QnbfbyMybbJN3vR6kepGtKUM3OZcZ-kBrgSHkxWZpgqqWDAp8qH8uErJbKuuy04f8jbeDXTLVp7PKthABMkbxDXx4kOnuUPA699cR3TmBSArGm8ZYRnznt9YFKpidrZ9DCXoSC7j3Q0sMD-TaMLyoRHXMdYm_m_JsQ5c2X88bgdOwnPQtUW8xwlZxrEPFulrfkx-TcrTEmuFU-SPiBS3AR-zx1QN_eHghAocqE3Cs0OeltrGv9iLO_TwmgAfux1SXkuHPOuFglGf9RGMAHBhm8cWwnHSnUp8ijlN0g6HagbIceRYVu83cmAFcKzeDl3SN9PLbw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6e82bd445b.mp4?token=NSRYP-nN5Igvlsq6SARiuWe6tzKhscHCiVRWXkW3ruFMT_Rn618e4BakvTdSs6Yb4XSEzhNvJ9e76QmEPLQrWTna7Ylm9EoZnz5oOzWxbsASm6AlT6QMbb-6wQccm5ct0S1th1DOAK94a8GIkTy0T99k7t0quR4PfZrvngvzVDM_iY1TjTFjI9dKoEUkSuFGfAtDP7et87gqwr8QcIqLBNG4DWHefYJOAGC3pqfJXfIJbwnuc8hbgUh-cM--hiiR_ihs71q2DG01PHER8Unz84EFfc-B6edHMGNSLV-IQCDPuPrUsVTjrOcqahHJZVdev73bfxfJF5gdgob4YQMBgQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">عبدالله موحد اسطوره‌تاریخی و بی‌بدیل‌کشتی ایران متاسفانه چشم از جهان بست و به رحمت خدا رفت.
 ⚪️
