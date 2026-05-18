@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/e2L1ioh-hRmnLmc2dtYjrplSE-FFbnybasFqvIoBVJxpMY8RanbJY8OunvxGNPqxayCBXqVgvj5BATiQnjsI0Vux64VGrlE8QS8GaOWu65uQVLGx5ItRR1BBuljRnaLnAFsssNqyPmiIn3S7HXaukgze9XBMGe8hKrtuHR8IoBa2gLCvfpvzY82K3oG_RQNH_2H-jJ7VywTaHwfJE2cPNKXGpPe88BDLmptKa4osLycPqkCzN8-ImBG71HNV-ozSX2WV8aYb0OLuttVvVEp0FLslB3MsZN0RgNFPQmfVnSDf4aQnHIkUCsor8CFjodm0iHuWs_jwtVHCN_OP-XXIpw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 Secret Box</h1>
-<p>@SBoxxx • 👥 9.86K عضو</p>
+<p>@SBoxxx • 👥 9.85K عضو</p>
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 تاریخ، ژئوپولیتیک و بازارهای مالی</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-28 02:56:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-28 04:56:52</div>
 <hr>
 
 <div class="tg-post" id="msg-16398">
@@ -306,13 +306,13 @@
 </div>
 <div class="tg-text">🟢
 در ادامه تمرینات آمادگی دفاعی شبکه افق ، پس از شلیک های موفق به پرچم امارات در روز گذشته ، امشب ، نتانیاهو و دونالد ترامپ بدون استفاده از گلوله ،  بصورت نمادین هدشات شدند</div>
-<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/SBoxxx/16398" target="_blank">📅 00:17 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.31K · <a href="https://t.me/SBoxxx/16398" target="_blank">📅 00:17 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16397">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">برای ایران، ساعت در حال تیک‌تاک است و بهتر است سریع حرکت کنند، وگرنه چیزی از آن‌ها باقی نخواهد ماند. زمان بسیار حیاتی است! رئیس‌جمهور DJT</div>
-<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/SBoxxx/16397" target="_blank">📅 20:40 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/SBoxxx/16397" target="_blank">📅 20:40 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16396">
@@ -323,13 +323,13 @@
 رافائل تولیدکننده اصلی سیستم گنبد آهنین است و برخی اجزای Arrow را می‌سازد.
 اشتاینیتز در یک کنفرانس گفت که گنبد آهنین حدود ۹۸-۹۹٪ موفقیت در رهگیری راکت‌های حماس و حزب‌الله داشته و از ۷ اکتبر ۲۰۲۳ تاکنون، این دو گروه حدود ۴۰٬۰۰۰ راکت به سمت اسرائیل شلیک کرده‌اند.
 همچنین ایران از سال ۲۰۲۴ حدود ۱٬۵۰۰ موشک بالستیک شلیک کرده که به گفته او تنها چند ده تای آن رهگیری نشده‌اند.</div>
-<div class="tg-footer">👁️ 2.26K · <a href="https://t.me/SBoxxx/16396" target="_blank">📅 19:55 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/SBoxxx/16396" target="_blank">📅 19:55 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16395">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">وزارت اطلاعات کوبا تایید کرد که رییس سازمان CIA به این کشور سفر خواهدکرد.  به نظر می رسد اینها هم بزودی پرچم سپید را بالا ببرند.</div>
-<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/SBoxxx/16395" target="_blank">📅 19:01 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/SBoxxx/16395" target="_blank">📅 19:01 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16394">
@@ -342,26 +342,26 @@
 🔹
 این تغییرات بخشی از مدل آموزشی جدید وزارت آموزش ملی ترکیه است. جایگزینی برنامه‌ریزی‌شده اصطلاح «آسیای مرکزی» با «ترکستان» در برنامه‌های درسی تاریخ مدارس در اکتبر ۲۰۲۴ اعلام شد.
 آمو | مطالعات تخصصی آسیای مرکزی</div>
-<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/SBoxxx/16394" target="_blank">📅 18:33 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/SBoxxx/16394" target="_blank">📅 18:33 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16393">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/SBoxxx/16393" target="_blank">📅 15:10 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/SBoxxx/16393" target="_blank">📅 15:10 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16392">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YDcycn1YVNBUiZKE2QjQ_9pf4y1IIB0GW5GPP0EtjbyXE-F8McjY-GseJuMPby1zz1Z09w3Ggxmv5W0x8v7RlXV4G38lXvF7av48ncLjLm5CEjY6FhJRHJF-iWVIPclv5yHMs6L-7XCXpRkAkOn6ge3VpzMcaL5h6vTxJEdrG8vvIcbsWXH9RMbscCR2wSlgxPjS-Ur1P8Qm7xn3LAvedcNUhZO_OBPw61vCUjngLoKJZuqdYaWsZYUeN3thbQYjmXOt56H1NV8pcniM_Vfyo5UiS-_n2sFP3p7VJDJIR9jvA3Rd2HME4vxfem2h_QehE6fZkDADgyNbr-7KSkzFcw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پزشکیان بدون اینکه خنده اش بگیرد روز جهانی «ارتباطات» را تبریک گفت!</div>
-<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/SBoxxx/16392" target="_blank">📅 15:10 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/SBoxxx/16392" target="_blank">📅 15:10 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16391">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">✈️
 پاول دوروف ، مالک تلگرام: دبی دوباره شلوغ و پر از ترافیک شده است. از همین حالا دلم برای آتش‌بازی‌های ایران تنگ شده؛ آن‌ها کمک کردند تا شهر از افراد زودباور (وحشت‌زده) خالی شود .   پدافند هوایی امارات زیر آتش (حملات) عالی عمل کرد. ما با پرداخت ۰٪ مالیات،…</div>
-<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/SBoxxx/16391" target="_blank">📅 15:03 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/SBoxxx/16391" target="_blank">📅 15:03 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16390">
@@ -371,7 +371,7 @@
 حضرتی، رئیس‌شورای اطلاع‌ رسانی دولت
 :
 حرف‌های پزشکیان در مورد اینترنت «وعده» نبوده، شائبه وعده بوده</div>
-<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/SBoxxx/16390" target="_blank">📅 14:31 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/SBoxxx/16390" target="_blank">📅 14:31 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16389">
@@ -387,14 +387,14 @@
 📌
 کانال ما :
 @cyclicalwaves</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/SBoxxx/16389" target="_blank">📅 13:19 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/SBoxxx/16389" target="_blank">📅 13:19 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16388">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">🔴
 رسول جلیلی ؛ عضو حقیقی شورای عالی فضای مجازی: اینستاگرام مثل F35، F22 و A10 آمریکا است، مثل آن اژدری است که به ناو دنا شلیک شد</div>
-<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/SBoxxx/16388" target="_blank">📅 13:01 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/SBoxxx/16388" target="_blank">📅 13:01 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16387">
@@ -402,7 +402,7 @@
 <div class="tg-text">🟣
 خبرگزاری CNN :
 کابل های اینترنتی تنگه هرمز ، توجه ایران را به خود جلب کرده است</div>
-<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/SBoxxx/16387" target="_blank">📅 12:17 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/SBoxxx/16387" target="_blank">📅 12:17 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16385">
@@ -411,7 +411,7 @@
 رسول جلیلی ؛ عضو حقیقی شورای عالی فضای مجازی
 :
 اینستاگرام مثل F35، F22 و A10 آمریکا است، مثل آن اژدری است که به ناو دنا شلیک شد</div>
-<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/SBoxxx/16385" target="_blank">📅 10:54 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/SBoxxx/16385" target="_blank">📅 10:54 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16384">
@@ -428,7 +428,7 @@
 بحران انرژی اکنون به بحران ارزی تبدیل شده است
 — پدیده‌ای که اقتصادهای نوظهور آسیا را در موقعیت دشواری قرار داده است.
 بلومبرگ</div>
-<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/SBoxxx/16384" target="_blank">📅 10:32 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.62K · <a href="https://t.me/SBoxxx/16384" target="_blank">📅 10:32 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16382">
@@ -439,27 +439,27 @@
 </div>
 <div class="tg-text">نیروهای نظامی جمهوری اسلامی اواخر سال ۲۰۲۵ قراردادی برای خرید ۵۰۰ دستگاه پرتابگر موشکهای دوش پرتاب زمین به هوای  Verba (تصویر پایین) به همراه ۲۵۰۰ موشک مربوطه امضا کرده بودند که بخشی تحویل شد و بخشی در جریان حملات اسراییل به تاسیسات نیروی دریایی در انزلی از میان رفت.
 همچنین سامانه مشابه میثاق ساخت داخل نیز در اختیار نیروهای مسلح ایران است.(تصویر بالا)</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/SBoxxx/16382" target="_blank">📅 09:28 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/SBoxxx/16382" target="_blank">📅 09:28 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16381">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">موج ۵ نبرد ایران و آمریکا همراه با هلی برن گسترده با حمایت هوایی سنگین خواهدبود و تسلیح یگانهای ویژه نظامی در ایران به تفنگ‌های دورزن و موشکهای پدافندی دوش پرتاب و نیز موج آموزش عمومی کار با اسلحه در صداوسیما و مساجد و … در راستای مقابله با این تهاجم است.</div>
-<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/SBoxxx/16381" target="_blank">📅 09:16 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/SBoxxx/16381" target="_blank">📅 09:16 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16380">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Pc6jGRPurGF4sHj1Z1L7DIasumXvxR_60O_cnq8PLCGsGkuqdJw8moQfWv36VrYmDgmIutbThQ7KlobXnAVNPk7xIQJt0YACTFgmtFQ0Nmu2QvrNuy6f6k8UDqmytWeWZspLLmTNZzjOZ1-CuHTlXMGXRwO5dudII6rY4hb22d3oE69bPd1dV4wwHfEUUbJEpXGhn8jBYxoCBoDerzg8POIQGsHG7TD5tsNr61Gzi70FelHkAdmtdySyRaXM0_0DljY_Xb6oY2D6LiZpjQ14IHh32191Iyb7y8eFPYZvGF3CRn7_upX0rvArHge1hiP6OB5_wV5QD5Hkq5JSjQTthQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">موج ۵ نبرد ایران و آمریکا همراه با هلی برن گسترده با حمایت هوایی سنگین خواهدبود و تسلیح یگانهای ویژه نظامی در ایران به تفنگ‌های دورزن و موشکهای پدافندی دوش پرتاب و نیز موج آموزش عمومی کار با اسلحه در صداوسیما و مساجد و … در راستای مقابله با این تهاجم است.</div>
-<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/SBoxxx/16380" target="_blank">📅 09:14 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/SBoxxx/16380" target="_blank">📅 09:14 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16379">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OiLe9qv-sfedQ95dGs0xP9xWOIOb3bYWIuCzzVTDrlH6DNs0EFZ9WlvCUPNda0V6ccdO34kam0ih9RZMjscEvB6vdqCdV9sGs6phuBtat1y9408EhWvOnyuQUG4xovbATacS3H4htBpueYj-oQt2ChuaOZg1RvVVAVxfNQ4ZBq2lDNo35s1khW8HT0JWPylYbaM4sGSPEM8DfUQssZQMP58RHeBcvdZaJ3h6yqbfQCLewwaajyfXep32qvG-4gLCQnhoetcz-St2MJ0QsE8zWiOAf9EnIMEPNKsmX9U1ynKJGJKoVZcBkqqpeSg7PwodbNC4i_KNHnhHFdIeZRRTzQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عجب گیری کردیم به حضرت عباس</div>
-<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/SBoxxx/16379" target="_blank">📅 08:58 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/SBoxxx/16379" target="_blank">📅 08:58 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16378">
@@ -472,7 +472,7 @@
 <a href="https://cdn4.telesco.pe/file/617dc4e3f8.mp4?token=Z___3e5ectv7cQuaCjCGi4rY7NER7rRea8E297GuErIGXPSeV_zMBx322lAGMAF2wFN3-WUZSs9lfmCIXsbrTVdeYfIlClQnCOQczu6xSVo6u85waA6yETJI8SbF3qZR7UhUxmasXgJwvyWvwktX2MUojPZVctQ9X6dXbsa-OPieOGRKbL8KJ2RjAIrQEcwnaP0_Qj5bK588FyprEOwWw0I03mWmc8JyPwwVCV11Q2-plk13JQFVLBQQwK8BZrQxUT__BrrEPpSP-a-VlYgi5OXOFh33OBeIdBNkVTa48NpJk_nAaRyIjvLKCtWeE9UWQJy1GxF10jIxGb8bKTOLWi-MUB6GpxcfSi6clgTaKkVz1Bmmfi2FbcvfHzW2N0fsz4wUUx22kScl3lIXNUv5c99N6DXMpD76ZafoZyQL9SPqo7khyltztoqQGH0X5Tzpw6ritc8R6ZafHVljOFmL1M6s7CM_gr6y0ivqWl9HfNuRLoDzyRWD9jwD-mO2c0J36YX-L31Cv7McfoOWkii3Vfm4hkHmbvfsZU9ayad4QzDitbBlMcGICzGcCzyu_zOAXGkj_ioO7aA5LMWUJiBQXuj-zfN1usEV-KGCOWBHR7rhNF9RMDwq0LCMd8g4_ejPjdk0Gty1zo53JQOtSpSZiax7hB9W2DHiO5q7eoq4oWA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این هندی ها همه چیزشان کمدی درام است؛  مقامات هندی در حال بررسی طرحی برای رهاسازی مارهای سمی و تمساح‌ها در نواحی رودخانه‌ای مرز با بنگلادش به منظور جلوگیری از نفوذ و فعالیت‌های مجرمانه هستند</div>
-<div class="tg-footer">👁️ 2.58K · <a href="https://t.me/SBoxxx/16378" target="_blank">📅 08:51 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/SBoxxx/16378" target="_blank">📅 08:51 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16377">
@@ -500,7 +500,7 @@
 گفته می شود ، انفجار مربوط به کارخانه بزرگ " تومر " که فعال در حوزه تولید و توسعه موتورهای موشکی و موتورهای پیشران است ، بوده است
 🔹
 هنوز اطلاعات دقیقی از خسارات و تلفات این حادثه منتشر نشده است</div>
-<div class="tg-footer">👁️ 2.76K · <a href="https://t.me/SBoxxx/16375" target="_blank">📅 00:19 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.77K · <a href="https://t.me/SBoxxx/16375" target="_blank">📅 00:19 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16374">
@@ -526,14 +526,14 @@
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JwmBNAnsE_eKkSJtBTrHoyAc1TtJWEpBkq3Y-MDTcrjYkZAoS2URZWH4hS5hnOrrgFMmKBicR441UGFOsQ-zEiDmGXCmxs6uPnpL45AxJ8vMTiCaGMdUipV5Pi4GbYHWipQNumjB4pfWN5-9Sgczzir128BxZNwl3zrPIv_2LMXqx5KlBSiKA1J5aOPtCLVAUXmT_jO1glfKe8NIcbMOwFRLyPy5accbpfBeWne4sGURHNWAcZZ8uHYep7lOC2sOmBLcH8F_VmLxTQI2LZDPz0dIjNqFZ6nWC5uDpp5aOPyGp2PHbq23n6FOYviUrOhcCWHffgekIb1_M7lKF-35iQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کله زرد ول کن این هوش مصنوعی کذایی نیست.  چه گناهی کرده ایم که این ور با هوش مصنوعی هر شب فرعون و ناوهای آنها را غرق می کنند و آن ور هم آنها قایقهای کوچک مان را اینطوری پرپر می کنند.</div>
-<div class="tg-footer">👁️ 2.8K · <a href="https://t.me/SBoxxx/16371" target="_blank">📅 23:47 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.81K · <a href="https://t.me/SBoxxx/16371" target="_blank">📅 23:47 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16370">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">⭕️
 تاثیرات اختلال سوپراپلیکیشن "شاد" و اخلال در بستر دیجیتال آموزش کشور</div>
-<div class="tg-footer">👁️ 2.75K · <a href="https://t.me/SBoxxx/16370" target="_blank">📅 22:29 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.76K · <a href="https://t.me/SBoxxx/16370" target="_blank">📅 22:29 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16369">
@@ -551,7 +551,7 @@
 برنامه‌ریزی لازم برای آغاز معاملات سهام و ابزارهای مربوط به آن از روز سه‌شنبه ۲۹ اردیبهشت ۱۴۰۵ انجام شده است.
 ‌
 بر اساس هماهنگی‌های صورت‌گرفته و پس از اخذ مجوزهای لازم، مقرر شد بازگشایی بازار سهام، انواع صندوق‌های سرمایه‌گذاری در سهام و مشتقات آن‌ها از روز سه‌شنبه هفته جاری صورت پذیرد.</div>
-<div class="tg-footer">👁️ 2.78K · <a href="https://t.me/SBoxxx/16368" target="_blank">📅 22:08 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/SBoxxx/16368" target="_blank">📅 22:08 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16367">
@@ -568,7 +568,7 @@
 :
 دبی دوباره شلوغ و پر از ترافیک شده است. از همین حالا دلم برای آتش‌بازی‌های ایران تنگ شده؛ آن‌ها کمک کردند تا شهر از افراد زودباور (وحشت‌زده) خالی شود .
 پدافند هوایی امارات زیر آتش (حملات) عالی عمل کرد. ما با پرداخت ۰٪ مالیات، حفاظت بهتری نسبت به اروپایی‌هایی دریافت می‌کنیم که ۵۰٪ مالیات می‌دهند.</div>
-<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/SBoxxx/16366" target="_blank">📅 21:12 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.93K · <a href="https://t.me/SBoxxx/16366" target="_blank">📅 21:12 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16365">
@@ -602,7 +602,7 @@
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">♥️
 سوپر اپلیکیشن "بله" دقایقی قبل از دسترس خارج شد</div>
-<div class="tg-footer">👁️ 2.93K · <a href="https://t.me/SBoxxx/16361" target="_blank">📅 15:41 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.94K · <a href="https://t.me/SBoxxx/16361" target="_blank">📅 15:41 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16360">
@@ -664,13 +664,13 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dWB27KZh7G3v28BsOk2CbdYig92pCNN-uuOXK5XSKVJLQBOFKp3GxnS2W2fFAQhffNYh225Kjk3BlXQV_FPw-gV61PI4FtlWNO9CEs_O59dYjPMi817iXLE_xrC_5I7PNC60DxjBlEf9vZAlT8yFRvz9Uan2VLO3xocdw__lE9AT_bJNjO49MjoX-ERg2ixhBpIwuXkfpj3wIfnS6H0rMIkcGbVl6In2IIDlJoOXRkAEB5ChHUhDdhXvOobcgufe2mFTTxpZdCoEjwxsb5QIV_2YBtovn-3KCkpgQ4yNMvKdZ2MdbpQ2ZaYnE9kinaut3JMS8dP38zMHsbRtBiNOxA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دیشب گویا شماری از مجریان صداوسیما فاز امام جمعه بودن برداشته و با سلاح در برنامه شان حاضر شدند!
 سبحان الله !</div>
-<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/SBoxxx/16356" target="_blank">📅 12:20 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/SBoxxx/16356" target="_blank">📅 12:20 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16355">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">نتانیاهو.pdf</div>
-<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/SBoxxx/16355" target="_blank">📅 12:10 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/SBoxxx/16355" target="_blank">📅 12:10 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16354">
@@ -701,7 +701,7 @@
 <div class="tg-post" id="msg-16351">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">استوری مشاور محمدباقر قالیباف</div>
-<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/SBoxxx/16351" target="_blank">📅 10:24 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/SBoxxx/16351" target="_blank">📅 10:24 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16350">
@@ -721,7 +721,7 @@
 <div class="tg-post" id="msg-16348">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">ترامپ خیلی صریح محمدباقر قالیباف رئیس مجلس ایران را به ترور و حذف فیزیکی تهدید کرده و او را "محمد یه چیزی..." (Muhammad Something) می نامد و با تمسخر می گوید اسم نصف ایرانی ها محمد یه چیزی است و ما می توانیم آنها را از فضا شناسایی کنیم و اگر نزدیک منطقه ذخیره…</div>
-<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/SBoxxx/16348" target="_blank">📅 08:59 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/SBoxxx/16348" target="_blank">📅 08:59 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16347">
@@ -980,7 +980,7 @@
 </div>
 <a href="https://t.me/SBoxxx/16310" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/SBoxxx/16310" target="_blank">📅 10:14 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.57K · <a href="https://t.me/SBoxxx/16310" target="_blank">📅 10:14 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16309">
@@ -995,7 +995,7 @@
 آمریکا پیشنهاد ۱۴ ماده‌ای ایران را رد کرد
 طبق اطلاعات رسیده به تهران تایمز، دولت آمریکا پاسخ پیشنهاد مکتوب ایران درباره پایان جنگ را داده است.
 آمریکا با رد پیشنهادات تهران، بار دیگر مواضع خود بخصوص در بحث هسته‌ای را تکرار کرده است. / مهر</div>
-<div class="tg-footer">👁️ 2.63K · <a href="https://t.me/SBoxxx/16308" target="_blank">📅 10:03 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.64K · <a href="https://t.me/SBoxxx/16308" target="_blank">📅 10:03 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16307">
@@ -1012,7 +1012,7 @@
 ارتباط با پشتیبانی : @cyclicalwavessupport
 📌
 کانال ما : @cyclicalwaves</div>
-<div class="tg-footer">👁️ 2.66K · <a href="https://t.me/SBoxxx/16306" target="_blank">📅 09:41 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.67K · <a href="https://t.me/SBoxxx/16306" target="_blank">📅 09:41 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16305">
@@ -1040,19 +1040,19 @@
 
 <div class="tg-post" id="msg-16302">
 <div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J_s_ViXUO9SA9AKBTPub9ZALbZvsrrhKObcVocgQNSuSRHarULPIAAZuk19zD-hzGkN2j-oo1G4DvO2C44pmvOgJY1PZwNac0ct-WHxK4qkY0lhYTqm11LBWC0JZfFvKSvTcbdtT3x_D7IoA5aDzNEpzYbkXXKGXZy3-A_VyKpZrzYGmNlylJCvrgjHDdXwAOFWCnMdNQlCQEk_f9vsC_mcp7qNcxE371H9dVheBwiBH_YStx57041H8EG4Uz7zTOctwxtoYJkOmWhcWY4ySJ4h1Puo8DOoxwPRHayiidY0ft7SdFMfm2dr8bwnw63V5LXe1bRNmOfQuyfGbz_K0dQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/b7LLtKbLXylxn39s5UUW7Bq9_wGeAZhdOrcByCSwgqOiVYs5PfRdP5Xxzzmh5yq0ynpmtfVLSHcAvj_Dj6myVDxuQ7s5qi21U2wNb9MtrXN_kVu8EJpkNE9XD90UBPmfoa9RY7EOABKBbGNEqJeAPNSx3inBV9jp61ya6TmH0I-XMJwpsg3d3IweNWTkzaMvdVlSha28dfwX-sMB9Zi_BLzTQOy5VfoI8LT62I4or4nsNIl1l58s80bEV3cgzhOcjIV7b_PLyQsiT_a8JErOwTgtcECSC5Bn39Orn1vH_4ZZ1nU70XlOdGXvdEybSTjTScvaAGiKVCGDeo4Bey1r9Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به نظر سعودی ها یا می خواهند وسط بازی کنند یا حتی به محور اخوانی گرایش یافته اند:
 🚨
 ناتو اسلامی در حال شکل‌گیری؟
 👉
 وزیر دفاع پاکستان، خواجه محمد آصف، اخیراً پیشنهاد داد که قطر و ترکیه می‌توانند به پیمان دفاعی موجود بین پاکستان و عربستان سعودی بپیوندند،…</div>
-<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/SBoxxx/16302" target="_blank">📅 03:25 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/SBoxxx/16302" target="_blank">📅 03:25 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16301">
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">ترامپ:  وقتی رئیس‌جمهور شی به‌طور بسیار مؤدبانه به ایالات متحده به‌عنوان کشوری که شاید در حال افول است اشاره کرد، منظورش آسیب‌های عظیمی بود که ما در طول چهار سال ریاست‌جمهوری جو بایدن خواب‌آلود و دولت بایدن (منظورش محتملاً حسین اوباما بوده) متحمل شدیم، و در…</div>
-<div class="tg-footer">👁️ 2.68K · <a href="https://t.me/SBoxxx/16301" target="_blank">📅 01:19 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/SBoxxx/16301" target="_blank">📅 01:19 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16300">
@@ -1077,7 +1077,7 @@
 <div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JcG7yJ2A2pRdJaT801PuYVDLeesYK-WfDXLCBIELyZs3IcnvUlNvrM1vzNP0Ld_CqS6n2VGRimbhiNaENtD6wXTGSDtRL3oaOfvyml5-RvfJBCd0pulWYYthDBY82PwQdX-sIoEzShs-XiH9bBA-U901HGZ87MIYrP7ZX9XkXYE_6CaP5vQ6nSp7jG2LjgmVOc2W7JejYDO_n2Ugo-HweZdiO_3clRpHPaFwJ6ieTvW_IJl4acYFZLsrOQpCZ5zAlg-dckAClhA7Z-IybrqhBUipid76jnKr3zkb1kRYe68CUEFw0aIIg9E0CPIgqHLAren0HPWFa8BvxX2hj2tPYA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک روش وحشتناک شکتجه وجود دارد به اسم شکنجه قطره آب یا «شکنجه چینی» !  این شکنجه روشی برای تخریب روان طرف است که در آن قطره‌های آب به‌طور منظم روی پیشانی فرد می‌چکد. تکرار یکنواخت و انتظار برای قطره بعدی موجب اضطراب شدید، بی‌خوابی و آشفتگی ذهنی می‌شود.  در…</div>
-<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/SBoxxx/16298" target="_blank">📅 01:06 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/SBoxxx/16298" target="_blank">📅 01:06 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16297">
@@ -1086,7 +1086,7 @@
 پس از شکست دوباره طرح محدودسازی اختیارات جنگی دونالد ترامپ در قبال ایران، بار دیگر این پرسش مطرح شده که آیا اساساً کنگره و سنا توان متوقف کردن یک رئیس‌جمهور آمریکا در مسیر جنگ را دارند یا نه. از نظر حقوقی پاسخ تا حدی مثبت است، زیرا طبق قانون اساسی آمریکا اختیار رسمی اعلان جنگ در اختیار کنگره قرار دارد و رئیس‌جمهور صرفاً فرمانده کل نیروهای مسلح محسوب می‌شود. به همین دلیل پس از جنگ ویتنام، قانون «War Powers Resolution» در سال ۱۹۷۳ تصویب شد تا رؤسای جمهور نتوانند بدون مجوز کنگره وارد جنگ‌های طولانی شوند. این قانون رئیس‌جمهور را موظف می‌کند ظرف ۴۸ ساعت کنگره را از هرگونه اقدام نظامی مطلع کند و در صورت عدم دریافت مجوز، عملیات باید پس از حدود ۶۰ روز متوقف شود.
 اما واقعیت سیاسی و عملی آمریکا با متن قانون تفاوت زیادی دارد. طی دهه‌های گذشته تقریباً همه رؤسای جمهور آمریکا راه‌هایی برای دور زدن این محدودیت‌ها پیدا کرده‌اند. آنها معمولاً عملیات نظامی را «اقدام محدود»، «دفاع پیش‌دستانه» یا «عملیات ضدتروریستی» می‌نامند تا از نظر حقوقی مشمول تعریف رسمی جنگ نشود. علاوه بر این، حتی اگر مجلس نمایندگان و سنا قانونی برای محدودکردن رئیس‌جمهور تصویب کنند، رئیس‌جمهور می‌تواند آن را وتو کند و شکستن وتو نیازمند رأی دو سوم هر دو مجلس است؛ امری که در فضای سیاسی شدیداً دوقطبی آمریکا بسیار دشوار است.
 به همین دلیل بسیاری از ناظران معتقدند امید بستن به رأی کنگره یا سنا برای پایان دادن به تنش یا جنگ احتمالی با ایران، تا حد زیادی واهی و غیرواقع‌بینانه است. در عمل، تنها زمانی که اجماع سیاسی بسیار گسترده‌ای علیه جنگ شکل بگیرد یا هزینه‌های نظامی و اقتصادی به‌شدت افزایش یابد، امکان مهار واقعی اختیارات جنگی رئیس‌جمهور به وجود می‌آید. در غیر این صورت، این نوع رأی‌گیری‌ها بیشتر جنبه نمادین و تبلیغاتی دارند تا اینکه بتوانند عملاً مسیر یک درگیری نظامی را متوقف کنند.</div>
-<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/SBoxxx/16297" target="_blank">📅 01:02 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.75K · <a href="https://t.me/SBoxxx/16297" target="_blank">📅 01:02 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16296">
