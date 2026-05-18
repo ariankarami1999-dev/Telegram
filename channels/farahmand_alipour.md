@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 61.3K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-29 01:14:03</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-29 02:21:19</div>
 <hr>
 
 <div class="tg-post" id="msg-5048">
@@ -304,21 +304,21 @@
 <a href="https://cdn4.telesco.pe/file/6b8eb45098.mp4?token=Hab7rxLjKBW_c-g6GVDqzjAY0oIK0zQyGUjJC-0OqiLxVScmJLXmoydUAgQ4pNIDnS4NW3_-puMwMJfgsE8dBhMRoTjUZm0garwHvWM1bD87l0JTnXnCxp7H8JhkmMpx6OA7Xu739TWT-g65eboRZFBlaMPkOWxwBNH3PZiukn6fke423yKSxKwyYXyrTWc24fn_u1DW4ilrW7Aym6tJRUSqInDFglcb-jAe6JRzsAStVowxz0gUwM69lP5JbuE6IqSx0TYvWAQ2u0xxKsM3ytr_im0cGE1NcVv-UiMVhE49ipIbkeqtJdpYTEcoI2R82PplkIyAqMvtop4pyscgUQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">فعال شدن پدافند در اصفهان</div>
-<div class="tg-footer">👁️ 7.03K · <a href="https://t.me/farahmand_alipour/5048" target="_blank">📅 00:06 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.66K · <a href="https://t.me/farahmand_alipour/5048" target="_blank">📅 00:06 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5047">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">🚨
 رسانه‌های داخلی : فعال شدن پدافند در جزیره قشم و درگیری با «پهپادهای متخاصم.»</div>
-<div class="tg-footer">👁️ 7.43K · <a href="https://t.me/farahmand_alipour/5047" target="_blank">📅 00:03 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.97K · <a href="https://t.me/farahmand_alipour/5047" target="_blank">📅 00:03 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5046">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">🚨
 رسانه‌های داخلی : فعال شدن پدافند در جزیره قشم و درگیری با «پهپادهای متخاصم.»</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/farahmand_alipour/5046" target="_blank">📅 23:04 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/farahmand_alipour/5046" target="_blank">📅 23:04 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5045">
@@ -332,7 +332,7 @@
 ایران هرگز سلاح هسته‌ای نخواهد داشت!
 با احترامی که برای این رهبران قائل هستم، به وزیر جنگ، پیت هگسث، رئیس ستاد مشترک ارتش، ژنرال دنیل کین، و نیروهای مسلح ایالات متحده دستور دادم که حمله برنامه‌ریزی‌شده فردا به ایران انجام نشود.
 اما همزمان به آن‌ها دستور دادم که برای انجام یک حمله تمام‌عیار و گسترده به ایران، در هر لحظه‌ای که لازم باشد، کاملاً آماده باشند، در صورتی که توافقی قابل قبول حاصل نشود.</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/farahmand_alipour/5045" target="_blank">📅 22:33 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/farahmand_alipour/5045" target="_blank">📅 22:33 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5044">
@@ -349,7 +349,7 @@
 🔺
 در روزهای اخیر خبرهایی منتشر شده بود که پاکستان مواضع ایران را به طور مثبت‌تری به آمریکا منتقل می‌کند و همین باعث سوتفاهم‌هایی شده بود.
 بهرصورت اینکه پاکستان امروز دائم تاکید میکنه که همه چی خوبه، میشه حدس زد، وضعیت وخیمه.</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/farahmand_alipour/5044" target="_blank">📅 20:39 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/farahmand_alipour/5044" target="_blank">📅 20:39 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5042">
@@ -367,7 +367,7 @@
 پیش از این
 مصر هم یک اسکادران جنگنده و خلبان در امارات
 مستقر کرده بود و به ایران هشدار داره بود.</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/5042" target="_blank">📅 16:51 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/5042" target="_blank">📅 16:51 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5041">
@@ -375,7 +375,7 @@
 <div class="tg-text">🚨
 🚨
 خبرگزاری فارس پاسخ آمریکا به شروط جمهوری اسلامی رو داده، ۵ شرطی که قاطعانه حکایت از انسداد مجدد کامل مسیر دیپلماسی داره !   ‏۱. عدم پرداخت هرگونه غرامت از سوی آمریکا ‏۲️. تحویل ۴۰۰ کیلوگرم اورانیوم به آمریکا ‏۳️. فعال‌ماندن تنها یک تاسیسات هسته‌ای ‏۴️.…</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/5041" target="_blank">📅 13:44 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/5041" target="_blank">📅 13:44 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5040">
@@ -386,21 +386,21 @@
 🔺
 دیروز مارکو روبیو وزیر خارجه آمریکا  گفته بود که «پروژه آزادی» (عملیات آزادی تنگه هرمز) به درخواست پاکستان متوقف شده بود زیرا که پاکستان گفته بود که توقف این عملیات می‌تواند به دستیابی به توافق با ایران کمک کند.
 موضوعی که در نهایت رخ نداد و هیچ‌گونه توافقی حاصل نشد.</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/5040" target="_blank">📅 12:42 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/5040" target="_blank">📅 12:42 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5039">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ve1t-OI_HZm5G3EVaBeezMQ24iR5Nd0qw0vbsHCvfmWTZRHCrDaMImIspzhSk28ijOc4nNKXzdTmQ6OlEse1PSN74-YdIUpqwdMH-QLh-MvUFgZRb_i86H6tqawRfObE0puD_kEjG8ysIvNPEX2oKYEVRTQLGBkE0W0_z_B9xLXxE8RE1r8L0-5vpX5DcxOILeZkNZoBml8s7vmvFvTgk4TUw4X1xIIAQuVbjq5-KVi3u4B9YCpqsw6XL-ZY2NHrMXuOF6NRrw1l1xMaAxHT3OkRknyJxLxuDZYwuAiIVutOVdgPFyVPUyJXxDo3H_GHZLwp_Y-y9Kur5UsZ5n-ZSg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نخبه و مغز متفکرشون، فواد ایزدی می‌گفت، سالی ۱۲۵ میلیارد دلار! ۴ سال، ۵۰۰ میلیارد دلار!  هی «غنائم احد » رو افزایش میدادن!</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5039" target="_blank">📅 11:22 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5039" target="_blank">📅 11:22 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5038">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mn4pUQAh_qhz1yRM13i_qVdoaTkJxBoUJw057gC7YUmLCfjv6_PHFKNIhIoXA7riFwDtlQoEPdrenuZxa6srSbgyBtHqaVeort49dNn-de-MNnbe_Ww_1jg-TaemTeiUw8nh7dXXk_sprOXHvlaVuPj8fs2SAfc-8_NeoHPbqdjkktgU0eMxCYjLFZor1qauRKScsHwrpApfQ695HNyeMrKD_lSNfksW7GaGth-bc-R8MRa1mLa-TnIM3sF4viraOTkMTMofhxcL4XGSMwTzu2SuSbbIVpq68dBNcXmRb-eXVcZP1RqXWeTZvocINaMrAOAFd7FgyTY08g4dqZD7aA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اول تبلیغ میکردن که قراره سالی ۱۰۰ تا ۱۲۰ میلیارد دلار درآمد از تنگه هرمز داشته باشیم! ۳ برابر درآمد نفتی!  توی ایستگاه مترو هم از زبان رویترز  نوشتن که قراره ۱۰۰ میلیارد دلار درآمد داشته باشیم!</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/farahmand_alipour/5038" target="_blank">📅 11:16 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/5038" target="_blank">📅 11:16 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5036">
@@ -414,7 +414,7 @@
 توی ایستگاه مترو هم از زبان رویترز
 نوشتن که قراره ۱۰۰ میلیارد دلار درآمد
 داشته باشیم!</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/5036" target="_blank">📅 11:13 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/5036" target="_blank">📅 11:13 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5035">
@@ -427,7 +427,7 @@
 <a href="https://cdn4.telesco.pe/file/818d63bca0.mp4?token=RKKHOdIWSr7RJsq2mRWEeybL1e9uDvoayaEMeV5gzcZ7EKG-gUBytg7rtAWg56NlYp_NGwZwPHi8DJXNA8Af7NO_uaYrRB8LGGBJKcqNTybrLXZ3DKAFb-wbFGAcluHL-tIUFUnLhjUFUfDiDKNwucRXug_GxcVbTwyfsF5NIccDNYtevj9gISzBDIhEnv4PQV1IOqmUcj-k-T0FqtXjz74JY-auFRBvh-3j6sEXXuehj2HJH1yCtUj4HZsgoAvqgTJ4hB_0AUm5XzOFfQqZ9fjVS4xF_v0DIsa0E_MV7zgpkgPSEYn4digh23zsEZRpE0JBnPUgIjbw9iwZwkQO8A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مسلسل بردن تلویزیون و آموزش رگبار میدن!</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/5035" target="_blank">📅 10:07 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/5035" target="_blank">📅 10:07 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5034">
@@ -443,14 +443,14 @@
 آماده‌ترین برای حمله به ایران اسرائیله.
 اسرائیل نه خسته شده، نه پشیمانه
 نه به آتش‌بس مقیده ، نه کم آورده</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/5034" target="_blank">📅 07:22 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/5034" target="_blank">📅 07:22 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5033">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qsvmeNvCzeUAslGMTOkjRjDMuYtLFxmn8rZGi4wq6qrRcEWuiOmATEJYfkzrKQtaBw6-KSc8VlpStwLYNN4T3A9556XFHENwsba6rh1bNiG1Q7sqbbQEkjmhGZiKdbY77939h_o6FaCBEguwSKesuDXJyUNGs0ulYxi2srDJ3y_mBzb3QxfJiNEBTYzY10ZHrIAU7fRxh0svdFQB9bydGcKe4hzG3clPy4e5--b9AMKnoYADWKGxRNEo3U52OfAZkMtf4YmZLgcEAoJv37bxtg-CY1Y4uf0vnC3EH4E6ZkoLIsZJlL5WNGfNjEvB9ap59c4nxWcfUkxdXbzfuBUK4g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Khkf3M1O24e_PZd1zJ-VTI71FlKOR1VUi5YMF35K088OjmfKwMJN_MBO1JuqZ3eQe3R3cBXZMqxBLmv-RVaZLdu2x_5o17MXjfyAv6w26CQSGrQtNYeupJid0kVE-SVfeBOF6T-Jzgz9i3OSfv-vQKQoUg1Jg-BVbQPJ0GVgjfVKDYHgXSYXG3ybO8LGPRHFWWlhTMsPJNWHZvoX0fPiqB9koxHoqgjTfbc40Wog3p8yHU5bFGy-HF1V9FLueLIDLmGOFAlt94StZRC7GUF-PAhLRt2QnwztVfR8sQ7TCO06crk2jnfLA8Rmheo0Bs4QRbueTni7YsQSk8eJVER44g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست جدید ترامپ</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/farahmand_alipour/5033" target="_blank">📅 01:57 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/farahmand_alipour/5033" target="_blank">📅 01:57 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5032">
@@ -459,21 +459,21 @@
 ‏این جلسه یک روز قبل از آن برگزار شد که ترامپ گفت جمهوری اسلامی «بهتر است سریع حرکت کند، وگرنه چیزی از آنها باقی نخواهد ماند».
 ‏به گفته این منبع، معاون رئیس‌جمهور، جی‌دی ونس، وزیر خارجه، مارکو روبیو، رئیس سیا، جان رتکلیف، و استیو ویتکاف، فرستاده ویژه، همگی در این نشست در باشگاه گلف ترامپ در ویرجینیا حضور داشتند.
 ‏این جلسه تنها ساعاتی پس از بازگشت ترامپ از سفر به چین، کشوری با روابط نزدیک با ایران، برگزار شد.</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/5032" target="_blank">📅 00:26 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/farahmand_alipour/5032" target="_blank">📅 00:26 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5031">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">سخنگوی وزارت دفاع عربستان:
 ۳ فروند پهپاد که از حریم هوایی عراق به سمت عربستان می‌رفتند، رهگیری و نابود شدند.</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/5031" target="_blank">📅 23:34 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5031" target="_blank">📅 23:34 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5030">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c29FgNEEwStb010_tbunBZCOBGONLKaJF-VvprqQyLZCqTuLqN1O9ohRB8RIJkT04ZY0ZVwX7GLum9Ts3y4iNCy_xU1oDKtR_k4Q4IgNpbgc5TmD7pF19Ah3BOm8MeQTYebJoQ8CpDZzyqXZNvbRGoFDJ4aBAatEKYFQ2WOutKtQ19unQHI7tuCs_pupWxEE57ca2PQJrBqeNlUqFwC0OEeHX675653s9ou4cV_3XgbukOhy1GZnURxSvDnM2x-ABTcrn43woHpgb9UlQOfjC8JaOVv7Yvpvyv0-XvrbInBKgbv6deTVjdFiQsek0uNzqQPV4GO_8ooYXhHJuC94Sw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۲۰ سانتیمتر؟؟ شوخی میکنی؟  در پایان جنگ ۸ ساله  ۲۶۰۰ کیلومتر مربع از خاک ایران،  یعنی بخش‌هایی از: شلمچه، طلائیه، فکه، مهران، میمک، سومار، نفت‌شهر و خسروی و دشت‌ ذهاب، در دست ارتش عراق ماند و  شما «جام زهر» نوشیدید!  خود صدام حسین در سال ۱۹۹۰ به خاطر حمله…</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5030" target="_blank">📅 23:23 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/5030" target="_blank">📅 23:23 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5029">
@@ -486,7 +486,7 @@
 <div class="tg-post" id="msg-5028">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">۲۰ سانتیمتر؟؟ شوخی میکنی؟  در پایان جنگ ۸ ساله  ۲۶۰۰ کیلومتر مربع از خاک ایران،  یعنی بخش‌هایی از: شلمچه، طلائیه، فکه، مهران، میمک، سومار، نفت‌شهر و خسروی و دشت‌ ذهاب، در دست ارتش عراق ماند و  شما «جام زهر» نوشیدید!  خود صدام حسین در سال ۱۹۹۰ به خاطر حمله…</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/5028" target="_blank">📅 23:08 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5028" target="_blank">📅 23:08 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5027">
@@ -498,7 +498,7 @@
 شما «جام زهر» نوشیدید!
 خود صدام حسین در سال ۱۹۹۰ به خاطر حمله به کویت این سرزمین‌ها رو آزاد کرد! خودش به اراده خودش! نه به زور شما! شماها که جام زهر رو نوشیده بودید و تموم شده بود! اصلا خمینی بازگشت این سرزمین‌ها رو ندید!
 چون یکسال قبلش مرده بود!</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5027" target="_blank">📅 23:04 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5027" target="_blank">📅 23:04 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5026">
@@ -512,7 +512,7 @@
 </div>
 <div class="tg-text">۶۵۰۰ ایرانی رو به اتهام‌های ساختگی - که سنت همیشگی این نظامه - در سه ماه اخیر دستگیر کردن!
 هر روز هم آشکار و در خفا اعدام میکنن.</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/farahmand_alipour/5026" target="_blank">📅 22:55 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/farahmand_alipour/5026" target="_blank">📅 22:55 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5025">
@@ -550,7 +550,7 @@
 <div class="tg-text">🚨
 🚨
 ترامپ :«برای ایران، ساعت در حال تیک‌تاک است و آن‌ها بهتر است خیلی سریع بجنبند، وگرنه چیزی از آن‌ها باقی نخواهد ماند. زمان بسیار حیاتی است!</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/5021" target="_blank">📅 20:27 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/5021" target="_blank">📅 20:27 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5020">
@@ -577,7 +577,7 @@
 <div class="tg-post" id="msg-5019">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">حمله پهپادی به ژنراتور برق نیروگاه هسته‌ای امارات!</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5019" target="_blank">📅 19:40 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5019" target="_blank">📅 19:40 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5018">
@@ -1148,7 +1148,7 @@ https://www.paypal.me/Farahmandalipour</div>
 <a href="https://cdn4.telesco.pe/file/24cc1c70c2.mp4?token=vzel7vK2feIvL_Pv9juvP_xZnjTT8zV_bT-kLMXVg2M1n1KUQBrCdWy1oT2wzvlNZ4R6gR6udEr7edemCrchzGg9jtDr7dDqNbLG-WNZvVxnYOpVpt_C-syx1rLciJT8jCFbGPDD2Enyjb5qWmvZy9S0OFcqF5gdio1mgrEll53bCe_YkvU86jAZXtKzvCMu-57fFhhj7HFod9ZMvpnGoSHOYOA5AxC3brlKpAvRk7yUKSmmm_0S7LK7vlrnYO-MreUS7qlw9G87fR9Fc_k6p6mH3hyWo1QPvWXjqflF6hJiMSs6Ckybvp4bdZeRCCgeWv-5Eu_BLYF9LDjoi7yW5A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ایلان ماسک بچه‌اش رو هم برده چین :)</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/farahmand_alipour/4966" target="_blank">📅 17:03 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/farahmand_alipour/4966" target="_blank">📅 17:03 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4965">
@@ -1232,7 +1232,7 @@ https://www.paypal.me/Farahmandalipour</div>
 </div>
 <div class="tg-text">رئیس جمهور چین در دیدار با ترامپ :
 چین و آمریکا از همکاری سود می‌بینند و از تقابل زیان.</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/farahmand_alipour/4961" target="_blank">📅 10:23 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/farahmand_alipour/4961" target="_blank">📅 10:23 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4960">
@@ -1245,7 +1245,7 @@ https://www.paypal.me/Farahmandalipour</div>
 <div class="tg-post" id="msg-4959">
 <div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">جمهوری اسلامی : ۴ مامور دستگیر شده در کویت در چهارچوب ماموریت گشت‌زنی دریایی بودند که به خاطر اختلال در سامانه ناوبری وارد آب‌های کویت شدند.</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/farahmand_alipour/4959" target="_blank">📅 20:48 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/farahmand_alipour/4959" target="_blank">📅 20:48 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4958">
