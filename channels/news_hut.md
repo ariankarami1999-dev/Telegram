@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-30 01:23:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-30 02:27:34</div>
 <hr>
 
 <div class="tg-post" id="msg-64973">
@@ -302,7 +302,7 @@
 امریکا میگه دستور حمله رو به طور موقت لغو کرده و در سایه تهدید می‌خواد مذاکره کنه
 اونا باید اینو بدونن برای ما، تسلیم معنایی ندارد؛ یا پیروز می‌شویم یا شهید.
 @News_Hut</div>
-<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/news_hut/64973" target="_blank">📅 00:08 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.99K · <a href="https://t.me/news_hut/64973" target="_blank">📅 00:08 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64972">
@@ -310,7 +310,7 @@
 <div class="tg-text">🚨
 🇺🇸
 اولین اظهار نظر متفاوت امریکا نسبت به حمله انجام شده به مدرسه میناب و جان باختن کودکان این مدرسه:  برد کوپر، فرمانده سنتکام: ایالات متحده عمدا به غیرنظامیان حمله نمی‌کند. مردم ایران دشمن ما نیستند. سپاه پاسداران انقلاب اسلامی در این مورد دشمن است. تحقیقات…</div>
-<div class="tg-footer">👁️ 6.2K · <a href="https://t.me/news_hut/64972" target="_blank">📅 23:50 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.24K · <a href="https://t.me/news_hut/64972" target="_blank">📅 23:50 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64971">
@@ -329,7 +329,7 @@
 در حال حاضر برنامه‌ای برای تصاحب اورانیوم غنی‌شده ایران توسط روسیه نداریم. این هرگز برنامه ما نبوده است.
 نمی‌دانم گزارش‌ها درباره این موضوع از کجا آمده‌اند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 7.63K · <a href="https://t.me/news_hut/64971" target="_blank">📅 23:17 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 8.54K · <a href="https://t.me/news_hut/64971" target="_blank">📅 23:17 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64970">
@@ -356,7 +356,7 @@
 ✈️
 آیدی ربات جهت خرید :
 @AmoAdmins_bot</div>
-<div class="tg-footer">👁️ 7.11K · <a href="https://t.me/news_hut/64970" target="_blank">📅 23:09 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.92K · <a href="https://t.me/news_hut/64970" target="_blank">📅 23:09 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64969">
@@ -373,7 +373,7 @@
 ترامپ درباره اینکه ایران چقدر وقت داره تا توافق کنه:
 دو یا سه روز. شاید جمعه، شنبه، یکشنبه. شاید اوایل هفته آینده. یک بازه زمانی محدود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/news_hut/64969" target="_blank">📅 18:23 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/news_hut/64969" target="_blank">📅 18:23 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64968">
@@ -390,7 +390,7 @@
 🇺🇸
 ترامپ: یک ساعت فاصله داشتم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/news_hut/64968" target="_blank">📅 18:18 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/news_hut/64968" target="_blank">📅 18:18 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64967">
@@ -398,7 +398,7 @@
 <div class="tg-text">🚨
 🇺🇸
 ترامپ درباره ایران:  ممکن است مجبور شویم ضربه بزرگی دیگر به آنها وارد کنیم. هنوز مطمئن نیستم. خیلی زود خواهید فهمید.  @News_Hut</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/news_hut/64967" target="_blank">📅 18:17 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/news_hut/64967" target="_blank">📅 18:17 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64966">
@@ -416,7 +416,7 @@
 ممکن است مجبور شویم ضربه بزرگی دیگر به آنها وارد کنیم. هنوز مطمئن نیستم.
 خیلی زود خواهید فهمید.
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/news_hut/64966" target="_blank">📅 18:16 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/news_hut/64966" target="_blank">📅 18:16 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64965">
@@ -430,7 +430,7 @@
 </div>
 <div class="tg-text">شعار طرفدران حکومت تو تجمعات شبانه: مرگ بر امارات!!
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/news_hut/64965" target="_blank">📅 15:59 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/news_hut/64965" target="_blank">📅 15:59 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64964">
@@ -438,17 +438,17 @@
 <div class="tg-text">🚨
 خبرگزاری مهر: صدای انفجار ناشناخته در جزیره قشم
 @News_Hut</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/news_hut/64964" target="_blank">📅 14:32 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/news_hut/64964" target="_blank">📅 14:32 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64963">
 <div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Lc1MQqGJ08MCePeYpvSASVmEfJ-WoTNbreiXhrDA7gHhvV-rqCdpx0p0b8Mlh7yFu1FJYnYNrrNiFXkwFjKt0NimfPgCmYFMDtuvcbrgObLT-twGvkFPCaCuYZ_i0KGbeYY-Q9Y_IpJ4wAFy3574uPlPu13xr2B4lNe4skXPuAVrznMiLjop2ttjINoF4fU0HApECblnweg_PyILpiW94IL08cEwbINgqyW8Aw9Nncow3VO6Ow5IbdW1HYIyZM_e_9x9r6WDSMHGV1P8L77J205s5j46hRiLnV6qHr6QDHDrESET1VH9k7oVaoHzC2hhdeGgGSw72mdr3HM_QFD-dQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Yhxn0Rm82LjinjwaccLgKQBQ8pAn6odr_NRmRWIeqQCXtXl49lDgfp4Pquq6M_SVfbVGmoh3zyfQfFmkjEYV4oryn1FthSs8SC4jTVwPksBBYj5Llz-jsd_Pu6_xbn4MRBnz837xKOKHg2s2qO-7PSqJLdp9xJetLfRRikTUXsrgQae3Oc7SwYBCnSSl0kED-2GgXoF5ALdUHSzvlI_nocSNnGYYs0lTIL-MCYmDtFuBad-fnZJDCSx_yJ3DJnbXE9c5z_vUmYEjPSj9hpMESsVSBlSE4t4krhkQzOkXxvSIIJhCmGKIbGh5dhoebu0_eHo9HDIMJpoLW0LlR5cKvQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
 🇺🇸
 ترامپ:   من از طرف امیر قطر، ولیعهد عربستان و رئیس امارات خواسته شدم که حمله‌ای که برای فردا علیه ایران برنامه‌ریزی شده بود رو فعلاً متوقف کنم، چون مذاکرات جدی در جریانه و احتمال یه توافق وجود داره. این توافق به نظرشون می‌تونه شامل این باشه که ایران به…</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/64963" target="_blank">📅 01:56 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/64963" target="_blank">📅 01:56 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64962">
@@ -471,7 +471,7 @@
 ترامپ:
 «اگر ایران تسلیم شود، اعتراف کند که نیروی دریایی‌اش از بین رفته و در ته دریا است، و نیروی هوایی‌اش دیگر با ما نیست، و اگر کل ارتش‌شان از تهران خارج شود، سلاح‌ها را رها کرده و دست‌ها را بالا ببرند، هر کدام فریاد بزنند «من تسلیم می‌شوم، من تسلیم می‌شوم» در حالی که پرچم سفید نماینده را به شدت تکان می‌دهند، و اگر تمام رهبران باقی‌مانده‌شان همه «اسناد تسلیم» لازم را امضا کنند و شکست خود را در برابر قدرت و نیروی بزرگ و باشکوه ایالات متحده آمریکا بپذیرند، روزنامه‌های در حال سقوط نیویورک تایمز، وال استریت ژورنال چین (WSJ!)، سی‌ان‌ان فاسد و اکنون بی‌اهمیت، و همه اعضای دیگر رسانه‌های خبری جعلی، تیتر خواهند زد که ایران پیروزی استادانه و درخشانی بر ایالات متحده آمریکا داشته است، حتی نزدیک هم نبود. دموکرات‌ها و رسانه‌ها کاملاً راه خود را گم کرده‌اند. آنها کاملاً دیوانه شده‌اند!!!»
 @News_Hut</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/64961" target="_blank">📅 18:33 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/64961" target="_blank">📅 18:33 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64959">
@@ -562,7 +562,7 @@ https://t.me/+ArmBt6ZWMF84ZDlk</div>
 چرچیل چه گفت؟ «هر قیمتی که لازم باشد برای شکست هیتلر بپردازیم، خواهیم پرداخت.»
 همین موضوع درباره ایران هم صدق می‌کند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/64948" target="_blank">📅 20:04 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/64948" target="_blank">📅 20:04 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64947">
@@ -591,7 +591,7 @@ https://t.me/+ArmBt6ZWMF84ZDlk</div>
 ‏
 حدادعادل: والا من خودم به دامادم دسترسی ندارم، از همین‌جا بهش سلام می‌رسونم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/64945" target="_blank">📅 10:23 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/64945" target="_blank">📅 10:23 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64944">
@@ -599,7 +599,7 @@ https://t.me/+ArmBt6ZWMF84ZDlk</div>
 <div class="tg-photo"><img src="https://cdn5.telesco.pe/file/GWXJ46Y091gUV7coP0EEz5tfp72MTG-Syc50pPHHojrSf5g3Lko62eKFnJNStbhv-2l72ubIe4Vxh0rJIX90LRozHM5FFnZPFOulMlqWP0VOs9s8L5-aN-Zq0VpHUDFgjTl7Z3c3gb9wOkRhfbsxCT4xUyeREmxxutEEmboW7X5oJNF6-EgP_qPeLfSqVp3RIn3L7zaAswnjelmCUiYyD54i2deFfTnby_zXScAEvtR_ARikwMzJWNvLTf5WNGBZx_QogaP-xpTh1E2_B3RMD9Q9BPsgIlxtMkGsTvCUalrfzyziqXrRpU3z3jhTtk6c_aDZoBNmRVGS4Auiz_Y2kg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دیلی‌میل: کیر میخواد از نخست‌وزیری انگلیس استعفا بده
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/64944" target="_blank">📅 07:55 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/64944" target="_blank">📅 07:55 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64943">
@@ -618,7 +618,7 @@ https://t.me/+ArmBt6ZWMF84ZDlk</div>
 ❤️
 ‌
 #hjAly</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/64942" target="_blank">📅 20:31 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/64942" target="_blank">📅 20:31 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64940">
@@ -1096,7 +1096,7 @@ https://t.me/hotVPNplus/9
 @HotVpnPlus
 |
 @HutNewsPlus</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/news_hut/64916" target="_blank">📅 12:44 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/news_hut/64916" target="_blank">📅 12:44 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64915">
@@ -1114,7 +1114,7 @@ https://t.me/hotVPNplus/9
 می‌دانید، آنها کمی استراحت داشتند، بنابراین سعی می‌کنند چند چیز را جمع کنند. آنها چند موشک را از زیر زمین برداشته‌اند. همه آن‌ها در یک روز از بین خواهد رفت.
 هر کاری که در چهار هفته گذشته انجام داده‌اند، در یک روز از بین خواهد رفت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/news_hut/64915" target="_blank">📅 10:26 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/64915" target="_blank">📅 10:26 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64914">
@@ -1191,7 +1191,7 @@ https://t.me/hotVPNplus/9
 در‌صورت تصویب این قطع نامه ترامپ به عنوان فرمانده کل قوا حق قانونی حملات مجدد به ایران را نخواهد داشت.
 اگرچه در نهایت ترامپ حق وتوی این قطع نامه را خواهد داشت
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/64908" target="_blank">📅 23:04 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/64908" target="_blank">📅 23:04 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64904">
@@ -1567,7 +1567,7 @@ https://t.me/hotVPNplus/9
 <div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Qa8whobo7vvkCjQQBJTTPfvJkO5msLdnYOU8rNuw1QdGFxMkUoQS2BZSxj4nHKkwrBRtbGglI3muLELWEBbuGoV-wfOah_VMev78y990fIsFI1bTXfD1s_VG1gbFtBPjii1QY8kV0gcDYQpdDLDjZQxotjgDOmdtHwFoEcBOfXOafHLb_VIxjr814D6vQ6GVrLAIcEkaUZusc97zwvVSDFWvoI02bsIw63Epa2nOe7yFiCsGLkhGuQPv7WzzEvboFjADeXcaI8zNEDxkHMzPMzSIuRK2QVqjaWMJ4diBwYv5W3jXlSPn90CfA96q22M9C0VLe6KTQqgXjitjlWkyrg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">داریم به دو رویداد مهم نزدیک می‌شیم  ۱.اولین‌دیدار ترامپ در دوره‌ی جدید ریاست جمهوری خود با رئیس جمهور چین ۲‌.آغاز جام جهانی ۲۰۲۶  می‌شه گفت عملیات آزادی که ترامپ استارتش رو زد بخاطر دیدارش با رئیس جمهور چینه و می‌خواد حداقل وضعیت تنگه رو از این آشفتگی در…</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/news_hut/64865" target="_blank">📅 02:08 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/64865" target="_blank">📅 02:08 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64864">

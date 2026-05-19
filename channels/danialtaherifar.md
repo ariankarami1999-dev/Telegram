@@ -292,13 +292,13 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-30 01:23:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-30 02:27:34</div>
 <hr>
 
 <div class="tg-post" id="msg-928">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده   @danialtaherifar</div>
-<div class="tg-footer">👁️ 430 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 431 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-927">
@@ -306,7 +306,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UF_zuncLM-PIXK2CdMo5VbgKSozyBjEQUfaKReL3D3dBqQUmSa5Lj0eMKUJYqx5MMaKn1GObuhYru-5BCiwryW7a6Jp7kw8EqBBwmSgtmaJgGrEAtBJ3-I0d-RAJoSUcqTuG3JnFVDO0xHn46pK5iYkMiCLpW2uNMvEgJzZmtvY76pfBg_q7QuhU5XelIGXKQ9vXrqx5U0-Fikkn2SOVz4R4dcgxRFhe8jCnEX8rmH5Qw2pHw-Pla8u5_EBF489FMimPlykNxXIpaIFzsM1tH1z09Kh2UJXGTulV2EDPONL9HSfrjm6B4fqv5VNhOK6lbdg2ITBl5Ul3gsnmJXRO1w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 434 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 435 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-926">
@@ -345,7 +345,7 @@
 #کسب_و_کار_اینترنتی
 #ایران
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 884 · <a href="https://t.me/danialtaherifar/924" target="_blank">📅 13:42 · 11 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 885 · <a href="https://t.me/danialtaherifar/924" target="_blank">📅 13:42 · 11 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-923">
@@ -355,7 +355,7 @@
 آپدیت هسته مارچ 2026 شروع شد.
 بختت ایرانی...
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 753 · <a href="https://t.me/danialtaherifar/923" target="_blank">📅 13:26 · 07 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 754 · <a href="https://t.me/danialtaherifar/923" target="_blank">📅 13:26 · 07 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-922">
@@ -365,7 +365,7 @@
 طی تماسی که با پشتیبانی همراه اول داشتم، مشخص شد که این سرویس در حال حاضر فقط برای مشترکین سازمانی و اصناف ارائه می‌شود. در واقع سازمان‌ها می‌توانند فهرستی از اعضای زیرمجموعه خود را ارائه دهند و سرویس تنها برای آن افراد قابل تهیه خواهد بود.
 در حال حاضر برای عموم کاربران چنین سرویسی ارائه نمی‌شود (و امیدواریم هیچ‌وقت هم نشود؛ وگرنه رسماً با پدیده «اینترنت طبقاتی» روبرو خواهیم شد که بازگرداندن آن به شرایط عادی، بسیار دشوار و شاید نشدنی باشد).
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 758 · <a href="https://t.me/danialtaherifar/922" target="_blank">📅 17:39 · 06 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 759 · <a href="https://t.me/danialtaherifar/922" target="_blank">📅 17:39 · 06 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-921">
@@ -377,13 +377,13 @@
 سال نو مبارک و ایامتون به کام.
 با آرزوی بهترین‌ها، دانیال طاهری‌فر
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 719 · <a href="https://t.me/danialtaherifar/921" target="_blank">📅 19:38 · 29 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 720 · <a href="https://t.me/danialtaherifar/921" target="_blank">📅 19:38 · 29 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-920">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">در حال حاضر بیشتر VPN فروش ها کلاهبردار هستن!  مراقب باشید از هر کسی خرید نکنید، مگر از قبل آشنا باشید.  @danialtaherifar</div>
-<div class="tg-footer">👁️ 744 · <a href="https://t.me/danialtaherifar/920" target="_blank">📅 14:45 · 24 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 745 · <a href="https://t.me/danialtaherifar/920" target="_blank">📅 14:45 · 24 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-919">
@@ -391,7 +391,7 @@
 <div class="tg-text">در حال حاضر بیشتر VPN فروش ها کلاهبردار هستن!
 مراقب باشید از هر کسی خرید نکنید، مگر از قبل آشنا باشید.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 862 · <a href="https://t.me/danialtaherifar/919" target="_blank">📅 12:47 · 15 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 863 · <a href="https://t.me/danialtaherifar/919" target="_blank">📅 12:47 · 15 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-918">
@@ -402,7 +402,7 @@
 با هر ماجرایی باید صفر بشیم! باید کلی استرس بکشیم.
 امیدوارم این آخرین قطعی اینترنتی باشه که تجربه می کنیم
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 879 · <a href="https://t.me/danialtaherifar/918" target="_blank">📅 00:47 · 14 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 880 · <a href="https://t.me/danialtaherifar/918" target="_blank">📅 00:47 · 14 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-916">
@@ -421,7 +421,7 @@
 <div class="tg-text">💥
 دسترسی گوگل به هاست ایران باز شد.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 839 · <a href="https://t.me/danialtaherifar/915" target="_blank">📅 13:21 · 08 Bahman 1404</a></div>
+<div class="tg-footer">👁️ 840 · <a href="https://t.me/danialtaherifar/915" target="_blank">📅 13:21 · 08 Bahman 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-914">
@@ -525,7 +525,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 <div class="tg-text">متاسفانه اکثر سایت هایی که در ایران میزبانی میشدن ایندکسشون به صفر و نزدیک صفر رسیده ...
 💔
 اینکه بعد از اتصال اینترنت چه رفتاری با سایت ها میشه دقیقا مشخص نیست، اما به دلیل اتصال یک‌طرفه‌ی گوگل(و در دسترس قرار نگرفتن سایت های میزبانی شده در ایران برای گوگل)…</div>
-<div class="tg-footer">👁️ 814 · <a href="https://t.me/danialtaherifar/905" target="_blank">📅 15:46 · 01 Bahman 1404</a></div>
+<div class="tg-footer">👁️ 815 · <a href="https://t.me/danialtaherifar/905" target="_blank">📅 15:46 · 01 Bahman 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-904">
@@ -539,7 +539,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 به امید روزهای خوب
 🌺
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 669 · <a href="https://t.me/danialtaherifar/904" target="_blank">📅 15:27 · 01 Bahman 1404</a></div>
+<div class="tg-footer">👁️ 670 · <a href="https://t.me/danialtaherifar/904" target="_blank">📅 15:27 · 01 Bahman 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-903">
@@ -550,7 +550,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 از این به بعد می‌تونید روندهای بلندمدت رو راحت‌تر ببینید و تحلیل تکنیکال بلندمدت روی نمودارهای سرچ کنسول انجام بدید.
 😄
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 867 · <a href="https://t.me/danialtaherifar/903" target="_blank">📅 07:40 · 19 Azar 1404</a></div>
+<div class="tg-footer">👁️ 868 · <a href="https://t.me/danialtaherifar/903" target="_blank">📅 07:40 · 19 Azar 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-899">
@@ -568,7 +568,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 🔹
 این ویژگی که توسط دنیل وایسبرگ (Daniel Waisberg)، از تیم Search Relations گوگل، در رویداد Search Central معرفی شد، اکنون در حال rollout تدریجی برای همه حساب ‌هاست و طی چند هفته آینده برای تمام کاربران در دسترس خواهد بود.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 936 · <a href="https://t.me/danialtaherifar/899" target="_blank">📅 12:21 · 16 Azar 1404</a></div>
+<div class="tg-footer">👁️ 937 · <a href="https://t.me/danialtaherifar/899" target="_blank">📅 12:21 · 16 Azar 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
@@ -582,7 +582,7 @@ NotebookLM
 با اینکه ایرادهای جزئی در خروجی دیده می‌شود، اما در مجموع نتیجه کاملاً قابل قبول و کاربردی ارائه می‌دهد و می‌تواند برای تولید محتوای سریع بسیار مفید باشد.
 #AI
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 863 · <a href="https://t.me/danialtaherifar/898" target="_blank">📅 12:33 · 11 Azar 1404</a></div>
+<div class="tg-footer">👁️ 864 · <a href="https://t.me/danialtaherifar/898" target="_blank">📅 12:33 · 11 Azar 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-897">
@@ -643,7 +643,7 @@ NotebookLM
 رسانه ها برای اینکه تاثیر منفی کمتری با فروش بک لینک های سایدبار یا سایت‌واید روی سایت خودشون داشته باشند از این روش استفاده میکنند.
 اسم رسانه خاصی رو نمیبرم، اما در خرید این مدل بک لینک ها حتما دقت کنید، بابت هزینه ای که می‌کنید ضرر نکنید.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 920 · <a href="https://t.me/danialtaherifar/895" target="_blank">📅 10:52 · 31 Tir 1404</a></div>
+<div class="tg-footer">👁️ 921 · <a href="https://t.me/danialtaherifar/895" target="_blank">📅 10:52 · 31 Tir 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
@@ -674,7 +674,7 @@ GFM (مدل گراف-محور برای ارزیابی اعتبار محتوا)
 توی سرچ کنسول دنبال نوسان ترافیک باش
 واکنش سریع نکن! اول تحلیل کن بعد اقدام
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 772 · <a href="https://t.me/danialtaherifar/894" target="_blank">📅 18:37 · 29 Tir 1404</a></div>
+<div class="tg-footer">👁️ 773 · <a href="https://t.me/danialtaherifar/894" target="_blank">📅 18:37 · 29 Tir 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-892">

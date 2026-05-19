@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/DAN7p_8NCRhKyqZ9I-AovFinCSk1aCdM03IepkVskgDZbUVv3nTVJqyoGq30jlnbPTtU79q8yvwO6mVbtTVvc6VdmqDg9oxZzkOUZ5us9cLf71TDfMI6MrT-Br4jOpcNP4KZxgaedKvTP9yzZvmRGr9vE_Xoy-hXM78AmKbbthqEFUBJsrgLQ5mnZYshPSaMJVtuIn02hqgxrRWI3j3E63MOyP7NFxeNTnxHUcAGzClQWo70CDcAvCkug1q2T74GQy1QyvMIH2NVsseScxnSqbKsBiMUkvSMdn5eFND4P14mRLubQrxSCvyE0C8-H_pOFIuDgrxKwWDqkYJfsyVjMw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
-<p>@iaghapour • 👥 51.4K عضو</p>
+<p>@iaghapour • 👥 51.5K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-30 01:23:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-30 02:27:34</div>
 <hr>
 
 <div class="tg-post" id="msg-2618">
@@ -321,7 +321,7 @@
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/iaghapour/2618" target="_blank">📅 16:00 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/iaghapour/2618" target="_blank">📅 16:00 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2617">
@@ -357,7 +357,7 @@
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/iaghapour/2615" target="_blank">📅 15:26 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/iaghapour/2615" target="_blank">📅 15:26 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2614">
@@ -376,7 +376,7 @@
 زیرساخت شبکه کشور به جای اتصال طبیعی به اینترنت جهانی، در حال حرکت به سمت یک ساختار جزیره‌ای و فرسوده است. اگر ثبات پیش‌بینی‌پذیر به این فضا بازنگردد، شرکت‌های بزرگ فناوری به اپراتورهای ساده تجهیزات قدیمی تنزل پیدا خواهند کرد. / دیجیاتو
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/iaghapour/2614" target="_blank">📅 10:38 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/iaghapour/2614" target="_blank">📅 10:38 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2613">
@@ -390,7 +390,7 @@
 دقیقاً همان چیزی است که ادامه‌ی این وضعیت به آن نیاز دارد.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/iaghapour/2613" target="_blank">📅 22:08 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/iaghapour/2613" target="_blank">📅 22:08 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2612">
@@ -429,7 +429,7 @@
 در مجموع، به نظر می‌رسه این روش هنوز پایدار نیست، اما از بچه‌های تیم خواستیم تست‌های بیشتری روش انجام بدن. اگر خودتون هم مایلید آموزش رو ببینید، می‌تونید مستقیماً به کانال یا گروه سنایی مراجعه کنید.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/iaghapour/2607" target="_blank">📅 22:04 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/iaghapour/2607" target="_blank">📅 22:04 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2606">
@@ -693,7 +693,7 @@ skip-SSL
 تا همین چند وقت پیش با کلی استرس می‌گفتیم کسب‌وکارهای نوپا و خونگی تو «مرز نابودی» هستن و همه‌مون چشم‌انتظار بودیم زودتر اینترنت وصل بشه؛ ولی الان دیگه حرف از مرز نیست. خیلی‌ها کل سرمایه، جوونی و حاصل سال‌ها تلاششون جلوی چشماشون دود شد و رفت رو هوا. کاش دردی که افتاده رو دوش این مردم، میافتاد رو دوش مسئولین...
 🆔
 @NetProPlus</div>
-<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/iaghapour/2594" target="_blank">📅 11:37 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/iaghapour/2594" target="_blank">📅 11:37 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2592">
@@ -783,7 +783,7 @@ skip-SSL
 — در ضمن، توجه داشته باشید که
 ما ذی‌نفع این کانال‌ها نیستیم
 و فقط به دلیل درخواست‌های زیاد شما این دوستان را معرفی می‌کنیم.</div>
-<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/iaghapour/2589" target="_blank">📅 23:36 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 36.4K · <a href="https://t.me/iaghapour/2589" target="_blank">📅 23:36 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2588">
@@ -932,7 +932,7 @@ LatestReleaseMirror
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 40K · <a href="https://t.me/iaghapour/2578" target="_blank">📅 22:28 · 13 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/iaghapour/2578" target="_blank">📅 22:28 · 13 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2577">
@@ -1121,7 +1121,7 @@ pull
 <div class="tg-text">ای بابا روش Vercel چرا بسته شد؟ هنوز آموزش نداده بودم که.
 😁
 سازمان فیلترینگ زرنگ شده ها. فک کنم خودشون رو آپدیت کردن دیگه به کانال من نگاه نمیکنن :)</div>
-<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/iaghapour/2567" target="_blank">📅 16:34 · 09 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/iaghapour/2567" target="_blank">📅 16:34 · 09 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2566">
@@ -1280,7 +1280,7 @@ KevinNet
 لینک گیت‌هاب پروژه
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/iaghapour/2557" target="_blank">📅 21:48 · 06 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/iaghapour/2557" target="_blank">📅 21:48 · 06 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">

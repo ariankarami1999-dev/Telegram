@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 61.3K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-30 01:23:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-30 02:27:34</div>
 <hr>
 
 <div class="tg-post" id="msg-5059">
@@ -300,28 +300,28 @@
 😊
 https://x.com/farahmandalipur/status/2056814391148834909?s=46
 .</div>
-<div class="tg-footer">👁️ 9.63K · <a href="https://t.me/farahmand_alipour/5059" target="_blank">📅 22:40 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farahmand_alipour/5059" target="_blank">📅 22:40 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5058">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">🚨
 نتانیاهپ خواستار لغو جلسه دادگاه خود در چهارشنبه شد و دادستانی با این درخواست موافقت کرد.</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/farahmand_alipour/5058" target="_blank">📅 20:59 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/farahmand_alipour/5058" target="_blank">📅 20:59 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5057">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">وزیر خارجه مصر به سی‌ان‌ان : در هر گفتگویی بین جمهوری اسلامی و آمریکا، موضوع باز شدن تنگه هرمز و آزادی تردد کشتیرانی باید در صدر موضوعات باشه.
 مصر اخیرا یک اسکادران جنگنده و خلبان در امارات مستقر کرد و به جمهوری اسلامی نسبت به تهدید امارات هشدار داد و گفت امنیت امارات، امنیت مصر است.</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/5057" target="_blank">📅 19:58 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/5057" target="_blank">📅 19:58 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5056">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">🚨
 ترامپ: «ممکن است مجبور باشیم حمله بزرگی دوباره به ایران بکنیم. هنوز مطمئن نیستم. به زودی خواهیم فهمید.»</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/farahmand_alipour/5056" target="_blank">📅 18:15 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/farahmand_alipour/5056" target="_blank">📅 18:15 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5055">
@@ -333,7 +333,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 و حالا هم به روشنی تهدید میکنه!
 این بازی خطرناک حمله به زیرساخت‌ها رو جمهوری اسلامی شروع کرد!
 رژیمی که به روشنی بین زیرساخت‌های ایران و فعالیت هسته‌ای‌اش، دومی رو انتخاب کرده!</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/farahmand_alipour/5055" target="_blank">📅 18:13 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/farahmand_alipour/5055" target="_blank">📅 18:13 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5054">
@@ -352,14 +352,14 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 اینها سلاح های مبارزه با آمریکا و اسرائیل
 نبود و نیست! اینها سلاح و خودروی سرکوب
 شهروندان معترض بود!</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/5054" target="_blank">📅 15:47 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/farahmand_alipour/5054" target="_blank">📅 15:47 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5053">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fJHLMYQprHSuOFZ0Da-ORJDMfcZI2e6ZJtkzaamZIowh4SU3uqPy0VjwG_dHGmRJ9DBCNbCm9vx70mU3vjvRKW9Ma4XMpCswYeBQICwhJ2e-5wPzHDFO5pv_XPoUQmNgZr7SQ_xmaKVAZOF5M8xK_JW24LSWuEpg4o_rY6geN8zaxHr1hYdKRCxdzJq5ayQvTLg8WZCnV9FQOHxtR5ovflsDDlelEntxLlrUC6gKfo9Z4pIlj4ufl2TLsXVvMzB2bklIrvwLmpNURvQ6yWB8KS7of97poCaNUaxXe0ciWsldx1tV0pxDr0HNETJ43dY-BPAtE2SyqU_V0Da62UtNOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جمهوری اعدام و غارت و سرکوب!</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/5053" target="_blank">📅 15:17 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/farahmand_alipour/5053" target="_blank">📅 15:17 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5052">
@@ -367,7 +367,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sypTZV1vIjeI7eIZT8v9hz1EQc_lP7yhE61zkCt4YdBI7GD6XVDhT4n9V9PuY_GZ-bCO2I7wjVyBSxU2z_XaOuG97KApb87uMSjTma_2N0OCYzs5KaQdewxdQ5VgeBJHwkso18nsFOEvbHS4G6ZpfEfOF34Qe9NiIWuWi0cnqUGn73gX3wU1v3Vl8tKV_TPFcoQ-MI0vOCPt7AAXs_afHszQdE8OcDj_w7IG45_ex-FflSll-LIAxBVLoQY5iKzplfZ-tXbTYgEQFPa7ePs7W07I-jTV32hJAZ4ZA7N7BysRkYAdNCa063E-qP9AhwQBd1Vt0UtUaYMx1nx3tQYtww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سیاست‌های ترامپ اینها رو گیج کرده ،
 آشنا که «معاون ویژه وزارت اطلاعات» بود و بعدها رئیس مرکز بررسی‌های استراتژیک در دولت روحانی شد نوشته که شاید «از عقب» وارد بشن!  :)</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5052" target="_blank">📅 12:55 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5052" target="_blank">📅 12:55 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5051">
@@ -377,7 +377,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 در برابر «تهدیدها»! مستقر کرده گفته آماده است در صورت نیاز این تعداد را به ۸۰ هزار نیرو برساند!
 تمام حقوق این نظامیان بر عهده عربستان خواهد بود. مقامات عربستانی در سال‌های اخیر هم بارها گفته بودند که «سلاح هسته‌ای پاکستان» در خدمت دفاع
 از «حرمین شریفین» است!</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/5051" target="_blank">📅 12:39 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/5051" target="_blank">📅 12:39 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5050">
@@ -388,7 +388,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 حاکمیت اسلامی است!
 نهایت الگوی اینها فردی شبیه رئیسی است! که دیگه همه به چشم دیدیم
 کی بود و چی بود و چه کرد!</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/5050" target="_blank">📅 11:31 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/5050" target="_blank">📅 11:31 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5049">
@@ -396,7 +396,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BB7nxT2BVsuKQrRsYOAEjZCdn0nTXXohY1afTJUFHov2tn9Esb0UXvG9H9cPBUrzn7WSzwhMnk_Nw9nZSHL5HIo1N9bKHE8uylxdZc1_uvZEQ9U00cmRv6wMP812twnMYMCrTdcjQEUe4IWHZIxwChmvX1ZQNfTQErvSc8iiauM1ZldpwU_7KSQB4v_I_DPP9A1cqSc-IZtpcTpOFC4jPiTQQ4UAfjBuSVCDz8Nu9mov61TfqZ6hqCF3RKw0S68fE2LP2Lj1Q0DGNGGkcUQNUDFtpa0dBQHJ6_AbHhBVplrbTOK3sUbxk-hP-C6CRqkLMtoxvfmMk3rRxegruGFMng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تاثیر توییت ترامپ که میخواستم حمله کنم به خاطر کشورهای عربی حمله نکردم و…. بر بهای نفت در بازارهای جهانی.
 کاهش حدود ۷ دلاری بهای نفت</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/farahmand_alipour/5049" target="_blank">📅 06:26 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/5049" target="_blank">📅 06:26 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5048">
@@ -498,7 +498,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B8KHSUCPPNm9cRF6DQf-9VAThw4tHtuo8e6nXu1d78RzS9fStZKNpOHeePjVUr0LwZ3qhdywpsR9QOQaHjQF5YRs_nBP4XEnPE32BP8rarwiaMeVpmp9oNSUZTp4IFrX9pI2V_Dq63wxgT8I_5Q0rYdI-5UGYKC9bZvPI9Qf_s2neaAXGzKiUCwALDFTmSh-wHDC-Ycm-7N6QiMz4FfpiVZXQlzNxvql3kFSCve1AK9AI_KWyUCEv3dwDRogpvVvbg7BcfkGsd5fDFA9pH71Xa2BwQGkzOMdr7CiNSni-HgOh64VmRdvDHkA1QO4qDyYASKMizw-EjdkAIe6VPc3mg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نخبه و مغز متفکرشون، فواد ایزدی می‌گفت، سالی ۱۲۵ میلیارد دلار! ۴ سال، ۵۰۰ میلیارد دلار!  هی «غنائم احد » رو افزایش میدادن!</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/farahmand_alipour/5039" target="_blank">📅 11:22 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/farahmand_alipour/5039" target="_blank">📅 11:22 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5038">
@@ -548,7 +548,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 آماده‌ترین برای حمله به ایران اسرائیله.
 اسرائیل نه خسته شده، نه پشیمانه
 نه به آتش‌بس مقیده ، نه کم آورده</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/farahmand_alipour/5034" target="_blank">📅 07:22 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/5034" target="_blank">📅 07:22 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5033">
@@ -585,7 +585,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SxfpNKsaVV_ZFucVoMoep3vNVFbUMnLsKSH9eKKg4rDBT-nnTAggldxSQice5H7s4l0qnNi1gNIvrSfMMd3h8Y2IeXBqwfRP22N2wa_JIIRcLjqVN9AMObV8lMGX8ljnMH2p2ucMEZi8aojSehvx38D6F-562qEe_eVjLJ9CZ253LNjQbdLzmjugIsUdLgmW2JmD2ji3L38ukf15m2nBKW1ap49OZyyZt4vIeYgFowCpe8xMmQ019czOPpBvEK0V4szqbalMDZAV7myD3K6om3DpjtqhSZ_VeNw7Mgb21h5vW676BVXJG7Qn5iRCcfiRCCNqwyD27RboO34QsHAeOQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ادبیات سخنگوی کمیسیون امنیت ملی مجلس.</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/5029" target="_blank">📅 23:17 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/5029" target="_blank">📅 23:17 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5028">
@@ -632,7 +632,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 <div class="tg-post" id="msg-5024">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">ابراهیم رضایی سخنگوی کمیسیون امنیت ملی مجلس: آمریکا یا باید شرایط جمهوری اسلامی را بپذیرد و تسلیم دیپلمات‌های ما شود یا تسلیم موشک‌های ما</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/farahmand_alipour/5024" target="_blank">📅 22:37 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/5024" target="_blank">📅 22:37 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5023">
@@ -710,7 +710,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 ‏۳️. فعال‌ماندن تنها یک تاسیسات هسته‌ای
 ‏۴️. عدم آزادسازی حتی ۲۵٪ از دارایی‌های بلوکه‌شده
 ‏۵️. توقف جنگ در همه جبهه‌ها [لبنان] فقط منوط به مذاکره است ‌‌دست یابی به توافق!</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/5016" target="_blank">📅 14:22 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/farahmand_alipour/5016" target="_blank">📅 14:22 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5015">
