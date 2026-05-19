@@ -292,12 +292,12 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیلinstagram.com/yasharDonatePaypal :https://www.paypal.com/paypalme/yasharrapfaUSDT trc20: THebHKGpmnhWZzNZAbdSdr4fUAK3qkxDgkhttps://X.com/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-29 03:27:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-29 06:57:32</div>
 <hr>
 
 <div class="tg-post" id="msg-11617">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/withyashar/11617" target="_blank">📅 02:30 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/withyashar/11617" target="_blank">📅 02:30 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11616">
@@ -305,33 +305,33 @@
 <div class="tg-text">۲۶ روز مانده تا تولد دونالد ترامپ خردادی دوست داشتنی ۱۴ ژوئن ۲۰۲۶ (۲۴ خرداد ۱۴۰۵) تهران میگیریم ؟
 😬
 @withyashar</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/withyashar/11616" target="_blank">📅 02:08 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/withyashar/11616" target="_blank">📅 02:08 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11614">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">کانال ۱۲ اسرائیل: ترامپ به اسرائیل اطلاع داد که تاخیر در حمله به ایران تنها دو تا سه روز است. @withyashar</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/withyashar/11614" target="_blank">📅 02:02 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/withyashar/11614" target="_blank">📅 02:02 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11613">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">کانال ۱۲ اسرائیل: ترامپ به اسرائیل اطلاع داد که تاخیر در حمله به ایران تنها دو تا سه روز است.
 @withyashar</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/withyashar/11613" target="_blank">📅 02:01 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/withyashar/11613" target="_blank">📅 02:01 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11612">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">پدافند کیش فعال شده
 @withyashar</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/withyashar/11612" target="_blank">📅 01:44 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/withyashar/11612" target="_blank">📅 01:44 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11611">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">ترامپ: «ما آماده می‌شدیم که فردا یک حمله بسیار بزرگ انجام دهیم. من فعلاً آن را برای مدتی به تعویق انداختم؛ امیدوارم شاید برای همیشه، اما ممکن است فقط برای مدت کوتاهی باشد، چون گفت‌وگوهای بسیار مهمی با ایران داشته‌ایم و باید ببینیم نتیجه آن‌ها چه خواهد شد.…</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/withyashar/11611" target="_blank">📅 01:34 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/withyashar/11611" target="_blank">📅 01:34 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11610">
@@ -339,7 +339,7 @@
 <div class="tg-text">ترامپ : اگر بتوانیم بدون اینکه حسابی آن‌ها را بمباران کنیم به نتیجه برسیم، من خیلی خوشحال خواهم شد
 اسرائیل را از تصمیم برای تعویق حمله به ایران مطلع کردم.
 @withyashar</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/withyashar/11610" target="_blank">📅 01:27 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 37.9K · <a href="https://t.me/withyashar/11610" target="_blank">📅 01:27 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11609">
@@ -347,7 +347,7 @@
 <div class="tg-text">پرزیدنت ترامپ :
 ما به جمهوری اسلامی هیچ امتیازی نخواهیم داد. فقط تسلیم کامل!
 @withyashar</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/withyashar/11609" target="_blank">📅 01:22 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/withyashar/11609" target="_blank">📅 01:22 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11608">
@@ -362,7 +362,7 @@
 <div class="tg-text">ترامپ: «ما آماده می‌شدیم که فردا یک حمله بسیار بزرگ انجام دهیم. من فعلاً آن را برای مدتی به تعویق انداختم؛ امیدوارم شاید برای همیشه، اما ممکن است فقط برای مدت کوتاهی باشد، چون گفت‌وگوهای بسیار مهمی با ایران داشته‌ایم و باید ببینیم نتیجه آن‌ها چه خواهد شد.
 از سوی عربستان، قطر،  امارات و چند کشور دیگر از من خواسته شد که این اقدام را دو یا سه روز به تعویق بیندازیم؛ یک بازه کوتاه، چون آن‌ها فکر می‌کنند که بسیار به دستیابی به توافق نزدیک شده‌اند.
 @withyashar</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/withyashar/11608" target="_blank">📅 01:21 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 39K · <a href="https://t.me/withyashar/11608" target="_blank">📅 01:21 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11607">
@@ -371,7 +371,7 @@
 «این یک تحول بسیار مثبت است، اما خواهیم دید که آیا واقعاً به نتیجه‌ای می‌رسد یا نه.
 دوره‌هایی را داشته‌ایم که فکر می‌کردیم تقریباً به توافق نزدیک شده‌ایم، اما در نهایت موفق نشدیم؛ با این حال، این بار شرایط کمی متفاوت است.»
 @withyashar</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/withyashar/11607" target="_blank">📅 01:19 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/withyashar/11607" target="_blank">📅 01:19 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11606">
@@ -379,14 +379,14 @@
 <div class="tg-text">ترامپ  : من فعلاً عقب انداختمش، امیدوارم شاید برای همیشه، ولی شاید هم فقط برای یه مدت کوتاه
 چون با ایران مذاکرات خیلی مهمی داشتیم و باید ببینیم چی ازش درمیاد
 @withyashar</div>
-<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/withyashar/11606" target="_blank">📅 01:19 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/withyashar/11606" target="_blank">📅 01:19 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11605">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">@withyashar
 part5</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/withyashar/11605" target="_blank">📅 01:09 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 37.5K · <a href="https://t.me/withyashar/11605" target="_blank">📅 01:09 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11604">
@@ -398,13 +398,13 @@ part5</div>
 <br>
 <a href="https://cdn4.telesco.pe/file/8cbe97257c.webm?token=ow21k_UURToKXslPSdt-DyaFxUvGkE-6bgijzlaNX5g91HcCTlWd0HjGyjthGNPQDDyFMt3VyQLR6XmxP7dj2sAbfcUXd3OuogzmOnvxGnh0jc_P1NEZjvL1hvp3E3qdtZV4SA1GyeVznMa4OYWATLKjFBr5ETcEp259j0WVtUwNoXlk8slnp0Gl1qgNwPr7CiQIh0-oQ4ibaJlw4WIvO8ypM4luoY-CMCXBhIOKEuNLEQiyS1zbiSAt3YHNxxkC-NC2tlUITKMFTNIucQjiTvz04oH1yL8plhXbE15OA-X_dQ88wuEkd30fo7Fbxmldp0tMbVzdoGt-CodHhLmXuA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/withyashar/11604" target="_blank">📅 01:02 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/withyashar/11604" target="_blank">📅 01:02 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11603">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">علی قلهکی، ‏فعال رسانه‌ای: ترامپ شنبه‌ شب قصد حمله داشت که صبحش قطر به ایران هشدار داد و سران نظام رفتن مخفی شدن و علت عدم حمله پیدا نکردن لوکیشن سران نظام بوده. @withyashar</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/withyashar/11603" target="_blank">📅 01:00 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 38.7K · <a href="https://t.me/withyashar/11603" target="_blank">📅 01:00 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11602">
@@ -412,7 +412,7 @@ part5</div>
 <div class="tg-text">علی قلهکی، ‏فعال رسانه‌ای:
 ترامپ شنبه‌ شب قصد حمله داشت که صبحش قطر به ایران هشدار داد و سران نظام رفتن مخفی شدن و علت عدم حمله پیدا نکردن لوکیشن سران نظام بوده.
 @withyashar</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/withyashar/11602" target="_blank">📅 00:59 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 38.8K · <a href="https://t.me/withyashar/11602" target="_blank">📅 00:59 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11601">
@@ -423,7 +423,7 @@ part5</div>
 سانسورچی‌های نظامی اسرائیل درخواست کرده‌اند این بخش از پلتفرم‌های پخش حذف شود.
 اعضای یش عتید، از جمله رام بن-باراک و الازار استرن، از بوعاز بیسموت، رئیس کمیته امور خارجه و امنیت، خواستند جلسه‌ای فوری برای بحث درباره انتشار «اطلاعات ادعاشده محرمانه که می‌تواند به دستاوردهای کمپین در ایران آسیب برساند و به آینده استراتژیک کشور خسارت وارد کند» برگزار شود.
 @withyashar</div>
-<div class="tg-footer">👁️ 37.1K · <a href="https://t.me/withyashar/11601" target="_blank">📅 00:42 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 43.5K · <a href="https://t.me/withyashar/11601" target="_blank">📅 00:42 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11600">
@@ -436,7 +436,7 @@ part5</div>
 <a href="https://cdn4.telesco.pe/file/dbcee282d2.mp4?token=USRpToVgBj_C4oOZph1u8SWfCv_CyVfaTvnqo5zhmHIuMRhh03TZ0UNSyjc4WGc1qVUxWJSh-Dbn9wDwjrAjmhqfstVx1CjltX6rgx-mZnu4Fhg5KjfcyAwliukQlyhFJdc78SbgQHwuHGRH7GKwTy7iVGSoMb_cLTciKQZwvNXchv0BrgoCwyaLLQBtE4jy5q_RTNGmOIh6LU4RFm66h0AJrfjjE-NhAK_x_z5rxHUJhetJmm_L0xGHkJvdMV89maPAPcWge9GyMho18j52WJljOPJJ4v72KqJy__TJ_gn8HONCaxpLAYitcBn4apNM7_tMMp-PVb12oii0dlLoMg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">@withyashar</div>
-<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/withyashar/11600" target="_blank">📅 00:28 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/withyashar/11600" target="_blank">📅 00:28 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11599">
@@ -446,41 +446,41 @@ part5</div>
 😬
 😬
 @withyashar</div>
-<div class="tg-footer">👁️ 42.8K · <a href="https://t.me/withyashar/11599" target="_blank">📅 00:19 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/withyashar/11599" target="_blank">📅 00:19 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11598">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">خبرگزاری «مهر»: پدافند هوایی در اصفهان به‌دلایلی نامعلوم که تاکنون مشخص نشده فعال شد.
 @withyashar</div>
-<div class="tg-footer">👁️ 43.5K · <a href="https://t.me/withyashar/11598" target="_blank">📅 00:17 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/withyashar/11598" target="_blank">📅 00:17 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11597">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">@withyashar
 part3</div>
-<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/withyashar/11597" target="_blank">📅 00:09 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 50.8K · <a href="https://t.me/withyashar/11597" target="_blank">📅 00:09 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11596">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">خبرنگار آکسیوس:ترامپ از زمان شروع جنگ حداقل 12 بار ضرب الاجل ها را تمدید کرده و حملات برنامه ریزی شده به ایران را به تعویق انداخته
 @withyashar</div>
-<div class="tg-footer">👁️ 49.8K · <a href="https://t.me/withyashar/11596" target="_blank">📅 23:53 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 54.3K · <a href="https://t.me/withyashar/11596" target="_blank">📅 23:53 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11595">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">ترامپ:  مذاکرات جدی در حال حاضر برای دستیابی به توافق با ایران در جریان است.
 @withyashar</div>
-<div class="tg-footer">👁️ 49.3K · <a href="https://t.me/withyashar/11595" target="_blank">📅 23:52 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 53.7K · <a href="https://t.me/withyashar/11595" target="_blank">📅 23:52 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11594">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 49.3K · <a href="https://t.me/withyashar/11594" target="_blank">📅 23:51 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 53.7K · <a href="https://t.me/withyashar/11594" target="_blank">📅 23:51 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11593">
@@ -488,14 +488,14 @@ part3</div>
 <div class="tg-text">فارس: حمله پهپادی علیه گروه پژاک در شمال عراق
 رسانه‌های عراقی گزارش دادند مقر گروه‌ پژاک در استان سلیمانیه عراق با چندین فروند پهپاد مورد حمله قرار گرفت.
 @withyashar</div>
-<div class="tg-footer">👁️ 51.8K · <a href="https://t.me/withyashar/11593" target="_blank">📅 23:38 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 55.4K · <a href="https://t.me/withyashar/11593" target="_blank">📅 23:38 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11592">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">کاخ سفید : ترامپ تو هر زمانی همه گزینه‌ها رو برای مقابله با ایران داره.
 @withyashar</div>
-<div class="tg-footer">👁️ 52.6K · <a href="https://t.me/withyashar/11592" target="_blank">📅 23:33 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/withyashar/11592" target="_blank">📅 23:33 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11591">
@@ -503,27 +503,27 @@ part3</div>
 <div class="tg-text">https://t.me/boost/withyashar
 ۵۰۹ بوست نیاز داریم
 🙌🏾</div>
-<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/withyashar/11591" target="_blank">📅 23:27 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57K · <a href="https://t.me/withyashar/11591" target="_blank">📅 23:27 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11590">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">@withyashar
 part1</div>
-<div class="tg-footer">👁️ 53.3K · <a href="https://t.me/withyashar/11590" target="_blank">📅 23:25 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57K · <a href="https://t.me/withyashar/11590" target="_blank">📅 23:25 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11589">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">ترامپ: من به وزیر جنگ، رئیس ستاد مشترک و ارتش امریکا دستور داده‌ام که آماده باشند تا در صورت عدم دستیابی به توافق قابل قبول، حمله‌ای کامل و گسترده و همه‌جانبه به ایران را با کمترین هشدار ممکن انجام دهند این آخرین فرصت ایران برای توافق است
 @withyashar</div>
-<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/withyashar/11589" target="_blank">📅 23:14 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 58.9K · <a href="https://t.me/withyashar/11589" target="_blank">📅 23:14 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11588">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 55.6K · <a href="https://t.me/withyashar/11588" target="_blank">📅 23:12 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 58.7K · <a href="https://t.me/withyashar/11588" target="_blank">📅 23:12 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11587">
@@ -531,7 +531,7 @@ part1</div>
 <div class="tg-text">معاون استاندار هرمزگان: صدایی که ساعاتی پیش در جزیره قشم شنیده شده است، ناشی از فعال شدن سامانه‌های پدافندی و درگیری با پرنده‌های دشمن بوده است .
 وضعیت کاملاً تحت کنترل است و شرایط جزیره قشم کاملا پایدار است./مهر
 @withyashar</div>
-<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/withyashar/11587" target="_blank">📅 22:52 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/withyashar/11587" target="_blank">📅 22:52 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11586">
@@ -540,14 +540,14 @@ part1</div>
 با ۷ شلیک کمتر از یک دقیقه به سمت جنوب کرمان اتفاق افتاد
 بریم که داریم به قاهره نزدیک میشیم
 @withyashar</div>
-<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/withyashar/11586" target="_blank">📅 22:51 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/withyashar/11586" target="_blank">📅 22:51 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11585">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">اتاق جنگ با یاشار : یک پوکرباز خوب دستش را «شو» نمی‌کند، بلکه معمولاً فقط وقتی کارت‌ها را نشان می‌دهد که دست قوی را نشان ‌دهد تا تصویر «بازیکن صادق» بسازد و بعداً راحت‌تر بلوف بزند
 @withyashar</div>
-<div class="tg-footer">👁️ 60.6K · <a href="https://t.me/withyashar/11585" target="_blank">📅 22:41 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 63K · <a href="https://t.me/withyashar/11585" target="_blank">📅 22:41 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11584">
@@ -555,7 +555,7 @@ part1</div>
 <div class="tg-text">فعالیت پدافند در شمال تهران شروع شد
 منابع نزدیک به سپاه: انهدام ریزپرنده در شمال تهران
 @withyashar</div>
-<div class="tg-footer">👁️ 60.3K · <a href="https://t.me/withyashar/11584" target="_blank">📅 22:37 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/withyashar/11584" target="_blank">📅 22:37 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11583">
@@ -567,7 +567,7 @@ part1</div>
 از توجه شما به این موضوع سپاسگزارم!
 رئیس‌جمهور دونالد جی. ترامپ
 @withyashar</div>
-<div class="tg-footer">👁️ 65K · <a href="https://t.me/withyashar/11583" target="_blank">📅 22:34 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 67.1K · <a href="https://t.me/withyashar/11583" target="_blank">📅 22:34 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11582">
@@ -575,7 +575,7 @@ part1</div>
 <div class="tg-text">خدا بخواد به زودی تهران میرسه هر چی که هست
 😂
 🙌🏾</div>
-<div class="tg-footer">👁️ 58K · <a href="https://t.me/withyashar/11582" target="_blank">📅 22:30 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/withyashar/11582" target="_blank">📅 22:30 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11581">
@@ -583,7 +583,7 @@ part1</div>
 <div class="tg-text">اتاق جنگ با شما : یاشارررر
 پدافند اصفهان چند دقیقه فعال شد
 @withyashar</div>
-<div class="tg-footer">👁️ 58.9K · <a href="https://t.me/withyashar/11581" target="_blank">📅 22:27 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/withyashar/11581" target="_blank">📅 22:27 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11580">
@@ -593,7 +593,7 @@ part1</div>
 جمهوری اسلامی با عزت، اقتدار و حفظ حقوق ملت وارد گفت‌وگو می‌شود و به هیچ عنوان از حقوق قانونی مردم و کشور عقب‌نشینی نمی‌کند.
 ما با منطق و با تمام توان، تا پای جان، در خدمت مردم و حافظ منافع و عزت ایران خواهیم بود.
 @withyashar</div>
-<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/withyashar/11580" target="_blank">📅 22:14 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 61K · <a href="https://t.me/withyashar/11580" target="_blank">📅 22:14 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11579">
@@ -601,7 +601,7 @@ part1</div>
 <div class="tg-text">اتاق جنگ با شما : اره الان دوباره مجددا صدا اومد
 جالبه تو دوران جنگ قبلی اصلا قشم پدافند این چنینی نداشت و ما اینجور صدایی رو واسه اولین بار هست تو قشم می‌شنویم
 @withyashar</div>
-<div class="tg-footer">👁️ 58.5K · <a href="https://t.me/withyashar/11579" target="_blank">📅 22:09 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60K · <a href="https://t.me/withyashar/11579" target="_blank">📅 22:09 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11578">
@@ -611,17 +611,17 @@ part1</div>
 پدافند خود شهر قشم حتی توی جنگ ۴۰ روزه هم کار نکرده بود
 ولی پنج دیقه پیش بدجور شلیک کرد
 @withyashar</div>
-<div class="tg-footer">👁️ 58.8K · <a href="https://t.me/withyashar/11578" target="_blank">📅 22:05 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/withyashar/11578" target="_blank">📅 22:05 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11577">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/withyashar/11577" target="_blank">📅 22:04 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/withyashar/11577" target="_blank">📅 22:04 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11576">
 <div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/withyashar/11576" target="_blank">📅 22:04 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 58.7K · <a href="https://t.me/withyashar/11576" target="_blank">📅 22:04 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11575">
@@ -629,28 +629,28 @@ part1</div>
 <div class="tg-text">ترامپ: اگر فرد اشتباهی جانشین من شود، برای آمریکا فاجعه خواهد بود
 رئیس‌جمهور آمریکا در مصاحبه‌ای که روز دوشنبه منتشر شد، گفت اگر پس از پایان دوره ریاست‌جمهوری‌اش «فرد اشتباهی» قدرت را به دست بگیرد، این موضوع برای ایالات متحده فاجعه‌بار خواهد بود.
 @withyashar</div>
-<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/withyashar/11575" target="_blank">📅 22:00 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 59.8K · <a href="https://t.me/withyashar/11575" target="_blank">📅 22:00 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11574">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">تامین‌اجتماعی: دریافت فیش حقوقی اردیبهشت‌ماه فعلاً مقدور نیست و زمان آن متعاقباً اطلاع‌رسانی خواهد شد.
 @withyashar</div>
-<div class="tg-footer">👁️ 60K · <a href="https://t.me/withyashar/11574" target="_blank">📅 21:26 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/withyashar/11574" target="_blank">📅 21:26 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11573">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">نظام وظیه: ۱۸ تا ۵۰ ساله ها بیایید خودتونو معرفی کنید که اگه جنگ شد بفرستیمتون با آمریکاییا بجنگید، تو محلتی که تعیین شده اگه نیایید تمام مزایاتون که به کارت پایان خدمت مربوطه قطع میشه
 @withyashar</div>
-<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/withyashar/11573" target="_blank">📅 21:24 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/withyashar/11573" target="_blank">📅 21:24 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11572">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromPresident DONALD J. TRUMP</strong></div>
 <div class="tg-text">تا یکشنبه میزنم، قول میدم</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/withyashar/11572" target="_blank">📅 21:21 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/withyashar/11572" target="_blank">📅 21:21 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11571">
@@ -659,14 +659,14 @@ part1</div>
 <div class="tg-text">تیتر نیویورک پست:
 ایالات متحده در آستانه از سرگیری نبرد با ایران با تمام توان است!
 @withyashar</div>
-<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/withyashar/11571" target="_blank">📅 21:06 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/withyashar/11571" target="_blank">📅 21:06 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11570">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">ترامپ:من از دست تهران «کلافه» نیستم
 @withyashar</div>
-<div class="tg-footer">👁️ 57K · <a href="https://t.me/withyashar/11570" target="_blank">📅 20:57 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/withyashar/11570" target="_blank">📅 20:57 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11569">
@@ -675,7 +675,7 @@ part1</div>
 هنوز حاضرید اجازه تعلیق فقط ۲۰ سال اورانیوم به ایران بدید؟
 ترامپ: من اجازه هیچ چی رو نمیدم!
 @withyashar</div>
-<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/withyashar/11569" target="_blank">📅 20:56 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 58.3K · <a href="https://t.me/withyashar/11569" target="_blank">📅 20:56 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11568">
@@ -683,7 +683,7 @@ part1</div>
 <div class="tg-text">یه مقام اسرائیلی امشب به i24NEWS گفت:
 سطح آماده‌باش واسه احتمال از سرگیری جنگ تا آخر همین هفته، فوق‌العاده بالاست.
 @withyashar</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/withyashar/11568" target="_blank">📅 20:54 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/withyashar/11568" target="_blank">📅 20:54 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11567">
@@ -693,7 +693,7 @@ part1</div>
 او افزود: «من چیزی در این مورد نمی‌شنوم. نمی‌توانم درباره‌اش با شما صحبت کنم.»
 ترامپ ادامه داد: «این یک مذاکره است. نمی‌خواهم احمق به نظر برسم.»
 @withyashar</div>
-<div class="tg-footer">👁️ 56.9K · <a href="https://t.me/withyashar/11567" target="_blank">📅 20:50 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/withyashar/11567" target="_blank">📅 20:50 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11566">
@@ -701,14 +701,14 @@ part1</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nBL0NeJ6igt3GC9lF4szWKJR2JAuxU4HQ79EmA1WYHE8sf0QZuMXgvvKREQPQpEwnwy0qniO6RIsu7FBhQZ1_rEzh9T7Rlg0LJXwb9ziksFHMQd6yEQ4Elp_H6OVNjMbcmcvZ2j10s3U9Vki4DFMWJjO8ytEkRLyspQFvas-giaw8kg7E_JuKBZwP9xV75rYm3ZZRS9OjpMvyKFeWfIUI_TFrfNDO1NbGeq0gNt2eixut5wPBfMilhUQa67nkAaRkv9vrciEbe7CC6sU_YgTy9LLKiptjMVAay1RbZ9N0s--lfyIv3sP_Lyex-d_8WL1Kp6m6kpIeTmckgmtMQ3xmQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شاخص سفارش کوبیده در اطراف منزل شاهزاده در‌ حومه شهر واشنگتون و در بین پادشاهی و مشروطه خواهان آنجا بالا رفته
 @withyashar</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/withyashar/11566" target="_blank">📅 20:46 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/withyashar/11566" target="_blank">📅 20:46 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11565">
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">ترامپ به نیویورک پست : ایران می‌دونه که به زودی چه اتفاقی براش میوفته، هیچ امتیازی داده نخواهد شد
 @withyashar</div>
-<div class="tg-footer">👁️ 53.5K · <a href="https://t.me/withyashar/11565" target="_blank">📅 20:43 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 54.2K · <a href="https://t.me/withyashar/11565" target="_blank">📅 20:43 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11564">
@@ -722,7 +722,7 @@ part1</div>
 </div>
 <div class="tg-text">داماد صداسیمایی تروریستی : مهریه زنم پهپاده
 @withyashar</div>
-<div class="tg-footer">👁️ 57K · <a href="https://t.me/withyashar/11564" target="_blank">📅 20:31 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/withyashar/11564" target="_blank">📅 20:31 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11562">
@@ -730,14 +730,14 @@ part1</div>
 <div class="tg-text">واشنگتن پست:
 اسرائیل منتظر چراغ سبز آمریکا برای شروع عملیات است
 @withyashar</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/withyashar/11562" target="_blank">📅 20:15 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/withyashar/11562" target="_blank">📅 20:15 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11561">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">آکسیوس: بمب‌ها مذاکره خواهند کرد
 @withyashar</div>
-<div class="tg-footer">👁️ 56.9K · <a href="https://t.me/withyashar/11561" target="_blank">📅 20:15 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/withyashar/11561" target="_blank">📅 20:15 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11560">
@@ -745,7 +745,7 @@ part1</div>
 <div class="tg-text">یک مقام آمریکایی به سی‌ان‌بی‌سی:
 اظهارات رسانه‌های ایرانی مبنی بر موافقت واشنگتن با لغو تحریم‌های نفتی کذب است، هیچ تحریمی لغو نخواهد شد
 @withyashar</div>
-<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/withyashar/11560" target="_blank">📅 20:15 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/withyashar/11560" target="_blank">📅 20:15 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11559">
@@ -753,14 +753,14 @@ part1</div>
 <div class="tg-text">منابع «العربیه»:
 وزیر کشور پاکستان بعد از آخرین تلاش‌هایش، تهران را ترک کرد.
 @withyashar</div>
-<div class="tg-footer">👁️ 58.6K · <a href="https://t.me/withyashar/11559" target="_blank">📅 20:05 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/withyashar/11559" target="_blank">📅 20:05 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11558">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">تری یینگست، خبرنگار فاکس نیوز‌ :  ما تو آستانه بازگشت به عملیات‌های رزمی تمام‌عیار هستیم
 @withyashar</div>
-<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/withyashar/11558" target="_blank">📅 20:04 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 58.6K · <a href="https://t.me/withyashar/11558" target="_blank">📅 20:04 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11557">
@@ -768,7 +768,7 @@ part1</div>
 <div class="tg-text">رسانه های عبری:
 ترامپ‌ امشب دستور بمباران را صادر میکند
 @withyashar</div>
-<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/withyashar/11557" target="_blank">📅 20:01 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/withyashar/11557" target="_blank">📅 20:01 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11556">
@@ -784,7 +784,7 @@ part1</div>
 رویترز:
 آمریکا پیشنهاد جدید ایران را رد کرد
 @withyashar</div>
-<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/withyashar/11556" target="_blank">📅 18:58 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/withyashar/11556" target="_blank">📅 18:58 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11555">
@@ -794,13 +794,13 @@ part1</div>
 🙌🏾
 ❤️‍🩹
 @withyashar</div>
-<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/withyashar/11555" target="_blank">📅 18:50 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 61K · <a href="https://t.me/withyashar/11555" target="_blank">📅 18:50 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11554">
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">کمی‌پیش ستون عظیم دود از جنوب تهران، دوربین به سمت : بزرگراه یادگار عمام، جنوب @withyashar</div>
-<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/withyashar/11554" target="_blank">📅 18:46 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/withyashar/11554" target="_blank">📅 18:46 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11553">
@@ -808,7 +808,7 @@ part1</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sxD3v9iX_jip-ad_i4Y5Vc1HjrY4lais2ph_qLfRjeNFwIoXTyVJlbHoLw7-kCsrD4qDR_bFYf7mw1ZDz3s4gyrvImTWVlwmyaOzo3r3_rZhpVYEYdnx6c6b_CiR776pJMpBnPP9t5wD2oJ39cEEFr4x--Cs3RE-qWdhZTQvPvWZuK2JMEDukqhQjC5m-_QBGB-Ag42lVqUe55u0y6Uno8KDTOkU7aoO32qhHpRHQBB3chO22OFfE1V4mYzg3zLrZ6t9x9NUAuriyUJJeymRazw-1j9f6OPiuXMBN64xrOgoaHIrxe-moL6v9ftLVpVdmECxOFxVTFjB7C6328DC9A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کمی‌پیش ستون عظیم دود از جنوب تهران، دوربین به سمت : بزرگراه یادگار عمام، جنوب
 @withyashar</div>
-<div class="tg-footer">👁️ 59.6K · <a href="https://t.me/withyashar/11553" target="_blank">📅 18:40 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/withyashar/11553" target="_blank">📅 18:40 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11552">
@@ -817,7 +817,7 @@ part1</div>
 ایران بر لزوم پرداخت غرامت از سوی آمریکا به دلیل جنگ، اصرار جدی دارد.
 واشنگتن باید درک کند که پایان دادن به جنگ، در ازای تعهدات هسته‌ای نخواهد بود.
 @withyashar</div>
-<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/withyashar/11552" target="_blank">📅 18:27 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 58.8K · <a href="https://t.me/withyashar/11552" target="_blank">📅 18:27 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11551">
@@ -826,28 +826,28 @@ part1</div>
 <div class="tg-text">ترامپ در تروث : اگر ایران تسلیم شود، بپذیرد که نیروی دریایی‌اش از بین رفته و در کف دریا آرمیده است، و نیروی هوایی‌اش دیگر همراه ما نیست، و اگر تمام ارتش آن از تهران خارج شود در حالی که سلاح‌ها را زمین گذاشته و دست‌ها را بالا برده‌اند و هر کدام فریاد می‌زنند «تسلیم می‌شوم، تسلیم می‌شوم» و با شتاب پرچم سفید را تکان می‌دهند، و اگر تمام رهبری باقی‌مانده آن همه اسناد لازمِ تسلیم را امضا کنند و شکست خود را در برابر قدرت و نیروی عظیم ایالات متحده آمریکا بپذیرند، آنگاه نیویورک تایمزِ شکست‌خورده، وال‌استریت ژورنال چین (وال‌استریت ژورنال!)، سی‌ان‌ان فاسد و اکنون بی‌اعتبار، و همه اعضای دیگر رسانه‌های جعلی، تیتر خواهند زد که ایران پیروزی‌ای استادانه و درخشان بر ایالات متحده آمریکا به دست آورده است؛ در حالی که اصلاً رقابت نزدیک هم نبوده است.
 دموکرات‌ها و رسانه‌ها کاملاً راه خود را گم کرده‌اند. آن‌ها کاملاً دیوانه شده‌اند!!!
 @withyashar</div>
-<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/withyashar/11551" target="_blank">📅 18:14 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 63.5K · <a href="https://t.me/withyashar/11551" target="_blank">📅 18:14 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11550">
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">کانال ۱۳ تلویزیون اسرائیل: نتانیاهو برای دومین بار در ۲۴ ساعت گذشته با کابینه امنیتی تشکیل جلسه داد
 @withyashar</div>
-<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/withyashar/11550" target="_blank">📅 18:11 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 59.8K · <a href="https://t.me/withyashar/11550" target="_blank">📅 18:11 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11549">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">رئیس‌جمهور کوبا: هر حمله نظامی به کوبا به حمام خون و عواقب غیرقابل پیش‌بینی منجر می‌شود
 @withyashar</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/withyashar/11549" target="_blank">📅 18:04 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.7K · <a href="https://t.me/withyashar/11549" target="_blank">📅 18:04 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11548">
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">کی‌یر استارمر : من قصد ندارم کنار بکشم، باید به مردمی که به من رای دادند خدمت کنم!
 @withyashar</div>
-<div class="tg-footer">👁️ 60.8K · <a href="https://t.me/withyashar/11548" target="_blank">📅 17:59 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 61.4K · <a href="https://t.me/withyashar/11548" target="_blank">📅 17:59 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11547">
@@ -856,7 +856,7 @@ part1</div>
 رضا احمدی، معاون نظارت بنیاد ملی بازی‌های رایانه‌ای:
 طرحی برای سایتهای دانلود بازیهای کامپیوتری به تصویب رسیده که طبق اون، یک گیم سنتر مرکزی تشکیل میشه تا سایتهای دانلود بازی قبل اینکه لینک دانلود رو آپلود کنن باید اون لینکا رو به اون گیم سنتر ارسال کنن تا یه کمیته محتواش رو بررسی کنه و اگه تایید شد، اون سایت تازه اجازه داره لینکای دانلود رو برای گیمرها آپلود کنه!
 @withyashar</div>
-<div class="tg-footer">👁️ 67.8K · <a href="https://t.me/withyashar/11547" target="_blank">📅 15:46 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/withyashar/11547" target="_blank">📅 15:46 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11546">
@@ -869,7 +869,7 @@ part1</div>
 Office of Foreign Assets Control
 این یک نهاد در وزارت خزانه‌داری آمریکا است. کارش اجرای تحریم‌ها علیه کشورها، شرکت‌ها و افراد هست، به عبارتی کنترل اینکه چه کسی می‌تواند با چه کسی تجارت کند
 @withyashar</div>
-<div class="tg-footer">👁️ 65.7K · <a href="https://t.me/withyashar/11546" target="_blank">📅 15:42 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 66.1K · <a href="https://t.me/withyashar/11546" target="_blank">📅 15:42 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11545">
@@ -884,7 +884,7 @@ Office of Foreign Assets Control
 <div class="tg-text">مجری: آیا ارزش از دست دادن انتخابات میان دوره‌ای را دارد اگر نتیجه یک ایران غیر هسته‌ای باشد؟
 سناتور گراهام: ارزش از دست دادن شغلم رو هم داره؛ اگر مجبور بودم کارم رو رها کنم تا مطمئن شم ایران هرگز سلاح هسته‌ای نخواهد داشت، این کار رو می‌کردم.‌‌
 @withyashar</div>
-<div class="tg-footer">👁️ 65.7K · <a href="https://t.me/withyashar/11545" target="_blank">📅 14:29 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 66K · <a href="https://t.me/withyashar/11545" target="_blank">📅 14:29 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11544">
@@ -894,7 +894,7 @@ Office of Foreign Assets Control
 بازارهای مالی (بورس‌ها) در ایام عید قربان روز تعطیل می‌شوند (حدود ۵ روز)
 حدود ۹ روز تا عید قربان مانده است ، حساب دستتون باشه
 @withyashar</div>
-<div class="tg-footer">👁️ 64.5K · <a href="https://t.me/withyashar/11544" target="_blank">📅 14:26 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 64.8K · <a href="https://t.me/withyashar/11544" target="_blank">📅 14:26 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11543">
@@ -903,7 +903,7 @@ Office of Foreign Assets Control
 <div class="tg-text">نفتکش هندی‌مکس PEGASUS (9276028) که با پرچم روسیه و تحت تحریم ایالات متحده حرکت می‌کند، صرفاً از روی لجاجت، مدام به محدوده محاصره ایالات متحده رفت و آمد می‌کند. ما چندین تصویر ماهواره‌ای داریم که تأیید می‌کند این یک جعل سیستم اطلاعات ناوبری (AIS) نیست.
 فردا ولادمیر پوتین برای دیدار با شی جین پینگ در‌یک سفر از پیش برنامه ریزی نشده به چین سفر میکند…
 @withyashar</div>
-<div class="tg-footer">👁️ 64.5K · <a href="https://t.me/withyashar/11543" target="_blank">📅 13:47 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 64.8K · <a href="https://t.me/withyashar/11543" target="_blank">📅 13:47 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11542">
@@ -917,7 +917,7 @@ Office of Foreign Assets Control
 </div>
 <div class="tg-text">نیروهای ویژه دریایی شایتت ۱۳ اسرائیل سوار بر یک کشتی حامل فعالان حامی حماس، در آب‌های بین‌المللی مشاهده شدند. این تصاویر در حالی منتشر شده که اسرائیل همزمان با حرکت یک ناوگان دریایی به نام «Global Sumud Flotilla» از ترکیه به سمت غزه که طرفداران فلستین هستند، سطح آمادگی نیروی دریایی خود را افزایش داد.
 @withyashar</div>
-<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/withyashar/11542" target="_blank">📅 13:41 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 62.7K · <a href="https://t.me/withyashar/11542" target="_blank">📅 13:41 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11541">
@@ -925,7 +925,7 @@ Office of Foreign Assets Control
 <div class="tg-text">زرشکیان :  نباید به دروغ ادعا کنیم که هیچ مشکلی نداریم و دشمن در حال نابودی است! ما با چالش‌های جدی مواجهیم!
 مسئولان ادعا نکنند ما در شکوفایی مطلق هستیم و دشمن در حال نابودی است!
 @withyashar</div>
-<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/withyashar/11541" target="_blank">📅 13:29 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/withyashar/11541" target="_blank">📅 13:29 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11540">
@@ -934,7 +934,7 @@ Office of Foreign Assets Control
 <div class="tg-text">تصاویر ماهواره ای بلومبرگ:
 حدود 23 نفتکش در نزدیکی جزیره خارک مشاهده شدند که بزرگترین تجمع از زمان آغاز محاصره آمریکاست
 @withyashar</div>
-<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/withyashar/11540" target="_blank">📅 13:26 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/withyashar/11540" target="_blank">📅 13:26 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11539">
@@ -942,20 +942,20 @@ Office of Foreign Assets Control
 <div class="tg-text">سی‌ان‌ان:
 پنتاگون فهرستی از اهداف برای حمله به ایران در صورت صدور دستور ترامپ آماده کرده است
 @withyashar</div>
-<div class="tg-footer">👁️ 60.6K · <a href="https://t.me/withyashar/11539" target="_blank">📅 13:22 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/withyashar/11539" target="_blank">📅 13:22 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11538">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">گسترش آلودگی نفتی ایران به سواحل کویت؛ زنگ خطر فاجعه در خلیج فارس؛بر اساس تصاویر منتشر شده در شبکه‌های اجتماعی، تداوم نشت نفت از زیرساخت‌های ایران، اکنون با عبور از مرزهای آبی، به سواحل کویت رسیده
 @withyashar</div>
-<div class="tg-footer">👁️ 62K · <a href="https://t.me/withyashar/11538" target="_blank">📅 13:04 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/withyashar/11538" target="_blank">📅 13:04 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11537">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">ترامپ: اونا یه برگه می‌فرستن که هیچ ربطی به چیزی که توافق کرده بودیم نداره  منم می‌گم، شماها دیوونه‌اید یا چی؟ @withyashar</div>
-<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/withyashar/11537" target="_blank">📅 12:44 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/withyashar/11537" target="_blank">📅 12:44 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11536">
@@ -964,20 +964,20 @@ Office of Foreign Assets Control
 اونا یه برگه می‌فرستن که هیچ ربطی به چیزی که توافق کرده بودیم نداره
 منم می‌گم، شماها دیوونه‌اید یا چی؟
 @withyashar</div>
-<div class="tg-footer">👁️ 64.1K · <a href="https://t.me/withyashar/11536" target="_blank">📅 12:27 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 64.4K · <a href="https://t.me/withyashar/11536" target="_blank">📅 12:27 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11535">
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">وای نت عبری از قول منبع پاکستانی: «ما پیشنهاد اصلاح‌شده ایران را به آمریکا ارسال کرده‌ایم، وقت زیادی نداریم»
 @withyashar</div>
-<div class="tg-footer">👁️ 63.6K · <a href="https://t.me/withyashar/11535" target="_blank">📅 12:19 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/withyashar/11535" target="_blank">📅 12:19 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11534">
 <div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">انفجار سنگین در بیت شمش اسرائیل و دیده شدن ابر قارچی گزارش شده که در کارخانه شرکت تومر رخ داد. این شرکت موتورهای موشک سنگین و سبک، از جمله موتورهای پیشران موشک‌های ارو ۲ و ارو ۳، موتور موشک هدف سیلور انکر، موتورهای ماهواره هورایزن و موتورهای موشک باراک ۸ و…</div>
-<div class="tg-footer">👁️ 64.4K · <a href="https://t.me/withyashar/11534" target="_blank">📅 12:01 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 64.7K · <a href="https://t.me/withyashar/11534" target="_blank">📅 12:01 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11533">
@@ -990,7 +990,7 @@ Office of Foreign Assets Control
 هم‌چنان که دیروز اعلام شد، متقابلا نقطه‌نظرات ما به طرف آمریکایی منعکس شده است.
 روند مذاکرات از طریق میانجی پاکستانی ادامه دارد
 @withyashar</div>
-<div class="tg-footer">👁️ 64.4K · <a href="https://t.me/withyashar/11533" target="_blank">📅 11:15 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 64.6K · <a href="https://t.me/withyashar/11533" target="_blank">📅 11:15 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11532">
@@ -1008,7 +1008,7 @@ Office of Foreign Assets Control
 تهدیدات ایران مانع عبور کشتی‌ها از تنگه هرمز می‌شود.
 تحریم ایران بسیار مؤثر است و ما به اجرای آن ادامه می‌دهیم.
 @withyashar</div>
-<div class="tg-footer">👁️ 65.2K · <a href="https://t.me/withyashar/11532" target="_blank">📅 10:56 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/withyashar/11532" target="_blank">📅 10:56 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11531">
@@ -1016,14 +1016,14 @@ Office of Foreign Assets Control
 <div class="tg-text">شب گذشته راننده یک خودروی شوتی با هدف فرار از دست نیروهای پلیس اقدام به ریختن میخ‌های چندپر در مسیر اتوبان تهران–کرج کرد که موجب آسیب‌دیدگی لاستیک‌های ۲۴ دستگاه خودرو و مسدود شدن آزادراه تا صبح امروز شد
 پلیس اعلام کرده که با استفاده از دوربین های جاده ای خودروی شوتی شناسایی شده و راننده آن تحت تعقیب است
 @withyashar</div>
-<div class="tg-footer">👁️ 67.3K · <a href="https://t.me/withyashar/11531" target="_blank">📅 10:47 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 67.6K · <a href="https://t.me/withyashar/11531" target="_blank">📅 10:47 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11530">
 <div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">طبق روال هر روز اسرائیل جنوب لبنان را شخم میزند.
 @withyashar</div>
-<div class="tg-footer">👁️ 67.4K · <a href="https://t.me/withyashar/11530" target="_blank">📅 10:30 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 67.7K · <a href="https://t.me/withyashar/11530" target="_blank">📅 10:30 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11529">
@@ -1031,27 +1031,27 @@ Office of Foreign Assets Control
 <div class="tg-text">یک کارشناس صدا و سیما تهدید کرد:
 با یک انفجار در فضا می‌توان خدمات اینترنت ماهواره‌ای استارلینک را از کار انداخت
 @withyashar</div>
-<div class="tg-footer">👁️ 68K · <a href="https://t.me/withyashar/11529" target="_blank">📅 10:08 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/withyashar/11529" target="_blank">📅 10:08 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11528">
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">‏شاهزاده رضا پهلوی: «برای انجام نقش خودم به بهترین نحو، باید کاملا موضع فراجناحی و بی‌طرف داشته باشم. نه به نفع پادشاهی و نه به نفع جمهوری؛ به نفع دموکراسی!»
 @withyashar</div>
-<div class="tg-footer">👁️ 71.1K · <a href="https://t.me/withyashar/11528" target="_blank">📅 07:19 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 71.3K · <a href="https://t.me/withyashar/11528" target="_blank">📅 07:19 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11527">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">پست جدید ترامپ در تروث مبنی بر فشار یا حمله همه جانبه به ایران @withyashar</div>
-<div class="tg-footer">👁️ 73.8K · <a href="https://t.me/withyashar/11527" target="_blank">📅 06:27 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 74.1K · <a href="https://t.me/withyashar/11527" target="_blank">📅 06:27 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11526">
 <div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">حسین دهباشی سازنده کلیپ تبلیغاتی حسن روحانی سال ۱۳۹۶ در پست عجیبی نوشت : حملات و ترورهای دشمن تا رهبری حسن روحانی ادامه خواهد داشت
 @withyashar</div>
-<div class="tg-footer">👁️ 75.3K · <a href="https://t.me/withyashar/11526" target="_blank">📅 06:08 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 75.6K · <a href="https://t.me/withyashar/11526" target="_blank">📅 06:08 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11525">
@@ -1061,7 +1061,7 @@ Office of Foreign Assets Control
 ترامپ احتمالا اوایل این هفته دوباره با تیم امنیت ملی خود درباره جنگ دیدار خواهد کرد.
 پنتاگون در صورت تصمیم نهایی ترامپ، مجموعه‌ای از اهداف و سناریوهای نظامی برای حملات بیشتر آماده کرده.
 @withyashar</div>
-<div class="tg-footer">👁️ 74.4K · <a href="https://t.me/withyashar/11525" target="_blank">📅 06:05 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 74.7K · <a href="https://t.me/withyashar/11525" target="_blank">📅 06:05 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11524">
@@ -1069,21 +1069,21 @@ Office of Foreign Assets Control
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/j5WVmvnFond_s3vjZesQlSa8J9D2Nyz8Sw5kqpG0qPNckVTWC3sCCC0uY9roLC3JiWbibsIJVownulcqwbWImQ3oPNb0Do78zuNgowD0wR6uwcg3ks9sBhjLKaE_Qpg6r2o3vRq1a_tbw6UR69JsUaNW1v-DUsh6-QYnEbo7fDi6SAoKHaQiyqSXyOkQaUgEDCI5mEFRC9I-Kxv1xm6j1wzvsdfhBsHme6kkETbc_rElaXp8ZihdMDyhJdGM84UnOGTVtEocwjwPqS5hBx0qfnJsWvLugtAcVDC2VIlYiBOv2pMtLuJId9XNQBX3ibxVIN21yegxouNhqaf9bAK9XA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست جدید ترامپ در تروث مبنی بر فشار یا حمله همه جانبه به ایران
 @withyashar</div>
-<div class="tg-footer">👁️ 77.7K · <a href="https://t.me/withyashar/11524" target="_blank">📅 01:10 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 77.8K · <a href="https://t.me/withyashar/11524" target="_blank">📅 01:10 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11523">
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">کان نیوز :هرگونه حمله آینده علیه ایران که به تأیید ترامپ برسد، به‌صورت مشترک توسط نیروهای آمریکا و اسرائیل انجام خواهد شد
 @withyashar</div>
-<div class="tg-footer">👁️ 76.4K · <a href="https://t.me/withyashar/11523" target="_blank">📅 00:54 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 76.5K · <a href="https://t.me/withyashar/11523" target="_blank">📅 00:54 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11522">
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">سنتکام : ما تو زمان آتش‌بس با ایران دوباره مسلح شدیم و نیروهامون رو جابه‌جا و مستقر کردیم
 @withyashar</div>
-<div class="tg-footer">👁️ 75.8K · <a href="https://t.me/withyashar/11522" target="_blank">📅 00:53 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 75.9K · <a href="https://t.me/withyashar/11522" target="_blank">📅 00:53 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11521">
@@ -1091,7 +1091,7 @@ Office of Foreign Assets Control
 <div class="tg-text">ترامپ به کانال ۱۳ اسرائیل:
 فکر می‌کنم ایرانی‌ها باید از اون اتفاقی که الان در حال رخ دادنه بترسن.
 @withyashar</div>
-<div class="tg-footer">👁️ 76.1K · <a href="https://t.me/withyashar/11521" target="_blank">📅 00:37 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 76.2K · <a href="https://t.me/withyashar/11521" target="_blank">📅 00:37 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11520">
@@ -1105,7 +1105,7 @@ Office of Foreign Assets Control
 <div class="tg-post" id="msg-11519">
 <div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">پست ترامپ از تیر اندازی  به پرچم در تلویزیون ایران فیک است !( این کار  انجام شده ولی ترامپ چنین پستی منتشر نکرده ! اکانت فیک ترامپ در X منشع این خبر است</div>
-<div class="tg-footer">👁️ 74.9K · <a href="https://t.me/withyashar/11519" target="_blank">📅 00:25 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 75K · <a href="https://t.me/withyashar/11519" target="_blank">📅 00:25 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11518">
@@ -1121,7 +1121,7 @@ Office of Foreign Assets Control
 دلیل توقف پروژه آزادی به درخواست پاکستان بود. پاکستانی‌ها گفتند: «اگر شما پروژه آزادی را متوقف کنید، فکر می‌کنیم می‌توانیم به توافق برسیم.»
 ما پیش رفتیم و موافقت کردیم که آن را متوقف کنیم.
 @withyashar</div>
-<div class="tg-footer">👁️ 77K · <a href="https://t.me/withyashar/11518" target="_blank">📅 00:13 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 77.1K · <a href="https://t.me/withyashar/11518" target="_blank">📅 00:13 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11517">
@@ -1129,14 +1129,14 @@ Office of Foreign Assets Control
 <div class="tg-text">ادعای فارس
 : ترامپ با آزادسازی دارایی‌های بلوکه شده مخالفت کرد!
 @withyashar</div>
-<div class="tg-footer">👁️ 76.3K · <a href="https://t.me/withyashar/11517" target="_blank">📅 23:36 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 76.4K · <a href="https://t.me/withyashar/11517" target="_blank">📅 23:36 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-11516">
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">صدای پدافند در اهواز
 @withyashar</div>
-<div class="tg-footer">👁️ 76.4K · <a href="https://t.me/withyashar/11516" target="_blank">📅 23:35 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 76.5K · <a href="https://t.me/withyashar/11516" target="_blank">📅 23:35 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <hr>

@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ارسال پیام:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن. اینجا بعضی ازچیزهایی که می‌خواستم ببینم رو همونجوری که می‌خواستم بهم نشون داده بشه می‌گذارم.استوار بر حمایت‌های مردمی:ماهانهvhdo.nl/patreonیک‌بارهvhdo.nl/paypal</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-29 03:27:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-29 06:57:32</div>
 <hr>
 
 <div class="tg-post" id="msg-75546">
@@ -301,7 +301,7 @@
 <div class="tg-text">زیرنویس شبکه خبر صدا و سیمای جمهوری اسلامی
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 196K · <a href="https://t.me/VahidOnline/75546" target="_blank">📅 23:12 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 224K · <a href="https://t.me/VahidOnline/75546" target="_blank">📅 23:12 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75545">
@@ -321,7 +321,7 @@
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 229K · <a href="https://t.me/VahidOnline/75545" target="_blank">📅 22:36 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 253K · <a href="https://t.me/VahidOnline/75545" target="_blank">📅 22:36 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75544">
@@ -338,7 +338,7 @@ realDonaldTrump
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 226K · <a href="https://t.me/VahidOnline/75544" target="_blank">📅 21:37 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 243K · <a href="https://t.me/VahidOnline/75544" target="_blank">📅 21:37 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75543">
@@ -351,7 +351,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 197K · <a href="https://t.me/VahidOnline/75543" target="_blank">📅 21:34 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 211K · <a href="https://t.me/VahidOnline/75543" target="_blank">📅 21:34 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75541">
@@ -376,7 +376,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 205K · <a href="https://t.me/VahidOnline/75541" target="_blank">📅 20:18 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 216K · <a href="https://t.me/VahidOnline/75541" target="_blank">📅 20:18 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75540">
@@ -389,7 +389,7 @@ VahidHeadline
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 191K · <a href="https://t.me/VahidOnline/75540" target="_blank">📅 20:03 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 199K · <a href="https://t.me/VahidOnline/75540" target="_blank">📅 20:03 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75539">
@@ -400,7 +400,7 @@ realDonaldTrump
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 188K · <a href="https://t.me/VahidOnline/75539" target="_blank">📅 19:08 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 195K · <a href="https://t.me/VahidOnline/75539" target="_blank">📅 19:08 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75538">
@@ -415,7 +415,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 191K · <a href="https://t.me/VahidOnline/75538" target="_blank">📅 17:58 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 196K · <a href="https://t.me/VahidOnline/75538" target="_blank">📅 17:58 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75536">
@@ -438,7 +438,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 174K · <a href="https://t.me/VahidOnline/75536" target="_blank">📅 17:49 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 179K · <a href="https://t.me/VahidOnline/75536" target="_blank">📅 17:49 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75535">
@@ -453,7 +453,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 155K · <a href="https://t.me/VahidOnline/75535" target="_blank">📅 17:47 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 160K · <a href="https://t.me/VahidOnline/75535" target="_blank">📅 17:47 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75534">
@@ -466,7 +466,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 151K · <a href="https://t.me/VahidOnline/75534" target="_blank">📅 17:44 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 156K · <a href="https://t.me/VahidOnline/75534" target="_blank">📅 17:44 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75533">
@@ -480,7 +480,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 144K · <a href="https://t.me/VahidOnline/75533" target="_blank">📅 17:43 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 149K · <a href="https://t.me/VahidOnline/75533" target="_blank">📅 17:43 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75532">
@@ -493,7 +493,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/VahidOnline/75532" target="_blank">📅 17:42 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/VahidOnline/75532" target="_blank">📅 17:42 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75530">
@@ -521,7 +521,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 144K · <a href="https://t.me/VahidOnline/75530" target="_blank">📅 17:41 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 148K · <a href="https://t.me/VahidOnline/75530" target="_blank">📅 17:41 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75529">
@@ -534,7 +534,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 141K · <a href="https://t.me/VahidOnline/75529" target="_blank">📅 17:33 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 145K · <a href="https://t.me/VahidOnline/75529" target="_blank">📅 17:33 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75528">
@@ -551,7 +551,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 193K · <a href="https://t.me/VahidOnline/75528" target="_blank">📅 17:33 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 198K · <a href="https://t.me/VahidOnline/75528" target="_blank">📅 17:33 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75527">
@@ -563,7 +563,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 263K · <a href="https://t.me/VahidOnline/75527" target="_blank">📅 08:23 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 266K · <a href="https://t.me/VahidOnline/75527" target="_blank">📅 08:23 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75526">
@@ -577,7 +577,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 260K · <a href="https://t.me/VahidOnline/75526" target="_blank">📅 08:23 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 263K · <a href="https://t.me/VahidOnline/75526" target="_blank">📅 08:23 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75524">
@@ -605,7 +605,7 @@ VahidOOnLine
 .
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 295K · <a href="https://t.me/VahidOnline/75524" target="_blank">📅 00:27 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 296K · <a href="https://t.me/VahidOnline/75524" target="_blank">📅 00:27 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75523">
@@ -618,7 +618,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 294K · <a href="https://t.me/VahidOnline/75523" target="_blank">📅 00:18 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 295K · <a href="https://t.me/VahidOnline/75523" target="_blank">📅 00:18 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75522">
@@ -629,7 +629,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/75522" target="_blank">📅 22:50 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 289K · <a href="https://t.me/VahidOnline/75522" target="_blank">📅 22:50 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75521">
@@ -640,7 +640,7 @@ VahidHeadline
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 295K · <a href="https://t.me/VahidOnline/75521" target="_blank">📅 20:33 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 296K · <a href="https://t.me/VahidOnline/75521" target="_blank">📅 20:33 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75520">
@@ -654,7 +654,7 @@ realDonaldTrump
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 291K · <a href="https://t.me/VahidOnline/75520" target="_blank">📅 20:32 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 292K · <a href="https://t.me/VahidOnline/75520" target="_blank">📅 20:32 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75516">
@@ -686,7 +686,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 286K · <a href="https://t.me/VahidOnline/75514" target="_blank">📅 17:31 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 289K · <a href="https://t.me/VahidOnline/75514" target="_blank">📅 17:31 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75513">
@@ -704,7 +704,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 258K · <a href="https://t.me/VahidOnline/75513" target="_blank">📅 17:25 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 259K · <a href="https://t.me/VahidOnline/75513" target="_blank">📅 17:25 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75512">
@@ -729,7 +729,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 224K · <a href="https://t.me/VahidOnline/75511" target="_blank">📅 17:25 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 225K · <a href="https://t.me/VahidOnline/75511" target="_blank">📅 17:25 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75510">
@@ -745,7 +745,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 219K · <a href="https://t.me/VahidOnline/75510" target="_blank">📅 17:23 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 220K · <a href="https://t.me/VahidOnline/75510" target="_blank">📅 17:23 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75509">
@@ -764,7 +764,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 272K · <a href="https://t.me/VahidOnline/75509" target="_blank">📅 17:22 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 273K · <a href="https://t.me/VahidOnline/75509" target="_blank">📅 17:22 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75507">
@@ -796,7 +796,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 333K · <a href="https://t.me/VahidOnline/75506" target="_blank">📅 21:18 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 334K · <a href="https://t.me/VahidOnline/75506" target="_blank">📅 21:18 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75501">
@@ -872,16 +872,16 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/75498" target="_blank">📅 17:01 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 286K · <a href="https://t.me/VahidOnline/75498" target="_blank">📅 17:01 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75494">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/XDuKj3TBf688qCY3EjbyXxLQAz5_9WX__Vi0ISvbdocapoCX-S5gfqWtCzPjrCVGWZ97hhP8z0WBjcQhqjGcEvqBDrStJj0RJev1PwcymYuUSReDwV5RNM7DMYGszac5Cu7D-Jt06Om_x6zExnsy-djuPKOT8wEO8bWF_0PDVe08f9A-c6Bji9VubQu4bRKAMJcjvfRfFNMlQN994efp7rT7xCQs_Sov4K7R_7dLUer8D-63AV8w9z74BUnUMSQbPScVQj4C6AFQ2ibLXi7kIPFUYs43bFgILiEWrjKdEYK85PCR9MKRe6WqnLlhdOTEnmdbpsIsfMX1YhVCTiMiOw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Izgq4oD_XqUvcw1DPTP3Y22B61wdvBmo_7gmWz1TY8SzWlKRVX9ODSf8nONh3Yo8RHf19RlWamXpwX12mq08ShXKhHRfoEZLFsNHfr66pIH6f5CCBqAbHFfWNe8ciNCOYIP_C8M9om6Sf_56NBzOyieJPmxQVI0kA3A9L_MMrFDOI54gi1sehKSBJA7Q1UuC73EoiBdqq7SMMgnQP3K55Z0KVrmqcje25bPsSkytsX1P528_j7AhFQWH9Zhp0oY49qV_U8Vzugx0LBkLTtJ61TQi5F0Aw5kdLf3F9Y-G91cEjol0IlT5Q4_L8lE4NC6ogzQQ29z3dFvc29RcTwIvcw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/mS95MBMxcR6vLY9423eOaCet3f0LehbE-hBQgyDFRuKilxi-671p559bCDk_OMo4TSAn-yKU89ZKWh53hvVHqix1tk2K3L_vQZ27lVQBokeYmeeQmgIy7k4QP8RJ5aeWynSVj1W5yLhqiZkTe7IDsaW22a7cP67-56u4iy32lfKf9WaJ91Unv4vqfysZocHuOdFUxAzIpNbTRfh1O49-9aO6IJITJ_bzn00YIzVeGm0B19gIPHweazdch7w299mvVnk6IIIGJfZ1PFrChvhB7aF9fmtx2NEeZQHIiw9JAKw76T55GNgs_4iLFfpnB1h2AhEXmw-rYJAowYzPGub9Zg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/F_y5-oJx_S3pxtmHsvjkc02V1LGSQdQQvrR1lsNDhFgMTBrdmSxqwM88sd0eM_VDzk-9LuKPmlpAO4SnroHNjnT0qGmBBWr41nVNOFIiRI2KN5HYF6OHX4mwLDoOLUPMRq7EVYsFwrshYFoS6jmRl8mdYzEJDIPlag0Cz61W8ZYgg1A07zLkrTODH07_JZuvDFE6CJSZu--kJNTezhf-Wgh5oSclLC8KJUTiKQglwcJy8FVmncAwOeT3lcim2FKHmVmzoPX4N8HaVPKuC1E1oRpTe9jVt35t0nF9U_VLHlR9Iz3Ms6zLp1VUxc5K3wCAOJBR1oOYFsxOTUX1To_F-Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/EMQFHwS1GeMorT9l2oxN7V9KWRZbm_8MzZ3-UE6DinRa7ebdPk6RvFYa_NW4pXGPCZyIdN3u2XxXqNcmTzSmncb3jg-C9Z8Xa-tPfE1igRUh-eAn0ZKeIOGaGMdvyk9XOgxkKbS7KgxEKhYhQzntfntdmvy5_RPjSZg8BUry9sDAYzBc4wU5vWzBFNwJdTfCalGzrU9COHZX_ibm2ae76_DVOrnyigyxrrmp6zUUiNh8ikBokCLqVZBmZdUFiigWLH1VjZ7v1rfYdhtNeSYO6Zj3gEcQrZm3_MH6LMxyrQNAfRKjlujwC_grk5y5PTLbE0I-U3xSMrbWoD56w8WmAg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/rgGomDLNrwp3CRv3B4vLQ_ImWaPHNxRBdyLgnqp_OEeEyx7Von6gs5wRW0h6AwpnmDjDYjAlXiXvpjmZM0OlH2n2T53D6XWwMkEcYA96n7Nnvrbs06j_dlRFACdlUW37Ev4aS1YVR_X0EdwIlB82MdISBG6hQBWeVMx4cFMY_ajkFRUk8cda0nc7FMyWkC6CczNvmUKLT6AqCbY8X1OVnlMxmQOOF5kJGhQSetV6yw0IvJHxf4ZjH3zRTGFM5PWDRC3_97KeepF2HoC683oYHDsn55pDNoM1JSYsYduub0cFipmX8aqasH5ny-JbuRIZVUbDABSycC6-gVWnkq-N6Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/T5PiCmsIcp2HnU0dNkUopxHIy0mGNw-vRfGPmhL-iXGP-FR8qJ3ImyvsK9GISEr4rxdsd9lLM9sd2jPD7Nx_Jw6CdKj88L28m8EYdoNbaNqedUHt1nWahBNMbNA1wZf9dalM0Ub_racIzG-8y_gzGfwuMQekzEnGNNzsUhqSC4EOgqnUiwyEYNEo1r-e05ZnhlgcTb1vp3uwOfUKL8S9HZ8iip9KYvYlCLVZFYNMzePWAQ96LoVi0IFFtVW1G9jbhAQEwELRvDsMnj76CYJFTpm7qw-QhpoJMLzn3HPNlGIqmyZcW1csUQlh8A2voURFTZTA-T1NM0BTQ4fYJiuzAA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/fhIRkBWx2Sy69QLwbAnmivzc8tdCq3s3aSmVzqdaYb25H76et6nWDnuhT8yI6hpYuSRCQZF0wiSVAVdDwaxhZb9lRI4CE98GOspYeqL_cJe6e2xYBumhP3wACYY2JUU3XxqcS-7gblviuWoFX4y3jl_1D86pGiU-6KVBOcHMfSZh-Q4240byeXe0TRWf7AvNbac8juooPcCeEQ5OKojpDR3baz_T6XU78thqgjUh_mGV_zaDz1mvd1y842dAJdiJwP7Ddr_2G3N23D_NL6s-_oezDTbyCqB3GlDe42iwcT6-FXZqnDvHHQFhPw3yj2nYCtI6ztzhgnnYi4seoBGSJA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">دونالد ترامپ با اشاره به افزایش هزینه‌های اقتصادی ناشی از تقابل با جمهوری اسلامی، از آمریکایی‌ها خواست این فشار کوتاه‌مدت را تحمل کنند و گفت جلوگیری از تهدید حکومت ایران اولویتی بالاتر از پیامدهای کوتاه‌مدت اقتصادی دارد.
 او تاکید کرد: «متاسفم که این فشار را تحمل می‌کنید، اما باید جلوی این گروه بسیار دیوانه را بگیریم.»
@@ -911,19 +911,19 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-75493">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mP9MHz64B0YcCdz3C8OEzBRQ46RXZJ0OmluMQxA4VGpATgNB67cQDrPO3z35OGNPKUowyJUTaPthZE-N9delzb4V6PIAg7n5G3BhF-gMXrgkoedJiBoJoVAJ3M7uWxr0S00fCFakWZq9YaBLXFAwcrCK7N4LVLiE78S_TgS3AV1Zelq98en9okshi6FnFBbwleasfxPWIbhQCEijgjo-TYf_tYG33YvE4US_oERt3C_2NPS1DToLEn9Wsq4-guCjXqdUkANu4OAPHFCdQwQvAtjFDYQfak8719xSV2niK4-RqmFhMaOmtz9rIxLs7t5tioabjRZz9vllRlrqYeVEmg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lREYotXeXlfjpTloWN4wt8s54RsVF2_cxCMTv_FOpwG7LOTtyqN0ry10lyXUxC0WwliO4abYNbQLjab-HN-Yve7N96BPf3WacRUFNRfrl1iiJ3YXEqB1B59sXXxiyyg_vjVE_Ffp8DoCizMrHa3IEmU3S4L1UYgtITI42WP6hwodtr9j0JIv8PI8Am81-vRItUsy7GcbaXID3r4A7IfI5rkX_XcWLL8y97iV7WSZPtnWKugTQksKP9U8ub7_GnRK89QnJVpsD2BVT9EZOxDLblL3W1vXH4WkwbcP-uQJxcM7UUIc4iSBNgx-gHWfWO8DRkC0_wRUbczmBINc0kR0dA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عباس عراقچی، وزیر خارجه جمهوری اسلامی، در واکنش به بالا رفتن قیمت انرژی در آمریکا، در ایکس نوشت: «در حال حاضر، افزایش قیمت بنزین و حباب بازار سهام را کنار بگذارید. درد واقعی زمانی آغاز می‌شود که بدهی آمریکا و نرخ وام‌های مسکن شروع به جهش کنند.»
 او نوشت همین حالا هم میزان ناتوانی در بازپرداخت وام خودرو به بالاترین سطح خود در بیش از ۳۰ سال گذشته رسیده است، اما تمام این‌ها قابل اجتناب بود.
 @
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 277K · <a href="https://t.me/VahidOnline/75493" target="_blank">📅 07:21 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 278K · <a href="https://t.me/VahidOnline/75493" target="_blank">📅 07:21 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75492">
 <div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rdJoxNGdEH6Lx1d_P_lfbkAnGWqV1G4VVZ6oEmHBopzcBo5Js2HAqGjzpgbz6iP6YlWG6AFS-DWMyZNAXnwETZ7gPffH5fcl69lp6PMciipRj6JTpNh4eq7DTbnQpLyY3kQZq_IOiBswoM5K90cT4CVykmQlCCpWtlWtsNlYNhjJnUrM8GBj5e-G8FL3XSVO-5QAnOfqOcADahbw9i8SdncT28my5kix-sm6tW20anSup4FA88gczTcUM9trKGL3jnPuOCzATUtQ0lgvzgG6HJYiRjbO209UbizDcSP62Xd1NmzTL7-6Q6ao1e3RFfH7G2vqg66-0LD-GWnSIAtn8Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QyufV3wkb4Cxy8ZZJ4sv5dn88Dlsn1OoSyjO4IofxXcAJltuhuJSmNKdeGuWjAyc1EM3HQ7pOeW-bmudGBuGVCQOffF_xSKk-e5D2Gptr89dIKl00VTGXtSaFJuvhBGrdJBXaTiDjXHrbib9BhBgmxiDf6D0-pzQZKu5YXny6DcbrX-HKckhbdvqqbE-iihcpcvBVita0l5R46_ymmQoEh2qxwIPlXbF012bhpyZYeNIt5nyykkWcfFGYHMu3sxLdx_WRsRdcU8_AjykcdlbopasWcku5g6FBkQpqReG3OnoFSoSjA7qLWzAfrzPVU1UU1PCnFWlQ7N3iMA15KjSeA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‌ نماینده چین در سازمان ملل و و رئیس دوره‌ای شورای امنیت، از پیش‌نویس قطعنامه پیشنهادی آمریکا و بحرین درباره تنگه هرمز انتقاد کرد و گفت که «محتوا و زمان‌بندی آن مناسب نیست و تصویبش کمکی نخواهد کرد.»
 به گزارش رویترز، این پیش‌نویس قطعنامه از ایران می‌خواهد که حملات و مین‌گذاری در تنگه هرمز را متوقف کند. اما دیپلمات‌ها گفتند که اگر این قطعنامه به رای گذاشته شود، احتمالا با وتوی روسیه و چین روبه‌رو خواهد شد.
 دو کشور ماه گذشته نیز قطعنامه مشابه مورد حمایت آمریکا را وتو کرده بودند و متن آن را علیه ایران «جانبدارانه» خواندند.
@@ -1102,7 +1102,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 250K · <a href="https://t.me/VahidOnline/75477" target="_blank">📅 17:35 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 251K · <a href="https://t.me/VahidOnline/75477" target="_blank">📅 17:35 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75471">
@@ -1137,7 +1137,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 299K · <a href="https://t.me/VahidOnline/75471" target="_blank">📅 07:51 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 300K · <a href="https://t.me/VahidOnline/75471" target="_blank">📅 07:51 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75470">
@@ -1179,7 +1179,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 286K · <a href="https://t.me/VahidOnline/75468" target="_blank">📅 19:11 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 287K · <a href="https://t.me/VahidOnline/75468" target="_blank">📅 19:11 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75467">
@@ -1304,7 +1304,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 183K · <a href="https://t.me/VahidOnline/75459" target="_blank">📅 18:10 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 184K · <a href="https://t.me/VahidOnline/75459" target="_blank">📅 18:10 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75457">
@@ -1345,17 +1345,17 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 263K · <a href="https://t.me/VahidOnline/75456" target="_blank">📅 18:02 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 264K · <a href="https://t.me/VahidOnline/75456" target="_blank">📅 18:02 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75455">
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/6ed3795eb9.mp4?token=TV09RaOVDpsunUUOUZROi5dNezwrpSybWPBbWdw2r-9aFd6H1slQmKjkeZNNMbTJMddAylx7WxzsGapp31ayh3ScQ0-r-MC8sR9AqzLB0eOsQlMyuVIMK1NsJwrum6mh6nvdIFyMpcyfKwPvgr2UWVQBQSikJRYouGcAOFBedSEkMhLm7eJH1kEK8Y2HycoTj5cM76WIqaARuNzOY4gtdOg-2Jw9TQcEwjgFGUGgFPDWOM04Yo5iRsebb9AEFp1sBWnRVANqWxzB7HPsb8vSs58Hzy_o0U6b2IErBr1ZcZvduxvpP_qz_1txt_Xww1fKjaP1k2hyKzfcLkElZcPyaw" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/6ed3795eb9.mp4?token=GaiEOc6Zh63_OuMOrsgb9rezRycoZ8eCZWRRZz9fWdoP5qcle2KZcIfBrEH8eK88nDx_XQfQgJUtmvn8VkZVJtUJRgU_2MGwJ9qJ1x02ZN3gOGE0T3y5u_zS4jTsP4m1C4on43lfZoQdVMDeNoS6rXeCUTF2zcMf8Wx0h_A3trkVpXRKFAidYl1jY-GiiTGGVNrPWuzt_F9hIU1u6otv1iMF5AEPC-HDRB7dweZqZK9jk8bHqqKlkURWpJ4OxqwA4IEKRkSltI8tRMSfRSbtBEYNjtTdAcnYQfwFVPyer5Gw5Wt2P5txkCIyPtnkoCO72-1P9Tpo4FKi_GNUL3CmYA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/6ed3795eb9.mp4?token=TV09RaOVDpsunUUOUZROi5dNezwrpSybWPBbWdw2r-9aFd6H1slQmKjkeZNNMbTJMddAylx7WxzsGapp31ayh3ScQ0-r-MC8sR9AqzLB0eOsQlMyuVIMK1NsJwrum6mh6nvdIFyMpcyfKwPvgr2UWVQBQSikJRYouGcAOFBedSEkMhLm7eJH1kEK8Y2HycoTj5cM76WIqaARuNzOY4gtdOg-2Jw9TQcEwjgFGUGgFPDWOM04Yo5iRsebb9AEFp1sBWnRVANqWxzB7HPsb8vSs58Hzy_o0U6b2IErBr1ZcZvduxvpP_qz_1txt_Xww1fKjaP1k2hyKzfcLkElZcPyaw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/6ed3795eb9.mp4?token=GaiEOc6Zh63_OuMOrsgb9rezRycoZ8eCZWRRZz9fWdoP5qcle2KZcIfBrEH8eK88nDx_XQfQgJUtmvn8VkZVJtUJRgU_2MGwJ9qJ1x02ZN3gOGE0T3y5u_zS4jTsP4m1C4on43lfZoQdVMDeNoS6rXeCUTF2zcMf8Wx0h_A3trkVpXRKFAidYl1jY-GiiTGGVNrPWuzt_F9hIU1u6otv1iMF5AEPC-HDRB7dweZqZK9jk8bHqqKlkURWpJ4OxqwA4IEKRkSltI8tRMSfRSbtBEYNjtTdAcnYQfwFVPyer5Gw5Wt2P5txkCIyPtnkoCO72-1P9Tpo4FKi_GNUL3CmYA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">خبرگزاری مهر پرچم حزب‌الله را در ویدیوی مربوط به بدرقه فوتبالیست‌ها سانسور کرد.
 FattahiFarzad
@@ -1704,7 +1704,7 @@ realDonaldTrump
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 324K · <a href="https://t.me/VahidOnline/75433" target="_blank">📅 22:46 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 325K · <a href="https://t.me/VahidOnline/75433" target="_blank">📅 22:46 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75432">
@@ -1806,7 +1806,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-75426">
 <div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DGdMuZI1zTQUAAB7krQMeQIwJY8lYZoPrbk5I3dKG53uAlsuPXZV3kR9siuvyUNcZq9Be6A4h4KUbSFRR9cMGMnAJqrvaXgemp1k-e4pF5Gu8gKCOW1D-rVoSxExiQs3Cl0Aq9HB2EeCKa69jqTYsMNEBGizXhkrfmaTL6S0rZtT9e5v0eyHONO7TK3dCFiMVlr34LREeQOZ4m2lLF6g45u3vOKqvyfMKV_Be2JsL42kqSMBYh8JETLJVIyj29dIK-CyQhdg85AEh0-T1x97TS2ihyUalFvEkWGQvOQYVa3L9idmc7rKx02-7xF8-63kBJIODQVjzZSDEPF1i-nykg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UEBsaRKMmW1dV4e81LcTf5KcOJ3DniTE2lN03lbNt4PCt5J6cKTfgzJ1kGV6l4GIxCC2wYwTY68kaltBFYXuZqeUkWIRz397Gk814ov6pZh1T5s9QYUcRgk_jDz0UmA0rpGdTgOzO5N630bsYAD1YX4nE4Wip6oGbXu2eDuECfkz_C7mEucfGAS3bMYt8Qr7mZjSvZq5nYfKiZ7eSW8ABnmVqz2Awqr-mc_CnBZshxEgIQQp6AX0DqNa4YLjGDwVLdSezWTy8ohn5H9_7vRv3hTgss9E3uam6JMEET8orA3ie_EHtpPNchvPWUTEFUwPGO0cYNGuxI6CuWZJahSBCQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزارت خزانه‌داری ایالات متحده، روز دوشنبه، ۲۱ اردیبهشت‌ماه، در بیانیه‌ای رسمی اعلام کرد که پاسخ اخیر تهران به پیشنهاد دیپلماتیک واشنگتن، نه‌تنها از نظر سیاسی غیرقابل‌قبول است، بلکه با استانداردهای لازم برای لغو تحریم‌های مالی و اقتصادی نیز همخوانی ندارد.
 این وزارتخانه تاکید کرد که رویکرد فعلی ایران مانع از هرگونه گشایش در مسیر مبادلات بین‌المللی و آزادسازی دارایی‌های بلوکه شده می‌شود و تا زمانی که تعهدات شفافی در حوزه برنامه هسته‌ای ارائه نشود، فشارها بر شبکه مالی این کشور ادامه خواهد یافت.
 در همین راستا، اسکات بسنت، وزیر خزانه‌داری دولت دونالد ترامپ، در اکس با بازنشر این بیانیه، موضعی قاطعانه اتخاذ کرد.
