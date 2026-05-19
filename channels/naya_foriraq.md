@@ -292,7 +292,7 @@
 <a href="https://t.me/naya_foriraq" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اخبار ؛ امن ؛ دراسات ، خرائط ، OSINT ، تسريباتلا تظن الإدارة الأمريكية انها قادرة على إسكات شعوب المنطقة والله لن نسكت .. يوما ما سوف نعيد أيام عماد مغنية وسوف تبث العملية على هذة القناة ..🪪للمراسلة وارسال الاخبار@Nayaforiraq_bot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-29 02:21:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-29 03:27:44</div>
 <hr>
 
 <div class="tg-post" id="msg-75651">
@@ -300,7 +300,7 @@
 <div class="tg-text">🇮🇷
 قائد مقر خاتم الأنبياء التابع للحرس الثوري الإيراني:
 نُعلن لأمريكا وحلفائها عدم تكرار الأخطاء الاستراتيجية وسوء التقدير.  عليهم أن يعلموا أن إيران الإسلامية وقواتها المسلحة أكثر استعدادًا وقوة من ذي قبل، وأنها على أهبة الاستعداد، وسترد بسرعة وحسم وقوة وشمولية على أي عدوان متجدد من أعداء الوطن والأمة الشجاعة. لقد اختبر الأعداء الصهاينة الأمريكيون مرارًا وتكرارًا شجاعة الشعب الإيراني وقواته المسلحة الجبارة.لقد أثبتنا بعظمتنا وإرادة الله أننا سنُظهر سلطتنا وقدرتنا للأعداء في ساحة المعركة، وإذا ارتكب أعداؤنا خطأً آخر، فسنتعامل معه بقوة وقدرة تفوق بكثير حرب رمضان المفروضة، وسندافع عن حقوق الشعب الإيراني بكل ما أوتينا من قوة، وسنقطع يد أي معتدٍ.</div>
-<div class="tg-footer">👁️ 9.25K · <a href="https://t.me/naya_foriraq/75651" target="_blank">📅 00:18 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/naya_foriraq/75651" target="_blank">📅 00:18 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75650">
@@ -308,7 +308,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H9pG3CsNcRZsJ9ap1CM0vJrC6mKtwwJQJfSusCxja4wHzZGMvmZ6fdxVvHY8t02AHOCeLjb75doppdj1BRrFWtbVg-PM0UI3011cc-3gHpyOS4y1LY_FbzEOWeNBiYSHVxJKB3-d77H8_4KFwTOGeXbg494ra_wOl7pL0FfoEGE4RwVIZZVV9NqEQhbGnQ7MJGhyqKF53TUfs5c2pQqRxmDD4mAMS9K8TEkXtbYxC4g4kjee-nohPtdMJKDx9lDhDYWVAiBlG1s4-O4zsjOHQuHSsKAZKEorpwv9oDSiR_UumkUQLA7kvaPv5nalVFSDdhhlyE0Llf26KdF8bOSqdw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇸🇾
 عصابات الجولاني الإرهابية تختطف مواطن لبناني من الطائفة الشيعية من قرية كوكران الحدودية بين لبنان وسوريا وتطالب بفدية قدرها 500 ألف دولار.</div>
-<div class="tg-footer">👁️ 9.94K · <a href="https://t.me/naya_foriraq/75650" target="_blank">📅 00:14 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/naya_foriraq/75650" target="_blank">📅 00:14 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75649">
@@ -319,14 +319,14 @@
 السيد فريدريش ميرز، ‏النفاق صارخ. فالهجمات العلنية التي تشنها الولايات المتحدة والنظام الإسرائيلي على المنشآت النووية الإيرانية المحصنة لا تُقابل بالإدانة، بل بالأعذار والتبريرات. ومع ذلك، عندما تقع عملية يُزعم أنها عملية مُفبركة - والتي رفضت حتى الإمارات العربية المتحدة نسبها رسمياً إلى إيران - تلجأ هذه الأصوات نفسها فجأة إلى لغة "القانون الدولي" و"الأمن الإقليمي" الرنانة.
 ‏إذا كانت الهجمات على المنشآت النووية تهدد شعوب المنطقة، فيجب أن ينطبق هذا المبدأ بالتساوي على جميع الدول - وليس فقط عندما يخدم المصلحة السياسية للغرب.
 ‏هذا الإحساس الانتقائي بالعدالة يذكرنا بالقاضي آدم في قصة هاينريش فون كلايست "الإبريق المكسور": رجل يستدعي سوء سلوكه الذي لا يغتفر عملياً إصدار حكم، ولكنه، في غطرسة وتبرير ذاتي، يتجرأ على أخذ مكانه على منصة القضاء.</div>
-<div class="tg-footer">👁️ 9.7K · <a href="https://t.me/naya_foriraq/75649" target="_blank">📅 00:11 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/75649" target="_blank">📅 00:11 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75648">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">⭐️
 تفعيل الدفاعات الجوية الإيرانية في مدينة أصفهان.</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/naya_foriraq/75648" target="_blank">📅 23:59 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/75648" target="_blank">📅 23:59 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75647">
@@ -340,7 +340,7 @@
 </div>
 <div class="tg-text">⭐️
 اندلاع اشتباكات بين قوات جيش الإحتلال الصهيوني ومسلحين في منطقة حوض اليرموك بريف محافظة درعا السورية.</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/naya_foriraq/75647" target="_blank">📅 23:49 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/75647" target="_blank">📅 23:49 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75646">
@@ -354,7 +354,7 @@
 </div>
 <div class="tg-text">🇮🇷
 تفعيل الدفاعات الجوية في جزيرة قشم الإيرانية بعد رصد أجسام معادية.</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/75646" target="_blank">📅 23:26 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/75646" target="_blank">📅 23:26 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75645">
@@ -363,7 +363,7 @@
 <div class="tg-text">🇺🇸
 ترامب:
 في ولاية ماريلاند، أرسلوا 500,000 بطاقة اقتراع بريدية غير قانونية، وتم القبض عليهم! والآن، سيرسلون 500,000 بطاقة اقتراع بريدية أخرى، لكن لا أحد يعرف ما يحدث مع أول 500,000 بطاقة أرسلوها. بالإضافة إلى ذلك، ذهبت العديد من هذه البطاقات إلى الديمقراطيين، لذلك لا توجد فرصة لأي جمهوري يترشح في ماريلاند! تم ذلك من قبل حاكم الولاية الفاسد، ويس مور. لقد سمح بحدوث ذلك للتأكد من فوز الديمقراطيين. لم يكن من المنطقي بالنسبة لي أبدًا أن تُعتبر ماريلاند ولاية ديمقراطية تلقائيًا، لكنني الآن أفهم السبب. أنا متأكد من أن هذا استمر لسنوات. سأطلب من المدعي العام للولايات المتحدة ووزارة العدل إجراء تحقيق فوري في هذا الوضع.</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/75645" target="_blank">📅 23:14 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/75645" target="_blank">📅 23:14 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75644">
@@ -377,14 +377,14 @@
 </div>
 <div class="tg-text">⭐️
 إنفجارات في محافظة السليمانية شمالي العراق.</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/75644" target="_blank">📅 23:07 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/75644" target="_blank">📅 23:07 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75643">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">⭐️
 إنفجارات في محافظة السليمانية شمالي العراق.</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/75643" target="_blank">📅 23:06 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/75643" target="_blank">📅 23:06 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75642">
@@ -398,7 +398,7 @@
 </div>
 <div class="tg-text">⭐️
 مقتل شخصين على الأقل وإصابة آخرين في إطلاق نار على مسجد في مدينة سان دييغو بولاية كاليفرنيا الأمريكية.</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/75642" target="_blank">📅 23:03 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/75642" target="_blank">📅 23:03 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75641">
@@ -408,14 +408,14 @@
 🇮🇷
 ترامب يجبن أمام إيران الإسلامية:
 لقد طُلب مني من قبل أمير قطر، تميم بن حمد آل ثاني، وولي عهد المملكة العربية السعودية، محمد بن سلمان آل سعود، ورئيس دولة الإمارات العربية المتحدة، محمد بن زايد آل نهيان، أن نؤجل هجومنا العسكري المخطط له ضد جمهورية إيران الإسلامية، والذي كان من المقرر أن يحدث غدًا، حيث أن مفاوضات جادة تجري الآن، وفي رأيهم، كقادة كبار وحلفاء، سيتم التوصل إلى اتفاق سيكون مقبولًا للغاية للولايات المتحدة الأمريكية، وكذلك جميع الدول في الشرق الأوسط، وخارجها. سيشمل هذا الاتفاق، على نحو مهم، عدم وجود أسلحة نووية لإيران! بناءً على احترامي للقادة المذكورين أعلاه، أوعزت إلى وزير الحرب، بيت هيغسيث، ورئيس هيئة الأركان المشتركة، الجنرال دانيال كين، والجيش الأمريكي، أننا لن نشن هجومًا مجدولًا على إيران غدًا، لكنني أوعزهم أيضًا أن يكونوا مستعدين للشروع في هجوم واسع النطاق على إيران، في أي لحظة، في حالة عدم التوصل إلى اتفاق مقبول. شكرًا لكم على اهتمامكم بهذا الأمر!</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/75641" target="_blank">📅 22:33 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/75641" target="_blank">📅 22:33 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75640">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">🇮🇷
 تفعيل الدفاعات الجوية في جزيرة قشم الإيرانية بعد رصد أجسام معادية.</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/75640" target="_blank">📅 22:23 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/75640" target="_blank">📅 22:23 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75639">
@@ -423,7 +423,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OntxJ7k-J-gg6Xui-ZJLbRMog94f4oOsKp0zvsVugAlSkLXqQEF9I3ZOsewKpmCxj89GVeIzQ2Ozd07Wxfg3GVvVMOfpNQHIRD9Q1gjSSFDluPHrWiKXrj-qCPGVeoETRAq2Qpet2DkM-MtRpItugbhYQx9ZWtcGavy2rkyPZRmYGRIjWri-KI1gkKBC2uomLvyC_HCjo0ySmDP2SPjHRfkZYKrfTpy0MpnjNOOjgX1vJWpg7eOLDppwszM5lRakFbhlkbphj5kSCW3jn5TvzsPAIr0lAiQBjTTZRJ6EsfZ1aLi6ZxLVbp-fkePw3-309YpuWpJclfTK2QxtCfLLlQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭐️
 أسعار النفط ترتفع لتتجاوز 112 دولاراً للبرميل الواحد.</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/75639" target="_blank">📅 22:06 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/75639" target="_blank">📅 22:06 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75638">
@@ -432,7 +432,7 @@
 <div class="tg-text">🇮🇷
 بزشكيان:‏
 الحوار لا يعني الاستسلام. تدخل الجمهورية الإسلامية الإيرانية في حوارٍ بكرامةٍ وسلطةٍ وحمايةٍ لحقوق الأمة، ولن تتراجع بأي حالٍ من الأحوال عن الحقوق القانونية للشعب والبلاد. سنخدم الشعب ونحمي مصالح إيران وكرامتها بالمنطق وبكل قوتنا حتى آخر رمق.</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/75638" target="_blank">📅 21:55 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/75638" target="_blank">📅 21:55 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75637">
@@ -445,7 +445,7 @@
 <a href="https://cdn4.telesco.pe/file/bea61dffae.mp4?token=Fm0FUDMNZnDFKixnY7AnedCCA4F8xbDH2lsWD7O8JnKtWuu6aBzL6pfft4u80iBtfBa95XTICsxhnOfEe9UjrI-PRRy4w5Drz3gN7EnT0MxaU4DbElFhHB-U-F9R1dQACEq5lXHu0OT57oBFjw7-PINva7BlNu63DkvfV-qv0hl0BURY4WGKLsaRD9prLiWs5dO0iUtBOpr6V-jliew5g-fd9GrEJflrKqyFzZMWHYL3Uls_m93RlOwEQdmpJ39jnYsntcEuO0YXFx30toJtz6dAIxb7dpjuYjnw7S7cO3F1UqkVmuWbUSWPuTE_-DhLAEpSDj0EpkZsVtV1SAGcQg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">بيت هيغسيث يقوم بتقليد ترامب.</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/75637" target="_blank">📅 21:40 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/75637" target="_blank">📅 21:40 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75636">
@@ -456,7 +456,7 @@
 لقد منحنا الشعب الرائع للدائرة الرابعة في ولاية كنتاكي تفويضًا لجعل أمريكا عظيمة مرة أخرى، والشخص الذي سيساعدنا في القيام بذلك هو ضابط البحرية الخاص، وضابط رينجرز الجيش، ومزارع من الجيل الخامس في كنتاكي، الكابتن إد جالرين، وهو وطني حقيقي يضع أمريكا أولاً
 بصفته جنديًا مخضرمًا شجاعًا، يعرف إد الحكمة والشجاعة اللازمتين للدفاع عن بلدنا، ودعم جيشنا/قدامى المحاربين، وضمان السلام من خلال القوة. بالإضافة إلى ذلك، وبصفته رجل أعمال ناجحًا للغاية، يعرف إد كيفية خلق وظائف رائعة، وخفض الضرائب واللوائح، والترويج للمنتجات المصنوعة في الولايات المتحدة الأمريكية، ودعم مزارعينا المذهلين والزراعة الأمريكية، وإطلاق العنان للهيمنة الأمريكية في مجال الطاقة، والدفاع عن العصر الذهبي لأمتنا. في الكونغرس، سيناضل بلا كلل للحفاظ على أمن حدودنا، ووقف جرائم المهاجرين، والدفاع عن التعديل الثاني لدستورنا الذي يتعرض دائمًا للهجوم
 شعب كنتاكي العظيم يدرك حقيقة ماسي. إنه يصوت فقط ضد الحزب الجمهوري، مما يسهل الأمور على اليسار الراديكالي. على عكس ماسي "الخفيف"، الخاسر غير الفعال الذي خذلنا بشدة، فإن الكابتن إد غالرين فائز ولن يخذلكم. يوم الانتخابات هو الثلاثاء 19 مايو. صوتوا لإد غالرين - إنه يحظى بتأييدي الكامل والتام. لنجعل أمريكا عظيمة مرة أخرى!</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/75636" target="_blank">📅 21:37 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/75636" target="_blank">📅 21:37 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75635">
@@ -464,7 +464,7 @@
 <div class="tg-text">🌟
 🏴‍☠️
 توثيق آثار بعض استهدافات المقاومة الإسلامية لآليات وتموضعات جيش العدو الإسرائيلي في بلدة طيرحرفا جنوبيّ لبنان.</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/75635" target="_blank">📅 21:15 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/75635" target="_blank">📅 21:15 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75634">
@@ -473,7 +473,7 @@
 السيد عبدالملك الحوثي:
 على المستوى العسكري نحن جاهزون إن شاء الله لكل التطورات.
 ثابتون على مواقفنا المبدئية الواضحة التي أكدنا عليها مرارا وبشكل عملي، وجاهزون لأي تطورات قادمة.</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/75634" target="_blank">📅 21:09 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/75634" target="_blank">📅 21:09 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75633">
@@ -487,7 +487,7 @@
 </div>
 <div class="tg-text">🏴‍☠️
 حادث سير في تل أبيب المحتلة ؛ مقتل وإصابة 10 مستوطنين كحصيلة أولية.</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/75633" target="_blank">📅 21:00 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/75633" target="_blank">📅 21:00 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75632">
@@ -495,7 +495,7 @@
 <div class="tg-text">🌟
 🏴‍☠️
 إستهداف طائرة حربية بصاروخ ارض جو في البقاع الغربي اللبناني.</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/75632" target="_blank">📅 20:55 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/75632" target="_blank">📅 20:55 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75631">
@@ -503,7 +503,7 @@
 <div class="tg-text">🇺🇸
 🇮🇷
 رويترز: أميركا ترفض المقترح الإيراني الجديد.</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/75631" target="_blank">📅 20:32 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/75631" target="_blank">📅 20:32 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75630">
@@ -511,14 +511,14 @@
 <div class="tg-text">🌟
 🏴‍☠️
 حزب الله يعلن عن استهداف آليّة قائد الّلواء 300 التّابع لجيش العدوّ الإسرائيليّ في مستوطنة شوميرا بمحلّقة انقضاضية.</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/naya_foriraq/75630" target="_blank">📅 19:00 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/75630" target="_blank">📅 19:00 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75629">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">⭐️
 أكسيوس:  أن البيت الأبيض لا يرى في اقتراح إيران الجديد تحسينًا مجديًا أو كافيًا للتوصل إلى اتفاق.   وقال مسؤول إن الاقتراح يحتوي على تغييرات طفيفة فقط مقارنة بالإصدارات السابقة. وفي حين أنه يوسع النص حول عدم سعي إيران للحصول على سلاح نووي، إلا أنه لا يزال…</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/naya_foriraq/75629" target="_blank">📅 18:44 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/75629" target="_blank">📅 18:44 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75628">
@@ -529,7 +529,7 @@
 وقال مسؤول إن الاقتراح يحتوي على تغييرات طفيفة فقط مقارنة بالإصدارات السابقة. وفي حين أنه يوسع النص حول عدم سعي إيران للحصول على سلاح نووي، إلا أنه لا يزال يفتقر إلى التزامات مفصلة بشأن تعليق تخصيب اليورانيوم أو التخلي عن المخزونات الحالية من اليورانيوم عالي التخصيب.
 ورفض المسؤول أيضًا التقارير التي تفيد بأن واشنطن وافقت على تخفيف العقوبات، قائلاً: "لن يحدث أي تخفيف للعقوبات مجانًا" دون اتخاذ خطوات متبادلة من جانب طهران.
 وقال المسؤول: "نحن حقًا لا نحرز الكثير من التقدم. نحن في موقف خطير للغاية اليوم". وأضاف: "إذا لم يحدث ذلك، فسيكون لدينا محادثة من خلال القنابل، وسيكون ذلك أمرًا مؤسفًا".</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/75628" target="_blank">📅 18:39 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/naya_foriraq/75628" target="_blank">📅 18:39 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75627">
@@ -537,7 +537,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N9P_iMX1MEOthkPLtI9YTRRQ9Hdg3Zf_9MDl4NSA3lre5cg6ab5KCzFte8Ogt3wricefiQ7FnwU5_k0ppoSD_sVgtWnN4CSA3guPJV4jsbJvjXbi_Iyc2MH7RnNTrBWVdfGsyAGoQPo8y4uOSus-lA-AdxVDuyWMrO3Ae0Z5I32TsVaJ7MUbIKGAmVIyZfQTLCMNamO_IrezaxHvFuiaPmVbl3_IebCNrez1OnP1LId4tvN0r3b_XPg_BdTiXV3-iq7cdkiXUx3nPsC_dGtl8fAcAt06zTpzyi8WaLxUpoEMnemN8pFHRNj-kMM-6HC7ue7Hdy58AsM1vbaps4147g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🐦
 بيان للمسؤول الأمني لكتائب حزب الله أبو مجاهد العساف</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/naya_foriraq/75627" target="_blank">📅 18:17 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/naya_foriraq/75627" target="_blank">📅 18:17 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75626">
@@ -546,7 +546,7 @@
 <div class="tg-text">🇺🇸
 دونالد ترامب:
 إذا استسلمت إيران، واعترفت بأن أسطولها البحري قد غرق في قاع البحر، وأن قواتها الجوية لم تعد موجودة، وإذا خرج جيشها بأكمله من طهران، وقد ألقوا أسلحتهم ورفعوا أيديهم عالياً، وهم يهتفون "أستسلم، أستسلم" بينما يلوحون بالراية البيضاء، وإذا وقّع جميع قادتها المتبقين على "وثائق الاستسلام" اللازمة، واعترفوا بهزيمتهم أمام القوة العظمى للولايات المتحدة الأمريكية، فإن صحيفة نيويورك تايمز الفاشلة، وصحيفة تشاينا ستريت جورنال (وول ستريت جورنال!)، وقناة سي إن إن الفاسدة والتي فقدت مصداقيتها، وجميع وسائل الإعلام الأخرى التي تنشر الأخبار الكاذبة، ستنشر عناوين رئيسية مفادها أن إيران حققت نصراً باهراً على الولايات المتحدة الأمريكية، وأن الأمر لم يكن متقارباً على الإطلاق. لقد ضلّ الديمقراطيون ووسائل الإعلام طريقهم تماماً. لقد جنّوا تماماً!!! الرئيس ترامب"</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/75626" target="_blank">📅 18:11 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/naya_foriraq/75626" target="_blank">📅 18:11 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75625">
@@ -554,21 +554,21 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g6JlXavf0DeoXnnsvMwPOa8b4tYXfpM31jkRPeA5Sb7lYKhnnlaJ0R8_Y6d3F71IUU5tknob-t2T8i-E1GhRtRdA97UStAv1oHIvhPvp58ZBTXS221yoSGoG9mQzgHq97U7Oz8ydHvZWeg9D6m26xIIo90aPRUQhPYy9seeqrE8Ei86IGCkPk5IuXVfOAh-4lXQLktp0wDR1m8AqOahP1HYAcFoDfj8_Hx7Iac9n4Z9GKtbDpkfooxtryWaG6GefL1UeJvTjEMpyx9KgXesY0jxwKWDROb6lzThcUBrd8Ga7YmjB0kWXvszCx5mtvXJboPLZYxFVI7e0mbMobeYqZw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🐦
 بيان للمسؤول الأمني لكتائب حزب الله أبو مجاهد العساف</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/75625" target="_blank">📅 18:10 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/75625" target="_blank">📅 18:10 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75624">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">سوالف الگهوة
 رئيس الوزراء الباكستاني يزور العراق يوم الخميس القادم</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/75624" target="_blank">📅 17:54 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/75624" target="_blank">📅 17:54 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75623">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">🇮🇷
 ‏مصدر إيراني لرويترز: أميركا أبدت مرونة فيما يخص القيود المفروضة على البرنامج النووي، سنناقش القضية النووية في مراحل لاحقة.</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/75623" target="_blank">📅 17:27 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/75623" target="_blank">📅 17:27 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75622">
@@ -577,7 +577,7 @@
 ‏
 مصدر إيراني لرويترز:
 أميركا أبدت مرونة فيما يخص القيود المفروضة على البرنامج النووي، سنناقش القضية النووية في مراحل لاحقة.</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/75622" target="_blank">📅 17:19 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/75622" target="_blank">📅 17:19 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75621">
@@ -585,7 +585,7 @@
 <div class="tg-text">🌟
 وزارة الخارجية العراقية:
 لم يتم تأشير أي معلومة من خلال وسائل الدفاع الجوي والمعدات البصرية العراقية لاستهداف السعودية من الاراضي العراقية وفي هذا الإطار، تدعو الوزارة الجهات المعنية في المملكة العربية السعودية الشقيقة إلى التعاون وتبادل المعلومات ذات الصلة، بما يسهم في التوصل إلى معلومات دقيقة تعزز الأمن والاستقرار لدى البلدين الشقيقين.</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/naya_foriraq/75621" target="_blank">📅 16:45 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/naya_foriraq/75621" target="_blank">📅 16:45 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75620">
@@ -593,14 +593,14 @@
 <div class="tg-text">🇱🇧
 🇮🇶
 إعلام لبناني: قدّم العراق للبنان نفطاً بقيمة ملياري دولار لمنع العتمة الشاملة ولم تقدّم الحكومة اللبنانية إدانة للإنزال الإسرائيلي في صحراء النجف</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/75620" target="_blank">📅 16:29 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/75620" target="_blank">📅 16:29 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75619">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t3O0DD9fFgng-vMSUTSaOxbchFM9K9zWArW0_t_ySORm23VG20R-J2gO0y6ewpmozRpMS3MEmdLE9NSgnj8EbKB8qORUZN75Fg8XC_-_MRrIEHChTH2dONbt395YPrU2Q6iEBZuEuVGqpFmYebQDCTLcTTDkoNzw1QrSv7UFlfWo1jTJ6W6meySnLMO7Fd5N0P1IUWoybAVMRM1jls1ONWCdwMA1S-90HKp7Lk03vMPN_9pd4h-jK-p5I_ly5rsfGQ-kPuT6vRx1CQId4XVy36N1-ztwxIGyvlBwzEdKJ0xQDV-brWup_KVv94bJndrMucW0b3iEhllivWI1H-HsrA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رئاسة جامعة الإسراء توضح حقيقة الملابسات عن ما حدث في جامعة الإسراء الأهلية في العاصمة بغداد</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/75619" target="_blank">📅 16:11 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/naya_foriraq/75619" target="_blank">📅 16:11 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75618">
@@ -609,13 +609,13 @@
 ‏
 نيويورك تايمز:
 أميركا وإسرائيل تستعدان بشكل مكثف لاحتمال استئناف حرب إيران هذا الأسبوع، الاستعدادات هي الأكبر منذ وقف النار</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/75618" target="_blank">📅 15:49 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/naya_foriraq/75618" target="_blank">📅 15:49 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75617">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">صافرات الانذار تدوي في كريات شمونة ومحيطها بعد هجوم صاروخي لحزب الله</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/75617" target="_blank">📅 15:33 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/naya_foriraq/75617" target="_blank">📅 15:33 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75616">
@@ -623,31 +623,31 @@
 <div class="tg-text">🇮🇷
 وكالة تسنيم عن مصدر مقرب من فريق التفاوض:
 الأمريكيين خلافاً لما ورد في نصوصهم السابقة، وافقوا في النص الجديد على رفع العقوبات عن النفط الإيراني خلال فترة المفاوضات. رفع العقوبات يعني رفعها مؤقتاً. تُصرّ إيران على أن رفع جميع العقوبات المفروضة عليها يجب أن يكون جزءاً من التزامات الولايات المتحدة.</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/75616" target="_blank">📅 15:12 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/75616" target="_blank">📅 15:12 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75615">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">بعد منع ناقلة تحمل نفط عراقي من المرور.. المتحدث باسم القيادة المركزية الامريكية: قواتنا منعت ناقلة النفط آجيوس فانوريوس من عبور هرمز لانتهاكها الحصار. ناقلة النفط كانت ترفع علم مالطا ولم تكن محملة بنفط إيراني</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/75615" target="_blank">📅 15:00 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/naya_foriraq/75615" target="_blank">📅 15:00 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75614">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">تصرفات معيبة وممارسات غير أخلاقية من بعض المحسوبين على العتبة العباسية بحق رجل دين كرس جهده للعمل الإنساني وخدمة المظلومين بعد مشاركته في حملات دعم إنسانية للشعب الإيراني المظلوم خلال حرب رمضان، هذه المواقف النبيلة قوبلت بالتضييق والاستهداف داخل العتبة وانعكست بشكل مباشر على وظيفته حتى وصل الأمر إلى ظلمه وإجباره على التقاعد بطريقة تفتقر للإنصاف والوفاء لتاريخه ومواقفه الإنسانية</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/75614" target="_blank">📅 14:52 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/naya_foriraq/75614" target="_blank">📅 14:52 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75613">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">الانسحابات متواصلة.. انسحاب النائب عمار يوسف من ائتلاف السوداني.</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/75613" target="_blank">📅 14:43 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/naya_foriraq/75613" target="_blank">📅 14:43 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75612">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">انفجارات تهز رامون من دون تفعيل صافرات الانذار بعد هجوم بطائرات مسيرة</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/75612" target="_blank">📅 14:07 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/75612" target="_blank">📅 14:07 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75611">
@@ -656,7 +656,7 @@
 مستوطني شمال الكيان يطلقون تظاهرة يوم غد في مجمّع أرينا نهاريا تحت عنوان: «نناضل من أجل الشمال – ننزل إلى الشوارع» على خلفية تهديد الطائرات المسيّرة التي يطلقها حزب الله
 ثورة ياعلي ثورة
 😄</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/naya_foriraq/75611" target="_blank">📅 14:01 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/75611" target="_blank">📅 14:01 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75610">
@@ -664,13 +664,13 @@
 <div class="tg-text">🇮🇷
 وكالة تسنيم عن مصدر مقرب من فريق التفاوض:
 طهران سلمت عبر الوسيط الباكستاني نصا جديدا من 14 بندا، يركز النص الايراني الجديد على مسألة مفاوضات انهاء الحرب وتدابير بناء الثقة من جانب الجانب الامريكي</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/naya_foriraq/75610" target="_blank">📅 13:42 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/naya_foriraq/75610" target="_blank">📅 13:42 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75609">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">بلومبرغ عن صور أقمار صناعية: رصد نحو 23 ناقلة نفط قرب جزيرة خارك وهو أكبر تجمع منذ بدء الحصار الأمريكي</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/naya_foriraq/75609" target="_blank">📅 13:15 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/naya_foriraq/75609" target="_blank">📅 13:15 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75608">
@@ -678,7 +678,7 @@
 <div class="tg-text">🇱🇧
 🇮🇶
 إعلام لبناني: قدّم العراق للبنان نفطاً بقيمة ملياري دولار لمنع العتمة الشاملة ولم تقدّم الحكومة اللبنانية إدانة للإنزال الإسرائيلي في صحراء النجف</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/naya_foriraq/75608" target="_blank">📅 13:03 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/naya_foriraq/75608" target="_blank">📅 13:03 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75607">
@@ -688,7 +688,7 @@
 المجموعات الإرهابية حاولت تهريب الشحنة إلى داخل إيران عبر حدود محافظة كردستان
 تم ضبط ومصادرة كميات كبيرة الذخائر والأسلحة المهربة في الشحنة
 أي تحرك يمس بالأمن سيواجه بحسم وشدة والقوات المسلحة مستعدة لرد يبعث على الندم</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/75607" target="_blank">📅 12:58 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/naya_foriraq/75607" target="_blank">📅 12:58 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75606">
@@ -696,7 +696,7 @@
 <div class="tg-text">🏴‍☠️
 إعلام العدو: عمليات اعتراض البحرية لسفن أسطول الصمود تمت قبالة سواحل قبرص على بعد مئات الكيلومترات
 احتجاز النشطاء ونقلهم إلى سفينة أطلق عليها اسم "سجن عائم"، ثم إلى ميناء أسدود.</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/naya_foriraq/75606" target="_blank">📅 11:22 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/naya_foriraq/75606" target="_blank">📅 11:22 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75604">
@@ -709,13 +709,13 @@
 <a href="https://cdn4.telesco.pe/file/600e666909.mp4?token=q_KB1dwmbky9i7ckhk-NVZQRxFDQOi_oM4V8kHO4hghOlG6NMBFHD_dSxkoFriOsRzDt0f5irdQkbX5no1l1suLCIpV3oe8Yg_7RsrYB53JvPc6I2Py70JZlurm4aXDon5KrAFSYVb3Wu31G0MO-D5y35-ydqDtRB-dg9KFREp8Fhwf7BTykm96tpAHXpe02Y4lmCOj1QfyydUXgBvtu7S65wBa34Olqnuqazlm9d8SAmnR3M4Tc_fCnnqYwUkZhvzJMFYUwxWZ7UWwy-D5F6DjclV4PeLNmwlFxfW5XWuLKTvJJE7wgPSCZ7CjdgL801HjXHKq_u6EPAEd4HPFIAA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">الكيان المحتل يتدخل بشكل غير قانوني في المياه الدولية ضد أسطول الصمود الذي يحاول الوصول إلى غزة.</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/75604" target="_blank">📅 11:21 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/naya_foriraq/75604" target="_blank">📅 11:21 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75603">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">‏أوكرانيا تدعي : مسيّرة روسية أصابت سفينة شحن صينية في البحر الأسود</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/naya_foriraq/75603" target="_blank">📅 11:01 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/naya_foriraq/75603" target="_blank">📅 11:01 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75602">
@@ -734,7 +734,7 @@
 كل انتهاك للقانون الدولي الإنساني مثل حادثة مدرسة ميناب قمنا بتسجيله في المحاكم الدولية بعد توثيقه
 الترتيبات الجديدة في مضيق هرمز هدفها ضمان العبور الآمن وحفظ السيادة والحقوق الطبيعية لإيران
 لا نخاف من تهديدات العدو ونؤمن بما لدينا ونضع الخطط للمواجهة</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/75602" target="_blank">📅 10:52 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/naya_foriraq/75602" target="_blank">📅 10:52 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75601">
@@ -742,14 +742,14 @@
 <div class="tg-text">🏴‍☠️
 🇺🇸
 إعلام العدو: مسؤولون كبار أوضحوا أن الإعلان الأميركي عن تمديد وقف إطلاق النار هو موافقة رسمية على 45 يوماً إضافياً من العمليات</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/75601" target="_blank">📅 10:47 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/naya_foriraq/75601" target="_blank">📅 10:47 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75600">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">📈
 الرابطة الأمريكية للسيارات: ارتفاع أسعار البنزين في الولايات المتحدة ليصل معدل سعر الغالون إلى 4.5 دولار</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/naya_foriraq/75600" target="_blank">📅 09:57 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/naya_foriraq/75600" target="_blank">📅 09:57 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75599">
@@ -762,7 +762,7 @@
 <a href="https://cdn4.telesco.pe/file/b8ae5d7ef9.mp4?token=Xc6H6-huAaaN2rl98qu6mr4Z8a9JlqrIuCBJ4wh4P7hNdknQJFDgKCtY9BhT07ZcEJBYnTqS0qig1636ijczdx5qZ48PC-iqYBDYzhLwRQV0v05MBf9qrb1Vx9GHtWjklki313kmiIU5gkjFof17pYvQCdpfx-esGSvq21GPDTVf3dv4XA5E8-vm9C-Qdi6qvLUh6BPPD_1YV3ihW_WnJBysgKHmI-w0RAlLKUkMZFhFc2AIkwDAMTcyT426Ws_AnyWED70Du7pp-JOiX6uwbpvBsxcfzS9zKLnZ5LZpmgkQDc_ENnhinXrUBzfHeUbMXP7Q6fbZFPmuMp1ozAg4hkTvFi1LsbBGSZv4bK1xcLV8DSH6nSCs227--wDrBknUWo7DwszNBLiuBDp_kQc2-fAYdvxTr7YiaFWG3pyPxTpmhKSqVKo0kq0Al0YMcFz3BNwQ4ftGR0AtTFC8qj752c2Gbmg_P5SEwjletkAZJo7rbuAPYJyMXQW1K6XkueMeaaQrXGbcN3r3G4idmEdhrav9JVBbLml-5EaPPaslu_qHo-R62pOl5GW6c8PuSaWX8IUSTLUV4Mq1DKqKWXsLDTlo0QPcSaV0luSPYKePKQLIT2N9H11IIRUd9Ek4HgiatTV_RCMrPzl9Jnsxg3r1TPuOxr0j-TAmydeogj-bd0g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">تحليق مسيرات مجهولة العائدية في سماء محافظة ذي قار جنوب العراق.</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/naya_foriraq/75599" target="_blank">📅 09:45 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/naya_foriraq/75599" target="_blank">📅 09:45 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75598">
@@ -770,7 +770,7 @@
 <div class="tg-text">#ترفيهي
 دويلة ‏الكويت تدين وتستنكر العدوان الذي تعرضت له السعودية عبر مسيّرات قادمة من الأجواء العراقية
 🤦‍♂️</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/naya_foriraq/75598" target="_blank">📅 08:38 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/naya_foriraq/75598" target="_blank">📅 08:38 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75597">
@@ -846,7 +846,7 @@ pinned a video</div>
 <div class="tg-text">رؤية مختلفة .. أبطال حقيقيون.
 علمو اولادكم انهم قدوة لنا ..
 انتاج نايا على التلغرام ..</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/naya_foriraq/75589" target="_blank">📅 23:51 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/naya_foriraq/75589" target="_blank">📅 23:51 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75588">
@@ -874,7 +874,7 @@ pinned a video</div>
 <div class="tg-post" id="msg-75585">
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">انفجارات في السعودية</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/naya_foriraq/75585" target="_blank">📅 23:31 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/75585" target="_blank">📅 23:31 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75581">
@@ -902,7 +902,7 @@ pinned a video</div>
 <div class="tg-text">🔴
 🇺🇸
 القوات المسلحة اليمنية تسقط طائرة أمريكية من طراز MQ9 في محافظة مأرب.</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/naya_foriraq/75580" target="_blank">📅 23:04 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/naya_foriraq/75580" target="_blank">📅 23:04 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75579">
@@ -969,7 +969,7 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/a281c93fa5.mp4?token=eVHzsBKkxdqf4jIGb5EYLdaZk9Gq-dXIwsnGOuMigZlGAB81hOCTUtfpnn5xDy2gjGLFhvQJZ0837SZqlETiENnSTK9mZ5tFalRiQKH9_GZlFNv0re2Qa38wJNwvbOwTbvi4NWJVjoF21eQYClUnrxxmlFIW3V10P47aiH0rJRLGzREtKstmsWU8C4eN-Om2i-Xcv-vK0RsAEX_JrDj0be2Jhv4XCpu5jeIxiHfKaSpXog5JToODmRkACDx0SICPeZvIxUd7vYlRp_NQ1VpjTplgG9LqPpSarcb2ykmX1zFK-BVnYsP3Gm_rCv2Xpg3X28_HRhKqIz3se7sXNyaPUILIUKxk_cwBZL1rroYKALG3LWuUreD-Ou8xw72i1e_zIvXBCRqgBwFyeDCOW8-Lx8zJXvaebyiebYiEJ2Rwk1XISVcxwVoEo00lWEag4HENr4A08OB755QtrrzjrjNZeneezPvSY49BqpR_sVp6ro2uznc1_6AM3SF5y-mdCBaHD4zU5asxjl0NXhiTRFOq3KMavH4_pSw8mYNaSbW2f7hKSbsK4xG93cn3Id4iTadf-VHNxFI6vm9ObjMbvLbIBOora_xltZesedleH8gsMpjT-tuvuLPMmbfU9dySrmqrcWTBsiItbt35J090il_80VktlK3--6AxV3tspS0v1-U" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ماذا حدث في منطقة شنان قرب الاديان لمن هي الـ عجلات العسكرية المدرعة ماذا يفعل الأمريكان بالأحداثية  ‏37R  KV 750018  3478349 ما قصة هبوط هليكوبتر عدد ٦ ونصب خيم أمريكية في صحراء الانبار جنوب ناحية النخيب منطقة شنانه الاحداثيات ‏38R  KV  69654  98230  لماذا…</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/naya_foriraq/75573" target="_blank">📅 21:19 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/naya_foriraq/75573" target="_blank">📅 21:19 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75572">
@@ -1024,7 +1024,7 @@ pinned a video</div>
 <div class="tg-text">⭐️
 روسيا:
 القوات الأوكرانية قصفت ورشة النقل التابعة لمحطة توليد الطاقة النووية في زابوروجي وشنت هجومًا بطائرة مسيرة على محطة "رادوجا".</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/naya_foriraq/75566" target="_blank">📅 19:23 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/naya_foriraq/75566" target="_blank">📅 19:23 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75565">
@@ -1032,7 +1032,7 @@ pinned a video</div>
 <div class="tg-text">🤺
 حزب الله:
 مشاهد من عملية استهداف المقاومة الإسلامية بتاريخ 14-05-2026 تجمّع لجنود جيش العدو الإسرائيلي في موقع رأس الناقورة العسكري جنوب لبنان بمحلّقة انقضاضيّة.</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/naya_foriraq/75565" target="_blank">📅 17:30 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/naya_foriraq/75565" target="_blank">📅 17:30 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75564">
@@ -1091,13 +1091,13 @@ pinned a video</div>
 <div class="tg-post" id="msg-75557">
 <div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">نيويورك تايمز: دور الولايات المتحدة في الأمن العراقي كان جزءاً من حسابات إسرائيل في قرارها بأنها تستطيع العمل سراً بأمان في العراق.</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/naya_foriraq/75557" target="_blank">📅 14:51 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/naya_foriraq/75557" target="_blank">📅 14:51 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75556">
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">نيويورك تايمز: تشير المعلومات إلى أن قاعدة واحدة على الأقل من القواعد التي عثر عليها عواد الشمري كانت معروفة لواشنطن وهذا يعني على الأرجح أن حليف بغداد، الولايات المتحدة، كان على علم بأن هناك قواعد اسرائيلية على الاراضي العراقية.</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/naya_foriraq/75556" target="_blank">📅 14:50 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/naya_foriraq/75556" target="_blank">📅 14:50 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75555">
@@ -1115,7 +1115,7 @@ pinned a video</div>
 <div class="tg-post" id="msg-75553">
 <div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">‏نيويورك تايمز عن مسؤولين عراقيين: في كل من الحرب القصيرة العام الماضي والصراع الحالي، أجبرت واشنطن العراق على إغلاق راداراته لحماية الطائرات الأمريكية، مما جعل بغداد أكثر اعتمادًا على القوات الأمريكية لاكتشاف النشاط العدائي.</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/naya_foriraq/75553" target="_blank">📅 14:43 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/naya_foriraq/75553" target="_blank">📅 14:43 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75552">
