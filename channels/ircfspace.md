@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-31 10:14:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-31 14:03:13</div>
 <hr>
 
 <div class="tg-post" id="msg-2365">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 6.21K · <a href="https://t.me/ircfspace/2365" target="_blank">📅 08:39 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/ircfspace/2365" target="_blank">📅 08:39 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2364">
@@ -320,7 +320,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 6.78K · <a href="https://t.me/ircfspace/2364" target="_blank">📅 08:31 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/ircfspace/2364" target="_blank">📅 08:31 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2363">
@@ -336,7 +336,7 @@ alirezaer
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 6.82K · <a href="https://t.me/ircfspace/2363" target="_blank">📅 08:27 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/ircfspace/2363" target="_blank">📅 08:27 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2362">
@@ -352,7 +352,7 @@ arashzd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 7.24K · <a href="https://t.me/ircfspace/2362" target="_blank">📅 08:24 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/ircfspace/2362" target="_blank">📅 08:24 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2361">
@@ -366,7 +366,7 @@ arashzd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/ircfspace/2361" target="_blank">📅 09:00 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/ircfspace/2361" target="_blank">📅 09:00 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2360">
@@ -385,7 +385,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/ircfspace/2360" target="_blank">📅 08:56 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/ircfspace/2360" target="_blank">📅 08:56 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2359">
@@ -401,7 +401,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/ircfspace/2359" target="_blank">📅 08:59 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/ircfspace/2359" target="_blank">📅 08:59 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2358">
@@ -421,7 +421,7 @@ t.me/PersianGithubMirror/5227
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/ircfspace/2358" target="_blank">📅 08:50 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/ircfspace/2358" target="_blank">📅 08:50 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2357">
@@ -438,7 +438,7 @@ apps.apple.com/us/app/nexatunnel/id6766783641
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/ircfspace/2357" target="_blank">📅 08:38 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/ircfspace/2357" target="_blank">📅 08:38 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2355">
@@ -454,7 +454,7 @@ aleskxyz
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/ircfspace/2355" target="_blank">📅 20:07 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/ircfspace/2355" target="_blank">📅 20:07 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2354">
@@ -472,7 +472,7 @@ NimaQazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/ircfspace/2354" target="_blank">📅 20:05 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/ircfspace/2354" target="_blank">📅 20:05 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2353">
@@ -491,7 +491,7 @@ NimaQazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/ircfspace/2353" target="_blank">📅 16:24 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/ircfspace/2353" target="_blank">📅 16:24 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2352">
@@ -506,7 +506,7 @@ NimaQazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/ircfspace/2352" target="_blank">📅 16:21 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/ircfspace/2352" target="_blank">📅 16:21 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2351">
@@ -526,7 +526,7 @@ play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 55.5K · <a href="https://t.me/ircfspace/2351" target="_blank">📅 10:02 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 56.3K · <a href="https://t.me/ircfspace/2351" target="_blank">📅 10:02 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2350">
@@ -540,7 +540,7 @@ play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/ircfspace/2350" target="_blank">📅 09:21 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/ircfspace/2350" target="_blank">📅 09:21 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2349">
@@ -555,7 +555,7 @@ play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/ircfspace/2349" target="_blank">📅 21:08 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/ircfspace/2349" target="_blank">📅 21:08 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2348">
@@ -573,7 +573,7 @@ play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/ircfspace/2348" target="_blank">📅 08:49 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/ircfspace/2348" target="_blank">📅 08:49 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2347">
@@ -590,7 +590,7 @@ play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/ircfspace/2347" target="_blank">📅 08:31 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/ircfspace/2347" target="_blank">📅 08:31 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2346">
@@ -611,7 +611,7 @@ t.me/PersianGithubMirror/5051
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/ircfspace/2346" target="_blank">📅 23:40 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 35K · <a href="https://t.me/ircfspace/2346" target="_blank">📅 23:40 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2345">
@@ -630,7 +630,7 @@ t.me/PersianGithubMirror/5051
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/ircfspace/2345" target="_blank">📅 23:28 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/ircfspace/2345" target="_blank">📅 23:28 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2344">
@@ -645,7 +645,7 @@ t.me/PersianGithubMirror/5051
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.1K · <a href="https://t.me/ircfspace/2344" target="_blank">📅 09:21 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 38.3K · <a href="https://t.me/ircfspace/2344" target="_blank">📅 09:21 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2343">
@@ -663,7 +663,7 @@ t.me/PersianGithubMirror/5008
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/ircfspace/2343" target="_blank">📅 09:11 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/ircfspace/2343" target="_blank">📅 09:11 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2342">
@@ -677,7 +677,7 @@ t.me/PersianGithubMirror/5008
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/ircfspace/2342" target="_blank">📅 09:03 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/ircfspace/2342" target="_blank">📅 09:03 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2341">
@@ -693,7 +693,7 @@ imanraisii
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/ircfspace/2341" target="_blank">📅 08:44 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/ircfspace/2341" target="_blank">📅 08:44 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2340">
@@ -708,7 +708,7 @@ imanraisii
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/ircfspace/2340" target="_blank">📅 08:38 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/ircfspace/2340" target="_blank">📅 08:38 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2339">
@@ -725,7 +725,7 @@ markpash
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/ircfspace/2339" target="_blank">📅 08:28 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/ircfspace/2339" target="_blank">📅 08:28 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2338">
@@ -741,7 +741,7 @@ AminSabeti
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/ircfspace/2338" target="_blank">📅 08:27 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/ircfspace/2338" target="_blank">📅 08:27 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2337">
@@ -756,7 +756,7 @@ vahidfarid
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/ircfspace/2337" target="_blank">📅 08:25 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/ircfspace/2337" target="_blank">📅 08:25 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2336">
@@ -771,7 +771,7 @@ pey_74
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/ircfspace/2336" target="_blank">📅 08:25 · 26 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/ircfspace/2336" target="_blank">📅 08:25 · 26 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2335">
@@ -799,7 +799,7 @@ PawnToPromotion, mahdavi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/ircfspace/2335" target="_blank">📅 16:26 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/ircfspace/2335" target="_blank">📅 16:26 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2334">
@@ -816,7 +816,7 @@ patterniha, MatinSenPaii
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.1K · <a href="https://t.me/ircfspace/2334" target="_blank">📅 16:18 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/ircfspace/2334" target="_blank">📅 16:18 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2333">
@@ -847,7 +847,7 @@ patterniha, MatinSenPaii
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/ircfspace/2332" target="_blank">📅 19:39 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/ircfspace/2332" target="_blank">📅 19:39 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2331">
@@ -863,7 +863,7 @@ mosi115
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/ircfspace/2331" target="_blank">📅 19:36 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/ircfspace/2331" target="_blank">📅 19:36 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2330">
@@ -911,7 +911,7 @@ alirezashirazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/ircfspace/2328" target="_blank">📅 19:27 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/ircfspace/2328" target="_blank">📅 19:27 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2327">
@@ -935,7 +935,7 @@ farhad_mottaghi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/ircfspace/2327" target="_blank">📅 19:25 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/ircfspace/2327" target="_blank">📅 19:25 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2326">
@@ -952,7 +952,7 @@ mamlekate
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/ircfspace/2326" target="_blank">📅 19:21 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/ircfspace/2326" target="_blank">📅 19:21 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2324">
@@ -985,7 +985,7 @@ aghplt
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35K · <a href="https://t.me/ircfspace/2323" target="_blank">📅 08:55 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/ircfspace/2323" target="_blank">📅 08:55 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2322">
@@ -1075,7 +1075,7 @@ t.me/PersianGithubMirror/4816
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/ircfspace/2318" target="_blank">📅 16:35 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 32.4K · <a href="https://t.me/ircfspace/2318" target="_blank">📅 16:35 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2316">
@@ -1092,7 +1092,7 @@ t.me/PersianGithubMirror/4816
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/ircfspace/2316" target="_blank">📅 10:26 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 39K · <a href="https://t.me/ircfspace/2316" target="_blank">📅 10:26 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2315">
@@ -1184,7 +1184,7 @@ github.com/ProAlit/aio-downloader
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/ircfspace/2309" target="_blank">📅 21:25 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/ircfspace/2309" target="_blank">📅 21:25 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2308">
@@ -1200,7 +1200,7 @@ itsmralii
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/ircfspace/2308" target="_blank">📅 11:45 · 21 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/ircfspace/2308" target="_blank">📅 11:45 · 21 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2307">
@@ -1249,7 +1249,7 @@ t.me/PersianGithubMirror/4637
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/ircfspace/2304" target="_blank">📅 12:30 · 20 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/ircfspace/2304" target="_blank">📅 12:30 · 20 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2303">
@@ -1270,7 +1270,7 @@ ehsan_369
 
 <div class="tg-post" id="msg-2302">
 <div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ceSXUPMyRAILctG-72GgAQlowIIbP0j_4ITm8NZfdl5wxl25JG1YFv5jQXj7-O8UFNgU7DED8qXqgyHcb6cst8cEqOUOCX0q3OrFcMG2wB_OB7MD1JZpgiYjXDNU9yYqa2Dh-hA9Mq7R-AWiy1MM0lYU_ggDraHUnM5Oaz32EtXfryA51riTD-CJIAzNkedSLXsKR1TDVZmfdi2qKzQiZYUvQRDRRRLglUKLwIKi7ay3ig6z3RfAknXk42zkwkA9IfFFTjTM4_AxAZDtG6LM_fiLO7j4wJbRnYtuK7iwc5SHOovaOvrh6961Kl5QAcD-Uymd7f-NUK46IbtR0nRSwQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FXeIuEM--b5eAyP2ABIZmevbHPzngg4Wf7VFesti7wMTxTwuI0qQDHZFcPCvAhiq9lrVUS_csJOtGPK-EMI5onVUATbC1zrDYpYmqHjQYxP32bPC_kKBmkpT3JTpN1zpKFPn58Yp7Uvlx_N7WutsBuGYsre1n3pvUagm7TXJOUWufVYOzR05LcQY6a0IMklbL6gEpGDopCbPbZmqE8nIdJEKTSm42yhJ9kyWUiFsN0auADypAb-a19aXXC2_dRVtdF0fiQ5BBkTyl4qCRIbj-z1fG7dD2Qsvn3c7fE9P_c6jZamFeD5WXMrbw_KPVs1G4CA-_2NlgJCqCYT_grcyAQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تسنیم نوشته تنگه هرمز فقط مسیر نفت و کشتی نیست؛ بخش بزرگی از اینترنت و تبادلات مالی دنیا هم از کابل‌های زیردریا رد میشه، که از اونجا عبور می‌کنن. پیشنهاد داده ایران از این مسیر پول و کنترل بیشتری بگیره؛ یعنی برای عبور کابل‌ها مجوز و هزینه تعیین بشه، شرکت‌های بزرگی مثل متا و مایکروسافت مجبور بشن تحت قوانین ایران کار کنن و تعمیر کابل‌ها هم فقط دست شرکت‌های داخلی باشه.
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1298,7 +1298,7 @@ ehsan_369
 
 <div class="tg-post" id="msg-2300">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/J9kZ0UaKlNnzHJMgxzc50U-EYMePgMYMwWqL-yKMk3mwqFWSpk3sL2Q1IqPFqb94KJnJS9-3MyPd3sIozQbLaGd8pg4fm6oEIdpkrDnQXYmWvy3ErmTWiC01ohoKjvRvqQbL9clSePfhAUB-rFPNo8HMaa12enZEE47IypsBtX7fcWajkmViVyjSfd5w69es4V-jFWJnsBrrjbw0hIFmIyZwBstxklM_E2CZLzIyjSJvJhljCBMkjHJL8Ov4cKdfGKlAMWIejlsWFbMAyUlo-HV1UEFtyHBoe03khlYHiMeRWaRLVwkswHtxLHNwprvjWuyOHhTUM1styCQcUbnwZg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HrfzLcghMWgM-iSzW3zaO6_rK4HkyndC6IstDvH5ZJALOhQ-Aqs776zDmvO9nyZgHNei9vkhLhx09BimTLeG1-a9GflIXwpSC_D3e3upzRJS8J0mFEsLOXBqykOWrW0ErNjftKcZF4pIK1TmtwcOXAi1AA4GqyR1CeSlFI_Wonl2SNEFEmDSk02UUQCtiP-GrNc2fnPYXt6i1QWgAz0ik1ElbjOTlFmdoBFcI3VUO8yFhKibSZheFa4WXfwQ4UixjanxEkcUBTEORJlXAQVndO6zondo3xYrTLTBbTxbfvIG4NmetKmjcGgeFP09f3rogrXbJmg5i7uYdgTer7A8-Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه ۳ از اپ متن‌باز و رایگان TeleMirror برای "دریافت آخرین مطالب کانال‌های تلگرام در شرایط محدودیت شدید اینترنت" برای ویندوز، لینوکس و مک منتشر شد.
 در این نسخه نمایش پست‌ها بهینه‌تر شده و مشکلات مربوط به کش تا حد زیادی برطرف شده، بخش تنظیمات به برنامه اضافه شده و امکان بازگشت به تنظیمات پیشفرض فراهم اومده. لیست کانال‌های پیشفرض افزایش پیدا کرده و علاوه بر نسخه Lite، یک حالت Normal اضافه شده که تلاش می‌کنه در صورت امکان تصاویر فیلترشده رو هم نمایش بده.
 این برنامه فیلترشکن نیست و بر پایه دسترسی‌های فعلی وایت‌لیست اینترنت عمل می‌کنه، بنابراین ممکنه روی برخی از اینترنت‌ها قابل استفاده نباشه.
@@ -1313,7 +1313,7 @@ t.me/PersianGithubMirror/4599
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/ircfspace/2300" target="_blank">📅 18:57 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/ircfspace/2300" target="_blank">📅 18:57 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2299">
@@ -1331,7 +1331,7 @@ t.me/PersianGithubMirror/4599
 
 <div class="tg-post" id="msg-2298">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/C1CFsSi9qFPTUBbIawIQNXbKZXyccM2Jp7RpVWNZwSFBjrNQ9g9zZyHDbNw-Q0V1D4lKG0bf6kk2DWrUpkgoM5f1kKV70bEBafq_D7Slf4Yak2Njaa2i3B9WAi1uxVtyjIyyyFrlORLQNUJur_TVQ3VKoRw_O80tT7qnx78wxvY5r30ZEMZGyOXSVWGslwqX5xqCDJjIp2qKUNebsRHsSZFCkqdB5Kc14VDErgQwIXWwHtvV71_6vciSApGnBjAwsNl539lOB7Q6Sg7-CXWKANHVA0lk_GiJhHWpX3p2nWSCb4RfpXx03pefYLgHYRp8KsS50xH4QPJqzs70CZ0vCg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/umuP5mNgSFznKxkFcZNJ05zDFYSG1UklITefmvakTexAncoaF5Ql4oAfqzB5tmAiLdNlNr5w7kFdmA4Kg2KfLDGDhZBfJuIJlHyEvDXkPMbOc7T3EfgQ50RNaaKuPftXxorYZOY_sUdBTLvoIYMwJzGDKMk4-p01iyspGD2UJnS0GRGJUYP38mYib581zUSu_YDAuBtgH3VjbhcLjTqQFdBGpcpEjzm-l2vGENPYVBNf9LGjYpbVFD0lG_ujbZYewZMpVKmktz3C8A0uBVu_t-eBThhsDBTDC5NooSQdUL-NHDU_uxAfLI2rq9MFN4UWRsyjRYFIZxLX7cP0Hqu1HQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یعنی خاک بر سرتون (پیامرسان‌های بومی) که با اینهمه حمایت و در میدانی بدون رقیبِ جدی هم عرضه ندارین کیفیت خدمات دهی، پشتیبانی و توان زیرساختیتون رو ارتقا بدین و بعداز اینهمه سال سابقه، آدم نمیتونه ۸ مگ فیلم ارسال کنه.
 بعد از خودروسازی، باید شماها رو هم دومین فرزند لوس و بی‌خاصیت کسب و کارهای داخلی دونست!
 ©
@@ -1362,7 +1362,7 @@ kamran_falahati
 
 <div class="tg-post" id="msg-2296">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/g3D1RYmYyurcHOcZ1h4PCtbUHgNq1BTIgN1fYj6MoaEPXett0j53T-qv71NFXU2FbEqnjvp4Q4Lr2uoiQbS-g_IhdHBosTHOuWTcSqpKuTmjleegLw5OMabx9oqfUWYc4o6dFGiPYg8TVv3pJ1f6HRfysx5q8FCjdTUj5-pJXr1k32CUEo6VIawWc6e9pWbJI0lIS65IavvsVIt76_aT0wQpfsB4WBRR0eLY6uq4j9ZIrdk_qTA_2m6BtceDPgJs9KHe7_n4Uv_sa4VEK1xujLm2utUbCAfRDJX2Rs3foTvqDn1mNCVIyBkAUYvYT-CdIbfueSmMQO55PdWlWmX7EA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/t9wLPB0pMOueOTf8JDpjeJIMAPT4r6UtJ_3bUKtVGdxu_lLbb2QPJix4ljBiyvS_llvzxZ3oY90Y3-BEHNOr65dKYMa3uKFjr1Kq1XY2ZkkJKeW8C97RII2zbrnPmEOai5usJweTPOx9kp-NtNV4fyQ8fNYO6hMTX8bfGyQg4DIzxMIq0ykHKHljud5lcED-X5leN0ikVgdaRQUzchi8ybYak6EQLU-H-8ClacC3kBFXDLfWyXO2LYdweel2c19gavonATDjbxxrGT-Nd8SdpDxODUo8XQ4ZMecPmTwz0c9ZbTSywMFKOKZnUMhf3Wt8gjxhVBKgwzPDo_BHCnuSWQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ متن‌باز و رایگان Pigeon یه فورک از پروژه تله‌میرور برای macOS هست، که از طریق اون میشه بدون نیاز به فیلترشکن یا لاگین در حساب، به محتوای کانال‌های عمومی تلگرام دسترسی پیدا کرد.
 👉
 github.com/MaroMushii/Pigeon/releases/latest
@@ -1380,7 +1380,7 @@ t.me/PersianGithubMirror/4500
 
 <div class="tg-post" id="msg-2295">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Dk7yBhtaZCqvjmG_Xq9CVO1V7AvN8L5hLse9fRH4b_y1h1IS5WooSD_sHmoAcLF62S3afh90OpsscXgx95VW_DCurTqtXNy5nbQu9ql8676b6r7XUkuPQ8gRqos4z5msh_yKIj7iCw7OyDTvjPPQ4DWt7XKq4hxAED50lGdW1c2nyImcYNJfjja6VOvWUJKd8cFBmiROSwTCKBBkPrNTwLJSJB8WAL7p1s3XwTw4kLTY2PFafDPRDcwAPQmX_R1BRGF5bwOB0XwA0RBFC4Fj5Y2XGjqv_SqRVVHvubVeizYa-EZAhoWtDHKnd5Z9pKhl0zrQUenAlczxS3BPyPYKvw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kLSjN_bYlvPPGDY77VloDoCHiuUevLCprLn_gGsc8cgYnQUfOsOV5TSmCD5sFoqcFaGn8G8jl_FzlgGtoW0ml-h0XgiaJ3SKJIoSaz7NaK4bKmZ0JeG9hUdOsGcFOfowvkdrfqhE6TNrd47tR2abAC6RCDcA5BjG_JZ5FFBQRXNdDY3eQ0-NDMccTlkkmRylSg7laui5TxXq0pJF1UwqjxYcSpRrLwBpvzj2yjkx4cbb1qNTCRaTMEp1N6GmjkmGDu4CN9ry1Pnmcy9x-xOfYXz0hLEDYKHBU5hygyYePpNVnhvCOA85rnj_jLyCEXW-YtgqSUKweqb43AfhxocI3Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پروژه Youtube Sandbox با استفاده از GitHub Actions بهمون اجازه میده که فقط با ارسال لینک یوتیوب توی کامیت‌مسیج، فایل ویدیوی موردنظرمون رو توی فولدر Downloads (داخل مخزن) ذخیره کنیم.
 👉
 github.com/iphoenixon/youtube-sandbox
@@ -1391,12 +1391,12 @@ github.com/iphoenixon/youtube-sandbox
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/ircfspace/2295" target="_blank">📅 17:36 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/ircfspace/2295" target="_blank">📅 17:36 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2294">
 <div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sDjifunQK8y2f1mZGs0LcbGnCVYNtqacBQehLChklNI8PgMhaf6KahYOl9StZd1hg-DCh0Ii__ZQDJuTf8dD6oruSa9dMxipKVCeXdjhD2tQKmWtnvDb1IDWBkfhvgkVwzT9IswCP_Ox8aSLsNXASR8XHsZNFIdD_g5A8GaDAJsZqgd_INNlxQq4T9-H-xo399O1PVUG6TA-nr7xfZsRkjjW0jjp20hUX_JkyNHN-mxIv5cJWj8XeA9dHQ9B0B0IZETaKHOx9repMksz8ztFl3VRkdGsZnTyaCORZiwCnmdKO6B544GT6ocURstxHL-VnNf3OczVqhP9yioP37pu2w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Iy5FF5a-nmljULalvb3vM_Gk1i92alJyV_8lHdkqiLD5bXEeSxClKl9nCtUN7NWjfQpDI44tGGaYgNx_LJE-F1ly6XIhqV3cdAalNnx11qHyS-7xfpnpbjTEi1AGwqzVAjqfPjKFRjVk-9Pw91ubv-8s9Fd3QoXJvSoZ0ry3oS_vpp3cDA7tE3tb1WwwPfYc70juThg4Vxkw5yTTQV12gdjy9McMs2lmtF9UnwxswqoakcxG-5cYEZBJpDwrBuXR8Rt4ZqJHHAn61TwVoX-yo_Rxr1TCa1CuvSXDVIXrtzeDppzDW6fp1sodxRFM4IFNezUSC4irbwCE89W3KGMr5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگه گوگل براتون باز میشه و در وایت‌لیست اینترنتتون قرار داره، می‌تونین خیلی راحت با نصب این کلاینت اپن‌سورس به گوگل درایو در اندروید دسترسی داشته باشین.
 👉
 github.com/aleskxyz/Round-Sync/releases/latest
@@ -1409,12 +1409,12 @@ t.me/PersianGithubMirror/4489
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/ircfspace/2294" target="_blank">📅 17:26 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/ircfspace/2294" target="_blank">📅 17:26 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2293">
 <div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lYVYCu0Iy3Fz95lC3x8bYrZTspuCT4EbcvCIgF2MdKE4VAMIwHj3dM-6Dn6Ur8REsTbTJJ3JMaGO_PBmZNrnp0kT4ykM4C1QImwO7g2ThPvVRrUwmKHff88WJbHew3rNsNBs2iyIoE1VQoxrhwXD4nFIaoH7b5FRc3xfFQV6s4BPFxbjBzGGDdPZZj_5lLCI6D_hpow2-Sp1Y4FCfvYkGHgit5Un5ksQBfXQc2RfcUlQtdN6VdsdvQqeye8EUBGZkpw3SvVe_u0yU_oyNV_SlPVeoQBd1ynDLzBQFpwooZ-tVIf_b5wpstHMyLR5kP3igKkqs3nZQsbIeFStIhOXbw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vnj4ePYI0gJOGVhwG1R0IuMw0xiU3rtKP_Nt4fNwUouy-A_o0zmE-IMmSmO9mbfHw3DwbiYNIlw6yZeS0nCmswBn-I6Z_t8Qmi7rTCqb2kIyy54ew-RF2QdeqCI-UIAdsKmYam0fNdD5XoqHpCk98LBrSaJGvQ1d3rlnLgLMBVCVF5iHd4I390KtIPfag5NszNu1uEpp22mBHLvvE-R9FJDkxNaoCFRdUhFiwT8j5i5DUdHFLkqp-gwCd_J5WoHMyvtOcm3TdrT27JscY7C3tg2VnpV0bw_w-BTi__6regl4kgYre3M7-dVhielTRNzBbP5iuanH8Rjvkaj85hJ9yQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آپدیت جدید کلاینت ZedSecure از طریق گوگل‌پلی در دسترس قرار گرفت.
 در بروزرسانی جدید این‌برنامه پشتیبانی از پروتکل DNSTT اضافه شده، هسته ایکس‌ری رو بروزرسانی کردن، بخش تنظیمات تکمیل‌تر شده و یک‌سری از مشکلات برطرف شدن.
 👉
@@ -1448,7 +1448,7 @@ Yet a large part of the international community still chooses to turn a blind ey
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33K · <a href="https://t.me/ircfspace/2292" target="_blank">📅 16:29 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/ircfspace/2292" target="_blank">📅 16:29 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2291">
@@ -1481,7 +1481,7 @@ DevYara
 
 <div class="tg-post" id="msg-2288">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/LpDlJhJz91MEkH1o5cb3viTyBxop_8dw9i_8ZQnEakeFP6U6y1cTtLguhjUceGS1kF2DScitFzy2MqICd5fNj61rL1NhtKrhWQN40bncff4bpkFVC0Ccp1WRp6v7OY-4fxYIzrX6Fp_yYIXj4GktO0ZpKqu79sr0JsLxHgE_vmSslzFJ-LKcrzaFwyArdWKnTg1X_WupPTnGxs31Oabv1J6OYt6y2nj2tVTGoWvXewSQFB21adOT1QgYieCIfEEGK8KvrbXTQ0bq28r9uSXDTXnQtKTGzlffXmcSbSC7wzVX-U944WNU8cA63wRFcU3kWcE_vqGu7QT_ZzaJLASjEQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WT-DF5mc9t207etkdaeyX37tM8PH3x015R_KT588A2Su246xAQ2I7Lh0T6NUk1fAqmgKRbD4RYJqFUa0ofk0V1Z7q5w7iEYf1BW3xPOwDzG3RMCdo7i-SJqvqL0Yk0CeooZ7tjuzAzo4ipG3Qsn2EZe_-QM0umUDHuWQ9rQyz9C2XTQeoywCGKUv7Xoh4cWKTA_np3jekMdT4rsDN01FPummxHLXWcgwpZrDIZFM5CsIcqvq5XZNeoboJ64K9VJlvCkT2y43brfSrs1TRZ6YxmOm2Zaxxt4_eL8Wa4WnaZY3YUcxT_sD1n1tOCdj5DRQrHQRAzsSsPOWbxsHdlnDmA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسماعیل بقایی شاکی است که چرا با وجود اینکه که پول داده، تیک آبی اکانتش حذف شده و ...
 در همین حال میلیون‌ها ایرانی پول اینترنت دادند، اما بیش از دو ماه است که یک شبکه داخلی که فاصله زیادی با مفهوم اینترنت دارد بهشون تحویل داده میشه و از دسترسی به هزاران سایت و سرویس محروم شدند. سانسور اینه!
 ©
@@ -1524,7 +1524,7 @@ alirezashirazi
 
 <div class="tg-post" id="msg-2285">
 <div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hl6m-eEnJic4M4GbijKC2SMEP4pgN8dQqATQi_SkOgnp66IYyj8aYhsBMstoirZJqc_sqPZ3mY8iiO7-8srhw8St36hc49MsARlIAkx-ya5dAd8X-QYhkc3lwUJDPPa-nQFgl3qXE5MzBMajV6AylYom1FpwEIPlAUWixy0LNTaYdz2MG1DfKaEhBdz_JZniwLmxi8gziAapRyXoVLj8AIC-pQVgIuJGWv61Af8XhEQFhrx6UvLIZPdyjFSNz25jE9zlskkJqYhfHqCKeUUNPD8Jas1k8rt87gOXU7KsgJGKZUqJIqqB6pREgFWAxkQVNw4lQ3IQKA7_EOyG372ZkQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/D8HvOc6SGF9h9jqcz_HR9hUuKU8GmtmCD1pOTxf_UQkhh4B35ZeonrboDy-EMb7Cnk9qJokc_QXymu7mDkkDO-BkAQvlelCmCtl8vs1kgx8m-98fAg4cofvBICij08E6NImpXalGAo_4QXJpS47mhrFxhOjobNzSatl6PUOu_cjLE5vbqZJ6XnDi-ls_A3cs6-TITXZFhNY3nwdlyCI4TSsb3nA_2eEPTCJu1kTjD9rS-bUC5tioustDc3gbrDr4hMgL4Wy5EASZGIB1MWUhnGm6-eHyxPMYaSzx5GjcDd7SD6P4HGewWd5ljw_txK6dqkCBQvUoOURnR_CwFhtYPw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای شرایط فعلی اینترنت ایران که روش‌های عمومی دورزدن فیلترینگ عملاً کارایی ندارن و اسکمرها و کلاهبردارها زیاد شدن، مدتیه یه مارکت‌پلیس برای خرید و فروش کانفیگ راه‌اندازی شده تا خریدارها و فروشنده‌ها در یک بستر متمرکز و نسبتا شفاف با هم ارتباط بگیرن.
 طبق توضیح تیم دیفیکس، خودشون فروشنده نیستن و تمرکزشون همچنان روی ارائه و توسعه سرویس رایگانه. این بخش صرفاً برای وصل کردن فروشنده‌ها و خریدارها از طریق این فیلترشکن و حذف واسطه‌ها ایجاد شده و فعلاً هم برای تراکنش‌های رمزارزی مرتبط با ایران کارمزدی دریافت نمیشه.
 در این سیستم، مبلغ پرداختی نگه داشته میشه و برای مدتی بعد از تحویل آزاد میشه، کاربران میتونن به فروشنده‌ها امتیاز بدن و تجربشون رو ثبت کنن و کانفیگ‌ها هم بصورت رمزنگاری‌شده تحویل داده میشن. البته محدودیت‌ها خرید بصورت رمزارز رو دشوار کرده، اما افراد خارج از کشور میتونن برای خانواده یا آشنایانشون داخل ایران خرید انجام بدن و فایل کانفیگ رو براشون بفرستن.
@@ -1577,7 +1577,7 @@ defyxvpn.com/download
 
 <div class="tg-post" id="msg-2282">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eGh6QwECOLFCybftuJ-iV1dFeJG0_xIH2M0oyznVgRvkhJLCqWQ8nDXKTbP-tvqkd5oJuRao-KgWbZ0u1MSFjBC-Ly_isV7USo22iB4i9-q_9-rSnlieG8OyI4jPar6bjMAHY_0kUWsUSqbII2Wm5tPql2YdEhXS6Yzij1r99vioJ2LIkSKgfbZnn7gMcN9fSZK81itOiJRSc_dmwaPvvws8VKldMA6xUusciFdjpY__o9a4ESyP-GqjOn4n1ivG6yTA_d6U0DR-N03BEsOR_i2qf9dOmJDyDJ6Ky87287rvuqDHjjj-o5BQQtrn-wB4VcY03uG3s2b3xULo0pDQKg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DjoSDhcxhAc1-dTdtpIxaj0o6bFE_U9wh8b45DuPFbslQ9YIUBRuZZLttzpjcG_tOgHYA8Fe0My6iQzHCV2xS3fMK7kAx25f9zWaxGdl9-ixXsM6OmDngYEWNyuJG5etUQuhC7sUK5XF12POjbfr4ZG_3t8b3Oh9QehRjKyCDVWalm4vMrW21oJVqt2zZhANTGSqaskNd-SYekJYuvieZRAiaUTxbdJ7G0Ra-qPEZAqD56C-qpJGQjpkyRcYLlNU7O9EdVO8AoOKd9_DwLzWwrq7o7palZAvC1eXiZF3fdWW2Hk-Hbtbg6TsmR5UlTVutGi-pt9Vnm5jr3IMCqEpNw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در آپدیت جدید از اپ theFeed امکان فراخوانی محتوای کانال‌های عمومی دلخواه فراهم شده و پشتیبانی از اندرویدهای قدیمی‌تر، حل مشکل رندر نکردن نظرسنجی‌ها و ...، بخشی از تغییرات جدید هستن.
 👉
 github.com/sartoopjj/thefeed/releases/latest
@@ -1595,7 +1595,7 @@ t.me/PersianGithubMirror/4273
 
 <div class="tg-post" id="msg-2281">
 <div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EJW07lvY4ROB23cD2LYbX8l0UEPvEj5YG3voZ09s9wsElOJc4kdqTPlrvUXgqE1SC2RzFORSIqvynz1WnTFG278xQmYTDzaj9b5ZAg1WvASe8FkuBK9LyuimN6vvTEdXUc8MT1JNOKtL8wUL2UvIOa-NpWiyv6ICAw0MlC1buOOwWL-MzTtONGU2yu3nk7orvVE1bsYNOvPtmDMS29L4Q0-hlzk2NJUSKuBgY5-Dy-ZBZhCHknqmN-6cEnmsqrUoNcXl83sOlT2pn_eaE8W9u7puGYWLnuaTntvcDAa1dpN3ofSqG6iADZK7dsDYFkqi9Y_ilbeS2n94GdZPy9JTQg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nFFEg5KRuPRyI0h8o_IRzZGHKMNZpG2-WmhqN8GeZLaMPNm6kQlbk9ea_zdv002YtVDxkdJyFW-NXUiAsYDFmOpgIgKZ56MXJ1V0il2QcDwQlZaBjkDZuw3N5uo2_7vQqacJkUrrvQvHeKma11i-Tq0EzCkIUEMXhP_sikZXS69QMSiH_nJlQN8qI4DH2kWmFldLSAjMOAucgO9RMEUKU92ZsyCLjp1w7laHSt2e0qJuMACv5lmo_AIG4IqriTU2fFnS6kShYEriT28q5xK4PSdGfdl3XQt2-e-llMVvErl88pKN2DdwhLxzYH0dFvL1lmiVPyZREm0c-eueweupUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای آسیب پذیری اخیر کرنل (
 Copy Fail
 ) فارغ از اینکه آسیب پذیر هستید یا نه، آپدیت کردید یا نه و کدوم لینوکس و چه ورژنی هستید، همین دوتا دستور رو واسه محکم کاری بزنید و تمام:
@@ -1611,7 +1611,7 @@ tiosus
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/ircfspace/2281" target="_blank">📅 18:11 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/ircfspace/2281" target="_blank">📅 18:11 · 16 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2280">
@@ -1629,7 +1629,7 @@ yasharsoltani
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/ircfspace/2280" target="_blank">📅 09:22 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/ircfspace/2280" target="_blank">📅 09:22 · 16 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2279">
@@ -1668,7 +1668,7 @@ t.me/PersianGithubMirror/4295
 
 <div class="tg-post" id="msg-2277">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jesf_ajLRI0fNJiPBUPlnrDc4Dkp_kvcRTgMF1QCVajtwh3M6peOwWPCBW39lBnOiKNJOFY0p6H87cuqyOisB1wBOmyR9kP-IkhPdNRZ9BX8fMfGmMEO5OnDE_2lRFelP97S2c0Q1_EJayMLQENcRnX8JWPWbvHJLBAOH6ahovzHpaSUntsNdTBcpM3hyZvwJOZyDyqkHLc4ECWmqYi6AObQkmanr8uMPGcUzDcOVaTPC4fCzC9iebeGEpjR0IwFBnhUkJNPwQTC69qEnh-7ldghvsj_LxvIU9taUFtfWcxJEKW7mYx29spnpOB3pILE_gKUvyL9-bkO885TVVKwHA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vCEJB6vfGNHjJmHgYEaYn5-2r2TuV8inzbUh6K1MKXVLnJ60amZ3UdweM2eMs64Sh4L44KWejx2JhAYxvHkU2C1x-fQMm_hN1fTsErph1oobNR8pzMOt3Stogv4f6PGfybWMQNii5teHaS0e_aziEElLdKYHJEnc0TVl3HbYVObOj3krUoxfVgqruf6UdT7tfDJkuyu5-ffYzNwJTjrJ-qe-7Q--4jIs8kSgkaUykjImSZGwcU00LLE6heIJRXj0g2ecJfiEOcduypDZXBgA7kxMBEzz2VTWV4X_5UifhPFTNTTAMA0dhbBixt5H0MOV_16eM_pPPYmgsuSV9ccIiQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک آسیب‌پذیری بسیار خطرناک در هسته لینوکس با نام Copy Fail (CVE-2026-31431) شناسایی شده، که به کاربر عادی (حتی بدون دسترسی sudo) اجازه میده تا کد مخرب رو مستقیماً در حافظه (RAM) فایل‌های سیستمی تزریق کنه، بدون اینکه تغییری روی دیسک ثبت بشه؛ به همین دلیل بسیاری از ابزارهای امنیتی قادر به شناسایی اون نیستن.
 این حمله به سادگی و با پایداری بالا اجرا میشه، میتونه برای فرار از کانتینرها (Docker / Kubernetes) استفاده بشه و تقریباً تمام نسخه‌های لینوکس از سال ۲۰۱۷ به بعد (Kernel 4.14+) رو تحت تأثیر قرار میده.
 اگرچه با توجه به وضعیت فعلی اینترنت در ایران بروزرسانی کار دشواری هست، اما توصیه میشه در سریعترین زمان ممکن سیستم خودتون بروزرسانی کرده و وصله‌های امنیتی هسته رو نصب کنین.
@@ -1699,7 +1699,7 @@ t.me/ircfspace/2259
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/ircfspace/2276" target="_blank">📅 16:49 · 15 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/ircfspace/2276" target="_blank">📅 16:49 · 15 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2275">
@@ -1718,7 +1718,7 @@ t.me/ircfspace/2259
 
 <div class="tg-post" id="msg-2274">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tyBAi-CRBrXf4MPxUxDo7cZFXiUXtCRpRLqSp7kFp18dRTjtrBJmb4MUajbY7V53WyQeMk6jK6i5y2ZgwM7Lt939yH0542uJIqMX5Y4pnt74B_NvKSVpfWERStfo1zvzULrSSBjBmmDGFReIkKujs-ZbmmnnetfcDI5p3v-ORcErym9vb-sUyJQ2POYPDwchG521GxJggw70QFLML6ENWZrcVmC5iWG-7NkZ0xo5cpmDW0zNTKmjBvOifw2y-brWxNTe8Nn_eyZCgs75NwbKpj8RYNPKJWSvH7EOjRKa87-eZ9kmbppfyGNWhHcfzcJlDGEQGEbH6fRv4KTX1h0FWw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/bEHV24xcz7tJJVqcH_9rq4cvLcslQiaGGUZbnM0fjs1WuALMKtYCorp4XWWH2z_cWMeh45XR3pPtG3F0p07G9LaNnipzj6G-M0DHvevVmO8hMfx_MgQ0gSvSI2zu3LNpHEUunFy79VywiJy1-arv_oW2kmaVK7CHvbVeMtudKS-86lKB5_sKEfZv0xSGaO8vqF2TqMffAZwOJCDRlT3wlZoAV9N-_pd-OV4zBGJE9Lg3NJFm5b9m6lv6tRPc1pF-MPz8bcjF2r3tlutIh-ZP831TpDLGnUBpofM7SolyOpFPoAyRFTJ52-kk1_EZHgUF5Ggy90FOQtIOC0ciYWfq2Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دیروز خبری در رابطه با قطع اینترنت سفید خبرنگاران توسط ایرانسل منتشر شد، که روابط عمومی این اپراتور گفته نقشی در این ماجرا نداشته و "هرگونه قطع احتمالی دسترسی متفاوت برخی کاربران به اینترنت، لازم است از نهادهای تصمیم‌گیر پیگیری شود".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1732,7 +1732,7 @@ t.me/ircfspace/2259
 
 <div class="tg-post" id="msg-2273">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JNMscyenuCYi9Fd6V6oJBoc5e7SeX30LTzDfA4qxtdiFTvWsVxhDwDcyZrDgatiGg4a3h9hNPkkj7IeAnU5UD28Jt_lUIzX1TErYpOtldV5E0rPgZfacMej2KDmjTF43QTYilOw3DTmuNsPoRKZUWch7oZ8FqRo8hXE7dqKLOUlu993tX5JYEH4FBciUWP46aoH2k8oB3f3ycSLUoKf0L_hGMyKIVBPd3r6Kh_8hMc6z25Ro3pheRnZPmWFzqNYJ6Vjl04Wy7ZQ9hcbYclwrLrlTV_k-OLMP4P2SHe_5oPh-MKTk7wcoiS1LzeqYzeA7ooSyw2EqDhKJG7HR1p8m9A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MpPQHlq6Dt64LLmcF6d7d7Nxl-j5JbYnY5lEchg_PF_wjLyEck0QHWFxazhcG6H6R1e4wkRNVRtzyrbwHoxcL9fPIsH385fHRex6qzxcUBR-956qFrgQJnfp6FnJY0ywKSyO6Leyk0CBeNS95dtOLkQ8jZ0sw4FeFQqXpqfkHEuU4vflhnHUpxcvfNCQbO2SRlqTGASkIe5I_21HYJHDXj16sNwEehRmFWO1oSYIwtMLBBxlCw1jp5RMLV_jupVfaiFBgIdTuEFe5Q_dUFZIfjlY0iIQwRm1lf-XkmqUpdXdgZ9p-6txcBNEVK2FUMiTNT8BpW-5F1MANwYIomU68Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نت‌بلاکس: قطع اینترنت در ایران اکنون وارد روز ۶۷م شده است. اقدام به سانسور دیجیتال، پرده‌ای از سکوت بر افزایش گزارش‌ها از اعدام‌ها می‌افکند و قربانیان را از دیده‌شدن، پاسخ‌گویی و حق ابتدایی شنیده‌شدن محروم می‌کند.
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1789,7 +1789,7 @@ t.me/ircfspace/2259
 
 <div class="tg-post" id="msg-2268">
 <div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/n8IgUbELZ45zdEQG_ZZeKScONjEnbCUnuKv_oBpyhwIWWtlfbJ76HHnay5DZcl1bg7PxsKTxpXkBS1mX1KY82u5zx22rtck-tydcC9fn0sO-kOo9KS3lpG9cSe00b2iiv-SzMb1mRB0BHIXfekLOmoQvU4mrVi-nP0Wx37mfLI3Mt-RMD3LuE7nWuePDJeeR6q00kb6UgFWQZYuQym8c1vVe6Ke1XJ1vYPVWMnbG6zGXxeiGPyK7-DGnjKnYX9kRAIrBwCaH1lKGs5nDDVjoQ_SbnU8ygs3M0Zg7Xk05sGtYNa8Lz8OWdjr4T_VgZwmuq45MrxtsQ2SIZJxFNrJY3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RtM_F1OSZSo4o1fE3WbgvqvzLSNwot6Fa3TCMAs9vPAztL7xjefqwjyPLrL8uxVdBAXwM4n-EtEgZQN80UUcAslWfoyuKMOdTMtME1P1akTv9ALOmv_vzPsQN881b9yvkiAk0Wnj2IIROCw953xASI8GF0zSNxyfoAD7KNUXaaP_iNQBkzOpfp-EYDtwJ3iP9-1CzaWzSQ3QL96nduz5W6FTJSOZTmxzw_Q6FCaK7IMpUNoJIAN40nOmQ0BVxBcrXbP8QDXoYUTqX0U021neAXOFZ9YM7qZQ2yvWG9HCTrk-OAoci-EZj0f13a7Iq5YVscHaEtSTreBvX-VogE5zXQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دیجی‌کالا خیلی اوقات در رابطه با خسارت‌هایی که بصورت مستقیم و غیرمستقیم به مشتریان و تامین‌کنندگان وارد میکنه پاسخگو نیست، اما در شرایط جنگی از طرف سرویس دیجی‌پی بخاطر ۲۰ روز تاخیر در پرداخت قسط اظهارنامه قضائی میفرسته؟
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1798,12 +1798,12 @@ t.me/ircfspace/2259
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/ircfspace/2268" target="_blank">📅 21:57 · 14 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/ircfspace/2268" target="_blank">📅 21:57 · 14 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2267">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mxWwbXcRwYDxrSweMkixj0ZNR_xZ9vLiFJAIfrjrfmhnRc2Ik9wLVgE9Wm-ABSfohX85SJ5yWi5VHCq0Ok1eUT0cdN2tc0P-ZNmB7zFdQ9xZLT4b-0mwyg21cdCims6rZOnakCHd99NQwO4f2Rayeelmq6AKvM7ifl412SKcilWwjra-hsPJBBXBOBKJoKQdFB-eUX4-c6SCfBcjXrWux9jiIDVV78kRnvzRnb9qKjC01R5drSkkmWlDrdMqsr7UtGPGRaHXBuPZkCLsPaWJNSmh9AFFrXQK9ikXBOvdzhL6uwbFU8V67PMPWkIm-CKcN5Ow8j1PX3Jrxd6hfOaOew.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XtvmW_2V2a9ZgzhF1VUkSjJz5jCQq0R53Gt7_qzgysmN2E3UyiUmhCZ56_Y2HrWpVKRpeVh998R9hpDE-_QhD3q2LZ4CLAf1Vsr10LcxhwPElPasTr7g2kSmJz_poHQfBXhk3Ep-4F2cfBKKiTpxnAX0ibMC5fbSqH5jMjpUZ2U0Xvt3QMsmqJYiHTmd-nOAsM7lLgutJvY8ttNKlCeMcOCFAY1zA8JspQoqb4CnWH0WwG4gPXs9aX6QfWcPizvbMquc-8e5IOUmYwxafd0QIBWEUWlw1p43crU6vBtN-i_MCqkoTzLG3jC0AKcRsuMIzUkGEe7PUMhR0eLiskqg3Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ TeleMirror یه تلاش آزمایشی برای دریافت آخرین مطالب کانال تلگرام خودم و سایر کانال‌های موردنظر در شرایط محدودیت شدید اینترنته، که سعی می‌کنه با چند روش مختلف پست‌ها رو بگیره و نمایش بده.
 این برنامه رایگان و متن‌بازه و فعلا می‌تونه برای دنبال کردن اخبار تلگرامی بدون نیاز به فیلترشکن، یه گزینه موقت و کاربردی واسه دسکتاپ باشه.
 👉
@@ -1822,7 +1822,7 @@ t.me/PersianGithubMirror/4128
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/ircfspace/2267" target="_blank">📅 19:53 · 14 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/ircfspace/2267" target="_blank">📅 19:53 · 14 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2266">
@@ -1840,7 +1840,7 @@ t.me/PersianGithubMirror/4128
 
 <div class="tg-post" id="msg-2265">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/O_YjVX9XY3bpUH_NY3awt-LBEo15OhpGQDsYDz_7WtwnY2sDSodhe3mGbD_GUxHQgHwB2GEVjvIthMkuf4nrH6zk8q-Lsf8k0jJbKUk06_BGH5wLwP5gWS-u4f-HM0khMCzuQMzuoKquXLY3aIArKa9vibfNLZ-GSkictL2YLH1MGHrxcUdNqQvP3kZJvQG4GqRUwYCB87cbPjL3xhXsluhzwe2-v68UhV3aZxpDAtdvcATcLVxREy1KIHDMQfT26yonXYL7_svFjKb5q1hkNSB1Rl7it4_SwGJRogN5AEq-rhH2WMvodvjcskx-ty1yPgrHT6-7d0hAuMJE7QIF0w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ujyXNDTNsk5Kh-E4X59n_d1upxAEa4CycEeAnBgzVnHLOp5_bE5JLXRs2Axu6Nz1X0qFDjEqBatDBCbS6ZCNNZ-SL-e4RtuLlFRyvTlScwJXqCFzndMx0ZmztuigKLvyq66ZKMfIPF3lSqMlprB8tJSnuxGdh72einZs01QWiy0Vt8nMxAtxExhTZH0E4Z1Hu-5pdLuY57U8LaOjONt86jJUtnLFpMMO8hEv8D4qZwmvPz-86ksS07YtJXuFc9iNwHABpPHIg57yPnlXla8TQNpG5nPx8IewVGgXqwuyRwQetKicoZbAKqgUW2jcxHb9JzxF5XvZ09tsM5on_pDZrA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بی‌بی‌سی در گزارشی گفته که شبکه‌ای مخفی در حال قاچاق تجهیزات اینترنت ماهواره‌ای استارلینک به داخل ایرانه، تا کاربران بتونن محدودیت‌های شدید اینترنت رو دور بزنن.
 در این گزارش اومده که افرادی در خارج از کشور این دستگاه‌ها رو تهیه کرده و بصورت پنهانی وارد ایران می‌کنن، تا دسترسی به اینترنت آزاد فراهم بشه.
 🔗
@@ -1869,7 +1869,7 @@ t.me/PersianGithubMirror/4128
 
 <div class="tg-post" id="msg-2263">
 <div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vaTn39S5zxeq74-WAKv7nA-mTtVJHPadelmA2OFSAeSiY0WQzKT4uCU8PhQUrryRFwGTVG0nx7r-OOlVkaPTq99I9bNO0uiGqMKJ19INDvZtNXw6tNIFa0ofl3XFb1tJ77Lk-WTpyC6RLCsEINck-sDYAJ6y8fJX-Rvy0T-phRadomGC-Pl0wxVtT-C9BTS-Ln6RdYBgA4R2hHcsGWOf1vzBCXay7f4-CTPivofuz_SVkjMGsZzdMYRs8AAdf0ixmw1c9k-WdPN3-KsTeaOIZpyw5apDQM6OGx2UY4DjBwnuWLU0HXVcF75ygDKz15GTcSRD-qtx9ItCbLRpbwy_Kg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/aIVPPHcpBzbXVv2VVtr601zT3hbtRvj_GwIe_BUB7qV--Edhx8Fwl54lLPA2EU-ypHC4K8oc5t4sfXHoYCTA5_uliIkFnSrM-zZUoghKPSXbps7wpbM4OgoxlxULN3wYV61G1Ga9xYWqTXgKZm4K_Ueoha-N5y0pFLC8Jdh_toabfei4vZmT9GcnfCtyzuxaPKNmKqj-J-BrGlH8JUQ2eLt8Oj7Z3RFgXR4MILuWqnHqkcFCY5Nlmy2IJQsBUj7eryCyhqkyvKzU1KN5dX8vc4W26EPz9XysuraXJs3MLz4X6tZUb6n-Z_jBu7gqb7myyOpekRp7a8862lvqbYgESQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نت‌بلاکس: داده‌ها نشان می‌دهند که قطع اینترنت در ایران وارد شصت‌وپنجمین روز خود شده؛ این در حالی است که نگرانی‌ها درباره وضعیت حقوق بشر در کشور رو به افزایش است.
 از طرف دیگر دسترسی گزینشی و سطح‌بندی‌شده برای عده‌ای خاص برقرار است، اما عموم مردم همچنان از ارتباط با جهان خارج محروم هستند.
 🔗
