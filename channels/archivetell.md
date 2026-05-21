@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/ZlvNSayFmyUq3nbI-_DAnmsh-csvexavMUm8QDpCDSyjKAhIvjT5M6S0nKIhENTrhNwxtHr8Jaqc7D8kCqxksM2ZNoVaQdzmNg1Gl5hZ3oK0Eu_r6ECn7LhSU1sNDxf5Kk1dUfsEGlXXxMfq3AnraEa4Q0LigM8fz6HMtd4tDR8G20wMhd6XSMEOTzExGUmdwslW9aMrvmBaMyxrcfewlYuuD74Wd8O7xjvhIFSmlT98JdNNVcAYEpYMmRfpWxHw87sybzZdsOcuNt_GJohrY-HUIxOi0iUy64Fy3vx7szULw1__rrad2O4fiwv70cQOL6iiUVHsXCBl-ksQ7qPFew.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/OqWjyKPy-umur0jbA_gWIt_8uiMq5RGxy9qzb_PZSP4BqJGmPLhLWDhIRiZb9qUbvbz9CB9JuKL_Z3gcoXSnRSof801k3WKKW3dybbfH5HGqXYwdn-MFdKtk8ZI8CG6a0tC-9RMTSA00uZE5MmNH4bm9IJPH15ybaqZj45_Ngq2iglf5jRQL3QUxPKuBz5zLSUn9QBuYFUxqBT7x0Qr2iDWmDCXuBfL9x6YL8XazjYcB0imVPG-Cjuq-K74xEtVYmeSDx9kxgeRARYRxW3BtqwXGUnX-WhofCp8sTXgmckE0nurMvNkf1nWXXTkjXW0bOBqpoCOuCjzmkcutDNHKMg.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 ArchiveTel</h1>
 <p>@archivetell • 👥 7.8K عضو</p>
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 🚀آرشیوتلمرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-31 20:07:52</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-02-31 22:24:13</div>
 <hr>
 
 <div class="tg-post" id="msg-5253">
@@ -311,11 +311,9 @@
 کد تخفیف تمدید شد عزیزان:
 archivetell
 @ArchiveTellbot
-----
-کد هدیه
-🎁
-۵۰ درصد تخفیف هم تا فردا شب تقدیم یک یا دوتا از ممبرایی که خرید زدن میشه</div>
-<div class="tg-footer">👁️ 638 · <a href="https://t.me/archivetell/5253" target="_blank">📅 19:42 · 31 Ordibehesht 1405</a></div>
+---
+حجم سفارش بالاست صبوری کنین</div>
+<div class="tg-footer">👁️ 1.43K · <a href="https://t.me/archivetell/5253" target="_blank">📅 19:42 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5252">
@@ -335,7 +333,7 @@ archivetell
 3GB: 540,000  4GB: 800,000
 ➡️
 4GB: 720,000  5GB: 1,000…</div>
-<div class="tg-footer">👁️ 1.36K · <a href="https://t.me/archivetell/5252" target="_blank">📅 18:24 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/archivetell/5252" target="_blank">📅 18:24 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5251">
@@ -344,7 +342,7 @@ archivetell
 ❤️
 🙏
 مبارکه دوستانی که خریدن</div>
-<div class="tg-footer">👁️ 1.54K · <a href="https://t.me/archivetell/5251" target="_blank">📅 17:58 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/archivetell/5251" target="_blank">📅 17:58 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5250">
@@ -382,7 +380,7 @@ archivetelloff
 ⚡
 :
 @ArchiveTellbot</div>
-<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/archivetell/5250" target="_blank">📅 17:38 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/archivetell/5250" target="_blank">📅 17:38 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5249">
@@ -391,7 +389,7 @@ archivetelloff
 😁
 تخفیف داریم تایم محدود
 @ArchiveTellbot</div>
-<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/archivetell/5249" target="_blank">📅 15:54 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/archivetell/5249" target="_blank">📅 15:54 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5248">
@@ -405,7 +403,7 @@ archivetelloff
 <a href="https://t.me/archivetell/5248" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">آیپی سامانتل شیر و خورشید</div>
-<div class="tg-footer">👁️ 2.24K · <a href="https://t.me/archivetell/5248" target="_blank">📅 15:53 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/archivetell/5248" target="_blank">📅 15:53 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5247">
@@ -422,7 +420,7 @@ archivetelloff
 لینک دانلود داخلی
 ⬇️
 لینک گیت هاب</div>
-<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/archivetell/5247" target="_blank">📅 15:33 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/archivetell/5247" target="_blank">📅 15:33 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5246">
@@ -453,25 +451,25 @@ archivetelloff
 لینک گیت هاب پروژه
 ⚠️
 اتصال اولیه به خاطر لود سرور ها کمی طول میکشه. برای اتصال با پروتکل CDN Fronting ریجن رو روی Auto بزارید و تغییر ندید که به سرور مناسب متصل بشه. هر آیپی که در برنامه شیر و خورشید اندروید براتون متصل میشه روی این نسخه ویندوزی هم اوکی هست.</div>
-<div class="tg-footer">👁️ 2.83K · <a href="https://t.me/archivetell/5246" target="_blank">📅 15:33 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.08K · <a href="https://t.me/archivetell/5246" target="_blank">📅 15:33 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5245">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">دیسلایک میزنه
 واقعاکه</div>
-<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/archivetell/5245" target="_blank">📅 14:44 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.25K · <a href="https://t.me/archivetell/5245" target="_blank">📅 14:44 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5244">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">واقعا حیف این‌چنل نیست زیر 10 کاست؟</div>
-<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/archivetell/5244" target="_blank">📅 14:42 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.25K · <a href="https://t.me/archivetell/5244" target="_blank">📅 14:42 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5243">
 <div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/archivetell/5243" target="_blank">📅 14:39 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.23K · <a href="https://t.me/archivetell/5243" target="_blank">📅 14:39 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5242">
@@ -484,7 +482,7 @@ archivetelloff
 </div>
 <a href="https://t.me/archivetell/5242" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/archivetell/5242" target="_blank">📅 14:39 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/archivetell/5242" target="_blank">📅 14:39 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5241">
@@ -492,7 +490,7 @@ archivetelloff
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aAuLDYIV2dXDY9Z789TWT2a6JPn1Xaz65A1xBonMkv4hfl8VAczdJ6pGy7CSNM0jLhvD0-tlvjonVXpfsclnfDIQao4PxIJF_93tD-FxfmK6zciL4xZTkefhdzTQTE_luzkqbHCKPZudSuM5t1aa4GhmUAII-lZHDzlHZSDIIoBPAWfWeK9HWtChiK0LpXr7lkQm1u6jhKI9UzdmuZsZ24Xta8xvEKiphA78ose-e0_rW7Tf91Ubu4j2BPSOzvxfJ6VL-828mcScsoPFPr-MiR4X1umIBgdFHGGuhWrQ0VVXozV-LlOu-US22eSYTsvnqjR8l_tg9RY4ze8ngmBZcA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💡
 توضیحات تکمیلی درباره عملکرد این نسخه توسعه‌یافته: https://t.me/archivetell/5242  برای دوستانی که پرسیده بودن این نسخه دقیقاً چه فرقی کرده و چرا سرعتش بالاتره، تغییرات رو به زبان ساده اینجا باز می‌کنیم:  ۱. سیستم مسیریابی هوشمند (جلوگیری از هدر رفتن سهمیه):…</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/archivetell/5241" target="_blank">📅 14:38 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.24K · <a href="https://t.me/archivetell/5241" target="_blank">📅 14:38 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5240">
@@ -510,7 +508,7 @@ https://t.me/archivetell/5242
 کدهای مربوط به ارسال درخواست‌ها بهینه‌سازی شدن تا سایت‌های سنگین و وب‌اپلیکیشن‌ها (مثل تلگرام وب یا سایت‌های هوش مصنوعی) خیلی روان‌تر، با خطای کمتر و سازگاری بیشتر باز بشن.
 این نسخه با کلی بی‌خوابی و تست‌های مداوم بهینه‌سازی شده تا پایدارترین تجربه رو روی نت ملی داشته باشید. حتماً تستش کنید!
 ✌️</div>
-<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/archivetell/5240" target="_blank">📅 14:36 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/archivetell/5240" target="_blank">📅 14:36 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5239">
@@ -530,7 +528,7 @@ pinned «
 صداهای زیاد دیگه‌ای مثل مایکروسافت ، هوش مصنوعی گوگل و موارد دیگه هم داره
 https://teamsp.org/
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/archivetell/5238" target="_blank">📅 09:36 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/archivetell/5238" target="_blank">📅 09:36 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5237">
@@ -541,7 +539,7 @@ Rewrite the text below so it sounds clearer, sharper, and more p
 Improve the structure, remove weak wording, and make the message more confident without changing the original meaning.
 Text: [paste here]
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.77K · <a href="https://t.me/archivetell/5237" target="_blank">📅 09:11 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/archivetell/5237" target="_blank">📅 09:11 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5236">
@@ -549,7 +547,7 @@ Text: [paste here]
 <div class="tg-text">خواندن پست‌ها و نظرات Threads در تلگرام
 @threadsreaderbot
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/archivetell/5236" target="_blank">📅 08:56 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/archivetell/5236" target="_blank">📅 08:56 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5235">
@@ -557,14 +555,14 @@ Text: [paste here]
 <div class="tg-text">دانلود مدل های هوش مصنوعی از سرور ایران
 Bitgraph.ir/iran-ai/
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.76K · <a href="https://t.me/archivetell/5235" target="_blank">📅 08:45 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/archivetell/5235" target="_blank">📅 08:45 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5234">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">جدا الان وقتشه کانفرینگ تنظیم بازار بیاد قیمتا بشکنه
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 3.07K · <a href="https://t.me/archivetell/5234" target="_blank">📅 01:42 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/archivetell/5234" target="_blank">📅 01:42 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5232">
@@ -587,28 +585,28 @@ GitHub:
 https://github.com/YrustPd/GateRelay
 😊
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 3.29K · <a href="https://t.me/archivetell/5232" target="_blank">📅 22:57 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/archivetell/5232" target="_blank">📅 22:57 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5231">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/7238deb5ae.mp4?token=oYkOvbo8LTtf60IERJG5WrpLvgaiIMXwaOTgGdyHvcKMPQy778Rm90_ZtpnCs-BjEQa7YDm_htcjpX-qoRRdH-gAMLewYXVrOVU1GULA2_NR-x3OwWq8KoxfltjqfL4Z3yxCHRJXn80tpiAknGoCf-e7cUrtCFffFZGzgiZlyLxtHagY7ntM-smsm0s6QmiPULWkqxBE7XP2jCA68WaDTZc-1Vql1hMYSx6-9vjkA_YrJaUjLCDiSvZGLYeci44EnaGfzVoWGMlsU5sm0iqyHvD3LOVzgoa_ydY8NSJUszDtr8hDF9RDj8srLfwsJBnwFX2TG_qTdWze2E7s3o5u7A" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/7238deb5ae.mp4?token=p9syS11hJ4fBGMd2n0IaprQhLLAR_o3kad7M1-l6HrbyY4ZkT6wNpHedURcBhw6Hv--69JEt-du_R7CwijiCq6V3wenAs-EnPT5jfvocYiMfyxaZIISCVgw-nTGmYhmY8wVVr9G8-dUh7Q0_0fStRcgs7AmHeNiSglWVYOmg69614Z3E-tVM0C_Yn0wNNwLrw5z1KwZADevIfBTiZwyW6-5nqWFZcRGOcbmMYUdDXXgJJwwmxl1yNW2R3TEkTNluRzpaogl5Wz7CMUcNTHG7eNbOhT_5HVoVH4Bk6NPfW6BDcDW5GPsKGWaNmId9kWMN7P4mfx7e7RSt9KetbmiFhw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/7238deb5ae.mp4?token=oYkOvbo8LTtf60IERJG5WrpLvgaiIMXwaOTgGdyHvcKMPQy778Rm90_ZtpnCs-BjEQa7YDm_htcjpX-qoRRdH-gAMLewYXVrOVU1GULA2_NR-x3OwWq8KoxfltjqfL4Z3yxCHRJXn80tpiAknGoCf-e7cUrtCFffFZGzgiZlyLxtHagY7ntM-smsm0s6QmiPULWkqxBE7XP2jCA68WaDTZc-1Vql1hMYSx6-9vjkA_YrJaUjLCDiSvZGLYeci44EnaGfzVoWGMlsU5sm0iqyHvD3LOVzgoa_ydY8NSJUszDtr8hDF9RDj8srLfwsJBnwFX2TG_qTdWze2E7s3o5u7A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/7238deb5ae.mp4?token=p9syS11hJ4fBGMd2n0IaprQhLLAR_o3kad7M1-l6HrbyY4ZkT6wNpHedURcBhw6Hv--69JEt-du_R7CwijiCq6V3wenAs-EnPT5jfvocYiMfyxaZIISCVgw-nTGmYhmY8wVVr9G8-dUh7Q0_0fStRcgs7AmHeNiSglWVYOmg69614Z3E-tVM0C_Yn0wNNwLrw5z1KwZADevIfBTiZwyW6-5nqWFZcRGOcbmMYUdDXXgJJwwmxl1yNW2R3TEkTNluRzpaogl5Wz7CMUcNTHG7eNbOhT_5HVoVH4Bk6NPfW6BDcDW5GPsKGWaNmId9kWMN7P4mfx7e7RSt9KetbmiFhw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">⚰️
 R.I.P?</div>
-<div class="tg-footer">👁️ 3.14K · <a href="https://t.me/archivetell/5231" target="_blank">📅 22:35 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.15K · <a href="https://t.me/archivetell/5231" target="_blank">📅 22:35 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5230">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">⚰️
 R.I.P?</div>
-<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/archivetell/5230" target="_blank">📅 22:34 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.08K · <a href="https://t.me/archivetell/5230" target="_blank">📅 22:34 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5229">
@@ -631,7 +629,7 @@ v2rayng
 دقت کنید فقط پروتوکل TCP رو میتونید با این روش بهش وصل بشید و پینگ خوبی بهتون میده اگه اینترنت نرمالی داشته باشید .
 سرور هم میتونید از المان فرانکفورت یا فرانسه جاردین استفاده کنید.
 با این روش اینترنت شما مستقیم از وایندسکرایب گرفته میشه که هم اینترنت تمیزی بهتون میده که همه سایت ها و اپلیکیشن ها باز میشن هم پینگ خوبی بهتون میده.</div>
-<div class="tg-footer">👁️ 3.24K · <a href="https://t.me/archivetell/5229" target="_blank">📅 22:12 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.29K · <a href="https://t.me/archivetell/5229" target="_blank">📅 22:12 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5227">
@@ -639,7 +637,7 @@ v2rayng
 <div class="tg-text">sni spoofing
 وصله
 امنه ، راحت استفاده کنید ، به حرف اونا که میگن مشکل داره و ... گوش نکنید ، واسه سود خودشون اینارو میگن</div>
-<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/archivetell/5227" target="_blank">📅 21:42 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.89K · <a href="https://t.me/archivetell/5227" target="_blank">📅 21:42 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5226">
@@ -663,14 +661,14 @@ hcaptcha.com
 3- بجای کانفیگ هم میتونید کانفیگ دیگه پیدا کنید که اهدا شده
 لینک داخلی v2ray ویندوز
 https://seup.shop/f/zp9bi</div>
-<div class="tg-footer">👁️ 792 · <a href="https://t.me/archivetell/5226" target="_blank">📅 21:40 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 800 · <a href="https://t.me/archivetell/5226" target="_blank">📅 21:40 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5224">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">لینک داخلی شیر و خورشید
 دانلود</div>
-<div class="tg-footer">👁️ 2.91K · <a href="https://t.me/archivetell/5224" target="_blank">📅 20:20 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/archivetell/5224" target="_blank">📅 20:20 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5223">
@@ -807,7 +805,7 @@ Ip
 5.160.13.85
 5.160.13.85
 37.191.95.70</div>
-<div class="tg-footer">👁️ 3.08K · <a href="https://t.me/archivetell/5223" target="_blank">📅 20:02 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.11K · <a href="https://t.me/archivetell/5223" target="_blank">📅 20:02 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5222">
@@ -1015,7 +1013,7 @@ digikala.com
 telewebion.com
 bmi.ir
 aparat.com</div>
-<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/archivetell/5222" target="_blank">📅 20:01 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.64K · <a href="https://t.me/archivetell/5222" target="_blank">📅 20:01 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5221">
@@ -1038,7 +1036,7 @@ pinned «
 <div class="tg-text">پرامپت تبدیل تصویر معمولی به تصویری که انگار در یک کتاب کودکانه قدیمی اروپای شرقی دهه ۸۰ پیدا شده است
 Turn this photo into a strange vintage Soviet children's book illustration with grotesque humorous cartoon energy. Use thin shaky black ink lines, awkward anatomy, elongated limbs, uncomfortable facial expressions, chaotic movement, weird proportions, sparse composition, and intentionally clumsy drawing style. Make the characters look slightly absurd, nervous, and ridiculous rather than cute. Use pale faded watercolor washes, dirty paper texture, uneven coloring, washed-out muted colors, lots of empty space, careless sketchy linework, and rough old-print illustration texture. Keep the background minimal and random, with small strange details and loose doodles. The mood should feel weird, humorous, slightly unsettling, and authentically like an old Eastern European children's book illustration from the 1980s. Do NOT make it polished, aesthetic, modern, cute, detailed, or realistic.
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.83K · <a href="https://t.me/archivetell/5219" target="_blank">📅 18:11 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/archivetell/5219" target="_blank">📅 18:11 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5218">
@@ -1049,7 +1047,7 @@ Turn this photo into a strange vintage Soviet children's book illustration with 
 @mediaEasyBot
 @wecompress_bot
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.67K · <a href="https://t.me/archivetell/5218" target="_blank">📅 17:49 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/archivetell/5218" target="_blank">📅 17:49 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5217">
@@ -1109,7 +1107,7 @@ https://github.com/therealaleph/MasterHttpRelayVPN-RUST
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/archivetell/5217" target="_blank">📅 17:34 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/archivetell/5217" target="_blank">📅 17:34 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5215">
@@ -1120,7 +1118,7 @@ https://github.com/therealaleph/MasterHttpRelayVPN-RUST
 </div>
 <div class="tg-text">🚀
 آپدیت بزرگ ابزار EzyTel (نسخه modified_r1): مرور کاملاً آزاد و بدون فیلتر تلگرام!  ---  رفقا حتماً با متد بی‌نظیرِ باز کردن و خواندن محتوای کانال‌های تلگرام از طریق زیرساخت گوگل ترنسلیت (مثل ابزار telemirror) آشنا هستید. حالا یکی از ممبرهای عزیز و هنرمند…</div>
-<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/archivetell/5215" target="_blank">📅 17:16 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/archivetell/5215" target="_blank">📅 17:16 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5214">
@@ -1137,7 +1135,7 @@ https://github.com/therealaleph/MasterHttpRelayVPN-RUST
 باز کردن محتوای تلگرام با استفاده از گوگل ترنسلیت(یچیزی تو مایه های telemirror)
 یکی از ممبرای عزیز ، ایزی تل رو ویرایش کرده و باگ هاشو برطرف کرده
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.26K · <a href="https://t.me/archivetell/5214" target="_blank">📅 17:14 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/archivetell/5214" target="_blank">📅 17:14 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5213">
@@ -1236,7 +1234,7 @@ localhost:8000/ezytel
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/archivetell/5213" target="_blank">📅 17:12 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/archivetell/5213" target="_blank">📅 17:12 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5212">
@@ -1294,13 +1292,13 @@ https://github.com/PechenyeRU/FakeSNI
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.58K · <a href="https://t.me/archivetell/5212" target="_blank">📅 17:06 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/archivetell/5212" target="_blank">📅 17:06 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5210">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">نتلیفای بای بای</div>
-<div class="tg-footer">👁️ 2.9K · <a href="https://t.me/archivetell/5210" target="_blank">📅 14:34 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.91K · <a href="https://t.me/archivetell/5210" target="_blank">📅 14:34 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5208">
@@ -1394,7 +1392,7 @@ Port (پورت):
 ۳. تنظیم مسیریابی (Routing):
 در بخش تنظیمات Routing پنل، یک قانون (Rule) جدید اضافه کنید و بگویید هر ترافیکی که از Inbound (کانفیگ کاربر) وارد شد، به این Outbound (که ساختید) هدایت شود.
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 3.09K · <a href="https://t.me/archivetell/5208" target="_blank">📅 13:07 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/archivetell/5208" target="_blank">📅 13:07 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5207">
@@ -1429,7 +1427,7 @@ Port (پورت):
 #تکنولوژی
 #آپدیت_جدید
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/archivetell/5206" target="_blank">📅 12:02 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.14K · <a href="https://t.me/archivetell/5206" target="_blank">📅 12:02 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5204">
@@ -1439,7 +1437,7 @@ Port (پورت):
 پر قدرت تر از همیشه
 +بنچمارک هاش
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.93K · <a href="https://t.me/archivetell/5204" target="_blank">📅 11:01 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.96K · <a href="https://t.me/archivetell/5204" target="_blank">📅 11:01 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5203">
@@ -1448,7 +1446,7 @@ Port (پورت):
 ping
 104.19.229.21
 اگه پینگ بده میشه</div>
-<div class="tg-footer">👁️ 3.03K · <a href="https://t.me/archivetell/5203" target="_blank">📅 10:03 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.04K · <a href="https://t.me/archivetell/5203" target="_blank">📅 10:03 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5202">
@@ -1479,7 +1477,7 @@ ping
 این نسخه به‌طور قابل توجهی قوی‌تر از Gemini 3.1 Pro است.
 مهم‌ترین نکته این است که گوگل به مشکلات مربوط به عامل‌پذیری (agentness) به طور جدی پرداخته و به ویژه مدل را در این زمینه بهبود داده است. به عنوان مثال، نشان دادند که چگونه Gemini 3.5 Flash در ۱۲ ساعت یک سیستم عامل کوچک نوشت که می‌تواند Doom را اجرا کند. مدل Pro نیز وجود دارد و وعده داده شده که ماه آینده عرضه شود، قیمت‌های آن احتمالاً بسیار بالا خواهد بود.
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.85K · <a href="https://t.me/archivetell/5200" target="_blank">📅 08:52 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.86K · <a href="https://t.me/archivetell/5200" target="_blank">📅 08:52 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5199">
@@ -1493,7 +1491,7 @@ ping
 </div>
 <div class="tg-text">تو آپدیت جدید تلگرام ربات‌ها میتونن با همدیگه ارتباط برقرار کنن
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.85K · <a href="https://t.me/archivetell/5199" target="_blank">📅 08:48 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.86K · <a href="https://t.me/archivetell/5199" target="_blank">📅 08:48 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5198">
@@ -1516,7 +1514,7 @@ hcaptcha.com
 3- بجای کانفیگ هم میتونید کانفیگ دیگه پیدا کنید که اهدا شده
 لینک داخلی v2ray ویندوز
 https://seup.shop/f/zp9bi</div>
-<div class="tg-footer">👁️ 3.85K · <a href="https://t.me/archivetell/5198" target="_blank">📅 08:37 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/archivetell/5198" target="_blank">📅 08:37 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5197">
@@ -1597,7 +1595,7 @@ https://github.com/2dust/v2rayNG/releases/download/2.1.8/v2rayNG_2.1.8_universal
 <a href="https://cdn4.telesco.pe/file/b104e89c3c.mp4?token=q6VuvyIqt8OkNdkHbW0WdcLuhB0H453SwKRUYjBF5kp02B0k0WMUDSLiU69jldfnOvRIKZDLMkCLe2ukgjt4NNRPXG90Cillm_RcFDTjNfXHka68Ttv5AZzDRAxUVNleoNYcsOU43cTj4u1q2iDkDL6wfaT82fcIEE-zlig17CKS_KPA75-iifGlbA1tQpfxKfMcS7IOH10sT4yw9BhuuzExoxl8kAYGetNQj_bIHU2SpP4U3D0LxOGFFQJdQwy-Wtf9KmWDFl3JybmIskXmi0k_gVwPTpVYsfJoHkyH-t_3He92n2SkiCZan7MYILQH2VnTsod8tmPFjH5er08eUg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">Sni spoof  ip : 104.19.229.21  sni : www.hcaptcha.com</div>
-<div class="tg-footer">👁️ 3.02K · <a href="https://t.me/archivetell/5195" target="_blank">📅 23:17 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.03K · <a href="https://t.me/archivetell/5195" target="_blank">📅 23:17 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5194">
@@ -1630,7 +1628,7 @@ serverless.hcaptcha.com, imgs2.hcaptcha.com, imgs.hcaptcha.com, factored-cogniti
 hiding.men, cf-3.payun.men,_mit.hcaptcha.com, risk-prod-srv.hcaptcha.com,
 pst-sample.ncaptcha.com, sentry.ncaptcha.com, nmt-eloquent-mclaren.hcaptcha.com,
 hmt-elegant-rosalind.hcaptcha.com, demo.hcaptcha.com</div>
-<div class="tg-footer">👁️ 3.23K · <a href="https://t.me/archivetell/5193" target="_blank">📅 22:29 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.24K · <a href="https://t.me/archivetell/5193" target="_blank">📅 22:29 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5192">
@@ -1645,18 +1643,18 @@ http://Files.en-javadian.ir
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">لینک داخلی Happ ویندوز
 دانلود</div>
-<div class="tg-footer">👁️ 2.89K · <a href="https://t.me/archivetell/5190" target="_blank">📅 21:54 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.9K · <a href="https://t.me/archivetell/5190" target="_blank">📅 21:54 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5185">
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMashaya</strong></div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/S2xIkv7apQq-MOqEsA3BbOxtYf-8MuQV2Gl4V5Ge6MxoJyetCHxpFtdXKzx4QrPD_8cjnkDX5l3fJxiUz7lDoz-Bi0Zomfevsopt1IuygkgL9Yaj2qxXWgKNZh4jjDWl2uhln3Yu2jmCwrR3Zm_Io3GvAW3SL8t-SaEyP-SRATU6o24c8D8ietn47RLIVRBdyWjqLyfMkT5X7mu-YnwV2B2UvA05qL-hopoFiUiSW-6K94n0MfXIpdGXfdqsZSvNw3iVq2HtG4FssG9y1y-Bn6rio3dB78ShzbTTrQSK2nM7biW-uRhJ757OBo8Sm2DFj9Ck_-mDBNoVqPMpHEfJnQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Moyg1N6FyNZrllVOlvEM2c9cDFmr7tMJSFyMjw3H-4U9BBbKqSYxIj3ceLJ9Co-nyGV_O5Xir4R7KGfl6OzHxBMV4xu2cSuiofMQTitBzh_Pz7Z6X4G3aNt_Xgtgoxh2JlFBJXHsG3JW1JP4p0Exv_qRWyGtZwstFVhEN0-BE5IHRu1_Z9BYPmHZUUl_RhvogZEvllEL9RehANZDmA-z1Dau3UKvo7I1An4vowM5lPBVX1a-VLQ2zgr3LPvt9TqRZyqNJLFtoaSsMOeCYDUaJc_0WD6y-Geu14T0ij7PmNQJYKhoohNGrLY65pKstm9dMbXmzxXKdA224lra4ly4LA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/n5mFrEtZ0MaubSQzMfRBp9f_phTZCuh_A-LCAfG0KF5nkp96h-V9am7wB42Si4G2sqtudZbcxGkWOsmVfZimEJ1hbX_qfyTLGSctrhfzI_xNNywRU1VjyGHVBTpJek34-h0KmxsE2uA_rw2QVP4OdfCgx-JC5rsyN83Ivo1UddjUBIo0qbgK_JKBCNCBli9iSPkVQPaWCZI1uhsK3RN01l8det7kgdl1PXe3FggUBTE0-xdRVGHksnGbDwWs6jhk1Mbc5klnsxj-9STosNxABuzNb0LQW69Mo0-9fJxhweqVUTz3gITLk9_8Wnhcp4eOd_SqfokZVvi8E5CljYR9gA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/KkluWeW2B2gd2UcInNzTSeo7BCqwWQaPrQaMss5EinbAWSEE9W1JbTCi86ke7E68tpWgO6gPvEfhLo62KkLFdeKpCEmYyQ39y55qlwAr0AynmWDa9EHIYYy18yCtmNPqzY6Irz51oz3jbFDoWO_EfTKuvkXsJQ_H8CEYYuIS9qHKLYYoRbVI0LlrVQ_JdUDJIrH2X4yC6Vige-mQ8AuN-y000R6jEHc6vcPUHCjd8qqoeUR7b5uqvySbaf7sjxbKxtAXLfbhu98zkAhRtJ9vp3Fo9ci5-CbcMg7zH2_q6olKa1CeSgLj3izdsS5sRz4jUTU0vj5nmdCuymUKhm2bBA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ssQYVilInw4Oq0MQ5WnYA3k22p2d8HYJRSrReDrK9SFgriSXJYZ3S6Gr_beOoZC5fjO7UXGQJeNZEuKdynlmsIf8MH7i0A-cQC4uRWByC6Qki0M-7x-T5cBaOL4b_NA6sbtr8t7vUApNUkQuj_jUoxtEq-K-KhZM4CaAHdLmkIf4-grsGObHp79XVbCfNFNfisfCrmtfYpHH1jzgmEP3ZHK_wkEoxibCxP8MXVlBLytNwO66s1xLcbwWTaGlwGwuJ6vUf3RtsAWIIqIlrnhdSMDtT-sSPsKG0ffUKagy6kAZPAcNCxNBCeuQcxjVtLWHpmpFr9KSiypZWSJdn-bxWA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Pztblkf5ty6n-oq4mQ5xMNXBv8NEer2QXha7ZXDmVjTLg7tdN14xuCTJ9q9LmbbdVfIxAunBFS-3WG44foSOZYcS5a8vfq1_iEiP6WUPRiyoajlEke0_2iszGTHUXoEzsVAeGdEveuAd_CYJKqo1hqzDNNLOsgyVZsIraGrSAK-VPYoSkJo7hcQKuirKXAlD8yZmndxEY1dXi8L4p_3nnnuhENLVepIG8QS8Kqh8Hlz-5dDsDPCF70vGAfKpIB0_sWGuPA_3ShXgAmWXLRtJueiyz3rLUvuILRxf_OXxw1oGK8KfW6DBlxZyuk6gDXMLhLzX4_b8tTxf2_KEvHrDQQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/rg54VtRg6GAG6CwpfJYkNq3yuDwfBSSyCUNmS6wLMFSdD6sSrmuSO3qxGhmv5hh7xCwLCXN4S1Qlq7_u18VaWXAhuNsgEszjuNCCTP-TbiFkawBVD7rEn5Qpl0yZu2QCzxotMEibWQi9GnrC-lIaTwIo7mjaC3BzZGXsJS3-hiKXJp0ps5LLiVP5vj5h1MEc6hUnY_nYTdEXWdBePwAzMnEUCIa2tiTrEC43Hg40D343C3fpZhaqBEq60-E2RZGHRT_Uznowj4iydJF3cwTtWzmkuVtvjTnxWN9tWAusz1eUKl7p1bxH1BPTVkTwfIz1AcczTm3-HIyTvRLWitssbQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/f5XkQw4p1MDP3_zkBzVZiq2EANfh3DKm1ILZmqzY9kd-51E1bojcitRJDoi3spy4ZFR2PNzB-qGBVnN_tP7Y1_UYPrOoTv1NIpS2FREWbWb0Loe3MDRENUA5B2mNu1ZUcfmiDEV3inQvWvnv2_PSSCkXkd0BLXOIC6xyYqR9J2Hy0MIof04qn3WOKysl3vlSb9_Qhs6wDoVSQosHqzFr4iOcJTbaceEbPmGl82TrjER5Onx00z0xLpa9PMxjSxSKzWBW-1LSByHjrFyhOB6Mcv6BCI4aXgz05UkilLb8Vhov10jjpUsNTGFltB8gdfG5TrC5O67GeISGPBD5uqTPeA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/W3lq6M6heUwuBKbdZAlwjGfdxghSBpMGkaKfwO8jZG1uAP9tuwQUpWxqvAGd-YlC0cx2qyAx9W64oBX4wtXQ8N10sz_njgpE-j94LJAA_yejYpWUZ8fJWBf1z67z2TTlFCgNQwVleqDrVqGGRgkQJC7ht65FwwjGkjcXQn78nvZD_sJGqsW5qi19CWMkAHnr0vq2vtMI_AhXV9S7JExpUyFwU90JL-P1Sex4-MfNU8IswC2TGZzzRHhQ-V9uVwwegIbZTLWtyka0cavdQ5MfJU9sZVMMZH5qi1PJ72HK3RGwDogoEI5xtklsgTVASibr54fAN8q3EsWwZcHEOkekzQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/VMDQnd3HiwEYOON_BscbOEZOsTT0m3dFBn5zoTVTq-oIDvdmCzLovUsw9Q936fj0BowJEseBkSlZu3M567mm-j8-pUMnXSg_PMXzfwP3DY1BZBt3ePSEukhrR6ytFWQ1rnYFAVFO-E4BIeryUQ7zAPdPuuHAM_bgBNSZGSdaxRRYDTxtzJ1k_nWepKRWlZ71OeG93pf_YZvsxS-FJcrRAoph2pbn0UTriTqPLw-SZcyJx2_D0fwkkUyrNi_ayEnJ-XLn4uc_lmXQhmeheQ0hvt_XhHZ5Sb8ciVqYgWHQeUhPhMhTRvY0ca05oxBUtGo-uI97bEOaxgyGsdAiBdZ54w.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">من تونستم با sni ، گوشیمو به کامپیوتر وصل کنم (اصلا نمیتونستم با ویتوری وصل شم)
 برای کمک کسایی که میخوان نت کامپیوترو به گوشی بدن
@@ -1760,13 +1758,13 @@ Port
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3040ff2528.mp4?token=tdDtWWH-8fWj1VKb9_rxvqmxbpmRYqymv-4qHh8prPHcuXg8Rmc_V1B-_Oa7d4rVutf1A8J0--JUx1nHm8H5yJfOrtbLGHpToU0tl2-3MsPfAArnEAtJZc3DL4qp_2f5tqyBuzaq0cF2j1UFVSkqFr_S7P_ueqA2ESyGS3msikoOm0raXDxbitece1uZYDd4lrJPm5F9S7lC5MGVLJv3kevmjpeZ8DcG7vx1B9vx3vkFCg_iQpNFWzNDP727tz84rwz0M_QqaQ4AG80V4Cog4ElwM5rLiQJ72xZxzPCiOzfYcA8RxQXptXmTpEeQNDqPK5qdwo2LS_c5VkQwkcsGxQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/3040ff2528.mp4?token=TCVu8a53CtrG5QEuWIFNHC0QfWSqr_j5aZlxlFzUxSirO1ddQi90SW3AAFDGu9JEQJwtyv1FJmAZ6yYL5Ub_GVjdvWw5CoFZF6yEyx_F_QZacLL5y0nCHLatzjwYA8wixEpQJt-v_o_9irMnXbAS0PNOaU2LQLV6jgo8-kktgNq2a9m2w0_UlyG9JQ2Fbx7_gUA6sdr5UWETH6xkCKe9VrviLaeSFm2TYhcehSbt6--E5J46Nc3_zTFOY30GyY8aW-DOVqpvAaSD2r00OYUGFcpaSRQxaPVh600jPty2lRVqVZhbPfeIL4frP7h-0a3uIGyffNhzW1cro_RyZqJEFw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/3040ff2528.mp4?token=tdDtWWH-8fWj1VKb9_rxvqmxbpmRYqymv-4qHh8prPHcuXg8Rmc_V1B-_Oa7d4rVutf1A8J0--JUx1nHm8H5yJfOrtbLGHpToU0tl2-3MsPfAArnEAtJZc3DL4qp_2f5tqyBuzaq0cF2j1UFVSkqFr_S7P_ueqA2ESyGS3msikoOm0raXDxbitece1uZYDd4lrJPm5F9S7lC5MGVLJv3kevmjpeZ8DcG7vx1B9vx3vkFCg_iQpNFWzNDP727tz84rwz0M_QqaQ4AG80V4Cog4ElwM5rLiQJ72xZxzPCiOzfYcA8RxQXptXmTpEeQNDqPK5qdwo2LS_c5VkQwkcsGxQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/3040ff2528.mp4?token=TCVu8a53CtrG5QEuWIFNHC0QfWSqr_j5aZlxlFzUxSirO1ddQi90SW3AAFDGu9JEQJwtyv1FJmAZ6yYL5Ub_GVjdvWw5CoFZF6yEyx_F_QZacLL5y0nCHLatzjwYA8wixEpQJt-v_o_9irMnXbAS0PNOaU2LQLV6jgo8-kktgNq2a9m2w0_UlyG9JQ2Fbx7_gUA6sdr5UWETH6xkCKe9VrviLaeSFm2TYhcehSbt6--E5J46Nc3_zTFOY30GyY8aW-DOVqpvAaSD2r00OYUGFcpaSRQxaPVh600jPty2lRVqVZhbPfeIL4frP7h-0a3uIGyffNhzW1cro_RyZqJEFw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">HashemVasel_2.0.0_x64_en-US.msi</div>
-<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/archivetell/5180" target="_blank">📅 20:51 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/archivetell/5180" target="_blank">📅 20:51 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5179">
@@ -1783,7 +1781,7 @@ Port
 - شب نسخه کامل شده رو میدم، امیدوار باشیم وصل بمونه.
 لینک دانلود داخلی:
 https://guardts.ir/f/058a7e797803</div>
-<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/archivetell/5179" target="_blank">📅 20:51 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/archivetell/5179" target="_blank">📅 20:51 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5177">
@@ -1851,7 +1849,7 @@ https://apps.apple.com/us/app/nexatunnel/id6766783641
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">سلام چن روزه نبودم
 میگن نتفلای شاشبند میکنه راسته؟</div>
-<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/archivetell/5175" target="_blank">📅 18:15 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.8K · <a href="https://t.me/archivetell/5175" target="_blank">📅 18:15 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5174">
@@ -1982,7 +1980,7 @@ https://github.com/selfishblackberry177/sni-spoof/releases/
 1. فایل دانلودی رو با config.json داخل یه دایرکتوری بگذارید
 2. داخل ترمینال cd بزنید و دایرکتوری رو بیارید
 3. sudo ./sni-spoof-darwin-arm64 config.json</div>
-<div class="tg-footer">👁️ 3.02K · <a href="https://t.me/archivetell/5169" target="_blank">📅 13:51 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.05K · <a href="https://t.me/archivetell/5169" target="_blank">📅 13:51 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5168">
@@ -2357,7 +2355,7 @@ https://github.com/avacocloud/XHTTP-Installer
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 3.04K · <a href="https://t.me/archivetell/5156" target="_blank">📅 00:20 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.05K · <a href="https://t.me/archivetell/5156" target="_blank">📅 00:20 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5155">
@@ -2372,7 +2370,7 @@ vless://557ad0d8-5a72-48e4-9408-10c04f1c7347@198.169.2.65:443?encryption=none&se
 <div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">😂
 ورسل وصل شد</div>
-<div class="tg-footer">👁️ 2.97K · <a href="https://t.me/archivetell/5153" target="_blank">📅 00:10 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.98K · <a href="https://t.me/archivetell/5153" target="_blank">📅 00:10 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5152">
@@ -2426,7 +2424,7 @@ https://github.com/mirarr-app/network-checker/releases/download/0.6.0/app-releas
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 3.12K · <a href="https://t.me/archivetell/5151" target="_blank">📅 22:52 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/archivetell/5151" target="_blank">📅 22:52 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5150">
@@ -2505,7 +2503,7 @@ UQBS9c1YqBaOI1oTcXo0n_khM6XxaJDInwHpr0u63JhgBrh-
 قیمت عالی
 @ArchiveTellbot
 آموزش ساده خرید تو پست بعدی..</div>
-<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/archivetell/5142" target="_blank">📅 19:16 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.77K · <a href="https://t.me/archivetell/5142" target="_blank">📅 19:16 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5141">
@@ -2550,7 +2548,7 @@ https://testflight.apple.com/join/J6bfxDdZ
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 3.14K · <a href="https://t.me/archivetell/5141" target="_blank">📅 14:14 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.15K · <a href="https://t.me/archivetell/5141" target="_blank">📅 14:14 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5140">
@@ -2563,7 +2561,7 @@ https://guardts.ir/
 
 <div class="tg-post" id="msg-5139">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-footer">👁️ 2.93K · <a href="https://t.me/archivetell/5139" target="_blank">📅 12:04 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.94K · <a href="https://t.me/archivetell/5139" target="_blank">📅 12:04 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5138">
@@ -2587,7 +2585,7 @@ https://guardts.ir/
 گوگل پلی
 میتونید این آدرس‌هارو با دوستان خود به اشتراک بگذارید از اونجایی که برخی از سرویس‌ها رو بعضی از آی‌اس‌پی ها باز هستند.
 @CheshmehOghabApp</div>
-<div class="tg-footer">👁️ 2.78K · <a href="https://t.me/archivetell/5138" target="_blank">📅 12:03 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/archivetell/5138" target="_blank">📅 12:03 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5137">
@@ -2596,7 +2594,7 @@ https://guardts.ir/
 معرفی اپلیکیشن «چشم عقاب» (Eagle Eye): دریافت اخبار و کانفیگ VPN، کاملاً آفلاین و از طریق ماهواره!
 📡
 ---  امروز با یه شاهکارِ تکنولوژی و انقلابی اومدیم که دقیقاً برای روزهای قطعیِ مطلق اینترنت (نت ملی) طراحی شده.   وقتی اینترنت کاملاً قطع می‌شه، اپلیکیشن…</div>
-<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/archivetell/5137" target="_blank">📅 12:03 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.83K · <a href="https://t.me/archivetell/5137" target="_blank">📅 12:03 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5136">
@@ -2658,7 +2656,7 @@ https://cheshmehoghab.app
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/archivetell/5136" target="_blank">📅 12:01 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.33K · <a href="https://t.me/archivetell/5136" target="_blank">📅 12:01 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5135">
@@ -2668,7 +2666,7 @@ https://zintube.ir
 همه ویدئو ها توش نیست ولی بهتر از هیچیه
 ادمینایی که میخوان کلیپ آموزشی درست کنن ، به خاطر راحتی ممبرا از این استفاده کنن تو این شرایط
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/archivetell/5135" target="_blank">📅 12:00 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/archivetell/5135" target="_blank">📅 12:00 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5134">
