@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-01 22:54:31</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 00:22:47</div>
 <hr>
 
 <div class="tg-post" id="msg-65007">
@@ -301,7 +301,7 @@
 !
 شما با این وضعین می‌خواین در مقابل آخوند بجنگید؟ جای تاسف داره واقعاً، حیف مردمی که گوش به پست و توییت های شما بودند و هستند!
 #hjAly</div>
-<div class="tg-footer">👁️ 3.15K · <a href="https://t.me/news_hut/65007" target="_blank">📅 22:35 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.35K · <a href="https://t.me/news_hut/65007" target="_blank">📅 22:35 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65006">
@@ -316,7 +316,7 @@
 <div class="tg-text">🚨
 امتحانات نهایی پایه یازدهم و دوازدهم تو بازه ۱۵ تا ۲۰ تیر به‌صورت حضوری برگزار میشه
 @News_Hut</div>
-<div class="tg-footer">👁️ 3.93K · <a href="https://t.me/news_hut/65006" target="_blank">📅 22:27 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.71K · <a href="https://t.me/news_hut/65006" target="_blank">📅 22:27 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65005">
@@ -325,14 +325,14 @@
 خبرنگار: آیا در عروسی پسرتان شرکت می‌کنید؟
 🇺🇸
 ترامپ: او دوست دارد من بروم. من سعی خواهم کرد. گفتم این زمان مناسبی برای من نیست. من یک مسئله به نام ایران و مسائل دیگر دارم. او شخصی است که مدت‌هاست می‌شناسمش.  @News_Hut</div>
-<div class="tg-footer">👁️ 6.95K · <a href="https://t.me/news_hut/65005" target="_blank">📅 21:35 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.68K · <a href="https://t.me/news_hut/65005" target="_blank">📅 21:35 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65004">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">🚨
 العربی‌الجدید: سفر عاصم منیر به تهران دلیلی بر توافق نیست و پیام جدیدی منتقل نکرده است، گزارش‌ها درمورد مفاد توافق گمانه‌زنی است و اختلاف بین طرفین هنوز زیاد است.  @News_Hut</div>
-<div class="tg-footer">👁️ 7.95K · <a href="https://t.me/news_hut/65004" target="_blank">📅 21:10 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/news_hut/65004" target="_blank">📅 21:10 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65003">
@@ -340,7 +340,7 @@
 <div class="tg-text">🚨
 📰
 العربی‌الجدید به نقل از یک منبع نزدیک به مذاکرات:  سفر فرمانده ارتش پاکستان، عاصم منیر، به تهران به معنای این نیست که توافق در دسترس است. گزارش‌ها درباره وجود پیش‌نویس احتمالی توافق صحت ندارد و صرفاً گمانه‌زنی‌های رسانه‌ای است. وزیر کشور پاکستان پیام جدیدی…</div>
-<div class="tg-footer">👁️ 7.95K · <a href="https://t.me/news_hut/65003" target="_blank">📅 21:09 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/news_hut/65003" target="_blank">📅 21:09 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65002">
@@ -348,14 +348,14 @@
 <div class="tg-text">🚨
 📰
 العربیه: طبق منابع العربیه، انتظار می‌رود پیش‌نویس نهایی یک توافق احتمالی میان ایالات متحده و ایران که توسط پاکستان میانجی‌گری شده است. که ممکن است ظرف چند ساعت اعلام شود.  شرایط کلیدی آن عبارتند از: آتش‌بس فوری، جامع و بدون قید و شرط در تمام جبهه‌ها، از…</div>
-<div class="tg-footer">👁️ 8.01K · <a href="https://t.me/news_hut/65002" target="_blank">📅 21:05 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/news_hut/65002" target="_blank">📅 21:05 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65001">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">خبرگزاری های حکومتی: عاصم منیر وارد تهران شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.54K · <a href="https://t.me/news_hut/65001" target="_blank">📅 19:52 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/news_hut/65001" target="_blank">📅 19:52 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65000">
@@ -374,7 +374,7 @@
 باید پلن B داشته باشیم برای اینکه اگر کسی شروع به تیراندازی کرد و چطور تنگه‌ها را باز کنیم، و من امروز این نکته را مطرح کردم. نمی‌دانم که آیا این لزوماً مأموریت ناتو خواهد بود، اما قطعاً کشورهایی از ناتو می‌توانند در آن مشارکت کنند.
 ﻿
 @News_Hut</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/news_hut/65000" target="_blank">📅 18:27 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/news_hut/65000" target="_blank">📅 18:27 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64999">
@@ -401,7 +401,7 @@
 ✈️
 آیدی ربات جهت خرید :
 @AmoAdmins_bot</div>
-<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/news_hut/64999" target="_blank">📅 18:22 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/news_hut/64999" target="_blank">📅 18:22 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64998">
@@ -411,7 +411,7 @@
 📰
 لارنس نورمن، خبرنگار وال استریت ژورنال: یه منبع میگه هر چیزی درباره پیش‌نویس توافقی که داره می‌چرخه، دروغه و صحت نداره!
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/news_hut/64998" target="_blank">📅 18:07 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/news_hut/64998" target="_blank">📅 18:07 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64997">
@@ -419,7 +419,7 @@
 <div class="tg-text">🚨
 📰
 رویترز: یک تیم مذاکره‌کننده قطری امروز به تهران آمده است با هماهنگی ایالات متحده برای کمک به پیشبرد تلاش‌ها به سوی توافقی برای پایان دادن به جنگ با ایران و حل مسائل باقی‌مانده.  @HutNewsPlus</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/news_hut/64997" target="_blank">📅 17:03 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/news_hut/64997" target="_blank">📅 17:03 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64996">
@@ -428,7 +428,7 @@
 <div class="tg-text">دو هواپیما دولتی پاکستان راهی ایران شدند؛
 احتمالا عاصم منیر در راه تهرانه
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/news_hut/64996" target="_blank">📅 16:18 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/news_hut/64996" target="_blank">📅 16:18 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64995">
@@ -436,14 +436,14 @@
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/T2cor35x7yapPAhtIu1RAwuzpm3DFaUgFXg1M2mG-2CmmYXjUi-Gxyq402Bw7aGM84IpDPWl--X2hkIQJTDgA-GC1TN3Zcu3m6l3IRnON4DO4Tg2CjBWoZoPkz-WtluWp2HJXD6wKqtvYa3LX9YNsIuyenlobtVGbMNizaod5Qd_n1SBUAbp7RQcCTfOBpU3HWvSAGNzHBj9D8oNqn9QajYl1-iq884v_i5pu1gEkBEzVk3XTUKfd6aX7x-ITlD4UKsUHaeRqr71CNACUm5JwniY7Sz48HXO5C9rNd1XbAd2sihJM07v27p4joaNhyzP-kU0LHRj4kPsi-VJPWgV4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یزدی‌خواه، نایب‌رئیس کمیسیون فرهنگی مجلس: نهادهای بالادستی به این نتیجه رسیدن که بازگشایی اینترنت به صلاح همه نیست.
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/news_hut/64995" target="_blank">📅 14:57 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/news_hut/64995" target="_blank">📅 14:57 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64994">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">سپاه: تو ۲۴ ساعت گذشته به ۳۵ کشتی اجازه ورود و خروج از تنگه هرمز رو دادیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/news_hut/64994" target="_blank">📅 14:25 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/news_hut/64994" target="_blank">📅 14:25 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64993">
@@ -451,7 +451,7 @@
 <div class="tg-text">🚨
 سفرِ «عاصم منیر»، فرمانده ارتش پاکستان به تعویق افتاد، این یعنی هنوز اختلافات ایران و آمریکا حل نشده
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/64993" target="_blank">📅 23:40 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/64993" target="_blank">📅 23:40 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64992">
@@ -468,7 +468,7 @@
 🇺🇸
 ترامپ: او دوست دارد من بروم. من سعی خواهم کرد. گفتم این زمان مناسبی برای من نیست. من یک مسئله به نام ایران و مسائل دیگر دارم. او شخصی است که مدت‌هاست می‌شناسمش.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/64992" target="_blank">📅 22:56 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/64992" target="_blank">📅 22:56 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64991">
@@ -485,7 +485,7 @@
 ترامپ:
 ایران نمی‌تواند اورانیوم غنی‌شده خود را نگه دارد. به محض اینکه آن را به دست آوریم، احتمالاً آن را نابود خواهیم کرد. ما آن را نمی‌خواهیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/64991" target="_blank">📅 20:12 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/64991" target="_blank">📅 20:12 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64990">
@@ -493,7 +493,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HIETTuXGEFNPoQbBBY2infADCIxtMqEz2g9qBkJFJ193OJVdiUI5b1XWAfN4l6CuRGsycZMQEMoIuxosjzcka1lQWyvMqhIKysCksluageK4FT1ockdJpfLSu__Lec_rxioCsA_jx15oUe5T6l9T2OY05fP-BIkUI-psz7exKBXi7rzwgDIEnvIWXNrgwooC_3v2L7QPn891OAef93tKgdmdLzB88RAzzt8jtDyjXRNkNsxXOkxRvY0lxVd2jxkcg2O1asEV0iI1O275tJN_ZsjIfvIZPyZcYEOAofKZ-J5X2ReRGWKUSWNaJwbkU8pefeJfPhIAvOo4DhVNqnSldQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ یه پست از نشریه نیویورک پست بازنشر کرد که تیتر خبری‌ش هست؛«چطور میشه تهرانو تو سه حرکت نابود کرد»
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/64990" target="_blank">📅 16:54 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/64990" target="_blank">📅 16:54 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64989">
@@ -502,7 +502,7 @@
 <div class="tg-text">نرخ جدید هزینه‌ ریجستری گوشی‌های آیفون
 ریجستری آیفون ۱۷پرومکس، ۱۰۴ میلیون تومان!!!
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/64989" target="_blank">📅 15:28 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/64989" target="_blank">📅 15:28 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64988">
@@ -514,7 +514,7 @@
 معاون رهبر داعش - ابو بلال المنوکی
 و برای رائول کاسترو رئیس‌جمهور سابق کوبا (و برادر فیدل کاسترو) کیفرخواست صادر شده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/64988" target="_blank">📅 15:03 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/64988" target="_blank">📅 15:03 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64987">
@@ -522,7 +522,7 @@
 <div class="tg-text">🚨
 📰
 رویترز: منابع ایرانی می‌گویند رهبر معظم(مجتبی)اعلام کرده است که اورانیوم غنی‌شده باید در ایران بماند.  آمریکا می‌خواهد اورانیوم بسیار غنی‌شده ایران به خارج فرستاده شود مقامات اسرائیلی می‌گویند ترامپ به اسرائیل گفته است که این اتفاق خواهد افتاد دستور رهبر…</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/news_hut/64987" target="_blank">📅 14:29 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/64987" target="_blank">📅 14:29 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64986">
@@ -530,7 +530,7 @@
 <div class="tg-text">🚨
 بندرعباس ۴.۶ ریشتر زلزله شد
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/64986" target="_blank">📅 13:51 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/64986" target="_blank">📅 13:51 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64985">
@@ -539,7 +539,7 @@
 <div class="tg-text">شریعتمداری: تا زمان شکست امریکا و کشتن ترامپ تنگه رو باید ببندیم
 🤡
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/64985" target="_blank">📅 11:04 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/64985" target="_blank">📅 11:04 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64984">
@@ -548,7 +548,7 @@
 🇺🇸
 🇮🇷
 منابع الحدث: اگر فرمانده ارتش پاکستان به ایران سفر نکند، توافق نهایی ممکن است ظرف چند ساعت اعلام شود  @News_Hut</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/64984" target="_blank">📅 10:40 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/64984" target="_blank">📅 10:40 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64983">
@@ -556,7 +556,7 @@
 <div class="tg-text">خبرنگار: آقای رئیس جمهور خیلی از خانواده ها در آمریکا نگران گسترش هوش مصنوعی هستند، نظرتون چیه؟
 ترامپ: هوش مصنوعی عالیه، ایران نباید سلاح هسته‌ای داشته باشه :)))))
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/64983" target="_blank">📅 04:28 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/64983" target="_blank">📅 04:28 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64982">
@@ -565,7 +565,7 @@
 🇺🇸
 🇮🇷
 منابع الحدث: کار برای نهایی کردن متن توافق میان واشینگتن و تهران به طور جدی در حال انجام است و دور بعدی مذاکرات پس از حج در اسلام‌آباد برگزار می‌شود  @News_Hut</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/64982" target="_blank">📅 18:56 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/64982" target="_blank">📅 18:56 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64981">
@@ -575,7 +575,7 @@
 🇮🇷
 منابع الحدث: کار برای نهایی کردن متن توافق میان واشینگتن و تهران به طور جدی در حال انجام است و دور بعدی مذاکرات پس از حج در اسلام‌آباد برگزار می‌شود
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/64981" target="_blank">📅 18:54 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/64981" target="_blank">📅 18:54 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64980">
@@ -616,7 +616,7 @@
 امیدوارم خبر سفر عراقچی به نیویورک برای مذاکره در خصوص تنگه هرمز دروغ باشد!
 چرا ما در خصوص موضوع تنگه هرمز باید در خاک اسرائیل و آمریکا مذاکره کنیم؟
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/64977" target="_blank">📅 10:38 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/64977" target="_blank">📅 10:38 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64976">
@@ -624,7 +624,7 @@
 <div class="tg-text">🚨
 📰
 نیویورک تایمز:  ایالات متحده و اسرائیل پیش از جنگ با ایران، طرحی را برای نصب محمود احمدی‌نژاد، رئیس‌جمهور پیشین ایران، به عنوان رهبر جدید کشور مورد بحث قرار دادند. احمدی‌نژاد گزارشا در مورد این طرح مشورت شده بود، اما پس از اینکه در حمله‌ای اسرائیلی به خانه‌اش…</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/64976" target="_blank">📅 09:59 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/64976" target="_blank">📅 09:59 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64975">
@@ -642,7 +642,7 @@
 من ترجیح خودم راه‌حل دیپلماتیک هست، ولی قدیمی‌ترین ترفند ایران همیشه این بوده؛ امروز و فردا کردن، کش دادن، کش دادن، کش دادن
 در مورد هر توافقی هم، منتظرم بره سنا و اونجا بررسیش کنیم
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/64974" target="_blank">📅 07:22 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/64974" target="_blank">📅 07:22 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64973">
@@ -660,7 +660,7 @@
 <div class="tg-text">🚨
 🇺🇸
 اولین اظهار نظر متفاوت امریکا نسبت به حمله انجام شده به مدرسه میناب و جان باختن کودکان این مدرسه:  برد کوپر، فرمانده سنتکام: ایالات متحده عمدا به غیرنظامیان حمله نمی‌کند. مردم ایران دشمن ما نیستند. سپاه پاسداران انقلاب اسلامی در این مورد دشمن است. تحقیقات…</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/64972" target="_blank">📅 23:50 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/64972" target="_blank">📅 23:50 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64971">
@@ -679,7 +679,7 @@
 در حال حاضر برنامه‌ای برای تصاحب اورانیوم غنی‌شده ایران توسط روسیه نداریم. این هرگز برنامه ما نبوده است.
 نمی‌دانم گزارش‌ها درباره این موضوع از کجا آمده‌اند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/64971" target="_blank">📅 23:17 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/64971" target="_blank">📅 23:17 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64970">
@@ -748,7 +748,7 @@
 <div class="tg-text">🚨
 🇺🇸
 ترامپ درباره ایران:  ممکن است مجبور شویم ضربه بزرگی دیگر به آنها وارد کنیم. هنوز مطمئن نیستم. خیلی زود خواهید فهمید.  @News_Hut</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/64967" target="_blank">📅 18:17 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/news_hut/64967" target="_blank">📅 18:17 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64966">
@@ -780,7 +780,7 @@
 </div>
 <div class="tg-text">شعار طرفدران حکومت تو تجمعات شبانه: مرگ بر امارات!!
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/64965" target="_blank">📅 15:59 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/64965" target="_blank">📅 15:59 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64964">
@@ -798,7 +798,7 @@
 🚨
 🇺🇸
 ترامپ:   من از طرف امیر قطر، ولیعهد عربستان و رئیس امارات خواسته شدم که حمله‌ای که برای فردا علیه ایران برنامه‌ریزی شده بود رو فعلاً متوقف کنم، چون مذاکرات جدی در جریانه و احتمال یه توافق وجود داره. این توافق به نظرشون می‌تونه شامل این باشه که ایران به…</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/64963" target="_blank">📅 01:56 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/64963" target="_blank">📅 01:56 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64962">
@@ -918,7 +918,7 @@ https://t.me/+ArmBt6ZWMF84ZDlk</div>
 <div class="tg-post" id="msg-64947">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">یک سری کانفیگ فروش طی یک حرکت بی‌شرفانه برا سرور هاشون ضریب گذاشتن، یعنی شما ۱۰۰ مگابیت مصرف می‌کنید ولی حجم مصرفی ضربدر یک عدد می‌شه، حالا ۲ یا ۳ یا هر عدد دیگه‌ای  اگه این حرکت کصشرتونو جمع نکنید تک تک اسم می‌برم تا نه آبرویی بمونه نه مشتری‌ای @News_Hut</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/64947" target="_blank">📅 19:56 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/64947" target="_blank">📅 19:56 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64946">
@@ -949,7 +949,7 @@ https://t.me/+ArmBt6ZWMF84ZDlk</div>
 <div class="tg-photo"><img src="https://cdn5.telesco.pe/file/eYFJBMT4-uVcCj-HR_kzI0YlzscEBXoyYJxVCEyswM_icTtDRLHs1TAepx-kooITJVaV47PAYczHaUsSrfmVqP8zcZIA4QLigllECR8d4sZqcPMMjSbBPNthWPsh19nZRKIQQNXwAglc2e74tWCw_BKH2tZsTYOIaHKytHSLamvhlouYQe2Obr0L2XsobBb9dmUiY2LXxgv4UxUYhznmxOfj6mvgLviuMbJ9-5c1LAYrTJ_oB9smiRQt4e8EJaQytS60aOQsLCQVJgb9gqQTcIGCe6WgihvTdyI_zY46Nk_WBxYCT298W47fkENga19bF8jE1nmXtXvs1LGo-DjQMg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دیلی‌میل: کیر میخواد از نخست‌وزیری انگلیس استعفا بده
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/64944" target="_blank">📅 07:55 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/64944" target="_blank">📅 07:55 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64943">
@@ -1113,7 +1113,7 @@ AmnNet30
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g8NwD2_1Jhmdny3E6dxTOF-eL4o45ERicoMhelpY34OR9RpIx60ZKsZQd49-qD8Lx_iNR2eoCpmNESOypjAR7qvHCqEZ61cooWdYj2ZQifcWFCiw8GYB8ue2tm3Lbe3O5byqFSDtH2nSUZ6TP_JT3wR4uXVg9NDGx-pnWwuz2hr-GSWGhwfecHMh_LOHlGjZTlgEPHIU1IYQsIFAcL6JyQsyCYkRp5dGU2CvRZfnbIz29xUoaoNnotUyeHwIeOaKfdHGMET77ywM9UI5nEXGHXtjwc50l9_fK2csWuljpaTRxT6i1_Ras8fYHNUbToUm5VcP_A8-ICLXG4SBOV2Mzg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بنظر می‌رسه تکلیف خیلی از مسائلِ کشور در دیدار آخر هفته بین ترامپ و شی مشخص می‌شه</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/64928" target="_blank">📅 14:47 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/64928" target="_blank">📅 14:47 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64927">
@@ -1158,7 +1158,7 @@ AmnNet30
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">🚨
 ایران از چند روز پیش منتظر پاسخ آمریکا به این پیشنهاد پنج‌بندی بوده، طراحان این پنج‌بند فرماندهان سپاه از جمله جعفر عزیزی با مدیریت احمد وحیدی و تایید مجتبی خامنه‌ای بودند، طبق گزارش خبرنگار ارشد الجزیره، تمامی این پنج بند توسط آمریکا رد شده!  جزئیات پیشنهاد…</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/64923" target="_blank">📅 13:40 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/64923" target="_blank">📅 13:40 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64921">
@@ -1488,7 +1488,7 @@ https://t.me/hotVPNplus/9
 خرید
 @amoadmins_bot
 @amoadmins_bot</div>
-<div class="tg-footer">👁️ 53.2K · <a href="https://t.me/news_hut/64913" target="_blank">📅 03:09 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 53.3K · <a href="https://t.me/news_hut/64913" target="_blank">📅 03:09 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64912">
