@@ -292,13 +292,13 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-01 03:03:07</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-01 06:04:48</div>
 <hr>
 
 <div class="tg-post" id="msg-928">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده   @danialtaherifar</div>
-<div class="tg-footer">👁️ 436 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 437 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-927">
@@ -306,7 +306,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fFZTR__NEx5MsYCbWcWSWKRS3tjQ_Tgl6K-kjMiGOO3Hhk9mrntiOmIRwMKBI2m1ZaD8WSrchHwijvIom8YgYDE6FIgXw4AedfGxPM4F6UwsOMbMzQGXlpyH7RJjD5HD1zB7on3eYLSxRegRXvUyroa1awyXHFKgY7MnNFR4LVnsEk85O8nJMjCLtmQ2D36cJX0geQpK1ziEto5BYc2W1kbK-3yxx4FonR62HwBubgTo5_BvwxOhB9mo0_i7u08jR9_YNLWPnlZrf8w2qCyprD6BRKvaukAuimmh2o1bwOONx_m1p8obwm6RgqxVi285MSGY4JYxTvEn3-8N-m2uhg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 439 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 440 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-926">
@@ -315,7 +315,7 @@
 😞
 🚫
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 599 · <a href="https://t.me/danialtaherifar/926" target="_blank">📅 18:34 · 27 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 600 · <a href="https://t.me/danialtaherifar/926" target="_blank">📅 18:34 · 27 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-925">
@@ -324,12 +324,12 @@
 <div class="tg-text">درود
 ظاهرا دسترسی به یک سری دیتاسنترهای بین المللی برقرار شده.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 688 · <a href="https://t.me/danialtaherifar/925" target="_blank">📅 16:23 · 24 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 689 · <a href="https://t.me/danialtaherifar/925" target="_blank">📅 16:23 · 24 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-924">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WryMeS98T7P65m4bb_XiKESwKtj3BfkDark-u1wsc_WNmId4WPhbKUD_MKQQYV61Kzo7PIHLnrPf12FjKNWOee1O4tgd0OZqynthNI_B2YDx2EkoGaZrzJlv6ns5lwNB26D8dQ290dkBUMWCXQF-OS2WWrAnBP0V3HDOxlFgcPKrKKe6xXv7WFvacL1QuHQrHnvSgPPH6f7v8oQqiDzgdbTNqdmuMF2mzRQVfKzwdA98HIu5MBTg7-LSxeIysNFx9DC1TJuEvjYDOEiuAbA1yj0vEZ_GGMVK8Y6HRXNNsdwiDuKEuuAYaZuRdvKnzwV_QNSVHnYBwgBBFbLiwEMg0Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SqqjLHGPQGdMa__S7QmaIvyIqDlSpnVDaqSscv9HtJwf_VMmg5-8ZXAomiJCX7-uYF19EXwInsjQ8dVHE1xoGc0l7KelZlP6yXhYl1IL7frKVjkHum853CD8TNmeW4EilRnQoZbstdXh3JvQM9OimopPcnw-jcwA9WKgdW4ud_9FIO0G_Hvm-Alo2wBKL1gwDjITLPrHSjk8XZ0uk_-tWm1iVdh0OGAcqrYXNkuPA13HjzzkVZO4QijgGhzX-m1TsxQ3sf-6WP5d6fYjrRWGYN1JAcuzGJE14ACgN_ZI5cOx58iRjgjn8M8_R9h5DbCniefw6gDbKEdkiTLXyMtw0w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبدیل ضربان قلب کسب‌وکارهای اینترنتی به یک «خط صاف» صفر...
 💔
 ما کسانی هستیم که زندگی‌مان، تخصص‌مان و آرزوهایمان به این «ریسمان نازک» وصل بود.
@@ -350,7 +350,7 @@
 
 <div class="tg-post" id="msg-923">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fCeuabeealOhGP2xN3-H4zcqvpSsY1wJIJccC4K-vx02tQf3TMSde7JC_914FD29b8IRLfiPKL7unB48oDQmIyAZJC-chY_TfyJ6tC1A9nv7SjL3lyvZ-RMZ0CF-oKCrvMjYxMtgO323mrhgPfQAJk8VO-yO5ZyV_0R5b4xhpYEIaJ9mSLxjhw3vAM9ILjyPwOLX1cq0Tr3i3PO9Ezf9drP2WIaMrvBEyCKb12NqJZszd5HY63WrYUXGL_tMLab_Vk4FbN3vn73cgnhuzgvvPtyyVYni6mGKmXARwAROdenFjTv5yN4uAnlGTLYxHsrlhFieO0eQsMT4i-E-TZNPyw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WwhUlz4vxvsV55bQcVNLFDUBgddQNtqE_hUKVR0h6tKO9OwHzd9iYNDVCX5CcIY1q68KrNFSwQ-8DlM5Z4l_GvJoZMYHYvh2nyVZYXfm3rh9pD7X9Bpy757-w1lQ-to8oEyYIQXx1RZ53QkKcRPGoX6BHXwCJog8xfmOThqlBZHrGAboRc6JkmSiq0bQSv7EhtxhxNroTgiixafmy69QJqONTSe32Hm7oxlTf6StSijykxOVEKL_sJHiCci18My4yhYB3D4M6JvYt0et0XqqI9G3jxeg-yL1yt1IjBhq3EbGz6-jt3DX2ZN8_2ibkpg8KrFS0f16xpEIwWVRSnoV3w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 آپدیت هسته مارچ 2026 شروع شد.
 بختت ایرانی...
@@ -463,7 +463,7 @@
 
 <div class="tg-post" id="msg-910">
 <div class="tg-post-header">📌 پیام #83</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V9e3B6ZrZYKZojCntoUHvA7SamRWa9djxQ2RZL5fGsdGSF1v3PoJkMjNsdMMx6Gb_fqMUC0wd2veZMyJUsTerhnj2KwqAYjTvrg4bVgZStpjczfbEPfLsjskhHwCWCpWFdwNt-oaeiObAEdCZ6VZeZIsA3g-CZOKPiLhfRyJn2MqtqA5EwmsN9rlpL3PRQEzGwzDTQok8itwBAhG7_OhnuIMhbNNV0CUiw80QGJ8EHXa0BmzEx3nFveT8c-rBsaIJzcXgxoYDwYEO7xqhw5H_zoKoXofIQk5QUGNQ31wYDYdA4Jxm6gZaJSfXUqXb5le_CPplYOZAxK0km16shjAIw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/A__OZfGMBBceWG4O8A_xFQFICecW-SgAuoE7kKFMFp8IYIOuqygMt6pgnE2Etf61KL7lsTzxPyh5NcZtzSyV_V4S_PgH8rpi0e8B8gRRClBDQbNDQ1y4i96-wZrYCVR0obheQTxnQdRZpE9qn0QkOoum5z8EnvZBn50jCEK954VoPztWIY6UD3Q650OqgzZsNTFriVKsMC0OiZCNTxt2g7_-8hDuDdzaDSU6ynrys8KU_nhsxFhN8oFPxjCGTjz4vIU83AaHTvBPdwiVU6CkStXKl6q1Mh68ch-91DwZ5BN-MRLXkjkLsr0zA9oQ-Ftez0seGICx2YYi2Z1CiPTLPw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مقایسه سرچ کنسول سایت های میزبانی شده در ایران و خارج از ایران:  نکته جالبی که تو این تغییرات به چشمم اومد این بود که سایت هایی که رتبه‌های عالی داشتن بیشتر آسیب دیدن و سایت های رده سوم در سرور ایران هم موقتا رشد گرفتن و بالا اومدن، که البته با توجه به قطعی…</div>
 <div class="tg-footer">👁️ 842 · <a href="https://t.me/danialtaherifar/910" target="_blank">📅 00:38 · 07 Bahman 1404</a></div>
 </div>
