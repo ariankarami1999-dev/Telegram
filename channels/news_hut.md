@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/JUnNWJsmV7N1iUhIGL5gvLe3jD_o84kBX5XwlmHuDxrrnUWrKhRhB0FSm-Ifn_8_VvDTy9tqwzdVxLrVyffjqSOHKUQtM5Z2QAGinhIWjYkJ1j3H_wUkIaiCC8VM4NOao3xGtu9HsltY2ZiP3hFI8rtQ5yjYhby6SbUoT3GR0mtetk0S_MiitvJvIKkkY6XRURxV3zMydBbGN7II4J13cBFaE3O3zjUyjI9NWE99t33h5Zv34Qyi_4moE7o0Xci0mqoF7Y3jS2vgkdouHbGMvY6s2F-wFuYeBd2Pfz6KjUhA05tKzOp207ZE67L2NvAP1R4wUYC1BPW25wZJYzs6XA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 هات نیوز | HotNews</h1>
-<p>@news_hut • 👥 140K عضو</p>
+<p>@news_hut • 👥 139K عضو</p>
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 20:25:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 21:26:25</div>
 <hr>
 
 <div class="tg-post" id="msg-65021">
@@ -300,7 +300,7 @@
 <div class="tg-text">🚨
 📰
 آکسیوس: ترامپ شنبه با ویتکاف و کوشنر دیدار می‌کند و یکشنبه تصمیم نهایی برای توافق یا جنگ دوباره گرفته می‌شود  @News_Hut</div>
-<div class="tg-footer">👁️ 3.44K · <a href="https://t.me/news_hut/65021" target="_blank">📅 19:47 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/news_hut/65021" target="_blank">📅 19:47 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65020">
@@ -309,7 +309,7 @@
 📰
 آکسیوس: ترامپ شنبه با ویتکاف و کوشنر دیدار می‌کند و یکشنبه تصمیم نهایی برای توافق یا جنگ دوباره گرفته می‌شود
 @News_Hut</div>
-<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/news_hut/65020" target="_blank">📅 19:23 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.89K · <a href="https://t.me/news_hut/65020" target="_blank">📅 19:23 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65019">
@@ -317,14 +317,14 @@
 <div class="tg-text">🚨
 📰
 ترامپ در گفت‌وگو با آکسیوس:  در حال حاضر احتمال کاملا 50 / 50 است که یا با ایران به توافق برسیم یا دوباره جنگ از سر گرفته شود. یا چنان محکم‌تر از همیشه به آنها حمله نظامی می کنم که تا حالا مثل آن را ندیده‌اند، یا توافقی خوب را امضا می‌کنیم + ترامپ شنبه با…</div>
-<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/news_hut/65019" target="_blank">📅 19:21 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.05K · <a href="https://t.me/news_hut/65019" target="_blank">📅 19:21 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65018">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">🚨
 فایننشال تایمز: ایران و امریکا به یک توافق آتش‌بس ۶۰ روزه نزدیک شدند!!  @News_Hut</div>
-<div class="tg-footer">👁️ 5.84K · <a href="https://t.me/news_hut/65018" target="_blank">📅 19:10 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.58K · <a href="https://t.me/news_hut/65018" target="_blank">📅 19:10 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65017">
@@ -332,7 +332,7 @@
 <div class="tg-text">🚨
 📰
 #مهم؛ فایننشال تایمز: میانجی‌ها معتقدند که به توافقی برای تمدید آتش‌بس به مدت ۶۰ روز نزدیک شده‌اند.  این پیشنهاد شامل: بازگشایی تدریجی تنگه هرمز گفتگو درباره رقیق‌سازی یا انتقال ذخایر اورانیوم غنی‌شده بسیار ایران کاهش محاصره آمریکا بر بنادر ایران رفع تحریم‌ها…</div>
-<div class="tg-footer">👁️ 5.94K · <a href="https://t.me/news_hut/65017" target="_blank">📅 19:08 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.56K · <a href="https://t.me/news_hut/65017" target="_blank">📅 19:08 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65016">
@@ -341,7 +341,7 @@
 <div class="tg-text">🇺🇸
 پست جدید ترامپ تو تروث‌سوشال: ایالات متحده خاورمیانه!! با پرچم امریکا روی نقشه ایران
 @News_Hut</div>
-<div class="tg-footer">👁️ 6.81K · <a href="https://t.me/news_hut/65016" target="_blank">📅 18:49 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.21K · <a href="https://t.me/news_hut/65016" target="_blank">📅 18:49 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65015">
@@ -351,7 +351,7 @@
 #فوری
 ؛ مارکو روبیو: ممکنه امریکا به زودی خبری در مورد ایران منتشر کنه شاید هم نکنه امیدوارم این اتفاق بیفته
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.42K · <a href="https://t.me/news_hut/65015" target="_blank">📅 17:35 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/news_hut/65015" target="_blank">📅 17:35 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65014">
@@ -368,7 +368,7 @@
 ما هم بسیار دور و هم بسیار نزدیک به یک توافق هستیم.
 دیدگاه‌ها به هم نزدیک‌تر شده‌اند، اما نه به حد یک توافق — بلکه به حدی که ممکن است بتوانیم به راه‌حلی برسیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.45K · <a href="https://t.me/news_hut/65014" target="_blank">📅 17:30 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/news_hut/65014" target="_blank">📅 17:30 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65013">
@@ -382,14 +382,14 @@
 </div>
 <div class="tg-text">توئیتر اکانت ترامپ که با هوش مصنوعی به ویدئو درست کرده از مجری سی‌بی‌اس که مخالف خودشه و ترامپ میندازدش تو سطل زباله :/
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/news_hut/65013" target="_blank">📅 15:56 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/news_hut/65013" target="_blank">📅 15:56 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65012">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RJQ7UQQaeeVyme0Cy3RksoCBJUl7m0BQKV4IParg7FNEH9zVdjNnG7UfIIKVFIi5cfjCjA9RRsMNDW-0TE8cnxq3bdPSf8d_0C5magzDiVRUDyjYgrzuYnCMh4M2MfLUbCioWfgV1GvOZoy6OQ1BvpDSJCtn-WZ2XH_k9jxH-_DvXwhQRiJdA9EWjxS0XoU8WNn4apPXFjImKVhBP_AEm8QcedfhBMUFBgsQ-Pc4vx-Eo-IiU4edt1_0NoJ9RRCsxOKYsQAGkFK_gvLkvzVaxMBQL-Qe73WWjm3CGfQMxyrBxvPjG9iuvPKPLI_kN9Ef1L1mb1VrtPcE5pGCSGOlRQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ عروسی پسرش بود نرفته، آخر هفته برنامه گلف داشت که کنسل کرده و تو کاخ سفید مونده حالا خبرگزاری‌ها شدن دو دسته یه دسته میگن توافق نزدیکه حتی متن توافق منتشر میکنن یه دسته متن توافق بقیه رو تکذیب می‌کنن و میگن کلا حتی نزدیک توافق هم نیستن دو طرف.  این وضعیت…</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/news_hut/65012" target="_blank">📅 14:31 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/news_hut/65012" target="_blank">📅 14:31 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65010">
@@ -406,7 +406,7 @@
 اینستاگرام پولی میشه ولی برنامه ما رایگانه
 🤡
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/news_hut/65010" target="_blank">📅 13:43 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/news_hut/65010" target="_blank">📅 13:43 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65009">
@@ -414,7 +414,7 @@
 <div class="tg-text">🚨
 ⭕️
 ایران با صدور اطلاعیه‌ای، پرواز در بخش غربی حریم هوایی خود را تا صبح دوشنبه ممنوع اعلام کرد.  @News_Hut</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/65009" target="_blank">📅 03:17 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/65009" target="_blank">📅 03:17 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65008">
@@ -424,7 +424,7 @@
 ایران با صدور اطلاعیه‌ای، پرواز در بخش غربی حریم هوایی خود را تا صبح دوشنبه ممنوع اعلام کرد
 .
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/65008" target="_blank">📅 01:23 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/65008" target="_blank">📅 01:23 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65007">
@@ -433,7 +433,7 @@
 !
 شما با این وضعین می‌خواین در مقابل آخوند بجنگید؟ جای تاسف داره واقعاً، حیف مردمی که گوش به پست و توییت های شما بودند و هستند!
 #hjAly</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/65007" target="_blank">📅 22:35 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/65007" target="_blank">📅 22:35 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65006">
@@ -472,7 +472,7 @@
 <div class="tg-text">🚨
 📰
 العربی‌الجدید به نقل از یک منبع نزدیک به مذاکرات:  سفر فرمانده ارتش پاکستان، عاصم منیر، به تهران به معنای این نیست که توافق در دسترس است. گزارش‌ها درباره وجود پیش‌نویس احتمالی توافق صحت ندارد و صرفاً گمانه‌زنی‌های رسانه‌ای است. وزیر کشور پاکستان پیام جدیدی…</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/65003" target="_blank">📅 21:09 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/65003" target="_blank">📅 21:09 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65002">
@@ -480,14 +480,14 @@
 <div class="tg-text">🚨
 📰
 العربیه: طبق منابع العربیه، انتظار می‌رود پیش‌نویس نهایی یک توافق احتمالی میان ایالات متحده و ایران که توسط پاکستان میانجی‌گری شده است. که ممکن است ظرف چند ساعت اعلام شود.  شرایط کلیدی آن عبارتند از: آتش‌بس فوری، جامع و بدون قید و شرط در تمام جبهه‌ها، از…</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/65002" target="_blank">📅 21:05 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/65002" target="_blank">📅 21:05 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65001">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">خبرگزاری های حکومتی: عاصم منیر وارد تهران شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/65001" target="_blank">📅 19:52 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/65001" target="_blank">📅 19:52 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65000">
@@ -533,7 +533,7 @@
 ✈️
 آیدی ربات جهت خرید :
 @AmoAdmins_bot</div>
-<div class="tg-footer">👁️ 6.25K · <a href="https://t.me/news_hut/64999" target="_blank">📅 18:22 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.31K · <a href="https://t.me/news_hut/64999" target="_blank">📅 18:22 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64998">
@@ -543,7 +543,7 @@
 📰
 لارنس نورمن، خبرنگار وال استریت ژورنال: یه منبع میگه هر چیزی درباره پیش‌نویس توافقی که داره می‌چرخه، دروغه و صحت نداره!
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/news_hut/64998" target="_blank">📅 18:07 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/news_hut/64998" target="_blank">📅 18:07 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64997">
@@ -551,7 +551,7 @@
 <div class="tg-text">🚨
 📰
 رویترز: یک تیم مذاکره‌کننده قطری امروز به تهران آمده است با هماهنگی ایالات متحده برای کمک به پیشبرد تلاش‌ها به سوی توافقی برای پایان دادن به جنگ با ایران و حل مسائل باقی‌مانده.  @HutNewsPlus</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/64997" target="_blank">📅 17:03 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/news_hut/64997" target="_blank">📅 17:03 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64996">
@@ -568,14 +568,14 @@
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OV1FkoN86TpuoM0ffGkjuuLPJz4kBj8UC80yPWLx3CgDaxxb2YZKiTCVurrF1tdgfZVfWfE0VM6URqz7jZaIlqz6AiSxHoyDisXhLsOkmC3YVGBJj9DQ2TWnPSh0X9mjMwtD62IXkDKG5MxhVvc5qhlNmnSwwyClWF4wz3-AMMLoQt1cI6tFYE2E6fBHleyGP4WpZA5i3Oe_cd7sH5ijRrRk5cJ_U9V_kTIXwK8JBq9OzBt2UFyOakZxfpOKY7VWjrY7-9U9OQx9rlGGkL76lPq2tgOsr7WgKfcDyPUeVSOqg1k3yfR95i_Mxb7u37XOGvfRxmM35IQClvAiu8FQHg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یزدی‌خواه، نایب‌رئیس کمیسیون فرهنگی مجلس: نهادهای بالادستی به این نتیجه رسیدن که بازگشایی اینترنت به صلاح همه نیست.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/64995" target="_blank">📅 14:57 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/64995" target="_blank">📅 14:57 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64994">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">سپاه: تو ۲۴ ساعت گذشته به ۳۵ کشتی اجازه ورود و خروج از تنگه هرمز رو دادیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/64994" target="_blank">📅 14:25 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/64994" target="_blank">📅 14:25 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64993">
@@ -617,7 +617,7 @@
 ترامپ:
 ایران نمی‌تواند اورانیوم غنی‌شده خود را نگه دارد. به محض اینکه آن را به دست آوریم، احتمالاً آن را نابود خواهیم کرد. ما آن را نمی‌خواهیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/64991" target="_blank">📅 20:12 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/64991" target="_blank">📅 20:12 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64990">
@@ -625,7 +625,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mIGDVzZKKpIwvDdr1VkonBhev7Q0sI2lp5qsOeEWbaviII3ZT-7CturhwUcZuPW7Cc66boiJ_4ESprp0L9qbQBRAN0Gb4H_24S3EFZTjmveXRJlvaGGyVqGvi0D9ouDZtK73tSQuNKPcFM72spElQ7p_vZ6_oh5fTjj2uTEJotIB1oH5eglffhV65TNGDnv2sLzXmozthOm2FX9WSqY7LMaPtgWsfZCPcwmNYv1EXmrjpRneGaTmTg-7pDQ8dFmyGoIY_135bz_dKV1kmaRyrollizAX3pnTjxfirJwcqj5dZXTpzJ7NQpC6Q3L_g7psFUnN_U4Zs0-PVxkvExxLpw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ یه پست از نشریه نیویورک پست بازنشر کرد که تیتر خبری‌ش هست؛«چطور میشه تهرانو تو سه حرکت نابود کرد»
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/64990" target="_blank">📅 16:54 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/64990" target="_blank">📅 16:54 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64989">
@@ -646,7 +646,7 @@
 معاون رهبر داعش - ابو بلال المنوکی
 و برای رائول کاسترو رئیس‌جمهور سابق کوبا (و برادر فیدل کاسترو) کیفرخواست صادر شده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/64988" target="_blank">📅 15:03 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/64988" target="_blank">📅 15:03 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64987">
@@ -739,16 +739,16 @@
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/358ed734a6.mp4?token=h15JW6q1J3f086mX8W3p8NLZ2EOjfrEiY7mIHjWXeB--vjHV5wrmRsgbGyyIRD5sff939pJrooUtC9s-AkGi5Mrs28z-2PurRdS94cFdpdMCPc46Bma8qaJmFbBpzdq-uBGcHpd6f8n4QsD69vqHDG0hfVHNKcD3KMJ9bKBju2sAJ1mTmSkfZQb4oLnjMrpB0ME0lTwakgRSUvNSnQ8RdvNsBRYdl4gKDSnQAws7WtSECJS9KwY6cNQu7rW-IXQjFILrYgjjsDDWkcIcJebvDyari-rA2UsOOoJcqtt9uJIgdaRpEwEl8OzbBr7XqUHOQA42XduRChgyIA24PTx7wA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/358ed734a6.mp4?token=R7tgp0dd-73lHs-ilKgNbskKyfSmBNmW5Ww7EQnEeRRc4EdwwOWhQkGgiXT1FLP2hqMC4tkLI-PtAUA3Ld0aE7bOC7zAo2qaQ8jnPJ4aww2AjKc9vHyYGyF6KAyueha7-l026JqbVm3MWhKO834RWd8DR7RvH-Vfbs_mVySYq4y8-6yEdnkfMkhdxXiw1dXsTym1q0KTLK5i74eL8QUbuHyHR-Vz-NLqdP_UzeeuMuIwZm62b7jv8PNoF15zDYV_GdA7arj_gJcs_RjR2w1LPd9jO7Xxtf6h9Ko6r4vQjsfsOXOsGFHUYLY9Vl1WVCIG00ot9RI_FZEub7TC--zt6A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/358ed734a6.mp4?token=h15JW6q1J3f086mX8W3p8NLZ2EOjfrEiY7mIHjWXeB--vjHV5wrmRsgbGyyIRD5sff939pJrooUtC9s-AkGi5Mrs28z-2PurRdS94cFdpdMCPc46Bma8qaJmFbBpzdq-uBGcHpd6f8n4QsD69vqHDG0hfVHNKcD3KMJ9bKBju2sAJ1mTmSkfZQb4oLnjMrpB0ME0lTwakgRSUvNSnQ8RdvNsBRYdl4gKDSnQAws7WtSECJS9KwY6cNQu7rW-IXQjFILrYgjjsDDWkcIcJebvDyari-rA2UsOOoJcqtt9uJIgdaRpEwEl8OzbBr7XqUHOQA42XduRChgyIA24PTx7wA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/358ed734a6.mp4?token=R7tgp0dd-73lHs-ilKgNbskKyfSmBNmW5Ww7EQnEeRRc4EdwwOWhQkGgiXT1FLP2hqMC4tkLI-PtAUA3Ld0aE7bOC7zAo2qaQ8jnPJ4aww2AjKc9vHyYGyF6KAyueha7-l026JqbVm3MWhKO834RWd8DR7RvH-Vfbs_mVySYq4y8-6yEdnkfMkhdxXiw1dXsTym1q0KTLK5i74eL8QUbuHyHR-Vz-NLqdP_UzeeuMuIwZm62b7jv8PNoF15zDYV_GdA7arj_gJcs_RjR2w1LPd9jO7Xxtf6h9Ko6r4vQjsfsOXOsGFHUYLY9Vl1WVCIG00ot9RI_FZEub7TC--zt6A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">خضریان،عضو کمیسیون امنیت ملی مجلس:
 امیدوارم خبر سفر عراقچی به نیویورک برای مذاکره در خصوص تنگه هرمز دروغ باشد!
 چرا ما در خصوص موضوع تنگه هرمز باید در خاک اسرائیل و آمریکا مذاکره کنیم؟
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/64977" target="_blank">📅 10:38 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/64977" target="_blank">📅 10:38 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64976">
@@ -774,12 +774,12 @@
 من ترجیح خودم راه‌حل دیپلماتیک هست، ولی قدیمی‌ترین ترفند ایران همیشه این بوده؛ امروز و فردا کردن، کش دادن، کش دادن، کش دادن
 در مورد هر توافقی هم، منتظرم بره سنا و اونجا بررسیش کنیم
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/64974" target="_blank">📅 07:22 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/64974" target="_blank">📅 07:22 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64973">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eYmzHpqFCOMR-jxm6Ye0NqQdTByDJ-SOXypTW7nQsC6s5XUYXw2LCIqz4L3yNhJZ8szaHD-BxBaWZteEtl8pNOmScv_0dg50UCcQXHvv8GGRQG5_t50QkTh7sP8FOFRl5nzNBhNXr5olEC_TNTtAbqyqV-Bn9A_0-INuJjVPeHFnRKIJvo8O7N2L_YRkqcP93UTzIF8ukp9o7MLQP-lItpB34fqtktkxGt8Qa6HB7wsrtOMtMwfj-AEqI7rphOsyNkEHIvt9vTgfoqTzHFV2sXxrw6mmWOaRqBiGXziE2Sm3w2Rqj_JMjuUjtbm4AAUhZGnxLkdjQFNP0-qiPfX-1g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V5Oo0VfsIswHlg2zrbO4J0dxXl9lnrRI3ULw46brsYmmwnKPQq3MQH4U5g3h-nHaz3zey9GucN4bdUaCknMZkabp0GEz7wDefYA8sGYI-yTH0G7513qRe8KXYWEVL4MXjyjCTDHNxUj54pHS5kwo2_LraPL77m1i-2x4uBwnEpuVjms7byvQoQhT3qcy7O7il1aez3r-ccV4CjS7GIu19ZeZyOCWfgkOsIvbrK8EYMe-frFB6_ywjOUCc309D6RDqiIE-poQQsDOvEYKvpYRudANuq69rmNNV_pxzTBjlFqOwMzvznlMWPYGFrMiRrce4m32vYU7T38pWwMYrJXUKQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">غریب‌آبادی، معاون وزیر امورخارجه:
 امریکا میگه دستور حمله رو به طور موقت لغو کرده و در سایه تهدید می‌خواد مذاکره کنه
 اونا باید اینو بدونن برای ما، تسلیم معنایی ندارد؛ یا پیروز می‌شویم یا شهید.
@@ -862,10 +862,10 @@
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/2efb45471e.mp4?token=mfbBXASvFJjQo8gxRA0j1EMH8qZr_PFjx0oDc_aTYNVuiAmQnZ7TmtqIXUh2fqkoOhG_zYmM7uMLmFNcpOQTEBYxM3hBUml_tv31lh7-6gPEndmkQyv8pZF33K-no6nyvjLcX0rh6rBbTRUpTMauYKRA-QpwGrsIwuGEe2Qs3_BrlU3lxOYOGsaY8muPntCO8_rsj0jO0mFno1gcnpgsIuI17Aveu9ivmB7gOhfXFrpj-KWw3m-vDq3e_utevaxVHqe2qruItHC2kkfKB7dNbiMs1RFwv3OfZpHmfFnK61Te_vRz_9uO6ddqA46H7f4L0kmeBFuybxh1EN2KGXSf-w" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/2efb45471e.mp4?token=sTMG4UubWL4slbiWGUq39tcRczLbniSpmkwgNQrAp0JPrdWgL74qdAWM2Zy8vRa92t-2B4oElysYYysrpI__2EDMBpXM_AJgt-ii9TtrJl_8ntvlbZQlcFmzQUtOjmkzKcNE6m03WAPPdrOpqJoASdEjbw_Ws2P886qU4X1AG4UIapoipR4EZqDyRasCH_A5Hn5wHH2mhRTs0LD1eSetw9G_Q_csjoSKo7c2ndTGVO-cLA1jzP3_Rp-SBusPHLwyRwCuAmZOZ94yFU_ijyWV7FpObmV9Ypybt6S_6Vr22TlQJ23W70I_zNi_KAqTz4EmQwk3Z7lz9LWXIBlorKGfaQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/2efb45471e.mp4?token=mfbBXASvFJjQo8gxRA0j1EMH8qZr_PFjx0oDc_aTYNVuiAmQnZ7TmtqIXUh2fqkoOhG_zYmM7uMLmFNcpOQTEBYxM3hBUml_tv31lh7-6gPEndmkQyv8pZF33K-no6nyvjLcX0rh6rBbTRUpTMauYKRA-QpwGrsIwuGEe2Qs3_BrlU3lxOYOGsaY8muPntCO8_rsj0jO0mFno1gcnpgsIuI17Aveu9ivmB7gOhfXFrpj-KWw3m-vDq3e_utevaxVHqe2qruItHC2kkfKB7dNbiMs1RFwv3OfZpHmfFnK61Te_vRz_9uO6ddqA46H7f4L0kmeBFuybxh1EN2KGXSf-w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/2efb45471e.mp4?token=sTMG4UubWL4slbiWGUq39tcRczLbniSpmkwgNQrAp0JPrdWgL74qdAWM2Zy8vRa92t-2B4oElysYYysrpI__2EDMBpXM_AJgt-ii9TtrJl_8ntvlbZQlcFmzQUtOjmkzKcNE6m03WAPPdrOpqJoASdEjbw_Ws2P886qU4X1AG4UIapoipR4EZqDyRasCH_A5Hn5wHH2mhRTs0LD1eSetw9G_Q_csjoSKo7c2ndTGVO-cLA1jzP3_Rp-SBusPHLwyRwCuAmZOZ94yFU_ijyWV7FpObmV9Ypybt6S_6Vr22TlQJ23W70I_zNi_KAqTz4EmQwk3Z7lz9LWXIBlorKGfaQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🎙
 خبرنگار: دیروز چقدر به حمله به ایران نزدیک بودید؟
@@ -959,7 +959,7 @@
 <div class="tg-post" id="msg-64959">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/CK_dFbxD5GnOem0B7fFQdmvdE2VPFQehkw6ui2oi1-4tsRVlz1OWZUSAXRKTD3rd1xg71x4Swa43lT_F3gBn5JJ0j304c8hwueiWizT7_WGfVwONTjTPLaRM1BlN67BTnLQyJ-dY4nC7y7JBhd8SIj9mBh6NdZHFVjwBCSvlTzSMk35YuQi2X0AcaBCPAOAvvd3OIiRI53wdyNGw5TKBY4RXj9m5G2wX0anAzljukc1LPH0Jcwtc_Pmfo9JWX3m-ysItC1v704arnbGxiEu1FN_BeyYmrM9qphzSsZCog59gk0gZlG-DR8ekAxr9SZ3fAIUcI-LZO3ksptbDTtmc5A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/h83WFuBXtwOzReL5ttnUCRHIp1AxUyTpdEzlM650FGOH0BqPeGi8qNmeE5EH2Xxkza5QfEoKrbby7ag7Ac575hQusJtiJA4EWzxrgnINVwtHn7mh9Vjr-X7UH4RDy7qe1rjbFwBLo6Ns_iPjykaur3sQXj2MT_jBTzc2cW5GWKSgmI1BFytWW5ztEiI8R0QvU7T_Gnstn_0Cqi5s8go9KHBRh487pZBVJNNOO1LjfKEYJNxxiS4owoSN4TioZl0JeieiexAqDzXEXty-fm_CEHh-2mDafrHWgeOEVSXj5UInHXTQz9VgwZRTsWBSwAcVd6WG19lh6EOnHpRjTpHeGg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/F_OiyJAKbQKbtOS3LBRswLpEMUiqEmNMaWXf3fHFukIeG7_HopCJEFKsJ-eZ5s_m4e1dbmgMPjFRnqCOkNBoOiJXHBTAT4oJP5_7o9cb04P5zn8b67yvv1rnywfU5XP7nU2o0RZmjctpiFExIPck7TGhVNmMbLuJcmtqJCc7-9pzCoCESt2jA5mFT6_ls15GnIRCTdHczcFd1UZYBg8wQt5fscrY5bAydVlrWBVgZIOUpTk-EeFUVQvUiR5R3RGhsWfoaL2KrE-6J7fF7e2oPfrnRf83Hn6f4R7AeX8hPAa3Pvp3YAsYM5nhjS_tJXiifxc-LAaWAsveK7QNKauGbA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">قیمت خودرو ، ۲۸ اردیبهشت‌ماه ۱۴۰۵
@@ -981,7 +981,7 @@
 <div class="tg-text">🇺🇸
 پست های دیشب ترامپ دلقک که با هوش مصنوعی ساخته.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/64952" target="_blank">📅 10:15 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/64952" target="_blank">📅 10:15 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64951">
@@ -1000,7 +1000,7 @@
 <div class="tg-text">پزشکیان در شبکه اجتماعی که فیلتر شده
 روز ارتباطاتی که قطع شده رو تبریک گفت
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/64950" target="_blank">📅 21:45 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/64950" target="_blank">📅 21:45 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64949">
@@ -1091,7 +1091,7 @@ https://t.me/+ArmBt6ZWMF84ZDlk</div>
 🇺🇸
 ترامپ در سوشال تروث: «این آرامشِ پیش از طوفان بود»
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/64943" target="_blank">📅 00:08 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/64943" target="_blank">📅 00:08 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64942">
@@ -1351,7 +1351,7 @@ AmnNet30
 <div class="tg-post" id="msg-64916">
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from[ 𝐇𝐨𝐭 𝐕𝐏𝐍 ]</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/D0_Yu2oW3jlakOA18WfDiC3C_RxZQmRwqOxrh5-JIJrGM_1yLuheM7HtD8zy0ys9GUEomkV15NN5HKesuHf6LnD0ZyTw40phALPf5TTETDhqxRRLVGXs_rl49G3AWH4LYzuTEo7UjcPpKPbdh-tQe8NG0r1yfEevAQhpQxCo2OT4szt-ObwOL1fHD5fvSA9WnJFyzQFPJH_f3c-U7LCo3mlkUhVF-dKc9OH7ZGMDW81o0ZiYTIvmmSBYD1WT0_eszq3Yrp1wNYTOZ_mB1r23X7uPLt6I4ngj0gV3heI_-dWaR7BhAyLhwq2uBnWBah3FmOk942A3stqLBM3cgu_Tmw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qYCooPdEDPCCrHpyZJH2xGLY8H_a5DKWPkOl64oz4nf2tFVCkU0mSMEz-3unkpywtSrJGdfb1cUAMfzWPdptO4LiLG4XkCB-CELTg_3xXfXiX65gCDMdrJPFwWYqIby-7DW-mRNJGvP_uEBSJVKBe0MdGmra2uEzSa7pxt1iVV8-DOTxcgi4J3wxoiTj2yt1pCJG1bMtRVVztfpyXUz_csNYxAe1sHacPvglh_w6OwpQ65Ipg502wiunJxwJERfGvPckzaVi62kSZrTYffz8cvG63gz8cNwgPGDOHpcGfMSNc1cX1AKuLyK97y-ctH0SCOZG-EwbTULVbaeWSj-O3w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📱
 👑
 یکی از فیلترشکن هایی که گزارش اتصال خیلی بالایی از اون میاد، فیلترشکن غیررسمی سایفون بنام شیر و خورشید هست، دقت کنید این یک ورژن غیررسمی هست که تعداد زیادی از کاربران تونستند با این روش به اینترنت بین‌الملل درستی پیدا کنند! در آخر پست لینک دانلود این اپلیکیشن قرار می‌گیره
