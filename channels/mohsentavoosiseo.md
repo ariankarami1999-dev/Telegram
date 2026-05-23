@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 16:34:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 18:15:48</div>
 <hr>
 
 <div class="tg-post" id="msg-686">
@@ -311,7 +311,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rc2en89syBMSz47fCJ6mbgJVj71WzoCzbm0UswRLYffwFzqwtrQwc9yJaLRQIzjXBykYffkLFaiGpTfTybjrcpkpenPv3a03MlCQT_mn6v7mS_Y8WGTqLFPIcc4y9eWMSG3xlYchriajVSIFBTXqf4fZ8gENu3TjhpwT83vnTyGnEdSaJBvgsz-ApQ8SRxIq5tYglM-ojJn953GIMqkuwN5lerucR0rDHUizb3JxVDO0_iP5Bl1RWHvIfHWwM5lFut6j21gBY9O8eDrOBU_QV2L0QEfSkOv9RdH6_Ug2ufnnEUDmS_lwROzYCgGNw7qykOj7NcYdz0tjFSE7cfHAaQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به مرحله ای رسیدیم که هوش مصنوعی، خودجوش، خودش از دیتای خودش ایراد میگیره. خیلی خوبه. تبریک میگم
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/mohsentavoosiseo/685" target="_blank">📅 21:01 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/mohsentavoosiseo/685" target="_blank">📅 21:01 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684">
@@ -551,7 +551,7 @@ MB یعنی مگابایت
 چیزی که بار سنگینی از دوش من برداشت
 رها کردن چیزهایی که میخواستم حفظشون کنم
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.78K · <a href="https://t.me/mohsentavoosiseo/655" target="_blank">📅 17:20 · 07 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.79K · <a href="https://t.me/mohsentavoosiseo/655" target="_blank">📅 17:20 · 07 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-654">
@@ -639,7 +639,7 @@ X.AI
 
 <div class="tg-post" id="msg-644">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EuiujLCSI6xZFCW-Pzdnvbe4vSdS21svkqntUjRj59VdeVMwuyX2lOkcfZOis3Z0QTettCcIzeSuR6p-6Lo5AkhpB7oCFfhK9ecd6DVTnX3mtOLrWptdGe2zTRw1oFA8qoFpNqvfEAtqSb9sK5GzBcXOz6PfL-jXsjm7GUijhe22M7bx303Jcw7Fo9b-4yYARi4WOiuvfci7LCgimQvn-MPNjYdufaZVwXpJffuJ3pASNZ4yYv3pKhjX90bKnQFkYPcdZNvF6wUdglWs6VODwhnxpDLbE3FlRwAOFiRCXs6ULv6KWYZWSldGubxDVdqOej8wHRsnxRvF5IVUPwFeYg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Rt-8qDYiH6nPPLDhijxyKj2-Mzn0T1_C1pkMdlKcFIu9XqUB42OsGBR8YUQj24cNCTvXdRUTF34ET0LNnEmLG-lww6sEhssSQ1LwgYFX9Ym1Zz4zfvrj8kHAmjB5URec_8v5W0KK3z5u11xs72BL6fJaOImjHQulxS5z_U9DhoVNKrnLi5h7jI5f4ByB4xY_Pgb1jVl3PE_x2WsG5ZzkKfaw8od0ZP3LZWTEt2ikbSpavwVulKxSSR89eqYIS7ZFDij43MVRKD84y0iqx-5hJsRI3Fv1bphDR4x5ebRczZtxF2os6-2f9oCAYndXFPAL33RqnEK2J7P6aRsPq2CXgQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">و البته ادامه دادن، یعنی سرور اولی هم از خارج هم از داخل در دسترسه. آموزششم بالاتر گفتم رایگان:
 https://t.me/mohsentavoosiseo/623
 این که دوره نیست. این که دیگه پولی نیست! این که با این نقل و نبات شدن اینترنت بین الملل وسط قطعی، دیگه هزینه ای نداره عملا.
@@ -958,7 +958,7 @@ pinned «
 
 <div class="tg-post" id="msg-602">
 <div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Pax1tv1o8EL-c7dKPPdgeaymhYJiNSKjWXGKs-Rsmwc2aX47Zynp7fwDt2C3fCESlrVKJpiNMv9GiFOmGotoMuABvILRM5q0tHAzerawz4lFy0Cy3lwLfuTMZ6KTBL00s-0XjqGjcbm2TAtK3i4TQOqhJbUxvAnCMc7ODFsq8fKcWlXRMbpaZGNURP3v8g5TmEh9M1N-I-6-Sa7EGberQ8vKfp3qzBlxEKUqFlraj72zb2kZ7jmdelI16e33OS9FOLzoyAjn7BeYaQuU40_YHEzieyH9MJpu1brgSjRWLiSPbcSxrKkyV4D-fFzHoOVrGQPhC34qZw8VVqHmVX8dNQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fKo96vGLJwgJF3ovoUVCpQG9AMqNsIk-LieZbR17V_8HTDRBi41PIitNkpWK-z5usaFu25NpK_iaP3wkH0CY4h46QYmEXzCYfEz6X7UBR8D1TTI_TgTjinMfBywhl6zpRzrNcF12JDeApmhPRS0XoIiCPpqiJMwa21mLIY2u5S4QY9_7x9Hc-f89XarAwwl5B2KSvWxrbB0nNqsWG6CfX90U1ufraIQl3YqGCkrWSrVYPyG0r7fDJrkFvxnk2V4SqTRiEZlVHt1pFL_Iw9--_aT2O2sM7yhqWF-ePNBh8w5HhAurb34E5L-XCxIm78eCvUUURYH_RF4ClxWIgkFmmw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🟢
 تو ویس های بالا توضیح دادم
 ✅
@@ -1085,7 +1085,7 @@ https://www.linkedin.com/posts/mohsentavoosi_aebaeoaew-activity-7409525124615348
 
 <div class="tg-post" id="msg-591">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CD_zwnt6Bgxiw-yszSW4KBsy5mwa_-PqSGsgoB74fTbMfPL1bEjqyDee0W52UtXLhTTs2h8vZiPGaadjPlM7RkJewaWbZNoSdu0whwcA5xJB-me7DZ969RcBPPoI0FnJSTH4q59e2rTJhI7gAfUJ_xX6QvUIEg97-tLZBTXBugQ58m6fBW9LbYjjoZ7a-g0CISXVQEGNhqy-3Y66gy4lljk0BoIzF-ATvW_J_TIhj6ma40jAJ6YpOPJIZmWkNjVG9BC6q_ETsy1DyFEeGoC3Q8lBOPfyGZX2-sxxZNBSrEeqMJWIJImgBdn8sy4meNVe-nYjqQQ6Sck11L93rwhT-w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bH7zpjuNlleRA3eRDwMJVQ4s2mH4u99vYce0KqkGwzJQ7MfwitLf2-5yhmkdZXLR5O1rKuD0QibHHWJfcxCn3EWTZl6vZarxzCGLQ3q5HHna19iLhhfTobqgU3ml5jB0KaPV60Cgxo5U0Jb845dKh88uqxwuKL9Umgmk4vzL2FYn1gIZaDZsf-RTnQ7TqVbkOsMZw6nbi7hFDTPlZv8VtpF6fLNbvQXB5mmVWPUVVJWeF3_pip1ffO4vK5Em7V0FM-eGr9jJKbDUBAbavG-m-dN6YClimbdLlOBvtYfLATfvXc6Zb8NtaWmYGc2im3cnJJJ4cAhArGmnuWsF19Xc4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">https://eseminar.tv/webinar/%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B3%D8%A6%D9%88%D9%84%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%DB%8C-%DB%B4
 در این رویداد حضوری، قراره من و جمعی از دوستان در پنل درباره بحث قیمت و بازدهی رپورتاژ ها در سئو از نظر فنی و تجاری صحبت کنیم.
 من برگزار کننده نیستم و صرفا یکی از اعضای پنل هستم.</div>
@@ -1110,7 +1110,7 @@ Disavow & Ahrefs
 
 <div class="tg-post" id="msg-587">
 <div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QCudDYzGZYn6g3YhnFRUzmvuiyr4m1juwZrCPq9I8okMN1Rv4Zn7AOIiX6WdvQSl2ig93m2BTx5-0WwcqFCKXAMMzmonKDGLAp9M7amA9ROQdnYwVyZP4qyl6-zL0fwPyKcxe_vG4rdriydpw2NfnbeMuw4tjPf5mmyod1GIb8LppFsmcW29rSC75SxF3Mazkksk2gDeoT7cxieA52dz_u0JO_o25W3L-BqhlDWgPmeOBNtcboSFb7aoQR0EWnQ8MGxRqG2tuqEWq93YddqbsBc1JJpT-i13MN31yVhYRiG80CR0BB3ON8UPSPRf8hqcqVPWJG-QFvIg2K8pgmySlQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fwkqiYoQIin_dONfns8RS6gHAkTCjWFF9inA82fuOkHtmBvWGVgOvkBV4psDHR8mqS8Yyb0rmTTJaYmc37xE4je_LbHHuhbFconSU36Rf7c5r8jpDqQIwQS64W6RI_JlN5JkO5NLt5fsbCwPrnb-LHdpnE2Nj45EerKymBKSaV7HRScruSYdw3SN2FZgz8lbMi-TLmSy2rHKRHdXZtm8mL3WjMHZAHzNsahe5S209bZOJsBJR1lfvplQdn2ync7nMJ3OaSmvW9od29GXAXE1sMJvcjZgZFDYouEyqp1iuOTsbLYQpp7WeIDhs-wqdb30Pzp0kWTSKZj4Ft7t6qsJyg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تا ۷۸٪ تخفیف خرید رپورتاژ (انواع بک لینک)
 تا ۳۵٪ تخفیف سفارش محتوا
 از ۹ تا ۲۲ آذر
@@ -1280,10 +1280,10 @@ https://youtu.be/P9NGXdQF1Ks
 <div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a79e28f998.mp4?token=NywguxoZT0Olb9R9Z4L3YpKAfSkjjZ6WQASwLzKMDSaPXwQP81UOSDKiWEF_wf-jG-YRWU-1kHjBvbIWm6gp_6-iO57MM-27a28F4vzfrEIvcNC2kJ0pBsoXp_Ag0LQRukC6ljRe5xvHr5fgeTtr1qrQPSaEzT0pS1j_JBlqBIylBAe_uiCIMqW6rEBSbHc64qU-6tWt9a1l2qSrASokKZ3Qe0FbzSysP2zfJyWDXlFNe1CWrcxZroeZFVl6TAFB-NAxOhA1hV28m4Zr5P5cB6cd1Q3s3NF8t-9XSikBZVZ8j0S0ekFflN5dp7WMREypVmACNn1RXoXuunDCIbzR0K1hBhx3aP7Y4LNQVFBMV30gi34SN2OV0nHWqRaJrJiXhck_a0eBhfea2XVLwEjut0ejiKxMM8oOfCPRtqCSf9R0OXDfSMV8aEe5ZNIwtCFSOevRyCLlL0LlqhaJw-ub2r494Turr2WpDtYxVHbpzPFZWpdHGsUSKFGOIVA2KpqY_8f7M9Rq6udkS8XZnFKka4sF64m8qDjmJzWUmKgnKuXMfN9T5f7czPUcGv6aHp2oBZy4uxv9bPB9PeQJetyRCC0hCbsEmSps8FFc0IJi7Y8DKnndONlxecHDK-FVrbSMauqiHGbVPwzIQXMZ0t_AeL1Fj7stBMb-OP0H6AwC7L8" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a79e28f998.mp4?token=J-acmrpl3lPdnSzW-4aBsxOVZmV4MJ8Vzxbf43cPUQs9evoK0uxgSyDGdegGsI2b0eSwK3fA1CCy-6IOkcVGOuKMYe_dTgTcmmvmhxOpwVO2txJm9jkRmqAMYldieOXG78yqUg7aow7kNXt-12W1jCELKB2fM4zeA3j9wJZ9mE30M4BxpiSe03Xro6CHttfHcbrC6hyfS7QPylt6l-EzJ2ec00HJUxkT1zzSAxSX76Uh0C8DlDRWGCP_J8Wn0a0lswRxRczCl4hoUPQJxtYSHP00J5JEONUwWovsGxWeMdIPud6Y_Cub459gBGtMvUnvcYZroZMR-YeOjq2GL4wJdFfQVVmuOy_ny7wrXgXjMx1_BacBBHsGtlW-_-zlLkBVHH5Ze6RdAsKmeM04Ukfb57T2GZ3XmMsPMvuAECJDayB-bLr81TCRRmDIfLhipI2TIOmECmiFXF3eX-yET9dYogbnP6WrobfVFSraeooqWwM8gRwDCZciMCbz6Ovm1suNUKL5TdLfegFPFFEHRnWHZPIQQma-HAY9EBY0U1lZzOHaSM3Nbe2CxqxQihjMS3kipkcwg-soHMZfXV8CUdVUzZRWMPiFXTUqDrPoqdoP1EmaKuNKIpay2MIlaDDUjyDflgbIx2fhajTxYLpBSwGI7jlSAfXMymNcZlWA2ZM-vcI" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a79e28f998.mp4?token=NywguxoZT0Olb9R9Z4L3YpKAfSkjjZ6WQASwLzKMDSaPXwQP81UOSDKiWEF_wf-jG-YRWU-1kHjBvbIWm6gp_6-iO57MM-27a28F4vzfrEIvcNC2kJ0pBsoXp_Ag0LQRukC6ljRe5xvHr5fgeTtr1qrQPSaEzT0pS1j_JBlqBIylBAe_uiCIMqW6rEBSbHc64qU-6tWt9a1l2qSrASokKZ3Qe0FbzSysP2zfJyWDXlFNe1CWrcxZroeZFVl6TAFB-NAxOhA1hV28m4Zr5P5cB6cd1Q3s3NF8t-9XSikBZVZ8j0S0ekFflN5dp7WMREypVmACNn1RXoXuunDCIbzR0K1hBhx3aP7Y4LNQVFBMV30gi34SN2OV0nHWqRaJrJiXhck_a0eBhfea2XVLwEjut0ejiKxMM8oOfCPRtqCSf9R0OXDfSMV8aEe5ZNIwtCFSOevRyCLlL0LlqhaJw-ub2r494Turr2WpDtYxVHbpzPFZWpdHGsUSKFGOIVA2KpqY_8f7M9Rq6udkS8XZnFKka4sF64m8qDjmJzWUmKgnKuXMfN9T5f7czPUcGv6aHp2oBZy4uxv9bPB9PeQJetyRCC0hCbsEmSps8FFc0IJi7Y8DKnndONlxecHDK-FVrbSMauqiHGbVPwzIQXMZ0t_AeL1Fj7stBMb-OP0H6AwC7L8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a79e28f998.mp4?token=J-acmrpl3lPdnSzW-4aBsxOVZmV4MJ8Vzxbf43cPUQs9evoK0uxgSyDGdegGsI2b0eSwK3fA1CCy-6IOkcVGOuKMYe_dTgTcmmvmhxOpwVO2txJm9jkRmqAMYldieOXG78yqUg7aow7kNXt-12W1jCELKB2fM4zeA3j9wJZ9mE30M4BxpiSe03Xro6CHttfHcbrC6hyfS7QPylt6l-EzJ2ec00HJUxkT1zzSAxSX76Uh0C8DlDRWGCP_J8Wn0a0lswRxRczCl4hoUPQJxtYSHP00J5JEONUwWovsGxWeMdIPud6Y_Cub459gBGtMvUnvcYZroZMR-YeOjq2GL4wJdFfQVVmuOy_ny7wrXgXjMx1_BacBBHsGtlW-_-zlLkBVHH5Ze6RdAsKmeM04Ukfb57T2GZ3XmMsPMvuAECJDayB-bLr81TCRRmDIfLhipI2TIOmECmiFXF3eX-yET9dYogbnP6WrobfVFSraeooqWwM8gRwDCZciMCbz6Ovm1suNUKL5TdLfegFPFFEHRnWHZPIQQma-HAY9EBY0U1lZzOHaSM3Nbe2CxqxQihjMS3kipkcwg-soHMZfXV8CUdVUzZRWMPiFXTUqDrPoqdoP1EmaKuNKIpay2MIlaDDUjyDflgbIx2fhajTxYLpBSwGI7jlSAfXMymNcZlWA2ZM-vcI" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🟢
 انتخاب عنوان رپورتاژ
