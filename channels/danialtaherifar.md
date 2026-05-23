@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/IT-_mesDln1Hs6g1UW1VwV2d4mhNhR7BWLcwYxVOzZdkL_SxnMpv66sOAKxUDvq1tzvwehckRxJq8BIMF9d2MGZCYwJketJyUZgnjP3I9BV05-xt3oW5nTBtUxmFAvF2nWXaorf_wWsnP285FQkWbA422JBu5QaunqAU1IGxD2h27av8u8fJZ9513wVejOfmc1wSjRxf43rDbVk2Uazaj7MKp8nDGJ3DJGgmW3K7iBSsn3gG6PUpARST0xgJ20PKrxTHdd7g1mJCkxgwBVI7uh4OJE-cJsgdgyE-sBDaTuAW4s49XYX5hIs5lXSCsPcZ4ibriBJlrQDVS9cndmiLqA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 دانیال طاهری فر | آموزش سئو و دیجیتال مارکتینگ</h1>
-<p>@danialtaherifar • 👥 1.56K عضو</p>
+<p>@danialtaherifar • 👥 1.55K عضو</p>
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 02:35:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 04:51:32</div>
 <hr>
 
 <div class="tg-post" id="msg-928">
@@ -329,7 +329,7 @@
 
 <div class="tg-post" id="msg-924">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SqqjLHGPQGdMa__S7QmaIvyIqDlSpnVDaqSscv9HtJwf_VMmg5-8ZXAomiJCX7-uYF19EXwInsjQ8dVHE1xoGc0l7KelZlP6yXhYl1IL7frKVjkHum853CD8TNmeW4EilRnQoZbstdXh3JvQM9OimopPcnw-jcwA9WKgdW4ud_9FIO0G_Hvm-Alo2wBKL1gwDjITLPrHSjk8XZ0uk_-tWm1iVdh0OGAcqrYXNkuPA13HjzzkVZO4QijgGhzX-m1TsxQ3sf-6WP5d6fYjrRWGYN1JAcuzGJE14ACgN_ZI5cOx58iRjgjn8M8_R9h5DbCniefw6gDbKEdkiTLXyMtw0w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J1xOovCDNcEpsSeNhUVFybTh-_4KIQEA9_HuDdyt1k7R4-Rv-Jmgvtq8EpG73XrwVA3TlZFIKRpdmQ3ERTuvdSvgAjigjgHZosvaCkABX2Nrp4qhaLlOU5d9inW63pmZ-DEI2zFEwgQpG8ZouItp_GD5u4uX8Id9_UB8BKojZHfodk0IdBlK4tS_6_eokfZiBLz0gZn6eiZRSLc4YmlS20E0hpsd3bGfpmNUT5KAFUgpzBy2Vjm0PO6bAIgv0ZVbATpjPxI-CN5AQnR94PpCNDAh0kYgTqvBAlTveW_gYL16gxJ46LvlUsXYdg3VHBjpzQ8HCdlhSgbaoRQbbPfKzA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبدیل ضربان قلب کسب‌وکارهای اینترنتی به یک «خط صاف» صفر...
 💔
 ما کسانی هستیم که زندگی‌مان، تخصص‌مان و آرزوهایمان به این «ریسمان نازک» وصل بود.
@@ -350,7 +350,7 @@
 
 <div class="tg-post" id="msg-923">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WwhUlz4vxvsV55bQcVNLFDUBgddQNtqE_hUKVR0h6tKO9OwHzd9iYNDVCX5CcIY1q68KrNFSwQ-8DlM5Z4l_GvJoZMYHYvh2nyVZYXfm3rh9pD7X9Bpy757-w1lQ-to8oEyYIQXx1RZ53QkKcRPGoX6BHXwCJog8xfmOThqlBZHrGAboRc6JkmSiq0bQSv7EhtxhxNroTgiixafmy69QJqONTSe32Hm7oxlTf6StSijykxOVEKL_sJHiCci18My4yhYB3D4M6JvYt0et0XqqI9G3jxeg-yL1yt1IjBhq3EbGz6-jt3DX2ZN8_2ibkpg8KrFS0f16xpEIwWVRSnoV3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aZCy17fqNzBkOu27-hJt4C9UvsCn8TrDDD6_KtmhwUZXDpo3RAs4iso5U3U4xq9vkFcOFIHAuqkiyQmBZXwquXNXAcp7dJcJJJCxXaBRDA68EXpiUVQnQFQQCrB2SJ1rxZbEhTqeK-iwkZUEVtv-ur6ZhF-oKfcSroyPdfPzjQFNRb7tEAPDFg21DnVwyPPc9NFeHQ2j2LJGbCjOIIr1HGXJZjYygOFRT8rLHhcfkHu7IFYZNQ_5o-tH9EvJcfz9QRI6xd-oS6ZTmd2T4dFcXc0Db7O7z8wxZdvaymIhxiSOhiYevs-Jgo0TvClms2w2uZSNiT9r5d4JjeEVzLLy7w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 آپدیت هسته مارچ 2026 شروع شد.
 بختت ایرانی...
@@ -463,7 +463,7 @@
 
 <div class="tg-post" id="msg-910">
 <div class="tg-post-header">📌 پیام #83</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/A__OZfGMBBceWG4O8A_xFQFICecW-SgAuoE7kKFMFp8IYIOuqygMt6pgnE2Etf61KL7lsTzxPyh5NcZtzSyV_V4S_PgH8rpi0e8B8gRRClBDQbNDQ1y4i96-wZrYCVR0obheQTxnQdRZpE9qn0QkOoum5z8EnvZBn50jCEK954VoPztWIY6UD3Q650OqgzZsNTFriVKsMC0OiZCNTxt2g7_-8hDuDdzaDSU6ynrys8KU_nhsxFhN8oFPxjCGTjz4vIU83AaHTvBPdwiVU6CkStXKl6q1Mh68ch-91DwZ5BN-MRLXkjkLsr0zA9oQ-Ftez0seGICx2YYi2Z1CiPTLPw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nGYOhmEKSTf46TmGmzm88uHg1wAiFnKYEDDfgAxYviTwmK2v3OSjyKzI5jsAeWR-GfWIQ3MkmWBjcoitpZvMTmn-ppECiuVAbAsGEStz1HtOQsLaJe1aq8Y4eKSgWFS4tzb59sAPA_F7hhF6AtdZWPxA4FGuzhZmh0JtGkeBjs0-6QqRXwrBTNLvCOA7dGeD2GWJdNwoph6HGoo4g7YXIFh5deWndrM44KH-mW8-8_Zj6RHxGozzQmtR7qlS2F8sYdw4D8awWRXsj11E8poquB51eD4axBni0tMwe-_R2DZkkaikracFVHgZQpj0dXn2DFZqTZ-3SJB2WXpNcN_lAg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مقایسه سرچ کنسول سایت های میزبانی شده در ایران و خارج از ایران:  نکته جالبی که تو این تغییرات به چشمم اومد این بود که سایت هایی که رتبه‌های عالی داشتن بیشتر آسیب دیدن و سایت های رده سوم در سرور ایران هم موقتا رشد گرفتن و بالا اومدن، که البته با توجه به قطعی…</div>
 <div class="tg-footer">👁️ 842 · <a href="https://t.me/danialtaherifar/910" target="_blank">📅 00:38 · 07 Bahman 1404</a></div>
 </div>
