@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 18:15:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 19:26:33</div>
 <hr>
 
 <div class="tg-post" id="msg-686">
@@ -303,7 +303,7 @@
 اما اینو میدونم نباید همدیگر رو سرزنش کنیم...
 به امید روزهای خوب.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/mohsentavoosiseo/686" target="_blank">📅 16:25 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/mohsentavoosiseo/686" target="_blank">📅 16:25 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-685">
@@ -365,7 +365,7 @@ https://t.me/mohsentavoosiseo/633
 https://t.me/mohsentavoosiseo/634
 https://t.me/mohsentavoosiseo/639
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-679">
@@ -451,7 +451,7 @@ https://t.me/mohsentavoosiseo/639
 ❗️
 - موقع پرامپت دادن برای تولید چیزی یا انجام کاری، بهش دیتا نمیدید یا دیتای کمی میدید و بعد از اینکه تولید کرد تازه یادتون میفته بهش مشخصات بیشتری بدید. مثلا برای تولید عکس، نه سایز میدید نه نسبت نه تم رنگی و واقعی بودن یا کارتونی بودن یا استفاده کردن یا نکردن از چیز خاصی و... . اما به محض تولید هر خروجی یادتون میفته که ااااا اینم باید بهش بگم. تصورتون اینه که مغز شما رو باید بخونه اون بدبخت.
 @mohsenavoosiseo</div>
-<div class="tg-footer">👁️ 2.99K · <a href="https://t.me/mohsentavoosiseo/674" target="_blank">📅 15:48 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3K · <a href="https://t.me/mohsentavoosiseo/674" target="_blank">📅 15:48 · 16 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-673">
@@ -779,7 +779,7 @@ https://parspack.com/cdn</div>
 <div class="tg-post" id="msg-626">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">پست های بالا ویرایش شد. دوباره ببینید. تو اپ های داخلی هم برای کسانی که اینترنت ندارند بفرستید شاید مفید باشه براشون.</div>
-<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/mohsentavoosiseo/626" target="_blank">📅 17:09 · 21 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/mohsentavoosiseo/626" target="_blank">📅 17:09 · 21 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-625">
@@ -1365,7 +1365,7 @@ https://mohsentavoosi.com/video/search-console-click-count-bug/
 
 <div class="tg-post" id="msg-554">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/poGMKFl6qdszjzsQRNTGbGG_LdM_xzN8XK7Yo3j1T2bHREruQrXwvThkFq_KX47DZDlDfdICBHupfY_g0PVdKLMrZalW5cfLjMIs4uQ8_6kmp4X-9aZgeW8r7Abiwsw96sTKR1nM5p3NioEVJJOz_abfrmIT37SNEyJIjYQOXhqwMftpcsIa89Fy0TYEvWdOhQT26IOEXoMVOi3TcFgDsPCrZjfTOQCmZPt3EF65H9DDXm5y3ePSVaLZhcT7Uw_8B71AYFy60A5j-vZoCqYpy3KSdqDKYW1a6h98Thi2ZPNuk6kPSWJHuLpG59SKKfR9rJ3qhCJbNVX3fwsu2tvUQg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UnaI8TuL6y_Tm5sKSHCTHZnMSS1uod-a6lUZ5iJkL6F1px1TpWmta8Qll1FLucgP_L2ozDKnDfm6UJbwgEwWNG3Fd-hFqxLJdEplYsBn0Q6DtveD5A7XWmOJEtOpQ_3T0fiLkEp8_PvSQxK_X92Jy5SGYkL9k7WILKugGkrIdxk_aLhZ8cgvw-z2080inndNKYgvgXQOM_oPrRXFcmdZGJCqkBob66FODPcPwwsjBFLsLLP2uuLaK0LrkP0YEAoPdVPhEIdubdkkPr1vtKWOFzMx80tKGn8tLbjeMm3LTb83t5IcmVMWff0si4yp9DcEBXsdSIKs7n5UGGmE4B6_Gg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">من خیلی می بینم که به دنبال ابزار رایگان هوش مصنوعی هستند. یا مثلا میگن فلان ابزار AI همه ابزار های هوش مصنوعی رو با مبلغ کمتر داره! این به خاطر عدم آگاهی و اطلاع از این هست که هیچ رایگان شدنی بی دلیل نیست و هیچ ارزان شدنی بدون تلفات نیست.
 برای مثال ابزارهایی که همه ابزار های دیگه رو یک جا ارزون تر میدن، دیگه امکان آپلود فایل رو نمیدن. یا ارسال ویس یا حافظه ای که پاسخ دهی رو برای شما Customize کنه! ابزار های رایگان هم که تکلیفشون مشخصه!
 یا صرفا دوسه تا تقاضای اول رایگان هست که دون پاشی هست برای خرید بخش پولی. و کسی که حاضر هست این همه انرژی و هزینه مالی مستقیم و غیر مستقیم بابت ارزون تر یا رایگان گرفتن چیزی بذاره، قطعا یا کاسبی و درامدزایی نمی کنه یا داره پول بیشتری هدر میره و انرژی بیشتری تلف میکنه.

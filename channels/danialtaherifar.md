@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 18:15:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 19:26:33</div>
 <hr>
 
 <div class="tg-post" id="msg-929">
@@ -300,13 +300,13 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C4NzkJKqYYckFrGBjvl8BquiEB_OT5qHD_kaGdYjgi4XyaH6RxVzmd-0nLnfisX1Fh8nYZmXSC3KLEMPBGc69QygXNYNnoCDbq0h3-QAvvYy1UJQAihSLLZ5wEkU8NxBkE1xvADLRYstldKktfh7li_Kiidqx70exy0Pwe5_iVmkazgHSg0AbEWJuxsoRYE0AOtpAtoXd3I1rDxfYgmbXUFzao0XXZ6JAMSzg1T3ph-iTITRothMPajaNwtiaUJjQf7DsmVi_8F_PP5-jF9uN6QhkgHkJne0BR8PMKgqy6J7JLgeogT3doh0EupQ0NHkd2iQ_H6shXtiFKcUam7ohg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 آپدیت هسته مارچ 2026 شروع شد.   بختت ایرانی...  @danialtaherifar</div>
-<div class="tg-footer">👁️ 155 · <a href="https://t.me/danialtaherifar/929" target="_blank">📅 13:24 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 165 · <a href="https://t.me/danialtaherifar/929" target="_blank">📅 13:24 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-928">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده   @danialtaherifar</div>
-<div class="tg-footer">👁️ 565 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 574 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-927">
@@ -314,7 +314,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n8fo9JTUePTAYuXlLarGqT3yQV0GW4Vd0G4l8ncLdDtpHwsmDf84qe_g_uW2564Gp3GbJUXCHfz4Lv11vEJ7xK5UuP_NhjCyILl0uz8RyLxGa-lnZerundz1mX38R4QCgJHW-Y4oa8O5BjTLZRVWPyyOVIIZTx3CFVGblX3NwV5-LJJbZnrkjJ50wYEoUceTYeQvI__MKI0ropo8wrtxM7-km6cWVA9cIcot-e8_4Cp1Gt2nIK8oVW0hbFkmWXV8MvD8bXvlbUjHUb0TngBQrsRDjPk48OeF0LRtXaoMPuQLYgA0NnIdIwT-6dea6y2WyCs-c4pBV02BijLw6egkuQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 542 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 552 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-926">
@@ -323,7 +323,7 @@
 😞
 🚫
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 671 · <a href="https://t.me/danialtaherifar/926" target="_blank">📅 18:34 · 27 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 677 · <a href="https://t.me/danialtaherifar/926" target="_blank">📅 18:34 · 27 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-925">
@@ -332,7 +332,7 @@
 <div class="tg-text">درود
 ظاهرا دسترسی به یک سری دیتاسنترهای بین المللی برقرار شده.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 755 · <a href="https://t.me/danialtaherifar/925" target="_blank">📅 16:23 · 24 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 760 · <a href="https://t.me/danialtaherifar/925" target="_blank">📅 16:23 · 24 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-924">
@@ -353,7 +353,7 @@
 #کسب_و_کار_اینترنتی
 #ایران
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 934 · <a href="https://t.me/danialtaherifar/924" target="_blank">📅 13:42 · 11 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 938 · <a href="https://t.me/danialtaherifar/924" target="_blank">📅 13:42 · 11 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-923">
@@ -363,7 +363,7 @@
 آپدیت هسته مارچ 2026 شروع شد.
 بختت ایرانی...
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 773 · <a href="https://t.me/danialtaherifar/923" target="_blank">📅 13:26 · 07 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 775 · <a href="https://t.me/danialtaherifar/923" target="_blank">📅 13:26 · 07 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-922">
@@ -373,7 +373,7 @@
 طی تماسی که با پشتیبانی همراه اول داشتم، مشخص شد که این سرویس در حال حاضر فقط برای مشترکین سازمانی و اصناف ارائه می‌شود. در واقع سازمان‌ها می‌توانند فهرستی از اعضای زیرمجموعه خود را ارائه دهند و سرویس تنها برای آن افراد قابل تهیه خواهد بود.
 در حال حاضر برای عموم کاربران چنین سرویسی ارائه نمی‌شود (و امیدواریم هیچ‌وقت هم نشود؛ وگرنه رسماً با پدیده «اینترنت طبقاتی» روبرو خواهیم شد که بازگرداندن آن به شرایط عادی، بسیار دشوار و شاید نشدنی باشد).
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 789 · <a href="https://t.me/danialtaherifar/922" target="_blank">📅 17:39 · 06 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 793 · <a href="https://t.me/danialtaherifar/922" target="_blank">📅 17:39 · 06 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-921">
@@ -385,13 +385,13 @@
 سال نو مبارک و ایامتون به کام.
 با آرزوی بهترین‌ها، دانیال طاهری‌فر
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 735 · <a href="https://t.me/danialtaherifar/921" target="_blank">📅 19:38 · 29 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 736 · <a href="https://t.me/danialtaherifar/921" target="_blank">📅 19:38 · 29 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-920">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">در حال حاضر بیشتر VPN فروش ها کلاهبردار هستن!  مراقب باشید از هر کسی خرید نکنید، مگر از قبل آشنا باشید.  @danialtaherifar</div>
-<div class="tg-footer">👁️ 755 · <a href="https://t.me/danialtaherifar/920" target="_blank">📅 14:45 · 24 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 757 · <a href="https://t.me/danialtaherifar/920" target="_blank">📅 14:45 · 24 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-919">
@@ -399,7 +399,7 @@
 <div class="tg-text">در حال حاضر بیشتر VPN فروش ها کلاهبردار هستن!
 مراقب باشید از هر کسی خرید نکنید، مگر از قبل آشنا باشید.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 875 · <a href="https://t.me/danialtaherifar/919" target="_blank">📅 12:47 · 15 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 877 · <a href="https://t.me/danialtaherifar/919" target="_blank">📅 12:47 · 15 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-918">
@@ -410,7 +410,7 @@
 با هر ماجرایی باید صفر بشیم! باید کلی استرس بکشیم.
 امیدوارم این آخرین قطعی اینترنتی باشه که تجربه می کنیم
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 899 · <a href="https://t.me/danialtaherifar/918" target="_blank">📅 00:47 · 14 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 901 · <a href="https://t.me/danialtaherifar/918" target="_blank">📅 00:47 · 14 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-916">
@@ -1086,13 +1086,13 @@ Schema.org
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/v501znjdmUcpRyP1v6TOiJ7_msiOI_RrENmznCLRndGZVJ44pci1e6-r7HaIw5SUXudS088HCjm6GLulxKhnUFxQGoahVGvX-U2dGGdEA2bwIRi0Gw5YFAw7LucwRtz1ALYtyUMHJjH1SL8bDdQG2RayNJ_Sndk0mTlWK-i4aXXHRu-fDV7Mz2iQbJf2hIsPPfxgtMjGchuZWHy_zH5CJtXiT_oBqicnq8_Ol8TsILeWBEcEUZHkfH5yyH-mpswO6mYJgjQLQs-BRSFGt07cd5x5ap0Xm_WkqiIAy_c62jiZULW9_9raa3Ow9bVJ3nusg_krJMI06kapKiqIdJeHvA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/cwBb5addX_mPQZP2gdP1fci0Et9ft2P5PfwGNuVA29HK25NCsOB1jQFpeSgHTvNx28KX41PTcBaOteeCn7WjQQa4TmPwtDyHLEZmm17I4wyCcnVgblREoBl4Lf3_eHUqZ6Sgw2rcVdXqTtkPTn1GJ9xHOsLtG7ROkheZVHxtE8Zh0V1Rnnqnyz1zjZ9l1xHe_QQySnPdY1ao-gpucmDi2O22FJenxUVg6loF67o0UxzdXqPuas65UEuA8D32OSHJS4_sDnfS7s8lFd8fd7SaJnOjOtiFu2nfwUZNgYSlLhOEt79P6P_JeYsVtZUAEtCEIuElMOemjdZd5Ain6ltnBw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/qHlKYTY3KKR4OoO6W05KOkIALkAF4m3onHqx5sV9VEDjVNT1RM8UpQA0tG_4HVnW9OPrOAOtbmd-_lhPudXfl7sgFilk68yIIxv_CI222PKtZtoA0Z4X-gylmGLZebn4UU6qyA_cR4LnBe1exAsMoLqhOGngR13HCibbgk-1GQvZd9tKeP8C0_7LajyO5pI6eDtlPX6ttkml6vk_oYAKdSKKB7Xk7hh0KYdA1rTDKvtVnm7kyLTbZELPFRxtp4a-3XjYxnk3s1HUJjO1-sf0_vPvtl-z_Zl39GpfHPiewxrD6qe2VWhnoV_JoFs-oqFrv4xILzKnegkltgSo8bYonw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/YOhSlrsFy6Ert36xInlvP1PI8AkiDkAqnVn-r_qCmLPx6ZoiMIaUrMos94FmPWs1asw8GDE1fvjUxMIYt22AnX7qbAOVZxbQ3--hZx_OZnpI5axJYmtlKRTsp48vSVHXUlQA6xX2lLdgpbPFeEfLSP8prX9g4r8REQCHtY50yJxinIx_NFg_3eEb2sBpMz95eXcCe7_4t8ru0VwQXTlkAtLF29KGpXW17JfJURTeIhUYGDhtI3S997T1ap6_B1ZnyEVJ9SEcbRzoddtiVwBQ_PdYtn6v5GcKCKSf22FwCSeF1LnuifjnfK4AJwXVc3SHVWt8SIQjCxdWCWq-gAxlUg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/MYtcaGTe2G5o8GDDyB3JasEljBtROTZOiwH6uhbYSDntM4Fc55rmKN66v57KumEwyMXodmtZvciAiRNjJJCcYBJIDbeiwiE9B7jUEAJO7pCkNrY6oSwNg_APXKpNniA13WJpu7l6g_FTQ9T96zRCVjBAvEfFjrblcV6URkshe4FSvzoCJa_b50-TIGFnPSg89ig2RD-Uym_0qCjc2zvdQ7HVhhAFcoHxDqWAMmFwLqYsWzqpnY7vYRhSpMo2wz6BEyGSlACsGiTfsaMkwTLQUCHkNFpx3U5Zjezh6h-d9RTmC9damcaz9nyuvk0AfwM8aT7aY-5XSr9LU_IOftKzbQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">📊
 سهم جستجو (Share of Search) چیست و چگونه محاسبه میشود ؟
 📌
 سهم جستجو (SoS) درصدی از تمام جستجوهای مرتبط با نام برند در بازار است که به برند شما اختصاص دارد. برای محاسبه آن:  1. تعداد جستجوهای نام برند خود را در یک بازه زمانی مشخص بیابید.  2. تعداد جستجوهای…</div>
-<div class="tg-footer">👁️ 779 · <a href="https://t.me/danialtaherifar/874" target="_blank">📅 16:20 · 21 Ordibehesht 1404</a></div>
+<div class="tg-footer">👁️ 780 · <a href="https://t.me/danialtaherifar/874" target="_blank">📅 16:20 · 21 Ordibehesht 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
