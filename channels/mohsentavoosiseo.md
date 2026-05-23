@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 23:43:20</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 00:42:24</div>
 <hr>
 
 <div class="tg-post" id="msg-686">
@@ -365,7 +365,7 @@ https://t.me/mohsentavoosiseo/633
 https://t.me/mohsentavoosiseo/634
 https://t.me/mohsentavoosiseo/639
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-679">
@@ -973,7 +973,7 @@ pinned «
 
 <div class="tg-post" id="msg-601">
 <div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sbNSUwKQtoVOivCV5exGU9Pvx0_41gxDabyeMWPpqT1nFbYCX5VHxjB-G8VIXvl9MVlWv1VZRhLWRUyyneacDgmuQRVN-rM_lkL4-CaXkQco8TLSoHBeZo3QqzPfankWl_Vsic0bQUW_SO_47zdsv3nDDnQEBIAINz8_Q99aplaCw5cpDcqR7tBfP7E-eBGjIgl8OskKEkRyF8R5vLAjVcZ4Sn0XmBwKeDKgBKfqmIkBtZaJ7jXUthcu0j3bLBlc5lbquhWnAGnQy5p6S5Bqr_kdmz3KOIl0TbbsQtB3WVC1oygRp2-bJt_ZWG3A5ZwsYg-lHbx30b9gHT1CXoLl_w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/avPOgxrqOShIfxau98creeGtxrJu3un9JgGfGpAX4-BVc6z1Kwt8jFd5RdWipf-lHybwLjvRS6ITUgVyaGeXkb6wXvgu-Ls5qgvFt-epJm3owsBxDohkqeoBR3qMqjWKUfWL3RzZFKGJU0iR_o59bel6U5EntWbmsJ_g81_HQYSw3-nCgURIVu3k7RTq6JOKcdLuEj76zFNDCaBQUprHWPQVWHWtKhVhmj34g61l3yvWMrTrLnyOzVFLSVD37TnFRY44fPI7BWx_3H31Q5XwW-7dIbb75L2Y8HcI42Ei-Z32wdOW2bW2WeutRUYo-gQKG_MVsNzLOBJK3xpSPy8MBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🟢
 تو ویس های بالا توضیح دادم
 ✅
@@ -1355,7 +1355,7 @@ https://youtu.be/QVNgzWYGTks
 
 <div class="tg-post" id="msg-555">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/av03BOZXfPggaVL7CNxK_Ai6fj6tDDDBcQ5fqJsYK4W1LIOG0rLK5BffoKm9ZjPF_QrOq-PP_WRXJYs0cUsOxDGm127vilgYxiNGp0tP-olpPmL76OpoDGmMqvB-dFVxGBuinwgVjm3rbVjs9JjxeOB0IVUdOV5bKUOM3xSIumlW7QIUZOeCtbDg-yD7eCVbjwRoLwWcPRJag5z3ywJFrPi4OAjYRbe9OBB3nahcjTW7RIYgkCRV87aO8sQ5AxED6rPu9u9SyvJxb2Txr_Nwdaj7lYg75iwQaLGGil6WQYnAuYnvELOCPKQbL8jCgpKTfATK1fJ831EPx_Bym-nAxw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/olueo6Hpp2AoT_AXsTEmmZJfWabrDcnppvx_jH9mkmd-jpu7oHdSnbUbhkMw09dGN8EFE8Y9yJKaAczj820iIqn7PF_CAVjgYOj30AmLtfCaPwXRBQjBuP21X_EGsB2uyAoXcC6Tc3aV3iy_id3ixu8xnWSp0hfApfbun3AdFqvPAsz2BRVscr_mBcaH00qUI5rnI2QUEc9oXHjiLTncPOir2qQB-76e5c9zi24vCcEVUUstmJq-rZ-f9nfBxzKRypMwRSWKpxD5_mI6g1TZ6V8GRB4Woa48aCdKr24BupYxt9STtFI5-xqp5ThhghDaWtBZ2UuHg8UoRbJZDZqXPw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایراد گوگل سرچ کنسول در نمایش تعداد Click و Imperssion
 لینک آموزش:
 https://mohsentavoosi.com/video/search-console-click-count-bug/
