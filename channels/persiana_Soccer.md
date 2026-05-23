@@ -292,7 +292,7 @@
 <a href="https://t.me/persiana_Soccer" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پرشیانا ساکر دریچه‌ای تازه از اخبار محرمانه و داغ فوتبال ایران و پوشش اخبار اختصاصی نقل و انتقالاتهماهنگی و رزرو تبلیغات:@adspersianaپیج اینستاگرام:Instagram.com/Persiana_Soccer</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 00:42:24</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 01:42:52</div>
 <hr>
 
 <div class="tg-post" id="msg-22268">
@@ -307,14 +307,14 @@
 <div class="tg-text">▶️
 ویدیویی‌از تکنیک‌ ناب‌ودیدنی نیمار جونیور فوق ستاره برزیلی‌تاریخ‌فوتبال در دوران حضور در PSG
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/persiana_Soccer/22268" target="_blank">📅 19:58 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/persiana_Soccer/22268" target="_blank">📅 19:58 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22267">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/p0JtciebQDAcflZT77cx0ZPXSkI2jYXQxoCZ0vktUb19IEEggy9CPzCO_C-whJu5z-WiH5mKMl0U897JP_kOSdmSYkpkw3r4LRpyxepo8ZKWDGeKtFpvbzFgwYBiF491bibgnG1ZckARygc7p5zbxxax_PjGN0E7nbeYi396cxQTs7Yr0yZjOhaANeFqtGQH63fHbbImALvH53fm7gN18x60vBEflwxAq0AyjnFay8nbNPBJEXog3n6XSh0Kd6Qzr6nnTK244t5aduFQLrESBneIA16wLJNOonAbhXNXpy1lc-B5uWzYuZWR7mVQ8Ob2IZqAdHeNz5mWKzo_dn-Nbw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تعدادی خبر نقل‌وانتقالاتی‌دستمون رسیده. انشالله نت همه وصل شه همه رو خواهیم گذاشت. باشگاه‌ها نقل و انتقالات خود را از اواسط خرداد آغاز خواهند کرد. همانطور که پیش تر گفتیم لیگ امسال ادامه نخواهد داشت و تیم‌ها آماده‌فصل‌جدیدرقابت‌ها خواهند شد.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 5.61K · <a href="https://t.me/persiana_Soccer/22267" target="_blank">📅 19:53 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.06K · <a href="https://t.me/persiana_Soccer/22267" target="_blank">📅 19:53 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22266">
@@ -322,7 +322,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EWV7gK4uw4GQelQixnU59-uDAelamBUSx3a0-R_EBL52mzrTHzaTmR4r78O4cJ8FhGXcdO34yuCzy0NgG8H5ML9UEt3Bk6xQqkR52KseJjP79JlhpCqbQXGFHDKIo77EG8DQyscY-FSiBBm2VpEdqgN0mmpJa16Rr_8VUse9Vsph84j6o-ONDn4st-3CC3WfXC4Qz9NOVHnx4HYHogLJI0PYld4B8sqfEM1pIt8qCXeOyvzAkwyqf9x9-9KXHCSu7zG9S0FSJnJ4d7DVLqfUvQ5bJ8KUlk1dDxXMGWlA-YQXzzpVRzWOqq_km7OdN9xDuhCiNies5TWFTveuBnnuNw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 دو ستاره سپاهان مدنظر اوسمار ویرا سرمربی برزیلی پرسپولیس قرار گرفته و به مدیریت باشگاه اعلام کرده که به هرشکلی‌که شده این دو بازیکن رو در نقل‌وانتقالات تابستانی به خدمت بگیرند. انشالله اینترنت همه وصل بشه اخبار زیادی خواهیم داد.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 6.1K · <a href="https://t.me/persiana_Soccer/22266" target="_blank">📅 19:29 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.46K · <a href="https://t.me/persiana_Soccer/22266" target="_blank">📅 19:29 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22265">
@@ -332,7 +332,7 @@
 رسمی: پایان راه آلابا در مادرید؛ با اعلام رئال مادرید، داوید آلابا، پس‌از پنج فصل، مادرید را ترک خواهد کرد و در تابستان، بازیکن آزاد خواهد بود.
 ‼️
 داوید آلابای ۳۳ ساله، ۱۳۱ بار برای رئال به میدان رفت، ۵ گل و ۹ پاس‌گل ثبت کرد و ۲ بار فاتح لالیگا، لیگ قهرمانان…</div>
-<div class="tg-footer">👁️ 6.03K · <a href="https://t.me/persiana_Soccer/22265" target="_blank">📅 19:29 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.36K · <a href="https://t.me/persiana_Soccer/22265" target="_blank">📅 19:29 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22264">
@@ -359,7 +359,7 @@ Winro.io
 g2
 📱
 @winro_io</div>
-<div class="tg-footer">👁️ 5.75K · <a href="https://t.me/persiana_Soccer/22264" target="_blank">📅 19:29 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.1K · <a href="https://t.me/persiana_Soccer/22264" target="_blank">📅 19:29 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22263">
@@ -370,7 +370,7 @@ g2
 #فوری؛ طبق شنیده‌های رسانه پرشیانا از مدیران سازمان لیگ‌وفدراسیون فوتبال؛ به احتمال بسیار زیاد رقابت‌های این فصل لیگ برتر بعد از جام جهانی برگزار نخواهد شد و باشگاه استقلال بعنوان قهرمان این فصل رقابت ها معرفی خواهد شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 5.96K · <a href="https://t.me/persiana_Soccer/22263" target="_blank">📅 19:17 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.3K · <a href="https://t.me/persiana_Soccer/22263" target="_blank">📅 19:17 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22262">
@@ -378,7 +378,7 @@ g2
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jh0MdKHP0uX0C6uguRE343NElmQUNQBXfl0Ad6pbApvTCgcA6rT1s9tWgZwR_Pk62ynojnLplmeheUSD6Q7S1TcoddxcAhqgPMU2Ra3yF8c1WPeGznc5qGBprPFgRSolSj3MjpupmCRvXgAxGlSP4k8Ql4vuYfi4og0mkBhsoo3YduC_ct_lAQ7dxc9VcgaJaL8MyhEaDbNvU5yT-1dK0EpR0C8dvWpSKQY3-u7n4gN_KPnmdKTcceN2k6FyOChDZzU8YXWAorDHz30D1gk-F9sJhpz5puv8TfCBu7Cs8ZGipLmk8tm9KvZOkAsYFEV5qoZm2umeeXTslQdUAX5rmw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 برنامه‌کامل‌مرحله گروهی رقابت‌های جام جهانی 2026 در یک قاب ؛ جام جهانی 2026 از تاریخ 21 خرداد ماه تا 28 تیرباحضور 48 تیم به میزبانی سه کشور آمریکا، کانادا و مکزیک برگزار خواهد شد.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 6.33K · <a href="https://t.me/persiana_Soccer/22262" target="_blank">📅 18:57 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.67K · <a href="https://t.me/persiana_Soccer/22262" target="_blank">📅 18:57 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22261">
@@ -387,7 +387,7 @@ g2
 <div class="tg-text">✅
 برنامه‌کامل‌مرحله گروهی رقابت‌های جام جهانی 2026 در یک قاب ؛ جام جهانی 2026 از تاریخ 21 خرداد ماه تا 28 تیرباحضور 48 تیم به میزبانی سه کشور آمریکا، کانادا و مکزیک برگزار خواهد شد.
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 6.42K · <a href="https://t.me/persiana_Soccer/22261" target="_blank">📅 18:47 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/persiana_Soccer/22261" target="_blank">📅 18:47 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22260">
@@ -397,7 +397,7 @@ g2
 طبق شنیده‌های رسانه پرشیانا؛
 باشگاه تراکتور قصد داره درصورت جدایی علیرضا بیرانوند در نقل و انتقالات‌تابستونی با محمد خلیفه گلر جوان آلومینیوم اراک قراردادی‌چهار ساله امضاکنه و حتی صحبت‌های اولیه با ایجنت این بازیکن نیز انجام شده است.
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.57K · <a href="https://t.me/persiana_Soccer/22260" target="_blank">📅 15:44 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.81K · <a href="https://t.me/persiana_Soccer/22260" target="_blank">📅 15:44 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22259">
@@ -405,7 +405,7 @@ g2
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XyG5n-iWYWHz2J3e_Hc7c_XskWjZ66m6ziiRvkzyA0YwmKWI7PfRJFjPeNE2U5XxPSfbfWiPwfsgotN3w62nfjoe5mSauGwvrYBjpE8TW-Yj5xXo14yN3a8zXU0AD_cM95HJll5IUObzxh8kQIaNCVCAe3C4trFUzpOhJp9i1HdgbBL1YuH2CC1UeGfQ2BDQ6tM_jGXN7zLSp9JCF6zTrX8RBFkvPkNAplHyzBNFhK8wRFeRt4FfLA4nM1FpyH9DADwO2vIlauZy1ZMhm0FjnMN-65u_u4u0tMLf4JF-4y5jpF6zavkQn8ceifMIrpK67JE5EDYlCmUDev2RNC9-FQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 ترکیب منتخب فوق ستاره‌‌هایی که جام جهانی 2026 رو مفت و عین آب خوردن از دست دادند.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/persiana_Soccer/22259" target="_blank">📅 15:16 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/persiana_Soccer/22259" target="_blank">📅 15:16 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22258">
@@ -414,14 +414,14 @@ g2
 <div class="tg-text">✅
 برونو فرناندز ستاره تیم منچستر یونایتد به عنوان بهترین بازیکن فصل ۲۰۲۵/۲۶ لیگ جزیره انتخاب شد.
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.02K · <a href="https://t.me/persiana_Soccer/22258" target="_blank">📅 13:53 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/persiana_Soccer/22258" target="_blank">📅 13:53 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22257">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/R4LeNLp1GQ82MZsYVidbo-Z1F-4fOct7_suEFflxnRbXsJt-zofDeCJ_RFwyUTut8lYNDL1-xkeGStnzmJCC897CTROUG_PlSpsQiQ8nrigy-3kXU5cMx5Kqmi92QSvMkQiZ2GaVZIEbpyyN1vSe8IyE2vM9igUA_DHhE_tPFHQdSKr8mzFDYpCu_XNiwNrzp1B1p4MVDosnyIyJrBgdGeTw9Y_RJGbZs2XocI-_i1e2VusjEWz7whQOvWLZO6-DGRPm1lButANOqLOkW1B3M4tuircQjQ-DIm4CcsR8bUpgDPxCHVaoaGYYeQdvhFqCOqahkGyWdBWPRJ74ipLycw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بالاتر از رونالدو و سایر ستاره‌ها؛ ژائو فیلیکس ستاره پرتغالی النصر به عنوان بهترین بازیکن لیگ عربستان نیز انتخاب شد. ۳۳ مسابقه، ۲۰ گل و ۱۴ پاس گل  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.01K · <a href="https://t.me/persiana_Soccer/22257" target="_blank">📅 13:36 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.14K · <a href="https://t.me/persiana_Soccer/22257" target="_blank">📅 13:36 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22256">
@@ -431,14 +431,14 @@ g2
 مسعودپزشکیان‌رئیس‌جمهور: اینترنت بخش جدا نشدنی زندگی مردم شده. دستور دادم با نظر رهبری و در جهت رفاه مردم ایران بین المللی وصل شود!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/persiana_Soccer/22256" target="_blank">📅 13:30 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.9K · <a href="https://t.me/persiana_Soccer/22256" target="_blank">📅 13:30 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22255">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YXnPGBzBV-NzfXUZrwk-JIfEV9ExdrEALYKuRKDtDzO7NdphCRlGGa1hUt_JBrrOaLZT9NRbyhiF9oDAtArIuhZGpEmlqfSrJuC9PtAtj5NsS-sCh7_fSVecK-6y5DVM72w7eCRL5ihQslNrk24ukNiWmb6t_gqQYOgNsQkjI2jdclBazJwDW6rOKpyK65_4q0WbPqVII3rdUx-koLCBdk-T-WEqKlsaXa-CvXK5sCUSPaOWG-OIXbxPTV9bxTaqNXzmNyH9qFKFYLnoGYR4khWjZAUzblyCptILoXQJW-ANFaJN5C_3ON-Lfl0rksHz9WgMBpC3UzpCZrdZMgkdJQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بالاتر از رونالدو و سایر ستاره‌ها؛ ژائو فیلیکس ستاره پرتغالی النصر به عنوان بهترین بازیکن لیگ عربستان نیز انتخاب شد. ۳۳ مسابقه، ۲۰ گل و ۱۴ پاس گل  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.64K · <a href="https://t.me/persiana_Soccer/22255" target="_blank">📅 13:30 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.77K · <a href="https://t.me/persiana_Soccer/22255" target="_blank">📅 13:30 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22254">
@@ -478,7 +478,7 @@ a2
 🎁
 📱
 @winro_io</div>
-<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/persiana_Soccer/22254" target="_blank">📅 13:30 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.84K · <a href="https://t.me/persiana_Soccer/22254" target="_blank">📅 13:30 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22253">
@@ -486,7 +486,7 @@ a2
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t3-2pooQ5_XBUIVG1yFVcbxPgmy9WQAfUsIXnbvymJVIaTCH0-q-i7m4TIIh4MikmTbgyxRpH3XE268JMeNl8XHNde503n-00hw4n_naRxCLENuGLIJ4lYFjaiopYNu31U-cOoT50N1Tbp7YS851gs33ek0QBsIxvHx114BTS93T1jam49QH46-UZCNUTQDqZuKJCrOVF_LjJHWS1rO9BuvUPC8QjNP5_DCtXgenm5It16F6XMiGyH905bBXwsdYKFP0HWVsZpg1G-e_hMUnfd3VARDcM0uZZy8j7tbQVKLBLUmrIxqjmuFwRxPswO8zymXfLdOsx5UTybUHnK987Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 #فکت؛ کریس‌رونالدو به‌اولین‌بازیکن تاریخ فوتبال تبدیل شد که در چهار لیگ مختلف قهرمان شده است.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 9.01K · <a href="https://t.me/persiana_Soccer/22253" target="_blank">📅 13:15 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/persiana_Soccer/22253" target="_blank">📅 13:15 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22252">
@@ -528,14 +528,14 @@ a2
 لیست‌نهایی تیم‌ملی انگلیس برای جام‌جهانی؛ نفرات سرشناسی مثل کول‌پالمر، آرنولد و فودن از فهرست‌نهایی توماس‌توخل خط خوردند
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/persiana_Soccer/22248" target="_blank">📅 20:22 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/persiana_Soccer/22248" target="_blank">📅 20:22 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22247">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Tfbb4u4tgg1fCbnAxp6pgeT91K474LV18oXdmNK3Q4Mm4mFvgicbquuDgKDbG7yY0QASE9XWKiNaC_V0N972m3s-JjPMl37tyR5q4KbaHCPdT0TQFN2QhOg6an9OgTVESbmyfLrF1lhcR7N3shSCO2_tJvENEhFwa0yfxHD9knzMGgp9lmyfB3xhGTsSAwPJTuPIPp4kyM182OcX5wp2ffBbalAmNOxJbNgKDL9gIeAqQi2ozpd-y75k1VDWVpdP1HRilDJ2ItGFma1oAAA0JvCxLwGXal3rPoWTEpHoKSjNA1zSYymKPOFbwUfTIOF8k2gfI9-qE6TuRKhBCx8uBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طبق‌اخباردریافتی رسانه پرشیانا؛ باشگاه استقلال از طریق یک وکیل ایتالیایی مکاتبات خود را با فیفا برای بازکردن قطعی‌پنجره نقل‌وانتقالاتی آبی‌ها در تابستون آغاز کرده است. برخلاف‌پنجره قبلی احتمال باز شدن پنجره آبی پوشان در تابستون بسیار زیاد است.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/persiana_Soccer/22247" target="_blank">📅 20:18 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/persiana_Soccer/22247" target="_blank">📅 20:18 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22246">
@@ -546,7 +546,7 @@ a2
 ایوان سانچز وینگر اسپانیایی سپاهان بعد از دیدار آسیایی این‌تیم به‌احتمال‌فراوان از جمع طلایی پوشان زاینده رود جداخواهدشد. سانچز از شرایطش در ایران بعد از کشتار مردم بی گناه راضی نیست.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/persiana_Soccer/22246" target="_blank">📅 17:36 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/persiana_Soccer/22246" target="_blank">📅 17:36 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22245">
@@ -570,7 +570,7 @@ a2
 شانس قهرمانی تمام تیم‌های ملی در رقابت های جام‌جهانی2026همه‌تیم‌هاباصدر؛
 اسپانیا در صدر.
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/persiana_Soccer/22244" target="_blank">📅 15:42 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/persiana_Soccer/22244" target="_blank">📅 15:42 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22243">
@@ -610,7 +610,7 @@ a2
 مایکل‌کریک با عقد قراردادی تا سال 2028 رسما به عنوان سرمربی دائم منچستریونایتد منصوب شد
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/persiana_Soccer/22240" target="_blank">📅 14:09 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/persiana_Soccer/22240" target="_blank">📅 14:09 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22239">
@@ -631,7 +631,7 @@ a2
 لیست‌نهایی تیم‌ملی انگلیس برای جام‌جهانی؛ نفرات سرشناسی مثل کول‌پالمر، آرنولد و فودن از فهرست‌نهایی توماس‌توخل خط خوردند
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/persiana_Soccer/22238" target="_blank">📅 12:49 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/persiana_Soccer/22238" target="_blank">📅 12:49 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22237">
@@ -639,7 +639,7 @@ a2
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aVbcLv7SOpsDvvoe5oY5EK4Nclu7hIpyKZHPPuYe9J7gQRWrQqLCgN82M4pTcBLYI62ZDTNlAwWsk1xF1GjO5c6QYSASbISvhCns7EETG-hoEPkCYi_DZufrrd_cQkP5DTbwVC_wNasbaQom6TrBsn06oDLUn5Xz2_6VdfQXcX8bq9cRyzi2AgcnqKKSZfPPnHnouSP86Jnb6DGVdKveK_VDdsY0lZwbEFbaPmDqugFAmDey9eBGu6-ktFRniOixSXUr5zAvzqn9-XHisSbWl-d6cC_nJ6wRdfB3Z6SLdL_8AWdo6_ByjUBzse99WXnk8CTsWjk5OrtCmQoUUu5Pjg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">▶️
 صحبت‌های نیمار جونیور بعدِ دعوتش به‌تیم ملی برزیل برای‌جام‌جهانی؛ نیمار کاپیتان‌اول خواهد بود‌.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/persiana_Soccer/22237" target="_blank">📅 11:33 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/persiana_Soccer/22237" target="_blank">📅 11:33 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22236">
@@ -674,7 +674,7 @@ a2
 <div class="tg-text">▶️
 ویدیوکامل‌جشن قهرمانی النصر دررقابت های این فصل لیگ برتر با حضور کاپیتان کریستیانو رونالدو.
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/persiana_Soccer/22232" target="_blank">📅 00:19 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/persiana_Soccer/22232" target="_blank">📅 00:19 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22230">
@@ -687,7 +687,7 @@ a2
 هواداران پرسپولیس امشب پیش از دیدار با ملوان انزلی به این شکل ازدواج امیررضا رفیعی دروازه بان جوان این تیم رو تبریک گفتند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/persiana_Soccer/22230" target="_blank">📅 00:15 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/persiana_Soccer/22230" target="_blank">📅 00:15 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22229">
@@ -735,7 +735,7 @@ a2
 <div class="tg-text">سوپرگل دیدنی کریس رونالدو در بازی امشب النصر مقابل ضمک؛ النصر با رونالدو به قهرمانی رسید.
 🔥
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/persiana_Soccer/22224" target="_blank">📅 23:17 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/persiana_Soccer/22224" target="_blank">📅 23:17 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22223">
@@ -838,7 +838,7 @@ a2
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fXs37_hMcwP-AAEjSYKe2WYfbHSNCSGQVsH798GsCMuOPn9qpZbodZCQYhsYKsoU5BMeuoNrjsR1DaIejflvdHvTlLEw3tZ55Bc0zK6y7MfOTkEYA4iUzVv27d5BwRuxxedEexIvG9LTWB9phrSegPpGrXzW21kU-oykea0Bt3X-GzYTP-eMleztVn6we9wobioxKg4fOb-mj74gEilYSq9REMv_nJAXGPS24Kao2ckQnWGRgiG9Gm6g4Put1qy3nuo9zWXaFLt6IKMbMNub2Lv2LpR5-KlgCJMGilQQmL96jYQM_3ouJfYl-1U7k3ucI6NXqNHeKamv-o1Wgqbcsw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 طبق شنیده‌های رسانه پرشیانا؛ باشگاه استقلال ازشب گذشته‌مذاکرات‌خود رابانماینده شخصی روزبه چشمی برای تمدید قرارداد کاپیتان اول آبی‌ پوشان پایتخت برای فصل آینده رقابت ها آغاز کرده.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/persiana_Soccer/22210" target="_blank">📅 12:34 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/persiana_Soccer/22210" target="_blank">📅 12:34 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22209">
@@ -898,7 +898,7 @@ a2
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nd5AycYBKmleNc_eVlCDlEQHmpuc61nz60f5t_8PmrhjMh4cCnFIeIvswC1-sGagcRrpLW3HD5aWfxlSVAkDcCF9ojAiSZbMGqAyg8a7p24HMDzmr2jYZJ3YZt37blqLGHlwfJVUBtBg2o5it3qY4psjTAstmULfJbwbGA95yTFO7ucrbWVKWQ3SHR-dWRxXWIDDfnmPkGyJilIoj3Zv2gH65aqiqbw6D6AL8aOY-JS41lKdqoGHcvYsCj4_FopbYGvFTpXw956q69btk6NnAv713TCSIj0SnN_VrrWu35p1jZKnx0h0XOGZRAG8nY47sHP5vohHkgE9CWRjIukQ8Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بااعلام‌رسمی‌سخنگوی فدراسیون فوتبال، سه نماینده قطعی ایران در آسیا در صورت کسب مجوز حرفه‌ای، استقلال، تراکتور و سپاهان اصفهان خواهند بود.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/persiana_Soccer/22202" target="_blank">📅 20:56 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/persiana_Soccer/22202" target="_blank">📅 20:56 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22200">
@@ -941,7 +941,7 @@ a2
 <div class="tg-text">▶️
 واکنش‌جالب‌نیمارجونیور و همسرش بعداز اعلام رسمی دعوت‌ او به تیم ملی برزیل توسط کارلتو
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/persiana_Soccer/22197" target="_blank">📅 15:44 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/persiana_Soccer/22197" target="_blank">📅 15:44 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22196">
@@ -1050,14 +1050,14 @@ a2
 </div>
 <div class="tg-text">✅
 کارلتو به وعده‌اش عمل کرد؛ نیمار مسافر جام جهانی2026آمریکاشد؛ لیست‌نهایی بازیکنان دعوت شده به تیم ملی برزیل برای رقابت های خرداد ماه‌  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/persiana_Soccer/22183" target="_blank">📅 11:20 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/persiana_Soccer/22183" target="_blank">📅 11:20 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22182">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YSAwMJogJWqFSZqYBaG8TUf4lGmT_Z0A-iDvq_-HScUy3Zc7kTdlqGvccjkZMArdp3zPxikrP-Vjg9K5hLojWMPvu-uu0Ue6CWHy_cb6svGmrKURo2B5idLwRO5E8Qv1fxJyfQQ0Wu1gCZWQGBgCsv8rAxkwjJ9qJQ0VFB14X0SdaTiysoiz5qTW64Vr7O5v4qy1SBSy6WGStAXfb8O4KfNLM5O_GrM6KxVzvoACDLHMYniVlrXUZx1UpPf9b9ZbnHw5aJlUvLIMZ_ebyqmJpH-BuS5VwVHe40p7n-_eaT3tdQSV5erc50nqcD857-_Q7k9ZxdRPITdMP8qrDNTkAg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#تکمیلی؛ پپ گواردیولا سرمربی سیتیزن‌ها در پایان فصل ازمنچسترسیتی جدا خواهدشد و انزو مارسکا دستیار سابق او در من سیتی جانشینش خواهد شد.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/persiana_Soccer/22182" target="_blank">📅 10:59 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/persiana_Soccer/22182" target="_blank">📅 10:59 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22181">
