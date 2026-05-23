@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 19:26:33</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-02 20:25:29</div>
 <hr>
 
 <div class="tg-post" id="msg-2374">
@@ -311,7 +311,7 @@ AmirHadiAnvari
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/ircfspace/2374" target="_blank">📅 08:38 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/ircfspace/2374" target="_blank">📅 08:38 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2373">
@@ -328,7 +328,7 @@ eurojust
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/ircfspace/2373" target="_blank">📅 08:15 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/ircfspace/2373" target="_blank">📅 08:15 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2372">
@@ -344,12 +344,12 @@ hra_news
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/ircfspace/2372" target="_blank">📅 19:51 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/ircfspace/2372" target="_blank">📅 19:51 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2371">
 <div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ttGbZy5iNGyvjkARuwnfDn5QG5I9XsR4NZMwFkDHLxD0hCqwgHxSCij1pN6WAg_7SrcoPZHAoqkpywkylE7VFfOaXDy4JS6uZn4HFI19_2gXt3wH9cvmI0-O1U7BfB3TV4VAM1U8ED8lVzn8Y_wCCO1h7tjroLVTQbP96L1QFthQ5xuxDL9yFK25QXWnRqUwkyrOT6CXpWHpeC1Sqn28DFa9r0xHb9-Nxag2Z_k0SLlyuigrVDnBQMrzltdazmApoXOhMotX0hlwVB42Jp04Jefb9XprK0aiz29LA1vCQQPTze7zYbg_wRLorlpxBfGYKwNiOlNQKCAuIrjGUyobcA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/r3KPPRbd926M0eT1rf1v1QPQmBl4apK7BNqDPvxHmB9GjlIWrrCec8ifSXZppqTr_27Vw7GqrhJmCfY-CBOv8wYF_-XvLsH4soILneBNCJIkotXdM47ngJ4qVwJY1TND-AeR_TyGJuZzfPH9Z_EoqLZqIvC07RldthwZdQFvoGZL6Ek6a29C4EiGf4i3bxrRrsfYmTpR1rcOrt9BOd1nLEMvFcRJl_DPejgbvxQ9vHzCZxXBoHWq2_keaDImky9Q-BqdPcjGwUcfgjwAQ4nij_uh6kSwBra0TTDQBBf5zvJk-HPuAYmI_93zLKjFdR_pBSa-tgHIQA71issY8s9WgQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نت‌بلاکس: قطع سراسری اینترنت در ایران با ورود به روز هشتاد و چهارم، از ۲ هزار ساعت عبور کرد. هر ساعتی که می‌گذرد، شکاف‌های اجتماعی و اقتصادی عمیق‌تر می‌شوند؛ به‌طوری‌که هرگونه ارتباط با دنیای خارج به جایگاه، تبعیت و امتیاز وابسته شده است.
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -358,7 +358,7 @@ hra_news
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/ircfspace/2371" target="_blank">📅 19:45 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/ircfspace/2371" target="_blank">📅 19:45 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2370">
@@ -373,7 +373,7 @@ hra_news
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/ircfspace/2370" target="_blank">📅 20:18 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/ircfspace/2370" target="_blank">📅 20:18 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2369">
@@ -389,12 +389,12 @@ NR2OH
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/ircfspace/2369" target="_blank">📅 20:12 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/ircfspace/2369" target="_blank">📅 20:12 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2368">
 <div class="tg-post-header">📌 پیام #94</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rpu2Gj1p8sXDAZBM6xvFIq88JwFU5SHSxy0PaYIAN7TIApxRtNsgWkmpDcZhYPt7C_6iN1WZJbzRPsfL5wNs6y7MK-xemm_J63cq8gCRb08vx-u67qQIrYnhFQrBY0Efie_BATPDH_vLQPZOPEfumxXwToVZIIbTFKMBYqA8Yu7LJg5MAwCcg4vFalv5RVpfvV_mtR6TIlXolWj3J3s4pqchz0NK3VoH2o7e34oYFQKHPMFIZRBqB5kC1bZENTjT1dar-ZIwtn0XWJuXV6p7981gyTTth0IvEZY6TLHw8MHJ4XO37k0-3ux3DBuWh0vmUzGxc9r3ZhBjK0R-XDeJ-Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QgHjEUiv1ylJuRHOAOlsL0LePINAnTFjKJFn3AI9E13exHbdqxFkNG4QfjJa-wAKbx263-1212UlcBSu-xIjwlhY9VAE5wGGoinmPC8k8nbEfHGMesShMrU4xsbG4GZ11cjy_8axUqhmnku3rubtDUbzG-sZt0O4dD2Vh6aZX1jHi_aYlbchxRUMBoq9vLUgCJljsbYbTUSwUXd0WmY-YN365zvAZEL1tSUY6VrTrZ9gEws09ji4bLBEuIzgVNl6AwF6EY_7Z-bI-VWMcfqd1qiGaz9_7TvXHqf1cLS1qKcJArhUXpip7iXk6W2_-uoOlc4LxQU_9iX08PT9wn3Ipw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محمدرضا فرزانگان، اقتصاددان حوزه خاورمیانه در دانشگاه فیلیپس ماربورگ آلمان، گفته است حدود ۱۰ میلیون شغل در ایران به‌طور مستقیم یا غیرمستقیم به اقتصاد دیجیتال وابسته هستند.
 او به وال‌استریت ژورنال گفته محدودیت گسترده اینترنت باعث کاهش بهره‌وری، تضعیف اعتماد کسب‌وکارها و افزایش نابرابری می‌شود؛ زیرا در چنین شرایطی تنها کاربران ثروتمندتر یا افرادی که به ارتباطات بهتر دسترسی دارند، می‌توانند اتصال پایدار و قابل اتکا داشته باشند. /دیجیاتو
 🔗
@@ -409,7 +409,7 @@ NR2OH
 
 <div class="tg-post" id="msg-2367">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uvTyGpqeUAt4cXu2be-UQ-j3HEtibxXiEAjzJ3_HtlqR8DtQl2GriCveVMS7ewT7UqCTVB5WcRqN9Nv8ooyDhCE5vtm9CWLmZzDDKoF2gUrIXUelgLopppldMz4mJwSROSiqmPa-TcHEWJTWpmB1TxfNnxVonvP7uBy4fzDzDSUW4N6gZ3jIbLOHN-YiRiVsBDC1JF9vavkcDpl6j7sdVJEvoT7ihM8i9Dzu8_SiUWrQ9VWE6NBcd1Rqgj7IadDOzDgTNcsY6pYHk7RH5jq1tXAJvKzmxWZy7h-4_0hIBZhs1J-nCyu3cS-D9-RfrELJAiIkn3pKYYLKSM3Lj4Zcuw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qLpcq8ToCJgn4n5Kmb1J4I8C1alLfPtEBWhh7uXFdgrWrhDEZ0TDa81iASlpkvbz5TaSfsHnOnsl_35g1fo2ePzlL9v25EkLQrzWwgAYvRhco48f-gepbxx9Lu7nvYfDz3Jj33kTeLdvAU6Mnvj8iyAju7nEueX8J4bPAIVIrmHasoPlK-RguzzA7065__5hBV7lCcR-Gs7JOeIiutKe_LpSBWO0Dhu8imZ0O-HIVvyqkl28wKYrhE-LiZmX03pc8fmCHpJbITccVsxm6OcTiX0ZpDgFBuKLRXx0T-uFgXFwQfaicrvDDAeNbhKAOAeTq1NuxSWXSlvoUzBf16al2A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">زارع‌پور، وزیر قطع‌ارتباطات دولت قبل گفته "جمع‌بندی رئیسی این بود که اینترنت به خاطر هیچ‌چیز نباید قطع بشه"، ولی یادش رفته که رئیسی با ۶ کلاس سواد حتی جمع و تفریقشم افتضاح بود.
 جهت یادآوری واسه
 #قوه_عاقله
@@ -434,7 +434,7 @@ NR2OH
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/ircfspace/2366" target="_blank">📅 19:52 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/ircfspace/2366" target="_blank">📅 19:52 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2365">
@@ -448,7 +448,7 @@ NR2OH
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/ircfspace/2365" target="_blank">📅 08:39 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/ircfspace/2365" target="_blank">📅 08:39 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2364">
@@ -462,7 +462,7 @@ NR2OH
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/ircfspace/2364" target="_blank">📅 08:31 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/ircfspace/2364" target="_blank">📅 08:31 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2363">
@@ -478,7 +478,7 @@ alirezaer
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/ircfspace/2363" target="_blank">📅 08:27 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/ircfspace/2363" target="_blank">📅 08:27 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2362">
@@ -543,7 +543,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.2K · <a href="https://t.me/ircfspace/2359" target="_blank">📅 08:59 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/ircfspace/2359" target="_blank">📅 08:59 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2358">
@@ -614,7 +614,7 @@ NimaQazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/ircfspace/2354" target="_blank">📅 20:05 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/ircfspace/2354" target="_blank">📅 20:05 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2353">
@@ -668,7 +668,7 @@ play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/ircfspace/2351" target="_blank">📅 10:02 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/ircfspace/2351" target="_blank">📅 10:02 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2350">
@@ -687,7 +687,7 @@ play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
 
 <div class="tg-post" id="msg-2349">
 <div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/pwOVOgchT8t_9e2RlCzf6cZXGXQ5Uy9wFBJ3fS0b_q7n4NaevMY2bssDsnjXeGTn3A662LcAQZy94i-EJexj2biXbWucTXGpG42CM8FvuJ0eVJsNcLuT3_iG3y4BrrNW0Gdwg8oMg2eBkgRQl2r-BdUylFy-yVzVMqPQiGdNKxLrVO5DUMaqb1kAO-m6neVxpDN0iTPWEwaiiMSWjE-omMqzPIIrSnvQfDZlpXq9phkdPX-wEkb0dtxc3T0ot1DsDCN_0-VlFZtSAG0AssiRBpgw0Yt8X1_qfUK4F96By5D0iffa2kNmoposeu7aLp1bsBObwZsQBXwWRLdTuOj5OQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NZWRR5zyUsd5nMwBdTUH_4jpm0ivGQHOwGmMxlba-3IpuLMIKSo5i_a029GuyvqFnHejtu6lLudg0ornHCBgR5kDWhuStbgKO2_Q6DiRkk4YnU3yDr2ZEdNEz9t9OIW0AxjdJtE7BuO9YYipggnpuphX1Ud_pd1V_V8ovtG_CMrGsX2eV9SOAnz4UmmejNuzU6zaI6GopDBNU0mL9DLkQOrCArzZ4QPYc6wVhZ6U-so1TwvhonvySEut_F4xVoTwD5eb4FWAEOKC53Y5b3j-Zx2PUbNJUNx1aMNB-zNufHK1B8n_Bkyv3MuQjhkLk9XodNpyuJULysl0jepwq9W5FQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مسعود پزشکیان بعد از ۷۹ روز قطع سراسری اینترنت در ایران، روز جهانی ارتباطات رو تبریک گفت!
 🤡
 🔗
@@ -1635,7 +1635,7 @@ alirezashirazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/ircfspace/2288" target="_blank">📅 12:02 · 17 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/ircfspace/2288" target="_blank">📅 12:02 · 17 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2287">
