@@ -291,28 +291,28 @@
 <p>@farahmand_alipour • 👥 61.3K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-04 02:18:58</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-04 03:23:07</div>
 <hr>
 
 <div class="tg-post" id="msg-5139">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">برخلاف خبرهایی که یکسره از احتمال توافق می‌گویند، فاصله خواست‌های دو‌ طرف هنوز آنچنان زیاد است که بشود گفت :
 توافق بعید است!</div>
-<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/farahmand_alipour/5139" target="_blank">📅 01:47 · 04 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/farahmand_alipour/5139" target="_blank">📅 01:47 · 04 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5138">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">🚨
 اکسیوس : ترامپ روز شنبه در یک تماس کنفرانسی به رهبران کشورهای عرب و مسلمان گفت که اگر توافقی برای پایان دادن به جنگ با ایران حاصل شود، او می‌خواهد کشورهای آنها به «توافق‌های ابراهیم» بپیوندند و با اسرائیل توافق صلح امضا کنند.</div>
-<div class="tg-footer">👁️ 8.03K · <a href="https://t.me/farahmand_alipour/5138" target="_blank">📅 00:35 · 04 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.08K · <a href="https://t.me/farahmand_alipour/5138" target="_blank">📅 00:35 · 04 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5137">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">🚨
 اکسیوس : ترامپ روز شنبه در یک تماس کنفرانسی به رهبران کشورهای عرب و مسلمان گفت که اگر توافقی برای پایان دادن به جنگ با ایران حاصل شود، او می‌خواهد کشورهای آنها به «توافق‌های ابراهیم» بپیوندند و با اسرائیل توافق صلح امضا کنند.</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/farahmand_alipour/5137" target="_blank">📅 22:25 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farahmand_alipour/5137" target="_blank">📅 22:25 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5136">
@@ -325,7 +325,7 @@
 جرم او را ارائه مختصات صنایع تولیدی به شبکه‌های ماهواره‌ای اعلام کرده‌اند؛ انگار که اسرائیل که اتاق خواب رهبران رژیم را می‌داند به اطلاعات دیگران نیاز ندارد...
 خبرگزاری سپاه نوشته است: «وی در پیام‌هایی به شبکه وابسته به دشمن، اطلاعات محل شرکت مرتبط با صنایع دفاعی را ارسال و با قید نام نخست‌وزیر رژیم صهیونیستی در پیام ارسالی به عوامل این شبکه تأکید می‌کند که موضوع را «به بی‌بی آمار بده»!
 T.me/irdamavand</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/5136" target="_blank">📅 15:52 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/5136" target="_blank">📅 15:52 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5135">
@@ -338,7 +338,7 @@ T.me/irdamavand</div>
 به گفته دو منبع آگاه، ایران از طریق میانجی‌ها به‌صورت شفاهی به آمریکا درباره میزان امتیازاتی که حاضر است در زمینه تعلیق غنی‌سازی و واگذاری مواد هسته‌ای بدهد، تعهداتی ارائه کرده است.
 - ببینیم چی میشه. بعید می‌دونم جمهوری اسلامی اورانیوم غنی سازی شدهاش رو تحویل بده،
 خبر هم میگه ج‌ا به یک میانجی (پاکستان / قطر) شفاهی گفته!</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/5135" target="_blank">📅 07:35 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/farahmand_alipour/5135" target="_blank">📅 07:35 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5134">
@@ -358,7 +358,7 @@ T.me/irdamavand</div>
 به‌طور جداگانه، من همچنین با نخست‌وزیر اسرائیل،بی‌بی نتانیاهو، تماس داشتم که آن هم به همان اندازه بسیار خوب پیش رفت.
 در حال حاضر، جنبه‌ها و جزئیات نهایی این توافق در حال بررسی و گفت‌وگو است و به‌زودی اعلام خواهد شد.
 علاوه بر بسیاری از بندهای دیگر توافق، تنگه هرمز نیز باز خواهد شد.»</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/farahmand_alipour/5134" target="_blank">📅 00:31 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/farahmand_alipour/5134" target="_blank">📅 00:31 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5133">
@@ -374,7 +374,7 @@ T.me/irdamavand</div>
 <div class="tg-post" id="msg-5132">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">ترامپ به اکسیوس  گفت که درباره توافق با ایران یا بمباران، «کاملاً پنجاه‌پنجاه» است. ترامپ گفت امروز با مشاوران ارشدش دیدار خواهد کرد تا آخرین پیش‌نویس توافق را بررسی کنند و ممکن است تا فردا تصمیم نهایی را بگیرد.</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/farahmand_alipour/5132" target="_blank">📅 20:57 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/farahmand_alipour/5132" target="_blank">📅 20:57 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5131">
@@ -395,7 +395,7 @@ T.me/irdamavand</div>
 با رهبران عرب شرکت خواهد کرد تا درباره پیش‌نویس توافق با ایران گفت‌وگو کند و نظر آن‌ها را بشنود.
 🔺
 نظر شخصی :  توافقی در کار نیست!</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/farahmand_alipour/5130" target="_blank">📅 20:13 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/farahmand_alipour/5130" target="_blank">📅 20:13 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5127">
@@ -412,7 +412,7 @@ T.me/irdamavand</div>
 الجزایر سال ۱۹۵۲  (۷۴ سال پیش
 مناطق اروپایی نشین
 و مناطق مسلمان نشین</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/5127" target="_blank">📅 19:52 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5127" target="_blank">📅 19:52 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5126">
@@ -430,20 +430,20 @@ T.me/irdamavand</div>
 و تفاوت میان شمال مدیترانه
 و جنوب مدیترانه شکل گرفت.
 و دو سرنوشت متفاوت، دو چهره متفاوت گرفت.</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/5126" target="_blank">📅 18:48 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/5126" target="_blank">📅 18:48 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5125">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aHbJTiOt-XO3MhoK3cIFdpp0upe1Wd7RCcrSK5IPs38z2MCPGeM9fx_YJYI9TxDj443h5rJC24By5kZ10ZBDHUy-zUXfFEvAaQDRh7Vz5ZyEUGTd7znjxF3buv5of9FXustb4ZUkricJnVlBUPAvlbwJFJqx6FWvKX-H6D5ovRRMwv1DUFW_BPPTafF4rrMjt5BsYteytq_byMYIN1nxO9afLvqQIIakhrf1IWJYhurCvy8YJKf0VRh5ULK1yqNsEoqseGEdkbk19J4ZzyWRihQKTYmyV4jghsf3ILcBPnXYrtwB9t419fouPzUugghAx40jtjDVddav5YBe5ALoig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست جدید ترامپ که پرچم آمریکا را روی نقشه ایران به تصویر کشیده و تیتر زده «ایالات متحده خاورمیانه؟»</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5125" target="_blank">📅 18:16 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/farahmand_alipour/5125" target="_blank">📅 18:16 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5124">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">مارکو روبیو در خصوص مذاکرات با جمهوری اسلامی:  شاید تا عصر امروز خبرهایی باشه، شاید هم نه. مطمئن نیستم ولی امیدوارم. پیشرفت‌هایی صورت گرفته. شاید عصر امروز، شاید فردا، شاید این یکی دو روزه، چیزی برای گفتن داشته باشیم.  جمهوری اسلامی باید دست از غنی‌سازی بردارند.…</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5124" target="_blank">📅 17:29 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/farahmand_alipour/5124" target="_blank">📅 17:29 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5123">
@@ -452,7 +452,7 @@ T.me/irdamavand</div>
 شاید تا عصر امروز خبرهایی باشه، شاید هم نه. مطمئن نیستم ولی امیدوارم. پیشرفت‌هایی صورت گرفته.
 شاید عصر امروز، شاید فردا، شاید این یکی دو روزه، چیزی برای گفتن داشته باشیم.
 جمهوری اسلامی باید دست از غنی‌سازی بردارند. اورانیوم غنی‌سازی شده را تسلیم کنند، تنگه هرمز باید باز شود.  ترجیح رئیس جمهور ترامپ دیپلماسی و رسیدن به یک‌ توافق است.</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/5123" target="_blank">📅 17:25 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/5123" target="_blank">📅 17:25 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5122">
@@ -460,13 +460,13 @@ T.me/irdamavand</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ahBFxUTl3kuJpxmhaKn00UKgo8ve5fKF-uAnKPU2y44bxdWYYdv7UdXDlEiVicH5atOZNJcLoIOawJeaIak8N97INSedo8RdtD09DyNs9ACICfhMkdWjILXnVUIeTOVDZ8UsADOEYBaGzS589nDGWN2HCPJ_koLD-JQg0bfS8QuBovGCJw8tEG0bp8vBdha4t-M1SiCh8oxPpeIARaSJnFLT9nKQj2o2ZAgxCXj4IfiWaliCXADzNpBDuLhXN3eLWBFafBuzsx3MP7Ds9NORZFY1kVnnbsJKH-wjJBvEagYKp71IqIoXLTUdHDz7nC2yjBnneQFXLCFFCekw7wdZ8Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چقدر ایران باید هزینه بده برای این گر‌وه‌ها
 و برای این جنگ‌های بی‌پایان جمهوری اسلامی با آمریکا و اسرائیل.</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/5122" target="_blank">📅 17:18 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/5122" target="_blank">📅 17:18 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5121">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">به خاطر ارسال ویدئو ۲۷ سال زندان!    مجازات پدر «رومینا اشرفی» ۱۴ ساله، که با داس سر دخترش رو برید: ۹ سال زندان   حکومت اسلامی! عدالت علوی!</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/farahmand_alipour/5121" target="_blank">📅 13:23 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/farahmand_alipour/5121" target="_blank">📅 13:23 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5120">
@@ -476,7 +476,7 @@ T.me/irdamavand</div>
 مجازات پدر «رومینا اشرفی» ۱۴ ساله، که با داس سر دخترش رو برید:
 ۹ سال زندان
 حکومت اسلامی! عدالت علوی!</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/farahmand_alipour/5120" target="_blank">📅 13:20 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/5120" target="_blank">📅 13:20 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5119">
@@ -497,7 +497,7 @@ T.me/irdamavand</div>
 عراق (از گروه‌های نیابتی مورد حمایت جمهوری اسلامی در عراق) است و گفته می‌شود
 آموزش‌های نظامی و اطلاعاتی خود را مستقیماً زیر نظر سپاه پاسداران در تهران گذرانده است
 . او با قاسم سلیمانی و جانشین وی، اسماعیل قاآنی، ارتباطات نزدیکی داشته است</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/farahmand_alipour/5119" target="_blank">📅 08:14 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/farahmand_alipour/5119" target="_blank">📅 08:14 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5118">
@@ -596,7 +596,7 @@ T.me/irdamavand</div>
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VSbgNMBlNutXfxo_uyyd1hIGLZ0G8TnsC70usb4bSxfazcrCc0A_ylKjpbhEMe4mT46jtsdG04RtP79mqOpzKbe6ICW1AwYliHxd3QpDBNxggYOcMPZ69mIxCl8n92HLGF8Xna6UXdj7rU3JU5Vm0JAPbBhHkpp45VwZq2rXU4BaL9U3w_SLpatxbWLnANU8VQDNZSMuB4-mi4WYeRRuYSY53KDzCVlzQBe8hEaVRC9NUINMm0VFKroDHURdSpZK1V8cu7VmOBQXeyGTWSwIr7L7GqJaPt02YUSoCCcD-haqjNeBENFVh0cqAKUttgakwlRGoXpjwxhX5j2Y8DfjYw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این افراد، از همون روز نخست حتی قبل از وقوع انقلاب ۵۷ در آرزوی  تبدیل ایران به یک «ویتنام دیگر» بودند، یک سرزمین دیگر برای مبارزه با آمریکا!  بسیاری از سران و اعضای بلند پایه چپ و…..  توسط جمهوری اسلامی کشته شد،  اما این به چشم خیلی از چپگرایان مهم نیست! چون…</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/farahmand_alipour/5110" target="_blank">📅 18:45 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/5110" target="_blank">📅 18:45 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5109">
