@@ -286,20 +286,20 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/nxD3BTv6pJwSkjhb63YUeqsKNLAt94tsOR4c9Tk0gcueY7WugU2kN-ANYPYbQdHcvj22PsJye6sGQ2g7j3fa3GKF1842sPK4MPMa_PtHz92YNNWCIkDsSWDRVGvrQhlrL0F_v_U6XtFfFv1yZ4JipQARdW9thqzfb4Ma1Cx2scSSlPT0DSjDn4wfv2AjRPVv07XGzb_wJsHq6He80afCAqJEqJCST6HcpLTe89tWQn84lQOj9O3WRRIQVtSWTTqp_m75Vxplx0vz8rljDwDtRpW7v18LpDWnadY3w7p2nRwhpXPEDx2stD-kv9d2bxbOwGBLLOzzSEazuIjNr-j4tQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/NH1eCgYYCk-t0iDPlm3lHOIMfV2VQT_0EbVl8-uHQbQfSFGS2TFjXKe4B-ETZkywHR9xKj69TvmsXzdtWZmuyx4d1qRhV-W2Iph7hkRgUOPJe5yUP4gdf6YfNaXBu36ZAzBAmnZ0ZCboJ5nmzeSNwJOZEays-tm07Ekl_Qqux3_-0Bk7nl3PUJSx8WEmUQ4EZazCU6Uco3lD_05kC_jjGmP63PR3gwzZBQJ16CIJGMfj_ADcx13voBT_XwZyC5-hJnZTuddQxtXzGtRZyydQ55BNrAzbw3UOZ_jLbVu2tU9BYOFZHUJxB-0SBak0hRpoqyhg4hkCvWBzf1JRedtHEA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 دانیال طاهری فر | آموزش سئو و دیجیتال مارکتینگ</h1>
 <p>@danialtaherifar • 👥 1.55K عضو</p>
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 19:26:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 20:25:50</div>
 <hr>
 
 <div class="tg-post" id="msg-930">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">کاملا حس عقب ماندگی تو حوزه AI بهم دست میده وقتی که مطالب جدید رو میخونم و تغییرات سریع رو میبینم!
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 159 · <a href="https://t.me/danialtaherifar/930" target="_blank">📅 12:47 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 169 · <a href="https://t.me/danialtaherifar/930" target="_blank">📅 12:47 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-929">
@@ -307,13 +307,13 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BQhRo1FjIMTH3AQoMnVbL5a9_N5EGLJg4hfYqL9WuJAFmWClMJjiPW2hivvtCntRaZTGii_LzChXjK3A4Nlh9SGAPg33CMoAv14OnVYFI3GlTH0q__SXvlIeYY55wxzCvHBtrg9YX0zBrNsT8SDIT8qOfc908cLRjgZ_ZYglSuWrIp4OLI0qeHTl6eHLvd2K9rd8bhXDFJjy4AESNCrU_MtXssjak4hOlyk3NquoJgjaLLN48exI2YyLsc8W4euo5ty-WzSP_fj7sgkszXgGVY36xHaGquighwR7bfMZ0srbtJvxVYbRQaOxHN_3Z53YFjXT1RjLDrsFVWj6EBM8qw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 آپدیت هسته مارچ 2026 شروع شد.   بختت ایرانی...  @danialtaherifar</div>
-<div class="tg-footer">👁️ 263 · <a href="https://t.me/danialtaherifar/929" target="_blank">📅 13:24 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 267 · <a href="https://t.me/danialtaherifar/929" target="_blank">📅 13:24 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-928">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده   @danialtaherifar</div>
-<div class="tg-footer">👁️ 652 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 655 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-927">
@@ -321,7 +321,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HlVZolV67YQ-ifkeAuW71soksEXpSEMaSIUpmcmXrCsNDvCrct0H9nS8hxhrtO4OtCmGSG7LtdQUtcKNVBN8JEBZolCB8Bo5MXzDm73WX-Xk4ksRvqte5edppYhMMEcChiCOI4Ollds_xjXgT4fQxxA6YodbQTBMCPwPmRSAffOixYbpyyCCQ58tqRhksiGHqL09FHy_0LijLozdtZJO-ipdx-jo-kR3KxLzWSFA8LA3wFJZyQYUcXdy0R8y0HRVgAX483yt1QF_NAG_vTDmoI5NjKMfRscNvp8rtwNQh_mskuuwoXumYeLxPM6SR8gUdpsgMfAzczlLnzjw1WFXaw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 621 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 622 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-926">
@@ -330,7 +330,7 @@
 😞
 🚫
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 739 · <a href="https://t.me/danialtaherifar/926" target="_blank">📅 18:34 · 27 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 741 · <a href="https://t.me/danialtaherifar/926" target="_blank">📅 18:34 · 27 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-925">
@@ -339,7 +339,7 @@
 <div class="tg-text">درود
 ظاهرا دسترسی به یک سری دیتاسنترهای بین المللی برقرار شده.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 812 · <a href="https://t.me/danialtaherifar/925" target="_blank">📅 16:23 · 24 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 813 · <a href="https://t.me/danialtaherifar/925" target="_blank">📅 16:23 · 24 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-924">
@@ -370,7 +370,7 @@
 آپدیت هسته مارچ 2026 شروع شد.
 بختت ایرانی...
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 800 · <a href="https://t.me/danialtaherifar/923" target="_blank">📅 13:26 · 07 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 801 · <a href="https://t.me/danialtaherifar/923" target="_blank">📅 13:26 · 07 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-922">
@@ -417,7 +417,7 @@
 با هر ماجرایی باید صفر بشیم! باید کلی استرس بکشیم.
 امیدوارم این آخرین قطعی اینترنتی باشه که تجربه می کنیم
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 947 · <a href="https://t.me/danialtaherifar/918" target="_blank">📅 00:47 · 14 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 948 · <a href="https://t.me/danialtaherifar/918" target="_blank">📅 00:47 · 14 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-916">

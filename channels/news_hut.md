@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 19:26:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 20:25:50</div>
 <hr>
 
 <div class="tg-post" id="msg-65037">
@@ -301,14 +301,14 @@
 🇺🇸
 ترامپ: من معامله بد انجام نمی‌دهم؛ در مورد جزئیات توافق فعلا حرف نمی‌زنم، صحبت های خوبی در راه است
 @News_Hut</div>
-<div class="tg-footer">👁️ 6.55K · <a href="https://t.me/news_hut/65037" target="_blank">📅 17:35 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/news_hut/65037" target="_blank">📅 17:35 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65036">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">تنها چیزی که ترامپ تغییر داد رژیم غذایی مردم ایران بود
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/news_hut/65036" target="_blank">📅 15:28 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/news_hut/65036" target="_blank">📅 15:28 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65035">
@@ -323,7 +323,7 @@
 <div class="tg-text">🇺🇸
 مارکو روبیو: امروز اخبار بیشتری از توافق با ایران منتشر می‌شود
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/news_hut/65035" target="_blank">📅 14:59 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/news_hut/65035" target="_blank">📅 14:59 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65034">
@@ -333,14 +333,14 @@
 🗿
 #Fun
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/news_hut/65034" target="_blank">📅 14:19 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/news_hut/65034" target="_blank">📅 14:19 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65033">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">مراد ویسی: سپاه می‌خواد روحانی، احمدی‌نژاد و پزشکیان رو ترور کنه!
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/news_hut/65033" target="_blank">📅 10:31 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/65033" target="_blank">📅 10:31 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65032">
@@ -348,7 +348,7 @@
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Nv6OMfQDnHYY8BTC-nhJgRa0d83E0Nk86o4SY1Fon54nKonXaPTLSvtLxg08-fapcdspVWIWhbB7f1WcjuRBk6Fcm4v_rXmonMLl8qVx5WXJnt8_akMUa5sPxHnMa5gEnTvsjUqgYmLKyFO9hTaHMz786Jl7g7v6Kv3Dbv7jKtrr64NHdR-2Q4t2zDbe_FO23iYSEr4lLh3FKSjFLlU_23HRf65904K8zmxCtg3GE1kxKXJQyebF3R8Z-eAwIYb3iNpFYagqJeIbcuNayscwIFdlvY_OsOW8fQTDAaFqm-jKgIsteEKIWDg5z3vdcPjgfWUEn1xopZOGlV6MeMelQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دلار تتر بعد از اخبار دیشب درمورد توافق تا زیر 170 هزارتومان ریخت
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/news_hut/65032" target="_blank">📅 10:21 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/65032" target="_blank">📅 10:21 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65031">
@@ -358,7 +358,7 @@
 👎
 این خبر فیکه و آکسیوس و خبرنگاراش همچین خبری نزدن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/65031" target="_blank">📅 01:39 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/65031" target="_blank">📅 01:39 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65030">
@@ -371,7 +371,7 @@
 <a href="https://cdn4.telesco.pe/file/f43de325c3.mp4?token=Q3QKam1ZuetRednLenOyo-FZUTE4crRKfv7OiojytJYJcm-Se3mkB_SViWuYJMvs8327YGemYU40C7GYL1zmXZKjO1ru2CU9BbvE2ybI5AxSQnjfEqdnuv0OIlkvCASjKUj4jRfhRrlFXU62zLpqehuVcnnSMD-7fY-OWZPZt0ADrq8oXdhaTHtbXuB1xsONxiaEKI9O5jPs6BHtbh3y5U9s46Ke1CspZoR1Tiad1p3NhpHMQMvaKSr4xN4nJcFW573a_lluWtI1S1kFtZBK1NK6BgDwQnKiwGOCFgKPLf0YKQUf9Zo1JOiD1NiegzpeuKBiL6Chl7H78x0ZxrrZOQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">همونطور که اکثریت رسانه‌ها گفته بودند، احتمالاً یک راستی آزمایی ۳۰ روزه در قالب توافق موقت، برای پایان رسمی جنگ و بازگشایی تنگه هرمز شکل خواهد گرفت، و بعد از این توافق طرفین به سراغ مسئله‌ی اصلی یعنی هسته‌ای و تحویل اورانیوم ها خواهند رفت  شما اینطور بخوانید…</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/65030" target="_blank">📅 00:46 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/65030" target="_blank">📅 00:46 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65029">
@@ -384,13 +384,13 @@
 <a href="https://cdn4.telesco.pe/file/0fad8544d2.mp4?token=H7gkaVAQCe8OZ8dUrmii9WI0Eo37up1O-8r3aPwToZ3SgpJRM0uztSexo5S1QCZB3Q_l98yTuOVE9FXmoHITIXAemEKHvZ-_VryMTWV13_P5FDG4mQD0o8z5sUY5tt6cyLyRe--u-vX3X-RcO6NUyltJcmt59HDXppIsYyue-r2EnYZURu8Zqbnh6kGC-kV3aIRKk8oG2ZIzrtW0cW0ymCSB2o382R8nR83cfbOLsa_GW4YS-VGR896zrzmIjjYbXg4CRjfT4ZuA0f-3W7PA5eETaR_UCy6hnT3BmuKv54pZKprtRfw337gg11Rlj0MKb4MO37TWScABKX1Kws_k2g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">همونطور که اکثریت رسانه‌ها گفته بودند، احتمالاً یک راستی آزمایی ۳۰ روزه در قالب توافق موقت، برای پایان رسمی جنگ و بازگشایی تنگه هرمز شکل خواهد گرفت، و بعد از این توافق طرفین به سراغ مسئله‌ی اصلی یعنی هسته‌ای و تحویل اورانیوم ها خواهند رفت  شما اینطور بخوانید…</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/65029" target="_blank">📅 00:41 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/65029" target="_blank">📅 00:41 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65028">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">تا این لحظه طبق اخبار، الحدث، آکسیوس، نیویورک‌تایمز، سی‌ان‌ان، آسوشیتدپرس و... احتمال توافقِ موقت بسیار بالاست، یعنی توافقی که در اون توافق کنند برای به ثمر رسیدن توافق هسته‌ای!!!!</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/65028" target="_blank">📅 00:32 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/65028" target="_blank">📅 00:32 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65027">
@@ -403,14 +403,14 @@
 ترامپ:
 من در اتاق بیضی کاخ سفید هستم، جایی که همین حالا تماس بسیار خوبی با پادشاه محمد بن سلمان آل سعود، عربستان سعودی، محمد بن زاید آل نهیان، امارات متحده عربی، امیر تمیم بن حمد بن خلیفه آل ثانی، نخست‌وزیر محمد بن عبدالرحمن بن جاسم بن جابر آل ثانی، و وزیر علی الثعادی، قطر، مارشال فیلد سید عاصم منیر احمد شاه، پاکستان، رئیس‌جمهور رجب طیب اردوغان، ترکیه، رئیس‌جمهور عبدالفتاح السیسی، مصر، پادشاه عبدالله دوم، اردن، و پادشاه حمد بن عیسی آل خلیفه، بحرین، در مورد جمهوری اسلامی ایران و تمام موارد مرتبط با یک تفاهم‌نامه مربوط به صلح، برقرار شد. توافق‌نامه‌ای به طور کلی مذاکره شده است، مشروط به نهایی‌سازی بین ایالات متحده آمریکا، جمهوری اسلامی ایران و کشورهای مختلف دیگر، همان‌طور که در بالا ذکر شد. جداگانه، من با نخست‌وزیر بیبنتانی، اسرائیل، تماسی داشتم که به همان ترتیب بسیار خوب پیش رفت. جنبه‌های نهایی و جزئیات توافق‌نامه در حال حاضر در حال بحث هستند و به زودی اعلام خواهند شد. علاوه بر بسیاری از عناصر دیگر توافق‌نامه، تنگه هرمز باز خواهد شد. از توجه شما به این موضوع سپاسگزارم! رئیس‌جمهور دونالد جی. ترامپ
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/65027" target="_blank">📅 00:06 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/65027" target="_blank">📅 00:06 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65026">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMahshid</strong></div>
 <div class="tg-text">بله  مگه چیه ما با ۹۰ هزار ... گواهینامه مون گرفتیم</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/65026" target="_blank">📅 23:41 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/65026" target="_blank">📅 23:41 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65025">
@@ -418,19 +418,19 @@
 <div class="tg-text">گواهینامه شده ۱۵ میلیون تومن!!!!
 الان یکی میاد می‌گه حاجی ما با ۵۰ تومن گواهینامه گرفتیم
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/65025" target="_blank">📅 23:00 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/65025" target="_blank">📅 23:00 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65024">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">بستن تنگه‌ی هرمز در جنگی که ۹ اسفند آغاز شد، تمامِ معادلات آمریکایی هارو بهم ریخت، اون‌ها حتی چند روز قبل مین‌روب های خودشون رو هم از منطقه خارج کرده بودند! دومین مسئله‌ی شوکه کننده برای اون‌ها حملات وحشیانه به کشور های عربی بود  هر زمان آمریکا_اسرائیل به…</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/65024" target="_blank">📅 22:41 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/65024" target="_blank">📅 22:41 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65023">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">باز تو این دقایق فیک‌نیوز و نویز‌ها بشدت افزایش پیدا کردن، اخبار ضد و نقیض زیادی به گوش می‌رسه، اما کلیت ماجرا اینه که تهران آخرین پیام خودش رو به عاصم‌مونیر داده تا به آمریکایی ها برسونه، ترامپ نهایتا تا دو روز دیگه بعد از دیدارش با ویتکاف و کوشنر، تصمیم…</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/65023" target="_blank">📅 22:27 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/65023" target="_blank">📅 22:27 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65022">
@@ -438,7 +438,7 @@
 <div class="tg-text">باز تو این دقایق فیک‌نیوز و نویز‌ها بشدت افزایش پیدا کردن، اخبار ضد و نقیض زیادی به گوش می‌رسه، اما کلیت ماجرا اینه که تهران آخرین پیام خودش رو به عاصم‌مونیر داده تا به آمریکایی ها برسونه، ترامپ نهایتا تا دو روز دیگه بعد از دیدارش با ویتکاف و کوشنر، تصمیم می‌گیره، یا از خواسته هاش عقب نشینی می‌کنه و یا اینکه دوباره جنگی برای اعلام پیروزی شکل می‌گیره، تا این لحظه طبق اخبار، الحدث، آکسیوس، نیویورک‌تایمز، سی‌ان‌ان، آسوشیتدپرس و... احتمال توافقِ موقت بسیار بالاست، یعنی توافقی که در اون توافق کنند برای به ثمر رسیدن توافق هسته‌ای!!!!
 #hjAly
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/65022" target="_blank">📅 22:03 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/65022" target="_blank">📅 22:03 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65021">
@@ -446,7 +446,7 @@
 <div class="tg-text">🚨
 📰
 آکسیوس: ترامپ شنبه با ویتکاف و کوشنر دیدار می‌کند و یکشنبه تصمیم نهایی برای توافق یا جنگ دوباره گرفته می‌شود  @News_Hut</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/65021" target="_blank">📅 19:47 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/65021" target="_blank">📅 19:47 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65020">
@@ -455,7 +455,7 @@
 📰
 آکسیوس: ترامپ شنبه با ویتکاف و کوشنر دیدار می‌کند و یکشنبه تصمیم نهایی برای توافق یا جنگ دوباره گرفته می‌شود
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/65020" target="_blank">📅 19:23 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/65020" target="_blank">📅 19:23 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65019">
@@ -463,7 +463,7 @@
 <div class="tg-text">🚨
 📰
 ترامپ در گفت‌وگو با آکسیوس:  در حال حاضر احتمال کاملا 50 / 50 است که یا با ایران به توافق برسیم یا دوباره جنگ از سر گرفته شود. یا چنان محکم‌تر از همیشه به آنها حمله نظامی می کنم که تا حالا مثل آن را ندیده‌اند، یا توافقی خوب را امضا می‌کنیم + ترامپ شنبه با…</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/65019" target="_blank">📅 19:21 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/65019" target="_blank">📅 19:21 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65018">
@@ -528,14 +528,14 @@
 </div>
 <div class="tg-text">توئیتر اکانت ترامپ که با هوش مصنوعی به ویدئو درست کرده از مجری سی‌بی‌اس که مخالف خودشه و ترامپ میندازدش تو سطل زباله :/
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/65013" target="_blank">📅 15:56 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/65013" target="_blank">📅 15:56 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65012">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Qk1uC8T2cp35uMFSwNM7Z3HHImzzu2u33o3L9zoUxbZFv_caFycze8VOtG2Gf_2lm6-3nwTpyXi3aTIfR7FqbO84vpas7pkKBD2jqkJ5KY_xpYf530AaOVSIW5tGDPleuCtjDu0lnweR_0oKG3M1pEZVy3RaD4nh3vUH4jwup5KqDZxy-i4zlzOJTxTJ3oCJhCnocQzhJNxuf5lljE0ToTrrf9_xr17NewBmqJZ6cnJ5VSTSIOoMMDnw6uYaUTaiAPFRlPrpRWLxybgdHFzUPnLfb_bZqJjoVafDznsKZ-jR1i-jpZLCjt6i9aBG0NvhwHWAfOHYNNM7cTqboKZVRQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ عروسی پسرش بود نرفته، آخر هفته برنامه گلف داشت که کنسل کرده و تو کاخ سفید مونده حالا خبرگزاری‌ها شدن دو دسته یه دسته میگن توافق نزدیکه حتی متن توافق منتشر میکنن یه دسته متن توافق بقیه رو تکذیب می‌کنن و میگن کلا حتی نزدیک توافق هم نیستن دو طرف.  این وضعیت…</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/65012" target="_blank">📅 14:31 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/65012" target="_blank">📅 14:31 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65010">
@@ -560,7 +560,7 @@
 <div class="tg-text">🚨
 ⭕️
 ایران با صدور اطلاعیه‌ای، پرواز در بخش غربی حریم هوایی خود را تا صبح دوشنبه ممنوع اعلام کرد.  @News_Hut</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/65009" target="_blank">📅 03:17 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/65009" target="_blank">📅 03:17 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65008">
@@ -570,7 +570,7 @@
 ایران با صدور اطلاعیه‌ای، پرواز در بخش غربی حریم هوایی خود را تا صبح دوشنبه ممنوع اعلام کرد
 .
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/65008" target="_blank">📅 01:23 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/65008" target="_blank">📅 01:23 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65007">
@@ -594,7 +594,7 @@
 <div class="tg-text">🚨
 امتحانات نهایی پایه یازدهم و دوازدهم تو بازه ۱۵ تا ۲۰ تیر به‌صورت حضوری برگزار میشه
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/65006" target="_blank">📅 22:27 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/65006" target="_blank">📅 22:27 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65005">
@@ -618,7 +618,7 @@
 <div class="tg-text">🚨
 📰
 العربی‌الجدید به نقل از یک منبع نزدیک به مذاکرات:  سفر فرمانده ارتش پاکستان، عاصم منیر، به تهران به معنای این نیست که توافق در دسترس است. گزارش‌ها درباره وجود پیش‌نویس احتمالی توافق صحت ندارد و صرفاً گمانه‌زنی‌های رسانه‌ای است. وزیر کشور پاکستان پیام جدیدی…</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/65003" target="_blank">📅 21:09 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/65003" target="_blank">📅 21:09 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65002">
@@ -626,7 +626,7 @@
 <div class="tg-text">🚨
 📰
 العربیه: طبق منابع العربیه، انتظار می‌رود پیش‌نویس نهایی یک توافق احتمالی میان ایالات متحده و ایران که توسط پاکستان میانجی‌گری شده است. که ممکن است ظرف چند ساعت اعلام شود.  شرایط کلیدی آن عبارتند از: آتش‌بس فوری، جامع و بدون قید و شرط در تمام جبهه‌ها، از…</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/65002" target="_blank">📅 21:05 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/65002" target="_blank">📅 21:05 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65001">
@@ -679,7 +679,7 @@
 ✈️
 آیدی ربات جهت خرید :
 @AmoAdmins_bot</div>
-<div class="tg-footer">👁️ 7.08K · <a href="https://t.me/news_hut/64999" target="_blank">📅 18:22 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.11K · <a href="https://t.me/news_hut/64999" target="_blank">📅 18:22 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64998">
@@ -753,10 +753,10 @@
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/43db173db6.mp4?token=iN-IhaYYVikEwl0J3yqHz9q5TcOuHQuHvcmhAM435psq-LP3hshvj3j5vy9POjy0XHQ9xaTLUFbRnEDtgpWRHfy6u530RG_lIgA9Nq7cVtLvfOTivuAGf-hKijvqKF267WA1NIrAKqgisV-d5T1Mkszf6pa3s_Uq9GtjyFvlBlwZXUaXuRR3j8uTS7nlJtYtBKkF4UAdElUJjjMVVjZwLm4ZI0bfZmtWX7C47ebVGpE0_FIN_gKUXhFZrEDMTRxjFlr2wBIIRXJtrcNjr3dhc-BKYZS9jWmf-jXogDjtGeEN7r17b_l7lrWqeSZoVXea-8xyBqTcy8uWkQTXvZ_CuQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/43db173db6.mp4?token=a6UCXWt9bAd4Snuf2w34MOeg6c3HSeurZ2be8Dmp2JG3XgV5beoOnOtwFo_vohoOB2Z2Gz03GL7Eo0FjiAgz0KRR6v0u94ywJWZeYE-SqFm4OesV0xmWcqvIJ32-KsgLg4EpKStL0UCT3GiqjJgdkuGE02EIaPIEkWbhfoJNXGD1g9PI0SMN_I8vFESHH06RxC4X0Emm2u0FlS1IFZc47IvhDJmxKhzGbXUVbg99xS8ICOKWdebgI551v6t_irlFs5Cu-umw08o8fU6ff6HGMHNFKeo1L76FvYLJ2p1PbZpmhYQHvWMIcK4jx8FvGIpWu9Wu8dS2Rq1inwSqyTYwOw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/43db173db6.mp4?token=iN-IhaYYVikEwl0J3yqHz9q5TcOuHQuHvcmhAM435psq-LP3hshvj3j5vy9POjy0XHQ9xaTLUFbRnEDtgpWRHfy6u530RG_lIgA9Nq7cVtLvfOTivuAGf-hKijvqKF267WA1NIrAKqgisV-d5T1Mkszf6pa3s_Uq9GtjyFvlBlwZXUaXuRR3j8uTS7nlJtYtBKkF4UAdElUJjjMVVjZwLm4ZI0bfZmtWX7C47ebVGpE0_FIN_gKUXhFZrEDMTRxjFlr2wBIIRXJtrcNjr3dhc-BKYZS9jWmf-jXogDjtGeEN7r17b_l7lrWqeSZoVXea-8xyBqTcy8uWkQTXvZ_CuQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/43db173db6.mp4?token=a6UCXWt9bAd4Snuf2w34MOeg6c3HSeurZ2be8Dmp2JG3XgV5beoOnOtwFo_vohoOB2Z2Gz03GL7Eo0FjiAgz0KRR6v0u94ywJWZeYE-SqFm4OesV0xmWcqvIJ32-KsgLg4EpKStL0UCT3GiqjJgdkuGE02EIaPIEkWbhfoJNXGD1g9PI0SMN_I8vFESHH06RxC4X0Emm2u0FlS1IFZc47IvhDJmxKhzGbXUVbg99xS8ICOKWdebgI551v6t_irlFs5Cu-umw08o8fU6ff6HGMHNFKeo1L76FvYLJ2p1PbZpmhYQHvWMIcK4jx8FvGIpWu9Wu8dS2Rq1inwSqyTYwOw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🇺🇸
 🚨
@@ -843,7 +843,7 @@
 🇺🇸
 🇮🇷
 منابع الحدث: کار برای نهایی کردن متن توافق میان واشینگتن و تهران به طور جدی در حال انجام است و دور بعدی مذاکرات پس از حج در اسلام‌آباد برگزار می‌شود  @News_Hut</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/64982" target="_blank">📅 18:56 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/64982" target="_blank">📅 18:56 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64981">
@@ -920,7 +920,7 @@
 من ترجیح خودم راه‌حل دیپلماتیک هست، ولی قدیمی‌ترین ترفند ایران همیشه این بوده؛ امروز و فردا کردن، کش دادن، کش دادن، کش دادن
 در مورد هر توافقی هم، منتظرم بره سنا و اونجا بررسیش کنیم
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/64974" target="_blank">📅 07:22 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/64974" target="_blank">📅 07:22 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64973">
