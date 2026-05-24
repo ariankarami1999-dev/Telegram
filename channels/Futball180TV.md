@@ -292,7 +292,7 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 22:34:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 23:59:43</div>
 <hr>
 
 <div class="tg-post" id="msg-90199">
@@ -310,7 +310,7 @@
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 997 · <a href="https://t.me/Futball180TV/90199" target="_blank">📅 21:43 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.69K · <a href="https://t.me/Futball180TV/90199" target="_blank">📅 21:43 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90198">
@@ -332,7 +332,7 @@ BetForward.com
 BetForward.com
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 981 · <a href="https://t.me/Futball180TV/90198" target="_blank">📅 21:43 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/Futball180TV/90198" target="_blank">📅 21:43 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90197">
@@ -349,7 +349,7 @@ BetForward.com
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/Futball180TV/90197" target="_blank">📅 20:05 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/Futball180TV/90197" target="_blank">📅 20:05 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90196">
@@ -368,7 +368,7 @@ Channel:
 اپلیکیشن رو دانلود کردید موقع ثبت‌نام، کد هدیه 1x_1566529 رو وارد کن و تا
 100یورو
 هدیه بگیر!</div>
-<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/Futball180TV/90196" target="_blank">📅 20:05 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/Futball180TV/90196" target="_blank">📅 20:05 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90195">
@@ -399,7 +399,7 @@ bitly.uk/connect1xbet
 ⬇️
 فایل نصب اندروید 1XBET
 ⬇️</div>
-<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/Futball180TV/90195" target="_blank">📅 20:05 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/Futball180TV/90195" target="_blank">📅 20:05 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90194">
@@ -417,7 +417,7 @@ bitly.uk/connect1xbet
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 1.88K · <a href="https://t.me/Futball180TV/90194" target="_blank">📅 19:47 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.24K · <a href="https://t.me/Futball180TV/90194" target="_blank">📅 19:47 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90193">
@@ -446,7 +446,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 2.84K · <a href="https://t.me/Futball180TV/90193" target="_blank">📅 17:53 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.11K · <a href="https://t.me/Futball180TV/90193" target="_blank">📅 17:53 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90192">
@@ -457,7 +457,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 2.77K · <a href="https://t.me/Futball180TV/90192" target="_blank">📅 17:49 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/Futball180TV/90192" target="_blank">📅 17:49 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90191">
@@ -468,7 +468,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.18K · <a href="https://t.me/Futball180TV/90191" target="_blank">📅 16:49 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.42K · <a href="https://t.me/Futball180TV/90191" target="_blank">📅 16:49 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90190">
@@ -485,7 +485,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/Futball180TV/90190" target="_blank">📅 13:10 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.99K · <a href="https://t.me/Futball180TV/90190" target="_blank">📅 13:10 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90189">
@@ -504,7 +504,7 @@ Channel:
 اپلیکیشن رو دانلود کردید موقع ثبت‌نام، کد هدیه 1x_1566529 رو وارد کن و تا
 100یورو
 هدیه بگیر!</div>
-<div class="tg-footer">👁️ 3.62K · <a href="https://t.me/Futball180TV/90189" target="_blank">📅 13:09 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.76K · <a href="https://t.me/Futball180TV/90189" target="_blank">📅 13:09 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90188">
@@ -534,7 +534,7 @@ bitly.uk/connect1xbet
 ⬇️
 فایل نصب اندروید 1XBET
 ⬇️</div>
-<div class="tg-footer">👁️ 3.61K · <a href="https://t.me/Futball180TV/90188" target="_blank">📅 13:09 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.76K · <a href="https://t.me/Futball180TV/90188" target="_blank">📅 13:09 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90187">
@@ -553,7 +553,7 @@ bitly.uk/connect1xbet
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.83K · <a href="https://t.me/Futball180TV/90187" target="_blank">📅 10:57 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.94K · <a href="https://t.me/Futball180TV/90187" target="_blank">📅 10:57 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90186">
@@ -564,7 +564,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/Futball180TV/90186" target="_blank">📅 10:15 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/Futball180TV/90186" target="_blank">📅 10:15 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90185">
@@ -575,7 +575,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/Futball180TV/90185" target="_blank">📅 09:22 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/Futball180TV/90185" target="_blank">📅 09:22 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90184">
@@ -592,7 +592,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/Futball180TV/90184" target="_blank">📅 09:01 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/Futball180TV/90184" target="_blank">📅 09:01 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90183">
@@ -611,7 +611,7 @@ Channel:
 اپلیکیشن رو دانلود کردید موقع ثبت‌نام، کد هدیه 1x_1566529 رو وارد کن و تا
 100یورو
 هدیه بگیر!</div>
-<div class="tg-footer">👁️ 4.56K · <a href="https://t.me/Futball180TV/90183" target="_blank">📅 00:20 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/Futball180TV/90183" target="_blank">📅 00:20 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90182">
@@ -643,12 +643,12 @@ bitly.uk/connect1xbet
 ⬇️
 فایل نصب اندروید 1XBET
 ⬇️</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/Futball180TV/90182" target="_blank">📅 00:20 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/Futball180TV/90182" target="_blank">📅 00:20 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90181">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m-g7QIEr0uzsfAgR-btOuqQQ3XPOnQ8kxaE1iesIcp1U3dRbRr7_-KCW779uoio1UqG1UOLZw8Dx6unec4TcQUvgU_l6mZfZUzva1iYYBNpWJdGfCDFWe1wqFDJ26oirbyDWUgb2rbGLCaFlg_3KBTNHdXb9Qjdlppmie8Fi6y2etlS7A-YWWPZ-KRPMr33qlYiPE2saEkd4ctGpUC0UlvPocJZDH_JmtdrvZTDLyVfZY7ZoQzdKn-nvLMTmcEt22ienrD88mZEQ_MjqXce3EDAgLYrx5n_di5XEKPOCmOjPV7LmggDGvaKxUNzohm6-zjRFeFWgRq2KyNmRt2cdfw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QGmaSPWAYU9TDbSYUkI0OYgrUjtlxjyarptJOg5yiAeOMusZN_BTrqzz7NhuQaqs4bQ_QX2qhUDNdRop6BgPGtVOWv4D0gBDKWh7k90fXgaIFXeMXIZcNNzT678vE8fOQthyvyqxWv4HIZu3AGI6Min4rYs_Jxpq9EsQ5zQxItRJEfDhmdup46a49wJF5tyzMSOF1b4_yDjAfhkz1vdFBLD9CIuKnqvEncSMjlIy8Klir6kZnUZB-fl2nkPBg5LwxdNfKr2VRJDiAYgaqoUXijXtBk02JlcHGmGCLZpCbMFYKTdAERvUcPJtsyS9iGILifzLDxhs5U0F5a2T8m-nDw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
 🚨
@@ -660,19 +660,19 @@ bitly.uk/connect1xbet
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/Futball180TV/90181" target="_blank">📅 00:04 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/Futball180TV/90181" target="_blank">📅 00:04 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90180">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T60liMzl6ckWSrUzVpQpbkwl32yxXIBVRDS6SqNmtbyD_B6nCfv4_DkSAeRkMcscaq3O6GKqLyvH6eti70sIoGIGxjsQ3HbAVhPOuEXB2SKbsEOhNnKo4Edr-Sc7vCRYC9JKXm5vt7Wc1o3Artbt_sOaRK2HlUBphEVEu3mJcOq9thUN1JXF-TGyTPA0coszxDbl783QpKhrYD2iJXMM-O_wuocDlTZr_d2p2dEFDn7LgZWg0VJJuWQjh3nnbaaku-LOKS_PV926p5b9sRRCiKI_yVvfpA2yJRBdnn3DIBh-VCJa-m7XivsR0kwZjDpE173lkkc7sh6zHsuFt_lj2w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IXcqMQYEkROWKyoDvvya_VXXW3dna5vH9j9VziAdC_Ynqn8hqXtvz-GpmCd_ZmCb6AncmfxaJErTPkmJqjXb1VyVNNkx43QRO7zqDaus15nbV7gqxLaxDGhO3EUb-p3q37TLUTSzYHOFSGInay47gX_4D1YhNHrE5YOaTcblgSGL3adcuKwjyCvhyldf7B5zov8h9Fnit3KkPsaecWpEvwBSCLo7L-8h2w_MzR7HVjxXl1zISIxqkN3P9IRMB_Q1Xu0_he0qlRZg5UGYRVJ2APkhe1IyGYXe_wxS1lQxgDpEkzIJfGkmzAg29qwMx7a2SWW3BNYogQ8tL4N0P7SZVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇪🇸
 تیم‌فوتبال زنان بارسلونا با برتری قاطع مقابل لیون قهرمان لیگ‌قهرمانان اروپا شد
 ⚽️
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/Futball180TV/90180" target="_blank">📅 23:46 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/Futball180TV/90180" target="_blank">📅 23:46 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90179">
@@ -683,7 +683,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/Futball180TV/90179" target="_blank">📅 22:40 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/Futball180TV/90179" target="_blank">📅 22:40 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90178">
@@ -721,7 +721,7 @@ BetForward.com
 BetForward.com
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/Futball180TV/90178" target="_blank">📅 22:39 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/Futball180TV/90178" target="_blank">📅 22:39 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90177">
@@ -739,7 +739,7 @@ BetForward.com
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/Futball180TV/90177" target="_blank">📅 20:45 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/Futball180TV/90177" target="_blank">📅 20:45 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90176">
@@ -750,7 +750,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/Futball180TV/90176" target="_blank">📅 20:39 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/Futball180TV/90176" target="_blank">📅 20:39 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90175">
@@ -768,7 +768,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/Futball180TV/90175" target="_blank">📅 19:24 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/Futball180TV/90175" target="_blank">📅 19:24 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90174">
@@ -787,7 +787,7 @@ Channel:
 اپلیکیشن رو دانلود کردید موقع ثبت‌نام، کد هدیه 1x_1566529 رو وارد کن و تا
 100یورو
 هدیه بگیر!</div>
-<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/Futball180TV/90174" target="_blank">📅 19:24 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/Futball180TV/90174" target="_blank">📅 19:24 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90173">
@@ -818,7 +818,7 @@ bitly.uk/connect1xbet
 ⬇️
 فایل نصب اندروید 1XBET
 ⬇️</div>
-<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/Futball180TV/90173" target="_blank">📅 19:24 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/Futball180TV/90173" target="_blank">📅 19:24 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90172">
@@ -836,7 +836,7 @@ bitly.uk/connect1xbet
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/Futball180TV/90172" target="_blank">📅 18:47 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/Futball180TV/90172" target="_blank">📅 18:47 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90171">
@@ -849,7 +849,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/Futball180TV/90171" target="_blank">📅 18:01 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.56K · <a href="https://t.me/Futball180TV/90171" target="_blank">📅 18:01 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90170">
@@ -861,7 +861,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/Futball180TV/90170" target="_blank">📅 17:00 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/Futball180TV/90170" target="_blank">📅 17:00 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90169">
@@ -879,7 +879,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/Futball180TV/90169" target="_blank">📅 14:18 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/Futball180TV/90169" target="_blank">📅 14:18 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90168">
@@ -890,7 +890,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/Futball180TV/90168" target="_blank">📅 14:11 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/Futball180TV/90168" target="_blank">📅 14:11 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90167">
@@ -976,7 +976,7 @@ bitly.uk/connect1xbet
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/Futball180TV/90164" target="_blank">📅 11:43 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/Futball180TV/90164" target="_blank">📅 11:43 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90163">
@@ -988,7 +988,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/Futball180TV/90163" target="_blank">📅 11:19 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/Futball180TV/90163" target="_blank">📅 11:19 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90162">
@@ -999,7 +999,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/Futball180TV/90162" target="_blank">📅 09:04 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/Futball180TV/90162" target="_blank">📅 09:04 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90161">
@@ -1018,7 +1018,7 @@ Channel:
 اپلیکیشن رو دانلود کردید موقع ثبت‌نام، کد هدیه 1x_1566529 رو وارد کن و تا
 100یورو
 هدیه بگیر!</div>
-<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/Futball180TV/90161" target="_blank">📅 00:56 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/Futball180TV/90161" target="_blank">📅 00:56 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90160">
@@ -1050,7 +1050,7 @@ bitly.uk/connect1xbet
 ⬇️
 فایل نصب اندروید 1XBET
 ⬇️</div>
-<div class="tg-footer">👁️ 5.56K · <a href="https://t.me/Futball180TV/90160" target="_blank">📅 00:56 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/Futball180TV/90160" target="_blank">📅 00:56 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90159">
@@ -1067,12 +1067,12 @@ bitly.uk/connect1xbet
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/Futball180TV/90159" target="_blank">📅 00:09 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/Futball180TV/90159" target="_blank">📅 00:09 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90158">
 <div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M1bstidk2h2-bVHmTVl75ScPc2OTjU15rsr1sakorqrcQqJJdoYRfWkhgmDcOyymJ0sV_69r0SbsEAy0KlXYIFOPGTFRUqKFKJYJBges3R40iJlG7-iBEqhjzHs_WFY7ZgQx0UlgVvIg-yj2BuAMkczxGS-hmbrxVKWQkKEV4v_x8Es_B8tsVb0YEdZCV2KdpI4pjgKGK6Y2vSndvqJE7t0VJeeRLKRM-mNbLlN7RBApMsCakj47N8cy2HVv-UaFN8LNLXxQ9Goz5gPp6a7v-v6Inv1AiRaCeqjjvB3hK5xtpyGF64CTWZ_oi52xL0Es4vS8F-aSD9_TmBUXzKCtmg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IA6U6_LPhRcU9_-8uAsmpUH1kdNokXtZ-ED_u6dnR3wpJdcWapQMbSy16lHTUI0ctHNarLpjo15ID4hmICYFtOUe03UpMH4Jl_xGKho8EUgSU0SPu-xmEhZSDZH-nXSmmmITx-lSz3V7ekQmx2xxUZwsNtUM_0fwdB8mSGynFdh-QCoeIkVBTBXOsxYoGg-tEE3QudtlT5hWQsLJ-ARWrhJ9JIoIwcYigoGSjPXOHcZ_Q6L1b5U0g-NFtv_aRTpU3X7du9UbGtdzsUR6szC5jGmabWL1eS-88B4cNNmlsOKbF6phGZCUTARWPKj3RJpiKcBX7_onynNeClUB-BkYDg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">علی کریمی خطاب به شاهین نجفی
 ⚽️
 Channel:
@@ -1083,7 +1083,7 @@ Channel:
 
 <div class="tg-post" id="msg-90157">
 <div class="tg-post-header">📌 پیام #58</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qCAwuyoO_wG1CH4EshIb1DtoeB3cjoPEvwdczV0i5DqKUcRwDMhhU1quSlJK3yPxyeVPU-DpyvUr36IILY5BmGWgI7A-CpH0MXXjlduodrtEO4BBqbOu6bjVWqVNS6vPzTSsgDPPJB-ps8Eb4-gsGevw6OTTzYHMzsPRSInjRm4EcrKwDNNBvsDm19es_FoL7ht-kOsniNPhMIyqYsb504aB9QajexEqIphs79BjTqOLMt2vnKFW4N4J0i_WkuanwyeZ1OkA5OvxHySxjbK4ENsrBGxO_BG4AXXIU8vFBU87Bd_fHzv5BcO9WqhZxec-eczyX8UEg2s2a_g7GKGrRA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vfqtC14prZKn6kWCdqmL1QznvhbSDPAGbIQYQIO8gI7lrakEcBnpp8O9khZUvhNkxWwtxzv15C3829EwoDCTyaRj37RfB2Kqn4Idqijpl9omz4jnHnwPhh-ZGp8PydEgF61kHf0ThEa-ylr1My2ojSg06BYJIgpv5DW3mRC1GzXqfFujx-Rb-hLz3H1MTlY90qkNwgrw6X8cPaeIjr_76-wapYEJ0L4y21Uvnn4BcjopfSRn5pO3XBwMFH-3Z3jtvPKNv4C6-e5GSq42HlJ9PwxVsKsd9S3fs_j6mao4lX9zrpad6Zi9HmMCZqNr1XiD6x4fo_bQxH9JVqQN5AiB_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚽
 رئال مادرید - اتلتیک بیلبائو
 🏆
@@ -1135,7 +1135,7 @@ BetForward.com
 BetForward.com
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/Futball180TV/90157" target="_blank">📅 23:31 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/Futball180TV/90157" target="_blank">📅 23:31 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90154">
@@ -1169,7 +1169,7 @@ Channel:
 اپلیکیشن رو دانلود کردید موقع ثبت‌نام، کد هدیه 1x_1566529 رو وارد کن و تا
 100یورو
 هدیه بگیر!</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/Futball180TV/90153" target="_blank">📅 20:42 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/Futball180TV/90153" target="_blank">📅 20:42 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90152">
@@ -1274,7 +1274,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.56K · <a href="https://t.me/Futball180TV/90147" target="_blank">📅 14:13 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/Futball180TV/90147" target="_blank">📅 14:13 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90146">
@@ -1355,7 +1355,7 @@ bitly.uk/connect1xbet
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/Futball180TV/90142" target="_blank">📅 12:35 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/Futball180TV/90142" target="_blank">📅 12:35 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90141">
@@ -1369,7 +1369,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/Futball180TV/90141" target="_blank">📅 12:34 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/Futball180TV/90141" target="_blank">📅 12:34 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90140">
@@ -1576,7 +1576,7 @@ Channel:
 
 <div class="tg-post" id="msg-90129">
 <div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pHGIRisgHw1TCaX9F6EBSOVcMLhCVzEhzFYPOH4tXR8OUZNbJbvVVPP_MDWdfkFtXQMgFmLHqnvi0FyY902eAXzY9ZgdjufkE5NyHb9THk3nny9I7j8WeP07mQdxGhiQQElzLSrvhovLUGUdN7gtARsP0hfd6W4MODjoYePb_54StSHmuvCIV9zF0nmillEYvmuYbpwaGDOMBwpxsiB4YkjkfhGNxX3w3QZCxVFt4vze0RYVeqowVgysEz8XUCTX0eBhqOkZnH_WXkqA0MwkWXk-GWTXkz0ilJHxTlD6QGW01--zBHcZAyo7p0eqGOlMyMUhdfALU4tCnxR0YW7gFA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/D2ALYuCXT2zmz9TkdLycEv7Q-V8w_KlJgsI45m50HrKRjPD5OfUi8D5DGQlloRCJsBmJfeD_lRs-P1U2rlUyUHn1HEtqKqJLqvz5Qo3R9bIfYghW8jqUq1RMvrIpDeZfLroD937JPL-iv1aMvtOhfxxWgcF02_9AwZTblg_33gG5LqNb-S5slh89detvR6I7VnSJASYxJAEHgvn3VdqOvAkAB9cSYBxgUjnLyOeCFYcDaxqBoQI8FhQwmHztRKVEa0eW7BTLQM2vVakwJeipBFwE7Zlcw5gAySeuL1hbH2UaokRNv2VMlK3FURF3Xw6ps9zDiHMf_cONgqw5stVwaw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
 🚨
@@ -1591,7 +1591,7 @@ Channel:
 
 <div class="tg-post" id="msg-90128">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mdad6VVshyb-sPgPKezl33YNcT5BYyX30_fk92D34MHd_v69C2K-YKr9yhq0gh66PHCWyjZDetk_EVWhrb_DosubtKeAODxNuKo7xU_-X3ONuITBaf8_G6kg0Z0ne9Ury-_QcrPl2mKtGqBbJtUF7oQ0epm-lIiXuYpmeFiKGjkP-Lz_cxVFcbL0yJgZgF_wOCDwwo8utqg7m1LzLwwMBFrB-QNrS9BtYRu0jUh5_vWEEvVT03fENCqWFYLlu8vWDIfXqFWcjeSoclZKIOrxlAUHSU1JXEA5VqecRIZgCORO4A1bU0NYucOkpfSDKhVfax0YHx4NSxxX43WfWfx9Kg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V3EKSnS5MrjAjE_nse5yt5y9-ajZWUzP-5c2qn-YlwQBLVSOxIihBTIglLn-ktH2A3JIgT9wzV8CGQz9RWTH6VdKT-PraVVgi_s-bd_aj8gZGhJwir9M1T-vpVNP8qfKM2-H3aufWVA1KSKYZPAvBWxX-T4GscNXtlYeJ19gIv6Iggd4nwUrZBCFyuttJGf64NaQL21FFEeW867U_5eRLjt3s9jMy01cwBn7sHmWDrhAVkUC1RcfABoQGWD-TXyUe7YNvJ9YCOSpEqZCZT5mnnHlqLI-rBPs79TuKT3y47k8fr_xVLEu4AGdyhDNNoER6pngrvzhk8Aq34heLMzwZw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تقدیم گل کریس‌رونالدو به جورجینا همسرش
 ⚽️
 Channel:
@@ -1604,10 +1604,10 @@ Channel:
 <div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/9421ab7b51.mp4?token=oEnA9E_SyPpuA6Ee8VbG6bOIFXV30BUfr9dF0nlKcMaTTAEQupSIY_LTYibKS_9VdRVNapaFBOEWmq0LXW8NkERwT7rCsvdFG46aKx5ujlpvkelt8xspsvi5fOOPhIqjKh1ihns0LSh1WTW9riFhyVojwzrS6iVsbxCJnBTauIXVskz6DngsgB3GcjRD8UHWu3AE6t6Z1mQvdc8V6MPkLqS9uunSml_BQp2Xjnma4Uo820PVCsbl6BD4DmI2qeT-XF_wUwwKxxgFmcbBv3FxsJY6xOcrifAKea7ykW2YnsOL09TcQf-nTGL-SeDUbHTAvxwCQ83_vhoeAmGGg_jUdJG6U7RyIE4rXdtR6OlPnXI6SXBom3LQ0-aiIqiY2-LjhoHx19mUaKt6P6gqUsiTGQLi2gn_l6-yDqGpy9WXc4jMq7dG0YRY0sboiAqiGEk3E2dgcszvovtZuE35xQ2SVK51lAqbhLk6K_rSXaau28XGGdatrpZVul6AZaMvVoavOXhUF2m8jJtJJcEuAtL_2uJBKTUotU9TiBBHWvouaGSlPo5wjDSfQ1XL4g-iVYFWGqYlO82uZzlzHqgHdEjT1RKyIsDhRsKdHOGBMaF9iCxdf1lMK8DcCAIp5GsZWcBPq6mI19a8ML6HaIC_M4AMsQb-29It_KDkViWew3L0zb8" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/9421ab7b51.mp4?token=oEnA9E_SyPpuA6Ee8VbG6bOIFXV30BUfr9dF0nlKcMaTTAEQupSIY_LTYibKS_9VdRVNapaFBOEWmq0LXW8NkERwT7rCsvdFG46aKx5ujlpvkelt8xspsvi5fOOPhIqjKh1ihns0LSh1WTW9riFhyVojwzrS6iVsbxCJnBTauIXVskz6DngsgB3GcjRD8UHWu3AE6t6Z1mQvdc8V6MPkLqS9uunSml_BQp2Xjnma4Uo820PVCsbl6BD4DmI2qeT-XF_wUwwKxxgFmcbBv3FxsJY6xOcrifAKea7ykW2YnsOL09TcQf-nTGL-SeDUbHTAvxwCQ83_vhoeAmGGg_jUdCnLtAufye1T4cyR82iodX-UXpzsZvYa5PcmoFd2ZH3jI0V2MXDpfBeCkGu--sx_YfL0gbt2d-fOlsLZqU2bKHInTK4QFqjN8DaRbFjbL-VNkadNrSf4-KKPlCN0pfEzowGfuCDrXxZycIliYTQdmZdX99IfS4k7CdM5jmLbn150ZqW4WtCd3KFD3VNWHGpPCIQomCmbmKY0esn_0hw2NmgQJ99ktGyAzWDMXEZZc7AgsNaLifVMy668yR4HD7iyAGhd7Gj41qUiJAtXe3LSB1UoTScKWodci_fcC-RDZk6KiIcJ2EQxwb8NOhjb3qgUUUGki4KPzb-5xU5ka1_XITs" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/9421ab7b51.mp4?token=oEnA9E_SyPpuA6Ee8VbG6bOIFXV30BUfr9dF0nlKcMaTTAEQupSIY_LTYibKS_9VdRVNapaFBOEWmq0LXW8NkERwT7rCsvdFG46aKx5ujlpvkelt8xspsvi5fOOPhIqjKh1ihns0LSh1WTW9riFhyVojwzrS6iVsbxCJnBTauIXVskz6DngsgB3GcjRD8UHWu3AE6t6Z1mQvdc8V6MPkLqS9uunSml_BQp2Xjnma4Uo820PVCsbl6BD4DmI2qeT-XF_wUwwKxxgFmcbBv3FxsJY6xOcrifAKea7ykW2YnsOL09TcQf-nTGL-SeDUbHTAvxwCQ83_vhoeAmGGg_jUdJG6U7RyIE4rXdtR6OlPnXI6SXBom3LQ0-aiIqiY2-LjhoHx19mUaKt6P6gqUsiTGQLi2gn_l6-yDqGpy9WXc4jMq7dG0YRY0sboiAqiGEk3E2dgcszvovtZuE35xQ2SVK51lAqbhLk6K_rSXaau28XGGdatrpZVul6AZaMvVoavOXhUF2m8jJtJJcEuAtL_2uJBKTUotU9TiBBHWvouaGSlPo5wjDSfQ1XL4g-iVYFWGqYlO82uZzlzHqgHdEjT1RKyIsDhRsKdHOGBMaF9iCxdf1lMK8DcCAIp5GsZWcBPq6mI19a8ML6HaIC_M4AMsQb-29It_KDkViWew3L0zb8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/9421ab7b51.mp4?token=oEnA9E_SyPpuA6Ee8VbG6bOIFXV30BUfr9dF0nlKcMaTTAEQupSIY_LTYibKS_9VdRVNapaFBOEWmq0LXW8NkERwT7rCsvdFG46aKx5ujlpvkelt8xspsvi5fOOPhIqjKh1ihns0LSh1WTW9riFhyVojwzrS6iVsbxCJnBTauIXVskz6DngsgB3GcjRD8UHWu3AE6t6Z1mQvdc8V6MPkLqS9uunSml_BQp2Xjnma4Uo820PVCsbl6BD4DmI2qeT-XF_wUwwKxxgFmcbBv3FxsJY6xOcrifAKea7ykW2YnsOL09TcQf-nTGL-SeDUbHTAvxwCQ83_vhoeAmGGg_jUdCnLtAufye1T4cyR82iodX-UXpzsZvYa5PcmoFd2ZH3jI0V2MXDpfBeCkGu--sx_YfL0gbt2d-fOlsLZqU2bKHInTK4QFqjN8DaRbFjbL-VNkadNrSf4-KKPlCN0pfEzowGfuCDrXxZycIliYTQdmZdX99IfS4k7CdM5jmLbn150ZqW4WtCd3KFD3VNWHGpPCIQomCmbmKY0esn_0hw2NmgQJ99ktGyAzWDMXEZZc7AgsNaLifVMy668yR4HD7iyAGhd7Gj41qUiJAtXe3LSB1UoTScKWodci_fcC-RDZk6KiIcJ2EQxwb8NOhjb3qgUUUGki4KPzb-5xU5ka1_XITs" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">دبل رونالدو در دیدار امشب النصر مقابل ضمک
 ⚽️
@@ -1659,7 +1659,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/Futball180TV/90124" target="_blank">📅 19:42 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/Futball180TV/90124" target="_blank">📅 19:42 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90123">
@@ -1745,7 +1745,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.56K · <a href="https://t.me/Futball180TV/90119" target="_blank">📅 13:48 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/Futball180TV/90119" target="_blank">📅 13:48 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90118">
@@ -1787,7 +1787,7 @@ bitly.uk/connect1xbet
 برای ورود به سایت از فیلترشکن کشور های اسیایی یا کانادا یا ترکیه استفاده کنید
 ⬇️
 فایل نصب اندروید 1XBET</div>
-<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/Futball180TV/90117" target="_blank">📅 13:48 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/Futball180TV/90117" target="_blank">📅 13:48 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90116">
@@ -1798,7 +1798,7 @@ bitly.uk/connect1xbet
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/Futball180TV/90116" target="_blank">📅 12:03 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/Futball180TV/90116" target="_blank">📅 12:03 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90115">
@@ -1839,7 +1839,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.82K · <a href="https://t.me/Futball180TV/90111" target="_blank">📅 00:13 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/Futball180TV/90111" target="_blank">📅 00:13 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90110">
@@ -1856,7 +1856,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/Futball180TV/90110" target="_blank">📅 22:21 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 6.44K · <a href="https://t.me/Futball180TV/90110" target="_blank">📅 22:21 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90109">
@@ -1867,7 +1867,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.89K · <a href="https://t.me/Futball180TV/90109" target="_blank">📅 22:20 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.9K · <a href="https://t.me/Futball180TV/90109" target="_blank">📅 22:20 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90108">
@@ -1947,7 +1947,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/Futball180TV/90102" target="_blank">📅 17:10 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.72K · <a href="https://t.me/Futball180TV/90102" target="_blank">📅 17:10 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90101">
@@ -1963,7 +1963,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.55K · <a href="https://t.me/Futball180TV/90101" target="_blank">📅 16:16 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.56K · <a href="https://t.me/Futball180TV/90101" target="_blank">📅 16:16 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90099">
@@ -2019,7 +2019,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/Futball180TV/90094" target="_blank">📅 12:07 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/Futball180TV/90094" target="_blank">📅 12:07 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90093">
@@ -2049,7 +2049,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/Futball180TV/90092" target="_blank">📅 11:00 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/Futball180TV/90092" target="_blank">📅 11:00 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90091">

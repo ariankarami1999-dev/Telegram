@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 22:34:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 23:59:43</div>
 <hr>
 
 <div class="tg-post" id="msg-686">
@@ -311,7 +311,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GDsRaHOZRVPN1TC_egbBMUA1gKqNE3WeFyAVx-nVRVXy6UsPdjQ6unH1mnKrndSobUWEh-Rgx_jGLwKiD7rTL0AEhhG3VcZpgZVb-XLDj01R9rtSc9O1oyuHp8xxorHNgrZiCHBDCdQqU0briy1eO5Nuj6yRu-q8ni-bDJHSYt6WG2LJ4hWIOsrXr5xBYeC4DBRkFlFOntzlxBJHNwMxQe3npA29W3YsLFdzSuBBEDDK-9frOZWLAwR9Gr5bvg_qpAaZR-wsrgHExjgHp_wI533RmWEGrNLpAzx9vw2O-TOzoiD6E0A02OFKMaV_AjcQT87WpQT_4yCZCSAjG-P7Kg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به مرحله ای رسیدیم که هوش مصنوعی، خودجوش، خودش از دیتای خودش ایراد میگیره. خیلی خوبه. تبریک میگم
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/mohsentavoosiseo/685" target="_blank">📅 21:01 · 25 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/mohsentavoosiseo/685" target="_blank">📅 21:01 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684">
@@ -322,7 +322,7 @@
 اصلا انگار بشره. توقعمو خیلی برده بالا. خیلی هم ریز بین و دقیقه. خیلی هم عمیق میفهمه.
 آنتروپیک پس فردا مثل Horizon Zero Down و Forbidden West، ربات هاش زندگی انسان رو می گیرند و باید پناه ببریم به پناهگاه ها و ربات های Anthropic بشن موجودات اصلی زمین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3K · <a href="https://t.me/mohsentavoosiseo/684" target="_blank">📅 17:48 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.01K · <a href="https://t.me/mohsentavoosiseo/684" target="_blank">📅 17:48 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683">
@@ -365,7 +365,7 @@ https://t.me/mohsentavoosiseo/633
 https://t.me/mohsentavoosiseo/634
 https://t.me/mohsentavoosiseo/639
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-679">
@@ -687,10 +687,10 @@ https://t.me/mohsentavoosiseo/623
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/ee89341378.mp4?token=lnsuD5xprChBIkODLSCiA6KB7PtMKru1gj5rUK8VZ05LiOKKWmm215yYMmKxEqhUeiQDX9VkbBlvKPRXm59bNFSuSXCZYcY1Io63UrrglVI3cUZDas2su8hFs5TTrKh40pMXKzeshxjOTHiWmR4o_Iw-Lvf5ct6uh1LpVcbtibiz2avwd1YACRN_GMkBnirdmHdoNb5TLm9rtwMImwXhrx-wfwBjhF5SGgMM-K4OV2xFpxjGLNRrIW3PSzVv2T5xSvNqHR_mcqk6lSOP3IEugRsPLnPqDBzMwHhgXhozxYbzm7hNUcB3VbfSzoYzMY7LJbpwRtYoQLOGNOsUH7o3sA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/ee89341378.mp4?token=Ipym7jZ5iol9tPrc-HJLVe55Xu155Mmz0gKxKh6tGHb7jnicLusGIDFIxMJKP7tc9O-A0e7-AKQeTX71AO4zX_0boFptGi4jSZcQEr6KhYMoGacoDFGzwsXqsdVeFbvIdzY04zFTs0DwvjPcnI1wktBBvuua_4PoQpOCtIItntNfxSX5LtpB-FStIQX9ClgjsJ-xfMP90hwofozR6jg0hhwaL43HsWLXZqYpNgf6wuLXDnV2qq7wGICX-TKxf5ZKyVt5mqVCyOmtXMjuk6uvSxqVpHe4wJ6f8ddgN_yUE74uWrNMyMj6FTMIdcuK6LykZUUG4ClFPPBszfR1xyFNhg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/ee89341378.mp4?token=lnsuD5xprChBIkODLSCiA6KB7PtMKru1gj5rUK8VZ05LiOKKWmm215yYMmKxEqhUeiQDX9VkbBlvKPRXm59bNFSuSXCZYcY1Io63UrrglVI3cUZDas2su8hFs5TTrKh40pMXKzeshxjOTHiWmR4o_Iw-Lvf5ct6uh1LpVcbtibiz2avwd1YACRN_GMkBnirdmHdoNb5TLm9rtwMImwXhrx-wfwBjhF5SGgMM-K4OV2xFpxjGLNRrIW3PSzVv2T5xSvNqHR_mcqk6lSOP3IEugRsPLnPqDBzMwHhgXhozxYbzm7hNUcB3VbfSzoYzMY7LJbpwRtYoQLOGNOsUH7o3sA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/ee89341378.mp4?token=Ipym7jZ5iol9tPrc-HJLVe55Xu155Mmz0gKxKh6tGHb7jnicLusGIDFIxMJKP7tc9O-A0e7-AKQeTX71AO4zX_0boFptGi4jSZcQEr6KhYMoGacoDFGzwsXqsdVeFbvIdzY04zFTs0DwvjPcnI1wktBBvuua_4PoQpOCtIItntNfxSX5LtpB-FStIQX9ClgjsJ-xfMP90hwofozR6jg0hhwaL43HsWLXZqYpNgf6wuLXDnV2qq7wGICX-TKxf5ZKyVt5mqVCyOmtXMjuk6uvSxqVpHe4wJ6f8ddgN_yUE74uWrNMyMj6FTMIdcuK6LykZUUG4ClFPPBszfR1xyFNhg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">@mohsentavoosiseo</div>
 <div class="tg-footer">👁️ 3.95K · <a href="https://t.me/mohsentavoosiseo/637" target="_blank">📅 22:07 · 27 Farvardin 1405</a></div>
@@ -918,7 +918,7 @@ pinned «
 <div class="tg-text">🟢
 ساده لوحی در SEO
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 6.52K · <a href="https://t.me/mohsentavoosiseo/606" target="_blank">📅 21:24 · 06 Dey 1404</a></div>
+<div class="tg-footer">👁️ 6.53K · <a href="https://t.me/mohsentavoosiseo/606" target="_blank">📅 21:24 · 06 Dey 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-605">
@@ -940,7 +940,7 @@ pinned «
 
 <div class="tg-post" id="msg-603">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fR9gaxbTPzt1UOY1XYa-f6epfT60eLoRLGPs_wOhL32aeSs86o-ZhpMFvtHnB4OJsU8bdS9RGB02pb9g6WptEd2LaykiGFm27g2kfzOR_uXP4cdsjE6HUDGcAouHTBTOA9irTt2gBvDHFAPanLf7OpEgCcREqzP7M6Licrcn16s2nDseAMvbOZoK9vJGkLQt4y1Fgy2-8ZYhYpVry4vJ8vHUA8lclzJ_C7jgjpzvdMHNGQfu6Y5w8pADzhp1qV31DakXm2yZ2FgZU3mejrhX7uuKBsh7t-by7UoPp-hUlNUXN3iM6Rk8Rgc2R5m66TswXjP0nEF6UxHxy-WPSsxh7w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ht46U_EafaMdESN1bMXLRhnlH7EaGM1HqsTqHWPXZeJ1NKJKPp8i5GoQO45-8GKL0oShdE-IxO4yWmgQCsfGfbTc3aH4CLiewPBmv8D_CL2xkiiCs7HWSxV1vKidiScl8GCTJQPRpmG4RFYQdy1JOGQB_JDrCL8J9p5bcZTZ9qsiKqGMBCJU8CfyFmI_fEDTw8c3CFB08Q0JsRdU5OZK4BWcDHFiC6it44_wz_r0X-4lswC4eWAnxW9c0Im6z9_AxGw3asxCAxSe7jXwlLv9NVJE9djdezihUg8igsaVngAYwRdwIZ4fctRT_jPU5pQHpS4n0vBKnXizJiS_YDVEZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🟢
 تو ویس های بالا توضیح دادم
 ✅
@@ -1242,7 +1242,7 @@ https://www.youtube.com/watch?v=P9NGXdQF1Ks
 کسب رتبه گوگل در یک ماه
 این ماجرا افسانه ای بیش نیست که سریع بیایم بالا و بعد بریم پایین
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.76K · <a href="https://t.me/mohsentavoosiseo/572" target="_blank">📅 09:18 · 01 Azar 1404</a></div>
+<div class="tg-footer">👁️ 3.77K · <a href="https://t.me/mohsentavoosiseo/572" target="_blank">📅 09:18 · 01 Azar 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-571">
