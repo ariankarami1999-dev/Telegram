@@ -286,12 +286,12 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/kJlTmRN7yn71as4UIr6baAF7b1tj0AMAVKi7mw5lEmo-6xdfcr52kwugCGSvno9JJ4SL9aEtur7zk6B1zZ9UR8EL9Fy-knTs6-3VRhE73rW9VWrVu9ObCotrFje4cBd8A1gXB-Vm1xlm9IzZTMgMCzkl08P7deqjDbjUQcEHpXMFV5qTVL3Osmx_DPI3vkzx63wftC3HY5aNNAXMND-OA-ndRfV-PaOpJq-sdOYRBaLsm2oZtiGJWU4UotyrxvsN_HQMHQ67sf8Qz6MgiSaEhQR-csosXxS3EEBuT2HQvBndugPlDgoiiE0FCDseZQiREUY2lj0U85XbgpE1nJJMDA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/arziyzhV1ZYOrb2_hynS_a6JEF7CVzsiHGnUSih4vBt-45FRMgGS1XoxQsyxs0vquIoAmi2OEhbJqQ91N3xwjikJy5v9Bv5unqgbarwHDmWnEd7XII7ULaXB-wtvVJA65jeQu7la59SPvPdDp55EX5_acatlcteNL-Eodl73Zgkwn0o29UPsDxu-ySvehQsmUY_MYbYxPSi2JumAf6OaS8SPBUMqVmPpKDYkDrlFs8VVoT-DXUGihZ9bdLnKkCiZT_qOZGkg4BlF3VzdTSRom3W8QrjVd1lysvWjRJafbTQUOr1dHI3S2wQzU7GdZ1q4MJhMbJ4HuN-5u3yctI1I9Q.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 فرهمند عليپور Farahmand Alipour</h1>
 <p>@farahmand_alipour • 👥 61.3K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 18:16:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-03 19:26:08</div>
 <hr>
 
 <div class="tg-post" id="msg-5136">
@@ -304,7 +304,7 @@
 جرم او را ارائه مختصات صنایع تولیدی به شبکه‌های ماهواره‌ای اعلام کرده‌اند؛ انگار که اسرائیل که اتاق خواب رهبران رژیم را می‌داند به اطلاعات دیگران نیاز ندارد...
 خبرگزاری سپاه نوشته است: «وی در پیام‌هایی به شبکه وابسته به دشمن، اطلاعات محل شرکت مرتبط با صنایع دفاعی را ارسال و با قید نام نخست‌وزیر رژیم صهیونیستی در پیام ارسالی به عوامل این شبکه تأکید می‌کند که موضوع را «به بی‌بی آمار بده»!
 T.me/irdamavand</div>
-<div class="tg-footer">👁️ 8.85K · <a href="https://t.me/farahmand_alipour/5136" target="_blank">📅 15:52 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farahmand_alipour/5136" target="_blank">📅 15:52 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5135">
@@ -317,7 +317,7 @@ T.me/irdamavand</div>
 به گفته دو منبع آگاه، ایران از طریق میانجی‌ها به‌صورت شفاهی به آمریکا درباره میزان امتیازاتی که حاضر است در زمینه تعلیق غنی‌سازی و واگذاری مواد هسته‌ای بدهد، تعهداتی ارائه کرده است.
 - ببینیم چی میشه. بعید می‌دونم جمهوری اسلامی اورانیوم غنی سازی شدهاش رو تحویل بده،
 خبر هم میگه ج‌ا به یک میانجی (پاکستان / قطر) شفاهی گفته!</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5135" target="_blank">📅 07:35 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/5135" target="_blank">📅 07:35 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5134">
@@ -337,7 +337,7 @@ T.me/irdamavand</div>
 به‌طور جداگانه، من همچنین با نخست‌وزیر اسرائیل،بی‌بی نتانیاهو، تماس داشتم که آن هم به همان اندازه بسیار خوب پیش رفت.
 در حال حاضر، جنبه‌ها و جزئیات نهایی این توافق در حال بررسی و گفت‌وگو است و به‌زودی اعلام خواهد شد.
 علاوه بر بسیاری از بندهای دیگر توافق، تنگه هرمز نیز باز خواهد شد.»</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/farahmand_alipour/5134" target="_blank">📅 00:31 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/farahmand_alipour/5134" target="_blank">📅 00:31 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5133">
@@ -347,13 +347,13 @@ T.me/irdamavand</div>
 گاو : نماد فراوانی و ثروت سرزمین ایران و منطقه.
 تن زنانه و نیمه عریان: نماد پاکی، نماد لطافت و ظرافت ، در نقطه تقابل با خشونت و توحش و درندگی
 بقیه هم‌ که معرف حضورتونه، آشنای دیرینه.</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/farahmand_alipour/5133" target="_blank">📅 22:09 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/farahmand_alipour/5133" target="_blank">📅 22:09 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5132">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">ترامپ به اکسیوس  گفت که درباره توافق با ایران یا بمباران، «کاملاً پنجاه‌پنجاه» است. ترامپ گفت امروز با مشاوران ارشدش دیدار خواهد کرد تا آخرین پیش‌نویس توافق را بررسی کنند و ممکن است تا فردا تصمیم نهایی را بگیرد.</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/5132" target="_blank">📅 20:57 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/5132" target="_blank">📅 20:57 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5131">
@@ -362,7 +362,7 @@ T.me/irdamavand</div>
 آکسیوس : ترامپ ساعت هشت شب امشب ،  در یک تماس کنفرانسی  با رهبران عرب شرکت خواهد کرد تا درباره پیش‌نویس توافق با ایران گفت‌وگو کند و نظر آن‌ها را بشنود.
 🔺
 نظر شخصی :  توافقی در کار نیست!</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/5131" target="_blank">📅 20:55 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/5131" target="_blank">📅 20:55 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5130">
@@ -374,7 +374,7 @@ T.me/irdamavand</div>
 با رهبران عرب شرکت خواهد کرد تا درباره پیش‌نویس توافق با ایران گفت‌وگو کند و نظر آن‌ها را بشنود.
 🔺
 نظر شخصی :  توافقی در کار نیست!</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/5130" target="_blank">📅 20:13 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/5130" target="_blank">📅 20:13 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5127">
@@ -391,12 +391,12 @@ T.me/irdamavand</div>
 الجزایر سال ۱۹۵۲  (۷۴ سال پیش
 مناطق اروپایی نشین
 و مناطق مسلمان نشین</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5127" target="_blank">📅 19:52 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5127" target="_blank">📅 19:52 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5126">
 <div class="tg-post-header">📌 پیام #92</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qbYsuQwdeF1b2nfsS4hCv9NllXVDTALJeLZ2Wq9D9EIWrKvySyOADWLUKe20rqNC6Uv1KDW_1921Klm8MBBTRWpKvKQ4bx2D1yAm72Kb2VhJY-4Db55nhO2RBOJ9YLQtk4EsO-QvLdPyc3-a8r2m9nDW2thi5ROZEwyzLbc7gS4XY9sGz98JuiQNPX4t8B8cReiqtAYNOgXHdneX8Qk37n5iJQTeUl5lmges_E2nW1vGrcmcWRAh9MDDykIoxTO1J9JhaGjnf9G5N8_HqfHXA58Fg6y2n8h5A-0u1zDbkxt2rUTyclvTI5CLRvRoIthPy_SAMaiVW7IIQOy-qzP8Tg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gzGjNM5g-9Fagez4JpZ5aGKIatQv9vOqAfN5jsjv-NkAGJ9oelCzMKJ5GdyA-vTO8LLY5o0TvcjPSOJZm5WvzuXqesQydBPpWSQ1D3UjGKg4LIdzAQVExd_6FgwG65xf8fUjM3GRDdzatdHjriV0FYq4AiRSq4P-KySIMAvjqmioLqPIkzygNyKjOa5s8KA_l_Xe6GKTAx8vqeGZNw3TkzC_-LH2iWmCWgFsAlSlaEz3LK2Pred03UZM4zepltqSROfwPET2COonkWoNGC7umy6AF9K30C6s_SX_Ke5aS1tqSsSEyXuCahMaGa04cj_rCKNrB3BD31EZFlDi1-OPcw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شمال دریای مدیترانه، اروپا، نماد پیشرفت
 آرامش، ثروت، هنر و معماری و….. است.
 جنوب مدیترانه، نماد فقر و بی‌ثباتی
@@ -422,7 +422,7 @@ T.me/irdamavand</div>
 <div class="tg-post" id="msg-5124">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">مارکو روبیو در خصوص مذاکرات با جمهوری اسلامی:  شاید تا عصر امروز خبرهایی باشه، شاید هم نه. مطمئن نیستم ولی امیدوارم. پیشرفت‌هایی صورت گرفته. شاید عصر امروز، شاید فردا، شاید این یکی دو روزه، چیزی برای گفتن داشته باشیم.  جمهوری اسلامی باید دست از غنی‌سازی بردارند.…</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/5124" target="_blank">📅 17:29 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/farahmand_alipour/5124" target="_blank">📅 17:29 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5123">
@@ -439,7 +439,7 @@ T.me/irdamavand</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ahBFxUTl3kuJpxmhaKn00UKgo8ve5fKF-uAnKPU2y44bxdWYYdv7UdXDlEiVicH5atOZNJcLoIOawJeaIak8N97INSedo8RdtD09DyNs9ACICfhMkdWjILXnVUIeTOVDZ8UsADOEYBaGzS589nDGWN2HCPJ_koLD-JQg0bfS8QuBovGCJw8tEG0bp8vBdha4t-M1SiCh8oxPpeIARaSJnFLT9nKQj2o2ZAgxCXj4IfiWaliCXADzNpBDuLhXN3eLWBFafBuzsx3MP7Ds9NORZFY1kVnnbsJKH-wjJBvEagYKp71IqIoXLTUdHDz7nC2yjBnneQFXLCFFCekw7wdZ8Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چقدر ایران باید هزینه بده برای این گر‌وه‌ها
 و برای این جنگ‌های بی‌پایان جمهوری اسلامی با آمریکا و اسرائیل.</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5122" target="_blank">📅 17:18 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5122" target="_blank">📅 17:18 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5121">
@@ -483,7 +483,7 @@ T.me/irdamavand</div>
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">حریم هوایی ایران در مناطق غربی بسته شد.
 پروازها فقط در طول روز</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/farahmand_alipour/5118" target="_blank">📅 01:01 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/farahmand_alipour/5118" target="_blank">📅 01:01 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5117">
@@ -508,7 +508,7 @@ T.me/irdamavand</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Rpo4LyKg1SILx0B4zNe-COuILyH-zUnYGxgfXGhmAe0MXhfdY5PhOR2cqoDfU1Dg4iAPYqbjMBAkU4g1s218Y1fRIaStvWZtOTmy0mANr75U1otrDM-C8nATpS7xQkxj48QsZFcsMs313zWxRDRf_yBeCI356t0feGh_K5IYc8tf4iPxy7wRwp7sjMDg9aVkkCxrpGXvGyJWLEKwqtHrIi02tm1ndCJStlUPSGdVGGpjUN5-G2goXrLrcj36viqUWtwURogpYiqPfZDA2Or-oYla1BpLY7N8pY1g-p8NLaricZWbZ6lSfjWm9-fIriPwq2C-d5nzZ4hXWLF0EgY6Vw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خبرگزاری وابسته به سپاه این مدلی تیتر میزنه
 ولی در واقع «گابارد» از مخالفان معروف جنگ علیه جمهوری اسلامی بود که الان کنار گذاشته شد.</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/5115" target="_blank">📅 22:55 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/farahmand_alipour/5115" target="_blank">📅 22:55 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5114">
@@ -526,7 +526,7 @@ T.me/irdamavand</div>
 <div class="tg-text">سخنگوی وزارت خارجه ج‌ا : «اختلاف‌نظرها بین ایران و آمریکا آن‌قدر عمیق و زیاد است که نمی‌شود گفت با چندبار رفت‌وآمد یا مذاکرات ظرف چند هفته ما باید حتماً به نتیجه برسیم.»
 🔺
 یادآوری : جمهوری اسلامی از سال ۱۳۸۲  (۲۰۰۳) مذاکرات جدی! در خصوص فعالیت‌های هسته‌ای‌اش رو شروع کرد!</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/5113" target="_blank">📅 21:04 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/5113" target="_blank">📅 21:04 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5112">
@@ -566,7 +566,7 @@ T.me/irdamavand</div>
 
 <div class="tg-post" id="msg-5111">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Yntqfvr9kBRZxvYBRlhrRQ9sVGYITPAVXBiuvf7jM_fJMFF0ESGxteMPNIRNOq8MjR6zSIkiOLhVI3eNcUib2nyFW4JLtqUUwW43ZXcmaDg5NcxDUU-vXx_6Mao5Fzg-cL3fGKyb2OO9ANUlrhHInvWkQUmYMj2ZH1t3pTXslA7lwiDfB3sJY2m5pSMJFY3pgNEdxpB-t741OWe2uYAUHIQbj7SjBFJJ5CekAg6Cjswb6cTSJaEuZkobPQLe8LV8Ins7Rh14QN2epR3nyWu4oAuxz4rgfQ7JbBEmQ_fGK18LXk5blmJp3uofDVe8-S-Mi6Opq32z74usR1VtdRLPSQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/D9bol9s_eg1qAgy1aYVJN6gWna7e_9JbBpDKWw5NBHfu7Ue-mZacZcSFa0NkLXWtAYRd-ntVAPXbqk2UO4q6S1F58lkPLimL_jBKS3MDcWS4KpmBkPoXUXUoFI6ensJXFZjCeEgUCnY5vbh3_uwF765-mATXUrvlfZHn4YbXBCQKas4oELaNZ0qdRt3iip3p3V1_bNd161xIYs7GDuckVF-AWQq2JUFb-zrkusLiKgot3G_jWtQ2t8a7qFMde2Ruk84-SlHgaat-8k9VV14bHWWOLQLga9vxrDUUnLOEV7SyKVZXx0YaTOysW-jKv5hD34N2QIOHnaqVURrDRrXxng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این خانم! از چهره‌های معروف چپ  در دانشگاه تهران! در تظاهرات حکومتی شرکت میکنه!   بدون توجه به اینکه جمهوری اسلامی طرف  دو‌شب دست به یک قتل عام هولناک زد!  پس چرا کنار جمهوری اسلامی است؟  چون جمهوری اسلامی ضد آمریکاست!  از اسرائیل هم فقط به این دلیل بدشون…</div>
 <div class="tg-footer">👁️ 17.8K · <a href="https://t.me/farahmand_alipour/5111" target="_blank">📅 18:52 · 01 Khordad 1405</a></div>
 </div>
@@ -736,7 +736,7 @@ T.me/irdamavand</div>
 
 <div class="tg-post" id="msg-5091">
 <div class="tg-post-header">📌 پیام #58</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/efBcS6GSoH0_xBny7pbvjhAPvQK2IfpIwTg5ZBqGe6bLoby5iaH_Q9HJc60Trj73jh-oKXrc3Ww6nU8MSzG4Hm4sYjobX10xMaT-4cUb2KNkN6sK0C3eKVe-9JrA-rcXNzOlJwGESxzNTlTgOVHkUatT7P5PYHiXSGjyapliT9mo-u0cu1DTc9QApfn5luwuZkvGdY7OEzHjq8AjyIRQhcqirbXVJ3uENPbyamjvkaTkhE5zhIh8bxQjPSY4Pl6VuOjn6bidF6KDhMXAmqVYpQzN7w5H50BsKLxmlJT_YXeIs3TKiZafqQluo1_017g0y7aMBlap8WXej5XPZxr33A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EftLD0_iNToathXbfp1-R4S1kCsKs_PnaxRanuWSHONwMM8ecSRIRrtPJana8CabMFagHSmjMbAj3yKbfiIJfzK8RpaBp0IWn4edsWwVdoaAod7XyWIq6XGcirRV7BNRH_o6gNPjbnBlE-JMoiciqIkrPBBZBwSuu7cgMzM8ZulHdYfylU6MsiE0x3paw6iPGuFkTCnLdaD0WuKzt93STQ2LW9Sn6zsROp-EDS0GuCT5g4hPPwwfjWpFtgKCsePHjtTisaGpxZ1QW2pxjWZko8E_pyL_0lTpLsJcGJctiBE0GMWhsCykd0wphxdHFCKXvTopec1hfT1ep5MMcZQMDw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هر بار مطلبی منتشر میشه که نشون میده
 گزارش نیویورک تایمز چقدر بیراه بوده و بی‌پایه</div>
 <div class="tg-footer">👁️ 21.7K · <a href="https://t.me/farahmand_alipour/5091" target="_blank">📅 19:37 · 31 Ordibehesht 1405</a></div>
@@ -986,7 +986,7 @@ VahidHeadline
 </div>
 <div class="tg-text">صداوسیما روز ۲۹ اردیبهشت‌ماه، در برنامه «سلام صبح بخیر»، از تندیس «مشت گره‌کرده» علی خامنه‌ای، رهبر کشته‌شده جمهوری اسلامی، به‌عنوان نماد جدید میدان انقلاب تهران رونمایی کرد.
 @iranintltv</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/5064" target="_blank">📅 09:26 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/5064" target="_blank">📅 09:26 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5063">
@@ -1082,7 +1082,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 اینها سلاح های مبارزه با آمریکا و اسرائیل
 نبود و نیست! اینها سلاح و خودروی سرکوب
 شهروندان معترض بود!</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/farahmand_alipour/5054" target="_blank">📅 15:47 · 29 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/farahmand_alipour/5054" target="_blank">📅 15:47 · 29 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5053">
@@ -1235,14 +1235,14 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iCL9CfA0UD2AGLLjfBaGL1mnFyL6XcroeCZY6U-6VxMynVSWKBEkuS8bxRhf07oXLloTa3IkWNrqQc8GWxgfKwqrDXkIVzrtaUkLp9MNUGDe_1wCv-tWRQH_VcinU_pJ86gPOXFASA0A0kpy6vPqpLXWh7-zoejgbDDQY9e99KubLqyUEr2Qar-8OfxeM_W-FPuqc47ij9WkJze-HknTU7V5O0cr1OH2bBT1JLDh5pNi-orekyaiP0BsX1Pym6b3GPbzOge_fs87nBsY_Mp59GzF5h_z4XABNN545FRlNyTAFGJNI1OCFP7jHXupwq8gAsoV8iKuXLwlpJwCApQ7-w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اول تبلیغ میکردن که قراره سالی ۱۰۰ تا ۱۲۰ میلیارد دلار درآمد از تنگه هرمز داشته باشیم! ۳ برابر درآمد نفتی!  توی ایستگاه مترو هم از زبان رویترز  نوشتن که قراره ۱۰۰ میلیارد دلار درآمد داشته باشیم!</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/farahmand_alipour/5038" target="_blank">📅 11:16 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/farahmand_alipour/5038" target="_blank">📅 11:16 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5036">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/bfU8C13jT_CFeKe6Z3ApP0C1bkvnSBXQW5SXYgNeYPGvlE4sskFD9GPHkWpJVIejqaC_7LP5H9ES3EksX9Asa6R-mra195GczopK7xDeMGM7k07NaUrgy97oTXpd5rGXZ9dUuwumKtpdFzX6qYg6iO4v9674-tV0ibltywXM1dTIn-sb-yRoGSXjK55Wnrr3Qtefl7xUUBZB4rVS0TotlFwZ_ohk8-DmRhwqzD6943U4ITr6lEYM5OaXK-NN2SeHaSZmJH03JYnM-GezB_2zoGfAxxAFtoh-SDLk9WOAjnE5lWf7ziCslLByfoDlgKxp-8l9byL5dYeuVMhaP7Xoaw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/MN_xGmSWlhp4sCE2KPZy7NIHRU-vWIPpToausK5e0vsVdvpY0NaAwP-aoxsUxkL17kk0oS5nmAj4hRYW5cGRL9NnMcJZlTgILteuEfe612XtsTQdR5nqTYC87eDP4aL-UpYdjlW-DU5mi0cbAIUJPyW72OsP9ZEFvHcOqSgUfqQJf3vihegUMZYKw79E0RyGQzEhJfW5zcMHQaek-Q4pEmD3nR65US4jO8hREz4M3-Sw6pxfGDZfC6PbHwDF4IdvzYJuJCSOf3d3I1NyrmCCAk0dsydwsK1Oc_akZZ_Izg7A3JKIiBmsZl5qnX141NP66bbQWYWFdKbAANq47e2mBw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/vB8_4PshEtETIDLQXzJp2Ykrs8MCLMXVIBCA8eN9HFOVEoqSlxOENsZXUV5MEvr2fSefjQmd_Dt7GzEWFITpD2gYKkBT8Wt9pjqqCefWDKVb43k7VXydRe9K71eCzoW6QjS7gQ9CirLY0C1Y9P8googBG56Gqr3wKQB4QWCFgGbGFSVxPf7T39dBRBjdxsel0Kuo3vr6IwoeB8O1cbE8ZhLRfvYefb-Ist81gJJWJwqhWpykQJy9Jki_FrU51rALQ4plMeSamWQs9yvdNb3lStIP4NA6XbES8Kp5eFa7JCFpALudzBT98Jr_56blPmK7p1KTcLXPCuifPmAXyYS3IA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">اول تبلیغ میکردن که قراره سالی
 ۱۰۰ تا ۱۲۰ میلیارد دلار درآمد از تنگه هرمز داشته باشیم! ۳ برابر درآمد نفتی!
@@ -1306,7 +1306,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 
 <div class="tg-post" id="msg-5030">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nVdwftXytaNWQGWfBscNruxUnQHThCuyulw-ZbCKOosggGzE1VzycHyBnUViIIaoo1rje-m5U73ol02_Egdj8fo2bM7Ra2lUnl1BJxkUP9fozYxF7gsO8x-JWiVJoU65x4xXRikgA2u2JObNF622MjmLRFbIhtOiODgGaVaCFiO82tyBnNJ5hH2jbIHkoEGj3GWLrfy4QID07xO0R919mAGTlgMmiiyxmjgUVmtp0RIe9Uf0Su1Wgf-Mu3-fG-83Zv9s7X2GYorWgBM1dYAFAVbtum4LFI0yWmvfLCnlA7nJDj6yhs-nyPgv19U-NI43BH_civmgJhEzLWgSjGefWA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a0F_pvyFBXvApYL-MN78Sj7YjkrcrdspVXB5vPXjpqEYV4is2mFvuKNL174sos6QooKoSqRt_ufp2n2YOqpW18whU98-7AhNlMBEIA_UBW9zSPOp1D1OSSaOTTqpc1i2tD3bZrA9CDgfN71Y2QXc8nP0jzjwbfINxIiymteFpZnosPsWWQjREB-y5lTqcgbsWen0ejRSiLiupeAxZpvcOp-sUdTy-mCKT9s4eHldXbhS-OxrFalqIKZJeBQTg5ffeZkiXXFZTLKVwBskCRHMpLC3kmUbMLpzxZrK-lxZs75FeZxbqRw8MXbXa1OLsY6J6UteBnbLMp0b6QgER9kA6g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۲۰ سانتیمتر؟؟ شوخی میکنی؟  در پایان جنگ ۸ ساله  ۲۶۰۰ کیلومتر مربع از خاک ایران،  یعنی بخش‌هایی از: شلمچه، طلائیه، فکه، مهران، میمک، سومار، نفت‌شهر و خسروی و دشت‌ ذهاب، در دست ارتش عراق ماند و  شما «جام زهر» نوشیدید!  خود صدام حسین در سال ۱۹۹۰ به خاطر حمله…</div>
 <div class="tg-footer">👁️ 23.1K · <a href="https://t.me/farahmand_alipour/5030" target="_blank">📅 23:23 · 27 Ordibehesht 1405</a></div>
 </div>
@@ -1321,7 +1321,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 <div class="tg-post" id="msg-5028">
 <div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">۲۰ سانتیمتر؟؟ شوخی میکنی؟  در پایان جنگ ۸ ساله  ۲۶۰۰ کیلومتر مربع از خاک ایران،  یعنی بخش‌هایی از: شلمچه، طلائیه، فکه، مهران، میمک، سومار، نفت‌شهر و خسروی و دشت‌ ذهاب، در دست ارتش عراق ماند و  شما «جام زهر» نوشیدید!  خود صدام حسین در سال ۱۹۹۰ به خاطر حمله…</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/5028" target="_blank">📅 23:08 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/farahmand_alipour/5028" target="_blank">📅 23:08 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5027">
