@@ -291,28 +291,28 @@
 <p>@farahmand_alipour • 👥 61.3K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-04 03:23:07</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-04 06:08:37</div>
 <hr>
 
 <div class="tg-post" id="msg-5139">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">برخلاف خبرهایی که یکسره از احتمال توافق می‌گویند، فاصله خواست‌های دو‌ طرف هنوز آنچنان زیاد است که بشود گفت :
 توافق بعید است!</div>
-<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/farahmand_alipour/5139" target="_blank">📅 01:47 · 04 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.78K · <a href="https://t.me/farahmand_alipour/5139" target="_blank">📅 01:47 · 04 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5138">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">🚨
 اکسیوس : ترامپ روز شنبه در یک تماس کنفرانسی به رهبران کشورهای عرب و مسلمان گفت که اگر توافقی برای پایان دادن به جنگ با ایران حاصل شود، او می‌خواهد کشورهای آنها به «توافق‌های ابراهیم» بپیوندند و با اسرائیل توافق صلح امضا کنند.</div>
-<div class="tg-footer">👁️ 9.08K · <a href="https://t.me/farahmand_alipour/5138" target="_blank">📅 00:35 · 04 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farahmand_alipour/5138" target="_blank">📅 00:35 · 04 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5137">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">🚨
 اکسیوس : ترامپ روز شنبه در یک تماس کنفرانسی به رهبران کشورهای عرب و مسلمان گفت که اگر توافقی برای پایان دادن به جنگ با ایران حاصل شود، او می‌خواهد کشورهای آنها به «توافق‌های ابراهیم» بپیوندند و با اسرائیل توافق صلح امضا کنند.</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farahmand_alipour/5137" target="_blank">📅 22:25 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/farahmand_alipour/5137" target="_blank">📅 22:25 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5136">
@@ -325,7 +325,7 @@
 جرم او را ارائه مختصات صنایع تولیدی به شبکه‌های ماهواره‌ای اعلام کرده‌اند؛ انگار که اسرائیل که اتاق خواب رهبران رژیم را می‌داند به اطلاعات دیگران نیاز ندارد...
 خبرگزاری سپاه نوشته است: «وی در پیام‌هایی به شبکه وابسته به دشمن، اطلاعات محل شرکت مرتبط با صنایع دفاعی را ارسال و با قید نام نخست‌وزیر رژیم صهیونیستی در پیام ارسالی به عوامل این شبکه تأکید می‌کند که موضوع را «به بی‌بی آمار بده»!
 T.me/irdamavand</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/5136" target="_blank">📅 15:52 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/5136" target="_blank">📅 15:52 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5135">
@@ -338,7 +338,7 @@ T.me/irdamavand</div>
 به گفته دو منبع آگاه، ایران از طریق میانجی‌ها به‌صورت شفاهی به آمریکا درباره میزان امتیازاتی که حاضر است در زمینه تعلیق غنی‌سازی و واگذاری مواد هسته‌ای بدهد، تعهداتی ارائه کرده است.
 - ببینیم چی میشه. بعید می‌دونم جمهوری اسلامی اورانیوم غنی سازی شدهاش رو تحویل بده،
 خبر هم میگه ج‌ا به یک میانجی (پاکستان / قطر) شفاهی گفته!</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/farahmand_alipour/5135" target="_blank">📅 07:35 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/farahmand_alipour/5135" target="_blank">📅 07:35 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5134">
@@ -358,7 +358,7 @@ T.me/irdamavand</div>
 به‌طور جداگانه، من همچنین با نخست‌وزیر اسرائیل،بی‌بی نتانیاهو، تماس داشتم که آن هم به همان اندازه بسیار خوب پیش رفت.
 در حال حاضر، جنبه‌ها و جزئیات نهایی این توافق در حال بررسی و گفت‌وگو است و به‌زودی اعلام خواهد شد.
 علاوه بر بسیاری از بندهای دیگر توافق، تنگه هرمز نیز باز خواهد شد.»</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/farahmand_alipour/5134" target="_blank">📅 00:31 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/farahmand_alipour/5134" target="_blank">📅 00:31 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5133">
@@ -368,7 +368,7 @@ T.me/irdamavand</div>
 گاو : نماد فراوانی و ثروت سرزمین ایران و منطقه.
 تن زنانه و نیمه عریان: نماد پاکی، نماد لطافت و ظرافت ، در نقطه تقابل با خشونت و توحش و درندگی
 بقیه هم‌ که معرف حضورتونه، آشنای دیرینه.</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/farahmand_alipour/5133" target="_blank">📅 22:09 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/farahmand_alipour/5133" target="_blank">📅 22:09 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5132">
@@ -383,7 +383,7 @@ T.me/irdamavand</div>
 آکسیوس : ترامپ ساعت هشت شب امشب ،  در یک تماس کنفرانسی  با رهبران عرب شرکت خواهد کرد تا درباره پیش‌نویس توافق با ایران گفت‌وگو کند و نظر آن‌ها را بشنود.
 🔺
 نظر شخصی :  توافقی در کار نیست!</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/farahmand_alipour/5131" target="_blank">📅 20:55 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/farahmand_alipour/5131" target="_blank">📅 20:55 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5130">
@@ -395,7 +395,7 @@ T.me/irdamavand</div>
 با رهبران عرب شرکت خواهد کرد تا درباره پیش‌نویس توافق با ایران گفت‌وگو کند و نظر آن‌ها را بشنود.
 🔺
 نظر شخصی :  توافقی در کار نیست!</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/farahmand_alipour/5130" target="_blank">📅 20:13 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/farahmand_alipour/5130" target="_blank">📅 20:13 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5127">
@@ -430,14 +430,14 @@ T.me/irdamavand</div>
 و تفاوت میان شمال مدیترانه
 و جنوب مدیترانه شکل گرفت.
 و دو سرنوشت متفاوت، دو چهره متفاوت گرفت.</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/5126" target="_blank">📅 18:48 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/5126" target="_blank">📅 18:48 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5125">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aHbJTiOt-XO3MhoK3cIFdpp0upe1Wd7RCcrSK5IPs38z2MCPGeM9fx_YJYI9TxDj443h5rJC24By5kZ10ZBDHUy-zUXfFEvAaQDRh7Vz5ZyEUGTd7znjxF3buv5of9FXustb4ZUkricJnVlBUPAvlbwJFJqx6FWvKX-H6D5ovRRMwv1DUFW_BPPTafF4rrMjt5BsYteytq_byMYIN1nxO9afLvqQIIakhrf1IWJYhurCvy8YJKf0VRh5ULK1yqNsEoqseGEdkbk19J4ZzyWRihQKTYmyV4jghsf3ILcBPnXYrtwB9t419fouPzUugghAx40jtjDVddav5YBe5ALoig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست جدید ترامپ که پرچم آمریکا را روی نقشه ایران به تصویر کشیده و تیتر زده «ایالات متحده خاورمیانه؟»</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/farahmand_alipour/5125" target="_blank">📅 18:16 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/5125" target="_blank">📅 18:16 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5124">
@@ -512,7 +512,7 @@ T.me/irdamavand</div>
 <div class="tg-text">🚨
 🚨
 براساس گزارش آکسیوس، ترامپ به‌طور جدی در حال بررسی آغاز حملات جدید علیه جمهوری اسلامی است؛ مگر اینکه در آخرین لحظات، گشایشی در مذاکرات حاصل شود.</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/farahmand_alipour/5117" target="_blank">📅 00:13 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/farahmand_alipour/5117" target="_blank">📅 00:13 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5116">
@@ -603,14 +603,14 @@ T.me/irdamavand</div>
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/U4lpur_H23fLEykRi8e9Ns5_2Kiv_TvPmoXhozq_KUMFcWg3kCVtbOZuw-R7lhC9oPHwnn_F-i47RDdtMAqcMCl5ythjQz5b1qA2xQTKvrXnPlM84IQ_RPSB8r9CNn0zeYUfGmrthxUrIUg44rnhpLkzWHQuiH8n2NQWvIVKf_O5zQbjufvm3OCW3Qa2fFoa4JFuQL71C8hXsfk9ndmMduRWKqs0IiJpSUFketZKo0FgmylSmxGxX0Qo2zTb9x5JWFMe0FshbSlWnR5DYEZ9q1jL-l-QpHIotLF4vAChpCVONIQLNEVJcm8nhcA8GzkKn9TCQfT3940RNsq4jg43PQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جلال آل احمد، در سال ۱۳۴۱ کتابی منتشر کرد به نام «غرب زدگی» که تاثیرات بسیار زیادی روی نسلی از ایرانیان گذاشت!  جلال آل احمد با اینکه خود مقید دین و مذهب نبود،  اما فقط به علت دشمنی با غرب  در این کتاب می‌نویسه :« مسجد و محراب و حوزه، از آخرین سنگرهای استقلال…</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/farahmand_alipour/5109" target="_blank">📅 18:39 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/farahmand_alipour/5109" target="_blank">📅 18:39 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5108">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mF80k_pOgKR2vxxVV6kuUvp83RIq7-ZaM0hWj4vu-OYlUgARw43HBlILWB-71wH9_6lHsTSpResxQYS8GwB0JzgmOoOkv1Drz6C7P9UtS6Nlm7uZ0r5mTJb7YOeyhqT5yvstdG3cXxhBMIHd0rZ79b_tMxID00BiqU_mykGh03rOXfqhE_RGDyQCW5kLljFoja4fJFCoOJg70yxOaPhJdZ0kqusxvTTqu19BsGAKYKpvQsTVyoUncCw8HbuHNntdWd_JvETfha_1EpiWfb5J1m7kmYOQ-r0nOGFlrtEEmY_-RFg_AyLd5D48Qm22wfadcj73DTYKh9xT8QVuqQ1deQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این سوال زیاد پیش میاد که چرا مثلا چپ‌ها،  یا به اصطلاح روشنفکران و…..  تا این اندازه در آغوش آخوند هستند و مدافع آخوند!  «ضدیت با غرب»! غرب‌ستیزی! اسرائیل‌ ستیزی، باعث میشه که اینها به آخوند وصل بشن.  اینها ایران رو سنگری میخوان برای مبارزه با غرب و با اسرائیل…</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/farahmand_alipour/5108" target="_blank">📅 18:26 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/5108" target="_blank">📅 18:26 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5107">
@@ -623,7 +623,7 @@ T.me/irdamavand</div>
 «ضدیت با غرب»! غرب‌ستیزی! اسرائیل‌ ستیزی، باعث میشه که اینها به آخوند وصل بشن.
 اینها ایران رو سنگری میخوان
 برای مبارزه با غرب و با اسرائیل و با آمریکا.</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/farahmand_alipour/5107" target="_blank">📅 18:20 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/farahmand_alipour/5107" target="_blank">📅 18:20 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5106">
@@ -669,7 +669,7 @@ T.me/irdamavand</div>
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g9Fy8ig8Afn3_HUvJBUNYCCZl5cV1bCqJpaMr1NJD-b19ufDds6WTjaQ0HbcWtfbZQb3fnXsL2P5wc6B_8SIt_BkPcYThXJkE-9OVQyg1TESJfrM4w53gjKdP4WbMb0NU_2LPt0FVaqPwxFuDcw5uO6BsDUjZSBDf9SwQJKXS3RvQ1mW-UcCMSGfCYeVCpHPNdiRTy8WWG9wr26sAEkiuHmFJInxz2zXKG0jgHPoDfs25xo4EhbqSTY35-CZVs51R-pNrlIhyJQ6DGEKRNIewgIZ0dA-WnG6liBDHZ7deW5HENJOfNhkuJcfUAGJkWPW3V8br11CzjRm0XZ9SmDXNg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">«دست خدا عیان شد» و این صوبتا</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/5103" target="_blank">📅 17:05 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/5103" target="_blank">📅 17:05 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5102">
@@ -1231,7 +1231,7 @@ https://x.com/farahmandalipur/status/2056814391148834909?s=46
 <div class="tg-text">🚨
 🚨
 خبرگزاری فارس پاسخ آمریکا به شروط جمهوری اسلامی رو داده، ۵ شرطی که قاطعانه حکایت از انسداد مجدد کامل مسیر دیپلماسی داره !   ‏۱. عدم پرداخت هرگونه غرامت از سوی آمریکا ‏۲️. تحویل ۴۰۰ کیلوگرم اورانیوم به آمریکا ‏۳️. فعال‌ماندن تنها یک تاسیسات هسته‌ای ‏۴️.…</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/farahmand_alipour/5041" target="_blank">📅 13:44 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/farahmand_alipour/5041" target="_blank">📅 13:44 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5040">

@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/KEGO5LWANDPYQUOi_-8ug8HyaWPJ-eYC8gfws_qazlY3fjHtBknozaK76yE_hSA68ZAnKpGZVgexJJ221xfPz8IVTLYYRPViW4kXKBodWdWfhynpIBdOOrzAN50efEcvdV0pHxcIRZa79vef0IA2m_p85Bry0grx9XEy9WmsgRHkbPtbA0agBHgYk_lmHedP3IaLcyf2wiPsZOf-a-NCVsFO_a8cr9Y0UK3eQKkbgj1VDQEqB11cERIpdldllDsydZBAuf3sZ4xTSZdZVKjvP2cE5fWnz_9tePSx4J5HeztSqB3vsxGcScmp6nDmC1YV7eFJURBMPAZRQs2cpDbiDg.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو محسن طاوسی</h1>
-<p>@mohsentavoosiseo • 👥 7.37K عضو</p>
+<p>@mohsentavoosiseo • 👥 7.38K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-04 03:23:07</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-04 06:08:37</div>
 <hr>
 
 <div class="tg-post" id="msg-686">
@@ -303,7 +303,7 @@
 اما اینو میدونم نباید همدیگر رو سرزنش کنیم...
 به امید روزهای خوب.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/mohsentavoosiseo/686" target="_blank">📅 16:25 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/mohsentavoosiseo/686" target="_blank">📅 16:25 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-685">

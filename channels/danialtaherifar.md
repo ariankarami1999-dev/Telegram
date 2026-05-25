@@ -292,14 +292,14 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-04 03:23:07</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-04 06:08:37</div>
 <hr>
 
 <div class="tg-post" id="msg-930">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">کاملا حس عقب ماندگی تو حوزه AI بهم دست میده وقتی که مطالب جدید رو میخونم و تغییرات سریع رو میبینم!
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 208 · <a href="https://t.me/danialtaherifar/930" target="_blank">📅 12:47 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 211 · <a href="https://t.me/danialtaherifar/930" target="_blank">📅 12:47 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-929">
@@ -307,13 +307,13 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BQhRo1FjIMTH3AQoMnVbL5a9_N5EGLJg4hfYqL9WuJAFmWClMJjiPW2hivvtCntRaZTGii_LzChXjK3A4Nlh9SGAPg33CMoAv14OnVYFI3GlTH0q__SXvlIeYY55wxzCvHBtrg9YX0zBrNsT8SDIT8qOfc908cLRjgZ_ZYglSuWrIp4OLI0qeHTl6eHLvd2K9rd8bhXDFJjy4AESNCrU_MtXssjak4hOlyk3NquoJgjaLLN48exI2YyLsc8W4euo5ty-WzSP_fj7sgkszXgGVY36xHaGquighwR7bfMZ0srbtJvxVYbRQaOxHN_3Z53YFjXT1RjLDrsFVWj6EBM8qw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 آپدیت هسته مارچ 2026 شروع شد.   بختت ایرانی...  @danialtaherifar</div>
-<div class="tg-footer">👁️ 285 · <a href="https://t.me/danialtaherifar/929" target="_blank">📅 13:24 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 287 · <a href="https://t.me/danialtaherifar/929" target="_blank">📅 13:24 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-928">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده   @danialtaherifar</div>
-<div class="tg-footer">👁️ 668 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 670 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-927">
@@ -321,7 +321,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HlVZolV67YQ-ifkeAuW71soksEXpSEMaSIUpmcmXrCsNDvCrct0H9nS8hxhrtO4OtCmGSG7LtdQUtcKNVBN8JEBZolCB8Bo5MXzDm73WX-Xk4ksRvqte5edppYhMMEcChiCOI4Ollds_xjXgT4fQxxA6YodbQTBMCPwPmRSAffOixYbpyyCCQ58tqRhksiGHqL09FHy_0LijLozdtZJO-ipdx-jo-kR3KxLzWSFA8LA3wFJZyQYUcXdy0R8y0HRVgAX483yt1QF_NAG_vTDmoI5NjKMfRscNvp8rtwNQh_mskuuwoXumYeLxPM6SR8gUdpsgMfAzczlLnzjw1WFXaw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 631 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 632 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-926">
@@ -344,7 +344,7 @@
 
 <div class="tg-post" id="msg-924">
 <div class="tg-post-header">📌 پیام #94</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZxQGSuqocmyfyxBYfiEUjq-qpQXmMxM_R2YILOwy2gQZOE9AOY5rqIKP5-IqTI2s1th1yAel_BpwlVYiQptWJpJmEWTkmKnw7jC884XITIYst75tTQLcdwxKWJ7l2X-OVL_--LpUz-GsIIJ7GYEDsxt0Fu9oY3DtqBLt9Zk9aCopEI9T7uTOwgk61zoJ3d_H_ujzpXEpVvVECl61R8yZCoE4fJFYzxTJ3O3bivTwj6tS4dnNSH7zruyJsRwFetXfQa415scCo-SF2TQpxfEbdqa6e-QFbAkvZJwU8m0CSJA9Z7xZ3xpWNTReT3ziXh27k2US0OoIbLmyi5UmiT9hyA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BHGv1ouSSqf1vA36iVGen6Smb5-xp1l-6DhtDDx81TE_-b3dwtpDpFbeVR1XP5KpxODE8IDC7AVLSGuEkXzDE_-R-LL781hpoWX9h74q3QpgfT0nozlxss9Mr5AQnU90GMkV3KDyBWXW_7sAy1VRchhGODrYTp5QFEdLNCtIaNB3vhs4HfZzto50-ZcKAdKjQ5ZTF3unkuB5aq7CiwfIrtIfVfHpnTFYcWFNpmIaEgxqTk9PUt7S7wv5n-SKNF16oRgtbUbZKj3kEJ3NBWqh9M5RVl8OUsfGClimf-WHyN1MHspgH2Y0M9PtRx20VCS98m2oXbcP1B-OzGapfQBSMw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبدیل ضربان قلب کسب‌وکارهای اینترنتی به یک «خط صاف» صفر...
 💔
 ما کسانی هستیم که زندگی‌مان، تخصص‌مان و آرزوهایمان به این «ریسمان نازک» وصل بود.
@@ -478,7 +478,7 @@
 
 <div class="tg-post" id="msg-910">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Dhb3Ih4jJ7z1his98HOQdo8fetjcfidGz572pZjYgKwpfv8NZRXE6g9xhSS3uR-T3YPQZAzPTwTpd6hBW6k13j_LrFibhmQWqD55hmva8T1NYH5q0CzDX_Iu9dy7iKXNzbplK6r8OMswDTCkOyuWVULUZoMBlWcSFq_zslqejKTwr9m8Sezky7y7lOWZ_P5CPQOUPy8UXNKM-Hfv0Xh_0xta7sfMZ1Fbc6cBUrUnaXv6ri_wXM4VfLwgKoiMnKznoQ-3aZOTBti4fFpUg0WfvPBT-AwtMBBDL_EF5McebZ91TGBcoCUb9-bygtunM9e7tL9vrvoJqXcxJl1qqQQUfg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HgXZZ6IID2pTSxK9-4MupARv7ad-HR0V9l26sAbeyA8GShSdq77Mhccjs8tmjthdDvh7vDAgTRK_dT5KKmHTpfzcHIeVlh0WR9YtrYMdydebwW8CwYfhR8D46VgmdDnnUXBJzr3SZp8JvAmot_arVDnfAgQ5oWyw5nnpbDVsBj7Uj2YpVfg5lD4vOkI6E_Xo4Zvd7f7Kd0qVPIIHCTR116AOTg_V6z6Lv9mi5yKf8pBDgQqHyFJi6Im6lHRUwepqS3GaGqYHV8OLgkO-zDDOoNu_lco9Bf2JI0Os1gj0s-ip0HlmmCMRAw_MKsBSLjSY2V5E1elovgwFzWKRN81C6A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مقایسه سرچ کنسول سایت های میزبانی شده در ایران و خارج از ایران:  نکته جالبی که تو این تغییرات به چشمم اومد این بود که سایت هایی که رتبه‌های عالی داشتن بیشتر آسیب دیدن و سایت های رده سوم در سرور ایران هم موقتا رشد گرفتن و بالا اومدن، که البته با توجه به قطعی…</div>
 <div class="tg-footer">👁️ 849 · <a href="https://t.me/danialtaherifar/910" target="_blank">📅 00:38 · 07 Bahman 1404</a></div>
 </div>
