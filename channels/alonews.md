@@ -292,7 +292,7 @@
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌پشتیبانی کانال🕵️https://t.me/AloNews?directادمین کانال🎩@AloNewsBotجهت رزرو تبلیغات👇https://t.me/ads_alonewshttps://t.me/ads_alonews</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-06 02:32:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-06 05:01:38</div>
 <hr>
 
 <div class="tg-post" id="msg-122958">
@@ -309,7 +309,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/alonews/122958" target="_blank">📅 02:20 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/alonews/122958" target="_blank">📅 02:20 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122957">
@@ -319,7 +319,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/alonews/122957" target="_blank">📅 02:02 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/alonews/122957" target="_blank">📅 02:02 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122956">
@@ -328,7 +328,7 @@
 رسایی: بازکردن اینترنت اشتباست و خیانت به رهبر شهیدمونه.
 ✅
 @AloNews خبر جنگ</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/alonews/122956" target="_blank">📅 01:41 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/alonews/122956" target="_blank">📅 01:41 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122955">
@@ -339,7 +339,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/alonews/122955" target="_blank">📅 01:36 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/alonews/122955" target="_blank">📅 01:36 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122954">
@@ -351,7 +351,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/alonews/122954" target="_blank">📅 01:35 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31K · <a href="https://t.me/alonews/122954" target="_blank">📅 01:35 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122953">
@@ -362,7 +362,7 @@
 😐
 🤣
 @AloSport</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/alonews/122953" target="_blank">📅 01:31 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/alonews/122953" target="_blank">📅 01:31 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122952">
@@ -372,7 +372,7 @@
 و کسایی که دیگه هیچوقت آنلاین نشدن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/alonews/122952" target="_blank">📅 01:21 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/alonews/122952" target="_blank">📅 01:21 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122951">
@@ -383,7 +383,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/alonews/122951" target="_blank">📅 01:16 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36K · <a href="https://t.me/alonews/122951" target="_blank">📅 01:16 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122950">
@@ -400,7 +400,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/alonews/122950" target="_blank">📅 01:15 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/alonews/122950" target="_blank">📅 01:15 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122949">
@@ -412,7 +412,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/alonews/122949" target="_blank">📅 01:13 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/alonews/122949" target="_blank">📅 01:13 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122948">
@@ -425,7 +425,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/alonews/122948" target="_blank">📅 01:10 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/alonews/122948" target="_blank">📅 01:10 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122947">
@@ -439,7 +439,7 @@
 پایگاه مقداد مقیم خارج نتونست جلوی خودش را نگه داره
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/alonews/122947" target="_blank">📅 01:10 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/alonews/122947" target="_blank">📅 01:10 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122946">
@@ -449,7 +449,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/alonews/122946" target="_blank">📅 00:49 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/alonews/122946" target="_blank">📅 00:49 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122945">
@@ -461,7 +461,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/alonews/122945" target="_blank">📅 00:41 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/alonews/122945" target="_blank">📅 00:41 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122944">
@@ -472,13 +472,13 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/alonews/122944" target="_blank">📅 00:35 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/alonews/122944" target="_blank">📅 00:35 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122943">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">کاش ما هم مثل اینترنت به وضعیت قبل دی ماه برمیگشتیم.  [@AloTweet]</div>
-<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/alonews/122943" target="_blank">📅 00:30 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/alonews/122943" target="_blank">📅 00:30 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122942">
@@ -496,7 +496,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/alonews/122942" target="_blank">📅 00:27 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 38.2K · <a href="https://t.me/alonews/122942" target="_blank">📅 00:27 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122941">
@@ -506,7 +506,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/alonews/122941" target="_blank">📅 00:25 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.1K · <a href="https://t.me/alonews/122941" target="_blank">📅 00:25 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122940">
@@ -521,7 +521,7 @@
 ویدیو یه نکته‌ داره ببینیم میتونید پیدا کنید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/alonews/122940" target="_blank">📅 00:23 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36.4K · <a href="https://t.me/alonews/122940" target="_blank">📅 00:23 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122939">
@@ -532,7 +532,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/alonews/122939" target="_blank">📅 00:21 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/alonews/122939" target="_blank">📅 00:21 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122938">
@@ -543,7 +543,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/alonews/122938" target="_blank">📅 00:14 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/alonews/122938" target="_blank">📅 00:14 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122937">
@@ -554,7 +554,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/alonews/122937" target="_blank">📅 00:11 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/alonews/122937" target="_blank">📅 00:11 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122936">
@@ -565,7 +565,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/alonews/122936" target="_blank">📅 00:09 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/alonews/122936" target="_blank">📅 00:09 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122935">
@@ -574,7 +574,7 @@
 حالا مردم خودشون آنلاین شدن و دارن می‌بینن این حرام زاده های «سیم‌کارت سفید» تو این سه ماه چه مزخرفات و چرندیاتی رو به اسم مردم ایران جعل کردن و نشر دادن تو رسانه ها.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/alonews/122935" target="_blank">📅 00:08 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/alonews/122935" target="_blank">📅 00:08 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122934">
@@ -593,7 +593,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/alonews/122934" target="_blank">📅 00:08 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/alonews/122934" target="_blank">📅 00:08 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122933">
@@ -603,7 +603,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/alonews/122933" target="_blank">📅 00:04 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/alonews/122933" target="_blank">📅 00:04 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122930">
@@ -620,7 +620,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/alonews/122930" target="_blank">📅 00:03 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/alonews/122930" target="_blank">📅 00:03 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122929">
@@ -631,7 +631,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/alonews/122929" target="_blank">📅 00:03 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/alonews/122929" target="_blank">📅 00:03 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122928">
@@ -642,7 +642,7 @@
 [
 @AloTweet
 ]</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/alonews/122928" target="_blank">📅 00:02 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/alonews/122928" target="_blank">📅 00:02 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122926">
@@ -656,7 +656,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/alonews/122926" target="_blank">📅 00:02 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/alonews/122926" target="_blank">📅 00:02 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122925">
@@ -676,7 +676,7 @@
 صدای یک ملت خاموش نمی‌شود. راهی که با امید و ایستادگی آغاز شده، با آزادی و پیروزی به پایان خواهد رسید.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/alonews/122925" target="_blank">📅 00:01 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/alonews/122925" target="_blank">📅 00:01 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122924">
@@ -688,7 +688,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/alonews/122924" target="_blank">📅 23:54 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/alonews/122924" target="_blank">📅 23:54 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122923">
@@ -699,7 +699,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/alonews/122923" target="_blank">📅 23:49 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/alonews/122923" target="_blank">📅 23:49 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122922">
@@ -709,7 +709,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/alonews/122922" target="_blank">📅 23:40 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/alonews/122922" target="_blank">📅 23:40 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122921">
@@ -721,7 +721,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 37K · <a href="https://t.me/alonews/122921" target="_blank">📅 23:32 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/alonews/122921" target="_blank">📅 23:32 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122920">
@@ -732,7 +732,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 37K · <a href="https://t.me/alonews/122920" target="_blank">📅 23:27 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39K · <a href="https://t.me/alonews/122920" target="_blank">📅 23:27 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122919">
@@ -742,7 +742,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 36K · <a href="https://t.me/alonews/122919" target="_blank">📅 23:23 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/alonews/122919" target="_blank">📅 23:23 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122918">
@@ -752,7 +752,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 37K · <a href="https://t.me/alonews/122918" target="_blank">📅 23:16 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 38.8K · <a href="https://t.me/alonews/122918" target="_blank">📅 23:16 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122917">
@@ -765,7 +765,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/alonews/122917" target="_blank">📅 23:09 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/alonews/122917" target="_blank">📅 23:09 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122916">
@@ -775,7 +775,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 38K · <a href="https://t.me/alonews/122916" target="_blank">📅 22:59 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/alonews/122916" target="_blank">📅 22:59 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122915">
@@ -785,7 +785,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/alonews/122915" target="_blank">📅 22:49 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/alonews/122915" target="_blank">📅 22:49 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122914">
@@ -804,7 +804,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/alonews/122914" target="_blank">📅 22:38 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/alonews/122914" target="_blank">📅 22:38 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122913">
@@ -840,7 +840,7 @@
 @Vaarzesh_Plus
 ⚡
 @Vaarzesh_Plus</div>
-<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/alonews/122913" target="_blank">📅 22:33 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/alonews/122913" target="_blank">📅 22:33 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122912">
@@ -848,7 +848,7 @@
 <div class="tg-text">سایت
 پورن هاب
 به دلیل هجوم کاربران دقایقی قبل از دسترس خارج شد  [@AloTweet]</div>
-<div class="tg-footer">👁️ 37K · <a href="https://t.me/alonews/122912" target="_blank">📅 22:31 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/alonews/122912" target="_blank">📅 22:31 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122911">
@@ -857,7 +857,7 @@
 نتانیاهو، و ترامپ در حال حاضر در تماس تلفنی هستند، طبق گزارش کانال ۱۲ اسرائیل
 ✅
 @AloNews خبر جنگ</div>
-<div class="tg-footer">👁️ 38K · <a href="https://t.me/alonews/122911" target="_blank">📅 22:31 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/alonews/122911" target="_blank">📅 22:31 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122910">
@@ -867,7 +867,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/alonews/122910" target="_blank">📅 22:30 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/alonews/122910" target="_blank">📅 22:30 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122909">
@@ -879,7 +879,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/alonews/122909" target="_blank">📅 22:27 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/alonews/122909" target="_blank">📅 22:27 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122908">
@@ -889,7 +889,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 36K · <a href="https://t.me/alonews/122908" target="_blank">📅 22:24 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/alonews/122908" target="_blank">📅 22:24 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122907">
@@ -902,7 +902,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/alonews/122907" target="_blank">📅 22:20 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40K · <a href="https://t.me/alonews/122907" target="_blank">📅 22:20 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122906">
@@ -912,7 +912,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 38K · <a href="https://t.me/alonews/122906" target="_blank">📅 22:16 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/alonews/122906" target="_blank">📅 22:16 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122905">
@@ -922,7 +922,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/alonews/122905" target="_blank">📅 22:12 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40K · <a href="https://t.me/alonews/122905" target="_blank">📅 22:12 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122904">
@@ -932,7 +932,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/alonews/122904" target="_blank">📅 22:09 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/alonews/122904" target="_blank">📅 22:09 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122903">
@@ -942,7 +942,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/alonews/122903" target="_blank">📅 22:01 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40.7K · <a href="https://t.me/alonews/122903" target="_blank">📅 22:01 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122902">
@@ -959,7 +959,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/alonews/122902" target="_blank">📅 21:59 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/alonews/122902" target="_blank">📅 21:59 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122901">
@@ -969,7 +969,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/alonews/122901" target="_blank">📅 21:56 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/alonews/122901" target="_blank">📅 21:56 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122900">
@@ -979,7 +979,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/alonews/122900" target="_blank">📅 21:51 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.1K · <a href="https://t.me/alonews/122900" target="_blank">📅 21:51 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122896">
@@ -1002,7 +1002,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/alonews/122896" target="_blank">📅 21:45 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/alonews/122896" target="_blank">📅 21:45 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122895">
@@ -1013,7 +1013,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 34K · <a href="https://t.me/alonews/122895" target="_blank">📅 21:40 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35K · <a href="https://t.me/alonews/122895" target="_blank">📅 21:40 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122894">
@@ -1031,7 +1031,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/alonews/122894" target="_blank">📅 21:37 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35K · <a href="https://t.me/alonews/122894" target="_blank">📅 21:37 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122893">
@@ -1041,7 +1041,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/alonews/122893" target="_blank">📅 21:34 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/alonews/122893" target="_blank">📅 21:34 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122892">
@@ -1053,7 +1053,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/alonews/122892" target="_blank">📅 21:33 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/alonews/122892" target="_blank">📅 21:33 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122891">
@@ -1063,7 +1063,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/alonews/122891" target="_blank">📅 21:27 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/alonews/122891" target="_blank">📅 21:27 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122890">
@@ -1074,7 +1074,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/alonews/122890" target="_blank">📅 21:24 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/alonews/122890" target="_blank">📅 21:24 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122889">
@@ -1085,7 +1085,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 33K · <a href="https://t.me/alonews/122889" target="_blank">📅 21:21 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/alonews/122889" target="_blank">📅 21:21 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122888">
@@ -1097,7 +1097,7 @@
 [
 @AloTweet
 ]</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/alonews/122888" target="_blank">📅 21:19 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.5K · <a href="https://t.me/alonews/122888" target="_blank">📅 21:19 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122887">
@@ -1109,7 +1109,7 @@
 حتی به عارف که گفته بود به‌خاطر یه راننده نباید اتوبان رو بست تیکه انداخت و گفت اتوبان قبلش باید ساماندهی بشه
 ✅
 @AloNews خبر جنگ</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/alonews/122887" target="_blank">📅 21:15 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/alonews/122887" target="_blank">📅 21:15 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122886">
@@ -1119,7 +1119,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/alonews/122886" target="_blank">📅 21:10 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/alonews/122886" target="_blank">📅 21:10 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122885">
@@ -1131,7 +1131,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/alonews/122885" target="_blank">📅 21:03 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/alonews/122885" target="_blank">📅 21:03 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122884">
@@ -1181,7 +1181,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/alonews/122884" target="_blank">📅 20:55 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/alonews/122884" target="_blank">📅 20:55 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122883">
@@ -1193,7 +1193,7 @@
 [
 @AloTweet
 ]</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/alonews/122883" target="_blank">📅 20:52 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/alonews/122883" target="_blank">📅 20:52 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122882">
@@ -1203,7 +1203,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/alonews/122882" target="_blank">📅 20:47 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/alonews/122882" target="_blank">📅 20:47 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122880">
@@ -1217,7 +1217,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/alonews/122880" target="_blank">📅 20:45 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/alonews/122880" target="_blank">📅 20:45 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122879">
@@ -1227,7 +1227,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/alonews/122879" target="_blank">📅 20:42 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/alonews/122879" target="_blank">📅 20:42 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122878">
@@ -1237,13 +1237,13 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/alonews/122878" target="_blank">📅 20:39 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/alonews/122878" target="_blank">📅 20:39 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122877">
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">خوش آمد میگم به رفقایی که تازه وصل شدن</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/alonews/122877" target="_blank">📅 20:37 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/alonews/122877" target="_blank">📅 20:37 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122876">
@@ -1252,7 +1252,7 @@
 گویا اینترنت ایرانسل هم درست شد
 ✅
 @AloNews خبر جنگ</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/alonews/122876" target="_blank">📅 20:30 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/alonews/122876" target="_blank">📅 20:30 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122875">
@@ -1262,7 +1262,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/alonews/122875" target="_blank">📅 20:28 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/alonews/122875" target="_blank">📅 20:28 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122874">
@@ -1276,7 +1276,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/alonews/122874" target="_blank">📅 20:27 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/alonews/122874" target="_blank">📅 20:27 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122873">
@@ -1286,7 +1286,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/alonews/122873" target="_blank">📅 20:25 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/alonews/122873" target="_blank">📅 20:25 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122872">
@@ -1299,7 +1299,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/alonews/122872" target="_blank">📅 20:23 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/alonews/122872" target="_blank">📅 20:23 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122871">
@@ -1316,7 +1316,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/alonews/122871" target="_blank">📅 20:22 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/alonews/122871" target="_blank">📅 20:22 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122870">
@@ -1330,7 +1330,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/alonews/122870" target="_blank">📅 20:19 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/alonews/122870" target="_blank">📅 20:19 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122869">
@@ -1341,7 +1341,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/alonews/122869" target="_blank">📅 20:03 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/alonews/122869" target="_blank">📅 20:03 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122868">
@@ -1354,7 +1354,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/alonews/122868" target="_blank">📅 20:02 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/alonews/122868" target="_blank">📅 20:02 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122867">
@@ -1364,7 +1364,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/alonews/122867" target="_blank">📅 19:52 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/alonews/122867" target="_blank">📅 19:52 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122866">
@@ -1378,7 +1378,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/alonews/122866" target="_blank">📅 19:51 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/alonews/122866" target="_blank">📅 19:51 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122865">
@@ -1390,7 +1390,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/alonews/122865" target="_blank">📅 19:46 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/alonews/122865" target="_blank">📅 19:46 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122864">
@@ -1411,7 +1411,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/alonews/122864" target="_blank">📅 19:33 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/alonews/122864" target="_blank">📅 19:33 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122863">
@@ -1421,7 +1421,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 27K · <a href="https://t.me/alonews/122863" target="_blank">📅 19:26 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/alonews/122863" target="_blank">📅 19:26 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122861">
@@ -1435,7 +1435,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/alonews/122861" target="_blank">📅 19:26 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/alonews/122861" target="_blank">📅 19:26 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122860">
@@ -1445,7 +1445,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/alonews/122860" target="_blank">📅 19:25 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/alonews/122860" target="_blank">📅 19:25 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122859">
@@ -1462,7 +1462,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/alonews/122859" target="_blank">📅 19:22 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/alonews/122859" target="_blank">📅 19:22 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122858">
@@ -1472,7 +1472,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/alonews/122858" target="_blank">📅 19:19 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/alonews/122858" target="_blank">📅 19:19 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122857">
@@ -1482,7 +1482,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/alonews/122857" target="_blank">📅 19:14 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/alonews/122857" target="_blank">📅 19:14 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122856">
@@ -1492,7 +1492,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/alonews/122856" target="_blank">📅 19:14 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/alonews/122856" target="_blank">📅 19:14 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122855">
@@ -1502,7 +1502,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/alonews/122855" target="_blank">📅 19:08 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/alonews/122855" target="_blank">📅 19:08 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122854">
@@ -1512,7 +1512,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/alonews/122854" target="_blank">📅 19:05 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/alonews/122854" target="_blank">📅 19:05 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122853">
@@ -1522,7 +1522,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/alonews/122853" target="_blank">📅 18:54 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30K · <a href="https://t.me/alonews/122853" target="_blank">📅 18:54 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122852">
@@ -1532,7 +1532,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/alonews/122852" target="_blank">📅 18:52 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/alonews/122852" target="_blank">📅 18:52 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-122851">
@@ -1544,7 +1544,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/alonews/122851" target="_blank">📅 18:51 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/alonews/122851" target="_blank">📅 18:51 · 05 Khordad 1405</a></div>
 </div>
 
 <hr>
