@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-07 23:51:25</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-08 01:45:09</div>
 <hr>
 
 <div class="tg-post" id="msg-688">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">ابزار های سئو خارجی رو به صورت اشتراکی از کجا تهیه کنیم؟ از سایت لیمیت پس! Limitpass.com ایرانی چطور؟ ابزار جت  سئو و کیورد چی و چند ابزار خوب دیگه...  http://limitpass.com/ https://www.jetseo.ir/ https://keywordchi.com/    کد تخفیف سه سایت بالا:  mohsentavoosi…</div>
-<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/mohsentavoosiseo/688" target="_blank">📅 13:18 · 04 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/mohsentavoosiseo/688" target="_blank">📅 13:18 · 04 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-686">
@@ -309,7 +309,7 @@
 اما اینو میدونم نباید همدیگر رو سرزنش کنیم...
 به امید روزهای خوب.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.24K · <a href="https://t.me/mohsentavoosiseo/686" target="_blank">📅 16:25 · 27 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.25K · <a href="https://t.me/mohsentavoosiseo/686" target="_blank">📅 16:25 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-685">
@@ -328,7 +328,7 @@
 اصلا انگار بشره. توقعمو خیلی برده بالا. خیلی هم ریز بین و دقیقه. خیلی هم عمیق میفهمه.
 آنتروپیک پس فردا مثل Horizon Zero Down و Forbidden West، ربات هاش زندگی انسان رو می گیرند و باید پناه ببریم به پناهگاه ها و ربات های Anthropic بشن موجودات اصلی زمین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/mohsentavoosiseo/684" target="_blank">📅 17:48 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.87K · <a href="https://t.me/mohsentavoosiseo/684" target="_blank">📅 17:48 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683">
@@ -371,7 +371,7 @@ https://t.me/mohsentavoosiseo/633
 https://t.me/mohsentavoosiseo/634
 https://t.me/mohsentavoosiseo/639
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-679">
@@ -380,7 +380,7 @@ https://t.me/mohsentavoosiseo/639
 <div class="tg-text">واقعا خوشم نمیاد از این خسیس بازی بیش از حد کلاد. دوتا لینک کرد و خوند، یه دونه گوگل شیت دویست ردیفته و ده ستونه ساخت کلاد مکس(5x pro) شد 22 درصد!
 البته با Sonnet کمتر مصرف میکرد قطعا. ولی حوصله خنگ بازیش رو نداشتم چون کار گوگل شیتش پیچیده بود. آدم هم مغزش از جا درمیومد با این تسک.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.32K · <a href="https://t.me/mohsentavoosiseo/679" target="_blank">📅 14:32 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.33K · <a href="https://t.me/mohsentavoosiseo/679" target="_blank">📅 14:32 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-678">
@@ -429,7 +429,7 @@ https://t.me/mohsentavoosiseo/639
 ولی بهرحال اونم کاربرد خودش رو داره. من خود اکانت چت جی پی تی پلاس دارم اختصاصی رو اکانت خودم.
 اکانت Cluade Max هم دارم که 5 برابر Claude Pro هست محدودیت هاش. ولی همه اعضای تیم ازش استفاده می کنیم.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.45K · <a href="https://t.me/mohsentavoosiseo/675" target="_blank">📅 15:51 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.46K · <a href="https://t.me/mohsentavoosiseo/675" target="_blank">📅 15:51 · 16 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-674">
@@ -640,7 +640,7 @@ X.AI
 جواب ندادن تیکت(بعد از فعال سازی) و... هم چیزی که بچه های پارس پک باید بررسی کنند که چرا چنین اتفاقی افتاده و چی بوده ماجرا.
 من فیدبک رو میذارم اینجا. امیدوارم چه با روش من چه با روش خودتون، سایتتون رو در دسترس کنید و دیگه از وضعیت "در حالت انتظار" خارج بشید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/mohsentavoosiseo/646" target="_blank">📅 15:25 · 05 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.66K · <a href="https://t.me/mohsentavoosiseo/646" target="_blank">📅 15:25 · 05 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-644">
@@ -737,7 +737,7 @@ mohsentavoosi.com</div>
 امیدوارم هیچ وقت به چنین چیزی دیگه نیاز پیدا نکنیم.
 آرزو میکنم به محض اینکه اینکارو کردید پشیمون شید بخاطر وصل شدن ابدی اینترنت بین الملل. آرزو میکنم زحمتتون هدر بره! می ارزه!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.83K · <a href="https://t.me/mohsentavoosiseo/631" target="_blank">📅 14:21 · 24 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 3.84K · <a href="https://t.me/mohsentavoosiseo/631" target="_blank">📅 14:21 · 24 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-630">
@@ -745,7 +745,7 @@ mohsentavoosi.com</div>
 <div class="tg-text">فاز امید الکی دادن ندارم. صحبت من فنی هست. انتخاب های متعددی پیش رو داریم. ولی من همیشه دست و پا زدن و یه کاری کردن رو ترجیح میدم به هیچ کاری نکردن. هیچ کاری نکردن و تماشاچی بودن و منتظر بودن من رو از پا میندازه. ته چاه باشم ترجیح میدم دیوار چاه رو بکنم تا بشینم منتظر باشم بالا رو نگاه کنم.
 دست و پا برای بقا همیشه مثل فیلم Pianist  نیست. یکیشم مثل وضعیت الان ماست.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.19K · <a href="https://t.me/mohsentavoosiseo/630" target="_blank">📅 11:36 · 22 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/mohsentavoosiseo/630" target="_blank">📅 11:36 · 22 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-629">
@@ -759,14 +759,14 @@ mohsentavoosi.com</div>
 ✅
 برای کسانی که خارج از ایران هستند:
 دوباره باز تولید محتوای داخلی، استراتژی و عناوین محتوای داخلی و آف پیج! به کلی ابزار هم که راحت دسترسی دارید! بهتر نیست از رقبایی که فقط درگیر خوندن اخبار هستند جلو بیفتید؟</div>
-<div class="tg-footer">👁️ 3.28K · <a href="https://t.me/mohsentavoosiseo/629" target="_blank">📅 11:36 · 22 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 3.29K · <a href="https://t.me/mohsentavoosiseo/629" target="_blank">📅 11:36 · 22 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-628">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">برای پارس پک origin rule هست روی سرویس CDN. و GEO DNS نیست! به گفته خودشون دقت origin rule بسیار بالاتره و ارزون تر هم هست کلا:
 https://parspack.com/cdn</div>
-<div class="tg-footer">👁️ 3.41K · <a href="https://t.me/mohsentavoosiseo/628" target="_blank">📅 18:18 · 21 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 3.42K · <a href="https://t.me/mohsentavoosiseo/628" target="_blank">📅 18:18 · 21 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-627">
@@ -779,7 +779,7 @@ https://parspack.com/cdn</div>
 بقیش همون سئویی هست که بلدید ولی یک کم سنتی تر. مثلا اگزکت مچ بک لینک با عین کیورد مهم تر هست برای بینگ. و بینگ هنوز به متاکیوردز کار داره.
 آموزش سئو بینگ و چت جی پی تی ChatGPT
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.72K · <a href="https://t.me/mohsentavoosiseo/627" target="_blank">📅 17:15 · 21 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 3.73K · <a href="https://t.me/mohsentavoosiseo/627" target="_blank">📅 17:15 · 21 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-626">
@@ -855,7 +855,7 @@ https://parspack.com/cdn
 <div class="tg-post" id="msg-619">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">بیشتر از آمادگی بابت قطعی های مقطعی اینترنت ایران و دسترسی از خارج،  در فکر آمادگی برای تغییر قوانینی هستم که در سود و زیان وب سایت ها موثره و بازی رو عوض میکنه. آیا خدمات و محصولات شما بعد از تغییرات بزرگ همچنان تقاضا یا سود داره‌؟  بر خلاف تصور عموم، به…</div>
-<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/mohsentavoosiseo/619" target="_blank">📅 17:27 · 18 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/mohsentavoosiseo/619" target="_blank">📅 17:27 · 18 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-616">
@@ -1048,7 +1048,7 @@ https://www.linkedin.com/posts/mohsentavoosi_aebaeoaew-activity-7409525124615348
 😶
 آدم خوب نایس گوگولی اصلاح گر بچه مبصر رابین هود نجات دهنده، چرا سرخورده خواهد شد؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/mohsentavoosiseo/596" target="_blank">📅 19:15 · 02 Dey 1404</a></div>
+<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/mohsentavoosiseo/596" target="_blank">📅 19:15 · 02 Dey 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-595">
@@ -1091,7 +1091,7 @@ https://www.linkedin.com/posts/mohsentavoosi_aebaeoaew-activity-7409525124615348
 
 <div class="tg-post" id="msg-591">
 <div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HP_5oAhcwTrbt_Wl9MS2xtyLPPsb26lom2FqbsuVjASzwmuU2E8o4JYrAkkpB86L1SIHMuh9zKx2QSoZzpo-NnOi1mPb3uj50D_Uf3ay2asddSoHzSOdsB9i_4DoUHbDc2qqID-lX3USG8tzYLkvfdW84zBCLm7AAeeCQ5essq7pMZdU_Ht4XrBTqqFYRtvabWmNxjEolAUL62oc0L5svHpXyw6Z7sbATXrAoIr80upTvL5bnwrO36JgPXuv1R2e44foIa_w7NgC661KUnwcr7ulp1I8K6ngE4DU_42kTV6phhyXhmOdVYwb9goxuSQ3TdmbQejVEYJ02iSiM-Up5Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RXcz8FWJ42S1f9QQEZwpOCNMpAiJYx3zNgFJK6eGUk7cFw3WAhdit4dOEQUikf6iD1nljcf4xtAw1DXtWuP_WajLss3goVm3DFPvCUhOLMUOvhFwe_XerUWBGGxVPBA-DclxTedmXHh1fwAot88HCCCw8kWz_XFZfy_12wEEGNUgcMCxpOsuGU1ZZniR90WpEFk_Xse4R3l20wLsyyq5WR6Ofz_R8haJippL6kNjsuLrugG93Jfu7AykDBoC4UWWAqoMZSlEM5NfCGgn5OcPxzjwjIdXd5M6ewdTwp9sHXLZu7Yo0DFdydjfGstHY4LDssb2XZKtek6MNVHYEtTL5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">https://eseminar.tv/webinar/%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B3%D8%A6%D9%88%D9%84%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%DB%8C-%DB%B4
 در این رویداد حضوری، قراره من و جمعی از دوستان در پنل درباره بحث قیمت و بازدهی رپورتاژ ها در سئو از نظر فنی و تجاری صحبت کنیم.
 من برگزار کننده نیستم و صرفا یکی از اعضای پنل هستم.</div>
@@ -1116,7 +1116,7 @@ Disavow & Ahrefs
 
 <div class="tg-post" id="msg-587">
 <div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Sn9nrnY9LV2MknGKFaA76GXT6p6bh5OXSRrlAawGcNHRhjxQLPkW97rl90ALxrRe2sUEsSMNofy7SgIqha7R7oqeAolD2hHL81bUcmDr3YKMSKNjLyYyHBaFwLVL_zyH9cxZ6_nZXoRx1S1PtXSeVmsho9_W0TJYxmEQV-CfyMxmX7nGXdwBNH8UmR4qZODs3jL3k7tpusgWDlxMQva4TevD5xaibIZaBm_tuCM1cwwcfyTztj5pOnI7emh8ssdw6LXBB_95E9rG98IFAdh4PWVYfLL1kEgtLlj5Ujb50YcNdzd2SLvU3Rr1c_hTg0KQiWwgy1JxXBPq1L66zMiuBA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HRLhJgiSVJkpg4p5zI3k21cJ35diLT3WIcGrfbDN9cy-Hl4yjd5MxiHiDvUHyh-cy4wwxzA7CB1qVgSR2Z8HDvYckK3DYoIQ31gZWElud7cWzbRsj-UfLq9F_5_bXbXKiO-kldnrnYZUqCoVuQPjDdTWVzHPGLfe2x7lG-JDtj9y7rTdDHXePrvhw6-g01DfJpJYSorYGDRqqml62ApvZDlqBC91JbvOJ1v4OAmJB1YpsOWVERbcPVijJIBbx_tdfEx9YJlIUiPZySJXFqb4DKyJUEqJouDsFv_LieHehHHmiaA9es2VaTOZt96S8MHhWEt9931jwWqg30RTBxzONg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تا ۷۸٪ تخفیف خرید رپورتاژ (انواع بک لینک)
 تا ۳۵٪ تخفیف سفارش محتوا
 از ۹ تا ۲۲ آذر
@@ -1145,7 +1145,7 @@ Disavow & Ahrefs
 
 <div class="tg-post" id="msg-582">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BaRNihqGyPJBQhAT8HIA8XF4FcWjjqNzNSZmrEwrBIChijGc7B9ix3aCT8dRQmccH5nId1zcCuhnWQmi0bMSM_BUqBrqonXdLg-zTkrIV5o9oYKdDIOGzKxBSnhsbaaqYpkRGkNLazlzk7jnqa8V9Uv6G6gDXBGJCooFi3ai9pa-9wZrR3K2JkRvRbOz_cUOqV60RbDb3FzY7ZGpr2CjwlSRQoIsD6oeyBBR_ByjmI-4tLYS7i7Lequ9XvRgrZ21qTljDqi_xtKnKO3f5DHrhIpFLtG80O4Nv-3Yqz4Kp4J0o1Hk7BVacDEgGeRaFxotaA5qMsaFy_ypZNCD5V3p5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/k4y44tAY5RerWm4cFwczBEiDWwDgZciD4iMB7pQWD3_6NT51GqSYY6gC6revFQLxlIMDhAGiEUCRquFvBNipGYcv-PSMJnaWInnjhqQvnyF21k3Zco9NZncdvVz3kvZm0dPQAxfaYWcrnoEGp-3ya69oXZnjBH_g1Z_HUPS9TVFGOmcwx7Kaoj1UknJVLmshSClFQtdXY9uB9enENJQd_bfWg7_QXQgQEO0xHTTooJA9HJ7XZybfayJxIm3jbtoeWsT-mQti-4YmMtnTpT9nQjmjuggkFwEeTP7u1xb18c_MFdW-FLI_hMX36rclX266MyaxpYSWD8sTzRmMdhkPVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دوباره خرید اشتراک Ahrefs ممکن شد. بخش Link Explorer و Content Explorer در دسترس هست.  با محدودیت تحلیل روزانه ۵ دامنه.  کد تخفیف: mohsentavoosi  لینک خرید: https://limitpass.com/clients/cart.php  بسته Titan یا Ahrefs Standard هر دو Ahrefs دارن.  @mohsentavoosiseo</div>
 <div class="tg-footer">👁️ 6.43K · <a href="https://t.me/mohsentavoosiseo/582" target="_blank">📅 17:27 · 08 Azar 1404</a></div>
 </div>
@@ -1198,7 +1198,7 @@ Data driven SEO
 
 <div class="tg-post" id="msg-577">
 <div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T7_BLM-jlvPahDrewgW3it_RjE7yy75BxkPsVTxfw_MtIjuWPcIIKrTbn63B4RgOBAP-PCKHCitR8y1I2EIqv4yDsOgkNZGMVNYX2WHqdNoWwRIyNuDkSUhZfXdzSYUpDY2RCtZ1BLzGbrzAr-KRTk-EoLjqrqzNXo6lyMhmBQYqKthY8Nfsb1G4EzNUe1CNrR57rZXskv1zTa8a_p2gPo3FFZuKICQPWYQZhBHnieqxQyfmSmlFiWSxPX2cssxYBjsCEt3smWxBb1_4FeGMmbsm1RqH02UPXMiZh10tJHQrIFkllWKuT2VAB1MMd73vCFj2xa2kNGNv_G7cQaP2Ww.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WjxWm7saUd5hpEwwq1SVqn1hTFIVbIiApl_0277JM6afiapGcaJyAfTbB7nmh5z4tI3rLWX8LvDH6FQroQ4XI6ZB8SLPRlMKyfONBfyzD6z1kpe3PCT05mT792LC4odVdrQD-cxC8zpRmK03s10sk7niEZ95kzLYTIT4a58_FQf7B-MTxH-1__xE4NtGAoL8pqp-BstigqgiXvPM9DPjCsjexdoyXadLlweQtR0gZjX1N1gsxk7LiKv3q2CSBrLujNcw1lk1shWHiqdgwnNcIz_YAYlULAjFVvR7DghgdHM8gQzghk6AX-SSVoAy_rkUsVC5HifJi3GIrxNudhjFSw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نکته هایی که از نظر من مهمه. اما پراکندست و تک موضوع نیست. قسمت اول.
 توضیحات زیر ویدیو، فهرست زمانی داره.
 https://www.youtube.com/watch?v=P9NGXdQF1Ks
@@ -1286,10 +1286,10 @@ https://youtu.be/P9NGXdQF1Ks
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a79e28f998.mp4?token=NywguxoZT0Olb9R9Z4L3YpKAfSkjjZ6WQASwLzKMDSaPXwQP81UOSDKiWEF_wf-jG-YRWU-1kHjBvbIWm6gp_6-iO57MM-27a28F4vzfrEIvcNC2kJ0pBsoXp_Ag0LQRukC6ljRe5xvHr5fgeTtr1qrQPSaEzT0pS1j_JBlqBIylBAe_uiCIMqW6rEBSbHc64qU-6tWt9a1l2qSrASokKZ3Qe0FbzSysP2zfJyWDXlFNe1CWrcxZroeZFVl6TAFB-NAxOhA1hV28m4Zr5P5cB6cd1Q3s3NF8t-9XSikBZVZ8j0S0ekFflN5dp7WMREypVmACNn1RXoXuunDCIbzR0IdlRP_QFJ-jMcxUBKCgdL0Bqv-u8XFnw6QXeWsGxOJm9DpNZQZdBMdHtmHjrI5c07D939ezv2XVKtWa55UE_Ot_hBa_7zSxCdlnmk8ccX2_nOR5mFM9oRcYNy0FWH2hqzCf-Vl3RRblBa0_g5wv1wfUbV6MnhZuq0sgFyjuL_116h_o_eRmRP21iIvKhZgLlhc2ff547cOvv-qyLloykZQHdmM4pMhhCEo2gx0-cdmuzZyzsmPZkf4ei_GvH63FzhgkLtaDFVAXnh24w5havEf4-IIHKWuEqcBgc8oNhBtNIg2JWFnQuA5H2G1MpW1UCbAWx4fe1l6Ajzolq9DV7q4" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a79e28f998.mp4?token=K4LYjx3RF3VZYB50_LjFE_QI5A6WgeSyXZoo-VTh7uWOl1XdetLX90ohD9vW6as8VXXFAffzfizCJ6ITMSAiQXR2XcqWwI4B44x1PnQKoYPZ3J-IunZv8YSZKM-BxhpOLZ8Kz4XaD8aG9-O-43uYpL6AWgnL5IuSMqbWbayeOhKpiS7KvKAHebhBxOVzTX7oH4cBVe6waPPSohqBvB13vK_qIvZxdDlVym2ZoNx9jieLvtE1dwiKtXZbo9oUe6YfrzvQzg-ykyblPSgzgl78fV0K-3tzRAJTcspY9LOSs-6QMB8h22zg39GMq_jN4xu1ygnuOskTr-0X-2yH3khrYCZUXlIDtXOcYC0E4l2-oBTbv24jB22iHeo5iXUjflXzdnXJn7niHMg-e7809GjmRRBE4bhqcApMO4EeEwac3yUeRsz6iaH8C7PBYTbqGGlprDc_MiDhmo2wRBuYdP8YyIzYOWDUlR21Z_MowFkFgGtTpgs_ipuPxsfxDOgah-HzsZXZrB5Q-cAiKGtch8XobEfcoR0Z5Hn6jQpSY9eC7_Bu7li-Vuz_9X4ROex6Xa5_EhRetpQFmVcLGQ205AN6yYb8n_QmayF--Jf0PRWftcU_X0yoJ8RpHHJOuPdxnJjahjeD81XBSk0ku5RSOnxCG_gYe4f9CyEyF9mAu53QyF0" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a79e28f998.mp4?token=NywguxoZT0Olb9R9Z4L3YpKAfSkjjZ6WQASwLzKMDSaPXwQP81UOSDKiWEF_wf-jG-YRWU-1kHjBvbIWm6gp_6-iO57MM-27a28F4vzfrEIvcNC2kJ0pBsoXp_Ag0LQRukC6ljRe5xvHr5fgeTtr1qrQPSaEzT0pS1j_JBlqBIylBAe_uiCIMqW6rEBSbHc64qU-6tWt9a1l2qSrASokKZ3Qe0FbzSysP2zfJyWDXlFNe1CWrcxZroeZFVl6TAFB-NAxOhA1hV28m4Zr5P5cB6cd1Q3s3NF8t-9XSikBZVZ8j0S0ekFflN5dp7WMREypVmACNn1RXoXuunDCIbzR0IdlRP_QFJ-jMcxUBKCgdL0Bqv-u8XFnw6QXeWsGxOJm9DpNZQZdBMdHtmHjrI5c07D939ezv2XVKtWa55UE_Ot_hBa_7zSxCdlnmk8ccX2_nOR5mFM9oRcYNy0FWH2hqzCf-Vl3RRblBa0_g5wv1wfUbV6MnhZuq0sgFyjuL_116h_o_eRmRP21iIvKhZgLlhc2ff547cOvv-qyLloykZQHdmM4pMhhCEo2gx0-cdmuzZyzsmPZkf4ei_GvH63FzhgkLtaDFVAXnh24w5havEf4-IIHKWuEqcBgc8oNhBtNIg2JWFnQuA5H2G1MpW1UCbAWx4fe1l6Ajzolq9DV7q4" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a79e28f998.mp4?token=K4LYjx3RF3VZYB50_LjFE_QI5A6WgeSyXZoo-VTh7uWOl1XdetLX90ohD9vW6as8VXXFAffzfizCJ6ITMSAiQXR2XcqWwI4B44x1PnQKoYPZ3J-IunZv8YSZKM-BxhpOLZ8Kz4XaD8aG9-O-43uYpL6AWgnL5IuSMqbWbayeOhKpiS7KvKAHebhBxOVzTX7oH4cBVe6waPPSohqBvB13vK_qIvZxdDlVym2ZoNx9jieLvtE1dwiKtXZbo9oUe6YfrzvQzg-ykyblPSgzgl78fV0K-3tzRAJTcspY9LOSs-6QMB8h22zg39GMq_jN4xu1ygnuOskTr-0X-2yH3khrYCZUXlIDtXOcYC0E4l2-oBTbv24jB22iHeo5iXUjflXzdnXJn7niHMg-e7809GjmRRBE4bhqcApMO4EeEwac3yUeRsz6iaH8C7PBYTbqGGlprDc_MiDhmo2wRBuYdP8YyIzYOWDUlR21Z_MowFkFgGtTpgs_ipuPxsfxDOgah-HzsZXZrB5Q-cAiKGtch8XobEfcoR0Z5Hn6jQpSY9eC7_Bu7li-Vuz_9X4ROex6Xa5_EhRetpQFmVcLGQ205AN6yYb8n_QmayF--Jf0PRWftcU_X0yoJ8RpHHJOuPdxnJjahjeD81XBSk0ku5RSOnxCG_gYe4f9CyEyF9mAu53QyF0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🟢
 انتخاب عنوان رپورتاژ
@@ -1334,7 +1334,7 @@ https://youtu.be/P9NGXdQF1Ks
 
 <div class="tg-post" id="msg-561">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iq50kVb40Tl1QiKQSlE8duvra8_S-DCGGeKCAgnKyNzRlmbXyUp3GOlQlTPzMFoAql1c7YM60LAinoOH2JxFCcObwS0UoyskjYnP_BqA5ciYM83YoRR6a9jL1w8TJZRc45Ketc6GtN4kaEZbwz3UvbN95dCHqXob7Y1VrexfJettgb1o_erLxS8RZ-wWnZvvLEQU3pWoKaG551topDON-5pKW6A0M-zofhpTyGPJQw9qPt6o7zNvG8S64qjs470605xz5hOR-K2Z8gr6T0wLPHZxnaWIfbgn2OdgcWg2_C2SHb8zVG9Jl8ZuKm0WknVAk1OJIotGNtYvONXpNmtKXQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/j4UwH7fqvibWKCoCOzBvZ-g7JRpV2dgKNC7qIP5ESgppmEZEzI06LTDsk0-dV4otxIMuyvEeOUijgQCftbGH5EDw-q2gpJpVmJAVMKx82a-RzEry8XEvYVOp9_RMAGmorqadNc6B_cE57Mc-IKNaCxn4X48bnWAD1ktT6FFRXz8903fS3zixyEb1q1Djwt7QJL2Mge8ptRxeirw_9vipqLOYZAQR63A2jKJtGEG53qMet7tFdvdFu1B62DyattguHTBBxglUJ7h4lAj0WBevGi-NpRHjAGsYEd2HrOeNbiBc8WC2nKO1FSEicJ3_6vHvx-n_LGwo0PEIV_hgYbE6Sw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">روش تخمین بازدید و کلیک سایت در آینده
 لینک آموزش:
 https://youtu.be/G1wyAeQxAnM
@@ -1351,7 +1351,7 @@ https://youtu.be/G1wyAeQxAnM
 
 <div class="tg-post" id="msg-557">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Vyq10OBCp6GYuzwzAsQs770Yejdc9RHW9Thx74aa0jsj_pq960ri4r73Qg7SAXL_tTSSMANW5Y-XtyicKDoGbrVhF4-KIqDh6E6rPELatku-OC0WAsSHR4aX607MN36alprBWEqUbilhuB9h6Vihb_-ZDPR43VGoWvQkbUjBo7CkDWmARIQnL_RoAUTxTEXm7kUZL8vVUALBtxR8IdCMRVnab5j74tsIytEMzcHF67nDQ92QIJks6Shnybg_eqf-c_yQ17zEk-l-3acwH5nFpvLlozTpRF-kXeYAtw_B9TI-TnhPnh3L3DtGFo1RZ_txoR0yHkgfPhlqZCwRRkZRMA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hmSb_bWIl-jbSpiaw67MY4ra5YleJeaItOxEfj3d-gpsXnN3PoVXQWpHFVfpg5ew1ZnNavmRq_EicnkHZkE2uhH4xQ6NgZfCGcd-csASLETJElVLHqGtDE-lr54Gfz32KDpZImAWqb0Ik-wtNWaRh14mOa7yQVavh4ZxWN_BazVPnZFJjUJZam6YUWREUfd3oxiFmvFXrGKzR1oHApvQa1xy0i5ANCJ1spLG2bc-CvgZ0WAmXnqqsOrzDTJo-uW02XwC1KGFFCXtGt7GkKowy0AdnWsCWveh_XqCEs93NbUIN9mtzr9Me6Upa85VcIB6jXWFS0vX9Dorv1ba6YLNEg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ریدایرکت گروهی در SEO
 لینک آموزش:
 https://youtu.be/QVNgzWYGTks
@@ -1361,7 +1361,7 @@ https://youtu.be/QVNgzWYGTks
 
 <div class="tg-post" id="msg-555">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QeVRj5FcxyyQAdNNm6EToEQuDkpIeXsDnSlwiK5lyiMdbuzfTgAw6eL9MUkrsGnviKZfJz89FI_UPhumQs4DtUWgVWglx08J-HIyciAorh2IP41QaQibn7OdvuUYLep5_vZqsPEx6aKoRH6goioqMCzjJ1t4hfXPlp103jMghDiRTvQPorU7z9EscFCmOpf4WSXoi2CQT2eE-wUuCYB_vYEfu6WyqBaQzJHLMu_yBGZAJu8YPf4dto--iDvDmDUiqS7vPveeoIM1tlpUSCcg_xi4myoJQngGwTi1UTN-WF0w7CvUjHsEbCyj0UGIELcLu7pkdvsWjsjymgJVJAcjtg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hKkHQQE_SwPY5XiCMwDrPhbw-HrFoYxWCkcbd1lfaxdbwbTa7wGn7DJDuiYmTtIM_yAgrUXmmREYqDMexXVwcugabCkcRpoAIy0HcyQDwOKSp8kseBkIGaKiwTJvJaTU9FBi8rGAkw1X_-YaOi6gQwVxjySvLEcI6ppP_O8VUTNiy9cZfqo6h_FFmEH8OuloHce5XehpGcVFSZ2Se15F_mAXgU1Js9hXRJ2-xtlkMAI1uXk-13bC8gtZu33zEiXmQOvyIzyZ_QJLtaJIrUGiTIl6lwxg5KW9FCqr2NqpARBMqY3mmIWWybmEbFR7gaQ_IQeC1_yJKCFNIpc0yxaaYw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایراد گوگل سرچ کنسول در نمایش تعداد Click و Imperssion
 لینک آموزش:
 https://mohsentavoosi.com/video/search-console-click-count-bug/
