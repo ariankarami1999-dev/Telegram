@@ -292,25 +292,25 @@
 <a href="https://t.me/funhiphop" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 «قدیمی ترین اجتماع فانِ هیپ هاپی»🟡صاحب سبک🟡Tb :@FunHipHopAdsContact :@Chaman_Dar_KhakFollowing Copyright Laws©</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-08 03:17:43</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-08 05:59:39</div>
 <hr>
 
 <div class="tg-post" id="msg-76218">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">خبرگزاری مهر: هنوز مطمئن نیستیما ولی فکر می‌کنیم یه پهپاد MQ9 دیگه از آمریکا رو امشب نابود کردیم.  @FunHipHop | Nima</div>
-<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/funhiphop/76218" target="_blank">📅 02:36 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.07K · <a href="https://t.me/funhiphop/76218" target="_blank">📅 02:36 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76216">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">دکی واقن دکتره؟</div>
-<div class="tg-footer">👁️ 7.02K · <a href="https://t.me/funhiphop/76216" target="_blank">📅 01:49 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.67K · <a href="https://t.me/funhiphop/76216" target="_blank">📅 01:49 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76215">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">اینم گذاشت چنلش گفت بگم اینایی که باهاشون عکس گرفتی شغلشون چیه؟  @FunHipHop | Menot</div>
-<div class="tg-footer">👁️ 7.88K · <a href="https://t.me/funhiphop/76215" target="_blank">📅 01:41 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.43K · <a href="https://t.me/funhiphop/76215" target="_blank">📅 01:41 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76214">
@@ -318,13 +318,13 @@
 <div class="tg-text">۹۰ روز از تـرور سید علی خامنه ای توسط اسرائیل و آمریکا گذشت
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 9.83K · <a href="https://t.me/funhiphop/76214" target="_blank">📅 00:57 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/funhiphop/76214" target="_blank">📅 00:57 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76212">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">امشب وحید جان خبر از چند انفجار مهیب و لانچ موشک تو جنوب کشور مخصوصا بندرعباس داد و تسنیم هم الان گفته به سمت ناوهای آمریکا و کشتی‌های تجاری‌ای می‌خواستن از تنگه رد شن چندتا موشک و پهپاد شلیک کردیم که خب چیز خاصی نیست خاورمیانه‌ست دیگه.  @FunHipHop | Nima</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/76212" target="_blank">📅 23:53 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/76212" target="_blank">📅 23:53 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76211">
@@ -340,7 +340,7 @@
 هنوز مطمئن نیستیما ولی فکر می‌کنیم یه پهپاد MQ9 دیگه از آمریکا رو امشب نابود کردیم.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/76211" target="_blank">📅 23:53 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/76211" target="_blank">📅 23:53 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76210">
@@ -349,7 +349,7 @@
 👌🏾
 🤌🏽
 …</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/funhiphop/76210" target="_blank">📅 23:46 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/funhiphop/76210" target="_blank">📅 23:46 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76209">
@@ -373,7 +373,7 @@
 👉🏽
 📡
 @VPNir404</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/funhiphop/76209" target="_blank">📅 23:43 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/76209" target="_blank">📅 23:43 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76207">
@@ -381,7 +381,7 @@
 <div class="tg-text">امشب وحید جان خبر از چند انفجار مهیب و لانچ موشک تو جنوب کشور مخصوصا بندرعباس داد و تسنیم هم الان گفته به سمت ناوهای آمریکا و کشتی‌های تجاری‌ای می‌خواستن از تنگه رد شن چندتا موشک و پهپاد شلیک کردیم که خب چیز خاصی نیست خاورمیانه‌ست دیگه.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/funhiphop/76207" target="_blank">📅 23:37 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/76207" target="_blank">📅 23:37 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76206">
@@ -390,7 +390,7 @@
 <div class="tg-text">نه داداش بخدا من خوشحالم از این که اینترنت برگشته و مردم میتونن وصل شن
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/funhiphop/76206" target="_blank">📅 23:25 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/funhiphop/76206" target="_blank">📅 23:25 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76205">
@@ -399,7 +399,7 @@
 بیاید موزیکاتونو ول بدید و ی پلی لیست خفن درست کنیم
 (فقط میشه موزیک فرستاد نمیشه پیام داد)
 @Hiphopiplaylist</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/funhiphop/76205" target="_blank">📅 23:02 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/funhiphop/76205" target="_blank">📅 23:02 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76204">
@@ -408,7 +408,7 @@
 حتی اگه جام جهانی رو از دست بدم خیالم راحته چون برزیل وینیسیوس رو داره
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/funhiphop/76204" target="_blank">📅 22:40 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/funhiphop/76204" target="_blank">📅 22:40 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76203">
@@ -418,7 +418,7 @@
 یا واقعا با این شوخی کصشر خندتون میگیره
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/76203" target="_blank">📅 22:30 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/funhiphop/76203" target="_blank">📅 22:30 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76202">
@@ -426,7 +426,7 @@
 <div class="tg-text">نیمار تو تمرینات برزیل مصدوم شده و معلوم نیست به جام جهانی میرسه یا نه
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/funhiphop/76202" target="_blank">📅 22:24 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/76202" target="_blank">📅 22:24 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76201">
@@ -434,7 +434,7 @@
 <div class="tg-text">مجتبی جان ،بخدا نیاز نیست برای هر مناسبتی یه پی دی اف ده صفحه ای بدی بیرون، ما خودمون میدونیم در صحت وسلامت کاملی
 @FunHipHop
 | ALI</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/76201" target="_blank">📅 21:46 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/76201" target="_blank">📅 21:46 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76200">
@@ -444,7 +444,7 @@
 ناآرامی‌ها در منطقه تقصیر اسرائیل است.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/76200" target="_blank">📅 20:41 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/76200" target="_blank">📅 20:41 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76198">
@@ -454,7 +454,7 @@
 هیر وی گووووو
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/76198" target="_blank">📅 20:11 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/76198" target="_blank">📅 20:11 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76197">
@@ -462,14 +462,14 @@
 <div class="tg-text">من کاری به این که ویناک قبلا چیکار کرده ندارم، ولی تمام این فشارا بهش سر موزیکاییه که داره میده و اینه که سر پرونده هاش بهشون باج نداده و زده بیرون از ایران
 @FunHipHop
 | Menot</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/76197" target="_blank">📅 20:07 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/76197" target="_blank">📅 20:07 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76195">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l-fJz5UK49PUF-EnLP8b4NXknuNDm1W6FcdGCdkiy5agM-gbcuzH23CJnFfQIPGlFJibWAMID5QrjOZ3L7ycqgErC0yUVVC8FzVI6xw2t7Qxjavm5ZtDCs4PRKErDgnRnxX7ljbXnJU2WsbHou4ORjsQDKSBHI_zzQ_Y4A7KygL5IXA7LMs6q0AoUJw6U_jSuw86zYcbq4MlGMmr92YmEpG19ftsUhqXawJ8OS1UEgkfjeqpEdhZf-gG9rLCIFCDE3ZDt7YfRmxrjh0k1eaE2t5bQN2s3nmfLUDUzua0X_hT9_X_EKJdKXOtVaxOCodNrXhpX1-ZFyO1vTBzoPeODQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/76195" target="_blank">📅 20:05 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/76195" target="_blank">📅 20:05 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76194">
@@ -477,7 +477,7 @@
 <div class="tg-text">امین منیجر سر کیری که ویناک بهشون زده و از ایران فرار کرده فشاری شده و داره میگه تو ایران بودی خایمالی مارو میکردی الان رفتی بیرون بهمون دیس میدی.
 @FunHipHop
 | Menot</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/76194" target="_blank">📅 20:02 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/76194" target="_blank">📅 20:02 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76193">
@@ -485,13 +485,13 @@
 <div class="tg-text">دوستان من تازه آنلاین شدم، ترک هایی که سورنا و بهرام بخاطر اعتراضات و حمایت از شاهزاده دادن رو بفرستید گوش کنم.
 @FunHipHop
 | Constantine</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/76193" target="_blank">📅 20:00 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/funhiphop/76193" target="_blank">📅 20:00 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76192">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">یک دیپلمات ارشد اسرائیلی به شبکه ۱۴ اسرائیل: تا جایی که می‌دانیم، این توافق توسط رئیس‌جمهور ترامپ یا مجتبی خامنه‌ای تأیید نشده است. اگر توافقی وجود داشته باشد، در حال حاضر هنوز در سطوح پایین‌تر قرار دارد.  @FunHipHop | Nima</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/funhiphop/76192" target="_blank">📅 19:39 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/76192" target="_blank">📅 19:39 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76191">
@@ -501,26 +501,26 @@
 اگر توافقی وجود داشته باشد، در حال حاضر هنوز در سطوح پایین‌تر قرار دارد.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/76191" target="_blank">📅 19:33 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/76191" target="_blank">📅 19:33 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76190">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ek7TQK_FUOIlrzN2h-tOVZujV1nWGDisup4hAx2eOrZxHvQv1KbUm3MCjOiBh5XFVFAvGhEk6-zWAKSQfKWpI2R7nb8TP0Yop7hWERpa4qZPyt6iItCJ33S_gm2_72w71FhI1aPtrrBqlhEg0K5fkr9T-KSe3qdeFXJ_q5zsmPRUdsjVuQKusDNg6GjCUG1WkliSkjIwI8QIYSL0SzBe-OjweYqoXeRLr15X1OZjoJtCXTjMEOre7vyb3JDXsTYVhPanLBe4VPgM5eZF4OiEAy5-IK8V8X-SahHZtyUw_OlxzPIxcnlzt3N7ZgB0OosdMN6iLVuAg8W4eM17RcJjSw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فوری از آکسیوس: ایران و آمریکا در حال حاضر به توافق رسیدن و فقط تأیید نهایی ترامپ باقی مونده.  @FunHipHop | Taymaz</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/76190" target="_blank">📅 18:56 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/76190" target="_blank">📅 18:56 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76189">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">خبرگزاری i24NEWS اسرائیل: مجتبی خامنه‌ای، رهبر معظم ایران، یادداشت تفاهم با آمریکا را نپذیرفته است.  @FunHipHop | Nima</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/funhiphop/76189" target="_blank">📅 18:33 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/76189" target="_blank">📅 18:33 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76187">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">خبرگزاری i24NEWS اسرائیل: مجتبی خامنه‌ای، رهبر معظم ایران، یادداشت تفاهم با آمریکا را نپذیرفته است.  @FunHipHop | Nima</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/76187" target="_blank">📅 18:29 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/funhiphop/76187" target="_blank">📅 18:29 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76186">
@@ -529,13 +529,13 @@
 مجتبی خامنه‌ای، رهبر معظم ایران، یادداشت تفاهم با آمریکا را نپذیرفته است.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/76186" target="_blank">📅 18:26 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/76186" target="_blank">📅 18:26 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76185">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">وزیر خزانه‌داری آمریکا: ایالات متحده قصد دارد دسترسی خطوط هوایی ایران به حقوق فرود هواپیما، خدمات سوخت‌گیری و فروش بلیت را مسدود کند. سازمان مدیریت تنگه هرمز که توسط سپاه پاسداران تاسیس شده، مضحک و خنده‌دار است. دولت ایالات متحده هیچ تلاشی برای تحمیل سیستم…</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/76185" target="_blank">📅 18:17 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/76185" target="_blank">📅 18:17 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76184">
@@ -547,7 +547,7 @@
 روزهای ترساندن منطقه و جهان توسط تهران به پایان رسیده است.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/funhiphop/76184" target="_blank">📅 18:17 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/funhiphop/76184" target="_blank">📅 18:17 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76183">
@@ -555,7 +555,7 @@
 <div class="tg-text">آکسیوس: توافق در واقع همون سه‌شنبه به دست اومد؛ حالا فقط تأیید ترامپ باقی مونده تا همه‌چیز نهایی شه.
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/funhiphop/76183" target="_blank">📅 18:10 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/76183" target="_blank">📅 18:10 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76182">
@@ -563,31 +563,31 @@
 <div class="tg-text">واسم سواله سود این تفاهم نامه واسه ایران چیه دقیقا؟
 @FunHipHop
 | ALI</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/funhiphop/76182" target="_blank">📅 18:09 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/76182" target="_blank">📅 18:09 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76181">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">جدی جدی حزب‌الله و مثل آب خوردن فروختن</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/76181" target="_blank">📅 18:05 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/76181" target="_blank">📅 18:05 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76180">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">فوری از آکسیوس: ایران و آمریکا در حال حاضر به توافق رسیدن و فقط تأیید نهایی ترامپ باقی مونده.  @FunHipHop | Taymaz</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/76180" target="_blank">📅 18:03 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/funhiphop/76180" target="_blank">📅 18:03 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76179">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">فوری از آکسیوس: ایران و آمریکا در حال حاضر به توافق رسیدن و فقط تأیید نهایی ترامپ باقی مونده.  @FunHipHop | Taymaz</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/funhiphop/76179" target="_blank">📅 18:00 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/funhiphop/76179" target="_blank">📅 18:00 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76178">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">فوری از آکسیوس: ایران و آمریکا در حال حاضر به توافق رسیدن و فقط تأیید نهایی ترامپ باقی مونده.  @FunHipHop | Taymaz</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/funhiphop/76178" target="_blank">📅 17:54 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/funhiphop/76178" target="_blank">📅 17:54 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76177">
@@ -595,7 +595,7 @@
 <div class="tg-text">فوری از آکسیوس: ایران و آمریکا در حال حاضر به توافق رسیدن و فقط تأیید نهایی ترامپ باقی مونده.
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/funhiphop/76177" target="_blank">📅 17:47 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/76177" target="_blank">📅 17:47 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76176">
@@ -604,7 +604,7 @@
 ما باید ماموریتمان را در ایران را کامل کنیم و من هر روز در این خصوص با دونالد ترامپ صحبت می‌کنم.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/76176" target="_blank">📅 17:40 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/76176" target="_blank">📅 17:40 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76175">
@@ -613,7 +613,7 @@
 ترامپ با انتقال اورانیوم غنی‌شده ایران به مسکو موافقت نکرد
 @FunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/funhiphop/76175" target="_blank">📅 17:26 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/76175" target="_blank">📅 17:26 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76174">
@@ -622,7 +622,7 @@
 <div class="tg-text">و اما مسعود که بود و چیکار کرد.
 @Funhiphop
 | TemSah</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/funhiphop/76174" target="_blank">📅 17:17 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/76174" target="_blank">📅 17:17 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76173">
@@ -676,7 +676,7 @@ g7
 🅰
 ✈️
 https://t.me/+RvVnWMHCqUc4YzFk</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/76173" target="_blank">📅 17:17 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/76173" target="_blank">📅 17:17 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76172">
@@ -684,14 +684,14 @@ https://t.me/+RvVnWMHCqUc4YzFk</div>
 <div class="tg-text">گزارش های تایید نشده: فرمانده توپخانه حزب الله توسط ارتش دفاعی اسرائیل ترور شده.
 @funhiphop
 | reza</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/76172" target="_blank">📅 17:04 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/funhiphop/76172" target="_blank">📅 17:04 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76171">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AyDFdV8myp-VC1bPbiHZ_k8j5E83Nd6elP_f8LxbyjV7fSkVNKiJcfgB59vqCmngycSgoW3PlS1j3TZxs5bq6v8InxvsYO4JbeQzUwAAUnKzFeh9j1nZi8eqh_FGzcBahlAN5tiyQMBlX52jw16Pp85JGrJEqXB5uwkup-z34Zn4RHp110uJxOeatncAgQO5vaQJRfuS_Hzv2kdUppA1Kdz4K37n4umQ2J0pV1YrPua7HPHpZIOE5s42oeGq7qqjAynIt9Ah95VBV1x6uHuLkxYnM2cfE_fGsKyVhI52e3KGu7eWPmO0tsqpw-EkAd2S2Haq6M3BZX8Onxq7t0k1-A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همون همیشگی  @funhiphop | reza</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/76171" target="_blank">📅 17:02 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/funhiphop/76171" target="_blank">📅 17:02 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76168">
@@ -699,13 +699,13 @@ https://t.me/+RvVnWMHCqUc4YzFk</div>
 <div class="tg-text">الان وضعیت جوری شده نه دیتا سنترا کامل باز شده کانفیگ فروشا بتونن تانل بزنن ارزون بفروشن نه دیگه مردم کانفیگ گرون میخرن، همه به یه استوپی خوردن که معلوم نیست چخبره
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/funhiphop/76168" target="_blank">📅 15:24 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/76168" target="_blank">📅 15:24 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76167">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">من الان دقت کردم موزیک یه رپر نو نیم به نام مارسلو تو چنل ارشیو بیشتر از ترک جی جی فوروارد خورده، بعد این پلشت میگه دیگه کسی ابی داریوش گوش نمیده مارو گوش میدن</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/76167" target="_blank">📅 15:15 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/76167" target="_blank">📅 15:15 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76166">
@@ -716,7 +716,7 @@ Youtube
 Download
 @FunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/76166" target="_blank">📅 15:08 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/76166" target="_blank">📅 15:08 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76165">
@@ -724,7 +724,7 @@ Download
 <div class="tg-text">ویناک ترک داد
 @FunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/76165" target="_blank">📅 15:05 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/76165" target="_blank">📅 15:05 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76164">
@@ -732,7 +732,7 @@ Download
 <div class="tg-text">سنتکام: حمله صبح امروز سپاه با یک موشک بالستیک به کویت، نقض فاحش آتش‌بس بود.
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/76164" target="_blank">📅 14:56 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/76164" target="_blank">📅 14:56 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76163">
@@ -741,7 +741,7 @@ Download
 سردار آزمون از لیست بلند مدت تیم‌ ملی ایران هم خط خورد و دیگه به جام‌جهانی دعوت نمیشه.
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/funhiphop/76163" target="_blank">📅 14:48 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/funhiphop/76163" target="_blank">📅 14:48 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76162">
@@ -750,7 +750,7 @@ Download
 منابع آگاه از مذاکرات خبر دادن که طی ساعات اخیر پیشرفت نسبتاً چشمگیری از لحاظ رفع اختلافات میان ایران و آمریکا صورت گرفته هرچند که چندین اختلاف همچنان بین دو طرف وجود داره.
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/76162" target="_blank">📅 14:06 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/76162" target="_blank">📅 14:06 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76161">
@@ -758,7 +758,7 @@ Download
 <div class="tg-text">بارسا که دیشب گوردونو خرید امروز هم برا آلوارز پیشنهاد رسمی فرستاد
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/76161" target="_blank">📅 12:56 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/76161" target="_blank">📅 12:56 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76160">
@@ -767,7 +767,7 @@ Download
 جوری اینترنت رو باز کرده که آدمایی که موقع نت ملی وصل بودن الان قطع شدن
 @FunHopHop
 | ALI</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/funhiphop/76160" target="_blank">📅 12:37 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/funhiphop/76160" target="_blank">📅 12:37 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76159">
@@ -775,7 +775,7 @@ Download
 <div class="tg-text">یه لحظه یادم افتاد قبل جنگ یسری جوک ترند شده بود که میگفتن "کشورو بدین دست وی پی ان فروشا چهار ساله دارن یه قیمت می‌فروشن و گرون نکردن"
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/funhiphop/76159" target="_blank">📅 11:56 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/76159" target="_blank">📅 11:56 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76157">
@@ -792,7 +792,7 @@ Download
 <div class="tg-text">حکایت وصل شدن اینترنت
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/76156" target="_blank">📅 11:09 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/funhiphop/76156" target="_blank">📅 11:09 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76155">
@@ -801,7 +801,7 @@ Download
 <div class="tg-text">امسال عجب کیتای شاهکاری داریم.
 @FunHipHop
 | AmooFirooz</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/76155" target="_blank">📅 10:55 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/76155" target="_blank">📅 10:55 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76154">
@@ -821,7 +821,7 @@ Download
 <div class="tg-text">از سایز پات معلومه اوب داری پسرجان.
 @FunHipHop
 | AmooFirooz</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/76152" target="_blank">📅 10:38 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/76152" target="_blank">📅 10:38 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76151">
@@ -865,7 +865,7 @@ Download
 Telegram Channel
 👇
 https://t.me/+kpFvLD9kaeJhYTI0</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/funhiphop/76149" target="_blank">📅 10:24 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/funhiphop/76149" target="_blank">📅 10:24 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76148">
@@ -905,7 +905,7 @@ r7
 🅰
 ✅
 https://t.me/+kpFvLD9kaeJhYTI0</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/funhiphop/76148" target="_blank">📅 10:24 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/funhiphop/76148" target="_blank">📅 10:24 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76147">
@@ -916,7 +916,7 @@ https://t.me/+kpFvLD9kaeJhYTI0</div>
 🙏🏼
 @FunHipHop
 | AmooFirooz</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/76147" target="_blank">📅 10:09 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/76147" target="_blank">📅 10:09 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76146">
@@ -946,7 +946,7 @@ https://t.me/+kpFvLD9kaeJhYTI0</div>
 بازکردن اینترنت نشون دهنده پایان جنگ نیست/ تقی به توقی بخوره باز قراره ببندن و همین الانشم درست حسابی باز نشده. وآماده قطع کردنش هستن
 @FunHipHop
 | ALI</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/76145" target="_blank">📅 06:10 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/76145" target="_blank">📅 06:10 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76144">
@@ -957,11 +957,11 @@ https://t.me/+kpFvLD9kaeJhYTI0</div>
 
 <div class="tg-post" id="msg-76143">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JmsBqz5o0567dOrFcyzzs-JhdLK5VFN__-tk8pFT3nfn-Hr_LOa6ADGvUSbzK6pAh2mxG-hF7renR_SC1nLGdG7ANzCqiKvLTXHq1zLeT4cYMF_vx49sePRZBIYOxuRh6uWCC8SamBHzhjxFHxSS17WiivjoiXb_3--ewXVdRU0fbHmzwzV8r2BKS2ll8lt_cgh6pnkpcHKEO0CTqAkHu1kgMm-_UiQIG-SmM5p8f83T8054yeHJXxqlmLN6XPJcmL2jCWmN_99f2ja_1Rh_Y9DAqykHLvUQ8iMECXJStrfZH-S5M05as_OqTNeE-NfqDcyjGVAo-gJqlRNiEa44dA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sgSlAmWlQCNCtVr-x11GZsWF3DvlFqGf_enTpztHlwMNLwn1qMxgNmsRoyDPsZ3SIwje_6hC1j0Rejs4mIr9fKMFnEtkDuZzrSdUpiweikq4q8RzGyp-pkNp0IgJ2DX2B7mIL_Q9q8q1HHYSKtmj-L1Xfx008B9vPHQu2OHkQkVPdCwAITrixAznHkWIXbcrpraYqdNbhwTESDJKka4E3ZmDbkG4FsNCN-JNoH-KbzrzT2YsOTWGuEyr2KiYZ4GEgVVJSc77KaaRpiBHT12vRmlKXmQqLMHVcAb_aLwlvnqfSICl_FMxC1B2POdDqAeqfDoIHq_v7Yv3EkDtSjNqZw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نمی‌دونم چرا و چطوری ولی همین الان آژیرهای خطر حمله‌ی هوایی تو کویت روشن شدن.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/76143" target="_blank">📅 05:55 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/funhiphop/76143" target="_blank">📅 05:55 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76142">
@@ -976,7 +976,7 @@ https://t.me/+kpFvLD9kaeJhYTI0</div>
 ارتش آمریکا همچنین در جریان این حملات چندین پهپاد ایرانی را رهگیری و سرنگون کرد.
 @FunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/funhiphop/76141" target="_blank">📅 02:57 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/funhiphop/76141" target="_blank">📅 02:57 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76140">
@@ -989,7 +989,7 @@ https://t.me/+kpFvLD9kaeJhYTI0</div>
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromYashar</strong></div>
 <div class="tg-text">کانفیگ فروشان با پول کانفیگاb2 خریدن میخوان نتو قطع کنن</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/funhiphop/76139" target="_blank">📅 02:18 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/funhiphop/76139" target="_blank">📅 02:18 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76138">
@@ -1222,7 +1222,7 @@ toman
 <a href="https://cdn4.telesco.pe/file/2c4635a829.mp4?token=cu-jfVeiCfPsORFFiKJwHqCZh_tODle0LE0rsS0vscMLHGQBuGCcRJuTPKOZ-02sLHyybPjMI3X2c5lSj69Ec12soqzYEP833TkVi189YaeJL_NVsGasGSbek3aWeVNcgkmqo6nVjysKAU8aq0vw4_gD3FdwIbh4QTqBYl6UlWMMmC1x4Br1vigQDOCiTa5K9g_P3QRSxy8dOgqlSkJzgc8B94DBZ9Vn3B3UEc1B0LjMj6o9stkPQDioPRzGPmg6u0fX7KliNO7C_5VRqVP71n8KCxDpNtqPE0GJd-qhnzEHexIAm_vTvUcKNuod_ocYa540gnq_TOPkrql3jBLzbw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">علیرضا جی جی مصاحبه کرده گفته پشمام ریخته که جوونا هنوز ابی و داریوش گوش میکنن چون ریتم آهنگاشون خیلی چرته   @FunHipHop | Farid</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/funhiphop/76114" target="_blank">📅 20:15 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/76114" target="_blank">📅 20:15 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76113">
@@ -1231,7 +1231,7 @@ toman
 آتش‌سوزی در یک ساختمان اداری در فرودگاه بین‌المللی امام خمینی در نزدیکی تهران، پایتخت ایران، رخ داده است.
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/funhiphop/76113" target="_blank">📅 20:05 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/funhiphop/76113" target="_blank">📅 20:05 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76112">
@@ -1277,7 +1277,7 @@ toman
 آنها در حال مذاکره با توان کم هستند. شاید مجبور شویم برگردیم و کار را تمام کنیم؛ شاید هم نه.
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 9.98K · <a href="https://t.me/funhiphop/76110" target="_blank">📅 19:48 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/funhiphop/76110" target="_blank">📅 19:48 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76108">
@@ -1321,7 +1321,7 @@ toman
 ‏آمریکا به هواپیماهای مستقر در اسرائیل دستور داد ظرف ۷۲ ساعت به پایگاه‌های خود در اروپا بازگردند.
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/funhiphop/76107" target="_blank">📅 19:29 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/funhiphop/76107" target="_blank">📅 19:29 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76106">
@@ -1330,7 +1330,7 @@ toman
 ایران در ازای خارج کردم اورانیوم غنی شده خود هم رفع تحریمی دریافت نخواهد کرد و به طور مستقیم اظهار داشت: «آنها اورانیوم غنی شده‌ی خود را کنار خواهند گذاشت اما نه، نه، اصلاً. هیچ تسهیلات تحریمی‌ای درکار نخواهد بود، نه.»
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/funhiphop/76106" target="_blank">📅 19:22 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/76106" target="_blank">📅 19:22 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76105">

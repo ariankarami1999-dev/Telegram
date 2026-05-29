@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-08 03:17:43</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-08 05:59:39</div>
 <hr>
 
 <div class="tg-post" id="msg-931">
@@ -300,14 +300,14 @@
 <div class="tg-text">اینترنت خانگی وصل شد
 ✅
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 266 · <a href="https://t.me/danialtaherifar/931" target="_blank">📅 16:25 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 268 · <a href="https://t.me/danialtaherifar/931" target="_blank">📅 16:25 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-930">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">کاملا حس عقب ماندگی تو حوزه AI بهم دست میده وقتی که مطالب جدید رو میخونم و تغییرات سریع رو میبینم!
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 364 · <a href="https://t.me/danialtaherifar/930" target="_blank">📅 12:47 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 366 · <a href="https://t.me/danialtaherifar/930" target="_blank">📅 12:47 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-929">
@@ -315,13 +315,13 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Nwm99Lz0df7MVzciC5iGxYFGjiEeO2x6Kui7hdxMFVObBrlbQKwtwuBYrw8DvaJR4ixobv9XSFJC8DNIcFVhvC7zDomiK3g5ytVSKmD7t3oe5My3CbCqldctkwJ2eukfR0H0PXtPYs7Qm6_ODNf5wZvOYOgwMTjU3NwbC3HJ54HWykV_oSl0yWQw06Ll5bvd_jvcdqegEO4EmL-IEmQsLGnYDheNvWvuewGJ41Q4mr-BQCNceDdApvkxXfnFLzZui7ju7mCPUucWt5OCyPv1_dz1WGNDqdVKW1JP6qpf-jhEyjvNshcjCxZpkkB-G64ito5h27g8_mpyUvvi6gIEag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 آپدیت هسته مارچ 2026 شروع شد.   بختت ایرانی...  @danialtaherifar</div>
-<div class="tg-footer">👁️ 463 · <a href="https://t.me/danialtaherifar/929" target="_blank">📅 13:24 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 465 · <a href="https://t.me/danialtaherifar/929" target="_blank">📅 13:24 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-928">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده   @danialtaherifar</div>
-<div class="tg-footer">👁️ 774 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 775 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-927">
@@ -329,7 +329,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/S8-yMnvxOb9-mEox2-2xcnzEXUD04poF71E8IWJdh3b_pv6AcoObdcEVNSLh1Af_L1V5PBWHTmrESrfpE4BIgcq7CPclR7gGB6FN35JDlyi_hl3Iks2x0BMg4U3UW8kWWJPisxCL6qX369mPi6ipdIE6yTfJCoko8iQGc02nbeMLLs7tpknWjaB6rPy5OmbOuiBGh1AL19H1HTpweawjkpxDuW1PdkeBENRA0AvvTP6NNUnO5sini7lhI7UGZOtIVHY_Zh6YoTcV3JRfBqLG8gnP2DuNZ-nWKd2cnU_zb9fMI-shEVAz8bncqvXMHfa6gz1l2dj92eyloaLa5tjvUA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 706 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 707 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-926">
@@ -338,7 +338,7 @@
 😞
 🚫
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 802 · <a href="https://t.me/danialtaherifar/926" target="_blank">📅 18:34 · 27 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 804 · <a href="https://t.me/danialtaherifar/926" target="_blank">📅 18:34 · 27 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-925">
@@ -347,12 +347,12 @@
 <div class="tg-text">درود
 ظاهرا دسترسی به یک سری دیتاسنترهای بین المللی برقرار شده.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 864 · <a href="https://t.me/danialtaherifar/925" target="_blank">📅 16:23 · 24 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 866 · <a href="https://t.me/danialtaherifar/925" target="_blank">📅 16:23 · 24 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-924">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Iz1DUxT-E0D_ReBbTvbT4wQX9v6EpPTQ4dmZqqnhXdwKgavODQ3U_-6Xw68Tw4UwWX44Ga_yyXVwBTkTBdetopCXXCUI7xEcs5JU-Pbw5mFXdX4t9A0EFK7HVg0UcY0p-CUva2Gis6Te7ocLT1zXHquTyPhiQT7FfUpiFfAc3-e9w_ehbAj21cWeR7XzVIw4D99rVTQwhNUPXeB3MxkQakttD1ETrkFKqTyls11y8mN33de33PL3XZZXyAjKdBTbdc-LywpNYTxlWPR0VRzPMflgj9gAx16vvTCXFbYzVvHc0j9TYCefR9R_OI3X7FdQUdasg_N214QwN2sVUC49gw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OLA-AMC_DM_sjk-yDlnkBpawv5IpfROMG-Eo-kdYdPzaIBOzHl81UfLWEVnW1JjJJ0srD-2P5mgetwEQYDKzQrRSm9yzmz2S2dNCgjAVEHxbMTuR7oLFWVjzM_nEbRvSrpv4o-9KAI857Nw3g9kdKUbHNc40kFv5fQI7KaWc2h5hCarPyG4f3ShkYUWEp4au5QXw2PthlyoRbSk9BsScZ_KD-GeeZcPM6vlvSnsdTj8H-YljRCNzPYP9TmVGc1OGyGNeUWv3k8FQ_6NxeVxxGyXkevFO-7fvpj0VtVoxGJpTj6Klj1FiJX2ocNsgwEL4-hAypOKw-dptPOG7EybK4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبدیل ضربان قلب کسب‌وکارهای اینترنتی به یک «خط صاف» صفر...
 💔
 ما کسانی هستیم که زندگی‌مان، تخصص‌مان و آرزوهایمان به این «ریسمان نازک» وصل بود.
@@ -378,7 +378,7 @@
 آپدیت هسته مارچ 2026 شروع شد.
 بختت ایرانی...
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 818 · <a href="https://t.me/danialtaherifar/923" target="_blank">📅 13:26 · 07 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 819 · <a href="https://t.me/danialtaherifar/923" target="_blank">📅 13:26 · 07 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-922">
@@ -388,7 +388,7 @@
 طی تماسی که با پشتیبانی همراه اول داشتم، مشخص شد که این سرویس در حال حاضر فقط برای مشترکین سازمانی و اصناف ارائه می‌شود. در واقع سازمان‌ها می‌توانند فهرستی از اعضای زیرمجموعه خود را ارائه دهند و سرویس تنها برای آن افراد قابل تهیه خواهد بود.
 در حال حاضر برای عموم کاربران چنین سرویسی ارائه نمی‌شود (و امیدواریم هیچ‌وقت هم نشود؛ وگرنه رسماً با پدیده «اینترنت طبقاتی» روبرو خواهیم شد که بازگرداندن آن به شرایط عادی، بسیار دشوار و شاید نشدنی باشد).
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 836 · <a href="https://t.me/danialtaherifar/922" target="_blank">📅 17:39 · 06 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 837 · <a href="https://t.me/danialtaherifar/922" target="_blank">📅 17:39 · 06 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-921">
@@ -400,7 +400,7 @@
 سال نو مبارک و ایامتون به کام.
 با آرزوی بهترین‌ها، دانیال طاهری‌فر
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 758 · <a href="https://t.me/danialtaherifar/921" target="_blank">📅 19:38 · 29 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 759 · <a href="https://t.me/danialtaherifar/921" target="_blank">📅 19:38 · 29 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-920">
@@ -481,14 +481,14 @@
 از دقایقی پیش دسترسی نت همراه به سایت‌های میزبانی شده در خارج کشور(آلمان) باز شده.
 اما همچنان بات گوگل به سایت های داخلی دسترسی ندارد.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 870 · <a href="https://t.me/danialtaherifar/911" target="_blank">📅 10:28 · 07 Bahman 1404</a></div>
+<div class="tg-footer">👁️ 871 · <a href="https://t.me/danialtaherifar/911" target="_blank">📅 10:28 · 07 Bahman 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-910">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Xqd14KyLLYs29uHvEWloBRrJ81iA9YYWe0DBAedTLozBjz_hnQZ3frCT5MzMNMIuTAFMlTOmIwtG-YoSdWQxzTXwP_baMFGw9ympEQhqt-0YlGzxheE-Iah2lqNZxmrpyo8BEtPFtAg9FzgB-3TEVfUT2bJBtlzNUoaLdN7dqDNQb3SB4y8Y6QHJ6FHDEQQBSDLWUtJXgSnepCqVvpY4ENgxU3wq819eVl-G2miRKuSscA27z6YltIVr9nqUYdb8SlolV9st8tiRjsB8-wFN3wlmiRRnQkPJ4FNk62zVbaOu5K1FoP6M7k05oR0-X9yix0Wqfjnxvi4IqOGmH2ZRvg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مقایسه سرچ کنسول سایت های میزبانی شده در ایران و خارج از ایران:  نکته جالبی که تو این تغییرات به چشمم اومد این بود که سایت هایی که رتبه‌های عالی داشتن بیشتر آسیب دیدن و سایت های رده سوم در سرور ایران هم موقتا رشد گرفتن و بالا اومدن، که البته با توجه به قطعی…</div>
-<div class="tg-footer">👁️ 853 · <a href="https://t.me/danialtaherifar/910" target="_blank">📅 00:38 · 07 Bahman 1404</a></div>
+<div class="tg-footer">👁️ 854 · <a href="https://t.me/danialtaherifar/910" target="_blank">📅 00:38 · 07 Bahman 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-909">
@@ -591,7 +591,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 🔹
 این ویژگی که توسط دنیل وایسبرگ (Daniel Waisberg)، از تیم Search Relations گوگل، در رویداد Search Central معرفی شد، اکنون در حال rollout تدریجی برای همه حساب ‌هاست و طی چند هفته آینده برای تمام کاربران در دسترس خواهد بود.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 948 · <a href="https://t.me/danialtaherifar/899" target="_blank">📅 12:21 · 16 Azar 1404</a></div>
+<div class="tg-footer">👁️ 949 · <a href="https://t.me/danialtaherifar/899" target="_blank">📅 12:21 · 16 Azar 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
@@ -1159,7 +1159,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 ✔️
 بدون نیاز به تغییر تنظیمات مرورگر یا حساب کاربری گوگل
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 585 · <a href="https://t.me/danialtaherifar/872" target="_blank">📅 18:11 · 20 Ordibehesht 1404</a></div>
+<div class="tg-footer">👁️ 586 · <a href="https://t.me/danialtaherifar/872" target="_blank">📅 18:11 · 20 Ordibehesht 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-871">
@@ -1364,7 +1364,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 📌
 تجربیات کاربران نیز نشان می‌دهد که پس از افزودن این فایل به سایت‌هایشان، هیچ تغییری در رفتار خزنده‌ها مشاهده نکرده‌اند.​
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 679 · <a href="https://t.me/danialtaherifar/861" target="_blank">📅 22:51 · 01 Ordibehesht 1404</a></div>
+<div class="tg-footer">👁️ 680 · <a href="https://t.me/danialtaherifar/861" target="_blank">📅 22:51 · 01 Ordibehesht 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-860">
@@ -1378,7 +1378,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 <li>✓ 4️⃣سئو آن‌ پیج (محتوا، تگ‌ ها، ساختار صفحات و ...)</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 689 · <a href="https://t.me/danialtaherifar/860" target="_blank">📅 09:21 · 30 Farvardin 1404</a></div>
+<div class="tg-footer">👁️ 690 · <a href="https://t.me/danialtaherifar/860" target="_blank">📅 09:21 · 30 Farvardin 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-859">
