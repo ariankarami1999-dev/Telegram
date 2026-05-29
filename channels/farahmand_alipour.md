@@ -291,28 +291,28 @@
 <p>@farahmand_alipour • 👥 61.8K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-09 01:16:06</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-09 02:35:12</div>
 <hr>
 
 <div class="tg-post" id="msg-5204">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pyvzrqol1jfG0LMkc_tnkyeD56cY09VswK7gySi62alPzQy3_i4yheTZm5oCYTIKcRGtwIWoOYAVYjIDMuZ7VAqAQO8ipx2IOEAeGWeJCugmip2XAQNKt2IgHbg8hOcM8GZQPhKtzzHQ2gC6nud10zHBOYOgI6xRIREPDKUWaWSMLXZ6O-syZ83M27E_sDNmgjFnyVYLb3TENvu2g3qqB9ALdxAr-bWu-Y-Ke8_1mMaXtLxvEPg8pYnvQK3knmv79KADMQ3jQoaK9Y8ApWMLdAvfklmeb0FOj9VoqQr5ObxjehAzHZiTviNKdiLh2fLPNnRrQAgN2oLk94QaCcMCvw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طرح یک دیوار در تهران و گفتن از نابودی اسرائیل در ۱۵ سال آینده!</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/farahmand_alipour/5204" target="_blank">📅 21:53 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/5204" target="_blank">📅 21:53 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5203">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BX46z-Zl_bUQ96FCDfakt8VmPjUTxZc-gqaMVdTXF0XYwicLx-KBp9-MAAV_o5hBRB0Cm2-WxyNM3OcWANCZYCvpWNHGuTRMy8abB_JMQ54EVIG68YHt-BXD09Sw1c_ZQbFc490EtJaKwQ8okJPOITPdQKbalQDda_DMof-UTSZ-H5w9VHSBjRHfhknn-pBg3XxMlw26nUTWhoI852z5DzRCgeBukEDG-kCpuqxnHVrN0qaV63JNveb1P_eS993dn1ZfDoc_FAcoE1y4zCe4khOXxVip4VAHRK4AGiT5FaiJ7lbt4QxqmJMn0zZFL5RE0RM3cFQzCAsNKzuZDXI-fA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طرح یک دیوار در تهران و گفتن از نابودی اسرائیل در ۱۵ سال آینده!</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/farahmand_alipour/5203" target="_blank">📅 18:38 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/farahmand_alipour/5203" target="_blank">📅 18:38 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5202">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B6FfAkHOJVdA2HJC1hXZ97SoBO6uRKXbfY2UzvFWnlMInEJ5h4wnwcqeIZQSGhoM_FM4X2fK9dgAnwGxwrcFgmx6T-bynjERrc3c5YjPeqeRMIpJyUNHBjIRuVBsJNOkSHGMgKOQXBGZP6IlTdxFO5W3n4mroiWXVhMniu3La79ldfTgML9Xf-SShv2ZSXALjvuTBpiwoNwO6GvZaGyML_6Ztb9-6Fpd4dkWpaJ3xg7DEGKgdZceFOw1YPQ4DLQHDFFDhJUdbNAR-IlRnwZg7CRU47CBszHE35kU4favY2Q7sRTdYN-z0WaxYzPm0NvHkAiwJch4kMbf-H4Qq74LkA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آمادگی بهتر برای جنگ بعدی …</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/farahmand_alipour/5202" target="_blank">📅 18:36 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/5202" target="_blank">📅 18:36 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5201">
@@ -331,7 +331,7 @@
 تا اطلاع ثانوی هیچ پولی میان طرف‌ها رد و بدل نخواهد شد.
 در مورد سایر موضوعات ــ که اهمیت بسیار کمتری دارند ــ نیز توافق حاصل شده است.
 اکنون برای اتخاذ تصمیم نهایی به اتاق وضعیت می‌روم.</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/5201" target="_blank">📅 18:25 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/farahmand_alipour/5201" target="_blank">📅 18:25 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5199">
@@ -345,7 +345,7 @@
 گفت «عنصر نامطلوبه»! گفت که جمهوری اسلامی عامل وقوع جنگ در لبنان شده و جنگ
 رو به مردم لبنان تحمیل کرده.
 اما سفیر جمهوری اسلامی در درون سفارت خانه موند و گفت برنمیگردم ایران!</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/farahmand_alipour/5199" target="_blank">📅 18:05 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/farahmand_alipour/5199" target="_blank">📅 18:05 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5197">
@@ -357,7 +357,7 @@
 <div class="tg-text">وقتی شما نبودید
 درسته هر شب توی خیابون‌ها بزن و برقص و عروسی داشتن اما در افغانستان گدایی پول میکردن :)
 سفارت جمهوری اسلامی در کابل در اواخر اسفندماه رسما تقاضا کرد که  مردم افغانستان به جمهوری اسلامی کمک مالی کنن!</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5197" target="_blank">📅 13:50 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/farahmand_alipour/5197" target="_blank">📅 13:50 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5196">
@@ -370,7 +370,7 @@
 <a href="https://cdn4.telesco.pe/file/07fac9d6ff.mp4?token=vPSguEY9_VSGpVzOwPZWDS_AykLAVPdFRHab8drA4cBje8z4gZm7yLmdsjg4lR8zOFsvpqGvjlkpqZ2-_nIp81p9Gr7MrZFrHSrRMHA4HD-xzttwJ2EApcpTccDYECroF3b9bI2Z5RPsRHqD9BHnq-BJ6Nbe3fTIPLaPR4cUlJkYlFgAzwsCQCIYtizcUDC5oRAEnnAy9yeWUxqQWPoIknAY6fGXMU5XqGn2pQpb2IQXrG52vbvwCyrxIFZhlnk-uEq-wFMjYoQaItXrihoOD_neRs9q-LOSYc674KzbQCTKjSy7rMMn_346Or63KTSDwxXbMID3ckmXeioEeTYfBA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وقتی شما نبودید در اجتماعات حکومتی شون هر شب عروسی داشتن!  «صیغه یک ماهه»! در برابر «یک سکه» :)  با کسب اجازه از امام زمان</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/farahmand_alipour/5196" target="_blank">📅 13:25 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/farahmand_alipour/5196" target="_blank">📅 13:25 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5195">
@@ -387,13 +387,13 @@
 هر شب عروسی داشتن!
 «صیغه یک ماهه»! در برابر «یک سکه» :)
 با کسب اجازه از امام زمان</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5195" target="_blank">📅 13:18 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5195" target="_blank">📅 13:18 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5194">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">وقتی شما نبودید پوتین پیام تبریک برای مجتبی خامنه‌ای به عنوان رهبر جدید جمهوری اسلامی فرستاد،  پیام پوتین حتی قبل از پیام گروه تروریستی حزب‌الله لبنان صادر شد!  حتی زودتر از پیام‌ شهردار تهران!  حتی زودتر از پیام جوادی آملی :)   پوتین در پیامش نوشته بود :…</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/farahmand_alipour/5194" target="_blank">📅 13:02 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5194" target="_blank">📅 13:02 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5192">
@@ -411,7 +411,7 @@
 «اطمینان دارم شما راه پدرتان
 را با افتخار ادامه خواهید داد.»
 پوتین راه پدر مجتبی خامنه‌ای رو دوست داره :)</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/5192" target="_blank">📅 12:55 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5192" target="_blank">📅 12:55 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5191">
@@ -424,14 +424,14 @@
 <a href="https://cdn4.telesco.pe/file/9993037d5c.mp4?token=CcPq70_klJv4o6OJND2XOs5kN1lRxb_6VkxHN34ZrGUH8wvrOWC0CE5QA7rEJB8FXuVR2Qv1KIIqo9bkQpN8mLNdt1uvXVfEFYUexWbdqV4ILyqW_ooAZBlRnylle84aNgPU14j3gxzFHAlkZvE23q1G79hPVbuJZmpiaIJLVlaPXTTrGrg_M5PsycC9lhaI9gKSrzwqBkfjMqlYLVCJCwuOCF72aZFcJFUCa8gozKvhQkHnrh7Fz9vf3ygaO9lHbN8X0djQw56hMKeixvTSA1YDI4_OSWH0B92XUZ_XM2MTtavs-czhRE8YL2CeZ7SPJn4cFpuKCDM-Ak3hnboHkQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">شادی مردم مشهد از خبر کشته شدن خامنه‌ای</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/farahmand_alipour/5191" target="_blank">📅 12:40 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5191" target="_blank">📅 12:40 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5190">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oS6tfQKPhuKL7CdW31KComUIyBaa7bJ8OwiMMfQqAZbcyhq6cCsH5TrSZ0Sgt8lGa3iS0jBR03XbzCHz5PavNHdLIL25nYQMLKIoTfFD7-VOxvxzc7t3RS2ogkJZIg3OVuc43VZluIBIjDn9Tsn8E7RuifBlIrYoY_tv1PqHSWEU_RemvhLV_2VDsfYs_Hq7KbMXMovpeZDnfXT_rDndSKS7PQexYHSZ5UrIDkaeiPAoRdmumOgjDx7h4vvzrz0XJZsbqWxPpBQhuGLKiAUZeLQ2Z0ir2VKf1fBwSDVIi0-wUrbiYhENqwBySZu-04y9oZJqPesSgIppFZoUGmMN6g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه نکته جالب :)  امروز ۲۶ روز پس از کشته شدن خامنه‌ای  در کره شمالی هنوز خبر کشته شدن خامنه‌ای منتشر نشده!  فقط اعلام شد که مجتبی خامنه‌ای،  پسرش جایگزین او شده،  اما اعلام نشده که در طی یک حمله نظامی  خامنه‌ای کشته‌ شده.</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/5190" target="_blank">📅 11:09 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/5190" target="_blank">📅 11:09 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5189">
@@ -443,7 +443,7 @@
 ‏تروریست‌های طالبان هم حمله رو محکوم کردن اما تسلیت نگفتن!
 دولت فلسطین حتی حمله رو هم‌ محکوم نکرد! سکوت کامل!
 فقط تروریست‌های حماس محکوم کردن و تسلیت گفتن!</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5189" target="_blank">📅 11:02 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/5189" target="_blank">📅 11:02 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5188">
@@ -452,7 +452,7 @@
 🚨
 🚨
 امروز : کشته شدن ۱۴ نیر‌وی سپاه زنجان بر اثر انفجار مهمات عمل‌نکرده</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/5188" target="_blank">📅 10:51 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5188" target="_blank">📅 10:51 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5187">
@@ -465,13 +465,13 @@
 🚨
 🚨
 سخنگوی قرارگاه خاتم : به ۱۴ پایگاه نظامی آمریکا حمله کردیم و «صدها» ‌تن آمریکایی و اسرائیلی را کشته‌ایم.</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/5187" target="_blank">📅 10:38 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/5187" target="_blank">📅 10:38 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5186">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">پایکوبی مردم در تهران</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/5186" target="_blank">📅 10:32 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/5186" target="_blank">📅 10:32 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5185">
@@ -484,26 +484,26 @@
 شادی مردم ایران از شنیدن  خبر مرگ خامنه‌ای
 🔺
 بیانیه رسمی دولت اسرائیل تا دقایقی دیگر</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/5185" target="_blank">📅 10:32 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/5185" target="_blank">📅 10:32 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5184">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">حمله به بحرین
 😅</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/5184" target="_blank">📅 10:31 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/5184" target="_blank">📅 10:31 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5183">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">شاهکار جدید صدا و سیما  اینها رو باید تلوزیون‌های جهان در بخش سرگرمی نشون بدن</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/5183" target="_blank">📅 09:54 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5183" target="_blank">📅 09:54 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5182">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">«دیشب مردم تهران در کوچه و خیابان  کل می‌کشیدن» مرسی از بابت این اعتراف و این مستند سازی از وضعیت تهران پس از انتشار خبر مرگ خامنه‌ای</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/5182" target="_blank">📅 09:39 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5182" target="_blank">📅 09:39 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5181">
@@ -516,19 +516,19 @@
 <a href="https://cdn4.telesco.pe/file/83519ba27a.mp4?token=ASKQwVu36f5eDofJlvPjiIy7umvgqLvqtd7Bvm_c3XQWBxILfsvqolinrwJ9Ks7VtYxDgNzqRe4cDllvY0dL1KHHJD5hmZa4SzL7crW8gARC9BNXtkG5Sk-g2pXQfoievWjY-EhD0Drmx42nmMLPEsLkZuzg29D8kotFZ5zpPmvjBM1KXzdNpPhXW30yQwMvdJhXiJknS-7yDo6xikYgutRdHALGlH9onTM7Eh1To2kkL_OOsUpE7z0VuMczBrbMnEGO79IkN0XadI8mt-raPpXeg-OMUf2ziSy0m8KHJyUXxLnrh--2hQ1-mGZNQgtGseJTsAdZGhCYhFFIKHM1iA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">پلیس پاکستان داره عزاداران خامنه‌ای رو با چوب میزنه  دیروز هم پلیس پاکستان ۶ تاشون رو کشت.</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/farahmand_alipour/5181" target="_blank">📅 09:37 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/farahmand_alipour/5181" target="_blank">📅 09:37 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5180">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">بخش خبری ساعت ۱۴ شبکه یک و تکرار ادعای زدن ۳ جنگنده آمریکایی  در آسمان کویت و تکرار این سوال که چطور در آسمان ایران به این پهناوری نمی‌تونید ‌، در آسمان کویت تونستید؟؟</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/farahmand_alipour/5180" target="_blank">📅 09:36 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/5180" target="_blank">📅 09:36 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5179">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">فرماندار جم در استان بوشهر، می‌گوید که یک «پهپاد متخاصم» منهدم شده و وضعیت شهر به حالت عادی بازگشته است.</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/farahmand_alipour/5179" target="_blank">📅 00:34 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/farahmand_alipour/5179" target="_blank">📅 00:34 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5178">
@@ -537,7 +537,7 @@
 🚨
 گزارش‌هایی از شلیک موشک از منطقه جم بوشهر به سمت چند کشتی که در تلاش برای عبور از تنگه هرمز بودند.
 گفته می‌شود در جریان این حملات موشکی که از سوی سپاه صورت گرفته، به سوی یک کشتی آمریکایی نیز شلیک شده.</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/farahmand_alipour/5178" target="_blank">📅 23:27 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/farahmand_alipour/5178" target="_blank">📅 23:27 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5177">
@@ -550,7 +550,7 @@
 <a href="https://cdn4.telesco.pe/file/7730b3f12b.mp4?token=GWV_WWhiY0rITqomdnygpw0uQhN2oWPku46O1EpmeS7Hqnce1w6vbYjrSEdtWxGQLxAOtYiyDwG22E8wtjg36XlfvLvcN1tOJyXqvVzYntJoi1P1eNIfVQ0-13yUdUvACCjaOhs22wa3iV-WtrbJ4Gqiflw8OqFNV09pyNM0hMeq3etjeeJZ6xLRtV6Goj1MzxLegCjbT5bjrSanUTsPBi_pyEhcp_sqslY9TkIr9-l2ggKNHjHn-jzbkBVDXHbk_b0-l_Py0bc4zn6ZcBfH4pZZbzSMh5SGD_Ju7372E3Q_Et4pGLVbc2v0US7rsf2-IYxwvv9UoBuc2seCZk-yow" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حرف رهبر شهیدش رو پاره کردن :)</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/farahmand_alipour/5177" target="_blank">📅 20:23 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/farahmand_alipour/5177" target="_blank">📅 20:23 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5176">
@@ -569,7 +569,7 @@
 عجیبه در این حمله فقط مجتبی سالم مونده باشه!!
 چرا خامنه‌ای در پناهگاه نبود
 !؟</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/farahmand_alipour/5176" target="_blank">📅 19:41 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/farahmand_alipour/5176" target="_blank">📅 19:41 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5175">
@@ -577,7 +577,7 @@
 <div class="tg-text">🚨
 🚨
 آمریکا و جمهوری اسلامی به یک توافق ۶۰ روزه رسیده‌اند تا آتش‌بس را تمدید کنند و مذاکرات درباره برنامه هسته‌ای را آغاز کنند.</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/farahmand_alipour/5175" target="_blank">📅 19:14 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/farahmand_alipour/5175" target="_blank">📅 19:14 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5174">
@@ -594,7 +594,7 @@
 این مسیر رو خیلی‌ها رفتن!
 از منتظری و بنی‌صدر، تا موسوی،
 خاتمی و روحانی، احمدی‌نژاد و…..</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/farahmand_alipour/5174" target="_blank">📅 19:01 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/farahmand_alipour/5174" target="_blank">📅 19:01 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5173">
@@ -608,7 +608,7 @@
 </div>
 <div class="tg-text">حمله یک مرد مسلمان چاقو به دست در محوطه یک ایستگاه قطار در سوئیس موجب زخمی شدن ۴ تن شد.
 او با فریاد الله اکبر دست به این اقدام تروریستی زد.</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/farahmand_alipour/5173" target="_blank">📅 14:53 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/farahmand_alipour/5173" target="_blank">📅 14:53 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5172">
@@ -661,14 +661,14 @@
 <a href="https://cdn4.telesco.pe/file/8f7f2acbc1.mp4?token=Ea6gPW87c19bykm0Z3F-abM7vM3Omr33HbDDgZtLDaGc-RvZVFwX_ajPpkKw-_ZrMl5tUJLxD3JlRKpPhX9kUQECuvQPUg63qBqZ2XPTV0_jdhQznuHLxbBjpthLO3pQ6H00FM1H7zdq_4fiME7RWyVD9PP5cjpRkarKtj_iKlzUBmtLhHy_oD63s0uS42wvWXCho5ej_PHL5SM26tmir34fv42GnajDC2HO0Z09JikfHJ1IN1_IsByrBam_GiyxO2WtlFmyRm8J-rTWCJ9sdRERKYO7lIZ0PyD4qhVs-i0gy4-qBuvIak79R8nYu2QIJcCuiYnRq_73kyhCwLDA4w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اسلام یک دوره کوتاه از رشد علمی داشت،  که همیشه هم سنگش رو به سینه میزنن،  ولی حتی اسمش هم گویای همه چیزه!  «نهضت ترجمه!» رفتن شروع کردن به «خوندن» کتابهای دیگران!  کتابهای ایران باستان و یونان باستان و هند و روم و……  خوندن و ترجمه کردن و شدن باسواد !  اونهم…</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/farahmand_alipour/5169" target="_blank">📅 10:15 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/farahmand_alipour/5169" target="_blank">📅 10:15 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5168">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KdGfriC8Q5ej2JVzx2gHk1fYcqytJNjVqZW336Jzf5ELENK9PIR9s2TPMlyuZ58-1c6p_noomFglyxHpc7Ltkr5K0yWZQl4mhmZvWkrRvZldzBTqH_Ti1mOfE9BY5GCDIoKGgJN1pMABOjAJPFtNdsFzVE3ev7aYEyF55ZNeqCMgeguEluMGdaFJk_XbxHMsxZAwWNsBFxhv9bJ0l-fFLTkiKBQq_2EkSPGDEkM8LSAsOHUP47FQugf33l22YmzMlqZJ6dL4ybX5q502hosCNAXpCWlct14B-gE3FZloNmny71zgeEB6TIIhy7KogLPKdWm858DMWKuOtTnf7MnblA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سر و وضع شهردار نیویورک رو!  دیروز !  جوامع مسلمان، از غربی‌ها، آموزش مدرن رو یاد گرفتن، آموزش دختران، مدرسه، دبیرستان، دانشگاه،  انتخابات و حق رای، تفکیک قوا، داشتن حزب، داشتن انجمن و سندیکا، داشتن روزنامه و رسانه، سینما و تئاتر و موسیقی به معنای مدرن، مناظره…</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/farahmand_alipour/5168" target="_blank">📅 09:56 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/farahmand_alipour/5168" target="_blank">📅 09:56 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5167">
@@ -687,7 +687,7 @@
 مسلمان‌ها در دنیای جدید چی داشتن؟ هیچی!
 هیچی!! لباس سنتی بپوشیم بریم توی خیابون هاشون نماز بخونیم و بگیم خدای ما از خدای شما بزرگ‌تره!
 با نخوت بگیم ما خیلی از شما بهتریم!</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/farahmand_alipour/5167" target="_blank">📅 09:56 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/farahmand_alipour/5167" target="_blank">📅 09:56 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5166">
@@ -722,7 +722,7 @@
 فقط باید دور زده بشه، اول صیغه جاری بشه
 بعد برن دادگاه و قانونی اش کنن! به همین سادگی!
 در بهار ۱۴۰۰ ، حدود ۱۰ هزار دختر ۱۰ تا ۱۴ ساله در ایران شوهر داده شدند!</div>
-<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/farahmand_alipour/5164" target="_blank">📅 12:45 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/farahmand_alipour/5164" target="_blank">📅 12:45 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5163">
@@ -750,7 +750,7 @@
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i2PRUvkPV6xbJTJwiSPeRGiMhTz617DdUlbrQyqDl3wS2o4E6t2i8bCamWJfS4jaI-1kk-_rDj4qoBvYWRaJY_1loF1Vb_pnErl_2LbAs3IphwyaHD_0pYNzXZlLSAToMnH4RT18-EdUxkMZ-GgMR6_BkG1Ywun6OvTGwwMDYTv3PK0B2X7JOkLRj97V0gJ8NbiN_-pq-naUn6MTRNY44jO9CztxQacwpK1UGuPMYlOHq5DsPSbtjuDJUCWiyAsiZp4ueKEsXP2wStGVbuvRTPxkpHqEZLgtdWh8YldFLaLeFv9eHkVyAX3i48g6GaEMGWQ60njwZKQRErSviK4Cig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چمبرلین، در صدر دولت بریتانیا،  به همراهی فرانسه، قراردادی را امضا کرده بودند که بر اساس آن، ۳۰٪ از خاک چکسلواکی به آلمان نازی داده می‌شد.  مناطقی که مردم آن آلمانی زبان بودند.  هیتلر میخواست همه مناطق آلمانی‌زبان در آلمان باشند .  بریتانیا و فرانسه، عامدانه،…</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/farahmand_alipour/5160" target="_blank">📅 10:04 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/farahmand_alipour/5160" target="_blank">📅 10:04 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5159">
@@ -768,7 +768,7 @@
 کاغذ را پیروزمندانه به خبرنگاران
 و جمعیت انبوهی که جمع شده بودند نشان داد.
 او می‌گفت که به یک «صلح برای نسل مان» رسیده ایم. می‌گفت این قرارداد اروپا را از افتادن به دامن یک جنگ بزرگ نجات داده. این تیکه کاغذ اما یکی از «خیانت‌بارترین» قراردادها بود.</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/farahmand_alipour/5158" target="_blank">📅 09:47 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/farahmand_alipour/5158" target="_blank">📅 09:47 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5156">
@@ -814,7 +814,7 @@
 <div class="tg-text">‏پیام منتسب به مجتبی خامنه‌ای به مناسبت حج: رژیم منحوس صهیونی ۱۵ سال آینده را نخواهد دید.
 باعشه!
 بابات هم همین‌ها رو میگفت که باعث شد امروز ۹۰ روزه که معلوم‌ نیست هستی یا نیستی، اگه هم هستی طوری قایم شدی که گویی هرگز نبوده‌‌ای :)</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/farahmand_alipour/5153" target="_blank">📅 14:43 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30K · <a href="https://t.me/farahmand_alipour/5153" target="_blank">📅 14:43 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5152">
@@ -854,7 +854,7 @@
 <div class="tg-text">ترامپ : یا یک توافق عالی برای همه خواهد بود یا هیچ توافقی نخواهد بود.
 اگر توافقی نباشد آمریکا به جنگ بازمیگردد.
 کشورهای منطقه باید عضو پیمان ابراهیم شوند.</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/farahmand_alipour/5149" target="_blank">📅 17:30 · 04 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/farahmand_alipour/5149" target="_blank">📅 17:30 · 04 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5148">
@@ -868,7 +868,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IyHSUJMACxCTOkK-EDqLCJemILvlMfUiBUJ5Dk0Lt8qrhsK4xth2hj3N2AYPdGrSn8OLtt85iUVrAlvs2XdjSWyeM1V_5KScrpvxNjS88k7WdP5tjetspVioPPA8L8OZxpwnipLpp7OmVJG6C3RkPlxiOP0OLwFarZHzKVshpV_AtB_AxsICfhXN2lQ4KWv03lF3mQ3pWq47_bJ_B3fI-PEVb5DpgE83TfljQQ1z7Sa3ParzAdc3tn6cxPtKq8CU5GoXAfbRWUK2PRKNMYqO5h-9s9QZCHbYW79oCLDwRXP0OQUTCPGP2goNTPcSSpD76wnEBbIPc0V4Ju0LhvouAw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در حالی که صدا و سیما شیپور پیروزی میزنه و از موافقت آمریکا با هر ده پیش شرط جمهوری اسلامی میگه،
 سخنگوی وزارت خارجه امروز گفته : کسی نمی‌تواند ادعا بکند به توافق نزدیک شده‌ایم!</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/farahmand_alipour/5147" target="_blank">📅 14:29 · 04 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/farahmand_alipour/5147" target="_blank">📅 14:29 · 04 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5146">
@@ -897,7 +897,7 @@
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">رئیس ستاد کل ارتش اسرائیل - توی این مایه‌ها -  گفته: «در پاسخ به هر حمله پهپادی انفجاری حزب‌الله، باید یکی از برج‌های بیروت رو هدف قرار بدیم.»
 حملات حزب‌الله به اسرائیل رو یا دولت لبنان باید متوقف کنه، یا اسرائیل.</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/farahmand_alipour/5144" target="_blank">📅 13:41 · 04 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/farahmand_alipour/5144" target="_blank">📅 13:41 · 04 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5143">
@@ -1015,7 +1015,7 @@ T.me/irdamavand</div>
 به گفته دو منبع آگاه، ایران از طریق میانجی‌ها به‌صورت شفاهی به آمریکا درباره میزان امتیازاتی که حاضر است در زمینه تعلیق غنی‌سازی و واگذاری مواد هسته‌ای بدهد، تعهداتی ارائه کرده است.
 - ببینیم چی میشه. بعید می‌دونم جمهوری اسلامی اورانیوم غنی سازی شدهاش رو تحویل بده،
 خبر هم میگه ج‌ا به یک میانجی (پاکستان / قطر) شفاهی گفته!</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/farahmand_alipour/5135" target="_blank">📅 07:35 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/farahmand_alipour/5135" target="_blank">📅 07:35 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5134">
@@ -1035,7 +1035,7 @@ T.me/irdamavand</div>
 به‌طور جداگانه، من همچنین با نخست‌وزیر اسرائیل،بی‌بی نتانیاهو، تماس داشتم که آن هم به همان اندازه بسیار خوب پیش رفت.
 در حال حاضر، جنبه‌ها و جزئیات نهایی این توافق در حال بررسی و گفت‌وگو است و به‌زودی اعلام خواهد شد.
 علاوه بر بسیاری از بندهای دیگر توافق، تنگه هرمز نیز باز خواهد شد.»</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/farahmand_alipour/5134" target="_blank">📅 00:31 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/farahmand_alipour/5134" target="_blank">📅 00:31 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5133">
@@ -1089,7 +1089,7 @@ T.me/irdamavand</div>
 الجزایر سال ۱۹۵۲  (۷۴ سال پیش
 مناطق اروپایی نشین
 و مناطق مسلمان نشین</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/farahmand_alipour/5127" target="_blank">📅 19:52 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/farahmand_alipour/5127" target="_blank">📅 19:52 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5126">
@@ -1143,7 +1143,7 @@ T.me/irdamavand</div>
 <div class="tg-post" id="msg-5121">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">به خاطر ارسال ویدئو ۲۷ سال زندان!    مجازات پدر «رومینا اشرفی» ۱۴ ساله، که با داس سر دخترش رو برید: ۹ سال زندان   حکومت اسلامی! عدالت علوی!</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/farahmand_alipour/5121" target="_blank">📅 13:23 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/farahmand_alipour/5121" target="_blank">📅 13:23 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5120">
@@ -1153,7 +1153,7 @@ T.me/irdamavand</div>
 مجازات پدر «رومینا اشرفی» ۱۴ ساله، که با داس سر دخترش رو برید:
 ۹ سال زندان
 حکومت اسلامی! عدالت علوی!</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/farahmand_alipour/5120" target="_blank">📅 13:20 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/farahmand_alipour/5120" target="_blank">📅 13:20 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5119">
@@ -1280,7 +1280,7 @@ T.me/irdamavand</div>
 <div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CDsuvI_9q31wXr-hC7mTJxRQq4DFm5vukKhz15hnir1Xk2gdAZDnqliz7WclfoBXuRCd4k4Hsx2yHbQIG7WnYZzFU10X6nHUr3QHjflBDdb0pQ-7WygPPLOTqW27JOgdyqEGDvHxAhqEqQsuF5-orGPQqdozSXJ98PdcEfCirxflwleGQebiFWv7d__oMf61p86xxrNpfHPbsCf7IYGnQMij8mFh6vApVNQ2ekh9VnldYSmr8iJEO2cYOtdjot_tULmVulqvVeDDJqsnERVRRm9_AX8j2z-7cpVWnJkJVTqjh-SQbA-v8f7AmtWhR4gSN8FfWc3UjglUT7HRiRNVjg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جلال آل احمد، در سال ۱۳۴۱ کتابی منتشر کرد به نام «غرب زدگی» که تاثیرات بسیار زیادی روی نسلی از ایرانیان گذاشت!  جلال آل احمد با اینکه خود مقید دین و مذهب نبود،  اما فقط به علت دشمنی با غرب  در این کتاب می‌نویسه :« مسجد و محراب و حوزه، از آخرین سنگرهای استقلال…</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/5109" target="_blank">📅 18:39 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/farahmand_alipour/5109" target="_blank">📅 18:39 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5108">
