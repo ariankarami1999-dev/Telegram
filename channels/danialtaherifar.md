@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-10 02:20:11</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-10 03:24:19</div>
 <hr>
 
 <div class="tg-post" id="msg-932">
@@ -361,7 +361,7 @@
 
 <div class="tg-post" id="msg-924">
 <div class="tg-post-header">📌 پیام #92</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NmHlLJGGUcFtiM3rIxIyngW7XNAYmat7tl4y9RhMuItqn7WlLf3xhufhl_BvEmOJMUw1d4qa1lln7M8GKlLJy4JssamUBXtpk7r2fJdzTUdYbFsrIWx0193sGIywv6GHoGAlNspVEXjvJpyAIFpkDUBBtdqaY6GSyP8-DQvfoAKN8101IU2rh1xpxb_krWLGQ2D8nsX3ptEL_kbCPVARMS41O_HlnxU0CqXCunUm0ClqdzugnXTJxqSpWlkDQv0CUs5A8Ur-2h7pc6g7g2C5RRWhbw4_SBVSe0ZRIO2e3nduWG0EkYBkvxdYzBlHsRFDGE4g3IFyIBaeUtNrKmnrTA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qAU8POccBEhX8KvqYRlO56zTp2dL-1-JUVNC0FyupF_VpMYGG9x2xt7wIabXh8GRQMvgT_34tniCDB6Qvma5ljxD83VjRpHvczvO5XFw3IO6whD5hBZxZhkeVqyTDaxmix5tKKjMQc29EaTi8W9A1qI6UMgHGA7kjGHNpudkkY5Pn79cWkHB9XA4ZHRHJSp6_Y6P0A338BF5vwehjgwDiNKrz5tZyo9tjpIUEExj3h81vzKLJZ9gzYXp4_2yKiTzR3X1CU3VUZ_Hx0a-Ux6r3LifsfR5FAJVUXkCg5Ly917IIE6MbTs57JdOSvI5EjhpofK4IntvwJZ21uaY8amwiQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبدیل ضربان قلب کسب‌وکارهای اینترنتی به یک «خط صاف» صفر...
 💔
 ما کسانی هستیم که زندگی‌مان، تخصص‌مان و آرزوهایمان به این «ریسمان نازک» وصل بود.
