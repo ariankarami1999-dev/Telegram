@@ -292,7 +292,7 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 01:00:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 02:21:55</div>
 <hr>
 
 <div class="tg-post" id="msg-90592">
@@ -316,7 +316,7 @@
 ورود به ربات و مشاهده :
 👉
 @AtlasSmartBot</div>
-<div class="tg-footer">👁️ 2.64K · <a href="https://t.me/Futball180TV/90592" target="_blank">📅 00:05 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.74K · <a href="https://t.me/Futball180TV/90592" target="_blank">📅 00:05 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90591">
@@ -336,7 +336,7 @@
 💵
 💳
 پرداخت مستقیم و سریع بدون واسطه، بدون دردسر،…</div>
-<div class="tg-footer">👁️ 2.85K · <a href="https://t.me/Futball180TV/90591" target="_blank">📅 00:01 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/Futball180TV/90591" target="_blank">📅 00:01 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90590">
@@ -369,7 +369,7 @@ Winro.io
 a10
 📱
 @winro_io</div>
-<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/Futball180TV/90590" target="_blank">📅 00:01 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.83K · <a href="https://t.me/Futball180TV/90590" target="_blank">📅 00:01 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90589">
@@ -380,7 +380,7 @@ a10
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/Futball180TV/90589" target="_blank">📅 23:29 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/Futball180TV/90589" target="_blank">📅 23:29 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90588">
@@ -393,7 +393,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.07K · <a href="https://t.me/Futball180TV/90588" target="_blank">📅 23:13 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.84K · <a href="https://t.me/Futball180TV/90588" target="_blank">📅 23:13 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90586">
@@ -407,7 +407,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.35K · <a href="https://t.me/Futball180TV/90586" target="_blank">📅 22:53 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.05K · <a href="https://t.me/Futball180TV/90586" target="_blank">📅 22:53 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90585">
@@ -421,7 +421,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.52K · <a href="https://t.me/Futball180TV/90585" target="_blank">📅 22:14 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.07K · <a href="https://t.me/Futball180TV/90585" target="_blank">📅 22:14 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90584">
@@ -502,7 +502,7 @@ BetForward.com
 BetForward.com
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 8.33K · <a href="https://t.me/Futball180TV/90584" target="_blank">📅 22:14 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/Futball180TV/90584" target="_blank">📅 22:14 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90582">
@@ -520,7 +520,7 @@ BetForward.com
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.98K · <a href="https://t.me/Futball180TV/90582" target="_blank">📅 21:17 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.47K · <a href="https://t.me/Futball180TV/90582" target="_blank">📅 21:17 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90581">
@@ -531,7 +531,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/Futball180TV/90581" target="_blank">📅 21:05 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.64K · <a href="https://t.me/Futball180TV/90581" target="_blank">📅 21:05 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90580">
@@ -549,7 +549,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/Futball180TV/90580" target="_blank">📅 20:33 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/Futball180TV/90580" target="_blank">📅 20:33 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90579">
@@ -569,7 +569,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.39K · <a href="https://t.me/Futball180TV/90579" target="_blank">📅 20:10 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.75K · <a href="https://t.me/Futball180TV/90579" target="_blank">📅 20:10 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90578">
@@ -582,7 +582,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/Futball180TV/90578" target="_blank">📅 20:00 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/Futball180TV/90578" target="_blank">📅 20:00 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90575">
@@ -595,7 +595,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.3K · <a href="https://t.me/Futball180TV/90575" target="_blank">📅 19:50 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/Futball180TV/90575" target="_blank">📅 19:50 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90574">
@@ -609,7 +609,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/Futball180TV/90574" target="_blank">📅 19:32 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.55K · <a href="https://t.me/Futball180TV/90574" target="_blank">📅 19:32 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90573">
@@ -621,7 +621,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/Futball180TV/90573" target="_blank">📅 19:26 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.46K · <a href="https://t.me/Futball180TV/90573" target="_blank">📅 19:26 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90572">
@@ -645,7 +645,7 @@ Channel:
 Winro.io
 🌐
 Winro.io  کانال بونوس…</div>
-<div class="tg-footer">👁️ 8.65K · <a href="https://t.me/Futball180TV/90572" target="_blank">📅 19:26 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/Futball180TV/90572" target="_blank">📅 19:26 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90571">
@@ -678,7 +678,7 @@ Winro.io
 g10
 📱
 @winro_io</div>
-<div class="tg-footer">👁️ 8.92K · <a href="https://t.me/Futball180TV/90571" target="_blank">📅 19:26 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.22K · <a href="https://t.me/Futball180TV/90571" target="_blank">📅 19:26 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90570">
@@ -692,7 +692,7 @@ g10
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.93K · <a href="https://t.me/Futball180TV/90570" target="_blank">📅 19:13 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/Futball180TV/90570" target="_blank">📅 19:13 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90569">
@@ -702,7 +702,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.84K · <a href="https://t.me/Futball180TV/90569" target="_blank">📅 19:11 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/Futball180TV/90569" target="_blank">📅 19:11 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90568">
@@ -713,7 +713,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.12K · <a href="https://t.me/Futball180TV/90568" target="_blank">📅 19:05 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.39K · <a href="https://t.me/Futball180TV/90568" target="_blank">📅 19:05 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90566">
@@ -725,7 +725,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.46K · <a href="https://t.me/Futball180TV/90566" target="_blank">📅 18:22 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.7K · <a href="https://t.me/Futball180TV/90566" target="_blank">📅 18:22 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90565">
@@ -744,7 +744,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/Futball180TV/90565" target="_blank">📅 17:35 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.94K · <a href="https://t.me/Futball180TV/90565" target="_blank">📅 17:35 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90564">
@@ -766,7 +766,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/Futball180TV/90564" target="_blank">📅 17:13 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/Futball180TV/90564" target="_blank">📅 17:13 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90563">
@@ -783,7 +783,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/Futball180TV/90563" target="_blank">📅 17:06 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/Futball180TV/90563" target="_blank">📅 17:06 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90562">
@@ -805,7 +805,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/Futball180TV/90562" target="_blank">📅 16:01 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/Futball180TV/90562" target="_blank">📅 16:01 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90561">
@@ -819,7 +819,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/Futball180TV/90561" target="_blank">📅 14:40 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/90561" target="_blank">📅 14:40 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90560">
@@ -832,7 +832,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/Futball180TV/90560" target="_blank">📅 14:20 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/90560" target="_blank">📅 14:20 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90559">
@@ -844,7 +844,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/Futball180TV/90559" target="_blank">📅 14:18 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/Futball180TV/90559" target="_blank">📅 14:18 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90558">
@@ -857,7 +857,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/Futball180TV/90558" target="_blank">📅 14:03 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/90558" target="_blank">📅 14:03 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90557">
@@ -870,7 +870,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/90557" target="_blank">📅 13:45 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/Futball180TV/90557" target="_blank">📅 13:45 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90556">
@@ -882,7 +882,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/Futball180TV/90556" target="_blank">📅 13:40 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/Futball180TV/90556" target="_blank">📅 13:40 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90555">
@@ -893,7 +893,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/Futball180TV/90555" target="_blank">📅 13:21 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/Futball180TV/90555" target="_blank">📅 13:21 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90554">
@@ -915,7 +915,7 @@ Channel:
 Winro.io
 🌐
 Winro.io…</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/Futball180TV/90554" target="_blank">📅 13:21 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/Futball180TV/90554" target="_blank">📅 13:21 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90553">
@@ -944,7 +944,7 @@ Winro.io
 r10
 📱
 @winro_io</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/Futball180TV/90553" target="_blank">📅 13:21 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/90553" target="_blank">📅 13:21 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90551">
@@ -963,7 +963,7 @@ r10
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/Futball180TV/90551" target="_blank">📅 13:08 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/Futball180TV/90551" target="_blank">📅 13:08 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90550">
@@ -978,7 +978,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/Futball180TV/90550" target="_blank">📅 13:03 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/Futball180TV/90550" target="_blank">📅 13:03 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90549">
@@ -989,7 +989,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/90549" target="_blank">📅 12:40 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/Futball180TV/90549" target="_blank">📅 12:40 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90547">
@@ -1008,7 +1008,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/Futball180TV/90547" target="_blank">📅 12:20 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/Futball180TV/90547" target="_blank">📅 12:20 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90546">
@@ -1019,7 +1019,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/Futball180TV/90546" target="_blank">📅 12:04 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/Futball180TV/90546" target="_blank">📅 12:04 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90545">
@@ -1033,7 +1033,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/Futball180TV/90545" target="_blank">📅 11:53 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/Futball180TV/90545" target="_blank">📅 11:53 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90544">
@@ -1052,7 +1052,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/Futball180TV/90544" target="_blank">📅 11:40 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/Futball180TV/90544" target="_blank">📅 11:40 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90543">
@@ -1063,7 +1063,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/Futball180TV/90543" target="_blank">📅 11:20 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/Futball180TV/90543" target="_blank">📅 11:20 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90542">
@@ -1084,7 +1084,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/Futball180TV/90542" target="_blank">📅 11:03 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/Futball180TV/90542" target="_blank">📅 11:03 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90541">
@@ -1102,7 +1102,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/Futball180TV/90541" target="_blank">📅 10:41 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/Futball180TV/90541" target="_blank">📅 10:41 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90540">
@@ -1121,7 +1121,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/Futball180TV/90540" target="_blank">📅 10:15 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/Futball180TV/90540" target="_blank">📅 10:15 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90539">
@@ -1134,7 +1134,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/Futball180TV/90539" target="_blank">📅 10:06 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/Futball180TV/90539" target="_blank">📅 10:06 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90538">
@@ -1153,7 +1153,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/Futball180TV/90538" target="_blank">📅 10:02 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/Futball180TV/90538" target="_blank">📅 10:02 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90537">
@@ -1164,7 +1164,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/Futball180TV/90537" target="_blank">📅 09:35 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/Futball180TV/90537" target="_blank">📅 09:35 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90536">
@@ -1182,7 +1182,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/Futball180TV/90536" target="_blank">📅 09:20 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/Futball180TV/90536" target="_blank">📅 09:20 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90535">
@@ -1200,7 +1200,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/Futball180TV/90535" target="_blank">📅 08:55 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/Futball180TV/90535" target="_blank">📅 08:55 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90534">
@@ -1218,7 +1218,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/90534" target="_blank">📅 08:38 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/Futball180TV/90534" target="_blank">📅 08:38 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90533">
@@ -1238,7 +1238,7 @@ Channel:
 
 <div class="tg-post" id="msg-90532">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UiXklXdLj0e4THvjj_OIz_7YBNAaQ1WeV6dnf7XCI8oQ1Xk5yOaPE0HMFhaPAggzrfU6W6hTnKLGPvnPn1bmKb_wnaQX4txqlr6Mp-dAJLGPsod8x8elKwkzrloIbuBNgr4WJWiKtQmE3-betw4QC6aiPemJsgBmAsg3uCwWk1t_RMPPQvqLUBemsk4e1WfGstbliPc6SVYtXCvxSJx2_Gw1Iudytlo0gFQRRwJl5ZOcD42JmKVS7Vl4GDZ-_cI_aQFewVLWxR0xVtX2x7SyUSJ4kLSPN7RYfRs_Y4Xoyv1CrtGFtf1vh2XxZ2r01rOJ_WCICmc5ryEYZa4LMy4qdQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Pvkc6I-_xLw_Pr_5FBH3UQ-sB65oL9pBcT3Zxz4G_iid0Ig66pW9o-niOIzpFHKdbPB4C3JcmlPJJAfo4ZWkwoAtEeTiVVU3UjshGacetxCl8xXf4rTaIpUG8rfSIfB7MKo4GuKLm-32-YonlRo4HTuL5SPfhbetfr7WzdfxBtBAEtwKFnLc1W0U8TsEmZVyUInLphgc-JCNcT82wn7vkqLt1-DJrU7Y-7jiWfDKmHxzzD1VMRDpFx1BIl4K7Xi2940F9c8qgukVWWPferG8QPp8cYuwKOpywOOw6jUz-SCSdtCPP6gtfWWNCFjVgfnueZkGTNjh92Z86cjHiKVPFQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💡
 میخوای یاد بگیری چطوری با همین گوشی تو دستت از پیش بینی فوتبال سود کنی؟ سیگنال ضریب بالا و کم ریسک میخوای؟ فرصتو از دست نده همین الان عضو کانال VIP
 یونی بت
@@ -1324,7 +1324,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/90527" target="_blank">📅 00:22 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/Futball180TV/90527" target="_blank">📅 00:22 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90525">
@@ -1336,7 +1336,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/Futball180TV/90525" target="_blank">📅 23:52 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/Futball180TV/90525" target="_blank">📅 23:52 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90524">
@@ -1473,7 +1473,7 @@ Channel:
 <div class="tg-post" id="msg-90513">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">گابریلللل زد بیرونننننن</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/Futball180TV/90513" target="_blank">📅 22:30 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/Futball180TV/90513" target="_blank">📅 22:30 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90512">
@@ -1503,7 +1503,7 @@ Channel:
 <div class="tg-post" id="msg-90508">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">عجیبه صداسیما تاخیری نداره</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/Futball180TV/90508" target="_blank">📅 22:28 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/Futball180TV/90508" target="_blank">📅 22:28 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90507">
@@ -1515,7 +1515,7 @@ Channel:
 <div class="tg-post" id="msg-90506">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">گلگلگل رایس زددد</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/Futball180TV/90506" target="_blank">📅 22:26 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/Futball180TV/90506" target="_blank">📅 22:26 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90505">
@@ -1539,7 +1539,7 @@ Channel:
 <div class="tg-post" id="msg-90502">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">دوئه گلگل</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/90502" target="_blank">📅 22:23 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/Futball180TV/90502" target="_blank">📅 22:23 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90501">
@@ -1551,7 +1551,7 @@ Channel:
 <div class="tg-post" id="msg-90500">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">راموس اولی رو گل کرد</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/90500" target="_blank">📅 22:22 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/Futball180TV/90500" target="_blank">📅 22:22 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90499">
@@ -1620,7 +1620,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.73K · <a href="https://t.me/Futball180TV/90495" target="_blank">📅 21:57 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.76K · <a href="https://t.me/Futball180TV/90495" target="_blank">📅 21:57 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90494">
@@ -1693,7 +1693,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.58K · <a href="https://t.me/Futball180TV/90488" target="_blank">📅 19:59 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/Futball180TV/90488" target="_blank">📅 19:59 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90487">
@@ -1734,7 +1734,7 @@ https://t.me/+aCbq7yy8QY80NzQ0</div>
 <div class="tg-post" id="msg-90486">
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from.</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lovptwL_vFbws4XRgIfJ_WsZpBbYnIsuRJgD8XlzLhiV_LJMk2udrB4QhJ2nakG9MzEhVHDitaDhn-RFKdJn1hoXKjLEWJxwic2mlXiIykGvhMtgN-f4LOTHCxl9fKCVEg7mXTIwGVY22Q2q1rs4kLau-vfjpjrxOcOV3JyP_oJ59anIIM90qIbnSbjoJub1P8L_8g6tPnTy1CkG3_0_dvxVHn2LFFW_46ikzSC0VglA_3CsvC372zhe2a_fxQRxHKvsjNQVPH8LiYFNxa9PGSE0Gi3FZrwR8XKs1x7prrE6EjwV1Okf4naICMNzG4l3jWPRB9xegpUPd8GR9Dh4nQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YU-yIlnnrJ6ZFWY5BMiNPkWp2U_mbrdIuWndPnwKheyUnAtptxhHlSo2_iiSPs5fNvVoA1s0Gc6xaIyYBGAvVrBBY5AmEOU9KGv5s4IMIXRbnx1vjx_594KEBJOuQ88ti8talIqupeSU0Coenxd1HPbvahwssz7k0IgGL3LUr17v5m0vMsO10gKgF2sMKN47K59zgfKRS89dCwqyWcehFSMgLlzpBnPyhoT3DPRqus-JvpX57xRvcQFLfW01P-_0Na_uPa7PP4shMTKLV39b5DXr2qwwmaJ5aBZ91CmDfRdyS7mIyxCt2Pdn35D95AKLgqUNZ4BmbJc1ov-n_g_qlQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">😤
 دنبال یه سایت شرط بندی بین المللی بودی که به ایرانیا خدمات بده؟!
 ⛔
@@ -1764,7 +1764,7 @@ GG007
 کانال دربی بت G9:
 🪙
 https://t.me/+aCbq7yy8QY80NzQ0</div>
-<div class="tg-footer">👁️ 8.61K · <a href="https://t.me/Futball180TV/90486" target="_blank">📅 19:58 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.64K · <a href="https://t.me/Futball180TV/90486" target="_blank">📅 19:58 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90485">
@@ -1775,7 +1775,7 @@ https://t.me/+aCbq7yy8QY80NzQ0</div>
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.07K · <a href="https://t.me/Futball180TV/90485" target="_blank">📅 19:55 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/Futball180TV/90485" target="_blank">📅 19:55 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90484">
@@ -1793,7 +1793,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/Futball180TV/90484" target="_blank">📅 19:40 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.75K · <a href="https://t.me/Futball180TV/90484" target="_blank">📅 19:40 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90483">
@@ -1803,7 +1803,7 @@ Channel:
 🔥
 🔥
 🔥</div>
-<div class="tg-footer">👁️ 9.71K · <a href="https://t.me/Futball180TV/90483" target="_blank">📅 19:37 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/Futball180TV/90483" target="_blank">📅 19:37 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90482">
@@ -1815,13 +1815,13 @@ Channel:
 🔥
 🔥
 🔥</div>
-<div class="tg-footer">👁️ 9.77K · <a href="https://t.me/Futball180TV/90482" target="_blank">📅 19:37 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/Futball180TV/90482" target="_blank">📅 19:37 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90481">
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">گلگلگللگگلگلگلگلگلگل اوپوپوپوووللللل</div>
-<div class="tg-footer">👁️ 9.9K · <a href="https://t.me/Futball180TV/90481" target="_blank">📅 19:37 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/Futball180TV/90481" target="_blank">📅 19:37 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90480">
