@@ -292,15 +292,8 @@
 <a href="https://t.me/tahlilgar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 در این کانال عضو باشید تا درصورت تغییر لینک کانال اصلی لینک جدید اطلاع رسانی شود.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-10 10:21:56</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-10 13:13:25</div>
 <hr>
-
-<div class="tg-post" id="msg-376">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">ورود به کانال آقای تحلیلگر
-pinned Deleted message</div>
-<div class="tg-footer"><a href="https://t.me/AghayeTahlilgar/376" target="_blank">📅 12:02 · 29 Esfand 1404</a></div>
-</div>
 
 <div class="tg-post" id="msg-352">
 <div class="tg-post-header">📌 پیام #2</div>
