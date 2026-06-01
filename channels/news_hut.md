@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/TpWO_3R1vur3Yz5hUGcKB9A6Jojr64b5B7XB9vE5X7A1xqLOxCRlj3fd8Jnvk1YdWwjKIuSVLndlctfbCVSn4ZZ82072sUvzqHvZ18q36aZ12qgG05QvD84pK2wNZBIK2GeRThArbIbyPDwznQ93MRW9696ElbdVQklxdHZm1zQMZG8Af_E5Q2t71aChRAxtEMqX_4Poj94zxaTRkWdtHahdqirKC51lH3-e6NSUPs8enyy5HDm-DJ6f1rytDq9Xp3R3rHTaupjXxa6gQX60ZvhaVzbrYkBp9TN7Ec9wx0SoHem5LjhjQZUSGWdNxBLfbiq-VHXqJyMB1qinlayY8w.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 هات نیوز | HotNews</h1>
-<p>@news_hut • 👥 177K عضو</p>
+<p>@news_hut • 👥 178K عضو</p>
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 02:21:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 03:28:51</div>
 <hr>
 
 <div class="tg-post" id="msg-65202">
@@ -316,7 +316,7 @@
 ورود به ربات و مشاهده :
 👉
 @AtlasSmartBot</div>
-<div class="tg-footer">👁️ 8.05K · <a href="https://t.me/news_hut/65202" target="_blank">📅 00:07 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.79K · <a href="https://t.me/news_hut/65202" target="_blank">📅 00:07 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65201">
@@ -336,7 +336,7 @@
 💵
 💳
 پرداخت مستقیم و سریع بدون واسطه، بدون دردسر،…</div>
-<div class="tg-footer">👁️ 8.83K · <a href="https://t.me/news_hut/65201" target="_blank">📅 00:01 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.53K · <a href="https://t.me/news_hut/65201" target="_blank">📅 00:01 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65200">
@@ -369,14 +369,14 @@ Winro.io
 a10
 📱
 @winro_io</div>
-<div class="tg-footer">👁️ 8.72K · <a href="https://t.me/news_hut/65200" target="_blank">📅 00:01 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.42K · <a href="https://t.me/news_hut/65200" target="_blank">📅 00:01 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65199">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">بر اساس تحلیل تصاویر ماهواره‌ای CNN، ایران ۵۰ ورودی از ۶۹ تونل موشکی زیرزمینی هدف‌گرفته‌شده توسط آمریکا و اسرائیل را دوباره بازگشایی کرده است؛ در ۱۸ سایت زیرزمینی، عملیات خاک‌برداری و پاکسازی برای بازگرداندن دسترسی دیده شده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/news_hut/65199" target="_blank">📅 23:53 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/news_hut/65199" target="_blank">📅 23:53 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65198">
@@ -457,7 +457,7 @@ BetForward.com
 BetForward.com
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/news_hut/65198" target="_blank">📅 23:50 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/news_hut/65198" target="_blank">📅 23:50 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65197">
@@ -465,7 +465,7 @@ BetForward.com
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PmkPjX4rJ_XOZHYxysSPUn8udhU_MHZd8d1ZOWTV4CjueZQZwisT6aTSILSACk_Vl4pN2T1HiBukcgbrVmB6aqoSTdbLk6A8IdkJXVlqjmeTFR1Qoa9hrnbm-4J60KfU0CXFLrWGDZ78GRGC4PmvrboGRGFy_HZRUdCgwWUEPs1yyhWjV2_rza809oVSfmXzMK1JEiqnTyqIjUqWV42lCmD1qZyGgZKlYrEiq0XZUkCtN3QQR2pOgOgNmfYf5yO8T2TIVYg_IRuY9DdZGMdfZk3oI9BTAoRB8AhBo66vqSPExj2iRGwcnOhjyYIpHP4ulSvarmSH-G27nWEBr25HFA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طباطبایی، معاون پزشکیان: رئیس‌جمهور ‎از خدمت به مردم عقب نخواهد نشست
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/news_hut/65197" target="_blank">📅 23:04 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/news_hut/65197" target="_blank">📅 23:04 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65196">
@@ -473,14 +473,14 @@ BetForward.com
 <div class="tg-text">با کانفیگ v2ray پینگ ۱۰۰ هم نیم ساعته یک تصویر در حال آپلود شدنه، این چه وضعشه؟
 من تو دوره‌ی جنگ بهتر وصل بودم، شماها چطوری میاین تلگرام دایرکت بگید
 #hjAly‌</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/news_hut/65196" target="_blank">📅 22:38 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/news_hut/65196" target="_blank">📅 22:38 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65195">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">طبق گزارش The Jerusalem Post، ایران ادعا می‌کند پس از بیرون کشیدن/مرمت تونل‌هایی که در جریان حملات آسیب دیده بودند، آمادگی شلیک موشک‌ها در سطح منطقه را دارد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/news_hut/65195" target="_blank">📅 22:21 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/65195" target="_blank">📅 22:21 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65193">
@@ -504,7 +504,7 @@ BetForward.com
 Winro.io
 🌐
 Winro.io  کانال بونوس…</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/news_hut/65193" target="_blank">📅 22:17 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/65193" target="_blank">📅 22:17 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65192">
@@ -537,7 +537,7 @@ Winro.io
 g10
 📱
 @winro_io</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/news_hut/65192" target="_blank">📅 22:17 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/65192" target="_blank">📅 22:17 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65191">
@@ -545,7 +545,7 @@ g10
 <div class="tg-text">🚨
 📰
 #مهم؛ ایران اینترنشنال: پزشکیان از سمت ریاست جمهوری استعفا داد  @News_Hut</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/65191" target="_blank">📅 21:18 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/65191" target="_blank">📅 21:18 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65190">
@@ -556,7 +556,7 @@ g10
 #مهم
 ؛ ایران اینترنشنال: پزشکیان از سمت ریاست جمهوری استعفا داد
 @News_Hut</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/65190" target="_blank">📅 21:16 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/65190" target="_blank">📅 21:16 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65186">
@@ -575,7 +575,7 @@ g10
 <div class="tg-text">🇮🇱
 اسرائیل رسما داره حزب الله رو تو جنوب لبنان به شکل خایه‌فنگ‌طوری با خاک و خون یکی میکنه
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/news_hut/65186" target="_blank">📅 18:48 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/65186" target="_blank">📅 18:48 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65185">
@@ -584,7 +584,7 @@ g10
 <div class="tg-text">‼️
 لیست قیمت جدید خودرو های مدیران خودرو با ۸۵ تا ۱۰۰ درصد افزایش قیمت
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/news_hut/65185" target="_blank">📅 15:00 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/news_hut/65185" target="_blank">📅 15:00 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65184">
@@ -592,7 +592,7 @@ g10
 <div class="tg-text">🚨
 گزارش شنیده شدن صدای توافق‌های عمل نکرده در جزیره قشم
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/65184" target="_blank">📅 14:45 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/news_hut/65184" target="_blank">📅 14:45 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65183">
@@ -609,7 +609,7 @@ g10
 شما یه پیروزی بزرگ توی یه نبرد به دست میارید
 ولی اونا میگن شکست خوردید! این واقعاً چیز بدیه برای کشور ما
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/65183" target="_blank">📅 14:21 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/65183" target="_blank">📅 14:21 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65182">
@@ -617,7 +617,7 @@ g10
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ke-y9qVTSEgTdMHJxHMSXpyJqlvgpxGIwFzp68VfgGeH3tbpe07GE9g0Z5ZXDN3ezJ-Zsevzsm6FNhEYQoHtFGkrHRLfy5OKQx5_FPW6oxUGjroiazr6kY4ll5f5tS9_Qx-fCthjHA-GmiWbsF2uUQ5Xe1PW5VglL79Jsi9mfgG_sHZCgqVG7Zvgowd4WoBhzGfhTwNyLUi3wyTT_oDZ5RcKNwTs9b0PpattdaNRKChMqZxPsJnGiihCAqP_UyeAmr-H-H7dtZn8LfIRvmX89mTeuiK7D1s--XBmtilhRyvMZ7l5wb44ZsZrZ7NK51lg6Vx07LBP1J2yRrLbeMjiYQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تردد خودروهای پلاک مناطق آزاد  تا اطلاع ثانوی تو سراسر کشور مجاز شد
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/news_hut/65182" target="_blank">📅 12:54 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/news_hut/65182" target="_blank">📅 12:54 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65181">
@@ -639,7 +639,7 @@ g10
 Winro.io
 🌐
 Winro.io…</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/news_hut/65181" target="_blank">📅 12:54 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/news_hut/65181" target="_blank">📅 12:54 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65180">
@@ -668,7 +668,7 @@ Winro.io
 r10
 📱
 @winro_io</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/65180" target="_blank">📅 12:54 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/news_hut/65180" target="_blank">📅 12:54 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65179">
@@ -683,7 +683,7 @@ r10
 <div class="tg-text">🇺🇸
 ترامپ: اگر عجله کنید، توافق خوبی نخواهید بست. اما به آرامی و پیوسته، فکر می‌کنم داریم به آنچه می‌خواهیم می‌رسیم — و اگر به آنچه می‌خواهیم نرسیم، به روش دیگری به آن پایان خواهیم داد
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/news_hut/65179" target="_blank">📅 11:12 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/news_hut/65179" target="_blank">📅 11:12 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65178">
@@ -697,7 +697,7 @@ r10
 </div>
 <div class="tg-text">سردار حسین علایی: ۳ روز قبل‌ از جنگ رمضان‌ به آقای شمخانی گفتم آمریکا و اسرائیل با ترور رهبری جنگ را آغاز می‌کنند، آقای شمخانی گفت «نمی‌توانند، پيدايش نخواهند کرد.»
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/news_hut/65178" target="_blank">📅 09:40 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/news_hut/65178" target="_blank">📅 09:40 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65177">
@@ -711,7 +711,7 @@ r10
 </div>
 <div class="tg-text">تو تجمعات شبانه حکومتی‌ها، دیشب سپاه یه قایق تندرو آورد وسط میدون و از نسل جدید قایق تندرو که ساختن رونمایی کرد
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/news_hut/65177" target="_blank">📅 08:21 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/news_hut/65177" target="_blank">📅 08:21 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65176">
@@ -726,7 +726,7 @@ r10
 ➖
 🎁
 کسب درامد از پیش بینی فوتبال راحته اگ این کانال داشته باشی چون کارش بلده ae9: https:/…</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/news_hut/65176" target="_blank">📅 00:58 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/news_hut/65176" target="_blank">📅 00:58 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65175">
@@ -746,7 +746,7 @@ r10
 کسب درامد از پیش بینی فوتبال راحته اگ این کانال داشته باشی چون کارش بلده ae9:
 https://t.me/+YwYFluMQ5-kyNmY8
 https://t.me/+YwYFluMQ5-kyNmY8</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/news_hut/65175" target="_blank">📅 00:58 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/news_hut/65175" target="_blank">📅 00:58 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65173">
@@ -757,7 +757,7 @@ https://t.me/+YwYFluMQ5-kyNmY8</div>
 </div>
 <div class="tg-text">پست های رندوم ترامپ دلقک تو تروث سوشال!!
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/news_hut/65173" target="_blank">📅 00:05 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/news_hut/65173" target="_blank">📅 00:05 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65172">
@@ -773,7 +773,7 @@ https://t.me/+YwYFluMQ5-kyNmY8</div>
 خوب این ۳ نفر همینجا تو کشورن برین خودشون بزنین
 🤡
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/news_hut/65172" target="_blank">📅 23:32 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/news_hut/65172" target="_blank">📅 23:32 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65171">
@@ -843,7 +843,7 @@ BetForward.com
 BetForward.com
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/news_hut/65171" target="_blank">📅 23:31 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/65171" target="_blank">📅 23:31 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65170">
@@ -858,7 +858,7 @@ BetForward.com
 <div class="tg-text">‼️
 لحظه‌ای که معاون رئیس جمهور آرژانتین نزدیک بود ترور شود، اما اسلحه در چند سانتی متر جلوی صورتش گیر کرد و زنده ماند...
 @News_Hut</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/news_hut/65170" target="_blank">📅 23:25 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/news_hut/65170" target="_blank">📅 23:25 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65169">
@@ -867,7 +867,7 @@ BetForward.com
 🔻
 بحران کم‌آبی در سیستان‌ و بلوچستان وارد مرحله نگران‌کننده‌ای شده و به گفته نماینده زاهدان در مجلس، برخی مناطق این شهر بین ۲۴ تا ۴۸ ساعت با قطعی آب روبه‌رو هستند و زاهدان هزار لیتر در ثانیه کمبود آب دارد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/news_hut/65169" target="_blank">📅 22:37 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/65169" target="_blank">📅 22:37 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65168">
@@ -938,7 +938,7 @@ GG007
 کانال دربی بت G9:
 🪙
 https://t.me/+aCbq7yy8QY80NzQ0</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/65167" target="_blank">📅 22:37 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/65167" target="_blank">📅 22:37 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65166">
@@ -954,7 +954,7 @@ https://t.me/+aCbq7yy8QY80NzQ0</div>
 🔻
 شاهزاده رضا پهلوی روز شنبه ۳۰ می در نشست «امنیت دریای سیاه» در اودسا، در جنوب اوکراین، با انتقاد از جمهوری اسلامی و سیاست‌های غرب در قبال تهران، گفت که «دنیای آزاد هنوز متوجه ماهیت واقعی جمهوری اسلامی نشده است.»
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/news_hut/65165" target="_blank">📅 22:24 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/news_hut/65165" target="_blank">📅 22:24 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65164">
@@ -982,7 +982,7 @@ https://t.me/+5NhkIyyAtBhmMzM1
 👌
 👆
 👆</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/news_hut/65164" target="_blank">📅 22:13 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/news_hut/65164" target="_blank">📅 22:13 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65163">
@@ -1080,7 +1080,7 @@ MelBet1.net
 Link
 🔜
 MelBet1.net</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/65159" target="_blank">📅 13:48 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/65159" target="_blank">📅 13:48 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65158">
@@ -1089,7 +1089,7 @@ MelBet1.net</div>
 <div class="tg-text">‼️
 کاخ سفید آخرین معاینه پزشکی ترامپ رو منتشر کرد؛ ترامپ ۷۹ ساله در «سلامت عالی» با عملکرد طبیعی ریه و سیستم عصبی قرار داره، و قلب‌ش۱۴ سال از سن‌ش جوون تره
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/news_hut/65158" target="_blank">📅 13:17 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/news_hut/65158" target="_blank">📅 13:17 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65157">
@@ -1097,7 +1097,7 @@ MelBet1.net</div>
 <div class="tg-text">🚨
 سازمان سنجش: کنکور ۲۹ و ۳۰ مرداد ماه برگزار میشه
 @News_Hut</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/news_hut/65157" target="_blank">📅 11:02 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/news_hut/65157" target="_blank">📅 11:02 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65155">
@@ -1116,7 +1116,7 @@ MelBet1.net</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qSUbmuDa0VTc3ABYmv3-eWyMM4YBR9F989j_r9kIFXoAiXIeiF_QYkAW9JY42BNx5iC5X8Z5sysejvbq_2QA83ArkcK0TFUOLaHZRvK6tbZ--GjsheMCHBj1GT5a4lQI766oCYlrRP9lXHXYMNjKmrVL0EoMbo0_v3StR7NTM179FWFYDS1bnkDI5MGYcLzvI7zt85yx4Ybo-9W_gUDt6FVfZiQXZ6Eita6J2j4TLIMb6cAkZnWsmFcPX8LPF6fijCpDC7eUbb8UwRontPrDASlhQ0-pRxQYyxKNSwnj5fP3AJ0DI2SzdCtjr7MJFGhVU3GS_CGmNeD0zhNTmDlTwQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد از عروسی‌ها و صیغه‌های نمادین تو تجماعت شبانه حکومتیا یه پسر ۱۷ ساله با یه دختر ۱۶ ساله تو تجمعات عروسی کردن
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/news_hut/65154" target="_blank">📅 08:39 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/news_hut/65154" target="_blank">📅 08:39 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65153">
@@ -1137,7 +1137,7 @@ Winro.io
 Winro.io
 📱
 کانال…</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/news_hut/65153" target="_blank">📅 00:58 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/news_hut/65153" target="_blank">📅 00:58 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65152">
@@ -1278,7 +1278,7 @@ BetForward.com
 <div class="tg-text">🚨
 گزارش فعالیت پدافند قشم
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/news_hut/65147" target="_blank">📅 21:38 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/news_hut/65147" target="_blank">📅 21:38 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65146">
@@ -1312,7 +1312,7 @@ BetForward.com
 پشتیبانی 24 ساعته
 🌐
 Winro.io…</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/65144" target="_blank">📅 20:39 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/news_hut/65144" target="_blank">📅 20:39 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65143">
@@ -1472,7 +1472,7 @@ Winro.io
 r8
 📱
 @winro_io</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/news_hut/65133" target="_blank">📅 12:57 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/news_hut/65133" target="_blank">📅 12:57 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65132">
@@ -1558,7 +1558,7 @@ Winro.io
 a7
 📱
 @winro_io</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/news_hut/65128" target="_blank">📅 01:15 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/news_hut/65128" target="_blank">📅 01:15 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65127">
@@ -1669,7 +1669,7 @@ BetForward.com
 Winro.io
 🌐
 Winro.io…</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/news_hut/65118" target="_blank">📅 19:05 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/65118" target="_blank">📅 19:05 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65117">
@@ -1749,7 +1749,7 @@ https://t.me/+BDjkK6j2gcQ3MGFk</div>
 فیلترینگ
 شدید مواجه‌اند، مشابه دوره موقت بین اعتراضات ژانویه و آغاز جنگ.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/news_hut/65113" target="_blank">📅 16:12 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/news_hut/65113" target="_blank">📅 16:12 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65112">

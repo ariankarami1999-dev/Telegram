@@ -292,7 +292,7 @@
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ارائه‌دهنده راهکارهای نوین شبکه، سرورهای مجازی پایدار و سرویس‌های مخصوص تلگرام  گیمرها و تریدرها.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 02:21:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 03:28:51</div>
 <hr>
 
 <div class="tg-post" id="msg-8703">
@@ -309,7 +309,7 @@
 ☄️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 125 · <a href="https://t.me/IranProxyV2/8703" target="_blank">📅 02:20 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 561 · <a href="https://t.me/IranProxyV2/8703" target="_blank">📅 02:20 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8702">
@@ -326,7 +326,7 @@
 💥
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 461 · <a href="https://t.me/IranProxyV2/8702" target="_blank">📅 02:00 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 816 · <a href="https://t.me/IranProxyV2/8702" target="_blank">📅 02:00 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8701">
@@ -343,7 +343,7 @@
 🛜
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 1.62K · <a href="https://t.me/IranProxyV2/8701" target="_blank">📅 00:44 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/IranProxyV2/8701" target="_blank">📅 00:44 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8700">
@@ -360,7 +360,7 @@
 ❤️‍🔥
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/IranProxyV2/8700" target="_blank">📅 00:44 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/IranProxyV2/8700" target="_blank">📅 00:44 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8699">
@@ -377,7 +377,7 @@
 ⚡️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 1.68K · <a href="https://t.me/IranProxyV2/8699" target="_blank">📅 00:43 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/IranProxyV2/8699" target="_blank">📅 00:43 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8698">
@@ -391,7 +391,7 @@
 ❤️
 💥
 @RUSSIAPROXYY_Bot…</div>
-<div class="tg-footer">👁️ 1.73K · <a href="https://t.me/IranProxyV2/8698" target="_blank">📅 00:41 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/IranProxyV2/8698" target="_blank">📅 00:41 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8697">
@@ -405,7 +405,7 @@
 ❤️
 💥
 @RUSSIAPROXYY_Bot…</div>
-<div class="tg-footer">👁️ 3.72K · <a href="https://t.me/IranProxyV2/8697" target="_blank">📅 22:24 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.88K · <a href="https://t.me/IranProxyV2/8697" target="_blank">📅 22:24 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8696">
@@ -422,7 +422,7 @@
 💎
 آیدی ربات جهت ثبت سفارش
 👆🏻</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/IranProxyV2/8696" target="_blank">📅 19:27 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/IranProxyV2/8696" target="_blank">📅 19:27 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8695">
@@ -434,7 +434,7 @@
 😠
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.56K · <a href="https://t.me/IranProxyV2/8695" target="_blank">📅 18:36 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/IranProxyV2/8695" target="_blank">📅 18:36 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8694">
@@ -463,7 +463,7 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/IranProxyV2/8694" target="_blank">📅 15:34 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.82K · <a href="https://t.me/IranProxyV2/8694" target="_blank">📅 15:34 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8693">
@@ -481,14 +481,14 @@
 ❤️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.76K · <a href="https://t.me/IranProxyV2/8693" target="_blank">📅 15:08 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/IranProxyV2/8693" target="_blank">📅 15:08 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8692">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">یه سوپرایز دیگ هم واستون دارم، بزودی رونمایی خواهیم کرد
 😁</div>
-<div class="tg-footer">👁️ 5.79K · <a href="https://t.me/IranProxyV2/8692" target="_blank">📅 14:10 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.85K · <a href="https://t.me/IranProxyV2/8692" target="_blank">📅 14:10 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8691">
@@ -502,7 +502,7 @@
 توجه کنید پلن های 3 گیگ، 5 گیگ، 10 گیگ، 15 گیگ و 20 گیگ تو ربات موجوده با تخفیفففف
 🍸
 دوستان دقت داشته باشین که سرویس هامون هیچ ضریبی ندارن و با ساب ارائه میشن و بصورت…</div>
-<div class="tg-footer">👁️ 5.93K · <a href="https://t.me/IranProxyV2/8691" target="_blank">📅 13:34 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.98K · <a href="https://t.me/IranProxyV2/8691" target="_blank">📅 13:34 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8690">
@@ -525,7 +525,7 @@
 📌
 دوستان دقت کنید اشتراک های که تهیه میکنید، مثل چنلای دیگه تانل نیستن، قطعی بعد دو سه روز ندارند و به همین خاطر قیمت ها متفاوته
 ، پشتیبانی تا آخرین مگ مصرفی شما انجام خواهد شد.</div>
-<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/IranProxyV2/8690" target="_blank">📅 07:38 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.47K · <a href="https://t.me/IranProxyV2/8690" target="_blank">📅 07:38 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8686">
@@ -545,7 +545,7 @@
 برای اتصال در تمام سیستم عامل ها کافیه روی کانفیگ کلیک کنید و برنامه OpenVPN را انتخاب کنید، یوزرنیم و پسورد را ست کنید و متصل شوید یا کانفیگ را سیو کنید و از داخل برنامه ایمپورت کنید.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.31K · <a href="https://t.me/IranProxyV2/8686" target="_blank">📅 01:40 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.35K · <a href="https://t.me/IranProxyV2/8686" target="_blank">📅 01:40 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8681">
@@ -562,7 +562,7 @@
 ✅
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.21K · <a href="https://t.me/IranProxyV2/8681" target="_blank">📅 00:36 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.23K · <a href="https://t.me/IranProxyV2/8681" target="_blank">📅 00:36 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8679">
@@ -584,7 +584,7 @@
 💥
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.18K · <a href="https://t.me/IranProxyV2/8679" target="_blank">📅 00:22 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.2K · <a href="https://t.me/IranProxyV2/8679" target="_blank">📅 00:22 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8678">
@@ -607,7 +607,7 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.77K · <a href="https://t.me/IranProxyV2/8678" target="_blank">📅 23:53 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.79K · <a href="https://t.me/IranProxyV2/8678" target="_blank">📅 23:53 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8677">
@@ -616,7 +616,7 @@
 اختصاص کانال
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.54K · <a href="https://t.me/IranProxyV2/8677" target="_blank">📅 22:03 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.55K · <a href="https://t.me/IranProxyV2/8677" target="_blank">📅 22:03 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8676">
@@ -635,7 +635,7 @@
 ⚡️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.96K · <a href="https://t.me/IranProxyV2/8676" target="_blank">📅 20:27 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.97K · <a href="https://t.me/IranProxyV2/8676" target="_blank">📅 20:27 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8675">
@@ -653,7 +653,7 @@
 ⚡️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.16K · <a href="https://t.me/IranProxyV2/8675" target="_blank">📅 19:32 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.17K · <a href="https://t.me/IranProxyV2/8675" target="_blank">📅 19:32 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8674">
@@ -687,7 +687,7 @@ russiaproxyy
 ⚡️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/IranProxyV2/8673" target="_blank">📅 17:50 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.74K · <a href="https://t.me/IranProxyV2/8673" target="_blank">📅 17:50 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8672">
@@ -697,7 +697,7 @@ russiaproxyy
 ⚡️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.88K · <a href="https://t.me/IranProxyV2/8672" target="_blank">📅 17:48 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.89K · <a href="https://t.me/IranProxyV2/8672" target="_blank">📅 17:48 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8671">
@@ -709,7 +709,7 @@ russiaproxyy
 ببخشید که ما ریدیم تو نت دیگه تکرار نمیشه روانی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.07K · <a href="https://t.me/IranProxyV2/8671" target="_blank">📅 17:39 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.08K · <a href="https://t.me/IranProxyV2/8671" target="_blank">📅 17:39 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8670">
@@ -720,7 +720,7 @@ vless://9ca41eeb-4b30-4271-a123-22021b1230d0@104.17.121.71:443?mode=auto&path=%2
 trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#%40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.63K · <a href="https://t.me/IranProxyV2/8670" target="_blank">📅 13:11 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.65K · <a href="https://t.me/IranProxyV2/8670" target="_blank">📅 13:11 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8669">
@@ -740,7 +740,7 @@ trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?security=tls&insecu
 |
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.77K · <a href="https://t.me/IranProxyV2/8669" target="_blank">📅 13:08 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.82K · <a href="https://t.me/IranProxyV2/8669" target="_blank">📅 13:08 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8668">
@@ -764,7 +764,7 @@ trojan://f6d3aa07a52dbcedcb4731029e2fb6ae@18.163.128.27:2663?security=tls&insecu
 ✔️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.32K · <a href="https://t.me/IranProxyV2/8668" target="_blank">📅 09:20 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.33K · <a href="https://t.me/IranProxyV2/8668" target="_blank">📅 09:20 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8667">
@@ -784,7 +784,7 @@ Fast
 💯
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.63K · <a href="https://t.me/IranProxyV2/8667" target="_blank">📅 08:40 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.65K · <a href="https://t.me/IranProxyV2/8667" target="_blank">📅 08:40 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8666">
@@ -808,7 +808,7 @@ Fast
 ✔️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.8K · <a href="https://t.me/IranProxyV2/8666" target="_blank">📅 08:03 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.81K · <a href="https://t.me/IranProxyV2/8666" target="_blank">📅 08:03 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8665">
@@ -837,7 +837,7 @@ Fast
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.44K · <a href="https://t.me/IranProxyV2/8665" target="_blank">📅 07:38 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.45K · <a href="https://t.me/IranProxyV2/8665" target="_blank">📅 07:38 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8663">
@@ -869,7 +869,7 @@ russiaproxyy
 <div class="tg-text">خطا retry داد ۴ الی ۵ بزنید روی retry وصل میشه
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 8.99K · <a href="https://t.me/IranProxyV2/8659" target="_blank">📅 21:31 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9K · <a href="https://t.me/IranProxyV2/8659" target="_blank">📅 21:31 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8658">
@@ -917,7 +917,7 @@ russiaproxyy
 .
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 8.17K · <a href="https://t.me/IranProxyV2/8655" target="_blank">📅 18:38 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.18K · <a href="https://t.me/IranProxyV2/8655" target="_blank">📅 18:38 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8654">
@@ -1046,7 +1046,7 @@ vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel-
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/IranProxyV2/8648" target="_blank">📅 23:16 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.94K · <a href="https://t.me/IranProxyV2/8648" target="_blank">📅 23:16 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8647">
@@ -1143,7 +1143,7 @@ Password:
 <div class="tg-text">ایفونی های عزیز جامپ جامپ استفاده نکنید اپل ایدیم لاک شده سر این فیلتر فیلتر دیگ استفاده کنید
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/IranProxyV2/8633" target="_blank">📅 13:47 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.89K · <a href="https://t.me/IranProxyV2/8633" target="_blank">📅 13:47 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8630">
@@ -1171,7 +1171,7 @@ open vpn
 به این میگن یه توافق درست حسابی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/IranProxyV2/8629" target="_blank">📅 13:21 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.42K · <a href="https://t.me/IranProxyV2/8629" target="_blank">📅 13:21 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8628">
@@ -1207,7 +1207,7 @@ open vpn
 ++ یعنی اگه اینترنت رو مثل یه دریچه در نظر بگیریم ، الان فقط به اندازه رد شدن هوا این دریچه باز شده!
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 9.89K · <a href="https://t.me/IranProxyV2/8627" target="_blank">📅 12:06 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.9K · <a href="https://t.me/IranProxyV2/8627" target="_blank">📅 12:06 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8626">
@@ -1225,7 +1225,7 @@ open vpn
 جهت ثبت سفارش میتونید از ربات اقدام کنید
 🔻
 @RUSSIAPROXYY_Bot</div>
-<div class="tg-footer">👁️ 8.6K · <a href="https://t.me/IranProxyV2/8626" target="_blank">📅 11:11 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.61K · <a href="https://t.me/IranProxyV2/8626" target="_blank">📅 11:11 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8625">
@@ -1334,7 +1334,7 @@ https://t.me/proxy?server=87.248.129.129&port=15&secret=ee1603010200010001fc0303
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 8.04K · <a href="https://t.me/IranProxyV2/8620" target="_blank">📅 03:01 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.05K · <a href="https://t.me/IranProxyV2/8620" target="_blank">📅 03:01 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8618">
@@ -1414,7 +1414,7 @@ https://t.me/proxy?server=87.248.129.129&port=15&secret=ee1603010200010001fc0303
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 9.09K · <a href="https://t.me/IranProxyV2/8613" target="_blank">📅 01:20 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/IranProxyV2/8613" target="_blank">📅 01:20 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8609">
@@ -1430,7 +1430,7 @@ https://t.me/proxy?server=87.248.129.129&port=15&secret=ee1603010200010001fc0303
 <div class="tg-text">اوپن ویپن
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/IranProxyV2/8609" target="_blank">📅 00:35 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/IranProxyV2/8609" target="_blank">📅 00:35 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8607">
@@ -1454,7 +1454,7 @@ https://t.me/proxy?server=87.248.129.129&port=15&secret=ee1603010200010001fc0303
 🍒
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 8.92K · <a href="https://t.me/IranProxyV2/8607" target="_blank">📅 00:28 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.93K · <a href="https://t.me/IranProxyV2/8607" target="_blank">📅 00:28 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8606">
@@ -1494,7 +1494,7 @@ https://t.me/proxy?server=87.248.129.129&port=15&secret=ee1603010200010001fc0303
 گویا گوگل پلی تو اکثر مناطق وصل شده.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 8.47K · <a href="https://t.me/IranProxyV2/8603" target="_blank">📅 23:34 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.48K · <a href="https://t.me/IranProxyV2/8603" target="_blank">📅 23:34 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8602">
@@ -1662,7 +1662,7 @@ https://t.me/proxy?server=87.248.129.129&port=15&secret=ee1603010200010001fc0303
 ترامپ: ایران حتی اگه اورانیوم های خودشو هم تحویل بده هیچ خبری از کاهش و لغو تحریم ها نیست
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 8.28K · <a href="https://t.me/IranProxyV2/8590" target="_blank">📅 19:44 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.29K · <a href="https://t.me/IranProxyV2/8590" target="_blank">📅 19:44 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8589">
@@ -1678,7 +1678,7 @@ https://t.me/proxy?server=176.65.131.45&port=25565&secret=79e344818749bd7ac51913
 https://t.me/proxy?server=91.107.174.85&port=8443&secret=dd104462821249bd7ac519130220c25d09
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 8.23K · <a href="https://t.me/IranProxyV2/8589" target="_blank">📅 19:39 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.24K · <a href="https://t.me/IranProxyV2/8589" target="_blank">📅 19:39 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8588">
@@ -1889,7 +1889,7 @@ https://t.me/proxy?server=ui.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCX
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 8.77K · <a href="https://t.me/IranProxyV2/8574" target="_blank">📅 12:10 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.78K · <a href="https://t.me/IranProxyV2/8574" target="_blank">📅 12:10 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8566">

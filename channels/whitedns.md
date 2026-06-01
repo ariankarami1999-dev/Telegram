@@ -292,7 +292,7 @@
 <a href="https://t.me/whitedns" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 گروه :t.me/whitedns_groupادمين :@WhisperInHeaven</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 02:21:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 03:28:51</div>
 <hr>
 
 <div class="tg-post" id="msg-889">
@@ -317,7 +317,7 @@ https://apps.apple.com/cn/app/shadowshare/id1612647259
 (توجه داشته باشید کلاینت یا فیلترشکن نیست)
 🌐
 @ShadowProxy66</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/whitedns/889" target="_blank">📅 15:02 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/whitedns/889" target="_blank">📅 15:02 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-885">
@@ -370,12 +370,12 @@ Tools > V2Ray White IP Generator
 ربات دریافت ریزالور
 🎬
 کانال یوتیوب WhiteDNS</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/whitedns/885" target="_blank">📅 04:56 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/whitedns/885" target="_blank">📅 04:56 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-883">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AQKpGdSFh44463GTmB0sW1UQo_EIerr0ill3cO6qpZ56umsuB4EciMzxX4ai0Xhqmb-xcwV6Zoz6pJ3Y9TqptKm9vN64PRYn2O_8pVdiYdPxupfK7jkqVrNOw2LI-T9JhlbZe2EY4bCz1z_sJrcZrtJscpPAla7ayxD09JF6za9LbcIN88KISFupv2EerGtB6V0d3g9FZIc33MNPcvyEyJ3Pkci5gYZ65YlogW2KgNLsxd5uI9fUgI0jnTZPHqqDTEpyHqCmFilvCZKSck75zCCD4B_Ovs0zI6Dmxpjs2FqgqwEIOTM_ge6oS8H9NcagMKDm29dI9gSZVdZjRP9XVw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AGU1Gm-6iUjvYfk8VlljzD12x7PImVL6np0WWkTOT1a6SmVZ4n2le-AvjAyp7UNwHdqXt7EtQ39nkppbNhTkfhdn7smtkjR1ehu1JJDKWNvxxtsq5OQ9OpnR7ekQrwLg8kSNIAK1y8fLpLkhBV73AprBf4EsiyVS7YgqX66WkaxASe8M2KItgKBh6z9lLiZH-t-mL9YCUo6tBrfbJo4rot_24OiLloPHMcH-muzYAShVBhjYMoLclXTbj1nH5NLcZKMPS7B1ChYyhdDG1xB_F_b6pD6lnghTgLxTvuoGhWgfwoPmqVrANk8SUNTNT2QDYkPTVDJFNhyz5aPRUEBcfQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آموزش تبدیل کانفیگ به آی‌پی سفید
 از این به بعد برای تبدیل کانفیگ، آی‌پی‌های خودتان استفاده می‌شود.
 @WhiteDNS_Installer_bot
@@ -403,7 +403,7 @@ Trojan
 →  پورت 2053
 در پایان، ربات فایل کانفیگ جدید را برای شما ارسال می‌کند که host و port آن با آی‌پی‌های ارسالی خودتان جایگزین شده است.
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 62.6K · <a href="https://t.me/whitedns/883" target="_blank">📅 03:25 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/whitedns/883" target="_blank">📅 03:25 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-882">
@@ -411,7 +411,7 @@ Trojan
 <div class="tg-text">سلام خدمت همگی
 ❤️
 الان تنها راه اتصال پایدار و بی‌دردسر اینه که شما یکبار اسکن کنید، آی‌پی مناسب پیدا کنید و بذارید جلوی کانفیگ‌هاتون.   متاسفانه فرمول یکسانی وجود نداره که برای همه کار کنه.   این روش رو میتونید برای کانفیگ‌های رایگانی که از ربات ما هم دریافت…</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/whitedns/882" target="_blank">📅 02:45 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/whitedns/882" target="_blank">📅 02:45 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -421,7 +421,7 @@ Trojan
 💦
 ⚡️
 فایل اسکنر: https://t.me/MatinSenPaii/3598 پنل BPB روی گیتهاب: https://github.com/bia-pain-bache/BPB-Worker-Panel پروژه اسکنر روی گیتهاب: https://github.com/MatinSen…</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/whitedns/881" target="_blank">📅 02:30 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/whitedns/881" target="_blank">📅 02:30 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-880">
@@ -538,7 +538,7 @@ https://www.youtube.com/watch?v=vVjqNQBUGIc&feature=youtu.be
 ربات دریافت ریزالور
 🎬
 کانال یوتیوب WhiteDNS</div>
-<div class="tg-footer">👁️ 75K · <a href="https://t.me/whitedns/878" target="_blank">📅 11:27 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 75.1K · <a href="https://t.me/whitedns/878" target="_blank">📅 11:27 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-877">
@@ -547,7 +547,7 @@ https://www.youtube.com/watch?v=vVjqNQBUGIc&feature=youtu.be
 آمورش کامل استفاده از اپ WhiteDNS در نسخه کامپیوتر  - آموزش استفاده از کانفیگ های MasterDNS  / StormDNS و اسکن کردن - آموزش استفاده از V2Ray  - آموزش استافده از Scanner, Validator, White IP Generator
 ⭐️
 دانلود از لینک داخلی  https://guardts.ir/f/6f56591f7b7a…</div>
-<div class="tg-footer">👁️ 27K · <a href="https://t.me/whitedns/877" target="_blank">📅 10:53 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/whitedns/877" target="_blank">📅 10:53 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-875">
@@ -630,7 +630,7 @@ Encryption Method
 ربات دریافت رایگان کانفیگ V2Ray
 🤖
 ربات دریافت ریزالور</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/whitedns/873" target="_blank">📅 02:59 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/whitedns/873" target="_blank">📅 02:59 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-872">
@@ -647,7 +647,7 @@ https://up.theazizi.ir/download.php?t=ecabdec17d6cbb16f37a13fe28c724cdb591
 😊
 مشاهده از یوتیوب
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 33K · <a href="https://t.me/whitedns/872" target="_blank">📅 18:25 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/whitedns/872" target="_blank">📅 18:25 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-870">
@@ -660,7 +660,7 @@ https://up.theazizi.ir/download.php?t=ecabdec17d6cbb16f37a13fe28c724cdb591
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">اگر در اجرای نسخه مک مشکل خوردید دستور زیر رو اجرا کنید
 xattr -cr "/Applications/WhiteDNS Desktop.app"</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/whitedns/869" target="_blank">📅 12:19 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/whitedns/869" target="_blank">📅 12:19 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-865">
@@ -728,7 +728,7 @@ xattr -cr "/Applications/WhiteDNS Desktop.app"</div>
 ممنون از حمایتتون
 ❤️
 تیم WhiteDNS</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/whitedns/859" target="_blank">📅 04:36 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/whitedns/859" target="_blank">📅 04:36 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-852">
@@ -822,7 +822,7 @@ https://github.com/MatinSenPai/SenPaiScanner
 https://github.com/MatinSenPai/SenPaiScanner/releases
 دانلود فایلها از تلگرام:
 https://t.me/MatinSenPaii/3526</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/whitedns/850" target="_blank">📅 03:51 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/whitedns/850" target="_blank">📅 03:51 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-848">
@@ -836,7 +836,7 @@ https://t.me/MatinSenPaii/3526</div>
 تشکر
 تیم WhiteDNS
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 80.7K · <a href="https://t.me/whitedns/848" target="_blank">📅 17:45 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 80.8K · <a href="https://t.me/whitedns/848" target="_blank">📅 17:45 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-847">
@@ -866,7 +866,7 @@ https://t.me/MatinSenPaii/3526</div>
 دوستان برای اتصال به کانفیگ های بات از این اپ استفاده کنید.
 @WhiteDNS_Installer_Bot
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 89.9K · <a href="https://t.me/whitedns/841" target="_blank">📅 13:14 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 90K · <a href="https://t.me/whitedns/841" target="_blank">📅 13:14 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-840">
@@ -1172,7 +1172,7 @@ V2rayN</div>
 <div class="tg-text">141 کانفیگ تست شده روی مخابرات پینگ 100-200
 ممنون ازعلی عزیز برای تست و پاکسازی لیست
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/whitedns/804" target="_blank">📅 18:31 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/whitedns/804" target="_blank">📅 18:31 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-802">
@@ -1333,7 +1333,7 @@ pinned «
 <div class="tg-post" id="msg-791">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">سلام خدمت همه همراهان عزیز  ویدیو آموزش ساخت سرور شخصی که متین عزیز تهیه کردند دقیق همه مسایل رو ‌توضیح‌ میده.   تنها‌ نکته‌ای که باید اشاره کنم، متین از ترمینال برای وارد کردن دستورات و نصب MasterDNS استفاده کرده.   من پیشنهاد میکنم برای راحتی کار شما، بعد…</div>
-<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/whitedns/791" target="_blank">📅 16:20 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 55.8K · <a href="https://t.me/whitedns/791" target="_blank">📅 16:20 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-789">

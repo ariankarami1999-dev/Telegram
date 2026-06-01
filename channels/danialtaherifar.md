@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 02:21:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 03:28:51</div>
 <hr>
 
 <div class="tg-post" id="msg-932">
@@ -309,7 +309,7 @@
 <div class="tg-text">اینترنت خانگی وصل شد
 ✅
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 471 · <a href="https://t.me/danialtaherifar/931" target="_blank">📅 16:25 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 472 · <a href="https://t.me/danialtaherifar/931" target="_blank">📅 16:25 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-930">
@@ -361,7 +361,7 @@
 
 <div class="tg-post" id="msg-924">
 <div class="tg-post-header">📌 پیام #92</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qAU8POccBEhX8KvqYRlO56zTp2dL-1-JUVNC0FyupF_VpMYGG9x2xt7wIabXh8GRQMvgT_34tniCDB6Qvma5ljxD83VjRpHvczvO5XFw3IO6whD5hBZxZhkeVqyTDaxmix5tKKjMQc29EaTi8W9A1qI6UMgHGA7kjGHNpudkkY5Pn79cWkHB9XA4ZHRHJSp6_Y6P0A338BF5vwehjgwDiNKrz5tZyo9tjpIUEExj3h81vzKLJZ9gzYXp4_2yKiTzR3X1CU3VUZ_Hx0a-Ux6r3LifsfR5FAJVUXkCg5Ly917IIE6MbTs57JdOSvI5EjhpofK4IntvwJZ21uaY8amwiQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lRX1Sryzc4cJYQQhdL_w8yaM8yX4f5hG2gG1JIdmzteAY7-d2rZGHX7BPsRe7mt7v0CWxkdwB8mqRUgx1qmIy7FA5QIRq3UAbSETqljy8mhKujVlj4weRWuQY92jPEq_R4xJQp2LWriC2tvpsFao1Ip_OVLYXFmEK_9OHbcPoGCrsYn_XzHHobiAqgWv3dnDx1nBV1jPecKoJOEJjyuyKGVFjQabs_lR0dgp4lK2DXgyjfSRQC1GLoQeK71_lmWRjy3BQIz1IXM0_HoYZ1_sEp4xZy43GrVjIVEDw2y4Fags_Q0LGd0hTVu70hRARFB1NQ-T-qGdh-o958ldNkrj4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبدیل ضربان قلب کسب‌وکارهای اینترنتی به یک «خط صاف» صفر...
 💔
 ما کسانی هستیم که زندگی‌مان، تخصص‌مان و آرزوهایمان به این «ریسمان نازک» وصل بود.

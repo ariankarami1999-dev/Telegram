@@ -292,7 +292,7 @@
 <a href="https://t.me/sorkhtimes" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽ورزشی نویس پرسپولیس👤🎗️«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس.✍️کپی کردن با ذکر منبع «سرخ تایمز»🖥جهت تبلیغات🔻@Tab_taems⛔رسانه سرخ تایمز مسئولیتی در قبال تبلیغات ندارد.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 02:21:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-11 03:28:51</div>
 <hr>
 
 <div class="tg-post" id="msg-132568">
@@ -326,7 +326,7 @@
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 533 · <a href="https://t.me/SorkhTimes/132568" target="_blank">📅 01:26 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 725 · <a href="https://t.me/SorkhTimes/132568" target="_blank">📅 01:26 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132567">
@@ -337,7 +337,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 871 · <a href="https://t.me/SorkhTimes/132567" target="_blank">📅 01:19 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.04K · <a href="https://t.me/SorkhTimes/132567" target="_blank">📅 01:19 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132566">
@@ -349,7 +349,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 871 · <a href="https://t.me/SorkhTimes/132566" target="_blank">📅 01:18 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.05K · <a href="https://t.me/SorkhTimes/132566" target="_blank">📅 01:18 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132565">
@@ -362,7 +362,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/SorkhTimes/132565" target="_blank">📅 00:25 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/SorkhTimes/132565" target="_blank">📅 00:25 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132564">
@@ -374,7 +374,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/SorkhTimes/132564" target="_blank">📅 00:24 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/SorkhTimes/132564" target="_blank">📅 00:24 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132561">
@@ -385,7 +385,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.14K · <a href="https://t.me/SorkhTimes/132561" target="_blank">📅 23:04 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.23K · <a href="https://t.me/SorkhTimes/132561" target="_blank">📅 23:04 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132560">
@@ -398,7 +398,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.12K · <a href="https://t.me/SorkhTimes/132560" target="_blank">📅 22:57 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.21K · <a href="https://t.me/SorkhTimes/132560" target="_blank">📅 22:57 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132559">
@@ -409,7 +409,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.02K · <a href="https://t.me/SorkhTimes/132559" target="_blank">📅 22:52 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.11K · <a href="https://t.me/SorkhTimes/132559" target="_blank">📅 22:52 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132558">
@@ -420,7 +420,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.28K · <a href="https://t.me/SorkhTimes/132558" target="_blank">📅 21:51 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.34K · <a href="https://t.me/SorkhTimes/132558" target="_blank">📅 21:51 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132557">
@@ -431,7 +431,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.27K · <a href="https://t.me/SorkhTimes/132557" target="_blank">📅 21:48 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.33K · <a href="https://t.me/SorkhTimes/132557" target="_blank">📅 21:48 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132556">
@@ -442,7 +442,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.25K · <a href="https://t.me/SorkhTimes/132556" target="_blank">📅 21:44 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/SorkhTimes/132556" target="_blank">📅 21:44 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132554">
@@ -454,7 +454,7 @@
 نماینده های پرسپولیس : اورونوف - سرگیف - نیازمند - کنعانی - ابرقویی - محمدی - علیپور - محمودی
 🔴
 یکسری از رسانه میگن که الکسی گندوز هم اگه بره جام جهانی پاداش…</div>
-<div class="tg-footer">👁️ 3.58K · <a href="https://t.me/SorkhTimes/132554" target="_blank">📅 20:56 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.63K · <a href="https://t.me/SorkhTimes/132554" target="_blank">📅 20:56 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132553">
@@ -465,7 +465,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/SorkhTimes/132553" target="_blank">📅 20:54 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/SorkhTimes/132553" target="_blank">📅 20:54 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132552">
@@ -476,7 +476,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.45K · <a href="https://t.me/SorkhTimes/132552" target="_blank">📅 20:52 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/SorkhTimes/132552" target="_blank">📅 20:52 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132551">
@@ -488,7 +488,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/SorkhTimes/132551" target="_blank">📅 20:50 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.47K · <a href="https://t.me/SorkhTimes/132551" target="_blank">📅 20:50 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132550">
@@ -500,7 +500,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.32K · <a href="https://t.me/SorkhTimes/132550" target="_blank">📅 20:49 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.37K · <a href="https://t.me/SorkhTimes/132550" target="_blank">📅 20:49 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132549">
@@ -519,7 +519,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.29K · <a href="https://t.me/SorkhTimes/132549" target="_blank">📅 20:48 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.34K · <a href="https://t.me/SorkhTimes/132549" target="_blank">📅 20:48 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132548">
@@ -528,7 +528,7 @@
 طبق جدول لیگ برتر؛ گل‌گهر با یک بازی بیشتر ۳۶ امتیاز دارد و رده چهارم است. چادرملو و پرسپولیس هر کدام ۲۲ بازی انجام داده‌اند و ۳۵ و ۳۴ امتیاز گرفته‌اند. در صورت معرفی گل‌گهر، قطعا هر دو باشگاه اعتراض خواهند کرد.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق…</div>
-<div class="tg-footer">👁️ 3.35K · <a href="https://t.me/SorkhTimes/132548" target="_blank">📅 20:44 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.39K · <a href="https://t.me/SorkhTimes/132548" target="_blank">📅 20:44 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132547">
@@ -552,7 +552,7 @@
 👇
 🔵
 @Wincobetofficial</div>
-<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/SorkhTimes/132547" target="_blank">📅 20:32 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.4K · <a href="https://t.me/SorkhTimes/132547" target="_blank">📅 20:32 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132546">
@@ -575,7 +575,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/SorkhTimes/132546" target="_blank">📅 19:47 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.46K · <a href="https://t.me/SorkhTimes/132546" target="_blank">📅 19:47 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132544">
@@ -586,7 +586,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.46K · <a href="https://t.me/SorkhTimes/132544" target="_blank">📅 19:33 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/SorkhTimes/132544" target="_blank">📅 19:33 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132543">
@@ -597,7 +597,7 @@
 با مخالفت Afc, سپاهان مجوز نگرفت و از آسیا حذف شد
 ◻️
 کنفدراسیون فوتبال آسیا به دلیل اینکه پنجره بارگذاری مدارک  باشگاه سپاهان بسته شده است، مدارک مجوز حرفه ای این تیم را نپذیرفت تا به این ترتیب این تیم از  حضور در لیگ قهرمانان آسیای فصل آینده حرف…</div>
-<div class="tg-footer">👁️ 3.4K · <a href="https://t.me/SorkhTimes/132543" target="_blank">📅 19:32 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/SorkhTimes/132543" target="_blank">📅 19:32 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132542">
@@ -614,7 +614,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.6K · <a href="https://t.me/SorkhTimes/132542" target="_blank">📅 18:45 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.63K · <a href="https://t.me/SorkhTimes/132542" target="_blank">📅 18:45 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132541">
@@ -626,7 +626,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/SorkhTimes/132541" target="_blank">📅 18:13 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.52K · <a href="https://t.me/SorkhTimes/132541" target="_blank">📅 18:13 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132539">
@@ -643,7 +643,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.42K · <a href="https://t.me/SorkhTimes/132539" target="_blank">📅 17:49 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.44K · <a href="https://t.me/SorkhTimes/132539" target="_blank">📅 17:49 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132538">
@@ -657,7 +657,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.29K · <a href="https://t.me/SorkhTimes/132538" target="_blank">📅 17:23 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/SorkhTimes/132538" target="_blank">📅 17:23 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132537">
@@ -669,7 +669,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.3K · <a href="https://t.me/SorkhTimes/132537" target="_blank">📅 17:11 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.32K · <a href="https://t.me/SorkhTimes/132537" target="_blank">📅 17:11 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132536">
@@ -678,7 +678,7 @@
 خوردبین: تیمی که در ایران مجوز نگرفته چرا به آسیا معرفی می شود؟
 🔻
 آرزو به دل ماندیم متولیان فوتبال یک بار تصمیمی درست بگیرند. آقایان بگویند این تصمیم را با چه معیاری گرفتند. یک مثال بزنند در کجای دنیا با لیگی که ۹ هفته از آن مانده تیمی را برای حضور در سطح…</div>
-<div class="tg-footer">👁️ 3.22K · <a href="https://t.me/SorkhTimes/132536" target="_blank">📅 16:59 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.24K · <a href="https://t.me/SorkhTimes/132536" target="_blank">📅 16:59 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132535">
@@ -689,7 +689,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.34K · <a href="https://t.me/SorkhTimes/132535" target="_blank">📅 16:58 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/SorkhTimes/132535" target="_blank">📅 16:58 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132534">
@@ -700,7 +700,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.46K · <a href="https://t.me/SorkhTimes/132534" target="_blank">📅 16:54 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/SorkhTimes/132534" target="_blank">📅 16:54 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132533">
@@ -712,7 +712,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.45K · <a href="https://t.me/SorkhTimes/132533" target="_blank">📅 16:22 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/SorkhTimes/132533" target="_blank">📅 16:22 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132531">
@@ -726,7 +726,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/SorkhTimes/132531" target="_blank">📅 15:06 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.66K · <a href="https://t.me/SorkhTimes/132531" target="_blank">📅 15:06 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132530">
@@ -738,7 +738,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.56K · <a href="https://t.me/SorkhTimes/132530" target="_blank">📅 15:05 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.58K · <a href="https://t.me/SorkhTimes/132530" target="_blank">📅 15:05 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132529">
@@ -761,14 +761,14 @@
 👇
 🤖
 @Wincobet_bot</div>
-<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/SorkhTimes/132529" target="_blank">📅 14:39 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.92K · <a href="https://t.me/SorkhTimes/132529" target="_blank">📅 14:39 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132528">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">🔴
 مدیرعامل آروان کلاد: از نظر فنی همینطوری که میشه توی یه لحظه اینترنت رو قطع کرد؛ همینطوری میشه تو یه لحظه هم وصلش کرد. زمانبر بودن بهبود وضعیت اینترنت از نظر فنی فقط بهانه ست. وضعیت اینترنت در حال حاضر بسیار ناپایدار و ضعیفه و اصلا به شرایط قبل از جنگ برنگشته.…</div>
-<div class="tg-footer">👁️ 4.04K · <a href="https://t.me/SorkhTimes/132528" target="_blank">📅 13:42 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/SorkhTimes/132528" target="_blank">📅 13:42 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132527">
@@ -779,7 +779,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/SorkhTimes/132527" target="_blank">📅 12:58 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/SorkhTimes/132527" target="_blank">📅 12:58 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132526">
@@ -790,7 +790,7 @@
 دو سه شبه که از بس به فکر چیدن لیست تیم ملی هستم، نخوابیدم. راستش رو بخواهید، هر چه تا امروز خواستم نشده، ولی خداروشکر. من به این تیم ملی امیدوارم، هرچند مشکلاتمان خیلی خیلی زیاد است.
 👍
 این روزها برای انتخاب نفرات واقعاً روزهای سختی است.…</div>
-<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/SorkhTimes/132526" target="_blank">📅 12:55 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SorkhTimes/132526" target="_blank">📅 12:55 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132525">
@@ -803,7 +803,7 @@
 𝓣𝓲𝓶𝓮
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SorkhTimes/132525" target="_blank">📅 12:20 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SorkhTimes/132525" target="_blank">📅 12:20 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132520">
@@ -814,7 +814,7 @@
 تنگه هرمز باید فوری باز بشه و عبور کشتی‌ها بدون هیچ محدودیتی انجام بشه. هر نوع مین دریایی هم باید کامل جمع‌آوری یا نابود بشه
 🔴
 کشتی‌هایی که به خاطر محاصره متوقف شدن می‌تونن برگردن به مسیرشون و…</div>
-<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SorkhTimes/132520" target="_blank">📅 10:52 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/SorkhTimes/132520" target="_blank">📅 10:52 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132519">
@@ -825,7 +825,7 @@
 پرسپولیس و استقلال هم می‌خوان از این فرصت استفاده کنن و برای جذب بازیکنای کلیدی سپاهان وارد عمل بشن...
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و…</div>
-<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/SorkhTimes/132519" target="_blank">📅 10:51 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SorkhTimes/132519" target="_blank">📅 10:51 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132518">
@@ -836,7 +836,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/SorkhTimes/132518" target="_blank">📅 10:48 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SorkhTimes/132518" target="_blank">📅 10:48 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132516">
@@ -848,7 +848,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.87K · <a href="https://t.me/SorkhTimes/132516" target="_blank">📅 10:46 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.88K · <a href="https://t.me/SorkhTimes/132516" target="_blank">📅 10:46 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132515">
@@ -893,7 +893,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/SorkhTimes/132513" target="_blank">📅 09:47 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/SorkhTimes/132513" target="_blank">📅 09:47 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132512">
@@ -914,7 +914,7 @@
 به گزارش رسانه «سرخ تایمز» و با اعلام مسئولان باشگاه پرسپولیس هنوز باشگاه وارد نقل و انتقالات نشده و منتظر اوسمار هستند!
 ♦️
 لیموچی و هر اسمی که به گوشتون خورده در حال حاضر هیچکدوم شون صحت ندارن و تا این لحظه باشگاه هیچ مذاکره ای با گزینه…</div>
-<div class="tg-footer">👁️ 3.74K · <a href="https://t.me/SorkhTimes/132511" target="_blank">📅 09:30 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.75K · <a href="https://t.me/SorkhTimes/132511" target="_blank">📅 09:30 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132510">
@@ -929,7 +929,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.02K · <a href="https://t.me/SorkhTimes/132510" target="_blank">📅 09:13 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/SorkhTimes/132510" target="_blank">📅 09:13 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132508">
@@ -954,7 +954,7 @@
 کانال رسمی وینکوبت:
 🔵
 @Wincobetofficial</div>
-<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/SorkhTimes/132508" target="_blank">📅 00:56 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.13K · <a href="https://t.me/SorkhTimes/132508" target="_blank">📅 00:56 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132507">
@@ -965,7 +965,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/SorkhTimes/132507" target="_blank">📅 00:20 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.18K · <a href="https://t.me/SorkhTimes/132507" target="_blank">📅 00:20 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132506">
@@ -1097,7 +1097,7 @@
 به تیم ملی جمهوری اسلامی واسه جام جهانی قراره ویزای ساعتی بدن یعنی واسه هر بازی چند ساعت ویزا میدن بیان بازی کنن بعد سریع باید برگردن مکزیک تازه این ویزا فقط برای بازیکنان و کادر فنی صادر میشه نه افراد دیگه
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی…</div>
-<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/SorkhTimes/132495" target="_blank">📅 21:19 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SorkhTimes/132495" target="_blank">📅 21:19 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132494">
@@ -1137,7 +1137,7 @@ Puskás Aréna
 👇
 🔵
 @Wincobetofficial</div>
-<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/SorkhTimes/132493" target="_blank">📅 20:21 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/SorkhTimes/132493" target="_blank">📅 20:21 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132492">
@@ -1165,7 +1165,7 @@ Puskás Aréna
 یک دلال با سوءاستفاده از شرایط جنگی و شایعات درباره بازنگشتن خارجی‌ها ، پیشنهاد داد در صورت نیامدن اوسمار ، تارتار سرمربی پرسپولیس شود.
 ⛔️
 این پیشنهاد جدی گرفته نشد و مدیران پرسپولیس قصد دارند همکاری…</div>
-<div class="tg-footer">👁️ 3.85K · <a href="https://t.me/SorkhTimes/132491" target="_blank">📅 20:04 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/SorkhTimes/132491" target="_blank">📅 20:04 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132489">
@@ -1176,7 +1176,7 @@ Puskás Aréna
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/SorkhTimes/132489" target="_blank">📅 19:29 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.92K · <a href="https://t.me/SorkhTimes/132489" target="_blank">📅 19:29 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132488">
@@ -1188,7 +1188,7 @@ Puskás Aréna
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/SorkhTimes/132488" target="_blank">📅 19:17 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/SorkhTimes/132488" target="_blank">📅 19:17 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132487">
@@ -1222,7 +1222,7 @@ Puskás Aréna
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.85K · <a href="https://t.me/SorkhTimes/132485" target="_blank">📅 18:48 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/SorkhTimes/132485" target="_blank">📅 18:48 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132484">
@@ -1295,7 +1295,7 @@ Puskás Aréna
 وقتی قرمزآنلاین فاش کرد محمودی از سوی ایجنت ها محاصره شده و برای تمدید قرارداد هر هفته یک ایجنت را به باشگاه فرستاده متهم شدیم به حاشیه سازی اما انچه گفتیم حقیقتت بود.از او خواستیم مراقب باشد.محمودی از برترین استعدادهای فوتبال اسیاست.
 🔺
 احسان خرسندی، سرمربی…</div>
-<div class="tg-footer">👁️ 3.79K · <a href="https://t.me/SorkhTimes/132476" target="_blank">📅 15:42 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.8K · <a href="https://t.me/SorkhTimes/132476" target="_blank">📅 15:42 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132475">
@@ -1304,7 +1304,7 @@ Puskás Aréna
 باوجودی که فدراسیون فوتبال رسما اعلام کرده بود موافق برگزاری مسابقات شش جانبه است اما در تصمیمی ناگهانی و عجولانه، بر اساس جدول نصفه نیمه و ناقص، نمایندگان آسیا رو معرفی کرده!!!
 🔴
 سپاهان که قطعا مجوز حرفه‌ای نمیگیره ولی جدی میخوایین گل‌گهر یا چادرملو رو بفرستین…</div>
-<div class="tg-footer">👁️ 3.82K · <a href="https://t.me/SorkhTimes/132475" target="_blank">📅 15:40 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.83K · <a href="https://t.me/SorkhTimes/132475" target="_blank">📅 15:40 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132474">
@@ -1365,7 +1365,7 @@ Puskás Aréna
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/SorkhTimes/132472" target="_blank">📅 15:05 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.09K · <a href="https://t.me/SorkhTimes/132472" target="_blank">📅 15:05 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132471">
@@ -1456,7 +1456,7 @@ Puskás Aréna
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/SorkhTimes/132463" target="_blank">📅 13:06 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.02K · <a href="https://t.me/SorkhTimes/132463" target="_blank">📅 13:06 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132460">
@@ -1586,7 +1586,7 @@ Puskás Aréna
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SorkhTimes/132452" target="_blank">📅 00:10 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/SorkhTimes/132452" target="_blank">📅 00:10 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-132451">
