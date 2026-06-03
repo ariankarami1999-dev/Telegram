@@ -291,20 +291,20 @@
 <p>@farahmand_alipour • 👥 62.6K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-14 00:03:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-14 02:28:56</div>
 <hr>
 
 <div class="tg-post" id="msg-5300">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">تصاویری از فرودگاه کویت
 پس از حمله جمهوری اسلامی</div>
-<div class="tg-footer">👁️ 8.23K · <a href="https://t.me/farahmand_alipour/5300" target="_blank">📅 22:30 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farahmand_alipour/5300" target="_blank">📅 22:30 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5299">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TSzSJHYVHVhFewxWEpvvBqFV1gnDezgXfxULomicmmGdKIwaXklgjsp3MQYMR5f5I2HJ4PcQ9jldRJ9eZpoyWTp4-XZ5i26Aau4CqrqJht7DWk_RhpRdtNH0hdCAWctFwhZvAjxvSaBRwLAi-8zivbwFVWvdpsrZzFaUcdAsuUP4XxDM0co_wQhkFe5zmDt2Gt_ffBhKvaBBRX0v5ukeHrSsSYvDLnXp-vvl4WC_-3fiS3Ly9UsRWWyL65qjNGYU8aafGDDscO3Wxons_Wb6M6fDGT5d4AZcby1daud_Tjzzuu3Gx1AMISQH899uv-XkQypQJl8CVCBxs54ytOEQ8w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/farahmand_alipour/5299" target="_blank">📅 19:23 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/farahmand_alipour/5299" target="_blank">📅 19:23 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5298">
@@ -314,7 +314,7 @@
 🚨
 کویت ضمن احضار کاردار جمهوری اسلامی، دو دیپلمات جمهوری اسلامی را به عنوان «عنصر نامطلوب» اعلام کرد و از آنها خواست تا ظرف ۲۴ ساعت خاک کویت را ترک کنند.
 وزارت دفاع کویت: جمهوری اسلامی امروز ۱۷ پهپاد و ۱۳ موشک بالستیک به سمت کویت شلیک کرد.</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/5298" target="_blank">📅 16:51 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/5298" target="_blank">📅 16:51 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5297">
@@ -329,19 +329,19 @@
 <div class="tg-text">«وطن کجاست؟  عقلا منطقا نجف»!
 وطن‌ پرست‌هایی که وطن‌شون لبنان و غزه و عراقه
 و میگن برای غزه و لبنان حاضرن ایران بمباران بشه!</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/farahmand_alipour/5297" target="_blank">📅 15:00 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5297" target="_blank">📅 15:00 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5296">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">کویت : در اثر حمله جمهوری اسلامی به فرودگاه بین‌المللی کویت ۶۳ تن زخمی شدند.</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5296" target="_blank">📅 14:20 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5296" target="_blank">📅 14:20 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5295">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">بخش بزرگی از انگیزه جمهوری اسلامی  در حملات پی‌ در پی به دوبی را باید در عقده حقارت جمهوری اسلامی جستجو کرد.  شهری که برای ده‌ها میلیون ایرانی  نماد پیشرفت و توسعه بود، که ظرف ۴۰ سال از هیچ به گوهری درخشان تبدیل شد،  و مردم ایران دائما دوبی  را با ایران  و…</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/5295" target="_blank">📅 14:04 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5295" target="_blank">📅 14:04 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5292">
@@ -353,7 +353,7 @@
 </div>
 <div class="tg-text">درست ۲ روز پیش کویت ترمینال شماره یک اش رو دوباره بازسازی و افتتاح کرده بود،
 که جمهوری اسلامی دقیقا همین ترمینال رو دیشب با موشک زد!</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/5292" target="_blank">📅 14:01 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/5292" target="_blank">📅 14:01 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5291">
@@ -366,7 +366,7 @@
 <a href="https://cdn4.telesco.pe/file/1d4bd44367.mp4?token=flRtxG1s9HAXxDuj2K4LrnR1R7-rsdWgF89p3OQI3rUjJPuwt9U1R3tuxagjiAF5Mxf8IGIjDf6PUp1USkWmLxlIQ9MEAPqfv9fu3Bn-X_XrmFmr5okb-GL-EVmyOAta7yXbQFHdmKzY2qr8tsx3IN5z-yixvsjV9SWpc7kMrDvbeOkEVwCYtgD7wvihFvS-G6L8ePOJGrG3xjNXXr3W-F3AORWT4vIDhxR7swb6qqjNabRAmQHV8ycqDTyB5CKA1H_2y75nntIwClVkxBsDpJArAKp7urk3TZ4iw8_Q8Ybj7SxLQqDCGOs8ECySR8WFu-P-Cv6m8OUe5xHegBI6Og" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">فرودگاه کویت - شب گذشته - بعد از حمله جمهوری اسلامی حالا اینها برگردن فرودگاهی در ایران رو بزنن میگن : «دیدید اینها مشکل‌شون با خود ایرانه و زیرساخت‌هامونه و نه حکومت؟ »</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/5291" target="_blank">📅 12:58 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/5291" target="_blank">📅 12:58 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5290">
@@ -380,7 +380,7 @@
 </div>
 <div class="tg-text">فرودگاه کویت - شب گذشته - بعد از حمله جمهوری اسلامی
 حالا اینها برگردن فرودگاهی در ایران رو بزنن میگن : «دیدید اینها مشکل‌شون با خود ایرانه و زیرساخت‌هامونه و نه حکومت؟ »</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/5290" target="_blank">📅 12:45 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/5290" target="_blank">📅 12:45 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5289">
@@ -402,7 +402,7 @@
 برای سفر به تهران باید یا اتوبوس بگیرن
 یا خودرو؟ چند درصد با قطار میرن؟
 ۵ درصد مسافران با قطار میرن؟؟</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/5289" target="_blank">📅 11:27 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/5289" target="_blank">📅 11:27 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5288">
@@ -415,7 +415,7 @@
 اونهم زمانی که ترامپ و نتانیاهو با قاطعیت و رسما نوشتن که حذف شده!
 اگه این دو نمی‌نوشتن هنوز میگفتن خامنه‌ای زنده است و «کمین» کرده
 و داره رهبری میکنه و…..!</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/5288" target="_blank">📅 11:14 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5288" target="_blank">📅 11:14 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5286">
@@ -438,7 +438,7 @@
 که دست به این کار بزنه؟
 تازه میگه بهمون گفته بودن به روستاها برق نبرید!
 دستتون درد نکنه چه منتی!!</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/farahmand_alipour/5286" target="_blank">📅 11:08 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/farahmand_alipour/5286" target="_blank">📅 11:08 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5285">
@@ -448,7 +448,7 @@
 حالا که اونها برگشتن حمله کردن، میگن ما اونها رو برای دفاع ساخته بودیم که بهمون حمله نکنن!!
 نه خیر! ساخته بودید که حمله کنید! نه دفاع! که هم اونها رو زدن، هم اومدن سراغ خودتون!
 و الا اسرائیل زمان حکومت شاه، با ایران دشمنی نداشت! جنگی با ایران نداشت!</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5285" target="_blank">📅 10:25 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/5285" target="_blank">📅 10:25 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5284">
@@ -459,7 +459,7 @@
 ‏در پاسخ، ج‌ا اعلام کرد به یک کشتی با پرچم لیبریا موشک شلیک کرده است.
 ‏اما تشدید خطرناک‌تر پس از آن رخ داد که آمریکا یک ایستگاه کنترل زمینی نظامی ج‌ا را در جزیره قشم، نزدیک تنگه هرمز، هدف قرار داد و این موضوع باعث شد ج‌ا به کشورهای کویت و بحرین در منطقه خلیج فارس موشک و پهپاد شلیک کند.
 ‏ج‌ا اعلام کرد که «یک پایگاه هوایی و بالگردی آمریکایی» در منطقه و همچنین مقر ناوگان پنجم ایالات متحده در بحرین را هدف قرار داده است.</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5284" target="_blank">📅 09:15 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/5284" target="_blank">📅 09:15 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5283">
@@ -467,21 +467,21 @@
 <div class="tg-text">خبری که ایتالیا رو شوکه کرده:
 یک پاکستانی در جنوب ایتالیا،  با ریختن بنزین ۴ نفر (۳ افغانستانی و یک پاکستانی) را در یک خودرو به آتش کشید و کشت!
 https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/5283" target="_blank">📅 08:29 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/5283" target="_blank">📅 08:29 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5282">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">سنتکام : حملات موشکی جمهوری اسلامی به بحرین و کویت ناکام ماند. موشک‌ها رهگیری و منهدم شدند.
 به اهدافی در قشم حمله کردیم.</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/5282" target="_blank">📅 08:19 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5282" target="_blank">📅 08:19 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5281">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jXEYplLELLwQq-E9ukrEhqDtGDS9X24CEXFLsSGTMMfmGplnWjLRGAJ4sCS0zh8aNYtiew0XM75Bnq29otbpKr9kWcX8UUuT8OHCxkvC8dhD-J4yfB6DNpXPK6dZgEEoSsj7DmG_cjEzBoIfX7vPDNGys75ALXow9kY61a22TS1sKHTyIg7RvxF96yR_d-MnqbmuySQmi-8B00jx4AelmQOhQ5jjybBLAYRdAdqUaFXsY_twHEmdBKDqS-35X34pbkEl1yJJjVzfe9L_d82s7u5X-vcsNMfQq2WkmvlFNWAErK3KQ56jbtayo7XN513Z7aC2jkh4LMGHjAYS8FAZ-A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">صدور حکم اعدام برای دو برادر دو قلوی یتیم فقط به اتهام داشتن تصاویر ساختمان‌های تخریب شده در تلفن همراه</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/5281" target="_blank">📅 08:18 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/farahmand_alipour/5281" target="_blank">📅 08:18 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5280">
@@ -491,14 +491,14 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 شنیده شدن صدای انفجارهای تازه در قشم
 🚨
 فعال شدن ضد هوایی در عربستان</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/farahmand_alipour/5280" target="_blank">📅 02:53 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/5280" target="_blank">📅 02:53 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5279">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">🚨
 گزارش‌هایی از حمله ج‌ا به یک کشتی در تنگه هرمز</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/farahmand_alipour/5279" target="_blank">📅 02:47 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/5279" target="_blank">📅 02:47 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5278">
@@ -507,21 +507,21 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 🚨
 حمله موشکی جمهوری اسلامی به اربیل در عراق و به بحرین!
 حمله مجدد موشکی ج‌ا به کویت.</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/farahmand_alipour/5278" target="_blank">📅 02:40 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/farahmand_alipour/5278" target="_blank">📅 02:40 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5277">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/767a4036f8.mp4?token=aSPcbZDUxsphAva5-ln1VviBdUxDTJBitO2S0IvXryfLPSmmjz5R17O97baYytoPG3T1Qs38guH5hjnrWd8kqodALK03nqNRNY63NVn05wQEXPj6JJW0gHqjxsoxG-KOb40wbZJqx-m18MO6eY8yKLshKvAOhyjVZreGQSTkRAPw6nSZIR8IXQA08FQyrg683Dn3KNTi3L5XyAg07vkyXiPQ3D6wNbBfEZOktfGpzDZo_nYG8v-5AbLS7gqjSjZ778JPpwPnYUF40SneoMMpBKj5fsci6ZD1Hyc22tCYA0Ak9IS_0QMlq6u4tK2tkLnk2DS3n4RssKg7V4SDWX_sjg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/767a4036f8.mp4?token=XOQbieZEgXeKegzwOkVgPcYwoKMrC2jrsRdHyLqhNcuSF_boj2VB0Vucv99tQPv-_mfIJCeR5WSPunWR7DsMib1v_JyC9hQFc8S9OA3-OARoWru0yrFogtV7_3mLgenStPDeEDhtTQEbp8q9gUUaNWQ5qxjhyQxDctRxJ_O_bqys4RvGrOSbWloH8IibeBPVLEkQNZDBmAMvjYUdvhqnejQ1xnQQPVo1HgxdSOnl6yFu9zOaQpvQD8PMJubZxJ4ROpYTRHgZeLZDr4oZGpM2myxg5GyIKXTMkIgbbY2m26mZS-1Oe70GNK5WlSJvdFjrikOKxtkonTHKA3Qhf5puEw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/767a4036f8.mp4?token=aSPcbZDUxsphAva5-ln1VviBdUxDTJBitO2S0IvXryfLPSmmjz5R17O97baYytoPG3T1Qs38guH5hjnrWd8kqodALK03nqNRNY63NVn05wQEXPj6JJW0gHqjxsoxG-KOb40wbZJqx-m18MO6eY8yKLshKvAOhyjVZreGQSTkRAPw6nSZIR8IXQA08FQyrg683Dn3KNTi3L5XyAg07vkyXiPQ3D6wNbBfEZOktfGpzDZo_nYG8v-5AbLS7gqjSjZ778JPpwPnYUF40SneoMMpBKj5fsci6ZD1Hyc22tCYA0Ak9IS_0QMlq6u4tK2tkLnk2DS3n4RssKg7V4SDWX_sjg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/767a4036f8.mp4?token=XOQbieZEgXeKegzwOkVgPcYwoKMrC2jrsRdHyLqhNcuSF_boj2VB0Vucv99tQPv-_mfIJCeR5WSPunWR7DsMib1v_JyC9hQFc8S9OA3-OARoWru0yrFogtV7_3mLgenStPDeEDhtTQEbp8q9gUUaNWQ5qxjhyQxDctRxJ_O_bqys4RvGrOSbWloH8IibeBPVLEkQNZDBmAMvjYUdvhqnejQ1xnQQPVo1HgxdSOnl6yFu9zOaQpvQD8PMJubZxJ4ROpYTRHgZeLZDr4oZGpM2myxg5GyIKXTMkIgbbY2m26mZS-1Oe70GNK5WlSJvdFjrikOKxtkonTHKA3Qhf5puEw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حملات امشب جمهوری اسلامی به کویت
 و انهدام موشک‌ها در آسمان کویت</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/farahmand_alipour/5277" target="_blank">📅 02:09 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/farahmand_alipour/5277" target="_blank">📅 02:09 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5276">
@@ -530,21 +530,21 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 نیروهای ما یک نفتکش خالی را در خلیج فارس که به سمت یکی از بنادر ایران در حرکت بود، متوقف کردند.
 نفتکش توقیف‌شده توسط نیروهای ما، پرچم بوتسوانا را برافراشته بود و خدمه آن به دستورات داده‌شده تمکین نکردند.
 یک هواپیمای آمریکایی با شلیک موشک به موتورخانه نفتکش، آن را از کار انداخت.</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/farahmand_alipour/5276" target="_blank">📅 01:42 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/farahmand_alipour/5276" target="_blank">📅 01:42 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5275">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">ارتش کویت : حملات موشکی و پهپادی به کویت.
 برخی از رسانه‌ها از شلیک سه موشک از منطقه‌ای نزدیک شیراز خبر داده‌اند.</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/5275" target="_blank">📅 01:37 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/5275" target="_blank">📅 01:37 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5274">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">🚨
 شنیده شدن صدای آژیر خطر در کویت</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/5274" target="_blank">📅 01:29 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/5274" target="_blank">📅 01:29 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5273">
@@ -556,50 +556,50 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 ‏بامداد چهارشنبه صدای انفجار‌هایی در محدوده شهرستان قشم از سوی منابع محلی و ساکنان این جزیره گزارش شده است.
 ‏
 ‏بر اساس این گزارش، هنوز ماهیت این صداها به طور دقیق مشخص نیست و هیچ‌ یک از نهادهای رسمی  نظامی و انتظامی تا این لحظه درباره علت وقوع این صداها اظهارنظری نکرده‌اند.</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/farahmand_alipour/5273" target="_blank">📅 01:17 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/farahmand_alipour/5273" target="_blank">📅 01:17 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5272">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e42bee8bd9.mp4?token=HwCtR3kqfVPspMlMxko_hjKFyBBNPBK4ZU5Dk-uNMccwrl56r0Ur473QgKpw8cnnVBVINatJqFIs7SZj6hsJhLfDfGKXM55JMs6WOOURstxJ3mPJozEVHr-aRDPpKFljTpZ9gTeasXHIPeyV5Ta0B7lQZjpSt3MoOfY8HI4jyCmtmjdCYOkO2u_UXGMC2hw3npKeEvJjvMlH73KoDPYCyrUMb-SLIXDURbCn_bODLmKdLwkTKtEpoLVBHqdfbnVzXBn6A0dI_AyCXSR5z9iIQKawcUQuqGR9xL3rjOVIVYYVCJ9KQfslmkCmOZUhN6KRTvDUzGsmWJy8Cp_v14IAEw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/e42bee8bd9.mp4?token=Gfat7AFEObUgIN9nrP57RgItwH7YCfQz8LEmhDAWGEhraEIRQ14TQlZn9_XGydtJfEnL08IYXIzrGo26EcELT1ExL0OToBo9qmE9CbDXl6jXR5cnGnD4Zb_qzq74bHjeTpmbUKeUPl2RA1I4gJYx0pzwrH_IBh-oi7FhyWdboPg5k6r353hawH9Zq39x36hwGghjwEsYOBF4ZRxQAvjePcZOoVhXjKoznbq07MpW2BXlRN7zgMecM51xFfVP9tutg_MEylo58_p1EYhVoiijf8TOiRXMt1xenXc7VRVh__5s6r_uLTa1vHTzV4wC_Q6FvCh8h7on9TZV0sTgXgfm_Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/e42bee8bd9.mp4?token=HwCtR3kqfVPspMlMxko_hjKFyBBNPBK4ZU5Dk-uNMccwrl56r0Ur473QgKpw8cnnVBVINatJqFIs7SZj6hsJhLfDfGKXM55JMs6WOOURstxJ3mPJozEVHr-aRDPpKFljTpZ9gTeasXHIPeyV5Ta0B7lQZjpSt3MoOfY8HI4jyCmtmjdCYOkO2u_UXGMC2hw3npKeEvJjvMlH73KoDPYCyrUMb-SLIXDURbCn_bODLmKdLwkTKtEpoLVBHqdfbnVzXBn6A0dI_AyCXSR5z9iIQKawcUQuqGR9xL3rjOVIVYYVCJ9KQfslmkCmOZUhN6KRTvDUzGsmWJy8Cp_v14IAEw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/e42bee8bd9.mp4?token=Gfat7AFEObUgIN9nrP57RgItwH7YCfQz8LEmhDAWGEhraEIRQ14TQlZn9_XGydtJfEnL08IYXIzrGo26EcELT1ExL0OToBo9qmE9CbDXl6jXR5cnGnD4Zb_qzq74bHjeTpmbUKeUPl2RA1I4gJYx0pzwrH_IBh-oi7FhyWdboPg5k6r353hawH9Zq39x36hwGghjwEsYOBF4ZRxQAvjePcZOoVhXjKoznbq07MpW2BXlRN7zgMecM51xFfVP9tutg_MEylo58_p1EYhVoiijf8TOiRXMt1xenXc7VRVh__5s6r_uLTa1vHTzV4wC_Q6FvCh8h7on9TZV0sTgXgfm_Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">محمد عمرانی</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/5272" target="_blank">📅 23:01 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/farahmand_alipour/5272" target="_blank">📅 23:01 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5271">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">به درخواست فرانسه، امروز شورای امنیت سازمان ملل نشستی اضطراری در خصوص وضعیت لبنان برگزار خواهد کرد.  پایان این نشست قطعا چیزی در حد صدور یک بیانیه خواهد بود و یک محکومیت، هیچی نخواهد شد!</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/farahmand_alipour/5271" target="_blank">📅 22:50 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/farahmand_alipour/5271" target="_blank">📅 22:50 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5270">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d52501c2e8.mp4?token=M0MWWmIbTJplcAbtA08AueOpsfAiD3HLzihF-JaWANgoTMs2lgMkzqo7GJwJgj_DPxyEbOzTX3FfLBtFHgQcZnac4z9rzQtPDWDqDygUe7ihUBgD8rVpqHlJGGKjaG9jXS5X2cxignMo3trC-uHaETfmliznWBbPVl6MaijGg1xIBy0IqVx7dbSqu1lxZz5Blukz7u_EXLMT7Jli6n-9Lk6Zg60CM5Ntb0VeJtQu-NHqfANhx85_Mo40mExyDcKvt9WttKjRK0I6rI7137lR66sqNJekmfWJlm4QIYn-4FlQIRbEXeP-B21882C_AUmYKupcZDUYuisGjkWot_szVw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d52501c2e8.mp4?token=hvBhfnMpHoe0vU5327V9T9Xa88L9E_g9327DVwNQl9aeDCoOQQeL8QHWpGQJ1n0NwO0VYCXUDuWocdh81cncwPVyBElgPn0VR94kFEhPLdBjIQUduxljbw8ocTk0XY6uy7mPyzLOktjjAmgL9QqbVk7azO-QlJ7WLJiBaZqVJhE1TSP93Ef0CuVVdPblQRzPh8-5vBsWfhnt7iK-kFibDdAaCExnwVnM90ythJEj40xPszZag5kJ7J-gL039tPI5CLOgdPMuueZFQrKOWymI2tWDzsLNs_pv1Gf5oUFuPicBUttFb0uXzDTsITDQXVf1-FX3ZMI20Kh8LCE_1qI66A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d52501c2e8.mp4?token=M0MWWmIbTJplcAbtA08AueOpsfAiD3HLzihF-JaWANgoTMs2lgMkzqo7GJwJgj_DPxyEbOzTX3FfLBtFHgQcZnac4z9rzQtPDWDqDygUe7ihUBgD8rVpqHlJGGKjaG9jXS5X2cxignMo3trC-uHaETfmliznWBbPVl6MaijGg1xIBy0IqVx7dbSqu1lxZz5Blukz7u_EXLMT7Jli6n-9Lk6Zg60CM5Ntb0VeJtQu-NHqfANhx85_Mo40mExyDcKvt9WttKjRK0I6rI7137lR66sqNJekmfWJlm4QIYn-4FlQIRbEXeP-B21882C_AUmYKupcZDUYuisGjkWot_szVw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d52501c2e8.mp4?token=hvBhfnMpHoe0vU5327V9T9Xa88L9E_g9327DVwNQl9aeDCoOQQeL8QHWpGQJ1n0NwO0VYCXUDuWocdh81cncwPVyBElgPn0VR94kFEhPLdBjIQUduxljbw8ocTk0XY6uy7mPyzLOktjjAmgL9QqbVk7azO-QlJ7WLJiBaZqVJhE1TSP93Ef0CuVVdPblQRzPh8-5vBsWfhnt7iK-kFibDdAaCExnwVnM90ythJEj40xPszZag5kJ7J-gL039tPI5CLOgdPMuueZFQrKOWymI2tWDzsLNs_pv1Gf5oUFuPicBUttFb0uXzDTsITDQXVf1-FX3ZMI20Kh8LCE_1qI66A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ویدئوی تازه منتشر شده از ۱۹ دیماه - کرمانشاه
 و تیراندازی به سمت مردم</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/farahmand_alipour/5270" target="_blank">📅 18:15 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/farahmand_alipour/5270" target="_blank">📅 18:15 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5269">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/1239a4e0f4.mp4?token=f0zXXTWt82uvRkNoM_5ydrFgCkBBzxO4vulD8rtS57rkrxjIULvYfwdSebwTj8rw2jECKxvmLrAbwbRmkjcvwJcDwUplwxHiDGSeuU6UyCpiyohsxK3JIun2FtUwEhCzhmmxux-Sktgwmc2ZfwvuoNGj0sNUMwAwkVP41-OhxR-q8Km7XiA8DWuyCT6MRMb_3fdJCZbQX-wLMWH0WFipAputGFmHLc7wbidZboA5E3CCXnAGuY8s4qUvHUqyZwOTxY12TmucpXaZsnksVd8bgSJLiCw_rWxCOgMdncfClmC1PiA0MoxUkQMtFjrS3_TQm7GJrFrY5O0krFkAqcyjYw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/1239a4e0f4.mp4?token=ScRCbDVjnyMa6CAPt7r1j-vpneoxxFjUblr7RyZOUEUUk9UlxpUj3C7lV3K9uds7Agl7LP5ANoh-aJN1ze-OT4NWuQW7JaJqBB2Sv6Cj9w6acVb4KSf9jlRqbgAjAgYcIy0rXVePqfkxzox-aDB0ck8j1EOxCVOSbgwaz0b_rZfttV7fylYs-NMe50PpEKczwUyGaUrvFEuJL2eo6QonsanJCWFlAnMsuZFb_AFED8xyV7eK0uaufWyjf19TjimZS5fu2d83O0o0N0eHntvK3m8-iHXTVLh-yGu3nxmAN8cPlyj6BIlUTypbXuGrW2ZVOcnrRF4Ot1fSwcAWtzzVHA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/1239a4e0f4.mp4?token=f0zXXTWt82uvRkNoM_5ydrFgCkBBzxO4vulD8rtS57rkrxjIULvYfwdSebwTj8rw2jECKxvmLrAbwbRmkjcvwJcDwUplwxHiDGSeuU6UyCpiyohsxK3JIun2FtUwEhCzhmmxux-Sktgwmc2ZfwvuoNGj0sNUMwAwkVP41-OhxR-q8Km7XiA8DWuyCT6MRMb_3fdJCZbQX-wLMWH0WFipAputGFmHLc7wbidZboA5E3CCXnAGuY8s4qUvHUqyZwOTxY12TmucpXaZsnksVd8bgSJLiCw_rWxCOgMdncfClmC1PiA0MoxUkQMtFjrS3_TQm7GJrFrY5O0krFkAqcyjYw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/1239a4e0f4.mp4?token=ScRCbDVjnyMa6CAPt7r1j-vpneoxxFjUblr7RyZOUEUUk9UlxpUj3C7lV3K9uds7Agl7LP5ANoh-aJN1ze-OT4NWuQW7JaJqBB2Sv6Cj9w6acVb4KSf9jlRqbgAjAgYcIy0rXVePqfkxzox-aDB0ck8j1EOxCVOSbgwaz0b_rZfttV7fylYs-NMe50PpEKczwUyGaUrvFEuJL2eo6QonsanJCWFlAnMsuZFb_AFED8xyV7eK0uaufWyjf19TjimZS5fu2d83O0o0N0eHntvK3m8-iHXTVLh-yGu3nxmAN8cPlyj6BIlUTypbXuGrW2ZVOcnrRF4Ot1fSwcAWtzzVHA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">دیشب در میدان انقلاب تهران چه شعاری میدادن؟
 نحن جنود الدین و العقیده / لبنان لن نترکها وحیده
@@ -609,7 +609,7 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 فردا که جنگ بشه میان میگن :
 موضوع ایرانه! تجزیه ایرانه! برای خاکه!
 رستم تهمتن و آرش و شاپور و…..!</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/farahmand_alipour/5269" target="_blank">📅 17:44 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/farahmand_alipour/5269" target="_blank">📅 17:44 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5268">
@@ -622,19 +622,19 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/j_LFbs34S7ROjqvdFxSiFc9R9-BEDinMttg7BB702wSjv-rEjIDj2Z5ozZ0fZAmJ3Ay4SJtYsrFPMwwlTqYmRsdgPjmRtmUwp7BH11z7U0vdbs8m8edleMwLGmGkvfwcN6j3faUWg7daTKWteIlUDzIOC4BTkdRQ8gwsKips0bIjK-cLoOgUy4TDDYMOsEDDL3l3k0swHOGfVoRmJXDMwrfe02zBP_81wvFuasA4VdFOC6jifXYRpsnU55VZA2wpXrEz_MmRIj69sV_Jk4RNAuWGtEs9uviZ00rTR-E6I1iyn1UBwgzRUjk8jCvGqOg0Guo2DocaOsmBMju0zhtT1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۲۰ سال بعد، در جریان جنگ ۶ روزه شرق بیت‌المقدس این بار افتاد دست اسرائیل!  ۳۰ تا مسجد اونجا بود!  حتی یکی از اونها هم خراب نشد!  همین امروز ۳۶۵ هزار مسلمان در بخش شرقی بیت المقدس زندگی میکنن!  در حالی که بخش شرقی بیت المقدس تا افتاد به دست مسلمین اجازه زندگی…</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/farahmand_alipour/5267" target="_blank">📅 16:05 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/farahmand_alipour/5267" target="_blank">📅 16:05 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5266">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M8HMxSxY0lWQVZQ4lrJahPJlKdONJCxXl_ZpqnUgamSecf9pVWEwx01owoC2m4ZRjsrcX1abz7AqHQ7gCoRCDb8gb4TlqEcP-6Tx3zNBJzE2-l8tVaBrhOZywScmgssvlfv80XWLyj9niEGrxW_tazOmQnUvJp_pJ3Kv-yb8geCZicCnbpWXeYy5nxmsiQ1Czs8EgUTRGGStOmaLpEr1U1mjhjZbNFIIi8VrFFlWEkmy8lrbzYdm5cjpSGRGrCJCt_aW0yTaL5HH-7d-VI10Yrs5JrOohfrK_ILEvjxV6pZVfrZ7lhk6YuG2suG8KZ3EFihbsLX_4KYIo_IuHVktLA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jBZ4x6_Vr3uaddmEEcPQ1_zy8semaChRV7FY2iTpRXNGbR1HJpW0ew1-SMYHTlzw3b-FdFuvnSgwL-Ogn2wJ6eIPymXkV998ugcFcdP3wsDIbKKIzy5Hgyr9pP_YL1jE6Wt6OmeNH4ewuZ8k7jPPU8omQL8Dxfttp9_YK68wMprXfCZpNbYVF9_V8gu4-hxOfypIuhPehus2WTMXc4ZVpUkz9ia-f0sEsWZVp_JZRKlR6P6Pyd3zlDBslJvl2eBVToNZyOEQlR-FkhuWfVfcwTh5uH3OC0_Jr9jXevwcf_uxCn9qFncP33cJ28WXGS5OG7mdhe_h9H1WlsaQrhH8qA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سال ۱۹۴۷ در جریان جنگ اعراب و اسرائیل،  وقتی اردن کنترل بخش شرقی بیت‌المقدس رو به دست گرفت، دست به اخراج «همه یهودیان» ساکن در این منطقه زد.  منطقه‌ای که حداقل ۳ هزار سال یهودی نشین بود!  یعنی از زمان هخامنشینیان این بخش  یهودی نشین بود! و ربطی به اسرائیل…</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/5266" target="_blank">📅 15:57 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/5266" target="_blank">📅 15:57 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5265">
 <div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LCmzAmsshT_4iiYEDArU7Ry_6XY0RCq7y5CJsFZ3ywxaZd713RBkx7bmf8tjaDW4AOZULBpJSvz5tBhMp64lVgu4BF2AQREQeSe0YozNF9Y9mVHIgtXkn0LHkoPhCSGeUkBwCINDTuwy52hIIWv9z3UvHPZxS3DwtV1v6OwNtZ9cg6C2luKtLDycIEz8XVTt79GyF4igXJBow8nCy2HIO5hnrCtsst0OwhOE6iNa38Ff5Uo_j9jDfUYHGKkAi3DDBz1506oFqhC7zV6df50hGx-p1j-wsdfvQ-WIWusorGTbQovHdxEGAhrUCz9gSGKewbscMhW-MuoAOGW44T40jQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MYZXKmw6Ta6Ju_ZxOjY18E8sfCK2bNn07BQsqk-IO8TT897tFzyk3fcTrLVPPPK37zXvH9yRtoaQ6BcQd3YNdiic477SDsh5RP_LevCVwtYZ0n75XwxA5qUWJy-obHiY_1VcZCet-Zu-rgA9mM0mZks0kRCN7-lbsuN1w4gHFTVs6mPOoQyfLhEFpfbp73h_cWnAvoos18uCKWprMSMoSLybyhLITJh7GWVrO0qVC5pndSu6gyyqaGjOF9wlGSi752dUWhXtobghHDb4rIngr8HxzDIk_PMqB7Yo2MG1vup-M4hAcJlFbFcug_lEiuWd8ONIn7rnsOIQSOv1aA64AQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سال ۱۹۴۷ در جریان جنگ اعراب و اسرائیل،
 وقتی اردن کنترل بخش شرقی بیت‌المقدس رو به دست گرفت، دست به اخراج «همه یهودیان» ساکن در این منطقه زد.
 منطقه‌ای که حداقل ۳ هزار سال یهودی نشین بود!
@@ -645,65 +645,65 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 منفجر کرد! فقط و فقط «یک کنیسه» رو نابود نکرد
 که البته غارتش کردن و فضای داخلی اش رو نابود کردن ولی دیوارهای ساختمان سالم ماند!
 ۲۰ سال بعدش چه اتفاقی افتاد؟؟</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/farahmand_alipour/5265" target="_blank">📅 15:51 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/5265" target="_blank">📅 15:51 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5264">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T0JQOLZN9vtX5HZWYEOxHmyAJ1mdqwpe3CmhfDzr_ziQvXo09fcvCPiDJwQAt6m3VfeeXVL7Y1x0fFxfvTrK6ntN6xk4bjCqWGlnXCqaJ9Xf4k1M9QUU5yXo4pKaKvyFjglWLwgLUYtY-iukhPl--RTNPonXDralwqbmdma__Tl7N4mxupIQoDRI8h71Up-Qiy85SFI3Zrl9UQjPJDYK4AkQPDEUEEWumDJRZKsnCG_ZMoDZOIjy8mh_dxd0l0lya4f17yPc-6Cb1nXLmq_vCAJ15BGXWZ3xKe6bYx1JwwEUbl16yrDyIR3h_WML0cghhiRCOiwb0L7yYoflbmMpvg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FAltQxTKkLqhy09-Oe0UpTWJiVuF7ajHMn6PMacpd8F1BJ5MLHPOVgikcsl_jgT8NsbVVghnpeIse1dinJvnW47R0-UxMjGPxBWxWDFXIiVaROTpyxgxo7zIelQROwuDX61-RbOdI5wvaH-oHNkyL9bae6sxYtZfKU6pE1-L9wXx2BBgzR7melaZXD0CNUIN3jsG53xm_H8iNp4z29tQHchUzgK3oAzmyl2dy8XeYYOd3wNgjVXpQMi6SyspuVVgeTeDutVT0YZEtfUo_0pOXsHHMALzg7vBLeu6V5zQQ69u0W-xcKDYlajSw55v_fsjCZs7MeMrEO8wEvkIx_jJlQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شهرهایی چون «ازمیر» و «طرابوزان» و…..  کلا مسیحی بودن. طوری که ترکهای مسلمان بهش میگفتن  «ازمیر کافر»! جمعیت ازمیر، که یونانی بودن از جمعیت آتن! پایتخت یونان بیشتر بود!  مردم همه این شهرها رو بیرون ریختن و یا اخراج کردن از خونه‌هاشون و فرار کردن  یا اینکه…</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/5264" target="_blank">📅 15:44 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/farahmand_alipour/5264" target="_blank">📅 15:44 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5263">
 <div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KRu4-mu10dXnLVeShw8PTKDTY0OfIED_toZ3t2gC1A3l-ZY1qDLI80xFjFuXYjPAfAZe-rUYclR0viIQMzuXWGNRwuPlp78noY7c8eqt-QvUSUuJJGdkU675ej6y9cKiME4OntU7RktmDuqq3W9C0VZzHYRbDiesY3AWDVVnAkLQ4klmoDVDPqXyWwz5myjJjg2kK9G4uQ2v8DhUT2EEvKKYsXSv-U3solodihmwqkHuAHfTq8Zwto49QG2KOEDkweBRBGFce6waSJrkSJDfLVkMRiBAtCRyy9XBxBx81EOsBVdLWIMX3fKObhnhaz-QqHl8o9efhfZw246d_IyNww.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M3J_o4-FHp57PUOFRUL23AkwqylpH1CV03WH6ysc-9Xic3phNbx4bGxjI86952kjVieWqZIAxaQq2JDuW6Xmk4sqVeY2ILPwavlOOHlmgf4og5Q2-E6fy9C0Gp9nGchtk03bz-k9cYQC6BPumbz2jgol-b0ExZP6H72Vvth7E4AqJwO1QPhZMkrqjINJJeaZL_UhNzltZk4fD0GcK0Xso21YLT7-0dtAQfv16crVj7MiV6Q9PTcs0jWXuqFlMhvQOXlhFDtZ47L2OF8ibnjwqVM1DFhCb7XHdl-tb-uT1EVSo7YVrJcERj8hmyTYEpA-E5x63S7rF2Sv1KQEi0JPIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عمر این بنای باشکوه و عظیم،  کلیسای «ایا صوفیا» (صوفیای مقدس)  از عمر پیدایش اسلام بیشتره! ۱۵۰۰ ساله است!  همچنان باشکوه سرپا!   با وجود اسکان گسترده مسلمانان در این شهر، این شهر تا همین حوالی ۱۰۰ سال پیش (تا ۱۹۲۰) نیمی از جمعیت آن مسیحی بود،  ارمنی و یونانی…</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/farahmand_alipour/5263" target="_blank">📅 15:26 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/5263" target="_blank">📅 15:26 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5262">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZUeoa0nPRjcZWWTbdBwSWZwRxsXOYeyhns8_Cfo1X2zzp-0onwT6IosEVp2Nvw_yTVNErRe1kfUnCb_KkhSDnHuyKY9nkz9fXcSx5m1Zyp3Gujbo98igJGXYHd6L-2N45Q-HBzGnKyvscX_cUHUX9U38bZUyXDo141II49v4grAlMGf6--BDYqDvB2fY6TljBxqfLr_6POlHSjMcytQlmEwtBZJ23dZRLQ4RBgY5JyTdDq9-S9qlDP3a56KbXUZUC6Uo-DEv45CA5u2mK07B2gpt4PtfrQxnAmx945TT3hBGZRuKD20MuWemRESlxHlfp_4t6uoR82Aa066vBmMmgw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Tc6pMGQwQBf5LQya2ccYrfuZF0TjFkt_v_uPAsFiyq6THS9Mycg3qjPbSbITdx09IY-KGnNO_g5c_6exFiQuxUsawIT6H48DyK3HT6bb9zAl6LmVKDuyQKDGeQqs3DPI1c1qpSBTxc-IT7tjry7UR2rScuyaDHkAzEB-Vx_93RBgEoo9yGEElKTYlPZktDdLXnB52eEho9Iv0IWilkssSuHhtNA9XowXe5gY_mkh9tG9w5F8XrjejjsVgt6RhpBJ_aRafb2uWLbUhHflnONU86o_fokIRNutz-bG8HLS_9pJ-5oZLnJfiYVo3JTVOems8gVx4w1ONbRff_9ZJ17geA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">استانبول برای ۱۲۰۰ سال یک شهر مسیحی بود،  برای حدود ۹۰۰ سال در برابر حملات مسلمانان مقاومت کرد و تمدن رومی - مسیحی - یونانی‌اش رو ادامه داد.  تا اینکه «سلطان محمد فاتح» استانبول رو تصرف کرد از اولین دستورهایی که سلطان محمد فاتح (لقب فاتح، که اسم یک محله در…</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/farahmand_alipour/5262" target="_blank">📅 15:22 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/5262" target="_blank">📅 15:22 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5261">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ANsjEQOEZJka_JM6TkaGETdu1PRSgSKaRbCFzTHOEhBcUnyCCaLnziAzY1cNFtK4PSPUCMnMmhEdhheGUjc-4pVdvBb4RrsqHNBSOpLmKKzDLG0kUg-bmipDIwoP--E3cCme-BmJTbV0biyNRjP6kNcZ3LYXq4HaFoWkLLAtkatftgqZnlt8584oDzlZyZsCWScsH73Hoa1xNhZLbfBTGMCsRhWLqNVIYHGeAdXiyqnZLMVt1XTfkc4KFscsfZxASKeNvCQ-Wh2icaxolsxnLxtP9tegcUfCMD18gfwUb1LDZUZGG79P_bpWOkJK3oNo2JzQ4xFn6LxV8N7r_doyHg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اردوغان میگه :  «استانبول  تا قیامت یک شهر ترک  و مسلمان باقی خواهد ماند ! » به نظرتون چرا اردوغان باید چنین حرفی رو بزنه؟ در خصوص یک شهری که ۱۷ میلیون نفر جمعیت داره؟ ۹۹٪  مسلمان!</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/5261" target="_blank">📅 15:17 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/5261" target="_blank">📅 15:17 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5260">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/64175a1cdd.mp4?token=ci0ftyzrVkFhnTPwvFbXK3JDV4JeXIv-kgsSMKY3pDE36WNo7-wNcD_nOJdYQ9oaxvkS8s8jD95P1S6Y3qQEV9pg7fE5_Zvt6kT50B0xBHxcvcO9zlcIYt45kcUKlG1GBkIWoHKT764ddRbNfQlGb3Wt7JATiBFaLe4K3sRqHlQ4e7ncv03D6gn94A_tBBahSHW5nr8QOVbmSKp61SDo2MiSSmLu38wUtGGZNxPLcl65mBZ3jgh0GbRPPrUJgefJPJwns7kMi4ksitzQtuzBGvpRa5bWUo7zy6rLQyYtu6b6RPYIPdL_q7UtBRCQjGjlSyPq6i1n3T7vzV-E-HH3WQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/64175a1cdd.mp4?token=jKwWI5aFz_7D46F0ph5iSdmea3h16weZ0hG3ulfZeCZDFNb04UdITm1LSFd4Aksu17aGGKmE1rA01SYtM7OpQ_UO41ACs6YZNSIjBabVa3Lw74gFWhSC2SILbZc-XkR_1IT0_iGFNnX6R7ZaMEZkXfx3VkAZ4QZA1aHTfXMnSekmDSlvMJ0cDRfHK6acsO4sjEwLS0iqLrohAnT1axWQ0CtWBZok_NhJEkv8egwsvg7m8Z7oIbNWFQp2L-34re2T8-6jZpllThHjiDGUod4oemGO0_tlVAmjGFq-lROsbnthElHx2VdRnSbFNZjgw48F_sYJ--a22U8Q56OQdwnZbw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/64175a1cdd.mp4?token=ci0ftyzrVkFhnTPwvFbXK3JDV4JeXIv-kgsSMKY3pDE36WNo7-wNcD_nOJdYQ9oaxvkS8s8jD95P1S6Y3qQEV9pg7fE5_Zvt6kT50B0xBHxcvcO9zlcIYt45kcUKlG1GBkIWoHKT764ddRbNfQlGb3Wt7JATiBFaLe4K3sRqHlQ4e7ncv03D6gn94A_tBBahSHW5nr8QOVbmSKp61SDo2MiSSmLu38wUtGGZNxPLcl65mBZ3jgh0GbRPPrUJgefJPJwns7kMi4ksitzQtuzBGvpRa5bWUo7zy6rLQyYtu6b6RPYIPdL_q7UtBRCQjGjlSyPq6i1n3T7vzV-E-HH3WQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/64175a1cdd.mp4?token=jKwWI5aFz_7D46F0ph5iSdmea3h16weZ0hG3ulfZeCZDFNb04UdITm1LSFd4Aksu17aGGKmE1rA01SYtM7OpQ_UO41ACs6YZNSIjBabVa3Lw74gFWhSC2SILbZc-XkR_1IT0_iGFNnX6R7ZaMEZkXfx3VkAZ4QZA1aHTfXMnSekmDSlvMJ0cDRfHK6acsO4sjEwLS0iqLrohAnT1axWQ0CtWBZok_NhJEkv8egwsvg7m8Z7oIbNWFQp2L-34re2T8-6jZpllThHjiDGUod4oemGO0_tlVAmjGFq-lROsbnthElHx2VdRnSbFNZjgw48F_sYJ--a22U8Q56OQdwnZbw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اردوغان میگه :
 «استانبول  تا قیامت یک شهر ترک
 و مسلمان باقی خواهد ماند ! »
 به نظرتون چرا اردوغان باید چنین حرفی رو بزنه؟ در خصوص یک شهری که ۱۷ میلیون نفر جمعیت داره؟ ۹۹٪  مسلمان!</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/5260" target="_blank">📅 15:08 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/5260" target="_blank">📅 15:08 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5259">
 <div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M_RTkilYxI4u5zZvj_3zv2eB4M_nmV0ZD9FDoqrPewRKHUiBzBA4TC-eFbqboJzbQUrLmAZGi5w5RXbiC0xFhvW-SX6chCAWELHyYrAYiCUpQWNz3oDj1rX2HTio5fgsk_jDUat-P8wPF3wNXAJBdAZRibGZ2hkJEzEn87LuzZyxo6PFXTGFaB8jgLt5Rha-sBf1fh5Bxcz4kFP9tp0z7ort-8doxmf53fDMAQmNXa8Dc6KWPqn95dVqcqAlOZzQ5iMAwj2bmrRjzbHx6ELTb1VkbqwlsVr77BlCOVSYdmdlOOUTsG1OFtc5lwwN7F3INO07W0XAMk5mFLn85TaXqA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TVqL4ltGVg0MGpP0DNhUnSG8luf4TMTxNfHfiEKXZ_OQvyZ8-hiDU3ahUwYfnaeEJ5f97ztoOzprCWTsvbm768tTv3pFN6uuUOotz2EsZUmG8dzlP_lAV-jeXvus_cIovEJzwBFO1yLnySwVR8vTp3kgvq38f0HM8NWw6AsCooard6Pn5wkQZDvfdzxWxh1D3sndUNqAPrUS96XPhAfU06xqFhsinRdo3267GEmiCW13KXBayVctyOJUkusrIoTwltidTSs0FftVHUFMEl7PmbPJUoy38L6RLHSzHcSxyUb1RB5USAyLRx0rzSr_oX5MzmDStRwmxCOf0ax1CkZD5w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">احتمالا شنیدید امروز در تهران و چند شهر دانش‌آموزان تجمع داشتن،  خیلی خلاصه میخوام یک نکته رو خدمتتون بگم بیاد دستتون جمهوری اسلامی چه موجودیه!  در حالی که رئیس جمهور و وزیر آموزش و‌ پرورش به نوعی درخواست دانش آموزان  رو پذیرفتن،  اما «خسرو پناه»! مخالفت کرده…</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/5259" target="_blank">📅 13:44 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/farahmand_alipour/5259" target="_blank">📅 13:44 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5257">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/cNxwSJdDigX55H3n9W1akhM1uKjrjxqML6m0hec3v-RXRA4yNMB-0IYHfAAsiRMDbc73vS8oBGtXwJy-MIBKwxVdDShqoiC97eCJoMmfDhEantglteNYgH_HvHUtKp0g6SRAbejzdsSUoq7ILVOrLJqqsbSTtMEwakhyqtVpF7X9ApD_NWUSuc0l8vZk5o7vYmaSL4yJdLCqftsXBJRwTsuYuUJjggD9uVm7bG6zCb8SKUKNIMSpfFrusVCbLJYmld4d-FruOgS7_wK-_gR1xLZLO-lE1Jv67dMFdYp3p9pawv1QZNIu4EXN8LRNPRTjP5MvbaMQepFxegZKYD1aIw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/jj5kQFdMee-6uvxF9OvUL2rzILYnt29OeJ3kisEE7f6S2MEur9ZHU_adwgMH2jsRy6YgZG6HC4OAk5mekqi7xQOONgRigYdzTE_M_Xy-Bjrp6Bqu-pF8NRZgwVZO6dS5JNyeRDlgu7EQq-seYVOHnBMh2ClErymD5YfxPlIAx2kDgStVhs_It9-19f3ta-gFtpjUNej2ftoINWb1XCeLOMKmsVsAJUWuCPKOX-xjBCehuDQN3FHJKr7wjJk0BCcLcQckZwcB7z90AwavpbeO-ssbLDseo9ONNSf-yibF-IVjI5klh2QkeZRGO_XBIwd4uOUnMlymHp3c0jZu_zvQVw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ZukbX3bDbJCMWay5sWPyKTqNWfwF9fk0aVXjqNZ9iwRawWzdNOSd1ZN-uiNubBAoF-ybceWuGEjhhejuDXsMCvE2pNUHGf3Kcmjb6TKDhhw-gVtmwEVEQ5aTe3oprOV1h5jJDb3ik1PZa9EH0C2elhLJHJ-NmGsoDxIw2HVOzD73XQeUU9ajh3mbHALk7fOSPTh8HnvZyqamLgsqE_ji5wNrg-UGyT3OHncsQUm1B2KoSJy-zkQlKee0-cxLB-KqZfAgGes2OGZM_JfC_HUEf7MyvZmz6gt_GS9oEIgZ68B31YwJtuAGPueELoBho1KDhGZ21EPlZ3rlkWVodcE_pg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/KzGEPQhvQzbwH86KOfmGUlohWhiTxduQ3WEAiv8SUb2bClUIqGAhEjh10OpCQcxPtnWIO5jWp-rrWGv8IYB-pSZmSKrNU8w-UxE-xYyvBceCE5OqYoAxG7UNgZ6dQD2SCWLNf4XqKRtyW7A1sqWJpUYKRflr7oMmDcqrrVrtJxhQomD7LBofg38ZZusd3YETplk8dWtOAblYbb7_uV7g5JNyfn6oE3P5lhszk6CdUiVivZUfxRyoyMsuTeZxH83Lepvzm4Ddivivde39tqJE-Yl8P5AmSbWntpjGJaYXPCb0sIVKyDqvEYISrB1-nBgqV51Ef3reJ8o7NYEXG1U2Eg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">احتمالا شنیدید امروز در تهران و چند شهر دانش‌آموزان تجمع داشتن،
 خیلی خلاصه میخوام یک نکته رو خدمتتون بگم بیاد دستتون جمهوری اسلامی چه موجودیه!
@@ -712,23 +712,23 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 اما «خسرو پناه»! مخالفت کرده و همه چی قفل شده!
 خسرو پناه کیه؟ دبیر شورای عالی انقلاب فرهنگی
 که توسط خامنه‌ای انتخاب شده و نهاد به قول خودشون انقلابی است! و قدرت و نفوذش در مدارس و دانشگاه و….. از رئیس جمهور و وزرای آموزش و پرورش و آموزش عالی بالاتره!!!</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/5257" target="_blank">📅 13:39 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5257" target="_blank">📅 13:39 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5256">
 <div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c6Fd_moVp72r10W2SshpZRYwKiIbKOFTiZvs866uVM9LC94feWRRfGgTqf_cYWBGBz7aVVKHJRXqouTlch9Vz7ef1OybRc6WELyCv12tkfhnGCJOl5c-8EGmHzw7anRCsNdaBZvh7_4l1qRuIs_mF_XCQMPiXKWMtpXgyi4zOh3Ny9zrVlGH2ZbtyP3xyG8ioTIWYPhjZOp-Z4DOckz6csPRKMiURBp32C_GKEuC6RRTRfScZnfhHGm4dtoesXv4V6KKD-ueGZ5PoqwHHKtIjDJjcLxRAzBhFvUSwH0w_q6atV5V_cSNxhHfBNVHpS-ZXcaJ2R0NqY88VAy3Y3kebw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UX6QpqdM7_MQxrkL5D4kLZFnuGKZuwRjJKKMT32c5eaNc0iaHCvxi5KMTzmd7Pk_o9ljfegqapMU1yI2UzGacIE4gqdDJy4_K3LuXsZM2XixTB7qiPxRIcnK0IVLHlr6xIzyLIl4ZS4Z_Ts3XXg-M7iF3bWybeudfUfSmB3nPCNKemqJ2-SWYPl29il8lL55SeCpx2OIrlfd5Lvw5EE92pg76gMm9oKbjOldi4fnQQgmIVo1j-q8-rwBjgqOMmuPvUG1ZiWj2nwKbz0CDRLiKRHEXGmsR5AMdIh0SHwdriQJi-NkIB52ULvSoydaESjs1ZN539HZ9gba7T3p0v_jZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ویدئوی این گزارش به تاریخ  یکشنبه۲۱ دیماه</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/5256" target="_blank">📅 13:06 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/5256" target="_blank">📅 13:06 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5252">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BFJVa8iKagnpkxxH_i6Rg80UVOb5hCUP220w7HufTnaNH8dXgkG1VGTshuxCo3c0qhUGVvqo8poqRtgT1RudVBZ5RfOPXbCwTj5CkZjVIy7k5PmqPeOsm3m1_GgLIV8XaJdSqUr981Pv4MMkH1JCsPEfg0Oi2YHW16sFE1zRyK6yPHO1-NoeI_a_JS1maJYUEj-N1-jJHy8_WOxYrbtKvw0jMPdn8U9wCr66-Ff4sumSOslRqqIlFFpPG_ldIqVoWOcYUMl0LlB2MajRxD5G9cxL1TBOaGV43vKkUrC9G8olJ4VSNx1m3Sd5nN9WGNoyl4ohjPRHAuja48AQrNGVzw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/C1PuH4Rm95WJe3LPEsg10OzXFRz8D6SfKIXd39Lb2JyqRlomYpY7Hx-jwGQIN4UnCOzVmFkxsN_cxuw0lAFoqmMqBrJTFz6JXKwVa6fJp6OctiE-yF1AHWwDa63u3nSiulqNk9BwiLCmsm_C9eNeVlFycWdZ8nGFxdm7djuLII3OnIC-_pZtvVDtRmCdy0rXHQurD99IcjNUxGG6uG_1DPoIxSAsjDtaXIdteKoo-w0g0CUfcPXKTsIpxEs3LqW38uaSSI7h_XNl1WxqT8PuNUXGC4vSyRjv946IX7TSHLtnutk5xVBybr8bzvQz5jpO0bGBYd-Nc_iTdD504ufIgQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/j6Hu2qjPxlQI-S3lKiXeyJYWGt8Dwh-M00XzjaOSpkIjlDPFi6BUquYACkk4tC_Deyby-8bGxRvzgg1o5cUP0A8BjYPk_cldv32kWhGtaDVpwpjVPaiEdq-gZ5Mtqjo2giiaUcQaK2bzKnCvZ3-_o3LTNDAJy__HeuJkh4PTgv1rZN_gnqFIygFSa6ebZarR1AU1j7cerKarZR79p63jiYEXbAz185tnxDRHujKGhykaWXNY6DLc4Gr3HKYQ-mzrVkCFZLc9N5914peRGJ0XhLN1lHoGvF31Kq12Epi0R3-kT0oeCTLVNPYRBAyfUlgd9oPvLqp_kjgWp4S18urMLw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Uqd82cb1f3qOgZ5xOoNGho6OJ7zVXbNBvCHnvxSljaj6JTGhAFle4nCAGmZbxgNWu0PyRRDusc7rrDWnKxz9VgGtPBEx-3c7FamAIGzJBeL9_EylHonxhrdvlS_fTL_NXUUne0yJJ53fyVsujWpKZykU908-8zNefNolgBqSymAywuPFxZkDv5kFpu5HF15FwK4AmSc3lzmspSUSYnMHcKtRBsAUsxh_HNvTWMzDUjxwRIh8nu9R6ilHHMnLYTNlI6GpYXs2pykRpp8R23hy_rNzxkrbGhVBH7RpYvHYtQgwRhSylxqF7Obb3pC5XLMRrj8xJrHruJQSwnh4bfVa1g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/NIbkTnQ3IhEp-5fkmh4I7O2KyHSK8tzBAdkTRm8HMuNieEU8Sx1ipvEpgsP0IMm8mq-o7qwjg27L98Xusy1Th1xqk5lg2tcK7_Y1buUG7N8-laLLMSHmLdMa_k0fbRHlSN4kjL5CJMl-uV4bV3PlTgo1QzzdmvnV2nZ3IccdU4-UgM8ce6wKLB31zxkyL_-p5Jh2M5XPuTY6YFiCFGzGdWWYpiqVCwzcFhL8NWshJRvYAJoCi4bBdZhR_kI89-vG56wfMfClGCwmSo7vF8K-0vFKh9eGnRPNuD2K9dH7Tv6LhZ81BBClnn60bbC6E7-Nsj3cSH3sc3yuSBz8k1RH_Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/f5lRmfgf9W9bv9gJbuE7WaU4GT67ZNBc5sQ4elk12ewnsybtP1t2fRSrQmYaMLDuh8VU7hKGlz7BOFdD3hEqwHOjQ1Gm6ECKimQ7gWfjKb43ySpylIhd0rEihwgITNt8efod1tSv0IsWxxopdrl2hWfR7idDvR23A-jPjokV36mGzTrQ7tWW1O9IpjHG24OSbDKQdYZrWi3dov3T0_fmk52t1mWJdFWvDG0IawcyJjtWl2HV9DYtWxbfgIHEt1GYf4qgdh_Lynx8N2baVwDBNvyO8dI6j2RMyt6H8sOZzpuhDdVKqkfZEFHKB-GF-rU6u_Swmxldx4epBnN4AJuKdQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/UdYevtyYygrcpokTdbe0p6uU6YXBlkqm3uJWC-6NcqENpL9HFkYQqQSrhygXc23rigOd26aNEhcHwvx-RwNT93gIOA00uqW9Ij44h2OJadwCuHDdT2Vj6p-v1pgkKzzyFGCQBy6CBs-TlIyWqr7mVA8rpRywIj1j8l5z5RZiAwrOwa0hKLpkNp6hGDGIB9fGnhG5XtufD-Bp32s5ll9On_r0EUSgqH-pxdbz-xpkhm7ubJ7hXfDFXoWKaSs56hIvJ2yPrS65m_EFehtm2c-mOd2hQdStfmGljNR5QvsZ7PXdg6jdAwIfK0-p7bvLbV0sBCvTJKPsMaGDcL0_2EPHmA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Wx6fH9YjTBprPFMPtf8_2NUBhjY7R_M9x7VlxsQp_aS8-mdUc-b6pl2dg1Voc-mlBeA7GehiKaybGJPEOLsYOvT7-PU_KSnkDMiNRhk6BYbO9Jepo6l6xyL9S8JcmTsJrxyZKIGkXUSpINDs-k9mS8I7G_5LOrfA7biAjEzTuLNRvuM7pqueL1zCTFUmOawJ3VkUiyxnFry8cUvLaQAnD3BiNEiqsllb-g0SVA4gHQFPezrG1fx6LgLNZxtIDMk6l9y6iUItxkM2QRArV2N0YuF2svAQQyT39zwp9ES5soeA4pmGfgFg20e5PCdxkN4VZFKlwQd1wpGb67Eh9PFX2w.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">و بعله! خامنه‌ای و پسرهاش
 خیلی ساده زیست «بودن»!
@@ -739,17 +739,17 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 این فقط و فقط «یک قلم»! از ولخرجی
 اینها از اموال ملت ایران بود!
 در کشوری که هزاران مدرسه‌اش توالت نداره!</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/5252" target="_blank">📅 12:57 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/5252" target="_blank">📅 12:57 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5251">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/25938e5740.mp4?token=kjpd-ix3ROpaM1izo2XoM5Xw7i6hElix-bnuLUouxKLQhzRcN34RUixcYkOfIkC02Bn-zhDgcdlXHHtRhKKY7uxVXXdzVXKpfz4cwbcFBUkiTHnFZvDRfKPJahMipxGFgsqUWTk8uoMtO0EERmqEFbpVPVzYmGtsAVrfNC6GtG3oLh4F2aVJY9wwqFmn-XGle14SBt-OsD5TgnBY1Z5tQHm9keMsuAAHwL8wXcPeR6FJHElXIXMy5Oid3C2amZnJHJ9en25ATVL0nAF4jePOvAGU2NbMZdUVBfTLz6Vrp3xrRN7uxiypcDVp005e0yoXlpQHn1uaeYcssbN61cu7GDnpsxP-invHZvFpjHFUn1f3YXPzSdF55L75ZEnuD5EhukUuIph63tl0nOo_3bmDRsYZbA4duOjTssnZl3VDY5gk51YOzww0Lh47FEwCeTDoFLeIoJ1ACn9W5WtBDNlV2M70rOuJPlSATsKfsoj5ijv2IczRm1jvn1iix8yVpa5gY5SeTSw713A8JgTCoWQbGDO7C_nTzjHqWnWvrViN4YylEylLmziHlo5NFeOQFRaUwF87NIzNLOQFQ3XoEtLtlMlemJRDZzLf7xYVkcFX7xhmBw_1_lzUbbNVzTsfyZoswocJ3l1bzbi49TDSIturwZmEzz24I7g-cYZhj7uf1UQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/25938e5740.mp4?token=om_jZzOtgAy_I7j8g9Qmjw7xEV0XLqt45uV6LbNgkch_7sKY99MUncDujpg4XcUQy1ymS-_00KzpTyhmV8Ae8p1p7xkzd6s1CL9CtpAJk7HOT9oBBFKrfLK8TAGVUo0reybiEr4plafk59sxRVZxb52XXPCZ9Z_oSeqOuCkHJIavmiOZTQqx0RQA5P0XRntVDJWA-C0xAHUg9OCvIJeDj-AxJIWheEHtmzAqxVh6VsYCnrKIxIvxnO8UZKz9KWdpEsGHGmprSUBuR7JMQd7d7_yl9sEd9a1u2zO6Duj1WJ0b5crFl5FhrApdulUWe_dn7nLHANzCivWxJfI5-veS4U2otKa_gfGPTgPmWb9bOR1w939DDKwI8TiL6ceIRfcfuJ9DhkYzZbcZz9KQruAI4vRbPPWz-N-gbWPLavJ1zCIw17cAhl8VUqpZraw_m5WbFlHrMq66w-aolB1omFILgBXtwjizIQRb9IykT5nv60G43LB6ZkejH7EjqtHaYU0zk2XdPtZ4uOC3L_lPp0NNdculu6MkWibY3ER8H-TM3YIUqAXlTFkTqMQA14Hj43aXoeQwMA3qnjxeJYU7g1RS8UZ3KdSx7LXL9hmchXw03xpXeEg42vvJ2urFkKkLDl0uXwF2r-uUWRrUiMc58OhTpg4JaIaWahP4d30Fz1GwjO4" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/25938e5740.mp4?token=kjpd-ix3ROpaM1izo2XoM5Xw7i6hElix-bnuLUouxKLQhzRcN34RUixcYkOfIkC02Bn-zhDgcdlXHHtRhKKY7uxVXXdzVXKpfz4cwbcFBUkiTHnFZvDRfKPJahMipxGFgsqUWTk8uoMtO0EERmqEFbpVPVzYmGtsAVrfNC6GtG3oLh4F2aVJY9wwqFmn-XGle14SBt-OsD5TgnBY1Z5tQHm9keMsuAAHwL8wXcPeR6FJHElXIXMy5Oid3C2amZnJHJ9en25ATVL0nAF4jePOvAGU2NbMZdUVBfTLz6Vrp3xrRN7uxiypcDVp005e0yoXlpQHn1uaeYcssbN61cu7GDnpsxP-invHZvFpjHFUn1f3YXPzSdF55L75ZEnuD5EhukUuIph63tl0nOo_3bmDRsYZbA4duOjTssnZl3VDY5gk51YOzww0Lh47FEwCeTDoFLeIoJ1ACn9W5WtBDNlV2M70rOuJPlSATsKfsoj5ijv2IczRm1jvn1iix8yVpa5gY5SeTSw713A8JgTCoWQbGDO7C_nTzjHqWnWvrViN4YylEylLmziHlo5NFeOQFRaUwF87NIzNLOQFQ3XoEtLtlMlemJRDZzLf7xYVkcFX7xhmBw_1_lzUbbNVzTsfyZoswocJ3l1bzbi49TDSIturwZmEzz24I7g-cYZhj7uf1UQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/25938e5740.mp4?token=om_jZzOtgAy_I7j8g9Qmjw7xEV0XLqt45uV6LbNgkch_7sKY99MUncDujpg4XcUQy1ymS-_00KzpTyhmV8Ae8p1p7xkzd6s1CL9CtpAJk7HOT9oBBFKrfLK8TAGVUo0reybiEr4plafk59sxRVZxb52XXPCZ9Z_oSeqOuCkHJIavmiOZTQqx0RQA5P0XRntVDJWA-C0xAHUg9OCvIJeDj-AxJIWheEHtmzAqxVh6VsYCnrKIxIvxnO8UZKz9KWdpEsGHGmprSUBuR7JMQd7d7_yl9sEd9a1u2zO6Duj1WJ0b5crFl5FhrApdulUWe_dn7nLHANzCivWxJfI5-veS4U2otKa_gfGPTgPmWb9bOR1w939DDKwI8TiL6ceIRfcfuJ9DhkYzZbcZz9KQruAI4vRbPPWz-N-gbWPLavJ1zCIw17cAhl8VUqpZraw_m5WbFlHrMq66w-aolB1omFILgBXtwjizIQRb9IykT5nv60G43LB6ZkejH7EjqtHaYU0zk2XdPtZ4uOC3L_lPp0NNdculu6MkWibY3ER8H-TM3YIUqAXlTFkTqMQA14Hj43aXoeQwMA3qnjxeJYU7g1RS8UZ3KdSx7LXL9hmchXw03xpXeEg42vvJ2urFkKkLDl0uXwF2r-uUWRrUiMc58OhTpg4JaIaWahP4d30Fz1GwjO4" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حداد عادل پدر زن مجتبی از فعل گذشته برای مجتبی خامنه‌ای  استفاده میکنه.  مجری : رهبر جدیدمون آیت الله آقا سید فلان!  حداد عادل :  ایشون از آقا سختگیرتر «بود» !</div>
 <div class="tg-footer">👁️ 22.1K · <a href="https://t.me/farahmand_alipour/5251" target="_blank">📅 12:51 · 12 Khordad 1405</a></div>
@@ -759,10 +759,10 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/1710c62683.mp4?token=DiiHxD2ztnBFrJEWXqT1xeY4UMS3bJGQ5F3-QL8GbhB91VrEKmubFoBwrMaSdLk5o9852CUVMT1u1Yq7HU7GD23-co_LCOW4MH3DFQSXJid7Lws2BzBG_F50bZmUkpKHmWUnq7YOOUirzzjUTqMvs3G1YnCBZR8nsWrtzZErMxgrQnbctSbT-8bp6FsjW2sDyIkS7l9HQSo9HotFba5SCOqbeSfRbesx89Ba8jLzl6cY8wGbCEuhM57pBd2sID4cvkz6heLB_aJS1lnv1BkCL24IrptGupQb8WkgcfkGHNTA2MorYjUfx29Fjdi6oODs4gOPiVAoZ6RlTPVr5AwI8Q" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/1710c62683.mp4?token=hhxQGUlYNx0Zqjfk75U2LY4grdgsNgje7i6FiaOZWlsey_VuQqSK0Qc_GkrUtnm8v5n9IXl-mq2j4fX9gPtPN4bKhkWv0kGKgIajWdiSPbLn1c09Zis3-YQmv56YpLadwHMhCIz0BoLOKvRH4UG2jMJFbMUZdyC97B4J3t7iVU2tQNlUGDa84BAPrZb2zy_0GJmqkMxuJsLVKOronBYVvNLSWdhpBkZksGxQp65PKID65b9RPHykEMCNK5X54CpyuAJDoEVICW656ei7nJfYiAgna3ZKfJIBx0btC5YL_JmByDaAlzbRjDK2LiXJjs9dpTv-lFQsMBJeloRUoocicg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/1710c62683.mp4?token=DiiHxD2ztnBFrJEWXqT1xeY4UMS3bJGQ5F3-QL8GbhB91VrEKmubFoBwrMaSdLk5o9852CUVMT1u1Yq7HU7GD23-co_LCOW4MH3DFQSXJid7Lws2BzBG_F50bZmUkpKHmWUnq7YOOUirzzjUTqMvs3G1YnCBZR8nsWrtzZErMxgrQnbctSbT-8bp6FsjW2sDyIkS7l9HQSo9HotFba5SCOqbeSfRbesx89Ba8jLzl6cY8wGbCEuhM57pBd2sID4cvkz6heLB_aJS1lnv1BkCL24IrptGupQb8WkgcfkGHNTA2MorYjUfx29Fjdi6oODs4gOPiVAoZ6RlTPVr5AwI8Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/1710c62683.mp4?token=hhxQGUlYNx0Zqjfk75U2LY4grdgsNgje7i6FiaOZWlsey_VuQqSK0Qc_GkrUtnm8v5n9IXl-mq2j4fX9gPtPN4bKhkWv0kGKgIajWdiSPbLn1c09Zis3-YQmv56YpLadwHMhCIz0BoLOKvRH4UG2jMJFbMUZdyC97B4J3t7iVU2tQNlUGDa84BAPrZb2zy_0GJmqkMxuJsLVKOronBYVvNLSWdhpBkZksGxQp65PKID65b9RPHykEMCNK5X54CpyuAJDoEVICW656ei7nJfYiAgna3ZKfJIBx0btC5YL_JmByDaAlzbRjDK2LiXJjs9dpTv-lFQsMBJeloRUoocicg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حداد عادل پدر زن مجتبی
 از فعل گذشته برای مجتبی خامنه‌ای
@@ -772,12 +772,12 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 ایشون از آقا سختگیرتر «
 بود
 » !</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/farahmand_alipour/5250" target="_blank">📅 12:46 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/farahmand_alipour/5250" target="_blank">📅 12:46 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5249">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qd93nhJn98eBFen8wt5X3PWRMElHIzgYcL423hhi7gFTzqzECJWhuebO1IhI0TA3L_XOkVCZ6VD4Q8_DUYN-VlxbgJ8aLoMPXUis5PdjYxuBxfPIy30oi4xRWffNCFpfFuVinAGoNgu2ksEkapCXXqmVy6JfLucazDhWeQLMsR0w64kIbd5EISg9rb4Ls_Kcg5QxtZgCLrLiKYZyl32P8LrJknsVGV1bQwKADnx9SyuSCfHTp53JrAPB5t1WA0Ft83POmb1vDShNIbQvQHhH4HBowm8P7_bEaySm1_eQ26Ygwr0dDzA-sI63UXVj__YrRGlaFtQXgFvdY-UJ58mhZQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aLsbenH_oFAhxUhxhpOZFcCardm4umQyvSmdKc-VGTPNcYWcdJYnhecrrzm9YQQ9-RrS7agz1WS7SqqbmZ-rr-erwfpZ8lx4Wp8Au7KPxzzNwNSGikKIG5D88Gh3Vw4I5x0g8pZdvo10oJY90ZjScbEl_nNDoUOu8erar3ElAFqJVvLEYcBehpbIkXvweqOl8_ToexNvCk4hBwsnpyA-8bmRHPhnQ9vqHD6I0V31yVo3Sgs7Bkbdujl6aHMFNKP8jmsUm7olbPIUJ31ER0ymvj80I_gI6lKuNCr4FkXpyhvpnbHMCQF76GBsXSRuaf5YJZVXcgE8r_iZ1J3DK917xA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قالیباف گفته که اگر حملات اسرائیل
 به لبنان ادامه پیدا کنه، در مقابل
 اسرائیل خواهند ایستاد
@@ -789,7 +789,7 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 هیچ ربطی به لبنان و سرزمین لبنان نداشت!
 اینها فقط برای فرقه خودشون میجنگن!
 نه ایران و نه لبنان!</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/farahmand_alipour/5249" target="_blank">📅 01:46 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/farahmand_alipour/5249" target="_blank">📅 01:46 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5248">
@@ -799,7 +799,7 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 در دو روز گذشته، ما به طور جدی توقف حملات اسرائیل را دنبال کرده‌ایم. اگر جنایات ادامه یابد، نه تنها روند مذاکرات را متوقف خواهیم کرد، بلکه در مقابل اسرائیل نیز خواهیم ایستاد.
 ما مصمم به برقراری آتش‌بس در سراسر لبنان، به ویژه در جنوب این کشور هستیم.
 اگر توافقی برای پایان جنگ بین ج.ا و آمریکا حاصل شود، شامل توقف حملات در همه جبهه‌ها، به ویژه لبنان، خواهد بود.</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/farahmand_alipour/5248" target="_blank">📅 01:19 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/farahmand_alipour/5248" target="_blank">📅 01:19 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5247">
@@ -807,7 +807,7 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-text">🚨
 🚨
 به رغم گزارش و خبر ترامپ : حزب‌الله لبنان چند راکت به شمال اسرائیل شلیک کرد.</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/farahmand_alipour/5247" target="_blank">📅 00:20 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/5247" target="_blank">📅 00:20 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5246">
@@ -847,7 +847,7 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5244">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m1G2aJ2p_mZ2f7lTO_bAhkGJjTlCGDRgRr698PnICP_bl0FUknjUBVG2dpMh1nIneEUwNCjtupqqWEiso2irm7LwqzFN_kJT-rP6sLY8Sc4u_04pWUo3hXmfENdbhfyOaoEPhdYXSYf_ovoBP7grWYZ3tQBy4OOFVpCdPDq9AMOP1dF4IJV49nipdLFDYZBThco1B8iyjHV3PqoFTIFiwthGWs3aLaBQa3INauQZa10ZfjpG9L_1IZUST5hHS6JqArGdE0AtDDOZ6Ravzs3wVQVcSyWzvsiVUZXQ7aQF-KmQ5T90FI7C_rAZ--NxPh5milXB4OTrfn4DuZFqwQ9hpw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mnB2-JTdotrtcc1wIVpVgoY3ry68e5YNqa0H8HFyHxxgOezFUasmsNG8-i1TZRMjSbsdzJm-ydvuqzZJYLgvaqVcke-kxn036FAw3ypnJ-uutB2cFMtW8ssjFxF08774cInq7_EFgQWegNa7CtR3TjMa4f4M_9ck_SuOZFhNfOi_RsB-rwEE5M62pDZ6K3QnlWnwz3dW_7zv-TaFMZi6279f6_L4oW0EJnE-VtQVQ0i_75zI6WSO_-SnuJvvLecjWY0awG8B50Rm7uZ5o6Fy-Y7vgqYBlZaKaRsh717_RxPF5zwULBeDNIEehao19C1pv27jZ3TchlTMUsRYl1cs0Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بیانیه وزارت خارجه جمهوری اسلامی اسرائیل رو متهم میکنه به «نقض حاکمیت ملی لبنان»
 یادآوری :
 دولت لبنان سفیر جمهوری اسلامی
@@ -867,24 +867,24 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5242">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GBqV_a7gfPm2bRvuXXelE92luYsOmked5YVDXlm27yMVrTkvbnResJi8IqkSifumaDS_ymaZrVWzE_vaGn9l0jvVDDvQEgb2HucJvESjLwFTEZEahNvVj162HqTPKL1AHCICvmxbrMAnw7Gib0i-vZd-WmzmeNfuJTnrdGaTwAeD-f-s_hR6lwhg_jSy9EEL3bWIP7wW8zoannObcGQ2FiaCSSjyg2eiCdNmF0gI2gkwxhi_yeQ_e0k4tiUVyEyqTBq6RciP33IKEfdbTDiDvG0DWnVQRIXZ-ysa2_V5iw3jN1TjbElQDZltgTvC292Asuy-vUVAa9yhDGBGZYh9NQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kuNfZEsAl_Oz_XJFwYtOXTYTXM1TTqErFbDCunG_uzrAovQXHx5aY5SyeKuE9CI465hCQGRgvKwloJXUQykc5bJGqf5VzvCSgzjJr1T77rTX2qMKk2HUaPcYtKRJdeqIq6-cxi5-s7SoxW-heH3bZQywOuooP4YPhh5XLjol3mP-YV24jjnBt0PiNYHOAYfM6L4N05KmGe2ITBIrQ_37ecGmDFdTa0ROc2MLlGfJBTal93G2WLLjIzJpOVAywiYaFvN66hcJLkz2G3VwRF-0BpJCM8N4B5f-03dR9DWpplbXdBkUBIl__-fXW6ZmDNKC7xvkTpDQm8DA5I2MtVdt3g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مجید موسوی فرمانده موشکی سپاه</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/farahmand_alipour/5242" target="_blank">📅 21:04 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/farahmand_alipour/5242" target="_blank">📅 21:04 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5241">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nuSYSpzLk5h0ksE5VINsjo6ZsgEK_roa7BmNSevizw6KUzBZS1Oz6lWVbOe4IfQEmy1F3wSXdxrL5l1bNiEcfikAu95NCZ-gf1taY3I6fqwBFFTgb4aKVh5COyhcODt7xFlKoVTYWQSfwFMDUWFRfchtSe0vuF7hMjBQZhoH7UFeF-3wotAeFFLo05ESjsUrHMr556DgMp9PN5WMP10_dUX23OUF75xPb1fp-RgFPsaxDEbGabmlzKszlfG6nihpbmbjyAue5_qm8WqFEI4jeEHXPzX-v7elTX-Z-zIMHeUQx7vyvjjR9_AqqDtgP7ZHSbBGbO93wZZ9BZICROlsdA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rrhmIjiebdrFgrXFpnsl4bZiHPvagslqcBuaY0dmia770UfFzRDLq794Z_bd-XrDbDOE_kj29DZ-ytLdwjYRB7EMf_tskejMrM7KOVZAIaylOZJRqeuc1ko2M17RbBlQvpmDb4P110O4v_S81TSySBICzyEe_yjvYCaV0QPIGx5ClaeEeVpvMnA1sulymDiZ568Ny8c7Gsu-wsvdEziXgn-FxwA4sqHcgFRybE-bx_Ukqm0CTef5vjGgte4HhQevbOfrPfle2CZ4otDDQpKBnA8-IVfyUOH-GDSmdrp7VK1xlTrTQo8TqCvvjfPZdHR3pu4t3imbgX4PvOc6RypxIw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خبرنگار اسرائیلی :
 یک منبع بسیار موثق از فرودگاه بن‌گوریون به من گفت: اتفاقاتی که داره تو فرودگاه می‌افته دیوانه‌کننده‌ست. تو این ۳۵ سالی که اینجا کار می‌کنم، تا حالا چنین چیزی ندیده بودم. ارتش آمریکا حداقل شش ماه زودتر از برنامه زمان‌بندی‌شده وارد اینجا شده. اونا قراره در هفته‌های آینده هزاران پرواز مسافربری رو لغو کنن؛ تمام مسیرها و تمام مقصدها رو.
 تنها جایی که براتون می‌مونه تا بتونید یه کم از این اوضاع خارج بشید و نفس راحت بکشید، یه پایگاه بزرگه؛ پایگاهی که می‌تونید برای مدت طولانی توش بمونید.
 آماده باشید.</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/farahmand_alipour/5241" target="_blank">📅 20:59 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/5241" target="_blank">📅 20:59 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5240">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mV8Pz98ERF0sveeY067oztcac3nnwZsr5wevC6gTCY3pCryPA-pPDk4_4M-oFREV21KBzth-NFxpmAkCy6MjVmXpveCfxvT_3yduqFsM2CBjSXWWDZJkHiM8Kca0jSbHeLFiEOganoAVSK3Ikp2DR-HbkBipOGW6J8hjk6MHts9SsTdOb9lLVmnhtgwlJUQE6sx7uCMHRj5Fc9Z9rC2ImCXTi-ACgUlJDcNXsmNXdHcM9gn5bdKg_-9ek22fTa-oXIZopSylIf1e-5LVS2A8scG2jJXTipXZDy-XOv_mHO9EkGrMMG6QQK6uUAPMKDjMCmjgeNu1zDhPHcX5Eajbcw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GKWf251Yvm9uOT8KLHC4u7mpTttw_1JuPD_7_xTleNLNqx-eb4llrAodDijfGDY2WnvAfMjkYFExdtsAWYQDsM0oMwCsw_5ME7VQMoURQM72bQCVvp06cjOJN50HnxjD4nWWCvKBmgYfZ8uiziHdUy6rLyDsf28wohpfXIUJM2TMCVd6ytoCBEtpK0gbMvJD1RF2L3YTmx-nGh5Mybe2_fOXFBYz3jM580Cq4wuHWhN4F44jXxMCp7BhPUOLgXLLPKkTcyamn2zAvJ7q4z8HyIkRyybuyJ1jiifWoMuYQQQ-T43UaMZueuQ5zsZv0KHdmVONTpexOh1omLq0O1aJ_w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نه خب ! اینها «وطن پرست» هستند
 دغدغه‌شون «جمهوری اسلامی» نیست!
 حفظ «ایرانه» و بحث «وطنه»!
@@ -900,12 +900,12 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 🚨
 🚨
 به خاطر گروه تروریستی حزب الله لبنان: جمهوری اسلامی روند مذاکرات با آمریکا را متوقف کرد! سپاه ساکنان شمال اسرائیل را تهدید کرد!</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/farahmand_alipour/5239" target="_blank">📅 19:59 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/farahmand_alipour/5239" target="_blank">📅 19:59 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5238">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RgDQobck87hW9Hh0XX9rbdwLcMGXXYgoF60KYIPSNAvDIYc77jCug9GH42YFiy0ghcaH4kz-rJMsGpFhHCt7SjNsGlF_cwW3Lgv2CtUABbaPAwwALUm30jTb0eZz6k3zOp9tunQT9IbSPSPXjBgUI9A4bZStkpWvc1-VCsS8GUv7vbpVPT7ZIdwFIUuTrbP8KOJsJn31dV4EAjitj7krK3a-NF5otHdKwpDAZFzwXxIVFSF628kGKoLQ022hurYj7ENLBD5US1OYtapw9u1ZiUgVZgEKImEU8cIwmYo_ETVO3HIkqqbkxdMqwVuh-dS9Ytfwl8j8rIEfJYXg77EHUA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iCrYAFyrOlKD6j_eQl8hdmFlB63_QlG789kSzmTloaUuV8XnBmB1jXw8ekoGbMoMXCsyav2gR-8RclGMv8k8NI6A9LQTmyrf5Uit9uo3_7oPC9KDMWMnpE-rcy_3c0q_naFixwwCOzSmVrIlhC59Vo75ku-OFUbY9_ny2njwGR9slQ5rrgdEXuRNb3amVHAC0QtOpDzKLW8fnHzb7A_pnEwiGQ3f_ceZQvGwX5NiHyZ1KVv_S3aGqMryuVenir7z3PYxAOlpHaSK4azb2bQy1bsoxqa76X_EewOoe7mvxp1n0Nw_KNLrMQlKp2ZeTktlMPNPoGZa3s9lbN3R3XsS7w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کتابهای اسلامی برای کودکان
 (در مصر و تونس و….)</div>
 <div class="tg-footer">👁️ 25.5K · <a href="https://t.me/farahmand_alipour/5238" target="_blank">📅 17:14 · 11 Khordad 1405</a></div>
@@ -914,12 +914,12 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post" id="msg-5237">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">این دو سال رو یک مدلی با ترامپ راه بیاییم و بعدش بزنیم زیر قرارداد!</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/farahmand_alipour/5237" target="_blank">📅 15:36 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/farahmand_alipour/5237" target="_blank">📅 15:36 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5236">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sBNDvXI7F7rt-1GsyWJ-fvHWPedbvokkjVhm1mknzSVLAaIL5AjehHgfS5Yfd6PslLUMbeGCxsrQfo7ceKdXwUwk_eAH3aYcMWXYN7dglZ94UubEdgyNQ3_ThvdQ06ZUTqSdl5bEBOt4lzISR8eP7voNeTSbFfltxaRxtMYhqqkBHMvgZD68EU57W9616w2npzE_DVC9UCgDZDG4CC0vTOycd-hTvlb0JoSSz_JCPFuK7Yqj-zwqtLQBWjS-nMZBkSvnhZT5UL1yHAwgLSBzsh8XyvxbgqmAX0UWW4TyrXzq1fjsUI3ZC7ftJkmd6flG2WS4z_g7XlywzKcj7RLdbg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EU1UFCid13evygqpywdchqd1tBDsD667zpsooFcajAsnm5mmU4ZsvWw742l3L7vLK7h_B5XAcEpur6BlvXP4Z1MMYxtd9w0z955xxxo2aYPed11YHvGQ2W6dTKz2hj-msYg0Z0m6m-3DTSZE_IMVnSA-eE4vs0o9N0n2TR2wAck8OWYoRBD-xMCGcf3eAadTC9EvES-S-ZNACUhElMjNV4NKOvhhBz4hoJZLyiPkkH1Zk5_KXmQHZH42PcwN5-UCOGLKnmywt7ogZjzKC2kmRr0t11Iw1y8TGOy91U1_aj9YpZEL_rjWjf-s5c66TpmqAxIb-P3zQbiY7PQnOGFU-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 نتانیاهو دستور حمله به ضاحیه (بخش شیعه‌نشینِ بیروت) را صادر کرد.
 🚨
@@ -933,22 +933,22 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post" id="msg-5234">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Iy4vbkNOs9ncbult5WhEqAi5rRa_oU1SPLA57OiC0K6wgFPTsUysozOtZcAIsJ9Bm8DluZuEVEanNdQMp_yHM5mrEGQGz6sM7KZmxLR7myE3U-QbAI4zV02ZTrd-rmSBi2RxFoysq0qxd3JTfUD99LVlRfRdecgE-MN6338vmTmvxLJUvgoV0zDXU8CVGw9YG-ZtUYgymfrtPFX4agFfyrKL2hRGoleTpYZOZvKhsMZII8GtdthbOx1GNxLgvxlm2QdETvCvgO_y6SyEYio0EcRPebGW79DbJMdQ4KyMorJun1tZs_SBVypr1pijiXxfRClNkCUdICnHLdhcVh9ipw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/DhZzKGyjX9sA8oMG1uiZ-YSW_5LS5Jud9r_Zxcf85McV4uFijczu7C-bFjW8YhPWrYloxYdcb34JPInehZQ8JFVkEIqyUsonYbkA-vTPYpLbCRSHykDs8kEE80yXLreICqlR8LSwteHYTiJJoBwgQlgnVHtUgDR1C2EECGcTLkjAg5bpJhG8B8UxnUiz9D1HjNni0jbeLhevaOH9sG8Mt55VqG2TmFmUrt6BKx67mrAe6vGpCki2vZNPyfKGH2SU7CW38OPgjHwfXgJHAaokcjy5tA3UR4NLrmlX473ykWVGQlZRFhV597T3MDWSnkR61YPbG5Lif7tCDLSwRBPpEw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Mfvn50H8WNP35j3C4nX7fvoiYMDINXaaND_5-eXV84-PxF4PEtxyMNepxdzFQH-qOa6l_aCpXQ8XniiwQCXK_cfTHeobJAOyBgwxhta9dVoKg_bwVF4g8nvYI0gdN-JTsCOUgVrve5oGrHHEzHYJbNOozgz6OnsBDbfw8pBDopF0EuhS5WgTgGDMaWvTWS3caL9VuenjJ-SL_aN_IuaclP4BtA40Ugw7HDmsptfI-PPcvYfG2Ea_vmXbaotkaOfhtD65bo8EY6pbqSxpQySL7Y7h4ny7lhG0ghdzkxdZY28N53nnXFbfkDTcW7oQWsaEBLqK3gBDLY-4xFC-kW4aPw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/cqFgcESAaV2ivqZsf8MziI58q-mjU3FI2kMqejISIArzexJUj9F3DWlpPnt8Vpaaq8_4tg4qbD1VENgx8tm58vn-LJMLXqhs_VSvIQWH76SImWFm9-pdqYOgXy0QlxNlnW3SCMEsLalN13gGfoT-x8GXigmZapN9O7oW6rBPAZ6dMG-8XVlFGE_b0NyZrXkstHPCgs8m4T_l8EjVk7oR_cqgD7kd5EKU0GMDWxRARPR771Do4f30_aGRl9qaSUoLGUxTtnDkJtIunMKpM8Cf_UTs0-Q6vzhzMI1z4BUsItwTZePpQYEVj48OHCJVMW28cWoDjr6r8AMK-I9cxmwM0w.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">اسحاق قالیباف
 فرزند سردار رشید اسلام محمد باقر قالیباف</div>
-<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/farahmand_alipour/5234" target="_blank">📅 14:55 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/farahmand_alipour/5234" target="_blank">📅 14:55 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5232">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6befcc9146.mp4?token=ZBSIMoPLJCUQ5iucWc18ibO7ZgT8im30CZamysoeSG3gHBOi8JSDoVS0_ZB4yOaKT20QUs8PvxRN1TGqwNfjJHjnAnU21MBWRQXSGziB78r6jsBFOPj-AC0-xcJckZeEfAQClaJdAKLyNvH6pH4jMVR0hGbEElt7OcJfS2zf1UfYMi6sO5bZQ6DuCLRnKIj2GNRPQgoxRXa5YZ4A95nSvKPMmgqPBc7rmYct8j-4JFpZsdODyh7_Fr_mDrfwOo16gY9hKbiq4t65_QZmB375qIZmcStVdUID58t3P_WolMYFaAUxHOPwtj8G6nuDhhpkK2IO34aONzqEnMO3jhxOqQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6befcc9146.mp4?token=DCw1O87mJvmb-AvXwGxWPZfqJQ1GwkcZ3OPzKnlgUrXD0Org38h2BLFBTRaLr5o4oY4BLBlkeRu_373QknGBPmX-1EPSLcQfmwh3_N4kERFW_R4dnOPCjW6tcqiPDjN-o4dWz_piPZhoSLgRYwXmvtwNo9VnlkUC8PutremDo9MPAsd2sHOpoxKnyw6hjZQW5PQk9b2MrtRONNPD0pxywIiO-CvsKFJGjgrUgdYQ3IE76e4MuqB7xbP7seT1-Q-PXZnGyPREdGKjkteq_CKkIIcvEi23fEPaBjGcl2XwLvhUpUiFaedBxZ5V0JOpTl5V_ZElD36qQQOgQWzZmf6E3w" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6befcc9146.mp4?token=ZBSIMoPLJCUQ5iucWc18ibO7ZgT8im30CZamysoeSG3gHBOi8JSDoVS0_ZB4yOaKT20QUs8PvxRN1TGqwNfjJHjnAnU21MBWRQXSGziB78r6jsBFOPj-AC0-xcJckZeEfAQClaJdAKLyNvH6pH4jMVR0hGbEElt7OcJfS2zf1UfYMi6sO5bZQ6DuCLRnKIj2GNRPQgoxRXa5YZ4A95nSvKPMmgqPBc7rmYct8j-4JFpZsdODyh7_Fr_mDrfwOo16gY9hKbiq4t65_QZmB375qIZmcStVdUID58t3P_WolMYFaAUxHOPwtj8G6nuDhhpkK2IO34aONzqEnMO3jhxOqQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6befcc9146.mp4?token=DCw1O87mJvmb-AvXwGxWPZfqJQ1GwkcZ3OPzKnlgUrXD0Org38h2BLFBTRaLr5o4oY4BLBlkeRu_373QknGBPmX-1EPSLcQfmwh3_N4kERFW_R4dnOPCjW6tcqiPDjN-o4dWz_piPZhoSLgRYwXmvtwNo9VnlkUC8PutremDo9MPAsd2sHOpoxKnyw6hjZQW5PQk9b2MrtRONNPD0pxywIiO-CvsKFJGjgrUgdYQ3IE76e4MuqB7xbP7seT1-Q-PXZnGyPREdGKjkteq_CKkIIcvEi23fEPaBjGcl2XwLvhUpUiFaedBxZ5V0JOpTl5V_ZElD36qQQOgQWzZmf6E3w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">تیم فوتبال «پاریسن ژرمن» قهرمان شد و پاریس و فرانسه رو به آتش کشیدن
 قیافه‌هاشون که تابلوئه!
@@ -965,23 +965,23 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5230">
 <div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/epayisg3c1SmBaaLqO6RCBcUXclLLzcWezeYBJ28HENsi3dt3lSReUGaZFv2QtjsHEkfwioZaiTXMevK8-DSKG8Vw6vnZWMX1vLbnEGj1CHpjQDfI3kAv2elSY9hHHcO_EbcY7k0KlxsbTK5kEi5qI_CrCPE1YoAXMMbXwNpP4tB_bQb33oi-N84MtVhkwf3S1SqGunIR44pR6ubqzwYttFMV530pYsuQ-bAsjgsZpkitENFoSUaXjeTb7LCuM1V3HCOUGmVYChghQuHVD3GNh1Kw8SYXbIvte0APERmje_zSMoikDdDvUVw_Qf-kS2wfllU1JuyvD_JiByXWh69sQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oWSODK91w7fcHHjCg-qbUHezkwBm0m0AQNv0ZR7j393AUxw1oSXsHBnFJiJHR0pGGcGbGjtRW72ZueE4-GnNN_eDDsuOBGgizxG6_jPJRhdiwUXi4r4UM_cLLLpNtTAptOtP9hGgyEH46xSJ-NEAtDPizof8YaYUX5-ibt-Vq5e1ccvEQAq0IciZnhGICvMXtaEvPS8X1_yzLzjKzpW1grVFS3D84UIECL846r7CFIXDAl_urubKP90fxP_qQuJkHe57muqWwzkMEwpARaKKUihEqnVQKd7OWuGOoZmKrL2vVnr09TJB1sB5Co8x2f2XNPUpyY9sYD0cPin9FRsyZg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
 ارتش آمریکا رسما اعلام کرده
 که چند حمله در دو روز اخیر به قشم
 و گورک در نزدیکی تنگه هرمز انجام داده!</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/farahmand_alipour/5230" target="_blank">📅 11:55 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/farahmand_alipour/5230" target="_blank">📅 11:55 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5229">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a58623f2eb.mp4?token=Vf4VSo1HwP0Rf5V_NAJFtRFaoLa9BYd6grIO0FUakkXuX8LH4frwKJESU5yxPGqxAofxQTrOs9dJ62QNKOXls4goWBCi5fUUIQKMBNue3kBmVMhPjtrPIKRl1Y3861oAb4Pd0tfu9wri2NvAIPSmcwGw-TTPrYvZ1kRRuiGoqlevpSD-dG_vjDaft5VWfKYouit796WH_ImANWgdeskISG5MWoNFGmLAgZ31DLjS_AC9Uy8kedEn90b9fydZOaZ5cAfZDMNhik8OzMCBKGAQf_o_RyLNBfpLExpVT8LfFmHclw7KWsosrNAzrts0IzHsqDvT_LR5b8gcWRUnjrMQNA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a58623f2eb.mp4?token=WSay74efBjbktG3xtdhKOsogvOTM_e6VSEtul_mEeUw-SlwvmHV_UgSWMwXghLq0H5DqEhllSUBfbOY-hOhrFSdK-6VlbX0jGUhS5Y3PfgMpZ05vy5pXDUgcXdFnmVHcnXtpProBevD-KVEZLwwSlEwfeIgPEmve8JDhtE0HXDkzYzIh3QQb4qv7kWQwCK5xHURqHP2rMDkt4X9b-RjYwUsUVJUlRCVWr4qj9IyKe7Tzl02HIXhvr2Mo-Xp0h1Ne1QTEzCXZ7arvHoubh58a4PGFCQNrxu9dOW4m3hkM1HKV0ctbMBZVIilievWRejEDG_j06QAA5DMsRegE1rKsUw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a58623f2eb.mp4?token=Vf4VSo1HwP0Rf5V_NAJFtRFaoLa9BYd6grIO0FUakkXuX8LH4frwKJESU5yxPGqxAofxQTrOs9dJ62QNKOXls4goWBCi5fUUIQKMBNue3kBmVMhPjtrPIKRl1Y3861oAb4Pd0tfu9wri2NvAIPSmcwGw-TTPrYvZ1kRRuiGoqlevpSD-dG_vjDaft5VWfKYouit796WH_ImANWgdeskISG5MWoNFGmLAgZ31DLjS_AC9Uy8kedEn90b9fydZOaZ5cAfZDMNhik8OzMCBKGAQf_o_RyLNBfpLExpVT8LfFmHclw7KWsosrNAzrts0IzHsqDvT_LR5b8gcWRUnjrMQNA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a58623f2eb.mp4?token=WSay74efBjbktG3xtdhKOsogvOTM_e6VSEtul_mEeUw-SlwvmHV_UgSWMwXghLq0H5DqEhllSUBfbOY-hOhrFSdK-6VlbX0jGUhS5Y3PfgMpZ05vy5pXDUgcXdFnmVHcnXtpProBevD-KVEZLwwSlEwfeIgPEmve8JDhtE0HXDkzYzIh3QQb4qv7kWQwCK5xHURqHP2rMDkt4X9b-RjYwUsUVJUlRCVWr4qj9IyKe7Tzl02HIXhvr2Mo-Xp0h1Ne1QTEzCXZ7arvHoubh58a4PGFCQNrxu9dOW4m3hkM1HKV0ctbMBZVIilievWRejEDG_j06QAA5DMsRegE1rKsUw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حالا این خانم از فرقه گروه تروریستی حزب‌الله لبنان، میگه در برابر اعتراضات حامیان حزب‌الله در لبنان که چرا جمهوری اسلامی ما رو رها کرده و کاری برامون نمیکنه «لال» شدم !  داره میگه حامیان حزب الله لبنان از جمهوری اسلامی ناامید و خشمگین شدن!</div>
 <div class="tg-footer">👁️ 24.4K · <a href="https://t.me/farahmand_alipour/5229" target="_blank">📅 11:23 · 11 Khordad 1405</a></div>
@@ -991,10 +991,10 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6921e12e46.mp4?token=uUyJhpy4VrCNVyMzUBHktpr8PjtsEJEW86ec2WH96kglRGA9SGwCV3MbCuCR8pYc9fmd7edYochWuwYQt73ec9yCZr1UMwft-Dr3RTP9vQHYTq-PKGWNKkJDUuUlL3bvaPS0tQydeKP0xg3imAUcSUpSO6ck4_G2p8p2siq5KUsAWqjKJLsa59Fc1hCHFSN04OMX72hZvEZJNjiCYf1dWqoJB8GLHJexi5s47UK8x78QN-rn9ylC5Nkvgh8RuYubr5aN0jZoVyrl_L66KTwH1AVotwaAxFuxLs2wbnge7LrfTPnyFbHX2zGMbSkm4N3Kf7N5McbEL7L64DWGxb_OXA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6921e12e46.mp4?token=laWCEpT_gzcbjW3xXaKX6nK0lLPavJdpz-i1eMeB2eXIz31mXOWJU0LzE8BmJuOAxq9uJqEhJJ3TNpaRdJU8WjFfJe2DML0sQVmwkWqbA_j2G9UfLAH3_Cz4GnMvPVgHSe80HlTdbxdt0LyiuMnam-RoMp901cib0cLtExeFblDrHEK3-bFMuxVjfcK5_xKagSTEaMGcI6m13ehT3VKY0OaweipVxMMrQB9n2P24FLiH9KnkbsyU7yYoHm6WfLrVqYuxw8DXyMq088tDNBF9RVC_6jqtMfjPcCs5t3MIF5O6NnKi8UjKR-SpDks1XNfzzuZay85IlFPjYX_aB6dtOw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6921e12e46.mp4?token=uUyJhpy4VrCNVyMzUBHktpr8PjtsEJEW86ec2WH96kglRGA9SGwCV3MbCuCR8pYc9fmd7edYochWuwYQt73ec9yCZr1UMwft-Dr3RTP9vQHYTq-PKGWNKkJDUuUlL3bvaPS0tQydeKP0xg3imAUcSUpSO6ck4_G2p8p2siq5KUsAWqjKJLsa59Fc1hCHFSN04OMX72hZvEZJNjiCYf1dWqoJB8GLHJexi5s47UK8x78QN-rn9ylC5Nkvgh8RuYubr5aN0jZoVyrl_L66KTwH1AVotwaAxFuxLs2wbnge7LrfTPnyFbHX2zGMbSkm4N3Kf7N5McbEL7L64DWGxb_OXA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6921e12e46.mp4?token=laWCEpT_gzcbjW3xXaKX6nK0lLPavJdpz-i1eMeB2eXIz31mXOWJU0LzE8BmJuOAxq9uJqEhJJ3TNpaRdJU8WjFfJe2DML0sQVmwkWqbA_j2G9UfLAH3_Cz4GnMvPVgHSe80HlTdbxdt0LyiuMnam-RoMp901cib0cLtExeFblDrHEK3-bFMuxVjfcK5_xKagSTEaMGcI6m13ehT3VKY0OaweipVxMMrQB9n2P24FLiH9KnkbsyU7yYoHm6WfLrVqYuxw8DXyMq088tDNBF9RVC_6jqtMfjPcCs5t3MIF5O6NnKi8UjKR-SpDks1XNfzzuZay85IlFPjYX_aB6dtOw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">فراکسیون پارلمانی گروه تروریستی حزب‌الله لبنان، چند‌ وقت پیش رسما  از دولت لبنان خواسته بودن  که برای آتش‌بس، مذاکره نکنه و…..! به دولت لبنان گفتن که بگذارید جمهوری اسلامی با اهرم‌هایی که داره از طریق مذاکره با آمریکا برای ما آتش بس بیاره (که بعد بگن دیدید،…</div>
 <div class="tg-footer">👁️ 22.8K · <a href="https://t.me/farahmand_alipour/5228" target="_blank">📅 11:13 · 11 Khordad 1405</a></div>
@@ -1002,7 +1002,7 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5227">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uu2jIOtKSsYv6H11fukyD03hBN7c84y9ZVlWkn2n-fzuwiRrpdX_eyAN5V-YKIVrHymZCpmWxC9Ya7VwfpC4tpQdt0HRDC87AyCZ1SzT-RS_PqUvTx9TCsL1fwoLFhqlCTzb7KPNT95y35ab5R7AocXhR5-aQzjQzRmBS8Ov5UJun8ddvU7ND9LQq1fsh5o05Ubbpz6bb-ef6SXcW5KHQMQGW-O7tbXI9KvrJK7LZy8jp4ZZMQD4BQ-hdBnIKIR3wwA8JbolO52Kh-NhhJqK3ZI9m9_5hiffPj_d5bxMbNMj6zlw0yb6nz7H_sgMlIVMo1yFSEAeZueDhPxOeTzFqg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FR-vacEtgA63PAXO0VnUzclkRIbLv3Drq7H7_4fCVjz52mhvFlamkLO_vrITvsFjweE-LL9j7zsmj7vRJfqmF0T-G1C_EIN2V8BNiUwiMWx0Tngt0DzA6A3ghJQ0OmW-ThFZXvRylOmrsX4mzKUuZ6IDlBMrskfaiJOXKErdle3UUsKh6VrJBxLKKPxbUD4K8wqUAODFX1UScjf3t4wFOWTX3-IWrR4bBLqPhnUljB1WL4o_mlE4qhQpvpBNEE2y4PF8WPufp8DAkftHNgfqqZqwUxbdUm9kteRCJpHEGGZKDrmho3usDucagZHpBhIQ2lNu163KZgNYqr1fAiDf4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فراکسیون پارلمانی گروه تروریستی حزب‌الله لبنان، چند‌ وقت پیش رسما
 از دولت لبنان خواسته بودن
 که برای آتش‌بس، مذاکره نکنه و…..!
@@ -1023,10 +1023,10 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/2e458969a1.mp4?token=uszbyK44AF4JgRUhX8I7WOdbJt8tjzdJYFFOSwRD9k9STADAjWS6GKLfLuJ1KMs2Vqf34EIkQJu1d66tXFDYZVEUdu4Gp68I6LubRqzhta0QYm3-SLJIXXLn6UnVVfBz0xu0OB61JxM_llbP6I4gS6up9OSdU2PeQcAJx1sPzkV7GoGWe_umxefpjCNWfW71F78xQ-58mFaRh7I-caFwi7s4aXaeeZyniyn5rMGtyfXZZrnX9D5V92dfvMB_mCWcYYxB_vRR8OCZhUoOjFvmH1StAltIeyQ497myA7E_DnEiQJGN7Rj4c_nKcnfdAGtZ2uuy3mwosQP-kdZFTWr0iQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/2e458969a1.mp4?token=e6XEuEZwpON2QvNC0cLzbZKZ8O2TdEyNo5Q9H5o0PTnwBlIsLqCtoB8v77bLLYOiOls9PR8MyjUX1F8ICk-ltaNonHHFkKAXGhsA4-NwTiswk-AzJn1L2phqH5OqMjtordaH1uDWtWGQIv2YmaRgL3QvkSo325DvthGPnMLxiT8J2Sxb2NXDGkF3zXKgocqaC1LiTDAR7xntAkO4FRey9_1w-GklhtwEa2qU9CVPP4WPShi_8A9vARvrNnNxBo5GoYnN7OLrMSB1pVAXy4-6mWEgVhj305IcbrDXRDAfA6j2gSsugnT_I_SmrQonl_YD2ObTrgzKMrEuW3d6wb9d5g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/2e458969a1.mp4?token=uszbyK44AF4JgRUhX8I7WOdbJt8tjzdJYFFOSwRD9k9STADAjWS6GKLfLuJ1KMs2Vqf34EIkQJu1d66tXFDYZVEUdu4Gp68I6LubRqzhta0QYm3-SLJIXXLn6UnVVfBz0xu0OB61JxM_llbP6I4gS6up9OSdU2PeQcAJx1sPzkV7GoGWe_umxefpjCNWfW71F78xQ-58mFaRh7I-caFwi7s4aXaeeZyniyn5rMGtyfXZZrnX9D5V92dfvMB_mCWcYYxB_vRR8OCZhUoOjFvmH1StAltIeyQ497myA7E_DnEiQJGN7Rj4c_nKcnfdAGtZ2uuy3mwosQP-kdZFTWr0iQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/2e458969a1.mp4?token=e6XEuEZwpON2QvNC0cLzbZKZ8O2TdEyNo5Q9H5o0PTnwBlIsLqCtoB8v77bLLYOiOls9PR8MyjUX1F8ICk-ltaNonHHFkKAXGhsA4-NwTiswk-AzJn1L2phqH5OqMjtordaH1uDWtWGQIv2YmaRgL3QvkSo325DvthGPnMLxiT8J2Sxb2NXDGkF3zXKgocqaC1LiTDAR7xntAkO4FRey9_1w-GklhtwEa2qU9CVPP4WPShi_8A9vARvrNnNxBo5GoYnN7OLrMSB1pVAXy4-6mWEgVhj305IcbrDXRDAfA6j2gSsugnT_I_SmrQonl_YD2ObTrgzKMrEuW3d6wb9d5g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وقتی ایران ساسانی به دست عربهای مسلمان سقوط کرد، حکومتی‌های عربی دست به مهاجرت و اسکان جمعیت بزرگی از عربها در مناطق ایران زدند.
 به طوری که مناطق بزرگی از ایران برای همیشه عرب زبان شدند.،
@@ -1044,7 +1044,7 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5224">
 <div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MYKxAckfz1GOleHPAyIa8B90h-Fj_PdadwBrtttNisgRsHIKFCFSm0ejfsqzx-6cmzT9NMe7P6tWR2X3m3zHRla1-E7Ymq8AD3zbLHVR6Vvs3yaKDLqm_LpPDr7HA_ddT1KucSFWgIQd49oxuc2aE9MthiW35Z5QDeQV8yhv0y541CQ33EB8w9hRKNuo10SAXR7SZfG065_Xz0_umt8w2zLBj9hBAHZt4d1J0ZPkhVSWUQVlD_0PKnmLFZDgUxN0qL8p3knU5fm_nD5oOLJwGeyjlOZGU77lYbzJx-DxVb55_-Og37-3BFMYGCe3eu0h3rXNq_E62CMi1fMZT3It0Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EiipflCbKa7g3kk10ltuviT7pl5e7GEkF1EByeoANndJaYgqdoffPWQMzOMPcCsOKYA3KpNn_JxcoONmlpyiQaVG0TDgnRbso8RhYVwu4ROnzZcLHdbb_NG4nh1_CQtWgXC2o0fZtxqBK5jFuB6lX4EY4kiZa_G1UwI5o5GLT5wwwn3RCq78UqC7ec7xpCaK_0A73sZFJOvfvfU5TGU50_RK-aUYbVeouYfrlReIE3RRjwu1AnULl8SkPBwsrDzEyzSAHE_aQK3ZMOxW0ML4WrN7ZGzcQ8Vt7xcbm2OlJyWEQ0dYw_G9KOdr1rOGkzUnj_lktyAXx_nbw6xxn0PZxQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چطور تریتا پارسی در آمریکا
 متوجه یک «طرح پنهانی» برخی نهادهای امنیتی در تهران شده؟!
 معلومه یا این طرح رو خودش داده
@@ -1062,7 +1062,7 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5222">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kvyZKLK6eOGlmPQEKAWh5SU6arnpefotUQ28YGgLdW_J5GtHQs_6YiJL1qj2pgmUfuw6Y0dyC7B9iX9Z9UunVuyRQS-3v1ulfVrzF1A7W8lNzjtwsq9SPJmDaLZOwtk049v_I0jHg2a6ux860nJKFG7B1S_XKfS_F8gZjwX7RGjIXUHBxNZox4A4GkvR_Sd0dmRjoLun_3zyK2wQ4RGrn2uZEI5eIm8-5YvPCSlKW5a71YQwt59TB7KPtc20tTE5FSRLI5EVlQ0ylj5sOAiszpOf95UCi8RqtE5BSzUPP1gtObSsXOIggqYuqfmIa1MgamrkgPzAhb6m8y-9jZ8GIw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/k6GWN-cXgR90qbuclhTvqsNNSQCHgV2yLvqMUNc__x6fEAW5hTNe978PGVfQx05Pc7V1EhF0qiWaFFwgJkvyCR1faGNzR7knv6ltEgH6hixcMvEKBHQFEX6gDGoRI8vr0q1AOnlY8iTWkMBSePvHq8FU3drRpbJNlKTSaIQegFpov4k-1sV4PaGd8Iu7wGSG8kxvAoyqmpGreGCqKBlGTkFLQDPmrT3n-j6lv_c9LQau8RP3sMkJES9aD8j2alIG1EL6nMCtHFlcgLDgDL6IHwc3W0gt3JWjxDdN7czbBPDiDmytHDL_kCty1ExdnKhfWqNJXA26wVfDtDa2GBekkw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
 گزارش‌های ضد و‌ نقیض از استعفای پزشکیان از ریاست جمهوری</div>
@@ -1072,9 +1072,9 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post" id="msg-5219">
 <div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/frdabgAlqISZVZiU2FG4GY_heFcDkOpB3OZwJb8jaGgvsKkl0gcXaDBh_VrC3ZBwFGdZ6X17-BgsoW3g5BMXlh928MC1XvOn3SAZBrcA6fUBYQjDAI4KsvcKm2Q-zKazoL0lGOX7PMUCSQJyqH9FZOtw2kO7aJ2d8-AQRPfgC2H3xDFGp-7d9n2I-_EDYwNHUr6T7cwv8igJNPaEwBsYLnMpiMhh6GTzGJBewgJ2gHvliwzxIYtvh_EdWHyeO2ZfxjaV6UTK7Hs3mmqd17WQd0vMlQeB-uVox4o2biZ-SCiVsgZKk-7dhQC4edxAW3zlkIc9naOGAfUYVro8ccpttA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/m22VR_qK3OvOKN0xQo0odlD_9im36b0bku8Vu8pRDaW_yvxJIkeswl8gXMcHSsEoRilZh-26VGPB-mMtZ7y-g7GVyp3kageNbjUXxoDCbn6IOWdkiLXf-tzUs7FHbB5MZNrFtviu92JEz7ASz6uQCD60OnJSmNL-kFp5wvZqDgiPzIG7Y78enjnIzPqU3QY1TaDxALBJLQE5fxkSCIKJK5tYKoMh8v0IUZjsomX8MEhjLMETbl-HdlzGmkgowfp5njgkVaz1yXFge8XKW8sBZedOQlhiN3WSwmtOl0WSrziMNcR0eH-I0jqJv1xeIJQYAvtx0grc2G8RYHVoce5rAw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/R0qj4l52BQGkHAJY81-pOeOemBrx1sKSe1gDI_nAuoqoQAdIQXuuRYFSRnLFXXuXbNJrUslk3dpQdVql_T0uOZrNYy_GO0MRen0XEkAVpbCHU3CKgRNVL4I6Vlv43ri9o0NesZ36IiopqQyFAPZK8r7YDOZb9mtWU-z_zy3ypKWLra_sP7n9zgTc-84HfL_AmXLwxV8Vn-dGvK1r4wMZh0hw0zsnXWrYlGsFsUh9eds-pl_IqEwcy43C3BmXTs1nTLRVaFQjybp9IzDT-owkBi06zkuuKqaW8UdRXCJAl7BeXqBsuxlLEAkS0P9zFRlVV4pZy7SIQX3MkkhM8x3hFQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/JAHmbgMPai6Z6YGJFG_ocridbjI98p276SOm77VIixBUBwVd0XYuUAghlk-nxAMMcHoljlW291kAAeCGWNEVNCioNSoZc2ReNWi1lzlPOc4nJ13KIdnbOA-j4-jr-k2yzpAB4eLgFlB0IKErvneCWe0pJKZXHCACJtVMtNOLjHNDVOy3y14Ok5CJ7Z7cbs1LBnWWDizsLPhYxyo0z4DG1cuNsg_pREWvj54mZh-74rgm5LD8Qfs0vwwBwAnR2WlRszIdY6igQbcFyNT0wp9H6f8pImxiZqqsBVoZbtvyx_Z2ILHbbC5oysXPQ4_penuvrY9vrrQiIAvywkZG928qGw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/kXJee3Dw-sb2ZKiclc6RV2JHkXt0CZbIzkHhUwNkoAJXjAzkCdCCIkBHHC5vg8KgOp7euoG7M4GZhIy0B6vdwrIF6N7quqGJV5PiERds4KFz-KtV7SOlknkSmpPbzg6SBUoRvS3tkm8hRNA4n-FnqJJg4SrNDk64mUQISDrm57N7VJxyz3CQOM4xNmsNx3DZSL9sP5UqUfyOlkEcRqw__hifPiewIenwjPkZ3x0KpHi6mSpWaT0gkp_4oekf01_n4MZjSVk49PJ2bDoS-_wBoWsw7syLgEFr-K20rgEbPSZtWOV_wdexJpKlQ0N4TcNxEkmxFTWXdq0FCzpttB5X9w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/pdwWhsc3pvt2tCi2bzHd395Tvb6IllCBzrnUQSXu5LxURmEgkmKSnq5IaL_G5z7Yy_6InAxRZZ-_YcESIckDHdt0idCz5UvbbXMWbM6LznWOid8c7Ts0puNj--ZssLqdjuYBBWTC8pJ3D4eA87vVGA5YO_F5XEop3Nylzbw_Ec-Qyp6uD8ewzbrCVAzpFazCIelL4bm1HzwhaQix9PD4xHlIaD76xA5IBpN7dQ4YsRRW5fI4pHJkGrHaoVT2VewF7hv9QMNWD4hLX5yYHEPwUSGf0ZKPOG74LdyMFHI5962uPnDv4aLcRMclVXg_YQJJ-NkE16PEioZ1mnjTGZsdvQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">یادتون رفته میخواستید برید
 پشت سر خامنه‌ای در قدس نماز بخونید؟
@@ -1082,15 +1082,15 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 تاریخ جمال عبدالناصر و صدام و قذافی و بشار اسد رو لابد خونده بودید
 که همین هوس‌ها رو داشتن!!!
 و به همین نتایج هم رسیدن!</div>
-<div class="tg-footer">👁️ 27K · <a href="https://t.me/farahmand_alipour/5219" target="_blank">📅 18:19 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/farahmand_alipour/5219" target="_blank">📅 18:19 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5216">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Zw0syexH8cZTsz31-eYV7k9xpld9LsX65bLg7l3CF7wUrGPmJtum5piWm5pVyINgopB32TjJCm0BB9shmh1MxUB3ql1KdNpBwI-70hfwqJtrfH3tAXdT4wbdpfP8F5fyEbp7kUTpilt9bSef-E4v4VILbHIF80oIyPJO3YdgC_5QoPtfM7Wp3HaiIZ3VOTUmvoNOlPjxZMX8Gp0k6tJXBUbX1tQIwfbSOLtPogmWU2z7XPVteJrKVCCc3KHqHPdiBDldd7wswk1nL1dVmu38iBahrYaUtFlRGMXPjRfDy_d28f5poQ-S77wmSmKRNyAHNX_tZBIrR1Odd68UZNXV1Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/cq3EL7OlCKbJ74dcmtg1hBDPcqbTRoGyXyrYx1LM8S2BfBVf5VqrGiu5_l6PSnwsQjc6VWVuihSQQtaRxviUPqy0PNwRaAWIBAxMLMede2iekIbw9Q2oMz8OsY7RdT-6ZzKo8A-B5Dc0ZYj0gA52LAGzJiLvkf2OI-dggweDDvximh56WfT9urT1leV-i-z6r6Za7ow2misuoLcubTgusPGII3HOxKLiwl3DGlXYmi7uKRVHcNkMR2pGJFt3QevRnX9hdbDfC1j4N8ezcUvPCgz8e7Zrtg6k-Lm4bMMixkOTpLPQ_oPF6v4oxuCZdY197-0LY34lUx53KE8JdMonhg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/H1bRgcy8UW6dnbQkbDSvHNixH2DO3sgIq3FaEPsQ9e7RXh8zKfZfMiSBr3OvoImhNq8-aSZHCUNeMXzm0glFkracI08iLjiGgPTlbMM0ZmrSDWF5gIHXiLXQU8YQXF4Fi2N23zv-epdb7NMJYsyjKwAeiJf13wW-OAzlW4iE8AGfqzzXDdevErRr3wQt50AxxaHoa8IAvXNBY-N6nvxq8SFc4pCAUSMtEtcXVMrJH3K1K-8JBYCZX8ND97Vi8_vtEMuNw87M3jLRFdQuaxYBOKKS6DogXHDYBGFkMslmzM8l9928NF75VWdoRSSSFPqOTsoMFyFfpG5OKJBJjVJobg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FJ-tRlsO3wwv5zHfYrL-4xdR-_CvvhTC3h5XAnTLeIBYU13K4I-K6qY42mY8cBwKT_QtP5SzZRUBnIkZE6RNzbUg0OmubCtCz0AyLbn2GGC6dAnhAWHWSmADY0vwe3bM8872qN8ei1kbCHUGikY0mM0Oheg1kUu4PyRaViCNjVDYX17dnZtu6h_j-HBD3dTNgXOnPXxwjn00dcLxdu_OTn7UMYdFcmc8a5YbAWl_eBvkVl1WWwuPKulXZNKjuqPEyyKEMYvlH8kWNEw8uIXsW5hew2g_T5NUpOuuPtrfI8vrYiVr9LfFFdJ1KX0t9sXF9DHj9bPR4_IVLsu1GvUCIw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/mmWymzxeEFKiP1NMmo-xMaoBzLBBPcIUsat7HliFEB2xD7vqSyHeJ2X6v54GECpnEgFX6W6rVAAQVECqdV-6_3kogmFTecnfycAgO4kKSoP3qMmiy0869IWGvwmpBS4BV2CvqeBeVnFFHtTJBouLDJfIHiq8NDHvtHRipvcqIwF770neCByXApJA_qbk5FXNkV_p_ZLqHv9Q8iwTkNJ0gczkM7o_1Hu0-8hGO4O16fwu9xwAT80-HcTcz4eGjcT_qA3xtNXb1QitRSbO0z5oiUcYtlOJeST-DVcnF4fvkN6QV9EYF16Qgk42cAwsljUOpp5GFKXgjMN3eV6Tw6pgiQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/RT5vOKRkgQHNM13J13hYmiWyFCMvoV581RMItmfVaORo1C9tRRt9WsYITLYfk9il_uAcSZRnnbl-PZmj5Dt4FMFjjfqVOhOd9eH6e3DH8UklLSgwBmB_3YSuYB2XX2nn1UxgRLl6zFpAH8vKxTCzN2lonKRaHImGOo1KpS-8pyCQzR77Mn63eAeHDtuaiE472EZN0Q3TqDR2Mlbvkhzik4U9lub6mmOrbANf7STo03pH7Jf4aTRI4Ho-8yVIp5bpjWNFSTi9HgzFtOrK9jvNH7B9UXcTx4Xse9PUBqmuneOWC-e31J5bYKA2oC_jQmW5IxPKUF2QQ2Mds2HSRuKs-Q.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">رفسنجانی سالها پیش گفت من به خامنه‌ای گفتم پاسخ این همه ضررها در دشمنی با آمریکا رو شما به عهده میگیرید ؟؟ خامنه‌ای گفت بله! جواب خدا با من!!!  و خب این جنگ‌ها و تحریم‌ها و آسیب‌ها و کودکان میناب و... همه همون مسائلی است که خامنه‌ای گفته جواب خدا با من! یعنی…</div>
 <div class="tg-footer">👁️ 27.4K · <a href="https://t.me/farahmand_alipour/5216" target="_blank">📅 18:01 · 10 Khordad 1405</a></div>
@@ -1100,10 +1100,10 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/db68225cef.mp4?token=ubKcp-jawIWRtoKJs7xcDeRXXwAl9qBSHTmaEmHabkbMemZbRb569J3sTg1Pt-19LCU-CVbtUhFFSZmf5JUA9EGO7GF3e8I3qo-foK_tOT-oQDAmt4xZUabV7QFZl9oPPrQZEHOVT3VvBNl6xJGOTyiHlXLYWKvSI2yzPc7tsZBCT7-whQ6gPJBcy-P3Bv1YNSV3dRFEE455ztC-d-VpQrFKJB-aJ_HKbxmdIL7kU0AzKR2L6icYJsb2pLR8lO6X3AeLFqjvpkjmnMVL7lkQEx_G9FyuhCuiH9w-fDRTWshzqaDDFMRb1Y3c30a2m5rLdg0ScUrS9L92rQ0TKZENqQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/db68225cef.mp4?token=hiDfmK4nR9Nhc16KPufN-Zcz2LyS-6AFXCMXyy6vR6LSdkviyfL32EnSOI0R2FH0qHe3I5TCxZoMKuo_ZX8EcKDUBEb0_1R76ZTTCGRlAM1csC5YUajIQ9jzJUWt5RnkXqHb09TyGqrLlU7hjQHIdv6PoK4rBCZrfxPlbIt4GFw8S1DjffFyqAoRGtg0Llri804cJK6IO-4BFu9QCaKYhqQRSbtu4howG5lB5vbShtNHoaehYjTgIHVZNSo1jQiocGghbsRTR76xgzEzovLBeOAr-wCsFIJMlE7Ge6vjt2ECawdbDhkLMP6U9iEcB4EXmWG2Cp6niTK5Xh28i-UFDg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/db68225cef.mp4?token=ubKcp-jawIWRtoKJs7xcDeRXXwAl9qBSHTmaEmHabkbMemZbRb569J3sTg1Pt-19LCU-CVbtUhFFSZmf5JUA9EGO7GF3e8I3qo-foK_tOT-oQDAmt4xZUabV7QFZl9oPPrQZEHOVT3VvBNl6xJGOTyiHlXLYWKvSI2yzPc7tsZBCT7-whQ6gPJBcy-P3Bv1YNSV3dRFEE455ztC-d-VpQrFKJB-aJ_HKbxmdIL7kU0AzKR2L6icYJsb2pLR8lO6X3AeLFqjvpkjmnMVL7lkQEx_G9FyuhCuiH9w-fDRTWshzqaDDFMRb1Y3c30a2m5rLdg0ScUrS9L92rQ0TKZENqQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/db68225cef.mp4?token=hiDfmK4nR9Nhc16KPufN-Zcz2LyS-6AFXCMXyy6vR6LSdkviyfL32EnSOI0R2FH0qHe3I5TCxZoMKuo_ZX8EcKDUBEb0_1R76ZTTCGRlAM1csC5YUajIQ9jzJUWt5RnkXqHb09TyGqrLlU7hjQHIdv6PoK4rBCZrfxPlbIt4GFw8S1DjffFyqAoRGtg0Llri804cJK6IO-4BFu9QCaKYhqQRSbtu4howG5lB5vbShtNHoaehYjTgIHVZNSo1jQiocGghbsRTR76xgzEzovLBeOAr-wCsFIJMlE7Ge6vjt2ECawdbDhkLMP6U9iEcB4EXmWG2Cp6niTK5Xh28i-UFDg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">عراقچی در تاریخ ۲۹ آبان ۱۴۰۴ در تلویزیون جمهوری اسلامی میگه ترامپ به ما نامه‌ای داده و صراحتا نوشته «دو گزینه بیشتر نیست» یا جنگ و خونریزی یا مذاکره مستقیم «برای از بین بردن غنی‌سازی و موشکی»  این مصاحبه چند ماه بعد از جنگ ۱۲ روزه بود! یعنی در آبان ماه، مشکلات…</div>
 <div class="tg-footer">👁️ 23.9K · <a href="https://t.me/farahmand_alipour/5215" target="_blank">📅 18:00 · 10 Khordad 1405</a></div>
@@ -1113,23 +1113,23 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/65778ca5eb.mp4?token=sWSQGhB3DPI3-Loo8oO_EVVX95UhzyGOCR6SapxPJ5ZQFGurvty56NrFB8S3z0dYLkEXUfbBWKQ4E88kAuDWRWX-5yNdOiTFycs6TuIbZBKa7qv7CPWf5HFS2a4yEF6IOILdWA6y7FFGwW9USFKbqYJB8BP6wp2-DMiIZ4QfAbWkulRoWv70GVGxF1FIiLCuIQctnbM19XhR0Q5eQtsOh1HxKsdjEwZxnF2NB0VnEccytT0cY6nFXPdApOnarmiUXXFfE-iCueEU8XQbIvDQfy6bc46srYB_opabMFPR0aa5h4nCJbm12DDnZ3jvcB87A5SAAHrtEwgG0HQCNiCLEA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/65778ca5eb.mp4?token=LJkzZmkWx-PjmaDdbWTUqm8rJSgq8ACL4pZYX3nBGgKkZvf3ZNjJRhcQQOrBcOIE6TomLMaqWkjxAHaOjq4kYza4P_9gH8YES4Az-gK8EKFDPKhXGnHQcf4xWHy4gTnIAU54DzDybLxQ5mx52X4HfpprdEgkP6dY4gm-HkGvmzejyJA0KRnNrusHmTxz_Fo1CWq5Zd_q0TH91TLn1SuoFxVliSRDsGp3qOltUC2P51bdU60GzdDDYuxnQEwN_JmrL_Mec54kIr9ReJNbWQJC7elrPNvE6TQXOGr1pVgtBjFtN7iWXg1dMvdvqk8jJqSFyCxfkiWu6q1ZDCMBCS808g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/65778ca5eb.mp4?token=sWSQGhB3DPI3-Loo8oO_EVVX95UhzyGOCR6SapxPJ5ZQFGurvty56NrFB8S3z0dYLkEXUfbBWKQ4E88kAuDWRWX-5yNdOiTFycs6TuIbZBKa7qv7CPWf5HFS2a4yEF6IOILdWA6y7FFGwW9USFKbqYJB8BP6wp2-DMiIZ4QfAbWkulRoWv70GVGxF1FIiLCuIQctnbM19XhR0Q5eQtsOh1HxKsdjEwZxnF2NB0VnEccytT0cY6nFXPdApOnarmiUXXFfE-iCueEU8XQbIvDQfy6bc46srYB_opabMFPR0aa5h4nCJbm12DDnZ3jvcB87A5SAAHrtEwgG0HQCNiCLEA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/65778ca5eb.mp4?token=LJkzZmkWx-PjmaDdbWTUqm8rJSgq8ACL4pZYX3nBGgKkZvf3ZNjJRhcQQOrBcOIE6TomLMaqWkjxAHaOjq4kYza4P_9gH8YES4Az-gK8EKFDPKhXGnHQcf4xWHy4gTnIAU54DzDybLxQ5mx52X4HfpprdEgkP6dY4gm-HkGvmzejyJA0KRnNrusHmTxz_Fo1CWq5Zd_q0TH91TLn1SuoFxVliSRDsGp3qOltUC2P51bdU60GzdDDYuxnQEwN_JmrL_Mec54kIr9ReJNbWQJC7elrPNvE6TQXOGr1pVgtBjFtN7iWXg1dMvdvqk8jJqSFyCxfkiWu6q1ZDCMBCS808g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">می‌نشستن و  با نخوت وعده «دردسرها»  میدادن برای آمریکا و دنیا!  «حالا حالا دردسرها» خواهیم داشت!  بعد که جنگ شد تقصیر مردم ایرانه که تاریخ نخوندن!!!  تقصیر تلویزیون اینترنشناله!</div>
-<div class="tg-footer">👁️ 352K · <a href="https://t.me/farahmand_alipour/5214" target="_blank">📅 17:59 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 353K · <a href="https://t.me/farahmand_alipour/5214" target="_blank">📅 17:59 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5213">
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/ab893ceeae.mp4?token=oPfhm6WdrWfTPBLgHsDmjRh3-DSOc_NA2qPNjpBH9xQyDZaFSEpLX1yCDttxGDFqba8LhpnBtDKvYFhoHHloyELoTm_jVtfT8xvIvS27zNQBuYnKXzpVLqh5guLZN4opzqbw-Ardkz_YaMMPpn6xZ51jJYI_4-OUI8WPpXEkv7npUccw5y0ZUdVhkszPsBWhVtWyE0oAqSgWbuYUl-qEvXhQxmVN7nB7eR3wf-TZKq3kKoJ7epXQB8e612Si1yLRv5Dlk7ple_LOIFfDm-KfDa6NiLxtvj6DfO5R2Y2cr9wpl2T5vdlwJqnDlUCA1MFlMgG1GDezyenUo7W6wwi4XQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/ab893ceeae.mp4?token=DdRJffRm7PnBavDKCGC628rDVTnKEA4_gScHoM-HQeTOoGxHsR64unObV1KTt8kSaZEk-_4sEGBlZ2xsFwvCPYzyfeTtdUXPmbX3X9yotmB8Xx-ld_sskoZ4dBbgYzXqUGo_8p1cVTTkLbANZZ4esQVjL-VkzQvdp28cYUoJ2c3UGTtQaDjxCGL15NySaY85MHhdNQAznagg0aFT4ov172J5VVwrpTWdaH7AZ5ftMaoJZwzutsBqtoH_Eik1as3dnH1NIWUM6KjUPe_FP-qhYLRfVtlIg6R8S659O7ZAGRHxnPv1bqIJgZqM32nWTjA9KwIJECIGc-F4GwRrInVHLg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/ab893ceeae.mp4?token=oPfhm6WdrWfTPBLgHsDmjRh3-DSOc_NA2qPNjpBH9xQyDZaFSEpLX1yCDttxGDFqba8LhpnBtDKvYFhoHHloyELoTm_jVtfT8xvIvS27zNQBuYnKXzpVLqh5guLZN4opzqbw-Ardkz_YaMMPpn6xZ51jJYI_4-OUI8WPpXEkv7npUccw5y0ZUdVhkszPsBWhVtWyE0oAqSgWbuYUl-qEvXhQxmVN7nB7eR3wf-TZKq3kKoJ7epXQB8e612Si1yLRv5Dlk7ple_LOIFfDm-KfDa6NiLxtvj6DfO5R2Y2cr9wpl2T5vdlwJqnDlUCA1MFlMgG1GDezyenUo7W6wwi4XQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/ab893ceeae.mp4?token=DdRJffRm7PnBavDKCGC628rDVTnKEA4_gScHoM-HQeTOoGxHsR64unObV1KTt8kSaZEk-_4sEGBlZ2xsFwvCPYzyfeTtdUXPmbX3X9yotmB8Xx-ld_sskoZ4dBbgYzXqUGo_8p1cVTTkLbANZZ4esQVjL-VkzQvdp28cYUoJ2c3UGTtQaDjxCGL15NySaY85MHhdNQAznagg0aFT4ov172J5VVwrpTWdaH7AZ5ftMaoJZwzutsBqtoH_Eik1as3dnH1NIWUM6KjUPe_FP-qhYLRfVtlIg6R8S659O7ZAGRHxnPv1bqIJgZqM32nWTjA9KwIJECIGc-F4GwRrInVHLg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">بله جنگ ۴۰ روزه به خاطر ایران اینترنشنال بود و دیاسپورای ایرانی! جنگ ۱۲ روزه هم تقصیر افغانستانی‌های ساکن ایران بود!!! یادمون هست!  فقط فعالیت هسته‌ای و موشکی و نیابتی‌های جمهوری اسلامی و ۴۷ سال سیاست آمریکا ستیزی و دنبال نابودی اسرائیل بودن ، بی ایراد هستن…</div>
 <div class="tg-footer">👁️ 21.9K · <a href="https://t.me/farahmand_alipour/5213" target="_blank">📅 17:57 · 10 Khordad 1405</a></div>
@@ -1137,7 +1137,7 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5212">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f9fSlvlG8MpeEHhl4Py3bytseI0ZHrouJLxMfbux4O8fHTlxcou2yKoBRE6fz3tOq5uey-mfHlOJOd0_Bjh4KfRlDBPXN8CSCMai-eObWeq3jtTIL0mLZQYeCL5H8QVMk-b8mwqGi8OqZhmTccOUeIwzyVOVTFkF5gD74lXAAEpkVdRDs-fVyAb6MwWc4u-Db3Fd8JYsE1bgh9imueUhKSY4iKMoGjoKGAOSCqayG-DWCnTtafHE0aksMVAG2UlNgNZKiCuwndYhTE41uwHvS2H4B7SSk0sVqj6oBFcDk5fYILjyvw389XwGy46pkZNrHhOMFz1rnW-g0AZacCx1qg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BbuN5IN94P29HRE1tWZauwsvO2mMD_R8qED6ZR2OpjRGW9JyJaUVtDtm9q9EUumcuHpafZ7SFJja1xE03ZIRqt1rWf2ynaw8w1bu4zlRZG4oIbpxN9IqceMauy43fGXZ8mTgGBJDU6iD3ZTULWccfljIm_czyI1ecmK3qSEiTfQD6jAzLxVhSe_uCzb_kpklWBHMZZcMG1I7fGM3G3FEb6viNkNDCFmv15UrXS3otFIgUU7HLJV6Kr7eBYWRbgkIsEMYW3FjgGcYwAQsRkPrazx4p5_3qR34hFfPRb3N2K3XcVurzvDNn7hJUYRrOnlGWr10JKHT9qA2645xFoFbXw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بله جنگ ۴۰ روزه به خاطر ایران اینترنشنال بود و دیاسپورای ایرانی!
 جنگ ۱۲ روزه هم تقصیر افغانستانی‌های ساکن ایران بود!!! یادمون هست!
 فقط فعالیت هسته‌ای و موشکی و نیابتی‌های جمهوری اسلامی و ۴۷ سال سیاست آمریکا ستیزی و دنبال نابودی اسرائیل بودن ،
@@ -1151,7 +1151,7 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5211">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Hc-m84DAmkcsSEJuqUwUBdZw1VndIMwo3r-tB5nQNollZvgyK-FdiGUkaWGrrpJCgZdVrxvSFEKSR-OuhwtvVU2vIF_yW-osQ47TEyCAExjvAoTdnFrompFS9nV0evgKs1topql1EVoJOHooVktnh8OzBF06CMMOmNIH8TA8nJRsIx8vHnqNBtSHk4fEpJxw4GnAZUm9sQS-f8HDcWuRTiI4i5eKfXJ-rWSzH96UCQrB-4nnpvBt5Sywn_0ew0WlqWc9Gpzyu3Q67yM4upV-zZ3zlwnfdvmYWu-aH2JmCxux3c5F1JMFKDmUhCRJJlMfaTCCO5KkCnm3LBaMMqalCg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DSRH9KLe13I3r26eE3knKl035vxIxuD7I78fWVcq70Z2_SFAFKHexJ9pr1-G5sMKPrUfWy1X7jvrn7Blr9_CsekY_QvPZNw0EsTyFZlRtQ8S2s7yIUr0Pn7KBlcr9RG-c1ov5eKWYuOnGu7XdE17THV_FakMhrSUspvavPK4idMVnQvpluk36Cb-zLQDjH6HSuURcMBmH6V5wWW_su2n_nrt_Fi-vi8pUC8OlB-Wfx9Ai8b0YYE5amJRLbDinR62woa5-UrYQ9oBU432RwpKmFcZ-dIdbRsBr7YOkfRmyaGX3kkZL2AHKzctZkNT45HgKuYmwVGGKv74me3U21g7AQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بله جنگ  ۴۰ روزه به خاطر ایران اینترنشال بود و‌ دیاسپورای ایرانی!
 جنگ ۱۲ روزه هم تقصیر افغانستانی‌های
 ساکن ایران بود!!! یادمون هست!
@@ -1170,14 +1170,14 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5210">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/et2jXXUHYZaMTfDVg5mXK0goELu1pYqGxZl1ERdyLH0JWwTvqD7O6VJQjTq62my2LjWhsYPb5h5ar9m4fvGKKm1XHuJnN9_qLqZh7ibqea9-0dI0-T6Fc-2oKgqHlPrz7ttuvNGqoP_LT3p1tqnJw_HYvDT87Ev9yYB8kKkI80ZUTP65Lvm9CPkN1IOgo2RvPnkl5ziQtPIXWdI2NX-kfiYgV3iyiEKA0u93mR1PLOXsSsDjDJjm5xGMX-PWak-tTtwbUfnDuAfG9v6Khdp-Xi-VFKdNfRnQmQiKaJINdObJdAYbw31J422fsvmROD1mdGBfZEcc8GGb1k-4LwW-rw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l6bBCbAAiIyzrUVQ3nYFglXo_By0yn3EfWqPs6wT61nGp8zwQoi0N54yO-DCZSvKOf42xEPf--UaKbY-VEyZnCgnFS1gV36nfYUbQSQ4rOQZx32hlPMzYwkm7SgPmtRvo16CFXsflAWpCqvB39I5jZfG-MX2YAaQsRodODFK2r2ucMDeOhV0HO98fgqyz04cH9Zb90PjleHWPnuHipEzArkAUZxVszctz6L-zGtMlv9yOVobdy5cjcJ0P7fd43INVbW7xfUCnZLpMGKtbCKBEpdZjUI9iYog0N3nBdzmOzZj-Ag4Ty03DpOjnE6iEp9aEu9f8bhI5QYDEnsucaCnWw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">صدا و سیما:  آمریکا با ۱۰ شرط جمهوری اسلامی موافقت کرده   ‏۱. آمریکا متعهد به عدم تجاوز به ایران شده  ‏۲. استمرار کنترل ایران بر تنگه هرمز ‏۳.پذیرش غنی سازی ‏۴.رفع همه تحریم های اولیه  ‏۵.رفع همه تحریم های ثانویه ‏۶.خاتمه تمامی قطعنامه های شورای امنیت  ‏۷.خاتمه…</div>
 <div class="tg-footer">👁️ 25K · <a href="https://t.me/farahmand_alipour/5210" target="_blank">📅 15:29 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5209">
 <div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aWHAwAMkS9F7IXHznGP1yEu9i8J01toFbImfqij_YZHyrEo32VxQ_Gc62JEYv6LuXiI1oej1Y5hbQowmC4xv_h0q8NVVt2hpvNpc-1demreqRbwQhglg1XaJQKNoJKOdlsQho6OYLDNHNuFmSlVkfJYpClMcsSo3177e9LHXi6fI7-nDqEN_moC0dQj3-_kRg5EIB4UrW9xGzMVnQcb_J8olWlYx-Ku-0g4jH7RzEk2ii4YqCYJtVi6zTnEiiv_-Ma1_TKeo8AsldpYn0tex0IWpFbTezIoQQ_8qCMKznUE_zES0ae-WI2MI8Q9j2JH4B29CDSeqHCVpznr9DOtvQw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MBFvSoqOipkqvc1Z2IAoYBxV2kCy7kBcXHy31wAWFYPyRRLIzUYJBKHjvKDVCpc-tClw8Gj4u79RX3p9rhz8tY42cEQfQeEG89dMfHN5CUNcBSZC2uyFIb3NBoghcr-EgwkEjjrKU_3eo7lkh-NNeYftNr-W9DbsnSzP4ENqsR8ETJmChHCvbdiQLKGMqyzi-H8ZawZpwoqQ19OUue9FR7SThYTNxEcoxFxomKQaiOBkLRyj6ckGTfrFSGADEjO7R7XkYL5UOlgFJVVnlm-HvV1pexXHbTw2dTIMYZ1yRKi_M2LVJHC9iZVcwHLGd872Crza4GbswEgbSJkq5Y2HjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسرائیل قلعه شقیق در جنوب لبنان
 را تصرف کرد، این مهم‌ترین پیشروی ارتش اسرائیل در جنوب لبنان از سال ۲۰۰۰ میلادی است!
 گروه تروریستی حزب‌الله لبنان،
@@ -1186,17 +1186,17 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 چند هفته پیش دولت لبنان قصد مداخله داشت و تلاش برای «آتش‌بس» اما این گروه تروریستی و حامیانش مخالفت کردند و گفتند که جمهوری اسلامی باید این آتش‌بس را برای ما بیاورد!
 (که بعد تبلیغ کنن قدرت ج‌ا بود)
 جمهوری اسلامی نیز توقف در جنگ لبنان را در صدر خواسته‌های خود از دولت ترامپ قرار داده ولی هنوز به تفاهم با آمریکا نرسیده و اسرائیل هم داره کار رو ادامه میده!</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/5209" target="_blank">📅 12:09 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/farahmand_alipour/5209" target="_blank">📅 12:09 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5208">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/86c1b13d62.mp4?token=LvzpIHMKKPcEc1phQ18Dnb-X4p5Hi2k9jkbGCb9Rsm10ufpmIQrxgAQHkbH_STzU-lW-xrcCz-RPTpy9-MTsPnTfGKYU8H1PcqyBZw8as6Hvx3_ObygiEhqhEERW41SrLj9mr7gl4xodSHyIL9B05lcrPihwfv8r5i5CFu9i-aol8FP115-LOpD81evvd67Wfgo3GghMa0dC4OXbXSKNvPQ_iImD_Sf1JketLt_wQw8WubFOopm4SCS_PpfYd06ZX0A2nnVQXvJGQ1HWNtNJ1EY3rk1951bS1ZP418w-GcldxKraiOsFa17y4p34olzQwqWwOc2Q38aSTDGp_zwhbw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/86c1b13d62.mp4?token=sMoAL0ahMu69_O0tkYFF0gGSeheJDmHOP1ENRt0gJuTywTvCezaLlGDJ2nPa33tZviV9cvIuS9z-_iULRSdwYppIuxB1ARp71cjjT3pcGk0fe66-Xjyq73vS4WckdH76Ncv357l4FmCSDirjsMyFedMK3lyZtOwGNDABswXNLqrGgmJO5jVcGJR4FOIYdpbQQX9WYA0bbimAEFCamigEscLmiqWvZB0V6SILH3qUf2v-vTLRyBjmoCRuwQZOd9qMd6H57Bd8VT9zMZa-f-6IXgzHvHky6rbpUiX_jNQ_XMXsvoZnYjjA0cRNvqA8029gdrcVfbcUqxCb0z6cz_7aZQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/86c1b13d62.mp4?token=LvzpIHMKKPcEc1phQ18Dnb-X4p5Hi2k9jkbGCb9Rsm10ufpmIQrxgAQHkbH_STzU-lW-xrcCz-RPTpy9-MTsPnTfGKYU8H1PcqyBZw8as6Hvx3_ObygiEhqhEERW41SrLj9mr7gl4xodSHyIL9B05lcrPihwfv8r5i5CFu9i-aol8FP115-LOpD81evvd67Wfgo3GghMa0dC4OXbXSKNvPQ_iImD_Sf1JketLt_wQw8WubFOopm4SCS_PpfYd06ZX0A2nnVQXvJGQ1HWNtNJ1EY3rk1951bS1ZP418w-GcldxKraiOsFa17y4p34olzQwqWwOc2Q38aSTDGp_zwhbw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/86c1b13d62.mp4?token=sMoAL0ahMu69_O0tkYFF0gGSeheJDmHOP1ENRt0gJuTywTvCezaLlGDJ2nPa33tZviV9cvIuS9z-_iULRSdwYppIuxB1ARp71cjjT3pcGk0fe66-Xjyq73vS4WckdH76Ncv357l4FmCSDirjsMyFedMK3lyZtOwGNDABswXNLqrGgmJO5jVcGJR4FOIYdpbQQX9WYA0bbimAEFCamigEscLmiqWvZB0V6SILH3qUf2v-vTLRyBjmoCRuwQZOd9qMd6H57Bd8VT9zMZa-f-6IXgzHvHky6rbpUiX_jNQ_XMXsvoZnYjjA0cRNvqA8029gdrcVfbcUqxCb0z6cz_7aZQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">امیرمحمد شاه‌کرمی، نوجوان ۱۴ ساله، ۱۸ دی در جریان اعتراضات شهر قدس بازداشت و پس از ۶۰ روز پیکرش تحویل خانواده داده شد.
 امیرمحمد ۱۸ دی‌ در اعتراضات ناپدید شد. خانواده‌اش به بیمارستان‌ها، سردخانه‌ها و پزشکی قانونی مراجعه کردند، اما هیچ اثری از او نیافتنند.
@@ -1212,10 +1212,10 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/8afd0458a0.mp4?token=mNLSoRWb0Odf1LMbfXeX8SuMgNuKNzaD8EJtO56ngi3ixXmG7hbPFQ8y5LcobtKY78jFbPIHrfDa3SSTRZu0Qw6sfnLrn3pO6xdb8XIBW9Ulc4OylLe0AxLq1kiPHjkkiVaY_Pn665QXI9-ZEerSCf9XVspg4cO82AIb2Utkz6navy6i8E7L2LCNhVHcAXPG00darHBXxb1XJhwXDre_bR5-UMwd_rVeMtcwtMvG74688qDy34WY7NBFaYg-3m0jz3_c15p7udMdlDVq7OHz1SKLGQsOengszmjUa-7MhkJFdia0y3No_am8DgnXOnoyd-PgrUpKt5iShGpX9JZrXQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/8afd0458a0.mp4?token=PSS1ohvfTj-YVRP_Gs7Q9hSS0V1Ty58JotxOUH9baGAVgUW8b66pOOZfUm0-qSIBMMtEUEHudwTpr4bQ3wk43pdZ8NGl-7D1yDKdy3o78gE9zCuYk_fy4Es96qiYQjip45IYDHKjYYs6mUiLOAb7PK45iVHhD35_Pa1y7v4SwewHhECDKPm0WuYg7zxGGhvAqPj4Sr1sP6j9rDaR7bGuyCSgf8I2UqkDEyCRFszRA8PdiO7X4GsaEdiNMm5rcU94GiSKiMVFc0HaaeXl8yIzgQ_zs9vWP8adGe3sZ181L8GrGdXxfmdd8zQBfFHbB0oAobbYUawnIT5YFtIKjgFcuw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/8afd0458a0.mp4?token=mNLSoRWb0Odf1LMbfXeX8SuMgNuKNzaD8EJtO56ngi3ixXmG7hbPFQ8y5LcobtKY78jFbPIHrfDa3SSTRZu0Qw6sfnLrn3pO6xdb8XIBW9Ulc4OylLe0AxLq1kiPHjkkiVaY_Pn665QXI9-ZEerSCf9XVspg4cO82AIb2Utkz6navy6i8E7L2LCNhVHcAXPG00darHBXxb1XJhwXDre_bR5-UMwd_rVeMtcwtMvG74688qDy34WY7NBFaYg-3m0jz3_c15p7udMdlDVq7OHz1SKLGQsOengszmjUa-7MhkJFdia0y3No_am8DgnXOnoyd-PgrUpKt5iShGpX9JZrXQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/8afd0458a0.mp4?token=PSS1ohvfTj-YVRP_Gs7Q9hSS0V1Ty58JotxOUH9baGAVgUW8b66pOOZfUm0-qSIBMMtEUEHudwTpr4bQ3wk43pdZ8NGl-7D1yDKdy3o78gE9zCuYk_fy4Es96qiYQjip45IYDHKjYYs6mUiLOAb7PK45iVHhD35_Pa1y7v4SwewHhECDKPm0WuYg7zxGGhvAqPj4Sr1sP6j9rDaR7bGuyCSgf8I2UqkDEyCRFszRA8PdiO7X4GsaEdiNMm5rcU94GiSKiMVFc0HaaeXl8yIzgQ_zs9vWP8adGe3sZ181L8GrGdXxfmdd8zQBfFHbB0oAobbYUawnIT5YFtIKjgFcuw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔈
 🚨
@@ -1225,7 +1225,7 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5206">
 <div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lCIixb81rEArQsmsRvYb7Nk5qdmpOp81ISN0s9hTNFfNavPwafrdbYoMaBEzngElSIGYbGaVrEfxEvqDPMZ01T_r1BSCGEASx9Gesftg7NS4oVf9XV4VuB7Iq6aIk1c_1PBm5GNCSdKBGSSqUWY8lhFfUm2GFsPpcqbCczYuwIPydLiC7Gvkr_KVcFMs5hp5KtOdLf2XyHIQar2oySqg_Gq0zT9f30dPzHWF6wGim8Rw_O6QxOYbRCr9dHtm4ygkmptwi5X5Gl2rZnsDSGBPooIdgnMmfI-F39xpWB3FTF1AIhLSkTrdEZj8Zqi08-71xpA_oK_VAceFIZCCtsAGBw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NYpgnr5TUMi8uIpQ2Fsx76rov_9TcLVjie1_LXlgS8Yov95GEmqL-_2ZhoaQdO1UDGOdZCIuLXsnpB2gu3MY30MXppl3aPUA2q38RMmCxKTTC2xS6FN-FZHjs6K2ZVU-IOftZJhKP7p6WkuuQMugjPgx8bTTRTmo4wD1OMdzJ5JsXf5VuIKeFMHaUaxL2AY_KlFLVvV5IdVns3ESmPLCkDeSRT_We4npEMk46uhNWBo-u9XQDDGT53wK2IqQn_XzGYSw58TxDmBaq0EkBEOxkKma9RY2U5eFTcyoysXKYs_edDPGYf5EB29wCTFeODHEGBIuyCTHfRxKF1mlqLb5sQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جمهوری اسلامی با آب و تاب می‌گفت
 به امارات حمله موشکی و پهپادی کرده،
 حملاتی که ۹۵ درصدشون توسط
@@ -1245,21 +1245,21 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5204">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Q2_9dkIcxRw_n_7k2IxJxLpi-3NQ_OMAn3weMRzkIOqTIglfYI1PbXor2egOtwmcnZ5WH5VKppJusyNxHCaTmfuFwXwR24-vptqbrkeiPd1vUbMxd1e8sQdMluJ1yLlr2fXyiS2k0H7I5P5f4kAyxmuxmhoIOfQM6xnvnGojfhuE3aNTdInjGqcG80jR_WzXB_NazidMc_Q7h3SQShJHYjaHxawvTqVaVmVswsoRI7xAbCGjh6vMSolxVZ9SUG2OwkBgXlomvgT5_sqRzmSCS0jHyLVcgPp6nvaM9dft-vv9xGCGwGmEvheKcdIIgpzX6sCHMohjdh4GyZD6ZpcsQg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dGJ9OV8pCapQCWZDYAqbzLJ_A0QAm_Ys4jUP7mboQbdVdnyzE90ltgpOBA2BpKkX19FsDCVF4qA4aGexw6qctD55seRK6su4Mdg-XI64ryQuYe4AWsQnYTvDDZ_VNlaaL-VeFieZKSSWlnsQ2oj1hWeR6G8Rn3bFGLKQ0MEBq4-gbUrfkbQ0AC8drUR9yT3DbUSNewIpuGzhoqYpxfo9cZk4_Hbf2u8-IvPg11OytEed2OHV3dciY07w9-srdXTaQDlubMm59U3bGsjmQIlZWod2Al9mXCbBh_fsP3wDjirV74joq2FSVXm33GeEp-zdxOo1g5EVfo9Cc3JLDkeHZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طرح یک دیوار در تهران و گفتن از نابودی اسرائیل در ۱۵ سال آینده!</div>
 <div class="tg-footer">👁️ 30.9K · <a href="https://t.me/farahmand_alipour/5204" target="_blank">📅 21:53 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5203">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vdmrI9lSCPJB18oWVt5WZrC41gW9QVFnj0HScoGMFb1dpqszioW2hECCnRp7iDlXT0Syr8ZvScXbsgzbVt5dX9FbfLBZxsf3WIub8XjROBzmtGNdU_JZZ61UC3L-RwEvSvD_j1513E4dcGtcXnzC8G2c-5S15qK30VgIIxOkYIYsKxSCkA5gZb-y8o0aCGs1b1g4mEWaGYFbVXpo1LzyYvLnRL9LwBKbE3ay7oU0Tl2Z4Fg0vRd1RFz-knz7MlAd8JfuWfggBYVJPbB3o7TgQpjTA8OIDCa-2UAeczr5_Z5uU0P_L1doPsg23ccsRXXBIwZkQgbmgV3s6fiKzYCcaQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Qc8-VLtpJQbgmYUU7dGcprO0lFtjc0HqGI7Ryg7MZmpK9veh6iMSJFX2Xb3N1AFluHyMM070pbD4jvMVBJeB7_Y_GPIXcdcFIcUacCWurd-pbwLuKrm3aAyUcHOcJ3x76kqTiSPCBidrxkPaxtJPTt7_OD31j4gOmQm8ryBhmYwCJpVP9_P_0EehkPyCmVep7eRkrjB7R0mCN9SyGBat3JIHGm3J-Zn84sqy_f10cKL7v1lkqybM0SRQSJ295Sm1diMbpKJAOEa-1HitNCZXlh9OV9ZLHLS5GfdZrA_qOCoRgTWQ9MTWnmuf_d8eYTxG3l-b6DlpLs9ZfLifHQW4kQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طرح یک دیوار در تهران و گفتن از نابودی اسرائیل در ۱۵ سال آینده!</div>
 <div class="tg-footer">👁️ 29.6K · <a href="https://t.me/farahmand_alipour/5203" target="_blank">📅 18:38 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5202">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/McDcRBta0QOjQNA3l5R300f2ECqyPcYdCsCup5uOaNXj4XAOuaEGVsdHe7ATq_Fxew_95HUcHgycqhOzri8CcJl39ujhd7WEpbdQCptZN9_Bj0AI_QpWA4dO8NY5htlkTwpUA3ZyLqmmAgDNL1NPJaTBxCi-UvzBi96dYPOALQ_ugyrGm12OhB2W-WojaOFRymPQH_ppKGGCWL_LRdIuFfCOMfnrRSYs8CpQ0pFYFdyiwmrNf1TiOFY7hCotEFqbosRZLdTZy5gU4sQBW4VnCziNWIVKRfB5mijz_PkiEJJpNrz_o882P8sY2m06ovydQ3gQ0m1Q-v_XMfmKHeGTag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NF7J94oh4NdkWq2vT4SmIQMd63KxZra1JjAyR22VrBff7EwTm_hznxvIUYvSWr1E8dfg2MGes5KPnxw3hDl_HxYFgrafBySIy8tKdDjWtH4aQRcpy33F0_t_S3ts73wxrOI15HMeLdqqiZLKGu2-ZmVAOk0SPpc5dNgrDCCMAs8ysg3a8DHyrPQoJnu41UZGzTc-RjsESFeZBtzRRTzz1VvFZk-Vfld0Z1wEz3skLrUQPXb43CYFF6qBR1ChFepvTbezcWTAiPZ8TstDumXluL1f7X75MjEAV4Fjfko-l2JKVu29hqd2jg9Jk9793noneASoPrk3tIjSjtdcmUYs6Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آمادگی بهتر برای جنگ بعدی …</div>
 <div class="tg-footer">👁️ 27.2K · <a href="https://t.me/farahmand_alipour/5202" target="_blank">📅 18:36 · 08 Khordad 1405</a></div>
 </div>
@@ -1286,8 +1286,8 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post" id="msg-5199">
 <div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/jWO86RNwEeP6keBrXx8biruS9QM8IvlEPct4t5ZL8ZUaflnS0V066jpoPlsaPOM0Rv8FXZaBMFyT-WCbz03mzd4qFPyRBQ8-_HpfweTkWR4eHIvYOZ9lVG3UveDdVdAZ0-w2Bc6peMXK8KJeQ5djPRdtvMtCvzuexxJUIhLnEbL1vZFUV-LCWPXeo4kJz-RipidYXuAVyyIilaQtY_yo8daXRUFJIUfnBQ247L6hvPZoOQWFwG4m7Qy9pEwP70KV7HgmYJEwnx_AkSTmo8VNZ5Og85g1Z69LmBS16ys1bh9HozeUmghQTgdUsuwXLGMF_Gegx5Hrd0OYFjj4KabNKg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/C6wez3hIlng2to_cELUwNRM5ZfJAzFu8vxpZpgZZLWGZHYuAQeXHxYbcNXpWNvPrCStCCytmcZRBNAGHLKXpwasX7dKe6ZrEJQDyDOZbkb3arKr3cqhylnWp22ntxvJKMXpRVX7P6wRRRDpQ1grlRZ5MxQndMvni5rPSO8bpZRF4DxW6bt93GpA-as96W6MWUTC09Z6B7QLY79LGd0mMYozlAnOG-yFdA-2iYMFGrzJEmZgoqhmQVwUUap47wBSoRvRIpV5YqdD_T3TYU6ydVyUGnhl4sdIL41UiuI3Rm0SfUfWrZ60EDZJD9YY0-UIQzVzlENYcLWHEvB2CTbDuiQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/e6ioQDj9Qha7DopKSjVMxUNrfIhKwmmFEAoe3KBW_aZSc_86FEo80aJT6hLit0GhgxVZVeYQxU8asRpa6LXlwBIb4Z92IAVjM9QWgLQzus-1LCM1pReU5A0HPXmsyq-FEVhY6WH3l_4iQVPmH9xk1z4Cq38LIcStlucf2ksZOJ0x87qZUCW7P1xmNfaLKFXQDzM0_gulsRM4l7590pZkc-YosTv4iMaL8xfR2GMdy4XWC5g-bMv_WJbxDLVQFyoP1C8gJoMJJUZ83CTZGh5U_PaOn__T6XYKFxRRPwPShY1yEHdlfKQVKt0SX79g1lwcfGvFi-kNejnwDpD0ii8tRA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/dnMRfZCL-7NNDqxJnE5zVsftGW7pcY7AfaXhYNIoUq7oSm8dHqq998nhzyCenuDDzV-vyVWSN388lyc9LwmmPkd04CyS8xcltwKExg6zM2qz_-ttvJ5zfOrOx4vg5tEIWRUcGgqQHJe5WJw9SSUtkKySepBijEhcqBKg0ETBXA2sYQqcS2hueRw02OTLEmjIwEMbLIj1gMYfwVV5ialC5sWUHGwDqSDC4Rs3M1ya0hLP3UwAdP02JA_Gag_iREkciBS--_vlo0bo6s8duuBMaMRtdRgMEgmdAc7ajC3UQwkBLRx_3HCg2XvPe0DluyBXWHMCChDLoJog6sxEO2ko1g.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">وقتی شما نبودید
 لبنان سفیر جمهوری اسلامی رو اخراج کرد!
@@ -1300,23 +1300,23 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post" id="msg-5197">
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ix0Tw-8YjOYkbIqBCgGRt1zZldHRW0789_0DyRhUNaFQVKRcMalNteKrO0piiSpVDD2X1MfCGONoVyze5Hl4Tg6l6YBLQXYTII4XozxZ64DSKKZC4Y8yZtrSHds7nY5YYoRbQkIU4zCRjfcaIolcY2Xw5NbPxgJQ91u8gANJMBN2HBGuGbM6B87Vb_Zfljl9hmemVvpaZPVVO348xo58D2f_OuC_eOehwphOW93XajdXUGBR8EZRjMAU2w2piUTzh-U5a8UBcg3QD_Fb36KyhZRGHJzdQRRbqopVVnkVimmgoEr9zdEruKSmAQXYqp528KT330EXeB6Irt-HhG-SVA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/df1NIHfo_JnYTu2CCcq3KH2mluliv-PENMZjhSwmAWNOm27YAGvWOFCTs5rWMFXDhtb79WWStmatAuj0Zc2HC1Ud7HuBNdCqJPnU1wFym0ZkFPs5jPWHNFBokTjhhLFRFiH3bKXQRvc6mvgzacnY3OfrKSRhJPoQZHgy3DNVeqkHIW728jRst694Y8rrefU2zO7bCh-EXuK5zl5nsoQWHN0_CJuoezXnf-GEQGMw3mRCqPJn7Ny-KcovDb4wP0ey_OQ0ZnuLCVt3vZTiYEQzbvNucoaZuqNJHC-KZpiNptv4jYLjlXJOlNSKUwIo3J_hU0QxXoc0l7twmsht5neEkw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/DonqQZpn6qOy7uupXBkrgyLwk0hl8qyJtn4z4zfDqTCbFsObZFsAoPyjNY2QJ1TkJyv1cGS_y3BvCsjUpQgfn9o5RxaEA8Qe8uQlDC1lzVzRoHlGvizeKQlGuHCwnePEqTn9ORr-i-1GoZHQE8yuaKZaKp-sd9QSrvBxtYbLYjD4kKRBEGNZoZPtVQVEpdyAfrGYnE-1li7QqBYY9Dat2C_qZogGRx94QLc0r6y9U8IEZW9SNgz6B_oNv067jFv7C_dyZ3qMSW_WnRJH8KQpRnqAdOJZbVfgBhKF-wG-tK6y6zycjUIBrkjtYqHR_A9eyslbOhAkjjiUme_DCnCeVA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/X6z6rxq3zqvBUXwPEWIimO7Z4UzvAyk8VrXDtD0kyejBf0CcEwBvLLKs6RxUbCTfngL72sYioRlxaEVoyuJmkWh-TplTCWOAXOArFoYVNyo-P9o3LglL3TUnYTlyWmOZl3DxfhaXCZOqe_bsyg7ii5iusdHk67Lu2hZCt_Z6wG1P2iLgaJuVowd_XO2tcOUnEg0QFrFv3g0ds9HylT5YSqVtx8hNLc6Rc3E6E_HUFZt40eX_4F4tEjcJcpu41JUyckqqVDDW_snNHaKYcSPB4hQ1AtSGr_WosLXOpQsWNbLmkYrASXJZcCOV4d61cbhCqE_dd1MBJQcLTxWbRoH0tw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">وقتی شما نبودید
 درسته هر شب توی خیابون‌ها بزن و برقص و عروسی داشتن اما در افغانستان گدایی پول میکردن :)
 سفارت جمهوری اسلامی در کابل در اواخر اسفندماه رسما تقاضا کرد که  مردم افغانستان به جمهوری اسلامی کمک مالی کنن!</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/farahmand_alipour/5197" target="_blank">📅 13:50 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/farahmand_alipour/5197" target="_blank">📅 13:50 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5196">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/07fac9d6ff.mp4?token=fOQiu3rmV_dh8A37rFEtvNl-AgeTArmXvj7LpZ9ujfPEaZGBZjfE1qeaZthjfbeA7jCJsOpR1gqdm0SV67OVg9NqHYqzpInFTjFcfLohfMzyD-IxubNQexgLa_wPWewiTb0dQP5aUVCsy3kraAMMXYUDMKc6OzeECoPiu8AGiVCq5A8pK1KtsfZd52OrWQtUAAjNC3za_yWrovMQpXUBq2mhQ0RcNzpQ2UZDiamoTPa_wJcp7XGE5RHaqaw6E5C1j5K_t82C_Y9wWCkKyHQbRGal8VAKfwd0Mb1p0CSFQ8OE_yUh-L0qA83UHBzlfO7Lk1WGMFlaj0OIMcfMgX0x5A" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/07fac9d6ff.mp4?token=X2xUg6pqR5h5XOg19KUvzqNnXJkx70BIuldaNYHAawVJ0Wy2uj7skP8soPacyySaOrlsWBfWq6zYwktWZkDpteWbsRPSLjWzyhSgmU1Fvy1_Zm4HRm-_1mVe_tQrDkkpt_4NZiKgNnCqGnmex40WH5uiddveBFEMQNM0nxsmE1R058yMJAkvwBsszgvTVzwc8SSJ_aDk0Dwpw5xDIRcB4OQMcrwFIaQQtIbZ9MO5b0Upfat_K8cvYcoQsyLYhVcLUUJWOdHekq4JZPL0kbYsrRnV5vE_05u-qvgsdXPrFF-G3RCSDsrnIp9JVxeglu5lb6HU4VoJ2jbnZW4XiLoT_g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/07fac9d6ff.mp4?token=fOQiu3rmV_dh8A37rFEtvNl-AgeTArmXvj7LpZ9ujfPEaZGBZjfE1qeaZthjfbeA7jCJsOpR1gqdm0SV67OVg9NqHYqzpInFTjFcfLohfMzyD-IxubNQexgLa_wPWewiTb0dQP5aUVCsy3kraAMMXYUDMKc6OzeECoPiu8AGiVCq5A8pK1KtsfZd52OrWQtUAAjNC3za_yWrovMQpXUBq2mhQ0RcNzpQ2UZDiamoTPa_wJcp7XGE5RHaqaw6E5C1j5K_t82C_Y9wWCkKyHQbRGal8VAKfwd0Mb1p0CSFQ8OE_yUh-L0qA83UHBzlfO7Lk1WGMFlaj0OIMcfMgX0x5A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/07fac9d6ff.mp4?token=X2xUg6pqR5h5XOg19KUvzqNnXJkx70BIuldaNYHAawVJ0Wy2uj7skP8soPacyySaOrlsWBfWq6zYwktWZkDpteWbsRPSLjWzyhSgmU1Fvy1_Zm4HRm-_1mVe_tQrDkkpt_4NZiKgNnCqGnmex40WH5uiddveBFEMQNM0nxsmE1R058yMJAkvwBsszgvTVzwc8SSJ_aDk0Dwpw5xDIRcB4OQMcrwFIaQQtIbZ9MO5b0Upfat_K8cvYcoQsyLYhVcLUUJWOdHekq4JZPL0kbYsrRnV5vE_05u-qvgsdXPrFF-G3RCSDsrnIp9JVxeglu5lb6HU4VoJ2jbnZW4XiLoT_g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وقتی شما نبودید در اجتماعات حکومتی شون هر شب عروسی داشتن!  «صیغه یک ماهه»! در برابر «یک سکه» :)  با کسب اجازه از امام زمان</div>
 <div class="tg-footer">👁️ 27.5K · <a href="https://t.me/farahmand_alipour/5196" target="_blank">📅 13:25 · 08 Khordad 1405</a></div>
@@ -1326,10 +1326,10 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a8f5663381.mp4?token=k8cSAK9KXKApGg4yZse9d__gqcEXBpuuAH8c4xE-vV7m8X-OjS8LQ2-QaNykNFByX44VAed2Y4abDdnWHpd9CIUhKbCTSEOW3JHNTAIPkTTgyzHpGRfhnp6vhhum2YUCN55Wt3WN9NtQUlA2Gqf4HGBXZxpybsRMKAe2xTpmupPVmXI4ia1MwyidrYiqFDO4toOrvAE9HLpBCbZy-gZXiC90P7wjtKQPyj0dxCydEsXGPQFPnjNCjgOPamdmHqZrGb2LEiT24eaopBs_QqvinsnjcZngoQdNfUQM50aQP30vsPI2XvhXZiozwsjQHtjGzmt0yLDMEz8-P_oRtu6GBg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a8f5663381.mp4?token=TNZcWfrMoVed5aA7IIKR1mLn5hzFjF5SSRhsL1VftDQIztcTUzbfggjhjek5Fgim12WKCiiSTQ5JDboiCJnM6zJ_r6PmBEMplYDct3OlluucMNZnSPst-tIOKjA5mijcg2MmHD6hHl02QeNSS28PvDb6QEp4zv1t5Von96vmKy6AHeH1zdHf57MB5_rkW7MQOa5KopGBm2BPECJnNTh0ZgrBMD05Umx6Uj_AGyCulScDqT11RTm5k2HO0UJKePCi37qDCzjfNC0QZHkbt0gi4c-Otu724lDNJ8_eqEL9sc91GmzJ30vhs9CpDtFDrZgD_zJs2NyYxGh_sITP1f78qg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a8f5663381.mp4?token=k8cSAK9KXKApGg4yZse9d__gqcEXBpuuAH8c4xE-vV7m8X-OjS8LQ2-QaNykNFByX44VAed2Y4abDdnWHpd9CIUhKbCTSEOW3JHNTAIPkTTgyzHpGRfhnp6vhhum2YUCN55Wt3WN9NtQUlA2Gqf4HGBXZxpybsRMKAe2xTpmupPVmXI4ia1MwyidrYiqFDO4toOrvAE9HLpBCbZy-gZXiC90P7wjtKQPyj0dxCydEsXGPQFPnjNCjgOPamdmHqZrGb2LEiT24eaopBs_QqvinsnjcZngoQdNfUQM50aQP30vsPI2XvhXZiozwsjQHtjGzmt0yLDMEz8-P_oRtu6GBg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a8f5663381.mp4?token=TNZcWfrMoVed5aA7IIKR1mLn5hzFjF5SSRhsL1VftDQIztcTUzbfggjhjek5Fgim12WKCiiSTQ5JDboiCJnM6zJ_r6PmBEMplYDct3OlluucMNZnSPst-tIOKjA5mijcg2MmHD6hHl02QeNSS28PvDb6QEp4zv1t5Von96vmKy6AHeH1zdHf57MB5_rkW7MQOa5KopGBm2BPECJnNTh0ZgrBMD05Umx6Uj_AGyCulScDqT11RTm5k2HO0UJKePCi37qDCzjfNC0QZHkbt0gi4c-Otu724lDNJ8_eqEL9sc91GmzJ30vhs9CpDtFDrZgD_zJs2NyYxGh_sITP1f78qg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وقتی شما نبودید
 در اجتماعات حکومتی شون
@@ -1348,8 +1348,8 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post" id="msg-5192">
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/q2zqycoLvjgOCbGqoChAg8wbSIpA9AsttL-Zw8sKkCSAqP2_2qcrspxiac3lx2CK8YUEWJalLcfYsTqEh9fbiRKeNPIz2Ukml46MMWRoNA1xWlkvvdKL8PTA9vF1M07UCreZGkH-TEklTid54QXeQL2qsCaRx5IJKPBgYykpP-dG6voiFy879jbH_hbbjtyNoUjA2QjsXQVWpHRpSvNycdy8_L3ohMWU6cPW5YjeOyt8PChMG5jUiaI9RGUzCNd1Mt5EI-eKCA666zye9ESBEj_3MuJvgT2527FerQpAucppm78EHWKmMVf1pJdRdeGDXeAS_3sTeZ-l_AI2AJebAw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/h9wHnl7rGXvbbcElUzngAcD1FJoHb5aLLdNyf7IHTHRuaHXv4M_xlWGndYtWzztP7RwnqVnc9Egsv9oeV1saYG7E9eSYXU3X7m0Yo6VPYWIPpCTQwhQ1xwmvfzuIonju8-m-jxSFfMBofQ_XfW9G61BVgXY8pJdcKqLXpj7uETL_jSFdtG0w_h34U7vmaH_vMy4YZAizhAJOTPoTFqCDboP9NleR-0UdPYuA2iwVqfn2nrFDqh8tEq0r1dRrIuTBYwMfFUldKDvmjE9T1lsJyKRGurFpasPGOC4CuUvX3sotAFs3LFQHIgTybzFy3gRA7gp6PWQGmD3KRmN2O6Qg3A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/r1tNkj2yOe0Ugm4JV5aPZnzofNo79G9I7ubfcUVtDbLmLVBqj2wi7HL0oUpaemuWaE_3USk1CkjRIFqRgJug_t7Q52ShaK_eSEWTww6iAWfkypJd7dhgv7_IpTQdM5btPuYvw73-MAyVo-CbzwAueTSgninV9buRe771hXeGt2KuZa8y_RhvrDudnqZN1o4zh-Od0yTFJwPrPahfZ8kylr5Casw6E0LRvXcRl4v_gE8rf9azBtha1kK_tsF3r8vEgka1pAmiEqKD6z5fMW_1hD58Oz_s1kHdyjpAUC7giq1tBdR2KE0OPISEu52kl3Lf5bPe5gEo_-IO7o6giVBJNA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/AhElplhn7BfRoK9vdQpll1-OaHNCLj6qeJpeUacuP6JEO4rAeGdPbvK224eUMEpTInti3snplpPD13NLGXUcJ4nBPvuchT3dBB3jF5s1iHENf9VHF6OQ9A7G10zz9czTbenJY-F0pzDgVqGoppAoKekez8MwZd_z1ZbX3oANTdw7VGqEg_H4vBcQfPeH-F41ZPCIqfJNwhb3M4iNdNxn2gfTqWnBH5XnLJthLkWv5El5fUiBVKnFOQXvhsiuVr4h35_35FxBgJn5mVEwU0sT3XpmKKslvlMHAkS3Zpuu5_J8nCaL6VryEQgp5TqvCn3Y14T5TX6rToLYEoGDKphEiw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">وقتی شما نبودید
 پوتین پیام تبریک برای مجتبی خامنه‌ای به عنوان رهبر جدید جمهوری اسلامی فرستاد،
@@ -1367,10 +1367,10 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/9993037d5c.mp4?token=nq4qwZoDbaFK-9cGqezEc0cv93CWHxwyHRfNGCNBpONwfiWITB7FShQeScRJH84j8bbV7tqrl1MONAeFqQj7UEBkhloxTP71JvFULJzThYFJSHWgwl44gemUjY8RFSiB0-l_3Ohm_JPh2DHTOUmvXcPawUyhb_iVGhXqabEqXrPb6EnsV_I7wDGD2jrX2e0T-CO4eCKB8xrOH874ko9TxPj9sJ-fkTTCyNPwGsEApkTj5Uw_XmtImhwgrENZ4guGNiVRuDTlK3M78jP75jIW_otu5iKKVIna3svE8xuO6RcC1jqejcW_iNpjZb3G8-F57OZE7LLZdVTYd1tm74eH2w" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/9993037d5c.mp4?token=Ar7b7-82tONCbq4lthBANmUATYMlL3SLhQtsRNS_aLcoKHQ8FSYLbszCcW-dLGH2f8eAo7pPSixunb_3DYXUpQQHNW02EAVG58n4YJuzzInQh-0VHiz4Hei083B2joxiL39fNAQtQSZPYY4xKG8JnklBn5iEF6pJZT3kxltcRmjJbnKWD4nr3x9Epx3bcB3k5vxXs_V2I9sQEXQlsV1wK-2qWLfBg-KexdicFfdnDcm9-ayHLQY-VdyDAYUlp540jABheTgwK8isoe6kZ1NXRCRAoib0BWL0Ibw0QyNO4FlxLhFi12y8AmiZEHjaYvAXdHV6TZY435jLjToWcV3BZQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/9993037d5c.mp4?token=nq4qwZoDbaFK-9cGqezEc0cv93CWHxwyHRfNGCNBpONwfiWITB7FShQeScRJH84j8bbV7tqrl1MONAeFqQj7UEBkhloxTP71JvFULJzThYFJSHWgwl44gemUjY8RFSiB0-l_3Ohm_JPh2DHTOUmvXcPawUyhb_iVGhXqabEqXrPb6EnsV_I7wDGD2jrX2e0T-CO4eCKB8xrOH874ko9TxPj9sJ-fkTTCyNPwGsEApkTj5Uw_XmtImhwgrENZ4guGNiVRuDTlK3M78jP75jIW_otu5iKKVIna3svE8xuO6RcC1jqejcW_iNpjZb3G8-F57OZE7LLZdVTYd1tm74eH2w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/9993037d5c.mp4?token=Ar7b7-82tONCbq4lthBANmUATYMlL3SLhQtsRNS_aLcoKHQ8FSYLbszCcW-dLGH2f8eAo7pPSixunb_3DYXUpQQHNW02EAVG58n4YJuzzInQh-0VHiz4Hei083B2joxiL39fNAQtQSZPYY4xKG8JnklBn5iEF6pJZT3kxltcRmjJbnKWD4nr3x9Epx3bcB3k5vxXs_V2I9sQEXQlsV1wK-2qWLfBg-KexdicFfdnDcm9-ayHLQY-VdyDAYUlp540jABheTgwK8isoe6kZ1NXRCRAoib0BWL0Ibw0QyNO4FlxLhFi12y8AmiZEHjaYvAXdHV6TZY435jLjToWcV3BZQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">شادی مردم مشهد از خبر کشته شدن خامنه‌ای</div>
 <div class="tg-footer">👁️ 23.6K · <a href="https://t.me/farahmand_alipour/5191" target="_blank">📅 12:40 · 08 Khordad 1405</a></div>
@@ -1378,9 +1378,9 @@ https://www.instagram.com/reel/DZF42fzqtho/?igsh=aTJocnQzcWw5dWVj</div>
 
 <div class="tg-post" id="msg-5190">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/orVAxoLwRQNnzxy5088Fu-pIcKGX0ARQTGpmIZT1LUXdbXP70v-b_4Oe0bJN-y-0SMAZRRRnbbMrfWF8FwqprZKMIfQswn-awrF4SiDCCX4l9ychiayNUjtIyJenpfCWZHTyqn4ycl5oU18wRnMMkWOzVGQAZmAOs3NxGTBtuOo0vhfKrN7sCwlFrutGNKjn8izpU5HnOixKAtAswK8nmA4vmNN0wLKczJ-X_8o4EAq9de5281ixZUjw9tEGI5CRkSa87LqjN1xDXknwK1qtHfJ0Ey8yFwWXNDIYHbHYtYY3_qLcOhjdEHjCYMITsTX_DWWetbXD1zE5CZb5BoGSZw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Kw4AT5HJEY5twrzEYN0XvXpyv5wPc-VmuqKr_yc1USqtXlLHpvaarlnYzEs53zWCjPMF5TWmzr7J_P_AyxlcYXY6PbH-D5C2vixM0fnq7vNmLZ4ET5y82YHby9FT94vPiYyOk5R--RXwYIc8UZdU8Cok1TIToOuHFG2T0cRV0kwW5TZ7KkbHTQAQOT7ynvjKvXhCnQT3_C22WOcGP0OlB6tEfXT8CSSk8yyu3Rrip5l1E8zdYiG4L7qQdngloYKFiEcL2QdGF60PzU9zVvprH2y8KqdjXGGe696THDpx1vIfD8Jl_CDMcgndfMoz3d3DOD6UWVXDM8yeAZkR8yTY-Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه نکته جالب :)  امروز ۲۶ روز پس از کشته شدن خامنه‌ای  در کره شمالی هنوز خبر کشته شدن خامنه‌ای منتشر نشده!  فقط اعلام شد که مجتبی خامنه‌ای،  پسرش جایگزین او شده،  اما اعلام نشده که در طی یک حمله نظامی  خامنه‌ای کشته‌ شده.</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/farahmand_alipour/5190" target="_blank">📅 11:09 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/farahmand_alipour/5190" target="_blank">📅 11:09 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5189">
