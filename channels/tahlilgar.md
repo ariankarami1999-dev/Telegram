@@ -286,18 +286,18 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/inLDknR2oc9GViHpGWgFMHhjcRQp9fYOziCbDao54fL-Kd60LrDrJWDjJGJZcFOVkFMoi0uea2j_2Q8fct8zYyYs5yeikfXlm3uMZX2Z8OzAC5n5C_cjRy4tFcnNQBbuakSHzQ7VbjOKqyl59MUjjtspfU_7_j6OyIUP9UEMniJ9BzhBm6Q9S67aiiRK0F0meWhSGV4fbTOCozRyqjBvz2basoTvr9ljyi2Jj0jbQGsYevfyxfNfhCqqcPnBNuiFYjLues9gHQIHeZplxPOepKN6Np1dXGy-qivJesK1nn3PlWv3GaZTf0Disu_VsPOyvuAqLDp-6J1tuBZdnr6Rmw.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/oPyRy1kZ0PJFQxJJiPA3TH2Hm4ohIkEQd8sblfSTArZpOj2Qwz57VtHa00sPf-X-mtbMBYY8OxQuv4tXoijwgCPyDrJyZxdIE2j-qs5W9Put-j8tReNI7tJuUlO2Rp0Kw-UjhPWGV5YZdw-6R9iXQBTj4nrskHWfmcbfNVXbB6reEdD75rG-a7c63SDzKOdtUroEGH0RG8kRMWbMl1TtS2HCKawHBTufpzGayRelltrwFF9iR-fHk2P17euvSnYLQlhGCeYJ7PtsnAlJgYIezwx2rjAVXetYi1aE6d1uOTsVbrWMrNDqHGWtQDs2SQNXztKPuFWPvDCV6iTngjM--g.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 ورود به کانال آقای تحلیلگر</h1>
 <p>@tahlilgar • 👥 108K عضو</p>
 <a href="https://t.me/tahlilgar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 در این کانال عضو باشید تا درصورت تغییر لینک کانال اصلی لینک جدید اطلاع رسانی شود.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-13 20:54:24</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-14 00:03:17</div>
 <hr>
 
 <div class="tg-post" id="msg-352">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IF_6E97tFuGFXs_79fyJ3SxRJzVATpI0k2MV9omGmI2ZmOfQIvxBdeM4yox1r2QpeZVD2w1z2K3Mvp8UtQvl0fNKhedORFFA5oL8_g0_0buhzQor6TH2OsnIX0ZMlvVBmrVAxgOM3qcyj8M5U2vIl6RY5lfEeTYLsVsxXnTIWPXFsAM_tWyPaY4_pz-zw6kVWNvcRvnhs0Lq5bNvvweC7iFSU4M_TVb7VxHsksuADo7Og7TunaqkUkUDAo_FlVWN_LjZrhAz_pAlh2LRVp2UF6WTStiZTHh-9vKoIVAputPCHpWKM3gUERfxTG6gsw7QbesGvpxi69u1iX4GpbtM2A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E9jz17BcX2D1SFDKSszagfNLPSnRZni8L31uShzBFNF8LkzrMz5lVrvsTuze23q0WoqKuOi9BQurcJlRFdaaNkkwXgET2uTJ4AIGUuZ7Mk2oSOpOtWPOjxLikdl5wj_3ytoyfPQM_r46ZqgeJo9RbINLg4g_YiditcI5e-rJvIOWw3siGzBtgnTC4jT-B6y2p_ndq8RzTQTQ92PyB8CO8dJafa0_K38VdOXwEU5fDotHvPJagv9U-mU0-7WHPDLDWHTt-zO4bRic03XjaD6mZE_4u64iM7q2UOaV8TkbtNNi6daP01JxtA30QX-zA-eCGsCajm9Y416FTfGThArhPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تنها راه ورود به کانال آقای تحلیلگر (ظرفیت محدود)
 🔽
 🔽
