@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-15 00:38:51</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-15 02:21:22</div>
 <hr>
 
 <div class="tg-post" id="msg-933">
@@ -323,7 +323,7 @@
 ⚠️
 فعلاً این قابلیت فقط برای گروه محدودی از وب‌سایت‌ها فعال شده و گوگل قصد دارد پس از دریافت بازخورد و انجام تست‌های بیشتر، آن را به‌صورت گسترده منتشر کند.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 234 · <a href="https://t.me/danialtaherifar/933" target="_blank">📅 16:41 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 235 · <a href="https://t.me/danialtaherifar/933" target="_blank">📅 16:41 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-932">
@@ -332,7 +332,7 @@
 از وقتی اینترنت به اصطلاح وصل شده، من قطع تر از زمان قطعی ام :/
 کلافه شدم!
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 482 · <a href="https://t.me/danialtaherifar/932" target="_blank">📅 21:22 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 483 · <a href="https://t.me/danialtaherifar/932" target="_blank">📅 21:22 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-931">
@@ -340,14 +340,14 @@
 <div class="tg-text">اینترنت خانگی وصل شد
 ✅
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 613 · <a href="https://t.me/danialtaherifar/931" target="_blank">📅 16:25 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 614 · <a href="https://t.me/danialtaherifar/931" target="_blank">📅 16:25 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-930">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">کاملا حس عقب ماندگی تو حوزه AI بهم دست میده وقتی که مطالب جدید رو میخونم و تغییرات سریع رو میبینم!
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 713 · <a href="https://t.me/danialtaherifar/930" target="_blank">📅 12:47 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 714 · <a href="https://t.me/danialtaherifar/930" target="_blank">📅 12:47 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-929">
@@ -355,13 +355,13 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cBIUP_N05UGkNizqitJ97Il5JOdpb5ojBq7FWPotptCE7bon7zW8z7ezx_P40nZ96o-yg7vP4RMcBpCnlYC5KDYXzLIFEXXVOfrwP3Tpvmnd4LUK1i-kVBJ7NX5-fwMAY2TfDA4Crpk4b8w1v9giDn3IBCvL6M-sGqojkpEllqEgSI8Uh1C7qOdHG619aLWNjzR1djZeJl0y0im8p8IrkElr_RlzfFQydSoOTX8l8VrgbAmkdqXiu4_0FwalRARRWJsbZmEz6WwaQpcV7km5PmiOniN-mXKHA8o0qSCpI3xuWpknxO3uouRGOPcBrou_YGr50I6AkTAeapl1asvy1Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 آپدیت هسته مارچ 2026 شروع شد.   بختت ایرانی...  @danialtaherifar</div>
-<div class="tg-footer">👁️ 741 · <a href="https://t.me/danialtaherifar/929" target="_blank">📅 13:24 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 742 · <a href="https://t.me/danialtaherifar/929" target="_blank">📅 13:24 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-928">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده   @danialtaherifar</div>
-<div class="tg-footer">👁️ 998 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 999 · <a href="https://t.me/danialtaherifar/928" target="_blank">📅 20:51 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-927">
@@ -369,7 +369,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PLljWbe99BguWC0tpiXOGIHfQr0kqp3xZQeHZgKcQi_ncSfen-nbvgFzVXdyH9lYkvRCkiNgEOHiZh-HbXA3f0ul3P9tn3LIHJZGyym-T-Ch-8GdOctVyYa1tzgY4kxD1QkVrB7j6-np6jPby1JkrD3vkMiB0BLGB3Pzr2plTkAvK4piy9xRb5EnZRnfKbE64KcjNFCmeMqir2COQVQcGHKZJ-Z9hkNoXi2aOwqCd36YzTAWSpw4IBJ28DhEYMGQvf9KAl_zlqQBavNFAANqcZA2ZrussRK--LPsXXSCHFNTe062a_1H0kBj6es8YUyIeRt70cJPz5QMXwKbN399Hg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ظاهرا دسترسی بات گوگل به سایت های داخلی باز شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 891 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 892 · <a href="https://t.me/danialtaherifar/927" target="_blank">📅 20:47 · 01 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-926">
@@ -392,7 +392,7 @@
 
 <div class="tg-post" id="msg-924">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/j0CC38tcN6sXqzf8RgS_71h6AfIpM6YAIlMPhclBrdgqKDbtBALm2e1XunEVV4ByBUsn30HTQhFiLFq2QYMYiYn_rYwKgAmYsM67fNoXRRqa3rEDcPPwlsl07lTuz0dcYP0UOwAx3VGX3P2HT-n5whCrj4B4vYLb8uVBjBtvO5EbH0Mtqreh1d1EWlAhVgIH481wqgbeFJIgqokV8_IGLk6ueeIGUW5h2EOt1F8KCHJbdmFhEVHep6B1__HFSiqF1CFr9h06MNuE7J32JqSCUuWrTi0MrraMAcYIvcwMXVVj14XmYyLza2DTtRWDdeiIfdAVQKDg3QdElHzl4HPmvQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FbTEma_ABqPSMwSNm3ht1wyI0uikMnqB9twfxMOkmFOQOrOSKQeXRoJki1sBzdI4JzqGhIstr2SkuQx8lV9PLDWOtkqcYApJXKRuRHB7xdemiKaJ74lzSqd8edQw2he-d9PZNHZ1gsnMRG-kmq5yoE_Q7vFYIlWPk-_AVL0dWqOdfNcZ4SRfBeBKemFYUT3FFmpRDdiQ0pGHBp1xU04_WlichixfAgRPP3_B1SmzQY9SBcYByXcp9ROHsBRHVw5ZiiVEqff8gNIC5o5Z985EW6IdQVbD1EIJoZ-BEtx4s_Qea1aV3b38c8aYb-KjqF7EEJfeX1dIyzUUBqUuXkDYzQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبدیل ضربان قلب کسب‌وکارهای اینترنتی به یک «خط صاف» صفر...
 💔
 ما کسانی هستیم که زندگی‌مان، تخصص‌مان و آرزوهایمان به این «ریسمان نازک» وصل بود.
@@ -440,13 +440,13 @@
 سال نو مبارک و ایامتون به کام.
 با آرزوی بهترین‌ها، دانیال طاهری‌فر
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 838 · <a href="https://t.me/danialtaherifar/921" target="_blank">📅 19:38 · 29 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 839 · <a href="https://t.me/danialtaherifar/921" target="_blank">📅 19:38 · 29 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-920">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">در حال حاضر بیشتر VPN فروش ها کلاهبردار هستن!  مراقب باشید از هر کسی خرید نکنید، مگر از قبل آشنا باشید.  @danialtaherifar</div>
-<div class="tg-footer">👁️ 905 · <a href="https://t.me/danialtaherifar/920" target="_blank">📅 14:45 · 24 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 906 · <a href="https://t.me/danialtaherifar/920" target="_blank">📅 14:45 · 24 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-919">
