@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/lLGExlbHIw_442YtjFZw4c2r1Y2NJ_WlNuuwPk2GeCjhXEpBdfL1v0nzzaVyVGvFVZTew7o51TVAIm7NUMR_L7pS5LC0mB54YXU3zCpDhMbJu32uw7yNIENkKmMjXi7qRBbUicnjZrGyWMjevugWNcu9m3rMtZHdIOJvbvpffftPRIxze6gzeE8uxByX969nFaIsZSwkegAS1AtA5s0qysR0igjwpMafR0zt76CxXrXnE3ZR2NdyOfRa106iNrXUtrvtC1qMc_ELctTUWSadniyQpIrRHRxOWPBHq3-NQBGt-KDe5xiW04-7doc8pGHnS0c8qBb_ViTp2iLKMZXC_Q.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو محسن طاوسی</h1>
-<p>@mohsentavoosiseo • 👥 7.44K عضو</p>
+<p>@mohsentavoosiseo • 👥 7.43K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-15 02:21:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-15 03:29:29</div>
 <hr>
 
 <div class="tg-post" id="msg-706">
@@ -314,14 +314,14 @@
 با همین فرمون سرچ کنسول گوگلو تحلیل کنی تا ابد غلط در میاد تحلیل.
 مثل نگاه کردن به avg position کلی برای تشخیص رشد سایت!
 تازه طرف فکر میکنه چون حرفه ای به کلیک کار نداره پوزیشنو نگاه میکنه! اینجاست که کسی که فکر میکنه حرفه ای تره آمارش غلط تر میشه!</div>
-<div class="tg-footer">👁️ 1.21K · <a href="https://t.me/mohsentavoosiseo/705" target="_blank">📅 11:29 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.22K · <a href="https://t.me/mohsentavoosiseo/705" target="_blank">📅 11:29 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-704">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jgkpGVPYHeoravD_AftT7UcV_7qV1YlC1pzHEZc5bosGtErpHymKX0Ajx2V6bFxuU2hda8Izo2QLHfFOd0vBvQLSzCH8gaHeHZme6Tuy-0_Nb5KGSkTKSnA624lAAMZUJ43DvGLaBEFF-KiRWe7tkjU43tCmjzXS7EnQfXD1V0Enf09Ci8XGg7D0WKLhfMENiyyOl-FyPUi9qD_fYpXAzAVNkUDlOdl_12QEt9-c4PRiQzOne92qUB3NWufztAV67yRUe78IPTlkhsX5Ke-67qewH1M72k0D3dYX4ETOW7qQknynbYUVhmRN24owgqCGl2fIX6vHtWzkFRuR80X_SA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">استانبول</div>
-<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/704" target="_blank">📅 11:28 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.2K · <a href="https://t.me/mohsentavoosiseo/704" target="_blank">📅 11:28 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-702">
@@ -335,7 +335,7 @@
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ja0x4avA4e5IhBIiU2uiEHjSsh89VtGH8RAwh1sP6jxPmW8knV4D6kBZtvfidzMCB1m4LLdkU3RkUmaMAWS5KlJv_-8SweorS3n6rgfmfreWvXuLRTALi_npZxUUvMRFGKCyE96GyVGBfT08LK0ger_3I-qW3x9F19riGk6Nt9R2YKDeIl7vu05ceobeKs-hlvr6G6Y77rQUspQGJLr2uILWXZ0NfEKvJ2rls1Lebq21ALpklcy2Oja03qt_-_6Wg7Cb04xn1hfOLmJeWu4DTSWCj2mcNOgzDAzHyGc_C0Qg9ON0yqjo_gnhEKmI3jtrV-H-tW0bCQ-T1CuyY8-zuw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مسکو</div>
-<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/mohsentavoosiseo/701" target="_blank">📅 11:23 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/701" target="_blank">📅 11:23 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-700">

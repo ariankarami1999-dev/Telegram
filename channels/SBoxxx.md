@@ -292,64 +292,64 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 تاریخ، ژئوپولیتیک و بازارهای مالی</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-15 02:21:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-15 03:29:29</div>
 <hr>
 
 <div class="tg-post" id="msg-16962">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">خواننده Secret Box از یک سال پیش آگاه بود که دلیل زدن هوانیروز و پایگاه ها و پاسگاه های مرزی ارتش و سپاه در مرزهای غربی، گشودن فضا برای ورود نیروهای مسلح کرد به داخل کشور بود.  اما چرا این طرح آن گونه که باید و شاید عملیاتی نشد؟!  بخوانید:   موساد سلاح‌های…</div>
-<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/SBoxxx/16962" target="_blank">📅 00:44 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/SBoxxx/16962" target="_blank">📅 00:44 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16961">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">بشدت به همین سناریو که 2 ساعت پس از آغاز جنگ اشاره کردم، ایمان آورده ام. تقریباً تردیدی برایم نمانده که مدل «فروغ جاویدان» صدام را این بار نتانیاهو با پژاک و گروههای مشابه ش میخواهد اجرا کند.  نکته بدتر اینکه در صورت موفقیت این طرح و با ورود نیروهای شبه نظامی…</div>
-<div class="tg-footer">👁️ 1.65K · <a href="https://t.me/SBoxxx/16961" target="_blank">📅 00:39 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/SBoxxx/16961" target="_blank">📅 00:39 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16960">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">محسن رضایی:
 امیر قطر و ولیعهد عربستان دارند خودشان را با واقعیات تنظیم می‌کنند اما امارات، بحرین و کویت همچنان فکر می‌کنند قدرت آمریکا مثل قبل خواهد بود. این‌ها فکر نکنند که اگر این روش را ادامه دهند ما بعد از جنگ رهایشان خواهیم کرد. اگر امارات و کویت با صهیونیست‌ها همراه هستند باید ابوظبی و بوبیان را به عربستان و عراق بدهند!</div>
-<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/SBoxxx/16960" target="_blank">📅 00:10 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.24K · <a href="https://t.me/SBoxxx/16960" target="_blank">📅 00:10 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16959">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Gan3VtiHGnfGM2yjyR_AvHqSXVdL-uhgV8E1NaO23doysYwEbPpofr-PCeaBD-PHywrSHWW2U--bcmKYDNpuNHlGqtq8jovCAPN5jCPuhSBfeQRLpWaVOsVrZ_6eNK36HFgkP_k6u4vs88a6e78NOY7ogrd9ansgukcHrRPDJ8FheSAdOVGt6ME3J4OzaBoPr3UMnVcI6f8MAx4M6eoGmYMNNLKLLmlbp57v2_5xXHjpLCenW-a3kmtrqtDxAJUAUqQJ-Zm9QBQRxHtQtjGnXGicFgGTJRga-5oHsu-ed42AT9l0I5lPHouRTYYI_9MBrjBtsNIlrucmgUArGw0I5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این یعنی نه ایران و نه روسیه از این جهش بهای نفت حداکثر استفاده را نبرده اند؛ ما به دلیل محاصره دریایی آمریکا صادراتمان افت کرده (پست ریپلای شده را ببینید) و روسها هم به دلیل حملات سنگین پهپادی اوکراین.  عربها هم که عمدتاً ضربه دیده اند و لذا بزرگترین منفعت…</div>
-<div class="tg-footer">👁️ 3.15K · <a href="https://t.me/SBoxxx/16959" target="_blank">📅 21:48 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.29K · <a href="https://t.me/SBoxxx/16959" target="_blank">📅 21:48 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16958">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">ایران و روسیه یک تفاهم‌نامه همکاری به ارزش ۲۵ میلیارد دلار در بخش هسته‌ای امضا کردند - تسنیم نیوز</div>
-<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/SBoxxx/16958" target="_blank">📅 20:51 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/SBoxxx/16958" target="_blank">📅 20:51 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16957">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">رویترز:   روسیه برای اولین بار اذعان کرد که تولید نفت این کشور در سال جاری کاهش یافته    این اعتراف در زمانی مطرح می‌شود که اوکراین در ماه‌های اخیر حملات پهپادی و موشکی خود را به تأسیسات انرژی روسیه تشدید کرده . آژانس بین‌المللی انرژی تخمین زده که تولید نفت…</div>
-<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/SBoxxx/16957" target="_blank">📅 20:18 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.6K · <a href="https://t.me/SBoxxx/16957" target="_blank">📅 20:18 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16956">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">صنعت نفت ایران در سال ۲۰۲۶ با یکی از شدیدترین فشارهای صادراتی خود در سال‌های اخیر روبه‌رو شده است. داده‌های منتشرشده توسط شرکت ردیابی نفتکش Kpler و منابع تخصصی بازار انرژی نشان می‌دهد که از زمان آغاز درگیری‌ها و تشدید محدودیت‌های دریایی در اواخر فوریه، توانایی…</div>
-<div class="tg-footer">👁️ 3.45K · <a href="https://t.me/SBoxxx/16956" target="_blank">📅 20:15 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.56K · <a href="https://t.me/SBoxxx/16956" target="_blank">📅 20:15 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16955">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dy1RALgHzh0gyfNx5Ddk77NDl9CKNtTSjMyb2lq9Sl_dQFlZp0LawmMHpvR3aMEB3gg2UyVyGwTQOmgte7liT6-Bpt63jOgTyhzsleyRrZ7p3p_u4XT1H8Zta5pXN9l0XTIWDCYZw2l081h6oWYNGEpLb1g3DOIyhnGgCNJUfNr7OQxTyD24QkRbkrTsAg6AEkNpY_AyqSEN0oH-eEmlgarFZWSrFnAeJ6Wx4gjYVGXU_ct6FzjjmUaKZNV8pbP4gypmKL5IbqsDaL0ZEWWFaYIsa6LqeKjjOh5YSsm1J5fuSk6tqvkNKzB-BVNE7yKK4nmpy8o5Qw2iN3D4eQ-o4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نتانیاهو:   در حال حاضر، ما کنترل کامل ۶۰ درصد از نوار غزه را در دست داریم و دستور من رسیدن به ۷۰ درصد است... ابتدا ۷۰ درصد. از همان شروع می‌کنیم</div>
-<div class="tg-footer">👁️ 3.58K · <a href="https://t.me/SBoxxx/16955" target="_blank">📅 19:21 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/SBoxxx/16955" target="_blank">📅 19:21 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16954">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">حالا اینجا همه حضرات میگفتند ترامپ دست خالی از چین برگشت!</div>
-<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/SBoxxx/16954" target="_blank">📅 19:19 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/SBoxxx/16954" target="_blank">📅 19:19 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16953">
@@ -360,7 +360,7 @@
 فایننشال تایمز نوشت که کاهش ۴ الی ۶ میلیون بشکه‌ای واردات نفت چین و استفاده این کشور از ذخایر نفت خود، منجر به کاهش تقاضا در بازار نفت و کاهش قیمت شده.
 🔹
 خاویر بلاس خبرنگار بلومبرگ می‌نویسد که…</div>
-<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/SBoxxx/16953" target="_blank">📅 18:43 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.6K · <a href="https://t.me/SBoxxx/16953" target="_blank">📅 18:43 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16952">
@@ -379,21 +379,21 @@
 🔹
 به گزارش خط انرژی، برنامه دولت پزشکیان برای توسعه روابط با چین چیست؟
 @khate_energy</div>
-<div class="tg-footer">👁️ 3.51K · <a href="https://t.me/SBoxxx/16952" target="_blank">📅 18:41 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.56K · <a href="https://t.me/SBoxxx/16952" target="_blank">📅 18:41 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16951">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JABy4_KNpXlLoolNzJdVJAX-3-R9tp8VSHLjTNjbAMLn8LuJmfFz_JlWILhVpAR0Hiu5jwA7bG1bpZ28XjLJJvvSQhXFNq8ngyw4zbXsUvhgrVh3-ex3kKjlsl6KCViTyCKAg3r36ljA6zHg8ToEveQ7r_ZRVRoXC06byI6mWdBt3ClVWKrguO2nDrmWWvEI3rJ3vQQImB9VeuYtrvn0kBXfJZqr4QGHYPcgNmwlSNJ56YFGkd9XQnJ9Y-l7XQsuda-LPTvYGL7oifg4OztrmcVIxCFUQ4cbqNqaLFuFUh6XWG6wJ3-qi1OdX1N9-hjZ7G-sGOIzWBuTtdS2Po_xTg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این بستن تنگه هرمز نهایتا باعث:  — ایجاد مسیرهای جایگزین  — تقویت تقاضا برای نفت آمریکا، کانادا و روسیه — تسریع در انقلاب انرژی سبز  خواهدشد</div>
-<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/SBoxxx/16951" target="_blank">📅 17:56 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/SBoxxx/16951" target="_blank">📅 17:56 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16950">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">آژانس بین‌المللی انرژی اتمی (IAEA) اعلام کرد که نتوانسته به تأسیسات هسته‌ای ایران (به جز بوشهر) برای انجام فعالیت‌های راستی‌آزمایی میدانی دسترسی پیدا کند.
 این موضوع نگرانی‌ها درباره خطرات اشاعه هسته‌ای را افزایش داده است.</div>
-<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/SBoxxx/16950" target="_blank">📅 17:43 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.41K · <a href="https://t.me/SBoxxx/16950" target="_blank">📅 17:43 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16949">
@@ -403,7 +403,7 @@
 دشمن می‌بایست با فوریت حملات خود به مردم لبنان را متوقف کند، و سریعاً با تخلیه سرزمین‌های اشغال شده لبنان به پشت مرزهای بین المللی عقب نشینی نماید و تمامیت ارضی لبنان را به رسمیت بشناسد.
 هیچ آرامشی در منطقه بدون عقب‌نشینی صهیونیست‌ها از مناطق اشغالی لبنان برقرار نخواهد شد
 همه ما با تمام وجود از ملت لبنان حمایت خواهیم کرد.</div>
-<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/SBoxxx/16949" target="_blank">📅 17:41 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.54K · <a href="https://t.me/SBoxxx/16949" target="_blank">📅 17:41 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16948">
@@ -412,7 +412,7 @@
 <div class="tg-text">اکونومیست:
 تصویر روی جلد این هفته: «نسل جدیدی از سوسیالیست‌ها قصد دارند اقتصاد را با کنترل قیمت‌ها، مالیات‌های سنگین بر ثروت و موجی از ملی‌سازی‌ها دگرگون کنند.
 این جریان که با خشم ناشی از غزه تقویت شده، با سرعتی چشمگیر در حال جذب رأی‌دهندگان است.»</div>
-<div class="tg-footer">👁️ 3.62K · <a href="https://t.me/SBoxxx/16948" target="_blank">📅 16:11 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.66K · <a href="https://t.me/SBoxxx/16948" target="_blank">📅 16:11 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16947">
@@ -426,7 +426,7 @@
 </div>
 <div class="tg-text">❗
 رهبر حزب‌الله نتیجه مذاکرات مستقیم لبنان-اسرائیل را رد کرد!</div>
-<div class="tg-footer">👁️ 3.6K · <a href="https://t.me/SBoxxx/16947" target="_blank">📅 15:51 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.63K · <a href="https://t.me/SBoxxx/16947" target="_blank">📅 15:51 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16946">
@@ -435,27 +435,27 @@
 زاده خرداد است و ...
 (امیررضا هم زاده خرداد است و میدانم این یعنی چه)
 سبحان الله!</div>
-<div class="tg-footer">👁️ 3.58K · <a href="https://t.me/SBoxxx/16946" target="_blank">📅 15:47 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.61K · <a href="https://t.me/SBoxxx/16946" target="_blank">📅 15:47 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16945">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nA1_ZBxmNqgqHv6x7b2wPbdSCJYqqXvjy1IjifdjzkAyj-K0YnXkOsjFlV01kuoRIuBW6Qaa47SFJNBZsuMlmF7XjM-_4HxiCmz4ZvCfWg-1MCFe4nPya6w87z5GKgZnSPBwyC9Kf_LRgJ7x9o7FTOzxPcU1hMsFMk9_lOtXeeVpKCtPBCNcLDFT_oLevtCkemOVwvAuD4tF0T5jIcccLP5KamNyiir4fx1UO4sJYj-uS56BHGnlL6OCNuQnjK1997sELGrds5ojVcItbnQbYbRIa1vO4-gu1KHsYurRQRgy_-pioaJRPwFaus852URKVGmlh99SZrwr_gWWEs_ZDg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 3.51K · <a href="https://t.me/SBoxxx/16945" target="_blank">📅 15:45 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.57K · <a href="https://t.me/SBoxxx/16945" target="_blank">📅 15:45 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16944">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">❗
 رهبر حزب‌الله نتیجه مذاکرات مستقیم لبنان-اسرائیل را رد کرد!</div>
-<div class="tg-footer">👁️ 3.52K · <a href="https://t.me/SBoxxx/16944" target="_blank">📅 15:44 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.57K · <a href="https://t.me/SBoxxx/16944" target="_blank">📅 15:44 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16943">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kp4Ud31n7oKvydd84g5ur8xhxGsC0d12nxKMG8-17tt2Ggb-MLqbCfMujdPIuoLFuhdT4HXU0Wrl24GNuLqUPionzhUAwd3IuluudVAnwXjnwaqG0fKlC8uSgPqvGx7Bs5l0pCtQii8x8dl7zYUx52rfWWSxAE3WOi_XRPqQDYu2sAR8eQ45XPOBhJNFhetldN6u1LRp-8VVqwssx1mq6G--c65bo5sHBCNeqLxvN3hVsx9XDbXCDvsNLZS9z8OmxCQ9qJjjAITX_U97LnO0FqQoANy0S2TLLKHU0OYL867E7zyRYQi-PPwc2rSOqm6rAAvYv67UoiN-rBkr4Q-48g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رضایی حصرشکن | حصر ترامپ رو بشکن!</div>
-<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/SBoxxx/16943" target="_blank">📅 15:43 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.56K · <a href="https://t.me/SBoxxx/16943" target="_blank">📅 15:43 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16942">
@@ -465,47 +465,47 @@
 در حقوق بشردوستانه بین‌المللی، به‌ویژه بر اساس قواعد عرفی و راهنمای سان‌رمـو درباره حقوق جنگ دریایی، محاصره زمانی مشروع تلقی می‌شود که در بستر یک مخاصمه مسلحانه موجود انجام شده باشد، اعلام و اطلاع‌رسانی شده باشد، و به‌صورت مؤثر اجرا گردد. به بیان دیگر، محاصره دریایی ذاتاً یک ابزار جنگی است، نه ابزار صلح.
 از این رو، اگر چنین اقدامی علیه ایران در شرایط غیرمجاز حقوقی (بدون مجوز شورای امنیت یا بدون وقوع حمله مسلحانه قبلی) انجام شود، می‌تواند به‌عنوان «اقدام متخاصمانه شدید» (hostile act) تلقی شود که ظرفیت ایجاد «وضعیت مخاصمه مسلحانه بین‌المللی» را دارد. در حقوق بین‌الملل معاصر، حتی بدون اعلان رسمی جنگ، وقوع چنین سطحی از درگیری کافی است تا قواعد جنگی فعال شوند.
 در نتیجه، محاصره دریایی یک کشور نه صرفاً یک ابزار فشار، بلکه از نظر حقوقی یک اقدام با ماهیت جنگی است که می‌تواند به تشدید فوری تنش و ورود طرفین به درگیری مسلحانه منجر شود، مگر آنکه تحت چارچوب‌های محدود و مشروع بین‌المللی انجام شده باشد.</div>
-<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/SBoxxx/16942" target="_blank">📅 15:43 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.58K · <a href="https://t.me/SBoxxx/16942" target="_blank">📅 15:43 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16941">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">عجب فریبی و عجب تاثیری در کاهش بهای نفت!</div>
-<div class="tg-footer">👁️ 3.61K · <a href="https://t.me/SBoxxx/16941" target="_blank">📅 15:38 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/SBoxxx/16941" target="_blank">📅 15:38 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16940">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t1PD4jtyT1xjWQmw7xFzKnhfK8HhMkpSjJ2PFuT8Zgin9tTQOnVExbHwqUk817j-ipAOBWmcJJ83AnOl3KFcxYelRYtBytRT-RJ38wLajb8HTY8Im2WrGDZWpwfzCXX2LAJI8wdZ2qEpwiV6p4j8_YQ_hV5Ec4PQfGW-c9WINf5eEKuFj10Np6D4znsi2GbWCNri0gHTn8iSO2dZpVLmuS5a3yONlvktG41K6rCNJxXiNxa_7Y-THVhPYkFDhP3axR1K4D4zjS7Nzq1DkHZ8M5Kh6wUV2wg9Ddt2cEgABLhTeTo3URFRJTjdyx-zddO9Dx7IoPCJEzCzcqpPnD0u8A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طلا رفت برای این سناریو که عصر گفتیم…؟!</div>
-<div class="tg-footer">👁️ 3.67K · <a href="https://t.me/SBoxxx/16940" target="_blank">📅 15:36 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.71K · <a href="https://t.me/SBoxxx/16940" target="_blank">📅 15:36 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16939">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">ترامپ به دستیارانش گفته است که جنگ با ایران را از سر نخواهد گرفت مگر اینکه نیروهای آمریکایی کشته شوند.  — وال استریت ژورنال</div>
-<div class="tg-footer">👁️ 3.76K · <a href="https://t.me/SBoxxx/16939" target="_blank">📅 15:26 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.79K · <a href="https://t.me/SBoxxx/16939" target="_blank">📅 15:26 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16938">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">کاندولیزا رایس — وزیر امور خارجه پیشین آمریکا :
 «جنگ علیه ایران جنگی محدود بوده و نتیجه آن احتمالاً قطعی نخواهد بود، اما برای ایجاد خاورمیانه‌ای بسیار بهتر کافی بوده است.»</div>
-<div class="tg-footer">👁️ 3.98K · <a href="https://t.me/SBoxxx/16938" target="_blank">📅 12:41 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4K · <a href="https://t.me/SBoxxx/16938" target="_blank">📅 12:41 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16937">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">🔹
 بازداشت جمشید قمی، مدیرعامل ۶۳ ساله شرکت ایران تِک ، به اتهام تأمین تجهیزات آمریکایی برای تأسیسات هسته‌ای و نظامی ایران</div>
-<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/SBoxxx/16937" target="_blank">📅 11:34 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.19K · <a href="https://t.me/SBoxxx/16937" target="_blank">📅 11:34 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16936">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">ترامپ به دستیارانش گفته است که جنگ با ایران را از سر نخواهد گرفت مگر اینکه نیروهای آمریکایی کشته شوند.
 — وال استریت ژورنال</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/16936" target="_blank">📅 10:33 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/16936" target="_blank">📅 10:33 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16935">
@@ -513,7 +513,7 @@
 <div class="tg-text">دونالد ترامپ، رئیس‌جمهور آمریکا، گفت که فشار شدیدی به ایران وارد شده و مذاکرات با ایران به خوبی پیش می‌رود. او احتمال توافق تا پایان هفته را مطرح کرد، هرچند اشاره کرد که ممکن است دو تا سه هفته دیگر نیز طول بکشد.
 به گزارش فارس به نقل از یکی از اعضای تیم مذاکره‌کننده تهران، گفتگوها بین ایران و آمریکا همچنان ادامه دارد و هنوز تصمیم نهایی گرفته نشده است.
 یکی از اعضای تیم رسانه‌ای هیئت مذاکره‌کننده ایران، طرحی چهار مرحله‌ای برای توافق با آمریکا ارائه کرد: ۱) پایان جنگ، ۲) اقدامات عملی در مورد تنگه، ۳) تحریم‌ها و مسائل هسته‌ای، ۴) تشکیل کمیته نظارت</div>
-<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/16935" target="_blank">📅 09:55 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/16935" target="_blank">📅 09:55 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16934">
@@ -525,14 +525,14 @@
 با این حال، صادرات نفت ایران هنوز به طور کامل متوقف نشده است. چین همچنان روزانه بیش از یک میلیون بشکه نفت ایران دریافت می‌کند، اما بخش عمده این نفت از ذخایر شناور انباشته‌شده در آب‌های آسیا تأمین می‌شود، نه از محموله‌های تازه صادرشده از ایران. این ذخایر نیز به سرعت در حال کاهش هستند. برآورد Kpler نشان می‌دهد که حجم ذخایر شناور ایران از آغاز بحران ۳۳ میلیون بشکه کاهش یافته و به حدود ۸۹ میلیون بشکه رسیده است.
 در نتیجه، مسئله اصلی دیگر صرفاً کاهش صادرات روزانه نیست، بلکه سرعت تخلیه ذخایر شناور ایران است. اگر روند فعلی ادامه یابد، تحلیلگران Kpler هشدار می‌دهند که طی ۶۰ تا ۷۰ روز آینده بخش عمده نفت در دسترس برای تحویل به چین مصرف خواهد شد و ایران ممکن است ناچار شود تولید خود را تا حدود ۱.۷ میلیون بشکه در روز، نزدیک به سطح مصرف داخلی، کاهش دهد.
 چنین سناریویی می‌تواند درآمدهای نفتی کشور را به پایین‌ترین سطوح سال‌های اخیر برساند و فشار اقتصادی قابل توجهی بر ایران وارد کند.</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/16934" target="_blank">📅 01:04 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/16934" target="_blank">📅 01:04 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16933">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">ترامپ:
 در توافق پیش‌رو، به ایران اجازه دستیابی به سلاح هسته‌ای داده نخواهد شد و پس از امضای این توافق، تنگه هرمز به سرعت بازگشایی می‌شود.</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/16933" target="_blank">📅 00:16 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/16933" target="_blank">📅 00:16 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16932">
@@ -542,7 +542,7 @@
 :
 در اون منطقه از دنیا ( خاورمیانه ) ،  آتش‌بس یعنی وقتی طرفین دارند با شدت کمتر و کنترل‌شده‌تر همدیگه رو می‌زنند
 ﻿</div>
-<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/16932" target="_blank">📅 00:06 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/16932" target="_blank">📅 00:06 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16931">
@@ -550,7 +550,7 @@
 <div class="tg-text">نیروی دریایی ارتش، "مرکز فرماندهی و کنترل" شرارت های ارتش آمریکا علیه کشورمان را هدف قرار داد
 🔹
 در پی شرارت ها علیه شناورهای تجاری ایرانی در دریای عمان و نقض مقررات تنگه هرمز از سوی ارتش متجاوز آمریکا، نیروی دریایی ارتش، مرکز "فرماندهی و کنترل " این شرارت…</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/16931" target="_blank">📅 23:19 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/16931" target="_blank">📅 23:19 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16930">
@@ -558,7 +558,7 @@
 <div class="tg-text">خبر کوتاه بود و دلخراش: محمدرضا شهبازی مورد تجاوز قرار گرفت
 😄
 @PiknikAnalyst</div>
-<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/16930" target="_blank">📅 22:58 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/16930" target="_blank">📅 22:58 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16929">
@@ -571,14 +571,14 @@
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">به نظرم دسته خوبه را داده اند به سپاه که هر وقت میزند واقعاً بازارها به هم میریزند و دسته خرابه هم به ارتش داده اند برای وقتی که نفت را Short می کنند.
 (باز بپرسید شورت چیست)</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/16928" target="_blank">📅 22:54 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/16928" target="_blank">📅 22:54 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16927">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">نمیدانم این حمله های ما چطوری است که تا خبرش بیرون می آید نفت میریزد و طلا بالا می رود!
 سبحان الله!</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/16927" target="_blank">📅 22:50 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/16927" target="_blank">📅 22:50 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16926">
@@ -586,32 +586,32 @@
 <div class="tg-text">نیروی دریایی ارتش، "مرکز فرماندهی و کنترل" شرارت های ارتش آمریکا علیه کشورمان را هدف قرار داد
 🔹
 در پی شرارت ها علیه شناورهای تجاری ایرانی در دریای عمان و نقض مقررات تنگه هرمز از سوی ارتش متجاوز آمریکا، نیروی دریایی ارتش، مرکز "فرماندهی و کنترل " این شرارت…</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/16926" target="_blank">📅 22:46 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SBoxxx/16926" target="_blank">📅 22:46 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16925">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">اطلاعیه نیروی دریایی ارتش: ساعاتی قبل مرکز فرماندهی و کنترل شرارت‌های ارتش آمریکا در یک ناوشکن آمریکایی در دریای عمان هدف قرار گرفت</div>
-<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/16925" target="_blank">📅 22:45 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/16925" target="_blank">📅 22:45 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16924">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">اطلاعیه نیروی دریایی ارتش:
 ساعاتی قبل مرکز فرماندهی و کنترل شرارت‌های ارتش آمریکا در یک ناوشکن آمریکایی در دریای عمان هدف قرار گرفت</div>
-<div class="tg-footer">👁️ 4.14K · <a href="https://t.me/SBoxxx/16924" target="_blank">📅 22:42 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.15K · <a href="https://t.me/SBoxxx/16924" target="_blank">📅 22:42 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16923">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">عراقچی:   آنچه در ۲ روز گذشته حمله به بیروت را متوقف کرد، در درجه اول قدرت مقاومت لبنان و توان نیروهای مسلح ایران بود  وقتی کار به جایی رسید که نیروهای رژیم صهیونیستی می‌خواستند به ضاحیه جنوبی بیروت حمله کنند، موضع قاطعی گرفتیم و نیروهای مسلح ما آماده پاسخ…</div>
-<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/SBoxxx/16923" target="_blank">📅 22:19 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/16923" target="_blank">📅 22:19 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16922">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">عراقچی: من مطمئنم که مسئله سفیر ما در بیروت حل خواهد شد، ما به حکمت دوستان و مسئولان دولت لبنان اعتماد داریم</div>
-<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/16922" target="_blank">📅 22:18 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SBoxxx/16922" target="_blank">📅 22:18 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16921">
@@ -631,7 +631,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vTDCeBSH2IWR_wdNL9Buo_Ex0pm1cSbNwW-aSkfSeaGyRmxPTaMYZ-z6_OBc0fRm-nivSWLGfWL-x22iGsbc84Aou2mjmdGU7xwYX37yHfFubsl4BrFKQp3Wht3n1xn2elVtY_BCxJPpTkkCPEsqyx1OrXb_heERL5NSDh5KF3Iwmjqd1SYpH3j5dJYXyCq4ell8GvdgTKYFGOGtLuaCmWQryMxgv-ii65VBxmNp-XBQJGi-5VxRWF-khp0JuA0SL6E558n9YTc-WfVgDH9t4nm09XepyHacS5T7o5y_k-x5Ea_XcbujG-EjoNRRcwxdTGJr7FUgCTMBwo48lTiVGw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حجم تخریب پایگاه «علی السالم» آمریکایی ها در کویت
 تصویر سمت راست مربوط به آشیانه ها و تصویر سمت چپ مربوط به انبارهای سوخت</div>
-<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/16919" target="_blank">📅 19:03 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/16919" target="_blank">📅 19:03 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16918">
@@ -677,13 +677,13 @@
 <div class="tg-post" id="msg-16913">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">شاید باورتان نشود ولی حمله دیشب ما به کویت یک کشته داشته که آن هم ….   …یک کارگر هندی بوده!  سبحان الله!</div>
-<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/SBoxxx/16913" target="_blank">📅 16:59 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SBoxxx/16913" target="_blank">📅 16:59 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16912">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">شاید ما برخی کشتی ها را با پهپاد زده باشیم، برخی ها را با موشک بالستیک، برخی ها را هم با موشک کروز.  خب اینها می‌شود تفاوت‌های حملات ما.  اما یک شباهت بزرگ هم میان همه حملات ما وجود دارد و آن اینکه کشتی مورد تهاجم مال هر کشوری که باشد، دستکم ۲ ملوان هندی در…</div>
-<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/SBoxxx/16912" target="_blank">📅 16:52 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/SBoxxx/16912" target="_blank">📅 16:52 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16911">
@@ -695,14 +695,14 @@
 <div class="tg-post" id="msg-16910">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">رئیس‌جمهور لبنان حملات ایران به کویت و بحرین را محکوم کرد</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/16910" target="_blank">📅 16:49 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/16910" target="_blank">📅 16:49 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16909">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fCfoMHZ70wmV_NSNS1MkmPJqRVjRU1lE7U4TJnaHRX3vzDbwE0I9e2ZP0qdTAt6uru-qcYpBNCQ6ONVfLQ6jS7fnto5agnIFirP5loEO5DpEYLYqQECCbtXEK2M6GkCkw8zgQb2lD4I4xTGr7UDFRyqdvTy5eOi32cpGm5Hib35jZMyom8PbpVkRaNpuIA36HnVspbIo6AorLZVLQTV3cmN3UcAzB8MDYwxFXaia_UrQROBzwYkWfnWHmgoEIMaRGu9ZIBhlYnaIFP-w44LClsDQSeFRZKMrUW614FTvMB4VNRRW5eG6YMEy6MzqQPUukf-67O2nhZmus1xXtq2EyQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گروه «مختار-007» ولی گفت که به شرط آتش بس در لبنان حاضر است سلاح های خود را تحویل دهد.</div>
-<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/16909" target="_blank">📅 15:02 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/16909" target="_blank">📅 15:02 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16908">
@@ -738,7 +738,7 @@
 <div class="tg-post" id="msg-16904">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">اینجا گفته بودم که هدف ترامپ تنها شکست ‌‌و تسلیم ایران نیست بلکه تحقیر جمهوری اسلامی نیز هست  به عنوان حکومتی که ۴۷ سال نمادهای قدرت و غرور آمریکایی را هدف قرار داده، جمهوری اسلامی از دید ترامپ بایستی پیش از شکست، شدیدا تحقیر بشود.  — تسخیر سفارت آمریکا و…</div>
-<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/SBoxxx/16904" target="_blank">📅 14:17 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.44K · <a href="https://t.me/SBoxxx/16904" target="_blank">📅 14:17 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16903">
@@ -844,13 +844,13 @@
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vwFQZln96Lw80kKRdQZEY3VnO9zMeCdmcwaFFESBYOoNHMaGTJWx44sZlbas1IChl-pgzGBzJy5bnAPykw9XRnGgYiMzsXfR4Vlx-FLUpuUcclRN_n-vtJFiO8k8NO4PSTDVQdKq3ELM2h9v6Args0FWbE4CNVrOivDaw4h_MiPeMTiNd2hWUHI39JgGiLmOnpZBygQZs9xiAjoMa0OP4Ouf1_GhE8-r1MdblnT6rmluoT4snuPC8sMr9w9FikFlZCaOEz6NC_h8q39Od4bYgnbfsnqJ-UWg1dfktbdaqGeIx68i_yEbgRzkVSHjfFeLAFtYAskTyOQhoNSxF3oXYQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طلا رفت برای این سناریو که عصر گفتیم…؟!</div>
-<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/16890" target="_blank">📅 01:47 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/16890" target="_blank">📅 01:47 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16889">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">حمله موشکی آمریکا به ابرنفتکش ایرانی!</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/16889" target="_blank">📅 01:39 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SBoxxx/16889" target="_blank">📅 01:39 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16888">
@@ -864,7 +864,7 @@
 از جمله موضوعاتی که نام گوفمن را در کانون توجه قرار داد، تدوین یک سند داخلی درباره آینده غزه بود که در آن از برقراری حکومت نظامی مستقیم اسرائیل بر این منطقه حمایت شده بود. این پیشنهاد با انتقادهایی در داخل نهادهای امنیتی اسرائیل مواجه شد و برخی محافل بین‌المللی نیز آن را گامی در جهت اشغال بلندمدت غزه تلقی کردند. بنا بر گزارش‌ها، حتی شماری از مقامات ارشد اسرائیلی این طرح را  «از نظر راهبردی خطرناک» و «بیش از حد سیاسی» توصیف کرده‌اند.
 گوفمن همچنین در جریان عملیات نظامی اسرائیل در غزه طی سال‌های ۲۰۲۳ و ۲۰۲۴، به‌عنوان نزدیک‌ترین مشاور نظامی نتانیاهو در تمامی تصمیمات راهبردی مهم حضور داشت. منتقدان بر این باورند که این جایگاه، او را با جنجالی‌ترین و بحث‌برانگیزترین مراحل جنگ پیوند می‌دهد. برخی منابع آگاه نیز وی را شخصیتی توصیف می‌کنند که بیش از ارائه ارزیابی‌های مستقل راهبردی، تمایل دارد دیدگاه‌ها و ترجیحات نخست‌وزیر را تأیید و تقویت کند.
 در نتیجه، برخی ناظران معتقدند که اهمیت انتصاب گوفمن نه در ایجاد تحول ساختاری در موساد، بلکه در تغییر جهت‌گیری و فضای حاکم بر این سازمان نهفته است. از نگاه آنان، حضور یک چهره کاملاً وفادار به نخست‌وزیر در رأس دستگاه اطلاعاتی اسرائیل می‌تواند به کاهش موانع و فیلترهای داخلی، افزایش نفوذ ملاحظات سیاسی در تصمیم‌گیری‌های اطلاعاتی و همسوتر شدن عملیات پنهان با اهداف و اولویت‌های سیاسی دولت منجر شود. بر اساس این ارزیابی، مأموریت اصلی گوفمن نه اصلاح موساد، بلکه هماهنگ‌سازی هرچه بیشتر فعالیت‌های اطلاعاتی و مخفی اسرائیل با راهبردها و جاه‌طلبی‌های سیاسی دولت نتانیاهو خواهد بود.</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SBoxxx/16888" target="_blank">📅 01:15 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SBoxxx/16888" target="_blank">📅 01:15 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16887">
@@ -927,7 +927,7 @@
 <div class="tg-post" id="msg-16879">
 <div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">همینطور کتائب امام علی.</div>
-<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/16879" target="_blank">📅 22:38 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/16879" target="_blank">📅 22:38 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16878">
@@ -949,7 +949,7 @@
 سقوط چشمگیر کاربران پیامرسانهای داخلی در طی هفته اخیر با بازگشایی نسبی دسترسی به اینترنت بین المللی
 🩵
 منبع : مجله فناوری گجت نیوز</div>
-<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/16876" target="_blank">📅 20:12 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/16876" target="_blank">📅 20:12 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-16875">
@@ -1052,7 +1052,7 @@
 <div class="tg-post" id="msg-16863">
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">فرستاده آمریکا باراک:   این بخش از جهان تنها زور را میپذیرد</div>
-<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/SBoxxx/16863" target="_blank">📅 12:41 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/16863" target="_blank">📅 12:41 · 12 Khordad 1405</a></div>
 </div>
 
 <hr>
