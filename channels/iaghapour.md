@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-16 00:18:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-16 01:40:16</div>
 <hr>
 
 <div class="tg-post" id="msg-2658">
@@ -326,7 +326,7 @@ www.doprax.com
 💬
 پشتیبانی و اخبار در کانال ما:
 @dopraxcloud</div>
-<div class="tg-footer">👁️ 4.24K · <a href="https://t.me/iaghapour/2658" target="_blank">📅 23:29 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.26K · <a href="https://t.me/iaghapour/2658" target="_blank">📅 23:29 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2657">
@@ -357,7 +357,7 @@ www.doprax.com
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/2657" target="_blank">📅 18:35 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/iaghapour/2657" target="_blank">📅 18:35 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2656">
@@ -387,7 +387,7 @@ CoinGate
 🙏
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/iaghapour/2656" target="_blank">📅 17:00 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/iaghapour/2656" target="_blank">📅 17:00 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2655">
@@ -407,7 +407,7 @@ CoinGate
 روش‌ها و پروتکل‌های دیگه (مثل وایرگارد، OpenVPN و...) تست کنیم. خیلی وقت‌ها تو کامنت‌ها می‌پرسید که «آیا این تانل روی فلان پروتکل هم جواب میده؟» راستش ما هم اطلاع دقیقی نداریم؛ چون زمان و زیرساخت تست کردن یک روش روی تک‌تک سناریوها وجود نداره. بهترین کار اینه که خودتون اون روش رو روی پروتکل مدنظرتون تست کنید و اتفاقاً نتیجش رو تو کامنت‌ها بنویسید تا بقیه بچه‌ها هم از تجربه‌تون استفاده کنند.
 ممنون که مثل همیشه درک می‌کنید و با انرژی خوبتون همراه کانال هستید!
 ❤️</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/iaghapour/2655" target="_blank">📅 21:40 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2655" target="_blank">📅 21:40 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2653">
@@ -437,7 +437,7 @@ Gemini Pro:
 @ChatGPT_StoreBOT
 رضایت مشتری
 💎</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/iaghapour/2653" target="_blank">📅 21:25 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/iaghapour/2653" target="_blank">📅 21:25 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2652">
@@ -447,7 +447,7 @@ Gemini Pro:
 دارم روی یه ویدیوی خیلی کاربردی کار می‌کنم که سعی می‌کنم فردا یا نهایتاً پس‌فردا به دستتون برسونم. تو این ویدیو قراره به خیلی از سوالاتتون جواب بدم، ابهامات رو برطرف کنم و یه گپ و گفتی درباره شرایط فعلی داشته باشیم.
 ضمناً خواستم یه تشکر ویژه بکنم بابت تمام حمایت‌هاتون؛ چه کامنت‌های پرانرژی‌تون تو یوتیوب و چه حضورتون تو شبکه‌های دیگه. مرسی که با تماشای ویدیوها (و صبوری کردن برای تبلیغات!) از کانال خودتون حمایت می‌کنید تا بتونیم با قدرت بیشتری به کارمون ادامه بدیم. دمتون گرم!
 ❤️</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/iaghapour/2652" target="_blank">📅 21:15 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/iaghapour/2652" target="_blank">📅 21:15 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2650">
@@ -483,7 +483,7 @@ Gemini Pro:
 با استفاده از این دستورات ساده، می‌توانید هوش مصنوعی را از یک ربات پاسخ‌گوی ساده، به یک مشاور، تحلیلگر و همکار حرفه‌ای تبدیل کنید.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/iaghapour/2650" target="_blank">📅 22:24 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/iaghapour/2650" target="_blank">📅 22:24 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2648">
@@ -507,7 +507,7 @@ Gemini Pro:
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/iaghapour/2648" target="_blank">📅 21:33 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/iaghapour/2648" target="_blank">📅 21:33 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2647">
@@ -531,7 +531,7 @@ Gemini Pro:
 این ری‌برندینگ تنها یک تغییر اسم ساده نیست، بلکه به گفته دورف، راه را برای اتفاقات مهم بعدی هموار می‌کند و قدم چهارم از یک برنامه ۷ مرحله‌ای برای «عظمت دوباره بخشیدن به TON» است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/iaghapour/2647" target="_blank">📅 21:24 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/iaghapour/2647" target="_blank">📅 21:24 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2646">
@@ -555,7 +555,7 @@ Gemini Pro:
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/iaghapour/2646" target="_blank">📅 16:07 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/iaghapour/2646" target="_blank">📅 16:07 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2644">
@@ -574,7 +574,7 @@ Gemini Pro:
 ساخت فیلترشکن پرسرعت و رایگان با ورکر کلودفلر
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/iaghapour/2644" target="_blank">📅 20:50 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/iaghapour/2644" target="_blank">📅 20:50 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2643">
@@ -602,7 +602,7 @@ Gemini Pro:
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/iaghapour/2643" target="_blank">📅 19:33 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37K · <a href="https://t.me/iaghapour/2643" target="_blank">📅 19:33 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2642">
@@ -627,12 +627,12 @@ Gemini Pro:
 این آپدیت با رفع خطاهای ناگهانی و بهبود سیستم امنیتی Windows Hello، تجربه بسیار روان‌تری ارائه می‌دهد و در ژوئن ۲۰۲۶ به‌صورت خودکار برای همه کاربران فعال خواهد شد.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/iaghapour/2642" target="_blank">📅 20:25 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36K · <a href="https://t.me/iaghapour/2642" target="_blank">📅 20:25 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2640">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/iaghapour/2640" target="_blank">📅 21:17 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/iaghapour/2640" target="_blank">📅 21:17 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2639">
@@ -640,7 +640,7 @@ Gemini Pro:
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sae4SpeX5a9J4u1_PhZ6-HNaS6sZvXZlvbkahs3cO_JqUNcqOpiOZAT8RTtyV5nCCqe5Il86vmumN8J4z4eelz9Rb0LCeY4TEJ5V-Oq0NswIzinu7ykJqvwdF3FPbh8yCSn5fe9_Pw_l0n67m_TNOFTRuwxXUJE4z3Q_05FZ4bpZij-7sw9eujG3llgg_YL49JDpriwlbSAKjl0Q_Q7W_odAq3Oxsk_mWN46XTHwwsPFltwU1vKDiRFHoS4nT7YVlGhf-D942zvJUsulZhJCcyCAMZ2LAGzGCeHkw3xyd4fk8C2CAXgKeP5SpsbMzLqywMO5NCkYkk6GYs0tnqZUyQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مردم ایران در حال برگشتن به تلگرام
 😀</div>
-<div class="tg-footer">👁️ 37.9K · <a href="https://t.me/iaghapour/2639" target="_blank">📅 20:29 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 38.1K · <a href="https://t.me/iaghapour/2639" target="_blank">📅 20:29 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2638">
@@ -648,12 +648,12 @@ Gemini Pro:
 <div class="tg-text">💢
 وضعیت اینترنت جوری شده که وقتی نت ملی بود فیلترشکن ها راحت تر متصل میشدن!
 راستی گوگل پلی و اپ‌استور در دسترس قرار گرفتن و البته ویندوز آپدیت و...</div>
-<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/iaghapour/2638" target="_blank">📅 20:22 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39.9K · <a href="https://t.me/iaghapour/2638" target="_blank">📅 20:22 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2637">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/iaghapour/2637" target="_blank">📅 22:55 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/iaghapour/2637" target="_blank">📅 22:55 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2636">
@@ -670,7 +670,7 @@ Gemini Pro:
 <div class="tg-text">میبینم که رو فیلترشکن ها تخفیف زدن :)
 هر گیگ رو 10 و 20 هزار تومن دارن میفروشن :)
 پولی که بعضی از افراد به جیب زدن تاجر ها نزدن. طرف داخل سرور ایران سایت فروش فیلترشکن داشت! قعطی نداشت. بالای 10 هزار ممبر داشت. اوایل حتی درگاه ریالی داشت. بعد بعضی ها انتظار دارن ما باور کنیم اینا به جایی وصل نبودن!</div>
-<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/iaghapour/2634" target="_blank">📅 21:26 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/iaghapour/2634" target="_blank">📅 21:26 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2633">
@@ -700,7 +700,7 @@ CallofDuty.com
 استیم
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/iaghapour/2633" target="_blank">📅 18:31 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/iaghapour/2633" target="_blank">📅 18:31 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2632">
@@ -806,7 +806,7 @@ CallofDuty.com
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/iaghapour/2625" target="_blank">📅 20:54 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/iaghapour/2625" target="_blank">📅 20:54 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2623">
@@ -903,7 +903,7 @@ CallofDuty.com
 جمینای ۳.۵ فلش هم‌اکنون به عنوان مدل پیش‌فرض در اپلیکیشن جمینای و بخش سرچ گوگل فعال شده است.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/iaghapour/2619" target="_blank">📅 09:46 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/iaghapour/2619" target="_blank">📅 09:46 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2618">
@@ -1461,7 +1461,7 @@ skip-SSL
 پ.ن: از سوپر اپلیکیشن های ایتا و سروش و گپ و بله که از تلگرام کپی کردین مشخصه توانایی اینکار رو دارید.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/iaghapour/2584" target="_blank">📅 19:36 · 15 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 34K · <a href="https://t.me/iaghapour/2584" target="_blank">📅 19:36 · 15 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2583">
@@ -1509,7 +1509,7 @@ LatestReleaseMirror
 لینک ریپازیتوری و راهنمای استفاده
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 45K · <a href="https://t.me/iaghapour/2580" target="_blank">📅 16:09 · 14 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 45.1K · <a href="https://t.me/iaghapour/2580" target="_blank">📅 16:09 · 14 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2579">
@@ -2053,7 +2053,7 @@ t.me/iaghapour
 لینک گیت‌هاب برای بررسی و نصب
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 40.2K · <a href="https://t.me/iaghapour/2545" target="_blank">📅 13:15 · 03 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/iaghapour/2545" target="_blank">📅 13:15 · 03 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -2086,7 +2086,7 @@ IRCF
 
 <div class="tg-post" id="msg-2540">
 <div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aezYDxB4nCnEMfVNq9EFdM_iKAb5v89hIpJwEj0NbE-Lk4cKwbejxKeeLCzqMVHPqYyluCH4phaXW9HOyQDkZCggvSPixYs72_zwc3QlI0vST2u_u5LbXWFN6XtrsL65n2MQGBgxdROCnK04K-rBBnZlBZpu97ELJ7DbTLJL5WpgaCH-FAvnTmlF94dxFxDoP84AnLmHY1o5jWCTZVoeEIIoPdby8ZznPGAln0izT0yZICrvk1W08qXia_tCVKZiTy6KFOs0WagIFEtL2AIDQrvBxOu8hkyWJutwIhqEEBKNU5uksj-aN1pclAiz8MGvw2iNS0g0XsLtvo9wM6JApA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qY_oSors5K0dl7f6i7KBDuEoy-PI7cL073_muT7vluuPXKUMHZMHMLu11s2lHadCOCvhrPDwFvEZLqvHCnfaYgyyU1ee-_r8fnZqt28n93KG-lmisfYB5fT8cTqpnm8wlb8S5DCWqnbErMHht-hMhNfEuWnAgMQUEgYlPUfBXoX5DUoMOUs-H3ktImtz9u80sdfdVJ91WHw5k8d609zUCQVmZAru-FdMxwvEJTPT9wIJMq9UjlUdBETCd_Cmfs9fZcEOxRqXV7rDAV2OIfExAqXOzl481zjDHxGr5upvtHTVNghahti6EIA3u126pmGz5NFmH44y6YRBYAK2l0DDsQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⁉️
 جواب به سوالات پرتکرار شما + بهینه ترین روش اتصال با پروتکل DNS
 🔹
@@ -2115,7 +2115,7 @@ IRCF
 
 <div class="tg-post" id="msg-2537">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZVvEeMuQ5At4Tlxg25g2cyjPb2coseiioeorOBcNvclHFMEQme3XU8821u0VyYAloULV5Wh8MWflOLEjgSs36TzNcs9Lo9THC3-qt-J8_6L18oI_BAXoIzBDWZ4ZcFQIyEBeqTF5R1f1qO5aauNS_8r2Yyqi_ZIbWJ8sGN7qvtqdAk-Yz7gcAKrbGXrtdCKFIZh3B_GldjgOny1CgiWF4wdGhUUk5WDZrc9ByJMmdX-_0IMf8AM1D9BlmmnEXqpbTWgwwE5V2BOprCm_Gox0MGRpRCo00X1AaDm77EKGNVPqS2e-4y-bQTaXfcPyjzcQEbfkZjX71TMCJKDdyc9ezg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C8g4Wpbdilru4tccqa13LIaWQ9J55pnCNl10jh6UsDo23A270bzTE2PLQWqm361oT98v6rsL2amzIaRGwaL_0lc9m1aGYUMsDAR0oe4Xb6q84J48IkZvwLVNllojB__hXKRgYSPX3PSgjIL6sHiwstpnwfLzaMpZSro1FACZBZhGXuD-Bp-RLyT111Q3HgrKpWPA8SZPWEz4wV0bYVyQvrzf5BWp4ssEERmvUmNiySNdMDbOpHK9PJj1_bck8fajfPPDSQ6DyRagn9X-iIaHMAOIzZxvC4ZWjM_b3eHld8HqLGpbXpHxNfKV3EGxp5iWd2xryyIUQO3wkbWb3JIyTQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 درخواست ملی کردن کامل اینترنت فقط برای طرفداران نت ملی!
 🔹

@@ -292,7 +292,7 @@
 <a href="https://t.me/akhbarefori" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽تبلیغ درکانال خبرفوری@ads_foriارتباط مستقیم با ادمین تبلیغ@newsadminجهت رزرو تبلیغ تماس بگیرید. 09018373801؛ارتباط با ما@Ertebat_baforii</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-16 00:18:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-16 01:40:16</div>
 <hr>
 
 <div class="tg-post" id="msg-656491">
@@ -304,7 +304,7 @@
 🔹
 با قرائت دعای فرج به این جمع میلیونی بپیوندیم
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/akhbarefori/656491" target="_blank">📅 00:00 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.91K · <a href="https://t.me/akhbarefori/656491" target="_blank">📅 00:00 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656489">
@@ -316,7 +316,7 @@
 شلیک‌های اخطار از سوی ایران برای هشدار به کشتی‌های آمریکایی در دریای عمان و عقب راندن آنها نادرست است.
 🔹
 لازم به ذکر است پس از شلیک های اخطارِ…</div>
-<div class="tg-footer">👁️ 6.68K · <a href="https://t.me/akhbarefori/656489" target="_blank">📅 23:57 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/akhbarefori/656489" target="_blank">📅 23:57 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656488">
@@ -335,7 +335,7 @@
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 6.38K · <a href="https://t.me/akhbarefori/656488" target="_blank">📅 23:55 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/akhbarefori/656488" target="_blank">📅 23:55 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656487">
@@ -347,7 +347,7 @@ Link</div>
 در فضای مجازی
 👇
 @azarbaijan_gharbi</div>
-<div class="tg-footer">👁️ 6.39K · <a href="https://t.me/akhbarefori/656487" target="_blank">📅 23:53 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/akhbarefori/656487" target="_blank">📅 23:53 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656486">
@@ -367,7 +367,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 8.42K · <a href="https://t.me/akhbarefori/656486" target="_blank">📅 23:48 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/akhbarefori/656486" target="_blank">📅 23:48 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656485">
@@ -399,7 +399,7 @@ khabarfoori.com/fa/tiny/news-3220707
 ویدئوهای جذاب ما را در آپارات خبرفوری تماشا کنید
 🔹
 http://aparat.com/Akhbar.Fori</div>
-<div class="tg-footer">👁️ 8.73K · <a href="https://t.me/akhbarefori/656485" target="_blank">📅 23:44 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/akhbarefori/656485" target="_blank">📅 23:44 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656484">
@@ -413,7 +413,7 @@ http://aparat.com/Akhbar.Fori</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 9.75K · <a href="https://t.me/akhbarefori/656484" target="_blank">📅 23:40 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/akhbarefori/656484" target="_blank">📅 23:40 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656483">
@@ -433,7 +433,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbartehran</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/akhbarefori/656483" target="_blank">📅 23:35 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/akhbarefori/656483" target="_blank">📅 23:35 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656482">
@@ -458,7 +458,7 @@ Link</div>
 👇🏻
 👇🏻
 @gharar_madahi</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/akhbarefori/656482" target="_blank">📅 23:34 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/akhbarefori/656482" target="_blank">📅 23:34 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656481">
@@ -476,7 +476,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/akhbarefori/656481" target="_blank">📅 23:31 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/akhbarefori/656481" target="_blank">📅 23:31 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656479">
@@ -494,7 +494,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/akhbarefori/656479" target="_blank">📅 23:25 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/akhbarefori/656479" target="_blank">📅 23:25 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656478">
@@ -507,7 +507,7 @@ Link</div>
 بیشتر بخوانید و نظر بدهید
 👇
 khabarfoori.com/fa/tiny/news-3220679</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/akhbarefori/656478" target="_blank">📅 23:18 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/akhbarefori/656478" target="_blank">📅 23:18 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656477">
@@ -526,7 +526,7 @@ khabarfoori.com/fa/tiny/news-3220679</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/akhbarefori/656477" target="_blank">📅 23:15 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/akhbarefori/656477" target="_blank">📅 23:15 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656476">
@@ -542,7 +542,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/akhbarefori/656476" target="_blank">📅 23:10 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/akhbarefori/656476" target="_blank">📅 23:10 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656475">
@@ -553,7 +553,7 @@ Link</div>
 آنها در مکزیک مستقر خواهند شد و سپس برای هر بازی به آنجا پرواز خواهند کرد.
 🔹
 این بدان معناست که آنها باید در همان روز بازی از طریق…</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/akhbarefori/656475" target="_blank">📅 23:05 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/akhbarefori/656475" target="_blank">📅 23:05 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656472">
@@ -573,7 +573,7 @@ Link</div>
 #امام_کاظم
 (ع) مبارک باد
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 9.03K · <a href="https://t.me/akhbarefori/656472" target="_blank">📅 23:04 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/akhbarefori/656472" target="_blank">📅 23:04 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656471">
@@ -589,7 +589,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/akhbarefori/656471" target="_blank">📅 23:00 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/akhbarefori/656471" target="_blank">📅 23:00 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656463">
@@ -611,7 +611,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/akhbarefori/656463" target="_blank">📅 22:59 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/akhbarefori/656463" target="_blank">📅 22:59 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656460">
@@ -631,7 +631,7 @@ Link</div>
 #امام_کاظم
 (ع) مبارک باد
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/akhbarefori/656460" target="_blank">📅 22:50 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/akhbarefori/656460" target="_blank">📅 22:50 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656459">
@@ -642,7 +642,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/akhbarefori/656459" target="_blank">📅 22:44 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/akhbarefori/656459" target="_blank">📅 22:44 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656458">
@@ -657,7 +657,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/akhbarefori/656458" target="_blank">📅 22:40 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/akhbarefori/656458" target="_blank">📅 22:40 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656457">
@@ -667,7 +667,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/akhbarefori/656457" target="_blank">📅 22:28 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/akhbarefori/656457" target="_blank">📅 22:28 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656456">
@@ -680,7 +680,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/akhbarefori/656456" target="_blank">📅 22:21 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/akhbarefori/656456" target="_blank">📅 22:21 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656455">
@@ -689,7 +689,7 @@ Link</div>
 ادعای اکسیوس: تیم کارشناسان آمریکایی مأمور طراحی جزئیات فنی توافق هسته‌ای احتمالی با ایران هستند  اکسیوس:
 🔹
 در صورت ورود مذاکرات با ایران به مرحله دوم، تیمی از کارشناسان هسته‌ای آمریکا باید طرح‌هایی برای دفع مواد هسته‌ای ایران، محدودتر کردن برنامه غنی‌سازی…</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/akhbarefori/656455" target="_blank">📅 22:20 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/akhbarefori/656455" target="_blank">📅 22:20 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656454">
@@ -707,7 +707,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/akhbarefori/656454" target="_blank">📅 22:18 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/akhbarefori/656454" target="_blank">📅 22:18 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656445">
@@ -741,7 +741,7 @@ Link</div>
 شما نیز میتوانید در این کار خیر سهیم باشید
 👇
 5029087002135690</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/akhbarefori/656445" target="_blank">📅 22:17 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/akhbarefori/656445" target="_blank">📅 22:17 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656444">
@@ -754,7 +754,7 @@ Link</div>
 در خبرفوری بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3220645</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/akhbarefori/656444" target="_blank">📅 22:17 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/akhbarefori/656444" target="_blank">📅 22:17 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656443">
@@ -765,7 +765,7 @@ khabarfoori.com/fa/tiny/news-3220645</div>
 واشینگتن و تهران همچنان بر سر چندین جزئیات مربوط به یادداشت تفاهم (MOU) اختلاف دارند.
 🔹
 با این حال، این منابع می‌گویند…</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/akhbarefori/656443" target="_blank">📅 22:13 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/akhbarefori/656443" target="_blank">📅 22:13 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656442">
@@ -774,7 +774,7 @@ khabarfoori.com/fa/tiny/news-3220645</div>
 ادعای اکسیوس: سفر ویتکاف و کوشنر به اوک‌ریج برای بررسی گزینه‌های فنی مذاکرات هسته‌ای با ایران    اکسیوس:
 🔹
 استیو ویتکاف و جرد کوشنر برای رایزنی با گروهی از کارشناسان فنیِ احتمالیِ مذاکرات هسته‌ای با ایران به آزمایشگاه ملی اوک‌ریج در تنسی سفر کرده‌اند.  …</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/akhbarefori/656442" target="_blank">📅 22:06 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/akhbarefori/656442" target="_blank">📅 22:06 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656441">
@@ -792,7 +792,7 @@ khabarfoori.com/fa/tiny/news-3220645</div>
 👇
 https://l.nikrun.com/0re
 🏍️</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/akhbarefori/656441" target="_blank">📅 22:06 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/akhbarefori/656441" target="_blank">📅 22:06 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656440">
@@ -809,7 +809,7 @@ https://l.nikrun.com/0re
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/akhbarefori/656440" target="_blank">📅 22:02 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/akhbarefori/656440" target="_blank">📅 22:02 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656439">
@@ -822,7 +822,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/akhbarefori/656439" target="_blank">📅 21:51 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/akhbarefori/656439" target="_blank">📅 21:51 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656438">
@@ -835,7 +835,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/akhbarefori/656438" target="_blank">📅 21:49 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/akhbarefori/656438" target="_blank">📅 21:49 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656437">
@@ -867,7 +867,7 @@ Link</div>
 #از_نو_تو_را_آباد_خواهم_کرد
 !
 @khouzestan_steel_co</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/akhbarefori/656437" target="_blank">📅 21:47 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/akhbarefori/656437" target="_blank">📅 21:47 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656436">
@@ -883,7 +883,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/akhbarefori/656436" target="_blank">📅 21:42 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/akhbarefori/656436" target="_blank">📅 21:42 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656435">
@@ -901,7 +901,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/akhbarefori/656435" target="_blank">📅 21:38 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/akhbarefori/656435" target="_blank">📅 21:38 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656434">
@@ -912,7 +912,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/akhbarefori/656434" target="_blank">📅 21:35 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/akhbarefori/656434" target="_blank">📅 21:35 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656433">
@@ -933,7 +933,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/akhbarefori/656433" target="_blank">📅 21:26 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/akhbarefori/656433" target="_blank">📅 21:26 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656432">
@@ -952,7 +952,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/akhbarefori/656432" target="_blank">📅 21:17 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/akhbarefori/656432" target="_blank">📅 21:17 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656431">
@@ -967,7 +967,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/akhbarefori/656431" target="_blank">📅 21:13 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/akhbarefori/656431" target="_blank">📅 21:13 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656430">
@@ -985,7 +985,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/akhbarefori/656430" target="_blank">📅 21:09 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/akhbarefori/656430" target="_blank">📅 21:09 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656429">
@@ -1004,7 +1004,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/akhbarefori/656429" target="_blank">📅 21:05 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/akhbarefori/656429" target="_blank">📅 21:05 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656425">
@@ -1022,7 +1022,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/akhbarefori/656425" target="_blank">📅 20:56 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/akhbarefori/656425" target="_blank">📅 20:56 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656424">
@@ -1035,7 +1035,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/akhbarefori/656424" target="_blank">📅 20:51 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/akhbarefori/656424" target="_blank">📅 20:51 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656420">
@@ -1055,7 +1055,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/akhbarefori/656420" target="_blank">📅 20:48 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/akhbarefori/656420" target="_blank">📅 20:48 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656418">
@@ -1074,7 +1074,7 @@ Link</div>
 الوفوری را دنبال کنید
 👇
 @Alo_fori</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/akhbarefori/656418" target="_blank">📅 20:43 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/akhbarefori/656418" target="_blank">📅 20:43 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656417">
@@ -1091,7 +1091,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/akhbarefori/656417" target="_blank">📅 20:41 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/akhbarefori/656417" target="_blank">📅 20:41 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656416">
@@ -1102,7 +1102,7 @@ Link</div>
 رئیس‌جمهور روسیه با حمایت از توقف اقدامات نظامی علیه ایران گفت مسکو نشانه‌ای از تحریک از سوی تهران نمی‌بیند و معتقد نیست ایران به‌دنبال سلاح هسته‌ای است.
 🔹
 پوتین همچنین از آمادگی روسیه برای دریافت…</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/akhbarefori/656416" target="_blank">📅 20:39 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/akhbarefori/656416" target="_blank">📅 20:39 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656415">
@@ -1112,7 +1112,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/akhbarefori/656415" target="_blank">📅 20:34 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/akhbarefori/656415" target="_blank">📅 20:34 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656414">
@@ -1145,7 +1145,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/akhbarefori/656414" target="_blank">📅 20:30 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/akhbarefori/656414" target="_blank">📅 20:30 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656413">
@@ -1162,7 +1162,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/akhbarefori/656413" target="_blank">📅 20:23 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/akhbarefori/656413" target="_blank">📅 20:23 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656412">
@@ -1181,7 +1181,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/akhbarefori/656412" target="_blank">📅 20:10 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/akhbarefori/656412" target="_blank">📅 20:10 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656411">
@@ -1198,7 +1198,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/akhbarefori/656411" target="_blank">📅 19:59 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/akhbarefori/656411" target="_blank">📅 19:59 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656409">
@@ -1217,7 +1217,7 @@ Link</div>
 الوفوری را دنبال کنید
 👇
 @Alo_fori</div>
-<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/akhbarefori/656409" target="_blank">📅 19:59 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30K · <a href="https://t.me/akhbarefori/656409" target="_blank">📅 19:59 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656408">
@@ -1229,7 +1229,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/akhbarefori/656408" target="_blank">📅 19:42 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/akhbarefori/656408" target="_blank">📅 19:42 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656407">
@@ -1242,7 +1242,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/akhbarefori/656407" target="_blank">📅 19:34 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/akhbarefori/656407" target="_blank">📅 19:34 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656406">
@@ -1253,7 +1253,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbarfars</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/akhbarefori/656406" target="_blank">📅 19:29 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/akhbarefori/656406" target="_blank">📅 19:29 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656404">
@@ -1265,7 +1265,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbareghom</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/akhbarefori/656404" target="_blank">📅 19:15 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/akhbarefori/656404" target="_blank">📅 19:15 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656403">
@@ -1282,7 +1282,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/akhbarefori/656403" target="_blank">📅 19:11 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/akhbarefori/656403" target="_blank">📅 19:11 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656399">
@@ -1304,7 +1304,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/akhbarefori/656399" target="_blank">📅 19:08 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/akhbarefori/656399" target="_blank">📅 19:08 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656398">
@@ -1323,7 +1323,7 @@ Link</div>
 برای رزرو و هماهنگی پیام دهید
 👇
 @newsadmin</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/akhbarefori/656398" target="_blank">📅 19:04 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/akhbarefori/656398" target="_blank">📅 19:04 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656397">
@@ -1341,7 +1341,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/akhbarefori/656397" target="_blank">📅 19:03 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/akhbarefori/656397" target="_blank">📅 19:03 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656395">
@@ -1356,7 +1356,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/akhbarefori/656395" target="_blank">📅 18:56 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/akhbarefori/656395" target="_blank">📅 18:56 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656394">
@@ -1408,7 +1408,7 @@ http://instagram.com/_u/akhbare.fori
 سایت خبرفوری
 👇
 http://khabarfoori.com/</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/akhbarefori/656394" target="_blank">📅 18:50 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/akhbarefori/656394" target="_blank">📅 18:50 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656392">
@@ -1421,7 +1421,7 @@ http://khabarfoori.com/</div>
 هنوز خبر رسمی از علت تخریب منتشر نشده است.  #اخبار_مشهد در فضای مجازی
 👇
 @Akhbarmashhad</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/akhbarefori/656392" target="_blank">📅 18:47 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/akhbarefori/656392" target="_blank">📅 18:47 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656391">
@@ -1435,7 +1435,7 @@ http://khabarfoori.com/</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/akhbarefori/656391" target="_blank">📅 18:44 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/akhbarefori/656391" target="_blank">📅 18:44 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656389">
@@ -1451,7 +1451,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/akhbarefori/656389" target="_blank">📅 18:38 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/akhbarefori/656389" target="_blank">📅 18:38 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656388">
@@ -1464,7 +1464,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/akhbarefori/656388" target="_blank">📅 18:26 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/akhbarefori/656388" target="_blank">📅 18:26 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656387">
@@ -1478,7 +1478,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/akhbarefori/656387" target="_blank">📅 18:24 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/akhbarefori/656387" target="_blank">📅 18:24 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656386">
@@ -1495,7 +1495,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/akhbarefori/656386" target="_blank">📅 18:21 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/akhbarefori/656386" target="_blank">📅 18:21 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656385">
@@ -1514,7 +1514,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/akhbarefori/656385" target="_blank">📅 18:07 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/akhbarefori/656385" target="_blank">📅 18:07 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656383">
@@ -1522,7 +1522,7 @@ Link</div>
 <div class="tg-text">شلیک اخطار موشکی - پهپادی نداجا به سمت ناوشکن‌های متجاوز و مزاحم آمریکایی   روابط عمومی ارتش:
 🔹
 پس از شلیک اخطار موشک‌های «قدیر» و پهپادهای تهاجمی نیروی دریایی ارتش به سمت ناوشکن‌های آمریکایی DDG-103 و DDG-87، این شناورها دریای عمان را ترک کرده و به سمت اقیانوس…</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/akhbarefori/656383" target="_blank">📅 17:56 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/akhbarefori/656383" target="_blank">📅 17:56 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656382">
@@ -1538,7 +1538,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/akhbarefori/656382" target="_blank">📅 17:52 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31K · <a href="https://t.me/akhbarefori/656382" target="_blank">📅 17:52 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656379">
@@ -1561,7 +1561,7 @@ Kuwajia
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/akhbarefori/656379" target="_blank">📅 17:50 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/akhbarefori/656379" target="_blank">📅 17:50 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656378">
@@ -1582,7 +1582,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/akhbarefori/656378" target="_blank">📅 17:50 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/akhbarefori/656378" target="_blank">📅 17:50 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656377">
@@ -1596,7 +1596,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/akhbarefori/656377" target="_blank">📅 17:49 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/akhbarefori/656377" target="_blank">📅 17:49 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656376">
@@ -1608,7 +1608,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/akhbarefori/656376" target="_blank">📅 17:49 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/akhbarefori/656376" target="_blank">📅 17:49 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656375">
@@ -1626,7 +1626,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/akhbarefori/656375" target="_blank">📅 17:49 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/akhbarefori/656375" target="_blank">📅 17:49 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656374">
@@ -1637,7 +1637,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/akhbarefori/656374" target="_blank">📅 17:48 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/akhbarefori/656374" target="_blank">📅 17:48 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656373">
@@ -1658,7 +1658,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/akhbarefori/656373" target="_blank">📅 17:46 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/akhbarefori/656373" target="_blank">📅 17:46 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656372">
@@ -1670,7 +1670,7 @@ Link</div>
 وزارت دادگستری آمریکا خبر داد که مدیرعامل شرکت ایران تک به اتهام تأمین تجهیزات آمریکایی برای تأسیسات هسته‌ای و نظامی ایران دستگیر شد.
 🔹
 جمشید قمی، ۶۳ ساله، اهل ساحل نیوپرت، به توطئه برای نقض قانون اختیارات…</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/akhbarefori/656372" target="_blank">📅 17:41 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/akhbarefori/656372" target="_blank">📅 17:41 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656371">
@@ -1687,7 +1687,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/akhbarefori/656371" target="_blank">📅 17:35 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/akhbarefori/656371" target="_blank">📅 17:35 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656370">
@@ -1699,7 +1699,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori…</div>
-<div class="tg-footer">👁️ 27K · <a href="https://t.me/akhbarefori/656370" target="_blank">📅 17:30 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/akhbarefori/656370" target="_blank">📅 17:30 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656369">
@@ -1715,7 +1715,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/akhbarefori/656369" target="_blank">📅 17:22 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/akhbarefori/656369" target="_blank">📅 17:22 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656367">
@@ -1737,7 +1737,7 @@ Link</div>
 الوفوری را دنبال کنید
 👇
 @Alo_fori</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/akhbarefori/656367" target="_blank">📅 17:20 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/akhbarefori/656367" target="_blank">📅 17:20 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656366">
@@ -1758,7 +1758,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/akhbarefori/656366" target="_blank">📅 17:17 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/akhbarefori/656366" target="_blank">📅 17:17 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656365">
@@ -1773,7 +1773,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/akhbarefori/656365" target="_blank">📅 17:10 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/akhbarefori/656365" target="_blank">📅 17:10 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656364">
@@ -1791,7 +1791,7 @@ Link</div>
 در فضای مجازی
 👇
 @Akhbarmashhad</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/akhbarefori/656364" target="_blank">📅 16:51 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/akhbarefori/656364" target="_blank">📅 16:51 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656363">
@@ -1817,7 +1817,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/akhbarefori/656363" target="_blank">📅 16:47 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/akhbarefori/656363" target="_blank">📅 16:47 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656362">
@@ -1838,7 +1838,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/akhbarefori/656362" target="_blank">📅 16:43 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/akhbarefori/656362" target="_blank">📅 16:43 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656356">
@@ -1855,7 +1855,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/akhbarefori/656356" target="_blank">📅 16:33 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30K · <a href="https://t.me/akhbarefori/656356" target="_blank">📅 16:33 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656355">
@@ -1870,7 +1870,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/akhbarefori/656355" target="_blank">📅 16:19 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/akhbarefori/656355" target="_blank">📅 16:19 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656354">
@@ -1885,7 +1885,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/akhbarefori/656354" target="_blank">📅 16:14 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/akhbarefori/656354" target="_blank">📅 16:14 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656351">
@@ -1904,7 +1904,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/akhbarefori/656351" target="_blank">📅 16:10 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/akhbarefori/656351" target="_blank">📅 16:10 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656349">
@@ -1922,7 +1922,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/akhbarefori/656349" target="_blank">📅 16:00 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/akhbarefori/656349" target="_blank">📅 16:00 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656348">
@@ -1933,7 +1933,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbartehran</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/akhbarefori/656348" target="_blank">📅 15:56 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/akhbarefori/656348" target="_blank">📅 15:56 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656347">
@@ -1952,7 +1952,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbareisfahan</div>
-<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/akhbarefori/656347" target="_blank">📅 15:52 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/akhbarefori/656347" target="_blank">📅 15:52 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656346">
@@ -1968,7 +1968,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/akhbarefori/656346" target="_blank">📅 15:43 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/akhbarefori/656346" target="_blank">📅 15:43 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656343">
@@ -1981,7 +1981,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/akhbarefori/656343" target="_blank">📅 15:24 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/akhbarefori/656343" target="_blank">📅 15:24 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-656342">
@@ -1998,7 +1998,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/akhbarefori/656342" target="_blank">📅 15:15 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/akhbarefori/656342" target="_blank">📅 15:15 · 15 Khordad 1405</a></div>
 </div>
 
 <hr>
