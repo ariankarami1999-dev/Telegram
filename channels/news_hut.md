@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-15 03:29:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-15 07:35:57</div>
 <hr>
 
 <div class="tg-post" id="msg-65307">
@@ -300,7 +300,7 @@
 <div class="tg-text">پرسرعت وصله
 👌
 👌</div>
-<div class="tg-footer">👁️ 7.37K · <a href="https://t.me/news_hut/65307" target="_blank">📅 01:08 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.59K · <a href="https://t.me/news_hut/65307" target="_blank">📅 01:08 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65306">
@@ -325,7 +325,7 @@
 لینک دانلود داخلی با نت ملی با سرعت بالا
 👇
 https://uploadb.com/plx39j7b72sy/Barko__v2.2.apk.html</div>
-<div class="tg-footer">👁️ 7.43K · <a href="https://t.me/news_hut/65306" target="_blank">📅 01:08 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.68K · <a href="https://t.me/news_hut/65306" target="_blank">📅 01:08 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65305">
@@ -340,7 +340,7 @@ https://uploadb.com/plx39j7b72sy/Barko__v2.2.apk.html</div>
 <div class="tg-text">🇺🇸
 ترامپ: من نمی‌خواهم با آیت‌الله ملاقات کنم، اما اگر با او ملاقات می‌کردم، برایم افتخار بود که با او دیدار کنم. من محترمانه رفتار می‌کردم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/news_hut/65305" target="_blank">📅 00:04 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/news_hut/65305" target="_blank">📅 00:04 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65304">
@@ -355,7 +355,7 @@ https://uploadb.com/plx39j7b72sy/Barko__v2.2.apk.html</div>
 <div class="tg-text">🇺🇸
 ترامپ درباره ایران: تمام ۱۵۹ کشتی آن‌ها در کف اقیانوس قرار دارند. ما در واقع از آن‌ها در آنجا عکس گرفتیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/news_hut/65304" target="_blank">📅 00:02 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/news_hut/65304" target="_blank">📅 00:02 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65303">
@@ -370,7 +370,7 @@ https://uploadb.com/plx39j7b72sy/Barko__v2.2.apk.html</div>
 <div class="tg-text">🇺🇸
 ترامپ: حزب‌الله هیچ چیزی را رد نکرد. آنها با ما تماس گرفتند و گفتند، «چطور است که متوقف شویم؟»
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/news_hut/65303" target="_blank">📅 00:02 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/news_hut/65303" target="_blank">📅 00:02 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65302">
@@ -386,7 +386,7 @@ https://uploadb.com/plx39j7b72sy/Barko__v2.2.apk.html</div>
 ترامپ: من تا الان به هشت جنگ پایان دادم و به‌زودی یه جنگ نهم هم تموم میشه
 شاید حتی بشه دهمین جنگ. فکر نمی‌کنم هیچ رئیس‌جمهوری تا حالا حتی یه جنگ رو هم تموم کرده باشه
 @News_Hut</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/news_hut/65302" target="_blank">📅 00:00 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/news_hut/65302" target="_blank">📅 00:00 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65301">
@@ -394,7 +394,7 @@ https://uploadb.com/plx39j7b72sy/Barko__v2.2.apk.html</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NW6QzzcH7sAByDqhnIgzfXAKywLp0F2OzgdNHxw_cECxT7S695axbNurYpxtNjzH6CypwR4r8gktUzOpZ394LzVo0DTLvfLLS2DXXMnKhGNJDBeUVXpD6DupzdJUZR5k7xUIQkU8tU_q17ZznZPRlVdRqFMvmN2DEPTOtGgHlACQrMSYT4nDSeHX-JmJMTv8_HWV5r2avL4NCHQhOwbeGMI2rI1Vx_YUGZYe-Hbpb2sAczwCqOqTOQqfFkTgA3KQoukS7-TUtrbpD38XyClw6qDUPPEdXMxtynEucxPziULYOxN0IG71-9MCJrSq8WZPPjb7EbC2faSquHLgjmlwxQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تورم نقطه به نقطه سالانه برخی اقلام اعلامی مرکز آمار: از ۴۳٠ درصد تا ۱٠٠ درصد
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/news_hut/65301" target="_blank">📅 22:43 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/news_hut/65301" target="_blank">📅 22:43 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65300">
@@ -439,7 +439,7 @@ BetForward.com
 BetForward.com
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/news_hut/65300" target="_blank">📅 22:43 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/news_hut/65300" target="_blank">📅 22:43 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65299">
@@ -447,7 +447,7 @@ BetForward.com
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mSpLB7R954pqKR3nK0GbeGDKpAeTShzqNCzb5Bkem596pQ1aEmK5Mc4TZRozoL3wxbObScv7xkCEWcxD8FU3r2Rc0pcMYWfob4F1MKzs9Ft-EdD8BqDbyehStx_QLhU42SeDTW-tECbH1vtSmmGMTjdgYjN5QeEdTPlw2NjY7hstg3iBrQKrisQYYqoBFj5-D8lb_L_N8KInGRR6SuxjF5KVRM0I0Q4N7QD8qeusUi0Y9DLe1yTqg0uSht98LHzMHV2RTsyScbmYWQxYnjR8AKN98DTYQUKUsKHVg8JSgyPbr_AMvqGyl8HtQ8N6ZI6ykNLOmW5JNmUNCQMxa84iRg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپلیکیشن های chatgpt، grok و deepseek رفع فیلتر شدن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/65299" target="_blank">📅 22:03 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/65299" target="_blank">📅 22:03 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65298">
@@ -462,7 +462,7 @@ BetForward.com
 <div class="tg-text">‼️
 روز اول جنگ مجری صداوسیما حواسش نبود میکروفونش بازه، میگه همه گذاشتن فرار کردن، هیچکس نمونده
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/65298" target="_blank">📅 20:53 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/65298" target="_blank">📅 20:53 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65297">
@@ -470,7 +470,7 @@ BetForward.com
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from.</strong></div>
 <div class="tg-text">🟢
 سایت معتبر رومابت برای جام جهانی بونوس های متنوعی داره ، از دست ندید</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/news_hut/65297" target="_blank">📅 20:53 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/news_hut/65297" target="_blank">📅 20:53 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65296">
@@ -523,7 +523,7 @@ https://trentivo6402.bar
 👇
 🔵
 @Romabet_official</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/news_hut/65296" target="_blank">📅 20:53 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/65296" target="_blank">📅 20:53 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65295">
@@ -533,7 +533,7 @@ https://trentivo6402.bar
 📌
 با این حساب ترامپ از یکی دیگه از خواسته هاش که دریافت اورانیوم توسط آمریکا بوده هم کوتاه اومده
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/65295" target="_blank">📅 18:05 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/news_hut/65295" target="_blank">📅 18:05 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65294">
@@ -543,7 +543,7 @@ https://trentivo6402.bar
 📰
 وال استریت ژورنال: ترامپ به طور خصوصی به دستیاراش گفته که در صورت کشته شدن نیروهای آمریکایی توسط تهران، آتش‌بس با ایران رو تموم و جنگ رو شروع کنید.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/news_hut/65294" target="_blank">📅 17:28 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/news_hut/65294" target="_blank">📅 17:28 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65293">
@@ -556,7 +556,7 @@ https://trentivo6402.bar
 نکات مهم برای ایمن نگه داشتن دارای های شما تو کانال قرار دادیم حتما رعایت کنید
 آموزش رفع مشکل
 https://t.me/arrad_group/2450</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/65293" target="_blank">📅 16:56 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/65293" target="_blank">📅 16:56 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65292">
@@ -571,7 +571,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">‼️
 با اینکه آتش‌بس تو اسرائیل و لبنان اعلام شده امروز جنگنده‌های اسرائیلی اهدافی تو تبنین و حاروف تو جنوب لبنان رو منهدم کردند
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/65292" target="_blank">📅 16:25 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/news_hut/65292" target="_blank">📅 16:25 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65291">
@@ -586,7 +586,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">▶️
 فیلم جدید و ویرال شده از حمله هوایی آمریکا به پل B1 در کرج
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/65291" target="_blank">📅 15:55 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/65291" target="_blank">📅 15:55 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65290">
@@ -595,7 +595,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">‼️
 تو ۲۴ ساعت گذشته بیش از ۲۰۰ میلیارد دلار از ارزش بازار رمز‌ارزها ریخت
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/65290" target="_blank">📅 14:58 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/65290" target="_blank">📅 14:58 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65289">
@@ -627,7 +627,7 @@ Sport100
 برای تغییر زبان برنامه، زبان موبایل خود را تغییر دهید.
 ✅
 ورود به اپلیکیشن بدون فیلترشکن</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/65289" target="_blank">📅 14:57 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/65289" target="_blank">📅 14:57 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65288">
@@ -660,7 +660,7 @@ Sport100
 معرفی سایت و اپلیکیشن مل‌بت
 💛
 ورود به سایت مل‌بت (فیلترشکن خاموش)</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/news_hut/65288" target="_blank">📅 14:57 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/65288" target="_blank">📅 14:57 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65287">
@@ -675,7 +675,7 @@ Sport100
 <div class="tg-text">‼️
 ویدئویی آخرالزمانی از بمباران پایگاه چهارم شکاری دزفول در یک فروردین که به تازگی وایرال شده!!
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/65287" target="_blank">📅 11:18 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/news_hut/65287" target="_blank">📅 11:18 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65286">
@@ -683,7 +683,7 @@ Sport100
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gngehLb536bd5d7zN4l0GqiWdfwLwLV_DvB5zfnH3S3gbLR6gyEg0jg_GYz-2Vv8BEGSQhRs-TXzUI9RWUpYdiYkctPpCWBODGab0jPQPw6P5zGotcrB2cGdrF2vEPavdP0_qCLtwBW0Lo3zlhseq3BIGgDl6yBtGxN74gSh1thAGPHOKxygE62wfbTF8Tny4Um1QrWUDCn8VbvhBcOVIu5QskHkPw_27RRV4BsTZigb6O8EbCwT0gYNVyIxPL8pedVn_fd4BkI02IsOsWQpk4mRvLRL_wGyyMq_mKH1lysVPyefTOYtPeiE4fXnbLCEciVONk00LUB-GFTEjCp0DA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ژنرال دن کین، رئیس ستاد ارتش امریکا برای اولین بار به کاراکاس پایتخت ونزوئلا سفر کرد و نشون میده روابط دو کشور بعد از افتتاح سفارت داره بهتر و بهتر میشه
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/news_hut/65286" target="_blank">📅 10:22 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/news_hut/65286" target="_blank">📅 10:22 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65285">
@@ -692,7 +692,7 @@ Sport100
 کویت تصویر لحظه اولیه حمله با پهپاد شاهد از طرف جمهوری اسلامی به فرودگاه این کشور رو منتشر کرد؛
 وزارت بهداشت کویت هم اعلام کرد طی این حمله یه تبعه هندی کشته و ۶۳ نفر هم زخمی شدن
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/news_hut/65285" target="_blank">📅 09:33 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/65285" target="_blank">📅 09:33 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65284">
@@ -710,7 +710,7 @@ Sport100
 برای اولین بار مجلس نمایندگان تونست رای بیشتر رو بیاره حالا این قطعنامه نیاز به تصویب مجلس سنا رو داره و بعدش میره روی میز ترامپ برای وتو!
 ﻿
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/news_hut/65284" target="_blank">📅 08:27 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/news_hut/65284" target="_blank">📅 08:27 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65281">
@@ -759,7 +759,7 @@ Vertigo Vpn
 ➖
 🫆
 @Vertigo_Vpn</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/news_hut/65281" target="_blank">📅 00:44 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/news_hut/65281" target="_blank">📅 00:44 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65278">
@@ -775,7 +775,7 @@ Vertigo Vpn
 🇺🇸
 املاکی درمورد نقض آتش‌بس: تو اون منطقه از دنیا، آتش‌بس یعنی وقتی دارن با یه شدت کمتر و کنترل‌شده‌تر همدیگه رو می‌زنن
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/news_hut/65278" target="_blank">📅 00:10 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/news_hut/65278" target="_blank">📅 00:10 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65277">
@@ -791,7 +791,7 @@ Vertigo Vpn
 🇺🇸
 املاکی: مذاکره بسیار خوب پیش می‌رود... ممکن است اتفاق نیفتد، اما اگر بیفتد، احتمال می‌دهم در طول آخر هفته رخ دهد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/65277" target="_blank">📅 00:10 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/news_hut/65277" target="_blank">📅 00:10 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65276">
@@ -804,7 +804,7 @@ Vertigo Vpn
 ✔️
 حقیقت: ایران با پهپادها به فرودگاه غیرنظامی حمله کرد؛ این یک حمله عمدی، محاسبه‌شده و بی‌توجیه بود
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/news_hut/65276" target="_blank">📅 23:14 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/news_hut/65276" target="_blank">📅 23:14 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65274">
@@ -819,7 +819,7 @@ Vertigo Vpn
 <div class="tg-text">🚨
 دیده شدن ترامپ تو پارک زرقان شیراز
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/news_hut/65274" target="_blank">📅 23:07 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/news_hut/65274" target="_blank">📅 23:07 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65273">
@@ -864,7 +864,7 @@ BetForward.com
 BetForward.com
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/news_hut/65273" target="_blank">📅 23:07 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/65273" target="_blank">📅 23:07 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65272">
@@ -873,7 +873,7 @@ BetForward.com
 <div class="tg-text">گویا مامان روبیکا گم شده دست کسیه بره تحویل بده شر نشه
 🤡
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/news_hut/65272" target="_blank">📅 22:27 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/news_hut/65272" target="_blank">📅 22:27 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65271">
@@ -894,7 +894,7 @@ BetForward.com
 🇮🇱
 نتانیاهو: این به این معنا نیست که او می‌خواهد این رژیم فعلی باقی بماند!
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/65271" target="_blank">📅 21:58 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/news_hut/65271" target="_blank">📅 21:58 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65270">
@@ -902,7 +902,7 @@ BetForward.com
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from.</strong></div>
 <div class="tg-text">🟢
 سایت معتبر رومابت برای جام جهانی بونوس های متنوعی داره ، از دست ندید</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/news_hut/65270" target="_blank">📅 21:57 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/65270" target="_blank">📅 21:57 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65269">
@@ -954,13 +954,13 @@ https://trentivo6402.bar
 👇
 🔵
 @Romabet_official</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/news_hut/65269" target="_blank">📅 21:57 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/65269" target="_blank">📅 21:57 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65268">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">ترامپ: هنوز افتخار اینکه آیت‌الله خامنه‌ای را ببینم نداشتم، اما دوست دارم با او ملاقات کنم  @News_Hut</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/news_hut/65268" target="_blank">📅 18:16 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/news_hut/65268" target="_blank">📅 18:16 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65267">
@@ -968,7 +968,7 @@ https://trentivo6402.bar
 <div class="tg-text">‼️
 🇺🇸
 ترامپ: با مجتبی رابطه خوبی دارم. دوست دارم با او ملاقات کنم!  @News_Hut</div>
-<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/news_hut/65267" target="_blank">📅 18:12 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/news_hut/65267" target="_blank">📅 18:12 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65266">
@@ -976,7 +976,7 @@ https://trentivo6402.bar
 <div class="tg-text">کاکولدزاده تر و بی‌غیرت تر از اعراب حاشیه خلیج فارس تاریخ به خودش نمی‌بینه، به مادر این اعراب تجاوز کنی شبش بیانیه می‌ده محکومش می‌کنه
 #hjAly‌
 @News_Huy</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/news_hut/65266" target="_blank">📅 18:08 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/news_hut/65266" target="_blank">📅 18:08 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65265">
@@ -993,7 +993,7 @@ https://trentivo6402.bar
 ترامپ: با مجتبی رابطه خوبی دارم. دوست دارم با او ملاقات کنم
 !
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/news_hut/65265" target="_blank">📅 14:30 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/news_hut/65265" target="_blank">📅 14:30 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65264">
@@ -1011,7 +1011,7 @@ https://trentivo6402.bar
 نمی‌خواهم کسی را خسته کنم، اما من این را شروع کردم زیرا نمی‌توانیم اجازه دهیم که آن‌ها سلاح اتمی داشته باشند.
 اگر من نبودم، اسرائیل وجود نداشت
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/news_hut/65264" target="_blank">📅 14:15 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/news_hut/65264" target="_blank">📅 14:15 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65263">
@@ -1026,7 +1026,7 @@ https://trentivo6402.bar
 <div class="tg-text">‼️
 خوش‌چشم، تحلیلگر صداوسیما: انتقام کشته شدگان رو بخاطر حفظ جان قالیباف نگرفتیم
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/news_hut/65263" target="_blank">📅 14:09 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/65263" target="_blank">📅 14:09 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65262">
@@ -1052,7 +1052,7 @@ Sport100
 برای تغییر زبان برنامه، زبان موبایل خود را تغییر دهید.
 ✅
 ورود به اپلیکیشن بدون فیلترشکن</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/65262" target="_blank">📅 14:08 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/65262" target="_blank">📅 14:08 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65261">
@@ -1075,7 +1075,7 @@ Sport100
 معرفی سایت و اپلیکیشن مل‌بت
 💛
 ورود به سایت مل‌بت (فیلترشکن خاموش)</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/news_hut/65261" target="_blank">📅 14:08 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/news_hut/65261" target="_blank">📅 14:08 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65260">
@@ -1083,7 +1083,7 @@ Sport100
 <div class="tg-text">🚨
 📰
 #فوری؛ نیویورک پست: ترامپ پیش‌بینی میکنه که با رهبر معظم ایران، مجتبی خامنه‌ای که احتمالا همجنسگراست، دیدار خواهد کرد؛ «رابطه بسیار خوبی دارند»!!  رئیس‌جمهور ترامپ در مصاحبه‌ای با «پاد فورس وان» که چهارشنبه منتشر شد، گفت انتظار دارد با رهبر معظم ایران، مجتبی…</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/news_hut/65260" target="_blank">📅 14:08 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/news_hut/65260" target="_blank">📅 14:08 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65259">
@@ -1099,7 +1099,7 @@ Sport100
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gHW3zZc-cNvEHUiGRcFezFQxjaNRJPZWJwEUVaZG5_zbPC3XTt3iCQBJhNopnmPlS7NRCcCllElWct70mJyL7oxw84OV4iqyFNjrJqhsNhu71YBIYEu2UTfv6MlqRkU73g0NnqWnTVIha7_GzGPykyqaXMeTzLDRwOr4HK2dQaybW0ktSHqaI7itBzdP2CxYxdkTBQyJhliURu1FjHZlx3q5B7H8YpDZKGJzC_cqT5R3DgM8sia5HTiF40GH_f0qx9z9wZXPxBLEqlVLr2vdn_gcI9x0gsGQZe_6WAkZQxRSZ5UTmQmi4uQoXf5uitVtZqh65ElsnjY3YMxCFoR6XA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رکنا: آخوندای قم پیشنهاد دادن علی‌خامنه‌ای در قم دفن بشه
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/news_hut/65258" target="_blank">📅 12:22 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/65258" target="_blank">📅 12:22 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65256">
@@ -1111,7 +1111,7 @@ Sport100
 <div class="tg-text">‼️
 وضعیت فرودگاه کویت که گفته میشه مربوط به حملات دیشب سپاهه
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/news_hut/65256" target="_blank">📅 11:46 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/news_hut/65256" target="_blank">📅 11:46 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65255">
@@ -1151,7 +1151,7 @@ Sport100
 </div>
 <div class="tg-text">فیلمی از پهپاد شاهد-۱۳۶ که دیشب به سمت آسمان کویت درحال حرکت بود
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/news_hut/65252" target="_blank">📅 10:54 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/news_hut/65252" target="_blank">📅 10:54 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65251">
@@ -1168,7 +1168,7 @@ Sport100
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">🚨
 حمله سپاه پاسداران به کویت  @News_Hut</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/news_hut/65250" target="_blank">📅 02:49 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/news_hut/65250" target="_blank">📅 02:49 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65249">
@@ -1296,7 +1296,7 @@ GG007
 کانال دربی بت g12 :
 🪙
 https://t.me/+aCbq7yy8QY80NzQ0</div>
-<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/news_hut/65238" target="_blank">📅 20:47 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/news_hut/65238" target="_blank">📅 20:47 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65237">
@@ -1304,7 +1304,7 @@ https://t.me/+aCbq7yy8QY80NzQ0</div>
 <div class="tg-text">🚨
 امتحانات نهایی که قرار بود ۲۱ تیر شروع بشه جلو افتاد و رسما از ۱۳ تیر برگزار میشن
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/news_hut/65237" target="_blank">📅 15:18 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/news_hut/65237" target="_blank">📅 15:18 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65236">
@@ -1362,7 +1362,7 @@ https://t.me/+aCbq7yy8QY80NzQ0</div>
 <div class="tg-text">🚨
 امروز دانش‌آموزای تهرانی در مخالفت با تاثیر قطعی معدل، جلوی وزارت آموزش و پرورش تجمع کردن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/news_hut/65233" target="_blank">📅 12:47 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/news_hut/65233" target="_blank">📅 12:47 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65232">
@@ -1467,7 +1467,7 @@ bitly.uk/connect1xbet
 🇮🇱
 وضعیت عجیب جنوب لبنان پس از حملات امشب و امروز اسرائیل
 @News_Hut</div>
-<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/news_hut/65226" target="_blank">📅 01:32 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31K · <a href="https://t.me/news_hut/65226" target="_blank">📅 01:32 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65225">
@@ -1515,7 +1515,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">‼️
 ایزدخواه، نماینده‌ی مجلس: آخرش که قرار است فلسطین اشغالی را بصورت زمینی آزاد کنیم؛ چرا همین الان تمرین آن را از امارات شروع نکنیم‌؟!
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/news_hut/65217" target="_blank">📅 21:08 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/news_hut/65217" target="_blank">📅 21:08 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65214">
@@ -1540,7 +1540,7 @@ bitly.uk/connect1xbet
 سنتکام: دیشب ساعت ۱۱ شب به وقت شرقی(۶ صبح به‌وقت ایران)، نیروهای آمریکایی با موفقیت دو موشک بالستیک ایرانی را که به نیروهای آمریکایی مستقر در کویت هدف گرفته شده بودند، رهگیری کردند. این موشک‌ها بلافاصله منهدم شدند و هیچ یک از پرسنل آمریکایی آسیبی ندیدند.
 فرماندهی مرکزی آمریکا هوشیار باقی می‌ماند و به حمایت از آتش‌بس جاری ادامه خواهد داد و در عین حال از نیروهای خود در برابر تجاوزات ایران محافظت خواهد کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/news_hut/65212" target="_blank">📅 18:12 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/news_hut/65212" target="_blank">📅 18:12 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65211">
@@ -1641,7 +1641,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">🚨
 🇺🇸
 گزارش سنتکام از درگیری‌های دیشب بین‌ امریکا و سپاه در قشم:  در این آخر هفته حملات دفاعی به سایت‌های رادار و فرماندهی و کنترل پهپادهای ایرانی در گوروک، ایران و جزیره قشم انجام داد. این حملات سنجیده و عمدی در روزهای شنبه و یکشنبه در پاسخ به اقدامات تهاجمی…</div>
-<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/news_hut/65204" target="_blank">📅 11:02 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/news_hut/65204" target="_blank">📅 11:02 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65203">
@@ -1668,7 +1668,7 @@ bitly.uk/connect1xbet
 
 <div class="tg-post" id="msg-65197">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/buBdiEqo78ay_Wd09j_sTk1xhX-uYh57t_OP4BpkK3LYzHoqWAIr7C2FHLZlFkMbZdeBNQLZcaWLOAXTxsrBcxKuuYGT7L6BleytWjGjrLywMjvU1YwL22sa9S7a0Uxl0pG5T_ObW8cNsARwEsXQsa4lbRnCqvKJrfVQNFuBk77l7W0xkcnv8ws_Ucv2i_l-8Lelxtfl4m-SckppzTtCZ4TL10Hn8_L7CFLFw9nrW20LC-phRwy_BFnsIE9eTMAD-aTXtlZ2RwcxfjoHgVVC7RAlsro6M4T4qKNzXEUdAYOsgHACyaYXUO4dAuXRJeaAtAtI6n1O7gXbjhKUZSDnUQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c57vNZO7W_7VwaWDmnQARGWVTY1mrP2iIHGNbzmmcIvfYLBMDrQwanoYaTbq6vhvzBHHA5zKabeHJr3lyZs9t6fs5v2htsBw6a1pZvM9IbfhvdvDWEz0SoIUAHCKtfB7YzN-9CZwsyt2VD34NHZBqg3P59QYPj0C1MlH36DkyAZdA9Nw1jUM3A6oyJEWxqOY04WrQ9jVh1tvmOU8hdLAF_Zz-kgS6DLSUrEqdX-AGAy2VyOv6GT5yGpZ4LvHok5W6OJkROuh2urXeUQDAwE8YiR3EC67TmAsurXwfmK-vkvC7_tN0Xj_cgcDcAhGZ-SuTy8EJevIu_BDlgrUUq5ruw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طباطبایی، معاون پزشکیان: رئیس‌جمهور ‎از خدمت به مردم عقب نخواهد نشست
 @News_Hut</div>
 <div class="tg-footer">👁️ 30.5K · <a href="https://t.me/news_hut/65197" target="_blank">📅 23:04 · 10 Khordad 1405</a></div>
@@ -1725,7 +1725,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">‼️
 لیست قیمت جدید خودرو های مدیران خودرو با ۸۵ تا ۱۰۰ درصد افزایش قیمت
 @News_Hut</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/news_hut/65185" target="_blank">📅 15:00 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/news_hut/65185" target="_blank">📅 15:00 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65184">
@@ -1750,7 +1750,7 @@ bitly.uk/connect1xbet
 شما یه پیروزی بزرگ توی یه نبرد به دست میارید
 ولی اونا میگن شکست خوردید! این واقعاً چیز بدیه برای کشور ما
 @News_Hut</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/news_hut/65183" target="_blank">📅 14:21 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/news_hut/65183" target="_blank">📅 14:21 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65182">
