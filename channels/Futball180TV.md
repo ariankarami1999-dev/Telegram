@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn5.telesco.pe/file/PoUlvBa05GRbPf5Elr3w4_gx1mIswz2U2oMjBLqwSX7n47LgWccWx6r_p3nH2NNjsaBWI_fCpUK4_SQJVV6gvJQ4rE961xHTnl8vk0WLGAfD087BAcY9Bvdiwvcn9G-dTDCSfX4PN4WPyTAiM6KeYZsD5QZn9pi-9DfB0v5qGKHdxw7rqgUioL_SFSuza9GM37h3h2DbhRMg-ZQGzaSb-muhGiLxhuQpkfywUK7jbSWE2GC5rMbLZTv9B9YBjHf3sPtWCFTAwaBwoecJbnHTrlhZSxVJGQlxC_3_WdG8WGnzlPRIRs-HOvZ2SlJz5lcpGATYh4Ki62JDTaUNgOV7xQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 جام جهانی 2026 | فوتبال 180</h1>
-<p>@Futball180TV • 👥 200K عضو</p>
+<p>@Futball180TV • 👥 202K عضو</p>
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-16 03:13:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-16 05:55:40</div>
 <hr>
 
 <div class="tg-post" id="msg-91121">
@@ -305,7 +305,7 @@
 امباپه: به جز هواداران بارسلونا، همه قبول دارند که رئال مادرید بزرگ‌ترین باشگاه جهان است.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/Futball180TV/91121" target="_blank">📅 02:39 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.22K · <a href="https://t.me/Futball180TV/91121" target="_blank">📅 02:39 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91118">
@@ -314,7 +314,7 @@
 ورود کاروان اسپانیا به خاک آمریکا برای WC
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.16K · <a href="https://t.me/Futball180TV/91118" target="_blank">📅 02:23 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.48K · <a href="https://t.me/Futball180TV/91118" target="_blank">📅 02:23 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91117">
@@ -325,7 +325,7 @@
 رومانو: پرز عاشق و دیوانه اولیسه هست و برای جذبش هرکاری میکنه. پرز گفته این بازیکن منو یاد اوزیل میندازه و شدیدا میخوامش
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/Futball180TV/91117" target="_blank">📅 02:20 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.55K · <a href="https://t.me/Futball180TV/91117" target="_blank">📅 02:20 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91116">
@@ -338,7 +338,7 @@
 ؛ فلورین پلتنبرگ خبرنگار آلمانی از علاقه بایرن‌مونیخ برای جذب مارتینلی ستاره آرسنال خبر داد!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/Futball180TV/91116" target="_blank">📅 02:16 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.46K · <a href="https://t.me/Futball180TV/91116" target="_blank">📅 02:16 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91115">
@@ -349,7 +349,7 @@
 رومانو: پرز عاشق و دیوانه اولیسه هست و برای جذبش هرکاری میکنه. پرز گفته این بازیکن منو یاد اوزیل میندازه و شدیدا میخوامش
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/Futball180TV/91115" target="_blank">📅 02:03 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.87K · <a href="https://t.me/Futball180TV/91115" target="_blank">📅 02:03 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91114">
@@ -363,7 +363,7 @@
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.78K · <a href="https://t.me/Futball180TV/91114" target="_blank">📅 01:59 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.19K · <a href="https://t.me/Futball180TV/91114" target="_blank">📅 01:59 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91113">
@@ -377,7 +377,7 @@
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.42K · <a href="https://t.me/Futball180TV/91113" target="_blank">📅 01:56 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.74K · <a href="https://t.me/Futball180TV/91113" target="_blank">📅 01:56 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91112">
@@ -393,7 +393,7 @@
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.67K · <a href="https://t.me/Futball180TV/91112" target="_blank">📅 01:48 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/Futball180TV/91112" target="_blank">📅 01:48 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91111">
@@ -408,7 +408,7 @@
 تیم ملی فوتبال تحت هدایت قلعه نویی دومین تیم پیر جام جهانی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.49K · <a href="https://t.me/Futball180TV/91111" target="_blank">📅 01:40 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.57K · <a href="https://t.me/Futball180TV/91111" target="_blank">📅 01:40 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91110">
@@ -423,7 +423,7 @@
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.84K · <a href="https://t.me/Futball180TV/91110" target="_blank">📅 01:31 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.82K · <a href="https://t.me/Futball180TV/91110" target="_blank">📅 01:31 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91109">
@@ -435,7 +435,7 @@
 موزیک ویدئو کامل شیدا همسر ایرانی مورایس برای جام جهانی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.52K · <a href="https://t.me/Futball180TV/91109" target="_blank">📅 01:27 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.48K · <a href="https://t.me/Futball180TV/91109" target="_blank">📅 01:27 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91108">
@@ -451,7 +451,7 @@
 هرچند رائول به عنوان نماینده ریکلمه مدعی شده که اگر دوشنبه رای بیارن، مذاکرات جدی با این سرمربی آغاز میشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.12K · <a href="https://t.me/Futball180TV/91108" target="_blank">📅 01:24 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.05K · <a href="https://t.me/Futball180TV/91108" target="_blank">📅 01:24 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91107">
@@ -464,7 +464,7 @@
 🚬
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.74K · <a href="https://t.me/Futball180TV/91107" target="_blank">📅 01:21 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.61K · <a href="https://t.me/Futball180TV/91107" target="_blank">📅 01:21 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91106">
@@ -473,7 +473,7 @@
 <div class="tg-text">کارل 18 ساله به دلیل پارگی عضلانی جام جهانی رو از دست داد!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.46K · <a href="https://t.me/Futball180TV/91106" target="_blank">📅 01:02 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/Futball180TV/91106" target="_blank">📅 01:02 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91105">
@@ -484,7 +484,7 @@
 💔
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.44K · <a href="https://t.me/Futball180TV/91105" target="_blank">📅 01:01 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/Futball180TV/91105" target="_blank">📅 01:01 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91104">
@@ -495,7 +495,7 @@
 💔
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.25K · <a href="https://t.me/Futball180TV/91104" target="_blank">📅 00:59 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.97K · <a href="https://t.me/Futball180TV/91104" target="_blank">📅 00:59 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91103">
@@ -504,7 +504,7 @@
 <div class="tg-text">جواب مایکل اولیسه به یک هوادار رئال که ازش خواسته به رئال بیاد:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.68K · <a href="https://t.me/Futball180TV/91103" target="_blank">📅 00:59 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/Futball180TV/91103" target="_blank">📅 00:59 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91102">
@@ -522,7 +522,7 @@ Last dance
 💔
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.03K · <a href="https://t.me/Futball180TV/91102" target="_blank">📅 00:58 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.74K · <a href="https://t.me/Futball180TV/91102" target="_blank">📅 00:58 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91099">
@@ -536,7 +536,7 @@ Last dance
 🐸
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/Futball180TV/91099" target="_blank">📅 00:37 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/Futball180TV/91099" target="_blank">📅 00:37 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91098">
@@ -546,7 +546,7 @@ Last dance
 💔
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/Futball180TV/91098" target="_blank">📅 00:28 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/Futball180TV/91098" target="_blank">📅 00:28 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91097">
@@ -555,14 +555,14 @@ Last dance
 <div class="tg-text">هیچ بازیکن تیم ملی کلمبیا در عکسی که مجبور شدند قبل از رفتن به جام جهانی با رئیس‌جمهور بگیرند، لبخند نمی‌زند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/Futball180TV/91097" target="_blank">📅 00:27 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/Futball180TV/91097" target="_blank">📅 00:27 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91096">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">🚨
 پلی مارکت: صادرات نفت ایران به کمترین حد خودش در ۶ سال اخیر رسید.  @News_Hut</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/Futball180TV/91096" target="_blank">📅 00:22 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/Futball180TV/91096" target="_blank">📅 00:22 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91094">
@@ -576,7 +576,7 @@ Last dance
 انریکه ریکلمه یورگن کلوپ را به عنوان مربی مدنظر خود معرفی کرد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/91094" target="_blank">📅 00:07 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/91094" target="_blank">📅 00:07 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91093">
@@ -588,7 +588,7 @@ Last dance
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/91093" target="_blank">📅 23:56 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/91093" target="_blank">📅 23:56 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91091">
@@ -598,7 +598,7 @@ Channel:
 آمار بهترین بازیکنای این فصل پنج لیگ معتبر اروپایی در این فصل:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/91091" target="_blank">📅 23:54 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/91091" target="_blank">📅 23:54 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91090">
@@ -609,7 +609,7 @@ Channel:
 انریکه ریکلمه یورگن کلوپ را به عنوان مربی مدنظر خود معرفی کرد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/91090" target="_blank">📅 23:47 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/91090" target="_blank">📅 23:47 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91089">
@@ -618,7 +618,7 @@ Channel:
 تاجرنیا:
 آمادگی هر تصمیمی در خصوص لیگ برتر را داریم اما اینکه لیگ را نیمه کاره بگذاریم و قهرمان مشخص نشود این خلاف عدالت است!
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/91089" target="_blank">📅 23:45 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/91089" target="_blank">📅 23:45 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91088">
@@ -635,7 +635,7 @@ Channel:
 😂
 😐
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/91088" target="_blank">📅 23:35 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/Futball180TV/91088" target="_blank">📅 23:35 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91086">
@@ -650,7 +650,7 @@ Channel:
 <div class="tg-text">زندگی در تهران بعد از جنگ خرداد 405:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/Futball180TV/91086" target="_blank">📅 23:18 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/Futball180TV/91086" target="_blank">📅 23:18 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91085">
@@ -663,7 +663,7 @@ Channel:
 موزیک ویدئو کامل شیدا همسر ایرانی مورایس برای جام جهانی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/Futball180TV/91085" target="_blank">📅 23:03 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/Futball180TV/91085" target="_blank">📅 23:03 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91084">
@@ -675,7 +675,7 @@ Channel:
 موزیک ویدئو کامل شیدا همسر ایرانی مورایس برای جام جهانی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/Futball180TV/91084" target="_blank">📅 23:02 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/Futball180TV/91084" target="_blank">📅 23:02 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91083">
@@ -684,7 +684,7 @@ Channel:
 <div class="tg-text">تیم منتخب بازیکنایی که اصلیت فرانسوی دارن!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/Futball180TV/91083" target="_blank">📅 22:44 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/Futball180TV/91083" target="_blank">📅 22:44 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91082">
@@ -693,7 +693,7 @@ Channel:
 <div class="tg-text">مقایسه تماشاگران فینال چمپیونزلیگ 2026 با یه بازی رندوم از ریورپلاته
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/91082" target="_blank">📅 22:39 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/91082" target="_blank">📅 22:39 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91081">
@@ -738,7 +738,7 @@ BetForward.com
 BetForward.com
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/91081" target="_blank">📅 22:38 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/91081" target="_blank">📅 22:38 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91080">
@@ -747,7 +747,7 @@ BetForward.com
 <div class="tg-text">اسکالونی: اصلا منطقی نیست که بگویم من اینجا رئیس هستم و دستور می‌دهم چون همیشه درباره تمام تصمیماتی که می‌گیرم با مسی صحبت می‌کنم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/91080" target="_blank">📅 22:19 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/91080" target="_blank">📅 22:19 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91079">
@@ -761,7 +761,7 @@ BetForward.com
 ◉ 8 گل — کریستیانو رونالدو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/91079" target="_blank">📅 22:13 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/91079" target="_blank">📅 22:13 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91078">
@@ -777,7 +777,7 @@ BetForward.com
 ترامپ: می‌توانید آن را از تلویزیون تماشا کنید. تماشای آن از تلویزیون تا حدی رایگان است:)))
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/91078" target="_blank">📅 21:39 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/91078" target="_blank">📅 21:39 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91077">
@@ -786,7 +786,7 @@ BetForward.com
 رویترز : ویزای آمریکا برای ملی پوشان فوتبال ایران صادر شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/91077" target="_blank">📅 21:21 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/91077" target="_blank">📅 21:21 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91076">
@@ -796,7 +796,7 @@ BetForward.com
 Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom reference image. Young woman sitting in the crowd ata(اسم تیم) home soccer match, filmed by a live broadcast camera.She is seated in stadium chairs, leaned back, looking off to the side with a surprised caught-on-camera expression. She wears a (اسم تیم) home jersey with jeans, casual match-day styling, relaxed pose one arm resting on the chair. The jersey should look like a normal full jersey, not a crop top, not rolled up, not tied. Around her are other fans in stadium seats, blurred. Keep the crowd mixed and natural. Add a scoreboard graphic in the top corner subtle broadcast compression, digital noise, bright stadium lighting, and imperfect live-TV framing Telephoto sports camera look, authentic televised soccer crowd shot, natural skin texture, no smoothing.4K.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/91076" target="_blank">📅 21:20 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/91076" target="_blank">📅 21:20 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91075">
@@ -805,7 +805,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 انریکه ریکلمه: بند فسخ قرارداد ارلینگ هالند کمتر از 180 میلیون یورو است ، اگر به عنوان رئیس رئال انتخاب شوم او به رئال مادرید خواهد پیوست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/Futball180TV/91075" target="_blank">📅 20:45 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/91075" target="_blank">📅 20:45 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91074">
@@ -821,7 +821,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 وضعیتم اگه یه سال دیگه ایران بمونم:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/Futball180TV/91074" target="_blank">📅 20:38 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/Futball180TV/91074" target="_blank">📅 20:38 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91070">
@@ -830,7 +830,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 <div class="tg-text">یامال یا وینی؟ مسئله این است.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/Futball180TV/91070" target="_blank">📅 20:26 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/91070" target="_blank">📅 20:26 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91068">
@@ -843,7 +843,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 حالا کانته کسیه که حق دریافت سهمی از دارایی‌های همسرش رو داره. وقتی همسرش اینو فهمید سریع سعی کرد تا درخواست طلاقش رو کنسل کنه ولی دیگه دیر شده بود.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/91068" target="_blank">📅 20:13 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/91068" target="_blank">📅 20:13 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91067">
@@ -876,7 +876,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 👇
 🤩
 @irans_vpn_bot</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/91067" target="_blank">📅 20:13 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/91067" target="_blank">📅 20:13 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91066">
@@ -894,7 +894,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 این پیش‌بینی چند شگفتی بزرگ هم داره؛ از جمله اینکه ژاپن تو مرحله یک‌هشتم نهایی برزیل رو حذف می‌کنه و پرتغال هم در مسیر رسیدن به فینال، آرژانتین رو کنار می‌زنه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/91066" target="_blank">📅 20:05 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/91066" target="_blank">📅 20:05 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91061">
@@ -917,7 +917,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 کلوویس در سال ۲۰۱۵ درگذشت، اما میراث او زنده مانده است. امروز، پسرش هنوز در سراسر جهان سفر می‌کند و کلاه و جام او را که نشان تجاری‌اش هستند، به همراه دارد. عشق واقعی به سرزمین هرگز نمی‌میرد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/91061" target="_blank">📅 19:50 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/91061" target="_blank">📅 19:50 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91060">
@@ -927,7 +927,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 ؛ چوآنگ تنها بازیکن تو لیست 26 نفره تیم کوراسائو هست که در کوراسائو متولد شده و بقیه بازیکنای این تیم توی هلند متولد شدند!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/91060" target="_blank">📅 19:28 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/91060" target="_blank">📅 19:28 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91059">
@@ -937,7 +937,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 🟠
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/91059" target="_blank">📅 19:12 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/91059" target="_blank">📅 19:12 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91058">
@@ -949,7 +949,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 تمام فینال‌های تاریخ جام‌جهانی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/91058" target="_blank">📅 18:40 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/91058" target="_blank">📅 18:40 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91057">
@@ -966,7 +966,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/91057" target="_blank">📅 18:24 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/91057" target="_blank">📅 18:24 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91055">
@@ -978,7 +978,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 <div class="tg-text">ژائو نوسی که هم لیگ قهرمانان رو برد و هم زندگیو..
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/91055" target="_blank">📅 18:19 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/91055" target="_blank">📅 18:19 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91054">
@@ -995,7 +995,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 على فتح الله زاده درباره حركت جنجالى با محمد حسين ميثاقى: چاره‌ای جز این نداشتم که بگویم آبش را بدهید آقای میثاقی بخورد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/91054" target="_blank">📅 18:08 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/91054" target="_blank">📅 18:08 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91053">
@@ -1006,7 +1006,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 کارلو آنچلوتی انتظار داره نیمار این هفته به تمرینات گروهی برزیل اضافه بشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/91053" target="_blank">📅 17:51 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/91053" target="_blank">📅 17:51 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91052">
@@ -1015,7 +1015,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 <div class="tg-text">مسی قراره با این استوکا تو جام‌جهانی دلبری کنه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/91052" target="_blank">📅 17:38 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/91052" target="_blank">📅 17:38 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91051">
@@ -1025,7 +1025,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 رومانو هم تایید کرد بازیکن مدنظر پرز اولیسه است.‌
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/91051" target="_blank">📅 17:20 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/91051" target="_blank">📅 17:20 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91050">
@@ -1043,7 +1043,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 فینال افسانه‌ای جام جهانی ۱۹۸۶؛ جایی که جادوی دیگو مارادونا و هیجان بازی در ورزشگاه آزتکا یکی از دراماتیک‌ترین فینال‌های تاریخ فوتبال را رقم زد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/91050" target="_blank">📅 17:20 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/91050" target="_blank">📅 17:20 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91049">
@@ -1055,7 +1055,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 خوزه فلیکس دیاز: رئال مادرید با تمام قوا برای جذب اولیسه وارد عمل خواهد شد. پیشنهاد اولیه پرز 150 میلیون یورو خواهد بود و اولیسه مطلع شده است که بازیکن مورد نظر رئال است.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/91049" target="_blank">📅 17:17 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/91049" target="_blank">📅 17:17 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91048">
@@ -1073,7 +1073,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 خوزه فلیکس دیاز: رئال مادرید با تمام قوا برای جذب اولیسه وارد عمل خواهد شد. پیشنهاد اولیه پرز 150 میلیون یورو خواهد بود و اولیسه مطلع شده است که بازیکن مورد نظر رئال است.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/91048" target="_blank">📅 17:05 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/Futball180TV/91048" target="_blank">📅 17:05 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91047">
@@ -1084,7 +1084,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 خوزه فلیکس دیاز: رئال مادرید با تمام قوا برای جذب اولیسه وارد عمل خواهد شد. پیشنهاد اولیه پرز 150 میلیون یورو خواهد بود و اولیسه مطلع شده است که بازیکن مورد نظر رئال است.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/Futball180TV/91047" target="_blank">📅 16:59 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/91047" target="_blank">📅 16:59 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91043">
@@ -1098,7 +1098,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 <div class="tg-text">وضعیت بازیکنای تیم ملی نروژ در آفتابِ آمریکا:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/91043" target="_blank">📅 16:56 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/91043" target="_blank">📅 16:56 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91042">
@@ -1114,7 +1114,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 💔
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/91042" target="_blank">📅 16:46 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/91042" target="_blank">📅 16:46 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91040">
@@ -1127,7 +1127,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 یامال به عنوان بهترین بازیکن فصل لالیگا انتخاب شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/91040" target="_blank">📅 16:38 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/91040" target="_blank">📅 16:38 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91038">
@@ -1142,7 +1142,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 اوسیمن به بارسلونا پیشنهاد شده است با این حال فعلا جایی در برنامه‌های بارسلونا ندارد و اولویت آلوارز است.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/91038" target="_blank">📅 16:34 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/91038" target="_blank">📅 16:34 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91037">
@@ -1151,7 +1151,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 <div class="tg-text">اگه یه زمانی حس ناکافی بودن داشتی به این فکر کن که برای سقف برنابئو 600 میلیون یورو هزینه شده!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/91037" target="_blank">📅 16:21 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/91037" target="_blank">📅 16:21 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91035">
@@ -1160,7 +1160,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 <div class="tg-text">رافائل لیائو: من یک چالش جدید خارج از سری‌آ می‌خواهم. لیگ جزیره را با دقت زیادی دنبال می‌کنم. اگر فرصت بازی در آنجا یا لالیگا را داشته باشم، واقعاً خوشحال می‌شوم چون استعداد من در آنجا شکوفا خواهد شد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/91035" target="_blank">📅 16:04 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/91035" target="_blank">📅 16:04 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91034">
@@ -1179,7 +1179,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/91034" target="_blank">📅 16:03 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/91034" target="_blank">📅 16:03 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91033">
@@ -1190,7 +1190,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 🔥
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/91033" target="_blank">📅 15:40 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/91033" target="_blank">📅 15:40 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91032">
@@ -1200,7 +1200,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 فوری و رسمی: اندی رابرتسون رسما از لیورپول به تاتنهام پیوست.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/91032" target="_blank">📅 15:38 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/91032" target="_blank">📅 15:38 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91031">
@@ -1213,7 +1213,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 ؛ در جام‌جهانی فعلی، ۹۸ بازیکن متولد کشور فرانسه حضور دارند که فقط ۲۳ نفر ملیت این کشور رو دارن و برای خروس‌ها بازی می‌کنن
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/91031" target="_blank">📅 15:20 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/Futball180TV/91031" target="_blank">📅 15:20 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91030">
@@ -1230,7 +1230,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/Futball180TV/91030" target="_blank">📅 15:01 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/Futball180TV/91030" target="_blank">📅 15:01 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91028">
@@ -1245,7 +1245,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 جسیکا توگا، دوست‌دختر سابق وینیسیوس جونیور: «بازیکنان سیاه‌پوست همیشه از نژادپرستی شکایت می‌کنند؛ اما همیشه زنان سفیدپوست و بلوند را ترجیح می‌دهند. هرگز با زنان سیاه‌پوست رابطه ندارند. چرا اینطور است؟»
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/Futball180TV/91028" target="_blank">📅 14:55 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/Futball180TV/91028" target="_blank">📅 14:55 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91027">
@@ -1264,7 +1264,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 اگر دوباره سایه جنگ بصورت جدی روی کشور آمد باید پیش‌دستانه پتروشیمی‌ها و زیرساخت‌های منطقه را بزنیم!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/Futball180TV/91027" target="_blank">📅 14:45 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/Futball180TV/91027" target="_blank">📅 14:45 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91026">
@@ -1281,7 +1281,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/91026" target="_blank">📅 14:40 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/91026" target="_blank">📅 14:40 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91025">
@@ -1305,7 +1305,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 #فووووووووری؛ روزنامه تلگراف: هدف فلورنتینو پرز جذب مایکل اولیسه هست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/91024" target="_blank">📅 14:24 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/91024" target="_blank">📅 14:24 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91023">
@@ -1319,7 +1319,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 ؛ روزنامه تلگراف: هدف فلورنتینو پرز جذب مایکل اولیسه هست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/91023" target="_blank">📅 14:21 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/91023" target="_blank">📅 14:21 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91022">
@@ -1328,7 +1328,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 <div class="tg-text">هادی چوپان هر چند وقت یه بار هوس فحش میکنه یه استوری میزاره
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/Futball180TV/91022" target="_blank">📅 14:18 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/91022" target="_blank">📅 14:18 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91021">
@@ -1345,7 +1345,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 میخوایم با ۳ برد به عنوان صدرنشین صعود کنیم!🫪🫪
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/91021" target="_blank">📅 14:11 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/Futball180TV/91021" target="_blank">📅 14:11 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91020">
@@ -1362,7 +1362,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 ویدیو منتشر شده از زمین تمرین کمپ تیم‌ ژاپن در مکزیک که کیفیت خوبی نداره و باعث‌اعتراض شده!!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/91020" target="_blank">📅 14:02 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/91020" target="_blank">📅 14:02 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91015">
@@ -1411,7 +1411,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 🙁
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/Futball180TV/91013" target="_blank">📅 13:00 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/Futball180TV/91013" target="_blank">📅 13:00 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91012">
@@ -1424,7 +1424,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 |یوونتوس درحال مذاکره پیشرفته با اتلتیکومادرید برای جذب سورلوث است. در صورت خروج این بازیکن، احتمالا ولاهوویچ که قراردادش با بانوی پیر به پایان رسیده، راهی مادرید میشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/Futball180TV/91012" target="_blank">📅 12:55 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/Futball180TV/91012" target="_blank">📅 12:55 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91011">
@@ -1435,7 +1435,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 افشاگری نیکبخت‌واحدی از پشت پرده بازداشت مجاهد خذیراوی در پارتی شبانه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/Futball180TV/91011" target="_blank">📅 12:40 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/Futball180TV/91011" target="_blank">📅 12:40 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91010">
@@ -1451,7 +1451,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 شیدا مقصودلو شیطون شده و میخواد با پولای ددی مورایس موزیک ویدیو جام‌جهانی منتشر کنه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/Futball180TV/91010" target="_blank">📅 12:20 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/Futball180TV/91010" target="_blank">📅 12:20 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91009">
@@ -1465,7 +1465,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 ؛ روزنامه الکاس‌قطر به نقل از ناصر خلاف: ویتینیا و نوس به هیچ‌وجه فروشی نیستند و رئال‌مادرید باید قید این بازیکنان رو بزنه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/Futball180TV/91009" target="_blank">📅 12:15 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/Futball180TV/91009" target="_blank">📅 12:15 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91008">
@@ -1494,7 +1494,7 @@ Ultra-realistic TV broadcast screenshot, identity preserved exactlyfrom referenc
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/Futball180TV/91007" target="_blank">📅 12:00 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/Futball180TV/91007" target="_blank">📅 12:00 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91006">
@@ -1510,7 +1510,7 @@ Channel:
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/Futball180TV/91006" target="_blank">📅 11:44 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/Futball180TV/91006" target="_blank">📅 11:44 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91005">
@@ -1526,7 +1526,7 @@ Channel:
 عادل فردوسی‌پور با انتشار این ویدیو نوشت: و شما ادامه خواهید داشت...
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/Futball180TV/91005" target="_blank">📅 11:35 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/Futball180TV/91005" target="_blank">📅 11:35 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91004">
@@ -1538,7 +1538,7 @@ Channel:
 عکس تیمی جالب نروژی ها قبل از سفر به آمریکا به سبک وایکینگ‌ها
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/Futball180TV/91004" target="_blank">📅 11:24 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/Futball180TV/91004" target="_blank">📅 11:24 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91003">
@@ -1555,7 +1555,7 @@ Channel:
 ❤️
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/Futball180TV/91003" target="_blank">📅 11:20 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/Futball180TV/91003" target="_blank">📅 11:20 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91002">
@@ -1571,7 +1571,7 @@ Channel:
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/Futball180TV/91002" target="_blank">📅 11:04 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.4K · <a href="https://t.me/Futball180TV/91002" target="_blank">📅 11:04 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91001">
@@ -1591,7 +1591,7 @@ Channel:
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/Futball180TV/91001" target="_blank">📅 10:42 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/Futball180TV/91001" target="_blank">📅 10:42 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91000">
@@ -1603,7 +1603,7 @@ Channel:
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/Futball180TV/91000" target="_blank">📅 10:20 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/Futball180TV/91000" target="_blank">📅 10:20 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90999">
@@ -1620,7 +1620,7 @@ Channel:
 عملکرد دیدنی پسر زیدان در چارچوب خط دروازه الجزایر در آستانه جام‌جهانی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/Futball180TV/90999" target="_blank">📅 10:07 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/Futball180TV/90999" target="_blank">📅 10:07 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90998">
@@ -1631,7 +1631,7 @@ Channel:
 Channel:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/Futball180TV/90998" target="_blank">📅 09:53 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/Futball180TV/90998" target="_blank">📅 09:53 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90997">
@@ -1659,7 +1659,7 @@ Channel:
 وضعیت مردم ایران در شب‌های جام‌جهانی:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/Futball180TV/90996" target="_blank">📅 09:40 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/Futball180TV/90996" target="_blank">📅 09:40 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90995">
