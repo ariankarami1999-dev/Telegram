@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/Lj2z2tSBUWdVxwOQD6DACJ_Q22EHV0xuwlw0LdzWsIHQTfOIq5Jv2AI0KdWpcEnmTLT2x94JEBHtOn2ld7hZA89HfdUIMmJeANvkA2O5krFU4fhQOctzQyw0HZ1LVZX5fHlhV-MYqrKXso7uV9FBWfZLEv0ITph1wUJsAil0HufrHJBHf1nzoS7mgyddfZpK8Id4jFgBsZc0_MFkVbP3j2wUrX0bmDb8-2cIkeHIVnJ3WehEhfzPruxB-3-bhuJPxDdmnFBl5Vq_82eLr0dRsceACEAwXXa5EW12yMulN0_oj22BPrIxp8KKLKTjRNJ8STy3nvYpJ05GUCqQutX4oA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
-<p>@iaghapour • 👥 53.4K عضو</p>
+<p>@iaghapour • 👥 53.3K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-16 19:18:04</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-16 20:31:30</div>
 <hr>
 
 <div class="tg-post" id="msg-2658">
@@ -326,7 +326,7 @@ www.doprax.com
 💬
 پشتیبانی و اخبار در کانال ما:
 @dopraxcloud</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/iaghapour/2658" target="_blank">📅 23:29 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/iaghapour/2658" target="_blank">📅 23:29 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2657">
@@ -357,7 +357,7 @@ www.doprax.com
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/iaghapour/2657" target="_blank">📅 18:35 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/iaghapour/2657" target="_blank">📅 18:35 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2656">
@@ -387,7 +387,7 @@ CoinGate
 🙏
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2656" target="_blank">📅 17:00 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2656" target="_blank">📅 17:00 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2655">
@@ -458,7 +458,7 @@ CoinGate
 
 <div class="tg-post" id="msg-2648">
 <div class="tg-post-header">📌 پیام #94</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Tqiu1-UVjQWj_Q744JtoYtIh8fhJS4zsvf_izOUF8ibaNxCh_YqQfaBCWa8KMzvXL5CAPBt-m23Fgw9mnED7cuwTdOeTAwsWS0t-5V4AGTlTpRD2ecQdG9BpSlv2dhpT6yd7hiGGgXrBs8wHZFeKgep1ggYsEFZoa4KIYuSC5p7GqzGqsOuyYVCZkCKus08oZPUD9RioH9DwXd5iMM-P84jVRgDPuLOUbwixSDZbtCH1JUVQEv-N4LeJnMDF40UmZgEnbiu3lai8fxplhnoJVXVXn9lZLzGhOUfWvM3Z0O5v5ATBWb1Q3E7wZU7hS0oxxwW2tuFuXVeakOLwXSekhw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CayRV6HnMwrpBTuvBXd1nnSOP4b5zfOKJ9P6o6dNNJMlg2cnDRulm4v58uEzuszQYiJSVJZ__qAoqdi4UipV9ENWK2bqApvEacYBEN2OcamaZ4cxVXhDGsHzRfjCdqB3LpOHbTswE7PkcIEEUUEpevHkICUh_Y_M8fMi_cTnvx6JjsTjrHFku6bHW5JJLxiqH8_StgdKZQWy2ZVsiPPI_cNDU12JCa4a36YryTpWOQ6SWEc-kxJEOGmjtP1-QjHMgKMtI2IruMPEg3VJc_fYbMAc06WJ-4Ww3AtjvYz4ezps40NRWxe4yQ2n_NTQbq1m6SRzw5TnDz_lg8FLDG76NA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی GenyConnect؛ جایگزین مدرن v2rayN برای مدیریت پروکسی
 نرم‌افزار GenyConnect یک کلاینت تونلینگ و VPN مدرن (با کاربردی شبیه به برنامه محبوب v2rayN) است که با تمرکز بر عملکرد بالا، حریم خصوصی و کنترل دقیق ترافیک طراحی شده است. ویژگی مهم این ابزار، وابسته‌نبودن به یک پروتکل خاص است؛ به این معنی که می‌تواند به عنوان یک بستر یکپارچه برای موتورهای مختلف تونلینگ عمل کند.
@@ -477,12 +477,12 @@ CoinGate
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/iaghapour/2648" target="_blank">📅 21:33 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/iaghapour/2648" target="_blank">📅 21:33 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2647">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jjoKxjMB3VaCopLiQh43xV5S0tL6ox4OKgM1co4z3WxpR3IimW99KmugGntzEJ7FSQDcYOr-TOfW-6o8fzM8plblWJ4C9vfDLQA_GVIyZTthzR12I8sFAGKIcD0tf4KYvNtzGMBHS3Wx9UFRELFn1epaaxnZXQLQI5fgOLWROViNWOhJf7QQ6DcR0LODZEWBDl8g0LtvHSdRoUOeoowEB2bP3_w5M4HwEHLsxrUNiupeB-eVdGCbQx-q_kZkX_31yEMi-NbRgK_jgKEOyuMXXmOAct1uMvdcN0z9rfdOnl0Ezl3kYysfnP1IXYtqvb42luI4VqX7_zRE0USzxuejOA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H-ItSM9_YvFNNgZ9bc6dlH7Ryzki7CJoJXOu2_MD1z5UuAH9gNASYgnHpfpyt78ZO_zc7_nGJve6_c7nRMaCAZ6yXBwYiLGhHihTcVhQ4ELMDQXWS7bNIg5WbWtgUcnYLsdrtptL12GeZgfupwSRgA7BZclNmGjp-eBwDT3yVLY88uDcuhEVwBkrgOADzMdmbfZMfG0W6O_CTNnHade-j4C5Xf-PUvWYmtOYIS891UYBLpjlTV926Tc0pP78C6C8Ey7rpq8OoRsc9mfl_HiIM85PhL85KiiqvN_esNMvQJqw1lBC3Z_rXOvPY7ebXCODxzScpWT6y5e9Um90QSEKlQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 تون‌کوین به (Gram) تغییر نام می‌دهد!
 پاول دورف در کانال رسمی خود خبر بسیار مهمی برای کاربران و سرمایه‌گذاران شبکه TON اعلام کرد. بر اساس این اطلاعیه، ارز دیجیتال بومی این شبکه قرار است با یک ری‌برندینگ بزرگ، نام فعلی خود را کنار گذاشته و به نام اصلی و اولیه‌اش یعنی Gram تغییر کند.
@@ -501,7 +501,7 @@ CoinGate
 این ری‌برندینگ تنها یک تغییر اسم ساده نیست، بلکه به گفته دورف، راه را برای اتفاقات مهم بعدی هموار می‌کند و قدم چهارم از یک برنامه ۷ مرحله‌ای برای «عظمت دوباره بخشیدن به TON» است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/iaghapour/2647" target="_blank">📅 21:24 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/iaghapour/2647" target="_blank">📅 21:24 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2646">
@@ -525,7 +525,7 @@ CoinGate
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/iaghapour/2646" target="_blank">📅 16:07 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/iaghapour/2646" target="_blank">📅 16:07 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2644">
@@ -572,7 +572,7 @@ CoinGate
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/iaghapour/2643" target="_blank">📅 19:33 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/iaghapour/2643" target="_blank">📅 19:33 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2642">
@@ -597,7 +597,7 @@ CoinGate
 این آپدیت با رفع خطاهای ناگهانی و بهبود سیستم امنیتی Windows Hello، تجربه بسیار روان‌تری ارائه می‌دهد و در ژوئن ۲۰۲۶ به‌صورت خودکار برای همه کاربران فعال خواهد شد.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/iaghapour/2642" target="_blank">📅 20:25 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/iaghapour/2642" target="_blank">📅 20:25 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2640">
@@ -623,7 +623,7 @@ CoinGate
 
 <div class="tg-post" id="msg-2637">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/iaghapour/2637" target="_blank">📅 22:55 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/iaghapour/2637" target="_blank">📅 22:55 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2636">
@@ -753,7 +753,7 @@ CallofDuty.com
 گزارش این روزنامه نشان می‌دهد که جهان در حال تماشای انزوای دیجیتال جامعه‌ای است که شهروندانش برای دسترسی به ابتدایی‌ترین حق ارتباطی خود، ناچارند هزینه‌های سنگین روانی، مالی و حتی مهاجرتی بپردازند./ دیجیاتو
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/iaghapour/2627" target="_blank">📅 16:02 · 02 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/iaghapour/2627" target="_blank">📅 16:02 · 02 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2625">
@@ -2056,7 +2056,7 @@ IRCF
 
 <div class="tg-post" id="msg-2540">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ntpiNs7D5jfDTVAJGo9T_LipyFGO28T46M4SNxTSNXMk5RknHKULhmJvlf8VMVGw2A9lX-J_F8BxTDkyKZJwCPaRyJ4XGAd10AjNmWjnftJqMEizjycBdDa5V3XqQIkSGdKTbj7JmQEaehVnpH2h1ehkKaGFGrdEEuBR7f5SwgUMQkcxs-ixwhRQuVOSfvThr7C0wmUbrG9_4owRCvzWUbHHbJTaGJ8wsNdETQJtzi3fxATZsdqbsboOMXLzFWmwaG2ghtyjcZiQNH8GYxmo17ApxGRJbGl5BpKn7fmGbG5YRjZRBReRF0q3HZ4O_-wM_gIAoRTDh25cdlHBTUBDHQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mt-u0uM89yrXrGxK2HW2twFs_jjPOdVoLEQi0QVB02eFmYq7FPQCcDoFhsxtpT5b4mNPED-SZddTRGkN7WKLzgYylZNp-hCoRiPeRUubjEMzDdRBtJfqTnq7TN-1F6qpReLLFLiGxGaLEWgNf3htZ47Vv7pv2HF2kUi50sf2GZqqdKkb8KdARRtrOT3KuNInnmPPtAjr8CZtIjjAEA4CxVrq6VVuTcFFyXGmCi7pR54NWImqDVlZMy0wGUHDAevzGT6pVffU1-v1H2R2Hc1rDLK1YafGBHS9zyKWm7lhR1NGlzArEJJdUiZa3a3jnAvtkkIW-tasVcr4GnJsY0IJFQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⁉️
 جواب به سوالات پرتکرار شما + بهینه ترین روش اتصال با پروتکل DNS
 🔹
@@ -2085,7 +2085,7 @@ IRCF
 
 <div class="tg-post" id="msg-2537">
 <div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/npI1a6tvplcoxdxvBDpgLfaIRoe86r8rmLaouAruwlx6ozEBBnIrDjmP988Im0zzl84bKokeBMjLL3msrkajd9Ur5E4TJaqUURskEV8K4KekmeRQ54DZyrOU7UnEVyOHZO54y2i9bWlYfxhRp1qM86wtXIWEhXqx2tx4w4cZ8-gKM4NOhp1_xisDxWLF2Zpcn7H0pkfflBTYrjPu0Yw7Z-wrFlcF2TAwmEUAEbVeEJygEJV2TIh2rNqRZ8i7S0N1VeZALF0zumEMWAmw6IPcwCI3J3GG_F5BJ_sildC8PFSWJFVpHKuVH5to1Jre9ga5kCu2MBcsQQ9ZgHY6fyqgyQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X5CjRorCNXjotNWf6T3FI6o8wj7Mrvl1rW76QNvVEeE1jNryFLMQZaHp3fJmNH8vtkOk00X4TBI4PQ3fSUaOcIUejhLl0RtpGNL31JhPWOUE5Y91H5X1FHarfYa69NoQgGfKQ5BayumjBc5j7N1MNyeGioWh7GhL3q5wctND3i1WO-UpqCorY-WjMO3bXUUH_U2IjSwZ8s6vjOdaU-qXp8A8YyRBd1YMKvhf_2WEnJgb0xrBsP4Oej4bDtpoA0fF9LKtvwtXdSLEsRJAWWS2ngbu0Q3iIbjV_a1JJjNQQ_o12_IBQtMYaKukzDkhw_ZIJrT7c40LnlrZiyrVy_jYow.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 درخواست ملی کردن کامل اینترنت فقط برای طرفداران نت ملی!
 🔹
