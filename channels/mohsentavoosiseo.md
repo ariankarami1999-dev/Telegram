@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-16 22:15:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-16 23:34:57</div>
 <hr>
 
 <div class="tg-post" id="msg-706">
@@ -305,7 +305,7 @@
 <a href="https://cdn4.telesco.pe/file/6a993e8989.mp4?token=TBKR_QL-ToaIGyjvDnuJTwNXzkYCk6Fxy9kBWasRJGJucckD6AckDojlcIx-sWyiR-3_6djKQNji4hcRPcsMTNNBzkvDmeQUMOOiDvngS3Nqb5Yf2UMd8rvymPN0Ov4gEoxv29uwyF512DA1C5aQ02TJOe-2fPFzCJGokYg7Xq4amC7BpoGosDBVqbITyHKso9avosMbE5aenPajCt5G2UXa3ggqXf5ThnrpzsGR0A4DSAk67cGoULIyyn9N8siLsGM3COOM5IHLapXrRFSudotYwF4UETKVnuMmTldGqbdQEBmtAvwRNGowScURwlFDWfK0r0HOP8oMOKRDb0h0XQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حالا که بحث مقایسه مترو ها شد جا داره بگم، مدیونی اگه به ایران بگی جهان سوم.</div>
-<div class="tg-footer">👁️ 1.47K · <a href="https://t.me/mohsentavoosiseo/706" target="_blank">📅 11:41 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.48K · <a href="https://t.me/mohsentavoosiseo/706" target="_blank">📅 11:41 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-705">
@@ -335,7 +335,7 @@
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/COSKJXpwqeUJ6vt3E4i9FGew56Afdq1y6NWM-_Is55TslzGRsBbMYnJtZdAUgvgH-znAhL039LLdHfAUmofk-sWF3NywoiBdD3wc554iHDLfc-ywDmXKVq8uVmx0-TZ1VYFcJsReqYaLmn54x498pRIyih1ysneHEIRtpAVVXgJP7qAvh_ItmoDGpLqGdoGrFTnLxoOnGGIZatls8TyuwZiLvnj3zvHm0PmCFcnI7_L4i8J92dF0edRFFyVTPWaqFSBmX67khqMZiE1-LtDpGR_7A21Fmfp8iOFxbPhmVjHV3LCU3JxtSgsM_gfB9NVxS2iQeTmCioczXryK-iGW4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مسکو</div>
-<div class="tg-footer">👁️ 1.45K · <a href="https://t.me/mohsentavoosiseo/701" target="_blank">📅 11:23 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.46K · <a href="https://t.me/mohsentavoosiseo/701" target="_blank">📅 11:23 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-700">
@@ -706,7 +706,7 @@ MB یعنی مگابایت
 ✅
 باعث کندی  با وی پی ان  یا از خارج از ایران یا زمانی که اینترنت بین الملل وصل هست یا اگه هاست خارج باشه، نمیشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/mohsentavoosiseo/657" target="_blank">📅 00:39 · 08 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/mohsentavoosiseo/657" target="_blank">📅 00:39 · 08 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-655">
@@ -772,7 +772,7 @@ X.AI
 سه هیچ به نفع انتروپیک(شرکت کلاد)
 سطح این ویس مبتدی هست. بسیار مبتدی.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.02K · <a href="https://t.me/mohsentavoosiseo/649" target="_blank">📅 21:32 · 06 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/mohsentavoosiseo/649" target="_blank">📅 21:32 · 06 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-648">
@@ -837,7 +837,7 @@ https://t.me/mohsentavoosiseo/623
 چه قبلا قسط دادید چه قبلا اصلا پرداختی نداشتید، سعی می کنیم با شرایط فعلی شما در این شرایط ایران، بتونید تهیه کنید: @mohsentavoosisupport
 ✅
 کسانی که قسط دوره داده بودند و مهلت تعیین کرده بودیم و قرار بود قیمتشون افزایش داشته باشه،…</div>
-<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/mohsentavoosiseo/642" target="_blank">📅 17:47 · 04 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 3.66K · <a href="https://t.me/mohsentavoosiseo/642" target="_blank">📅 17:47 · 04 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-639">
@@ -943,7 +943,7 @@ https://parspack.com/cdn</div>
 <div class="tg-post" id="msg-626">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">پست های بالا ویرایش شد. دوباره ببینید. تو اپ های داخلی هم برای کسانی که اینترنت ندارند بفرستید شاید مفید باشه براشون.</div>
-<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/mohsentavoosiseo/626" target="_blank">📅 17:09 · 21 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 2.89K · <a href="https://t.me/mohsentavoosiseo/626" target="_blank">📅 17:09 · 21 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-625">
@@ -988,14 +988,14 @@ https://parspack.com/cdn
 راستی میرور و sync نیست! یعنی هاست داخل من عوض شه خارج نمیشه. اگه فروشگاهی باشید سبد خرید و سفارش های هاست خارجتون با داخلتون هماهنگ نیست. من روش هماهنگ رو بلد نیستم. برای من جداست. اهمیتی هم برام نداره.
 اگرم فروشگاه باشید اکه بتونید سفارش هایی که با وی پی ان و بی وی ان مدیریت کنید هم کار تمومه. اکثرا دسترسی از خارج رو برای گوگل میخوان و سینک بودن براشون مهم نیست. ملاک رو میتونید دیتای ایران در نظر بگیرید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/mohsentavoosiseo/623" target="_blank">📅 16:51 · 21 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/mohsentavoosiseo/623" target="_blank">📅 16:51 · 21 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-622">
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">از عادی سازی نکردن دی، رسیدیم به اینکه چطوری درامدمون رو در حد بقا حفظ کنیم تا به شرایط عادی یک بار برای همیشه برسیم...
 ادامه موارد زیر جهت کمک هست. دست و دلم به پست و تولید محتوا نمیره. ولی میدونم با همین چند تا پست ممکنه کار چند نفر راه بیفته.</div>
-<div class="tg-footer">👁️ 3.98K · <a href="https://t.me/mohsentavoosiseo/622" target="_blank">📅 16:47 · 21 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 3.99K · <a href="https://t.me/mohsentavoosiseo/622" target="_blank">📅 16:47 · 21 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-620">
@@ -1149,7 +1149,7 @@ pinned «
 ⁉️
 نرخ تبدیلش بالاست؟ درسته. این برمیگرده به استراتژی تحقیق کلمات کلیدی شما.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/mohsentavoosiseo/601" target="_blank">📅 17:38 · 03 Dey 1404</a></div>
+<div class="tg-footer">👁️ 3.87K · <a href="https://t.me/mohsentavoosiseo/601" target="_blank">📅 17:38 · 03 Dey 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-600">
