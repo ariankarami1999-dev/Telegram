@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ارسال پیام:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن. اینجا بعضی ازچیزهایی که می‌خواستم ببینم رو همونجوری که می‌خواستم بهم نشون داده بشه می‌گذارم.استوار بر حمایت‌های مردمی:ماهانهvhdo.nl/patreonیک‌بارهvhdo.nl/paypal</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-17 18:19:09</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-17 19:37:35</div>
 <hr>
 
 <div class="tg-post" id="msg-75990">
@@ -302,7 +302,7 @@
 توییت سخنگوی کمیسیون امنیت ملی مجلس شورای اسلامی
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/VahidOnline/75990" target="_blank">📅 18:12 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/VahidOnline/75990" target="_blank">📅 18:12 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75989">
@@ -316,16 +316,16 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/VahidOnline/75989" target="_blank">📅 18:04 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/VahidOnline/75989" target="_blank">📅 18:04 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75984">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/KauOIoIwIUKF8PpSx4irAHCkO4JR5MoG_GXySj0qOadexX8_XbfOHPYJSn9hwAMpjynEQWVnJkccPPHcsbJlwKsJNJ2hfNclqO7PcoB57YqmAKVsIHqD3lr8SqXeAfqRDpqI1odwr0e8g6BJJUyQ8qmRgokdMMOM9lGcC3fv3HR4n9gIGyZuMJxex5WCwU59yynRoLWvp3Rdgx5FoZ_JPrXIN9Hl1gJa-kTdxVAo_nsvZYEqn1SZ1eadDGYRcDKdvuRlCUE_ZnhxNtPeMa0c7V_Q7LE0Op98z9TRi3pwvZPjC2mHygkKxUA7hSmet11S2HxjJqA09vB-pY5YLZOwLQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/fgh8ak7i2HwvosRdsy3bj1bXCRsCpB6Ybw1TtuBk9iOypb0RTyJ5HroqZZnQN1UT0SrBZvNsMexcqvkR2zclpmZetnxfTuMQTuQAkH6JtjcxYJ6ZGUDRf8zwa5tWjFjMEVtz4Gi-2Z6eBEvhpvZARavwsdvJvnRX1vYGtMJ7t5pqPa_dCSIT7Z2FTQJ-jH1DpM7MD5jdKq75OWsYCmpyhScUqUXTQy0kOhaBI-wo7Ubxp4Lc_s2filqNPZ5UY2rd3y_G-2jJcQzLD8cMvBNFtY1-JTQHLKvo26ZluSTS_6BcTuFDoInTNVD7DtJRhuaGBU4mOlafgeRWAvEyEPa5Fg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/vRIDaFaIAlo6ZjRERWUrHezhoKwpdOltXFpvKWPn88IvKTwUy4fc6GoZRl9Q-M62Rq_9S2VqXrr_cAKSyvKadFdOet4jg7H__3rTXX_braUkN1bKJnz_w8_6EAhOsgiN3kkR8eOWL9z9rL-tdQy-IbwV0e_Qmmlyxc6zf9KD8gnTWYP96vCVO3cu037AJygtgsjk93bbSK6BfpLBnwz_r4gWihKVlIKCDH5lKwzCO8hbioGZ3z5l8jdk3v_ZASlLPxCqwClKR5_nq2OqwrDED2UMTNHkM-gldqjP9BuPn0aSK3Xvc90TXUo-w_E9JpmqfCT8ZFg3gbcsYL9vrP55Lg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/rRDfoCo0GQOGANe63TtrZXfUo9fmARMfW4MWkqKjYE-9m3r3llD3WonAwxSo3fN_doh4P5FeM3Li0www6X4QOGZpfN9VaeEddYF45NGXy-ax-SbcUqX2wqy6qjANYNvW7oQdiosWkuYsfSCoh6ac3Qh3-iD9XPs3ko81-ZKdccfgk-3rY0KRl0WVJcTPRenuyhuwEwb06VIyyP5B7CZbohNwc7CZNtFm3_hzLSUIrjJ9XfSXk82izm9VhfYgX6Ocm1HwkBrpo0C_spaV8Oe5dwjq34Sk1jFOnQafbyG_SG_tv-dLRV0dlMjCeiVVsz4Ylptow2tm3wzJEGDsctBQRw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/RyGWBdZahKwcwoj8B40SWfOOZYRy5VgsbiuOwoRkcLNcMMcGM5_czypPnBlp6fqBLBRTsxwRf37OC_3IL5KqcycYpOMwaSyPoNKNL7K5TItBLghwMGun2jEKkllAPS1PmEnBtm_GHtFD4QzFf2JLpbIQCwHRBlsFsDMopI0uUuGKCWTJJeQGWApVpeH6dYeHJvxrM1soE8DqoaZMn86g_0U81QWxQNDEhPfFtkk-f3UFQ9p-tAwArEFu0OqkSYBCR78sJP1eRtssKkTByLqDSMffuHGfPqCRJaZOELUrUN8u5YGYT5TUD1ZMiChxchaWKgzk01T-MgNdCbHInP5S5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/nYbH1OitQn5w3xOs0-ZjfJAqmvUhK5qE1rdwO6-Awq1XADDqqjFawc1wzi5ePZ-VtQm4DUMILzJyX_OFhyGnKfz7LZxiu_oxbNVMMcmDGp0lT6wZQ8_U3vlVndTFl6D2nBFcYOKYE59M4YtdmLRA6qMpTnYahJB5WZwwOrGD-hPbSESKf6fRV_eTmVOg8AxNGbhh9PdmVeuj2yleG3e9F8PGmStikaIdlZwW6FvSobk0WjOPwTXXbk2xnQO9HtyvM_fXbtif5UD3c-8bVR3apW66VQgPSEcR2uPjQH4OO5ePuV-Sn9PwCj8tfskCffXHs6Ck7DxdBVVVLlGkG_4X9Q.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">ترامپ: پیش از نهایی شدن توافق، دارایی‌های ایران آزاد نخواهد شد
@@ -343,7 +343,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 53.2K · <a href="https://t.me/VahidOnline/75984" target="_blank">📅 17:58 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/VahidOnline/75984" target="_blank">📅 17:58 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75983">
@@ -363,7 +363,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 56.7K · <a href="https://t.me/VahidOnline/75983" target="_blank">📅 17:53 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/VahidOnline/75983" target="_blank">📅 17:53 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75982">
@@ -378,7 +378,7 @@ iranintl
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/VahidOnline/75982" target="_blank">📅 17:53 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/VahidOnline/75982" target="_blank">📅 17:53 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75981">
@@ -391,7 +391,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 49.4K · <a href="https://t.me/VahidOnline/75981" target="_blank">📅 17:52 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 98.6K · <a href="https://t.me/VahidOnline/75981" target="_blank">📅 17:52 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75980">
@@ -404,7 +404,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/VahidOnline/75980" target="_blank">📅 17:51 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/VahidOnline/75980" target="_blank">📅 17:51 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75979">
@@ -415,7 +415,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/VahidOnline/75979" target="_blank">📅 17:51 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/VahidOnline/75979" target="_blank">📅 17:51 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75978">
@@ -427,7 +427,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 292K · <a href="https://t.me/VahidOnline/75978" target="_blank">📅 05:03 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 304K · <a href="https://t.me/VahidOnline/75978" target="_blank">📅 05:03 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75977">
@@ -441,7 +441,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 309K · <a href="https://t.me/VahidOnline/75977" target="_blank">📅 02:20 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 318K · <a href="https://t.me/VahidOnline/75977" target="_blank">📅 02:20 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75976">
@@ -455,7 +455,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 322K · <a href="https://t.me/VahidOnline/75976" target="_blank">📅 00:44 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 330K · <a href="https://t.me/VahidOnline/75976" target="_blank">📅 00:44 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75975">
@@ -464,7 +464,7 @@ VahidOOnLine
 "روابط عمومی نیروی دریایی سپاه: صدای انفجار شنیده شده از اطراف جزیره خارک مربوط به خنثی‌سازی مهمات باقی‌مانده از جنگ تحمیلی سوم در منطقه بهرگان است."
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 334K · <a href="https://t.me/VahidOnline/75975" target="_blank">📅 22:08 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 339K · <a href="https://t.me/VahidOnline/75975" target="_blank">📅 22:08 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75974">
@@ -476,7 +476,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 329K · <a href="https://t.me/VahidOnline/75974" target="_blank">📅 22:03 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 333K · <a href="https://t.me/VahidOnline/75974" target="_blank">📅 22:03 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75973">
@@ -491,7 +491,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 325K · <a href="https://t.me/VahidOnline/75973" target="_blank">📅 20:27 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 328K · <a href="https://t.me/VahidOnline/75973" target="_blank">📅 20:27 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75972">
@@ -505,7 +505,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 310K · <a href="https://t.me/VahidOnline/75972" target="_blank">📅 20:03 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 313K · <a href="https://t.me/VahidOnline/75972" target="_blank">📅 20:03 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75971">
@@ -517,14 +517,14 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 284K · <a href="https://t.me/VahidOnline/75971" target="_blank">📅 19:56 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 287K · <a href="https://t.me/VahidOnline/75971" target="_blank">📅 19:56 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75969">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/jqJ_XnIGxi0beE3eDcppS1YrsJ2goTXsuSAQ25d7bSEalh7QCBqGQy5Y-yXbkyxpSp3P9kf0G39ASfDgQXafmUaNvYicMYlM9RAD9A8XvlKkk0AG5ICIv3zDvbwbCSyDlhPJBny_4C9zV1Bs-cm2NhgOJR8ih09NOSL6Tx-092le-S0uoj8tHGWN-93dsvDbAsjOOnDGZrtZ1cCXqHOzY8iqE15Id7KVFyrMPxKD883ygkgq5r-lWXFI62ILenrXXWzPhy--qJpu4YR6NPLdeC6Ytk85st_4Gk95zDDnZSKyaGyqg0XwYzEPiLNoDePulPS2SYVgZ5rYN63CvVB2Tw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/S6QV5UWQxzHbqMQMOpdxRtn98qCyv46lZwZdQUQjzd3FMvQmX_1wuGLycfm7_Qpgg4D7Q-1lgJneFuxdLy1LCuKQwwjQEG9GfgtIl5hgsFZc72kLTmz9Yn4Hap8IX3S7hdCRXpifyc7xkQB6pWGtSQXTFYnJ_TRApp4pDrZqjPNwuyNGWe-eP7ZMCNdNBVLLeg2WkR9-koua1aB_kikJuSNH7NORmhYayCS3kO0I2F3SyFLi5jUpTnNLquHLdBk3DRykyzZkgstaeLrsvtoqwGA_ao9utIWf_w0fyjq5jw21viE-1zeP_bC0n0HKqkA749h01NSKGvwut5sd6MmFSA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/OXh6Bn5oYv_6ZGOEUNWUp28hBlAr0ZdcvtquM4OuQOkSK_vLBpE8bbUEM3ZPCjtzPKrZCmKjGYQcgnKV8PndEbv58mLo73VYTzMdLrIgHTh7WtPKCF7s3Qh_93vPLodWxZn_c0y8YgyKgEcfgi7F_Wx1ALRjk1KhLaBpzPmGyld1P1YWeWGex4z8fQSMWpvp2u9thrmyMmyENY1JmoGR1z8AV5vWj1cLXdUrDcWnD4ePFCmSBYN-M-fhtRKLPSoI9yj2fLNYseLeS0musC7aLfuByJpDbt3NWx5iskFh19JAsAFSZe_7fWhDH6t8-0kgXu8enHUFw909_QqS-YnEug.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/lXy-ZW2pxT_HFt-KcqZ8PG9zfILLRhXq1laojyRIMUqWO8H-4xdNDVumej3_VJWFgvVzpYjDCS52WFrSHpgElk1WOJ7Hq_8m5CWtx6qPf-duKsToaO_PWcpXGX4s_HsFCne8Ejih2mBsgdcMpPUfPP5a-yDRnsSB3sHkbqDyBd7-LXBC5t--VEQSNXR8gd-o8zxyTYGZ1DoKmAXIUaHs0r9gVDWfVwQ35ATu92GgCL0WwIYZNLLcUY0ZBsktEiNSeB5Z00Ou7dOx5lXEJVBeyJmlfe38NPWGaJk90vYTBAM1z7owptj8PbHqr2PB3R9Bb2h8MghfjwjaGNqzYRoFxA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، روز جمعه در شبکه ایکس در پاسخ به انتقاد صریح مقامات عالی‌رتبه لبنان تمام تقصیر را متوجه اسرائیل دانست.
 نواف سلام، نخست‌وزیر لبنان، روز جمعه، ۱۵ خردادماه، در یک نشست مطبوعاتی با لحنی صریح رهبران ایران را خطاب قرار داد و گفت: «به جنوب ما رحم کنید؛ از تبدیل کردن آن و مردمش به یک برگۀ معامله دست بردارید.»
@@ -540,17 +540,17 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 271K · <a href="https://t.me/VahidOnline/75969" target="_blank">📅 19:53 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 273K · <a href="https://t.me/VahidOnline/75969" target="_blank">📅 19:53 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75968">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/04b6cd8529.mp4?token=g4kfTDztT6t3WHWTPubL8eAnbdGUJQvqXWHN2pci621cQWFQFP9KbkBXmS0bfCfCNwrze9UCS6gS4B2BvJAix8G6pcf517ypDAr2pvT1A26eqQd2JfYCpDo7y7iUrMXrkEGmpN2iaNF2btCOmxe1mjd6geJHng7xK7pZ3D2mou9Wm03lcT7_zPsHc_Tos6CIse9iME2fSYlM0WhdvCMCzuaQh5U8JmXdAUkjhTqJzLmDceeLGGPTndGKVzLxeaAQWPzfA3u_pzbaSfVNDeCoK7E6wbzHfeIHxKlzePzSKdwT9gmQ3misXIxhYFvJYw89QLIQiCwmHh_GIP0lwqjDHw" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/04b6cd8529.mp4?token=h0YRv1vfhMSxEU9lwwcMWhZ7LclbdGGr3Ku-hegp5nD4u1GE6Kplv3MYxkN5UV67sT7ITY4uYw-tSP1sK_ku6fq8mD5lo3Cb_da57d_8jS60m-cK3w_ltU9RauXbpFHvxUuADC6tbKLMkuk0Sc1PrmsTuE3pPjTEXwuy65OJPTD-T4XNYXO_6CZknoLNU_4T5m_wMoxSjnZiPNgcI0xXc6TbfB0Q_RLINUfLaC6CR7PST3TCU1juoV7-dc_ZfC8SVpZG9nPVNpbBKsEH2blINkx1d8Z9N4QROu-g2Qko38QRVnBV71zRqPwo9pBupidAWDng6N1WzhBoCeVJX4UlMA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/04b6cd8529.mp4?token=g4kfTDztT6t3WHWTPubL8eAnbdGUJQvqXWHN2pci621cQWFQFP9KbkBXmS0bfCfCNwrze9UCS6gS4B2BvJAix8G6pcf517ypDAr2pvT1A26eqQd2JfYCpDo7y7iUrMXrkEGmpN2iaNF2btCOmxe1mjd6geJHng7xK7pZ3D2mou9Wm03lcT7_zPsHc_Tos6CIse9iME2fSYlM0WhdvCMCzuaQh5U8JmXdAUkjhTqJzLmDceeLGGPTndGKVzLxeaAQWPzfA3u_pzbaSfVNDeCoK7E6wbzHfeIHxKlzePzSKdwT9gmQ3misXIxhYFvJYw89QLIQiCwmHh_GIP0lwqjDHw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/04b6cd8529.mp4?token=h0YRv1vfhMSxEU9lwwcMWhZ7LclbdGGr3Ku-hegp5nD4u1GE6Kplv3MYxkN5UV67sT7ITY4uYw-tSP1sK_ku6fq8mD5lo3Cb_da57d_8jS60m-cK3w_ltU9RauXbpFHvxUuADC6tbKLMkuk0Sc1PrmsTuE3pPjTEXwuy65OJPTD-T4XNYXO_6CZknoLNU_4T5m_wMoxSjnZiPNgcI0xXc6TbfB0Q_RLINUfLaC6CR7PST3TCU1juoV7-dc_ZfC8SVpZG9nPVNpbBKsEH2blINkx1d8Z9N4QROu-g2Qko38QRVnBV71zRqPwo9pBupidAWDng6N1WzhBoCeVJX4UlMA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">شماری از دانش‌آموزان اصفهان روز شنبه ۱۶ خرداد در اعتراض به حضوری برگزار شدن امتحانات تجمع کرده و با سر دادن شعار «دانش‌آموز داد بزن، حقتو فریاد بزن» خواستار تغییر نحوه برگزاری آزمون‌ها شدند.
 @
@@ -564,12 +564,12 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 261K · <a href="https://t.me/VahidOnline/75968" target="_blank">📅 19:50 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 266K · <a href="https://t.me/VahidOnline/75968" target="_blank">📅 19:50 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75967">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kLQmkQN68KbDzeUNr-YYFNMgrypUiOhX0CnoEZ6TKeV1a_JHXzuwqw2qUosc_v7OPgzkuXqO7hiyCLZUaLiQ2B2HdqyBFoDHnHC7WVmKaZWE3TvXh2lOkwIfgXx8ZP54ynL19dl6mryhAH8IgIBPdvRbkNa9LK1_tjV7k0xXffkRJsHMSH92LZw3EgFLZt1nWSpLKYKQHrymP_NrtEt0X1rwUcAuP6G1NaLOlNeIXfDwtN4WxIgBx7uc5n4O84w45ZR3_aRKDZJbYdLGSlh_0JoAY1k8mRcx8uXIVNcBK7L_ZNsaw8IDFSGSw9Nfg_W64dQniJZPs-Njk00_3Li-Zg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G5eFd6ugv-CepkT-PBGxfTcgIkDY-2yJvEr0s4l9xYtS3lkBgo3Vps6QGB2fWdnBaHtoFF2t1YhWE8LefcMA4o_BuULj4xeg2lM3zhkWwKoBE3JZ77MOlWnx8hlmTfLLN2x6zu9teOOUhcl6bxGfP0KKryh_1CUUYf8Ws0afCluDIFXj69_dL7SBvJ19Rvuj3bMGc5l-Q7uW0Zvso2vTAtMfzWOGCJ-F-kRHph1i7aIgrq3nhsMMLENf8u5GPBZvhLFaHwDGz9jv2HVKno5eVcPg4bV1o3IFN00NIx2l4sCmkNpGZjb-Py0E2WrJhb_lTVKkFsX4-jg1eCyHzrAgnQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">«رضا کرمی» ۳۴ ساله، ساکن کرج و اصالتا اهل شهرستان طارم در استان زنجان، در تاریخ ۱۹ دی‌ماه ۱۴۰۴ با اصابت گلوله جنگی به ناحیه قلب جان خود را از دست داد.
 به گفته منابع مطلع، رضا کرمی به حرفه ماساژ مشغول بود و در کنار آن به طراحی و نقاشی نیز می‌پرداخت.
 خانواده او پس از ناپدید شدنش، به مدت حدود یک هفته در جست‌وجوی او بودند و به مراکز مختلف مراجعه کردند، اما اطلاعی از سرنوشتش به دست نیاوردند.
@@ -578,7 +578,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/75967" target="_blank">📅 19:42 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 295K · <a href="https://t.me/VahidOnline/75967" target="_blank">📅 19:42 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75966">
@@ -591,7 +591,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 353K · <a href="https://t.me/VahidOnline/75966" target="_blank">📅 08:56 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 356K · <a href="https://t.me/VahidOnline/75966" target="_blank">📅 08:56 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75965">
@@ -612,7 +612,7 @@ VahidHeadline
 CENTCOM
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 346K · <a href="https://t.me/VahidOnline/75965" target="_blank">📅 06:38 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 347K · <a href="https://t.me/VahidOnline/75965" target="_blank">📅 06:38 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75964">
@@ -628,7 +628,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 333K · <a href="https://t.me/VahidOnline/75964" target="_blank">📅 05:30 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 334K · <a href="https://t.me/VahidOnline/75964" target="_blank">📅 05:30 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75961">
@@ -651,7 +651,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 296K · <a href="https://t.me/VahidOnline/75961" target="_blank">📅 04:48 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 297K · <a href="https://t.me/VahidOnline/75961" target="_blank">📅 04:48 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75960">
@@ -660,7 +660,7 @@ VahidHeadline
 <div class="tg-text">شلیک موشک‌هایی دیگر از ایران همزمان با صدور هشدآری دیگر در کویت
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 298K · <a href="https://t.me/VahidOnline/75960" target="_blank">📅 04:42 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 305K · <a href="https://t.me/VahidOnline/75960" target="_blank">📅 04:42 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75959">
@@ -673,7 +673,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/75959" target="_blank">📅 04:20 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 289K · <a href="https://t.me/VahidOnline/75959" target="_blank">📅 04:20 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75958">
@@ -685,7 +685,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 297K · <a href="https://t.me/VahidOnline/75958" target="_blank">📅 02:39 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 298K · <a href="https://t.me/VahidOnline/75958" target="_blank">📅 02:39 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75957">
@@ -699,7 +699,7 @@ VahidOOnLine
 پنج تا انفجار نیرو دریای سپاه سیرک هرمزگان
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 291K · <a href="https://t.me/VahidOnline/75957" target="_blank">📅 02:19 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 292K · <a href="https://t.me/VahidOnline/75957" target="_blank">📅 02:19 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75956">
@@ -713,7 +713,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/75956" target="_blank">📅 02:12 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 303K · <a href="https://t.me/VahidOnline/75956" target="_blank">📅 02:12 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75955">
@@ -730,7 +730,7 @@ VahidOOnLine
 شلیک‌هایی در این منطقه صورت گرفته که جنبه اخطار داشته و کانون تحرکات در دریا و فراتر از جزیره لارک بوده است.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 334K · <a href="https://t.me/VahidOnline/75955" target="_blank">📅 01:53 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 336K · <a href="https://t.me/VahidOnline/75955" target="_blank">📅 01:53 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75954">
@@ -746,7 +746,7 @@ VahidOOnLine
 beehnam
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 356K · <a href="https://t.me/VahidOnline/75954" target="_blank">📅 23:34 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 357K · <a href="https://t.me/VahidOnline/75954" target="_blank">📅 23:34 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75953">
@@ -779,7 +779,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 345K · <a href="https://t.me/VahidOnline/75952" target="_blank">📅 21:09 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 346K · <a href="https://t.me/VahidOnline/75952" target="_blank">📅 21:09 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75951">
@@ -822,7 +822,7 @@ mozfang
 BrmTheGreat
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 339K · <a href="https://t.me/VahidOnline/75951" target="_blank">📅 19:30 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 340K · <a href="https://t.me/VahidOnline/75951" target="_blank">📅 19:30 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75949">
@@ -843,7 +843,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 311K · <a href="https://t.me/VahidOnline/75949" target="_blank">📅 18:45 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 312K · <a href="https://t.me/VahidOnline/75949" target="_blank">📅 18:45 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75948">
@@ -858,7 +858,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 313K · <a href="https://t.me/VahidOnline/75948" target="_blank">📅 18:42 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 314K · <a href="https://t.me/VahidOnline/75948" target="_blank">📅 18:42 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75946">
@@ -879,7 +879,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/75946" target="_blank">📅 18:42 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/75946" target="_blank">📅 18:42 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75945">
@@ -893,7 +893,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 331K · <a href="https://t.me/VahidOnline/75945" target="_blank">📅 18:39 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 332K · <a href="https://t.me/VahidOnline/75945" target="_blank">📅 18:39 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75944">
@@ -912,7 +912,7 @@ AJENews
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 389K · <a href="https://t.me/VahidOnline/75944" target="_blank">📅 06:43 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 390K · <a href="https://t.me/VahidOnline/75944" target="_blank">📅 06:43 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75943">
@@ -964,12 +964,12 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 359K · <a href="https://t.me/VahidOnline/75941" target="_blank">📅 00:00 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 360K · <a href="https://t.me/VahidOnline/75941" target="_blank">📅 00:00 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75940">
 <div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rgXMId-1muNuMLBigLWr35mKD6z100w3TV2YjVeEStwhJkNVWGHvDmurqeZz5D3pHf7ELGZuhBLz2lOR77FRJTDgr8rCWZhBX_oOE5SEOi54alsbO-YB6mylBR5aFGC60kYTeR6JpKWH5D7CW_KvJRBCoOqIfebJFD98rtlwnhpOxGOu1vZcUFbOUpIMhVhkeLJVLiKZ_wxnXFfB06PYEbetNKNfZEBXFCGG_D2LceRyEIg2eBxt7Ldka0oWIyQ0rJN2qDnG-DReXWvabY1oeEuBETN6wHCPefZITUN0U4HDqt6liEgVbydPTDxjcnUuNoXsOsNCdErXpGzAzaz6WQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X25ns2zW88CHRAgqqqVyrXTERIK1L5n4C8olNx9EBKZrYyYhr6RRKACeGP6EP8hWIUTY3dPvtXRsvX8BldnxwJWeQUgsbYFzyYLo51YzsuRkYoQiG0tU590Jo-G8FtYd5ABgWZuGBNwqZpDUztS-sjEVRJjqYjf0hWRKk-V1UE6q4hPqnzqCg4qj5q-hwbfBUlNW6v3JTnKdyDRF5ErPtHtPehZrDmomkrfLFlzGQO9wXFpzVMClFR-AHGl0-OIdxW4PWQhfpd3pWnLADclJgNoWd63YSaKfvXyM-Dq9naiZn1O-0ZkW5SMAGlzUEx9aFcB8VLMDdNKEhK1jCjCFxg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آژانس بین‌المللی انرژی اتمی پنج‌شنبه ۱۴خرداد۱۴۰۵ در گزارشی به کشورهای عضو، بار دیگر از جمهوری اسلامی خواست «به‌طور فوری» درباره سرنوشت ذخایر اورانیوم غنی‌شده خود پس از حملات سال گذشته آمریکا و اسراییل به تاسیسات هسته‌ای این کشور توضیح دهد.
 در این گزارش همچنین از مقامات جمهوری اسلامی خواسته شده تا زمینه ازسرگیری کامل بازرسی‌ها را فراهم کنند.
 @
@@ -1026,7 +1026,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 314K · <a href="https://t.me/VahidOnline/75937" target="_blank">📅 16:35 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 315K · <a href="https://t.me/VahidOnline/75937" target="_blank">📅 16:35 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75936">
@@ -1054,7 +1054,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 339K · <a href="https://t.me/VahidOnline/75935" target="_blank">📅 16:28 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 340K · <a href="https://t.me/VahidOnline/75935" target="_blank">📅 16:28 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75934">
@@ -1066,7 +1066,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 334K · <a href="https://t.me/VahidOnline/75934" target="_blank">📅 16:27 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 335K · <a href="https://t.me/VahidOnline/75934" target="_blank">📅 16:27 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75933">
@@ -1080,7 +1080,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 389K · <a href="https://t.me/VahidOnline/75933" target="_blank">📅 02:49 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 390K · <a href="https://t.me/VahidOnline/75933" target="_blank">📅 02:49 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75932">
@@ -1275,7 +1275,7 @@ VahidHeadline
 VahidOnline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 366K · <a href="https://t.me/VahidOnline/75913" target="_blank">📅 22:00 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 367K · <a href="https://t.me/VahidOnline/75913" target="_blank">📅 22:00 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75911">
@@ -1486,7 +1486,7 @@ VahidHeadline
 در این حادثه دو نفر شامل راننده خودروی نیسان (حدوداً ۶۰ ساله) و یکی از متصدیان جایگاه (حدوداً ۴۰ ساله) دچار مصدومیت شدند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 413K · <a href="https://t.me/VahidOnline/75892" target="_blank">📅 08:31 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 414K · <a href="https://t.me/VahidOnline/75892" target="_blank">📅 08:31 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75891">
@@ -1716,7 +1716,7 @@ realDonaldTrump
 
 <div class="tg-post" id="msg-75880">
 <div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HUKSHYGEXpIyAEqG4WevcfFaDUPyjDnUzunvKpkSYSzmidH4tiE9OZAI7N9i9dcIwrOWr2RgYCHSoTOJhlTRlDC9z31vCx6ImPss9xJeqlNQFdLytXpfoPR2eZiHzacPVTGSukLkq_n2an4R4TXFIfFkr3KsmVNhjEFVoHmqE7-jm3MKBKaMHDSWCSzDuQFG3fPB8QVHLdvSmZFYdTB4gGVbzHqQ_YV_jYT-W44fzY1fQ4BJviTja1sKpqQrc6NTPxjHZo2QJx2wfUenA09PqzHL0vxhrI8PidQKi3r4XO27ztKhDUjysU58meIvy3Sc2b54zX-2OlKfwlYCsApBQA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MLtOVCQyFZJAaCIdNYiPsj7-Cfy4YBss25HvHtBUUfYU7DcQwtkeT5ylByrrbLE6jUub4DkU_lVAKA3B9gaEAFy_GjeS10x3OQZJTK9UQLJNKw5VtM1ZnCVQb-dw0UgdFHnz_IGkGHydSMNGPyXcsaLPWJgsWO86VmqXQ_rrdtbg4UbYM5FPxtCOEkn8ZhHZU9TYZRlIoI_-u09TwiH3c8pw2E4T1mgUcGLVpB94OjR9I8ewgXR37pQL6XfPtgFN4BQsqzGcjRfuOOu-Br0qyI9kDXXy3JEzud6qnaEGFOPclWL5-ewDDJJ_B6Ufk1rsvaKIEfpgPp82HZxGnWe8dA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مارکو روبیو، وزیر خارجه آمریکا در جلسه کمیته روابط خارجی سنا گفت که نشانه‌هایی وجود دارد مجتبی خامنه‌ای رهبر جدید جمهوری اسلامی در سطحی به شکل فزاینده‌ای در حال مشارکت در روند مذاکرات است، «اگرچه تمام ارتباطات او به صورت مکتوب و از طریق واسطه‌ها بوده است.»
 آقای روبیو افزود: با توجه به اتفاقاتی که برای رهبران متعدد در آن سیستم رخ داده است، تصور می‌کنم که حضور بسیار علنی احتمالاً چیزی نیست که در داخل برای آن‌ها توصیه شود.
 او همچنین در پاسخ به سناتور دموکرات کریس مورفی، کاهش تحریم‌ها در ازای بازگشایی تنگه هرمز را رد کرد و گفت که هرگونه کاهش تحریم‌ها باید پس از امتیازات عمده در مسئله هسته‌ای و اورانیوم غنی‌شده صورت گیرد.
@@ -1731,7 +1731,7 @@ VahidHeadline
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/BLctvQKA_5n97Tuyb_M1HgDpEW1e7wwrf-AlHaIq9mNKEsSZV84U_ONfcbCKkH0cQtAHKR_xIWO34oiY7L9drO4CGGZQkjn-A1m0YF0I8ZuM3F99nKzBmiRIUXIeIWDk27AUQ8552ALzJXE2v7li7653K82yrNPVwQp5KomUlsZzxc3vLry19VIFBT187XitXRLKbHQDF7JgYbGetOSpQVvyhdwQrfLA_Cnr4_ktHN38iVQFUOZ1HbFJtqc6zYgknYJ-eqQ0-Y5cu0e8SUyHdEnq5kzGaKsthLlDRhFWMym_pqUyMo3rPhKK9sjVSPRiCFJ1f6tmq58EmyBhKMqMDg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/ttupl5AOkkyoS28u-7SUkmvIues4pplIW_XgbQJi3HntHGuHUvwWsopfEby2t6-5KIovGWm-1EiPxEEdDH-yK7iQznKJQBXRjcyrHIIW_wgQm1AmCO5HJdrih5raMhLmOLdChBNxhoxEC1yH7_YKM0Qoy-isPsDEJ-FSW9UlC468cUA4p-OS_B1vsszNBYMzBmTmnGvEF9AaTyL2FHPaE12GBnVbQN1QxH1AmUH00umaQscaZqoSxpxei7YIzQYTgE-FFi-0jjGIgQR1yBO4WadZg2xW036jEQa_CiaWiZ5nW5hW4TQ1f2sly4KVfc9hT78aosizZEgmPZnWC-n0Qg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/joXn5sWXLXiScyRnw4H62v2l1Kszlv4uqrvrswRoOmIgVZkvqTdNASwg2FX0_pd2UdPdKakTZ1Luh_AyWLwqm2AXIXakuteFEhK3qKoP8z-XjfzkxZblFlRez6soyJvvr16oKSddH59Ad7ZxNtBgTNCSqxsXoc_CBXyFbhRM6on4wejGvrBsXaktCo3cq6mjsv7Ca3bK_Atyrt3kQrgIZOT9OO3gZHQ1e-K88jgoMONAjDJdoGOUjCyzx9VPNcUdDQTpvnlUpvFQhysJqE5ssOpgbcFonf_Vr9Hq2eMJok6ana4YJ_WWPRJRg8cOdz-JUEFbB-VPIEZW2esSvihQxw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">مارکو روبیو در جلسه کمیته روابط خارجی سنا گفت: «چیزی به نام نیروی دریایی جمهوری اسلامی وجود ندارد. آنچه باقی مانده تعدادی قایق کوچک است که روی آن‌ها مسلسل نصب شده و نیروی دریایی واقعی در کف اقیانوس قرار دارد.»
 او افزود: جمهوری اسلامی همچنان تعداد زیادی پهپاد در اختیار دارد. توان بازدارندگی متعارف تهران به‌طور قابل توجهی تضعیف شده است.
