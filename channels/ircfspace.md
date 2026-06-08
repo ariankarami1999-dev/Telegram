@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn1.telesco.pe/file/ULzVfnOIJwIjcF8NWQcA_GqDAHzoBvUvXl7or2xG6zGGwiYQPOvxp-0uz5Q8OysgupecP2GT2b0g5S4N9bxu8CPNqqGMPgBf6purhrusxl1sbA8xyRyrtqqlTUJnSzOCEZzNSiHwTv47EvgLiu9_XN33zqVz1udOv-Oc-XQwbobUMd2tzMtNhLfM34tQEfb_BKUC6DYQ8TrcQ6ttYgA8mpUGKQby2PJgb-8Vq9ZwnTz-ExvwkadbMDAEjeDYXHRAz_rkgzwXzgaihYTsJ3PCyF34kfHkVmBEdzP3H9zT1PKYyOdomJPtPBNlasH8YeCmshXNYz-a6Jq_ahR2YVbx6w.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn1.telesco.pe/file/SQzVYDSt_bMpGjrXJLrJK0tWiNsUE-iZ2_FA4eI3qpuGQVqUmPfVvnrFAbvnKGVnvXcT9Opq4CQukmmVeqHZKHt1LzgqkcSOBeQ4MtLu5yRxpu-F6X5Ad07AAAMGDY--2o3rZAGIBtbBHQzGhCnNKs8WwqE2SAyYCHMYZObj5BFlWn1jKYPtU1Ja3RXcIcHYvpvFPJbFFxPtvvjdt7ujGiFr-ZYI_y7eeHP0IXaKEuaFdkWxVTsnDGcAfg_-lwKxS5dP77AhF3DjZMc4COBUSDSjauMlKu6v7407qgNmgSwkwy00VFKQYFyhMmaiUJ5mGc3k3ETgy17QMRbhEJ-yTA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 IRCF | اینترنت آزاد برای همه</h1>
 <p>@ircfspace • 👥 99.2K عضو</p>
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-18 14:56:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-18 18:24:47</div>
 <hr>
 
 <div class="tg-post" id="msg-2429">
@@ -307,7 +307,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 3.52K · <a href="https://t.me/ircfspace/2429" target="_blank">📅 14:48 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/ircfspace/2429" target="_blank">📅 14:48 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2428">
@@ -323,7 +323,7 @@ github.com/saeedmasoudie/pywarp/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/ircfspace/2428" target="_blank">📅 08:13 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/ircfspace/2428" target="_blank">📅 08:13 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2427">
@@ -336,7 +336,7 @@ github.com/saeedmasoudie/pywarp/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/ircfspace/2427" target="_blank">📅 23:15 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/ircfspace/2427" target="_blank">📅 23:15 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2426">
@@ -349,7 +349,7 @@ github.com/saeedmasoudie/pywarp/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/ircfspace/2426" target="_blank">📅 20:30 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/ircfspace/2426" target="_blank">📅 20:30 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2425">
@@ -367,7 +367,7 @@ github.com/itsyebekhe/nahan/blob/main/README_FA.md
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/ircfspace/2425" target="_blank">📅 08:01 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/ircfspace/2425" target="_blank">📅 08:01 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2424">
@@ -383,7 +383,7 @@ vahidfarid
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/ircfspace/2424" target="_blank">📅 07:53 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/ircfspace/2424" target="_blank">📅 07:53 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2423">
@@ -399,12 +399,12 @@ github.com/genyleap/GenyConnect/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/ircfspace/2423" target="_blank">📅 19:11 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/ircfspace/2423" target="_blank">📅 19:11 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2422">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sV75s_HcNrWGLcJxGvzj3YCLUuV4RuZCDP_JshDX8xUWlTI-mUjE3xyUXJspf5p8qHK0_K4xOXr86-zZmgX3Am6KMVp2C_7AZzHQdqTo84IsBWQjndD9O2N0jZyXttecKIcjWg4zXk4-nnjlQF3WZ6FEWhZJ4OJGu6zQv5Dqb0rGN7eDlvNX4yXoz6G_INVEHMID5PoUMyBHNhwvGObPo9mR3oP8kr-vkJ1M2b5KJDw_VdyPRZ0ozFvyKqE8uWPiwVJRjAcA2M-Y3P9vrT27g0lS-xEs-BOFpOkwnotJhqvgO2REpuTIBst_FKYbdeno_rLg0_QUrxfD_GgxaVX4Jw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FsRzigYPSDJHCvXG3HK1FO6klgSt42Hv3AT-10YJUcyZALfchtnnNqicIe25I7OW94m0mszVNozLV5GFezqJ9_WFYQUpLhy3pANsvplwBkHCwwIaTBvxDW1m_0TFxt2POC3byhIKom2vq0ozUr_EP8R4klUJVZfTgyq_SBVD_z2yp6r6fDGYLwIAod1JNfCR9FKksp65hKoRl0CiIBsZ5k2geoCbHyr-TEGuTK9ZZ-tRxzQ-DsZU6VEuYYcVR4sAsbcCnFapaxMLpKl56jrobmjeUVqecZNHyUIxIWg6Zqneu31g37WH3VIzpQY762UK_XaLi5dgsbPCMzMmZXXqhQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه آیفون از فیلترشکن
 #شیروخورشید
 با نام AzadiTunnel در اپ‌استور منتشر شد.
@@ -419,7 +419,7 @@ github.com/polamgh/AzadiTunnel/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/ircfspace/2422" target="_blank">📅 18:32 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/ircfspace/2422" target="_blank">📅 18:32 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2421">
@@ -440,7 +440,7 @@ t.me/PersianGithubMirror/5927
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/ircfspace/2421" target="_blank">📅 23:10 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/ircfspace/2421" target="_blank">📅 23:10 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2420">
@@ -456,7 +456,7 @@ PingChannel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/ircfspace/2420" target="_blank">📅 23:02 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/ircfspace/2420" target="_blank">📅 23:02 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2419">
@@ -471,7 +471,7 @@ DigiHubAI
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/ircfspace/2419" target="_blank">📅 22:59 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37K · <a href="https://t.me/ircfspace/2419" target="_blank">📅 22:59 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2418">
@@ -489,7 +489,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/ircfspace/2418" target="_blank">📅 22:52 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32K · <a href="https://t.me/ircfspace/2418" target="_blank">📅 22:52 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2417">
@@ -505,7 +505,7 @@ github.com/rezakhosh78/RKh-CF-Scanner/releases/tag/v0.1.4
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/ircfspace/2417" target="_blank">📅 08:21 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/ircfspace/2417" target="_blank">📅 08:21 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2416">
@@ -518,7 +518,7 @@ github.com/rezakhosh78/RKh-CF-Scanner/releases/tag/v0.1.4
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/ircfspace/2416" target="_blank">📅 08:15 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/ircfspace/2416" target="_blank">📅 08:15 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2415">
@@ -534,7 +534,7 @@ iliahashemicom
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 56.6K · <a href="https://t.me/ircfspace/2415" target="_blank">📅 08:17 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 57.3K · <a href="https://t.me/ircfspace/2415" target="_blank">📅 08:17 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2414">
@@ -553,7 +553,7 @@ t.me/PersianGithubMirror/5793
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/ircfspace/2414" target="_blank">📅 08:07 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/ircfspace/2414" target="_blank">📅 08:07 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2413">
@@ -567,7 +567,7 @@ t.me/PersianGithubMirror/5793
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/ircfspace/2413" target="_blank">📅 07:53 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/ircfspace/2413" target="_blank">📅 07:53 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2412">
@@ -583,7 +583,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/ircfspace/2412" target="_blank">📅 07:44 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.5K · <a href="https://t.me/ircfspace/2412" target="_blank">📅 07:44 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2411">
@@ -617,12 +617,12 @@ vahidfarid
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 52K · <a href="https://t.me/ircfspace/2410" target="_blank">📅 19:37 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 52.2K · <a href="https://t.me/ircfspace/2410" target="_blank">📅 19:37 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2409">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZqGDYh75BNn8xHRz7EY2xFxv7SriKeZLRryv1AficYR49EbHtUsx8kG9jR9DilQbKIeg2szI_5U9UyGjycIjM19s5CHcDAVlZJf6Su1eQ0ye1lMj6_-woz5XtpMUx06QBB4eSrbcTsxdLz5-2BU91Z7EAJ632sO-aiVnFGqQU7l-g9WHoooVEu8juokJ3eSMZom3qzD2ZEFbgbPTRcP2ckBrmF1JqhLngUxCayMy8xcuhINLlwSfJ7bCp-6W-GkM_cG1rMM-LI1npippw7ynq2WWjx34XrH9AQxXWfbp3HkGUjZFV2QeiCN6hHzp-C_z8mIcZcuJN66tArQZEvFj_g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/q2WMQw6KrHzDF_xtJsvro1L9ORxtW2PFp-6ykCITmEmsZvkr-JPeuWEiTiFdmSqCuQx2y1ZLVDq1rQlNYW3QNAxgY3IvEiGPdtjGu3yGQRTBDm_bWpZBRM9vMB8tbfqUz-JBYKWD13zmRhtZBwKRaKYbAs4820UgMWNBwMvXP6ZBy6V2viDtJ4WKnMqh59dvMElqcBqf9UiXnkcw2xYy_6QmD30xW6SbO4rF9CRPz0lMmbAycDf3oczllWcNmD2-gHI8V3UrNUS4wEwFJb2o5Y8o7ZYkO-KwCx2zCN-PAHRy3WZT0N2VZy5iBqLHSbV5KYF_UV09v3g4CnlIwjLrsQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">صالح اسکندری، عضو مؤسس و عضو شورای مرکزی شریان، در خبرگزاری فارس کمپینی با عنوان «گزینه قطع داوطلبانه دسترسی به اینترنت بین‌الملل را فعال کنید» راه‌اندازی کرده است. این کمپین طی پنج روز گذشته تنها حدود ۳۴۰ حامی جذب کرده است.
 در حالی که میلیون‌ها ایرانی برای کار، آموزش و ارتباطات به اینترنت جهانی وابسته‌اند، ترویج ایده قطع اینترنت بین‌الملل بیشتر از آنکه همسو با نیاز مردم باشد، نشان‌دهنده فاصله طراحان چنین طرح‌هایی با واقعیت زندگی شهروندان است.
 ©
@@ -634,12 +634,12 @@ alirezaer
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/ircfspace/2409" target="_blank">📅 19:29 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43K · <a href="https://t.me/ircfspace/2409" target="_blank">📅 19:29 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2408">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QHG9PpcYVgFQiIWjZgiC0XV6FNB5lidLXGBgph631l5ZoGb_Mq6kbtN53XGth928Hj797-3KLCAVtGowIKyudO_WsuWRu2NEANs6fYD1roYUsSNItJ_DJyv6eVbzQMaDm0wyhBpFQeULfSn49vfT8n6mRbCMlL9--rNh2ZFk8cnxjJXt1mh7xVLrA4nmqf8BIOFpCuIh3_iGi0mnUNSK0Mc5tpqWhVPayxTZp0ifhNz1zpLidjwWguZ-OX9lXUnSd1vkKsbCTNSS4DXW5sroN_ySoL56-pdNfFN5z5nLVGWQHbfkc-xTlYsJjCAPI1AsyRRW-8VjW12bzQLRYJdFxA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NFaPMcXGi0eAssBdkP9_WiOaPJBZbLvPpDjw9C3ZZrrveARH6EquWJ46pMLKjFzgu0bEeUH_WtgOmL-B04PjcdW8v3DBZWEpVcZapb7TxzanbhF9aQYc2dfCB4NXs0Fm4Bl8qe88GVWpi_vOekV4FPYOP2L5dlq8bTgtt1O2nTN3LVHlniitqxDNXfC1dvUcyPON-2OebiHOkdjJUcVBvOh6rNaR9BLy8fPQ39z45FQeJZsY5X_NANshlLljHUe_4R6aIClc-xMmB5DiG9UpdfOAHkwKKdxKERSDdBn7I5DL162lOVLdrVAQ6NjHRjVof4-joBhU9mgHPkG16871ug.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ SenPai Scanner یک ابزار متن‌باز برای پیدا کردن IPهای مناسب کلودفلر در ویندوز، لینوکس و مک هست، که با تست عمیق از بین هزاران آیپی مربوط به محدوده‌های رسمی، اون‌هایی رو پیدا می‌کنه که هم پایدارتر هستن و هم کمترین تأخیر و مشکل ارتباطی رو دارن؛ تا بشه در کانفیگ‌های واقعی ازشون استفاده کرد.
 👉
 github.com/MatinSenPai/SenPaiScanner/releases
@@ -650,12 +650,12 @@ github.com/MatinSenPai/SenPaiScanner/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/ircfspace/2408" target="_blank">📅 12:25 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/ircfspace/2408" target="_blank">📅 12:25 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2407">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OnKEcHEzWg6B8rqe1Ksx9ZbuIqOK_yUjt71DpvKkfjMLWnmwBHfbG1ERo3XqopFe0FESbQn2YFmslJGKX1kznDdM2P_yNvSKp6yY2S3rb6TR-R-Qwsls1SfoiGwgFqnQ6PNyrCutVU_5wUxmgAGgABEGTnGxVJ33cgW0aOFlnkwi1-ARex6FX1evaEoJPXMOOEiGR98yUjDAZnr6Knx8upaMWsp83NizZfu-bUnbXMPN-yobCyCSvPmPsZTu_BhdrGfe-jhGJwtNyn21o9QFegt5LPI9VUE2SKz-QBl3sR8yzNLUjvmXbUheWmOpjsyyYKMkX_o_445G4aUXeihEaA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fI2rnS8xD3LWYYDfaPChveSUtakB53IvF1D_TiKp1ZCGwuxCNTjdX84iUNIm5jDqyRpglKpgLLG9ToqenHOBvr9bGcLtPc1Eiw1ZyI2Fqrko9Is4cubCs1z8OBUNNvRw-niVC1tQxR6iIlmO6XTuju_abLoIUme9ciel-xtQWStrdbL2knj-09LXs8RqB4zEse8w-0l0vqF-R1EwD9Kzj8M9ctI_U67TdpJreOGnFm79Xxv29tfpq_BLvvG9DaSmb1SsTZZr-oPNASjN_zn5hUq9v4oQKKmHk93hhNiL8UcVjrUoyTkl3WjsWafIHfxCeupIVzge2UgdmCohxoNj4w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ SpoofGUI یک نسخه گرافیکی برای SNI-Spoofing در ویندوز هست، که از هسته‌های Xray و Sing-box برای مدیریت ترافیک خروجی استفاده می‌کنه. این ابزار در اصل برای اجرای یک مکانیزم محلی SNI Spoofing طراحی شده که به کمک اون می‌تونه مسیر ارتباطی بعضی از درخواست‌هارو به شکل کنترل‌شده دستکاری کنه.
 در این برنامه کاربر می‌تونه فرآیند SNI Spoofing رو فعال یا متوقف کنه و وضعیت اتصال‌هارو به صورت زنده ببینه. همچنین امکان مدیریت چندین پروفایل مختلف برای Spoofing وجود داره، که در هرکدوم میشه تنظیماتی مثل آدرس و پورت اتصال، IP مقصد و حتی SNI جعلی رو تعریف کرد و در نهایت بین اون‌ها سوییچ کرد.
 👉
@@ -667,12 +667,12 @@ github.com/ZethRise/SpoofGUI/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/ircfspace/2407" target="_blank">📅 12:15 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/ircfspace/2407" target="_blank">📅 12:15 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2406">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/t2a47J9GZC3XbiEIoMTa4QY1dB4S8XHvnGaWaxqnu36evah1Ys4wbZjuFdAoK3uqEo48WSLXQOfiLEmH_FAQHz5UcAtRVVRib6Op6EPSZsntHXZgEEKkV1D-aDB9BmDIoIlkww-eaCYn_DzI0IO1GpLFPm18EP_Qwtfe9s6s3_C30PYbANNp9aBUyLBvvgY0xhHm3EhY-wmky61kDYOCGLTpVBr8C5JybGVS9k9aZPLlGth6bGeHTLfssjJJ1iRqEDBqsOB4AIo1dLaf6_4kuo9uI5GuVgJCuWYxbo-scWzkQ2FEq9XeRYmDjbLVSpomVCCDQ4ZWvm0auVX108W3NQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PkH3_d0D73Ehb83F_G60SMRhksSozdtzGZFBYQpKw0v3adc0QTMlkrPBv-GB0Mcv6a4UNbSYz8M7t1e-nZc81GpBN1tOx9CobLgzwIAPDn4YJUMJO0njCqm7t5HlE-aqq4TD5etUCrqQD5dALSN7YoWu06f0LWsQjBOJKdmSH7aS2E5fwWVH8iac_BRazUkIabPlhvOjgYCuYB1swyXRbXs4GclrZNQ_pIPSme5larxV7-xIf9szhQMAo2bqgzM5UKnLbFX-X0FpBU_Y36N-xwIy826kSHZaw6DnE63hwhj1b6K6QYydSUc0Tx2b8eFSaYRsHTV53jITuqjPLOtGcg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر CrimsonCF یک وب‌اپ برای اسکن سریع IPهای کلودفلر هست، که آیپی‌هارو با L4 TCP Handshake روی لوکال تست می‌کنه و خروجی‌های آماده برای Xray, sing-box, Clash میسازه ...
 👉
 github.com/amir0zx/CrimsonCF/blob/main/README.fa.md
@@ -683,12 +683,12 @@ github.com/amir0zx/CrimsonCF/blob/main/README.fa.md
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.8K · <a href="https://t.me/ircfspace/2406" target="_blank">📅 12:01 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/ircfspace/2406" target="_blank">📅 12:01 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2405">
 <div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/N_-gYN9CWxQWb5qcOYjZFCjq-39Xg0UqZbpNeUh6ufvWNuRaAoWlpg16atpTb8vBwob5qBIRu_UkDHVthc3JjeqsqfOjOtV4g3lBNjCuUcKBUyOqKlFNkKIc_R8Nhf0FPNeLtxxad7zvUTXCRhSzC0xrqEfTnrsbNu_UCMR-CI8vaoTNvWZbKXiNB46gbfufcvbepU8ygMO-QfgWhlof1QaHmGOF8huV3Xta5CZh0aUQ0bmLGZCiXYqShp3Z8upPTopqGo-yVN-MAU5MNVL0nR8SZE8vH6fpbAk_7gJOCB3zW2gW5sJfQmMIzgRCSyYWeIW4TvgylRO3bqBbAqGYGg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tFOhm7zH3vCqJXHNGiBEE1ZIi0bZNt2OBTxog7WZJF29E2Cy-wXeVJ4Wkbh-mdnyQ5Y18rEm51E1NpZ20LoUpTFOFfm7c98ZCFj3PIWEc9LAQXLwMPVdgrGRo9YfN2mXQekAYInyvKTGtrHsO18xf5-kXIz1QjKrHQ2OUshMVq4veyR3zhPLXv5vybGmcPc3R2_e-ywBakQh23q47XtLJbSFf_2usVR49TxJtSt3vkuWrYfXUltQV7zDc37LsDlGfADA-n92QA7wru3ZHPnPobnzDMeimXO-aAjhc9qTboSQYfBgzqvpGiq50q8E5fvGmbwpCrXqFZlH6QUk3x2upA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اعتماد به نفس اگه اپلیکیشن بود
 ©
 mansheyeh
@@ -699,7 +699,7 @@ mansheyeh
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/ircfspace/2405" target="_blank">📅 10:31 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/ircfspace/2405" target="_blank">📅 10:31 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2404">
@@ -715,7 +715,7 @@ ArashNalchegar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/ircfspace/2404" target="_blank">📅 19:40 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.6K · <a href="https://t.me/ircfspace/2404" target="_blank">📅 19:40 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2403">
@@ -732,7 +732,7 @@ nimaclick
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/ircfspace/2403" target="_blank">📅 19:37 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.5K · <a href="https://t.me/ircfspace/2403" target="_blank">📅 19:37 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2402">
@@ -753,7 +753,7 @@ patterniha
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/ircfspace/2402" target="_blank">📅 19:35 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/ircfspace/2402" target="_blank">📅 19:35 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2401">
@@ -784,12 +784,12 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.5K · <a href="https://t.me/ircfspace/2400" target="_blank">📅 15:58 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40.7K · <a href="https://t.me/ircfspace/2400" target="_blank">📅 15:58 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2399">
 <div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/TYS_Zd65fNMk6G9ygCFWCItRcWsykPHd8mRlzOUzd4VYzTHAoW_t-0jifakXv1ajNUyJhKEvcdynkGbE7kHIGyYo5R8crce4CD3-w2F8Zi3-3MSMxPLrdS4pRvr6knvYU5vTKQBJRKBwaSpClzD7EMJAX2LQDZr_WlgCRwb2nqHDs49dOd9UaOjJI1wQT0O3OyWbtwMhRBMO7q7LmahiXW80aukstomZ3czF1bxa5GPWYBFF4L-wmKFUaFg3MGDfaySsMxv2fnAfjfHGBPn9TbVPuGy0pW7NBkAwzv7dWax0HDyYDEgtTyEUGLj0BmG0ABXIUjrHL3IMWndijQn3yg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GHCiQoNj8kfGnAlFpUqxxQqZTCXlv73_uuSQeBwtqw7jKVB44qVuVWmVT-xbQNbXtnZOVXV2e39e01k08YE1flDs_xHN9ApXv-wM1RgQuFUrPg8JKfTmRsrithtoAZMaeecBo2vtys7a9xuprLF8god5PxjPbgggw6E37CCa7VUlPNRSzHbW7q1bIUyu-kVxVJlP549MltT9z6m2bSSmSNtjoRAbd4qjbZzfWX-jFgvccy63d7VDnIcrBA8eixQqa3KPrsC-i93mjy1NuWDZ_wT5XlkEOCRBxTauCJcfrdbPevceJfiS1xybhlnkpGM0gMLBCDgtk9Y9lmRdaMOfGA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در جدیدترین بروزرسانی از فیلترشکن رایگان و متن‌باز
 #دیفیکس
 فرایند دریافت کانفیگ از API بهبود داده شده، متد CDN Fronting رو به‌همراه اسکنر داخلی به بخش روش‌های اتصال اضطراری در قسمت ترجیحات اضافه کردن و همچنین روی بهبود عملکرد، افزایش پایداری و رفع چندین مشکل گزارش‌شده در نسخه‌های اندروید، آیفون و ویندوز تمرکز داشتن.
@@ -804,12 +804,12 @@ t.me/PersianGithubMirror/5676
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/ircfspace/2399" target="_blank">📅 10:53 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 49.2K · <a href="https://t.me/ircfspace/2399" target="_blank">📅 10:53 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2398">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eBf4fozFoyB67zIPCcEsnbGqgwdRzwMaJHZ6YWRlkoS1k5Wvp5FFU77eGsaNJAhacmlZD8QYO6YDMtbe29OG7FQlqbkxFyB--KfJ88-nVI0v_8scPfcMh-Qwbiu8uuBVNkX4MGn507WFb8KwN8rOTCxBgw0QImPthvwpf-tzag7V9jXjnfhUND4yQYzmy4x5PY_MoHGbtczLM8g43yAB0E4E9xfmGfc0HWyiL6vklLHa-0pG8_39zMRQHOH2kBPWgdEc6nqTM7OUN0otjXub5QwRSliriwzJ6udHwwz3pIv5Xf8DioymR9QQ8bQ6YKB7qnV_aryM5d0ed4GYYnW9kA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tJA8S3p2spf6xsnP65vOjkysegzolivF15P61F8jdy8sqC6EoOj11HFcz69bxiFmcLlc1WpNiEILFFv_RI4n0UVQ4592Cp-U12gpSFh_V1RyxS38uHYsuALfQsxN4-3hc8xBdP3bMBJSN5H9qlg_SVCI-PrPHbv_d5awr60Esz1uYjLpzJ2tUM1T-9yaMJsnmpJQBLNjo3SuAQheJC_xl7u3wfOGbSjoKOqHhyeSUygn9xtVGu4cwjajIkONnnAYHJQwOvxThHE5tJsWOy03eNQ4dogmu0No-ctW-Z4hZ3tYmEkckjVK8nS_NYn6qaQcpmULUiU6T7hUVuHH1ca0HA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در بروزرسانی جدید از کلاینت NexaTunnel امکان پشتیبانی از کانفیگ‌‌های Xray در کنار Stormdns, SSH over VPN, WhiteDNS برای iOS فراهم شده.
 👉
 apps.apple.com/us/app/nexatunnel/id6766783641
@@ -820,7 +820,7 @@ apps.apple.com/us/app/nexatunnel/id6766783641
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/ircfspace/2398" target="_blank">📅 10:51 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/ircfspace/2398" target="_blank">📅 10:51 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2397">
@@ -833,7 +833,7 @@ apps.apple.com/us/app/nexatunnel/id6766783641
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/ircfspace/2397" target="_blank">📅 19:45 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/ircfspace/2397" target="_blank">📅 19:45 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2396">
@@ -848,12 +848,12 @@ okhtapoos80
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 45K · <a href="https://t.me/ircfspace/2396" target="_blank">📅 19:39 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 45.1K · <a href="https://t.me/ircfspace/2396" target="_blank">📅 19:39 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2395">
 <div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/X1eNdfgaAkWXyFueM3sC_icbm2wLWrloePZle9yDHSsoAiRX9tQMySZboJocySkw86Xpm1JM4oY44C8_W9E2MD4EUntyrtYSsDLzIKgE_qYV5TsMeJbfwd21BHgLMiXalyRmXfbPJWJeSxuWTN9innOwIku5RCc2f3b1bBPVLWYMcOWAa57MEbEGxm1vQ_X8mBuJ0rmyj3M3OSXJ096pnAGVD-vQ2QybU6AxL-_q5VuVfzAhJxm4NrLv7Jh4sA2WgHdLQi6b-R8-GmhqlziBhW1YrEgkicQA4ZFMSJV3itTLiH2HIeQqKv43SmkWi1beKlDnBNFd2w5vhCYa4S5bjQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uj_d5TJ5klntLjxzPifVFmVKeSSs6QFSzSS2mVBX_OMDuwNhj5eAN2lvAKLvwZ6GCdmOtfWPd0ZfkPz8H6nGWy9bQweKb7lFX6RhiLEmwrrei4PBH66WUr-LbZv21udjs6-qPcMfiwQgP815UjLuMRwORBlPAJ5jk5WKZ_-p2LKSSf-luWMQUSxp3QtmwnqhFVXgcsVVE0IST3kms-PTZUub-4GIsd72Df0cwDB42Et4vEgzI0hX-DXZUtYiAqesZayrgi2prcSbHA5mwOpvuMphSAIyliei0KKngfhYAqnYHHxy9_XnRtfj96F8VhkApJfvxGOND8TBJo4rOLRHrw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">زمانی که اینترنت در ایران قطع بود و تیم رسول جلیلی موفق به مسدودسازی Signature وارپ شد، اپ رسمی کلودفلر بروزرسانی جدیدی داد که حتی رابط کاربریشم تغییر کرد. آپدیت جدید این برنامه الان روی بعضی از سرویس‌دهنده‌ها داره کار میکنه، هرچند امیدی نیست که در محدودیت‌های شدید بعدی دووم بیاره.
 برنامه‌هایی مثل Oblivion که بر پایه وارپ کار میکنن هم تا زمانی‌که هسته‌های وارپ‌پلاس یا وی‌وارپ بروزرسانی نشن، کار خاصی ازشون برنمیاد.
 👉
@@ -865,7 +865,7 @@ one.one.one.one
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/ircfspace/2395" target="_blank">📅 08:50 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 46.5K · <a href="https://t.me/ircfspace/2395" target="_blank">📅 08:50 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2394">
@@ -880,7 +880,7 @@ t.me/PersianGithubMirror
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/ircfspace/2394" target="_blank">📅 08:31 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.6K · <a href="https://t.me/ircfspace/2394" target="_blank">📅 08:31 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2393">
@@ -893,7 +893,7 @@ t.me/PersianGithubMirror
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/ircfspace/2393" target="_blank">📅 08:28 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/ircfspace/2393" target="_blank">📅 08:28 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2392">
@@ -909,7 +909,7 @@ AManafii
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/ircfspace/2392" target="_blank">📅 08:25 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 47.5K · <a href="https://t.me/ircfspace/2392" target="_blank">📅 08:25 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2390">
@@ -930,7 +930,7 @@ AManafii
 
 <div class="tg-post" id="msg-2389">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/YMyUhj0fSRAZpRp7dhFPbJ0CCVxUznb9DqjnlKoXOI4tyOv5iJtGVm_MHqbVvZgFrV7lMdHDo2cMX9FO9VTvVuyUFN-0pfq7u5pQ374XN6uNYGrf582crUl63jKEcc9bkgEFaracwDJUar4hljLpNRMXv6AYVlZt9PjqEzOAryxqF0KH6cf8JaNoKq-OK2tvxjWCrNHgJqoVHFiYXivubxplQWQsA794RYiiYoIvMoIwq7Q_6mEY1E9w_q3ItrLIMGKiYsKeh97VSO3yxmZTewrESN4-q1O3njrtwrZOTlfPdjmTtJ5moxLaY7myyIeAZVV6NNblM5UD0bXEhu-yFg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/YF559vG6ouSYg4jCRyWKHiebDPObO64tWswXTz7kso_bNZEksADsO1pxWY6YikdJ0JZpMezDWxObZI0FPLF1kACAahXUhtggE7Z0P-fv6sLkWTZUNUZ3ai_NQGeeXkJnaEqsJ-LbvjGq9HnlATEu21Ie7yr3eMFjb8KuMCJD6_25wpVwfPFjGA6iSxDUlavqE3TLwnRFn34rtTG9t4dUtGVQmnmzrRY_wEtRFhShOYKeBBxXEPQg8id_TJrKXi9kXJrLa6IwOAocfjWiI-UfnI71bFPlr5wJd8SucTd6YJsp6TS28tc0el_TXmr7RtOI567zNg8NMj-aQLdPLHlb-w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نت‌بلاکس تایید کرده که میزان دسترسی به اینترنت در ایران افزایش قابل توجهی پیدا کرده و به ۸۶ درصد رسیده؛ هرچند فیلترینگ به قوت خودش باقیه ...
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -939,12 +939,12 @@ AManafii
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.8K · <a href="https://t.me/ircfspace/2389" target="_blank">📅 21:31 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/ircfspace/2389" target="_blank">📅 21:31 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2388">
 <div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sf3n_eh1TC0MKN3FHD2B1MXUfX9u4aaNzKtMd0CXZY32hvegtP6kQzYI18MaqNjArtQljBYHQUyUrM_VKwciNe4rDQ-yubIpv9l_z48H_Ea8tUqjdHI3XvzxTeJLBtnd1XOAuEZeuvJiMtQdQ8Jt7CKLMUifE9Gs_zcaN_-Yya75BctZXfusoIHADjSspuRwR_cRQJwYNGF3B6mGPvaMkFu8oynZX25W-DKpjuC-XF053fcjuRH3Ko5u4vwIrSBgvsGILtR6-7Pug9USw827gVyQgzaCBlmYD-GLcD2cNoCO4ILzdtv9SLKhJSoetyKD6n0opEWYsjzNJKGiUDUnsQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EfVHYpX8_m7GFhrnTipC0s6P21vYibhsSxjuGcbI8vCXWWB-K0ryxXNuvSjX9Xjw03LBtYolHOPH0u7UVw_faWsIq0DNjfaIU-LZlhurh-Iw2mKYsWYw-j2KAcYkUhx_cS6vJyBXImsGaC1eKwZQUcz7wUlkHKRcPBeNUukv_hbdfwEJ4DDX9g1o3MRzeIDaIC1DbjBDKES0P6hQIAjNpNfsp0rziZrmm8EdZ310u3nD9fQp1sgHXgcqBE4AAJdVsguW-7bZsVuzIkcm6ug3MnqtXVPWmrJLlg6zX4FLRqOP4x27ZkhZ0a6ujkdY2sOXKrWC5d4rgr2tyX05as4L9Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای اینکه از وضعیت این روزهای اتصال نسبی اینترنت در ایران آگاه شوید، لطفاً نگاهی به این نمودار زمانی جامع بیندازید. ایران هنوز راه درازی در پیش دارد تا به همان سطحی از ترافیک بازگردد که قبل از ۸ ژانویه داشت.
 ©
 nimaclick, DougMadory
@@ -955,12 +955,12 @@ nimaclick, DougMadory
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 95.8K · <a href="https://t.me/ircfspace/2388" target="_blank">📅 17:30 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 96K · <a href="https://t.me/ircfspace/2388" target="_blank">📅 17:30 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2387">
 <div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/v1ytQE6YuGOadDu0aBd709mz8kmXXlhqQkNGlsMgdiJHLX2vYysIctW7P02oihvzDg8_uZB6U6siDR6Kfow9hGZ5OoCH-sPJKAQEyQ9hC-Hpb9QWpMtCNrsNlEbTfpF_aiyhzwtFP3h-WYkFZ4gFZZoc-AYcMIIcjaVhSZuvg5R6i3ygQ7e2AHC3fqg6s8_As6IpxAftHTYgytLNDOCHvt9d079tCgM7XQOlYjJZ2dRGHbmwJ1PltZU6g7WjPd5B8V0dB_PfLZDK34dINs7tcC4_q2fs5HNToa6FBXWtllBBpdlZyTeLdAO17rSZ_dp94Uu28Xb4JzBIVQbRF2l4Jw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/e7pVQ2DcTnbk7hf6Rg6P0VeUlAlHg3ShkUJ5h4MvHEd1IN_XrlS5lxK86tUZTJTbiK9K58kFjY3MnSwVo_sDwDsyjgxGN4nzbTsNyuofKSs_hajanV9Q2wE6B-D6cfRHKDHzdJ5w1YU4qqJocbM9apfYUPsorSFp9yPyiGYoCkg3WAEJP5lds7OMk9WXUfq2GptCvxdgYXXsvkHLCqyF6TudS30JkRVOOjOVc3FUkC2JOmyltiPBIjv7uSqzXh0wyyE-MJgK26Sdr_0C8vpe1m5V24b-iFfR7TKZVQpa5Fh0DC252CvXFRm09noRpWE8NyZXDf8S9QK0XZVsQXp0cQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه‌ای از تلگرام اندروید که از طریق سایت APKPure منتشر شده، ظاهراً یک نسخه دستکاری‌شده و آلوده بوده و محقق‌ها متوجه شدن APK مربوط به نسخه ۱۲.۶.۵ امضای دیجیتال متفاوتی نسبت به نسخه رسمی تلگرام داره، که داخل اون کدی با نام DataCollector قرار داده شده و میتونه پیام‌ها، مخاطبین، فایل‌های رسانه‌ای، موقعیت مکانی و اطلاعات دیگر کاربر رو جمع‌آوری کنه. گفتن این نسخه به سرور مشکوکی در هنگ‌کنگ متصل می‌شده و داده‌ها رو به یکسری API ارسال می‌کرده!
 ©
 vpnreviews
@@ -994,7 +994,7 @@ iSegar0
 
 <div class="tg-post" id="msg-2385">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ITwwD5liXQXC8OjmE80qw0WXIZdwR5maOT27xunn4cNoFCzpXEIyDOVwmNCsZI_nrEYXYmmobnbGFc0e_kJ9ftCHy-1T-2QgxMKqoSqCIc0-7bN2ZYI3E9eHoziImCkNFAx1Zh-KVnA8Fi4_SOsDtaCaQU9lNR6-1bfZVNTzrxL_IGC1MzyMPSnND7mmXNHvfOxBJMSe2LhidoecA4iNAJ4xjT9l6LTZh8xXCFQHcSC8jkS7lUANk-ptwk4JxAqqycuX9F_fklnoY45GGBed8g4Qes7L7wcJXwkdjAnOViz5MlvIIx21B-uKrLVTiYy437699A-C1ovW9-6JReSegQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Tsq-KM4-uN_fLyVjG9ITX_ZM78KRfbhfsaaSEc9eM21B3REUvfozwMwQsl5_ZlusdrAPjCFvHGs-ToSl21U1FOPRZSFEvEK4eSZfb2KopXweAasf_6WMqfnaxR_TIx2edhsRfKWuDJtNPLd7l3bCQM2Zl2fW4DPklbFBq0iV_GtE_SLD63hFl6Rj3jaM0GmHUqHFpR0P_bXNJf1NhI75K8-VHgJkLUIlBQkv81XiISg_SAOBKBWbAqeuzjyT6RQbq5pQ4Fky1CS1zdZ_o4mhLMUKQTwMPOs6pUzLY1yQbZwA9bkmhG780wnWsWJg5Ji73D6xqtnnwvJVRqSuL2jfrw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۴ فردی که در دیوان عدالت اداری نسبت به اتصال اینترنت بین‌الملل دست به شکایت زده‌اند، کامیار ثقفی، رضا تقی‌پور، رسول جلیلی و محمدحسن انتظاری بوده‌اند. /انتخاب
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1008,7 +1008,7 @@ iSegar0
 
 <div class="tg-post" id="msg-2384">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HsJLkuC8gYWz_p4kg_pzxb8I0IphpfHeZuUn9iz0t3Ky6RUKG3TF2QS6jOm7HjffUgPf_d71WsAYEN36S4jkYFtitW4hewb0rGIItXSCO4xhEgPKhrronz_9H-IMmKTmecofg1jtir06YXaTZC9tgerPcqMQdzFGtKnjXvfJKYu995g_lMl96fcEr5H-kF7TPQl51PItcv-2EAi-4RlIAyTOs0eNYJll-kLm3TMlI6mDsy_RbWKK1zCcqXftIE6PHNDJ_7aU18de-sStVozBuhYivCl6MMOnVOKHB-FRMBz7XbW-jVCRRR9e9RdROrzBMbTj5B96TbGL7WvYxjpNmg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DIY2KmzgGTQrN80nKx5HngQz1GnWCBTQuF5VIyOxpfJtslBX88-q9eVDp-nT32x3r7s-6KtId9nKEnnxCtVmP8ZSkDHUXBMwlh7ybJOAgVsX5yJ8rH_-7uaVzKXMFLsyFzpVhcf0uFQ9_hn1vg5hWBfDZY3uvyNmZRH--cFBxezuftPrFH_JPAkHXjj5wk4hmM5tFHbU-hP2eSpZFi3XzX288k_uXwhlUivwSId1q-nc9FidcNeIGTawQlS6_TQ3iIWphN6lrzYS6JA6zjAejnHRZdRzKJ8Y8ZVQy4CGOFEDmAN-BzsoEOQ6UsrfuqV1egyYuyp24tEC3XdmpSUpAQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نت‌بلاکس: داده‌های زنده نشان می‌دهند که در روز هشتاد و هشتم از قطع سراسری اینترنت در ایران، اتصال تا حدی درحال بازگشت است. البته هنوز مشخص نیست که این بازگشت اتصال پایدار خواهد ماند، یا خیر.
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1031,12 +1031,12 @@ iSegar0
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/ircfspace/2383" target="_blank">📅 14:43 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/ircfspace/2383" target="_blank">📅 14:43 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2382">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CAc_sRVhcaAg96WGPgE4g_djW3XB3anUpVRd8TESlA21Nzvc_7wvQQrG1o1ckRRpwiVzhOWhqypV510WjMk8PXHCtQpKJ2v2fhX20dlcYxKuEdk_tL2NJl0nGDXAEn6uEDGoPrVyzBjjKosIM1ptXRCR0e8yGqTB-r6g1w_EObLthHECAYychHocD6yPsPNX0s8fekUry9q_hKlU3lE_NwZSONJ5iu13Kcu6uydJd7S68Fjhd3xifaemPXK-nP2GSBZKpfCL8InLFT_SuqkgWPToOx3-4DdSUZWmuQMprpGRJzwP-d-OEBrK4bn6Z0c_JDZ3KXn7XaU9sVrVFOjj8A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GLjXd4vdGOSlyHo3T7zAX144BVu3fZ6wsu5irxNtuOLZvxsXGNSkaenun08sujIxZnCY0YdGHzhRpx5_s3kyaqzCV_3o33tSwP2amMf6ZYLhml8B2NKqtepRtHupP3FqCAbd4Qnx5kX1aR4oSyWwBm9ePHCtGEb33Y9pBCmI6ivkgieGpa0qDBpdlIsOoFCpD9oQN1h7nGvpl3qnxGeVo0D72WDZAmKGLPuKf-PzQ4lRHqfRta1Z9fPUiUmRSRU9Y1JMwU26GI2ZSpRfSqyaT1gcUAnUTSrxFM90pS4t5kKiK2CXQy19BTuRhDIcfyOCd0sNI9nqJjF3CHt4HrDTxA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رسانه‌ها نوشتن که مسعود پزشکیان مصوبه بازگشایی اینترنت رو امضا کرده و بعد از ۸۷ روز، بزودی فرایند اتصال مردم به شرایط پیش از کشتار دی‌ماه برمیگرده!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1050,7 +1050,7 @@ iSegar0
 
 <div class="tg-post" id="msg-2381">
 <div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/E-5Ii22cifk74QgYXDlFFjiy4hPexSvLR95zC7KTkleGk3LzlNV1IUTv_c_fA8WbyTFlXeSOUbgjSfqfpFQz8Elp6IlhGnV8lH4mQ6ezluBB_sYxat-NVJeN6GnNQBq5516eyKNIaWM7ukX2TwevLqJTAlzVx9FXf-dWuwQo1BRueqj6OpTiYHSqivfBDk8I4oL9g7cjGhlVjmecdrw-JpNnyNc-K6Nwc_LUQUWn4i3SLqAYnFioSF2kOZzNpL75dZmkyuGJLkkXnTdUi1GqxH_07OnP8RFxfEqRo49cJmWfi-VYKFHwbNl_-5ZdKHRL4ppzuKJt7T94ia6KeDNFYg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WBkWiahxyxxFCS_nQTIYmtKPP7c29u6b5QKyDvsTXhAyxmMnWXYbeT4Xrn611GVXEUchLmHgzEmDHMljklYNVsS2zpO5E_VWN5nsLLS0hx-cJd_IBXP-tGTPKrm0wPR0Pahh4my3YQ-_HKnHrbC0ob4ur6v3JTtvz04Kb4wgj6fC3tbtYr5UMjkdmB8fP6Cf4PqVTs5hbB36GBKtlVTJalj0K-Bt42vmSfN6pBWslahlUuCAlXguyVFGM3oos_QM-Qs7ZYQtwc4CBsFYgBWjbpgj3XthnzqRNlqJn2YA08JrDizXprAICRAsERTBcS9wB2wb0N_GuntPlN4YgYkhtQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نت‌بلاکس: اکنون هشتاد و هفتمین روز متوالی قطع سراسری اینترنت در ایران است؛ محدودیتی که بیش از ۲۰۶۴ ساعت ادامه داشته. این اقدام هرگونه شفافیت درباره اعدام‌ها را از بین برده و به شرایط غیرانسانی و بلاتکلیفی روزمره‌ای که منتقدان زندانی، مخالفان و حتی گردشگران بازداشت‌شده با آن روبه‌رو هستند، دامن زده است.
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1064,7 +1064,7 @@ iSegar0
 
 <div class="tg-post" id="msg-2380">
 <div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ODPU_iV1GueG9nQkBy-dV6tr1XOu6OWX2743wvNLpnryfNymNOicMuGGGN01Y4zGberfa27wSuVd2_-f007iUKv76kJqxAG2rR8Yl8P_iGln0PNgtBILVwOdWfhsm6Uc3xIGmywMi8MZmJ7lWL-5C4LUbO-6tA4UeU9mZDemXsFMzQZjBbGcBZ12zEddJiELj98thXYX4RMd88BPEmGGsI78obPEiyTsVvFW_QR5cXnPLMEee8kx95aHFCXPFSyGkES_-kuHdJm1nLCgEH99q5LmJg5MmZ2ZJchBBbCklba7hge6bzog9gPZrEYrDsuVEcZnDuLeMATWuy85s1QbdQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/c2SE-GFRm3DU0dUv8NSgEqO-UHmZQ9SeRyYW0kSDpbtAqlaaHxqncH7b6s2uD3TEH9KrA2ha_jJMu-ecQddfF2v7DAeAleVUvpxqZuKcYElx9RyIsknFpTXgk0agCpAhsZl9khDi9dMqgPbNZIDq8vmKAlp0cigp17GIax_4GLdCuJ-YIXFUDGVKAohVF6z9dlk6Ckr93DBmJgaHGluLFR-7hCnLhodp4JwQ1Jb3Gp_dL7OcgQB_C3pyJlqCRFfUP1fjrCQ3LOkP-wrKYZteMKOHZpQZRa4-KNz_eX5RC2_zoAvgyhYU-V6bDJkrQkTxAi5uCYTj9zcV3B4mTXyGYg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">توی آپدیت جدید از اپ متن‌باز و رایگان
 #شیروخورشید
 کار خاصی نیاز نیست بکنید! حالت اتصال رو روی CDN FRONTING بذارید، اگر قبلا آی‌پی و SNI ست کرده بودین، پاک کنین؛ بعد روی اتصال بزنین و برای مدتی صبر کنید تا نرم‌افزار خودش آی‌پی تمیز پیدا کنه و وصلتون کنه!
@@ -1104,7 +1104,7 @@ MaryamA89323145
 
 <div class="tg-post" id="msg-2377">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/aRpofke5axt4ATdFAzHcYD_HCjzOfeBTwAgnheVl0DM5siTCXiJtLCy7IlXtY8L-AcKtahrTr54P22v7F__NW5cldKnO1llFWMpu0Z5y3mfXvX_lW7u6rnZkRMpCIzFzSboqTq5u5GAljQt9qj_mFPLMDYSx56sOc_0JwSqGHgRkqV_kP2z1kE2qkkH9SV_dpQvPEGGnH_n_xoT20Lz7P-JQpMNBWpOQ9c9xFNxt29nnD8pDcNiyxzPJhpZrMamNLnolw7JKXRgdcKg5lZpsE1hWoHY6jbFzmcmelGG2einLxDf6fnG35ug50rqSRX7BqdLx6sVQGdVfBi4XxCJq2w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/muu8wHzrx_lBl-RfgEtwDvHLFtww4pncYMFMJpxDcAaqugExdYec4WLgm6LDoOCp372VRygvJusv0Y6-smN86B9_ZAcbDJ7LA55QcnRT2fcp8UKmxqN1irk9Qd7i1lVJKTxTT2bGSYX8UnW-gjVtuc0YuLyPdz8qn7Yj2vYVUAuzlKLuOX8yQ7B4dCqvbjHIzClaC6hryqJY-XauRE4Im5HnGoNoPM3f9UWpijUPkj6hyUCAyTfstzj3zePcs7GDxko8UZN4fbUx3ptLLsAo43ckAYFhno8l2F_z4BRzdA4JbI-myAHGgluRfth61KCCltpk0mjUNEhtkg2ZyHJFFw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قطع سراسری اینترنت در ایران به روز ۸۶م رسیده و همزمان توجه رسانه‌های جریان اصلی به این موضوع داره کمتر میشه. انگار دنیا معمولاً به رنج و فاجعه‌های طولانی عادت می‌کنه؛ مخصوصاً وقتی قربانی‌ها صدایی برای دیده شدن نداشته باشن.
 Iran’s nationwide internet shutdown has now reached its 86th day, while mainstream media attention to the issue continues to fade. It seems the world gradually gets used to prolonged suffering and ongoing disasters — especially when the victims have no voice powerful enough to keep themselves visible.
 🔗
@@ -1114,17 +1114,17 @@ Iran’s nationwide internet shutdown has now reached its 86th day, while mainst
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/ircfspace/2377" target="_blank">📅 08:51 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/ircfspace/2377" target="_blank">📅 08:51 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2376">
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/a874f4f669.mp4?token=d5li_fWgreJvs7C9lRNo7uTlw7Al9IDit4zpJuw5SF3v0YyCrvzNFx_86kTZsYzwerOKqSWkps06FJi0SWAHZu47-BdamTvBFL9gO_W4Eh-12YMV_-tz9RJHR0PND0Rne3JpHPUTG1eqliqgy7QIMbKlJOS2T1RyuES9VCGr8Xp1lXEKqZEZhTD7dTgT16nqG-hW3vKAbh4BDHcFSA8OajeyXpGgLQGnU0g2CnImnBFncloS9nM12Dj5tKLlerkxjr7LujtjRnAS-MiE9o1UTSMeHSktZXBUf26JRsxTs55kBX1VptiEqY7DUMqt2mjtj5t0pYJiQISjWAAVBt8fPw" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/a874f4f669.mp4?token=t_7aXIyblTxrtabKt2hdhn5C2u1X-fSCO4rpuwXyEXAntMZuHxfy0LINgexc4O9UOkxM-lF6_uV4Fcqr2gWAMRjIiDaw781xCkEb_KiWoV_QT7M2PQO91ZRzcNxPYDZQd-M9ckDEYRQkc0B9PCpZcuho9IVht1yq_Yrz4unq6IH5YOmeWFnQS7uAAfC40PUkChS-ktypRlhNGE5RlB8UoHjCvKCATUmhf19o_-OACNPr2A53qrxLhFj-TWL0_eiAaFKzSMjRy4fhjfjxd4hkgDtXML_IJa-jytM8dN-aluuAFE1iPvygVDCa_m9k15WdSLgWYspQ_MciJl4DV-vilg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/a874f4f669.mp4?token=d5li_fWgreJvs7C9lRNo7uTlw7Al9IDit4zpJuw5SF3v0YyCrvzNFx_86kTZsYzwerOKqSWkps06FJi0SWAHZu47-BdamTvBFL9gO_W4Eh-12YMV_-tz9RJHR0PND0Rne3JpHPUTG1eqliqgy7QIMbKlJOS2T1RyuES9VCGr8Xp1lXEKqZEZhTD7dTgT16nqG-hW3vKAbh4BDHcFSA8OajeyXpGgLQGnU0g2CnImnBFncloS9nM12Dj5tKLlerkxjr7LujtjRnAS-MiE9o1UTSMeHSktZXBUf26JRsxTs55kBX1VptiEqY7DUMqt2mjtj5t0pYJiQISjWAAVBt8fPw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/a874f4f669.mp4?token=t_7aXIyblTxrtabKt2hdhn5C2u1X-fSCO4rpuwXyEXAntMZuHxfy0LINgexc4O9UOkxM-lF6_uV4Fcqr2gWAMRjIiDaw781xCkEb_KiWoV_QT7M2PQO91ZRzcNxPYDZQd-M9ckDEYRQkc0B9PCpZcuho9IVht1yq_Yrz4unq6IH5YOmeWFnQS7uAAfC40PUkChS-ktypRlhNGE5RlB8UoHjCvKCATUmhf19o_-OACNPr2A53qrxLhFj-TWL0_eiAaFKzSMjRy4fhjfjxd4hkgDtXML_IJa-jytM8dN-aluuAFE1iPvygVDCa_m9k15WdSLgWYspQ_MciJl4DV-vilg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">بازم خداروشكر كه الحمدالله، وگرنه والا به خدا
 🤡
@@ -1135,7 +1135,7 @@ Iran’s nationwide internet shutdown has now reached its 86th day, while mainst
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34K · <a href="https://t.me/ircfspace/2376" target="_blank">📅 08:40 · 03 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/ircfspace/2376" target="_blank">📅 08:40 · 03 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2375">
@@ -1155,7 +1155,7 @@ Iran’s nationwide internet shutdown has now reached its 86th day, while mainst
 
 <div class="tg-post" id="msg-2374">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/a-ZA8XDbnBlOC0nEHtiE-p5XnUysHCDuqB2Ec_Vncx_2p6FNkSDUPUnxvepj6rNBHi5UPHeN-fiBP_HqkRM8fliBaGmF4rXPb8NvwNyGqiza5WhfaRWHgGVQR-Yk1mz9NuYC3pGpss-LX1aFQkncVbbbyx49afhqlDgs4YT8IAJD8Xm2wjETzV0oUZ3nVNsVCBX9p1RGM05DJyKR9wTqRpMrRQCnuBF9EsS5EDaFeePkknYchFutMnd-BXVGrEz3O6SWOYfLL1Q_kvzQmk_744y8Y9vkVCk9Be6XI2BK2pw2bza4F03pr9m0qrX6CkbAVPmXoLjwfTwGdBqp3muXgg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sO5ZRvBzw3xP0HEWAxOdd1U_M7WhVpTEwASOagOpUXzZzP-d58qXjexAFadjacglPcmWdawd4ikkpMMfKQRQGlVWC3P-h9TmKLC2Wv6L7DybZMLJwv5wli5U0AG-zWeG435sbqIRBZ8C3c-WwuVk9LSsfmC3O3tEE688RfUnDL1YqaqxvWaIDyPMgjuub0z6IqJKnduWl_BYVup8kMO3Qt-zoTZqMx-fyzxhTeMp7Gdkz5auMztvTPCgZ055d4cnUtHNbKaz_8_SP68eNCcjbS1r3mWYh45wqoVKz_QROSdj_Mx2U6tz6cNSSdjQ94LzZa-j55XRLNmeawC1UvxDkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۸۵ روز از قطع سراسری اینترنت در ایران گذشت!
 قطع اینترنت در ایران، یک پروژه چندوجهی است. قطع شده تا بین "هواداران پهلوی" و "پهلوی" فاصله ایجاد شود و همزمان عده‌ای بتوانند روایت جعلی بسازند.
 صدبار دیگر ایران بمباران شود، نظام با بمباران تغییر نمی‌کند؛ چیزی که جمهوری اسلامی را ساقط می‌کند، آن مردمی هستند که شعار دادند "این آخرین نبرده، پهلوی برمی‌گرده" ...
@@ -1174,7 +1174,7 @@ AmirHadiAnvari
 
 <div class="tg-post" id="msg-2373">
 <div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/m5VYWReWrbN0ATPKL1eM-wsOCIn0LfZwSshGl4-JyejEV0nt0p-tZ1WwyJTNmZzwKDKlkzVuomuF_eayHev9cZWch09LAsVUfmsKPkGzoR201K00qTmVREYvemnTQ69mxUsLukPdE8QIm76dEqGg9kdUoPw_52jEg2C7I6YmMSqIY1K2ZUkntSO0fQIW8Guw2JGQ6z_tosUSR8T5MXowtGYiKoccxRZ1bpPJtHMybeoqMSh07dcOS3uMXLKTAPXuauwIJhy_G7tcklXrw6CkDBXOxuu4-TQsChyXjPQJTdtf3UTYq64X2xJuK9eZm92A3tqXIrycxa9ELNEprEZvHg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HgU0uYczIRTXDuYmYhYp48wE_K4DvsTWz7nxGdIq8G-uMFNHKDBnqDh27O7bbHn-PQmZ-LIUwaaCPKu6PA4M1tE7JHV2Hvs_P2Bst5wK9cNM1PughSOQhpLKcg_z2MQ73VvisQyjMNSH8L3BgKG8rL0RTZ5z1dG9z7KDC0kGwC7mX8BaYm5yCsbIpzkef6j9tU3gR9D0ENFbadQJZ2RnH_7bem7pMG8HyeERIe7qp3VRKZ0Stm_CX5t7rwAAMKpwFGlVEY0eMON3HPg1S6Fl7KTcLSpnZ5MMYyIQ2z3sLHItuD9K8SVDk4iuL9McG4iQhd_ehnXCV6mdeAxnChrdQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طی یک عملیات بین‌المللی، سرویس VPN موسوم به First VPN که توسط مجرمان سایبری، گروه‌های باج‌افزاری و هکرها استفاده میشد، از کار افتاده. در این عملیات بیش از ۳۳ سرور توقیف شده، دامنه‌ها و سرویس‌های Onion بسته شدن و یک مظنون در اوکراین هم بازجویی شده.
 مقامات میگن این VPN در تقریباً تمام پرونده‌های بزرگ سایبری یوروپل دیده شده بود و برخلاف ادعای بدون لاگ بودن، نیروهای امنیتی به دیتابیس و اطلاعات کاربرانش دسترسی پیدا کردن و هزاران کاربر شناسایی شدن.
 ©
@@ -1207,7 +1207,7 @@ hra_news
 
 <div class="tg-post" id="msg-2371">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QJHb-YquRCKAdHjEDgEAYdICntp5GxPASwJ8rDGpQeRCd6hKUk6eBJVhCjGUujdLQ61fmygDYl4vkVJrv97ZdtxxD3LhPdrQyFmQlbkI0_LxTBh1unKYrz48THFb7RqSzxA9adhvUkoNn-bVnny4wzapEqTzVSqlPAQClQLtCMIlSlc2_ZKWehZje6Ka1l12bKyah0DdbBk2MHOYMdqUiI2yaGLuW_ZxawbrJAAADS6dRlH6hwUkJ5dAL42HjKPJ8R6bjaSRiu3BWIblVjbNN9fJZDb-TEYbDQgH_O1exIrIFoswOigag_ghKrGYtAkKUE6qFp3HIh1A2s-l2rAsJQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vbhu9QqEOH2ngsKR7dKeVt3eXzGVqvtkaYk5uW-5lg4OQjIZhiRN93nxHyBHHDhDNXHX1qt7acXlKFV8Pc0KfNqXxfInYCsYW2wtzzAfftfWFVhYizjJi7qnf6mLHg9bPFol6mY84STSgJgAHeZdTjrfNvSwjFg9BIpPKFqVO60WcMTvOYvhpQ9_1bmuqk_tHcrUBV9d4aGmlWfMbuiheuF4d_KGQlrB42DLmH6hl6CBsmQKepeL1cnBwUpiT8BxEvfE_BpI8F-20CxkvibZ2yjoUY4LMPh48fxO8k3wDAMNk18dMHZQKJZ8K--3sw9h9qivSXL87bcTrejCWh7s3g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نت‌بلاکس: قطع سراسری اینترنت در ایران با ورود به روز هشتاد و چهارم، از ۲ هزار ساعت عبور کرد. هر ساعتی که می‌گذرد، شکاف‌های اجتماعی و اقتصادی عمیق‌تر می‌شوند؛ به‌طوری‌که هرگونه ارتباط با دنیای خارج به جایگاه، تبعیت و امتیاز وابسته شده است.
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1252,7 +1252,7 @@ NR2OH
 
 <div class="tg-post" id="msg-2368">
 <div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/UU13mYqn-wdE5WyOzX2BjvMEaZi0-NZECv75-YfYbj-TvTVF1aVZWbxL827sPkeeWCYNtxR7u7yNkMAhZRKvDr1MbCB-ERybWIbpLBvPh8aexKnj24bgcxByJjZNnFuc2cUyTOECbOwS6z1Sb98BdtAO7PhqJl4Wwu8kpoteI2agQdYdk7Fuju1Ii4RzQDxgvYFuuenlwR2qxzfey7un1r-zNImtX84BONLbE7Ohb4xwg0WSjhs7Pr7AeN1rwNGNNYze4ROF9DlTFg82065Wymk9gwgPvlTjzso5VRTsF55PX1yRJdv_TUPZmLFh5Lt32pZofbz3LesWhP_UYfD6YA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QuN0BVMiRheMtSW_HriIiHig06R4cmDOtlzP_Q8A-UHtnDoAuVgHdu4rNfEx3se2NpLImoZVTP27yjMYMV3rIjKD7bCP_P7cga_vZ1UturzWwBLdlLGG4kOqtu9Ajt9Yd5k0cWnkWMKgFOInon-w3e8br44FVDmeK23UAnJ15QNHSY1wWTRVR1DW1WpMdE8VatzYNHmTnDcURXS7MhiC82rkMEfDDHOqYcGekUOWQJs4N6HuamEZyL5F7Cq9GbALtYUPBT7tGjY8RBZp3_fiuaddZ9mXHOcBKANkZkDWlP7sW0jN3IaF4w2shlKgOksL1EzCByStWqCr9Mv6Ft7QKQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محمدرضا فرزانگان، اقتصاددان حوزه خاورمیانه در دانشگاه فیلیپس ماربورگ آلمان، گفته است حدود ۱۰ میلیون شغل در ایران به‌طور مستقیم یا غیرمستقیم به اقتصاد دیجیتال وابسته هستند.
 او به وال‌استریت ژورنال گفته محدودیت گسترده اینترنت باعث کاهش بهره‌وری، تضعیف اعتماد کسب‌وکارها و افزایش نابرابری می‌شود؛ زیرا در چنین شرایطی تنها کاربران ثروتمندتر یا افرادی که به ارتباطات بهتر دسترسی دارند، می‌توانند اتصال پایدار و قابل اتکا داشته باشند. /دیجیاتو
 🔗
@@ -1262,12 +1262,12 @@ NR2OH
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.5K · <a href="https://t.me/ircfspace/2368" target="_blank">📅 20:09 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/ircfspace/2368" target="_blank">📅 20:09 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2367">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JiAfnKnThDUeOwILjiWiIhUz3Ov1T2-JZJP7n8kH1TLMc-ywFzRhlvvbLd-Wa4-SGNYMPEPzDbnUv1sGk6-GD4wHiOWAdo8Ju0ykXZOS5o1z-hO9bAYt2-L_mr9nDKPDXGi7Hvd8dZyHrt1g-LW9tguhAU0J2EPdam3LqMiZTwwEtPRlxbKN5ynk_DgliclIzJEDfa54wggonZOoWBpY619sbEDhPy5gf-aNzQhkL7vG_mbnntWkkFHSV08pubXcvlx998TyeZQXkTiWZnw-FsA4cmalQvcwX4EXAsqpecIbzrUaJIYlP9s47lTN6rTj3N7yanC52q15A77O9ZxahQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fm-2shWme4p_FOgoRuaQm9euI6QS0VghRtU9VBeTcKlkCFwEBQ3OiGa2-xmQO4k4jRSw8wuSKakitS-5CQtwJoPuMclCyOViAIu7twYpotvEe0zGYZ63OMZeaX9ojvDJmeA3Lzym89t5E-i7AltaptqDCOFYGOdO0kZ83mYCkhw4dy27vAzFbkA66REFdJZkALj7_PtdJznADVT2Xi00k5cOxSuYpUFmpTEJMpbxIDN0JQ7YCKRY7Q152k5vlu2KHcqFmM6NTxIZw-0ZbgRPEmcG8Ibhokrc3FhH9hI4lJGzF2mzrlY9LsWk40TY0ZXtJnQ03MLOKHnisKXwJXk3vA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">زارع‌پور، وزیر قطع‌ارتباطات دولت قبل گفته "جمع‌بندی رئیسی این بود که اینترنت به خاطر هیچ‌چیز نباید قطع بشه"، ولی یادش رفته که رئیسی با ۶ کلاس سواد حتی جمع و تفریقشم افتضاح بود.
 جهت یادآوری واسه
 #قوه_عاقله
@@ -1297,7 +1297,7 @@ NR2OH
 
 <div class="tg-post" id="msg-2365">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HAx_-mi8utrmXaE0zfSO25FosGTaZQVYaTV1gzJjSjX37SLpIoGjkOetmTQS6-MhIYHnIaOz2ZL2dGvrTpLVS_p39LzWLOjTEguIslyXlmbws9S7ToFUvl2IGAa46-DeJJjM-kUi_dVijHmkM0Yh-nVg5ddZdX7wU678WdOYxiTWBCAzaBu2XTwmybEaCbEW2O1YE_MqNB71RX4pDRD2UK9WdKTVV6T7tk4cIhf-_ANaRRRS4P9q2dQ5k0CUj9xTmjFoh7hBYaArIjlIupYCUCkj7tAAvATPehQHXVuuoYTQ72eZUYfJOziobcIuFrwXqnnH7Il8z-vCqCtwe9il-A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qrTPUS1h9vvvfFFRsoixkWTOXd99nBcaHewwcUDyU2U4aLJO-g4pvRvfHJ6quPJzf45rkzukWyc9bFqmR9yb3qaLDWF_oDZ4MsB6gA5HMj7BdhExdV5KTdmNnlGPQ5-_QhqkRvfWHhi5vFApWr086ABJkY1wF1MG-Fd9RGw0fFt_SKvWGqu4znLTIYCeGmEcpJR8-3fWjgSRq_P2noZ5KIBXI8gOpcmdKcMkPd49MYaPrI1fByW_I4ef9u7tiFbXIwvyn7JXroZ7utLQa1pneFzweOnDLEFdQAF2ol-kbRSiQ-t_k1Y8nb3dAbvsqcUoDU_tIOh2fGSNR8wf1nzsYQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قوه عاقله در همراهی با سایر قوا، قطع سراسری اینترنت در ایران رو به روز هشتاد و سوم کشوند.
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1320,7 +1320,7 @@ NR2OH
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/ircfspace/2364" target="_blank">📅 08:31 · 31 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/ircfspace/2364" target="_blank">📅 08:31 · 31 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2363">
@@ -1341,7 +1341,7 @@ alirezaer
 
 <div class="tg-post" id="msg-2362">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/G3uX6Yd5sOSHROh-19nhaRhMlF4kUl1BkYT1e2gON0HfIAM2Mar8ZoYmsg1ELJqPYTbMuZQ0pkXqAK0wrCrS4y2eWGe1EEtBdG1dMmti4GYtD5AoGthe_bjkMdSDXqj9W8Lpz1cyJ-6X5iNcrBRrLpHlhtUdOcgDomCJ5iaf-KoJcjjwzeIhWl4QRgXdl2fkQsjSSrGgEA-L6q91AdQ0v_uj9x7MM3pzwiEOYAujkeEgdXBwNkoUkcYnZgLQyEojYTrINvV61IDp7PtFdTYj33fiRCHXstOzG7AdowBe9Ymjvr1Kc5-G9s7nQnvamptAY2frN1deR_JLgEoyVDMsfQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eWLWFwK3c1G83FAUnvVu7n28cAbp5lMbq5EcrlkFjXQuDKL1Ua9Laz98kRGVrcTnHzwBsTkq8x7lgB2hSgWqKev4-GaePdFhOZ1iblgfsSoNXXRBviqSXmGoseD7C1RX55MpVub3z31U_DP8nMcF4_LCdZrylYxjd78rpXFxcbQgymdYV39V9Wexubi0qkWnq8LsWj51kNgzvlmku3gMR4fp58BbtSCaOiUlCKnlS2FpfjxWYQdXSL6BN50WXjwX3WzyExYl5R53UltCTKH2_ygBVcygDZhS22GJ-FIrwCOj_Rkz5Oefk4xxDyhEnWLRaB8cH4wmZX66uT0NAZ7CXQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آمار نشون میده در ۳ ماه گذشته یک پاکسازی طبقاتی دیجیتال در ایران رخ داده. در این مدت سهم اندروید از ترافیک اینترنت ۲۵٪ افت و آیفون ۱۸۰٪ رشد داشته. این به معنی خروج میلیون‌ها کاربر طبقه متوسط و پایین از فضای آنلاینه. اونی که آیفون داره (احتمالا) از پس هزینه کانفیگ یا اینترنت پرو برمیاد، اونی که نداره، اونقدر دغدغه مالی مختلف داره که عطای اینترنت رو به لقاش می‌بخشه.
 ©
 arashzd
@@ -1357,7 +1357,7 @@ arashzd
 
 <div class="tg-post" id="msg-2361">
 <div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RK2Pg5nr3HLMVpjDR_UT2GHDwE8a-9ohB6Bs9u4pzdaJJIapuX2nsJO-8YtCRHXiRjGAh7Kjx_JS3GPrIL6DiBNDyXmF3S1Lmo0IPjBpgh-DTy73nL3C3fn2_XFFjvPt6Z6eAQVrF8nFfthc6Ht5r0_qiJw_3M38CQwofzsAJkdCIpmYSHqra7O3osQUIDMIVRFMNlKiaE96WWlpvP1fnShGY0wTxfk4MPGPN8_RurGcAYRx4H5brxnANHMutODp60w08O2QbkuwzS6KcpmIBbC1sKvqjSS3uHJyNlkNQ28oyDndX5Z_DhHb7fFNnOyPmBERID7F8RXf31zlAXbWfQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/T7u-qkZuuJLU0QdvRDRt420HQ5wxbIaEXT3JA0dHFIgTKiAkxLMKH860wqZWqmvsVZ6PlOibDvNu4elTiVyQOGDCvAu5-GqdiReDbvHMNCoL9P8EM98Mctoi8ykrKnTVkdjHT-S-G4tRku7-T666s5S1KqAZ30OkUt1AKd0L4DDQ0WesymMh0XBuCVDe7zTtUFk-fUPNQZgEJHfe1LKaY0CFxQrX9jSRPBbvAWhkZppe9sFGZRaIMzAgzqYUlBtG8j48CvNst5wU6KLjXzDzh9LJeA8lTWTLI0HX7PpsJkP_V20C2wFy6wVSVkzN-lk8LmyPFBXen_8qyZZNQHTz-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هشتاد و دومین روز از قطع سراسری اینترنت!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1366,7 +1366,7 @@ arashzd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/ircfspace/2361" target="_blank">📅 09:00 · 30 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/ircfspace/2361" target="_blank">📅 09:00 · 30 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2360">
@@ -1406,7 +1406,7 @@ hamedbd
 
 <div class="tg-post" id="msg-2358">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Yd6vyY57HPGoyvAx6lyIn3CVFV5aSWvUt_3JZMAx0kgunqc4KthEM59jvknvglt2oGeUV8727m4gtVlvqrt2fPz-l77RdDc2JkSMnfusvdegDz2DcLU0DVMrw2n6cbT0wU0aBa1-61gzUC4ag85-oJetMqbgNrBD9IM4n3Lg7t3UPgmo9olnWiqTpDe2m1dCPXgtpJUwORGk4vswbSxUnVjYfDFLJiqhqbgM8NUIlRIeYrDwHFfCQp5QrIyZSxGJjkOphUv98jAfhFO1bxXUcryhVRZwp7wsO5qIw8soxcy8alooH6xvBWoLaf7A6H_OKvs3zi137rAtL2x-7dcQEA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/B5XG7UfzZidQB9ilB37I27xzsYW9N8bEoQmpPjJ9AiF1ljNekQRQsTkeB3Y9AM9DP1da2ANDPqT47W2xDQXbN0wfk6OvSsGeXhilqBsuPmI5vVC4LGJJpRr452Nx7rfESBYDMHEX6gtsEUAVuFNoda3m9EPN9d47gaSGFkDQ_FPzu_9Df-7MyCbircY_ArE3_RanN-SwnXN7nzOXgkaUchVcGgqWFMr-N7nSbKgRYF-HmyRsjBbn28nvGvgytFVHLB17RK0pHLlT532lSefEVtB568pOnqR-gx6T-OBSzIa9P373pfUHEvOBn2pdX0mBHl1GORZa7KwSf5VIci1cUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در بروزرسانی جدید از اپ Network Checker برای اندروید، ویندوز و لینوکس، قابلیت اسکنر آیپی Akamai (جهت استفاده در اپ
 #شیروخورشید
 ) اضافه شده.
@@ -1426,7 +1426,7 @@ t.me/PersianGithubMirror/5227
 
 <div class="tg-post" id="msg-2357">
 <div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZoYT7BfaBmBgZqlGXEwRCn3dISnN_l2GjDbh4vKqERC-9CU4GLR6hqPwC2EfLttQkCFJjkvu8Z3QxJS5tW-EL52RPz5GY2XgLrIAU3yiYhSxHMSMwTsYmN9m55Tws5wHJBTanEljX5PPkAY3cpc91UVdf29_pIhbTm1edYxuOlnpQT3RH1bRQetcvnTgKEKyJSX3Mg3Thr4ox7RoLNsz4uPwib7GBJMqz_G8mDt_eE4sQ-zVHcE1e1Oliy7IYHMCrxS7js7isCB_BXkNoY6Wl-zqpakWgAvQ09ysxVGLSd_bBjLFE8HSgSXkEynsx56PsJXvLn6GaHC9htZLL8lvHw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/dJzWL1hBWyjqPLd1QpRz_p0gr5ftLPFdxqo_yXbe4l9A67qGvp1rbdJjfeLws84NIRKrAuTj74BEBrSiXKaEAutddVSlFZ_yT7tAFVKXoCehBg5edWRzT2ys3JU5CEcaXYrtKFkgJBnGfN-PjhgLTcsB_CthShz14BjqBzhjnihHk4WnLgBw_8dbHqpfyAg1e0_IiIgAqcrZ3TtAEm_DhNkWiLQZYSW36QOwGqi2YOhKeY09B0ZmRdZW_6mvF95bRZMchApchZBsXFCNGXVaveaYgboxwBsMlGSsKQBaOZ90i8mxjzCcgA-XNaPTybiR9wq3B3f1Ip2KpR9LKefUFQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ NexaTunnel یک کلاینت رایگان برای مدیریت تانل‌های StormDNS در iOS هست، که به شما اجازه میده کانفیگ‌های مختلف رو وارد و مدیریت کنین، وضعیت اتصال و ترافیک رو بصورت زنده ببینین، DNS Resolverها رو تست کنین و خیلی راحت بین پروفایل‌های مختلف سوییچ کنین.
 این برنامه با رابط کاربری ساده طراحی شده تا بتونین وضعیت تانل، سرعت دانلود و آپلود، پینگ، IP عمومی و سلامت اتصال رو بطور لحظه‌ای بررسی کنین و مدیریت بهتری روی اتصال‌هاتون داشته باشین.
 👉
@@ -1454,12 +1454,12 @@ aleskxyz
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/ircfspace/2355" target="_blank">📅 20:07 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/ircfspace/2355" target="_blank">📅 20:07 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2354">
 <div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/puxTsdVv3hN2r1uuXWNtcFhbJbA_AwnVyFg5iVWNlXSQGfMa4R-XT8BkhxSr4bJWm1NtcsvGDPqeeFisV223T6Q95D2ikyezYPlc0IFuMGILBEMf8_PZ0jhcdYCcajW-eW4cV_4nVMwd9HaU0F27bPV7CWQcwi18z88mew3jb_K0GVVy-vC5iwL0X5ZCbAEurFFxgASedM3Myu8s-YzCdlqyZx-AM1Fc937rxNh64OG5kSxyB39UeUJqQeEPwBw6IJdFTBm_q_J0_ZkQy9dOSsoPCkFAmDMElGGop-s_L0tkFDLDyceUm0S2zD1nE0uOMspuaiphgEiEQoMIei8Pgg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/g9Yh_jv58fqhKWL6_DoiPQ_jZHQE63GkfpWOuPxvTO4uZhhyajtE6OvyAzYyrukY3QiNgSds2P8AsLtEtbilBwr48_HFjKdhPmc3UNgTRVCsaMWybHxay-cpWcj3YBfekfRbsMM75BIJ9IO5z1izZVf96yLdXMcDDV5hIJ9R3SwtaMHC2U5PQwXZ2J8dxd3fRgQVRO1_LKaHzVyQ6ociF3LfcmunY2DCX91Z_HB1Ota_OniQf4Wj6XrTqfQwrFqnZMkHzPn5kGsZKvwrcrcKaWje3bLb-PWcvDvkzsAszX8s70QvRpdH6hguNe0SwuI3eoQjzXdj-ury3tncqFeTXw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ما در انجمن تجارت الکترونیک تهران تجربه واقعی کسب‌وکارها در زمان اختلالات ارتباطی را مستند کردیم. از میان ۹۴۴ کسب‌وکاری که به نظرسنجی پاسخ دادند، بیش از ۸۰٪ اعلام کردند در زمان قطعی اینترنت، فروششان بیش از ۵۰٪ افت کرده است.
 اما یک نکته مهم‌تر در داده‌ها وجود دارد: حدود ۳۳٪ کسب‌وکارها گفته‌اند در زمان بحران، «پیامک» مهم‌ترین ابزار ارتباط با مشتری برای ادامه فعالیت آنهاست. پیامک در زمان اختلال اینترنت، یکی از آخرین مسیرهای باقیمانده برای حفظ ارتباط، اطلاع‌رسانی، پشتیبانی و فروش است.
 حالا تصور کنید پیامک هم قطع شود. بیش از نیمی از کسب‌وکارها گفته‌اند با قطعی پیامک، افت فروش جدی (بیش از ۳۰ درصد) خواهند داشت. پیامک بخشی از زیرساخت تداوم اقتصاد دیجیتال است؛ نه یک سرویس فرعی.
@@ -1477,7 +1477,7 @@ NimaQazi
 
 <div class="tg-post" id="msg-2353">
 <div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SiwTYmkUfvKHAKL8xfAYSpkhNE2odS1kNaqS5MXB7Uzo3FNLlRtu8BAUIjQoDZU22Knf1xv3uaEb-34F1AbKx-YfJAhDrUAQo69drGtPFTJcu58-w2cHiuiGM14sInulSMD0T414mPYhgA37Kp1Fu79rM2VC_sCNjuxI9LMD7in2mL1gesgS-3J2Vh3mi-doSfb6sOKqhKyGD6AbrUgymPmQ6CNrxvpqUn4t4C6Q0iUzHfSHkrDTQlHcDckw3F-PmTljFeXKbs3TfIE0yKWOOFpvdToM8Di60kZpf6GlMx3mMwMkMHecm67OZSUPlbeIeEvdDqs3_NVUdqLzlyDNYw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/q0qIqWDXdvu_cUbhkowJk0j-OEMTnRzFRSdHqCExCTBNxFBD2l-nb9DFktDF96RR3eY47ruxnvXP8QMMShju8Yx0Y-ks1EsEAethZ3zzaWhFUEsj-9K2DQatLhAvtj0m2W0qamVMryZctkIYYD9zsm-yRtCzMhFtv723jlIrJQPRpyYf2_Dc1WuP9C_NYPbE9P86XSAggd6oVuqAdTUL1jAeozM2tUCYFmtDbRev9uWQlAgkrDDRXf1DF-F3621YDzsCtpV8Alf0ETIg_qE0wNIzLeEK2zH-YJp-cl2GuEoYp8N0AShlMJjy8adEJ7ueQFcaca3B2mNizIRoKu3d5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باید به افتخار وزارت قطع‌ارتباطات ایستاده
 شاشید
 !
@@ -1496,7 +1496,7 @@ NimaQazi
 
 <div class="tg-post" id="msg-2352">
 <div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/q_2jumV-9MrpWvDSGgPHhRExs_wxEekaxF3y2mRybGVeuaTiEoA5Cl4jOVt0381cQFxGoRSe_0wVf7xOqyTbI95np_ylMw6gFn9f_OLLCJ5VBZ6xnGxmRk3CdF169NYd7du3_0vWh5u-CcAY5Yp4AHGDq6BSpr6tytx8EzsgJRDBACAHyf2aXlKZbq0HLPUJMNIOYtti2Lledc6Dma54NSZY2uR-Gejb-YX1d26fKYMil4AcQftuj00u4o2CQP_tJlEMgo4WqCzUYcoJPmqsYq_ZAbgZxEMLT7RO24iiUNI6EYraX8Rc-vkivPn9l0tb3P1cuVhXIHwniV2xZQxHdQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/TG8kaU594xGA5KyVa0jVEVPFFJLWQiHCu7_XVJnCKlSdJWrv17MXhQCoMod5qadMm4329PgpU-ZjFL713liSOpPDP-BGtd5mbRBdrjrX6sVZzfnBl1kQURFhOHw-u7fSK201xKpFAl6MbOiKGC2usmZ06SyhlY0yquWeZOWanEjOS-_G30Vg3_slMU3ZpKUCbhCKQltsYmQgIAKl_UnXThG7o-rD7c4Zur9IEGO1AxMc3BijR2gO5vGeRrelEYaN2ywNnuwP0KqPYA2yCMpZlSPS4HF2YhzLp6h0Mr81e-eZ7LaJLlPia9wDrW4C966ZmDI3k56gXayapBgyVRahJA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ستار هاشمی از پایداری شبکه ملی اطلاعات در دوران جنگ تمجید کرد و گفت: شبکه ملی اطلاعات کارکردهای متفاوتی دارد. در شرایط جنگ شاهد پایداری شبکه داخلی کشور بودیم تا ارتباط بین مردم قطع نشود و خدمات مورد نیاز مردم ارائه شود.
 وزیر ارتباطات افزود: در دولت چهاردهم نشان دادیم شبکه ملی اطلاعات ورای یک شعار در میدان عمل کار می‌کند. این اتفاق بی‌نظیر و شاید در دنیا کم‌نظیر است. /دیجیاتو
 🔗
@@ -1511,7 +1511,7 @@ NimaQazi
 
 <div class="tg-post" id="msg-2351">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rL5_dQ7sN-FanjycOwFIQ0LoNV8AO0-oj6C46q8BtnynF7EmOmMqMReE3nIvbPLkRGiDsvVKiUlJzgEgZKTUzNWIKtYwW_zOJ1h3pXq1DPdkSLRoDWfJQbmrde9BrIuSRLsgLTaEzoKmXKp5i6FA6BIRCHH5d7VxddCkpa082htYJNY2yY8hWnk97uChsgzOmHUJWsCitlODekhNNh23_U_6chg5IuQqmV2O2M-CJYpRRKe0RN5Zkbxhfw-6-qPfGJSG-6sGlFsiBVKcIzqdEiF5yWaM3r-GAP73N-_k7-fhANbtgLOHh-QB3PeouDva9S0YUeOQMPIl8ybNnfW11Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZCmoW7MyDrDUHUnxjItqJooj2P5rT00NM7mwJmFEajOzrHuxEEi1-lE0-oovjhVecF93OmErdJXIZgXXpBehtKzbaPLQDvggE7NfLZIg-0aLXnLqxkBinEW1CbHx0jj3ODhgrqfEzt5P7T9leMZvHYRvGuir0xzRd7vs6Bo18D29jZgLsQtwXUnb508OSwH23e2f3D3loGlPFdExVK3cywbyggSLjI-tEqTXt7CktpNi8dJzDNAqJw885MxTQ8iAd4lOFQhATuo65iwZV0CTQ2ZwVAqj2yXT_vtTNYGqR4eiXPZtNNwRoN9tVC7eoDtjrlGq8aqtaIIHIzbXyau7VA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ اندروید
 #چشم_عقاب
 نه فقط یه خبرخوان، بلکه یه راه آفلاین برای دسترسی آزاد به اطلاعاته، که بدون اینترنت، بدون VPN و حتی بدون داشتن مجوز اینترنت روی گوشی، خبرها و اطلاعات رو مستقیما از ماهواره روی دستگاه شما میاره.
@@ -1526,7 +1526,7 @@ play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 88.1K · <a href="https://t.me/ircfspace/2351" target="_blank">📅 10:02 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 88.2K · <a href="https://t.me/ircfspace/2351" target="_blank">📅 10:02 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2350">
@@ -1545,7 +1545,7 @@ play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
 
 <div class="tg-post" id="msg-2349">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/q3R15BL_WxcTEuTKWs91cDup_9D3cvsDKlSDE8-UPLgJtuORXCA2x06PQKTuVDYZEHxQemJ0gjPekwXHDi4e8seieUj5EBl6nc9YwkcDHAj09otk3COXm0elPxIzINvkNYLuljCTs-0Nfk86Cb0pSE0ygZrzdnVu9jBdYmZq2k_8X7ACi3fvxbHYLJTwKhMIP9lowdIlr-nWUHAyXqSxl7DAF9LAX3A9noD92jxgIcw7H70GNxdPrECyfOrrwfoUI024KeHHSMGHoLY1aQRv60Jk2Oti3NOs3D8qjahuqC33n5bUPGrOULTFZZFGRilaJgT91kgO-pVXnzWsP2M2LQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/N91e56EwkdOLMZ0bVs67frP0tcwdkfFDfISENoj95Pwzy9nhVmy7_MVGlSpk9NLivAPstVfJoKbn6UJGX8BxB7Pm9fectCuEdgkSSp_uIMN072gIa0oa8A8sc7Z_qYeD_YbdCS5tTG2E3jZxI3n9RTgn7INIE3XeNSDr0qn2zCU1ues7bXsF2nKaUYfbIbpj-DxjL04Sj_8XRJ6vS41kjIxC_Rjn22v1v8ckqugXg-UiXNvxd2xlEjPgIrrxTwpEDfWjYKNeZcltWng3_qH4s-itq56i2aqsoD7ykcVpJmgyMl_VfNGo3wAYKhTxvRNKS8likCLnLFL6LgvzskaTNQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مسعود پزشکیان بعد از ۷۹ روز قطع سراسری اینترنت در ایران، روز جهانی ارتباطات رو تبریک گفت!
 🤡
 🔗
@@ -1560,7 +1560,7 @@ play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
 
 <div class="tg-post" id="msg-2348">
 <div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kvUUHtXwV8QDbLC_0Gc-JXivuZtdF_LOTngaLYGFnP4KDGr6oSA6VnGZEsrGZP0_Fzh0MDZvFm_YsJoDh3G1V4RCcijQkhOlur3XjeGSTgI109rcJ0UZseJ9moyV98wK638ucJ4JcFT6wUQvAYx2-x3DuhNCGTjITC0K3lKW9KbIJgHyA9s2ae30m1q1VgkK15KOH6XC06l3CRv77d_k0H5eKv9WrvBbdGkw2KiisFizgCuwWQZaPAEl8AwFaynI-U9XkvCSnVvI0oYPh85RZtd_JASZc-6fz5DKCZMD1yjb4XoydHqoaevioVNRHwB4ybtOtUF3ueNs245y28gN1Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/aSPvcN8lztTZGipIGFATAIVfpZBWwHb9yunJw0hmr2U-IUgIbGnPERv76KAlUgXnWRBvefb4S2O5lHE1vOcjHCazC-CsRXhKW221KcSXliXHn3gFsC_JGSdMaCM8wc3MK8rHF6pbtZmzZM02rDXKWq6HRFwKz1ccSPqRtxy-m-7CHnJZU5KzUwBScOxp83otgxnvpaK0iaY-sn80CUputR31HQtA5EOzzMT8RAeWkiS3MKLpMc6vD-OTiBcbCN_zVM4jV-0CQGRMCo98ARnMzrOoF7UZOzaxG2IhAeDuu62Qm2cNXJPGZ8Vh2VVrwhFa19wZQobZeXRmVS1xoHJQUQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سیمکارت‌های بدون فیلتر، حفره‌ی جاسوسی برای مسئولان!
 در رابطه با قطع سراسری اینترنت به بهانه امنیت و اعطای
 #سیمکارت_سفید
@@ -1595,7 +1595,7 @@ play.google.com/store/apps/details?id=com.filtershekanha.cheshmoghab
 
 <div class="tg-post" id="msg-2346">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/P3dLR2e9ZVyfaiweXwyKEUA1CTb3JN6hI_FvbsTYTuUxUjOEKBCjQZo07BD1OdZmFrdnvaCDgPptkCtnZKJ3PLn2Wcfh3zRVrMffukESTdgbmiwMjd7KaX2zTdh6Qat5hUNC2vYNh6cbZAoYqQyMVSSQRD1bzUV9A54OTqFkFmNRDp_fAUXPi4qzOAG33dDs1WOaELnGKS7-GtRgDhYSRSNzdsw0ws1zNbPl2IpX6j7kILJN8FC_EA5x_HNIENyNFJM-DeTL6TUcZtxWhR_JxnoZewT-ndk-F00u5cqfziLlpjkcdX7R1pMrx27COHy1DAqKBizS5yIjwE_JCwD4mA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/BHjKQGZnFFvgAAEhdTszfvYa6nCOg-joSJvLQ8HLOJhdwV3ZhukBiRHwmsFKbS1EXuNnmGvt3m9zPKr90WdL7BW4GzMW5L2nCk_Hvm1Sxe_PirXoNEPgqc7zuvIO9phcVDnT1iTrBaJPUBzFGb06LA9qSK53KY2ZQoPHc-P0F0aAjc8gRPkscFV0RiTIp2QTP7mcW20Tmz8MaHfClGztk8lsRLYZJUbxogokyfHmu9whsaLGihIbqsrBRtMo4wIQAT86DaOneOBVeDU7VIFj9qLPuxtXn7hgoaT3_Ig4e_Z0vLAGTSKghQTXiPOTAjm6jONiMu6ZcXOd4COFODpyQw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه ۱۶ از فیلترشکن
 #MahsaNG
 برای گوشی‌های اندروید در دسترس قرار گرفت.
@@ -1635,7 +1635,7 @@ t.me/PersianGithubMirror/5051
 
 <div class="tg-post" id="msg-2344">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SgcVAmVjI2rbbmJ1OotSpejDFj4wGOzSDDupMbKbXkfot2dKqxLedAQ9npA231rGqDRza8gMWQb-UjeHJwoQDt-c0-QCaFfd1Pt3fUbq7PJBixOpsOQwgjKcSxqDgUsMc6W3lGdVr7g6IV7tiz1W5dMWbnbr70aJgnr6CCZXNx6VzDUbNx4k8RuLZj40VoKmuaH6MREffNalidz9BAd4Jxa7Aymmnpr1f2bexNKCYHYiXe2cKBp2OlsinZhbkil37YKsI9Bs3TGTjdoLZihjXzrI5Sg56ELYGXGvIj40eu0POL6xu52VE_lkDoselbThNH1l6jiLRRMkGjSKCDvLVA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Gx4efmQxNWYzEnNXwgxPmnq43n3tPE3cy2Wm7mj3QxpGPkFnAAVcYIFWVGnu3FnJwqZvbbN64voTtz9FrAaIZgWHDZ08AGBLyccSWUYJwgUxLw6YfEMvSqRybBmEodMGOXGa4RtFmvRq7Uhgd5Ae9uhoMCYF8BD_nHE7fDa2INrNo6QKyAxK8bFEZ8GbnyeiARUkGDQozY0u1rgS0SSWAlJvCofXEFml5TVuVWE8LlR4e-OTL7wgOLbWUKQdAkocjlQtgIGzXvIrI1gjSf6KAm5w_pRU4L6EHYoP_bX4gKr3Bb_zuqLqXxP8UWp23Pgs3yG0oH3ZLuuAOsr9IHnfDQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رفتن هرچی که تهش Hub داشته فیلتر کردن؛ حتی گیت‌هاب.
 قوه عاقله‌س دیگه!
 🔗
@@ -1650,7 +1650,7 @@ t.me/PersianGithubMirror/5051
 
 <div class="tg-post" id="msg-2343">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Osh4lXxXk3NsuurcCcNojPd7m2PHNGwRrQ_mB_EzqxjPb5tCpC_UaglkdjfiF5KRwlSmWkez1-MC-bwPM1MujaxrY-maY6-_ySk9AfOT2mhJQdQl9cxHDmw7E91B3h3_P7qY90KWBWP7yk-zhc_t3Ty4OvaI2bsczd4OiFJJSS_-yo6nAigUaTnqphQbdF5y33F4XNM8ZoNLR6kVPs01CY7wIcxgY7w9puE7nCLyE3gnQF9X0j-x58KBAcMawFIgkdrjbWqkt4_bK7OvXC_8czF47-6t9nxnvxX1OJVapqPWoGezrWWUTFX0-aoHh3C_TvGTvo1wZOtFrkg36O_NMg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/brblYgxXkf3IyF_BLgbPqKMd_UilNfmbLgxrcOpV8WismRjgR_IYrzrz5EjSfxkiiBd3-X-pGVBn2Da6WCkSXnz-Xs32l7lWVcdHnrpifCUdMiA6gOz-v-bgCQmhkzfGYDSWRQZG5MVS6Sfbbxt-2Wcl0YuJ_XTZp8TCZsaxnWHl7wHOYUUPlsXcIiBMvknyj2q5RR2be0sv9t8qobmx7r7Qfh4Qyp1kHOQ7PXXael6tcCbUifNpDh7WmJAEU0_au38Hq5ggyjEiSiZ5BBoKHNEnOreT5fuYb2_-VW1gUlnrcuUpvmld6-vV-y10lfLoD-mvpozKMJX0BWbcyOqhVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ متن‌باز و رایگان TunnelForge یک کلاینت L2TP برای اندروید هست، که از امکاناتی مثل حالت VPN برای کل دستگاه، حالت پروکسی با پشتیبانی از پروتکل‌های HTTP و SOCKS5، مسیریابی، پشتیبانی از چندین پروفایل همراه با ذخیره‌سازی اطلاعات لاگین، بررسی وضعیت اتصال، امکان استفاده از DNS سفارشی و تنظیم مقدار MTU برخورداره.
 👉
 github.com/evokelektrique/tunnel-forge/releases/latest
@@ -1668,7 +1668,7 @@ t.me/PersianGithubMirror/5008
 
 <div class="tg-post" id="msg-2342">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Rz9ptKKYZGbvgXYA56pQDOYyjscxIhGg8FHBSW6gtknwO8Fb_CNyGrPXvtJIB-GbvDjjyCgrO8eBaS2DJEqXR85SMtL-PNkSHQy7VgsuykIb9Hbfjzrih16r7kedGURv3Lp-99fby7Twzba0Qfg_XUuWy3vJmmsvZARvyXa4FOPkU3eoI1GIoCiw_AX_tkQo3pD7iyICuPm7k41KcFt3hcKxz2zb3BcK-9ioL-jOHNMuVEoSF2e0AHSf7kbTj_OYqSbq05gLe3j87d8f_tP_FQS763EmBYyCUCCthihkZohN_agieamkEiiqhsKOA3pmWNt8leNoKc4_2IjNcu8t2g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/apr4GbH8tktRXJLLfqlR-I7ewWyQ05gc000paiF2N66mscAKvpjqDDClCPMcdD3oSSrzppFguvlaCR-ozFvjM47CWiv8UKR8CGJDlSmFoUpS7DolTKJZ_k2GYIV2i0IqkA_6gsNhG5O_EQkcliVpqLQM2nnXTZlVmYPzS0s6LgkHXkk3M5xJDq39gqn_jqQWtTlp0fihXUz-JNu-7b0D74q9nBSOvOzfjXpC4H-kwJiQFfLh_rKkx6LEPUOogmFRljBRbwHpai5b52kbiDooHoju7QWUCwaQB1jAGRDttXOUfyn4Zx1u3aL1OstiMKq-fQg9jUazoF5KScNHeFI6Zw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه آسیب‌پذیری جدید به اسم YellowKey در سیستم‌عامل ویندوز پیدا شده که توی بعضی شرایط میشه BitLocker ویندوز ۱۱ رو با یه فلش USB دور زد؛ البته فقط وقتی مهاجم به خود دستگاه دسترسی فیزیکی داشته باشه. برای کمتر شدن ریسک بهتره ویندوز و BIOS آپدیت باشن، سیستم کامل Shutdown بشه نه Sleep، و برای BitLocker رمز یا PIN قبل از بوت فعال بشه.
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1682,7 +1682,7 @@ t.me/PersianGithubMirror/5008
 
 <div class="tg-post" id="msg-2341">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/M0wi8RyPrIXBQO60LnK9zuMhFFyMfZ5CjqvEd1yeZwaiD8-Ohpk6D3PIeDpR04hZjWY7rUqYT8T5awTBLhnQB_TG0h1G8xMJytFB6LNg4TW2m_FGAl9GOffu3iFSd5t12ZCKseGLeBEcLL4GWGTWraRbFHRE41_uZ01jTpuAXaZOG-vl_M_Xa9kCGQxa4rQ9mbRL887OyjRSZMaCij5fTkpma7DKFqkDOHMuXsaVaqn0tS1-dSsNt6KJ7UyTYDkb_FAVkQy2V440xhi-zQiGNQLmEvszDvDJuIAxsnbue-pImZblazbxfiYTr5mSQSAhh89VdOsr37Zy7_vCRRAmag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/bdGqLEVK6rgJxlpMqjB1Y-6ciJxvEUERyxupvi6GH0wV88kmhaHf0j4882ywVDHyC9LMGuOroN9rQ65gl93Kby44rzjridtnmqx9Pr0o6cBooqSD6arQhL9PihISasaPA_tBMxcI4qjy13FgD4-cCyusWi9ZurqCpV4iGWBRByHeG3daZkKJPUz8-ZJMT6XEyNVTGkyqqjyF1TIIrWzmLJ55VdahNQCO5RLuSWYYLJSK9K8O0cF61q_YURQKLxHh0_QhQPhd2R-x83kY2YTO3pefGPCiW_Ojce6_ITQ5Q1CYv_vQpyWWs7nIBvPZSbgMf7bH1HZ7UPjNHpynMBiKaQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قیمت استارلینک مینی به ۲۰۰ دلار رسیده که فعلا اشتراکش هم رایگانه. کنترل اینترنت با اینترنت پرو و قیمت‌های کذایی یه توهم زودگذر هست!
 ©
 imanraisii
@@ -1698,7 +1698,7 @@ imanraisii
 
 <div class="tg-post" id="msg-2340">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/BOZHr_daW73HUe0pT0Zw5taNj4Vm5lS5KzT8zkz3pRg-98ddT3oWwwB8ZsdISuzq1rbnyJYBKNWmmCSBW6QZDSEDFKeIqe7ASPeMjhCBIapsRdgMCf5Xhm94NXWDElH4z-yWccExmYpWuox4WqLicnb2gBcJ7YoapGPlIhNOlQWkaO5QlLXPpmafuP4v9UtnGQYz-8TxGljvYvTbPiLG8UyGswUyd8OKj7Yl9OQqCBuYl6HA15XwCRczhjV04DcuEt9h5kZ3Ag5E9Hi15ze_9MyO76EokGmqtKWaQYgL4e3fBh0ZCeNJRRK6S0TJzlHQTPpYjezAb-r6bXtLQsq_NQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qzvpDpoapQg0F75uZ2ibMZd0ipw4ovrKc5o8ZeXFOHyj03c7H74EyVnw9A8jaHs8MZUmVUsBAYDPODtMLMZsVdHFQB4lW2A3PTZTwgoShctzOc4xWD5AbxrIQ76h4CBy0E-n4B8idRxQpBM1ooZRlLU0S4x5zdScSqdShTBXNZEstkgNSXQA2wNSJKAovu4dzMIOKuPFeB0mZ6FTf5Og2-oYSwf39tBlGPJRyi77qIUaWK26l4lZxuHivXiJFs0UQ_0R-qDd4nqUYqR-G9ezjFqHDXsLDgEm9MQdS2RlENjbNqXUzErC9yxjup9Wh3saubMX0GJGgE3C91LISZZgQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در هفتاد و هشتمین روز از قطع سراسری اینترنت، از جدیدترین روش ترکیبی عبور از فیلترینگ با ذکر "لعنت بر جمهوری اسلامی" رونمایی شد.
 😁
 🔗
@@ -1713,7 +1713,7 @@ imanraisii
 
 <div class="tg-post" id="msg-2339">
 <div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CYT6UsL5Zw28b0q9r-xngaLvEcywa2W5ojySaPAPclXKTT_SPMlf0-XQWQqYf-1_Z6ROGcaC-J6j5IX7l6QwUdZMmCKPB5sxk3jaH5Ami1UgbZy4YiET5r8u5VXRyThUguE8iDU_pFI_2nRY35MaiDUI9-RHOcraC47Cl-akK76mLv9wbLSxAINwfR0z_fDp4gaxo4rSccEoc_zO-k0MdWC5ImdXAfWxxBGHyXm4_UjOiewpIEu03Rma9SJN-1eM7Pn3AN-6GITiAom1jiFfPCV6J5TN99jkKVmp6xnjx1_KuxQ6w4_4ELtGFQYx787Rm0T04z3jP1EbpUXmBzhRQQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/s6vHrS7EnHMOcE_-iTEeZdBK_Bx7mJasbj7tEHeUBqKBSHIdJq6dL0IrOQL8V-_QZZRW4J8710sM5udtP8g5btxCm5H97DDqnGGjOF7aFjgTVrwMYZh8L_KhdntRjrY20Ky1pOW-nNrvWztiO4KfejzS6jpkPY7IqBEFNTo5InJjEfqZh_UnUDRb3HM_Tok5lLnoLjO6nprrVVsMLtwE2Rfe1VbYWMeCVgt5IhQFs0rf90JXJauNj3xvyWQ5M-DxdYX9uaajgFbE90iiKgf7foYJH52aF8ckehVEo2GfRtI1pqyNDpbFS7HJXfjlq7oaMgqESjXmvry-ATO9pFHiVA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هشتگ از تبعیض بگو!
 اینترنت غزه که قطع میشه، اتحادیه بین‌المللی مخابرات میاد محکومش می‌کنه، ولی وقتی که اینترنت ایران برای نزدیک ۳ ماه قطع میشه، سکوت مطلق! ۱۰ ساله در مورد ایران توییت نزده!
 ©
@@ -1730,7 +1730,7 @@ markpash
 
 <div class="tg-post" id="msg-2338">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/j0zGg08IF5QLYcetarWEI_XCeJr3dDMX2CRPtnatpqB15KiYAo-jtMh2yGDbAjOvI9QMuGpfRVo0oTGcew0wcFampjb5RaQ99hO0MwknVKL66GK2j4iHRDTjLq8mzw2E9AnwnhJJCGzxGkoozuwqUzwNXJO2s5th7OPhyqtGomg9KcOb_grwi2r_ixm7ShA0RaFGHjKfI6QXAsmpSNeYc9Ey3rqfSG-Afc2MTVaE0s9wGenhPEs8BGkQTe2W-OXEEA2QAs3f542dyJ-leMroU4M06tkaqQMIH2QPYSWU3bECaPIy3IpKMi6t2tzbSZmItLaHa8kLMhYl3I4qmFNATw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vqPZ7lP1A2wW_IFPCXOXQkyUP-dOlkzT8EFZQ-9hnfCtFLUbNiATSBgHCN6hI0arl4oCRg1sgTFGerAielBpAr4XL0kzHriNWY27mqSCG7eN-6KTdgZhAQ-Kz5uPwNw0nLyG5CyXWwuxhRB-gOocZAsfotM231JyRDI8u4gFnZVHtJh4syQzaFs9oBnpIXTj4QJl7tzLVFsBIBGK07GIvKQCH-rsFWv2XpkXrjNiM8rDsFP0_jOjw-P-YgcQ06ClypsmUNPJQt2KQbhsIS6GBm1YxbtpTN6FH3dQN72mbkG-ZzW6Olwz1RygkSG1uRJa0IctEm5Gq0lIIGDe9sCaJA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد حساب این الاغ [توی ایکس] بسته میشه، داد میزنه که آزادی بیان نیست...
 ©
 AminSabeti
@@ -1776,7 +1776,7 @@ pey_74
 
 <div class="tg-post" id="msg-2335">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AkoGHm6M6RxorN6QR958dJYjF1bKrtHSZhhk1HVYVNOkQ6f6MXy_ubLeLelx-ceGH6Wog1a9IsFiGsfMHlKt4x-JjMZm3wDlE9-68JsfwoKUkBtl_8iHhkFz8uRvdLja1RPc0O2wdnSLQEnKQzC_Oclb3I379DfX3EtR6QnjsLNXWHhcwN2aXRDuH3GZsk8FaDtjIv_Kuktjslv7iwpxInz-WlbfKTti6CrkXHKOFuE_Z1xHcuAWfSsyXxldVws36W9R0r4rNPGU45C5eWxbLwg0z2u_yxkrw8XzQu90bodOLq06p9oj2C4-Av4eq6bBzHdqH-G0Z2uf0OBaY_VEhQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/BswT5GVw9dW6Afu3_FBbUmTSaS-mtctgRy_s0Ozx-Fg2buLf09VCg6U0arFLzWKWMzL8DUe9U6nENPm3GXzJtgeEnAT7dErF22kboNQvq3vcG_HSGNLO2itXU_MyJfp4iwBUj881Thhu2bdeHGKOakUEOVM1Tz3QQ3CZXToCfEYeC2hFvyeP7n3AV-Ywi9qXHkahAcgErI6jhaVnjahfUlle-yn626MrT_eniKQ5A48SHHXWmsF6iLuQYdy5QIt0WPWQK1Kcuueb68xgu0D0BWtteOT4X_sMOfOVqgT9geXDHZSITqt5Nj3o0mz0PDcg_msxCK_fD-JVoAxH6su5CA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">روش
 MITM
 در آپدیت جدید از اپ اندروید
@@ -1837,7 +1837,7 @@ patterniha, MatinSenPaii
 
 <div class="tg-post" id="msg-2332">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/THmFmUWLFBvGrEL12yWxgofv43H00TvR53vhh9PbNpJKCXO2BOOtnYNiUyIRuCFRtpse0NDjGeQ1KsBCjddu5y3bgnR9rXyac16IrvM2GHoflWim_gZZgIaGw5W2A7iftzaYspbHCMNDqydpDL8TFfB0F54zIB9XiK85ynbGHMcRYGubiD5H6YfPV2zI24eTjm0aLN162rs_QtC4z40BTN0B_JPGIorOpe3Sygb4VehO1xFPWf9YOXRFHawGIj3rtEXUsj-IfIptSMpeaZnCllsqtRYm-xZXBoszwO6lH2bRKC1Q7jqHM2QOWI2mvas4Q-aThvnbx0Gx9PNk1lbqCA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RiUitYX5u1zc1sHbSB-G735QS169gq_KkYr51xJHPsMIcMO3dSruXVC4xs7U9O6r8zBi1DZ1KIOFhaBA0cMIbHk9jVPwhn8Hr_mt9QYIv5IXXZJoYwkga5nXQdiQNJYCAXL53oN41JHTBuJwtjegUCfsVLytvvqakzjL807FfuPHDnDyrtEAxtqi9aEvZfkkL2nlLZbs0cFbvLkQgf_kaTbECkSEj69_qJkvZa7gnYtxnyH2TMRufxgCda82cOcUDbg73VkhIuiRFhRZNEDOgP6fIUp4Mg0fB6eKEf7rKfPMd41CaoXkO0DFH3YnAgWQmM4BLwrPxA6S3MVNarLL2A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سخنگوی کمیسیون فرهنگی مجلس: امروز پیامرسان‌های داخلی گوی رقابت را از پیامرسان‌های خارجی گرفتند.
 🤡
 🔗
@@ -1852,7 +1852,7 @@ patterniha, MatinSenPaii
 
 <div class="tg-post" id="msg-2331">
 <div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hvo8bSsDvQm7PJrB0NE9WoIDPcVM6UPfVfEus1A3VytM9B1cAuQ0tP-ArX3MUBvmwSKtt9Pm2CoxY8QbLYmaofYhlDZLx4BrNFIG6iYWX4pZQ9LOs1JyN5VkQPbitZI89TstL6S_-Fu6MVxWCw2OGfMD_adWuVu_mpC2byf8dcAgmQehXcTK_6a6XD6JqBrvrPNC02EhuwEE_4rK9mXX-GkMEALPCxAfFPwRYfgsp0p6JysD3zK5PXdBfaSYTM_p04GQqsO1-M1ujUN1PJqvrTaJ04YPdNtzswBaMJ7aLJe4OhkyUzVaEvx8YaRirK6tFygstDzod_-l-Rb__9wrqg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lzdxO2ts5h2U_l94SUy1Shft0-P2wLuFfmr7NHhufzPbeVR6yk-UsTGpHkphZwaaj2-TaJ8v0xN3ndpE4Pzqi3GTrwfyVqUbA7S3tTmIdvgM2rJ-4OtKZZS47MaHSA6rSTRjXU8DBEj-op3Rclj_GEbqFJgIO3jkL54YbdV7R465Ja5GwecPbxJM6UNz6Gb1l2DhTJjsgbC40Q4k8KlHnOkREMvjsgucTkDD-Z1RNvCK1Jh_Rj3AtoVdEQOM-OHIMhIS2QXEZx2wiH0_AxiyJhHOkmiDm0GTwIrEtmtoP7JaOiBYzvgdcsd1qeVK0XSA7on58gPIaFCyNYUFUGBTVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۷۵ روز از قطع اینترنت گذشت؛ همزمان درآمد یک کانال فروش فیلترشکن از ۱ میلیون دلار گذشت!
 ©
 mosi115
@@ -1868,7 +1868,7 @@ mosi115
 
 <div class="tg-post" id="msg-2330">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oV4HqXuup7e0sAQtiIh1oegIxQCQaxa1SCES_ibbxlSSUsDjxf-1ERg6yh_0yUwnwKXUCqP4-3uNns-7eluzzRFKAPXFpX-GD5bmggtYrqIm6qNj6ls2xkCd8S5ETKZNxdbYmog--HsfG1SCYXPVufLRCFUmie_wAsPt2aE2PUpaVsIk6tduki6FxVjzxRX9PEJr8uYRxzD2-E2aIH-eU_b85JlGU6wJFTpRuPL6rUs19FyqDLfJCNmyzoP646mBOggpjos6vrK_4RJffEGGdHkaVXd6Hc7IJjvHMT_3Fgj5ZMBMTox6ELRAP8XkxtpjftHfC1ZeZdIWg1L1o8MLYw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/J0hyGfnRNnRm758O0dlmJukzM6-SYevF4PHDkYf5xxptJkKtPO02P7JnRn0UQb-uL95XRqieksmQj9ZC_NQ15NlonwWhVtGjFiXw5q0HMms0OW2c9RLzbqvV6FpIpniYMcB5-5oN7x4D8pevGaGw4-WJeVh2BpSAisx4MjDA4Z_rxA9458H2I_N949OM3pZAh-aXnE3-svX2Fp02oY_gn_PA1LqZty8rFxH8pPuPR1bSSVzV70tvyseTVgHjd0taKNlx8Y2BBBuRaoIOfnP4GFX8gzXY958ys-5PhFzBMBptJ3BzS9OGxtf9ruel6vhKqckJ-kWq9FDcIP_Yk4iR5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به نظر میاد مرحله‌ی جدیدی از
 #اینترنت_طبقاتی
 شروع شده؛ دیگه خجالت هم نمیکشن. قدم به قدم دسترسی برخی افراد و کسب و کارها وصل میشه، تا عموم مردم به عصر بدون اینترنت و بدون هوش مصنوعی برگردن.
@@ -1918,10 +1918,10 @@ alirezashirazi
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d9e9b1e831.mp4?token=Y_sJhxC1Then26OohO35G5TmWILGgcyhsd8zbLKQn1rvzFzj4LzMbrBhTNsqYyFhTH2LnfXcG5OHNTK9gDHxHoV83lQ46oJLCOOgo-KFG-krGFq7Em4Q3tWpbrrm3EopexM2EiNH9Tfaog1Vj54aAoL_kW6brDj6UnuXNQxYeUUjx_PkjxzHT1yMQHSCzwGbDxIHxWKVzBg1P9nDR61wyETrT05c5j8IPMwOtF9Itj4avAXbOFhRdYlXiAFKxFUB62hfssoJ17LgOQ_CYvXGHlARaMkVtjX88oIcS4eV5_7syBUwAIE-M0NmuxrPkqQ0keQe7OAPYkkVbRQqkeCCpg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d9e9b1e831.mp4?token=UGuAx_6KrnrdNQBapIrv_3dzhZPMQs63qB9qFd2nMHrLATVh3p-1BZjQ7c5zA3jWXeq-ou6zn0eWFo9bLkoGwQR3ZuWIKdQeznok_D__ZV7EfZopgxfpEnjOtqlGLXUQs5NmhVLjmFJF8JkSOhmfIXWYJZyAzvluKk0N7ZASjixXHI5WtI0nUxZuBgjmBEiqtiaRD-PwWEMKMcvJi5a6_dABXIE2TXw3Iku4cB8IMCvlZ-_QamFc6U5jGZIXhgjEFJGs2uwUL6spCvJztsTqIAekBvILH8AuaWkQMLqB8OdZ5hHogONpQ630HbWK5tyJ1r0B9rU35FWXomYWOBO1fQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d9e9b1e831.mp4?token=Y_sJhxC1Then26OohO35G5TmWILGgcyhsd8zbLKQn1rvzFzj4LzMbrBhTNsqYyFhTH2LnfXcG5OHNTK9gDHxHoV83lQ46oJLCOOgo-KFG-krGFq7Em4Q3tWpbrrm3EopexM2EiNH9Tfaog1Vj54aAoL_kW6brDj6UnuXNQxYeUUjx_PkjxzHT1yMQHSCzwGbDxIHxWKVzBg1P9nDR61wyETrT05c5j8IPMwOtF9Itj4avAXbOFhRdYlXiAFKxFUB62hfssoJ17LgOQ_CYvXGHlARaMkVtjX88oIcS4eV5_7syBUwAIE-M0NmuxrPkqQ0keQe7OAPYkkVbRQqkeCCpg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d9e9b1e831.mp4?token=UGuAx_6KrnrdNQBapIrv_3dzhZPMQs63qB9qFd2nMHrLATVh3p-1BZjQ7c5zA3jWXeq-ou6zn0eWFo9bLkoGwQR3ZuWIKdQeznok_D__ZV7EfZopgxfpEnjOtqlGLXUQs5NmhVLjmFJF8JkSOhmfIXWYJZyAzvluKk0N7ZASjixXHI5WtI0nUxZuBgjmBEiqtiaRD-PwWEMKMcvJi5a6_dABXIE2TXw3Iku4cB8IMCvlZ-_QamFc6U5jGZIXhgjEFJGs2uwUL6spCvJztsTqIAekBvILH8AuaWkQMLqB8OdZ5hHogONpQ630HbWK5tyJ1r0B9rU35FWXomYWOBO1fQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اگر هکر بودین و میخواستین بانکهای جمهوری اسلامی رو هک کنین، سرورتون رو کجا میذاشتین؟
 علی کیافی‌فر، متخصص امنیت اطلاعات: در جنگ دوازده‌روزه، نوبیتکس، بانک پاسارگاد، بانک سپه و بانک مرکزی از داخل خود ایران هک شدند. مثلاً نوبیتکس توسط یک سرور زامبی واقع در یک مدرسه‌ی علمیه خواهران قم هک شد.
