@@ -286,25 +286,25 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/uDXA2hQSBxDCQs1w1ls_ZJ_B46bTj1Knf8MAIZVud1DtEwRhVUBCRQqfTqw5A8nDi62_FFR2Sx9mcASA_Kb9i9RUCymKI7Uq-f8DXcs2oxQk-79U_f-xDqr9VIIB4LK7WfG1IEMlPCwOuT93adwHWNvTRTBBohq3_oW9RI1gbmPrOzZSQ4AAbPJzbQ1SNptPSlUOl98d7zxFeFiQSmSihTNnwhs5XHfYVGWIm-pl74jiWJ8w2OA7WIUo4Eu7JX-Oj40kA7mepsExsxHS-zxiifJtyvH9ku49ybjG6BYPvgjFArDTk6bAKbuY5OWn-_8YyOvveAmXSXvA4BIxD5PGew.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/SU06DMUWZlKYtY_EJdePY1x9g_qSINGOCCj3tyArIY8RP5lB4kAV4OGGvYofh7jTSRGVMvL4DJnELDWNwMJhmCS3UN4Vm6-vv0ATSe4pcMhwGYG-1Ke8escThynz1XL26NoW4qlXpEJLVPF8L1ZtE7XBgZ2zDTejw7gW--I6a6BqJcSmpR5HsDPaNhgFavBmHPzACg3fODgbBzeCRzsIrtKjZpK9NOJOUnZ5OAVo0qHILMFGorP-pcAdBWwsWs2zP1f8Eph7XXhn0wijuJSNqg7J0rwvlI78yC3AU0DZkKm86RU2tR1WhE8-FA8qWNS792SFQluRXrpDaqpdK7iLjw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 ورود به کانال آقای تحلیلگر</h1>
 <p>@tahlilgar • 👥 108K عضو</p>
 <a href="https://t.me/tahlilgar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 در این کانال عضو باشید تا درصورت تغییر لینک کانال اصلی لینک جدید اطلاع رسانی شود.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-18 09:59:14</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-18 14:56:10</div>
 <hr>
 
 <div class="tg-post" id="msg-352">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nz0B6k6KMzAEb6KTYtuYIQLFXkDD_Th31QaLMadDJocX3KdnISTa63DCOBs_3Of50UTHIhzm1pBiLnBTOmdlLpuNgIFqUR4SASQOvUVJAen8SE9q8cOMsDQovhlb4rbt3vyq97zH1GKTQ4Brm00gMztxe1eO2_zTrOpHIZzvfyGq33KYj44T_r7iU9_iyjNV6psYbVo5C064Or0GdHT2qnwsGbi6KmJfimrG3cwzSWmHsjkyXspPUweL4jWERzFulCj8hrAGH6O9k8R4R7j43YcEMieBUBXHEsyMs8eeMUayPbXG0hRoWmiDCSDVHf2ph7gY1z9lhLa1sOpDJF6LdQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/McXtURHqDzV4xf_7IYuJZdAm_7KP5xJ4OPb6wswLJtGgMSBRDCzO8renXXwyCFeZpl5N0dR_T98xd5N3zmH1rWvG06Yr-pbHYYqzr6i4MfnDLaqQxUOMF3fUff_3WSO2UqRuF-ddc1ogIQSIQQmZx5pF8ooU2o1yl6_EDf2GP-6-9xGkV7n_jnI7K9FxGNCG8QqEMqepvMJwBeb-d43WruJ5PyMW5EgDFJfE3SP_wgHo9u0_6u-VEDINR517gbDcpxlA8JHpFeajpBZ1iZZIHcIa55pfFPfsz5kC1b_9GaybeoSIxMxEwPI03A_WF1HgrmlKwcbrfEVSZWxawVe5eQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تنها راه ورود به کانال آقای تحلیلگر (ظرفیت محدود)
 🔽
 🔽
 🔽
 @tahlilgar
 @tahlilgar</div>
-<div class="tg-footer">👁️ 1.34M · <a href="https://t.me/AghayeTahlilgar/352" target="_blank">📅 15:42 · 19 Aban 1403</a></div>
+<div class="tg-footer">👁️ 1.35M · <a href="https://t.me/AghayeTahlilgar/352" target="_blank">📅 15:42 · 19 Aban 1403</a></div>
 </div>
 
 <div class="tg-post" id="msg-1">
