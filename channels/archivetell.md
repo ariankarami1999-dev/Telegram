@@ -292,11 +292,25 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 🚀آرشیوتلمرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-19 05:43:38</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-19 10:00:44</div>
 <hr>
 
-<div class="tg-post" id="msg-6196">
+<div class="tg-post" id="msg-6197">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-text">🌐
+اختلال VPNها در روسیه وارد مرحله جدیدی شده است.
+گزارش‌ها حاکی از آن است که فیلترینگ در روسیه نیز دیگر فقط بر اساس IP نیست و اکنون الگوی ترافیک و TLS Fingerprint نیز بررسی می‌شود. همین موضوع باعث ناپایداری VPNها، MTProto و پروتکل‌هایی مانند WireGuard و VLESS شده است.
+#VPN
+#Telegram
+🔵
+@ArchiveTell
+| 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
+⚡️</div>
+<div class="tg-footer">👁️ 1 · <a href="https://t.me/archivetell/6197" target="_blank">📅 10:03 · 19 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-6196">
+<div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">🚀
 پروکسی محلی برای تلگرام دسکتاپ
 TG WS Proxy یک ابزار متن‌باز است که ترافیک Telegram Desktop را از طریق WebSocket عبور می‌دهد تا اتصال پایدارتر و سریع‌تری داشته باشید؛ بدون نیاز به سرور واسط اختصاصی.
@@ -314,17 +328,17 @@ https://github.com/Flowseal/tg-ws-proxy
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 470 · <a href="https://t.me/archivetell/6196" target="_blank">📅 03:11 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.06K · <a href="https://t.me/archivetell/6196" target="_blank">📅 03:11 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6195">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">Clearly, the iranians do not know how to speak english or behave themselves.</div>
-<div class="tg-footer">👁️ 788 · <a href="https://t.me/archivetell/6195" target="_blank">📅 02:23 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.31K · <a href="https://t.me/archivetell/6195" target="_blank">📅 02:23 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6194">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">😅
 میگن با این مینی‌اپ میشه تا ۵ TON جایزه گرفت! (تایید شد الان)  اگر اهل تست کردن ایردراپ‌ها و مینی‌اپ‌های تلگرامی هستید، بد نیست یه نگاهی بندازید.
 👀
@@ -332,11 +346,11 @@ https://github.com/Flowseal/tg-ws-proxy
 اول این لیست را اضافه کنید:  https://t.me/addlist/5VAtNN0PSuQwMzc0
 🤖
 بعد ربات را استارت بزنید:  @gramevents_bot…</div>
-<div class="tg-footer">👁️ 922 · <a href="https://t.me/archivetell/6194" target="_blank">📅 02:07 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.42K · <a href="https://t.me/archivetell/6194" target="_blank">📅 02:07 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6193">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">😅
 میگن با این مینی‌اپ میشه تا ۵ TON جایزه گرفت!
 (تایید شد الان)
@@ -352,21 +366,21 @@ https://t.me/addlist/5VAtNN0PSuQwMzc0
 نکته:
 • فیلترشکن باید روی حالت VPN باشد (پراکسی تلگرام کافی نیست)
 • سیستم امتیازدهی بیشتر بر پایه دعوت دوستان (Referral) است</div>
-<div class="tg-footer">👁️ 999 · <a href="https://t.me/archivetell/6193" target="_blank">📅 01:59 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/archivetell/6193" target="_blank">📅 01:59 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6190">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">قابلیت جستجو در وب در ربات هوش مصنوعی وگا اضافه شد.
 🔍
 همین حالا بیاید و اون رو در پیویتون و گروهاتون تجربه  کنید.
 😉
 @T_Vegabot</div>
-<div class="tg-footer">👁️ 1.02K · <a href="https://t.me/archivetell/6190" target="_blank">📅 01:50 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.49K · <a href="https://t.me/archivetell/6190" target="_blank">📅 01:50 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6188">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">موتور جستجوی ربات
 Vega
 چگونه کار می‌کند؟
@@ -378,11 +392,11 @@ Vega
 سایت برای دریافت کلید و تست انواع مدل‌ها
 ✨
 ArchiveTel - VegaEnter</div>
-<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/archivetell/6188" target="_blank">📅 22:01 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/archivetell/6188" target="_blank">📅 22:01 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6187">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4acdaced3f.mp4?token=EbKosgTSSgXPNoCFcK4_DTZGn0UbKiO7Y5Uk4qB7NhH1dO71Kp2KNm3I-SzGZSqPqamkly81PVAypcoDnYmFiEE7WzVhuzeYEx67irW52z0FcRv79c4oucYXdjUObCtwLAIDRuMkRt08o1TRnhoEn7gCqDTaR72fPSaNIbhCOmx2NGVYR0AJetOjIssyAGsw19WaufeFyMg0QXqYdIgO2y4s_kWiOHWPPaMREo0cql6345THLLz8irCBc0omW16VNt4HIDA_DvI5Vk56YOK6KH8gjwj7jkqo5CZuQQ4pwiXSbUMdGWy2hpK8Acg6ItY_ZGa8ksjTPltO10B0ssd9Wg" type="video/mp4">
@@ -398,11 +412,11 @@ Siri AI: تحولی در WWDC 2026!
 ✨
 👑
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/archivetell/6187" target="_blank">📅 21:50 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/archivetell/6187" target="_blank">📅 21:50 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6186">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn5.telesco.pe/file/9a53c5a0de.mp4?token=DOjItSo6yJ-kin7VdyieGWogprnDGwRdOPnjgRSoZjb1N3L_of2I1m4wmRNWW9EKywwvEn0N8M1rvBprD_7U7Tb0ceMBsRoCsAYnqEbIJ-lVCHCK-Ti4dlhPawEA8y3IvsvQMUfUUbjffGYrhYLvPHwsTGOxwDQZ6cbLGoYVUV4wwMfIe9v-v8EiLltgQWGL1rVUKHT7DFTFTq1UocBEwc2tEQemAaWItXNgoK3LB-JP0bpftZE58BcW_IEfBo39rj__3jlQuU4rVjy2mKpDjMLbCLSElyX9drKCXk24kEMG7DRsjkurzIIdU74ozi3XLEvkCr0slkO9y0wYo50ztw" type="video/mp4">
@@ -417,11 +431,11 @@ Watch live:
 https://www.youtube.com/watch?v=hF8swzNR1-o
 👑
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/archivetell/6186" target="_blank">📅 21:19 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.75K · <a href="https://t.me/archivetell/6186" target="_blank">📅 21:19 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6185">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M34qBj4JtODqN8b-td7K6jGBO51dGVVvNUPCvTxY-4Aeup2YlzpgPRwuxT0RwZWzQPIy4t73lLbZccbv-gDiMwIbzpcvaXd9kUC5vJqY8lYDWw5dy3EKKVNR9r29UvOD7ewlHYJxwdSEMUESUz6_FU7kvW0G9Huau5FXTonGIZMnaXuVMS3-T6Qk-bhphXAxLPi9eGtfSlYQhwJZljCVNV-75oVmLZYuV_gtxqNnfthdG3kKQbZwtOIEuTOBOjBOfDG8ZziJbhraHRwUPkhQQchKmXgX7gcTZamUuNgWOHHcY2SzkMYxR4-zCTsVJAASm_-um373tdK2BWx3OWwv4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سایت ارائه APIهای هوش مصنوعی رایگان
 🔥
@@ -430,11 +444,11 @@ https://www.youtube.com/watch?v=hF8swzNR1-o
 https://agnes-ai.com/
 👑
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.62K · <a href="https://t.me/archivetell/6185" target="_blank">📅 20:58 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.74K · <a href="https://t.me/archivetell/6185" target="_blank">📅 20:58 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6184">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">🤖
 Kimi Work
 دستیار هوش مصنوعی که کارها را خودش انجام می‌دهد
@@ -453,11 +467,11 @@ Kimi Work
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/archivetell/6184" target="_blank">📅 19:53 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.78K · <a href="https://t.me/archivetell/6184" target="_blank">📅 19:53 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6181">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oIKClPIf_JgScRG5EBLKGzeqTnCMqgnXrzImEimSbGERAi4ehGi5HZ1bCH7VfXvbF8bw117biBJo3uOPq7OL_0hP3F-zntThcmtovktKPphdTAtEuZm7zjylkvq49P1O6F6P7s2uCRSLKOQ3SckLnG8SfvuAJpL9ubtXwWYR-jzUj0NGW7wZC_UwuVBoNHFbHJKuPFu3s-Zpz2oB0deS7plrm3CWREVCz4vnENZ3OTN4DcYSqUFM36hxOz_qXqMkA807QewMyd9lDvNEFwpXawyz3Gg9_jTIoJspKWkZZWHz6Qqkvr_tq0cceaRvnhasAHLsD1iJLla-xw_vPjUDwg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎬
 جعبه ابزار رایگان ویدئو
@@ -482,11 +496,11 @@ Kimi Work
 https://www.zipvid.online/
 👑
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/archivetell/6181" target="_blank">📅 18:31 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/archivetell/6181" target="_blank">📅 18:31 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6180">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">🚨
 هکرها با سوءاستفاده از ابزار هوش مصنوعی متا، بیش از ۲۰ هزار حساب اینستاگرام را هک کردند
 شرکت Meta اعلام کرد حدود
@@ -511,11 +525,11 @@ https://www.zipvid.online/
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/archivetell/6180" target="_blank">📅 18:08 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/archivetell/6180" target="_blank">📅 18:08 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6179">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jewHxdnJYrpXtuCOmwOCGD4794n3WQw2IOWCL6q-j2Ph4lNOZ5tiJ1UQXSKj7blHP-ld6fEO4YyVaJZTEheXI0eRih0gws2QyMfOo4sFyOygnQkHiwgBjsHzDaywHz0rBa_8o83XQtr3GVBQFHu_5Ntzig-h3kNwyMxet-VXMsDl78ipABj1gZaj5JYG0r00gj6lThA0_rYDqKHB5PSAWpXHmEmi3jmRR2OOp2W8OolwnVNC2c_zL8-P9nfGMbnEofVcnoflN7_h7jpoLoTmiMLXTUI8K2YoPHbusfwVJL3cXrzsaDovHDDdGMD2NHx6BQMng_RYE_BDnCorXUIC3Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🦾
 شبکه‌های عصبی اکنون شبکه‌های عصبی دیگری می‌سازند — با عامل هوش مصنوعی خودکار ML Intern آشنا شوید.
@@ -529,11 +543,11 @@ https://www.zipvid.online/
 https://github.com/huggingface/ml-intern
 👑
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/archivetell/6179" target="_blank">📅 18:03 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.88K · <a href="https://t.me/archivetell/6179" target="_blank">📅 18:03 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6178">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">🚨
 کمپانی
 OpenAI حالت Lockdown Mode را برای ChatGPT معرفی کرد
@@ -555,40 +569,40 @@ Lockdown Mode
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/archivetell/6178" target="_blank">📅 17:59 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/archivetell/6178" target="_blank">📅 17:59 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6177">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">کانفیگ ناب اهدایی
 💎
 ss://2022-blake3-aes-256-gcm:dxzSnG5le2y16bNqdyL2Hj2b9Qjptq2Ust7li7mLR6Q=%3AGZs23OkRjsO4i11hMhke9I48yENOx6VVuL23GKRXTi0=@37.32.8.201:8080#%D8%A2%D8%B1%D8%B4%DB%8C%D9%88%20%D8%AA%D9%84%20%D8%A7%D9%88%D8%B4%D8%A7%D8%AE%D9%84%D8%A7%D8%B1%DB%8C
 👑
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/archivetell/6177" target="_blank">📅 16:40 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/archivetell/6177" target="_blank">📅 16:40 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6175">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a7TLwrLptYbfaWhzIgHLUjQhSyWlgqnEl9Wc8_skZpy8_jth3zOEESedwfmt_r_6sCy7itIxiEcVtnFhuznDSufFHi5lMz_b35zD-CMAlyvTurYIpdQOS4Xp8aVl_aWUfYo6TThhK31M929Y40xqOKAnuiD0Rat113zOBxeAkrbXnFejw6DAoA6kgnotbJ4TVq4XAWpkFWpnnZx9hO3FAuGgcV9Q0mh3MOlzSIU6IUMIZtpDpxBb3LHpsKB2iUJVfvCd-57z5xlesgmHtf6h6jhYF-smht8NRKNGKqdURPsnOFpL_DbN76MazYvfgDNTV306nlqMCUAGSk836kRj4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اخبار تازه و ناب
 🔥
 @ArchiveTellNews</div>
-<div class="tg-footer">👁️ 2.03K · <a href="https://t.me/archivetell/6175" target="_blank">📅 14:25 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/archivetell/6175" target="_blank">📅 14:25 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6173">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">🤖
 وگا | نسل جدید ربات‌های هوش مصنوعی  وگا فقط یک چت‌بات نیست؛ یک دستیار حرفه‌ای و همه‌فن‌حریفه که بهترین ابزارهای AI دنیا رو کاملا رایگان و بدونه زیرمجموعه در اختیارت می‌ذاره
 ✨
 🧠
 گفتگو با قدرتمندترین مدل‌های جهان GPT-4 • GPT-5.5 • Gemini 3 • Llama 4 • Qwen…</div>
-<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/archivetell/6173" target="_blank">📅 14:22 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/archivetell/6173" target="_blank">📅 14:22 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6172">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/5635b05d63.mp4?token=uvxRdkwefARxv5fUi1PyhBqL5ssjmvB3YsEpEsL9n_96-7JMYYoYz2jtZha9DA7CvtAuLtszenspDl_eRsxL9uu9DTY37UPyZI1d4wdjgHLnBIL4b7CiX7y4xUnYa4VEQKaoYqNZBtSnj93iXqBouw6Q-K85MXpcsIZBJiwNZCLi82qHF2MAKyJb3O38sQz8-KYqWSSle2LnjRws-6OvTnt1uFhSQOxfwfgBqmNAtP3rWZbvOI4bn1HoRLayeR1eiTcKbz9qDz8AOoGokLsNfCAMgjw3HKMBzFh1OVu2ozdBp4N1O4s71Y5R785tm_93b2Yy5j6wzMtyzlTDEmmARQ" type="video/mp4">
@@ -606,97 +620,97 @@ AlicentAI — هوش مصنوعی برای ایجاد محتوای متنی
 https://alicent.ai/
 👑
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2K · <a href="https://t.me/archivetell/6172" target="_blank">📅 13:43 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/archivetell/6172" target="_blank">📅 13:43 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6170">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">برای مدت کوتاهی اخبار مهم رو منتشر می کنیم
 🙏
 ❤️
 کنسل شد نمی کنیم
 😂</div>
-<div class="tg-footer">👁️ 2K · <a href="https://t.me/archivetell/6170" target="_blank">📅 12:47 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.06K · <a href="https://t.me/archivetell/6170" target="_blank">📅 12:47 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6169">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">🚨
 تهران پارکینگ‌های زیرزمینی را به پناهگاه تبدیل می‌کند
 بر اساس اعلام شهرداری تهران، در پی افزایش تنش‌ها و حملات اخیر، پارکینگ‌های زیرزمینی در سطح شهر به‌تدریج برای استفاده عمومی به‌عنوان پناهگاه آماده‌سازی و تجهیز خواهند شد.
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.06K · <a href="https://t.me/archivetell/6169" target="_blank">📅 12:47 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/archivetell/6169" target="_blank">📅 12:47 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6168">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">🚨
 ارتش اسرائیل: برای چند روز درگیری با ایران آماده می‌شویم  بر اساس گزارش رسانه‌های اسرائیلی، منابع ارتش این کشور اعلام کرده‌اند که خود را برای چند روز درگیری و عملیات نظامی علیه ایران آماده می‌کنند.
 📌
 به گفته این منابع، از نگاه ارتش اسرائیل، تحولات فعلی…</div>
-<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/archivetell/6168" target="_blank">📅 12:42 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/archivetell/6168" target="_blank">📅 12:42 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6167">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">🚨
 ارتش اسرائیل: برای چند روز درگیری با ایران آماده می‌شویم
 بر اساس گزارش رسانه‌های اسرائیلی، منابع ارتش این کشور اعلام کرده‌اند که خود را برای چند روز درگیری و عملیات نظامی علیه ایران آماده می‌کنند.
 📌
 به گفته این منابع، از نگاه ارتش اسرائیل، تحولات فعلی یک عملیات جدید محسوب نمی‌شود، بلکه ادامه عملیات Operation Rising Lion (شیر خیزان) است.
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/archivetell/6167" target="_blank">📅 12:39 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/archivetell/6167" target="_blank">📅 12:39 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6166">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">نت رو قراره بزنن
 ای‌ک</div>
-<div class="tg-footer">👁️ 2.03K · <a href="https://t.me/archivetell/6166" target="_blank">📅 12:36 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.06K · <a href="https://t.me/archivetell/6166" target="_blank">📅 12:36 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6165">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">🚨
 منابع ارتش اسرائیل: آماده سناریوی حملات گسترده حزب‌الله هستیم
 بر اساس گزارش رسانه‌های اسرائیلی، منابع نظامی این کشور اعلام کرده‌اند که هماهنگی کاملی با آمریکا برقرار است و هم‌زمان برای احتمال حملات موشکی یا پهپادی گسترده از سوی حزب‌الله به مناطق مختلف اسرائیل آماده می‌شوند.
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/archivetell/6165" target="_blank">📅 12:35 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/archivetell/6165" target="_blank">📅 12:35 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6164">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">۵۰ گیگ کانفیگ اهدایی
 💎
 vless://1b5607ba-c295-43f8-923a-dc633a099276@82.47.63.98:8443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=farsroid.com&mode=auto&path=%2Flokayb&pbk=US5uDp2cCip8cEuQUWEf4o7VbASXg45EeVia_Kz2QTI&security=reality&sid=fc0f43e6354ef57b&sni=www.qq.com&type=xhttp#%F0%9F%94%B5@ArchiveTell%20%7C%2050GB
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/archivetell/6164" target="_blank">📅 12:28 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/archivetell/6164" target="_blank">📅 12:28 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6163">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">شرکت Wizz Air اعلام کرد تمامی پروازهای خود به اسرائیل را حداقل تا فردا لغو کرده است. برخی پروازها نیز در مسیر فرود به تل‌آویو به مقصدهای جایگزین مانند لارناکا هدایت شدند.
 در همین حال، سازمان فرودگاه‌های اسرائیل اعلام کرد که فرودگاه بن‌گوریون همچنان به‌صورت عادی فعالیت می‌کند و پروازها طبق برنامه در حال انجام هستند.
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/archivetell/6163" target="_blank">📅 12:24 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/archivetell/6163" target="_blank">📅 12:24 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6162">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">📰
 گزارش‌ها از حملات به مواضع امنیتی در ایران
 بر اساس گزارش‌های منتشرشده از منابع ایرانی، چندین موضع و تأسیسات امنیتی در نقاط مختلف کشور، از جمله استان استان همدان، هدف حملات قرار گرفته‌اند.
 همچنین برخی منابع وابسته به اپوزیسیون ایران مدعی شده‌اند که تعدادی از نیروهای بسیج برخی مواضع خود را به دلیل نگرانی از حملات احتمالی ترک کرده‌اند.
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/archivetell/6162" target="_blank">📅 12:20 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/archivetell/6162" target="_blank">📅 12:20 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6159">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -711,11 +725,11 @@ vless://1b5607ba-c295-43f8-923a-dc633a099276@82.47.63.98:8443?encryption=none&ex
 ✅
 👑
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/archivetell/6159" target="_blank">📅 10:24 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/archivetell/6159" target="_blank">📅 10:24 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6157">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8f4d671db5.mp4?token=a_Bx4RbhrxNyK74tdBN-48AkxrkLpMBYG8t2g2OlE8-MOfKRICMP-aaKl6s4cUXL99xPmlHdSfo9di4MgBq4M5IZsc2I_0U5JKtf_3r8q1KQeU1RuSq7BfXBLhmVCMwfBy1YIXSd3ZTJyNPo2QzqlGN_UrC9Xnb1vW_G-81lxmWyfpM_mQuxL6p-Wn5Uy_VXMgCGio2BGL_JVzZfKMdWdGU7bOWqGOODpYz6UOR88TdGHGYEXfY_sfPAUY0zudERbDI3vL2YIrACLmGqs2kBakV_h3IYUBJR6MF-v6OSdxNEw8aGBq35UrNOFhWQHIABUAPyzEs6pngcep_nJtlCAQ" type="video/mp4">
@@ -737,11 +751,11 @@ vless://1b5607ba-c295-43f8-923a-dc633a099276@82.47.63.98:8443?encryption=none&ex
 https://behindtheemail.com/
 👑
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/archivetell/6157" target="_blank">📅 09:42 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.24K · <a href="https://t.me/archivetell/6157" target="_blank">📅 09:42 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6156">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iVGaOi99hYRicgPao9udZ2GuQFD5HYFSf1fpt39NKcxHRBzKxDtQa67VTd74aXNTOfWJLDE4UWSEBrpLI2H0hESDzX-PbGkkkdJQxtQ-2y65euuKfM5BY9LmmJ8ki80flliyYiavPzf1u97l8zziNWB3VJKXX9ybPxcle-RkD6DMWyhHmfDt6Q0HoDpNEHM5ReQzmPMsyI6ORE7waOrVJOa6rVyiXdad_230Ifzyrm0tksvWwg036Zp16qkVdALXh6Hzoc5jZAF3dFcI2D4KQ0GA5znE3-OvY2hgRFrZ7ziRh6uyuKobJKz01w4Qs5B8qx8qIBpyi_fJqYVElg51qw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔥
 جمع‌آوری داده‌ها از تلگرام به صورت خودکار - یک اسکریپت پایتون به طور خودکار پیام‌ها و رسانه‌ها را از کانال‌های مورد نیاز جمع‌آوری می‌کند.
@@ -760,11 +774,11 @@ https://behindtheemail.com/
 https://github.com/DarkWebInformer/telegram-scraper
 👑
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/archivetell/6156" target="_blank">📅 08:58 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/archivetell/6156" target="_blank">📅 08:58 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6155">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/999b60eca7.mp4?token=TmUa5g1aoETJlVjcRaJXCp25FAzI44wKbhpQu8-mDismlCIZjHD0-7y5-3xFfeyp0_6UmHMEk19h_qGp6GMo8GxUOx-_en1EC37u_ITU-NOjxYdXArGI09b8dbQvHv9u8Zt9lAbodQ8X7i6hW7lFtEzhTL1MPNdEVFIt021eSUAnEmqN_ButnPRpihmwsUDptp10J1xfwA9TN4p9LnpY05jkpzUukKI_rH9oUQPgTSu7cSb6z8xcir64HAzn6e4saOfC_-JUz_4tHs2QbAm4_H-QcmwJDjWgqWuMmt8MsaLrsFndy0g226Ub7iVxpH_AZaTij4N5wBfBcHtlwjnvVDzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
@@ -811,11 +825,11 @@ https://github.com/affaan-m/ECC
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/archivetell/6155" target="_blank">📅 08:33 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/archivetell/6155" target="_blank">📅 08:33 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6154">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -825,19 +839,19 @@ https://github.com/affaan-m/ECC
 <a href="https://t.me/archivetell/6154" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">@Sina_1090</div>
-<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/archivetell/6154" target="_blank">📅 07:26 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/archivetell/6154" target="_blank">📅 07:26 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6153">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C-Yu-ZgWwltgZXjx94tPqvY1MdC2edkN4RZ0MRsvCZSTpPN2Mke2S7iKT6VzleJ_cZoorb_giREdtQBeTfql9nCEtQiQPlnUWdKVBYXFJs50UHos4Kp0SN_X8yqmz-aHxc-aQprrzzJvnbPQwIGVAhSAHjG1Mf3lKuI4g4z-E3RZS7LPuMyUNbLUgQUXYu-VEZmuU5dZsrsqbq0uA2AZ_wGmhD5ql6Oobh193ohR9NqqEn2lhCZ5cOJUcXaw0o-rtFro0wfF9eaFB563pKgChJjF4V1sQ3v5r1gJtDR92ig85Wlje5HNiolLIzszMuBzWdWe27Dde43DbmOi_CNG-Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کی وایرگارد میخواد....؟!
 @Sina_1090</div>
-<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/archivetell/6153" target="_blank">📅 04:34 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/archivetell/6153" target="_blank">📅 04:34 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6152">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">یه اینترنت ملیمون نشه؟
 طرف آدم بدام*
 کانفیگ فروشارو می گم</div>
@@ -845,7 +859,7 @@ https://github.com/affaan-m/ECC
 </div>
 
 <div class="tg-post" id="msg-6151">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">ArchiveVPN | کانفیگ رایگان
 📝
 کمپین:
@@ -860,58 +874,58 @@ https://github.com/affaan-m/ECC
 مدت اعتبار: 3 روز
 🔴
 وضعیت: غیرفعال / پایان‌یافته</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/archivetell/6151" target="_blank">📅 01:56 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/archivetell/6151" target="_blank">📅 01:56 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6150">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">vless://f5ed097b-b078-45fa-bf8b-a534f94206db@85.198.20.217:443?path=%2F&security=&encryption=none&host=play.google.com&type=ws#hetzner - heybaat  نامحدود تانل  وصل شدید دعا کنید</div>
-<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/archivetell/6150" target="_blank">📅 01:48 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/archivetell/6150" target="_blank">📅 01:48 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6149">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m4DEYthOkg2dd-MX7hk9fzqvdKr896mi184oP8eSU8w6mFgxGHs0toI6X-Kb-WWaI5ieK3hsukoPl_C8K1X21RoCJIlngRLL88GSLO6teZSww3mpyufuqQq2xxOsrMUqh6L1Zi2reguiAUWXgtUUV8rCV2MgqmVNY6if83je1pK29M2RSV9y_yGQuvcQ0HD2iyHd5TSJUa-aKL2FfMXfR_Ifb8BMqFh-g_09OKakPqebbOIyUQkk2X4mlG6hf7TYi-x8WYmbq71xo1nhIzbfSmEdS6fMNb_lEhQ-2t4yGvmVOgek6IBAVt4w93AAlIAJdBALocBuNCANe2rUVvfaOQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینم اطلاعات
 قیمت هم 720
 سرعت گاد
 @Sina_1090</div>
-<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/archivetell/6149" target="_blank">📅 01:23 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/archivetell/6149" target="_blank">📅 01:23 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6148">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">vless://f5ed097b-b078-45fa-bf8b-a534f94206db@85.198.20.217:443?path=%2F&security=&encryption=none&host=play.google.com&type=ws#hetzner - heybaat
 نامحدود تانل
 وصل شدید دعا کنید</div>
-<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/archivetell/6148" target="_blank">📅 01:12 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/archivetell/6148" target="_blank">📅 01:12 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6146">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">نصب انواع تونل های DNS بر روی سرور شخصی:
 curl -fsSL https://raw.githubusercontent.com/anonvector/slipgate/main/install.sh | sudo bash
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/archivetell/6146" target="_blank">📅 01:07 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/archivetell/6146" target="_blank">📅 01:07 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6145">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">اگه نمیزنید ما بریم بخوابیم</div>
-<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/archivetell/6145" target="_blank">📅 23:52 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/archivetell/6145" target="_blank">📅 23:52 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6144">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">Fasten your seat-belts
 Pack your Backpack
 🗿
 😂</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/archivetell/6144" target="_blank">📅 23:43 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/archivetell/6144" target="_blank">📅 23:43 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6142">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -921,11 +935,11 @@ Pack your Backpack
 <a href="https://t.me/archivetell/6142" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">ریزالور</div>
-<div class="tg-footer">👁️ 2.8K · <a href="https://t.me/archivetell/6142" target="_blank">📅 23:15 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.81K · <a href="https://t.me/archivetell/6142" target="_blank">📅 23:15 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6141">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -934,11 +948,11 @@ Pack your Backpack
 </div>
 <a href="https://t.me/archivetell/6141" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 2.81K · <a href="https://t.me/archivetell/6141" target="_blank">📅 23:13 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/archivetell/6141" target="_blank">📅 23:13 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6140">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">ریزالور
 95.80.164.6
 84.241.3.33
@@ -991,17 +1005,17 @@ Pack your Backpack
 176.59.31.190
 176.59.31.199
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.85K · <a href="https://t.me/archivetell/6140" target="_blank">📅 23:11 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.86K · <a href="https://t.me/archivetell/6140" target="_blank">📅 23:11 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6139">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">ربات تست ۱۰۰ مگ فقط با ۴۰۰ تا رفرال بزن رو لینک</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/archivetell/6139" target="_blank">📅 23:10 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/archivetell/6139" target="_blank">📅 23:10 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6137">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/279755f66a.mp4?token=vlV0pz4swXaq5vWCWanAxV3HC_zuKO8hsfD_iJXvSSoeco9uM_nBVMDzP3aj-0TDiGqkAzHtYLPQYv1nzY0xaEdW8cFIqQgDGuJzxxhChJ4gCgCWxLYh97BdxXGYgfoxxHFaMQoVvTVvSgVAhwQUyOvGqUpQEb3Cx_G19H7NnuLANCZpFB7NjqhsU-Ll-_C3lYVQ6mgZny3CNWnwRjDT1x09KaECVic85GSHk_bfwSTFdn0Ecm43B1TBgsegcvNFABA98nW34cAi19zPvkwasmRE4IyR0nQAkS2IzlnFA5L-GnEs_IAAJWlwcJSYHyJ9r6lCYLcSBkVQhiA7MPCzhQ" type="video/mp4">
@@ -1009,27 +1023,27 @@ Pack your Backpack
 <br>
 <a href="https://cdn4.telesco.pe/file/279755f66a.mp4?token=vlV0pz4swXaq5vWCWanAxV3HC_zuKO8hsfD_iJXvSSoeco9uM_nBVMDzP3aj-0TDiGqkAzHtYLPQYv1nzY0xaEdW8cFIqQgDGuJzxxhChJ4gCgCWxLYh97BdxXGYgfoxxHFaMQoVvTVvSgVAhwQUyOvGqUpQEb3Cx_G19H7NnuLANCZpFB7NjqhsU-Ll-_C3lYVQ6mgZny3CNWnwRjDT1x09KaECVic85GSHk_bfwSTFdn0Ecm43B1TBgsegcvNFABA98nW34cAi19zPvkwasmRE4IyR0nQAkS2IzlnFA5L-GnEs_IAAJWlwcJSYHyJ9r6lCYLcSBkVQhiA7MPCzhQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/archivetell/6137" target="_blank">📅 22:49 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.62K · <a href="https://t.me/archivetell/6137" target="_blank">📅 22:49 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6136">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">۵۰ گیگ کانفیگ اهدایی
 🔥
 vless://8879af15-f3de-4ff8-a4dd-e9ee7f33477f@v2speed.solarmg.ir:8443?type=ws&encryption=none&path=%2Fdownload.php&host=v2speed.solarmg.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=v2speed.solarmg.ir#ARCHIV%20TEL%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/archivetell/6136" target="_blank">📅 22:43 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/archivetell/6136" target="_blank">📅 22:43 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6135">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">خب دیگه دوران صد گیگ هدیه به پایان رسید
 از الان یک گیگ هم غنیمته</div>
-<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/archivetell/6135" target="_blank">📅 22:43 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.36K · <a href="https://t.me/archivetell/6135" target="_blank">📅 22:43 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6134">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/6df24a7408.mp4?token=VO-m-tETe9M-q0RP1W91Np9AtfOcXrQqyHSv1EGYtuOhbUOM7Za2gLMYwsjBsSgduBAEHSi3GCBjiAD8ep-GiRrX-9SNtiZJlW-X0eIqp3gjsNrIiesuWA2UfPVUKxHUA1kuYlB4bQhDnrodpqHPfCF9Y5Z8KlHNFH-xfowR_AxexB1qAVCIP6fFJqu01uUOgrgQcdyyJgoNTonYn9iRmeb09oxUVZ4oPNwwjCc3avz8Bwzr-1K5YLjkVvGpkIFeV5bRfSW2X4vfeX8Cd6D-eTiUizpKliBW_zLEWTJrWn32l3eyPQVmies-vMQD5-Kq8TFoOoQ77zClcvUM7fay4A" type="video/mp4">
@@ -1037,11 +1051,11 @@ vless://8879af15-f3de-4ff8-a4dd-e9ee7f33477f@v2speed.solarmg.ir:8443?type=ws&enc
 <br>
 <a href="https://cdn4.telesco.pe/file/6df24a7408.mp4?token=VO-m-tETe9M-q0RP1W91Np9AtfOcXrQqyHSv1EGYtuOhbUOM7Za2gLMYwsjBsSgduBAEHSi3GCBjiAD8ep-GiRrX-9SNtiZJlW-X0eIqp3gjsNrIiesuWA2UfPVUKxHUA1kuYlB4bQhDnrodpqHPfCF9Y5Z8KlHNFH-xfowR_AxexB1qAVCIP6fFJqu01uUOgrgQcdyyJgoNTonYn9iRmeb09oxUVZ4oPNwwjCc3avz8Bwzr-1K5YLjkVvGpkIFeV5bRfSW2X4vfeX8Cd6D-eTiUizpKliBW_zLEWTJrWn32l3eyPQVmies-vMQD5-Kq8TFoOoQ77zClcvUM7fay4A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/archivetell/6134" target="_blank">📅 22:41 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/archivetell/6134" target="_blank">📅 22:41 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6133">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/043de26847.mp4?token=E8446tMyIFqecnqy2vDEHdnOWWOWJKOXbTKVkP8UGeaeoKK7DxtdSNahvgjuoEv5QN4M35_qkx4mCuID47SmzVbA7V8msXL-mr9Y5Q3wqEkL1fIctSCAVpLmU-NdARGoU9ZFmFDYaz5BW9FZHDLXf8tDFqDbMtTVLZ1oUCkgHtBcFgzumg7Rpm4GAuIFQFnFR2gA0ucnVYDxSWuIIM6TXpQn5HpA1tIgKUUXWxkpytrs33WNaRTDbV5fJkWagU7Q3Rfh1shdk4S_G-yKOJ5KLf1wUNe-bUlvCnGfqRxmA4UJcJCZRXiMRXrCop9hYp2sr5wtYOSR-QWBgIntVDgN5A" type="video/mp4">
@@ -1049,40 +1063,40 @@ vless://8879af15-f3de-4ff8-a4dd-e9ee7f33477f@v2speed.solarmg.ir:8443?type=ws&enc
 <br>
 <a href="https://cdn4.telesco.pe/file/043de26847.mp4?token=E8446tMyIFqecnqy2vDEHdnOWWOWJKOXbTKVkP8UGeaeoKK7DxtdSNahvgjuoEv5QN4M35_qkx4mCuID47SmzVbA7V8msXL-mr9Y5Q3wqEkL1fIctSCAVpLmU-NdARGoU9ZFmFDYaz5BW9FZHDLXf8tDFqDbMtTVLZ1oUCkgHtBcFgzumg7Rpm4GAuIFQFnFR2gA0ucnVYDxSWuIIM6TXpQn5HpA1tIgKUUXWxkpytrs33WNaRTDbV5fJkWagU7Q3Rfh1shdk4S_G-yKOJ5KLf1wUNe-bUlvCnGfqRxmA4UJcJCZRXiMRXrCop9hYp2sr5wtYOSR-QWBgIntVDgN5A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/archivetell/6133" target="_blank">📅 22:38 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/archivetell/6133" target="_blank">📅 22:38 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6132">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">.</div>
 <div class="tg-footer">👁️ 2K · <a href="https://t.me/archivetell/6132" target="_blank">📅 22:37 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6131">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">از اونجایی که بو درگیری میاد نصب کنید
 😂</div>
 <div class="tg-footer">👁️ 2.06K · <a href="https://t.me/archivetell/6131" target="_blank">📅 22:37 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6130">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">حال کردید
 😂
 😂
 😂</div>
-<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/archivetell/6130" target="_blank">📅 22:36 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/archivetell/6130" target="_blank">📅 22:36 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6128">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">از اونجایی که بو درگیری میاد نصب کنید
 😂</div>
-<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/archivetell/6128" target="_blank">📅 22:25 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/archivetell/6128" target="_blank">📅 22:25 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6120">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromSlipNet</strong></div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
@@ -1098,28 +1112,28 @@ vless://8879af15-f3de-4ff8-a4dd-e9ee7f33477f@v2speed.solarmg.ir:8443?type=ws&enc
 </div>
 
 <div class="tg-post" id="msg-6118">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">تا کمپین اوکی بشه این ۱۰۰ گیگ رو فعلا داشته باشید
 پر سرعت
 🔥
 🔥
 vless://58e82e36-32e4-4368-8742-f51446c3fd28@45.130.125.66:443?mode=auto&path=%2F476T682e67a4f84a3c838ca94R86273&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%2210-50%22%2C%22xPaddingHeader%22%3A%22apinode%22%2C%22xPaddingKey%22%3A%22domow%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=ticket.fibernet1.qzz.io&fp=chrome&type=xhttp&allowInsecure=0#%40ArchiveTell%20100.00GB%F0%9F%93%8A%E2%8F%B3
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/archivetell/6118" target="_blank">📅 22:08 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/archivetell/6118" target="_blank">📅 22:08 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6117">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">دوستان ببخشید کمپین جدید مشکل داره از سمت ربات
 اوکی شد میذاریم
 سرعتش عالیه شرمنده
 ❤️‍🔥
 تا ی ساعت دیگ اوکیه</div>
-<div class="tg-footer">👁️ 1.79K · <a href="https://t.me/archivetell/6117" target="_blank">📅 21:56 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/archivetell/6117" target="_blank">📅 21:56 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6115">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">کانفیگ مخصوص کلاینت happ
 زمان : 60 روز
 حجم : ۱ ترابات
@@ -1130,11 +1144,11 @@ Github :
 https://github.com/Happ-proxy/happ-android/releases/tag/3.22.1
 happ://crypt4/vfb1onL0njkmd47DHXNPUKKEEPQNrpfahCf5vmgczvqBX6IcP0JkObKmWDw+hAZ2VwZ21pi6REi4WyyLXGQxIbppw+LrTNA2hI/+0Mv4HBgFZV3AEzeh1kgwD0yr9nppZJsSGofePhJLN2CcRV095i4udLU52HxgvaCcMSlW+MxM5BQyQycn0iznnAt+/d3fjhtJbMsGGPwC3VAK25ERXDg4IQVlPdk1K7QOfMqddVfnbPKHx6cYrLbYlh0jQS1ya2pgxEDHAHnKBapy6ldkGRojSL5NkZ0hDNhagnbvlB6EG+7WXfXLGBG4HTDv18z8kKwMcd8SqxlQs7xoZnsmUaMDLdiy7WLZ1feY8Z0upkOTj72B1Iwj1TIShiG1ZNyvKn9pPLCrNhntsChX3ckLrAMCI8U3iIRjoTgfW3WftxxTLfTN45xFAYGkektT1C1z/v1Bs+E5FZujJdzi/rCA+RoFpO8p7CvIbbCizV+dYY5deDml/Y0aBtTcy5J/Haukal2Wsx3Rrhcb8V1+L9FM6PfN0aKuZyzZ6cEZ2BCJTSEG4CAv0PSOwqQHts5lpfRLDdE6M5em9jkYuS5sdwxU2PULK4QDUn2a4LmkW5NMWQq/QOYuNTaiPsN1QqLKsTi0eXaGC9sJNHRLFOXahzwCgnKKr+ios8lIK98MoQ0KoUU=
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/archivetell/6115" target="_blank">📅 21:39 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/archivetell/6115" target="_blank">📅 21:39 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6113">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T34Lcsx8dQ1Gb-JbSXnYT2xsZvV_P9Ax6O7re1A_94dCemJE6w49QkHWMB6YXsJY3brpH7iF-tHXRpnHvkJtkYnwBCSHm2Fj6OPD86tYdgGpvuchXbwRYOvceWLZjROKRXFqgAb-BIrrLW2s3LZ9gSQd_tgao6C7gYMJ1JQvsbk_gIl8RmPnKcQWDdarhuNGQ3PJNCxWez4s58VP8mHZ9efIwJ8NRa12AfxNyWyfsZVV-4LRVcBAYp0teCGr2fe38ADhO17h-tkCI1QBkK54lyPRuIVDJcNevBQRFDyyFnLaBDI1jCrHBBfgftfhhaSdBlmn2Ht4KYnULvq0YiCNYA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎨
 ✨
@@ -1164,11 +1178,11 @@ https://figma.bot/4o7EDMQ
 😐
 😂
 🙋‍♀</div>
-<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/archivetell/6113" target="_blank">📅 20:42 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.93K · <a href="https://t.me/archivetell/6113" target="_blank">📅 20:42 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6112">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">🤔
 آیا گوگل هنوز برگ برنده‌هایش را رو نکرده؟
 با نگاه به رقابت اخیر هوش مصنوعی، به نظر می‌رسد گوگل همیشه چند قدم جلوتر آماده ایستاده است. هر بار که یک مدل جدید سر و صدا می‌کند، مدت کوتاهی بعد گوگل نسخه‌ای قدرتمندتر یا فناوری جدیدی معرفی می‌کند.
@@ -1187,11 +1201,11 @@ ChatGPT یا Gemini?
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/archivetell/6112" target="_blank">📅 19:56 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/archivetell/6112" target="_blank">📅 19:56 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6111">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/cba62c4ab7.mp4?token=ikulloPLwZ9IMy9BR4Vp3lDW2bSMp_S3nM1F2VgIsl89Du9onFH11g-FQ35tOXG7cbzM8W4McpkEUA1WoUgGlb3A4CQUwTSDOBeQc4UI7aoVafI23lYjerft0gWbiwWR-eIf3A-ZIkVR_D-8HwghWXf2aN2izSqAGAYoOzvdTTRvqqdfPC8n0fjRW4E7bFZ411imhWAeYaar13aMXiYCTe0OJcBba2g069ygSSTWI0SDdgs-_HolFXbWc6z0KytVN7wjyaV3FxCllFkRqHq4O_7q0OCVBh5gBDA44ARW4pXGW4R8PlWzJhDX07OMeFCPVzy-i1HOmP05S1DH_D7h4A" type="video/mp4">
@@ -1206,11 +1220,11 @@ ChatGPT یا Gemini?
 🔗
 https://puzzle.express/
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/archivetell/6111" target="_blank">📅 19:44 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/archivetell/6111" target="_blank">📅 19:44 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6110">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/5c8c59be67.mp4?token=MKu91lY4t4_LTI2bvaSiM7LujAPhuH_ImionLnm9tMfl0JfPg3QY5SoiJV4_Z6NOLPKf7rBPUQSVKPF9eLpVPltwjq917u20nzIAt2_aSZmuE66pnOcDFoxwTvOl4QC24f5OUjHYFQ3hqzgGC3eradEb5b6d1QCcuPuwBQE_qhhNFahglSiEsWMDXvVSFSvhWgMDhpQ576IOEIPVUDEYAWdQbwV_cxG-qLk7NeEQ6kry1CCNgzYKokExV_DrddX85j1n9lv323AYYvuB4V3yeknoU-w4-4BSwaTWRDRbjqsoZSeoGrTt8xnXyeGvvdSHz_x_ArII5jsiK0ARrqU6CA" type="video/mp4">
@@ -1218,11 +1232,11 @@ https://puzzle.express/
 <br>
 <a href="https://cdn4.telesco.pe/file/5c8c59be67.mp4?token=MKu91lY4t4_LTI2bvaSiM7LujAPhuH_ImionLnm9tMfl0JfPg3QY5SoiJV4_Z6NOLPKf7rBPUQSVKPF9eLpVPltwjq917u20nzIAt2_aSZmuE66pnOcDFoxwTvOl4QC24f5OUjHYFQ3hqzgGC3eradEb5b6d1QCcuPuwBQE_qhhNFahglSiEsWMDXvVSFSvhWgMDhpQ576IOEIPVUDEYAWdQbwV_cxG-qLk7NeEQ6kry1CCNgzYKokExV_DrddX85j1n9lv323AYYvuB4V3yeknoU-w4-4BSwaTWRDRbjqsoZSeoGrTt8xnXyeGvvdSHz_x_ArII5jsiK0ARrqU6CA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/archivetell/6110" target="_blank">📅 19:39 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.98K · <a href="https://t.me/archivetell/6110" target="_blank">📅 19:39 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6109">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">🔐
 دریافت SSL رایگان ۱۵ ساله برای پنل ثنایی با Cloudflare
 اگر از پنل ثنایی استفاده می‌کنید، می‌توانید بدون نیاز به Let's Encrypt و تمدیدهای دوره‌ای، یک SSL معتبر ۱۵ ساله برای تمام ساب‌دامین‌های خود دریافت کنید.
@@ -1258,11 +1272,11 @@ domain.com
 با این روش یک‌بار SSL را تنظیم می‌کنید و تمام ساب‌دامین‌های آینده نیز به‌صورت خودکار تحت پوشش قرار می‌گیرند.
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.26K · <a href="https://t.me/archivetell/6109" target="_blank">📅 17:25 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/archivetell/6109" target="_blank">📅 17:25 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6107">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vC_-niCj_c2Xf2AnBrgSQutYH7V3ouJxftZ3Yaux4kyexxAEfjXCtPlsdxXZyHqUC1AqTbEJg87X8oOp6YDIAOlytsk_2-PV1feUBcjPr_JWAtTZmnJauK8fKbkQb26e6bxiDbJK5utmSS5uFrkRCLrCrlEFuX6sPhB19q5e6xl9j_FTMp0A61trcO1D_NIRI0yJsFKpkNE45GaA-a7SWGXwgJztfji9QKxWdQknJ2TWcGBwDp-wJwnAOpc_hrvESz07L0pt4CRctL5wP438OyYIQ1o3sLnHGPV-zOau2_Rn5a2xajngwRQ-3eCPlbGOt6RWeNzYYcsbR9-vz3yR1w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دریافت دامنه رایگان برای پنل ثنایی و ....
 قابل ثبت در cloudflare
@@ -1275,7 +1289,7 @@ https://www.gname.com/tld-eu-cc.html
 </div>
 
 <div class="tg-post" id="msg-6106">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">ArchiveVPN | کانفیگ رایگان
 📝
 کمپین: 50GB
@@ -1289,11 +1303,11 @@ https://www.gname.com/tld-eu-cc.html
 مدت اعتبار: بر اساس تنظیمات دستی/مخزن
 🔴
 وضعیت: غیرفعال / پایان‌یافته</div>
-<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/archivetell/6106" target="_blank">📅 17:10 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.93K · <a href="https://t.me/archivetell/6106" target="_blank">📅 17:10 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6105">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">ArchiveVPN | کانفیگ رایگان
 📝
 کمپین:
@@ -1308,24 +1322,24 @@ https://www.gname.com/tld-eu-cc.html
 مدت اعتبار: بر اساس تنظیمات دستی/مخزن
 🔴
 وضعیت: غیرفعال / پایان‌یافته</div>
-<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/archivetell/6105" target="_blank">📅 16:28 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/archivetell/6105" target="_blank">📅 16:28 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6103">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">انقار میگن نقز شده این سری     .</div>
-<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/archivetell/6103" target="_blank">📅 16:24 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/archivetell/6103" target="_blank">📅 16:24 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6102">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">انقار میگن نقز شده این سری
 .</div>
-<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/archivetell/6102" target="_blank">📅 16:23 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.23K · <a href="https://t.me/archivetell/6102" target="_blank">📅 16:23 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6101">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/be2541bf82.mp4?token=pkE_VMRLYGn9h8bSIp0CurydTeAKqvJIMRr1pEcb1_5vUh6rLMiDVrmgkcoNwOgRgYJRnLcXGHR6kIJoZsfzO2k2Gyg0Pqdgur67tqw2fUnLHdk3gGOSXIqS6nT6wqk-vS5gugpquuZeKrUJnmZ0d8iVW9qkQoPWvMh_nPoYV6yw2WT0oTI3cPhvLzNK0WnvuEY2OUfP7Pz9AglkAIGk3G9naIM4NkfaqCMmWbJfqUbskQFCw_dK2yDuET0eehjaLWijWWItfcOAPbVvEy9Qg9iUxxTwuiwhP1-HNFdIiaYJIwjNr9cpCPZqBnkAY-y_b4LVchj1u7YIDj97H58hrg" type="video/mp4">
@@ -1341,17 +1355,17 @@ https://www.gname.com/tld-eu-cc.html
 دسترسی: در همه پلتفرم‌ها موجود است.
 Clypra
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/archivetell/6101" target="_blank">📅 15:43 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/archivetell/6101" target="_blank">📅 15:43 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6100">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">یوتیوب و اینستا شماهم روی همراه اول و رایتل باز شده؟</div>
-<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/archivetell/6100" target="_blank">📅 14:33 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/archivetell/6100" target="_blank">📅 14:33 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6099">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">💼
 🤖
 AI Job Search
@@ -1384,11 +1398,11 @@ GitHub
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/archivetell/6099" target="_blank">📅 14:19 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/archivetell/6099" target="_blank">📅 14:19 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6097">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Qj9CyElKc_qSdIvipuPgPHZtBpFcrbj9PUuI5NRSKqGepxXkuX_WJHgElOJKFDivMILs9vlhKpMDwvcL48sU-GU9oXC2p_Iav6bIEk0rQvQV1-NwGgHrYTuvD9TKwz3oZMeSctmpaDeeJGRwp1oTsuZ_XpriafQxsY5YcGP2Bud5h3y3tL_OQqESu8gD5-Ivv0pJYRwk4T7T1SZq0Avm_0gbvxuSyjcwSVuBkYtX0kyGoqWJwN2N_sc9lOK7GMTo57BtqAdJ4zZSSf3ZBfFv3zWup46BGgj3wlZa9e9ujL8ONj_5HPUd5_RfaSjgPO5n1rAur30ZPChyE1RtcS_M9A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎮
 🔥
@@ -1410,11 +1424,11 @@ GitHub
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/archivetell/6097" target="_blank">📅 14:15 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/archivetell/6097" target="_blank">📅 14:15 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6096">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">نامحدود
 🔥
 vless://991898b1-426b-4108-9d11-188339714c53@168.100.8.115:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=168.100.8.115&mode=auto&path=%2Flokayb&pbk=ZqgdfgPqBr3zZuk4yw6Rtw5u1ar3pPBYooFil3IKzUw&security=reality&sid=4dc2accf4ae6&sni=www.samsung.com&type=xhttp#@ArchiveTell
@@ -1424,7 +1438,7 @@ https://168.100.8.115:2096/sub/4spf8icnqa5e6si8
 </div>
 
 <div class="tg-post" id="msg-6095">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1443,7 +1457,7 @@ https://168.100.8.115:2096/sub/4spf8icnqa5e6si8
 </div>
 
 <div class="tg-post" id="msg-6094">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">🤖
 مدل جدید Huihui بر پایه Gemma 4 منتشر شد
 یک مدل 12 میلیارد پارامتری که برای اجرای محلی بهینه شده و روی سیستم‌های معمولی هم قابل اجراست.
@@ -1467,11 +1481,11 @@ https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-it-abliterated
 🔵
 @ArchiveTell
 |</div>
-<div class="tg-footer">👁️ 2.26K · <a href="https://t.me/archivetell/6094" target="_blank">📅 12:52 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/archivetell/6094" target="_blank">📅 12:52 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6093">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ekbh7bAE0-EOq36_5LPL_GmxDQjuYsUow58AV2MkW7Y58oq26w8Rf9NOOmAAHjt0rVvY1MdaApLXuvX-gw9qFXw_-UUkGSI4qOLHcxRx2u5pUI7tXm_wlapqTnr0AHIegdaZKM0nAFzWt7v0ka0FFKKfkjI8G8CFzRLucPuss5jYVl7PCSMZ6qD5-Sh6xlXZiBBNEpORsl0Qlv89uEXGyHPvjP71IvytKvp1_2y6TzmD-qqeQx8zznZ_eGiLG0bIbNxQHqBcIiCk_Kih1wpuSDc8AgmYLWysoGCWRXT9jIcTRNrRQ4ry-2DBKgj9xoGk2OOJb_3j7c4nJgc5-qRXlA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 خلاصه کردن ویدئوها و صفحات وب در چند ثانیه
@@ -1499,11 +1513,11 @@ https://summarize.sh/
 🔵
 @ArchiveTell
 |</div>
-<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/archivetell/6093" target="_blank">📅 12:10 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/archivetell/6093" target="_blank">📅 12:10 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6092">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IMHcoNHnYzBF7p5FKD0tgB65Mjm5ofupKJDJhJTeCb8S2PNR1_0m2I9WOjXZ-KzKp-j5EpjFAqyf5XY8fSgV0bKvY3YB8Ivs2C195XAF9zQX6SoZiUQQHDVJV7g6kcBffwxR9-sJvbPPjHx34mW2swQD1ZPStqzFHcS26URZdf1eMAzNP81FAUE1Luf0WEXdLzG0sbnl4jihk0eluWXfRiljFENshC0h6q8IseliwoBZd8C2GRDgs-Qyp6EZ6PAXcGy2q8N128RdvW-uOTArGSv8HHBWDyomajd8c-vAnfCQ4JooD9Om5wov9se5O3uQ2BlfhloCxaO4V3SkjsoZag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📰
 مقالات پولی اکنون رایگان هستند - دیگر لازم نیست برای اشتراک در سایت‌های محدود شده هزینه‌ای بپردازید.
@@ -1518,11 +1532,11 @@ Reader
 گیت هاب پروژه :
 https://github.com/jina-ai/reader
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/archivetell/6092" target="_blank">📅 12:00 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/archivetell/6092" target="_blank">📅 12:00 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6091">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">📚
 BooksBunch Bot — کتابخانه‌ای بزرگ داخل تلگرام
 اگر دنبال کتاب هستید، این ربات می‌تواند به یک کتابخانه دیجیتال همیشه‌همراه تبدیل شود.
@@ -1550,11 +1564,11 @@ BooksBunch Bot — کتابخانه‌ای بزرگ داخل تلگرام
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/archivetell/6091" target="_blank">📅 23:59 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/archivetell/6091" target="_blank">📅 23:59 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6088">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">ArchiveVPN | کانفیگ رایگان
 📝
 کمپین:
@@ -1569,11 +1583,11 @@ BooksBunch Bot — کتابخانه‌ای بزرگ داخل تلگرام
 مدت اعتبار: بر اساس تنظیمات دستی/مخزن
 🔴
 وضعیت: غیرفعال / پایان‌یافته</div>
-<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/archivetell/6088" target="_blank">📅 22:01 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/archivetell/6088" target="_blank">📅 22:01 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6087">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">🚀
 آپدیت بزرگ UAC Spoofer Android منتشر شد!  نسخه 1.0.5 با امکانات جدید برای عبور بهتر از DPI و فیلترینگ:
 ✨
@@ -1596,7 +1610,7 @@ Custom
 </div>
 
 <div class="tg-post" id="msg-6086">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">ArchiveVPN | کانفیگ رایگان
 📝
 کمپین: 100 گیگابایت
@@ -1615,7 +1629,7 @@ Custom
 </div>
 
 <div class="tg-post" id="msg-6085">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">ArchiveVPN | کانفیگ رایگان
 📝
 کمپین:
@@ -1631,11 +1645,11 @@ Custom
 مدت اعتبار: بر اساس تنظیمات دستی/مخزن
 🟢
 وضعیت: فعال - در حال توزیع</div>
-<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/archivetell/6085" target="_blank">📅 21:13 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.33K · <a href="https://t.me/archivetell/6085" target="_blank">📅 21:13 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6084">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">🚀
 آپدیت بزرگ UAC Spoofer Android منتشر شد!
 نسخه 1.0.5 با امکانات جدید برای عبور بهتر از DPI و فیلترینگ:
@@ -1682,7 +1696,7 @@ https://github.com/Floxu1/UAC-SNI-Spoofer-Android
 </div>
 
 <div class="tg-post" id="msg-6083">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">😎
 پروکسی‌های اختصاصی آرشیوتل
 ⚡️
@@ -1693,11 +1707,11 @@ https://github.com/Floxu1/UAC-SNI-Spoofer-Android
 روی لینک بزنید و گزینه Connect را انتخاب کنید.
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/archivetell/6083" target="_blank">📅 19:26 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.36K · <a href="https://t.me/archivetell/6083" target="_blank">📅 19:26 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6082">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JJ8hr64BjUUmXtCFoqSrG8ws4z9fnfjiRtGJcNZimtZbLHyAWAQmVvG17OfVwrRdv1GSJsYPtGZIGuVDSHD_cxf1yw2Plp017JvL1dndQQDdXiVpsNKfIrQzW3w_F-j1Glb063ZNH7Tx-FTezhjg139NbkjXJWxMLLNS_kYWCLMYQyYy2MarYUsXz7xy1REhkbJxRAp67l1S73_uklH5YNa-wnixgwliD1VSjfEdCD3JS1yrAYNqbly54_kHSqXRRXOXaT2do4F1oc0yDJ_PJUG0RRwxVdlSIFfpTUzZxDz8I6Kr3dcgrB8uA2XPSIyHr7rCJz7OhGcYvijbBbVMjA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📄
 ✨
@@ -1735,7 +1749,7 @@ updf.com
 </div>
 
 <div class="tg-post" id="msg-6078">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3bc7ad03ba.mp4?token=r5tp2D9NTxr7f2EzSqOPno6OT8CXYkZUKPe0EqGabWaIHKkOA6WiWL1qS1mM-9U1ESyPHuCQFL4dm4HHdhEKnWXgNhJy3zGn51je9Mcqb6_q3qrHOS_-xhzJJ8yEO_WxJndT4AM0v3X9SJzywL-KMB3v1ZNGNrGL2D_BImD4XWvbZmryybvgjJxdHuLD-HrErNL8Av6wsq1aJqeTJydHkC_D22gWN8-TV-1jvFE8eHvz7NGLL1z-rwwvb91tcf0dyQoCHfaKvPv033BT3mpz01BhucsXHqdIiRfMf28HJUbosJEMe7bP52OrJy-mHP9lpgTFtIhRd4l8f0KJuQUSlw" type="video/mp4">
@@ -1779,7 +1793,7 @@ https://magenta.withgoogle.com/mrt2
 </div>
 
 <div class="tg-post" id="msg-6077">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/czMY9_FTHjO8fc-Hn_KE2sOfwZLmlRPZM8teF3W4-enrGA3qvcEwyxO6PT7YjUvnrne10fxO0FgHv8F9KV67zl116kQCbQAtk-pVbJ57uXFyWInjZX6-_sOzxZ-d66Uvj8UhVtggDkC_hK-ehS1u30ploAOFefdNsFZLWKo0VrH_wPNHyxJzj-YmMvF94QJUkGhW1b245fOmfwj_yEHw6oocQzQYOa0NwqcG5jJr2tLNFx6Edqr9MC7vG0fDLtxSWFBLpPAmi3OhDN0jZOdQXj89EgvOAJHk5NOb_DLlRMjGEwK9AXb9zAjYzsaL0VyfdGJSOfIPtwAeN2IefCl2Zw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">راه اندازی پلتفرمی توسط OpenAI با نمونه‌های کاربردی ChatGPT
 🔥
@@ -1792,7 +1806,7 @@ https://chatgptpro.substack.com/
 </div>
 
 <div class="tg-post" id="msg-6076">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">زمان : نامحدود
 حجم : ۱۰۰ گیگ
 متصل رو همه اپراتور ها
@@ -1800,11 +1814,11 @@ https://chatgptpro.substack.com/
 اتمام حجم
 ❌
 vless://d601f422-a626-4533-a3d9-8fddf16517b5@171.22.136.84:8443?type=ws&encryption=none&path=%2Ftest&host=play.google.com&security=none#100gb</div>
-<div class="tg-footer">👁️ 2.33K · <a href="https://t.me/archivetell/6076" target="_blank">📅 16:45 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/archivetell/6076" target="_blank">📅 16:45 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6075">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">ArchiveVPN | کانفیگ رایگان
 📝
 کمپین:
@@ -1823,7 +1837,7 @@ vless://d601f422-a626-4533-a3d9-8fddf16517b5@171.22.136.84:8443?type=ws&encrypti
 </div>
 
 <div class="tg-post" id="msg-6074">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">✨
 اطلاعات عمومی
 [5/23/26 3:48 AM] ᴍᴍᴅ: ثنایی یا صنایی یا سنایی
@@ -1833,14 +1847,14 @@ vless://d601f422-a626-4533-a3d9-8fddf16517b5@171.22.136.84:8443?type=ws&encrypti
 </div>
 
 <div class="tg-post" id="msg-6073">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWnVBRzJ3d0RkaWJMV2R1VkZ6YmVY@45.95.233.55:443#%40MohrazServer%20-%20%40ArchiveTell
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/archivetell/6073" target="_blank">📅 14:25 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/archivetell/6073" target="_blank">📅 14:25 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6072">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">کانفیگ مخصوص کلاینت happ
 زمان : 40 روز
 حجم : ۱ ترابات
@@ -1855,7 +1869,7 @@ happ://crypt4/vfb1onL0njkmd47DHXNPUKKEEPQNrpfahCf5vmgczvqBX6IcP0JkObKmWDw+hAZ2Vw
 </div>
 
 <div class="tg-post" id="msg-6071">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nxOAKfsyr3jJ8pro5kOeUDdJaEbY_tsKnEqUaJzzKxwG3Py6fYNGVWbzem84M4-yFQdWRe7FmiyXAGt-v1Q-wYOLoYFUBWOZqyXP5NB4rt9TM5IYEcVcz5YGs_XvF7IgXNmZHPNwf8DtCOZRM66ZfIXhj_OibGIAMgnfE3yjpGXciQOtlPD2tThxfQ9XlouuK_1J0-wMOSoteUYFSRLERXmt6rxUhNenJTeHY4s6JVxhgA52pyK6gdTLhzr7moW0-kTyF7C3Zn_IL5n2LM7Q43H-gQqXMN9Cd13DqPR0whn0ANdDMGiWPYZYWoDZy5MVMt_cDCCe1dDPN-cOTZBr-Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یوتیوب پریمیوم و بدون تبلیغات
 https://morphe.software/
@@ -1871,17 +1885,17 @@ https://github.com/MorpheApp
 </div>
 
 <div class="tg-post" id="msg-6070">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">🤖
 وگا | نسل جدید ربات‌های هوش مصنوعی  وگا فقط یک چت‌بات نیست؛ یک دستیار حرفه‌ای و همه‌فن‌حریفه که بهترین ابزارهای AI دنیا رو کاملا رایگان و بدونه زیرمجموعه در اختیارت می‌ذاره
 ✨
 🧠
 گفتگو با قدرتمندترین مدل‌های جهان GPT-4 • GPT-5.5 • Gemini 3 • Llama 4 • Qwen…</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/archivetell/6070" target="_blank">📅 13:32 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/archivetell/6070" target="_blank">📅 13:32 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6069">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">🔥
 آپدیت جدید NipoVPN منتشر شد!
 ‌ابزار NipoVPN یک ابزار متن‌باز برای عبور از محدودیت‌های اینترنتی است که با مخفی‌سازی ترافیک واقعی داخل درخواست‌های عادی HTTP، سعی می‌کند اتصال پایدارتری فراهم کند.
@@ -1917,7 +1931,7 @@ https://github.com/MortezaBashsiz/nipovpn/releases/tag/v1.1.54
 </div>
 
 <div class="tg-post" id="msg-6068">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DoXMkv8p8TD97V9VnvxH8ooN-U8LxtUW2BK79Bm55Thup34_3rTasiJ5G0VoNF1rAhC0BITt12EJcDskNHGYx430vvATfsf9DJ7H43wb61NX2trU62pP1R_Z2y-fxXjkUgir4Bh0qPgZ5bie1ZdIclkHmAGB2YvbKsSX4WFB16kuHSREaf6J3CSiRtdeDr04u7J5C6RVP7BUpYWS4hKY4jRHEODwitFzSgk-f_NOgjdd64AISlHSCeriMr8RyY2ba1nWUtiesyblzLLg5sqHLuB7HhPxqzv6Zyc7NwGjm7lpm6lIZR1OKTjkrrDF2-K80he0dCt-2NdpNKq-t14mCw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حذف سانسور مدل های محلی هوش مصنوعی مانند Qwen , Gemma , Llama و ... با یک فرمان ساده
 https://github.com/p-e-w/heretic
@@ -1926,7 +1940,7 @@ https://github.com/p-e-w/heretic
 </div>
 
 <div class="tg-post" id="msg-6067">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1602b4fbe6.mp4?token=PmJHXpTS0zdj9qacP5y8Dyvvy2Sm3n_v59yB2Iu7JgVZVHQk_Nv_R82cZJyz5sbcF7dt3oUxf4plk92U0VYEhSJNq2-NmXP72OcKi4t6A8WuQKJqahebqc4HNfI1Sse8xa9OMZF_XIYhvkeqjUxss30sbgb-2LCAHDTcVIt83Ml6D6sqpX5_10SJqvFAh4uyd6L1VzMo94vNfdi3lwww7zxNbC7sxXxpdcF7vnkR90y_M9UQwCIItVGAvisXQeewhw95biKrLvMQty-KaMZcMoePbvcZ93s9EwRiUSV-Vdp7r83tQpOybmgkQvJKssI8A_E3z0Rwjw1ZcRZWL5D0wA" type="video/mp4">
@@ -1977,7 +1991,7 @@ https://lmstudio.ai/blog/locally-lm-link
 </div>
 
 <div class="tg-post" id="msg-6066">
-<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">🎥
 سایت های تولید رایگان ویدئو
 ⚡️
@@ -1993,11 +2007,11 @@ Runway
 Wan
 —  می‌توان آن را به صورت محلی اجرا کرد. ویدئوهای با کیفیت می‌سازد و نیاز به سخت‌افزار قوی ندارد
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/archivetell/6066" target="_blank">📅 09:38 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/archivetell/6066" target="_blank">📅 09:38 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6065">
-<div class="tg-post-header">📌 پیام #2</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">ArchiveTel
 pinned «
 ArchiveVPN | کانفیگ رایگان
@@ -2015,38 +2029,6 @@ ArchiveVPN | کانفیگ رایگان
 وضعیت: فعال - در حال توزیع
 »</div>
 <div class="tg-footer"><a href="https://t.me/archivetell/6065" target="_blank">📅 08:59 · 16 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-6064">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NNT3Bk5vbFJ8RxFJ-4keHitOZyJ11CpUbgaEUBt1drlBaxcGhubu1-keCQSBejwbREui_1zyJ5I1t7eJqrHVo2Z9HqJXGZDypGLWX5E-G0UdBaK5uyqA8FQUhbv_5AAzI0g1Ohik3bQLvRBnAXhYF-OrOgQ4_-FIaksitaQaXIRJZgpVtbHVQy2D1Unv3cPemlHgj3EYm8wtDiZ9RhVwDFwRF0XWqxZRIQNmO7teCitsPrHJMjupEgFVN4hek9vOA_cTxgIGVWtjdRliN_EOziSHCycFKo9ciKpDxXffZZM6DC7j1C30LPuS6SZ_174SU4qseonOqMot6LrAG1VHCA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">آفر 91 روزه F Secure Vpn
-🔑
-ابتدا شما به یک ip سوئد
-🇸🇪
-نیاز دارید ( حالا هر vpn )
-برای ایمیل هم میتونین از
-@TempMail_org_bot
-استفاده کنین
-📩
-وارد لینک زیر بشید و ثبت نام کنین
-✌
-link
-حالا رو add subscription code بزنین و کد زیر رو وارد کنین :
-BNAUH-EFCTO-EQOCZ-RXHES
-و در آخر ایمیل رو تایید کنین و تمام
-🤝
-دانلود F secure vpn برای اندروید
-🕹
-دانلود F secure vpn برای ios
-🌐
-اگر اروری دریافت کردید حین ثبت کد مشکل از آی پی شماست دوباره امتحان کنین
-❤️‍🔥
-تا تموم نشده بزنین
-🩵
-💎
-@ArchiveTell</div>
-<div class="tg-footer">👁️ 3.16K · <a href="https://t.me/archivetell/6064" target="_blank">📅 04:40 · 16 Khordad 1405</a></div>
 </div>
 
 <hr>
