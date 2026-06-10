@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 63.2K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-20 03:18:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-20 06:07:11</div>
 <hr>
 
 <div class="tg-post" id="msg-5454">
@@ -300,7 +300,7 @@
 🚨
 صداوسیما:
 دو نقطه در جاسک و کوه مبارکه مورد اصابت پرتابه دشمن قرار گرفته است.</div>
-<div class="tg-footer">👁️ 8.28K · <a href="https://t.me/farahmand_alipour/5454" target="_blank">📅 01:18 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farahmand_alipour/5454" target="_blank">📅 01:18 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5453">
@@ -309,21 +309,21 @@
 🚨
 🚨
 سنتکام از انجام حملاتی در پاسخ به سرنگونی هلی‌کوپتر آمریکایی خبر داده است.</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farahmand_alipour/5453" target="_blank">📅 00:51 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farahmand_alipour/5453" target="_blank">📅 00:51 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5452">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">🚨
 جمهوری اسلامی با چند موشک به اقلیم کردستان عراق حمله کرد.</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/5452" target="_blank">📅 22:53 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/farahmand_alipour/5452" target="_blank">📅 22:53 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5451">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">عراقچی : تنگه هرمز «آبهای بین‌المللی» نیست.
 پاسخ هر تهدیدی را خواهیم داد.</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/5451" target="_blank">📅 22:34 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/farahmand_alipour/5451" target="_blank">📅 22:34 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5450">
@@ -331,13 +331,13 @@
 <div class="tg-text">نتانیاهو: ممکن است مجبور شویم بدون پشتیبانی آمریکا با ایران مقابله کنیم
 پس از تماس تلفنی ترامپ برای توقف حملات اسرائیل در پاسخ به حملات موشکی ج‌ا، نتانیاهو به وزیران کابینه خود چنین هشداری داد:
 «ممکن است به وضعیتی برسیم که مجبور شویم به تنهایی و بدون پشتیبانی آمریکا با ایرانی‌ها مقابله کنیم، با تمام هزینه‌هایی که این موضوع به همراه دارد، کمبود مهمات و انزوای بین‌المللی. نمی‌خواهیم به آن نقطه برسیم، اما می‌دانیم که ممکن است برسیم.»</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/farahmand_alipour/5450" target="_blank">📅 21:56 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/farahmand_alipour/5450" target="_blank">📅 21:56 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5449">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l0rdWvRGjiDN2SnkBwEcXj8SbC0wWWZekvVKibebNMqUL0t0FCoSenR1HERP2egZamxdZaZOEtOu2x3k-WF_cKmcohdS7Uys9A1ZLQcmG4vuZdaRUiTVtzmpuaTRHFA-DDHiaww_LHyEC5aOS3NCRa56YKff4TeCrOwsB17BAP5r6oUdFRlQEFAM5L5UFLXAUWykgFTrdvzAjtpD2JL4194KopF3EQDByI3fkxyx-32F6E7c1bMx9idc2oCeQwMUfmfYAIx8FW4WPKENeE22OUeX-cgBBteqQbn8a9j1O6Le0Pc-1RcN7gpTNJxGnmPvNZGETBL3fE1rR5T9eH1HlA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/farahmand_alipour/5449" target="_blank">📅 20:35 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/farahmand_alipour/5449" target="_blank">📅 20:35 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5448">
@@ -348,7 +348,7 @@
 🚨
 ترامپ : جمهوری اسلامی شب گذشته یک هلی‌کوپتر آپاچی آمریکایی را بر فراز تنگه هرمز سرنگون کرده. هر دو خلبان سالم هستند.
 ایالات متحده ناگریز است به این‌ حمله پاسخ دهد.</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/farahmand_alipour/5448" target="_blank">📅 20:13 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/farahmand_alipour/5448" target="_blank">📅 20:13 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5447">
@@ -356,13 +356,13 @@
 <div class="tg-text">می‌ترسم اینقدر اسرائیل لبنان رو بزنه
 که جمهوری اسلامی مجبور بشه
 دوباره اینترنت مردم ایران رو قطع کنه!</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/farahmand_alipour/5447" target="_blank">📅 17:22 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/farahmand_alipour/5447" target="_blank">📅 17:22 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5446">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">زن شیعه لبنانی : کشته شدن خامنه‌ای به ما چه …    زینب زنی در جنوب لبنان :  «نمی‌دونم چرا برای کشته شدن خامنه‌ای  رهبر یک کشور دیگه، ما باید وارد جنگ میشدیم  و متحمل این حجم از خسارات میشدیم.  چرا ما لبنانی‌ها باید هزینه کشته شدن خامنه‌ای رو بدیم که اصلا لبنانی…</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/farahmand_alipour/5446" target="_blank">📅 16:04 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/farahmand_alipour/5446" target="_blank">📅 16:04 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5445">
@@ -375,7 +375,7 @@
 <a href="https://cdn4.telesco.pe/file/4718cad225.mp4?token=HHKm9WB22Fh99TQSqpn2UXio5FkJh5hasrGXn519FmlkXN8FI6u0ap5vR9kD9W7vuF31FkVM7oTD3Had_lHoNAYCXtOuLeCvTWy5Z-2IGo_br8GMo69tMcfoS2x-PRpfaC_TdGywBkxcPq73IctiC15nN-HZgW0d_jCzHsTn3Komj7XwRoNttP6wS_-hrcfGikfRngyrElhXNTpDP7txKexg8WRCqpNoLYDIQei3EAw6xyUhnvzuR_Zs6vgaOqPZ8IRzdGAFVdeEy5lD4DTgUS0rzWB0k3aFAyomT84T4GbWMK1Dt0uKEJGGzXaaDfggf23n02ZJ3OBcmzGAETdHsw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">محله الکریت - صور - جنوب لبنان</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/farahmand_alipour/5445" target="_blank">📅 15:26 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/farahmand_alipour/5445" target="_blank">📅 15:26 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5444">
@@ -395,7 +395,7 @@
 🔺
 در اطراف صور چند اردوگاه فلسطینی
 نیز وجود دارد با جمعیت حدود ۶۰ هزار فلسطینی! آنها هم دستور تخلیه گرفته‌اند.</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/5444" target="_blank">📅 14:33 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/farahmand_alipour/5444" target="_blank">📅 14:33 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5443">
@@ -408,7 +408,7 @@
 در چند استان حمله کرده.
 درگیری اخیر در دفاع از گروه حزب‌الله لبنان صورت گرفت! جمهوری اسلامی با حمله به اسرائیل میخواست مانع از حملات اسرائیل به لبنان شود که عملا در این زمینه ناکام ماند و منجر به حملات اسرائیل به ایران شد.
 شهدای دفاع از ضاحیه و جنوب لبنان!</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/farahmand_alipour/5443" target="_blank">📅 14:08 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/farahmand_alipour/5443" target="_blank">📅 14:08 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5442">
@@ -423,7 +423,7 @@
 <div class="tg-text">‏جنوب لبنان - امروز
 ‏حملات جدید اسرائیل به شهرهای نبطیه، حداده، الرمادیه و دیر قانون راس العین.
 ‏بخش زیادی از این‌ کوبیدن‌ها در جنوب لبنان، در واقع پیام به باقر در تهرانه!</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/5442" target="_blank">📅 12:25 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/5442" target="_blank">📅 12:25 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5439">
@@ -448,7 +448,7 @@
 با این شرط که اسرائیل نه به بیروت
 (ضاحیه) و نه به جنوب لبنان، حمله‌ای صورت ندهد!
 ویدئو : حمله به پلیس دریایی حماس</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5439" target="_blank">📅 12:19 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5439" target="_blank">📅 12:19 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5436">
@@ -469,52 +469,52 @@
 این منطقه که بر روی مرز اسرائیل است
 از نمادهای قدرت و حضور جمهوری اسلامی بود و احمدی‌نژاد هم به آنجا
 رفته بود و پارکی را افتتاح کرده بود.</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5436" target="_blank">📅 12:10 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/5436" target="_blank">📅 12:10 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5435">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hz1VkNRSa7x3tpNPOFgR1kS7Ak5A92xBz0ZmRuwQXuFSDlvJsLvqx8qf_yb3tCfgzD_Hl9GoO9g-cnoBzTSdHTw3SOIRkWY_poE467lEiyhOTRckn4VAnU8sAyAyDHAg3XrW06GEyC1OTy45qyaJUa51cWuE1fI2kWoBlhyy_ZUBZzFdSymHV_pND5yIu9bzt23OlVWnwmzD92snT3z2jrxeuM3PTEz_aB24Dv8ke3xIGGVCjY1NalZZSnVQlQ14RobDzpjNHuUkc3CGs2fIRrcRYtWrLYojmdRDp490LkDxm0zWihLX-wc3BeLjo5YCaPMTULOiCRwz3FBaCT28cA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مسلمانان در سال‌های ابتدایی اسلام  به سمت «معبد یهودیان»  در اورشلیم نماز میخوندند.  شبیه کاری که یهودیان انجام میدادن، مسلمانان می‌گفتند  ما به سمت «بیت‌المقدس» نماز میخوانیم!  که این بیت‌المقدس همون «بیت هامیقداش»  «معبد» یهودیان بود.  جایی که داوود و سلیمان…</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5435" target="_blank">📅 10:44 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5435" target="_blank">📅 10:44 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5434">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">یه نکنه جالب :)  در قرآن، به طور جزئی اشاره شده که دلیل اینکه بنی‌اسرائیل حاضر نشدند بجنگند، «ترس» اونها بود، خدا هم میخواست بهشون شجاعت بده که برید بجنگید. (در آیه ۲۳ سوره مائده)  بنی‌اسرائیل میخواست توی یک  مناطقی از کنعان / فلسطین ساکن بشه ولی وارد جنگ…</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/5434" target="_blank">📅 10:36 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/5434" target="_blank">📅 10:36 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5433">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">حالا چرا قرآن اصرار داره که بنی‌اسرائیل با جنگ وارد سرزمین مقدس بشه؟  خود قرآن هیچ جا به صراحت نگفته.  اساسا داستان‌های توراتی - انجیلی رو قرآن عموما اشاره وار گفته،  چون مسلمانان از طریق تورات و انجیل با داستان‌ها آشنا بودند.  شبه‌جزیره عربستان پر بود از…</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/5433" target="_blank">📅 09:59 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5433" target="_blank">📅 09:59 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5432">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">میزان درگیری میان خدا و موسی از یک طرف و قوم بنی‌اسرائیل از طرف دیگه بر سر اینکه حاضر نیستند با جنگ و….. وارد «سرزمین مقدس» وعده داده شده، بشن،  تا اونجایی بالا میگیره که در آیه ۲۶  خدا بهشون میگه حالا که نمیرید مبارزه کنید تا ۴۰ سال بهتون اجازه نمیدم که وارد…</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5432" target="_blank">📅 09:33 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/5432" target="_blank">📅 09:33 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5431">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lOyqxxY27ELeFV9VQdz1teaQLF7c8RAILLQyyC_P4YJlw8SoFUP_bjEjgz4H9OXRIkqofsnA7OfXjS3SNCWvkXokAc5w7AVYxwRemUzpBZXCatwqz2hMZXGM6delBMac0sR54aIhC6uByk7dlyMY5ZhItuz_Yv0S_J3kvd9RUry-QB8yONawTR4-GmMzBf4XFFXOi8uJDm_mnt1AjP6BwemB0LOSfVb1itszS4ItM0QsiMhltbkGnpW7ZIbEbsvGqP-42yhjbzFGXV9eSIXhL6P7gmRjVIcMH_qxkscJEcf0EoBVOc7jzbUkLVpVA7qls9Cj6iSO8Vv45c86qKdyOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد چی میشه؟ بعد میرسیم به آیه ۲۳  که خدا از زبان موسی بهشون میگن وارد این سرزمین بشید و با ساکنان  اون مبارزه کنید و اونها رو بیرون کنید!  ولی بنی‌اسرائیل قبول نمیکنه که بره بجنگه!  و اونها رو بیرون کنه!  بنی اسرائیل مخالفت میکنه از این‌ دستور  موسی و خدا!…</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5431" target="_blank">📅 09:28 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/5431" target="_blank">📅 09:28 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5430">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IY9RV32qaTw0exm9-DK194NbTlE-4E9YEDTZBelmKhAtJ_j5kG90do-ougJdaa0GsfzcC-K65VVfBQ6uKfsVCEHlflMykONaJpyyjow85ZhkwhgNz6YTKFfLyU3Cpl2A1Zt4TNM5jH-c9TG9ZlOAnIO-7O1KL1w38Ll36o2db7YhBBk6dcjXQ0tstSpjIpQ-ePQToQ_dN4yBeGaWTaGIAMC-ZmweDk0Xe5yZcpTshtlokHywcnmkUfI_d10godRXovQRB9cSggFfSQmAMAMp9cQs0FXyc2RA3-vw0al1owD-guBFKfZQq1-uvb2uVGpNBMZTLCJ7pr99NGetd-Hr5Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در همین آیه ۲۱ سوره مائده موسی به قوم بنی‌اسرائیل چی میگه؟  «کتب الله لکم»!  خداوند برای شما مقرر کرده!  نوشته! سند زده!  و میگه برید و از اونجا هم بیرون نزنید!</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5430" target="_blank">📅 09:23 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5430" target="_blank">📅 09:23 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5429">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">در قرآن در آیه ۲۱ سوره مائده  موسی خطاب به قوم بنی‌‌اسرائیل میگه :  ای قوم! وارد سرزمین مقدس (کنعان - فلسطین) بشید و عقب گرد نکنید که زیانکار خواهید شد!</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/farahmand_alipour/5429" target="_blank">📅 09:17 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/farahmand_alipour/5429" target="_blank">📅 09:17 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5427">
@@ -526,7 +526,7 @@
 <div class="tg-text">در قرآن در آیه ۲۱ سوره مائده
 موسی خطاب به قوم بنی‌‌اسرائیل میگه :
 ای قوم! وارد سرزمین مقدس (کنعان - فلسطین) بشید و عقب گرد نکنید که زیانکار خواهید شد!</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/farahmand_alipour/5427" target="_blank">📅 09:14 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/farahmand_alipour/5427" target="_blank">📅 09:14 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5426">
@@ -535,13 +535,13 @@
 حمله پهپادی حزب الله لبنان به شمال اسرائیل.
 🚨
 حملات پهپادی حوثی‌ها به جنوب اسرائیل (ایلات)</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/farahmand_alipour/5426" target="_blank">📅 00:43 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/farahmand_alipour/5426" target="_blank">📅 00:43 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5425">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dYyksYwMzyIqQqZ3YG5Krw11zaDeXa_VuAz-PFSq9pX7D0PqBlRaLqZSLPvk9LwllJV-leJJTA9-J5obb9UnslulbL1RcNczi0K48tk3xrUeSLS_ekrZamT1fpQZdHdzJl-EBBIeWOX1M7YYAKF8igZECPDvbBDB7ISxQcdHrsbkGGxFf4CGlwXGTYziQD7DEiaPhuz05nyWUzIbwsD6EjmLK6HnpADqsm-Yzyj24TsWRTT4mBK2144yKCPYFIGlXomDvZGsjVeCDoxGsyox_AnI-MYUCRzEib9AyGRU0gPh3ZCiJHoL61GMDiVjc-Nc8-pMpFfVGRBOnLYY3O_JAw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/farahmand_alipour/5425" target="_blank">📅 23:25 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/farahmand_alipour/5425" target="_blank">📅 23:25 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5424">
@@ -551,7 +551,7 @@
 و دیگه داره یکساله میشه
 یکسال اولش که با شکست دشمن همراه بود
 ببینیم بقیه‌اش چی میشه</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/farahmand_alipour/5424" target="_blank">📅 22:43 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/farahmand_alipour/5424" target="_blank">📅 22:43 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5423">
@@ -560,7 +560,7 @@
 آمریکا دنبال آتش‌بس است ‌‌و نه گفتگو.»
 پس : میشه نتیجه گرفت که جمهوری اسلامی برای خروج از محاصره دریایی در چند روز آینده دست به اقدامی بزنه.
 گرچه حملات امروز عصر اسرائیل به لبنان نشون داد حملات دیشب ج‌ا هم نتونست وضعیت رو در لبنان عوض کنه، فقط یک پتروشیمی رو در ماهشهر از کار انداخت!</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/farahmand_alipour/5423" target="_blank">📅 21:16 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/farahmand_alipour/5423" target="_blank">📅 21:16 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5422">
@@ -598,7 +598,7 @@
 <div class="tg-text">‏نتانیاهو: در ۲۴ ساعت گذشته، ایران و حزب‌الله سعی کردند معادله جدیدی را به ما تحمیل کنند.
 این معادله غیرقابل پذیرش است.
 قاطعانه حق خود را برای پاسخ حملات محفوظ می‌داریک.</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/farahmand_alipour/5420" target="_blank">📅 19:33 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/farahmand_alipour/5420" target="_blank">📅 19:33 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5419">
@@ -641,7 +641,7 @@
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">اورژانس : ۱۴ نفر در حملات اسرائیل به ماهشهر زخمی شدند.
 لغو تمام پروازها در سراسر کشور تا اطلاع ثانوی</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/farahmand_alipour/5416" target="_blank">📅 16:38 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/farahmand_alipour/5416" target="_blank">📅 16:38 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5415">
@@ -689,7 +689,7 @@
 این انفجارهای پشت سر هم مربوط به موشک‌های این سامانه است که یکی پس از دیگری منفجر می‌شوند.
 این سامانه پدافندی قرار بود از آسمان کشور دفاع کن (با شلیک موشک)
 ولی اسرائیل بهش حمله کرد.</div>
-<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/farahmand_alipour/5411" target="_blank">📅 15:36 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/farahmand_alipour/5411" target="_blank">📅 15:36 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5410">
@@ -706,7 +706,7 @@
 🚨
 ‏قرارگاه خاتم‌:
 «پاسخی دردناک به اسرائیل داده شد و توقف عملیات اعلام می‌گردد! اما تاکید می‌شود که در صورت تداوم تجاوزات، از جمله در جنوب لبنان، اقدامات بسیار شدیدتر و کوبنده‌تر از قبل در راه خواهد بود.»</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/farahmand_alipour/5409" target="_blank">📅 14:48 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/farahmand_alipour/5409" target="_blank">📅 14:48 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5408">
@@ -737,7 +737,7 @@
 <div class="tg-post" id="msg-5406">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e3kETrWrKcs9AjZXufszl4UU8a-NTw0HtORUr2C2T_bZRoa1npm-SJqREXcR0p3SnY1361JbWoAmgcmkaiAF1XPTrEtLVYNkU-OLH8jbfc5aeKy_XJJ0gvMbes49l4mty2tzsdZrCFPlkFnSb72ZnIJRBHY3QXegCywlT8sQtMSSU7nZvUt04zVd9Sif6vTSpWuIldssj04gRfcXLGs-yaBNxoze1CYLksAFYQWuZ78_tyLg7H4aOXgxCJc1piftC4ThtZTQWg0CPAjknNgY6lWWZsdGtWzykns0pqYDQKWg_qH1_WLfXXUDzi5-lfOyqoZRH83IvdfnAznhTY8dJQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/farahmand_alipour/5406" target="_blank">📅 13:30 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/farahmand_alipour/5406" target="_blank">📅 13:30 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5405">
@@ -775,7 +775,7 @@
 <div class="tg-post" id="msg-5402">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">در جایی از داستان شاهنامه «ضحاک» ، که نماد پلیدی است و هر روز جوانان ایران را به قتل میرساند، برای فریب افکار عمومی دست به یک پروپاگاندای بزرگ میزنه.     دستور میده همه بزرگان ایران زمین متنی رو امضا کنن که بر اساس اون اعتراف کنند که ضحاک بهترین و عادل‌ترین…</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/farahmand_alipour/5402" target="_blank">📅 12:56 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/farahmand_alipour/5402" target="_blank">📅 12:56 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5401">
@@ -975,7 +975,7 @@
 🚨
 🚨
 سخنگوی ارتش اسرائیل رسما حملات اسرائیل به مناطقی در غرب و مرکز ایران را تایید کرد.</div>
-<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/farahmand_alipour/5385" target="_blank">📅 04:59 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/farahmand_alipour/5385" target="_blank">📅 04:59 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5384">
@@ -985,7 +985,7 @@
 🚨
 شنیده شدن صدای انفجارهای مهیب در تهران ، کرج و اصفهان.
 کانال ۱۴ اسرائیل؛ آغاز حملات اسرائیل در ایران</div>
-<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/farahmand_alipour/5384" target="_blank">📅 04:54 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33K · <a href="https://t.me/farahmand_alipour/5384" target="_blank">📅 04:54 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5383">
@@ -1116,7 +1116,7 @@ pinned «
 اسرائیل : تاکنون تمامی موشک‌های شلیک شده را رهگیری و ساقط کردیم.
 🚨
 گزارش‌هایی از موج ‌پنجم و‌ ششم شلیک موشک‌های ج‌ا به سمت اسرائیل.</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/farahmand_alipour/5367" target="_blank">📅 23:08 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/farahmand_alipour/5367" target="_blank">📅 23:08 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5366">
@@ -1141,7 +1141,7 @@ pinned «
 <div class="tg-text">🚨
 🚨
 اسرائیل : پاسخ حملات امشب جمهوری اسلامی را خواهیم داد!</div>
-<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/farahmand_alipour/5364" target="_blank">📅 22:54 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/farahmand_alipour/5364" target="_blank">📅 22:54 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5363">
