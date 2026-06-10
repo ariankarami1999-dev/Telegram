@@ -292,11 +292,60 @@
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ارائه‌دهنده راهکارهای نوین شبکه، سرورهای مجازی پایدار و سرویس‌های مخصوص تلگرام  گیمرها و تریدرها.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-20 18:02:50</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-20 21:22:53</div>
 <hr>
 
-<div class="tg-post" id="msg-9066">
+<div class="tg-post" id="msg-9069">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-text">🚨
+ترامپ: شاید نیروگاه‌ها و پل‌هارو بزنم شایدم نزنم، محرمانه‌ست
+@RUSSIAPROXYY
+🇷🇺</div>
+<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/IranProxyV2/9069" target="_blank">📅 19:30 · 20 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-9068">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-text">🚨
+💣
+🇺🇸
+فوری ترامپ: ما به آنها حمله خواهیم کرد و بسیار شدید حمله خواهیم کرد. ما بمباران رو از سر خواهیم گرفت. ما حق انجام این کار رو داریم. آنها هلیکوپتر ما رو ساقط کردن.
+🚨
+ترامپ: ما امروز دوباره به آنها حمله میکنیم
+@RUSSIAPROXYY
+🇷🇺</div>
+<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/IranProxyV2/9068" target="_blank">📅 19:29 · 20 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-9067">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IsWMXuvBZ-ldMBL9BkXvX7q7hVHiz3K0RBMICM1kKFbUucW3yiC7BniS12lEWOrSzUW7OW1_UMgeEdJHGaZGm9RdovelkABpV_bgrjfBsUjEe26-VRcMxgCADfafba6P6fUcC08HTZTkcb7K-_sb2DyhaMLQo8Z1hX4VeW_t9bVyCz-DYZ4WaiTxIayEGMRKK9yvZDZEXRZPHVADn0BOUUmwonLp0b7DX1USfjCrYcmQQP1nxD3ebcPwLumPLwn2wYbWox46MW48FaTRaxKxeOZ-Sl9gpUoE4VeX0r-xf4oE7_BxTd1bVjYMzoLInDMAN5AY-8lLESxZtxP3B7RDPA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">⚡️
+تانل پرسرعت لوکیشن آلمان
+🇩🇪
+و آمریکا
+🇺🇸
+و هلند
+🇳🇱
+برای تمامی سایت های آیپی ثابت برای ترید و جمنای و... فقط گیگی 10
+👀
+☀️
+مولتی لوکیشن دارای ۵ آیپی با پورت های مختلف
+💵
+10GB=100T
+💥
+🛡
+قبل خرید حتما در ربات تست تهیه کنید
+❤️‍🔥
+🔗
+@RUSSIAPROXYY_Bot
+جهت ثبت سفارش به ربات مراجعه کنید
+🔼</div>
+<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/IranProxyV2/9067" target="_blank">📅 18:47 · 20 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-9066">
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -309,11 +358,11 @@
 🎁
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 139 · <a href="https://t.me/IranProxyV2/9066" target="_blank">📅 18:00 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/IranProxyV2/9066" target="_blank">📅 18:00 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9065">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -326,11 +375,11 @@
 ⚡️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 510 · <a href="https://t.me/IranProxyV2/9065" target="_blank">📅 17:42 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.67K · <a href="https://t.me/IranProxyV2/9065" target="_blank">📅 17:42 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9064">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -343,11 +392,11 @@
 ❤️‍🔥
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 822 · <a href="https://t.me/IranProxyV2/9064" target="_blank">📅 17:25 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.78K · <a href="https://t.me/IranProxyV2/9064" target="_blank">📅 17:25 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9063">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -360,11 +409,11 @@
 ✅
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 1.04K · <a href="https://t.me/IranProxyV2/9063" target="_blank">📅 17:12 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.9K · <a href="https://t.me/IranProxyV2/9063" target="_blank">📅 17:12 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9062">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">🔴
 فوری
 -
@@ -372,11 +421,11 @@
 به صدور دستور برای حمله‌های جدید به نیروگاه‌ها و پل‌های ایران نزدیک شده‌ام!
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/IranProxyV2/9062" target="_blank">📅 15:08 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.02K · <a href="https://t.me/IranProxyV2/9062" target="_blank">📅 15:08 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9061">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i8Ft89EfucNrTJkwvLe_HcdIEVY_oZDbdqM9CBSR10uAf9XVwbw1uWXQrCgoH8dUWYZBXpzLpP6j93aqzEYPVrf_ilQRSkkKGqzt85kGakC5WtPksrWUW_iIcpMxegt2l6gZQIjFWrfxlq00JVUwXpdvUdpH8gQQXfL2mS5f7amy1Mjs2oPmgva5ZbFWKZJyP-KyF6OzXGRpzMi9YeKcto4W7446QhmwaiK_zgWwtqw_MBZ9B3phnRho_R8VhpjDlEwzj1gWAcO0JtXsXQtZu9bB7a3FXUr1p_5NDTGDxGURCFbsXKNTPqB24YVbd9tHe4Tiyu39-54AVQcuddkmBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 فوری-
@@ -384,11 +433,11 @@
 «ایران فقط حرف می‌زند و هیچ عملی انجام نمی‌دهد. قلدر خاورمیانه مُرد!!! آنها خیلی طول کشیدند تا برای توافقی که برایشان عالی بود مذاکره کنند، حالا باید هزینه‌اش را بپردازند!!!»
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/IranProxyV2/9061" target="_blank">📅 15:07 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.92K · <a href="https://t.me/IranProxyV2/9061" target="_blank">📅 15:07 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9060">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">اکثر نتا وصله
 🍸
 ✅
@@ -410,22 +459,22 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8
 %40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/IranProxyV2/9060" target="_blank">📅 12:33 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/IranProxyV2/9060" target="_blank">📅 12:33 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9059">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">مخصوص شرایط نت ملی حتما ذخیره کنید
 🇮🇷
 https://t.me/proxy?server=45.32.233.182&port=8443&secret=dd1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=mercedes.nine-gear.info&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/IranProxyV2/9059" target="_blank">📅 03:16 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/IranProxyV2/9059" target="_blank">📅 03:16 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9058">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">🔴
 ♨️
 مهر:
@@ -434,11 +483,11 @@ https://t.me/proxy?server=mercedes.nine-gear.info&port=25565&secret=ee1603010200
 موج دوم حمله درحال انجامه
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/IranProxyV2/9058" target="_blank">📅 02:53 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/IranProxyV2/9058" target="_blank">📅 02:53 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9057">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">🚨
 لیست جدید پروکسی متصل پخش کنید مخصوص نت ملی و شرایط عادی
 🇮🇷
@@ -452,11 +501,11 @@ https://t.me/proxy?server=87.248.129.107&port=8443&secret=ee1603010200010001fc03
 https://t.me/proxy?server=172.65.104.042&port=25565&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/IranProxyV2/9057" target="_blank">📅 02:30 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/IranProxyV2/9057" target="_blank">📅 02:30 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9056">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">مخصوص شرایط نت ملی حتما ذخیره کنید
 🇮🇷
 پروکسی
@@ -465,11 +514,11 @@ tg://proxy?server=5.78.53.137&port=8443&secret=dd104462821249bd7ac519130220c25d0
 tg://proxy?server=5.78.57.102&port=8443&secret=dd104462821249bd7ac519130220c25d09
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/IranProxyV2/9056" target="_blank">📅 01:58 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/IranProxyV2/9056" target="_blank">📅 01:58 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9055">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">مخصوص شرایط نت ملی حتما ذخیره کنید
 🇮🇷
 https://t.me/proxy?server=rec.nolags.pw&port=443&secret=dd0603553657b3f54b6bff0d3759e8db1d
@@ -479,98 +528,98 @@ https://t.me/proxy?server=feed.proxytg.live&port=443&secret=ee7c1dc73472aff6b273
 https://t.me/proxy?server=87.248.129.222&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4K · <a href="https://t.me/IranProxyV2/9055" target="_blank">📅 01:25 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/IranProxyV2/9055" target="_blank">📅 01:25 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9053">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">پروکسی نت ملی میفرستم حتما ذخیره کنید داشته باشید
 ❤️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.52K · <a href="https://t.me/IranProxyV2/9053" target="_blank">📅 01:22 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.76K · <a href="https://t.me/IranProxyV2/9053" target="_blank">📅 01:22 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9052">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">مث اینک این دفعه اوضاع واقعا خرابه، از اونطرف صدا و سیما میگ ما نزدیم، از اونطرف آمریکا میگ شما زدید پس باید ما بزنیم، فک کنم آمریکا میخواد شروع دوباره جنگو این دفعه بنداز گردن ایران
 😐
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.69K · <a href="https://t.me/IranProxyV2/9052" target="_blank">📅 01:21 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.96K · <a href="https://t.me/IranProxyV2/9052" target="_blank">📅 01:21 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9051">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">پروکسی فول متصل،ذخیره کنید
 ✅
 tg://proxy?server=5.78.48.55&port=8443&secret=dd104462821249bd7ac519130220c25d09
 tg://proxy?server=95.216.42.228&port=4455&secret=dd104462821249bd7ac519130220c25d09
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.67K · <a href="https://t.me/IranProxyV2/9051" target="_blank">📅 01:06 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.94K · <a href="https://t.me/IranProxyV2/9051" target="_blank">📅 01:06 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9050">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">🚨
 تیتر شبکه خبر :
 حملات موشکی سپاه ایران بزودی...
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/IranProxyV2/9050" target="_blank">📅 00:57 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/IranProxyV2/9050" target="_blank">📅 00:57 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9049">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">🔴
 بیانیه جدید سپاه : حمله شرورانه آمریکا را بی جواب نخواهیم گذاشت
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/IranProxyV2/9049" target="_blank">📅 00:56 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.18K · <a href="https://t.me/IranProxyV2/9049" target="_blank">📅 00:56 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9048">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">به لبنان که حمله نشده جمهوری اسلامی بهش بر بخوره؛ خاک ایرانه دیگه، مگه مهمه براشون؟
 😐
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.06K · <a href="https://t.me/IranProxyV2/9048" target="_blank">📅 00:52 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/IranProxyV2/9048" target="_blank">📅 00:52 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9047">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">حالا پاسخ ایران چه خواهد بود؟
 🦦
 بزن پایگاه هاشو تو منطق بگا بده مشتی
 😬
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/IranProxyV2/9047" target="_blank">📅 00:50 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/IranProxyV2/9047" target="_blank">📅 00:50 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9046">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">🚨
 سنتکام اعلام کرد که حملاتی را در قالب دفاع از خود علیه ایران آغاز کرده است؛ این اقدام در پاسخ به سرنگونی یک بالگرد آپاچی آمریکایی در روز گذشته صورت گرفت. این مأموریت، پاسخی متناسب به تجاوزات غیرموجه ایران است.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/IranProxyV2/9046" target="_blank">📅 00:50 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/IranProxyV2/9046" target="_blank">📅 00:50 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9045">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">🚨
 صدای انفجار در بندرعباس
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.93K · <a href="https://t.me/IranProxyV2/9045" target="_blank">📅 00:49 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/IranProxyV2/9045" target="_blank">📅 00:49 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9044">
-<div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J5s22qjzQBXoCr5qJWhbFjzdGrPs8zVtmRcvtDmTI9hEw9sDsahbfqEd5_lAO5gyplxLF9QCiqQutVxvFaydripPydPdB7raIB9waJJgKL-fcsassP3x44Ak6m3hoL4qIItGx3s8gPCrY_vQihTJ9HgoleuESR_TR5LhbE9oh3ZwlHdb4j04PLcxQ6DIbB4aSd2srNenwsz1ZPsUxqYKX4qVBWoGMDNyvtepg2e1QepIV2IDgtxQM_iP-aafQWqqfIGoILp79HR5kX4kXcPhJ-XsodDZ0aqqSmEIQGJUKcF2H0XoerJ2f62yWk9BgwaUWWTt7R98Qi-a5l5X2_68gw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OAsX6-cdRIboz52LzfaoyQSGg1TJ-pT2CR7MeZU4gW2Lh08tJIKFWaXHdUZsFPMJPm_zdadT9fispJzrEjVhzU4YWM1w8JRxn4upFltONVLWKv4e3JIbRFd4OClS6b7V---AGnODVe6iFpGu55d1jl_KxhK8EtUIPOKjn4s65VgYTeNM_QW16a1QrOCXOUtI6t-qJMaXPBlVHFHWDicE6P8J47J15Dkgb2hindh4Lnw-jy_ny44MxaRi72U_dYgTj1zVtta6IanATNJMZHt-xHnVZuQtxXVxCbOLAUF3HdY9h4LVTiTLHiP832N53tFA22tNk8mL_7dgJzLGX-iu5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 تانل پرسرعت لوکیشن آلمان
 🇩🇪
@@ -592,20 +641,20 @@ tg://proxy?server=95.216.42.228&port=4455&secret=dd104462821249bd7ac519130220c25
 @RUSSIAPROXYY_Bot
 جهت ثبت سفارش به ربات مراجعه کنید
 🔼</div>
-<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/IranProxyV2/9044" target="_blank">📅 23:21 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/IranProxyV2/9044" target="_blank">📅 23:21 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9043">
-<div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WjktA10QZGh6mpJElDeiogSAxy8s4PCgo4WBE9ruHbnoH-f4CNno3gGPgNS42-rEx3LGm7OFVkVUt0QxgyTMnYma4M1OBTJ6ptLhK0lI9A3IYwiAzZL2JsTKPYL0aondD35rJz1G4ImE29KBrUnbztmnaQn4IsqXJlAm_avc5xb86CC-0TP1fTS1hJCskA-ZKu1aFT3RYCicbbDHoV49tooN8a2-kmPsuGgVW6xqW5gg2cIPLEkgH-z1LWnCm31CV7h_NyFo4dsTsttKgTQYSALRUiFNH7symDqotyvTkaC1o99wcr69ji1pEKAvKSkWspDShXQjCaDDYKSuqPB7gA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Vw4Bx4Bpp4WhGlhAn5RATYT7YlGQWcr5xY3x53en_o7OogkFnknxFP01TJict4yzTsmGH3JMC8nb9ML9JKVv0iljxIoKqvLVWhL5xtaLds5Wbly8XglT4rNE5WSDS8OEdTdIbiQWrjaHNO2EMf0c-e_L7Z2nh7sJ2BvujUadWfQjUKAc0KvGa01wxmeYpL2X8LImOyzoCipgeLoIQmMqFSi7_KmsqiQUYrOZ6Kwo6E9gRooCHwYK2ag8r2W7U8R_6UdKgopCB0Alz859coE86oxH6fkCHNOjiamuczwsM-YfulyfsUzv6SZEnH6pYWDSEZyqfaiJ851m1PTi3WEbOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تونل کردن ترافیک ایران به سمت کشورهایی نظیر اذربایجان برای باز کردن سایتهای تحریم شده مثل ChatGPT و Claude بدون نیاز به VPN، باعث شده که ظرف مدت چند ماهه بعد از عملی شدن قرارداد انتقال ترافیک، رتبه کشور اذربایجان در نرخ سرانه تعداد پیامهای ارسال شده به ChatGPT از رتبه 44 در اوایل سال 2025، به رتبه 6 در اوایل سال 2026 صعود کنه!
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/IranProxyV2/9043" target="_blank">📅 20:38 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/IranProxyV2/9043" target="_blank">📅 20:38 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9042">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">❤️‍🔥
 Proxy:
 🔗
@@ -613,11 +662,11 @@ Link:
 https://t.me/proxy?server=5.161.143.78&port=8443&secret=dd104462821249bd7ac519130220c25d09
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/IranProxyV2/9042" target="_blank">📅 20:28 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/IranProxyV2/9042" target="_blank">📅 20:28 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9041">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">🔴
 بیانیه رسمی فیفا :
 دیدار ایران و مصر دیدار افتخار همجنسگرایان رنگین کمونی خواهد بود و به هیچ عنوان این رویداد لغو نخواهد شد. کاپیتان هر دو تیم الزامی هست که بازوبند رنگین کمونی  ببندن.
@@ -629,12 +678,12 @@ https://t.me/proxy?server=5.161.143.78&port=8443&secret=dd104462821249bd7ac51913
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/IranProxyV2/9041" target="_blank">📅 18:04 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/IranProxyV2/9041" target="_blank">📅 18:04 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9040">
-<div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BRGT6uTvf4gIPEcZTfWqVivXIKtM2Nz1BQUn3w-CjRfSbSPVWkcu2PyJVGeyhR5246s51SpOOVingM3ZHrWhcnvSiEA0HON8yam52yjwLQVpxas5TuLoiRzBKK5h30bbEyEnkdmtXHMz0iffVHoHMSj6amEvck89RzviANTDqTQwtIGq_lK_e48G8nRKjtJjmaJd0_tb4DPHX2iGV0_gkq7g42n6Luy4dC9NfLnrh1ZdGi7JAdLAZfSsr9JqZxjWHPYeP8jUuzCENrLw0DAC6R1nmbA93AZi6UUmov4t1aZbBIBF-WS1jaVj8VGQDqZ5Q42eUx2eFF6RRDzzynDxMA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PzlWr3yrUXADJOeVNNX19-ZQ_5hFzeZ-6LZtI-4LBJlCWbCckVuAW-9UyY9AK4X5LIBYqB54khuQmITO2TTe-ZMi47LAa7o2xrm4WBIoDBmjis1aaUMzG8hdJ64Ffc5ZuVuxxJnamlEvmwuXKc2VyOePgTvDAy3tfLsO6Zn5y79ofK6bvVwvjyfvjSNJJJsrxmxc6ugNnF30Fl8h8SnvZD7ELaXv6R5GINTh8XfCI8IY8qLkZLuRxNWw0F_0T8lxj4ufmFRPs7_u6Xh_FOGk874r5YQb7k7GPGuim17QoL7QmefvG1kNYgKx-mznffblYSruGHQRSIrEYYzDajr27A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 تانل پرسرعت لوکیشن آلمان
 🇩🇪
@@ -656,11 +705,11 @@ https://t.me/proxy?server=5.161.143.78&port=8443&secret=dd104462821249bd7ac51913
 @RUSSIAPROXYY_Bot
 جهت ثبت سفارش به ربات مراجعه کنید
 🔼</div>
-<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/IranProxyV2/9040" target="_blank">📅 17:40 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/IranProxyV2/9040" target="_blank">📅 17:40 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9039">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">❤️‍🔥
 Config:
 🔗
@@ -668,11 +717,11 @@ Link:
 vless://d4eb1900-6515-494e-85c5-306bb9594f56@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#%40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/IranProxyV2/9039" target="_blank">📅 17:35 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/IranProxyV2/9039" target="_blank">📅 17:35 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9038">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">❤️‍🔥
 Config:
 🔗
@@ -680,11 +729,11 @@ Link:
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#%40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/IranProxyV2/9038" target="_blank">📅 17:30 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/IranProxyV2/9038" target="_blank">📅 17:30 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9037">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">❤️‍🔥
 Proxy:
 🔗
@@ -692,11 +741,11 @@ Link:
 https://t.me/proxy?server=135.125.216.18&port=8080&secret=dd112760f4d4ccf54d5c3bc40a6776c73b
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/IranProxyV2/9037" target="_blank">📅 13:17 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/IranProxyV2/9037" target="_blank">📅 13:17 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9036">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -709,11 +758,11 @@ https://t.me/proxy?server=135.125.216.18&port=8080&secret=dd112760f4d4ccf54d5c3b
 🆕
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/IranProxyV2/9036" target="_blank">📅 13:02 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/IranProxyV2/9036" target="_blank">📅 13:02 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9035">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">📱
 یوتیوب رفع فیلتر می‌شه.
 📔
@@ -721,12 +770,12 @@ https://t.me/proxy?server=135.125.216.18&port=8080&secret=dd112760f4d4ccf54d5c3b
 وزیر ارتباطات در کمیسیون قول دادن که فضا رو به شرایط عادی برگردونن و بعد از رفع فیلتر واتساپ، رفع فیلتر یوتیوب هم در دستور کار بود.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/IranProxyV2/9035" target="_blank">📅 13:01 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/IranProxyV2/9035" target="_blank">📅 13:01 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9034">
-<div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gx13stZkZViYfhN6YU6jVWBbXsin0JMOGLR3w_MSEjTxxrX6_GAQ5N3Yr_Q2RiG3nxNlo6d_brld5JP3WVEAtaeie5MGwdyA9MmYHeaxMQiKAt0C_Oe0LArciJEzvRFAFGo9qVfKyEUd67bIl4qAoZvQSwh0AscJkrGQ2SNA3-mqo43d-OcINAVc6iCmj8e9MkjmZSpzM6WsDFGFcWT6NzwiUdfA8kzzyleZTilAgV2lKJSJX3HkEYF9IFL1lMHF0lzbLd1BXjlkSSKjYnHv57sVsslWDI4xuH2XIa61NssO3Uteq0Hw4VViNDqIGc6mBFDZYQWTCFvHyHdCad4QRw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QfGEeYHEfT1djFvGDyCpdqNd6vFRPEXZdWYswkdANHe0qLovF2tLElUETfg-9_3NrZPukfpRmqsQlcB5hZHKlobTVRECajuNQ9XAA1rflmAv12tVsVI7bM2n0mqeA3xP4DnMxRv_Edb1Fc77IyNHIwwrxVJOHsedcIzn2m74Dy_QFAbgr6Mw50prYWULsSReoi71XgdhPsQ0W0w-yFMLYLVtQaqQQf4lP41QTrK0lUyMfAkZ52G0TKNtrGQhv23Q7dZxWRWIoprwVOi7_39Vsp9wLUyi17cjIRw-uhNa78NMYzyRxt8IR3-E29mB54uSrvhKG-FbKJxFbu5jTsyq6g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 تانل پرسرعت لوکیشن آلمان
 🇩🇪
@@ -744,12 +793,12 @@ https://t.me/proxy?server=135.125.216.18&port=8080&secret=dd112760f4d4ccf54d5c3b
 ❤️‍🔥
 🔗
 @RUSSIAPROXYY_Bot  جهت ثبت سفارش به ربات مراجعه…</div>
-<div class="tg-footer">👁️ 5.44K · <a href="https://t.me/IranProxyV2/9034" target="_blank">📅 22:09 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/IranProxyV2/9034" target="_blank">📅 22:09 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9033">
-<div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uG3u9sYheqa8ZqplFk2xaDgJjjt7w-4RBnlmXdPL1OikDcr6MYJuXX18K6OWueDxEJW6yhmBimqe26hQoz46wfwKTJuiLO875ZDL0TtLTo_BL0tv254Ss4euI7eNAOnUjPWYHgwsyCML6_63_bd6V47UUSDlnHZOKg_PWtl8awz3d2MMmkmRQuDv6LAN6vfEr7NA3z6gke2BRVRn1fzhRas_HrvZ9y4ZSBIqyfIe9Hh1p-srBmBMIwpneX7m1eyO20hZab3SOSxJehMSsJaEkS6kbihVwmVXVcujQQsIKMSB_-hgOkvjSJeGrVcOMazIkT51xYk0GGXpzQWZxyLm1Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TB_5jfBP-jtdJb7EAzrkEoRCGYVsM_lgNNzmp9uOUC3dQeKNKZNyifbfKihqpsm7x5n7RLqE7lt5zRHQOF2P6Ecy-nAdxcK7sAFRl1rQ47JzHK7_ORepUw0ukg2fokmUQsQbmy8-mUy2f1XLVMNkrC4mxOJVNjh2DgE13FROD9-5k2F-qJFy_uPjbQdjNb5JWgS949xKMNHKTNCcO_HLyiObQ6yjUdg-lmD60jTmOdhVmilQy1flKgKKR0FiXVdyRJDr5-VS-WJK-yNCLDRFfWrjza9aO8OgJKGOIbD0Ik2xloOnoAAdjKsaFu6cV3CYTZxjD5E9hdXCxF960Sp59w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 تانل پرسرعت لوکیشن آلمان
 🇩🇪
@@ -769,11 +818,11 @@ https://t.me/proxy?server=135.125.216.18&port=8080&secret=dd112760f4d4ccf54d5c3b
 @RUSSIAPROXYY_Bot
 جهت ثبت سفارش به ربات مراجعه کنید
 🔼</div>
-<div class="tg-footer">👁️ 5.47K · <a href="https://t.me/IranProxyV2/9033" target="_blank">📅 17:24 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.51K · <a href="https://t.me/IranProxyV2/9033" target="_blank">📅 17:24 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9032">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">مخصوص شرایط نت ملی حتما ذخیره کنید
 🇮🇷
 https://t.me/proxy?server=178.105.226.182&port=443&secret=ee396219a1e9b2aebf6f245a1495777811706c61792e676f6f676c652e636f6d
@@ -783,40 +832,40 @@ https://t.me/proxy?server=relay.proxyb.site&port=443&secret=eeee9dfed6b3721e5b27
 https://t.me/proxy?server=5.75.200.229&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/IranProxyV2/9032" target="_blank">📅 15:15 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.69K · <a href="https://t.me/IranProxyV2/9032" target="_blank">📅 15:15 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9031">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">🔴
 مث اینکه جنگ فعلا به پایان رسیده، هردرطرف از موضع خود کوتاه اومدن ولی البته یه نکته بهتون عرض کنم که این شرایط فقط تا پایان جام جهانی فک میکنم آتش بس برقرار باشه
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/IranProxyV2/9031" target="_blank">📅 15:01 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/IranProxyV2/9031" target="_blank">📅 15:01 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9030">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">🚨
 👑
 فوری/معاونت ارتباطات و اطلاع‌رسانی دفتر معاون اول رئیس‌جمهور:   نگرانی برای قطع اینترنت وجود نداره و اینترنت قطع نمیشه  @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.69K · <a href="https://t.me/IranProxyV2/9030" target="_blank">📅 14:23 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/IranProxyV2/9030" target="_blank">📅 14:23 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9029">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">🚨
 👑
 فوری/معاونت ارتباطات و اطلاع‌رسانی دفتر معاون اول رئیس‌جمهور:
 نگرانی برای قطع اینترنت وجود نداره و اینترنت قطع نمیشه
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.13K · <a href="https://t.me/IranProxyV2/9029" target="_blank">📅 14:15 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.17K · <a href="https://t.me/IranProxyV2/9029" target="_blank">📅 14:15 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9027">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">مخصوص شرایط نت ملی حتما ذخیره کنید
 🇮🇷
 https://t.me/proxy?server=fresh.nolags.pw&port=443&secret=dd691fa48fcc661b68fe4f5200c5b174f9
@@ -826,11 +875,11 @@ https://t.me/proxy?server=91.217.166.22&port=20&secret=dd1603010200010001fc03038
 https://t.me/proxy?server=91.217.166.21&port=20&secret=dd1603010200010001fc030386e24c3add
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.86K · <a href="https://t.me/IranProxyV2/9027" target="_blank">📅 14:04 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.9K · <a href="https://t.me/IranProxyV2/9027" target="_blank">📅 14:04 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9026">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">مخصوص شرایط نت ملی حتما ذخیره کنید
 🇮🇷
 پروکسی
@@ -842,11 +891,11 @@ https://t.me/proxy?server=91.217.166.21&port=20&secret=dd1603010200010001fc03038
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/IranProxyV2/9026" target="_blank">📅 13:31 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/IranProxyV2/9026" target="_blank">📅 13:31 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9025">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">🚨
 دوستان احتمال داره دوباره اینترنت بین‌الملل با محدودیت یا قطعی روبه‌رو بشه.
 ✅
@@ -863,13 +912,13 @@ https://t.me/proxy?server=91.217.166.21&port=20&secret=dd1603010200010001fc03038
 💙
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/IranProxyV2/9025" target="_blank">📅 13:27 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/IranProxyV2/9025" target="_blank">📅 13:27 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9024">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromپروکسی | فیلترشکن | کانفیگ v2</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jNTB35cNG7Ue0u2D7dhx1ZAkiqyd_UkZ0kZm0xFpIZnsum8KXKs4_HdO_a11AkJvSHkJfaLyI2EEkYG9Qdy7LR8EfGtKQ-0vml1mI1aZOcfsv-N_D7Z--Mqy-elWzBzgMgjIc9zsEW1WPYpPsP2_sW0pyZ0sHI02EGxKrDDv6aeM-yLM_BCYdj8pqOR_xpMENvybe6BduzgTr_BKQYegx6txWEAL_5XRDPvj0DUa-AtuHfJ0TNo0qfxC9dlMAaj0Bu9-r519n6ciQKrb0jjhdebXGNW1f1bq1yvlu6LsY3VYeyZhAN23TdP_c_RgiNQbg1AeCS4xPQ4C0oRrGBR0dQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dAhzQztRNcdU9Sm7E6bQ-LgSd_sHVOSpseqe_4a0qG8wAs5h8SZu2DaVgyImF5qkzB4ITJ7fHIYQZlFExG8bkJSjzwfwaQRFjhfIjlgyp8BoWM5Lp8uXwU3-g0Yv4XoKwIp5AG9-kY_xtG-kV2sNt1RNgHMQACGeNgIue_aEnEVg5xy6KYXE0JnfUgHTPcPDh0lcRbDy7-KFzdwEnIOwXNEuu_ZXVkAGXv-Z1-L5Z1MSAV4gHgVnfYcVgKki_CPO5-TobICbzJbEgscCeFB63ekFJjXKNdlDVYlVVn_WvHfP9uKLAWgEz-dx5BDENYRlw96cvbzJphxwDzMuVRyWMA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 دوستانی که سرورا براشون متصله نمیشه، ۵ پورت و ۵ لوکیشن جدید اضافه کردیم، لینک سابتونو بردارین، حتما دامنه جدید رو از قسمتی که نوشته
 info.russiaproxyy.shop
@@ -883,32 +932,32 @@ doc.midnightfits.com
 https://doc.midnightfits.com:2096/reza/xxxxxxxxxxxxx
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/IranProxyV2/9024" target="_blank">📅 13:22 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/IranProxyV2/9024" target="_blank">📅 13:22 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9023">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">مخصوص شرایط نت ملی حتما ذخیره کنید
 🇮🇷
 https://t.me/proxy?server=s3.mowork.twc1.net&port=443&secret=ee90872f20ccc37e3aa2681602f51df71273332e6d6f776f726b2e747763312e6e6574
 https://t.me/proxy?server=s4.mowork.twc1.net&port=443&secret=ee3e9cfe9af4494731b9a566075ee8c3bc73342e6d6f776f726b2e747763312e6e6574
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.85K · <a href="https://t.me/IranProxyV2/9023" target="_blank">📅 13:12 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.86K · <a href="https://t.me/IranProxyV2/9023" target="_blank">📅 13:12 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9022">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">مخصوص شرایط نت ملی حتما ذخیره کنید
 🇮🇷
 vless://a78bf929-6883-48af-902d-7737793eeb17@hu02.sonicsonic.icu:443?security=reality&encryption=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hu02.sonicsonic.icu#%40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/IranProxyV2/9022" target="_blank">📅 13:04 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/IranProxyV2/9022" target="_blank">📅 13:04 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9020">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">پروکسی مخصوص شرایط نت ملی حتما ذخیره کنید
 🇮🇷
 https://t.me/proxy?server=imtproxy.ir.imtproxy-ir.info..&port=443&secret=ee16550001232d00bb5190728b72644171706c61792e676f6f676c652e636f6d
@@ -918,11 +967,11 @@ https://t.me/proxy?server=5.75.206.125&port=80&secret=eefc56fb73c972a2309c4787bc
 https://t.me/proxy?server=91.107.167.170&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/IranProxyV2/9020" target="_blank">📅 13:01 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/IranProxyV2/9020" target="_blank">📅 13:01 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9019">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">پروکسی مخصوص شرایط نت ملی حتما ذخیره کنید
 🇮🇷
 https://t.me/proxy?server=91.107.156.186&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
@@ -930,21 +979,21 @@ https://t.me/proxy?server=153.80.241.214&port=80&secret=eefc56fb73c972a2309c4787
 https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f68cef86baf
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.02K · <a href="https://t.me/IranProxyV2/9019" target="_blank">📅 12:56 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.06K · <a href="https://t.me/IranProxyV2/9019" target="_blank">📅 12:56 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9017">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">🚨
 براتون پروکسی نت ملی و اوپن و... میزارم، حتما ذخیره کنید و برای دوستاتون بفرستید درصورت قطعی اینترنت استفاده کنید تا بتونید، حداقل کانکشن رو به تلگرام داشته باشین
 ❤️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.14K · <a href="https://t.me/IranProxyV2/9017" target="_blank">📅 12:52 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.18K · <a href="https://t.me/IranProxyV2/9017" target="_blank">📅 12:52 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9016">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">🔴
 فوری-آکسیوس به نقل از رادیو ارتش اسرائیل اعلام کرد که ارتش خود را برای چندین روز درگیری در ایران و احتمال بازگشت به یک نبرد طولانی‌مدت آماده می‌کند.
 پروکسی
@@ -952,11 +1001,11 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/IranProxyV2/9016" target="_blank">📅 12:47 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/IranProxyV2/9016" target="_blank">📅 12:47 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9015">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">🔴
 دفتر نتانیاهو:
 در پاسخ به شلیک موشک از سوی جمهوری اسلامی، اهدافی در داخل ایران رو هدف قرار دادیم. اسرائیل همچنین در بالاترین سطح آماده‌باش دفاعی و تهاجمی قرار داره.
@@ -967,20 +1016,20 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/IranProxyV2/9015" target="_blank">📅 12:43 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/IranProxyV2/9015" target="_blank">📅 12:43 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9014">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">🚨
 فوری/نائب ریس کمیسیون صنایع: امکان قطع اینترنت بین‌الملل وجود دارد  بالاخره شرایط جنگی است و مصلحت ایران اولویت دارد.
 ✅
 با ما اخبار جنگی بروز باشید  @russiamilitery</div>
-<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/IranProxyV2/9014" target="_blank">📅 12:29 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/IranProxyV2/9014" target="_blank">📅 12:29 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9013">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">پروکسی | فیلترشکن | کانفیگ v2:
 🚨
 فوری
@@ -998,11 +1047,11 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/IranProxyV2/9013" target="_blank">📅 12:28 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/IranProxyV2/9013" target="_blank">📅 12:28 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9010">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">🔴
 ارتش اسرائیل:
 در ۲۴ ساعت گذشته بیش از ۹۰ هدف متعلق به حزب‌الله، از جمله انبارهای تسلیحات، مراکز فرماندهی و سکوهای پرتاب موشک در لبنان رو هدف قرار دادیم. این حملات با هدف از بین بردن تهدیدات علیه شهروندان و نیروهای اسرائیلی انجام شده.
@@ -1013,11 +1062,11 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/IranProxyV2/9010" target="_blank">📅 12:19 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/IranProxyV2/9010" target="_blank">📅 12:19 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9009">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">🔴
 لشکر10 سیدالشهداء سپاه کرج مورد حمله اسرائیل قرار گرفت
 پروکسی
@@ -1031,7 +1080,7 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 </div>
 
 <div class="tg-post" id="msg-9008">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">🚨
 🆕
 خبرگزاری فارس:
@@ -1047,7 +1096,7 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 </div>
 
 <div class="tg-post" id="msg-9007">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">🔴
 مهر: شنیده شدن صدای انفجار در جنوب تهران
 پروکسی
@@ -1057,11 +1106,11 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/IranProxyV2/9007" target="_blank">📅 12:07 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/IranProxyV2/9007" target="_blank">📅 12:07 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9006">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">🔴
 رفقا جنگ جنگه مراقب باشید از یک سری مراکز نظامی فاصله بگیرید ،امیدوارم تموم بشه این جنگ و همه مردم ایران سلامت باشن
 ❤️
@@ -1073,20 +1122,20 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 </div>
 
 <div class="tg-post" id="msg-9005">
-<div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZtGr1NAryx7iXZrK6Fuucd0_RZl5p8PajGU_oGpM4tku_h8eMXtfRpr92v7q7UsJOlFSaIVYfDgB5DNwuVzJuywn5CaZpR0_DDpvMQAatI2XozEa-H7EeaUvE2BXrUl2Fd7SAEdyMCvfXpLz6bjxkOrd_OZQWDzwJwbBMzLB3rTOrz08GTyCFprec8YNepMcUrgkdIRBLgtErfG2vf1LDhrkQrz0Qwk88eH7Ak00aROXBcyJbI5ZsXLY_1b7p-7nEDXMZ-Tw2zkncO2CCYUgtWJWUuha5i_iuU_Wf0Wks3WZUf5AE0VkW9E1zv4YqQo50Oms9doZhcdqAISy9qu3xw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d8XOw9gfjJbIoziMAmpiOGUSXiCxJYHQckRn_cp3W0uegmFaCgoyzaCua2eZcpmevI6UJwMqv9F_WoHQj3cDtL1LfG8HNy9AHJl5C6Tg8TEFMJFQ0JESx0BfoTol1TeARc-u27yWGpCQmJnkJi9NdhYBaoa5wssZL_EoV9YAnEXFDlNm8NQEJ-zEUgzyYqNhXElvP5OltC1GR8bsv7RTiAIaNfwNictQHHVH942Lu5-GEgdUg-hWEWpiKlTCXOehissnncTVDXr2_92x4CW1ew0gwd6iw-UTB7PQPlSiGIVeTWyc8f4G6Vel5_ThCF0dRsNvOjjQCRewhMwOv-_J5Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اکنون تهران
 پروکسی
 |
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/IranProxyV2/9005" target="_blank">📅 12:04 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/IranProxyV2/9005" target="_blank">📅 12:04 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9004">
-<div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FSDO0EUVB-73fGoX6SGpwtDcvWUn7Dkx8J0NwuV-L1xHol5WepQbLkby_Dzv8VOli9u_VXvw7p4fezDDIQhZ-Mkt50XfMpCArHpk23dLg_5dLBTL1-hc06b-Y_AnOSuK7vkxJEeAoFABIiX_ZNdWynLU4wQ_DgyXop1ddgZsjW2WBq6gsy4MLnI2x0YmbzFFORxfGHbZY_DQYbBXPvHPu89ESU36PR89cvkibh2Z0yMIFB_CMhKo44WBYebj2itYLyW2hvlnQPRp_pXho0aid2vFBDrCjI2Ey2ILEwxylcy4VR7c-rEtiLddDmMSrrHnJP1OLyT4Cjgps0atwebAUA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nPEqhSSeUJfRNoc5grNOkyF7IxlnHu0dwspReML6OAmD7PXsv1Uzk7KEXQ-Qz4Um0U_qkWdar2n5U55W5eyl3QzgNk4KKbsu700EXZgsD4f-YKs2tbQP1lXWdDTQxQOLAzv04bDqKdnr_Oh60ac80iJN9WN3iJBBsoMbQ5Hlf22ItW5GIDjN-mzfIF8MEy-ALFpcH6n5Rf2ScKr-PjpFVpkPHwSUGUx2PfbI9M0-4tfarphMROZfPJiX96C1iQuRlXz1k3lCZo7iGz26yhh15jryDQsUQq2fh2qwT-TvWR9ovrIy1ZtMxdqNLOyqWbY5bHWiqVZ5eJ-BbLady_X8mg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 تهران، شمس آباد:
 پروکسی
@@ -1096,11 +1145,11 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/IranProxyV2/9004" target="_blank">📅 12:02 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/IranProxyV2/9004" target="_blank">📅 12:02 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9003">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">🚨
 حمله اسرائیل به فرودگاه شیراز
 پروکسی
@@ -1112,7 +1161,7 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 </div>
 
 <div class="tg-post" id="msg-9002">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">🚨
 لشکر 8 زرهی اصفهان مورد حمله قرار گرفت
 پروکسی
@@ -1126,7 +1175,7 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 </div>
 
 <div class="tg-post" id="msg-9001">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">🚨
 ❗️
 دانشگاه عاشورا هوافضای سپاه مورد هدف قرار گرفت.
@@ -1137,11 +1186,11 @@ https://t.me/proxy?server=51.254.130.47&port=8443&secret=a84102e409230c3b69dd4f6
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/IranProxyV2/9001" target="_blank">📅 11:57 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/IranProxyV2/9001" target="_blank">📅 11:57 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9000">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">🚨
 ❗️
 وزیر جنگ اسرائیل: شروع کردیم.
@@ -1156,7 +1205,7 @@ Proxy
 </div>
 
 <div class="tg-post" id="msg-8999">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">🚨
 🆕
 ایرنا : انفجار در استان همدان
@@ -1168,11 +1217,11 @@ Proxy
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/IranProxyV2/8999" target="_blank">📅 11:54 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/IranProxyV2/8999" target="_blank">📅 11:54 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8998">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">🚨
 تو اکثر نقاط تهران، پدافندا درگیرن.
 پروکسی
@@ -1182,20 +1231,20 @@ Proxy
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/IranProxyV2/8998" target="_blank">📅 11:51 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.83K · <a href="https://t.me/IranProxyV2/8998" target="_blank">📅 11:51 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8997">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">🚨
 تو اکثر نقاط تهران، پدافندا درگیرن.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/IranProxyV2/8997" target="_blank">📅 11:49 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/IranProxyV2/8997" target="_blank">📅 11:49 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8996">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">🚨
 بنا بر گزارشات دیتاسنتر آسیاتک قطع شده و به دیتاسنترها جهت قطعی اینترنت آماده‌باش دادند.
 در صورت تبادل آتش بیشتر قطعی اینترنت بعید نیست.
@@ -1204,96 +1253,96 @@ Proxy
 ❤️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/IranProxyV2/8996" target="_blank">📅 11:46 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/IranProxyV2/8996" target="_blank">📅 11:46 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8995">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">🔴
 فوری-صدای انفجار در اصفهان
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/IranProxyV2/8995" target="_blank">📅 11:44 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/IranProxyV2/8995" target="_blank">📅 11:44 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8994">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">🔴
 فوری-شنیده شدن صدای انفجار در اسلامشهر و ملارد و کهریزک و باقرشهر
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/IranProxyV2/8994" target="_blank">📅 11:43 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/IranProxyV2/8994" target="_blank">📅 11:43 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8993">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">🔴
 فوری-شنیده شدن صدای انفجار در غرب و جنوب تهران
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/IranProxyV2/8993" target="_blank">📅 11:42 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/IranProxyV2/8993" target="_blank">📅 11:42 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8992">
-<div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GUP6Xr5O6yBPLybgiSsN3ef5uLVqGASBM2jhlzBdLk_O-4VxDHa-bMscogpuqt-8Pd7KZVqbVSq6aBa8BFN5NvagH316qePnPVOvfD82nDIIq1ShGiVdex2eaDpZHviIn7rZ-lXuNUui5dPHuqnoRHvyYU1dT1wtq6uXGxXmibiyp1Lkn9FIuHSagq0hwb3ZlJuEXtrVi1hMBvhhpgyuw37sLzMINfUK-hDudFNXgF2jZ_DHVp4HUL4rJXyzjwZVH0G_heP1hrv8a2lLSAofIkGyDdFii3NsT7lyVzLnW5t4wcbxpi1rpVhzxEPJR5Zx-hyFQdpSNgdqmBTCzcw07g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fnqLbaKbedV4fc7vJ6-MkHjbyFTAc2PAApYuGba211TCcw17ZIEmPH3iiGI-J2LhbG1B5VbG6whMabBzKNeJYIYTn-UwOBwMveHQhJy2_Xe7UwkuxLUX7XkHWMEoHxj_fmMrDOZZllWIV1yUM_Fx6Jx-e9zOSbImtrzJQfXUUmjwRJ1F1aLpUhGYTUXdcAJRepuyQJy4_pN6nRUjBIN5xm2N8w56HN-ahNzAVBQ5OXWUrDjuSAD0_MGUWlzZvW2jXy8fEhzjcn_rpXx6-RZSw5JNkXJdCcVLX2BXtEDTN9Jj98xRjtDt-jBQqakf4H-XwMjjNoP0eUvvosT2a0GyhA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 وضعیت آسمان اصفهان:
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/IranProxyV2/8992" target="_blank">📅 11:22 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/IranProxyV2/8992" target="_blank">📅 11:22 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8990">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">سپاه: حمله دشمن به صنایع پتروشیمی پاسخ داده شد.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/IranProxyV2/8990" target="_blank">📅 11:19 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.06K · <a href="https://t.me/IranProxyV2/8990" target="_blank">📅 11:19 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8989">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/eb9354396b.mp4?token=mTRjMgV7lstca23yagmztuWRwHlEc_vkJBsBEqg7Aq26LxYLLCH3AqljMKAsSBJ9TVIRQLy2Vn8eFuZYEAMLtB2n5wWovxVZ2y8BIFZF0U-qDg5pKeV0N1IO7rab3Pvcsv7wO7Wzzybp6nBGVe1Q5MGPNUrXYs8c3TPyOOmrTXMeJTuqML3AIU3tvNqroK2lfjUtpwu2C5PVcgl5c-kVqDN2VS-mVbt3066-aVPohrPihl99-7DYzQ4uO57fZ9FlIQlQ6pULuyikLM4TC08R2Q56afB-bSTe5IRfG3GjtyOeHCnubP1jD_6B5-S43gaGv_AUtrgiyBluWwnFdjwrxw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/eb9354396b.mp4?token=Kt96fugD63V1mMjAboofc8KhnJV0hbq3FKKkHhgjHKwlDiopElrZlRKgO1NBHoA2s53TznypScbbSV0mD73xMxmKxEDfrc25sXMEnbzPLLqP_tF37teGXePEMKYJuQOA-PCFt_ku3qbsLRJPH3m_TY6s1q6UBhZNMtNHcfGxGOwhao-wC77z9UnjfgORtg2N8_Um6ylJ7kcn1vTWGfpfstW9C5ASGCFzfrTMLThnZjkjeOMTpR0LebP1jYefvBr1CIw3QZnzVPieAruABw69eRcTw9BXgRwwV2rv6QRevOW0vYnPUPnzT27gipxrnPtVN6ljnNtKSiM6rubeAC_UuA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/eb9354396b.mp4?token=mTRjMgV7lstca23yagmztuWRwHlEc_vkJBsBEqg7Aq26LxYLLCH3AqljMKAsSBJ9TVIRQLy2Vn8eFuZYEAMLtB2n5wWovxVZ2y8BIFZF0U-qDg5pKeV0N1IO7rab3Pvcsv7wO7Wzzybp6nBGVe1Q5MGPNUrXYs8c3TPyOOmrTXMeJTuqML3AIU3tvNqroK2lfjUtpwu2C5PVcgl5c-kVqDN2VS-mVbt3066-aVPohrPihl99-7DYzQ4uO57fZ9FlIQlQ6pULuyikLM4TC08R2Q56afB-bSTe5IRfG3GjtyOeHCnubP1jD_6B5-S43gaGv_AUtrgiyBluWwnFdjwrxw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/eb9354396b.mp4?token=Kt96fugD63V1mMjAboofc8KhnJV0hbq3FKKkHhgjHKwlDiopElrZlRKgO1NBHoA2s53TznypScbbSV0mD73xMxmKxEDfrc25sXMEnbzPLLqP_tF37teGXePEMKYJuQOA-PCFt_ku3qbsLRJPH3m_TY6s1q6UBhZNMtNHcfGxGOwhao-wC77z9UnjfgORtg2N8_Um6ylJ7kcn1vTWGfpfstW9C5ASGCFzfrTMLThnZjkjeOMTpR0LebP1jYefvBr1CIw3QZnzVPieAruABw69eRcTw9BXgRwwV2rv6QRevOW0vYnPUPnzT27gipxrnPtVN6ljnNtKSiM6rubeAC_UuA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">فیلم‌های اضافی از موشک بالستیک ایرانی که در نزدیکی یک شهرک اسرائیلی در کرانه باختری اشغالی اصابت کرد.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/IranProxyV2/8989" target="_blank">📅 11:16 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/IranProxyV2/8989" target="_blank">📅 11:16 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8988">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/88608e0e82.mp4?token=l4z2LE5nXjhhvA4i6E_jYiNYVNFIScaVxAC92zGWaJGfCnaTfDbhBm9T_ZK_9bIXJQ2EYNhLIsKqcwFp7eyDShOrvhLztplsRQOXwmKCx6kk7b0pe6qHrwBYLa7Mw0EVTva0FyOhyn2E989jqeWQ_bc09ebO9AHEv_nATXtWmA5uBTM64rOc5uEyJoKVWGkJD-GC6xmEi2Dm4FFPqDFegHNP91Drw4NqjFXDZy9lfDmb1ks2lhCR5okaCAU5aaZK7yTxOowW3-l5C7wRZdSVGbeGBFRPsPL5TUdj2_h_YU7tAa61OWxCID7lzELogvBTmBuY1KhS98ORqhXTxT0m6A" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/88608e0e82.mp4?token=P2tTHKOpgfoVMDI6iV2w2LmIKKpltnD0LoYrQrRyxgdaEdKOFdb6vUeVOHdhTYUw3dCHAea-MdCelGj3idGUUcsxQOkNpkukUHaVkJ1ppn2Pmybb7GmnVBG-rr1zlGR4-zuR4wN3sBvShDWitBbw5juAp6QjZnVQ8p_2nu-lZG5sRxqlJrIBJYgQIgaHGKbuwWYxMd3WuRrCj5bbCl9a9F--__a4_X4T0JUiUqN_Wu5OuNQBz4VV6es49HG20wTLUbLFY7CY017SWBFPyqZlJ2UpO-gVvb5Ff1PDzxVA__RxEHNy-G10Rlho1CZj8SMwx_iLpSKR4x_KcZc3CSQ4kg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/88608e0e82.mp4?token=l4z2LE5nXjhhvA4i6E_jYiNYVNFIScaVxAC92zGWaJGfCnaTfDbhBm9T_ZK_9bIXJQ2EYNhLIsKqcwFp7eyDShOrvhLztplsRQOXwmKCx6kk7b0pe6qHrwBYLa7Mw0EVTva0FyOhyn2E989jqeWQ_bc09ebO9AHEv_nATXtWmA5uBTM64rOc5uEyJoKVWGkJD-GC6xmEi2Dm4FFPqDFegHNP91Drw4NqjFXDZy9lfDmb1ks2lhCR5okaCAU5aaZK7yTxOowW3-l5C7wRZdSVGbeGBFRPsPL5TUdj2_h_YU7tAa61OWxCID7lzELogvBTmBuY1KhS98ORqhXTxT0m6A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/88608e0e82.mp4?token=P2tTHKOpgfoVMDI6iV2w2LmIKKpltnD0LoYrQrRyxgdaEdKOFdb6vUeVOHdhTYUw3dCHAea-MdCelGj3idGUUcsxQOkNpkukUHaVkJ1ppn2Pmybb7GmnVBG-rr1zlGR4-zuR4wN3sBvShDWitBbw5juAp6QjZnVQ8p_2nu-lZG5sRxqlJrIBJYgQIgaHGKbuwWYxMd3WuRrCj5bbCl9a9F--__a4_X4T0JUiUqN_Wu5OuNQBz4VV6es49HG20wTLUbLFY7CY017SWBFPyqZlJ2UpO-gVvb5Ff1PDzxVA__RxEHNy-G10Rlho1CZj8SMwx_iLpSKR4x_KcZc3CSQ4kg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">تصاویری از تأسیسات پتروشیمی هدف قرار گرفته در ماهشهر، جنوب ایران.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.24K · <a href="https://t.me/IranProxyV2/8988" target="_blank">📅 11:13 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/IranProxyV2/8988" target="_blank">📅 11:13 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8987">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">🔴
 رسانه‌های اسرائیل:
 پس از شلیک یک موج موشکی از ایران، صدای انفجار در منطقه مرکزی و تل آویو شنیده شده.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/IranProxyV2/8987" target="_blank">📅 10:46 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/IranProxyV2/8987" target="_blank">📅 10:46 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8986">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">🔴
 اتحادیه اروپا: امروز تحریم‌هایی رو علیه جمهوری اسلامی به‌دلیل ایجاد اختلال در آزادی کشتیرانی اعمال خواهیم کرد.
 @RUSSIAPROXYY
@@ -1302,7 +1351,7 @@ Proxy
 </div>
 
 <div class="tg-post" id="msg-8985">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">🔴
 مدیرکل بحران آذربایجان شرقی:
 در پی حمله ساعت ۵ صبح دوشنبه به یک مرکز نظامی در تبریز، هیچ‌گونه تلفات جانی گزارش نشده.
@@ -1312,7 +1361,7 @@ Proxy
 </div>
 
 <div class="tg-post" id="msg-8984">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">🔴
 فعال شدن آژیرهای هشدار در اردن
 @RUSSIAPROXYY
@@ -1321,47 +1370,47 @@ Proxy
 </div>
 
 <div class="tg-post" id="msg-8983">
-<div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uiQklSPm-SojQoGEOmFqJcwu9FT7I43P1T2SjRsdt1e2E1KkgEmkpgd3oh5jfmZzwcgccPbYrq44DJzuT_L-Ft_yApZMv0d_8kYMjUOJhmVHpnja7xnYtAbIKczRjUlUYcmushoWttFFZMwQVlO-rmnBZNwhnWzA2fZXFk7iChEgjOJQQ1dHJNuI9s4xhiQq2XmTMVsaPxg38p7nmePQMnkSzDagjEsgDLQBMAISpW1ZsY_M3FawCLrHGDVgLTfPf3DakcaVLcu4ifjjlraYZ0cmMzOcY5IfbIKGMhb5I7Aq8uJoF6HIAHknpfaHm4TMcivo192GpAKJluAWmzSrOA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/L_77h5Ag2FqsLclA375EqxXqtZslAziXecQKp0QJd3XGKUdvQfokFnecfbq-K0-m-8Z3fyFrzl3WDQWuY0uVIQHfkhmx9JbhW6cvS1m2HuxyM3QCtZ52xdVGy0f66zacUGX-6_eAvf95_NSdXa6T17IRYcw0GfY1WrPzWyP4lBUxUfR2cQ33FRiXbWfqYsCuFwvg0UEHV6fS-2C2G6sAQM60V9MBoqeFAWCRiKazO8sNIUZPGpu0yO2h96Z3jUGi0_-xJpu1nXCWBROXA3gKUslFz_2rWVt2Ptjjs5hk34M1w6irWUEV4j8mnS44LbMQhqls65TMbyAnUksbIu0KfQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 توییت جالب ایلان ماسک: جالبه بدونین اسم تنگه هرمز از اهورامزدا، خدای آیین زرتشتی، گرفته شده.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.9K · <a href="https://t.me/IranProxyV2/8983" target="_blank">📅 10:37 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/IranProxyV2/8983" target="_blank">📅 10:37 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8982">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">🚨
 فوری؛ موج جدید حملات ایران به اسراییل هم‌اکنون
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/IranProxyV2/8982" target="_blank">📅 10:09 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/IranProxyV2/8982" target="_blank">📅 10:09 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8981">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">🚨
 🇾🇪
 فوری؛ یمن تنگه باب المندب رو بست!!!!!
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/IranProxyV2/8981" target="_blank">📅 10:09 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/IranProxyV2/8981" target="_blank">📅 10:09 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8980">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">🚨
 🇮🇷
 ❤️
 فوووووری؛ رادیو ارتش اسرائیل: تشکیلات امنیتی اسرائیل تخمین می‌زند که در آغاز یک رویارویی نظامی است که چندین روز ادامه خواهد داشت.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/IranProxyV2/8980" target="_blank">📅 10:08 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/IranProxyV2/8980" target="_blank">📅 10:08 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8979">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">🚨
 ⭕️
 🪖
@@ -1372,7 +1421,7 @@ Proxy
 </div>
 
 <div class="tg-post" id="msg-8978">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">🔴
 سپاه : عملیات نصر شروع شد
 @RUSSIAPROXYY
@@ -1381,17 +1430,17 @@ Proxy
 </div>
 
 <div class="tg-post" id="msg-8977">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">🚨
 انفجاررررر در کرمانشاه
 گزارش منابع داخلی از فعالیت پدافند در کرمانشاه
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/IranProxyV2/8977" target="_blank">📅 09:08 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.24K · <a href="https://t.me/IranProxyV2/8977" target="_blank">📅 09:08 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8976">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">🚨
 ⚠️
 سازمان منطقه ویژه پتروشیمی:  دستور خروج اضطراری کلیه کارکنان روزکار از این منطقه صادر شده است
@@ -1401,7 +1450,7 @@ Proxy
 </div>
 
 <div class="tg-post" id="msg-8975">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">🚨
 🆕
 کانال ۱۲ اسرائیل: طی چندساعت اخیر به ۲۰ هدف تو ایران حمله کردیم.
@@ -1411,7 +1460,7 @@ Proxy
 </div>
 
 <div class="tg-post" id="msg-8974">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">🚨
 کانال ۱۴ درباره یک مسئول اسرائیلی:
 تأکید می‌کنیم که یک تأسیسات پتروشیمی در ایران هدف قرار گرفته است
@@ -1421,20 +1470,20 @@ Proxy
 </div>
 
 <div class="tg-post" id="msg-8973">
-<div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LcMKs53eS3_xM087r9CIumwnngYWPvmk6Fe0MNUpiT8ZRrJo13V2NxpT1QkwHco2ORzg6wJwyLSDogHpvu0C0TyOAt2_SpBzA3cuW87HAseHT3jhYIokQEJHTvY-sarLwY6thmgpVKHhH8u2ktLuANiHjqri6_Krp8IlDXMtgeDQJhmP3jfMVxLvDBR997aE5KICgQk3pStXEpKpV5p7MdTcqC6w1Fy6NSqxzjlKpZteE1ml4X8bEclz3Tj6flWgODrW3FFcxTbBhTeLmQYXKu8wPgctl3TBeLeM6Vygcx4SGS2Gx41kvOIstLWYK8GNB3_zBijAFgdzRDSebk1BXw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Bsa6-LYlx072DpsQVRYRur5jV6hhF-J_lsosHTaa81hhM09Lg02a7zj3xh0vQNl679Gta80uUZqoRApf46-2H9_nLa-hZZOdXRi1MeF4pa_eBWSnmfhYXoPNRGq494GRgaQ7K2FCV7lAizL7e5BGZnI-3oI35N7rSfaejAzWP2PAE0cmJJoijSCPslyHy_1rX5_d4If9pDt26mlGqf8pUvuDcgp7pZwvDGGkaW2vVVINOM0qBcKld7bkYPZJZ_BqlFLEWD-AUG7DA83k051B_H5jVLLWFVJ7IeurTRTpsVIOaBJQec1t-jMYW_k8EKbigIdvYxiVJ2cTOqLPO6UDIg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇺🇸
 سناتور مورفی:
 این جنگ برای آمریکا تحقیرآمیز بود؛
 ترامپ دیشب گفت به نتانیاهو زنگ می‌زنم تا جلوی حمله تلافی‌جویانه‌ش رو بگیرم ولی اسرائیل ۲ ساعت بعد از این تماس جنگ رو از سر گرفت و ترامپ و آمریکا رو تحقیر کرد.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/IranProxyV2/8973" target="_blank">📅 08:30 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/IranProxyV2/8973" target="_blank">📅 08:30 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8972">
-<div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JSnrLD2yCnLR2FZW4p5KzNBzleL_QXsJrkUnnSv_V8LCgX_7-1w143wcIO8ucqEvVkO1FqbE0MWHCx-hpe1mfk2nigsMVxcRDyZfNl-QWFNF_IiA1_gLnLK4-HPRaoq0L0DS32pgoi7jrda7BCcfYSgjwwzJJ0Kn7JDoijzVXBX0vV5-D_825VDaVLtcA4oZ8PRkhfWx79XGXU3wY6lSAFabovdj5L1Oc_eC7nHNna0lsAc9KC7vazveJXgqlmQrZQjGR68hMzoAeuyt6GaaIPu77AZr8_qi-8UppHVG_F_T4dQbrOHT3lHE6Ft7_JqlbH7UMLLgvAFY2LaLJdGyxw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/W4PNKg_1mD-y5YwHz2bRsTkX2TUmJXvu2SdFbIxlbw630i_LHLeUb-HUdvZ9dIfpHDpXC5qtcE_m_C21aGrn0PORm33bJx_x5RcEElk966ub4L6TT_Bjbq2glTMebTNiREoBerPmZ0IQKNjk0R5bPO8mlSSdjSrpXTQmm-IHhudwjTdS-3QSKxu4Nm_V08dsAjXCXwGfcE36bA1F813uH1Q_C8Pr5EAsHXwRLlikgkWhahg6ql7mVTTKNO_w3OwIKoDBR_62dZvpQZJ-aPpf-0QRjycpmXICf8sgSMy3R25X3dsMalZ1xrbZVf7anCRF3fTYGKDlGBURant_UXdUew.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تسنیم
 :
 سپاه موشک خیبر شکن و یک پهباد ناشناخته امروز استفاده کرده.
@@ -1444,7 +1493,7 @@ Proxy
 </div>
 
 <div class="tg-post" id="msg-8968">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1460,11 +1509,11 @@ Proxy
 برای اتصال در تمام سیستم عامل ها کافیه روی کانفیگ کلیک کنید و برنامه OpenVPN را انتخاب کنید، یوزرنیم و پسورد را ست کنید و متصل شوید یا کانفیگ را سیو کنید و از داخل برنامه ایمپورت کنید.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.18K · <a href="https://t.me/IranProxyV2/8968" target="_blank">📅 08:25 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/IranProxyV2/8968" target="_blank">📅 08:25 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8967">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">📶
 این پروکسی های تلگرام رو داشته باشید متصلن:
 https://t.me/proxy?server=www.alp-drtop.info&port=443&secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b
@@ -1479,12 +1528,12 @@ https://t.me/proxy?server=secure.bits-lab.info&port=443&secret=ee160301020001000
 پیشنهاد میشه کمی برای اتصال صبور باشید.
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.68K · <a href="https://t.me/IranProxyV2/8967" target="_blank">📅 08:23 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.69K · <a href="https://t.me/IranProxyV2/8967" target="_blank">📅 08:23 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8966">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PUVljoaJGmPHKToFCXhbkFfJgFDK7uJgEQANZ2Lo8ZBhCxArDEh-7gUb1VxWxpKpEa5lh7_nzHk6oz4NuhGp4ue9G0Wtew-6zPNx3-mcv63tf3AOIGBmmxD9nI64hTnY3CyoyEEMKQcrC_F0C5N6X1j1q6wNAKBw0WspKgu0c6LFliLMDs41peMyLsOIRADAIeK59HtRXa5D8dJM7ktWWJMUgXL7AE4KmVgXFvLJcuVkg9lxK7Osx78DRoBt45GKgWp1Co-3nW1jMK1_4zQZPI97X-9VKQ7ARWZZukO-MkbyLrRtoqs_76c8kFG70I9lEX1ixzP4Xyf2g5PG4HzlYA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TE60W1JOhSDdAyo-u5x4TQi0570MA_E2JW12WcDMyuzo7ILFjVAhYedcTlEE_f1F1OK6kLsUc9pt3YI1YDkzHwzzX4vS48xUoHEr0tsW3PfkXc_J77G-BgmYzIeo5lDIcz46mV8seuDq0VaJrpcnAztGMy9bbhTw5AY8zBnjj7TuIAkdoKLUHy22C6VIJAO8jY-YfR9c4GqA0pSz6fWMXtae7vcfWy-Jccd7LhwHe0JrurA04pHUdxBF1qXHkOZPtjbw9A8lJNGI83zEtjPB_UUBKnak58o9COycK3EUUDodz3lSnDvG9vfTZQ1DrEgxRchqDhz1POhQR1NrV3syRQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 بیانیه وزارت دفاع عربستان:
 دارن بهمون حملات موشکی و پهپادی انجام میدن، دستم کم دو انفجار نزدیک شهر ریاض گزارش شده
@@ -1494,7 +1543,7 @@ https://t.me/proxy?server=secure.bits-lab.info&port=443&secret=ee160301020001000
 </div>
 
 <div class="tg-post" id="msg-8965">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">رادیو ارتش اسرائیل
 موج جدیدی از حملات رو شناسایی کردیم
 @RUSSIAPROXYY
@@ -1503,7 +1552,7 @@ https://t.me/proxy?server=secure.bits-lab.info&port=443&secret=ee160301020001000
 </div>
 
 <div class="tg-post" id="msg-8964">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">🚨
 اصابت چند پرتابه به پتروشیمی کارون ماهشهر تایید شده و بخشی از پتروشیمی در جریان این حملات اسیب دیده
 @RUSSIAPROXYY
@@ -1512,13 +1561,13 @@ https://t.me/proxy?server=secure.bits-lab.info&port=443&secret=ee160301020001000
 </div>
 
 <div class="tg-post" id="msg-8963">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/fc73ebd9af.mp4?token=eshnR0nVNzi4YCoDBi2XPvtQv1PZZUJnijdC-zznMdTQin4IBWPRe-XQygr4wHQia1OVeIUZiXPLFypUNuMe8YpDY5v7VIFws7KGXPQIGYN_mKZqnANi1VepY_xo79NM2jgDOsoUL6N2oO_kl7NIrVxUhSURo96MP0hc8aryu9vQH9Im3TN9i7XXCm7ILkj8zVFw_Lf6em3RNQJ9IcOqV81NzBm8rP3iNsNJkNtosT-hBsOIgbk1-2kASUEAQxY9ha0-tYdk_EgHCJ7qXb8zYpHIYZDxsfwNdEGBm0UcmDkfOHBgXSRJm7GcacgAKM2upxRwIzvyhrnZduPudXFLug" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/fc73ebd9af.mp4?token=tPc2SYqha7zTSnzA64-W77rJ_3XoAIIqR3G-NdC8smRXzEjWviGiQ4WsU-HjEF__-zNFb0cu7JBJKkXzwtAICcEqES6rzNHC3WdoWmebeNJG-_9RkMdXvjdq5jqSVxLMsj9nvEADoOY3IeR5KsDilyKJDBOSeQGbdbnVVdcEWJGLyk5r0Ay2xU_jV7kyd2ScGuPy3g8SQ9dmovySjXGJFKXLAOsmIcioCkTLdHIf-Dp80EafbUHjGhERCgwccLP157_89UfVDHt8M4N7PIcdvAuOcS1wCoW9i4Iz6wWGXk1xDqpPxdImBivuurV8Bz_SLLtcoNSbqdvx7LKGofAMiA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/fc73ebd9af.mp4?token=eshnR0nVNzi4YCoDBi2XPvtQv1PZZUJnijdC-zznMdTQin4IBWPRe-XQygr4wHQia1OVeIUZiXPLFypUNuMe8YpDY5v7VIFws7KGXPQIGYN_mKZqnANi1VepY_xo79NM2jgDOsoUL6N2oO_kl7NIrVxUhSURo96MP0hc8aryu9vQH9Im3TN9i7XXCm7ILkj8zVFw_Lf6em3RNQJ9IcOqV81NzBm8rP3iNsNJkNtosT-hBsOIgbk1-2kASUEAQxY9ha0-tYdk_EgHCJ7qXb8zYpHIYZDxsfwNdEGBm0UcmDkfOHBgXSRJm7GcacgAKM2upxRwIzvyhrnZduPudXFLug" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/fc73ebd9af.mp4?token=tPc2SYqha7zTSnzA64-W77rJ_3XoAIIqR3G-NdC8smRXzEjWviGiQ4WsU-HjEF__-zNFb0cu7JBJKkXzwtAICcEqES6rzNHC3WdoWmebeNJG-_9RkMdXvjdq5jqSVxLMsj9nvEADoOY3IeR5KsDilyKJDBOSeQGbdbnVVdcEWJGLyk5r0Ay2xU_jV7kyd2ScGuPy3g8SQ9dmovySjXGJFKXLAOsmIcioCkTLdHIf-Dp80EafbUHjGhERCgwccLP157_89UfVDHt8M4N7PIcdvAuOcS1wCoW9i4Iz6wWGXk1xDqpPxdImBivuurV8Bz_SLLtcoNSbqdvx7LKGofAMiA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">یکی از موشک‌های ایرانی به یک مرکز نظامی اسرائیلی در نزدیکی نابلس اصابت کرد.
 @RUSSIAPROXYY
@@ -1527,8 +1576,8 @@ https://t.me/proxy?server=secure.bits-lab.info&port=443&secret=ee160301020001000
 </div>
 
 <div class="tg-post" id="msg-8962">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JVGRbdfCjoNAQ4heUbpmI8-Vn2TwKsoQLhv8jagKr_ENHisV4lrH3yK0iZoR6xtiDNBKr1RO9cWxictAY-cI5HHecQ08XVWJ9Ocqkh1jYPKapMNIewEebFnyE_69px52gNMXUIVSGJBS4H0H-Xc-VVfYobwbAj7tmw50cmVYVUU6Ou8YafOQmqFQzKveucszoEg3eqRMQXMX13WL3VYeAzGYJ4DBT7RMlEmDocCPNq2DRIz1c5_fXzU191-S13S2wGJwZB3WAJ7Qy_x0BKtF6wRi6JM0w6w6kSRBt9JpiszOvYUf5FH4ThRqX_RCyQgStNfbDXlQzko7Q6SGuVlh-g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AZnyxQtnMqEvez-2lH1EZMevOehS8h8f29VaSGwWrTjCtnHlrO9hafY4RtilVqvTj5lRT9CVjuxexKBWCs7werLO1jZRvDyuM_5jyYRp9ZxCD1GOUaAF6SK_w0oKUbe3ZUrDe9FxGcotdSU0dufkGYPQks-EOb6s6N-keDqPlVbtg8hG4Hor5Tjfou8RxtvKMiPUY5PxYCfFPb42jkpjDBrVOTmygVxfja6LGDFDmWHH-z5WaitTyV-UpZ58kESWj1nd63I-TFxWjvWMT6LxzV-N7V7d51hjI3wk1LpfYSY0wHoOl9ltTQxuuyeCknSWMwRgzFSPlt0yKW4BqHpQ4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 هشدار اسرائیل:
 @RUSSIAPROXYY
@@ -1537,62 +1586,23 @@ https://t.me/proxy?server=secure.bits-lab.info&port=443&secret=ee160301020001000
 </div>
 
 <div class="tg-post" id="msg-8961">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">🚨
 مثه اینکه موج جدیدی از حملات ایران شروع شده
 از اصفهان ، ارومیه ، خرم آباد ، کرمانشاه ، ماهشهر و آبادان موشک پرتاب شده
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 2.94K · <a href="https://t.me/IranProxyV2/8961" target="_blank">📅 08:17 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.97K · <a href="https://t.me/IranProxyV2/8961" target="_blank">📅 08:17 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-8960">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i6vk2HO7uEXu-Gj0_BMW9QxcI3TOsMZH4F7q2AEEkyirwW5YG1AN8UX4I2VrEbYfJR3qgAN62BXnJ90hTjUXONmR0-xYwdH_lxh6Zw26dC_Jy3iYI11we89sYv8uOoNp6UiZN0vxadblLRBAlhlKruX7kizpPkkkBwJNtjG1mBSvccze3Zh73uy7P_VxlTN6HuFnCoQgWKAy1Bngtf_im50RK4wROWUHY3dHjtAR_MPi4xvtKy1DOK1XTyHp88ceyoGD2gwMONCYe2W5lV7JBv0_c6wBgwS0YOrH4okokVlJqAUBmu91RWSP13Xp_u0UnljbEeEJnLZOnxMQtfxyAg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #1</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KLnFJBl9V25KDELSXC16DqhOfb4G7_cNXdut_OzgxcvhHEDhzvgCLH6bgV6CtOjg4YdLGh6WAVhE8vBqXgcmxm9-mVM7nNpNZM-lLSRlG1-DoLGrcQmupHE4YuNAzmBFocG4io4xps_orjeLIJnAhbvS17T_yAqjSQoduF17mtnpzhT9oAin8q_VLrPxYu_-nYcgOxakphuk0yfoR7rvA55IuHq0UbkQWDiU7LzflCB-ic41-a1g8EuSwoUK1biGwfqb5AdlcXFurCaCD3elrmvsvmGEhKlhQMx_fb8x4F_F2LJJZN1C9fV8ALJdRdbLovOn8JOzsfiK9U93WPMkfg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 در پی به صدا آمدن آژیر خطر در اسرائیل، مقامات این کشور گفتند که یک موشک شلیک شده از یمن را به طور موفق رهگیری کردیم.
 @RUSSIAPROXYY
 🇷🇺</div>
 <div class="tg-footer">👁️ 3.04K · <a href="https://t.me/IranProxyV2/8960" target="_blank">📅 08:16 · 18 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-8959">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">🇸🇦
-شنیده شدن انفجار در پایگاه شاهزاده سلطان، الخرج عربستان  @RUSSIAPROXYY
-🇷🇺</div>
-<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/IranProxyV2/8959" target="_blank">📅 08:15 · 18 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-8958">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-text">🇸🇦
-شنیده شدن انفجار در پایگاه شاهزاده سلطان، الخرج عربستان
-@RUSSIAPROXYY
-🇷🇺</div>
-<div class="tg-footer">👁️ 3.25K · <a href="https://t.me/IranProxyV2/8958" target="_blank">📅 08:13 · 18 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-8957">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">⚡️
-تانل پرسرعت لوکیشن آلمان
-🇩🇪
-و آمریکا
-🇺🇸
-برای تمامی سایت های آیپی ثابت برای ترید و جمنای و... فقط گیگی 10
-👀
-☀️
-مولتی لوکیشن دارای ۵ آیپی با پورت های مختلف
-💵
-10GB=100T
-💥
-🛡
-قبل خرید حتما در ربات تست تهیه کنید
-❤️‍🔥
-🔗
-@RUSSIAPROXYY_Bot  جهت ثبت سفارش به ربات مراجعه…</div>
-<div class="tg-footer">👁️ 3.7K · <a href="https://t.me/IranProxyV2/8957" target="_blank">📅 08:12 · 18 Khordad 1405</a></div>
 </div>
 
 <hr>
