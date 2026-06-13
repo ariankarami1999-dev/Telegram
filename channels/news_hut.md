@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-23 02:23:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-23 03:43:59</div>
 <hr>
 
 <div class="tg-post" id="msg-65977">
@@ -307,7 +307,7 @@
 </div>
 <div class="tg-text">🔥
 ورژن جدید اپلیکیشن وان ایکس بت بدون نیاز به فیلترشکن برای گوشی های آندروید</div>
-<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/news_hut/65977" target="_blank">📅 01:17 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.77K · <a href="https://t.me/news_hut/65977" target="_blank">📅 01:17 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65976">
@@ -333,7 +333,7 @@ bitly.uk/connect1xbet
 اپلیکیشن وان‌ایکس بت
 🔽
 🔽</div>
-<div class="tg-footer">👁️ 5.5K · <a href="https://t.me/news_hut/65976" target="_blank">📅 01:17 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.89K · <a href="https://t.me/news_hut/65976" target="_blank">📅 01:17 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65975">
@@ -343,7 +343,7 @@ bitly.uk/connect1xbet
 تندروها گرفتن رو قالیباف
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.01K · <a href="https://t.me/news_hut/65975" target="_blank">📅 01:08 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.31K · <a href="https://t.me/news_hut/65975" target="_blank">📅 01:08 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65974">
@@ -353,7 +353,7 @@ bitly.uk/connect1xbet
 سپاه:
 کشتی هایی سعی کردند بدون مجوز از تنگه هرمز عبور کنند و مورد هدف قرار گرفتند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.39K · <a href="https://t.me/news_hut/65974" target="_blank">📅 01:06 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/news_hut/65974" target="_blank">📅 01:06 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65973">
@@ -399,7 +399,7 @@ BetForward.com
 BetForward.com
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 8.38K · <a href="https://t.me/news_hut/65973" target="_blank">📅 01:06 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.59K · <a href="https://t.me/news_hut/65973" target="_blank">📅 01:06 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65972">
@@ -408,7 +408,7 @@ BetForward.com
 🚨
 🚨
 نایا خبرگزاری عراق: شنیده شدن صدای انفجار در قشم و سیریک  @News_Hut</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/news_hut/65972" target="_blank">📅 00:30 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/news_hut/65972" target="_blank">📅 00:30 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65971">
@@ -418,7 +418,7 @@ BetForward.com
 🚨
 نایا خبرگزاری عراق: شنیده شدن صدای انفجار در قشم و سیریک
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/news_hut/65971" target="_blank">📅 00:21 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/65971" target="_blank">📅 00:21 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65970">
@@ -434,7 +434,7 @@ BetForward.com
 صدا سیما: هک تصویر انفجار اتمی در تلویزیون، سیگنال آمریکا بود
 !
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/news_hut/65970" target="_blank">📅 00:20 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/news_hut/65970" target="_blank">📅 00:20 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65969">
@@ -450,7 +450,7 @@ BetForward.com
 🚨
 🚨
 گفتگوی عراقچی هم اکنون شروع شد.  @News_Hut</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/65969" target="_blank">📅 23:24 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/65969" target="_blank">📅 23:24 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65968">
@@ -463,7 +463,7 @@ BetForward.com
 هیچ‌یک از دارایی‌های ما نمی‌تواند مجددا مسدود بماند
 برای جبران خسارت ایران طرح بازسازی در نظر گرفته شده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/65968" target="_blank">📅 23:16 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/65968" target="_blank">📅 23:16 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65967">
@@ -473,7 +473,7 @@ BetForward.com
 عراقچی:
 به زودی ایران و عمان بیانیه ای مشترک در رابطه با تنگه هرمز منتشر خواهند کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/65967" target="_blank">📅 23:13 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/65967" target="_blank">📅 23:13 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65966">
@@ -483,7 +483,7 @@ BetForward.com
 عراقچی:
 به طور قطع تنگه هرمز به شرایط قبل از جنگ باز نخواهد گشت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/65966" target="_blank">📅 23:06 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/65966" target="_blank">📅 23:06 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65965">
@@ -493,7 +493,7 @@ BetForward.com
 عراقچی:
 پایان جنگ در توافق همچنین به معنای خروج اسرائیل از مناطق اشغالی در جنوب لبنان است و ما این موضوع را صراحتاً به طرف مقابل اعلام کرده‌ایم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/65965" target="_blank">📅 23:01 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/65965" target="_blank">📅 23:01 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65964">
@@ -504,7 +504,7 @@ BetForward.com
 تعهداتی که داده شده باید حفظ شود. نه اگر و نه اما و نه بهانه‌ای. برای معامله نزدیک پیش رو، راه دیگری وجود ندارد.
 هر چه بکاری، همان را درو می‌کنی.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/65964" target="_blank">📅 22:53 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/65964" target="_blank">📅 22:53 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65963">
@@ -515,7 +515,7 @@ BetForward.com
 عراقچی:
 نتیجهٔ تفاهم یک یادداشت ۱۴ ماده‌ای است و وقتی نهایی شد تک‌تک آن را به مردم می‌گوییم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/65963" target="_blank">📅 22:44 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/65963" target="_blank">📅 22:44 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65962">
@@ -526,7 +526,7 @@ BetForward.com
 ما پیروز میدان هستیم؛ مقامات خارجی به من می‌گویند که ایران را این‌گونه نشناخته بودند و ایرانی‌ها شگفتی آفریدند و با قدرت بیشتری از جنگ بیرون آمدند
 من می‌توانم اسم ببرم که کدام مقامات این حرف‌ها را زدند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/65962" target="_blank">📅 22:42 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/65962" target="_blank">📅 22:42 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65961">
@@ -538,7 +538,7 @@ BetForward.com
 هیچ دوگانگی بین میدان و دیپلماسی وجود ندارد و هردو در یک‌راستا حرکت می‌کنند
 به این ۲ رکن، رسانه و خیابان‌ هم این‌بار اضافه شد و ۴ رکن باهم در یک‌سو حرکت کردند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/65961" target="_blank">📅 22:39 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/news_hut/65961" target="_blank">📅 22:39 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65960">
@@ -550,7 +550,7 @@ BetForward.com
 همهٔ ما مدیون تک‌تک نیروهای مسلح هستیم.
 همین‌طور ما مدیون مردمی هستیم که ما را تنها نگذاشتند و هرشب در خیابان‌ها هستند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/65960" target="_blank">📅 22:38 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/65960" target="_blank">📅 22:38 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65959">
@@ -560,14 +560,14 @@ BetForward.com
 عراقچی:
 دشمن تصور می‌کرد که بعد از جنگ ۱۲ روزه، در جنگ ۴۰ روزه می‌تواند ایران را تسلیم کند اما با مقاومت جانانهٔ مردم و نیروهای مسلح ایران مواجه شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/65959" target="_blank">📅 22:37 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/65959" target="_blank">📅 22:37 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65958">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">🚨
 #فوری: طبق اعلام زیرنویس شبکه خبر ، عراقچی تا دقایقی دیگر مهمان این شبکه خواهد بود  @News_Hut</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/65958" target="_blank">📅 22:32 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/65958" target="_blank">📅 22:32 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65957">
@@ -579,7 +579,7 @@ BetForward.com
 بر اساس آنچه از سوی مقامات ایرانی به روشنی به ما ابلاغ شده، لبنان نیز شامل آتش بس است.
 بر اساس آنچه مقامات ایرانی به ما ابلاغ کرده اند، اسرائیل از خاک لبنان بر اساس این توافق عقب نشینی خواهد کرد
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/65957" target="_blank">📅 22:30 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/65957" target="_blank">📅 22:30 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65956">
@@ -604,7 +604,7 @@ BetForward.com
 کانال رضایت مشتری @kavianivpn  جهت خرید اشتراک پیام بدید
 ⬇️
 …</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/65956" target="_blank">📅 22:30 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/65956" target="_blank">📅 22:30 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65955">
@@ -633,7 +633,7 @@ BetForward.com
 ⬇️
 @kaviani_vpn
 @kaviani_vpn</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/65955" target="_blank">📅 22:30 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/65955" target="_blank">📅 22:30 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65954">
@@ -644,7 +644,7 @@ BetForward.com
 توافق قطعی است و این به نتانیاهو اعلام شده.
 ترامپ از ایران خواسته به صورت علنی درباره توافق شفاف سازی کنه و هشدار داده انجام ندادن این کار پیامد هایی رو به همراه خواهد داشت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/65954" target="_blank">📅 22:09 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/65954" target="_blank">📅 22:09 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65953">
@@ -654,7 +654,7 @@ BetForward.com
 🚨
 رویترز: امارات ۳ میلیارد دلار از دارایی های ایران را آزاد و به آنها تحویل داده، این اقدام تضمینی بوده در ازای اینکه دیگر به این کشور حمله نشود
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/65953" target="_blank">📅 22:07 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/65953" target="_blank">📅 22:07 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65952">
@@ -665,14 +665,14 @@ BetForward.com
 فوری
 : طبق اعلام زیرنویس شبکه خبر ، عراقچی تا دقایقی دیگر مهمان این شبکه خواهد بود
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/65952" target="_blank">📅 22:04 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/65952" target="_blank">📅 22:04 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65951">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CmcFuz9GPyguD91iLSJ4l9vywYw3ANJ8rFLtYIsg-Vrqr32MAYE6mAzAvYFso7HcCDxFxUFFc_74kFnoxCJUSfgvVI_WytS7dC6O_Ir2ltZ2rBhuXROSbEaErTfKvLt6Kh3oXJ4aQOgusXt9xdB1ic5NUWNvX_RzeO9ibkuDpIRNQiYIL1c4t13z5gW8SqZ00WRdye6CVqMHmGKs5e6os6V-Hn9KteO2nAhTyZMQJXG3kDLeBXmLNFdVkRFGakagMS7L2U49JGtj1_qATkqNsJDIAIuKREdg-Fkzw0evnBaQHHogtNcBNTgl8muy7UF_3MWWfbKQOOr1eZJybg55fw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ماشالا به شیرمردان سپاه اسلام و حضرت آیت‌الله العظمی سید شیرمردان حاج آقا مجتبی حسینی خامنه‌ای، خوب دارین کیر می‌کنید ترامپ زن کصه‌رو #hjAly‌</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/news_hut/65951" target="_blank">📅 21:33 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/65951" target="_blank">📅 21:33 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65950">
@@ -683,7 +683,7 @@ BetForward.com
 طبق اطلاعاتی که به دستم رسیده توافق احتمالی بدتر از برجام است.
 نه احتمال جنگ را از بین میبرد و نه گشایش اقتصادی دارد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/65950" target="_blank">📅 21:25 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/65950" target="_blank">📅 21:25 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65949">
@@ -693,7 +693,7 @@ BetForward.com
 الحدث:
 وزیر خارجه پاکستان امشب عازم ژنو میشود
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/65949" target="_blank">📅 21:15 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/65949" target="_blank">📅 21:15 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65948">
@@ -712,7 +712,7 @@ BetForward.com
 نفر سوم ۵ میلیون
 🛫
 …</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/65948" target="_blank">📅 21:11 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/65948" target="_blank">📅 21:11 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65946">
@@ -743,7 +743,7 @@ BetForward.com
 @PishWin_Bot
 ➡️
 @PishWin_Bot</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/65946" target="_blank">📅 21:09 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/65946" target="_blank">📅 21:09 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65945">
@@ -757,7 +757,7 @@ BetForward.com
 </div>
 <div class="tg-text">‼️
 شهباز شریف:   در بحبوحه تلاش‌های میانجیگری فشرده پاکستان، ما کاملاً از کمپین بی‌وقفه اطلاعات نادرست که توسط کسانی که می‌خواهند توافق صلح را خراب کنند، به راه افتاده است، آگاه هستیم. گذشته از این سر و صداها، می‌توانیم تأیید کنیم که متن نهایی و مورد توافق…</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/65945" target="_blank">📅 20:55 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/65945" target="_blank">📅 20:55 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65944">
@@ -767,7 +767,7 @@ BetForward.com
 شهباز شریف:
 در بحبوحه تلاش‌های میانجیگری فشرده پاکستان، ما کاملاً از کمپین بی‌وقفه اطلاعات نادرست که توسط کسانی که می‌خواهند توافق صلح را خراب کنند، به راه افتاده است، آگاه هستیم. گذشته از این سر و صداها، می‌توانیم تأیید کنیم که متن نهایی و مورد توافق توافق صلح حاصل شده است و پاکستان اکنون از نزدیک با هر دو طرف برای نهایی کردن مراحل بعدی همکاری می‌کند. صلح هرگز تا این حد نزدیک نبوده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/65944" target="_blank">📅 20:40 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/65944" target="_blank">📅 20:40 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65943">
@@ -782,7 +782,7 @@ BetForward.com
 <div class="tg-text">‼️
 ویدیو ای از مراسم دیشب افتتاحیه جام جهانی
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/65943" target="_blank">📅 20:28 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/65943" target="_blank">📅 20:28 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65942">
@@ -792,7 +792,7 @@ BetForward.com
 لیندزی گراهام:
 ایده یک صندوق بازسازی ۳۰۰ میلیارد دلاری، با توجه به اینکه چه کسی مسئول ایران است، به نظر می‌رسد بی‌معنی باشد. این شبیه طرح مارشال برای آلمان با وجود نازی‌ها در قدرت خواهد بود. آن زمان این ایده خوبی نبود و هر صندوق بازسازی که به نفع این رژیم تروریستی باشد، اکنون ایده خوبی نخواهد بود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/65942" target="_blank">📅 20:16 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/65942" target="_blank">📅 20:16 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65941">
@@ -811,7 +811,7 @@ BetForward.com
 اپلیکیشن رو دانلود کردید موقع ثبت‌نام، کد هدیه 1x_1566529 رو وارد کن و تا
 100یورو
 هدیه بگیر!</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/65941" target="_blank">📅 20:16 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/65941" target="_blank">📅 20:16 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65940">
@@ -837,7 +837,7 @@ bitly.uk/connect1xbet
 ⬇️
 فایل نصب اندروید 1XBET
 ⬇️</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/65940" target="_blank">📅 20:16 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/65940" target="_blank">📅 20:16 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65939">
@@ -848,7 +848,7 @@ bitly.uk/connect1xbet
 سنتکام:
 ناوهای جنگی و دارایی های هوایی نیروی دریایی ایالات متحده همچنان به گشت زنی در آب های منطقه ای ادامه میدهند و محاصره علیه ایران را اجرا میکنند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/65939" target="_blank">📅 19:49 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/65939" target="_blank">📅 19:49 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65937">
@@ -862,14 +862,14 @@ bitly.uk/connect1xbet
 </div>
 <div class="tg-text">عراقچی قبل از جنگ ۱۲ روزه و ۴۰ روزه:
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/65937" target="_blank">📅 19:40 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/news_hut/65937" target="_blank">📅 19:40 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65936">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gI7shHJDCXge3eFqBHAw44OP0CHP8nphkjI2PKoSedoascBW7ZhHr8EvD4Yzq7YAituchejgRoJ634xGGBBiGInIhvc4kia_W2sVBI703P0DNxpdHnMTpbK22n2sLGWGg6AQHk-XCrshLTUcM8CAp3HhE0fw52JSqmqdXtfQHSJkn4tKgubrYMqyeizY1UuTFfZrlb6FlKDvpSgAyyVzRrBiZ55lnXNjVQFJdzPIZbD27FutIJBDdO3G76Vx5S0EOim-DiC8P8kBGAIR8JXlKp25dS0SGYrK7EatSbJ6CGVfj_AgK63wzYz52Wzm6s6mykRRpADpeQR8UjE8W4Rihw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عراقچی: تفاهم‌نامه اسلام‌آباد هرگز تا این حد نزدیک نبوده است. تا زمان نهایی شدن آن، رسانه‌ها باید از گمانه‌زنی در مورد محتوای آن خودداری کنند  @News_Hut</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/65936" target="_blank">📅 19:11 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/news_hut/65936" target="_blank">📅 19:11 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65935">
@@ -879,13 +879,13 @@ bitly.uk/connect1xbet
 جی‌دی ونس:
 اولاً، ایرانیان هیچ وجه نقدی دریافت نمی‌کنند و هیچ وجهی صرفاً برای امضای یک توافق یا حضور در یک جلسه آزاد نمی‌شود. این توافق به گونه‌ای طراحی شده است که نگرانی‌های ایالات متحده و متحدانش اولویت داشته باشد، و اگر جمهوری اسلامی ایران تعهدات خود را انجام دهد، فواید اقتصادی به آن‌ها و کل منطقه سرازیر خواهد شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/news_hut/65935" target="_blank">📅 18:50 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/news_hut/65935" target="_blank">📅 18:50 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65934">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">تا دیدن اعصاب ترامپ تخمی شده عراقچی یه توییت زد گفت رسانه ها چیزی در مورد جزئیات توافق نگید :)))) #hjAly‌</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/65934" target="_blank">📅 18:45 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/news_hut/65934" target="_blank">📅 18:45 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65933">
@@ -896,7 +896,7 @@ bitly.uk/connect1xbet
 🚨
 🇺🇸
 ترامپ:   شرایطی که ایران به رسانه‌های دروغگو فاش کرده است هیچ ارتباطی با شرایط توافق شده کتبی ندارد. آنچه گفتند، از جمله بیانیه ضعیف و تأسف‌بارشان درباره وجود توافق، هیچ ربطی به حقیقت ندارد. افرادی بسیار ناصادق در برخورد با آنها هستند. هیچ چیزی به نام…</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/news_hut/65933" target="_blank">📅 18:44 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/news_hut/65933" target="_blank">📅 18:44 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65931">
@@ -909,7 +909,7 @@ bitly.uk/connect1xbet
 برنامه امتحانات نهایی پایه های یازدهم و دوازدهم منتشر شد.
 شروع امتحانات از ۱۳و۱۴تیر
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/news_hut/65931" target="_blank">📅 17:57 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/news_hut/65931" target="_blank">📅 17:57 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65930">
@@ -926,7 +926,7 @@ bitly.uk/connect1xbet
 🙏
 🙏
 #hjAly‌</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/news_hut/65930" target="_blank">📅 17:41 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/news_hut/65930" target="_blank">📅 17:41 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65929">
@@ -942,7 +942,7 @@ bitly.uk/connect1xbet
 علی خامنه ای ۶سال قبل:
 هیچ پیام مستقیمی برای ترامپ ندارم چون اون رو شایسته مبادله پیام هم نمیدونم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/65929" target="_blank">📅 17:35 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/65929" target="_blank">📅 17:35 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65928">
@@ -953,14 +953,14 @@ bitly.uk/connect1xbet
 🚨
 🇺🇸
 ترامپ:   شرایطی که ایران به رسانه‌های دروغگو فاش کرده است هیچ ارتباطی با شرایط توافق شده کتبی ندارد. آنچه گفتند، از جمله بیانیه ضعیف و تأسف‌بارشان درباره وجود توافق، هیچ ربطی به حقیقت ندارد. افرادی بسیار ناصادق در برخورد با آنها هستند. هیچ چیزی به نام…</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/news_hut/65928" target="_blank">📅 17:26 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/65928" target="_blank">📅 17:26 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65927">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">‼️
 ایرنامتنی رو منتشر کرده و گفته تفاهم نامه پایان جنگ دربرگیرنده این مسائل و موضوعات است:  ۱. موضوع هسته‌ای دست‌نخورده باقی می‌ماند هیچ توافقی در مورد پرونده هسته‌ای در تفاهم‌نامه فعلی انجام نمی‌شود و ایران هیچ تعهد جدیدی نمی‌دهد. گفت‌وگوهای هسته‌ای در مهلت…</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/news_hut/65927" target="_blank">📅 17:14 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/65927" target="_blank">📅 17:14 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65926">
@@ -969,17 +969,17 @@ bitly.uk/connect1xbet
 <div class="tg-text">‼️
 پلاکاردی عجیب در تجمعات شبانه
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/news_hut/65926" target="_blank">📅 17:11 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/news_hut/65926" target="_blank">📅 17:11 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65925">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BFSpSy5i_JmU5Y73KbHzTz-4sxBMZGrn7EKbZIdoQIjMrnjBgerXHzhG14gyvCUAU4IYAR3_Pv-KhMOt4B7ySCYU82ioG7YyCnhLnBu9TpIxIz2l33BasuJfCWc6K0bT6boEAgiCzRU5Ye7OTaFuNd54xlbr_tNF8KRg96Mq6jPzyVBS5Cl_H2hkhYbn_DW10mgYLYZAkLseQ3szQV1beKsTEWjkVBU0tKlbQbcHQpNTO0z3yg9r_I_Ik334gJfBwe8cFbMvOn12j3Ylt1tZl15Wo8cQ_Qhdw7e6mQWoicGhy7B79nNJa_HyB70Xr2NuVZnpX4ZmRxXZ1TItxZgvYg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l8O85gzfOfB_QwOZZJYLz4-96inoB4bHiABek5V-7CaI5HWFapxQD5QjR3PxG1t_4UWwJp2iQyG2xhjdggaIY27nlq8oGgbBkqQRrigaoU7uGqvTCq9OpGMaC1TEy4Si6fJRzgVhqpqVRfpzcOozdaXRN_GVogec40cdWu8jnbCEFk27swSDXyMKRQBIW67Rg3Xgrc7GOgDqXfbTQ-SBvGyinf1vWxcjyJxKMw5Pdhv2gmDiSwx9N6LylnESQ5pUocEfQtFAAIdaRNmmIBySvo9EnV_VeQAPBUXdYa8OSChKoP2N8Oe9liQjZTUpMxtwOz0K1EYaHxKocHc4eEb0WA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🤡
 ترامپ در سال 2049:
 ایرانی‌ها هر لحظه ممکن است توافقی را امضا کنند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/news_hut/65925" target="_blank">📅 17:03 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/news_hut/65925" target="_blank">📅 17:03 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65924">
@@ -991,7 +991,7 @@ bitly.uk/connect1xbet
 ‼️
 مرندی، عضو تیم مذاکره‌کننده: یکشنبه در ژنو اتفاقی نمی‌افتد
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/65924" target="_blank">📅 16:45 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/65924" target="_blank">📅 16:45 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65923">
@@ -1014,7 +1014,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">‼️
 خاورمیانه در این مدت
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/news_hut/65922" target="_blank">📅 15:15 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/news_hut/65922" target="_blank">📅 15:15 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65921">
@@ -1037,7 +1037,7 @@ bitly.uk/connect1xbet
 ۷. سه موضوع و ۶۰ روز برای توافق نهایی
 در مذاکرات ۶۰ روزه تنها سه موضوع بررسی می‌شود: استمرار برنامه صلح‌آمیز هسته‌ای، رفع تحریم‌های یکجانبه آمریکا، و ساز و کار جبران خسارات. هیچ موضوع دیگری در از جمله توانمندی موشکی ایران، دستور کار نخواهد بود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/news_hut/65921" target="_blank">📅 14:46 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/news_hut/65921" target="_blank">📅 14:46 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65920">
@@ -1054,13 +1054,13 @@ bitly.uk/connect1xbet
 <div class="tg-post" id="msg-65918">
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/oHILFyKe6RlgAK10JotHAuHKuOm2A86mD57ZA-rJ_YTEQEiQvlttTBWepeJqD5IWIozMA8HievO8LICfKAaXT_vvD6W6UvRDlnVkNU7ksBOYWrfnw302VJuR_vCTRFYr1dKMes4MSFIQc4lV2AfFuKGjp6iFvw_vPISLnGwa6hea_oaIe2Wp2ac7YQPLtE245zQTZB3oX_biWoudAOgWNWHjgTszLJpxMWU7FsNMtNSrpFDdsOgBbAOKU22VKi7bpJOxqQ929gCb4Ei_vbGjwwNFqUpcd-hs7GVoe10M7xJVZErk0Bx8x59DiIbOZVaIHwAHA8d_ExcZVvcZ-rV4aA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/rF-C37qc3axViLhyYC7x46ad0clOcYlQ7MKmfhhzswFn33ghnH7xiEjeZ-uZrjsca13aMAJrdhkNEEc2f0EAEvxUm9D-o0D5JNqtfShDMISTjU0qNXGbOTNw9Jpz9SpbUI2P1WU3C-A5GSNNiJ4f9TybpSZoSLaWCLy28U6VQEs37FIILAUU0k4KSroKv04S0P3o-3f0ilkQvkE3vjPwXcwWWIJ9IViYXE3pUjJDXryIcD4tY4NeXjJqQZ16jasq3wbePbYtDNFrXIiqMRIE2J4QwJYpVZfBm7wBHCVH4VhsRC062ogRjzateuIbZ9dq2vuTBuJ_aibeiPBwdNUmkg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Lg7YmHqnOTRcmvlQ0yOBOK95NEqi409lb3W5G9RbEzfsm8rUFH3EwSpMKH7aOIIoIvumL4vVBvCdYIVgSnmCz2godQeOLRipDHQLgSmooe5wW94p84GaXX_uyTRjOaK5S0RLo44_WMjjNq_ZVkpZxLjG8CuTexx3U6amzksawiV7Gcl6sUS9ILVIvqD_OUGUKg3_MVHKLpk_eiVRYSCMLH4Y33_1Cs6PHTPMGYKq6rCbtvMYfrHY0Jb98fnZomARMOky2qbt6MeytdIRxdTEgipDjlquDR3BviwYsK6dYJLpD5ZrLTIc7VlNKH64unawm7iZDmYrm1Pjj5D3wqg0JQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">‼️
 تصویری که یک پرستوی نظام در تجمعات شبانه از خودش منتشر کرده درحالی که چاک سینش پیداست.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/news_hut/65918" target="_blank">📅 14:01 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/news_hut/65918" target="_blank">📅 14:01 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65917">
@@ -1075,7 +1075,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">❌
 وزیر ارتباطات: بستن اینترنت امنیت نمی‌آورد. وقتی اینترنت قطع بود، وزیر اطلاعات، لاریجانی، رییس اطلاعات سپاه و بقیه ترور شدند. با بستن اینترنت، جوانان نخبه مهاجرت می‌کنند و این ضد امنیتی است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/news_hut/65917" target="_blank">📅 13:32 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/65917" target="_blank">📅 13:32 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65916">
@@ -1084,7 +1084,7 @@ bitly.uk/connect1xbet
 ترامپ از زمان شروع جنگ ۳۹بار گفته با جمهوری اسلامی به توافق میرسه
 .
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/65916" target="_blank">📅 13:08 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/news_hut/65916" target="_blank">📅 13:08 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65915">
@@ -1098,7 +1098,7 @@ bitly.uk/connect1xbet
 </div>
 <div class="tg-text">وضعیت آتش بس در خاورمیانه:
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/news_hut/65915" target="_blank">📅 13:01 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/news_hut/65915" target="_blank">📅 13:01 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65914">
@@ -1117,7 +1117,7 @@ bitly.uk/connect1xbet
 اپلیکیشن رو دانلود کردید موقع ثبت‌نام، کد هدیه 1x_1566529 رو وارد کن و تا
 100یورو
 هدیه بگیر!</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/65914" target="_blank">📅 13:00 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/65914" target="_blank">📅 13:00 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65913">
@@ -1224,7 +1224,7 @@ bitly.uk/connect1xbet
 ⭕️
 توافق قریب‌الوقوع جمهوری اسلامی و آمریکا بزودی در ژنو امضا خواهد شد و به‌نام توافق "اسلام‌آباد" نامگذاری می‌شود. طی این توافق یک آتش‌بس ۶۰ روزه که لبنان هم شامل شود، شکل گرفته و ایران می‌تواند با پول‌های بلوکه‌شده خود کالاهای بشردوستانه تهیه کند
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/news_hut/65906" target="_blank">📅 10:17 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/news_hut/65906" target="_blank">📅 10:17 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65905">
@@ -1240,22 +1240,22 @@ bitly.uk/connect1xbet
 کارشناس شبکه خبر:
 با صراحت میگویم بخش عمده ای از شروط ده‌گانه در توافق وجود ندارد
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/news_hut/65905" target="_blank">📅 09:34 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/news_hut/65905" target="_blank">📅 09:34 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65904">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/8e6afe375b.mp4?token=hGjcUGkp7tK0bDDRM4Mv5coFhy7XX_RZn1Zb22nfMbuXKzpTk2nn2Fl3gXHiWkkKLQvmoTrTDvKg0Zf2NiGIuShg37HsLY9JPhoHaEeovRW7DNwtgpnzdJavVZj2t9zbG6Ot2f5qkarrpxLtq23V8y--CijZ3ldbjdtuIzdrMUgMazPAqgLK5didEMtJYaddO0M6UwOEe2TRlxCHCnCJ0JDj707ZxnXm6mJxvQ1GLYlL6fQRrCK560c9IqXFDDmK095l7lLtHL3TtJsh6VxEKYaMVytfyQQ6-VTkGkJ7_Nvyd8fmnYQ5KfiAyc9Bl6xtMxv_W_CQmlWPaTaKl5WPyA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/8e6afe375b.mp4?token=vkKGDCWzLk-sSqluXtfqGoFbP2ZkcaZhXIHkAJGD0ourix6gz-GigREn91t1tNiJ95rS3sl6-0muweq1OSsMSMg0ctVnYKzJ1kzvuoUxFQENrNN_51KGk-snUIazlU-7Ifccmqy0wcW6_-qcGkYcqK2R5KzJyl4uO0QVzPYJvXRhGtG1Y9YtddP2YaXooY6DzDBBWuWulaXvH6vtU9nR1a27QQ-5X4D7nDKy-d_meACk-YsBTnUUHURTB0RvjCQlwTRRru9EFaUCWXo-a7m5vOjyPLmx1SA-PotGAskW2DCrqiyt8LycKyaVvAmBDizyUuxGyJtkAE-SVuhHCLdE0Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/8e6afe375b.mp4?token=hGjcUGkp7tK0bDDRM4Mv5coFhy7XX_RZn1Zb22nfMbuXKzpTk2nn2Fl3gXHiWkkKLQvmoTrTDvKg0Zf2NiGIuShg37HsLY9JPhoHaEeovRW7DNwtgpnzdJavVZj2t9zbG6Ot2f5qkarrpxLtq23V8y--CijZ3ldbjdtuIzdrMUgMazPAqgLK5didEMtJYaddO0M6UwOEe2TRlxCHCnCJ0JDj707ZxnXm6mJxvQ1GLYlL6fQRrCK560c9IqXFDDmK095l7lLtHL3TtJsh6VxEKYaMVytfyQQ6-VTkGkJ7_Nvyd8fmnYQ5KfiAyc9Bl6xtMxv_W_CQmlWPaTaKl5WPyA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/8e6afe375b.mp4?token=vkKGDCWzLk-sSqluXtfqGoFbP2ZkcaZhXIHkAJGD0ourix6gz-GigREn91t1tNiJ95rS3sl6-0muweq1OSsMSMg0ctVnYKzJ1kzvuoUxFQENrNN_51KGk-snUIazlU-7Ifccmqy0wcW6_-qcGkYcqK2R5KzJyl4uO0QVzPYJvXRhGtG1Y9YtddP2YaXooY6DzDBBWuWulaXvH6vtU9nR1a27QQ-5X4D7nDKy-d_meACk-YsBTnUUHURTB0RvjCQlwTRRru9EFaUCWXo-a7m5vOjyPLmx1SA-PotGAskW2DCrqiyt8LycKyaVvAmBDizyUuxGyJtkAE-SVuhHCLdE0Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 گفته شده ترامپ بعد دیدن این ویدیو تصمیم گرفته که توافق کنه
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/news_hut/65904" target="_blank">📅 09:02 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/news_hut/65904" target="_blank">📅 09:02 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65903">
@@ -1515,7 +1515,7 @@ bitly.uk/connect1xbet
 🚨
 🚨
 ترامپ:  رهبر جمهوری اسلامی با امضای یک توافق موافقت کرده.  @News_Hut</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/65885" target="_blank">📅 23:56 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/65885" target="_blank">📅 23:56 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65884">
@@ -1527,7 +1527,7 @@ bitly.uk/connect1xbet
 رئیس جمهور ترامپ با نخست وزیر نتانیاهو در مورد نهایی شدن یادداشت تفاهم با ایران برای ورود به مذاکرات صحبت کرد.
 اگرچه اسرائیل طرف این یادداشت تفاهم نیست،نخست وزیر از تعهد رئیس جمهور ترامپ برای اطمینان از اینکه توافق نهایی که در پایان مذاکرات شامل حذف مواد غنی شده،برچیدن زیرساخت‌های غنی سازی،محدودیت تولید و برد موشک و توقف حمایت ایران از گروه‌های تروریستی وابسته به آن در منطقه باشد، ابراز قدردانی کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/news_hut/65884" target="_blank">📅 23:53 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/news_hut/65884" target="_blank">📅 23:53 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65883">
@@ -1577,10 +1577,10 @@ bitly.uk/connect1xbet
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/352ca9d87d.mp4?token=F6fScalXARHLdZGUHzIBD7VZ5q3cm8CP61dgUWDz3e9qm5Vl-JUCh9dO9UytGHdAH48--XszW6BDjbYD2E2L2lvoequsmw-YJnuQ1wXXlx9WKy3o4lQH3kVm8qh-cIyDaD7rBbTAiBQfKSco6gcbrroGbFNfcTJWbdii9w4jkKB9SFKjSA46ptrK1fRYaDywB6nRW7wjcZWnqfALTYo7Qd4S-RnzHQiT6SryCPKY9VR61IByughocONULmehdpBbmRRFwt0J_Mn1NeYsg2C1Q5uf1hZUz_Z2IDrhih5ih_a94UDswhDIkhiqpxFuHgW2jbKsUB7soohMmSajVcNEmA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/352ca9d87d.mp4?token=l6bQU842pGfQSDp_K85JRDLltF3mcv7LQvX0Ihu4yJUbT4erF80xo73sDuyw9qVOaYnTpHjKle6Lu9mghKzqj9a8aVZKo9IBaJA5eXJdlTCgpC5L-XPUyHf1gnwZAmmVZGmd4fyl5v1nz-IiRtPzcINjDgIoeQOPLfl2lxTxR8NtACdtRsAfleB-tyRBw_MGjES6OqHX3APKYVw3ZZIArnhHRmHT2ydP0VYwe5jgOzIQ8gBfgYDxdBeH66VuGnGOYDvAG24wDUbeb82J2_pNV4x3eczf7ZODCBhHVI5AFneX_ZvIZ879kKwKskvEOlQjrCZibMaMcY09F2OaymZhFg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/352ca9d87d.mp4?token=F6fScalXARHLdZGUHzIBD7VZ5q3cm8CP61dgUWDz3e9qm5Vl-JUCh9dO9UytGHdAH48--XszW6BDjbYD2E2L2lvoequsmw-YJnuQ1wXXlx9WKy3o4lQH3kVm8qh-cIyDaD7rBbTAiBQfKSco6gcbrroGbFNfcTJWbdii9w4jkKB9SFKjSA46ptrK1fRYaDywB6nRW7wjcZWnqfALTYo7Qd4S-RnzHQiT6SryCPKY9VR61IByughocONULmehdpBbmRRFwt0J_Mn1NeYsg2C1Q5uf1hZUz_Z2IDrhih5ih_a94UDswhDIkhiqpxFuHgW2jbKsUB7soohMmSajVcNEmA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/352ca9d87d.mp4?token=l6bQU842pGfQSDp_K85JRDLltF3mcv7LQvX0Ihu4yJUbT4erF80xo73sDuyw9qVOaYnTpHjKle6Lu9mghKzqj9a8aVZKo9IBaJA5eXJdlTCgpC5L-XPUyHf1gnwZAmmVZGmd4fyl5v1nz-IiRtPzcINjDgIoeQOPLfl2lxTxR8NtACdtRsAfleB-tyRBw_MGjES6OqHX3APKYVw3ZZIArnhHRmHT2ydP0VYwe5jgOzIQ8gBfgYDxdBeH66VuGnGOYDvAG24wDUbeb82J2_pNV4x3eczf7ZODCBhHVI5AFneX_ZvIZ879kKwKskvEOlQjrCZibMaMcY09F2OaymZhFg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🚨
 🚨
