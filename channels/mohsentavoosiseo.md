@@ -286,20 +286,20 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/K7mEP3s32PoH1mLj_lzwmfiXmtXO5eW-w6DVdEtDxd_vq6mLUK6bEIjeThRSGGG7C0GcRdR0Lf3bOdsykNZUHvHtVHFk9Tu6p785QQ1T4qbbLA3aVBMt137sRjg9jVPP8evE6rEAFhw6LzZl9F4YFIswWHEDDn0r_EW3J4Df2_twT3V-I18d_p_vL0Suo4wfPK3OZZKFFMEG4O2SL-5ECiC7i3WWPI-VKJ-KuJsTvBzvpwoXUP0wUyFMNIDHuZGqMaVQnXNS3apUS8agR4PhwtD4BurtYb067zcJFcGoeKrLGfyIb_PyL1LAjnW60NQil0bqjWcoI3nLYkuG_bpAZw.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/ohB-cftQnK0rAR7Y_nVdakorYOBytirS8mnVWIdy-SZPB7Rqjn2KNY7mGoEv6ppv8FUf4zVPLf1ANofn6F3NpbwWoasXr7-Wz1ySnaHkeikJdq9kAW0Od323dZckOfsEYAUjvxBda645x4uz8Sl8Hsq6lx0ejihBAag9z8tNv5AqcJv2k8HKLLyd_pZNK49d7aKTROjPvjBgntq9WXF1c6gy9Tm-x-QIP-m4xDqGCswQ6nSYOHApHa92392BAYT5TZLowLzqLvJYlAb5hD-2XGlu8t2tgg2uZF4asRnTsUFdNesxT-CVUOg_5uyQMu2LMQtAKzNgTNyhuHYpCKzkOA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو محسن طاوسی</h1>
 <p>@mohsentavoosiseo • 👥 7.54K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا فقط تالیف، مستندات و تجربه هست. اخبار و ترجمه کار من نیست.دوره:https://mohsentavoosi.com/course/seo/یوتیوب:https://www.youtube.com/c/MohsenTavoosiاینستاگرام:Instagram.com/mohsentavoosi.seohttps://www.linkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-23 03:43:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-23 08:27:04</div>
 <hr>
 
 <div class="tg-post" id="msg-723">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">سوگیری شدید و نگاه صفر و صدی در جامعه ما
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.3K · <a href="https://t.me/mohsentavoosiseo/723" target="_blank">📅 17:01 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.31K · <a href="https://t.me/mohsentavoosiseo/723" target="_blank">📅 17:01 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-722">
@@ -310,7 +310,7 @@
 اما درک می کنم که یک پنجاهم قیمت اصلی وقتی پول میدی، باید هزار تا اکستنشن کروم تنظیم کنی که اون اشتراکی استفاده کردن ها توسط اون ابزارها لو نره. با دستکاری سشن و کوکی و وی پی ان و خیلی جزئیات و مکافات دیگه. که از نگاه بین المللی، عملا کار غیر قانونی هست. هم فروشش. هم خریدش.
 نمیشه هم پول خیلی کم داد هم دردسر نکشید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.42K · <a href="https://t.me/mohsentavoosiseo/722" target="_blank">📅 16:33 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.43K · <a href="https://t.me/mohsentavoosiseo/722" target="_blank">📅 16:33 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-721">
@@ -320,7 +320,7 @@
 منگولز خیلی بهتره در کل. ارزون تر با محدودیت کمتر با کارایی بیشتر. البته برای کیورد ریسرچ فارسی، ابزار های بومی ایرانی کافی هستند و نیازی به ابزار خارجی نیست.
 برای تحقیق کلمات کلیدی کلمات فارسی، ابزار اختصاصی و حتی اشتراکی خارجی نخرید!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.59K · <a href="https://t.me/mohsentavoosiseo/721" target="_blank">📅 14:25 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.6K · <a href="https://t.me/mohsentavoosiseo/721" target="_blank">📅 14:25 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-720">
@@ -353,7 +353,7 @@
 به فروش ابزار های اشتراکی سئو.
 بلند فکر کردم شما هم استفاده کنید. هم استفاده کنید هم انتظارتونو از ابزار اشتراکی 1 تومنی که همه چیو با هم میده بیارید پایین و با واقعیت های میدانی آشنا بشید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/mohsentavoosiseo/720" target="_blank">📅 14:09 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/mohsentavoosiseo/720" target="_blank">📅 14:09 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-719">
@@ -426,7 +426,7 @@
 </ul>
 </div>
 <div class="tg-text">قیمت تمام شده (سر به سر به ازای هر خرید) برای هر کدوم از محصولات زیر با فرض اشتراک بین 20 نفر. برای یک ماه.  نرخ محاسبه ریال = 180 هزار تومن با احتساب کارمزد تبدیل و سایر موارد خرد انتقال پول. رنده شده به بالا به ازای هر پنجاه هزار تومن.      Ahrefs= 6.5$…</div>
-<div class="tg-footer">👁️ 1.42K · <a href="https://t.me/mohsentavoosiseo/712" target="_blank">📅 13:40 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.43K · <a href="https://t.me/mohsentavoosiseo/712" target="_blank">📅 13:40 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-711">
@@ -478,7 +478,7 @@ Similarweb = 4$ = 720
 - نداشتن محصول مورد نظر
 - طراحی و تجربه کاربری ضعیف.
 حالا برای اینکه من بفهمم صرف مالی داره ورود کنم یا نه و شما هم بفهمید(!)، نظر سنجی می کنم از شما.</div>
-<div class="tg-footer">👁️ 1.56K · <a href="https://t.me/mohsentavoosiseo/710" target="_blank">📅 13:08 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.57K · <a href="https://t.me/mohsentavoosiseo/710" target="_blank">📅 13:08 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-709">
@@ -535,7 +535,7 @@ Similarweb = 4$ = 720
 <a href="https://cdn4.telesco.pe/file/6a993e8989.mp4?token=oNGlVZ02FWYuxV4ryEhEg_MbWDu8VDzUPuoPBx_ajlfFkHGrZxK3gU5WyioP84nADz4_5t1YjGesZwcaSmVmEMB-21y_2f78u6v7yeg_2HJrpmz9frOXW8d0QdbRzMBTm3XSKUpdoYpO0pT2CrCOxYur-4Wcb-5k-bG8ydFfNyoej0Uxqr4TuBQOgz2IUxr-gfaSmHCIRNXHWqEB4LW9_u4I5mvlRF_qVHAEoUEMFz7c3TmF1zxiCsaatYYHkWO7LEqiXFGbJJ33WjvCthK_-A8edhuCIgmH826k2nqql1j0W4y3kpnmZTTJkY4bqxHdkLJGkoEG3250eYiUNp2tpg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حالا که بحث مقایسه مترو ها شد جا داره بگم، مدیونی اگه به ایران بگی جهان سوم.</div>
-<div class="tg-footer">👁️ 3.62K · <a href="https://t.me/mohsentavoosiseo/706" target="_blank">📅 11:41 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.63K · <a href="https://t.me/mohsentavoosiseo/706" target="_blank">📅 11:41 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-705">
@@ -558,7 +558,7 @@ Similarweb = 4$ = 720
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/A5gaOxDiZD5eV48zya4uowi6RS458O3AWccEjY4jQL6ERJGX8imKJso0W7dPHivOY4dfzzIPbHS40Th6FkESpuGkXcTTzi7fGIfzacO_B4YH_YXipWj0E2ml6QQq3H7JYl0AHs9vcMDMUqimq1A6E9O_AUBuXvbY2ovB75Y0fCRLc4GDd1ejgly7qtZq7vzapVgaWD3NLMhTS_DoU9nM2TpFyakIhB5CVLlpR4h_RYy6KIF6cLrxyDK5NT10_QTN2yt1bkr_bIl0aJE3jCbVs6NjdLVUOvcojDz0eD83a986iyArQl6QslLH11ef3ejyRfyrR0fIqB5GSoQaElPQbw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سئول کره جنوبی</div>
-<div class="tg-footer">👁️ 3K · <a href="https://t.me/mohsentavoosiseo/702" target="_blank">📅 11:25 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.01K · <a href="https://t.me/mohsentavoosiseo/702" target="_blank">📅 11:25 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-701">
@@ -578,7 +578,7 @@ Similarweb = 4$ = 720
 <div class="tg-post" id="msg-699">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">تحلیل هایی که به بیراهه میرن!</div>
-<div class="tg-footer">👁️ 2.64K · <a href="https://t.me/mohsentavoosiseo/699" target="_blank">📅 11:18 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.65K · <a href="https://t.me/mohsentavoosiseo/699" target="_blank">📅 11:18 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-698">
@@ -686,7 +686,7 @@ Similarweb = 4$ = 720
 <div class="tg-post" id="msg-688">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">ابزار های سئو خارجی رو به صورت اشتراکی از کجا تهیه کنیم؟ از سایت لیمیت پس! Limitpass.com ایرانی چطور؟ ابزار جت  سئو و کیورد چی و چند ابزار خوب دیگه...  http://limitpass.com/ https://www.jetseo.ir/ https://keywordchi.com/    کد تخفیف سه سایت بالا:  mohsentavoosi…</div>
-<div class="tg-footer">👁️ 5.79K · <a href="https://t.me/mohsentavoosiseo/688" target="_blank">📅 13:18 · 04 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.8K · <a href="https://t.me/mohsentavoosiseo/688" target="_blank">📅 13:18 · 04 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-686">
@@ -759,7 +759,7 @@ https://t.me/mohsentavoosiseo/633
 https://t.me/mohsentavoosiseo/634
 https://t.me/mohsentavoosiseo/639
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 7.14K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/mohsentavoosiseo/680" target="_blank">📅 18:48 · 19 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-679">
@@ -1218,7 +1218,7 @@ https://parspack.com/cdn
 راستی میرور و sync نیست! یعنی هاست داخل من عوض شه خارج نمیشه. اگه فروشگاهی باشید سبد خرید و سفارش های هاست خارجتون با داخلتون هماهنگ نیست. من روش هماهنگ رو بلد نیستم. برای من جداست. اهمیتی هم برام نداره.
 اگرم فروشگاه باشید اکه بتونید سفارش هایی که با وی پی ان و بی وی ان مدیریت کنید هم کار تمومه. اکثرا دسترسی از خارج رو برای گوگل میخوان و سینک بودن براشون مهم نیست. ملاک رو میتونید دیتای ایران در نظر بگیرید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/mohsentavoosiseo/623" target="_blank">📅 16:51 · 21 Farvardin 1405</a></div>
+<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/mohsentavoosiseo/623" target="_blank">📅 16:51 · 21 Farvardin 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-622">
