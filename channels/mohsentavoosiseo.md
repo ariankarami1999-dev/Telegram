@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 کار من تالیف و تولید هست✅️.❌️نه ترجمه و خبر و  گرداوری❌️دوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-25 00:14:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-25 01:32:36</div>
 <hr>
 
 <div class="tg-post" id="msg-723">
@@ -310,7 +310,7 @@
 اما درک می کنم که یک پنجاهم قیمت اصلی وقتی پول میدی، باید هزار تا اکستنشن کروم تنظیم کنی که اون اشتراکی استفاده کردن ها توسط اون ابزارها لو نره. با دستکاری سشن و کوکی و وی پی ان و خیلی جزئیات و مکافات دیگه. که از نگاه بین المللی، عملا کار غیر قانونی هست. هم فروشش. هم خریدش.
 نمیشه هم پول خیلی کم داد هم دردسر نکشید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.61K · <a href="https://t.me/mohsentavoosiseo/722" target="_blank">📅 16:33 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.62K · <a href="https://t.me/mohsentavoosiseo/722" target="_blank">📅 16:33 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-721">
@@ -320,7 +320,7 @@
 منگولز خیلی بهتره در کل. ارزون تر با محدودیت کمتر با کارایی بیشتر. البته برای کیورد ریسرچ فارسی، ابزار های بومی ایرانی کافی هستند و نیازی به ابزار خارجی نیست.
 برای تحقیق کلمات کلیدی کلمات فارسی، ابزار اختصاصی و حتی اشتراکی خارجی نخرید!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/mohsentavoosiseo/721" target="_blank">📅 14:25 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/mohsentavoosiseo/721" target="_blank">📅 14:25 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-720">
@@ -599,7 +599,7 @@ Similarweb = 4$ = 720
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kLx9t2EPgpGoEXZ2ABeyMNnGy9ng56dadQmvtdZ4S35LMDcGMDzdxUm-2lBViA95lqHWk_lCLEK1xIBpWLdwYJIfzoJV5NbgHcAXJTYX2SuocnILlRm9oN8hvW1nqqV_C5NFMBrjIKDBogkVPERDypwiSzujNpbUuD498OP6bxS1gm3CljgeZ6CPMuwoCWBCTHGDpB0Cmu2IQkCuGgs0b1UzdmF8irhwn_qYa52vStHTunfvMW_KV_UwJfumFTkDgM5cqNUDTkKEvepJfoOH6dB3KGwlQWyaFDHPOMm-_vNdk8LlVPb9DshZewPFuGFHoUEKaOFcv2JRdV72usPaTg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باز اینترنت وصل شد یه عده بلاگر شروع کردن به سئو مُرد گفتن که AI اومده.  سرچ کنسولای ما که کلیک میگیره هم توهمه.  لندینگ میسازیم بصورت گپ(رقیبا نساختن) ورودی و فروش مستقیما بالا میره هم تو دنیای موازیه.  پول هایی که به حسابا میاد ازش هم فقط تو ماینکرفته(دنیای…</div>
-<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/mohsentavoosiseo/694" target="_blank">📅 20:11 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/mohsentavoosiseo/694" target="_blank">📅 20:11 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-693">
@@ -648,7 +648,7 @@ Similarweb = 4$ = 720
 هدفم فقط جلب توجه شما به جریان علمی غیر از جریان علمی رایج هست. و شبه علم هم نیست و کار  هم می کنه.
 اگر قراره خلاف جهت شنا کنید، ChatGPT رو فراموش کنید. به درد نمیخوره.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.27K · <a href="https://t.me/mohsentavoosiseo/691" target="_blank">📅 12:28 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.28K · <a href="https://t.me/mohsentavoosiseo/691" target="_blank">📅 12:28 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-690">
@@ -870,7 +870,7 @@ https://t.me/mohsentavoosiseo/639
 البته من دارم درباره Opus حرف میزنم. Sonnet بسیار خنگ تر هست ولی باز بهتر از نسخه 5.5 هست و گاها برابری میکنه.
 بی انصافی نکنم، باگش تو 5.5 خیلی رفع شد. شما همین سوالی که گفتم رو برو بذار رو نسخه 5.4. کلا در حد ناندرتال ها خنگ میشه دوباره.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.02K · <a href="https://t.me/mohsentavoosiseo/673" target="_blank">📅 15:36 · 16 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/mohsentavoosiseo/673" target="_blank">📅 15:36 · 16 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660">
@@ -1334,7 +1334,7 @@ pinned «
 
 <div class="tg-post" id="msg-603">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rl3K90JoKWxc7aUt5VQcCDoTYYqirPhALjBpr7FOxLlLaCCpXv-wqUOKHPn60xnVjzsfNG0u-kXQVJyABo7m8kCvGWCGuA9ISMOrCKJZ8VrlV_pBRr1NVNmoHnbQLX2MnQ1QC8uM1n_LTklTfrMWVwU6S8NfOjksq9qKHZvDIJrHZOWO7UCZNm7VahHRw4y9xsku1r8UzC1ewOZmmuKVs1VrKJal3_EsSSdBo3L5TilsvkGZVtDds8BobcnYrWMfeMcCnAcSfSf_pVzqJ7GtHMIEA3iZcAGYeTMFW9WUsCy2Yro5QguLhpvStv7JEMy30uBPo9fTmA7GiIp1ISBIcw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V1lxns029kgXGojY8I_62MIe3tyykaL45eXannfmVfDceaM7RPdBfrZLdUHifGdz1Ja_CCP_jiVXQEG5YfkY1FPMkLe25l8bpDpJRgcMgDgQ4N2PIdZZv2y36PWgYgMtTfe35SxqerB8dfmW5jQbvUXrfZZK64fGkN3PgVgHvNNSE7euPpElLbrOd_PjDVbeIPRapxbtEtEtSlMlKw8s2vwzQ-8nZP0b5uSbYYSTZUdZ4uMZ1qsSN_84Mevt37961rs9c1oR1hvqRs2MLMT_QpfzKiKoYui0ja89lcZz6jBW4gsKsBnPs4w8Xc9EafngWHZmbYncPcpVZLVCgLs98A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🟢
 تو ویس های بالا توضیح دادم
 ✅
@@ -1352,7 +1352,7 @@ pinned «
 
 <div class="tg-post" id="msg-602">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QhDmS2np0OrNw4zY--iJxxpBVb1SyU_Mz0Uehob9Rq5PxpUulsTKeBrlxOTy95wvH_KGywrl4q-81g-qC58RxWIp_Y49ud8dcT4tRxwp97Fv0Y_IOmDLsDJT9z4AEj7ytaJG-mDbPAHLQdWzhRsEmdxWqADaLELYasqSV5Z8myHwgF0I6gD4yisI0ni3Mg2Wq9feqUlX0JUQiJpKSLs1aKkkcmMd5bKqLumyU0P2Z0tKVey_w73qH8lCpxT9DYd75U8mRHvjNuTT-6kCuKVSyBTc8ahntKjajakPdSF-OC022-OWwlw3XkxP7t2NGCIJs2cU2COkqt6nbSUaRoiVGA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g308LaGUPl246NTe32F7cfOyJP9v0bdnZ5LF8_TAzJA-VQkNmzGNFpAFS-N1nVoNHhnBRM5g-wtP8oNiw8PNkVPxdTaEumXWkTu4h1YLteOlbFafqFe53AoH7j_iPT29-wm6WSKPn7ZlVp1oUxeVN1mIwobmfDTncKd1H74KVyfFpZbhfb35KCnxbrDdaUbJXMlvuqHKfAts4JAcCVLSPxz8n1a38DLS7U7hKTmnFEexX4RpxarX5V2lM9iQKpWqbTs7AgbW1a4nAg_dtE7Op6PoEYGuyRnrY4lyFe_zRz8roiPbhsr_tRzbC3OJNXV1WAssfYZYPIWG0LvwIqvBPg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🟢
 تو ویس های بالا توضیح دادم
 ✅
