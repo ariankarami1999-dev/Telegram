@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-24 02:31:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-24 05:10:33</div>
 <hr>
 
 <div class="tg-post" id="msg-2672">
@@ -309,7 +309,7 @@
 👇
 https://t.me/noxbeatx
 https://t.me/noxbeatx</div>
-<div class="tg-footer">👁️ 6.79K · <a href="https://t.me/iaghapour/2672" target="_blank">📅 21:40 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/iaghapour/2672" target="_blank">📅 21:40 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2671">
@@ -331,7 +331,7 @@ https://t.me/noxbeatx</div>
 پ.ن: جالبه تو این مملکت انگار با فساد و رانتِ کسی کاری ندارن؛ اما وای به روزی که بخوان اینترنتی رو که دست مفسدها رو رو می‌کنه، یه ذره آزاد کنن!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/iaghapour/2671" target="_blank">📅 21:34 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.21K · <a href="https://t.me/iaghapour/2671" target="_blank">📅 21:34 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2670">
@@ -356,7 +356,7 @@ https://t.me/noxbeatx</div>
 پ.ن: وزیر مشکلی با محدودیت و قطعی نداره بیشتر داره میگه شما که داری قطع میکنی بگو تا کی که مردم اطلاع داشته باشن :)
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/iaghapour/2670" target="_blank">📅 21:05 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/iaghapour/2670" target="_blank">📅 21:05 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2668">
@@ -426,7 +426,7 @@ YouTube.com
 اگر وارد ویدیو شدید و دیدید صدای من انگلیسی شده، روی علامت چرخ‌دندهِ خودِ ویدیو بزنید، وارد بخش Audio track بشید و اون رو روی Original (فارسی) بذارید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/iaghapour/2667" target="_blank">📅 16:45 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/iaghapour/2667" target="_blank">📅 16:45 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2665">
@@ -435,7 +435,7 @@ YouTube.com
 👌🏻
 ممنون میشم سوالات رو فقط در یوتیوب بپرسید و در بخش ربات ارسال نکنید.
 🙏🏻</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/iaghapour/2665" target="_blank">📅 21:29 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/iaghapour/2665" target="_blank">📅 21:29 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2664">
@@ -465,7 +465,7 @@ SMS Fee
 تو این لیست نیست ولی اگه از شماره های مجازی استفاده میکنید باید حواستون به این موضوع باشه.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/iaghapour/2664" target="_blank">📅 00:10 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/iaghapour/2664" target="_blank">📅 00:10 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2663">
@@ -503,7 +503,7 @@ SMS Fee
 پ.ن: البته از وضعیت دیتاسنترهای دیگه اطلاعات زیادی در دسترس نیست.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/iaghapour/2661" target="_blank">📅 21:49 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/iaghapour/2661" target="_blank">📅 21:49 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2660">
@@ -534,7 +534,7 @@ SMS Fee
 این دستکاری باعث قفل شدن مداوم اکانت‌ها در سایت‌های تخصصی و افت شدید کیفیت VPNهای اختصاصی (به دلیل پدیده تونل در تونل) می‌شود.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/iaghapour/2660" target="_blank">📅 20:42 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/iaghapour/2660" target="_blank">📅 20:42 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2659">
@@ -611,7 +611,7 @@ CoinGate
 🙏
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/iaghapour/2656" target="_blank">📅 17:00 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/iaghapour/2656" target="_blank">📅 17:00 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2655">
@@ -1000,7 +1000,7 @@ CallofDuty.com
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/iaghapour/2625" target="_blank">📅 20:54 · 01 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36.4K · <a href="https://t.me/iaghapour/2625" target="_blank">📅 20:54 · 01 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2623">
@@ -1515,7 +1515,7 @@ skip-SSL
 
 <div class="tg-post" id="msg-2591">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZZMyUEoNtUBjEaM2tQvx8BPqGFDCMNhbF5lBroZFH5QxAMpP6YZdIJE3qyjaZZjSA9yQ1MXin--9GKtkO4LOKMKnyZfFucMwKxrso11VPCzpGHVcSD6fAPEaPWeUwBsPsm6xNX7WkbbLjY_2_XCoKcu67sVfbdxdvqg-89gUtpxhgM0icRcMBdIzxmCelZzb7rw4MV569z84oChWCsNu1ivR7g5mGrIAp2ZgkuvUqY8LXfNXPlvuoYLLTa3nFP80k2eHKRYAhZPO2uIGhJrnrCLVoInmvotgU_VD4RmguZUcHYOSZgkDhIy7e2TnoGWW3Zj2q6Q1Fow7d5BfIbnt8Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QOHzRhEMHTEIUAh-E3OSJWsV2N6hmKc2Uwfd9rh90CInDYo3juQHekIdxolELYuwYIdQL8PYpYV7CtkQnuxJGLJFSOcjCv-0tVTiHyRSCptitZxDjRoWRsQnJNglGsluvrdWNgHUyd_7cmzkM6c_Lmc_ZkFFmqko4KEWFrehS1XTPTJYLypQ9Q7-EvTSzBJpKBOa1WfP9m0n6ZmKz5b7cMjuOwsEYgKm5uNUud1VoUb29816smwXIcsrN1oeSVnHXgGQyYEwUd7CSBFgnP6HAPyH9CWcyL48ylKsGagRAQpqC7CDnzY28mQJlWUlS_OEEIYFdgcwUnE5xn0VX-b5Pg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آپدیت بزرگ تلگرام: ورود دستیار هوشمند به پروفایل شخصی!
 تلگرام در آپدیت جدید تمرکز ویژه‌ای روی هوش مصنوعی داشته است. در ادامه مهم‌ترین تغییرات این نسخه را مرور می‌کنیم:
@@ -1593,7 +1593,7 @@ skip-SSL
 
 <div class="tg-post" id="msg-2588">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bIFYOvtPO1MhGC6IKy1iasn_1s0d4LwHA5vzlid1-kJfQVLK_teXdHJX2kBZDcd2uVvQySPM3q7dP03wHQN7AkfmZnYJdofl6La5UzWx1eP1Gj3X9WvBKSXdbTQTzsEiF2SeUMLBiRg3PntWGvB4MD2o7G1hI1vzZUh3_5pWZNUPJHRwXoizkZ6TaLISVzig3HEcooHx38G8MYt5tGoLWkSMUHsDiq75kFDMnA3z0ANMZDCjWhxwpFPWCXhNV4zzXBb60suUepBVSNRF00a28UJ3KEz4PnwQ-P0L6wj8QWOvBtdKJ2tLm1SYItEHckSh6R_43AabyPNjhNFTiQjzTw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jhlfsucut6NDxAveuHuzEDGnG9lrUxHaUDlizzUf7MadX62-2qUuVUSy4lUf0gnarye_10lBpZoKLBaPtVh-c5_vaSB_Z5HQjyjdYku0ZpzCy4gbeDspvolzcYlLyj4DbjfrsiIiseMXEzYyX_8MTIXNui1fnF-tIlnaR80W1mJ-sAk3ddp9o7-kZWtL9z94fuay5fg_faedUL3Wo9ltvRvNXZOp48dGS2EFYlJHspzy8x7PIIejeVDIZ-J4BiGS9X-7OjtV0yxJWXC03CW9iAqfnMYvrVC9bNSvB4tJ9Od6bBl3EEEvEO_itwuUb1SNeUkMjkmv9B34EBzu1kRGjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💢
 سخنگو وزارت خارجه حذف تیک آبی خود در شبکه X را (سرکوب حقیقت) خواند.
 68 روزه اینترنت مردم ایران رو قطع کردن، بعد یه تیک آبی‌شو گرفتن میگه حقیقت سرکوب شد.
@@ -1965,7 +1965,7 @@ GooseRelayVPN
 
 <div class="tg-post" id="msg-2563">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VNnjlDO9Cdri7TMQ6_lycsZKanC06o7b0aC8u0do-kT8gfl3omQg1FU8oUYV9C6oEkzjbFk-6V9_U2XDOQcJBRLf3XSRWnHuSA4ZGmrAUcS_b9SlAKmXFb8Ip0cugZC5iApGOHV7u8rhd1xeCGdZm_9kxx3Ncd5Yo1CHDZ4kCuO3TqP-j2azSCKWi8nX2HISDHNjdynhwxuouPiw3kKtdGHU_gu1mR1ugWAM_e8tIjDQKODbDddC1_q8NkG8iErdQlpD8_MBFbo8wkgqpOO2wXOMM4ODCTGkamrFKan7-_k4mCFJeHTuXVhgSF2VggGsvOf_8EAo2xDMHSf32kMAwQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HVcnCSVsay_eQ7UWzf3wVP8XD8aouVAHtGe9_CgwkAJcfIJo7WI7xpo6ulFDmVYjEnV0EObJhi1nqUndA0BUzb-S1QPSth8uozQYO-PluURQCMZrNuB4HDS0vt62YpoShAFVCzeFG4FagHpju45kqtKD4wVAfr9PrExQqivWVvTT825L-tb8NNrq4xCQSqZFf9aIJsW-qSuhci1zGARcGQ2_TdLLtB1XnTiiMoNTEwLbMdkgc77Sgv41lbVUUl7aqNxofRmitYS8nysmQro1O_DGC8PGDS66LATG3alz3JGSbqi_kurtTOGvEsb_mUs1VBFHniMYW2IJZtFE0JG-Zg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ساخت فیلترشکن شخصی و تانلینگ امن با سرویس‌های ابری! (GooseRelayVPN)
 🔹
@@ -2054,7 +2054,7 @@ KevinNet
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/iaghapour/2559" target="_blank">📅 19:22 · 07 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/iaghapour/2559" target="_blank">📅 19:22 · 07 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -2247,7 +2247,7 @@ t.me/iaghapour
 لینک گیت‌هاب برای بررسی و نصب
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/iaghapour/2545" target="_blank">📅 13:15 · 03 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 44K · <a href="https://t.me/iaghapour/2545" target="_blank">📅 13:15 · 03 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
