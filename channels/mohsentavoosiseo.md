@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 کار من تالیف و تولید هست✅️.❌️نه ترجمه و خبر و  گرداوری❌️دوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-25 01:32:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-25 03:12:55</div>
 <hr>
 
 <div class="tg-post" id="msg-723">
@@ -377,7 +377,7 @@
 <li>✓ نه!</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 1.49K · <a href="https://t.me/mohsentavoosiseo/718" target="_blank">📅 13:49 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/mohsentavoosiseo/718" target="_blank">📅 13:49 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-717">
@@ -389,7 +389,7 @@
 <li>✓ نه!</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/mohsentavoosiseo/717" target="_blank">📅 13:47 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.51K · <a href="https://t.me/mohsentavoosiseo/717" target="_blank">📅 13:47 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-716">
@@ -401,7 +401,7 @@
 <li>✓ نه اصلا!</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 1.51K · <a href="https://t.me/mohsentavoosiseo/716" target="_blank">📅 13:46 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/mohsentavoosiseo/716" target="_blank">📅 13:46 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-713">
@@ -565,14 +565,14 @@ Similarweb = 4$ = 720
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/u2BFKqlpe3GEsFnPPexQ1O3B_fLlCadL7UdBgL3s65sbArLbivHeYoWuY9wvy3MeKRzIRSPgq8DMXy9YrHYjMYLo2i6C7djTlwChJOG1aONZxexC-GfK2Prvt4LX2oYoBfb40I4j0wjfpeAdYq02ugM6Mntq16gczc_1szLQo2-90fDx8w_jbnoGNOxnJBtc1vaTEmToCLtbbKzvhl0wVSXDg8IHKkQmr71gIFs8kgqvMURU6u806O33F1Rj5zSbZHJDED-RVx8o7JTqd37G2Gva3FAEOqtZnfvoUStg4F5Gm5M5eRU0llSThKJOhD2Hbbh7SaS0jO8AhgaPsO41JA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مسکو</div>
-<div class="tg-footer">👁️ 2.81K · <a href="https://t.me/mohsentavoosiseo/701" target="_blank">📅 11:23 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/mohsentavoosiseo/701" target="_blank">📅 11:23 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-700">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Zke8yzyw0KUSHA0sPv4LYSYKSiN0uszRce_0GQ0T335BcpJ9kapxsCQqpP-IXVRL4v3K_tRAdjFc3UMMdtfCVDLfl7x4Wjkvpwd8Rt7L71ORseVJvYbalt8sb0qoMSOLCZCpRvhFO1pyD0z8h_6Pwnoxev_RRouQctJ6l0YDc4jOKIPY4JAzfgDh89k5aX7W-4Iz4w1RaNISD8dAca5P0-vH5opN6Z-zt2ZgPO3wQNF83cuyTC_18CiIUuKSP6nBkoUGY9QDUdyuzKodJ-iiYy8CJ_GUPyzbRIN53U8yeWP0-Sp7RdFQqwWJb3eB0BSq65HABEJ-GgsuZTUc2DSBtA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تحلیل هایی که به بیراهه میرن!</div>
-<div class="tg-footer">👁️ 2.57K · <a href="https://t.me/mohsentavoosiseo/700" target="_blank">📅 11:23 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.58K · <a href="https://t.me/mohsentavoosiseo/700" target="_blank">📅 11:23 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-699">
