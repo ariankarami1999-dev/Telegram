@@ -286,34 +286,132 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/Odo-CiZDYxRAz0GKWVkNbjiIPewYhLmKRuEy46bBk7POrniTiCvGy1ep0wuBCGdUIJua9iXlWxQMWmtzF1jpBWiEfht2xtYVD6zWZddSCbwSBaRdf5E7LIPqe-rBzWCx_hNIVjw1xPJiym98nM45u9qKfr5YuzirqgkoE4gM0dxFaf8lJEs0tkcgd8CdhjJfCMhDuE0wwHHcHp7wRZqqBzLtTjasSdTq7T-wtNr-FTXuRAdUULwlpR12lrEmAqtqY_NphxB6SxN04r6nfUcEb-Ta8PXDKosL18AZ1rOwzBiZ7oh0aKr9WehSQXtkMLOXeH5OWGUIxYpYkRTUjcE3YA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/ibnf0F9-tf6r2wrUf8JY-Sr5svkjz_sBvxtmdvzkiEQ60wtDTR9u6zqMHOIx_CuPmvZmFNUkBM-IJF4MuSc_TXpNIylZ4WXVQtR7wGJIvTFXrcclxDGLKwjqKpFeQq0ANz0CSR_99UUCysWvTJCJ54zoAbERpwM3NqUuM1FXQmsvKre0OLmXw7yvyaepOv0vht88u3VzddDQ6bfR_Zrw5ywuc3paHMPdrhStciXsYFnGx0bIK706qsP2BekQKI-AEeH323FT6punZ9IOPRYMnesySnv2HQYe2xuXWm0IoE_QPXqjFNg0_vnzPDi_UQAZcaAcVHzxcmXUN19Evyp9kw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 WarRoom with YASHAR</h1>
 <p>@withyashar • 👥 328K عضو</p>
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیلinstagram.com/yasharDonatePaypal :https://www.paypal.com/paypalme/yasharrapfaUSDT trc20: THebHKGpmnhWZzNZAbdSdr4fUAK3qkxDgkhttps://X.com/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-24 09:56:35</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-24 13:31:37</div>
 <hr>
 
-<div class="tg-post" id="msg-14762">
+<div class="tg-post" id="msg-14773">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/43d5bc7f03.mp4?token=VGvwGg8653WT3d82taBj_dJqgeu-8QdiDj7l4JAGeJ9HvFK74y7_Z0NhUZIgWtNMFrIe51EVSHkImfD9H1fGoI9erdzGNOzqH-UDOuQGDQIxEr2rgfqxSotfwiikMj1doX1kxi2WDjc7Pky6UoPg5DyN80MQFVxDJvTXOhnW2U-2cFL8U7uG1mEgb_yRFjNLwRPAk-kNfW7JF-KSA8dmeO0kq1IFxR4KiQHzgLFuMVv2e2j7uGP7A81zpMGZZ4V4MKWMsdsP7ppPJ3e0ru4jhYczf6HaItgFqo-IrepOVKBC6LfWTfyd6Nj8fWNrdlQwaBgu6L9an0uzBw067CFkMw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/43d5bc7f03.mp4?token=VGvwGg8653WT3d82taBj_dJqgeu-8QdiDj7l4JAGeJ9HvFK74y7_Z0NhUZIgWtNMFrIe51EVSHkImfD9H1fGoI9erdzGNOzqH-UDOuQGDQIxEr2rgfqxSotfwiikMj1doX1kxi2WDjc7Pky6UoPg5DyN80MQFVxDJvTXOhnW2U-2cFL8U7uG1mEgb_yRFjNLwRPAk-kNfW7JF-KSA8dmeO0kq1IFxR4KiQHzgLFuMVv2e2j7uGP7A81zpMGZZ4V4MKWMsdsP7ppPJ3e0ru4jhYczf6HaItgFqo-IrepOVKBC6LfWTfyd6Nj8fWNrdlQwaBgu6L9an0uzBw067CFkMw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">کارشناس صدا سیما
+: پاکستانی‌ها برای میانجی‌گری به ایران نمی‌آیند، بلکه مرتب پیام تهدید و‌ ترور می‌آورند
+!
+@withyashar</div>
+<div class="tg-footer">👁️ 3.08K · <a href="https://t.me/withyashar/14773" target="_blank">📅 13:30 · 24 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-14772">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-text">صندوق سرمایه گذاری عمومی قطر اعلام کرده بعد از گلی که دیروز بوعلام خوخی در دقیقه‌ی ۹۵ به سوئیس زد ۳ میلیون دلار به همراه یه رولز رویس فانتوم آخرین مدل به ارزش ۵۵٠ هزار دلار پاداش خواهد گرفت!
+@withyashar</div>
+<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/withyashar/14772" target="_blank">📅 13:03 · 24 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-14771">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-text">فرمانده مرزبانی آذربایجان‌غربی اعلام کرد حسین رسولی ستوان سوم نیروهای مرزبانی هنگ مرزی چالدران در جریان درگیری با نیروهای پ.ک.ک كشته شده است. PKK مخفف نام کردی ‌به معنی (Partiya Karkerên Kurdistanê)
+«حزب کارگران کردستان»
+@withyashar</div>
+<div class="tg-footer">👁️ 45.2K · <a href="https://t.me/withyashar/14771" target="_blank">📅 12:45 · 24 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-14770">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pzxnHO4lGISlFf74QfRnHufDHvkYAQwnUpdBjMTLuYzITuzGe_Vr2Wt_ho6y_EszyC_hCk98YTTCrLpfTlyQCpTvg5_oqMNQC-9S5tT93SssG4YLVrYkS1qGpod9b6YGDNe76prDtW_r1-3kXRwcH_vlVcXSXjFofVePRIqrCBUI-pn6B1PpVj9OE_WTxJIc8LCEunieua697pGCEv0Oe9uGYlmCYTKNWJdOYapsIX3BmvQ-dtgl7ZUvulJppH2hTxImbSDTFCVlku2OPYk4ZHRV9Zqq-XRBI-jiOMONKY7MAMNPdGX7y7HPH8PZV1gtj1o-7aywZQsEMLmFCLCdqQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">عرزشی‌ها: تا مجتبی خامنه‌ای نیاد جلو دوربین و نگه از خون بابام و خانوادم گذشتم، ما این توافق رو قبول نمیکنیم
+@withyashar
+🤣</div>
+<div class="tg-footer">👁️ 50.6K · <a href="https://t.me/withyashar/14770" target="_blank">📅 12:38 · 24 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-14769">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-text">صدای انفجار ناشی از مهمات عمل‌نکرده در غرب تبریز
+@withyashar</div>
+<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/withyashar/14769" target="_blank">📅 12:37 · 24 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-14768">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-text">https://t.me/boost/withyashar</div>
+<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/withyashar/14768" target="_blank">📅 12:13 · 24 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-14767">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-text">https://t.me/boost/withyashar</div>
+<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/withyashar/14767" target="_blank">📅 12:12 · 24 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-14766">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/0d0048bfa4.mp4?token=k3mEPpgefzJR1ygfdHWClQ56LAXF6CnhcBcklkI3qR0n9EOqZpC_0NVv85XIVsCiRgiHOz3w5Fod3yT07GyPVNTA87lSsjjASLcHs6xV8FENxuGQcA3mSkjtnJevYQNKwcjLj9Gc7YAgUPKhJG0dVaWahsonRtmxPO1VooZnD3gypeo4lmSHl6uNRERl7MtDNdZzBka-ZX_bFqM-4xeJ87u0mgfuyUEG6G_0ZRZmW-UTtyYAi2t184heWZmMKdVuk7FgNEakndJS8dmzP8g7S_itcVdVZXZmBXOy8xUJVCjVDZxGAjjf_SyOcf804RTf55djZ7rE-dumN4Kgq5wv1w" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/0d0048bfa4.mp4?token=k3mEPpgefzJR1ygfdHWClQ56LAXF6CnhcBcklkI3qR0n9EOqZpC_0NVv85XIVsCiRgiHOz3w5Fod3yT07GyPVNTA87lSsjjASLcHs6xV8FENxuGQcA3mSkjtnJevYQNKwcjLj9Gc7YAgUPKhJG0dVaWahsonRtmxPO1VooZnD3gypeo4lmSHl6uNRERl7MtDNdZzBka-ZX_bFqM-4xeJ87u0mgfuyUEG6G_0ZRZmW-UTtyYAi2t184heWZmMKdVuk7FgNEakndJS8dmzP8g7S_itcVdVZXZmBXOy8xUJVCjVDZxGAjjf_SyOcf804RTf55djZ7rE-dumN4Kgq5wv1w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">ترافیک کشتی‌ها در تنگه هرمز طی ۲۴ ساعت گذشته که با استفاده از اطلاعات سیستم شناسایی خودکار (AIS)
+قابل مشاهده است، نشان می‌دهد که هیچ کشتی‌ای با استفاده از طرح جداسازی ترافیک ایران عبور نکرده است؛ با این حال، چند کشتی از طریق آب‌های عمان در امتداد مسیر امن پروژه آزادی که قبلاً ایجاد شده بود، عبور کرده‌اند.
+همچنین مشاهده گشت زنی دو شناور نظامی آمریکایی در تنگه هرمز ، البته نوع این شناورها مشخص نیست
+@withyashar</div>
+<div class="tg-footer">👁️ 67K · <a href="https://t.me/withyashar/14766" target="_blank">📅 11:48 · 24 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-14765">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-text">منابع مطلع به شبکه «العربیه» : هیئت‌های نمایندگی آمریکا و ایران به منظور امضای نهایی توافق صلح، در یک نشست مجازی (ویدیویی کنفرانس) حضور خواهند یافت. یادداشت تفاهم صلح در جریان این نشست آنلاین با نظارت مستقیم میانجیگرانی از کشورهای پاکستان و قطر با حضور «جی‌دی ونس» (نماینده آمریکا) و «محمدباقر قالیباف» (نماینده ایران) به امضا خواهد رسید. بلافاصله پس از امضای این توافقنامه، محاصره بنادر ایران لغو خواهد شد. از دیگر نکات، بازگشایی تنگه هرمز و صدور مجوز عبور و مرور برای کشتی‌ها بدون نیاز به پرداخت هیچ‌گونه عوارض عبور خواهد بود.
+@withyashar</div>
+<div class="tg-footer">👁️ 71.9K · <a href="https://t.me/withyashar/14765" target="_blank">📅 11:26 · 24 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-14764">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-text">رسانه‌های کشورهای خلیج فارس: جلسه مجازی نمایندگان آمریکا و ایران با حضور واسطه‌هایی از پاکستان و قطر امروز انجام خواهد شد
+در این جلسه مجازی آنلاین، یادداشت تفاهم با حضور ونس و قالیباف دیجیتال امضا خواهد شد
+@withyashar</div>
+<div class="tg-footer">👁️ 80.8K · <a href="https://t.me/withyashar/14764" target="_blank">📅 10:40 · 24 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-14763">
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-text">سی‌ان‌ان: مذاکره‌کنندگان قطری برای نهایی کردن تفاهم راهی تهران شده‌اند
+شبکه آمریکایی به نقل از یک منبع مدعی شد که مذاکره‌کنندگان قطری صبح امروز در هماهنگی با ایالات متحده به سوی تهران پرواز کرده‌اند تا به تسهیل روند نهایی‌سازی توافق (یادداشت‌تفاهم) بین ایران و آمریکا کمک کنند
+@withyashar</div>
+<div class="tg-footer">👁️ 82.4K · <a href="https://t.me/withyashar/14763" target="_blank">📅 10:32 · 24 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-14762">
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">الجزیره: جمهوری اسلامی هنوز تصمیم نهایی خودشو درباره تفاهم‌نامه رو اعلام نکرده.
 @withyashar</div>
-<div class="tg-footer">👁️ 7.14K · <a href="https://t.me/withyashar/14762" target="_blank">📅 09:51 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 89.4K · <a href="https://t.me/withyashar/14762" target="_blank">📅 09:51 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14761">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">فاکس نیوز به نقل از یک مقام بلندپایه در دولت آمریکا: معتقدیم به توافقی عالی و بسیار مستحکم دست یافته‌ایم
 ایران تنگه هرمز را بدون دریافت هزینه مجدداً باز خواهد کرد
 محاصره آمریکا هم‌زمان با بازگشایی تنگه هرمز لغو خواهد شد.
 مرحله بعدی بر عملیات مین‌روبی در تنگه هرمز متمرکز خواهد بود
 @withyashar</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/withyashar/14761" target="_blank">📅 09:34 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 90.3K · <a href="https://t.me/withyashar/14761" target="_blank">📅 09:34 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14760">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1a7ce7d92b.mp4?token=fcit87iLyjtrQI3JGPKhZe2ofx1NsTIsUG6MPDNeXGeiA3w7sL2cLU5PeFNzBL7mqnYg6fAefi_FNpvZ6S8pUfKTBVlnVTHDOvVh2L7H7kAmdDDV2KnAIRfvMafgsq6ZCEVwciBIunKGz80dT6GLk7uExfG7m2X9JfPiw91FLAnpztVA_YKRTuGR1-g0KSzcv_SkFZcD1T2X50tpfBEEbvF3W5wC7Bf6GvtQWn18wLNbnSQ9WiSkEK5CGl9SklGbCuI_GzmCf7d7KGqWtmEFvVjg75xVc3hELNXkAz3Sb2Wg31vP14aXginvTu5GfGMWXmtjJI4SWTEBsOwpXCM9Ww" type="video/mp4">
@@ -321,11 +419,11 @@
 <br>
 <a href="https://cdn4.telesco.pe/file/1a7ce7d92b.mp4?token=fcit87iLyjtrQI3JGPKhZe2ofx1NsTIsUG6MPDNeXGeiA3w7sL2cLU5PeFNzBL7mqnYg6fAefi_FNpvZ6S8pUfKTBVlnVTHDOvVh2L7H7kAmdDDV2KnAIRfvMafgsq6ZCEVwciBIunKGz80dT6GLk7uExfG7m2X9JfPiw91FLAnpztVA_YKRTuGR1-g0KSzcv_SkFZcD1T2X50tpfBEEbvF3W5wC7Bf6GvtQWn18wLNbnSQ9WiSkEK5CGl9SklGbCuI_GzmCf7d7KGqWtmEFvVjg75xVc3hELNXkAz3Sb2Wg31vP14aXginvTu5GfGMWXmtjJI4SWTEBsOwpXCM9Ww" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 80.4K · <a href="https://t.me/withyashar/14760" target="_blank">📅 02:46 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/14760" target="_blank">📅 02:46 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14759">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/e8785098a7.mp4?token=Xz1c6oLYL5XEC_qXcYV8VaVLIlCiEBZ4E5-4CinkKyWowafz_ToyYEl0296IWa-RnY6PVN9kbINWrCVuyx3aPhgC4leB06r0PUl2TzDO5DFECrWw-iWwsSkQjfaZJCWrHB62O9ClTmSqtRtSw5RWgjdKSqGfyQFBBxVChIJJ6YrWMIGq_Gc61p94cmlAMY8JJf7yXqcirRGzj2Qq8erVSc3aCRwFIgs4tiJZCDuqagVW0FrxpNbzkMYybxeO9WfW9FrDLV-Xx-KEjM2husUYa35a6-doxeCASPC_pQEgrUIF2eV3wKk4eW1YX2vuc45OkFrw1-UW_Lyy1NQ3VPyPeg" type="video/mp4">
@@ -335,37 +433,37 @@
 </div>
 <div class="tg-text">توافق دیجیتال فردا
 @withyashar</div>
-<div class="tg-footer">👁️ 87K · <a href="https://t.me/withyashar/14759" target="_blank">📅 02:28 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14759" target="_blank">📅 02:28 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14758">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">دوبار تنگه دعوا شده !
 🚨
 🤣
 @withyashar</div>
-<div class="tg-footer">👁️ 99.3K · <a href="https://t.me/withyashar/14758" target="_blank">📅 01:38 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/14758" target="_blank">📅 01:38 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14757">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">قشم صدای انفجار‌
 🚨
 احتمالا از سمت تنگه
 @withyashar</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/14757" target="_blank">📅 01:33 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14757" target="_blank">📅 01:33 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14756">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">عبداللهی، سردبیر خبرگزاری تسنیم:
 احتمال توافق نهایی با آمریکا بسیار بسیار ضعیفه؛ باید برای حمله ناگهانی آماده بود.
 @withyashar</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/14756" target="_blank">📅 00:57 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/14756" target="_blank">📅 00:57 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14755">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">پست جدید کلیک کنید کارای‌ اداریش رو انجام بدید
 😁
 ✌🏾
@@ -374,144 +472,144 @@ https://www.instagram.com/reel/DZimqXCxxza/?igsh=Z3lhb2FhYWhlc2Yz
 🥴
 استقبال زیاد باشه بازیشو میسازم
 🤣</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/14755" target="_blank">📅 00:45 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/14755" target="_blank">📅 00:45 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14754">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">یک مقام ارشد اسرائیلی به وای نت:
 این یک توافق بد است. هیچ‌کس از آن راضی نیست. آنها می‌فهمند که این برای ما خوب نیست و به منافع اسرائیل آسیب می‌زند.
 چیزی که نگران‌کننده است این است که اسرائیل نمی‌تواند تأثیر بگذارد و صدایش شنیده نمی‌شود.
 این عمدتاً یک «توافق جام جهانی-جشن‌های ۲۵۰ سالگی تولد ۸۰ سالگی ترامپ» است.
 هدف این است که برای همه رویدادهای بزرگ فعلی در آمریکا کمی آرامش بخرد. واقعاً چیزی نیست که دوام بیاورد.
 @withyashar</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/14754" target="_blank">📅 00:27 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/14754" target="_blank">📅 00:27 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14753">
-<div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/14753" target="_blank">📅 00:21 · 24 Khordad 1405</a></div>
+<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/14753" target="_blank">📅 00:21 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14752">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">اتاق فایت با شما : میدون ابن سینا درگیری شده
 بین مامورا و تند روهاااا
 میدون ابن سینا رو کامل بستن
 @withyashar</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14752" target="_blank">📅 00:16 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/14752" target="_blank">📅 00:16 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14751">
-<div class="tg-post-header">📌 پیام #89</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/14751" target="_blank">📅 00:13 · 24 Khordad 1405</a></div>
+<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14751" target="_blank">📅 00:13 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14750">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">نبویان: آمریکا پیروز شد
 @withyashar</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/14750" target="_blank">📅 00:13 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14750" target="_blank">📅 00:13 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14749">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YYcsFMMiQgu7ALIT86QlRM167EmprN8BaMmK-siQLKV6v_nzKwJtlaqUJZz_1R0ZoJdbAr4wGpYcKmlnlHIULVph51w7YLSWzTbNbMCoxjIKEjQmTB2JN-z_SNNBjROXVc7lkx6YMD-7TC-ldo7bE9YT0CIgEb7Roj9bNUQfUj1YJJPCA8ofVf21Hxsx6FEH5xaR4C7XIZ-wQJ5I_veSlfn6TTHyVqKZwFXHzREORP_y3qvG0cQvlmjS41do0sjporuqWK6PibYm6PzrN8nJ1u68xnXQUZXk1GjlIW0D7W6OYANpIiQuS3dpV5ZmXyNg29WpcjVHri1UNj1cHvjflA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوخت رسان ها از تلاویو بلند شدند
 🚨
 🚨
 @withyashar</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/14749" target="_blank">📅 23:30 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/14749" target="_blank">📅 23:30 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14748">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">ظریف:
 این جماعت مخالف توافق عده‌ای نفهم هستند که هیچ درکی از واقعیت ندارند.
 @withyashar</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14748" target="_blank">📅 23:25 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/14748" target="_blank">📅 23:25 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14747">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">کانال ۱۲ اسرائیل:
 اطرافیان نتانیاهو می‌گویند: نگرانی بزرگ این است که ترامپ در بحث توافق با ایران، با ما همان کاری را بکند که اوباما با ما کرد.
 @withyashar</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14747" target="_blank">📅 23:22 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14747" target="_blank">📅 23:22 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14746">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">«زمان تنها خدای واقعی است»
 @withyashar</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14746" target="_blank">📅 23:07 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/14746" target="_blank">📅 23:07 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14745">
-<div class="tg-post-header">📌 پیام #83</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14745" target="_blank">📅 23:05 · 23 Khordad 1405</a></div>
+<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14745" target="_blank">📅 23:05 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14744">
-<div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14744" target="_blank">📅 22:59 · 23 Khordad 1405</a></div>
+<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14744" target="_blank">📅 22:59 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14743">
-<div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14743" target="_blank">📅 22:54 · 23 Khordad 1405</a></div>
+<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14743" target="_blank">📅 22:54 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14742">
-<div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14742" target="_blank">📅 22:51 · 23 Khordad 1405</a></div>
+<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14742" target="_blank">📅 22:51 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14741">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">رسانه های آمریکایی: مراسم تشییع سید علی خامنه ای رهبر سابق جمهوری اسلامی ایران در روز 4 جولای، زمانی که آمریکا روز استقلال را جشن می گیرد، برگزار خواهد کرد.
 @withyashar</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/14741" target="_blank">📅 22:19 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/14741" target="_blank">📅 22:19 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14740">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">الان روبیکا ، بله و سروش فیلتر‌ میشه
 😂
 @withyashar</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14740" target="_blank">📅 21:57 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/14740" target="_blank">📅 21:57 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14739">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">شورای هماهنگی بانک‌های دولتی:
 اختلال در سامانه‌های چهار بانک ناشی از یک حمله سایبری محدود بوده، اما هیچ‌گونه نشت اطلاعات یا دسترسی غیرمجاز به داده‌های مشتریان رخ نداده است
 @withyashar</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/14739" target="_blank">📅 21:57 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14739" target="_blank">📅 21:57 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14738">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">مقام ارشد اسرائیلی به کانال ۱۲ اسرائیل: این یه توافق مزخرفه
 @withyashar</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14738" target="_blank">📅 21:54 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/14738" target="_blank">📅 21:54 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14737">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">مردم طرفدار حکومت اعتراضاتی رو در چند استان شروع کردند @withyashar</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/14737" target="_blank">📅 21:54 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14737" target="_blank">📅 21:54 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14736">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">کارشناس شبکه افق:به زودی جنگ را به خاک آمریکا می‌بریم و دیگر قرار نیست در خاک خودمان با دشمن بجنگیم جمهوری‌ اسلامی هنوز کارت های خود را رو نکرده
 @withyashar</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/14736" target="_blank">📅 21:53 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/14736" target="_blank">📅 21:53 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14735">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/cb7b47099c.mp4?token=GOat9CXcMoT5kHcmCcELXDGZFDP0zs11wHHOssDBIjFoEETrrj8ngSGy-FHit8bjnrWWTjO6yz93OAstRQCKpgY3oStA7pH0OLp9RA1B5ARBGP43vqJwZSc7GO9rXPNKKiO98COU1QTOP8Qkb4R4Hwe2vCDQPaPG8AI1KiE-bLV78iz4dzAnvcX7hLAMp7HC3t229LeV7ThDoBN9_ZCI9RlFVVerDuaAGCqrTiJApWeX3c2AFPeTRpffjt5LAeeYLgPdFaQLpGkGzX3L1TGnTw_PvnifrVlXbAKI1CAHnhY-3DSCOYp6a5ff2x9XB1h1MSZLw8c-ia-Z21UhbSgKGA" type="video/mp4">
@@ -521,25 +619,25 @@ https://www.instagram.com/reel/DZimqXCxxza/?igsh=Z3lhb2FhYWhlc2Yz
 </div>
 <div class="tg-text">مردم طرفدار حکومت اعتراضاتی رو در چند استان شروع کردند
 @withyashar</div>
-<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/14735" target="_blank">📅 21:51 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/14735" target="_blank">📅 21:51 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14734">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">رادان : هرکس در تجمعات علیه وحدت ملی و مذاکرات شعار یا حرفی بزند بعنوان تفرقه‌افکن باهاش برخورد میکنیم.
 @withyashar</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/14734" target="_blank">📅 21:38 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14734" target="_blank">📅 21:38 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14733">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">اسرائیل هیوم: اسرائیل ملزم به امضای توافق با ایران نخواهد بود و قادر به دفاع از خود است، اما رفتار آن باید با ایالات متحده هماهنگ شود
 @withyashar</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/14733" target="_blank">📅 21:29 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/14733" target="_blank">📅 21:29 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14732">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f4U3xituq9vPlPY3MchWrpFJH15cEwSu9GiX5EXiMN24rTX5utpZYpp1S_pVcHa848IZToaTXj0eiL8rT7D8DAyw1zrY1dmxAgQ4dIulME-xrExnC4eDb5MWBmLPaTRpTd0SUNgpEJdZD59lBXsvWGe37LqMu176Oeqs1Gn6R9ky5HzQulOMvfe0FmomPGqME_c72wDboREfX0sTG8jUSlf8BPNLCKRVz99ZetzvbYRDWyeCdTcIvxGxnK70DgqRL0MSKubWwQV4oVWf-h5bmPV2egp_CKlV95KF7E0dx0FGsdB2GClpJQVp6agqzzg2AM1UEL5vDsLYpJ3-NKgdlA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ در تروث : «کتابخانه اوباما، ده سال دیگر، به “مکه” کسانی تبدیل خواهد شد که از آمریکا نفرت دارند.»
 دونالد جی. ترامپ
@@ -547,26 +645,26 @@ https://www.instagram.com/reel/DZimqXCxxza/?igsh=Z3lhb2FhYWhlc2Yz
 “Mecca”
 در زبان انگلیسی در این‌گونه کاربردها به‌صورت استعاری به معنای «مرکز تجمع»، «کانون» یا «مقصد اصلی» است و لزوماً اشاره مذهبی مستقیم ندارد
 @withyashar</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/14732" target="_blank">📅 21:26 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14732" target="_blank">📅 21:26 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14731">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">آکسیوس: انتظار می‌رود ایالات متحده و ایران، با میانجیگری پاکستان و قطر، روز یکشنبه یک نشست مجازی برگزار کنند تا به صورت الکترونیکی تفاهم‌نامه‌ای را امضا کنند که آتش‌بس را به مدت ۶۰ روز تمدید می‌کند، تنگه هرمز را بازگشایی می‌کند و مذاکرات در مورد برنامه هسته‌ای ایران را آغاز می‌کند.
 @withyashar</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/14731" target="_blank">📅 21:14 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/14731" target="_blank">📅 21:14 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14730">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">فارس: با توجه به اینکه فردا تولد ترامپ است مسئولان ایران اجازه نخواهند داد توافق فردا امضا شود
 @withyashar
 😂</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/14730" target="_blank">📅 20:58 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/14730" target="_blank">📅 20:58 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14729">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hDKlmH7Ft8Y_VBkaSZbkH1aT8FJoabXWlTEk2EF2fWYfmUgPaOC_FQEmxXx3JsQhadeHvXvIwfIwK7gTq-edAeM1zMddW1M2zenv7sBGQGr70-wackjyWCHpP6mhTB4CZCGk29lKogx3oaVWLrDk7MENp9EA305UnE7fnxjacAVb-_i355xe4YxAlN5DFG2VzZPp2STI3MXbsr0fB9ByN8IpdmDxyRuGiXfFHqVSsN98yK-Zab8L7sa1UD2DnO6uaQdGLp-bSy-gCZPoQTt4VITo1EbCya20CWpD8XoPkrIR2mKd3QPnsjsIaytcqIluPXQfx1Fb-rY1A9ouzMx7rQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ در تروث : «توافق باراک حسین اوباما با ایران، یعنی برجام، راهی آسان، هموار و بی‌دردسر برای دستیابی به سلاح هسته‌ای بود؛ سلاحی که ایران شش سال پیش به آن دست پیدا می‌کرد و مدت‌ها پیش از امروز از آن استفاده کرده بود.
 توافق من با ایران دقیقاً نقطه مقابل آن است؛ سدی در برابر سلاح هسته‌ای!
@@ -579,150 +677,150 @@ https://www.instagram.com/reel/DZimqXCxxza/?igsh=Z3lhb2FhYWhlc2Yz
 امیدواریم این روند به سرعت، آسانی و بدون مشکل به نتیجه برسد.
 اگر چنین نشود، ما گزینه نهایی را در اختیار داریم؛ گزینه‌ای که امیدواریم هرگز دوباره نیازی به استفاده از آن نباشد.
 @withyashar</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14729" target="_blank">📅 20:18 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/14729" target="_blank">📅 20:18 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14728">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">به گزارش تانکر ترکرز
 یک نفتکش VLCC دیگر مرتبط با تحریم‌ها با غیرفعال کردن سیگنال ردیابی AIS خود، محاصره نیروی دریایی آمریکا را شکست.
 این کشتی با سابقه پنج ساله نقض تحریم‌های OFAC آمریکا مرتبط با تجارت نفت ایران و ونزوئلا، می‌تواند حدود دو میلیون بشکه نفت حمل کند و به عنوان انبار شناور اضافی برای ایران عمل می‌کند.
 @withyashar</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/14728" target="_blank">📅 20:14 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/14728" target="_blank">📅 20:14 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14727">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">تلویزیون دولتی لبنان:
 شهر استراتژیک مجدل زون در نزدیکی بندر صور در جنوب لبنان به دست نیروهای ارتش اسرائیل سقوط کرد.
 @withyashar</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/14727" target="_blank">📅 19:04 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/14727" target="_blank">📅 19:04 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14726">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">الحدث به نقل از منابع آگاه:  منابع حاکی از آن است که یک هیئت ایرانی، شامل وزیر امور خارجه عراقچی، فردا وارد پاکستان خواهد شد. هیئت ایرانی بر مذاکرات فنی مربوط به این توافق نظارت خواهد داشت. @withyashar</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/14726" target="_blank">📅 19:00 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/14726" target="_blank">📅 19:00 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14725">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">باراک راوید، خبرنگار اکسیوس:
 یک مقام آمریکایی اعلام کرد که دونالد ترامپ روز سه‌شنبه در حاشیه اجلاس گروه هفت با رهبران خاورمیانه دیدار خواهد کرد.
 نتانیاهو در مذاکرات دوجانبه ترامپ با رهبران خاورمیانه در گروه هفت شرکت نکرد.
 @withyashar</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/14725" target="_blank">📅 18:43 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/14725" target="_blank">📅 18:43 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14724">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">آکسیوس:فردا توافق بین ایران و آمریکا امضا میشه. @withyashar</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/14724" target="_blank">📅 18:25 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/14724" target="_blank">📅 18:25 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14723">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">آکسیوس:فردا توافق بین ایران و آمریکا امضا میشه.
 @withyashar</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/14723" target="_blank">📅 18:16 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/14723" target="_blank">📅 18:16 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14722">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">الحدث به نقل از منابع آگاه:
 منابع حاکی از آن است که یک هیئت ایرانی، شامل وزیر امور خارجه عراقچی، فردا وارد پاکستان خواهد شد.
 هیئت ایرانی بر مذاکرات فنی مربوط به این توافق نظارت خواهد داشت.
 @withyashar</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/14722" target="_blank">📅 17:54 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/14722" target="_blank">📅 17:54 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14721">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cS441IIjH-gTxhKD07LJjB-GRQzhw9pGjIPV2VqAgfUaiGvPrY6iFhKhdqeoS71zpgmBh_nu7XCPsRIhQaFqtsjSc2m8RceQYNfln6CRNOewosfbub8OzQzlBrfLRa-wQlLUplJ1jj0Xnt0hQt_QjBLZS9SJeM0bEpUbl1FWSKEFzXvD4PtBE_u84MaUlU0zlCewHJ1JsYwuqp0eINYYS4vHp94rwqbjmlEXBz-Up_E_wQjnwH7slLRtHWy01mx2QCdaQ203cOBqz9CkZFn-hmS_dmzKBTQiyFX04ahpXx7eNfQbAieS315bfvpzkXHzikDHvi8-zaRCBvyVqbwmPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ توییت شهباز شریف نخست وزیر پاکستان را در‌تروث منتشر کرد :
 شهباز شریف: «ما اکنون بیش از هر زمان دیگری به دستیابی به یک توافق صلح نزدیک شده‌ایم. با توجه به اینکه
 انتظار می‌رود این توافق طی ۲۴ ساعت آینده نهایی شود
 ، پاکستان در حال آماده‌سازی برای امضای الکترونیکی توافق صلح بلافاصله پس از نهایی شدن آن است و پس از آن نیز گفت‌وگوهای فنی و کارشناسی در هفته آینده برگزار خواهد شد. مایلیم از ایالات متحده آمریکا و جمهوری اسلامی ایران به دلیل تعهد و همکاری مستمرشان در طول مذاکرات قدردانی کنیم و همچنین از برادران خود در منطقه بابت حمایت‌هایشان صمیمانه سپاسگزاری نماییم. ما اطمینان داریم که این توافق صلح تاریخی، بنیانی محکم برای صلحی پایدار و ماندگار فراهم خواهد کرد.»
 @withyashar</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/14721" target="_blank">📅 17:22 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/14721" target="_blank">📅 17:22 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14720">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">کانال های خبرگزاری فارس، بابک زنجانی، صرافی نوبیتکس، والکس، رمزینکس و بیت‌پین که تو یوتیوب فعالیت میکردن، به علت تحریمای آمریکا همگی مسدود شدن
 @withyashar</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/14720" target="_blank">📅 17:16 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/14720" target="_blank">📅 17:16 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14719">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">وزارت خارجه آمریکا بار دیگر درخواست ویزای مهدی محمدنبی سرپرست تیم جمهوری اسلامی و مهدی تاج رییس فدراسیون فوتبال رو رد کرد.
 @withyashar</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/14719" target="_blank">📅 16:40 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/14719" target="_blank">📅 16:40 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14718">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/egccOcIlsd6QwU6o7I_75DwWOavwJ5l4lFEC-0-f1KpgGryC_W0ik2QqI7Y6eUenWC5xXrdD1z_CfPRqu4ypize-HB5dQsOft8flyugzjI29Wy-9yHrTV71uE-Ki43tymMUINSSXjFNJbjKMbIQWfWndP_8TKViWr2vxVAL3JUX8zd3P61cj7_iTypvPepMLbelVLQKTNpKd2G_tJ-MxSk4tQXyPmp8U2KAMJhSGZU9oQUFhZ8Oagw6YbPo7jZUNLoxfgThgWRj5eFlVBdA_ezD3AHVN3fnAFKNCVS_icvf_pKUYLOLvExrxuH8oEC5OcYyBlYngtSvvncWf4EemQw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">16 تا نماینده مجلس به همراه قشر تندرو امشب جلوی وزارت خارجه تجمع اعتراضی برگزار میکنن و به روند مذاکرات اعتراض میکنن‌.
 @withyashar</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14718" target="_blank">📅 16:34 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/14718" target="_blank">📅 16:34 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14717">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">بقائی، سخنگوی وزارت خارجه:
 درباره زمان دقیق امضای تفاهم‌نامه باید منتظر بمونیم؛ اگرچه فردا نیست اما احتمال اینکه در روزهای آتی این اتفاق رقم بخوره منتفی نیست.
 @withyashar</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/14717" target="_blank">📅 16:19 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/14717" target="_blank">📅 16:19 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14716">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">نماینده مجلس خطاب به  عراقچی وزیر امور خارجه:
 مذاکره بعد از حمله نظامی، دیپلماسی نیست، مستعمره شدن است
 @withyashar</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/14716" target="_blank">📅 15:36 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/14716" target="_blank">📅 15:36 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14715">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">وزیر آموزش و پرورش: به خاطر اهمیت حضور دانش آموزان در مراسم تشییع، تقویم امتحانات نهایی بازنگری میشه و احتمالا تاریخ امتحانات عقب میوفته
 @withyashar</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/14715" target="_blank">📅 15:10 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/14715" target="_blank">📅 15:10 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14714">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">بعد از پخش آهنگ امیر تتلو از زندان که پشت تلفن اجرا شده بود، زندان تهران بزرگ تلفن او را مسدود کرد و تنها دلخوشی او هم گرفته شد.
 @withyashar</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14714" target="_blank">📅 15:06 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14714" target="_blank">📅 15:06 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14713">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">بلومبرگ: جمهوری اسلامی به‌احتمال زیاد در جریان آتش‌بس، سلاح‌های پیشرفته روسی رو به ذخایر تسلیحاتی خودش اضافه کرده.
 @withyashar</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/14713" target="_blank">📅 15:02 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/14713" target="_blank">📅 15:02 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14712">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">سازمان UKMTO گزارشی از وقوع یک حادثه در فاصله ۶ مایل دریایی (6NM) در شرق عمان دریافت کرده است.
 گزارش شده است که یک کشتی نفت‌کش در بخش جلو و سمت چپ بدنه (Port Bow) مورد اصابت پرتابه ناشناس قرار گرفته است.
 @withyashar</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/14712" target="_blank">📅 14:54 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14712" target="_blank">📅 14:54 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14711">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">نخست‌وزیر پاکستان: متن نهایی توافقنامه صلح بین ایران و آمریکا به دست آمد
 @withyashar</div>
 <div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14711" target="_blank">📅 14:31 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14710">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">جزئیات مراسم تشییع و تدفین علی خامنه ای رسما اعلام شد
 شنبه و یکشنبه
 13 و 14 تیر (19 و 20 محرم): مراسم وداع با پیکر در مصلای خمینی تهران
@@ -734,140 +832,140 @@ https://www.instagram.com/reel/DZimqXCxxza/?igsh=Z3lhb2FhYWhlc2Yz
 18 تیر (24 محرم، شب شهادت امام سجاد ): تشییع در مشهد مقدس و سپس
 خاکسپاری در حرم امام رضا
 @withyashar</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14710" target="_blank">📅 14:14 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/14710" target="_blank">📅 14:14 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14709">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">بلومبرگ به نقل از یک مقام آمریکایی:
 در صورت تحقق شرایط، واشنگتن تحریم‌های ایران را کاهش داده و اجازه ادغام این کشور در اقتصاد جهانی را خواهد داد.
 @withyashar</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/14709" target="_blank">📅 14:12 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14709" target="_blank">📅 14:12 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14708">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">فارس از احتمال حملات سایبری به ۴ بانک خبر داد
 @withyashar</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14708" target="_blank">📅 14:04 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14708" target="_blank">📅 14:04 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14707">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">تا دقایقی دیگر نحوه و زمان خاکسپاری خامنه ای را قرار رسانه های رژیم اعلام کنند.
 @withyashar</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14707" target="_blank">📅 13:47 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/14707" target="_blank">📅 13:47 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14706">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">واشنگتن پست به نقل از یک مقام دولت ترامپ: تعیین میزان پولی که ایران می‌تواند به طور بالقوه دریافت کند دشوار است زیرا بستگی به آنچه آنها ارائه می‌دهند دارد.
 @withyashar</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14706" target="_blank">📅 13:35 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14706" target="_blank">📅 13:35 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14705">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">دولت عراق خواستار تحویل سلاح نیابتی های سپاه وخروج هرچه سریعتر نیروهای سپاه از خاک عراق شد
 @withyashar</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14705" target="_blank">📅 13:24 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14705" target="_blank">📅 13:24 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14704">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">از صبح امروز شنبه ۲۳ خردادماه، سیستم بانکی سه بانک ملی، صادرات و تجارت دچار اختلال و قطعی شده و تا زمان ارسال این خبر همچنان مشکل ادامه دارد @withyashar</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14704" target="_blank">📅 13:02 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/14704" target="_blank">📅 13:02 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14703">
-<div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C2uUf_vYw28y801GQNX3qosX22HR-dUtAExm8in7RSw0MriACgYWRaFrDGLCCj9Zv9VsL6YubwJDsiEAaZVPc8kPXlcimCfq7Yi1NbI-6loTYIqQJG9aaNnCg8IzMcxUg9GbTfVWdwf8LxD5kB4tLZFcc5avKJabyIAkhcQ1ycF6P0qEr6X5FeJE7ROMtH3UiKsUL0kq8ZjfryGyn369TNGDuWRumJS5q-eQdvqe9j8l6wQf9jICxNQfwzFaSPVaeEctf5K0mBVa_xQ_Bk8WcElgKwXDkmeYMNUM-lHmq0dkkdj7oyWyDNbWsbZpA4xkTBo169Tsx8aBwv5yhNEAGA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JPVyUZRVfBWXvNU3TcvfkIVlA7U6aNyC6uX24Zh1K4ip7xIjvN2BmLfgRxuldzR2jmR7WuqfV0IoKdItK0L9BUWiG99Wu9xVsjXhBe_-62ma0z41aA-p9HzIG4UJX85SmLhZSww3i09YZDnZZ0s8w1i4jGsImBC8RoUv0uole-GWGpRAPHiaSPvT_RZ3AR7O1ODjvMGPdwtgpQkQmIpNY_nrc8Ox34X02lAzNiCRb1HB3shsqRuPWPtWiaeZLY5aljo0bdsvqcqfEp_YGLT2Wt3qKQ6g_xCDuml-3gtUnyJOvM7rU1w0klO2SQ1BAzGR4LYxR5oWOLRetc2dBwITQg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در جنوب لبنان؛ ارتش اسرائیل پرچم این کشور رو روی تپه العویدات و کنار سازه «یا حسین» نصب کرده
 @withyashar</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14703" target="_blank">📅 12:59 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/14703" target="_blank">📅 12:59 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14702">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">از صبح امروز شنبه ۲۳ خردادماه، سیستم بانکی سه بانک ملی، صادرات و تجارت دچار اختلال و قطعی شده و تا زمان ارسال این خبر همچنان مشکل ادامه دارد
 @withyashar</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14702" target="_blank">📅 12:40 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14702" target="_blank">📅 12:40 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14701">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">هوش مصنوعی رقیب جدید مدرک شد
 نتایج نظرسنجی موسسه پژوهش‌های اقتصادی «ایفو» نشان می‌دهد :
 ۲۰ درصد از شرکت‌های آلمانی استفاده‌کننده از هوش مصنوعی معتقدند که می‌توانند کارکنان دارای مدرک دانشگاهی را با نیروهای مجهز به ابزارهای هوش مصنوعی و بدون تحصیلات دانشگاهی جایگزین کنند.
 @withyashar</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/14701" target="_blank">📅 12:33 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14701" target="_blank">📅 12:33 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14700">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">️اسکات بسنت، وزیر خزانه داری آمریکا اعلام کرد که با توجه به روند پیشرفت مذاکرات، انتظار می‌رود توافق صلح با ایران «احتمالا تا پایان همین هفته (میلادی) یا اوایل هفته آینده نهایی شود.»
 @withyashar</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/14700" target="_blank">📅 12:19 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14700" target="_blank">📅 12:19 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14699">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">روزنامه خراسان (نزدیک به قالیباف):
 تفاهم ایران و امریکا قرار نیست اختلافات را حل کند؛ فقط یک فرصت است که طرفین خود را برای جنگی دیگر آماده کنند
 @withyashar</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14699" target="_blank">📅 11:34 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14699" target="_blank">📅 11:34 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14698">
-<div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OTzfdnyyOBLtNgPPVhyVPZ4S1C1A1GbfYzwJrZdaM_U5WoQQX6Ku2grxtbvt9ihYl49t-6ELpkNXN2RBepoHV-ygWQZ5Pb24_77iVV9iOMUiYJ_AEObiXlGgU1mUb_OPzdQjjvnZyQOpUcG1vH4cWv_KgOzlVVT6feYIvKqunr9iQ6_ZUfn7nlflEc596RVDb_XzEdBoN-Itg5vlyqJMCqJQrkLJvekWHc8rZofAAO6JJukr2RaNzNq8z4lS2jVKh_ldYCLdwXQXW8i_P0XNzErkwlHPaGzslUEJaialQ38EcXvUdWYk5eqqehxKA0EwH-v1hYmN35e5LLqXK_QBog.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BuFXuA6SaiGCGbWAGQ2pBMiW4wYupy3XhPS0M1zkrmhpiCN3CNxQkG8j8V6ZQtp4FRmickb7b1L2af1-hAUh3eR6txIvKMxhIuTI8CFWzUfQF2JQH0CGLA7oP_X4adYTvtZE9LmWio5QZaxdTf_Da-svd52DfnFHQXQV7UidCS9t6VStWR4es_zYPeH-gbgZlAzPiulNgnj2XaxZmEPt4cztjgUmv6E80tUjW4tvzGlUUbvWOIpEL8K1_lSB8baeZBtEB1UNiFtOsWvi9MyMDAL2zQ9uheJU9IvU3cI1MrxgS7E-0JiWfETDy0jBTwbwavL9kY47RyGkcqRaslDGYg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ستون دود الان کرج
 @withyashar</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/14698" target="_blank">📅 11:18 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14698" target="_blank">📅 11:18 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14697">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">به ادعای CNN: ایران بخش‌هایی از ذخیره اورانیوم بسیار غنی‌شده خود را با ریزش تونل‌ها و مین‌های انفجاری در اطراف ورودی‌ها مسدود کرده است. این اقدامات در پی نگرانی‌ها از احتمال عملیات آمریکا برای تصرف این مواد، دسترسی به اورانیوم را به‌طور قابل‌توجهی دشوارتر و خطرناک‌تر کرده و تلاش‌ها برای حذف یا نابودی ذخیره تحت هر توافق آینده را پیچیده می‌کند
 @withyashar</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/14697" target="_blank">📅 10:53 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14697" target="_blank">📅 10:53 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14696">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">خبرنگار آکسیوس باراک راوید: نتانیاهو امیدوار بود که جنگ منجر به تغییر رژیم در ایران شود، اما رقبایش اکنون او را متهم می‌کنند که با پذیرفتن شرایط آمریکا، اسرائیل را به (دولت دست‌نشانده) تبدیل کرده است.
 @withyashar</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/14696" target="_blank">📅 10:51 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/14696" target="_blank">📅 10:51 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14695">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">ارتش اسرائیل، هشدار فوری تخلیه برای ساکنان ۲۰ روستا در جنوب لبنان صادر کرد! پیشروی در لبنان به سرعت ادامه دارد
 @withyashar</div>
 <div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14695" target="_blank">📅 10:42 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14694">
-<div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c9tq9T8p5MUxB9LpqDmBEZOUTUCoTfeyib1NR4bCYwULzAM94THOQSN8YC6LJL29KA3Y1n2c_1NpcOrH-tIpfcM1IaIWHaaMb2vzhEpe5NF3Mf_nyfPDXaXqGYQ_52R7ndBLAgaPb-b7Uu4z5MpFSFbBlKdTZUNP7Ak9AGsNI1vqNCCCb7Pvz6MHl0j6ZqfoqfqEOfBucu5VNvj0A70nqUJsCJEHj-NQNT5vZSk14eJv6I0D5LEq-lht72DB6I4DWCYpQdr7y-ZLRdQYnBQ2h0oIbZ5wxxkCuVlti4aW6SsA5cTivJLJ4S8a71KGDUTimPGMu1m-Oxp8diFaRirSSg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lgvlMsSCudPCib3eCJ8sVjnTtoMHKNFNm3HMGawqGrgAUxznsyYn3lw5rlCXvbCn4HO430FLPEAKYHgs6fml1GKK5X2B7uG_17FxIZ39C4766GL-XTo0HI7pqY_UAzE7r4oKdJfMDW8u0cUoau3yKjZj7YD0l6ZiZ54oj0sj6DquQqJMZhjCunTZnU_mf-bS4kNOVIS62wMPzPFCLlL54onMjCEFbvgz1-BclPhSgUg5edezFRWWrp3LnFbuoRCTWijXW7kluMSrqsY_Y1Szy849xkQ5IRbMrz_v_yq5nFczkaLKK2b6tRPogBmUImg05EEkuNf1p0AjjSn7TWLevg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سنتکام (فرماندهی مرکزی ایالات متحده):
 «ایران چندین پهپاد انتحاری (یک‌بار مصرف) را با هدف حمله به کشتی‌های تجاری در حال عبور از تنگه هرمز به پرواز درآورد.
 نیروهای ایالات متحده در ساعات اخیر همه آن‌ها را سرنگون کرده‌اند و جریان تردد دریایی از طریق تنگه هرمز بدون هیچ‌گونه اختلالی همچنان ادامه دارد.
 این گذرگاه بین‌المللی تجارت همچنان برای عبور و مرور کشتی‌ها باز است.»
 @withyashar</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/14694" target="_blank">📅 10:35 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/14694" target="_blank">📅 10:35 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14693">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">صدای انفجار دزفول ناشی از امحای مهمات است
 از ساعت ۱۰ تا ۱۳ امروز شنبه ۲۳ خرداد، انفجارهای کنترل‌شده در برخی نقاط شهرستان دزفول و خارج از محدوده شهری انجام می‌شود.
 @withyashar</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/14693" target="_blank">📅 10:02 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/14693" target="_blank">📅 10:02 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14692">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">اکسیوس
 :
 برخی در واشنگتن معتقدند حتی اگر توافق اجرایی شود، نتانیاهو ممکن است بازهم بتواند نقش یک اخلالگر را ایفا کند
@@ -876,59 +974,59 @@ https://www.instagram.com/reel/DZimqXCxxza/?igsh=Z3lhb2FhYWhlc2Yz
 </div>
 
 <div class="tg-post" id="msg-14691">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">مقام اسرائیلی به یدیعوت آحارونوت: ایران هربار تصمیم بگیره در حمایت از حزب‌الله به ما حمله کنه، فوراً بهش پاسخ نظامی می‌دیم.
 @withyashar</div>
 <div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/14691" target="_blank">📅 09:43 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14690">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">محسن رضایی:
 ترامپ با آزادسازی 24 میلیارد دلار از دارایی‌های بلوکه‌شدۀ ایران موافقت کرده اما با صراحت این موضوع رو اعلام نمیکنه.
 @withyashar
 🥴</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/14690" target="_blank">📅 02:37 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/14690" target="_blank">📅 02:37 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14689">
-<div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uhQFVgaTeY4eJO2GecYtPM10yt6afIm8TsCS-FcC3zxBfdvIEWWSt6RsmKVLqAHkg9Z2l7oxvjlJETXOjFw5NzMgXYmbMF8MpE5wO6SbZ43jzk0q5seZwfA_wzB0I6sy7oIv45HGfHZBD0TCVXxQreZ2i3Nq1JBACVyVhkC-Z8kKtYV21mv20u174udQRq_B3F5tKaY269APh3NBqoCWpoO9EWXnP0h09INCJynF6tdMUGZS33QZ6rc6vSSaFGSLmD5xVo9pfwWXiK8FiNY8KBTVZ6_svjGXoxz5febqnzfZo8bMjLry4vmzTchF3X3uV7bS7we4ICAa3bALCCtQiw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Zgdrj9hUW6QGFhjRMKaKP_UZvR3o4s2tX9DY1bMhNRV2L1uX9sYFgkpTjfx-GD9KSf6zmq-iHZ2HhajGJR4jFsX-tHZVvGHAElYuQ_16-o40yGOpKpMwTNWCSsKw2eb-hScflgKoCL-vlQr934ZLAjlsgq8Ji2bF2Zs4AAy8HTNcKAVrZoS6z_V3e5HW2fN8gAQeoFUIomJcEEWvbq7_LbJE86WIQ6mZZMIpKAAl-7U6U7pomCz1qsfSyc1ue5ZbETCqIO3f44KdEvzyfU3by7bqGBRSJexEKSLafjuEnncLYdBKIqIdG1GilzB43kgbfq6o18c9DuT5fvQHrVipjw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیشروی ارتش اسرائیل در جنوب لبنان؛ ۶.۷ کیلومتر تا نبطیه
 ارتش اسرائیل به شهر ارنون رسیده و هم اکنون در حال حملات توپخانه ای سنگین به تپه علی الطاهر هستند.  l بالگرد های آپاچی ۶۴ اسرائیلی نیز به تپه علی الطاهر حمله کردند.  با تصرف این تپه مهم رسما تصرف شهر نبطیه برای اسرائیلی ها آسان خواهد شد.
 @withyashar</div>
-<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/14689" target="_blank">📅 02:02 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/14689" target="_blank">📅 02:02 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14688">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">Bombardier E-11A در منطقه توضیح در ویس @withyashar</div>
 <div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/14688" target="_blank">📅 01:46 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14686">
-<div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/k0-g8IqrNgSDmYNqy32nsDpJIwBry-_dLiF0JAtIyG01KWCqCFfrraxZmFCqSTM3vLB3vpdCczbGr4KD44wN4Zp-PoyGj9Ui2x22dvdVRq9EO1pqaCfpAVjMKvr6fIq6FY3ZvH8nqPMgoM2RDzAbDbq2-Em9N2031rdaRivjskAsIIxEZyZB5n6hpiq7afIf9y491E8R7VY978SVG_m92qaUfe7r2Glm18vbIHMWi93A6-iSMU_2MaFT8kQRZJqfSVZ3d9p2XH3TraIaQuZwNuxXkLD5ImQN5wJgC7D-j3AjwanE_35nj5hFuxsv2_u1mkwTOBOWofuxtD0keDrkcw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UnETQIUMG07rnHfSNWbtXNEFA8ei9shVC2j586An1jsL_NHouOArf2yEPW2WwhO9fPKDdbQ6iu-OD6chMxSk8YIfreXvaTlqCunlz34kU6Hk_2fdwia47s-6HBJUb0xPPcVSmDmZxIxhmwU77mwcH3fygLnMMyS7B_wJkMGlcRiI2tZ8QXPzNsYN_nWSQ_YrnRSAIV2able0QdzKnPzrOx_ipsodB8MINaUoXYw51w326P0ZL0wrSqTOMzSiYdKMwE5FCJkXAYqXrlc68HdXvl4YuNQLrpQPxkEZpYni3hlUBkP12rECXNgBgxVN-86m7moG1JjYtHr4Y6856Nm0HQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Bombardier E-11A در منطقه توضیح در ویس
 @withyashar</div>
 <div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/14686" target="_blank">📅 01:40 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14685">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/14685" target="_blank">📅 01:23 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14684">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FBvDVi1NuZGIg67IplKJOb36w_rGl4StXnS7B0Wy8FjY38pGgM21jMpXUcPK_2ktYszP3B20xOrYsEsV4WM5zMTnCwb9MFeFckhjznLFL2_iydPW7yi9U5lOnNcXfSRAop8s2uvIUlg7y_5tNXIJDVkcqm4OHQpFzjUZPImzdBwvcF00lnhzSorWwdnbFy1YHnA-hCR-zjN1HBIv2_L5ktgOzlZZA_LRvy-k30c4wufXQQnp2EUwukA3VnFHLA3X1DcgM8ApgWvjtu1QBKMI-0SooVW3ywzq-B18mTT_Auk_otKmfZOcHp05_tzHe-7J2yBBJMCHLfVp2ct5dKahBA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uWRjmaNerQWFsCI4xlD4HD-EFhO8BgyPpHilhRdUcfc4QB2a5FDmoyAd3SW1UhA60FKd8EA8InG8P-BIuApY7sF6cF92vO5BDE1JHIGB2HPw26ROjVsQ2QUUWgnWL7Lki_H3z6FoXlNb5lGyhHH2rWMIXWyWMwffrdcb_h8Bo9CqXPrtXy51_GFCnb-b_73WWVxq3Z8slNxXowavgghiaC6fQy03ePNFN9cJuJgjDaotTXYMJmDQeRiezps60kMT9t5HwRTh2VyLlx5NURYDOua6HrE1fU7jVt8VrbC-SNhlxqUD6Ux1GO8VN2e313Fg0otQF7jkq82mahSE2xgZ4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">امارات ادعای رویترز بابت آزادسازی دارایی های ایرانو تکذیب کرد
 @withyashar</div>
-<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/14684" target="_blank">📅 01:19 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/14684" target="_blank">📅 01:19 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14683">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -941,197 +1039,76 @@ https://www.instagram.com/reel/DZimqXCxxza/?igsh=Z3lhb2FhYWhlc2Yz
 instagram.com/yashar
 🌐
 t.me/withyashar</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/14683" target="_blank">📅 01:12 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/14683" target="_blank">📅 01:12 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14682">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/14682" target="_blank">📅 01:12 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14681">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/14681" target="_blank">📅 01:02 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14680">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">⁨ اتاق جنگ با یاشار :  باز‌ تنگه دعوا شد ، گزارش عجیب از حضور هواپیماهای جاسوسی آمریکا همه با هم. !!!⁩
 https://www.instagram.com/reel/DZgA2cQxrjS/?igsh=cnM5b3ViejIxcm5t
 کلیک کنید و کارهای اداری پست را انجام دهید.</div>
-<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/14680" target="_blank">📅 00:39 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/14680" target="_blank">📅 00:39 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14679">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">کاور  @withyashar</div>
 <div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/14679" target="_blank">📅 00:36 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14678">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">۳پا : کشتی هایی سعی کردند بدون مجوز از تنگه هرمز عبور کنند و مورد هدف قرار گرفتند.
 🚨
 🚨
 @withyashar</div>
-<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/14678" target="_blank">📅 00:35 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/14678" target="_blank">📅 00:35 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14677">
-<div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bPX6sUDLaWgR-bspkJZ1fteLiIJapfh0ZD2XPJaULxKwIjRDqa_vIzBzIgKsVBrLrzOmCsZbfKbxbguz80rlRyrWuX6T_qa-SBK-3JxEP7PotXzu3pEIWtGiPuVBdU-Qss41jV1N7sZ84UsnfowwiqcVojMUIjtCsT7kHvUzdXNlyNBu8zQhjn5QrQu8oAyihgRRdsHt-z5bD9vcCaAGWSdfGwvRV4gIYDS2KxZymZJvkyLFAsX4MTY0UNhmUaJesZwYjIuJGRfsrM7yf7gfXj2wUIBiF4R_9HQTHWFChHqO_f0HEfJZTGZNUq0c8uiWibmGcLK8GfXm2euFNlNGxQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JDtIDx9TLx16U2kMRSi9YAR5qWZHijmyDV4kVnYBzwa5kB9RZMiJ-2jBbeMQeyyGI7PpZRN_uG7SaueHfe8psqFwUPu2pBqfI95HJQn15TRr2oKOPMhT5cyX9G_uJXyTIiUpVf5BGWxMlCEWz_DM07l0zR827u6vzkri40ba2f_JgZSM6Sa1ZGIiko3hQzw3K1eV2O6ltfsu_ITxHjOD4k_51g5rlLuIoFAyTZPBXaP91sPqJmngrRSyER8IjXhyM1VATJRIJ4tT-345W3p_hThbUU26DmDcLQIGuqigVmtLYVShInc603g1CARKxiQjuPxHN8VIA9wzg5TXWbYJtw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاور
 @withyashar</div>
 <div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/14677" target="_blank">📅 00:30 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14676">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">تو تنگه دعوا شد
 @withyashar</div>
 <div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/14676" target="_blank">📅 00:21 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14675">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">مهر : شنیده شدن صدای انفجار در حوالی جزیره قشم و سیریک؛ گمانه‌زنی از درگیری دریایی
 بررسی‌های اولیه نشان می‌دهد، در پهنه شهرستان سیریک انفجاری رخ نداده است و احتمالا صدای شنیده شده تلاشی برای کنترل تنگه هرمز و از سوی دریا بوده است.
 @withyashar</div>
-<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/14675" target="_blank">📅 00:21 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/14675" target="_blank">📅 00:21 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14674">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/14674" target="_blank">📅 00:06 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-14673">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">صدای انفجار سیریک
 🚨
 @withyashar</div>
 <div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/14673" target="_blank">📅 23:59 · 22 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-14672">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-text">عراقچی: در مذاکرات ۶۰ روزه چند حالت رخ می‌دهد
-۱. تمدید مهلت مذاکرات در صورت خوب‌پیش‌رفتن مذاکرات.
-۲. نرسیدن به توافق، به‌علت بی‌فایده‌بودن مذاکره‌.
-بستگی به شرایط آن موقع تصمیم می‌گیریم که اگر نتیجه نگیریم چه خواهد شد.
-تنها کاری که می‌توانیم برای اورانیوم غنی‌شده انجام دهیم "رقیق‌سازی در داخل" است!
-@withyashar</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/14672" target="_blank">📅 23:22 · 22 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-14671">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-text">عراقچی:به‌زودی ایران و عمان بیانیه مشترکی در مورد اداره تنگه هرمز منتشر خواهند کرد.
-@withyashar</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/14671" target="_blank">📅 23:11 · 22 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-14670">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-text">عراقچی: عوارض نخواهیم گرفت اما هزینه خدمات میگیریم
-ممکن است در دوره ۶۰ روزه این مورد کمی متفاوت باشد
-@withyashar</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/14670" target="_blank">📅 23:07 · 22 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-14669">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-text">عراقچی:  این توافق دشمنایی داره که اسرائیل اصلی ترینشونه
-امیدواریم تفاهم‌نامه امضا بشه ولی اگر نشه وارد دور بعدی مذاکرات نمیشیم
-اگر قرار بود به تهدیدهای حمله به زیرساخت‌های خود تن دهیم، قبلاً این کار را انجام داده بودیم.
-@withyashar</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/14669" target="_blank">📅 23:03 · 22 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-14668">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-text">عراقچی: به صراحت میگم که این توافق دشمنانی داره که در راس آنها اسرائیله.
-سکوت کنن رسانه ها که برسیم به توافق خوب
-وقتی ما به توافق میرسیم که دو طرف راضی باشن
-حالا توافق 50/50 هم نیست و درصدش مهم نیست
-مهم اینه که توافق کنیم
-@withyashar</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/14668" target="_blank">📅 23:00 · 22 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-14667">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-text">عراقچی: نتیجهٔ تفاهم یک یادداشت ۱۴ ماده‌ای است و وقتی نهایی شد تک‌تک آن را به مردم می‌گوییم
-بهترین زمان برای پایان دادن به جنگ زمانی است که دست بالا را داریم؛ ما واقعاً در میدان نبرد پیروزیم.
-ما به مدت ۴۰ روز در برابر ابرقدرت ظاهری جهان ایستادیم.
-توافق و پایان جنگ، پیروزی را تثبیت خواهد کرد.
-توافق نهایی هنوز حاصل نشده است؛ اگر نهایی شود، قول می‌دهم هر بند را به طور کامل توضیح دهم.
-توافق شامل دو مرحله است و ما مسئله هسته‌ای را به مرحله دوم منتقل کرده‌ایم.
-@withyashar</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/14667" target="_blank">📅 22:56 · 22 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-14666">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e15f030f45.mp4?token=ckack44UHX5HuQCKB9rUfc-u6nhnJjm6jhtAAT9uKmRtySmM2SJ4K69u8cfTksjgQ7AM59yXUW_D9948Iu2vY5ZS0XSqZYNs6E6tLof6zaDzROi0RRtu46vAMlMWiYlGiEWhRNX9Hiq0SINP9DxVajH507Dfng5n5Lh7XedDiVEZx-ezGmHbpMVEnOf4ok6SsCLwXdpBxNAkwQTXCD4LzvBguGQ68y3wn0jL5WBcbVmC-tMCLPGxxA7cobulDtXDr1YrjOo3F51ZQx0-RfEzsgowH9Q3Mwg3jnfQKNOiobulK6ne990FcsmS60HsQ7YPbqKTV7riGYL1_zbcyvTmgg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/e15f030f45.mp4?token=ckack44UHX5HuQCKB9rUfc-u6nhnJjm6jhtAAT9uKmRtySmM2SJ4K69u8cfTksjgQ7AM59yXUW_D9948Iu2vY5ZS0XSqZYNs6E6tLof6zaDzROi0RRtu46vAMlMWiYlGiEWhRNX9Hiq0SINP9DxVajH507Dfng5n5Lh7XedDiVEZx-ezGmHbpMVEnOf4ok6SsCLwXdpBxNAkwQTXCD4LzvBguGQ68y3wn0jL5WBcbVmC-tMCLPGxxA7cobulDtXDr1YrjOo3F51ZQx0-RfEzsgowH9Q3Mwg3jnfQKNOiobulK6ne990FcsmS60HsQ7YPbqKTV7riGYL1_zbcyvTmgg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">فعال شدن پدافند مشهد
-🚨
-@withyashar</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/14666" target="_blank">📅 22:41 · 22 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-14665">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/14435d52ae.mp4?token=hrzM1rU1jJtjuefltjk67_NTnzTxdv3qOw3utmYmgEB40gA_fBnnY8YdsQIuQpW93iLU-cboNPy-FZbADAaHGXTBjesxfMD3x_MdYulewgCKuipAG6yXlkTvr5YlSgbOPteWEqTAcdXBs955T7mbZ6P4NzqnaDOFRDCTd9jEO8E_OthvNPiTPV6VW6M9-_66f-kU4Pe_bh2I4XtT1VpeZyGHfr_Z8w1tBNs2fxnc6FdqEPAEoqk8C-oVA3dXmJajt36F1vc-E4vo77N9YUFlzGHitdeexWP3oUOvOcxTTFq-ZXnfx4F-b2h2KCDU7tatl7DsLBDhux8iDYrVZ8U8Eg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/14435d52ae.mp4?token=hrzM1rU1jJtjuefltjk67_NTnzTxdv3qOw3utmYmgEB40gA_fBnnY8YdsQIuQpW93iLU-cboNPy-FZbADAaHGXTBjesxfMD3x_MdYulewgCKuipAG6yXlkTvr5YlSgbOPteWEqTAcdXBs955T7mbZ6P4NzqnaDOFRDCTd9jEO8E_OthvNPiTPV6VW6M9-_66f-kU4Pe_bh2I4XtT1VpeZyGHfr_Z8w1tBNs2fxnc6FdqEPAEoqk8C-oVA3dXmJajt36F1vc-E4vo77N9YUFlzGHitdeexWP3oUOvOcxTTFq-ZXnfx4F-b2h2KCDU7tatl7DsLBDhux8iDYrVZ8U8Eg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">گزارشهای زیاد شما از مشاهده چندین پهپاد شناسایی هم اکنون در آسمان تهران
-@withyashar</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/14665" target="_blank">📅 22:36 · 22 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-14664">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/ea29ba51ad.mp4?token=Owys0Yu7tTYKNNG9z169GH4a5ts7XlV8iLhMPZAan2BfIElUkOO-2DuW3qRsYSIJ9RQmyC7QIrVhkqsfbVnkMGcZaLdMEbKSA9u5D7t2cVCApL-uIIyDtAQxbF0HtW3TwhJWyTIeCro1wbZrR-5h2VusVJQO9QsBHMhbwu0xZKb2i3lvrIEWjwTNgxVtT-GbHeAxTe80YZXe4m7Kulw6Oy2cZZWHeXQYQwT5LeO0CRuGSdfGq26KnqJuTH_IJH46EaMcXs29qVV31rjXY2dHj4OP302vGB6yAME9C3FPwld9W1yqlom_LHDOlJUE1cRMKDpbog6zeptwnJq71DlHsQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/ea29ba51ad.mp4?token=Owys0Yu7tTYKNNG9z169GH4a5ts7XlV8iLhMPZAan2BfIElUkOO-2DuW3qRsYSIJ9RQmyC7QIrVhkqsfbVnkMGcZaLdMEbKSA9u5D7t2cVCApL-uIIyDtAQxbF0HtW3TwhJWyTIeCro1wbZrR-5h2VusVJQO9QsBHMhbwu0xZKb2i3lvrIEWjwTNgxVtT-GbHeAxTe80YZXe4m7Kulw6Oy2cZZWHeXQYQwT5LeO0CRuGSdfGq26KnqJuTH_IJH46EaMcXs29qVV31rjXY2dHj4OP302vGB6yAME9C3FPwld9W1yqlom_LHDOlJUE1cRMKDpbog6zeptwnJq71DlHsQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">سهام شرکت فضایی و موشک‌سازی SpaceX که تحت مالکیت ایلان ماسک قرار دارد، امروز برای نخستین بار در بازار بورس آمریکا عرضه شد و معاملات آن با قیمت ۱۳۵ دلار به ازای هر سهم آغاز شد.
-عرضه اولیه این شرکت توانست بیش‌ از ۷۵ میلیارد دلار سرمایه جدید جذب کند و ارزش کلی اسپیس‌ایکس را به حدود ۱.۷۸ تریلیون دلار برساند.
-در پی این جهش تاریخی، ثروت ایلان ماسک از مرز یک تریلیون دلار عبور کرد و او رسماً عنوان نخستین تریلیونر تاریخ را به خود اختصاص داد.
-در لحظه نگارش این متن هر سهم حدود ۱۷۰$ است
-@withyashar</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/14664" target="_blank">📅 22:29 · 22 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-14663">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-text">حزب‌الله:
-بر اساس آنچه مقامات ایرانی به ما گفته‌اند، اسرائیل بر اساس این توافق از خاک لبنان عقب‌نشینی خواهد کرد.
-@withyashar</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/14663" target="_blank">📅 22:25 · 22 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-14662">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">طبق گزارش ها،فرمانده کل سپاه، احمد وحیدی با شرایط متن تفاهم نامه ایران و آمریکا موافق نبوده متن تفاهم نامه با همکاری عراقچی و قالیباف تنظیم شده است و پس از مخالفت فرمانده سپاه به رهبری در ایران ارسال شده،
-رهبری در ایران نیز تاکنون مانند دفعات قبلی متن تفاهم نامه را تایید نکرده
-@withyashar
-🚨</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/14662" target="_blank">📅 21:50 · 22 Khordad 1405</a></div>
 </div>
 
 <hr>
