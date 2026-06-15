@@ -286,20 +286,20 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/Ou04dsnLMyLeZBMw8dHl5SjSHImFiWBIj2bdDDZttYYOKYMNyt6ZnzLGUIlrV-JSwl1fmRkQXmRaG2COk95WR1yZxe9zV3Yqr_vkpHkOOh12jiOYjjuhw3_0-o8G3hLAfSV0fBLOmXdSwPGttwqkA8DljftpFeFNd7UK7GJ_bEeJp1J2wJ5BGBEE-CREB0M8CGWHfTYo-VB0Y_kuPnEZeoB_50mU4kVd5q2ea0q2_d3Ai40BLonxcUFEZfeiPj-ZtS261yRsihnTdgM4AgTquYtJPuP8FHaWje7Uq0WmnIoWvaIXRPHGiG35faq5X5i8Xt3qz2nbR_p1RLaDii7pAA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/YKCziE9IZPcsvv-HBWETOa2sObC4ezLHsg9uqxjzrQ88gRMHd9JW5WRbVd8wQM3fkMnqPwKHi7s6PcCtz94N_HXJHLY_mTS72foBkhIggzoDIl4SujMOCzPiJgt0KP4-xnEmqgzJaZ8ESPfm67m2_FOFGsqyLr1fZdDbhRRzKeDHlQSYdNSTt4A7r1UzlgD-H2Urm5WWkTjlWdd3AJ12wkGLugifj2OBbVmLI2WHfiG5GO_V39LkyUyKp4ZH4wvcK5ChRuXKQvIjLV3wN8Bzu3v1j57VVd52mznXyclZavnjEovxgszUYB03BmDhwg7aygy7R_dCdCJuFtdlS0qW1Q.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو محسن طاوسی</h1>
 <p>@mohsentavoosiseo • 👥 7.54K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 کار من تالیف و تولید هست✅️.❌️نه ترجمه و خبر و  گرداوری❌️دوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-25 03:12:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-25 06:22:01</div>
 <hr>
 
 <div class="tg-post" id="msg-723">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">سوگیری شدید و نگاه صفر و صدی در جامعه ما
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/mohsentavoosiseo/723" target="_blank">📅 17:01 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.51K · <a href="https://t.me/mohsentavoosiseo/723" target="_blank">📅 17:01 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-722">
