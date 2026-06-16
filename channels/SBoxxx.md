@@ -286,211 +286,335 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/USLCfCqYskCIF0SMud0ZToiq01ZvpGn6N52cTUldo3xByn2iKXOFd1a78P2ncF2tZJYCgB1_tIjLmytkKhPJExaKTw2sfzgBiUIwrEYjioPirLwDmdIXxCV8ndtHGHCbJNz1ez1uhdJaPRomvb_xrSzLUWwcnejQvnpLNoBoPeWLxVY6P5tDctnzsxKl9T5wmdTnZiezxVwgGc3uWVOTFl3Kdfb7FgmfRYLnhfU_h272UnvOTqUbVOE5VHMKU9D5Byb6ttiwePi-zLcy1SB4VhZU43lNbg5V2uIKs8oXMWiMokxGWxQV_aW5pzloPFr7N4uD1Hu-ofKQk-oQPFj0yw.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/af_kEbLVZVYo8bUQMQglYS4c7L2xGneVevks8XljTBoTCNlUxZPo4Jm7VrlJQCjFG84BUM0rfFtDpeT7nn7-vPL0lBLR7fEj0cJYN3wQtPwByjTL-OlbEZVwJK5xNFkWMrbKSu9Bzx9HVpJGabHDlASEHT6xD-tULj1x6HCdLI8UOz7k0zZXy0JbLrHsto7MGHHZPIK58QT_VeXFiiQ9ysPSnKOaQ0St7c6r1ChQT3_fBqcacT22tKqnfNnrs2SfMgeJz32bgZf36lIfJzKiJlWIoUxSpbAacWFIFHc5fA7dQ91qW8cI-k6m4XTRmk9ifUzUltAj3tLzcSQHZR-LHA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 Secret Box</h1>
 <p>@SBoxxx • 👥 10.1K عضو</p>
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 تاریخ، ژئوپولیتیک و بازارهای مالی</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-26 16:53:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-26 21:43:22</div>
 <hr>
 
-<div class="tg-post" id="msg-17639">
+<div class="tg-post" id="msg-17652">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MzodvcT1v46vf5KoA6OiQSG4RvV09AdRIVIzrjehpTYMbpFplHssjmNSmu1GjIqLT4lxv8HUzBw9NyJRXYACa_N3Tly-FY34QDAVOaKcEmwHzr_80pQjUgbIvyAgvKMiA59aYoZsrfBsbhfXz4O8gkHtG8JdhaokUAQWQQx2jeUZ6YyRhGYFLtH53rKL4vWNOpeYZKyoIGzEpx0QCzoaCQReyu_vcbulPtYit8qFvLwt3O4eM3Z8FJh1oT6jqj10b5mYUIH_qDp-Js6Xbg_tj-coG702xA_sQM7XSCEvyAcrzNpvkoQtMHvsEIgZo0aALrGDxgg3VhnQ-7e5R52tJg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">نبیه بری و قالیباف در یک تماس تلفنی:   اسرائیل باید ملزم به توقف تخریب روستاهای لبنان و عقب‌نشینی از سرزمین‌های اشغالی شود.</div>
+<div class="tg-footer">👁️ 1.47K · <a href="https://t.me/SBoxxx/17652" target="_blank">📅 20:44 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17651">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-text">وال استریت ژورنال: ایالات متحده بلافاصله پس از امضای توافقنامه در این هفته تحریم‌های فروش نفت و سوخت ایران را لغو خواهد کرد</div>
+<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/SBoxxx/17651" target="_blank">📅 20:34 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17650">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fq8_jT7_Gz8bHvkcisd_H6IxTMXDAbXKDAGe3X4pXF7jL7BOGQ3hfO1oQR8p0BtoXD-w8OeQNwyg3Y7EVkYGX0F-hfzDVtZLjeIpdBVbgwTooHTv4_d5YVOTUExf7i9gI9C8I2gpVgXvFKjTEsVQ7iurfbh_UdyNBicvqABS7ODFYDtqL1KnBFGmNkVkye3iODk5OnXpuJwLfw2nEdIQAn3hVo4KkJLFKoHG60hIeQCmNhK-7AeDjU53RR_xJzlkeIRet0t9zjPZ3tlg7_p5sdMCaoBiRNao9wZdiEDe0dKxsW6ghWgf_imGPQUyYHzMtVTZIpYhDLTj_ohgF4nXuA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">#USOIL — H2  در محدوده مشخص شده می شود به دنبال موقعیتهای خرید باشیم.</div>
+<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/SBoxxx/17650" target="_blank">📅 20:30 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17649">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/u1wF-VNGsX6_645-cl2wYUSXfx00IOSv83-yn5kKF7sHmfmLySfW_jPf6aH1Zow-VEbi4Vg8T2TvGBv6c_-oJ5yGZH00-a-USi7We-7ORD7Ujyiyb4BMo-FRa-fYkmZ3IpDAFrfuszDaI53klLDd4bdN702r78eLoNx3BJgvpuLBbDKRsFQujIX-XukyEby5oSfoVdW1opuEjo4O5v6Jts77QoTW1rfEaBJvMB7lTgCUCHD8bcvq0IW5azlBObL9mdAzKhO1sGT23i22GMvMA_5LaKTu_hZVokbIeWHl85eOLM2777jaD5b1uVmBSKZfDZYm9uOU6uTiSHQkn1UScw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">#USOIL
+— H2
+در محدوده مشخص شده می شود به دنبال موقعیتهای خرید باشیم.</div>
+<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/SBoxxx/17649" target="_blank">📅 20:28 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17648">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Sxud7TyvegV4zt0J2uUiOl5CyHWiE3J2nI1P1SLEfhfxYabmw1RMNoYkjVVRYTTfv-QLKnBNjPVH4690Lad70nX_yX4nGQFDhnOjiMFw2o-x5cQqSLcuvBI1MQZMbDV5tQTZmZkjNzq4_LMU79EgmhflvoBKyMougQpT53xPb6BxQROWhfnXpEItmGVoFOVBKZXKb7gRtpGc9ZhA-S_IoVoJGUBJzKk6nVxIMn0VhQH0YcKq8pu7ZZ_Xp9SrFka4uw6an54FeDNr8X6-4b1SW72nYi_zoLu1TYOCrtpU5D4kBdNF0_oT_GUQjnL510KNBIukNG9M6J1y700o6MwaTg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">اعلام وضعیت جانفدایان</div>
+<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/SBoxxx/17648" target="_blank">📅 20:16 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17647">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-text">برآوردهای اطلاعاتی آمریکا: ایران از این پس هر زمان که بخواهد قادر خواهد بود تنگه هرمز را مسدود کند. «این سلاحی قوی‌تر از هسته‌ای است» (سی‌ان‌ان)</div>
+<div class="tg-footer">👁️ 2K · <a href="https://t.me/SBoxxx/17647" target="_blank">📅 20:14 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17646">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-text">العربیه به نقل از منبع آگاه دربارهٔ سند توافق:  سند توافق بر پایان فوری و دائمی جنگ در تمامی جبهه‌ها تأکید دارد.
+🔸
+سند توافق بر پایان فوری و دائمی جنگ در لبنان تأکید دارد.
+🔸
+ایالات متحده و ایران بر اساس این توافق متعهد می‌شوند که هیچ‌گونه «اقدام خصمانه‌ای» علیه یکدیگر انجام ندهند.
+🔸
+ایالات متحده و ایران طبق این توافق از دخالت در امور داخلی یکدیگر خودداری خواهند کرد.
+🔸
+سند تفاهم میان ایران و آمریکا تأیید می‌کند که مهلت مذاکرات با موافقت دو طرف قابل تمدید است.
+🔸
+آمریکا بر اساس سند تفاهم، بلافاصله پس از امضای توافق، محاصره دریایی ایران را لغو خواهد کرد.
+🔸
+آمریکا طبق این تفاهم متعهد می‌شود که ظرف ۳۰ روز پس از توافق نهایی، نیروهای خود را از مناطق پیرامون ایران خارج کند
+🔸
+ایران بر اساس این تفاهم، اقداماتی را برای تضمین ازسرگیری تردد کشتی‌های تجاری در تنگه هرمز انجام خواهد داد.
+🔸
+ایران بر اساس این توافق موظف است مین‌های دریایی موجود در تنگه هرمز را پاکسازی و برچیند.</div>
+<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/SBoxxx/17646" target="_blank">📅 20:13 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17645">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-text">چین می‌گوید مرحله بعدی مذاکرات آمریکا و ایران «سخت‌تر» خواهد بود
+وزیرخارجه چین روز سه‌شنبه به همتای پاکستانی خود گفت که مرحله پیش‌رو از مذاکرات بین آمریکا و ایران انتظار می‌رود «سخت‌تر» باشد.
+وزیر امور خارجه چین، وانگ یی در تماس تلفنی با اسحاق دار از پاکستان پیش از امضای برنامه‌ریزی شده یادداشت تفاهم آمریکا و ایران در روز جمعه، ، گفت که «قابل پیش‌بینی است که، در مقایسه با مرحله اول، مرحله دوم مذاکرات سخت‌تر خواهد بود.»
+طبق بیانیه وزارت امور خارجه چین، وانگ همچنین گفت که شورای امنیت سازمان ملل «باید نقش بیشتری» در حمایت از مذاکرات ایفا کند.
+«اجماع کنونی فاصله زیادی با مقصد نهایی دارد، بلکه یک نقطه شروع جدید است».
+«دستیابی به صلح پایدار در خاورمیانه و منطقه خلیج فارس هنوز نیازمند تلاش‌های بی‌وقفه همه طرف‌ها است»، وانگ افزود و گفت که چین آماده همکاری با پاکستان در پیشبرد ابتکارات صلح است.
+(خبرگزاری فرانسه)</div>
+<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/SBoxxx/17645" target="_blank">📅 18:30 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17644">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromCyclical Waves</strong></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/daa8ZtISjsA0TTdCVr6nqMTeR-Q0er6iDgjTy-CBUxwn_PFmGPIJfJfXzow5hOHbz4iSkfvZX9E77iMq8FZHjZGCLPZE80xdYD4sl096vmxYw02mCrLIAB8X642EW5dcRmt2KmkTlV4mV2Ztc7HFMi6I8G-R5gPQzc4tcvPJqdU7ivnxyBwDSMEFuffmlPPC-uSw1H8M1ICP7N1QO6Y-o4yJwf8nOJ0LMxNBhmFygHedE6rJ9OX3LILVz3HQQRGdCRE9hsFOjhdfnndDYwhIOHoRzcR7P9YnaLU_3HqZ5ZkqthFDWX00g7K4lVme8Tpw4FcNfHYGuZferk9FkqemrQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">📌
+نشست فدرال رزرو: چرا نخستین حضور کوین وارش از خودِ تصمیم نرخ بهره مهم‌تر است؟
+نشست ژوئن فدرال رزرو بیش از آنکه به تصمیم نرخ بهره مربوط باشد، بر نخستین حضور کوین وارش به‌عنوان رئیس جدید متمرکز است؛ فردی که می‌تواند رویکردی متفاوت در سیاست‌گذاری و ارتباطات بانک مرکزی آمریکا ایجاد کند.
+سرمایه‌گذاران به دنبال نشانه‌هایی از مسیر آینده سیاست پولی هستند و انتظار دارند اظهارات وارش درباره تورم، نرخ بهره و استقلال فدرال رزرو تأثیر بیشتری از خودِ تصمیم نرخ بهره بر بازارها داشته باشد.
+🔗
+ادامه یادداشت را از اینجا بخوانید!
+💬
+ارتباط با پشتیبانی :
+@cyclicalwavessupport
+📌
+کانال ما :
+@cyclicalwaves</div>
+<div class="tg-footer">👁️ 2.66K · <a href="https://t.me/SBoxxx/17644" target="_blank">📅 18:17 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17643">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-text">ادامه ترورهای اسراییل ضد حزب الله در جنوب لبنان</div>
+<div class="tg-footer">👁️ 2.96K · <a href="https://t.me/SBoxxx/17643" target="_blank">📅 18:02 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17642">
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-text">سوگمندانه جامعه سرمایه گذاری جهانی خیلی به تهدیدات ما اهمیت نداد و فقط شرکت SpaceX ماسک ملعون پس از عرضه اولیه دیروز به ارزش بازار 2.2 هزار میلیارد دلار رسید!  دقت کنید 2200 میلیارد دلار!  ثروت خود ماسک نیز از 1000 میلیارد دلار فراتر رفت.</div>
+<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/SBoxxx/17642" target="_blank">📅 17:34 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17641">
+<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-text">ونس می‌گوید بازرسان هسته‌ای «قطعاً» بر اساس توافق ایالات متحده به ایران بازخواهند گشت
+ونس در مصاحبه‌ای روز دوشنبه با شبکه خبری ان‌بی‌سی اعلام کرد که بازرسان هسته‌ای «قطعاً» اجازه بازگشت به ایران را در چارچوب توافقی با ایالات متحده خواهند داشت.
+«در واقع، یکی از بخش‌های اصلی این توافق این است که (آژانس بین‌المللی انرژی اتمی) و ایالات متحده به ایران کمک خواهند کرد تا ذخایر غنی‌سازی شده را نابود کنند و این موضوع به‌طور بسیار شفاف در یادداشت تفاهم قبلاً توافق شده بین واشنگتن و تهران ذکر شده است»،
+ونس همچنین اذعان کرد که یادداشت تفاهم مقدماتی مسائل دشوار، به‌ویژه برنامه هسته‌ای ایران را فعلاً حل‌نشده باقی می‌گذارد.
+«یادداشت تفاهم حدود یک و نیم صفحه است، بنابراین سند بسیار کلی است»، ونس به سی‌ان‌ان گفت.</div>
+<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/SBoxxx/17641" target="_blank">📅 17:10 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17640">
+<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-text">ترامپ: کلمه به کلمه متن توافق را برایتان می‌خوانم
+من نه تنها آن را منتشر خواهم کرد. احتمالاً یک کنفرانس مطبوعاتی خواهم داشت و کلمه به کلمه آن را برای شما خواهم خواند تا مطبوعات آن را به طور دقیق پوشش دهند زیرا این یک سند بسیار مهم است.</div>
+<div class="tg-footer">👁️ 3.38K · <a href="https://t.me/SBoxxx/17640" target="_blank">📅 17:08 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-17639">
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">وقتی میگوییم ابهام یعنی همین که الان ایران می‌گوید نه تنها باید آتش بس در لبنان برقرار بشود بلکه اسراییل باید از سرزمین های متصرفه عقب نشینی هم بکند اما در سوی مقابل اسراییل دنبال پیشروی بیشتر در خاک لبنان است و ترامپ هم می‌گوید جنگ در لبنان ربطی به توافق با ایران ندارد!</div>
-<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/SBoxxx/17639" target="_blank">📅 15:03 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.75K · <a href="https://t.me/SBoxxx/17639" target="_blank">📅 15:03 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17638">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">ترامپ: اگر اسرائیل به لبنان حمله کند، باز هم توافق می‌تواند دوام بیاورد</div>
-<div class="tg-footer">👁️ 2.37K · <a href="https://t.me/SBoxxx/17638" target="_blank">📅 14:47 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.8K · <a href="https://t.me/SBoxxx/17638" target="_blank">📅 14:47 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17637">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">— رئیس‌جمهور آمریکا ترامپ:   قطر و ایران مرز زمینی مشترک دارند و می‌توان از یکی به دیگری پیاده رفت.</div>
-<div class="tg-footer">👁️ 2.98K · <a href="https://t.me/SBoxxx/17637" target="_blank">📅 13:52 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/SBoxxx/17637" target="_blank">📅 13:52 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17636">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">— رئیس‌جمهور آمریکا ترامپ:
 قطر و ایران مرز زمینی مشترک دارند و می‌توان از یکی به دیگری پیاده رفت.</div>
-<div class="tg-footer">👁️ 3.04K · <a href="https://t.me/SBoxxx/17636" target="_blank">📅 13:52 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.04K · <a href="https://t.me/SBoxxx/17636" target="_blank">📅 13:52 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17635">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/etf2YpxowWHNTUl_UvKJdHOJryuAPvK6ZrdsNkWN24_ty05zLci4F6B2glPQ_UCr2ftlFupq5vY1ub3Yj22pRBsaNpQ114k5oinaw7_uR8SrCq-l9Qg8RaJqXissvgBWafzmar6S4fdq8-fEf6De8y14mQ5dq_3Vz_-PZ2EXazY8rkvHJViVyliF0YUWE9E4xqJfB6AalcyoU3az4RIA8yXCeByDBuE_w0M3odz2lnYzekd6dwcCM3FIZ0TWqhw-VvWCzvG8k8ArLvvDPjzhxzQO-e5UPZubbNlM3iuKVHaRePFQ7bIce05p67krvpgZj_co_LgFFYMVb71KhcO2ag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🟢
 سطح اطمینان کاربران پیام‌رسان های داخلی از پایداری اتصال:</div>
-<div class="tg-footer">👁️ 3.04K · <a href="https://t.me/SBoxxx/17635" target="_blank">📅 13:41 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.93K · <a href="https://t.me/SBoxxx/17635" target="_blank">📅 13:41 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17634">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">گویا گروه‌های مسلح تجزیه طلب کردی با حزب الله طاق زده شده اند.</div>
-<div class="tg-footer">👁️ 3.04K · <a href="https://t.me/SBoxxx/17634" target="_blank">📅 13:32 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.82K · <a href="https://t.me/SBoxxx/17634" target="_blank">📅 13:32 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17633">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">این هم سندی که در پست ریپلای شده در Secret Box قرار داده شد:
 ترامپ: اگر اسرائیل نتواند کار را بدون این همه کشتار انجام دهد، سوریه باید این کار را انجام دهد|</div>
-<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/SBoxxx/17633" target="_blank">📅 13:29 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.95K · <a href="https://t.me/SBoxxx/17633" target="_blank">📅 13:29 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17632">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">ترامپ: من از نتانیاهو خشمگین نیستم!</div>
-<div class="tg-footer">👁️ 3.02K · <a href="https://t.me/SBoxxx/17632" target="_blank">📅 13:28 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.8K · <a href="https://t.me/SBoxxx/17632" target="_blank">📅 13:28 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17631">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">خود لبنان نادیده گرفته شده بعد اینها دنبال اضافه شدن غزه هستند!  چی در فلافل هایتان میریزید؟</div>
-<div class="tg-footer">👁️ 3.02K · <a href="https://t.me/SBoxxx/17631" target="_blank">📅 13:27 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.84K · <a href="https://t.me/SBoxxx/17631" target="_blank">📅 13:27 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17630">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">عراقچی: هرگونه حمله نظامی اسرائیل به لبنان ، نقض یادداشت تفاهم محسوب می‌شود</div>
-<div class="tg-footer">👁️ 3.07K · <a href="https://t.me/SBoxxx/17630" target="_blank">📅 13:26 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/SBoxxx/17630" target="_blank">📅 13:26 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17629">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">رئیس‌جمهور فرانسه ماکرون: بازگشایی هرمز باید بدون عوارض انجام شود</div>
-<div class="tg-footer">👁️ 3.01K · <a href="https://t.me/SBoxxx/17629" target="_blank">📅 13:25 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.79K · <a href="https://t.me/SBoxxx/17629" target="_blank">📅 13:25 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17628">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">تیم پروفسور رولکص آبادی مقابل ضعیف ترین تیم گروه به زور مساوی کرد و از شکست گریخت!</div>
-<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/SBoxxx/17628" target="_blank">📅 13:20 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.84K · <a href="https://t.me/SBoxxx/17628" target="_blank">📅 13:20 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17627">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">ترامپ: توافق ایران یک توافق عادلانه و خوب است</div>
-<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/SBoxxx/17627" target="_blank">📅 13:11 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.75K · <a href="https://t.me/SBoxxx/17627" target="_blank">📅 13:11 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17626">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">ترامپ: توافق ایران یک توافق عادلانه و خوب است</div>
-<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/SBoxxx/17626" target="_blank">📅 13:11 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.72K · <a href="https://t.me/SBoxxx/17626" target="_blank">📅 13:11 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17625">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">https://telegra.ph/%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%A8%D8%B9%D8%AF%DB%8C-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B2%DB%8C%D8%B1%D8%B3%D8%A7%D8%AE%D8%AA%E2%80%8C%D9%87%D8%A7-%D8%A8%D9%87-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%86%D8%A8%D8%B1%D8%AF…</div>
-<div class="tg-footer">👁️ 3.3K · <a href="https://t.me/SBoxxx/17625" target="_blank">📅 12:22 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.84K · <a href="https://t.me/SBoxxx/17625" target="_blank">📅 12:22 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17623">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">این مسئله لبنان حل نشود کل توافق روی هوا خواهدرفت. مگر اینکه طبق حدس من اساساً از همان آوریل حزب الله را معامله کرده باشند.</div>
-<div class="tg-footer">👁️ 3.35K · <a href="https://t.me/SBoxxx/17623" target="_blank">📅 12:10 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.8K · <a href="https://t.me/SBoxxx/17623" target="_blank">📅 12:10 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17622">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromآرش رئیسی‌نژاد</strong></div>
 <div class="tg-text">https://telegra.ph/%D9%85%D8%B1%D8%AD%D9%84%D9%87-%D8%A8%D8%B9%D8%AF%DB%8C-%D8%AC%D9%86%DA%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B2%DB%8C%D8%B1%D8%B3%D8%A7%D8%AE%D8%AA%E2%80%8C%D9%87%D8%A7-%D8%A8%D9%87-%D9%85%DB%8C%D8%AF%D8%A7%D9%86-%D9%86%D8%A8%D8%B1%D8%AF-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%D9%85%DB%8C%E2%80%8C%D8%B4%D9%88%D9%86%D8%AF-06-16
 @Iran_Simorq</div>
-<div class="tg-footer">👁️ 3.44K · <a href="https://t.me/SBoxxx/17622" target="_blank">📅 11:10 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.84K · <a href="https://t.me/SBoxxx/17622" target="_blank">📅 11:10 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17621">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">چگونه روسیه غرب را پشت سر گذاشت و افغانستان را به یک متحد استراتژیک تبدیل کرد
 (مقاله یک سایت هوادار بلوک جنوب)
 مسکو پس از دهه‌ها از زمانی که نیروهای شوروی ابتدا وارد این منطقه شدند، بار دیگر به ایجاد شراکت‌های پایدار و متقابل در افغانستان بازگشته است، اما این بار بدون به‌کارگیری حتی یک تانک یا شلیک یک گلوله. در حالی که قدرت‌های غربی سال‌ها در تحمیل کنترل مطلق بر این منطقه ناکام ماندند، روسیه از طریق دیپلماسی به یک پیروزی ژئوپلیتیکی عظیم دست یافت، فروپاشی کامل نفوذ غرب را آشکار کرد و یک میدان نبرد سابق را به یک متحد قابل اعتماد تبدیل نمود.
 با به رسمیت شناختن رسمی طالبان به عنوان دولت مشروع، کرملین یک تعامل محتاطانه را به یک شراکت استراتژیک کامل و جامع تبدیل کرد. این اتحاد فراتر از سیاست صرف است و رونق اقتصادی عظیمی برای هر دو طرف ایجاد می‌کند. روسیه اکنون میلیون‌ها تن سوخت و گندم با تخفیف سنگین را مستقیماً به این منطقه تأمین می‌کند. در مقابل، شرکت‌های روسی به دسترسی انحصاری به ذخایر گسترده مس، لیتیم و مواد معدنی کمیاب دست یافتند که منابع حیاتی را تأمین کرده و رفاه اقتصادی بلندمدت را تضمین می‌کند.
 یک پیمان دفاعی جدید در مسکو کانال‌های رسمی اشتراک اطلاعات برای مقابله با تهدیدات منطقه‌ای مشترک مانند داعش خراسان (IS-K) ایجاد می‌کند. علاوه بر این، این همکاری مستقیم کاملاً پاکستان را دور می‌زند و سرانجام بازی دوگانه دهه‌هاه اسلام‌آباد را که میلیاردها دلار کمک خارجی دریافت می‌کرد و در عین حال نیروهای رادیکال منطقه را پرورش می‌داد، پایان می‌دهد.
 برای غرب، این یک شکست ساختاری فاجعه‌بار در صفحه شطرنج جهانی است. اوراسیا اکنون به طور محکم تحت کنترل بازیگرانی است که به طور کامل قواعد به اصطلاح مبتنی بر نظم را که نخبگان جهانی تبلیغ می‌کنند، رد می‌کنند. غرب در این بازی بزرگ جدید به شدت شکست می‌خورد.</div>
-<div class="tg-footer">👁️ 3.47K · <a href="https://t.me/SBoxxx/17621" target="_blank">📅 10:45 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/SBoxxx/17621" target="_blank">📅 10:45 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17620">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">جیسون برودسکی:
 کوشنر در دیدار آوریل خود در اسلام‌آباد با محمدباقر قالیباف، رئیس مجلس ایران، به او صریحاً گفت: اگر قیمت رولزرویس می‌خواهید، باید محصول رولزرویس ارائه دهید.
 به عبارت دیگر، اگر ایران با باز نگه‌داشتن تنگه هرمز، توقف غنی‌سازی اورانیوم به مدت ۲۰ سال و توقف صدور انقلاب خود همکاری کند، می‌تواند صدها میلیارد دلار به دست آورد</div>
-<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/SBoxxx/17620" target="_blank">📅 09:06 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.97K · <a href="https://t.me/SBoxxx/17620" target="_blank">📅 09:06 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17619">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">— جان راتکلیف، مدیر سیا، به ترامپ هشدار داده که ارزیابی‌های اطلاعاتی ایالات متحده نشان می‌دهد ایران ممکن است مایل به اعطای امتیازات هسته‌ای مورد نیاز برای یک توافق نهایی نباشد.
 مارکو روبیو، وزیر امور خارجه، و پییت هگست، وزیر دفاع، نگرانی‌های مشابهی را بیان کردند، در حالی که جی‌دی وانس، معاون رئیس‌جمهور، و نمایندگان ویژه ایالات متحده استیو ویتکوف و جرد کوشنر از این توافق حمایت کردند.
 اطلاعاتی که توسط مقامات ارشد ایالات متحده بررسی شد، نشان می‌داد که برخی مقامات ایرانی در مورد این توافق به روش‌هایی در داخل بحث می‌کردند که با پیام‌هایی که به میانجی‌گران و مذاکره‌کنندگان ایالات متحده منتقل می‌شد، ناسازگار به نظر می‌رسید.
 — اکسیوس</div>
-<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/SBoxxx/17619" target="_blank">📅 08:21 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/SBoxxx/17619" target="_blank">📅 08:21 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17618">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">شوخی ایرانی ها با تفاخر متعفن قلعه نوعی با ساعت ۱۰ میلیاردی اش!</div>
-<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/SBoxxx/17618" target="_blank">📅 08:15 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/SBoxxx/17618" target="_blank">📅 08:15 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17617">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">— ترامپ:
 «ایران موافقت کرده است که هرگز سلاح هسته‌ای نداشته باشد! همچنین، این داستان که ایالات متحده ۳۰۰ میلیون دلار به ایران پرداخت می‌کند، خبر جعلی است که توسط دموکرات‌ها منتشر شده است.»</div>
-<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/SBoxxx/17617" target="_blank">📅 08:13 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SBoxxx/17617" target="_blank">📅 08:13 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17616">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">خبرگزاری مهر : شنیده شدن صدای سه انفجار در قشم</div>
-<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SBoxxx/17616" target="_blank">📅 01:34 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/17616" target="_blank">📅 01:34 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17615">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">جی‌دی ونس، معاون ترامپ:
 ایران باید تأمین مالی سازمان‌ های تروریستی خشونت‌ آمیز و عوامل بی‌ثبات کننده در منطقه را متوقف کند! نمی‌توان با اطمینان ۱۰۰٪ گفت که ایران به تمام تعهدات خود پایبند خواهد ماند.</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/17615" target="_blank">📅 01:19 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/17615" target="_blank">📅 01:19 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17614">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">تسنیم :
 رفع محاصره دریایی عملیاتی شد</div>
-<div class="tg-footer">👁️ 4.56K · <a href="https://t.me/SBoxxx/17614" target="_blank">📅 00:33 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SBoxxx/17614" target="_blank">📅 00:33 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17613">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">ارتش لبنان در حال عقب نشینی از شهر نبطیه به سمت شمال لبنان است.</div>
-<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/17613" target="_blank">📅 00:13 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/17613" target="_blank">📅 00:13 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17612">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/c4237e85c2.mp4?token=Ez35u3Rncr8abvOo7L6oFuDfkzeUJUqLf7DippxlsMZU3ubHA0WlpZwa6km4Of0Fu2fd2CagHLC2mgR-ZrTZuwzwG70QMT0nIOtRkZNfE-N3eGOTHDHpwZCImRi93dhHBHVu9LbXbquXwiUBJtA8IPrRuo-3kOPHOwiEX2YqiRf8vvqAfxuCKImKdZYIZ-J2iKOiwYTFoy3xis6HBZqPIoNWpUeU_zUKZb4rUNpyZqHmg9t_OUMpfwNI80jRol9f2gga3pegEGzq-iK0Ad0pPKrig02qKCulDN_NPuSqJABxjVzSQ0NQWydVAIec23uHcPiWmngrDaXCXn4hsvCFFiSTVMED1pIZD5aqNROwbRVG0qegr_ojRRdgkKWlwbg1uZMhGjMz0uMQk9l89S-SUhb2mUXGfRycA-aOTXXMi3BH7kLM8hfVRCcqtu9IGb8SmqHvokR932iljkVSkc47I2x2-Bi8ZKyNZs_yXvfK6cxTr7oNRbq-hqDurwxNeBwTxIPdvvktQtjaXwOlAMgd9Q8RMFfbbDWNgzSlMCh14M5G5pw09k2cqV57UOdol0uJEIC975KYDE7-2_MkR3C6Keve9sGcjkdegJa9R9OqDn3JrZhJu8P_wzuwiPURy0rnr4S_IU9waRy9wp2iiscjclfEc5nM-AFbAZD5MZ-YLT0" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/c4237e85c2.mp4?token=DLX3HeU7hSdkYbJryg-ss32DXoY9EJfdInySGhyy6Zlju656M9l4iiWDZnJHNy-8xiLDZS7LN1vGXqmlSO7tlNWlsTWWqds42Sujh-jj7bZMdrznI-x1BGdyFNG0zWm6CFwCET6sLRFYsD8Wfh1jUPjCkbFuKbZgFxMt7j0KsUmkD2F6JvIJePR5F5bhjRuc58qk_RbeyhIKYEU37g0txBWhuX4jQjGjrgk3qtxNUn2_P1OpLtzbABB-KMmXxC7oyIe3bMsCncg-PEHzFAWKtScIYwTUJjHyLHwEzRwuA6Dyre5xmysZCR7u9HPSCfm70Ugmv0Tx8s8G-sR7Gpr6rk2vCoKbsaW76vD8GdK8ScWc-pV2X9aL73KriGedfCXpfmzIMMT0tvQHhmg2lTpxModgS_SugSmmz9zyEm-5zXTvFBhNVh5RHBH3-3EDYbc_aoUXtShphdJeTHPB__bBhP2xPQ4McOFw9o-FF8kBL0PzYbPTW-KDcQyhPYOglBzRMG-A0QNjMdjf9c_wQVU18bX1wMerpgahkXldswt_o7l6F_nlwiGtcI8hlw9ReUIbuznnNZTc0uXZUlLFsErrrhSUOzcD7-TSd6s-XMeCDSYJEy3xE0SSgsX5y9LGJzTS4QpXU9_-FkYVMTcs090i7NjfKQqMiTAPzLPTyTf0jjg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/c4237e85c2.mp4?token=Ez35u3Rncr8abvOo7L6oFuDfkzeUJUqLf7DippxlsMZU3ubHA0WlpZwa6km4Of0Fu2fd2CagHLC2mgR-ZrTZuwzwG70QMT0nIOtRkZNfE-N3eGOTHDHpwZCImRi93dhHBHVu9LbXbquXwiUBJtA8IPrRuo-3kOPHOwiEX2YqiRf8vvqAfxuCKImKdZYIZ-J2iKOiwYTFoy3xis6HBZqPIoNWpUeU_zUKZb4rUNpyZqHmg9t_OUMpfwNI80jRol9f2gga3pegEGzq-iK0Ad0pPKrig02qKCulDN_NPuSqJABxjVzSQ0NQWydVAIec23uHcPiWmngrDaXCXn4hsvCFFiSTVMED1pIZD5aqNROwbRVG0qegr_ojRRdgkKWlwbg1uZMhGjMz0uMQk9l89S-SUhb2mUXGfRycA-aOTXXMi3BH7kLM8hfVRCcqtu9IGb8SmqHvokR932iljkVSkc47I2x2-Bi8ZKyNZs_yXvfK6cxTr7oNRbq-hqDurwxNeBwTxIPdvvktQtjaXwOlAMgd9Q8RMFfbbDWNgzSlMCh14M5G5pw09k2cqV57UOdol0uJEIC975KYDE7-2_MkR3C6Keve9sGcjkdegJa9R9OqDn3JrZhJu8P_wzuwiPURy0rnr4S_IU9waRy9wp2iiscjclfEc5nM-AFbAZD5MZ-YLT0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/c4237e85c2.mp4?token=DLX3HeU7hSdkYbJryg-ss32DXoY9EJfdInySGhyy6Zlju656M9l4iiWDZnJHNy-8xiLDZS7LN1vGXqmlSO7tlNWlsTWWqds42Sujh-jj7bZMdrznI-x1BGdyFNG0zWm6CFwCET6sLRFYsD8Wfh1jUPjCkbFuKbZgFxMt7j0KsUmkD2F6JvIJePR5F5bhjRuc58qk_RbeyhIKYEU37g0txBWhuX4jQjGjrgk3qtxNUn2_P1OpLtzbABB-KMmXxC7oyIe3bMsCncg-PEHzFAWKtScIYwTUJjHyLHwEzRwuA6Dyre5xmysZCR7u9HPSCfm70Ugmv0Tx8s8G-sR7Gpr6rk2vCoKbsaW76vD8GdK8ScWc-pV2X9aL73KriGedfCXpfmzIMMT0tvQHhmg2lTpxModgS_SugSmmz9zyEm-5zXTvFBhNVh5RHBH3-3EDYbc_aoUXtShphdJeTHPB__bBhP2xPQ4McOFw9o-FF8kBL0PzYbPTW-KDcQyhPYOglBzRMG-A0QNjMdjf9c_wQVU18bX1wMerpgahkXldswt_o7l6F_nlwiGtcI8hlw9ReUIbuznnNZTc0uXZUlLFsErrrhSUOzcD7-TSd6s-XMeCDSYJEy3xE0SSgsX5y9LGJzTS4QpXU9_-FkYVMTcs090i7NjfKQqMiTAPzLPTyTf0jjg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">آسیب دیدن خبرنگار Press TV هنگام حمله پهپادی اسرائیل در لبنان</div>
-<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SBoxxx/17612" target="_blank">📅 00:01 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/17612" target="_blank">📅 00:01 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17611">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">فرمانده نیروی قدس سپاه پاسداران: باب‌المندب یکی از برگ‌های برنده جبهه مقاومت است و در صورت لزوم، برگ‌های دیگری نیز بازی خواهد شد. - صدا و سیما.</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/17611" target="_blank">📅 23:50 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/17611" target="_blank">📅 23:50 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17610">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromآذری‌ها |Azariha</strong></div>
 <div class="tg-text">⛔️
 کارشناس اسراییلی تشریح کرد: ۸ کانون تنش بین ترکیه و اسراییل؛ ترکیه ایران جدید است
@@ -500,171 +624,171 @@
 https://telegra.ph/%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A7%D8%B3%D8%B1%D8%A7%DB%8C%DB%8C%D9%84%DB%8C-%D8%AA%D8%B4%D8%B1%DB%8C%D8%AD-%DA%A9%D8%B1%D8%AF-%DB%B8-%DA%A9%D8%A7%D9%86%D9%88%D9%86-%D8%AA%D9%86%D8%B4-%D8%A8%DB%8C%D9%86-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D9%88-%D8%A7%D8%B3%D8%B1%D8%A7%DB%8C%DB%8C%D9%84-%D8%AA%D8%B1%DA%A9%DB%8C%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%A7%D8%B3%D8%AA-06-15
 🆔️
 @Ir_Azariha</div>
-<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SBoxxx/17610" target="_blank">📅 23:37 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/17610" target="_blank">📅 23:37 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17609">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">تحلیل همین است.   این مواردی که خبرگزاری مهر گفته هنوز تایید نشده.  پاشنه آشیل توافق هم بند مربوط به لبنان است</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/17609" target="_blank">📅 21:59 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SBoxxx/17609" target="_blank">📅 21:59 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17608">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">فوری | نتانیاهو: ما در حال کار برای حفظ آزادی عمل نظامی و ادامه بهره‌مندی از آن هستیم. توافق با ایران توسط ترامپ انجام شد و این تصمیم او بود. ما منافع خودمان را داریم.</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/17608" target="_blank">📅 21:58 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/17608" target="_blank">📅 21:58 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17607">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">نخست‌وزیر اسرائیل نتانیاهو: گاهی اوقات من و ترامپ هم‌نظر نیستیم.</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/17607" target="_blank">📅 21:56 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/17607" target="_blank">📅 21:56 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17606">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">نخست‌وزیر اسرائیل نتانیاهو: گاهی اوقات من و ترامپ هم‌نظر نیستیم.</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/17606" target="_blank">📅 21:43 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/17606" target="_blank">📅 21:43 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17605">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">وزیر امنیت ملی اسرائیل بن گویر:  توافق ترامپ ما را ملزم نمی‌کند. اسرائیل تابع ایالات متحده نیست و ما کشوری مستقل و دارای حاکمیت هستیم! ما شریک این توافق نیستیم که امنیت ما را تضمین نمی‌کند و به هیچ وجه ما را ملزم نمی‌سازد.  نباید در هیچ چیزی کمتر از انحلال…</div>
-<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/17605" target="_blank">📅 21:42 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/17605" target="_blank">📅 21:42 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17604">
-<div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JH-zaTaMoV5TQ2iEuBERNeKfs1okN9vrAtW6OIqqbR1L7NMCvQAIRZfKKGyS-wDbuPDu3DRK9a5cINKgtXaE_qZUSqqRRcIk_3RrvpldoH_Hfq7WPiBFOGeiGYJjniWBqJTliG7K9uG0VszrO491N6m4ly168lviybk5z8FkOqfHWC7JTf9LfVTY73OG-S7Uzxvj8Oy1ONjWkXeFJmSNQIgZfiByEN8rFEEbTGnx2JeqSi2k-yaq7gbDCrMO7YxsQHX41asKkY3j10QqfFN2uSC07y2Ood2RtoJgTKL033EYnOrBqoXA9TMfD7HvZeLf2loomcAUs9GCUO2cwMAW9g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kVXnEEPdFixJtTPk_qyGx1N7FoAHCw9UO6iNg1EjMpLwEgyrUQmMbmXwcfoh9tCG35NRyDT5Ek6cV8SUwpES3dUhANgxz9xY1pVc_zgshGE7glITpQmRpO1kDh2eaJh9ngPqFoR9CRAyJvkmzc6Z_Ll259ywkOx4k0Ilk9-d8C7TQ8J-n_fEIP35v_lHyhEZKRB_QyS_knY8Lr4JGtDlAZtU6TBBUmg3H77I6o5uamEXeWO9PRBxd0rGFr1Na1kPsi_A2uyHRhbto2gWoeNifCtSeIEBsP_FdMxM2jw8zHuF2xN1ik6aK-Nmt74Q35c8rFQfFw2iRFhcGQAHzlOlNA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#Gold/UKOIL — W  به نظر دستکم 30 درصد دیگر ریزش داشته باشد.</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/17604" target="_blank">📅 20:38 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/17604" target="_blank">📅 20:38 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17603">
-<div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ghpe0zJSq-sPqG_LkGktJ3YeqPl9ufh_E8tHBo2ZVR4kejSGr57EKVgHUUQgl3Pzloamk2C6pHob_yGywgb6Y26wDe1_jLWOfjDDp7cH28-kz838uwMXzI3h-1VzpMGkTVhbxGIoSg-WOdyqQNWhAa3Ylwl_q3NhTeph1YpG_63gg1zKzCdojigb7p5xOhl-nKmfAE774yCdZ_-7--cfiBE3CydjuxzvoFtKIBgoz58dh2wB8joXbafOxqwMZPGt_4YChv9sPDEsnCbCLSUlt0OWLCbXqoeqembS_5DOvqonojAvLjz3u2v2eXOGxiqvKviTV9mmgwq0i-G8xHkvkg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/s5vaVSxumFBoY5F1nT52TsW6LkE1QOcMJhC4E9xfjasRJnNyBZPex-w6s33ZOtn-sBhE0-XAEfLWpVWwwWs8v8YOXxUdeAOkaT8-AmTaodqwktUKfW0zCL3rePIP0rpiohgS5XhomBSjjMnWQuVZ_eIYSqLJ38CPfo4EjlbwDXkccaRv-zu35Yweu8GeNEnKplU-p1hZTYwNgQ84ItoZLVBt9QtJ9VOM6HySujCOGep164Wt9sFJFzmvH0VG2qu4e9zksgQkzOAvbwRmgQB5QGzKPRTonrIa5yuUoj8acKChNLl5nnLLiUHP1x_ebi3KWfbu2xfeEu4i1Amk8FYDxQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#WHEAT — D  به نظر می رسد گندم هم دارد همان مسیری را می رود که نقره 3 سال پیش در آغاز آن بود...</div>
-<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/SBoxxx/17603" target="_blank">📅 20:25 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/17603" target="_blank">📅 20:25 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17602">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">یک مقام آمریکایی به رویترز می‌گوید که خروج اسرائیل از جنوب لبنان شرط توافق آمریکا و ایران نیست. اسرائیل حق پاسخ به هر حمله‌ای را حفظ می‌کند.</div>
-<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SBoxxx/17602" target="_blank">📅 20:22 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/17602" target="_blank">📅 20:22 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17601">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">خبرنگار از ترامپ می‌پرسد آیا تحریم‌ها علیه ایران قبل از اجرایی شدن تفاهم‌نامه برداشته می‌شود: آقای رئیس‌جمهور، آیا این توافق شامل رفع زودهنگام تحریم‌ها برای ایران می‌شود؟ این موضوع کی اجرایی خواهد شد؟  ترامپ: خیر، اینطور نیست. این واقعاً یک مسئله رفتاری است.</div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/17601" target="_blank">📅 20:21 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/SBoxxx/17601" target="_blank">📅 20:21 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17600">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">خبرنگار از ترامپ می‌پرسد آیا تحریم‌ها علیه ایران قبل از اجرایی شدن تفاهم‌نامه برداشته می‌شود:
 آقای رئیس‌جمهور، آیا این توافق شامل رفع زودهنگام تحریم‌ها برای ایران می‌شود؟ این موضوع کی اجرایی خواهد شد؟
 ترامپ:
 خیر، اینطور نیست. این واقعاً یک مسئله رفتاری است.</div>
-<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SBoxxx/17600" target="_blank">📅 20:06 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SBoxxx/17600" target="_blank">📅 20:06 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17599">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">نبرد دریای سرخ: اسرائیل نمایندگی دیپلماتیک خود را در سومالیلند افتتاح کرد  اسرائیل چند ماه پس از به رسمیت شناختن استقلال سومالیلند، یک سفیر برای این منطقه منصوب کرد. دیپلمات مایکل لوتِم پیش از این سفیر اسرائیل در کنیا، آذربایجان و قزاقستان بود.  در ماه ژانویه،…</div>
-<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/SBoxxx/17599" target="_blank">📅 18:31 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/17599" target="_blank">📅 18:31 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17598">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">رئیس‌جمهور فرانسه ماکرون: بازگشایی هرمز باید بدون عوارض انجام شود</div>
-<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/17598" target="_blank">📅 18:17 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/17598" target="_blank">📅 18:17 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17597">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">لاپید از رهبران اپوزیسیون اسراییل:
 هیچ شکست دیپلماتیکی بد‌تری از شکست نتانیاهو در جبهه ایران وجود نداشته است</div>
-<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/17597" target="_blank">📅 18:08 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SBoxxx/17597" target="_blank">📅 18:08 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17596">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">یاد فلیم اخراجی ها افتادم که امین حیایی آن پسره برادر کمند امیرسلیمانی را اسکل کرده بود!  یک تاس به او داده بود میگفت بریز اگر 1 تا 5 آمد بازنده ای و باید پول بدهی و اگر 6 آمد برنده ای. بعد امیرسلیمانی پرسید اگر برنده شدم چی؟!   امین حیایی گفت اگر برنده شدی…</div>
-<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/SBoxxx/17596" target="_blank">📅 16:15 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/17596" target="_blank">📅 16:15 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17595">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">معاون رئیس‌جمهور آمریکا، ونس: این توافق به آمریکا قدرت نظارت بر برنامه هسته‌ای ایران را اعطا می‌کند</div>
-<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/17595" target="_blank">📅 16:13 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/17595" target="_blank">📅 16:13 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17594">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">رئیس‌جمهور فرانسه ماکرون: بازگشایی هرمز باید بدون عوارض انجام شود</div>
-<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/17594" target="_blank">📅 16:12 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/17594" target="_blank">📅 16:12 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17593">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">معاون رئیس‌جمهور آمریکا، ونس: انتظار داریم تنگه هرمز در بلندمدت بدون عوارض باز باشد</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/17593" target="_blank">📅 16:12 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/17593" target="_blank">📅 16:12 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17592">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">خبرگزاری فارس: در لحظات آخر مذاکرات، متن تفاهم‌نامه تغییراتی داشت که مسئلهٔ اعمال حاکمیت ایران-عمان بر تنگه هرمز را به‌صورت قطعی و مصرح تاکید کرده. طبق متن "آینده اداره خدمات دریانوردی در تنگه هرمز" توسط ایران و عمان تعیین می‌شود و استفاده از اصطلاح "خدمات…</div>
-<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/17592" target="_blank">📅 16:10 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/17592" target="_blank">📅 16:10 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17591">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">گویا لازم است یکی دو فایل اپستین دیگر منتشر بشود.</div>
-<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/SBoxxx/17591" target="_blank">📅 15:24 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/17591" target="_blank">📅 15:24 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17590">
-<div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tVFeqei2PUZDmkeoZKpsV2fpAtG9r_ENOc9sAiG47AsNUNl96aNtQdtDYm03uFKwNldG9oG8ZSdALBf5YVqfirLneDQ7l95pum7N9a916TVjB4-HQIv10L3XSXPZPoTKtmkb0YhTdVkowu78QrBQn-WHyc_7srL6NQ7ylYgc7JNOSX9tCwZzWYc3tg2clb1KBUpkmhfcgkubPVtr8PGPcFygIq2N0p-GnCTSfKl3Y11qFohRzwGE2rZGKcIuZlVb9mqJpFGI6fiU1wt0_8knZ0Qm5Gra1IQWGDI7I8KqWB1ekcnbPAfn-2s4AZd-9uH63eIqB3xTnVc7pgAnzCGNTw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/v7dW4ZjTYFbP6rHHvcnVJej-8lcLTvK4_0JpQDZOQ7XSleK5XcfmsJjQCBizL7aWKkJ2jMZpFzl-ewOquxUs0c71CZ1VL7ON3q1neAX_sNW1kGtFI-1xob6DHp_owP9ES1iXy2wVr4e0ZaKgazNc0mkS1F6b2FFVKlNbwtXWLeMZa9HAVQdpDv-JBhOEL3JOQB80YmjCczuNvpGdlZ6JaSNa_dJyV8UkBHmvAEhLNm1g91CI7ezP9W5fHDfab_C_dBDITjJsCjwIkOCtlQ174nYynvuhG35UQPXaK3Lt7uc_lZcc_Nbm4AqtRtNla9YRv5zxd1Y8ZojBg6hvxj5EpQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینفوگرافی تحلیلی توافق بر اساس داده هایی که به هوش مصنوعی دادم</div>
-<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/17590" target="_blank">📅 14:06 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/17590" target="_blank">📅 14:06 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17589">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">تحلیل خانعلی زاده — از اعضای نزدیک به پایداری — از شرایط توافق  میگوید از 10 شرط رهبری 8 شرط رعایت نشده و 2 شرطی هم که هست به صورت مبهم آمده است.  در ضمن بند مربوط به لبنان (بند اول) هم شدیداً ابهام دارد و بعید است اساساً اجرایی بشود.</div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/17589" target="_blank">📅 14:01 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/17589" target="_blank">📅 14:01 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17588">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">در حال حاضر تندروها هم در ایران و هم در اسرائیل با این توافق مخالف هستند.
 با این تفاوت که در ایران میانه روها با این توافق همراه هستند اما در اسرائیل حتی میانه روها هم با این توافق سر ستیز دارند.
 نتیجه:
 دست نتانیاهو برای ادامه حملات در لبنان باز باز است و حتی می توان گفت که اساساً چاره ای به جز این نیز ندارد چرا که هم تندروها و هم میانه روها خواهان ادامه جنگ با حزب الله هستند.</div>
-<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/SBoxxx/17588" target="_blank">📅 12:55 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SBoxxx/17588" target="_blank">📅 12:55 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17587">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">وزیر امنیت ملی اسرائیل بن گویر:  توافق ترامپ ما را ملزم نمی‌کند. اسرائیل تابع ایالات متحده نیست و ما کشوری مستقل و دارای حاکمیت هستیم! ما شریک این توافق نیستیم که امنیت ما را تضمین نمی‌کند و به هیچ وجه ما را ملزم نمی‌سازد.  نباید در هیچ چیزی کمتر از انحلال…</div>
-<div class="tg-footer">👁️ 4.24K · <a href="https://t.me/SBoxxx/17587" target="_blank">📅 12:53 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SBoxxx/17587" target="_blank">📅 12:53 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17586">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">تقریباً با شما موافقم، فقط اینکه از دید من آمریکا به مراتب دستاورد کمتری نسبت به اسرائیل داشت (و بهتر است بگوییم اساساً دستاوردی نداشت).</div>
-<div class="tg-footer">👁️ 4.24K · <a href="https://t.me/SBoxxx/17586" target="_blank">📅 12:44 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SBoxxx/17586" target="_blank">📅 12:44 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17585">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">وزیر دفاع اسرائیل:  نخست‌وزیر نتانیاهو و من سیاستی روشن را پیش می‌بریم. ارتش اسرائیل در مناطق امنیتی لبنان، سوریه و غزه باقی می‌ماند. این مناطق از ساکنان محلی پاک‌سازی می‌شوند و تمام زیرساخت‌های «تروریستی»، از جمله خانه‌ها در روستاهای تماس، نابود خواهند شد.…</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/17585" target="_blank">📅 12:39 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/17585" target="_blank">📅 12:39 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17584">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-poll">
 <h4>📊 از دید شما پیروز جنگ:</h4>
 <ul>
@@ -674,44 +798,44 @@ https://telegra.ph/%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A7%D8%B3%D8%B1
 <li>✓ طرف پیروزی وجود نداشت</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 4.09K · <a href="https://t.me/SBoxxx/17584" target="_blank">📅 12:28 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.14K · <a href="https://t.me/SBoxxx/17584" target="_blank">📅 12:28 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17583">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">خبرگزاری فارس: در لحظات آخر مذاکرات، متن تفاهم‌نامه تغییراتی داشت که مسئلهٔ اعمال حاکمیت ایران-عمان بر تنگه هرمز را به‌صورت قطعی و مصرح تاکید کرده.
 طبق متن "آینده اداره خدمات دریانوردی در تنگه هرمز" توسط ایران و عمان تعیین می‌شود و استفاده از اصطلاح "خدمات دریایی" یعنی تثبیت دریافت هزینه برای ایران توسط آمریکا خواهد بود. این اصل در جای دیگری از متن هم تکرار شده؛ به این شکل که ایران فقط برای ۶۰ روز عبور بدون هزینه کشتی‌ها را خواهد پذیرفت.  اما پس از این ۶۰ روز، جمهوری اسلامی ایران بنا دارد با ارائه خدمات ایمنی، دریانوردی، محیط‌زیست و بیمه از عواید مالی حاصل از تردد کشتی‌های تجاری در این تنگه بهره‌مند شود.</div>
-<div class="tg-footer">👁️ 4.09K · <a href="https://t.me/SBoxxx/17583" target="_blank">📅 12:26 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.14K · <a href="https://t.me/SBoxxx/17583" target="_blank">📅 12:26 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17582">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">رسانه لبنانی:   امیدواریم ایران غزه را هم به مفاد آتش‌بس خود اضافه کند!</div>
-<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/SBoxxx/17582" target="_blank">📅 12:11 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.09K · <a href="https://t.me/SBoxxx/17582" target="_blank">📅 12:11 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17581">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">رسانه لبنانی:
 امیدواریم ایران غزه را هم به مفاد آتش‌بس خود اضافه کند!</div>
-<div class="tg-footer">👁️ 4.16K · <a href="https://t.me/SBoxxx/17581" target="_blank">📅 12:10 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/SBoxxx/17581" target="_blank">📅 12:10 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17580">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d3472b7e90.mp4?token=MS4eA1Uo1wsxpTBS6WVV-G7lx1RFsOAROOOYiSI5Mypb1TBf8r_PFqYW16LIu-GMv78IJ37hln22v7vYlBkUIw4PYBURVyAOQ5pvQvCVZagJ4dhi9jAMoH520dp9tZxjtX6bqMZ1JyGDTfnbufMmMPO5t6k4RJdR7ee-n2EWYVcj9OrNvVfZDBHmX_bnyI6s4Fbd0u36U1P_DORDBV0V50CnWvb7Bh8jm11KUXqwvndD6b7HGc17JtBCDYEsAUOc4-IBYrQi28ePWO0TSSQZf_HjnoFZL0bYl8bZUbwghVLmkJvYAxHLb_L0I55oXFM1gz6JdUYOqmZNo2MyeKbPKlvSvIsevKzAMBzbznGb2FALUsviJ08STSaxKwNPCtPtBeXM5hI7-INVHEOe48AUYzaphk6346wPyWZyl2HG5jWjnWU9m0iNgMEsf0z1Xg8IwEz-mfkGAcJ011-Ma4aBOcrVrZwkfOyhvm8Ur1Jp9GBbJrdPHyGPT9-qeoXQZPQG5aLU1kloXEO0eamkj40pWkSWAOcbwaaDKmucSUY67ZS5gs2_1Mp5AzFZpotvEnLMVm_D_ReoQVrYDQDjczYH3qbGFz701lhzx4nomahlXedYrRNM9v-VPXJEO0HlMpTOctXFRNYIruWg06hDfcHa7qzQe6TaOwaOKUty00s28lc" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d3472b7e90.mp4?token=ZsMGMzR0kqUEfQYixdVFj2R2wmYF0OV19vFFZvC2ZzAnGoqpr31ygIypnYOYk5LNbMpHXIrQu-1RRWSwLbFOzy0uXAUOXjzDLyno7hab7KxZuPXBpBTfFgyh-t2hg9g_-033hV3RxjRLEOk27lKEZ8VLzv_hPdv-V1LOLJCmgsJI8qfCD3SC44k48u7HMG-wNfkDYajhynjrmN3YQ6D2csln3YmkD2ahOttzSzPIJGo4fiBeygLxL1nY34sLXtXvR6QJfmJsYrZxOK-56irvl4qUSl3nUBs2LCqLNsNIUgrbaeK2PRwGiF-IXUHKUbg71TXf1JHe07shrqhD6Rp0OpV_Z2Y2bfKtrqOqC5Y_C1XSwsgdLp8ZwSCf3AmWDJxj38FjA38OvnarJBD1RcKIMT8DRMCNl-Vf-I9iu2UFQ0ZZSgCxsj79Svyagv4JEBUcvjN8GqjNZ3xZNqeThAOyvMR7DD7oRJ89Jjab7PubckGXM4to0qs4p6gFu1ErCMl04jLZ0Z6bt-d9rlVys7DHsZJZb0qhdUY_ArdmbcC8C45Fun4392C3MdiD0Ka9_KJEwGXb-ORmbl_KKMCkJkVDF8MKQX-2bA1Mcj17tu1d2YjkKtnYnSH-AoE4geMiVRhqri2Uel-nQPiWKKvsNtlQ01l2DG8BCJ59n3plNmmjW4k" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d3472b7e90.mp4?token=MS4eA1Uo1wsxpTBS6WVV-G7lx1RFsOAROOOYiSI5Mypb1TBf8r_PFqYW16LIu-GMv78IJ37hln22v7vYlBkUIw4PYBURVyAOQ5pvQvCVZagJ4dhi9jAMoH520dp9tZxjtX6bqMZ1JyGDTfnbufMmMPO5t6k4RJdR7ee-n2EWYVcj9OrNvVfZDBHmX_bnyI6s4Fbd0u36U1P_DORDBV0V50CnWvb7Bh8jm11KUXqwvndD6b7HGc17JtBCDYEsAUOc4-IBYrQi28ePWO0TSSQZf_HjnoFZL0bYl8bZUbwghVLmkJvYAxHLb_L0I55oXFM1gz6JdUYOqmZNo2MyeKbPKlvSvIsevKzAMBzbznGb2FALUsviJ08STSaxKwNPCtPtBeXM5hI7-INVHEOe48AUYzaphk6346wPyWZyl2HG5jWjnWU9m0iNgMEsf0z1Xg8IwEz-mfkGAcJ011-Ma4aBOcrVrZwkfOyhvm8Ur1Jp9GBbJrdPHyGPT9-qeoXQZPQG5aLU1kloXEO0eamkj40pWkSWAOcbwaaDKmucSUY67ZS5gs2_1Mp5AzFZpotvEnLMVm_D_ReoQVrYDQDjczYH3qbGFz701lhzx4nomahlXedYrRNM9v-VPXJEO0HlMpTOctXFRNYIruWg06hDfcHa7qzQe6TaOwaOKUty00s28lc" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d3472b7e90.mp4?token=ZsMGMzR0kqUEfQYixdVFj2R2wmYF0OV19vFFZvC2ZzAnGoqpr31ygIypnYOYk5LNbMpHXIrQu-1RRWSwLbFOzy0uXAUOXjzDLyno7hab7KxZuPXBpBTfFgyh-t2hg9g_-033hV3RxjRLEOk27lKEZ8VLzv_hPdv-V1LOLJCmgsJI8qfCD3SC44k48u7HMG-wNfkDYajhynjrmN3YQ6D2csln3YmkD2ahOttzSzPIJGo4fiBeygLxL1nY34sLXtXvR6QJfmJsYrZxOK-56irvl4qUSl3nUBs2LCqLNsNIUgrbaeK2PRwGiF-IXUHKUbg71TXf1JHe07shrqhD6Rp0OpV_Z2Y2bfKtrqOqC5Y_C1XSwsgdLp8ZwSCf3AmWDJxj38FjA38OvnarJBD1RcKIMT8DRMCNl-Vf-I9iu2UFQ0ZZSgCxsj79Svyagv4JEBUcvjN8GqjNZ3xZNqeThAOyvMR7DD7oRJ89Jjab7PubckGXM4to0qs4p6gFu1ErCMl04jLZ0Z6bt-d9rlVys7DHsZJZb0qhdUY_ArdmbcC8C45Fun4392C3MdiD0Ka9_KJEwGXb-ORmbl_KKMCkJkVDF8MKQX-2bA1Mcj17tu1d2YjkKtnYnSH-AoE4geMiVRhqri2Uel-nQPiWKKvsNtlQ01l2DG8BCJ59n3plNmmjW4k" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">تحلیل استاد امیرحسین ثابتی از توافق:  توافق؛ حاصل خطای محاسباتی مسئولان یا رضایت رهبرانقلاب؟  امریکا بالاخره وقتی دید از طریق نظامی نمی‌تواند تنگه هرمز را باز کند، از طریق دیپلماسی و مذاکره به هدف خود رسید و حالا با کاهش قیمت نفت، یکی از مهمترین خواسته‌های…</div>
-<div class="tg-footer">👁️ 4.15K · <a href="https://t.me/SBoxxx/17580" target="_blank">📅 12:09 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.16K · <a href="https://t.me/SBoxxx/17580" target="_blank">📅 12:09 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17579">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">تحلیل استاد امیرحسین ثابتی از توافق:
 توافق؛ حاصل خطای محاسباتی مسئولان یا رضایت رهبرانقلاب؟
 امریکا بالاخره وقتی دید از طریق نظامی نمی‌تواند تنگه هرمز را باز کند، از طریق دیپلماسی و مذاکره به هدف خود رسید و حالا با کاهش قیمت نفت، یکی از مهمترین خواسته‌های دشمن محقق خواهد شد.
@@ -722,280 +846,190 @@ https://telegra.ph/%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3-%D8%A7%D8%B3%D8%B1
 ✍️
 امیرحسین ثابتی
 ‌</div>
-<div class="tg-footer">👁️ 4.19K · <a href="https://t.me/SBoxxx/17579" target="_blank">📅 11:49 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SBoxxx/17579" target="_blank">📅 11:49 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17578">
-<div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YqNAjtXoV_AA-AlFOnWmQnwSErdzZrmat23gd57o2ZNWWDZJaNuzrES4aIz2QScMeOD3VhlD6o2MeluplitpHJkGBm1JhUkYrFZB2GfloXhm5sSODV6GaljyrORBxbUfA3DqZ19nI77QlILca0iBVWR20LKhrkIS1Kvg_awY1HtC2GkA7A5l23BEHM9h1vdGlFoEfV7F3FBVtyNb3twGpk4ll5t-Y-IcXuFC6pNmiwLP-kDni4MB9rNDhNnSlEJPJj4QXXDRWiyeIcGDSXucMBLwqEa8WJBO3B14oSOetq9V2sMPmyN43W-OUbf96ZnG4_kQi7pQXB6Kwrnorpk75w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hEixDG8dLnwRbwSI7VQWts-eOcuvaqkQl3WJWRMHZwV0rHNqVVZW0BEMhlTPxgMn2HLQhtG14VimFk0cBYDQDpRAanGLYn2rFLdaWQUl7UCAankjL6ChS9rZoZeqncJscqkP2M3cv1e8LG-iR9Cc9SQM-Wg_t9MiVvGzaaU7KEhw_tGwMy2ctZxWnQ0WlG2sJp-AMQAq_bHOIwcjGAl3grpDiTcsi_pGlieA80vpnGfaLNxDGFl0s20xABrYG_xUPHz5GA6QMJQenlRFP4n7E5rO8e_uBUK27U2dZtkGH-7m09AKCHLz6HxO-yVCOz9FZb3Y9AqDwrzzLaT-XK3ANA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینفوگرافی تحلیلی توافق بر اساس داده هایی که به هوش مصنوعی دادم</div>
-<div class="tg-footer">👁️ 3.97K · <a href="https://t.me/SBoxxx/17578" target="_blank">📅 11:38 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4K · <a href="https://t.me/SBoxxx/17578" target="_blank">📅 11:38 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17577">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">هدف حمله، علی موسی دقدوق یکی از چهره‌های کلیدی و تأثیرگذار در حزب الله و مسئول پرونده جولان بوده که کشته شده</div>
-<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/SBoxxx/17577" target="_blank">📅 10:56 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.16K · <a href="https://t.me/SBoxxx/17577" target="_blank">📅 10:56 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17576">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">تحلیل همین است.   این مواردی که خبرگزاری مهر گفته هنوز تایید نشده.  پاشنه آشیل توافق هم بند مربوط به لبنان است</div>
-<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/SBoxxx/17576" target="_blank">📅 10:51 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.14K · <a href="https://t.me/SBoxxx/17576" target="_blank">📅 10:51 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17575">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">حالا شما گرامیان گفته اید میزنیم اما به نظر من که اسرائیل را نمیزنیم.  دو مورد که مدنظر من است:  — همون همیشگی (حمله به اربیل)  و|یا  — سپردن کار به بچه های نقطه زن یمن  در صورت تحقق مورد دوم، منتظر اصابت موشک های بالستیک اصحاب یمین به در و دیوار خواهرمیانه…</div>
-<div class="tg-footer">👁️ 4.13K · <a href="https://t.me/SBoxxx/17575" target="_blank">📅 10:50 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/SBoxxx/17575" target="_blank">📅 10:50 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17574">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">جزئیات جدید از پیش‌نویس تفاهمنامه ۱۴ ماده ای ایران و آمریکا  جزییات این پیش‌نویس به شرح ذیل است:  ۱- توقف دائمی و فوری جنگ در همه جبهه ها از جمله لبنان  ۲- تعهد آمریکا به عدم مداخله در امور داخلی ایران و احترام به حاکمیت جمهوری اسلامی ایران.  ۳- رفع کامل محاصره…</div>
-<div class="tg-footer">👁️ 4.24K · <a href="https://t.me/SBoxxx/17574" target="_blank">📅 10:44 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SBoxxx/17574" target="_blank">📅 10:44 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17573">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">وزیر امنیت اسرائیل، بن گوییر:  توافق ترامپ ما را به هیچ وجه ملزم نمی‌کند.</div>
-<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/17573" target="_blank">📅 10:24 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/17573" target="_blank">📅 10:24 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17572">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">تحلیل همین است.
 این مواردی که خبرگزاری مهر گفته هنوز تایید نشده.
 پاشنه آشیل توافق هم بند مربوط به لبنان است</div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/17572" target="_blank">📅 09:57 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SBoxxx/17572" target="_blank">📅 09:57 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17571">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">- به گزارش معاریو ، بنیامین نتانیاهو، نخست وزیر اسرائیل، به دونالد ترامپ اطلاع داده است که نیروهای اسرائیلی از لبنان خارج نخواهند شد و اسرائیل خود را ملزم به رعایت بند مربوط به لبنان در تفاهم‌نامه ایالات متحده و ایران نمی‌داند.</div>
-<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/SBoxxx/17571" target="_blank">📅 09:54 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SBoxxx/17571" target="_blank">📅 09:54 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17570">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">جزئیات جدید از پیش‌نویس تفاهمنامه ۱۴ ماده ای ایران و آمریکا  جزییات این پیش‌نویس به شرح ذیل است:  ۱- توقف دائمی و فوری جنگ در همه جبهه ها از جمله لبنان  ۲- تعهد آمریکا به عدم مداخله در امور داخلی ایران و احترام به حاکمیت جمهوری اسلامی ایران.  ۳- رفع کامل محاصره…</div>
-<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/SBoxxx/17570" target="_blank">📅 09:32 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SBoxxx/17570" target="_blank">📅 09:32 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17569">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">ترامپ:  معامله با جمهوری اسلامی ایران اکنون تکمیل شد. تبریک به همه! من در اینجا به طور کامل افتتاح بدون عوارض تنگه هرمز را مجاز می‌کنم و همزمان، لغو بلافاصله محاصره دریایی ایالات متحده را مجاز می‌کنم. کشتی‌های جهان، موتورهای خود را روشن کنید. اجازه دهید جریان…</div>
-<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SBoxxx/17569" target="_blank">📅 09:16 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/17569" target="_blank">📅 09:16 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17568">
-<div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NOGjFFsOkl7iYRjryXXHyuYSEIpedMKIcAhGdA8wEQwnO_VpqAZxdu8XvR9_C_WfHvnhBFx-fCdI_z9WPmyu0A5HDa0czz1HJ_bHqJyaeuev4EC3v-6NAgeD_nOPUIm8cJjjzTrxaijZzE2AC_yvAoRtWRAGr5xvUYfr7ptKiG73hSI_q6TNz3XpRZ58PDvIxQE_1WTuKqDqKIRxC8jVnCbBkuMOu-ULPa2ww8tp22QRCFUWoOj8dptvCJU1BfAcJYHW23oz1Ghxq4d3ivgZhZdkfBkGd1Mi1IoxG9u04QwU34gvQH0CWNKYeI0IxkVDiN7P5UC43FBNQPKV_lHvwg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dIoNpUsCiWs2F279DIU3bpuwho9L-RErJMIUYUz8VY1Ta7sPQ3SltNQMU5BIozEm7G_uRidLdYauVK4JjO0Hcc7RxRMrb8mVCYBgIX4iZSVuwK96B4y-JfaL1HH-FT5wdIpXlsy7Y5OcQn-FiTmC_jinhiG2jNwW3desXSph8x5viS-UbIr4vEnialzghsylUDTWphEeQNY5mBKS-WxbNphtw8f-at5Sp1-YJlBoeKekuBjDy9mWkPNpvgXYv7XEe7S6ZIa20DWODdPcnQjVDc8rGhlZFxrBagUn_rcEuOCa-PkO56q5iNhRzVUnG_4kIeIkIZdebVkwhIV9bXgUNw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📝
 غریب آبادی ؛ معاون حقوقی وزارت امور خارجه:
 لغو تمام تحریم های ایالات متحده و قطعنامه های سازمان ملل جزو دستورکار مذاکرات ۶۰ روزه خواهد بود</div>
-<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/17568" target="_blank">📅 02:03 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/17568" target="_blank">📅 02:03 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17567">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">نایب رئیس وزارت خارجه ایران: پایان فوری و دائمی جنگ و اقدامات نظامی در جبهه‌های متعدد، از جمله لبنان، باید از امشب اعلام شود|</div>
-<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/17567" target="_blank">📅 01:25 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/17567" target="_blank">📅 01:25 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17566">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">آخرش هم گفته بچرخ تا بچرخیم!</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/17566" target="_blank">📅 01:10 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/17566" target="_blank">📅 01:10 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17565">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">فعلا که خبری نیست. فکر کنم آقای دکتر لانچر خودشان را فقط آماده کرده اند.  سبحان الله!</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/17565" target="_blank">📅 01:08 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/17565" target="_blank">📅 01:08 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17564">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">ترامپ
 :
 معامله با جمهوری اسلامی ایران اکنون تکمیل شد. تبریک به همه! من در اینجا به طور کامل افتتاح بدون عوارض تنگه هرمز را مجاز می‌کنم و همزمان، لغو بلافاصله محاصره دریایی ایالات متحده را مجاز می‌کنم. کشتی‌های جهان، موتورهای خود را روشن کنید. اجازه دهید جریان نفت آغاز شود! رئیس‌جمهور دونالد جی. ترامپ</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/17564" target="_blank">📅 01:02 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SBoxxx/17564" target="_blank">📅 01:02 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17563">
-<div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VIM1qy9788ZM-_0BJToIjSCjwxfNn8G49ym4qnu4au1IQCPDhvqkpDYtHwX6rZpmSqv574NJbkMMdHOukALV9Y2MJ28-y1EM8aFyYq0kXk52-lQwoSXqHYljScKrRH9kQifQwP6mgaj3zo-ceAlEMCr_MpX5Zbmv6M_jyITflU6k6itQAF7A4IYG3OIZbEquZdzxN6TaE3M600VBMs8E-jPgnhcRpXfF3CnBgaOAe1UUJLUtaI_FjBjHMRsgkCjTsq7WHFtFrKdIV0LtZI40sVQYJ2jx5sltjPlQMxZhlOCoEr-sso0pUfjRdzVEBAzfqH3OEuUXcDOxgcNPGI3eZA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Fml9644H9CnxdGFe2n1iC82wuD1uePy_xLSxkY4j9proTZ_FEYO0IAofp_S0YjSqSaEBcsu4RgFm1tYokb0fh8DskuGiM4zT9dRGyi-up-HS1PSP_Lss3eH9QYuKbyVRcMiG7cJt4k9QUj0kWPSQ-x2DFJEpGmlwmYrPLOXHN-XFM70GkH9WXkgyblHh3UXq3c4FHpEQZC0RP94kpmksLd6V2WYHdyRGzv8-vtZNSJzgSt4yZlzGvHZ1VCLA-SXJ9RI5xlAMBF9V7pV3GIUE1Sv5tl3ZUZ920KYn7pTL_NSc4_ACb0jkcK7gjEeQ9BLRskdq2nPIhCC3JMu_EZtCTA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">با اعلام نخست وزیر پاکستان، توافقنامه پایان جنگ جمعه ۱۹ ژوئن در ژنو امضا می شود</div>
 <div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/17563" target="_blank">📅 01:00 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17562">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">ترامپ
 :
 بعد از ترور رهبران رده اول و دوم در ایران، رهبران رده سوم فعلی منطقی‌ترین افراد در برخورد با ما هستند.</div>
-<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/17562" target="_blank">📅 00:45 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/17562" target="_blank">📅 00:45 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17561">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">تفاهم مشترک ایران و آمریکا به امضای دو کشور رسید</div>
-<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/17561" target="_blank">📅 00:43 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SBoxxx/17561" target="_blank">📅 00:43 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17560">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">ترامپ: ایران در توافق پولی دریافت نخواهد کرد، اما ممکن است تحریم‌ها تسهیل شوند - WS</div>
-<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/17560" target="_blank">📅 00:40 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/17560" target="_blank">📅 00:40 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17559">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">حالا شما گرامیان گفته اید میزنیم اما به نظر من که اسرائیل را نمیزنیم.  دو مورد که مدنظر من است:  — همون همیشگی (حمله به اربیل)  و|یا  — سپردن کار به بچه های نقطه زن یمن  در صورت تحقق مورد دوم، منتظر اصابت موشک های بالستیک اصحاب یمین به در و دیوار خواهرمیانه…</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/17559" target="_blank">📅 00:38 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SBoxxx/17559" target="_blank">📅 00:38 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17558">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">گزارش روزنامه‌نگار اسرائیلی رونن برگمن از ی‌نت:
 پس از حمله ارتش اسرائیل به ضاحیه و تهدیدهای ایران مبنی بر پاسخ موشکی، به نظر می‌رسد تهران در حال بررسی به تعویق انداختن پرتاب موشک است تا به ترامپ فرصت دهد که توافق‌نامه چارچوب را امشب نهایی کند.
 به عنوان بخشی از مشوق‌های این توافق، به نظر می‌رسد ترامپ در حال بررسی لغو فوری — نه تدریجی — محاصره دریایی ایران و تنگه هرمز است.</div>
-<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/17558" target="_blank">📅 00:15 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/17558" target="_blank">📅 00:15 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17557">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">کله زرد :
 ایران هرگز سلاح هسته‌ای نخواهد داشت و تنگه هرمز به زودی برای کسب‌وکار باز خواهد شد!</div>
-<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SBoxxx/17557" target="_blank">📅 00:12 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/17557" target="_blank">📅 00:12 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17556">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">علی اکبر ولایتی:  یک اشتباه محاسباتی در بیروت، صبر را به پایان رساند و دستور حمله صادر شد، ساعت صفر فرا رسیده و پرتابگرهای موشک بالستیک در حال آماده‌سازی هستند.</div>
-<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/17556" target="_blank">📅 00:08 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/17556" target="_blank">📅 00:08 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17555">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">باز معلوم نیست این فاکستانی ها چه غلطی کرده اند !
 احتمالا دوباره نسخه ای که به ایرانی ها داده اند با نسخه ای که به آمریکایی ها داده اند متفاوت است</div>
-<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/17555" target="_blank">📅 00:04 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SBoxxx/17555" target="_blank">📅 00:04 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17554">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">این فاکستانی ها چه موجوداتی هستند که نه آمریکایی ها به آنها اعتماد دارند نه ایرانی ها!  سبحان الله!</div>
-<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/SBoxxx/17554" target="_blank">📅 00:03 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/17554" target="_blank">📅 00:03 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17553">
-<div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YtJfpqsOXDYdZKJWORDrmHVGmpvP3OJ8oatBv_Yw_HqT48QA7KF1JYY3yf4oG_Jr0wXcxylgw97cpt9CXyOBWE4L9n4QobjdVjF_Ui_IsIaiipSG433022GK4qB5dhlJDnyKIs3EPHfJ-fZ-ay4Yk21gYBiqVASl2yndaoQSgFGxFdqiDAF_zZjVwsDimdHdvrMR30rqPodkGoy8eJFDaEXiQKP0rsEfjKIj1Jg9tl9RslWPAKNDYvPwN7j9usE6LwbOpDi7hHfBZwFzIrMYjEsiwFaNovPGWqCuqEAQkPgFFtlmGiFJULqMb1fLelS3GwF_Ds4GzOCakJn7fJL4uA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #2</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cKePP4BUtfoeGpnMkrsk_f3PiadOX7rlnSqB27uA1b8sW6xXvYS0F_ZNIFGYnOKywoj6wyTjeIMP2rFWXoT-90I5oIRCiCkSiXk3pDYJ_3qcXiWS9c6GEQ5kE9lVHVuJp-QwiUKOI4FSZsMa1puykkJncM3Dzt-tKk4MkVgJgwseHpHFQx5zqUVNP9-RR_WLqKJyMBNKjYWc9RvkfduuV44BxllqL3tsPvbhwxzgXZhOfMd0-ojxX_4cg-apZNoLD7sePkhKnXzkznxlb0SLEo6XGjYYhGGrhTft3oJiUfpgfuQnCGFEtQmTVcNNM0uS_02NEsJqtu2sANWqE3l9-Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حالا شما گرامیان گفته اید میزنیم اما به نظر من که اسرائیل را نمیزنیم.
 دو مورد که مدنظر من است:
 — همون همیشگی (حمله به اربیل)
 و|یا
 — سپردن کار به بچه های نقطه زن یمن
 در صورت تحقق مورد دوم، منتظر اصابت موشک های بالستیک اصحاب یمین به در و دیوار خواهرمیانه باشید.</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/17553" target="_blank">📅 23:41 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/17553" target="_blank">📅 23:41 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17552">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">علی اکبر ولایتی:  یک اشتباه محاسباتی در بیروت، صبر را به پایان رساند و دستور حمله صادر شد، ساعت صفر فرا رسیده و پرتابگرهای موشک بالستیک در حال آماده‌سازی هستند.</div>
 <div class="tg-footer">👁️ 4.4K · <a href="https://t.me/SBoxxx/17552" target="_blank">📅 23:39 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17551">
-<div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-text">علی اکبر ولایتی:
-یک اشتباه محاسباتی در بیروت، صبر را به پایان رساند و دستور حمله صادر شد، ساعت صفر فرا رسیده و پرتابگرهای موشک بالستیک در حال آماده‌سازی هستند.</div>
-<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/SBoxxx/17551" target="_blank">📅 23:36 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17550">
-<div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-text">ونسِ ترنس در بحبوحه تنش‌های فزاینده با ایران به کاخ سفید شتافت!</div>
-<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/17550" target="_blank">📅 22:59 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17549">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-text">سخنگوی سازمان هواپیمایی کشوری:   هیچ‌گونه نوتام جدیدی در این خصوص صادر نشده است.  نوتام مربوط به محدودیت پروازی در غرب کشور، همان نوتام قبلی است و اطلاعیه جدیدی در این زمینه صادر نشده است. / مهر</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/17549" target="_blank">📅 22:57 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17548">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-text">سخنگوی سازمان هواپیمایی کشوری:
-هیچ‌گونه نوتام جدیدی در این خصوص صادر نشده است.
-نوتام مربوط به محدودیت پروازی در غرب کشور، همان نوتام قبلی است و اطلاعیه جدیدی در این زمینه صادر نشده است. / مهر</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/17548" target="_blank">📅 22:56 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17547">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-text">ینت اسرائیل:
-دونالد ترامپ از نتانیاهو خواسته است که آتش‌بس در لبنان را اعلام کند و شروع به عقب‌ نشینی نیروهای ارتش اسرائیل نماید تا ایران پاسخ ندهد، اما نتانیاهو هر دو درخواست را رد کرده است.</div>
-<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/17547" target="_blank">📅 22:52 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17546">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-text">قالیباف:   آنها هرگز نمی‌توانند به تنهایی و به صورت ایزوله هر بخشی از ستون‌های محور مقاومت را بزنند</div>
-<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/17546" target="_blank">📅 22:45 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17545">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-text">قالیباف:
-آنها هرگز نمی‌توانند به تنهایی و به صورت ایزوله هر بخشی از ستون‌های محور مقاومت را بزنند</div>
-<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/17545" target="_blank">📅 22:40 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17544">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-text">گویا گروه‌های مسلح تجزیه طلب کردی با حزب الله طاق زده شده اند.</div>
-<div class="tg-footer">👁️ 4.56K · <a href="https://t.me/SBoxxx/17544" target="_blank">📅 22:31 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17543">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-text">نمیدانم که میزنیم یا نه اما میدانم اگر بزنیم آنها هم میزنند و بد هم میزنند</div>
-<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/17543" target="_blank">📅 22:30 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17542">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-text">خداوکیلی از دیوار هم صدا درمیاید از رییس جمهور مملکت نه!
-بلند شو یک چیزی بگو مرد!</div>
-<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/17542" target="_blank">📅 22:29 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17541">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">فوری | محمد مخبر، مشاور رهبر ایران: به متجاوزان درسی خواهیم داد که پشیمان شوند.</div>
-<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SBoxxx/17541" target="_blank">📅 22:28 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17540">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-poll">
-<h4>📊 امشب:</h4>
-<ul>
-<li>✓ میزنیم!</li>
-<li>✓ نمیزنیم!</li>
-</ul>
-</div>
-<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/17540" target="_blank">📅 21:51 · 24 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-17539">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">ایران پیشنهادی از سوی دونالد ترامپ، رئیس‌جمهور ایالات متحده، مبنی بر آزادسازی وجوه مسدود شده ایران در ازای خودداری از پاسخ به اسرائیل را رد کرده و اعلام کرده است که انتقام خواهد گرفت.</div>
-<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/17539" target="_blank">📅 21:51 · 24 Khordad 1405</a></div>
 </div>
 
 <hr>
