@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/YKCziE9IZPcsvv-HBWETOa2sObC4ezLHsg9uqxjzrQ88gRMHd9JW5WRbVd8wQM3fkMnqPwKHi7s6PcCtz94N_HXJHLY_mTS72foBkhIggzoDIl4SujMOCzPiJgt0KP4-xnEmqgzJaZ8ESPfm67m2_FOFGsqyLr1fZdDbhRRzKeDHlQSYdNSTt4A7r1UzlgD-H2Urm5WWkTjlWdd3AJ12wkGLugifj2OBbVmLI2WHfiG5GO_V39LkyUyKp4ZH4wvcK5ChRuXKQvIjLV3wN8Bzu3v1j57VVd52mznXyclZavnjEovxgszUYB03BmDhwg7aygy7R_dCdCJuFtdlS0qW1Q.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/pWQNh-UtTR_RjUiS4uXpIYBmvv0irel-GXHTBDCjYlLrqHVco8eYjN3AVWVKiNu8Enp6GqItNBFDCZH9w0J2T52sQ3sUA2XP_fxn1YWDGCOeOednR9wNK8JLCO0wMMWs0o_h8fICyDiO2j0ghu3ShcIqaLhM6WwUnUmiR5LkA15IW6GiqbzKSALzYMgnRFW3aGJO5N-q8FJor4Hh-IH-Biw78SFx3DJBjNu1RB2mJV7W-sCqNQC7UVUporwLmwe6HvLvkMpWke9UoSHD4PtvwgPPEv8MUAwKZk-uE66v-0E3sr69L564NGVagSyB24LPJlHbKE2IzjQ4ivJ_Ke8DbQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو محسن طاوسی</h1>
 <p>@mohsentavoosiseo • 👥 7.54K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 کار من تالیف و تولید هست✅️.❌️نه ترجمه و خبر و  گرداوری❌️دوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-26 03:17:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-26 06:23:54</div>
 <hr>
 
 <div class="tg-post" id="msg-729">
@@ -301,7 +301,7 @@
 https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google?registerForCourse=true
 ولی معمولا پرت زیاد داره طبق معمول. یک ربع مفید یا یک دید و ابزار بهتر ازش دربیارم کافیه برام.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/729" target="_blank">📅 12:25 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.2K · <a href="https://t.me/mohsentavoosiseo/729" target="_blank">📅 12:25 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-728">
@@ -321,7 +321,7 @@ https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-
 پشتیبانی دارای حریم خصوصی در چت تلگرام هست. وبینار نیست. روزهای خاص نیست. آزادانه هست (برای من آزادی خیلی مهمه). زنده هست.
 و توسط اشخاص قوی و قدیمی از بچه های خود دوره انجام میشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.15K · <a href="https://t.me/mohsentavoosiseo/727" target="_blank">📅 12:00 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.16K · <a href="https://t.me/mohsentavoosiseo/727" target="_blank">📅 12:00 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-726">
@@ -345,7 +345,7 @@ https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-
 <a href="https://t.me/mohsentavoosiseo/725" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">این اکستنشن فقط یک ابزار نیست، یک مزیت رقابتی سخت و مهار نشده  است واقعیت این است که آینده سئو متعلق به کسانی نیست که فقط بیشتر کار می‌کنند. متعلق به کسانی است که هوشمندتر، سریع‌تر و دقیق‌تر تصمیم می‌گیرند. و در قلب این تصمیم‌ها، Keyword Research قرار دارد.…</div>
-<div class="tg-footer">👁️ 929 · <a href="https://t.me/mohsentavoosiseo/725" target="_blank">📅 11:38 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 933 · <a href="https://t.me/mohsentavoosiseo/725" target="_blank">📅 11:38 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-724">
@@ -389,7 +389,7 @@ intent کاربر استراتاژی است و keyword Research فرمانده �
 #کروم_اکستنشن_سئو
 #کروم_اکستنشن_Seo
 #chrome_extension</div>
-<div class="tg-footer">👁️ 865 · <a href="https://t.me/mohsentavoosiseo/724" target="_blank">📅 11:38 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 867 · <a href="https://t.me/mohsentavoosiseo/724" target="_blank">📅 11:38 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-723">
@@ -603,7 +603,7 @@ Similarweb = 4$ = 720
 <a href="https://cdn4.telesco.pe/file/3494a006a0.mp4?token=MEhgxLVM4IF_hSSeFrOM1kRvAEQSLnvgqDoTkVzfDKT4vwWUYEfz4PA3pHAW0TD_eK1O5ARax3NqPmXHhDLtZxULHFC14qls9hRMhMYbiJOLVByQ0Tahhg4_zn22SZJ4FhewRwF-x4LizzJV2VO14X2YWSyUSH75ai0XhkzWJTOkAAbgK7xy6bIutM55Pclspmegvak-_bbj7fyXtHipKolJE0kSGLVixe9SuHF8OXvONtGPg0bGKubKWoH-F6235sgipD0MhJZaUGHxYJQOSjz-hGGBPsElFKWMm1x82HOG0qJMMabBPuvl4g4hZPTWEOC0Cpf1mueCZtm-URbjMQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/mohsentavoosiseo/708" target="_blank">📅 17:19 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.23K · <a href="https://t.me/mohsentavoosiseo/708" target="_blank">📅 17:19 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-707">
@@ -641,7 +641,7 @@ Similarweb = 4$ = 720
 با همین فرمون سرچ کنسول گوگلو تحلیل کنی تا ابد غلط در میاد تحلیل.
 مثل نگاه کردن به avg position کلی برای تشخیص رشد سایت!
 تازه طرف فکر میکنه چون حرفه ای به کلیک کار نداره پوزیشنو نگاه میکنه! اینجاست که کسی که فکر میکنه حرفه ای تره آمارش غلط تر میشه!</div>
-<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/mohsentavoosiseo/705" target="_blank">📅 11:29 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/mohsentavoosiseo/705" target="_blank">📅 11:29 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-704">
@@ -1033,7 +1033,7 @@ MB یعنی مگابایت
 ✅
 باعث کندی  با وی پی ان  یا از خارج از ایران یا زمانی که اینترنت بین الملل وصل هست یا اگه هاست خارج باشه، نمیشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/mohsentavoosiseo/657" target="_blank">📅 00:39 · 08 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/mohsentavoosiseo/657" target="_blank">📅 00:39 · 08 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-655">
@@ -1085,7 +1085,7 @@ https://t.me/mohsentavoosiseo/649
 مصرف دوبرابر کلاد در ساعت های Peek
 چرا اشتراکی خیلی معنی نداره برای کلاد؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/mohsentavoosiseo/650" target="_blank">📅 21:32 · 06 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 4.04K · <a href="https://t.me/mohsentavoosiseo/650" target="_blank">📅 21:32 · 06 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-649">
