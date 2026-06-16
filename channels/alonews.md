@@ -286,17 +286,621 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/gpgC7JP2ulAj13MLrXj5_iMYk0R6E2sfXqQmrBryg-Moud7_cW5P-adcM1F2PovnVR2fkS9QSNIzK7nNWCJRt1H4vBg4luNd7PxbbfwEmse8AlwHjbOZepFM_Uxw7qK02po_2PCnZcnFu9NDnGtwiXTBV2KRrn7TFnymmrokhtSimxXYwPxeGml6XxbXLPcZM3ouOXjzrlIYIXF-d4gN6C4em_vCwoC81tNBaJ_O3-bDfEY4x9iKkRU8U2J_lvymcr_QL6cbBTPLzoaULpDaMWjQGoueFhYKkSCL0h5X_d5BARCvexvZJU5FoWdXBcyxFdwk91UCL_7sZ5U4fmRxQg.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/Q8DLS9piyvS5KkRcN0ZOwf2xfmJ7_WOrPC1rTkPuH6KNVj-ggMWwXuf2LEVVMKzJBhKDdNQer-4T--stbuTY7UkvSI5qCbxwkE-dUt5UpmQ28Tz58IbkuhiOf_Qb5fgdPVCDSgGqO15TlBCEz5jmNBLGCtadCkw2inUHc0IoFNrJTGkZW--bJCFJkHwQrF4dm7XBzD0J_ziE1kCY92XLHEb_jB3zObGkgRNXqSD3t8zLibLER-lGb174SItnOVq4vV8PiiEGIQMBj5Anos57bjYzpzXWMouGYfGMC9zBZXjpoGNjarDbHId3X1ZpncV7BTmBJ-Pq4tElkM31d1vYhg.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 اخبار جنگ الونیوز AloNews</h1>
 <p>@alonews • 👥 973K عضو</p>
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directادمین کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-26 06:23:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-26 12:10:17</div>
 <hr>
 
-<div class="tg-post" id="msg-128357">
+<div class="tg-post" id="msg-128409">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-text">👈
+حزب‌الله: ایران الان یکی از ابرقدرت های دنیاست
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 4.09K · <a href="https://t.me/alonews/128409" target="_blank">📅 12:06 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128408">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-text">👈
+تخت روانچی: در سوییس پس از اینکه مسئله امضا ( تفاهمنامه پاکستان) انجام شد، مذاکرات شروع خواهد.
+🔴
+درباره جزئیاتی نظیر اینکه چه مدت در سوییس باشیم و چه مباحثی مطرح شوند، صحبتی نشده اما این مورد تایید دو طرف است که بعد از امضا، بحث‌ها (درباره توافق نهایی) شروع خواهد شد.
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/alonews/128408" target="_blank">📅 12:06 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128407">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/e565b291e7.mp4?token=ne18efqZbLRX9FnfVP6wkUopVXt8aZYOTieO8NSyogi6cQbRWheM1CWrP7g7PQ73iyptl583DT_7RCLbji6ayg5Y3fQ_Qv9WpOdUtG6ZVvH9oIN5qCqVm5LKDunZ4QClyKRFsQh70a7LMSBSBS7SWnx68vRowt7zKS9-QewmXzjlKzC_C6c4pgQdjq1oJhVnteeU8QLNZUVrWt58HzueBXer8ayb481NaHiq-2zTVfX6sdJH71BWZYngih_78RZJHEn0P6OGonliDPgtocgJYDxbaWZrzEGAXCiDyQNS8D4ije77gaz54FISqPWpqm8n5ZyQ84gjs2MmYq8SLfVfQy0JtZcQAWlARPi2auQ2YtOpnk2UivfZGyTacId1ba-uwMwUe8tLtd688AbzoyL6SgAOsCB00HYX5xJ0loRVAfslDqO7b6pzPparKHV6FBfX1S5OO9ZObsL9KJf0cjSMPA5G8f8CNElSyokHZuXap4YUZx2gKs9JzWMGL-KgzbzNtIvIqOgfL-BGscN4H4QGt8uJhlQRivdMOZGze_JOD4uxTadtiiUc8ZvBUKpdOK6E0UTOqRYnLaACj4qGJDW_MB_MAdG8Xx5IXbdwTVP3f538R3JgTtDHbMe8JR_QC857nT9LnnlbXA2Tyur9ax1Drro5i9rf--5X8Pbe4koF9bg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/e565b291e7.mp4?token=ne18efqZbLRX9FnfVP6wkUopVXt8aZYOTieO8NSyogi6cQbRWheM1CWrP7g7PQ73iyptl583DT_7RCLbji6ayg5Y3fQ_Qv9WpOdUtG6ZVvH9oIN5qCqVm5LKDunZ4QClyKRFsQh70a7LMSBSBS7SWnx68vRowt7zKS9-QewmXzjlKzC_C6c4pgQdjq1oJhVnteeU8QLNZUVrWt58HzueBXer8ayb481NaHiq-2zTVfX6sdJH71BWZYngih_78RZJHEn0P6OGonliDPgtocgJYDxbaWZrzEGAXCiDyQNS8D4ije77gaz54FISqPWpqm8n5ZyQ84gjs2MmYq8SLfVfQy0JtZcQAWlARPi2auQ2YtOpnk2UivfZGyTacId1ba-uwMwUe8tLtd688AbzoyL6SgAOsCB00HYX5xJ0loRVAfslDqO7b6pzPparKHV6FBfX1S5OO9ZObsL9KJf0cjSMPA5G8f8CNElSyokHZuXap4YUZx2gKs9JzWMGL-KgzbzNtIvIqOgfL-BGscN4H4QGt8uJhlQRivdMOZGze_JOD4uxTadtiiUc8ZvBUKpdOK6E0UTOqRYnLaACj4qGJDW_MB_MAdG8Xx5IXbdwTVP3f538R3JgTtDHbMe8JR_QC857nT9LnnlbXA2Tyur9ax1Drro5i9rf--5X8Pbe4koF9bg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+زلنسکی، ترامپ و مکرون برای نشست گروه هفت رسیدن پاریس
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 7.2K · <a href="https://t.me/alonews/128407" target="_blank">📅 12:01 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128406">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-text">👈
+تخت‌روانچی: قالیباف و ونس در روز امضا حضور دارند
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/alonews/128406" target="_blank">📅 11:57 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128405">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-text">👈
+در دیداری میان نخست‌وزیر عراق و فرستاده ویژه رئیس‌جمهور آمریکا، دو طرف بر اجرای طرح خلع سلاح گروه‌های مسلح خارج از چارچوب دولت و تقویت همکاری‌های اقتصادی و انرژی میان بغداد و واشنگتن تأکید کردند
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/alonews/128405" target="_blank">📅 11:51 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128401">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/eMxW2hJkFC-qviKJHpqDLEWawZbNKAE8VbjFAQpUcKi1kiJdan24LsD11dXsa2DjK2p8fNGYFUd6a7h4uLZyDhUleGPvWx_Blrow6fbkIua0hX7ZHnpxAfzA1KXVStZ4wqvIbo8Gb4k1S9HVNrmVJdBYgAr1dg08HiM2idS1LRun3DGf5en1NewAqI92rLjWdqVAH1QEa22s04xLxR3PSX1imdP0XakA5ju9KxoA-WAzAGgkysrp_UUrmCrbWmRvGZE0N75_tAPSEOnpU1UVXcA70urdy4_ohI8FDYraz0kuxdUf_bfD3ovcjCAWWT2elCiDHzUu1GuC7vHUgnoU0w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BPUKDJyPLnMEadnG5UFDUJT5v4FTRSPRYW0DJVxh7z752Y5nP5xqOzCTuca7-7eua0_ttPZze5rtrzKl5X0-6n7-9O0F-n4gPnN979ZVqEd0-2fZiciSizVONczO_ROGXxbCRjBFcYUKeGyOFMjAdZc79vsYcJLdu30-ShWUI5CwcZxeycoM6aAAkKAB0idFgYTi-C5QP-KII_2RlW5NTsgNxrpv6ccJYNrBRpp7ERVZaB204-DSNq8_-kOMcv1LVYfgTm0TTaLyGN44WWCtfM8-68tFfAzTbU-cm3IdK1LXLs4-9CCW6zgwbnq14SarsCcAAW0buWDisV8cn-wJUQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/YyOkdb_z6-ePN8IMNtrgAXcQVxmm78K8rY_ChN7OVkWQ6j0q9kew4RaTSKzHK0IpJ2rLwvjd3_Y4N2HQb10W8_iaPi-aA2umwoCElGaOL5ogwoO9fasijefhG4n9gNlbal0UyhWgmACCIKHvYwn9WAziIvzGM0YMP_lXZh6qQbA-l6UOteveZI8s39BHEvqtR49L_1meP5SZqaCRpFaSed6WH7pDqxMoq8C8GkQl7TiQzY0brTO7uG67o_RAwpec4T55SZv39zWtZSqw5QF8zVy8jaRExl3CKpTKuqHjdc74klnHlwzE2MRyqFpoIU1Junq7alXrSgCgksuNjdNUow.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Q6necl5uwbnhOAXfjomCfLxXvOJkBbkiUoNbXS47jGwRmIVAX_DGZOok2Jb-VyQHyUSEi43zCSm_LZ-b0ZIOH6wJmszLlNO2Y_DP6mgYj72DKRcvlsmhZHvUjwQb9ZFHbWGIJvXM_jdhdTMKEomCljJ6o6z4_4Zud3fcr14SxyFqUabQ6s6RLG-ms2AUS5zTKhPMEd3WrocW96GeA5bMpaH4lSgCgUL5yZS5vPuQLdI8Pg4VD8LCznR2jtF4SzN1YlQaIQIRjtILdsJOaVzp-EN3I3SSPwPY2bhsnP_3o8k8KYEh_EW477DnlabNqFvIAPMi63JGuZuUqGXeVuvtvA.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">👈
+صبح زود امروز، پهپادهای اوکراینی به پالایشگاه مسکو در کاپوتنیا، روسیه حمله کردند و باعث آتش‌سوزی عظیمی در این تأسیسات شدند.
+🔴
+در چند ساعت گذشته حداقل ۶۰ پهپاد در منطقه مسکو رهگیری شده‌اند
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/alonews/128401" target="_blank">📅 11:41 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128400">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XOdwiOTZwidiw91geNCwTfYuiZqT9Z03tm08vfj2ypTmkGjv_E1MLPyOJAdhtw6bW2Aem22bxZOB6n3FglDZjny9j4pJ2eCDzPzPNKSXybXl-OBpoeX0VY52wmdUDmqmZA6OK53BqNC6O021YTRh96l2P7mSb2kJtTd6Ai0VK4vR2mbcGdssbh-eCqgSInAGx5IU0gNDsQyKZUI4vAqs9TinBxujVm2UjIRFoIMPAs_BW_7DZKhEpDS3_6nDxXhTNwq6xvsqPQjQLC-1VLClGDJzrEr8iYgcgMt6Ph8T4co_1IyHyHstalM8BG8KXd7TMqoKvXjLjA9tuUhSIu9hwg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+ارتش آمریکا برای تخلیه بخشی از هواپیماهای سوخت‌رسان مستقر در فرودگاه بن گوریون آماده می‌شود. احتمالا حدود ۲۰٪ از هواپیماهای مستقر در اسرائیل منتقل خواهند شد
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/alonews/128400" target="_blank">📅 11:37 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128399">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-text">👈
+عراقچی: دو طرف این تفاهم‌نامه، یک طرف آمریکا و اسرائیل و طرف دیگر ایران و حزب‌الله هستند و خاتمه جنگ در لبنان، بخش جدایی‌ناپذیر از خاتمه کامل جنگ است.
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/alonews/128399" target="_blank">📅 11:17 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128398">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/76adb99a74.mp4?token=ZaqdkiFbiYCw0iBDTni2f4IOnsBGFSUfXb-jyAjGQdlUM9HPNuBnO-OwHMz9ho7l5nmuK4yhbMRjn3-MTxdLAv1y6YG2lYBASn_wM_8jR_7smmcKiH2-37Z9sKpnKxO-_q3M0IjZI6zqhVU_9g0kTu9NwheAEWJhiD8gwQNru9mPM2YAgEMfA6kTwftqBk0NkcXBVTdpGWQy6HPIxY6AlVuooF4UvMajgdaeXtRlg-ef8wG0-8CqXtyEnAG31C6MYDJbSyNEyQh6MHtyDdB649szYUVyXLhIFRC_6gnFP1CSDvUPgR_UPbpK5L-JhtVQxeMwkalaPwpCZEVx7ia5plfJi6y28rcJGlEujM52WYfj5e_QZrCzXz7eKrQ_XrcaSw0KiUAWnyyBM1qrLQ2MtnUIkNbOuALUo_KokgSAJGTE9RzfiXRycp14IIlxT9eIu9kap3zEN_MMjkyCjyN66AJKXB6223IuCm4ZDVLEVzM0zu0opftC9Jr_ZfTMi9W45o75BzJ8hOYVCWkmlVstLx0mrgwHiSYhsFmkENN2CE4MwfKKJFr2lfpiBl0QEQS4SiEP6B8EKFpcKd3yv7eI8fVv15Xw3AQVfa0GOugM07Ii4SMP3Nxr5CmsZ3vd8h8uMI9ukSzO0wXXKMtunYbMYge9xTn2xXlwz7t7_pH4MFo" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/76adb99a74.mp4?token=ZaqdkiFbiYCw0iBDTni2f4IOnsBGFSUfXb-jyAjGQdlUM9HPNuBnO-OwHMz9ho7l5nmuK4yhbMRjn3-MTxdLAv1y6YG2lYBASn_wM_8jR_7smmcKiH2-37Z9sKpnKxO-_q3M0IjZI6zqhVU_9g0kTu9NwheAEWJhiD8gwQNru9mPM2YAgEMfA6kTwftqBk0NkcXBVTdpGWQy6HPIxY6AlVuooF4UvMajgdaeXtRlg-ef8wG0-8CqXtyEnAG31C6MYDJbSyNEyQh6MHtyDdB649szYUVyXLhIFRC_6gnFP1CSDvUPgR_UPbpK5L-JhtVQxeMwkalaPwpCZEVx7ia5plfJi6y28rcJGlEujM52WYfj5e_QZrCzXz7eKrQ_XrcaSw0KiUAWnyyBM1qrLQ2MtnUIkNbOuALUo_KokgSAJGTE9RzfiXRycp14IIlxT9eIu9kap3zEN_MMjkyCjyN66AJKXB6223IuCm4ZDVLEVzM0zu0opftC9Jr_ZfTMi9W45o75BzJ8hOYVCWkmlVstLx0mrgwHiSYhsFmkENN2CE4MwfKKJFr2lfpiBl0QEQS4SiEP6B8EKFpcKd3yv7eI8fVv15Xw3AQVfa0GOugM07Ii4SMP3Nxr5CmsZ3vd8h8uMI9ukSzO0wXXKMtunYbMYge9xTn2xXlwz7t7_pH4MFo" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+درگیری موافقان و مخالفان ج.ا در ورزشگاه
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/alonews/128398" target="_blank">📅 11:10 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128397">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-text">👈
+عراقچی: هرگونه حمله نظامی اسرائیل به لبنان ، نقض یادداشت تفاهم محسوب می‌شود
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/alonews/128397" target="_blank">📅 11:06 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128396">
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromالو توئیت | AloTweet</strong></div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/74d16e6d68.mp4?token=ZKgW-E0ar3kkGAVP-58vhjUiHKjXUhFGQuxxsXtpU10gryGf4GMzmSUVLtVN3jhSOoOhGwFZSyz8bXkdkkbggYv5sAyVN-69ETuzdYSK7IIOtTDLvbH5WhkOs4PgIK3eNSHmh1vopOpC83KfYLTFAgr89FpfwEwvR5vhomIifSwfIReIhVE5ZyFHMPsbtUD0_qGmcPcxpcj4Pfogkhwd6QPqsXqZVyatCbHj7MPGshO7I1Ho3BR_mcTslGbS07DRQnTBau-eubSyY-eHUN9j-11YuUCudWaA-pt9eJs-58WOhdKN4Q6CKDc9n1QIjXkUQFafobKmJHat9WEfz04ThA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/74d16e6d68.mp4?token=ZKgW-E0ar3kkGAVP-58vhjUiHKjXUhFGQuxxsXtpU10gryGf4GMzmSUVLtVN3jhSOoOhGwFZSyz8bXkdkkbggYv5sAyVN-69ETuzdYSK7IIOtTDLvbH5WhkOs4PgIK3eNSHmh1vopOpC83KfYLTFAgr89FpfwEwvR5vhomIifSwfIReIhVE5ZyFHMPsbtUD0_qGmcPcxpcj4Pfogkhwd6QPqsXqZVyatCbHj7MPGshO7I1Ho3BR_mcTslGbS07DRQnTBau-eubSyY-eHUN9j-11YuUCudWaA-pt9eJs-58WOhdKN4Q6CKDc9n1QIjXkUQFafobKmJHat9WEfz04ThA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">تو ترافیک گیر کردی
+اون زن چادری پرچم به دست:
+[
+@AloTweet
+]</div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/alonews/128396" target="_blank">📅 11:00 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128395">
+<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-text">👈
+عراقچی: روز جمعه دور جدید مذاکرات ایران و آمریکا برای رسیدن به توافق نهایی آغاز می‌شود.
+🔴
+بعد از سه ماه مذاکره توانستیم مرحله اول را نهایی کنیم.
+🔴
+در مرحله اول مهمترین موضوعی که اتفاق می‌افتد اعلام خاتمه جنگ است و بنا به تصمیمی که گرفتیم از صبح روز دوشنبه به وقت تهران که این توافق نهایی شد، خاتمه جنگ هم اعلام شد. ولی شروع رسمی تفاهمنامه از روز جمعه خواهد بود.
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/alonews/128395" target="_blank">📅 10:54 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128394">
+<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-text">👈
+اختلال ادامه‌دار در بانک ملی و صادرات
+با وجود گذشت چند روز از شروع اختلال در خدمات بانک ملی و صادرات، سرویس‌های مختلف همچنان با اختلال همراه هستند.
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/alonews/128394" target="_blank">📅 10:49 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128393">
+<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromAlo Sport الو اسپورت</strong></div>
+<div class="tg-text">از بین ۴۸ تیمی که در جام جهانی حضور دارند، رتبه‌ نیوزیلند در رنکینگ فیفا از همه پایینتر است؛ حتی از کیپ ورد، هائیتی و کوراسائو.
+🇨🇻
+کیپ ورد - ۶۷
+🇨🇼
+کوراسائو - ۸۲
+🇭🇹
+هائیتی - ۸۳
+🇳🇿
+نیوزیلند - ۸۵
+@AloSport</div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/alonews/128393" target="_blank">📅 10:46 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128392">
+<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-text">👈
+رسایی: اینترنت رو قطع کنید
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/alonews/128392" target="_blank">📅 10:42 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128391">
+<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/acd2ad4863.mp4?token=G818O1XX5hRKsnvGRm_Ev1xFMOdQnhj-K1yaW1MSqrDAUpxTzukFTGsCwmcrtPVXS2axLD2OB4GWX7rp5T-QgCu-ddxF6uSvXHi6ILfCNPUhkQoXzcctl7si_jxJLyH_pMz5R1zq-AzIQGIEHKIcpK5jQJtvLAHV0Fd_czgbTXyVJyojx58_IoM4c3FHQ9fkagF0SZOzfLwi4uL-1ZnBYM3iskBeDBx0uiqdJ14MvDnlKFcYKnR5fevGWqDiKesYd3EQZOTSHrRhPWXqEZlW8GRG5WNnYW7hLbRKHoDfANSlPH9ARdsWEVd7Ejp4bDVw73VpAeu06k3xclmnimEUOzzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/acd2ad4863.mp4?token=G818O1XX5hRKsnvGRm_Ev1xFMOdQnhj-K1yaW1MSqrDAUpxTzukFTGsCwmcrtPVXS2axLD2OB4GWX7rp5T-QgCu-ddxF6uSvXHi6ILfCNPUhkQoXzcctl7si_jxJLyH_pMz5R1zq-AzIQGIEHKIcpK5jQJtvLAHV0Fd_czgbTXyVJyojx58_IoM4c3FHQ9fkagF0SZOzfLwi4uL-1ZnBYM3iskBeDBx0uiqdJ14MvDnlKFcYKnR5fevGWqDiKesYd3EQZOTSHrRhPWXqEZlW8GRG5WNnYW7hLbRKHoDfANSlPH9ARdsWEVd7Ejp4bDVw73VpAeu06k3xclmnimEUOzzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+خوشحالی ایرانی ها خارج از کشور(تورنتو) در لحظه گل اول ایران
+🔴
+وی سپس در توئیتر می نویسد: دیگه دلمون با این تیم نیست، تیم ج.ا و ...
+😂
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/alonews/128391" target="_blank">📅 10:37 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128390">
+<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-text">👈
+ویزای مهدی ترابی بعد از یکبار ورود به خاک آمریکا منقضی شد
+🔴
+فدراسیون فوتبال برای اخذ مجدد ویزای ترابی اقدام کرده
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/alonews/128390" target="_blank">📅 10:36 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128389">
+<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-text">👈
+سخنگوی دولت طالبان: توافق ایران و آمریکا باعث چشم انداز و پیشرفت خوبی تو خاورمیانه میشه
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/alonews/128389" target="_blank">📅 10:32 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128388">
+<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/db1f670914.mp4?token=IuQfR6vIE3-tA-hOQmmxJ9isn1sO2d2-D7x19f6LPjtqHXjDmNLr5j6EdHyemcJDsdfZj-MuVs4mNSm88_vGNLmEDLMDRDi_y0MrBpAZv_CPy4sRGmZdCR_b7jghMQUo-_a5S5aAhjtOpgBK6SwmmEBSesLk1IEx28z0Cxnb_GzBAE8PaXGXN07LQbINXGbfhTmoKuVX4Ad_A3AhvorB6uLEyDlssvqZ6mPDdsHQr4Kq1eTjd57LMhsKH60hBaZTPQMwXuaSH2YRECATFwXaIlq2OQszOUFjh4Pi2qHZYZAleufY-sbdQoGYrgGBdOniGTWSPiPFkraf81QD-RT7wSS9F3DVmhy7tsdG9tk1ntC7GMMz__-rwBoF8-ZyIFTqBwyE_BvZ-I8NcVbdCPmb_SHFQUHBgvww3KdrCRKzHG6GhX-1n8SDcHsamb6vESfKmDP4_A1iEZrDSOAQF2eIoviQrdRr5Lyil3gAk6KT5sLJu-mcy44ly4Cw8zAvZ9MQh9sdZstyxC_2p9bNLrYPWQTQR4ijLpq4DryLzZKvDxe4DTTYmNea6lYhPUtoxDSEKWbrY5i3-ooY64w-pki4-maDplgv7Esy3NAg9ChJMQtHyHJSVRz_8dzMIy0Rgplz8gwVuNiCjgo5UbsuE1IfSUanrUT29BNz0X3bqDHziUY" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/db1f670914.mp4?token=IuQfR6vIE3-tA-hOQmmxJ9isn1sO2d2-D7x19f6LPjtqHXjDmNLr5j6EdHyemcJDsdfZj-MuVs4mNSm88_vGNLmEDLMDRDi_y0MrBpAZv_CPy4sRGmZdCR_b7jghMQUo-_a5S5aAhjtOpgBK6SwmmEBSesLk1IEx28z0Cxnb_GzBAE8PaXGXN07LQbINXGbfhTmoKuVX4Ad_A3AhvorB6uLEyDlssvqZ6mPDdsHQr4Kq1eTjd57LMhsKH60hBaZTPQMwXuaSH2YRECATFwXaIlq2OQszOUFjh4Pi2qHZYZAleufY-sbdQoGYrgGBdOniGTWSPiPFkraf81QD-RT7wSS9F3DVmhy7tsdG9tk1ntC7GMMz__-rwBoF8-ZyIFTqBwyE_BvZ-I8NcVbdCPmb_SHFQUHBgvww3KdrCRKzHG6GhX-1n8SDcHsamb6vESfKmDP4_A1iEZrDSOAQF2eIoviQrdRr5Lyil3gAk6KT5sLJu-mcy44ly4Cw8zAvZ9MQh9sdZstyxC_2p9bNLrYPWQTQR4ijLpq4DryLzZKvDxe4DTTYmNea6lYhPUtoxDSEKWbrY5i3-ooY64w-pki4-maDplgv7Esy3NAg9ChJMQtHyHJSVRz_8dzMIy0Rgplz8gwVuNiCjgo5UbsuE1IfSUanrUT29BNz0X3bqDHziUY" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+میثاقی: پرچم شیر و خورشید، آشغاله
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/alonews/128388" target="_blank">📅 10:30 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128387">
+<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-text">👈
+بیرانوند قبل بازی:
+دروازه رو مثل تنگه هرمز میبندم
+🔴
+دوتا کشتی رد شد و یکیش هم زاویه بسته
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/alonews/128387" target="_blank">📅 10:23 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128385">
+<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h9jc4itaVIeaMNllw1xDho7iagg67khVLVKABzNtQBAmvz6Lam9rv_35HX0D0_AzFuyOVHNO05nApKu8ifZvD56DuqtEO4tJRjZn4iOaQoGTtrorc4QEXRAvqq9JtXyFaaJPPBJGoJs0ZU_QfZwj2F63TbllPlkzWG_6Km-MyTadcxR9Yt57gq9-a4c3IQ0P35QQWKmwbkZ8kNJvATZ6IkgrpvcRLXqZ3iu44jd5bdBmK_OWpKux6sX75vEhy5NA_Ha3X2vwPvAT44F4LuqDfa_ma-HhFeEC02NIq3JJ2tfkmtnOmrY15CMitfEaH2TjywWD5I_zFVZA15hMD8Vnaw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/de38edfb2a.mp4?token=ZV1ja7GbmqSyJCGsg8f7JxUmM_gadjQ5EWn3RPDZeHPi9lON45CDHGIQYldUwm1ElDHQbkYU38vVq1WZMUoBq3yu5_n-Pmbi6yCBiF3ssNkEvTm3FIJMDtsZA_rMVp2QmZh-iHFxmkDHfzPiRvJA_Al8pBd5Ihng1f9ESARLVDr1Lbf6vvRNDHAwlxdbVEc6QLvzskJXQk8NwMuCUOUGcs6_an5CDTYUnxIao5SPaydXdtM7q3Jbt_OSwPg26EYp5MDb3MkQuhMazByEFqZRCmLRzoHwT3o9nyBdZpDpS6KwLOX6mpik0MGogw6ERErgkFwHL2GltKNrfV3Q_7Oluw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/de38edfb2a.mp4?token=ZV1ja7GbmqSyJCGsg8f7JxUmM_gadjQ5EWn3RPDZeHPi9lON45CDHGIQYldUwm1ElDHQbkYU38vVq1WZMUoBq3yu5_n-Pmbi6yCBiF3ssNkEvTm3FIJMDtsZA_rMVp2QmZh-iHFxmkDHfzPiRvJA_Al8pBd5Ihng1f9ESARLVDr1Lbf6vvRNDHAwlxdbVEc6QLvzskJXQk8NwMuCUOUGcs6_an5CDTYUnxIao5SPaydXdtM7q3Jbt_OSwPg26EYp5MDb3MkQuhMazByEFqZRCmLRzoHwT3o9nyBdZpDpS6KwLOX6mpik0MGogw6ERErgkFwHL2GltKNrfV3Q_7Oluw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+شادی گل بحث برانگیز «محمد محبی» که با اسلحه شلیک کرد سمت تماشاگرا.
+خیلیا معتقدن به سمت کسایی که پرچم شیرو خورشید داشتن و عکس جانباختگان اعتراضات دی ماه رو داشتن شلیک کرده.
+برخی هم معتقدن تو خاک آمریکا به آمریکایی ها تیراندازی کرده.
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/alonews/128385" target="_blank">📅 10:21 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128384">
+<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gQhO5KFLYbvoiIzVTk8eOQGYH-QMK5adcrw7obvoVB3ToRV7jPi-8ALIVctFCs-FSijBCsfxv8ROePLP2QGMk-emCILfip96N4kOsapdLbN0M2j9k3df6JzYvwbfjmDsFoITp4h6BlGdqRZnxxf3qoKirUXgR2onxS9JohLKjj1wRSInUsuyWLw1h2Ycv-aBrPuvA03-ID3M34qGZxTvYl8M3gWJliY8rcDSqZArVIDxgoptwe42F6aM0JctvLziQ0IfYAmgG9MrHP21jdxdcdG7tZCdsUkwsvFlMGlB3nQVwlzFOxH_2VDhoC1aB6lgO0UX4aPUz65nfJu8GQaK_Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+تحقیر پشت تحقیر
+‼️
+🔴
+تیم ملی ج.ا بعد بازی بدون ریکاوری درحال خروج از آمریکا است اما طارمی و الهویی درحال بازجویی هستند
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/alonews/128384" target="_blank">📅 10:19 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128383">
+<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromAlo Sport الو اسپورت</strong></div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/c60c66f257.mp4?token=ipvfIQm4pIj3KfT5SsW2JBobuoe8iSvGmuHT6hyXEtczAPd0VvIStEv74F7Y-A_n57XWFfQb28IxApfIjKfTfdb_zD1-_svWamupHo5Cr7dCQn_etyGFTXxscoIYQqVQbE51J-4Zf1kOWcKnE4apd8KUee3j4Bm_N9yEqzG7rzqvlHyiM1EIlIruV4O32RoT2_j_kw58htG6kkgQxJaYmW8ixRcPxkuoBpS2XQSVUncr6izy18GEVhyJAYJXZ-lSDHzjCkujTEXBANfSRH-0JEGQHBhDGoOH-snlh7SB1_EVZa6qylDD7TDm8NT3TC7l9_Dta-BpanDrDbG_4d_o8w" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/c60c66f257.mp4?token=ipvfIQm4pIj3KfT5SsW2JBobuoe8iSvGmuHT6hyXEtczAPd0VvIStEv74F7Y-A_n57XWFfQb28IxApfIjKfTfdb_zD1-_svWamupHo5Cr7dCQn_etyGFTXxscoIYQqVQbE51J-4Zf1kOWcKnE4apd8KUee3j4Bm_N9yEqzG7rzqvlHyiM1EIlIruV4O32RoT2_j_kw58htG6kkgQxJaYmW8ixRcPxkuoBpS2XQSVUncr6izy18GEVhyJAYJXZ-lSDHzjCkujTEXBANfSRH-0JEGQHBhDGoOH-snlh7SB1_EVZa6qylDD7TDm8NT3TC7l9_Dta-BpanDrDbG_4d_o8w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">ویدیویی از ابراز علاقه هواداران به بیرانوند
+@AloSport</div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/alonews/128383" target="_blank">📅 10:18 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128382">
+<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Mla52LUxWJ27GNRQcu8e8dQJ-FBmNNLJfRsK93N7LD2CAFNSRLE6S5Zrf7izISQJPVYk_nDI75jk46A_qUQdCEQVX3iAI8U8DkhYiv4HJwnO0z2XwC-pVMnMq4CYXzmu34ZPqMTOwgxmkdyYhxI-Vx7ydmgI3MZaFiHdZwajp8B9kLDQHUxVHAr-04ERCik13pSMX4celq-POsQEqBnuz3s0KQaZfur0zefw4nkwCsuZtQyKGZAZ0seuyDrkiBf3Aj6hGAZv8emh8zoTInqDM2RNrxIL7SIHDugxljlEX2QwQrtY0mUreLN13FEvuN9exnLcSoGczRTxO6JnodO7WA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+فرمانده نیرو هوایی اسرائیل درباره جلوگیری ترامپ از حمله به ایران: تمام نیروی هوایی آماده شروع یک سورتی پرواز رزمی عظیم بود
+🔴
+عومر تیشلر: ساعت‌ها قبل از دستور پرواز، با کاهش زمان آمادگی، انعطاف‌پذیری استثنایی نشان داده شد و کل نیروی هوایی مسلح شد، برنامه‌ریزی، آماده‌سازی و آماده حمله به صدها هدف در قلب ایران شد.
+🔴
+حمله در حالی متوقف شد که ما فقط یک ساعت قبل از پرواز در حال توجیه اهداف به اسکادران‌ها (گردان هوایی) بودیم
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/alonews/128382" target="_blank">📅 10:15 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128381">
+<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-text">👈
+وال‌استریت ژورنال: ترامپ در ازای تعهد تهران به ازسرگیری مذاکرات هسته‌ای، با رفع محاصره موافقت کرده؛ این یک عقب‌نشینی راهبردی است
+🔴
+توافقی که رئیس‌جمهور آمریکا، دونالد ترامپ، با ایران به آن دست یافته است، بیش از آنکه یک پیروزی کامل راهبردی باشد، نشان‌دهنده عقب‌نشینی از اهداف اصلی واشنگتن در آغاز جنگ است؛ زیرا آمریکا در ازای تعهد ایران به ازسرگیری مذاکرات درباره برنامه هسته‌ای خود، با رفع محاصره موافقت کرده است
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 35.9K · <a href="https://t.me/alonews/128381" target="_blank">📅 10:08 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128380">
+<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-text">👈
+تسنیم : دقایقی پیش، ۳ نفتکش و ۲ کشتی حامل کالای اساسی ایران از محاصره دریایی عبور کردند
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 37K · <a href="https://t.me/alonews/128380" target="_blank">📅 10:05 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128379">
+<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-text">👈
+صدای انفجار در دزفول ناشی از امحای مهمات است
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 38K · <a href="https://t.me/alonews/128379" target="_blank">📅 10:00 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128378">
+<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-text">👈
+سپاه: احتمال شنیده شدن صدای انفجار کنترل‌شده در جنوب اصفهان
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/alonews/128378" target="_blank">📅 09:54 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128377">
+<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-text">👈
+ونس: ترامپ ممکن است که پیش از روز جمعه، جزئیات توافق با ایران را فاش کند
+🔴
+جی‌دی ونس، معاون رئیس‌جمهور آمریکا اظهار داشت که رئیس‌جمهور دونالد ترامپ ممکن است تصمیم بگیرد پیش از روز جمعه جزئیات توافق با ایران را منتشر کند
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/alonews/128377" target="_blank">📅 09:50 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128376">
+<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/50d96af772.mp4?token=XygyOw487i5VdI92-y-2M-cqy1EIV1H-UppTQQTJgilc6r3M-2XI2J2NgU8WxC04KknaV92Ewf8TqoFdVgGDoNTA-4ZSMPbAOb9qclSQeKZ6u7GmJZvKuaDM03mlR1TPVP57fMuLAqBlw7QD2q4l0dyIqSdjQzBhIT5pegt1PUiMWJH9Ysp4ZY3Wb7J7FLTTUR4p7PK64BNsxOrCNpxu1U2rZ3S-GA45FEXPWEzxejiH1imQyWx75aJVTRjdY-IPRugyDrYhbh51s5FxnrF_I4OyHl5U80_WeRYOi8Ku6JZ1KLdtCxpgjb2fwyaHNPJbPzgaRVr6Az4myljLymA0Bg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/50d96af772.mp4?token=XygyOw487i5VdI92-y-2M-cqy1EIV1H-UppTQQTJgilc6r3M-2XI2J2NgU8WxC04KknaV92Ewf8TqoFdVgGDoNTA-4ZSMPbAOb9qclSQeKZ6u7GmJZvKuaDM03mlR1TPVP57fMuLAqBlw7QD2q4l0dyIqSdjQzBhIT5pegt1PUiMWJH9Ysp4ZY3Wb7J7FLTTUR4p7PK64BNsxOrCNpxu1U2rZ3S-GA45FEXPWEzxejiH1imQyWx75aJVTRjdY-IPRugyDrYhbh51s5FxnrF_I4OyHl5U80_WeRYOi8Ku6JZ1KLdtCxpgjb2fwyaHNPJbPzgaRVr6Az4myljLymA0Bg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+وزیر ارتباطات: ممکن است در این ایام با حملات سایبری مواجه شویم که نیاز به مدیریت دارد
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/alonews/128376" target="_blank">📅 09:45 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128375">
+<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-text">👈
+لیبرمن، وزیر جنگ اسبق اسرائیل: این توافق تضمین می‌کند که در نهایت کار به یک ایران هسته‌ای ختم شود.
+🔴
+من هیچ ادعایی علیه آمریکایی‌ها ندارم؛ برخی انتظار دارند که ایالات متحده بر اساس منافع اسرائیل عمل کند، اما واقعیت این‌گونه نیست.
+🔴
+این دولت ناتوان طی سه سال گذشته فقط مشغول حرف زدن، اظهارنظر کردن و پیش بردن دستورکار سیاسی خود بوده است.
+و از سه سال پیش تاکنون هیچ نتیجه‌گیری و تعیین تکلیفی حاصل نشده است؛ بنابراین آن‌ها باید فقط خودشان را سرزنش کنند.
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/alonews/128375" target="_blank">📅 09:34 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128374">
+<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-text">👈
+کانال ۱۲ اسرائیل: «نیروی هوایی آمریکا تأیید کرد که در پی سقوط یک بمب‌افکن B-52 در پایگاه هوایی ادواردز در ایالت کالیفرنیا، ۸ نفر جان باخته‌اند.»
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/alonews/128374" target="_blank">📅 09:30 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128373">
+<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uN7RP_d-EroKXNDVYqht4OWMDe481jqFrhYCUQuOmV-o4Y6kItck_gOSw_sjkg5vMBVfD_ijgsSRlUIMRWMHFC-hejp5EYW8WSX-VTsYweVrWGfi6fAmaVvGqOsNTDFiXI93pl4sIXJijSE7D_djtOvtEz8QPRDwJ09k2y-KUhZwTGj8ifzMOMzAmqUo2rA_ysH75jk1iotWRvoDP4P4Tz4aUxop7hMfCQ7FyZFw7829sMCp9dge1h4fbLBq_qihb7ezZ6-pGsCGxrCOLISY0hrBvpnHibBjxwqaB5rm9v_-E88y2C1Xzqw6LWN_hmQhZ4ccFwlskPxGeeVtieJRhw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+شاخص بورس ۵ میلیونی شد
+🔴
+شاخص کل بورس ۱۱۶ هزار واحد رشد کرد و به تراز ۵ میلیون و ۹۷ هزار واحد صعود کرد
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/alonews/128373" target="_blank">📅 09:26 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128372">
+<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/maFD3TadCC31xGyust8T52RbA5V2G9L8ldizcJCjsDTB8bTfXxZGeDwvQzeECyXWvajGlovJUq2wegK3MyXUd_T2lSeTgBHoR3hDmtwwVwv9f3fPrSPqH5Yr3Y0dYaE5fNUlRzoYaC7G_777To6rc989_SPsEalYfLsxHxAzl2el6rkXvfQaICzkrLBOih0JTSLvznt0To3oPIAcskK0sNalaB7iVg3JcFGQH1YbU-V9GqZtUWspBh-Rsb6-huRWmBQunUI9GgPF2PS8IsxdwVMGzWVzEvMZS76UeA64dHpfjL8tWzT_gSq2M2NcBmhySGrs5xKlhzh_H3T29AeFwg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+نتانیاهو رسما برای انتخابات اعلام نامزدی کرد
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/alonews/128372" target="_blank">📅 09:21 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128371">
+<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-text">👈
+شبکه خبری المیادین از حملات توپخانه‌ای اسرائیل به اطراف شهرک «العیشیه» در شهرستان جزین در جنوب لبنان خبر داد.
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/alonews/128371" target="_blank">📅 09:15 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128370">
+<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/a40eb697b4.mp4?token=oLXONFr40sTuCBzTacdncJsZ_ZfIQiDI3m1BBmVLTwqvW9OALbv7WpKkywtNvyfuv-1Nz52w_TatYnSM3tEkQ1Etkf5UsZPiGn4aYwSvbhE7kdicKvI5e7YBa_LseWWRQIeCm1C5ut4oplWP_VrgVrbTAmZAgM2xeiKNAp_ys-4LoTQMSod9K273Z-OF9sIgKKw5S-nHFH8C0BmkjjUOjlO-5jgS1Y9Wh19ssNJnI-YSspjkYixRXBl_l-gPzkQ7y6bHiIzZ8l3Y5rfLqJHvhkbiCyDtJlLqMHnseYfAMwdGksdxB32gu7-v7XZuqoilfYj_v1gXNYdx4YIHi6Ndtg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/a40eb697b4.mp4?token=oLXONFr40sTuCBzTacdncJsZ_ZfIQiDI3m1BBmVLTwqvW9OALbv7WpKkywtNvyfuv-1Nz52w_TatYnSM3tEkQ1Etkf5UsZPiGn4aYwSvbhE7kdicKvI5e7YBa_LseWWRQIeCm1C5ut4oplWP_VrgVrbTAmZAgM2xeiKNAp_ys-4LoTQMSod9K273Z-OF9sIgKKw5S-nHFH8C0BmkjjUOjlO-5jgS1Y9Wh19ssNJnI-YSspjkYixRXBl_l-gPzkQ7y6bHiIzZ8l3Y5rfLqJHvhkbiCyDtJlLqMHnseYfAMwdGksdxB32gu7-v7XZuqoilfYj_v1gXNYdx4YIHi6Ndtg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+وزیر بهداشت: سالانه ۲۰ هزار نفر از جوانان خود را در اثر حوادث ترافیکی از دست می‌دهیم
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/alonews/128370" target="_blank">📅 09:11 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128368">
+<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Vie8GSmgw6kEfRIGm0JeOM2dxPRUEf3XI0dLa3wMZm8YcKHaUMy2wZE01tAqK0Zj0-O6SJ8m-vnVshuAvCYDd9Vt3aPJbwHguPn6GWKo6ShZELGFR3apDzplRenDjvcBLe1ukKjwxMluxkN5LmUzsQVOoXDcrwyKDTY4AHsiVf2HeFGK_lJVnPMykdmLw5Z7ySSt0j3-wpE6jJot_6oyIym6RMK3MZxU0Pm18mDtgXRC5TFXcC2hwp3VOyr2dehbEcjYI0pyl3EIsskoGbVUk8SjS_X2hlQrPs4MnEJciO3Msw1y2ggbsKSoKwxYI7zK08XvQiEk9dapp74ff75oyA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/94357192f3.mp4?token=svCq7wVzR183dOdgvZcQsRnsbg0Jv3J1szvJhJgWHs1yCdaFua9DnZ6BBKpeUoPVPUA-TUMWoFpJM7IcLWzF_wSNM886lYEPUZOMl4r782dLnn7eTnGCxOGvjY7uUDXo4HBFj9vIH5JhEj8q4wphja_DWwbu23M9BbkNkBAl_UajrnzFP8vRsEUejOD5oLpP5na8aevVISW1vGocjnpZ4pdft_s6s-507biBDHsoeRsnjTibjOaxgNXnQpn8od9nosZf_N5oWECCOGbep85FN27lZO670bqB3-1YtUI0hGQDuH-LAxHyXj3G52LKv0MuV_tSau6o_7_lmdeIQt7SMg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/94357192f3.mp4?token=svCq7wVzR183dOdgvZcQsRnsbg0Jv3J1szvJhJgWHs1yCdaFua9DnZ6BBKpeUoPVPUA-TUMWoFpJM7IcLWzF_wSNM886lYEPUZOMl4r782dLnn7eTnGCxOGvjY7uUDXo4HBFj9vIH5JhEj8q4wphja_DWwbu23M9BbkNkBAl_UajrnzFP8vRsEUejOD5oLpP5na8aevVISW1vGocjnpZ4pdft_s6s-507biBDHsoeRsnjTibjOaxgNXnQpn8od9nosZf_N5oWECCOGbep85FN27lZO670bqB3-1YtUI0hGQDuH-LAxHyXj3G52LKv0MuV_tSau6o_7_lmdeIQt7SMg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+پالایشگاه‌های مسکو بار دیگر در مورد حملات پهپادی اوکراین قرار گرفت
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/alonews/128368" target="_blank">📅 09:06 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128366">
+<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ysm_zNEM2tcZ0t1_LrIl3oTVVGf5Qf34odrIUo0fKguzKeNQYky5qnhwH7vcIURH2UTlgeyvmHlA_CgIaEuFi9VQ7yHp2ikVisVendNpMp_iXld6rRYpA09fHZ6EP4fyfSRJT8a77AZ2ViIOzq3cKTJzBiNbSgogiXIoTkvOYlxB_Dw0mI-uoO6w0VW6ql4EUg-1rC1IPjOtyJ7qHnCsfwf3dK1DuKims4eInSoJ4tz77slJexXnYizylZ8oaOaR1hdRkKjUZ0TTdVbzwlW2XmCsTByLcLI7f2Ncfth5-4HqNd3dClCqhjZ9l9cPPDrEYq7TOQ0MbEJKH6Op4qEyUg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+انتظار می‌رود مالکان کشتی‌ها از ازسرگیری عبور از تنگه هرمز برای چند هفته خودداری کنند تا زمانی که توافق آمریکا و ایران به عنوان یک «ماده» واقعی دیده شود و به طور کامل اجرا شود، طبق گفته مدیرعامل شرکت Mitsui OSK Lines، جوتارو تامورا
+🔴
+او گفت: «آنچه باید به اجرا درآید فقط یک توافق ساده نیست... بلکه باید واقعی باشد و به وضعیت‌های واقعی در تنگه هرمز ترجمه شود.»
+🔴
+تامورا افزود که ممکن است «حداقل چند هفته یا اگر نه یک ماه» طول بکشد تا اعتماد بازگردد، و اشاره کرد که شروع‌های نادرست قبلی باعث شده اپراتورها محتاط باشند.
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/alonews/128366" target="_blank">📅 08:59 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128365">
+<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PX-6i-L36itnoV4TjpbX7zKMOPXbQCsHlOVpO4U_CPDdUctQ-gSg-2X5QNI08sDDPu-dGqln0-DnePivJ6PVy6Q8ctq_WNgbBrxAtWf0dK8SA6AHsr54HMSQ7bj9xBrIauP52HrAywtIN61A3_aF_6gU2w_XrTdjngnYLJrK3IX4fXGgUN-NNg_jAh0HyUBseqJ7JYnnB2df0q8oxjMKJpeIdp-b1ne499mC-k9OtFL8m-0Grggj6ZW2trbG1mF-CFuS7D-hyhWVXk6BdCATp7FaSykICgDDtRHU-Qh6AC4R9U8hupZBCAHDSHHwXuOGFO1eU_YmmtF5WSliH1BTkA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+وزیر امنیت ملی اسرائیل، بن‌گویر، پس از مواجهه با مشکلات در دریافت ویزای آمریکا، سفر خانوادگی برنامه‌ریزی‌شده به ایالات متحده را لغو کرد، طبق گزارش هاآرتص.
+🔴
+بن‌گویر قصد داشت به میامی سفر کند تا در عروسی دختر یک تاجر اسرائیلی شرکت کند، اما این سفر در نهایت به دلیل مشکلات ویزا لغو شد.
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/alonews/128365" target="_blank">📅 08:55 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128364">
+<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RyyoG4TlWbssKqdjwjrw2yTS2t8AwILBImKyHne2A-Agy0NQ6lwoRC_cPz1Q-ZUHSaYEhxv3gkpKg1yDlrwNBMiNXgx7QKaA_el6aIEVF3U_DWRFPo7Tf3maA_J7QbuE61NfN8xiPclFkafKaxwqK42I5S4HlQwP5A7kJuEdX37kEBiVI2Chdg7SGOSHFPt82X7HyCs7iKj4Hw2BMMCKe2DPC7svAd2HdQGRH3IjZkUA2fVSEZbF6MRThYtBKODFVPh06uURBw7IXC21q77uKh5ZUDTyM4d0gOfVM-6WtNrV4nkFmiDYawVmklO-42_IXSPfSN-2tBWmcFD774ZVlw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+اکسیوس : جان راتکلیف مدیر سیا به ترامپ و دیگر مقامات ارشد گفت که اطلاعات آمریکا نشان می‌دهد ایران قصد ندارد در صورت رسیدن به توافق نهایی، به تعهدات هسته‌ای خود پایبند باشد
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/alonews/128364" target="_blank">📅 08:51 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128363">
+<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-text">👈
+اعتراف هولناک مادر به فروش ۳ نوزادش / از شوهرهای صیغه‌ای باردار می‌شدم و فرزندانم را می‌فروختم؛ این کاسبی من بود!!
+🔴
+مادر ۳۴ ساله: از ۱۶ سالگی به‌زور شوهر دادند، به مردی خلافکار و ۲۰ سال بزرگ‌تر. بیشتر وقت‌ها زندان بود. بعد از طلاق، در خانه‌های مردم کار می‌کردم و فهمیدم بعضی‌ها چقدر برای بچه داشتن حاضرند پول بدهند. همان شد جرقه کار.
+🔴
+تصمیم گرفتم به‌صورت موقت ازدواج کنم. صیغه مردی می‌شدم و بچه‌دار می‌شدم، بعد به مطب‌های زنان می‌رفتم و با زن‌هایی که حسرت مادر شدن داشتند حرف می‌زدم. می‌گفتم شرایط مالی ندارم و اگر کمکم کنند، بچه را به آنها می‌فروشم.
+🔴
+بابت ۲ نوزاد اول بین ۲۰ تا ۵۰ میلیون تومان گرفتم. نوزاد سوم را ۱۰۰ میلیون فروختم. فکر می‌کردم با این معامله هم بچه‌هایم خوشبخت می‌شوند و هم آن زن‌ها به آرزویشان می‌رسند.
+🔴
+شوهر صیغه‌ای‌ام فهمید بچه را فروخته‌ام. دعوا کردیم و من را کتک زد که کار به بیمارستان کشید. هر مادری دلش برای بچه‌اش تنگ می‌شود، ولی آن موقع فکر می‌کردم چاره‌ای ندارم
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/alonews/128363" target="_blank">📅 08:47 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128362">
+<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-text">👈
+سخنگوی سازمان ملل: ما نیز متن توافق ایران و آمریکا را ندیده‌ایم، اما مشتاق دیدن آن هستیم
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/alonews/128362" target="_blank">📅 08:43 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128361">
+<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sNSV4SGJL8YDi8uf7IGTvaS06Ia_9hruTW2PHf3QFeu3yVAlsMk3uypwzpEGAdk4GeO_WwCSWPCrXdFI2ioQVZWna-rsgLj2OPvTVDD6HzWyfjJyWflfSJkTfImK8f7sDviBKZUPXY_GX7KBDZYXqVAd7f5P9XOGFYCfp4Kxjtynij5OlYKzebTB-VRl6_Ol_V8aA2aUk22Qplaxv_aMhZsUy_dVi5tPvCpTbk6UTMjdUK6T1Zn8FuhC7boF1V264AU2WfEB1h3dA_Qx-A9w9fhdjVLuH74fywUoNkrS6Ho6w2DPJilWcNbS1_wv-e7BxDeY5pRABzu3InhA-6j-Ag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+همتی ، رئیس‌کل بانک مرکزی عازم مسکو شد
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 45.1K · <a href="https://t.me/alonews/128361" target="_blank">📅 08:40 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128360">
+<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-text">👈
+یديعوت احرونوت: هر عملی از سوی "اسرائیل" علیه ایران ممکن است در واشنگتن به عنوان تلاشی برای مختل کردن توافقی که ترامپ به عنوان دستاورد شخصی ارائه می‌دهد، تلقی شود و قطعا به نفع نتانیاهو نیست
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/alonews/128360" target="_blank">📅 08:36 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128359">
+<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-text">👈
+گزارش FT: دولت ترامپ آماده حمایت از صندوق ۳۰۰ میلیارد دلاری برای ایران به عنوان بخشی از توافق پایانی جنگ است، مشروط بر پذیرش توافق جامع هسته‌ای توسط تهران. یک مقام ارشد آمریکایی گفت واشنگتن درباره رفع تحریم‌ها و ایجاد این صندوق برای بازسازی کشور مذاکره کرده است، با این شرط که ایران توافق‌نامه‌ای را که قرار است جمعه در سوئیس امضا شود، رعایت کند.
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 48.7K · <a href="https://t.me/alonews/128359" target="_blank">📅 08:36 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128358">
+<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E8miuoo7bd0R5Ve5DAlLf9Nki0Jvn6QiPwvh_Wmfk2omkze2xVbrOCViSfq4lqReZteOPTIzEeNWRMv5nOZUJ5Os1NKAJ871UbokJo6ROLDOekYwWUMXCFMmlUYye0Ou8ZGpwk8XJS0Dzovf3IkBZjcJy-wMxvNxWF7NVo1YE5jVlZZmOhxJkzxLNN6D2xSuSNsMGDZO9A94pyZxfZRnXhri7Sg-zhLO6PYrL57klo2CrDm9qDLxAsDHh0PDmvVKVlwZXXlxqDIGJUrZ690ZA8DMGHw8PGom5zDpJHPV0JaEe7PZXl4d1AJy8TxJsmvHID-AUeRqZHGTxMMyPE7UrQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+توئیت عضو کمیسیون امنیت ملی علیه سخنگوی کمیسیون امنیت ملی
+✅
+@AloNews
+خبر جنگ</div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/alonews/128358" target="_blank">📅 08:33 · 26 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-128357">
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RvQFQrd09QjOduXEquOpSMrwxa6Ldb_Lixh13xw9d3MtqYFZwZIyjfvDJ8k_pwYprrwajqZkHY3WPH-hnPJaO4GClcjIJHGyNbGPn3b9K5UjeSKlBQyeooPy4a7HcRU5Y6BF2_RdgvbPeOvzMXeQyqfCIlKTQ715q_2R-PJMzjhGCi11F4cnKjT6Gv-O_wHnhzUHV_dMXkSkT_Uef5QoUYvCPsiVxuSnatQTg5sSJSjPQcwgUlUcx6Ypqi9acdZjWB9hZrunRaYItPPIORZ8EnQmRPlagCNSUb8sjhIld16Fn0zcG8a3AO38Z2BlQdLNsiCThWdAQKimcP1vt-cUPA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 ترامپ: ایران موافقت کرده است که هرگز سلاح هسته‌ای نداشته باشد.
@@ -305,21 +909,21 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 32.4K · <a href="https://t.me/alonews/128357" target="_blank">📅 02:54 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 76.9K · <a href="https://t.me/alonews/128357" target="_blank">📅 02:54 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128356">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">👈
 مسئولین امنیتی ورزشگاه So-Fi (محل برگزاری دیدار نخست تیم ملی) دارن تمامی بنرهایی که عکس مقامات سیاسی کشور درش هست رو جمع آوری میکنن.
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/alonews/128356" target="_blank">📅 02:48 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 76.4K · <a href="https://t.me/alonews/128356" target="_blank">📅 02:48 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128354">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/rLV8ireufCibsPgVt7WWfZjuePROIOKUuDc4xaxTaUCWs04C7uybD2U8bCxRBNKA53K5l3hohEk5ZRhm_aPPZA6RFkI_oRzauNlK5S9xPYl4re4oMtx6_C57T-QiswwIbAAdB2vS9rztIrlP7O3wTEYdIIzLiilAPom_Vp1m6o1VDLDs1enDyrNuHvGORozHrqFZEBoOatMQrNJtV-Mi2aAK8Zs35AaNdejf-kkxuSo6M3-sfZD_ajESDF5AQr_-EBY35UZZDLRMFARnR-X_-834Oey0vIF_fW4km5cZ8JxHRJU1ssV4VIt6lMHgJMlV_KUxZuv5hIB_I1a5FxRQ-w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/V7ebOT-2yGsh26_AMGjNytu3Fi3nKC2mEj9_sjtxVGqg0nCmtdYw3liF2_xowEHUCDt-m_gw1DpKn-nbKn28wS17pqDttcSTMzWVTGVUAV5U5kUmGKULuCB-D1brLGpiLiAkJJzsvoYi6226lzwZdsQk0LGER73-uu0zTppcrJf_vlYb9TUv6R8T6rnryMECfhErmi9pwfXuqUoScY_yVJITrYBEc3CsCkj-Zau_kSV6NUAxsMg0xfSEA7OGGW69FyY5fEPreENlM4H1myAK9mgmytt2Sm-lqeif20BToqAPKxiKXTGJKIMkKCsqpnXhXk_v97o_qYdNEB27eNKdrA.jpg" alt="photo" loading="lazy"/></div>
@@ -329,11 +933,11 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/alonews/128354" target="_blank">📅 02:46 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 76.9K · <a href="https://t.me/alonews/128354" target="_blank">📅 02:46 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128353">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromAlo Sport الو اسپورت</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -344,11 +948,11 @@
 </div>
 <div class="tg-text">تجمع ایرانی‌ها با پرچم شیر و خورشید اطراف ورزشگاه
 @AloSport</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/alonews/128353" target="_blank">📅 02:40 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 68.8K · <a href="https://t.me/alonews/128353" target="_blank">📅 02:40 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128352">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromAlo Sport الو اسپورت</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -359,11 +963,11 @@
 </div>
 <div class="tg-text">شعارهای مخالفان جمهوری اسلامی در اطراف استادیوم محل برگزاری
 @AloSport</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/alonews/128352" target="_blank">📅 02:34 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 67.3K · <a href="https://t.me/alonews/128352" target="_blank">📅 02:34 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128351">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">👈
 اکسیوس:
 در تفاهم‌نامه‌ی ایران و آمریکا بیان شده که
@@ -372,11 +976,11 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/alonews/128351" target="_blank">📅 02:30 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 67.2K · <a href="https://t.me/alonews/128351" target="_blank">📅 02:30 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128349">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/e62ec6f238.mp4?token=YGTaz3Lx-sfeCViFGzQth3eyZhr2Nd7FGFXJ1dTV0b-9AvwMUkWuv87LpegYmzOo3bwMAzd15Q_Ldj7Km3-7tJ4dq2AXgle9wwjOC2qFpuAei4yr04kda4NftXygtLRu8cuhmW_MzUfl23KnVL6Qwwuceduhrz2IsYg4yilKeQEcXzcHbAoHaPNrSjzI7vrMwQ9hDyvbyEOT8PBLyDqfuTeCgg-vFICntpmpNdJMDSz237A2pBcxuXM23q9uVyTGUemTu4EvxJbpKnphqsHACtV_JGANOlByrqdHQrXY31pFc3CipXl-wKq0Aah9CnAuil3sG8MVmUgp-q0w-FHIMw" type="video/mp4">
@@ -389,11 +993,11 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/alonews/128349" target="_blank">📅 01:47 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 73.1K · <a href="https://t.me/alonews/128349" target="_blank">📅 01:47 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128348">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RS_HDsV4-9499--7pCHYU-t3HaV4tW_9TGMPYRnLS-38tK1BY7vfdcMY76vaenHCLMaYmUOgegzKFBdBGzyUhjo3GE28OexyonJr4W50VooTvxRZiK2bpTSWbI4UMFzJzb7mgsJbnV3oRXryL3Z-loPvOwEqeUoX5R4ljdGaaO5QtdVw9Ja1PVKrRs90cZx1MI6Bma8BE4eIkvAsrQ0JeXUnx8FlpLUj-VGdo4zlOJilLZeq_Ipy4ZchGTlKsMkHXyJ1i-uheQG-0OPsc-P1pfyTndxvupa4m8BfqHmLMkjfoXsMnLtMagFLX-pyjm6GuqqoJVqH8tl1aTaI434pCw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 طبق گزارش فایننشال تایمز، دولت ترامپ آماده است تا در چارچوب یک توافق نهایی برای پایان جنگ، از ایجاد صندوق سرمایه‌گذاری ۳۰۰ میلیارد دلاری برای ایران حمایت کند، مشروط بر اینکه تهران یک توافق جامع شامل توافق هسته‌ای را بپذیرد.
@@ -404,22 +1008,22 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 42.7K · <a href="https://t.me/alonews/128348" target="_blank">📅 01:36 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 72.6K · <a href="https://t.me/alonews/128348" target="_blank">📅 01:36 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128347">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/a7cAZEDpPQ8xnmcCnm-jtp_0s2WUgXObPATgdx_F-_wSEJqfuB7_i3InuHNLftOaoQI-6xMGGOQXL7xhd7hhvfitPNdRPO2r2NzzJSF9_dgt8bnpynNiWaFbRtSu0kKfPAoaT05MOBl_uDwb8i6CNy2VD55AJoR4WyoTnqyZoVN-soumeQvc916D1yOgacOUvi03SkvhcLtwj-AaHp8DAka4Eswzs6Q4TtJ-Xfmzs_PNODF24mQULWcy216xv2cNVPFzOtTpuku1EqgsMi_pyx9vZhb3t3Wa8h4b_vFnAo2NLLky09ZRnFY0CQddXX7uxf64BLn_ga-j3JYlCLhodw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 11 جنگنده A-10 در راه برگشت به آمریکا هستند.
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 46.3K · <a href="https://t.me/alonews/128347" target="_blank">📅 01:20 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 73K · <a href="https://t.me/alonews/128347" target="_blank">📅 01:20 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128346">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-poll">
 <h4>📊 دوست دارید کی ببره؟</h4>
 <ul>
@@ -427,11 +1031,11 @@
 <li>✓ نیوزلند</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 48.6K · <a href="https://t.me/alonews/128346" target="_blank">📅 01:10 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 74.4K · <a href="https://t.me/alonews/128346" target="_blank">📅 01:10 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128345">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/f3033df34c.mp4?token=PjpCtna2ur58QgD1AeBtcJOHiqCUftLAVjqJ7iyNjCc_wrSkEIKWU0F1I1GyhifT9XXkjj1TSIyF65BlfMr4N_a0QP_51IuXO8MHRaRv52pxnS6JOueFTANTL_gWaRALxBloNS6bnx7lGxm3vGH_aARiGxhN4dnalSFHohGfkwy8ZEptK36C2rTjw-3scSubR4B4Mf2WtDXD67Tv8oT1gmzQMM2j46uB_rEJzPONAMJINWZfP1M3hbJrNWHIarKkl0_nMH0NRASBQNknJpOE_MjppZ_t5ffDF0-6FIW7xkROCxMCqAZqSDy0waa1aichI3HPfWsRU1hBMkJeE2o1Zg" type="video/mp4">
@@ -446,21 +1050,21 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.4K · <a href="https://t.me/alonews/128345" target="_blank">📅 00:59 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 75.9K · <a href="https://t.me/alonews/128345" target="_blank">📅 00:59 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128344">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">👈
 درگیری عجیب ایرانی ها با همدیگه درنزدیکی محل برگزاری بازی ج.ا و نیوزلند
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.8K · <a href="https://t.me/alonews/128344" target="_blank">📅 00:55 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 74.4K · <a href="https://t.me/alonews/128344" target="_blank">📅 00:55 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128343">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">👈
 ونس معاون رئیس جمهور آمریکا به سی‌ان‌ان گفت: یادداشت تفاهم با ایران حدود یک صفحه و نیم است و به همین دلیل یک سند عمومی محسوب می‌شود.
 🔴
@@ -470,11 +1074,11 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.4K · <a href="https://t.me/alonews/128343" target="_blank">📅 00:49 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/alonews/128343" target="_blank">📅 00:49 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128342">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tuC4y-NHYUURGzX9lC3YZhiz-4ikKG0SSAbepu45WXKICUqHaYAl71eBAupDkLEGK4nAT_Q4seR4EAJg6XYaZ6XvjcMVkQyhXpmGhak2PnYBsbfSZT4tb0OqeFcb9HWqxtqGiU4bavxcBh4AfteaWJM_G65voF-1xzU3s55aSlLgT7sjf24qmXVOhtAWiL1KmjQxAPn9oeDO7n593ZfMgaA3S-TpXF1gVLPe2ITwM2yAj_FsrEUkmDfykJA3taMgnzcawLcFJmuTnMjxc5CXAgjrBXaaks9sSIv83EGIOOuJBOi6e-PvwWbhhYeIoG1ABi51mBjXix9FcQTFysJxmw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 شجاع خلیل زاده:
@@ -482,22 +1086,22 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52.5K · <a href="https://t.me/alonews/128342" target="_blank">📅 00:45 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 72.5K · <a href="https://t.me/alonews/128342" target="_blank">📅 00:45 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128341">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fj0O40JclRZfMsEb2kZ8xp6gwY9EdpfrOduKgUGWExTJaldp6xr_7sZY9LrRS0GN3qqF_pdPlhSMJsgs0ZpvVyRqwW6mKYrY-HBDqeO4QGDWedh5P5j-hzFV0bTWREhrf73y1RuTgMiYZa2_xAogoRjdGdkqfDiceuc1AwAy5_imjgdtHaycXUF_fXmEtkoSbngquuSgyzu7YLlk99Kd_7OE7oqpcri_Qq_PQ1PnMVe7xMpo0msch8_s_h3ZD6zM9q7k6o8dq3_5FKM_PJMjbqZZdUQnXlu9iTCQpW_yk2hxm65QJKlTJ-r9178DPO73FSydVc1t7qOT2rtaz2Ki8w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 در خبری عجیب و به گزارش خبرگزاری MSN، به مارکو روبیو و پیت هگسث گفته شده اگر با توافق با ایران همچنان مخالفت کنند از مقام خود برکنار می‌شوند
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.4K · <a href="https://t.me/alonews/128341" target="_blank">📅 00:38 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 71.7K · <a href="https://t.me/alonews/128341" target="_blank">📅 00:38 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128340">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">😁
 هنوزم ۱۰۰ گیگ و ۲۰۰ گیگ رو به اسم نامحدود میدن؟!  اینجا نامحدود واقعیه
 😎
@@ -515,11 +1119,11 @@
 @TurboVipV2raybot
 ✅
 @TurboVipV2raybot</div>
-<div class="tg-footer">👁️ 53.3K · <a href="https://t.me/alonews/128340" target="_blank">📅 00:32 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 69.4K · <a href="https://t.me/alonews/128340" target="_blank">📅 00:32 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128339">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HUb_peLu0E-gPlbqCqrv5dTZzQPLzqZs2_CnnbBuD4QrSxB4LqgkDqCpw0tWlt_lTwbLzAY1JPgD4mpPcT829R38OpNqREtFvqGGsxgYMlUjKH2tSVK7JUEIkYgv4dI4NBrJURnCHRM6rKbu4jB5geevEVMvIFYp5FjmMWVhei4XKlPdjJERcNFQdlnw-Bry3Vk_KVzxTK-uuEP7MS5Ssu8F2WCxN1Q0Y9F9VuQZXax7AzCVk3S2IS8WYc_Z_ZB2bbzaKu7wpo7manrQ4Rb_TA1whBOgi5IWfJYfN8FwVaq0XweovYVeMkdlDN5w3PpSIjTbbS-CWdCEf1_HufzFqg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">😁
 هنوزم ۱۰۰ گیگ و ۲۰۰ گیگ رو به اسم نامحدود میدن؟!
@@ -541,11 +1145,11 @@
 @TurboVipV2raybot
 ✅
 @TurboVipV2raybot</div>
-<div class="tg-footer">👁️ 53.9K · <a href="https://t.me/alonews/128339" target="_blank">📅 00:32 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 72.3K · <a href="https://t.me/alonews/128339" target="_blank">📅 00:32 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128338">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LMJzPfZw71h0zNXV_2K14VFKfI93fOr4Cz1vpuhXfwSulUlr00b6htRL2d0CV2zvP-KSX7JkaAXe3WyziOX80kZNR_Tj5y7UfCbXKHD2-ucUv4okcZ0GakfVdds68mC4JNW9-JoYa0RFoGjeH6Ly5u2841OCqt4yLMK9xxayC_l3kH5qgvjTd8z2rD7U5yN4DdefTM2LLxPMWiTI9M78CJBSql_ATbbgipIszKiG3ab8W1Ted9Sy6hPH5KnzMb7SXjJ0FSfmwUXIxot7Pa64kX792eoXOlXpPaOqLz0ECJiILhkr5FbEJU3uvmzQdF4LalNw7JKvhc_U1NtVkzpvIg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 نتانیاهو :
@@ -553,43 +1157,43 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/alonews/128338" target="_blank">📅 00:30 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 70K · <a href="https://t.me/alonews/128338" target="_blank">📅 00:30 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128337">
-<div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HKI9sknibRufLjW-1FsIPIw8pivXXILGiLzJcNe3Bm9t-9aH8Q0jceGY2C5wgZTym94Tox9tx-tLGtDn4opzS9YK1kW5refYBlg8q9Mislf579KQR7SyKhxCeBBnDcFFRjcz6Abkzaj5GaFWGFXxRbE35ko_8YlFLSKqc8B7mMd3JkpkwgrqKNl8RvwoJbWUkwEPS0IsbX5TPMQE685AM2TD7SpBxtSRBPzz_yVuakmbZoikrh73AW6R7F9uDdgmgt7zDiMRH80IlGvrjTiRxBsmuZ3Sn27UD3RLv3IeAGT0M1M2YV0jk_IxpVMecTnFsPJ34UBpKVr7iRSE5rPxcw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pG3Et_EBVrUU76GjeS9WdyDHC7ATGE7z5gZ_6PP0NEeECRAVUiqYZ8tfEFgup7_sjGlU4LV_lfn4zzr-4aHOdKUHl6GUUKPr4zGybbgzY-Tnz_xN4LHxCd3Zc_MQ0FcaWK61diIxMIDntHsV3fusfMLlnSyj8vnLpxecUbAvobSEIP0x79Un4HSKCfPujdJxUN5fgY_NzRrHWVfLYq17m5cHPbtjJjo7dlQRiVymIAP-It_UjaL9CFol23YdSWGv2QJMKgyFEZsVlDhcAeAAFcUShFYF8GoDFrafSkILHlH_7w1a2KtYHqOjbBuZ-lW2MelFFDT6cef3L5OgyBXxLQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 پرس تی وی: ۳ نفتکش و ۲ کشتی با کالای ایران از محاصره دریایی عبور کرد
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/alonews/128337" target="_blank">📅 00:26 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 69.7K · <a href="https://t.me/alonews/128337" target="_blank">📅 00:26 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128336">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">🔴
 فوری / خبرگزاری تسنیم : رفع محاصره دریایی عملیاتی شد
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 59.9K · <a href="https://t.me/alonews/128336" target="_blank">📅 00:09 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 73.7K · <a href="https://t.me/alonews/128336" target="_blank">📅 00:09 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128335">
-<div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mhrPY0x8RWhwCaHACiiZJiHmtTmqCDZvgr-uOqm1_sP-aVqtcB-3Rh1Xlxaq-2QMY_ugL60yhqs-9AI7VOtDIzx-VhDfX355yyVQrtQpDA4ecHZka7fHiGJ-d7z3ioubOcFWZHtWvO95c0ZV9t3JVu7eEU7mD6EPARN7_eOZh-pYb-ajfAA7OR5W_dkWSCoQ_9hvefWeaoQ8KB9Vyblm58w22Uc5StBMuTL2kRdAx_5CyfPcCEwJXmmJ1sKmc61xsiNJXQJ0YyADjfN7VG5p9EZgUYJdr8kV6iYh7-8ktMOxPRYquFj0jMbiYXc0cdUjiD6geaJfHeU_RFsSHaUVEg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EZGBJvzI13zdIph0Jjsf7uisPgrJh5XEoQgdgs74QXV8a7gdten34tAAf7JVtFwnWr0daX_YLe9ux4JVAxLyRyTRF1k449YBSsA7npwKEg5WLQdajHBcpYxXUvBpzRyd-qUnayPY0tqQb2rCoDc8B3m1vrDT6yR1Z_tSwyPt1ZIKpavzZ4Brthkc6Zuht7gtaw1QMnnvxCm4cqn41rmyJMb9ppb7EtJojqrZO-3SF637wWt7zBAKIX7NA14mbxDYSyo7X4_Jjeahhx9whVfS24XqIvegdSAOEgD6P_ls0MObCqineqXnRZRL_0d4Vh7WbbiZSorqD2ilap3Fi_Lfxg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 برای اولین بار بعد از مدتها، هیچ پرنده آمریکایی در آسمان خلیج فارس نیست
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/128335" target="_blank">📅 00:05 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 73.6K · <a href="https://t.me/alonews/128335" target="_blank">📅 00:05 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128334">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">👈
 وال استریت ژورنال: ترامپ گفت تنگه هرمز تا روز جمعه باز خواهد شد، در حالی که یک مقام ارشد آمریکایی به خبرنگاران گفت که بازگشت به فعالیت عادی حداقل دو هفته طول می‌کشد.
 🔴
@@ -597,42 +1201,42 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 59K · <a href="https://t.me/alonews/128334" target="_blank">📅 00:01 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 71.9K · <a href="https://t.me/alonews/128334" target="_blank">📅 00:01 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128333">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">👈
 الجزیره: اسرائیل بزودی برای نابودی توافق آمریکا و ایران اقدام خواهد کرد
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 59.8K · <a href="https://t.me/alonews/128333" target="_blank">📅 23:57 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 72.8K · <a href="https://t.me/alonews/128333" target="_blank">📅 23:57 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128332">
-<div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eMkP_UMMfbgarBykXv_jmjAlZdeMQo4qj8ypm1u0ngv1EMHXiwZT8Pnd8r6ki11aZAhnF5Ndgwd6n9b99MzDKpsQ2HrmisRyXuHgGAVxLDww6_AJv4QNh4zBoGbL9Mu7pAOtKK7TqYlWLc4wSYzj35-G2Y2aD5dC9A6gISEN8qey0c_s3IAc_0_AGP7YVlckmQwpxQPbzFmAEJF0umj79XEgaBzRGWg4WJr-ZHeE2kf0ASmTvLrLtlKz9c6SSSCX75Lgvm-EI5n0xq_HRlkUbVKvk7TZ1JRXwn-BfhIBHKAxfSzcDUOe9BJ4-60jlVD9M7jsfnDJlY4na3m8osbnmg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vVOeRGeE6oC2F_VAAJNqT8CqCwW6FIHreU6-tnIiqJFIS8brxtEI3dxM-8MjlkrPUXCrM6-DdN_JVVdfaCcG9jBK02jFmwQRzB-NtMFJZ0OkcOjuvwr33FP5Vb-jhCQnakVSjw9SGWzGBWlEdcFpOJ3lSBVV4vyQ_ePy5ikdqIRNP1mUKOklbpv9IF_pUCH-Kfoy7949CcOREBX3YYVLAxHIkqWoooX2FwDkLRdxn7aEzG1mAo13cQ3x7z5C-NIBI9ZF0yKcQBav7rbjOaaYS7OCAf1zohEma9KfcelgiZ8BHmtuL8fTALdQg9eVbdccRS-bkQsXshhV0XxMVM5ypA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 تصویری ناراحت کننده از وضعیت این روزهای عمو قناد، مجری معروف برنامه کودک
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 59.9K · <a href="https://t.me/alonews/128332" target="_blank">📅 23:56 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 72.8K · <a href="https://t.me/alonews/128332" target="_blank">📅 23:56 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128331">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">👈
 کانال ۱۴ اسرائیل: تعجب جامعه اسرائیل از این بود که مقامات ایران قبل از دفن علی خامنه‌ای با قاتلینش توافق کردند
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/alonews/128331" target="_blank">📅 23:52 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 68.5K · <a href="https://t.me/alonews/128331" target="_blank">📅 23:52 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128330">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">👈
 حمایت ویژه سردار قاآنی از قالیباف، عراقچی و دیگر اعضای تیم مذاکرات
 🔴
@@ -640,11 +1244,11 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/128330" target="_blank">📅 23:47 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 69.3K · <a href="https://t.me/alonews/128330" target="_blank">📅 23:47 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128329">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">😐
 😐
 😐
@@ -652,106 +1256,106 @@
 😐
 😐
 😐</div>
-<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/alonews/128329" target="_blank">📅 23:40 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 67.8K · <a href="https://t.me/alonews/128329" target="_blank">📅 23:40 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128328">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">👈
 شبکه ۱۲ اسرائیل قضات دادگاه نتانیاهو درخواست نخست‌وزیر برای کوتاه کردن جلسه فردا را رد کردند
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 55.2K · <a href="https://t.me/alonews/128328" target="_blank">📅 23:40 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 64.5K · <a href="https://t.me/alonews/128328" target="_blank">📅 23:40 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128327">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">👈
 نفتالی بنت نخست وزیر پیشین اسرائیل:
 بر خلاف دولت فعلی، در انتخابات جدید اگر رأی بیاورم به صورت خیلی فوری اقدامات اصلی برای تغییر رژیم در ایران را انجام خواهم داد!
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/alonews/128327" target="_blank">📅 23:39 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 71.4K · <a href="https://t.me/alonews/128327" target="_blank">📅 23:39 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128326">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">👈
 سردار قاآنی: باب‌المندب یکی از برگ‌های برنده جبهه مقاومت است و اگر لازم باشد برگ‌های دیگری هم رو می‌شود.
 ✅
 @AloNews خبر جنگ</div>
-<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/alonews/128326" target="_blank">📅 23:36 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 78K · <a href="https://t.me/alonews/128326" target="_blank">📅 23:36 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128325">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">👈
 سردار قاآنی: باب‌المندب یکی از برگ‌های برنده جبهه مقاومت است و اگر لازم باشد برگ‌های دیگری هم رو می‌شود.
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/alonews/128325" target="_blank">📅 23:35 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 73.4K · <a href="https://t.me/alonews/128325" target="_blank">📅 23:35 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128324">
-<div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/U6A_cfKPQWHbaz-W1i11zIROOUFrnVQ0jpam7JupZLvri54p5Aot8KAiYBcKHhku6PsEPT1JNeakaA4G41YTXWl1fmoJyr327u72g3WvRYGxLFznkjAqNkiz-RKIkkuvj6hBkVp0zpdqSvW-Dlr2X2Ff8aa4yp7MrYi0p9yQDa6_kSZiDRmwsQgpz5psBfbxQii0Rc_hV8H1_S6cs3pd814AWd25RtbMAsItvOt-zPdwE9I32actHee0rAKy97cTszqY_uO4jLBY-j1m_3TP7cLI4mF-HfwISzAFldF8Ri0q_Qj04_PmW_qq23wVUrp2wDv79dwGpE6dYKKaDTt8_g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fdnPmEyP9AB_kw4nJEQCS1KaYTB84uSzqbkbHYyHB2-ueJUNzPSSbOmK9Cd45jjMDrO1m5NAZiptwcTfxKJJSQeyFXcrJauF55_HUml_3Sx698n-5X6LyNFDSvsVtON5Vxod6pduXEeBi17CIBACxBlUFnYTPwr5tl-NpIKtq9HXoTWoPPfl4VS6C4T7V_4zUE6XUPpMDNiQvXwDuJemMVpsmZwuARMr_EtZ3WXpkpbtokJecXry45qJYFyrufbJykZVff4Z5r8Ac-u4i44DLl-XqE-TX1jfJmGpv1Mk1SLgEIffQlg9m1SssyrQy771dYUMS3JLmrDxPgA073oDMg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 پزشکیان از قالیباف و عراقچی قدردانی کرد
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/128324" target="_blank">📅 23:25 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 70.5K · <a href="https://t.me/alonews/128324" target="_blank">📅 23:25 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128323">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">👈
 سخنگوی کمیسیون امور داخلی مجلس و شوراها: انتخابات شوراها به دو ماه بعد از اعلام رسمی پایان جنگ موکول شده است
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/128323" target="_blank">📅 23:11 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 69.5K · <a href="https://t.me/alonews/128323" target="_blank">📅 23:11 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128322">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">👈
 آکسیوس: توافق ایالات متحده و ایران روز یکشنبه به صورت الکترونیکی توسط رئیس جمهور ترامپ، معاون رئیس جمهور ونس و رئیس مجلس ایران، محمد باقر قالیباف، امضا شد. اما بسیاری از سوالات حل نشده باقی مانده است
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 62K · <a href="https://t.me/alonews/128322" target="_blank">📅 23:08 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 69.5K · <a href="https://t.me/alonews/128322" target="_blank">📅 23:08 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128321">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">👈
 زاکانی: پوتین گفته بود که نیروهای نظامی روسیه به من گفته بودند که ایران نهایتاً یک هفته می‌تواند تنگهٔ هرمز را بسته نگه‌دارد
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 61.4K · <a href="https://t.me/alonews/128321" target="_blank">📅 23:05 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 68.5K · <a href="https://t.me/alonews/128321" target="_blank">📅 23:05 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128320">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">👈
 سخنگوی ارتش: ایران در دوره اجرای تفاهم یا توافق نیز به تقویت قدرت دفاعی و بازدارندگی خود ادامه خواهد داد
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/alonews/128320" target="_blank">📅 22:57 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 68.9K · <a href="https://t.me/alonews/128320" target="_blank">📅 22:57 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128317">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/vcn3CPr6DPpPbYsW7bBibRuvaBqdBDE8fVujbKbIOcsEwUKkjlOxTNdl8lkIxkzEUlbaW2Vm6Gx5TdlAQB3SqNXxUarOerka8PlOsJckBjQ8T9MiJUVsgWglIOOwVu0R6QvUcywZ95fMfAAGrOWT4J_rnt8gtQ1sO6y0VhZ3_cFlkvIPjGmwnJkY-HZsP3C4wCjJ6bxVzNcO3fht5qhUcPi9kBOa5gHTYv7bQxkE7S_xKWKGv6zGyQpAbABEGxc9UDqzRtKnXt7AjFkD0C6ijE5EGkJKz2TrXHz2DLz_Bm6NYRgeITXAJxnR4qXMEHQlnwEEwornPpVGrdbgZAYCHw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/MUdTr_xFc7QLzNkza7GUf-owsNmAzuOPNzoIxY9KmqaOgRJZblXQrtCZxgdfaXMx-aAkXpiqBI8u3K9mjbwIjxS3EwOo9HsFCyfCgsaqYrQMkYC49Cn-JLcrLY09hh0Bhc5IM_Qx-9egM3eiHc9r2W9Mk7MJWnvIa53zjf0nUOup3GCSm3uyLHBYS7Dho-F7MqsukLn7Crvs7GYcpgvCf8cQKc_kyCQz5OtkM_51jrEFGNMRU9iylKUDp1Y421wHNVK32T9IJu5M0F2dftMdRm3auq3sB7j3qOlNI3k7OrNGV6yl_Ldy-1v8kCCdymNJ0xvZcCt9OZPGceOzJyaA3w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Du9YLa9m_ini_1k5aXZuB3kJnsvSaFHVds-q_ornal7lq6rhjLD7AwLOKZZXbbHjAL6DM8sVrPDisn25i2GpeSU5LpYfgqyRugCEMEU54TKHW_zqEchN_FkL2ePB_H8Azcf7D94wuCGmM7-iyYP9SERGDjN3hj6t1629BkvW6xY96_IYsp7ONN2HsHjUvH_g-ahTwFNs-y34yXXvyzsXgZ8K-62_War1u8uoYLi_asyGykI9UmVuYs1K9DkLQj7kfUBNDoQdxrNloVxFXz8P2k2BA5ZQmOaXG7TARM3K_pYrZXXI6yROeKqDAeiei3tn3mjI7rfOLmzVzMrQBbSRfg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/v9EVlUthK31FlNIHSd3eGO0BaWYvhdidgTUWEG9jFoF3E931fm6jyNeogo7ouoP2m9FAlHpxBLfgHYHafknb7tYmCJQ4fPuksd9MwwYLEyguDHEfPXKVAXrfofduoMWjjcINFq1bUVIq6IbVUbrW8_J-t5GiNVP-XZlWTf8pIfMavKfrgd-44gtmlPUuWofkEHYZJ4zAnbyjq8SCRKgqn1AVkBWp_DEqut6LrWsmgJp60LGvIMZu3ZDYHzprka6Hxi99rLTNzZPSYqWbLBaMsObWhSnhE9cQYoP6zrY8C2ne0XuQ92KLHr1ToMeSNUsJz-yDdfRQkfqGp-Kz6JVmag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ceLwZDgXkl3LHxFOK84L6GHmLWwxZknbpKc9m_PEXKQMHmkdzhXH3QK9UMoSNj_A3iBKs7KlEftJJyyPvP3fjDvrQJWH158Nvir9Vx8lz5EpMtpSaA3lu9CpYLfW6bJqcGEZu2Cc737w_LmzVeuKpQ06ANjIKM1MNEA5olnXQDsX3AIQoHdmAU_igYUbsFoJPbUpxGWeq2v6nQaNS9ATsjK1yh-z1ad6y9cVklcSpx-mm-eKPPFaoHeiEqkyDEEk3k8p1c2Ezxjz8dcWVkRf5uXym_iSBJj4qKt7bT3MGxvZsFClh6nO3p41qXve0kcvJuCsVH1kJrfqRIzplxK2jQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/RPJ1cmVlF-kV5X-Vm1fL7Db2KxPNcPjALAmXo0ciI4VDF9ibZitp29k_6da3K0tqWR_hX0oQ9FZ4hyXKM1lLvvjmHp4zi-BoZd1_NanzvUXSDD63PbzlKVnttUZ32dBYCc3X5y6HY4qm4T4p7qN2SRa7il3n8jNj6Qs0xyIZpmSkVnXZ_vnxNr-k3HCwnPtL9XVeNL2nmrwOOs6fJbqEBI2VJSE8eBvJ555ZGzM7aoJcrkrtot2MDUo1gQ6HjZrJ8A2xMT39R0MzsUSU539Hy_j3dTYzbx1icRhGx-KrMl0xn2NhtEWlsFfponVO5c_rILZuIQ4uoX2rp-1cDtKzig.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">👈
 یک بمب‌افکن B-52 استراتوفورتراس نیروی هوایی ایالات متحده بلافاصله پس از برخاستن در پایگاه نیروی هوایی ادواردز سقوط کرد.
@@ -760,44 +1364,44 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 67.7K · <a href="https://t.me/alonews/128317" target="_blank">📅 22:50 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 74.2K · <a href="https://t.me/alonews/128317" target="_blank">📅 22:50 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128316">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromAlo Sport الو اسپورت</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/2fea3f1828.mp4?token=CHqcQp2_dHDEZS2XBo8LMYgrD1HrIWwvCxWvYU9KUs9Kugh8Y3ySLoGCQEA-qB_fEoxFb2PpA2O4ZsfuDWuZ2FLaKc0X5KgwsqOgyBYLvNeAQ95UCrkyLdBkXkMKg8y3G-5chxN40YpC6epaXRmXQRbfaCr7z4_3fCq4Z5p6TXsfhZJiKmX8mVDP2c6SYVOo9Jb__q_LX4Qw34Czq_eypTHlSXASJQSXlONnVzc5yX63HV63WvutiwkdFwgGx3R6ctwtVmW6Zkd_OYDpDVKa6NomIbLzr5umFOlgLRslP1vw4Ow-B2CYUjU7n80D4AigchFpIQRnyk2Rwuk6m5YrDA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/2fea3f1828.mp4?token=UjriWRZqZwFQ9_AW9Iz1BcuZK5sUxywyeiT0n7IHDgIIqzCK7YNd23lrp9Ta7A9duMhAB0qcCaJquypdDlA9cxvf-MqKO8MFWwueZ6uhQTII8SdByrpyLcBXm-SswLuHnNrDDUcWqIf0FpfHubB-nSNP3pdIh6VdzSddbZjE6rLismURHRPtAQCMaDu-DDtA7buGMNDChC115NVuKcfwq7n9cAYHklBmAE7rq8PZys_AusAiJucLbMGIEHuk4rHjOIIoDZ2iBU5454udsvAkJMO-APJ1LPBNJe0gBDPyjmhMDbn2LFL1z9NTlrXsnNrX8xTS7_U9TfgtSK2W90JMNw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/2fea3f1828.mp4?token=CHqcQp2_dHDEZS2XBo8LMYgrD1HrIWwvCxWvYU9KUs9Kugh8Y3ySLoGCQEA-qB_fEoxFb2PpA2O4ZsfuDWuZ2FLaKc0X5KgwsqOgyBYLvNeAQ95UCrkyLdBkXkMKg8y3G-5chxN40YpC6epaXRmXQRbfaCr7z4_3fCq4Z5p6TXsfhZJiKmX8mVDP2c6SYVOo9Jb__q_LX4Qw34Czq_eypTHlSXASJQSXlONnVzc5yX63HV63WvutiwkdFwgGx3R6ctwtVmW6Zkd_OYDpDVKa6NomIbLzr5umFOlgLRslP1vw4Ow-B2CYUjU7n80D4AigchFpIQRnyk2Rwuk6m5YrDA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/2fea3f1828.mp4?token=UjriWRZqZwFQ9_AW9Iz1BcuZK5sUxywyeiT0n7IHDgIIqzCK7YNd23lrp9Ta7A9duMhAB0qcCaJquypdDlA9cxvf-MqKO8MFWwueZ6uhQTII8SdByrpyLcBXm-SswLuHnNrDDUcWqIf0FpfHubB-nSNP3pdIh6VdzSddbZjE6rLismURHRPtAQCMaDu-DDtA7buGMNDChC115NVuKcfwq7n9cAYHklBmAE7rq8PZys_AusAiJucLbMGIEHuk4rHjOIIoDZ2iBU5454udsvAkJMO-APJ1LPBNJe0gBDPyjmhMDbn2LFL1z9NTlrXsnNrX8xTS7_U9TfgtSK2W90JMNw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🎤
 عادل: اگه تو مرحله حذفی به آمریکا بخوریم میتونیم ببریم؟
 پیروز قربانی: خیر!
 @AloSport</div>
-<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/alonews/128316" target="_blank">📅 22:49 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/alonews/128316" target="_blank">📅 22:49 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128315">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">🔴
 فوری/حملات توپخانه‌ای اسرائیل به ارتفاعات علی‌الطاهر در نبطیه
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/alonews/128315" target="_blank">📅 22:33 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 66.1K · <a href="https://t.me/alonews/128315" target="_blank">📅 22:33 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128314">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6bdb7c0670.mp4?token=bsqkgmS2ql4868xW6Dh-CD2CpGu6Ni_2D32QPeHSqw4_BkkBCoFPsJWq4ltCxVZ5rK7trCssy7a7Jd2-5FkLgnsHdscNERqJAyKoQg3gwO4rWQEKFyp3YBJgw9N_skl-DGPx7bOKM540pXF2JILtpbFdjhg-hFcCrZWw1GkiJG6T_l3akDZzpU0-we7iHj85_GIYGCMvZqS1LuDYwv_sLawuBZSlL_osNGQ4fosRh_IRrpdqkhinqSTOxKXlBkjGVOWKxVc8QNt8_jTku9jsVYPEQgSiz2hqz8ZZJBw0P8_OVTwy1Myv_dnXjUSQj0cTmOVFdUFk1ap3S8UNLC-_WQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6bdb7c0670.mp4?token=cdGz_0vGx9Qu1vzSTvsSF1S-QPr6og8OOVvEG7gW4HgUcSfxSTc6LrAh5E5OYkBwhSLhpzKpkvhFLkOhryAgDfhAWYYEG-txM44ZIfz9HT_QHqBRHsDuIunSfm6CIagOTxkfXxVOB4lXiD6IEaMA162qR13dZFynwDOjv4Ro0rjt8DW5mjpBvjtVZWEBytRXgsaOELf1-1CFMeYjRBOKrsAHbBGmHEXrkIOLr_-VaHVLVLK70elJIMlkgQ1mVSmIYtA90gjdy2bVlrfO7jpL-mNK33nGAUuoB0Hsied1UpXuziro6slB16OUNgHjpb4tPLgbj1AiL6XRW4BihMN4Kg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6bdb7c0670.mp4?token=bsqkgmS2ql4868xW6Dh-CD2CpGu6Ni_2D32QPeHSqw4_BkkBCoFPsJWq4ltCxVZ5rK7trCssy7a7Jd2-5FkLgnsHdscNERqJAyKoQg3gwO4rWQEKFyp3YBJgw9N_skl-DGPx7bOKM540pXF2JILtpbFdjhg-hFcCrZWw1GkiJG6T_l3akDZzpU0-we7iHj85_GIYGCMvZqS1LuDYwv_sLawuBZSlL_osNGQ4fosRh_IRrpdqkhinqSTOxKXlBkjGVOWKxVc8QNt8_jTku9jsVYPEQgSiz2hqz8ZZJBw0P8_OVTwy1Myv_dnXjUSQj0cTmOVFdUFk1ap3S8UNLC-_WQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6bdb7c0670.mp4?token=cdGz_0vGx9Qu1vzSTvsSF1S-QPr6og8OOVvEG7gW4HgUcSfxSTc6LrAh5E5OYkBwhSLhpzKpkvhFLkOhryAgDfhAWYYEG-txM44ZIfz9HT_QHqBRHsDuIunSfm6CIagOTxkfXxVOB4lXiD6IEaMA162qR13dZFynwDOjv4Ro0rjt8DW5mjpBvjtVZWEBytRXgsaOELf1-1CFMeYjRBOKrsAHbBGmHEXrkIOLr_-VaHVLVLK70elJIMlkgQ1mVSmIYtA90gjdy2bVlrfO7jpL-mNK33nGAUuoB0Hsied1UpXuziro6slB16OUNgHjpb4tPLgbj1AiL6XRW4BihMN4Kg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👈
 جنگنده اف/ای-۱۸ هورنت از پایگاه هوایی MCAS میرمار در نزدیکی دریاچه ریمرک، ایالت واشنگتن، در حین تمرینات دیروز سقوط کرد.
@@ -808,17 +1412,17 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/alonews/128314" target="_blank">📅 22:30 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 67.9K · <a href="https://t.me/alonews/128314" target="_blank">📅 22:30 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128313">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/c9c4ddc193.mp4?token=e7euEu4Do4Pf8jiqcQ3wM6XfhLQdM89w4PlQBwEx9W5s-LxHuG5wjH_CM_2UAd1FsiOxxON5KD3LA-cSNoDdUJtUnJlr9meTZ7QRow18SvV23pWTPTJ5EK5QruUcbF2JIOHWXYBajWnspXEX8zzJEBr9QDBekV4Y9sG6diqNkFJiBJ5J2cbmosq-8Yz9IxARzhI6vhMjT4HGSZDqsI5mpu5XTqKQQrRRhU2ci5t9PuKcWnblcEs5E8EqIBhzU0t5il8-7qeyte5PBHp8beASg1E5g66mlDOs1gjOCdFoW-NiFrX3jXkbNckZmsioTBeXL5_3DKP9xTVzcy9DO91UOA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/c9c4ddc193.mp4?token=p6bGodMVxnIZVCPBMzsac4F386gje1ISRoyrIayswGVeByFjEWnF_mJkPjSQCQi1uNEB3cEj7CkTtJExhI6XM3HBw7EIFihAycvuBzx6Bu1w656Qix9QXkcFriQ0SFehTgdkq8J77UrXsyI8vm_PMw7afdsgALDxBwurzkqA66zjyrtqWH3I1jMMRJZto48HW0njJDaLqpm7Grg9kYDIUryGTuKSRSU3HKzJjsWF9DxMp4Kqm9rBd4PoNIEwoSjPU8FDalAQIyJlY0PL122bDdjYBrE_U1uW72ENI3AeBTRX_T3ppNhRsl5mIk0H9tF_YZ5yjnsMoAoQTDJymV6qAQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/c9c4ddc193.mp4?token=e7euEu4Do4Pf8jiqcQ3wM6XfhLQdM89w4PlQBwEx9W5s-LxHuG5wjH_CM_2UAd1FsiOxxON5KD3LA-cSNoDdUJtUnJlr9meTZ7QRow18SvV23pWTPTJ5EK5QruUcbF2JIOHWXYBajWnspXEX8zzJEBr9QDBekV4Y9sG6diqNkFJiBJ5J2cbmosq-8Yz9IxARzhI6vhMjT4HGSZDqsI5mpu5XTqKQQrRRhU2ci5t9PuKcWnblcEs5E8EqIBhzU0t5il8-7qeyte5PBHp8beASg1E5g66mlDOs1gjOCdFoW-NiFrX3jXkbNckZmsioTBeXL5_3DKP9xTVzcy9DO91UOA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/c9c4ddc193.mp4?token=p6bGodMVxnIZVCPBMzsac4F386gje1ISRoyrIayswGVeByFjEWnF_mJkPjSQCQi1uNEB3cEj7CkTtJExhI6XM3HBw7EIFihAycvuBzx6Bu1w656Qix9QXkcFriQ0SFehTgdkq8J77UrXsyI8vm_PMw7afdsgALDxBwurzkqA66zjyrtqWH3I1jMMRJZto48HW0njJDaLqpm7Grg9kYDIUryGTuKSRSU3HKzJjsWF9DxMp4Kqm9rBd4PoNIEwoSjPU8FDalAQIyJlY0PL122bDdjYBrE_U1uW72ENI3AeBTRX_T3ppNhRsl5mIk0H9tF_YZ5yjnsMoAoQTDJymV6qAQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👈
 وزیر صنعت لبنان: درحال پخش شیرینی
@@ -833,41 +1437,41 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 64.5K · <a href="https://t.me/alonews/128313" target="_blank">📅 22:22 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 69.1K · <a href="https://t.me/alonews/128313" target="_blank">📅 22:22 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128312">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">👈
 تسنیم: در صورت جنگ یا ترور در ایران و جبهه مقاومت توافق نهایی انجام نمیشه.
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 63K · <a href="https://t.me/alonews/128312" target="_blank">📅 22:17 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 67.5K · <a href="https://t.me/alonews/128312" target="_blank">📅 22:17 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128311">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">🔴
 فوری /شبکه ۱۳اسرائیل به نقل از یک منبع: تل‌آویو و واشینگتن بر سر عدم عقب‌نشینی کامل اسرائیل از لبنان به توافق رسیده‌اند
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/alonews/128311" target="_blank">📅 22:09 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 70.5K · <a href="https://t.me/alonews/128311" target="_blank">📅 22:09 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128310">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">👈
 نتانیاهو:  توافق با ایران توسط ترامپ انجام شد، این تصمیم او بود و ما منافع خودمان را داریم.
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 68.1K · <a href="https://t.me/alonews/128310" target="_blank">📅 21:56 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 71K · <a href="https://t.me/alonews/128310" target="_blank">📅 21:56 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128309">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">👈
 نتانیاهو: همانکاری با غزه کردیم با جنوب لبنان نیز خواهیم کرد،همانطور که غزه دیگر تهدید جدی‌ای برای اسرائیل نیست حزب‌الله نیز در آینده نخواهد بود
 🔴
@@ -875,11 +1479,11 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 67K · <a href="https://t.me/alonews/128309" target="_blank">📅 21:54 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 69.9K · <a href="https://t.me/alonews/128309" target="_blank">📅 21:54 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128308">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">👈
 نتانیاهو:  من در انتخابات شرکت خواهم کرد و قصد دارم در آن پیروز شوم.
 🔴
@@ -887,11 +1491,11 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 65K · <a href="https://t.me/alonews/128308" target="_blank">📅 21:53 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 67.9K · <a href="https://t.me/alonews/128308" target="_blank">📅 21:53 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128307">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">👈
 نتانیاهو: ایران به سمت دستیابی به سلاح هسته ای حرکت می کرد و ما توانستیم برنامه های موشکی و هسته ای آن را نابود کنیم.
 🔴
@@ -899,11 +1503,11 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/128307" target="_blank">📅 21:49 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 67.8K · <a href="https://t.me/alonews/128307" target="_blank">📅 21:49 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128306">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">👈
 نتانیاهو:  کسانی هستند که می‌خواهند دستاوردهای ما را کم‌اهمیت جلوه دهند، و ما به دستاوردهای بزرگتری هم دست خواهیم یافت.
 🔴
@@ -917,11 +1521,11 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/128306" target="_blank">📅 21:48 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 68.5K · <a href="https://t.me/alonews/128306" target="_blank">📅 21:48 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128305">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">👈
 نتانیاهو:  ما نصرالله را کشتیم و از حمله به جلیله جلوگیری کردیم
 🔴
@@ -931,31 +1535,31 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/128305" target="_blank">📅 21:45 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/128305" target="_blank">📅 21:45 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128304">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">👈
 نتانیاهو:ما در لبنان خواهیم ماند. کار با ایران ممکن است همچنان تمام نشده باشد
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/alonews/128304" target="_blank">📅 21:39 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/alonews/128304" target="_blank">📅 21:39 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128303">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">👈
 نتانیاهو:  ما خطر نابودی اسرائیل و ساکنان آن را دفع کردیم و آن را از ویرانی نجات دادیم. مبارزه ما هنوز تمام نشده است
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 59.8K · <a href="https://t.me/alonews/128303" target="_blank">📅 21:39 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/alonews/128303" target="_blank">📅 21:39 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128302">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">👈
 نتانیاهو: ما خسارات عظیمی به ایرانی‌ها وارد کردیم و اسرائیل را از خطر نابودی هسته‌ای نجات دادیم.
 🔴
@@ -963,602 +1567,27 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/alonews/128302" target="_blank">📅 21:38 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 62K · <a href="https://t.me/alonews/128302" target="_blank">📅 21:38 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128301">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">👈
 دلار 155000شد
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 59.6K · <a href="https://t.me/alonews/128301" target="_blank">📅 21:37 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 63.3K · <a href="https://t.me/alonews/128301" target="_blank">📅 21:37 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-128300">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">👈
 یک مقام آمریکایی به رویترز گفت که خروج از لبنان بخشی از تفاهم‌نامه نیست!
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/alonews/128300" target="_blank">📅 21:26 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128299">
-<div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-text">👈
-وزیر اقتصاد: مبلغ کالابرگ دهک‌های پایین به‌زودی افزایش می‌یابد
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 61.5K · <a href="https://t.me/alonews/128299" target="_blank">📅 21:15 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128298">
-<div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-text">👈
-اردوغان درمورد اسرائیل و ایران:
-از ۲۸ فوریه، کاملاً روشن شده است که چه کسی واقعاً خواهان صلح است و چه کسی ادامه جنگ را ترجیح می‌دهد.
-🔴
-کسانی که تمام امیدهای خود را به ادامه جنگ در منطقه ما بسته‌اند، بدون شک از تقویت فضای صلح ناراحت خواهند شد. همانطور که بارها پیش از این انجام داده‌اند، همه تلاش خود را برای مانع‌تراشی در این روند به کار خواهند بست.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/alonews/128298" target="_blank">📅 21:10 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128297">
-<div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-text">👈
-کانال ۱۳ به نقل از یک مقام اسرائیلی:
-ما از لبنان عقب‌نشینی نخواهیم کرد، اما از این پس هر عملیات نظامی قابل بررسی خواهد بود.
-🔴
-ما برای دستیابی به توافق بین واشنگتن و تهران قربانی شدیم.
-🔴
-معاون رئیس جمهور آمریکا از نتانیاهو خواسته است تا حضور اسرائیل در لبنان را کاهش دهد.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/128297" target="_blank">📅 21:04 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128296">
-<div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/33e5df9e7a.mp4?token=tqhSc9VO65jiUdztTe6kV-mF9zxtbKLYr4Od74RAtIWDc8l2zoZ6WZUNA3F7HnMS_W9O-Sd70v9a4HDjqG7uWqRLSfFsEcqfQR3cn3gXCPlek7gUnmqDNotZLL119tJeOtXe-TUkpYs0V-ijOPpNw4Bq3cnHJMGOteOhHuxdOCX2-j34ai39Y2YjWiSWoWDf172r2evxHo8i5fHEmbR9WY83E1rTPb0l1u4f7_jngu-06XGdJBXmKQ8vkz4BZVU9VKFKmzk5tVmz9s250osLDJQgLUE7h1YYTwz50AMjvIzKSdggbiB9W9xZOgHKCLcIp_xsxtH4zVhCzQEXaEXOXw" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/33e5df9e7a.mp4?token=tqhSc9VO65jiUdztTe6kV-mF9zxtbKLYr4Od74RAtIWDc8l2zoZ6WZUNA3F7HnMS_W9O-Sd70v9a4HDjqG7uWqRLSfFsEcqfQR3cn3gXCPlek7gUnmqDNotZLL119tJeOtXe-TUkpYs0V-ijOPpNw4Bq3cnHJMGOteOhHuxdOCX2-j34ai39Y2YjWiSWoWDf172r2evxHo8i5fHEmbR9WY83E1rTPb0l1u4f7_jngu-06XGdJBXmKQ8vkz4BZVU9VKFKmzk5tVmz9s250osLDJQgLUE7h1YYTwz50AMjvIzKSdggbiB9W9xZOgHKCLcIp_xsxtH4zVhCzQEXaEXOXw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-ویرانی کامل در جاده منتهی به شهر حداتا در جنوب لبنان در نتیجه حملات اسرائیل.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 56.7K · <a href="https://t.me/alonews/128296" target="_blank">📅 21:02 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128295">
-<div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-text">👈
-کانال ۱۳ اسرائیل به نقل از منابع:
-گفتگوی پرتنشی بین نتانیاهو و معاون رئیس جمهور آمریکا در مورد حضور اسرائیل در لبنان صورت گرفت.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/alonews/128295" target="_blank">📅 20:48 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128294">
-<div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-text">👈
-یک مقام آمریکایی به الحدث گفت:
-«به زودی خواهیم فهمید که آیا تفاهمات با ایران می‌تواند به توافقی تبدیل شود که مسیر منطقه را تغییر دهد یا خیر.»
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 56.4K · <a href="https://t.me/alonews/128294" target="_blank">📅 20:47 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128293">
-<div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-text">👈
-شبکه سی‌ان‌ان به نقل از مقامات ارشد دولت آمریکا: آماده انجام گام‌هایی برای آغاز کاهش تحریم‌ها علیه ایران هستند
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 56.6K · <a href="https://t.me/alonews/128293" target="_blank">📅 20:44 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128292">
-<div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-text">👈
-یک مقام ارشد اسرائیلی به i24NEWS گفت: اگر می‌دانستیم که جنگ از نظر «عادت سیاسی» به این شکل تمام می‌شود، مطمئن نیستیم که ارزشش را داشت که وارد آن شویم.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 56.2K · <a href="https://t.me/alonews/128292" target="_blank">📅 20:40 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128291">
-<div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IE8bQa9qEpch4_xY3kOv06OW3MQ35oicsbx0zMmxI-159u35xtDy4zqWS1CsViP4YHp0zN29Ips5-7rPiDhQxABuUiUYFOrY4RmGOYW5VNNAPpnZjVnc756HvUf2YVES2shOFD4K1yJSGY2Jr7aZeKV0rcm9jAA0C9aLSuktqJ_5oxM1QQ4ShDRQHh90O6I72tAbBcQBhh9Jj5fgKHJzskKN0-DNvyxjYD6uUsX9SA_kidLVGTyFKXU-Yk8TzDhVD2lh2ZH0SCftw6SRnWg04ZVqSucPrQocCLmFgzIKI_8lDx0nw6ouruze_l-qSWJc6gV8oAzOQu_8O0luTf8XUw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">👈
-بورس آمریکا در کمتر از ۲۰ دقیقه ۱ تریلیون دلار به ارزش بازار خود اضافه کرد
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 55.6K · <a href="https://t.me/alonews/128291" target="_blank">📅 20:37 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128288">
-<div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/NiC24YW3YTUqSE-6y-bOLXmoAru_SUO8j7Q4bN9Djeb1obye60-zz16CnI3I7TncobvN9OG301kB1aE4wNkCKSNUbamc1GZi3NXbyBTIB4tqGWiEwC9iaQYRdHnC90RyzEqAXyMlVDwDkCoSpYKtqdUDzfzsaEZET1LY8MKKH3pSRcvy1GEOUppjlrBvLzWepXZezKz6XWlHIKa0Y1JSp3pNX9xXWCrF35ov3a8SCXgMZVbXOYQ7Z9SzM2vtEHnjbpiHJW8Wpb_A65E-x3Gl8spsXGG8OiF5rIWk_CrhJBDJ-TCHSW_2VCAAjBGE6n3lQFXV3LI9QwBmhIJ9zcr3AQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/WpkqXwWW5vq2d_CJDMtvQgTtfXz-1jVc-zDVv58TA0VYy-A0DWXAeWTFlNe_0TuS9tHXfknwbDFpT29HCkwim58F5fKz-h7MyIAC2o1tVb2GKkilK66ksgyvrsrk1aMLX972NrKQ3PDB73QEuRJO3nVFu8XCQO-ril8H9yT7ITd5bJU5hWx7wjae-8piYTRYJkOlVzYYqNJNiYeWOnU6oHXNFHcZPiIXgpXQ2XELbysLIVpGC0b6TzHnECAkgUAs19LA5XvZjg3ObxTJaVPRVH3AuM2FeecOED6Gi02skjvDJ9GhGzWVOouexNrNSOm7pGp54xWJd-rtzr-di7xsRw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/VTCxcnQ0VQeRiv3APp35nbJhlukPWsmOhDwbH_eveKTdgS8ulWN7btms0e6mpMlMxO4BT3YTGqOeImufHfGNtkX_9cpUiZli0m9RHx0scOAXhsWXHiitNs9gEWPcT4LFD_XC1S6OQ8ihRQLz7u4i_jKwxuZd5rQOV_Q_o5dMgOhOq4cYxdrfXdRSlYUBvij5kEAE1I9a6maSrMbHsT4fPe87z8LbzUmfh0mepKBBhsmyUvJY_BtifhfvPRs-gqfQDUsBKkjnh8yp2Mjc_hTOPRssX1FjsNUhGSrJFBCKifHGj3imhkyDLHHw6UGoLlBfptXeNmA2o0hxkAZR1-duZA.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">👈
-تصاویری از سرجنگی عمل نکرده موشک کروز BGM-109 تاماهاوک در نزدیکی ورامین
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 54.6K · <a href="https://t.me/alonews/128288" target="_blank">📅 20:26 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128287">
-<div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-text">👈
-مکرون: ما از ایالات متحده، ایران و عمان در بازگشایی تنگه هرمز حمایت خواهیم کرد.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/alonews/128287" target="_blank">📅 20:16 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128286">
-<div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-text">👈
-ترامپ: نتانیاهو هم با توافق موافق است
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 56.4K · <a href="https://t.me/alonews/128286" target="_blank">📅 20:04 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128285">
-<div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a45b122799.mp4?token=Mx_nlKYC7u_7wqDde9FnRJ2T8RXEcupZtfN-OVjMiXl9hpcp9NLazEjq1FqvL3JXnkXkiVsp5aoINcQJ3hxGBshkbuCFo0vuJVcNcKljbhl98y6Lz4FJV4RnEVhJoJ2KB3-3lPY5HiyjS7y0d7INz7snSSlTXWV3y0aJLoTMwbTywt_3L1sRbSz0KiFBucR02_CnMI3gFwAYteLptjXNN65WBKxUEuLdvOJRIBEUUjai0wSb6KKKlbD56QT2FjJubpr5gu3bIFLuYOgI1IuyPUMDPj08Bqv0TfnGmCOR-j7igwy648OuKZqxRtSM1OI7p3CwxRCDD5POh4Ny5nrbGy4pPI_jVjSkL_ulxaOftphG1wXs8QSYTdDUlOFmu4wIwAslm2QePz1N77OgXWYiEruE7mj4RrBJuViq17YVJ3GvwrZeDF2UvT6TC0MWi9BElNUv0xWHU2Zf2MDcfqRufwoQtgNZ6oGknn1DiO4WXlL6S1iXb5yBPiLjkinLkRZ1XnyynWyqSoq3UF_p6NG-Or2cAk7AsKzcrFzSWd0sPve4nMnDfLbwzsG1IuWkW3HTUrwwGzBcudZOXPhKrVb_OOb9wbAGOVm5geBy6ARDYJeDoV8JF3WkT90peFSty4_F6d1h1hE_90qojVUp7S4OYapY18z61i74UqtFQk58fMw" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/a45b122799.mp4?token=Mx_nlKYC7u_7wqDde9FnRJ2T8RXEcupZtfN-OVjMiXl9hpcp9NLazEjq1FqvL3JXnkXkiVsp5aoINcQJ3hxGBshkbuCFo0vuJVcNcKljbhl98y6Lz4FJV4RnEVhJoJ2KB3-3lPY5HiyjS7y0d7INz7snSSlTXWV3y0aJLoTMwbTywt_3L1sRbSz0KiFBucR02_CnMI3gFwAYteLptjXNN65WBKxUEuLdvOJRIBEUUjai0wSb6KKKlbD56QT2FjJubpr5gu3bIFLuYOgI1IuyPUMDPj08Bqv0TfnGmCOR-j7igwy648OuKZqxRtSM1OI7p3CwxRCDD5POh4Ny5nrbGy4pPI_jVjSkL_ulxaOftphG1wXs8QSYTdDUlOFmu4wIwAslm2QePz1N77OgXWYiEruE7mj4RrBJuViq17YVJ3GvwrZeDF2UvT6TC0MWi9BElNUv0xWHU2Zf2MDcfqRufwoQtgNZ6oGknn1DiO4WXlL6S1iXb5yBPiLjkinLkRZ1XnyynWyqSoq3UF_p6NG-Or2cAk7AsKzcrFzSWd0sPve4nMnDfLbwzsG1IuWkW3HTUrwwGzBcudZOXPhKrVb_OOb9wbAGOVm5geBy6ARDYJeDoV8JF3WkT90peFSty4_F6d1h1hE_90qojVUp7S4OYapY18z61i74UqtFQk58fMw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-ترامپ به مکرون: شب گذشته بسیار دیر با شما تماس گرفتم تا تبریک بگویم. در دسته‌بندی سنگین‌وزن، یک بوکسور فرانسوی پیروز شد.
-🔴
-نمی‌دانم — شاید این حتی مهم‌تر از جام جهانی باشد. برای برخی افراد ممکن است این‌طور باشد.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/alonews/128285" target="_blank">📅 20:03 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128284">
-<div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/D8oxGAa5RZDVsYsr9Tgln-ITDOF5BKoxGwlKzzOGZuEohtXtvGmj-CgQTFTTplSq7mlAzrb3fYdtDI4b61YRjV5DmWL7FHBkEAuIZQlEVcEpt-cM7kC0NtTqR4X-5jWHsgRgHWNWle5siTkxXql0mM1jSj6p1Ra7mUL0zHF96y2gH7ETZH0jWApdNN8VwyEH-wfv5CJJj5vrZImIJgXEUFFhspe8KTMd_76ItLY-ruJDOq71WQpoiT7qjmsQEtEetL39idrDuO97ggEBoz8-QzZUuBXQWmsDBZpykvPkgiBdSMwiruEqMHB6uhUKtIrtU1qVhUG2alWjMnLpcZX_BA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">👈
-پارلمان مجارستان اصلاحیه‌ای را تصویب کرده است که محدودیت هشت ساله برای دوره ریاست جمهوری نخست‌وزیران اعمال می‌کند و عملاً بازگشت ویکتور اوربان، نخست‌وزیر سابق، به این سمت را غیرممکن می‌سازد.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 52.6K · <a href="https://t.me/alonews/128284" target="_blank">📅 20:02 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128283">
-<div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/01951dffa5.mp4?token=sKuJsSgwEPc8vmwsU7qPTsrlAsbCMv_7_8-OKrmgXkVw0MV815nvfOu3AtW80FkFihXnFBBFNMGJrkkp4YrONLnL2izeuKLZoHEyE_CEm0vvoiqvSWwNZ1Sd9lgSV13C0kaWufMNlxqe9LqgYrjOEwfsyUOxyEZBl7X0u5iMNMJzfP5AKyd42KL1BeRNYsSBK6SiWsAz1IHWgPV1k26DHiLVWuEdAYpDE6TEmC4FPjTurzHp4kPeZzddY_O2A_y6J_aPPHHSbFp8b22bWm1_JUeYCxYcBT_4WcNWMb9NtPJOEX--cjWqzZ7b1H-F2l7Bdyasx7G1lFiJFxPKf_Du_quuooDV_1UlJJxj9mX7m7DQ_dH57un9j-GxqxRtTKRs_WLO8f40IDGZbjUc34YxMZPa-QifA4ozSL05vH-m3u-7DBru6HO0oF3KGos-VLUrQynQcYHmlbEkFkWaHwESLw85AY8EtJ_KAIhiY2JwkBMgvQ6JArnYF_dHjmgvT5e-3dXmm08XQiUCSi6n3KBmrT-EPjV_ZrnY58sAyC-TVwXiWwwiVtW6MEFLYZhBksVSCcru4EBn-bDpLINR5yrKG1f6ecTrainthR3Exf_Xq863c1Z02JYJRPuMuWckktKArif2_8j_ClZFLCODVRXBF6MatEPuefjJhmX43s39ylE" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/01951dffa5.mp4?token=sKuJsSgwEPc8vmwsU7qPTsrlAsbCMv_7_8-OKrmgXkVw0MV815nvfOu3AtW80FkFihXnFBBFNMGJrkkp4YrONLnL2izeuKLZoHEyE_CEm0vvoiqvSWwNZ1Sd9lgSV13C0kaWufMNlxqe9LqgYrjOEwfsyUOxyEZBl7X0u5iMNMJzfP5AKyd42KL1BeRNYsSBK6SiWsAz1IHWgPV1k26DHiLVWuEdAYpDE6TEmC4FPjTurzHp4kPeZzddY_O2A_y6J_aPPHHSbFp8b22bWm1_JUeYCxYcBT_4WcNWMb9NtPJOEX--cjWqzZ7b1H-F2l7Bdyasx7G1lFiJFxPKf_Du_quuooDV_1UlJJxj9mX7m7DQ_dH57un9j-GxqxRtTKRs_WLO8f40IDGZbjUc34YxMZPa-QifA4ozSL05vH-m3u-7DBru6HO0oF3KGos-VLUrQynQcYHmlbEkFkWaHwESLw85AY8EtJ_KAIhiY2JwkBMgvQ6JArnYF_dHjmgvT5e-3dXmm08XQiUCSi6n3KBmrT-EPjV_ZrnY58sAyC-TVwXiWwwiVtW6MEFLYZhBksVSCcru4EBn-bDpLINR5yrKG1f6ecTrainthR3Exf_Xq863c1Z02JYJRPuMuWckktKArif2_8j_ClZFLCODVRXBF6MatEPuefjJhmX43s39ylE" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-ترامپ درباره لبنان
-:
-ما می‌خواهیم ببینیم آیا می‌توانیم مسئله لبنان را مرتب کنیم، زیرا به نظر می‌رسد هرگز به پایان نمی‌رسد.
-🔴
-و این نسخه کوچکی از کاری بود که انجام می‌دادیم. اما نباید سخت باشد.
-🔴
-حزب‌الله. ما باید کمی با آن‌ها صحبت کنیم.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 52.9K · <a href="https://t.me/alonews/128283" target="_blank">📅 19:57 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128282">
-<div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-text">👈
-خبرنگار
-:
-آیا قصد دارید در مراسم امضای روز جمعه شرکت کنید؟
-🔴
-ترامپ:
-خب، بستگی دارد. جی‌دی برای آن می‌آید — در اصل قرار بود او این کار را انجام دهد. احتمالاً تا آن زمان من رفته‌ام.
-🔴
-ما تا دیر وقت می‌مانیم، بنابراین ممکن است درگیر شوم و ممکن است نشوم.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 50.6K · <a href="https://t.me/alonews/128282" target="_blank">📅 19:56 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128281">
-<div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-text">👈
-ترامپ: احتمال دارد جمعه حضور داشته باشم و با ایرانی ها دیدار کنم
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/128281" target="_blank">📅 19:50 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128280">
-<div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-text">👈
-ترامپ در ادامه: از اینکه مجبور شدیم دو شب دیگر به حمله ادامه دهیم، احساس بدی داشتم. و فکر می‌کردم برای بار سوم هم همینطور، اما ما قبل از آن توافق را انجام دادیم.
-🔴
-فکر می‌کنم اتفاقات خیلی خوبی قرار است در خاورمیانه رخ دهد.
-🔴
-قیمت نفت در حال سقوط است و بازار سهام مثل موشک در حال افزایش است
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 52.4K · <a href="https://t.me/alonews/128280" target="_blank">📅 19:49 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128279">
-<div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-text">👈
-ترامپ: ما می‌خواهیم ببینیم چگونه می‌توانیم مناقشه در لبنان را حل کنیم و باید در این مورد با اسرائیل صحبت کنیم.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/alonews/128279" target="_blank">📅 19:47 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128278">
-<div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-text">👈
-ترامپ: تنگه هرمز بدون عوارض بازگشایی می‌شود
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 48.5K · <a href="https://t.me/alonews/128278" target="_blank">📅 19:46 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128277">
-<div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-text">👈
-ترامپ: کاهش تحریم‌های ایران به رفتار این کشور بستگی دارد
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/alonews/128277" target="_blank">📅 19:45 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128276">
-<div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-text">👈
-ترامپ: می‌خواهم یادداشت تفاهم با ایران را منتشر کنم زیرا سندی مهم و قدرتمند است و ما به زودی آن را منتشر خواهیم کرد
-🔴
-تنگه هرمز پس از جمع‌آوری مین‌ها به‌طور کامل باز خواهد شد
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/128276" target="_blank">📅 19:45 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128275">
-<div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-text">👈
-ترامپ: جی دی ونس در مراسم امضای تفاهم‌نامه با ایران شرکت خواهد کرد
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/alonews/128275" target="_blank">📅 19:44 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128274">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-text">👈
-ترامپ: ما خواهان روابط خوب با ایران هستیم و اگر این اتفاق نیفتد، به جنگ باز خواهیم گشت. امیدوارم این اتفاق نیفتد.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 47.2K · <a href="https://t.me/alonews/128274" target="_blank">📅 19:43 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128273">
-<div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-text">👈
-ترامپ: ما خواهان روابط خوب با ایران هستیم و اگر این امر محقق نشود، به جنگ باز خواهیم گشت و امیدوارم این اتفاق نیفتد
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/alonews/128273" target="_blank">📅 19:43 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128272">
-<div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-text">👈
-ترامپ: توافقی که اوباما با ایران انجام داد، این کشور را قادر به ساخت سلاح هسته‌ای می‌کرد
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/alonews/128272" target="_blank">📅 19:42 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128271">
-<div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-text">👈
-ترامپ: ایران سلاح هسته‌ای نخواهد داشت و من با این موضوع موافقت کردم. این اصل موضوع مناقشه بود
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 45.1K · <a href="https://t.me/alonews/128271" target="_blank">📅 19:42 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128270">
-<div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-text">👈
-ترامپ: توافق با ایران به نفع منطقه خاورمیانه خواهد بود
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/alonews/128270" target="_blank">📅 19:41 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128269">
-<div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-text">👈
-ترامپ: ما با ایران تفاهم‌نامه‌ای امضا کردیم و تنگه هرمز تا حدی بازگشایی شده است
-🔴
-تنگه هرمز روز جمعه به طور کامل باز خواهد شد
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 45.8K · <a href="https://t.me/alonews/128269" target="_blank">📅 19:41 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128268">
-<div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-text">👈
-معاریو: اسرائیل از توافق میان آمریکا و ایران شوکه شده است و به‌تدریج در حال از دست دادن اعتماد خود به ترامپ است.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/alonews/128268" target="_blank">📅 19:37 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128267">
-<div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-text">👈
-یک مقام ارشد آمریکایی: جزئیات توافق با ایران ظرف یک یا دو روز منتشر خواهد شد و مذاکرات پیش رو بسیار مهم خواهد بود.
-🔴
-مذاکرات فنی اواخر این هفته آغاز خواهد شد.
-🔴
-ما نمی‌توانیم به ایران اجازه دسترسی به دارایی‌هایش را بدهیم یا اگر از آنها برای حمایت از تروریسم…</div>
-<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/alonews/128267" target="_blank">📅 19:34 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128266">
-<div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/9573421eb8.mp4?token=XuTtZs1CtDgK-DhtGpK6vlYuiQhm1M1WhuAiergMFro4YSbiaUFGaIowdrV4zJoLWbhzOV_JdYa_XCSjfLRyztc0SYL7hPxPLE1yF3pPq4BuOMMf5a6BEFDhb3C--ml7e2BuW-kMDEm9n5OfIhunAjcxG8YJx9Hivy0cg9jsx7USWSBxEzuO6dR3opQR8I6bV2GoGcRomgPYT2tWbzPK5kqFUZvzxIGOx1-V7ymZOXGbkxpu6z1vbMaGUmTmmPimJHyTzZeurM7PQY8qjbhzGmL9vBaZ0V7-pG6ez21eigrvJLV7RgCFqF9cBNuEojl3RRl8l8SLSlZmUAYjTCHbmg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/9573421eb8.mp4?token=XuTtZs1CtDgK-DhtGpK6vlYuiQhm1M1WhuAiergMFro4YSbiaUFGaIowdrV4zJoLWbhzOV_JdYa_XCSjfLRyztc0SYL7hPxPLE1yF3pPq4BuOMMf5a6BEFDhb3C--ml7e2BuW-kMDEm9n5OfIhunAjcxG8YJx9Hivy0cg9jsx7USWSBxEzuO6dR3opQR8I6bV2GoGcRomgPYT2tWbzPK5kqFUZvzxIGOx1-V7ymZOXGbkxpu6z1vbMaGUmTmmPimJHyTzZeurM7PQY8qjbhzGmL9vBaZ0V7-pG6ez21eigrvJLV7RgCFqF9cBNuEojl3RRl8l8SLSlZmUAYjTCHbmg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-فکر می‌کنید تفاهم‌نامه ایران و آمریکا طولانی‌مدت و دائمی شود؟
-🔴
-وزیرخارجه لهستان: ان‌شاءالله!
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/alonews/128266" target="_blank">📅 19:33 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128265">
-<div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-text">👈
-یک مقام ارشد آمریکایی: جزئیات توافق با ایران ظرف یک یا دو روز منتشر خواهد شد و مذاکرات پیش رو بسیار مهم خواهد بود.
-🔴
-مذاکرات فنی اواخر این هفته آغاز خواهد شد.
-🔴
-ما نمی‌توانیم به ایران اجازه دسترسی به دارایی‌هایش را بدهیم یا اگر از آنها برای حمایت از تروریسم استفاده کند، آنها را آزاد کنیم
-🔴
-نیروهای ما استقرار فعلی خود در خاورمیانه را حفظ خواهند کرد و هرگونه کاهش نیرو پس از امضای توافق نهایی انجام خواهد شد.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 44.7K · <a href="https://t.me/alonews/128265" target="_blank">📅 19:32 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128264">
-<div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-text">👈
-رویترز به نقل از یک مقام ارشد آمریکایی:
-ترامپ و ونس از طرف امریکا و همچنین قالیباف از طرف ایران این یادداشت تفاهم را امضا کردند.
-🔴
-این توافق، بازگشایی فوری تنگه هرمز و لغو تحریم‌های آمریکا علیه ایران را تصریح می‌کند.
-🔴
-ترافیک در تنگه هرمز از همین حالا شاهد افزایش قابل توجهی خواهد بود.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 44.7K · <a href="https://t.me/alonews/128264" target="_blank">📅 19:19 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128263">
-<div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MH8HEy_CFwcw32VJLKpk_E16MQ6kh9xbFCdohfRrA0ZZA89_MHv_UfDRDtfjCP9qCf3urXrJAiR3LvmCEOYsly6tyvL8LzgqYJKDuo26W5fNAIXCQJT6i8qTXYS05wPuRbGyjJ9AKY6zG0AAPeONSBsiYQMUtjJQpX4wY88d5etYKg2FhV6emGP3Z3YbxsMJF0bOpZ8PWfKI8qhd4HAPjyjFhmLyOsXZtYMXI41WAUqGf6wUngC5ZWHQnZe7gP8jsSqaBb4VfaiQVSsJ7uWcOZ0bLZ-t1uEDvaCQJtvLJiuNYvbt5-RzzCD4J_-gyy7NvJ0A7fQ7tvwt2SC27Gq7Kg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">👈
-قالیباف : ایران گامی بلند به سوی پیروزی نهایی برداشت
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/alonews/128263" target="_blank">📅 19:19 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128262">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-text">👈
-روزنامه عبری یدیعوت آحارونوت:
-اهدافی که بنیامین نتانیاهو برای توافق با ایران تعیین کرده بود، در یادداشت تفاهم میان آمریکا و ایران جایی ندارند و به نظر می‌رسد در توافق نهایی نیز محقق نخواهند شد.
-🔴
-این اهداف شامل خروج مواد غنی‌شده از ایران، برچیدن زیرساخت‌های غنی‌سازی، محدودسازی برنامه موشکی و پایان دادن به حمایت ایران از متحدانش در خاورمیانه است
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 45.2K · <a href="https://t.me/alonews/128262" target="_blank">📅 19:11 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128261">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-text">👈
-عراقچی: روز جمعه احتمالاً در کشور سوئیس دیداری بین روسای هیئت‌های دو طرف انجام و تفاهمنامه بین ایران و امریکا امضا شود، سپس اولین دور مذاکرات بعدی برگزار شو
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 46.5K · <a href="https://t.me/alonews/128261" target="_blank">📅 19:06 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128260">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/fbb39df108.mp4?token=jp8gVHWwkx4AERBQ3DbEUvIJnoeP8DAaZINcIjyV0JnVkjSIlwExpEzJcPvWvktqM0YioOaPLo8BmeJ2Z75NZmUzsQa-FNtCRtPubZiQ5AaU_l0Xa_AWI34mKB29UgprNTdA4WO7T19oROBNQ__ymxwjtaIx2mcZ2qzftMOid_nd1xjvNEdOh3QlKbAoD2hg-2Ly9VEAMXLuYh7tbdRpfTDR_fTmrFOpnjrG_IZjQdrwRPkaAmfdFp-iOw8wficf-eCB0IwI4BshuYuZ8-WM3S6TBRmIkwfGjyLFPmnNo7n_WD_V45HexTrpldCbHWl6WVHmBub4ophTaJHlAhW5_A" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/fbb39df108.mp4?token=jp8gVHWwkx4AERBQ3DbEUvIJnoeP8DAaZINcIjyV0JnVkjSIlwExpEzJcPvWvktqM0YioOaPLo8BmeJ2Z75NZmUzsQa-FNtCRtPubZiQ5AaU_l0Xa_AWI34mKB29UgprNTdA4WO7T19oROBNQ__ymxwjtaIx2mcZ2qzftMOid_nd1xjvNEdOh3QlKbAoD2hg-2Ly9VEAMXLuYh7tbdRpfTDR_fTmrFOpnjrG_IZjQdrwRPkaAmfdFp-iOw8wficf-eCB0IwI4BshuYuZ8-WM3S6TBRmIkwfGjyLFPmnNo7n_WD_V45HexTrpldCbHWl6WVHmBub4ophTaJHlAhW5_A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-رئیس‌ پلیس راهور :  صدور گواهینامه موتورسیکلت برای بانوان داره اجرایی میشه
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 47.6K · <a href="https://t.me/alonews/128260" target="_blank">📅 19:00 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128259">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-text">👈
-شرکت مخابرات سوریه به سانا اعلام کرد که یک کابل زیردریایی بین‌المللی که طرطوس را به اسکندریه مصر متصل می‌کند، در نزدیکی ساحل طرطوس خرابکاری شده است.
-🔴
-این آسیب باعث اختلال در بخش قابل توجهی از ظرفیت اینترنت بین‌المللی سوریه شده و خدمات اینترنتی ضعیف‌تری را در چندین استان به دنبال داشته است.
-🔴
-شرکت اعلام کرد که تیم‌های تخصصی برای تعمیر کابل اعزام شده‌اند و هشدار داد که بازسازی کامل خدمات ممکن است به دلیل پیچیدگی فنی تعمیرات کابل زیر دریا زمان‌بر باشد.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/alonews/128259" target="_blank">📅 18:59 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128258">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6ba3f87619.mp4?token=fSlz-zgi4HIkivqwIW3eUb4l7hwK_xtw2CikBl9ltVOmFzzTtmuV5LMNkXu9IBlPPGt-yMCbho_1UjSbgP6Yy14ZKItkpNlzi4kHngx3C_HiQQnb0UKAKhXqPSob_nj7f2wSYQZows77iXMWkwqoGAfb-uCTF2_NI6V4Asdx9IgdyerL1OCNmi3IpLaOabx2xbv0o8bBa8-vckip6HSGMy91uJvqD4AGIZH4nwYqIThJVh6Yvu0wSXGWGE7tWeiG-dhe72r_Shom_qkvPDjUfWGesv2PkmK1PE8BxSJXFwmUGWk9UxzA6thJF8DRkC1G6U_xiBRo6reYiRYYaGgOHA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/6ba3f87619.mp4?token=fSlz-zgi4HIkivqwIW3eUb4l7hwK_xtw2CikBl9ltVOmFzzTtmuV5LMNkXu9IBlPPGt-yMCbho_1UjSbgP6Yy14ZKItkpNlzi4kHngx3C_HiQQnb0UKAKhXqPSob_nj7f2wSYQZows77iXMWkwqoGAfb-uCTF2_NI6V4Asdx9IgdyerL1OCNmi3IpLaOabx2xbv0o8bBa8-vckip6HSGMy91uJvqD4AGIZH4nwYqIThJVh6Yvu0wSXGWGE7tWeiG-dhe72r_Shom_qkvPDjUfWGesv2PkmK1PE8BxSJXFwmUGWk9UxzA6thJF8DRkC1G6U_xiBRo6reYiRYYaGgOHA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-دونالد ترامپ، رئیس‌جمهور آمریکا، برای شرکت در نشست سران گروه هفت (G7) وارد شهر اویان-له‌بن در فرانسه شد
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 43.6K · <a href="https://t.me/alonews/128258" target="_blank">📅 18:56 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128257">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-text">👈
-نتانیاهو تا چند ساعت دیگر سخنرانی خواهد کرد و این اولین واکنش رسمی او به اعلام توافق پس از ساعت‌ها سکوت است
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 45.8K · <a href="https://t.me/alonews/128257" target="_blank">📅 18:52 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128254">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/kwZtUhrhBDBBAVqvuUHO7yCv1idU0x2s0FxiOyRTVFP0hMl74HRQUCFXcp1QXk-qDLmeseZpjMx2tSVqeRfdrxpCprK6ltsE-fOVydZPwKMVnVSXwdYG92daflAvuPQOlRJSM0Uky-3-21bEDMkvB-h7Gntgw42eG2StCbzk4rZ7Gwq4_KPALefCtrVGrePX0cDfYCeU-LYS1x6iL3C4oJeg4FWHDmI9_pWpSDnnXQkpP3hCd94X0LPonatRD55l5s3h4e12hPnDxDPSyVw70TuN3JPNHlCBBt0vhSqaDnhOlDSo69o6FSfCKoFvH5idcVzqDXQMsUQ7BED2jzdwCw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/S5_92I2Zj1SLeqrTqeMTEhthoUtK6HZbEZI9eDavEkku29SWR5Hdvuoc9WoFeVIskjcjMZLMMkpRIjWrOlesi7yfdIOIdPDOHLaCCDDKoUj2CLMX19EFnkb_9wlSaXQXwWPAlAN1mYn_XshTiIycHd0cM9FlCltpYzAyDcaAVGR2_RC0S6GCVnplHyoUPAMbDqsn_cWuLDGa6KyGV7LfsN8z5y8XMyMYD__R3-uwbUFPjEOqwo8d7Qf3_QUh2lDPwzQW7CtIc1PkdhjVeixXmw1Iodz-1Ib5QAJO7TA0Mj1_6GI3q6taHoT_wLXjR5kbJuYsmNxfF7iWtWumMUW2bQ.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5a7b34be62.mp4?token=aYlZFiFTfoMSShQtD1mQsuBqNLOrICjk_e6feM2PVW1G88ZxURTL5YYZxGyNLej2Q8Ph_JAZNBlWf7prjxED7SCXbT_Jk5Ddlstdd5Wwr8ShqM1AejdmN2oV9b22My0HgHF6ZM9aZwnUP2fOyIrqdiE_nWfDSZdDXViyAi4AmC1bSOaMp0omhPcZOYGyAXYremuEx7vm6jprzVU-uKLmeg1oNtx6yJCFilaL2bDu8Me2LMiST2gQUEcwvLzDuGDyPXHHTrdp4AOz4tzcYCFYy8VRswFOvJyypev4nSdmt7P5TnlTVeX5McKhFGvAehTjxCmu0_2GgCB9wS3gA967og" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/5a7b34be62.mp4?token=aYlZFiFTfoMSShQtD1mQsuBqNLOrICjk_e6feM2PVW1G88ZxURTL5YYZxGyNLej2Q8Ph_JAZNBlWf7prjxED7SCXbT_Jk5Ddlstdd5Wwr8ShqM1AejdmN2oV9b22My0HgHF6ZM9aZwnUP2fOyIrqdiE_nWfDSZdDXViyAi4AmC1bSOaMp0omhPcZOYGyAXYremuEx7vm6jprzVU-uKLmeg1oNtx6yJCFilaL2bDu8Me2LMiST2gQUEcwvLzDuGDyPXHHTrdp4AOz4tzcYCFYy8VRswFOvJyypev4nSdmt7P5TnlTVeX5McKhFGvAehTjxCmu0_2GgCB9wS3gA967og" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-تصاویری از آتیش سوزی آتش‌سوزی تو میدون تجریش، تهران
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 46.8K · <a href="https://t.me/alonews/128254" target="_blank">📅 18:52 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128253">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-text">👈
-براساس گزارش‌های اولیه، یک نفتکش در آب‌های ساحلی یمن هدف قرار گرفته اما تاکنون جزئیات بیشتری منتشر نشده است.
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/alonews/128253" target="_blank">📅 18:47 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128252">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">👈
-پزشکیان: نگرانی و عصبانیت اسرائیل از توافق،  نشانه‌ای روشن از موفقیت و پیروزی ملت ایران است و به فضل الهی این مسیر با اقتدار ادامه خواهد یافت
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 47.7K · <a href="https://t.me/alonews/128252" target="_blank">📅 18:45 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128251">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-text">👈
-رئیس کمیسیون انرژی مجلس با اشاره به اجرای آزمایشی انتقال سهمیه کارت سوخت به کارت بانکی از تیرماه، گفت:با اجرای این مصوبه، هیچ تغییری درمیزان سهمیه و قیمت سوخت ایجاد نخواهد شد و مردم از این بابت نگرانی نداشته باشند
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/alonews/128251" target="_blank">📅 18:42 · 25 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-128250">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">👈
-پزشکیان: تیم مذاکره‌کننده‌ای که برای امضای توافق اعزام خواهد شد، به هیچ عنوان از چارچوب‌ها و سیاست‌های تعیین‌شده از سوی رهبری عالیقدر عدول نخواهد کرد و تمامی اقدامات در چارچوب منافع ملی و خطوط ترسیم‌شده نظام انجام خواهد شد
-✅
-@AloNews
-خبر جنگ</div>
-<div class="tg-footer">👁️ 49.2K · <a href="https://t.me/alonews/128250" target="_blank">📅 18:39 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/alonews/128300" target="_blank">📅 21:26 · 25 Khordad 1405</a></div>
 </div>
 
 <hr>
