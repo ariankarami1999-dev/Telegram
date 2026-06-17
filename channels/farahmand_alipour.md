@@ -291,14 +291,14 @@
 <p>@farahmand_alipour • 👥 63.3K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-27 02:30:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-27 03:51:59</div>
 <hr>
 
 <div class="tg-post" id="msg-5588">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">قرارگاه خاتم‌: اسرائیل طی دو روز گذشته پس از اعلام پایان جنگ توسط رئیس جمهور آمریکا، ۸۴ بار آتش‌بس در جنوب لبنان را نقض نموده و همچنان به جنایات و کشتار مردم لبنان ادامه می‌دهد.
 چنانچه ارتش رژیم صهیونیستی به شرارت در جنوب لبنان پایان ندهد، باید منتظر پاسخ سخت نیروهای مسلح مقتدر جمهوری اسلامی ایران باشد!</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farahmand_alipour/5588" target="_blank">📅 22:32 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farahmand_alipour/5588" target="_blank">📅 22:32 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5587">
@@ -313,7 +313,7 @@
 <div class="tg-text">خواستم بنویسم هنوز کفنش هم خشک نشده
 که حرفهاش رو رها کردید،
 یادم افتاد هنوز تدفین هم نشده!</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farahmand_alipour/5587" target="_blank">📅 21:44 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/farahmand_alipour/5587" target="_blank">📅 21:44 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5586">
@@ -321,7 +321,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CgmlffjzE_qrw0K4fcb3LQ2iexas8EVdu0cykiuoK4Fy6L_MD8sZL-s_CTNJup1hheqtReGr-ZtUQdaH6BSDhOAqzSyHbLrkU-ifQRnNxZcf2M1FULmSmUS3Ai9YT9hEJObZx4gSJP10kRBTTRdSdYNz-cOHNOMaWYgFYuIJ-ma6lrEvxJsDEppERlOQSHXfux3C6cwwdgc1iMlHS_AxH0JhGsvoGGGPBDiOtsZ57LFJ4jHZG3JsrEwAF7S3_9fQfJFLZk2smlIaPORCNezHOhFJrg9Vc8vO14AyAlAnDHV2xLDVwmLEikTH2NsEpRbJU64XtwDF1Mt7fV8lFhsbkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حملات گسترده دقایقی پیش اسرائیل
 به جنوب لبنان</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/farahmand_alipour/5586" target="_blank">📅 19:49 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/5586" target="_blank">📅 19:49 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5585">
@@ -334,7 +334,7 @@
 اگر سلاح هسته‌ای واقعا مانع شکست میشه پس باید صادقانه به هوادارانتان بگویید : نمی‌تونیم بر اسرائیل پیروز شویم، چون اسرائیل بمب هسته‌ای داره!
 اما اگر معتقدید می‌توانید با اسرائیل بجنگید و حتی بر آن پیروز شوید، پس خودتان هم قبول دارید  که بمب هسته‌ای تضمین مطلق امنیت و پیروزی نیست!!
 پس چرا بدروغ میگید که اگر جمهوری اسلامی بمب اتم داشته باشد، امنیت کشور تضمین می‌شود؟</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/5585" target="_blank">📅 17:03 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5585" target="_blank">📅 17:03 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5584">
@@ -351,7 +351,7 @@
 جنگ و خاطرات خونین وجود داره.
 احمد شرع اما در این ۲-۳ سالی که قدرت گرفته سکوت کرده، اما اگه نیاز بشه، می‌تونه تا ۱۰۰ هزار نیرو روانه لبنان و مناطق تحت کنترل حزب‌الله کنه.
 انگیزه بالایی هم دارند!</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5584" target="_blank">📅 16:45 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/5584" target="_blank">📅 16:45 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5583">
@@ -360,21 +360,21 @@
 بستگی به رفتارهای جمهوری اسلامی دارد
 (اول صبر می‌کنیم ببینیم ج‌ا چی کار میکنه بعد در صورت نیاز، تحریمی رو برخواهیم داشت.)
 ترامپ : صندوق ۳۰۰ میلیاردی سرمایه گذاری در ایران کار رسانه‌های فیک نیوز دمکراته پایه و اساس نداره! (البته این حرف رو خود ونس هم قبلا زده بود که الان ترامپ قاطعانه رد کرد.)</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/farahmand_alipour/5583" target="_blank">📅 10:53 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/5583" target="_blank">📅 10:53 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5582">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HNTpIgWIVuzbRHoTGOwA9rElA9FQv7hvWUQVXbK-10dn9SS_0v71VrXTO4f60ZXKatjP2sXegayMEa5NlwI1GauZ_VBGdFQNS30uoKq15rcOKyYooV5tlldtESq0h3neVxCNLmqDq8PPJxQNsfEUqMh4yU2NI8-QRbzGfrrE2zmz6XpgUi2Qq65J0ZhDEj9pgmATvQA67utXwoYin10_W-cekLINiFMbsxYOXJf3b6hxWCOiCbVZjHprm0U7W7tumO5Gp1Cr3ImqtPnwYzjOjwepcmr6D1WXkFRSvZB6Jt52HjzmKUNHFqhLEntdnjKaeyXcgvJdIfB04R3bnQqIww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">موساد و ارتش اسرائیل معمولا نتانیاهو را فردی معرفی می‌کنند  که بسیار پر سر و صداست، در حرف زدن جدی و قاطع است، اما در مرحله عمل، و تصمی‌گسری‌های بزرگ بسیار مردد است.  بنت اما متفاوت است او کمتر حرف می‌زند اما جسور و قاطع در امضای عملیات‌های پر ریسک و ضربه‌ها.…</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/5582" target="_blank">📅 10:35 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/farahmand_alipour/5582" target="_blank">📅 10:35 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5581">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fNmU520OyUOM_rUGL52o5V502SVZxiwXwbVtVswFYx07M6V9JLsPy9PvCLaQlq8p1Vuih4heDgmhog7ZgnjLJeAxR920bn28qdzJZa0XebH1IOYevKa3iNaBVXty7okhdxnoIzCtGr8NF6uJU8PE8_e9aYEOIjCEPXVJ6MGtsPo_VoMrXzKuKOfipkgKCraA9SGhkFGJ5GZowioxf7HLQT_sH1-N4uEn_U1X6AQ_oncogHZxY1IAxInA_8o5PsSoqObOfPK2ZgxXUFzDW6UIgw8JN23jQdVU1dixPYnqKvWZI44r7fXm1iNzjxfY4_IRZcwBnNSJ-aNsybIbbOIKBw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">او که از منتقدین سرسخت نتانیاهو در زمان جنگ ۴۰ روزه بود و به او انتقاد می‌کرد  که ضرباتش به اندازه کافی قدرتمند نیست،  و اینکه نتانیاهو زیاد از حد تحت تاثیر ترامپ است، دیشب در یک سخنرانی نیز گفت که راهبرد نتانیاهو موجب شده است که درگیری‌ها طولانی شوند.  او…</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/5581" target="_blank">📅 10:18 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/5581" target="_blank">📅 10:18 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5580">
@@ -402,7 +402,7 @@
 <div class="tg-text">نفتالی بنت، مهم‌ترین رقیب نتانیاهو در انتخابات آتی اسرائیل است،  در آخرین نظرسنجی‌ها محبوبیت او از محبوبیت نتانیاهو پیشی گرفته.
 🔺
 بنت قبلا هم نخست وزیر اسرائیل بوده،  او کسی است که برای اولین بار  جمهوری اسلامی و نیابتی‌هاش رو به  «اختاپوس» تشبیه کرد و اعتقاد…</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/5579" target="_blank">📅 10:06 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5579" target="_blank">📅 10:06 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5578">
@@ -417,7 +417,7 @@
 که باید به جای درگیر شدن با دست‌های‌
 اختاپوس در لبنان و غزه و سوریه ، عراق و یمن و …..
 باید مستقیما به سر اختاپوس کرد.</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/5578" target="_blank">📅 10:03 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/5578" target="_blank">📅 10:03 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5577">
@@ -425,7 +425,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SPaPvDSmTle2Cn_G65P6D7joL9eWY8uSmXyTKApGiMx6iKdVabWUynDucceHk9hmkcpBOjAUrJH12OETK415QigsHOtoya0tFg0OvEXz6R9ARyJdzHkOAsBz7-9a5nvJhB1TwaoJ81oKTO34csYloluMiiYMhY-4TUyACRyUH8QyTr6VZmpORy3gPsD92DUQPf2j4tEaOb9BULarmsh2mJlTpeGrAOaABjvfQM4Yz_oupmJ9GvYohyCm068tMaGHUU2YQ-bkYXL73eJd84kmMxKaKfR8BFn0rjxlJ8sI29STuepOQB2ZB2gQtkIfo_CP3rjrdGdvyJlBLTbyio4Muw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏اول هسته‌ای، بعد موشکی …
 ‏به مزدورهاشون که هر شب جمع میشدن، گفتن که چی امضا کردن؟</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/5577" target="_blank">📅 09:49 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/5577" target="_blank">📅 09:49 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5575">
@@ -443,7 +443,7 @@
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vVG_ztyV0P_3m4VyfBtKxy6gMtx1td5H3osaROc8tPYdmMvyKjCp3O88Mis-yHX5TvvjjlCduuTSHBkXqaH3XCPDtX6g3UTk6Sg9s1IOFZ3uYdf9IkUCNL9Z34uOpoySZv6Ys-JoCocm-i59HO8B8lJ194fRnFPz_bG15fo5JmWeqtGX7KxKJjms26E1o6FxL3ebc_f0E5nAGfy2UxBjmm2pEPFFlXady8a_fUbTv459cwL17ukE4bmfbx_-RQRtmrUSsWdfqGSSJugIBj_rzlbsLiID1h2h9IBZ-cSt_7RrXKiYTwJJbKtnXx_BD1oJ-QmdsArMauCOUECjU-0Teg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شنیده شدن صدای سه انفجار در قشم و تنگه هرمز</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/farahmand_alipour/5574" target="_blank">📅 01:14 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/5574" target="_blank">📅 01:14 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5573">
@@ -500,7 +500,7 @@
 <a href="https://cdn4.telesco.pe/file/67f3e1d072.mp4?token=vliEBXA0J_ymtqAhKIy8fhSgC8kItyFBuYGvnWJcX83rChkZEw6oc-McONOmKytah9KzSDWRuAEqwkTMm74eCttbH5KcXlS1xozNkiVkqhgm98S-N8u6QPzeMKBlBVnO2aX7rrngjEU-TbisOP0dW0v5iHm7mleI7O0m1QHWjYFycuifQBTSEZ5g5iiiKIYmtg5FCx6-eWx-U2MmjJU_HYJL8w3BRrhLJ3prYcWBERg3oyApWvRLnN2EnpxRtSlPpMRpEqy5QOz1k2Uftxl5YCR8Ka4fF32uSIzjlL2-1pxy_tAnAOMxZ1avcm9ccOzMGLwvK2pH1p8uR76ubacHwIi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حمله دیشب به ضاحیه :)</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/farahmand_alipour/5568" target="_blank">📅 13:59 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/farahmand_alipour/5568" target="_blank">📅 13:59 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5566">
@@ -538,7 +538,7 @@
 <div class="tg-post" id="msg-5562">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">بیانیه شورای عالی امنیت ملی ،  ۲ نکته رو به عنوان دستاورد مهم توافق پایان جنگ با آمریکا معرفی میکنه : ۱- پایان جنگ در لبنان ۲- پایان محاصره دریایی.  ولی موضوع پایان جنگ در لبنان (که در صدر شروط جمهوری اسلامی بود)  بسیار مبهمه!  چون رسانه‌های غربی چنین موضوعی…</div>
-<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/farahmand_alipour/5562" target="_blank">📅 10:32 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/farahmand_alipour/5562" target="_blank">📅 10:32 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5561">
@@ -594,7 +594,7 @@
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">🚨
 زخمی شدن دو سرباز اسرائیلی بر اثر حملات موشکی حزب الله</div>
-<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/farahmand_alipour/5556" target="_blank">📅 23:02 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/farahmand_alipour/5556" target="_blank">📅 23:02 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5555">
@@ -755,7 +755,7 @@
 <div class="tg-text">حمله اسرائیل به ضاحیه بیروت
 حمله اسرائیل پس از حمله حزب الله
 با دو پهپاد به اسرائیل صورت گرفت.</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/farahmand_alipour/5540" target="_blank">📅 17:05 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/farahmand_alipour/5540" target="_blank">📅 17:05 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5539">
@@ -891,7 +891,7 @@
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">نخست وزیر پاکستان: تفاهم‌نامه ظرف ۲۴ ساعت آینده امضا می‌شود.
 عراقچی : برای ۲۴ ساعت آینده هیچ برنامه خاصی وجود نداره.</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/farahmand_alipour/5529" target="_blank">📅 17:03 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/farahmand_alipour/5529" target="_blank">📅 17:03 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5528">
@@ -937,7 +937,7 @@
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cUFJ-uPXSMTOg3iWswS4UZSU7tqplUxF0vxb-nuqp-3WEx6R0GAdz-iWg6Zik3_pMje77NpCxSLr57ha1t1DlL5S_EYpqMboq7Jyp4pr2YsCn49Z05Xc34k6pVXeJJ2bIrBXXqD5UEybF9GBaM_sUNoxYEkgusEzgInC23ZjCEtK-hLHdHimtVv5FSrjr1ibM1pAJEsAFo9EsNu_3XCtoyaCMiLQyykmbPpbbPLaaO10tmMwniKtG2A6nv61HGggMmsvQ-MSKqDZdjZWU4CGjsbm156hIZ0rz1efau6a8CONWijWiOG3ajhbQUTQYBDhqkCcAU14_QuJderJgBi3VQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جزئیات مراسم تدفین خامنه‌ای</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/farahmand_alipour/5525" target="_blank">📅 13:58 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/farahmand_alipour/5525" target="_blank">📅 13:58 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5523">
@@ -1010,10 +1010,10 @@
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/dc4528c0a2.mp4?token=foAxd31KewFYeSQICrnckd-d6tfwLmn3NE5uO-ErnHgVswTkjJLV5XMf3ENoTmnZxikZmz30fimFPnSbdJAbg96Yx6ZIiER_NrKxUWTR6Oog0nk7SoPGT6bXeTozlU60FzJ6JRWHMobQXnsg3oLMMbmHnH6anInEStzxvHjSf9pTXTOkmt28Rr09Tfc8VOCiRM28X4Zff36yfBS49lJ37_sPx3w22AP31Ji_YYconMymnZnr0nV75JjUcsiQmULU_JurZe5dsg7NcUWrBWRJdW4hHfF_FOt4n4hwJyMwOZJEA37fL6CC6Hvzgzf54_kCv-W-ROp0MLuCmEsrhDuoBw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/dc4528c0a2.mp4?token=W9e6fR0yBB0n944blMco1Xrq8zWBh22Yp4jXROo2jI1mfUNZ3mS66MkV_BAhy-ceez7AgX1043yBtBcZtEo8ZQ9Zq4L0ey33gObmYDfK_I6qnpn61ePwkO9wm4qS6J9kPLzzhd541qd4zAtFLQon3uLs3ZyTMarW2rQFXHI9FA1itAPvOye9IHyFBA44uKv7Pzo9ke5VSrQ1YwF58Se_RXTF1QfX4r7CXt6239tvyt9uuageuMBrt_30ypL5TnbCJGddC73JhRzSdjdIc9JC2qmnyjvD4rpm90yemPQPQuqbWfoF_7nhOh1oE9a2iZCy9mCf2h_fQlpwgMQBZZMMLA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/dc4528c0a2.mp4?token=foAxd31KewFYeSQICrnckd-d6tfwLmn3NE5uO-ErnHgVswTkjJLV5XMf3ENoTmnZxikZmz30fimFPnSbdJAbg96Yx6ZIiER_NrKxUWTR6Oog0nk7SoPGT6bXeTozlU60FzJ6JRWHMobQXnsg3oLMMbmHnH6anInEStzxvHjSf9pTXTOkmt28Rr09Tfc8VOCiRM28X4Zff36yfBS49lJ37_sPx3w22AP31Ji_YYconMymnZnr0nV75JjUcsiQmULU_JurZe5dsg7NcUWrBWRJdW4hHfF_FOt4n4hwJyMwOZJEA37fL6CC6Hvzgzf54_kCv-W-ROp0MLuCmEsrhDuoBw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/dc4528c0a2.mp4?token=W9e6fR0yBB0n944blMco1Xrq8zWBh22Yp4jXROo2jI1mfUNZ3mS66MkV_BAhy-ceez7AgX1043yBtBcZtEo8ZQ9Zq4L0ey33gObmYDfK_I6qnpn61ePwkO9wm4qS6J9kPLzzhd541qd4zAtFLQon3uLs3ZyTMarW2rQFXHI9FA1itAPvOye9IHyFBA44uKv7Pzo9ke5VSrQ1YwF58Se_RXTF1QfX4r7CXt6239tvyt9uuageuMBrt_30ypL5TnbCJGddC73JhRzSdjdIc9JC2qmnyjvD4rpm90yemPQPQuqbWfoF_7nhOh1oE9a2iZCy9mCf2h_fQlpwgMQBZZMMLA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">روایت نبویان از متن توافق ج‌ا و آمریکا :
 یک : طبق متن تنگه هرمز باید باز شود.
@@ -1289,7 +1289,7 @@
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KiSuZJUyRyUKqScKmpoir0Nj9RpKjM-_JSmqPlkg7FcSF5fey8ETHv8k8rOIY6AI95pBm6s0Mip1qcvJhHUEsRpnQ48B4Ug7NU7kdvQjxGNiwxgH5iLBlz5AFDWqBXWccra0bm1Vq7XeW49KsQOjOerybzdJV4Afw64jVC0V2jSHdatV2xXFZ_OR4dM5Y5zWfClecmpr1oW142bmwNX5ijFXC8Ufpd3hgA7EkiBkEH7Wl_aWgAvBb6sy1kkrRCBe3ssRUMdJ_tIWFWyTrMJchmsem6Yi_02DH27ow7WLvTG3wpV5v9tZhKcCSWWkTRTWgbx_rm-2GNo9C3EVP1Li_w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ :  امشب هم به جمهوری اسلامی حمله خواهیم کرد. خارک را از دستشان خواهیم گرفت.</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/farahmand_alipour/5490" target="_blank">📅 16:01 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/farahmand_alipour/5490" target="_blank">📅 16:01 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5489">

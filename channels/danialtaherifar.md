@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-27 02:30:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-27 03:51:59</div>
 <hr>
 
 <div class="tg-post" id="msg-937">
@@ -320,7 +320,7 @@ Claude Opus 4.8
 یعنی عملاً قوی‌ترین مدل‌های هوش مصنوعی آنتروپیک حالا فقط در دسترس آمریکایی‌هاست.
 🇺🇸
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 248 · <a href="https://t.me/danialtaherifar/937" target="_blank">📅 17:08 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 250 · <a href="https://t.me/danialtaherifar/937" target="_blank">📅 17:08 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-936">
@@ -329,7 +329,7 @@ Claude Opus 4.8
 یه خط اینترنتم دانلود میده و آپلود تعطیل در حد کیلوبایتی، اون یکی شبکه فقط آپلودش کار میکنه و هیچی وصل نمیشه
 🤦🏽‍♂️
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 444 · <a href="https://t.me/danialtaherifar/936" target="_blank">📅 01:21 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 446 · <a href="https://t.me/danialtaherifar/936" target="_blank">📅 01:21 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-935">
@@ -337,7 +337,7 @@ Claude Opus 4.8
 <div class="tg-text">✅
 دسترسی از خارج به سایت‌ها برقرار شده .
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 471 · <a href="https://t.me/danialtaherifar/935" target="_blank">📅 19:27 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 473 · <a href="https://t.me/danialtaherifar/935" target="_blank">📅 19:27 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-934">
@@ -364,7 +364,7 @@ Google Discover
 👥
 در فاز نخست، این قابلیت برای ناشران و تولیدکنندگانی فعال می‌شود که در حداقل یکی از شبکه‌های اجتماعی اصلی دنبال‌کنندگان قابل‌توجهی داشته باشند. طبق اطلاعات منتشرشده، حداقل شرایط شامل 100 هزار دنبال‌کننده در YouTube، Instagram یا X یا 300 هزار دنبال‌کننده در  TikTok است.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 512 · <a href="https://t.me/danialtaherifar/934" target="_blank">📅 13:53 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 514 · <a href="https://t.me/danialtaherifar/934" target="_blank">📅 13:53 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-933">
@@ -518,7 +518,7 @@ Google Discover
 <div class="tg-post" id="msg-920">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">در حال حاضر بیشتر VPN فروش ها کلاهبردار هستن!  مراقب باشید از هر کسی خرید نکنید، مگر از قبل آشنا باشید.  @danialtaherifar</div>
-<div class="tg-footer">👁️ 951 · <a href="https://t.me/danialtaherifar/920" target="_blank">📅 14:45 · 24 Esfand 1404</a></div>
+<div class="tg-footer">👁️ 952 · <a href="https://t.me/danialtaherifar/920" target="_blank">📅 14:45 · 24 Esfand 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-919">
@@ -2530,7 +2530,7 @@ How Many muslim president has the us had
 
 <div class="tg-post" id="msg-812">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Hfy8QzngNdlWoZSwDbZH7BwoKESFphrerDglnnjzJ20wHnVSqEFASDYJzbXoYtMXBsUBM0pP9czJkOrvMSmuRP5ZlXxf8gWqEVsXF15cgzd3dm7XIQ6K8gR5Go0Or8bREjh7nc9J8hWXjOlmKlKqUQ8-O7VrZllEs6SX1bmY5BHM7Y5KFTuNSjuLk5j7UTFcmPMztIVwV5nBWkMU_RyjlzUNN5JjNk9l6lxx_vjb7z4CfueZmeG9Eg6mF6IDSZiEX9PcOlOMmqJFQN5u4ga7_Es6yBKDysemcVGBmcCfJWpqYQ9OYt5I6JV0qKAzS2fyRhfl4FlGinh2N7vfP43Yyg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d0pmBoYiV7yvE0MEA09E5USCS6mohgezOZtQZ0cWID77o1y8-JX3RZW7S2NL5eSbkaONhUDhj5ZjqFl6_S9j1wl62khA2szmN3fEm06IYxtcKKwgueKxJKdXEXhOUA8oq_oqRTRPmp32ZScWPVorwlDZ1kGJwwsqVY-cL6Ta14LLvMtW9ZFx4CYuHcLQIoI6SAfokokyF8AKnuDCbOPkGrnRUQ6kQa4pRgTyV7kLugA0F9JLdSes-UkcBfxCTOjfsdd1ujTMyc9Ag1gtMNIONq1JhR3KPVbjvAzrnZlpZD8WASlXtGeydDxJt-kUTQOzLgfOXhmpuSLS7Owoc4KtDw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">😢
 گوگل: بک لینک ها مانند سابق دیگر اهمیت چندانی ندارند !
 🖥

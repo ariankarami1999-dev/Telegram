@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-27 02:30:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-27 03:51:59</div>
 <hr>
 
 <div class="tg-post" id="msg-66334">
@@ -303,7 +303,7 @@
 میگی ن ؟ بیا تو چنلمون و ببین
 🔥
 @FutballFuckBet @FutballFuckBet @FutballFuckBet @FutballFuckBet</div>
-<div class="tg-footer">👁️ 3.98K · <a href="https://t.me/news_hut/66334" target="_blank">📅 01:32 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/news_hut/66334" target="_blank">📅 01:32 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66333">
@@ -318,7 +318,7 @@
 @FutballFuckBet
 @FutballFuckBet
 @FutballFuckBet</div>
-<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/news_hut/66333" target="_blank">📅 01:32 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/news_hut/66333" target="_blank">📅 01:32 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66331">
@@ -340,7 +340,7 @@
 ایالات متحده به ایران معافیت‌های موقتی تحریمی برای اجازه فروش نفت در دوره مذاکرات اعطا خواهد کرد
 مذاکرات بین ایران و عمان با مشارکت کشورهای خلیج فارس برگزار خواهد شد تا ترتیبات مربوط به حمل و نقل و خدمات دریایی تعیین شود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.51K · <a href="https://t.me/news_hut/66331" target="_blank">📅 00:53 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/news_hut/66331" target="_blank">📅 00:53 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66330">
@@ -360,7 +360,7 @@
 ترامپ هیچ‌وقت نگفته که هدفش این است که رضا پهلوی را به عنوان رهبر جدید ایران منصوب کند. چیزی که او گفته این است که اگر مردم ایران بخواهند قیام کنند، عالی است. این کار خودشان است. این موضوع بین آنها و دولتشان است.
 چیزی که ما می‌خواهیم، توقف برنامه هسته‌ای ایران است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/news_hut/66330" target="_blank">📅 00:41 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/news_hut/66330" target="_blank">📅 00:41 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66329">
@@ -377,7 +377,7 @@
 🔴
 برخی می‌گویند خب، شما به ایران پول می‌دهید. نه، نه، نه. ما می‌گوییم فقط اجازه می‌دهیم برخی از این کشورهای دیگر در بازسازی کشورشان سرمایه‌گذاری کنند و برای مردمشان رفاه ایجاد کنند. این چیز خوبی است، مگر نه؟
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/news_hut/66329" target="_blank">📅 00:39 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/news_hut/66329" target="_blank">📅 00:39 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66328">
@@ -403,7 +403,7 @@
 🔻
 (البته کسی که این حرف را زد، سناتور لیندسی گراهام بود.)
 @News_Hut</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/news_hut/66328" target="_blank">📅 00:38 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/news_hut/66328" target="_blank">📅 00:38 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66327">
@@ -424,7 +424,7 @@
 🔻
 اگر ایران حزب‌الله را تامین مالی می‌کند، ما اجازه نخواهیم داد که مجموعه‌ای از دارایی‌های بلوکه شده به ایرانی‌ها منتقل شود
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/news_hut/66327" target="_blank">📅 00:37 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/news_hut/66327" target="_blank">📅 00:37 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66326">
@@ -440,7 +440,7 @@
 آخوند و تعریف و تمجید از ترامپ
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/news_hut/66326" target="_blank">📅 00:15 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/news_hut/66326" target="_blank">📅 00:15 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66325">
@@ -456,7 +456,7 @@
 رامین رضاییان بازیکن تیم جمهوری اسلامی به خبرنگار خارجی:
 مسائل داخلی ایران به شما ربطی ندارد؛ مسائل خارج از فوتبال، بین خود ماست و خودمان آن را حل خواهیم کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/66325" target="_blank">📅 23:40 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/news_hut/66325" target="_blank">📅 23:40 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66324">
@@ -474,7 +474,7 @@
 😔
 .
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/66324" target="_blank">📅 23:10 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/66324" target="_blank">📅 23:10 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66323">
@@ -492,7 +492,7 @@
 😂
 .
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/66323" target="_blank">📅 22:40 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/66323" target="_blank">📅 22:40 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66322">
@@ -502,7 +502,7 @@
 قرارگاه مرکزی خاتم الانبیا:
 ارتش اسرائیل، طی دو روز گذشته پس از اعلام پایان جنگ از سوی ترامپ، «۸۴ بار آتش‌بس در جنوب لبنان را نقض کرده است.»
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/66322" target="_blank">📅 22:13 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/66322" target="_blank">📅 22:13 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66321">
@@ -513,7 +513,7 @@
 ؛قرارگاه مرکزی خاتم الانبیاء:
 اگر ارتش رژیم صهیونیستی حملات خود را در جنوب لبنان متوقف نکند، باید منتظر پاسخ سختی از سوی ما باشد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/66321" target="_blank">📅 22:09 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/news_hut/66321" target="_blank">📅 22:09 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66320">
@@ -528,7 +528,7 @@
 <div class="tg-text">‼️
 هنوز سواله برام؛چرا خارج شد؟
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/66320" target="_blank">📅 22:01 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/66320" target="_blank">📅 22:01 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66319">
@@ -538,7 +538,7 @@
 نفتالی بنت یکی از نامزد های نخست وزیری اسرائیل در انتخابات آینده:
 توافق فعلی بین رژیم جمهوری اسلامی و آمریکا فقط یک توافق موقت است.به ملت شریف ایران می‌گویم که امیدتان را از دست ندهید، جمهوری اسلامی رژیم فاسدی است که سقوط خواهد کرد. نوبت بعد که مردم ایران قیام کنند ما ابزارهای لازم را در اختیارشان قرار می‌دهیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/66319" target="_blank">📅 21:18 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/66319" target="_blank">📅 21:18 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66318">
@@ -554,7 +554,7 @@
 جی‌دی ونس:
 اگر مردم ایران خواهان رفاه بیشتر هستند، رهبرانشان باید پیشقدم شوند و رفتار خود را تغییر دهند اگر این کار را انجام دهند، عالی است. اگر ندهند، ایالات متحده قبلاً چیزهای زیادی به دست آورده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/66318" target="_blank">📅 21:18 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/66318" target="_blank">📅 21:18 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66317">
@@ -563,7 +563,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZMHTwvGauQlvqmS2JROyT3KRPuC7V5dOKsYOgMneceIC_COmGhEl_hkU25ruQZLmDE_O7ZUhoxDk4pFR2X-l_-7Faj8mx1vzVRlqw4AGl2kD55Rd6dWVdjvF1Ru_9Oo-Y-wIy7sky6VPgQvB2eIFDIOsEK4o6-1BJsi8lHqknwV11r5EHbKVi3KTDCN6nD9hjrSZYowQB4ZCRhAOahIrvubT7olswhMZkOBGxB3Re14CeMZdIABebT3XXHXSlOq585zGjVknfVRygAuKpzbcXAJt9ZjuW6PkSHtdLXoJzqQwFMdWpQfaza472_Hn_LfJcKqPbMCriX2cwQ34OxDBvA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بدون شرح!
 @iranwprldnews</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/66317" target="_blank">📅 21:18 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/66317" target="_blank">📅 21:18 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66313">
@@ -574,7 +574,7 @@
 زیر نویس شبکه خبر:
 حمله پهبادی اسرائیل به دو روستا در نبطیه در جنوب لبنان ۴کشته و تعدادی زخمی برجا گذاشت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/66313" target="_blank">📅 20:49 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/66313" target="_blank">📅 20:49 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66312">
@@ -584,7 +584,7 @@
 اتاق جنگ اسرائیل:
 لانچری که به سمتمون موشک شلیک کرد رو هدف قرار دادیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/66312" target="_blank">📅 20:08 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/news_hut/66312" target="_blank">📅 20:08 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66311">
@@ -601,7 +601,7 @@
 واکنش سپاه:
 😡
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/news_hut/66311" target="_blank">📅 19:40 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/66311" target="_blank">📅 19:40 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66310">
@@ -620,7 +620,7 @@
 اپلیکیشن رو دانلود کردید موقع ثبت‌نام، کد هدیه 1x_1566529 رو وارد کن و تا
 100یورو
 هدیه بگیر!</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/66310" target="_blank">📅 19:40 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/66310" target="_blank">📅 19:40 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66309">
@@ -646,7 +646,7 @@ bitly.uk/connect1xbet
 ⬇️
 فایل نصب اندروید 1XBET
 ⬇️</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/66309" target="_blank">📅 19:40 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/66309" target="_blank">📅 19:40 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66308">
@@ -657,7 +657,7 @@ bitly.uk/connect1xbet
 اف‌بی‌آی یک توطئه تروریستی گسترده و چند مرحله‌ای را که قصد داشت رویداد UFC Freedom 250 روز یکشنبه را در چمن جنوبی کاخ سفید هدف قرار دهد، خنثی کرد.
 به گفته مقامات فدرال، این نقشه وحشتناک برای "ایجاد حداکثر تلفات" طراحی شده بود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/66308" target="_blank">📅 19:20 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/66308" target="_blank">📅 19:20 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66307">
@@ -666,7 +666,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">‼️
 ارتش اسرائیل، منطقه میفدون در جنوب لبنان را هدف قرار داد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/66307" target="_blank">📅 18:26 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/66307" target="_blank">📅 18:26 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66306">
@@ -682,7 +682,7 @@ bitly.uk/connect1xbet
 ترامپ:
 ممکن است شخصاً یک کنفرانس خبری برگزار کنم و متن یادداشت تفاهم میان آمریکا و جمهوری اسلامی را با صدای بلند بخوانم تا رسانه‌ها آن را به درستی پوشش دهند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/66306" target="_blank">📅 18:15 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/66306" target="_blank">📅 18:15 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66305">
@@ -697,7 +697,7 @@ bitly.uk/connect1xbet
 تازه امکان دعوت دوستاتون رو هم دارین و به کسی که بیشترین دعوت رو داشته باشه هم یه جایزه ۱۰میلیون تومنی تعلق میگیره.
 فرصت رو از دست ندین و همین حالا از طریق لینک زیر وارد ربات شین:
 @NatijehBaz_bot</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/66305" target="_blank">📅 18:15 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/66305" target="_blank">📅 18:15 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66304">
@@ -708,7 +708,7 @@ bitly.uk/connect1xbet
 وزارت امور خارجه سوئیس:
 قرار است یادداشت تفاهم ایران و آمریکا روز جمعه در بورگنشتوک، در مرکز این کشور، امضا شود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/66304" target="_blank">📅 17:48 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/66304" target="_blank">📅 17:48 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66303">
@@ -718,7 +718,7 @@ bitly.uk/connect1xbet
 تصویر تیم جمهوری اسلامی که آمریکا و اسرائیل ویزای جهنمشون رو اوکی کرد.
 ❤️
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/66303" target="_blank">📅 17:38 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/66303" target="_blank">📅 17:38 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66302">
@@ -733,7 +733,7 @@ bitly.uk/connect1xbet
 </div>
 <div class="tg-text">🔥
 ورژن جدید اپلیکیشن وان ایکس بت بدون نیاز به فیلترشکن برای گوشی های آندروید</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/66302" target="_blank">📅 17:38 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/66302" target="_blank">📅 17:38 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66301">
@@ -759,7 +759,7 @@ bitly.uk/connect1xbet
 اپلیکیشن وان‌ایکس بت
 🔽
 🔽</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/66301" target="_blank">📅 17:38 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/66301" target="_blank">📅 17:38 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66300">
@@ -775,7 +775,7 @@ bitly.uk/connect1xbet
 هنگام بمباران بیت رهبری هرکسی که اونجا بوده کشته شده جز مجتبی.
 مجتبی همون لحظه:
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/news_hut/66300" target="_blank">📅 17:20 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/news_hut/66300" target="_blank">📅 17:20 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66296">
@@ -789,7 +789,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">‼️
 ویتنی رایت پورن استار مشهور آمریکایی دیشب در استادیوم حضور داشته و از تیم جمهوری اسلامی حمایت کرده
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/66296" target="_blank">📅 16:50 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/news_hut/66296" target="_blank">📅 16:50 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66295">
@@ -804,13 +804,13 @@ bitly.uk/connect1xbet
 <div class="tg-text">‼️
 استادیوم فوق‌العاده زیبای مرسدس بنز در شهر آتلانتا در آمریکا میزبان بازی های جام جهانی
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/66295" target="_blank">📅 16:20 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/news_hut/66295" target="_blank">📅 16:20 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66294">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">واقعا حق اسپانیا تو بازی اول خورده شد باید ۱۶ تا به کیپ ورد میزدن   @sammfoott</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/news_hut/66294" target="_blank">📅 15:56 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/news_hut/66294" target="_blank">📅 15:56 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66293">
@@ -821,7 +821,7 @@ bitly.uk/connect1xbet
 شاهزاده رضا پهلوی:
 جمهوری اسلامی هم‌زمان با امضای تفاهم‌نامه‌ «صلح»، دو تن دیگر از معترضان ۱۸ و ۱۹ دی‌ به نام‌های جواد زمانی و ابوالفضل ساعدی را اعدام کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/news_hut/66293" target="_blank">📅 15:54 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/news_hut/66293" target="_blank">📅 15:54 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66292">
@@ -838,7 +838,7 @@ bitly.uk/connect1xbet
 انتقاد ترامپ از روشی که اسرائیل در لبنان به کار گرفته است:
 لازم نیست هر بار که دنبال کسی می‌گردید، یک آپارتمان را خراب کنید.افراد زیادی در آن خانه‌ها هستند و می‌توانم به شما بگویم که همه آنها حزب‌الله نیستند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/66292" target="_blank">📅 14:54 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/66292" target="_blank">📅 14:54 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66291">
@@ -856,7 +856,7 @@ bitly.uk/connect1xbet
 در توافق من، اگر ایران به سلاح هسته‌ای دست یابد، منفجر می‌شود.
 در توافق اوباما، به آنها اجازه داده شد که سلاح هسته‌ای داشته باشند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/news_hut/66291" target="_blank">📅 14:49 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/news_hut/66291" target="_blank">📅 14:49 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66290">
@@ -908,7 +908,7 @@ bitly.uk/connect1xbet
 ترامپ در مورد گرد و غبار هسته‌ای:
 شما می‌توانید این استدلال را مطرح کنید: چرا اصلاً خودتان را به زحمت می‌اندازید؟ چون واقعاً ارزشمند نیست.اما فکر می‌کنم از نظر روانی، ما می‌خواهیم آن را به دست آوریم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/news_hut/66288" target="_blank">📅 14:35 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/news_hut/66288" target="_blank">📅 14:35 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66287">
@@ -943,7 +943,7 @@ bitly.uk/connect1xbet
 😐
 😐
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/news_hut/66286" target="_blank">📅 14:10 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/66286" target="_blank">📅 14:10 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66284">
@@ -969,7 +969,7 @@ bitly.uk/connect1xbet
 به اسرائیل گفتم حمله اش به بیروت برایم خوشایند نیست.
 نتانیاهو اکنون باید در قبال لبنان مسئولیت‌پذیرتر باشد.من از نحوه برخورد اسرائیل با لبنان و حزب‌الله راضی نیستم.بدون من اسرائیل وجود نخواهد داشت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/66283" target="_blank">📅 13:44 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/66283" target="_blank">📅 13:44 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66282">
@@ -980,7 +980,7 @@ bitly.uk/connect1xbet
 اگر ما برنامه جامع اقدام مشترک اوباما با ایران را لغو نمی‌کردیم، ممکن بود این کشور به سلاح هسته‌ای دست یابد.
 ما می‌خواستیم برای گرفتن اورانیوم غنی‌شده به ایران برویم، اما این اتفاق نیفتاد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/66282" target="_blank">📅 13:36 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/66282" target="_blank">📅 13:36 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66281">
@@ -993,7 +993,7 @@ bitly.uk/connect1xbet
 چیزی که برای من مهم است این است که ایران به هیچ شکلی سلاح هسته‌ای نداشته باشد.
 اگر ایران به دنبال سلاح هسته ای برود جهنم به روی او گشوده خواهد شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/66281" target="_blank">📅 13:31 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/66281" target="_blank">📅 13:31 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66280">
@@ -1008,7 +1008,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">❌
 هادی هوتیت، خبرنگار  پرس تی‌وی، وارد منطقه‌ای در جنوب لبنان شد که نیروهای ارتش اسرائیل هنوز در آنجا مشغول عملیات هستند. فیلم نشان می‌دهد که او در جریان این حادثه مورد اصابت ترکش قرار گرفته است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/news_hut/66280" target="_blank">📅 13:16 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/news_hut/66280" target="_blank">📅 13:16 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66279">
@@ -1037,7 +1037,7 @@ bitly.uk/connect1xbet
 پایان جنگ در لبنان بخش جدایی‌ناپذیر پایان جنگ در ایران است و شامل خروج اسرائیل از خاک لبنان نیز می‌شود.
 هرگونه حمله نظامی اسرائیل به لبنان و ادامه اشغال، نقض تفاهم‌نامه است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/news_hut/66278" target="_blank">📅 12:00 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/66278" target="_blank">📅 12:00 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66277">
@@ -1084,7 +1084,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">❌
 تصاویری از پالایشگاهی در حومه مسکو که در اثر حمله پهبادی اوکراین دچار آتش سوزی شده.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/66275" target="_blank">📅 10:05 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/66275" target="_blank">📅 10:05 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66274">
@@ -1115,7 +1115,7 @@ bitly.uk/connect1xbet
 ثابتی نماینده مجلس:
 عراقچی نوچه و اراذل اوباش آمریکا در کشور است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/news_hut/66273" target="_blank">📅 09:01 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/news_hut/66273" target="_blank">📅 09:01 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66272">
@@ -1149,7 +1149,7 @@ bitly.uk/connect1xbet
 گل‌دوم نیوزیلند به منتخب ایران دقیقه ۵۵
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/news_hut/66263" target="_blank">📅 05:55 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/news_hut/66263" target="_blank">📅 05:55 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66258">
@@ -1166,7 +1166,7 @@ bitly.uk/connect1xbet
 فرزندان برحق وینتون روفرو ۱
 کاکولد های گروهبان قندلی ۱
 @News_Hut</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/news_hut/66257" target="_blank">📅 05:26 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/news_hut/66257" target="_blank">📅 05:26 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66255">
@@ -1221,7 +1221,7 @@ bitly.uk/connect1xbet
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WQi7corMc9PC6xXM77VBpYSrNlnjzUyUhbothzVf--QMx5TdmIlkUBzINs0AASCSJdxM9j00fnaoeccEYsGHZn6SC7yi8rBgig8QsGK3bTQeWbpeYxl4Fuz4uepdpx5G0T6_46n_qndL-Yc4TA9lNY41qupyvK6msLyacd5zRTLwNxDqKEL8h869dC9LuP8sN19QBS6_uK9p2sKb65B2FIFQzWmC66TNLV8ni2Wer7BPmzJrIAUUHUtDq8LvxMMIUwH_3f_olBrslqHlsXU9_6FE8gqCrh764G29fMGjFdOV5BuXsI--BZ8Otjx8wRhIsqsWx2a4uO_WKDtQF3vx_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قبل بازی
 @News_Hut</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/news_hut/66243" target="_blank">📅 03:50 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/news_hut/66243" target="_blank">📅 03:50 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66242">
@@ -1278,7 +1278,7 @@ bitly.uk/connect1xbet
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l3BvMnf-LMmSbdUG2MNRaJDfoubj0yhOEZsm35xKyDHhoIQgPXFWobje-Db_ztYdRGdPIQLikd54OqSWMcYU2sMK_QiC2rkMDHxuw3Rc9Mq-qkHrulhrJZDPdYCbTkYO3nvd7FxWjAgD0SP_UewDj1qTOWi8PbyN_DXvrM-JH9Wv-8x5j45aTkhbnnY-8d5icgvxSMihL5yVXpB6XJOGbFDvvK0YZzUsDeeIHTqHXZ7Khdf-3EtdxhfAe5HDb2BJ41jBJP296ib3Buast0dFDAOxw4RX3BnkS70R5bdYzQQq1QurSuEwkDgon04OedwQUhVJyK7r7uWkN2tGLL09uw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تیم ملی از اسمش مشخصه، باید برای ملت باشه، من نمی‌تونم رو این تیم، پسوند ملی بزارم، یه مشت آدم منفعت‌طلب جیر‌ه‌خورن که برای ۱۰ دلار بیشتر ناموسشونم در اختیار ج.ا می‌زارن همونطور که تو ۲۰۲۲ وقتی مردم داشتن کشته می‌شدن اینا دنبال حواله خودرو بودن.  آخرین باری…</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/news_hut/66236" target="_blank">📅 03:03 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/66236" target="_blank">📅 03:03 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66234">
@@ -1294,7 +1294,7 @@ bitly.uk/connect1xbet
 ‼️
 تجمع هموطنان خارج از کشور مقابل ورزشگاه محل بازی تیم جمهوری اسلامی:
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/66234" target="_blank">📅 02:59 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/66234" target="_blank">📅 02:59 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66232">
@@ -1570,7 +1570,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">‼️
 ترامپ پای تلفن به دستیار نتانیاهو:
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/66210" target="_blank">📅 23:04 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/66210" target="_blank">📅 23:04 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66209">
@@ -1593,7 +1593,7 @@ bitly.uk/connect1xbet
 <div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">این BISS کد جدید شبکه سه و ورزش رو Starsat چیه شبای اول جام جهانی اوکی بود الان پریده! دایرکت بدین
 #hjAly</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/news_hut/66207" target="_blank">📅 22:41 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/news_hut/66207" target="_blank">📅 22:41 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-66206">
