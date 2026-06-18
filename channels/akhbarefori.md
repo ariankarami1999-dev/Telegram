@@ -292,11 +292,716 @@
 <a href="https://t.me/akhbarefori" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽تبلیغ درکانال خبرفوری@ads_foriارتباط مستقیم با ادمین تبلیغ@newsadminجهت رزرو تبلیغ تماس بگیرید. 09018373801؛ارتباط با ما@Ertebat_baforii</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-28 05:29:52</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-28 10:27:23</div>
 <hr>
 
-<div class="tg-post" id="msg-660679">
+<div class="tg-post" id="msg-660727">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AdrfYEx-kU-HBRD5YfUYERbG490Uz522Eb0wh7LedgwcDZu6fjiw7lptxTVuuna-Emay-E67-bqMyO77UtvHQiSvw3mB4M9h32vyQkuIpQWdZaw5IKpIUzd_ossgD9Uaj9mmgGn4DYvtJ_EDW5707wHDyBF2f7dsxI1246IhhUBHAtZTHRdNFg-Lqcc4tHKnZWcOd6LvXvjSNsOJ6StIr-UrrMxYojkXYOs98yLFui7kVUFAjXMieUa2bEfHjdee-QTUUVHs38h5kJis0vgTGfDPkKdxeTEnQuL7ncCMXh4kwQj9QKhYuIEqENeq3JFMSzkRQr2RT5CikVELwMKxYw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♦️
+سوزان رایس، مشاور امنیت ملی دولت باراک اوباما در دوره امضای توافق برجام: این یک سند تسلیم وحشتناک و حیرت‌انگیز است که با صدها میلیارد دلار غرامت تکمیل شده است
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/akhbarefori/660727" target="_blank">📅 10:21 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660726">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/4254c932f0.mp4?token=h_X5IJCF2jVl6Sl_CTZId5FKl2kK-NGcR42dauB7XMvCnKwwSsWWyQUuYYp4IPWMHkRxVqbZFtJNQLpBH299qZFnC6Zavpp_duF1FIdGFEPkrehcl2lqj89Fo2EBniXJi3brDjhy14feIq2otK4jCKLVwmOL7oZx2yCHVbj8oJBczGuzesRaJCx7B2XxGoh6RqzUZNmIPr-reYkjQpQrSrPEcSutNvJg_1Crc5U-EXgX9YJg24XFgEE406m3QPNVt7DKxn92UbYb8vPUGVlnHtYhmVvHvedlXCkX2K4i8wTCoOKWZR4J8itaT6NwS5W1x3wO_O5eQEhTpQMwmpEoIg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/4254c932f0.mp4?token=h_X5IJCF2jVl6Sl_CTZId5FKl2kK-NGcR42dauB7XMvCnKwwSsWWyQUuYYp4IPWMHkRxVqbZFtJNQLpBH299qZFnC6Zavpp_duF1FIdGFEPkrehcl2lqj89Fo2EBniXJi3brDjhy14feIq2otK4jCKLVwmOL7oZx2yCHVbj8oJBczGuzesRaJCx7B2XxGoh6RqzUZNmIPr-reYkjQpQrSrPEcSutNvJg_1Crc5U-EXgX9YJg24XFgEE406m3QPNVt7DKxn92UbYb8vPUGVlnHtYhmVvHvedlXCkX2K4i8wTCoOKWZR4J8itaT6NwS5W1x3wO_O5eQEhTpQMwmpEoIg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+۱۰ گل برتر دور اول مرحله گروهی جام جهانی ۲۰۲۶ به انتخاب FOX
+#جام_تایم۲۶
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 4.09K · <a href="https://t.me/akhbarefori/660726" target="_blank">📅 10:15 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660725">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/238281eef9.mp4?token=plGp15okGyPS7Y8VQuVWnsAi-XTVCTZY7eR6oiT8RpwPbCbCHFR5YQAqRUaeW82SAGIU5bmhRCCsxlv_SmMwOUk3452UQ_1omydANH16Dq4e569bH7he0w3l0xvkvMln3-BskS4ii9XWYrPBYtFhUi-a260d-E94mN6C-9GSMZDnk-SFU8hLqTJjXclHGbj3qwQCD_zDqAgWRpOAx20yehw5N7e3llNxlxWvVdJ_U4Sg6Yso82iMLuves9L-comlhL1nWl_P45M88BALFpnHtoEgm1UsiT5oQhsSeI8t8ZwOLMF9Qv8M9YZIOv5YbrLUGD9tyqa-t9OL2v4rr7VHMg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/238281eef9.mp4?token=plGp15okGyPS7Y8VQuVWnsAi-XTVCTZY7eR6oiT8RpwPbCbCHFR5YQAqRUaeW82SAGIU5bmhRCCsxlv_SmMwOUk3452UQ_1omydANH16Dq4e569bH7he0w3l0xvkvMln3-BskS4ii9XWYrPBYtFhUi-a260d-E94mN6C-9GSMZDnk-SFU8hLqTJjXclHGbj3qwQCD_zDqAgWRpOAx20yehw5N7e3llNxlxWvVdJ_U4Sg6Yso82iMLuves9L-comlhL1nWl_P45M88BALFpnHtoEgm1UsiT5oQhsSeI8t8ZwOLMF9Qv8M9YZIOv5YbrLUGD9tyqa-t9OL2v4rr7VHMg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+سناتور کریس مورفی: این توافق جنون‌آمیز است، ترامپ تسلیم شد و ایران پیروز شد!
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/akhbarefori/660725" target="_blank">📅 10:11 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660724">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/f359529c05.mp4?token=kFNXvkKQ5DCIMzUjVN4ZOvE6Lmya5_1e3I7GSkXcfQtKNK2RiT2uyCWE9odOL2-4a5tDxwKvpc02NRzobAdiuoPJ41f5ZAU0BUcxA2-KqfotIT5rI4xdWXMCFn0Ni4Z4EqQd238HygqmkNiNeHdOxn-SEt-M8IngNjJYqCRGL4LFU5mWVg8MsHJxP-bqCdLB7dnpVEXBXuS-tkuxObUAKg11S-UZ0VvcSU4ULBDNATQs5I_3K1zOZP9tL74yq6plDuFZkwVCHaCQQOzdPd8xq6j7VvUb04t124hPhQ-wv76ZA5JtKRXlccPb4E4_EqEiAenpMD5Kphb0JtNa534S5w" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/f359529c05.mp4?token=kFNXvkKQ5DCIMzUjVN4ZOvE6Lmya5_1e3I7GSkXcfQtKNK2RiT2uyCWE9odOL2-4a5tDxwKvpc02NRzobAdiuoPJ41f5ZAU0BUcxA2-KqfotIT5rI4xdWXMCFn0Ni4Z4EqQd238HygqmkNiNeHdOxn-SEt-M8IngNjJYqCRGL4LFU5mWVg8MsHJxP-bqCdLB7dnpVEXBXuS-tkuxObUAKg11S-UZ0VvcSU4ULBDNATQs5I_3K1zOZP9tL74yq6plDuFZkwVCHaCQQOzdPd8xq6j7VvUb04t124hPhQ-wv76ZA5JtKRXlccPb4E4_EqEiAenpMD5Kphb0JtNa534S5w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+کنایه نماینده اسپانیا به ترامپ: تولدت مبارک آقای نسل‌کش!
+🔹
+نماینده اسپانیا در پارلمان اروپا در اظهاراتی آتشین و کنایه‌آمیز، ضمن گرامیداشت تولد دونالد ترامپ، او را «آقای نسل‌کش» خطاب کرد و با لحنی گزنده، انفعال اروپا در برابر تحولات منطقه را به باد انتقاد گرفت.
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 7.16K · <a href="https://t.me/akhbarefori/660724" target="_blank">📅 10:05 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660723">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/s-g-SRPt2Wl92uA1-FIya35AxBFmMkXxOcpPEPjWaj0SPc7e1wSwCo3ZV0yl0hmhD6xf1eCH4Ds3o8tgHP545an-dc3ezprC2B95AnbzPaLTqrjPVXoDE2XfzahuKOp6lA-Yx_XtS1LeiderxSBjdVsHqSr5GoDRtyVI6ps2tcpuyKhEkvbr4wA_Q79X_BlzPZei8OFKkMVv9FdHD6QtoDocxNsqUoLaECxU_JS09IJm5IKOD5c3j7NVm_Qeglk53_bcxq2U8Hgb-2UbsvR0upRfJr1FP1DX2o68WqtUsyRnY38aHriOPMRMbubmiGwtzReh9T5G1xrqwiFqsqyiuA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♦️
+واکنش ابطحی به امضای توافق ایران و آمریکا
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 7.17K · <a href="https://t.me/akhbarefori/660723" target="_blank">📅 10:05 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660722">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/igNwrZO8OU9h5Nuv7qcF6vSRWp4kAg9gN3g2I9VjftD1u1GEpOujoGwCC-uER2uDAYTa_eL2ZECS8To0xRK6jBqbGebLu3LG_DHxbmWAD1N7cm38lvlYZhYcX7RNBWWUzD4m4RMNMA2jOrV8pIRQmyJfgGxi5McdbeN8QgWMvW4nIzm-wepiyRWsovm9eA0oG09S_Msps73YYLk53ZogCepgQ3Sm9GrqDXcFimrP22Jx_f_sVm-1oE9Xai-D0trVz_dpECcMYgur_476PynMs40ajA4JK2-DXl6EGXBQbf8HunD044Qc5HVFZqQ-SYQ4Fsm0E54Ec-k7Y_hsjCgCWw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♦️
+کاری که کمال‌گرایی با آدم می‌کنه #سلامت_روان
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 8.19K · <a href="https://t.me/akhbarefori/660722" target="_blank">📅 10:00 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660721">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WqhNPX0YHPqmMmRWjJ752e3QlV1thW4JsdaCdFDqvcMeRPuLEgP_gczbDAjqvFz4007YjJmywJC9rCQuw7EI6UEqmgEsXlcIHAUUlnHG06UmBIj4p10FyiTeDPGOb8GLLiQ5WQWxPeBPaBODIiQp4s9zmX1yIVHJ92pErps62PyErcncSxFqNRpmfn9vBvSCa7wDd01zFuTG6AwcpjR8FItmpY8voz7-XPN5_Rw3ogEayIdPYOsckxwOFJ_pXwXM1w-GLHpeR4rzNtey-XzFPmjsqNFsxvbK_KPp6n4kcA745cW0HbsxlBW3WR9Pht5bJJOpIuwKhthOJaFe5WyQfg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">📣
+اگر به‌دنبال تبلیغاتی مؤثر و دیده‌شدن واقعی هستید
+این کانال آماده همکاری با مجموعه‌ها و برندها و تیم های تبلیغاتی بزرگ است
+🎯
+مخاطب فعال |
+📊
+بازدید بالا |
+💼
+همکاری حرفه‌ای
+📩
+برای رزرو و هماهنگی پیام دهید
+👇
+@newsadmin</div>
+<div class="tg-footer">👁️ 8.18K · <a href="https://t.me/akhbarefori/660721" target="_blank">📅 09:58 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660720">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eLrKVAE_KxfTTF9kYGVEVcXYURss-Z1PRyxYFH3L4V0UFMTCBR4Woq0aKRnFXkkvFvBf84w9obDGioCgna5mwgxbNiumW05AmTqapH9AXzwIU3pfG0DuMBxV39yaELz0NHOfNU8imseq5_Q9WBwyUDKcK0XGtPaGubfJFfZJ9cN3W62o3lTn_E3vA-stfKsL4G4aDKEdsbtLnbCR3l4I9WxltGOE3sis2Ea1hi0-2fEqfnr0lkW90qK-3tHl-aS7RIm6c5325OwJMfnbYt6ui04nP7jJpvGkxTu06hI2zyfAFUds2DmAZg3WbsNhizrQN_lO2qroGzbyat7PtrvdJA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">📷
+بازی پاناما و غنا با ۴۲ هزار و ۹۴۲ تماشاگر، کمترین تعداد تماشاگر را در دور اول جام جهانی ۲۰۲۶ ثبت کرد
+#جام_تایم۲۶
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 8.2K · <a href="https://t.me/akhbarefori/660720" target="_blank">📅 09:56 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660719">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-text">♦️
+سوئیس از برگزاری دور اولیه مذاکرات ایران و آمریکا در روز جمعه خبر داد
+🔹
+سوئیس از برگزاری نشستی با حضور نمایندگانی از آمریکا، ایران، پاکستان، قطر و دیگر کشورهای مربوطه در روز جمعه برای مذاکرات اولیه خبر داد./ تسنیم
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 9.28K · <a href="https://t.me/akhbarefori/660719" target="_blank">📅 09:54 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660718">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ifd7pNgXax7cY4RyuBmbjcewD8tgzEzCdcNcOTeg8PBlIrG8F-2P_sL7qXbG2RJ7pCU3d1FesR9UB6w9nnifZtKGHSG1mDMpfTrssOXZvwv0FVUGKE2virfXnGrrBm0DznUrlxS1rabSDta6EiaKJ4fbVFA_kEscp4Sp5viAZKe_mOaN6qgZeq72B2F65BCIBx4ZbQCxaOGF9xfEOPDK8vUTYfpM0RbZRFwC3uNyYSKaUftganZ939q79M--b0kTIJh4ObBP-uHEKjszp81UnEiPN3CxddKvHev_Vdr54vin7xJ5x-grbMVbnNI-VfLWk5M1BeKDL89d4lhuJbCO2Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♦️
+ثروتمندترین کشورهای جهان در ۲۰۲۶؛ لوکزامبورگ در صدر
+🔹
+بر اساس گزارش صندوق بین‌المللی پول (IMF)، ایرلند و سوئیس در رتبه‌های دوم و سوم و سنگاپور نیز با ۱۰۷,۷۶۰ دلار، ثروتمندترین اقتصاد آسیا شناخته شد.
+🔹
+آمریکا در جایگاه هفتم و ماکائو در رتبه دهم این فهرست قرار دارند.
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/akhbarefori/660718" target="_blank">📅 09:49 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660717">
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-text">♦️
+پلیس: مخدوش کردن پلاک حبس دارد
+پلیس راهور تهران:
+🔹
+هرگونه دستکاری یا تغییر در ارقام و حروف پلاک، جرم قطعی محسوب میشود و هر مالک یا متصرف خودرویی که در مشخصات پلاک وسیله نقلیه موتوری تغییر ایجاد کند، پلاک وسیله نقلیه دیگری را الصاق نماید یا از پلاک جعلی استفاده کند، به حبس از شش ماه تا یک سال محکوم خواهد شد.
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/akhbarefori/660717" target="_blank">📅 09:42 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660716">
+<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cK78Xm1snz1Gou3O4eiMlLHR869ok2gW_Z0jTNAwr0O0LIF6ygXi43bZzg0nAyCY1B78aNpL_WkLC9ObGBBdG6wN7dR5GOOZ1NqNQu_xAa_rx0Rp_--TLoBrc8Pp3x81sgyHE_WAB59jp4F6o1qDU8axAtm0ye00zajAUenx1mnrbHpoD3X6_oJxO5r-TV87q1_UW46kl5oq_j0vOn-iR3QE-mqSCkLsvt9xUN7nCcQNXJFqvZqTTLdTabFVfcTpn1vdp29XclI7lqjwDMPlwI9XkVnn8sV4XeHkDnirw65_QeestHCMo-oKCQlNVarcNJEUEGuwVFhsya3tv54kHA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">📷
+تصویری متفاوت از ترامپ و مکرون در ورسای
+🔹
+دونالد ترامپ شامگاه چهارشنبه به دعوت امانوئل مکرون، رئیس‌جمهور فرانسه، در کاخ ورسای حاضر شد و تفاهم‌نامه پایان جنگ با ایران را امضا کرد.
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/akhbarefori/660716" target="_blank">📅 09:37 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660715">
+<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dwAIl_NaYjESlD8O-W_4Tire4iLmllfFlWQEN8t4CmlqX83xmIqAhFb3Hdc9NrTBy9rmIAUsGV_Ngn10zO_F-574isG2wPt9HTTYlZsMJAoBjCUqw_ctcxBGIiEurf6m3G5FUIJofnSYXOPh1zngblIhGx3ypn_ElmzyBs0p-UVHfg_rOejnViIay5zA5pLtiouq1SFBtoa9-seBdanZ5taem6xNnvCmhfYfMsJ2BcejrwRMPol9L9-DhNEdtwGtsHR3c-lQ7WwPqCjC9K8zOe2UMI7cQQ1m2j85dUocPW915wpL3AJ4G2e4jNqlk6lzHTX3zocR4wo6RpuXHjWqxw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♦️
+برنامه بازی‌‌‌‌‌‌‌‌‌‌‌‌‌‌های امروز؛
+پنج‌شنبه ۲۸ خرداد ۱۴۰۵
+#جام_تایم۲۶
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/akhbarefori/660715" target="_blank">📅 09:29 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660714">
+<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/avEHlpyBgw88d0RLgoJRD1txFWFR3ANBe-W61g2mYfgWcxv6Kho6Ve_eFymz5wNZwYl70Le65kRWcHK_lHNwPqRXX5coteFxedn6wEBXHos4bK-eN10MbwWcCaYPP8R_uvaNwKtLsljio-J6RuKwNgJROmNKIWzLLdFHpPDi20biRlbGnehpH2RX0l-IlsSHNOfjU4A0Kdvg9jSOp2VCSB9Xr9j0Vs_ENmdNE1kpb2BTYfpMfstTIqRaut9b5ggydz_UlN_NK9fT3ytlu9eAnn1yd9gLr7laFwTvwNLRN9AYF0D7pYGrCL1mfsm7IHRL5LW8S08Ia0tVxfgHacK-Dw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♦️
+وال استریت ژورنال: ترامپ در حال از دست دادن تندروهایی است که زمانی از جنگ ایران دفاع می‌کردند
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/akhbarefori/660714" target="_blank">📅 09:26 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660713">
+<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GqaoMoQ1zj2RC6c-OO4lG0qoRHL_L3JQ_HjAX48FR8MH5cCvPYpZJcMsGfBVfv818tQ7LG8RHemH-IUTlWgqgAgIwZ-zeZnFF5hqkbK3WKaRjvRa9c70R9oQCuMGM4KkdK7CxCwaB3om8C2PnOjraWtqDzvpgfi3pAsEjHPB1AORTFIH1jwjNQ0aVWGdn1uVaaReK1043Cq5QVmwGv44DY4aXpwj_sUCeBOeyATINp44qH_Biwd9mPF0VGt-bTk8TU-_whEarw6EaRVxMmDo3OaRWQltqm-45OtsutVTleKNLxr55TBE7POmzLHmeTtSOkQoCoqlS24xEJwmghqpIw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♦️
+طلسم بزرگ؛ رونالدو در ۱۰ بازی اخیرش در تورنمنت‌های بزرگ گل نزده است
+#جام_تایم۲۶
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/akhbarefori/660713" target="_blank">📅 09:20 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660712">
+<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/6d0572ec6d.mp4?token=WmicQv0q9itw_3Kdo2Eqily6B6vDcsnKJFRUgIAmEc9lWwo7ELkJHR_v3TOyHai1ak2C0YeeXSThR-FLNM7vCgNIuzj-qatIFRsAsX2SRpF5or0ZgFL9_c2D4z8MEc96ti8vTn3kVEXoaw1b8UNRRRXpQcSt27s73dpF-uw-ug0JhaGX-tktJnOwiBg0V0sqZEpDDNHJbSVIWV1OwTJaViPtjaPS8HT_-wizHpSxNUi8iCkf5MekCzBFIvXWSz-hk358Pz_2HAlMbEMbFL3Oz4Q6ldIGPbk24mzLZUP-L8iY-pUARGp4GsMjZVCW5NjlaECkYH7E9HrqFFaGlIH6YA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/6d0572ec6d.mp4?token=WmicQv0q9itw_3Kdo2Eqily6B6vDcsnKJFRUgIAmEc9lWwo7ELkJHR_v3TOyHai1ak2C0YeeXSThR-FLNM7vCgNIuzj-qatIFRsAsX2SRpF5or0ZgFL9_c2D4z8MEc96ti8vTn3kVEXoaw1b8UNRRRXpQcSt27s73dpF-uw-ug0JhaGX-tktJnOwiBg0V0sqZEpDDNHJbSVIWV1OwTJaViPtjaPS8HT_-wizHpSxNUi8iCkf5MekCzBFIvXWSz-hk358Pz_2HAlMbEMbFL3Oz4Q6ldIGPbk24mzLZUP-L8iY-pUARGp4GsMjZVCW5NjlaECkYH7E9HrqFFaGlIH6YA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+فریاد«فلسطین آزاد» هوادار تیم فوتبال انگلیس روی آنتن زنده بی‌بی‌سی؛ خبرنگار بی‌بی‌سی برآشفته شد!
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/akhbarefori/660712" target="_blank">📅 09:15 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660711">
+<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aA3gr-51IneqhezGCXaIFwwxPt2vlpyI7CWIwu8vxmmptc8f-rwlBKzcQkH6a851g_NgmbWXg3DCZBMdtM7cLmfRRQgQz-SWGjk3vimSuiAkV_TlPwiCRjtKXBZqoYfDa_3pZ8EbL3kZUA7D-LSaMF8jcty4y0WwQQvdtc-0xgPVUPmNDf6Jj1oq2Bxc1gEva1gSFE2ttM6tpu0s6iymjAY4jqaKPHOVq0ftPYFhBWiD5a97wPeaQ8tp10vh42lgkTgh1Ce1dhn99utdP4ZH8tpfOEDa9uOYy0AnFTO_LNZ0VfG2QgZ6cQJQxts4avpJ867qKgwlN9S3LfbPh14l4w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">📷
+عکس روز ناسا از نمایش رنگارنگ یک ابرنواختر
+🔹
+ستاره‌شناسان معتقدند لکه آبی پایین سمت راست مرکز عکس نشان می‌دهد که یک ستاره بزرگ منفجر شده و یک ابرنواختر را پدید آورده که نور آن ۱۷۰۰ سال پیش به زمین رسیده است.
+🔹
+اگر تأیید شود که لکه آبی بقایای یک ابرنواختر است، یکی از نزدیکترین اجرام کشف‌شده به مرکز کهکشان خواهد بود
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/akhbarefori/660711" target="_blank">📅 09:12 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660710">
+<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/78bd638263.mp4?token=aTh2I7AL7_m7BgZNE1u7mIMAWTGnf5TvGoENAzTmxsLN0oIdIbuL7a8FBHyLa7_PTW118HZylpcnir2vb_CV85ZR1nAKYrmfWziYI4dRqX9TYV_Q3UfEB00iEeKsZpXTwZvn4qEReJ_smF3Gtj_TIPK5WVPb37pMIO8z3GcntNopqTqgU-ec4epS4owO98LtRvTith0yEdvThguJpSblCinEb6szs6rUzEKJQcb7klotEqe7v2PpmNpDBXl5IiDxlZN7ghtYLt24sb0FsyeAEMKHcUysEASy2kojUmTgoQ1hwjOT7TKQpSaPvM7pzXhuIyf4wI_R7wqrJ2hfwXKX3A" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/78bd638263.mp4?token=aTh2I7AL7_m7BgZNE1u7mIMAWTGnf5TvGoENAzTmxsLN0oIdIbuL7a8FBHyLa7_PTW118HZylpcnir2vb_CV85ZR1nAKYrmfWziYI4dRqX9TYV_Q3UfEB00iEeKsZpXTwZvn4qEReJ_smF3Gtj_TIPK5WVPb37pMIO8z3GcntNopqTqgU-ec4epS4owO98LtRvTith0yEdvThguJpSblCinEb6szs6rUzEKJQcb7klotEqe7v2PpmNpDBXl5IiDxlZN7ghtYLt24sb0FsyeAEMKHcUysEASy2kojUmTgoQ1hwjOT7TKQpSaPvM7pzXhuIyf4wI_R7wqrJ2hfwXKX3A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+ترامپ: اگر به بمباران ایران ادامه می دادیم، کشتی‌ها دیگر نمی‌توانستند تردد کنند
+🔹
+ذخایر نفت ما هم حدود ۴ هفته دیگر تمام می‌شد. ذخایر جهان واقعاً تمام می‌شد.
+#Devil
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/akhbarefori/660710" target="_blank">📅 09:07 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660709">
+<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/2666505efe.mp4?token=BPpA4YyLSg-oMY3F8zNhYxoGjuhgIC-Kk8jPWVtNv5MRrHUOo79FwN2l6MnZOk5FlAEmpk7BC7ztBc4XK6Jq5naIJHO95RR11hb780f4Ai2AWPLhTWjiD8UNU-GvK1DQaU65872UAbomaA5LIx_WRdcyskxtfxwTKlwrIyrulu-pI_NzdY5hqm_wWcENqMo023oRu8UyYzolpWruFazrjELCRJuMfIfL7JXHXWHEkepMCvL6Qdx2Sy-rul66OW638QWVxn856csB44Yeo_v6fM-VpYRAPR8RBDMt9caOq3DUdMUUO2_kqALt-PscgEo11jrb8oQkmoF2t17q33Z7_Q" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/2666505efe.mp4?token=BPpA4YyLSg-oMY3F8zNhYxoGjuhgIC-Kk8jPWVtNv5MRrHUOo79FwN2l6MnZOk5FlAEmpk7BC7ztBc4XK6Jq5naIJHO95RR11hb780f4Ai2AWPLhTWjiD8UNU-GvK1DQaU65872UAbomaA5LIx_WRdcyskxtfxwTKlwrIyrulu-pI_NzdY5hqm_wWcENqMo023oRu8UyYzolpWruFazrjELCRJuMfIfL7JXHXWHEkepMCvL6Qdx2Sy-rul66OW638QWVxn856csB44Yeo_v6fM-VpYRAPR8RBDMt9caOq3DUdMUUO2_kqALt-PscgEo11jrb8oQkmoF2t17q33Z7_Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+خوشحالی کیروش از پیروزی غنا در اولین مسابقه خود در جام‌جهانی
+#جام_تایم۲۶
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/akhbarefori/660709" target="_blank">📅 09:05 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660708">
+<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/9508847445.mp4?token=dLS0OnyWzPDgvpmBURzojKiunRyxCEqWQXNQiQK5A8uGXFJhbjoANgAwiUaK7a8VnGGfytfXqzlDSrS5Hagx-rNZcMg7VCGsE8gAJ_varELnbRe8cXW7pL-BHaMDLYyVdPw_Xyb_C2nBlULRYhLtJEjFEDophMejSvPRPpeFL41nhhbqlzr6DxPvh7gbcBYbgBMNUU-dLnWBUIboLCf8iTRKsjExOvBo3u-on-vuid-AzrfQXLAVby83PFb73tP59Enx5Q4c6bPL4vRxaE6BEf2ExQBKF3s5evZPXDw6ZtSJ_4lTSEYK1qUL3ezxyc9JM4AV-IixXeEme4CU6jc6EA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/9508847445.mp4?token=dLS0OnyWzPDgvpmBURzojKiunRyxCEqWQXNQiQK5A8uGXFJhbjoANgAwiUaK7a8VnGGfytfXqzlDSrS5Hagx-rNZcMg7VCGsE8gAJ_varELnbRe8cXW7pL-BHaMDLYyVdPw_Xyb_C2nBlULRYhLtJEjFEDophMejSvPRPpeFL41nhhbqlzr6DxPvh7gbcBYbgBMNUU-dLnWBUIboLCf8iTRKsjExOvBo3u-on-vuid-AzrfQXLAVby83PFb73tP59Enx5Q4c6bPL4vRxaE6BEf2ExQBKF3s5evZPXDw6ZtSJ_4lTSEYK1qUL3ezxyc9JM4AV-IixXeEme4CU6jc6EA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+لحظه امضای تفاهم‌نامه ایران توسط ترامپ
+📲
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/akhbarefori/660708" target="_blank">📅 09:03 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660707">
+<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-text">♦️
+کشف ۶ هزار میلیاردی مواد احتکار شده لاستیک‌سازی
+پلیس چهارمحال‌وبختیاری:
+🔹
+بیش از ۱۴ هزار و ۵۰۰ تن مواد اولیۀ کارخانجات تولیدی به‌ویژه صنعت لاستیک‌سازی، با ارزش ۶ هزار میلیارد تومان کشف و متهم برای سیر مراحل قانونی به دستگاه قضائی معرفی شد.
+#اخبار_چهار_محال_و_بختیاری
+در فضای مجازی
+👇
+@akhbarchaharmahalvabakhtiari</div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/akhbarefori/660707" target="_blank">📅 08:52 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660706">
+<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-text">♦️
+نتانیاهو: اسرائیل به بند لبنان در توافق ایران و آمریکا پایبند نیست
+مشاور نخست وزیر رژیم صهیونیستی:
+🔹
+ما خود را ملزم به بخش مربوط به لبنان در یادداشت تفاهم ایران و آمریکا نمی‌دانیم و تا زمان خلع سلاح حزب الله از جنوب لبنان عقب‌نشینی نخواهیم کرد.
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/akhbarefori/660706" target="_blank">📅 08:47 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660705">
+<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-text">♦️
+شهریه کودکستان‌ها چه زمانی اعلام می‌شود؟
+رئیس سازمان تعلیم‌ و تربیت کودک:
+🔹
+فرایند تعیین شهریه از ۱۵ خرداد آغاز شده است و تا پیش از مهرماه شهریه کودکستان‌ها و مراکز تعیین خواهد شد و اعلام درصد افزایش شهریه‌ها مورد تأیید نیست.
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/akhbarefori/660705" target="_blank">📅 08:43 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660704">
+<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/875b08b05b.mp4?token=jhFIvc2HsJiPjcaxFa1kmpysC0pRHwCQ41WR1WL-hIFo5e8U-ONH_zrpFftx2IOt-PzHldnIRJXw_3_24qx5QRhZzxQEWEIUd8k-KK7SSyt4xCSjm_qlP90pg_UsCxfNiGeB2JLN28lSToBHTsJclsgKU3HXURJnKu3jyTx7L7mx3Tzt7rv7JQIQyA33it7GHT0D2i-0L9F47sRh8aV3CMUZy2kykmzdaJ-EkolW0H9dV0iodhh_qZEa5SDhHLy4-JSspOSMy9_skGyR48T7TkDr8Fo1PW-FfZQmqy64QVJqkkxEsq3F-kfhMwM2pB4OFuzrzRiTC3RM7xZ8eAQt-w" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/875b08b05b.mp4?token=jhFIvc2HsJiPjcaxFa1kmpysC0pRHwCQ41WR1WL-hIFo5e8U-ONH_zrpFftx2IOt-PzHldnIRJXw_3_24qx5QRhZzxQEWEIUd8k-KK7SSyt4xCSjm_qlP90pg_UsCxfNiGeB2JLN28lSToBHTsJclsgKU3HXURJnKu3jyTx7L7mx3Tzt7rv7JQIQyA33it7GHT0D2i-0L9F47sRh8aV3CMUZy2kykmzdaJ-EkolW0H9dV0iodhh_qZEa5SDhHLy4-JSspOSMy9_skGyR48T7TkDr8Fo1PW-FfZQmqy64QVJqkkxEsq3F-kfhMwM2pB4OFuzrzRiTC3RM7xZ8eAQt-w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+عبدالباری عطوان، تحلیلگر مشهور جهان عرب: سرانجام آمریکا تسلیم قدرت ایران شد!
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/akhbarefori/660704" target="_blank">📅 08:37 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660703">
+<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-text">♦️
+وام‌گرفتن گران‌تر می‌شود
+🔹
+بانک مرکزی قصد دارد نرخ سود سپرده و نرخ سود تسهیلات را در ۲ مرحله و در هر مرحله ۵ درصد افزایش دهد.
+🔹
+با این حال این امکان نیز وجود دارد به یکباره ۱۰ درصد افزایش را اعمال کند.
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/akhbarefori/660703" target="_blank">📅 08:32 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660702">
+<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-text">♦️
+«میر تاج الدینی»، معاون امور مراسم و استان‌های شورای هماهنگی تبلیغات اسلامی: آیین جهانی شیرخوارگان حسینی فردا همزمان در ایران و ۴۵ کشور برگزار خواهد شد
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/akhbarefori/660702" target="_blank">📅 08:28 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660701">
+<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-text">♦️
+فردا؛ آزمون سمپاد و نمونه دولتی برگزار می‌شود
+🔹
+آزمون‌های ورودی پایۀ هفتم مدارس (سمپاد) و پایۀ دهم مدارس نمونه دولتی و تکمیل ظرفیت مدارس (سمپاد) دورۀ دوم متوسطه سال ۱۴۰۵ فردا برگزار می‌شود.
+🔹
+این آزمون صبح فردا جمعه در ۴۷۹ حوزه اصلی آموزش و پرورش و ۲۸۳۷ حوزه فرعی مدارس در ۴۱۸ شهرستان در سراسر کشور برگزار می‌شود.
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/akhbarefori/660701" target="_blank">📅 08:21 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660700">
+<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-text">♦️
+قدردانی نخست‌وزیر پاکستان از رهبری ایران
+🔹
+«شهباز شریف» نخست‌وزیر پاکستان روز پنج‌شنبه با اشاره به امضای تفاهم‌نامه ایران و آمریکا با میانجی‌گری اسلام‌آباد، از آیت‌الله سید مجتبی خامنه‌ای، رهبر انقلاب اسلامی و همچنین مسعود پزشکیان، رئیس‌جمهور برای انتخاب مسیر صلح تشکر و قدردانی کرد.
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/akhbarefori/660700" target="_blank">📅 08:13 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660699">
+<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/204da3dd8c.mp4?token=JSSIkF7bP1DG7cdEZA9t_BXavZ0VapZFM6pfbjori-DqJbiDOTfEzDumJCFklbjDqRrym3bZZ_QfCEG6qokjN_GMJF-f-2KBMebvYPMAU3HXv-sdol80oH1hO41nPLuEY1h3sqIrqLJdLNZuVnYyA-fnT1vHIshO4ozl2iC_nInx5EClDPoGHHzMU8I5YvBAazZqrjBvh9bIdE2C3R55u6ziBYxUBjDiS2y0oOTYj1bpzsoqa43arPOTnsqrH9-LSHleghLTcJirbpQ92n8ikcTdkgBhmqlFtabrseljg3kZV1Vnb0077xBGauEsxWOuqbq9Vqm6cIslPQt-wOfYQw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/204da3dd8c.mp4?token=JSSIkF7bP1DG7cdEZA9t_BXavZ0VapZFM6pfbjori-DqJbiDOTfEzDumJCFklbjDqRrym3bZZ_QfCEG6qokjN_GMJF-f-2KBMebvYPMAU3HXv-sdol80oH1hO41nPLuEY1h3sqIrqLJdLNZuVnYyA-fnT1vHIshO4ozl2iC_nInx5EClDPoGHHzMU8I5YvBAazZqrjBvh9bIdE2C3R55u6ziBYxUBjDiS2y0oOTYj1bpzsoqa43arPOTnsqrH9-LSHleghLTcJirbpQ92n8ikcTdkgBhmqlFtabrseljg3kZV1Vnb0077xBGauEsxWOuqbq9Vqm6cIslPQt-wOfYQw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+حرکات مناسب گودی کمر  #ورزش_صبحگاهی
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/akhbarefori/660699" target="_blank">📅 08:10 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660698">
+<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/3009c87001.mp4?token=lKfzEqE4hKGVzemUs4IfQOkGbZv3S-1k2TdyjxvpNRg0cWOrGN5r1yIb1VOwmR8ZQ_6dSfOzPoy1mhnbutwOXywTMeJR0QcyfhBeeHWW22FsN1JkIjU5B2Krg3FGLIrt4qN5VFERJ5e8usaTbRRjfJuyO8hqdad_DwzYKEgIxIGSZWtbLskmKN_OgBGI0i6ESM0xA-X2_T1nUxea0RmXFFHCpUn9m-9_CRzMkF3zq56HkWsupjK4aNuYbgQA6r1tCke-snWtXSp5NwhQLDhRSc-2GzpaN4ChXIW-1oEpyvKWVxEdCi1-mwoe13BMf0MuZ4DjLy1RH6C4VGGMj6L-wQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/3009c87001.mp4?token=lKfzEqE4hKGVzemUs4IfQOkGbZv3S-1k2TdyjxvpNRg0cWOrGN5r1yIb1VOwmR8ZQ_6dSfOzPoy1mhnbutwOXywTMeJR0QcyfhBeeHWW22FsN1JkIjU5B2Krg3FGLIrt4qN5VFERJ5e8usaTbRRjfJuyO8hqdad_DwzYKEgIxIGSZWtbLskmKN_OgBGI0i6ESM0xA-X2_T1nUxea0RmXFFHCpUn9m-9_CRzMkF3zq56HkWsupjK4aNuYbgQA6r1tCke-snWtXSp5NwhQLDhRSc-2GzpaN4ChXIW-1oEpyvKWVxEdCi1-mwoe13BMf0MuZ4DjLy1RH6C4VGGMj6L-wQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+برخورد شدید بازیکن ازبکستانی به فیلمبردار مسابقات، در بازی با کلمبیا
+#جام_تایم۲۶
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/akhbarefori/660698" target="_blank">📅 07:58 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660697">
+<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-text">♦️
+#چند_خبر_کوتاه
+🔹
+مکرون: امضای تفاهم‌نامه راه را برای صلح پایدار هموار کرد.
+🔹
+هلاکت یک نظامی صهیونیست و زخمی شدن ۷ نظامی دیگر در لبنان
+🔹
+سازمان ملل، حمله اوکراین به اتوبوس حامل کودکان در منطقه بریانسک را محکوم کرد
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/akhbarefori/660697" target="_blank">📅 07:54 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660696">
+<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-text">♦️
+ستاد مرکزی اربعین: ثبت‌نام زائران اربعین از ۹ تیر آغاز می‌شود و نام‌نویسی در سامانه سماح برای همه متقاضیان الزامی است
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/akhbarefori/660696" target="_blank">📅 07:50 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660695">
+<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-text">♦️
+نفت خام برنت ۷۸ دلار شد
+🔹
+پس از اعلام امضای یادداشت تفاهم بین تهران و واشنگتن، قیمت نفت خام برنت به ۷۸ دلار و ۶۶ سنت در هر بشکه کاهش یافت.
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/akhbarefori/660695" target="_blank">📅 07:47 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660694">
+<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Siuan1bXcD3BbXM3mkPfyNc0kNJWzjWfzcEZ7YV5vnb5Ksj33iPv_Vz0YTsfJBwbsQmLVTr5eaRkIlRI1SIMMGQ-16ljS07Mwl7p_0mHRVMZ50AB3-5JWby_Va5NMJnJQ_372IkD8ubIyPgs8Fa_2iG2Enp5DUZ8Z7TjpMtt6M8XdQVZbezptbzShGduDnEbS0F-5_PzFj2T2HAJ6iro4vCEbbWk_p8uGVXUpQmnmxfyALrao2HTYzlf_gBJ6s7BASoCKUnLNB6n5FgmpXADG2U1KdTBhCmU9SNVQ8zaIhD2B0pvU857uKuTVopXT4vgy9_E4SweMZ2iI4l8U9LzxA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♦️
+جدول رسمی تمام گروه‌های جام جهانی بعد از پایان دور اول رقابت‌‌ها
+#جام_تایم۲۶
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/akhbarefori/660694" target="_blank">📅 07:43 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660693">
+<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-text">♦️
+هشدار روزنامه کیهان: بعضی سخنران‌های تجمعات شبانه، در پوشش انقلابیگری تفرقه افکنی می‌کنند
+روزنامه کیهان:
+🔹
+متاسفانه در این شب‌ها، هر چند اندک برخی سخنرانان هیجانی در پوشش انقلابی‌گری و با نادیده گرفتن اوامر رهبر انقلاب در حفظ وحدت و انسجام ملی، اقدام به پراکندن بذر انشقاق و تفرقه در میان مردم می‌کنند.
+🔹
+لازم است نهادهای برگزارکننده در راستای امر رهبری بر این تریبون‌ها نظارت داشته باشند.
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/akhbarefori/660693" target="_blank">📅 07:42 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660692">
+<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/cf019f3a86.mp4?token=D04PQ9fSSFoZ2nLzj43LRyJL-ALh-SsYNxm5kXPFo7rantAjXvIWPMVCawiir70XH6_gvQxXrY3aWsvN9I4V0ynHtsj6nKa0pRGeLP6uvt78TRa6k8nXceCNE56pT2k30teKJ0lra6CXiOqZ9e4h-jHel9QCBgiC09iIjbbfnfhE838bPThvKdqthisF_1biDz3vpy_uSh1W-l-Mq6Sp2jEVx9ZKyvjMLbV335VPPZ-ilae4A8m4rAB96U5JS9sqj4epnH7Q5WhLkBy2kNhH7zdEsa31BaOYJ7ILGRNKxb4RDMAfiLBfN8IftCw_6F0v4BG5Xa_MQhmEgttTLcOW3w" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/cf019f3a86.mp4?token=D04PQ9fSSFoZ2nLzj43LRyJL-ALh-SsYNxm5kXPFo7rantAjXvIWPMVCawiir70XH6_gvQxXrY3aWsvN9I4V0ynHtsj6nKa0pRGeLP6uvt78TRa6k8nXceCNE56pT2k30teKJ0lra6CXiOqZ9e4h-jHel9QCBgiC09iIjbbfnfhE838bPThvKdqthisF_1biDz3vpy_uSh1W-l-Mq6Sp2jEVx9ZKyvjMLbV335VPPZ-ilae4A8m4rAB96U5JS9sqj4epnH7Q5WhLkBy2kNhH7zdEsa31BaOYJ7ILGRNKxb4RDMAfiLBfN8IftCw_6F0v4BG5Xa_MQhmEgttTLcOW3w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+ترامپ: یادداشت تفاهم با ایران، امضا شده است
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/akhbarefori/660692" target="_blank">📅 07:41 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660691">
+<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-text">♦️
+کاخ سفید: مراسم امضای تفاهم‌نامه در ژنو برگزار نمی‌شود
+شبکه «فاکس نیوز:
+🔹
+«امضای رسمی [تفاهم‌نامه] که قرار بود در ژنو انجام شود، پس از امضای آن [توسط ترامپ در] ورسای لغو شد».
+📲
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/akhbarefori/660691" target="_blank">📅 07:39 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660690">
+<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-text">♦️
+ضرب‌الاجل دولت به قایق‌ها برای نصب ردیاب
+🔹
+سازمان شیلات به صیادان یک ماه مهلت داد تا روی قایق خود ردیاب نصب کنند، در غیر این صورت سوخت گران‌تر دریافت می‌کنند.
+🔹
+این اقدام برای سنجش واقعی پیمایش و تلاش قایق‌های صیادی، انجام می‌شود.
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/akhbarefori/660690" target="_blank">📅 07:35 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660685">
+<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/toU1WWUelVztSLG00uakHDsNw5hXscRe2f_0rEgDavC48wUS5UObJl78dgGEkcG6YfOFe_TP_xBpyHkXCeAK2qJXHGBoLB9eKy9wi7cQQhulrAU33b-ILZZ4-OJxRFasN2ApAWLo6hGOie5eGjXvSmGoP_xjAnj8tI6-GWQYKZzXURHkLigM64aHYyl0iVIk68oSySxcSbyg5OvJC86OW-aqVyhu3TNVR0df3bySE6tzBD2PQD7NLorFRawDXjGkMZ3RUGY_s1nBbDrKizNwqHg5hPW4AMscnGbvnct6Odx2JVTwFplb-x18UMTQyCE5wEpLuXVdlHTJlc_RtCj1sg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/cxcGH20HsGbpsuanXz4HfZ2f31MoUV7ayDbeUshXgpBS_Gpma9DhSNpW-9i66Z5HUGLLmc6PDf475eDgyqOeVY1fb_Iu9UJEzmx5V2UPsAzxdq94gGWjjPWHaet9wgdYi0V3t-5CrRRu8bYPDyvC84ALU5WD3S9S4SmNw5gu5kb87Eik8Nod5A9xHuqRlVs6csYlaBjnMpQ496M1_7Sq8Z4vZx6RS13fJ9er1MyvJVYVvKkG-Ocd454mebYHCPHVfg5kqInJE342joumBrQJ4Kei-SudIaROI4Yt8Dtc4MjiRGubyb9Yfdh1ZiHiJBdj1hEGvUNtNkiJ-t6WKBxA8Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TEhvykU-c5Iri59Wevji1Oa3DtoeGAvl5ZQwyt9h4_GCUK7oJT_QdUWZkDcRkKDxKeBAANu4LrCzEqDGDsEE4bQ3pT5jYpCD79D-sTstZBWFSxxzxAAY-atsm0P-tSOVWUBJA8nxa2kgrAWbe93KrAJ3gb2fpsf4DcOpXZxrAqV8_loSYFYovpyh1sRTXfeVZu6gE6wqycfKpcjASFTt6dvn2AK6OM30SdZSMu5xwOhNGA59hHAA7n7XSNWoZGYuEbwWcl-HCX-EbOd4h3wstdDhqOnhH81xnUocwBrQ1GODLorLyII0irTqhEU2Y7d76PPbWlPcfgtdPb0riMezFw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/hkAzF4NpuNXWNDnX3UWuJgCm_b8BpOthWOEQ59H2KunATAxh1z9k0z_Cs5MPdFRAwKSMnuyrWQtDP1mnRA3Lm_CerGQp1hgv_GAyoMJa55qJ-HIneZaWlnxd4DeuLj_-0oHEsRySB1GzIKYqfP0s42pzNIWK0jONPeTh0GEFxSGjfzufdgtud2vq0vSBzLgpEgUqwwAIpsYKrq4pniq4ycYiOm8GuLKo1BqHR1hulz-Pj_BKtKGJz7OHE4fyhomOFARGk2mq52A_49Vqz-RgGsAo2585XCd0heOVwkwHugtLRCd68vD8ykjtmeKWmnp5D9dRu4dz3RGAQzil-FwGFw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/oHIeSeQlXiqvkRFiqzdC3hbFZurmsB4E_LNjmedf_gfA7UyTVgX8HXpOd86pP3CF0mxLC3PQp5oyOyFevkK2gJ4A8Wg9EXVcGwU4VJJONFOLC_GftRRGPUDBg5H2_ZTHlCUvPUiM0b1o9I8k6r9eJjtHIHUiHsKMKzoaocZP1AMOlCkA_9r0YWhd6k5WMNK3RCf10CfUe2u5Kk6XjDQfgKaFrf-SbySJl8e-rcBqYmZtnxDIOPz3bPnA6BWIcUb4cxgZL2TLYs6_y4q-oWKVQ3fZSfFUsoMMkSbWbrkRlaY5k5W6dMZFbxJCp6ZXYzeG9Bmr01KXHT3iGpPkZ7GCRw.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">♦️
+بقایی: همین الان که در حال صحبت هستیم متن توافق رسما به امضا رئیس جمهور های دو طرف رسیده است
+🔹
+قرار بود که بامداد روز ۲۸ خرداد ماه رئیس جمهور دو کشور این متن و توافق رو امضا کنند. @AkhbareFori</div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/akhbarefori/660685" target="_blank">📅 07:33 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660683">
+<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/14db2b6199.mp4?token=u2F7RYNSVdXkeqHXKS2mE3XSFlHuacasnUVjvWDR2AcLdstMgbcy6TpXuJrb6ZL2tilZC36rBBE6CxkTQNfJOuv77Y1cMjLu5DnT0H1TrFnm_9dIcKACuBye75asIfWZBmfxSZbZ7YbqSEpXXJyQeP5ohLi2lv1PZSnYq2RRWwG-6C9Y_Hp4l7zDpAJmStx794sh2EHxc90h1g-X63JsA_EJOopfDsjJuT59OF4ZES1MKJu9viozQZsG-FpmX3ZMENr5fRt5kTwcidkd5mlQrYjzapmE5g1LY7Dz4LzJP3iz058dlrJ2xbMLJ9aPv1S9JcBD8r_NG2Et4Pcr-1-7-A" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/14db2b6199.mp4?token=u2F7RYNSVdXkeqHXKS2mE3XSFlHuacasnUVjvWDR2AcLdstMgbcy6TpXuJrb6ZL2tilZC36rBBE6CxkTQNfJOuv77Y1cMjLu5DnT0H1TrFnm_9dIcKACuBye75asIfWZBmfxSZbZ7YbqSEpXXJyQeP5ohLi2lv1PZSnYq2RRWwG-6C9Y_Hp4l7zDpAJmStx794sh2EHxc90h1g-X63JsA_EJOopfDsjJuT59OF4ZES1MKJu9viozQZsG-FpmX3ZMENr5fRt5kTwcidkd5mlQrYjzapmE5g1LY7Dz4LzJP3iz058dlrJ2xbMLJ9aPv1S9JcBD8r_NG2Et4Pcr-1-7-A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+ترامپ در پاریس تفاهم‌نامه ایران را امضا کرد  آکسیوس به نقل از مقام‌های آمریکایی نوشت:
+🔹
+ترامپ شخصاً نسخه‌ای از این توافق را در جریان ضیافت شام با رئیس جمهور فرانسه در کاخ ورسای امضا کرد. عکسی از توافق امضا شده برای ایرانی‌ها و کشورهای میانجی ارسال شد»./فارس…</div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/akhbarefori/660683" target="_blank">📅 07:32 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660682">
+<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-doc">
+<span class="tg-doc-icon">📎</span>
+<div class="tg-doc-info">
+  <div class="tg-doc-title">پادکست کافئین | فصل‌دو،قسمت‌سوم</div>
+  <div class="tg-doc-extra">ابونصر فارابی</div>
+</div>
+<a href="https://t.me/akhbarefori/660682" class="tg-doc-link" target="_blank">دانلود</a>
+</div>
+<div class="tg-text">🎙
+پادکست
+#کافئین
+🎧
+▶️
+ابونصر فارابی (معمارِ سیستم‌ها)
+🗓
+در این قسمت، بزرگترین کلاس درس تاریخ را برای «خروج از تفکر جزیره‌ای»، «طراحی زیرساختِ روابط انسانی» و «آرمان‌گراییِ عمل‌گرایانه در محیط‌های آشفته» مرور کرده‌ایم. تا زمانی که نگاه سیستمیک نداشته باشید، تغییراتِ شما فقط مثل دستمال کشیدن روی شیشه‌ی کثیفه!
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/akhbarefori/660682" target="_blank">📅 07:31 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660681">
+<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/16162bd5bf.mp4?token=d1iLlDe9ZFT8aOjXBqmcWLBv63ugUtwhIGJjj5NtdV-5OiZQj8syraWnC6LWQc08BTVO8fhrmbHaanEJsf4jTayOQdJOkSdKVV3_kCU57OrtM7ljwtT3y1Rz9l_wXESNabLih2TPbpjaHOKW88zpD3ZTh8-eIIVS4bfo66jw4Exv5Z5tPARGY60A-YO5ABknzP-b-v33rIeX5dK7P1Jwi9Z8I49UOYkDa4BabihPg563qMC2LMZX8BMzM1ol_dyc8vLQl9bouvLcfPbmkcA3u5bebgC2aYogNm6OSo2mRhD5ZSMiUhkmo9Ih_NntORAE7Qeyf8NZVZpDWAng3QTKBA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/16162bd5bf.mp4?token=d1iLlDe9ZFT8aOjXBqmcWLBv63ugUtwhIGJjj5NtdV-5OiZQj8syraWnC6LWQc08BTVO8fhrmbHaanEJsf4jTayOQdJOkSdKVV3_kCU57OrtM7ljwtT3y1Rz9l_wXESNabLih2TPbpjaHOKW88zpD3ZTh8-eIIVS4bfo66jw4Exv5Z5tPARGY60A-YO5ABknzP-b-v33rIeX5dK7P1Jwi9Z8I49UOYkDa4BabihPg563qMC2LMZX8BMzM1ol_dyc8vLQl9bouvLcfPbmkcA3u5bebgC2aYogNm6OSo2mRhD5ZSMiUhkmo9Ih_NntORAE7Qeyf8NZVZpDWAng3QTKBA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">ابونصر فارابی و «تفکر سیستماتیک و فرار از آنارشی»
+#پادکست_کافئین
+| فصل‌دو،قسمت‌سوم
+☕️
+متفکری که هزار و صد سال پیش، در دل آشوبِ خاورمیانه، ایستاد و چارت سازمانیِ یک تمدن توسعه‌یافته را کشید و به تاریخ نشان داد: «اگر نابغه‌ترین مهره‌ها را هم داشته باشی، بدونِ تفکر سیستماتیک، خروجیِ سازمانت چیزی جز یک آشفتگیِ مطلق نیست!»
+هر روز صبح با یک شات غلیظ از تاریخ، آمادهٔ شروع روزتان باشید!
+از اینجا ببینید و بشنوید
+👇
+https://youtu.be/C6Est5_k60c?si=3R0oBCMYwrbR7QfX
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/akhbarefori/660681" target="_blank">📅 07:31 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660680">
+<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t7lJy5dq8vj8mg5ypHDLCqfJwjOQK8RpuKqAYkVTMqnrYbl1h3FNsDPNCwHm3dmQuTYdZUgPvC8tgqOEKHmhj3dxRelTmTDQRzIhAOi7AtMFizMoiEH-LjRqI_7PeUxvPtItkKzrkOtxpBSu5gHqevxYyNwwT3YA-bxQE2s8tZe_TnGIswRNNi46OflZTSFMWCQ4k-VFKFT1KKFiwEHunJ0DGjslzPgpnOAW9SqKyKOld8dNsINTFJ7F9sxT4nfvUxmogicODbh6rSYrNybnPXxn4xnwX1GsILyszh8GzumLH-0Zq_XfaQBSgmGkFBmL39pkGWbyVlPvQwdQrJ9crQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">هر روز خود را آغاز کنید با:
+بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
+🔹
+با خواندن دعای عهد و چند دقیقه گفتگو روزانه با امام زمان (عج)، پیمان همراهی و خدمتگزاری‌مان را تازه کنیم.
+#صبح_نو
+امروز پنج‌شنبه
+۲۸ خرداد ماه
+۳ محرم ۱۴۴۷
+۱۸ ژوئن ۲۰۲۶
+پنج‌شنبه‌ها
+#دعای_کمیل
+بخوانیم
+⬅️
+متن و صوت دعای کمیل
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/akhbarefori/660680" target="_blank">📅 07:31 · 28 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-660679">
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromخبرفوری</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n8pfN5WPERRgI3dxXzY0yK9ZfNzCwTUdBk60nDXpDGp7XKyAZ6tIGTdz-Q6dNtIJHnMBcny6uNGAB-Y0vJ5WBgjVifgtgpZUNcpNZJ7mLpqBAHtkqbqjLBx-nMREDGRZfxOXUYx-L9qUwaezcueQBn9A2m8VAamKtwHNJDbMa-7ydKUjiFJDas2WWF3X3OOwhFDZaDS2lkO-W407j5PN3HMeQD860UTgaUyA7ufjAi79U2PYL6lbKO2PxZKulSqQP6nYlyxmbO2uN6XcyzDVH1IISMPL8zOPTK6QfGhZPevIdQBCGg-P42mnqX9r_0z9AMOv21WnouNYBpcqgaqB_Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
@@ -304,24 +1009,11 @@
 🔹
 با قرائت دعای فرج به این جمع میلیونی بپیوندیم
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/akhbarefori/660679" target="_blank">📅 02:01 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660678">
-<div class="tg-post-header">📌 پیام #99</div>
-<div class="tg-text">♦️
-ما آمریکا و رژیم صهیونیستی را از هم جدا نمی‌کنیم اما در شیوه‌ها و روش‌ها اختلا‌ف‌نظرهایشان کاملاً مشهود است
-📲
-🇮🇷
-✊
-@AkhbareFori
-|
-Link</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/akhbarefori/660678" target="_blank">📅 01:58 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/akhbarefori/660679" target="_blank">📅 02:01 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660677">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">♦️
 بقائی دربارهٔ مرحلهٔ پیش‌روی تیم مذاکره‌کننده ایرانی: کار ما به عنوان دیپلمات‌، قطعاً از کار مدافعان وطن پای لانچرها و پشت سنگرها ساده‌تر نیست. شاید دشوارتر هم باشد، چون باید چشم در چشم دشمنانی بدوزیم که می‌دانیم مرتکب چه جنایاتی شدند و برای احقاق حق مردم و تثبیت دستاوردها با آنان مذاکره کنیم
 📲
@@ -330,11 +1022,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/akhbarefori/660677" target="_blank">📅 01:56 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/akhbarefori/660677" target="_blank">📅 01:56 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660676">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">♦️
 بقائی: مردم ما، بغضشان از غم فقدان عزیزانمان -از دانش‌آموزان تا رهبر شهیدمان- را، تبدیل به یک «خشم حماسی» برای دفاع از ایران کردند
 📲
@@ -343,11 +1035,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/akhbarefori/660676" target="_blank">📅 01:53 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/akhbarefori/660676" target="_blank">📅 01:53 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660675">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">♦️
 بقائی: ابرقدرت بودن ایران یک شعار نیست؛ ما دو قدرت اتمی را شکست دادیم
 سخنگوی وزارت خارجه:
@@ -361,11 +1053,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/660675" target="_blank">📅 01:53 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/akhbarefori/660675" target="_blank">📅 01:53 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660674">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">♦️
 بقائی درباره تفاوت ایران امروز با ۶۰ روز پیش رو: لن یضروکم الی اذی و ان یقاتلوکم یولوکم الادبار ثم لا ینصرون
 آن‌ها جز آزارهایی اندک به شما نمی‌توانند رساند واگر با شما پیکار کنند با عقب‌گردی، از شما روی برمی‌تابند و شکست می‌خورند، سپس یاری نخواهند شد
@@ -376,11 +1068,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/akhbarefori/660674" target="_blank">📅 01:49 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/akhbarefori/660674" target="_blank">📅 01:49 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660673">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">♦️
 بقائی: ما شعار نمی‌دهیم
 🔹
@@ -391,11 +1083,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/660673" target="_blank">📅 01:48 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/akhbarefori/660673" target="_blank">📅 01:48 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660672">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">♦️
 بقائی: احساس اقتداری که امروز تک تک ایرانیان دارند، بی‌سابقه است. جنگی که علیه ما به راه انداختند، ما را مقتدرتر کرد
 📲
@@ -404,11 +1096,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/660672" target="_blank">📅 01:47 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/akhbarefori/660672" target="_blank">📅 01:47 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660671">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">♦️
 بقائی: همه امید ما این است که همانطور که مردم در صدوده روز نشان دادند، در میدان ادامه دهند و به مسئولان خودشان اعتماد کنند
 📲
@@ -417,11 +1109,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/akhbarefori/660671" target="_blank">📅 01:45 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/akhbarefori/660671" target="_blank">📅 01:45 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660670">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">♦️
 بقایی: تازه ابتدای کار هستیم، مدافعین وطن در عرصه دیپلماسی به اندازه مدافعین وطن در عرصه نظامی نیازمند حمایت هستند
 🔹
@@ -432,11 +1124,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/akhbarefori/660670" target="_blank">📅 01:44 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/akhbarefori/660670" target="_blank">📅 01:44 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660669">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">♦️
 مذاکرات جمعه ایران و آمریکا در سوئیس الان قطعی نیست
 بقایی، سخنگوی وزارت خارجه:
@@ -448,11 +1140,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/akhbarefori/660669" target="_blank">📅 01:43 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/akhbarefori/660669" target="_blank">📅 01:43 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660668">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">♦️
 بقائی، با اشاره به تجربهٔ برجام، دربارهٔ بند ۱۴ توافق اینطور توضیح داد: ما برای پذیرفته شده این تفاهم‌نامه از سوی بازیگران بین‌المللی، به یک قاب حقوقی نیاز داریم و آن، «قطعنامه شورای امنیت سازمان ملل» است
 🔹
@@ -464,11 +1156,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/660668" target="_blank">📅 01:42 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/akhbarefori/660668" target="_blank">📅 01:42 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660667">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">♦️
 بقائی: ضمانت اجرای این تفاهم قدرت ماست، اهرم‌هایی که ملت ایران در این مدت تولید کرده
 📲
@@ -477,11 +1169,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 9.51K · <a href="https://t.me/akhbarefori/660667" target="_blank">📅 01:41 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/akhbarefori/660667" target="_blank">📅 01:41 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660666">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/F8KdIPQfg2ehomozqJHnvZ9wT941VUttoLppMEdxrx8cJX6rhtXhITRSxocRjKVVWpqO1SpsA0rx88sBwMhR00vSofGFquS6_1yMcmLP-D5-_OPPMDBeVdW2wju35kJB0Bt0DeTG3z55iBMUMW6Bc50C-zMoC71nZhwfWDWsAuipw4wvGetGH9UF_eISI5fs15Ha4ja5CYXlsU5eQmhjGghMFpX52JZ0L-tiGTI-FaTriSNb_pgLXe8jXxeXj2X5n6rRSGKcodkHDqPm7ojz5iEXJuXtXOBE-SaweqnV3WYgOZqpHBPRgd-UPk6si08_VOLExive167s4CaO9XHXrg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 اینفلوئنسر آمریکایی؛ آنچه ایران به دست آورد
@@ -510,11 +1202,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/akhbarefori/660666" target="_blank">📅 01:40 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/akhbarefori/660666" target="_blank">📅 01:40 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660665">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">♦️
 اگر تعرضات اسرائیل در لبنان ادامه یابد، نقض تعهدات آمریکا محسوب می‌شود
 بقایی، سخنگوی وزارت خارجه:
@@ -530,11 +1222,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 9.5K · <a href="https://t.me/akhbarefori/660665" target="_blank">📅 01:38 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/akhbarefori/660665" target="_blank">📅 01:38 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660664">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">♦️
 بقائی: بند ۱۳ مشخص کرده که شروع مذاکرات درباره توافق نهایی زمانی انجام خواهد شد که مطمئن شویم اجرای بندهای ۱، ۴، ۱۰ و ۱۱ شروع شده و تداوم پیدا کرده
 📲
@@ -543,11 +1235,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/akhbarefori/660664" target="_blank">📅 01:37 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/akhbarefori/660664" target="_blank">📅 01:37 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660663">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">♦️
 بقائی درباره بند ۱۳ یادداشت تفاهم: ما فقط در این بازه ۶۰ روزه راجع به بحث هسته‌ای و رفع تحریم‌ها و سازوکار اجرای بقیه بندها صحبت‌ خواهیم کرد
 📲
@@ -556,11 +1248,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/akhbarefori/660663" target="_blank">📅 01:36 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/akhbarefori/660663" target="_blank">📅 01:36 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660662">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dpkgmew9w7ny5PtBVN65r4dIl569bgGAkPXxpIbDhbrOu6cn83PIupyzacTifq1AUanPwNMCy99p6Tc3I7kd2Lnpzs312RYGYxpuVTfkB67FghBUISlQlVmjL5deQ_z8VEY-WsPgVpC5YE8WlAJtcDRewqPRhU5EzWzEA0Vz6wxauS97NBIJ-IgAKMlyWurhc9v83J6iVRdHgFqJOh0kSzNkC_01ux3uVjp6GOvo8IrhA1a7pvkCVrsq1fY4Nm9WNYNfuDO5I_fmxZ7ZT3yUXldo-SfL5gLKl5uOpYftBvJttGCRRhELRXe8BIlGPWIaCa571R7XlcOTxXT42x-E1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 گل چهارم انگلیس به کرواسی توسط رشفورد ۸۵
@@ -569,11 +1261,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/akhbarefori/660662" target="_blank">📅 01:36 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/akhbarefori/660662" target="_blank">📅 01:36 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660661">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cHTxfvN8Xs7wdRbG3KqwghzYUbQpK1BZzCftomjvDW00wocqkAxCP05AS8M1vvUJep_c6qVqA5EivAWxTH4Cje0lc_c1bkRod5CPARQYAWcG2qxdpc7ga_he4aYiNpMeORdlXUs4QmiExc3ib6acjnYm8Y1c7YwQQLfsSTRAGC3uyuYxlGBFEq-NXM08X56Lunrh9HifLPUp8r0fKhbiw1zX1MPVtubxNTE4LeZzIPjTSFia8aJJEstoOBw4t-R491vgeEpZPN-5GC0KGS7Al-piCkThK2ZEMInmjLEgQiU1IwpDIIBYhktX9nIlMnWjnCciQVTBuJuOQpt7PYnnXA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 اوپن سورس: در تمام عمرم معامله‌ای یک‌طرفه‌تر از این ندیده‌ام. کاملاً شوکه شده‌ام
@@ -583,11 +1275,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 9.37K · <a href="https://t.me/akhbarefori/660661" target="_blank">📅 01:35 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/akhbarefori/660661" target="_blank">📅 01:35 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660660">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">♦️
 بقائی درباره بند ۱۱ یادداشت تفاهم: ما تجارب گران‌سنگی درباره مذاکرات با آمریکا داریم تلاش برای تعهدات متقابل است. احتمالا یک کارگروه تخصصی راجع به این موضوع خاص تشکیل شود
 📲
@@ -596,11 +1288,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 9.56K · <a href="https://t.me/akhbarefori/660660" target="_blank">📅 01:34 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/akhbarefori/660660" target="_blank">📅 01:34 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660659">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">♦️
 بقائی درباره بند ۱۱ تفاهم: مهم این است که بتوانیم هرگاه اراده کنیم از اموال بلوکه شده استفاده کنیم، سازوکارهایش هم دیده شده، آمریکا متعهد هست همه موانع را برطرف نماید
 📲
@@ -609,11 +1301,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/akhbarefori/660659" target="_blank">📅 01:31 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/akhbarefori/660659" target="_blank">📅 01:31 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660658">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">♦️
 بقائی: در جریان مذاکرات، همه تجارب تلخ از بدعهدی آمریکایی‌ها طی سال‌های گذشته را مد نظر داشتیم تا نتیجه بهتری حاصل شود
 📲
@@ -622,11 +1314,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/660658" target="_blank">📅 01:31 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/akhbarefori/660658" target="_blank">📅 01:31 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660657">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">♦️
 همزمان با تفاهمنامه، درباره ۳ موضوع دیگر هم مذاکره شد
 بقایی، سخنگوی وزارت خارجه:
@@ -636,13 +1328,13 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/akhbarefori/660657" target="_blank">📅 01:30 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/akhbarefori/660657" target="_blank">📅 01:30 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660656">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">♦️
-بقائی: این تعهدی است که از امروز شروع می‌شود در حین نذورات هم باید ادامه پیدا کند تا رسیدن به توافق نهایی
+بقائی: این تعهدی است که از امروز شروع می‌شود در همین حین نظارت هم باید ادامه پیدا کند تا رسیدن به توافق نهایی
 بقایی:
 🔹
 ما فقط روی قول طرف روی کاغذ حساب نمی‌کنیم
@@ -651,41 +1343,41 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/akhbarefori/660656" target="_blank">📅 01:29 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/akhbarefori/660656" target="_blank">📅 01:29 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660655">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">♦️
 بقایی: تحریم نفتی ایران باید برداشته شود، نه روی کاغذ بلکه با همه ملزومات آن
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/akhbarefori/660655" target="_blank">📅 01:27 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/akhbarefori/660655" target="_blank">📅 01:27 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660654">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">♦️
 بقائی درباره بند ۱۰: یکی از تحریم‌های آمریکا، تحریم فروش نفت بوده که هزینه‌هایی برای ما ایجاد کرده، طرف مقابل متعهد شده همه را لغو کند نه روی کاغذ
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/akhbarefori/660654" target="_blank">📅 01:27 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/akhbarefori/660654" target="_blank">📅 01:27 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660653">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">♦️
-بقائی: در این بازه ۶۰ روزه نباید طرف مقابل نباید حضور نظامی خود را در منطقه تقویت کند و نقض تفاهم به حساب می‌آید
+بقائی: در این بازه ۶۰ روزه نباید طرف مقابل حضور نظامی خود را در منطقه تقویت کند و نقض تفاهم به حساب می‌آید
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/akhbarefori/660653" target="_blank">📅 01:26 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/akhbarefori/660653" target="_blank">📅 01:26 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660652">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/f5af3d26a8.mp4?token=JyvcB66z8L2ot5MhAagQh4dbvn7kYprUbUGk3PdAZLvd6cPQXlk9NEcmG7U9Tm3hI2o47lqQfVvq-pxNx9FR443Y_TZ915CeFVPseXn1IGc_DjYy0aa78lorInTi_Egj0_rN37_DhPOXyETfc3tbf0LTnaJUuqmt3aQF7E2ZrdoiCis8n8OFHxd-Ix9mCcD28D9TrkPGoEM8ydLceJkFeSFBGiBHi6uSTby29HnfDVt-lr0CWG4D4OUEJDUnCdeyqL086kroMUJhBx-xLfnzbEpaLr3BjBln1gaq9nnAd4T4HccAY8ofWiMz-qBkXmuR2vr09m6SZUSeCfvqhKDCaQ" type="video/mp4">
@@ -700,11 +1392,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/akhbarefori/660652" target="_blank">📅 01:25 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/akhbarefori/660652" target="_blank">📅 01:25 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660651">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">♦️
 آمریکا متن تفاهم‌نامه با ایران را منتشر کرد
 🔹
@@ -718,91 +1410,81 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/akhbarefori/660651" target="_blank">📅 01:24 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/akhbarefori/660651" target="_blank">📅 01:24 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660650">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">♦️
 بقایی: تعداد بند های توافق ملاک نیست مهم منافع ملی کشور که در توافق گنجانده شود، برای ما دستور عمل های شورای امنیت ملی که صادر کرده بود بعد آتش بس ملاک بود
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/akhbarefori/660650" target="_blank">📅 01:23 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/akhbarefori/660650" target="_blank">📅 01:23 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660649">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">♦️
 بقائی: متن تفاهم به دو زبان امضا شده؛ این اوج شفافیت ما در اطلاع‌رسانی است. اگر فقط متن انگلیسی بود دچار تفسیر سلیقه‌ای می‌شدیم. این متن کاملا منطبق بر متن انگلیسی است
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/akhbarefori/660649" target="_blank">📅 01:23 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/akhbarefori/660649" target="_blank">📅 01:23 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660648">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">♦️
-بقائی: رقیق‌سازی مواد غنی شده، موضوع جدیدی نیست و برای این مطرح شده که راه بر گزین‌هایی که به هیچ عنوان برای ما قابل قبول نیست، بسته شود
+بقائی: رقیق‌سازی مواد غنی شده، موضوع جدیدی نیست و برای این مطرح شده که راه بر گزینه‌هایی که به هیچ عنوان برای ما قابل قبول نیست، بسته شود
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/akhbarefori/660648" target="_blank">📅 01:22 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/akhbarefori/660648" target="_blank">📅 01:22 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660647">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">♦️
 بقائی: ما از ابتدا گفتیم مواد غنی‌شده ایران به خارج منتقل نخواهد شد؛ در صورتی که طرف مقابل دائم مطالبات زیاده‌خواهانه‌ای داشت که درنهایت به نتیجه نرسید
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/akhbarefori/660647" target="_blank">📅 01:20 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/akhbarefori/660647" target="_blank">📅 01:20 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660646">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">♦️
-بقائی درباره بند ۸ تفاهم: ما درمورد تنها بعدی از موضوعات هسته‌ای که صحبت کردیم درباره رفع تحریم‌ها در بازه ۶۰ روزه بوده
+بقائی درباره بند ۸ تفاهم: ما تنها در بندی از موضوعات هسته‌ای که صحبت کردیم درباره رفع تحریم‌ها در بازه ۶۰ روزه بوده
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/akhbarefori/660646" target="_blank">📅 01:18 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/akhbarefori/660646" target="_blank">📅 01:18 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660645">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">♦️
 سازمان ملل: از توافق ایران و آمریکا و بازگشت دیپلماسی استقبال می‌کنیم
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/akhbarefori/660645" target="_blank">📅 01:17 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/akhbarefori/660645" target="_blank">📅 01:17 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660644">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">♦️
 بقایی، سخنگوی وزارت خارجه: بدون هرگونه مماشاتی، اجرای تعهدات طرف مقابل را رصد می‌کنیم. در صورتی تعهداتمان را انجام می‌دهیم که طرف مقابل به تعهدش عمل کند.
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/akhbarefori/660644" target="_blank">📅 01:16 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660643">
-<div class="tg-post-header">📌 پیام #64</div>
-<div class="tg-text">♦️
-بقایی در پاسخ به اینکه اگر آمریکا بهانه‌تراشی کند: ان‌قلت بیاورند ما هم ان‌قلت می‌آوریم؛ تعهد در برابر تعهد
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/akhbarefori/660643" target="_blank">📅 01:15 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/akhbarefori/660644" target="_blank">📅 01:16 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660640">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">♦️
 واشنگتن امضای تفاهم‌نامه با ایران را تایید کرد
 🔹
@@ -811,134 +1493,124 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/akhbarefori/660640" target="_blank">📅 01:14 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/akhbarefori/660640" target="_blank">📅 01:14 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660639">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">♦️
 بقائی درباره بند ۷ تفاهم: متن تصریح کرده همه تحریم‌های یک‌جانبه آمریکا اعم از اولیه و ثانویه برداشته شود
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/akhbarefori/660639" target="_blank">📅 01:14 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/akhbarefori/660639" target="_blank">📅 01:14 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660638">
-<div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-text">بقائی:  از هیچ فرصتی برای مستندسازی و پیگیری و تبیین جنایاتی که علیه ملت ایران اتفاق افتاد نخواهیم گذاشت
+<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-text">♦️
+بقائی:  از هیچ فرصتی برای مستندسازی و پیگیری و تبیین جنایاتی که علیه ملت ایران اتفاق افتاد نخواهیم گذاشت
 🔹
 از هر سازوکار و نهاد و فرصت بین‌المللی برای احقاق حق استفاده خواهیم کرد. اینها خارج از این یادداشت تفاهم است.
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/akhbarefori/660638" target="_blank">📅 01:13 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/akhbarefori/660638" target="_blank">📅 01:13 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660637">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">♦️
 بقائی: قاعدتا از هر سازوکاری استفاده خواهیم کرد که این تعهد صورت بگیرد برای ما منبع آن مهم نیست
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/akhbarefori/660637" target="_blank">📅 01:12 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/akhbarefori/660637" target="_blank">📅 01:12 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660636">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">♦️
 بقائی: بعضی از آسیب‌هایی که به ما زدند به عدد و رقم درنمی‌آید
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/akhbarefori/660636" target="_blank">📅 01:10 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/akhbarefori/660636" target="_blank">📅 01:10 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660635">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">♦️
 بقائی: بازسازی خسارات ناشی از جنگ برای ما فوق‌العاده مهم است
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/akhbarefori/660635" target="_blank">📅 01:09 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/akhbarefori/660635" target="_blank">📅 01:09 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660634">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">♦️
 بقائی در پاسخ به این سؤال که چرا برداشتن محاصره دریایی در متن نیامده: چون زودتر این اتفاق افتاد
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/akhbarefori/660634" target="_blank">📅 01:08 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/akhbarefori/660634" target="_blank">📅 01:08 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660633">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">♦️
 بقایی: اگر متن را مبنا قرار می‌دادیم باید رفع محاصره از امروز انجام می‌شد اما رفع محاصره زودتر انجام شد. باید در عمل شاهد این اتفاق می‌بودیم
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/akhbarefori/660633" target="_blank">📅 01:08 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/akhbarefori/660633" target="_blank">📅 01:08 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660632">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">♦️
 بقایی، سخنگوی وزارت خارجه: موضوع تنگه هرمز به عهده ایران و عمان است. فقط ایران و عمان ۲ دولت ساحلی تنگه هرمز هستند.
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/akhbarefori/660632" target="_blank">📅 01:07 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660631">
-<div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-text">♦️
-بقائی: در رصدی که انجام شد مشخص شد کشتی‌های ما بدون مشکلی وارد بنادر شدند و خارج شدند و این تعهد {آمریکا به رفع محاصره} شروع شد. تعهدات ما پس از امضای این سند شروع خواهد شد
-📲
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/akhbarefori/660631" target="_blank">📅 01:06 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/akhbarefori/660632" target="_blank">📅 01:07 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660630">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">♦️
 بقایی: با عمان تا حدود زیادی به سازوکار مشخص درباره تنگه هرمز با حفظ حاکمیت ایران رسیده‌ایم
 📲
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/akhbarefori/660630" target="_blank">📅 01:06 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/akhbarefori/660630" target="_blank">📅 01:06 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660629">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">♦️
 بقایی: تصمیم داریم برای اطمینان از تردد ایمن کشتی‌ها تدابیری اتخاذ کنیم قاعدتا خدماتی ارائه خواهیم داد و هزینه‌اش دریافت خواهد شد
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/akhbarefori/660629" target="_blank">📅 01:05 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/akhbarefori/660629" target="_blank">📅 01:05 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660628">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">♦️
 بقایی: ما برای دهه‌ها نگهبان تنگه هرمز بودیم اما سواستفاده شد و ایران طبق حقوق بین‌الملل تدابیری اتخاذ کرد
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/akhbarefori/660628" target="_blank">📅 01:04 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/akhbarefori/660628" target="_blank">📅 01:04 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660627">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">♦️
 موشک‌های ایران فقط برای شلیک شدن هستند نه برای مذاکره
 بقایی، سخنگوی وزارت خارجه:
@@ -952,24 +1624,24 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/akhbarefori/660627" target="_blank">📅 01:01 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/akhbarefori/660627" target="_blank">📅 01:01 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660626">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">♦️
 بقایی، سخنگوی وزارت خارجه: قرار بود طی ۳۰ روز محاصره برداشته شود و متقابلاً ایران هم درباره تنگه هرمز این کار را انجام دهیم. اما بعد از تحولات مربوط به حمله رژیم صهیونیستی به ضاحیه و تهدیدات جدی که از سوی ایران انجام گرفت، مذاکرات فوری انجام گرفت و قرار شد آمریکا تعهداتش را فوری انجام دهد
 🔹
-در رصدی که انجام شد مشخص شد کشتی‌های ما بدون مشکلی وارد بنادر شدند و خارج شدند و این تعهد {آمریکا به رفع محاصره} شروع شد. تعهدات ما ‍بس از امضای این سند شروع خواهد شد.
+در رصدی که انجام شد مشخص شد کشتی‌های ما بدون هیچ مشکلی وارد بنادر شدند و خارج شدند و این تعهد {آمریکا به رفع محاصره} شروع شد. تعهدات ما پس از امضای این سند شروع خواهد شد.
 📲
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/akhbarefori/660626" target="_blank">📅 01:00 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/akhbarefori/660626" target="_blank">📅 01:00 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660625">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">♦️
 متن فارسی تفاهمنامه نیز به عنوان سند رسمی به امضای ایران و آمریکا رسیده است
 🔹
@@ -978,11 +1650,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/akhbarefori/660625" target="_blank">📅 00:58 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/akhbarefori/660625" target="_blank">📅 00:58 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660624">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jUIS4aPCK7HlgE1womJNvZZ6MdTOcnJfgBVf58khcYxTe0kHcQWzjE4BrreSasJFprrmbkbTSl-1wAcVXeQa8xBr-KAysR2dBnWFUp3Fp21jh_VRxiQuydrJr1kFQ2ncJexbic6i2ZVT6xqW1xfqydqEZJTfLylqlbiuV8yHiTdbA9Fh0CsY-ElRvT6_C6wXa-FRs5YrnH9XsVHBl1Uv7WFM8rPHBHwKHWv3z4_NdAYm84h6LVhYqtezkGuGKcY_504eZ_fL4sIaX_aKfOp0or3CJd7nQmgPWXWqdxRCbd8bHBGCr2MYcjoNCfXUErskplhyVb0-z-ncQcCSLFMvbw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 واشنگتن امضای تفاهم‌نامه با ایران را تایید کرد
@@ -992,24 +1664,24 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/akhbarefori/660624" target="_blank">📅 00:57 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/akhbarefori/660624" target="_blank">📅 00:57 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660623">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">♦️
 بقایی، سخنگوی وزارت خارجه: تصمیم حکیمانه جمهوری اسلامی این بود که در این مرحله درباره موضوع هسته‌ای مذاکره نکنیم. قرار شد تمرکز بر خاتمه جنگ باشد و این کار را انجام دادیم
 🔹
-از زمان اجرای تفاهمنامه، که الان است، ظرف ۶۰ روز درباره موضوع هسته‌ای و تحریم‌ها مذاکره کنیم. اگر زودتر هم مذاکره به نتیجه برسد، بهتر است. ولی با توجه به پیچیدگی موضوع، عدد 60 روز منطقی است  و اگر لازم باشد، این زمان تمدید می‌شود.
+از زمان اجرای تفاهمنامه، که الان است، ظرف ۶۰ روز درباره موضوع هسته‌ای و تحریم‌ها مذاکره کنیم. اگر زودتر هم مذاکره به نتیجه برسد، بهتر است. ولی با توجه به پیچیدگی موضوع، عدد ۶۰ روز منطقی است  و اگر لازم باشد، این زمان تمدید می‌شود.
 📲
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/akhbarefori/660623" target="_blank">📅 00:54 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/akhbarefori/660623" target="_blank">📅 00:54 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660622">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">🔹
 خبرهای داغ امروز را از دست ندهید
 🔹
@@ -1037,11 +1709,11 @@ khabarfoori.com/fa/tiny/news-3223828
 ویدئوهای جذاب ما را در وبسایت خبرفوری کلیک کنید
 🔹
 http://aparat.com/akhbar.fori/videos</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/akhbarefori/660622" target="_blank">📅 00:54 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/akhbarefori/660622" target="_blank">📅 00:54 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660618">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">♦️
 بقایی: تفاهمنامه ایران و آمریکا قرار شد که به صورت دیجیتال امضا شود
 🔹
@@ -1049,582 +1721,36 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/akhbarefori/660618" target="_blank">📅 00:51 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/akhbarefori/660618" target="_blank">📅 00:51 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660617">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">♦️
 بقایی، سخنگوی وزارت خارجه: کار ما پایان نیافته بلکه کار تازه آغاز شده است. هم باید مراقب اجرای آن توسط طرف مقابل باشیم. و هم درباره موضوع هسته‌ای و رفع تحریم‌ها مذاکره کنیم
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/akhbarefori/660617" target="_blank">📅 00:50 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/akhbarefori/660617" target="_blank">📅 00:50 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660616">
-<div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-text">بقایی، سخنگوی وزارت خارجه: اینکه در این مرحله یک توافق خاتمه جنگ را امضا کرده‌ایم به این معنا نیست که گذشته را فراموش کرده باشیم و درسهایی که به بهای گزاف آموخته‌ایم را از یاد برده باشیم.
+<div class="tg-post-header">📌 پیام #2</div>
+<div class="tg-text">♦️
+بقایی، سخنگوی وزارت خارجه: اینکه در این مرحله یک توافق خاتمه جنگ را امضا کرده‌ایم به این معنا نیست که گذشته را فراموش کرده باشیم و درسهایی که به بهای گزاف آموخته‌ایم را از یاد برده باشیم
 🔹
 الان کار ما سخت‌تر از قبل است؛ چون همیشه اجرای توافقهای بین المللی…</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/akhbarefori/660616" target="_blank">📅 00:49 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/akhbarefori/660616" target="_blank">📅 00:49 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-660615">
-<div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-text">بقایی: الان اگر متن را مرور کنیم خواهیم دید که چیز ناگفته‌ای را در این مدت نداشته‌ایم؛ همه موارد را کم و بیش بیان کرده‌ بودیم
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/akhbarefori/660615" target="_blank">📅 00:48 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660614">
-<div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-text">بقایی: الان اگر متن را مرور کنیم خواهیم دید که چیز ناگفته‌ای را در این مدت نداشته‌ایم؛ همه موارد را کم و بیش بیان کرده‌ بودیم
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/akhbarefori/660614" target="_blank">📅 00:47 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660613">
-<div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-text">♦️
-بقایی: تا این لحظه برنامه حضور تیم‌های مذاکره کننده در ژنو پابرجاست اما امضای تفاهمنامه به صورت دیجیتالی بوده و مراسم امضایی در سوئیس برگزار نخواهد شد
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/akhbarefori/660613" target="_blank">📅 00:46 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660611">
-<div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-text">♦️
-بقایی، سخنگوی وزارت خارجه: جمهوری اسلامی ایران نشان داد که دوستانش را در هیچ شرایطی تنها نمی‌گذارد. برای ما آتش بس و خاتمه جنگ در لبنان به اندازه ایران اهمیت داشت و دارد. در بند اول یادداشت تفاهم، سه بار نام لبنان آمده است. احترام به تمامیت سرزمینی و حاکمیت ملی لبنان آمده است.
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/akhbarefori/660611" target="_blank">📅 00:46 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660610">
-<div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/4fd6ca52db.mp4?token=Llqr8k4wrYKWAZl_68uPxhUNjn9vCMDtZibGJ-ZE8h-CmmTQeUpWGzccjvN-BJswk76FHb6Qe44PDhKp6gXymKq8VjyK1rOJk0fFjuYj0qRjjYhcZCKXt26q5OI45O3lav8u0En7HJ6pDOROwE6_seUBct5rA29b5bUQkNirU2BfKtrjsxphJZh40TD802gVmdRsvaf0b1mHWLQckrJwDx3vxIyaNmCU-LQnHIg_S3Ifgu6j9kR9dyd9P4MuhFzFAkpQOwUcDev8U1zdt-4ktuZ1YRujyNVKITJgy3XW0cszZ2OAl9pto9MjSoMKOVY2HfEfkCpegqlMgGOWG6LexA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/4fd6ca52db.mp4?token=Llqr8k4wrYKWAZl_68uPxhUNjn9vCMDtZibGJ-ZE8h-CmmTQeUpWGzccjvN-BJswk76FHb6Qe44PDhKp6gXymKq8VjyK1rOJk0fFjuYj0qRjjYhcZCKXt26q5OI45O3lav8u0En7HJ6pDOROwE6_seUBct5rA29b5bUQkNirU2BfKtrjsxphJZh40TD802gVmdRsvaf0b1mHWLQckrJwDx3vxIyaNmCU-LQnHIg_S3Ifgu6j9kR9dyd9P4MuhFzFAkpQOwUcDev8U1zdt-4ktuZ1YRujyNVKITJgy3XW0cszZ2OAl9pto9MjSoMKOVY2HfEfkCpegqlMgGOWG6LexA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">بقایی: همین الان که در حال صحبت هستیم متن توافق رسما به امضا رئیس جمهور های دو طرف رسیده است
-🔹
-قرار بود که بامداد روز ۲۸ خرداد ماه رئیس جمهور دو کشور این متن و توافق رو امضا کنند.
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/akhbarefori/660610" target="_blank">📅 00:46 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660609">
-<div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-text">♦️
-بقایی، سخنگوی وزارت خارجه درباره تفاهم نامه ایران و آمریکا: متن تفاهمنامه ایران و آمریکا الان رسماً نهایی شده است چرا که دو طرف آن را امضا کرده‌اند.
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/akhbarefori/660609" target="_blank">📅 00:45 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660608">
-<div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/10d1114b63.mp4?token=gKgX6juhCQac0eDPZ3QJ5MaOqKkf82WUMhmlFNMvOs2aOPivH9aULtt78yWMy2C5VHWcE-MehebUD-sEvcpmu2dQgURe9wLj8QSE5G1O14OFB20xCqUaCLNfgl4WLRcgvPk-u8SZLtMfKOC_CeeEonRj7Dnar6T4xqOkl2mqg-jhdM7lsijHOL1WNrLY3tK1s-x2-cKvy-PDdGqT6dSlkM6I85sZHpeTB9bu_o0vAa0ECtmDWfw7STk0NBjzcx2h0XHeAkNT38XJxSt9o910VvWnkbluirmgqCu2y5KXmvu7Tf2xkuqws97uH-Z7d6_GftzPSdBdZQOojxtuSOxNxg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/10d1114b63.mp4?token=gKgX6juhCQac0eDPZ3QJ5MaOqKkf82WUMhmlFNMvOs2aOPivH9aULtt78yWMy2C5VHWcE-MehebUD-sEvcpmu2dQgURe9wLj8QSE5G1O14OFB20xCqUaCLNfgl4WLRcgvPk-u8SZLtMfKOC_CeeEonRj7Dnar6T4xqOkl2mqg-jhdM7lsijHOL1WNrLY3tK1s-x2-cKvy-PDdGqT6dSlkM6I85sZHpeTB9bu_o0vAa0ECtmDWfw7STk0NBjzcx2h0XHeAkNT38XJxSt9o910VvWnkbluirmgqCu2y5KXmvu7Tf2xkuqws97uH-Z7d6_GftzPSdBdZQOojxtuSOxNxg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-گل سوم انگلیس به کرواسی توسط بلینگام
-🔹
-انگلیس ۳ - ۲ کرواسی
-🔹
-گراد؛ انتخاب نسلِ شیک پوش
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/akhbarefori/660608" target="_blank">📅 00:44 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660607">
-<div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-text">♦️
-داسیلوا: ترامپ در انتخابات برزیل دخالت نکند
-🔹
-رئیس جمهور برزیل در جریان یک کنفرانس مطبوعاتی در واکنش به اظهارات ترامپ که پیش‌تر برزیل را خطرناک و از نظر سیاسی ناخوشایند خوانده بود، گفت که از ترامپ می‌خواهم که در انتخابات برزیل دخالت نکند، همانطور که برزیل به دنبال دخالت در فرآیندهای انتخاباتی آمریکا نیست.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/akhbarefori/660607" target="_blank">📅 00:43 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660606">
-<div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/F2vsdU1ozQ29OSqM9Zgq75xVl7Unv6LZA9e85yVkg-Z0xpWGOsHasG6OM6Z8GFEWxlQia1rd2n2osiOCifFK0kfOr0EPLXaM6FO-mzhAOLK6GKwCmBY_PHTcUmmjQcwNazsdgrffwnPDMA4_Jgv1WqzvW820oZjy9z6NA4AtM4JZ-qbg1ZFPNtne7Vpcvm1TAgga1vmOI_wP62QVPtnvJBs_By_FFjAmNmjCieiNv2Yd7vobFX4P35JxCi4MYRhnTCzdQK65GMje2a4ADjASXobP6lfX14OFNiWB6e1HCQ8M127ch-pdHF2uQmZYbUKJEnNXgPAe3PlUChtkQMxUjQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">در
-#شب_سوم
-محرم، شبی که به نام نازدانه‌ی اباعبدالله، حضرت رقیه (س) گره خورده است
-✨
-امشب یادمان می‌آید که آسمان، جایگاه فرشته‌هایی است که زود پرواز کردند. به یاد شهیده  خردسال
-«آوینا برزگر»
-عزیز؛  باشیم که امروز او در میان پروانه‌ها، مهمان سفره‌ی حضرت رقیه (س) هست .
-🕊️
-@Heyate_gharar</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/akhbarefori/660606" target="_blank">📅 00:39 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660605">
-<div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/93ff0adc2d.mp4?token=d6haNlPYugQBop1ARXiXQiofyVB1bufM20uJFseiCDaO_XrdnEjCfnw0y10ppe36GeyaNUewEnSI06y42zufFSa7Y9_RXuj5N8G-bJ_eWgpqNpb3y4xFS2qPRQAgx4Tq7gL9ebUqp6cL8znPdgmP4zwcVkxM4ib_F1p-nwtiprN2UZE0Y_OBa-Tin22xwK0FxJyF4xfOeHbZOel_JAARRCSVAfjKLzHvE-kd4sSjCWSheoY_rDfVu4fj1m6OvCCciO7tigBppkBhDVP1vHIwiEPkb6ug1e__qrQotRy7_aqHAY2iXfbx7cHvyaAZd4IjXAnNTFgP3rGsIBwztep55w" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/93ff0adc2d.mp4?token=d6haNlPYugQBop1ARXiXQiofyVB1bufM20uJFseiCDaO_XrdnEjCfnw0y10ppe36GeyaNUewEnSI06y42zufFSa7Y9_RXuj5N8G-bJ_eWgpqNpb3y4xFS2qPRQAgx4Tq7gL9ebUqp6cL8znPdgmP4zwcVkxM4ib_F1p-nwtiprN2UZE0Y_OBa-Tin22xwK0FxJyF4xfOeHbZOel_JAARRCSVAfjKLzHvE-kd4sSjCWSheoY_rDfVu4fj1m6OvCCciO7tigBppkBhDVP1vHIwiEPkb6ug1e__qrQotRy7_aqHAY2iXfbx7cHvyaAZd4IjXAnNTFgP3rGsIBwztep55w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-محمدباقر قالیباف: خون‌خواهی رهبر شهید آزادی قدس است؛ ۱۰۰ نتانیاهو بند کفش امام شهید ما هم نمی‌شود
-📲
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/akhbarefori/660605" target="_blank">📅 00:29 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660604">
-<div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/acmgtQlKL7J49UA3kp7IzKrH_coIdLxr2VgJ7zkhcqkKAk51N_KbUQJgJx2zHWbTAjiRMh_DVF9Ty2VfOjC6T0Jj9Ar_719YDZ5aiQqJBT786hxwX_dU8LcF63WzQoI0hnk4d7AY2Zxry_oFQXapciE6XQiEWHrLaRadcLH2F4iu6oRpz9ECFD8GFNnIoKF_dtaYkqGoURvdzZpbzN3J_oWayA7TpWKmKp57jPOVXtEZ3dIDBZZuiVCuhJEI6W2LmdTMjhCz9x_fpFpjdXvb_T81Dk0D38K_9VMvEDle_5MyLKzgznpypY10IkWlvBq0sxEx_XXAe9dNcuZBgHVpUQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">♦️
-تصویری کمتر‌دیده‌شده از شهید سپهبد علی شادمانی در دیدار با فرمانده شهید کل قوا
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/akhbarefori/660604" target="_blank">📅 00:27 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660603">
-<div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/b4ed067d22.mp4?token=qxjWHvHn0pjALXU06sbaQzdqKuItuv-DxRk9O3FOxlWFNabkEaiey1Yo7yPYZyBUqvu1FnpnwSPwxVtfIu9UGAcboJH-kI-SC1uVOVXoyM4Dt63N8AXPoyPGhg_1xgoH6U38ueojo1PeAV0nftZTEg5h1I0jYyFsb6M2HEdhgoVJBkeUaim-PwHJLSKGPjhJ3Z78EEjkqg7NMYPYX53qPwjA5v3fATm_R_IyPKfiW5ZyOtbsX8THEt6Sb_2x_dRl-buCWUZ9nMPnuOdUbV6sNWOHl4ucqc1EpcVloCdYNpY-SeTIrv3LwqSJdUuouqJoT7WIROfMHX9GjOCCo5Uzsg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/b4ed067d22.mp4?token=qxjWHvHn0pjALXU06sbaQzdqKuItuv-DxRk9O3FOxlWFNabkEaiey1Yo7yPYZyBUqvu1FnpnwSPwxVtfIu9UGAcboJH-kI-SC1uVOVXoyM4Dt63N8AXPoyPGhg_1xgoH6U38ueojo1PeAV0nftZTEg5h1I0jYyFsb6M2HEdhgoVJBkeUaim-PwHJLSKGPjhJ3Z78EEjkqg7NMYPYX53qPwjA5v3fATm_R_IyPKfiW5ZyOtbsX8THEt6Sb_2x_dRl-buCWUZ9nMPnuOdUbV6sNWOHl4ucqc1EpcVloCdYNpY-SeTIrv3LwqSJdUuouqJoT7WIROfMHX9GjOCCo5Uzsg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-گل دوم کرواسی به انگلیس توسط موسی ۵+۴۵
-🔹
-انگلیس ۲ ــ ۲ کرواسی
-🔹
-گراد؛ انتخاب نسلِ شیک پوش
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/akhbarefori/660603" target="_blank">📅 00:23 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660602">
-<div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/28df5a9b7c.mp4?token=M4JjW_LnJOsGEeMCFEG8ToZqOp6C3WMwZxNJIlegeGbwaFGtSO6e6ICtb2vj7rig9v5S5SvVeqy8kGUZz6pPZbfHkpZbtKttYfzdKxafIXW_2fX7zx--7vobTFyKkP_-O2MQlYA1-I6UqRiVTuSr93NAIR7ge_QZPo7zoorxfnqRuP-a5Qv2qFLsu_uICEL6Yne9fCGSJesBS63FlLPhLgucDMFVSj8_PshGI5zUrMOG6uxRqH25uQl-uE1aP8EgV--k4UX4eG0BM4CyS8SCH_tls2Aic_WCEg5AAYR7EI-ZVJtzUvd1J8sFGN06GKr0xHs9CMkf9_UIoDWWMojY0DzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/28df5a9b7c.mp4?token=M4JjW_LnJOsGEeMCFEG8ToZqOp6C3WMwZxNJIlegeGbwaFGtSO6e6ICtb2vj7rig9v5S5SvVeqy8kGUZz6pPZbfHkpZbtKttYfzdKxafIXW_2fX7zx--7vobTFyKkP_-O2MQlYA1-I6UqRiVTuSr93NAIR7ge_QZPo7zoorxfnqRuP-a5Qv2qFLsu_uICEL6Yne9fCGSJesBS63FlLPhLgucDMFVSj8_PshGI5zUrMOG6uxRqH25uQl-uE1aP8EgV--k4UX4eG0BM4CyS8SCH_tls2Aic_WCEg5AAYR7EI-ZVJtzUvd1J8sFGN06GKr0xHs9CMkf9_UIoDWWMojY0DzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-ضربه سر زیبا، کین بار دیگر انگلیس را پیش انداخت
-🔹
-انگلیس ۲ - ۱ کرواسی
-🔹
-گراد؛ انتخاب نسلِ شیک پوش
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/akhbarefori/660602" target="_blank">📅 00:19 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660601">
-<div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-text">♦️
-روایت خلبانان جنگنده های F۵ ایران که پایگاه های امریکا در کویت را هدف قرار دادند
-🔹
-این‌قدر پایین پرواز می‌کردیم که از بین دو تا کشتی عبور کردیم؛ عرشه‌شان از ما بالاتر بود؛ یعنی ملوان‌ها از عرشه ما را نگاه می‌کرد
-🔹
-هواپیماهای کویتی به اشتباه سه جنگنده امریکایی را که قصد حمله به ایران را داشتند به جای ما مورد هدف قرار دادند
-🔹
-هیچ فیلم و عکسی نگرفتیم؛ اصلاً فکر نمی‌کردیم، برگردیم
-📲
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/akhbarefori/660601" target="_blank">📅 00:19 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660600">
-<div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromآمارفکت</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JvtjDYC1j9NRDT579odyqCgMC4FfCAxlKgzdam_JxWxvy_l2hr6rvleiOdIDk4HXCNALpgTf71MeDiYePG0Ap6dxxUgVygMdZahRecZ7zbOpDNpMGknZU4l7UO-txntPCFt5EHNhfijkOsqsU2IPn-dJfGNrkXuCtRFOdPTkR_vKuSvIRxiJugHLRs4xdauMdjgS2uP42MeXoByT8WgbXsO9A5Ycu90-q77LHOeK08bjmwg_yOiyKkZ_uW7hnvd_r47Wq8g6NXGYwQAmt--1zR0rOefQR2CHDBrFJ541M2PttKc4CgzD4K3ru0NtSifkdaNuG3yxC_GyM_TSjBacxQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">برتری سرمایه انسانی در ادراک عمومی
-🔸
-در این نظرسنجی بیش از ۴۱ هزار نفر شرکت کردند که سهم روبیکا حدود ۶۴٪، بله ۲۶٪ و تلگرام ۱۰٪ بوده است.
-🔸
-حدود دو سوم شرکت‌کنندگان مردم و سرمایه انسانی و حدود ۱۱٪ هم موقعیت ژئوپولیتیک را مهم‌ترین سرمایه ایران می‌دانند.
-🔸
-در نگاه عمومی، سرمایه انسانی و جایگاه ژئوپولیتیک مهم‌ترین دارایی‌های کشور تلقی می‌شوند و این برداشت بیشتر از تجربه زیسته مردم و ارزیابی عملی آن‌ها از ظرفیت‌های ملی شکل گرفته است.
-@amarfact</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/akhbarefori/660600" target="_blank">📅 00:17 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660599">
-<div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/fe26318adc.mp4?token=D-36qnPU7ep7VDqPjjlzxUyB8nOIci8PNCjKNvH0WPnYGZa-ILbhp_Fj1p7wUDlHRNE0i3-OvVnIJ7sfTKLinrlIoqi-o8Ooqv_pG39e6sJFcz1uc-s9ll6GFj6pfYbvlly_B5YTwLX2VAK4Ukf5hLEbj9JfK98a-PqSMztrLvrm-GGr88M1UUZG3kYYm7cAhMUFJidxHz9hTU-wPruN0DqGcVcHPZ1EY5Pu7DA1FMDrMpUzVGtq0_YckAdadar2iSHzobDpQZxDDQX8EtFboKcM_8KwPIyB27izXeHJU_M--h1GpXehXxe-Ol2NpWAL6Kjhsnl4KP4V0URUXde4D2plA06ukGTl-m25TTbr_G7cRjxf76Y5Ukck25zUs1AHjfZrjyZiqm8gGSFWUfMfuwMnzsj39aDZ0hCyAp8NzDaH5zM7w-OlvjmyZe7sPtr2mGMfXH5HNt7Dx_dwKw_kDOapQNZTdsVUB3HhnB2nXS-5BsfdzQPgImtnRB3hMimHd5s3eHOISN-FP3f2v7PX0Dv0L3PJBQAMK6ZEtexv8wKQH7gW7qzI8Wz9Al9m1z09eL14Wxfzl7Nnz1OducnA8DzzP5WnsPJ6wohqC9yUoy-UhAtjGzdGtm7jk-ZMhaFg3bOKpDkdlMQDY6aaeXU_UbTZgziZQbJA0S--sM9lsPo" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/fe26318adc.mp4?token=D-36qnPU7ep7VDqPjjlzxUyB8nOIci8PNCjKNvH0WPnYGZa-ILbhp_Fj1p7wUDlHRNE0i3-OvVnIJ7sfTKLinrlIoqi-o8Ooqv_pG39e6sJFcz1uc-s9ll6GFj6pfYbvlly_B5YTwLX2VAK4Ukf5hLEbj9JfK98a-PqSMztrLvrm-GGr88M1UUZG3kYYm7cAhMUFJidxHz9hTU-wPruN0DqGcVcHPZ1EY5Pu7DA1FMDrMpUzVGtq0_YckAdadar2iSHzobDpQZxDDQX8EtFboKcM_8KwPIyB27izXeHJU_M--h1GpXehXxe-Ol2NpWAL6Kjhsnl4KP4V0URUXde4D2plA06ukGTl-m25TTbr_G7cRjxf76Y5Ukck25zUs1AHjfZrjyZiqm8gGSFWUfMfuwMnzsj39aDZ0hCyAp8NzDaH5zM7w-OlvjmyZe7sPtr2mGMfXH5HNt7Dx_dwKw_kDOapQNZTdsVUB3HhnB2nXS-5BsfdzQPgImtnRB3hMimHd5s3eHOISN-FP3f2v7PX0Dv0L3PJBQAMK6ZEtexv8wKQH7gW7qzI8Wz9Al9m1z09eL14Wxfzl7Nnz1OducnA8DzzP5WnsPJ6wohqC9yUoy-UhAtjGzdGtm7jk-ZMhaFg3bOKpDkdlMQDY6aaeXU_UbTZgziZQbJA0S--sM9lsPo" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-قالیباف: انتقادات به‌جا و حتی برخی انتقادات نابه‌جای مردم نسبت به مذاکرات را به جان می‌خریم و از ملت تشکر می‌کنیم
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/akhbarefori/660599" target="_blank">📅 00:16 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660598">
-<div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-text">♦️
-قالیباف: پرداخت هزینه خدمات عبور از تنگه هرمز در تفاهم‌نامه تثبیت شده است
-🔹
-کشورهای ساحلی تنگه ها در قوانین بین المللی حقوق و وظایفی دارند از جمله این که دیگران باید هزینه خدمات شان را پرداخت کنند.
-🔹
-دشمنان ایران را خدا از احمق ها آفریده و باعث شدند ظرفیت…</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/akhbarefori/660598" target="_blank">📅 00:14 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660597">
-<div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/k6wpKc3HADIVdhhjD13PyeNIzp0CNRocCdYr8hvDsnry_fQLXUY5SrDpdbL3y6c6WIkuqy6DXzczwHSZv5oiuKWlvIZUCSRUGtmhx4pl8juBq2JtHtP1dWtEbJFXbi6AU_66LZZ056t-M40xLeKcmZTmlGpgO2SOVjhWeQZBR3ni4obelR8KYVD0Cw9TtnkoXqrsy-oNQWWwGfdGSm1R5UWHAS_62C3oF3Ndhzx9YzMGSdYgljneIl4n-nEBmQPN8HnBJOxpwzgLOTuMfVztmGRPX9S4wlLi3prGy6_Y2bR8-A2PjAc5ENdXfUfSNcvC4KhxnQAuJ4XjaYD-PD6CpQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">♦️
-آیا استفاده از مایکروویو برای سلامتی مضر است؟
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/akhbarefori/660597" target="_blank">📅 00:10 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660596">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/adf4812f88.mp4?token=cwj0IuKEOq-BCT4g8L-UNtL7SP3tBIVEkF_Asoq1iNgEGP3fewjW0hwfUq6K1tf-liLqoEHcyPD-AesmN1M3asdxdbhNEX3XsMxCTgquehbkV4VOHE6K3vr8MmJbAWU2RVvrsMYkmqaYDxpqUddfe_vXM-wbOVZ0t_b4_RgSL_HERaI2erzYE0R7D5L0r6Q5BVvv3fXa4GT0QwCarGB_X6BvwmASAXoEn9uYwXwP7HKzGAiUGR_Z367QP_z_QeYNtqYYT9fCpHiWButM1k7H3jhlq9lhxmar0e-luDpcU_ma6ybVNUa2cK7xuKb_JGvPStqwq7G4LgV05bnP1xYBBw" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/adf4812f88.mp4?token=cwj0IuKEOq-BCT4g8L-UNtL7SP3tBIVEkF_Asoq1iNgEGP3fewjW0hwfUq6K1tf-liLqoEHcyPD-AesmN1M3asdxdbhNEX3XsMxCTgquehbkV4VOHE6K3vr8MmJbAWU2RVvrsMYkmqaYDxpqUddfe_vXM-wbOVZ0t_b4_RgSL_HERaI2erzYE0R7D5L0r6Q5BVvv3fXa4GT0QwCarGB_X6BvwmASAXoEn9uYwXwP7HKzGAiUGR_Z367QP_z_QeYNtqYYT9fCpHiWButM1k7H3jhlq9lhxmar0e-luDpcU_ma6ybVNUa2cK7xuKb_JGvPStqwq7G4LgV05bnP1xYBBw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-سوپر گل مارتین باتورینا به انگلیس در دقیقه ۳۶
-🔹
-گراد؛ انتخاب نسلِ شیک پوش
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/akhbarefori/660596" target="_blank">📅 00:10 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660595">
-<div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TtoBBmx0nDet6jr9jHWJ3WbeCCioTR9FtbRJWEvvXlybeA2GPjX_xUbORerWa7FEtwO5FWQ2W7kdRtJ2t_K9Q3dn58Rpz-zjKshNRoGO3T2wkc5zCfH9_ikWFuiGzbevTHIpGjze8qRDClnMcWjMXrI5ffOlXdCv8thFUKtP-l4Pnp4NVEWtH3PNZsK-mERTqRKvrlx1GQOux1xc_y7Ol_OrQhLDTl6WRFQ-ixld1-Vxp4C82LZkWIMjNV4bRe5W4opjawIUzyKrLMfvbJdDyir66SZ0Sb5E3_IrMuDQKlit54h3zhwx3SJKnwFg6P0fbl-SVHkhy9DK_5FcgjMaMQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">♦️
-حمله صهیونیست‌ها به جنوب لبنان با بمب‌های فسفری
-🔹
-رسانه‌های لبنانی گزارش دادند که ارتش رژیم صهیونیستی به شدت ارتفاعات علی الطاهر مشرف به شهر النبطیه را با گلوله‌های توپخانه و بمب‌های فسفری آماج حملات وحشیانه خود قرار داده‌اند.
-📲
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/akhbarefori/660595" target="_blank">📅 00:08 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660594">
-<div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/58a21e6cec.mp4?token=Sof23oDFZDnFDJ27FN1Mxehmmj6YJK7yWnFtCdOLu4S9BIB3SFCj1XSqGHhPXWmLbaFzRTk3Ty0nP0g3U3hSclncuOJkEGN0SVY8pAAUN6lVAmf0BkxkPKb5A-tlSA2Yi_p4vzsCZdz3SVEvJaW18Q7-cZvXCAR8EDopl_tI2wps8SrPdtNpkDZtQe0hPeBGb06A71mEamxO2hUlV-EuibGyM7FEsAk0rhe-RSWx3_-JTlQMk0WB4k4hBcu5Z_UuckiQFEzcTIHykyPnsbRIM_0ngW9JFvJM7fJPJxiHKKi8UGqo9ZiOp1GgtW5TAEVGtYpyxc8HX0uGXxXrU4kf4g" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/58a21e6cec.mp4?token=Sof23oDFZDnFDJ27FN1Mxehmmj6YJK7yWnFtCdOLu4S9BIB3SFCj1XSqGHhPXWmLbaFzRTk3Ty0nP0g3U3hSclncuOJkEGN0SVY8pAAUN6lVAmf0BkxkPKb5A-tlSA2Yi_p4vzsCZdz3SVEvJaW18Q7-cZvXCAR8EDopl_tI2wps8SrPdtNpkDZtQe0hPeBGb06A71mEamxO2hUlV-EuibGyM7FEsAk0rhe-RSWx3_-JTlQMk0WB4k4hBcu5Z_UuckiQFEzcTIHykyPnsbRIM_0ngW9JFvJM7fJPJxiHKKi8UGqo9ZiOp1GgtW5TAEVGtYpyxc8HX0uGXxXrU4kf4g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-ویدیو وایرال شده از یه ربات انسان نما چینی که کنار خیابونا میشینه و از مردم پولِ کمک جمع میکنه
-📲
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/akhbarefori/660594" target="_blank">📅 00:08 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660593">
-<div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/85d797efbe.mp4?token=h5iAEkgDZXbsJ2diO_3Fj4MTtInhFUx8HjP2gMbxXW3AsKMTQH4qDX_gAGssUSja9ieeq3nL_oLAm2z0Lj1daREcgN8hXQKrWlLzHu1PKPETvK9bqjLpMMI2-49_Crusy2H1YEUm8xtJx6tW7lr0SEAwE0FeXMtF6209rHsVO7n8rXbLfLKETZx8db4oCaMKANyrhTcx_SggmQszRLnMHqwK_AFwYvoRbkcpPvpUcPk3TFZcxbWo4qYwIQvBbYOlCSdMqAIqqsggl5BLiqsBUuUEjUJNEg5fpmdYkXydCPaseVCvglomd-XE5R2CZlsgx-kIzJIAJ2uGfRGeSWtC9Q" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/85d797efbe.mp4?token=h5iAEkgDZXbsJ2diO_3Fj4MTtInhFUx8HjP2gMbxXW3AsKMTQH4qDX_gAGssUSja9ieeq3nL_oLAm2z0Lj1daREcgN8hXQKrWlLzHu1PKPETvK9bqjLpMMI2-49_Crusy2H1YEUm8xtJx6tW7lr0SEAwE0FeXMtF6209rHsVO7n8rXbLfLKETZx8db4oCaMKANyrhTcx_SggmQszRLnMHqwK_AFwYvoRbkcpPvpUcPk3TFZcxbWo4qYwIQvBbYOlCSdMqAIqqsggl5BLiqsBUuUEjUJNEg5fpmdYkXydCPaseVCvglomd-XE5R2CZlsgx-kIzJIAJ2uGfRGeSWtC9Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-قالیباف: هرجا دشمن به تعهداتی که داده عمل نکند شمشیر ما موجود است و با منطق قدرت به او خواهیم فهماند
-🔹
-من دیپلمات نیستم اما خوب بلد هستم به آمریکا تفهیم کنم که باید چه کار کند.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/akhbarefori/660593" target="_blank">📅 00:06 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660592">
-<div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-text">♦️
-قالیباف: مدیریت تنگه هرمز را براساس قوانین بین‌المللی پیش می‌بریم
-🔹
-براساس این قوانین ما حق داریم هزینۀ خدمات در تنگه هرمز را دریافت کنیم.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/akhbarefori/660592" target="_blank">📅 00:04 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660585">
-<div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/b75MqjNyKmz7_sx-qJgS1rRIuLroGy61H8yvMA8YomQwDnZ33Cqi-p9fssh5ZM3pUbgmUiUU7ZNjOq4BebaXx0PLWPoEsQ3AVDCJsbSKjmuXbbn2OTBdpVKy6F6VawFEP3e5SW-T006WSNsty9ziGW--TbvjOPmKIrGBXJb5nOd03fWX-_yUvOiY7ODTKDSbAce6CFtRCB-1iYMV5YI3LCCb9EtI8QI-JUc6Lkw5zLJjrN4wCGwKKNJFRwKZYrrI6ae5cg1FW05HB4J3LrojK7U1A72K4tDNv-Ob_OzaBOWNePMTeajmhlVAoijYK2gxeBpVGNu7Hgo9n9l2OX_L9Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/IaoMGNB9BFuXyjkP_9XDEXD4unWTFOYcAnElkiT0s-uZBCMBjgKBlML5kyz4AwbGVBprG01vhtYsm5U2pjgfPUJpSasNZn3aLntur57Buw3a7B_z1xTaebpny2J109SG4yQfXuNZDPhyBfEG8S3yufVIMvPSqZvw8CJYRXp2JVRbl6dX0ufkNk0XJ4wY5gptZgejl7fA9ejZ8TIqj4X5IiKq4DNVGZoMNOeY_d7GtHFO5cUngX1DslTy8D45bdM4R73nM6IwmLWuADVLiSHfYsdYOrTYeEAtgmSMvWVDXXnRrIQrolmefskIYIqLC1JjtFO_A9w_4eTtQ9y68hyyYQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/U4TxoNMIFJxNvP_rN1PWJfOA3HuIbtMyzNwRMxrDFFX_Wi01N6NybhXfT__NS1heAA0l4cf7VM2ZIC5pdDtXAUP9v47aS6BZDCsYwFbEAq1oJ4RozB5QkcFVVYr4-6zbWVt2qFRAGVUuYyVGUcIvHgVOKvPL3Vxdg8bv6O6d0_xsCLMzhLq3-fTrh01wHAQZBJtzn-1mmzdgrwJ84_ByH3idr-l44A2trHHXhzTlaNRt6bdu2g1E34lW-X4gcEQptomiid0SttUk90FmF0vsfr8dsjli3M4uLHp4lge36X3WdN3ZLuqvfscccjfWdGNv3GIWcVW0f1Li5Ls1zQ3PjA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/GnF5RplNBGjev_EXqh55jWOl2zzh4tGNRhCVLvw4Js7_IfcZHCEw3SFDgYaNutXkiQ0QvPyECHrX7eUhhGbd87B1Df6dlScXmzXgF_bAOgjhmJoWC6aRaG4q3raLnlBYUPcf5FUVzIMEKQ-OvTjje79SG9ifuM8HKqym18qhvvCj8puq3mc775jlCcC22cyqX020Kmdx7A2CRp8PKchfMTZzM6Sga6LCfaNleLLEIEEfngt_eSSAZA_inDhcsytDpiKFcQh7AGCvxyT-6k44oNDYAuY_aVZPsUWdeYe9-lgg5YfZ3Z61irQGLvNPElsEqZy9pCgX5-VwVgvLVtDU9A.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/k45Hw89sDYYvPZJ4zFlokw1JRkfQePoYcmomJSfKfq32ouVZcOrr90rMzhp2PoGhsWv5vTUn3e5NpqVlMS2ZDuasvBkLpJlri-2wmrJEvyzlTd4Yrv-wijgKlFrKyax2pOwpXCFi4SmxDtOSiGSHuGEIuc4XVfJetH_yTzkz_DkujLDkFgZ1QKm8ozbJzSb2ct5orVDj20a5YHAoQRckOAGpzVPaXfEriigiAHc41e1uolNOhnk1TaSoH7NVstOok8Gkay54bPJ0bbjcUEe-4iz9T_fJWLcmXbBBKWjbjJnLryLVQKgleR2jgiUSZifTMvSIcGtyOB2MsREExSMcMA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/SudorTki_IB6JVrWffzuvKT4ztJknQhhDaDGZonFjLHVCrX3sfen2K9gTyQn-lYPXvzVFLf4VPNFuaw1L6Nd9CB2ksd0rmEB-95m7rSVbTDoVz_FKcVvXa-ob_rzcpmPPhttHOY8KnSm-EBYDBIvL4vF-MtVRtsjovPvDPTMRX_WjSqnBClbV8cATEI9lhjxVMNMrzlDIw9Afn89tRNoINuDKkZ2VwalKItAndYYlgjF2-HhDFhaaOSVKQU7oZI4pxE24nFYxAZjXsLFEt8WLJ5KiBWFanq4FqTJeTt0J9AsAGge8udAQIykG9m5_39oZuK8KNipq3yy8bPz1MH0Ag.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/QwZyBF0Y88T5VSO60tOjCHVcTud6LYRP9rLcLNfYXC8WZh7O9fJgAzVcGwsDw5jbAcE7taV3NtOWRMBwB_yQiES-gj1wUE-l-SAX7iuTLkQaseqqE1QryskBY3We5p8VlZ1EVSUzVBnc9UvZG00sYoIbdnW7gPIcLEm1Wv5cho2FsnF0llCPsFA5n2NrFSn6rc0lLqeVsdGnrKa8VRiSqidDh4trjExeABGjKy3y_wtQa5NyzbbyfFcUPfwo6KaKH4ePfvaFp9TAAR4Z0zZjjVs7VCxDm5bVa9Flmmtm8uxV-6DWSZf3Kjg5MR2oBCmMldibGDRTXh0vfgdGNJKNOw.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">♦️
-ویژگی ها و احساساتی که در ابتدای عاشق شدن به وجود میاد
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/akhbarefori/660585" target="_blank">📅 00:04 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660584">
-<div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromخبرفوری</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/v2_s0YlZei4sC920G--1hi7tPIAmhGQQFcMkGGgZlHZEpay1ce9soXHR1h3pe5FhzwP5anZJwnzAPYR44oxuBgnLRv5z7SfWx0WB33Dut0-4FV9VJpj161fRlcFn0_wiIPR5TqwSq-RFLn7Kd2skanP7HCVq5pYna1mI6VwvDFmskHSz6hvSgLGJ80rGwbd_Lko8vrmC6ZVe_jSe5cYinh40nIruuQALTgaIbizq4KCe-Z8KZ1RDRFlSSndr7990zXuUob8Fmf5c0p55EevigV3W1UZYESPTONAuaKyl8tX2MHMAXGKyHDPZia-H41jnIWCDHdW6GH-PQC5bdoDyRw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">♦️
-با هم دعای فرج را برای سلامتی و فرج آقا امام زمان(عج) می‌خوانیم
-🔹
-با قرائت دعای فرج به این جمع میلیونی بپیوندیم
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/akhbarefori/660584" target="_blank">📅 00:00 · 28 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660583">
-<div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-text">تا ده‌ها ساعت تو مسیر بودند تا با اتوبوس و ماشین و شناور به محل کارشون برسند و بعضا تا سه هفته هم امکان برگشت به خونه نداشتند. بدون تعطیلی و بدون استراحت.
-این فقط بخشی از جنگ و پشت صحنه‌ی تولید پایدار گاز در پارس جنوبیه...
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/akhbarefori/660583" target="_blank">📅 23:59 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660582">
-<div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-text">♦️
-قالیباف: بازهم تاکید می‌کنم که تنگه هرمز هرگز به شرایط قبل بازنمی‌گردد
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/akhbarefori/660582" target="_blank">📅 23:49 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660581">
-<div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-text">♦️
-قالیباف: ما دستمان روی ماشه است و اگر دشمن زبان منطق را نفهمد دوباره با زبان قدرت وارد می‌شویم
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/akhbarefori/660581" target="_blank">📅 23:49 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660580">
-<div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-text">♦️
-قالیباف: اکنون براساس تفاهم‌نامه، باید ابتدا بندهای ۴، ۵، ۱۰ و ۱۱ و اکنون تأکید می‌کنم بند ۱ نیز در اولویت اجرا قرار گیرد تا پس از آن وارد سایر بندهای تفاهم‌نامه شویم
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/akhbarefori/660580" target="_blank">📅 23:49 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660579">
-<div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-text">♦️
-قالیباف: قبل از مذاکرات اسلام آباد اعلام کردیم موضوع لبنان و آزادسازی پول های بلوکه شده باید محور مذاکرات باشد
-🔹
-ما چیزی به عنوان پیش‌شرط نداشتیم، هرچند ممکن است خواسته‌هایی داشته باشیم. البته به میانجی گفته بودیم که بحث آتش‌بس لبنان و آزادسازی پول‌های بلوکه‌شده،…</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/akhbarefori/660579" target="_blank">📅 23:46 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660578">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-text">♦️
-توضیحات قالیباف در مورد فرآیند مذاکرات اسلام آباد
-🔹
-طی ۲۴ ساعت ۳ دور مذاکرات با متن و ۳ دور مذاکرات سه جانبه با حضور میانجی برگزار شد.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/akhbarefori/660578" target="_blank">📅 23:45 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660577">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e223f9d98c.mp4?token=kZzsZA3-bKLZuAhrILV0JoHMeP_aLh0zRg8pJ1zNbZkcxpSfNJWoW6HoiPSTIYeSKj1zWQ9xTyZXWoaT-ZxVIzxtDt43b0goLpInbMZUuSQHvkW9LHqeTSRCGVL1t0XObVoA7docUrtD-JZrk84DkTd5vw8ODzlwvjPrmJI6K0lR8Izg6WQau_Njbw1qzREoszgkyeNSTkkjhIj3-6X4k5QRYR9fjHgXNdA5EYGoJ8BGvVeHr5qqoC0s6_DmnE6L6AZIB7fdo_FAHHFX4NDNYEfNWsfu0noDCOSY5290uI1HKwX7qqGPntyM50-2Wqo7ee_buAKPrsryLvhmMJzO3A" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/e223f9d98c.mp4?token=kZzsZA3-bKLZuAhrILV0JoHMeP_aLh0zRg8pJ1zNbZkcxpSfNJWoW6HoiPSTIYeSKj1zWQ9xTyZXWoaT-ZxVIzxtDt43b0goLpInbMZUuSQHvkW9LHqeTSRCGVL1t0XObVoA7docUrtD-JZrk84DkTd5vw8ODzlwvjPrmJI6K0lR8Izg6WQau_Njbw1qzREoszgkyeNSTkkjhIj3-6X4k5QRYR9fjHgXNdA5EYGoJ8BGvVeHr5qqoC0s6_DmnE6L6AZIB7fdo_FAHHFX4NDNYEfNWsfu0noDCOSY5290uI1HKwX7qqGPntyM50-2Wqo7ee_buAKPrsryLvhmMJzO3A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">گل اول انگلیس به کرواسی/ هری کین با تکرار پنالتی گل زد
-🤩
-🤩
-🤩
-🤩
-🤩
-🔹
-گراد؛ انتخاب نسلِ شیک پوش
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/akhbarefori/660577" target="_blank">📅 23:45 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660576">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-text">♦️
-قالیباف: من برای پذیرش حضور در تیم مذاکره‌کننده کراهت داشتم
-🔹
-من نه تنها داوطلب حضور در تیم مذاکره کننده نبودم بلکه کراهت هم داشتم و قبل از پذیرش مسئولیت مذاکرات من تمام تلاشم را کردم که این مسئولیت به من سپرده نشود.
-🔹
-یکی از دلایل من برای عدم پذیرش این…</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/akhbarefori/660576" target="_blank">📅 23:43 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660575">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-text">♦️
-قالیباف: در طول جنگ نمایندگان چند کشور اروپایی به ایران آمدند تا از ما خواهش کنند
-🔹
-همان کشورهای اروپایی که سپاه را در لیست تروریستی گذاشته بودند از مسیرهای زمینی به سختی به ایران آمدند تا با ما صحبت کنند.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/akhbarefori/660575" target="_blank">📅 23:37 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660574">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-text">♦️
-قالیباف: مهم‌ترین ضمانت برای تفاهم فقط قدرت ماست وگرنه دشمن قابل‌اعتماد نیست
-🔹
-ترامپ قطعنامه‌ رسمی سازمان ملل را جلوی چشمان همه پاره کرده پس به هیچ وجه قابل‌اعتماد نیست.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/akhbarefori/660574" target="_blank">📅 23:34 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660573">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-text">♦️
-قالیباف: من به‌عنوان خدمت‌گزار مردم به ملت عزیز می‌گویم که پس‌از پایان بحث مذاکرات و امضای تفاهم، اولویت ما میدان خدمت به مردم است
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/akhbarefori/660573" target="_blank">📅 23:32 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660567">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/UTukM1FsteWwkPdKaezb6U_Kloxfa8vYPianomRpaifnuaWK9bOqCGC-9s9unJ1SuOohJ0Ktuo3D_3wmtnnOrTq3RzWESTEiAL9l0G_fde48dG77LUc-jK0AMOKjz3HN9V2gTsdorXEjUiNpzRvPac_mTXk_pikN7io-XeTUfb3aY-lA9phLvQOYB6bB1QQlt8XRqGn5v9tW1O4QDmh0MlEuuSxIto_paNaX5Fw1_a0O1zcHYuE8tli5Upe0DN5JxIiZ3_In-NkxRxnS5MHY61pHgLrpVw0GOqajsKL9y-7DcUbCgxERHzQrUmS3uEiq_SMRwqPQZRSsjSXLE9uDQQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/W1wu4fAfLYYXBzaUf6T2bmsyL64lBBgSJp4RI8I8Oy17115K19E_VamI5cJgTMAezg1NRBf_2kMLqlahMVQyT1y3D-osxoQHEiyHw26rBBXDG0ENkd0DiAZcF6-097gxeO-3_uCrU2d2-fkyfVNZqrvrqwZ4mQ63Edtc8DLu5Q9Ejf73NJ_V76VFB5ZfnUgBrBP-AabqPTJtV-r9wGohy4zMRrpBrhHrBKvdJ1O_AiifLG56urP8GIdvxzLYD6goW8RYTOuxGRT3wG5mdm_omxVbhK5ijwgx-ntXFXyNrOPUF2YaN3dzlEe47IJL4BATdKGQBCv3nxiCecmrGns_YQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/pIgrwNHrsh4s80YuUmNixeUAn-RZ95G3nplKvMwsZhecpQVbnENZf2Ywv4mS76QlEDI86Rsj32LRv0OkvxtiBZpSTPuAyNdcALADuR8-4jGUSzWMgBKtbz1hL50XR3c1PMD8J2kRa0KBTj0yLzV4cs9cYDTkPT4DiRKlv7gacTar-o7xX17Hhjobwd99mZz6_0avnaaZvFlo-E0RoVKYP_sKYHa9mqpDepRpYYOYRzyCAY0WQeA63UPWuX36nHcUtBl0052K9L57Wea-bEScR5BKUPNa2G6KHuVfB9y7NiWY2cJXB0StUqnaZPWaRmPj5c3C9Kz5JkrW4VRRKP3PBA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/QmipZ0kEIWX10QNmG-ap_JUbUm-J7oseXit8qUzOgt2HMJ102dQBcAkV4se7XMOw5H7qadhBgGAek-nf2lQRBdVMoMCskviA-UyAiuJkbCF7la6t0aIoVlAc3ntOwAfMT5etiA54uAik-_QIPBQoRWBY3TgRB6T0amjH9fRZqoAGpACWijHYSyuagzftJlGG-bNf83iRYW9FTau2d-E0_8ruGZ9ky8Gzgk69e526IVk0EJJb8cS2BxydgRJriD7xRe8S1DyD3bUDTF_Fez7q5reqWvy5upO88iZl9R1ej578uSrjYCXj05dgBVGA4w1_SxQ8XUMoD6wZKkMmRkMwsA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TB01v05C2HRGtf-vHc5IriSuJYArOV_rbY7qGMlrwDrZ91VrqVaeKrdQkKlj-5ZDutKCgjns9bfZZCAo7pQVYYjIZAnFnijoZD0EHbrSHPqcD7JoPM8-DQRznEZuAqflBtJIWE7Kkpk9bgEHjUeyl7gwGzbWEvXNdrL_6sd22w51Pz3mWDDeZuTA5GQKGjyACAGqdm7Li4hmsiavDOv8pJwPhbXlJjlqgd5NYrfBH-_dVe819P-7VBTHTuD8fxl8fS3xdpEG-mKVjDKzf3n5MGmwIxMvyw3TdXbpZvVG-pD-Neb2z1jTmxieqUaCgTZ_9_49fNXHuVjAxU4JoeFo2g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/B6H3mvQKWXseJqo4Q3GGBguBq4ZYdqD4SYroA5QVTp6d4VB0Xssh_R7p6gkK6F0ZtppaoJvGXOxp2DiPZCXKP93lJN04DPAbULHGeqTKb7FUVo2mX6Jm-pUKWwh_U8k2_OaOObkskT2ILFC79mOLJziUDIEXLMuZ0wdMjzZtT4EodnxV1Kxie6nEYQDSTvpN4-REfjuBZE3jIQDYUd1E0qnWDiRWWpT2QGPTp39O6pYqy2CLhUHrkLHtZv7hzJ3lh1dJG5tuZk1BY-3Cw3yY63kE6weBEf6RTOlaXqYh3FrZie5pUt4qkJjTj37ozE32arhX6z4w0UkQ-Eb0IfBaCg.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">ماکان، پسر جاودانه ایران بر شانه‌ی قهرمانان
-🔹
-همزمان با آغاز رقابت‌های جام جهانی و با حضور تیم ملی فوتبال ایران، پویش «ماکان کجاست؟» بر تابلوهای تبلیغی پایتخت اجرا شده است.
-🔹
-پویش«ماکان کجاست؟» با شعار «بر شانه قهرمانان ماست» تلاش می‌کند مفهوم قهرمانی را فراتر از میدان نبرد و زمین مسابقه تعریف کند. قهرمان، می‌تواند کودکی باشد که فرصت رسیدن به رویای خود را پیدا نکرد، اما یاد او در خاطر همه قهرمانان ایران است.
-سازمان زیباسازی شهر تهران تلاش دارد یاد و نام «ماکان نصیری» و ۱۶۸ دانش آموز مظلوم مینابی را که در پی حمله موشکی رژیم صهیونیستی و آمریکا به مدرسه شجره طیبه به شهادت رسیدند، در حافظه جمعی جامعه زنده نگه دارد.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/akhbarefori/660567" target="_blank">📅 23:31 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660566">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-text">♦️
-قالیباف: قرار بود آمریکا محاصره را ظرف ۳۰ روز بردارد اما ترامپ گفت همین امشب محاصره را برمی‌داریم
-🔹
-اگر مذاکره نبود این موضوع اتفاق نمی‌افتاد و اگر موشک نبود حرف‌های من پای میز مذاکره بلوف و خالی‌بندی تلقی می‌شد.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/akhbarefori/660566" target="_blank">📅 23:26 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660565">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">♦️
-چرا ایران در روز آخر مذاکره حمله به اراضی اشغالی را متوقف کرد؟   قالیباف:
-🔹
-ما هر آنچه که می‌خواستیم با حمله بگیریم را چندین برابرش را با مذاکره گرفتیم. ساعت ۲ صبح ترامپ آتش‌بس را در کل لبنان داد و با آن ادبیات با نتانیاهو صحبت کرد.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/akhbarefori/660565" target="_blank">📅 23:23 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660564">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-text">♦️
-قالیباف: فرق مذاکرات الان با دوره‌های قبل در این است که امروز علمِ پیروزیِ میدان، پشتوانه مذاکرات است
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/akhbarefori/660564" target="_blank">📅 23:23 · 27 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-660563">
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">♦️
-قالیباف: وقتی خواستیم در جواب حمله به ضاحیه به اراضی اشغالی موشک بزنیم طرف مقابل گفت که نزنید، ما گفتیم حتما می‌زنیم و اگر پاسخ بدهید منطقه را می‌زنیم؛ این فرهنگ غالب بر مذاکرهٔ ما بود
+بقایی: الان اگر متن را مرور کنیم خواهیم دید که چیز ناگفته‌ای را در این مدت نداشته‌ایم؛ همه موارد را کم و بیش بیان کرده‌ بودیم
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/akhbarefori/660563" target="_blank">📅 23:22 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/akhbarefori/660615" target="_blank">📅 00:48 · 28 Khordad 1405</a></div>
 </div>
 
 <hr>
