@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/h8btISsDn1lLBnJInvFEzvG-MizRLxLn-DJYNzR6lCIq1SJ_Gogt9hoksvToT_jpF10XBgH6ZcekQph0q0T6hq5bHDDC_PupLi2N8DlxkBd5gIkBdPgARpBejZJVTFlSgUcib0MEnvPfCNfs1H_qOgKtoxcIckseYIJ6n_H6X8bMLBe-WWeVmbFH9v-8qqmxnOAphMKBMUKvO10JA8x2k9GwJ4u5TYQV8NEe-QiWKY8tK77yusrURvSeh7e-ASoCaIENI4CcP01f9s5NB_A3MpyBwsfyfRcMh3WvuWaCUyb_hxSmpWomh6JqEmlHTVAmTtpLAXvK8GqNPLTRDBvmgw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 Persiana Soccer</h1>
-<p>@persiana_Soccer • 👥 311K عضو</p>
+<p>@persiana_Soccer • 👥 310K عضو</p>
 <a href="https://t.me/persiana_Soccer" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پرشیانا ساکر دریچه‌ای تازه از اخبار محرمانه و داغ فوتبال ایران و پوشش اخبار اختصاصی نقل و انتقالاتهماهنگی و رزرو تبلیغات:@ads_Persianaaپیج اینستاگرام:Instagram.com/Persiana_Soccer</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-29 03:39:11</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-29 09:01:53</div>
 <hr>
 
 <div class="tg-post" id="msg-23808">
@@ -302,7 +302,7 @@
 مارکا درخبری‌فوری: باشگاه رئال‌مادرید میخواد بزودی پیشنهاد220میلیون‌یورویی برای جذب مایکل اولیسه برای بایرن مونیخ بفرسته. با جذب اولیسه و انزو فرناندز پرونده کهکشانی‌ها بسته میشه.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 8.08K · <a href="https://t.me/persiana_Soccer/23808" target="_blank">📅 02:38 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/persiana_Soccer/23808" target="_blank">📅 02:38 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23807">
@@ -318,7 +318,7 @@
 تیکه‌های‌سنگین حنیف عمران زاده به قیاسی که سانسور شد: امیرحسین پا میشم میام پارت میکنم.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/persiana_Soccer/23807" target="_blank">📅 01:50 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/persiana_Soccer/23807" target="_blank">📅 01:50 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23805">
@@ -330,7 +330,7 @@
 🔵
 ‌
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/persiana_Soccer/23805" target="_blank">📅 01:19 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/persiana_Soccer/23805" target="_blank">📅 01:19 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23804">
@@ -341,7 +341,7 @@
 برتری کلمبیا با درخشش لوئیز دیاز و پیروزی‌قاطع‌یاران‌ژاکا درجدال با بوسنی
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/persiana_Soccer/23804" target="_blank">📅 01:19 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/persiana_Soccer/23804" target="_blank">📅 01:19 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23803">
@@ -358,7 +358,7 @@ e28
 👇
 https://t.me/+QMjHLL65ocsxYzRk
 https://t.me/+QMjHLL65ocsxYzRk</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/persiana_Soccer/23803" target="_blank">📅 01:19 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/persiana_Soccer/23803" target="_blank">📅 01:19 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23802">
@@ -374,7 +374,7 @@ https://t.me/+QMjHLL65ocsxYzRk</div>
 آرزوی‌جالب‌خانمی ۱۰۴ ساله که‌تک‌تک جام جهانی‌ ها را دیده؛ برای تماشای لئو مسی، چهره‌ای که خیلی جوان‌پسند نیست! همه را دیدم و مسی بهترین بود.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/persiana_Soccer/23802" target="_blank">📅 01:06 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/persiana_Soccer/23802" target="_blank">📅 01:06 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23801">
@@ -383,7 +383,7 @@ https://t.me/+QMjHLL65ocsxYzRk</div>
 نتیجه دوبازی هفته‌دوم‌جام‌جهانی؛ تساوی چک و آفریقای جنوبی در گروه یک و اولین برد تیم سوئیس با آتش بازی مقابل یاران ژکو!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/persiana_Soccer/23801" target="_blank">📅 00:52 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/persiana_Soccer/23801" target="_blank">📅 00:52 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23799">
@@ -397,7 +397,7 @@ https://t.me/+QMjHLL65ocsxYzRk</div>
 ؛ تساوی چک و آفریقای جنوبی در گروه یک و اولین برد تیم سوئیس با آتش بازی مقابل یاران ژکو!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/persiana_Soccer/23799" target="_blank">📅 00:33 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/persiana_Soccer/23799" target="_blank">📅 00:33 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23798">
@@ -407,7 +407,7 @@ https://t.me/+QMjHLL65ocsxYzRk</div>
 یادی‌کنیم‌از شبی که ایرانِ مدل کارلوس کی‌روش به این شکل تیم ملی مراکش رو شکست داد. شبی که تموم مردم ایران دوست داشتن ایران در جام جهانی 2018 روسیه موفق شه و از گروهش صعود کنه.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/persiana_Soccer/23798" target="_blank">📅 00:25 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/persiana_Soccer/23798" target="_blank">📅 00:25 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23797">
@@ -416,7 +416,7 @@ https://t.me/+QMjHLL65ocsxYzRk</div>
 <div class="tg-text">🟡
 👤
 #تکمیلی؛سیدحسین حسینی دروازه‌بان 33 ساله سپاهان که پارسال قراردادی دوساله امضا کرد باشگاه به مدیربرنامه‌ هایش اعلام کرده درصورتیکه باشگاهی او رو بخواهد با دریافت 10 میلیارد تومان رضایت‌نامه‌اش رو صادرخواهدکرد. قرارداد حسینی با سپاهان برای فصل جدید 140 میلیارد…</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/persiana_Soccer/23797" target="_blank">📅 00:15 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/persiana_Soccer/23797" target="_blank">📅 00:15 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23796">
@@ -428,7 +428,7 @@ https://t.me/+QMjHLL65ocsxYzRk</div>
 خوزه فلیکس دیاز: بعداز توافق شخصی فلورنتینو پرز با انزو فرناندز؛ کاماوینگا و شوامنی دو گزینه پرز برای جدایی‌از رئال مادریده. شانس جدایی کاماوینگا بیشتراز شوامنی است. درباره فده والورده پرز گفته او فروشی نیس بهش هم فکر کنید.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/persiana_Soccer/23796" target="_blank">📅 23:46 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35K · <a href="https://t.me/persiana_Soccer/23796" target="_blank">📅 23:46 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23794">
@@ -442,7 +442,7 @@ https://t.me/+QMjHLL65ocsxYzRk</div>
 ویدیویی زیبا از شاهکار فوق العاده علیرضا فغانی دربازی‌ شب‌گذشته فرانسه مقابل سنگالی‌ها؛ همین‌عملکرد درخشانش‌دربازی دیشب که دو تصمیم فوق العاده گرفته ممکنه باعث بشه که از همین حالا بعنوان داور فینال جام جهانی انتخاب شده باشه.
 ‼️
 دو تصمیم مهم فغانی این بود:…</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/persiana_Soccer/23794" target="_blank">📅 23:38 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/persiana_Soccer/23794" target="_blank">📅 23:38 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23793">
@@ -451,7 +451,7 @@ https://t.me/+QMjHLL65ocsxYzRk</div>
 <div class="tg-text">🔵
 👤
 با جدایی ریکاردو ساپینتو از تیم استقلال؛ رامین رضاییان کاپیتان دوم آبی‌ ها در پایان فصل به جمع بازیکنان‌این‌تیم بازخواهد گشت. رامین رضاییان پیش از رفتن به فولاد قرار داد خود را با استقلال به مدت 1+1 فصل تمدیدکرده‌بود. همچنین وریا غفوری نیز بزودی زود از کادر…</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/persiana_Soccer/23793" target="_blank">📅 23:21 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/persiana_Soccer/23793" target="_blank">📅 23:21 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23792">
@@ -467,7 +467,7 @@ https://t.me/+QMjHLL65ocsxYzRk</div>
 خاطره‌بامزه‌حنیف‌عمران‌زاده‌مدافع‌سابق استقلال از کتک خوردن مقابل بی‌آزار تهرانی؛ حتما ببینید.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/persiana_Soccer/23792" target="_blank">📅 23:11 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/persiana_Soccer/23792" target="_blank">📅 23:11 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23791">
@@ -478,7 +478,7 @@ https://t.me/+QMjHLL65ocsxYzRk</div>
 #تکمیلی؛طبق‌اخباردریافتی‌رسانه پرشیانا؛ مهدی لیموچی از طریق مدیر برنامه خود به باشگاه پرسپولیس اعلام کرده درصورتیکه رضایت نامه این بازیکن رو از طلایی‌پوشان‌زاینده‌رود بگیرند مشکلی برای عقد قرارداد با سرخپوشان نخواهد داشت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/persiana_Soccer/23791" target="_blank">📅 23:11 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/persiana_Soccer/23791" target="_blank">📅 23:11 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23790">
@@ -500,7 +500,7 @@ https://t.me/+QMjHLL65ocsxYzRk</div>
 تو هم به جمع آن‌ها بپیوند.
 🌍
 http://betegram.com/affiliates?btag=3_l7</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/persiana_Soccer/23790" target="_blank">📅 23:11 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/persiana_Soccer/23790" target="_blank">📅 23:11 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23789">
@@ -512,7 +512,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 همانطور که حدود سه هفته پیش خبر از علاقه اوسمارویرا به‌محمدامین حزباوی مدافع میانی سپاهان دادیم ظهرامروز باشگاه پرسپولیس با ارسال نامه‌ای رسما خواستار جذب این مدافع تیم امید شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/persiana_Soccer/23789" target="_blank">📅 22:45 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/persiana_Soccer/23789" target="_blank">📅 22:45 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23788">
@@ -522,7 +522,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 مزدتموم‌تلاش‌های یک‌سال اخیرش رو گرفت؛ با اعلام از فیفا: رامین رضاییان بازیکن تیم ملی ایران با نمره ۸.۲۳ بعنوان‌خلاق‌ترین بازیکنِ دور نخست مرحله گروهی رقابت های جام جهانی 2026 انتخاب شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/persiana_Soccer/23788" target="_blank">📅 22:33 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 38K · <a href="https://t.me/persiana_Soccer/23788" target="_blank">📅 22:33 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23787">
@@ -531,7 +531,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 <div class="tg-text">🔵
 👤
 سانتر خط‌ کشی‌ شده رامین رضاییان ستاره استقلال در بازی بامداد امروز ایران مقابل نیوزیلند؛ خیلی باید روحیه‌جنگندگی داشته باشی که با وجود یک‌فصل‌درخشان دراستقلال به تیم‌ملی دعوت نشی و سکوت کنی و فصل‌بعد با اومدن ریکاردو ساپینتو نیمکت نشین بشی و بازم سکوت کنی…</div>
-<div class="tg-footer">👁️ 34.2K · <a href="https://t.me/persiana_Soccer/23787" target="_blank">📅 22:31 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/persiana_Soccer/23787" target="_blank">📅 22:31 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23786">
@@ -548,7 +548,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 به تموم دخترایی‌که‌پیجش‌روفالو کردند درجا بک داده!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/persiana_Soccer/23786" target="_blank">📅 21:55 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39K · <a href="https://t.me/persiana_Soccer/23786" target="_blank">📅 21:55 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23785">
@@ -559,7 +559,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 بااعلام باشگاه لخ‌ پوزنان؛ اللهیار صیادمنش در تست‌های پزشکی این تیم حاضر شده و در آستانه امضای قرارداد است.  او پس از علی قلی‌زاده دومین ایرانی باشگاه لهستانی لخ‌پوزنان خواهد بود.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/persiana_Soccer/23785" target="_blank">📅 21:48 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/persiana_Soccer/23785" target="_blank">📅 21:48 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23784">
@@ -570,7 +570,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 #لژیونرها؛ پیروزی ارزشمند 2 بر 1 لخ پوزنان مقابل کرونا کیلچه در لیگ لهستانی با گلزنی قلی زاده.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/persiana_Soccer/23784" target="_blank">📅 21:36 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/persiana_Soccer/23784" target="_blank">📅 21:36 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23783">
@@ -580,7 +580,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 ارزش‌طلای‌موجود درکاپ‌قهرمانی جام جهانی از سال ١٩٧۴ تاکنون‌تقریبا ٢٩ برابر شده. البته این ارزش دلاریش‌بوده.ارزش‌ریالی‌بیش از ۶٧٠ هزار برابر شده!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/persiana_Soccer/23783" target="_blank">📅 21:25 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/persiana_Soccer/23783" target="_blank">📅 21:25 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23782">
@@ -589,7 +589,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 <div class="tg-text">🚨
 🔴
 طبق اخبار دریافتی رسانه پرشیانا؛ جلسه مهم امروز پیمان‌حدادی‌مدیرعامل‌باشگاه پرسپولیس و اوسمار ویرا دقایقی‌قبل به پایان رسید و باتوجه به اینکه مالکان این‌باشگاه با درگان اسکوچیچ به توافق رسیده‌اند به احتمال بسیار زیاد با اوسمار ویرا قطع همکاری خواهند کرد…</div>
-<div class="tg-footer">👁️ 38.6K · <a href="https://t.me/persiana_Soccer/23782" target="_blank">📅 21:05 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/persiana_Soccer/23782" target="_blank">📅 21:05 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23781">
@@ -599,7 +599,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 ویدیوکامل‌ویژه برنامه امشب عادل فردوسی پور برای رقابت های جام جهانی با حضور مازیار زارع سرمربی جوان و موفق باشگاه ملوان انزلی.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/persiana_Soccer/23781" target="_blank">📅 20:58 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39.9K · <a href="https://t.me/persiana_Soccer/23781" target="_blank">📅 20:58 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23780">
@@ -609,7 +609,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 #فوری #اختصاصی_پرشیانا؛پیرو اخبار روزهای اخیر پرشیانا؛ فیفا روزهای‌آینده پنجره نقل و انتقالات تابستانی‌باشگاه‌استقلال بزودی باز خواهدکرد و آبی‌ها قادر خواهندبود تا بازیکنان مدنظر خود را جذب کنند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 38.6K · <a href="https://t.me/persiana_Soccer/23780" target="_blank">📅 20:44 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/persiana_Soccer/23780" target="_blank">📅 20:44 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23779">
@@ -626,7 +626,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 🇭🇷
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 38K · <a href="https://t.me/persiana_Soccer/23779" target="_blank">📅 20:38 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/persiana_Soccer/23779" target="_blank">📅 20:38 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23778">
@@ -636,7 +636,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 #تکمیلی؛ ژوزه مورینیو برای‌فصل‌آینده رقابت‌ها مندی و فران گارسیا رو در لیست مازاد رئال مادرید قرار داده و قصد داره که در فصل اینده از ریکاردو کالافیوری ایتالیایی و آلوارو کارراس استفاده کنه.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/persiana_Soccer/23778" target="_blank">📅 20:38 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39.5K · <a href="https://t.me/persiana_Soccer/23778" target="_blank">📅 20:38 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23777">
@@ -659,7 +659,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 لینک سایت جهت ورود :
 🌐
 RomaBet.tournament</div>
-<div class="tg-footer">👁️ 38K · <a href="https://t.me/persiana_Soccer/23777" target="_blank">📅 20:38 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/persiana_Soccer/23777" target="_blank">📅 20:38 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23776">
@@ -670,7 +670,7 @@ RomaBet.tournament</div>
 باشگاه پرسپولیس برای‌فسخ قرارداد توافقی با اوسمار ویرا برزیلی به توافق‌برسند سریعا با دراگان اسکوچیچ قراردادی دو ساله امضا خواهند کرد.
 ‼️
 مدیریت تیم استقلال در ابتدا مذاکراتی با دراگان اسکوچیچ داشت اما عزم‌ علی‌تاجرنیا برای اوردن این سرمربی کروات صدرصدی…</div>
-<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/persiana_Soccer/23776" target="_blank">📅 20:23 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41K · <a href="https://t.me/persiana_Soccer/23776" target="_blank">📅 20:23 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23775">
@@ -686,7 +686,7 @@ RomaBet.tournament</div>
 هنگ‌کردن‌خداداد‌عزیزی‌از رفتار جواد خیابانی؛ از خداداد سوال میپرسه بعد میگه تو نگو تا خودم بگم.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 39.9K · <a href="https://t.me/persiana_Soccer/23775" target="_blank">📅 19:45 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/persiana_Soccer/23775" target="_blank">📅 19:45 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23774">
@@ -696,7 +696,7 @@ RomaBet.tournament</div>
 مارکا درخبری‌فوری: باشگاه رئال‌مادرید میخواد بزودی پیشنهاد220میلیون‌یورویی برای جذب مایکل اولیسه برای بایرن مونیخ بفرسته. با جذب اولیسه و انزو فرناندز پرونده کهکشانی‌ها بسته میشه.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/persiana_Soccer/23774" target="_blank">📅 19:19 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/persiana_Soccer/23774" target="_blank">📅 19:19 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23773">
@@ -707,7 +707,7 @@ RomaBet.tournament</div>
 با‌اعلام‌باشگاه‌سپاهان‌اصفهان؛ آرش رضاوند و میلاد ذکی پور قراردادشون رو با این باشگاه تمدید کردند اما محمد دانشگر حاضر نشد به باشگاه تخفیف بده و جدا شد. رقم قرارداد دانشگر برای فصل جدید 170 میلیارد تومان ناقابل بود که کم نکرد ازش.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40K · <a href="https://t.me/persiana_Soccer/23773" target="_blank">📅 19:06 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/persiana_Soccer/23773" target="_blank">📅 19:06 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23772">
@@ -719,7 +719,7 @@ RomaBet.tournament</div>
 برخلاف‌ صحبت‌های کادرپزشکی تیم ملی برزیل؛بااعلام‌‌کارلو آنجلوتی؛ نیمار جونیور فوق ستاره سلسائو دیدار حساس برابر مراکش رو از دست داد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40K · <a href="https://t.me/persiana_Soccer/23772" target="_blank">📅 18:52 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.3K · <a href="https://t.me/persiana_Soccer/23772" target="_blank">📅 18:52 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23771">
@@ -729,7 +729,7 @@ RomaBet.tournament</div>
 فابریزیو رومانو: ماتئوس فرناندز ستاره پرتغالی وستهم؛ منچستریونایتد رو به رئال ترجیج داده و به ژوزه مورینیو اعلام کرده که نمیتونه بیاد اسپانیا.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 39.6K · <a href="https://t.me/persiana_Soccer/23771" target="_blank">📅 18:47 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/persiana_Soccer/23771" target="_blank">📅 18:47 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23770">
@@ -739,7 +739,7 @@ RomaBet.tournament</div>
 مارکا درخبری‌فوری: باشگاه رئال‌مادرید میخواد بزودی پیشنهاد220میلیون‌یورویی برای جذب مایکل اولیسه برای بایرن مونیخ بفرسته. با جذب اولیسه و انزو فرناندز پرونده کهکشانی‌ها بسته میشه.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/persiana_Soccer/23770" target="_blank">📅 18:15 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/persiana_Soccer/23770" target="_blank">📅 18:15 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23769">
@@ -751,7 +751,7 @@ RomaBet.tournament</div>
 بلژیک ساعت 22:30 برگزار میشود.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/persiana_Soccer/23769" target="_blank">📅 18:00 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/persiana_Soccer/23769" target="_blank">📅 18:00 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23768">
@@ -767,7 +767,7 @@ RomaBet.tournament</div>
 تیکه‌فتح‌الله‌زاده‌مدیرعامل‌سابق آبی‌ها به میثاقی در گفتگو باپیمان‌یوسفی: مواظب باش بعضیا صندلی نداشتن اومدن صندلی رییس رو صاحب شدند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/persiana_Soccer/23768" target="_blank">📅 17:40 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/persiana_Soccer/23768" target="_blank">📅 17:40 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23767">
@@ -778,7 +778,7 @@ RomaBet.tournament</div>
 خوزه‌فلیکس‌دیاز: فلورنتینو پرز رئیس رئال مادرید به مورینیو قول داده بعد از اتمام رقابت های جام‌جهانی 2026 تموم‌تلاشش رو برای جذب مایکل اولیسه فرانسوی از بایرن مونیخ بکار خواهد برد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/persiana_Soccer/23767" target="_blank">📅 17:33 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/persiana_Soccer/23767" target="_blank">📅 17:33 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23766">
@@ -788,7 +788,7 @@ RomaBet.tournament</div>
 مقایسه عملکرد چهار بازیکن بارسا و چهار بازیکن رئال در هفته اول رقابت های جام جهانی 2026
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/persiana_Soccer/23766" target="_blank">📅 17:18 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/persiana_Soccer/23766" target="_blank">📅 17:18 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23765">
@@ -798,7 +798,7 @@ RomaBet.tournament</div>
 بهترین‌های‌دوره اول جام‌جهانی ۲۰۲۶ در یک قاب؛ از ارلینگ هالند و لئو مسی تا رامین رضاییان و علوان
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40.5K · <a href="https://t.me/persiana_Soccer/23765" target="_blank">📅 17:13 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/persiana_Soccer/23765" target="_blank">📅 17:13 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23764">
@@ -808,7 +808,7 @@ RomaBet.tournament</div>
 خورخه ژسوس سرمربی‌سابق‌الهلال و النصر بعد از جام جهانی هدایت تیم پرتغال رو بر عهده میگیره. روبرتو مارتینز هم هدایت النصر رو بر عهده میگیره.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/persiana_Soccer/23764" target="_blank">📅 16:47 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/persiana_Soccer/23764" target="_blank">📅 16:47 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23763">
@@ -819,7 +819,7 @@ RomaBet.tournament</div>
 #اختصاصی_پرشیانا #فوری؛ علی نظری جویباری مسئول‌نقل‌وانتقالات استقلال با مدیربرنامه های محمد جواد حسین نژاد مذاکرات خود را شروع کرده تا بعد از باز شدن پنجره این انتقال رو بالاخره بعددوسال نهایی کنه و حسین نژاد آبی‌پوش بشه.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.2K · <a href="https://t.me/persiana_Soccer/23763" target="_blank">📅 16:27 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/persiana_Soccer/23763" target="_blank">📅 16:27 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23762">
@@ -829,7 +829,7 @@ RomaBet.tournament</div>
 طبق اطلاعات به دست آمده پرشیانا؛ باشگاه روبین‌کازان‌روسیه به ایجنت ایرانی که ارتباط خوبی با او دارند اعلام‌کرده برای‌صدور رضایت نامه نظمی گریپشی ستاره آلبانیایی 2 میلیون یورو میخواهد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/persiana_Soccer/23762" target="_blank">📅 16:16 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.8K · <a href="https://t.me/persiana_Soccer/23762" target="_blank">📅 16:16 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23761">
@@ -839,7 +839,7 @@ RomaBet.tournament</div>
 برنامه‌کامل دیدارهای هفته دوم رقابت‌های جام جهانی؛ این پست رو فعلا یه جایی سیو کن و بفرس برای رفقات که تایم دقیق مسابقات رو بدونند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/persiana_Soccer/23761" target="_blank">📅 16:10 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/persiana_Soccer/23761" target="_blank">📅 16:10 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23760">
@@ -849,7 +849,7 @@ RomaBet.tournament</div>
 نشریه ESPN به نقل از مارک کوکوریا مدافع جدید رئال‌مادرید: انزو فرناندز به شدت علاقمند به پیوستن به رئال مادریده و فکر کنم در این تابستون این‌انتقال رسمی میشه و انزو به رئال خواهد آمد.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/persiana_Soccer/23760" target="_blank">📅 15:24 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/persiana_Soccer/23760" target="_blank">📅 15:24 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23759">
@@ -861,7 +861,7 @@ RomaBet.tournament</div>
 #فوری؛ باشگاه‌رئال‌مادرید برای عقد قرار دادی شش ساله با انزو فرناندز ستاره 25 ساله چلسی به توافق کامل رسید و حالا تنها توافق بین دو باشگاه باقی مانده است که این انتقال رسما انجام شود.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43K · <a href="https://t.me/persiana_Soccer/23759" target="_blank">📅 15:07 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/persiana_Soccer/23759" target="_blank">📅 15:07 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23758">
@@ -877,7 +877,7 @@ RomaBet.tournament</div>
 آندره آ استراماچونی سرمربی سابق اینتر میلان و استقلال درگفتگوبا DAZN ایتالیا از محمد محبی حمایت کرد و اعلام کرد شادی بعد گل او رو پیش‌تر از بسیاری از بازیکنان حرفه‌ای فوتبال دیده‌ و معنی خاصی نداشته و فقط یک شادی بعد گل ساده بود.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/persiana_Soccer/23758" target="_blank">📅 14:44 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.8K · <a href="https://t.me/persiana_Soccer/23758" target="_blank">📅 14:44 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23757">
@@ -887,7 +887,7 @@ RomaBet.tournament</div>
 #فوری؛ باشگاه چلسی آمادگی خود را با فروش انزو فرناندز به باشگاه‌رئال‌مادرید درپایان جام جهانی اعلام کرده: 120 میلیون یورو بدهید انزو رو ببرید.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/persiana_Soccer/23757" target="_blank">📅 14:21 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44K · <a href="https://t.me/persiana_Soccer/23757" target="_blank">📅 14:21 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23756">
@@ -896,7 +896,7 @@ RomaBet.tournament</div>
 <div class="tg-text">اسماعیل کارتال در گفتگو با TRT SPORT: آماده پذیرفتن هدایت فنرباغچه هستم. مذاکراتی با باشگاه داشته‌ام باید صبر کنیم ببینیم چه پیش خواهد آمد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/persiana_Soccer/23756" target="_blank">📅 14:13 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/persiana_Soccer/23756" target="_blank">📅 14:13 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23755">
@@ -907,7 +907,7 @@ RomaBet.tournament</div>
 باشگاه پرسپولیس برای‌فسخ قرارداد توافقی با اوسمار ویرا برزیلی به توافق‌برسند سریعا با دراگان اسکوچیچ قراردادی دو ساله امضا خواهند کرد.
 ‼️
 مدیریت تیم استقلال در ابتدا مذاکراتی با دراگان اسکوچیچ داشت اما عزم‌ علی‌تاجرنیا برای اوردن این سرمربی کروات صدرصدی…</div>
-<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/persiana_Soccer/23755" target="_blank">📅 14:09 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.5K · <a href="https://t.me/persiana_Soccer/23755" target="_blank">📅 14:09 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23754">
@@ -917,7 +917,7 @@ RomaBet.tournament</div>
 جالبه بدونید مثلث خط حمله بایرن مونیخ در فصل گذشته؛ هر سه تاشون عنوان بهترین بازیکن زمین هفته اول رقابت‌ها رو از آن خود کردند.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.8K · <a href="https://t.me/persiana_Soccer/23754" target="_blank">📅 13:55 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/persiana_Soccer/23754" target="_blank">📅 13:55 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23753">
@@ -927,7 +927,7 @@ RomaBet.tournament</div>
 بانک‌شهر برای دوفصل‌حضور در پرسپولیس آفر 2.2میلیون‌یورویی‌به‌‌دراگان‌ اسکوچیچ داده که مورد قبول سرمربی سابق تیم ملی و باشگاه تراکتور قرار گرفته. حالا تنها مانع راضی کردن اوسمار ویرا برای فسخ قراردادش با سرخپوشان پایتخت است.
 🔘
 @Persiana_Pluss</div>
-<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/persiana_Soccer/23753" target="_blank">📅 13:27 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 45K · <a href="https://t.me/persiana_Soccer/23753" target="_blank">📅 13:27 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23752">
@@ -937,7 +937,7 @@ RomaBet.tournament</div>
 وضعیت عارف آیمن در جدیدترین آپدیت سایت ترانسفر مارکت؛ اعتبار قرار داد فعلی آیمن با باشگاه مالزیایی تاخردادماه سال‌آینده هست. بنظرم می‌ارزه این پنجره جذب‌بشه از فصل بعد ازش استفاده بشه.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/persiana_Soccer/23752" target="_blank">📅 13:19 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/persiana_Soccer/23752" target="_blank">📅 13:19 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23751">
@@ -953,7 +953,7 @@ RomaBet.tournament</div>
 جذاب‌ترین‌بخش‌های‌گفتگواخیرامیرحسین قیاسی با مرتضی‌پورعلی‌گنجی‌وپیروزقربانی دو مدافع میانی فعلی و سابق پرسپولیس و استقلال؛ عالیه ببینید.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/persiana_Soccer/23751" target="_blank">📅 12:58 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/persiana_Soccer/23751" target="_blank">📅 12:58 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23749">
@@ -969,7 +969,7 @@ RomaBet.tournament</div>
 مارکوس رشفورد درفصل‌گذشته رقابت‌ها؛ باشگاه بارسا بالایی رو جذب کرد اما پایینی رو پس داد به منچستر!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/persiana_Soccer/23749" target="_blank">📅 12:51 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/persiana_Soccer/23749" target="_blank">📅 12:51 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23748">
@@ -980,33 +980,33 @@ RomaBet.tournament</div>
 رومانو: ابراهیم کوناته و دنزل دامفریس با عقد قرار دادی 4 ساله رسما به رئال مادرید پیوست.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/persiana_Soccer/23748" target="_blank">📅 12:37 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/persiana_Soccer/23748" target="_blank">📅 12:37 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23747">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/0e75ce8522.mp4?token=hMo0on2rX7155K0sdOjE3q3X2wLTG-OpYrzbPcoC6wi6CO8-8fM0mXgj376KFlyya8iqmk_l6RYbyfgLpYKg5svyBzcB9MO8ntKysyV3zuZ051x2XCSTkhDQ26ONzr1TIm5hZtzTkZACoW2PVQ9PvnvvZi3VSofGWuzYv7Db7fxhdQtg6n5VswxMzOwQDsOj_PhwjFVmLeMxTVKXaeXVZ9bNFIn6EFgg9kL56aVR8bAzxxKTInNOUQXub2AfwV5m9PL8ifSzpm-KkB2XJq_9oAy-TQiD5W_9hnP_wEuUUcAt07T2Hzv1744ftimCJJs8UD1A_RrVlcy4C-w3_BpILw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/0e75ce8522.mp4?token=KjdLvZVqsDoH83U9q-uNYoImfOtMed4fnMg4dw4n5s1iKIpEtJeGtmCwLqgwNh5H5RFzf7wju2VU8MJlUuowJB63hYxluYSxlzzwEaKacF99icWivR1Fbz2KyyY45Vct-3gB7eDIfKbyUa1WbZGqoJ9xRrJSdH75-70gkofXOzG_i2tx6k7uwBEHu71zAahHjG-bmj32cmBfg7UxXwnzzrI7St4O4RDEe4brmwMN-E3K-_Qz69nmTPGyssGRb_x5vkjfUFl0KgCg3TrWk8WMSUozX96rww8xgPS8902TSmd5UcsTTL_WXp-m0lvd4ogEWLlmct26MKPnbNDx7brVlA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/0e75ce8522.mp4?token=hMo0on2rX7155K0sdOjE3q3X2wLTG-OpYrzbPcoC6wi6CO8-8fM0mXgj376KFlyya8iqmk_l6RYbyfgLpYKg5svyBzcB9MO8ntKysyV3zuZ051x2XCSTkhDQ26ONzr1TIm5hZtzTkZACoW2PVQ9PvnvvZi3VSofGWuzYv7Db7fxhdQtg6n5VswxMzOwQDsOj_PhwjFVmLeMxTVKXaeXVZ9bNFIn6EFgg9kL56aVR8bAzxxKTInNOUQXub2AfwV5m9PL8ifSzpm-KkB2XJq_9oAy-TQiD5W_9hnP_wEuUUcAt07T2Hzv1744ftimCJJs8UD1A_RrVlcy4C-w3_BpILw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/0e75ce8522.mp4?token=KjdLvZVqsDoH83U9q-uNYoImfOtMed4fnMg4dw4n5s1iKIpEtJeGtmCwLqgwNh5H5RFzf7wju2VU8MJlUuowJB63hYxluYSxlzzwEaKacF99icWivR1Fbz2KyyY45Vct-3gB7eDIfKbyUa1WbZGqoJ9xRrJSdH75-70gkofXOzG_i2tx6k7uwBEHu71zAahHjG-bmj32cmBfg7UxXwnzzrI7St4O4RDEe4brmwMN-E3K-_Qz69nmTPGyssGRb_x5vkjfUFl0KgCg3TrWk8WMSUozX96rww8xgPS8902TSmd5UcsTTL_WXp-m0lvd4ogEWLlmct26MKPnbNDx7brVlA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">✅
 رونمایی از تنها سرمربی حال حاضر فوتبال جهان که در چند ساله اخیر تونسته ژاپن رو شکست بده.
 🔘
 @Persiana_Pluss</div>
-<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/persiana_Soccer/23747" target="_blank">📅 12:33 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/persiana_Soccer/23747" target="_blank">📅 12:33 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23746">
 <div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P4eN9CNrOYZmfPd_jqRqbC-XHpFZ1O0zEgGRoiMA8r2dh57YNmKB1lrOeYQXhZS5CysSBUfrHx8ImrzQ74_YCeBT744oLhfzJ5A1UHTzJNNiaELO6Zi8lMJH-V_N7qqsOonPAG_9vZB5xdIpxa14ROOWEu-f5rfSZsrEroJKzJh7MN8etuPwEFaHhacjHrt6tT6QIHksW0_Ty9gIwsaCYw9iLszaxoLJe3PDdnpdFCZ7cgLj1PeEmKaaz_Kw3QZVHB6XlrqM2kNiYKCmLBx5EM8sgW7Dc1Vin1_nrCHzgd35as3M1m0gdHqYqmBkYlHzfGrXUmCM1yd19Dbb4e3qOg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FoTwDp49l9uDxT53AaDPBg9a80jhEqiOgDjW5pWE6AYYp_NOZ3Rr_Ff3jf0HqubZq7Bz7PzNV07RpG5XEUUPp2iOtfB_WBG1nCOe6IIH4Lj-ZYtOPogXkYrSqSvXwPXcJoQumW5j-o0z6djwXJbJowKkm7F2W8XGLWeNC6rsH7rHd_4G1FOdb8Pat3O1Xcw-rLvWI4ZX_oj2TwwanRub7vuKArbJYy99pnl7T2urD497Gxytz0j1dgZp8PQgGp8di26xesSDRBTAktvfpYEyYRfD9O5VEXKFGXvkKZ5mGoQUXmT2NwpdhOJ7LTbRM6U-E5K-b99d1cS6MobX0kg59A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 #تکمیلی؛ مسعود پزشکیان رئیس جمهور بعد از امضای توافق‌نامه با آمریکا: به مردم ایران قول میدهم بزودی وضعیت اقتصادی کشور بهتر شود و قیمت‌طلا،خونه و ماشین روز به روز خواهش یابد.
 🔘
 @Persiana_Pluss</div>
-<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/persiana_Soccer/23746" target="_blank">📅 12:18 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.5K · <a href="https://t.me/persiana_Soccer/23746" target="_blank">📅 12:18 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23745">
@@ -1016,18 +1016,18 @@ RomaBet.tournament</div>
 جدول‌رده‌بندی12گروه رقابت‌های جام جهانی در پایان هفته نخست؛ از امشب هفته دوم شروع میشه.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44K · <a href="https://t.me/persiana_Soccer/23745" target="_blank">📅 11:51 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/persiana_Soccer/23745" target="_blank">📅 11:51 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23744">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XyNQm5gkYV2ozeNgoeMR2xUb0hLMzyPXKSqWSzNTOt7n9DDR6H1F96htd4k0OpXqX9qAgAFqojfEnS4iejBDXUTtV4FD5HDpjniDXtd8hVs0EzaftVELm_5LKeSg_EZ04jV-2Rizp_xTgKQ0U96DZN7IMvMMzygw1oZo5HTJ5nx3b4RqMC2Dt_U1eUhghb0oO_re78f1N4543vk5fcRBtGrvS-NZKZs4yTACgCTfKIiynxd40xleNQa4fsTkJjJzUoQtb3EbkUba_69OSb4NRwcP25BjTmLle82A3-v0WvSQoDfRGc9AytMi4btJPPaz3Moh6SGT6ygLvKfppLJfLQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P7vIksVN9En_mnCtYy97xlG28duHwYfA-J4p8LsKcWpS8SICyxTK1dCOOZLPkiSlMffnyYlBVdVFuHa_jXc5xlMJwmxXEsXansklH3yCkCmr9kGVE5OqiKL9-5BDEq4JF4EpRwHpLUg_BbK9egTtyKVyKrEGHhhP8mDya2pw6kKgfl7RTlsyUJGk5qMTeSa2S9ssaDhJsqdCws7VuY0jeU91p4weP_-RT3Y2MBZ5wGauVJcIyQ8heafw4Z5qOE2bz250z5uGrn_nMOTqGfxkyhweCYD8dlMqpUL6lxq8odo2ZskTdhzKB18eYBf4-jIPcFyCKz-wjT066hUzr43ctA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🔵
 باشگاه استقلال با نیما اندرز مدافع راست 20 ساله لگانس واردمذاکره‌شده تا درصورت توافق نهایی قراردادی پنج ساله با این بازیکن آینده دار امضا کند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/persiana_Soccer/23744" target="_blank">📅 11:37 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43K · <a href="https://t.me/persiana_Soccer/23744" target="_blank">📅 11:37 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23743">
@@ -1036,33 +1036,33 @@ RomaBet.tournament</div>
 قسمت‌‌‌هفتم‌ویژه‌برنامه‌‌فان‌‌جدید ابوطالب حسینی برای رقابت‌های جام جهانی 2026؛ عالیه حتما ببینید.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42K · <a href="https://t.me/persiana_Soccer/23743" target="_blank">📅 11:12 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/persiana_Soccer/23743" target="_blank">📅 11:12 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23742">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/b9f495fa66.mp4?token=E2GqwgZHri1xULDknQRpLovwV3LHNG4zDWOyDo_mkS-Zd8xoskcxzyMOg65GE2cBf_FSR9ARNa6ZXC37eHtE5eFHEorJyaedvWtssf-EUN2Pc6jV0OcdtQbMXJqcfslmy6NnCWLz2s_l9LvCWFrU1Fd-1TY6pMhSIbh9QY6eXQlxaF7A0S7fiqO3892-7u3fCrn_NXaEpYHlBOxi0muEF128_bkSVQenFaGtiR5eJ4a-tHor7I2BGm2isjuTPoCbWdFnhKuLfk2QFKLW1aJVtrLqX-zWmotjzgszYGv2pCe0mEd2j195fqGCDHHJZ__11bXlGlopLpkyNquTEDb6xg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/b9f495fa66.mp4?token=HpjkvA9D0ERE5dL4YSc_b2v6MhIodrq1rK_qJLhIGEY9gDR6CZTdsAjy87vxx3rfOuZn5iHllBDf1ziSl_YyqHwB6lMcFES0K8k4NhFqt1wmy3XCiSqhZyS5V2F6ar76kptL_VYN3OYHQ8FzdyRby6oE380APVEGihsL8Ft-amz9uAwMMQHpTSV0dPRxwF2dGk639zzJoWjtByJNQglbtGI0REvsow1d9ZzB9qUpVJNMuEPUnWKXQ0M3RSjRHVtZ7G1QHiH11qQL99WGptMJqGPwwOwoJTOo_TnHGPjESGYX4yWkqjVlLHQSgnOjhF7ksV9PbkS3O51Sq_i5ngmf-A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/b9f495fa66.mp4?token=E2GqwgZHri1xULDknQRpLovwV3LHNG4zDWOyDo_mkS-Zd8xoskcxzyMOg65GE2cBf_FSR9ARNa6ZXC37eHtE5eFHEorJyaedvWtssf-EUN2Pc6jV0OcdtQbMXJqcfslmy6NnCWLz2s_l9LvCWFrU1Fd-1TY6pMhSIbh9QY6eXQlxaF7A0S7fiqO3892-7u3fCrn_NXaEpYHlBOxi0muEF128_bkSVQenFaGtiR5eJ4a-tHor7I2BGm2isjuTPoCbWdFnhKuLfk2QFKLW1aJVtrLqX-zWmotjzgszYGv2pCe0mEd2j195fqGCDHHJZ__11bXlGlopLpkyNquTEDb6xg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/b9f495fa66.mp4?token=HpjkvA9D0ERE5dL4YSc_b2v6MhIodrq1rK_qJLhIGEY9gDR6CZTdsAjy87vxx3rfOuZn5iHllBDf1ziSl_YyqHwB6lMcFES0K8k4NhFqt1wmy3XCiSqhZyS5V2F6ar76kptL_VYN3OYHQ8FzdyRby6oE380APVEGihsL8Ft-amz9uAwMMQHpTSV0dPRxwF2dGk639zzJoWjtByJNQglbtGI0REvsow1d9ZzB9qUpVJNMuEPUnWKXQ0M3RSjRHVtZ7G1QHiH11qQL99WGptMJqGPwwOwoJTOo_TnHGPjESGYX4yWkqjVlLHQSgnOjhF7ksV9PbkS3O51Sq_i5ngmf-A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🇦🇷
 واکنش‌لیونل‌اسکالونی سرمربی تیم‌ملی آرژانتین به‌سوپرگل لیونل مسی در بازی مقابل الجزایری‌ها!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/persiana_Soccer/23742" target="_blank">📅 10:39 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/persiana_Soccer/23742" target="_blank">📅 10:39 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23741">
 <div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oxlYJpLU_mbFpml5HDjcsuIjX5FXpcNYedBJPv2pqGG_KX4wehMgv24flt1KXbR7x3GVPrRtV26PrgclFV_H5FzQp7TzV77c0RZ2oOMu21hn6T-lM56kh85CQ6UoeDPVRMpWrk_hH9o9kuLqI7qQBVlaWuxmu3kgG0kCf0OlO1WHG0oT-8ccvz98taRRW_oOunqv8lJUYdKwpea5qjLULkDUMwcU4BIAh4Rh0l9Ik0e4cj0xb43AXg4YFsmUp8Zx8cwuMrNfY5vbpJGpQuAh5_YV-MXqgMI9qx4EkNKnu0xhki98VfPw-sLwUmkGQQo6br4y20CN4Ez-FSl5EGQduw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RdpybKke3ns668mkoRrKpASFXFob-tjL66R50qgRoscm8XpW76xKHceSebe5RC4lVfYchk4pH8GIn9FY2NXIRa3cM1gNc6LpcqRyVPS2EmSJlEXWg8p_qS-2KiNpuBjDU8GQLXf0FlEpvxmbeAr_2jB10dZrTilM-3kuTTC1iNAAQcZuHDV-1SQ90mT0mte1Cpzo6HtEVcF2Xjbcl01wbzJOmPNL8RH-lNLjddfUBG5-OaXJWsxbKygarEm0_bbyPlGClBe_TcvcXo6a82McpB1obP1RZZud_tMc6Srbnb6RTeISDjVidpuuoFknwpgkV35_RJW6O0Yw29V4mxNhhQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 طبق‌اخباردریافتی رسانه‌پرشیانا؛ فرهاد مجیدی سرمربی سابق استقلال پیشنهادی دو ساله از الغرافه قطر دریافت کرده و در حال برسی این آفره. احتمال اینکه گابریل پین به کادرش اضافه شود نیز زیاده.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/persiana_Soccer/23741" target="_blank">📅 10:20 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/persiana_Soccer/23741" target="_blank">📅 10:20 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23740">
@@ -1080,12 +1080,12 @@ RomaBet.tournament</div>
 فرانسه؛دوگل+قهرمانی+جایزه‌بهترین بازیکن‌جام
 🇩🇿
 الجزایر؛ هتتریک + جایزه بهترین…</div>
-<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/persiana_Soccer/23740" target="_blank">📅 10:20 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/persiana_Soccer/23740" target="_blank">📅 10:20 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23739">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/O_ZJqyYs9t1FeNvOq09A6T8Z-UkHhN-yysLcFVtXfUrBVEvRTukYfd7bmVfVp523iElTp0eQXLrFv2g-B3bo67PbjG-G53U-tPrXWajG2bGGSeLBJiDeYdSNPu0JcFPX733HySYk8FZM5Gvl0MHwrTA0ibsd3II8JD7_HkTJLT3bUJRUQEvFocUr4F3G1ETK10dhCs074i1oI9dVWze7YnXfPDgtRX2hs4ptvmn2sFBkRO7er228Nt4bsGQ4JrZPkPp2w8iU9VapceQoOVzTH_iRpNDiu0gYS34U3rwh690xlbzAT76uZY4SGb_1BZXQyZU5L_s48NVqniOJuwCaGA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EwnEJSZFA_7HgcuevhgWHqpPueZ-b5rDY-5uz9bwcVSn2f-c4Hn8B79wzY1EO79aMBss43XSJEGRdhVOFvBL_Qig6MoCeIOfbq1cow4oLi4hRKwP-REMgyOHjG3NrjEceCHWcWQtcNvQXhW9O8rWTy94_DXZSGPFG3vsffJiObIwP_f2PPB5pWnRRDcj2KuSrBPEhzRgRHLfZxqE5TA05wpRwke07lTU3CjpQzBqjhLAtg-CE94qNsthKT5PPVa8D_40zddmWMt1RR-orwtYsvGLI6Nl0djh13yDCvz-APZTMql0U_p0QDY_aquudunRyRVgNg9vWq8qIjlUjkpIMw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">▶️
 دیدار فوووق جذااااب
 سوئیس
@@ -1120,66 +1120,66 @@ MelBet1.net
 Link
 🔜
 MelBet1.net</div>
-<div class="tg-footer">👁️ 41K · <a href="https://t.me/persiana_Soccer/23739" target="_blank">📅 10:20 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/persiana_Soccer/23739" target="_blank">📅 10:20 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23738">
 <div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uEbc9pqw83cQF0w4p7ruKQvfleTRqEVAlv9gOp0n3aLdbPu62m8C-WCrJQELE2UvOG5vcfU7WyKRyIDIgfoEujZ_eLcH-VPKMprvSw2vg1ena8AnxhLPpbN46--BN7HoaEB67xKh_2T8KXzc5q5zrBKfkuWD1_FvdoViAN8aVkWDqwr7FFr3pWN15PCctUy4LJLtBq_bk0aikedqsaHUV0JhNX7JFBCNefQ57CBqTOdTeZNM6GTGyNR4RYMNvRXx3usyqIL1aBNHCMkX4SDZaQFDWUEA0VeTQbfsCnP1Awkn4FLSBvUNNEtJOOtLn5-IikCXIBJ6-1BNNG29n39IKA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Mw4VBDFgvTqSjFuA9d1WuKtXDmpFDtYpmF5is9Uc5tjkFAS6Og00D4lzbcrH0_2KMH6uY0SZN0sgwbNj9iBa3vlQREC6Nn0CzwdCTJPt7j-8LdZHNaYSfH0jSCz1Ai2AcdHScmwxwJaKFILgakxqfVp56fBhbE8fT5SSz2BhA07iU_smj9GMTW_Pybje8G2ZuEsQYCjtdfjr7xUIDgd910pmRde7I52xgw6L8KhQm28WCO-WQG8LkaOWuDQJnXvMSsOD7G1vD8zuat0soa5Ta3Ki3PaAY_4d9iBheD9qgr0bYaYUQFPXMzWElf2bvWLycTF1pdgHGTbatixh6ZifVQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 #تکمیلی؛مدیران‌بانک‌شهربرای‌عقدقرارداد دو ساله باایجنت‌اسکوچیچ‌به‌توافق‌اولیه‌رسیده‌اند و درصورتی که هرچه زودتر با اوسمار ویرا فسخ کنند اسکوچیچ برای انجام مذاکرات نهایی به ایران خواهد امد.
 🔘
 @Persiana_Pluss</div>
-<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/persiana_Soccer/23738" target="_blank">📅 09:59 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/persiana_Soccer/23738" target="_blank">📅 09:59 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23737">
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/75cc17874c.mp4?token=GuYTxTdMGlppBFU6K6_B0NHvGd1l-GmRewr6J3cRsn_1Anwq48t1BKNeiW8T0Cyl0_8G5fJ21ftDOhzenOip7l4qcoC9HS6dlRizqUj_eT1F7q8WoEBB2N6O8LslXH9-CDpR6J2-o1FB2yUc3zjifXTSdzsyN53mgGpo5QytVs212sK6YS3xXDFkYQOun8qIIdg-wiDfDLjZfjWNUjnsS11NhoTj8O69Ju6dR3HZ3cLtnIQlBkdBXWNdhtghKoi-lalO-Rp919cNPgzMQP_btpcoqc0YQXChokHBX3Sof9RqLnKBlkMSxgauW-6HHgFz7Vy5iLP44zREqyccBBN1BQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/75cc17874c.mp4?token=KzKdgE8BKFleCnX1E0ryvBUsr3cyeZ2dob9dL2CcFy23Yv3ngIqGAx52_5HT1zDkDciye0fc5WxM6mlPnrlqQJW_JLzJE-dObUNmgwwRx0wSSWJE6yJTI-HkUHbKXt4HOAVpwyR9mWH4OEO9hzB3zqqaqwqBujB4EzZFBiVIa-h9sBgy7E9Cju8h0tBqr-dt43a8NyQOskDn7U63GCZcNr1QNtHMwdCmauHA-_J1QSQMiy0uXjWBoGGYelONa6CWKi1D73eoSjh3vLmT0CRbLt0WkWo_lZwpVNu6DIdE_odJ6namQXbRhc8nWI5BDfJ95B3M4ApYQSOGvDRXi4h9ew" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/75cc17874c.mp4?token=GuYTxTdMGlppBFU6K6_B0NHvGd1l-GmRewr6J3cRsn_1Anwq48t1BKNeiW8T0Cyl0_8G5fJ21ftDOhzenOip7l4qcoC9HS6dlRizqUj_eT1F7q8WoEBB2N6O8LslXH9-CDpR6J2-o1FB2yUc3zjifXTSdzsyN53mgGpo5QytVs212sK6YS3xXDFkYQOun8qIIdg-wiDfDLjZfjWNUjnsS11NhoTj8O69Ju6dR3HZ3cLtnIQlBkdBXWNdhtghKoi-lalO-Rp919cNPgzMQP_btpcoqc0YQXChokHBX3Sof9RqLnKBlkMSxgauW-6HHgFz7Vy5iLP44zREqyccBBN1BQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/75cc17874c.mp4?token=KzKdgE8BKFleCnX1E0ryvBUsr3cyeZ2dob9dL2CcFy23Yv3ngIqGAx52_5HT1zDkDciye0fc5WxM6mlPnrlqQJW_JLzJE-dObUNmgwwRx0wSSWJE6yJTI-HkUHbKXt4HOAVpwyR9mWH4OEO9hzB3zqqaqwqBujB4EzZFBiVIa-h9sBgy7E9Cju8h0tBqr-dt43a8NyQOskDn7U63GCZcNr1QNtHMwdCmauHA-_J1QSQMiy0uXjWBoGGYelONa6CWKi1D73eoSjh3vLmT0CRbLt0WkWo_lZwpVNu6DIdE_odJ6namQXbRhc8nWI5BDfJ95B3M4ApYQSOGvDRXi4h9ew" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 تیکه‌های‌داغ‌وسنگین پیروز قربانی سرمربی فجر سپاسی خطاب به حسین میثاقی مجری صداسیما.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/persiana_Soccer/23737" target="_blank">📅 09:40 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.2K · <a href="https://t.me/persiana_Soccer/23737" target="_blank">📅 09:40 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23736">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a6e6215526.mp4?token=ai3WVB9mHk7AnLiFfD6IBx-x-fhYCieNEOve0bUJO4Sv19dkCkKOWcP8E3kqquq7gBo6jfNo0T1mMHzANXVNq6-lbs7roiujQq5A5ZktFcN8DoZI_kwwpAm2NU_ykTG8VFmWyHvfOEoi6gpipayXDWfAFJQZUY7NUFXdcRVxxUKk9u_CMZTwN8GbnsdvGBUTiFnqx36kEZRTi1v4X_Qwkp8WfYj_9iTPNlkTBk1ZCjS4x2GfX2oDm3yJT_HA7Z43qXmsrJiiaZuzSZNsMjVVZEcjjTzd0viUAGHvVPgdXo8zUCFLGkC_o0_Tjp9Mu7OFaTx36nh8hxQwx6e1Ab-sXA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a6e6215526.mp4?token=Hy7U3Fxpas-U-Ue_hE45zuKytcnwOdq8cabIdyMfAdLLplg9Rg9J80_zl_zslFzKAS3UcNJHCiVGFeeU4snR0kl0tXw0lMy0SkH0r6dGrdpd6cVB7hajl6iNODYPG9MbmA3u7xwN0b2V1tVWlNPWLbh7ZL5hUZszJjlcggukUBWZuvAyTC-sdzr4bNA0hjubY9GdsFP8Pfu9Y_9Ekn-Nq9GqNtqGMQ0NK2bYkloTKanMslb4nVQGqCPFIaYVHGRCzsNHNyIQk1T-m35Mb-2rlLDo_Y9owhsQ7PUnQtmeRE1kyQdO8MeSV7jsxbuPCutEUhVzNFwVcB9kJGWGInr01Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a6e6215526.mp4?token=ai3WVB9mHk7AnLiFfD6IBx-x-fhYCieNEOve0bUJO4Sv19dkCkKOWcP8E3kqquq7gBo6jfNo0T1mMHzANXVNq6-lbs7roiujQq5A5ZktFcN8DoZI_kwwpAm2NU_ykTG8VFmWyHvfOEoi6gpipayXDWfAFJQZUY7NUFXdcRVxxUKk9u_CMZTwN8GbnsdvGBUTiFnqx36kEZRTi1v4X_Qwkp8WfYj_9iTPNlkTBk1ZCjS4x2GfX2oDm3yJT_HA7Z43qXmsrJiiaZuzSZNsMjVVZEcjjTzd0viUAGHvVPgdXo8zUCFLGkC_o0_Tjp9Mu7OFaTx36nh8hxQwx6e1Ab-sXA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a6e6215526.mp4?token=Hy7U3Fxpas-U-Ue_hE45zuKytcnwOdq8cabIdyMfAdLLplg9Rg9J80_zl_zslFzKAS3UcNJHCiVGFeeU4snR0kl0tXw0lMy0SkH0r6dGrdpd6cVB7hajl6iNODYPG9MbmA3u7xwN0b2V1tVWlNPWLbh7ZL5hUZszJjlcggukUBWZuvAyTC-sdzr4bNA0hjubY9GdsFP8Pfu9Y_9Ekn-Nq9GqNtqGMQ0NK2bYkloTKanMslb4nVQGqCPFIaYVHGRCzsNHNyIQk1T-m35Mb-2rlLDo_Y9owhsQ7PUnQtmeRE1kyQdO8MeSV7jsxbuPCutEUhVzNFwVcB9kJGWGInr01Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 دکتر انوشه باتریلی‌از روی ابوطالب رد شد؛
 تو عمرش اینقدرسنگین‌دیس‌نشده‌بود. عالی بود ببینید.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/persiana_Soccer/23736" target="_blank">📅 09:25 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/persiana_Soccer/23736" target="_blank">📅 09:25 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23735">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/7467784054.mp4?token=KzZSPHlY_0XgCO3rJdVPjzRW-eBPKODRT7lb-uaP6v-jCHdT7djgkcLZH4pTTk9xfwt_3J9htOYtej4v8bVEPQ319rrx8E8u9CCOSvK3fBVRvLLAdI_hPDIzPU-Z4rDmWEYcsbrA6DCR1mL6To-c0Hpt-V111sztHM3699hPJlRqa4ogwxHNUayJ7_kSz7VAvGeh6zf3c0Vsykzd9hkk5AHscJNuBVHjju5_4ig6k1mw_WJCX3JdyEQu9KdGBWDIM4BvLaLKwmNo2SVZAmkN-gNcczhYXswlhSqhajAa6N5e3EjuSjTbzc5yyzspN1cfAmUxfF4RAg2cTlaY3f-hOgMh-jKug2nJQCiFDzB5bVqMrymWLA1RWnqRmCax5A1kT6QMQIiI6vs4z5obW3U92YSSy-Ao3iCb_ou0hyGRsxVBxF_jS_SP7zpBDeZ19it2jHNA-UDt2gNrc1YB6L1jxgNRg_UpynWoPmfYskDnT41wUYAsRNaTz_Z8FMGO6jWlyp0oUBileKXEa0Mb9DK9Yoj7TuVJJqRCDyliNfP_obwPh_agLneZzix_cYqNkR6iYdpcFcSQfmq8t1I6WOcJ689qIeR4AyHQ-Mbww_dlLC5Ka7AKwR0DQN6jchmsRbSAnBiW2ZMD3HaJn1IH-lcvAYrZ2ePK8hnY_pNHF6jccA4" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/7467784054.mp4?token=OGyWlND6QZTbE2jynHtICZ7UZoBnvnnYSxlDDFYcYj6slI4lwXu1hD1DLbC3eOSFviIFbci65W4jHSFjjtZl7USh4r1uwmcNtKtzi4fDl0HxEqkJ3dhaiFRpwbIwI__3ovI3c0ITMZtia9ekeAlF_H4CscL70sgh_OYB2p027gi-uRWvgGlYkD59RzY9eg4eJbKZCkbEKEZw0XZeR1YTmcNbQN4hdRC57sXTxD3imOuwBjPz2uPaD60FLrlvYXrlNatPIHZBTMNPk5JMTZV5-ppKILVDpfFSuYcRGLzhoVX6CM5urpmBQyxUydCwV9jnO21xaXZV9wbQFJZ_OXQeRI5IZcSDSXu7NXAZjFTGDZWZb4uaTkEPYSmsP7vcHaoIAXuOJRQUTTWzLdeo_jlBFsCimec4C9EvXcG69JsmkyF6lcf3UFXJvIhxBulyX9tgxhpdJrNBqiucx0hiNZyovLwuYoAy11-iArM_SHEIsBmXvibImrFnKHqTgjO4l8zsxN9pcehK4OebdOL-CGTa3w4lMffNKwymxUwH8yw7PH9ALjzNwYTyOm4cHeGRauQMjxi0K8ac1HE05nO6bXj-t397C3GUxqNxUSyybA702iti3fHH0zSLoAbGJ2cbTpMNVjB4Yjz-NDPEjTVBNKivnSkKRqsXRi1KoMONQWYc9N0" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/7467784054.mp4?token=KzZSPHlY_0XgCO3rJdVPjzRW-eBPKODRT7lb-uaP6v-jCHdT7djgkcLZH4pTTk9xfwt_3J9htOYtej4v8bVEPQ319rrx8E8u9CCOSvK3fBVRvLLAdI_hPDIzPU-Z4rDmWEYcsbrA6DCR1mL6To-c0Hpt-V111sztHM3699hPJlRqa4ogwxHNUayJ7_kSz7VAvGeh6zf3c0Vsykzd9hkk5AHscJNuBVHjju5_4ig6k1mw_WJCX3JdyEQu9KdGBWDIM4BvLaLKwmNo2SVZAmkN-gNcczhYXswlhSqhajAa6N5e3EjuSjTbzc5yyzspN1cfAmUxfF4RAg2cTlaY3f-hOgMh-jKug2nJQCiFDzB5bVqMrymWLA1RWnqRmCax5A1kT6QMQIiI6vs4z5obW3U92YSSy-Ao3iCb_ou0hyGRsxVBxF_jS_SP7zpBDeZ19it2jHNA-UDt2gNrc1YB6L1jxgNRg_UpynWoPmfYskDnT41wUYAsRNaTz_Z8FMGO6jWlyp0oUBileKXEa0Mb9DK9Yoj7TuVJJqRCDyliNfP_obwPh_agLneZzix_cYqNkR6iYdpcFcSQfmq8t1I6WOcJ689qIeR4AyHQ-Mbww_dlLC5Ka7AKwR0DQN6jchmsRbSAnBiW2ZMD3HaJn1IH-lcvAYrZ2ePK8hnY_pNHF6jccA4" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/7467784054.mp4?token=OGyWlND6QZTbE2jynHtICZ7UZoBnvnnYSxlDDFYcYj6slI4lwXu1hD1DLbC3eOSFviIFbci65W4jHSFjjtZl7USh4r1uwmcNtKtzi4fDl0HxEqkJ3dhaiFRpwbIwI__3ovI3c0ITMZtia9ekeAlF_H4CscL70sgh_OYB2p027gi-uRWvgGlYkD59RzY9eg4eJbKZCkbEKEZw0XZeR1YTmcNbQN4hdRC57sXTxD3imOuwBjPz2uPaD60FLrlvYXrlNatPIHZBTMNPk5JMTZV5-ppKILVDpfFSuYcRGLzhoVX6CM5urpmBQyxUydCwV9jnO21xaXZV9wbQFJZ_OXQeRI5IZcSDSXu7NXAZjFTGDZWZb4uaTkEPYSmsP7vcHaoIAXuOJRQUTTWzLdeo_jlBFsCimec4C9EvXcG69JsmkyF6lcf3UFXJvIhxBulyX9tgxhpdJrNBqiucx0hiNZyovLwuYoAy11-iArM_SHEIsBmXvibImrFnKHqTgjO4l8zsxN9pcehK4OebdOL-CGTa3w4lMffNKwymxUwH8yw7PH9ALjzNwYTyOm4cHeGRauQMjxi0K8ac1HE05nO6bXj-t397C3GUxqNxUSyybA702iti3fHH0zSLoAbGJ2cbTpMNVjB4Yjz-NDPEjTVBNKivnSkKRqsXRi1KoMONQWYc9N0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">⚽️
 10 گل‌برتر هفته‌اول‌رقابت‌های‌جام‌جهانی 2026
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 41.3K · <a href="https://t.me/persiana_Soccer/23735" target="_blank">📅 09:17 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/persiana_Soccer/23735" target="_blank">📅 09:17 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23734">
@@ -1188,7 +1188,7 @@ MelBet1.net</div>
 نتیجه دو دیدار بامداد امروز جام چهانی؛ پیروزی لحظه آخری شاگردان کارلوس کی روش با طعم کلین شیت و شکست شاگردان کاناوارو مقابل یاران خامس رودیگر و رفقا در کلمبیا.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/persiana_Soccer/23734" target="_blank">📅 09:12 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/persiana_Soccer/23734" target="_blank">📅 09:12 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23733">
@@ -1198,7 +1198,7 @@ MelBet1.net</div>
 نتیجه دو دیدار بامداد امروز جام چهانی؛ پیروزی لحظه آخری شاگردان کارلوس کی روش با طعم کلین شیت و شکست شاگردان کاناوارو مقابل یاران خامس رودیگر و رفقا در کلمبیا.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.2K · <a href="https://t.me/persiana_Soccer/23733" target="_blank">📅 08:52 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/persiana_Soccer/23733" target="_blank">📅 08:52 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23732">
@@ -1208,95 +1208,95 @@ MelBet1.net</div>
 نتیجه دو دیدار بامداد امروز جام چهانی؛ پیروزی لحظه آخری شاگردان کارلوس کی روش با طعم کلین شیت و شکست شاگردان کاناوارو مقابل یاران خامس رودیگر و رفقا در کلمبیا.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/persiana_Soccer/23732" target="_blank">📅 08:36 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/persiana_Soccer/23732" target="_blank">📅 08:36 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23730">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/AFSY-9BHvcoXWSIC0agsInsS22hf2vYDh_SAv72WSDp4bZlQr6c77racpNsG2_--82F9n3uUtztUzyJDONl75b8z5rHj8d7bLcxXvCCV2F4fPPsOOT0TK-T7bxzVbqCXWyel94wMcxush6vRw1srxOdRE2rR70f73-VTLWIHy_iJWGk2XJEuPpnopuVN0R9RhZlIbT2ryIZiTBpiM4obYgJ4FbcYx1oj3SFgN22Ys3Xsu41u--13h7ELHVN0ysL6fNJy5l5EG7u5O-GrSNu3j-uSSU-aZXVlSn-2oDoucy7DT1hbj-VFYsv4Ju7Vg-3JIZyqNT3uHN_JCKIkSBhm5g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/kAwhc7oCUSSP-WUkyRtugYpfqVy4J7LymEt_UIp6TRKlHuFgbuNUiEuD1A7yOBWrUJ0hXKmz-JXtNIAZfg1g1ABBpyGAJagxyvnWuCtbajBD6SoJWtb7X2E0fcaNWsMLfG-W-RWr9ZnzO25MIyOsBH4HlNlGJn5Agd7gvdCk-RcNNkR44NC-O8pizqMx8-fnpY45wiIAoh2E318vxmO3voYyb6AZJlbDr_YoAZpSlnJP9JqM7hoPYo4b2rZ6Jr-a4pZlE7rBvFmQzGrWgT64BsI1OJqwcBZ-B-dsxeh8IV4ekck8vAMLDGRGUKXLBksDxmnEOCrDhHX9ImuRBr6Mlg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/R5zOsXm4PU44FdX2l3mC6PaN03TCtLlAV8bGr1luofBvr_sITlmus8NboB6BocSELguGxshNLcLIV8s5pF_FBL8OrxFCbSAcKvp5z5JeAaZXQm1wIW6ICWtQKaxk_aTgk53OODlKo3xr7vg_S1eY0P73Z8Q9csXjm-kVUaLo9xKbU_29xEqZ9aq95lpZDsDQ9Z_1JWTitmv1uWp-ZVbOS-EURqAnJlTY13_FOqtWBT2kC5_BbpjnKZuJkMLZ-HG1uflVKQy9DX5lA9cd3mTFMMHjjIlZxXGYnrrnPjgkxbqs_sDoAOPmo2Tfaw0LLoJm8FTms6v_Bgz0G45hy5T-mA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Xc1txBfpT6ttq2vdh6p50SnBmPXike3_aAtGxhPMhPuZTYxVBE7HNFTz5mUS8_78gIrhw9rML7WcEdXFSsXgObz7LkWyk0KavreDaQB3wqG_pyNfTns4LXw8daCQkuvE0dHbnARKyhSQdPHwT8VT_ID6x8n4XrCKrVSNXe5N9Y_KZcVe9Po46a_jZJA8XxI55-XzU65llOkpIs_62JjArcFGCAKmHIaJv6JFIuC5pJjCGAChPUVQYV3EAfIsQ2U5QhJHmMyoOCNp_QaNRAJOchccHV-W-wdYfhpJKa16QAAghy95vfCyMLo_aJRRv9s-eeaJ--JDykB4yxJCaSIJrA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">✅
 برنامه‌دیدارهای‌امروز؛ ازمصاف شاگردان کارلوس کی‌روش با پاناما تاجدال یاران خامس برابر ازبکستان
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/persiana_Soccer/23730" target="_blank">📅 08:28 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/persiana_Soccer/23730" target="_blank">📅 08:28 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23727">
 <div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pcWWto5h-NMdypRUFEfg_npobQpglpuVhDH4Ih8zFy1Fs1Z_Qp7B8K5_RyfShuupWDJ5M-A_quhW5k_K_GjBm_kAo0zHGMIf7JOZPxHVu86OKXMoKQzvIikTC0KD58gN5upDL_BaYI4tC6-hWEhPj8y9VYeMUV59_jS1Y6_wASGstVrJn944gf4PbZJywcwcW8BL7Dw7pXQR-cCZB6YJ1JUUSlzs8i30K36ndgJf0_lfYZmcPkgFhj2LpGyTfB4CLBKnHb5K-Djv2Ck4clfECZdVL8lI_T_BnWM6zML6tXQrTeEHkmHbwl5r97xP5PNL-s_4dT9X4SyA6FIt_bCyKw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XYPaUwtAYDpaR5ZSArwICSkxnNd5nuQPtLMX7hv3k1jHxA1FRK_k4nCVaOhloxGoD56ncATDHrPpyBRJn4jkrvy7F2gzTogHliieeWegWWL0RzoUd0HHi3NZtKVj8UceRak-hbAbYkGXSjZayxilArw_U3izKfwZBPCgR9HB5XOCKMTesLNHNxOf8BjyNwFz_sAv2wNqFDuNhdtaqGHUkrYSVLqAw-P71qZn5wCWSLT6lhghQ6oKZC-LKDei7zxA0teXFY-khP_VZHmOBUxP6Rg-5tFe09KnPUS_iyCoJi889eWjMT3O47dwH0vtdTvoiRnlZ4ewV4EJePADE6n0aw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇪🇸
 🇦🇷
 #تکمیلی؛ نشریه مارکا: باشگاه رئال مادرید بزودی برای جذب انرو فرناندز به باشگاه چلسی آفر میفرسته. مورینیو برای پست هافبک اولویت اصلی‌ اش رو گذاشته برای ستاره آرژانتینی چلسی.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.8K · <a href="https://t.me/persiana_Soccer/23727" target="_blank">📅 02:52 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 45K · <a href="https://t.me/persiana_Soccer/23727" target="_blank">📅 02:52 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23726">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ihb-AnW_Gy2x_6PXrHXDsk7NzDlOBesr_U7TxLIK6Lcz27EuQZVBkKVdabCrBabRS9Set_AT-tXtFEMy7G7gFWvdQHRdJn3z0qoLzxjO_ME4bZvCCcqd2vg43A5eSUV5QzPjO60S-fd4ReHVckilCF2EQnGplxXCd_x6mfBWAZOi_q5cB8nsiPflr4kwnuREocT7pf3FZj9i1Y4WxJM4LR9O3auAQBCvo_xITjBYquUa3tXZ1cT9vWQuYSDe0adXQcea6ZsU1MbuONmCN5ew3yVxcx9uHpIP7P5pWJMSCbC5sLF9GLooL3BYEjTqUoa2BV7aK21Vd0a83GSX9DrvaA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RUxPB84h3XDHCAv9YwzGQFDdwsoRKtzoJtq087OH9IDp-QQ5L6qokrPLI0UEI_kLmGK-MTarshO0AsKeHuhkSrQmNW4rjYCyuPngI9_G_HjsQ4fh8V9z7wwRi_1Ka4YLx74TxWYIplYk95YaFPi6brlCXeO1OG49AuJbV2ucekZCu2r2xUutRvBMYZQcsy4qQxAStVWLulGNQVMW_bOFbnUYoGZKSP6IMdIvr6KzqZxFTpy95BDCpSmLdqMXaHukpnyKyG5ejefT7gFuXgwC6lu6VtUht4NCPUWXklVsKXleZBNlvtHzcK2tlK8nspD3V0r5Af5HVdBcjRwgYJ_Sbw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 ‼️
 #تکمیلی؛ محمد دانشگر به مدیریت باشگاه استقلال قول داده بزودی 18 میلیارد رو به حساب باشگاه واریزکنه و کار به‌شکایت و دادگاه نمیکشه.  قضیه از این‌قراره‌ویلایی‌که دانشگر خواسته بخره یه مبلغی روکم داشته که‌تکمیل‌بشه به مدیریت استقلال میگه کمکم کنید این رو بخرم…</div>
-<div class="tg-footer">👁️ 45.2K · <a href="https://t.me/persiana_Soccer/23726" target="_blank">📅 02:15 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/persiana_Soccer/23726" target="_blank">📅 02:15 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23724">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rUKG6ro6ugrtNleEsSpiV_NGAZsdjg_TXrSdBFddwdWqkBvv_M1Bz1_CN7UnoO3sjNwPEsUq_hTTl7Nt-UqqlrpQ13F8-XrYdq04UcWA45K84WNoeByIHZ0uff_yEIy-27CBvDisF26vVCPOwsSvbTzqJvFGVmPsZPqtacnFgNofaowZ4b56MDeZ5V1vrr8cScGkSry0y2ioJotoF_17hteeIGjvXxssNEIFKevYmey2y5E2YmjoEOAPXn5TzDzjw8z5OewmoUHJMuQF56bEeSLrCFlvqVFd7pPjwicQBLicf6QOdvJE_0sziNnTIwc2mP7GzKGV1m9TNQ-4QGVrTQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AsYifXvhUv-tzqqeO6_F69K3Q4zcdoFJUj5g7EsQjGQJLLuV3j2Fgz4lNX8vrLvfYv3DyKmtdChCitdBeUKYUjUBjD8BMdQ_oEX0RoC2xG6ZWBkEEWrUx941ZhicU0OS3BtSzdkJ0w7RUWf6Lybe2pTHQYO3M6NnZItEzZUQ9XgQtStW-iM27UpyAfvZ1h6NLHUflXqBdH_RZK85FjLkbmHVHBLy81ayRCyzqttQbG9imTo7q7mz9LSH7XelsAhawyYghCR5DaKQvSiJPtJeA8WQdlXeiIDuObZEN9Rn2CplPJvOucNsyKAnHdWC9T6yQUejcNyDWzapVSbY2rOqtg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 برنامه‌دیدارهای‌امروز؛
 ازمصاف شاگردان کارلوس کی‌روش با پاناما تاجدال یاران خامس برابر ازبکستان
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/persiana_Soccer/23724" target="_blank">📅 02:09 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/persiana_Soccer/23724" target="_blank">📅 02:09 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23723">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/de9fZzXmU2-SHWpFm0YbjIrhFmnGqustgHULB40JKjHYQeMEbFh8TG28STygO9vi87FlvQQZA4oO-jBKt_JuRy3ppQBYh6ptNYef5NyKiW24zwS6Ue0vct38dSUvwJ2_cEyCaHuPf3Z--4UkyDNFJf1bsiSQkqTKV8fkFdWfUSmiDqAmrsSor9BkvPr6-LWhXV2A8FppfvaTnHP5Yc4vh3CRu_HG4bL7KC6hrNaU_xdgihqQNggZklgVRDPXSQxHjbwPgKVueloDnn2Sm_zUnVNbxlq55R7Y0dKYilmTU3w8RmLSLSuG2qtiIQNjDaTpuDAh02BK9kEkZgJZZLT0fA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SdQLSFPL9V5EFhSOofItQYRydkluQKPwRKFBGRIloJw5m8JL6oVexJenPYqZFu28QWr43BTQ_EO3wuSz7_4qc_Ni0cENhOXKPDp0BjV63lmD_0QLxUkyOKXwqqiWgz3eVFqSqcuK8h56eq-YHWnLpOWYUYg6L6cpZTXCMT6PBeDd_1pe1Ra7_scgr_4Uifqi7nNuVaSIt4yFQTBMXpBOFpQXCHqHRh8QqmX0Tsw7sPVtMle8bcymX7vPf23dL_rGsdFYsGMR3VZpHv4q3fM395ZdwEwd4ev78UFJ7jrCz-D3fqXcpragromLzitNJ9Flez-hHFM1HfkYDZESwegw7Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 نتایج‌‌دیدارهای‌‌‌دیروز؛
 از هتریک فوق‌العاده مسی درگام اول تانمایش‌درخشان‌سه‌شیرها مقابل کرواسی
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/persiana_Soccer/23723" target="_blank">📅 02:08 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.6K · <a href="https://t.me/persiana_Soccer/23723" target="_blank">📅 02:08 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23722">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/b735dd21e2.mp4?token=HshmGiKWq7c5e5KTE4zC1v75PI-FvjAqqFwjXURF-8rzxPLND7E9rENCpCo6nVX-udzULwnA7Ir8JCCyFWdcwkO7_J88pVSeQfW2K98Mms91oIWTw2e0kMgmtEAuoqr1JEt79YspMZgJ8GqyPjwtd70a_xkrJKuqmiOoDq2Lh7asUi3DO3G4Dj3jOVOVw-Yu7g69XrtQzWAVHwepme-g2WmsiTx220XHw1p0lmuCKUq9ibglw156Qn2uJCcqm8MsxmB9b1GTB6Uj3r0UN06aR2xp2WiVNTWyzdxzfLM8t0alJ5gdkoJn8y2YT3cklLtedOpsi5tRn4m_ZBU7EQpJIw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/b735dd21e2.mp4?token=K3Admraksi91Ei9mqW3Qt0dxlh1NFHtZ4eO3C6k-NllHXCfGOJ2DqOw8aHesWCkx_pNM7w0rnXJm6VUDeJdZC92XtU07LDhUJ42uEZW8xoU17C8Z1P18MskrU49Y7cI_B-ueYpi6h1dlHOzeedwk5ES0XkWugchV7uRkfCQDfG-rdVZWmkYDXQYSZ2TWiiB8A2m90wSCecFxk0S-5Q6ZIASSqr9bM7h1iANR96PIFx8YKeG617-C9Ppgk1yFvL2LZvFeGRh3U1xXUOKieVB5JWW2DG82xwebRaLQh-Q6KD2Fs1c5Gz_Sfywbfn2ivWomVltLMv-REtmpgvs8MGkELg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/b735dd21e2.mp4?token=HshmGiKWq7c5e5KTE4zC1v75PI-FvjAqqFwjXURF-8rzxPLND7E9rENCpCo6nVX-udzULwnA7Ir8JCCyFWdcwkO7_J88pVSeQfW2K98Mms91oIWTw2e0kMgmtEAuoqr1JEt79YspMZgJ8GqyPjwtd70a_xkrJKuqmiOoDq2Lh7asUi3DO3G4Dj3jOVOVw-Yu7g69XrtQzWAVHwepme-g2WmsiTx220XHw1p0lmuCKUq9ibglw156Qn2uJCcqm8MsxmB9b1GTB6Uj3r0UN06aR2xp2WiVNTWyzdxzfLM8t0alJ5gdkoJn8y2YT3cklLtedOpsi5tRn4m_ZBU7EQpJIw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/b735dd21e2.mp4?token=K3Admraksi91Ei9mqW3Qt0dxlh1NFHtZ4eO3C6k-NllHXCfGOJ2DqOw8aHesWCkx_pNM7w0rnXJm6VUDeJdZC92XtU07LDhUJ42uEZW8xoU17C8Z1P18MskrU49Y7cI_B-ueYpi6h1dlHOzeedwk5ES0XkWugchV7uRkfCQDfG-rdVZWmkYDXQYSZ2TWiiB8A2m90wSCecFxk0S-5Q6ZIASSqr9bM7h1iANR96PIFx8YKeG617-C9Ppgk1yFvL2LZvFeGRh3U1xXUOKieVB5JWW2DG82xwebRaLQh-Q6KD2Fs1c5Gz_Sfywbfn2ivWomVltLMv-REtmpgvs8MGkELg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 فیروزکریمی‌پیشکسوت‌فوتبال:
 بیرانوند درتاریخ بی‌نظیر است ولی لطف کند کمی تنگ تر از این باشد. این چیزی که ما دیدیم خیلی هم تنگ نبود واقعا.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/persiana_Soccer/23722" target="_blank">📅 01:58 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44K · <a href="https://t.me/persiana_Soccer/23722" target="_blank">📅 01:58 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23721">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/1e924ecdff.mp4?token=cXvbi4L9ML0Cbmvv5J11v4NepUrVJvKjAHiVsz7AjIbuKw5QgFV28wmNH4P2yPaY5RoQiPw0pZVi6PH8kf8ilinE9ydX5PPlxjN-6-AXiP2UNs8F_2aXvQGOAJ9zacW4fjWyB30-5_sK6s_GQdVeAAKgkBs5ge47c9p0tlYr7z323TbIvhmmftI-Lf4fRP7dMWpAHrSDfjfrB1QnIkywqZ8dbPii9Rsn9HjsPpBVrsgWRLMQUNqaEe6urOx8EJFzC2su6idJf6BtkfoNKl4_JNavHkiWQgRwkaJSKTseVvL7bLXq4n570vg8Uvj8S0js_UeALJG9NBloy5S45oGhMg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/1e924ecdff.mp4?token=gnw3wBQY1yA_t5IlvSrPNUrGmA4-Hk56zkkGrVPtDVXAix4Q7_YJoy9Ocy1lft4BnIJrV0jmL8Z34rqdLoM3j7VjVcpim2KBYeUXm-Q-dLxP3EdIYsfqjTrw6aY-fMIbEJ9nw_JnJOTTaKFGdwuTnHF3MI0S2X3VqbU03dF-sTkdC6dk0nnnG8kclV0SGNJNAucb949SVNijAOfbiEZqXV2L0Rpj8KDhyFl9cySI5B82HD8OMkaXWs0SgRvM9szDYcOVA7ffMQW4xP39ak_7ONGRilxPLTi8iQr5XXjT8MLffwy_XmiZwDSwTof8iW391QmvVgxWfL7ob3FScoR3Bg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/1e924ecdff.mp4?token=cXvbi4L9ML0Cbmvv5J11v4NepUrVJvKjAHiVsz7AjIbuKw5QgFV28wmNH4P2yPaY5RoQiPw0pZVi6PH8kf8ilinE9ydX5PPlxjN-6-AXiP2UNs8F_2aXvQGOAJ9zacW4fjWyB30-5_sK6s_GQdVeAAKgkBs5ge47c9p0tlYr7z323TbIvhmmftI-Lf4fRP7dMWpAHrSDfjfrB1QnIkywqZ8dbPii9Rsn9HjsPpBVrsgWRLMQUNqaEe6urOx8EJFzC2su6idJf6BtkfoNKl4_JNavHkiWQgRwkaJSKTseVvL7bLXq4n570vg8Uvj8S0js_UeALJG9NBloy5S45oGhMg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/1e924ecdff.mp4?token=gnw3wBQY1yA_t5IlvSrPNUrGmA4-Hk56zkkGrVPtDVXAix4Q7_YJoy9Ocy1lft4BnIJrV0jmL8Z34rqdLoM3j7VjVcpim2KBYeUXm-Q-dLxP3EdIYsfqjTrw6aY-fMIbEJ9nw_JnJOTTaKFGdwuTnHF3MI0S2X3VqbU03dF-sTkdC6dk0nnnG8kclV0SGNJNAucb949SVNijAOfbiEZqXV2L0Rpj8KDhyFl9cySI5B82HD8OMkaXWs0SgRvM9szDYcOVA7ffMQW4xP39ak_7ONGRilxPLTi8iQr5XXjT8MLffwy_XmiZwDSwTof8iW391QmvVgxWfL7ob3FScoR3Bg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🎙
 ابوطالب‌حسینی‌درگفتگو بادکتر انوشه در برنامه امشب: باورتون نمیشه ولی من دوست دختر ندارم.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.2K · <a href="https://t.me/persiana_Soccer/23721" target="_blank">📅 01:58 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/persiana_Soccer/23721" target="_blank">📅 01:58 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23719">
@@ -1312,7 +1312,7 @@ MelBet1.net</div>
 علی فتح‌الله‌زاده یا تام کروز در نقش ایتن هانت؟ وقتی علی فتح الله زاده در زمان سربازی فرمان آتش به جنگنده میگ 21 صادر کرد؛ فقط نگاه های پیمان!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/persiana_Soccer/23719" target="_blank">📅 01:48 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 42.7K · <a href="https://t.me/persiana_Soccer/23719" target="_blank">📅 01:48 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23718">
@@ -1328,65 +1328,65 @@ MelBet1.net</div>
 🇭🇷
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/persiana_Soccer/23718" target="_blank">📅 01:43 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/persiana_Soccer/23718" target="_blank">📅 01:43 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23717">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TQxMOrV5LQ0gCr6_4XVXkkGD5X3a1lrhuHK9mIV5lfJh8CA9mVFEOPnlCXqNNJ19tdOe3D0RL6dw4XZjj1UTxAI0f2cteTJkzIcuBWQGgfwMlMCdfcnWj2Dikl6KhZGTCa58nsd05QRM9MXdl6JMqL41YMR39cTzl4BZM6Za70c9BGDzUy5MGbxOSguczQX8yqjT-nCiCxjiPJOiMbmi8w1_I0H4aQOyeFWhx-GAlvki5nrqVguBQn2DGHEfOBn0yrbVIOUX5qg-tVrihfgFZT6sznuqJrHumF34nSNk3y5iV6B4Ar6_NAPZiGblquaSL2n-OvwkbLKZKOHIpQ4lXA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QXY064U2NPcnH4QTYzHjAhUd8vVqjF4OKwoebu1rM1iGQc9hNkN7v_FZT6QGQGMVkr7G2SJUNzKjlwg0_9quXxtidLT_Y1kgZ0F2xt6nFxNZSJ4mG6bCeYFcwy-H4cYZEyT5oFlwy7DZUStD39jp6Q_PrasCYWY14skDJU4y1iLZV67i7wxI4iA6wZvVFgvQmehL6WWxIDnp2k367Gxd6B54jan10cUJCpuvd3G7gprzF4HA3t5xUqLn_tGHvh03GM8qeeXuq8RLcQD5AJKei6A60OVnnU43HghbLqt5uEMcFFw9A7AhySMkoyOLxTpHLcXSdOpAg5yJjD4HR5Xw9Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🏴󠁧󠁢󠁥󠁮󠁧󠁿
 هواداران‌تیم‌انگلیس پیش از شروع بازی امشب؛ برای ترامپ شعر ساختن، فیفا هم اعلام کرده هرکی شعرو بخونه از استادیوم میندازیمش بیرون.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/persiana_Soccer/23717" target="_blank">📅 01:35 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/persiana_Soccer/23717" target="_blank">📅 01:35 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23716">
 <div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5d2128a8f9.mp4?token=FHrY9EkyfFgkgiJ_nX1aqkcevFOWyRasgAEvXvyCOtJNXULX1PWeTAIHPMt2UIDobrZBq3bX7keS_yL-4OvVULh4hwZRs3BqhOQ9eowe-ace-bmKcxk-1X95IBgyVEjX0vwvqzMUe9qYJ0OgyodMBXUdaAFS_lhHFaRrGN0Lyg-3uzFhp7v7auwsMsaMoucsijp4Rj6BNaTRdEfpAPiKfo2IxfqNnAeXnVQi6t9oXjV-P4YJmtyQxvELra07uIaswhe_4PdJwQ0yKabGXVKICwVVXWxu9MQpkTJAgGzrHhv_5l1HpdRYbz6nHfWdkFfNOCDYPamUDcZezXD4O7-A5w" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/5d2128a8f9.mp4?token=BU3hJnQNrTh0nm4D435XB7WMu0RTUA2A8S2uD-kmpgesDVLhJK4j__M_oKb1gSgkTCNvI8vDMxGT9K5UgsLnFlnccKMxOPs3ZAzzSWWTeVkB3SklIxNc05OX_r8JBk0oaSAMAW1cM_Irb39mKmjwxijPZMM83bxV42sDcbeG8EkyWIuOPD1AW4E5-wqV9et5Cz6zXihstXScDYeRH3H-yRCcdkTpGqdjtL6SXZM669UwPcQKwvi0I74yfu292pZJws_euoV32QF9orjaRrpPSiDAoscsSLFCTgXVzubTKmbgtye758rtBQl7l8ccoSqy4Gijc8Tyky-_5hiqnl4JVw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/5d2128a8f9.mp4?token=FHrY9EkyfFgkgiJ_nX1aqkcevFOWyRasgAEvXvyCOtJNXULX1PWeTAIHPMt2UIDobrZBq3bX7keS_yL-4OvVULh4hwZRs3BqhOQ9eowe-ace-bmKcxk-1X95IBgyVEjX0vwvqzMUe9qYJ0OgyodMBXUdaAFS_lhHFaRrGN0Lyg-3uzFhp7v7auwsMsaMoucsijp4Rj6BNaTRdEfpAPiKfo2IxfqNnAeXnVQi6t9oXjV-P4YJmtyQxvELra07uIaswhe_4PdJwQ0yKabGXVKICwVVXWxu9MQpkTJAgGzrHhv_5l1HpdRYbz6nHfWdkFfNOCDYPamUDcZezXD4O7-A5w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/5d2128a8f9.mp4?token=BU3hJnQNrTh0nm4D435XB7WMu0RTUA2A8S2uD-kmpgesDVLhJK4j__M_oKb1gSgkTCNvI8vDMxGT9K5UgsLnFlnccKMxOPs3ZAzzSWWTeVkB3SklIxNc05OX_r8JBk0oaSAMAW1cM_Irb39mKmjwxijPZMM83bxV42sDcbeG8EkyWIuOPD1AW4E5-wqV9et5Cz6zXihstXScDYeRH3H-yRCcdkTpGqdjtL6SXZM669UwPcQKwvi0I74yfu292pZJws_euoV32QF9orjaRrpPSiDAoscsSLFCTgXVzubTKmbgtye758rtBQl7l8ccoSqy4Gijc8Tyky-_5hiqnl4JVw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 چه‌غمی‌داشت؛ یه‌روزی به‌خودت میایی می‌بینی دیگه پلی استیشن رو گذاشتی کنار و بازی نمی‌کنی
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/persiana_Soccer/23716" target="_blank">📅 00:37 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 45K · <a href="https://t.me/persiana_Soccer/23716" target="_blank">📅 00:37 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23715">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qWYl7j4uh3g76s-y7JXjKmF3NW2AAsJ-ZqvQvjeuEF0foPYGOHBQdXr-I33I1CMXUrHz4MhUY8aJ4bNq3MTpOLaLR7dEW93GBKSLarmzxCKp_L9bf4qBQa2hNP45aU1Vnt46UdnqfT5cgd9j-hTtZjdeOPljSKe9rc0O_-oLB8bYcgIVJLv3OkfjtDE_AT_SfN0aVFO6ELYJ3F4lhfXmPrPVNJCCvHK7AJTzCUCxzbQH3YdrFrkS6aOotOvr4PdrKLOkUIOYwsznZxYHnN4gokyIzrueQZuujQZ2q-Mhaz7cX2JYU1MN11OENdjGy7qMF6ny2gSrFh4L67Kck5D2fA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JpTNrE3etrAUNhAMTTRf1tOgbu8IroxEhyxjW71Ekl9cme1J8dfvP2sQVBdheIIxIp1hKDumspwJu8USBkk4YGLPtfuQAWiYsCV0L7Lr9cPJ2DODlrF5uSKajhTe2Tz0GQ0h65boRLOqTUCh9uY9Ygj2zft4aZoqMHiUeCdprwP1nQnNhFj4XxZOzK1DY_7DCISb1r4zSxg2mFcMp2v5PRsu1PI0g7g-BP9KtqjaMJv4MFd75yfQamIBW-Axmvy8lo3-tRwFWv_0zcUVSfTBGCxaZyUVPPje8YuW9j9oUC6P3lqiLj17g7OHkjITKCoEnjqpoB3GONbeVrytEIIXnw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚽️
 هفته‌اول‌جام‌جهانی؛ شماتیک‌ترکیب دو تیم انگلیس - کرواسی برای دیدار فوق‌ العاده جذاب امشب؛ ساعت 23:30 ازشبکه پرشیانا اسپورت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 46K · <a href="https://t.me/persiana_Soccer/23715" target="_blank">📅 23:27 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/persiana_Soccer/23715" target="_blank">📅 23:27 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23714">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pgPtJek-tl13svGIjuWJ-K6fF4I_xi6zrYbKbrRoExkcAd_wppKl1hcOISqrcEUCKZdQYtlBRBAivOnnRlQHpzpLwxFYJDFvVaoj5erRkvZsGCeZEgz5mLnZpBB-4fCfS5pbZVXsqO7P5dQQa_6erRONs-T-k-loluDMvBBBz6Q7P0oZEaIv4CYS_g5ewK2s0Log_VDoL_tdhlPVMAGOD6yD0-PKAs2l1u3MDZJBiuz2sm2fkA_VwXd3cy9ST3xcnzwypkaET7OnU0FQ8EdOyG32m6AFK4n4AUfHPGnl9m17F3hXfI55p6F1BFFNX6ynN73uLLDrOKDC8ptWPQP0yw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NI7plKJhnu5ASTf8BekC3XavDnmzIGcLmHe6-tGZfPcWnQ5sltcaeMWJkqbuvUrBD6vtmOHm42MdSBKw9CF8MgXXBKef-LXx4Od8YTN9TIqFjOWCh2ZJv1K5IvsGebJVc75zfLJJ11ec7bfu6EP5hY3QFo4LSMlkyj0c8vo-iIb8DDtMDm-2Ue0xhfQR581BI11BpOcaiD-NeWONqR8hA6jIM-2m_WNmcBr7lg2NMFJlKaIt8aoxqjuuLQz0FzAwMj-WYMoOOh58_IfOkHxh4YJPsuSMEO0llkTs6jZoT-_yo7f68qwvodpx1dcOOBb1uPkV0W94a7lpMAdK77a0DQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🟡
 با‌اعلام‌باشگاه‌سپاهان‌اصفهان
 ؛ آرش رضاوند و میلاد ذکی پور قراردادشون رو با این باشگاه تمدید کردند اما محمد دانشگر حاضر نشد به باشگاه تخفیف بده و جدا شد. رقم قرارداد دانشگر برای فصل جدید 170 میلیارد تومان ناقابل بود که کم نکرد ازش.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/persiana_Soccer/23714" target="_blank">📅 22:59 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 46.1K · <a href="https://t.me/persiana_Soccer/23714" target="_blank">📅 22:59 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23713">
 <div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/79c30d0c69.mp4?token=cLUtNF8rHTEuq_ks3Wdi-XD3_Ty4zKWgtXDX5TScdVps7THHRQmwKgZzn8eloGBIo0PaWnqTzFcr78hL5yi9jL0JVwOTUXD4J8dfah8Dp9F4nfPSPyLFZBs5fn7zOb49vU8QbdWam-s8FmRdyv1YoWL7GJunaScU2j3fa8tpD2njIClQlCpbmOOzD7A9kpwNfM8XtbzDFtB981Ljei5-FOcHnecCt08b_nvkfXsmBCsxnHUp91IrIKcJtwcUhU9kh4drTiRVzR-swt1amxXJ6b8ZGJPUs3UjCj8Soc5MSjm-1HClbdEvIxcSTa2vv5VoNK5Te493CRnClu80mfxNE2oLnCUXoD7wlYW3uYh9VYY7OBBLal2Lb_twuCXg9gbkO_2ezLv4ItIqoCYtdzpfWkfV4vznF7nPWqq81BkWL-tEQRKqhccsgxtV5ZC5SgfQcN2wyGusd3T5_RUHqvzpbDxLJnRVmw6U5f59Itg7gqVw0PRqH3KOm07Dua9o-d6StGhizd6XQG-4iabAX0N7e8tcSP68jl0H1IP2lOoNN01UKCDxFs9y-aP1ZoC96N40rY-DZHezM0s3z7ilti_FA_OQFOzc5IKK0Z9mH8wSrXIoAtnZ_bzPxB483TwFZAwYk6GHYtUE4hgpNmmx0Jdd7-c1_af-i8DStS9sNJapcKw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/79c30d0c69.mp4?token=cLUtNF8rHTEuq_ks3Wdi-XD3_Ty4zKWgtXDX5TScdVps7THHRQmwKgZzn8eloGBIo0PaWnqTzFcr78hL5yi9jL0JVwOTUXD4J8dfah8Dp9F4nfPSPyLFZBs5fn7zOb49vU8QbdWam-s8FmRdyv1YoWL7GJunaScU2j3fa8tpD2njIClQlCpbmOOzD7A9kpwNfM8XtbzDFtB981Ljei5-FOcHnecCt08b_nvkfXsmBCsxnHUp91IrIKcJtwcUhU9kh4drTiRVzR-swt1amxXJ6b8ZGJPUs3UjCj8Soc5MSjm-1HClbdEvIxcSTa2vv5VoNK5Te493CRnClu80mfxNE14Dj1WxCKocvGeo7bneoo1cHQHZZgnUDpmQTD9VNZQavJUiIyYr4w-NfoSDBQt9sxpUjNxReSWOKyBh9TyFU-rtek0QWx8nSJHQ74cpCHcr6I66om7LMCtr8nxhG-6TkMWGG8jyxp07WyXlq4ewOvy7SukhYhGdPs_-UX39JmuAN-ocWip7lBML8JnWMR6YKntbdjVU1apOg5PSbdMGSMS2t8NdVdah8VxFYZWqiRW_J22Mv9qNsaN_gNb-DlUoLNKP-JnChdTp0PL3_1VI61OV763R2XveybwK7CzUeP1FBALoIaRASm4vw39L6NO7fUXk7AhP7kXO-j_Z9HUnLN8" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/79c30d0c69.mp4?token=cLUtNF8rHTEuq_ks3Wdi-XD3_Ty4zKWgtXDX5TScdVps7THHRQmwKgZzn8eloGBIo0PaWnqTzFcr78hL5yi9jL0JVwOTUXD4J8dfah8Dp9F4nfPSPyLFZBs5fn7zOb49vU8QbdWam-s8FmRdyv1YoWL7GJunaScU2j3fa8tpD2njIClQlCpbmOOzD7A9kpwNfM8XtbzDFtB981Ljei5-FOcHnecCt08b_nvkfXsmBCsxnHUp91IrIKcJtwcUhU9kh4drTiRVzR-swt1amxXJ6b8ZGJPUs3UjCj8Soc5MSjm-1HClbdEvIxcSTa2vv5VoNK5Te493CRnClu80mfxNE2oLnCUXoD7wlYW3uYh9VYY7OBBLal2Lb_twuCXg9gbkO_2ezLv4ItIqoCYtdzpfWkfV4vznF7nPWqq81BkWL-tEQRKqhccsgxtV5ZC5SgfQcN2wyGusd3T5_RUHqvzpbDxLJnRVmw6U5f59Itg7gqVw0PRqH3KOm07Dua9o-d6StGhizd6XQG-4iabAX0N7e8tcSP68jl0H1IP2lOoNN01UKCDxFs9y-aP1ZoC96N40rY-DZHezM0s3z7ilti_FA_OQFOzc5IKK0Z9mH8wSrXIoAtnZ_bzPxB483TwFZAwYk6GHYtUE4hgpNmmx0Jdd7-c1_af-i8DStS9sNJapcKw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/79c30d0c69.mp4?token=cLUtNF8rHTEuq_ks3Wdi-XD3_Ty4zKWgtXDX5TScdVps7THHRQmwKgZzn8eloGBIo0PaWnqTzFcr78hL5yi9jL0JVwOTUXD4J8dfah8Dp9F4nfPSPyLFZBs5fn7zOb49vU8QbdWam-s8FmRdyv1YoWL7GJunaScU2j3fa8tpD2njIClQlCpbmOOzD7A9kpwNfM8XtbzDFtB981Ljei5-FOcHnecCt08b_nvkfXsmBCsxnHUp91IrIKcJtwcUhU9kh4drTiRVzR-swt1amxXJ6b8ZGJPUs3UjCj8Soc5MSjm-1HClbdEvIxcSTa2vv5VoNK5Te493CRnClu80mfxNE14Dj1WxCKocvGeo7bneoo1cHQHZZgnUDpmQTD9VNZQavJUiIyYr4w-NfoSDBQt9sxpUjNxReSWOKyBh9TyFU-rtek0QWx8nSJHQ74cpCHcr6I66om7LMCtr8nxhG-6TkMWGG8jyxp07WyXlq4ewOvy7SukhYhGdPs_-UX39JmuAN-ocWip7lBML8JnWMR6YKntbdjVU1apOg5PSbdMGSMS2t8NdVdah8VxFYZWqiRW_J22Mv9qNsaN_gNb-DlUoLNKP-JnChdTp0PL3_1VI61OV763R2XveybwK7CzUeP1FBALoIaRASm4vw39L6NO7fUXk7AhP7kXO-j_Z9HUnLN8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">⚽️
 هفته اول جام جهانی؛ توقف نا امید کننده یاران کریس رونالدو درگام‌نخست مقابل یاران گائل کاکوتا.
@@ -1399,143 +1399,143 @@ MelBet1.net</div>
 🇵🇹
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/persiana_Soccer/23713" target="_blank">📅 22:37 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 45.5K · <a href="https://t.me/persiana_Soccer/23713" target="_blank">📅 22:37 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23712">
 <div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Sf4MIolTNXUMQCYlNDDvOJXCuj4ERHw76T6zeaPQuHdjvpuLkDoJKjEsxIZjFKDwkSMysZ7dQyJ6edlL8T67vkeeRXD1IDxOMd0DJ5rwm0QAsHvpKU3q-UFGeB3mmnJby7YR_tA7ohpJg9QTLaLsD-dn0tIImMq1GA2vb_WIKUOadeoPYX1En-cMccNKG20_xtsyTbAGmrTOIR3cqIFWdcwQwuyEoQ5u_YGc1S1sVuO_qwyz3EERxsCfB3V7NrHcTp3WdhcD3xI1N0bGTpUp65MHagDQQO5hrUMQk1aFqdJUp-QkXocq2S38vP_pWzMXjxayZDU_JRB1KcNzGiXT-g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n7DQwEiF8TeZGqigw-CdTFP6I5tRx58hbQFX7qUHHqqNOBWqwRxiEUMLVJ5NLJvMEV7qOBceLKveGnwiJ2YjUzaUK2nTVEtaI5EZpMV6iPNvoYlg19LPKQ2RX2WXqyzbi1dQ0WT1yX9-BO3gBODNtcvnnAE9QXyz8pukXsikerv05cdtk7YfoSoBlroHuUMGW3MA6Q8sjEnG3yLoBnKZXCtGeeIOE9jdr4Qf30G4k191ZoViylBHCFmcu5pUxvNYhjfWAwVqrdjeR4QDSbMMx4QHz8krwtlodups_oh7ypMp1DvZKuiG-iZSeqhnCEyrKiNG2rTsnRWz-Hnrq_ZJ7g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باگلزنی‌برابر پرتغال، یوان ویسا اولین گل تاریخ کنگو در جام جهانی را بثمر رساند. این نخستین بار از جام جهانی ۲۰۰۶ است‌که‌اولین‌گل تاریخ یک کشور در جام جهانی توسط بازیکنی از لیگ برتر به ثمر می‌رسد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.8K · <a href="https://t.me/persiana_Soccer/23712" target="_blank">📅 22:32 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 45K · <a href="https://t.me/persiana_Soccer/23712" target="_blank">📅 22:32 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23710">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/nhmSzYeZosEX2G4sfNFoS8DTBlfBqNcyoNm6_AGilRY7A9so3Cdy9a4wEsNLGGohA9o89B2wSPYT-KkYClXgwW5QqZ3XkfcIhuhfhEG2gHNpevxnCaAExs-LWKSIGsBRqkPNyTWg2xYLqUi6pYzrUl5RxKPRYTbo2LUS_TPJFCqLHJ1Tav6-vHLJXjUIcM9P83PG-j0BIC8GotfqMYOX47lkNmKEXnNujPvWns8bLyolitMvB49Kw2HeZguWkUxejNBHeg6HgmUjG7qy2uCLX83nvchWn_UVdZM9IMNK-9bdCA20ukMGFx9UlINcTdECY7g61NYi0CtkkzbEeiQQaw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/E5wupYlM_2mRGIakCtCeDEgJGDjAn-BdOJzZ5AupUNNLQm3eHzI6hEbSMLfCuf_uCNxpok4ddxq-28MxMOzlGR-YL5MRU8wExnX4Nnso3zQUwb6hfpy8w5xB9uXki38CNOb9o5MFAJUjMAie5Ek0uN7Nud7G-M0ka1wsAoffUiEU9fxOZR3Qt5twAee7cPsGXIkdisqQiccsSSL9DJAr-C3YsFMjzvjTbRI4MkDuzTv80eVgR1pd-1yRHMRaOSKr6VAa_ocjvjK6DWGgJ4UqlXqCTTPWdRu-ccRZiWNnOlXQpOJaxC745c_Ix3q8ZP3Ae2okujbBWjIzvocs3yVG-g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/aDycefat3552FnmoxTn-RWlQC3zTDOdLJxRNNGx6Pbj6AEkIuPKyxxwrzMZqqbWK2ZQanSmMVqz4NwKDKISql-Tj9Gt-qZLTUxD59Zw-wC-iljOhjZsbCk19lvTERzBi2vXl8Tq8929biucn-YFNZc8ydQ-Hv6wJGjG0PLOiFVd1s9d7brpYbsww1l4FG3YbrhuKxg9AZfPPs4ba5W9342sth22llDSRg412UpIP5IEtKORYVsezZUqNP3SF9HdzYAe7hxFntPbYinyV9FlEW8sCvM_9aKspTShZa9DtBgq97yVD0I0q6sh_hLwQH3nHmx6W3ScziMYLwkzgJp7QWA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/X0fyDZuxn5pIG5EHEZqpfk6zq5_2YoiWYps7D_Gm7qU0rE0n1gRxCysF83LOLc46XelDIHXsdAaZOjmOFxAWDCC9tKz7ZusEq-oY6DsqaeeAl9FGVP9guwBNZ_C3wi-djvlpWGsC5mwZLtqZx30AioRcGV2TPLX_AeDb-8HPhc0F01lWrLHy20me09H0vbBVY-_A_HtNr6konFgNtmW89yjXZSIovTaRalswmDw-TO4RCR_yQt0Rh19foJQoxHLDAczsS9GfF6rkWz_Zs1Pe8ckSG1k0gjgkwBHtfvACfg2uVeh_uBp2S5EM65JACy7F2GmpLzfPRt4ootJXuuVOmA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">⚽️
 هفته‌اول‌جام‌جهانی
 ؛ شماتیک‌ترکیب دو تیم انگلیس - کرواسی برای دیدار فوق‌ العاده جذاب امشب؛ ساعت 23:30 ازشبکه پرشیانا اسپورت.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/persiana_Soccer/23710" target="_blank">📅 22:12 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/persiana_Soccer/23710" target="_blank">📅 22:12 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23709">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C7ZAlrIG81_euG7xltjpKbn8x3pRkBMTNz6E3hX8w9iwbOsmBztUPnpvRdTrHR_inYcG0XwzBes3PvhTnG2bzbrkFML0XzZWslbiBY6peTpAesppnVVP1o3CdQo9Il1zSd1U8GEfCp4MYMLH761qqufMJOXc1cGJ1sTb-yVjvbLdbI0Nde7HEsV46lazRVD4g2VYcoCdsF1ur-FLh8BWn6q4rgoO0rmYUhhHAcMTN3ojq_k-IBAwoqAdiSnMuSrcVjJX2s0X02G8hUEDiPgkeNm4y5DItR5MYjsf3L6PEl7s7k2zBvOlmTvl9dCUz0i7gCfPl5R1uiQK9R3w9MZnYQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oDLiAX9JvIbbg5ScJsWa0kX1ZO78uWge8dYK2AjAqaiuDaK13SS0zqsv1PmFpKI_nkIrgX2Jdkw2YMJormqfp-L24F39sCrS1n72oSlaZTQ6_6K7b1VIfVlnY7aHM8kHHqETmNq8CDYJCOmgFxSqukIQVb-_FYbBPLVDyVGhOhdx8kN0JyYuRESV1kXXAP8EHcMnkhrcLWWsDLRx012cSCaFM7w5sfaIcoYNouf3-YWWcEeP_YJ-_GGl9HkUnOz2BAbrjwfdG_BhLIDZ3AlYez0i9HjUER82HhfhyAuJcC79ASdkQFnu89JaMSx1UarLBrMQz2TElmK6z6nycUNVKg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 ‼️
 🔴
 رگی لوشکیا هافبک‌آلبانیایی‌ساعتی قبل با صدور رضایت‌ نامه توسط باشگاه مبدأ به تراکتور پیوست. ارزش او در مارکت 400 هزار دلاره!
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/persiana_Soccer/23709" target="_blank">📅 22:06 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/persiana_Soccer/23709" target="_blank">📅 22:06 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23708">
 <div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DkWG3_Hcawn0kSYkAYeLYHDQhO7OqJrWU2WFeiWiHnAKkuHrI8wJlAl_7VHK34OXE_uXYH-AgC2F1mTPpgvIMDCyr0wythBAX0LNrvqAOtJzC8jZ9PQ3jZvO8V67TVUhOopyeRZe6LIHzJ3_k1LRdkmSFcPNzQtZAdHqORDBJWtsRGnnlFWtbdTZsV6tcubtRUhuV2Xb2gkFvW4A6bbhhkHZiXYj8WF6ONiXIhukr-t0qNVcjY3i6_GwEBcuTqod9_bKb8ylmYLevRyzNG7fVebR_3ngy4JmnsdSbwG2edJH998gWx8KqXxs3coVrHKfpaSVj52aotyoZ2ay76Yl6Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iDgw4knXlvjvbtM1kLJ8ZNRx-VSAVt-oZj-kPI-_GTM0yT9dYzlZ6GfrcsrQhNEcIdA_uAGhI951rlhvO22fT94XYG2xs9ItLsxedbZOdguHD5g0DaV9sSqEfsW2ovTt_OMcOYfGmAQZ_FX6ZWfNQVqJMr4OH-6m2jwy4Pl826LiMNuPPnVQSWQMQDwPYARD490DmDm7Zu-CNEHDVucA0vkS6vreJua4UuYZy3khe46zcFtLOpNOe7jsB999war90MndPcx1tl5AJyss-soIzUs32jogBDX47n8v6AjKFk82GtX0VxsWhZo1T_wardkBJJH-4emmRd50McgIY1xSsA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚽️
 هفته‌اول‌جام‌جهانی 2026؛ شماتیک ترکیب دو تیم ملی پرتغال
 🆚
 کنگو؛ ساعت 20:30
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44K · <a href="https://t.me/persiana_Soccer/23708" target="_blank">📅 21:55 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/persiana_Soccer/23708" target="_blank">📅 21:55 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23707">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/casEcia9qCnNsNgAA90YW1ei0-ucLzUszTcatBMLKSOFdEZQwWcqiSFnJjkTKISS6tD8mpMx8vEz7OvPMAYOeipuPjZkrJFd_ICwYm5Q10jbFZh-hKXNvDLzWqK2eFKSiIoEqilYkGJwpXqi1MV9Q2jub87XCEPPdsPayaXWqKgQxYD9R-lk76xGa30RdZnA39rAMTZgboAn471Ceji98Hw2DLGczdF4H5Qhh_dMDPviv1WEPXVftfkbljsVpENs6NjReKPTbm4ZRdbws8WQI-Z9nu7p8z0L3ujG8__3Q9yKxv_xwxQSdd8csKgFXsWrVv7yiTr9Wp4SQoteupUrWA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LfI_fTxTzlBS0XyWQ_WqdpQEgmPjHduujHsPeAALT8okO49EkKapcQ3NVKO30q9HrpxfONO-8nalFMaR7sqF5uSlzpKoxSeqPJ8mQubA153ZBIvMTY_Ex9cbuoV9pTFKtEoOtmoHC6fCLqh7UiLzzPviLgBUXAcdw870xovb3XXkqCWLH1WirBwsVkZ4k9tto5Oip7IJK4eN4_jNzUv6Q-NKXGnB1og2ve8bVOtphgfUJrKBbbJ1Q03xj-cbe03JttZBGX8IVWInZBmZg5ALWVR529DF9bBDfcnmDt1F68L3o0Tr4_fkRnDBQnSKerP7A8rmlYYpEHAMVL9yKCVbfg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 رسانه‌ آرشیو وار: خطای لیونل مسی روی بازیکن الجزایر یک کارت قرمز واضح داشت اما داور تصمیم گرفت این‌صحنه رونادیده‌بگیرد. شانس با لئو یار بود.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/persiana_Soccer/23707" target="_blank">📅 21:19 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/persiana_Soccer/23707" target="_blank">📅 21:19 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23706">
 <div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eWDzSIPlw8nsHiWm-OXxE-Nn_8br3hbDBD0wh9ymFaOePN-jX08GlSzDE1o4Od3zoxh4hh6xvsgbNyxBt7X4UYW70XRz5VuaS-9po9jlVmQ7Ngqj3o6WIfO5ClQkPFSSs206YfWWybxYrbMxC2RdcgDXiJVAZlQg9duOVwppW_NOhDuscTVQZ0C2geLdH4O3eV1Sh-6_K_4VBBjdBxm_EBaAtI5PMXHec7pUo5fudve87c1WTk9YN5X_t4G79EvpuP8WikAMKOP52noCBGCFFGuqGze5gTnYdakWeYmw03GlSV4kqLOSXANLwmCZ1JHrZHXNlGzG7GlRJutASR05Dg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oswk4POm-Ud256NJXpWcrXxR1itf1fTz-w9UlCbec4wnbMDbsAOEyYABLrnIsdjD1j4Z5pN5YXWwUdpbglCFXyb9I_HGjPkJc8Ys-Fwea9jtBJ0fJSnyoBX4Vfx2jfsEHTxPpTL3hwcdjDNxy9CkBc3dRqVs1xcdpEdCIxLorcy0hl-9TpVLHMXk1a3DBZSRWtBNn5GhIG5ucR3IMC7EroAJhExW1E14Q-Q78fkhodb1AN9fV3jPhhEk623lA0JYQoUuEBK3JhrW0sbq1--0R8DqJDIvwiVuKGiRIcEFlyS4z5zHU3d1VxDzKygttO5T1mOq8b8fy1LueGgxT171JQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 👤
 باشگاه‌پرسپولیس‌مذاکراتی‌با اسکوچیج انجام داده تا درصورتیکه بنا به‌هر دلیلی با اوسمار ویرا قطع همکاری‌کردندسریعا با اسکوچیچ قرار داد امضا کنند.
 🔘
 @Persiana_Pluss</div>
-<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/persiana_Soccer/23706" target="_blank">📅 21:09 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/persiana_Soccer/23706" target="_blank">📅 21:09 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23705">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TyDgzQGgWs1cWnzT9oFRJXTbY4vQFGwcFN14mep53fALgDnh7sMbafk7TDcXKRH1KjYPYaZK8KGepugifDbPXoIKG9EGI_a7QKjjIvwSelxPBj_TZNtVaGQaqLYg9JdXt5C3TFQfN1bO3-5vrhXoq6tgFYZj8cdDWo-wusYNwqlddxX4_myIUeHMcE6E1pWSGV3fH7vEzgc9FxUxz7JRrzIJxk_5EtevFXIf3mYQ-ff-5cWZZc97PITIl_Q1Ytf3evtDPbkAdowZveIGYiCR_Ttj9CR5SpWuUlog7fwayEEy4CBybBp87I4FNlxoFobl0O9jRzRvQxRWFyhkXjMoOg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qnxP8PDhqP1N0IXSyK4DiHwM6qoTPOlUwPgtE13JvjCzIymn2QZn8aGCuYfP5BHYGth3r3TeQl_YmDuaTjh4rZzsMgWepAJgReQ-Y78TCTwfAMtPifiDGywhKgvztESCtMlk3DtcB-pnLPFopg99Ioi2LUSQB3GXestsyjadVU5sjOzHBjwy75fJZNeOr6wo1aa4DVCgvU-9SIH6YOJ_1PLbwhAmV7irEV1Pr7bhMI1LyTb5ZugOYBgJ7nfNkd2su4qu1YFGY4Mk0gAi5oOaE82N1Ni_aj7NSxAVTzatLOXrInRrph70zdW7wk8UZS-_ePpPppU727-5IOYr1b9htg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 خبرنگارESPNاز پارتنر ژائو نوس پرسیده رویای چی درسرداری؟ گفته‌کلا دوتا رویا دارم یکی قهرمانی نوس با پرتغال در جام جهانی فعلی و دومی پیوستن نوس به باشگاه رئال مادرید در این تابستونه.
 🔵
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/persiana_Soccer/23705" target="_blank">📅 21:06 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/persiana_Soccer/23705" target="_blank">📅 21:06 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23704">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g09zqaKuHGMo5rj_xXT0gg8CVfX9sfUTrboS1YL_mdX0fXVOnKQ-FRPOH3RDE8oP4YQw3bTLOd1YTnd1bKPaLfRZFCi4YTLwsPQIZIROhtyi94HYP-NoeFmER7YpMZSENX0o2GFpRpLzWQwtzocSHhapJhQtBJ4gu0Ms7Yg4i72f5qairmeVqbFz3t7NSv93tBiBdIFH72vfj0bePYURvRqCiPMZCAI5KCdN3XmrjruNrn54NkDtanWZNjvt98jqu6B9C4-a5_buXO3-63y_dc8D0v9Lq4O59fvuBH3ADKFfr1eJcJgwrqokxUuo0vIyV5ZcT5DPKchZmauL7-VuyA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lAxqmJti7GZUbkMlXR-qQI7Sg6FMJHiBI6-Lx3eBk9HiFqt00YHtgMCfF5cXTevMJj3V3YDy6xFxMRz0pPU8H3H0PE2kMFR8JiSX1BUA3zuskPHW_BPVBIpaPpkS75CglFdd4ekET5yIm85BZHUcijnLliEeHxW0oKdf9-4zFBus3RjRXvg_2eNZBo4yWpW5gtRUIjSCWbf-TfIsajZv38E6yqVIvEpy7n2mZCHybhIGCxLv9tQEKjBFZLV-BaTmfKAeSzKyseaReUQjOtqctV-kZBWi2tdgMhoDUEBOmgungLqQxndwNnE8oXA6FI-krrImXIr59cbD_pFN6r8M6A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇪🇸
 🇦🇷
 #تکمیلی؛ نشریه مارکا: باشگاه رئال مادرید بزودی برای جذب انرو فرناندز به باشگاه چلسی آفر میفرسته. مورینیو برای پست هافبک اولویت اصلی‌ اش رو گذاشته برای ستاره آرژانتینی چلسی.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/persiana_Soccer/23704" target="_blank">📅 20:29 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/persiana_Soccer/23704" target="_blank">📅 20:29 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23703">
 <div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/upA0yCoYXRz0ze5t3zjYmCJjoO2eWMaX0KkmbrGd2yradFRNZ0bEA_-oEzv7eYbQCLXY75m0ilARmwBY3hAoK5Z5yNS7YRhGAVxVc47TL4QFwd9afVx9qOP2kxA2HC3yyd0oxASRC7C9CGQrtSdp6LEkfWYywl-rOtu6wdX2u6g7L18-uVcbz4RGlvLdINhZE8_4D_uNZgJjFRui6uWoyh_ua-g8d5FsSim-lnxzR4VtLssu3T9cr0eAHa78bGxx7SHXb5VY0hU-UD-csuCSD34iLk3--MpJWC16Fpr-65tzCQVCch_20Ptt5s5HadMk2CRFdcB6v0kNQXJhTHwJNQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/o92MCKsIOwxFamr8gt1q_saxMn9ZLIOrTgWAzinBAzk_SenbwiTpQk1R2ltXrklkNVWi7b4GhavmkoHQpnBLSZPcogXSOpMi9RKwMVVfN0Br6AUPX0aVU9tsURAG80Nhd_9gWjzP4nHj6S-Cg1bMLnnIM-0FdbuUtanAJKvaPG0WkH41ZqzD_lQuBY_cH-WJwpBdGtOYQOKShsmJeJBByU3rYA5_lUqD4G7361qAcnLyA46V5UROQl4WTms1Pqfp8aZD0fzFyUZwbsEhjPTBoap8KyQNyaDkzU6N-2_S5HHxNoUi4LSxRrRR436FZ84exrB7gwcJsNx1Omb5WV4BMw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👤
 #فکت؛کریس‌رونالدو فقط 1 گل تاتبدیل شدن به بهترین‌گلزن پرتغال درتاریخ جام جهانی فاصله داره.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/persiana_Soccer/23703" target="_blank">📅 20:25 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/persiana_Soccer/23703" target="_blank">📅 20:25 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23702">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YOBZqb56_NluyIPMUcQRiWXrA3trFaOtw_Q6NKEd-hEzXFfVWThxCYKf98Cx_4lTan3Pba0F0QgGDCB3YjNoIYeK9BJrS5spQZxIMhUOajfj1zTtocvN2FbmTg1cUNUhxpM-JPCxZTR702TlPVB-8-LsLw-1k2x_JjsJjc0h4Lh3GuTaw2UIRoiafzrDoYQVo1SJ_xAbOC3BWNRaNRJOlIEdVcbkeReNor2MAvTK6lBOUkugIlBKjbobxNOf8sDiAsdf6SMX_AFAXBmXe3_owxQREl5adjV3ujtGNJEHiW8oahEqhDUgPUaEmYLAxRLmO00u8RswcWiXtTaRpTcQeA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QKmkMDKzxjCSyhwPgBKzrQpycDugeSkYEbLLYbVJ-XkqfyD1sIPg1qgHK9YGd1MN50-nca6d-PqqjDPnw_uE4UitogThX9911LhQeinftAlV7EdpCr75qBPVuRJNUT1qBVibQp9VRyXMR0rlHOIFWNLtomJwZyPlvqAtQhCQSHZTECrviF_ieETedfATbnEpUPmlEl9lDzgEEZY6u5TmtASC4mavp6iQtHft1qJabbGdKmugX6zqPVBAxHm-TNr6QTFDoyL-XaAGQ5Ducm1erGwaq_s7yT4tYXWye213fp0uu-rEdpNEoAg_S2FWHa0c2etAFq37lOhyuQZJ4jJIUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 باشگاه سپاهان خطاب به نماینده محمد امین حزباوی: هر باشگاهی او رو میخواهد 70 میلیارد تومان واریز کند تا رضایت نامه صادر کنیم.  @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/persiana_Soccer/23702" target="_blank">📅 20:06 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/persiana_Soccer/23702" target="_blank">📅 20:06 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23701">
 <div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JFU38KABlttMldTwCx0FidJFa9Z-yEn2VAuKIzybLe5Dn0oNYV5e-_t1JLMjtzgT1vxdVLxPDLx8HBoP22F9hXAy__CX_S0a2FY8f-_t_vU_YsyuXYTOOjEkzlz913cMVzg6DEVVpCA6_qUwj-pc1k66t9uRxDeiAfl2A_B66vCigUH_efLJ3bZ6b4xX9zB3RotuaeK8mrNWJAFEY2j_Xn-Q467_JXhdgoEgrjPks2UOljYTiUITbit-_ESdu3E4lLAohM77Cv9soHIugCcUF7TGeLRnjalteZQ8OhgGFu4gMDY9BuNx37nXuEJIV5tO2QLkDZPVFA7VEiL_7qt7fg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JSymnilbKxukB8lIEWhHGZGM7gWVgzZGl2FCbH9PTHusKFkSe-dM40D3BWU6V0R7ha8onQJjzQzHFmpgqTzAxGBTA8BcITgwhERhCyIiEv5IVhNPoC2PFPLCuJW0htUWSyWNuduDj8MbX1FKL2u07G3JIyBR-9X39VwNMkebmmxmXbfxeY9alKFn3zdYcPOl4DdB_x2nseQQRvNJdR_RKOijSMdMudTtndwZhfnrZvlX54stB0zdvZ0GLsplcytZ5e0dVkcJVki-ayBeE0hi0LM4qrzEdmgW42_pHzd5StJe3BG2ntcquqdwdnNg6QTD9J0_BfbMMSHxvbdtZdmZgQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🔵
 طبق شنیده‌های رسانه پرشیانا؛ درصورتیکه اتفاق غیرمنتظره‌ای‌رخ‌ندهد و اوضاع‌کشور آروم باشه منیر الحدادی و یاسر آسانی هفته‌اول تیرماه به تهران خواهند آمد و به تمرینات آبی پوشان اضافه میشوند.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.5K · <a href="https://t.me/persiana_Soccer/23701" target="_blank">📅 19:47 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/persiana_Soccer/23701" target="_blank">📅 19:47 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23700">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cd2DAV5op4FpqQcdXTMpoaC8HVP7gSF-bztFX4sGblRQ2EVeZ06rM2gBGmpQghbk5ScwKv1af65Mxn-wiWXFm_0afGVa8imP2B0OUJvBY_8f1NjkDQYC0OZLpIv4T879SxvkvI9a-cRhCSzE_WUr222sDOEoLeWHfWrot6OogeYzUjPu2IF-c0HklvVhNoLNG_croIwx8Czpu7n8_pq_6g79SXjdEVmYYIafQO0k8RPDFFZqBshT73C374qcFO5VJgft5_1QiUWj2ButNyll2zQ0fZZIiY_LJpwdE5_pbvutZgWSi-K_1bGolRwJY6Xztik1S0V5APqgpl1doBGJ1A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tykfAxN0BR5a_sW6xUU6v5IvX3GgnlUg3fBexat8uuqNjqe1Yhj_ARS3HPCXJ7STlOaB-3fq7-SpgNfuZqZYrvZEurMTqw8a1cupq3NNVr5tsPLpHpyWzEtDHG0r3I5wQIhfqC393eGyvbGTWGcit2wkvdXWVbRdfV0YjXhtYs9UDBPW7wZZj3XSOfKNBzwVqFzALbXFrVY-7j86eReArvggYMgCXJOB-MbsKiX95Cs8CKdq14jBZUlkQG482AOwEnbhFMAm8zsLVNAgqXDCEq-1PbuVCUM-Z8m0e2bUOGPCvxmPTfEjuJZOeV0cc9MTat_kWYax9Kjxg1FGOwZ8tQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 👤
 #تکمیلی؛ طبق شنیده‌های رسانه پرشیانا؛ علاوه بر امید عالیشاه و مرتضی پور علی گنجی، سروش رفیعی دیگر بازیکنی است که در پایان فصل قطعا از جمع سرخ پوشان پایتخت جدا خواهد شد.
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43K · <a href="https://t.me/persiana_Soccer/23700" target="_blank">📅 19:46 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/persiana_Soccer/23700" target="_blank">📅 19:46 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-23697">
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BJoO0icqUXwXKdtAGu8bysC4I7R1ANX-nljNipQMipADVTGUw7gzCHsUCEtyFmFkrRzES6HobmdzQ12bJX__MZ3UgOfcqbUHcvbYpXtFihGs54B6rJYpFLadajIzYVJcWd0vszlkz9-1g5yTjkxk4JnZWXE3-Us1qHTGIruOBLjb_7Mirn5XeHaLapIvgQWMs-Upnzy9zIie56tT-q3d8U-H3h_YQiMkxVXLkQ3hVDtyNE1KZrlokjtpqX84wb13PK-iSBb_Vhfm0dEFKtOOIYHET5a06iI9HIYv-5wYR3VpLGyspf9MysY-BY8eybQ2LjQ1ofl0mU4z4OMdt18c8Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FzL9SlMm1jVpua9VZym-9YpUlV0IlJ6-vhA_EPB7EKLWYH7M85eMulEPZLoypGPu1tA3Qc6Lxp1uS4uFgyl14RTQc9IbXL6g19UfVqOcirQeJZG9HqvTuIHmDmYQ-d2Ms6xfqPy9ZvUTH6vy8oLy9QhLSskVZB-hR2S4H5A-OmV40GLYnobsQN9RcEJBvSqY14pjtGuwTe23TNp0Bs4DEwGDlGG-NWqC1-WkKJ26Nqcsk6BivMWQBW4ctNO7kfpQrSrP3iJ3MRQ3jyb0RTe9F8rz1McESZbZgoz3qCevczowYRgG86-Ulrzp3FRlgzSgpjNA0fBLaN9Nk3N1qCfZug.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/a4kmoLZMeg_3XPq1e36c0UijmwKGfC-CsXovpJIKVo5ENz8vscddDeRlOYF7Dv2ggDTGmwWQeOETqVJXF7JhSx-Mnqwqj4CklXc2n5ZDeGjjioMP_ldrpVhgMZLHzPGPf0yQAKBBvyLzr9ziUKwR6BIEo1cuQsHKZWEXSRoVDeLHi41yqqqurRSLitiVf8MP097FojdRqjlp_dd230G2E5YAYtYnqR8ATTPtisGsVA70IBz5blNE9oP0rAalCPOKmyPJXBxkUkqsVIUWr3u-etd9cZxEosxbBMJ3LA5jUyvcOfGMPgXRfMewGDAcXloBhmOoNK3diE02_1LHdhNRDA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/cQoT11pEtnqLGv8W8bKpRQDDOHT9RV6E6_86Rq7A85gBHOEgIu37oj_xSh8sPyjnk9vQMCO2whYr8YRUbM1sP8ZvP_2Aa0O4rmyJ2MP7AHS3qoyqg5qW8QPkKyFMBV4GAL3xhHM47BaT-FJzvq-hmEDCp_VJ3rREb2_9QK_hB0BZc797QFkZOFvOKCVZrr9eFDAwWVbua2wuvzmdFNqQmKnwaknMbOOadGrESqtJ4ik-PiwYcllZPsd91zVIArT8Bo_v0bDeDI61qFzMznSS1O8eixAWUsdX-QqfzrtzApPGjRNUk0SYWV6RuMPsef6qucB4s-6Y6RKzSHQwgWNYng.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">⚽️
 هفته‌اول‌جام‌جهانی 2026
@@ -1544,7 +1544,7 @@ MelBet1.net</div>
 کنگو؛ ساعت 20:30
 ⚪️
 @Persiana_Soccer</div>
-<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/persiana_Soccer/23697" target="_blank">📅 19:25 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/persiana_Soccer/23697" target="_blank">📅 19:25 · 27 Khordad 1405</a></div>
 </div>
 
 <hr>
