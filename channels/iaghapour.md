@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-29 01:58:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-29 03:39:11</div>
 <hr>
 
 <div class="tg-post" id="msg-2686">
@@ -313,7 +313,7 @@
 با
 check-host.net
 سالم</div>
-<div class="tg-footer">👁️ 5.47K · <a href="https://t.me/iaghapour/2686" target="_blank">📅 23:00 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.97K · <a href="https://t.me/iaghapour/2686" target="_blank">📅 23:00 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2685">
@@ -342,7 +342,7 @@ check-host.net
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/iaghapour/2685" target="_blank">📅 19:58 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/iaghapour/2685" target="_blank">📅 19:58 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2684">
@@ -369,7 +369,7 @@ Have I Been Pwned
 اگر اطلاعاتتان لو رفته بود، سریعاً رمزهای عبور خود را تغییر دهید. همچنین برای جلوگیری از نفوذ، حتماً تایید دومرحله‌ای (2FA) را برای حساب‌های مهم خود فعال کنید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/iaghapour/2684" target="_blank">📅 17:04 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2684" target="_blank">📅 17:04 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2683">
@@ -406,7 +406,7 @@ Codex 2500 Credits:
 @ChatGPT_StoreBOT
 رضایت مشتری
 💎</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/iaghapour/2683" target="_blank">📅 21:59 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/iaghapour/2683" target="_blank">📅 21:59 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2682">
@@ -419,7 +419,7 @@ Codex 2500 Credits:
 اگه واقعاً کار براتون نمی‌صرفه ما هم راضی به ضررتون نیستیم، کلاً درِ این اپراتورها رو تخته کنید و جرم‌انگاری استارلینک رو بردارید تا ببینیم تو یه بازار آزاد اصلاً می‌تونید باهاشون رقابت کنید یا نه! واقعیت اینه که سودهای کلان این اینترنت انحصاری (پرو) حسابی به دهنتون مزه کرده و حالا با گرون کردن‌های نجومی و پشت‌سرهم، به هر دری می‌زنید تا جیب مردم رو خالی‌تر کنید. وگرنه این چیزی که دارید به ما می‌فروشید اصلاً اسمش اینترنت نیست؛ هر وقت یه اینترنت واقعی و بدون فیلتر دست مردم دادید، اون‌وقت پولش رو هم بگیرید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/iaghapour/2682" target="_blank">📅 21:51 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/iaghapour/2682" target="_blank">📅 21:51 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2680">
@@ -480,7 +480,7 @@ www.doprax.com
 💬
 پشتیبانی و اخبار در کانال ما:
 @dopraxcloud</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2679" target="_blank">📅 02:12 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2679" target="_blank">📅 02:12 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2678">
@@ -507,7 +507,7 @@ www.doprax.com
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/iaghapour/2678" target="_blank">📅 19:50 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2678" target="_blank">📅 19:50 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2677">
@@ -597,7 +597,7 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 پ.ن: جالبه تو این مملکت انگار با فساد و رانتِ کسی کاری ندارن؛ اما وای به روزی که بخوان اینترنتی رو که دست مفسدها رو رو می‌کنه، یه ذره آزاد کنن!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/iaghapour/2671" target="_blank">📅 21:34 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/iaghapour/2671" target="_blank">📅 21:34 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2670">
@@ -622,7 +622,7 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 پ.ن: وزیر مشکلی با محدودیت و قطعی نداره بیشتر داره میگه شما که داری قطع میکنی بگو تا کی که مردم اطلاع داشته باشن :)
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/iaghapour/2670" target="_blank">📅 21:05 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/iaghapour/2670" target="_blank">📅 21:05 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2668">
@@ -948,7 +948,7 @@ CoinGate
 
 <div class="tg-post" id="msg-2648">
 <div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E2HJAleLOFKqxm4iV1AgjdjjWjI3vjKjHr7fzlOehj4JbH9t-tllX2wzc6AFRCbdxB2LGiU9G15jXx4oWdb70DfNj5AS-pZpPp2zfSIQGUjIh_SCG4qiyClPjq2fLUjMkSC_J0wsz_0ljXQcRbSYNplK2a9yPMHl042QhCetFU4un0vWCV_DReVupyMVH8ojqd4m_dFtf3d5NuIlI4UeYc5qqWS6ck5Txf5GzUL8ZaCSqjzJkXYCQKn5F5Z51lkOiLPh9JObpDOddIUQZr9chYO1JZElPar2Xh9s8kf8VxDXvXvuYh5gQNRTMcE_nEOFE6Gpp-ikouUCiHOeHzysdQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WWvdqQ1BcQsZMUQyXQOz4vDLVJmZKqhCUg0G8Xe-7U0vNVUa0T7tUP0YHB4199r7FBKe-WPOk2AGi2nVabG8Lqjn6HT0L5-RNOtW-bXMfXRpSxBuwl_vjR7dLyKzbfNZrO3f-kqOLtPdexHZ3DzTTAaYXn82wN0oPevyFTIrX1RyekgI-T3ghfegkY-6Svpc7hlxFagaO2AaeO19WrqpQ4Y9zTvS0-ZG3ZqAFLplw2Ud1PldgKwBHABsq30eF9Fw1faFeI-uj4v4pOSYX3UmMZciC5LwvYkXbIPFNk6jufg_EG6mhiUs7NmoArcJtTUeWpaXGowZ32acUV3f1tJ9vw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی GenyConnect؛ جایگزین مدرن v2rayN برای مدیریت پروکسی
 نرم‌افزار GenyConnect یک کلاینت تونلینگ و VPN مدرن (با کاربردی شبیه به برنامه محبوب v2rayN) است که با تمرکز بر عملکرد بالا، حریم خصوصی و کنترل دقیق ترافیک طراحی شده است. ویژگی مهم این ابزار، وابسته‌نبودن به یک پروتکل خاص است؛ به این معنی که می‌تواند به عنوان یک بستر یکپارچه برای موتورهای مختلف تونلینگ عمل کند.
@@ -967,7 +967,7 @@ CoinGate
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/iaghapour/2648" target="_blank">📅 21:33 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/iaghapour/2648" target="_blank">📅 21:33 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2647">
@@ -1034,7 +1034,7 @@ CoinGate
 ساخت فیلترشکن پرسرعت و رایگان با ورکر کلودفلر
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/iaghapour/2644" target="_blank">📅 20:50 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41K · <a href="https://t.me/iaghapour/2644" target="_blank">📅 20:50 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2643">
@@ -1180,7 +1180,7 @@ CallofDuty.com
 حس میکنم شما هم با من هم نظر هستید
 🫣
 😁</div>
-<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/iaghapour/2631" target="_blank">📅 10:05 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/iaghapour/2631" target="_blank">📅 10:05 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2630">
@@ -1781,7 +1781,7 @@ skip-SSL
 
 <div class="tg-post" id="msg-2591">
 <div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NyLuSaChhi6m2vXmzXIEH8eVsK7Hz2KQRL2lbatG0Lcnq5wYkG5YeLKFtnruniL5QhGhKqED9W7pcJwtw1psq8H-Me5N5ZBnOxtRgOeM3QqSm3irWu6GivIrem8HXmQk9HHZ3NFm0FvaQRLu8gjbtXvliWllKaHA2KIg-tfwa2JtpqarolXghK82qCofUA3f5WZinHJ0v8KCrbji8U_dX7XwsiLEn31C6F3L3-zKyPm7ucpwPK8CpUs1VkoOjq6IDL2_KvymTwVkmIzUQhjQlLBWAGCFPGivLWPWm36vor5STIyayYRNStIGa0vo_Z1TjWENnDbnGEdSFZTgiv5oZg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mwy7--p7JP2As_IwqTUsHWzVyYLqi178qbvn4vJepvNSAW5YzV4HP5bUgESkigwDovR7hmFDLQ8JJ5HYaqUbley21k9xLb8HsBJz-lCuhIhzJfboxlBf4h6hloeU0fMhZcC7hOwC6xkd9impYcft1SDeMf4ChhYi5ZVi-SUBrDdoETEA1SfXrJaUJUN5eofuloNIdYehgCuNGY5BiMVuddAOnAUMhryfkslLMw7fzl8AYlKY1I2XBfmaSk1-A35JXOlbF6e3hTJZZRSg3ia6PXtwwUf885JiZIBldKA1s9UPxs4OzFGT7s-xIl23-Dm5BTFiu7kC7kLJMUu1FLfWCw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آپدیت بزرگ تلگرام: ورود دستیار هوشمند به پروفایل شخصی!
 تلگرام در آپدیت جدید تمرکز ویژه‌ای روی هوش مصنوعی داشته است. در ادامه مهم‌ترین تغییرات این نسخه را مرور می‌کنیم:
@@ -1859,7 +1859,7 @@ skip-SSL
 
 <div class="tg-post" id="msg-2588">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tA3IVYIYxwyHmPyY54oSQSXaWt_irY_gtIBomkGK4gbAVN_roFVeS9VqU4XhJAU5s2kGvf69hINll0xKwiJRdYX6ki68y2Kz2cao1rE6N1HfcJoHuBWVBOA1XKi_LATB2cW9zAUFA4ykZzX0Pm3tA8APhPpa97VXkkdcKeeDZrpFOvZ3b_26-MeFBZQ6OjYzxHHNFcLQjnfR4IPikCcaY1EOglSh3KJB73L6LPDcT4fCrDpoeIas_XQJ86AJsU7EvmMNik9bZISeYM_60DcJUvuTk9b_XtRrPR1_JiRlCRNNGwn6KAbfgEqrLYJai1CCJxZ9uTf9az5ZPdYwsl8CxQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CqIXGJXtGNt75yPIPUQWrcEOH4OO45-SAnqcS3QcLWG1VNZaB8KcbdF19mHQVv-EqugsrfUZCZjTFxzA2nBZTOeX3uEe5r8aTFTcA26lJYiZgAwV-BKXMZGg9wT-WooYuAua2d2-lXFKKsKh12Wrx11jl6JFWw8-SAtjQyzR4PMj8_RMCHnSjrFGNfQlAHLzkOvSG5AVP_WY4xj0eDx4ejzlLPga66bzQqjqaSX8InHRQOhkM3qxrvLgVdZ2ccvGJHB3f6OQ4y0LxX9i8rKq39had9HLUNf2VnlcRJpFuxBZrb8pEg8zLLWa_-I3N6guS9BowWmBuEZ52VV0eYoXPA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💢
 سخنگو وزارت خارجه حذف تیک آبی خود در شبکه X را (سرکوب حقیقت) خواند.
 68 روزه اینترنت مردم ایران رو قطع کردن، بعد یه تیک آبی‌شو گرفتن میگه حقیقت سرکوب شد.

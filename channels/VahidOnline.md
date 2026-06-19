@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ارسال پیام:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن. اینجا بعضی ازچیزهایی که می‌خواستم ببینم رو همونجوری که می‌خواستم بهم نشون داده بشه می‌گذارم.استوار بر حمایت‌های مردمی:ماهانهvhdo.nl/patreonیک‌بارهvhdo.nl/paypal</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-29 01:58:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-29 03:39:11</div>
 <hr>
 
 <div class="tg-post" id="msg-76498">
@@ -304,7 +304,7 @@
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/VahidOnline/76498" target="_blank">📅 00:27 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/VahidOnline/76498" target="_blank">📅 00:27 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76497">
@@ -317,7 +317,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/VahidOnline/76497" target="_blank">📅 00:27 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/VahidOnline/76497" target="_blank">📅 00:27 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76496">
@@ -329,7 +329,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 176K · <a href="https://t.me/VahidOnline/76496" target="_blank">📅 23:10 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 195K · <a href="https://t.me/VahidOnline/76496" target="_blank">📅 23:10 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76495">
@@ -343,7 +343,7 @@ WhiteHouse
 ترجمه با هوش مصنوعی به تصویر اضافه شده.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 184K · <a href="https://t.me/VahidOnline/76495" target="_blank">📅 22:49 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 201K · <a href="https://t.me/VahidOnline/76495" target="_blank">📅 22:49 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76494">
@@ -367,7 +367,7 @@ WhiteHouse
 در خصوص سایر موضوعات، از جمله مین‌زدایی، اقدامات لازم مطابق بند ۵ یادداشت تفاهم اسلام‌آباد انجام خواهد شد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 192K · <a href="https://t.me/VahidOnline/76494" target="_blank">📅 22:31 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 205K · <a href="https://t.me/VahidOnline/76494" target="_blank">📅 22:31 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76493">
@@ -383,7 +383,7 @@ WhiteHouse
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 179K · <a href="https://t.me/VahidOnline/76493" target="_blank">📅 22:30 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 192K · <a href="https://t.me/VahidOnline/76493" target="_blank">📅 22:30 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76492">
@@ -393,7 +393,7 @@ realDonaldTrump
 پیام همزمان رو به داخل و بیرون نوشته شده است. در داخل می‌گوید رهبر با رضایت کامل وارد این مسیر نشده و دولت باید پاسخگوی نتیجه باشد. در برابر آمریکا هم این سیگنال را می‌فرستد که تفاهم، زیر فشار ترامپ و دولت او به‌معنای عقب‌نشینی قطعی نیست؛ بلکه مشروط است و اگر شروط ایران محقق نشود، موافقت نهایی رهبر با توافق نهایی هم تضمین‌شده نخواهد بود.
 در واقع متن، بیش از آن‌که اعلام رضایت از توافق باشد، تلاشی برای حفظ دست بالا در مرحله بعدی است: هم مسیر مذاکره باز می‌گذارد، هم امکان عقب‌نشینی تبلیغاتی حفظ می‌شود, هم به واشینگتن گفته می‌شود که فشار بیشتر ضرورتا به انعطاف بیشتر ایران منجر نخواهد شد»
 @pourostadv</div>
-<div class="tg-footer">👁️ 188K · <a href="https://t.me/VahidOnline/76492" target="_blank">📅 22:19 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 200K · <a href="https://t.me/VahidOnline/76492" target="_blank">📅 22:19 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76491">
@@ -404,7 +404,7 @@ realDonaldTrump
 جوان شد
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 246K · <a href="https://t.me/VahidOnline/76491" target="_blank">📅 21:19 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/76491" target="_blank">📅 21:19 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76490">
@@ -417,12 +417,12 @@ realDonaldTrump
 در این پیام آمده که مذاکرات حضوری آینده «به معنی پذیرش نظر دشمن نخواهد بود.»
 VahidOOnLine
 در تیتر و متن نامه و خبرهایی که درباره‌اش تولید میشه بسیار تاکید دارند که این تفاهم‌نامه‌ای بین پزشکیان و ترامپه و نمی‌گن بین ایران و آمریکا
-در واکنش‌ها از تقلیل نقش
+در واکنش‌ها از کوچک‌نمایی نقش
 قالیباف
 یا محافظت ازش با سپر کردن پزشکیان هم میگن.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 242K · <a href="https://t.me/VahidOnline/76490" target="_blank">📅 21:14 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 252K · <a href="https://t.me/VahidOnline/76490" target="_blank">📅 21:14 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76489">
@@ -439,7 +439,7 @@ VahidOOnLine
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 225K · <a href="https://t.me/VahidOnline/76489" target="_blank">📅 20:45 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 232K · <a href="https://t.me/VahidOnline/76489" target="_blank">📅 20:45 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76488">
@@ -459,7 +459,7 @@ CENTCOM
 CENTCOM
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 223K · <a href="https://t.me/VahidOnline/76488" target="_blank">📅 20:30 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 231K · <a href="https://t.me/VahidOnline/76488" target="_blank">📅 20:30 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76487">
@@ -468,7 +468,7 @@ CENTCOM
 <div class="tg-text">این توییت ۹ سال پیش ترامپ داره توجه می‌گیره: ایران به آخر خط رسیده بود و آماده فروپاشی بود، تا این‌که آمریکا از راه رسید  و در قالب «توافق ایران» به آن یک طناب نجات داد: ۱۵۰ میلیارد دلار. realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 207K · <a href="https://t.me/VahidOnline/76487" target="_blank">📅 20:13 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 213K · <a href="https://t.me/VahidOnline/76487" target="_blank">📅 20:13 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76485">
@@ -491,7 +491,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 207K · <a href="https://t.me/VahidOnline/76485" target="_blank">📅 20:05 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 213K · <a href="https://t.me/VahidOnline/76485" target="_blank">📅 20:05 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76484">
@@ -507,7 +507,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 213K · <a href="https://t.me/VahidOnline/76484" target="_blank">📅 19:10 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 218K · <a href="https://t.me/VahidOnline/76484" target="_blank">📅 19:10 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76483">
@@ -624,7 +624,7 @@ VahidHeadline
 c-span
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 210K · <a href="https://t.me/VahidOnline/76483" target="_blank">📅 19:03 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 216K · <a href="https://t.me/VahidOnline/76483" target="_blank">📅 19:03 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76482">
@@ -637,7 +637,7 @@ c-span
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 213K · <a href="https://t.me/VahidOnline/76482" target="_blank">📅 18:27 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 218K · <a href="https://t.me/VahidOnline/76482" target="_blank">📅 18:27 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76481">
@@ -649,7 +649,7 @@ VahidHeadline
 این منابع مدعی شدند که از آنجایی که یادداشت تفاهم اسلام‌آباد از سوی رئیس جمهوری اسلامی ایران و رئیس دولت ایالات متحده به امضا رسیده است، به طرف پاکستانی اعلام شد ‌که اکنون نیازی به برگزاری نشست حضوری در سوئیس نیست.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 231K · <a href="https://t.me/VahidOnline/76481" target="_blank">📅 17:39 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 235K · <a href="https://t.me/VahidOnline/76481" target="_blank">📅 17:39 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76480">
@@ -660,7 +660,7 @@ VahidHeadline
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 227K · <a href="https://t.me/VahidOnline/76480" target="_blank">📅 17:37 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 231K · <a href="https://t.me/VahidOnline/76480" target="_blank">📅 17:37 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76479">
@@ -670,7 +670,7 @@ realDonaldTrump
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/76479" target="_blank">📅 16:37 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 243K · <a href="https://t.me/VahidOnline/76479" target="_blank">📅 16:37 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76478">
@@ -683,7 +683,7 @@ realDonaldTrump
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/76478" target="_blank">📅 16:35 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 243K · <a href="https://t.me/VahidOnline/76478" target="_blank">📅 16:35 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76477">
@@ -703,7 +703,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/76477" target="_blank">📅 16:32 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 243K · <a href="https://t.me/VahidOnline/76477" target="_blank">📅 16:32 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76476">
@@ -716,7 +716,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 280K · <a href="https://t.me/VahidOnline/76476" target="_blank">📅 16:30 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/76476" target="_blank">📅 16:30 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76475">
@@ -727,7 +727,7 @@ VahidHeadline
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 396K · <a href="https://t.me/VahidOnline/76475" target="_blank">📅 05:48 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 397K · <a href="https://t.me/VahidOnline/76475" target="_blank">📅 05:48 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76474">
@@ -737,32 +737,32 @@ realDonaldTrump
 MahvashJebeli
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 395K · <a href="https://t.me/VahidOnline/76474" target="_blank">📅 04:35 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 396K · <a href="https://t.me/VahidOnline/76474" target="_blank">📅 04:35 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76471">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/TvBEF3Q3I_kUbA5_Z8-m-Of3z_0fOY83EIdSWJFyEXKkem3DhP0TAR0rrHD2B9XYAhy2tKfPm-tJinLh_IwPGNiKGZUFg54Lyy_XcJrFyB46TOwLkjH75xlTeho0LVDDdzOTbK0m3F6dpWyMb8DrnkD6aE0FsNInzQmLXvswxTg-04HIlp0bQGBSPpPh1_AH4BeM685I3eQ-dA3Ua4SDhiBQu-8Oj1j7UVFH5qDNxM7iq5BEOVFW98Nne3aIov4Z56RuD5Xy8fC7qddtRB6bdh0kd6Mnlwv5osJqZFQuzWfMgMzLdbyCp7XMWDoS7rSSqMKNB-WOyZuyEjVWJIAEKQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/aAbJBCbAWum1ncwuNiTuiUhyhQwzMwPITNVHWHYXYFiIq5bjUMv91vzQhC5lZvIPJ_0jYo2gaWzbxwZzsiyhmd26ooApdnhwsxy3JFDjVpjwuxdWr7QSaa4GRcqFp7LEJ3kyWN2uvhiNKXJrppkskFQef2JbUmmjrSONZCSMB7NmBFnAa__LYFVkSM3qCnhtaGWCYk33a3QXQIyfu74sriTpjeOKCFh2LXghOnT7U98GVEST82Rn5mlX5pAkHgK9x6hqUnUeMDFpH7zbKmBNM_KNQQAEuEHMTIZjF7L42s0PkgVzIqa0QTftEiQH0_664ut2L598bSPbSVJ_p3vHvw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/KCsVeih5Lu5Zh7NJcJOaxX2f_5yaO8tPbv5x29iCsfXN3mfWBtnj866QKFMeb09A11NJEaCL78xd0cRtP1WHt0VIqcVCOgU_jHpXh_YlNsvVm5i5YM21WAwdx5nPqCdomluQHFJG9UtMF3uPriWaU5nQM1ejq0wZbavltbnpg3T8GgGaRhzcOpRJh3NtBWo0WgCbsfBoTcXTWKKix_bn9rWPM9u-14djV93w7EKyRE50VX6O46Ibhxwz5vYGotx50b2RZMp_6_qXrzeAxepv2dgyeyX-o5ze0cY3dw7qJQ7azXH9J0UJal02lMz-bbX1gggaWB5Ve9MyWKo6GuL0aQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/iV-zxf7_Lfa9tPnJzOAHh7HmClfpmCmxNK_tXKl0J7W7m5iBcpjymVRIfSQwiLkXMN1oUnfNG9a866F8CelAOZIoWXOsFRT_-gia2oTRl03whTlB838VNHw0djjbeu8XVsCV2-s0SGYXhFTbnYko4Jb6qyH0buMSLLFWluZKqlXBma8oYVOvl7o29perZzI3-ku9zqQDJmZgP9EQEHYt_xOampC_QbOQvko4U52DrUNdu6Fy53waoHOTDuxzqHpdwxx6mB8B9koA7XbRclXMD8p49HRZ4J_uo_wbDgbqGjmNO55eQwuI3Fq8ue5eAdMTkqo1R84NONjIj7A2TwIlzw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/qyIiFjs4ybJ12KZ_S5UqdC3zwaGDFZadqRsFvnaTBKqOw5ZVj7rrVveAFzsgbsXbxnAm-i4ua8ucYlBpTHL50D8NUNM0elOP7TJ8PwAJWV8n2RilfphrZTfPkA8bRcbmfPHjhTfCHJYDM5O_1RfS4Ew5Z8zU_AqsOIg_50I1OfMOAfmvac151UD7ufQLZfPYDQG_RKFtbdUECkEyeQicacRSLzqCNY61Jl8XyvcSs5tLeJGgXYnxzNUH_AphG0pBzpPJ0YseKSl_zgMEbU70hAQhRY33-DZIXfW6nwGPnN-qUhXTw2WXc-MInua4Tytv3ye0S-hS0pP9qGrVyopG4A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/a4K9lgIphqSRTkBgQlUakfBL1rz-CJCwsDvKM2QI1fBbhOZAy3qgWmJYMWABi7_EZLYTm8Zu8T-LKMhbOv3UaAhoObA89ITWYC6DofUAqUTDPoBASBY52eM9Nxj2iLAoq0aD5vpRZU4YXEp46icmH8cuE_GQm_tLnqgp4TfXlnzzBnHampxZd4FiMfJmIWASzrWXWiJFTVDawnVDoV2AG-5uC-S8kHBQvaf9Bvx2Ca_j68Q_X9rTAAxNWOQnosPi_LPjX34e5_Q2gw4IUztmyyCeDkC-cpWBn-jFsJ2zfLRzQ--nmUiKqomvoOZwcqRyPuP2XlMydiMvOD7efJBeGQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">امضای پزشکیان پس از
 امضای ترامپ
 تصاویر منتشر شده از سوی ایرنا
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 402K · <a href="https://t.me/VahidOnline/76471" target="_blank">📅 03:50 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 403K · <a href="https://t.me/VahidOnline/76471" target="_blank">📅 03:50 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76470">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/a6a09c6ccc.mp4?token=CPcoKpgCvaUwS3ZOhfd-gvGqGDc9yksHYlWHKXjF8KdgVCB1CZ4L2IeGwZJkkb_J9mQ5Xm212R9-9wkIoMEnqkoG5xOIZnek4H8OL1YJxQXZaKIFB2lxlp51EBI65bZOBOywUUCOzA6hdsWe7MYovFlVd6ox6eeiw219vhkA-nJ4ndmNNvqOKNqMYIqulflnmSSp1EnF49dbPtQhxI4vCWW7_6Jgl8OZLeoKe9DyCpi4Q3i5mDP0PTfl42Y5a3tSU7ImHp8lnCCQ4lB80rIiDncvbYgjgs-eiLIpzFO-jZYBv523Q49XxmL8o7f35zFgLFDL9ScVrC_C8wIIkFIzZw" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/a6a09c6ccc.mp4?token=HxSIDNigy3xTf0DPITi6CVTAC85sNHrPgSslqjoFxG3MKmOQ1d8H_7w_GCaB0wLXeJeULoAiOmqofHBPUf76myhHFZbF7nr9RGARpNliHxR8UMbKAxySQ67i0VdK4QezOdfksJRNSAt6IE3rynzvluaS9sXS8jLNrMB0BVv2vqAVhLIwNA3SsGXC9hUPyjKMx79nmYqQVqfCOtS-L7_y-dn8ZlVz58ZTPh8SVgU-xqzz4I96-yWL9lvKMrlYxFOA6O3PtuLSJJDUoHHzeBu0PJY4YgVBknC2CS7XOJI_XVzYBLD8azRq7-9Ib-ZP5FHhZPgskN95hxzzcrEi1yaf7Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/a6a09c6ccc.mp4?token=CPcoKpgCvaUwS3ZOhfd-gvGqGDc9yksHYlWHKXjF8KdgVCB1CZ4L2IeGwZJkkb_J9mQ5Xm212R9-9wkIoMEnqkoG5xOIZnek4H8OL1YJxQXZaKIFB2lxlp51EBI65bZOBOywUUCOzA6hdsWe7MYovFlVd6ox6eeiw219vhkA-nJ4ndmNNvqOKNqMYIqulflnmSSp1EnF49dbPtQhxI4vCWW7_6Jgl8OZLeoKe9DyCpi4Q3i5mDP0PTfl42Y5a3tSU7ImHp8lnCCQ4lB80rIiDncvbYgjgs-eiLIpzFO-jZYBv523Q49XxmL8o7f35zFgLFDL9ScVrC_C8wIIkFIzZw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/a6a09c6ccc.mp4?token=HxSIDNigy3xTf0DPITi6CVTAC85sNHrPgSslqjoFxG3MKmOQ1d8H_7w_GCaB0wLXeJeULoAiOmqofHBPUf76myhHFZbF7nr9RGARpNliHxR8UMbKAxySQ67i0VdK4QezOdfksJRNSAt6IE3rynzvluaS9sXS8jLNrMB0BVv2vqAVhLIwNA3SsGXC9hUPyjKMx79nmYqQVqfCOtS-L7_y-dn8ZlVz58ZTPh8SVgU-xqzz4I96-yWL9lvKMrlYxFOA6O3PtuLSJJDUoHHzeBu0PJY4YgVBknC2CS7XOJI_XVzYBLD8azRq7-9Ib-ZP5FHhZPgskN95hxzzcrEi1yaf7Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">لحظه امضای یادداشت تفاهم از سوی ترامپ
 دونالد ترامپ، رئیس جمهور آمریکا که چهارشنبه شب در کاخ الیزه میهمان ضیافت شام با امانوئل مکرون بود نسخه نهایی و منتشر شده تفاهم‌نامه با جمهوری اسلامی ایران را امضاء کرده است. مسعود پزشکیان نیز این سند را امضاء کرده است.
@@ -770,17 +770,17 @@ MahvashJebeli
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 392K · <a href="https://t.me/VahidOnline/76470" target="_blank">📅 03:25 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 393K · <a href="https://t.me/VahidOnline/76470" target="_blank">📅 03:25 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76459">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/10e61c88b0.mp4?token=dWKJLaFZKB6qKX-m26EsslzRbmAj2SP-Ym2YH4CGsfsH3Cg3dj41kkxmtca83TPtFAhLUmTz3QO2epwlfrZAdWt7tDtM25PCBkoWvknPqBcFExm3c60ll4IZDa-rMaLrTzPnfNwVHIvUsPg6MamPI4J4cexM6HHk1AXXs5PrZj3cigU7uAtVXih2EBbIzSc7Dm6TdWTFjJDN0x3SiD1Ks8zPClQui9bxtR9ufK1WJ3UopXKTFtmEU9BcFY0AZlEaR5uWVZJUfz_v0uKPvTZTC3tOTnxpAEcp2Eij5JbvyItvbDryNIve0SkySRT7SW8sbyMQeLxThc4b96-eIpwI5w" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/10e61c88b0.mp4?token=BpyQ5TWk0cWg_lMVSIvp-9832r6F-GlK3UoYb3XeU3weK0y27v2Vv3A4g4hN1Uv7UndGpjsGZhiRHjNdn9eOtGzahgn2bnGIcFSiQ3T0LVBVBvDwSo6GsjWV1hZlrnqDm8XFoaWdRdLE8_ZRk0Xo7tV82nF3lUJG03qNdRPvGzHx9D6fUSa14tDIAiycz452MrAgphnAughivrpJpgogqYa2rO8CaK8Xhv_v0QlMsMMmRxEUClAAX9vzpULoosXd_Ym71QamO_bAIZ38mS03wJndOdxK1NwuK7WcUSRT92_SiaXR_tN3jzIrBX1SSQMTUGXmEJNyIcdQ_L1FfWyy9Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/10e61c88b0.mp4?token=dWKJLaFZKB6qKX-m26EsslzRbmAj2SP-Ym2YH4CGsfsH3Cg3dj41kkxmtca83TPtFAhLUmTz3QO2epwlfrZAdWt7tDtM25PCBkoWvknPqBcFExm3c60ll4IZDa-rMaLrTzPnfNwVHIvUsPg6MamPI4J4cexM6HHk1AXXs5PrZj3cigU7uAtVXih2EBbIzSc7Dm6TdWTFjJDN0x3SiD1Ks8zPClQui9bxtR9ufK1WJ3UopXKTFtmEU9BcFY0AZlEaR5uWVZJUfz_v0uKPvTZTC3tOTnxpAEcp2Eij5JbvyItvbDryNIve0SkySRT7SW8sbyMQeLxThc4b96-eIpwI5w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/10e61c88b0.mp4?token=BpyQ5TWk0cWg_lMVSIvp-9832r6F-GlK3UoYb3XeU3weK0y27v2Vv3A4g4hN1Uv7UndGpjsGZhiRHjNdn9eOtGzahgn2bnGIcFSiQ3T0LVBVBvDwSo6GsjWV1hZlrnqDm8XFoaWdRdLE8_ZRk0Xo7tV82nF3lUJG03qNdRPvGzHx9D6fUSa14tDIAiycz452MrAgphnAughivrpJpgogqYa2rO8CaK8Xhv_v0QlMsMMmRxEUClAAX9vzpULoosXd_Ym71QamO_bAIZ38mS03wJndOdxK1NwuK7WcUSRT92_SiaXR_tN3jzIrBX1SSQMTUGXmEJNyIcdQ_L1FfWyy9Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">☄️
 ترامپ و پزشکیان امضا کردند
@@ -803,7 +803,7 @@ VahidHeadline
 CMShehbaz
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 403K · <a href="https://t.me/VahidOnline/76459" target="_blank">📅 00:52 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 404K · <a href="https://t.me/VahidOnline/76459" target="_blank">📅 00:52 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76458">
@@ -825,7 +825,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 413K · <a href="https://t.me/VahidOnline/76458" target="_blank">📅 22:53 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 415K · <a href="https://t.me/VahidOnline/76458" target="_blank">📅 22:53 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76456">
@@ -839,7 +839,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 386K · <a href="https://t.me/VahidOnline/76456" target="_blank">📅 21:28 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 387K · <a href="https://t.me/VahidOnline/76456" target="_blank">📅 21:28 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76455">
@@ -970,7 +970,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 290K · <a href="https://t.me/VahidOnline/76454" target="_blank">📅 19:17 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 291K · <a href="https://t.me/VahidOnline/76454" target="_blank">📅 19:17 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76453">
@@ -1022,7 +1022,7 @@ VahidOOnLine
 ۲۰ دقیقه ۲۲۰ مگابایت
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 265K · <a href="https://t.me/VahidOnline/76452" target="_blank">📅 18:57 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 266K · <a href="https://t.me/VahidOnline/76452" target="_blank">📅 18:57 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76451">
@@ -1056,7 +1056,7 @@ VahidOOnLine
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QwWIuHX7oAXDr-alfX-WAOQaf827BTW65mh1eHqv5BPVJng-KCfBLl7PH0z0CNMlHpWxmRfe_wfVAGTMhaKqvC7bW1-mATFe3acgRtHaB8KWeawn59r_GJGcTNQsEsh21yLNHYWcfxpL0w7OFOtxm36Fpn0gWEEQ4Gct5AJY13ro1OpLREDidO9CPafZvh34fMLowKvhyKE5ENmRtkjzSC9Xo6bLiuFiNNXRHYxR09QQWbmwlaw34-AdCpQ7CkGdtGiPirmuVJd2v-z0y_e6R54PLj8qjMKBZYe-_zs5NHTr_8XnUw4z3KjwJalmp2GWJxYRaxIxJKdtAO6Vf1iEhQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">.</div>
-<div class="tg-footer">👁️ 269K · <a href="https://t.me/VahidOnline/76449" target="_blank">📅 17:32 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 270K · <a href="https://t.me/VahidOnline/76449" target="_blank">📅 17:32 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76448">
@@ -1076,7 +1076,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 284K · <a href="https://t.me/VahidOnline/76448" target="_blank">📅 16:30 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/76448" target="_blank">📅 16:30 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76447">
@@ -1119,7 +1119,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 262K · <a href="https://t.me/VahidOnline/76445" target="_blank">📅 16:02 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 263K · <a href="https://t.me/VahidOnline/76445" target="_blank">📅 16:02 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76444">
@@ -1133,7 +1133,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 236K · <a href="https://t.me/VahidOnline/76444" target="_blank">📅 16:02 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 237K · <a href="https://t.me/VahidOnline/76444" target="_blank">📅 16:02 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76443">
@@ -1147,7 +1147,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 224K · <a href="https://t.me/VahidOnline/76443" target="_blank">📅 15:57 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 225K · <a href="https://t.me/VahidOnline/76443" target="_blank">📅 15:57 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76442">
@@ -1160,7 +1160,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 210K · <a href="https://t.me/VahidOnline/76442" target="_blank">📅 15:57 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 211K · <a href="https://t.me/VahidOnline/76442" target="_blank">📅 15:57 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76441">
@@ -1196,7 +1196,7 @@ VahidHeadline
 #نه_به_اعدام
 ⁩
 @IranRights</div>
-<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/76440" target="_blank">📅 15:55 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 286K · <a href="https://t.me/VahidOnline/76440" target="_blank">📅 15:55 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76439">
@@ -1226,7 +1226,7 @@ AZ_Intel_
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 345K · <a href="https://t.me/VahidOnline/76438" target="_blank">📅 08:48 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 346K · <a href="https://t.me/VahidOnline/76438" target="_blank">📅 08:48 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76437">
@@ -1246,10 +1246,10 @@ VahidOOnLine
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/75a49fba40.mp4?token=PzSDPXX9cCJloTtgStM99dUBIk4fHTqLf0MNYFzWZydta6AZCZJI8muqAgrhqeMZ1oGTQTA-0BxiTCnjxD79a8qMuYoGyvD51Q7E0-N0zR0q3N8u-xEgePcMcJt1Z8OPwq-vGOeG2dOzg4rKfbGPERTrteSShJvPmMdCVUava2OrwN7BUU9Im71SilDFegrJkqnOvCyvqGGr5L6FK_aOWKEK7HWsyajFrOX_-TSiq3fcuZRG6YoRj9_Jr8jk3Xr7d0hvFT7yvPKC3RP2rhVTlSHpgU_FMfBtJHeE0iM9zYjk6hextm5UQQ1UmiGsmCHidCdNDLxonjU3aLnniypqPw" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/75a49fba40.mp4?token=nh9xGAROSc4r_CilKa9tUTPX5xYYzHH82ymzYFRH_pvS4Q-URel3c8AO0xRNUsP9KS7L4GR-3Va3S0qn1Q4eok8GUpShv2r2eq7XZVIHEpwEnAjPYVCrzBE4Ic8dPB6FkUzcBm1VVTwpMs8t26zlDAPM1_DgSYK2EN0YsfYoDn9loaphGMphc6Bp94E0c_t8dhDXH07Vwz6_VlRtHM_6XHx04wbz8aIw_9oJ3lXQknx2r8vHgPEDc_PjUBKDpMwZSkyc4pg5A6KWOPMUcWZ_-GZRRFd91eFAgNtiQCBiKDJ-t3gC4ZCJsMDhHI2o_WE5b7BaSVkXSwxjaAh3W4-Leg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/75a49fba40.mp4?token=PzSDPXX9cCJloTtgStM99dUBIk4fHTqLf0MNYFzWZydta6AZCZJI8muqAgrhqeMZ1oGTQTA-0BxiTCnjxD79a8qMuYoGyvD51Q7E0-N0zR0q3N8u-xEgePcMcJt1Z8OPwq-vGOeG2dOzg4rKfbGPERTrteSShJvPmMdCVUava2OrwN7BUU9Im71SilDFegrJkqnOvCyvqGGr5L6FK_aOWKEK7HWsyajFrOX_-TSiq3fcuZRG6YoRj9_Jr8jk3Xr7d0hvFT7yvPKC3RP2rhVTlSHpgU_FMfBtJHeE0iM9zYjk6hextm5UQQ1UmiGsmCHidCdNDLxonjU3aLnniypqPw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/75a49fba40.mp4?token=nh9xGAROSc4r_CilKa9tUTPX5xYYzHH82ymzYFRH_pvS4Q-URel3c8AO0xRNUsP9KS7L4GR-3Va3S0qn1Q4eok8GUpShv2r2eq7XZVIHEpwEnAjPYVCrzBE4Ic8dPB6FkUzcBm1VVTwpMs8t26zlDAPM1_DgSYK2EN0YsfYoDn9loaphGMphc6Bp94E0c_t8dhDXH07Vwz6_VlRtHM_6XHx04wbz8aIw_9oJ3lXQknx2r8vHgPEDc_PjUBKDpMwZSkyc4pg5A6KWOPMUcWZ_-GZRRFd91eFAgNtiQCBiKDJ-t3gC4ZCJsMDhHI2o_WE5b7BaSVkXSwxjaAh3W4-Leg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">جی‌دی ونس، معاون دونالد ترامپ که روز جمعه در سوئیس تفاهم‌نامه پایان جنگ با ایران را امضاء خواهد کرد، گفته مفاد این توافق اولیه در یک جمله چنین خلاصه می‌شود که اگر ایران به تعهدات خود در چارچوب این توافق عمل کند ایالات متحده آماده فراهم کردن زمینه برای بازگشت این کشور به صحنه اقتصاد جهانی است.
 آقای ونس روز سه‌شنبه در گفت‌و‌گو شبکه رادیویی سیروس ایکس‌ام گفت: «دونالد ترامپ هرگز نگفت که هدف اقدامات او به قدرت رساندن رضا پهلوی در ایران است. آنچه گفت این بود که اگر مردم ایران بپا خواسته‌اند و مقابل حکومت خود ایستاده‌اند، خیلی هم خوب است اما آنچه او می‌خواهد اطمینان یافتن از فعالیت‌های هسته‌ای ایران است چه از طریق دیپلماتیک و چه از طریق جنگ که خب در نهایت راه دوم روی داد». 06:21
@@ -1259,7 +1259,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 364K · <a href="https://t.me/VahidOnline/76436" target="_blank">📅 03:05 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 365K · <a href="https://t.me/VahidOnline/76436" target="_blank">📅 03:05 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76435">
@@ -1535,10 +1535,10 @@ VahidHeadline
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/d6aa89bbb6.mp4?token=HMhm5r8M09zM3CTVNjLHWNbwxJ4A2_iTfQN75eYi5COqTFhHN1_AK23te-RvjXTvBE7J7gBp8xrvAhkFtRtXVjuF8PrYPegg6fq-tKOTXt7pV1DpyGczh9i89ByPaTlpx4ybOlYcFO1HZUMXdVYaoXDhN4IE4C-tAub7XpkRbRN44JE1PDEuMmyFwXOKs9kU-gHXIdQeigPjgVKoFOIGkNYNSoAqFdDqhgMTHYTlVfOAuvprsJRMYW7yMCQmtFzKtSIzQAMfuVsQetmBM9SLxMVkaTCoojMVXzrxmXgebB6JLS9w4N5-Gb42OOTZFOWM5H7dlwQ8oMPHbHoNlYIdug" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/d6aa89bbb6.mp4?token=FXu9KQxs4IVify2xcddG-GgpFzI_NA9ZgGcnwXGJgoBZ2IuWuaPi7wNx2kT6fypceIQSQREWJcODSNPT6uGsjupq1XkILwM6PTsApzqyz8ulGfh-tePSd9ozeFufyUwX_RP_Ho8GAmVTqKhNPF5-4nb85ItCMnTWRi8tZqU35h4utYRJpDde3Jk9DbjQgJbyb89yDc5wtdkwJmtSJD0uciHt2s99fNlHbOnSs0vO6gGG_oabUDxW4kDwIxrjLd_rdA5CWtoeI9e4JXHpVMLV-zAuN8Eg4OXQpeuz3pmsJjW52cdI0ONdhPDVhHa7UxUUITw5DYHu_tK8X5iscM_15A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/d6aa89bbb6.mp4?token=HMhm5r8M09zM3CTVNjLHWNbwxJ4A2_iTfQN75eYi5COqTFhHN1_AK23te-RvjXTvBE7J7gBp8xrvAhkFtRtXVjuF8PrYPegg6fq-tKOTXt7pV1DpyGczh9i89ByPaTlpx4ybOlYcFO1HZUMXdVYaoXDhN4IE4C-tAub7XpkRbRN44JE1PDEuMmyFwXOKs9kU-gHXIdQeigPjgVKoFOIGkNYNSoAqFdDqhgMTHYTlVfOAuvprsJRMYW7yMCQmtFzKtSIzQAMfuVsQetmBM9SLxMVkaTCoojMVXzrxmXgebB6JLS9w4N5-Gb42OOTZFOWM5H7dlwQ8oMPHbHoNlYIdug" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/d6aa89bbb6.mp4?token=FXu9KQxs4IVify2xcddG-GgpFzI_NA9ZgGcnwXGJgoBZ2IuWuaPi7wNx2kT6fypceIQSQREWJcODSNPT6uGsjupq1XkILwM6PTsApzqyz8ulGfh-tePSd9ozeFufyUwX_RP_Ho8GAmVTqKhNPF5-4nb85ItCMnTWRi8tZqU35h4utYRJpDde3Jk9DbjQgJbyb89yDc5wtdkwJmtSJD0uciHt2s99fNlHbOnSs0vO6gGG_oabUDxW4kDwIxrjLd_rdA5CWtoeI9e4JXHpVMLV-zAuN8Eg4OXQpeuz3pmsJjW52cdI0ONdhPDVhHa7UxUUITw5DYHu_tK8X5iscM_15A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">جی دی ونس معاون رئیس‌جمهور آمریکا ویدیویی منتشر کرده:
 رئیس جمهور از روز اول صریحاً گفته است: ایران هرگز سلاح هسته‌ای نخواهد داشت.
@@ -1551,7 +1551,7 @@ JDVance
 
 <div class="tg-post" id="msg-76406">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Bgg1SPggmUqTTgwwhhNFqu0oyMfCCwk3Rv0-exWkj8bOFrblUtPwKCZ7Cshst2kLIXz78iS7SqvD9KQzpNiVBnst9TqzdvWV7G1j_4m_3hEopL2pZtW2vd-d4M-M5adMr8-c9QFtpDF7mIjR4jaYmocvEZND8y_1eOrerdiSSqLVuB8icWIufSGEZTGklLA5Bwr5iVuUMDiQYPpeAWWNZYKuuzJkxEt7T7E8RgF1Nq8n3xlGzVUR0WPijVJGxsOBxjQXmZn3cb60rZF1AIoib2pWR2gkpBss5qVqSjbEsNuz1EQR__ELNFABg6B2nG207TAqCb-bai-8-7mNyu8_mg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JZOBk0LjIJmXmrGWhp8b_74uRwAiuspTVxd2No7tgMgQLvxm3iCWOLW_BiCi54ovXvNwNGStXKCtpDKtWCStRFBop8tNRY-Dqr69ZcDRDi3R4sA1CUqMRZ-F3vZOGsjgt2F4WLXTFn15HCMGsToy3M9wwnN171tPYrM13EkCEKeiqV0CLahw4ZBjFPTinrK20CuX7WPWUK1CvCmLqxs5tu3Ru8xjze9yxpCRfNyksAv1qIe4Mg72Iv120KKtQITNCdcHdMAH07Fkhtla7mrNDJ2SRVKq-p9HMEXZCULxJwMJP_l0jC_-5Nm97toVtbN-Ej5eT5TEFci35Rs3TbP_gQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست ترامپ، ترجمه و توضیح ماشین:
 ایران موافقت کرده است که هرگز سلاح هسته‌ای نداشته باشد! همچنین، داستانی که می‌گوید آمریکا ۳۰۰ میلیون دلار به ایران پرداخت می‌کند، خبر جعلی است که دموکرات‌های احمق منتشر کرده‌اند!!!
 رئیس‌جمهور دی‌جی‌تی
@@ -1571,7 +1571,7 @@ realDonaldTrump
 
 <div class="tg-post" id="msg-76405">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sblXMsyzzNj_UJH3ykz_iixEOmIk0E0OvNrmMc_Lmqrou6qKLeKHHG4vkA8V8LF3g9Q0b-btXos9So8GZoulOxzwSAUvHZFtGFghzaZwQ8Cu8apd3DxYCDrtfNuVfTTrFaKlQKacZDOaKkXOiLAnh8LvQumeawTHuA2WYliTZiVsmmjPB0WqY9DfdnosJ9gE222FiouADSzNaw1YLw4fGEV7r9YfUZ_7enwchxQ5NyxK1ELrulaCfCIDGwTkvPEnxsK_94RJ_fcMQo7S0F7m0Tb9KHTsGBEPhGkL5KuCoNRF50iO1UjQ5Z6ayix3RN8_CSuoLjRG4BHYjfsfDIomKw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pYPusXminEzaj1Wh8BoU4mmzt6IS6C4pZnSg-2VvSQf1HH6aHidrarQECeWtl0ojFa-lzQHHq2lNMO05sUCq3VXx-8iW6g_eLKcGEDPK2Ufsa8eHewxbxwIsmgkRtyttS4cLERHbSDB88wtMTcFNd7UYh94F-Bcc4qrgxvxgPNcWOSFrobg0qGvqJBS07kNw5JkmPm5pKfT1G7HOCMUh8TrAfADuOIrsu_hw4eit7IAIXYbSnEhBEplNGlGPCI2J7KdOCzvJlVOLu2oQVi0LtWvH79LJl5JlGopraTMNo_najXyELFGqtF6YOTn-gMUQpq3IPjqDkLjVxTqr2C2AOQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سه منبع مطلع که با خبرنگار اکسیوس گفتگو کرده‌اند، می‌گویند: جان رتکلیف، رئیس سازمان اطلاعات مرکزی آمریکا (سیا)، به دونالد ترامپ و دیگر مقام‌های ارشد دولت گفته است اطلاعاتی که چند نهاد اطلاعاتی آمریکا جمع‌آوری کرده‌اند، درباره آمادگی ایران برای ارایه امتیازهایی که واشینگتن در یک توافق نهایی هسته‌ای میان دو کشور خواستار آن است، تردید‌های جدی ایجاد کرده است.
 براساس این گزارش، رتکلیف تنها فردی نیست که در تیم ترامپ دچار تردید است. مارکو روبیو، وزیر خارجه آمریکا، و پیت هگست، وزیر جنگ، نیز در نشست‌های داخلی نگرانی‌ها و پرسش‌هایی درباره این توافق مطرح کرده‌اند.
 در مقابل، جی‌دی ونس، معاون رئیس‌جمهوری، و استیو ویتکاف و جرد کوشنر، نمایندگان آمریکا، از توافق حمایت کرده‌اند.
