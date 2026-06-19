@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-30 01:11:33</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-30 02:15:05</div>
 <hr>
 
 <div class="tg-post" id="msg-2687">
@@ -318,7 +318,7 @@
 پ.ن: من داشتم میخوندم خندم گرفت این چطوری داشت میگفت خندش نگرفت؟
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/iaghapour/2687" target="_blank">📅 19:23 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/iaghapour/2687" target="_blank">📅 19:23 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2686">
@@ -339,7 +339,7 @@
 با
 check-host.net
 سالم</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2686" target="_blank">📅 23:00 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/iaghapour/2686" target="_blank">📅 23:00 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2685">
@@ -368,7 +368,7 @@ check-host.net
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/iaghapour/2685" target="_blank">📅 19:58 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/iaghapour/2685" target="_blank">📅 19:58 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2684">
@@ -395,7 +395,7 @@ Have I Been Pwned
 اگر اطلاعاتتان لو رفته بود، سریعاً رمزهای عبور خود را تغییر دهید. همچنین برای جلوگیری از نفوذ، حتماً تایید دومرحله‌ای (2FA) را برای حساب‌های مهم خود فعال کنید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/iaghapour/2684" target="_blank">📅 17:04 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/iaghapour/2684" target="_blank">📅 17:04 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2682">
@@ -408,7 +408,7 @@ Have I Been Pwned
 اگه واقعاً کار براتون نمی‌صرفه ما هم راضی به ضررتون نیستیم، کلاً درِ این اپراتورها رو تخته کنید و جرم‌انگاری استارلینک رو بردارید تا ببینیم تو یه بازار آزاد اصلاً می‌تونید باهاشون رقابت کنید یا نه! واقعیت اینه که سودهای کلان این اینترنت انحصاری (پرو) حسابی به دهنتون مزه کرده و حالا با گرون کردن‌های نجومی و پشت‌سرهم، به هر دری می‌زنید تا جیب مردم رو خالی‌تر کنید. وگرنه این چیزی که دارید به ما می‌فروشید اصلاً اسمش اینترنت نیست؛ هر وقت یه اینترنت واقعی و بدون فیلتر دست مردم دادید، اون‌وقت پولش رو هم بگیرید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/iaghapour/2682" target="_blank">📅 21:51 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/iaghapour/2682" target="_blank">📅 21:51 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2680">
@@ -435,7 +435,7 @@ Have I Been Pwned
 به هیچ‌وجه انتقال مستقیم ارز بین صرافی‌های ایرانی و صرافی‌های خارجی انجام ندید. حتماً از کیف پول‌های شخصی (مثل تراست ولت، یا ولت‌های سخت‌افزاری) به عنوان واسطه استفاده کنید تا مشکلی برای سرمایه‌تون پیش نیاد.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2680" target="_blank">📅 16:15 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/iaghapour/2680" target="_blank">📅 16:15 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2678">
@@ -462,7 +462,7 @@ Have I Been Pwned
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/iaghapour/2678" target="_blank">📅 19:50 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/iaghapour/2678" target="_blank">📅 19:50 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2677">
@@ -514,7 +514,7 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 این جهش‌های تکنولوژیک در حالی رخ می‌دهد که در ایران، استفاده و خرید و فروش تجهیزات استارلینک همچنان ممنوع و جرم تلقی می‌شود. با این حال، در پی قطعی‌های اینترنت در یک سال اخیر، ده‌ها هزار ترمینال به صورت قاچاق وارد کشور شده است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/iaghapour/2676" target="_blank">📅 18:09 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/iaghapour/2676" target="_blank">📅 18:09 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2674">
@@ -647,7 +647,7 @@ YouTube.com
 اگر وارد ویدیو شدید و دیدید صدای من انگلیسی شده، روی علامت چرخ‌دندهِ خودِ ویدیو بزنید، وارد بخش Audio track بشید و اون رو روی Original (فارسی) بذارید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/iaghapour/2667" target="_blank">📅 16:45 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/iaghapour/2667" target="_blank">📅 16:45 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2665">
@@ -724,7 +724,7 @@ SMS Fee
 پ.ن: البته از وضعیت دیتاسنترهای دیگه اطلاعات زیادی در دسترس نیست.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/iaghapour/2661" target="_blank">📅 21:49 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/iaghapour/2661" target="_blank">📅 21:49 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2660">
@@ -1017,7 +1017,7 @@ CoinGate
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 51.4K · <a href="https://t.me/iaghapour/2643" target="_blank">📅 19:33 · 09 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 51.5K · <a href="https://t.me/iaghapour/2643" target="_blank">📅 19:33 · 09 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2642">
@@ -1736,7 +1736,7 @@ skip-SSL
 
 <div class="tg-post" id="msg-2591">
 <div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kMUTYvkLzK5fg6HRwI91aj2HIUz_NYSSUOsWaORJGuToZqzI-NIq_Mk4GY2dndAPObSi3ujqjzmOUzpN4ge2GEWgyitZi1erF1NmUEF6rXA8ZKRAllWUNoSPCytO0lXDfftoB-IU7o0qeIC-NGywWEKvY4THk3FM0fBR33ZqZVbjsNWDIuWanWKCREKDUyjkigaszTJkAM8BwkXAYm1INpFgEu3P8iGPb4x9vrigdcQBgYmGp68BPvNSUn1mIIR7faCrSVzoepVjKMV-wWAMHVdLMFkrX6n8yZ_IAys9AwisTdssSNDyiGzCTghjluRLE7QDTstnBHe0kOmne8kGVQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/p82dEC1Seiq2J0C8XMvAcXL3kGNpfhsij73P6-OdQ8lEblS2H7suigrWDmlmfzsTK6Z__kC0-NngAI00wxuRhjG0XUbmc7DRPa-bIH4OCROyci8b5FFN248nLFV-VfJTQrVCJR5HodQA-6NDcxDSRKyGnaPus7pNld4W87ngbSGBrKtFxQ5i0iBggME3AFS4BRwT-uzkUDp4fRHZhpdfIuLin6X7BusOoIBC9h-zpykV8Oj3ybHiJWFuVU--BeLuZkfbeP7E1HEvrO45UE6Xwr4AWUCxXKuwqeh3TPifC-G9WAGYkRL0Xaep1CEKA1DhMxnvzoS38cXJgWwHwo8YyQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آپدیت بزرگ تلگرام: ورود دستیار هوشمند به پروفایل شخصی!
 تلگرام در آپدیت جدید تمرکز ویژه‌ای روی هوش مصنوعی داشته است. در ادامه مهم‌ترین تغییرات این نسخه را مرور می‌کنیم:
@@ -2186,7 +2186,7 @@ GooseRelayVPN
 
 <div class="tg-post" id="msg-2563">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KIgkVicuj3Cw6FOpKu_ZTOsGJc0gRHHRBF6aqpkkIbwyL7sJ9m-5mdZlDsoRYo7WhQgkI9iRB3x6McT70_m3D7FJaaYMxpd7hTECdZ5UodeCvx7DWB48C3_XVpI9KlNy1OkESmUXVMVHQhgN4HASySDKqmH7Fl-McbBd-_Bz2ZKuxmuVazAfNrtCo9oe7Coax6B-JGh9zr0BchvfUaaKW16SI5tj9CpZqeDK13pR0ydfMV9vCMbjtFrgym6yTeIfSaWLXR8228KvfUshHweG1S-q33jShM6YykIT5SJRdcTDz_dFCUzwvRhygo39PmlpqSCTWKL2XbMoJoU0KBxVNA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZbPYvuWuh7SOBew7aJflS1ViJwtXGDzC5u3zMMptuqHTEsf6wTM4WUeUI3I0B8HqM7sXIO55_oqHLKd2J4fZN8S5vY_teCF6YZQP8TKV30mhyfUOrLz777epp5F9aslKqCxLiif6wg5p10le6slcFAmihyscUtC3jEHelYutpq4VtMR6HwS0EBgWpf7kHiphYJdCFuYC2-3n_9ftkwFttgBx8F0KEU3UDXU_lvZz9DJhtYoNQ8cmzKGm4zZZeFpk5cY5pRToJHMbE-EXRsvLgmalqdWFtBK8AU331H4ZXBgj0TtaSfeWEcty6tRh4Y0hgnxLnbM1_KntunBu0aTQ3A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ساخت فیلترشکن شخصی و تانلینگ امن با سرویس‌های ابری! (GooseRelayVPN)
 🔹
