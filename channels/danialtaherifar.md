@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-30 02:15:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-30 03:31:43</div>
 <hr>
 
 <div class="tg-post" id="msg-937">
@@ -364,7 +364,7 @@ Google Discover
 👥
 در فاز نخست، این قابلیت برای ناشران و تولیدکنندگانی فعال می‌شود که در حداقل یکی از شبکه‌های اجتماعی اصلی دنبال‌کنندگان قابل‌توجهی داشته باشند. طبق اطلاعات منتشرشده، حداقل شرایط شامل 100 هزار دنبال‌کننده در YouTube، Instagram یا X یا 300 هزار دنبال‌کننده در  TikTok است.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 526 · <a href="https://t.me/danialtaherifar/934" target="_blank">📅 13:53 · 16 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 527 · <a href="https://t.me/danialtaherifar/934" target="_blank">📅 13:53 · 16 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-933">
@@ -455,7 +455,7 @@ Google Discover
 
 <div class="tg-post" id="msg-925">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cSyH0bQEWPqQ6he4sPREyMruo6a42dRpYac6Wh5zkVbpSKVVqxTxV2LMwOccJADwaOg1zhE_kT5piMVq1au2615xUBaliur87rl2zVh06Jbx04JhlxLyyiM185qkJ46NJZaEJQv29x6mh-WFKmSjxH9vMJjzytVJRJYbelHsuwP6GErBjXR1889M1b03gMRrczFhnrs28I1lCTZ0ZHaDyf4l0KIfNHK6Cy4IwdBEtUtw9n4C2ZqFeHXHGhG2Yx99r6agRmwIrhgDjcvxJajKxgIhrWv7He-9Ifd3hqeY0QAZyRkYjrnsXJrr8KBpw-FjqXKnTQRa4HHa71EuxTLHZg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MoUUCZWipv6Yxaa88zZcqkVbIQsteybc4zLgF_RHYmjv8kLNtRWVDHaRv-G0KGyu_7oUQYi1m7b06823LAbOdIQW0NxDrF2jI255rCPIVu73HvHR2NGxXmFOK-CcbKVqWrN9JdRTlaNPJJtsPE_EHD9zReg3sU85kawnax_9ObEgtS2qNrCpRoGjhdS8NK9XB55WbtfYceYw4GzcqZCB-WULfIf_T4EWNqq4Ul9HUq2FGjJKzJIx1n50A_020AH7aro9LivIcGhtWl6KZChVuypYBXY_c5i_J2G_2A_tm1sPx_uvCCyBJOuRcVULarr9eHfOdAjgVdxAZOIyPNk0Wg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درود
 ظاهرا دسترسی به یک سری دیتاسنترهای بین المللی برقرار شده.
 @danialtaherifar</div>
