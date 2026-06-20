@@ -292,7 +292,7 @@
 <a href="https://t.me/funhiphop" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 «قدیمی ترین اجتماع فانِ هیپ هاپی»🟡صاحب سبک🟡Tb :@FunHipHopAdsContact :@Chaman_Dar_KhakFollowing Copyright Laws©</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-30 03:31:43</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-30 08:18:16</div>
 <hr>
 
 <div class="tg-post" id="msg-78268">
@@ -300,13 +300,13 @@
 <div class="tg-text">الان وضعیت جوری شده فنای مسی دارن از پرتغال تعریف میکنن فنای رونالدو از آرژانتین
 @FunHipHop
 | Menot</div>
-<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/funhiphop/78268" target="_blank">📅 00:59 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.78K · <a href="https://t.me/funhiphop/78268" target="_blank">📅 00:59 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78267">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">شب جمعه خود را چگونه گذراندید؟  @FunHipHop | Arash</div>
-<div class="tg-footer">👁️ 7.33K · <a href="https://t.me/funhiphop/78267" target="_blank">📅 23:51 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.47K · <a href="https://t.me/funhiphop/78267" target="_blank">📅 23:51 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78266">
@@ -315,7 +315,7 @@
 پوچتینو تیم خوبی ساخته
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 8.44K · <a href="https://t.me/funhiphop/78266" target="_blank">📅 23:15 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/funhiphop/78266" target="_blank">📅 23:15 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78265">
@@ -323,7 +323,7 @@
 <div class="tg-text">ترامپ دوباره مصاحبه کسشر کرده که به خاطر اعصاب ممبر های عزیز ترجیح میدم پوشش ندم
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 8.77K · <a href="https://t.me/funhiphop/78265" target="_blank">📅 23:11 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/funhiphop/78265" target="_blank">📅 23:11 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78264">
@@ -331,7 +331,7 @@
 <div class="tg-text">کشور جنایتکار آمریکا گل اول رو زد
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/funhiphop/78264" target="_blank">📅 22:41 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/funhiphop/78264" target="_blank">📅 22:41 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78263">
@@ -339,7 +339,7 @@
 <div class="tg-text">بازی استرالیا و رقیبش هم داره شروع میشه
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 9.51K · <a href="https://t.me/funhiphop/78263" target="_blank">📅 22:30 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/funhiphop/78263" target="_blank">📅 22:30 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78262">
@@ -348,7 +348,7 @@
 <div class="tg-text">بهترین رونالدوی موجود در جام جهانی 2026
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/funhiphop/78262" target="_blank">📅 20:56 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/78262" target="_blank">📅 20:56 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78261">
@@ -357,7 +357,7 @@
 <div class="tg-text">باید کون میداد تا بهش 10 بدید؟
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/funhiphop/78261" target="_blank">📅 20:43 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/78261" target="_blank">📅 20:43 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78260">
@@ -365,7 +365,7 @@
 <div class="tg-text">فنای رونالدو به پیج کل بازیکنا تیم ملی پرتغال حمله کردن دارن فحش میدن
 @FunHipHop
 | Menot</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/78260" target="_blank">📅 20:09 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/funhiphop/78260" target="_blank">📅 20:09 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78259">
@@ -375,7 +375,7 @@
 Download
 @FunHipHop
 | Menot</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/funhiphop/78259" target="_blank">📅 19:09 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/78259" target="_blank">📅 19:09 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78258">
@@ -383,7 +383,7 @@ Download
 <div class="tg-text">شایع ترک داد
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/78258" target="_blank">📅 19:01 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/funhiphop/78258" target="_blank">📅 19:01 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78256">
@@ -392,28 +392,28 @@ Download
 <div class="tg-text">حنیف عمران‌زاده: یه شب تو باغ با برادر خانمم مست کردیم تصمیم گرفتم از فوتبال خداحافظی کنم، به خانومم گفتم یه پیام تو پیجم منتشر کنه که من خداحافظی کردم از فوتبال، فردا صبح بیدار شدم از تصمیمی که گرفتم پشیمون شدم ولی رفتم تو گوشی یهو دیدم همه واسم پیام گذاشتن داداش تو ادامه مسیر زندگیت موفق باشی، منم دیگه مجبور شدم از فوتبال خداحافظی کنم با اینکه دلم نمیخواست این کار رو کنم.
 @FunHipHop
 | Menot</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/78256" target="_blank">📅 18:43 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/78256" target="_blank">📅 18:43 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78255">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i9eBzYif42E4kp34bwXPpcKL_EeeKj0miAi0pYSg2EpaQP-okfzQJBSXqz0c9TNuALjvIRYJue1tqstBvYsjPunfbODKuITNIlePhSlLZ6cdYmiEWeCzfLyb9BoTO_cRpsfhnHzxOUuH7QI2wSKGs5fLydRrSnLux2DZyQJXnf4KEOJE9mOzSSnXrKyZnxE7wltnE88Z8G4gkqZu0opZM69A76hkM0Dc8nVFGk498V3csIbsAx2NIyo5epee5d0aNdl5jV6Hy2C6wOOMGeez6Hnti6sYrbLYe2aPnLwiKZ9q50HvOS4cNETkEzkA3PVPtMNjFiQOWRs0-pultdYU5w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">من مردم.</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/78255" target="_blank">📅 17:57 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/78255" target="_blank">📅 17:57 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78254">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P9pFfjXai5SMJo61nJBQEu3eXAoW3cthNBWqAiZOAZMfm1qZQI0_xujh0cC0klNb0GWs5wJdGd237z4rcBcJB5HyVgvqJXD3X19DgTDFa2EELz76q0baDYuRjKDitJ0WLcP5bmfcuaU5VOpwHoFBSTynXVu53rnPk3w4jcpe1XitnXRfLyIE9nDv1iTyVNWey7o4yYJa0tToGTAI29irHHUVM5RSpWbt9Zu7OBRqm70iHz6IO_YcwfWkGkZDm0V9S8QeerMKjMuHDeBxJE3ViTeODnJ0Ah1ODESFVEifG6-GHspJa1WgJ6NzLb9yDA4C0DSpLZV-sK3rihW6Wt6nMQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">من مردم.</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/78254" target="_blank">📅 17:56 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/funhiphop/78254" target="_blank">📅 17:56 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78253">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">جام جهانی ۲۰۲۶ با بری بت شیرینه
 🔥</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/funhiphop/78253" target="_blank">📅 17:56 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/funhiphop/78253" target="_blank">📅 17:56 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78252">
@@ -453,7 +453,7 @@ https://gfyweuuchsa.shop/fa/affiliates/?btag=914641_l303106
 👇
 ☑️
 https://t.me/BerryBetOfficial</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/funhiphop/78252" target="_blank">📅 17:56 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/funhiphop/78252" target="_blank">📅 17:56 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78251">
@@ -462,7 +462,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">ژوتا یالا از قبر بیا بیرون پاس بده دیگه
 @FunHipHop
 | Menot</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/funhiphop/78251" target="_blank">📅 17:21 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/funhiphop/78251" target="_blank">📅 17:21 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78250">
@@ -471,7 +471,7 @@ https://t.me/BerryBetOfficial</div>
 <div class="tg-text">مکزیک به عنوان اولین تیم به دور ۱/۱۶ صعود کرد.
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/funhiphop/78250" target="_blank">📅 17:12 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/78250" target="_blank">📅 17:12 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78248">
@@ -483,7 +483,7 @@ https://t.me/BerryBetOfficial</div>
 هیچ پولی هم دریافت نمی‌کنند؛ حتی یک سنت!»
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/78248" target="_blank">📅 16:16 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/78248" target="_blank">📅 16:16 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78247">
@@ -494,7 +494,7 @@ SoundCloud
 Download
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/78247" target="_blank">📅 15:20 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/78247" target="_blank">📅 15:20 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78246">
@@ -502,7 +502,7 @@ Download
 <div class="tg-text">نتانیاهو: دستور داده ام، جنگ در لبنان با تمام قدرت ادامه یابد
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/78246" target="_blank">📅 15:10 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/78246" target="_blank">📅 15:10 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78245">
@@ -511,7 +511,7 @@ Download
 ترامپ میاد خایه مالی میکنه و میگه اسرائیل باید حملاتش به لبنان رو متوقف کنه وگرنه باهاشون برخورد میشه
 @FuunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/78245" target="_blank">📅 14:46 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/78245" target="_blank">📅 14:46 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78244">
@@ -519,7 +519,7 @@ Download
 <div class="tg-text">سپاه باز تنگه هرمزو بست
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/78244" target="_blank">📅 14:32 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/78244" target="_blank">📅 14:32 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78243">
@@ -527,7 +527,7 @@ Download
 <div class="tg-text">معاون راهبردی پزشکیان: تجمعات شبانه باید جمع شود. آنها سلامت روانی جامعه را بر هم می‌زنند.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/78243" target="_blank">📅 13:05 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/78243" target="_blank">📅 13:05 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78242">
@@ -535,7 +535,7 @@ Download
 <div class="tg-text">مادر اشکان لئو رو گاییدن الان تو کماس
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/78242" target="_blank">📅 12:45 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/78242" target="_blank">📅 12:45 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78241">
@@ -544,7 +544,7 @@ Download
 <div class="tg-text">مهم ترین دغدغه این روزام اینه که بدونم این یارو پایین تنه چی میپوشه میاد جلو دوربین
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/78241" target="_blank">📅 12:30 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/78241" target="_blank">📅 12:30 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78240">
@@ -552,7 +552,7 @@ Download
 <div class="tg-text">جنوب لبنان چرا منهدم نمیشه
 @FuunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/78240" target="_blank">📅 11:50 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/funhiphop/78240" target="_blank">📅 11:50 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78239">
@@ -561,7 +561,7 @@ Download
 <div class="tg-text">قبلنا که ترک پوریو میذاشتم آرشیو تو کمتر از ۲۴ ساعت بالای ۲۰۰۰ تا فوروارد میشد، امارش تقریبا یک سوم شده.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/funhiphop/78239" target="_blank">📅 11:40 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/78239" target="_blank">📅 11:40 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78238">
@@ -573,7 +573,7 @@ Download
 💔
 @FunHipHop
 | Jenayi</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/78238" target="_blank">📅 11:37 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/78238" target="_blank">📅 11:37 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78237">
@@ -595,7 +595,7 @@ DerbyBet.com
 🔥
 🆔
 @DerbyBet</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/78237" target="_blank">📅 11:37 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/78237" target="_blank">📅 11:37 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78236">
@@ -625,7 +625,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 https://DerbyBet.com
 📩
 @Derbybet</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/78236" target="_blank">📅 11:37 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/78236" target="_blank">📅 11:37 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78235">
@@ -633,7 +633,7 @@ https://DerbyBet.com
 <div class="tg-text">سوییس کنسل شد
 @FunHipHop
 | Reza</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/78235" target="_blank">📅 11:28 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/78235" target="_blank">📅 11:28 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78234">
@@ -669,7 +669,7 @@ https://DerbyBet.com
 <div class="tg-post" id="msg-78228">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">تروخدا وضعیتو المیادین: هیئت ایرانی به دلیل ادامه حملات اسرائیل در جنوب لبنان، سفر خود به سوئیس برای مذاکرات را به تعویق انداخت.  @Funhiphop | Nima</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/funhiphop/78228" target="_blank">📅 23:57 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/78228" target="_blank">📅 23:57 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78227">
@@ -696,12 +696,12 @@ https://DerbyBet.com
 <div class="tg-text">اینستاگرام چه داره پیشرفت میکنه
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/78225" target="_blank">📅 23:16 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/78225" target="_blank">📅 23:16 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78224">
 <div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/78224" target="_blank">📅 23:04 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/78224" target="_blank">📅 23:04 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78223">
@@ -716,7 +716,7 @@ https://DerbyBet.com
 <div class="tg-text">چون ۱۰ نسل قبل یارو نسل کشی کردن یعنی این دختره خوشگل نیست؟ خار منطق
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/78222" target="_blank">📅 22:24 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/78222" target="_blank">📅 22:24 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78221">
@@ -734,7 +734,7 @@ https://DerbyBet.com
 <div class="tg-post" id="msg-78219">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">پوری کیرم دهنت کاش خایمال نبودی</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/78219" target="_blank">📅 21:43 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/78219" target="_blank">📅 21:43 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78218">
@@ -767,7 +767,7 @@ https://DerbyBet.com
 <div class="tg-text">نظریه داروین درمورد تکامل انسان
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/78216" target="_blank">📅 20:50 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/78216" target="_blank">📅 20:50 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78215">
@@ -783,7 +783,7 @@ https://DerbyBet.com
 <div class="tg-text">پی دی اف جدید مقام معظم رهبری در کمتر از یک ساعت دیگه منتشر خواهد شد
 @FuunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/78214" target="_blank">📅 20:04 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/78214" target="_blank">📅 20:04 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78213">
@@ -810,7 +810,7 @@ https://DerbyBet.com
 <div class="tg-text">4 کامیون ایموجی خنده
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/78211" target="_blank">📅 19:39 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/78211" target="_blank">📅 19:39 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78210">
@@ -821,7 +821,7 @@ https://DerbyBet.com
 
 <div class="tg-post" id="msg-78209">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Q_WY0fcdezL6aw0duWwRnP_ucHHkgHALKchHtNxHtiJnUDNI4kj7mzEo2s0Vuw0OoKhi4LNf3Jw5Z6aeLEj0hxJsfZ6GxGRg7BBz0MagYvl7DZILfdGEDwbMJvFgA7d7czB3THRjuYBPjKcCc2q52E0a2BO7xG7FZMikucpcL-D9czNdeh8oPOB6u9RWch9DN8uja4_12DvjLbvpa2GH7kOobN2GCmU8gMt9Qz7aRoGQ6RQmX-KvhfV0RE-kdYCWH_-970sZouJk97nuXNOI-SYfmAztEIYScD3grXpBV-PUKw-o971t_dfqRQROuxoz3SqE1r8kcskJXuG4dwhQrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/F_D6TdNGUpLOVS8be2e0RkMSUTmKXevkFav2s78nYO6gYg8_rq1PQ143WzzKq-m_V9vh-OJsRxKbuFx3TSctRlFiIMxg35WT2LE7TnSo2D-YSEMGiqShNzMo_veeDvDNfOLxny83o1XKPE9sF6dd6pzuPmmlCJaOm5jq7Xd2VlsLcJ38ymelNcgdwMPB2_o4TeIP3bdBTuRiRebPtl7x1ACzX6WxWkj4VvepMS3K8hqd9KxNsHY6ksI6c45QLAu1LzLNS9T2GIz_1TUvOwNmf5-OUKk42vhNs1EeWfrrJ7QBjF1VP_7l-dcSzRqQWP5AUgqy0g-RbVvA0yvC7szTgg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تیم منتخب هفته اول جام جهانی 2026
 @FunHipHop
 | Taymaz</div>
@@ -881,7 +881,7 @@ https://DerbyBet.com
 
 <div class="tg-post" id="msg-78202">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i0dCiYRPZBmks2tCxqpD4v_DnKS9vTHF7InzkUIAJS8714HN8RoJBp7p2tP8jXN7FefR_GQ2olaf5jowjqzgoU--IKdO8ygXpIpjYpVBcsqlQZOTGj6r-TMOhoHMejK9aApr3rPAnwRSXcu8hZkPVqBt0NyVcHfEdctN9mD6A9g9NQZvAcLjW78_dXgVEm3l9yBx8sLM2EEO3xT32mpFhH9NMDriuW2x2KhAqdvnia6jW6ejvxazkdmcFOly2OIfVf1Ysxk6uG9xfdrAOkeOwDl21T3CQd-_Hf9fy_ky_j8Rb0Zy4IYnWS21H2LiEqWokCSBTCzkMdUoHjiwI0ajOA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ikf5HG_W4mBVKqi9oeTynqgSILQlXJk739dym5LfI6YC0p8tT-uRBhkTyGDJg6nwKNa5aMkSrKjs7RLPvjI0xqKVrITb1eckCXGU54ACTgHCrr5kSacNvjHxyQ70on4jNzP8i3bxFur6g7IXVMQnzq6B-RZJhXPx80KV2KIXiTETOZ10xS6wWCgJtAxCcJK7Ld3L_acZBZp2IB_WgwX2WceBCJECVUlAXTh5Roh7cfhQJgmi4M4zzDtREZ0bN_r5ZtUjeEC5nV_0qK7GoDfvHf3d816BrMZi9x-GkLGhuSVuapznE78AMIkFi2vSAOKimyiDW0bMHp_Q1_RIlx2GVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 چرا سایت بین المللی ماف بت بهترین انتخاب برای پیش بینی جام جهانی
 ❓
@@ -918,7 +918,7 @@ https://mafclub.online/fa/?btag=260368
 🅰
 🔹
 https://t.me/+3Zxs6WU7L_UzY2Fk</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/78202" target="_blank">📅 17:30 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/78202" target="_blank">📅 17:30 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78201">
@@ -938,7 +938,7 @@ https://t.me/+3Zxs6WU7L_UzY2Fk</div>
 
 <div class="tg-post" id="msg-78199">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LPXIJCrRASGlDgkvXJOQHglDFvhnqm6he0-NdN1E_m3zih3aAGxk8UuDTsSuKfiHPDGprELJztjwuHyQZvRrXLeucaumbe_6TaBrwdLUJywwoshi7XAGTpDaVNRrrjBlzle0ZRn2PS5YWFXqcvNZmLI_ssMWnnBWOCzPz3qoqvui4JmYlvz_Nw4jQwdaCxJ1PnhupPrrkR8F5enh6j4nO3gOvO8ZJuUTN0MXa86kEXcLm7mek5AlMvD0ccky1_t31uKI7-KTVaHLtlRiQYxgfhQE_Rat2Nk0zwqVY0cCXv72D5XzOjrDHinpAGt0ISKW71_kXxna3hXIwdssgB7jsQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cPhBBqn8h2yCSB4OWHxcZqGFP3UUa8MuSeuuV06FEYcacU7vhNHTNvAqQa-WiwDK5xj5UySuDZdYd2YY_LTqaNuFDzZb-5Ps0d64Q5vgb-vz6v20878IwRYl8BxkA4SHrcGNWaelxRYkCY698r0sHLGbspmLpfw3xi1__GkO3Q0TcCPW6cNLKyJKaZsIOGz61KPzOLloMoa1_R0f8qYd2FRcnuMTOntRhcFy2WksiKgImztbw0e1XquV9ofObWOS6nmGPXyzKHBAAKiE4LMTvl0SREibFAI1NV8ilTRb-gitukwWSMJp6aQdYoBQvopSj8heeiEDKcXc8fgeqcD94Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">موزیک جدید پوری به اسم
 سرپا
 ریلیز شد
@@ -1010,7 +1010,7 @@ YouTube
 <div class="tg-post" id="msg-78191">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">راستی محرمه، پرچم عوض شد</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/78191" target="_blank">📅 15:16 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/78191" target="_blank">📅 15:16 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78190">
@@ -1023,7 +1023,7 @@ YouTube
 
 <div class="tg-post" id="msg-78189">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Q0iY0eqNoIen91w9wj2yCtCYjJN784h1QtwEryl3G21a-uWO8Ok8Wp_ycINGXuDCYf3UhX_T8m0bm883ioJvi-OGNaTfROv5q_k6FnzAgpn3cPXNQtK1FitPnOsicrhynOx4L3iVe6PKEArm-DmIGYlth7Xxpc83OO7s2ZRSZ-cD-ScPPZBygIo6SD-rzAm0gQ3zB_aLZUO2-OACHNUj-hj8-expSTzl7rvVvnbbeqODu507MPml3x9LzGNBZJE2DzrBGuokMWUT16sSyf73isEs54PrmRRepjR3VmmcDLGtauPH68JRGiUQTi6QOB2yxwOvyywV7jf5kKb1kqFreg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d-R5XCQY3dw0gnGKPWNefZAurb6_4F4jYEeGlqHaS9t3uSrw5aTjkuhFYqYW-DLWTKC0MQRHv85Go0mhoVCMbKOhcZxBihmywYJncrtL-A9v-h6L7omQCxh7289miumwMv8WVTkox3xQo22T_N8b8plTQJAW7WQsrDeHtZMp36FYDwpxxxZjRhmZj68UO-urpUXSpurOBzEGyFiNpAE1xf04DWXvG9u631-iiGKEcuNA06hkmgVPcT__14KyUN2MAB0jcd0DusHZskd9bEGHckRKnwpq0jvjFZ_xRO2I6Z8VSnLLGPtD9xZM4MQCSTdA8spcdK7tyHu-wUZI8EQ27w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پرامپت اوردم براتون که توش میتونید خودتونو درحالت امضای توافق با آمریکا قرار بدید
 پرامپتش:
 A tight close-up mirror selfie, black and white, grainy backstage aesthetic.
@@ -1127,11 +1127,11 @@ Spotify
 
 <div class="tg-post" id="msg-78172">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lVF-GzWv4Vn3SmqWYpFPDJi1aIr2Jjt21LAo4X7dMRqtm3yXoMGqAdw0Zdc473JPyUXJqRnpE5-s25Jp9UAYxYsqp585yY1sbfddToBxzTvunxTHZo3fsi6ezxJstZnLWRGR8k4oUKcBjONOd5EkjiyrbmiVsEWOlN2XvxVbtxWJnWf8fZAgsA0n_bLfkdBspVVGenR0yw20CKT2EDyIQWvWUw7n01hmK9lfEigNkoGfzwsSUPZdBAYcweFKuXvLB8pFJkWtBKzdVsUvxverKAjpZW1BpqNDBaQ4FafycJcjedNS2iZHoCwH3ilezpI5pTxqXJIHMW5-m2jEYyfXRg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vmYBd23FVPu8w28ASg1r8RLgTXabs2IErCd5cjIpg4TGgJu35hOcAkEoBUBdqDSC-J0TFPnw6vNqXq87mb9-peHxqLZ7BttfUjBfcQZGsiEvqXq50y4SFAUYb8kbuhXwv-nV9p-U2EJ_WMWtlhxN7bZ22NeTNI5HeXBtdpKcRZw-v2i5-YkTVvlhn-RTt7yXVzqhplbAJ2zaB58KqMQos0zBkHEuv6lRT1w8pQz4ye6mNEvrlJCZLIzAfVpo1qZf_RLRTC9CVvfqDCkPk-jY9urek8hcdGqMCffy4gM7EUYxqvFZSjuGqIsEHoWcsIJwyLr8OzyerIdE80Jnd366zA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایرانی بدون خایه نمیمونه، بالاخره یه جفت خایه پیدا میکنه برا مالیدن
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/78172" target="_blank">📅 12:11 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/78172" target="_blank">📅 12:11 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78171">
