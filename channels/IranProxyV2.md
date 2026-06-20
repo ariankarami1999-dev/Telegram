@@ -292,11 +292,32 @@
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ارائه‌دهنده راهکارهای نوین شبکه، سرورهای مجازی پایدار و سرویس‌های مخصوص تلگرام  گیمرها و تریدرها.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-31 00:17:24</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-03-31 01:30:28</div>
 <hr>
 
-<div class="tg-post" id="msg-9182">
+<div class="tg-post" id="msg-9184">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/d0Bwzj_BBsRYF-MzgOdh9DMbez55X3oqWh0e-UEe2Ltv8rtLSq772uykDdv2YJpC97Oh_kRllMFDWd4ghbcR--gmnjsV7_rQI0zHCYu7b74rC8aebsfi_Yr3Fa--KD8TUQXufCRrOO4TCO04_4yz_ljp1ezRa_3EAuhJWF7S9K0Eo2Glqu19x08CnF2EDKXR-cEMQtJIhaF6g9AKX9Z1I6bvX3_GrKxZW9q1uhdAvjsan1iguJcepV3ftunqeZM-O37SgnVHcM9hNyr5eBV7UeE-GTAGpnyH536j9adjuGZpgGODlN8HPRtq4_TI3jh7lnNnj68cC9tHBy_sfb17Lw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn1.telesco.pe/file/54b096b1c9.mp4?token=nPupNktVL0946GYpnwy--jsgsc1wTH_PCbO5hOhajOgU04MOz7NNPy7Pdv0hRTJSu5L8dAiOFwx3d11VtEjlaWbuOoXcmCuBOTy0gg8Rl-bQ38xhwcfgdqBe0ixCn38xDGjJmKmvvwisZErrxlzQVrXRdcHKOoIJIjBmEunZs_9WlRm1KQikTJ-WUoZ679tBFQTqEEevj-LgN1iH0M-Wv18CtgWUBhnb88DEMrlw1N0ikkdwx6VF697SQmci_-XYytx9bDFP0tn2LzUyKTxK_7BTodICruqIZ5i53RVUXnJiIQs0lGOYEtq_30p5Du4f79-NxpVmry7V-nPOh8j5jQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn1.telesco.pe/file/54b096b1c9.mp4?token=nPupNktVL0946GYpnwy--jsgsc1wTH_PCbO5hOhajOgU04MOz7NNPy7Pdv0hRTJSu5L8dAiOFwx3d11VtEjlaWbuOoXcmCuBOTy0gg8Rl-bQ38xhwcfgdqBe0ixCn38xDGjJmKmvvwisZErrxlzQVrXRdcHKOoIJIjBmEunZs_9WlRm1KQikTJ-WUoZ679tBFQTqEEevj-LgN1iH0M-Wv18CtgWUBhnb88DEMrlw1N0ikkdwx6VF697SQmci_-XYytx9bDFP0tn2LzUyKTxK_7BTodICruqIZ5i53RVUXnJiIQs0lGOYEtq_30p5Du4f79-NxpVmry7V-nPOh8j5jQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🔴
+پسر جاویدنام هادی فروغ:
++ بابایی رو می‌خوام.
+_ مامانش: بابایی نمیتونه بیاد پیش ما، ولی جاش تو قلب ماست و همیشه مراقبمونه.
++ پسرش: یعنی هالکه که همیشه مواظب ماست؟
+💔
+@RUSSIAPROXYY
+🇷🇺</div>
+<div class="tg-footer">👁️ 64 · <a href="https://t.me/IranProxyV2/9184" target="_blank">📅 01:30 · 31 Khordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-9182">
+<div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/cFTglO4XmvyVOD5kxz3voVd6m93x-mvZUKJtmi1S_PwaCyJIPgtRI8_fSsMWqa53FLti79NFropc7w9brsHPp6zZMXzju26xqLZQ9ftVR-iZSU6UZDtbXA2ukqiAMaYdNTG0Fk-rbThJzVhAnalDwKtiRnxed_An5-zcs1VfkZgr5KYeNAMoHw650SsKt9k1DbL3ThNhQZki-xP8TDKRIfN4oChxIL83T0YVYrgkDSGH2Xm7edHmfZFTDPTHequHa9l_1vsJVVfnAP6_2o9GazjpQWIc9fgSp29RraDS4bHYuE_SWLhA5i07IdEi13h98kSVq2MezqLS0x6JBsPZ7g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Jzzaf848HHBOB1m7tqsgqbptJ_i6kBf6aN6uIfDsDkMQH5LYueBJnIV7dZgXCuKrDS-pDuj02Nl1ygXiNZvSObWIYXWQvi3fyuH48Kyi5B_f0b5glWUGhvg4m8iwkYKKjKPYCCugnzhjT1W-SznGN9VX-HauAgtZxpukXcWhPvphYX1sjGRPZB2x4wBz111yhpu1kj-FmSH0m0NrXRlFngQvg9fWeUbKGL_MQtB9Ivv8HgENvuUWjG4H4nVXQdK1rV3YXKoLa1arqN6pFRqMYaW7wG9UIm0NxBCMEGLtu-t5Nf-fJXdyZTj3L26dwIg9Ll_5NltEbGws1KvkQfcjPg.jpg" alt="photo" loading="lazy"/></div>
@@ -318,11 +339,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 536 · <a href="https://t.me/IranProxyV2/9182" target="_blank">📅 23:56 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.13K · <a href="https://t.me/IranProxyV2/9182" target="_blank">📅 23:56 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9181">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dzaYbQz6EPGWPpolmGLIcIBrDm45yg3Nsfgztc5iTk57hxY5t9XhQ9rRiW3VLLdnFWE3H6ROAAhee9WDdG-Hcjjc4ZhG3ZagHuJ5KBU4Hh9zQSW5aCPPd6Z5hXa5eLXm9lGiy883-rC0aHKqvHaFK1Kj8RcYAmT-t6E9P9l2INUd65Sp7EUu5FrWbRPnGA3ZWhZ-Y-kmLyR9BZtAt1H4ejZ-crDZ4YcuEeD0icIPKybij2doxATed-LHQSKj7_prx21ZBJrj6oCede6yiTY84rFdKAbWNcldQUslz7ySJD7MNl8_SgB5jTu7CLDOyXIZBYpOX4VXYfCYWlnqXADIqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 سایپا هم بعد از ایران‌خودرو در جهت حمایت از مردم، نامه زده و درخواست افزایش قیمت کرده.
@@ -338,11 +359,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 1.22K · <a href="https://t.me/IranProxyV2/9181" target="_blank">📅 23:30 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.68K · <a href="https://t.me/IranProxyV2/9181" target="_blank">📅 23:30 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9180">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">کار + باشگاه + خانواده + یه نفر که برات کافی باشه = زندگی ایده آل
 بقیش اضافه کاریه !
 ‌
@@ -358,11 +379,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 1.47K · <a href="https://t.me/IranProxyV2/9180" target="_blank">📅 23:10 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/IranProxyV2/9180" target="_blank">📅 23:10 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9179">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">در سن بی بند و باری نمی بند و بارم.
 پروکسی
 |
@@ -376,22 +397,22 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/IranProxyV2/9179" target="_blank">📅 22:39 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/IranProxyV2/9179" target="_blank">📅 22:39 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9178">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K8uMvL-rHT9lXR-ToLEVUYnOzcf0eDWUMwlAkR4a3bVlYHoyesmGWTn4mBq5ocp7sCDTnr0dn6me4Dgfq97yzZ6paOrtIjGHueh8xt3-f-0pWpeahac2CfXR6KbB9MsyyjmBDFy5i0s926gBkDuSlO2HFc-bfkW1sgZzZNS9SlSH49TUj2iek1SwsIdsGnSKwVlRs-A9lJOywn3LKUZN6c1WXSknRJ6HBA7Mf6zaMjunF3T1pexbiX973cQJNX-B6Fh0HKjJSBRW2sRf0ZU-xRG4H8pMaq5SFB0kjx1PH9KGG0Dre_GanAQXPIuWphD-FZfKJJfY3CfA30M9mldg1Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 پزشکیان تو مرداد ماه وقتی دمای هوا بالاتر می‌ره:
 پروکسی جدید
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/IranProxyV2/9178" target="_blank">📅 21:45 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.83K · <a href="https://t.me/IranProxyV2/9178" target="_blank">📅 21:45 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9177">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">‏واقعا دخترا خیلی وقیح و پررو شدن، قبلا نصف پیتزاشون یا حداقل نصف سیب زمینیشون میموند، الان همشو میخورن.
 پروکسی
 |
@@ -409,11 +430,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 2.66K · <a href="https://t.me/IranProxyV2/9177" target="_blank">📅 21:17 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.84K · <a href="https://t.me/IranProxyV2/9177" target="_blank">📅 21:17 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9176">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">‏ساختار ذهنی پسر ها خیلی ساده اس، مثلا تو کل باشگاه های ایران پسرا روز شنبه تمرین سینه دارن
 ‏کافیه تو پا بزنی، دیگه تو صف هیچ دستگاهی نمیمونی
 پروکسی
@@ -428,11 +449,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 2.98K · <a href="https://t.me/IranProxyV2/9176" target="_blank">📅 19:31 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.1K · <a href="https://t.me/IranProxyV2/9176" target="_blank">📅 19:31 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9175">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">خدايا فعلا اون قضیه پولدار شدن کنسله یه کاری کن بتونم درسامو پاس شم.
 پروکسی
 |
@@ -446,11 +467,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.21K · <a href="https://t.me/IranProxyV2/9175" target="_blank">📅 18:10 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/IranProxyV2/9175" target="_blank">📅 18:10 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9174">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">🔴
 تنگه هرمز مجدد بسته شد.
 پروکسی
@@ -465,11 +486,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.34K · <a href="https://t.me/IranProxyV2/9174" target="_blank">📅 17:40 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.46K · <a href="https://t.me/IranProxyV2/9174" target="_blank">📅 17:40 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9173">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AdP5YdyRiXgqh3lCiO6KX5vw2kbDZp1VtMGy8uwyUCLZ9_1wWzUt9mIP1-SobsDFOkYtjOmytqnwRozOa0QbR602-gNUL_lo_60SiEAcEl1__un_iUEwaVak986tiY_2KQMYaYil6le7X_0Zd0Fz6DeBbkQmxPlurrWAqYVR3eMp74iJFey-G1QO5d04wDQzlg6cxniklXvgq5h0KQD2xw133VGXMUSy_hxVeEZzGPxN-0Iy4gAsp_AIyotrufll5-7G8ZRMKIrNB2CWpBgLz66hSSo1C_ExTSrj8oMvuI7M6_gUKtM30hHDTTyKTyb4W8Xm8d4gLy-zxH8nPZNv0Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 با افزایش ۱۸ برابری حجم آب دریاچه ارومیه، آرتمیا دوباره شکوفا شده و فلامینگوها بار دیگر به این زیست‌بوم برگشتن.
@@ -483,11 +504,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/IranProxyV2/9173" target="_blank">📅 17:10 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/IranProxyV2/9173" target="_blank">📅 17:10 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9172">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">از اشتباهاتم درس می‌گیرم ولی دوباره تکرارش می‌کنم که از خودم امتحان بگیرم.
 پروکسی
 |
@@ -501,11 +522,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.32K · <a href="https://t.me/IranProxyV2/9172" target="_blank">📅 16:40 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.42K · <a href="https://t.me/IranProxyV2/9172" target="_blank">📅 16:40 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9171">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">در زندگی هر کس، یک نفر وجود دارد که شبیه هیچ‌کس نیست. کسی که وقتی هست، انگار تمام حفره‌های خالی روح آدم پر می‌شود. و وقتی می‌رود، چنان جای خالی‌اش بزرگ می‌شود که با تمامِ آدم‌های دنیا هم پر نخواهد شد. مراقب "یک نفر"های زندگی‌تان باشید؛ این‌ها نسخه کپی ندارند…
 پروکسی
 |
@@ -519,11 +540,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.33K · <a href="https://t.me/IranProxyV2/9171" target="_blank">📅 16:09 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/IranProxyV2/9171" target="_blank">📅 16:09 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9170">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JsgNgw0YUhOrtO8MsDd9D-52fswIbGW_YwpBMkvHObt3XD6ImrsMhb3je1UDE4QcHUqF8E6Er-l0Qt4HaIszUCUgCK-npIlCzz7AGljp_iecN8xoMxUOHbvgGcP-UCb6_iZsJFvwuTQNcrnK1wjqANP221Swovfb6u0PpnwwKXLcIANWEi3-cWqsYTQmEqnrZyUWpvNu_xmbrlAsTAec4ojmfzapbSHd_7q9FOi6ys0kLo8oaGvfbyCbR_-Yjz8tggktyxTGVI-cqd8_t0wX7VeoPb7Fx45Q0oV7DqK-xlvbyccKaEP9HQ0z7dzGh-jxOBTrrU4mISOyvtTGwiBQDg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه جوجه کوچیک و کلیی جوجه کوچیک تر :)
 پروکسی
@@ -536,11 +557,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.61K · <a href="https://t.me/IranProxyV2/9170" target="_blank">📅 13:33 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.68K · <a href="https://t.me/IranProxyV2/9170" target="_blank">📅 13:33 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9169">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">اگه کسی بهت ماهی گیری یاد داد،
 تو رودخونه اون ماهی نگیر.
 پروکسی
@@ -553,11 +574,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/IranProxyV2/9169" target="_blank">📅 13:03 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/IranProxyV2/9169" target="_blank">📅 13:03 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9168">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/L3Igsa575UUkjzmrZd9XqAWemcM_hgAS7n3AnnmYaMRJi4pyxTtIgFY-qvc4gDa2nDOvmRhb1SgN_khVt0E0gyzYRFBadMhzq7c8xo9w9inVMWJT4PE67PfMIMmgz5hhqkyadlKZXjcMGwadpFwzQjJfijEdFdlgR_JXIjQ1mMbepZedkOpM8BdxsIZoU5q-4i3mtD-NIcmGI5EP71VqZF9BGPdwE4b3yrpaIY0AoOp1pi9QCNUidWLw5X-zE7GXrjon7byqUgX4IjoO9cS-YOMI5NFvkAIkEAyH3Igl81p0RL-ftnJlUrmjsgAAx1isMDtV8NjOS90UCdlWxzmHYw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">موقع ترشح هر هورمون، چه احساسی تو بدن تقویت میشه؟
 پروکسی
@@ -567,11 +588,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.69K · <a href="https://t.me/IranProxyV2/9168" target="_blank">📅 12:24 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.75K · <a href="https://t.me/IranProxyV2/9168" target="_blank">📅 12:24 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9167">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">مخفی کردن ناراحتی‌ها، از خود ناراحتی دردش بیشتره.
 پروکسی
 |
@@ -583,11 +604,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/IranProxyV2/9167" target="_blank">📅 10:45 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.69K · <a href="https://t.me/IranProxyV2/9167" target="_blank">📅 10:45 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9166">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">همه اون حرفایی که بهت نگفتم رو به جاش چایی خوردم.
 پروکسی
 |
@@ -599,11 +620,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 3.71K · <a href="https://t.me/IranProxyV2/9166" target="_blank">📅 10:10 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.76K · <a href="https://t.me/IranProxyV2/9166" target="_blank">📅 10:10 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9165">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">‏از همه اطرافيانم بابت رفتارم در گرما از 1 تيرتا 31 شهريور پيشاپيش عذرخواهى ميكنم.
 پروکسی
 |
@@ -615,11 +636,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/IranProxyV2/9165" target="_blank">📅 00:15 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/IranProxyV2/9165" target="_blank">📅 00:15 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9164">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">واقعا درود بر شرف همه ی مامان بابا هایی که واسه بچشون مهاجرت میکنن، همه جور سختی میکشن که بچشون وقتی ۱۸ سالش شد حداقل پاسپورت یه جای دیگه ای رو داشته باشه.
 پروکسی
 |
@@ -631,11 +652,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/IranProxyV2/9164" target="_blank">📅 23:45 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/IranProxyV2/9164" target="_blank">📅 23:45 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9163">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -648,11 +669,11 @@
 ✅
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/IranProxyV2/9163" target="_blank">📅 23:24 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/IranProxyV2/9163" target="_blank">📅 23:24 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9162">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">مسئولیتهای زندگی دارن مزاحم عشق و حالم میشن.
 پروکسی
 |
@@ -664,12 +685,12 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/IranProxyV2/9162" target="_blank">📅 23:15 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/IranProxyV2/9162" target="_blank">📅 23:15 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9161">
-<div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Mg8fL8nYes6PBR34jt5Ksj86v18nXHICHz3powngMPgXK1zKoXgFGdHM0sJQM1QYs1gHYqIOqp2LMmCA0WQfPoNdMJGfCvvXcjXI3ZfmpF3jyFI7kb16VpE2BPVjdf87RQGqLUrES7pwikDPSGds6eyVM6M2ahmZ7mTCxZXaMHr07ADrLIS76LO6SqjBC3RFXGvt1u3KcZ-dV6Gw5uvBbL9721l_NMIrvcmlc2_wh_3nTCMfouHf2ktnA1_UyBCI0rwsPHOKAcRifgNrc042nZO_QSzkXJVs1JerwXKCQ8bLD6lNpnIbLA7zzqkkdoO8Z2mcNEKEqGPZc9eZIln_BA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Brzc7go9McU8q_CpfPL8gnt3EW4MKjmVOiWmQoULzMXBWgNcFQrQoeHl-D_4zbZ4EsNPfMvZWWb4ZgxvJp6jAGbewKlTsawPn6ZtlGqYXreq4uhr9qEF4RD4TnssP0OaegreMjqQX-VMaPRD_0fellEUeu61HPTff2CbVSctWniVffZPCaq5ba1n-C4Nzj6cBs_mYqmIBHdwFHJZ56ahTl-e3yPJ-4uc1L7gjFv3_WjWcOV4OrZchiWA8Lh3LooWMFVtH6xruqn3kUSnzmbvs1zqszuXsSapPClIT9o92ZdyShRu7OvDDE9bRE5NiLwdIHOP9U6L1yqhhAQYtcxU4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وقتی مغزم به‌جای اینکه به حرفای طرف مقابل گوش بده شروع میکنه واسه خودش خیال بافی کردن:
 پروکسی
 |
@@ -681,11 +702,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/IranProxyV2/9161" target="_blank">📅 22:45 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/IranProxyV2/9161" target="_blank">📅 22:45 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9159">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">همیشه آخر راهنمایی‌هام به دوستام میگم "ولی بازم خودت میدونی" که اگه یه روز به فنا رفتن، بگم تقصیر من نبود.
 پروکسی
 |
@@ -697,11 +718,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/IranProxyV2/9159" target="_blank">📅 22:15 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.06K · <a href="https://t.me/IranProxyV2/9159" target="_blank">📅 22:15 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9158">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">خانما لطفا نچرال باشین،
 ویژگی های خاص صورتتون قشنگ تره!
 پروکسی
@@ -714,11 +735,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/IranProxyV2/9158" target="_blank">📅 16:54 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/IranProxyV2/9158" target="_blank">📅 16:54 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9157">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">‏اتفاقا خیلی خوبه آدم هول باشه، به شرطی که هول یک نفر باشه تا همیشه.
 پروکسی
 |
@@ -730,12 +751,12 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/IranProxyV2/9157" target="_blank">📅 14:24 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/IranProxyV2/9157" target="_blank">📅 14:24 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9156">
-<div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OkO6E9Llyo9qVVVInnGPJqdm61TWoYndF7hWdOBbzNGrlmvOq8j11IF1HXyDkti5LbwilBQEtQxruVCN1pwA82W0h7RSirqcnYruFBC97SCPItlVgw39vDp1wONAfwI6f5pccPFjFaqlzQcbOGFvFaffWLTB58yEqih4poJRtfE7kDnUp78BIegNWqRTx2JPUO1CpxigL0VYY_-oTNVtNRyX-tqx_eL7NOR4VpVtDZn84eOFVX6p0VmekADTtFAbDXo03erfh5le0O9ERhpi0Q6aXHlDPfPg34D3GSQTqz6bVdqHBVnpG5xovMX16Ad-fn-Fca-_kXe5UVCKxXGw2A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/q5A6_LBiEzgKCU5s1QHrS6ZD0Er6RARnvE6a3iW6YnQAWheIZyNSAOqFahNPpw-TPeG__sOlg7g91tHA7hBEY52CaOt4AMJjnO7Bv8atnjKd33dNcXXrOXXmo3rpkGZ78GGTyGxFL6--mlbU2AMLjmE65zgGuRVR-1JIGok9ajkxjwghvFNko-jBiTzhm6j46ZbYiYdi8UhoR6cMlYdu6lo7o17lggRCM3VGmS1q9YEj-_7lkHJuRfPN7c8Vx7QGI-kuYRcmMcWuVuTw51zGVH00W2SqVUv95aJNbMJHA9OGYfTZ2TR570612f5mv8JfcRJ6U-kwWiQ4OoilxgBdJg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نظریه پر طرفدار: ساعت عقربه‌ای خیلی قشنگ‌تر، شیک‌تر و جذاب‌تر از ساعت های هوشمنده.
 پروکسی
 |
@@ -747,21 +768,21 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/IranProxyV2/9156" target="_blank">📅 13:15 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/IranProxyV2/9156" target="_blank">📅 13:15 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9155">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">🔴
 امروز 19 June، روزِ زشت‌ترین سگیه که تو زندگیت میشناسی.
 پروکسی جدید
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/IranProxyV2/9155" target="_blank">📅 12:45 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/IranProxyV2/9155" target="_blank">📅 12:45 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9154">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">جز خوردن چایی، پاسخی به مشکلات زندگی ندارم.
 پروکسی
 |
@@ -773,11 +794,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/IranProxyV2/9154" target="_blank">📅 12:15 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/IranProxyV2/9154" target="_blank">📅 12:15 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9153">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">10 فیلم که باید با پارتنر خود ببینید :
 1- Irreplaceable You
 2- Always Be My Maybe
@@ -799,11 +820,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/IranProxyV2/9153" target="_blank">📅 11:40 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/IranProxyV2/9153" target="_blank">📅 11:40 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9152">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -815,11 +836,11 @@
 <div class="tg-text">اوپن ویپن متصل سرعت بالا
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/IranProxyV2/9152" target="_blank">📅 10:01 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/IranProxyV2/9152" target="_blank">📅 10:01 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9151">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">حتما تو زندگی قبلیم پولدار بودم و عادتش روم مونده وگرنه جیبم چطور جرات میکنه از این خرجا بکنه.
 پروکسی
 |
@@ -831,11 +852,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/IranProxyV2/9151" target="_blank">📅 02:01 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/IranProxyV2/9151" target="_blank">📅 02:01 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9150">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">🔴
 فارس: ‏با وجود توافق، رئیس ستاد ارتش اسرائیل به ارتش اسرائیل دستور داده تا برای سناریوی حمله به ایران آماده بشن.
 پروکسی
@@ -848,11 +869,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/IranProxyV2/9150" target="_blank">📅 01:30 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/IranProxyV2/9150" target="_blank">📅 01:30 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9149">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">دارم واسه جام جهانی می‌خونم ولی یکم امتحان دارم که نگاه کنم.
 پروکسی
 |
@@ -864,11 +885,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/IranProxyV2/9149" target="_blank">📅 01:10 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/IranProxyV2/9149" target="_blank">📅 01:10 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9148">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">عطار نیشابوری، اندازه نگهداشتن در روابط رو برای اینکه احترام از دست نره زیبایی سروده
 "اگر گِرد کسی بسیار گَردی...
 اگر چه بَس عزیزی، خوار گردی"
@@ -882,12 +903,12 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/IranProxyV2/9148" target="_blank">📅 23:03 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/IranProxyV2/9148" target="_blank">📅 23:03 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9147">
-<div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MhOmxfRVmvzKdd4dN5u_X3k48Gh9zN1S1x3uSv9-a3twPA8tCR5yowCzKBU0SOZQWE9cx39SX1exYvhfvtcHN--2skeG1ye6XWT4ae1V0S2vREfXnYyUZSyx5F_wEQqnWsRdTJSzJePFlEYclzHXdsRhCZQAWX5FBV6JwdUKNzwQP1x3BbBna-6tliNpiEeqWgdeDSXONby0GbFXfzbTL8Q-fjWHVEmLf4cmRg0SmLIoUnHu2Kn_r_bPCo0_2htb9_jhClXNqByT3oQr9cv3jj25txz137CNsa6WZGcu5wjaS5Uf2f1bU02zuKsqt4Yz6VB8xWRmecw58X3293JFIw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c2UMQnhHRHdXqfOcGf-moVCJjVRt02fz-6QXXlKt4aWZmrAfWQX13o7jWSraJK9GyQYwTpMzNeu0oQW1JA8oCW2vRaIY-eEA3jyggQFB7fnSteAS0Lrb2lod2P86KivC5ZtmYyP0GLcGjmVOcGCv_kIwdbMatuwdRCo0xVxMDD94AyUHhVYFKhzvb3Nm20WgxV4XaXNJBnM4mV-IazoFVY7SIrY489w6kvLy168bfeKC1WqGrUhuLg1X80RCICx4tWFbToO901mXW_CZKPCOeLSYFO1ipI1E-II6ABFc1Y0KB0yDTCsj6d6uk0NWIrB69EauyulMRKTP-nTuVuSZMQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بهترین مکان برای بوسیده شدن با رسم شکل.
 پروکسی
 |
@@ -906,11 +927,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/IranProxyV2/9147" target="_blank">📅 22:33 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/IranProxyV2/9147" target="_blank">📅 22:33 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9146">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">‏مامانم فیک ترین خبر ممکن تو ایتا رو باور میکنه ولی حرف منو نه
 پروکسی
 |
@@ -922,11 +943,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.19K · <a href="https://t.me/IranProxyV2/9146" target="_blank">📅 22:03 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/IranProxyV2/9146" target="_blank">📅 22:03 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9145">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -939,11 +960,11 @@
 ✅
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/IranProxyV2/9145" target="_blank">📅 21:40 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/IranProxyV2/9145" target="_blank">📅 21:40 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9144">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">یه جمله امروز خوندم که خیلی تکان‌دهنده بود. ما رو بیدار می‌کنه و به زندگی‌مون و رفتارهامون آگاه می‌کنه:
 «مرگ تو در یک روز معمولی، وسط برنامه‌های ناتمام فرا می‌رسد و جهان بدون تو ادامه خواهد داد.»
 پروکسی
@@ -963,12 +984,12 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.56K · <a href="https://t.me/IranProxyV2/9144" target="_blank">📅 18:46 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/IranProxyV2/9144" target="_blank">📅 18:46 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9142">
-<div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lxW8EbtJkRr9HM6WmGZejbcP4SsOS2pmkc-Cqp_fAsEBp5VQ8_1od1tPfr_IbQ3JlyF0fcaSeFNjvvPJE1efgsKo3DXYmSJ_Brm_JJs9o5aq_tKblGmu48Dl4buA2j1OA1lLl4ZeURGNmsl3xkAZeMt-EsC1ZlThrJoUUXDqIsuakc2r2cZDTYoJabkz_KJ1Nick5eciqjxJikrO1MFoLSmzSkvq6NbyV4Rw4v3w61sNCB2RpjzwogIu8-Dq4403aZFEYTcs_Xl4NUcgqLyqu0MFo-G8Yb6RtTnu4-FT4i9QVO_oRImUeTYM7R8q8wGcHJvJeoL_7zN1BLRX7r4Q5A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G2vWRlvYJL4atVJY13j505dQ0-Yp8uqBYW0AZQt281DWdaEj2X1-LD2SsuTxOtcfQNKDQIy2B3XcjRoXBpUnMF2ignwsMvmVmRL89zbgH4-MTbAE9xCMd3RVVLRjUnGzYdOEJH0WZUXleqqhlbwuQ1nKujPUOBhm8Daiu0ur-AAOuTsf4MK25CNqy70tIfvqhiRdrWxQ0ui44Ah2KDvy_8ckx_bBvkfN6SX6jV0sX7pp9XTlTSrnaZWs261QrCYrtQ_JQ3nSK1SkkAp9JkaYnguHXL3ei5_XTBKqAjcGNqDvoFTl-pnRad3OZKpmLi8gTOokrq-NLQe9KNzov4kiLA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاور بازی جی‌تی‌ای 6 رسما منتشر شد و پیش فروشش از هفته بعد آغاز میشه.
 پروکسی
 |
@@ -984,13 +1005,13 @@
 </div>
 
 <div class="tg-post" id="msg-9141">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/b9e2c48cc4.mp4?token=R37-XTce2PKV31vxNQF0y8ICUOdNrq5TeG3LO0_bWShx9mQs-4XM8zHQJXlfYfZl46xH8r_7R0IcTVqwQ1d1mHkQ8-EH02xo3J6-i9tkHj9pk-KeJDQXMzbkGr8hJ5bHiwr9__NiR3Daky9Aukld8u9S8gWhTRVQFPR0hoCr7th0Pt5B5HfziCsXcg9Db2KHKupN8EBhFLWUTuhMmwiXxss3YFkrb6G4OibfjwZb3UtZOgUoBHGFo-asgqz7UyVyH6sRGeUIttAbV21hpgB-I8DhXJGlKd8FvJKn7icRndvw13iUga-M-mgfwXb34iftA5oj5FzGjIDcVmuNG1JjEQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/b9e2c48cc4.mp4?token=UZj71JqUxDdEYVo7ds5KV19RqXwd2RBsdcCxnj2lT-DevP0aNyXIcjKrO9WbriCnUk6SE5CqRcvdEkVXfIPBId3Bb7pdhvE5_YQ37LpdqbWHxdQ0dXK1Gvf4VT2Zt0bEBcMiTPYO5lyCB0lEQIY7uHWEyBJq5Dfe8cvv22kGbXC6FctvaBWfb3dS2gaPQuHR3tAW6iTLVtlZrsOdeI_zcTbSuNmvrb1vN9icrPr6frxHqZmUheqCCmxyDhYUz_fkMQ9FKFqM1Jj_2YLl8fLs8lFJVQIYBnhpkrEotnQ87lDi0p1yvqDj-5P0EC9fA68Awq5dnckCKL1i-3xe3hepeA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/b9e2c48cc4.mp4?token=R37-XTce2PKV31vxNQF0y8ICUOdNrq5TeG3LO0_bWShx9mQs-4XM8zHQJXlfYfZl46xH8r_7R0IcTVqwQ1d1mHkQ8-EH02xo3J6-i9tkHj9pk-KeJDQXMzbkGr8hJ5bHiwr9__NiR3Daky9Aukld8u9S8gWhTRVQFPR0hoCr7th0Pt5B5HfziCsXcg9Db2KHKupN8EBhFLWUTuhMmwiXxss3YFkrb6G4OibfjwZb3UtZOgUoBHGFo-asgqz7UyVyH6sRGeUIttAbV21hpgB-I8DhXJGlKd8FvJKn7icRndvw13iUga-M-mgfwXb34iftA5oj5FzGjIDcVmuNG1JjEQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/b9e2c48cc4.mp4?token=UZj71JqUxDdEYVo7ds5KV19RqXwd2RBsdcCxnj2lT-DevP0aNyXIcjKrO9WbriCnUk6SE5CqRcvdEkVXfIPBId3Bb7pdhvE5_YQ37LpdqbWHxdQ0dXK1Gvf4VT2Zt0bEBcMiTPYO5lyCB0lEQIY7uHWEyBJq5Dfe8cvv22kGbXC6FctvaBWfb3dS2gaPQuHR3tAW6iTLVtlZrsOdeI_zcTbSuNmvrb1vN9icrPr6frxHqZmUheqCCmxyDhYUz_fkMQ9FKFqM1Jj_2YLl8fLs8lFJVQIYBnhpkrEotnQ87lDi0p1yvqDj-5P0EC9fA68Awq5dnckCKL1i-3xe3hepeA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‏بنده در حال انتخاب اسکوپ‌های بستنی:
 پروکسی
@@ -1014,7 +1035,7 @@
 </div>
 
 <div class="tg-post" id="msg-9140">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">طلا باید برای استفاده، زیبایی و لذت می‌بود، ماشین باید برای سوار شدن می‌بود، خونه باید سر پناه می‌بود، زمین باید برای خونه ساختن می‌بود، هیچکدوم نباید سرمایه و کاسبی می‌شدن. هیچکدوم نباید مایه‌ی این حجم از اظطراب و استرس و بخریم یا بفروشیم می‌شدن.
 پروکسی
 |
@@ -1037,8 +1058,8 @@
 </div>
 
 <div class="tg-post" id="msg-9139">
-<div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g7xVS0NOQl4GQLcu02f178ocoPwIwjbyLbkN5aYwBBEdRETTg8dVAe8oWmjV2zfOiFCbWY5fU3ElQwsFbbiARa7NcFnDSaxR635aYAW_FxYZ2qEes-J5GlDZHq0vLlAm3_zo7ZRI9mn9r-PRaJEPsr--D5PJ3ITtDG3Vb99pFnE9bumozWEZgYxomk1L2MRmq6ZB0idmBnbsHPJl6U65l5tcmDtznRHPTDnO9SIJPgv-XpxolOhQ0y0yF7pZwUgAeuLEnvktUcc5d57wvcdtu3zw1scEOiARPjgVv5uFnPkP0lIaQHuSSO_gI9FMn4nZsZ2npZ4fx41VwI9PXJNmRg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KuyZRN6X9TuNrnQIHvBn6tUyK4yUj4DEPaMdPCUN7xXMUzaJXvfxpAQWNYJ-NfxRiSCpRtM5-d-KCftN4g51714a5cSaCQub4IbfYZpwkDbD2nY3fO3p14AC04yLDFznmEuUqOVU6J_cwuNPvs4PA-DrgtjMTDSbFILQDjDe5M3N4fjbvIr8J1XD1mRPsi9q985NqXBw3-vSyADuQxhFnzJJtCMxveAxdUw7aMGJ_THX8PbewWMk5fWYV_0xBTe6ZhovRBUGTo-MzKn2LHC0YCEV0WbkhNpJH4BBCUa7K6Khh3EZPHK8zUTabUD02wj4Clsf_1hrL4Lf-P-oEg1lCA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">- لغو 11
 + نوزاد شما با موفقیت لغو شد
 پروکسی
@@ -1062,7 +1083,7 @@
 </div>
 
 <div class="tg-post" id="msg-9138">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">‏وقتی پول دارین چهارتا یتیم رو خوشحال کنید که بهتون بگن ناجی، نه که برین مکه که چهارتا عرب بهتون بگن حاجی
 پروکسی
 |
@@ -1074,11 +1095,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/IranProxyV2/9138" target="_blank">📅 14:37 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/IranProxyV2/9138" target="_blank">📅 14:37 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9137">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">آدما خیلی دیر میرسن، خیلی دیر محبت کنن، خیلی دیر میفهمنت، خیلی دیر پشیمون میشن و دقیقا همین فاصله هاست که از چشمت میوفتن و دیگه هیچوقت بهشون حسی پیدا نمیکنی.
 پروکسی
 |
@@ -1097,11 +1118,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/IranProxyV2/9137" target="_blank">📅 12:15 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/IranProxyV2/9137" target="_blank">📅 12:15 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9136">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">به فرزندان خود راهنما زدن، دنگ دادن، حرمت نون و نمک نگه داشتن، با دهن بسته غذا خوردن و متعهد بودن رو بیاموزید.
 پروکسی
 |
@@ -1113,11 +1134,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/IranProxyV2/9136" target="_blank">📅 11:32 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/IranProxyV2/9136" target="_blank">📅 11:32 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9135">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">دیالوگ یه فیلمی بود که می‌گفت وقتی واسه زدن یه حرف دو دل شدی اون حرف رو نزن چون اگه درست بود شک نمی‌کردی.
 ‌
 پروکسی
@@ -1130,23 +1151,23 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/IranProxyV2/9135" target="_blank">📅 11:10 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/IranProxyV2/9135" target="_blank">📅 11:10 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9134">
-<div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GhbDj1eMwgHe97tvrQ_8dRWnWusepBngwE91aw-PuSyp5PMyMu283lWqtGW3cWnUrGGBuFI6O8Uxsi2AjdUqW_wBsH3SI_kPVGtoKx_jJuMGWyW3fCBidpUo-TbkY82GnSozjQQ8ks1_d4obCZSrvkzC10-wAeaGcHFnIR58XOE8dgCtHCjZ6sB6N28oaXqm7ofoisMjCkrpFbUU3DSCZ36vwtvGrM5gT75N7ULbqjwQG0jwv9R8ec_DeYDygY6vaoLyfFYiQc7bb6ihuKSKnGAAjr-G0tvvEaNd1uSh5YyLk-AWMs05qpSD46Cyw5p2fLMybFzKRekj7Zd2fnFBZw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fv3CpIeC7-IhXpGaqWhd_c4xXbYPvpHgBdgU_QSNWW9tGT-WotjiIjmNkQC1H-ZYYAT6to8gm55ChsGSF61r8X9u-b4PGJv7sQZf_XNDNvo6K5zaGQ0Y5Dr5fcHasnJrV0f76axtDkSWt1RA9dofgPUBGOYb0dWrLW7TsEF81TTn9ZCsoYJJxxkzbxOK_eEhQaiEG-9UQp9_6zdBgEdUt4E0jjilA0vne1flqNyHNtaBjCy0G4SD_YidWiy_V7Zm-mlhEsN9l-xZ10O37vQi6UlhXrfYBk6hoydhi1vOCQH3I93S8NcGWfpGhUGvOy6xdNmBH79rnMVyIkLgiLT3pQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">استوری میا خلیفه برای طارمی مظلوم
 واقعیِ واقعی
 پروکسی متصل
 پروکسی متصل
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/IranProxyV2/9134" target="_blank">📅 10:43 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/IranProxyV2/9134" target="_blank">📅 10:43 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9133">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">فرصت‌ها معمولاً وقتی میان که دنبالشون نیستی.
 پروکسی
 |
@@ -1162,8 +1183,8 @@
 </div>
 
 <div class="tg-post" id="msg-9132">
-<div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l1dJfZKVajOgjgK9hkhWUpn40DEZ3QELNRGXxSPKWlVphwaUlrSKqT6hL8geIpqgHOsyPSxNyFGBhT8SygBqa0TB_EEKYKHStH8jAkLcZB2jVjlcjWAQOKn8-28eMmpNDNmI-InWg0q4dxxPzAStDo1-4TZYY0qyPqVJsfDgCBPUUxhXitAQO5x_AaYscA8vXbH0SQsigkJgoac3hnNsVsUZ-K_EpAGBtGGfu1EEwxJFVTJ_zs4eK6o19YxL6Bk-iSzKuSh0dlrkAd6QjltLo0JADHum9ijraDsuf199mH25ead7DWe0Tm1VLw-4VmRou-ERWb6oCKRfhDC3-YgaKg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TdkWPO5db2N3DMHFyZnlSyvl3Pp5ij1lPvGQmZxiIPGu-LRB4ENRIBDbqFD-scsUi4uPTHBeua87O7UeBk04AxO-i_gnoW2q6KMRtvG5tIIWKkeK6eQ3JieCrgs1sHIVZNBDyJurU3runJQ_nqOlXYTs0tI6IZbl3bhxHddJJ-nd_ZQ0C0O61rkO9phjVrofPfBQH2pFS2XJCla9W91djlCadGzVgOQTJM2M0rkGxfXjPCjAyRosvx79WcMY7Eg52g-m3qrBXHs-oF0fJNKTcvy1tWLKwJftea5AZLU5tuP9grWNMTFbzqu3G7biYrSxzUJ8UuK4exBvTrmqoPlEnA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ماهی زلال‌پرست وقتی داره میره به شب‌نشینی خرچنگ‌های مردابی:
 پروکسی
 |
@@ -1179,7 +1200,7 @@
 </div>
 
 <div class="tg-post" id="msg-9131">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">‏اولین تجربه روی زمین تجربه ی ناجالبی بود، دیگه تکرار نشه لطفاً.
 پروکسی
 |
@@ -1200,7 +1221,7 @@
 </div>
 
 <div class="tg-post" id="msg-9130">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">مطمعن باشم شماهم مث من بازی پرتغالو بخاطر رونالدو میبینید دیگه؟
 پروکسی
 |
@@ -1212,11 +1233,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/IranProxyV2/9130" target="_blank">📅 20:46 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/IranProxyV2/9130" target="_blank">📅 20:46 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9129">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">‏دلار هزار تومن گرون می شد
 ثانیه ای جنس گرون می کردید!
 الان که از اوجش ۳۵ تومن ریخته دست به قیمتاتون نمی زنید؟
@@ -1235,7 +1256,7 @@
 </div>
 
 <div class="tg-post" id="msg-9128">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">بچه بودم یادمه 3 ماه گریه کردم واسم یه
 شمشیر پلاستیکی خریدن آخرشم با همون خودمو میزدن.
 پروکسی
@@ -1253,14 +1274,14 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/IranProxyV2/9128" target="_blank">📅 17:55 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/IranProxyV2/9128" target="_blank">📅 17:55 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9126">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/V1TGz6xRbBvbArYP5dcGqoxdemz0DNeR7fXvlDfEJDtA03x9mYp5YyBDb-NUB1HxVqMMSGi1tt7GFjk8gD8WkF7m226CTLLC5gc6ZbiUgluboJmRAm7rgfW_fmv3gIUYfaj_oHRGEbWaQgHBgQOoXL8TcDsYCtewWurgxsCwNgtZ0Uk-wxlh7mhSmuMzk30H2JvnGWypHf-OrxRWEPrkDcAtrBQ_5FsS465UWz0Y6r-sHhDquP9Bx8jUhsWzKEfvi58FvrHVx1hSEbMxvEf4QO7tl1sJHh_WwE89Su1A6CGfsTab7Cw4Va095Yq9HVXb1wIZzdw8hIgvMzvyHH8l6g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/HIxKCY-74JknDcczT7Ms9k8T8ubclYP8eP7m87xmIHLRCcnDUGXAHDnmn7l8TjUybNiSSEEVtIAEX-jo-SMB0_mLnYk-1jzPegDyAWghdB9AtxXA79nWfh91RBHvqxsgpaKct55XjgfLPAui7oLXdNfGFCTQgT9rTdyxpDGJzbmX0eJvpPLcSw1yrxKkK7WuBXBQ9E08o1GFplKP5TKCe9z6FTjx2aUB3icW1yO_c4jyo9EwkKwU2QN3BWR_lKwLgkm_6hM_31FXXtBrwBCOdWEAtdo8YxKib1eyVqjC4VFUnmCY8LQAlPRzG_GBI9QPtx3zvwAm4Zw6tPhVobEbrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/s_x46MzXB34TGnWpp_sarsqktbHZVL0NpdeI0HtRlLDDyeUgAP-7KJtizSXaXbYYZDJANI3yRIl7g1_wHeWlhlWu-8eePb_mYmbPnrbzYT7c6hatMPKy9mTqObv8kI1cS0qYknnTcrQuThnW9x7Mzsa6oamF6M5rhKWVFdKXOnmD71JGks0IkeX7wTgQ8PEy8ZKPP5wc89DNbXTRkcD8H4I4YAz2zzk72EFcQk2p3rXNA18I-L0bu_9Ns06QZWCpCeF35OWV2I9D1bctfnZOPeDXR2aWJEytMMVtP6SIWTOYFMRNpd7OrRTRjUhMMHjFuRHhjUQNCcWecP7vBzdiKA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">چین یه توالت رباتیک ساخته که با یه دکمه میاد کنار تختت، کارت که تموم شد می‌شورتت و خشکت می‌کنه، بعدشم میره خودش رو تخلیه و تمیز می‌کنه.
 پروکسی
@@ -1282,7 +1303,7 @@
 </div>
 
 <div class="tg-post" id="msg-9125">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">شما دو ماه بطور جدی روزی نیم ساعت تا ۴۵ دقیقه زبان تمرین کن، هر زبانی. اگه اعتماد به نفست عجیب نرفت بالا حتی اگه لولت اونقد تغییر نکنه،که میکنه . روتین برای یادگیری زبان معجزه میکنه
 پروکسی
 |
@@ -1303,7 +1324,7 @@
 </div>
 
 <div class="tg-post" id="msg-9124">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">از آدمایی که دلخوری و ناراحتیشونو واضح بهم میگن و انتظار ندارن که بهم الهام بشه خوشم میاد.
 پروکسی
 |
@@ -1315,14 +1336,14 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/IranProxyV2/9124" target="_blank">📅 13:11 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/IranProxyV2/9124" target="_blank">📅 13:11 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9122">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TFODdJOCuD4WLbqr6ZYuojfhcoHhzHE5kYpzRMCbd_NfE3exmIxrh8RkFCMUYxyh8UdxKb5tcbBPxB3G4hbNQ8WZCjBibTCSJXKdHMgK4r8nfWos2o3QRB5IkotKsraSTmf94b6Lu3QzxZTGY1wlbV8hhvmOguEi0Ox4y7-Ly05rNpd_G00aFOnPL6hu92iN_iBYGh0xOe-xDBqMEXHGcFuMwkdr4WiY_g97PLCEzYZ4B0K_cZDrA904tNLitccTYccRJDnoG4PuEBbldCZ-kY-6_5DPSA9Ix9JR2G4d1ps54YEVsYE1HkohReSzXEKkeSbrEgn9I_seLbUYtb0ozA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/HypVCj6GIAYcs559vHpqE29VzzQZ5TPOJd9RQvQxRBUM5jTkfEdeqWzw6eHb8E1j-laHU2U4L4PZijdPb0-DmkHm70pUJN-jMMYBanuDPxX7kv2JdpAuwxeFSFwLgXE_3kt9vtlRi46pb2Fp_MJnmiFCI8KDeNq4oHG3D1hZ3y_CiE7p6Vm423mqcFFT8ZFrlFnSlD4WOoV0SOiSMirsmaRM3CW4q5nHkxoPXJoER9-rTF7SRpyPW2FHI2fZgC5xS-beFZL9s4ZW6HEKfb0XTjduDYuHWUMA8Pm6fT_sLJOVjkXjFpjfoLbK4oRyM-2JRfXw-MpJA36dnAH7iihNHg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/nCEPkYUJc-m_C8JiQ0sZBNqmJlsdNEx-m7-JCQOkSg0023goMWDMr7QCMZ03SEQJ0TymRgCjFYq6OgwAvkY7bfr2ocLhu2HQ1LVhK5SAxIt4bv__CmZG9E7KSFp4q4lNXZCr8j1jcM-a0H0UeZr-w-GYPnde9ti3-zYuo32GMTiUe6TnjKnKoEAjwx_iRDm-C3YLAYWHNMEqh3hyVISgfPQcumnaKSiKozKOcpGhPZQbi5MVhAr5zFhYN-5phv_NEWiOXZlnBvJQ3rpLPFnsCdEXC1jwsjlEl9hh8zYHbjnR5XMcCqOVtdtlDGOVy7Rfvc1ODBYJGxWKlmdXpYsvAA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/aMKcb4SJBnmLM0N41Hx2i_kawnXVlcrlrjIjA6ZhixpR3Dgeyw89lbZiWqKhZp7Kh2o0744wKORNO4zjz2EyfD2SFTPTgHFOKq2tgPOJaYLDRVqeky-Yigf5eg8q1Ht-zB3kY_VOoJHZHBeMzYh2C9iewM6G_0OaS-KYrx7j0ybhf_8IPuzMqz-oeacFTM8b5F85v1wMHTRtJ1yzlfILu60wCf-E3DS4UFcrPscO0_Fq_hXakeBZYKD-0--yeWV6XVcaWVVy0r1Jb-6zUYEwqHDmO0CxQ_bEGHGhEbCSz9e-sfPLQ7j34mOrC7NzNGFaHfspuNXbGodmi4FEVBJ-kw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">کیوت بودن اگه عکس بود
 🥹
@@ -1336,11 +1357,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/IranProxyV2/9122" target="_blank">📅 12:53 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/IranProxyV2/9122" target="_blank">📅 12:53 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9121">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">راز رابطه ی موفق یک‌کلمه است :
 احترام.
 پروکسی
@@ -1353,11 +1374,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/IranProxyV2/9121" target="_blank">📅 12:21 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/IranProxyV2/9121" target="_blank">📅 12:21 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9119">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">یکی از خوبی‌های پول نداشتن اینه که همه دارن از مشکلات بانکی که پیش اومده میگن، و تو اصلا خبر نداری
 پروکسی
 |
@@ -1369,11 +1390,11 @@
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/IranProxyV2/9119" target="_blank">📅 10:07 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/IranProxyV2/9119" target="_blank">📅 10:07 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9118">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">از آدم‌هایی که در رو نمیبندن متنفرم، در اتاق، کابینت، کمد، دستشویی، مخصوصا دهن.
 پروکسی
 |
@@ -1389,7 +1410,7 @@
 </div>
 
 <div class="tg-post" id="msg-9117">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">100 گیگ کانفیگ رایگان
 ✅
 https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
@@ -1403,11 +1424,11 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.56K · <a href="https://t.me/IranProxyV2/9117" target="_blank">📅 22:58 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/IranProxyV2/9117" target="_blank">📅 22:58 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9116">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">‏امروز روز جهانی برآورده شدن آرزوهاست و هیچ ربطی به ما ایرانی‌ها نداره.
 پروکسی
 |
@@ -1419,11 +1440,11 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/IranProxyV2/9116" target="_blank">📅 22:54 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.42K · <a href="https://t.me/IranProxyV2/9116" target="_blank">📅 22:54 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9115">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">میشه به همه احترام گذاشت به جز رفیقم، اگ به اون احترام بزارم فکر میکنه باهاش غریبه شدم.
 پروکسی
 |
@@ -1435,11 +1456,11 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/IranProxyV2/9115" target="_blank">📅 22:10 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/IranProxyV2/9115" target="_blank">📅 22:10 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9114">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">‏دوستان رک بخوام بهتون بگم برای هیچکس مهم نیست که شما تو نوت اینستاگرام چه آهنگی رو دارید گوش میدید.
 پروکسی
 |
@@ -1455,8 +1476,8 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 </div>
 
 <div class="tg-post" id="msg-9113">
-<div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Zh-OCOxCaVheYC1I7kosBhLLJfYcxO0UD7Ytj7lB33zbbNenWQ13MdFQIIPY1IN7mjoSVLO9r_JrfziXeBYhT7-SDMWILYXxY8Q6SPG3SYHQfqrrb7jSq7bpjJ_0UMe2EANgVfftA3-xb4yteA3oqPgd9PA7f7cHLT-BkSvo3E1nmm4plvUOyJHG95FfLKFBzKS8Mp_Oz8ZB0O7PDz5LMRZuD-mnT9-WwyJ7uZ3WsfmJugvNwOpIg9V1O8p1LR9QJVVdRz_ru01RKYDggkO6Lz1ZKGKNndmfqj0sdP5NpnPqg3Es0ZWCEmpF2YNkzcWwUQ2ZC2oTS9Q7EYyqNlSmwQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rOjL2EQv1XWnDJLPJ2sL5Jqr0PbFCywicEyosSeUe3U4nNPEo6jW1MfWmbx1FlECO7vKPQzDSdC-O_TCd01M5NPCWDfHsVudJfgVP314iDQ0nJTu8njIfA5yblGJoLV60iX8kNbeWXGn8_caqMIE8IYIZj--mmUntgbO2gGIxQ7SSF5UZ4I3ZeuHOa7Um-cigjgqGyva72VQC_zAnRQuu2-tBDnN2wTGY5YzB7CbIP0x6V9EUu5ZX2xt_8vXM0YKLkjgi52XKY01c7ASpfqZoLR2KllUycnhCxW8O_xzBE_Ia-6WaVDS_Glzw7gt9SkfHMdXC946fNrbkBBdgy5vqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">﻿زوج پزشک ایرانی ۳۱۳ عمل جراحی رایگان را به عنوان مهریه ازدواج خود ثبت کردند.
 پروکسی
 |
@@ -1471,12 +1492,12 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.53K · <a href="https://t.me/IranProxyV2/9113" target="_blank">📅 20:15 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.54K · <a href="https://t.me/IranProxyV2/9113" target="_blank">📅 20:15 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9112">
-<div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ep9_G2uhfSr-k9lUGHQEIKh1NwMOHxvh_7de_kEhZpA6sUFVh_A1ccIUuWfS1hNw-QCt3abMNQF2izWC6yHNZS4-Gi_sDXjaER0Bo32tKKAECOzZZx-AsV7IEvOjt-VYBse_Ex8byXkbISeCdv4PaNQl7WDBOX6p9UuD0518WkyI1g-mBd7A0QmA7Ax8NjzhVWjZy42EyoPKoZS1gT7SdbZAv6CJU2P0HcIyarifjDLIwJnEtiy-WNIDjI11Pk86pXulbOwWVPg3iA4ITY4smffmKtki3k_f4O9VbJoXZvlF7bplLZRI1Sc5y6VaJiweutmDVEY6whBDrbmitczolQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/byS4aNgiIFMveV9D1-K6jRKbOtSDA1JvRzzC-hezrtT9RzmNWTmvcB5TQchQGBIMWzeG7GuL6hz_aDJeCjCaHsVbNi7tSJEY5qOanNCZm45tmiys-0xJF9gDo-lpxqNC-U0CDfSEFfIU1yZgiw8Uja8uuxdHLd9OP7AkoscFWFbdxJqSzSiD6H1AYYBCwDWNDpMVkgWv3hOJ6aqWGRdEA4s65uijE6xMlivZaRm6s6BIQ_TPpZqodA2XWfhUr-GURgobEjrJWC9MalOs-dVvs0HFUbhB9cbcwHdXW1P26IZoRqr1e54LvOquo2Q6_YVkZmoEH8IBvlg141jO6vZDOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پروکسی
 |
 پروکسی
@@ -1489,7 +1510,7 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 </div>
 
 <div class="tg-post" id="msg-9111">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">مسئولیت‌های زندگی دارن مزاحم افسردگیم می‌شن.
 پروکسی
 |
@@ -1503,7 +1524,7 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 </div>
 
 <div class="tg-post" id="msg-9110">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">آخه آمریکای لامصب؛ تو که ساعتت انقدر با بقیه دنیا فرق می‌کنه، برای چی میزبان جام جهانی میشی؟
 آخه کی 5 صبح فوتبال می‌بینه
 پروکسی
@@ -1523,7 +1544,7 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 </div>
 
 <div class="tg-post" id="msg-9109">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">سلام بر کسانی که،
 وجودشان از غم این دنیا می‌کاهد...
 پروکسی
@@ -1538,8 +1559,8 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 </div>
 
 <div class="tg-post" id="msg-9108">
-<div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PLr4Z5wBp79kYeI2dmyx6MMUu-NM1BthasT9fTNYuhJPnuyi1dSNI8lIqU3E170FvKDF8OkvbxOLbVfJTL5UEpr_Vmp2w705_WVKiKZXn4b6mTfh196EFRWVMYbIY_CAjVV53l1U66E4LaXYENKrmwwxo1QpeiXBFsO8vg5ETqEafJDVNl5EIueYA7QtSVfVLHtCTnwWWLXC99wzhY4xc3ZTAAGe9FGg8UBzpy9i-6F0D_3agDVh8orJX8A1LyERWZ7oybKmh1QNueousByevdbjR7t_3DbaN9BIYto8DmCJ3XCW2QQ0QLAhauf97Hcg-t3zn0teYjNcEqM7PCPD3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/D8ZFsYAua7FOw2XpQENYShP4D1sDbbDDv-A2M_wkpAbK2Nf2jaTKUvk0ukkPspI6PDYuF7BwT3SQdgcEs-yzPJa5qecYujKFZ7Og4f_ufs0C3qzSR8JQcjPbMLrdvL3G8wZZWZr76oQ9gf4cFGnnnbIUDDRvuxbHxuhGyWo_JIcXbDuh74bUVMNH3dZEP0d4A5hHgI2X-HCZO20BWzBA209f5YUvBqC9QCKOvIheD5i3mGNphA7q2oQvgUMHMFZO2MO7NZAHLS6JaGO0OC_Y5tYzAtzH97wBababqjhuk7Z3hm3WN-cW24ijPf3_clDPQ2Qev5Fjueftvav3aw-Qqg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی ساعت اینو ازش بگیره :))
 پروکسی
 |
@@ -1549,11 +1570,11 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.09K · <a href="https://t.me/IranProxyV2/9108" target="_blank">📅 03:41 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.1K · <a href="https://t.me/IranProxyV2/9108" target="_blank">📅 03:41 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9107">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">دوست باید جوری باشه که هم بشه باهاش بی حد و مرز چرند و پرت گفت، هم حرفای عمیق درست درمون زد.
 پروکسی
 |
@@ -1567,13 +1588,13 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 </div>
 
 <div class="tg-post" id="msg-9106">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/242ac19f99.mp4?token=I1Ed5OQqeKfqMlfdELCVQsvtYvfEnj354HxxpIxcbHqRm1NLeaPvHiLHxhT3oCuvKQOgEE-OEcW2gUAUILfB5ujoeUp6gKULrssEJ7IgTpPoTZYKSfkb7lRzA6WLW5Ne-rVhD6zAks9vvcItlO-CsDk_DGuSWpJSoAqJwugq_HjMemnhOyUvCzTBHgvHmUq-SXLlDNNnib3ey2VV0pCsmVm_H7VLRkQqcSNl8iNhR1D7hnV5igJYolRPGhmrOfD2XJAqtM-cIXjT-WfEhe35Rn_yizKy5Ghf9A9F2ENpfqfdWAXTvjZXiEvhU5P9rCU2vsFWMl8UxCgGd7aGiZqPWA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/242ac19f99.mp4?token=q2QL7uG3DJfSD6vaE4bJ5PTnsXd1Ltty-jxKUGRAn_umS6MBfDManbRw7k9Tkp3WLFdLchvLxhp7nmCX3tMIGDRscp_L7sQBK_wWUtZE4wxXlqSp2_NotQKiFdixn4JvuOEFNM_xV3Yb58TclAsOU1oyNRUOBN5Ao4zn6Qzu3HkOn7adJqZA_0-wuSNRwMvZg2CrcdsTR9KDu0Bt9wMz-E7kVkqnhqpCckTD9_CRo3ftScAZw6rZGTQQrBHwytbS6PQembBTd3NYoLuN0jd4dgQjlMbkE7a7PZtUc54cxTx6Y61rYi9CypcXVqxE_HEPlCpVYoxz8Olfb7GzjB0U4g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/242ac19f99.mp4?token=I1Ed5OQqeKfqMlfdELCVQsvtYvfEnj354HxxpIxcbHqRm1NLeaPvHiLHxhT3oCuvKQOgEE-OEcW2gUAUILfB5ujoeUp6gKULrssEJ7IgTpPoTZYKSfkb7lRzA6WLW5Ne-rVhD6zAks9vvcItlO-CsDk_DGuSWpJSoAqJwugq_HjMemnhOyUvCzTBHgvHmUq-SXLlDNNnib3ey2VV0pCsmVm_H7VLRkQqcSNl8iNhR1D7hnV5igJYolRPGhmrOfD2XJAqtM-cIXjT-WfEhe35Rn_yizKy5Ghf9A9F2ENpfqfdWAXTvjZXiEvhU5P9rCU2vsFWMl8UxCgGd7aGiZqPWA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/242ac19f99.mp4?token=q2QL7uG3DJfSD6vaE4bJ5PTnsXd1Ltty-jxKUGRAn_umS6MBfDManbRw7k9Tkp3WLFdLchvLxhp7nmCX3tMIGDRscp_L7sQBK_wWUtZE4wxXlqSp2_NotQKiFdixn4JvuOEFNM_xV3Yb58TclAsOU1oyNRUOBN5Ao4zn6Qzu3HkOn7adJqZA_0-wuSNRwMvZg2CrcdsTR9KDu0Bt9wMz-E7kVkqnhqpCckTD9_CRo3ftScAZw6rZGTQQrBHwytbS6PQembBTd3NYoLuN0jd4dgQjlMbkE7a7PZtUc54cxTx6Y61rYi9CypcXVqxE_HEPlCpVYoxz8Olfb7GzjB0U4g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">دختر خوشگله core
 پروکسی
@@ -1589,11 +1610,11 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 پروکسی
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/IranProxyV2/9106" target="_blank">📅 03:14 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.75K · <a href="https://t.me/IranProxyV2/9106" target="_blank">📅 03:14 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9105">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uyq6F6axvUsaOtsTA6sLcOoy0dOR0I-dAwWy9C-CrYWzJnylfFCeaTV8p4g8cLryZIWKtuDUU4exJ6axKefkR87kmqaxsX2GbDiy6Y8029IYHAUX6MCkrg0RnAhm5WF2XAWax0F5quATKVLD3hIL_W0aBHTDuFtAH4SF8N5RK2a8CRTJXJZQn3YRYA4oCOTqg68B0QY0te8PZMCXkpZa1IPUBWzyGbWO1wAX11m_cJfIC5xiRVP1prwklGo_YmaONbOU0A5tWVe8MANd3d6G7TkcRF52xrtcylgbaJa0aXk3k7I-SJthEzR0H9QtkCxBH3mctuwXpH5PZWgI4asQqw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 تانل پرسرعت لوکیشن آلمان
@@ -1617,11 +1638,11 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 @RUSSIAPROXYY_Bot
 جهت ثبت سفارش به ربات مراجعه کنید
 🔼</div>
-<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/IranProxyV2/9105" target="_blank">📅 14:45 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.72K · <a href="https://t.me/IranProxyV2/9105" target="_blank">📅 14:45 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9103">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1634,11 +1655,11 @@ https://188.121.124.130:8000/sub/djMsNDAsMTc4MTYzNTMzNw2e14b71496
 🔝
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/IranProxyV2/9103" target="_blank">📅 14:32 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/IranProxyV2/9103" target="_blank">📅 14:32 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9102">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">❤️‍🔥
 Proxy:
 🔗
@@ -1646,11 +1667,11 @@ Link:
 https://t.me/proxy?server=87.248.129.183&port=443&secret=ee74531eb0ee43745c6ddb8efe247626cb3132333333332e732e732e732e652e6565666566656665662e69722d2d
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.31K · <a href="https://t.me/IranProxyV2/9102" target="_blank">📅 14:23 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.32K · <a href="https://t.me/IranProxyV2/9102" target="_blank">📅 14:23 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9101">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1663,11 +1684,11 @@ https://t.me/proxy?server=87.248.129.183&port=443&secret=ee74531eb0ee43745c6ddb8
 ❤️‍🔥
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.13K · <a href="https://t.me/IranProxyV2/9101" target="_blank">📅 14:13 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.14K · <a href="https://t.me/IranProxyV2/9101" target="_blank">📅 14:13 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9100">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">❤️‍🔥
 Proxy:
 🔗
@@ -1679,8 +1700,8 @@ https://t.me/proxy?server=194.120.230.97&port=8443&secret=ee1603010200010001fc03
 </div>
 
 <div class="tg-post" id="msg-9099">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lwIOwjMen5qcRHvAaHiwJaVvkykZ7e9MTctkep2QjJoUnnCWoQLBe7HGq-3OlPsQtqQUN5xWxvMTB8u3scKK7xt6yWAJoH8OR0DcLqtLpvwnPHxHbOHt6UndhvupEszo2ryebvw6JvOvY405KM6DaiQa9TUGZQGv_GylHknU0YY1SK1ylarOq34t6MF8QJGfIDPT6qzFabLJTP6lM89zFJOnwoSJF9tVou14M7uSGdcOL1FIffEMDIi9GHdG_YAWQtEj_iSfMMDVRNoPjG2gxgJ940WKBLm9TSsETMdTHnkgBP8kNp-S99ZU5B1Tr91v83QG-3Q3EInGqlmHwmvFLQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IP4yAWzeaiQ67NH4EU0o7L7dv5tmsTH3zVUSRQgoE1TFwWzxBTjfppCqtZna3qp35Mvjn-0V_5BBraClnee5znQWweQcwVcEEZQuhnwRscH9qNxto24DT6PatFqEBRudgglc_moPZ15vvWtfwsZhhbYxVDaQSt_k3L_xQ4FJQUtbwfhINIKPq9hGs1j22x84T-732RXKW5OOAGDOSfpxS8dlXY8XSApTvDFaGB8BtA_a-rsi5W8zb6-Ori4lWShWodZIiETA14bcWwmjgy73wequKfUI_sVRfYfxBl9BJPuqLw92HcMKOrTHBOzhKjFGIGeajAnIWwyWkrJb4E9GqQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 تانل پرسرعت لوکیشن آلمان
 🇩🇪
@@ -1707,7 +1728,7 @@ https://t.me/proxy?server=194.120.230.97&port=8443&secret=ee1603010200010001fc03
 </div>
 
 <div class="tg-post" id="msg-9098">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">❤️‍🔥
 Proxy:
 🔗
@@ -1719,7 +1740,7 @@ https://t.me/proxy?server=play.proxyvpn.site&port=443&secret=ee4d0c82ca73f261e69
 </div>
 
 <div class="tg-post" id="msg-9097">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1732,11 +1753,11 @@ https://t.me/proxy?server=play.proxyvpn.site&port=443&secret=ee4d0c82ca73f261e69
 💯
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 6.84K · <a href="https://t.me/IranProxyV2/9097" target="_blank">📅 13:08 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 6.85K · <a href="https://t.me/IranProxyV2/9097" target="_blank">📅 13:08 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9096">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1753,7 +1774,7 @@ https://t.me/proxy?server=play.proxyvpn.site&port=443&secret=ee4d0c82ca73f261e69
 </div>
 
 <div class="tg-post" id="msg-9095">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-poll">
 <h4>📊 بت زن داریم؟</h4>
 <ul>
@@ -1761,11 +1782,11 @@ https://t.me/proxy?server=play.proxyvpn.site&port=443&secret=ee4d0c82ca73f261e69
 <li>✓ نه</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 7.2K · <a href="https://t.me/IranProxyV2/9095" target="_blank">📅 10:40 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.21K · <a href="https://t.me/IranProxyV2/9095" target="_blank">📅 10:40 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9094">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1778,11 +1799,11 @@ https://t.me/proxy?server=play.proxyvpn.site&port=443&secret=ee4d0c82ca73f261e69
 ⚡️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.47K · <a href="https://t.me/IranProxyV2/9094" target="_blank">📅 01:00 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.48K · <a href="https://t.me/IranProxyV2/9094" target="_blank">📅 01:00 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9093">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1795,18 +1816,18 @@ https://t.me/proxy?server=play.proxyvpn.site&port=443&secret=ee4d0c82ca73f261e69
 ❤️‍🔥
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.69K · <a href="https://t.me/IranProxyV2/9093" target="_blank">📅 18:53 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.7K · <a href="https://t.me/IranProxyV2/9093" target="_blank">📅 18:53 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9092">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">◀️
 دوستان این تخفیف فقط تا آخر امشبه</div>
 <div class="tg-footer">👁️ 8.64K · <a href="https://t.me/IranProxyV2/9092" target="_blank">📅 21:12 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9090">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">❤️‍🔥
 Config:
 🔗
@@ -1814,11 +1835,11 @@ Link:
 vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#%40RUSSIAPROXYY%20%F0%9F%87%B7%F0%9F%87%BA
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 8.01K · <a href="https://t.me/IranProxyV2/9090" target="_blank">📅 12:17 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.02K · <a href="https://t.me/IranProxyV2/9090" target="_blank">📅 12:17 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9089">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">❤️‍🔥
 Proxy:
 🔗
@@ -1826,11 +1847,11 @@ Link:
 https://t.me/proxy?server=51.250.65.108&port=443&secret=ee3a9f22462890489c0bde045048ff9a17617669746f2e7275
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.2K · <a href="https://t.me/IranProxyV2/9089" target="_blank">📅 11:55 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.21K · <a href="https://t.me/IranProxyV2/9089" target="_blank">📅 11:55 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9088">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1845,11 +1866,11 @@ npv tunnel
 🙂
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.8K · <a href="https://t.me/IranProxyV2/9088" target="_blank">📅 11:39 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.81K · <a href="https://t.me/IranProxyV2/9088" target="_blank">📅 11:39 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9087">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">❤️‍🔥
 Proxy:
 🔗
@@ -1857,11 +1878,11 @@ Link:
 https://t.me/proxy?server=zone.nolags.pw&port=443&secret=dd04d2a884220d45de24af8bade64322ac
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 8.56K · <a href="https://t.me/IranProxyV2/9087" target="_blank">📅 21:01 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.57K · <a href="https://t.me/IranProxyV2/9087" target="_blank">📅 21:01 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9086">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1877,11 +1898,11 @@ Npv tunnel npsternet
 💥
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.88K · <a href="https://t.me/IranProxyV2/9086" target="_blank">📅 20:32 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.89K · <a href="https://t.me/IranProxyV2/9086" target="_blank">📅 20:32 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9085">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1900,7 +1921,7 @@ Npv tunnel npsternet
 </div>
 
 <div class="tg-post" id="msg-9084">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1915,11 +1936,11 @@ Npv tunnel npsternet
 🟢
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.39K · <a href="https://t.me/IranProxyV2/9084" target="_blank">📅 19:54 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.4K · <a href="https://t.me/IranProxyV2/9084" target="_blank">📅 19:54 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9083">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1938,7 +1959,7 @@ Npv tunnel npsternet
 </div>
 
 <div class="tg-post" id="msg-9082">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1951,11 +1972,11 @@ Npv tunnel npsternet
 ✔️
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 7.6K · <a href="https://t.me/IranProxyV2/9082" target="_blank">📅 16:15 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 7.61K · <a href="https://t.me/IranProxyV2/9082" target="_blank">📅 16:15 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9081">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1968,11 +1989,11 @@ Npv tunnel npsternet
 💙
 @RUSSIAPROXYY
 🇷🇺</div>
-<div class="tg-footer">👁️ 8.41K · <a href="https://t.me/IranProxyV2/9081" target="_blank">📅 03:50 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 8.42K · <a href="https://t.me/IranProxyV2/9081" target="_blank">📅 03:50 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-9080">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">❤️‍🔥
 Proxy:
 🔗
@@ -1984,7 +2005,7 @@ https://t.me/proxy?server=87.248.129.219&port=443&secret=ee1603010200010001fc030
 </div>
 
 <div class="tg-post" id="msg-9079">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -2001,7 +2022,7 @@ https://t.me/proxy?server=87.248.129.219&port=443&secret=ee1603010200010001fc030
 </div>
 
 <div class="tg-post" id="msg-9078">
-<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">⚡️
 تانل پرسرعت لوکیشن آلمان
 🇩🇪
@@ -2025,7 +2046,7 @@ https://t.me/proxy?server=87.248.129.219&port=443&secret=ee1603010200010001fc030
 </div>
 
 <div class="tg-post" id="msg-9077">
-<div class="tg-post-header">📌 پیام #2</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -2039,16 +2060,6 @@ https://t.me/proxy?server=87.248.129.219&port=443&secret=ee1603010200010001fc030
 @RUSSIAPROXYY
 🇷🇺</div>
 <div class="tg-footer">👁️ 6.91K · <a href="https://t.me/IranProxyV2/9077" target="_blank">📅 03:15 · 21 Khordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-9076">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">🔴
-چنل دوممون مربوط ب اخبار رو دنبال کنید
-✅
-با ما اخبار جنگی بروز باشید
-@russiamilitery</div>
-<div class="tg-footer">👁️ 7.16K · <a href="https://t.me/IranProxyV2/9076" target="_blank">📅 01:44 · 21 Khordad 1405</a></div>
 </div>
 
 <hr>
