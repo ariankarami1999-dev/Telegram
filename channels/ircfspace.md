@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-01 02:32:20</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-01 05:15:07</div>
 <hr>
 
 <div class="tg-post" id="msg-2446">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/ircfspace/2446" target="_blank">📅 18:12 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/ircfspace/2446" target="_blank">📅 18:12 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2445">
@@ -322,7 +322,7 @@ github.com/MortezaBashsiz/nipovpn/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/ircfspace/2445" target="_blank">📅 08:57 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/ircfspace/2445" target="_blank">📅 08:57 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2444">
@@ -338,7 +338,7 @@ github.com/Gedsh/InviZible/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/ircfspace/2444" target="_blank">📅 08:47 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/ircfspace/2444" target="_blank">📅 08:47 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2443">
@@ -351,7 +351,7 @@ github.com/Gedsh/InviZible/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/ircfspace/2443" target="_blank">📅 08:24 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/ircfspace/2443" target="_blank">📅 08:24 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2442">
@@ -366,7 +366,7 @@ emirhussein_rz
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/ircfspace/2442" target="_blank">📅 08:16 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/ircfspace/2442" target="_blank">📅 08:16 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2441">
@@ -381,7 +381,7 @@ emirhussein_rz
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/ircfspace/2441" target="_blank">📅 08:12 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/ircfspace/2441" target="_blank">📅 08:12 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2440">
@@ -398,7 +398,7 @@ github.com/rezakhosh78/SIMORGH/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/ircfspace/2440" target="_blank">📅 20:00 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/ircfspace/2440" target="_blank">📅 20:00 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2439">
@@ -411,7 +411,7 @@ github.com/rezakhosh78/SIMORGH/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/ircfspace/2439" target="_blank">📅 19:56 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/ircfspace/2439" target="_blank">📅 19:56 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2438">
@@ -434,7 +434,7 @@ miladiels
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/ircfspace/2438" target="_blank">📅 19:42 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/ircfspace/2438" target="_blank">📅 19:42 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2437">
@@ -449,7 +449,7 @@ miladiels
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/ircfspace/2437" target="_blank">📅 08:19 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37K · <a href="https://t.me/ircfspace/2437" target="_blank">📅 08:19 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2436">
@@ -495,7 +495,7 @@ Mohsen_935
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/ircfspace/2434" target="_blank">📅 17:24 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.7K · <a href="https://t.me/ircfspace/2434" target="_blank">📅 17:24 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2433">
@@ -528,7 +528,7 @@ Mohsen_935
 
 <div class="tg-post" id="msg-2430">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/npmCzK64rPEHx5wqN4WMqSjBCyt0Ej49iCXw3E5-B1jArDHtEEsdxp-jqYk1oY0NR0uRhm2X1lsi3JLVrv8_WxiAeuHzaMxHKwp00iBFQ1DmUgkv6b70kYpfFWQGaNxsHW1QQrS60bB2PeT79kOZZjrISmNjF8pOJTDItBUxo3HYqE_0lx-mhojntjiQc6ZomI4z7_YnKlBRMakGOu_MJ9rLwpUnbJEWnXOhma0D7J0kDKBRSqWRCTQAK_LaxS5fX3FbWPWoT3Wi15LvRX03krFaQoht_dYslOuyBopHMP6cS9urVaKmPA3QCpD77XB4l3XUz5Bbmw4xqifquo4Hkw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IUYGz00JpbFgasIdx2lij0iGmO-PoGcybzn_PhbBaASOxVgWcLpXV2rLkc9tfd-mqxlCuY2X_fOJD-QEFEwA4rkW-w1T3szixSRZgvIYzn-7UxdGCBSkbRU2wGxun6C7DF8Z89Q64gczr_dOYpDwpqZwMRo6jZu1Puuh6800da2WfpL8FJYD-SUE2463CI5PZMohGhXm12ZzhxGHjkXt6zFIn9uoiYfHH0GKeo4pCEEpHkveetHYS9zjzUoVMKnVVPUNwRI3Mg3KAiiKCcoNUKqaRvpqEPH-h647S4A6npmEPA2SnPcpBWAWTgmAz8oTaSM3LN6sXwmTv6-wuNHjxw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به‌دنبال توافق‌نامه‌ای که در اردیبهشت میان شرکت ارتباطات زیرساخت ایران و آذربایجان برای توسعه ترانزیت داده و زیرساخت ارتباطی به امضا رسید، بخشی از داده‌های ترافیک اینترنت ایران به اپراتور Delta Telecom در آذربایجان منتقل شد.
 داده‌های موجود نشان می‌دهد که آذربایجان در مدتی کوتاه از رده چهل‌وچهارم مصرف ChatGPT در جهان به رده سوم رسیده، که انتقال ترافیک اینترنت ایران از مسیر یک اپراتور آذربایجانی این اتفاق را رقم زده است. /دیجیاتو
 🔗
@@ -553,12 +553,12 @@ Mohsen_935
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 52K · <a href="https://t.me/ircfspace/2429" target="_blank">📅 14:48 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/ircfspace/2429" target="_blank">📅 14:48 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2428">
 <div class="tg-post-header">📌 پیام #83</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/k-ZvKOVNXeNSkwd-ww8xgOaZUh_w8UiTft2SmzWRXFdlAH46Zom-MPhv7zIjH2WxhYq1AV_ACqYzXQSIPXwPKt43fRJ_ZNhSN8POqXSEi8tOohFB0VMo2HRQGP78Ay-5WNJLa8k7cTdOsOyQ-ezNjVRpzO7C_rinANbGVbCZYCw4wiqTBMv0w3ymxYeqm50lqzxds6goaNs6mPm7tn73UypEGGvgktuKrogaYUiLm6DxU-947yXW0BpuWdmBnRt8MifWosQICgeta9rhBWj8SX7iDyjzVtboOcrYtSVam2PVAXCiIXKxAFGsVrbJPLHL-ZEuOo6rIjQfQWvZ7u5raQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DKxST51pUk7EVxSkSwTzQcL3zXRNqlbtwSJk1jlcYgfukCXL-1z0MmPN8KKwzgncKDMrYCUPV9F6hoIF8N6r-ysxBixuCi5Knd8rLFB-rOxWoFnqiurKgcMf-Gh83CEGRsnzVr2EpcReBhrK5tqZecQnu97f442reQP0MWvZeu0tlk9Cf4lxcAu9ejqWZ9MjDK8nBuXgo0jVh1kLYzE_2roaFc_ni-HyWaZ61DU-ZOiRvwpK5Kg9-_OqG8wiS60iMnOvbFfKz7pX51NQGXgfUKnvhPv9zdoDsnmA8H-b3gRbDwOIUtN79XFjybmMzxIWlVlmcB1XSxfsmzkySAksKA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در آپدیت جدید از فیلترشکن متن‌باز و رایگان pyWarp که برای ویندوز، لینوکس و مک ارائه شده، ۹ مسیر اتصال به وارپ (با انتخاب گزینه Auto در Protocol) چک میشه و در نهایت اگر اتصال امکان‌پذیر باشه، بهترین رو انتخاب میکنه.
 👉
 github.com/saeedmasoudie/pywarp/releases
@@ -569,7 +569,7 @@ github.com/saeedmasoudie/pywarp/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 62.7K · <a href="https://t.me/ircfspace/2428" target="_blank">📅 08:13 · 18 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/ircfspace/2428" target="_blank">📅 08:13 · 18 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2427">
@@ -600,7 +600,7 @@ github.com/saeedmasoudie/pywarp/releases
 
 <div class="tg-post" id="msg-2425">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/G7GCczz0f-uhycLyDxQInqDxfPWek5phGsYdsXHcTe3YoD5Iv-4-t0KDlbm9Um7jgZqDCEnfsK-mOuDSCIvLgsJbAwy21PaUafilvzE5BwMX8O5f_EO-3scsQwfvtrJLA4RM-j5b50AilV_TwHv8WY_fz9gAX9ul07357-3wLZ6dcd5Tv-cFT-LVcVaCHMZmDNbDf4IHwkWqgWVmtVVrhxMSrt1XJ5uROGqSG5yXX-5byyOz02R49aPdZ4D-HkiUqSGzffPGhUO8xRuM5kO_olLGb484tnS_klKof4XsxGBEbHghGen-_XgqQFbgO6W58JzSU-YW5aQHaEPErPHDDQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RkZApZe8iW30a1jV9d9WV-o_Essl-z5mrgLt7vbCCk9ZfgsC-4tQbWSnimyv4FCekEmYjkDcl271IWCIEKRL8elsZaIuv5NdS_5Tp35ul98_f1IpNsa21W4y8q7K9l93WL8PEld3skE50EkZ2F4RzBeDxZY-JdO27rRXY_0lTBlGXVty_KMOoHjZ9Wue8miZ34bEJnwfiIVnn9e5wcdYcTEQFO3XEnM9vpqqmPK9ZLVfmrw1u8fAd8A-64Y_GA6sKVVdRTWi-CiKum8RKL-aC3_QQcC1CQL7cIT6QXfgLlZUWFYJi4EhgTlLFyyq8-UXx1vD7A0gpX6CoRI9gkXeVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پروژه
 #نهان
 یک راهکار متن‌باز مبتنی بر Workers کلودفلر هست، که امکان راه‌اندازی کانفیگ رایگان Vless و Trojan رو بدون نیاز به سرور مجازی فراهم می‌کنه. این اسکریپت از داشبورد مدیریتی، امکان پشتیبانی از چند کاربر، ربات تلگرام، قابلیت مخفی‌سازی ترافیک و قابلیت تغییر آیپی تمیز از داخل پنل برخورداره.
@@ -629,7 +629,7 @@ vahidfarid
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/ircfspace/2424" target="_blank">📅 07:53 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 55.8K · <a href="https://t.me/ircfspace/2424" target="_blank">📅 07:53 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2423">
@@ -735,7 +735,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.1K · <a href="https://t.me/ircfspace/2418" target="_blank">📅 22:52 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/ircfspace/2418" target="_blank">📅 22:52 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2417">
@@ -764,7 +764,7 @@ github.com/rezakhosh78/RKh-CF-Scanner/releases/tag/v0.1.4
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/ircfspace/2416" target="_blank">📅 08:15 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/ircfspace/2416" target="_blank">📅 08:15 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2415">
@@ -780,7 +780,7 @@ iliahashemicom
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/ircfspace/2415" target="_blank">📅 08:17 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 65.6K · <a href="https://t.me/ircfspace/2415" target="_blank">📅 08:17 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2414">
@@ -1055,7 +1055,7 @@ t.me/PersianGithubMirror/5676
 
 <div class="tg-post" id="msg-2398">
 <div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/E_305yF7bK4RywNEypyECujBVCV8822ZYKA4Of_X3xlOGq8L2ldKMXypxD9juUFEOZR9r2ZGzyjzlOKETXvY16IXvs1Shs6TRfFu8a1ln-OCwevn9CyBoE-qhn3XAjADCPucC25i1nF7EB2kAiUHbMJBt_I9a9X7uXdNsEYfdRJH08Bp_glsjRzTxxTaxNAytEtWLapUdFXxq2aqaZAcMi950V3xw9nTszfu8UTqDlqPlpihBt4u__UElISl3noadtOgULbOoKg1-RN7r76IB8CGmQfTPOWPB3vAOw0l7OsSmpJv4ZGIZz-IxoB1y7DC0DADy_4jewa4EsENJ82QQQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AjQkXa-GjVs6A2vqUlUpy5fDQ6TkvOImNGTJlqOD4tu6QT7aPxRerjeA5PhTjjC2OHeelpVaM2-UqjaHMNZVEjQbKHWKV7MlOZrvubpYwwetydjltlvPGlAgn9p6X1APOXTKb_AqFd1D5Vu5ZBpeYxtRFZrNJ_u3bin4L1YfOnfqvFSvaAtx-4RZzNcYPdG0OK-DXQZWHxQJ7KaDvsctCx3lCnHgtGZduwSiAELJBJdXvflvSl1yIjyXuY6r0XpZ9nciWn_qQmiuwCWaqOfs_FJgTdAfTi_rc5ChLfi5QP25A0agLsJYSUc-qP7YqpSDaCyNRUbPwrs6TnrmA84lOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در بروزرسانی جدید از کلاینت NexaTunnel امکان پشتیبانی از کانفیگ‌‌های Xray در کنار Stormdns, SSH over VPN, WhiteDNS برای iOS فراهم شده.
 👉
 apps.apple.com/us/app/nexatunnel/id6766783641
@@ -1420,7 +1420,7 @@ AmirHadiAnvari
 
 <div class="tg-post" id="msg-2373">
 <div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/J2n9_98d4iJIGAg815j-C8zpbZLEjjkOGbLEyrZo9Q5BVLQWw-hpoG982QnagmPdAdK6tRSZxuXzk10cS21ohktR5gI0IqaZV5hrogtfLKLnlwPhvgijg-DaSV19rwLxVYP4j6b-s9oCPD1CEaFkiNBo_XhFpv-3d4mwjj3s5iC3nfKwt0wYP4kvjApP3z2Sf1Y6yAKprJ_Gt7gmjBReZ7BkvjTuoBYH3Hnf1MU2WdIuovCMTMeeW4uYRZHfszjpTy5Syrwc_DQCEeLTq4xRwxwz9L0c8r80qQJi4GgIlUCVejlie7d2K4FykLy58_rRrGyFB6OFuDj236FhNfdJHg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uJUaVUcjXpLrdSsziDHluPagpPd9BBU0sKAvH3JQ6Xfv6Bt9Apy1y-9E5nuDmGooMmZh4YC_ss3LapeO0AliErAmDg9l8Xam--CWSz_pxuMSwerw36uKuTWlShdtH-TT_ng6uVt8HJ1p-hz03s895Q_CjWo7XaL6LwbyIn-e46-sx81qCuFLxn6MgoFqUxfKFyU1QgEyImgYqQVv9zR0dAxGv0uRTrUyEYOytKIqixFKTfIdY4rOIWZUX2IkY7VA6S0JWOsh2TEHMrJjmMldS8lJYXM-UUFfb7bSjOBlSvN-HUJ0ihM-oOwnhMNyD82oLL-HuJTv9y9WnD3hwHCIxw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طی یک عملیات بین‌المللی، سرویس VPN موسوم به First VPN که توسط مجرمان سایبری، گروه‌های باج‌افزاری و هکرها استفاده میشد، از کار افتاده. در این عملیات بیش از ۳۳ سرور توقیف شده، دامنه‌ها و سرویس‌های Onion بسته شدن و یک مظنون در اوکراین هم بازجویی شده.
 مقامات میگن این VPN در تقریباً تمام پرونده‌های بزرگ سایبری یوروپل دیده شده بود و برخلاف ادعای بدون لاگ بودن، نیروهای امنیتی به دیتابیس و اطلاعات کاربرانش دسترسی پیدا کردن و هزاران کاربر شناسایی شدن.
 ©

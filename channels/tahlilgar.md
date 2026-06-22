@@ -292,7 +292,7 @@
 <a href="https://t.me/tahlilgar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 در این کانال عضو باشید تا درصورت تغییر لینک کانال اصلی لینک جدید اطلاع رسانی شود.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-01 02:32:20</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-01 05:15:07</div>
 <hr>
 
 <div class="tg-post" id="msg-352">

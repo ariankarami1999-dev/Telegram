@@ -286,20 +286,20 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/wB47XngeKVm3f0fnbNpUxsrlve_f-5Re60mJFfRrV4Qm0PAeanxnnAW4p8XpE6OXVkdw0x5FG0-B494N78reYkpdi0ZsEzySZHUUihizDKWWrFfrkXf92Mbhj9IdVSR0oJtXZMrshWocgRTwPW8uuUB0jashazJRiNngSbBAvBbc7TgO5mzNvQqmm282nxptIj6_1zB6jgSp3XKPFFgBxKwczl-nfl8PO92SDptblA_HXAgKITKLtOLeM0Ao9-GOog3fvSKyv_oen0BGFXdXJ2KNntJNZAsybdZTCTrBB5MuIQydXzpXSQBwlir6LYzGMfKCgA1cm5YaXXa95lvsqg.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/tIeD2iRuxqLSeG6nSVrJzi0Pd0h3A97M75ZGr6oFu3l97_mvdhUQvTAz9iYINwXumjaeZMVagvBHJltdYZ9Cg2_jLlayDtY2-6vl8qfTr_FPe75q7_RTzZlN_pxKvypdjAP_YKxjTn6og8EWPlYcQNVDRp1QP2eHxWKVaZpZKa8F-5p09fkNpPGcLPQ_x8QiTeYh0wQedWyB9KjmWzVrLneQ_cyPb__ozVCO35vqNmM7-WPDklrGP4rutLZCLb77JvVPTks2HHndOlYxU3ZQ3JaHFJMG-zOADR3B0Ee1cFRctP_NXv_muhPkMcwePgzv0bbBJUiBeNX0YoLUQVKixQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو محسن طاوسی</h1>
-<p>@mohsentavoosiseo • 👥 7.57K عضو</p>
+<p>@mohsentavoosiseo • 👥 7.58K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅️.❌️نه ترجمه و اخبار و  گرداوری❌️دوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-01 02:32:20</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-01 05:15:07</div>
 <hr>
 
 <div class="tg-post" id="msg-744">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uahLrWMyKVJ4uUp-QYoCSNd7nI9K1bGjkO3DSH1SvJmDEjP797Xjxhedfpg9p5KeBFsNpYZONIH9S66bLdMEJ0_Zku1PzwyFkcfRnMTRHVVg6C8O7i4bu7q4dHULA6oIWbh5wP_tKnA0641SAc8N95-8B3s48WC2SvxpWoa_m_twjdyYZqn3_P2rarl9xVBVhvg48itpib5QjwZ6EiB47DM0i3dOxkxne_pPgdNyCmlp7GiMfsprUSJpQRi_tZVMzA66lYpEJF3FzHqSOoCSZTrZV4iAU5HyQVMriJ8ax8RYOH5brBAOUGpLFLjx1Qq86NrdA2N3Is8G5xQDU8nBLQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شما هم فکر می کنید این بنده خدا و این بندگان خدا، ساده اند؟ یا من تنهام؟</div>
-<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/mohsentavoosiseo/744" target="_blank">📅 09:03 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/744" target="_blank">📅 09:03 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-743">
@@ -376,7 +376,7 @@ https://t.me/mohsentavoosiseo/739
 سرچ ولیوم این کلمه رو ۲۱۰ پیدا کردم و kd رو ۱۲٪ همچین lps برابر ۲۸ میباشد دقت کلمه کلیدی که بین عدد یک تا سه در گوگل خودمان باید شماره گذاری میکردیم من سه رو دادم. تحلیلم این است که در این کلمه بیشتر باید هزینه off page کرد اگر یک محتوای بی عیب و نقص و تمامی موارد تکنیکال رعایت شده باشد در بهترین حالت رتبه ۸ به بعد رو بگیریم .
 ممنون میشم راهنمایی کنید که این داده ها و تحلیل تا چه حدودی درست هست
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.6K · <a href="https://t.me/mohsentavoosiseo/735" target="_blank">📅 16:43 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 1.61K · <a href="https://t.me/mohsentavoosiseo/735" target="_blank">📅 16:43 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-733">
