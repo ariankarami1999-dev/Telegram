@@ -292,34 +292,34 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 تاریخ، ژئوپولیتیک و بازارهای مالی</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-02 02:28:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-02 03:38:14</div>
 <hr>
 
 <div class="tg-post" id="msg-17929">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CrMUN1O6bIiHo7llR5TWEq_RsbMM_pnJl7Cm3MXf6j6WL4Z5G7Y9ZxUVnRFu5HPy9AJGgQkV0sbPvieHxDD2izjVfZZdOFo_zREhEibk3MQTT9vkbU1Q5r9-y7rOqHHJe56Sg_6rjzb6I8IEZB_9NOcxCsX9ntaMKXlMv_et4SzuIp7jwQOK17AGmhMHA0EI6EuNsgrSFjztY9IECWrVsldRlHCfHm7OoWdMaN2gXUkdeGUb4wMSkwAZB86o_Kf29AryaZRyfjeD7fVWmvoRlhqG7PljuxULkVFuSbxrTU7kiecC16-bmzonGp0rQq_S1OcoDWeRucoW0pdumrPTvw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همتی رئیس بانک مرکزی:  ما سالانه نیاز به‌خرید میلیاردها دلار مواد غذایی و دارو داریم پس چه بهتر که در ازای دادن پول‌های بلوکه شده آن را پرداخت کنیم. البته بخشی از پول را هم میتوان صرف کالاهای غیرتحریمی کرد. به هرحال این معامله با آمریکا برای ما سودمند است.</div>
-<div class="tg-footer">👁️ 823 · <a href="https://t.me/SBoxxx/17929" target="_blank">📅 01:38 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.04K · <a href="https://t.me/SBoxxx/17929" target="_blank">📅 01:38 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17928">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">همتی رئیس بانک مرکزی:
 ما سالانه نیاز به‌خرید میلیاردها دلار مواد غذایی و دارو داریم پس چه بهتر که در ازای دادن پول‌های بلوکه شده آن را پرداخت کنیم. البته بخشی از پول را هم میتوان صرف کالاهای غیرتحریمی کرد. به هرحال این معامله با آمریکا برای ما سودمند است.</div>
-<div class="tg-footer">👁️ 837 · <a href="https://t.me/SBoxxx/17928" target="_blank">📅 01:35 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.06K · <a href="https://t.me/SBoxxx/17928" target="_blank">📅 01:35 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17927">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">سرانجام کتابی که وعده دادم درباره پیوند ژئوپولیتیک و بازارهای مالی ترجمه کنم، به چاپ رسید.  به نظرم در این شرایط که چندین جنگ همزمان در منطقه و جهان در جریان است و تنشهایی که میتواند بزودی تبدیل به جنگ های دیگری بشود، فقدان وجود یک دیدگاه تحلیلی چهارچوب بندی…</div>
-<div class="tg-footer">👁️ 1.2K · <a href="https://t.me/SBoxxx/17927" target="_blank">📅 01:07 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.38K · <a href="https://t.me/SBoxxx/17927" target="_blank">📅 01:07 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17926">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">🔹
 شبکه ۱۴ اسرائیل :  بنظر ما ، جمهوری اسلامی ایران به سلاح الکترومغناطیسی دست یافته و با استفاده از آن درحال تاثیرگذاری دلخواه روی مغز ترامپ است - رفتار های دونالد ترامپ هیچ شباهتی به قبل ندارد</div>
-<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/SBoxxx/17926" target="_blank">📅 23:41 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/SBoxxx/17926" target="_blank">📅 23:41 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17925">
@@ -328,7 +328,7 @@
 شبکه ۱۴ اسرائیل
 :
 بنظر ما ، جمهوری اسلامی ایران به سلاح الکترومغناطیسی دست یافته و با استفاده از آن درحال تاثیرگذاری دلخواه روی مغز ترامپ است - رفتار های دونالد ترامپ هیچ شباهتی به قبل ندارد</div>
-<div class="tg-footer">👁️ 2.81K · <a href="https://t.me/SBoxxx/17925" target="_blank">📅 23:19 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/SBoxxx/17925" target="_blank">📅 23:19 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17924">
@@ -336,33 +336,33 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hmbm-eIXaDemdArEw9u1I2N1yGCvXbi5KLSkRh50kLOvj2QTlaIYOqE0T0r7z9WblBiIboxmbQqvQ1RLNoYMFBpDOVki5MQG675duXZ-nm6e7ujpkbQuM_Qaq3B_WTzazchVlwUeXmT8D04B_43IgpWzttqv5rgDTfQ1Wl6VnCnezW3WjFTn_JWtPcR5b2kcwbVc3RLQLH3AN0ffVNnao07SWmMHmoAxSvhkmGh86_NcMQgyX4gK55PEXu3gV5RSYK9ASWBthE8K3HA27GtohjgtdIPmQ78p_AfpXLjYYu6llyBAzN8Hs40n0OrF_th1rohRCR3qi-_4NyqfU3RuqQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نوستالژی هر ساله ما آغاز شد…
 جای کیان رویگری خالی…</div>
-<div class="tg-footer">👁️ 2.83K · <a href="https://t.me/SBoxxx/17924" target="_blank">📅 23:04 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.94K · <a href="https://t.me/SBoxxx/17924" target="_blank">📅 23:04 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17923">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">المیادین: هیأت ایرانی تا زمانی که ترامپ عذرخواهی نکند و اسرائیل از جنوب لبنان عقب نشینی نکند، به مذاکرات باز نمی گردد!   ایرانی‌ها اکنون تنها خواستار توقف تجاوز نیستند، بلکه خواستار خروج (نیروهای اسرائیلی) از جنوب لبنان هستند.</div>
-<div class="tg-footer">👁️ 3.16K · <a href="https://t.me/SBoxxx/17923" target="_blank">📅 22:32 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.23K · <a href="https://t.me/SBoxxx/17923" target="_blank">📅 22:32 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17922">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">هند قصد دارد موشک های کروز سوپرسونیک BRAHMOS را به ارمنستان ارسال کند</div>
-<div class="tg-footer">👁️ 3.11K · <a href="https://t.me/SBoxxx/17922" target="_blank">📅 22:25 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.18K · <a href="https://t.me/SBoxxx/17922" target="_blank">📅 22:25 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17921">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">ترامپ:
 همه کاملاً آگاه هستند که ایران موافقت خواهد کرد تا بازرسی‌های نظامی انجام شود تا «صداقت هسته‌ای» را برای مدت طولانی در آینده تضمین کند.</div>
-<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/SBoxxx/17921" target="_blank">📅 20:47 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.52K · <a href="https://t.me/SBoxxx/17921" target="_blank">📅 20:47 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17920">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">خوش‌چشم، کارشناس صداوسیما:
 آمریکا خودش تاسیسات ایران را نابود کرده است و حالا می‌گوید در بازسازی آن‌ها سرمایه‌گذاری می‌کند تا در سود این صنایع شریک شود/ به جای خسارت دادن می‌خواهند ایران را استعمار کنند و ۵۰ درصد سود صنایع ایران را کسب کنند</div>
-<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/SBoxxx/17920" target="_blank">📅 20:31 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/SBoxxx/17920" target="_blank">📅 20:31 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17919">
@@ -370,26 +370,26 @@
 <div class="tg-text">مرندی:
 🔻
 ایران قصد خرید کالاهای کشاورزی آمریکایی را ندارد و دیروز هیچ بحثی در مورد آمدن بازرسان آژانس بین‌المللی انرژی اتمی‌به ایران صورت نگرفت</div>
-<div class="tg-footer">👁️ 3.47K · <a href="https://t.me/SBoxxx/17919" target="_blank">📅 20:21 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/SBoxxx/17919" target="_blank">📅 20:21 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17918">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">تهران توافق برای اجازه ورود بازرسان هسته‌ای به ایران را تکذیب کرد  خبرگزاری تسنیم ایران گزارش‌های مربوط به یک پیشرفت بزرگ را رد کرد و گفت که هرگز به بازرسان آژانس بین‌المللی انرژی اتمی اجازه ورود داده نشده است و ترجیح می‌دهد که هرگز نیز چنین اجازه‌ای داده…</div>
-<div class="tg-footer">👁️ 3.44K · <a href="https://t.me/SBoxxx/17918" target="_blank">📅 20:19 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/SBoxxx/17918" target="_blank">📅 20:19 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17917">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XMoTuyRKyBcD6uqJHj4buXqvV1pgVMZgYi6E1Qrptgpw6o9gc37cp8LApYgx75akWQafNZysjsFskUoDAZ2P2G-k-MT9fU9MEJSqpMsSC3b1acKj2cdZa7KN4IlFbaWDR4tSoNQiRCGfjMK6Ji2TRiVqV9to5nzf5zfA5zB6Jzvdjeon7wzZwYmaZ8TEdM4zYxkMOxxu19dcy6w_k0LiVJlajKVgiEjWLQurxfz4tIIG5Q7EiVzZEGSwLpW8uO8gaiq69GmShVnokUfWmUz0PoTqnZsS2AtDB-4c3ha4OzSmK8eCAsxDzjdAqruOuN7QAfRLEYKNS56CzqOawxSj_Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همه ایران و انیران خواستار ابطال این پیمان هستند جز باقر!</div>
-<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/SBoxxx/17917" target="_blank">📅 19:46 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.58K · <a href="https://t.me/SBoxxx/17917" target="_blank">📅 19:46 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17916">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">خردمند کسی نیست که بتواند میان خوب و بد، خوب را برگزیند، بل کسی است که توان تمییز خوب از خوب تر و بد از بدتر داشته باشد.</div>
-<div class="tg-footer">👁️ 3.44K · <a href="https://t.me/SBoxxx/17916" target="_blank">📅 19:16 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/SBoxxx/17916" target="_blank">📅 19:16 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17914">
@@ -399,7 +399,7 @@
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/UnzoBQJjggwwzC54ao9K9eKFp0WEzVgAUEO2CuvHO2Gw8IUjH_38CJ7CK3CDrxHRnuWOYx0A4KIMHIbDdlbwS1aeEVXN3WUE9wiFf32n7Ss1Tb_H1JEqaj6VxWXLl8rGHSY0Ejnw8LH_tUatkjzIedTFgmaHhBCrIWxI2Dycv5PWz12e-OMSjNDMnIbggPwY_OK3O2kOFn73Ib6WAVZeyIyOuaccwcvNIGr6Oiaej9lVvK6HyIWUo06I5N0g8A_MuZSyWeKunH8zogcrnjendEMZWaAfjs2XGujr-Ttg27hSGZqHOPaZ4jejXVPjPYjd-NIXv27uSSxJNtAiwog8gA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">نمیگذاریم اسراییل بزرگ تشکیل بشود اما خودمان دنبال توران بزرگ هستیم و این نشان می‌دهد چقدر مادرقحبه هستیم.</div>
-<div class="tg-footer">👁️ 3.46K · <a href="https://t.me/SBoxxx/17914" target="_blank">📅 19:13 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/SBoxxx/17914" target="_blank">📅 19:13 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17913">
@@ -417,32 +417,32 @@
 ولی کو گوش،شنوا.
 #یدالله_کریمی_پور
 #karimipour_k</div>
-<div class="tg-footer">👁️ 3.32K · <a href="https://t.me/SBoxxx/17913" target="_blank">📅 18:53 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/SBoxxx/17913" target="_blank">📅 18:53 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17912">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jthiFr4yO3qwEZrcjxDoF4e8CDRvCEvBt9vxYKSVMDmiyY_FzmGqdvRII4i6l2ajYurdEGuWJJP7I676stfoII1d5DE4dPVnxrQPgzSV8gHve-lx2nFt-Sg_JMGnPsIZLnwPRiFp_ij7bInzxVMmGj7LBMfDjkYZOaERT83_fvh0rcCCePUL-F-CfeFO5GoKeh7MoFzxiYdxJwzGYjzI16io65hKJu7KvR6GyK-qQrmyEuqoz6T81grMPCCiP0wGgBAwW4-4Lmk6clIm0quXMureJI0H8A4rbQ_U9GddkHyBkLmbG7SQb8FiR52nRpD0P-EjKwZ4EOhrQXPG8aZCyg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معاون ترامپ: دارایی های بلوکه شده ایران عملاً صرف خرید سویا، ذرت و گندم آمریکایی خواهد شد  اگر هر کدام از دارایی‌های مسدودشدهٔ ایران آزاد شود، ما روی آن حق تأیید و نظارت داریم، قطری‌ها هم حق تأیید دارند</div>
-<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/SBoxxx/17912" target="_blank">📅 18:45 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/SBoxxx/17912" target="_blank">📅 18:45 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17911">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">تهران توافق برای اجازه ورود بازرسان هسته‌ای به ایران را تکذیب کرد  خبرگزاری تسنیم ایران گزارش‌های مربوط به یک پیشرفت بزرگ را رد کرد و گفت که هرگز به بازرسان آژانس بین‌المللی انرژی اتمی اجازه ورود داده نشده است و ترجیح می‌دهد که هرگز نیز چنین اجازه‌ای داده…</div>
-<div class="tg-footer">👁️ 3.41K · <a href="https://t.me/SBoxxx/17911" target="_blank">📅 18:30 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.42K · <a href="https://t.me/SBoxxx/17911" target="_blank">📅 18:30 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17910">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">معاون رئیس‌جمهور آمریکا ونس، درباره زمان شروع بازرسی‌های هسته‌ای: احتمالاً این هفته، حتی از امروز</div>
-<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/SBoxxx/17910" target="_blank">📅 18:29 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.52K · <a href="https://t.me/SBoxxx/17910" target="_blank">📅 18:29 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17909">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">انفجار در کارخانه گاز طبیعی مایع قطر؛ ۵۴ مجروح و ۱۸ مفقود  وقوع یک انفجار داخلی در مجتمع صنعتی راس‌لفان قطر که تأمین‌کننده یک‌پنجم گاز مایع (LNG) جهان است، ۵۴ مجروح برجای گذاشت و عملیات نجات برای یافتن ۱۸ مفقود همچنان ادامه دارد.</div>
-<div class="tg-footer">👁️ 3.38K · <a href="https://t.me/SBoxxx/17909" target="_blank">📅 18:19 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.39K · <a href="https://t.me/SBoxxx/17909" target="_blank">📅 18:19 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17908">
@@ -473,32 +473,32 @@
 مقدمات برگزاری نشست‌های خلیج فارس در دوره آینده برای بحث در مورد امنیت منطقه‌ای در حال انجام است.
 موضع اصولی قطر رد هرگونه تغییر در وضع موجود تنگه هرمز نسبت به آنچه قبل از جنگ بود، است.
 چشم‌انداز ما برای تنگه هرمز، باز بودن آن و آزادی عبور و مرور از آن است.</div>
-<div class="tg-footer">👁️ 3.44K · <a href="https://t.me/SBoxxx/17907" target="_blank">📅 16:22 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/SBoxxx/17907" target="_blank">📅 16:22 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17906">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pT6JZXdbNS-aQXEfnainQ4zTkxd-cI1lV8UAzqw4sIMYK33OjEKVQZ9zxR74g9wPpKdfHCe4VHyvE1rFiu-uZIjFPbuiiYTZ4k-p95wLLbsGnj5kaQvk8aK6JFuu8vtgZX0MKg3FgilXiIr8O5nrJ1Umrka8N5sJihaKBq5X8ytG8L85b8yiguMnthouejVM1ZJG1oWovy5b2xb9WSf9dzUn3cgk6Ht5fNSZ5FUKwr_8wtSNnB-Q6Bo4wcMR3pntHYBuBixBCa4rP7bNCE9OY_5Pb5FhEo5DegEpqwyMkiLOhf3sauF2uGAqByZmljXOqarXjSte-8Ru8IoQvw9BOA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاهش احتمال وقوع رکود اقتصادی در آمریکا به ۱۵ درصد پس از توافق با ایران طبق تحلیل موسسه گلدمن ساکس !</div>
-<div class="tg-footer">👁️ 3.58K · <a href="https://t.me/SBoxxx/17906" target="_blank">📅 15:47 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.59K · <a href="https://t.me/SBoxxx/17906" target="_blank">📅 15:47 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17905">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">معاون ترامپ: دارایی های بلوکه شده ایران عملاً صرف خرید سویا، ذرت و گندم آمریکایی خواهد شد  اگر هر کدام از دارایی‌های مسدودشدهٔ ایران آزاد شود، ما روی آن حق تأیید و نظارت داریم، قطری‌ها هم حق تأیید دارند</div>
-<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/SBoxxx/17905" target="_blank">📅 15:37 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.56K · <a href="https://t.me/SBoxxx/17905" target="_blank">📅 15:37 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17904">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">کار خدا را ببینید که پاکت زاده های بدافزار «بله» آمدند کانال مرا بستند حالا تلگرام آزاد شده و بعید نیست خود بله و روبیگا فیلتر شوند!  سبحان الله!</div>
-<div class="tg-footer">👁️ 3.56K · <a href="https://t.me/SBoxxx/17904" target="_blank">📅 15:32 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.57K · <a href="https://t.me/SBoxxx/17904" target="_blank">📅 15:32 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17903">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">جی دی ونس:  آنچه جرد کوشنر و قطری‌ها و کل تیم انجام دادند، به نظر من، یک توافق کلاسیک ترامپی است. اگر دارایی‌های ایران آزاد شود، کشاورزان آمریکایی را ثروتمندتر می‌کند و به تغذیه مردم ایران کمک خواهد کرد.</div>
-<div class="tg-footer">👁️ 3.71K · <a href="https://t.me/SBoxxx/17903" target="_blank">📅 15:31 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.75K · <a href="https://t.me/SBoxxx/17903" target="_blank">📅 15:31 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17902">
@@ -516,31 +516,31 @@
 «دیروز به ایرانی‌ها گفتیم وقتی وارد چیزی می‌شوید که نسل ما آن را "کری‌خوانی" می‌نامد، نباید انتظار داشته باشید ترامپ پاسخی ندهد.»
 ونس ادامه داد:
 «وقتی آنها حرف‌هایی می‌زنند که درست نیست، ترامپ هم به آن پاسخ خواهد داد.»</div>
-<div class="tg-footer">👁️ 3.7K · <a href="https://t.me/SBoxxx/17901" target="_blank">📅 14:58 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.71K · <a href="https://t.me/SBoxxx/17901" target="_blank">📅 14:58 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17900">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">معاون رئیس‌جمهور آمریکا ونس، درباره زمان شروع بازرسی‌های هسته‌ای: احتمالاً این هفته، حتی از امروز</div>
-<div class="tg-footer">👁️ 3.61K · <a href="https://t.me/SBoxxx/17900" target="_blank">📅 14:55 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.62K · <a href="https://t.me/SBoxxx/17900" target="_blank">📅 14:55 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17899">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">معاون رئیس‌جمهور آمریکا ونس، درباره زمان شروع بازرسی‌های هسته‌ای: احتمالاً این هفته، حتی از امروز</div>
-<div class="tg-footer">👁️ 3.78K · <a href="https://t.me/SBoxxx/17899" target="_blank">📅 14:49 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.79K · <a href="https://t.me/SBoxxx/17899" target="_blank">📅 14:49 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17898">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">معاون رئیس‌جمهور آمریکا ونس: ایرانی‌ها موافقت کرده‌اند که بازرسان آژانس بین‌المللی انرژی اتمی را بازگردانند</div>
-<div class="tg-footer">👁️ 3.77K · <a href="https://t.me/SBoxxx/17898" target="_blank">📅 14:43 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.78K · <a href="https://t.me/SBoxxx/17898" target="_blank">📅 14:43 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17897">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">معاون رئیس‌جمهور آمریکا ونس: ما پایه بسیار خوبی برای یک توافق نهایی موفق گذاشتیم</div>
-<div class="tg-footer">👁️ 3.94K · <a href="https://t.me/SBoxxx/17897" target="_blank">📅 14:39 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.95K · <a href="https://t.me/SBoxxx/17897" target="_blank">📅 14:39 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17896">
@@ -552,7 +552,7 @@
 <div class="tg-post" id="msg-17895">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">پس فرق این دوره ۶۰ روزه با بعدش این است که ممکن است بعدش آمریکا عوارض عبور بگیرد!  سبحان الله!</div>
-<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SBoxxx/17895" target="_blank">📅 14:06 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/SBoxxx/17895" target="_blank">📅 14:06 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17894">
@@ -626,13 +626,13 @@
 <div class="tg-post" id="msg-17887">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">گوستاوو پترو، رئیس‌جمهور کلمبیا، نتایج انتخابات این کشور را به رسمیت نمی‌شناسد و اسرائیل را به دستکاری در نرم‌افزار انتخاباتی کلمبیا متهم کرد</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/17887" target="_blank">📅 04:14 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/17887" target="_blank">📅 04:14 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17886">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">رییس جمهور چپگرا و معتاد کلمبیا امشب شکست خورد و جایش را به یک راست گرا داد.  قاره آمریکا در حال یک دست شدن است.</div>
-<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/17886" target="_blank">📅 04:14 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/17886" target="_blank">📅 04:14 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17885">
@@ -664,7 +664,7 @@
 <div class="tg-post" id="msg-17883">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">به نظرم تنگه هرمز را بدهیم بیرو ببندد و خودمان برویم تنگه مالاکا را ببندیم!  آبش را هم بدهیم آقای میثاقی بخورد!</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/17883" target="_blank">📅 00:54 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/17883" target="_blank">📅 00:54 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17882">
@@ -677,7 +677,7 @@
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ERwEG5KlWUwRQWWCSzJ4rYW1wObtKYiOUfgKe6ZnzC6-dM_ocGl5laFEleh7TH-Zs1oRj0he_1F6RC_r-J-YA6J6MxJPjERVNhPcGGJUeABDUpcoK1USsWDqAiG6G12YtIuD_PK3Rq9M4NdO75WTdevxEpyfiHzyWGa_6_Rp3-taE-sU12L2VYX0IZ7zajAOBfSG26_PE5pptl7DuHDvSde_5IOTqyak3oghsWlvD_k_Y0gFaPJ8HkqIwOjHVJ-MJYMZmw-mpZ9a-Uvw-XX8X61_ofE53xzJxuvUVrH1g1Oehltj4eohp1flSOgq5tSDMcMNBsbcbqApgPjNXkRBEQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">امشب تاکتیک های ناشناخته ای رو کردیم که سبحان الله!  انصافا بیرو عالی بود و ثابت کرد یک گلر خوب می‌تواند یک تیم نابود را نجات بدهد!</div>
-<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SBoxxx/17881" target="_blank">📅 00:49 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SBoxxx/17881" target="_blank">📅 00:49 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17880">
@@ -726,7 +726,7 @@
 <div class="tg-text">🇶🇦
 🇧🇭
 — گزارش‌هایی از انفجار در قطر و بحرین.</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/17875" target="_blank">📅 23:24 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/17875" target="_blank">📅 23:24 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17874">
@@ -990,7 +990,7 @@ USD
 <div class="tg-post" id="msg-17843">
 <div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">حسین شریعتمداری: مسئولان نظام برای بازگرداندن  بحرین به سرزمین اصلی ایران اقدام کنند  حسین شریعتمداری نوشت: «هموطنان بحرینی‌مان بارها اعلام کرده‌اند که خواستار پیوستن به ایران یعنی وطن اصلی خود هستند و انتظار آن است که مسئولان دست‌اندر‌کار نظام این خواسته…</div>
-<div class="tg-footer">👁️ 4.09K · <a href="https://t.me/SBoxxx/17843" target="_blank">📅 11:30 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/SBoxxx/17843" target="_blank">📅 11:30 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-17842">

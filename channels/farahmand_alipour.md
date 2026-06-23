@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 62.9K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-02 02:28:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-02 03:38:14</div>
 <hr>
 
 <div class="tg-post" id="msg-5704">
@@ -305,7 +305,7 @@
 </div>
 <div class="tg-text">‏ترامپ:
 ‏اگر ایران به توافق خود پایبند نباشد یا رفتار مناسبی نداشته باشد، من کاری را که لازم باشد انجام خواهم داد.</div>
-<div class="tg-footer">👁️ 7.86K · <a href="https://t.me/farahmand_alipour/5704" target="_blank">📅 23:51 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.38K · <a href="https://t.me/farahmand_alipour/5704" target="_blank">📅 23:51 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5703">
@@ -316,7 +316,7 @@
 از مهم‌ترین خواست‌های جمهوری اسلامی موضوع لبنان است و خروج ارتش اسرائیل و بازگشت شیعیان به جنوب لبنان.
 🔺
 وجود بیش از یک میلیون آواره شیعه، فشار سنگین اقتصادی و روانی بر جمهوری اسلامی در لبنان ایجاد کرده.</div>
-<div class="tg-footer">👁️ 8.82K · <a href="https://t.me/farahmand_alipour/5703" target="_blank">📅 23:42 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.3K · <a href="https://t.me/farahmand_alipour/5703" target="_blank">📅 23:42 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5702">
@@ -332,7 +332,7 @@
 باید برای خرید مواد غذایی باشه
 و فقط هم باید از محصولات کشاورزی
 آمریکا باشه از کشاورزان آمریکا.</div>
-<div class="tg-footer">👁️ 9.31K · <a href="https://t.me/farahmand_alipour/5702" target="_blank">📅 23:39 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.79K · <a href="https://t.me/farahmand_alipour/5702" target="_blank">📅 23:39 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5701">
@@ -351,7 +351,7 @@
 🔸
 در پی بازداشت ده‌ها زن و دختر در هرات به اتهام رعایت نکردن پوشش مورد نظر طالبان، اعتراضاتی در ولسوالی انجیل شکل گرفت که به گفته یوناما با سرکوب خشونت‌آمیز مواجه شد و دست‌کم دو نفر کشته و بیش از ۲۰ نفر زخمی شدند.
 @RadioFarda</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/farahmand_alipour/5701" target="_blank">📅 20:57 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/farahmand_alipour/5701" target="_blank">📅 20:57 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5700">
@@ -360,7 +360,7 @@
 <div class="tg-text">این درآمدها هیچ وقت برای مردم ایران نبوده
 هر جا پولی رد بشه، خودشون اونجا
 قرارگاهی زدن و پول رو میزنن به جیب خودشون.</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/farahmand_alipour/5700" target="_blank">📅 20:49 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/farahmand_alipour/5700" target="_blank">📅 20:49 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5699">
@@ -374,7 +374,7 @@
 باید با «بازرسی‌های تسلیحاتی»
 هم موافقت کنه!
 «همه کاملاً می‌دونن که جمهوری اسلامی با انجام بازرسی‌های گسترده تسلیحاتی موافقت خواهد کرد تا برای سال‌های طولانی از «صداقت هسته‌ای» اطمینان حاصل بشه.»</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/farahmand_alipour/5699" target="_blank">📅 20:45 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/farahmand_alipour/5699" target="_blank">📅 20:45 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5694">
@@ -387,7 +387,7 @@
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TYnfPFsRRGpKzNNfc8YAodSzpW0H_a4thhaeJ_XXbdUtteXIyJye54Rvd0MhzD5SIhc_I_4ReovGtP9fdpMdQG_T6SXAOJCSQhJDXf0FPepfXTQTuIdkaVtZkgyFia6jPmu_zSkL2siOFaRRmhMX0IRz5Wq9itjlC4FyOVDD4LGYiiEu-hXgZ6xEDzhObUaQRsYEjIieVIZmSY8oPHs9FUt3SXTII_D-bFZWAZiXWxSSorVS4e_K6MO042IcPNZznsnbIa07XJvLMYhdT_HWMSnRNGgbFbXLsvzNsehd8J1UdkbieK68wEqaWYsUzoYsNArgmdkkh1KGcgOSLSoUVw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">روایت یک جراح از سلاخی بی‌صدای سیستم درمان در روزهای جنگ</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/5694" target="_blank">📅 20:03 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/farahmand_alipour/5694" target="_blank">📅 20:03 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5693">
@@ -398,7 +398,7 @@
 ‏یک کارگروه درباره پرونده هسته‌ای تشکیل شده است که بلافاصله پس از اجرای کامل بند ۱۳ توافق توسط ایالات متحده، کار خود را آغاز خواهد کرد.
 ‏ما با قطر توافقی درباره آزادسازی دارایی‌های بلوکه‌شده ایران امضا کرده‌ایم.
 ‏ما اسنادی از ایالات متحده دریافت کرده‌ایم که به ما اجازه می‌دهد به مدت ۶۰ روز نفت، گاز و محصولات پتروشیمی را بدون تحریم به فروش برسانیم.»</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/5693" target="_blank">📅 15:00 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/farahmand_alipour/5693" target="_blank">📅 15:00 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5692">
@@ -409,7 +409,7 @@
 ‏امضای یادداشت تفاهم میان ایران و قطر دربارهٔ اجرای آزادسازی دارایی‌های بلوکه‌شدهٔ ایران
 ‏· وزارت خزانه‌داری آمریکا (OFAC) معافیت‌های ۶۰ روزه برای نفت و پتروشیمی صادر کرد
 ‏· تشکیل سه کمیته (هسته‌ای، تحریم‌ها و نظارت) برای مذاکرات ۶۰ روزه/انتخاب</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5692" target="_blank">📅 12:38 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/5692" target="_blank">📅 12:38 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5691">
@@ -434,7 +434,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Pnzq-SJCeK5iUsRqrtzeIl9PiPEA8q3oSzYdnbVRLY80icvC_4LTQciHrnV9pRKte7WeyE-jBbb7S46Bhhx8Tuf25UUn-H8UrM2QSzbH9tgN7ATXL_hE8NlfaCv8jXLQ-QZlxogfOW5npf4VGrKBt4wovK8rC7H3y4Aak66zjJteOhkmZQGcBL0iyKnTau4tjoTyYssEh_wu5vzDhg_G47-vDe4dl1y58G3MUmn-zfxX0DCeTHV6yT4SSVYNg9lOZM0NYQxG1q3YwJpqAgiFwQ6A0qSXw5dtPjrVLT2DRu2pTeto4sAKY1rDdAdPhW5d20-XCq0zuWNuZ0o8rtW-jg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 گزارشی از شنیده شدن صدای یک انفجار قدرتمند در دوحه پایتخت قطر</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/farahmand_alipour/5690" target="_blank">📅 23:31 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/farahmand_alipour/5690" target="_blank">📅 23:31 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5689">
@@ -456,7 +456,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KkWDD8rY5G4nSdXYwW2TdbC0X93oyNnIstH5hwDH2iyhDhujGBIqXTR5dvrDHfL-1VY8eXjMxUgsCwIPnIm8pS-k0Ep-BPMRDrvRlCR9A6-wz68Q_L-TbBs9QIZbLCQ3EEC9g2LQKU-VbssvD2Wq7o2i8ynJqXx1m7A83swoqqK0tWd2augq-dLFWjH2OmGpTbvdljlCgh0E1iJKIZoSykjf3Sv6urKo88iH9asobAHH6kUKZWBD1EEcRqTWpjKBtAxRtydDRWlFfLApnE4l7xaFLFa_ux9TPAmMtN2tHmY0rIbobhpMzGU0EEP3ZnuVpoZeV1v_qOJONCxpVnzhoA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پاکستان و قطر از ترامپ خواستن
 یک توییت بزنه تا دل شغال طرقبه راضی بشه.</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/farahmand_alipour/5687" target="_blank">📅 22:43 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/5687" target="_blank">📅 22:43 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5686">
@@ -478,7 +478,7 @@
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OgZCQD9qze35xAC_36bLogtEauZ6N1SEgu836PTasnYYXXXT2JNueq2TD87unYjmr4Nzb1mVhnKdQuKuTbc5EKGn4P5r8LgVUwpEeRinHzZ29ec2W1Owj_sCnTbxGXV6bVOZW_ib6aIDX2kXFfvC8BKhv4LpCYb9HUf849Azu5P3nIVdlkw1pwmUy8D_QBcKM2HzhErijIRKb0UduCB0IumIRCPtvQHOg_w2KTstDiXIeerNDptoPn06JstLmDuw0ymIdCnA2Ft2iv8f7CnD3Tq3-Ali0P3xVKYof7sWRTD8rk3Vludcb6tBqMywKSsC6HHz6PMPbzlui-tN5Wbinw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فعلا درخواست یک توییت از ترامپ دادن</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/farahmand_alipour/5684" target="_blank">📅 21:19 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/farahmand_alipour/5684" target="_blank">📅 21:19 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5683">
@@ -596,7 +596,7 @@
 ۱.۱ درصد بودجه کالیفرنیا!
 ولی حجم کمک جمهوری اسلامی به حزب الله میشه ۷ برابر بودجه استان خوزستان!
 ۱۲ برابر بودجه آذربایجان شرقی!</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/5673" target="_blank">📅 12:55 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/farahmand_alipour/5673" target="_blank">📅 12:55 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5672">
@@ -615,7 +615,7 @@
 بودجه استان سیستان و بلوچستان  ۱۲۶ میلیون دلار
 و بودجه آذربایجان شرقی
 ۸۴ میلیون دلاره.</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/farahmand_alipour/5671" target="_blank">📅 12:42 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/farahmand_alipour/5671" target="_blank">📅 12:42 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5670">
@@ -630,7 +630,7 @@
 و بالاخره پذیرفتند!
 حزب الله پول و سلاحش رو از جمهوری اسلامی میگیره، نه از دولت لبنان، برای همین این دستاورد هم باید میرفت برای صاحب کارش!
 به قیمت کشته شدن ۵۴۱ نفر بیشتر!</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/5670" target="_blank">📅 11:24 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/5670" target="_blank">📅 11:24 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5669">
@@ -676,7 +676,7 @@
 در زیر این کوه جمهوری اسلامی شبکه‌ای گسترده از تونل‌ها ایجاد کرده بود، هم برای انبار کردن موشک و اسلحه، هم برای حمله
 به شمال اسرائیل و هم اینکه یک مقر فرماندهی و پناهگاه امن برای نیروهای تروریست‌های حزب‌الله بود.
 ارتش اسرائیل تخمین میزند که هم اینک در این تونل‌ها، ده‌ها، با شاید صدها نیروی حزب‌الله گیر افتاده باشند.</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/5667" target="_blank">📅 10:30 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/5667" target="_blank">📅 10:30 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5664">
@@ -718,7 +718,7 @@
 <br>
 <a href="https://cdn4.telesco.pe/file/f28d8f2fab.mp4?token=t3IuJPwvvZJI4khiTaEW99SgNC411zdFEV-VfBPzSU42-WfA6cQqzQag4iXGF5xjTC-yCEN3Bx-PRTaxjf6dF8Fy4EHpJJR6X0VgLfg7amnBmrbW-GkHlxBqqFA8R-JJpNZ51qt9BVgD8MWStLo91v1cD2BL1Ck8n-OMMiaeRAxvR4RPRcLqC_trTdG9F-Q7O1sJIZfYeFNVEUcAx-2TjwoZzs0IBnNH5zGZ8Pd7ARCkCPkKTfcDtPPAXrHK0w1toKrslvRK4Hwf-sAWE-53EHxAtXRUA8YUI5AI3WfdF8oApRnQA0oTV9eagLWX5Rc1otaUewzLyOTcbvfmEeaAGQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/farahmand_alipour/5661" target="_blank">📅 23:07 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/farahmand_alipour/5661" target="_blank">📅 23:07 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5660">
@@ -772,7 +772,7 @@
 🚨
 جمهوری اسلامی در حمایت از تروریست‌های حزب‌الله لبنان، تنگه هرمز را بست.
 اینها دیگه راه گردنه گیری و گروگانگیری رو یاد گرفتن.</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/farahmand_alipour/5655" target="_blank">📅 16:42 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/farahmand_alipour/5655" target="_blank">📅 16:42 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5654">
@@ -1246,7 +1246,7 @@
 <div class="tg-text">‏جی دی ونس:
 ‏ دورهٔ ۶۰ روزه رسماً از امروز آغاز شد.
 توافق از دیروز شروع شده است، اما ما شمارش معکوسِ ۶۰ روزه را از امروز آغاز می‌کنیم.</div>
-<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/farahmand_alipour/5609" target="_blank">📅 19:51 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/farahmand_alipour/5609" target="_blank">📅 19:51 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5608">
