@@ -292,28 +292,28 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیلinstagram.com/yasharhttps://X.com/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-02 03:38:14</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-02 08:07:29</div>
 <hr>
 
 <div class="tg-post" id="msg-15642">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">https://t.me/boost/withyashar
 یه لول اومدیم پایین ایموجی کم شد لطفا اگر کاربر پرمیوم هستید بوست کنید و اگه نیستید از دوستانتون که هستند درخواست کنید بوست کنند</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/withyashar/15642" target="_blank">📅 02:02 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 37.9K · <a href="https://t.me/withyashar/15642" target="_blank">📅 02:02 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15641">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">@withyashar
 FPV  آتش بس و</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/withyashar/15641" target="_blank">📅 01:50 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/withyashar/15641" target="_blank">📅 01:50 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15640">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">@withyashar
 شصت روز سنگین</div>
-<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/withyashar/15640" target="_blank">📅 01:17 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/withyashar/15640" target="_blank">📅 01:17 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15639">
@@ -331,7 +331,7 @@ FPV  آتش بس و</div>
 خب، آن‌ها قرار نیست این کار را بکنند، قربان. خواهیم دید، اما قرار است پول را برای خرید غذا برای مردمشان استفاده کنند، چون در حال حاضر مردمشان خیلی گرسنه هستند و آن را فقط از ما می‌خرند — ذرت، سویا.
 تباید پول زیادی باشد. امیدوارم پول زیادی باشد.
 @withyashar</div>
-<div class="tg-footer">👁️ 54.1K · <a href="https://t.me/withyashar/15639" target="_blank">📅 00:07 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 66.1K · <a href="https://t.me/withyashar/15639" target="_blank">📅 00:07 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15638">
@@ -339,27 +339,27 @@ FPV  آتش بس و</div>
 <div class="tg-text">ترامپ: اگر ایران به توافق خود پایبند نباشد یا رفتار مناسبی نداشته باشد، من آنچه باید انجام دهم را انجام خواهم داد
 با یک تماس تلفنی میتوانم محاصره را برگردانم
 @withyashar</div>
-<div class="tg-footer">👁️ 54.8K · <a href="https://t.me/withyashar/15638" target="_blank">📅 00:00 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.9K · <a href="https://t.me/withyashar/15638" target="_blank">📅 00:00 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15637">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">ترامپ: هیچ‌کس نمی‌خواهد رئیس‌جمهور ایران شود. @withyashar</div>
-<div class="tg-footer">👁️ 55.8K · <a href="https://t.me/withyashar/15637" target="_blank">📅 23:56 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 66.3K · <a href="https://t.me/withyashar/15637" target="_blank">📅 23:56 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15636">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">قالیباف: اگر به سوئیس نمی‌رفتیم، هر لحظه خون بیشتری از مسلمانان و شیعیان لبنان ریخته می‌شد
 @withyashar</div>
-<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/withyashar/15636" target="_blank">📅 23:54 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.9K · <a href="https://t.me/withyashar/15636" target="_blank">📅 23:54 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15635">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">ترامپ: هیچ‌کس نمی‌خواهد رئیس‌جمهور ایران شود.
 @withyashar</div>
-<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/withyashar/15635" target="_blank">📅 23:53 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.8K · <a href="https://t.me/withyashar/15635" target="_blank">📅 23:53 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15634">
@@ -367,7 +367,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">خبرنگار: نتانیاهو می‌گوید نیروهایش لبنان را ترک نمی‌کنند
 ترامپ: ما قرار است به این موضوع نگاهی بیندازیم. من یک حل‌کننده مشکل هستم؛ می‌توانم مشکلات را سریع حل کنم، از جمله با بیبی.
 @withyashar</div>
-<div class="tg-footer">👁️ 56.3K · <a href="https://t.me/withyashar/15634" target="_blank">📅 23:50 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 66.1K · <a href="https://t.me/withyashar/15634" target="_blank">📅 23:50 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15633">
@@ -375,32 +375,32 @@ FPV  آتش بس و</div>
 <div class="tg-text">ترامپ: «تا زمانی که ایران به ما احترام بگذارد نمی‌خواهم از واژه “ترس” استفاده کنم چون مناسب نیست تا وقتی به ما احترام بگذارد، ما هیچ مشکلی نخواهیم داشت.
 ما کنترل کامل تنگه را در اختیار داریم.»
 @withyashar</div>
-<div class="tg-footer">👁️ 55.5K · <a href="https://t.me/withyashar/15633" target="_blank">📅 23:50 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.2K · <a href="https://t.me/withyashar/15633" target="_blank">📅 23:50 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15632">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">قالیباف در سفر به مسقط: در سوئیس توافق کردیم تا 12 میلیارد دلار پول مسدود شده ایران آزاد شود.
 @withyashar</div>
-<div class="tg-footer">👁️ 57.3K · <a href="https://t.me/withyashar/15632" target="_blank">📅 23:39 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/withyashar/15632" target="_blank">📅 23:39 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15631">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">‏زنده‌یاد⁧ مانوک خدابخشیان  ⁩: چه کسی می‌خوهد این رژیم را براندازی کند؟ چه کسی می‌خواهد پایه‌های این رژیم را اره کند؟
 @withyashar</div>
-<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/withyashar/15631" target="_blank">📅 23:07 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 72.4K · <a href="https://t.me/withyashar/15631" target="_blank">📅 23:07 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15630">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/withyashar/15630" target="_blank">📅 23:04 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69.6K · <a href="https://t.me/withyashar/15630" target="_blank">📅 23:04 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15629">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">شبکه 14 اسرائیل که به نتانیاهو نزدیکه، مدعی شده ایران از یک «سلاح الکترومغناطیسی با فرکانس پایین» برای تأثیر گذاشتن روی تصمیم‌های ترامپ استفاده می‌کنه!   می‌دانم این حرف طوری به نظر می‌رسد که انگار از یک فیلم علمی‌تخیلی آمده، اما واقعاً وجود دارد و همین حالا…</div>
-<div class="tg-footer">👁️ 65.8K · <a href="https://t.me/withyashar/15629" target="_blank">📅 22:50 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/withyashar/15629" target="_blank">📅 22:50 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15628">
@@ -409,7 +409,7 @@ FPV  آتش بس و</div>
 امشب دوباره با ارتش اطمینان حاصل خواهیم کرد که دستورالعمل‌های کابینه برای هر مبارز روشن شده است
 ارتش مجاز است هر تروریستی که در منطقه زرد شناسایی شده است و علیه هر تهدید واضح حتی فراتر از آن، ضربه بزند.
 @withyashar</div>
-<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/withyashar/15628" target="_blank">📅 22:44 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 71.8K · <a href="https://t.me/withyashar/15628" target="_blank">📅 22:44 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15627">
@@ -417,7 +417,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">وال‌استریت ژورنال:
 ترامپ این هفته با رهبران پنتاگون و پیمانکاران بزرگ دفاعی دیدار خواهد کرد تا برای سرعت بیشتر تولید موشک و مهمات فشار آورد
 @withyashar</div>
-<div class="tg-footer">👁️ 66.7K · <a href="https://t.me/withyashar/15627" target="_blank">📅 22:40 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 72K · <a href="https://t.me/withyashar/15627" target="_blank">📅 22:40 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15626">
@@ -425,14 +425,14 @@ FPV  آتش بس و</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/wAHgLQ79xrnCf6SAVB3hp9kMs3Qq3iqsfyaXH5EaYyGNtF4xRJhqYElUKdtcqnqKA1_iysM-lKt-zzNG99CgeDurRBK4X7zJ0eaDGu6YY33FPIA7yaxRcGexvIVtOI_PdoqZkPl7-xkDtbJ-0eqFGqHVKXm5DId6n0R4fxPhkyLGTjAtzaLGTeDImWs98dc9G58ie1PvHDsuXRSwV-9piCh4A_Cdtn7-XIlk_QdRziVgC89rujseElLTMZN5usyFhgeRn5DD4DDGa36_a7EGdKpLLJHxLuk5lvUyS2I3t9JjHcigWq5EA3OD9LvKALrARc8c8zYbKZULJtZNq6tYbg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هواپیمای ممباقر (هیئت جمهوری اسلامی) همکنون در مسقط عمان به زمین نشست.
 @withyashar</div>
-<div class="tg-footer">👁️ 69.9K · <a href="https://t.me/withyashar/15626" target="_blank">📅 22:19 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.6K · <a href="https://t.me/withyashar/15626" target="_blank">📅 22:19 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15625">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">ونس معاون ترامپ لحظاتی پیش سوئیس را به مقصد آمریکا ترک کرد
 @withyashar</div>
-<div class="tg-footer">👁️ 71K · <a href="https://t.me/withyashar/15625" target="_blank">📅 21:41 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.3K · <a href="https://t.me/withyashar/15625" target="_blank">📅 21:41 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15624">
@@ -447,7 +447,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">قالیباف با تقلید از ترامپ دم توالت هواپیما
 : حاکمیت ملی لبنان بر تمامیت سرزمین خودش انشاله در این گفتگوها به نتیجه نهایی می‌رسد و تا به نتیجه نرسد، رهایشان نخواهیم کرد
 @withyashar</div>
-<div class="tg-footer">👁️ 76.6K · <a href="https://t.me/withyashar/15624" target="_blank">📅 21:01 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.4K · <a href="https://t.me/withyashar/15624" target="_blank">📅 21:01 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15623">
@@ -455,7 +455,7 @@ FPV  آتش بس و</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NOf-Nq-xoyFwcYCX3kWzE_JGbxiNmhupVqe-kF8SLKSRfYu-J0Z2z26RUqWPXeH-uAqHwbg2Sh1r94Tzbkt8YZgtMrbWlG_GyVyYPTA9mLJ1cVW3vNcNeaUbKJ67kMm-pLhfjH_6W7CZ-DAHSOBCky8Rjyof0VAA635zut6F28oyz-ze_6My3GxK9kivroijWX6hu5JoSFTqUd2ATN0IHZqI35thLN_cRmqBOB0zHEUR8-BYmehuSa0iSirErGZWR3kMcPVGq7UlYopBt7Rel1KsXC5JAMCcHhD0hqOyBr00uB7Anleet6Xg10MWreYR1G3CBD4LRfsZ0TrQDzjfcw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ در تروث : همه کاملاً آگاه هستند که ایران برای تضمین «صداقت هسته‌ای» در آینده، با بازرسی‌های گسترده تسلیحاتی موافقت خواهد کرد. رئیس جمهور دونالد جی. ترامپ
 @withyashar</div>
-<div class="tg-footer">👁️ 76.6K · <a href="https://t.me/withyashar/15623" target="_blank">📅 20:29 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79K · <a href="https://t.me/withyashar/15623" target="_blank">📅 20:29 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15622">
@@ -465,14 +465,14 @@ FPV  آتش بس و</div>
 روسیه این فناوری رو داره، چین هم داره و ایران هم بهش دست پیدا کرده.
 باور کنید یا نه، از من خواسته‌اند این کار را انجام دهم و من هم روی آن کار می‌کنم
 @withyashar</div>
-<div class="tg-footer">👁️ 80K · <a href="https://t.me/withyashar/15622" target="_blank">📅 20:22 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.5K · <a href="https://t.me/withyashar/15622" target="_blank">📅 20:22 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15621">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">مرندی: ایران قصد خرید کالاهای کشاورزی آمریکایی را ندارد و دیروز هیچ بحثی در مورد آمدن بازرسان آژانس بین‌المللی انرژی اتمی به ایران صورت نگرفت. تبلیغات غربی را نادیده بگیرید
 @withyashar</div>
-<div class="tg-footer">👁️ 75.3K · <a href="https://t.me/withyashar/15621" target="_blank">📅 20:16 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.5K · <a href="https://t.me/withyashar/15621" target="_blank">📅 20:16 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15620">
@@ -480,7 +480,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">شاهزاده رضا پهلوی در اکس : در حالی که فیفا تلاش می‌کند پرچم شیر و خورشید را از ورزشگاه‌ها دور نگه دارد، هزاران ایرانی در ورزشگاه سوفای ثابت کردند که نماد واقعی ایران را نمی‌توان ممنوع کرد.
 دفتر شاهزاده پهلوی افزود صدای مخالفان جمهوری اسلامی در جام جهانی بیش از هر زمان دیگری شنیده می‌شود.
 @withyashar</div>
-<div class="tg-footer">👁️ 81.3K · <a href="https://t.me/withyashar/15620" target="_blank">📅 18:55 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.9K · <a href="https://t.me/withyashar/15620" target="_blank">📅 18:55 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15619">
@@ -490,21 +490,21 @@ FPV  آتش بس و</div>
 تعامل ایران با آژانس بین‌المللی انرژی اتمی طبق روال جاری و منطبق با مصوبات قانونی ادامه می‌یابد.
 بنا بر اعلام منابع مطلع، در مذاکرات ۱۸ ساعته دیروز در سوئیس، هیچ مذاکره‌ای درباره پرونده هسته‌ای انجام نشده و تعهد جدیدی از سوی ایران پذیرفته نشده است.
 @withyashar</div>
-<div class="tg-footer">👁️ 80.8K · <a href="https://t.me/withyashar/15619" target="_blank">📅 18:52 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.3K · <a href="https://t.me/withyashar/15619" target="_blank">📅 18:52 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15618">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">طبق اخبار درز کرده این معافیت تحریمی نفت ایران در ازای بازرسی آژانس از تأسیسات هسته‌ای ایرانه.
 @withyashar</div>
-<div class="tg-footer">👁️ 80.2K · <a href="https://t.me/withyashar/15618" target="_blank">📅 18:24 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.5K · <a href="https://t.me/withyashar/15618" target="_blank">📅 18:24 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15617">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">نتانیاهو: تا زمانی که لازم باشد در منطقه امنیتی جنوب لبنان خواهیم ماند
 @withyashar</div>
-<div class="tg-footer">👁️ 80.9K · <a href="https://t.me/withyashar/15617" target="_blank">📅 17:31 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82K · <a href="https://t.me/withyashar/15617" target="_blank">📅 17:31 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15616">
@@ -512,7 +512,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">وزارت خزانه‌داری ایالات متحده رسماً معافیت تحریم ۶۰ روزه‌ای برای نفت، محصولات پتروشیمی و گاز ایران صادر کرده است
 این معافیت اکنون تا ۲۱ اوت معتبر است و ممکن است تا زمانی که مذاکرات ادامه دارد و توافق نهایی حاصل شود، تمدید شود.
 @withyashar</div>
-<div class="tg-footer">👁️ 80.6K · <a href="https://t.me/withyashar/15616" target="_blank">📅 17:18 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.7K · <a href="https://t.me/withyashar/15616" target="_blank">📅 17:18 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15615">
@@ -520,7 +520,7 @@ FPV  آتش بس و</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TDw1c30AeJACZj4sX_qSXMvQwJDB4SE6Botdydgqjs1TV3dCK7YQJvj0HJJ2bjVQjQ2dVFQyJqf2TVqNcl3MuDFVwNxnR_BzZOUQmII1wWISwZ1Vi4xP-J7cjXRVE1RsYNz-REwuLNHXZxqwal68o9c1r-IXLtPFV0ddu9dJp_cazFbuP27ToHWiQzAhybzbypTVFr_zEzZPS8n99-4rvZ_vgC_KSHGkZsCHRJvzR9a-V5CNttAwMBnwZj2LnLVNVYdpkZ-vuDVYnSGqFLeJtCCuTFEkifQv4jalzEXKuFORnIx3x7o9Y7ho-vUf6TBxxdW1i34o3qCdTI_xllbZmQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">الان بمباران توپخانه اسرائیل منطقه المشعع منصوری و منطقه بیوت السیاد در جنوب لبنان را هدف قرار داده است.‌‌
 @withyashar</div>
-<div class="tg-footer">👁️ 80K · <a href="https://t.me/withyashar/15615" target="_blank">📅 17:05 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81K · <a href="https://t.me/withyashar/15615" target="_blank">📅 17:05 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15614">
@@ -528,14 +528,14 @@ FPV  آتش بس و</div>
 <div class="tg-text">فاکس نیوز: ایران متعهد شده است که به آژانس بین المللی انرژی اتمی و بازرسانش اجازه دهد تا به ایران بازگردند تا بر روی مکان یابی و برچیدن تاسیسات هسته ای کلیدی کار کنند.
 معاون رئیس جمهور ونس توانست به چارچوبی دست یابد که از بودجه مسدود شده ایران برای خرید محصولات کشاورزی آمریکا برای ایران استفاده کند و این محصولات شامل سویا، ذرت و گندم آمریکایی است.
 @withyashar</div>
-<div class="tg-footer">👁️ 75.3K · <a href="https://t.me/withyashar/15614" target="_blank">📅 17:03 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 76.3K · <a href="https://t.me/withyashar/15614" target="_blank">📅 17:03 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15613">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">العربیه:وزارت خزانه‌داری آمریکا مجوز عمومی‌ای صادر کرد که اجازه می‌دهد واردات نفت خام ایران به مدت دو ماه انجام شود
 @withyashar</div>
-<div class="tg-footer">👁️ 73.6K · <a href="https://t.me/withyashar/15613" target="_blank">📅 16:57 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.8K · <a href="https://t.me/withyashar/15613" target="_blank">📅 16:57 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15612">
@@ -543,7 +543,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">طوفان در راه تهران
 سازمان مدیریت بحران: مناطق نیمهٔ جنوبی، غربی، مرکزی و ارتفاعات تهران در معرض وزش بادهای شدید و گاهی بسیار شدید قرار دارند و احتمال وقوع طوفان در این مناطق از اواخر امروز تا روز پنجشنبه بسیار زیاد است.
 @withyashar</div>
-<div class="tg-footer">👁️ 76.3K · <a href="https://t.me/withyashar/15612" target="_blank">📅 16:35 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.7K · <a href="https://t.me/withyashar/15612" target="_blank">📅 16:35 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15611">
@@ -557,7 +557,7 @@ FPV  آتش بس و</div>
 </div>
 <div class="tg-text">ترافیک قابل مشاهده در تنگه هرمز نشان می‌دهد که حداقل ۲۴ کشتی در ۲۴ ساعت گذشته عبور کرده‌اند که همه آنها به جز یک کشتی با استفاده از طرح تفکیک ترافیک ایران قابل مشاهده بودند. به احتمال زیاد تعداد عبور و مرورها بیشتر از آنچه نشان داده شده است ، زیرا بعضی کشتی‌ها سیستم شناسایی خودکار خود را برای عبور خاموش  می کنند
 @withyashar</div>
-<div class="tg-footer">👁️ 76.3K · <a href="https://t.me/withyashar/15611" target="_blank">📅 16:28 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78K · <a href="https://t.me/withyashar/15611" target="_blank">📅 16:28 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15610">
@@ -565,7 +565,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">معاون رئیس جمهور آمریکا ونس: ایران با ورود بازرسان هسته‌ای در این هفته موافقت کرد
 🚨
 @withyashar</div>
-<div class="tg-footer">👁️ 71.2K · <a href="https://t.me/withyashar/15610" target="_blank">📅 16:23 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 72K · <a href="https://t.me/withyashar/15610" target="_blank">📅 16:23 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15609">
@@ -573,7 +573,7 @@ FPV  آتش بس و</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YLDi6UnW8u74sx-GyFl6y5m9rp7H-jG09FZn8n4bJTtWpbDAQYAnUCa4r7ToQRvEgFozUlsXlj7_11se7mExyj4SVQLt039wF344xXC19uBk34JhqFSZeP2V0iasG7fD3V2wzhsn6MGhsWtS0K4Ocz2fOTgG-iVr7R9dhz1saJWcM39DQB7Q-1g4bEGMB_aXDsMGYOJy1zdk-J2qRTUwxq6dGuyVlPOOS8RneSga_PvYoE841BrGVKxEZSlXlAtpXL4-x1TZGIX6eFMHEvGOuZf0IWj0uz47Y-2YBFWTP_rePKQcTOjqMG3Oti3TGpydnHChz_5VM1O7-U2wi5ljAg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اتاق جنگ با یاشار : یا هر روز به جون هم میفتیم و به هم فحش میدیم و جونیمون میره یا همه باهم متحد میشیم و این وضعیت رو تموم میکنیم
 @withyashar</div>
-<div class="tg-footer">👁️ 76.6K · <a href="https://t.me/withyashar/15609" target="_blank">📅 15:40 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.3K · <a href="https://t.me/withyashar/15609" target="_blank">📅 15:40 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15608">
@@ -588,7 +588,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">رسایی : یا در مجلس را باز می کنند یا جلوی مجلس جلسه برگزار می کنیم مردمم ببینند
 @withyashar
 🤣</div>
-<div class="tg-footer">👁️ 70.8K · <a href="https://t.me/withyashar/15608" target="_blank">📅 15:37 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 71.4K · <a href="https://t.me/withyashar/15608" target="_blank">📅 15:37 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15607">
@@ -596,13 +596,13 @@ FPV  آتش بس و</div>
 <div class="tg-text">دوحه: دیدار وزرای خارجه قطر و فرانسه در سوئیس با محوریت مذاکرات ایران و آمریکا
 هدف از این گفت‌وگوها دستیابی به راهکار‌هایی برای حل مسائل باقی مانده است
 @withyashar</div>
-<div class="tg-footer">👁️ 68.9K · <a href="https://t.me/withyashar/15607" target="_blank">📅 15:26 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69.5K · <a href="https://t.me/withyashar/15607" target="_blank">📅 15:26 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15606">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">جی دی ونس: معامله نهایی، خانه است. ما فونداسیون را بنا نهادیم. ما خانه را نساخته‌ایم، اما فونداسیون موفقی بنا نهادیم. @withyashar</div>
-<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/withyashar/15606" target="_blank">📅 15:17 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 72.2K · <a href="https://t.me/withyashar/15606" target="_blank">📅 15:17 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15605">
@@ -610,26 +610,26 @@ FPV  آتش بس و</div>
 <div class="tg-text">جی‌دی ونس، معاون ترامپ:
 اگر پول‌های بلوکه شده ایران رو هم بخوایم آزاد کنیم شرایط رو جوری فراهم میکنیم که کشاورزان و تولید کننده‌های داخلی آمریکا سود کنند و مواد خریداری شده به دست مردم ایران برسه نه تروریست‌ها!
 @withyashar</div>
-<div class="tg-footer">👁️ 72K · <a href="https://t.me/withyashar/15605" target="_blank">📅 15:15 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 72.6K · <a href="https://t.me/withyashar/15605" target="_blank">📅 15:15 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15604">
 <div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-footer">👁️ 70.4K · <a href="https://t.me/withyashar/15604" target="_blank">📅 15:13 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 70.9K · <a href="https://t.me/withyashar/15604" target="_blank">📅 15:13 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15603">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">جی دی ونس: معامله نهایی، خانه است. ما فونداسیون را بنا نهادیم. ما خانه را نساخته‌ایم، اما فونداسیون موفقی بنا نهادیم.
 @withyashar</div>
-<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/withyashar/15603" target="_blank">📅 15:11 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 68.8K · <a href="https://t.me/withyashar/15603" target="_blank">📅 15:11 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15602">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">جی‌دی ونس، معاون رئیس جمهوری ایالات متحده: به آمریکا بازمی‌گردم، اما تیم‌های فنی به کار خود در سوئیس ادامه خواهند داد. پایه‌های لازم برای دستیابی به یک توافق نهایی با ایران را بنا کردیم.
 @withyashar</div>
-<div class="tg-footer">👁️ 69.3K · <a href="https://t.me/withyashar/15602" target="_blank">📅 15:05 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69.9K · <a href="https://t.me/withyashar/15602" target="_blank">📅 15:05 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15601">
@@ -637,14 +637,14 @@ FPV  آتش بس و</div>
 <div class="tg-text">عضو کمیسیون اقتصادی مجلس :
 ملی، صادرات، تجارت و توسعه صادرات که هک شده بودن تا دو هفته دیگه وصل میشن
 @withyashar</div>
-<div class="tg-footer">👁️ 71.3K · <a href="https://t.me/withyashar/15601" target="_blank">📅 15:02 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 71.9K · <a href="https://t.me/withyashar/15601" target="_blank">📅 15:02 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15600">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">ونس دوباره تهدید کرد: اگر صلح در منطقه اتفاق نیفتد رئیس جمهور ترامپ همچنان گزینه‌های زیادی در اختیار دارد
 @withyashar</div>
-<div class="tg-footer">👁️ 69.5K · <a href="https://t.me/withyashar/15600" target="_blank">📅 15:02 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 70K · <a href="https://t.me/withyashar/15600" target="_blank">📅 15:02 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15599">
@@ -653,21 +653,21 @@ FPV  آتش بس و</div>
 👨‍💻
 ایرانی‌ها تهدید کردند که مذاکره را ترک می‌کنند ولی نرفتند و تیم فنی آنها در حال حاضر در حال کار هستند
 @withyashar</div>
-<div class="tg-footer">👁️ 69.3K · <a href="https://t.me/withyashar/15599" target="_blank">📅 15:00 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69.8K · <a href="https://t.me/withyashar/15599" target="_blank">📅 15:00 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15598">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">جولانی : در صورت دستور ترامپ، ده ها هزار نیرو رزمی متخصص جنگ شهری برای نابودی کامل حزب الله وارد لبنان خواهند شد.
 @withyashar</div>
-<div class="tg-footer">👁️ 68.1K · <a href="https://t.me/withyashar/15598" target="_blank">📅 14:58 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 68.6K · <a href="https://t.me/withyashar/15598" target="_blank">📅 14:58 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15597">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">ونس: «باید سازوکاری وجود داشته باشد که اگر حزب‌الله شلیک کرد یا اسرائیل پاسخ داد، ما با هم صحبت کنیم.»
 @withyashar</div>
-<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/withyashar/15597" target="_blank">📅 14:55 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 66.7K · <a href="https://t.me/withyashar/15597" target="_blank">📅 14:55 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15596">
@@ -675,20 +675,20 @@ FPV  آتش بس و</div>
 <div class="tg-text">معاون رئیس جمهور آمریکا ونس: ایران با ورود بازرسان هسته‌ای در این هفته موافقت کرد
 🚨
 @withyashar</div>
-<div class="tg-footer">👁️ 67.7K · <a href="https://t.me/withyashar/15596" target="_blank">📅 14:53 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 68.2K · <a href="https://t.me/withyashar/15596" target="_blank">📅 14:53 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15595">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">نخست وزیر و وزیر امور خارجه قطر به الجزیره گفتند: این یادداشت تفاهم نیازمند تلاش‌های زیادی با شرکای ما در پاکستان، با حمایت منطقه‌ای، بود.
 @withyashar</div>
-<div class="tg-footer">👁️ 67.7K · <a href="https://t.me/withyashar/15595" target="_blank">📅 14:52 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 68.2K · <a href="https://t.me/withyashar/15595" target="_blank">📅 14:52 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15594">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">جی دی ونس همکنون در سوئیس :  دیروز روز خیلی خیلی خوبی بود.  ما پیشرفت خیلی خوبی داشتیم.  ما دقیقاً کاری را که می‌خواستیم انجام دهیم، انجام دادیم. @withyashar</div>
-<div class="tg-footer">👁️ 70.4K · <a href="https://t.me/withyashar/15594" target="_blank">📅 14:44 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 70.9K · <a href="https://t.me/withyashar/15594" target="_blank">📅 14:44 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15593">
@@ -705,28 +705,28 @@ FPV  آتش بس و</div>
 ما پیشرفت خیلی خوبی داشتیم.
 ما دقیقاً کاری را که می‌خواستیم انجام دهیم، انجام دادیم.
 @withyashar</div>
-<div class="tg-footer">👁️ 71.9K · <a href="https://t.me/withyashar/15593" target="_blank">📅 14:42 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 72.5K · <a href="https://t.me/withyashar/15593" target="_blank">📅 14:42 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15592">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">ادعای سی‌ان‌ان : اجرای تفاهم‌نامه میان تهران و واشینگتن به مسیر صحیح خود بازگشته و تنگه هرمز برای دریانوردی باز است
 @withyashar</div>
-<div class="tg-footer">👁️ 68.6K · <a href="https://t.me/withyashar/15592" target="_blank">📅 14:38 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69.1K · <a href="https://t.me/withyashar/15592" target="_blank">📅 14:38 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15591">
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">وزیر امور خارجه اسرائیل: قصد عقب نشینی از جنوب لبنان را نداریم.
 @withyashar</div>
-<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/withyashar/15591" target="_blank">📅 14:19 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 72.1K · <a href="https://t.me/withyashar/15591" target="_blank">📅 14:19 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15590">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">المیادین:پزشکیان فردا به اسلام آباد می‌رود
 @withyashar</div>
-<div class="tg-footer">👁️ 75.7K · <a href="https://t.me/withyashar/15590" target="_blank">📅 14:00 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 76.1K · <a href="https://t.me/withyashar/15590" target="_blank">📅 14:00 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15589">
@@ -740,7 +740,7 @@ FPV  آتش بس و</div>
 </div>
 <div class="tg-text">️ بازسازی پل b-1 کرج
 @withyashar</div>
-<div class="tg-footer">👁️ 79.3K · <a href="https://t.me/withyashar/15589" target="_blank">📅 13:39 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.7K · <a href="https://t.me/withyashar/15589" target="_blank">📅 13:39 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15588">
@@ -748,7 +748,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">همتی رئیس کل بانک مرکزی: مقرر شد اوفک معافیت تحریم‌های فروش نفت ایران را صادر کند
 بر اساس بند ۱۱ تفاهمنامه ایران و امریکا معافیت (Waiver) باید صادر می‌شد که مقرر شد توسط اوفک عملیاتی شود .البته صادرات نفت ما هم اکنون درجریان است ولی از این پس بدون هزینه های جانبی تحریم خواهد بود.
 @withyashar</div>
-<div class="tg-footer">👁️ 75.9K · <a href="https://t.me/withyashar/15588" target="_blank">📅 13:19 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 76.2K · <a href="https://t.me/withyashar/15588" target="_blank">📅 13:19 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15587">
@@ -756,7 +756,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">سی‌ان‌ان، به نقل از یک منبع اسرائیلی: اسرائیل در حال بررسی اعلام عقب‌نشینی نمادین از سرزمین‌های اشغالی خود در جنوب لبنان است.
 اعلام عقب‌نشینی نمادین به عنوان بخشی از مذاکرات پیش‌بینی‌شده در این هفته صورت می‌گیرد.
 @withyashar</div>
-<div class="tg-footer">👁️ 78.5K · <a href="https://t.me/withyashar/15587" target="_blank">📅 13:04 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.8K · <a href="https://t.me/withyashar/15587" target="_blank">📅 13:04 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15586">
@@ -770,7 +770,7 @@ FPV  آتش بس و</div>
 </div>
 <div class="tg-text">ترامپ در مجلس شورای اسلامی
 @withyashar</div>
-<div class="tg-footer">👁️ 80.1K · <a href="https://t.me/withyashar/15586" target="_blank">📅 13:01 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.5K · <a href="https://t.me/withyashar/15586" target="_blank">📅 13:01 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15585">
@@ -778,7 +778,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">ایتا رو زدن
 پیامرسان «ایتا» دقایقی پیش از دسترس خارج شده است.
 @withyashar</div>
-<div class="tg-footer">👁️ 77.4K · <a href="https://t.me/withyashar/15585" target="_blank">📅 12:40 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.7K · <a href="https://t.me/withyashar/15585" target="_blank">📅 12:40 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15584">
@@ -786,7 +786,7 @@ FPV  آتش بس و</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fk2_xRJWSOhLb6zWXlJRBzXKx2jZhY85OHPvfC9LjuDt1l3Lv8DvZ3D9DOgXG2uVy3DwPgGMM-VBe6_THaK9j5gSBX6Dk7oZJEpm86EXTbul6y5fpcGk3PJxqRaXirhnZiuU04Ui755o6uirMWG-lzs9KOFiVfvpt0CiqyTc19P2nJOHGldtDTSUUhN8AcVSl_Hme6IDjdWZkOh45ZaGrB2EWv4n3a6v8kF1UxEwM6iCOU3Uk6pZ-BXht003fG8bwPB3_z5aY4VzOC2FwA5u4H9NtXQXCtqjhOq7iMqGWpqV8ZKskdZz6EsSYYUpzRg3dylmweB5gJwp5QRLEZ3T-Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاظم غریب‌آبادی دیپلمات ارشد جمهوری اسلامی و از چهره‌های شناخته‌شده پرونده هسته‌ای ایران است. او اهل علی آباد گلستان است و در سال‌های گذشته سفیر ایران در هلند، نماینده ایران در آژانس بین‌المللی انرژی اتمی در وین، معاون بین‌الملل قوه قضائیه و دبیر ستاد حقوق بشر بوده است. اکنون معاون حقوقی و بین‌الملل وزارت امور خارجه و از اعضای اصلی تیم‌های مذاکره و پیگیری پرونده‌های بین‌المللی ایران است. لقب «کاظم دستکج» را کاربران فضای مجازی پس از انتشار ویدئویی از او در یک نشست بین‌المللی رویش گذاشتند؛ در آن ویدئو گفته می‌شد خودنویسی را از روی میز برداشته است، این ماجرا به یک شوخی و کنایه سیاسی در شبکه‌های اجتماعی تبدیل شده
 @withyashar</div>
-<div class="tg-footer">👁️ 77.6K · <a href="https://t.me/withyashar/15584" target="_blank">📅 12:32 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.9K · <a href="https://t.me/withyashar/15584" target="_blank">📅 12:32 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15583">
@@ -794,7 +794,7 @@ FPV  آتش بس و</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t2Ed_JO27rO3MGrThzJNcXMyuYOE3M5F3zKfFoe-XT_FMfj8WeXttjR9OgzvHn1pwMDq35XcHODXgKi4DrjZmvjlQfusOB_beqlw8IvRTnh2zaAq_6lddYVTDr1YX1uULDx1zx4aa18IOiwljjFuMsDI-ildare9ldEZvxMFjgAXBXxzQRF8MSaUd0qj7w_lcl3XTulJ3V-pwaQkGkQv_aC-zmC4bLv1DKXRK-9QpCqEdGfFKLHbL7-QnaiWUQbmtbFziWKl1ibl9phshe8ImpYc--FdvmAGtlaSq8vFr8JLthMuHUoQvUqcbjuwHOiQ_VT_LazZGGCdJWIM_01DDQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هواپیمای هیئت جمهوری اسلامی (همه بجز کاظم دست کج) زوریخ را به مقصد تهران ترک کرد
 @withyashar</div>
-<div class="tg-footer">👁️ 75.6K · <a href="https://t.me/withyashar/15583" target="_blank">📅 12:25 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 75.9K · <a href="https://t.me/withyashar/15583" target="_blank">📅 12:25 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15582">
@@ -808,7 +808,7 @@ FPV  آتش بس و</div>
 </div>
 <div class="tg-text">کیر استارمر از سمت نخست وزیری استعفا داد
 @withyashar</div>
-<div class="tg-footer">👁️ 77.7K · <a href="https://t.me/withyashar/15582" target="_blank">📅 12:20 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.1K · <a href="https://t.me/withyashar/15582" target="_blank">📅 12:20 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15581">
@@ -816,28 +816,28 @@ FPV  آتش بس و</div>
 <div class="tg-text">خبرنگار الجزیره: یادداشت تفاهمی بین ایران و قطر در مورد اجرای آزادسازی دارایی‌های مسدود شده ایران امضا شد.
 وزارت خزانه‌داری ایالات متحده (OFAC) معافیت‌هایی را برای نفت و پتروشیمی به مدت ۶۰ روز صادر کرد.
 @withyashar</div>
-<div class="tg-footer">👁️ 78.3K · <a href="https://t.me/withyashar/15581" target="_blank">📅 12:05 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.6K · <a href="https://t.me/withyashar/15581" target="_blank">📅 12:05 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15580">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">وزیر اقتصاد جمهوری اسلامی : آزادسازی پول های بلوکه شده آغاز شده و بانک مرکزی اقدامات لازم رو برای دریافت پول فراهم کرده
 @withyashar</div>
-<div class="tg-footer">👁️ 80K · <a href="https://t.me/withyashar/15580" target="_blank">📅 12:05 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.3K · <a href="https://t.me/withyashar/15580" target="_blank">📅 12:05 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15579">
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">@withyashar
 وضعیت</div>
-<div class="tg-footer">👁️ 81.3K · <a href="https://t.me/withyashar/15579" target="_blank">📅 11:57 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.7K · <a href="https://t.me/withyashar/15579" target="_blank">📅 11:57 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15578">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromA GH</strong></div>
 <div class="tg-text">دارند مین‌های دریایی خنسا میکنم آمریکایی هاااا</div>
-<div class="tg-footer">👁️ 82K · <a href="https://t.me/withyashar/15578" target="_blank">📅 11:48 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.4K · <a href="https://t.me/withyashar/15578" target="_blank">📅 11:48 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15577">
@@ -845,7 +845,7 @@ FPV  آتش بس و</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromS H A Y A N</strong></div>
 <div class="tg-text">الان یکی دیگه اومد دوباره پسر
 بزن بزنه فکر کنم</div>
-<div class="tg-footer">👁️ 79.8K · <a href="https://t.me/withyashar/15577" target="_blank">📅 11:46 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.1K · <a href="https://t.me/withyashar/15577" target="_blank">📅 11:46 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15576">
@@ -853,7 +853,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">اتاق جنگ با شما : دو بار صدا اومد
 از تو تنگه بود ، بگو کنترل شده تو آب نیست ، یه خبری شده حتما
 @withyashar</div>
-<div class="tg-footer">👁️ 79.8K · <a href="https://t.me/withyashar/15576" target="_blank">📅 11:44 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.1K · <a href="https://t.me/withyashar/15576" target="_blank">📅 11:44 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15575">
@@ -864,7 +864,7 @@ FPV  آتش بس و</div>
 🚨
 🚨
 @withyashar</div>
-<div class="tg-footer">👁️ 80.4K · <a href="https://t.me/withyashar/15575" target="_blank">📅 11:40 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.7K · <a href="https://t.me/withyashar/15575" target="_blank">📅 11:40 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15574">
@@ -876,16 +876,16 @@ FPV  آتش بس و</div>
 🚨
 🚨
 @withyashar</div>
-<div class="tg-footer">👁️ 81.5K · <a href="https://t.me/withyashar/15574" target="_blank">📅 11:39 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.8K · <a href="https://t.me/withyashar/15574" target="_blank">📅 11:39 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15573">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Anr7hH_7FfmWqsSSRhVUud-Ctif7oXemPY8G_Loi4gACNvuqbO_gAbmdpgnhJ5_YSajBC8WnQ1cSk8fFwvdOBHjZgeusGRwFZhY5xEl1hKYRWSImnZ6rURSM8cGOTSJJ1OnkJBSxW5vSeeStYbTgjPui_mY_8sSX1hudAHkLH-n6jctd3cs1-bo0sRjcfwY7JmVEphI_Q95qrrjABVTXv9uTfNoTP-ib-n7KV5ZoMdiytdYPvDmESZZV4r0g105UfBFXMkX_E0v8x6s-pnM9uF2VPS1r0_3wInZ7b4LafDrbU5TxCduWqYqAmCyvuuOZ0Kpgqccd4yPA_tV8Bqtb9g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JwuPtvEnFYmPhecI8ed2ci-XzmFKdavzB_tpO6T5GEmQnSHIV3YkwfamJJH_HPFnx9U7GZOYMS-OthjxeAjQJ_mdRaT5_OMerDVGSm9xfxOvSJ3wVIcvYIkRTaVXpUttuh5CLMZmvr1Wf9UBD-1xeauX6jGi91EWiYVjyb7gTSOpbjtu1v_KKbvNEedjZ5QiZesv_hs5VGGaU0nrn9yBgZl3ELu14F2r5583J7Qo3Oo_Q3AzJjpFKxdWypgagXQj7hm3EIug51Z24weZ8982lfVnG5n-WQ6ZYrvaAXJtfpcNUJTg4NsQLOwB60G8WDiZUGYJyM4d34HMbaydPeQkIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هواپیمای هشدار زودهنگام و جاسوسی E3A با رادار آواکس ناتو دوباره در ترکیه بلند شده. این هواپیما طبق الگوی منظم همیشه قبل از اتفاقات مهم برمیخیزد. قبل از ترور قاسم سلیمانی، قبل از جنگ دوازده روزه، قبل از جنگ چهل روزه و حالا دوباره پیدایش شده. معمولاً حدود دوازده تا بیست و پنج روز قبل از حمله اصلی، جنگ حتمی است.
 @withyashar
 🚨</div>
-<div class="tg-footer">👁️ 81.2K · <a href="https://t.me/withyashar/15573" target="_blank">📅 11:35 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.5K · <a href="https://t.me/withyashar/15573" target="_blank">📅 11:35 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15572">
@@ -893,7 +893,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">باراک راوید خبرنگار آکسیوس: مقامات ایرانی هنوز نرفتن و مذاکرات همچنان ادامه داره. @withyashar یاشار : این باراک درست نمیشناسه اون که مونده کاظم دست کجه
 😂
 صبر کرده همه برن سالن رو خالی کنه</div>
-<div class="tg-footer">👁️ 74.1K · <a href="https://t.me/withyashar/15572" target="_blank">📅 11:28 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.4K · <a href="https://t.me/withyashar/15572" target="_blank">📅 11:28 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15571">
@@ -903,14 +903,14 @@ FPV  آتش بس و</div>
 مذاکرات هیات اصلی ایران در سوئیس پایان یافته است، با این حال کارشناسان همچنان در سوئیس هستند و روند اجرای تفاهمنامه را پیگیری می‌کنند.
 تا این لحظه مذاکراتی درباره هسته‌ای صورت نگرفته و ایران منتظر تحقق بند 13 است. تا زمانی که بند 13 محقق نشود، در واقع زمان آغاز مذاکرات هسته‌ای فرانرسیده است.
 @withyashar</div>
-<div class="tg-footer">👁️ 74.1K · <a href="https://t.me/withyashar/15571" target="_blank">📅 11:22 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.3K · <a href="https://t.me/withyashar/15571" target="_blank">📅 11:22 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15570">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">هیئت مذاکره کننده جمهوری اسلامی، بعداز 18 ساعت مذاکره، سوئیس رو به مقصد تهران ترک کردن.
 @withyashar</div>
-<div class="tg-footer">👁️ 73.7K · <a href="https://t.me/withyashar/15570" target="_blank">📅 11:13 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 73.9K · <a href="https://t.me/withyashar/15570" target="_blank">📅 11:13 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15569">
@@ -919,7 +919,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">عکسی عجیبی که نخست وزیر قطر، محمد بن عبدالرحمن بن جاسم آل ثانی بدون دقت، در کنار جی دی ونس، معاون رئیس جمهور ایالات متحده، و جرد کوشنر، داماد رئیس جمهور ترامپ، منتشر کرده است
 @withyashar
 یاشار : اما چرا جی دی ونس از یک کارت هوشمند امنیتی وزارت دفاع آمریکا CAC با هویت یک زن که  مسلما سطح دسترسی امنیتی و سازمانی متفاوتی دارد استفاده می‌کند؟</div>
-<div class="tg-footer">👁️ 78.3K · <a href="https://t.me/withyashar/15569" target="_blank">📅 11:08 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.6K · <a href="https://t.me/withyashar/15569" target="_blank">📅 11:08 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15568">
@@ -927,7 +927,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">خبرنگار آکسیوس: عراقچی نوشت ایران معافیت‌هایی برای صادرات نفت و محصولات پتروشیمی دریافت کرده و برخی از دارایی‌های مسدود شده آزاد شده‌اند.
 مقامات آمریکایی این موضوع را تأیید نکرده‌اند
 @withyashar</div>
-<div class="tg-footer">👁️ 75.3K · <a href="https://t.me/withyashar/15568" target="_blank">📅 10:56 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 75.6K · <a href="https://t.me/withyashar/15568" target="_blank">📅 10:56 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15567">
@@ -935,14 +935,14 @@ FPV  آتش بس و</div>
 <div class="tg-text">خبرنگار آسوشیتدپرس گزارش داد، میانجیگران می‌گویند مذاکرات سطح بالای ایران و آمریکا در سوئیس به پایان رسیده است؛ مذاکرات فنی برای دستیابی به توافق نهایی جنگ ایران ادامه خواهد یافت.
 همچنين این خبرنگار به نقل از وزیر خارجه ایران اعلام کرد «میانجیگری پاکستان و قطر پیشرفت بزرگی برای پایان دادن به جنگ لبنان به همراه داشته است.»
 @withyashar</div>
-<div class="tg-footer">👁️ 79.9K · <a href="https://t.me/withyashar/15567" target="_blank">📅 10:13 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.2K · <a href="https://t.me/withyashar/15567" target="_blank">📅 10:13 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15566">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">تانکر ترکرز : ایران از پانزدهم ژوئن سال ۲۰۲۶، بالغ بر ۳۶ میلیون بشکه نفت خام صادر کرده است همچنین معادل همین میزان  به صورت محموله‌های شناور در نفتکش‌های مستقر در آب‌های سرزمینی ایران ذخیره شده است
 @withyashar</div>
-<div class="tg-footer">👁️ 82K · <a href="https://t.me/withyashar/15566" target="_blank">📅 10:03 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.3K · <a href="https://t.me/withyashar/15566" target="_blank">📅 10:03 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15565">
@@ -951,7 +951,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">ایران دیشب رکورد پیرترین ترکیب تاریخ جام های جهانی رو با ۳۲ سال ۱۹۱ روز شکست.
 رکورد تا قبل از این دست آلمان در جام جهانی ۱۹۹۸ بود.
 @withyashar</div>
-<div class="tg-footer">👁️ 89.9K · <a href="https://t.me/withyashar/15565" target="_blank">📅 10:03 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 90.3K · <a href="https://t.me/withyashar/15565" target="_blank">📅 10:03 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15564">
@@ -959,7 +959,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">سناتور گراهام: به لبنان و مردم لبنان می‌گویم "کمک در راه است."
 حزب‌الله مدت زیادی کشور شما را به وحشت انداخته و تحت فشار قرار داده است. این وضعیت در آستانه پایان یافتن است.
 @withyashar</div>
-<div class="tg-footer">👁️ 90.5K · <a href="https://t.me/withyashar/15564" target="_blank">📅 09:51 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 91K · <a href="https://t.me/withyashar/15564" target="_blank">📅 09:51 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15563">
@@ -969,7 +969,7 @@ FPV  آتش بس و</div>
 این حادثه ناشی از یک نقص فنی در حین عملیات بهره‌برداری بوده.
 هیچ‌گونه نشت مواد که خطری برای سلامت افراد داشته باشد، رخ نداده
 @withyashar</div>
-<div class="tg-footer">👁️ 94K · <a href="https://t.me/withyashar/15563" target="_blank">📅 08:57 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 94.5K · <a href="https://t.me/withyashar/15563" target="_blank">📅 08:57 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15562">
@@ -1086,15 +1086,15 @@ FPV  آتش بس و</div>
 </div>
 <div class="tg-text">ویدیویی که شروع انفجار را نشان می‌دهد، در این ویدیو می‌توانید صدای شخصی را بشنوید که در مورد محل انفجار می‌پرسد و سپس با «لوسیل؟» پاسخ داده می‌شود، لوسیل در ۷۰ کیلومتری رأس لفان قرار دارد.
 @withyashar</div>
-<div class="tg-footer">👁️ 99.3K · <a href="https://t.me/withyashar/15551" target="_blank">📅 23:40 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 99.4K · <a href="https://t.me/withyashar/15551" target="_blank">📅 23:40 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15550">
 <div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G950nQNl-xdYGp8segP8AMR0D2srXQAxYKCFLk_gt63eTlRUi3TMwZamoVjwlqz-qfULvYaZgxaXPZYkCIInMOcZxggbag1Kzy-sq73EtDZTo0e7Q_J4QNuXCRGqpAj5Z6jUG-BIBVl6fIGDuBjFo_51oWOz_jeo1pvyfoYN3FjR56ofn6ekzj-2CR6XcAlUnogbxSyoyIzlijQGFI7g8SO44fR0-42mAlfakCSsAjyFUWN-aKhIgwFKhBjZ96Bw1a75o_tZ8jz3ct34-tMBpfPIYBNDgvOlKM4BdUDcv7SnDze9LeRZDmgo8eh7E4m5YlZBcK9yyX1XGhNY00K5DA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uLxA4MSMcCFv_-z_dkBo3zfb5A6ezX4_zT7Ul7mScOJ9muVjb-6C0QnW47u1uKm5TBKSgBkXcvP2aoWBzRNDptrMX96d8jwm3N4QY4U9wy16n40IT3ILQ2OURwSwbr_BhA9UAzSqlfabaXv3nrQr_BGuMWOqYi52nOZihkQI9S6k7ZJV5QLpgAeeu_Wy2ASh4cd-Tc-XDG9RaheGf_wzukteXLVtovIsPFxrfFIEgdXcnJi1713nd1wFQMfcEfKsVdi651xQGcn7EYidMNsPf4yopWG6sl-tuRA_sFKdqeHuvKaxg4UwZXf-4CHsrZ2AukuWWNolMGu_yQkLzDPYUQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ در تروث : ایتالیا و نخست وزیرش پس از صرف تریلیون‌ها دلار برای ناتو، حتی فکرش را هم نمی‌کنند که درگیر جمهوری اسلامی ایران و تهدید هسته‌ای بسیار جدی آنها شوند. دهه‌هاست که ما از آنها دفاع می‌کنیم، اما وقتی مورد آزمایش قرار می‌گیرند، آنها آنجا نیستند تا از ما و بقیه جهان دفاع کنند. خوب نیست!
 @withyashar</div>
-<div class="tg-footer">👁️ 96.1K · <a href="https://t.me/withyashar/15550" target="_blank">📅 23:33 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 96.2K · <a href="https://t.me/withyashar/15550" target="_blank">📅 23:33 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15549">
@@ -1102,14 +1102,14 @@ FPV  آتش بس و</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mA1IkZOo11E8UxgqwU_XwX23QLTdEYEg2WAw-Dj2ESWpttb5ta7awa0NVAlBl-v9IkZ3dzOeQf4XsJDFirCC30etmIBMdSXNBRt7NY1gbq_IPma25gm636o2ws9nVEdzl8aabHGakvk3H1WuJqnvs1unNcz0LMnxQ0OVnEo35jyJx_P4NwpvxTy88qc2nvYJ_V1yEJNlBA3bx5Pf57SA_Hryf4nBk0ixZtiquj0MOVJqwQFf_IAgMYsEYhAbZuJsq3wG896RtS8pFPCGJTKBaLkDaByks6iwVOxyaNLj8NJzicG3C3E7R6yPA9xv-tZ4LE433VR_3QIfdm1GQ456tQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آتشسوزی عظیمی در مجتمع گازی راس الفان، در حومه دوحه، پایتخت قطر، رخ داده است.
 @withyashar</div>
-<div class="tg-footer">👁️ 95.4K · <a href="https://t.me/withyashar/15549" target="_blank">📅 23:26 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/15549" target="_blank">📅 23:26 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15548">
 <div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">گویا تیم بلژیک رو هم جادو جنبل کردنش…
 @withyashar</div>
-<div class="tg-footer">👁️ 94.3K · <a href="https://t.me/withyashar/15548" target="_blank">📅 23:18 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 94.4K · <a href="https://t.me/withyashar/15548" target="_blank">📅 23:18 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15547">
@@ -1118,7 +1118,7 @@ FPV  آتش بس و</div>
 🤣
 @withyashar
 صحنه گل آفساید</div>
-<div class="tg-footer">👁️ 97.8K · <a href="https://t.me/withyashar/15547" target="_blank">📅 23:06 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 97.9K · <a href="https://t.me/withyashar/15547" target="_blank">📅 23:06 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15546">
@@ -1126,7 +1126,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">گل قبول نشد افساید شد
 🤣
 @withyashar</div>
-<div class="tg-footer">👁️ 92.8K · <a href="https://t.me/withyashar/15546" target="_blank">📅 22:57 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 92.9K · <a href="https://t.me/withyashar/15546" target="_blank">📅 22:57 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-15545">
@@ -1140,10 +1140,10 @@ FPV  آتش بس و</div>
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/8752439b38.mp4?token=s2WMiDJdvoY-L_T2m3ktm-UKPdrh9JCfZqraCC6Q9TZh_qhnPw4BqVUNYGaM_uTfdEG7VuiC5ikEfpv7HyOcxWRsdGdR0yjcl9ZHDRM50UK_iaInErOs5vubqzHhaiTbCYVv_4dH6fleNeznCJnm4eGuyj1phBPFNJS7bzvzsXE3GPXES43PZvLtWNPMgBphqbIegYifAualZNXDBlp8QNGo7FuHDwjwswKMX-qmexaXOW1_2il31NSX4XY-8Td1H2owEzjCXBx_H2spobVdVKjPH79jAcNiKG39IgFZEBMdtuwA-dHcZDalidSIeCODDtG0_XRdYg3I9Dm3Pi9xIYWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/8752439b38.mp4?token=o0woze_Ac9pUQCPSUnf-1jd-Zfe3JnmaWevsOJvEMn9jw7HvwVsDsnE-abHXSJ_t03qLl19-CrX3lCGpRWOD-k0IfaUBikfAIiAXYn928sceH4FVdh6KwfbOuGgAWhN2RWX8Eidoe7YaGqEkwnYN5Aj2550BcB9RZ_hrSIcZ8GVpt9yg3UlyslAbZr5rUJXBhIer4r7ZtLLym2mEmjgua2TncxsIrSrmZ9GU3YWMaHhZG0s-e4ziusqy7NZujGxHCiwtO0oQdlGS3l6xYkjlGZhB37imqVPwnPGVp9oySEcz0uKi1ME25856k7vb3SlEtoeaCesqiB_M-Vh3PK3RQoWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/8752439b38.mp4?token=s2WMiDJdvoY-L_T2m3ktm-UKPdrh9JCfZqraCC6Q9TZh_qhnPw4BqVUNYGaM_uTfdEG7VuiC5ikEfpv7HyOcxWRsdGdR0yjcl9ZHDRM50UK_iaInErOs5vubqzHhaiTbCYVv_4dH6fleNeznCJnm4eGuyj1phBPFNJS7bzvzsXE3GPXES43PZvLtWNPMgBphqbIegYifAualZNXDBlp8QNGo7FuHDwjwswKMX-qmexaXOW1_2il31NSX4XY-8Td1H2owEzjCXBx_H2spobVdVKjPH79jAcNiKG39IgFZEBMdtuwA-dHcZDalidSIeCODDtG0_XRdYg3I9Dm3Pi9xIYWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/8752439b38.mp4?token=o0woze_Ac9pUQCPSUnf-1jd-Zfe3JnmaWevsOJvEMn9jw7HvwVsDsnE-abHXSJ_t03qLl19-CrX3lCGpRWOD-k0IfaUBikfAIiAXYn928sceH4FVdh6KwfbOuGgAWhN2RWX8Eidoe7YaGqEkwnYN5Aj2550BcB9RZ_hrSIcZ8GVpt9yg3UlyslAbZr5rUJXBhIer4r7ZtLLym2mEmjgua2TncxsIrSrmZ9GU3YWMaHhZG0s-e4ziusqy7NZujGxHCiwtO0oQdlGS3l6xYkjlGZhB37imqVPwnPGVp9oySEcz0uKi1ME25856k7vb3SlEtoeaCesqiB_M-Vh3PK3RQoWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">شمارش معکوس و شروع بازی
 @withyashar</div>
@@ -1155,7 +1155,7 @@ FPV  آتش بس و</div>
 <div class="tg-text">بنیامین نتانیاهو: به من گفتند وارد رفح نشو، شدم؛ گفتند به حزب‌الله حمله نکن، ما به حزب‌الله حمله کردیم، گفتند با ایران مقابله نکن، ما با ایران مقابله کردیم
 من نماینده منافع اسرائیل هستم، نه آمریکا
 @withyashar</div>
-<div class="tg-footer">👁️ 91.3K · <a href="https://t.me/withyashar/15543" target="_blank">📅 22:30 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 91.4K · <a href="https://t.me/withyashar/15543" target="_blank">📅 22:30 · 31 Khordad 1405</a></div>
 </div>
 
 <hr>
