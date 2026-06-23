@@ -292,13 +292,13 @@
 <a href="https://t.me/naya_foriraq" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اخبار ؛ امن ؛ دراسات ، خرائط ، OSINT ، تسريباتلا تظن الإدارة الأمريكية انها قادرة على إسكات شعوب المنطقة والله لن نسكت .. يوما ما سوف نعيد أيام عماد مغنية وسوف تبث العملية على هذة القناة ..🪪للمراسلة وارسال الاخبار@Nayaforiraq_bot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-03 02:13:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-03 03:19:16</div>
 <hr>
 
 <div class="tg-post" id="msg-79760">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">توقف سكك الحديد في عموم المانيا بسبب اضطرابات في الراديو الرقمي للسكك الحديدية</div>
-<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/naya_foriraq/79760" target="_blank">📅 01:11 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.08K · <a href="https://t.me/naya_foriraq/79760" target="_blank">📅 01:11 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79758">
@@ -306,14 +306,14 @@
 <div class="tg-text">عاشوراء عهدٌ متجدّد؛ أن نبقى ثابتين على الحق، أقوياء في الموقف، أوفياء للمبدأ، ما بقينا
 عاشورا پیمانی همواره استوار است؛ اینکه تا زمانی که زنده‌ایم، بر حق استوار بمانیم، در موضع خود نیرومند باشیم و به آرمان و اصول خویش وفادار بمانیم
 Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our stance, and faithful to our principles for as long as we live</div>
-<div class="tg-footer">👁️ 6.66K · <a href="https://t.me/naya_foriraq/79758" target="_blank">📅 00:57 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.22K · <a href="https://t.me/naya_foriraq/79758" target="_blank">📅 00:57 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79757">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">🌟
 مجلس محافظة ذي قار يعلن تعطيل الدوام الرسمي يوم غد الأربعاء .</div>
-<div class="tg-footer">👁️ 8.44K · <a href="https://t.me/naya_foriraq/79757" target="_blank">📅 00:14 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/naya_foriraq/79757" target="_blank">📅 00:14 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79756">
@@ -323,7 +323,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 لن نسمح بأي شكل من أشكال الاعتداء أو التجاوز على كرامة الزائرين مهما كانت الأسباب.
 وفيما يتعلق بالحادثة  التي شهدتها مدينة كربلاء المقدسة مؤخراً والمتضمنة تجاوز عدد من الأشخاص على مجموعة من الزائرين، فإن الجهات المختصة سارعت إلى إحتواء الموقف بشكل فوري واتخاذ الإجراءات اللازمة لمنع تفاقمه، كما تؤكد العتبة الحسينية المقدسة أنها لا تسمح بأي شكل من أشكال الاعتداء أو التجاوز على كرامة الزائرين مهما كانت الأسباب.
 ﻿</div>
-<div class="tg-footer">👁️ 9.87K · <a href="https://t.me/naya_foriraq/79756" target="_blank">📅 23:51 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/naya_foriraq/79756" target="_blank">📅 23:51 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79755">
@@ -331,13 +331,13 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">⭐️
 على غرار سياسة آل خليفة المتصهينة في محاربة الشعائر الحسينية..
 حكومة آل صباح في الكويت تجبر مؤسسي "حسينية آل ياسين" على إيقاف جميع فعالياتها الحسينية وإغلاقها حتى إشعار أخر.</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/79755" target="_blank">📅 22:02 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/79755" target="_blank">📅 22:02 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79754">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">المتحدث باسم وزارة الأمن الداخلي الأمريكية:  الولايات المتحدة تخفف القيود المفروضة على المنتخب الإيراني المشارك في كأس العالم، مما يسمح للفريق بالسفر قبل يومين من مباراته القادمة.</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/79754" target="_blank">📅 22:01 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/79754" target="_blank">📅 22:01 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79753">
@@ -345,7 +345,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🏴‍☠️
 خرق صهيوني جديد لوقف إطلاق النار..
 مسيرة إسرائيلية استهدفت سيارة على طريق الخردلي بجنوب لبنان من دون أن تصيبها.</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/79753" target="_blank">📅 21:23 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/79753" target="_blank">📅 21:23 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79752">
@@ -359,13 +359,13 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 </div>
 <div class="tg-text">🌟
 ترامب: نعمل على اتفاق رائع بعد أن تم القضاء على كل شيء في إيران وهي ليست في موقف تفاوضي جيد.</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/79752" target="_blank">📅 20:54 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/79752" target="_blank">📅 20:54 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79751">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">‏ترامب:  لن يُسمح لإيران بامتلاك السلاح النووي.  ‏في حال اختارت إيران المتاعب فعليها السعي لامتلاك السلاح النووي.  ‏هناك تراجع في أسعار النفط.  المفتشون سيكونون على الأرض في إيران في الوقت المناسب.</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/79751" target="_blank">📅 20:53 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/79751" target="_blank">📅 20:53 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79750">
@@ -381,7 +381,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 المراسل: يقول الإيرانيون إنه لا توجد زيارة مقررة للمفتشين. هل هذا جزء من اتفاقكم؟  ‏
 🌟
 ترامب: إنهم مخطئون. إنهم مخطئون. وهم يعلمون أنهم مخطئون. لو كانوا على صواب، لكنت ألغيت الاجتماعات فوراً.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/79750" target="_blank">📅 20:51 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/79750" target="_blank">📅 20:51 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79749">
@@ -394,7 +394,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <a href="https://cdn4.telesco.pe/file/d953889d0d.mp4?token=LzBGBw2N_imMfDV5hsHChxK_sdXgLAhIYgXM928hxle8vgfJwK3cnat67-mrJMbpFm8ULnPiM51ipudMNfB6sTMt3x_BLXHLZopqEYYNidMyv7RmlXKrF7BWX2Zk-Zs0pgINOaJwjH5UHwjvxgIJ0opnuQT7cSt1amyVudb9AdK3OQaxPFO98rotYO0WmWFWtky2mtv2YcZ7ZnmRNKrU9d_q09YqHH8zMy0b2xvX8YefRx8vYJZjkiWIo9Ty9GiYbC58boOuNf8ITlUmLHS5pkicl7cXEb1Y6BneXMI1Os-83n8fCH9nVMmXt9VpUSc20gH307lxXbhAC-7E3MQz3w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‏ترامب:  لن يُسمح لإيران بامتلاك السلاح النووي.  ‏في حال اختارت إيران المتاعب فعليها السعي لامتلاك السلاح النووي.  ‏هناك تراجع في أسعار النفط.  المفتشون سيكونون على الأرض في إيران في الوقت المناسب.</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/79749" target="_blank">📅 20:50 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/79749" target="_blank">📅 20:50 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79748">
@@ -404,7 +404,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 ‏في حال اختارت إيران المتاعب فعليها السعي لامتلاك السلاح النووي.
 ‏هناك تراجع في أسعار النفط.
 المفتشون سيكونون على الأرض في إيران في الوقت المناسب.</div>
-<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/naya_foriraq/79748" target="_blank">📅 20:45 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/naya_foriraq/79748" target="_blank">📅 20:45 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79747">
@@ -421,7 +421,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 مشاهد من عملية استهداف المقاومة الإسلامية بتاريخ
 12-06-2026
 دبّابة ميركافا تابعة لجيش العدو الإسرائيلي في محيط قلعة الشقيف التاريخيّة جنوبيّ لبنان بمحلّقة أبابيل الانقضاضيّة.</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/naya_foriraq/79747" target="_blank">📅 20:30 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/79747" target="_blank">📅 20:30 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79746">
@@ -436,14 +436,14 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🌟
 🇮🇷
 ‏رئيس الوزراء الباكستاني شريف:  أبلغوا رسالتي إلى القائد الأعلى بأن إيران تمكنت من تحقيق وقف إطلاق النار ومذكرة التفاهم بكرامة.  ‏أعتقد أن إيران ستتحول قريباً إلى واحدة من أسرع الاقتصادات نمواً في العالم.  ‏لا تتضمن مذكرة التفاهم هذه أي ذكر للصواريخ الباليستية،…</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/79746" target="_blank">📅 20:05 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/79746" target="_blank">📅 20:05 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79745">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dllgGiza6sIsgclnYtyOnnym8r7JdwoudyNOzyn8zqxTFjJ7_lV0Jey1K5pV6Zdrdq965AxXMGwDTCf9YOuuQbdvXwHy7v8ikBLuBvdEf9iTSejyTZxeydg5kWSEvwdT_xEpXiQCYIvomYkbmLEVEdy2U5D7tRnuqq_zCFAvbLJokhREdpc7ZylZHJrh6clC1tAOcFgLDI2tCDcyraNQ2IyRPeYtR9UFCi87QMJS5cW0NWplEiA031UXBpfFQK8R0yoZzhm90rms1PS2A3JbZqpOsT0_xB3BATGwvIJeSb5JmM7EWn6OPJQhB6siNkhbr2s2Xgz2uwaVtarn87ytww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد زلزال هيكلة وزارة النقل العراقية ؛ هل انتهت أيام شاكر الزبيدي في الوزارة ؟!</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/79745" target="_blank">📅 19:49 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/79745" target="_blank">📅 19:49 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79744">
@@ -460,7 +460,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 🌟
 من جرائم العدو الصهيوأمريكي في حرب رمضان..
 توثيق جديد يظهر لحظة تنفيذ غارة على مدينة لامرد في محافظة فارس الإيرانية؛ ماأدى إلى إستشهاد عدد من المدنيين أثناء مرورهم بالقرب من مكان القصف.</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/naya_foriraq/79744" target="_blank">📅 19:24 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/79744" target="_blank">📅 19:24 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79743">
@@ -479,7 +479,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 أبلغوا رسالتي إلى القائد الأعلى بأن إيران تمكنت من تحقيق وقف إطلاق النار ومذكرة التفاهم بكرامة.
 ‏أعتقد أن إيران ستتحول قريباً إلى واحدة من أسرع الاقتصادات نمواً في العالم.
 ‏لا تتضمن مذكرة التفاهم هذه أي ذكر للصواريخ الباليستية، ولم تكن مطروحة على الطاولة أو جدول الأعمال مطلقاً. الجانب الإيراني لم يرغب في مناقشتها.</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/79743" target="_blank">📅 19:09 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/naya_foriraq/79743" target="_blank">📅 19:09 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79740">
@@ -493,7 +493,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 </div>
 <div class="tg-text">🇮🇶
 محافظة السماوة جنوبي العراق تخرج عن بكرة أبيها في عزاء الإمام العباس (عليه السلام) باليوم السابع من شهر محرم الحرام.</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/naya_foriraq/79740" target="_blank">📅 19:07 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/naya_foriraq/79740" target="_blank">📅 19:07 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79739">
@@ -507,7 +507,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 </div>
 <div class="tg-text">🇺🇸
 طيران حربي أمريكي يحلق بكثافة وإرتفاع منخفض في سماء محافظة ديرالزور السورية بالقرب من الحدود العراقية.</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/naya_foriraq/79739" target="_blank">📅 18:47 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/79739" target="_blank">📅 18:47 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79738">
@@ -515,7 +515,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rFe_TQBioNl7ovoS5DrQnj8XaPrhFLVsQZsCNXFBEvzzDiCYsHh7B8VoDif4vn0gguehmD6f9fr2DOzbvPk8y4NIh2GcANEr2Yv_cTz9oKvJd2fzUQRVxXIUXafdyeeeUBok7tSl3sUiGDVGGjJHoCzG441aY0JSjayN_5tiTIki9LGSDk3MNX4mKcUKmooeRSeVjOAXsJMofd9m6Y8H_kpJ3CwBcCvoMJFe41ENl1zpiLgsYB0DNiV_S9sIv-fN_uihMcHopu6E74v3qWfyN0ces1vIh4i_uzOGSkGNuv1VTJhNVyhA-fPMmv2vSX7GvgTKkecDZzWVZ2D3mPEZDg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏ترامب:
 أُلقي القبض على ستة أشخاص، ووُجّهت اتهامات لسبعة آخرين، بسبب الأضرار التي ألحقوها ببركة المياه العاكسة الجميلة في بلادنا. الشقّ الذي يبلغ طوله 350 قدمًا، والذي أحدثه سكين حاد جدًا أو شفرات حلاقة، هو في الواقع عبارة عن جروح عديدة على امتداد 350 قدمًا. لقد كان عملًا متعمدًا وإجراميًا، ولا بدّ أن يكون أحدهم قد بذل جهدًا كبيرًا، ربما في جنح الظلام، لإحداث هذه الحالة. كذلك، قُطعت المنطقة الصغيرة في قاع البركة ورُفعت بقوة عن السطح، تاركةً حوافًا خشنة وغير مستوية. ويجري استبدال المساحات الكبيرة من العشب. على أي حال، حتى قبل إصلاح تلك المناطق، فإن بركة المياه العاكسة في أبهى صورها. سنقوم بتفريغ بعض المياه، إما قبل أو بعد الرابع من يوليو مباشرةً، لإجراء الإصلاح الدائم.</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/79738" target="_blank">📅 18:30 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/79738" target="_blank">📅 18:30 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79737">
@@ -523,7 +523,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E5GqvHDOgMvIX2mciPeaS0F5FQsHbOzPHEHkpYxpPWK5u1U1NpTLINuOD0TOchQ8SID7F-7CmYUoq0rqOgXrZ2Kh2YHdhmFKjyDNzU4lD_9QAMHldVCJDISDMzReKOvg29rdEw5gMGHgFLCfMJrGwehzhuxoRyhqjAPNwfkSyJf9A7OAH8aQgXgirABligv52DZgY8lavxb5XxWAjcJeAjxqeRviQf32iMowxTFAg49BVj7ghqME6fqC-CHwdagFpbCsweJf2sDFD9hAUIF5e41ucSaxD6lPdgtzYQHZ4FoUc-uY5vCO43270twE8GG-3TxinWUxXm8CRYQIts13OQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌟
 طائرة أمريكية تطلق إنذار الإستغاثة (7700) فوق الأراضي الفلسطينية المحتلة بعد عودتها من أجواء غرب العراق.</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/79737" target="_blank">📅 18:26 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/79737" target="_blank">📅 18:26 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79736">
@@ -532,7 +532,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 ‏
 بوتين:
 روسيا مستعدة لمحادثات السلام مع أوكرانيا على أساس مؤتمر إسطنبول 2022.</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/79736" target="_blank">📅 18:14 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/79736" target="_blank">📅 18:14 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79735">
@@ -542,7 +542,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 نجل الشهيد تنكسيري قائد البحرية في الحرس الثوري، ينشر صورة لقبضة والده المشدودة بعد إستشهاده؛ مع عبارة "
 قسماً بهذه القبضة المشدودة، لن تسقط الراية على الأرض
 ".</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/79735" target="_blank">📅 17:57 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/79735" target="_blank">📅 17:57 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79734">
@@ -551,28 +551,28 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">في الذكرى السنوية الأولى لاستشهاد القائد الشجاع السيد حيدر الموسوي (رضوان الله عليه)، أحيت المقاومة الإسلامية كتائب سيد الشهداء هذه المناسبة الوفائية، استذكارًا لمسيرته الجهادية الحافلة بالعطاء والتضحية، واستحضارًا لمواقفه البطولية التي سطّرها في ميادين الدفاع والجهاد.
 وقد شهدت مراسم الإحياء حضورًا شعبيًا كبيرًا، تجديدًا للعهد مع الشهداء الأبرار، وتأكيدًا على أن دماءهم الزكية ستبقى نبراسًا للأحرار ومنارةً للأجيال في طريق العزة والكرامة.
 المجد والخلود لشهدائنا الأبرار، والرحمة والرضوان للقائد الشهيد السيد حيدر الموسوي، ولجميع شهداء طريق الحق.</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/79734" target="_blank">📅 17:32 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/79734" target="_blank">📅 17:32 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79733">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LE3fYA5AsW0yZBjcDmV41xAUyWVMOBpjqnfbyEQIZkjThRZbV_GGxYFrLSN1KWiexta-xOgaMpLuR_SrdrmoOD_W7Zro6oW0-KWQ-EY14De9jlWj0OFn7GIe-p5duI1UKInCAG3WR3wKSucDW9HKh7VB3bm6wMJCElK2mvO5UvpiY6IIBiHuDiiHHJxXUuIDM_Kcyl3gYX1Qu2yQqe-rDIDsVEsl7jzYdNoyCM-tivsoMfw37__w6WK60Ro0oMSTANIqhbkHN-Au-NsGGphXhoDK9Nm3NhPIulHue1r4U982If5QuZmV25xwgJQmmnD6uk-RhnjosmA5z0_bHB_HZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مصدر لنايا: هبوط طائرتان من طراز AH-64 مروحية في مطار واشنطن داخل قاعدة التوحيد الثالثة في العاصمة العراقية بغداد ولأول مرة قوات الـ FBI الأمريكية تنتشر على جسر المقابل قيادة العمليات المشتركة لتأمين القوة التي هبطت قبل قليل.</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/79733" target="_blank">📅 17:20 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/79733" target="_blank">📅 17:20 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79731">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">🌟
 ناقلة تحمل اسم (Kiara M) ترسو في ميناء البصرة النفطي العراقي لتحميل 2 مليون برميل بعد عبورها مضيق هرمز.</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/79731" target="_blank">📅 16:36 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/79731" target="_blank">📅 16:36 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79730">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">مصدر لنايا:
 هبوط طائرتان من طراز AH-64 مروحية في مطار واشنطن داخل قاعدة التوحيد الثالثة في العاصمة العراقية بغداد ولأول مرة قوات الـ FBI الأمريكية تنتشر على جسر المقابل قيادة العمليات المشتركة لتأمين القوة التي هبطت قبل قليل.</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/79730" target="_blank">📅 16:25 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/79730" target="_blank">📅 16:25 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79729">
@@ -582,7 +582,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 محادثة بين عنصر من عصابات الجولاني وعنصر في قوات حرس الحدود العراقية.
 ابو زهراء يروح يمين يخاف لا يفجر نفسه ويلحكه، يروح يسار ويلحكه، كافي يا اخي اعتقني
 😄</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/79729" target="_blank">📅 16:21 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/79729" target="_blank">📅 16:21 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79728">
@@ -591,7 +591,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🌟
 القضاء العراقي:
 اعترافات وكيل وزير النفط لشؤون التصفية تطيح بمحافظ صلاح الدين الأسبق وارتفاع حصيلة الأموال المضبوطة في القضية إلى (98) مليار دينار و(11) مليون دولار</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/79728" target="_blank">📅 16:13 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/79728" target="_blank">📅 16:13 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79727">
@@ -605,7 +605,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 الساعة العاشرة مساءً
 كربلاء المقدسة - باب قبلة أبي الفضل العباس (ع)
 الساعة الواحدة ليلاً</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/79727" target="_blank">📅 16:03 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/79727" target="_blank">📅 16:03 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79726">
@@ -615,14 +615,14 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 مشاهد من عملية استهداف المقاومة الإسلامية بتاريخ 17-06-2026 تموضع قوة تابعة لجيش العدو الإسرائيلي في أطراف بلدة كفرتبنيت جنوبيّ لبنان بمحلّقة
 أبابيل
 الانقضاضيّة.</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/79726" target="_blank">📅 16:00 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/79726" target="_blank">📅 16:00 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79725">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/R71EBdv5TPjbVY_xwSwpOEMC7UmSQJKXvV1mg8Rk0wgAggcUaVWRhvI8Kv6O8H9d-_JK9M1J6Gfho612KJ5Q1aB3oFjGbscnX4m4yVpbfGmMsS7I42UP_9MIaunzud_oKiBRyhvXRbNeteYFdeYC7DlZU-Pq359MrQ6pfYSMP6Q_pLOchVvnSr7Gp2f2reBNNb5Jv_wY49tsMgLvRmw5yv0u8fVm0Rs62GMcfTAzdsvQrGGoH1_T797FZmdT_vyBQUIKPxNpzbyx2CH5u10PB-RlVopM0qJhj05_GFxqgdV3XTeg3rhVOnjna-RLK1CCyLwIsFDxkTX7k3ID_Cq85Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">لجنة المحتوى الهابط تتخذ إجراءات قانونية بحق زينة العبيدي لنشر محتوى مسيء للآداب العامة</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/79725" target="_blank">📅 15:43 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/79725" target="_blank">📅 15:43 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79723">
@@ -631,7 +631,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🌟
 ترامب:
 تدفقت 19 مليون برميل من النفط من مضيق هرمز أمس، وهو رقم قياسي غير مسبوق. أسعار النفط تتراجع، والعالم مكان أكثر أمانًا بكثير!!!</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/79723" target="_blank">📅 14:56 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/79723" target="_blank">📅 14:56 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79722">
@@ -641,7 +641,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 ‏
 ترامب:
 على الرغم من احتجاجاتهم وتصريحاتهم الكاذبة المخالفة، بالإضافة إلى حملة التضليل الإعلامي التي تبذل قصارى جهدها لتهميش انتصار الولايات المتحدة، فقد وافقت إيران بشكل كامل ونهائي على أعلى مستويات التفتيش النووي لفترة طويلة (إلى ما لا نهاية!). هذا سيضمن "الشفافية النووية". لو لم يوافقوا على ذلك، لما كانت هناك مفاوضات أخرى! بناءً على هذا، وعلى تنازلات أخرى كبيرة قدمتها إيران، وافقتُ على إبقاء مضيق هرمز مفتوحًا، دون فرض حصار بحري إضافي. مع ذلك، ستبقى جميع السفن في مواقعها تحسبًا لإعادة فرض الحصار، وهو أمر يبدو مستبعدًا للغاية في هذه المرحلة. الأموال و/أو العقوبات التي تُفرج عنها وزارة الخزانة الأمريكية تُودع في حساب ضمان تحت سيطرة الولايات المتحدة، وستُستخدم لشراء المواد الغذائية والإمدادات الطبية، حصريًا من الولايات المتحدة، بما في ذلك الذرة والقمح وفول الصويا من مزارعينا الأمريكيين العظماء. هذه مواد تحتاجها إيران بشدة." هذه أزمة إنسانية، وأشعر بضرورة تقديم المساعدة الآن، قبل فوات الأوان. المحادثات تسير على ما يرام! شكرًا لاهتمامكم بهذا الأمر.</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/79722" target="_blank">📅 14:52 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/79722" target="_blank">📅 14:52 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79720">
@@ -651,7 +651,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/XtvpyarfGmhQTOoixCKxvVjgxQxt8AwtNXyI1hIwpNO_212pgmvHPYawfc-lMYhPY-nzeu-rrvx-9vr9mp8h3dCj_H7uxvMiGwFAWE-1mgrYA74h_r2hSlOS-IF_nGJYnOkfseVDWoFIFnOeZrNpYJ395L0Mi0cPiHSTkEpU_Ne4S9kVAlBPJ-Wo65M1VeG1VxtS4JGMDtVOPW3VM8rkC5fD3whd-MJLhyQSegRtfHB9jsyZ99L2a2eNF_2pjS0t4e4bsZX5AENyG-a6bF_kjnYwaKNM4lFWPAjNlrACGuHduvNChI7pu0t2ij3qc6o80HmBszVBFnurNR6SCcvJuw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">سفينة تجارية سورية تتعرض لقصف في ميناء أوديسا الأوكراني ما أدى الى مقتل كامل طاقمها</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/79720" target="_blank">📅 14:46 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/79720" target="_blank">📅 14:46 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79719">
@@ -664,7 +664,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 - اتفق الجانبان أيضًا على إجراء مباحثات مع الدول الساحلية في المنطقة ومع أي جهات أخرى ذات صلة.
 - اكد الجانبان على ضرورة أن تحترم جميع الترتيبات المتعلقة بمضيق هرمز سيادة الدولتين المطلتين على المضيق وحقوقهما السيادية احترامًا كاملًا.
 - جددت سلطنة عمان والجمهورية الإسلامية الإيرانية التزامهما بالحفاظ على مضيق هرمز كممر مائي آمن ومفتوح للملاحة الدولية، وأكدتا أهمية استمرار التعاون لتعزيز السلامة البحرية وحرية الملاحة والاستقرار الإقليمي.</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/79719" target="_blank">📅 14:39 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/79719" target="_blank">📅 14:39 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79718">
@@ -672,13 +672,13 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DlgPJb-DmeqrvJE0ffAoDzBjBONgkRvU3O7qbv7qXTVox7UGvIMAuGwGOurlVcUVD8Oo0KZlhilSKCmrdLjvZmjhpfvx2kLuTTuG-ebRGtqfiApC4LbOVMUcrfDYl3Vcvvkxa_g6_okrgHdHdVH9LYG4nZnQ0fNlhdux5BwY8Pm_xOVU8TbhmvB42WB78sqk7DLKdSMkeWMF4-1G8vEZt3u_FDy8A0HDuERIDdAIBZ_6qNrvoTw8qi-7N0VJjBeyFqYL1tW6DhopxzUjouNtLsMA4rwx_iX30WPrb-T1hjudKLEXCAzKifj9aU9UGjby2eia4ZJhnhl3lcqDRAyTLQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مواطنون يناشدون أهل الرحم بضرورة حصر السلاح المنفلت داخل المكاتب الحكومية
 نعم نعم للإصلاح</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/79718" target="_blank">📅 14:35 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/79718" target="_blank">📅 14:35 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79717">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">محافظة النجف الأشرف تقرر تعطيل الدوام الرسمي يوم غد الاربعاء باستقناء الدوائر الامنية والخدمية والامتحانات الوزارية للصف السادس العلمي والأدبي والمهني.</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/79717" target="_blank">📅 14:35 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/79717" target="_blank">📅 14:35 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79716">
@@ -686,7 +686,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TtFG7r6OoWdCWbyQUKBcWW3pgHvO7-BNqBCB6A6h6oLF4uCDTDTpB9lOZsBbJbtAQR1xPV2hYYsxKWYOEyFO7-pu6Ob2Gc7lzqYGtBpzkLLrFE8pmC2n1iA4k34aO-JzTVkjKO4IIQRWORxoRFZS73hGQxsel2b6riHpEszBRczo_hg7WD4S2LoSJx3t7bXK_ReKg-roM7GVPiplpDi4c3lSx_NvmQLyxK2pEdRiI1D6iLdmhmPbkjXLlCpcFFo1hyiWZM1_wIxfyHXPHp2wct-qQm7VrdaLlUv5Qb1zZAitJXJGUQn3_1XrnY-ok7ktiCX375NBd4QRIgcEg9BjiQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌟
 وزير الاتصالات العراقي مصطفى سند يعلن اعادة القضاء العراقي 85 مليار دينار كانت مختلسة الى حساب وزارة الاتصالات.</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/79716" target="_blank">📅 14:11 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/79716" target="_blank">📅 14:11 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79715">
@@ -695,7 +695,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🇮🇷
 🌟
 ‏وصول الرئيس الإيراني إلى باكستان</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/79715" target="_blank">📅 13:59 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/79715" target="_blank">📅 13:59 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79714">
@@ -703,7 +703,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🇮🇶
 مجلس القضاء الأعلى العراقي:
 ما تم نشره في موقع (قناة الدولة الفضائية) التي تزعم رصد مجلس القضاء الأعلى (65 زيارة) للمتهم الموقوف وكيل وزير النفط لشؤون التصفية (عدنان الجميلي) من قبل مسؤولين ووزراء ونواب وقادة فصائل ومديرين عامين ورجال أعمال هي معلومات غير صحيحة لا علاقة للقضاء بها</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/79714" target="_blank">📅 13:54 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/79714" target="_blank">📅 13:54 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79713">
@@ -711,7 +711,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🌟
 وزارة العدل العراقية:
 رد دعوى قضائية بقرار صادر من المحكمة الاتحادية العليا الأمريكية وتجنب العراق دفع 53 مليون دولار ضد شركات أردنية.</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/79713" target="_blank">📅 13:51 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/79713" target="_blank">📅 13:51 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79712">
@@ -719,13 +719,13 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🌟
 وزارة التربية العراقية:
 اعلان نتائج الثالث المتوسط الأسبوع المقبل.</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/79712" target="_blank">📅 13:49 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/79712" target="_blank">📅 13:49 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79708">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">هيئة النزاهة العراقية: الحبس الشديد خمس سنوات بحق يزن مشعان الجبوري لاقترافه جريمة النصب والاحتيال، المدان أوهم مُشتكياً بقدرته على ترتيب لقاء مع رئيس الوزراء واستولى على (41) مليار دينار</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/79708" target="_blank">📅 13:31 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/naya_foriraq/79708" target="_blank">📅 13:31 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79707">
@@ -735,21 +735,21 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 🇮🇷
 مصادر إعلامية:
 وزير الخارجية الإيراني عباس عراقجي يزور بغداد يوم الأحد المقبل</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/79707" target="_blank">📅 12:24 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/79707" target="_blank">📅 12:24 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79706">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">🇮🇶
 منصة كبلر للملاحة البحرية: 36 سفينة عبرت مضيق هرمز أمس في أعلى معدل حركة يشهدها المضيق منذ أول مارس</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/79706" target="_blank">📅 12:13 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/naya_foriraq/79706" target="_blank">📅 12:13 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79705">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">🌟
 الرقابة النووية: العراق مؤهل لإنشاء محطات نووية لإنتاج الطاقة الكهربائية</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/naya_foriraq/79705" target="_blank">📅 11:43 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/naya_foriraq/79705" target="_blank">📅 11:43 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79704">
@@ -782,7 +782,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 إيران تحاول المضي قدماً لتحقيق أهدافها
 الالتزام بوقف الحرب في لبنان جزء من مذكرة التفاهم والولايات المتحدة تعهدت بذلك
 سوف يتم التفاهم على مزيد من التفاصيل في الأيام المقبلة</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/79702" target="_blank">📅 11:15 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/79702" target="_blank">📅 11:15 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79701">
@@ -791,7 +791,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 إذاعة الجيش الإسرائيلي: عدم انسحابنا من لبنان يشمل منطقة الشقيف حتى تفكيك حزب الله بالكامل
 يعني عنجد رح تفككوه
 😄</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/79701" target="_blank">📅 10:35 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/naya_foriraq/79701" target="_blank">📅 10:35 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79700">
@@ -806,7 +806,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🔻
 🇮🇶
 محافظة الناصرية تحيي ذكرى استشهاد أبي الفضل العباس عليه السلام.</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/naya_foriraq/79700" target="_blank">📅 09:06 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/naya_foriraq/79700" target="_blank">📅 09:06 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79697">
@@ -818,7 +818,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-post" id="msg-79696">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">هدف ثاني للمنتخب فرنسي</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/naya_foriraq/79696" target="_blank">📅 03:51 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/naya_foriraq/79696" target="_blank">📅 03:51 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79695">
@@ -832,7 +832,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🌟
 🇫🇷
 المباراة تستأنف الساعة 03:00 فجراً بتوقيت بغداد.</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/naya_foriraq/79694" target="_blank">📅 03:30 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/naya_foriraq/79694" target="_blank">📅 03:30 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79693">
@@ -846,15 +846,15 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/03589363ac.mp4?token=I67sjcFcNAWxbsiSsnIRw3RChcx4Av_YJWBpgkdObd04wDd2ZQGemANkZK8ORBwu11th128dBNxiG9Q-NqHH8olBAu5gljU_-DoI598qsXM2ltueA3ys_-eSfB_gIhwbcb-Wm2_o6tK7I4h2G6aCA8_ZgXezv9aJT4ZvtVE9iosMBntkBYGbcMdyaDtcvoeHRM24eHAKcI1g5ed1YTN6_xqIQB9R5vRPphxHQOyV6rOrusSC9oDQhGmgzQG90o9HDHb6LLnIud-09SgGFDWFvzDSMsgixMrdBPRcQe_hcqBW4n6QR8aXBo1L_qDqn_5PNZZQnzv8a-SFDJL63ut0gg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/03589363ac.mp4?token=HuCmjP93SKHrmX0szJp6h_7f1kmG_9Ee6juCeptQZPqgSbgf3RyxzTdj5tW7ka5_-LiY7Le57KlgTvlH20-6w2ZbDZZGYsAgFTj46EeZlPJAwVcn5O4qt4cnjr-0eeRP6w2TuLmlvfm45c9O6tZ1zGSrO7bxvWVZ2Qgatt2Gc9UIoWggmV-C7aWHgQyxPvxrfpwNAs1KFczUyzQ6GgHdeEAh8VEyomeYPFAgHkmzbJKaJLJYNGA3Xvps3VgmYfy9Qk59QpOj3P8JJehQPC_HMV0dRq0n19Y5NblAW0DFDbZC2M6p0Hqku_LNWfno971BWjWTspv9mXCPYy3F1_MDcA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/03589363ac.mp4?token=I67sjcFcNAWxbsiSsnIRw3RChcx4Av_YJWBpgkdObd04wDd2ZQGemANkZK8ORBwu11th128dBNxiG9Q-NqHH8olBAu5gljU_-DoI598qsXM2ltueA3ys_-eSfB_gIhwbcb-Wm2_o6tK7I4h2G6aCA8_ZgXezv9aJT4ZvtVE9iosMBntkBYGbcMdyaDtcvoeHRM24eHAKcI1g5ed1YTN6_xqIQB9R5vRPphxHQOyV6rOrusSC9oDQhGmgzQG90o9HDHb6LLnIud-09SgGFDWFvzDSMsgixMrdBPRcQe_hcqBW4n6QR8aXBo1L_qDqn_5PNZZQnzv8a-SFDJL63ut0gg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/03589363ac.mp4?token=HuCmjP93SKHrmX0szJp6h_7f1kmG_9Ee6juCeptQZPqgSbgf3RyxzTdj5tW7ka5_-LiY7Le57KlgTvlH20-6w2ZbDZZGYsAgFTj46EeZlPJAwVcn5O4qt4cnjr-0eeRP6w2TuLmlvfm45c9O6tZ1zGSrO7bxvWVZ2Qgatt2Gc9UIoWggmV-C7aWHgQyxPvxrfpwNAs1KFczUyzQ6GgHdeEAh8VEyomeYPFAgHkmzbJKaJLJYNGA3Xvps3VgmYfy9Qk59QpOj3P8JJehQPC_HMV0dRq0n19Y5NblAW0DFDbZC2M6p0Hqku_LNWfno971BWjWTspv9mXCPYy3F1_MDcA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🌟
 🇫🇷
 تحضيرات لدخول لاعبي المنتخبين إلى أرضية الملعب من أجل إجراء عمليات الإحماء قبل انطلاق المباراة.</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/79692" target="_blank">📅 03:18 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/naya_foriraq/79692" target="_blank">📅 03:18 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79691">
@@ -890,7 +890,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🌟
 🇫🇷
 تمديد جديد موعد انطلاق الشوط الثاني تأجل إلى 2:20 صباحا بتوقيت بغداد</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/naya_foriraq/79689" target="_blank">📅 02:52 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/79689" target="_blank">📅 02:52 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79688">
@@ -955,7 +955,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🌟
 🇫🇷
 تمديد استراحة بين الشوطين لمباراة منتخبنا الوطني ونظيره الفرنسي 30 دقيقة بسبب سوء الأحوال الجوية</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/naya_foriraq/79681" target="_blank">📅 01:44 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/naya_foriraq/79681" target="_blank">📅 01:44 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79680">
@@ -989,13 +989,13 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-post" id="msg-79677">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">هدف أول للمنتخب الفرنسي</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/79677" target="_blank">📅 01:12 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/naya_foriraq/79677" target="_blank">📅 01:12 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79676">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">مجلس محافظة المثنى يعلن تعطيل الدوام الرسمي في المحافظة اليوم الثلاثاء</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/naya_foriraq/79676" target="_blank">📅 00:56 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/naya_foriraq/79676" target="_blank">📅 00:56 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79675">
@@ -1009,7 +1009,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">🌟
 انطلاق مباراة منتخبنا الوطني أمام نظيره الفرنسي.</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/naya_foriraq/79674" target="_blank">📅 00:29 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/naya_foriraq/79674" target="_blank">📅 00:29 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79673">
@@ -1023,13 +1023,13 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 </div>
 <div class="tg-text">🌟
 مشاهد من مدرجات الملعب الذي يحتضن مواجهة المنتخب العراقي ونظيره الفرنسي، قبل انطلاق المباراة المرتقبة ضمن منافسات كأس العالم 2026.</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/naya_foriraq/79673" target="_blank">📅 00:17 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/naya_foriraq/79673" target="_blank">📅 00:17 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79672">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">‏محافظ المركزي الإيراني: طهران "غير ملزمة" بشراء منتجات زراعية أميركية وفقا للاتفاق</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/79672" target="_blank">📅 00:15 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/naya_foriraq/79672" target="_blank">📅 00:15 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79671">
@@ -1059,7 +1059,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 ‏
 ترمب
 : مضيق هرمز مفتوح بالكامل،والأموال الإيرانية المجمدة التي سيفرج عنها ستستخدم حصرا لشراء المواد الغذائية من المزارعين الأمريكيين.</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/79670" target="_blank">📅 23:25 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/naya_foriraq/79670" target="_blank">📅 23:25 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79669">
@@ -1103,7 +1103,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <div class="tg-text">🌟
 خلال زيارة بافل طالباني لإحدى الكنائس الكلدانية في محافظة السليمانية، وجّه إعلامي تابع للبرزاني سؤالاً له بشأن تشكيل الحكومة أثناء مغادرته، ليردّ عليه بانفعال قائلاً:
 "مو وقت هذا الكلام يا حيوان".</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/79666" target="_blank">📅 22:56 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/79666" target="_blank">📅 22:56 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79665">
@@ -1116,7 +1116,7 @@ Ashura is a renewed covenant: to remain steadfast upon the truth, strong in our 
 <a href="https://cdn4.telesco.pe/file/50d275b950.mp4?token=WTynJRJKQ7emlB-BhdvrfYrr5oJYsdSYF22mN8FseMzGdOdk1bhGriXogjXN0j689KsQSouzlv232wy95f4bTYK3Qj8yd18F2jUXKD8g4LKoEalU8su7UvlqnekJSJvyg8GYhwnG63UbtPJPbEHcaxeWwWgJKS4vaRETo27T-l1-xpxz7E5XBQCefKS6oiQ1oEb2xCTWc95ZmoUvNhbnJMen31OHWSGn9DgBEFt1qE4EY4zrtq6zdc7pm8T2PFwsx9OYT0qbkxN6oinDopc1GEgtkDyG58iejAEUtbHPmuF-wL6MSmoWi4PSz2CAoujkvEzIucWFn6x5pHRT_urC1A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">سمح لجماهير المنتخبين الفرنسي والعراقي بدخول للملعب بصورة طبيعية.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/79665" target="_blank">📅 22:49 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/79665" target="_blank">📅 22:49 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79664">
