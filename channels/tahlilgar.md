@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/QMjC9dm7OIwAqxhFRnmp185ggg54ILbGfgzKGgLkqr5EOmB7gFtppZhxfQn1GhhJCM_vruvC3QtIgFNjzSyAiYOdo7ZY53hrbVyLONYU5I0zGG1BWGvMk45ynnbvwLdWTr_dIXPS3Jy4iT1upAq2omsqXaI9lHkT2p1CTrDagN1b_RRh3qhwJBQ89LVHD0AjzpQaVJbsFCLSuNqd4r-stg_uW8czoLuXzV_jiaJXTY9BolopjaXtEroyoGrU5TyecajyZmVYJuV_z9yt4QHrav0eEHODC2a2wW73ZSJa5zEXjuvT_-FqPhADDLdydQJnVqcJ-ftmXWmxM4iQR7FPqA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 ورود به کانال آقای تحلیلگر</h1>
-<p>@tahlilgar • 👥 110K عضو</p>
+<p>@tahlilgar • 👥 111K عضو</p>
 <a href="https://t.me/tahlilgar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 در این کانال عضو باشید تا درصورت تغییر لینک کانال اصلی لینک جدید اطلاع رسانی شود.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-02 20:30:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-02 22:53:04</div>
 <hr>
 
 <div class="tg-post" id="msg-352">
