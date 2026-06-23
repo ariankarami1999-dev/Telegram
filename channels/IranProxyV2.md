@@ -288,10 +288,10 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/tEW_oCQ0nlUsltfDH42VEDaheRwcXtqTrpZLww_T48MwPnoiJ2TLBjVJ7ddBmKTf9gh0XbMLSpV_JwtVUD6TaAkajfB_7XxVIPLWznYPOR86SNdtFa-Z4XqZO9CIE6vVPAtLKzgDXEGOT0ZgaXDk6ltkShUppUuft8lkHhmp3o0ptXhbTpqcOp2BqrnhTduxHx0VUB7NuJdtjEJnIM6rKT0_SHAYWeGNNHkPocT9Jz6PWaT7bXLH_wDA8afW8-KM-ZenRk2vUX-pfh36XVJ0JIatFjhnU6kqdT2U-61QJ3JSHFn6gcuNVKRfw3h5JRkXh01uHJ_ClsxZCDBlPs1X5w.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 پروکسی</h1>
-<p>@IranProxyV2 • 👥 2.08K عضو</p>
+<p>@IranProxyV2 • 👥 1.89K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-02 08:07:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-02 11:54:03</div>
 <hr>
 
 <div class="tg-post" id="msg-40">
