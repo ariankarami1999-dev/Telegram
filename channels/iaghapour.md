@@ -292,11 +292,56 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-03 18:45:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-03 20:55:17</div>
 <hr>
 
-<div class="tg-post" id="msg-2698">
+<div class="tg-post" id="msg-2702">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromPremstore</strong></div>
+<div class="tg-text">🛍
+خرید اشتراک gemini pro تنها با 299 هزار تومان در پریم استور.
+☄️
+آماده امتحانات باشید
+❔
+چرا پریم استور؟
+🕖
+تحویل سریع (زیر ۲۴ ساعت)
+🔒
+بدون نیاز به اطلاعات و لاگین حساب شما
+ضمانت کامل 30 روز
+علاوه بر جمنای، اشتراک سرویس‌های زیر هم برای خرید موجود است:
+(Claude • Chatgpt plus, go  • Grok • Perplexity • Cursor • Leonardo • Gemini ultra •.....)
+🛒
+شروع خرید از طریق ربات :
+🤖
+@prem_store_bot
+🌐
+وب سایت
+|
+💡
+کانال تلگرام
+|
+💬
+ارتباط با پشتیبانی</div>
+<div class="tg-footer">👁️ 1.62K · <a href="https://t.me/iaghapour/2702" target="_blank">📅 20:44 · 03 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-2701">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SOYv-ea25CtEm8XIBUMjHtYAjlIF6Cjx5hfl41kg-K8cDffd52iEOhwHH34HaNR-9Dme4mN4DllhMVs8bmJHL9dcK07CeM3OowFHfJjeB3o1ot6tlTZINm9rD4ChIhY_ae5ChaOi9MtPnGOMEwDH9DaOpYsD1A1Mwj79HRYrrRW3b-UoCRGRNvjKIygYbGtjl8AHsh5msVU11Ee9sZ-1ezQZ7Rw2VRo1OdJ-R7sGL2PvfHy3mHgX8Ku6pNVoO97Q50iA3TnaQQIHyvEo_EWGr-C-xtQ6kU_zYjpzK4JKqyM5xVJn7qufyrR4Kz7RkkfpirFs4__osPpPspJ9W5SoHA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">⭕️
+سقوط آزاد پلتفرم‌های داخلی و رکوردشکنی هشتگ تخفیف پس از وصل شدن اینترنت
+🔸
+با بهبود نسبی وضعیت اینترنت، کاربران به سرعت در حال ترک پلتفرم‌های بومی و بازگشت به شبکه‌های جهانی هستند. آمارها نشان می‌دهد فعالیت گروه‌ها در پیام‌رسان «بله» ۸۱ درصد سقوط کرده و ۲۷ درصد آن‌ها کاملاً تعطیل شده‌اند. رشد خیره‌کننده این پلتفرم‌ها در دوران قطعی، صرفاً از روی ناچاری بوده و حالا مردم کانال‌های داخلی را فقط به عنوان یک پایگاه پشتیبان برای قطعی‌های احتمالی بعدی نگه داشته‌اند.
+🔹
+در همین حال، کسب‌وکارهای آنلاینی که فروش طلایی خود را در دوران محدودیت‌ها از دست دادند، برای جبران خسارت‌های سنگین به تخفیف‌های گسترده روی آورده‌اند؛ به طوری که استفاده از هشتگ «تخفیف» ۱۲۰ درصد جهش داشته است. این آمارها ثابت می‌کند پلتفرم‌های بومی برخلاف ادعاها، هیچ جایگاهی برای جبران ضرر اقتصاد و کسب‌وکارها نداشته‌اند.
+🆔
+@iAghapour</div>
+<div class="tg-footer">👁️ 3.62K · <a href="https://t.me/iaghapour/2701" target="_blank">📅 20:26 · 03 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-2698">
+<div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">🚨
 حمله سایبری به شبکه بانکی
 !
@@ -318,11 +363,11 @@
 پ.ن: بابا ولش کنید‍! بعد 2 هفته اختلال این حرفا چیه میزنید؟ مثل قبل همون روند تکذیب رو جلو برید. بگید که ما هک نشدیم و قطعه سخت افزاری سوخته!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/iaghapour/2698" target="_blank">📅 19:50 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/iaghapour/2698" target="_blank">📅 19:50 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2697">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lglfrfSDyDTWn3AhvzQtVuXu3qvtpN9Jaeqbpht-sg4zguF3HGFl_oQ8GnLACxUj9Ajdq87MVFDd1TBwT90sa0-2bn9f34h0LwqzCNN-_E9Zd-CcXEorzkzsF7yjPQB_sncTtjwbujKvoYuJFD_Zk8MKWjbZQ-t3ZCG-nBUAj-yBY1ZkF2_YghA3DiPhKPNf_srU1TsYoZqCoO_V1sOoLpgfE3f98LuIB0F4ahpH_dxRjeP5U7uITi-liKJKIEczgFoSiRmC2wbA9knq_nm9cjCuukPYZiASVJsUORZLiq_Eri9tKv7NXbWjtA6VQA6zXdLOTAP8ltotMtkq58Trww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 چرا فعال نبودن IPv6 در ایران یک بحران است؟
@@ -348,11 +393,11 @@
 دنیا با میلیاردها آدرس مستقل به دنبال سرعت و پایداری است، اما ما هنوز برای یک ارتباط ساده، درگیر پیدا کردن یک IP تمیز و عبور از لایه‌های NAT اپراتورها هستیم!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/iaghapour/2697" target="_blank">📅 22:56 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2697" target="_blank">📅 22:56 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2696">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cpBqNnYtjPzge8qbQIIU9RqAY9AZJ5Pvy4ufN07GrGajpdxP5KWjw1Dz7VEcdJwnbbtajf5dz6x5b8kb2mcXMrqwJbv01ewtcZCCV7SblimByV7ipxiI4-jtSeoIxL3XqhBo2Zy8X34lb8X0shOmNvFxvodSfkT08eXp_x6qrJnPW7bUndXGmXH-cbxMKeUziwY7GCi365owLShsF9F75o5TVjnWYnj4rhLNyDykGtT9D0epnqyT2XBjESok69FlcFHYA6eeYaaqnJqyPLUtoHLxZiyhDGaB9KL0egbyvju2bGC24G85zkcnff7kX1_WEi6HlbAt03KuyAYJuxJRjw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 بحران خاموش در دیتاسنترها؛ اینترنت برگشته، اما نه برای کسب‌وکارها!
@@ -366,28 +411,28 @@
 وصل شدن اینترنت گوشی‌ها تنها ظاهر ماجرا را عادی جلوه می‌دهد؛ در حالی که شریان حیاتی بسیاری از کسب‌وکارهای دیجیتال در دیتاسنترها مسدود مانده و خسارت‌های مالی و فنی جبران‌ناپذیری در حال رقم خوردن است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/iaghapour/2696" target="_blank">📅 19:11 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/iaghapour/2696" target="_blank">📅 19:11 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2694">
-<div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/iaghapour/2694" target="_blank">📅 21:58 · 31 Khordad 1405</a></div>
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/iaghapour/2694" target="_blank">📅 21:58 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2693">
-<div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OU850d9oVzCVhQULdEhNjskPbFfKeTozg_UG5f7Ap2OzSvFmLkAMRsQgDQfso5LNQ7uzNY5PihlhU6VRYHJiz7zIT3X_xY66xfKKFXrwmKqmrvMX_eXKhNBqBUwBEwRy-W8oxt5r6Dp06tO_nqgesCDA5ul01wnh_lRYStayRPeCz0ZvQqmLFfr7-Z_GZqyOpc69Msr7DkN2la9XAzAYIZWygj-l4bS44RrI2ZQQhJmtJSRrDZXUpw2kd5QLbsUIo3YQnCLshcbggUt8MAqInbhU-lXyB3ZrI_dTss7jpZq0toePfiRv5xAJ_nbEMRFosxjJtPPcBVP8d6BQlqBBDw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lsLalg7Tb4VqBLb6YsST68qDFOQQ_4R47GdDjxl7rb5QStXXjHsl7JbcdXnrb-Uz429qOWe1xBVieqg9-aAu5HL2AFHLCW86hOkeRo8B3ofFszEYar2SpeglgreiaBKaVMCHkuW2wzYDUAOEIF2BgcQ9HuXYdguIbgtOp8Fpy_yEKDO7vK8bQs69JdXTK7iz2CdNjIkgDoWf9GPQiIzSsMRW3-5Tcd58HQK8a1RXUSjNRi-kOW8S_5-fAxs01f0gF4_tQ59pUjvHgH0kiENwHCzi4yv5i6WHLjBnk6oDFc7QL4ZebcPdv1xDVqg07ca6k-jiCufandVFk9QvUr2rTw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 رئیس سازمان بازرسی کل کشور از توقف اینترنت پرو خبر داده و گفته اپراتورها اقدام به ثبت‌نام گروه‌هایی از جمله وکلا، مدیران و اعضای هیئت‌مدیره شرکت‌ها برای دریافت اینترنت با شرایط ویژه کرده بودند.
 در اجرای این طرح، هماهنگی‌های لازم با رگولاتوری و وزارت ارتباطات به‌طور کامل انجام نشده یا در برخی موارد محل اختلاف بوده. بنابراین مقرر شده از ادامه اجرای بخش‌های دارای اشکال جلوگیری بشه و مبالغ اضافی دریافت‌شده از مردم رو بهشون برگردونن. /فارس /
 ircf
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/iaghapour/2693" target="_blank">📅 21:34 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2693" target="_blank">📅 21:34 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2691">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/k4kp-CSvAzGtlj_-kAeIuGzk1TM82GTnYpBl6cCWQU5qEU5ey7h6e80TeYmWt4qNWLUx9uOQaHDPv1Fy3rGe0cbaSBVmGwcgIM1H5mDmcoskYwZPpJLI88Vur_dKAP84xGph8kHkf7qc_e2w58qJIl0SDVC0jmolhGm0B1AZeBmZKR4WBLMyi30eD8Phmzl-xRiTTKEHToKh8JxHTn9SIEHjKGTzqTVaQXH4Jo77NeW6lLk2rTRnGWGOKDwkdoezSaS-xaCxTQhIFSTz0RLeaahj24uQKPDp-GkRIaF2elDtdzkTnXK5zQhfu8HubsSpebVZSqKEoPF9QSjxtcnUSQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش 4 روش تانل پیشرفته و مقاوم در برابر فیلترینگ
@@ -408,32 +453,32 @@ ircf
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/iaghapour/2691" target="_blank">📅 18:17 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/iaghapour/2691" target="_blank">📅 18:17 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2690">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">🔻
 دوستان عزیز،
 ربات «تماس با ما»
 چون نسخه رایگانه، به محدودیت ۵ هزار پیام در ماه رسیده و رفته رو حالت تعمیر!
 اگه تنظیماتش بر اساس تایم‌زون باشه، اول ماه جدید یعنی 2 روز دیگه خودبه‌خود درست میشه؛ وگرنه به ناچار نسخه پرو رو می‌خرم تا دوباره در دسترس قرار بگیره.
 🥸</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/iaghapour/2690" target="_blank">📅 17:19 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/iaghapour/2690" target="_blank">📅 17:19 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2689">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">⭕️
 آموزش تانل بین سرور ایران و خارج (۲ روش سبک و سریع)
 😍
 🔹
 تو این ویدیو قراره با هم دو تا از ساده و سبک‌ترین روش‌های تانل زدن بین سرور ایران و خارج رو یاد بگیریم. اگه برای ساخت فیلترشکن شخصی‌تون دنبال یه راه ساده و بدون دردسر برای اتصال سرورها هستید، این آموزش…</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/iaghapour/2689" target="_blank">📅 16:11 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/iaghapour/2689" target="_blank">📅 16:11 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2687">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">🌐
 مدیرعامل سروش‌پلاس: فیلترینگ و قطعی اینترنت به ضرر ماست!
 امین شریفی، مدیرعامل سروش‌پلاس در نشست گزارش عملکرد سال ۱۴۰۴ اعلام کرد که قطعی اینترنت و اعمال فیلترینگ نه‌تنها به رشد پلتفرم‌های داخلی کمکی نمی‌کند، بلکه نتیجه‌ای جز عصبانیت و لج کاربران ندارد.
@@ -455,11 +500,11 @@ ircf
 پ.ن: من داشتم میخوندم خندم گرفت این چطوری داشت میگفت خندش نگرفت؟
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/iaghapour/2687" target="_blank">📅 19:23 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/iaghapour/2687" target="_blank">📅 19:23 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2685">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tA2SdjTb-rVK3GDFraEnSAptqDLjFTjiIZ5-yTMH69z1fwQCi5tt0SU_WOkoCPa2nC2fdPR4ONCZzL0JLcCBcpRlPFkqvBbo3S-O-K4fbEVFQAaabmHGcjR-pJkKtzzN-pMj06KqKo6hGwV6iGV9M0yQLpq8Ol2N89HXlraDrOHSOcWGmpIQYpxfmVUq38BOYLAjtLwKbF30u6KKmEsYSj3Rs0RYnKCNAksFPPowObymVUac5UIhTaF8yw5wnvWYGXj6dJr82858Awudue25c2K3EZpi1buIuJWo_l3IKkAEIEAGkltCxk8IAZI8SwoYfSh5LQyAUIoFAkMLDmZOdg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ساخت فیلترشکن پرسرعت و رایگان با ورکر کلودفلر (NovaProxy v3)
@@ -484,11 +529,11 @@ ircf
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/iaghapour/2685" target="_blank">📅 19:58 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/iaghapour/2685" target="_blank">📅 19:58 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2684">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P1swepXhCWz3f6uWhcyMIcgB1kAR6BMTj6YTLI58CGFPHoO9pnHjVgL7qDYwDikfqt0lO3HojB_TsgC_R1tkfdBlyRtnXq9ETBsQQDBAxLJJY2qZJJAFWr_qfqYlaeRduhG2C_tjz5rg4VYvY1AoPTV_G_PenHMyAGOtyQ72Z_WNVrAfxCIiVY8dq_U2_rOfxATtZqgir8EiQ2LTwD2Fjb0DqfM8HOeHcWuqwwQlxe2luPHoIIWUcApEF4eva615Yk6_z3YpYyXVwSpv71lLPi_ecrf6el9pUU1P4-eW-FowEIp8OXSKD3tquTRUi4-2ch_v0H0JU4g96a03oiRHFg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 افشای ۱۲۴ میلیون پسورد و ۵۶ میلیون ایمیل؛ آیا اطلاعات شما هم لو رفته؟
@@ -511,11 +556,11 @@ Have I Been Pwned
 اگر اطلاعاتتان لو رفته بود، سریعاً رمزهای عبور خود را تغییر دهید. همچنین برای جلوگیری از نفوذ، حتماً تایید دومرحله‌ای (2FA) را برای حساب‌های مهم خود فعال کنید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/iaghapour/2684" target="_blank">📅 17:04 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/iaghapour/2684" target="_blank">📅 17:04 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2682">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">💰
 مدیرعامل همراه اول: قیمت فعلی اینترنت با قیمت واقعی آن هیچ سنخیتی ندارد!
 مهدی اخوان، مدیرعامل همراه اول، در مجمع عمومی سالانه این اپراتور با گلایه از تعرفه‌های فعلی اعلام کرد که هزینه‌های سرمایه‌گذاری ارزی آن‌ها کاملاً مشابه اپراتورهای منطقه است، اما قیمت هر گیگابایت اینترنت در ایران بسیار پایین‌تر از آن کشورهاست.
@@ -524,11 +569,11 @@ Have I Been Pwned
 اگه واقعاً کار براتون نمی‌صرفه ما هم راضی به ضررتون نیستیم، کلاً درِ این اپراتورها رو تخته کنید و جرم‌انگاری استارلینک رو بردارید تا ببینیم تو یه بازار آزاد اصلاً می‌تونید باهاشون رقابت کنید یا نه! واقعیت اینه که سودهای کلان این اینترنت انحصاری (پرو) حسابی به دهنتون مزه کرده و حالا با گرون کردن‌های نجومی و پشت‌سرهم، به هر دری می‌زنید تا جیب مردم رو خالی‌تر کنید. وگرنه این چیزی که دارید به ما می‌فروشید اصلاً اسمش اینترنت نیست؛ هر وقت یه اینترنت واقعی و بدون فیلتر دست مردم دادید، اون‌وقت پولش رو هم بگیرید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/iaghapour/2682" target="_blank">📅 21:51 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/iaghapour/2682" target="_blank">📅 21:51 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2680">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/APXEsoQHz1KkLG4VgbwRLROrsmKWcETf5ZddUEenVUvlm_FFA_NO3NrAKPb_V7VhD7D22NP6SYNDQ4LIbBPKTp4LPqV3QDEaEuKBOrWQzd8dETDLpiB1E8wOsgB33r1_Q1s4Nkso4bEh19S5xpdxjc9a4UID5pAb4Q8JFghb_9JElyIHKsIv75WdmLmF55wMlmtv5jjGp8opQBfQ_ZzGXSpMGQlJKg7Q41xGeal6C3ABeoSgnkcQ2cEA34OFTtU_zLrI3ulCboZibrdy48F2qc4p3KieyZCN6xBHGg31Wh-Go9cdaHwZjTjXvIEqFdLCNcovpDwmdATKxmIc1tpcfQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 هشدار خیلی مهم: خطر فریز شدن دارایی‌ها در صرافی‌های خارجی!
@@ -551,11 +596,11 @@ Have I Been Pwned
 به هیچ‌وجه انتقال مستقیم ارز بین صرافی‌های ایرانی و صرافی‌های خارجی انجام ندید. حتماً از کیف پول‌های شخصی (مثل تراست ولت، یا ولت‌های سخت‌افزاری) به عنوان واسطه استفاده کنید تا مشکلی برای سرمایه‌تون پیش نیاد.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/iaghapour/2680" target="_blank">📅 16:15 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/iaghapour/2680" target="_blank">📅 16:15 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2678">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kBjzyeohhB2biZR67A1eG1JQnqVpCs8D-tqPy70O8S0tKpNnqX3tGW8UD01rZhjOlkPNSiAiyMncLFVT2XC7tbKTA4OHd5pNk95_n8zeDkNMK3djzn6598DWAWoABj0Z2-ozqsG7wV0diZf7fghHXAnQGutt8fVMY-aPFmzwxusddzYTxS9hUiwuDRkdqp92RKOBSgPYe8fGdPSwk5-5w5KCuM3gDy9D9RZx57t3D7L3HRNcHU_Et6ZqsErqWaZb8dK7apdGSNJMbumTUTTUFX4uFBX-GY-EVciSAe7c4FM7TPADl6RM0_OUwlZb7Q5nJGWGTf-pA14k9Lg_VedNPw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش تانل بین سرور ایران و خارج (۲ روش سبک و سریع)
@@ -578,11 +623,11 @@ Have I Been Pwned
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/iaghapour/2678" target="_blank">📅 19:50 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/iaghapour/2678" target="_blank">📅 19:50 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2677">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">⭕️
 دسترسی مستقیم و بدون واسطه به اینترنت آزاد
 🔹
@@ -606,11 +651,11 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/iaghapour/2677" target="_blank">📅 12:35 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/iaghapour/2677" target="_blank">📅 12:35 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2676">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sjCr5lFf_Je3U-DxCRZrCn2hNHqWg5nWDjISd740lbC2KWjUg9eweezvlqnrYMwibWui4isOV2JPVWsm_AOkYwwaWn_Gr7BpPI1_aY7rAfTQl9NxeOscT8lpmzlpwc-UUJWvVvxeWkDOfrm7kqftugy9YtzFxcEoVoNo0dfgftFsUPrfB7Ze-z2PPoCNMY4dcj8_1tVLuU6umihP3_bVpuEVlfUoSdM_WjZkXK3vali0__a007Zk_3tM6zwLjF-tnGXNkXLTY07l1ObBQgiLH58UqGJcCXvG1CqG_bsG-nvZHRA-3XKt8_66wp7ahM_611SkqnbDEzSu2y3s2MTZ1g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 ادعای ایلان ماسک: پهنای باند استارلینک ۱۰۰ برابر می‌شود!
@@ -630,27 +675,27 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 این جهش‌های تکنولوژیک در حالی رخ می‌دهد که در ایران، استفاده و خرید و فروش تجهیزات استارلینک همچنان ممنوع و جرم تلقی می‌شود. با این حال، در پی قطعی‌های اینترنت در یک سال اخیر، ده‌ها هزار ترمینال به صورت قاچاق وارد کشور شده است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/iaghapour/2676" target="_blank">📅 18:09 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/iaghapour/2676" target="_blank">📅 18:09 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2674">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">✍🏻
 دوستان، در حال حاضر بیش از ۷ اسکریپت (شامل اسکریپت‌های تانل و روش‌های مستقیم و رایگان) رو در دست بررسی داریم. هر کدوم که بدون مشکل جواب بده رو توی یوتیوب معرفی می‌کنیم. اما مواردی رو که به هر دلیلی (مثل محدودیت‌های دیتاسنتر سرورهایی که استفاده میکنیم و...) نتونیم خودمون ازشون جواب بگیریم، داخل کانال تلگرام معرفی میکنیم تا شما بتونید تست کنید.
 ممنون از حمایت همیشگی شما.
 💚</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/iaghapour/2674" target="_blank">📅 20:54 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/iaghapour/2674" target="_blank">📅 20:54 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2673">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">واقعاً باید درِ این بانک‌های مزخرف رو گل بگیرن! سالی ۳ بار یا هک می‌شید، یا اپلیکیشن بانک کار نمی‌کنه، یا اختلال دارید و هزارتا کوفت و زهر مار دیگه! آخه مگه می‌شه بانک این‌همه بی‌در و پیکر باشه؟
 😒</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/iaghapour/2673" target="_blank">📅 20:51 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/iaghapour/2673" target="_blank">📅 20:51 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2671">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fCSpH2Lr6vbcsQmO1j69A0q3vm6DZh6o6AWHBuI5p5v6Z-FIhOY5ZRPpgJ0liA3g9HG4wCk55duNE0Uj3V1-8C3v1oXdJPE94iqiO7FufLd01x1cMVUNBUTW5B7buDI7Cp1-HV-cW9hvyItuRFkwwtKtUodMraHwBwZIhTzjHilrrEbAHu9GkA89vxYouJOERLmfMeqGFeoF7A9n5vH5nFIhcbb1B7h-WO4ToxSZ3bcpNTprf2QaH7H3lH8jQTDp0kzO8Wrt6E5nVv4fwju8E4DjJgJKHjCsNUYXHQuEEQrMGnD5oJIlYOtIXpLDHGx_dk1aZPOHNnA-yjdmQGPL_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 درخواست حمید رسایی و ۱۱۹ استاد برای انحلال «ستاد ویژه فضای مجازی»
@@ -668,11 +713,11 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 پ.ن: جالبه تو این مملکت انگار با فساد و رانتِ کسی کاری ندارن؛ اما وای به روزی که بخوان اینترنتی رو که دست مفسدها رو رو می‌کنه، یه ذره آزاد کنن!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/iaghapour/2671" target="_blank">📅 21:34 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32K · <a href="https://t.me/iaghapour/2671" target="_blank">📅 21:34 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2670">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/o4jXHKPEDZ9FZ6RQqa5K41G-Otwd5qiwlT7pgLz5ZkQZGktQj2pR1uxSENvAQ0PiYqL_75UsIzLYaT67FVwnh27bBoNqeEu92iBHGIKIWkkRc5lj8o-YliRkwAIrL2W6OxNkmlZiqkeEw2ov0h-hrpiqVdEWzyVMlSEusKf4wRREn7PA7Y5qd_ANtbDe5PxvhacwHaztx6mUrbUG9oaw3a6bJ_gWeVGJ-tgPtMDtGsysrS8zYDReXEzdsYB4y0U2xG_IlF5zccr3Vnxlg9Zq6_oaMpeSKcvok5jmxZTOWjfrBsdzaf9DqVeVAC_rxEJU7Mop27wT1C9d0mGOqci6eQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 وزیر ارتباطات: محدودیت‌های اینترنت شفاف و زمان‌دار می‌شود / خسارت روزانه ۱۵ میلیون دلاری قطعی‌ها!
@@ -693,11 +738,11 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 پ.ن: وزیر مشکلی با محدودیت و قطعی نداره بیشتر داره میگه شما که داری قطع میکنی بگو تا کی که مردم اطلاع داشته باشن :)
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/iaghapour/2670" target="_blank">📅 21:05 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/iaghapour/2670" target="_blank">📅 21:05 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2668">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EUjHDDUG93VU5tm1KPUCtQB8BV3mrGdmh39VxI4IkCP4lLWUS6bX7R9kjL8t0iEOgTXat1OtAQcgfpsi-5UDOVD_lmrE-NxIJuUPQsBNR1urhFMV3Cdpo_VuUrb5EMJqkNWyADFmcrHpY60Wkk76inTOjDQZEBT8wm6Xmyks0h7qM5rI2ak4F_6ul-SMZwxMHNwVYFdHgLNeXaQhn-1CnCUAiq3RS_1onntWhljyzNVq_AxjAG_o0ASv5x_ObGUVwpwDVYivwP8g2GRYP8MdDNvirOqRd8FyX8q26IiY3i7TcEJW_EWx82tnyrQGWF35oNXXWZ2nk6yxosHDQ27boQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 راهنمای ساخت فیلترشکن شخصی با ۲ هسته در پنل پاسارگارد
@@ -725,13 +770,13 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 </div>
 
 <div class="tg-post" id="msg-2667">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5127cc882e.mp4?token=qvHElMO8JDo5phI7qUZkKTb7Whpy33yHtBvsAuFFPs8amqyUfHJOWg44MLHBtjzumLUyZA3fYeWM_2wVai-dSel60vCigWCzAWqGp5q9-w3D_UA6o7WmLkDooB6RmJtI_BwFN5HJdq6TfMy8Zr732lhIW2SmxclE9EUx9_5xRVKtXJfDOJUVB8bA6PLVFde94pHQpwJV8OUXpquP3LdJbKMjCdkAwCy-9SkKZFRsHHj_KBNgZXp27Y9HS4KuPxhLoi2lvqYStbhphRLVTpsm0DGFpFBLQRQ5y2H1TPfOwx9aY8agc9Hcu-oRs_qvgrwzs9diZXrkglFDCnW57FGUEA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/5127cc882e.mp4?token=fWUSxIbqi3IbM8j5wPp3XQFox-FRgJkDlnZj6JQ8uI8Q1yMFAFqRwB9teGzCdnzvgyhmFCcWArjVyFHoPNJKpV2BQfsbzuCYbjOufLRl36xpWDKONrnR3p1xpKdwA7iucjKGURJsOnngt3ZvCCv5ZqssayL2zdvnCDTKsbYhhRSV_HwmkCqeqMk56rZ4VecSKPJrPXtXJ8GqZtpSZs1YpYUadKcKmtoPFnMkMIU3pN0z7Fm_qXcuYCmdLEoZZ9JoHsHSTXINrmGf4X983YS13AgFJJDcF8uEJHATSrm9Qo9MKzUzFvQlZRDisZ-tGgbdpaKNuab5NqfEWBcQWjpVKg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/5127cc882e.mp4?token=qvHElMO8JDo5phI7qUZkKTb7Whpy33yHtBvsAuFFPs8amqyUfHJOWg44MLHBtjzumLUyZA3fYeWM_2wVai-dSel60vCigWCzAWqGp5q9-w3D_UA6o7WmLkDooB6RmJtI_BwFN5HJdq6TfMy8Zr732lhIW2SmxclE9EUx9_5xRVKtXJfDOJUVB8bA6PLVFde94pHQpwJV8OUXpquP3LdJbKMjCdkAwCy-9SkKZFRsHHj_KBNgZXp27Y9HS4KuPxhLoi2lvqYStbhphRLVTpsm0DGFpFBLQRQ5y2H1TPfOwx9aY8agc9Hcu-oRs_qvgrwzs9diZXrkglFDCnW57FGUEA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/5127cc882e.mp4?token=fWUSxIbqi3IbM8j5wPp3XQFox-FRgJkDlnZj6JQ8uI8Q1yMFAFqRwB9teGzCdnzvgyhmFCcWArjVyFHoPNJKpV2BQfsbzuCYbjOufLRl36xpWDKONrnR3p1xpKdwA7iucjKGURJsOnngt3ZvCCv5ZqssayL2zdvnCDTKsbYhhRSV_HwmkCqeqMk56rZ4VecSKPJrPXtXJ8GqZtpSZs1YpYUadKcKmtoPFnMkMIU3pN0z7Fm_qXcuYCmdLEoZZ9JoHsHSTXINrmGf4X983YS13AgFJJDcF8uEJHATSrm9Qo9MKzUzFvQlZRDisZ-tGgbdpaKNuab5NqfEWBcQWjpVKg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">❓
 چرا عنوان ویدیوهای یوتیوب یا زبان ویدیو برای بعضی‌ها انگلیسی شده؟!
@@ -767,7 +812,7 @@ YouTube.com
 </div>
 
 <div class="tg-post" id="msg-2665">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">در حال تست و ضبط چند ویدیو جدید هستیم.
 👌🏻
 ممنون میشم سوالات رو فقط در یوتیوب بپرسید و در بخش ربات ارسال نکنید.
@@ -776,7 +821,7 @@ YouTube.com
 </div>
 
 <div class="tg-post" id="msg-2664">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/I9F_H6wCvKIJLU3YNryWb0pSXS_HETsM0ktyCz6hkoNkyz90942TRZqQfbWJQKnBJTQIS-XuBbybl-8NMlEcCcznw4Lat9TjEP4cQRVdoPNgVBVEhuI_NnbKqRXBfWEm9vT43MpcMuqrvJ63jpOwhzdcravOQIxEJ_tTNxCU8M44x8-AVq4fmnDOjts8If6vSVAS8Uyhk6KZeqL3l8EUxKWHx5ZvFElvKlVIaL-BJRKETo14L58RGKVGuDaobK6s32bl9sdVKmNN9tdBcFJqwhbMjAhUvyCMedfDckfJtk1-4sPkfY-13_hdW7kgdP4nWpq70DfVOq07WCm1C3cn7A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 پولی شدن پیامک فعال‌سازی تلگرام برای برخی پیش‌شماره‌ها!
@@ -806,7 +851,7 @@ SMS Fee
 </div>
 
 <div class="tg-post" id="msg-2663">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">یه چیزی میگم شاید باورتون نشه.
 مردم الان بیشتر از اینکه نگران جنگ باشن نگران قطعی دوباره
 #اینترنت
@@ -818,8 +863,8 @@ SMS Fee
 </div>
 
 <div class="tg-post" id="msg-2661">
-<div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZyQHRVN2HYQhmXr9fEAgUecXaSrH8EXrt-PFHhB6YNPMVDJ2PuAs3e9rMToCaEUhkD7_JBj9L8Ginx4QB-evQXTzrVXnEV4hLV0GXq-xgUVaSVzksQTSBZk7nx4C5xKHq108rpY13h0cUpXP4R2YeasxRejbb5AxtGTh4JVr3f6_pFjOiI6BnXmP_MibyWAK4ZQ9psXAh6sLYClhUvxojgH4c4MysepRseqWcNOHKrryDHwOrxXzD9LK6Glj3U5FlkLqV5BD2JzhSB9sUjJ2xsSN2rDzqd9tUn1Ef-HBW4lMwXqgtbVRvK2Tca1yFPVYQkMRVGBx2eEWVf3OD6ATDw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/R_aUARkImRagiQtVxbWxcYKaQQBsBrBkZ_sxj8CdmoIsaoGGvvwth8CSN-KLbiljkkc4N0ylS0pc-O1h7hK9HuVJ_GwYKocBrbSF4Bm3e8Cw73QAgSi1Ae_8ViKrvGVzgfH3RGcdI_A3-WaTE7gx571IUGeGeRu9JGTPUOemJonF2osyFFM2qrbsSeFcutU2QJcNW7kQ1fMbGMU7Uzi5A8xuxsQi6i3i7Fm95IUQsZiT5A10Q-pEd5YrUVba3P6v39Ot6l5xjMgQ9n_gxEY6oNZce9ANqRbf9hqsuzcSYA_86xWlcDR8tYK02XHRs4iim771fz71gcSltpTOHUShnA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 مدیرعامل آسیاتک: اینترنت دیتاسنترها هنوز وصل نشده است!
 محمدعلی یوسفی‌زاده اعلام کرد اینترنت کاربران وصل است اما مراکز داده دسترسی کامل ندارند و شبکه به وضعیت عادی برنگشته است.
@@ -840,12 +885,12 @@ SMS Fee
 پ.ن: البته از وضعیت دیتاسنترهای دیگه اطلاعات زیادی در دسترس نیست.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/iaghapour/2661" target="_blank">📅 21:49 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/iaghapour/2661" target="_blank">📅 21:49 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2660">
-<div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K0F6eT3VS8bcYMmBEg5FZtZQSNRKfRqWZDpTG8nQHwps-DWr4jGf47OOxZR2khXWPQMaVnqWK58RsrguNfE6LCNlahi8xSQg-5c4Jmngs_lgzx_6R_rYKag3A9lVtqJGdEKNWmZdDvlpp3GGqITHbPsFj6p4s0se6a7eBOL0kTXILTrN_i2W_iT3NZ0xirsjmFyFcmPxY1mGIL5XKDRDjl-JDc_osNCA1W4Js_Lcvi1Lmu4CBgt5ZFkXv_Vz7fZ6pCD7tcxXlcfWeMQJTHm21sIOg-Zu7YrQ0HNqoGL2IofdnGNWbLgbbwwLbBCR8Wm-EtJE-S6iN39Yim5mH5y-mA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/adZHpktpOrCjl1I3kfs1Sv5EpveyzQ0F5RXIha05G7iVWTDZywn2jEIo2EuTfeiaofevCe0AhHKyFsAAwRCkwT4L039NnH_NeoTXR3MBdXjLylwWUKY9bUxacEMx8YQ0S4HsSTgeXT3d47NYT9bbE4cp1qJEG0xH1r7Demax99a6-yN8QPhBJfF6LRFDsXDES2LhLusNv9kw2bveuwXJf6pcJg_-ffQi9aupKbWIvGAJXZYxREfR5cBBCwLQiHfXbWjXJcC9gz6oL7Tz_5_7uHJwVrzCxSH_FJo96XN5Xpd-xsxrr_6wtvgPZB3vFHRSP5cawqsIRVX3Zb3n8uxiQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 سرقت بی‌اجازه ترافیک کاربران؛ پشت‌پرده دسترسی ناگهانی به کلاد و اسپاتیفای چیست؟
 دسترسی ناگهانی و بدون VPN به پلتفرم‌های تحریم‌شده‌ای مثل
@@ -875,7 +920,7 @@ SMS Fee
 </div>
 
 <div class="tg-post" id="msg-2659">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ogDMvKSryTHr-LX9LouCK_mfQik48UWThF0U_fui0gHk_JIgkmTqHxYtK-Fc3bDUG9oIIxWKJbdAJ7mVReJvN5JzcTYTmUZVh0hnA1eTML9EA64maw8GUF36TTrfvv81XCdslnNlyPj4ApmReF9zRd5WkD1r0NEg-rslTiptnvMz5dRBjZj_7OEWekLHPKizl6dv13QBG1ldAXC7sWRLV3vHoa18gHp9WjvNNXflZUgru_4LWeqi_3fNRAGd2TOOuN6hr_LuIxYvmD2W-ghyMFN45F_Cew1zM9ACDVVxt6Z-lEI3a9DTGkhSK-qvxlh9LDuAZ26VttpzB5PZMaebcQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 نصب خودکار داکر روی سرورهای ایران
@@ -887,11 +932,11 @@ curl -fsSL https://gist.githubusercontent.com/ShahinDadashpour/35892443c09d582e5
 لینک سورس کد در گیت‌هاب جهت بررسی
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/iaghapour/2659" target="_blank">📅 01:06 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/iaghapour/2659" target="_blank">📅 01:06 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2657">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CzelKDRACr7d_yWJk18hsEHX-7lLYniuh3HpPPfGHDc-kL9VY7l_Zl72LyGalxb8KCfYXbUZ1MGEIdt96geljTtGFg2tUAeqGIZJPRgpWOGL_J99izxCSAgOaL9BDCENpkeXmMNpf8mZKjee2TsMpidcUSAm7LaRuBeCi3D3I8jf5WubxsJ8lHQMWBJDPUGtQaHr-p_eq6R_KjNGAtHoMKJYKF4UbsDdXibhVm_HUeXkuPNc-qu31YxT5SSMhRtYy8jLbRWNDYQGZW3rJ8OuWFI59-IXocj8Wuj5c47e2USxCreZatlI8_02QG9beSf--VHl6Oyx0zJfUAISwLJGcw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش ساخت فیلترشکن بدون تانل و بررسی روش های موجود
@@ -918,12 +963,12 @@ curl -fsSL https://gist.githubusercontent.com/ShahinDadashpour/35892443c09d582e5
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/iaghapour/2657" target="_blank">📅 18:35 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.4K · <a href="https://t.me/iaghapour/2657" target="_blank">📅 18:35 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2656">
-<div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cIwGX4OAaFNxz-DVnvfeS3chAIMhIS56Z5SqQuWEh5p8qq6Ai0LEwqmcMbYd8K-qQ3NlsJN1oYHawExxTARZxa0inSkh18JsGlQw9Ld_0i3pf9okaeg-AVZWozbv5kqYikRVbA76VCoS7fGPXulDDCBJOpU-HVm5v9Z0SGzjHa7gogz66NuGzc3GGKT8aqiNU9ljf5h5O-X1nnAwvVtd8yv-TqMXBdBpdWhOpqJ19G_ke8-kl9_BPfPKtHstCJvFBKN_WwbE3hsxVcmKCV9mqEAHEoEbcYjLdZ-mfZELJ0QUix7zWRE4fdE9cMPjqM7AUnS7Fq1IZ_pV7-rqypsBXQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a9DEXvgpr6Tqy9s9sPl75DLVI8g11pgRJ6toJM2QQHXQ1ypOSX0B4rFMqrDoFOkWd6n4InWuvrn2rcVSwAXAtV1fd9YLaT1JcFYHXaSb2Q-ZR9EtvJc_-LdUj0bhyVHtib3XySdmi4c1-Upf8g_Ww4c5ZqXZ-LRg_3XdRAuWsLjnyYp6DX4wC-_-7vlo0kNUWXSfPIMD9AD4ePT0Hk5qH55f6bWX-7RNUr6MV0BAkb7MR35BWEG0i5rFYME0pdNCQiNv9bFrML3cI2_ljDQaDf3HqFLb5k4QdID35mNU0d_K-ZUeXhBGXYsR0AAeewVG5Yh7tVYzqGHlFLdQdrjAZQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 بلوکه شدن ارز دیجیتال در خریدهای خارجی (CoinGate)
 دوستان، یکی از کاربران هنگام خرید از سایت
@@ -948,11 +993,11 @@ CoinGate
 🙏
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 34K · <a href="https://t.me/iaghapour/2656" target="_blank">📅 17:00 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/iaghapour/2656" target="_blank">📅 17:00 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2655">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">📢
 دو نکته خیلی مهم برای شما دوستان عزیز
 سلام بچه‌ها! امیدوارم حالتون عالی باشه. برای اینکه بتونم تو کانال بهتر راهنماییتون کنم و محتوای باکیفیت‌تری براتون بسازم، نیاز دیدم این دو تا نکته مهم رو باهاتون در میون بذارم:
@@ -972,7 +1017,7 @@ CoinGate
 </div>
 
 <div class="tg-post" id="msg-2652">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">رفقای عزیز سلام!
 ✌️
 دارم روی یه ویدیوی خیلی کاربردی کار می‌کنم که سعی می‌کنم فردا یا نهایتاً پس‌فردا به دستتون برسونم. تو این ویدیو قراره به خیلی از سوالاتتون جواب بدم، ابهامات رو برطرف کنم و یه گپ و گفتی درباره شرایط فعلی داشته باشیم.
@@ -982,7 +1027,7 @@ CoinGate
 </div>
 
 <div class="tg-post" id="msg-2650">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromNovin AI✨</strong></div>
 <div class="tg-text">⭕️
 کدهای مخفی چت جی‌پی‌تی؛ ۸ ترفندی که پاسخ‌ها را متحول می‌کند!
@@ -1018,8 +1063,8 @@ CoinGate
 </div>
 
 <div class="tg-post" id="msg-2648">
-<div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/neRDgoVWu3oTokzyv4tEqUXzZuUp-O_bXm6ZAKGXI2b7mXIgiYnXC75lEzGhxnm9EJJx0jFsSIZbRyYj5xNS2gkPWyNO9yRsN5dF-peZroi5voTqYjU99vThxckoXzilJ7TDCgs99LCsXxuT2DSkt-E7mB4LuTFO1SXCOBwzn-tGtHIP-vwhQ0cm4rO6ArOpbPElrH5A9Y5OSx1XDyXK8Dh9dqaBXwTxd04kBSxKRn5vRzGwINnsuh6-goiskbEKT8ZnDreXGJVTTWfoKzAsEFRPO37_H7g034hBIJ3NDZPxAWCb-E4vl5QS0HWA84x9f0r-dMhMR8Cau5vvuXjFEw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TJC7MjiZwD3snLR_FVXdJCcC8yX99oeeG_UGA0HGX3xO0rshdZ4_YrNBwP85n9PDCMWAmOk0cUmFN6liQQ5MdcfI9Gon8r1AhDdxNCSjMXg3h9AjsjuiXp__DpkPVryeoI8TmWGDY0IslSvF3Ki2RzFPZdrYLVkMFfie7pZ2QwPOOKYDyGiGFwJYqQ6KpS7JWaP1ucm4AqLIocV-X8mH9h5n3hYH4kUydgPQcZ2o7GcdYF7bsUD7vvvC2dMI7PaWI2WH4-sEj85aWh7DaZIsKX18hMxVx7rEYHxyVnwjzW7y4_YoMOR_gOflwKpry6uL_hd6xu_MRcQN7BzWvBuU_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی GenyConnect؛ جایگزین مدرن v2rayN برای مدیریت پروکسی
 نرم‌افزار GenyConnect یک کلاینت تونلینگ و VPN مدرن (با کاربردی شبیه به برنامه محبوب v2rayN) است که با تمرکز بر عملکرد بالا، حریم خصوصی و کنترل دقیق ترافیک طراحی شده است. ویژگی مهم این ابزار، وابسته‌نبودن به یک پروتکل خاص است؛ به این معنی که می‌تواند به عنوان یک بستر یکپارچه برای موتورهای مختلف تونلینگ عمل کند.
@@ -1038,12 +1083,12 @@ CoinGate
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/iaghapour/2648" target="_blank">📅 21:33 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/iaghapour/2648" target="_blank">📅 21:33 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2647">
-<div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Q4aQ-tL00w135TXYmSGh8jryj4Y1np7O3tQ8eQKyoVYiD10D1AYbKHdtGUBxmrgbj7zlcK9ekVj6PEaPhnu7O9OvJN88aznZ6YvCqGcis5Iq14tfC0XN_y7udCx8bGNQUn5jCz3FpwyArYPXEb7hWfpXTyTt299vHXOmV82Bofc7NaH4aAruk1JoxNab-Iabce80YOMP0uLWbpJn-UhnKwfPu0gWNhXljeTX1AduSmvH1YXm123jThw3k4cc4ABLYUlHxhwRHXTkLqLrjvCQcDOnNiRbOZSVOLyxz896oHiHdHwIK6ISn-J5tvLwetVlkSghtZkjwGTh7RSjMJ7zdg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hXXJYAVlTqAPsxLvDNObq8HdCFzMayCHT_MmlHrA-uxuomeVEzZZP7W4w4lmVkEgMZ0l6ruSDI2QMWy-5wR2AYJ3pBdUiIjiinjsN4qXlMuoltnZcwVKJGVn7q8a9oCwpr26yCd8LF7nAF7RFu--YWuIB9_dSQ66SpeXsvp9hCyfI29HLh3dhXOXHLpRx5HUYPMwyJ0-YT0DAWJM5oRIdcYKVlmmeIsfssVAkWe-jsTTCQ_E_QyUS0REdUNXJtiN3zKYZ2jOIK6jFcIE9QjN2uRLn_3xjWjORPodMsY5LUXhpentDxJ89xgc50eUEqiPEyTPKHqmptc4tKCctYc6EA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 تون‌کوین به (Gram) تغییر نام می‌دهد!
 پاول دورف در کانال رسمی خود خبر بسیار مهمی برای کاربران و سرمایه‌گذاران شبکه TON اعلام کرد. بر اساس این اطلاعیه، ارز دیجیتال بومی این شبکه قرار است با یک ری‌برندینگ بزرگ، نام فعلی خود را کنار گذاشته و به نام اصلی و اولیه‌اش یعنی Gram تغییر کند.
@@ -1066,8 +1111,8 @@ CoinGate
 </div>
 
 <div class="tg-post" id="msg-2646">
-<div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/S2zD3SkSTDbcDMVKt2lbOHFhXNH9hsCUuE1BSQPyNUfbT2-302dZt62Q2AHOdPY50WdXFhGZ4HRFm72JkL4Ymh-DnDBE_CijhkSJNgewFp6wPe4P8dDXW5XqwSG3lHD4mkcL2t7oIBplrUWwIb_hJOruzEfBaexDVjq6GLJTHWOCcSoLnfs_KGpSzhnAb_AvMcE9q-2Fgyp1_fPnWZcn6UVK20Fkx7qLBwu1-JGlQ6SiZOOXK_CA55jpQd3I-akrghilOJGStp9vaRPwgRSBroIroAVOs4hm7ORtrr0_qpfSysGCf01YgTNDwUhCEIumLAvJAKFAwJhhELwBMbSY-A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f8mcvqXgZeRG4hypaQwiupbD4h8hpzsu9Iza550Vu-IlcRYs2I2Tdvmq5pt18_EaslHjBC0I17r7HbWccB7CHBhymHNvIHMzLmCeJiQWp999_yiHVrDIZE6IFAcUqZJJrMiLS0cScw0FNIr9S5Uy1oC0haarna0g9i9Z7Pj0w-QLazK2aYfz9Rciy93kV3eoq-SvoDEjaodTNgVErx1m6qTl1WiKctlFPVlshPXa6X8sOh_9FlBCuKCnj93crVqvq5eKArAHxTXfJUPGUR7XayRDB2B1m0zwTonTXi5OD4dXDYqswiO_AhWlEsgm9t8AqKlU3c-iTzVDxlb8C5Pq1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 اسکنر IP سفید کلودفلر با نوا رادار
 🔹
@@ -1090,7 +1135,7 @@ CoinGate
 </div>
 
 <div class="tg-post" id="msg-2644">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1109,7 +1154,7 @@ CoinGate
 </div>
 
 <div class="tg-post" id="msg-2643">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ncfm_4EMDU4yuAZoJubkD2jcyq2jWszZaQ91XjtWaK_NEhmyQOQz7NNPseUUhHSfjkzdVmtpISTWOcCmbAl8zMkH0x44KTfxa7mnPEozNHsDmupr6VICof2g_OcQpZ8eVU9pYv2npD15QxrR8MbJIKS7R7IEEHlPWbJoCIPlUOJbor4PMcKTpLt7TOgBhyHhfBxwYbwz1van9xII9TMdbbeTHW59JC6Sf-Yel5Ili0ZB8LXZUxh0EuGJPoCLLrnUMiad5JV66fF0Dd7Z6BGfPpWfhsb4ZXElIz2IxyH_eRB5JOcWtKf4l75ZNYq-cKc57RVHdr-abiNxJFej01RxeQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ساخت فیلترشکن پرسرعت و رایگان با ورکر کلودفلر (تست شده)
@@ -1137,8 +1182,8 @@ CoinGate
 </div>
 
 <div class="tg-post" id="msg-2642">
-<div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J_hOxIQ3gfUTQBXXXzLg4mC1LWRlq1ygemAWLOI6QNO0-5nMF0G9wuuo8nxeA0f6Zudh6j-So4gC4bHpU6LqbksdzQlvG7d-G39r1GzHororv-SeNmBNzggcEkBXFm4bHorXCeySXYv0dNwonkEIryPagEWhUpjqsxbehKzoYbU3Zp946NiNPmkpLos4Rm7rqYqipPcVvtjYmndfbesoF6M5ZENHj9JkHguWievGRQqx7mmrytmpgcCBN2OyiBduEUpuxx4kHlNH-V3I0hn8wzBiWEjmQXa9M9U1WU_dF4the7_OVLZBZLWIrGWV4tVXiska1TDKt6yBE6Bxi0MAgQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TsDOQ3_F6v20FULxS81tCU8Jao_y4qhTy9PE_l2mqx7IEKLiiYB8Gn54x-N1avLD_pW4-Cs2de9iAZt6p5Cl_Xphzl5nhOwOTvSqmvexPhVDlEUbR7sbIyd5ejL-fIMz183B6q1Hg0ARrBmAlH2AHcj0RtR6PZSDtid8GoYRn8FEIP-KPNMWYaWsYDRQGqPaXyne3OfcaTV8YjYmf00EVK8eePqEKC3g7fl7fsKq35x8FyXGB-YOapwLIWcKhGNVa_jKtYy1fr4XkYe9kmHxyk0qXshEuR_mbmm2ORKehZXDBfu_fCTh8CKbww5nIk1Ilx4Vt9mgJihCO1fO3OKCXQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آپدیت بزرگ ویندوز ۱۱ منتشر شد؛ پرسرعت‌تر و هوشمندتر!
 مایکروسافت به‌تازگی آپدیت جدید ویندوز ۱۱ (نسخه‌های ۲۴H۲ و ۲۵H۲) را با تمرکز بر افزایش سرعت و هوش مصنوعی منتشر کرد.
@@ -1158,46 +1203,46 @@ CoinGate
 این آپدیت با رفع خطاهای ناگهانی و بهبود سیستم امنیتی Windows Hello، تجربه بسیار روان‌تری ارائه می‌دهد و در ژوئن ۲۰۲۶ به‌صورت خودکار برای همه کاربران فعال خواهد شد.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/iaghapour/2642" target="_blank">📅 20:25 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/iaghapour/2642" target="_blank">📅 20:25 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2640">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-footer">👁️ 38.5K · <a href="https://t.me/iaghapour/2640" target="_blank">📅 21:17 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2639">
-<div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IoZF-u4vUWDjrKG68DR3sor1z4E0ih_ZVY39nfKZxIE_ajSgrt_3wCGG7gTw81Lv67hZHDQTF63FHvgCQmCsj2ay8gCMI9N64aa5PDc0a360T7iuwd3mCbVoNAkdWKUTp1yM_-ZD86PWmfJjf_AbXcGsXZDfEgNWaeQRWDQEn_1riY9Zy1wjVu1ufuUQHsRh2OGN1WraSDtrs9qO-Kld36Dube4SUeCkQxokHyTiuQVRfV_9kFSq2SNRA-IRDelngjCOyfWmqJXAqUgRhHoBd0Li8cuNfgW8xDINN_kxDFt9A1-vOAKlFq2O6y7mKr30tJQJcWrFAd_vOVxWpdSATA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Fj8nKQKqq_pKFRR_Gw6l4ttrdSWkT2GS3Bgq3L5SQRYvETGXIOK88HOaMHr_nWwIjaG3f0-XH8u1pUJ4hSG6ZozXcl_XEocKsxi3maAU4A2z69oBpnLfydvfHcggX46sf8kjU6pKLcpH1vvJH5vsg4w9VDVVbcJECOebcS6vZa-ZdxENywSlCZWf3-2dM421sWs_U3XUBd_j0Hep4IIlUSSaLFXbaH_N8jyehV2H4AeVZa55NQVjdlnS3Nm9pt_9LwLKvlGFGYvtfxX6_1v_cQKG9lHya67ns66loLb9e22LzM9X6XJD3V-vfzQ8uUH99NVrt76A3ha0SsvnOkD9oA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مردم ایران در حال برگشتن به تلگرام
 😀</div>
 <div class="tg-footer">👁️ 44.1K · <a href="https://t.me/iaghapour/2639" target="_blank">📅 20:29 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2638">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">💢
 وضعیت اینترنت جوری شده که وقتی نت ملی بود فیلترشکن ها راحت تر متصل میشدن!
 راستی گوگل پلی و اپ‌استور در دسترس قرار گرفتن و البته ویندوز آپدیت و...</div>
-<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/iaghapour/2638" target="_blank">📅 20:22 · 07 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 45.8K · <a href="https://t.me/iaghapour/2638" target="_blank">📅 20:22 · 07 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2637">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-footer">👁️ 46.7K · <a href="https://t.me/iaghapour/2637" target="_blank">📅 22:55 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2636">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">🔻
 بچه ها میگن انقدر پهنای باند دیتاسنتر ها پایین هستش که اکثر روش های تانل که اجرا میکنن سرعت بدی داره یا دچار قطع و وصلی و اختلال زیاد هستش.
 خیلی به روش تانل بستگی نداره بیشتر مشکل پهنای باند ضعیف دیتاسنتر ها مربوط هست.
 امیدوارم در روزهای آینده وضعیت بهتر بشه.</div>
-<div class="tg-footer">👁️ 54.3K · <a href="https://t.me/iaghapour/2636" target="_blank">📅 13:17 · 06 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 54.4K · <a href="https://t.me/iaghapour/2636" target="_blank">📅 13:17 · 06 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2634">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">میبینم که رو فیلترشکن ها تخفیف زدن :)
 هر گیگ رو 10 و 20 هزار تومن دارن میفروشن :)
 پولی که بعضی از افراد به جیب زدن تاجر ها نزدن. طرف داخل سرور ایران سایت فروش فیلترشکن داشت! قعطی نداشت. بالای 10 هزار ممبر داشت. اوایل حتی درگاه ریالی داشت. بعد بعضی ها انتظار دارن ما باور کنیم اینا به جایی وصل نبودن!</div>
@@ -1205,7 +1250,7 @@ CoinGate
 </div>
 
 <div class="tg-post" id="msg-2633">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">⭕️
 چند خبر کوتاه از رسانه ها
 🔸
@@ -1235,12 +1280,12 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2632">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-footer">👁️ 38.6K · <a href="https://t.me/iaghapour/2632" target="_blank">📅 18:16 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2631">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">اینترنت بین‌الملل وصل بشه یجوری از اینترنت استفاده میکنم اختلال بخوره دوباره قطع بشه.
 🫠
 گوشی باید آپدیت بشه.
@@ -1255,7 +1300,7 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2630">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">🔻
 این روزا انقدر شایعه و خبر بی‌خود درباره وصل شدن اینترنت پیچیده که واقعاً حس و حال خبر زدن در موردش رو ندارم.
 با این حال، سعی می‌کنم اسکریپت‌هایی که زحمت کشیدید فرستادید رو حتماً بررسی کنم، به هر حال از دست رو دست گذاشتن که بهتره. راستش با این وضع زندگی، اصلاً هیچ انرژی و انگیزه‌ای برای آدم باقی نمونده.</div>
@@ -1263,8 +1308,8 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2628">
-<div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BwzGy38adZyYGmtaRfOgDgegUhl9rxV82BfrVazhdiy24DFeuU_s8O0ox0oRrJMhOGDxC32gyuqiBrIIGjWjTJa5couDBAM6XkF4d3vVLM2ii8dV9ZNwpsfEvGIIuaZ_dWwf5HIyXQhd7gEb08waslld1X0S22XOcFCfTqu25YEtFp3fo8J7GMXbHrzNJ87ow7cMHq5f087Dfd3mrOajlZZXQKB0NExgwAD1t4c-qfnrGJV_YrYKk6BXdahRlzPkfZDH83Hgrtk16tdCREWS2Sa_IsPtpMqthRIs0x_vBaYHppibwUc2iq9Gw8XJh34x6Lv8Poo6sgcUlfbIv_05Vg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RfjFxdy9MKleDr6XT9clUsw1PTlLqiL_8PO0tfTtRtFucW3qu66tfdAwIuDG4rKGg7hAzM_gnq6A3IXEskXCnpqBOn-sl89qFeVxEDm0B_k_6JFzqS17UrgFuCfXfjYopnMFoNjD981fYcJokXSd0tGZGA9t7QCdSsKhvioEPAmOhirQx3Lvgr51z-glKzbwntfOqUNYWmw4xLTcoR_24hNPM-nOJvCTxaN4KIm6RnNnsDQ-jSq5XV23p2YVTPmpQboCDUMC9LeT6aLcIKCNwboYPGvbOx3G0KOAu5DoQ1fQk2dmZXr3fpfSXUI3E2IVDooavuTF_j0nIcqDzb3vGA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آپدیت جدید کلاینت اندروید GooseRelayVPN
 🔹
@@ -1297,7 +1342,7 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2627">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">⭕️
 رکورددار تاریکی دیجیتال: ایران طولانی‌ترین قطعی اینترنت جهان را تجربه می‌کند!
 روزنامه معتبر اسپانیایی «ال‌پایس» در گزارشی تکان‌دهنده اعلام کرده است که ایران با گذشت حدود ۸۰ روز خاموشی دیجیتال، رکورد طولانی‌ترین قطعی سراسری اینترنت در تاریخ یک جامعه دیجیتال را به نام خود ثبت کرده است. این محدودیت‌ها که ابتدا با توجیه شرایط امنیتی و جنگی آغاز شد، همچنان ادامه دارد.
@@ -1318,8 +1363,8 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2625">
-<div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qgxtpYY7f1puiRQytasqsQj8U6FiN4hBofB94fjxd5sziHUna6KCtWxELjayv7RGtngONRuDYQexhLNzB-PCREN0nfOUSpkErMzFlP3TInOuLqtpOPPKC0HrK-C_MR4uryeGcCBGjZjJvox80KvhRw0XfDv1NnWUzaq6VCU4HmJDtF2fLwAE_SXW4hgIWt79GJvMvInpC4qr5O_rNj37Waxgx7CGwpa7qc_VpQtJ2DASlaxLj2ifa2lQQPZIbaIpLxM6SbBuogbIVIkgl-zY4bstgjxWn6JNWpP9RZv1W1G672VXrSe7e7jeSJlT0XKzxbp0ELSkzesxhtxVXxohdg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uN2KS8QserH8b8zJobAL9Ie9OXdMoymX0lQ6DlX_mZLpnWfIQMcd8UW2UbpA2w25IVKMoPJ7-GsPeg2DG9yJ5AjqMc_R--Br8EN65inUYlieviYlDLi0_2XX9PynF_-YdmTpggSSKpWiLjMhyriDlcMi4O6Di0d7Q91FWWLX4keoTXQyATM-BwQgCgA9Z-TU_vIjCt5cyrnoSt8Zt5J27NGrx-lDfjr2Dgn8tniPSFkS0b81kn-ViQX9nT3Jlg4fOieYJ75v8UgUY-fS3QiLNcFqFqwkipN6UIMljldbsixm07bhAzhWl2iC-O8VXuZz489aSCa7fMydYPlRbYh4cg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی پروژه XPlex؛ راه‌حل هوشمندانه برای جلوگیری از قطعی و پکت‌لاس کانفیگ
 اگر از کانفیگ‌های v2ray استفاده می‌کنید و پایداری اینترنت در کارهای حساسی مثل آزمون‌های آنلاین، جلسات ویدیویی یا ریموت‌ورک برای شما حیاتی است، پروژه جدید XPlex یک راه‌حل فنی و کاربردی برای شما دارد.
@@ -1341,7 +1386,7 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2623">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">⭕️
 نماینده مجلس: ۹۰ درصد مردم با قطعی اینترنت مشکلی ندارند!
 علی یزدی‌خواه، نایب‌رئیس کمیسیون فرهنگی مجلس صراحتاً اعلام کرد که اینترنت جهانی فعلاً بازگشایی نخواهد شد و مسئولان به این نتیجه رسیده‌اند که اتصال مجدد آن به صلاح نیست. او مدعی شده که با پلتفرم‌های داخلی، احتیاجات اکثریت جامعه برآورده شده است!
@@ -1364,7 +1409,7 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2622">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">🔻
 دوستان عزیزی که درخواست معرفی افراد معتبر برای خرید فیلترشکن دارید؛ طبق بررسی و نظرسنجی که در
 این پست
@@ -1380,7 +1425,7 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2621">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">⭕️
 اعتراف رسمی دولت: ۷۰ درصد مطالبات مردم، رفع محدودیت‌های اینترنت است
 معاون اجرایی رئیس‌جمهور صراحتاً اعلام کرد که طبق نظرسنجی‌های نهاد ریاست‌جمهوری، بیش از ۷۰ درصد گلایه‌ها و خواسته‌های مردم به محدودیت‌های اینترنت مربوط می‌شود. او تأکید کرد که سیاست پایدار کشور نباید بر مبنای فیلترینگ باشد.
@@ -1401,8 +1446,8 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2620">
-<div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ajRtOSjfvaWGdPOwC8KO1X0GT5RaVrkpiEjLOyUxuwVQ1moDSMJuqM5ePvCINK2-DhjQ2T7cw-1gm6bE8G77l6_gB4462Kt2NYMkHgwgY_ddqr3LZ7w-wUTw65g5bO3qCHqSVXiMPu4YwAIjF96C1g3LX1TEF0jovsHPeg6XOgJ8CZNUPPhbt5xMWCcg-H7NDghLyWu0j4ieakfdwxIcGyp2Oq8lFieBbosTBlso0C2DWqZQGWy5m1l_2iUIGy-R7yVGPvQJPoeiZPc_HSywQ-k3n4mIdXHGZ_2Yyi4RXYxxVy3QdttYRbdqhvpFCv715v7zQ_5jIPbSrambSSk-gg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oa_mI8XTUeGiVbcqaXDMfLc5LyWF8rT-9CmjsmJBdDlTuGQ4hHqa1yuACukVACAYlGCCFeLQN6ykQqEM9q1_xdn6mWvPQ693JfcYOMWPsaOAU8nImP3qDE5zR2o4UGEozPTtP8v7iZgTH2OHO8Nt5UN3FeHOlKcb5v3j6YzJe0azdsluYTiIQDpCsyJBkp2-zHi3-EiU-4zrpLcVV8SAzvBEHNuPug1FeCTwvRFE67N6XKT3-Tc5G00kD_DSfmsGXkpRwUv6NKsXZ9tEfgrmwRWJ3lDPsJIg2lPVAzU3CylgTtvr4mlAvqlP9MLROS3plgWSP6P7R27N67HYuFwdFQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚠️
 بحران خاموشی دیجیتال؛ ضربه‌ای جبران‌ناپذیر بر پیکر اقتصاد و جامعه
 🔻
@@ -1414,9 +1459,9 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2619">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromNovin AI✨</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QT3WVnI7OW6iiL505yPUH-_UUvYADo5qTxty-CZq43fmL-HAK48G6hiDMHIO9OuyjgLMLK40JOZP8VVaOArh9hfsvWb3m3iHMQcv-6jAFB3onUPq_nFbUMYkktAUgovpFhS65InMLT7DKVDbqFXS4RN4lNVFADtkpgdLniHT0bd_fU2SkUe-tF_7lF3aBHFQorC674G1RZotHxzNrCJFKso9e0iV6TiP9tWuyCvDc2kaO00V4bdwWIUKoZUNZj1RikVDPGfcKzbd6uZwdIIQ94xkDSHRdzebRSfZigtwDMbbm_tXumlBJfjF1blV985v0K0sAYTzCx3RSnOKn2Qzuw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uiOE5IhfQmG8hcmlNxlWApcDPfUJ9H0ltAGj9JGxJpRC6d2MjPkmL3EEhFaeEkiO5x2wocLmkSAzDHZZnUMbatXjJf-udFv9lrlvex4ST78J_JMeyFYJkmRN2Bj0b4Bza0s3kQkXA7-JOA_KgsadxnXrSHL0E_G42x7CsPc2VoRoZtE7tSOEEpF6o3CChoYTVuTf4lKMdW9dEEAS6bt4R-C4rPOF1SrbhD8thaaxckqKdoq14q7s3GV12cIdT4_zUO6ulpD-r-UzgoHhpu8f3kPGsHYgpqfJ26cUmO8ZrvF6AJJ1EF9cXYiB-V9DQD14J777BTMEv08gv5_XPcWTBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 شگفتی گوگل در Google I/O 2026؛ معرفی جمینای ۳.۵ فلش با سرعتی باورنکردنی!
 در گام نخست، مدل جمینای ۳.۵ فلش عرضه شده است؛ مدلی که با وجود طراحی شدن برای سرعت بالا و هزینه کم، در کمال شگفتی توانسته مدل‌های پرچمدار و پرو نسل‌های قبل را در بنچمارک‌های تخصصی شکست دهد.
@@ -1438,7 +1483,7 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2618">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/U2INTh8v6nAe87P49K_h9PE_p23VGrdiEj7N5DIXtPGylE53rOpWVReD6aUZXozHgxd1Zhny7ElRAHBxBfJ_A6k0cKbhKWmRfhivd2fJoTAXLTe489UlIm_uq2ayncSIo-svgYDTiVB1-Km_2On5CeYbOlcw8zQnbet_g9m71ifWxk530isSpwA1aKzCaTpACAMtPGzv7eJIioavsmDX4Zpu6teJJhYhWj_DLpxngbudVrckicXAlVtb-CSORg6j3gvswFL9cqhDKCFQYZjEZfjoNuNCzz9YV1mZf03M_4LQYJb83IfRSZVQE-1sIuqx7nfXNsVTi7Jxw9toOiAeTA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 دیگه پول فیلترشکن نده! آموزش ساخت فیلترشکن شخصی و رایگان با سرعت بالا
@@ -1463,18 +1508,18 @@ CallofDuty.com
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/iaghapour/2618" target="_blank">📅 16:00 · 28 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/iaghapour/2618" target="_blank">📅 16:00 · 28 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2617">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">از هر 10 نفری که که تو اینستاگرام وصل هستن 8 تاش دختره, 2 تاش هم پسر کانفیگ فروش
 🥸</div>
 <div class="tg-footer">👁️ 43.5K · <a href="https://t.me/iaghapour/2617" target="_blank">📅 17:04 · 27 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2615">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gO-z_yhGVerriGwcQwjomb63LGplkH06_jcfmXDFLTFmDOFJqqG3ej_bPnkoDGD9MjKDPnvUCI_sghbu6rdMf-NMBXBuEfAMei5agrRHYasZ0zEPqzd7TRsPT9xu3VsF8n7lxsUS_roL1_u5f0f7galLW26LnRJWGB3zz6VfwTDvUevCEPJ_lY_ODgMY6aZyaJPnzlYJSq7E2SZ8w2Rz9hjNbDXCK824ccSvc64p9z8Fwa2dDcawWHl5AzwRx4xwZdp3o4u_Uz63HpVW9hePpNUU1xYfdX6tUy-N3pBq7h1jS1d5BForiWu07dNiRLtpDeQPBBsgGdgGQILuR3P87w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش نصب ساده و آفلاین 3X-UI روی سرور ایران + SSL (+ معرفی قابلیت های جدید)
@@ -1503,7 +1548,7 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2614">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">⭕️
 بحران در زیرساخت فناوری؛ سقوط درآمدها و خطر عقب‌ماندگی ۱۰ ساله!
 اختلالات اینترنتی دیگر فقط یک مشکل ساده برای کاربران عادی نیست؛ بلکه به گفته رئیس کمیسیون شبکه سازمان نصر، تیشه به ریشه‌ی زیرساخت‌های فناوری کشور زده است. این وضعیت نه تنها درآمد شرکت‌ها را تا ۷۰ درصد کاهش داده، بلکه باعث فرار متخصصان کلیدی و فرسودگی شدید تجهیزات شده است.
@@ -1522,8 +1567,8 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2613">
-<div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cfZtqMNjxCPrzieTgLojIQ5M_hbnc0Cdaw3PVUuX0-GagUnuVu-KgWBYDsCXN-ey0Iekr-ONUqa1xk7ARBSDaWuiEFnx3FD95gY6lJERC2wUPqHNMqxWDyJZmPClLcYThnrrGPe6r26k-Ics1AZeQnTFcTfd720SKqiVPBRr-M2S-urKnoKTkw7hNyporkGSbNbrzJVtcfPBI_7eDj5c-QhQI3tLWIWMsGfsvBV9uU2nSM89tAB8cfe6JR8ADPvI4nCh2E7DZgrOKgp3xNWTGO3I2VsSY1REWYf2s1oF_FyxTFssXDrQ7_w8KnIf_NN7YfTMZGOSp1XtksEHtZNcvA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WT6t-Jito_yiWbJ5rGuH5BGVubtA0k4yOBYT6pESThh7WDmWq9_i27_yqR6Ifz6CLvIK3Z0gRzaukSiYzX7MX1V2J9jnDEO5G6BJ-GGuOGIi-3gWItX6xDTaP81n3hdCYGlo27HFVouOobUyZYV7D1PersShO8HUQMIc1AP3uZ_uk5uIs2hdqCAxGa9RCjRTP7dU3_WgP7yRz1p-j3Ido7MjtrY6mPwWN0VzhD53Ah6k41FYYy_XDnwV48dmdLoQwdqJGfG79ynTvls-zaUGOTo7NMfyVRgpiA1jVJ0tmMMXKS-QF5JWD7sCwCcLFkoe-YtzDwZLQAeTVjpL8hJQ3Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚠️
 حرف‌زدن درباره‌ی قطعی
 #اینترنت
@@ -1536,29 +1581,29 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2612">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">کل ریپازیتوری گیت هاب علیرضا که شامل X-UI و S-UI میشد بسته شده و هنوز دلیلش مشخص نیست.</div>
 <div class="tg-footer">👁️ 42.7K · <a href="https://t.me/iaghapour/2612" target="_blank">📅 17:30 · 25 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2609">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">کل ریپازیتوری گیت هاب علیرضا که شامل X-UI و S-UI میشد بسته شده و هنوز دلیلش مشخص نیست.</div>
 <div class="tg-footer">👁️ 42.2K · <a href="https://t.me/iaghapour/2609" target="_blank">📅 19:58 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2608">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">🔻
 سوپراپلیکیشن ایتا اعلام کرد امکان ارسال فایل تا حجم ۲۰ مگابایت مجدداً برای همه کاربران فراهم شده است!
 کاش تلگرام بیاد از شما یاد بگیره :)
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/iaghapour/2608" target="_blank">📅 12:07 · 24 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 46K · <a href="https://t.me/iaghapour/2608" target="_blank">📅 12:07 · 24 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2607">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">✍🏻
 دوستان عزیز، همون‌طور که احتمالاً متوجه شدید، در یک هفته گذشته به دلایل مختلفی فعالیت ما کمتر شده.
 🔹
@@ -1571,11 +1616,11 @@ CallofDuty.com
 در مجموع، به نظر می‌رسه این روش هنوز پایدار نیست، اما از بچه‌های تیم خواستیم تست‌های بیشتری روش انجام بدن. اگر خودتون هم مایلید آموزش رو ببینید، می‌تونید مستقیماً به کانال یا گروه سنایی مراجعه کنید.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/iaghapour/2607" target="_blank">📅 22:04 · 23 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 48.1K · <a href="https://t.me/iaghapour/2607" target="_blank">📅 22:04 · 23 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2606">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">⭕️
 خلاصه اخبار چند روز گذشته
 🔸
@@ -1601,8 +1646,8 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2605">
-<div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gvletliRCaSPqUNj-nY3V8F46q_JCGwWOWIkUUQmJGt04WpyID8ofe8k4zeKlurOtWDT_MZDsvaN7nqHvOZYVP00_PHmvBf45TGPW6tk-VBFkcrwQMOd4ZLAR1MdCkEqJCHi2H2QHHM_7lsgfAaPR1WD_b6FdLCEdCR4IcKzaIEhogFZhtkKu9uTxoIsWrW-EHIlpdvCBiZ6FspbV_ZaMw67lvAH3Pru4Bl7wplUtRs-cqr-YLs9ODV3xKi6lX7Z_J9ZQBSQE4fj5IzESZrWSQuucoywPFDCL_HvD8Xld3cPwz1G--2cbkZs8mUF-1TBBvlNj6JoQwZWnua71cQQrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dB5JVlGw-UcME-69xEvMmFj-12TkmY0frxa5xMIUWQNz-NwpIwsGeAhxmmNYkX0-Dnvj4czQ0DyjExAQQ3yoYMux9XuQBtXKPjLFI8Gz2ClAAbVNp-DDrjNhhC1WGx5i34qsy7-Vdhzu5LwfdS4yUaE1bxp01O2euIAB_nFhN1-rvG66sRHj34fqnxXMPLP-y876tt3L1pDn1dipXkwWRPfniDax4_g2Hr5F1gMLQobyGSDigHlFdoD4hDBaXIpmL9Md-A58I7VuxKFZID_fVJtY_1Wj6eftIzZcCPdAPDH0Jf3pksf0JEtfD5zZJh9fuEtXq75DA-qVsGso2OU5jQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 با اپ TunnelX در ویندوز از قابلیت Split Tunneling استفاده کنید.
 🔹
@@ -1615,7 +1660,7 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2603">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">✍
 آدم راننده شوتی باشه به مراتب اضطرابش كمتر از کسیه كه شغلش تو ايران به اينترنت وابسته هستش...
 🆔
@@ -1624,7 +1669,7 @@ CallofDuty.com
 </div>
 
 <div class="tg-post" id="msg-2602">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">🚀
 آپدیت بزرگ و انقلابی پنل 3x-ui (نسخه‌های 3.0.0 و 3.0.1)
 بالاخره یکی از مهم‌ترین آپدیت‌های پنل محبوب 3x-ui منتشر شد! در این نسخه‌ها شاهد بازنویسی کامل رابط کاربری، اضافه شدن قابلیت‌های مدیریتی کلان و بهبودهای چشمگیر امنیتی هستیم.
@@ -1679,7 +1724,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2601">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">⭕️
 عصبانیت سخنگوی دولت از انتقاد خبرنگاران از قطع اینترنت
 فاطمه مهاجرانی در نشست خبری امروز خود به اعتراض خبرنگاران بابت ادامه قطعی اینترنت واکنش نشان داد.
@@ -1692,7 +1737,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2600">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">🔻
 نمیتونم خبر رو تایید کنم ولی میگن:
 — افغانستان اینترنت 5G آورده.
@@ -1703,7 +1748,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2599">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">سلام خواستم یه نکته کوچولو بگم
 فقط بحث کسب و کارهای کوچیک نبود
 فقط بحث آنلاین شاپ ها نبود
@@ -1722,7 +1767,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2598">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">✍
 حدودا 500 پیام بررسی نشده از 2 روز پیش داریم که پشتیبانی تا فردا همه رو بررسی میکنه.
 جدا از بحث بالا، از ته دل آرزو میکنم تو این روزهای عجیب و غریبی که داریم می‌گذرونیم، حال دلتون خوب باشه. می‌بینیم و حس میکنم که زندگی چقدر برای خیلی‌ها سخت شده و دغدغه‌ها چقدر زیادن.
@@ -1731,8 +1776,8 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2597">
-<div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jn0iIRAlbq3Jm-HYei8T51PuItPN_y0LonVGY-Te5CbKeXj3wizpTd3aCoFRuKX8WsR-zYZzlX6Y2f-vASpaPs8uhVO9EzjReRJ9Au4lce_7BPhLsMJBvr7m7y54fr5TDAzGyDRXMKs_cg07Vv7hW4tLf2DYcv3-nOSZVbBB51K3rq8o0ly2q01WPr9xJ8rfrOOcc2jAZmWcO4xJjU-Vb7fh3wYgr5yMwIdDWNtqUC5wPaFOtWfMzCScKLoqxusGWvCwoDsUCgiaJPljR33ThEi9QoA3h1PWSv6LdojgWgCuXjYDWodbpQA0rirOZntsUgta1ldD88yiXfzIaCQCTg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oo7pMCaJoJh-WRPTzp8kOKOBvsQkzz0Kk6Y5UKXQeuWXXu2WWzXeLeOUSxmJ9SpyyjjPkNpkvwksKLaprGKiHB3ze2fLi5KnzkjhjngrnVgTcZdhd7zaQ61Y3Qx__DFtbiRusVe-I8Nr-tOBfVls_zObj-sh4osm3k-zIZaeGG4dxd8lrnDKK6C9GHsP2BmULQoVbGm6VH1hw0R75U4qL5d45mgLWXorJvn-u9sFD_2VFSdcO1E2MindQcZJ5zVRleUwoXq7pcufPUJFuJK2lh3TJiuzzQJJ5yWpwWc_swe4G2rKhZ5YNIv2nggTjTA-pa9GilbL5MHr9W4I61SylA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آپدیت ورژن 0.10.0 سانگبرد منتشر شد
 🔹
@@ -1777,7 +1822,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2596">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">⭕️
 ساده‌ترین راه برای دور زدن فیلترینگ با تانل DNS
 اگه خانواده‌ شما هم داخل ایران برای اتصال به اینترنت مشکل دارند، این پیام ممکن است به شما کمک کند.
@@ -1806,7 +1851,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2595">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">⭕️
 ادعای عجیب نماینده مجلس: با ۴ هزار میلیارد تومان ایتا را به سطح واتس‌اپ می‌رسانیم!
 رئیس کمیته ICT مجلس در اظهارنظری جنجالی مدعی شده است که فاصله میان پیام‌رسان‌های داخلی مثل ایتا با نمونه‌های جهانی مانند واتس‌اپ، تنها در کمبود بودجه برای خرید سرور خلاصه می‌شود. به گفته او، ارتقای این پلتفرم‌ها هزینه چندانی برای کشور ندارد.
@@ -1827,8 +1872,8 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2594">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cSIqpP4T412tM7HLteCsmWbrhtEd1bXKPIbL9t4jiOFSMRTpH2KtUOFZzOvlrC-X5DPcKhR6ZejnOyI1a0furRgql18u1vGlaCK5gySwss4WDRndN6pKokripyFGfaOcQqzHuakEuzb8e8MmWcpf0yzpedySEzriactAL-3q6I62x267ibC_l0-A17FenhWmMebN9S7TjaFB96a845K7roMQFrB7LiuVo0wCBvzKz-yH-eo1rSDdwReSQp4tUizOkBdt6h2hdZW3dMovl7qUJ_SzlafgWT1FSTL7677g4l6IqCEA8SnIo8AvazrzD4H4NFUwza88u_UeLVhfATyV6Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tGwEJCurKzwIufJ7n-iBqXJHrrAcMnPQ47oFQavRBmE3V7Cp0vO4EiFyN9L7XB6ZVzUNZ9YTsdJzqm0JM6xr_Hv62itzTwYFlK6GSmmo-4jKgrHuIH2vaimrdramsMbvUYUpH5MKltkrLk3W8177xyAxG32l_hUhzR-HfDNUq6vJXrVeTVYD82r7TtzZZ6PRSMTCP7budBK7JvHVurxuE1uLrWLCpBRnRMiJONy-bsG4U92x2dBhCAK9fLO5RC1JXU_TopjFJRB2rlHraHMXYuw7PvqqyqiNZEk68kKNAzsbEg0cd5gDxyP_35uZ1ZvV34ShdxW1LtE_2FvxluVl4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚠️
 ایران 11 هفته در خاموشی دیجیتال!
 هیچ‌وقت تو زندگیم فکر نمی‌کردم یه روزی برسه که این‌جوری تلخ، شاهد از بین رفتن زحمت‌ آدما باشم. ۱۱ هفته قطعی اینترنت واسه خیلی‌ها فقط یه اختلال ساده نبود؛ قصه پدر مادرا و جووناییه که با هزار امید یه کسب‌وکار کوچیک راه انداخته بودن تا خرج زندگیشونو دربیارن و الان دستشون به هیچ‌جا بند نیست.
@@ -1839,7 +1884,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2592">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">#فیلترینگ
 به ما تحمیل شد,
 ولی
@@ -1847,12 +1892,12 @@ skip-SSL
 رو شما باید درخواست بدی تا بهت بدن...
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 39K · <a href="https://t.me/iaghapour/2592" target="_blank">📅 18:27 · 18 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/iaghapour/2592" target="_blank">📅 18:27 · 18 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2591">
-<div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/o90relRwd7pwVMUKZNsqGKGf1tzH3q6JmbxiPwvB6RT6RKBbJFMjL7lwUNW_gxOh8kb03ftmgBA3jrIkiyM6GH4i9ZvO3fPq7vDyqb6DFwqGf1aktAaiKEpTPNFk1m-bdLEY9aTHc_WXqLrnByRaF40B1FCVvspqbuyfCbJPOCPQynzmSXeTFTA_Ve_H5hB9vupxRrs4JGx9VcJS8-DROLEsLDPTm3FNBRPpJML8exUAeolS0-8baTzpGzWvjekLC0hxpoRxKpgW10FRkVsn73BsLT1ZwNOmyvJmw5CTFpeoxu51yy0DyISmwwj1dIxTa5AO3ZB7beN-7JGQLTWvug.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/S6CyiREYTgi4l5-6aljG9JRKnSumUy-nhKEGJZRzO5o08Z8ohtTg7pqRYzl-vU7HsfrZlLP6mgm8J7bZ08EiLZEl3oR6sH4TjqhUElCLYocXondvOG-DgGhigpE15vMShMcWkjw0LXrl9EJoZFUbFCvywbXS88AMBLFUP2KF6qAVVeomXmjk7PQLPZXl_99ZMUQzYfQGnetkQ8RO73Xj94NFbO_63XlRQMdZOumB6nYXMpyJccwKqDRcavlPgiZwGS_hzT2efl3JxsiqnH9qQSDNe1h-kneOC1lbDZOpyLkTItdhBNKuQhk09lcJcBpi8jHqxxquwXAk0P-vVLM_NQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آپدیت بزرگ تلگرام: ورود دستیار هوشمند به پروفایل شخصی!
 تلگرام در آپدیت جدید تمرکز ویژه‌ای روی هوش مصنوعی داشته است. در ادامه مهم‌ترین تغییرات این نسخه را مرور می‌کنیم:
@@ -1877,7 +1922,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2590">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">🔻
 مومن‌نسب: فضای مجازی به هیچ وجه نباید به حالت قبل برگردد
 حالا این آدم انقدر مهم نیست که دربارش صحبت کنیم ولی خواستم بگم این همون آدمیه که چندسال پیش تو صداوسیما میگفت من خطرات اینترنت رو میدونم و اطلاع دارم یک نفر با 2 گیگ اینترنت حامله شده و پدر دختره با گریه اینو برای من تعریف می‌کرد...
@@ -1887,7 +1932,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2589">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">🔻
 اطلاعیه مهم: معرفی فروشندگان کانفیگ
 طبق نتایج
@@ -1929,8 +1974,8 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2588">
-<div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d-ohvRd3u_beBuS8sYd4RHVgMtWGH_HDDI5_JrYKTHtfSklo4Q4JRhtrPIcB-YFcSFy6FEcbk_fF0SWkZHwLsn89te54uMPQF8A5Jh6FXPOpFxHBZ7ILR9zW04c7qRlio5XAhbM_U7zNY-z_E8Y3qwDBG5QJz1tJGIRGUFHfAXpueFKwQU-Hzy780cDLqi3jNyxuDaH_1Klbq7t2OZ55Tw-Ljn2gaf1hTbXz-hfqUw7qCs1KCD_HXakWb0PJ1cpEPujUA-NbEUfNw7sYm7UO-FoMURWVZjFI-O2tFfwoVEBC-xnXxAtBUzoMk6FNBkBwQp1_Aw7xTYvTAm8TMmFRUg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PtJUMJNP9P6CR-7gGfQSrbqa2jqzSyDZDxoOAF6aso6WW-2xPB6YZPwbaCfgxE2Oru3o-G1eaTEBD2S1wi3d8af54wlRsbC3zd8qjCt38iBzd4jZo76-JZat0zHyUrD7YeGhLGE3lju7tKuGkI302hw2O-yXRD8l7KlQ7YCIRovszoQhhenZZy3Dt6aWNpKWA5u8_BcphQxT2LjDF1gBc3sKoBMfg_KfC4H8hUtgEusX1viXM-qqglgYLTT2GA0wsZsqFdu14uPxJRF7MUBG5rkqHCoBFeGus4_wpK0S00aw6F04Ha6FYt_pknjHAUjqoFnKwsz_pNTkYrqal2DK7A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💢
 سخنگو وزارت خارجه حذف تیک آبی خود در شبکه X را (سرکوب حقیقت) خواند.
 68 روزه اینترنت مردم ایران رو قطع کردن، بعد یه تیک آبی‌شو گرفتن میگه حقیقت سرکوب شد.
@@ -1940,7 +1985,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2587">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">🔻
 تسنیم: درآمد طرح اینترنت «پرو» در سال به ۹۶ هزار میلیارد تومن می‌رسه!
 🔹
@@ -1954,7 +1999,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2585">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">⭕️
 وعده بازگشت به وضعیت عادی؛ توجیه محدودیت‌ها یا امید به بهبود اینترنت؟
 معاون ارتباطات دفتر رئیس‌جمهور به تازگی اعلام کرده که وضعیت فعلی اینترنت مورد تایید دولت نیست و رئیس‌جمهور، محمدرضا عارف را مامور ساماندهی این شرایط کرده است. به گفته او، این محدودیت‌های شدید و قطعی‌ها صرفا تصمیماتی از سوی شورای عالی امنیت ملی و به دلیل شرایط خاص امنیتی و جنگی بوده‌اند.
@@ -1974,7 +2019,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2584">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">⭕️
 ایده عجیب در مجلس: تاسیس «اینستاگرام دولتی» و مدیریت کامل اینترنت!
 نمایندگان مجلس در تازه‌ترین نشست خود با وزیر ارتباطات، از طرح‌ها و نگاه‌های جدیدی برای کنترل بیشتر فضای مجازی پرده برداشتند. در این جلسه، پیشنهاد ایجاد یک پلتفرم کاملا دولتی مشابه اینستاگرام مطرح شد تا به زعم آن‌ها، نیاز کشور برطرف شود.
@@ -1996,7 +2041,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2583">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">⭕️
 مرگ خاموش اقتصاد خرد: نابودی ۴۰ درصد از کسب‌وکارهای اینستاگرامی!
 قطعی‌ها و محدودیت‌های اینترنتی فقط حق دسترسی آزاد ما به شبکه‌های اجتماعی را سلب نکرده، بلکه تیشه به ریشه‌ی اقتصاد خرد و معیشت مردم زده است. طبق اعلام پشوتن پورپزشک، عضو هیئت‌مدیره اتحادیه کسب‌وکارهای مجازی، فیلترینگ و اختلالات باعث نابودی بخش عظیمی از مشاغل آنلاین شده است.
@@ -2012,7 +2057,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2581">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">اسم این زندگــــــی نبود
 یک مبارزه تمام عیار بود...
 #جوانی
@@ -2023,7 +2068,7 @@ skip-SSL
 </div>
 
 <div class="tg-post" id="msg-2580">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">⭕️
 حل مشکل دانلود از ریلیز گیت‌هاب با LatestReleaseMirror
 اگر در دانلود فایل‌ها از بخش ریلیزهای (Releases) گیت‌هاب به دلیل محدودیت‌های اینترنت مشکل دارید، این اسکریپت کاربردی دقیقاً برای شما ساخته شده است!
@@ -2044,7 +2089,7 @@ LatestReleaseMirror
 </div>
 
 <div class="tg-post" id="msg-2579">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">ركورد جديد سرعت اينترنت ژاپن:
 با سرعت 1.02 پتابيت بر ثانيه، كل نتفليكس را در 1 ثانيه دانلود مى‌كند.
 ✍
@@ -2055,7 +2100,7 @@ LatestReleaseMirror
 </div>
 
 <div class="tg-post" id="msg-2578">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">⭕️
 اسکریپت بهینه شده XHTTP Relay ECO برای Vercel Pro
 🔹
@@ -2078,7 +2123,7 @@ LatestReleaseMirror
 </div>
 
 <div class="tg-post" id="msg-2577">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">⭕️
 ورژن جدید کلاینت اندروید GooseRelayVPN منتشر شد
 کلاینت اندروید GooseRelayVPN که هسته GooseRelay را از طریق Go mobile اجرا می‌کند و رابط کاربری کامل برای مدیریت VPN، پروفایل‌ها، لاگ‌ها و تنظیمات ارائه می‌دهد. این اپ یک SOCKS5 محلی روی اندروید ایجاد می‌کند و ترافیک TCP را از معماری GooseRelay عبور می‌دهد.
@@ -2096,7 +2141,7 @@ LatestReleaseMirror
 </div>
 
 <div class="tg-post" id="msg-2576">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TUHq5ARzhYpQDPsfr4qGNn9j5J8iOjgVaQnLwaxmtIevAeCmyAkuCxQcGG1CQJF29dHAHAscVZfBTSuH3O7Ra7hQGczPAp2LwfCqHlD53ZKWNUH9tPo66gvd7k4-yPJNyJ8VyDqDCQZx--nfhjSFp4QWQ2wdvy2galXdcPSqwDIKYtN4Nn2LabWarOXztY2C6lHImpLUZHUZPaEdsbRIC5cHoze0yaQKaLwqN_RPs7M-NgVKDcJuMUmODrlp8uhqVsaiFkwJoFCvAi_fhjMvYF4ljlApbm1VoXIrGN1cvBWupZLiRWV6mImrvjbKWXOPNUO2W97UJpCKqfM4BOH-Gw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش ساخت فیلترشکن رایگان و شخصی به 2 روش با نت ملی
@@ -2129,8 +2174,8 @@ LatestReleaseMirror
 </div>
 
 <div class="tg-post" id="msg-2575">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GZ5Y-eYmn1aoqBG3R115c0XF07h02UIIIicE5d7H5wt_2M58JucL_N4X6PCwsh8blSYH4HL-lO3vuI4lm_N6ps8AndFk5cdCiPrYQDoHj5bpDj38joUWUSSlDVJ0dokbmM0ZeAdZgW8a40MoldvjU4znfCKIxWrB8O8951FaikkddO9JyI97Vtud4AdrcP5mrlrk-JmH7n27CLQvPkJFxBi0tEEMXpPPoTJDFzCAhMBgeb721yJLPLYG2znJsbTAD2_TJ9zwilAiU6QnBYB9pleLBouSuYkJ_JJoTlSd4d6XjiFN1WavZJw6lssKn_ncAFhv-PKAZqArals6LfYj4A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IZ41LjtUaLConeSu-fpRL_iVgJWQuY5NneJLfapgNgDgdNUZ1JBNWENdjCeR6XxeLea15-iOhDL97GL1G6Wb-pcvt5oK9jR3eztFMKavDrrRf4kg99_EQSKLSTaW49O9CNFwVFmaS94a4XFhBbJvHWjTsZBJruK_3VjjVEVRbiGagxXdXhnFFFenUsCwCPw4d1NRUE5ZSFfiU4rA1pJ8Q98JRrO_edR_vLXhWe_-Y3loSTq2p-tXF367TT2XnhP8S-yaETpeV8-MxxwF42rwiNLRvam3dZ0xvHy-wYS-3sSzGq3Vp1KZJFX-tkhzyNsO40Bj_66dlnqRRWUpq_OogQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 پشت‌پرده‌ی «اینترنت پرو»؛ امتیاز ویژه یا تله‌ی نظارتی؟
 این روزها سیم‌کارت‌های بدون فیلتر با نام «اینترنت پرو» در ازای دریافت هزینه و ثبت کامل مشخصات هویتی به فروش می‌رسند. اما هدف اصلی این طرح، دلسوزی برای نیاز اینترنتی اقشار مختلف نیست.
@@ -2153,8 +2198,8 @@ LatestReleaseMirror
 </div>
 
 <div class="tg-post" id="msg-2573">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YquYZpSIv2QUwSxHkbetwRYl821M6yq3Z_v5mbc0uNUBQ2eMyMwlIB0nejFLXVc_2uGDo6B9rPGMhi2sT6pCyPNgglMKjM2sqR4RwOImoK4euo_HN3DmbcjQhS78Om-LXeqXJjhPeX-rVI60fhw0i2QvvW0BqgiIvPPK8NYI1HNIYpkYclKplUMVEle9wxWt7FntzoUrtMM8Qqu8zYlbOYJa96HJCdmBG-wR0VucGYTlAznxLSbDlh1pkdDtTgPWZZnNGUFQXqCdP6C5_7l4azrism5tV2KtlZGHeDfp6Na5JV_s3lWDM4jVDs-ZD729FncQFTS6ss6sPkpCpW9jZg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FPv2WNvOYXwmUCMiRZdT7MFiWw8koXm5-RM71-HTcaUKMJrpIcljLtx_kJXcJs7xfJD7fFU2lSPOYEftD-I0gf3XFvfPsILu_Wbs57QNV2BT5nwg-vOKY69jsJTSVCZDCz6dPkniJEKmsoIU85aniV28OrIDMaUBDYWmdIW9OnaCn24zI1ocQP7j0Jb-F90MWM2cCjAPWw-FZOwh118V30ZVvpNXU2VJ0HZSrWok-i9qtuwD5ggfEGKdUXw-4NXXb-2KXaxTVBjSZZkPe4lRbUqzZC4O7hjJSmwPw5UukWNooBn9RmAGz5t1SqcMlipkLDGLjPKwGb51k-hdFddEww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 کلاینت اندروید GooseRelayVPN
 🔹
@@ -2175,7 +2220,7 @@ LatestReleaseMirror
 </div>
 
 <div class="tg-post" id="msg-2572">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">💢
 رئیس اتحادیه کسب‌وکارهای مجازی
 :
@@ -2189,7 +2234,7 @@ LatestReleaseMirror
 </div>
 
 <div class="tg-post" id="msg-2571">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-poll">
 <h4>📊 ⁉️نظرسنجی درباره سوال بالا (اگه واقعا نیاز دارید بله رو بزنید).</h4>
 <ul>
@@ -2201,7 +2246,7 @@ LatestReleaseMirror
 </div>
 
 <div class="tg-post" id="msg-2570">
-<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">✍🏻
 دوستان، همان‌طور که خودتون در جریان هستید، من در این چند ماه حتی یک مورد
 تبلیغ فیلترشکن، اوتباند
@@ -2230,40 +2275,6 @@ LatestReleaseMirror
 (خیر) را انتخاب کنید
 .</div>
 <div class="tg-footer">👁️ 42.1K · <a href="https://t.me/iaghapour/2570" target="_blank">📅 00:24 · 10 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-2569">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-text">⚠️
-هشدار مهم درباره اسکریپت VPN Over GitHub
-▪️
-لطفاً از این ابزار به عنوان
-فیلترشکن
-استفاده نکنید!
-🚫
-بن شدن اکانت:
-تبدیل گیت‌هاب به تونل ترافیک، خلاف قوانین این سایت است و خیلی زود باعث مسدود شدن حساب شما می‌شود.
-🐢
-سرعت بسیار پایین:
-برای هر ارتباط به یک بار
-push
-و
-pull
-نیاز دارد که آن را عملاً غیرقابل استفاده می‌کند.
-🔻
-خطر برای برنامه‌نویس‌ها:
-گیت‌هاب یک سایت حیاتی برای توسعه‌دهندگان است؛ سوءاستفاده از آن ممکن است باعث حساسیت شده و دسترسی به این پلتفرم مهم را دوباره از کار بیندازد. (خارج شدن از لیست سفید و...)
-🆔
-@iaghapour</div>
-<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/iaghapour/2569" target="_blank">📅 19:21 · 09 Ordibehesht 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-2567">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">ای بابا روش Vercel چرا بسته شد؟ هنوز آموزش نداده بودم که.
-😁
-سازمان فیلترینگ زرنگ شده ها. فک کنم خودشون رو آپدیت کردن دیگه به کانال من نگاه نمیکنن :)</div>
-<div class="tg-footer">👁️ 40K · <a href="https://t.me/iaghapour/2567" target="_blank">📅 16:34 · 09 Ordibehesht 1405</a></div>
 </div>
 
 <hr>
