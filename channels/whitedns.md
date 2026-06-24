@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/qrzQBs55jLfBZUEImYhepV_8rhAJWIptF7ML9ldJ621PoD0fuqV6UqadZVt2VGefbYpje5GkTGQoMm0b30Gry8vtcgf79Rt1pmXIdySMCaxXIKG2LduRFv76btPuQaS7OqC6vDQ7oh51MxYfPf9FWfqSh9xQJgwno6eQQHCSGeaJGk26MbMehnZsqtiK7nB50aWnTDtZcNPTX70RojWh_7mkCGtN3L78vNzLWAZGTV2vua6DljPUSyKjYGCLSfxgBIeRHUHlIbR08uBWNyzDkwnRxUV9ViohSoK6L1kaJmpK3qRqD3nyrLbIaOyZu5HD2b8dviZ6Ze65R74QAHknBQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/RNAHD5NNWRDEHIQ5RNaZ4K7ErbQGxTkdX948_-S_kPXbH2ip005zOM6WnURl_ph2X26OQXYCxM_sxV-E45sLuwwBMQgHobC6MadaWHhm8pZWtv8xtulI6tX2gcSeLntocx8QTvPfDvV7epcFtjvhS0WKATR9I02Gpjp-stRqBwDV7lqlnn1HE-pqh1OWnqGl-5fJos5Pn0zOJ3Nmmd432A-E7EUJzv39x6JrpnBG7eJbtCE24Wx0uCEunMFOKzvTxHxEScy4WXLqprI2_29dGqPV41jcirMIFHgAIk4gLHTbdu5JCbhLVlalMFcy-2IKjW23yAQEN1JZhSMf8ODz4g.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 White DNS</h1>
 <p>@whitedns • 👥 108K عضو</p>
 <a href="https://t.me/whitedns" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 گروه :t.me/whitedns_groupادمين :@WhisperInHeaven</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-03 13:27:32</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-03 15:47:36</div>
 <hr>
 
 <div class="tg-post" id="msg-1039">
@@ -300,7 +300,7 @@
 <div class="tg-text">⭐️
 نسخه جدید WhiteDNS VPN 0.0.5 منتشر شد
 👆</div>
-<div class="tg-footer">👁️ 9.56K · <a href="https://t.me/whitedns/1039" target="_blank">📅 09:28 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/whitedns/1039" target="_blank">📅 09:28 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1034">
@@ -313,7 +313,7 @@
 </div>
 <a href="https://t.me/whitedns/1034" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/whitedns/1034" target="_blank">📅 08:43 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/whitedns/1034" target="_blank">📅 08:43 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1033">
@@ -335,7 +335,7 @@
 ممنون که همراه WhiteDNS هستید
 ❤️
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/whitedns/1033" target="_blank">📅 08:42 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/whitedns/1033" target="_blank">📅 08:42 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1032">
@@ -348,7 +348,7 @@
 ممنون از همراهی همیشگی شما
 ❤️
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/whitedns/1032" target="_blank">📅 13:27 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/whitedns/1032" target="_blank">📅 13:27 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1031">
@@ -364,7 +364,7 @@
 از طرف تیم WhiteDNS، این اتفاق دردناک رو به خانواده، دوستان و همه کسانی که دوستش داشتند تسلیت می‌گیم و آرزوی صبر و شکیبایی داریم.
 یاد و خاطره‌اش همیشه در قلب ما می‌مونه.
 🖤</div>
-<div class="tg-footer">👁️ 66.7K · <a href="https://t.me/whitedns/1030" target="_blank">📅 14:42 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 67.6K · <a href="https://t.me/whitedns/1030" target="_blank">📅 14:42 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1029">
@@ -388,7 +388,7 @@
 🍷
 @xsfilterrnet
 👑</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/whitedns/1029" target="_blank">📅 13:03 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/whitedns/1029" target="_blank">📅 13:03 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1027">
@@ -397,7 +397,7 @@
 نسخه جدید WhiteDNS VPN V0.0.4
 ⛏
 در این نسخه • ظاهر اپلیکیشن تغییر کرده  • امکان اضافه کردن آی پی تمیز خودتون اضافه شده تا اگر اسکن میکنید با آی پی های خودتون به کانفیگ ها وصل بشید.  • پرچم کشوری که بهش وصل شدیدرو بهتون نشون میده.  • با کمک یکی از بچه های…</div>
-<div class="tg-footer">👁️ 65.7K · <a href="https://t.me/whitedns/1027" target="_blank">📅 15:33 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 66.6K · <a href="https://t.me/whitedns/1027" target="_blank">📅 15:33 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1022">
@@ -410,12 +410,12 @@
 </div>
 <a href="https://t.me/whitedns/1022" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 73.1K · <a href="https://t.me/whitedns/1022" target="_blank">📅 15:28 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 74.6K · <a href="https://t.me/whitedns/1022" target="_blank">📅 15:28 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1021">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bY_Cx1EwOpTT6nOYW1g7n0WRaYnKO1mLaZl5O2cjCz819htz8v8Pd1UAtci-BM5Qb2NdSn3n9HwbFw7bWrBqqTdYOm7IF7Fo4IL_kymTaupnZf1P-D12TZk-KQwYvD1cTEm4uJHP4X3cbocoS5o260Eny8uM0djtzpjpGRIhgJv04nrynpfdsOxr1EqxuL9qplO9HxKHHvmzN4DqS0u5QuaUOtdLxa7tuHKngmjwgNLWwpD2949WVDi9h2pc2wfMFVE-59UlZTrd3e6AumLhbJBcu4EnsQO_LFNKNaR8jAQNBogmfzDg57IQWRSkFnfYNMJzy95q7gTNAGdMgRifKQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vIdmnYzTkjhCnfXjcJuwVOjH43x5IiQCZ5UckBMfb9w-IsI-Q1BI7uexAChPrKMiTTRBbz7gYyURhOJGMcVYX4URoWt0Ik_rQGiYgiHBy0v4KD_saJvb0oYTUU30ON2AkehulXBvpkNXsx5Ybo7yXo2HUCqnEBacRsDGHSHdPniAUUdbDMgAOvoJAYGmkYy2Clgnd_bD1CJxCEEMxm6WHbNgl-2ieGlHseirxqkY0x3ETfQsdP8WXApQ5iKlSEmyYszp-zjPaYCiWKOvr23FLEvEb1qrAGlyc4u-lOg1YMZdMFx6ntBRse-Zj_yD6tbALTZueAja143jQUU8fYvlhg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌎
 نسخه جدید WhiteDNS VPN V0.0.4
 ⛏
@@ -427,7 +427,7 @@
 💬
 اگر براتون وصل نمیشه، فقط و فقط مشکل از شبکه شما هستش. آی پی تمیز پیدا کنید و داخل فیلد IP Fronting قرار بدید و براتون کار میوفته.
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/whitedns/1021" target="_blank">📅 15:27 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/whitedns/1021" target="_blank">📅 15:27 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1020">
@@ -441,7 +441,7 @@
 </div>
 <a href="https://t.me/whitedns/1020" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/whitedns/1020" target="_blank">📅 14:39 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/whitedns/1020" target="_blank">📅 14:39 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1019">
@@ -450,7 +450,7 @@
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DTQYb9RN6FshdRhxECW8quVjkEzp8BEChv2_PwNUDTzI76dIUdoS_P6wEotkBZcqJq-9nnQNuXnNLgXLsWeitiNRqslszCOG_fuxwsQ4KvWQo-oHzumEVha0lfurpbbt7_jtg6s8raT_oZDDthgsP0UWvd2Y-gqSrNXWir_SH7YJeRsaqacCRlH2LLhnXMT2ZphN9oxihS3G0hxNecBnM1Z18DcAlpHD0zoW87qjECCfZM410GiGiYL1IWRyI-asJjI88AXGdLMPUZeDdaSpBmNcGfn0GlUMBqjQ6V7c-c_2lndg1Qo9AYcPX-HtNjFnb1r6trEKkQoY88DWaKJBLQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی از contributerهای پروژه‌ی senpaiscanner، دوست عزیزمون hidden-node، نسخه‌ی اندروید اسکنر رو توسعه دادن. طرز کارکردش دقیقا شبیه به اسکنر دسکتاپه. نصب کنید و یه تست بکنید
 👇</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/whitedns/1019" target="_blank">📅 14:39 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/whitedns/1019" target="_blank">📅 14:39 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1018">
@@ -473,7 +473,7 @@
 ورود با Cloudflare پایدارتر شده و احتمال خطای برگشت از مرورگر خیلی کمتر است.
 روش استفاده تغییری نکرده است.
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/whitedns/1018" target="_blank">📅 12:23 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/whitedns/1018" target="_blank">📅 12:23 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1017">
@@ -514,7 +514,7 @@ WhiteDNS BPB
 ❤️
 اشتراک بزارین   |   Share
 ⭐</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/whitedns/1017" target="_blank">📅 03:27 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/whitedns/1017" target="_blank">📅 03:27 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1016">
@@ -533,7 +533,7 @@ WhiteDNS BPB
 اجازه بدهید این مسیر ادامه پیدا کند.
 ✍️
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 59.6K · <a href="https://t.me/whitedns/1016" target="_blank">📅 05:07 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 60K · <a href="https://t.me/whitedns/1016" target="_blank">📅 05:07 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1015">
@@ -573,7 +573,7 @@ https://github.com/iampedii/WhiteDNS-Wizard
 ما از اسم WhiteDNS به عنوان نام برند استفاده می‌کنیم، اما راهکارهایی که ارائه می‌دهیم می‌توانند VPN، BPB، MasterDNS یا تکنولوژی‌های دیگر باشند.
 @WhiteDNS
 🌎</div>
-<div class="tg-footer">👁️ 56K · <a href="https://t.me/whitedns/1015" target="_blank">📅 04:21 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 56.4K · <a href="https://t.me/whitedns/1015" target="_blank">📅 04:21 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1005">
@@ -583,7 +583,7 @@ https://github.com/iampedii/WhiteDNS-Wizard
 بروزرسانی فقط برای این ساب جدید نیست. تمام آدرس های قبلی هم بروز میشن و همین محتوی رو دارند.
 اگر ساب براتون اررور میده، احتمالا آدرسش رو فیلتر کردند. اولین بار با وی‌پی‌ان ساب رو وارد کنید.
 ممنون</div>
-<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/whitedns/1005" target="_blank">📅 10:01 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/whitedns/1005" target="_blank">📅 10:01 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1004">
@@ -605,7 +605,7 @@ https://www.youtube.com/watch?v=gMFH88yRghg
 @WhiteDNS
 برای اینترنت آزادتر، پایدارتر و قابل‌استفاده‌تر
 🤍</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/whitedns/1004" target="_blank">📅 05:35 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/whitedns/1004" target="_blank">📅 05:35 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1003">
@@ -623,7 +623,7 @@ https://www.youtube.com/watch?v=gMFH88yRghg
 @whitedns
 🔗
 ✨</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/whitedns/1002" target="_blank">📅 15:07 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/whitedns/1002" target="_blank">📅 15:07 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1001">
@@ -656,13 +656,13 @@ WhiteDns BPB  1.1.0
 @whitedns
 🔗
 ✨</div>
-<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/whitedns/999" target="_blank">📅 14:55 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/whitedns/999" target="_blank">📅 14:55 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-997">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">WhiteDNS-BPB-v1.1.0.apk</div>
-<div class="tg-footer">👁️ 33K · <a href="https://t.me/whitedns/997" target="_blank">📅 13:54 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/whitedns/997" target="_blank">📅 13:54 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-996">
@@ -680,7 +680,7 @@ WhiteDns BPB  1.1.0
 پنل  Cloudflare برای دوستانی که ارور داشتند حل شده.
 پست اول هم آپدریت شد به این ورژن. پس اگر اول لود رو دانلود کردید دیگه نگران این ورژن نباشید.
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/whitedns/996" target="_blank">📅 13:19 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/whitedns/996" target="_blank">📅 13:19 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-995">
@@ -696,7 +696,7 @@ WhiteDns BPB  1.1.0
 در صورتی که به خطا برخوردید اپلیکیشن را uninstall کنید و مراحل بالا را از اول انجام بدید
 ارادت
 تیم whitedns</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/whitedns/995" target="_blank">📅 13:13 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/whitedns/995" target="_blank">📅 13:13 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-994">
@@ -735,13 +735,13 @@ WhiteDns BPB  1.1.0
 اپلیکیشن هنوز در نسخه اولیه است، پس ممکن است در بعضی دستگاه‌ها یا شرایط خاص نیاز به بهبود داشته باشد. اگر مشکلی دیدید یا پیشنهادی داشتید، خوشحال می‌شویم گزارش کنید تا نسخه‌های بعدی بهتر و کامل‌تر شوند.
 WhiteDNS BPB v1.0.0
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 65.7K · <a href="https://t.me/whitedns/994" target="_blank">📅 12:10 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 66K · <a href="https://t.me/whitedns/994" target="_blank">📅 12:10 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-992">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eqzbsGvBdu2qo_o6Q7UPvy9L4Z1OVi36jgvRwdgdBMs3bTMzm2EgTFOqwXh139TLb4fkGL8cqHwXoz-tS5r9SaXTkl8_hqAHOxg5THzh7yg43Fu-E7ExrnbR7aCcP-kHmjb_Z_OKK_wN4ushqIm9G26ZRmNLXfm7YZFPVva2cHJZ7AauB7vM5g2BmGc1cKXtvS38FU48FE5X6gz1Y4YlI9DzB17deQcceY_pAMPt1qVyeiL-67zuZKxCPX4uuBnsfMTMv7RxxJpTs4Vcb4aXgudegqmVgpTzJevymPCOajTIGGkcBQetKP7SyjJSx9tiOYrnyzRQlAlPC-niMDfWzQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/whitedns/992" target="_blank">📅 12:07 · 26 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/whitedns/992" target="_blank">📅 12:07 · 26 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-991">
@@ -751,7 +751,7 @@ WhiteDNS BPB v1.0.0
 از تمام کسانی که در این مسیر کنار ما بودند، تست کردند، باگ گزارش دادند و از پروژه حمایت کردند صمیمانه تشکر می‌کنیم.
 ❤️
 دم همگی گرم</div>
-<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/whitedns/991" target="_blank">📅 18:48 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32.4K · <a href="https://t.me/whitedns/991" target="_blank">📅 18:48 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-990">
@@ -787,7 +787,7 @@ WhiteDNS BPB v1.0.0
 </div>
 <a href="https://t.me/whitedns/984" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 84K · <a href="https://t.me/whitedns/984" target="_blank">📅 09:23 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 84.6K · <a href="https://t.me/whitedns/984" target="_blank">📅 09:23 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-981">
@@ -795,7 +795,7 @@ WhiteDNS BPB v1.0.0
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/SUzPtmTIhuqVcCgwQnlmYJ2c562GVs7VS-m22tJgGZlXvNpv_ttpdtLeUXDwumtkyBSbGlze7GZl9dAF3AwrqLopY9bgMYQC0q2i4ZRkMaLxFL--l0_iXohLYMHX1Ed43C16Z8t1LoRg3RhbMyjYQAhFCEg9zG-VUgVo7wm6gSYJuDic4WMheOkEy8kQfDrCIfraYydhQyTfbqGro_G_hMPKEcMlOl5QHvv2dL_G2yjj1qz3OcUX6KMTCksXEKdNp0_R6P-che5HmVz2YilG9Vh43fEUbciuET67TfpIqnYB-2DooCKrqsu2hNBnuF6Euq_2tpAISSIWFwWKkvcWDw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ptF_VYtk1JWXchTlk6eB0CCZGsfbcaiEhmQ480nfqe19ioP_q-hMEgxjGnloclwC6x_c3RnYBt-y_iht3OJ2VaVnNDVyZfJ1cRLAGm73wFdib_0BeEXCu63MD-58CmMeiBB4N_cx6RZ7NOvderrqJ3vn3ulefj7_KzghQ_Qcp3X8iFsKQ_WWnAFRkcQVmVCndJe9kHgwwZTZiDj9Z9OVBD2Cp7om483tTLJ8E8nKDcaBJh34Fk3XfetbKVf7KqbUhlIhb-SgtEnoaFJKFTSSjK0Co_XotwslUWjr6w8LVyhDbyrsCeGw3Kv7xUtFTDl8ib0vsbx1yr7F-qa3pfXSOw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BkHlYvJQAej-qt7u6iOD4a9BlEaklmpMQbt8XOVKJhlZn2wZNKWKxer-V4z-4UpN5puiPrqMvDOCiQSnAbkEpQo9NcJx352y7KC5CVn7xWspBRWVBcBjD-NghK1AM_-KYERps-a4obHG9-uApxvbP2lEN1sZ1PMVECPoDFsu7ihyNQnoo3SuDkUaQlnRGrhMiz64Dx5V0WKkiUMbPMtgnJhc1Le75o2qPTnJCmqCWOtKtJcTDRweEDJkv_PcQG9V2LcgORBIRb3iVR_MfL0vru4YEDi9W_g9gKnm-SWL8U3RgSe9ESc8mamHsUVdpRLM9obU20jDY7YlolHVsawmCA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/oikJ00U6errDWDPehftnFT5bNIED7N0YIi5d_YrEsS124FoEjrFXYYulrvA-vXeBVlwmYq-TTLr_Tlg_8ZFrzAtJdXBvEBi80oeet318yvLOZlYwIKSZL7HCP63ruOvj3FOrGbZuk8FSy8kcAYA6UQ95hynMsRoyTfy4CP915BQEBlsn0oXYaABpL4usViojZOVK0G3Md2-miuyQfgvgHd75rmWlWVpj5euhCXvA3nqA4WsFTEYnGTjhB15fKECyAEFNuVASTqCbLiN3z7wTlnvQn5eGHW1NmGbs2LbLBOU8ouGKSN9bxfXEwVL2WzANsgiFYnSDv8FV2tp510_1hg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">🎉
 نسخه 0.0.3 اپلیکیشن WhiteDNS VPN منتشر شد
@@ -808,7 +808,7 @@ WhiteDNS BPB v1.0.0
 از همراهی و بازخوردهای ارزشمند شما ممنونیم
 ❤️
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 33.5K · <a href="https://t.me/whitedns/981" target="_blank">📅 09:22 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/whitedns/981" target="_blank">📅 09:22 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-980">
@@ -828,7 +828,7 @@ WhiteDNS BPB v1.0.0
 <li>✓ آیفون/دستکتاپ دارم.</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/whitedns/979" target="_blank">📅 14:24 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31K · <a href="https://t.me/whitedns/979" target="_blank">📅 14:24 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-978">
@@ -857,7 +857,7 @@ WhiteDNS BPB v1.0.0
 🔥
 تیم
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 78.7K · <a href="https://t.me/whitedns/973" target="_blank">📅 12:06 · 24 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 78.8K · <a href="https://t.me/whitedns/973" target="_blank">📅 12:06 · 24 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-972">
@@ -890,7 +890,7 @@ WhiteDNS BPB v1.0.0
 لینک ساب که از دسترس خارج شده بود درست شده و میتونید ازش دوباره استفاده کنید.
 https://sub.whitedns.one/sub/mihomo.yaml
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/whitedns/970" target="_blank">📅 08:33 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/whitedns/970" target="_blank">📅 08:33 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-969">
@@ -912,15 +912,15 @@ https://x.com/i/status/2065531715041239193</div>
 
 <div class="tg-post" id="msg-968">
 <div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/trMJSXB5ILi2AmXYkbn72QdetZV070rMi7Nb9qQ7spOfPUusSo8SDWa6FzIhfZRtdMzml5WPp5OH7giZ7dpoqjdsyJ3CHtPZi95aw4687w6_LQvb-pa14RG4ntAwGiULq1fVNJRm7jYVd4hrd7QI927uJMDxzDZlzzePjwR17w2afKuVZojfE9ZsbzcJTKHK_qx2bhiRtqlhET7E4rIlMa4-4I-IbYv5abmLUSnCIWmL-svfDWi6Zvf-bA6zlr8YkTsa7EjnI0x7K0tttu-bkvgmzKuqPC0hsqCbWJKG6ZIVbhhpC6nwQ5Z-Sbg0BjFH4iUjQaecDitMCjM24rXBTw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/whitedns/968" target="_blank">📅 13:59 · 21 Khordad 1405</a></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f4Q0eOWH5eAvDx2OmaBvANXNUGXrKUaa5XyhjKS_c--V-qmNPkhv4_1RUjwlU3LLL24g_OmypxDPQi6wQBLiSB43R7MYMNHRU_4MLv7M5O3q3cx4dOQiIp_JyFMEmron6LLf2EvJcZ2E1CdVuyz57N8dtcbO2T2_1jiBqD28zJOedPibKQzV5Y_HJhBKkcFVMnAIo-E_5D4Tt7U3QuorcxRW0-dimSU5CA1ZzWXXZ9A3mRV5KAt7duFp6lLdp4ewlh-43TClEcQz6mKsjBxcbKaWadJoqZD-RUdeGiUmydsrqX64HUf3ehqTouSgjTz9GrG2lGlJSgU03if6wSh5Tw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/whitedns/968" target="_blank">📅 13:59 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-967">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">این دومین نسخه تست همگانی اپلیکیشن WhiteDNS VPN میباشد.
 لطفا تجربه، سرعت و مشکلات خودتون رو زیر این پست برای ما بفرستید.</div>
-<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/whitedns/967" target="_blank">📅 13:55 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/whitedns/967" target="_blank">📅 13:55 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-963">
@@ -939,7 +939,7 @@ https://x.com/i/status/2065531715041239193</div>
 ما در حال تلاش هستیم تا در ورژن های بعدی سرویس بهتری ارایه کنیم.
 ممنون
 تیم WhiteDNS</div>
-<div class="tg-footer">👁️ 48.5K · <a href="https://t.me/whitedns/963" target="_blank">📅 13:53 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 48.6K · <a href="https://t.me/whitedns/963" target="_blank">📅 13:53 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-962">
@@ -1001,7 +1001,7 @@ https://www.youtube.com/@WhiteDNS</div>
 
 <div class="tg-post" id="msg-953">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jHkZGOgoe175f4c8Kfj3IqNaOkHvsx2VWIY7dCSgXZmDQ4ZRPm2th1jS3RWm-Z3nCYw9-yLwEpnRK8TtAnQ0QaUVKHAX0d-cy7AeHD-S5EpjZZ84o8FORXZQKWvVR9rdQRqvTr0DgyFB5oCHENAqK7bCrVM3OzWvTaVP4gNNhH0umb0OL0ZZZUG7Demvttx3hAbCFD90GywLWLi9C52zNhzyLulZW7XwydhRGnhCjjkuk1xrBLfe4ffKXVf2mVv4UC3bN5y2syiC0yuh9DEahEOIoclc122JbFOeXzwgdSsCRS1yMzVfN-8iwAiaCyJFrkXW_Iw1gOSiN573svijIQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pCqmygjDGfekSpFplLRNVDkHpxhEI6KEs6zIN0l58MT2l-Xvjk7S_9uv9loBH_WkRS4evLcGiT5u0Zjz3IQpqzGVURhvOxd9Lm4KH_Esa0LtgqELFZGygIDO59Lx0bwz6ZcuCQ-DE8ViLG99NItpwWjKriMaThlm1Efkt_oKDHYBAWGxYarQ54d0GXvRVExweosXK60kxvXV02_TIrWCrfd-rNsESAWhaQ0oI5XX4rR3lusMBwGiJVDt2f6Kc1SVHKmuLb3FbbBBXjk0qq-y7Ot2-XVtGqM_Z4XLkYBIwxK2wwQzd9PVsJ9YONiChr7Ryjg0GG1mBY9qnBV8q6lYlw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔥
 شروع تست پایلوت سرویس WhiteDNS VPN
 نسخه تست عمومی اپلیکیشن whiteDNS VPN برای کاربران آماده است.
@@ -1010,7 +1010,7 @@ https://www.youtube.com/@WhiteDNS</div>
 در روزهای آینده نسخه‌های جدیدی منتشر خواهیم کرد و به‌روزرسانی‌ها به‌صورت مرحله‌ای در دسترس قرار می‌گیرند.
 در این نسخه، محدودیت استفاده ۱گیگ  مصرف دانلود+آپلود در ۲۴ساعت اعمال شده است.
 از همراهی، صبوری و بازخوردهای شما سپاسگزاریم.</div>
-<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/whitedns/953" target="_blank">📅 07:32 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 32K · <a href="https://t.me/whitedns/953" target="_blank">📅 07:32 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-952">
@@ -1031,7 +1031,7 @@ Clash Party
 |
 FlClash
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/whitedns/952" target="_blank">📅 05:34 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/whitedns/952" target="_blank">📅 05:34 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -1042,7 +1042,7 @@ FlClash
 
 <div class="tg-post" id="msg-949">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gHlFow3SApUB12I1RyV0Pw4JysQZ7DvG9TkYoZQbPgvmgXjjRYVOK0usSPB-Yco5AWzHwqJgX1MLbTzCfAeErWU4R4x8DKZZ6PkuskP57IV8rQoP1FXNw6_d-jpTufhyBbjPJ1rCrg1w19NLoPKWEVQdlrylqZUuwtV4Tsox-3vXBYxL-D0kGhPErnRZ9YZUrIgpOyFevexHdLYYLm9TaJBv337nY9v9Q-QPCnPkk8rHWBzUJgZHD-NA6UKbUX4g8c2EOJxNewmKwEW7IjlAteQsYapEMpijAcrBPXqM4qxxyysTsjoPcYtTUf4Y_H-lJGHyJqEHzozGI_fpwI8hbg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OA0RAsScVpLrrv_d1JF4_MmuhORFm71CShf7TPNm09VCAMbTK6qCQ5aOFhpPucXgicEDsbHu07y0xaDvtjEFi0vEVZw3j39uESH4dGG4Y6pUErElOwd1_aW5CbIKf8tnbVFd3kmkBDpNjvBkTcmm06YYwkFRLXHGXpvjSznCp4TGrWnH5fn0rQv9zV7bxDM_XDNRFOt0ggg6V8VSjrhhuD91KKYov3UnW2GWzQ8AhKJrMtw3yDzKUXQ1yxTCBqnI62Yv_ZZTMmPY_5wTx7SjSNwkaxJ8uJ_qKhepklrW4PuTiSxvDXAWEa9JJIeDRN61u7FJdOFOzYL9SVuM_U3J6Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سلام خدمت همه دوستان
 پنل ثنایی در ورژن آخر تغییراتی انجام داده که باعث خراب شدن WhiteDNS Wizard شده.
 بعد از گزارش های شما، ما این مشکل رو برطرف کردیم و ورژن جدید whiteDNS Wizard از گیت‌هاب ما قابل دسترسی میباشد.
@@ -1134,7 +1134,7 @@ c.igoii.org</div>
 <div class="tg-post" id="msg-938">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">ابزار WhiteDNS  برای ساده‌تر کردن راه‌اندازی و مدیریت سرورهای شخصی،  با نام  WhiteDNS Wizard آماده شده است.  هدف WhiteDNS این است که کاربران بتوانند بدون نیاز به دانش فنی درباره تنظیمات سرور، DNS، اینباندها، اوتباندها، گواهی‌ها و پنل‌های مدیریتی، سرور خود…</div>
-<div class="tg-footer">👁️ 95.2K · <a href="https://t.me/whitedns/938" target="_blank">📅 09:47 · 17 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 95.3K · <a href="https://t.me/whitedns/938" target="_blank">📅 09:47 · 17 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-937">
@@ -1162,7 +1162,7 @@ c.igoii.org</div>
 
 <div class="tg-post" id="msg-934">
 <div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sgeujquHwm3XMOX5b3k-dJcIfJhVZSIIZSDc8N63-6_rgR9iUDmMg23mue317ECaaNPq_AetJvQse78PXapIoUxQj_MMVIM4Be1Q8BQvyKJpys0Ow6KAdDuKI-G9cL3CP7fA-y5qxQWUEA4TIhIqykXgAjuVWODWsgDHoa9whdJLuqWMhol238AyrCwgfMriqFnTLG9J2ZlbRg_tkaHqpVFEr-vsea9n4OQrobz_Zcgeq4d14eFGD5WAm9B1hl120gAM8VBWI73iJv8DfZiqW0GwhgGHyg98xHf50WVVoKKuInMrOamdWT4KyNjJUVXvAzEQsT8sexcNqH4gZg5PzQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gKOEc_xOfmS1QnCoalGqzWw3-bsfX0Z4U1sxvr34iiMk_xTrY6fhwlvbVGlfZTz8FNrfKUf6sDGfkBNZE52E_ST1Co0YJkC5nec-okFsnwTPLtw5QG23aAQJBu-con8zZV5LM2JrCpRV4nD5wDxUSXpotxL2qbJdMPjgzjCFN0QUBHbEskLoi5C3ha9oTgsKNmrbUh0xQ0FXPxB7iAeL-CVvXvj7X-9oRPp8pCaYw7JVO1DKgcjsbUH2sfdv6MkvrwhCdRoNFckPyxMNUSGZuvhS47FAWfAQvDrevXbKTW6Tdjh1zY3AXRZtEWy-fY9IQZ5yQdKQPExpKsU0M9CDLg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ابزار WhiteDNS  برای ساده‌تر کردن راه‌اندازی و مدیریت سرورهای شخصی،  با نام  WhiteDNS Wizard آماده شده است.
 هدف WhiteDNS این است که کاربران بتوانند بدون نیاز به دانش فنی درباره تنظیمات سرور، DNS، اینباندها، اوتباندها، گواهی‌ها و پنل‌های مدیریتی، سرور خود را به صورت خودکار و یکپارچه آماده استفاده کنند.
 با این ابزار کافی است اطلاعات اولیه مثل دامنه، سرور و دسترسی Cloudflare را وارد کنید. WhiteDNS به صورت خودکار رکوردهای DNS را تنظیم می‌کند، ساختار مورد نیاز روی سرور را آماده می‌کند، اینباندها و اوتباندهای لازم را می‌سازد، گواهی‌های مورد نیاز را مدیریت می‌کند و در پایان لینک‌های اتصال آماده را در اختیار شما قرار می‌دهد.
@@ -1487,17 +1487,17 @@ https://sub.whitedns.one/sub/base64.txt
 https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/mihomo.yaml
 لینک ساب برای اپ های V2Ray
 https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.txt</div>
-<div class="tg-footer">👁️ 90.1K · <a href="https://t.me/whitedns/915" target="_blank">📅 10:18 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 90.2K · <a href="https://t.me/whitedns/915" target="_blank">📅 10:18 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-911">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/69013b2789.mp4?token=V7TQBvjRG0vqzikkDqzw4zjCHYdyv_920uEUxFZHc8wMBMi73zziz1qFohWfr5CdeLrCgEsEsVKoXgS7mNCkcrYAYqZMjzLU629-LIYJQEhUJDDnA-a4n0XJs6Y9LTjfSXqA8OaDS9EMv-BqmWLKF1fFViT51368blvzHDPG2Bv33uECOsZN8lMIXMpvc4w8DAydIwT0oegaVjw8YRLco_JMvLnFp1z1Yy4UOn_76yyK8cstxpdu9Sd0AV4_rvz0reXsGR8_NyOT0Kb9Cm4I58_F5h8kYgVvRH2IXaZVz2qBSsn8sVI3Lf28cumhBkCCQ93bVLjPvEmIEcIMe9FByQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/69013b2789.mp4?token=uNSXo-POKAqVllH5Yu8BgLMrtevgUo0Q0O9Z-9X0YHMxAOI7U6yL_ixoVDVKWZygzUlBKqpp8v2bo22pMe5-t8anWxd8lYVSDO_-7jQLUssOTdb9CRm5geUuzftm53JPI_RMmyYIlYxUn3IuUTWJoOl5ZixdIyeDq3OTpfKJZX2VwXfbsEhwn9aBF6yFOSynYh7ukjaJsXG04m7T7YcdNM1LzqWsBaTOpj4uL3Pg4Zau8G2lyx9qgU07nitWibam77NgaxuXvl7QVe-tfsSFvpa8G5CnOEvwHixyjFOsIqe1bKtlNkPS1EucKqwfjHRpTGn2tS1LRY5pnGlU1GQq-w" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/69013b2789.mp4?token=V7TQBvjRG0vqzikkDqzw4zjCHYdyv_920uEUxFZHc8wMBMi73zziz1qFohWfr5CdeLrCgEsEsVKoXgS7mNCkcrYAYqZMjzLU629-LIYJQEhUJDDnA-a4n0XJs6Y9LTjfSXqA8OaDS9EMv-BqmWLKF1fFViT51368blvzHDPG2Bv33uECOsZN8lMIXMpvc4w8DAydIwT0oegaVjw8YRLco_JMvLnFp1z1Yy4UOn_76yyK8cstxpdu9Sd0AV4_rvz0reXsGR8_NyOT0Kb9Cm4I58_F5h8kYgVvRH2IXaZVz2qBSsn8sVI3Lf28cumhBkCCQ93bVLjPvEmIEcIMe9FByQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/69013b2789.mp4?token=uNSXo-POKAqVllH5Yu8BgLMrtevgUo0Q0O9Z-9X0YHMxAOI7U6yL_ixoVDVKWZygzUlBKqpp8v2bo22pMe5-t8anWxd8lYVSDO_-7jQLUssOTdb9CRm5geUuzftm53JPI_RMmyYIlYxUn3IuUTWJoOl5ZixdIyeDq3OTpfKJZX2VwXfbsEhwn9aBF6yFOSynYh7ukjaJsXG04m7T7YcdNM1LzqWsBaTOpj4uL3Pg4Zau8G2lyx9qgU07nitWibam77NgaxuXvl7QVe-tfsSFvpa8G5CnOEvwHixyjFOsIqe1bKtlNkPS1EucKqwfjHRpTGn2tS1LRY5pnGlU1GQq-w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ویدیو آموزشی فعال سازی Fragment در اپلیکیشن V2Ray در موبایل و دستکتاپ</div>
 <div class="tg-footer">👁️ 48.8K · <a href="https://t.me/whitedns/911" target="_blank">📅 02:46 · 12 Khordad 1405</a></div>
@@ -1624,7 +1624,7 @@ https://raw.githubusercontent.com/iampedii/whitedns-sub/refs/heads/main/base64.t
 🔥
 کانال مارو Subscribe داشته باشید.
 https://youtu.be/gMFH88yRghg</div>
-<div class="tg-footer">👁️ 92.2K · <a href="https://t.me/whitedns/901" target="_blank">📅 12:12 · 11 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 92.3K · <a href="https://t.me/whitedns/901" target="_blank">📅 12:12 · 11 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
@@ -1650,7 +1650,7 @@ https://youtu.be/gMFH88yRghg</div>
 
 <div class="tg-post" id="msg-893">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nqyM0zDQVIyRsTK9dfAKNKlj508WQ8TSlEX-5ekReFDfwf_ce892saxRca2DM0LsdMpkYSbeLlf_esruTL_1eU6UmpVXHvmjr47Aj5KLxsxupmIj3bIQk9EDJ-jSW8W4A9eokEJhEvAOv3j04tftcHZ7NDOOULGBUeHwjyWBka4lOuyxIjD1TWDFrKTpWoY1iFUuzvk_Hyn-wZSKNqQ7NOjGaUjMntp8N2TQnb1tbgPU1WT-V_mw7vyUCQ-2LElYsSFWTcanEOhAnsgj0hDIx3DuW3HI-1wHkJA7XpfXPcT32hK_doPLdQJHhaZbrQA5aug5WMfHuKJg0TYzsWOC4w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h3j56bsfOKl0NtPROj6BCG40qlK14ZVhDbICm7ReE6YFXmQRDs5uluJyzNQ_aeDuRQ2so9K_4djfs7PRQtPAyHn2emmBSL49qQx7In-SKDOsPRWKbcCx0CgZj1I_ku7bhJ5uC1HhQMIZBA6zDN4FRVCTxd4PYkIiYnlvnHZ6CFWEQGGRh03n4A9_rGmpDBaMl_Vj-R5SKcBj8hqJ53Vd_jVC63POBjU-3-DVOFLoX9Lelif5Ry-qfB4THC9AdYnq0FY9zLkWID7BS4CjlIFlhUuY43GrVrI5tV8pbGp3wtW8NgvXeaws60Rud4bdntkQJq21ywtiWZlY_uoe7nSx7Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سلام خدمت همگی
 از این به بعد می‌توانید از سابسکریپشن WhiteDNS در اپلیکیشن‌های زیر استفاده کنید:
 اندروید: FlClash
@@ -1671,10 +1671,10 @@ https://flclash.cc/en/download
 <div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d89b2fd3cd.mp4?token=YCxTVt5Jh_lVa4TqsKCb0RSsXynpCeEYd9Lj5nsfy8jSgL7yZKqYfeXosmnB0EexVtLi_aU8IMMlBQn6rXL3-VjDLAry6KymloTlZnoFNXKhxygOBVSwci56kx8x-A2JsncUoMEByLmmBhajfbKugziRLL8MV2qgNoIsmdNkqSeMjb3hUsJx38JG2nTEqA_SrDCwizC-CNOLdkZLwt0OWkJG9UT6jr-Ytm7oVe0CRlwFjZdOpa-XnT3Q__tWouM4yos9xdEcQtADI2JanDTTEm1xrIV_Gld8BsLKtFovL2b8fSgIu6cH4BJoL5NSpRzskOLH2xMOzWHeYLBShfrT0Q" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d89b2fd3cd.mp4?token=eMZa5fKos-b8-2kElBsaQhH8hvJyhgePTa3uSYuai4pBEG4ir78r7bRPTWbcZZNHDyZeo3iboml-bvmvMQS9E9n1slZHSB_nX8DQjt0FIZNIBS_ycXbq3P6gJztcNsl5V7ld2v-p93IHTHHy7uh2ZG5VDfEiXrpCyBPEj7bZmb5A02zytsQ2GMicoy04yKQHPO3huXHgLIybAg6Y2dq54XXkmEbWXJER8LnEvUcVt6HSRc1Fz7rjea3aa6YiJqBWWTVy_TifSNRpESVtG1VR6Ba0B_VpXp_7zkDsiyP48mAYxHoh1KdSYqBVuE_-g97XkNIdTNs2lw0z2fr9l-af2g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d89b2fd3cd.mp4?token=YCxTVt5Jh_lVa4TqsKCb0RSsXynpCeEYd9Lj5nsfy8jSgL7yZKqYfeXosmnB0EexVtLi_aU8IMMlBQn6rXL3-VjDLAry6KymloTlZnoFNXKhxygOBVSwci56kx8x-A2JsncUoMEByLmmBhajfbKugziRLL8MV2qgNoIsmdNkqSeMjb3hUsJx38JG2nTEqA_SrDCwizC-CNOLdkZLwt0OWkJG9UT6jr-Ytm7oVe0CRlwFjZdOpa-XnT3Q__tWouM4yos9xdEcQtADI2JanDTTEm1xrIV_Gld8BsLKtFovL2b8fSgIu6cH4BJoL5NSpRzskOLH2xMOzWHeYLBShfrT0Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d89b2fd3cd.mp4?token=eMZa5fKos-b8-2kElBsaQhH8hvJyhgePTa3uSYuai4pBEG4ir78r7bRPTWbcZZNHDyZeo3iboml-bvmvMQS9E9n1slZHSB_nX8DQjt0FIZNIBS_ycXbq3P6gJztcNsl5V7ld2v-p93IHTHHy7uh2ZG5VDfEiXrpCyBPEj7bZmb5A02zytsQ2GMicoy04yKQHPO3huXHgLIybAg6Y2dq54XXkmEbWXJER8LnEvUcVt6HSRc1Fz7rjea3aa6YiJqBWWTVy_TifSNRpESVtG1VR6Ba0B_VpXp_7zkDsiyP48mAYxHoh1KdSYqBVuE_-g97XkNIdTNs2lw0z2fr9l-af2g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">همچنین کاربران نسخه دسکتاپ می‌توانند از قابلیت
 تبدیل کانفیگ‌ها به IPهای سفید
@@ -1722,7 +1722,7 @@ Tools > V2Ray White IP Generator
 
 <div class="tg-post" id="msg-883">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jn24kyF28C8366OIAuY2xK517SB3LYTrbiWEP_6NFdX8KW9T1A6v2-MD1EfXz-4kaasJU1rm2STCS-w_f5YMtVz8x47Jmq3FyvOqYbeyi4h132O0LnYt6SzHQ109zX-B6ns3qGCYGPN4Tg7o5cmJNxwmXhK7ZJwS1VH0pJGuouh5oOOSSfd9-dFMzOXSo2yXM-BAJ-1s4J7bbqLI4sCEDg83jKOH6zxwyamFzy4VK_VuyTlFOACcw0KNIeXhHs45R_0XLmF9RVgorB_NrTXnx5e1ObWfP9iEd8B9l3i4mbS5MPxHOgFhoQwb-BoWUbI8oarC6T7AcEnyLsPw1hkUFQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/F-7HdoAkH7_8jkQGdOKe9NioL659oT7uSRptkfn17P8o2Mp2QYqASyvFELdyhUwpLKSME-l9bGqDqf8wcjTva6NrLD3MX-_4VIKuhy1BdDMKvpIb4xbqRXZvg15IvYP3qfq1ClWEtwcxTllAl7eiP2eoBBvxfwfKM8Drzs6YErncP1m1JZ_kaSMqY3GsU4p_wjDnjxujbz7Coxy8fedXE8z8GZAUxItOK9Dv9933ifbOemRSsozfn534vo-MMpoUw1n9txUXwhuJKFp5XuO-nllsCb809ZP9PyPnwqoXjH5hkyU74JzHy0zTh0Wl1Fw8bt3z2wZvS2CIc6DKD0X7cg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آموزش تبدیل کانفیگ به آی‌پی سفید
 از این به بعد برای تبدیل کانفیگ، آی‌پی‌های خودتان استفاده می‌شود.
 @WhiteDNS_Installer_bot
@@ -1808,7 +1808,7 @@ https://github.com/seramo/v2ray-config-modifier
 
 <div class="tg-post" id="msg-879">
 <div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KN2bfOgO6-iu7HmKrA7zXF0ypvjzCnBjbdtVnjtyxTo7jMmMRP6ck58i_yjhmIG-ZFDGGeRU4I2ATIrUV3zsyiQkNJqMrn_yx-56LbZ7eX7JORRD0otjn_6Wd76dF7NnptZojVwWtzMoXySxIpzIAqIREGyUkzX4vWmRLg9gY2B3mejH2idKhSxU5DwbKoSrylXFDvJ-8-Lg5IpR3wh3cegZTe_EsTyCNBS-ChMj0OdOng9JVQhZ5b2pmx4br5YoAT4e1kFQjFukeGUHLyYyLLJvEK0O8BvK0ge0IU5HP2WEU5CLnFnJpy8-LuYfd83ndgfbOHzdsSP_h0AyyJIpOw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Wv_Z1CYsB3rRwF0POmk-prWjsj-N6rn-P_a3Ky5opntgeuoWG-5xYFthqRrwJFCKwzDE3gyB3qivSyqqTzOLgWkjpgIbsRDlghv6duBV9ORFY_5IL94Di687k0FFDhqAbKWSrOml7lSQQGMfIAWT_yJkbjWYIWweEklNSVpMb3CsJmhj79pzFhhdQ6l4l1k1VUnXdE_VNYwB4ZJySdT_j67eCe0M3AyFlN45EyoTfnTJPITtJyTObrTxMsqGZUjo_lOa_7pXZEqA4OwBVhX7OTZO1mhdm4ADl6A0k3NJey_M3TnYwy8uGpre9rzSJe_Assy9WVj9YNvPPkMu2NL07g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در شرایط سخت و روزهای «خاموشی دیجیتال»، تلاش کردیم با ساخت ابزارهای مختلف، آموزش‌های کاربردی و راهکارهای ساده‌، کنار مردم باشیم و کمک کنیم تا حداقل دسترسی آزاد به اینترنت حفظ شود.
 اگر در تمام این مسیر فقط توانسته باشیم یک نفر را دوباره به اینترنت آزاد جهانی وصل کنیم، برای ما ارزشمند و افتخارآمیز است.
 اولویت و هدف تیم WhiteDNS همیشه ساده‌تر کردن ابزارهای پیچیده و تسهیل در دسترسی به آموزش بوده تا به هموطنانمان کمک کند وابستگی به بازار سیاه، واسطه‌ها و مافیای VPN کمتر شود؛ با این نگاه که هر شخص قادر باشد ابزارها و اتصال‌های امن خود را بهتر شناخته، بسازد و مدیریت کند.
@@ -1822,7 +1822,7 @@ https://github.com/seramo/v2ray-config-modifier
 
 <div class="tg-post" id="msg-878">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AjK5An7wCSSRHf77tIDse7wAY2si1QpW45G0dC3y-JVLnM8HWNq6mxR04q6J43Jt6A5NbirebZBixsjOKEJ6MT3IqjfeK1OstncKKlllXn0STX1AUBl9al4BF9R5rVEQVkbYWiBHYlKx1N2SfgxpDFBpHryFJDW-2ZcJT1ZMKCLj7H4iORbmh5x1SHnw4cPp45GDtwig24_EEPPVvUdP-_ovRz_K68e_trexmsvw2ED7ZmjwVv-tz6VIouR3mH0pxcEXgf8aIKeBh_q3uwMOPDpx_kp_6TzCGKt_8CQfMqYOPh94m0okZQajmCDwHynVjSpbGdYftphxg5kohzuH3A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CL5uz-y_t5ndjrLFN-Excy0x3MLbVyxjKHvkrRY_hM2_7jtoomVRrg8lf6CRP_H4tPso98yeJIcgMidg6H4i2ksOepvLYWwlhDa-7TQhAB2mVR2bYKNu7LrOaxU8WalJ_ITRjlN5F8jGIfi6ykTJ_U1veJ-3pxd6zQrj7xPspjjvR96MvU0FzSoaP90uRhMv9ktGg6UvYdccDQi-Gl2ELqTyrxfHDwHtR_Ud-U5uDr90X4v_u980HB4ZLVrMNB_SecVZz4q0w-zd91jjF9LNYgAjm6UjDmzTMCxT786arqxlBtKR4Pd7osACXDT8ikOivPwC9KSE1W6Lqv7OGSNKAQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">😊
 آموزش V2Ray از صفر تا صد | نصب پنل، ساخت Inbound و Cloudflare Clean IP روی سرور شخصی
 در این ویدیو نحوه نصب و راه‌اندازی پنل V2Ray روی سرور را به صورت کامل آموزش می‌دهیم. همچنین با نحوه ایجاد Inbound، مدیریت کاربران، استفاده از IPهای تمیز Cloudflare و اتصال کانفیگ‌ها از طریق اپلیکیشن WhiteDNS آشنا خواهید شد.
