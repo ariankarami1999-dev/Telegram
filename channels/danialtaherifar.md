@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-03 03:19:16</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-03 05:59:41</div>
 <hr>
 
 <div class="tg-post" id="msg-937">
@@ -531,7 +531,7 @@ Google Discover
 
 <div class="tg-post" id="msg-918">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gR-y2R8dK0MR4ME1j0ZBUN3XGJMylZAllAVKKTz_4i_Pi8buAItRqx-kLUtEcQc7qElajsrix7ww4sVxS4zhqT0CFXrlrgXt7iTDsIrcFs4WIx6VGQFfnQpab-opgGgcEwn55fWXjn32CGXet2kperRbhF9KxaRI7EJirhA5zgoj_S4s-0dmy-if-nUjFAnjEq2wcWjRPYj7Skjoqcg07oskUbqMJnx4tuNZr0fdSotfzf_RUXV4YWJ9AwpfIDDnXfj_6XGf9vGjUXaOmnN1rhvq3XsnAkdHUM8jkKzz5be1JFBsE7SHCfs6N3Of2ha8B2zCdnQ9UZtMB-3PZW1kGA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OHzcC2cBxC29dkY7CKlPuz9QFczRDzSe7NhUUDU448LuoM9HLJ-OaNYz2tyRFE0Y5kWCZe83C7IDau5rDVnQt1nAQW3CCNRz1H6IoFaabvuFpiUt9_Srbm1D_IB7pJKlY69wvsq76C-x2O-G5x5PMcXOu-tFynyPZY6llf-KbrgMDZ4TjBukRJD6ndMQKAp1beL5zixB2d4RgIx0bS9DKjRg4MEBQ5hB3rJE--6EMuBVMf8orkV4PGDD6l_yOmijf0xUpPz-bAKgLOBp9-K8DCSAP7cqqqQ3bGDLk3zzEeJ7SKuu16xZF_Ylri_dAMF_s-HZy8cRvOxzYfgCJ6_21Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 اینم کسب و کاره ما داریم؟
 با هر ماجرایی باید صفر بشیم! باید کلی استرس بکشیم.
