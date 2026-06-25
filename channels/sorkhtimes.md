@@ -292,7 +292,7 @@
 <a href="https://t.me/sorkhtimes" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽ورزشی نویس پرسپولیس👤🎗️«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس.⛔رسانه سرخ تایمز مسئولیتی در قبال تبلیغات ندارد.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-04 03:29:47</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-04 07:27:51</div>
 <hr>
 
 <div class="tg-post" id="msg-134238">
@@ -334,7 +334,7 @@
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 734 · <a href="https://t.me/SorkhTimes/134238" target="_blank">📅 02:12 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/SorkhTimes/134238" target="_blank">📅 02:12 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134237">
@@ -347,7 +347,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/SorkhTimes/134237" target="_blank">📅 01:13 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/SorkhTimes/134237" target="_blank">📅 01:13 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134236">
@@ -359,7 +359,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/SorkhTimes/134236" target="_blank">📅 01:11 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/SorkhTimes/134236" target="_blank">📅 01:11 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134235">
@@ -367,7 +367,7 @@
 <div class="tg-text">❗️
 ❗️
 فارس : پیگیری ها از باشگاه پرسپولیس نشان میدهد  تاکنون قراردادی میان طرفین به امضا نرسیده و تنها توافقات اولیه و نهایی بر سر مسائل شخصی حاصل شده است.باتوجه‌به اینکه طاهری همچنان با باشگاه روبین کازان روسیه قرارداد دارد، پرسپولیس برای نهایی کردن این انتقال…</div>
-<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/SorkhTimes/134235" target="_blank">📅 00:19 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.3K · <a href="https://t.me/SorkhTimes/134235" target="_blank">📅 00:19 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134234">
@@ -379,7 +379,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/SorkhTimes/134234" target="_blank">📅 00:18 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.25K · <a href="https://t.me/SorkhTimes/134234" target="_blank">📅 00:18 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134233">
@@ -390,7 +390,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.81K · <a href="https://t.me/SorkhTimes/134233" target="_blank">📅 00:15 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.25K · <a href="https://t.me/SorkhTimes/134233" target="_blank">📅 00:15 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134232">
@@ -401,7 +401,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.87K · <a href="https://t.me/SorkhTimes/134232" target="_blank">📅 00:11 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.3K · <a href="https://t.me/SorkhTimes/134232" target="_blank">📅 00:11 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134231">
@@ -432,7 +432,7 @@
 مناسب برای تمام سایت ها و اپ ها ،ظرفیت اتصال نامحدود
 جهت خرید از پیوی =>
 @Winstn_Churchill</div>
-<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/SorkhTimes/134231" target="_blank">📅 23:59 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/SorkhTimes/134231" target="_blank">📅 23:59 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134230">
@@ -444,7 +444,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.22K · <a href="https://t.me/SorkhTimes/134230" target="_blank">📅 23:25 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.58K · <a href="https://t.me/SorkhTimes/134230" target="_blank">📅 23:25 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134229">
@@ -457,7 +457,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/SorkhTimes/134229" target="_blank">📅 22:31 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.94K · <a href="https://t.me/SorkhTimes/134229" target="_blank">📅 22:31 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134228">
@@ -479,7 +479,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.62K · <a href="https://t.me/SorkhTimes/134228" target="_blank">📅 22:30 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.92K · <a href="https://t.me/SorkhTimes/134228" target="_blank">📅 22:30 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134227">
@@ -491,7 +491,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.06K · <a href="https://t.me/SorkhTimes/134227" target="_blank">📅 21:34 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/SorkhTimes/134227" target="_blank">📅 21:34 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134226">
@@ -503,7 +503,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/SorkhTimes/134226" target="_blank">📅 21:32 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.24K · <a href="https://t.me/SorkhTimes/134226" target="_blank">📅 21:32 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134225">
@@ -516,7 +516,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/SorkhTimes/134225" target="_blank">📅 21:19 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SorkhTimes/134225" target="_blank">📅 21:19 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134224">
@@ -533,7 +533,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.18K · <a href="https://t.me/SorkhTimes/134224" target="_blank">📅 21:08 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SorkhTimes/134224" target="_blank">📅 21:08 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134223">
@@ -556,7 +556,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/SorkhTimes/134223" target="_blank">📅 21:04 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.06K · <a href="https://t.me/SorkhTimes/134223" target="_blank">📅 21:04 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134222">
@@ -571,7 +571,7 @@
 🚩
 ⭐
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/SorkhTimes/134222" target="_blank">📅 21:01 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/SorkhTimes/134222" target="_blank">📅 21:01 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134221">
@@ -580,7 +580,7 @@
 امروز صبح در فرودگاه لس‌آنجلس، مهدی طارمی و سعید الهویی هنگام بازگشت به تیخوانا، چند ساعت توسط مأموران نگه داشته شدند و از آن‌ها بازجویی شد. در نهایت، پس از پیگیری‌های فیفا و فشارهای فدراسیون فوتبال، اجازه خروج برای آن‌ها صادر شد.
 🎗️
 «سرخ تایمز» دریچه ای…</div>
-<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/SorkhTimes/134221" target="_blank">📅 20:57 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/SorkhTimes/134221" target="_blank">📅 20:57 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134220">
@@ -622,7 +622,7 @@
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 4.02K · <a href="https://t.me/SorkhTimes/134220" target="_blank">📅 20:35 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/SorkhTimes/134220" target="_blank">📅 20:35 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134219">
@@ -634,7 +634,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.97K · <a href="https://t.me/SorkhTimes/134219" target="_blank">📅 20:23 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SorkhTimes/134219" target="_blank">📅 20:23 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134218">
@@ -645,7 +645,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس 𝓣𝓲𝓶𝓮
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SorkhTimes/134218" target="_blank">📅 18:41 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SorkhTimes/134218" target="_blank">📅 18:41 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134217">
@@ -657,7 +657,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/SorkhTimes/134217" target="_blank">📅 18:37 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SorkhTimes/134217" target="_blank">📅 18:37 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134216">
@@ -670,7 +670,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SorkhTimes/134216" target="_blank">📅 18:19 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SorkhTimes/134216" target="_blank">📅 18:19 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134215">
@@ -679,7 +679,7 @@
 یاسین سلمانی در پرسپولیس میماند؟ آخرین گمانه‌زنی ها از ماندن ستاره خاموش پرسپولیس
 ◽️
 یاسین سلمانی که پس‌از پارگی رباط صلیبی خود بازگشت موفقی در دو فصل اخیر سرخپوشان نداشت، بنظر میرسد یکبار دیگر شانس به او روی کرده و اوسمار ویرا قصد دارد این بازیکن را به…</div>
-<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SorkhTimes/134215" target="_blank">📅 18:17 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SorkhTimes/134215" target="_blank">📅 18:17 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134214">
@@ -690,7 +690,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SorkhTimes/134214" target="_blank">📅 18:15 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SorkhTimes/134214" target="_blank">📅 18:15 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134213">
@@ -719,7 +719,7 @@
 ×
 🇲🇽
 مکزیک؛…</div>
-<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SorkhTimes/134213" target="_blank">📅 18:00 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SorkhTimes/134213" target="_blank">📅 18:00 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134212">
@@ -741,7 +741,7 @@
 جام جهانی ۲۰۲۶ رو با وینکوبت پیش‌بینی کن و ۱۰ درصد بونوس اولین واریز بگیر.
 🟢
 چرخش…</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SorkhTimes/134212" target="_blank">📅 17:59 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SorkhTimes/134212" target="_blank">📅 17:59 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134211">
@@ -752,7 +752,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SorkhTimes/134211" target="_blank">📅 16:44 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SorkhTimes/134211" target="_blank">📅 16:44 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134210">
@@ -761,7 +761,7 @@
 فارس: بین پرسپولیس و اسکوچیچ در اغلب موارد به توافق رسیده‌اند و تنها اختلاف بر سر مدت زمان قرارداد باقی مانده است.
 🔴
 مهم‌ترین مانع موجود، مدت زمان قرارداد است. دراگان اسکوچیچ خواهان عقد قراردادی ۲ ساله با باشگاه پرسپولیس است اما مدیران این باشگاه خواهان قرار…</div>
-<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SorkhTimes/134210" target="_blank">📅 16:43 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SorkhTimes/134210" target="_blank">📅 16:43 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134209">
@@ -770,7 +770,7 @@
 باشگاه پرسپولیس با ارسال نامه‌ای به باشگاه نساجی رسما خواستار جذب دانیال‌ایری مدافع‌ملی پوش 21 ساله این‌باشگاه‌شده‌است. سرخپوشان به مدیریت نساجی اعلام کرده که 90 میلیارد زیاده و تا 55 میلیارد ما حاضریم برای رضایت نامه ایری هزینه کنیم.
 🎗️
 «سرخ تایمز» دریچه…</div>
-<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SorkhTimes/134209" target="_blank">📅 16:42 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SorkhTimes/134209" target="_blank">📅 16:42 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134208">
@@ -782,7 +782,7 @@
 𝓣𝓲𝓶𝓮
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SorkhTimes/134208" target="_blank">📅 16:22 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SorkhTimes/134208" target="_blank">📅 16:22 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134207">
@@ -817,7 +817,7 @@
 کانال رسمی وینکوبت:
 🔵
 @Wincobetofficial</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SorkhTimes/134207" target="_blank">📅 16:21 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SorkhTimes/134207" target="_blank">📅 16:21 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134206">
@@ -826,7 +826,7 @@
 طی ۲۴ ساعت آینده جدایی اوسمار ویرا از پرسپولیس به صورت رسمی اعلام خواهد شد.
 🔴
 بدین ترتیب و در صورت برگزاری مسابقات پلی‌آف احتمالا کریم باقری به صورت موقت هدایت پرسپولیس را بر عهده خواهد داشت. البته هنوز احتمال حضور اوسمار در پرسپولیس در این تورنمنت وجود…</div>
-<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SorkhTimes/134206" target="_blank">📅 15:09 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SorkhTimes/134206" target="_blank">📅 15:09 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134205">
@@ -836,7 +836,7 @@
 🔴
 🔴
 به گزارش خبرنگار قرمزآنلاین، قرار بود اوسمار ویرا در باشگاه حضور پیدا کند، اما هنوز این اتفاق نیفتاده است.گویا مدیران باشگاه هم تصمیم داشتند جلسه ای را برگزار کنند که این نشست به ساعات دیگری…</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SorkhTimes/134205" target="_blank">📅 15:05 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SorkhTimes/134205" target="_blank">📅 15:05 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134204">
@@ -847,7 +847,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SorkhTimes/134204" target="_blank">📅 14:23 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SorkhTimes/134204" target="_blank">📅 14:23 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134203">
@@ -858,7 +858,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SorkhTimes/134203" target="_blank">📅 14:21 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/SorkhTimes/134203" target="_blank">📅 14:21 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134202">
@@ -867,7 +867,7 @@
 پرسپولیس و مسیر جوانی در تیم
 ♦️
 شاید بعد از چندین سال بسیار واژه مسبر جوانی برای سرخپوشان مهم و حیاتی باشد چون تیم از لحاظ میانگین سنی در وضعیت بسیار بالا قرار دارند و شرایط ایجاب میکند که در فصل جدید به جوان گرایی رو بیاوریم تا از لحاظ سبک بازی هم شاداب…</div>
-<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SorkhTimes/134202" target="_blank">📅 13:20 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SorkhTimes/134202" target="_blank">📅 13:20 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134201">
@@ -878,7 +878,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SorkhTimes/134201" target="_blank">📅 13:18 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SorkhTimes/134201" target="_blank">📅 13:18 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134200">
@@ -890,7 +890,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SorkhTimes/134200" target="_blank">📅 13:17 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SorkhTimes/134200" target="_blank">📅 13:17 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134199">
@@ -903,7 +903,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SorkhTimes/134199" target="_blank">📅 11:51 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SorkhTimes/134199" target="_blank">📅 11:51 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134198">
@@ -914,7 +914,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SorkhTimes/134198" target="_blank">📅 11:49 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SorkhTimes/134198" target="_blank">📅 11:49 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134197">
@@ -925,7 +925,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SorkhTimes/134197" target="_blank">📅 11:46 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SorkhTimes/134197" target="_blank">📅 11:46 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134196">
@@ -937,7 +937,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SorkhTimes/134196" target="_blank">📅 10:36 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SorkhTimes/134196" target="_blank">📅 10:36 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134195">
@@ -948,7 +948,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SorkhTimes/134195" target="_blank">📅 10:34 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SorkhTimes/134195" target="_blank">📅 10:34 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134194">
@@ -958,7 +958,7 @@
 تیم چادرملو اردکان برای دیدار مقابل پرسپولیس، ۶ ستاره خارجی خود و از جمله هادی حبیبی‌نژاد را در اختیار ندارد و به نوعی یزدی‌ها هم نیز مانند پرسپولیس با ترکیب نسبتا ذخیره وارد میدان خواهند شد
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس…</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SorkhTimes/134194" target="_blank">📅 10:25 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SorkhTimes/134194" target="_blank">📅 10:25 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134193">
@@ -969,7 +969,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SorkhTimes/134193" target="_blank">📅 10:23 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SorkhTimes/134193" target="_blank">📅 10:23 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134192">
@@ -980,7 +980,7 @@
 من یک فصل دیگر با پرسپولیس قرارداد دارم. پرسپولیس خانواده من است و دل کندن از این تیم برایم سخت است. دوست دارم بمانم اما به شرط اینکه فرصت بازی به من برسد. من قبلا هم خودم را نشان دادم و ثابت کردم دروازه‌بان بی‌استعدادی نیستم
 🔴
 شما اگر از…</div>
-<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SorkhTimes/134192" target="_blank">📅 10:21 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SorkhTimes/134192" target="_blank">📅 10:21 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134191">
@@ -992,7 +992,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SorkhTimes/134191" target="_blank">📅 10:09 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SorkhTimes/134191" target="_blank">📅 10:09 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134190">
@@ -1003,7 +1003,7 @@
 با توجه به اینکه 8 تیم برتر سوم صعود خواهند کرد، در صورتی که شاگردان قلعه نویی در بازی آخر مقابل مصر به مساوی برسند به احتمال قوی جواز صعود به مرحله بعد را کسب خواهند کرد
 🔴
 اگه ببرن که مشخصه قطعی صعود حداقل به عنوان تیم دوم، اگه ببازن…</div>
-<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SorkhTimes/134190" target="_blank">📅 10:08 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.83K · <a href="https://t.me/SorkhTimes/134190" target="_blank">📅 10:08 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134189">
@@ -1014,7 +1014,7 @@
 بانک مرکزی:
 🔴
 اختلال خدمات کارت‌محور در اکثر بانک‌ها که اقدامی پیشگیرانه برای حفظ امنیت بود، برطرف شده است؛ خدمات بانک‌های ملی، صادرات و تجارت نیز در حال بازسازی است و پیش‌بینی می‌شود تمامی خدمات بانکی تا پایان امشب…</div>
-<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SorkhTimes/134189" target="_blank">📅 09:56 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SorkhTimes/134189" target="_blank">📅 09:56 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134188">
@@ -1047,7 +1047,7 @@ DR Congo
 کانال رسمی وینکوبت:
 🔵
 @Wincobetofficial</div>
-<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SorkhTimes/134188" target="_blank">📅 02:34 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SorkhTimes/134188" target="_blank">📅 02:34 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134187">
@@ -1061,7 +1061,7 @@ DR Congo
 𝓣𝓲𝓶𝓮
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SorkhTimes/134187" target="_blank">📅 02:03 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SorkhTimes/134187" target="_blank">📅 02:03 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134186">
@@ -1075,7 +1075,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SorkhTimes/134186" target="_blank">📅 01:59 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SorkhTimes/134186" target="_blank">📅 01:59 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134185">
@@ -1086,7 +1086,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SorkhTimes/134185" target="_blank">📅 01:56 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.23K · <a href="https://t.me/SorkhTimes/134185" target="_blank">📅 01:56 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134184">
@@ -1097,7 +1097,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SorkhTimes/134184" target="_blank">📅 00:55 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SorkhTimes/134184" target="_blank">📅 00:55 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134183">
@@ -1109,7 +1109,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SorkhTimes/134183" target="_blank">📅 00:53 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SorkhTimes/134183" target="_blank">📅 00:53 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134182">
@@ -1123,7 +1123,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SorkhTimes/134182" target="_blank">📅 00:51 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SorkhTimes/134182" target="_blank">📅 00:51 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134181">
@@ -1134,7 +1134,7 @@ DR Congo
 کریم باقری، مربی فوتبال:  نمی‌دانم چرا به دروغ می‌گویند سبیل من را زده‌اند در حالی که خودم اولین بار در بازی مقابل قطر سبیل‌هایم را با قیچی زدم.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس…</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SorkhTimes/134181" target="_blank">📅 00:50 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SorkhTimes/134181" target="_blank">📅 00:50 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134180">
@@ -1154,7 +1154,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SorkhTimes/134180" target="_blank">📅 00:49 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SorkhTimes/134180" target="_blank">📅 00:49 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134179">
@@ -1173,7 +1173,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SorkhTimes/134179" target="_blank">📅 00:25 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/SorkhTimes/134179" target="_blank">📅 00:25 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134178">
@@ -1186,7 +1186,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SorkhTimes/134178" target="_blank">📅 23:53 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.23K · <a href="https://t.me/SorkhTimes/134178" target="_blank">📅 23:53 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134177">
@@ -1199,7 +1199,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SorkhTimes/134177" target="_blank">📅 23:42 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SorkhTimes/134177" target="_blank">📅 23:42 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134176">
@@ -1217,7 +1217,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SorkhTimes/134176" target="_blank">📅 23:41 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SorkhTimes/134176" target="_blank">📅 23:41 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134175">
@@ -1228,7 +1228,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SorkhTimes/134175" target="_blank">📅 23:40 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SorkhTimes/134175" target="_blank">📅 23:40 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134174">
@@ -1240,7 +1240,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SorkhTimes/134174" target="_blank">📅 23:39 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SorkhTimes/134174" target="_blank">📅 23:39 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134173">
@@ -1251,7 +1251,7 @@ DR Congo
 به گزارش رسانه رسمی باشگاه پرسپولیس، به مناسبت فرارسیدن تاسوعا و عاشورای حسینی و به احترام ایام سوگواری اباعبدالله الحسین (ع)، نشست خبری سرمربیان پرسپولیس و چادرملو پیش از بازی برگزار نمی‌شود.
 🎗️
 «سرخ…</div>
-<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SorkhTimes/134173" target="_blank">📅 22:37 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.23K · <a href="https://t.me/SorkhTimes/134173" target="_blank">📅 22:37 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134172">
@@ -1263,7 +1263,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/SorkhTimes/134172" target="_blank">📅 22:35 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SorkhTimes/134172" target="_blank">📅 22:35 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134171">
@@ -1274,7 +1274,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SorkhTimes/134171" target="_blank">📅 22:33 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/SorkhTimes/134171" target="_blank">📅 22:33 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134170">
@@ -1285,7 +1285,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SorkhTimes/134170" target="_blank">📅 22:28 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SorkhTimes/134170" target="_blank">📅 22:28 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134169">
@@ -1296,7 +1296,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SorkhTimes/134169" target="_blank">📅 22:24 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/SorkhTimes/134169" target="_blank">📅 22:24 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134168">
@@ -1310,7 +1310,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SorkhTimes/134168" target="_blank">📅 22:05 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SorkhTimes/134168" target="_blank">📅 22:05 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134167">
@@ -1322,7 +1322,7 @@ DR Congo
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SorkhTimes/134167" target="_blank">📅 22:04 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SorkhTimes/134167" target="_blank">📅 22:04 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134166">
@@ -1355,7 +1355,7 @@ Ghana
 کانال رسمی وینکوبت:
 🔵
 @Wincobetofficial</div>
-<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SorkhTimes/134166" target="_blank">📅 21:59 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SorkhTimes/134166" target="_blank">📅 21:59 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134165">
@@ -1368,7 +1368,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SorkhTimes/134165" target="_blank">📅 21:57 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SorkhTimes/134165" target="_blank">📅 21:57 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134164">
@@ -1379,7 +1379,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SorkhTimes/134164" target="_blank">📅 21:56 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SorkhTimes/134164" target="_blank">📅 21:56 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134163">
@@ -1392,7 +1392,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SorkhTimes/134163" target="_blank">📅 21:56 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SorkhTimes/134163" target="_blank">📅 21:56 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134162">
@@ -1404,7 +1404,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SorkhTimes/134162" target="_blank">📅 20:48 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SorkhTimes/134162" target="_blank">📅 20:48 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134161">
@@ -1416,7 +1416,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SorkhTimes/134161" target="_blank">📅 20:41 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SorkhTimes/134161" target="_blank">📅 20:41 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134160">
@@ -1427,7 +1427,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SorkhTimes/134160" target="_blank">📅 20:37 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SorkhTimes/134160" target="_blank">📅 20:37 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134159">
@@ -1438,7 +1438,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SorkhTimes/134159" target="_blank">📅 20:32 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SorkhTimes/134159" target="_blank">📅 20:32 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134158">
@@ -1448,7 +1448,7 @@ Ghana
 تیم چادرملو اردکان برای دیدار مقابل پرسپولیس، ۶ ستاره خارجی خود و از جمله هادی حبیبی‌نژاد را در اختیار ندارد و به نوعی یزدی‌ها هم نیز مانند پرسپولیس با ترکیب نسبتا ذخیره وارد میدان خواهند شد
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس…</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SorkhTimes/134158" target="_blank">📅 20:21 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SorkhTimes/134158" target="_blank">📅 20:21 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134157">
@@ -1457,7 +1457,7 @@ Ghana
 تسنیم : مخالفت سازمان لیگ با حضور تیم امید چادرملو مقابل پرسپولیس
 🔴
 با توجه به اینکه بازیکنان چادرملو هنوز در تمرینات حاضر نشده‌اند، مدیران این باشگاه از سازمان لیگ خواستند با تیم امید خود در تورنمنت فوق حاضر شوند. این درخواست با مخالفت سازمان لیگ همراه…</div>
-<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SorkhTimes/134157" target="_blank">📅 20:21 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/SorkhTimes/134157" target="_blank">📅 20:21 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134156">
@@ -1473,7 +1473,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SorkhTimes/134156" target="_blank">📅 20:20 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SorkhTimes/134156" target="_blank">📅 20:20 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134155">
@@ -1486,7 +1486,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SorkhTimes/134155" target="_blank">📅 19:20 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SorkhTimes/134155" target="_blank">📅 19:20 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134154">
@@ -1494,7 +1494,7 @@ Ghana
 <div class="tg-text">🔴
 🔴
 مدیران باشگاه پرسپولیس در آستانه نهایی کردن قرارداد هادی حبیبی نژاد ستاره 30 ساله ملی پوش چادرملو اردکان به عنوان خرید سوم هستند. مدیران باشگاه پرسپولیس گوی رقابت برای جذب این بازیکن از استقلال و سپاهان ربوده اند و اگر اتفاق خاصی ندهد حبیبی نژاد فصل آینده…</div>
-<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SorkhTimes/134154" target="_blank">📅 19:11 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SorkhTimes/134154" target="_blank">📅 19:11 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134153">
@@ -1507,7 +1507,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SorkhTimes/134153" target="_blank">📅 17:41 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SorkhTimes/134153" target="_blank">📅 17:41 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134152">
@@ -1518,7 +1518,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SorkhTimes/134152" target="_blank">📅 16:52 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SorkhTimes/134152" target="_blank">📅 16:52 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134151">
@@ -1528,7 +1528,7 @@ Ghana
 🔴
 🔴
 به گزارش خبرنگار قرمزآنلاین، قرار بود اوسمار ویرا در باشگاه حضور پیدا کند، اما هنوز این اتفاق نیفتاده است.گویا مدیران باشگاه هم تصمیم داشتند جلسه ای را برگزار کنند که این نشست به ساعات دیگری…</div>
-<div class="tg-footer">👁️ 5.27K · <a href="https://t.me/SorkhTimes/134151" target="_blank">📅 16:42 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SorkhTimes/134151" target="_blank">📅 16:42 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134150">
@@ -1541,7 +1541,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SorkhTimes/134150" target="_blank">📅 16:36 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/SorkhTimes/134150" target="_blank">📅 16:36 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134149">
@@ -1555,7 +1555,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SorkhTimes/134149" target="_blank">📅 16:34 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SorkhTimes/134149" target="_blank">📅 16:34 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134148">
@@ -1569,7 +1569,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/SorkhTimes/134148" target="_blank">📅 16:31 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/SorkhTimes/134148" target="_blank">📅 16:31 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134147">
@@ -1583,7 +1583,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SorkhTimes/134147" target="_blank">📅 16:20 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SorkhTimes/134147" target="_blank">📅 16:20 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134146">
@@ -1602,7 +1602,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SorkhTimes/134146" target="_blank">📅 16:17 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SorkhTimes/134146" target="_blank">📅 16:17 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134145">
@@ -1640,7 +1640,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SorkhTimes/134144" target="_blank">📅 16:07 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SorkhTimes/134144" target="_blank">📅 16:07 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134143">
@@ -1651,7 +1651,7 @@ Ghana
 مذاکرات پرسپولیس با اسکوچیچ داره بهتر می‌شه. اسکوچیچ که سر بند فورس ماژور جنگ و مدت قرارداد بحث داشت، ظاهراً با باشگاه به تفاهم رسیده و فرداست که همه چیز نهایی بشه.
 🔴
 اوسمار هم که قبلاً می‌گفت می‌تونه برای بند تمدید…</div>
-<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SorkhTimes/134143" target="_blank">📅 15:25 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SorkhTimes/134143" target="_blank">📅 15:25 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134142">
@@ -1665,7 +1665,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/SorkhTimes/134142" target="_blank">📅 15:24 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SorkhTimes/134142" target="_blank">📅 15:24 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134141">
@@ -1676,7 +1676,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.43K · <a href="https://t.me/SorkhTimes/134141" target="_blank">📅 15:20 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.44K · <a href="https://t.me/SorkhTimes/134141" target="_blank">📅 15:20 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134140">
@@ -1686,7 +1686,7 @@ Ghana
 واکنش باشگاه چادرملو به برگزاری پلی‌آف آسیایی؛ بازی را عقب بیاندازید.
 ✅
 ما هفته گذشته فراخوان دادیم، اما بازیکنان مطمئن نبودند که این بازی واقعاً برگزار می‌شود یا نه و اصلاً فرصتی برای آماده‌سازی وجود نداشت. قرار بود بازیکنان پس از مراسم عزاداری امام حسین…</div>
-<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/SorkhTimes/134140" target="_blank">📅 15:06 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SorkhTimes/134140" target="_blank">📅 15:06 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134139">
@@ -1701,7 +1701,7 @@ Ghana
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SorkhTimes/134139" target="_blank">📅 15:03 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SorkhTimes/134139" target="_blank">📅 15:03 · 02 Tir 1405</a></div>
 </div>
 
 <hr>

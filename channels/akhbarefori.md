@@ -292,7 +292,7 @@
 <a href="https://t.me/akhbarefori" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽تبلیغ درکانال خبرفوری@ads_foriارتباط مستقیم با ادمین تبلیغ@newsadminجهت رزرو تبلیغ تماس بگیرید. 09018373801؛ارتباط با ما@Ertebat_baforiiتبلیغ در ۳۰۰کانال تلگرام@Maino_marketer</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-04 03:29:47</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-04 07:27:51</div>
 <hr>
 
 <div class="tg-post" id="msg-663042">
@@ -308,7 +308,7 @@
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/akhbarefori/663042" target="_blank">📅 00:57 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/akhbarefori/663042" target="_blank">📅 00:57 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663041">
@@ -327,7 +327,7 @@
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 38.4K · <a href="https://t.me/akhbarefori/663041" target="_blank">📅 00:30 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 50.5K · <a href="https://t.me/akhbarefori/663041" target="_blank">📅 00:30 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663040">
@@ -343,7 +343,7 @@
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/akhbarefori/663040" target="_blank">📅 00:29 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/akhbarefori/663040" target="_blank">📅 00:29 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663039">
@@ -360,7 +360,7 @@
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 40.2K · <a href="https://t.me/akhbarefori/663039" target="_blank">📅 00:24 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51.9K · <a href="https://t.me/akhbarefori/663039" target="_blank">📅 00:24 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663038">
@@ -377,7 +377,7 @@
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/akhbarefori/663038" target="_blank">📅 00:22 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 50.5K · <a href="https://t.me/akhbarefori/663038" target="_blank">📅 00:22 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663037">
@@ -393,7 +393,7 @@
 ترامپ از اروپایی‌ها در قبال موضوع ایران انتقاد می‌کند: من از ایتالیا ناامید بودم
 🔹
 من از بریتانیا ناامید بودم. ما از آلمان و فرانسه ناامید هستیم. ما از بیشتر آنها ناامید هستیم. اسپانیا یک نمایش وحشتناک است. اسپانیا حتی از دیدگاه شما هم وحشتناک است #Devil…</div>
-<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/akhbarefori/663037" target="_blank">📅 00:21 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46.8K · <a href="https://t.me/akhbarefori/663037" target="_blank">📅 00:21 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663036">
@@ -409,7 +409,7 @@
 توانایی هسته‌ای ایران تهدیدی برای جهان بود  مارک روته، دبیرکل ناتو:
 🔹
 واقعا می‌خواهم روشن کنم که کاری که شما در مورد ایران انجام می‌دهید چقدر مهم است. این، اول از همه، در مورد توانایی هسته‌ای است که ایران اساسا به آن دست یافته بود و این می‌توانست تهدیدی برای…</div>
-<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/akhbarefori/663036" target="_blank">📅 00:21 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/akhbarefori/663036" target="_blank">📅 00:21 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663035">
@@ -425,7 +425,7 @@
 ترامپ: اردوغان می‌خواست برای کمک به ایران وارد جنگ شود  رئیس جمهور آمریکا بامداد پنجشنبه در دیدار با «مارک روته» دبیرکل ناتو:
 🔹
 «[اردوغان] کاندیدای اصلی برای ورود به جنگ با ایران بود. شاید، از طرف ایران، زیرا طرفدار اسرائیل نیست. من از او (اردوغان) خواستم…</div>
-<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/akhbarefori/663035" target="_blank">📅 00:20 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 44.8K · <a href="https://t.me/akhbarefori/663035" target="_blank">📅 00:20 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663034">
@@ -441,7 +441,7 @@
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/akhbarefori/663034" target="_blank">📅 00:17 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46K · <a href="https://t.me/akhbarefori/663034" target="_blank">📅 00:17 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663033">
@@ -454,7 +454,7 @@ Watch these 90 seconds until the end.
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/akhbarefori/663033" target="_blank">📅 00:07 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/akhbarefori/663033" target="_blank">📅 00:07 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663032">
@@ -466,7 +466,7 @@ Watch these 90 seconds until the end.
 🔹
 با قرائت دعای فرج به این جمع میلیونی بپیوندیم
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/akhbarefori/663032" target="_blank">📅 00:00 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/akhbarefori/663032" target="_blank">📅 00:00 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663031">
@@ -476,7 +476,7 @@ Watch these 90 seconds until the end.
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/akhbarefori/663031" target="_blank">📅 23:55 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/akhbarefori/663031" target="_blank">📅 23:55 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663030">
@@ -492,7 +492,7 @@ Watch these 90 seconds until the end.
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/akhbarefori/663030" target="_blank">📅 23:54 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.8K · <a href="https://t.me/akhbarefori/663030" target="_blank">📅 23:54 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663029">
@@ -502,7 +502,7 @@ Watch these 90 seconds until the end.
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/akhbarefori/663029" target="_blank">📅 23:50 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/akhbarefori/663029" target="_blank">📅 23:50 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663028">
@@ -534,7 +534,7 @@ khabarfoori.com/fa/tiny/news-3225358
 ویدئوهای جذاب ما را در وبسایت خبرفوری کلیک کنید
 🔹
 http://aparat.com/akhbar.fori/videos</div>
-<div class="tg-footer">👁️ 38K · <a href="https://t.me/akhbarefori/663028" target="_blank">📅 23:48 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/akhbarefori/663028" target="_blank">📅 23:48 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663027">
@@ -545,7 +545,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/akhbarefori/663027" target="_blank">📅 23:44 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/akhbarefori/663027" target="_blank">📅 23:44 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663026">
@@ -568,7 +568,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🚩
 خوب که بنگری عاشورا هنوز به شب نرسید‌ه‌ ست. و ما اگرچه عاشورای سال ۶۱ هجری را درک نکردیم اما در وسطِ میدانِ امتدادِ عاشورای تو ایستاده‌ایم. جایی که فرزندت با قلبی داغدار از ستم و جنایت همه شمرها و یزیدان تاریخ، هر روز ندای هل من ناصر سر می‌دهد که عاشورای تو، فقط با ظهور او به شب می‌رسد. شبی که به صبح دولت کریمه او می‌پیوندد. و به قول سید شهیدان اهل قلم «جایی برای ای کاش‌ها و اگرها باقی نمانده است. عاشورا هنوز نگذشته و کاروان کربلا هنوز در راه است. اگر تو را هوس کرب‌وبلاست، بسم‌الله ...»
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/akhbarefori/663026" target="_blank">📅 23:43 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/akhbarefori/663026" target="_blank">📅 23:43 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663025">
@@ -583,7 +583,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/akhbarefori/663025" target="_blank">📅 23:26 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 39.5K · <a href="https://t.me/akhbarefori/663025" target="_blank">📅 23:26 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663024">
@@ -595,7 +595,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/akhbarefori/663024" target="_blank">📅 23:25 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 40K · <a href="https://t.me/akhbarefori/663024" target="_blank">📅 23:25 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663023">
@@ -607,7 +607,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/akhbarefori/663023" target="_blank">📅 23:21 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/akhbarefori/663023" target="_blank">📅 23:21 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663022">
@@ -619,7 +619,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/akhbarefori/663022" target="_blank">📅 23:18 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 40.5K · <a href="https://t.me/akhbarefori/663022" target="_blank">📅 23:18 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663021">
@@ -633,7 +633,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/akhbarefori/663021" target="_blank">📅 23:13 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/akhbarefori/663021" target="_blank">📅 23:13 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663020">
@@ -647,7 +647,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 37K · <a href="https://t.me/akhbarefori/663020" target="_blank">📅 23:11 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/akhbarefori/663020" target="_blank">📅 23:11 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663019">
@@ -658,7 +658,7 @@ http://aparat.com/akhbar.fori/videos</div>
 من به عنوان مسئول در این کشور، وظیفه ام این است که کتاب خدا در مقابل دیدگانم باشد و به آن عمل کنم و عدالت را در جامعه پیاده کنم.
 🔹
 من نمی توانم مسئول مملکتی…</div>
-<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/akhbarefori/663019" target="_blank">📅 23:05 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/akhbarefori/663019" target="_blank">📅 23:05 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663018">
@@ -673,7 +673,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/akhbarefori/663018" target="_blank">📅 22:58 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 38.8K · <a href="https://t.me/akhbarefori/663018" target="_blank">📅 22:58 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663017">
@@ -683,7 +683,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/akhbarefori/663017" target="_blank">📅 22:53 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/akhbarefori/663017" target="_blank">📅 22:53 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663016">
@@ -694,7 +694,7 @@ http://aparat.com/akhbar.fori/videos</div>
 در حالی که تیم ملی ایران برای سومین بار در حال سفر به آمریکاست، بار دیگر مزاحمت آمریکا برای تیم ایران باعث معطلی تیم در فرودگاه شده است.
 🔹
 اعضای تیم ملی فوتبال ایران ساعتی قبل برای انجام دیدار…</div>
-<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/akhbarefori/663016" target="_blank">📅 22:44 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46.6K · <a href="https://t.me/akhbarefori/663016" target="_blank">📅 22:44 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663015">
@@ -708,7 +708,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/akhbarefori/663015" target="_blank">📅 22:32 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/akhbarefori/663015" target="_blank">📅 22:32 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663013">
@@ -734,7 +734,7 @@ http://aparat.com/akhbar.fori/videos</div>
 👇🏻
 👇🏻
 @gharar_madahi</div>
-<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/akhbarefori/663013" target="_blank">📅 22:24 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/akhbarefori/663013" target="_blank">📅 22:24 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663012">
@@ -751,7 +751,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 50.7K · <a href="https://t.me/akhbarefori/663012" target="_blank">📅 22:21 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/akhbarefori/663012" target="_blank">📅 22:21 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663011">
@@ -772,7 +772,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/akhbarefori/663011" target="_blank">📅 22:15 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59K · <a href="https://t.me/akhbarefori/663011" target="_blank">📅 22:15 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663010">
@@ -791,7 +791,7 @@ http://aparat.com/akhbar.fori/videos</div>
 در فضای مجازی
 👇
 @akhbarchaharmahalvabakhtiari</div>
-<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/akhbarefori/663010" target="_blank">📅 22:10 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.3K · <a href="https://t.me/akhbarefori/663010" target="_blank">📅 22:10 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663009">
@@ -803,7 +803,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/akhbarefori/663009" target="_blank">📅 22:04 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52K · <a href="https://t.me/akhbarefori/663009" target="_blank">📅 22:04 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663003">
@@ -824,7 +824,7 @@ http://aparat.com/akhbar.fori/videos</div>
 👇🏻
 👇🏻
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/akhbarefori/663003" target="_blank">📅 22:04 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/akhbarefori/663003" target="_blank">📅 22:04 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663002">
@@ -842,7 +842,7 @@ http://aparat.com/akhbar.fori/videos</div>
 در فضای مجازی
 👇
 @akhbartehran</div>
-<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/akhbarefori/663002" target="_blank">📅 22:02 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.6K · <a href="https://t.me/akhbarefori/663002" target="_blank">📅 22:02 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663001">
@@ -860,7 +860,7 @@ http://aparat.com/akhbar.fori/videos</div>
 در فضای مجازی
 👇
 @AkhbarMashhad</div>
-<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/akhbarefori/663001" target="_blank">📅 21:57 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.2K · <a href="https://t.me/akhbarefori/663001" target="_blank">📅 21:57 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-663000">
@@ -877,7 +877,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/akhbarefori/663000" target="_blank">📅 21:55 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 50.5K · <a href="https://t.me/akhbarefori/663000" target="_blank">📅 21:55 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662999">
@@ -893,7 +893,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/akhbarefori/662999" target="_blank">📅 21:52 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46.1K · <a href="https://t.me/akhbarefori/662999" target="_blank">📅 21:52 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662998">
@@ -905,7 +905,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/akhbarefori/662998" target="_blank">📅 21:46 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/akhbarefori/662998" target="_blank">📅 21:46 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662997">
@@ -919,7 +919,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/akhbarefori/662997" target="_blank">📅 21:36 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/akhbarefori/662997" target="_blank">📅 21:36 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662996">
@@ -930,7 +930,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/akhbarefori/662996" target="_blank">📅 21:28 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52K · <a href="https://t.me/akhbarefori/662996" target="_blank">📅 21:28 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662995">
@@ -945,7 +945,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/akhbarefori/662995" target="_blank">📅 21:25 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 50.5K · <a href="https://t.me/akhbarefori/662995" target="_blank">📅 21:25 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662994">
@@ -958,7 +958,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 43K · <a href="https://t.me/akhbarefori/662994" target="_blank">📅 21:23 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/akhbarefori/662994" target="_blank">📅 21:23 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662993">
@@ -972,7 +972,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 42K · <a href="https://t.me/akhbarefori/662993" target="_blank">📅 21:15 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.2K · <a href="https://t.me/akhbarefori/662993" target="_blank">📅 21:15 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662992">
@@ -995,7 +995,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 42.7K · <a href="https://t.me/akhbarefori/662992" target="_blank">📅 21:13 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.5K · <a href="https://t.me/akhbarefori/662992" target="_blank">📅 21:13 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662991">
@@ -1012,7 +1012,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/akhbarefori/662991" target="_blank">📅 21:08 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/akhbarefori/662991" target="_blank">📅 21:08 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662990">
@@ -1029,7 +1029,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 42.2K · <a href="https://t.me/akhbarefori/662990" target="_blank">📅 21:03 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.6K · <a href="https://t.me/akhbarefori/662990" target="_blank">📅 21:03 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662989">
@@ -1046,7 +1046,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 42K · <a href="https://t.me/akhbarefori/662989" target="_blank">📅 20:56 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/akhbarefori/662989" target="_blank">📅 20:56 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662988">
@@ -1058,7 +1058,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 43.5K · <a href="https://t.me/akhbarefori/662988" target="_blank">📅 20:52 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 49.3K · <a href="https://t.me/akhbarefori/662988" target="_blank">📅 20:52 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662982">
@@ -1082,7 +1082,7 @@ http://aparat.com/akhbar.fori/videos</div>
 👇🏻
 👇🏻
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 34.2K · <a href="https://t.me/akhbarefori/662982" target="_blank">📅 20:50 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/akhbarefori/662982" target="_blank">📅 20:50 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662981">
@@ -1105,7 +1105,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/akhbarefori/662981" target="_blank">📅 20:40 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.7K · <a href="https://t.me/akhbarefori/662981" target="_blank">📅 20:40 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662980">
@@ -1125,7 +1125,7 @@ http://aparat.com/akhbar.fori/videos</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/akhbarefori/662980" target="_blank">📅 20:35 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/akhbarefori/662980" target="_blank">📅 20:35 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662979">
@@ -1160,7 +1160,7 @@ http://aparat.com/akhbar.fori/videos</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/akhbarefori/662979" target="_blank">📅 20:33 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.3K · <a href="https://t.me/akhbarefori/662979" target="_blank">📅 20:33 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662978">
@@ -1180,7 +1180,7 @@ Link</div>
 روبیو: من نمی‌دانم از کدام ارزیابی اطلاعاتی صحبت می‌کنید؟
 🔹
 خبرنگار:…</div>
-<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/akhbarefori/662978" target="_blank">📅 20:28 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.7K · <a href="https://t.me/akhbarefori/662978" target="_blank">📅 20:28 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662977">
@@ -1191,7 +1191,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/akhbarefori/662977" target="_blank">📅 20:25 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.2K · <a href="https://t.me/akhbarefori/662977" target="_blank">📅 20:25 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662970">
@@ -1216,7 +1216,7 @@ Link</div>
 #ایران_حسینی
 @Ertebat_baforii
 @Alo_fori</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/akhbarefori/662970" target="_blank">📅 20:19 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/akhbarefori/662970" target="_blank">📅 20:19 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662969">
@@ -1233,7 +1233,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 46.7K · <a href="https://t.me/akhbarefori/662969" target="_blank">📅 20:10 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.3K · <a href="https://t.me/akhbarefori/662969" target="_blank">📅 20:10 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662968">
@@ -1247,7 +1247,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 47.5K · <a href="https://t.me/akhbarefori/662968" target="_blank">📅 20:06 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.3K · <a href="https://t.me/akhbarefori/662968" target="_blank">📅 20:06 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662967">
@@ -1260,7 +1260,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 39.6K · <a href="https://t.me/akhbarefori/662967" target="_blank">📅 20:04 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.1K · <a href="https://t.me/akhbarefori/662967" target="_blank">📅 20:04 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662966">
@@ -1278,7 +1278,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/akhbarefori/662966" target="_blank">📅 20:00 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47K · <a href="https://t.me/akhbarefori/662966" target="_blank">📅 20:00 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662965">
@@ -1296,7 +1296,7 @@ Link</div>
 روابط مستحکمی با کشورهای عرب خلیج فارس داریم و از حمایت آنها سپاسگزاریم .
 🔹
 آنها را در جریان همه موارد مربوط به مذاکرات با یران قرار…</div>
-<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/akhbarefori/662965" target="_blank">📅 19:58 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/akhbarefori/662965" target="_blank">📅 19:58 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662964">
@@ -1306,7 +1306,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/akhbarefori/662964" target="_blank">📅 19:55 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/akhbarefori/662964" target="_blank">📅 19:55 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662963">
@@ -1317,7 +1317,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/akhbarefori/662963" target="_blank">📅 19:51 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.1K · <a href="https://t.me/akhbarefori/662963" target="_blank">📅 19:51 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662961">
@@ -1331,7 +1331,7 @@ Link</div>
 اعمال شب عاشورا
 #عاشورا
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 35K · <a href="https://t.me/akhbarefori/662961" target="_blank">📅 19:51 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/akhbarefori/662961" target="_blank">📅 19:51 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662960">
@@ -1353,7 +1353,7 @@ Link</div>
 عاشورای حسینی تسلیت باد
 🥀
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 45.1K · <a href="https://t.me/akhbarefori/662960" target="_blank">📅 19:45 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 50.8K · <a href="https://t.me/akhbarefori/662960" target="_blank">📅 19:45 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662959">
@@ -1363,7 +1363,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/akhbarefori/662959" target="_blank">📅 19:44 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/akhbarefori/662959" target="_blank">📅 19:44 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662958">
@@ -1384,7 +1384,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/akhbarefori/662958" target="_blank">📅 19:37 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.6K · <a href="https://t.me/akhbarefori/662958" target="_blank">📅 19:37 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662957">
@@ -1400,7 +1400,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/akhbarefori/662957" target="_blank">📅 19:27 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.6K · <a href="https://t.me/akhbarefori/662957" target="_blank">📅 19:27 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662956">
@@ -1413,7 +1413,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 47.2K · <a href="https://t.me/akhbarefori/662956" target="_blank">📅 19:24 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53K · <a href="https://t.me/akhbarefori/662956" target="_blank">📅 19:24 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662955">
@@ -1425,7 +1425,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbarzanjan</div>
-<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/akhbarefori/662955" target="_blank">📅 19:19 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.7K · <a href="https://t.me/akhbarefori/662955" target="_blank">📅 19:19 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662953">
@@ -1445,7 +1445,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/akhbarefori/662953" target="_blank">📅 19:17 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.6K · <a href="https://t.me/akhbarefori/662953" target="_blank">📅 19:17 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662951">
@@ -1457,7 +1457,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/akhbarefori/662951" target="_blank">📅 19:11 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51.2K · <a href="https://t.me/akhbarefori/662951" target="_blank">📅 19:11 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662950">
@@ -1474,7 +1474,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/akhbarefori/662950" target="_blank">📅 19:10 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 50.2K · <a href="https://t.me/akhbarefori/662950" target="_blank">📅 19:10 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662949">
@@ -1491,7 +1491,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/akhbarefori/662949" target="_blank">📅 19:06 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.5K · <a href="https://t.me/akhbarefori/662949" target="_blank">📅 19:06 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662948">
@@ -1543,7 +1543,7 @@ http://instagram.com/_u/akhbare.fori
 سایت خبرفوری
 👇
 http://khabarfoori.com/</div>
-<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/akhbarefori/662948" target="_blank">📅 19:04 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/akhbarefori/662948" target="_blank">📅 19:04 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662947">
@@ -1554,7 +1554,7 @@ http://khabarfoori.com/</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/akhbarefori/662947" target="_blank">📅 19:03 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/akhbarefori/662947" target="_blank">📅 19:03 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662946">
@@ -1571,7 +1571,7 @@ http://khabarfoori.com/</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/akhbarefori/662946" target="_blank">📅 18:59 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/akhbarefori/662946" target="_blank">📅 18:59 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662945">
@@ -1590,7 +1590,7 @@ http://khabarfoori.com/</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/akhbarefori/662945" target="_blank">📅 18:54 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 50.1K · <a href="https://t.me/akhbarefori/662945" target="_blank">📅 18:54 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662944">
@@ -1605,7 +1605,7 @@ http://khabarfoori.com/</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/akhbarefori/662944" target="_blank">📅 18:44 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.7K · <a href="https://t.me/akhbarefori/662944" target="_blank">📅 18:44 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662943">
@@ -1619,7 +1619,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/akhbarefori/662943" target="_blank">📅 18:41 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.6K · <a href="https://t.me/akhbarefori/662943" target="_blank">📅 18:41 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662942">
@@ -1634,7 +1634,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/akhbarefori/662942" target="_blank">📅 18:35 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/akhbarefori/662942" target="_blank">📅 18:35 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662941">
@@ -1647,7 +1647,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 50.7K · <a href="https://t.me/akhbarefori/662941" target="_blank">📅 18:30 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/akhbarefori/662941" target="_blank">📅 18:30 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662940">
@@ -1667,7 +1667,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 50.7K · <a href="https://t.me/akhbarefori/662940" target="_blank">📅 18:25 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.4K · <a href="https://t.me/akhbarefori/662940" target="_blank">📅 18:25 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662939">
@@ -1686,7 +1686,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/akhbarefori/662939" target="_blank">📅 18:21 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.8K · <a href="https://t.me/akhbarefori/662939" target="_blank">📅 18:21 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662938">
@@ -1705,7 +1705,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 52.6K · <a href="https://t.me/akhbarefori/662938" target="_blank">📅 18:16 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 58K · <a href="https://t.me/akhbarefori/662938" target="_blank">📅 18:16 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662937">
@@ -1724,7 +1724,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/akhbarefori/662937" target="_blank">📅 18:09 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/akhbarefori/662937" target="_blank">📅 18:09 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662936">
@@ -1744,7 +1744,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 51.5K · <a href="https://t.me/akhbarefori/662936" target="_blank">📅 18:05 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/akhbarefori/662936" target="_blank">📅 18:05 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662935">
@@ -1764,7 +1764,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbarilam</div>
-<div class="tg-footer">👁️ 47.7K · <a href="https://t.me/akhbarefori/662935" target="_blank">📅 17:59 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.9K · <a href="https://t.me/akhbarefori/662935" target="_blank">📅 17:59 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662934">
@@ -1780,7 +1780,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/akhbarefori/662934" target="_blank">📅 17:53 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51.4K · <a href="https://t.me/akhbarefori/662934" target="_blank">📅 17:53 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662933">
@@ -1802,7 +1802,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 47.6K · <a href="https://t.me/akhbarefori/662933" target="_blank">📅 17:50 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53K · <a href="https://t.me/akhbarefori/662933" target="_blank">📅 17:50 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662932">
@@ -1815,7 +1815,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/akhbarefori/662932" target="_blank">📅 17:44 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.2K · <a href="https://t.me/akhbarefori/662932" target="_blank">📅 17:44 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662931">
@@ -1827,7 +1827,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 51K · <a href="https://t.me/akhbarefori/662931" target="_blank">📅 17:38 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.6K · <a href="https://t.me/akhbarefori/662931" target="_blank">📅 17:38 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662929">
@@ -1847,7 +1847,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 52.4K · <a href="https://t.me/akhbarefori/662929" target="_blank">📅 17:25 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/akhbarefori/662929" target="_blank">📅 17:25 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662926">
@@ -1864,7 +1864,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 57.3K · <a href="https://t.me/akhbarefori/662926" target="_blank">📅 17:06 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/akhbarefori/662926" target="_blank">📅 17:06 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662922">
@@ -1879,7 +1879,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 56.7K · <a href="https://t.me/akhbarefori/662922" target="_blank">📅 16:51 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/akhbarefori/662922" target="_blank">📅 16:51 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662920">
@@ -1893,7 +1893,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 52.8K · <a href="https://t.me/akhbarefori/662920" target="_blank">📅 16:44 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/akhbarefori/662920" target="_blank">📅 16:44 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662919">
@@ -1909,7 +1909,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 46.1K · <a href="https://t.me/akhbarefori/662919" target="_blank">📅 16:41 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51.3K · <a href="https://t.me/akhbarefori/662919" target="_blank">📅 16:41 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662918">
@@ -1922,7 +1922,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/akhbarefori/662918" target="_blank">📅 16:32 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.2K · <a href="https://t.me/akhbarefori/662918" target="_blank">📅 16:32 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662917">
@@ -1940,7 +1940,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 51.2K · <a href="https://t.me/akhbarefori/662917" target="_blank">📅 16:26 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.3K · <a href="https://t.me/akhbarefori/662917" target="_blank">📅 16:26 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-662915">
@@ -1962,7 +1962,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/akhbarefori/662915" target="_blank">📅 16:15 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 58.4K · <a href="https://t.me/akhbarefori/662915" target="_blank">📅 16:15 · 03 Tir 1405</a></div>
 </div>
 
 <hr>
