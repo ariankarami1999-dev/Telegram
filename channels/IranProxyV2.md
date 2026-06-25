@@ -288,17 +288,17 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/CpL7tRYoAit6bp3nYGR5rbyINT9V0zUhPmmh-cyfwL337vQOVPJgBqG0PlwkvqQrip3rCGtNuGHQT86prkk1wRFAJmIhA4hLWYpYh8c0URf0MYv9ODKt9jIquXInz8KN3bHRsnYWfJb5-Dw8WZqsiO0qWom9IM-k_sRloTBZyf29j-xUmNDgCc7NFA_tX6QL2c-q0XDAXOgrrncS8fUr14Z6ezIombthJMroMTwsH0CTtzlmdd6olf6IgzVDkVZu1-OxuJz4O6lGzpr8ufzqPpgIwcGHlA0eukivFaCcWhsZ_ZX0UObFWgDtpi1aOohfZk_V1Zr-SzHW6zz3zIGDCQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 پروکسی</h1>
-<p>@IranProxyV2 • 👥 1.52K عضو</p>
+<p>@IranProxyV2 • 👥 1.51K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-05 00:02:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-05 01:45:57</div>
 <hr>
 
 <div class="tg-post" id="msg-40">
 <div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">لینک کانال اصلی
 https://t.me/+5XpIAb0BBbo0MGY8</div>
-<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/IranProxyV2/40" target="_blank">📅 11:11 · 14 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/IranProxyV2/40" target="_blank">📅 11:11 · 14 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-38">
