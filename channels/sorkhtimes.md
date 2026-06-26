@@ -292,22 +292,67 @@
 <a href="https://t.me/sorkhtimes" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽ورزشی نویس پرسپولیس👤🎗️«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس.⛔رسانه سرخ تایمز مسئولیتی در قبال تبلیغات ندارد.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-05 15:59:24</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-05 18:41:18</div>
 <hr>
 
-<div class="tg-post" id="msg-134330">
+<div class="tg-post" id="msg-134334">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-text">✅
+حدادی ساعت ۱۷.۴۵ مهمون شبکه تلویزیونی پرسپولیسه و احتمالا تکلیف مربی مشخص بشه
+🎗️
+«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
+🤩
+@SorkhTimes</div>
+<div class="tg-footer">👁️ 889 · <a href="https://t.me/SorkhTimes/134334" target="_blank">📅 18:22 · 05 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-134333">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-text">❌
+خلاصه آخرین تقابل پرسپولیس و چادرملو که با تک گل امیرحسین محمودی به نفع سرخپوشان به پایان رسید
+🎗️
+«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
+🤩
+@SorkhTimes</div>
+<div class="tg-footer">👁️ 1.69K · <a href="https://t.me/SorkhTimes/134333" target="_blank">📅 17:37 · 05 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-134332">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-text">🚨
+شنیده ها: یاسین سلمانی در ترکیب رسمی تیم جایگزین عالیشاه میشه!
+🎗️
+«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
+🤩
+@SorkhTimes</div>
+<div class="tg-footer">👁️ 3.11K · <a href="https://t.me/SorkhTimes/134332" target="_blank">📅 16:07 · 05 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-134331">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-text">🚨
+🚨
+دراگان اسکوچیچ پس از دو بازی تورنمنت آسیایی رسما و شرعا سرمربی پرسپولیس میشه/فارس
+🎗️
+«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
+🤩
+@SorkhTimes</div>
+<div class="tg-footer">👁️ 3.22K · <a href="https://t.me/SorkhTimes/134331" target="_blank">📅 16:03 · 05 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-134330">
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">❌
 ❌
 با اعلام رسمی سازمان لیگ، به دلیل درخواست شبکه سه سیما برای پخش مسابقه تیم ملی والیبال کشورمان مقابل ژاپن، ساعت بازی دو تیم چادرملو اردکان و‌ پرسپولیس تغییر کرد.
 🔴
 🔴
 به این ترتیب مسابقه دو تیم چادرملو اردکان و پرسپولیس امروز ۵ تیر به جای ساعت ۱۸:۴۵ در ساعت…</div>
-<div class="tg-footer">👁️ 1 · <a href="https://t.me/SorkhTimes/134330" target="_blank">📅 16:01 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.15K · <a href="https://t.me/SorkhTimes/134330" target="_blank">📅 16:01 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134329">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">❌
 پرسپولیس با ارسال پیشنهادی به ملوان خواهان جذب فرهان جعفری 20 ساله شد
 🔴
@@ -316,44 +361,44 @@
 جعفری با امار 5 دریبل و 3 پاس کلیدی در هربازی بهترین هافبک هجومی لیگ برتر شناخته شده
 🎗️
 «سرخ تایمز» دریچه ای تازه به…</div>
-<div class="tg-footer">👁️ 212 · <a href="https://t.me/SorkhTimes/134329" target="_blank">📅 15:59 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.21K · <a href="https://t.me/SorkhTimes/134329" target="_blank">📅 15:59 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134328">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">❗️
 فردا 6/30 صبح بازی حساس ایران آغاز میشه .کیا بیدار میشن که ببینن ...
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 364 · <a href="https://t.me/SorkhTimes/134328" target="_blank">📅 15:57 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.99K · <a href="https://t.me/SorkhTimes/134328" target="_blank">📅 15:57 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134327">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">❗️
 امید عالیشاه سه روز پیش مصدوم شده و تمرینات اختصاصی رو انجام میده و گفته میشه امروز از رو سکو‌ها کار رو دنبال میکنه
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 637 · <a href="https://t.me/SorkhTimes/134327" target="_blank">📅 15:52 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/SorkhTimes/134327" target="_blank">📅 15:52 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134326">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">✅
 ۴ ماه از آخرین بازی رسمی پرسپولیس می‌گذره و امروز قراره دلتنگی مون به پایان برسه.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 734 · <a href="https://t.me/SorkhTimes/134326" target="_blank">📅 15:51 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/SorkhTimes/134326" target="_blank">📅 15:51 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134324">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KOPvwKtdAQ43qdBXjOYlHRUXPn4OQF6rretoziIYZY3JQBD6PDvVOXoOEIi9zOMhVFFXut1tH7Vx34jRaVjxD_cknk4XIMRlDX3F4dCTC_FsXh6e5pWCdTx6349hMZB9buHSCRa5_HBYLYU_y8f75a-RuO_1l7mraAUTeeX03w1TIqQ-xBUKdroTNfpiwlP5vUgj5gJUyCzxgfv217q4kCOHA-UGYet-Vgq9-8L9WRUp7j_ZFIFjKDfwk6hl5J3zUL-uhmqMRFIX9Nq8uE-xIaEJv3_u0cp5puGFexdUwaCl5bbYc4ACXfa19lWVD34STL6FgxL_Sw8VqL5VWgirjg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Sportnavad
 ➕
@@ -391,11 +436,11 @@
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/SorkhTimes/134324" target="_blank">📅 15:07 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/SorkhTimes/134324" target="_blank">📅 15:07 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134323">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AjeKb2DA7ElSHA1f6Y6n1XTUFVwNJKn44Dw3BfgwdYEvXaeea7upzutHrHiWg7kbsadrA1Pa9mXDJBUWCzM354PG0LqOAXmnR_4QaxryuFiQBvaQfoKlxHas7C2rz_ZqE-b0PlVIXYopqDesOuBh1J8BzeaGEDuZYr-QN-eD1IGgwxiOt_3CMie33J6mJ7u7Zx2EZ24j5rmLg6E399Ze-xp42ligycVG-K_0DARn4QIQPXWtIWdLVUxI1yCIHM8sUfa-0mfIfDdwcTG6ZD-c2jAJhErWS-7Ndqi2EM2w9L6qKhITbELxKcF4CzIfQZxpyfDeHvamkhfHDdKf47zXEw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 شنیده ها: یاسین سلمانی در ترکیب رسمی تیم جایگزین عالیشاه میشه!
@@ -403,11 +448,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/SorkhTimes/134323" target="_blank">📅 14:51 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/SorkhTimes/134323" target="_blank">📅 14:51 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134322">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">✅
 برنامه بازی‌های بامداد شنبه، جام جهانی 2026
 ✅
@@ -442,33 +487,33 @@
 مصر
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار…</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/SorkhTimes/134322" target="_blank">📅 14:50 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/SorkhTimes/134322" target="_blank">📅 14:50 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134321">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">❌
 فدراسیون فوتبال: فیفا به ما و فدراسیون مصر قول داده هیچ مراسمی پیش از بازی یا حین بازی در ورزشگاه سیاتل برای حمایت از همجنسگرایان انجام نخواهد داد.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/SorkhTimes/134321" target="_blank">📅 14:44 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/SorkhTimes/134321" target="_blank">📅 14:44 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134320">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">🔴
 اوریه از پرسپولیس شکایت کرده و حالا حدادی گفته باشگاه دفاعیه‌ی محکمی ارائه بده و تاکید کنن که بیماریش رو پنهان کرده بود و غیبت غیرموجه در تمرینات داشته/فرهیختگان
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/SorkhTimes/134320" target="_blank">📅 14:38 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/SorkhTimes/134320" target="_blank">📅 14:38 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134319">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iAn-qGpMWGm9FfUwBvjT8Cy2SHGZPNToFew-2OPixhn79kiOsGvjmR4k73xBU6pW9MgTJRVOz_tQ-17mTYlckKPyGgHvarBL6E_Lkn3kjN2Z3xVrakxrDNEDj4hyCE5jbqSKwXJEDpkgG3l0dG7P7XSac_HF14FkhbTRWpVLs2G1cYReJldgpnUd13ygZRvvk2ZhA6azHEuEmifKemlAYhGgGK6J5vUSrds55ArznxtymvLmcyXz8wD-dAI3kVe4Z41U4xFxEf0biKDDgmmfUbLmc2LVgKTQCMX8SyM9vmYRTR6fUmRH0xRwr5jWE-su-H0hsPKOPwc5cq4LUWxKeg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 ۴ ماه از آخرین بازی رسمی پرسپولیس می‌گذره و امروز قراره دلتنگی مون به پایان برسه.
@@ -476,55 +521,55 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/SorkhTimes/134319" target="_blank">📅 14:20 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/SorkhTimes/134319" target="_blank">📅 14:20 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134318">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">❌
 ❌
 با اعلام رسمی سازمان لیگ، به دلیل درخواست شبکه سه سیما برای پخش مسابقه تیم ملی والیبال کشورمان مقابل ژاپن، ساعت بازی دو تیم چادرملو اردکان و‌ پرسپولیس تغییر کرد.
 🔴
 🔴
 به این ترتیب مسابقه دو تیم چادرملو اردکان و پرسپولیس امروز ۵ تیر به جای ساعت ۱۸:۴۵ در ساعت…</div>
-<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/SorkhTimes/134318" target="_blank">📅 14:07 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.79K · <a href="https://t.me/SorkhTimes/134318" target="_blank">📅 14:07 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134317">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">✅
 ساعت ۱۸:۴۵ بازی پرسپولیس و چادرملو از شبکه ۳ پخش میشه.و والیبال ایران و ژاپن ساعت 18/30 رفت شبکه ورزش
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.27K · <a href="https://t.me/SorkhTimes/134317" target="_blank">📅 13:28 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/SorkhTimes/134317" target="_blank">📅 13:28 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134316">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">✅
 ساعت ۱۸:۴۵ بازی پرسپولیس و چادرملو از شبکه ۳ پخش میشه.و والیبال ایران و ژاپن ساعت 18/30 رفت شبکه ورزش
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.23K · <a href="https://t.me/SorkhTimes/134316" target="_blank">📅 13:27 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.04K · <a href="https://t.me/SorkhTimes/134316" target="_blank">📅 13:27 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134315">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">❌
 فدراسیون فوتبال: فیفا به ما و فدراسیون مصر قول داده هیچ مراسمی پیش از بازی یا حین بازی در ورزشگاه سیاتل برای حمایت از همجنسگرایان انجام نخواهد داد.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.34K · <a href="https://t.me/SorkhTimes/134315" target="_blank">📅 13:21 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SorkhTimes/134315" target="_blank">📅 13:21 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134314">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uMYsoCYWDQAUgD2loV_FW05tRRC-kHK4TlRscpd8_zlAi8lImzS3k-DbSKCC3_GI_VKVmsDo_DddVRMRLISXjwQ48UonnhQTa99wTdseU_7SMWL9HQHvKApn1EoLSNZu50RLxJak2lofjBhPMCCMAgBChasFglf3gYDMWwIafCx79W3x-LyjmYXMVBjOzdbfpkp3F9z1okm3Gv10VepwpphNPoAw6OdQBORC9O_MYIHZY8JXag_NTHrnBK3yAKPMzoLFoYN-FBbtusEerlTvJdZ_WC5HF3C3CEJF4UndpL7AHhkFxpySQevABhPTjpzE5XeNxeKW-mGZtQ377tcxQg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❌
 فدراسیون فوتبال
@@ -533,11 +578,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.38K · <a href="https://t.me/SorkhTimes/134314" target="_blank">📅 13:20 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SorkhTimes/134314" target="_blank">📅 13:20 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134313">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">🚨
 🚨
 لیست تیم پرسپولیس برای بازی با چادرملو اردکان
@@ -567,22 +612,22 @@
 12_مارکو باکیچ
 ⏺
 13_علیرضا…</div>
-<div class="tg-footer">👁️ 3.71K · <a href="https://t.me/SorkhTimes/134313" target="_blank">📅 12:26 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SorkhTimes/134313" target="_blank">📅 12:26 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134312">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">✅
 ساعت ۱۸:۴۵ بازی پرسپولیس و چادرملو از شبکه ۳ پخش میشه.و والیبال ایران و ژاپن ساعت 18/30 رفت شبکه ورزش
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/SorkhTimes/134312" target="_blank">📅 12:24 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SorkhTimes/134312" target="_blank">📅 12:24 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134311">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">🚨
 🚨
 لیست تیم پرسپولیس برای بازی با چادرملو اردکان
@@ -612,52 +657,52 @@
 12_مارکو باکیچ
 ⏺
 13_علیرضا…</div>
-<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/SorkhTimes/134311" target="_blank">📅 09:55 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SorkhTimes/134311" target="_blank">📅 09:55 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134310">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">❗️
 امروز محسن خلیلی به عنوان سرپرست روی نیمکت میشینه
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.15K · <a href="https://t.me/SorkhTimes/134310" target="_blank">📅 09:54 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SorkhTimes/134310" target="_blank">📅 09:54 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134309">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">❗️
 بازی پرسپولیس و چادرملو درصورتی که مساوی به اتمام برسد مستقیم به ضربات پنالتی خواهد رفت
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/SorkhTimes/134309" target="_blank">📅 09:53 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/SorkhTimes/134309" target="_blank">📅 09:53 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134308">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">🔴
 به این ترتیب، حالا احتمالات برخورد تیم‌ها در مرحله یک‌شانزدهم نهایی کمتر شده است و حدس زدن حریفان بعضی از تیم‌ها در صورت صعود به مرحله بعد، آسان‌تر شده است.
 🔴
 در این میان وضعیت تیم ملی ایران هم در صورت صعود به مرحله بعد، نسبت به قبل از شروع جام، روشن‌تر شده…</div>
-<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/SorkhTimes/134308" target="_blank">📅 09:50 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SorkhTimes/134308" target="_blank">📅 09:50 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134307">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">🔴
 کامل شدن جدول 6 گروه اول جام جهانی، حالا حدس زدن حریف احتمالی تیم ملی آسان‌تر از قبل شده است.
 🔴
 🔴
 به گزارش فوتبالی، با مشخص شدن جدول چند گروه از گروه‌های 12گانه جام جهانی 2026، به تدریج ابهامات موجود در برنامه و رقابت‌های مرحله یک‌شانزدهم نهایی شفاف‌تر می‌‎شود.…</div>
-<div class="tg-footer">👁️ 3.8K · <a href="https://t.me/SorkhTimes/134307" target="_blank">📅 09:47 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.09K · <a href="https://t.me/SorkhTimes/134307" target="_blank">📅 09:47 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134306">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">🗒
 جدول بهترین تیم‌های سوم تا به اینجای مسابقات جام جهانی
 🔴
@@ -668,11 +713,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.69K · <a href="https://t.me/SorkhTimes/134306" target="_blank">📅 09:45 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.98K · <a href="https://t.me/SorkhTimes/134306" target="_blank">📅 09:45 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134305">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vjA6CG5DMNL3MmKpevWAd-1D-GppN2l5o409EcBuvvLS8snPqUCdzg4wSvdLZhoazPsD4kfKVMjaO5xLoonc5SzT_KNdctTAwivcw9jWnDA7i0dyh5XTHmleV6j_UqV7OaDVfwZGj857yoXM0ETWj4J84v8cqvtHLMEd1xVoYmoqBlscW1qYCPe5U8sLcTNRCdWCg_wr-xr2BvJTF9u2SIADhfqDLCsfEfZIo4g4oWRDgP8eCzzSb2_kD_0amnhAsURgGNxotTMIVZVo8Igu-q3Me-4Bwnpc1BCGzotUUdkRKKcpoCezHfQs8aGm9ZSmkGiMuKqbPwlwszkUpNBnrg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🗒
 جدول بهترین تیم‌های سوم تا به اینجای مسابقات جام جهانی
@@ -684,11 +729,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.61K · <a href="https://t.me/SorkhTimes/134305" target="_blank">📅 09:39 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/SorkhTimes/134305" target="_blank">📅 09:39 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134304">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">🏆
 جدول نهایی گروه F جام جهانی ۲۰۲۶
 🇳🇱
@@ -703,17 +748,17 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.56K · <a href="https://t.me/SorkhTimes/134304" target="_blank">📅 09:35 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.82K · <a href="https://t.me/SorkhTimes/134304" target="_blank">📅 09:35 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134303">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Pb0WN3H8yoIvoAdrIYAD9Qlg4t8a5rR121ZPi-sQhDfp6A34GncmOUvss99lAswRVQ4a85rNaJ1F-bOOvGKXp1PkA5cCjKe-OrIkUFydjV9eY8ltaz157rOeyp3pvIHZVHdiW80DpzlzI0lpgS8ruxQSKz9yQAlE0UTMecSROBXlElb03aoG9CiUjG2UsUswzO1CFb2LD_xbijNve8f9xQ1LwZIbV5htvO6pmVtExnpjhYcpBgE_L0XFLKJTmX3OnxUrUNczOZXqX0vuHI5HNXz7zCEcoNCGkodXiLm0AvR4BUVhzqtG32JrRBgF1EkplVSJvENzNe5tLgdxdzt4rA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/SorkhTimes/134303" target="_blank">📅 09:35 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/SorkhTimes/134303" target="_blank">📅 09:35 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134301">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">✅
 جدول گروه D جام جهانی در پایان مرحله گروهی
 🇺🇸
@@ -729,11 +774,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.59K · <a href="https://t.me/SorkhTimes/134301" target="_blank">📅 09:31 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4K · <a href="https://t.me/SorkhTimes/134301" target="_blank">📅 09:31 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134300">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oemG2LcexR3Q4ylFmuWHsJQ_Y91pKLzb58Ko9ZWdL2Wod4ihT7VlDgWX9hlcgZ90yHyrY1vDMBipn2YyAyCisWW9yZr2T5tyrP2PbtdNErNIf48QbVF_8okeItPODCnAhss4sVy9qmuqmgFQtb90xIt8mJU6gSeydYaPC5TDl5a29vDDIeElEXI4c-YPeR9eZ19odj9iKFecSnRUiK0ySlGMa8W03RozBEEiB-atGgQFs4Y7mQQe5_ctLWIw65dZPQmOwSDXMXiscvy-Pt1JBDAYkKBuCOX8ht2VvkB5ztvSBbzXnDgMOdlG7k8iotYV9EdV_ijgEZPjQM7jZX1cQw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 جدول نهایی گروه c جام جهانی
@@ -744,22 +789,22 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.63K · <a href="https://t.me/SorkhTimes/134300" target="_blank">📅 09:30 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.18K · <a href="https://t.me/SorkhTimes/134300" target="_blank">📅 09:30 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134298">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">❗️
 بازی پرسپولیس و چادرملو درصورتی که مساوی به اتمام برسد مستقیم به ضربات پنالتی خواهد رفت
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.63K · <a href="https://t.me/SorkhTimes/134298" target="_blank">📅 09:28 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/SorkhTimes/134298" target="_blank">📅 09:28 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134297">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kaBjxE9GmcgYfWQIp06hs6OCb-UFaL8O__oIFnu1CRYpBSnteNVpYgwbiWAlO1CQh-QxlmP9m2vak0XBsWvsJFIJE6Fs9QbsFABDwIhNQIHNkT6oklTnvJfqJF2RETiq0EbeoyeSgasyq-d1twhyzepszpGVSzqeH3lIvQS6EwcX69mqlNPlQxyIc-LGEiNNa5X9YPpVuBrDNM3CK8u8rIOi1-J9czR0TleoT9dRt6va48zWxnTh-3DZMKhJ8nCq1XBThCvdcjdn6ELdwc3gitDZViFdiMBem_Vrs4y4I4hbxtoIg_1iJbW7cticEf3xowuSQopm5kYmj3yTqZbqeg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Sportnavad
 ➕
@@ -797,11 +842,11 @@
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 4.25K · <a href="https://t.me/SorkhTimes/134297" target="_blank">📅 01:33 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SorkhTimes/134297" target="_blank">📅 01:33 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134296">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fEOZl0UoP2NWy85o0fG3dm6ESsaW2VH_eO0ZRvolYmQYSX2bbvWd0mMsme30C0OiXRQGcwWVyj1faShfA2Wi8LxVpBsgzFwwXrfVDkSJY1khhLj_OGT8Kwpzz6BIqL7vI6RndaVypSH1hPIFQrBO-s7pFt3ritBizwKMVceuxCknjqzu3DR9U3RMuSG2XSPSdZK7w0fwaPaT-OlaXp8mWNKLyTR7Ufxii8CdAcKbW8c7tk13_Fe7iZ-meJrCcGKcAHfjQxjae-uJeQnpwqCjRuwanU5r91JnwqoqZAicq525HWtygQP4zAr7i6b28yEHVUg-zDuJ5RRk79_CbZ9BPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 پورعلی گنجی مشکلی برای بازی با چادرملو نداره و میخواد با دست بسته شده هم برای پرسپولیس بازی کنه.
@@ -809,11 +854,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/SorkhTimes/134296" target="_blank">📅 00:36 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SorkhTimes/134296" target="_blank">📅 00:36 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134295">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">❗️
 میساکی:
 ✅
@@ -824,11 +869,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SorkhTimes/134295" target="_blank">📅 00:35 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SorkhTimes/134295" target="_blank">📅 00:35 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134294">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">❗️
 ❗️
 ترکیب احتمالی تیم از دید ورزش سه:
@@ -845,11 +890,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SorkhTimes/134294" target="_blank">📅 23:36 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SorkhTimes/134294" target="_blank">📅 23:36 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134293">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1fafbef8e3.mp4?token=Jv-Lomx9Qug4g9qOWrQzoXuN4vVsC4lff782-Mz9U-UYHbc5VboyJ4KNArFaxmo2Xs5iAAQybKT_g0Pogjr2HCn1lCGVPci-FMzE0B_TvMruU4leCYGl8KYydw3CiQKENdhRjz2vXLHmT7CEBWvE1V1Setli0mb0-N3BWf-hmsuWYtYaJ3sjJnD4L4bZ9DyOlRFPXfN9mQecSSjukYevW3nEdMO0ZlgR8Ryp1TzebtVecu4g6DV8JE5lQgEkm4hOQgxgE6uy5t9Cjr3O-iIYNFG-mvrpDu409iIk6S7y0KAX2flwsBdgtl77AbeD-MNQ4sVUWmgjpOHvrdnoGaNP-oi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" type="video/mp4">
@@ -863,11 +908,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SorkhTimes/134293" target="_blank">📅 23:26 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SorkhTimes/134293" target="_blank">📅 23:26 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134292">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">✅
 همون همیشگی
 🔴
@@ -876,55 +921,55 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SorkhTimes/134292" target="_blank">📅 23:21 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SorkhTimes/134292" target="_blank">📅 23:21 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134291">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">❗️
 بازی پرسپولیس و چادرملو درصورتی که مساوی به اتمام برسد مستقیم به ضربات پنالتی خواهد رفت
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SorkhTimes/134291" target="_blank">📅 23:19 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/SorkhTimes/134291" target="_blank">📅 23:19 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134290">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">✅
 با اعلام سازمان لیگ دنیل گرا برای بازی فردا مشکلی نداره
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SorkhTimes/134290" target="_blank">📅 22:48 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SorkhTimes/134290" target="_blank">📅 22:48 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134289">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">✅
 محمدحسین صادقی پس از چند روز عدم حضور در تمرینات پرسپولیس، اعلام کرد به دلیل مشکلات خانوادگی فعلاً به تهران نمی‌آید.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SorkhTimes/134289" target="_blank">📅 22:44 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SorkhTimes/134289" target="_blank">📅 22:44 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134288">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">🔴
 فوتبالی :برای بازی پرسپولیس و ذوب آهن دنیل گرا  مدافع راست خارجی پرسپولیس محروم بود و نمی‌توانست بازی کند اما بازی لغو شد
 🔴
 حالا باید دید آیا مدافع راست خارجی قرمزها می‌تواند تیمش را مقابل چادرملو همراهی کند یا محروم است.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار…</div>
-<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SorkhTimes/134288" target="_blank">📅 22:29 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SorkhTimes/134288" target="_blank">📅 22:29 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134287">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nNDbIrMD4dEV3tcGKmdOVsrnj1nq8XS7Rft-PIMF-_c2R2vhOaXCA3zoKPmfiiUl4ENPXH03jeD5G4fuE91Awm9g2iywPQ458rEVbvZqTEiOgtr97B0fecHqpCioukHh2ihoRd2uU7rdJ_c5u5Qw0RpE9sB-0MfYBanIS-Ybl0N6CqjMgTj2A_rsH-fy1bfFeB0u-jHRZLsFT6iYp4rwIQrK6-wXT9wSzMdWRkuFtbVOMotARgE58YJJT94pVMsdMQu1t8zFFHCrU20BDXAgOwl4GMEiKtvx5yN-exaIjEoRdY_T7z6_tjtT8-JoSJpgUlbHszJYY_smueRuICLSeQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
@@ -933,22 +978,22 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SorkhTimes/134287" target="_blank">📅 21:19 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SorkhTimes/134287" target="_blank">📅 21:19 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134286">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">❗️
 بازی پرسپولیس و چادرملو درصورتی که مساوی به اتمام برسد مستقیم به ضربات پنالتی خواهد رفت
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SorkhTimes/134286" target="_blank">📅 21:12 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SorkhTimes/134286" target="_blank">📅 21:12 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134285">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/j4WOnCjXXOUuTU-renF3pQfgIkAagduWyEjdCWmkc9X7_X2EXXyS23it26WuclT1tiPaZN8NjKQmqQh4IICBTIxvNiic4lhZCge3lJnkA-x4wIC2VjdZ-Dby04tnmmoQiSva0E-9XnrM1pA2A8F6TOaxVwIl43jRa1Piy-OYavvy4CHvx1hLdTe5wyNupafkJBTWfCeNTEvGo9TDVS1qoMC9Y3jJHIGFuyUtcHdRgwTZgolUckZdRskCoNGwl2JCF0aMqslhkIoorMEtyuGbb6w9aRlVh5pGEa3A-_MbdGayw2T6aGByQaxNqlrMnF1nFK2f5cG0AxMxqre7z9DOuw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❗️
 بازی پرسپولیس و چادرملو درصورتی که مساوی به اتمام برسد مستقیم به ضربات پنالتی خواهد رفت
@@ -956,20 +1001,20 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SorkhTimes/134285" target="_blank">📅 21:11 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SorkhTimes/134285" target="_blank">📅 21:11 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134284">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">❌
 او پیش از این، از تمایل به فسخ قرارداد بدون دریافت غرامت گفته بود اما اكنون خواهان دریافت غرامت شده است و خواهان مبلغی از قرارداد فصل آینده خود شده است.
 🔴
 البته او خواستار مبلغ بالایی نشده است اما به‌دلیل اینکه، او و دستیارانش ۴۰۰ هزار دلار طلب دارند و مبلغی…</div>
-<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SorkhTimes/134284" target="_blank">📅 21:09 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SorkhTimes/134284" target="_blank">📅 21:09 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134283">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T0xgvhQMMlLtXxZa4p0prUYGm2guXDl9o5NW7oBkstQdiWMmrw4am2BEbfsv-InLen3rO-wVqqTc5F4EdMcBlM6T9uX0axSJH8HhoR37is6XHywo46xYzbeMoD5kK_Lolr1mZBycnD8dlKWuzXiFR8KluLo6Sr4Pv98ft-bzN80Q_C29AQLlkg8F9pVhk-0YHO8Tdc9dzs0fShiUrgDv1gVHfc6kidt0A6Cxnb2k5Rk3PnlIC0q1Cq2_-xFtqp-zmuVUzIOo2uz8hrKLBGec_J_B4Cgs9oJaYSRYHDiqnxHee2gH21rzy4rcAOv3-c7gQmhhmvmxr17er7xwBTITCw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚫️
 دیدارهای امشب و بامداد فردا جام‌جهانی رو در وینکوبت با بونوس ویژه پیش‌بینی کن!
@@ -993,11 +1038,11 @@
 @Wincobet_bot
 🤖
 @Wincobet_bot</div>
-<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SorkhTimes/134283" target="_blank">📅 21:06 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SorkhTimes/134283" target="_blank">📅 21:06 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134282">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N3H31nPC7Wtl34WVnQ1G5zL370ovivBYYPo56oWX74lZ-dCsVtDiNS4LHB4M0lT9r-iXR8nSvoh4fDSK366EA6grlGGjkKmUCSPCFXrYHZDx_apEe-xq4LH3YQukweoRQBdQTkKbYYCT1JztACnh7RGycoq6Hnseuf4ArOY6U4Ai-WOEFOqqevAmuNt0Cq0l_xjnrZiy1-uOqc8sssQee8Mh9VYVtylo2w6foK-I3RSEIF3FmGzJloOteW3VrE1a-JiH-uE16122zuzTJ1sTpI3dpUnrj1vl7CHXwwkBlfP18_gU7ZsRNXdOGK1SGN1zeOmKUEsL5R3W3Vxh8RtXdg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❌
 شاگردان اوسمار امروز آخرین جلسه تمرینی خود را پیش از دیدار برابر چادرملو برگزار کردند.
@@ -1005,11 +1050,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SorkhTimes/134282" target="_blank">📅 20:50 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SorkhTimes/134282" target="_blank">📅 20:50 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134281">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">❌
 ❌
 بازی سه جانبه
@@ -1027,20 +1072,20 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SorkhTimes/134281" target="_blank">📅 20:34 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SorkhTimes/134281" target="_blank">📅 20:34 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134280">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">🚨
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SorkhTimes/134280" target="_blank">📅 20:31 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SorkhTimes/134280" target="_blank">📅 20:31 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134279">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">🔴
 🔴
 🔴
@@ -1051,22 +1096,22 @@
 یا اوسمار ویه را بعد پایان پلی اف همچنان سرمربی پرسپولیس می ماند
 🗣️
 یا اسکوچیچ در صورت توافق رسمی و محترمانه با اوسمار، به عنوان سرمربی فصل پیش روی قرمزها فعالیت می کند./مهدی…</div>
-<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/SorkhTimes/134279" target="_blank">📅 20:30 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SorkhTimes/134279" target="_blank">📅 20:30 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134278">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">❌
 فوتبال جام جهانی و نشون ندادن به خاطر والیبال ..خود والیبال از ست دوم قطع شده و دیگه نتونستن از جایی دزدی کنن و پخش کنن
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SorkhTimes/134278" target="_blank">📅 20:27 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SorkhTimes/134278" target="_blank">📅 20:27 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134277">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">🔴
 🔴
 ارتباط اوسمار و مدیریت پرسپولیس وارد چالش‌هایی شده است.
@@ -1074,83 +1119,19 @@
 به گزارش خبرنگار قرمزآنلاین، روابط باشگاه و اوسمار حسابی شکراب شده به گونه ای که ارتباط مدیران با این مربی قطع شده است.
 ❗️
 البته خلیلی به عنوان سرپرست موقت و معاون ورزشی همه روزه اوسمار را در تمرینات…</div>
-<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SorkhTimes/134277" target="_blank">📅 19:59 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SorkhTimes/134277" target="_blank">📅 19:59 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134276">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">❌
 باشگاه تمایلی به حفظ اوسمار ندارد و در صورتی که با اسکوچیچ به توافق نرسد، گزینه های دیگری دارد.
 🔴
 به گزارش خبرنگار قرمزآنلاین، باشگاه پرسپولیس به غیر از دراگان اسکوچیچ گزینه های دیگری را هم برای نیمکت تیم در نظر دارد و هنوز با این مربی کروات به تپافق قطعی…</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SorkhTimes/134276" target="_blank">📅 19:58 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SorkhTimes/134276" target="_blank">📅 19:58 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134275">
-<div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-text">❌
-❌
-بازی سه جانبه
-🔴
-مسابقه پلی‌آف
-📆
-جمعه 5 تیر
-🖥
-چادرملو - پرسپولیس
-⏰
-ساعت 18:45
-🏟
-ورزشگاه پاس(تهران)
-🎗️
-«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
-🤩
-@SorkhTimes</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SorkhTimes/134275" target="_blank">📅 19:54 · 04 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-134274">
-<div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-text">❌
-باشگاه تمایلی به حفظ اوسمار ندارد و در صورتی که با اسکوچیچ به توافق نرسد، گزینه های دیگری دارد.
-🔴
-به گزارش خبرنگار قرمزآنلاین، باشگاه پرسپولیس به غیر از دراگان اسکوچیچ گزینه های دیگری را هم برای نیمکت تیم در نظر دارد و هنوز با این مربی کروات به تپافق قطعی…</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SorkhTimes/134274" target="_blank">📅 19:37 · 04 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-134273">
-<div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-text">❗️
-بازی تو نود دقیقه تموم بشه مستقیم می‌ره پنالتی و وقت اضافه نداره این بازیهای سه جانبه
-🎗️
-«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
-🤩
-@SorkhTimes</div>
-<div class="tg-footer">👁️ 4.9K · <a href="https://t.me/SorkhTimes/134273" target="_blank">📅 19:36 · 04 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-134272">
-<div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-text">❌
-❌
-بازی سه جانبه
-🔴
-مسابقه پلی‌آف
-📆
-جمعه 5 تیر
-🖥
-چادرملو - پرسپولیس
-⏰
-ساعت 18:45
-🏟
-ورزشگاه پاس(تهران)
-🎗️
-«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
-🤩
-@SorkhTimes</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SorkhTimes/134272" target="_blank">📅 19:11 · 04 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-134271">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">❌
 ❌
@@ -1169,11 +1150,75 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SorkhTimes/134271" target="_blank">📅 19:08 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SorkhTimes/134275" target="_blank">📅 19:54 · 04 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-134274">
+<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-text">❌
+باشگاه تمایلی به حفظ اوسمار ندارد و در صورتی که با اسکوچیچ به توافق نرسد، گزینه های دیگری دارد.
+🔴
+به گزارش خبرنگار قرمزآنلاین، باشگاه پرسپولیس به غیر از دراگان اسکوچیچ گزینه های دیگری را هم برای نیمکت تیم در نظر دارد و هنوز با این مربی کروات به تپافق قطعی…</div>
+<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/SorkhTimes/134274" target="_blank">📅 19:37 · 04 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-134273">
+<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-text">❗️
+بازی تو نود دقیقه تموم بشه مستقیم می‌ره پنالتی و وقت اضافه نداره این بازیهای سه جانبه
+🎗️
+«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
+🤩
+@SorkhTimes</div>
+<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SorkhTimes/134273" target="_blank">📅 19:36 · 04 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-134272">
+<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-text">❌
+❌
+بازی سه جانبه
+🔴
+مسابقه پلی‌آف
+📆
+جمعه 5 تیر
+🖥
+چادرملو - پرسپولیس
+⏰
+ساعت 18:45
+🏟
+ورزشگاه پاس(تهران)
+🎗️
+«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
+🤩
+@SorkhTimes</div>
+<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/SorkhTimes/134272" target="_blank">📅 19:11 · 04 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-134271">
+<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-text">❌
+❌
+بازی سه جانبه
+🔴
+مسابقه پلی‌آف
+📆
+جمعه 5 تیر
+🖥
+چادرملو - پرسپولیس
+⏰
+ساعت 18:45
+🏟
+ورزشگاه پاس(تهران)
+🎗️
+«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
+🤩
+@SorkhTimes</div>
+<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/SorkhTimes/134271" target="_blank">📅 19:08 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134270">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">🇮🇷
 🤍
 دنیس اکرت و جام‌جهانی سر نوشت ساز
@@ -1183,53 +1228,53 @@
 چند باشگاه مطرح لیگ برتری درحال بررسی شرایط برای جذب دنیس اکرت(درگاهی) هستند، البته پس از جام جهانی.
 ✔️
 نکته مهم  این است که آنها صبر کرده‌اند و پس از جام جهانی و در صورت عملکرد قابل قبول برای جذب این بازیکن اقدام…</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SorkhTimes/134270" target="_blank">📅 18:58 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/SorkhTimes/134270" target="_blank">📅 18:58 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134269">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">✅
 از آخرین بازی رسمی پرسپولیس ۱۲۷ روز می‌گذرد و پرسپولیسی‌ها فردا بعد از مدت‌ها به مصاف چادرملو می‌روند
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SorkhTimes/134269" target="_blank">📅 18:50 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/SorkhTimes/134269" target="_blank">📅 18:50 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134268">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">❌
 باشگاه تمایلی به حفظ اوسمار ندارد و در صورتی که با اسکوچیچ به توافق نرسد، گزینه های دیگری دارد.
 🔴
 به گزارش خبرنگار قرمزآنلاین، باشگاه پرسپولیس به غیر از دراگان اسکوچیچ گزینه های دیگری را هم برای نیمکت تیم در نظر دارد و هنوز با این مربی کروات به تپافق قطعی…</div>
-<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SorkhTimes/134268" target="_blank">📅 18:49 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SorkhTimes/134268" target="_blank">📅 18:49 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134267">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">✅
 قدوسی ؛جدایی اوسمار قطعی شد و علاوه بر اسکوچیچ باشگاه یک گزینه دیگه هم داره.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SorkhTimes/134267" target="_blank">📅 17:15 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SorkhTimes/134267" target="_blank">📅 17:15 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134266">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">❗️
 امیرحسین محمودی: اگر فوتبالیست نمی‌شدم احتمالاً کشتی‌گیر می‌شدم. اول کشتی را شروع کرده بودم و دو سال کشتی گرفتم. در کشتی هم خوب بودم و استعداد داشتم
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SorkhTimes/134266" target="_blank">📅 16:54 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SorkhTimes/134266" target="_blank">📅 16:54 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134265">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">❗️
 ❗️
 ادعای قدوسی: پرسپولیس غیر از اسکوچیچ گزینه دیگری هم دارد!
@@ -1240,11 +1285,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SorkhTimes/134265" target="_blank">📅 16:52 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SorkhTimes/134265" target="_blank">📅 16:52 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134264">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">🔽
 🔽
 مدیران باشگاه سایپا خبر خرید امتیاز سایپا توسط پرسپولیس تکذیب کردند؛ بحث اصلی فقط سر فروش زمین تمرین سایپاست، نه خودِ تیم.
@@ -1254,11 +1299,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/SorkhTimes/134264" target="_blank">📅 15:20 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/SorkhTimes/134264" target="_blank">📅 15:20 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134263">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">❌
 با اسکوچیچ هنوز چیزی روی کاغذ امضا نشده. ولی توافق درخصوص کلیات انجام شده.///خرمی
 🎗️
@@ -1269,7 +1314,7 @@
 </div>
 
 <div class="tg-post" id="msg-134262">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">✅
 ✅
 درخواست ایران و مصر برای عدم برگزاری  مراسم ویژه همجنسگرایان توسط فیفا رد شد
@@ -1285,18 +1330,18 @@
 </div>
 
 <div class="tg-post" id="msg-134261">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">❌
 پرسپولیس با وجود غایبان پرتعداد در بازی فردا، چاره‌ای جز پیروزی ندارد و باید با ترکیبی متفاوت، نخستین مانع مسیر آسیایی شدن را از پیش‌رو بردارد
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SorkhTimes/134261" target="_blank">📅 14:20 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/SorkhTimes/134261" target="_blank">📅 14:20 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134260">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">✅
 ✅
 درخواست ایران و مصر برای عدم برگزاری  مراسم ویژه همجنسگرایان توسط فیفا رد شد
@@ -1308,11 +1353,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.24K · <a href="https://t.me/SorkhTimes/134260" target="_blank">📅 14:14 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SorkhTimes/134260" target="_blank">📅 14:14 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134259">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">🇮🇷
 🇪🇬
 🏆
@@ -1324,11 +1369,11 @@
 😂
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق…</div>
-<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SorkhTimes/134259" target="_blank">📅 14:11 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/SorkhTimes/134259" target="_blank">📅 14:11 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134258">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">❗️
 واکنش هواداران برزیل به ورود نیمار ؛ اینکه قدر ستاره شونو میدونن خیلی خوبه
 🫡
@@ -1336,11 +1381,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SorkhTimes/134258" target="_blank">📅 14:07 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SorkhTimes/134258" target="_blank">📅 14:07 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134257">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dY_oYqZ3DAayet56ZHgKM9D6JaLbi77zOUDhF_rleVf6SmH-Pe2owcjz9U8AsEmHnochkmj-4VZ23liIPO8PoQVwXtgrFs2OQeRyN7o3DFqdGbMkhX7_kFoA1ZB1ICTvbDuj43NiFbV45gYmd6z19UvSYxGw80dSjyh23nAXk53-lBu1LYk79wR52UKKYyfz7uw1GWUG8Pj1Sohz5-xyn971zDKRNFiWj6Q3ZV1nomY06KWv-IPrprmbZCtTmqw0XvYs2OXvw4_ZxZVvgfUmyQslD0S9M63Um7jUeyBFqKSeC81Y3GjdHoTkozD000JNhijSq981LitZ20njt5xLSA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 جدول نهایی گروه c جام جهانی
@@ -1351,11 +1396,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SorkhTimes/134257" target="_blank">📅 13:53 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.23K · <a href="https://t.me/SorkhTimes/134257" target="_blank">📅 13:53 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134255">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UflpLpuLnqE-Wug77gVXk90cpbhBsPvl_fdI6adxn17nTIw1Y_JRJ1HMOQ4T0E3Ah_NB_DUxfCCPpc8p1d4fcOl2LhGCy6qRlxT5Ck5x4C3tFZzKvpqHi6ka4gnNhEajaRk5hiYyrOESIOM3i096jkpb_NOmVNPCKZIvDmJHcy4C_hvs_jN8UqPffMKin_lUS4NG4uA0wATlW-6vxOJnH6D5S1dXEkbfd9wp7bwHoNCN8czEynJoidO2a7rEmhonlizPCd7gKR4xBfQozMpKzv3e0JhAZAlUhoENMMU_1odZwRaK6rkSUPWiW_dmV0BLC4WbcDc4e9_8qkM5pFTo6Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 جدول گروه  جام جهانی پس از پایان بازی های دورگروهی این گروه
@@ -1363,11 +1408,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SorkhTimes/134255" target="_blank">📅 13:50 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SorkhTimes/134255" target="_blank">📅 13:50 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134254">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/F8w0EFBh-BiD50Bgl18xTDjpn7SEFVOGCf1YWimPRGXCfcfIPzsSGdre_oaNAZp6ZLFtVX2-IR_OwVDC5mYUWmLpLQGSIqCpZnd2f-6NRUXftiBoOAVACZCUA-TcvJTD4vCz0gV5F8B8GZg2PdSm0JMyfPLp0pOrOiLBvBD8pcnltQjq8ADToTA_moBUcYb28crRMbr4pZLDGHKgfpGc3XFYKBfIguvD8B6fJy2T2vVtYUr3qEJmdcK2dmwTTZTPANR3N0dU-j981bWuoUqgnFOHDfMx5qO0C2j1RvVFwfJO5fz04ov0tt0vVTzYZKt8DAvEJRUh2l_uJVOOkOQhDA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚫️
 🔣
@@ -1389,44 +1434,44 @@
 @Wincobet_bot
 🤖
 @Wincobet_bot</div>
-<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SorkhTimes/134254" target="_blank">📅 13:24 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SorkhTimes/134254" target="_blank">📅 13:24 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134253">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">✅
 گرا اخرین بازی لیگ قبل تعطیلی رو محروم بوده و فردا تکلیفش برای بازی مقابل چادرملو مشخص میشه
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SorkhTimes/134253" target="_blank">📅 12:29 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SorkhTimes/134253" target="_blank">📅 12:29 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134252">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">❌
 خداداد نقش پررنگی در حضور اسکوچیچ در پرسپولیس داره/فوتبالی
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SorkhTimes/134252" target="_blank">📅 12:28 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/SorkhTimes/134252" target="_blank">📅 12:28 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134251">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">❌
 باشگاه فرهنگی ورزشی پرسپولیس با انتشار پیامی، صعود تیم نساجی مازندران به لیگ برتر فوتبال ایران را تبریک گفت.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.07K · <a href="https://t.me/SorkhTimes/134251" target="_blank">📅 12:11 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SorkhTimes/134251" target="_blank">📅 12:11 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134250">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ltjkb-RMtIdhCEma_m6-F5cZFS1KaJrRmX9gaqaDejlJqeexNvnGlSlCyCAMkFW1K7TFelmjotRZHowdj8E8nHhA9mh0QdBP1T-ToX0cRMVNo3itT_cIOpigMJI3p3StI8Ut9v0_RkxpeBi49ENMPLlCL1lTY9Vzr3JsHwDPDRW_DIHOlUKxoJ7OK4VRZ2DWKwznQSu3Akqm40C6bjYz4Yqjqx595607psqmPWaahH5dILFiDBSEJ5CxvtYGEOBVbNKzVb-xWfo7iyDpm1NL232SSeZTQYBpSzCSFZke5fGaOIo025FL9MT4g0ZlMIbQb6R0clhRaJFVIa4D0CiVvw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❗️
 اولین بازیکن آفریقایی تاریخ که در تمام بازی‌های مرحله گروهی جام جهانی گل زده
@@ -1436,11 +1481,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SorkhTimes/134250" target="_blank">📅 11:31 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SorkhTimes/134250" target="_blank">📅 11:31 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134249">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nYA_Z85fihYlOs2GyKaT7ALslq-wkk_Qtb1BZbrVnRHf2H-T0rSK6byop8mGtbz1jutfRkfzS524HoddCQ5ZToSeExYx56DbLGx4uv9zMsCf8muRB--fFTZtZ8GrhnTAa-P0pUSAXZI5hp9nUPsHBF3JUOzHZ1ONynGIuvbJew6Ecz3TlafbSd1nVRg90LIlutwKX0RMcG7VvE4NVWatWcOpW6n-IBrCuJlnuriJfW6_LE4zJll8zl_te7OUZT5DWCEtM61QlDycc0KEEW_-YKq00pSLTKQZOvvJtEsmQVfXcwX8Gru2nSntdd7gJmhnveNjfek6AbFkRrKorvqnfw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❗️
 اولین بازیکن آفریقایی تاریخ که در تمام بازی‌های مرحله گروهی جام جهانی گل زده
@@ -1450,44 +1495,44 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SorkhTimes/134249" target="_blank">📅 11:28 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SorkhTimes/134249" target="_blank">📅 11:28 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134248">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">🔴
 منزل بیفوما و دنیل گرا پس گرفته شد  مذاکره برای فسخ دو خارجی پرسپولیس
 🔴
 فرهیختگان: باشگاه پرسپولیس به دو بازیکن خارجی تیمش اعلام کرده که اجازه ورود به آپارتمان خود را ندارند چرا که دوران حضورشان در این تیم به پایان رسیده است.
 🔴
 تیوی بیفوما و دنیل گرا هر…</div>
-<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SorkhTimes/134248" target="_blank">📅 11:25 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SorkhTimes/134248" target="_blank">📅 11:25 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134247">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">🔻
 فوتبال 360: مذاکرات پرسپولیس با هادی حبیبی نژاد مثبت بوده و این بازیکن در آستانه همکاری دوباره با اسکوچیچ قرار دارد. هادی در فولاد نیز شاگرد اسکوچیچ بود.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SorkhTimes/134247" target="_blank">📅 11:23 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SorkhTimes/134247" target="_blank">📅 11:23 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134246">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">📊
 جدول گروه  جام جهانی پس از پایان بازی های دورگروهی این گروه
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SorkhTimes/134246" target="_blank">📅 11:09 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SorkhTimes/134246" target="_blank">📅 11:09 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134245">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KUCleF_HfZbK4QdX7CZFwkchDJHlUfKz-EnDEKvSJg5xPUsOTLjqO5o6SNEEXFtCv66GjBCL_nz7j2j72mKNMfcc1TDFNU-KVvCtw9YvKuh3MTKWe1WWEF5RdGCVFUIBjBcmC64LoC_dHFQrL8_IOZCVVakb815WML1Sh3NJdxxckwG7IZutclO2Ppchgcm0sPHn93bJxHFQPp6Fx4Hvc7xO3pHKQ_--3dO8rZEa-az04AjEYo3dCV1BZjPqC9jktCD30fM9M4c20MkzvPlB_ADQEFkCIc4rucsor0CJJh8J_Glzc5-WzViNluFMVcOU99jLiTcCmMdTa-3lU9t7Qg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇷
 📸
@@ -1500,7 +1545,7 @@
 </div>
 
 <div class="tg-post" id="msg-134244">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NXwO3E3hRMF_wfhtdI0lfs2uLD_0y4ZkO2XtLsUHDr_joSn8SvYmi39MTESnNj3y_f6WVX-RPFAhz8c83dqxBzqXzEtI2o0l6dcnRr8M8P9eSYCKzBgeiFg3WuUd59ldm-777R17oWrPLTJ6zVsGoSeR-ym_SViXjAkVD8sNuTcKcHX4XT_AIVcSRevEa8zZWyZy3zgdxp-vd-Q1mKJQboPUI6w2Xm3eD5-rmdkq7wsj-E5whBShlylqjdn6ST6Y6u0H0li1wMM9Zt1zJI2g6V_bLmOlBuVeHcWY3ulfdFNE3W4JwF89G6JCk5WHxrJAilUXwuDJB50vJte6Q0mHdQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❌
 پرسپولیس با وجود غایبان پرتعداد در بازی فردا، چاره‌ای جز پیروزی ندارد و باید با ترکیبی متفاوت، نخستین مانع مسیر آسیایی شدن را از پیش‌رو بردارد
@@ -1508,11 +1553,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SorkhTimes/134244" target="_blank">📅 10:58 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SorkhTimes/134244" target="_blank">📅 10:58 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134243">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HmA3yZB6_Xo15HHmwvJZEBLIeTZkswwGj_SU63Whk2LbpUX-M73BuWGr8lOxVjfbeKT6ZA-p-znr8x8UEkTaQTC9re0SxwxCfHaiRHQmmPVH8qz4e2cLMHvvbbD4-UrRCuz8pdtlK3uS33M_yuOArcjrvAkrG9vBlo6dnjVr7dssoKjz8Yu7GssMgt5NISq9UuZ29SBg_YeQDJxaboPBW9cVG2ZqW5rEJ-vpaS2vuZoDItaR3hvD9N0eaq59RRnyfHjuMKAr04lojiATKYlgA5NWEONAuyVsvVMG1sCGIWCjNGANJ5YsRU4_E5q0Wf6YJLR5Z5gv5Ihj0IHn0o8CUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❗️
 پنجره کیسه بسته است بابت بدهی خارجی .ولی اونوقت مجوز حرفه ای گرفتن.عجب داره واقعا
@@ -1524,18 +1569,18 @@
 </div>
 
 <div class="tg-post" id="msg-134242">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">✅
 قرارداد عالیشاه برای فصل آینده معتبر است و این بازیکن فصل پیش‌رو نیز در جمع سرخپوشان حضور خواهد داشت. / فارس
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SorkhTimes/134242" target="_blank">📅 10:10 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SorkhTimes/134242" target="_blank">📅 10:10 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134241">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WlsegOTTO-ljJULhPkLKh13qgWUgdf4oyt9g4GIQ3OZj6L_MXmga2GFwjNyZTiEvV3sBeJNUdpNyHrke7AYs7TLgydrci-5mLdVqXScOxvxApL6RIS29GLUgNtO8rcQyDnCtQaQgFaEE_AINvo-FNEeopJTGQMxHNuXzg7jN1DyNYRocPxZQkVRyItWqvx4aBxsJoNmdu-ssS8YUMOMVEPEeoCowgXF8rxxzHf-naP72Rnwu_zfi8_hSbsHt9HxFolSb0sE8qXFPozBD4Qyb29wOZffKCgk27zXVL3XkKBcRPzBl6InRzsvMTztKGuR3Lz4cOkUO2k-ZFHGtWmoP4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 جدول گروه  جام جهانی پس از پایان بازی های دورگروهی این گروه
@@ -1547,18 +1592,18 @@
 </div>
 
 <div class="tg-post" id="msg-134240">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">🔴
 حمله تند سعید اخباری، سرمربی چادرملو به پرسپولیس: سهمیه آسیایی حق تیم ما بود، باید با تیمی بازی کنیم که از ما امتیاز کمتری داشت و سه هفته است در حال تمرین است
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SorkhTimes/134240" target="_blank">📅 10:05 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SorkhTimes/134240" target="_blank">📅 10:05 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134239">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P49QgR4DPQXkSQE4nDB5Qe3Jln06Ii3MOnKXX0Diic7jJbh4myBSMPsY_JJf8mTT4ATgG1XIvt2Iq7Pis46UG6NPzJc4Cx1QOdT3CMssQQReJY8rZgTHmb8g9rA-DTd9TDX55-iOuj7RV7r_QG_o3ovFiXgtcJkS6ccQM-9fqiwY3b66La7db6hlgDctrJTfCvEpsbKCSNWQRrSwhJ0SnUA33rSCdaNT3_837G7LntZpW_ITKlTLzYvtdZ67zt6SLqdyB8TY_2aNmVkvviI7QRvqH_xaQige_QUxGEQIZnlgccCBzgCHdUOAuTYf0WIqJALttjZCutTiPAizNtv-iw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 صبحتون خوش ارتش سرخ
@@ -1566,11 +1611,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SorkhTimes/134239" target="_blank">📅 10:01 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SorkhTimes/134239" target="_blank">📅 10:01 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134238">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Z3vCZxGeGJghNYPvtwGDr5dBvj_eR2cU2R_IWfAgMtPEO0LErHpS2iv-BxZL-EoErQ6M8FxvnHfMBm3kCTiCbHwhI6Cfh8oX5_tVXtB2jgIowKEIyLSANYiUBgp2-ffp8Uk0ozy2__ofBdnMS3159cnmd_MuftKJzJL5Tht5uNTYNZblFZnbk-Wj9xEwGMkfjFG5pClskKbMRbEjK75cztwXXAcF9c8sMiTF-ZcDzhjN0S9YTuxPyLHGKmt-qvcWpLzWMwxsZSMHW5jBHqioGYKMNMUHYpZbGJYqxGdpSzijvUegQHB8ja2feDJ3cZRpjt9Oq3o313JHgnkAYVFJUQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Sportnavad
 ➕
@@ -1608,11 +1653,11 @@
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/SorkhTimes/134238" target="_blank">📅 02:12 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SorkhTimes/134238" target="_blank">📅 02:12 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134237">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JNSYIxTVKy4-o8V8uoJemZMaJcb9CkzBUeQ575KxXFx79GTZH7ET5wV4zluUpKWu1EO_CXg6hednyAKG7m_GZN7q_BX1wI9bwXmZaYEBKgJIYVv1Ne1_zjuaxqZ3GCDAxm1Fx6IRWC-PJwXOuqAqWAtzu0zA0jKxuYigEPYuJuf6eSE2Qi4tiVgMiQ6FH59-r7bTZpmmKHru4RrHnEp89ekHUGYLRgMKxXbEnkHwY4QonPfrcQAfzNeYvCB8AC0c74NG2VuUKzilfoY0QF8UiX0mcncFr114Kob5pNFXlq2IVSEwX1TssxF0zFIskryvoG1JqW79iAmlWHPi2PLasw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❌
 شباهت 100 از 100 بدون شک
@@ -1621,11 +1666,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SorkhTimes/134237" target="_blank">📅 01:13 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SorkhTimes/134237" target="_blank">📅 01:13 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134236">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QfdoMaHI875ESiEaFnIAHfhU1x6XEfVezDHIPlxEWvZgeBso4NQNBWyt7jRhzCcAFVEzMdcAsPGERtRcBJ5oSMWo8c8v6Zmyf1kEHP1tbDr9bxlP45-CZ6fJdnmPUZgXXKE7OocNSR3b11iRI6QQN4HDGXZWF5cVoSFTmDoZhzPU9xa18YI6sjGUzuwaA-I2jNUKij8gTB_rvJLPYOiX06B0z8M5A0Fpg-7gssmwuoQ6RgRENQ_y-rCrcA34NCFSbNPKRml8uRYoR3xbuCtXQB991U25mraim91OG4ME9kU9d6dY2YPLKy31pk8n4GCcokjDeoeolYEOJ_S660LvbA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 جدول گروه  جام جهانی پس از پایان بازی های دورگروهی این گروه
@@ -1633,11 +1678,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SorkhTimes/134236" target="_blank">📅 01:11 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SorkhTimes/134236" target="_blank">📅 01:11 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134235">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">❗️
 ❗️
 فارس : پیگیری ها از باشگاه پرسپولیس نشان میدهد  تاکنون قراردادی میان طرفین به امضا نرسیده و تنها توافقات اولیه و نهایی بر سر مسائل شخصی حاصل شده است.باتوجه‌به اینکه طاهری همچنان با باشگاه روبین کازان روسیه قرارداد دارد، پرسپولیس برای نهایی کردن این انتقال…</div>
@@ -1645,7 +1690,7 @@
 </div>
 
 <div class="tg-post" id="msg-134234">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">❌
 ❌
 فوری از قرمز آنلاین: حضور اوسمار روی نیمکت تیم مقابل چادرملو قطعی است
@@ -1653,22 +1698,22 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SorkhTimes/134234" target="_blank">📅 00:18 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.24K · <a href="https://t.me/SorkhTimes/134234" target="_blank">📅 00:18 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134233">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">❌
 فوتبال جام جهانی و نشون ندادن به خاطر والیبال ..خود والیبال از ست دوم قطع شده و دیگه نتونستن از جایی دزدی کنن و پخش کنن
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SorkhTimes/134233" target="_blank">📅 00:15 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SorkhTimes/134233" target="_blank">📅 00:15 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-134232">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">✅
 والیبال فنا امشب لیگ ملتها هفته دوم شروع میشه و ایران ساعت ۱۰ مقابل فرانسه بازی داره
 🎗️
@@ -1679,7 +1724,7 @@
 </div>
 
 <div class="tg-post" id="msg-134231">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromPulseGate</strong></div>
 <div class="tg-text">🔰
 سرویس اقتصادی
@@ -1707,65 +1752,6 @@
 جهت خرید از پیوی =>
 @Winstn_Churchill</div>
 <div class="tg-footer">👁️ 3.93K · <a href="https://t.me/SorkhTimes/134231" target="_blank">📅 23:59 · 03 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-134230">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pbN-wsFA7yoOHV202J6bEhwQ4nCnhhC7pdAqjVRBv2Lf71RK1uZbIn0br_8ZbbWI1WI0M0Mrr6lsc2xymJGJMvjQMAgfnEHp-xJdu_dHCoSxh9IIwmhsOLzHlqm5NeSRk7q4u1Ehpdfjnvh9WffErMsP7617GUDFdcpWgA4-2EmdlNJxKOR70TuArM0F7QNp4h479GBr_VDxBN8q6Vm_dA8KzT9snPufQIXgnbvBPAzn3Id4UAcRFzuu2XUQ7M9Av-3fbXZ-H8NPEVEuL6JLObj85fbMq9AWbeFgg-lLohrpKPKG5seCTW2IoJ1a85UUW0S60Ho-Tt14U4sodH5HZQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">❗️
-صفحه رسمی باشگاه دهوک عراق عکس ها و ویدیویی هایی از معارفه یحیی گل محمدی و دستیارش محمد عسگری را در پست و استوری به اشتراک گذاشته که نشان می دهد مراسم معارفه ویژه ای جذب پرافتخارترین مربی ایران در جام های سراسری برگزار شده است.
-🎗️
-«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
-🤩
-@SorkhTimes</div>
-<div class="tg-footer">👁️ 5K · <a href="https://t.me/SorkhTimes/134230" target="_blank">📅 23:25 · 03 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-134229">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">❌
-#فوووووووووووووری
-🔴
-با اعلام رسمی پایان فصل؛ قرارداد امید عالیشاه با پرسپولیس یک فصل دیگر به طور خودکار تمدید شد!
-🎗️
-«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
-🤩
-@SorkhTimes</div>
-<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SorkhTimes/134229" target="_blank">📅 22:31 · 03 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-134228">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-text">❌
-❌
-بازی سه جانبه
-🔴
-مسابقه پلی‌آف
-📆
-جمعه 5 تیر
-🖥
-چادرملو - پرسپولیس
-⏰
-ساعت 18:45
-🏟
-ورزشگاه پاس(تهران)
-🎗️
-«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
-🤩
-@SorkhTimes</div>
-<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SorkhTimes/134228" target="_blank">📅 22:30 · 03 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-134227">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">🔴
-پدر کسری طاهری: کسری فصل بعد پرسپولیسی ست و قرارداد داخلی امضا شده
-🔥
-🎗️
-«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
-🤩
-@SorkhTimes</div>
-<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SorkhTimes/134227" target="_blank">📅 21:34 · 03 Tir 1405</a></div>
 </div>
 
 <hr>
