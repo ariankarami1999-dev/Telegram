@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-06 23:20:31</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-07 00:21:54</div>
 <hr>
 
 <div class="tg-post" id="msg-791">
@@ -300,19 +300,19 @@
 <div class="tg-text">خرید قسطی هرچیزی، intent کاملا متفاوتی از خرید اون چیز داره(بدون کلمه قسطی). اگر سرچ والیوم داره(جستجو میشه قسطیش) صفحه اش باید جدا باشه برای شانس بهتر رتبه گرفتن.
 اگر صفحه یکی باشه و تو عنوان بنویسید نقد و اقساط، حوزه رقابتیش بزرگتر میشه. ولی این هم میشه. ولی روی کیورد خرید قسطی اون چیز، سخت تر رتبه می گیره.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.14K · <a href="https://t.me/mohsentavoosiseo/791" target="_blank">📅 00:50 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.15K · <a href="https://t.me/mohsentavoosiseo/791" target="_blank">📅 00:50 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-790">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">سوال دانشجو:  و اینکه یکسری تعاریف هست برای سئو هست. این ها چی هستند؟  Topical Authority Internal Linking Strateg Site Architecture  Content Hub / Pillar & Cluster Information Architecture + Semantic SEO Link Equity Flow + Topic Authority Reinforcement</div>
-<div class="tg-footer">👁️ 1.17K · <a href="https://t.me/mohsentavoosiseo/790" target="_blank">📅 00:39 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/mohsentavoosiseo/790" target="_blank">📅 00:39 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-789">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">سوال دانشجو:  و اینکه یکسری تعاریف هست برای سئو هست. این ها چی هستند؟  Topical Authority Internal Linking Strateg Site Architecture  Content Hub / Pillar & Cluster Information Architecture + Semantic SEO Link Equity Flow + Topic Authority Reinforcement</div>
-<div class="tg-footer">👁️ 1.17K · <a href="https://t.me/mohsentavoosiseo/789" target="_blank">📅 00:33 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/mohsentavoosiseo/789" target="_blank">📅 00:33 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-788">
@@ -325,13 +325,13 @@ Site Architecture
 Content Hub / Pillar & Cluster
 Information Architecture + Semantic SEO
 Link Equity Flow + Topic Authority Reinforcement</div>
-<div class="tg-footer">👁️ 1.17K · <a href="https://t.me/mohsentavoosiseo/788" target="_blank">📅 00:30 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/mohsentavoosiseo/788" target="_blank">📅 00:30 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-785">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">کسانی که میگن چرا طرف رفت ارمنستان یا ترکیه؟ اونجا که ظرفیت نداره فضای دیجیتالشون. اونجا که اقتصادش فلانه!  باید بگم قرار نیست برن شرکت ترک یا ارمنی کار کنند. ظرفیت اونجا مهم نیست! از دیجیتال مارکتر ها بعیده این حرف!  اونجا فقط یه نقل مکان سکونت فیزیکی هست…</div>
-<div class="tg-footer">👁️ 1.37K · <a href="https://t.me/mohsentavoosiseo/785" target="_blank">📅 22:08 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.38K · <a href="https://t.me/mohsentavoosiseo/785" target="_blank">📅 22:08 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-782">
@@ -358,7 +358,7 @@ pinned «
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
 بدیهیه که تبلیغات، مال خود تلگرامه و در کنترل من نیست. خداروشکر این کانال، افرادش آی کیوشون تو این چیزا بالاست و میدونن که تبلیغات پایین کانال های تلگرام، دست اون کانال نیست.</div>
-<div class="tg-footer">👁️ 1.55K · <a href="https://t.me/mohsentavoosiseo/780" target="_blank">📅 12:38 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.56K · <a href="https://t.me/mohsentavoosiseo/780" target="_blank">📅 12:38 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-778">
@@ -447,13 +447,13 @@ pinned «
 <div class="tg-post" id="msg-765">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.78K · <a href="https://t.me/mohsentavoosiseo/765" target="_blank">📅 14:00 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.79K · <a href="https://t.me/mohsentavoosiseo/765" target="_blank">📅 14:00 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-762">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">سوال دانشجو:  من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده و من باید بهش تضمین بدم تو قرارداد بیارم که رتبه میگیره صفحه اول. این حرفش منطقیه؟</div>
-<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/mohsentavoosiseo/762" target="_blank">📅 13:34 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/mohsentavoosiseo/762" target="_blank">📅 13:34 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-761">
@@ -464,7 +464,7 @@ pinned «
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده
 و من باید بهش تضمین بدم تو قرارداد بیارم که رتبه میگیره صفحه اول.
 این حرفش منطقیه؟</div>
-<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/mohsentavoosiseo/761" target="_blank">📅 13:26 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/mohsentavoosiseo/761" target="_blank">📅 13:26 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-760">
@@ -492,7 +492,7 @@ pinned «
 <div class="tg-post" id="msg-757">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">سوال دانشجو:  من رو یه سایت دارم کار میکنم که تجهیزات آشپزخونه میفروشه.یه دسته بندی داره هود اخوان.و تقریبا ۵ ساله همین دسته بندی رو داره.زیر مجموعه میتونه هود مخفی،هود مورب،هود شومینه ای باشه با توضیحات و مدلاش.الان اوکیه من اضافه کنم؟یا چون همون صفحه هود…</div>
-<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/mohsentavoosiseo/757" target="_blank">📅 11:22 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/mohsentavoosiseo/757" target="_blank">📅 11:22 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-756">
@@ -505,7 +505,7 @@ pinned «
 <div class="tg-post" id="msg-755">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/mohsentavoosiseo/755" target="_blank">📅 20:39 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/mohsentavoosiseo/755" target="_blank">📅 20:39 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-754">
@@ -523,13 +523,13 @@ pinned «
 حالا میخوام بدونم مشتری روی یک سری از کلیدواژه ها میخواد بیاد بالا (از 98 تا 1401) روش کلمه ها کار کردم و صفحه اول بوده الان افت کرده و میگه کار کنید تا بیام صفحه اول.
 سوالم اینه مشتری از من در برابر پولی که میده تضمین میخواد قبلا من تضمین رنک میدادم
 الان چی بهش بگم برای تضمین؟</div>
-<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/mohsentavoosiseo/753" target="_blank">📅 20:28 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/mohsentavoosiseo/753" target="_blank">📅 20:28 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-752">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">سوال یکی از دانشجویان:  هدف از صفحه دسته بندی محصول اینه که خب محصول بفروشه قسمت توضیحات هم که شاخص ها کیفیت و قیمت گفته میشه  صفحه اصلی هم که معرفی برند هست هدف از اینکه برای بعضی کلمه ها لندینگ پیج داریم چیه ؟  با کلمه هایی که براشون دسته بندی داریم هم نوع…</div>
-<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/mohsentavoosiseo/752" target="_blank">📅 18:03 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/mohsentavoosiseo/752" target="_blank">📅 18:03 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-751">
@@ -537,13 +537,13 @@ pinned «
 <div class="tg-text">ادامه جواب بالا
 روش جادویی من تو مشاوره هام(توهم جادو)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.79K · <a href="https://t.me/mohsentavoosiseo/751" target="_blank">📅 17:35 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/mohsentavoosiseo/751" target="_blank">📅 17:35 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-750">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/mohsentavoosiseo/750" target="_blank">📅 17:33 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.68K · <a href="https://t.me/mohsentavoosiseo/750" target="_blank">📅 17:33 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-749">
@@ -555,7 +555,7 @@ pinned «
 <div class="tg-post" id="msg-748">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">سوال یکی از دانشجویان:  هدف از صفحه دسته بندی محصول اینه که خب محصول بفروشه قسمت توضیحات هم که شاخص ها کیفیت و قیمت گفته میشه  صفحه اصلی هم که معرفی برند هست هدف از اینکه برای بعضی کلمه ها لندینگ پیج داریم چیه ؟  با کلمه هایی که براشون دسته بندی داریم هم نوع…</div>
-<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/mohsentavoosiseo/748" target="_blank">📅 17:27 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/mohsentavoosiseo/748" target="_blank">📅 17:27 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-747">
@@ -568,7 +568,7 @@ pinned «
 مثلا الان یه دسته بندی داریم که دسته بندی تجهیزات هتلی هست که داخلش محصولات لیست شدن
 و یه لندینگ پیج تجهیزات هتلی برای تماس بگیرید و هتل های تجهیز شده و …
 اینا الان هم نوع میشن؟</div>
-<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/mohsentavoosiseo/747" target="_blank">📅 17:25 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/mohsentavoosiseo/747" target="_blank">📅 17:25 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-746">
@@ -614,7 +614,7 @@ pinned «
 چرا همه تخصص ها رو باهم میخواد؟
 😒
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/mohsentavoosiseo/741" target="_blank">📅 17:52 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/mohsentavoosiseo/741" target="_blank">📅 17:52 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-740">
@@ -677,7 +677,7 @@ https://t.me/mohsentavoosiseo/739
 <div class="tg-post" id="msg-732">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">یک دوستی دارم که همیشه فکر میکنه من یه تکنیکی بلدم که انجام میدم سایت ها رشد میکنن. هربار فکر میکنه دارم میپیچونمش و نمیخوام بهش یاد بدم!  همیشم این رو مثال میزنه. این برای سایتی هست که من فقط یک ساعت مشاوره و راهکار دادم. اوایل فوریه. حدودا یک ماه قبل از…</div>
-<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/mohsentavoosiseo/732" target="_blank">📅 13:14 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/mohsentavoosiseo/732" target="_blank">📅 13:14 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-731">
@@ -724,7 +724,7 @@ https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-
 پشتیبانی دارای حریم خصوصی در چت تلگرام هست. وبینار نیست. روزهای خاص نیست. آزادانه هست (برای من آزادی خیلی مهمه). زنده هست.
 و توسط اشخاص قوی و قدیمی از بچه های خود دوره انجام میشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/mohsentavoosiseo/727" target="_blank">📅 12:00 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/mohsentavoosiseo/727" target="_blank">📅 12:00 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-726">
@@ -966,7 +966,7 @@ Similarweb = 4$ = 720
 مشتری واقعی پایدار بر اساس واقعیت فعلی هم، 1000 نیست. هزار باشه باز هم عدد وسوسه کننده ای نیست.
 نظر سنجی زیر رو میذارم که عدد در بیاد.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.24K · <a href="https://t.me/mohsentavoosiseo/711" target="_blank">📅 13:34 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.25K · <a href="https://t.me/mohsentavoosiseo/711" target="_blank">📅 13:34 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-710">
@@ -1006,7 +1006,7 @@ Similarweb = 4$ = 720
 <a href="https://cdn4.telesco.pe/file/3494a006a0.mp4?token=f3SjEoj6LLgQqnhgVzOh304zJaXeJGepa2Xx4_U8drANnl4Xk3niv6L8fS0EmLbjgM4pDUyF41KtP3rqf164qFKaXFHTGmBCjioFc8ttpbc2YPQTioM_DQbsDw-MiJEYq7Cmdc7LOwInFj2F4BjsYB0GLoyLcKIrVCr6SyZX2gjTnM7u9JyqfGLkUp8z_a77Eb6wttPhqaTR__hy7t6o8zm3QX2fFLF-Z6EY8tum_Eor-xYM2Nt-paiT04B95aN1BRBkt4rw7py8wL-lXnTA5-uCO6SUvkORzN7HSRwev469yjmIgF8iqbkAJz3KJBJsiMfHuuCtaq8lpES6bqxAdw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/mohsentavoosiseo/708" target="_blank">📅 17:19 · 19 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/mohsentavoosiseo/708" target="_blank">📅 17:19 · 19 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-707">
@@ -1035,7 +1035,7 @@ Similarweb = 4$ = 720
 <a href="https://cdn4.telesco.pe/file/6a993e8989.mp4?token=YknmtxGfvHjOSVndA1YJKg28mzaW3sYCNvI-CDNNSSg1C5DJGrZbpvi-PBNLRJRATDUphZODB2P8ktZEB3G83wugXpBZCQJ0qEkHwrDVu3ZZnQieqRnnCC6Sv-YhL5hAZZN8HxO-w_AzM6-mBR5ANVfS5EWW0G9yVppyEZkWraElNXnxlxl8NyKcv7w-nc-bENnd_a7PCbSpapp4x1awRUkuTDrXhE-d0b5UpeK8JT-nTd9ySOrpA1mU1Okmv8Jppo4zS8uaqeO3kiE53kd1RgxESmHjLNqIh1g2gQ4Y_ObxFVcwJjX07tShz5GIdFLOhxD0bwuKt7le0ExVnTIOcQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حالا که بحث مقایسه مترو ها شد جا داره بگم، مدیونی اگه به ایران بگی جهان سوم.</div>
-<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/mohsentavoosiseo/706" target="_blank">📅 11:41 · 14 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/mohsentavoosiseo/706" target="_blank">📅 11:41 · 14 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-705">
@@ -1114,7 +1114,7 @@ Similarweb = 4$ = 720
 خجالت داره واقعا. ملت دارن پول پارو میکنن اما طرف صبح تا شب رو تختش دراز کشیده در حال اسکرولینگه و دنبال اینه که چه چیزی مُرد چی نمرد.
 اره SEO مُرد. حله. رقیب تو نتایج گوگل کمتر خرج مام کمتر. استقبال کنیم از این تفکر.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/mohsentavoosiseo/693" target="_blank">📅 19:32 · 08 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 3.92K · <a href="https://t.me/mohsentavoosiseo/693" target="_blank">📅 19:32 · 08 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-692">
