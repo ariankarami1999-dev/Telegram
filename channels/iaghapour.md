@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-07 00:21:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-07 01:25:43</div>
 <hr>
 
 <div class="tg-post" id="msg-2716">
@@ -313,7 +313,7 @@
 با
 check-host.net
 سالم</div>
-<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/iaghapour/2716" target="_blank">📅 21:12 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.48K · <a href="https://t.me/iaghapour/2716" target="_blank">📅 21:12 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2711">
@@ -333,7 +333,7 @@ check-host.net
 👌🏻
 اگه ابزاری کارتون رو راه می‌ندازه، دمتون گرم که با یه تشکر، ستاره دادن تو گیت‌هاب یا حتی یه دونیشن کوچیک (در حد توان)، خستگی رو از تن این بچه‌ها درمیارید.
 مخلص شما...</div>
-<div class="tg-footer">👁️ 6.04K · <a href="https://t.me/iaghapour/2711" target="_blank">📅 20:51 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.42K · <a href="https://t.me/iaghapour/2711" target="_blank">📅 20:51 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2710">
@@ -349,7 +349,7 @@ check-host.net
 دانلود آخرین نسخه از گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.28K · <a href="https://t.me/iaghapour/2710" target="_blank">📅 18:02 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.54K · <a href="https://t.me/iaghapour/2710" target="_blank">📅 18:02 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2708">
@@ -366,7 +366,7 @@ check-host.net
 فرصت دارند تا اقدامات لازم را انجام داده و دارایی‌های خود را خارج کنند. در این دوره انتقالی، حساب‌های احراز هویت‌شده (KYC) فقط امکان برداشت خواهند داشت. در بازار اسپات تنها امکان فروش (بدون امکان خرید) و در بخش فیوچرز تنها امکان بستن پوزیشن‌های باز وجود دارد و باز کردن پوزیشن جدید ممنوع است. همچنین اگر وام فعالی دارید، باید هرچه سریع‌تر نسبت به تسویه کامل آن اقدام کنید، چرا که پس از تاریخ ذکر شده احتمال اعمال محدودیت‌های بیشتر وجود دارد.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/iaghapour/2708" target="_blank">📅 21:23 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/iaghapour/2708" target="_blank">📅 21:23 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2707">
@@ -377,7 +377,7 @@ check-host.net
 GTA 6
 با قیمت پایه ۸۰ دلار (معادل تقریبی ۱۳.۵ میلیون تومان) برای نسخه استاندارد روانه بازار شود. همچنین، خریداران برای تهیه نسخه کامل‌تر یعنی «آلتیمیت ادیشن» (Ultimate Edition) احتمالاً باید مبلغی حدود ۱۰۰ دلار (تقریباً ۱۶.۵ میلیون تومان) پرداخت کنند.
 خوش به حال اونایی که توانایی مالی خرید دارن. )</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/iaghapour/2707" target="_blank">📅 19:05 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/iaghapour/2707" target="_blank">📅 19:05 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2705">
@@ -436,7 +436,7 @@ GTA 6
 مدیرعامل کلودفلر می‌گوید در حال حاضر بیش از ۵۶ درصد از کل ترافیک اینترنت را ربات‌ها و ابزارهای هوش مصنوعی تشکیل می‌دهند و ابزارهای امنیتی قدیمی دیگر پاسخگو نیستند. با اجرای این پروتکل جدید، هم حریم خصوصی کاربران به طور کامل حفظ می‌شود و هم دیگر نیازی به حل کردن پازل‌های آزاردهنده و کلیک روی عکسِ چراغ‌راهنمایی نخواهد بود! / دیجیاتو
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/iaghapour/2703" target="_blank">📅 17:33 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/iaghapour/2703" target="_blank">📅 17:33 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2701">
@@ -450,7 +450,7 @@ GTA 6
 در همین حال، کسب‌وکارهای آنلاینی که فروش طلایی خود را در دوران محدودیت‌ها از دست دادند، برای جبران خسارت‌های سنگین به تخفیف‌های گسترده روی آورده‌اند؛ به طوری که استفاده از هشتگ «تخفیف» ۱۲۰ درصد جهش داشته است. این آمارها ثابت می‌کند پلتفرم‌های بومی برخلاف ادعاها، هیچ جایگاهی برای جبران ضرر اقتصاد و کسب‌وکارها نداشته‌اند.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2701" target="_blank">📅 20:26 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2701" target="_blank">📅 20:26 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2698">
@@ -476,7 +476,7 @@ GTA 6
 پ.ن: بابا ولش کنید‍! بعد 2 هفته اختلال این حرفا چیه میزنید؟ مثل قبل همون روند تکذیب رو جلو برید. بگید که ما هک نشدیم و قطعه سخت افزاری سوخته!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/iaghapour/2698" target="_blank">📅 19:50 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/iaghapour/2698" target="_blank">📅 19:50 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2697">
@@ -524,12 +524,12 @@ GTA 6
 وصل شدن اینترنت گوشی‌ها تنها ظاهر ماجرا را عادی جلوه می‌دهد؛ در حالی که شریان حیاتی بسیاری از کسب‌وکارهای دیجیتال در دیتاسنترها مسدود مانده و خسارت‌های مالی و فنی جبران‌ناپذیری در حال رقم خوردن است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/iaghapour/2696" target="_blank">📅 19:11 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/iaghapour/2696" target="_blank">📅 19:11 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2694">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/iaghapour/2694" target="_blank">📅 21:58 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/iaghapour/2694" target="_blank">📅 21:58 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2693">
@@ -613,7 +613,7 @@ ircf
 پ.ن: من داشتم میخوندم خندم گرفت این چطوری داشت میگفت خندش نگرفت؟
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/iaghapour/2687" target="_blank">📅 19:23 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/iaghapour/2687" target="_blank">📅 19:23 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2685">
@@ -709,7 +709,7 @@ Have I Been Pwned
 به هیچ‌وجه انتقال مستقیم ارز بین صرافی‌های ایرانی و صرافی‌های خارجی انجام ندید. حتماً از کیف پول‌های شخصی (مثل تراست ولت، یا ولت‌های سخت‌افزاری) به عنوان واسطه استفاده کنید تا مشکلی برای سرمایه‌تون پیش نیاد.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/iaghapour/2680" target="_blank">📅 16:15 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/iaghapour/2680" target="_blank">📅 16:15 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2678">
@@ -851,7 +851,7 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 پ.ن: وزیر مشکلی با محدودیت و قطعی نداره بیشتر داره میگه شما که داری قطع میکنی بگو تا کی که مردم اطلاع داشته باشن :)
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/iaghapour/2670" target="_blank">📅 21:05 · 22 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/iaghapour/2670" target="_blank">📅 21:05 · 22 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2668">
@@ -1760,7 +1760,7 @@ CallofDuty.com
 
 <div class="tg-post" id="msg-2605">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VsAaTNKmUIusn7jCdVzBJoz-acB4MsrZ9vlaYDN9mwuinbP0maKcALFDDPqdNe8ROuUHOk805r3ovBDWlMioFyNQ0riAlpFtGWwYxzPHkyJYjSC2nu13cAm1c4JYHzmVDl8C2lRgP29RO62OXZOvrK234etHo89sQc0C2z7okr9Ffie8jCIDJglb8MZyDxq6nMY3RMJHVtCRRiF80gcQ0pQwVWxePDnsjIUMwAr-3xRwaZhW7nmdcU7ye0io9k72yRBDQDJhSEF7P-f9rP7dPpXcoNKvQFB3JDXuDzPqucQx706ETlxx3suqoNohZHY8GrEBqteaZzuDFqQBYMywdw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Tqne6PumbSw_aUWiqJGVHVVxNpzHYgTLFn6qfF8kNIUnPdy9Yg4qTwwmiBVMGwyalDG4Pfv4GhcbSOr0D3BnYEMcHeGL4uDTUFRQ6aUzGQdyWCvFyxKF1PEuVu3P44gv54jd4p409b5E6N6Ii4J35VmGOw21k4j9NeAnZuGB8y7f3SaNwHZ3fmFVqbSsSA_WJXpYkSr0igkrKZC47D3bV-KL7Zun2ikArWCskLm00JxrvDUvNTYmROQV08DCXJzSDJ2xzh2pqGP4s9923R9WI5JG2JrcpsrpEoWTCsJG0zGwpN_NjtAUE27Q_smjZ2s5xL_LFK5KXWXsOCaHQrg9mQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 با اپ TunnelX در ویندوز از قابلیت Split Tunneling استفاده کنید.
 🔹
@@ -1890,7 +1890,7 @@ skip-SSL
 
 <div class="tg-post" id="msg-2597">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IsS-UzPuOQm5gjDMo9Uos8gLMizAyJECfhk5xmWqMdKBCrwKJcDNTKzH5QVLQDy2kleYAd_oW90_1CV5VhLlFJdQaz1FKraWeigDCQKaTfsTwwpHvtPFI-C_uQ_s36MciGBJKzrkJjjCHETbfG6SKd74uzJyBUhYdCWuSrlucak4ZfWhh8i2_4-H86uBb7bmiHQuLEaUChND6A3Coa-h4-zYmZ5MDIIlbe7PSs50m4dOGFKbBJAvGmENRs-cpBblVBu-0B7SqJon94cUgiQIFP0uNRC2-1e6T4YFsycXyBnwJiQU-E_GHV4QnApY7v_3Od_v9_Z-sGVALepoAh6jsg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fVgaFWz95kRONIw3BNjDnHhwCrceMwQxGKmOdFZroij0PuAhNhmJGHJojQOz1lXMBkRby8c7DL717YwGae8K8SqebyCN_vCu4QpJFUY3DsWlF40oeiE6WQDdKLFQNGGDY6wdrfsSFJUUOjWTBV4S-1i4WSOb9jc12QAHWwhBorsq3HMqpwC5jbL7sqhfX2stiOkG1337kb9HXAJYnfR0WYLqOQ4QG842joSlBYYbO6azKXa1yPQmAzcIbpTOjKBVxJLYAIV4P9cgEzNiazs1EPdClJIypmvt20v6HzbU58DtlK3JZ4o0qTt_ejCfgiPfVBj6axJc0sep6JKjvC4DYA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آپدیت ورژن 0.10.0 سانگبرد منتشر شد
 🔹
@@ -2010,7 +2010,7 @@ skip-SSL
 
 <div class="tg-post" id="msg-2591">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BX-pR17GpwHw1DnD1j4bHeWzCz-sRrx81jYO85V-qe8T7bvJ1tNPigADVnKcS4yWHr4WilncDqt4miXa1XeTFuDhZTMhtIIo3-Exfkfh82JhKHFaDgIEEdVrivJW9EqimRtzpeSz-N9_zHLbJG9OnhqR2HqCHpkoR43Ly-ZV2RYc5cisGu6atfLfZyQMJA-6ydFA_shNMlIFbzCMcKwFo8kuVRBzMr7CZB6F_LgErghTPKqKfL2qdxi4JTlMDc0sNMV1sTTuKTKjNb6rZzMMgjZiFuGrcVUGT7BwABMzBfQ3Vcz3Bh58PrKpVltW4-o2De63dInDk6gGhJZ-bsSpCA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/imJRvEgDKxW7X5X1SByMQFkBqySXclmuyRhW8n0fs5sSnxvyk4orNh2tkTQsbpjhW0R75EAo1C8bkmM0ghRX6PN3x80YfEGs15l88T3KfT4VCVqqJa7vZxjG8YJERG53OptUhK2iBzML0WghSVkX9s0vOnTtf0tfdJCH5e7FjZu4UTD67pMlgnfNdDKMqwItSOrIYPG9QzokVGVsZVYXPZ3yUUlGElk_VyIsDOcjCy67GWSEpJUFY_Xz93ANnZCcRId5P-fU3gvY0sIHpS7RSIjcAQPFA2u1Wp-1AX8oJI094PfvDZ5XMpSFpu4s92lvZwMATjluuDZZ-Yf7IZeFEQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آپدیت بزرگ تلگرام: ورود دستیار هوشمند به پروفایل شخصی!
 تلگرام در آپدیت جدید تمرکز ویژه‌ای روی هوش مصنوعی داشته است. در ادامه مهم‌ترین تغییرات این نسخه را مرور می‌کنیم:
@@ -2088,7 +2088,7 @@ skip-SSL
 
 <div class="tg-post" id="msg-2588">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sPvn2sCmNXq4F_yKNcOsT4ld3QInPKm8hd2mEjFERDOe37adDu9RPcJIqH8aO8yKCsWXk9_DLS2s40Hmg7PQ0PeddDQJqJ6_VV0nXqKmzVlheFK3umgNlW7-GBm2kn66-TRJpoCuj75K8E2RR6Uc3FMg-BHzJRX_cJUHdkjlhfYCFkIg_hV7ZRVIf4vo9tJ-O66fv5dDeXpIDzkvPAXVOKHsz3-d3IlxZFHTkO1d-XzlaAM8qfGtbPCKEM5j58jyODBoLxXsD2nRtbjx7m6p22XpXdS7GxmbtP0GTPVad1MEcLNULf4dWpppkgvplj-9XGRh0poemnunTXQH0orc1g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ozEEbsh5bvhdVSlxySxRKu13JBZaCfy9roym9nYFvSEEyUDq5K74zN8tnABpZzweQTh9olIjflTTkpH_hkl-uIr6umx_uNbmNDEGprlRTUOJ-BMvtF_gbseY4sQ8W67iYot0BFJcLPdsH-vxairoC50nKfp6B8DjV1KSFelsp2iCy9dlsOoG543dhsckXnFIQB1Ry7eqNLk3wf2I5yQSe50ex9MkACEh5QNOW9U8yQwUHl1uVXKnfg8VF6MI7wWAh8Cr-PCADNxO8p-Ie26BAGRjrn55DeFY9tYTLVpzwF6Kvt_CjZduYrf_W1vhBAzqPjJR1TBVDXb7-eKxjgXwXg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💢
 سخنگو وزارت خارجه حذف تیک آبی خود در شبکه X را (سرکوب حقیقت) خواند.
 68 روزه اینترنت مردم ایران رو قطع کردن، بعد یه تیک آبی‌شو گرفتن میگه حقیقت سرکوب شد.
