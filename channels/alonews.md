@@ -292,7 +292,7 @@
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directادمین کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-07 03:29:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-07 07:33:24</div>
 <hr>
 
 <div class="tg-post" id="msg-130610">
@@ -304,7 +304,7 @@
 ممکن است زمانی فرا برسد که دیگر نتوانیم معقول باشیم و مجبور شویم کاری را که با موفقیت آغاز کردیم، به صورت نظامی به پایان برسانیم. اگر این اتفاق بیفتد، جمهوری اسلامی ایران دیگر وجود نخواهد داشت! پرزیدنت دی.جی.تی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 8.65K · <a href="https://t.me/alonews/130610" target="_blank">📅 02:54 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/alonews/130610" target="_blank">📅 02:54 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130609">
@@ -313,7 +313,7 @@
 زلزله‌ای به بزرگی 6.1 ریشتر سواحل جزیره «هونشو» ژاپن را لرزاند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/alonews/130609" target="_blank">📅 02:17 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 43K · <a href="https://t.me/alonews/130609" target="_blank">📅 02:17 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130608">
@@ -323,7 +323,7 @@
 ونس: توافق آتش‌بس با ایران همیشه کمی آشفته خواهد بود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/alonews/130608" target="_blank">📅 01:59 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46.7K · <a href="https://t.me/alonews/130608" target="_blank">📅 01:59 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130607">
@@ -332,7 +332,7 @@
 فاکس نیوز به نقل از یک مقام آمریکایی: حملات امشب آمریکا به اهداف ایرانی تکمیل شده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/alonews/130607" target="_blank">📅 01:46 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 49.4K · <a href="https://t.me/alonews/130607" target="_blank">📅 01:46 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130606">
@@ -342,7 +342,7 @@
 پرواز سوخترسان آمریکایی در نزدیکی خلیج فارس
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/alonews/130606" target="_blank">📅 01:41 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 49.2K · <a href="https://t.me/alonews/130606" target="_blank">📅 01:41 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130605">
@@ -351,7 +351,7 @@
 چندین انفجار در بندرکنگ
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/alonews/130605" target="_blank">📅 01:34 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/130605" target="_blank">📅 01:34 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130604">
@@ -360,7 +360,7 @@
 انفجار در قشم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 34K · <a href="https://t.me/alonews/130604" target="_blank">📅 01:28 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.3K · <a href="https://t.me/alonews/130604" target="_blank">📅 01:28 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130603">
@@ -370,7 +370,7 @@
 ⬇️
 https://t.me/+1RDlZFB3XPtlNzg0
 https://t.me/+1RDlZFB3XPtlNzg0</div>
-<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/alonews/130603" target="_blank">📅 01:27 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51.3K · <a href="https://t.me/alonews/130603" target="_blank">📅 01:27 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130601">
@@ -380,7 +380,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 سنتکام: ایالات متحده پس از آنکه ایران با هدف قرار دادن نفتکش M/T Kiku در نزدیکی تنگه هرمز امروز صبح آتش‌بس را شکست، به اهداف نظامی ایرانی (نظارت، ارتباطات، دفاع هوایی، انبار پهپاد، مین‌گذارها) حمله کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/alonews/130601" target="_blank">📅 01:21 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/alonews/130601" target="_blank">📅 01:21 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130600">
@@ -390,7 +390,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 یک مقام آمریکایی به خبرنگار آکسیوس گفت که آمریکا در واکنش به حمله ایران به یک نفتکش تجاری امروز صبح، اهداف ایرانی نزدیک تنگه هرمز را هدف قرار داده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 38K · <a href="https://t.me/alonews/130600" target="_blank">📅 01:12 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.1K · <a href="https://t.me/alonews/130600" target="_blank">📅 01:12 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130599">
@@ -399,7 +399,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 فوری/هم اکنون حملات آمریکا به جنوب
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/130599" target="_blank">📅 00:55 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/130599" target="_blank">📅 00:55 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130598">
@@ -408,7 +408,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 فوری/صداوسیما: صدای انفجار در سیریک شنیده شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.8K · <a href="https://t.me/alonews/130598" target="_blank">📅 00:54 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.3K · <a href="https://t.me/alonews/130598" target="_blank">📅 00:54 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130597">
@@ -417,7 +417,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ترامپ امضای توافق با اسرائیل را به رئیس‌جمهور لبنان تبریک گفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.5K · <a href="https://t.me/alonews/130597" target="_blank">📅 00:22 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/alonews/130597" target="_blank">📅 00:22 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130596">
@@ -427,7 +427,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 محارب‌های حزب الله در خیابان‌ها لاستیک و سطل آشغال سوزاندند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/130596" target="_blank">📅 00:17 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/130596" target="_blank">📅 00:17 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130595">
@@ -443,7 +443,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ویدیویی از اغتشاش امشب طرفداران حزب الله در بیروت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/130595" target="_blank">📅 00:13 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/alonews/130595" target="_blank">📅 00:13 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130594">
@@ -453,7 +453,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 [
 @AloTweet
 ]</div>
-<div class="tg-footer">👁️ 51.6K · <a href="https://t.me/alonews/130594" target="_blank">📅 00:05 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.7K · <a href="https://t.me/alonews/130594" target="_blank">📅 00:05 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130593">
@@ -463,7 +463,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 خبرگان رهبری: مذاکره کنندگان نباید وارد مسائل اتمی شوند و نباید تنگه هرمز رو از دست بدهند، مذاکره کنندگان باید خطوط قرمز رهبری را رعایت کنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.2K · <a href="https://t.me/alonews/130593" target="_blank">📅 00:03 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.4K · <a href="https://t.me/alonews/130593" target="_blank">📅 00:03 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130592">
@@ -473,7 +473,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52.4K · <a href="https://t.me/alonews/130592" target="_blank">📅 23:51 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/130592" target="_blank">📅 23:51 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130591">
@@ -484,7 +484,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/130591" target="_blank">📅 23:47 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/alonews/130591" target="_blank">📅 23:47 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130590">
@@ -502,7 +502,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 افرادی که ادعا میکنند ولایی هستند فرمون رو برگردونن نسبت به این تفاهم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.5K · <a href="https://t.me/alonews/130590" target="_blank">📅 23:42 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60K · <a href="https://t.me/alonews/130590" target="_blank">📅 23:42 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130588">
@@ -513,7 +513,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52.4K · <a href="https://t.me/alonews/130588" target="_blank">📅 23:39 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/alonews/130588" target="_blank">📅 23:39 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130587">
@@ -523,7 +523,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 50.3K · <a href="https://t.me/alonews/130587" target="_blank">📅 23:37 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/alonews/130587" target="_blank">📅 23:37 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130586">
@@ -540,7 +540,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.6K · <a href="https://t.me/alonews/130586" target="_blank">📅 23:32 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/alonews/130586" target="_blank">📅 23:32 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130585">
@@ -558,7 +558,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 چرا روز تشییع آقا با روز استقلال آمریکا تو یک روز هست؟
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/alonews/130585" target="_blank">📅 23:20 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/alonews/130585" target="_blank">📅 23:20 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130584">
@@ -568,7 +568,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 54.6K · <a href="https://t.me/alonews/130584" target="_blank">📅 23:10 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/alonews/130584" target="_blank">📅 23:10 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130583">
@@ -579,7 +579,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 [
 @AloTweet
 ]</div>
-<div class="tg-footer">👁️ 54K · <a href="https://t.me/alonews/130583" target="_blank">📅 23:07 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.6K · <a href="https://t.me/alonews/130583" target="_blank">📅 23:07 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130582">
@@ -597,7 +597,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 یه عده که اسمشونو گذاشتن انقلابی و سوپرانقلابی هیچ غلطی برای این انقلاب نکردن ولی طلبکار از همه هم هستن..
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/alonews/130582" target="_blank">📅 23:03 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/alonews/130582" target="_blank">📅 23:03 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130581">
@@ -615,7 +615,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 56.3K · <a href="https://t.me/alonews/130581" target="_blank">📅 22:51 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.5K · <a href="https://t.me/alonews/130581" target="_blank">📅 22:51 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130580">
@@ -632,7 +632,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/alonews/130580" target="_blank">📅 22:39 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62K · <a href="https://t.me/alonews/130580" target="_blank">📅 22:39 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130579">
@@ -646,7 +646,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/130579" target="_blank">📅 22:35 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63K · <a href="https://t.me/alonews/130579" target="_blank">📅 22:35 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130578">
@@ -658,7 +658,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 55K · <a href="https://t.me/alonews/130578" target="_blank">📅 22:34 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/alonews/130578" target="_blank">📅 22:34 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130577">
@@ -668,7 +668,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 55.6K · <a href="https://t.me/alonews/130577" target="_blank">📅 22:34 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.6K · <a href="https://t.me/alonews/130577" target="_blank">📅 22:34 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130575">
@@ -689,7 +689,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.9K · <a href="https://t.me/alonews/130575" target="_blank">📅 22:32 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/130575" target="_blank">📅 22:32 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130574">
@@ -703,7 +703,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 49.8K · <a href="https://t.me/alonews/130574" target="_blank">📅 22:26 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/alonews/130574" target="_blank">📅 22:26 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130573">
@@ -719,7 +719,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.6K · <a href="https://t.me/alonews/130573" target="_blank">📅 22:21 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/alonews/130573" target="_blank">📅 22:21 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130572">
@@ -729,7 +729,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/alonews/130572" target="_blank">📅 22:20 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.9K · <a href="https://t.me/alonews/130572" target="_blank">📅 22:20 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130571">
@@ -749,7 +749,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.6K · <a href="https://t.me/alonews/130571" target="_blank">📅 22:17 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/alonews/130571" target="_blank">📅 22:17 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130570">
@@ -763,7 +763,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/alonews/130570" target="_blank">📅 22:11 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.2K · <a href="https://t.me/alonews/130570" target="_blank">📅 22:11 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130569">
@@ -775,7 +775,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.2K · <a href="https://t.me/alonews/130569" target="_blank">📅 22:05 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.2K · <a href="https://t.me/alonews/130569" target="_blank">📅 22:05 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130568">
@@ -791,7 +791,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52.9K · <a href="https://t.me/alonews/130568" target="_blank">📅 21:59 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.6K · <a href="https://t.me/alonews/130568" target="_blank">📅 21:59 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130567">
@@ -801,7 +801,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.9K · <a href="https://t.me/alonews/130567" target="_blank">📅 21:53 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.4K · <a href="https://t.me/alonews/130567" target="_blank">📅 21:53 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130566">
@@ -817,7 +817,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/alonews/130566" target="_blank">📅 21:43 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.6K · <a href="https://t.me/alonews/130566" target="_blank">📅 21:43 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130565">
@@ -829,7 +829,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/130565" target="_blank">📅 21:41 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/130565" target="_blank">📅 21:41 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130564">
@@ -857,7 +857,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 50.5K · <a href="https://t.me/alonews/130564" target="_blank">📅 21:40 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.5K · <a href="https://t.me/alonews/130564" target="_blank">📅 21:40 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130562">
@@ -880,7 +880,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52K · <a href="https://t.me/alonews/130562" target="_blank">📅 21:36 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/alonews/130562" target="_blank">📅 21:36 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130561">
@@ -890,7 +890,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/alonews/130561" target="_blank">📅 21:24 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.4K · <a href="https://t.me/alonews/130561" target="_blank">📅 21:24 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130560">
@@ -900,7 +900,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.7K · <a href="https://t.me/alonews/130560" target="_blank">📅 21:12 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/alonews/130560" target="_blank">📅 21:12 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130559">
@@ -910,7 +910,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 54.9K · <a href="https://t.me/alonews/130559" target="_blank">📅 21:05 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.7K · <a href="https://t.me/alonews/130559" target="_blank">📅 21:05 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130558">
@@ -919,7 +919,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 مدتی است که برق شرق تهران قطع شده است
 ✅
 @AloNews خبر جنگ</div>
-<div class="tg-footer">👁️ 54.4K · <a href="https://t.me/alonews/130558" target="_blank">📅 21:01 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.9K · <a href="https://t.me/alonews/130558" target="_blank">📅 21:01 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130557">
@@ -930,7 +930,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 54.1K · <a href="https://t.me/alonews/130557" target="_blank">📅 20:52 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.5K · <a href="https://t.me/alonews/130557" target="_blank">📅 20:52 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130556">
@@ -947,7 +947,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/alonews/130556" target="_blank">📅 20:45 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.9K · <a href="https://t.me/alonews/130556" target="_blank">📅 20:45 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130554">
@@ -961,7 +961,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.5K · <a href="https://t.me/alonews/130554" target="_blank">📅 20:40 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/130554" target="_blank">📅 20:40 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130553">
@@ -972,7 +972,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 54.4K · <a href="https://t.me/alonews/130553" target="_blank">📅 20:32 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.9K · <a href="https://t.me/alonews/130553" target="_blank">📅 20:32 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130552">
@@ -987,7 +987,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52.9K · <a href="https://t.me/alonews/130552" target="_blank">📅 20:26 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.1K · <a href="https://t.me/alonews/130552" target="_blank">📅 20:26 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130551">
@@ -1004,7 +1004,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.4K · <a href="https://t.me/alonews/130551" target="_blank">📅 20:23 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.5K · <a href="https://t.me/alonews/130551" target="_blank">📅 20:23 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130550">
@@ -1015,7 +1015,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.8K · <a href="https://t.me/alonews/130550" target="_blank">📅 20:19 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.3K · <a href="https://t.me/alonews/130550" target="_blank">📅 20:19 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130549">
@@ -1027,7 +1027,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 پ.ن: شما از جانب ۹۰میلیون نفر شکر نخور آدم توهمی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.4K · <a href="https://t.me/alonews/130549" target="_blank">📅 20:16 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.8K · <a href="https://t.me/alonews/130549" target="_blank">📅 20:16 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130548">
@@ -1038,7 +1038,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 50.8K · <a href="https://t.me/alonews/130548" target="_blank">📅 20:10 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52K · <a href="https://t.me/alonews/130548" target="_blank">📅 20:10 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130547">
@@ -1048,7 +1048,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 50.8K · <a href="https://t.me/alonews/130547" target="_blank">📅 20:04 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51.9K · <a href="https://t.me/alonews/130547" target="_blank">📅 20:04 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130546">
@@ -1065,7 +1065,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.3K · <a href="https://t.me/alonews/130546" target="_blank">📅 20:00 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.4K · <a href="https://t.me/alonews/130546" target="_blank">📅 20:00 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130545">
@@ -1074,7 +1074,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 سازمان دریایی بریتانیا: خدمه نفتکشِ هدف قرار گرفته‌شده در تنگهٔ هرمز در سلامت هستند
 ✅
 @AloNews خبر جنگ</div>
-<div class="tg-footer">👁️ 51.6K · <a href="https://t.me/alonews/130545" target="_blank">📅 19:56 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.7K · <a href="https://t.me/alonews/130545" target="_blank">📅 19:56 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130544">
@@ -1084,7 +1084,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.2K · <a href="https://t.me/alonews/130544" target="_blank">📅 19:48 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.3K · <a href="https://t.me/alonews/130544" target="_blank">📅 19:48 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130543">
@@ -1098,7 +1098,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/alonews/130543" target="_blank">📅 19:39 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.6K · <a href="https://t.me/alonews/130543" target="_blank">📅 19:39 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130542">
@@ -1108,7 +1108,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 55.5K · <a href="https://t.me/alonews/130542" target="_blank">📅 19:31 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.6K · <a href="https://t.me/alonews/130542" target="_blank">📅 19:31 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130541">
@@ -1118,7 +1118,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.3K · <a href="https://t.me/alonews/130541" target="_blank">📅 19:28 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.3K · <a href="https://t.me/alonews/130541" target="_blank">📅 19:28 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130540">
@@ -1130,7 +1130,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.5K · <a href="https://t.me/alonews/130540" target="_blank">📅 19:24 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/alonews/130540" target="_blank">📅 19:24 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130539">
@@ -1144,7 +1144,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.5K · <a href="https://t.me/alonews/130539" target="_blank">📅 19:21 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/alonews/130539" target="_blank">📅 19:21 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130538">
@@ -1158,7 +1158,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52.4K · <a href="https://t.me/alonews/130538" target="_blank">📅 19:14 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.4K · <a href="https://t.me/alonews/130538" target="_blank">📅 19:14 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130537">
@@ -1169,7 +1169,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/130537" target="_blank">📅 19:02 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.9K · <a href="https://t.me/alonews/130537" target="_blank">📅 19:02 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130536">
@@ -1185,7 +1185,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.5K · <a href="https://t.me/alonews/130536" target="_blank">📅 19:01 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.4K · <a href="https://t.me/alonews/130536" target="_blank">📅 19:01 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130535">
@@ -1195,7 +1195,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/130535" target="_blank">📅 18:58 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/alonews/130535" target="_blank">📅 18:58 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130534">
@@ -1205,7 +1205,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52.9K · <a href="https://t.me/alonews/130534" target="_blank">📅 18:42 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.8K · <a href="https://t.me/alonews/130534" target="_blank">📅 18:42 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130533">
@@ -1224,7 +1224,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 😂
 😂
 @AloSport</div>
-<div class="tg-footer">👁️ 52.7K · <a href="https://t.me/alonews/130533" target="_blank">📅 18:34 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/alonews/130533" target="_blank">📅 18:34 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130532">
@@ -1234,7 +1234,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52.7K · <a href="https://t.me/alonews/130532" target="_blank">📅 18:26 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.5K · <a href="https://t.me/alonews/130532" target="_blank">📅 18:26 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130531">
@@ -1246,7 +1246,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 54.6K · <a href="https://t.me/alonews/130531" target="_blank">📅 18:21 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.5K · <a href="https://t.me/alonews/130531" target="_blank">📅 18:21 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130530">
@@ -1263,7 +1263,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/alonews/130530" target="_blank">📅 18:17 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.2K · <a href="https://t.me/alonews/130530" target="_blank">📅 18:17 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130529">
@@ -1280,7 +1280,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.8K · <a href="https://t.me/alonews/130529" target="_blank">📅 18:13 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.6K · <a href="https://t.me/alonews/130529" target="_blank">📅 18:13 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130528">
@@ -1290,7 +1290,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/alonews/130528" target="_blank">📅 18:05 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54K · <a href="https://t.me/alonews/130528" target="_blank">📅 18:05 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130527">
@@ -1300,7 +1300,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 54.6K · <a href="https://t.me/alonews/130527" target="_blank">📅 18:01 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.5K · <a href="https://t.me/alonews/130527" target="_blank">📅 18:01 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130526">
@@ -1310,7 +1310,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/alonews/130526" target="_blank">📅 17:54 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56K · <a href="https://t.me/alonews/130526" target="_blank">📅 17:54 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130525">
@@ -1321,7 +1321,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/alonews/130525" target="_blank">📅 17:47 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.4K · <a href="https://t.me/alonews/130525" target="_blank">📅 17:47 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130524">
@@ -1332,7 +1332,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 54K · <a href="https://t.me/alonews/130524" target="_blank">📅 17:40 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.8K · <a href="https://t.me/alonews/130524" target="_blank">📅 17:40 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130523">
@@ -1342,7 +1342,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 51.8K · <a href="https://t.me/alonews/130523" target="_blank">📅 17:38 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.3K · <a href="https://t.me/alonews/130523" target="_blank">📅 17:38 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130522">
@@ -1360,7 +1360,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 55.2K · <a href="https://t.me/alonews/130522" target="_blank">📅 17:35 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56K · <a href="https://t.me/alonews/130522" target="_blank">📅 17:35 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130521">
@@ -1370,7 +1370,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 52.9K · <a href="https://t.me/alonews/130521" target="_blank">📅 17:32 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/alonews/130521" target="_blank">📅 17:32 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130520">
@@ -1389,7 +1389,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 58.9K · <a href="https://t.me/alonews/130520" target="_blank">📅 17:27 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/alonews/130520" target="_blank">📅 17:27 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130519">
@@ -1401,7 +1401,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 یکی از بندهای مهم توافق ایران و آمریکا؛ عقب نشینی اسرائیل از جنوب لبنانه.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/alonews/130519" target="_blank">📅 17:24 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/alonews/130519" target="_blank">📅 17:24 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130518">
@@ -1412,7 +1412,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 توافق دولت لبنان با اسرائیل، مایهٔ ذلت، ننگ و واگذاری حاکمیت لبنان است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.2K · <a href="https://t.me/alonews/130518" target="_blank">📅 17:19 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56K · <a href="https://t.me/alonews/130518" target="_blank">📅 17:19 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130517">
@@ -1428,7 +1428,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 <div class="tg-text">مهدی طارمی:
 ما به همه آدم های LGBT احترام میزاریم اون انتخاب و نظر خودشونه به ما ربطی نداره ما اینجا هستیم تا فوتبال بازی کنیم.
 @AloSport</div>
-<div class="tg-footer">👁️ 56.3K · <a href="https://t.me/alonews/130517" target="_blank">📅 17:07 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57K · <a href="https://t.me/alonews/130517" target="_blank">📅 17:07 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130516">
@@ -1439,7 +1439,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 توافق دولت لبنان با اسرائیل، مایهٔ ذلت، ننگ و واگذاری حاکمیت لبنان است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.8K · <a href="https://t.me/alonews/130516" target="_blank">📅 16:58 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/alonews/130516" target="_blank">📅 16:58 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130515">
@@ -1448,7 +1448,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 العربیه به نقل از منابع آگاه: دور جدید مذاکرات آمریکا و ایران در ماه ژوئیه در دوحه برگزار خواهد شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.1K · <a href="https://t.me/alonews/130515" target="_blank">📅 16:37 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/alonews/130515" target="_blank">📅 16:37 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130514">
@@ -1459,7 +1459,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 مذاکره‌کنندگان ایرانی پس از حمله بامداد امروز آمریکا به سیریک، در جنوب ایران، در حال بررسی تعلیق مذاکرات فنی با آمریکا در سوئیس هستند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/alonews/130514" target="_blank">📅 16:29 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.7K · <a href="https://t.me/alonews/130514" target="_blank">📅 16:29 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130513">
@@ -1468,7 +1468,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 نتانیاهو: هنوز ماموریت‌های زیادی برای انجام دادن وجود دارد، هنوز کارهای زیادی در برابر ایران باقی مانده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.7K · <a href="https://t.me/alonews/130513" target="_blank">📅 16:19 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61K · <a href="https://t.me/alonews/130513" target="_blank">📅 16:19 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130512">
@@ -1477,7 +1477,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 سنتکام: حملات ایران به کشتی‌های تجاری را نادیده نخواهیم گرفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/alonews/130512" target="_blank">📅 16:13 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.8K · <a href="https://t.me/alonews/130512" target="_blank">📅 16:13 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130511">
@@ -1493,7 +1493,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 گزارش تلویزیون الجزیره از خوشحالی مردم غزه بعد از گل مصر به ایران
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.2K · <a href="https://t.me/alonews/130511" target="_blank">📅 15:59 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.9K · <a href="https://t.me/alonews/130511" target="_blank">📅 15:59 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130510">
@@ -1502,7 +1502,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 منابع العربیه: پاکستان میزبان دور جدیدی از مذاکرات هسته‌ای ایران و آمریکا خواهد بود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/alonews/130510" target="_blank">📅 15:55 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 58K · <a href="https://t.me/alonews/130510" target="_blank">📅 15:55 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130509">
@@ -1525,7 +1525,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 عقل حکم می‌کند که سناریوی اصلی ما فرسایش‌گریزی از طریق «توافق بزرگ» باشد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/alonews/130509" target="_blank">📅 15:42 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/alonews/130509" target="_blank">📅 15:42 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130508">
@@ -1535,7 +1535,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 روی دیوار ماهی فروشی‌های بوشهر نوشتن خدایا همه ما را ببخش جز مهدی طارمی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.8K · <a href="https://t.me/alonews/130508" target="_blank">📅 15:37 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/130508" target="_blank">📅 15:37 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130507">
@@ -1545,7 +1545,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 57K · <a href="https://t.me/alonews/130507" target="_blank">📅 15:31 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57.3K · <a href="https://t.me/alonews/130507" target="_blank">📅 15:31 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-130506">
@@ -1554,7 +1554,7 @@ https://t.me/+1RDlZFB3XPtlNzg0</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dWZdACL8iqkthchQH1IPNBkC4itQSeSn7rIqnDOluukTyBbTcwn7x0LVDy14hx5CZTHpX5KIhgYEep1tz9l73XeLrKUZRQ4zhV9cwU0F52wyjokHJ5nXy91N9DYxt8PnSJif_zGUGeOx2vi_Uy0s9YGgZO6zcpMBxyuXRoh-PaJKPArAhYOVlrv8r2GbXsWDCPhGHQTwF_1S3hqwyg3DFbWXc5y6q8oke7Fy45ItdYe0lMQVk8Yy9jJSHG6AdiLOi3fkWjrp2LZd0t_CiYz8OwQjW5tlQRpP1ja8djWZsSkc9sfWkcPzkXSGsnlZZnqij9kP_zmeiDqAPHEBI67MqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شجاع خلیلزاده: دوست داشتم گلم رو به آقای شهیدمون تقدیم کنم اما حیف آفساید شد
 @AloSport</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/130506" target="_blank">📅 15:28 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 58.5K · <a href="https://t.me/alonews/130506" target="_blank">📅 15:28 · 06 Tir 1405</a></div>
 </div>
 
 <hr>

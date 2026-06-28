@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-07 03:29:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-07 07:33:24</div>
 <hr>
 
 <div class="tg-post" id="msg-2716">
@@ -313,7 +313,7 @@
 با
 check-host.net
 سالم</div>
-<div class="tg-footer">👁️ 5.91K · <a href="https://t.me/iaghapour/2716" target="_blank">📅 21:12 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.33K · <a href="https://t.me/iaghapour/2716" target="_blank">📅 21:12 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2711">
@@ -333,7 +333,7 @@ check-host.net
 👌🏻
 اگه ابزاری کارتون رو راه می‌ندازه، دمتون گرم که با یه تشکر، ستاره دادن تو گیت‌هاب یا حتی یه دونیشن کوچیک (در حد توان)، خستگی رو از تن این بچه‌ها درمیارید.
 مخلص شما...</div>
-<div class="tg-footer">👁️ 6.8K · <a href="https://t.me/iaghapour/2711" target="_blank">📅 20:51 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.19K · <a href="https://t.me/iaghapour/2711" target="_blank">📅 20:51 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2710">
@@ -349,7 +349,7 @@ check-host.net
 دانلود آخرین نسخه از گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.79K · <a href="https://t.me/iaghapour/2710" target="_blank">📅 18:02 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.05K · <a href="https://t.me/iaghapour/2710" target="_blank">📅 18:02 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2708">
@@ -366,7 +366,7 @@ check-host.net
 فرصت دارند تا اقدامات لازم را انجام داده و دارایی‌های خود را خارج کنند. در این دوره انتقالی، حساب‌های احراز هویت‌شده (KYC) فقط امکان برداشت خواهند داشت. در بازار اسپات تنها امکان فروش (بدون امکان خرید) و در بخش فیوچرز تنها امکان بستن پوزیشن‌های باز وجود دارد و باز کردن پوزیشن جدید ممنوع است. همچنین اگر وام فعالی دارید، باید هرچه سریع‌تر نسبت به تسویه کامل آن اقدام کنید، چرا که پس از تاریخ ذکر شده احتمال اعمال محدودیت‌های بیشتر وجود دارد.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/iaghapour/2708" target="_blank">📅 21:23 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/iaghapour/2708" target="_blank">📅 21:23 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2707">
@@ -395,7 +395,7 @@ GTA 6
 دامنه ها برای به ویدیو بالا
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/iaghapour/2705" target="_blank">📅 19:09 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/iaghapour/2705" target="_blank">📅 19:09 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2704">
@@ -436,7 +436,7 @@ GTA 6
 مدیرعامل کلودفلر می‌گوید در حال حاضر بیش از ۵۶ درصد از کل ترافیک اینترنت را ربات‌ها و ابزارهای هوش مصنوعی تشکیل می‌دهند و ابزارهای امنیتی قدیمی دیگر پاسخگو نیستند. با اجرای این پروتکل جدید، هم حریم خصوصی کاربران به طور کامل حفظ می‌شود و هم دیگر نیازی به حل کردن پازل‌های آزاردهنده و کلیک روی عکسِ چراغ‌راهنمایی نخواهد بود! / دیجیاتو
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/iaghapour/2703" target="_blank">📅 17:33 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/iaghapour/2703" target="_blank">📅 17:33 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2701">
@@ -450,7 +450,7 @@ GTA 6
 در همین حال، کسب‌وکارهای آنلاینی که فروش طلایی خود را در دوران محدودیت‌ها از دست دادند، برای جبران خسارت‌های سنگین به تخفیف‌های گسترده روی آورده‌اند؛ به طوری که استفاده از هشتگ «تخفیف» ۱۲۰ درصد جهش داشته است. این آمارها ثابت می‌کند پلتفرم‌های بومی برخلاف ادعاها، هیچ جایگاهی برای جبران ضرر اقتصاد و کسب‌وکارها نداشته‌اند.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2701" target="_blank">📅 20:26 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/iaghapour/2701" target="_blank">📅 20:26 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2698">
@@ -476,7 +476,7 @@ GTA 6
 پ.ن: بابا ولش کنید‍! بعد 2 هفته اختلال این حرفا چیه میزنید؟ مثل قبل همون روند تکذیب رو جلو برید. بگید که ما هک نشدیم و قطعه سخت افزاری سوخته!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/iaghapour/2698" target="_blank">📅 19:50 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/iaghapour/2698" target="_blank">📅 19:50 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2697">
@@ -506,7 +506,7 @@ GTA 6
 دنیا با میلیاردها آدرس مستقل به دنبال سرعت و پایداری است، اما ما هنوز برای یک ارتباط ساده، درگیر پیدا کردن یک IP تمیز و عبور از لایه‌های NAT اپراتورها هستیم!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/iaghapour/2697" target="_blank">📅 22:56 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/iaghapour/2697" target="_blank">📅 22:56 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2696">
@@ -529,7 +529,7 @@ GTA 6
 
 <div class="tg-post" id="msg-2694">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/iaghapour/2694" target="_blank">📅 21:58 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/iaghapour/2694" target="_blank">📅 21:58 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2693">
@@ -541,7 +541,7 @@ GTA 6
 ircf
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/iaghapour/2693" target="_blank">📅 21:34 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/iaghapour/2693" target="_blank">📅 21:34 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2691">
@@ -566,7 +566,7 @@ ircf
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/iaghapour/2691" target="_blank">📅 18:17 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/iaghapour/2691" target="_blank">📅 18:17 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2690">
@@ -642,7 +642,7 @@ ircf
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/iaghapour/2685" target="_blank">📅 19:58 · 28 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/iaghapour/2685" target="_blank">📅 19:58 · 28 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2684">
@@ -1050,7 +1050,7 @@ curl -fsSL https://gist.githubusercontent.com/ShahinDadashpour/35892443c09d582e5
 
 <div class="tg-post" id="msg-2657">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PDYLb_RckF_UeFG82Fp4wfNADEONyHYo-wcPXlbglxNcoxYUTNDZGJW0qfpMVEWR7eVql20zkqdzfoaNhaEXpF0nlfVQ2LHs5W-Mxt9bzEM_2VQu4G37p1poHHQq-oYR_KtA6ObAiL1_5qsrevanoZYsbYMQVJ0w7yvIn5Yq9tW3xyIyr6OiJEwtOjoaWxL6pwHm1wLWXUO2BUYxJM_4GYYQaqfx8onyi6h3-3_Uh2XeeLS1NvT-fwmgfzZRDo6LR_4GmMJiLZ_Bo12-r8DlRU-YxY1uqiJ6AUcuxP7LzyBV7qXa_791pzSnrsX6hS1E2NgumYxkFPjmi7y4Tlrdzg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aoTzpjQFaXTzi968hEN71z-7LHyirVHK3ePO6uLTxgLO_HjdRRKC8-3Axx0AIz2bVkCL04MsH8NC1dnI7qYh1MrOBxEuugHQl6W6QgpADTbF1YnH5ZB05QgCKM4qGh8ie9gG7hznrAk_8_mqlRP1YwkdOyAZ_r0yjlW3Ess3NK40WvD1Ug-0rHcQtEJHy8DxieqMuCpMj2mig7J0YCng_v2X1VUOkjYRukx0Kqjvdxo6M178EdLfGnkGJ1haVoP1zPI0zrCP2Pky4B-0WChyGsfxXMv4a368wFDOmPcDPMotnHkXS5YCglekjxo1ih9pr7ayCKC14gY1AxjFHCoY0Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش ساخت فیلترشکن بدون تانل و بررسی روش های موجود
 🔹
@@ -1172,12 +1172,12 @@ CoinGate
 با استفاده از این دستورات ساده، می‌توانید هوش مصنوعی را از یک ربات پاسخ‌گوی ساده، به یک مشاور، تحلیلگر و همکار حرفه‌ای تبدیل کنید.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 40.5K · <a href="https://t.me/iaghapour/2650" target="_blank">📅 22:24 · 12 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/iaghapour/2650" target="_blank">📅 22:24 · 12 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2648">
 <div class="tg-post-header">📌 پیام #58</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZQzWU-suhQJsnrgm3hz0_XplzEYM9PlI-2sKNG2gxtJOEDrRLb3i62_SC8LAmrgQsFQ2CVxqHjk9ZgfS1XBi6rkJUj1ycdsVU6d7rkUVxQRwf-tt5WhQchC73IedXpJ4MIOSuje_Z5vxPZTcAvMckjIWswjNXLa-TjktK3gid0O8easzof1LlxHxEoK-YZng4MnBOIE1G80iM3vbQyVyVMWrgVH1E-k7ZAcqwYwQDg-vYAiMeDRdwH6LsKOsypQ8FuCDh1MOOGiXAv7_vIt19Y_SdNnhgTb-JszrA3pHzz8tqPAUKnAipB5RTu3MFCo--j3hubNyvfPHQEHNf-QxLw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vVkI4ONGSqwzvtmENQ-kFHTGTTgEx8c0hKeFf9JOvk02v7V9gUR4ZDQXLTHc7_oV_YUe0KCyg_W5UYQY9s1hFj5sLVp-rqbQ-h6hRjV335iGWKXkvj_F3t_Vl3DE_xAUVttH_vM_0oAirewvkanAP2PLkUbv0BlrEHayVnZVPedTAl5gci9uQEhEIx2MZAAVSko_8GkoanLgyUjKsFp703og30gvVXyHyPWoXK0Ct29Gos7gOMJIRqO0ApRrRS3E6lIwyTB030qFOgdnj8QxXVCXVicwOYApNHb4XrwCLZi_MylowFAjJbePy9gU-2LOQaulkKV6wJvEl6zyMl3qWA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی GenyConnect؛ جایگزین مدرن v2rayN برای مدیریت پروکسی
 نرم‌افزار GenyConnect یک کلاینت تونلینگ و VPN مدرن (با کاربردی شبیه به برنامه محبوب v2rayN) است که با تمرکز بر عملکرد بالا، حریم خصوصی و کنترل دقیق ترافیک طراحی شده است. ویژگی مهم این ابزار، وابسته‌نبودن به یک پروتکل خاص است؛ به این معنی که می‌تواند به عنوان یک بستر یکپارچه برای موتورهای مختلف تونلینگ عمل کند.
@@ -1201,7 +1201,7 @@ CoinGate
 
 <div class="tg-post" id="msg-2647">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KBe_yW5Ocxo-G36bosNMC7MFTa8anP_xJ2EN5_cRKlIWIgrkZBVWMTkjnkK9N0kaX7ieMhsCfpGHS2UAH_oZOGalWFts-ANGNAVI9VTiPzIbz2qgDbPOVpvVy_BjkfxCK6KWmCqL7UVUTW6fG1kTrr4e0YPvYOVPAC6KXfVyi0PYIdasjF80YR58ivvktqja0kfcsnRcFaFyxjNAGDBMi_MkrsOk4q3QEYbadD-_d4qfHS4GO8YJbYIc1OLsNlI5hyfDP2K-3S5v-sa0VUVd6J7kqL2aINsdqGMYAuvitCmgHrznp9Ys0Yl0g8Bf0NdEx6wBhAa7dyJPdhWfi17mFw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C3emW5zFfYa3joXFTPMue6tZv4gzdr5aEhyKbToOGmhzI1wKjk6ALPWUNTHK44wPrLTmvjkN4pz1BC_HaJ90iCRQt2HFJP5QhAtb7oDGydWwU9ZUsEd-oEocTqIsYkqPIGhTnjrjf472ziJMhkJ0M4OhiCQPLs6SB8i4LpUEup7aCHgWYRXpD4y9yqUas2hEwBpJ_z_tA2Hr8i6wyxX6YJ6jwUWBYRIz8z7PMm9DQTvNB7duHOhcFOvg9xW_WuKGvmCiEFUEqR8_OGwd90Dzi5rx0EFAoZ475PMYp-XNNXA3k61RO3Lq8U8Vk4nLbAuCtMu8PbRxGAUgJnI5DmVUXw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 تون‌کوین به (Gram) تغییر نام می‌دهد!
 پاول دورف در کانال رسمی خود خبر بسیار مهمی برای کاربران و سرمایه‌گذاران شبکه TON اعلام کرد. بر اساس این اطلاعیه، ارز دیجیتال بومی این شبکه قرار است با یک ری‌برندینگ بزرگ، نام فعلی خود را کنار گذاشته و به نام اصلی و اولیه‌اش یعنی Gram تغییر کند.
@@ -1225,7 +1225,7 @@ CoinGate
 
 <div class="tg-post" id="msg-2646">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sYwpubNqXvaZWgrYwBSj4MyeP-g8AwrRNXzpMCVd7M5LoRIx4kwqg9hnEZRhIYRD_2Ip-H4TU2m_SuIlAxgdsRDATDuqRRkFvXQ4v9pRCXYOF0Mxb8cJxOSZaqieGQb87C9JOAmGCw2ty2LWOC7o0hIaO4pgwD5jpQOnVFu1hQBgwgQEJm7hb7S3o-ssPARzxI6mHE145vmpqDQW4AVo6okyNyWIcs8iAztiZlwJZTG1HNe1zcfD-KZORWa9JuKW6aa2-hfWMdjJrKc6z1OyfMbanqriJJBFGkEJsuSzCYk4VlL023akST5iCwa-P4fWX9NfnaKsfpiGMN8H9E8YFw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uIFNHTYKCDlGPhkgZLi4rgXq1amToC3hf_A_kDPeUCfoauCrS-vImF26UVPAEU4SddUcxpdtJx5a_MhCc7_0WN2sbhPxqciK5-VSgwqBKY5c1AWIpkeXROTEw4amGG6epoaHObz7mpj3sEaXd0oAfRwjlAY8QYaKOGSuyWLEALemHBV8ZysDJRLyPAx53Tk5df2ItXxgQXCeFZwLuX_GHDJWpU9KuEyADUiUBuwDw5mYep6ndT2QiscuMGmhGjzyx86X8zd4ugyMTRiHCDD8QVJhqkxlVddas4kBUJYoY21XVMi6BqgM73A9j6w7XyWdM4NeGXIMnyiXouHbFdezDw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 اسکنر IP سفید کلودفلر با نوا رادار
 🔹
@@ -1833,7 +1833,7 @@ skip-SSL
 با تشکر از ثنایی عزیز.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/iaghapour/2602" target="_blank">📅 18:32 · 22 Ordibehesht 1405</a></div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/iaghapour/2602" target="_blank">📅 18:32 · 22 Ordibehesht 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2601">
@@ -2010,7 +2010,7 @@ skip-SSL
 
 <div class="tg-post" id="msg-2591">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/krVTTBSsGMga8K_k9VAVqIxTsNauEvl2hguZRnflLKcipNNHK_GrrAh0S-E7VjoCznnY1tXC_OE5F-PS9-_4R3TpuCdBt-4RtuBcg2DO_5trTC9zhnUwqTuw2Aa1EE4DhymbEjhn26-K6RA7u8KUUoUQaN22Wc4RITdzqFvmyJoJblvHAZS8GFdMjLQ_SoZlM7AuUkgA1YgSBPib2kVjcKh2H3eSx5zJuqId0v5C6X7k6LXfcH4RndpbLg-9_8R0GZgxVNd4IwOHVPJoL6QLsc95hyOo2UEMT4kUpY-khFNn3yWyoEmv-OQ6dFozmRaVNw6-IFJVfyBeIRCP7qm1GQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JRB04IwImR_jSMNRsUYXLA6T9mi47_E6Warjfa2SXh_VD5aHi9QFFI6V_lEMwcgN6xDu8BpUoWIryxkDmbiyjiROPYaBhA1nOalCWVcMOk8Fehhcear2IXSCCH9Zk4bdyx1-WT1aiohclFrieCvDoLVgFGkdyyYDj7W7UD7l8KCtUWq_0B6qq9H79YGo8fBVYfK3P6fx-BxCU_3dApNdGUkxqew_xZmRVJf01LlArcKABNooNsdUgdcu99-s6xMjTXMBIwuEnz46fB8hXLxXoOEMthfEOmylpzt5MyOZb67mKn9B_gMEsbYhA5czvx_AfhODc5ESsVg9hPcANDDiSg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آپدیت بزرگ تلگرام: ورود دستیار هوشمند به پروفایل شخصی!
 تلگرام در آپدیت جدید تمرکز ویژه‌ای روی هوش مصنوعی داشته است. در ادامه مهم‌ترین تغییرات این نسخه را مرور می‌کنیم:
