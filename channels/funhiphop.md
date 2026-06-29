@@ -292,7 +292,7 @@
 <a href="https://t.me/funhiphop" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 «قدیمی ترین اجتماع فانِ هیپ هاپی»🟡صاحب سبک🟡Tb :@FunHipHopAdsContact :@Chaman_Dar_KhakFollowing Copyright Laws©</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-08 03:32:20</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-08 08:38:32</div>
 <hr>
 
 <div class="tg-post" id="msg-79003">
@@ -300,13 +300,13 @@
 <div class="tg-text">پشمام با این گل کانادا رسما تیم قلعه نویی صعود میکنه مرحله بعد
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 7.46K · <a href="https://t.me/funhiphop/79003" target="_blank">📅 00:26 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.48K · <a href="https://t.me/funhiphop/79003" target="_blank">📅 00:26 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79002">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">نتیجه میگیریم دریک کیر منم نیست</div>
-<div class="tg-footer">👁️ 7.61K · <a href="https://t.me/funhiphop/79002" target="_blank">📅 00:24 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.55K · <a href="https://t.me/funhiphop/79002" target="_blank">📅 00:24 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79001">
@@ -315,7 +315,7 @@
 دریک برد
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 7.84K · <a href="https://t.me/funhiphop/79001" target="_blank">📅 00:22 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.78K · <a href="https://t.me/funhiphop/79001" target="_blank">📅 00:22 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79000">
@@ -323,7 +323,7 @@
 <div class="tg-text">لیگ ایرانه یا جام جهانی؟
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 8.6K · <a href="https://t.me/funhiphop/79000" target="_blank">📅 00:12 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/funhiphop/79000" target="_blank">📅 00:12 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78999">
@@ -331,7 +331,7 @@
 <div class="tg-text">نیمه اول بازی کانادا آفریقای جنوبی از کل بازی پرتغال کنگو خسته کننده تر بود
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/funhiphop/78999" target="_blank">📅 23:19 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/78999" target="_blank">📅 23:19 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78998">
@@ -339,7 +339,7 @@
 <div class="tg-text">مثلا بازی با سوئیس بره پنالتی و بیرانوند همه پنالتی هارو بگیره
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/funhiphop/78998" target="_blank">📅 22:03 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/78998" target="_blank">📅 22:03 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78997">
@@ -348,7 +348,7 @@
 بماند به یادگار
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/78997" target="_blank">📅 21:46 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/78997" target="_blank">📅 21:46 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78996">
@@ -357,7 +357,7 @@
 <div class="tg-text">زندگیتونو بفروشید بزنید رو صعود آفریقا جنوبی، دریک رو کانادا زده
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/78996" target="_blank">📅 20:47 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/78996" target="_blank">📅 20:47 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78995">
@@ -366,7 +366,7 @@
 <div class="tg-text">تو افشاگری جدید برنامه Jeremy kyle مشخص شده این زوجِ گی بعد از اینکه 3 سال باهم رابطه جنسی داشتن فهمیدن با همدیگه برادرن.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/78995" target="_blank">📅 19:54 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/78995" target="_blank">📅 19:54 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78994">
@@ -375,7 +375,7 @@
 <div class="tg-text">عجب تکست کصشری داره ترک جدید پوری
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/78994" target="_blank">📅 18:30 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/78994" target="_blank">📅 18:30 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78993">
@@ -384,7 +384,7 @@
 <div class="tg-text">پست جدید گوگل و تبریک صعود به مصر :
 @FuunHipHop
 | Jenayi</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/78993" target="_blank">📅 18:02 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/78993" target="_blank">📅 18:02 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78992">
@@ -408,7 +408,7 @@
 آموزش شارژ حساب با کریپتو
 ♦️
 آموزش شارژ حساب  ریالی در ریتزوبت</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/funhiphop/78992" target="_blank">📅 18:02 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/funhiphop/78992" target="_blank">📅 18:02 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78991">
@@ -447,7 +447,7 @@ G7
 🅰
 🆔
 @RitzoBet_ir</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/78991" target="_blank">📅 18:02 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/78991" target="_blank">📅 18:02 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78990">
@@ -456,13 +456,13 @@ G7
 <div class="tg-text">استوری کوروش
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/funhiphop/78990" target="_blank">📅 16:37 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/78990" target="_blank">📅 16:37 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78989">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">ایران توی جام‌جهانی : ۳ بازی انجام داد، با ۳ مساوی ۳ امتیاز گرفت، ۳ گل زد، ۳ گل خورد، ۳ گل آفساید زد، ۳ تیرک زد، رتبه ۳‌ گروه شد، بازی ها از شبکه ۳ پخش شد و برای صعود باید منتظر ۳ بازی آینده بود و در نهایت با تساوی ۳ بر ۳ الجزایر و اتریش حذف شد  @FunHipHop…</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/78989" target="_blank">📅 16:20 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/78989" target="_blank">📅 16:20 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78987">
@@ -473,7 +473,7 @@ G7
 با خودم فکر کردم که یعنی چی می‌تونه عامل این اتفاقات یهویی و غیر منتظره باشه تا اینکه با این خبر شاهکار روبه‌رو شدم.
 @Funhiphop
 | Nima</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/78987" target="_blank">📅 15:10 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/funhiphop/78987" target="_blank">📅 15:10 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78986">
@@ -482,7 +482,7 @@ G7
 <div class="tg-text">استوری میثم پیرفلک پدر کیان پیرفلک عزیز
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/funhiphop/78986" target="_blank">📅 14:54 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/78986" target="_blank">📅 14:54 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78985">
@@ -491,7 +491,7 @@ G7
 <div class="tg-text">شلیل زاده ببین کاراتو.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/78985" target="_blank">📅 14:33 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/78985" target="_blank">📅 14:33 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78984">
@@ -509,7 +509,7 @@ G7
 🤣
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/funhiphop/78984" target="_blank">📅 14:19 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/78984" target="_blank">📅 14:19 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78983">
@@ -517,7 +517,7 @@ G7
 <div class="tg-text">"من برگشتم" رونالدو مثل "من اومدم که نرم" یلس نشه صلوات
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/funhiphop/78983" target="_blank">📅 14:10 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/78983" target="_blank">📅 14:10 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78982">
@@ -525,7 +525,7 @@ G7
 <div class="tg-text">جدی چرا چیزی از ارزش هامون کم نمیشه هیچوقت، مگه چقد گرونیم؟
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/funhiphop/78982" target="_blank">📅 13:26 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/78982" target="_blank">📅 13:26 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78981">
@@ -533,13 +533,13 @@ G7
 <div class="tg-text">قایدی زن جنده تو که قرار بود یه دقیقه هم بازی نکنی همون نمیرفتی نمیریدی به محبوبیتت دیگه
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/funhiphop/78981" target="_blank">📅 13:03 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/funhiphop/78981" target="_blank">📅 13:03 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78980">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">اوووووو رامین رضاییان اووووو رامین رضاییان</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/funhiphop/78980" target="_blank">📅 12:43 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/funhiphop/78980" target="_blank">📅 12:43 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78979">
@@ -550,19 +550,19 @@ G7
 😭
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/funhiphop/78979" target="_blank">📅 11:56 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/funhiphop/78979" target="_blank">📅 11:56 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78978">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">سنگال با دو باخت صعود کرد، ایران بدون باخت سقوط</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/funhiphop/78978" target="_blank">📅 11:52 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/funhiphop/78978" target="_blank">📅 11:52 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78977">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">همه دارن خط حمله های آرژانتین و فرانسه رو مقایسه میکنن، ولی بنظر من کلید بازی دست انزو فرناندز و مک آلیستره</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/funhiphop/78977" target="_blank">📅 11:44 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/funhiphop/78977" target="_blank">📅 11:44 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78976">
@@ -571,7 +571,7 @@ G7
 <div class="tg-text">بخدا خود فیفا هم نمیتونس همچین مسیری تا نیمه نهایی برا یه تیم بچینه
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/funhiphop/78976" target="_blank">📅 11:33 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/funhiphop/78976" target="_blank">📅 11:33 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78975">
@@ -579,7 +579,7 @@ G7
 <div class="tg-text">هفته دیگه قلعه نویی میاد برنامه می‌ثاقی میگه فودباله دیگه
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/funhiphop/78975" target="_blank">📅 10:39 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/78975" target="_blank">📅 10:39 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78974">
@@ -588,13 +588,13 @@ G7
 <div class="tg-text">دیشب یک بار دیگه پروردگار و اسطوره بی همتای فوتبال جهان، حضرت لیونل آندرس مسی نشون داد کت تن کیه
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/funhiphop/78974" target="_blank">📅 10:10 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/funhiphop/78974" target="_blank">📅 10:10 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78973">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">1: باید یا غنا کروواسی را شکست دهد،  2: یا کنگو نتواند ازبکستان را ببرد،  3: یا بازی اتریش و الجزایر برنده داشته باشد  هرکدوم ازین نتایج رقم بخوره تیم قلعه نویی صعود میکنه  @FunHipHop | Farid</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/78973" target="_blank">📅 10:04 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/78973" target="_blank">📅 10:04 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78972">
@@ -603,7 +603,7 @@ G7
 <div class="tg-text">ایران توی جام‌جهانی : ۳ بازی انجام داد، با ۳ مساوی ۳ امتیاز گرفت، ۳ گل زد، ۳ گل خورد، ۳ گل آفساید زد، ۳ تیرک زد، رتبه ۳‌ گروه شد، بازی ها از شبکه ۳ پخش شد و برای صعود باید منتظر ۳ بازی آینده بود و در نهایت با تساوی ۳ بر ۳ الجزایر و اتریش حذف شد
 @FunHipHop
 | Jenayi</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/funhiphop/78972" target="_blank">📅 09:54 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/funhiphop/78972" target="_blank">📅 09:54 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78971">
@@ -627,7 +627,7 @@ G7
 آموزش شارژ حساب با کریپتو
 ♦️
 آموزش شارژ حساب  ریالی در ریتزوبت</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/78971" target="_blank">📅 09:54 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/78971" target="_blank">📅 09:54 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78970">
@@ -656,7 +656,7 @@ R7
 ریتزوبت؛ همراه شب‌های فراموش‌نشدنی جام جهانی 2026
 🆔
 @RitzoBet_ir</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/78970" target="_blank">📅 09:54 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/78970" target="_blank">📅 09:54 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78966">
@@ -664,13 +664,13 @@ R7
 <div class="tg-text">سلام بچه ها من تازه بیدار شدم، بازی ایران سوییس چه روزیه و ساعت چنده؟
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/78966" target="_blank">📅 09:19 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/78966" target="_blank">📅 09:19 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78965">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">با ریدمان پرتغال جلوی کلمبیا، پرتغال، کرواسی، اسپانیا، مراکش، فرانسه، آلمان، هلند و بلژیک همه رفتن یک سمت جدول حذفی</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/78965" target="_blank">📅 08:56 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/78965" target="_blank">📅 08:56 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78963">
@@ -680,20 +680,20 @@ R7
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/v7fUQZOj0Qtdd3tOoaUNHtEveDI6MJ9d-dvBOzlApshFOx9xaB5da2p0jdqL-5hIPd5DcTrH7dlVYHXb0x0suthN93WAu8BKtPut80klwZSmoOXUUg8e3MB7b_MCrappIIycD9SAwUiiPI9f9w_E2CzsNdc-c1XvLyd6PVZPYv8FLXAmi88m7MVMfnZqy13f4xz89JZyEIhQmxzYjvlciF8E9iWjR1r5Qr4eUpY15eLRKvn4bUE5vO9H5s2vWDi3ULlLzmWiAMiDlkExU-yEO6oXs-m8thZcBarYniC4k4pnWfIQcMlxnY0aWwBZqebNiXltl1v0MZNV9kcwU6qD4w.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">من برگشتم !</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/78963" target="_blank">📅 08:43 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/78963" target="_blank">📅 08:43 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78962">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/b3ngg55BY7FWh7XmEBuvL8mv2N315vsnK60Bpz7KiRzs90vFnkk1I_bCw6EzVg_cOgpvP2gGF1N3jXjkgIfZqREyaoAA3Uwte5FSpvAXl8vNuUVTppfwxRT46BEcKCekV1wYhHH0gmQdLau3gufascsevi8UVrExwQQfBSx3k5WnUzgOQ1-UfXpRhHhBKIAM022wuBEh41p6HZl2_gxFIw-6fQmaNuKu_nN9tLIBgMf6EZa8BCia_KxU89AK3JejkCM2OrIjr9CHdP_emxNWhfQY1LgwQbvxJiIPygH8gLUAe5YxsL5nNy7-ea3WPi5t3M-RCPM3dJAKgvmp6FsF2Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ریدم</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/78962" target="_blank">📅 08:26 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/78962" target="_blank">📅 08:26 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78961">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">احتمالا نیمه نهایی انگلیس آرژانتین و فرانسه اسپانیا ببینیم</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/78961" target="_blank">📅 07:59 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/78961" target="_blank">📅 07:59 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78960">
@@ -706,7 +706,7 @@ R7
 <a href="https://cdn4.telesco.pe/file/2aa8b89a24.mp4?token=vXw7hS9mmHR4BnIlz8SZwpp8qbuPoNkUh8x5ZPqhHX_20lvhy2y7KGbF89NTj0yWqRj0dLclSCsNVFa4AJdD3yt9kN8wWnxgM2CEr8kJQ9fI8HH8BeJ-d9J-d6T6v-j82boSF65WNKB-97JlXvyGVE_7b4a3ONfOns_f7EBUQKLau6G8ROnZ188gVHR0YZRjAMdPlhFlTdWTru9peYvN_LVLzsRIoUwTAU0mCyUzSLbBFrOh1-Sn4PVDcDtmAmgVQUdRwcYrNIbKmJ1hynOaxX6goeWmvjy1lkffJe9jZl0zhfzxt1k13NCFSPNgaTtUngmk7sXZ0WQcl9i5gCacLzzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">گزارشگری که میگفتی عزت اللهی رو برای بازی بعدی از دست دادیم، بیشتر از همه به تو خندیدم حال ندارم اموجی خنده بزارم</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/78960" target="_blank">📅 07:55 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/78960" target="_blank">📅 07:55 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78959">
@@ -735,7 +735,7 @@ R7
 <div class="tg-post" id="msg-78956">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">صبح بخیر</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/78956" target="_blank">📅 07:31 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/78956" target="_blank">📅 07:31 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78955">
@@ -753,19 +753,19 @@ R7
 <div class="tg-post" id="msg-78953">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">یکی ژنرال رو نجات بدههههههههه</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/78953" target="_blank">📅 07:28 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/78953" target="_blank">📅 07:28 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78952">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">وااااااایییییی</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/78952" target="_blank">📅 07:28 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/78952" target="_blank">📅 07:28 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78951">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">ژنرال صعود کرد</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/78951" target="_blank">📅 07:27 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/78951" target="_blank">📅 07:27 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78950">
@@ -783,7 +783,7 @@ R7
 <div class="tg-post" id="msg-78948">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">تاااااسسسسسس سوممممممم</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/78948" target="_blank">📅 07:25 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/78948" target="_blank">📅 07:25 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78947">
@@ -813,14 +813,14 @@ R7
 <div class="tg-post" id="msg-78944">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">گل دوم برای تیم دوم ژنرال</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/78944" target="_blank">📅 06:48 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/funhiphop/78944" target="_blank">📅 06:48 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78943">
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">نمیدونم چرا اینقد بدشانسیم
 ۱ بار ۲ بار ۳ بار ۴ بار ۵ بار</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/78943" target="_blank">📅 06:29 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/78943" target="_blank">📅 06:29 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78941">
@@ -832,7 +832,7 @@ R7
 #پرچم_کرنر_۲۵_سال_آینده_را_نخواهد_دید
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/78941" target="_blank">📅 06:27 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/78941" target="_blank">📅 06:27 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78940">
@@ -844,7 +844,7 @@ R7
 <div class="tg-post" id="msg-78939">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">اتریش ناخواسته گل زد</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/78939" target="_blank">📅 05:59 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/funhiphop/78939" target="_blank">📅 05:59 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78938">
@@ -864,13 +864,13 @@ R7
 <div class="tg-post" id="msg-78936">
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">کنگو هم ازبکستان رو برد الان فقط میمونه بازی اتریش و الجزایر  این بازی مساوی شه تیم ملی جمهوری اسلامی صعود نمیکنه  @FunHipHop | Farid</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/78936" target="_blank">📅 05:32 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/78936" target="_blank">📅 05:32 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78935">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">1: باید یا غنا کروواسی را شکست دهد،  2: یا کنگو نتواند ازبکستان را ببرد،  3: یا بازی اتریش و الجزایر برنده داشته باشد  هرکدوم ازین نتایج رقم بخوره تیم قلعه نویی صعود میکنه  @FunHipHop | Farid</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/78935" target="_blank">📅 05:14 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/78935" target="_blank">📅 05:14 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78933">
@@ -881,13 +881,13 @@ R7
 اگر چنین اتفاقی بیفتد، جمهوری اسلامی ایران دیگر وجود نخواهد داشت!
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/78933" target="_blank">📅 05:06 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/78933" target="_blank">📅 05:06 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78932">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">چیشد پس جادوگر مادرجنده</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/78932" target="_blank">📅 02:17 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/funhiphop/78932" target="_blank">📅 02:17 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78931">
@@ -905,7 +905,7 @@ R7
 ما بندر لنگه هستیم اینجا چند بار صدای انفجار بلند اومد
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/78930" target="_blank">📅 01:38 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/funhiphop/78930" target="_blank">📅 01:38 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78929">
@@ -918,7 +918,7 @@ R7
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K8EswLy6PZa71vNEwcu_kCdhACnAWUKqDfB0Ld2Nlegd-hafbo6VYDQDoFpRZyvGz_jXIxQ-xYSG8avFNJWi0g2biPQlz9QRPcJskPqdJuidaJNNbubcbLOzZlcyycdmCAE4DzQc0nk8EEInBWVuKj2lalE_kPBG_SARHNQHDeyElBLRo07hy0Vdaa0uHlMyBbZny_HG2VUbS5qMpacuuXiYzKbiTmIJVDXOf8rqmn9D80iR89mz-I0t_3565OtBel-5vUo4Wy2NOiwUk_L5tsR9Q5bCSXLXSKqpgRNSV5aRYnt4yYbk732dSsPEMhGAMzOrNdZtyPO9JxemPvE-ng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مودریچ چرا این شکلی شده.  @FunHipHop | Arash</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/funhiphop/78928" target="_blank">📅 01:14 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/funhiphop/78928" target="_blank">📅 01:14 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78927">
@@ -926,7 +926,7 @@ R7
 <div class="tg-text">نگران نباشید دوستان، ذراتا دارن تبدیل به پاپ کورن میشن برا همین سیریک صدا انفجار میاد.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/funhiphop/78927" target="_blank">📅 01:02 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/funhiphop/78927" target="_blank">📅 01:02 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78926">
@@ -934,7 +934,7 @@ R7
 <div class="tg-text">مودریچ چرا این شکلی شده.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/78926" target="_blank">📅 00:59 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/funhiphop/78926" target="_blank">📅 00:59 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78925">
@@ -957,7 +957,7 @@ R7
 <div class="tg-text">اینم مصاحبه شجاع خلیلزاده قبل جام جهانی:
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/funhiphop/78923" target="_blank">📅 22:52 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/funhiphop/78923" target="_blank">📅 22:52 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78922">
@@ -998,7 +998,7 @@ R7
 ۱ بار ۲ بار ۳ بار ۴ بار ۵ بار
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/funhiphop/78919" target="_blank">📅 22:04 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/funhiphop/78919" target="_blank">📅 22:04 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78918">
@@ -1028,7 +1028,7 @@ R7
 فرزند تازه متولد شده خاکپو درگذشت
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/funhiphop/78915" target="_blank">📅 20:05 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/funhiphop/78915" target="_blank">📅 20:05 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78914">
@@ -1037,7 +1037,7 @@ R7
 <div class="tg-text">شجاع رو کل دنیا دارن مسخره میکنن
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/78914" target="_blank">📅 19:58 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/78914" target="_blank">📅 19:58 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78913">
@@ -1046,7 +1046,7 @@ R7
 <div class="tg-text">این جام‌جهانی هر بازی داره منو سورپرایز میکنه.
 @Funhiphop
 | Jenayi</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/78913" target="_blank">📅 19:29 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/78913" target="_blank">📅 19:29 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78912">
@@ -1157,7 +1157,7 @@ SoundCloud
 <div class="tg-post" id="msg-78906">
 <div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">موزیک و موزیک ویدیوی جدید مهیاد و دینا به اسم "ATISHSOOZI" منتشر شد.   SoundCloud  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/funhiphop/78906" target="_blank">📅 18:26 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/78906" target="_blank">📅 18:26 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78905">
