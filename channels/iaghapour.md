@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-13 01:28:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-13 02:32:45</div>
 <hr>
 
 <div class="tg-post" id="msg-2730">
@@ -315,7 +315,7 @@
 دانلود سایر نسخه ها
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 7.95K · <a href="https://t.me/iaghapour/2730" target="_blank">📅 20:40 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.25K · <a href="https://t.me/iaghapour/2730" target="_blank">📅 20:40 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2728">
@@ -334,7 +334,7 @@
 Hedioum Tunnel
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2727">
@@ -360,7 +360,7 @@ Hedioum Tunnel
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/iaghapour/2727" target="_blank">📅 19:01 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/iaghapour/2727" target="_blank">📅 19:01 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2725">
@@ -390,7 +390,7 @@ Lumo 2.0 Lite
 پروتون که حالا بیش از ۱۰ میلیون کاربر در بخش هوش مصنوعی دارد، هدف اصلی نسخه دوم را جذب کسب‌وکارهایی قرار داده که نگران امنیت داده‌های حساس خود هستند.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/iaghapour/2725" target="_blank">📅 20:55 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/iaghapour/2725" target="_blank">📅 20:55 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2724">
@@ -412,7 +412,7 @@ Lumo 2.0 Lite
 قیمت هر گیگابایت اینترنت فیبر که پیش از این حدود هزار تومان بود، حالا به نزدیک ۳ هزار تومان (و در بسته‌های کم‌حجم به ۶ الی ۷ هزار تومان) رسیده است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/iaghapour/2724" target="_blank">📅 20:11 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/iaghapour/2724" target="_blank">📅 20:11 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2722">
@@ -441,7 +441,7 @@ mysite.example.com
 گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/iaghapour/2722" target="_blank">📅 20:50 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/iaghapour/2722" target="_blank">📅 20:50 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2721">
@@ -465,7 +465,7 @@ mysite.example.com
 مثل همیشه هم هیچکس راستش رو نمیگه؛ اول میان کلاً تکذیب می‌کنن، بعد میگن آره حمله شده ولی اطلاعاتی دزدیده نشده، آخر سر هم که همه‌چی به باد میره هیچ‌کس گردن نمی‌گیره و پاسخگو نیست! تو این بلبشو، حالا بماند که بانک‌ها یواشکی جلوی وام‌ها رو هم بستن و طبق گفته بعضی خبرگزاری‌ها، سود وام‌ها رو از ۲۳ درصد کشیدن بالا و کردن ۳۵ تا ۴۰ درصد!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/iaghapour/2721" target="_blank">📅 16:58 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/iaghapour/2721" target="_blank">📅 16:58 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2719">
@@ -493,7 +493,7 @@ mysite.example.com
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/iaghapour/2719" target="_blank">📅 18:01 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2719" target="_blank">📅 18:01 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2718">
@@ -550,7 +550,7 @@ mysite.example.com
 👌🏻
 اگه ابزاری کارتون رو راه می‌ندازه، دمتون گرم که با یه تشکر، ستاره دادن تو گیت‌هاب یا حتی یه دونیشن کوچیک (در حد توان)، خستگی رو از تن این بچه‌ها درمیارید.
 مخلص شما...</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/iaghapour/2711" target="_blank">📅 20:51 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/iaghapour/2711" target="_blank">📅 20:51 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2710">
@@ -612,7 +612,7 @@ GTA 6
 دامنه ها برای به ویدیو بالا
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/iaghapour/2705" target="_blank">📅 19:09 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/iaghapour/2705" target="_blank">📅 19:09 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2704">
@@ -1002,7 +1002,7 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 
 <div class="tg-post" id="msg-2671">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ECNVHClgoSSkfUk92EkHb8-buOFHgj8tzU00ipovxlxuY_R4sd4PW0acS7FDI4-drcgEtx6wyh5hsI9nBa3VW6NH5kvaYuxl_mayEHh5Qz7TwFHryqakJ7YT7LP6c2qhQW_9RSaF66OCdQM6Yqzx5tGMt9nkfle1_LPEmgcpOXFmdbRNW9UTlCdyXpfJBy4iYkc8Hj0s66mZ0Y38NMX7Mzj5H_GINNICyN74smFr-BcY47KS46V31h03oGlrx8kAaiQNKYoUbLEMrzFrChHXcXqJpvw8Af3D_zkzK32mNuUdYVDpbyB6dqLbbV_SZZgq8VbL1W8pm9_w0csCAHB-Vg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oNBsSzC-SQBW87e-4-s-aXrBu9HHu_f6BIQuyKPU5n58Jp0GNr9GGLqsIGVHlfVyKfjd0Ab3dl6QzWWdlUgTrq16HGXT1YX2oCt8Zt9DYNORtjFc8sfRttiSX56Efu0yKRnUS1FlYWMjBMgVSOC0lmxmX1NFKMdbAAYazju0rGTandD30h8SetMXR3QTgTTKo_ihUEBFc9PAXKLTA4bCtd-70aTChUwJBo5t855Ew_vMXecKh6JQ7a32jBnGV8ZUUe79Y4ET5dDgpx9MFGFJJ-97jHPzaUaOUOwJCosvd1URf06GLwI2Fqeb_DdZkCFUchMNquwnfB_ki6qQ3LD3bQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 درخواست حمید رسایی و ۱۱۹ استاد برای انحلال «ستاد ویژه فضای مجازی»
 بیش از ۱۲۰ تن از اساتید حوزه و دانشگاه، و چهره‌های سیاسی از جمله حمید رسایی در نامه‌ای به رئیس قوه قضائیه و فقهای شورای نگهبان، خواستار ابطال فوری مصوبه دولت برای تشکیل «ستاد ویژه ساماندهی و راهبری فضای مجازی» شدند.
@@ -1119,7 +1119,7 @@ YouTube.com
 
 <div class="tg-post" id="msg-2664">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sH0KoRrUCyRjShm0MwOVd4jVX__NrRCpW3l3gZJmWmhNEtBDKmyAy6DoB1uv5XfsznIGmjYIXfk2O6Q_hyceBdYEPJJqUMwM_tvMr2SZBP25MzMtRtIOIKn5NHurl1bPiBAGEoc4p8ftLrBEaLIMpukxyo1gPKanPGPNq4oNrBv2IQD65HAjqOjtdorGxbC9LSLsOU2QPXtc4Ak2tpeplifNBkccjjtSngtXO4T0a3xVIh6EHsdZuOLbFgXwR4yMP05oUB2mPlp0WJNJ82HCEDvXkO54aU26gEkoqw5gptO5IC1rNpQdmgdF8BQ4Y9L0TiL4IvbSzBkoGce8xNXqUg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Juic5xR6I5F5pStWx0sX1pmIyIbwgFpOMmNbSaRxMRQYmoMsPqgwD5exsyKPQuDgiVNmxSQQ6_O3JVI4Ux7ATlRsa332PObBaqeiRJayU9H-ETYdNXedgMsPcGt7yOeDyRUcHCZGs7hRuxIXUH6cEkO0wKdB-9VOdm9z6j6615QWU8W0R-JZY9_1yVjTgbO2QLvv2VQ13NIrOe7moKHP1cffkkkv28gXWH2_gsb2q7DJ2-Ky3Dr0wmfKokEV_58v7f1TXIn7icHJktPpLcMKmOC4QFoLJc3vv-TLy3xyMmG9dZEuUVeY7Sq3akBSf_GyGHXIzlNHi-5TaIZ7yHMBzg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 پولی شدن پیامک فعال‌سازی تلگرام برای برخی پیش‌شماره‌ها!
 🔹
@@ -1265,7 +1265,7 @@ curl -fsSL https://gist.githubusercontent.com/ShahinDadashpour/35892443c09d582e5
 
 <div class="tg-post" id="msg-2656">
 <div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PTNLba5E1wd3EFLmlT6pQMiSWV_PohMcEKubqc-esUfchpjiJrgRxikWt6fguZ1tp8iNKDDp2_ogGr5Jb1YJ611T3i8UxDyJGqh4UDvn0ErkOfs75mj6Nr44cagf03UjXmEV5Xpu7G2qIE_f9iGwcIXF9mKBjUUiskEe4E9TatLTJC03my7Oo8gVNfeNhEbbZ8StXBV9KtLoDWaDJp2KhOoXRA3fRM5D3jNFiIGgJfvkg8OEKSCmyyqsJ0Ce2qNQdcAG1Md_mFatbXrBSY-qLjf1uWG-oODbtKL-anvCE_dt4l2n-0Ngj27XhPW5-c5RKlVkIZfIl77tWg4iSAbRJg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jiZLvcKaJDyjeFzgIOX5ATYVCZQxOPSJu7uljZCxVTZlhYTpokBCdYyMVNsmWNuNlhn3rWn7dHr6gLhTExaQtm3uKX7vvQe7wXjOts7yblHtoZgljz8HYT-OeXE4YONEeP93fzKk8XagL_MXNMi62J2H5mLK3nU-wplBb1E0CBKexubkBQi7ky3QcuxvgfftfpjYPkP783STKq5UuN-1m-LttO2FuoQADVsHUZymXsV3Jc3Qh9GTPbnb9Tf9fKmOaHRlNsTVd_TwcFpHQj2c47AqvvqqexMrjpqk9W1xBxjkePTsVRxZAEyk4P93XKKR_oEyHb-K9VelAGeDcPDzkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 بلوکه شدن ارز دیجیتال در خریدهای خارجی (CoinGate)
 دوستان، یکی از کاربران هنگام خرید از سایت
