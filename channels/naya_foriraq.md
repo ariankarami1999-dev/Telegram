@@ -286,34 +286,34 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/VvIezF4SPOsBFVdjVWcZcVTcl0Zw49RYuX0-nw1MV9OGMC540mEnEJY11p8ZaCiTeNj-hTNdnkyiZIk9B5UuLkfXpTIUF1lhO9EXqCJhFdbVykmWTm3hzI00zHwO6HMHBzCx9M0dpfEY4_RVJe6e6q5JlDRV-NKclSIkWiq1Ui4HXBe0KD7qjjGvXimLh6areh5xlk1ZR-a_EDNag1f7BDVloq5CocAdiAJL--_ON18u1Y5koaYMKMFws77Meogbshbo3I5ywczKTIREXq97Hw0t8fpLvSeiHUaw8PwroWCFtrBZK0ZeIOuL-ofMlAD3JKHWEfQUfQijSHta1o5tcg.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/P7nTMMYZW1uopl_LxhZtKZgHZpDaQ6rLs8PMneULNQ5ZkNWAMBJyePT2jv6Vx8xuFN3xTdc98P-GWwnWwmCzS2CugbgpEVkt9CUztCa0AWA1SooBI96HMX2MwS4I3WxHzuHkAUeas98vWhLiyHEb5GQAk4PMNF4QHQTU62TEerC53U_9sJq3rD0CbGgbYdUQ0VjjeDs9r_5qMF-wLKnk1SxVl-TAC0zBdVToHklHNpmuZauCXT63mQa0f0uZjx4ipF90BOtzxgDQ_zW1boo2ZVPPbCSXMT9IIC6gq_srQWqmx_nsvhpW-w0yxTvKHv9-Okdbtp6ppLRfsGeqH7-nDQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 نايا - NAYA</h1>
 <p>@naya_foriraq • 👥 256K عضو</p>
 <a href="https://t.me/naya_foriraq" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اخبار ؛ امن ؛ دراسات ، خرائط ، OSINT ، تسريباتلا تظن الإدارة الأمريكية انها قادرة على إسكات شعوب المنطقة والله لن نسكت .. يوما ما سوف نعيد أيام عماد مغنية وسوف تبث العملية على هذة القناة ..🪪للمراسلة وارسال الاخبار@Nayaforiraq_bot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-12 03:26:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-12 06:02:13</div>
 <hr>
 
 <div class="tg-post" id="msg-80637">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KvP0oJM21gdfkq9h0-V70Qln98pvxWoAvqmT5PMEx4u6fikvkLFhEmmcNwGV2cCAtLTnN9nKL1jDVA31RqzKkXemXAp3rPG3eKPBsGD9gldwCBtK3ecqsSu1rZtmlvlqL7mjA_wK8nknamKpnLkkc8kZF2hbHPDbRkFjZiXiA1irM50SBerFtNqlFHjesQ6Sd-phoI9O9KtYrfjg5iEkTrvPIUseSSudWkK28zXo_HdC3WIHnw3hps5kyOMTSdJDttW2TybTeJqSoJtrHgxCjQfGqC8BC1pRPPTZs5fEP1U8utpjlNy_bzR-U-DVj_EUk9G8tX6xYkcO7Mm0fiEqVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">الحاج قاسم جاء لزيارتكم...</div>
-<div class="tg-footer">👁️ 3.55K · <a href="https://t.me/naya_foriraq/80637" target="_blank">📅 02:46 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.73K · <a href="https://t.me/naya_foriraq/80637" target="_blank">📅 02:46 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80636">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">🔻
 قوه تداهم منزل وكيل النفط علي معارج في ميسان.</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/naya_foriraq/80636" target="_blank">📅 02:28 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.67K · <a href="https://t.me/naya_foriraq/80636" target="_blank">📅 02:28 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80635">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">🔻
 قوه تداهم منزل وكيل النفط علي معارج في ميسان.</div>
-<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/naya_foriraq/80635" target="_blank">📅 02:21 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.75K · <a href="https://t.me/naya_foriraq/80635" target="_blank">📅 02:21 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80634">
@@ -326,7 +326,7 @@
 <a href="https://cdn4.telesco.pe/file/7784288888.mp4?token=TdNVzSqKSoPMGAxwcP0hU6NqVTdLKH_xLvl857ILzCh_8nseLGK_puhb4LYy_zQFNA6bKaqpDTXmxIkCvGv1AK-Oat6zwA3PPS1GoIkcf1YJLK5vc-iweSQXPc20W2Tay2q6-ls5qB63vaUd80ili2m-VIUp_MMUEQFiRC2AIG2bD3_vel9LzEN5nEa_NA5-1Tnw-bFvFo4IED7d4hKe14_-ZP4ixk3TRIgTYWeeYpCi4NN_fl7Bbg4KktaS7HL8MvOKqqSvTwpDDqGjE831QRkE3PHeiR4KfNSwmFXshmwUhLUrHJwqNHrIadD1z5PV5ZQNZ5wD7HlHpJZ1i1jh6A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">الحاج قاسم جاء لزيارتكم...</div>
-<div class="tg-footer">👁️ 6.51K · <a href="https://t.me/naya_foriraq/80634" target="_blank">📅 02:13 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.57K · <a href="https://t.me/naya_foriraq/80634" target="_blank">📅 02:13 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80632">
@@ -337,7 +337,7 @@
 </div>
 <div class="tg-text">🔻
 غارتين من مسيره اسرائيلية استهدفت المنطقة الواقعة بين بلدتي صديقين وجبال البطم جنوبي لبنان.</div>
-<div class="tg-footer">👁️ 7.16K · <a href="https://t.me/naya_foriraq/80632" target="_blank">📅 01:59 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.9K · <a href="https://t.me/naya_foriraq/80632" target="_blank">📅 01:59 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80631">
@@ -345,7 +345,7 @@
 <div class="tg-text">🔻
 ترمب:
 لا أبحث عن تغيير النظام في إيران بل منعه من امتلاك سلاح نووي.</div>
-<div class="tg-footer">👁️ 8.82K · <a href="https://t.me/naya_foriraq/80631" target="_blank">📅 01:24 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/80631" target="_blank">📅 01:24 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80630">
@@ -355,7 +355,7 @@
 ‏
 هيئة الاعلام والاتصالات العراقية
 تقرر فرض غرامة مالية تبلغ 5 مليون دينار على مقدمي البرامج الرياضية في العراق (حيدر زكي - عمر رياض - علي نوري) وتقديم اعتذار رسمي عن مخالفاتهم وحذفها</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/80630" target="_blank">📅 00:14 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/80630" target="_blank">📅 00:14 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80626">
@@ -368,7 +368,7 @@
 </div>
 <div class="tg-text">🔻
 لحظة دخول جثمان القائد الشهيد للثورة الإسلامية الإمام الشهيد السيد علي الخامنئي (قدس الله نفسه الزكيّة) إلى مراسم الوداع بجوار حسينيّة الإمام الخميني (قده)</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/80626" target="_blank">📅 23:51 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/80626" target="_blank">📅 23:51 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80625">
@@ -382,7 +382,7 @@
 </div>
 <div class="tg-text">🔻
 لحظة دخول جثمان القائد الشهيد للثورة الإسلامية الإمام الشهيد السيد علي الخامنئي (قدس الله نفسه الزكيّة) إلى مراسم الوداع بجوار حسينيّة الإمام الخميني (قده)</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/80625" target="_blank">📅 23:40 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/80625" target="_blank">📅 23:40 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80624">
@@ -396,7 +396,7 @@
 </div>
 <div class="tg-text">🔻
 المصلى الذي سوف يتم الصلاة على امامنا السيد الولي في العاصمة طهران.</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/80624" target="_blank">📅 23:23 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/80624" target="_blank">📅 23:23 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80623">
@@ -405,7 +405,7 @@
 <div class="tg-text">🔻
 بزشكيان:‏
 الآن وقد أصبحت إيران، المليئة بالأحداث الملحمية، تستعد لتوديع الخادم الحقيقي للإسلام والثورة، أدعو جميع الناس من كل عرق ودين وذوق وتوجه سياسي إلى تصوير مظهر دائم للوحدة الوطنية والولاء للمثل العليا للنظام الإسلامي من خلال حضور شغوف وثابت وتاريخي.</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/80623" target="_blank">📅 23:18 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/80623" target="_blank">📅 23:18 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80622">
@@ -413,21 +413,21 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SoWqjmQyc3y9gS72wABoPVsnYNNw6kkI98jNnr58ZeCMnt4cSMSwtZTkSxoGDPOfp1gus9H9sBEa97ArGbAlt4NQIqiDA4ySmNK-Q9mOa6d4jN6wwleCZqdpg8fx4g3RnTc5qZoL7Dbl-yT8trnVjaB5mcWCkDIRdLm2zI5sDsK_sc-rny5-HzIC6pGGUG1J2Whd_n9H2bzIJZD4Yy3AsNKhEIHlDn4TzCJqrsGDS3dK8vGb55Az-wO92dbnO1Wl4o_di22Cvgwf8E1jaZm33CPEHlcQVezhhB7SbRF1oI8f52WgKEwrQwuf_C97mFRpqtL2MF2KFk57Fy2a6uHFww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔻
 في الوقت الذي تقوم به حكومة الجولاني الإرهابية بهدم قرى الشيعة والتخلي عن قرى آخرى لإسرائيل.. استشهاد شابين من أبناء شيعة سوريا تحديداً "نبل والفوعة" واحتجاز جثمانيهما بعد معارك مع الكيان المحتل في محافظة درعا دفاعاً عن الجنوب السوري.</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/80622" target="_blank">📅 22:44 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/80622" target="_blank">📅 22:44 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80621">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromنايا احتياط</strong></div>
 <div class="tg-text">صوت مجلس محافظة واسط على تقليص الدوام الرسمي ساعة واحدة " من نهاية الدوام لشهري تموز وآب.</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/80621" target="_blank">📅 22:43 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/80621" target="_blank">📅 22:43 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80620">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">🔻
 انباء عن انفجار في مدينة دير زور السورية المجاورة للحدود العراقية.</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/80620" target="_blank">📅 22:18 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/80620" target="_blank">📅 22:18 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80619">
@@ -439,19 +439,19 @@
 هل جلبت القيادة المركزية الأمن أم انعدام الأمن إلى منطقتنا؟ الجواب واضح.
 ‏وبالمثل، أثبتت قواتنا المسلحة القوية أن الغرباء لا يستطيعون حتى حماية أنفسهم.
 ‏لا يمكن الحفاظ على السلام في منطقتنا إلا من خلال نهج شامل وجامع، دون أي تدخل خارجي.</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/80619" target="_blank">📅 22:06 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/80619" target="_blank">📅 22:06 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80618">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">السفارة الأمريكية في بغداد سوف تجري تفجيرات وتدريبات بعد قليل بالعاصمة بغداد</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/80618" target="_blank">📅 22:03 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/80618" target="_blank">📅 22:03 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80617">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">السفارة الأمريكية في بغداد سوف تجري تفجيرات وتدريبات بعد قليل بالعاصمة بغداد</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/80617" target="_blank">📅 22:02 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/80617" target="_blank">📅 22:02 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80616">
@@ -463,7 +463,7 @@
 طالما أن إسرائيل - أو أي طرف آخر - تتصرف بطرق تتعارض مع مصالحنا الوطنية والإقليمية، فليس لدينا أي سبب للخوف من أي شخص، أو التردد، أو التراجع.
 لا نمانع المواجهة. إذا حدث ذلك، فهذا ليس مشكلة بالنسبة لنا.
 إسرائيل ليست مشكلتي فقط؛ إنها مشكلة العالم.</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/80616" target="_blank">📅 21:56 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/80616" target="_blank">📅 21:56 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80614">
@@ -472,7 +472,7 @@
 ‏
 الخارجية الفرنسية:
 قوات التحالف الدولي ستنتشر في لبنان بدعم أميركي.</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/80614" target="_blank">📅 21:37 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/80614" target="_blank">📅 21:37 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80613">
@@ -494,7 +494,7 @@
 قد تكون هناك جيوش قوية جدًا من الناحية التكنولوجية، لكن في الصراعات، هناك قناعات، والقرارات التي يتخذها الناس، والتضحيات التي هم على استعداد لتقديمها من أجل الدفاع عن سيادتهم.
 قال الجنرال أنطونيو ماسايو: "كل من يحاول الاستيلاء على كوبا لن يتمكن من أخذ سوى غبار تربتها المغمورة بالدم".
 هذا ليس مجرد شعار. إنها قناعة تم تبنيها من قبل ملايين الكوبيين.</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/80613" target="_blank">📅 21:23 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/80613" target="_blank">📅 21:23 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80612">
@@ -502,7 +502,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ANblqj8TGl3H4Q9m59YBgYH2Z7FukyuDTekr9ZmcKUhA-Gyc4u2haXGHpbYwSd6CJOGsVIMQxMdoPvTxOw0iKkO7j8WeYxi29k8_2ySKJR_BFWqrskCXz5hVjMJLN1rL3xnmW9jCHgRU2lXHgz9aoCeVZxXsdsO9ykZvOKyc6_ZUCOoxrEwqub7cANkVUNEev0eJp1VSR7z6VvlZe7ssYpQy-ON9K95hC_Q-lRj5wXy_VWXkuF5GKM1_DZ5IHltpuBiWXgCh89bJWXWMeOznv5hm7vox4l5JA_-gNHzjOYYM-DXQkHcvfZDQ5mlFD9xZjbKr6YwbtvUtIdDVkyTwFQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامب:
 أعلن اليوم يومًا وطنيًا للإسكالوب احتفالًا بإجراء اتخذته الإدارة الوطنية للمحيطات والغلاف الجوي (NOAA) والذي سيفتح الحافة الشمالية لبنك جورج لصيد الإسكالوب، محققًا حلم صيادينا العظماء الذين عوملوا معاملة سيئة للغاية من قبل إدارتي أوباما وبايدن، ومن قبل دولة كندا. هذا يعني ملايين الأرطال الإضافية من الإسكالوب البري الجميل سنويًا على مائدة مطابخ الأمريكيين، والمزيد من فرص العمل في نورفولك، وفرجينيا، وكيب ماي، ونيو جيرسي، ونيو بيدفورد، وماساتشوستس، وجميع أجزاء الساحل الشرقي تقريبًا. هذا بالإضافة إلى تحرير منطقة شاسعة قبالة الساحل الشرقي لصيادي جراد البحر العظماء لدينا، وغيرهم (نصب تذكاري بيئي أعلنه باراك حسين أوباما وجو بايدن النعسان، والذي قمتُ بإنهاءه!)، ونصف مليون ميل مربع من المحيط الهادئ الجميل، حيث سُمح لكل دولة بالصيد باستثناء صيادينا الأمريكيين العظماء! لقد فتحتُ المحيطات والأنهار والبحيرات والبحار أمام صيادينا، وحررتهم من القيود البيئية السخيفة التي سمحت لدول أخرى بالاستفادة من مياه الولايات المتحدة في عهد باراك حسين أوباما، وجو بايدن، والديمقراطيين. إنه لشرف عظيم لي أن أفعل ذلك لأني صديق الصيادين - اخرجوا وصوتوا للجمهوريين في انتخابات التجديد النصفي، لأنه إذا وصل الشيوعيون إلى السلطة، فلن تتمكنوا من الصيد مرة أخرى!</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/naya_foriraq/80612" target="_blank">📅 21:21 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/80612" target="_blank">📅 21:21 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80611">
@@ -516,7 +516,7 @@
 </div>
 <div class="tg-text">🇮🇷
 المواكب الحسينية تستعد لإستقبال المشيّعين وتقديم الخدمات خلال مراسيم تشييع قائد الثورة الإسلامية وعائلته في العاصمة الإيرانية طهران.</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/80611" target="_blank">📅 21:13 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/80611" target="_blank">📅 21:13 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80608">
@@ -534,28 +534,28 @@
 😆
 ..
 امرأة تتجول منذ ثلاثة أيام في شوارع إسطنبول وتتحرش بالشباب حيث يتولى نشر فيديوات لها عبر كاميرات المراقبة في مواقع مختلفة.. منصة تركية: منذ ثلاثة أيام وهي تتجول ولم تترك شابًا إلا وتحرشت به، ورغم ذلك لم يتم اعتقالها. ماذا لو كان المتحرش رجلًا؟!</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/80608" target="_blank">📅 20:45 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/80608" target="_blank">📅 20:45 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80607">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">⭐️
 رشقة صاروخية من لبنان نحو الشمال الفلسطيني المحتل وصافرات الرعب تدوي.</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/80607" target="_blank">📅 20:21 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/80607" target="_blank">📅 20:21 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80606">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">⭐️
 رشقة صاروخية من لبنان نحو الشمال الفلسطيني المحتل وصافرات الرعب تدوي.</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/80606" target="_blank">📅 20:16 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/80606" target="_blank">📅 20:16 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80605">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">🌟
 إعلام العدو: حدث أمني صعب في جنوب لبنان ومروحيات الجيش الإسرائيلي تنفذ عملية إخلاء لجنود قتلى وجرحى.</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/80605" target="_blank">📅 20:05 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/80605" target="_blank">📅 20:05 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80604">
@@ -563,7 +563,7 @@
 <div class="tg-text">🇮🇶
 وزارة الداخلية العراقية:
 إحكام السيطرة على الشريط الحدودي العراقي - الإيراني في هور الحويزة بعد إكمال سدة حدودية بطول 50 كيلومتراً.</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/80604" target="_blank">📅 19:57 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/80604" target="_blank">📅 19:57 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80603">
@@ -571,7 +571,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FjF0KtIjK2yJg5cg3nbW-1xXRBfTSeo_57nYLpnh5Rf0QS8HKVPkJzN84ZzBEk2pbw2RcGxiB1ps7aTLZSL7RfPTta6JzVtQsTHiBB3bJsxh_kDfp4S0-TuBkXuJHFou4VocVkii-cmc3lsu_MFX5vh5wjB3b3XznjEDqMzrQC80Yi_XaggPNGcXpFpzZ1kOMAu8ZeZ8UODUc8qiizBkkzAZ4SGfOXuf9rtb01KHxw2nIHWSnTa2z8QG4DB9KJzeUxgeeBtMwMQsRtg8RcbJA8pkDOTDJ-AKzhvV2OWIli3h_sUJghjIta1wxKyYIY0tWyW_NTZh2LpSq16PO9t_sQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭐️
 غارات للطيران المسير الإسرائيلي على النبطية الفوقا بجنوب لبنان.</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/80603" target="_blank">📅 19:41 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/80603" target="_blank">📅 19:41 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80602">
@@ -586,7 +586,7 @@
 <div class="tg-text">🌟
 إعلام العدو:
 حدث أمني صعب في جنوب لبنان ومروحيات الجيش الإسرائيلي تنفذ عملية إخلاء لجنود قتلى وجرحى.</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/80602" target="_blank">📅 19:38 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/80602" target="_blank">📅 19:38 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80601">
@@ -600,7 +600,7 @@
 </div>
 <div class="tg-text">🇮🇷
 مشاهد جوية من مصلى العاصمة الإيرانية طهران حيث سيتم فيها إقامة صلاة الجنازة لجثمان الطاهر لقائد الثورة الإسلامية الشهيد السيد علي الخامنئي وعائلته ثم مراسيم التشييع والتوديع.</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/80601" target="_blank">📅 19:12 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/80601" target="_blank">📅 19:12 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80600">
@@ -615,14 +615,14 @@
 الهجمات الإيرانية على القواعد الأمريكية استندت إلى المادة 51 من الميثاق وشكلت دفاعاً مشروعاً عن النفس.
 إن تقاعس مجلس الأمن عن أداء مسؤولياته عزز مناخ الإفلات من العقاب وشجّع على المزيد من الممارسات غير القانونية.
 استهدفت القوات الدفاعية الإيرانية المنشآت والقواعد والأصول العسكرية الأمريكية في المنطقة التي انطلقت منها الهجمات ضد إيران.</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/80600" target="_blank">📅 19:07 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/80600" target="_blank">📅 19:07 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80599">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">🇮🇷
 القوات الأمنية الإيرانية تتمكن من قتل 2 إرهابيين في مدينة تفتان بمحافظة بلوشستان جنوب شرق إيران.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/80599" target="_blank">📅 19:06 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/80599" target="_blank">📅 19:06 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80598">
@@ -633,7 +633,7 @@
 #باید_برخاست
 #KHAMENEI
 https://t.me/in_front_of_the_martyr</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/80598" target="_blank">📅 18:45 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/80598" target="_blank">📅 18:45 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80597">
@@ -648,7 +648,7 @@ https://t.me/in_front_of_the_martyr</div>
 <div class="tg-text">🌟
 وزير الصحة اللبناني:
 البديل عن إتفاق الإطار هو الجرأة في الموقف والإستفادة من المفاوضات الإيرانية-الأميركية وليس الإنبطاح.</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/80597" target="_blank">📅 18:44 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/80597" target="_blank">📅 18:44 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80596">
@@ -656,7 +656,7 @@ https://t.me/in_front_of_the_martyr</div>
 <div class="tg-text">🌟
 جيش الإحتلال الإسرائيلي:
 لواء غفعاتي ينهي مهامه القتالية في جنوب لبنان.</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/naya_foriraq/80596" target="_blank">📅 18:39 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/80596" target="_blank">📅 18:39 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80595">
@@ -664,7 +664,7 @@ https://t.me/in_front_of_the_martyr</div>
 <div class="tg-text">⭐️
 بلومبرغ:
 عدة دول في أوروبا توافق الآن على أن السفن التي تمر بمضيق هرمز ستدفع لإيران وعُمان.</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/80595" target="_blank">📅 18:15 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/80595" target="_blank">📅 18:15 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80594">
@@ -682,7 +682,7 @@ https://t.me/in_front_of_the_martyr</div>
 الاتفاق بين باك والجيل الجديد سيعيد توازن القوى. أصبحنا القوة رقم واحد هنا، في بغداد وحتى في جميع أنحاء كردستان.
 شاسوار عبد الواحد:
 احتكار حزب ما للمناصب خطر على بنية إقليم كوردستان. اليوم يوم تاريخي للشعب الكردي. اتفاقنا ليس ضد أي حزب أو شخص.يمكن للأحزاب الانضمام إلى ائتلافنا.الحياد يعني عدم التدخل.</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/80594" target="_blank">📅 18:06 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/80594" target="_blank">📅 18:06 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80593">
@@ -696,7 +696,7 @@ https://t.me/in_front_of_the_martyr</div>
 </div>
 <div class="tg-text">🇮🇷
 مشاهد جوية من مصلى العاصمة الإيرانية طهران حيث سيتم فيها إقامة صلاة الجنازة لجثمان الطاهر لقائد الثورة الإسلامية الشهيد السيد علي الخامنئي وعائلته ثم مراسيم التشييع والتوديع.</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/80593" target="_blank">📅 18:03 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/80593" target="_blank">📅 18:03 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80592">
@@ -704,7 +704,7 @@ https://t.me/in_front_of_the_martyr</div>
 <div class="tg-text">🌟
 رئيس الأركان الإسرائيلي "إيال زامير":
 تظل إيران المحور الرئيسي لجاهزيتنا؛ ويحافظ جيش الدفاع الإسرائيلي على حالة اليقظة والاستعداد لتصعيد سريع وعودة فورية إلى القتال.</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/80592" target="_blank">📅 17:51 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/80592" target="_blank">📅 17:51 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80591">
@@ -713,7 +713,7 @@ https://t.me/in_front_of_the_martyr</div>
 الخارجية البحرينة:
 تعرضنا مؤخرا لعدوان إيراني غادر بصواريخ باليستية ومسيّرات.
 ‏إيران أطلقت أكثر من 200 صاروخ و600 مسيّرة تجاه أراضينا خلال الحرب.</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/80591" target="_blank">📅 17:47 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/80591" target="_blank">📅 17:47 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80590">
@@ -721,7 +721,7 @@ https://t.me/in_front_of_the_martyr</div>
 <div class="tg-text">🏴‍☠️
 المتحدث باسم جيش العدو:
 أنباء أولية عن محاولة تنفيذ عملية دهس قرب بلدة بيت أمر شمال الخليل (ضمن منطقة لواء عتصيون)، قوات الجيش تبدأ عملية تمشيط واسعة ومطاردة للمشتبه بهم في المنطقة.</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/80590" target="_blank">📅 17:05 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/80590" target="_blank">📅 17:05 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80589">
@@ -735,37 +735,37 @@ https://t.me/in_front_of_the_martyr</div>
 لنا الشرف مرةً أخرى أن نُسهم في خدمة تشييع رمزٍ من رموز الأمة والعالم.
 ⚫️
 المدير العام لمديرية الإعلام العامة الدكتور مهند العقابي</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/80589" target="_blank">📅 17:04 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/80589" target="_blank">📅 17:04 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80588">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">ارتفاع الاصابات الى 15</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/80588" target="_blank">📅 16:34 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/80588" target="_blank">📅 16:34 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80587">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">ارتفاع عدد الوفيات الى 5 والاصابات الى 11</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/80587" target="_blank">📅 16:34 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/80587" target="_blank">📅 16:34 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80586">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">‏وكالة الانباء السورية: 4 قتلى و10 مصابين في انفجار مقهى وسط دمشق.</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/80586" target="_blank">📅 16:33 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/80586" target="_blank">📅 16:33 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80585">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">‏وكالة الانباء السورية: 4 قتلى و10 مصابين في انفجار مقهى وسط دمشق.</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/80585" target="_blank">📅 16:31 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/80585" target="_blank">📅 16:31 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80584">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">هكذا يتم نقل الاصابات في سوريا بعد الانفجار في دمشق وسط غياب تام لسيارات الاسعاف</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/80584" target="_blank">📅 16:28 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/80584" target="_blank">📅 16:28 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80583">
@@ -778,14 +778,14 @@ https://t.me/in_front_of_the_martyr</div>
 <a href="https://cdn4.telesco.pe/file/f42a8a6d0c.mp4?token=sizr8aIvuEFlyfDXMmousp6nLyciOtCFiEKDgrRv7dqdX7LYohvuuhPWxfj9SX4ILd-h0OBuulflcC4RNNVvlOmabw8mzbH4TNtclsMhG8tvqPNhhVadGN5amLCUfCN-gsBkYMgCa2EmKIJ7T6_uS-mQGPslQ05LzagaxOfJE0j7oxap8FZD3DBKbX_kr2-XfhpsgaA-G1NQ6g6dhwecpNa-C8RpCsUMhl1Gp71SCE_VIIGk4sHddpZGa9r_uSMsR7JtMO99a7srf4c1_cxh8VUVzmuiCG9OlC4lCh8d03wuIRha0222f9O06KizwB6XJ5B0lypzM0l1kzCdaksQzw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اعمدة الدخان تتصاعد من جبل حريري في محافظة اربيل بعد استهداف مقر للمعارضة الايرانية الكردية بطائرة مسيرة</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/80583" target="_blank">📅 16:26 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/80583" target="_blank">📅 16:26 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80582">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aOn37EwLvhZOOFBfftf5Aiz9Ms5Rjc_zFTgeoAg5CP5GO-Se1g12o48zPDHWIzpAcmwYoVXtj5ak2DtPUELdO4YzgQWC0Doq9DOf5eQOa9yQ9yqo58imTUhXa9Y0nhF-4XH9PDbpiat0xC8dXXN1nFqUFVWV3aR3huVaDYS1bKyiip3H50AL0WNA6oQjqHNo4EJTBFPD2yqtlUXTKIFbzSqQrnNEWNKX0LSsC6LOkpVPidVV6sh-BIbksD_d_AeHnufJujAHqFCmzC7KXzx9lNWgWIVB0QwHxyifdpjwbZRf9hANot5B_XfhI6h0eQExTNZyyOJzzjDMox0EqH4ohA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اعلام سوري: الانفجار وقع داخل قهوة المشيرية في محيط القصر العدلي</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/naya_foriraq/80582" target="_blank">📅 16:24 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/80582" target="_blank">📅 16:24 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80581">
@@ -798,13 +798,13 @@ https://t.me/in_front_of_the_martyr</div>
 <a href="https://cdn4.telesco.pe/file/5487b8626e.mp4?token=tAUms2BsLXejaszZ1M4jH4nuXOJ5Ag6cSuREJEX1f28N8POZ9ZkNSHA0rBQL90hwhlpLy5vqsqqsZmG_zvaaKYPdT6lSI5SS8up15se6oYaUDRLf4MXpR2CqvXyvkUk8EVtjopnTseinqJQ9JoxEbbwGl8618Mqyyq3keJRtQP-EERyLJ3NGuquBxDM22S0xWexlAp_y9hFsw6-ewQjn9GU8xYExO1dPhc43pQFO3yXlkhCCAX9WIwhEmoikpLgOGXFTU7VvHZFZVZrMA8g156Ccf06HQnrSkdQq2f0jxv8i9Zff6UGtW41tvPBvDZoLQDrhkZ-NOXuk2ojQkHEe7Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">انفجارات تهز محافظة اربيل</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/80581" target="_blank">📅 16:18 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/80581" target="_blank">📅 16:18 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80580">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">انفجارات تهز محافظة اربيل</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/80580" target="_blank">📅 16:16 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/80580" target="_blank">📅 16:16 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80579">
@@ -817,13 +817,13 @@ https://t.me/in_front_of_the_martyr</div>
 <a href="https://cdn4.telesco.pe/file/2773ef443d.mp4?token=tJeTI8zCzLZ9700AGXPla9jt6Ip3COEY0gxL4oJYm_oLRHTaiCey230CRGz2AKY5bikzdH_q5D-UJbjv-BM8C_5jb7D-fpmLEiKovGbqlcLmYamKBkKnGbSHc4o6Fp1WyvrP9ytHmWMqp53nIDpCNNuAOQSCbPrQn89wp1TzI_b_Yia6HruC4gZyC6lYm3d7g3gSXmZZKYQ8TADkCeXnaFV9QO14-ZvAjNCuc-jyqygadh0CoD0dFzx1iY8gSmsotdWB-LlmAM1Gc2OsdPdk8PmD35h7L-ZZeJsXyPs-tvgkaXu4xcqRI12mfg66y7ihOXO7ekfv2f_24gRtILf4bA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حالات اغماء في صفوف المسافرين على متن احدى طائرات الخطوط الجوية العراقية خلال رحلة بغداد - بيروت بسبب غياب التبريد والاوكسجين طوال الرحلة</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/80579" target="_blank">📅 16:13 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/80579" target="_blank">📅 16:13 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80578">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">مشاهد من المقهى المستهدف</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/naya_foriraq/80578" target="_blank">📅 15:53 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/80578" target="_blank">📅 15:53 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80577">
@@ -836,7 +836,7 @@ https://t.me/in_front_of_the_martyr</div>
 <a href="https://cdn4.telesco.pe/file/9b37ae7cf1.mp4?token=M1BIhsbJVDIlBwuhYmfbUvuJL29i2sfBKHGfIwiYCUiteeSzQaSMs5-WILUegOzq9NbXpaVPczU_NgWZOAuO1lDXmpLbJ5pMSQv-ar0yHext3m7WsVw3AYpM2TnydyDBcv5xYIAq7GhK8xO_C4hw1CMSQ6r0GXCP90NeW0i208CjnYkFskjfI8DxEiv38vMJvowfIy3xMKVAmop6xl8-w9ewGfyMIW2TLnEC3gkvrR4fN0uMsc7JdA0Nn5g4qDEDE9oOLOJ2X5ATTaVIbSe76GkgWtgX9zI0cG0vsMAntQV0Bbtp5a6VL1Ksx4l0gpQiLUpOL6Z8R5x2R1qm6honWQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">نقل عدد من القتلى والجرحى بعد الانفجار في دمشق</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/80577" target="_blank">📅 15:49 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/80577" target="_blank">📅 15:49 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80576">
@@ -849,7 +849,7 @@ https://t.me/in_front_of_the_martyr</div>
 <a href="https://cdn4.telesco.pe/file/4afbe8efc5.mp4?token=cIyECsedckXzfVFcwDtxrgiP3uhGemz5CLRQZQdonbNoiNJclGFWNjGjxXX5Ry3rldLtTn5TLlGM0ILIdZxbCWtwVak7FdO6w90iER4cGcSUUZXb1smTDqT1RzOPz8ICqvyI0LvuiWLeBINKYTIvuHWI6kdOkns7Dl_-NrbmM6NtuDgveM3qoPaM4ixY3Xc58O7ysIZdHh7IRWNsNE9L4CgRP3naqPnhZ1f8wqOl6QaXbj7DzIok7CuUy6hf9gTL6c8SBWSq38pDsOpjNoDF0v6LONxEWW_sTtA9YcPduAfhqJsseLkRnLFCK7NnsEmdxGHY5xthNYyyxOzaFYiqeg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مشاهد من دمشق بعد الانفجار الذي استهدف مقهى في محيط القصر العدلي</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/80576" target="_blank">📅 15:45 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/80576" target="_blank">📅 15:45 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80575">
@@ -862,19 +862,19 @@ https://t.me/in_front_of_the_martyr</div>
 <a href="https://cdn4.telesco.pe/file/21adf25199.mp4?token=gAB2_T1RmjtogQYW6rSiDk2bsZWsWIXGoEZrJuJ9dtDs7ke_E9O_MSX32JS78Df2Gh-y7uibqsCcXvkxQHksrhoeg79QJ5sxBpfiW7xiwRJ9Iv1EsSK78s3SRXhoI-73btej_ejo9xO6mnO4hN5cpN1sHrJMJOGHr46ZuAsd9CnJp5wFd5M1o9OoIOYYKNqDgaCGAyh2shPyZSH00vC2FaHkg4eEG0EJXszdAQUEx0q9NfGcBV-zDlwcMCTt-HKlPP5xYAS8DPXEAOthJwFEWSF62TJauC5VwGCV11IMdqP3Qr9v3sqJOCNwzM_FRd8wyf8jde8-zXI4xKFVWEH-XyRUXZkODjmc4XSWKxolMz6LWk3yKIPuxh3mEMqWo84bF_VNcM42e_TImVtW73OFhjocR8MqDgLLY3hxg3tcGdlRrcegVQCQO4LkFQ-fbis0k74A7CDF5Fy7rHMuYtePkNsJF_t-3_nLwAsmwMqvd2vwfQUmVcDCq3E1LUloTvpwIsbq4UXl2vDDYzf3IvvBIHh6WDEkhgO_3oqHAMoiISPMAWu5bWfh_8jwas3dWozRZaOYVJGaMpUAom3scwcmVqAOV4_FELuKKiQbMmWfX5wgXgy8aSlJ7AlHvofNsydvfRRDhs8cu5Jq9bk0F69yhNBVUcjrr-3cYY6CBgAbugk" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">قتلى وجرحى في دمشق بعد انفجار في مقهى</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/80575" target="_blank">📅 15:45 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/naya_foriraq/80575" target="_blank">📅 15:45 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80574">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">سماع دوي انفجار في دمشق</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/80574" target="_blank">📅 15:40 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/80574" target="_blank">📅 15:40 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80573">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">سماع دوي انفجار في دمشق</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/naya_foriraq/80573" target="_blank">📅 15:38 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/80573" target="_blank">📅 15:38 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80572">
@@ -884,7 +884,7 @@ https://t.me/in_front_of_the_martyr</div>
 🌟
 ترامب:
 تنفق الولايات المتحدة أموالاً على حلف الناتو أكثر بكثير من أي دولة أخرى لحمايته، دون أن تجني أي فائدة من ذلك: الولايات المتحدة 999 مليار دولار، المملكة المتحدة 90.5 مليار دولار، فرنسا 66.5 مليار دولار، إيطاليا 48.8 مليار دولار، بولندا 44.3 مليار دولار. أما دول أخرى، بما فيها ألمانيا، فتنفق مبالغ أقل بكثير. (2014-2025) أمرٌ سخيف!</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/80572" target="_blank">📅 15:34 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/80572" target="_blank">📅 15:34 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80568">
@@ -898,7 +898,7 @@ https://t.me/in_front_of_the_martyr</div>
 <div class="tg-text">🇮🇶
 ضمن استعدادات التشييع..
 الحشد الشعبي يواصل استكمال نشر المظاهر العزائية، ونصب الرايات واللافتات في المواقع المحددة</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/80568" target="_blank">📅 15:33 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/80568" target="_blank">📅 15:33 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80567">
@@ -911,7 +911,7 @@ https://t.me/in_front_of_the_martyr</div>
 <a href="https://cdn4.telesco.pe/file/d1ed8bed24.mp4?token=M8YnHFZXVZvmk-DJTyHyy3lk9VX-UCA4mEHsaHDyg-Tnz0Ga5nlhnRo6BP84vv1hgAFT_T7npAJaRgF-uCqhD-Nf-yfqm_yhDTsbCZhjHYEM-dG-Qwgk9pja60eE8VVUB5RiGL1onjqEmXhi7QfRNEkEbXChLYA0PE12G1I6d9Xi6Le1zcIjHw5R2bYtxzVFTXlx1cZ4x1u1bQvy1mfopx8X0HDpDgt6xyxr1aQtW2pPg_xUZwT-D_U4bn3UFc5IY9LJsBDCuD6lyd_RCYR-m4fEQfvHmI84GsJ0V0E4dmy_c4Ei_FskIG4NcnfpYkdLNSi5_pnqIUgfabzYcObkTA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حالات اغماء في صفوف المسافرين على متن احدى طائرات الخطوط الجوية العراقية خلال رحلة بغداد - بيروت بسبب غياب التبريد والاوكسجين طوال الرحلة</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/naya_foriraq/80567" target="_blank">📅 15:16 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/80567" target="_blank">📅 15:16 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80566">
@@ -924,7 +924,7 @@ https://t.me/in_front_of_the_martyr</div>
 <a href="https://cdn4.telesco.pe/file/b39a62f24c.mp4?token=VJyO0B8CpaE5pwSU6WXFLwnAjspqWG593nYHy8hkk4RIgMc_Xj-E08uH-vnyLxIOFdgD3ky4DhzDBmJqXfBRNiPxyjqsFvbA-VsCpCe-Of5w59fQG7UP9yPa9yRIuPLWS9eYL8qgWKj3gfwpA3yf2iFLV_tPeObIpBbrTMsRbMFdGPzdM_MtsQbD6SIHuidxSFKdyPCvDfxxq7azx8NwTcVG-GCzxfGOq1LBKErtqQS8cCI2OShYrNqc324aI4N66LnjNEf6p85_1UEjdcQ7AdpdrtsAo7BJSyOiEsWZe7yNgQgJcluJx3iWPTsC8vhjqF5uXZY5dHt_mtIK7sLeZg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مشاهد من التعذيب الذي تعرض له الشبان الاكراد على يد جيش الاحتلال التركي</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/naya_foriraq/80566" target="_blank">📅 15:15 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/80566" target="_blank">📅 15:15 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80560">
@@ -938,13 +938,13 @@ https://t.me/in_front_of_the_martyr</div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/P74J4qZx_TRJjVpaA26Hz1Rskkv543aLJUSFtB02qiq1osDxwDRzU-1CjTJX7zHbUYgRQMahWYF5PmF5UGLBnTELAEtsvHWHs6U3qiiXU0kFLWDWWgE2VBksaU4ki-NxCikrq3-YfZ6QuJEMJc3LDc0D1MBHMWYT0M6wcFqnU2LdYAzkpcfpJlM-ClBLZP9C8n98uKtBKflUrUSWDQphz-7bPgiI8IYDKVCUWHinL6zz18cRUKWS6_v7_sXSVrBtRQnHxo8PaWnf6HydlcIJbbnuVxe6-t3YmIdluTZjWb1OWhjiRe5aWZL9NJU7peoYaATuplC_4ShF3t4lgG3ANA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">جيش الاحتلال التركي يلقي القبض على ستة شبان اكراد في قرية شيلادزه ضمن اقليم كردستان العراق ويطلق سراحهم بعد يوم من التعذيب</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/80560" target="_blank">📅 15:08 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/80560" target="_blank">📅 15:08 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80559">
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">توقيف الإعلامي حيدر الحمداني في كربلاء المقدسة بعد شكوى رفعتها العتبة العباسية</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/80559" target="_blank">📅 14:55 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/80559" target="_blank">📅 14:55 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80557">
@@ -954,7 +954,7 @@ https://t.me/in_front_of_the_martyr</div>
 أيدينا على الزناد، وأنظارنا مصوّبة نحو العدو، وآذاننا صاغية لأوامر القائد العام؛ فبمجرد صدور الأمر، سنخوض الحرب ضد العدو.
 المفاوضات تقع على عاتق المسؤولين السياسيين؛ وهم يؤدون مهامهم.
 التفاوض معركة تُخاض في خندق مختلف. ولا نواجه أي مشكلات تتعلق بالأمن.</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/80557" target="_blank">📅 14:36 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/80557" target="_blank">📅 14:36 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80556">
@@ -962,7 +962,7 @@ https://t.me/in_front_of_the_martyr</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DYOaGzq1qf1Kb7HQ9vPIKl3kQGwbitzXTE-ZFCA_OnnnLRY4Ge1pqxqDVtu0czf04mcYLKFtmN5Al96bK0fXW5VKrKBKeG_MtkEozLKBmQu5RXehzoXsWhTRClrVn54voQvdX66QK-liImgtexRXgGmqACl9AxNSh05rKxYLntywFILHBawq_GT5FWKCcHGHx6e-Pl2hz1nOBfrpeTuB852LCtIM-9XCqYcIGsZ-iwqFaINj7vnX7KFXquRJdXcofd1Ha4JI9fvQ4NSKhmeumcQfSnMlVRMhPPMBgDQkSGOUHpxh75kqyZO1wl2grZ_AMay1ogY9BqUbcfIpTFKRAQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇪🇬
 السلطات المصرية تلقي القبض على الرادود الحسيني العراقي السيد مشتاق الأعرجي إلى جانب نحو 50 شخصًا من جنسيات مختلفة بينهم عراقيون ولبنانيون ومصريون وآخرون أثناء وجودهم بمنطقة السيدة زينب (ع) في القاهرة خلال احيائهم مراسم عاشوراء.</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/80556" target="_blank">📅 14:14 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/80556" target="_blank">📅 14:14 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80555">
@@ -970,28 +970,28 @@ https://t.me/in_front_of_the_martyr</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/raCINI53BwIE2f7zeDUWITX8FjTBBftueJkGsWdVsMsxnyM3iD_JjR9aCNMsefBxiroWkxQD08Mlo2Len978SVbSvvcX7_jJ0IgW2NcMBy36GkyKcIBHSEjQYOat8WHeu1LCawL6oB915w3LdFq1acvS4Kv8AzpDexPhJz1CivnY8ycRXLJs88tdzNOmCByejgzY8IHtz8DlcmM3MqWH67wqiXY1KOurEWl29sN-NJDE1OVK44QMAWhW14gUG6x-hOZzr10y2-ZhNkCRwIhRjPEYnVm7BsIlQyiGurDiQbRTdk1OcBBS94eSkw14DIR3wQizJWMDY9D51CQeu3YL7w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌟
 محكمة التمييز العراقية تصادق على حكم الإعدام شنقاً حتى الموت الصادر بحق المدان عجاج أحمد حردان التكريتي بعد إدانته بارتكاب جرائم إبادة جماعية وضد الإنسانية وأغتصاب وجرائم قتل بحق محتجزين من ضحايا عمليات الأنفال.</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/80555" target="_blank">📅 13:09 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/80555" target="_blank">📅 13:09 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80554">
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">🔻
 الجمهورية الإسلامية الإيرانية تعلن تعطيل الدوام الرسمي يوم الثلاثاء 7تموز في جميع أنحاء البلاد</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/80554" target="_blank">📅 12:50 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/80554" target="_blank">📅 12:50 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80553">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">قناة خاصة باللجنة الاعلامية المركزية لتشيع الشهيد الامام السيد الخامنئي "قده" في العراق
 https://t.me/KhameneiMediaIQ</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/80553" target="_blank">📅 12:16 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/80553" target="_blank">📅 12:16 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80552">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">🔻
 اللجنة الإعلامية: ستُمنح كل التسهيلات اللازمة بما يضمن نقل وقائع المناسبة بصورة دقيقة ومنظمة</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/80552" target="_blank">📅 12:12 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/80552" target="_blank">📅 12:12 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80551">
@@ -1000,7 +1000,7 @@ https://t.me/KhameneiMediaIQ</div>
 سيُعقد مؤتمر صحفي آخر يوم الأحد أو الاثنين، للإعلان عن تفاصيل تنظيم مراسم تشييع الشهيد القائد السيد علي الخامنئي (قدست نفسه الزكية).
 ▫️
 الاجتماعات مستمرة مع جميع الجهات ذات العلاقة بمراسم تشييع الشهيد القائد السيد علي الخامنئي (قدس)، ونؤكد أن جميع الجهات…</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/80551" target="_blank">📅 12:05 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/80551" target="_blank">📅 12:05 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80550">
@@ -1011,14 +1011,14 @@ https://t.me/KhameneiMediaIQ</div>
 أُعِدَّت خطة متكاملة لتنظيم مراسم تشييع الشهيد القائد السيد علي الخامنئي (قدست روحه الزكية) .
 ▫️
 نهيب بالمواطنين الكرام التعاون…</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/80550" target="_blank">📅 12:03 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/80550" target="_blank">📅 12:03 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80549">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">🔻
 اللجنة الإعلامية: ستُمنح كل التسهيلات اللازمة بما يضمن نقل وقائع المناسبة بصورة دقيقة ومنظمة</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/80549" target="_blank">📅 12:01 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/80549" target="_blank">📅 12:01 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80548">
@@ -1026,7 +1026,7 @@ https://t.me/KhameneiMediaIQ</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AoRoEjI544r7BJGYuWxa3GLDP7O2I3-c6j1MLEHce8zKC3bcCsJVsvSYun7Ch2sb50Bup4x82K5FXVavNIFQc_73sxTqmSNwpQgGg1Lk-DmX0SECFRGjLgSPMBMWK2yXIcCjLv34U21UgMWXckQ9z8nLIriK4i2X14v7RR15iJqYF-TgvaMv7E_OfacGyfnB8eO0cOPyGwFXipmCRW6ibvBmHdjqXfWuCHHodjdjQVB3zECe9RrQO0RPxu9QA304hMHb31GifuU0CIhEwDKMawSyzJ9-gAFBVT0tUcNZISFafOenfmuA0EKqx3kuc84JAK8q-7U31_A3QXPUfb07ZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔻
 اللجنة الإعلامية: ستُمنح كل التسهيلات اللازمة بما يضمن نقل وقائع المناسبة بصورة دقيقة ومنظمة</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/80548" target="_blank">📅 12:00 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/80548" target="_blank">📅 12:00 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80547">
@@ -1040,7 +1040,7 @@ https://t.me/KhameneiMediaIQ</div>
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">🔻
 ترامب يُفاقم شعوره بجنون العظمة.. حيث نشر مقطع فيديو تم إنشاؤه بواسطة تقنيات الذكاء الاصطناعي قدم نفسه ك طبيب يقدم خطة علاجية لما وصفها ب"متلازمة هوس ترامب"</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/80546" target="_blank">📅 11:21 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/80546" target="_blank">📅 11:21 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80537">
@@ -1053,7 +1053,7 @@ https://t.me/KhameneiMediaIQ</div>
 </div>
 <div class="tg-text">🔻
 مشاهد من مراسم وداع المعلمة الشهيدة زهرة حداد عادل، زوجة السيد مجتبى الخامنئي في مدرسة فرهنك بطهران.</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/80537" target="_blank">📅 11:03 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/80537" target="_blank">📅 11:03 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80535">
@@ -1061,7 +1061,7 @@ https://t.me/KhameneiMediaIQ</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WLxITr5taKFXnD9FeeH3MGIMO76BeLBRmdFk0jozf1doMXXXwGaCxLt9GFFbsQcBDKUnVY8-oxrTms2m9VKiXWidiZokU8TUQEUUS5YeC7FUhHPE5rABf7Lu_Bnq59wNILaAr5ochJQlLy8RsywwpPiqhKi2DXrvGQFhVHqnQUb_ylEgTSDMHSSn8Mt2f7Q9OL5DLwBK06xSzsK-m6PEDWTqEdUvbCQbCrHDjBbO9I6lrl0Ck2T2AuUghiMkJchKMVZezDDn_SeMAklDw7FuRFGZnK8p5veVkuSaJUaF1Q9n58xsolN4g3W_6dzdOj3t5BjC9sLbhLip1jYyJOzWAQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔻
 عصابات الجولاني الإرهابية تطلق قذائف ورمي بالأسلحة الثقيلة والخفيفة في وادي بردى على الحدود السورية اللبنانية بحجة التدريبات العسكرية.</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/80535" target="_blank">📅 10:47 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/80535" target="_blank">📅 10:47 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80533">
@@ -1072,7 +1072,7 @@ https://t.me/KhameneiMediaIQ</div>
 ندعو مختلف شرائح الشعب، ولا سيما جيل الشباب وبناة الوطن في المستقبل، إلى إظهار وحدة إيران المقدسة وتضامنها الدائم من خلال حضورٍ مهيبٍ وفريدٍ في مراسم وداع الشهيد العزيز وأفراد أسرته، وتخليد ذكراه ومحبته للمحافظة في التاريخ، والإعلان لروح الإمام الجليل أن أمتنا، بفضل تضحياته الجليلة
 ▫️
 أنا، مع جميع قادة ومقاتلي القوات المسلحة للبلاد، إذ نجدد عهدنا مع الإمام الجليل والإمام الشهيد للثورة والشهداء الأعزاء في الدفاع عن الوطن، نعلن استعدادنا التام لحماية استقلال إيران الإسلامية وأمنها ووحدة أراضيها، ونؤكد على الطاعة المطلقة لتوجيهات خليفته الصالح، صاحب السلطة العظيمة في ولاية القيادة والقيادة العامة للقوات المسلحة، آية الله الإمام السيد مجتبى حسيني الخامنئي.</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/80533" target="_blank">📅 10:36 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/80533" target="_blank">📅 10:36 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80532">
@@ -1090,20 +1090,20 @@ https://t.me/KhameneiMediaIQ</div>
 تمّ اعتماد هذا القرار، وبإذن الله، سيُنفّذ صباح يوم الثلاثاء الموافق 7 تموز، وفقًا لظروف ومتطلبات الوقت، وبعد وصول الشهداء والحشود إلى مسجد جمكران، ستُقام الصلاة هناك
 ▫️
 تجهيز قدرة استقبال تصل إلى مليون زائر لتشييع الشهيد السيد علي الخامنئي في محافظة قم وتم توفير جميع الترتيبات اللازمة.</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/80532" target="_blank">📅 09:21 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/80532" target="_blank">📅 09:21 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80531">
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">🔻
 اشتباكات بين الجماعات ارهابية وقوات الحرس الثوري الإيراني في منطقة قازقابان بمدينة بيرانشهر شمال غرب إيران ؛ مقتل 6 إرهابيين كحصيلة أولية.</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/naya_foriraq/80531" target="_blank">📅 09:13 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/naya_foriraq/80531" target="_blank">📅 09:13 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80530">
 <div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">عمدة كييف يتحدث عن انفجارات عنيفة تهز العاصمة الأوكرانية كييف نتيجة هجمات روسية منظمة</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/naya_foriraq/80530" target="_blank">📅 02:43 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/naya_foriraq/80530" target="_blank">📅 02:43 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80528">
@@ -1114,7 +1114,7 @@ https://t.me/KhameneiMediaIQ</div>
 </div>
 <div class="tg-text">🔻
 وصول قوة أمنية كبيرة إلى محافظة صلاح الدين حيث فرضت طوقًا أمنيًا حول منزل تمهيدًا لاعتقال عدد من الاشخاص.</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/naya_foriraq/80528" target="_blank">📅 02:05 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/naya_foriraq/80528" target="_blank">📅 02:05 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80527">
@@ -1234,7 +1234,7 @@ https://t.me/KhameneiMediaIQ</div>
 </div>
 <div class="tg-text">🌟
 أرتفاع عدد قتلى الزلزال في فنزويلا إلى 2295.</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/naya_foriraq/80515" target="_blank">📅 21:40 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/naya_foriraq/80515" target="_blank">📅 21:40 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80514">
@@ -1247,14 +1247,14 @@ https://t.me/KhameneiMediaIQ</div>
 هو الزائر بعد فراقٍ دام سبعاً وخمسين سنة.
 ألبسوا المدن سواداً عليه وغضباً، فهذه هي الزيارة الأخيرة قبل الوداع الأخير.
 ولا تدعوا هذا اليوم التاريخي يفوتكم .</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/80514" target="_blank">📅 21:16 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/naya_foriraq/80514" target="_blank">📅 21:16 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80513">
 <div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">🇮🇷
 الخارجية الإيرانية: تقرر استخدام جزء من الـ6 مليارات دولار المجمدة لشراء سلع بناء على احتياجاتنا.</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/naya_foriraq/80513" target="_blank">📅 21:14 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/naya_foriraq/80513" target="_blank">📅 21:14 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80512">
@@ -1263,7 +1263,7 @@ https://t.me/KhameneiMediaIQ</div>
 الرئيس الإيراني مسعود بزشكيان:
 لو أمر القائد بعدم التفاوض، لامتثلنا للأمر بالتأكيد.
 الدفاع عن القوات المسلحة واجبي وسأدعمها بكل ما أوتيت من قوة.</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/naya_foriraq/80512" target="_blank">📅 21:05 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/naya_foriraq/80512" target="_blank">📅 21:05 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80511">
@@ -1271,7 +1271,7 @@ https://t.me/KhameneiMediaIQ</div>
 <div class="tg-text">🇮🇷
 الخارجية الإيرانية:
 تقرر استخدام جزء من الـ6 مليارات دولار المجمدة لشراء سلع بناء على احتياجاتنا.</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/naya_foriraq/80511" target="_blank">📅 20:40 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/naya_foriraq/80511" target="_blank">📅 20:40 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80510">
@@ -1281,7 +1281,7 @@ https://t.me/KhameneiMediaIQ</div>
 تحاول الولايات المتحدة إقناع إيران بالتخلي عن فرض رسوم على مضيق هرمز مع استئناف محادثات الدوحة.
 يشارك مفاوضون أمريكيون وإيرانيون في محادثات في الدوحة تركز بشكل أساسي على مضيق هرمز، حيث تجادل واشنطن بأن إيران ستكسب أكثر بكثير من صفقة نووية مقابل فرض رسوم على الشحن.
 وقال مسؤول أمريكي: "كانت رسالة الولايات المتحدة إلى إيران هي 'فكر بشكل أكبر'، مشيرًا إلى أن رفع العقوبات بموجب اتفاق أوسع سيكون 'أكثر قيمة بـ100 مرة' من 'استخدام أسلوب العصابات في محاولة فرض رسوم'.</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/naya_foriraq/80510" target="_blank">📅 20:23 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/naya_foriraq/80510" target="_blank">📅 20:23 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80509">
@@ -1296,7 +1296,7 @@ https://t.me/KhameneiMediaIQ</div>
 <div class="tg-text">🌟
 🌟
 غارة من الطيران المسير الإسرائيلي على بلدة النبطية الفوقا بجنوب لبنان.</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/naya_foriraq/80509" target="_blank">📅 20:21 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/naya_foriraq/80509" target="_blank">📅 20:21 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80508">
