@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-12 22:33:56</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-13 00:05:52</div>
 <hr>
 
 <div class="tg-post" id="msg-2471">
@@ -313,7 +313,7 @@ github.com/GFW-knocker/MahsaNG/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/ircfspace/2471" target="_blank">📅 07:58 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/ircfspace/2471" target="_blank">📅 07:58 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2470">
@@ -327,7 +327,7 @@ github.com/GFW-knocker/MahsaNG/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/ircfspace/2470" target="_blank">📅 07:44 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/ircfspace/2470" target="_blank">📅 07:44 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2469">
@@ -343,7 +343,7 @@ alirezashirazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/ircfspace/2469" target="_blank">📅 07:36 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/ircfspace/2469" target="_blank">📅 07:36 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2468">
@@ -357,7 +357,7 @@ alirezashirazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/ircfspace/2468" target="_blank">📅 08:43 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/ircfspace/2468" target="_blank">📅 08:43 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2467">
@@ -398,7 +398,7 @@ Mehrdadlinux
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/ircfspace/2466" target="_blank">📅 08:24 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/ircfspace/2466" target="_blank">📅 08:24 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2465">
@@ -430,7 +430,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/ircfspace/2464" target="_blank">📅 12:41 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/ircfspace/2464" target="_blank">📅 12:41 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2463">
@@ -507,7 +507,7 @@ shokhmatic
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/ircfspace/2459" target="_blank">📅 20:28 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/ircfspace/2459" target="_blank">📅 20:28 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2458">
@@ -719,7 +719,7 @@ github.com/MortezaBashsiz/nipovpn/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/ircfspace/2445" target="_blank">📅 08:57 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 46.5K · <a href="https://t.me/ircfspace/2445" target="_blank">📅 08:57 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2444">
@@ -1047,7 +1047,7 @@ github.com/genyleap/GenyConnect/releases
 
 <div class="tg-post" id="msg-2422">
 <div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/laWR-aBNLE1Y1uhTFjsjjyMKU-jsQSRMT7R0E-vH5yvwiACE7KUp9c2Ld4InE0b9fd5afCXUKjRxTK2uTlN68gjDJadiSuOpXyb91rHHRZsv2cAr2j_juFKRp0g_WuwURDvdBXo3ZIalN_f_XN5NQzG-npNsRh25sBVD3WukSu22Wo9vnPl-UqzrwdaRloZYhg91DB33Eah_F7T4HIi0OM4FhS4xuoMoeKeJQK8BleoKmLTvlPTWbFvR7F0XoYwT7kritHTnh68W3lp9T6-yQeGQHU-Ks-DIRd6Ca6_9lHx7tMb8XS1jBYZMkdy_RSQuiAOYCBa1oFdY05l3ojr1Dw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/pI4mbP0DT8QYvFqESuU2uI64VxVBWphLEVBJC8ImglqQaB7qPki0fMSHshnuThk0I8g_8KdyLuscty0x--t12CJQUS9dMBloBmNId3oo4_p_BH6U5VNddhjyucTOtzio2mrnWwS6SboY4kqyF6LhJQOs_dwYtujz20T1sEAkK5EOUFXP-BvhSJZOgnScbcXRI02WvkeSPqOnZdLw7YiCHCaKGwnYIbFRl6cf97ySqFpiu_GXqnT2Rq5cmpQsCh6MwkUvMbqrU8CP7xUUtxtO-abDSlP5OBUg9YP0hON_gupffwLSzsBx3ClgLCHb7kMlV44rgkkGEUXJcQ9CC1xUJg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه آیفون از فیلترشکن
 #شیروخورشید
 با نام AzadiTunnel در اپ‌استور منتشر شد.
@@ -1137,7 +1137,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2417">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/chLIfXyJ8C9644oIqX-IF5KqDc-paZek5BtjbREKMaPKStoB_-39QxHfFLzL6uXddmvLaLRCoVBj3uHKoSXo3zsFD41tnDoSQ3_v7ZnAVkf2Aj9ndDpLUgqSHLbvkuOpvdAsoEyqvvTXSEaqPZcE9i3kZb_nIZnqNiQaoeP69-jdSKhRxcuyIhIKfaYxnUwwnRBM6PJOjyUX2upxaH4FUgGOFKcm71INvGUwjaSd4d2RAwyJzQUJJKgXUURSI_ooP5hlLTRO_dSEoupwIeP47AKlVw_b3xWn7HKXbYNExnfd-3-Xr94mFQUHdaqKz1cuq3pkrujvoBPMIZGvKQkbHA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sEhxJZyDUklCklAPIYld825SIwR4FCIhbDqxdyAE2BGOSheW9l3Ig-dcz300eluZI0Q6S338NUciRYENvQ4PFJgpL9Iq1ZqpFGnyhKgA-d9v60xEukuQaS2CbXMa7kUj2AESyorD-JEGpd0ewv0RAeVMHKuIqPI7SiSno8T1s9unP9TLwE7SeON_VFQ5oZtUE9_HWW4bStOV1TaIxT_Mlf74EcaogcB4cj0CXkaLEz0OVVzUYC3ml0ZJvYUMkDSDgJZKEZ9uRpFcCpAYNnw58khkJVpVcGOqq7WqqT5yNWERhddlxNo4Gru8xjXv9yanNph-Yym-Zc7zw8kmPgO5sg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر RKh CFS یک ابزار رایگان و متن‌باز برای پیدا کردن آیپی‌های تمیز کلودفلر هست، که از IP تکی و CIDR پشتیبانی می‌کنه و در نهایت نتایج رو بصورت رتبه‌بندی‌شده برمیگردونه.
 👉
 github.com/rezakhosh78/RKh-CF-Scanner/releases/tag/v0.1.4
@@ -1452,7 +1452,7 @@ t.me/PersianGithubMirror/5676
 
 <div class="tg-post" id="msg-2398">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/K5RjVqvTWXHEtpwB3tijvOG7sfSZwfUFs7whyS4YAMCvEN_ZROzLpcC727mmiqM1B8N0xo_ezPhHm3prl5bXXwZJYqErtHXTaUsGH_Jx0Uh8IQxEFEBHgebU4onvY8CVwOJ3t7Q4iHrvlEiBQEyJA7YrJXWsfbjCfHCvAUuoa3HnGwhfhSn9VLU3iop7KlnGK-1xzqVK6u_Y7MBTgw0sEX0dRwk5PHK8Z5HxFMrJS0pRGV3lIGX-39AZ-zr33q_hNdeV6HrG7IBlAD1BpZx3aVwUuyTz-RiB4Q_2cI6mW5_NOp36cHUElbc5jjDSH3yV_vWe9ugyGr1bcfH8HGfQlg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/g6D9SuPUu7wYh2uFXn4qeIzdBNv9Vv3KbN865bjlaMCsqJnJrkHrILebjr012hufNP9jMEAoapTkbGyvAU0WALSnuAzOTiqrEYMtJsSOBbUaHKS-MFoa-WvyutfzANi8MYrn-L8IA88jfZr1D17tiF-C03IENBqyDgzQpEbotGY5EeXTXxmptTTrKW70of3BEj21hI9OGjzaTbts3GtFnYnqZbVTJjIkgG4ry9DcMImuffJVVfYsCYc-cY6m2BfegtRCzTMbyF0WCzCvmr_67ZmxW-NHe9xjS2Y6NQBSSDpWmaGLmjKzg4-uwmKUah0pvy2PgYN9GZZP-hnowntXGw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در بروزرسانی جدید از کلاینت NexaTunnel امکان پشتیبانی از کانفیگ‌‌های Xray در کنار Stormdns, SSH over VPN, WhiteDNS برای iOS فراهم شده.
 👉
 apps.apple.com/us/app/nexatunnel/id6766783641
@@ -1817,7 +1817,7 @@ AmirHadiAnvari
 
 <div class="tg-post" id="msg-2373">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lAKg3YoGgf8xu_rdhKWu4iO0GWdevrHQL5btgkU2qsTEg-K6CpRgSoIYy5YK8FHHYtKRqPaIh2FC_votKfYnG_whFO-TFOc3Sy4lHyYvFL_TktYs_7F_2tqWTzOaPk8gQl-F8u2vjHWGvPkn6hlhyQEkCoRavYPEzBo0iJwtPXveb4bgISCki4CKWjc5BT2ZC4IIu0KyAO9BBw9lj4HVSPOD4ib6CX828_cJqkEMx04Q16GIFqIGVT85TUGAPtp3iUwLyHPPfX_PI-kWSXrzpP_zE93h02qFemOtcnkqFTpzSHp_XA13b81s2lJEBdziNdNov6Ik070_TYbkzGhiDQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nPZyxf-VKOJiCozmwVjdp6ARwpJ4vDxv3mJaITLWt-_hFIxEnFtZhrkEVMUReMaqnHPEkaXtTWSn2kf-XeED48Ci1txGoDAn3hMntAwRrOZkILVza5M_aETrMYKRPSbe8rtKoSdFR82fDmWK4w0rITFIC_lbslG1-ynwcGPniJ5dXto-RiP4o0YDslTtOkXXl6bWMapT5Fye-XyJvzDW7WWTKh0-YrnzyEszl06S9Wr0RrF8PZv_WM9HlZWhsrl4cGXyyuE3U3O0Lyvf0ZQeJiDmxGHmWa3_OQ6V5zn4xsFMTbx_af9ODuFTt2BN1-BhBtAGWlp-T99UsVyXOQy1nA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">طی یک عملیات بین‌المللی، سرویس VPN موسوم به First VPN که توسط مجرمان سایبری، گروه‌های باج‌افزاری و هکرها استفاده میشد، از کار افتاده. در این عملیات بیش از ۳۳ سرور توقیف شده، دامنه‌ها و سرویس‌های Onion بسته شدن و یک مظنون در اوکراین هم بازجویی شده.
 مقامات میگن این VPN در تقریباً تمام پرونده‌های بزرگ سایبری یوروپل دیده شده بود و برخلاف ادعای بدون لاگ بودن، نیروهای امنیتی به دیتابیس و اطلاعات کاربرانش دسترسی پیدا کردن و هزاران کاربر شناسایی شدن.
 ©
