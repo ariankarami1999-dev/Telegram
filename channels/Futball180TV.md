@@ -288,25 +288,1072 @@
 <div class="tg-channel-header">
 <img src="https://cdn5.telesco.pe/file/hUEp8XfCtW9Z6zlJulYiyVgtsTiHF-ATVrStROt45Au4lncQBrxpxkxE7MvsHaoE6Zzypv5CecIUaIn9aYTa55D7qhKNd2Vngcow0IOj6Umwcwd4b-edKrosf-w1w425pidIkYSQV3Qdb7y4ZL2MrwEUyVKmuPjcVKW111328VUdbsaei5kQxiNrTjUSLn4JeCOXsUqvsKrI9lzosuOI6nBw6JBlGS3gM_Sz6SXo0_e2SKkn-e25XQe4MakN7q-C4pq7pVTW1eKe_F5Az6keGmkQ58VWRcVod2aEOO1fLVT-udjXUOk75JkbwNwi3UguNq6Que5AjQA_57XW3YpmiA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 جام جهانی 2026 | فوتبال 180</h1>
-<p>@Futball180TV • 👥 646K عضو</p>
+<p>@Futball180TV • 👥 645K عضو</p>
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-13 02:32:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-13 04:34:58</div>
 <hr>
 
-<div class="tg-post" id="msg-98001">
+<div class="tg-post" id="msg-98107">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IfwDc8GzQhDFX-A2sk6vhyRZXZdo-RSTLkU2Qbd3FDWI_VvZ0NpdoBOazq5lVBsWtfSp6rWknwWGjZq_S8fcN4lymtjMz7_OoHwi1aZClX0UgIXGfv4GxvuYbCkm28HMqB37UEFaP_0niNEFYQJfYaoPXTtQTF8lQux8X-WcpYp8rDBKoTOTAnm1NYzVE70dY5K0jxmNv3E1SJk7PrEK0RPpxRx78BBe6ImxhamUC3FfNpUE_LTO-0XUy4nX2yM2TdolGh2YkahDGBZBJJbVk4pmQgOl_nEojvZvelGbEXdPwWfcSm_jC4qdV2aS9UAjXQPOm3UnYmuqmDXGj1jJjw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">شاتوووووووووووو
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 2 · <a href="https://t.me/Futball180TV/98107" target="_blank">📅 04:35 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98106">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bhL5QKPpgmcCSzyQLpH2gambaLVK7xP4Ipeyju8ORd2b4yughgGtaoz_1FbTDZKIQg_RhUfnFPOqbE2xtzcAhJpLRRLwS3tQYzNmCiBEte3r6g0tsQ_hFugKgZgsy-jptq8QmiFkromwJhj9uN-V5SV3C9Ouri3kef6xE2Jd68tAENIOkv71UUbvt_WG5LswHQQKxqQyc3245VS9u12pj-rZaskVarNmFLcHTqlKUufAgLjGwe9UkxrXPt-zd0pgwbLoyHIhCh1FUkuPEKTD8abBadvYe7l245Y8ip4zLAV5_rJ7yaopJB_gKJV5Yxlx_vIeZr_8Ml1T0dQ8gVxigQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">شاهکار خلقت در ۳۹ سالگی
+🔥
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 1.01K · <a href="https://t.me/Futball180TV/98106" target="_blank">📅 04:33 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98105">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-text">🚨
+🚨
+🚨
+🎙
+🇦🇷
+🇨🇻
+لیونل اسکالونی:
+«می‌خواهم به حریف خود تبریک بگویم، آن‌ها امروز ثابت کردند که یک تیم بزرگ هستند. وقتی می‌گوییم که در جام جهانی بازی‌های آسانی وجود ندارد، این واقعیت دارد.»
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/Futball180TV/98105" target="_blank">📅 04:31 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98104">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GPzHPiI8HNGSTeBHLkBxHxGA8bllAtaGpOXUrOihAk3sALiF_hl32aivKoGKWm8tm_M5jWHwzn7XwUThYmv6ImzWULs7sgDl_GMXNrVuwgZuFf7xFQdUo7tprzWuf_pmOi5mxHxNZKrxv6-ZZInoU56QQqaFSjtAXCFsb6NhptLAq4MScLkadzCVkyOHvKF-RYnNFv0ifV7SoAOvlrZ3TqOUoBu0aVvKl3izGDKUSD7ubWMe6FnD0GXF3P06bAQ8kJBy12H2tKors_pZ3_9Kjxr3IKP96Z8wshPqmX5khjV-d9Eq8cXGS1B8qk0vEu1o-JQGDwaSu7mgSFCldYaUFQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🚨
+لیونل‌مسی بهترین بازیکن زمین شد
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/Futball180TV/98104" target="_blank">📅 04:30 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98103">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iTAnSbrxUj-NABfceo3i9xAZizEnVN8qLI8Fe6xBaTkMCp-pKfx4SO2mH5rIkZcd3IDCa-RilTZqqqKg8O5NIbsthdKAEbDdj-uOZvDjllkxdgKa5-lrF5q-8onXpiTSUyaZefm5ywwDGxfit_FXjPp8vMRKOXMFnnaMsunQwOi2PEVJejiwTfH1wTsysNBziLj0L68IJG7LMxsjTWrXDJrGe18cwl_qn6S4DhynYuCop5t18EO2j3GATF7uLODOKYFRqVQdBUxyzs_cKJ9qjRCiWW0nqJikebTz_H9VZIe6YaBprDjk024p8VtOcVMkz0vUy5UclNy-rI_sU20-Dg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🚨
+📊
+🇦🇷
+#فکت
+؛ آرژانتین (از جمله در ضربات پنالتی) در ۱۰ از ۱۲ مسابقه‌ای که در جام جهانی به وقت‌های اضافه کشیده شد، پیروز شد (۴ برد مستقیم و ۶ برد در ضربات پنالتی).
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 3.02K · <a href="https://t.me/Futball180TV/98103" target="_blank">📅 04:29 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98102">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZWIZsjDzRmotjMsgoXnhCDc0G3rX_7R2qR4WgSTqeNpYO0jga0o8URV_xWNGbcz5kRaC5-hVTVYfuMt-RmPzweCz7_w6-VxdDBNIw_1f5AXuou7Dk8OIIn5wpeI08UnxryG70nqa3GeSZi5yzCAL1FcQ7B-eVMxRBHeHKmCAFbQuSQWGeYvxvVLMdtXpVRYKt_9QPIND_h_pLulqKwdO-MfGfRzFgXPIJ1DLZ1xiJ4pwButKIYGNOoifmqfQl7xavlp4YZv0n9Ty2lGK-QMb0UcsaxoLXbDZ867Isu3zxeTmsio6tudJ-uYcEQCPJnh0S3-XnhRpR2HZ3qkiReKK7g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+📊
+گلر کیپ‌ورد مقابل آرژانتین
+🇦🇷
+|
+✅
+— 8 دفع توپ
+✅
+— 5 دفع توپ از داخل محوطه جریمه
+✅
+— 3 دفع توپ خارج از محوطه جریمه
+✅
+— 1 دریبل موفق
+✅
+— 8 پاس بلند موفق
+✅
+— امتیاز 8.4 از
+📊
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 3.08K · <a href="https://t.me/Futball180TV/98102" target="_blank">📅 04:26 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98099">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gNDX-vm_3q1qYLQenxpclrb2mhKo4MmeRxuehIvDdcNBuJUipgSJOxseCMhDYEOjMahw1XpOPUxkQZaTtkM3LHYHnB-rBJ-UeY6z_sx0im7BLhO6Z3tnZ1bmil-ZFmyTRIxqOWafuuWelPiAmRZil8D8fgtHgW6aH7MhvoBRQBNDAmvOOsVRDsGZxVCfrGpgbeiDYR3Lfa9LXDY1j8JOIyIDsxsKjDjU70pew6_PpM-jlGQHQgHGYg4jfw_u9VKQWB-_InNppSgGQTRQV1iK3_AL9HNivK9HNTclACM-V-mgbjMTnCq03w6ohzvFiiQREdmO5OomhF1rc9Oa7UBCYQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🚨
+🇦🇷
+📊
+مسی در مقابل تیم کیپ ورد
+✅
+— 1 گل
+✅
+— 4 پاس منجر به موقعیت گلزنی
+✅
+— 1 پاس منجر به گل قطعی
+✅
+— 6 شوت به سمت دروازه
+✅
+— 2 دریبل موفق
+✅
+— 8 نبرد موفق
+✅
+— 5 بار دریافت خطا
+✅
+— 33 پاس موفق
+✅
+— امتیاز 9.5 از
+📊
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/Futball180TV/98099" target="_blank">📅 04:24 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98098">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-text">خوب اقای وزینای عزیز الان ما بخوابیم یا سر کار بریم
+کیرم
+دهنت تموم برنامه هامو بهم زدی</div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/Futball180TV/98098" target="_blank">📅 04:23 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98097">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MuXlTmx_CJ3BOtQFvDfaeaxCy610jU0a-QSGwoZegXCx2LhOCv8LEvvtZ2itGboQRCv2G-9xx8wiC8iEII6Rx0XBvt62lANZNR9maK8eQ-qmKjKBbYRgBWdRTxc3wzIPlSCaoywlXoOebnVKWsU6g_LTRkblZl1pBdvPJ6ImXdVMhdo9eYg5TAxkKM2DKAmxAKjakxfIYkhQHcbsEYkwVCf37K07Px-Zi8RPkCsVOzH8z5Vx63DRh8CYmTtli5uQmSZkJx8LhF_ZrXzH3kaQAzBkL-xezkWh2ZHwOaXak1r6YM5buPvtEvk4TzmTufDrKjiTeOgA9g0do2G_pdYEwQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">اشک‌های لیونل مسی بعد از برد مقابل کیپ‌ورد
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/Futball180TV/98097" target="_blank">📅 04:22 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98096">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OLqdeChgKj4KCnqEu3NNSWhnRY6vn3d8GCg_Z-Obd7nprJ8ZEQmOB-RGufKUwS0X3i6mStJGx7thiSSf_PmFK8CuROBM97rYIsyYAIpegJ5T0HB1I0iT1a80bYYh_lyW0B3DHR82Vde0zOdep2zbh22Mj-7POnvdUIGEN_D5suaYBRZmdJ1SwkMmtq-fvFr1n9XGIn126Q1chUj15f6x-UyL7zSi5DVx7iiJBIG3w7zzj_wT34z2I_INFrW6y74XCm_Uo9ON_2mW8C57MZ_WjUv01FEDrwYL1licxToz_gaI_lAoXUMz-QQUMWjysK81CqWWEfw48tBuOtcxISXhCw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">کیپ‌ورد سربلند ترین بازنده جام‌جهانی...
+تا لحظه آخر جلوی مدعیای قهرمانی تو 90 دقیقه باخت ندادن و تو اولین دوره حضورشون در جام‌جهانی شگفتی ساز شدن
+🔥
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 6.1K · <a href="https://t.me/Futball180TV/98096" target="_blank">📅 04:19 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98095">
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-text">🚨
+🚨
+🚨
+🏆
+پایان‌بازی؛ سکوت برای کسانی که ندیدند؛ خدا با آرژانتین یار بود! کیپ‌ورد تا آستانه بزرگ‌ترین معجزه قرن پیش‌رفت اما در نهایت با جادوی لیونل‌مسی حذف شد
+🇦🇷
+آرژانتین
+😆
+-
+😀
+کیپ‌ورد
+🇨🇻
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/Futball180TV/98095" target="_blank">📅 04:19 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98094">
+<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Vutdl29VRNxiGmERJBSWRL7EwdhVUkDKmTFA8su3iMG0HVZ5fjXHhhh3IzpGK5vaGovp_D27jNzd0VC2nz1DRH7JvvK2oxsEc6-DKv0WSYswMKHhxTazJtY_ct0mondsbUerq32DU1g7uS0GSXnYed_jzROJ3HA0eXL_vLkT5SZGaGsCbQXVlUyXInhS3wDj8jFnHA7q-FUUrXBij-TWcI2VHl6g4M4KPjgB_8IoNDdBDLKBoTt9ILc5GANCKPBsArFq2xvApHcXETA3YX0ODegr5GUTYBV1qEJM-s1TxxgDQ4Vu07lfsVl_lIyIboFZXF_vqEHfwHw1YTied4vKrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🚨
+لیونل‌مسی بهترین بازیکن زمین شد
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98094" target="_blank">📅 04:17 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98093">
+<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MW1KDzBrGtQzL8uQojaKXS-IdYhWkQ-hKYuewtuAlfXRxmQUS6wlDuoCx3hahBeJqPTTb6gauDe7bptQLGiz78BJe6CVGXu_1Wc5muUr114jQawKrDm4JTWZGNl2a70Vq3g1q47_L9YqdOSkV2hTaaNq1f7fJjHAsh8XBbpXY3Jwcdn7JTBVaC0hdt4VyPfGwLFw887MALZX5uOzLLDYP1wJMxWC26_0VXnGdqKkLkyfGGyn9hBTUp8jlFGSqq6ejklBpYIrd2-Aiq69oWu7Zj1zTC2oAXjgIdRYA1J1Zu6bN1lkJbni3cDJMnz2L1GxbmQ63IVqmX7MFMkT9E7wdA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🚨
+🚨
+🏆
+پایان‌بازی؛ سکوت برای کسانی که ندیدند؛ خدا با آرژانتین یار بود! کیپ‌ورد تا آستانه بزرگ‌ترین معجزه قرن پیش‌رفت اما در نهایت با جادوی لیونل‌مسی حذف شد
+🇦🇷
+آرژانتین
+😆
+-
+😀
+کیپ‌ورد
+🇨🇻
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98093" target="_blank">📅 04:16 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98092">
+<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-text">انگار این بازی خدا میخواست مسی رو بکنه
+😂</div>
+<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/Futball180TV/98092" target="_blank">📅 04:15 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98091">
+<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BaGiHuVSfpRiBSTuQlpu4ywgupMCzQCIY-mBvqn6YxwrzMHVn7Dvu9SCtMf25TVw4AFEyoTTSWmq_rbgykiokpIn-azenDN0zX5YYqDqLMIJZJ7u6jYX01p05LDbKSw_wobso_zTMDODOXGYOWq6qh8RtM1zsCos5LxVt9zytd9YH6N_QfijkWGNn2teqBn_xFCIyj0ozjaPS3HCrP3RsdM4nMh7zdGwIfuS5eNI-3wCqHwnl0rfmMhpAx48n01RRCez0N23FFjbv1AiYrJBS_GVY8Wp9GCJbcBr1ZQ_8QX2JrULIKFMM4ywkJ3_r2-fScgWC6b-NU3WxBqbssy4uQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🚨
+🚨
+🏆
+پایان‌بازی؛ سکوت برای کسانی که ندیدند؛ خدا با آرژانتین یار بود! کیپ‌ورد تا آستانه بزرگ‌ترین معجزه قرن پیش‌رفت اما در نهایت با جادوی لیونل‌مسی حذف شد
+🇦🇷
+آرژانتین
+😆
+-
+😀
+کیپ‌ورد
+🇨🇻
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.17K · <a href="https://t.me/Futball180TV/98091" target="_blank">📅 04:14 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98090">
+<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-text">با اختلاااااااااف بهترین بازی جام جهانی ۲۰۲۶ رو دیدیم و یک دقیقه سکوت برای اونایکه خوابیدن و گفتن ارژانتین به راحتی صعود میکنه</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98090" target="_blank">📅 04:14 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98089">
+<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-text">🚨
+🚨
+🚨
+🚨
+عصام‌شوالی گزارشگر بین‌اسپورت: از مدیر شبکه میخوام هفت روز بهم استراحت بده تا این بازیو هضم کنم</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98089" target="_blank">📅 04:14 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98088">
+<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-text">آرژانتین داشت چهارمی رو میزدددد</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98088" target="_blank">📅 04:12 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98087">
+<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-text">واااااای</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98087" target="_blank">📅 04:12 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98086">
+<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-text">تخمای مارتینز ترکید</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98086" target="_blank">📅 04:12 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98085">
+<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-text">🚨
+🚨
+🚨
+🚨
+۳ دقیقه وقت اضافه</div>
+<div class="tg-footer">👁️ 7.16K · <a href="https://t.me/Futball180TV/98085" target="_blank">📅 04:11 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98084">
+<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/c6c46fd63d.mp4?token=o4Fw7Htu85Q1iqOwyrp9pIrMk7vyjkehYNbA0KEtbqoIEOCjXffjs-wEjP9TuGXcKtSIP8ChmIIyL9aFuM34NAeaa_j06BnQCQ5DWNDyg9KsSap8Z08MochINYGwIWOgYYAvxsFnghU1n3GgMfGpFyjH93LmfcHP_3mVdutqxO4JFF4zVgtX7ziFGaUlQxHVS1n4OssKwjyyB2PqwsA4rhts_j-gRepaC5RJ7lDEYE2pGimniOyCLKVW3F5eeGkd0CT7HAJHnrz5AjbXhTPPrXqy99nYGAHYJa1udi3pgCGzV7ktKmIFWkCndllchwTbgAHUdQgk7Ta1Hw23lTo83w" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/c6c46fd63d.mp4?token=o4Fw7Htu85Q1iqOwyrp9pIrMk7vyjkehYNbA0KEtbqoIEOCjXffjs-wEjP9TuGXcKtSIP8ChmIIyL9aFuM34NAeaa_j06BnQCQ5DWNDyg9KsSap8Z08MochINYGwIWOgYYAvxsFnghU1n3GgMfGpFyjH93LmfcHP_3mVdutqxO4JFF4zVgtX7ziFGaUlQxHVS1n4OssKwjyyB2PqwsA4rhts_j-gRepaC5RJ7lDEYE2pGimniOyCLKVW3F5eeGkd0CT7HAJHnrz5AjbXhTPPrXqy99nYGAHYJa1udi3pgCGzV7ktKmIFWkCndllchwTbgAHUdQgk7Ta1Hw23lTo83w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🔥
+گل رومرو به کیپ‌ورد با پاس گل لیونل مسی
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/Futball180TV/98084" target="_blank">📅 04:11 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98083">
+<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-text">یا خداااااااا</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98083" target="_blank">📅 04:10 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98082">
+<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-text">کیپ‌ورد خیمه زدهههههه
+😐</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98082" target="_blank">📅 04:10 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98081">
+<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-text">پشمام بازم مارتینز گرفت
+😐
+😐</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98081" target="_blank">📅 04:09 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98080">
+<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-text">وااااای</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98080" target="_blank">📅 04:09 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98079">
+<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RmDx6itbVz_0uFxPfSl-Vg1oZYjF1FmDOZ6RghuCF28HTYAYPraPvy9qkuEgJDR8T0Cr_JZBkrCmz4U4-qFBtwo0QGLrRV6BYcBX3ESZw-tTVHVd-4BGiA-r8nirpbCttQ-ss0gk3pZ3PjzO3igkJGd9uBep50XxwdtdTPFpixSFC7as33VgN0dcy_-zNf_B8BA6PU9nVvSAkdvHrhqQAwXx7IkLNgLlSyIhovaTbb4Hjd62tsr4abifYYIrq0JJ_urFxiYf9b36b6eB7V76KkYwMV6L8-zhm97YKe93AS9gRRxmxhuY1HqrgY1La7nCXMIytEpxE2TeDlKtQVTkMg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🚨
+🚨
+🏆
+• لیونل مسی، اسطوره فوتبال، با ثبت آمار جدید، عنوان "بازیکن با بیشترین پاس گل در تاریخ جام جهانی" را به دست آورد و از مارادونا پیشی گرفت.  • اسطوره فوتبال، 9 پاس گل ثبت کرده است.
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+👑
+👑
+👑
+👑
+👑
+👑
+👑
+👑
+👑
+👑
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 6.15K · <a href="https://t.me/Futball180TV/98079" target="_blank">📅 04:07 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98078">
+<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-text">مارتینزززززز چی گرفتتتتتت
+😐
+😐
+😐
+😐</div>
+<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/Futball180TV/98078" target="_blank">📅 04:06 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98077">
+<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-text">پشمامممممم</div>
+<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/Futball180TV/98077" target="_blank">📅 04:06 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98076">
+<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-text">واااای</div>
+<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/Futball180TV/98076" target="_blank">📅 04:06 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98075">
+<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cF0YXcuwueKYhIt4uEvKmxwM4mYc9cOXHheUEEoIASixzTtxWumnpvRMhA4VgYTF1fSrEveaqZ9zVGKDhJe7ykD5Mo73xu1B3wsEy2GwlmFBJLMK6eNld9pUCe2X2YYgf0LGaaRrIprEJYlzuROEF8cm_OL75_Lighv6dGxbom1zcVQWxeQqYwP4v7h6G5qW2BBjWtMtg8By9GTff8ZnllDui7HYSBdvudRzdhy2q8I4PRcwlmznhXu8BaZ0L45rseknLXz4HPDzSFAMPqMqRMWfJQKlD7tcG_V5L0bSa-nWhLkUCmfN4iXpyUCAYo55bDPiBfVd1LfZ_-TitlD0ZQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🚨
+🚨
+🏆
+• لیونل مسی، اسطوره فوتبال، با ثبت آمار جدید، عنوان "بازیکن با بیشترین پاس گل در تاریخ جام جهانی" را به دست آورد و از مارادونا پیشی گرفت.
+• اسطوره فوتبال، 9 پاس گل ثبت کرده است.
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+👑
+👑
+👑
+👑
+👑
+👑
+👑
+👑
+👑
+👑
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/Futball180TV/98075" target="_blank">📅 04:05 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98074">
+<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-text">اسکالونی داشت گریه میکرد
+😐
+😐
+😐
+😂</div>
+<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/Futball180TV/98074" target="_blank">📅 04:03 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98073">
+<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-text">پاس‌گل از اسطوووووووره
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥
+🔥</div>
+<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/Futball180TV/98073" target="_blank">📅 04:02 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98071">
+<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-text">سوووووووم آرژانتینننننننننننن</div>
+<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/Futball180TV/98071" target="_blank">📅 04:01 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98070">
+<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-text">رومرو زد
+🔥
+🔥</div>
+<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/Futball180TV/98070" target="_blank">📅 04:01 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98069">
+<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-text">گلگگلگلگلگلگلگلگلگلگلگلگللل</div>
+<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/Futball180TV/98069" target="_blank">📅 04:01 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98067">
+<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-text">رومرروووووووو
+🔥
+🔥
+🔥
+🔥
+🔥
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷
+🇦🇷</div>
+<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/Futball180TV/98067" target="_blank">📅 04:01 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98066">
+<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-text">جاننننننننننن</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98066" target="_blank">📅 04:01 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98064">
+<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-text">گلگلگگلگلگلگلگگلگل</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98064" target="_blank">📅 04:01 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98063">
+<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/f0e6e57be9.mp4?token=q7HT9gwgsmdeKGDh7eTOakWIFnzxkE97TaWQl4E02pbBmixS6ucVvN-6rH4QdeoaEedHEk4L_pkRgsoFVn8rvA923sk0ifEIcmWyP62hlS5ptMnfSJh_e_aJ7tI7rftaxF-S0E0-UakgYqw5FVI27kc1d52lz1IR4Evn2vO4eqwN2wy0tMpqKQylO50zPrTrsIaf1XggVkPpk_JP0Xy1cnqzwhmzgEIkRf32FeITX0JCsoTdcJ03Ij1yWbh2VHZ9Tj6TRuTAJspDeXM3mMZJ1RYr23CMi75MP8S-ddNhsq-IjdjH4ZumoNMkZvykZO9MsPYESKrLOCFn81UvymW7SQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/f0e6e57be9.mp4?token=q7HT9gwgsmdeKGDh7eTOakWIFnzxkE97TaWQl4E02pbBmixS6ucVvN-6rH4QdeoaEedHEk4L_pkRgsoFVn8rvA923sk0ifEIcmWyP62hlS5ptMnfSJh_e_aJ7tI7rftaxF-S0E0-UakgYqw5FVI27kc1d52lz1IR4Evn2vO4eqwN2wy0tMpqKQylO50zPrTrsIaf1XggVkPpk_JP0Xy1cnqzwhmzgEIkRf32FeITX0JCsoTdcJ03Ij1yWbh2VHZ9Tj6TRuTAJspDeXM3mMZJ1RYr23CMi75MP8S-ddNhsq-IjdjH4ZumoNMkZvykZO9MsPYESKrLOCFn81UvymW7SQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">واکنش اسپید لاشی به سوپر گل کیپ‌ورد خداست
+😂
+😂
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98063" target="_blank">📅 04:01 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98062">
+<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/b_C99qTf-VEtM2GmzJaesbOps2RfRatOdKB71wk9Sn87vQMcRqLC1pN1x5gdA7_efAl6kgK_g2IONGm2OL96Bdfi9nWOV__a6NX8ce9p_6oFmHOtYK4CHd3adh9sPt1yfGgeZ2_qRhCqyIYggUw0CQeXKWig3_YlUrQCvmQ12FGdARCzr7P5eSNlmiGMF-_MgB_c9i1VSc51Yz5TMvMtoZOqMRdC0ocHe7oKGedtM2xo-tWHxcT_klqwItET5GQMUPdh4oiadIxwHybrkaKRuOoCFm7xy1RE80fv3kAYXZ5APPWheSc8YsAS8GsPgd2uxUTe7j7HP48syMvlBKnexw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">بدون شرررررررررررررررح</div>
+<div class="tg-footer">👁️ 6.13K · <a href="https://t.me/Futball180TV/98062" target="_blank">📅 04:01 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98061">
+<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-text">آلوارز یجوری بازی میکنه که آخر سر اتلتیکو مفتی ردش میکنه</div>
+<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/Futball180TV/98061" target="_blank">📅 03:57 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98060">
+<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-text">جادوگر غنایی رو اسیر بگیریم ایرانو درست کنه.</div>
+<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/Futball180TV/98060" target="_blank">📅 03:57 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98058">
+<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-text">آغاز نیمه‌دوم وقت اضافه</div>
+<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/Futball180TV/98058" target="_blank">📅 03:56 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98057">
+<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-text">دیگو سیمئونه هم تو ورزشگاهه</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98057" target="_blank">📅 03:55 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98056">
+<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-text">سرمربی کیپ‌ورد رو بیاریم جای قلعه‌نویی</div>
+<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/Futball180TV/98056" target="_blank">📅 03:55 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98055">
+<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-text">اینجوری که بازیکنای کیپ‌ورد جلو آرژانتین پاسکاری میکنن تو خود بازی فیفا هم نمیشه
+😐</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98055" target="_blank">📅 03:55 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98054">
+<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-text">وقت اضافه اول تموم</div>
+<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/Futball180TV/98054" target="_blank">📅 03:53 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98053">
+<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-text">بازیکنای کصکش کیپ وورد یجوری میدون و پرس میکنن  انگار دقیقه اول بازیه</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98053" target="_blank">📅 03:53 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98052">
+<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-text">وااای</div>
+<div class="tg-footer">👁️ 7.16K · <a href="https://t.me/Futball180TV/98052" target="_blank">📅 03:51 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98051">
+<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-text">مسی داشت میزددددد</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98051" target="_blank">📅 03:51 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98050">
+<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-text">واااااای</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98050" target="_blank">📅 03:50 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98049">
+<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-text">کیپ‌ورد همینجوری بازی کنه میره مرحله بعدی
+😐</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98049" target="_blank">📅 03:50 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98048">
+<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn1.telesco.pe/file/182721537d.mp4?token=Y7pKp-GY06xtZJmikRhd3LYLz9iN5KkFhoNonaLzY7xGXjwCpOpzSuMvTS4Ysp01LVMqacHJY8xQTaeOz_6-Ru14UGSNwAPy568qmvveFl_I2r-2P5oyFZP-lZ12mgV3Rk2o19zx8nBW1gxySGb49kSSN-edWO-92Bs4R2Owr-v27QUZ8iRi9iYU_8UitHUql0Yktwrhs-Cs14nOil1Pxx7pKKiumFsR4EGrJzgVzXRh5sNgYHa5kklEVinigAPoVF_pQAsFMtZESWq6aFyZgtRt6ZkmxRxwyDe7aixlUbRvlEJNxZbRaTt9fABleiYw1sQvTTkWkLIM0vYKyKwQDXMckZfQWpJneS-ePzughH6eyBGi4GjEgcs-K8jjoJ-7B4onfyeT_VKAKC81HjxWchJB8lY9BWE_PJ496wU3h3gPDQoOIj90LHc9LsUy4hd9qwa2t_eMXDnMxAj0bO8WyV8UU363BqBveo90G8xTp9sNRWbtZsYyB8z_nfXSM40eSiwp6xU_0PK85ZAQUeE5c0YhX-xPkFk3o-ccojYrtij3mrWQjMoNL_D_bbccbpOVmec02-UtpB42ExhRUY3rlgxYxI6KWfqUJNwxct_I4c8L4HA2A146GIgHmTyZsq510b8s_2YWUCsaSTAyZAhEM2bWAl7dL8c1HRbnxeGsg0E" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn1.telesco.pe/file/182721537d.mp4?token=Y7pKp-GY06xtZJmikRhd3LYLz9iN5KkFhoNonaLzY7xGXjwCpOpzSuMvTS4Ysp01LVMqacHJY8xQTaeOz_6-Ru14UGSNwAPy568qmvveFl_I2r-2P5oyFZP-lZ12mgV3Rk2o19zx8nBW1gxySGb49kSSN-edWO-92Bs4R2Owr-v27QUZ8iRi9iYU_8UitHUql0Yktwrhs-Cs14nOil1Pxx7pKKiumFsR4EGrJzgVzXRh5sNgYHa5kklEVinigAPoVF_pQAsFMtZESWq6aFyZgtRt6ZkmxRxwyDe7aixlUbRvlEJNxZbRaTt9fABleiYw1sQvTTkWkLIM0vYKyKwQDXMckZfQWpJneS-ePzughH6eyBGi4GjEgcs-K8jjoJ-7B4onfyeT_VKAKC81HjxWchJB8lY9BWE_PJ496wU3h3gPDQoOIj90LHc9LsUy4hd9qwa2t_eMXDnMxAj0bO8WyV8UU363BqBveo90G8xTp9sNRWbtZsYyB8z_nfXSM40eSiwp6xU_0PK85ZAQUeE5c0YhX-xPkFk3o-ccojYrtij3mrWQjMoNL_D_bbccbpOVmec02-UtpB42ExhRUY3rlgxYxI6KWfqUJNwxct_I4c8L4HA2A146GIgHmTyZsq510b8s_2YWUCsaSTAyZAhEM2bWAl7dL8c1HRbnxeGsg0E" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🔥
+🔥
+🔥
+سوپرگل استثنایی کیپ‌ورد به آرژانتین
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98048" target="_blank">📅 03:50 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98047">
+<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-text">الان ۹۰ درصد مردم دنیا پشم ندارن همشون ریخته</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98047" target="_blank">📅 03:50 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98046">
+<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-text">ای مادرتو گاییدم جادوگر</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98046" target="_blank">📅 03:49 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98045">
+<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-text">گلزن کیپ‌ورد رفت بغل زیدش
+😐</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98045" target="_blank">📅 03:49 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98044">
+<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-text">ای مادرتو گاییدم جادوگر</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98044" target="_blank">📅 03:48 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98043">
+<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-text">نخون این کیر خرارو غنایی کصکش بکش بیرون ازما تورو خدا</div>
+<div class="tg-footer">👁️ 7.14K · <a href="https://t.me/Futball180TV/98043" target="_blank">📅 03:48 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98042">
+<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-text">پشماش ریخته از گل خودش</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98042" target="_blank">📅 03:48 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98041">
+<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-text">چه گلی زدن
+😐</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98041" target="_blank">📅 03:48 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98040">
+<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-text">😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐
+😐</div>
+<div class="tg-footer">👁️ 7.14K · <a href="https://t.me/Futball180TV/98040" target="_blank">📅 03:48 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98039">
+<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-text">وااای</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98039" target="_blank">📅 03:48 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98038">
+<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-text">کیپ ورد زد پشمام
+😐
+😐
+😐
+😐</div>
+<div class="tg-footer">👁️ 6.13K · <a href="https://t.me/Futball180TV/98038" target="_blank">📅 03:48 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98036">
+<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-text">گللللللللللللل</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98036" target="_blank">📅 03:47 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98034">
+<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/VMfepr5tbxGaNrmOZj6bhp9lqnBJQ6UXwGnLPDc1sFKpWB0fZ0gweHEcxl5TDTDP3H8R6hnBQTf7vGlb8kkEeTJGLUru2m0cJKy19GN_7XByWBlcmboKgg75cg1dmSesqhPj3vBqKyreyltjCSajKps8vbTOwjlNQna7t2uOSv2OaJII4vPLRRllzp_yu2_jYxp-iFVRkjuq9XDJYejbJS14EPaCyIaM-Hbx6qPrJJkNZax9xLtIqRA2346ZvfLM7lAkuaXkMH_PQiCMm7k5m2lIYuly2lOXnhWPefEKAQv4GoaLoOnoUn3szMWHxtE806OMqbCeozlUXJWs7rccAA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Abyok9WZjOdsUpqT5yCxOFVQO2q3Q00ASTnPNXAtCgh3futORyFHE-8ycCX_pljm0ofAz2mchOenQ4ZumIZnwJFmu0jm38Mgt-0JcV1k-p8LDcOWGJ0DMxb8r9CnQ_Q9596CRxxbTbsOZV8LyHggQLWVbWqrcFOoX3zWfpSExNprP6VDdzDwbyKltJ1fDhfV1WMOJ8xBW11ynYT8TMJQjkcBiyQfe0pmVo46wfum27PrcEAfdczz8WKXojv9rInYDc7DQZF96dqjnCuf1RAZ01LmHlzzugwTvTDhs6fILflTFwfaHpNa--7C86sYD-UyXCze9IsWZImSh2ZmkVzvWw.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">🇨🇴
+🇬🇭
+ترکیب رسمی کلمبیا
+⚽️
+غنا
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98034" target="_blank">📅 03:47 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98033">
+<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-text">بازم خطری شدن</div>
+<div class="tg-footer">👁️ 6.1K · <a href="https://t.me/Futball180TV/98033" target="_blank">📅 03:41 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98032">
+<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn1.telesco.pe/file/78229061b8.mp4?token=Gznm2OPvrOoJtoYkG4O43cJm3gc1IbPDpgQ9xYnAg--lDFEjlmulGi9cKreoWPC8ra2WVD1wYJzD4xkySUf386Y9-LdK3sr-dGHB3k9ZPeH0WgynNsEIUz9l8IbyLexoj3jYXQUI6028F2CrgiX_vaPbYYkWhl2mUPZECvsxJMuOBNVHnpKfnAVi6dWY7G-MzOrtA2J5CPpfd8p0KDatE-T3NSCCbyRgg0P8xeJZEQ2OeHkupoplkPR1_2nubUmkaYoGHY16kAQYKAGxerlUkkQcj6BxWbtWdApLtuPhHLviiF_4TQdDPVoDFCAppkebq1T4mP6cA3ocmyEXhHyjMpN_mYbuEr0bt-3RsKRdzBgPJht3B6RugkEZeY8VsHX64w9XnSvWpqB14o87_lV8eh-fSBLTPJ93niPAXpqArZ_pG72KGDl1JFNNTj6nJ4zh5URUhhKBsJHW7QCS-9R3GSzf0UIZs3sInatTU057gjZacxIj1NQdwJqShnXGHbUaUO69yg7RtYiZmAQWsBP1ujgUm8gzxbbJiiEyF-JLbZ-R8y26D6Kxw9LOkxSbi6izt5Yp0WPQKhwz5Taq-sa-QMzOEIzuEX4ZpLLAQ6gOpXMldHN8JIt-573PnEU3Ml9p6YIZr7o0UTXgk-sG04dCwY5fptWk1jbHp1-qWpeMFFM" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn1.telesco.pe/file/78229061b8.mp4?token=Gznm2OPvrOoJtoYkG4O43cJm3gc1IbPDpgQ9xYnAg--lDFEjlmulGi9cKreoWPC8ra2WVD1wYJzD4xkySUf386Y9-LdK3sr-dGHB3k9ZPeH0WgynNsEIUz9l8IbyLexoj3jYXQUI6028F2CrgiX_vaPbYYkWhl2mUPZECvsxJMuOBNVHnpKfnAVi6dWY7G-MzOrtA2J5CPpfd8p0KDatE-T3NSCCbyRgg0P8xeJZEQ2OeHkupoplkPR1_2nubUmkaYoGHY16kAQYKAGxerlUkkQcj6BxWbtWdApLtuPhHLviiF_4TQdDPVoDFCAppkebq1T4mP6cA3ocmyEXhHyjMpN_mYbuEr0bt-3RsKRdzBgPJht3B6RugkEZeY8VsHX64w9XnSvWpqB14o87_lV8eh-fSBLTPJ93niPAXpqArZ_pG72KGDl1JFNNTj6nJ4zh5URUhhKBsJHW7QCS-9R3GSzf0UIZs3sInatTU057gjZacxIj1NQdwJqShnXGHbUaUO69yg7RtYiZmAQWsBP1ujgUm8gzxbbJiiEyF-JLbZ-R8y26D6Kxw9LOkxSbi6izt5Yp0WPQKhwz5Taq-sa-QMzOEIzuEX4ZpLLAQ6gOpXMldHN8JIt-573PnEU3Ml9p6YIZr7o0UTXgk-sG04dCwY5fptWk1jbHp1-qWpeMFFM" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🚨
+🚨
+🚨
+گل‌دوم آرژانتین توسط لیساندرو مارتینز
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.11K · <a href="https://t.me/Futball180TV/98032" target="_blank">📅 03:39 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98031">
+<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-text">گگگگگگگل صحیحههههههه</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98031" target="_blank">📅 03:38 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98030">
+<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oyoKKE5qoPyC9rHGsmcZGZcgDEPvKQwonP553I0g3_1LPMKNf4YxKn2vsN6zaFesaJCUDlLqilnAaSrjBdwQN2gpU_TuYc5ejBFM-GgeZcLwmYRd4Ssxl8TD4dMwkN-3O-4FSritBhn9NdtILFixvoaIgkX3nv84J-LPYsJFNI3_wqvmCb2D-fAAodd8ziUXbPMa2aUjv9LDaJ2UKE9KSFqVmqz32JHSqYTF_cIiUuRD3Q9-K0x2V6oJrcvV9Jepjkzo7IMuY1WaMRak5gQSjNsFAJgvJHyCJ4m8l-hIqZpg4TSkZGJscbH1QnSw1o3NBCkvBFHRAW6uF2h0Ks7anw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">حروم زاده فالوورتو گرفتی حالا صیکتو بزن.
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/Futball180TV/98030" target="_blank">📅 03:38 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98029">
+<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-text">کس مادر جادوگرررررررر غنایییبیبییییی
+🔥
+🔥
+🔥
+🔥
+🔥</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98029" target="_blank">📅 03:37 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98028">
+<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-text">لیساندرووووووووو ویزینا میزینا نگاییییییددددددددددد</div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/Futball180TV/98028" target="_blank">📅 03:37 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98027">
+<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-text">لیساندرو مارتینزززززز
+🔥
+🔥
+🔥
+🔥</div>
+<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/Futball180TV/98027" target="_blank">📅 03:37 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98026">
+<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-text">الللللهههههه اکبرررررر</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98026" target="_blank">📅 03:37 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98025">
+<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-text">گگگگلگلگلگگلگلگلگلگلگلگلگلگلگلگللگل</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98025" target="_blank">📅 03:37 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98024">
+<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aSbx9PHaWijiQs_4jzox5lc9C4NqoLjFnnsXSIOERl7psdWklk4h0n06RZa26I1sFuTHOHcEaxfT3VKSuihQZ9lMXg8vrIh4tTDhyz0NpnQzb2Wq3gQrPEFfFlPslJbZWoRYhJS2InWfOljFu5b7aweWsRSBoaFMfK5lWsG_2wXEZOmfwF5lKT0rK9cxn-7TZTSy54h30YmZsQdZHUVJGdGIsBrG1olNt34JCqwVA5ZQqUAXr-e6gkYOzcwsXVqVsCLGFPO8TqMu2wfpTIdaAyQ7ayuZP3fP2gj8pLYbiy2lSZ9ihO4iZQQkS8Abf2Q0KvTui0__lnOcawQABt8hrQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">همینجوری داره فالووراش میره بالا
+‼️
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98024" target="_blank">📅 03:37 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98023">
+<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-text">گلگلگگلگلگلگگلگل</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98023" target="_blank">📅 03:37 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98022">
+<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-text">گللللللللللللل</div>
+<div class="tg-footer">👁️ 7.13K · <a href="https://t.me/Futball180TV/98022" target="_blank">📅 03:37 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98021">
+<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-text">آغاز نیمه‌اول وقت اضافه</div>
+<div class="tg-footer">👁️ 7.14K · <a href="https://t.me/Futball180TV/98021" target="_blank">📅 03:35 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98020">
+<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Mq45OuwGj0j_niyvxKxwcEVejaKbqrtTuef7RBOyp-BLkmbSW_EkuxqZblYKx0UbVFaJaDjrk2LmuG_J5Ol0Ug3UX1PWIHXPejbrgSYHU13iZKhAMMzVjpc5mhizM5QylKjiVarCP_uPtSCXS8akVvxQc1smtoPN-hAZmnP4SQoio0MicKtovkh4zTiFtntw5SBaWVpMdjZNCA827JJxFx3QcpjL0SGkWBYrOcuDIW3Nivh4jfGHtDxYD1FuY2wTfhHxIq3AHVhg-7P5Si52vs9A7YO_BJl8jS0NapYuTi4QKHddeZKAqhBOFszLe8_NbUUSsDoPcvnEr3348Dvwig.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🚨
+🚨
+🚨
+🚨
+نمره گلر کیپ‌ورد در بازی
+😐</div>
+<div class="tg-footer">👁️ 8.17K · <a href="https://t.me/Futball180TV/98020" target="_blank">📅 03:33 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98019">
+<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-text">اسکالونی رو نیمکت ریده به خودش</div>
+<div class="tg-footer">👁️ 8.16K · <a href="https://t.me/Futball180TV/98019" target="_blank">📅 03:32 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98018">
+<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-text">🚨
+🚨
+🚨
+😐
+پایان بازی در وقت قانونی</div>
+<div class="tg-footer">👁️ 8.17K · <a href="https://t.me/Futball180TV/98018" target="_blank">📅 03:29 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98017">
+<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-text">یک دقیقه مونده</div>
+<div class="tg-footer">👁️ 9.17K · <a href="https://t.me/Futball180TV/98017" target="_blank">📅 03:28 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98016">
+<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-text">گلر کیپ ورد چی گرفتتتتتتت
+😐
+😐
+😐</div>
+<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/Futball180TV/98016" target="_blank">📅 03:26 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98015">
+<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-text">وااااای</div>
+<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/Futball180TV/98015" target="_blank">📅 03:26 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98014">
+<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Vh7sFPTczOoshM8Ab2v4XuE9raa1gW6owugMJE5J9D1V-33d8Q-gsaZLH4R8zMCCigR0DKRHVw1S9M7wd_uaKabdu7eJ43GxcEtCQsM9TgVvWjPRIJ2FLG6TEypNEyMYxkdiJk1IE4qvzO6ZpaFHNglSkCHUZTNO6pcUzhYDjhieIxIToDHZvqkAFqLZRqWR71bcnN-TiUMGMGe8JGvFLGwJtpo6UdqAyiq1ReqK-ZckR_bC44OI-shS-P4eWRkF3Wbz3sxM4ijPVR-5u-nuOXya2TUV1-88n0DMZJZzQrlZXXUiOw_rmn1DGHbjMmgz4FeBUlj3l9j59HXPcyVMMA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">اسکالونی پشماش از وضعیت آرژانتین ریخته
+😐</div>
+<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/Futball180TV/98014" target="_blank">📅 03:19 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98013">
+<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-text">حاجی گلر کیپ‌ورد بد امشب سوپره‌ خدا بخیر کنه
+😐</div>
+<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/Futball180TV/98013" target="_blank">📅 03:11 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98012">
+<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-text">🚨
+🚨
+🚨
+🚨
+🚨
+جادوگر غنایی لایو گذاشته میگه کار مسی امشب تمومه و حذف میشن
+😐
+😐
+😐
+😐
+😐
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/Futball180TV/98012" target="_blank">📅 03:09 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98011">
+<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-text">🚨
+🚨
+🚨
+🚨
+🚨
+جادوگر غنایی لایو گذاشته میگه کار مسی امشب تمومه و حذف میشن
+😐
+😐
+😐
+😐
+😐
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/Futball180TV/98011" target="_blank">📅 03:09 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98010">
+<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-text">🚨
+🚨
+🚨
+🚨
+🚨
+جادوگر غنایی لایو گذاشته میگه کار مسی امشب تمومه و حذف میشن
+😐
+😐
+😐
+😐
+😐
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 9.7K · <a href="https://t.me/Futball180TV/98010" target="_blank">📅 03:07 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98009">
+<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oh6KWjsd9dN8qZjiCFg8mRNPiqBfvY5OYP1CAxsmrWnBmt6hT1h7pISWKbr4cKrhVQaeFc_BfwSYlw-Afe18WY9Bk6X1lgxvb_9SXOAULvJHy0zuBBrXOV5UBpJBCx9IH7I5twZGqC2YeXlDTJtCX-CrQHD34SFTaXdlM8Q7E8UFnC2KRE-FynD4R53xPfcAqCK6gEj1Ix3UMMp5V-ynePFp5cd0p_dj5Tohv3ZU9Kkb8kWihDpFBRy-c8O0Qnt74oU1VCunBGmpCM6cA_35hF42hMLYLZqdeJP9BPXcCDH5Rp4EtSbmlk9h48nORY2vOF-0QSRjd_T9dqcqdc03fQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">گللل کیپ‌ورد به آرژانتین
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/Futball180TV/98009" target="_blank">📅 03:07 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98008">
+<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/ab8afcddb9.mp4?token=PG0jfoNNXUEKRN2mCfae0PqBzS1Q6qIcEPPNMjEMdcM4T47BRgXaOJxyo7JHPpybir-NUcG4Gxr3lBDZQhyhWOtWgjJLEGoyQ99SWTtiBQKvtLlY0vmfaZ1VYjrI7Obf9rfuo_YpMhHZF_tgRWy6nNxGZyMjeDTUkizhNPAitjY6lMFhneGJuz-Kpzeavlhuh6dsC1aR53-gbFuGMKNKEaSmaGph1HSVGIld-olLMsFzAXAil-AOEAZERlX8AK_8nLhVS5EFKXaDXmJmiSopMcSIJay34MmX0MrplIEkb5Oe9C4iNY43okBmDngPTU2_cI8sjGNFCSMWUCQtGQumfQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/ab8afcddb9.mp4?token=PG0jfoNNXUEKRN2mCfae0PqBzS1Q6qIcEPPNMjEMdcM4T47BRgXaOJxyo7JHPpybir-NUcG4Gxr3lBDZQhyhWOtWgjJLEGoyQ99SWTtiBQKvtLlY0vmfaZ1VYjrI7Obf9rfuo_YpMhHZF_tgRWy6nNxGZyMjeDTUkizhNPAitjY6lMFhneGJuz-Kpzeavlhuh6dsC1aR53-gbFuGMKNKEaSmaGph1HSVGIld-olLMsFzAXAil-AOEAZERlX8AK_8nLhVS5EFKXaDXmJmiSopMcSIJay34MmX0MrplIEkb5Oe9C4iNY43okBmDngPTU2_cI8sjGNFCSMWUCQtGQumfQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">گللل کیپ‌ورد به آرژانتین
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/Futball180TV/98008" target="_blank">📅 02:58 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98007">
+<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VmS0qThwCYyAdP0gcg8c2CMHf4P4-zC8cvVrbGEJIbFYGntIG6ntFuVo8nDH6-TxfJUNkQciHwKP552cj5b1AEfE7ug2-QFhpDlDr8Vjix-oQLWA2QiGz5Zi2CZRDkc7w2_IPa5wf9DeKsyO_-jfj9OdWacB1T3n6-JToFDo2Xy842qV-TcFlP3vwfxcE8jyFm9mNXptj3MoxbMH4Tl9q8zkSvzy4SpptMRncDvK3PHY6oQCl_KhFzgDCmIAs4OpgKFkkr2kzSVrboC13Yq6qaMvecTvfmtUIZCBTkDgUsc_EnzZQVtBVcTK1WY0aC06JLk1QhZ_7PEWTc7sgPsd8Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">وضعیت مسی بعد گل کیپ‌ورد
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 9.92K · <a href="https://t.me/Futball180TV/98007" target="_blank">📅 02:53 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98006">
+<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-text">جادوگر غنا کامبک زد.</div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/Futball180TV/98006" target="_blank">📅 02:52 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98005">
+<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-text">شل کردن چرا یهو
+😐</div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/Futball180TV/98005" target="_blank">📅 02:52 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98004">
+<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-text">کیپ ورد گلللللللللل</div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/Futball180TV/98004" target="_blank">📅 02:51 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98003">
+<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-text">شروع نیمه دوم بازی
+🔥</div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/Futball180TV/98003" target="_blank">📅 02:37 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98002">
+<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CK0Eb3Xffj_Y7LZgm0Rg5WgZkLmlgBMJZ4zJkCli5eLdtM4Lkw8CwQR6hudnulugGbdYcH5XMfbhZ5X3NhZyj5O4ZOEEI03d_DW-wJsUyNztY3CYAXexMvdPytrgYpMheaqOOJIvgTQ-81eEAgxsJifHLgmSVSpEoQghuw76K-jIJmmo7dwe3-X0ILHYUDmbeB4v5V5wQcY97F6o8aDjFIbj7GCCc9heUsLbAJ6zdY0wfPe3aJdaNPJ7bN7aVxybNNTn7jekFN_nqku8OVY-8kjJ6AEaGUyEH541mVxHR6ANmV3h3VSHxt5VHFHbJxfjjxTh3p0g7YevUbgeJ_IUGQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">‏
+🚨
+🚨
+🏆
+| لیونل مسی، اولین بازیکنی در تاریخ شد که در تمام مراحل جام جهانی گلزنی کرده است:
+‏مرحله گروهی
+‏مرحله یک‌شانزدهم نهایی
+‏مرحله یک‌هشتم نهایی
+‏مرحله یک‌چهارم نهایی
+‏مرحله نیمه‌نهایی
+‏مرحله فینال
+⚽️
+@Futball180TV</div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/Futball180TV/98002" target="_blank">📅 02:36 · 13 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-98001">
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kZDC23mFJPQAxLDIhcUlJSRWtQJ0UVgUVEpp_wl8OVPnDR_b_qM8SufejNf2ILfeDwERL6r_hAf6p_eHkv95qOq2_wdAbXNJNM2QQloHjKgTsNb_cgJTcT915JgPQMiBE3a8M8mY0lCQ_BPgkiQapHQvxjNQlw_3ODsy1G7q5cDL_ixQMCUxhrPc38M2pQSuRRBorgVJ31X-jYv32oTTDLAnqPC-etFLiuRb_E22wZivneOf3vzn6PZJBUrr153oMW2GbDwr-KEtNGYGLnHKF8qcDmvhdB2dFlIZzcO0Kz7sefs33veFMh4mghFdVaZ0uc0uh1669RK89heG6vnHIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">واقعا جناب مسی آرایشگر حلال خوری داره
 🤣
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/Futball180TV/98001" target="_blank">📅 02:30 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/Futball180TV/98001" target="_blank">📅 02:30 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-98000">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FSI3J2Vrn76J2xFGht_CmU1cye7Og8tzJIQc0YgiAh-z7Ck4sNVH8bFjegAVN7KnHSEt-GPtgbMpzCh88r316byq7EohfcOq0Qtc2byx3snye0CMW5rTXo4L69_cM3plOqWPOZ3pEh2VHObSVKgI1D7rG09ntuNtPIzG7Mx11BWuuFh7r5_yN95Hz8PlKppELS1Gg4VdIL3giNxGNrOf7Kh4haeuY_k5JKrYe7c_y6-uDCUtvcYJOFjdM2B-7eUDmaiTFdoQmU1ndq6wtAjmLYLmVwqyn8GoFZbg5pO1V0kRc8se-kv3Wb2oWdDp2Tw4NUn4v_OCdn7IeWgSq9q5wQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏
 🚨
@@ -319,1135 +1366,7 @@
 کیلیان امباپه: 22 مشارکت در گلزنی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.07K · <a href="https://t.me/Futball180TV/98000" target="_blank">📅 02:26 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97999">
-<div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-text">پایان نیمه اول بازی</div>
-<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/Futball180TV/97999" target="_blank">📅 02:20 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97998">
-<div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IbZoYfi0z_CYZOOb0el2jqdH9PHyRPk840XmgYleKuRCtep6w3eCl0mclqRslTjOiTBDogPvsMCJj_ePpdSZmvFTYYcQWQIegtd3lE-W57CKmGrnclY5DSttFFavfm1R7Z9NxfXDcSsSU56BHHnQrko63KVXqqs1yXdLI-ZFOPNpNvu2RIqL3UAS505l9tn1QvrzSShi_SftvQvEQOdXzGLT3l70KXyUR6LcZ9MBk_cvuszxF8H4kKLyOwqEalNyKXq7nJRWZJAN1UTE2MJGW_YKnEjKXQOrr2tvxndo3vyfgX-vA-0gFNHGqv_-I9LvtMSg4L6g0g3V55k87TrxSQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🇦🇷
-👑
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/Futball180TV/97998" target="_blank">📅 02:17 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97997">
-<div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h4FsY2IC-B9SLtsRjglE6gYDq7o38tuu4eDAgUQpzd_anR8gmolOQqJhX8Ax2hxEguEgjn9L05DFDcxeMe8XfqdOesQjmIoHtlY-9pYAr_LSpqyUoaksdEqFI8x3kHCfpF_iEq64gdNMzsY_Sv3jqcy8eCeLZbI4F-UmugJGx-uC2pZttttG5Yf3r1d3II3g22VKqG5J7Jmrwfv_zyX51zHb7HeqgsKNAvEYWAU7qVnGl3tCFF_fgoO3T_PBFeip7bGo1Vtyrhy1Rj2Yc7lNte-4fuB2JNj5V1SISABvd4CUZYnqHw8V_Dno02G_CqlWg4TgfgCq5fQKXxH4pByVhA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🚨
-🇦🇷
-آرژانتین تا به حال 9 گل در جام جهانی 2026 به ثمر رسانده است..
-🔥
-7 گل از این 9 گل، توسط لیونل مسی به ثمر رسیده است.
-✅
-🤩
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/Futball180TV/97997" target="_blank">📅 02:15 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97996">
-<div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FBvBWVV446I1c7pdmSHpPUo9zpPEJQoz9F4XgsMbVMJMmbURLLTz23Rqp5FhIAXfCt6Fc5X-xhAzTKDyREAZ-NUaOpsDSqmbiusxCNIen5r-d-ZwHozpQndXL0LNth66cBwpTz_37PR-IPtN1ItM0PkK_Hm4TQrufwhjPSRXJNJJYi1SrLfewNFLQVWDB5OA-TUZCnnH1qQ-ZeNJ6duvMLdVTdjOuPxkfQDt3gGcE3XoJLaeSqeMoHdTi_8NJVt6ltwbOqeQGExDqAo5X3DLiN998NLuqw40jitDvrNfW0aO4r5zErTe94dBE2yKcYYbepXDEb9VQMzEatjdQazDSQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">به به بانو شکیرا هم تو استادیوم حضور داره
-🐸
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 6.13K · <a href="https://t.me/Futball180TV/97996" target="_blank">📅 02:12 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97995">
-<div class="tg-post-header">📌 پیام #94</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PN9FbKg9yPXBeD2nEZJBMF2fP5mVdytmG_BlYNCadWT3Oa30s9Nk_bvj8KtvfDqD3RYmlXUJiuJq6wKLyCfK13AKM_Dstj0PKGw1Obu9zLqQxocIEJiatoPgx4MWYsV0KB8aJOVkx4SHuWbggdFV4G11PCmhC7jLnnqjwgKr0xJrgwAvCJd7b82LcWNRpCuG1bkP2GhW3zkeZPp12NW00ldqhet4tqvvDNql4P7Ae1pqZOtXcfDKvfcyAaktuhncPF64QUP7wZN9dvzHNuO-NbOoR-5d3ilidbyTJVc2QL6P70g5zeKbrVWnl5cJ_HFoFSKzfviEgsUFPIC-76UnxQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">📊
-✔️
-لئو مسی اسطوره فوتبال جهان در ۸ بازی متوالی در جام جهانی گلزنی کرده است.
-🔥
-🔥
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 6.13K · <a href="https://t.me/Futball180TV/97995" target="_blank">📅 02:10 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97994">
-<div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BBz7YI9m-5baQyGxfS2Tm6UOXkd9YZX4IfOjA1q78lNiqDnGnv72BXj3bAWQ3N9iq7SeYE5CeY-iumEcjO6y3hmgqFCGx2S1tv4cZE8ZeTGgvjs9P142CLlUojBDLnofxanScWVLle3Yi5ODVTrtGMUTU3S33uwt-6RICU3d5YEuIt5tGgd8CF9qZvF_zu8-tJHUAWBVT-3a7cYFHIO-00eyB9VqKcvBh16oeoGJWKCzX6qIdcqpW9jUltMjKjvJj_wL5ksMHdlEFjjVFd-c-Uf0dijO0kWecrXQY6r20X75fYe8dkYKCW-INQu-YlQReJXPYba2N4RzjuQB3pqOgg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">شاگرد اول امیر خان قلعه نویی:
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 7.14K · <a href="https://t.me/Futball180TV/97994" target="_blank">📅 02:05 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97993">
-<div class="tg-post-header">📌 پیام #92</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/c431ba96db.mp4?token=WxEGOIN2s1xLeCZqrt-CgFXQunVgJOSfe8Ropy8MsUbWqUivv00vGQVhvBW7KfmdMW2861fUDgkhzvk9d3rFxF1fmM2LkN3HYUgCu3iiQLKrJI83PRZGPgLg5Eejq2L0y-8DAy4D2ivJXMMsw9pp75sojJMprz2hynbeZ3aHJZMxzOaphfIWj7gj1sRjUpjoTzHf_v01s-IMtYVW17lk4lC0KTyZURdguHKQO-nLdwT2XqZUBRsC9X8foYhNGZ4D8vgKYgU489IoJS4CftE-va2fcYooUbZYaJ5ubm7gysOdZ3Vg3eDANHKaqKyD-yAKX4ohghrpmgD58BnwRzC2yA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/c431ba96db.mp4?token=WxEGOIN2s1xLeCZqrt-CgFXQunVgJOSfe8Ropy8MsUbWqUivv00vGQVhvBW7KfmdMW2861fUDgkhzvk9d3rFxF1fmM2LkN3HYUgCu3iiQLKrJI83PRZGPgLg5Eejq2L0y-8DAy4D2ivJXMMsw9pp75sojJMprz2hynbeZ3aHJZMxzOaphfIWj7gj1sRjUpjoTzHf_v01s-IMtYVW17lk4lC0KTyZURdguHKQO-nLdwT2XqZUBRsC9X8foYhNGZ4D8vgKYgU489IoJS4CftE-va2fcYooUbZYaJ5ubm7gysOdZ3Vg3eDANHKaqKyD-yAKX4ohghrpmgD58BnwRzC2yA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">گللللللل مسی تموم نشدنی
-🔥
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 7.47K · <a href="https://t.me/Futball180TV/97993" target="_blank">📅 02:01 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97992">
-<div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-text">بنازممممممم پسر تموم نمیشه این بشرررررر</div>
-<div class="tg-footer">👁️ 7.98K · <a href="https://t.me/Futball180TV/97992" target="_blank">📅 01:59 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97991">
-<div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-text">استاد گلزدن در جام جهانیییییییی</div>
-<div class="tg-footer">👁️ 8.27K · <a href="https://t.me/Futball180TV/97991" target="_blank">📅 01:59 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97990">
-<div class="tg-post-header">📌 پیام #89</div>
-<div class="tg-text">لیوووووووووووووووووووووووووووو مسییییییییییی پادشاه فوتبال جهان</div>
-<div class="tg-footer">👁️ 8.27K · <a href="https://t.me/Futball180TV/97990" target="_blank">📅 01:59 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97989">
-<div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-text">مسییییییییییی</div>
-<div class="tg-footer">👁️ 8.26K · <a href="https://t.me/Futball180TV/97989" target="_blank">📅 01:59 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97988">
-<div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-text">گگللگلگلگلگلگلگلگلگگلگلگلگللگلگللللللللل</div>
-<div class="tg-footer">👁️ 8.27K · <a href="https://t.me/Futball180TV/97988" target="_blank">📅 01:59 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97987">
-<div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-text">گلللللللللللللللل</div>
-<div class="tg-footer">👁️ 8.26K · <a href="https://t.me/Futball180TV/97987" target="_blank">📅 01:59 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97986">
-<div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/js2xO9Vm7XjjJLSjf0Dpq7ceUb9_YuYgFVa027IMT3sdJ8oNJENep3cRdy_QV9Ic0XCqlhoMQwTfnB2qpIuR4mNOO3e5CN0FyTv8oWG7ass-8b9NpBOxQFw7jX9lSBJqVMGVuW2KoKkw1A7k15hLfkrIyEhFTxtSPeR41N51L2YJDPh2AfU0xg4y8VxXgfKnu8-vcULqDynIDrmhCcDbLGzcaF7ki--pcrFIgyJvK5_oqGBK-f2NetN5Lo7Pgss-duLFR6HMcsUjywHOH-q7kE8rAgGRYjGEN9iGUvdbcFywX1jLNg-Itql2-X1kEWmBN_o1CI8m_xf98fsc-Fwh2w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">این زن و بچه و زندگی نداره؟
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 7.6K · <a href="https://t.me/Futball180TV/97986" target="_blank">📅 01:58 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97985">
-<div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jz5tD296GjFW9FrLU83EP52otuTb_TjNkgIthQkQmyy-vqIichXiOIMXRZkBhi4g7AiRSfVpXDbpwAgzFQXCruFdE11-ZXce-wqmGu1UGY0CUh8NsnD6IWhXgc1UcEB9SHjHFtrFZfVqMOimHk__GOO7f2rhALyxWIFkXYs_5MP2UPq-XgcAAdauGdbNk7lWM9HGLzSoyzJGoGX9Vvuk1akJZ_RLljfMZMr7pBlrUZ7LzaT6Bqr_FpgwDfg41GikBpYaW7IG5FC6ywuKe30ockaLEXzPTS7DygZQ0mZzq7YVI_M8jhqK9S4i_uD7mNBPAQzdnYj9cpdmapM0rrF-jQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">شاید براتون سوال باشه که چرا جایزه های بهترین بازیکن زمین باهم فرق میکنه
-اسپانسر جایزه های بهترین بازیکن زمین یه شرکت آبجو سازیه (Michelob ULTRA)، زمانی که بازیکن مسلمان باشه فقط یک جایزه فلزی تحویل میگیره بدون نوشته نام شرکت آبجو سازی، اما زمانی که بازیکن مسیحی باشه جایزه اش فرق میکنه و یک قوطی آبجو هم داخلش وجود داره
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 9.46K · <a href="https://t.me/Futball180TV/97985" target="_blank">📅 01:38 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97984">
-<div class="tg-post-header">📌 پیام #83</div>
-<div class="tg-text">فک کنم اگه هرشب با ۱۰۰ هزار تومن میومدین چنل بت ما ، شبی بالای ۲ میلیون سود کرده بودین مثل دیشب:)
-😊
-😂
-میگی ن ؟ بیا تو چنلمون و ببین
-🔥
-@Vision_Bet @Vision_Bet @Vision_Bet @Vision_Bet</div>
-<div class="tg-footer">👁️ 8.35K · <a href="https://t.me/Futball180TV/97984" target="_blank">📅 01:38 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97983">
-<div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uR-G63i5-dPTAjAuViOkjLZAER0Tze4Csdc0fVgeCbvUHqGJjJkP19AoAp-936kkYJ8UFENcjEDt0GprQxP2sIIa5xUiqmqzk-cCntaDMYuVZDh-hwzOXgo1DTUoQ7HGzo_l1xgV-WN2crNsvJI-DiIs9SQqElhEUPxIWKqrQ4IwmsVgLy5FDmN3AHTFf54sj0zYhTQ8MCANCm1bRnjxPflNB4IDhs0sqYS3bKZIXf5DaoTBNZrhua_j-TRQHEycaBIqfCBAYOSDbo9bd7BDpthvBTjyDl73zidGUFEOAefbm_5mmAtYF9baABN71ZwKeMk-ip4KHcUjd04iyZmimA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">فک کنم اگه هرشب با ۱۰۰ هزار تومن میومدین چنل بت ما ، شبی بالای ۲ میلیون سود کرده بودین مثل دیشب:)
-😊
-😂
-میگی ن ؟ بیا تو چنلمون و ببین
-🔥
-@Vision_Bet
-@Vision_Bet
-@Vision_Bet
-@Vision_Bet</div>
-<div class="tg-footer">👁️ 8.31K · <a href="https://t.me/Futball180TV/97983" target="_blank">📅 01:38 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97982">
-<div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-text">بریم برا بازی
-🔥</div>
-<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/Futball180TV/97982" target="_blank">📅 01:32 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97981">
-<div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-text">بازیکنان وارد زمین شدند</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/Futball180TV/97981" target="_blank">📅 01:22 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97980">
-<div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d41a557420.mp4?token=UPY5ViA5TbPSLhLxU5DNZImUFbh2o0vwXA2LjqT0pnKcqw8Co5RiLCBpupD3JZmg4yHUru2QVwRwUreKkBNEvkgn5-lEj_E6qWr5eesYuk7ot1bfZjk1uL-hdIjhEPNsDjI7Cr50NHxawMFLuyPYdif03FpaTKhitUI4w1DnZkcz0RlzMNr2c2vnlBvwU494IEYs_c-9E-LgJq-uW-q4U5v2pwGO0We16uKu4ReRMizbFBNkW_bBFd6CjDLk60s3kJkg4aLB6fyhqWQWuq2o_QLN50blsPkzIGSB-CBxV2WT3xxFpnZJPOaJZtDutk1FXQcgWqOC2Isade0RdgSF3w" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/d41a557420.mp4?token=UPY5ViA5TbPSLhLxU5DNZImUFbh2o0vwXA2LjqT0pnKcqw8Co5RiLCBpupD3JZmg4yHUru2QVwRwUreKkBNEvkgn5-lEj_E6qWr5eesYuk7ot1bfZjk1uL-hdIjhEPNsDjI7Cr50NHxawMFLuyPYdif03FpaTKhitUI4w1DnZkcz0RlzMNr2c2vnlBvwU494IEYs_c-9E-LgJq-uW-q4U5v2pwGO0We16uKu4ReRMizbFBNkW_bBFd6CjDLk60s3kJkg4aLB6fyhqWQWuq2o_QLN50blsPkzIGSB-CBxV2WT3xxFpnZJPOaJZtDutk1FXQcgWqOC2Isade0RdgSF3w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🚨
-🇦🇷
-🇨🇻
-⚠️
-اطراف استادیوم محل بازی
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/Futball180TV/97980" target="_blank">📅 01:20 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97979">
-<div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-text">🚨
-‼️
-متن خبر: خداداد عزیزی دقایقی‌پیش مدعی منتفی شدن حضور اسکوچیچ در پرسپولیس شد
-✔️
-❗️
-🤩
-واقعیت در پرسپولیس: جنگ قدرت شدیدا در باشگاه شدت گرفته و چند نفر اصلی بدنبال فرو کردن گزینه‌های خودشون به نیمکت سرخپوشان هستند. صحبت‌های خداداد عزیزی هم با دستور زنوزی رخ…</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/Futball180TV/97979" target="_blank">📅 01:17 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97978">
-<div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pSJrjPrKUvpd-AoMFfqEFy739wxA_AFk96dELEKHy2HIZnQqyT2QVa03u6IavBu060jGh8BTkInXTJR5d7KYjovcF2nTPQaqdT2fz7rLZpzH8oYCh2O65FIo9ycE0yEAhb48HUzxGEfQ0gMMSJ7tXK5nXse1hylTrhahroVRrpC78Hk6iNfRKPkfC_tlH4VpO-rqA0gd93n9nBKmbhtl_TmeWIo7wTmnJwuejpbnlVAazQJ0teQJlqT1SxVfZN9BoIzn3Dv2rNZT0imIcTH1rj1lXFeuxgZlmdQTHL46Q8pZAcXBUUzXt4Sp97cuBenOFOZaoEhd6a_zJ85LcrmprQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-‼️
-👀
-🇪🇬
-دلیل انتشار این تصویر از امباپه که قبل از ضربات پنالتی بین مصر و استرالیا در حال شادی است، این است که بازیکنان مصری در حال بررسی حرکات رایان، دروازه‌بان استرالیا، بودند. او دروازه‌بان باشگاه لوانته در اسپانیا است. آن‌ها یک ضربه پنالتی از امباپه را به عنوان مثال نشان دادند تا بازیکنان مصری بتوانند او را بهتر بشناسند.
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/97978" target="_blank">📅 01:14 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97977">
-<div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pUsnkE4kko3inRHpCJxQSV4WT19VNQjrv3vo2q49fiUGl9rn6XQxvSMm5g-VOyfEsSYPqtN-DdUpGT3xnuHbFSAReaA5xqpuyfyslIPo_uDW9EFW9fGAWqTvnbk1Gpaj_uY-ytg0LbnYoZyfJHKcy8_V_OgeVNBwQcfT5XKfHTT7dtmDC8CK_7czkVMZcKxu2RhQHxFyWwG7_G-6CFcG_dUXPh41Qd1gNHMOO5Ed_t9OX2XtdRH2YaJAG0lSoCVhLSrKh4jPGdQ8pu5HotgwQ_jxwfxhayWglKyxv9-edIku7jIQOt0dwgb0oMLMZHnQhY8l4VX5Cd5tJHv76a6hPg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🚨
-🚨
-‼️
-⚠️
-🇵🇸
-🇪🇬
-حسام‌حسن سرمربی مصر: این پیروزی رو به مردم فلسطین که در بازی با ایران از ما حمایت کردن،‌ تقدیم میکنم
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/97977" target="_blank">📅 01:12 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97976">
-<div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IVlwbuGsDvHkUAZZw4kJ-Ccwfe94uEH8ioEZaHmG20VUhimR7g2BbBQFseuygz2XTrLz9B01MBzPM87YwiEFLVS0Dwr541u-IfoSXpa9TZOk7zYM_0EDP6_-glZfwJ5yPvoUIIAuBN7RmHkZtSB3MaKp7b_zwoXhXfKa-sYtgSk_38KNzYbxSCOtnVlo81T24FoEMY1mcBVhZmUH0oUt4C968Il22T0RMDQ3MIHFfLE3XNR7cwo2mzdnW1aC2fho-F87pTATVYW6QCr10fdnLV9RQkdH8s9X00tB5wUEmEZd7n0IUB4kNrft5MZw5JeAk5ubOCtWBD2wCYUIs-6dPA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🚨
-از آسمون میامی بوووو میاد
-🌩
-🌩
-🌩
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/97976" target="_blank">📅 01:07 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97975">
-<div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RWLQkQz5yNulzpTTC4Vlr-4_M_dSW-huZ9SPe7xhbqGvos6nE61qmZXxu4ruKlz5LJYTBkCtBOOhXZagImC72k6v7LEMHCELyK_n9t9mogCAKZsu5vwokyzeWhC1IyPxxILMYDOlCazIladkGoxXX0wNJZLlOklpwKmpr7CdsVeOTGjDZRz-YGJ2wxxm9wtjZIJIAg_4hRBgscf2mP7KV77BiQZEU-FxwslSdX59wkrBWJELAxHjkd8qD8htuLR0p_L538Gly-r7gNEnXB4qT2t7mWc69RGUAMsI_80SxaRrn39VLXc8_OripWTI7G86zU89xLxlInWceOSvhTRcdg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🔥
-🎙
-🇩🇪
-یورگن‌کلوپ: سرمربیگری تیم‌ملی آلمان رویا همیشگی من بوده و‌ مطمئنم بزودی نام کشورم رو در فوتبال اروپا دوباره در اوج قرار میدم
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/97975" target="_blank">📅 01:06 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97973">
-<div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FD_0v8wcnXxcdxyMoIj-GHxpCLquar8WMrPvzHhwiJ9Tqcj1pZ4F8mw284jQHyU9uF6zJZ-agG7BE5vLdg-eKqqzhf-_2fGgQd-DZEjVmxn7g3Lk-jKcM7V-AZ2bNNa_4QDOrb6YLwHmJLgsOn-Uzso_eMkKhE26FMsppFWvT64y2MyjLTqfi8V5QVVeapLFElAAyeRw3KLkTRgXA6YiyZWFIducwxMbyrqzJ7XmKsuUjMGytDVesfYjjp7wulvCTaSrKqdfomCDTVOzu6NC8LkTQ0nRP8mcaegQCIpuNGwx2ifNIxunliwG2LK2gzYtWONDCoyrAF_h_lJvkoJlsA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BVv6boP4LEl2TgT47t7QHSmBf3fJtnWGBVrrTlIyGd3w_LDZTaQhZM4iETMGW8HnSE8rW6wiz1W6kqFdMvADeS7zrS4i1uXOL6__sojpc1_pFgksyGsG6uHjI9b8tYv4HxhuGlAJ9QfzVMtKcKpDx9BeYOGRH5K02Gj0TlNvSOPTEdP8bIrDZsK3f9YTBoLOghuTNPuEq0KIxa6sNRo_Jpl1E3kAGTDmK0HKVxT52AlU9_J1Wv90tZOPMryqf7Xr3un-_WPmA6LB_qB0XOHopAPkO0blDcrG40YoOJyukpdRD7uMUqPdFdZ_4Yy5s7MjAgCH91gvvkAMmv0D5RXU0Q.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">👀
-🔥
-👍
-🇦🇷
-حال‌خوب اسطوره پیش از بازی
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/97973" target="_blank">📅 01:03 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97970">
-<div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/HgXzzGJgtgRvnAUjqzyFnpaIUcH3N0xFKH0pnxKC14a9EcRM3DygMdJpsfy75TPehvkViVjYLEvp9uKO3_xERiay0H6YAS03bTaf4VO_-wrYLbSuxERmXZ0qFXKgQCLf_CAiLOuN2nCp4FUsP2W2tt8rAVbRR05NcknJUHataMtuLnrHW6SkFkKL87l5z8hyD7yr5DuYY3w9tO-n3cm4MMkEsvJfCXhD6cSMZLSi5jqG9P_hEZ5PLmFRb_SipMvv96fz_ApsnoNm0wSSCEWLxxciZsxXgxe8Sjk2dKh1Fm2iZAmsjzwqN6SQb_9J3WvhpQ14U0WANJI71Nf4mDte7A.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ErF1ZyHJWMhGkN1p-PS-u7eC_OqvzxTaPBx2_xzrDmDB6rV_1BVM0hUbKw2G96Nfl-_jhEL2-dY16s6VA0oWYRKg7VcKOXUQdE9fpm5fRsV89dvtJE2yuInwyVbKoHLoPkHa52f8YXx38kQcYgltF_RY2t_BRj62kP1FWBEso_V1igOh_kK7qd-PoJjqI-QQJi4ObnVCiPq0X0r3N6r18YfUoRP6rxl78mfRF_ebTDqz8SJh3hV4tEcjV8bpX0AyqC-kdZqcRfzmApCAl0Kc-ya4xhHjhHZ5TfNH3wrjmGbCs03Z9Im50Tn3TPVfDV1LxO0JMb4i9TD1QsLwbujU7g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/QTgzfW9eA-rpcNH3HRS31ne09SP5-FOBX7QFwSIZajBrCX7D19GUEfT1r7dv3Y5CI_j4SYyBeNoGcaheD-Q50t4mU0JPZLJO7nk8pR9sCBs0blTRIDTxpvSU0IkH9PHu-DT_VX0yCDHyeF_cVvIwCgHtnB56rVrw4XI77rwJKY7KL5224hJXX1ln_ilyk5h9fDJjim3yWGNHAnc5vbbmQab0q_IQuacbIyiEMgegnaXJOkSiUiD_fM2AHEQZDwPYU-PrjTem3FS7Gln7OQ8paYBoIJzeyVb2hUODZRfXvKV9X0Fp_inqo0ndgZjB4Ch0wcp9xBrhVfkNXPhCWo52zQ.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">🚨
-🚨
-🚨
-‼️
-⚠️
-🇵🇸
-🇪🇬
-حسام‌حسن سرمربی مصر: این پیروزی رو به مردم فلسطین که در بازی با ایران از ما حمایت کردن،‌ تقدیم میکنم
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/97970" target="_blank">📅 01:00 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97969">
-<div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/S19X15O6Snm9vSKBXuPWccw39MI3lhP5XzmzX4m-VHjmwXZSGa-WpqAZK1uWFzsEm9sMfNr-mDFd7QNWgqz7VjwNWd91pn4WgPATp_uYsXxpnIYSycTDHmoq9t9VXBk5gytUzAda82gfzJysSKVyLWLLwQ0CwJD09_B-3WIdEzQq-qmWldmQP6i8FjB8ZM2rnvEvui8_a68TmACPb1RhMObiXqdz9FF6jatG4TtbZ5lRH6hPcmTJ8olIJ1ZwYCoiPVOfpqnurUbJA1VAiNBwbzuq25KFGSI5onVaD-GlnMyO7TmHAQbTU_s_-7n5XMVIewglxLRKU12JRhAAkvRBNg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🇦🇷
-🔥
-🔥
-🔥
-🔥
-🔥
-🔥
-🔥
-🔥
-🔥
-🇦🇷
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/97969" target="_blank">📅 00:58 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97968">
-<div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X4TWNCEKkG_V90QCYALNLPiLfepsIQbtsGLW3ljxN7SNNknf1wobG0eozsoihON08SGpPh8Tc7hNI9u5VL0g9pVSM8ECfv6eLzXhGqpqovqXDCqHNcaSROx7fOqthBRHIo5iTb0WLmXAOqD1IyiIg0QGSRX0VS3FMKaCIFXnmIfoLhavbb-xRr2nnz1lbfeS-3l6wJ4nfFGWUkebqER6J8CuG5vlCp5G3PquLvzCANbaGhzq1Te7AtdJJ2yesxCWGhKmtF8RAlUOAOE2iWhlQNf29Ol__mtEvF2RMp9QCglNiprjJvJsyY5J_oiv4_2QCAXRPesB_-e40G1jKonM1w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🚨
-🚨
-‼️
-⚠️
-🇵🇸
-🇪🇬
-حسام‌حسن سرمربی مصر: این پیروزی رو به مردم فلسطین که در بازی با ایران از ما حمایت کردن،‌ تقدیم میکنم
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/97968" target="_blank">📅 00:56 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97967">
-<div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/c4UcqxgQ69Pek8t0T2s8BliB0e40jH-W6aJi4xGEvL5OYf2rEqZSN8OTawzNOJHrfGMxLnzQMecawQlmf2XDoCVx7TOlfPubxovrRp2BKUUxf6x1rWTYAjGE6TXlt2WhEhEwdOIsvVmAV7lcjmcJj-y3FxcHkh9gg9KrUN2bivXbZlDiWUf1YGSJkrGwzvgRh7IPJRirIgUWvBmfGld04nxk5ZpxwLR8v_jbLO_bU4d1VOuWsgrZoQGE5lKQnfucq_1yyZl_ENOvsSZhqhoH7hjmSXLcVt8hvoKa89Y3g5iCBPQYz6iOe4bz9guZSalyZV7G6iA_NN0va7u-9yJ9Lg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🚨
-🚨
-‼️
-🇪🇬
-سرمربی تیم‌ملی مصر: از شخصیت گلر تیم‌ملی کیپ‌ورد خوشم میاد و دوس‌دارم باهاش در مرحله بعدی روبه‌رو بشم
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/97967" target="_blank">📅 00:55 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97966">
-<div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-text">🚨
-🚨
-🚨
-🚨
-🚨
-#فوووووری؛ در صورت تایید احتمال رعد و برق، بازی حداقل نیم ساعت با تاخیر آغاز میشه
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/97966" target="_blank">📅 00:52 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97965">
-<div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-text">🚨
-🚨
-🚨
-🚨
-🇦🇷
-🇨🇻
-#فوووووری  فیفا اعلام کرد که بدلیل شرایط نامساعد جوی در میامی احتمال داره بازی آرژانتین و کیپ‌ورد با تاخیر آغاز بشه. اطلاعات تکمیلی تا ۱۵ دقیقه آینده اعلام میشه
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/97965" target="_blank">📅 00:51 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97964">
-<div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-text">🚨
-🚨
-🚨
-🚨
-🇦🇷
-🇨🇻
-#فوووووری
-فیفا اعلام کرد که بدلیل شرایط نامساعد جوی در میامی احتمال داره بازی آرژانتین و کیپ‌ورد با تاخیر آغاز بشه. اطلاعات تکمیلی تا ۱۵ دقیقه آینده اعلام میشه
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/97964" target="_blank">📅 00:49 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97963">
-<div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Pq_DkJrpsRhDOyAQmtATK3-bYvtI2ErzllSbezQaLfJXy5K2wUk6NXI5wYS-jX7xnaAUv8whJzM76sMLE_ea2ioR5LRnBk9sS0M9ps6KRVdSg8ofkMW-jm48_Gv8JuARdXdTHqQrLSZdl1ux6279UOGGxet75UhyrokMxPeRgiEb-5ur_3VqN8Y5hCUX2ku66uIQXGYmdivd0ZtPItQhxcw3NsKHfrz94lebUR3cV5k3xF8AbQbhUqLo1Mljt0t7-sD9wCg6mfmf1maG9ICqHJhVP3E2QfEJ0uyfs_rQssbiNOtHYURF-XQMsTz9NGsp9jUgD30sZumiQUw9nI9xgA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">⁉️
-‏
-بازی بعدی مقابل لیونل مسی خواهد بود. نظر شما چیست؟
-🚨
-🚨
-🎙️
-محمد صلاح
-:
-"نه، خیر. بازی با آرژانتین به زودی آغاز می‌شود. ما باید به حریف خود نیز احترام بگذاریم."
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/97963" target="_blank">📅 00:47 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97962">
-<div class="tg-post-header">📌 پیام #64</div>
-<div class="tg-text">🚨
-🚨
-🚨
-🎙
-خداداد عزیزی: از کادرفنی تیم‌ملی خواهش میکنم از فردا نیان کسشر بگن که صعود نکردن ما بخاطر حضور تیمای قدرتمند مصر ‌و بلژیک بوده
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/97962" target="_blank">📅 00:40 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97961">
-<div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bPfwu-rcf7aitD-6VBJkZ8vijm-bqjMTDuulQWhEDCIN5AZienaNkzo0oXEuE-lymzHFxIWSx87DU1mOcBPVokFpWaX5pw-XKg2fbnf5DpJWYjCoWvjR9Dz4s6OCzglIZErqFZxexJlRJxZ-8gCeQdrO5bPmYp_6Im2oyOaa4T4ufBMC9V5GkOYXNsL_tGczAo-E60lwrfvxCuBrtzK2xtucv0v2Rw0ALB69Be0eNwO9NftKnM06uFdCY6tDk3gD-RzpdeAZdwLD4ZzJccs8cs-8XWv3TYVutWqHsk1Hdjhb7QCe_vPsAJrcBNFnIi-WQGenwhTJ8P5xFJVFe_XPIg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🚨
-🚨
-🇨🇻
-ترکیب کیپ‌ورد مقابل آرژانتین
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/97961" target="_blank">📅 00:38 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97960">
-<div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K8RVUJumE5BKU-TfpTXRNLhAfyu72VT4q0xSar_FdLBfdcqWNIpXsydQmxAys7AheKUSyAb8QlNMp8jN3i7G0WrnSwbePmoO2h26H-de9_lTrR40GMF4ZQtRU6UCPFIVEKSE8YYYSzzK2UCgKKVqMqYuB-FkVT7dWCsqiE15QgKgsWgxxXR9S9lrg3-5-rQX5_G-kQqu43DPnFc1yafz1VhH5w9P55RbaPijavsXmsFav94jJi54a5JKOaO9TReor5IIJNbrnokQTe4YRHPb8_mFV08DodDfgOEOkwRNwpjoysrpZURO0B1TQM7xGTT_Jm6wfz-6i2fLBADORAwNnw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">😢
-فرعون مصریا درحال گریه کردن بعد بازی
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/97960" target="_blank">📅 00:35 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97959">
-<div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sciDKGLZrtfzTE4VODTIVyinD-fcCSNdHKyDNaEHcOvGX6rYHbGCvAzO-0llQePMaEqzS-BwFH0MvexCF-wn6BmE6Et_SEuVOcg7ZMHqiV-9txHECE2HZAv1Rxdd1NwfLOsGYka1PhWm6ps-dqdsBgCmuc0tgYmbtyuKqRYQXuXt_Sdu_Hy-zbwyfODM75du7wMCRmj_D8Rtwt9t-wQai7ihoR7ru87JHPe7Ew-aiy_L7IDkKwuhH4ivNSvRPKJDwI5c_4mIhoySYGJrGL6hXORcM85XDNfHd5VIsLF-gatSYK5UOIflC3JDlCvcD14Eb3hpsFRWEDou-eIdcpX_9A.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🚨
-🚨
-⚠️
-بهترین تعویض تاریخ جام‌جهانی؛ متئو رایان وارد دروازه استرالیا شد و همه پنالتیا مصر رو سیو نکرد
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/97959" target="_blank">📅 00:33 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97957">
-<div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/NVbaXHVrsrgXC_JLRa626tZuit3paV5xbEURgxGw92kOI9JSnN32LAQAvvNRK2RJcMUMrNIb6HWiPl7iwfCAwQvuqWeEvqeEOCfSP_UvaufdH2qENS7H7OpYkXzKYvtKAOBK_nlKOvR6etoUj3V0to-4VBGS-_vIDM-u9Rs2Tnz9cUA8kz9FbvWY45HpZtgucTydhudXT9y3P3wiwpBeQObmLH6lXRH7l59TjJvfolMlqac4GtxpM77nM2qQw_Rmd_zUmnwHRYkpDrm46Cb0ixnX6OSJDz4PYuQgkgvUrF3XqEOzWujuX6mwgc1ydQg5EjENgVfypc34LC9qvdK_qg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Lc2QBvbMlXVmpWXKBlmlS7U9dUL47QuhB5fWNl24Cwrz5JQv5UTrJMo_DqSNwewEOAhzikVK-_6lAyPlj1DBhGgA5CTs6j3XlBT6F5RL34aXwiTxyB-wp8PLfpTdMOoMiLeL5XGgONbSssTQ5XhQxlvYvy_pUVJW4BpF-T9kGbg4r5tIRzbFdklUZpxpDVN-obromdFHqdq_nBVaDoclkP0Se2RSLoboYiWrmcjgjS6YyBkTPIwnz1lahrAGFqAsURdvvF89KVXJit-wT-MLvuBdncaLfUiaBgvRagghbPnuTgBRw80TeObU7q9IZZTVVsC4XG2bCcmODEDxCfwqJA.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">🚨
-🚨
-🚨
-🚨
-🚨
-اسطوره مصمم و آماده وارد ورزشگاه شد
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/97957" target="_blank">📅 00:31 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97956">
-<div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-text">🔥
-ضربه چیپ‌دیدنی محمد صلاح مقابل استرالیا
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/97956" target="_blank">📅 00:28 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97953">
-<div class="tg-post-header">📌 پیام #58</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/PuIrIloncGfNWvjhShTYwej4JE0fwsVpsLwNKd2vpoc4fi98bUlQCUJpmsAEajJExeYnWLGT9FKaH4cAZsSVYqf09YQG9FM17nhPt9RHUxB-Cczkh_u8lSHbR1lhMbDcZHp0WEqbxmwE9FETtzq2-W3lMaCzPDkdhJfgRPZ4YR8cnTpECj8iV0jkGCZjoDjb-LI0jKdY4wLoWp1CwuP-aV3WqBIK_VbaUHaQFRke-GlB1Bgt4Ew2GJHurGqcAoxdNr5UkOqCsDLhyN7mdXTfbRRhQzUBnzodCz4B-5tx6NKrn9tEHSoj84wUL-y84QkVZrxYuw8k7-LcZ_gnfUNyqw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/MZ-XN7nR-0XnVuJzNe9yXRA1AYatVrPgQZanu2qY1RSME5S2cogVdypQG7znGGCIKp63vbbVY0oEBvGNpC-8aeof5yd0QMyN-fCicV5mDLffWMpPsPvZOgw4x9-3B7cNDLApeMDE6hUO3W9guDVcUpHPC0_UsHivam5oWr2gSW7uj3jQsmgRguH9p--pIQ6EF7En9QLhdvAiHLPzzcdPaEszmXCw5s9V_9VGbxiu3kZzfmEO0550vlBHRBI8INKRTytXIciQ2wO2ElzTepXi8IY5Rde4F1CKsU8nOeaiQHH1DJEm-Rz3LvgTVFy8H2g1oSCJusyQhcEbnYB8SljKuQ.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">🚨
-🏆
-برنده دیدار آرژانتین و کیپ‌ورد رقیب مصر در مرحله ⅛نهایی جام‌جهانی خواهد بود
-🫡
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/Futball180TV/97953" target="_blank">📅 00:27 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97952">
-<div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/6765dad0c0.mp4?token=WhJAmCeou2wzQVeIf0Dr82fV2YR4YLGnGNB-gG9n5S-vX5IHPco3-lN_kq8IJZ7ALt-gy5dDvSHBw5yAXqu1_lREgJYYavOjOBVwhd_FngSu65EjBwcXRtgl7p-50gkQzTuyTr3fyvvEmbtT2CFDsK4bG6EJb5h9iDYcwy8QXvukd-QaUcz7k-eJKpgwQ0bGQpSf2LfVasLC1_FyFI9vrgtGU2hx9nKJZW12QzaA6y4s5e14yYkYbw3sgw9ocKf0m5EHnSq2yxp6SFvkqXUd3b-31TpMq7pWjtvOrluPyEkzxhG_defUoO5tZ9_4oVMfkE6211lC_KeSZVXKxU6ZmQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn1.telesco.pe/file/6765dad0c0.mp4?token=WhJAmCeou2wzQVeIf0Dr82fV2YR4YLGnGNB-gG9n5S-vX5IHPco3-lN_kq8IJZ7ALt-gy5dDvSHBw5yAXqu1_lREgJYYavOjOBVwhd_FngSu65EjBwcXRtgl7p-50gkQzTuyTr3fyvvEmbtT2CFDsK4bG6EJb5h9iDYcwy8QXvukd-QaUcz7k-eJKpgwQ0bGQpSf2LfVasLC1_FyFI9vrgtGU2hx9nKJZW12QzaA6y4s5e14yYkYbw3sgw9ocKf0m5EHnSq2yxp6SFvkqXUd3b-31TpMq7pWjtvOrluPyEkzxhG_defUoO5tZ9_4oVMfkE6211lC_KeSZVXKxU6ZmQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🔥
-ضربه چیپ‌دیدنی محمد صلاح مقابل استرالیا
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/97952" target="_blank">📅 00:25 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97951">
-<div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-text">🚨
-🇪🇬
-تیم ملی مصر به مرحله یک‌شانزدهم نهایی جام جهانی 2026 صعود کرد، و این برای اولین بار در تاریخ این تیم است!
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/97951" target="_blank">📅 00:24 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97950">
-<div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZE8cMnaDTQ6iQBNmypDLAdibYzz_oZ42J7aGIw9M4tX6e6Y5vsPB03BbUmpN5pKDsz34ozZwCBsQ6aoxwkHNQ1LhJXlGy1QmgT4JA_KGa5kG_X3opAA0okG6MWPweCfgJxd-_fdFdKiWW_keE72gw_8iAXshq84jhnI3_YkORYOBj_6NVT8bvcGnWAhyFAE74xLJnKyfTENS4fkxJJK87PtnoPMEtKJSSqFssOEaHaqqnWsjuiJ8gGih4666o7ojF8BJrT4qm_SbaG1-LT9tfASTrnjzOEAI8y0VFWSWXElBbeot6qx93JsmXVRcXggAlN2mad1_skHK_X_LI3Re2w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🇪🇬
-تیم ملی مصر به مرحله یک‌شانزدهم نهایی جام جهانی 2026 صعود کرد، و این برای اولین بار در تاریخ این تیم است!
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/97950" target="_blank">📅 00:23 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97949">
-<div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-text">بازیکن مصر هم زد و تمااام</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/97949" target="_blank">📅 00:22 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97948">
-<div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-text">این قیافش بو ریدن میده</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/97948" target="_blank">📅 00:20 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97947">
-<div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-text">این قیافش بو ریدن میده</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/97947" target="_blank">📅 00:20 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97946">
-<div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-text">چه خوشگل زد</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/97946" target="_blank">📅 00:19 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97945">
-<div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-text">گللللل مصر صلاح</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/97945" target="_blank">📅 00:19 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97944">
-<div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-text">صلاح پشت توپ</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/97944" target="_blank">📅 00:19 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97943">
-<div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-text">گلللل سومی استرالیا ااازد</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/97943" target="_blank">📅 00:18 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97942">
-<div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-text">گلل مصر زد</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/97942" target="_blank">📅 00:17 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97941">
-<div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-text">🇦🇺
-❌
-✅
-✅
-❌
-🇪🇬
-✅
-✅
-✅</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/97941" target="_blank">📅 00:16 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97940">
-<div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-text">گلللللل استرالیا زد</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/97940" target="_blank">📅 00:16 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97939">
-<div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-text">گلل مصر زد</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/97939" target="_blank">📅 00:15 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97938">
-<div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-text">پنالتی اولو استرالیا میزنه</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/97938" target="_blank">📅 00:14 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97937">
-<div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-text">پنالتی اولو استرالیا میزنه</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/97937" target="_blank">📅 00:14 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97936">
-<div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-text">بازی به ضربات پنالتی کشیده شد</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/97936" target="_blank">📅 00:08 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97935">
-<div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KMbKz1VZ-h1ORY6FtQrm0NE543OJB2UVgQSWPBVuqCAEHLTR_CjHWlg4sVM90-LTMAB5edXr4t8GX8Y47dfytIULhCWWySQx9AyUIsEEjLvulRLaeqdmWojiO1Ceo-WmHukokSaT0gO5ssOdkuIBuMewvXt7SnfceYKhRDNShXce00lsQMnWBr6yuR8GDj1PgneA8uA8Vo_ivDTooT0sTDwW_avwB_KoXcRV9aAYh6aIx0KXNC8X-oWQVvQmF5onaJiLdPEhXq_a5XcBo3HNO7ei_b2fX4Yyq_5b6Tp-cthwNjz2z0iSVjBhSlO7mRn6vFCxnD7Hoe04JiB9vZLC4Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">👍
-ژائو‌نوس و دوس‌دخترش بعد بازی دیشب
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/97935" target="_blank">📅 00:03 · 13 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97934">
-<div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-text">شروع نیمه دوم وقت اضافه</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/97934" target="_blank">📅 23:51 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97933">
-<div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IS8-qb00XVTPxTukDiZRn60WlmRRa-5a6U9u19NVOliGTfuA3ZN_6UA_vuam976qilN6j1IkZQoYQRF-Jtk4KXn6_gr_mLoSJuFc5HWNzVdtZfYFTh8o3fhiH1n-ap23e_dI20WCVOGeg24qWs26u0yIdhk4gVh0Zlw8OraSII2Ruoy0GU0qfRYWgXl6GoAO2XWY8TFlzacVdDWM3ZdNLGMQUzBH6RNjp7bmYauSNnDEqNskZAWj6BaMyESroHMpTx7QEe747SAbFVh-NvMBBl_U41EP1xtEj9l_CepH2A27EJsNG-OGKTO6JR2KmrhGmPHtdGsiZTQxxeaKmnaR3g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🇦🇷
-ترکیب رسمی آرژانتین مقابل کیپ ورد
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/97933" target="_blank">📅 23:49 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97931">
-<div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-text">بریم سراغ ۱۵ دقیقه اول</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/97931" target="_blank">📅 23:48 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97930">
-<div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-text">بریم سراغ ۱۵ دقیقه اول</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/Futball180TV/97930" target="_blank">📅 23:33 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97929">
-<div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/9537d57a20.mp4?token=Uf8wG7vLJLNTM_1vZ2w-XhicbD8hdviGAITeJ9QYW_jBA0D3PVDJwYmk32LwywXbAz52uwwtz2w_mq3XOYK-QNK9dtp3JR-kwX-1FRV1j3fejMOdn0gEWNqr5qWW6G3GlC-lgCgw7S6Tp4LHJ9D2FI5iYhvqOX2MRo1DJInaxpJlJC_0vF2V0a8gm5DqAdu0LXU8npZRMOMQn6qQxtLceGhH-mqLzgYJIl95X0j7XplvHbkSnnixd6-mLL-BwmgxrKh8jWpDjqaCXeQEZ2zvQORDaiSS5bSSeSi1oj9S-5jOtw0qLeMzdFfilj_VQLC3hkDFpfXTJGg0K2GSkXxsYA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/9537d57a20.mp4?token=Uf8wG7vLJLNTM_1vZ2w-XhicbD8hdviGAITeJ9QYW_jBA0D3PVDJwYmk32LwywXbAz52uwwtz2w_mq3XOYK-QNK9dtp3JR-kwX-1FRV1j3fejMOdn0gEWNqr5qWW6G3GlC-lgCgw7S6Tp4LHJ9D2FI5iYhvqOX2MRo1DJInaxpJlJC_0vF2V0a8gm5DqAdu0LXU8npZRMOMQn6qQxtLceGhH-mqLzgYJIl95X0j7XplvHbkSnnixd6-mLL-BwmgxrKh8jWpDjqaCXeQEZ2zvQORDaiSS5bSSeSi1oj9S-5jOtw0qLeMzdFfilj_VQLC3hkDFpfXTJGg0K2GSkXxsYA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🚨
-🚨
-🚨
-‼️
-⚠️
-میثاقی امشب به سیم آخر زد و شماره موبایل اصلی خودش رو به صورت کامل روی آنتن زنده اعلام کرد تا مردم بهش پیامک بزنن!
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/97929" target="_blank">📅 23:31 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97928">
-<div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-text">🚨
-🏆
-پایان بازی | پایان بازی در 90 دقیقه با تساوی؛ وقت‌ اضافه تکلیف را مشخص خواهد کرد.
-🇪🇬
-مصر
-😃
--
-😃
-استرالیا
-🇦🇺
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/97928" target="_blank">📅 23:27 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97927">
-<div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cWn-opKC9bfpDks_LZW8g52aWGmxpBjNfO1EdtBMF4sLXrAbuVwjYQ3DyV5GJOXn0dgTpr_N87PMZIOa0bcRDeivH3kATabVe89ylIZzMiKZSjAbypM0C2KlbG5D0_-SPoMU9vTvYA29OM9ki7KgbjzWS62Oa0elV2NixPF75A70F9FoZtVxiYziQ10CBbxvVN310RHiA1ONMdo36AXkZL2cL9gRTDrOb6EvsjNlaE6YHxQUGqLUyqIrg6t4OEFb5jZOT6jbf9IiAd5ML4vqOpGZmdV7PtubN2-8UOg0pVtA6YyIr3s1ZdR9REnBPCSTrfFxDW4dWUfLwpOoE98clw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🚨
-🇳🇱
-❌
-تیم ملی هلند تنها تیمی از بین 10 تیم برتر جهان است که از مرحله یک‌شانزدهم نهایی حذف شده است.
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/97927" target="_blank">📅 23:17 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97926">
-<div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B07qjCPnt-GX66Jy6ZOaLp79bAB-zO0U0euDZ2Ym63lC74CUEdAuUyL3a4F1gXNCO13R4loLQRmns5C8NGcexeqL5UZP2BdBuxShXwuG8ENjXCk6IVwdL29scHIkrW7buDdacXk5txKllhlQxyNPoMuxwxqHUaeCT0PrA13vxx2oSTj3CX-qXiBVsSdWaA9r2-H9n-e1Gml8uNyCtkQSszEbBEJziZieLmPZ344zD-G9zVngI-EH9YpOrYei2lkX1467c_QphtyeqCeB6huWlG_B1aJLNL4tc9ocB8rysceZvD-LQ2hDTVx7SWqcd6CJP51hM1m31kfExbB61RQGhA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🇪🇬
-محمد هانی، اولین بازیکنی از سال 1966 است که در یک دوره از جام جهانی، دو گل بخودی میزند.
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/Futball180TV/97926" target="_blank">📅 23:10 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97925">
-<div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/1d324a1031.mp4?token=T26qRO9IhS2neVDuIQ8xudlFuzN5oApSC_syuZ6TbwuudtEEJHxa1TDycDfrU3xE9ruE6E-BBlInvmugcpb_QFQfSnJ6MddN5OxavI12RCg1SPI-0Fnh12PZtVMHCgecP9pZQBL2yafH3kDuA1z6XdHY58eW1pk4CZY9RBZpcc8-xcULpEArqTJe7cbt5ROEoerjo4xx43HoROFGPza9pcxfCuzffjJtz5gfAgpvzfWl0YsoBVEXms5RLzhG7pNIaa_7a5Tkwsuux7HEm347huCbHRKtPSNCBSzWktlKE9ui5UYZCYhOdnB9aQPz16PUCKctpbLarYRuUcYSnGjqtncqtGrN-n_4hWt6ExNjPr9w64Dgsqu6KJytvRyuRvy_l-8S305Ci07oBkSWVz0qYYX3Kfxxy0UwoDa8BmHqTuTV27xyBhpYY6b7NSkkvney6ZrQusIDHxohK64Dp1XS5Y9tIlQMG4ASo6mQIoCrViemiGpBwshFdj8LFOQjnFJWJwWsUGpTPHVMGk9Xtw74cMyoYova12tP1T3hrxXwakr2qmrm1mezWCjahRkI70D4o8inzbJbRh9cvnFNoCVcgImOrgNt0z2qrEAQ210T5B8LABa_GQemlzZJ240tGm5mg3oyazKIH8OSm1Z8seaWuhEPDE8rlddKYbijKXlcdXc" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn1.telesco.pe/file/1d324a1031.mp4?token=T26qRO9IhS2neVDuIQ8xudlFuzN5oApSC_syuZ6TbwuudtEEJHxa1TDycDfrU3xE9ruE6E-BBlInvmugcpb_QFQfSnJ6MddN5OxavI12RCg1SPI-0Fnh12PZtVMHCgecP9pZQBL2yafH3kDuA1z6XdHY58eW1pk4CZY9RBZpcc8-xcULpEArqTJe7cbt5ROEoerjo4xx43HoROFGPza9pcxfCuzffjJtz5gfAgpvzfWl0YsoBVEXms5RLzhG7pNIaa_7a5Tkwsuux7HEm347huCbHRKtPSNCBSzWktlKE9ui5UYZCYhOdnB9aQPz16PUCKctpbLarYRuUcYSnGjqtncqtGrN-n_4hWt6ExNjPr9w64Dgsqu6KJytvRyuRvy_l-8S305Ci07oBkSWVz0qYYX3Kfxxy0UwoDa8BmHqTuTV27xyBhpYY6b7NSkkvney6ZrQusIDHxohK64Dp1XS5Y9tIlQMG4ASo6mQIoCrViemiGpBwshFdj8LFOQjnFJWJwWsUGpTPHVMGk9Xtw74cMyoYova12tP1T3hrxXwakr2qmrm1mezWCjahRkI70D4o8inzbJbRh9cvnFNoCVcgImOrgNt0z2qrEAQ210T5B8LABa_GQemlzZJ240tGm5mg3oyazKIH8OSm1Z8seaWuhEPDE8rlddKYbijKXlcdXc" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🇦🇺
-گل مساوی استرالیا ( گل بخودی محمد هانی )
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/Futball180TV/97925" target="_blank">📅 22:48 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97924">
-<div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-text">گلللللللللللل مساوی استرالیا زد</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/97924" target="_blank">📅 22:48 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97921">
-<div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-text">گلللللللللللل مساوی استرالیا زد</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/97921" target="_blank">📅 22:46 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97920">
-<div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UJt-FWGp9Yc6FHaDuTot8JVsHcuGVaC9J3cxHvJatHN-S0yrJqAngOcxJQkIZA4o5RiaCpGhc0ZRdUFf2QVUb7yaNgHqKKpkKWLaaIG1lsIItUatEqnJAFTeZoCfbyCowmVdsWhkxZ2aj3NIu9KDVbCuzCq9IeeG702MN1_W2IDrYaJ54YhZ5aON-ag2XM8k3Ypy34HZMMFQzfCccU-EyXw6Iyazz7-VsxRv3P9vypzJxw6nJ6emUXTplsvG2gxLQqKxVapYsSMpRVtnnknj27n2KbzE5PwHS1bGvEZttT3AACVNZj6IZiAzHV5zSANGFf2g3vC86hAG67h3WxZ1Rw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">مرموش اینو نزد.
-‼️
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/97920" target="_blank">📅 22:45 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97919">
-<div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jFNAiZteR8ZhYNkQ4YZfxafDZDIm8KS3DMJ_juFsZCcW-pbckJBaVtzx5e3QoFpQRS3UluX-7Uv-_2R4S0H_RIpGzOWoZo7T1lF0KD2MSsbUcjUhOHyyq2JS2qR5Jrbd10S0DJmQScCBU9tWJt86R10JzwQ9lBJjSKWWn85mfjljYzVKK80vah7mmfdvA5iwXPUDKNvnOO142SViNeXHw2Ec5UAn1YAp0CKNLX_VAmwwmNgNv-9DsyYyTywxs7lD4Mch5D35Ukuutt2cF2qEz8PFhoYPRdqMPDb-VU1xM7LeiMuVhWnEzJUvtPhGx5YWnsbUEWHwOs8p0QWrvqCO-w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🔴
-هالند تو اینستاگرام این کلیپو لایک کرده و برای وینیسیوس کامنت گذاشته:
-🇳🇴
-هالند: وینی باید این صحنه رو بازسازی کنیم.
-🇧🇷
-وینیسیوس: خخخخخخخخخ
-😂
-😂
-😂
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/Futball180TV/97919" target="_blank">📅 22:43 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97918">
-<div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YxREkjHfDh2gdEeGFLbKMZEV4fhsUFfxoCSccH9_aKi2lDvrMZvULtsclIblPKd83tRmJs9TvMd0YoiU4sefL4cO2m2DOlTuSxR2QXz_zp5-tJ7Sg5XAjsvBKsQymxpizxYmElx1Y_VMtcSQlETaZQtbU-ap-aDqI7B2cYhOQbXZZLyrrL_lEn5ea7Y317YjOoHLX1PLSgK6scsHMnsfi-XqQMqiFFEuzx8E2s_doyDEwTGrcMUyA7rQI1dAYLvKYVoSgcGEPFltoXGUGosz_YLn3NSnXxqzNjQe9zx9AMiXhlR-FolpPwb4e6DpTDroSxwQCz5kyvf4hk6JdmQkug.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-زمان برگزاری مسابقه بین مکزیک و انگلیس در مرحله یک‌هشتم نهایی به دلیل خطر وقوع طوفان با رعد و برق تغییر خواهد کرد.
-این مسابقه که قرار بود روز دوشنبه ساعت 3:30 صبح برگزار شود، اکنون روز یکشنبه ساعت 21:30 برگزار خواهد شد.
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/97918" target="_blank">📅 22:39 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97917">
-<div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZRs6kMBEPMEHj5MnDLQ8ZVoU5BUoapWV5IB9dYgqIrweOPxXqPs8YjeuvCeUlSVcf2UrLitZHsQI7kSQjAud0fD8M2OzfhVutQNkHWGvviZ7_5sMqCuuRISeiiJg3jdSTcm2b3t9xaJbk5LhDgiRPm6s844uUS2dO0qrg4ztA5Su_OyB7iV1FR4BXEApZy78W4KeJwPaK-uHBP1HC2u3Lvz2mkD_TL9o9w9lnttlo3PDnQrGmJFaQvDSugLhv9Z1ettKB6zvFEBZq7Gfv1WdJR_bdKte9nWkNMH3MuJtC51fKFrkVej_u4sl5d18GiyprjszrwZX1z-nsRh58ZO5Uw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">📊
-امام عاشور پس از محمد صلاح (3) و عبدالرحمن فوزی (2) سومین بازیکنی است که برای تیم ملی مصر در جام جهانی دو گل به ثمر رسانده است.
-🔹
-او پس از محمد صلاح دومین بازیکنی است که در دو بازی مختلف در جام جهانی گلزنی می کند.‌‌
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/Futball180TV/97917" target="_blank">📅 22:24 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97916">
-<div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-text">پایان نیمه اول
-🇪🇬
-مصر 1 -
-🇳🇿
-استرالیا 0
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/97916" target="_blank">📅 22:20 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97915">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uYKzugFDGalxJBSILInjWsoJYVQoa9tCIUUXhyAqRHZnvQduyraCdpp-f47KIiKTbA_QR6CNeSa6nj8FWXUBnWnMg3YBghFWuyB-8SZuz3j1n0eps_AX3qrmgDjstoj01d5vdO-cRq0PhnUpo5PkTXUVXDod81wOptKxb2Pn-BDrMbcB_TsKjsHCU_f6E09dvnmVclYVJnnxxtSDf2pUZpoR9qZBbMn8U5MiYaSkupUYE7oO9MMe32l3Du129TCJBK-vlHW4uYYrcWMZTgiepPLiQ_DCjuAMfXJ_0M_7wUQfMKpG4E8LHcu8iQBy-r6sE_l9Z4Nux9BuC-fa-O7gCg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">تیم ملی اسپانیا برای بازی با پرتغال
-😂
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/97915" target="_blank">📅 22:05 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97914">
-<div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Lbfbd3G2qmlgplhQQGr7dljO2EBwD4DgiX73h5g-1EP5cH02s1zKAVWig5UBUJboYmYH-ri76brH8Ps-MmP4bjmSNuGimltuznu91L_36eSa5t1rTwz6o42sppFJdx1y3A1Jd-0xIC22LiX6dyo-p7ALmcMD9TTvLJGhzM2C4zOLJ7XkQucaa28oN1iujNTa7-TEi3sN-iYIe8khkCk1RxknYQypq_U4BggXgmcyYgCEktWKXeyQwOUY8nu-nBFErjD2vvX8q18tQ6pomkCbT0efsky4pa0iB1wvkNJ9cbKR-A_QnGM7AlLKOmUysoOqf_rALxY1Isr8VRiMmZPQ0w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">❌
-سرمربی کره جنوبی به دلیل تهدید شدن به مرگ از کره فرار کرد
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/97914" target="_blank">📅 21:55 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97912">
-<div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromBetegram</strong></div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Zd0iHZcZWWt4wMzSFJVyW7ZkZzZgP-VmbcW2y10uuf9WL5vsuaCfykeTFG4cOPyjwWverRD9eoq3qB0hLMWiNp6pupgKJr7faWcjZz1eZT5Qtb3zaX9lFCrMrOdYiyCZIpiS7j6NxJ_7f2P0COQPfvEtqZrBu-TEAS92xpAT5F_iVT8Y9o6nIJ7pdgYL7IMNN_jD88dOrAT3MN08Kptl9QViO23VyT6GwkxNexwU2K6HvUspSOIrao_6fMxfYbxMd-9b33NE5qix9VrwMHoZd1F7BBqCdA0hfMpIXsh2lF4d_GPOQKSbZptAoppkE4kWx_DRQc5S-yfB_OvsnmKJ9g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/J4c7wigYxVOjgxIPfquli-YOsc_qF6fcorT53dqCtKrjvWLmj2v30sR5bBx8ZMsUgyB5CszqTExHv5y7uStMBg6Na0YMBjAYsdIRGCEQzRCCuaunBCLLTiyXtWaY78Y5MtrZh5qixJY1UGCGxdwxXZ6SBsnK_oYds-m75nL2NBzV3CZaaYoL4ZLcjucP76z-cpE6yPUaKEgm_6SUR-Tzlj7bCENdSryMizaaer8UdZlmliBFddLdFHkte8WxGeE_30Arqu4WWKBLJXhwvk7GIvmO1D0wqkKOmLOJqsVg8KR9hDKJmp684vT1dL_52pKFunU9SugLdVdzOETLPIGr-g.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">🇦🇷
-🆚
-🇨🇻
-🗓️
-۱۳ تیر
-⏰
-۰۱:۳۰
-آرژانتین
-🆚
-کیپ‌ورد
-📌
-آرژانتین یا شگفتی تاریخی کیپ‌ورد؟
-⚽
-🔥
-مدافع عنوان قهرمانی برای ادامه مسیر به میدان می‌آید، اما کیپ‌وردِ شگفتی‌ساز بدون هیچ ترسی به دنبال رقم زدن یکی از بزرگ‌ترین غافلگیری‌های جام است.
-👀
-⚡️
-آیا مسی و یارانش صعود می‌کنند یا تاریخ دوباره نوشته می‌شود؟
-🚀
-بتگرام در تمام مسابقات جام جهانی ۲۰۲۶ همراه شماست؛
-با پوشش کامل بازی‌ها، آپشن‌های متنوع و هیجان لحظه‌به‌لحظه رقابت‌ها.
-👉
-🌐
-🚀
-betegram.com/affiliates?btag=3_l7
-🔥
-⚽</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/Futball180TV/97912" target="_blank">📅 21:55 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97911">
-<div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/2fa6b65337.mp4?token=nOWqkQOnzmLpx0lOrpHev6mPo-rzauDB8NORPQxX7nutEL_DCcgheCHW12Lk-sL8e6KYYJmajC3us-21ROKvOsF-51RYZwDxuYL-UFnPj8M2nWtq3ic4R77r-Q23vV5-12n6AH9rOW3NNJNKRnGruzFD-uROQ0TO3oQYfqO3N0EpdkZa5OwFOuP5hxz6DSQ0WAzYQUKA6dH5x7yjr8GpFrfsXkjqGzfJIbdO9Xa89hTn1rizLaUr6apY7KX8VEZYFF3lBM7p23AjJ4JcrFys-zjPt7KayL0vYHX1vamSf065c42O_ALkXm1wTlTonzSBnyPkHypOUhmUPFtJ9HIl367uYOjW6HJMDBXVtQYwitspowIw2tYwzTvadkl-R71NYlimylWEj6xEXa9ouqblCAA_1u9NZxmzjNmU_xqmbbZRZJRHWkUk5aCymV9_MkFEkj4kTyD2LRZOfeSpEZxRA1TUhKmrW7g_AbO_-lZbcrA6IHqUbfzlOYwEwGURJnaZAU8KhVtp5KsxoL6LQawZTlNZv5vEpj5Zz8KXFQhsCdFZBgMC5LXGOYw5NLHkefZyAki1ou0OvF9_hQCn-eSHxaSv2EZ9pMlFeWOFGGhmQOoo3n_WyVJDUgueRW2q2uq9gHKNif8F4X5XcrcBEiyKfcAn3OiY5UHRqLn-VKW2BCY" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn1.telesco.pe/file/2fa6b65337.mp4?token=nOWqkQOnzmLpx0lOrpHev6mPo-rzauDB8NORPQxX7nutEL_DCcgheCHW12Lk-sL8e6KYYJmajC3us-21ROKvOsF-51RYZwDxuYL-UFnPj8M2nWtq3ic4R77r-Q23vV5-12n6AH9rOW3NNJNKRnGruzFD-uROQ0TO3oQYfqO3N0EpdkZa5OwFOuP5hxz6DSQ0WAzYQUKA6dH5x7yjr8GpFrfsXkjqGzfJIbdO9Xa89hTn1rizLaUr6apY7KX8VEZYFF3lBM7p23AjJ4JcrFys-zjPt7KayL0vYHX1vamSf065c42O_ALkXm1wTlTonzSBnyPkHypOUhmUPFtJ9HIl367uYOjW6HJMDBXVtQYwitspowIw2tYwzTvadkl-R71NYlimylWEj6xEXa9ouqblCAA_1u9NZxmzjNmU_xqmbbZRZJRHWkUk5aCymV9_MkFEkj4kTyD2LRZOfeSpEZxRA1TUhKmrW7g_AbO_-lZbcrA6IHqUbfzlOYwEwGURJnaZAU8KhVtp5KsxoL6LQawZTlNZv5vEpj5Zz8KXFQhsCdFZBgMC5LXGOYw5NLHkefZyAki1ou0OvF9_hQCn-eSHxaSv2EZ9pMlFeWOFGGhmQOoo3n_WyVJDUgueRW2q2uq9gHKNif8F4X5XcrcBEiyKfcAn3OiY5UHRqLn-VKW2BCY" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">گل اول مصر به استرالیا توسط امام عاشور
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/97911" target="_blank">📅 21:45 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97910">
-<div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-text">مصر اولی رو زددد</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/97910" target="_blank">📅 21:42 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97909">
-<div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-text">گلللل</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/97909" target="_blank">📅 21:42 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97907">
-<div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/eGRJnivT6ZPouTYkEfdxUvtmMoPJm7SLblfAgFyjYbRRJwLGF7yF2WmHxCUK2hcx_9jxpPdUaj5vHR1vFblaNhlP4zcL0lFIcCcUolc-su2lVynfe5cN5wFUdAOQoItsCq-hJ4PXXEMi0BahZ15vSEVx4VcebAlhDlS9cb3PEvfOexcvFz8uRo4vGI8eXs6Bl-a_nH_6jWcU9mg8KkxXyRI4fQR6dKQ1ovd_efrask03h1nFnpXa_JQy0xg7mtyaOQDOTZgkjI8-cXxu1oG1c1ZTwR4QiqaGiWGnlzbH5toWY7VKJKDgeelAWprVKZuut6vCw-9jRp9h7TZlViN7ig.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/AVnWL_K_pENGHqYk9_6AeatSrzLGh9zxAGRamvpla16mmXlz3unzC3JAHNsUEQAK2X-9PUVhhVbvZuitDxl6LZryfhXauVOBmh2q605S6SqIgjL4gD5e_bUG3lJ2oPtt0__V52cKP5OhA0Lm8Ah-F9ZhzWz9WfVFzrzy5IRJL9gg4oaMioy7Wm-0iSq8L9qHJWjgJKbnG5SR3c2TzbEYW-v9C4hyNTsdaH8kyeDAntYtI_1yG87405AXZbRZB_lsB7IxyaIWBzV6sJwuWKT9-w49X0sCeVpnjuFJ_0bNQqaVMl-1oDQSXTcG-xb7TGC06oVHbNzyigTE0HEerA_Jmw.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">🚨
-🚨
-🏴󠁧󠁢󠁥󠁮󠁧󠁿
-خبر فوری - روزنامه "ذا صن" بریتانیایی:
-به بازیکنان تیم ملی انگلیس اجازه داده شده تا از داروی "ویاگرا" برای کمک به مقابله با اثرات ارتفاع زیاد در شهر مکزیکو استفاده کنند. این دارو توسط آژانس جهانی مبارزه با دوپینگ ممنوع نشده است و به بهبود جریان خون در ریه‌ها کمک می‌کند.
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/Futball180TV/97907" target="_blank">📅 21:19 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97906">
-<div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZQE30nwc3RseaQrbzde1aXupSNbcygbjGgMmvcwe1GVDC6x3Pqj7wsI6y7hNQBTCCofMZIm6dvnWXLbf0e05BitsOpWVDnPpPFSteAhE0-S9D8IM0hnRVfoNT7nv6cVY_HgG7kpW5uwvU1UzMwzQL2U5rJvxCgG7Xk1bp3ZDYfuN17j8K12DdCzmmI5dknKMg7BiAi4kO887dIY9Jvhq0CTmroDA7Lhb5bNX_M7__7KK76gPouniUDgyhYUTdNEJCdkgGYEQv8opdtMy5AXjJfuYul9rPFO1NPUecBtkBP5DEB7ZtoMt0emZQXCdQ5spMUJCQp5zSk21O08NHgv1rw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🚨
-🇧🇷
-بازگشت رافینیا به تمرینات برزیل
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/Futball180TV/97906" target="_blank">📅 20:49 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97905">
-<div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/ac3dfc9e63.mp4?token=pH_eQ7-srJxAsl2bYwWfmfUbudYrNdb7dDF_C16IEckkaEQmiW39fox3ROI196ZRPTvGM2TDswILhf_qTIm13h5f__DghY-MMNBDlNI876ZQTORqi1erChexNiNpII2pF1HzNYyPY2WgCkkHfZsoveI_vYlj7lZdfQs8pH9thYybRLoOlxb1IslIupN6h-RT_STb8dgcci6tH3FxeHWZZ_3SVj9xNhkSdUNVmyMB6kFrH6j13F21FIRsh9UUsITbzlCsSBwpXx03cZjsdXT2RBVFUtUDZhNac1QVua64aHuZ6sITKU-TJMwIPgE8xKDS2tYpy8_OwBO9FimtGko_Ag" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/ac3dfc9e63.mp4?token=pH_eQ7-srJxAsl2bYwWfmfUbudYrNdb7dDF_C16IEckkaEQmiW39fox3ROI196ZRPTvGM2TDswILhf_qTIm13h5f__DghY-MMNBDlNI876ZQTORqi1erChexNiNpII2pF1HzNYyPY2WgCkkHfZsoveI_vYlj7lZdfQs8pH9thYybRLoOlxb1IslIupN6h-RT_STb8dgcci6tH3FxeHWZZ_3SVj9xNhkSdUNVmyMB6kFrH6j13F21FIRsh9UUsITbzlCsSBwpXx03cZjsdXT2RBVFUtUDZhNac1QVua64aHuZ6sITKU-TJMwIPgE8xKDS2tYpy8_OwBO9FimtGko_Ag" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🔺
-تتوی " کایزن " اولیسه که راجبش گفته: «این موضوع از یک صحبت در زمین تمرین در کریستال پالاس شروع شد. یکی از مربیان درباره مفهوم کایزن صحبت می‌کرد. بعد از آن خودم درباره‌ اش تحقیق کردم. ایده‌ی بهتر شدن هر روز حتی به‌صورت کوچک تا زمانی که به سطح مشخصی برسی. من با این فلسفه ارتباط می‌گیرم.»
-😒
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/Futball180TV/97905" target="_blank">📅 20:32 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97904">
-<div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cdDcjBvlqDdZ7fqT_VhluQKyFyeOnuuZmB2elxHEut-0h84lbcX-DCVh9uQQogOvobX3LfWlkqdRNbS_LdKYyaJgUmSTTkJ1Zq6xXub50jQMiBR2eJ59o4oBO9y3h-bRGKmMkfmjNJ3cPhNPSsGLkjmJurDp2q8-i8Bw1h5y2VP8VWz9zan_blyjHv05j7rUMrvQ9ZWinhb1Dp_dHRdSn9UnG066dfjibfGsb2pSCl2Bdw2aRSSnYmtOyM69KGaPw31S-agy8op2sp_auUzDyC2i3yB2jT01p1KKtOwXAv5vQxsaPBw8M5Ye5mT_KGT4HU5o2kxf3a7Sf7yx7lQDPg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🇲🇽
-🏴󠁧󠁢󠁥󠁮󠁧󠁿
-علیرضا فغانی داور بازی انگلیس و مکزیک در مرحله ⅛نهایی جام‌جهانی شد
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/Futball180TV/97904" target="_blank">📅 20:24 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97903">
-<div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UOqKMac-LY1aSJlxQ3yWH5iKS3tR_QPdZllbysh5OhyPZq3YbpImsjk9vlck1VSeLyiMu-v6aKQWviAKFXNd5NhRVGi3tQjOeRfKILwhorg1LoNtZODUGE1-widwRtO9DQXcHFBtA4EAesropfke9ciaRAiHkxhokCDO9O8AjBMy65WyABvrhPBdv9MWOdZM_JSQrLiZ-qjJ_vP3iLktm800F9XrxLhB4s-8YX-rihN-WTSr8dCfn9QCLwvqZwdYsSYqQCBb-OsDZsdBzTKb9artOE3yyD6g5ouSn5_oNFS3eW0fMJGjH6ks7jrfd2NaAJB3HLDcjIkQP7IAaqzRHQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🟡
-#رسمیییییی؛ آنژ پوستکوغلو سرمربی سابق تاتنهام هدایت النصر عربستان را برعهده گرفت
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/Futball180TV/97903" target="_blank">📅 20:17 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97902">
-<div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V-EqB2ud86gfw-3-abbxel5zjM6Y681ZrKMUXrUtkVuyGuOOeaTHqJ0isZawEsEQxUHuNV63ApwARVG96gpAeZc37pRsFys30BCZEHYAV7SPswC6LkFHIQROtOb3i53OiztNh74xM9dOcmfTytEteljeWvJ5yYkG_Rrc6X6PE5WASD8gSMVE5M526apl41dGYfsIBYoS9wr615qLAUl6q7G4r0fSiHuVIa7lTiaP8HpR_TJbL8I21GOCS5DhsNvi6XKBOl8RgjhHHo4G0aSQ1aDfTQ2PsVpsy5baSQP5yV0Vo0iCJgzCJThV6qCq11MyD_b5yTb6ebwdfPWoVJ_Ypw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">تنها افتخار الجزایر تو جام‌جهانی حذف تیم قلعه نویی و حضور ویژه ایشون بوده.
-🐸
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/97902" target="_blank">📅 20:09 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97900">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/kCsTzhBqcek5zqvjwPytxYoTS227ONOF1vphuMwwGeTz-49-o86QdvzpANrlmzGrHhI89-Lti76O4PDjVKoUQzPL31oNh8reB_YqUkZppTz31KkW77MmstziUIdRiwR9KEu-Vs4jsnyUplwVkci54jJkCOMRZn-eTELM2bX-yfvDdiJy9gVQJLuY43TcYyr3RHoBq0mvV8YAhKtuUDK_mQRgTtg1YMtrYsLU9vRRXkRHcs6YrQ5cftZflknivGZG6ANl4lvSIwLXmaPdBLWT9K6I0LvbEdIylea7FrTWOTnINRFFANZESvZC_OpEswf7WcmWo7h7F6AkgaIBRCMpVg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/bads9rPF5Pivujqw_MedzK-B6GG_K4QYPMSYwD_c81_zoMGnjEugf5N_cVW6M2hboJ1auZgeKY_FtbFFrX5qN_dHka8Cnwe5_b8oWpaxphCdB5FWAMSTAgr17ADi2li4Y3W25aJgYbaPyyygVgD91NA26ollOU60jVwpuJqiXHX5UwiQjcJBwDGiuZy_LkGFBUrHkunxuKLZ3LA-rIxF2q1PJLWhtOQlofdXvgNQW77SPs52V1ZOpCH7MktFP85EtSsgBQlNzSzcTY_QzUvAsYBICVo4c9E1xRd3cDm1wZjkLp2rAXEsT-hRZ9Tv3eJnmbAE7JzOxRP5pZhF9XsCYQ.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">🇪🇬
-🇦🇺
-ترکیب رسمی مصر
-⚽️
-استرالیا
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/97900" target="_blank">📅 20:09 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97899">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-text">فک کنم اگه هرشب با ۱۰۰ هزار تومن میومدین چنل بت ما ، شبی بالای ۲ میلیون سود کرده بودین مثل دیشب:)
-😊
-😂
-میگی ن ؟ بیا تو چنلمون و ببین
-🔥
-@Vision_Bet @Vision_Bet @Vision_Bet @Vision_Bet</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/97899" target="_blank">📅 20:09 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97898">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gqR-rQ4Td6345M9ZA3ld7EuC4v6NH7tCdgs8xnCFq4w0ygNr63MwzpQoQb5DrmvFyiZcd49QCZh73QNLWJDCCoHyjRI5e9WS4eHBx26Fo9L3wgKut07umX32tTgh6zAdBec2rWLZuC-Ai0bRa2ptiGJ_2NqXfQPSQYOtsy8_tNJD--yudjaCF6Plp3o16IaiQx03234JOeRZIR8pAZk_ol3W-i_kT4mlEV8EB1Iz6_7QkC7sZ4W-UKC56J191j0kot6ib4KlxcWEIXDmJACqHYo-uah99qcouOhLr0NUEggOq_NS1u-GvqX1lYZbxu7DNqAg7lBVmyuDouZ1UQbw_A.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">فک کنم اگه هرشب با ۱۰۰ هزار تومن میومدین چنل بت ما ، شبی بالای ۲ میلیون سود کرده بودین مثل دیشب:)
-😊
-😂
-میگی ن ؟ بیا تو چنلمون و ببین
-🔥
-@Vision_Bet
-@Vision_Bet
-@Vision_Bet
-@Vision_Bet</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/97898" target="_blank">📅 20:09 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97897">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OZ2jqOOpepdZlir7xiKge0ecUA1mIt1goWFR4L_So22RKfLdBPt6X1xvpQx2JbtYOrW8nDXWBVw5n_3eOp7-7y9qUNVf2d8Qc1AvgJ639PQTncWsmeu5kbtG6W0ylCLWRggmWmInnSrM6JC2BLaJ7ocrAE6V2WaTFfNlcHjUzjo_AtidOOcmBpv7h0KF6LoFelg6gsYc9pJSiNVtTWFBSGf4KAAsyUdHFxaHGGGVxCS3EYwGbupVaEwGFBCGUZJdSxlO3KgPt5dDnOW1Y-jI4IR0P85A4dwTPEHHRFChDJ9AbQWTUoFRd3m8_aEODauccITV89gO9CaDeTVH9tBuxQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🟡
-#رسمیییییی
-؛ آنژ پوستکوغلو سرمربی سابق تاتنهام هدایت النصر عربستان را برعهده گرفت
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/Futball180TV/97897" target="_blank">📅 20:02 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97896">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BUvO39HpiYU5mZMKeYBPJ0_1gj2nGFhxAXjOZMZoTOuKY_HMqToKdPSbrn-MOHw2j1-ZysMHDeUcgcEDLIpIuRP1WAaQrHcB6cCnACMEIa4R7opQk4WSSfIUFSAm3j1vaa7aaPl0-Zd_YPemJEeAx6HA0raOq6Q3lno6MF1tbCtVLxPvpujPa1SwkcSEolToOlWtWm5hEXBZhyq7sc8aBBqkhU3m0s3gR6fdivsOrRyMh-xcDZ4h6XR8hdn67KDoE_UYMLGxBUifJ8JAPavNeOmCW5VVPetb4C4H8_S5lmjUgn7jwSB5831p5gSw_F1VaNWX3hqIEVNvcn6dyLn7WA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">با انتقال تونالی به تاتنهام، نیوکاسل که ۱۷۵ میلیون پوند حدوداً برای این سه بازیکن خرج کرده بود موفق شد حدود ۳۰۰ میلیون پوند بفروشتشون.
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/97896" target="_blank">📅 19:49 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97895">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uOYko7SWrRejLrBMVoAWllfyzisjbOoJOZmx5HpPSZyFLKpBkgtwQWYUyiMBtAtlT0PJeF2pJ0iTpYI_K6GrRl_RUBWrYYj8Bm50lJwKD4cTSLQSqCNLWweEUxhw_fyFvDQbnFKjsog0O1Pe2HKcoqU03XauBtYZWDymvyiiKoAf9HnHqAHt3SYtHRjOlFs17-q4uAw7fMRQPpLiRLqWHcWkomwSRvu1OrL9es2l-1g1QoiIzOPM1JBfddAKhGMhtDFxQEf86v0N0OHMILsMGSs74P4hiqkKulBoFofahB3H4zUud2RfnJFGHFZMLMDxvmcbJq_X2xV7oscva8_R6A.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🚨
-🚨
-🇩🇪
-فوری از بن‌جیکوبز:
-یورگن کلوپ تمایلشو به مربیگری تیم ملی آلمان اعلام کرده.
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/Futball180TV/97895" target="_blank">📅 19:34 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97894">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/61eb94b3b4.mp4?token=bM3_AUZqb9oJLiVoHUT-7HqV9ggMZslf7MA8_PbXPb7b5bpJ24A83vom26u8mBi7540DmNMTz_YmRdaHpuVVaMYWCJIZlcCy3GfLoBiIIVSDg1zm3iXGEodPy8PV81sdchn2WWPH6yn6W0RImpVj-XEmPiskR46AraPCpmuaMyZTKFDzMvO9zrqegqIswh1Z9VSWxBqF6ms7jN9kckiGHgHZICaJgatw_Lf8OH1w1yxexSUjmIUHPO36NKHGsfdlSraMz6i1yHPE88rPc9kCqjLytDLOdaVi1NfyoVW0-24dhbN-k-l9SyVvvO8BDr5h-KH2ogDUNlsB3yYqgCQhfw" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/61eb94b3b4.mp4?token=bM3_AUZqb9oJLiVoHUT-7HqV9ggMZslf7MA8_PbXPb7b5bpJ24A83vom26u8mBi7540DmNMTz_YmRdaHpuVVaMYWCJIZlcCy3GfLoBiIIVSDg1zm3iXGEodPy8PV81sdchn2WWPH6yn6W0RImpVj-XEmPiskR46AraPCpmuaMyZTKFDzMvO9zrqegqIswh1Z9VSWxBqF6ms7jN9kckiGHgHZICaJgatw_Lf8OH1w1yxexSUjmIUHPO36NKHGsfdlSraMz6i1yHPE88rPc9kCqjLytDLOdaVi1NfyoVW0-24dhbN-k-l9SyVvvO8BDr5h-KH2ogDUNlsB3yYqgCQhfw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">هالند تو ملیت های مختلف
-😂
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/Futball180TV/97894" target="_blank">📅 19:14 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97893">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/ecbf79b99b.mp4?token=q9Ar2rpY6cM6nIAEDrIzpizsNk87rw1o17D1sxb-bRvRHOZras82RrGn2SgCmglQXOYkLGyNLqF-MGLzIUJo8f7b0b2BfpPnUAW8HqqycxFTcljFAKwqQX45npBVaULMxMxbCYNVM3iQ0f2p69HSv4Nx0c_uY2UpTfdNn4u9VxNhUFcQAu6bUJPp4gxMj42QF-Zh5Ozy61ycsJMCLg-u3RUAN7GvME9TGJDWDOnQDKFCBQeC2rZ9krvQnK4-YJLLN3bECXuY8Xbur03ntdafjTxaN4NHC3pQLj8ADTHnVPtsvh-tpXFcJ3-r65Lnh9Vn2lChVsu2H6s96hb3N_jV1Q" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/ecbf79b99b.mp4?token=q9Ar2rpY6cM6nIAEDrIzpizsNk87rw1o17D1sxb-bRvRHOZras82RrGn2SgCmglQXOYkLGyNLqF-MGLzIUJo8f7b0b2BfpPnUAW8HqqycxFTcljFAKwqQX45npBVaULMxMxbCYNVM3iQ0f2p69HSv4Nx0c_uY2UpTfdNn4u9VxNhUFcQAu6bUJPp4gxMj42QF-Zh5Ozy61ycsJMCLg-u3RUAN7GvME9TGJDWDOnQDKFCBQeC2rZ9krvQnK4-YJLLN3bECXuY8Xbur03ntdafjTxaN4NHC3pQLj8ADTHnVPtsvh-tpXFcJ3-r65Lnh9Vn2lChVsu2H6s96hb3N_jV1Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">بازیای نصف شب جام‌جهانی هم دردسری شده
-😂
-😂
-😂
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/Futball180TV/97893" target="_blank">📅 19:01 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97891">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">😏
-😏
-😏
-انتظاری که مردم از بازی امشب آرژانتین و کیپ ورد دارن بعد پیش‌بینی جادوگر غنایی:
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/Futball180TV/97891" target="_blank">📅 18:40 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97890">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5205517f12.mp4?token=aZT2OpatCPYTNas4h9fa5-vizrJv95NMo3t39LB6ozYvrqlmMWxp6c-cZCOkyFLOR3-AsjQ4ocY1K1HQ7g4rcceLLpgFsyxd0xwOH8jLjUWP0BamYenaLYjLKm63LNpA-mTtdisPreTISkGBPXEJfHBlTPfiV_WFVp7NKpy8RlZ76D4NoPFG0eQJmwE3wz2XPFk2RA5MD5q6A50mCTZiwlsPUUsOAvf9YhnLNjmjqIZSyX63Orv7w2rbTbOhukJ2e2dJJQAMEBvVPwM0RVenvZiiSqf8wu-lzev2LcABR6tIiS2oG4bZVMdxADCmmkdZoZ41xQwTuQtdEmDnsJRniw" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/5205517f12.mp4?token=aZT2OpatCPYTNas4h9fa5-vizrJv95NMo3t39LB6ozYvrqlmMWxp6c-cZCOkyFLOR3-AsjQ4ocY1K1HQ7g4rcceLLpgFsyxd0xwOH8jLjUWP0BamYenaLYjLKm63LNpA-mTtdisPreTISkGBPXEJfHBlTPfiV_WFVp7NKpy8RlZ76D4NoPFG0eQJmwE3wz2XPFk2RA5MD5q6A50mCTZiwlsPUUsOAvf9YhnLNjmjqIZSyX63Orv7w2rbTbOhukJ2e2dJJQAMEBvVPwM0RVenvZiiSqf8wu-lzev2LcABR6tIiS2oG4bZVMdxADCmmkdZoZ41xQwTuQtdEmDnsJRniw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🚨
-😂
-اتفاقات امشب بازی آرژانتین
-🆚
-کیپ‌ورد
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/Futball180TV/97890" target="_blank">📅 18:20 · 12 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-97889">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nwrAN8EhZbtjHFRD51mbtTw1z4RB4D-W4JmVqPvUtNgQzB9kT8lzkaD3MerS6h5IZlpWO77RzfBNvDvC-hXCU4CB3TYm9Ogg4Enug1O0J9KW5tT09zIbAn4KpUrYQd6OYhhqKrr9K1ks0R6-966oF3-DdbXSY8BQ5Td9cJdS7fm9jgtDypZweHoLSrfeQf2mhBCnoDzzZQV8lNclNrOC8v36m8hCs3ZzDWrb0vkokr5ahWRbzPfg1k0lYBDdEyhHO4YExtI_qn4gBBd7AD-CAPjyVrAMZbI1XnZL1sUWPHaVkOEGTc4moscMgBl8o9k4LIEylKfZZUKSw4AS6cphiw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-🇹🇷
-#رسمیییییی
-؛ ناتان آکه مدافع هلندی تیم فوتبال منچسترسیتی به فنرباغچه ترکیه پیوست
-⚽️
-@Futball180TV</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/Futball180TV/97889" target="_blank">📅 18:17 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/Futball180TV/98000" target="_blank">📅 02:26 · 13 Tir 1405</a></div>
 </div>
 
 <hr>
