@@ -292,22 +292,30 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 🚀آرشیوتلمرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐https://www.youtube.com/@ArchiveTelll</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-14 01:55:57</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-14 02:58:56</div>
 <hr>
 
-<div class="tg-post" id="msg-6713">
+<div class="tg-post" id="msg-6714">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-text">🚀
+تبدیل ویس به متن تلگرام کاملاً رایگان! (بدون نیاز به پریمیوم) با هوش مصنوعی Cloudflare
+https://youtu.be/Xq7e2k3qlqA</div>
+<div class="tg-footer">👁️ 52 · <a href="https://t.me/ArchiveTell/6714" target="_blank">📅 02:59 · 14 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-6713">
+<div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">دوستان وقت بخیر و خسته نباشید
 این چنل زاپاس آرشیوتل هستش
 داشته باشین بهتره
 ❤️‍🔥
 ی موقع اگ چیزی شد...
 https://t.me/FOSSArchive</div>
-<div class="tg-footer">👁️ 771 · <a href="https://t.me/ArchiveTell/6713" target="_blank">📅 22:54 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 844 · <a href="https://t.me/ArchiveTell/6713" target="_blank">📅 22:54 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6712">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c0691365cb.mp4?token=tE37zTt8JmEVYx7EWp2M9UNxokScJr9y191g-WKMdsgFeprILtJ5VorI0pmBz5caZ9VDfI5rwWiuC_XffzjKvqDdHhNUL1832s1KAfK7HMqWlTvPsLLAXeuOZQ2YXnAs-CNlFxN3yzoKGfh61_hf8m-oAQZ9FtLqAlxz31Q6-MOLQ7ikH_yBavkyCYMO1L5Ue7xOXdfgT5V97NuC9vXqyllPbbVCsPl_bqP3mrn8VnVoENhBFApLodOt0l7OwVfHyCI6EakLGdeGAy-r3qVGBsNgfnQDo7X2fVLVVRQOXogwE-S68DlfH89Gn4w48a14uobEW2tQUnHXC7f9Oi-D3A" type="video/mp4">
@@ -324,11 +332,11 @@ ImageGlass
 https://github.com/d2phap/ImageGlass
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.01K · <a href="https://t.me/ArchiveTell/6712" target="_blank">📅 21:31 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.07K · <a href="https://t.me/ArchiveTell/6712" target="_blank">📅 21:31 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6711">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/423195fff7.mp4?token=sGcZ5CvPm7-nnc_QWX659-CxZM2FxvolPmqekv5a9Be2aDU7xP8WcFDegcyUl5G-DelWvdEvH5W8vRveHUDdta8ao2X4nLqNhI0WtkFxUgQ5lD73MQtobgLqSVdS4FghxYp4JGWHdRgnk1tczMLRXwCt8vd0-IvSL7ieP-brpvOrQ5cmwP7bo9SJAG4RQusSRlbVJ9bgqfIE1xYyxhvG9B2JMtDKividreqZc474TxWQsWJfAkUe1hSTlthc-2PeYglOiK4agOJv36NkcDbp2FbMGeHRM8n3IXi6cK8kW1pzQ8-c94Eusx6AmobJwoH2eavnqBaFGWiztDUjut-dhg" type="video/mp4">
@@ -343,11 +351,11 @@ https://github.com/d2phap/ImageGlass
 https://shaders.paper.design/
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/ArchiveTell/6711" target="_blank">📅 20:04 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.23K · <a href="https://t.me/ArchiveTell/6711" target="_blank">📅 20:04 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6710">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">🚀
 دسترسی به قدرت هوش مصنوعی در سرور شخصی؛ آموزش API کلودفلر (Workers AI)
 ☁️
@@ -408,11 +416,11 @@ Workers & Pages
 @ArchiveTell
 | Bachelor
 ⚡️</div>
-<div class="tg-footer">👁️ 1.43K · <a href="https://t.me/ArchiveTell/6710" target="_blank">📅 16:21 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.47K · <a href="https://t.me/ArchiveTell/6710" target="_blank">📅 16:21 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6709">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qy0BulxCGemUQn3rqd5S1ohzjuiCcbarlO7EA6R92AjKLt_MbBmrCNMA3J69pVSgcGOOSG-PvMNqN6g7y9Q9laWkRQOZ5mU2EzbFzNsmdxvWVA3_GED6Y8ONIXPZBADoQb1sYobrvAuH6mM1ZPXp-UOLU1ftuuyQw7tVWeGQLtlZKIBKtnZ8P1pNkp0W5lF_pnKsPbJG9n5uSbfRmn46UelZeiqhImaIF-bBZAXsdfGX7ne8WXNSYDClSDMXDbUuFUDVn4lPpLtwPLLf6qEq2Hd-7facYPppqalE_WxfuB3ksNZpb5vYl2fRaMVRVcUISbZxLjsVOwNzvj_xhzqZlQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Fable 5
 هوش مصنوعی رایگان و قدرتمند شرکت انتروپیک
@@ -423,19 +431,19 @@ https://v0.app/ref/94OS6T
 @ArchiveTell
 | Bachelor
 ⚡️</div>
-<div class="tg-footer">👁️ 1.46K · <a href="https://t.me/ArchiveTell/6709" target="_blank">📅 15:50 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.49K · <a href="https://t.me/ArchiveTell/6709" target="_blank">📅 15:50 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6708">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">سایفون رو اپدیت کنین خوشگل شده
 🔥
 (نسخه بتا)</div>
-<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/ArchiveTell/6708" target="_blank">📅 14:19 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/ArchiveTell/6708" target="_blank">📅 14:19 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6707">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/013ef6f73c.mp4?token=v2NZQoBMc9EZeKEGnWZBk_4LykAZ7SmD04WCJ2tPFCaBIpGqZXY6nr_vAZvWsDr6ozRoKJ-SpZ77sv_H5aLQa3tzU_OEPR0Nrd4yVb9TyXgfZCjIZwRkpT5RBGZetSbqMBL6HeuXkNz8MbsGAtv9v2fR9MsJPbFznsMU5DoH3Dypw7_uF6WvVxEHSsKgqM8gBk1kDbYWsYBegye3JESArqNdVIzeN2qlb-kofjheudGBkfuKCyQbFa4piIFfqtIhohE_4IlKnp6LJsQ2lVQF7mX-WRZVJziSDfkyuoGvCTgq558x8EGyEStAZ8y7DqJVEp3OBwhujNW44WaLeeAFQQ" type="video/mp4">
@@ -445,13 +453,13 @@ https://v0.app/ref/94OS6T
 </div>
 <div class="tg-text">ساخت 10 تا ایمیل رایگان با ساختن یک ایمیل اتومیک (مولتی اکانت)
 https://www.youtube.com/watch?v=XHJ3TwrwG-g</div>
-<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/ArchiveTell/6707" target="_blank">📅 03:02 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/ArchiveTell/6707" target="_blank">📅 03:02 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6706">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromVega Enter</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Tz_x903L7C7uk-s6NqrtO_BPQlUOHYiu2ZIRGacSXyJZJENkU6cmJl4evwBVc-3UQALoVQQFggJ-kibf956QgTAA1mcIJFl7VSnrZ_yMcIZUADGDT1oeCiMWNk92_cGB3p-NCBOsxzW5wLQblK8ChiZ2eYZab43X3BLskb9fpUVo2OpI3unkd5d0NQKCdDkVBVa0G9bAgXVxl5o6Dkntsr__8l8x8T6VTzQYuOEJW_FIlSu6Z4TdDgXoRmN-TlSv74B8p84rlrB0KwvrPm5Sh3tuS9gIvf_kOdc2AWFAYw6Qtp8Q7ahD8YcpG1AT02_NEhwk3b7cI_vzH4kLL0p8oA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ag_aDSe7SGU8lKpCJw3AtrZrnJCmV94YUcMne5OqzeszUwIRHGg5MqVwwZLae5nmBSdkOKChcBuY9lb0_PdBkSEEs5yMNutN9B_QkHELebuWMl2EaqeL1BuwVFe_zhF2CX2MfLrBcyZYyr7cm3jg0UTEOjSJ-MKmpAp6bevLtWafAnAaDGPCFMgD8DSLWXJIxEh_qhmYepgkZ27CntUggBYSSSu3gU-TuzyqhBQW1kJHk2BxwbA1PJfgbjWSEZGdVqiXhR6GKmUxh5fFocEpLixVpYm58_fD5vAXXcWfeLPL1TDBp74P5cWobK-qcg9OqinnuWbgWmTtQBUPxVi8EQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏
 🚀
 قابلیت جدید «وگا کد» فعال شد!
@@ -485,11 +493,11 @@ https://www.youtube.com/watch?v=XHJ3TwrwG-g</div>
 📤
 ‏همین الان تستش کنید!
 🚀</div>
-<div class="tg-footer">👁️ 1.79K · <a href="https://t.me/ArchiveTell/6706" target="_blank">📅 02:43 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/ArchiveTell/6706" target="_blank">📅 02:43 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6704">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ghbq0BS2P9c9Yig86GZm9h9GnW-eaWwAqEhD4h55T8_VLNTe_tQRFcB1ul0CVgiFxP93IVEZx9snHKmsPSbHn35pn3OyQ2T_7MRc3IbXeIU01WV4FMhoLGzJV3WvnMgFX85MzTTYv_guictujOgc5A_V4EHUFDndSETnF4dts_k3UAH2Kr37fZtgW5PfwcDeo5M2ChHIw0Kj9ejAthLOrxef0swBcE3aieZVOc74z5NNsfYENFNnsbqq47Ux744uYqPfMtuG1u2s9AdwrAvXhghEimZHZ5-GG8eUpR1F9Bfry7K4HSZPS4LsstBQ6J9stgiIF83mduyzvkuhqoQgow.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 یک میلیون توکن رایگان Gemini از طرف
@@ -518,11 +526,11 @@ Gemini 2.5 Flash-Lite (فوق‌سبک و اقتصادی)
 @ArchiveTell
 | Bachelor
 ⚡️</div>
-<div class="tg-footer">👁️ 1.98K · <a href="https://t.me/ArchiveTell/6704" target="_blank">📅 00:16 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.99K · <a href="https://t.me/ArchiveTell/6704" target="_blank">📅 00:16 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6703">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XhYtww-RWp7eXxyolG996eC0JdBpiCaagShQGg4r2_f9btvnUmIztsxKcR7YBLwLrp7dVOgHSmnmJdjXq80Xa3i7-NuktBuk4gpdGHibVKJv1hNRIMV340dDdD8_jmnmzDH8oPoLMDwfAiD6tputUysERRWuQv8ttDaCwob0-eVADGLMfHUVTefXVS8R7XPM3oVrDOkWDwW_o3zDhIq-pwza8ikSMyYiux6IGVIGA5Wz2j_P4HMgs_fymeM7rB8KeXtn5EDfCAjCkN5d0w-fTxIxJzi9oybYV-uaxhZLPviCgLyNdxgxxGErjktjmpNL6Iz8Mb1Vu7J-JoLwGk51MQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تفسیر خطاهای ویندوز با ابزار داخلی
 راهنما:
@@ -534,22 +542,22 @@ certutil -error 0x80070422
 — توضیحات دقیقی از مشکل را دریافت کنید.
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/ArchiveTell/6703" target="_blank">📅 22:49 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/ArchiveTell/6703" target="_blank">📅 22:49 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6702">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oSQy6RoOsqXiBRrrp2HPmDLLIIrNsBJ8OWRz3fiOPd42yGGIsP8h7tt3SR9zHb_eMrFOb3awP3yIruOgj8qkq-IWn5s58I8xOdhI11_qyBVnNp3_j5781N99sQK4IIj501nodA8v9M4YpzLZFMXjg0lH0Lw1w6cw0pNuQRAn2vSc83uCRm7__uUvaduN1-noNKKNKk4cmVhKbL8FOwjPe29OakxdFmX3J3GeyQ9xjBcKqvon6sxdgzhrx31K4vtYb0HihjayyhnBIa5z_3IWslN0xfRpbjU72Lg_iEIxwJ948MkFZjwplpIeFBkdxW1KPrrYAYWebRzNgWnqCMGklQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دادا پولاتو چیکار می کنی؟
 پولام:
 به زودی ۱ میلیارد*
 😊
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/ArchiveTell/6702" target="_blank">📅 17:55 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/ArchiveTell/6702" target="_blank">📅 17:55 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6695">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ilZCtUTvnd8q_LoajaTow7DHa_1cHszaegzXj1L_vmFftWUq-qe3-ATCNygTl_QlqO_eVGa6Sq0-IK3u1EMiJF869eI9LLQp7r8otmc1wPPQit-yfZtMgMUCMM2rOe26iu69sDFbH9Uvuk3a-GI0wmXqW65PSjvlbdUOUJWHwEzrT62VNKy0BRIsKq5aBMG7n2zADHwFsrgujjAM1uCcjpj940rHq0RSsUEs37QVYOUwax3aJKvjkVDKK7hdjXrqHq4DOwtKQ-P_ioK-IKM8rmK8fbJLHAod5XJYBYuUCFRtH1B2Zh0WSBww5gYbcjFdB0AD--YWbVBzSf4z-GzoYg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/t_ZLa0cXQgMCtPWL5foGkf3prKTSr00rTanCjexIfxfegLTnIw2SrxZTro-fgqOfTabC1Ri0r0yi4CwP2RSoRyoLtIg0Z6gyvaxz1pYlaA6XzC3exMtgKgh2klp_bi5o3Tyv0zbWJOZPqCODEbmK0YjgCUFWpOWfewym_dydRVAT6khP1smrYgTGP8nkZS6EzLJXEoz-rcHMZs49fDjzoAaJA9sVy3z8HTRkHULxFIzhAHE6MDj5c-QuIRqDf6hBrdBmymsQS9GjOLJUmYv5lmPIMMPlnXU8lNYENZOTvpEk4GACX_CLmIzCBzhw637o3w7tUtklytVhWZDQqWB8CQ.jpg" alt="photo" loading="lazy"/></div>
@@ -564,11 +572,11 @@ certutil -error 0x80070422
 در این مسابقه سالانه عکاسان از سراسر جهان بهترین عکس‌های خود را که با آیفون گرفته اند، ارسال می‌کنند.
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/ArchiveTell/6695" target="_blank">📅 17:35 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/ArchiveTell/6695" target="_blank">📅 17:35 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6694">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RtGi4o6B4fEi0WLotoRBFCI4t9R9VFkqffpWF2Ty5FzvMUK5a54D4bMhVRHVe6wuGQ0H9_6GdVkXt2T2vWJyqilNJOUg1gUDhC2HaSGDaPVzebjjHEBd8p58KfBdOBZbLVgsHFCLzZ5WEBCpITyCifaD1kgMLp8w_ZFQZBlszZOuBhQK3lqi8BhjfGwLX6QCgeTtJzjTLyv8NuS7tIXYnlG0lP-qTCQiaHyifGIrZRkrGhSh6KJL_oDg8eczB3ZSgkNOfJ5VQ-BQ98auR8L8FXXmmLjsg1iCP-7qVP_DxQXzy9BtomkL1peE1yBy78LWYrMN6ZtJk_WvdzmR_h9sVQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">AITwitter Generator
 یک افزونه برای تولید توییت است.
@@ -576,11 +584,11 @@ certutil -error 0x80070422
 https://tweethunter.io/generate-tweets
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/ArchiveTell/6694" target="_blank">📅 15:04 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/ArchiveTell/6694" target="_blank">📅 15:04 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6693">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ipOZx3zEJmiOwQrh3cMVeO36TgWa_4FrkukwfREL3iLd3Xm9wsXrsq5Cw_awqDxFQqX60XlykbsHt_lEjVJ7Xu7MvkARzd2rOMAVtM0OuS71mCMPnEmi2f8SBcZvEI7qAOWFq-D2seZ9PVmZpAcgfu1v_Gue_mNJaHAPCZ4D1W290spAnxsRAIB618BYYWn23MPqcM2z9i7lgYjIPJcX222KXMBr0c8Spa3-2yS5wXlgVtRTvgOZpgrMZxNq7auIwc04Ud4M3kHj1sVbZgZrHLq1MKEwZB0NX_Y9yUsIOzYNCu6w4zk199zqyTw_JGDRD52EV6Fdcbpgld1gveiyEw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آنتروپیک مجموعه‌ای رایگان از پرامپت ها برای Claude ارائه می‌دهد
 🤩
@@ -588,11 +596,11 @@ https://tweethunter.io/generate-tweets
 https://code.claude.com/docs/en/prompt-library
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/ArchiveTell/6693" target="_blank">📅 15:04 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.65K · <a href="https://t.me/ArchiveTell/6693" target="_blank">📅 15:04 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6692">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BnmmWczzQSYOYv7_jM1TLMh7H3fU0E6XuJcwb7c9qiMLf0AkUTlv2nHdPyDw1QRJg06lxpEtSgCw623yhjIUlWDBLgAL2iNVHlkPlVnuYTSRij3C-bgTaiNcgCnzexmhR0pKp_p81QRShTkSfiTRH-LOeqxpaZgBjKZkS3Y32dL5hRTDB47E4o0Kogqu6n_VS7BG2LbiUUBuk3E4BFle7-RCHFTn1WAxH3zM9Yi6Of5796-mF6kl2tDRc0CloF04NkoxrRsyIGQmCWZBiQHk2sXl02HOiTZXvJmUyrnI7icriu6Tlg-1mLHGdsCH8wHyasJ8RfnjIRHItkJnsOEp_w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فتوشاپ را فراموش کنید
 🤯
@@ -616,7 +624,7 @@ https://ezmaker.ai/
 </div>
 
 <div class="tg-post" id="msg-6691">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">‏
 🎁
 500 کریدیت رایگان ‌Opus 4.8⁩ و Fable 5 هدیه بگیرید!
@@ -649,7 +657,7 @@ https://ezmaker.ai/
 </div>
 
 <div class="tg-post" id="msg-6690">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">🧠
 یک سرویس جدید که قادر است مدل‌های سه بعدی را به کتاب‌های آموزشی تعاملی تبدیل کند!
 📚
@@ -664,11 +672,11 @@ https://ezmaker.ai/
 https://atlas3d.space/
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/ArchiveTell/6690" target="_blank">📅 23:20 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.88K · <a href="https://t.me/ArchiveTell/6690" target="_blank">📅 23:20 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6689">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/0677cd71ec.mp4?token=M9zkLOuO_i1yxRQpy5xfMvJVeiv8lfWbkTtjCVFMuLN3W5k4ZJFM7p7lTX13YylB4anI8W-C9ZTriSAG8YJd-7kwLkIMYBkI1rEHhTBFz2_r3O6aMyAO2TYCAwiL6Uw2vG_a-orFPAnh_-asy7YzOpyFnkYYvI6pYQRUuqbUFWozrMCmQ7mOY1YDdBpRqNxU2aPuhPsgsVd7nu4N5roJpYCqWhwGigbPPU3v-8YEqiyDVjeNJtXjKpc0XnHg36v4TVgyYfuUxJkM6KaunuqleLaJ5zIkj1zl4w9dUJ-Ju3LscODkHJ6jDCgZnLqYqDLWD6Zim5VCAX5H7dox9vLQRw" type="video/mp4">
@@ -687,7 +695,7 @@ https://atlas3d.space/
 </div>
 
 <div class="tg-post" id="msg-6688">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">آموزش‌ گرفتن Fable 5 به صورت رایگان تا 1 ماه هر هفته 70 دلار
 💰
 برید توی
@@ -732,7 +740,7 @@ claude --model claude-fable-5[1m]
 </div>
 
 <div class="tg-post" id="msg-6687">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">🚀
 معرفی Qwen Gate؛ دسترسی رایگان به API مدل قدرتمند Qwen 3.7-Max!
 🤖
@@ -777,7 +785,7 @@ http://localhost:26405/dashboard
 </div>
 
 <div class="tg-post" id="msg-6686">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">🚀
 ساخت بی‌نهایت اکانت معتبر با یک Gmail!
 📧
@@ -807,7 +815,7 @@ Gmail Generator
 </div>
 
 <div class="tg-post" id="msg-6685">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/65311253ad.mp4?token=p8vadFK7R14QFQfMqqBKwiF_orRZ-ferjyld56tYmVnVBzhoXnPFTvz2SoSlKfEZnbCofcdp2Q1NakztwVfdp02n-xWdtqvMPPB5QPz4lvydMz9Jj-HomzyFNEnpOx-o7P4xqXGFg0_q_5DhW35tNKUKiSS_eHFHGiNiDrhZ9UeOw0QHY09ZbKSPuD5nLzRDGfPtMd7Aw7jNfvGRNI36SJb3xu2GLLSYODlvbiZqJ_LPuCqYR1a-Ph4XJK7Yd7HpAFc1pfbDjGKuf046tM3DCnw1DcWdU7TrJ792sAXSDLqQXsllGfh7DowEoRev4SGLlNCU-EXvXuvg9O2bhSgMaYPqvm-vjeJ4il7R-J96oLQBnVL0LoUhQbJYAyfuSIL98PVROQP7PwItrKEjbhMIEg_BnMmdaSBf1UCiuDVkUK8fVow0qF2t6C069ZjF0wMUH4SyAyqAZIXUm4d1jWtrXncJcMn8LrS3DAF9fFF5R6KAcuqb1Q6cb32O8qeeDw0ckeNlHpDb9u9ppa1dtPs53Rocz9CEeTmKW-SmqaD4Rgj0Y1QDXxMyQOQk1A6QAAFny38vZmli0g2b98TsjUKtE770gDnNjWdlQJAxoiSffKZuJM6Kclk0nQpZoe1nl9jly7ULx3BlnvbP5I5aLo8Mb7OZiIjB9RFyQXFEOWCFWw8" type="video/mp4">
@@ -822,11 +830,11 @@ Gmail Generator
 https://hogwarts-production.up.railway.app/
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/ArchiveTell/6685" target="_blank">📅 20:06 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/ArchiveTell/6685" target="_blank">📅 20:06 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6684">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">ظاهرا کلودفلر اعصابش از ایرانیا **ری شده و از این به بعد دیگه ایمیل فیک قبول نمیکنه اگرم بکنه تایید نمیتونین کنین اگرم بتونین تایید کنین بنتون میکنه
 😍
 ✈️
@@ -835,7 +843,7 @@ https://hogwarts-production.up.railway.app/
 </div>
 
 <div class="tg-post" id="msg-6683">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">ArchiveTel
 pinned «
 دریافت 2 دامنه رایگان بدون احراز هویت و شماره و ...  https://youtu.be/1yzxi-U_vVo
@@ -846,7 +854,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-6682">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">🛡
 آیا وای‌فایِ شما واقعاً امن است؟ (یک تستِ ساده و حیاتی)
 خیلیا فکر می‌کنن چون روی وای‌فای‌شون پسورد گذاشتن، امنیتشون کامله. اما حقیقت اینه که اگر پسورد شما ضعیف باشه، نفوذ به شبکه و شنودِ ترافیکِ شما برای یک فردِ آشنا به تکنیک‌های ساده، کمتر از ۱۰ دقیقه زمان می‌بره.
@@ -873,17 +881,17 @@ WPS رو کاملاً Disable کنید.
 @ArchiveTell
 | Bachelor
 ⚡️</div>
-<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/ArchiveTell/6682" target="_blank">📅 13:39 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/ArchiveTell/6682" target="_blank">📅 13:39 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6680">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GEHyrIGry7lopd_z6VeBzyUCnltbCucoLF4RYpoNhmSRza7yRNexskTBpbAJ8mbZeWlp9YCFvLlvCI8YaNkdQ-PbE7zUkUTn_-xUwDC2P3ntuw_ITGnddozPx5r8cZqx_r18XU94t6PyQPcJ3ecIbgc3-weG6i112JWtw8hWPM7E5QEttINLYnmqzjcyd6lZ7Ga0FTGncSSS2FBR3H-OrjPf_jKGu8YcQp_IEGdomgV2ru-21AjHgYH2CJTLMDdSXHnimWwUUM4LkVhd0i_C2uGtc3aliCvHEs4B2Cz8FYz8kMZpPboaYE6t_GoUBPlW01tHQ3j5spTbPuflL9wkhg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-footer">👁️ 2.29K · <a href="https://t.me/ArchiveTell/6680" target="_blank">📅 09:10 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6679">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">🚀
 دسترسی رایگان به Claude Fable 5 از طریق GitLab!
 💻
@@ -928,7 +936,7 @@ Claude Fable 5
 </div>
 
 <div class="tg-post" id="msg-6678">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">دریافت 2 دامنه رایگان بدون احراز هویت و شماره و ...
 https://youtu.be/1yzxi-U_vVo
 🔵
@@ -937,7 +945,7 @@ https://youtu.be/1yzxi-U_vVo
 </div>
 
 <div class="tg-post" id="msg-6677">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PUmtJj2fli_ZZqfikiSqeAXgKGsVXM5oqPzgCl03StBWcWwhosQmXImtDErtrFIrKKJjnOb_x2fpBlKfoMD7obK0wXzXV36rUkD9sKlgwzxcWRJ_KnrbEiz7Fe4BY78CxEtEfzAxvVqKmbI5h5JVclK12J3uNv1M05KDVgBJyRafj0tIJGjMXGL8B9-Xsm3dWh7iychp8GuRaFhqnfKu_p42jfQdAlXXIx_PPdni1nMFv-XTs78Z710mXUf910V7vspDL229kXdPdc_ItMfwV8i0m_D1-h61icEwCJfnDz7zgo0OwWks2VTIuvN9ugQk-LHy5pUR-lF_QLcdsWyuvg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">توسعه‌دهندگان چینی GLM ابزار قدرتمند ZCode 3.0 را معرفی کردند
 😮
@@ -950,7 +958,7 @@ http://zcode.z.ai/en
 </div>
 
 <div class="tg-post" id="msg-6676">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hfYikNcwhtImDBD4HPwypZn5wmgO_A5xAiHljEhokWmHgplhkeF199qrrkmStxvQlPCEO-DgFX7TpvE5rYOeN7mY9ZV8Uev9NLovRYuMzrc8P067wRj7NjD2Plm0D-lgkg-pxfBP2kllkNOK-q0b4wLwfKKSOe4jX73lLdxKSyQv1ouskl2p0FMyXzwqSKnTVhaYvKTgU2GppP1GCKYDS3hpCTSdjck9x4kaiz-SwcZR2GzmGVBeZCOtnIvWLFzHzrSUwRCdhNMyx9pVnaEW1NxZXhNmVdoqUjVF8rbYT-wKM8Ott675EKFqd9GnLQuBVodH12_kzC4f2KHUh8Ning.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بازگشت Fable 5
 🔥
@@ -960,7 +968,7 @@ http://zcode.z.ai/en
 </div>
 
 <div class="tg-post" id="msg-6674">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4eb8383feb.mp4?token=GjcAhbq2-WQapE7m9kbBAY9g_ROWiTMUqGv9aKh6ASjQud0k6umZwW__83F2RJvu2fC8vEYxI-Sh0mYqx-RPodB_vIxh1SFNTOr5ajmaevinsyZqFXXmx-8g2CkDK7nck4k2ivzr55Jo3Ezp3Qi8ojm7IkwCWEbUCcLNqtFMNYFYBSzWrjixkRHIxHLz_6T-Wi0aEqQFTP9IVQUkHBbEkc_XVvClgE3OT1wfC1RMnI8JqfxcAwWvnmls-Fl3f5f8XNUB8yu-QyU_YiDf9EdFJve1JA9_kcMwc54LFoP2JENVmwJHBfzIeShpQWqxY_u18dTI0mnGQJj2iQLMMUyHUBSCeLPDbPHBCPsgOovt-wJxtjsB_lvwKHGMDDwoyKXrnJ0ET39etXvFgM5Jg-y6OpYxpFcQrll3XqF5fC9EbyAMP6z9kYnXlXFIr33DkmyBDnUNt3Cp07GIqFci6Ox2pHKsaE6lyUiAMlPzOm1W1_MrcHcweIeTdkAQIK6_FpFvHGQi4wPx4D5pqb_PZIBQySNSrDX2BvbLyXjoaIljxWwXhDSQJ_5879A_NaYY-Q1EjKLcgwp8WwblhFkkC7hku7a8ORw9ti2X1Z_yFWai5_ddjdPS2GG1N43J4e0rshV6VXDJaqwMxif0xtS8Xa4Q2wUxZIQ4dcP49xx6cj1ogoQ" type="video/mp4">
@@ -977,7 +985,7 @@ http://zcode.z.ai/en
 </div>
 
 <div class="tg-post" id="msg-6673">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/art2eSlseGMKQMDmVXdry-cualRhEyDMHYqdN_SkHwaTxNUHHxaoUI7HS0ho3zVQg0ZUh-MvEaCGtpHgi0flADm87QevtNN8hGeACGh4BFL--g9rYBF_961shFoQnnScPosBfmeytdp8Omp4viv91A_krK_bviCQp11T3fYeF03xJ_e9vNlN7tbFgk55dIpQ0FwImdZIi0EBKohII2r6_Ai2bkf5gsuYnwvBOG5LaSzdUfqeIfEhWc8rAM6OzchGdax34vGALkTnlR5ft-F3vBC9IDjV-7uzadndjs295zW37j1Lu3zO1vRA6cGQRzCCpuw3J6HtJQm3amvR_59eBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اکنون هوش مصنوعی مهارت خودآموزی (self-learning) را به دست می‌آورد — عامل یک راه‌حل پیدا شده را به خاطر می‌سپارد تا در هر جلسه جدید دوباره آن را جستجو نکند.
 🧠
@@ -989,7 +997,7 @@ https://github.com/Kulaxyz/self-learning-skills
 </div>
 
 <div class="tg-post" id="msg-6672">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eoSs4Zm9TYCTHulNoUre5tAxIiNdnIqqK65mPKVFNvT2oFYZGmPDXvMewAmM0fOo4cD7wrMVuSiLyDjaiU9mHbS8Kwgo-X58gf3YxfcBb2CbK3I9u_xV6t5X2gWbrfdyrc9fgDsspBXMB06xaRQTih8WbdjTuJCXa52QHZkO3LRsWx0bz_P-gA4czJbimFU5FWaFutZ3Q0KgDdWDUOP69-QmJo6EF_jIMGVrYDNkO5FaoYHNQWAuGnzeLCnzuVKVb0q32i29Gpi1oWE5sAfSGw28V4AX5hk-XyxzHIDX3of-wOJs2dWvm9__ZWUpPoB7dUmztWlvVhj4n-7dvBHu-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">RevPDF
 ویرایشگر PDF سریع، بومی و متمرکز بر حفظ حریم خصوصی به صورت آفلاین است.
@@ -1002,7 +1010,7 @@ https://github.com/Pawandeep-prog/revpdf-release
 </div>
 
 <div class="tg-post" id="msg-6671">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/fc1d8b6548.mp4?token=fRcYMIOMfJ7z5TfuNgtj5yckNhFFTIe3X3EW8_nDbLqjNMq6sOjTxhZRYT-FPiu0c7X5S_w56ngUL7_ntEtGIQXeI2TAWx-qdsSkIKu2r4IHSpcO1etMBhNj2e2mnNIVXYYaJIjUZXMKRMO5md-qUzaVaejtCBZaEhC-evtfYRIq2kUd7OHv0gI23vVgEUMi3tfafY8WTK2mUp9CyD5X8hkBKBAjUVWRr26lCo31u9RYBuBHPJjBMT8evh8wOdrOL5Zqh9fb7_hxVXK6zUVr3236XC7z0EYjaLJFihjMPzL6K9XaaILkBiFRsQBxqKdY_H505dHz4texNGhp-X5CT1avARNV2wkewjtidelSGaCVsarw925s-01Vur5beP9BncHws5BoS7BFuKl9cHvDYuQ0t2pbdZYw7JIZPcqioffvv6L4FK4-3A-1w2aWBHi1Wbd7JNoUKXY9SU1FRlV-TOTfk6uZGqUYmb7TI7zryiklwXq6WwpjjhTdq0xJDB5e0z-tST-StPyY6v3i3EP0GwSYvJ5ymHhj-0MiFhx9eDRe_bm7YRREXskz5Isw6uvlYiyPO7nheZ_QcOKPoMw76Wu2uiwE_OErLGKDt-slukbjgrLGhDvUgcOOvI6CQGjsDwyzM4Hg62mzA1YveBKDUAWCL2UB8uf97wfqy2pnU74" type="video/mp4">
@@ -1020,7 +1028,7 @@ https://github.com/Pawandeep-prog/revpdf-release
 </div>
 
 <div class="tg-post" id="msg-6670">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dswLoiQVYQTRgQlXSw9DLEDK5OmTcVFdni5WVtuOgzySqns9tkAXMa5__iBPI0aDMFFurxGSrhVObv2J0FjMPWA5gMt3ZTL5Bbg0WPPKLZJhmbv_uBw_xlpcAUGl3_O1jjVsy_PQmZnMEuQ5tTgQ1GHA65bkMyvyfAaN45Rz48_AsVNlQgq7iJ53sJbVPdZKR_6uKsuLwn-Rf1PHJ6PhgWvpZhNXumFhfP52xtCjB1HSBP0zdOHBmD8umrmh5Qi1MlRbIgIrgR5PG9kAwW8PA9_6rxEri_U6h8-8dfRIPzld7BPZ3SUljKGAzrNxAkiwsiFhLmtCU9ak73-8y-Y3uw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در عرض چند ثانیه هر نوع کپچا را در سایت‌ها و منابع دیگر رد می‌کنیم
 • به سرعت بیش از ۳۰ نوع کپچا را حل می‌کند، رفتار انسان را تقلید می‌کند تا هر محدودیتی را دور بزند.
@@ -1033,7 +1041,7 @@ https://github.com/clawdbrunner/captcha-solver
 </div>
 
 <div class="tg-post" id="msg-6669">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/268d269709.mp4?token=TuQOYZPfDHqi1gBC7POK9OTOL7fkn2bwPGHPmL76pjteOCmfUj6gl6M8ogQ-kP11ei-Cubio2LI-10C6CuaBfg34-xhO3mwBwgx0Jmps92JqvYhZhujDLia6OE5ixINGpG_RPRSKQYiXZMIayjnGElweuRKODi0O1K1DAL2_GiOtiHHRYPEbj-ocLyE6hVypWDuxaTnBPYt99Qlhzt8nHIt4hJT4NFsjPHsnsEwEkFHGaUn-Oxqk-Trnwg8PXNtfxIvLdL6QZQ61schjieVqb5lSSM0hbgcJorC4x2oahu_k8N4TDZNSp6VeA50OfGktjvpRJq__49ZF5H2aAN3MhQ" type="video/mp4">
@@ -1053,7 +1061,7 @@ https://github.com/clawdbrunner/captcha-solver
 </div>
 
 <div class="tg-post" id="msg-6667">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IjyQ2pGBeR32tTLrJUzlaVXbF4yPBgHFlmDpjEPbl1Yk16MbjVMYcgtrI1IaiE-0sOGhdiqzRvpuKLW8IBW6QQTjq9KwE8q7KNDH9ZxPd4UDxlmMNTziWVcglO0IZwETYR15xbpQysFWgMTTDiLdgKUXxlSH4ePm_fUSlOYJisMbeUtL_K1RrZr_wtOlUkjDrrHn9Iy6p3awjCjFLlwhHV6-GMlG2E1VpmyXgYnIKcvep1LbAQAuj2W49P4XJp2vHnvHh5EkVdMGoOsNK5lmwUSGhIGczlVkpfk7blX9xhnVVnpD2iw04CZLnr2r6iA5tn67xUkMWbRY5UyT-dEuxg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 دیسک‌های بازی پلی‌استیشن سال ۲۰۲۸ ناپدید خواهند شد
@@ -1065,7 +1073,7 @@ https://github.com/clawdbrunner/captcha-solver
 </div>
 
 <div class="tg-post" id="msg-6665">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">🚀
 معرفی Superfile؛ فایل منیجر مدرن و فوق‌سریع برای محیط ترمینال!
 📁
@@ -1094,7 +1102,7 @@ https://github.com/yorukot/superfile</div>
 </div>
 
 <div class="tg-post" id="msg-6664">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ueihUucYlJGDr0XZF3SoNRBlKKJzevFGzCjxU4lS0MrWuMsbMSorZ_Jeae1LOTRYsB5GQu_bWvCuk25KZ0fu6RIvYdSG_0iGvc49nb4A30q0BXlmFSM2D5lmdIfWHQTprRsmzdrhTWygJmGtFOOuwR564AISTf5GZu0tz4AiuiLDJcAAilqkNg_4WKhhyR01h7ttvQneuDYAWC6v7IFQSifXAqGh9CUaL7ZDDtZ36VzvhXEi5-z_RGyI3dS_ugr0XqxmaBhHUGDiGkLWu64b5SdxQzYziaI0nET2wd0TT2fTZOEtwrHW0I4aAiy4qdL7fGCb68AY6jRskr3pZAu-Dg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پسر اروین یالوم خودکشی کرده ظاهرا
 😐
@@ -1103,7 +1111,7 @@ https://github.com/yorukot/superfile</div>
 </div>
 
 <div class="tg-post" id="msg-6663">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d4AjVaHLKyMrAlFnJCTxSKEtT8JBe6btneTRL0YK6MAr_zcok3qsUxEUbUrbt-vOH3FIHss0VbeNOhhshIn0xnqzdlFCnWIrEPShbeKJV66HVj3D8MfE3rnYkof9VsqTeRVsHacEFjetTFIDETAeYKwygFdMmLZ_jUdqucdX-iXpQ9886oySZO6wRiYJ0BBGpI8WC-lsDauE0PgK1mKgwZatWi1JZQ8HZYJas5pBxAdq1z_CMbfqtwYhxa1WgYvplA95-eYN375bHBWXt4r4Z6WCMQ4LsFTWKeZ2HDvLrpe4pojV9Q9bn7QS6zQmEuKIlkWJZDWK5oo77L4krSF53w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلودفلر سرویسی راه‌اندازی کرده است که پروژه را از نظر سئو، جستجوی هوش مصنوعی، احراز هویت ربات وب، MCP و پارامترهای دیگر بررسی می‌کند.
 سپس به سایت امتیازی از ۰ تا ۱۰۰ داده می‌شود و یک پرامپت با اصلاحات ارائه می‌شود که می‌توان آن را به شبکه عصبی داد و سایت را بهبود داد تا امتیاز خود را افزایش دهد.
@@ -1114,7 +1122,7 @@ https://isitagentready.com/
 </div>
 
 <div class="tg-post" id="msg-6662">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/p2uuai02UvAymfisoVPfoR4ziaM8enQJymksHFmJfx7yFZBTxuquHCfSEy8BWHjOzkZ4_yDrd29vKuXba8r2XI4P4WzEo9Bt3o1LkfsiWkr6kbvx4Mpqm2j5j8P3r3WvCksGu4JErUfWwrvdbNaBK3Neoe54kq8lMKZggyZC3XcD12NP2p_VhMANxjiyjhjG4PB8ceipnad_RavyJr4NxPycaGAFSTmY2DNH6KgzgqR7QjGLqnwvIPREvMgq9ba09Hiwav7ll5hzVwVV1nh2QIJKc-nC1wHu2DJFmXEl5Vp-7tuVRhuYyow5uuC5CPuaCsXfR-QnV8dHyKycAf55dw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">منبع مفید برای توسعه‌دهندگان: در گیت‌هاب یک فهرست عظیم از APIهای رایگان برای همه موارد زندگی جمع‌آوری شده است.
 🌐
@@ -1128,7 +1136,7 @@ https://github.com/public-apis/public-apis
 </div>
 
 <div class="tg-post" id="msg-6658">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/qN4N37dQfTuKHzRzsTCNmyYuECETOcFeEwNeO6SO1PN9hjI0JrU3jqIoGEwn2al0Nu0an-hMRuV69g2VVmrk_vUZUs5eFTlzz8K13r8BzaUDb2eXatvOGAg64nIjQZ3DC2Dw3m9twIy4wDJnQHugNQ7YyGibXzEN7vjDYcD9MUiDp26_NGTT2gg3M0XsSDRjBMw7UYiuikW7raHNElJFchB2EH46bSq8qAYb7kLB64ExeyzjragB18PBTBju6ZnfgYfJQBdJ37Ofb3e80o3EWCNX6KenvQk6MbBUDU0HaDJVTcZwPHcroRIc2mVpF7qjQ4B2zFkfa8z7rjX6sRzafA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/oseRmjtJOOjK42Wysl1emAYeieO58zSfkRym0MqvkwFfBm6WaXwkhrYs-CxQ7K7dg7GUx3sQtIvV6Jy8isq9T9Y5-NE5VTe-KXJfAv7TO7DjAESEEnUQ8qjhi742sj-OQwwog77wW7gbhc1HKFoKf-BoTJAZMd3wzQmDXNfRWvlj994Le9zzXqaRoZpko8eXUgaN_b9YmhB2eDsuP32wTcUTByI4NaGOgJpx9RZzMp8YqyDDEBoTebumtST4ri4OeJtjOV6gJKeUirTjGLdmcqFnS5yV3lkxwtfT3BwPmMfdc-cZ9gZyIUR7Tlc4K_XtroAh891r0moO5sM55YhIhg.jpg" alt="photo" loading="lazy"/></div>
@@ -1144,7 +1152,7 @@ https://playtorrio.pages.dev/
 </div>
 
 <div class="tg-post" id="msg-6657">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/u2PGKlAqSV3HCW0pvR8xXNgHtxuDBavf91jL8A6QFNVOERml3J2O3G_dOCLbrIMQBkoAgDLABQ9TNyUpFdjtp0542MO45Wr21cS8PufxTEW9mUn-jOCkaWFlbMHNBrPhJbLURLOgFJiITi6hLj0DsyPtcz7hNLlk5Y3TMmJ5YERUjn1fGyGuNCqABwWdueudQ8uQztPI46kjcxWlPjeNHO5OFIwoX8R-Fve7VJ-vnFDrkEfVZRjJrgSj-w4pPCF7ApdMGeGbok9_JlIB5AzJBammLeSjh6L98eRXUxUa0C6t2K2qbaqMVC-S-ROkutQ6cfDfua5DZzDXcHgC4ZM0IQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 کلود Mythos و Fable 5 برگشته‌اند! دولت ایالات متحده این دو مدل‌ رو از حالت مسدود خارج کرده است.
@@ -1155,7 +1163,7 @@ https://playtorrio.pages.dev/
 </div>
 
 <div class="tg-post" id="msg-6656">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ml0-vjhmCoOcfdVKx7FWV787fMuqMhkFJMZNYv8hftzJfWM8Sps-gmug56Nx-IxmE2Fv2sQtPljP4xidOvU2iaK43gGkYRcZ7woakQZavXOQx8HUY2XwkQOQALtKqXKYtO1hgLlDCG36KkSJJrpcvGQJdS6Y8BxqtNW___s1Nv-CIeBAGAxCIaXOmjns6D36YKJNo8KkFOQdN8A9p0Lt4Pa14_k83fvHGIEgtQT_OIoa5TL6R-ukWh5EMXUd_NdvGt966XTpvUkBQcRlcPjP-e81rBkTD_a2N0XiJChjl7YQNpDoGRV7_qKLWfWof7gVIGtvn-YXI9u32pGKm-Irqw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلود اوپوس بدون سانسور منتشر شد!
 توسعه‌دهندگان Qwen 3.5 را با داده‌ها و استدلال‌های Opus 4.6 آموزش دادند و یک نابغه شرور واقعی ساختند.
@@ -1170,7 +1178,7 @@ Site
 </div>
 
 <div class="tg-post" id="msg-6655">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">ArchiveTel
 pinned «
 🔥
@@ -1182,7 +1190,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-6654">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">درود دوستان AssA هستم
 بابت خرابی ربات
 @REN_WZA_BOT
@@ -1206,7 +1214,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-6653">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">الیوم اکملت لکم دینکم
 🚶‍♂️‍➡️
 😂
@@ -1215,19 +1223,19 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-6652">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-footer">👁️ 1.9K · <a href="https://t.me/ArchiveTell/6652" target="_blank">📅 23:23 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6651">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FVS7YxiQQuHvlLY-jxmI4fi4tJdYgBgtixxRysDcVOWxoanxSblnSIQ_O9Q3_sgtnJyZZW9jH9_p-AZRRWZlLcMKvDOM5M3UFOcVqlmaH1yjzJ-9q6NLrpsP6jsfDGL2SVwVQ1IjuXWGLzUMpGwqXrLyW2IcIbIRGenaPbZJf1SJ8AR9W50hZiIe-M_42XNb1hI7s6MaW5HfgopJmP8LvylgpzJkS1a0TO-u7CQQfytMS_id1iSjWdt231HpsdqVXEXY8obvbS6wCsjlw0dFfEjU7xDLghQ9oh9xLPbjWi5shTJo25a6P1-7ZIdQM8OrZrYzpfrM349g2mffqCvqMA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">https://www.youtube.com/watch?v=JnpHyg-Vc40</div>
-<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/ArchiveTell/6651" target="_blank">📅 23:23 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/ArchiveTell/6651" target="_blank">📅 23:23 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6650">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1244,7 +1252,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-6649">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">🔥
 آموزش ساخت سیستم ایمیل موقت نامحدود و اختصاصی (روی کلودفلر - بدون نیاز به سرور)
 🔥
@@ -1253,7 +1261,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-6648">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">🔥
 آموزش ساخت سیستم ایمیل موقت نامحدود و اختصاصی (روی کلودفلر - بدون نیاز به سرور)
 🔥
@@ -1383,7 +1391,7 @@ Save and Deploy
 </div>
 
 <div class="tg-post" id="msg-6647">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">سورپرایز امشب
 اختصاصی
 🗿
@@ -1394,7 +1402,7 @@ Save and Deploy
 </div>
 
 <div class="tg-post" id="msg-6646">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jt6XctKYljZ6i4wtqlvwc5TZ2ebXb6i7418xQPt_Lwa_IIPoozbx20fnTEYLiW7q6A8VDxNRsLT-Nrl6qa3Xc6TXhKJJgf-xI64cp_t4COjuv-B_J00xuMDYwttAMdyeYMJ-kLGoWYGZTPQnKdT95QtCUvQGOKfpOJg262QHpcTxiScExdW0C7YuzdJIlUNAeuprzpY5D1vZq_m6_7VMhKodo5HF00yUzKfRO5GYLV0fyY9JizRoe58SByH3zMR6vBJfnv38iu6UguWShf8Y4mSCigz-GlFR1J50kp5ZK32kcSEJtfVAkwz1MpvHr0LD4K-v3fBFP4GFtn-IjwwXNQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Claude Sonnet 5
 منتشر شد!
@@ -1408,7 +1416,7 @@ https://www.anthropic.com/claude/sonnet
 </div>
 
 <div class="tg-post" id="msg-6642">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/j_VTxu3MgiQ0FgWg3P__PBv_NaXx0x8U0c1-YMknBKM7y_EfRKHm3Vv6rXUm3gjY5Wh5418ztIoTrNVAWcvpx_u3TD-qXXiTmAtC825J3dpvBMqsaPamnm-x29zA9RemTLDa9pG4rYFD-jb_HsT_kung5tF5hxIA9s-81VRyAJSwGpz398Ulfn62osP4OZQktEui7c0hhhHupdXSxgGD2A-JgueR_jLewfnYPtevgQktmwwGX77xUUzPtmgTKlSlYPuCxl9CczahMLYA4Z4gjPIeSzBH3oGvwp2ekjFcng3H8s4bnNi63jVghGigXYJKKm_5oUnq79cUsAlV2hPltw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/LrPycHVLYYMlrB5lefS5qHG3pQ6joJeMUth0Gt-dyWlOk5a2_sjsQ9YA51sL-UNa7N9DweoeUDbArcoek87vFURDiZBhxIBi4L6BauZcnDKHm-AzKqWjJeUo2EBYBRwZ97Tn-0iiC_GUM-LTbPMCaXRU_U4Ifz-ML9uRadoC8LI8ZA2suBPaNuL4dpa-4Of-P9iv9X8mQarjmaVWsnOx95b1HVpeWoXa16yUy_K-zLIL_xzXebfEn9e1DJA__BPbUK62D5lZuT6-AFFtGXJ7q5oQ_JYTurgXRoIponw4KGChh4AsfOSmtVCtyfzTqWYblHTNEgQsa4SS4o31LDzPnA.jpg" alt="photo" loading="lazy"/></div>
@@ -1436,7 +1444,7 @@ https://deepmind.google/models/gemini-image/flash-lite/
 </div>
 
 <div class="tg-post" id="msg-6641">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kE19hXNwV49a7faW6SQv4M8WkJxUT-xUf3JFaSq6d5zonAdUGPsIrmDXFA-kLqTDnVRcR4YHvJMlIFo6l4fRzxBRkavpai_lyBFlUS4_ytBJGaEQnh0jN9yMSWcRuEzvg1ytfsdIcT2eEJquivuqgXfF6nBk216Kf3kC0iKfi3lRrFCpYMTe-4KaWYhBzRqR8IKWGSGUGGq6lIDp551Y9K0TbpCCTXcnjlaQR_78cnZakQTS_MQaAALV2v-IXtZ6sHfQZuQdqjeL2O6nhM5YS4znmalXghDp-_zbukilJWDkvvE-1wrjNQiBJXe-QPWAgxg4jD4VsFHn74wts_iVEQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دسترسی رایگان به API هوش مصنوعی Opus 4.7
 سازگار با همه پلتفرم‌ها:
@@ -1448,7 +1456,7 @@ http://zyloo.io
 </div>
 
 <div class="tg-post" id="msg-6640">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4d39bc32d0.mp4?token=U_t8No1e88s4fYNCkANK6nIbmZ6A8ebpgt014mxTSG9RFYMEc-g-aG5_TF6A7qxSQD5gOAaFqbpDHZEl__gwNFG4jc4l01GQ76GSrC_y7fkI6FXSt2N-tIscx0TrIlT-9GS5EavndLmGHRH8o6sYQiegR6-PrF6qSvKNPbePnkAEfS1BZkXp3AnsitHt3ZPFx7dkKgXgKntIWm4dpDXU-X5XOLvPbqJKb6PXxEeEDfsti9cldcEJyq_y_JgdajcHwF5urEqThnIYSjWtleMhfPnxlB-nA5sJCj8N7lR3ugwNH7_Tb3fvUhMwixL-gXs1FvRbb5V7Rbo8JRV3e0dsJg" type="video/mp4">
@@ -1466,7 +1474,7 @@ https://github.com/firecrawl/open-scouts
 </div>
 
 <div class="tg-post" id="msg-6639">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/S75yrMZdj12NwRjbYpNP3QDeHmkzPvcAc-L2jiwrZa-okSMO6gbwQ6ulvrmST9ipwbt2Kdi4ezpaDeqULXvTdJSo1bIrIbTYWCbVGYEYmRDOsVRIyWFU3qiw0F-88Lf6JYCwt5x9uRsoYA---8CHtuaSwNezi0ZD1nB2ji9d7Ewr1BlHV97vzM0jxt0MGSKMQvvUIiPR5VrEj3ih5rsNc4gUjFt-xi9eZzdZeA_WKf5z0-ohJ9O7ShBRftWoPBsjHwQeRzmcLeidhckC13xa908YT2RvDu9a1pqUSLo4WsEUvT_BBM75MilxrYhD8C_t0R1Cfcsd6TF-RWhXqcWHIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">DocumindAI
 راهکاری برای تحلیل اسناد PDF است.
@@ -1474,11 +1482,11 @@ https://github.com/firecrawl/open-scouts
 https://www.documind.chat/
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.51K · <a href="https://t.me/ArchiveTell/6639" target="_blank">📅 20:32 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/ArchiveTell/6639" target="_blank">📅 20:32 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6638">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MdbFT5EAAf6qHphMX5JkX5n-2nrxADLqOyCsxVX5VUarqn5opsFxR1VMi_HT39Azq3McEYeEQafPzjVZHdc9i1xTcAGlNM-6rzx5K-vczy2pxWzUJ6VwnOnDW70aXtORySVEJXwijvR3j5LtA3903a2zYPWTS0LG_7XHQMUntY43-QFn_02PWHQ_lTswCuTTPd2fFjns1myjO0JrxDxm4OoitkMoEiyHSiTwlmu_jhLpR2mgjY3AwRy3fEYJG1MVVlpd-xFXda0joAT5lq2G_RSvu7sQajRX09nkVWH7BZz-6cznqIZv43l8aUUsfwM9HC8fVsuoG8dV5bsxfAf5IA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🧠
 نورون‌ها بالاخره دیگر هیچ چیز را فراموش نمی‌کنند — OpenHuman حالت Super Context را دریافت کرده است که بین جلسات، زمینه را حفظ می‌کند و کار را از جایی که متوقف کرده‌اید ادامه می‌دهد.
@@ -1500,7 +1508,7 @@ https://www.documind.chat/
 </div>
 
 <div class="tg-post" id="msg-6637">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DTNAPAgqX5rx-QOK9YkBCJOvzaSotuDx5BPNl2SCipcCd7mXVW4aFnkZEGhIa-hirCcMo2vPpXQUJ2P0AoYz75dIQ6wjnwgyzt1_7-qpoPu84PQIM3R5XJ6zS4Haqon0zU-bN0uLubqjRX8FyxVO8rAAKKLR3ajLinjBYIuLxgfM0TDxm3Q5HtpBLYAy42qhxQG0b-uvsj38AgPSw_ZWkDun7NvzSS4CnzZtw6Pj4gnxpqg4tJoqlSjCoiLEAiaZ_RauZfJREPyStvZqnTG1cxdXYrsYcWjqOb-ZqsyZBc-uvZfx9U8Jrm5UySSjrZIk53mt9Tq33k7ngJNYByUDEA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پاک کردن واترمارک، افراد، اشیاء مزاحم، متن، برچسب و غیره از تصاویر، با تکمیل خودکار پس‌زمینه توسط AI رایگان
 لینک:
@@ -1511,7 +1519,7 @@ https://magicremover.org
 </div>
 
 <div class="tg-post" id="msg-6636">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MosAplqO1TSJKtSIVQte1dFM4UEhiqFpm05XGfvZ-l1iU282OmbuEzgyQxIAeBnhOhOVvWG3_xPD96fIUBDXCVdGxkMPRPI9MNGCZWbo160wWftizgfaC6TtKysO1Dky-lZQMCE1PSVNmXmkQhMn4RcrgMCFVaKZlrNsAbI7YFcWPaZ3650HmWv_TvOWL7fZGQo4NWOWXrf8BvXkAdyGYqgfbkx4KrvnM2eUgwdGT4uGdJRVg_E5YPFRDrdcZvtUVkHcnwPiNQ30psnz1X-pSNmNL01EP5vcIQ4kHfbntOC74ooRXKbe6Dg7CUtf0mC1kg1C8H5zPXvRxoa6jOlIlw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏
 🤯
@@ -1541,7 +1549,7 @@ https://magicremover.org
 </div>
 
 <div class="tg-post" id="msg-6635">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lQavHbpJQl8ei7w0fRnA3tqBoTCXub0GSOEg7dVWLyGfX-o1j3JTNssl5N9DuCLwCRWfUGg-g8d3NlfH5yqBF5cMrZpB4P7MDC2DkTPA8uG22mXBrFeb3rt1uFUesyN5tTYFRXcUImcLMCOPoEGIzdgp24ya0yyDvLvUyo_dJkIUhe8m-91WvVO5QgTvdcIp5GzWVEBsEp-YlqFRRqr1aQ5pHEsXwS-PxGGxCwCP6uvzx4V9fPqBsgVUIHIDRcQ5xyEJGuf6aFm1W1fE6h0Q8z25DFSY0KEFTF5i3on2CA3WRDqYFRgn4YWwmVkq0ZB-24Gy3oaZ-Da_AUGsZJHE9Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دانلود فایل از اینترنت با ‌Torlink⁩، سریع‌تر از همیشه
 🤯
@@ -1570,7 +1578,7 @@ https://magicremover.org
 </div>
 
 <div class="tg-post" id="msg-6634">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1b49cca50b.mp4?token=VQJLpcvo9EdDGwha79CptBwPgN9Qfs0QJN49E8Wx-tusPpn4YOP4v-m0LA19iR2spBcl2VyPxW7z_HuD3kLdVk5rAj5nuG_PiZFyiH91EmvTQH4BhKNEPmKNlg1ZX5w2-jvtLKgfMH_DBbhu33TzfmUbVdjswydYsCqmh7MvjRN_17VWlITJ6TrCd3M_9QCoqfAGjeuhJY3nz_i_lachC9ZC0jyInroSYzclTSDpAdLQaXWIUS2H5k0Je0GE3OXeq3SCLjq2M9zHI4xf-8Swzvl3GKEMLMXiujJr4vLoOSztCBwehxkd20SgEG8zkV08aDZfMcUoR3m_EXHwfuFmGA" type="video/mp4">
@@ -1587,7 +1595,7 @@ https://magicremover.org
 </div>
 
 <div class="tg-post" id="msg-6633">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QgraKEdR0lxpXJYewPADhBxBPNVp0gGZz7YihrhFYFEA1WKBQHJ4O6SJd3VbsvLrdGJxXgebUhKJmt0LQ8rlm2QZBB5C_ROCkZOmwIzr50KydeaSnqUyUJJ_LOtw4NKYmbAnnniK7zpOFnlp0MdtiVbDsDrnbagr8vxKGw4fKIvd-g1pHfbO3lETskfaEiJrz9K6VML5CQ_y7iYNXp786b_fhneKrWI3G7fFDbrZqh0tC6BAMRglb0Ar2e2XL0vZB9-oG6eoXIBCOH2o2pmLHZtjFbNdUqTpvNHy8pq3L4tOYT-GwCiMR8vCBLLwzsfmLCNf6pJc1y0xHhJe25A8HA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚫
 غیرفعال کردن ردیابی در مرورگر — راه‌حل ایده‌آل برای کسانی که از جمع‌آوری گسترده داده‌ها خسته شده‌اند و به دنبال حفظ حریم خصوصی واقعی هستند.
@@ -1608,7 +1616,7 @@ Fingerprint Detector
 </div>
 
 <div class="tg-post" id="msg-6632">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QioNXMmghjSwjZnBFqi6WElm-w_CjQQmxY59XFWDGoBMF5WUrj0icFE-LOWPqauR84P3sdN0REEwr57WIr6bkq2IJfPAL1c4K__b_dqYOActVH9egg5cUBEeb3pdKa-abyFd-0lLnWZk1CRH0EWQ3_lOYnK_L6666O5VtC6PCWKqvWZYdboahr70WnLA3SJd14CTCU36ReyDna7EiEnIww4aPOgZKrqCA0ifr7MQDFLwVDzVcsIFP7vFWgHbqXCRuh4MudEdN6L9wsplmsgwhNQxbwhpnUXNaD76D9DMBnm65juaubgBnIqtpVCfdSLo8dh4zd9xAiaXnYjju8PSXw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏
 🤯
@@ -1640,13 +1648,13 @@ GitHub
 </div>
 
 <div class="tg-post" id="msg-6631">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">این هم آموزش راه اندازی</div>
-<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/ArchiveTell/6631" target="_blank">📅 05:03 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/ArchiveTell/6631" target="_blank">📅 05:03 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6630">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">🚀
 آپدیت جدید بات تلگرام ما منتشر شد!
 ✨
@@ -1706,31 +1714,31 @@ AssA
 </div>
 
 <div class="tg-post" id="msg-6629">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">سورپرایز تو راهه...
 Ren panel</div>
 <div class="tg-footer">👁️ 2.04K · <a href="https://t.me/ArchiveTell/6629" target="_blank">📅 04:03 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6628">
-<div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gSRz_Qsju5JIKEr-ZkJM5NUFenmhYz5s2iqpj9_iMzsVkccXiK_fbCtNXdVpfo2sy3MPY18qZpA6_Ax6Q33ltEm2vj4YrHC3WeG_MOfb6jocu2hsMMcG-GYO-RYsIs6Ow-fNaQcoeunuVUdjHeaz-4QGsusfmHd2UsaeEc1sffc94u8__yLkAOPCKX0cQ8Np5oBhOWrgomo50K1DbEzs74ZXuuNP8WKDM8KZ2RXoml6i1Dax3PeXILZguMSxwoZsw3yfGfq7CcXzXZ_eSNDHVzQ4cACu5IUn9Yy_NxLLLK1CZCZ8PYurlVcgsYuraV3ibxGinAHydWF3hJN0SJq5Yw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n4oGuoVIdquQhdbE6-gje5ugpNorSUcfj5leJZkYo7ErOPKsHJ_DIaEPE8Le6-CBvxPZ21pg-3hP3iohIilzaCBZCUn4L41z08TC9-JTYLK5UY39tLLqASVs8GqnRPO-1iJKzikYeEJRqjOoydsRcyYbJSU2s9uemICRx2fD5W8MCGdGzR6VtN5ugBaeKmdJMphWTC2x3nM0Sb6hSyJ8LylyNV4yfLHY1rUpKC2QS_SGmRhNOMdeKFCR96lpAdn3QUFx_iSRb15XFLdk-5xXWgiKcOwJrNcftTZWux8SNahD1dYBxbdHDzrvsbGX8O9dyVJy9ZErcKLpzledjBgs5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">واتس‌اپ پس از تقریباً ۱۷ سال از وجود خود، نام‌های کاربری را معرفی کرد — می‌توان بدون شماره تلفن با کاربر شروع به گفتگو کرد.
 تلگرام به انقلاب سال واکنش نشان داده است
 😁
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/ArchiveTell/6628" target="_blank">📅 22:53 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/ArchiveTell/6628" target="_blank">📅 22:53 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6627">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d53c28976b.mp4?token=SDQ4wNymjrSdo_9F9RRJCyWe_GflHR0fUSI0w0yxu-boLehn8kCqpAUmjyq82azrg8f34HMC8IhNweBEYMhxaw-N20RkdRJUVgtK4w2QVuwuT4JKRGTxyPVhF1aGOxYCwF3QNk7-D7HzkKMvID7_tpIdJ3LGis9Oy99eu7-hV0E5K85rJpstvz4Jm7FW97tpDFfd9sFX4wor-xakYJEJs3MwAW9YJKo77G9oPi610WGAD5H7AOxbkeaZGzISH3Dp7nZWn-je_OiRm02RsWvKeL1UnIXyIYkzvVJt0jePC2sJyTzFlrSTmHmdjsITuhLvO8mkizvP154eranI5t1-JrA_lQKckRQgYmHLifpgKTZytuJp3KphEEVJISyK_Zf3Fw4QT2iL2u4JkJF5bxbuKVBXwrilp_vK2WLESVq1rn2Ih5h8JQ9eEUOf9QYB6b9BbDesSkenMxrdIEQ0U-GbuBl99K4sTQ1dbFAMMkJVvpkBbw4OAAYP42pmp91I8PszMa6g28jjldU1YrmLUPNjXGWZ5T4ya6YBCsyJsfLsiv6nJQG4EDO6oNQbIWZI0vb57f04RPcDziXRlGailDuYd7tFQV7_zBrS5rNTZLSyop15ciHJXTwXflOmu8vun5xb09NkdwjtZHBOrDWaQh9H1jGEcx1ObwoYH9JwUQagb7A" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d53c28976b.mp4?token=f2De15ulCMEWrNO7W5C8dYDtBsKsFaLLN_YfdpNeijz5mppBRrrmoXNbB9Lb47BFMGzufrWMUoExpXGecQltbjBmv6eEiRY4igNW_dQwDJNhrbjirNDzjVVxcWhyG1cdDRgxcZxDPwAT7424oyWo2X-U7acQr4BrKR5URI8NwEOC2kdtRaBSq_72nBIW1Sq6NZi6tehZjpqod7WgNFPZHYriDnGEkFyPAzo4wYY0Z8Pj07k6S8FrTDQ-kcEYI4PsXQWfRgUxAkSUiKRChfcD6n-RgLcFgfSECSkn80O2YK2nOANunHbgtbXlcYI5P0_xyo5A-ZyO5GZssBfJpvyvHU2Ofj3NDsmSWniuhfJZyKOD2gu3kSqBmAV9Mvg0GNz0lBebn1X_hFb-khYVow7ZDAIRyaLwHJgOeYuoaNDFSmuGihZPu4fUw5uw4tf8EMOe4TsxtZ453Pp1xepM-8G36tA0HZ5s2RNTsho6GZJqG6S5heg0Wywyuvo1feJJXwc7rNEl3ot3ihA-UJzEixYHpTzG0I925rcjxcBzW33XWof3f0USYvhuk3A9V9-Ljhs9VDZDwvcCCUkE8FB50_4alZlrvpNCjY9FBgO_Ej9kJ7w1D3oZHYWyWXChPl8qpCbYrxFwmKltSo6YmHWyixqdHdF5vqHFtnXv4328cT37TEQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d53c28976b.mp4?token=SDQ4wNymjrSdo_9F9RRJCyWe_GflHR0fUSI0w0yxu-boLehn8kCqpAUmjyq82azrg8f34HMC8IhNweBEYMhxaw-N20RkdRJUVgtK4w2QVuwuT4JKRGTxyPVhF1aGOxYCwF3QNk7-D7HzkKMvID7_tpIdJ3LGis9Oy99eu7-hV0E5K85rJpstvz4Jm7FW97tpDFfd9sFX4wor-xakYJEJs3MwAW9YJKo77G9oPi610WGAD5H7AOxbkeaZGzISH3Dp7nZWn-je_OiRm02RsWvKeL1UnIXyIYkzvVJt0jePC2sJyTzFlrSTmHmdjsITuhLvO8mkizvP154eranI5t1-JrA_lQKckRQgYmHLifpgKTZytuJp3KphEEVJISyK_Zf3Fw4QT2iL2u4JkJF5bxbuKVBXwrilp_vK2WLESVq1rn2Ih5h8JQ9eEUOf9QYB6b9BbDesSkenMxrdIEQ0U-GbuBl99K4sTQ1dbFAMMkJVvpkBbw4OAAYP42pmp91I8PszMa6g28jjldU1YrmLUPNjXGWZ5T4ya6YBCsyJsfLsiv6nJQG4EDO6oNQbIWZI0vb57f04RPcDziXRlGailDuYd7tFQV7_zBrS5rNTZLSyop15ciHJXTwXflOmu8vun5xb09NkdwjtZHBOrDWaQh9H1jGEcx1ObwoYH9JwUQagb7A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d53c28976b.mp4?token=f2De15ulCMEWrNO7W5C8dYDtBsKsFaLLN_YfdpNeijz5mppBRrrmoXNbB9Lb47BFMGzufrWMUoExpXGecQltbjBmv6eEiRY4igNW_dQwDJNhrbjirNDzjVVxcWhyG1cdDRgxcZxDPwAT7424oyWo2X-U7acQr4BrKR5URI8NwEOC2kdtRaBSq_72nBIW1Sq6NZi6tehZjpqod7WgNFPZHYriDnGEkFyPAzo4wYY0Z8Pj07k6S8FrTDQ-kcEYI4PsXQWfRgUxAkSUiKRChfcD6n-RgLcFgfSECSkn80O2YK2nOANunHbgtbXlcYI5P0_xyo5A-ZyO5GZssBfJpvyvHU2Ofj3NDsmSWniuhfJZyKOD2gu3kSqBmAV9Mvg0GNz0lBebn1X_hFb-khYVow7ZDAIRyaLwHJgOeYuoaNDFSmuGihZPu4fUw5uw4tf8EMOe4TsxtZ453Pp1xepM-8G36tA0HZ5s2RNTsho6GZJqG6S5heg0Wywyuvo1feJJXwc7rNEl3ot3ihA-UJzEixYHpTzG0I925rcjxcBzW33XWof3f0USYvhuk3A9V9-Ljhs9VDZDwvcCCUkE8FB50_4alZlrvpNCjY9FBgO_Ej9kJ7w1D3oZHYWyWXChPl8qpCbYrxFwmKltSo6YmHWyixqdHdF5vqHFtnXv4328cT37TEQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">خداحافظی با چشم‌درد دیجیتال!
 👋
@@ -1774,7 +1782,7 @@ macOS
 </div>
 
 <div class="tg-post" id="msg-6626">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">اولین تریلر Cyberpunk  Edgerunners 2 منتشر شد!
 🔥
 انتظار داشته باشید که هر ۱۰ قسمت این فصل جدید،
@@ -1788,7 +1796,7 @@ macOS
 </div>
 
 <div class="tg-post" id="msg-6625">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">حدود 900 تا کانفیگ مختلف
 📶
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Countries/Germany.txt
@@ -1798,7 +1806,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Count
 </div>
 
 <div class="tg-post" id="msg-6624">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">#اختصاصی
 🎧
 استودیوی کامل AI: از ایده تا مسترینگ
@@ -1819,11 +1827,11 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Count
 نکته: ترکیب این ابزارها فرآیند تولید را از هفته‌ها به چند ساعت کاهش می‌دهد.
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.25K · <a href="https://t.me/ArchiveTell/6624" target="_blank">📅 17:22 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.26K · <a href="https://t.me/ArchiveTell/6624" target="_blank">📅 17:22 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6623">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CZq3OwMNrH2dGpViZnMrkgBBHhQqeyJoWI0mbjtmWdkrS2jcN06cs_7q7cxIL8kG-hyEQXtMOpE6uX8xO7mI82LZQripHjWMy1S8uZmI4oDRDFYZOMfcxiJQcX_z--T1qRmo0w5fqPCwGFblGLDXlVCBtu4Y_Zy-4034ZsxXh72k7rcCKa9rg36IPew8mi5F8sItYniF1m3n8NLDIiHLEUsu8ru_VjG7lIaNTGLIu_BnYBBPJ9VmAXUwrZgDzqGONT9U6lEHW0yd6heiNHjyKUEpogDHCptjTRR4UqaReEHqTHkleO88XtVE4iR9apD3_k-KX0rcdHo36R40BP6xYw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی GTweak؛ جعبه‌ابزار همه‌کاره برای شخصی‌سازی و بهینه‌سازی حرفه‌ای ویندوز!
@@ -1834,7 +1842,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Count
 </div>
 
 <div class="tg-post" id="msg-6622">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">نحوه اکتیو ویندوز با اسکریپت Microsoft activation
 💻
 اول تو منو استارت Powershell رو سرچ کنین و باز کنین   بعد از اجرا شدن پاورشل فقط کافیه کد زیر رو وارد کنین و اینتر بزنین .   irm https://get.activated.win | iex   اگر کد به مشکل خورد و اجرا نشد دستور زیر…</div>
@@ -1842,7 +1850,7 @@ https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Count
 </div>
 
 <div class="tg-post" id="msg-6621">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">نحوه اکتیو ویندوز با اسکریپت Microsoft activation
 💻
 اول تو منو استارت Powershell رو سرچ کنین و باز کنین
@@ -1858,7 +1866,7 @@ Github
 </div>
 
 <div class="tg-post" id="msg-6620">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">حجم : نامحدود
 زمان : تا ۱۲ شب
 vless://63b43d54-3bdc-4d9e-b3f3-10163c892936@64.90.7.102:8443?type=ws&path=%2Fws&host=play.google.com&security=none#%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF
@@ -1867,7 +1875,7 @@ vless://63b43d54-3bdc-4d9e-b3f3-10163c892936@64.90.7.102:8443?type=ws&path=%2Fws
 </div>
 
 <div class="tg-post" id="msg-6619">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JD7N9z81oXhtgHWoxroatsk9gfEMpsE7OaIlXtOYqCaNL916e_HynNie_eOtNwbtpI1D8ntHF3Uz4uBH2wpmAK8WjYbpokbmTNTWBIVeVpHzFwFfWOMqe22McBletLlqPTI8qnSCWG63UXjuXtVqbr2ELSBdmtjmm3Zpm32MeK7Q5DzOO7H5FeUIt-qbG7Gk7E7W3fi6SR-M8_YenpIybRP7QcKGfjzKCvsoXUm91H8O7hfsnXtSw84-PRRbBDaa4ju9b-ivmdK-5mSlzM_bdKqjEgND_qrI3SafDktqXqL37obZSQ3-hbss76jlhaK_dHbnC-FooivwAQ-ilm9MMw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نقشه راه جامع علوم کامپیوتر: ۸۰۰+ منبع از دانشگاه‌های برتر جهان
 🎓
@@ -1900,7 +1908,7 @@ GitHub
 </div>
 
 <div class="tg-post" id="msg-6618">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eJFGm39xUNafPUiKZ82T40SF0VgCOjIA8qP93RA1zTvwnppGqRWKVaJggYVrI-CmmDiEw1fLcZHXwaffM1SVRThX2gCszoLnfOxLc26dsqpVrdPGtMqwzwRtG7lESpIHomG8_HKNFZAFHFgcVuj0UJgel76uYtRtbzuHpH0uYhDGc7g613J5cVg56Gukg9xUdjqn64G8BujsiFVYyeKAara7HJe6dQSCEr5GL2i2M8m1Ec1wCRlhNzUtRDl9YiUF9XqkLMO0fWlkZ0Da4grh9EiJCIyEQ31YCK5juI4N0QDP36ZfN897qDFpzuXryOEWAXkrwVf72pFPv41vY9ywDA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شرکت Anthropic بسیاری از دوره‌های هوش مصنوعی خود را رایگان کرده است.
 🌐
@@ -1911,8 +1919,8 @@ Site
 </div>
 
 <div class="tg-post" id="msg-6617">
-<div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mQhtH3YB-NsH2TvfJ6ny9fuPfwyk_V8JhlFcIMM-BbVQijU2egP0LClznMHRB7CVhC6RdFViYi8J1yuOPeL7TtksBvj32jAN8sOBSi6teBso0rpFPl8-s63S4I40XDPW4Gj6JLFOA2z1mqv1ZPV6RsXV_QCzaVUvd30FoOE9e7sWIDvYYR9a7wi5gY93B1uQ7e8YAoZB_8K6BqDT7_BoGtR3PD3e1D5-rgeNk6wqYz5Jg6WSZkZK4j0KmQSid7xmJ5QOVljbA7h-UHtZ8DFWJPhw4I2E_QXAii5rSWpzamGT7ZIZN_8JQqAwZ8EAC7BJLCVN4_Hj9iLeLo7UyIBesw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BV_6x2oTbpp4kzl53t-z29Y2GWcmU8xZ0CVY1z8kQj3E2AGSgPP-V4tFfrkZEEoDeiYY1HtoE_U9s00aR-6NUIxonILUXrNwG0GQduVtHnT8TfqLHkrOyJtUFJQjEH1CLE-ktJKiVBMBcFGOpX8_LhFyM_cO-y3U7YjNjTNGdz_8EI0yCM5V7vKfcZWm1pbGnSZpJ7TP2KQr7WFztcWIRx9mfrEnwasOahbtgbsvYQjE6Ly3PZRiS7duNwkTbKxGJz_i6f77AnocfSsz8_sH_SpjJRqasGG6ALKQwdw6x6j3-k-rVBfIGr48kyjhupLqiCbHmpcAgzL0LXWXzgmb5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">OmniRoute
 ۱۶۰+ هوش مصنوعی رایگان در یک API!
 🤯
@@ -1947,7 +1955,7 @@ GitHub
 </div>
 
 <div class="tg-post" id="msg-6616">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">10 میلیون توکن رایگان هوش مصنوعی Mercury 2
 🎁
 وقتشه ربات تلگرامیت رو با هوش مصنوعی ارتقا بدی!
@@ -1966,13 +1974,13 @@ platform.inceptionlabs.ai
 </div>
 
 <div class="tg-post" id="msg-6615">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/f9a7cbc953.mp4?token=X6KKvZetincqh6gNkybwNEqSlTknp_d-BxAewWoDdDbb_wegNVYlDaOTrAzBHiVWd1aPPMrQjV_GNXq_HVA1hvRScQ9sftUHbs959J19s1J2exDyFz0aTDTQmDJcta6YvWvfaQdFwdyGVXpj8WQfc7YkBRo9bBCwOLxexT-vlMihVYJ6zRublhj4oyf-V_mKN2ihamRrz8CFKOc9Y1VV093y9l_wAYK6KNnG9-hipV30y8ejJsxqCJkA_AYZb9YY3v4LO2lx55b0x-WqvZrEWUq2_b7iFd83gRojG0wdOyhJRzIyMq0DP01u8WXLn59dbdnx4vEdYu1tKjkgSCeVgA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/f9a7cbc953.mp4?token=nSUcPDoaZLEF4kMU27NgRe1UDVxIOD-lHoH5prAzfA92aNBKSSiDVS_Nz9dCrnlrxsytHJAGoL-kgYp7zPU_dUFZntKvJFnTb3G_80ML2vh0STIYaWje8CDkwbwNfmv8uHdqHkqipXdvX5xISTxSJWbAMnueG9SY8Kx9wgaK6vZRXVvH0znRccwhxl8-F8a21OqyUYeAGk8rcG2WFRpa602OuH-VqPWgokF0uplJfu0AGmZeYCP3VvqCtjljNwVaiYEisjJygP_t4oXWr2TWdBrSDIaMZRN8H1K6HUJMCKtJCgDAg_wmAkop9M8WKbUuxCXHZPMIKFz1WPqHjrEXdA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/f9a7cbc953.mp4?token=X6KKvZetincqh6gNkybwNEqSlTknp_d-BxAewWoDdDbb_wegNVYlDaOTrAzBHiVWd1aPPMrQjV_GNXq_HVA1hvRScQ9sftUHbs959J19s1J2exDyFz0aTDTQmDJcta6YvWvfaQdFwdyGVXpj8WQfc7YkBRo9bBCwOLxexT-vlMihVYJ6zRublhj4oyf-V_mKN2ihamRrz8CFKOc9Y1VV093y9l_wAYK6KNnG9-hipV30y8ejJsxqCJkA_AYZb9YY3v4LO2lx55b0x-WqvZrEWUq2_b7iFd83gRojG0wdOyhJRzIyMq0DP01u8WXLn59dbdnx4vEdYu1tKjkgSCeVgA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/f9a7cbc953.mp4?token=nSUcPDoaZLEF4kMU27NgRe1UDVxIOD-lHoH5prAzfA92aNBKSSiDVS_Nz9dCrnlrxsytHJAGoL-kgYp7zPU_dUFZntKvJFnTb3G_80ML2vh0STIYaWje8CDkwbwNfmv8uHdqHkqipXdvX5xISTxSJWbAMnueG9SY8Kx9wgaK6vZRXVvH0znRccwhxl8-F8a21OqyUYeAGk8rcG2WFRpa602OuH-VqPWgokF0uplJfu0AGmZeYCP3VvqCtjljNwVaiYEisjJygP_t4oXWr2TWdBrSDIaMZRN8H1K6HUJMCKtJCgDAg_wmAkop9M8WKbUuxCXHZPMIKFz1WPqHjrEXdA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">#اختصاصی
 🚀
@@ -1984,7 +1992,7 @@ platform.inceptionlabs.ai
 </div>
 
 <div class="tg-post" id="msg-6614">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">#اختصاصی
 🚀
 معرفی PokieTicker؛ کشف دلیل واقعی پشت هر نوسان قیمت در بازار بورس!
@@ -2038,7 +2046,7 @@ XGBoost, Claude Haiku / Sonnet
 </div>
 
 <div class="tg-post" id="msg-6613">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8393e8cd0f.mp4?token=rbsSVnWxLwNp6KTNHDMZ1gKNcq237lXaiigI04dlyWh5hYC1Pgr3Agf2aQe46Eakb_V60NYGm9g4DEuIOvA6UUEQvkmGSGNrwz5y-3ippsMFFYR5wsfQVF34EzBdrp1_Aekco639W75h_NPgEu0HW_xmj5vezzLGwnox3In5ASDRy5e0cNJ7MZAUgi2unyhrIJAHBVa-BI28gOaDmVKodDG1aaoWzYBh1iTblBZH8bw_srrW8S8E5SQAQNJpK2jAuTwnjD4xL1unCc4Yb6xYcgVEz0PCDx7VCRNwYWASrCq3fyFkUvTvTLnlHgF8DyoksRhF4qRmKYVgH-P3qZSGFA" type="video/mp4">
@@ -2057,8 +2065,8 @@ Site
 </div>
 
 <div class="tg-post" id="msg-6612">
-<div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bnE7l22RA7_nLhLoZ4ZdOFfFhvOzTx39SprxslmmQR7e9BRBleMRbhHqkt399niVnwD-hv9BOaig3fYZOcxqgaKpj9wpaq9bxWlyzfl_F2T4UP4hsLFGq0xAviY28AhllXpsVSwdssfj7UeQuQ-jbyg9iLO_T0O7CaiTdVvnyMRIZ-NTsgsdqBo3UbqnPfOyrMBmfr89kj1svzMbxA7-FbkaNilRD0YQUQ8a_Xaej2GBg7c0jn14doS9PDsor_EQojmHG5LXZHnoruyHfkhlSLNnPLKAupJtUVOY_DW63sUGnu6O82jKSAJ9kV9PFqr1Il4OQD5lNiNB2KZeYVu21Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZPL3D9TjYxkCPKSmR9mZ3f0g_AdMkShBIysT0CkzBcwN6OeZCFPObkuodxSfYAQeiIHST6GfKuAMos5xqHgCKhjJhP8v5j7zkRME9AmVEpaeBHJNzC0vYx-vihoY86D0ECZaDSrJaVbnmCioYNgNx08jILIqpY5ea4d5QTeFfD12tGka08SdAAGD_ula8NrjYt2ZYktg4JSeIuc6AVC__-32udn7DeR_MpTple4av1aFXljgoz57c_8JYCh2G2Bsk7eZzxy_MzYO-11Z5P7mS79qRn7-RJo3DoKV4fyUx_a5yHRam1YSqYquDTU0zD958mCrbIWtRU-7L2a1t1N9Rw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از به‌هم‌ریختگی اسکرین‌شات‌ها خسته شده‌اید؟ Trickle دستیار جدید هوش مصنوعی است که همه اسکرین‌شات‌های شما را به‌طور منظم سازماندهی و خلاصه می‌کند
 فقط یک اسکرین‌شات بگیرید و آن را به Trickle ارسال کنید. هوش مصنوعی پیشرفته Trickle یک خلاصه دقیق تولید می‌کند که اطلاعات کلیدی مانند متن، نمودارها و یادداشت‌های دست‌نویس را استخراج می‌کند و سپس می‌توانید این داده‌ها را جستجو و درخواست کنید.
 🌐
@@ -2069,8 +2077,8 @@ Site
 </div>
 
 <div class="tg-post" id="msg-6611">
-<div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/liqHYyzpJG-xDQoAKrAWTlEadEN6juVOVcKU9kT_mGh2GgieM5-1CTmAmmwQq5dUeq1NL7dsFDdi7SiX2PJ6_At6IOxApiCMOI7Aq6rg-HHB4mZDNwGI1sTLihOVBPu96PtWCSfUE6VseUBoIY4sWL1xPC7iSwermaCgiK_h_pdpQds0f_DqTDpd_N8wDP5QMon8wL2Dr-oWJ4qBuSSMjsUC64snnSU5X8NikZ4vXZyCPCxUHvyEfl-C87l_WPFUGoWqLN8DnS2b32uGL7RTjj23u8hPjtDWsU_q4Lj6R4NOE9cWIuytVACH1lTTf_DHIU7IbB-wxtL5HjAKs7rXhg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G7BC6Vny7nw55orNnJHfwLvg7cPSLNw2EDfdl8cYZdXpv6HZksvENPUm6zO8aZJFlQwekmblBniar76058GASt0hgyrYkVjGsMlzk_KooXY9o0Oox4U7Oci_Hj8LyAmzcBLmOaGdDSWF7erTxZpYUSaWWP3dyHmxu2ZGQh1_ueClEHFAIusxLKcJ8f_vHiEbCxDUuEsxXkx_pujk1RfsFrWb15Ohzb_u5Mat0ieQN7dUg2aOJurH6TruSseRq1A_oTaKcwT3h8H6cgdvoCz_fc9jkxWVA7zPDIezYmuzS_zco3xNvu4GF_GalXVbyL1FJmlYLHWZrri-a0BQ0yL4Qg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🧠
 شورای خردمندان هوش مصنوعی: تصمیم‌گیری با قدرت ۱۸ متخصص
 آیا از پاسخ‌های ساده و تکراری هوش مصنوعی خسته شده‌اید؟ با این ابزار، مسئله خود را به شورای مجازی فیلسوفان، دانشمندان و مهندسان بسپارید و تحلیلی عمیق و چندجانبه دریافت کنید.
@@ -2093,7 +2101,7 @@ GitHub
 </div>
 
 <div class="tg-post" id="msg-6610">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bgeUWQXGnpmshbVGs-iRpGmqAh7JZXuHDLdl0l7hc1B7P6QCWM6gZK8tdW83LiDKuTf45YaAmpkg5gObLS55ph_CWVTqK3eyoS4dQKy-cVwD8MlRxeCPqNdGJ7PJbSidwZlEfV8Hewm5_C17f6oeoJrja-U1uKuyJADfQeJZ7KyTiD3M9eQUitinua88HtznsHGfCLk_3TZFLksu8kMhvH8BZ4GabvdupDrT3Wu7AWvf-IkPZ7SyNBjDSoHL23MdL0KzBbDr4ZmVzmiKt7jhv9bMx98Tacmf2gAAAn_6sAb2rE1hbcCV6axqqbCqhqug2GDXvOdA8Sfj3866aM4wvA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎵
 OFPlayer: پخش‌کننده موسیقی محلی و حرفه‌ای
@@ -2118,7 +2126,7 @@ Site
 </div>
 
 <div class="tg-post" id="msg-6609">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mj0-8XHG8cfhPGvelsXypNamKarxVnXEMn5hY7IqjCYoygym0NyKvL7G7ISucGeQjvIm4Yn7LlbmjlFpobCDTZqaoudk-xBHdTpJHyaJi8g8d00GWmffrhu4-tjeH64zjcym-qwwymo8ZVVJ-bBoRQUiy01g14RRda0wwS65oC_iS4m4n-xtwcT6o3pXBAGZlyDAUaNzvO-CBwqPPmjRyKNXGgvCWr60cMDVTfA2L6i4RqU_Y8Nc9WD8TQmXIk1w6fWETEdXj2OEm0KncH8Z6h14lFHclYKDUD_GphMoRfnRgi3fA67H2g1foT9cMAmUdJOeuNk0Vh94UA3a9VfkFw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🏋️‍♂️
 مخزن کد با ۱۳۲۴ تمرین برای اپلیکیشن فیتنس!
@@ -2136,7 +2144,7 @@ GitHub
 </div>
 
 <div class="tg-post" id="msg-6608">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">خب Claude Fable هم استفادش برای مردم عادی کنسل شد
 چینیا هم دارن مدرک جعلی میسازن تا بتونن ازش استفاده کنن
 😂</div>
@@ -2144,7 +2152,7 @@ GitHub
 </div>
 
 <div class="tg-post" id="msg-6607">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">🚀
 تبدیل جادویی اسناد پیچیده به Markdown خالص با MinerU!
 📄
@@ -2177,7 +2185,7 @@ MinerU
 </div>
 
 <div class="tg-post" id="msg-6606">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZT_lr9VVfUCfSyfjMG9mtJsPN7S0S_eamqzjsPdyhxfhBcHQnTgCCsQaqR3UmyQIFYxwN5YHu0GUz75Z1tf52xLQJgfgI5Zu9pyPdMBo-4xjYtk_xo6DGYW8rrSYhOs0KPmj5jvQdUXAfp8JmfSX7O12yhHFkciAdpOcJ2s16Q-0DxMt-wmpz2_JwBxB4WoXaI0g8biF26n2G9cb34lDqWIYM-_iFJYPjN51FfzF6AR4cUZ3MBic9nPVoUwS-r-tm_Lc-3ErU7s5O-KCLEhGqfPDeWViQTL1pNgwsxpLEWHmLj_7LX052v8nHYiVWLFaQOV2-z8UpV8J7ZlQBf1_yA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چینی‌ها ElevenLabs را کشتند!
 💀
@@ -2198,8 +2206,8 @@ Site
 </div>
 
 <div class="tg-post" id="msg-6605">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sJ2VvCgT817bZnLpWiXWrUquSOhvXrkqgqHgz4MGuX1edTsCN3jyNvr-dCr460FPqN7XK_-pu94RA5VYhADcCsPE--9Kge80qBisoyR68Niiuv-3EmIy9cto0JqvgkTl4rrQez5xiFSWBp9Ps6musBfOSYwTJN7gUunrCw5ECjHrFa3ff47Klrue8HDh0kZaRvDAsZOHLY1JK9WDGa5qPRAJsTnlL2-s_A6HQ1X8CtOyT9jSXCCSsqPYKWO3bsUHhwipAhx-CO9McCxcB8v8OpctMrQPv65DhgLPeJhIQdRsmr_vTTJQoZwhoxnqKyB4TFCZHkVuV0Yzo_0bKB-YIw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d65tAQNuRefKFsYJq4EoYU443SxCNhZj8ya7G9U5o0-XBFX3szmJw5Ihw-90g4PZnyU48RBBnmtOaoiOCbP1Ra2ep2ecVTXKyNfcNq6tOiMFPblPGiS2awRu-bWCW5T3XLAHl8Oqy7u4nDZIhf12NL8XsryLzP6ABHN-WKNN2CXzrHsD_Q4W_3Roe_ckgQx0PklV_ecx3F0YpwRVbTG3SusyxS4x-dg4v1G0iSwE5UyOQeELcRn92wB2S26kC2WbwPWWqFlp9XSGGryr__3h_SlN976BRgvTk1rNlJxvTgK6b8FfIQpIHCSeP4sgsbIM9uF_6-SgjkhdpBCpZFaL9w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎨
 تولید رابط‌های کاربری زیبا با پرامپت‌های آماده
 🌐
@@ -2210,7 +2218,7 @@ Site
 </div>
 
 <div class="tg-post" id="msg-6604">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">🚀
 معرفی IstanPdf؛ ابزار قدرتمند و آفلاین برای مدیریت فایل‌های PDF و DOCX!
 📄
@@ -2252,8 +2260,8 @@ Remove & Reorder:
 </div>
 
 <div class="tg-post" id="msg-6603">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gyaUSe-paD8ZWhZboqDSK4dWirjcmlO7rLPK-n2nZjtZt7BvBUgfxo5orUPOOgfQyBQEDp5f5Wp2R1hjlNDTJj-HdGGfiWKqF_PpZUFm6Y9DOB7mha1tsGDoNN55CtbxSvp4dkTwITdgijQYxgu9LspJmY3UkOLChXMVIagBUDpTPGSdev5PvmRaGUCh_OnSIVtCNeDTn_6krw5Cw8KGkpcdVCYryCSuVICM1QeRnU71Rk78K1Gsz1Otbo3REor2IUHDuZ4cM77cKQhmrScyaNUQ6NKSm86KrtPsFRzzVyhnq1thGc6WBFFbJhQmzvGK_CSI9kDC5QST2bbr81LOIQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SJCE6mNsoPTiaTYdfYOJnAN-WlTn4qZsc8Nx4adWtwqjceskr6O8hHWwlRs1qUyBNKC1d5ioXT7MXQ9As907AKS6UQtGkB7fAMZkAJT7QmQrplCiU7VpZRDZbzkUkvwW4fn859tJyXcnlwbEur5V6UdIyqx4eE10FuNj1T-GlyBjsVdzrIsORkucKbDfWd14NdXWcKEEAEpuICIrDsxtPqUGeALY-xaI3vU6gqNGqdBWJAGztU3LyNE20BjQRH6BBafTBU93O7Kf1diauDQxzZqr8jDUuOG60FM-0IjmbGyFq-Er3O6nRKjFSk2Te7d9shywUKITEu9QpQYmmR9dgg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🤖
 جایگزین رایگان و متن‌باز برای Claude، Cursor، Codex و سایر نمونه‌های مشابه.
 ✨
@@ -2277,17 +2285,17 @@ Site
 #OpenSource
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/ArchiveTell/6603" target="_blank">📅 11:21 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/ArchiveTell/6603" target="_blank">📅 11:21 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6600">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/be7baa23f6.mp4?token=Bg-pJU-FmtAEdzJey8Nz6_JJsUVb79i2MLGOCnYh2OGg_6eWdmhfUaNuwhtEh13fWFhShOGZPcrvED75Uh-H1JgOIAicYP6YI8Gz0BtTa3htCamGRJP9zWbBGhOHRDm3nlxPidndeoTc9O7fJqCu3lOBlZPPy6ef33UC2i1cdQ6H99Ju59RRBeeEVLZhBrFXJ4hye0vkFsWooqu13hF8txt6FPxkiu4zoemd9hV6MG4Z4e5gYHCBbl1UC9lPFduv3wLdh20tlEHvwO9OjwmahX1ui55wLYl9W_0C6JiFmnQWbX_IQpetln1pazu0cwD0u_EhVxgtNMFAz_EBPUXzdg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/be7baa23f6.mp4?token=uH3dk1EWvH-FCp7hlj1UbbKIrLtUVNouR0fN7UfUq46m6ANzzd8YWkxLhT_3SXkxYi5L7LVnpFXop1P94oz2W-UcjngLPfEPMnQWVYWo0yDDc3wivSge-ceF9x8VbwfqUzUKQ-V05-L3u4A3cRMk_YNhPTrsypg5H1eahZu5lWkraKVRvPApHhOcSdhOkBvmSUodBCskbvZUQ41rrECJSthHhQHMZgnrISkTQ_NP21u4t1gxBYLNUdmGmImx56XeHq6_28evLNx-2HhXklbH4GiqsuiZJGqvynoBPkygN1KLWARqgrr_MaP0GR7_wsDF54McJXQz_HRYJDq4moqW3A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/be7baa23f6.mp4?token=Bg-pJU-FmtAEdzJey8Nz6_JJsUVb79i2MLGOCnYh2OGg_6eWdmhfUaNuwhtEh13fWFhShOGZPcrvED75Uh-H1JgOIAicYP6YI8Gz0BtTa3htCamGRJP9zWbBGhOHRDm3nlxPidndeoTc9O7fJqCu3lOBlZPPy6ef33UC2i1cdQ6H99Ju59RRBeeEVLZhBrFXJ4hye0vkFsWooqu13hF8txt6FPxkiu4zoemd9hV6MG4Z4e5gYHCBbl1UC9lPFduv3wLdh20tlEHvwO9OjwmahX1ui55wLYl9W_0C6JiFmnQWbX_IQpetln1pazu0cwD0u_EhVxgtNMFAz_EBPUXzdg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/be7baa23f6.mp4?token=uH3dk1EWvH-FCp7hlj1UbbKIrLtUVNouR0fN7UfUq46m6ANzzd8YWkxLhT_3SXkxYi5L7LVnpFXop1P94oz2W-UcjngLPfEPMnQWVYWo0yDDc3wivSge-ceF9x8VbwfqUzUKQ-V05-L3u4A3cRMk_YNhPTrsypg5H1eahZu5lWkraKVRvPApHhOcSdhOkBvmSUodBCskbvZUQ41rrECJSthHhQHMZgnrISkTQ_NP21u4t1gxBYLNUdmGmImx56XeHq6_28evLNx-2HhXklbH4GiqsuiZJGqvynoBPkygN1KLWARqgrr_MaP0GR7_wsDF54McJXQz_HRYJDq4moqW3A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">#اختصاصی
 🔥
@@ -2307,7 +2315,7 @@ GitHub
 </div>
 
 <div class="tg-post" id="msg-6599">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">دریافت 7 میلیون توکن روزانه AI به صورت رایگان!
 🎁
 🤖
@@ -2328,11 +2336,11 @@ GitHub
 NaraRouter
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/ArchiveTell/6599" target="_blank">📅 01:45 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/ArchiveTell/6599" target="_blank">📅 01:45 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6598">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">#اختصاصی
 🔥
 🚀
@@ -2382,11 +2390,11 @@ Metapi
 #OpenWebUI
 #LLM
 ──────────────────────────────</div>
-<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/ArchiveTell/6598" target="_blank">📅 01:04 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/ArchiveTell/6598" target="_blank">📅 01:04 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6597">
-<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">#اختصاصی
 🔥
 🚀
@@ -2434,7 +2442,7 @@ Android
 </div>
 
 <div class="tg-post" id="msg-6596">
-<div class="tg-post-header">📌 پیام #2</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">سلام
 دوستان اگر به وایب کدینگ علاقه دارید یه نگاهی به این سایت بندازید:
 https://risman.pro
@@ -2442,16 +2450,6 @@ https://risman.pro
 امکان انتشار در دامنه خودتون هم بهتون میده.
 با اولین لاگین حدود ۱۰۰ هزار تومان توکن هدیه میگیرید و اگر خواستید توکن بیشتری مصرف کنید میتونید از کد تخفیف welcome برای ۵۰% تخفیف تا سقف ۱ میلیون تومان استفاده کنید.</div>
 <div class="tg-footer">👁️ 2.02K · <a href="https://t.me/ArchiveTell/6596" target="_blank">📅 19:12 · 06 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-6593">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nN-tnKrHmMaxpxS8y1JmqkVTydl2JmqekUk2UczSE_y-k9d6rfwuFL5kcJ6owvIPsk7d7ov8X5Kd73AcPvp-_qEQ4_heMA5-MuoB579GLmq3aoGp8fT8ORipEQ053GIPoGd2l2gZinw4GNKYg1dOdiiKGdWYLtRTGDcvYkIyEBuTtGhooRdwcuyUPe9dkRvx337qlCqZkSIa28N6M600qz51Y_0l2PxpfeuTVX-u5ANiA7oCCvh0EGBy-05Fp3-eya88pG5kg9AXAl9vg2jhfXufLq8S_e3m3Vq7Ou3kXVdq-R4W_phfj5ufgk0BKPkGHVpWIkEaGLxbOabf1DeOUA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">قابلیت ست کردن پراکسی لوکال
-خیلیم ساده
-مرورگر باحالیه
-🔥</div>
-<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/ArchiveTell/6593" target="_blank">📅 15:56 · 06 Tir 1405</a></div>
 </div>
 
 <hr>
