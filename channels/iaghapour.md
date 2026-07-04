@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-13 19:08:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-13 20:24:41</div>
 <hr>
 
 <div class="tg-post" id="msg-2731">
@@ -300,7 +300,7 @@
 <div class="tg-text">⚠️
 آقا این همراه اول قشنگ داره عجیب‌غریب حجم می‌خوره! اول که اومدن نصف بسته‌های خوبشون رو حذف کردن که مجبور بشیم بسته‌های گرون‌تر بخریم. بعدش هم برای تست یه بسته ۶ گیگی خریدم؛ منی که بیشتر از وای‌فای استفاده میکنم و ۶ گیگ برام ۱۰ روز کار می‌کنه، چشم باز کردم دیدم بعد دو روز پیام اومده بسته‌تون تموم شد!
 توییتر رو که نگاه می‌کنی همه دارن از همین دزدی و حجم‌خوری شکایت می‌کنن. ایرانسل و رایتل هم همین‌طورین یا فقط اینا این‌جوری دست‌شون تو جیب مردمه...!</div>
-<div class="tg-footer">👁️ 8.05K · <a href="https://t.me/iaghapour/2731" target="_blank">📅 15:13 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.73K · <a href="https://t.me/iaghapour/2731" target="_blank">📅 15:13 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2730">
@@ -323,7 +323,7 @@
 دانلود سایر نسخه ها
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/iaghapour/2730" target="_blank">📅 20:40 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2730" target="_blank">📅 20:40 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2728">
@@ -342,7 +342,7 @@
 Hedioum Tunnel
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2727">
@@ -368,13 +368,13 @@ Hedioum Tunnel
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/iaghapour/2727" target="_blank">📅 19:01 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/iaghapour/2727" target="_blank">📅 19:01 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2725">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromNovin AI✨</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oDDU-nNWp3o2WrtAOWJtVguqCOkTQvbj1YNp6lBYJMj2ltIG75fJm9GoGoLBzckThKFlPC_bVclbFFs54Uhy8MoyxaDS8hYfZDT-1vFv30FMcPok7Qk65gKCgPzrPhjdtqgQHPtt0_J8oiWPkU7RspwsTd01VkgOoqpMBcK-i8CNzqE0DFQaq3-9StvuWq0zWvy5c4oJUV0swC8q6ZvJQp0azd8PzJB6zqDaS9FtsFM_w6ZE7UUNXX5rYY8mkNgEh-phvNzMdrmbZ9tGfLQNW9fJculzFkPYXIBIrnAv8R61XWoq7z_dVnMBxspbZ_q2BnMLUecbwqnPp-ivkeTmOA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KsEs3DuaToIBYFStnAkGk4S1x0eSy6NEv02FtcHtt6HfYMDmrPN3CKWJCbSFDjCx3rcyNugdnSGOqFr8DqZlrvuITEPGilo9loFlpkKVQ7lZlEZ2ihT1Ymp2FQsxUibvQ1gd1qSWAfVE-p4njxNW4NiLC6jX7j1n2gvZ_njMjorfPdDydwVXDwCRFSdtrx_QuDo6tTBKJyeCn-WoDjV_mbetl2vZIjR9P202BKPo6P8uxXNz16uyH3rP3OWr86fbifjfR0jPR6LYzuxqYa3kcFx6LdkRS5V1zLaQFzzQGMfRjE8Em8ue2mi_KYPy7VLVZ_rPYcZuHkwVTNYKnRuCzQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🤖
 ارتقای بزرگ هوش مصنوعی پروتون؛ Lumo 2.0 با قابلیت تولید تصویر منتشر شد
 شرکت پروتون (توسعه‌دهنده سرویس معروف پروتون‌میل) نسخه جدید هوش مصنوعی خود را با نام
@@ -398,12 +398,12 @@ Lumo 2.0 Lite
 پروتون که حالا بیش از ۱۰ میلیون کاربر در بخش هوش مصنوعی دارد، هدف اصلی نسخه دوم را جذب کسب‌وکارهایی قرار داده که نگران امنیت داده‌های حساس خود هستند.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/iaghapour/2725" target="_blank">📅 20:55 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/iaghapour/2725" target="_blank">📅 20:55 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2724">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UJe8i1NUcbifhxdKxVIt7KDgzdZCVjG_SoDI65eSWe3xjAWEAWb74W4CJf9r6kgTFi_9FNt3wr9HzBHsmKL0UtUciWSXYUDGFMYNDgvRXZwhO14vB8pcNyFwOLnCOpyS8alUzZsUcnQZjF9MBISi2-6MkcxGdD9euYwSXzQ2WK_uG_belylLHZoOhH4DXE4nH4_ciN-P9WKI--WbBOWAPUTdQKXUl_l6SPH7tOk0y7ZYG2e1iDlYwjamt4hjYohouZBH1UPbWpCE8u7A46D93nixfP-_qbpjAO_Y_05-CA68od-7qfUnSEB1jlLa5oXx9tyZTw3BINrzF0FuHLMBaw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Go_0Gzk0qrLkII1_2IGU7y4tOAUhkbPCIpmOqGfP7FmYvDcgVLd1IeYwmRy6T-BjKC1HvO61B3-BiWMxSxq5aiMdd8NNpFzn_dMEEH2agXtUIe0iqDBXKZ2BM26dOfdZBM6uw_6hb78g-yds-JzXvfS1bepE8eCxm8jBYaD4_DMFsuviHYV3fu5ULnJkhm4gyxV8BvVZR5rPzunGQMmk_KzL_g8lLf_A0cU6Vh12I45aytgmRbrluQoOhSsocg4OmQOzHi_D-DvIQWrqK1rT4oFoE0JHa2sK_BmdXd-RxkbsUHtl2a5zXGhZruwruQE0wpQjE-Cpih6m56iBVBAljA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 افزایش بی‌سروصدا و ۱۰۰ درصدی قیمت اینترنت فیبر نوری مخابرات!
 شرکت مخابرات در روزهای گذشته، در سکوت کامل خبری و بدون اطلاع‌رسانی قبلی، قیمت بسته‌های اینترنت فیبر نوری را به شدت گران کرده و تغییرات عجیبی در سرعت آن‌ها به وجود آورده است.
@@ -425,7 +425,7 @@ Lumo 2.0 Lite
 
 <div class="tg-post" id="msg-2722">
 <div class="tg-post-header">📌 پیام #94</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gke2WzWLRfvbW_iIUSo8vXhzdUCEOUa1NO3rCKUpa5diyP6x2uo3TEsAIYthCt47LXyHT8kEpBR477tDbGlZTT937WEYIX8acuQzREpbn5glIPz-KKNKC5SzH8F-f35R_LP1D7f43N9-tTRSdmPgTZrYbb4UR5lq82wULb7p9JfWoJLi-3NovuS4dDP6Btj_inhn-fq6hafnDOSvR9wx_K1htjZbkj7wFmFIQ6sEY50uPzeA4wZiqtK61jkHpPSb8fwzdkoCJQjAMBvU-e0bZ5pokw0jCJWI4ial0M2pb538qdDjQXGk6fgAIsnMZoRrTEjmnaf2s2xEuqwlo4ZAwQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NBmBajZftiNqldSa4T6j821mHYLN7cGi5wc6hlaBUAFzlg9gZNsz9ttQIyM7g63opeDNt_q-7Cp9LrNauReYtPfmOPPD96M2ZEUaMyx-MvZL5WJf4N5sBoA4Q3x60qGT0Mmw56_k5R314zYDA-8tp6WXKhtmPSfwgl_nXtxMTfSTF6iyq5QXSei2sm2lcACSa-dvw9E-c2ZlxVH-fRHAo5xt2Lg4A8SxP2bygR4pbevGURpUFBaoi3rYT1WX86c30Y_0kBxLi4iHLSoiBfNIWRGxVSH9xNEFAZe5JbFpSvVUkP5gPVoUx-8Vr1wYPBQu2Yr0NjIEfAvwlTZDQm87jg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 پلتفرم متن‌باز مدیریت DNS با دامنه دلخواه
 با این سیستم می‌توانید یک سرویس ارائه ساب‌دامین رایگان روی دامنه اختصاصی خود راه‌اندازی کنید. کاربران می‌توانند رکوردهای دلخواه خود (مثل
@@ -473,7 +473,7 @@ mysite.example.com
 مثل همیشه هم هیچکس راستش رو نمیگه؛ اول میان کلاً تکذیب می‌کنن، بعد میگن آره حمله شده ولی اطلاعاتی دزدیده نشده، آخر سر هم که همه‌چی به باد میره هیچ‌کس گردن نمی‌گیره و پاسخگو نیست! تو این بلبشو، حالا بماند که بانک‌ها یواشکی جلوی وام‌ها رو هم بستن و طبق گفته بعضی خبرگزاری‌ها، سود وام‌ها رو از ۲۳ درصد کشیدن بالا و کردن ۳۵ تا ۴۰ درصد!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/iaghapour/2721" target="_blank">📅 16:58 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/iaghapour/2721" target="_blank">📅 16:58 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2719">
@@ -538,7 +538,7 @@ mysite.example.com
 اطلاعات بیشتر در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/iaghapour/2717" target="_blank">📅 17:56 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/iaghapour/2717" target="_blank">📅 17:56 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2711">
@@ -579,7 +579,7 @@ mysite.example.com
 
 <div class="tg-post" id="msg-2708">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fXWg5QrutbsKV5vCBUHUewrgwWyZiHx1lJ5uub-K6JoDJR4VREUszatwBQQ3m0db49ltKPKDlHiwpkuUhFJ5J7uuVYRuRkMIgxm1UbJ7RKtPOv3_l_9FzabggU7uUtwJjQqbVL-f0PbHJ06tIkJ5j6gwB0iVoyRz7HJxoiVAFQgJZ45NVzM_TOQ4dSyJ0fr6ZgQxBr1YU-gy7acnE_5_iGPnYeUTL0jMqVrvn8OZsrXySn5ZXs35s-YtAIdGWyWKUSoMTYRM8N7XnHX1sw8QWY8bukwLNmIS6L7CUmvoWxqfuBCQ6_lcY-jwfcuj6w8xneVVtWMalcjNd28ujHPjqg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tD3-9YsU0zJfycF64I_Rda8H4trLGuUAeFcUKyyqEiuVt7MseHlxSYph7obH30lXPLov0UCpjqy3hlpbGbvjQuZca04Gv25vSivyPQV_7FDWibIXqt77X3jObafHjzoeZDVRtLCedku452Bxo0WpYAaTW-GTWEA_2FXlM6XtG0zGpL4wDObnuSjyegfW57XVQC9AXHqUfbLU9CCUWlE63oEwdGVLxBVAT-buxOI7HEwtGmJbkVLBGcTYkE34-GLvDnxIndZ-46YaZfjhYED_tilf5iOgk6hcKj_a95QuX8FTxHOYN0uAjmbxrLs_7DWGxFLKMj5fzXgQORAIOpPHiw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 صرافی کوینکس ارائه خدمات به کاربران ایرانی را رسماً متوقف کرد!
 🔹
@@ -675,7 +675,7 @@ GTA 6
 در همین حال، کسب‌وکارهای آنلاینی که فروش طلایی خود را در دوران محدودیت‌ها از دست دادند، برای جبران خسارت‌های سنگین به تخفیف‌های گسترده روی آورده‌اند؛ به طوری که استفاده از هشتگ «تخفیف» ۱۲۰ درصد جهش داشته است. این آمارها ثابت می‌کند پلتفرم‌های بومی برخلاف ادعاها، هیچ جایگاهی برای جبران ضرر اقتصاد و کسب‌وکارها نداشته‌اند.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/iaghapour/2701" target="_blank">📅 20:26 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/iaghapour/2701" target="_blank">📅 20:26 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2698">
@@ -802,7 +802,7 @@ ircf
 چون نسخه رایگانه، به محدودیت ۵ هزار پیام در ماه رسیده و رفته رو حالت تعمیر!
 اگه تنظیماتش بر اساس تایم‌زون باشه، اول ماه جدید یعنی 2 روز دیگه خودبه‌خود درست میشه؛ وگرنه به ناچار نسخه پرو رو می‌خرم تا دوباره در دسترس قرار بگیره.
 🥸</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/iaghapour/2690" target="_blank">📅 17:19 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/iaghapour/2690" target="_blank">📅 17:19 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2689">
@@ -1032,7 +1032,7 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 
 <div class="tg-post" id="msg-2670">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gP0k6AfLHUrBbId5_Wb-h5TfX6bodwvG1evgJdNE9770IUGhYYHWgUQ6Gs9xDDwGfo_8eoYeuy3SDOgvaIKXmt3nx1B1qOg0pGqFDHSm8hdcPs-nNDrJDCQnvYRxLgCfaxw_1NYFFI8r6DZrxUODB7qYDmg15PK3hZi58-vfAyxP3wktR-J1yYKFeGYDQi0Fd_tS1Q-MqPNj_NPR1a2kTY8Aa7O5VyFeEJ4FrtmS-YaPb6ke6BQroqqaYEjUPGWVIG714vw2BQa0K_i-_dGaXPw12z27OErWm0VBsDMM8Xuzh5PLN3hqrn78Q2ZHmbZtp8hJls1gg9309wPyTubJzA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Iz8ZqMaB4yfxijvhD06gr8YSVawcNAWJs-HudJu48YtdcgLRWcWRwqCC0frg5AJ_9YFACxUlXXCyKqS03ggf0vQEUWvI8JDrv3gNqb8PLc1opJ2eUtNQUZ-Vb5rjNHrjMiAKOBmCyyCNfRX8zp7RTLci_hEG_O2MwO1RvSW5Ac71XsyLeuLaWfEo7ZJ1J7vrmxtyJuhqNyixAW2wF8G67I4zABm9uJT8fp075dkbAgojBBCf7NrEP6XzDemyzj6ygjQcxwXKsBBb9xeLe2TpKF-bCT6CUiWkw2GDCj1crCs5cSi91ogiZacaxfmseo-SuQxrOKfu1HEm7w9BlP1UjA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 وزیر ارتباطات: محدودیت‌های اینترنت شفاف و زمان‌دار می‌شود / خسارت روزانه ۱۵ میلیون دلاری قطعی‌ها!
 ستار هاشمی، وزیر ارتباطات در نشست خبری خود با انتقاد از وضعیت فعلی گفت: «در عصر هوش مصنوعی، دردناک است که هنوز دغدغه وصل بودن اینترنت را داریم.» وی تاکید کرد که قطعی اینترنت در فضای غبارآلود شایسته مردم نیست و سازوکار اعمال محدودیت‌ها باید تغییر کند.
@@ -1080,7 +1080,7 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/iaghapour/2668" target="_blank">📅 19:34 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/iaghapour/2668" target="_blank">📅 19:34 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2667">
