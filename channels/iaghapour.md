@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-13 08:31:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-13 11:38:00</div>
 <hr>
 
 <div class="tg-post" id="msg-2730">
@@ -315,7 +315,7 @@
 دانلود سایر نسخه ها
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.99K · <a href="https://t.me/iaghapour/2730" target="_blank">📅 20:40 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.7K · <a href="https://t.me/iaghapour/2730" target="_blank">📅 20:40 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2728">
@@ -334,7 +334,7 @@
 Hedioum Tunnel
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2727">
@@ -360,7 +360,7 @@ Hedioum Tunnel
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/iaghapour/2727" target="_blank">📅 19:01 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/iaghapour/2727" target="_blank">📅 19:01 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2725">
@@ -390,7 +390,7 @@ Lumo 2.0 Lite
 پروتون که حالا بیش از ۱۰ میلیون کاربر در بخش هوش مصنوعی دارد، هدف اصلی نسخه دوم را جذب کسب‌وکارهایی قرار داده که نگران امنیت داده‌های حساس خود هستند.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2725" target="_blank">📅 20:55 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/iaghapour/2725" target="_blank">📅 20:55 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2724">
@@ -412,7 +412,7 @@ Lumo 2.0 Lite
 قیمت هر گیگابایت اینترنت فیبر که پیش از این حدود هزار تومان بود، حالا به نزدیک ۳ هزار تومان (و در بسته‌های کم‌حجم به ۶ الی ۷ هزار تومان) رسیده است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/iaghapour/2724" target="_blank">📅 20:11 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/iaghapour/2724" target="_blank">📅 20:11 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2722">
@@ -441,7 +441,7 @@ mysite.example.com
 گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/iaghapour/2722" target="_blank">📅 20:50 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/iaghapour/2722" target="_blank">📅 20:50 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2721">
@@ -465,7 +465,7 @@ mysite.example.com
 مثل همیشه هم هیچکس راستش رو نمیگه؛ اول میان کلاً تکذیب می‌کنن، بعد میگن آره حمله شده ولی اطلاعاتی دزدیده نشده، آخر سر هم که همه‌چی به باد میره هیچ‌کس گردن نمی‌گیره و پاسخگو نیست! تو این بلبشو، حالا بماند که بانک‌ها یواشکی جلوی وام‌ها رو هم بستن و طبق گفته بعضی خبرگزاری‌ها، سود وام‌ها رو از ۲۳ درصد کشیدن بالا و کردن ۳۵ تا ۴۰ درصد!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/iaghapour/2721" target="_blank">📅 16:58 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/iaghapour/2721" target="_blank">📅 16:58 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2719">
@@ -493,7 +493,7 @@ mysite.example.com
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2719" target="_blank">📅 18:01 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/iaghapour/2719" target="_blank">📅 18:01 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2718">
@@ -507,7 +507,7 @@ mysite.example.com
 دلیل اصلی این اتفاق، فرسودگی و خرابی باتری‌های پشتیبان این دکل‌هاست که توان روشن نگه داشتن تجهیزات را حتی برای زمان کوتاهی ندارند. این قطعی‌ها نه تنها دسترسی ۸۸ درصد از کاربران به اینترنت موبایل را قطع می‌کند، بلکه باعث از کار افتادن خودپردازها، دستگاه‌های کارت‌خوان، دوربین‌های ترافیکی و سایر خدمات حیاتی و شهری می‌شود./شبکه‌چی
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2718" target="_blank">📅 12:33 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2718" target="_blank">📅 12:33 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2717">
@@ -530,7 +530,7 @@ mysite.example.com
 اطلاعات بیشتر در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/iaghapour/2717" target="_blank">📅 17:56 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2717" target="_blank">📅 17:56 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2711">
@@ -550,7 +550,7 @@ mysite.example.com
 👌🏻
 اگه ابزاری کارتون رو راه می‌ندازه، دمتون گرم که با یه تشکر، ستاره دادن تو گیت‌هاب یا حتی یه دونیشن کوچیک (در حد توان)، خستگی رو از تن این بچه‌ها درمیارید.
 مخلص شما...</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/iaghapour/2711" target="_blank">📅 20:51 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/iaghapour/2711" target="_blank">📅 20:51 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2710">
@@ -639,7 +639,7 @@ GTA 6
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/iaghapour/2704" target="_blank">📅 17:58 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/iaghapour/2704" target="_blank">📅 17:58 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2703">
@@ -728,7 +728,7 @@ GTA 6
 
 <div class="tg-post" id="msg-2696">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bKfBKJuVhN2ysJ-aGlu_xm5XGGo2NpalOYi4MArTRWUivMI_oVLMCFOGdUIp2k-IGp4ndljT7L7Sbwo0i8-ta4W_A2N64zSdwesX2xbHltkm-gsP1OELgQzpWazxIzjyZ8gaxMYWfJnI6fmqpenRHHmDGc_DbapxWa295nQ9Lez4IfeeufE7ZNwMUebF4RzSSVaqhRv_gE8cJHGkZLz6aYGGb-wenyaoMg-rW5hMnvbYEyH-jdeIPGUB6aIBauWdpv05g43YeHrD62Z9HWxAl9IBZu3_MsypUzw0eTxwYrNgWD-eqJsM2UidfWKj15OGacmxbpcDhgG-xnBQXvCN0A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SDipvOXkZnj5FYMrhRVqllpaaQASapUQrQd-krvS7tTx4dTN0BsLkwaBvWJNHcZut3sQ0UexCzqs01A2NWYLHpisaxUhNQRw4Q8CUkNpV2J3RsE2fd5qDFj_fOK0zVdNsS7JCteHWUcmE_O1c2GnquSAFmnaZTuigvpCDKRDDZc709J5mbZWicreoI5tLhCwY7xe1o05cXyNG6esJ0jDug2p9KLgyPWr6wuwKjNhjvk_HN73IYPezDImnE3QaGSZhEgMoHb7bxuWCcM0d-33TXDok_2ma00hJKL__wv1CIicFJAEgK07k36eDeu2VB2gbYdyOVuT8VY5Qn6SJ5EBgA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 بحران خاموش در دیتاسنترها؛ اینترنت برگشته، اما نه برای کسب‌وکارها!
 پس از گذشت چند روز از قطعی گسترده و مسدود شدن کامل ارتباط با اینترنت بین‌الملل در سراسر کشور، اکنون در حالی که اینترنت کاربران خانگی و اپراتورهای موبایل تا حدودی به حالت عادی بازگشته، اما گزارش‌ها حاکی از آن است که دسترسی بسیاری از دیتاسنترهای داخلی به اینترنت جهانی همچنان قطع یا دچار اختلال شدید است.
@@ -746,7 +746,7 @@ GTA 6
 
 <div class="tg-post" id="msg-2694">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/iaghapour/2694" target="_blank">📅 21:58 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/iaghapour/2694" target="_blank">📅 21:58 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2693">
@@ -783,7 +783,7 @@ ircf
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/iaghapour/2691" target="_blank">📅 18:17 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/iaghapour/2691" target="_blank">📅 18:17 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2690">
@@ -830,7 +830,7 @@ ircf
 پ.ن: من داشتم میخوندم خندم گرفت این چطوری داشت میگفت خندش نگرفت؟
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/iaghapour/2687" target="_blank">📅 19:23 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/iaghapour/2687" target="_blank">📅 19:23 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2685">
@@ -864,7 +864,7 @@ ircf
 
 <div class="tg-post" id="msg-2684">
 <div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CxWwLhXIjnlerPbdBIyqHFU61DK8_hNzBi6bZ8AzzSY4sH2uGEfK7afY7kpbPlpeRrbgO-nJmHIfmSLARlmyyYwDS4Ktx5930sHZcf36lwiGIFG40KX_AEP65EaJJc8EZUii1uSWkKkzOGaxFIRTmuuUMfsPXU6oLT48j9d7XK-3zWWQ3erZxHrqtLZsLMXLpacxidZ8rfDOKjomcnCiUz1n7zdxHlm81p4-JVnrqkYbJNtZdpGe-cQ_ztGbuZHOQc4vzUxodKIhrUQDyL13hPiTGkDsoDW8z-2kSpdha0OShfrmvLTs3TA03DEGGcMQAr7ZV889w0ria-vTJ3VZ7g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FoOScGB7Cj40wuHPmu-zDuHQD2LtD_cD2z01c3mbzeYvD4HOJUUj2ZnX33UbBTUwSDZROPYkXtZRy3pMrnccslXL21Au_8pEqzY0wZuXPdLGaSxMV9DQLmb3UW3YSWx8tV5BhoApc_3JeY2wrHKfWs6aAVCd1mdLad1WT7HxhBgvJ-w3gUT5vnSqIgl8EW4TAxJ4e-1vOp5kIX2UxAwYKYM6efEToyS4qI4leVibzFxuMQCBnAgM7Rq0h1XmyLgd-QpKh5O7PfRZZTpF6hkN4BwvF2KccjyEsEijBlf-t9sommvcfNN3UGR_Qva5XolfmW2NXWHNbWF9ej1vR4IiCA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 افشای ۱۲۴ میلیون پسورد و ۵۶ میلیون ایمیل؛ آیا اطلاعات شما هم لو رفته؟
 پایگاه داده سرویس معروف Have I Been Pwned به‌تازگی آپدیت شده و آمار نگران‌کننده‌ای را منتشر کرده است. این بار هکرها مستقیماً به سراغ کامپیوترها و دستگاه‌های شخصی کاربران رفته‌اند و بدون اینکه کسی متوجه شود، حجم عظیمی از داده‌های حساس را سرقت کرده‌اند!
@@ -931,7 +931,7 @@ Have I Been Pwned
 
 <div class="tg-post" id="msg-2678">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jp6Xv3V_v6edxuljiCM-syOOq7nXvr7uhcAcmgMkMClIzEqymTQAn0RBvZhoq7KNEA214ZpsFihAmlYDJJd0vKaeBYA187m4RA3zOgedxkmishkm68T_6JmTwZL3g7HnCLzOkU0AwFkkH2eigQrm7YNa9RHKn79ELfk3ygzR-vtPYUukXF1cOxoegtgn970HT3PZEEiaAd2FF2i0P0XLKQpCRy2Y71vtmXHWMTHh4VjGq6fBnoVUclpm2sN9QDRbUZ2gJFWlasUVZ-prdgFlcCjJ_zWjD1gfosMwbJEiFfJuaG36-X1eDPbJSiHF_V31tE-gn05PSebjgBbQOWNXyQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M6dfhUyZI8gTZcaybSBtagcoDMrSpKdU3xOd_Cnh7-2vXQVQ1DVMno3zxY2L0K2igSXcnTrwR5VYeuthBqyrdDIAN1_WIP7-j6VnwtW4Sc0X3Zyw-_5TyyJSRQRBFMDbE1a20dZ-AOVL-uAVR4ZdueqosLz7ayZp7Y3eK4jcTWBMuIkCcjM3b-gGP8QmMZwlNBoPZpuBbblv48WMjEDGM98DNW1c0oGrdIAbiv3hHwQP7GDtPLKqG0JrJeXODaER-bV4nuDyi_HAa7ozWrJnCL5JQ6f-vzuwvkdo2NjWjpF9T4OXCt9fwvpt4deghiFpJ4HFwQfAl7tFW1j11Jm79A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش تانل بین سرور ایران و خارج (۲ روش سبک و سریع)
 😍
@@ -1385,7 +1385,7 @@ CoinGate
 
 <div class="tg-post" id="msg-2647">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g2le_TpqQzmm4c0PN_SL14UGgZ-uPjlov__7DeoSz9kvtEEnlW_VSma0RKRl_wzn22fA9oXBNI-tiYtETadqs6Cn7GgT_GYhr-VINgVDeBCDkSUOAgzUnNHERwrCTUkIQdtzMpAXmcwy-HQHeFBQMpGw89eq-Dacb9jSWqyFQY_po1M_UsNI5syKhdQBw3Rb6IrKRVbTapyMiPbBIhsVDtYA-do2-WNbTNy2rqNxJMB-NBCNbwnkaDBo45qxXMzEU4B4GabtKLgDreOLjC6D--TRfoBJ93T4IjzCrEaTMlvfDOVGaQN48CkVK993-sHQLRfrO5j6fsinCMSVFsMxmg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YRlm8poihkKmrI6TkKriKU81DbNC491iruLLRkvsOE2nmBWXCU2lotlYOZuM_pjSYCc64kIwmkkyfwmbDE3BNT0uj4v5gneelbp4HAUDPbLd4TE2VeKk6tZuLxSndJKMDdA-mbIa95hajTV4hiU2paB5KxazkISzGTugIW0VogswpZMTVwiiHJD8hXoG8D7cFalQ2zucJUA8BSFw6tH4BGWRvYMwXrnPI0IzmccevQ_j5RQkz6ZWU3MwUWK9lEoIemHVmW0x8gYJDUVdQfc5pNQQKevoy-CmUo5AbtsPROo41MGTOZuFa_TeIVZqBu6bky-vSGOVq3hIvY-Au5eTwQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 تون‌کوین به (Gram) تغییر نام می‌دهد!
 پاول دورف در کانال رسمی خود خبر بسیار مهمی برای کاربران و سرمایه‌گذاران شبکه TON اعلام کرد. بر اساس این اطلاعیه، ارز دیجیتال بومی این شبکه قرار است با یک ری‌برندینگ بزرگ، نام فعلی خود را کنار گذاشته و به نام اصلی و اولیه‌اش یعنی Gram تغییر کند.
