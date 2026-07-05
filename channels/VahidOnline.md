@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن. اینجا بعضی ازچیزهایی که می‌خواستم ببینم رو همونجوری که می‌خواستم بهم نشون داده بشه می‌گذارم.استوار بر حمایت‌های مردمی:ماهانهvhdo.nl/patreonیک‌بارهvhdo.nl/paypal</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-15 00:18:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-15 01:23:25</div>
 <hr>
 
 <div class="tg-post" id="msg-76790">
@@ -304,7 +304,7 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 196K · <a href="https://t.me/VahidOnline/76790" target="_blank">📅 19:31 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 211K · <a href="https://t.me/VahidOnline/76790" target="_blank">📅 19:31 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76788">
@@ -326,7 +326,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 335K · <a href="https://t.me/VahidOnline/76788" target="_blank">📅 09:37 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 341K · <a href="https://t.me/VahidOnline/76788" target="_blank">📅 09:37 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76787">
@@ -340,13 +340,13 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 373K · <a href="https://t.me/VahidOnline/76787" target="_blank">📅 23:04 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 377K · <a href="https://t.me/VahidOnline/76787" target="_blank">📅 23:04 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76786">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">این مجله ۹ ماه قبل از سرنگونی حکومت صدام‌حسین در عراق و سپس اعدام او نیز عکس صدام حسین را روی جلد برده بود. معمر قذافی نیز از دیگر رهبران منطقه بود که ۶ ماه قبل از کشته شدن به دست معترضان، عکس او روی جلد تایم رفت.</div>
-<div class="tg-footer">👁️ 368K · <a href="https://t.me/VahidOnline/76786" target="_blank">📅 19:56 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 371K · <a href="https://t.me/VahidOnline/76786" target="_blank">📅 19:56 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76784">
@@ -366,7 +366,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 363K · <a href="https://t.me/VahidOnline/76784" target="_blank">📅 17:45 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 365K · <a href="https://t.me/VahidOnline/76784" target="_blank">📅 17:45 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76783">
@@ -378,7 +378,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 341K · <a href="https://t.me/VahidOnline/76783" target="_blank">📅 17:27 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 343K · <a href="https://t.me/VahidOnline/76783" target="_blank">📅 17:27 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76782">
@@ -392,7 +392,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 336K · <a href="https://t.me/VahidOnline/76782" target="_blank">📅 17:21 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 338K · <a href="https://t.me/VahidOnline/76782" target="_blank">📅 17:21 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76781">
@@ -409,7 +409,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 382K · <a href="https://t.me/VahidOnline/76781" target="_blank">📅 03:56 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 383K · <a href="https://t.me/VahidOnline/76781" target="_blank">📅 03:56 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76778">
@@ -427,7 +427,7 @@ VahidHeadline
 </div>
 <div class="tg-text">📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 409K · <a href="https://t.me/VahidOnline/76778" target="_blank">📅 19:48 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 410K · <a href="https://t.me/VahidOnline/76778" target="_blank">📅 19:48 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76777">
@@ -447,7 +447,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 399K · <a href="https://t.me/VahidOnline/76777" target="_blank">📅 18:47 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 400K · <a href="https://t.me/VahidOnline/76777" target="_blank">📅 18:47 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76776">
@@ -461,7 +461,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 366K · <a href="https://t.me/VahidOnline/76776" target="_blank">📅 18:40 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 367K · <a href="https://t.me/VahidOnline/76776" target="_blank">📅 18:40 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76775">
@@ -475,12 +475,12 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 388K · <a href="https://t.me/VahidOnline/76775" target="_blank">📅 17:55 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 389K · <a href="https://t.me/VahidOnline/76775" target="_blank">📅 17:55 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76774">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tX44j5UoNuUQfO743i0_GU70dIjTtw3-vRkixDffOQPqKf_Gj4XjrEz7bBkUs_1YXYXhwthSqeOMDez8UOb7bcOEBKPEG6sLjDhzGfc2Gt0OLNRkzrI-HpRXL5pDRKmCdoVX9kJDtJO47SqIoWsUNbcJQ0zI3DX8b3bx8FFjXW9RWQD7O_bBudFKJhJh_PLMc4qGplW-oN1SabUOcIiZRYIM6j3Udys_WmVsejBg9_itFJgk9bDGSwsNcP05wcDB7odZDH8Itka3XuQx1r7vO-AbKkO-dQhZPct6AXRbrLL4DQdnJZhCUiR7zvk2doW_ODPDLhzQZ8SJgCxOw7iqng.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/A3b_H3KEdiIeyMwQSchWrX9RBjJk95du9Pnk5fk7wOE02-3RvANWrQwvSfnmSU9FL0ZVZ70Y1TIHykK1NH1As18MyUeANMNDlH44EHmsfbm7hL4QNFiPsE747RleX2Ul3yfz0-vUcsALVi2XB4p_D7bzxOTRcZcbPBlAEMWeWuoJxshQigjFgzxONsMVDEtG6H5XKnVzy0-uCWiJitpKiGJfo1mXofdGEUdenbrZQDbmM1f0mnT0lsgUqWvi3s4ga_LqIpNEvpx5IyTGlLeb9xCagCsg6cuVJmG41GO3B_iqeNL5IV4qo_Qq5NSpMPDxaXJIU7oh49V9kcRlK3pOSg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دونالد ترامپ، رئیس‌جمهوری آمریکا، بامداد جمعه ۱۲ تیرماه در گفتگو با شبکه سی‌ان‌بی‌سی گفت جمهوری اسلامی از نظر نظامی «کاملا شکست خورده» و مذاکرات میان تهران و واشینگتن ادامه دارد. او افزود: «فکر می‌کنم آن‌ها تقریبا با همه چیزهایی که ما نیاز داریم موافقت کرده‌اند» و ابراز امیدواری کرد این مذاکرات به نتیجه برسد.
 ترامپ با مقایسه وضعیت کنونی با جنگ‌های گذشته آمریکا گفت برخلاف جنگ ویتنام، افغانستان و کره که سال‌ها ادامه داشتند، در چهار ماه نخست دولتش توانسته جمهوری اسلامی را از نظر نظامی شکست دهد. او گفت: «آن‌ها کاملا از نظر نظامی شکست خورده‌اند. هنوز چند موشک برایشان باقی مانده، اما اگر لازم باشد آن‌ها را هم از بین می‌بریم.»
 رئیس‌جمهوری آمریکا همچنین گفت هفته گذشته پس از آنکه جمهوری اسلامی یک پهپاد را به سمت یک کشتی فرستاد، نیروهای آمریکایی سه بار مواضع آن را هدف قرار دادند و هفته پیش از آن نیز دو شب پیاپی حملات مشابهی انجام دادند. او افزود این عملیات‌ها هم‌زمان با ادامه مذاکرات انجام شده است.
@@ -490,7 +490,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 415K · <a href="https://t.me/VahidOnline/76774" target="_blank">📅 02:01 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 416K · <a href="https://t.me/VahidOnline/76774" target="_blank">📅 02:01 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76773">
@@ -711,7 +711,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 358K · <a href="https://t.me/VahidOnline/76759" target="_blank">📅 00:46 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 359K · <a href="https://t.me/VahidOnline/76759" target="_blank">📅 00:46 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76758">
@@ -873,7 +873,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 366K · <a href="https://t.me/VahidOnline/76747" target="_blank">📅 21:13 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 367K · <a href="https://t.me/VahidOnline/76747" target="_blank">📅 21:13 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76746">
@@ -977,7 +977,7 @@ VahidHeadline
 سرگذشت کامل او را در یادبود امید بخوانید:
 https://www.iranrights.org/fa/memorial/story/-9117/mobin-yaqubzadeh
 @IranRights</div>
-<div class="tg-footer">👁️ 333K · <a href="https://t.me/VahidOnline/76736" target="_blank">📅 16:44 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 334K · <a href="https://t.me/VahidOnline/76736" target="_blank">📅 16:44 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76735">
@@ -1224,17 +1224,17 @@ VahidOOnLine
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 342K · <a href="https://t.me/VahidOnline/76718" target="_blank">📅 02:47 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 343K · <a href="https://t.me/VahidOnline/76718" target="_blank">📅 02:47 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76717">
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/d134b6727d.mp4?token=JlgtwsaJah5HilsCX7pyrfTfHIGhoEYOPI_KmcaieJ3KIECMm_CCYU-9HrAu4s60BvIm_b8a-gdWPrb3V6OwC8PWnhNetIbzYTLKH1D6c_9zLOtUvTOKh4uDVDl-75-PUJ0kZKwRMr6MZlQYZfk7Pbaf6Q8fFetXCa04QZSxeRUghijakt_f4RD6mxvuP65had1bwG96-TdwuVBtRXhARWVJt5VRZHUewQCMaAdoTbRPLtxbCGJf-eu1hFgAzyCkvcdp4gZ54yOe0A6BivGCT7qvjgVJ3jqXehnJH7XKE2-bQnUOfapM72w5hZyLVT6gzoHYV6a0n8iE3xQ0E7uTSg" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/d134b6727d.mp4?token=PY-U8helOwSlnTFbGYCuZjfeskf_K1atiIJEaiUxa9wAX4d2cl4rqrDfGz0EpYRsoYhc629eSVJ89X-BD9a4DBKkyLvEXjPxrXineWANBoJxmb2yIIvB_2LOS4vcbJohkGPaPCVI0uTAtGCjyi1O7VcC4U1yaYM2c64r7sQFwK99p1syGMA_AGgW7D9b-Cof545cxg-HO3up92xNuAWGgYfXoiYoO7bok52zeAKtSnyTtEby6Xo9UK1ECesKtDQBIn4iYxqcj4SSg-uALCROSjZIjSMTWb1wJumYymcBEk2SJp55C9X0Rp8vsuam4vLW8VXaTIMPtPPdgG9Fswpo4A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/d134b6727d.mp4?token=JlgtwsaJah5HilsCX7pyrfTfHIGhoEYOPI_KmcaieJ3KIECMm_CCYU-9HrAu4s60BvIm_b8a-gdWPrb3V6OwC8PWnhNetIbzYTLKH1D6c_9zLOtUvTOKh4uDVDl-75-PUJ0kZKwRMr6MZlQYZfk7Pbaf6Q8fFetXCa04QZSxeRUghijakt_f4RD6mxvuP65had1bwG96-TdwuVBtRXhARWVJt5VRZHUewQCMaAdoTbRPLtxbCGJf-eu1hFgAzyCkvcdp4gZ54yOe0A6BivGCT7qvjgVJ3jqXehnJH7XKE2-bQnUOfapM72w5hZyLVT6gzoHYV6a0n8iE3xQ0E7uTSg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/d134b6727d.mp4?token=PY-U8helOwSlnTFbGYCuZjfeskf_K1atiIJEaiUxa9wAX4d2cl4rqrDfGz0EpYRsoYhc629eSVJ89X-BD9a4DBKkyLvEXjPxrXineWANBoJxmb2yIIvB_2LOS4vcbJohkGPaPCVI0uTAtGCjyi1O7VcC4U1yaYM2c64r7sQFwK99p1syGMA_AGgW7D9b-Cof545cxg-HO3up92xNuAWGgYfXoiYoO7bok52zeAKtSnyTtEby6Xo9UK1ECesKtDQBIn4iYxqcj4SSg-uALCROSjZIjSMTWb1wJumYymcBEk2SJp55C9X0Rp8vsuam4vLW8VXaTIMPtPPdgG9Fswpo4A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">یارو در «رسانه ملی» جمهوری اسلامی داره میگه چون کشتی‌ها قصد عبور از مسیر «ناایمن» رو داشتند سپاه اون‌ها رو هدف قرار داده بوده!
 📡
@@ -1348,7 +1348,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 348K · <a href="https://t.me/VahidOnline/76712" target="_blank">📅 22:42 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 349K · <a href="https://t.me/VahidOnline/76712" target="_blank">📅 22:42 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76711">
@@ -1531,7 +1531,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 404K · <a href="https://t.me/VahidOnline/76704" target="_blank">📅 08:46 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 405K · <a href="https://t.me/VahidOnline/76704" target="_blank">📅 08:46 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76703">
