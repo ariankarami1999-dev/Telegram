@@ -286,12 +286,12 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/b88or4oms72UFXuQicGWZD1ViW16bSjuxQ2-ajwCZyzfeE-YxzhSwP4GQspPU-gKQC8t7CCThA6Dm_VTq8JLyn-F8PgxiW8l5PtefY6nxQlqNLjYqzzjFU_9160PGVURRRXHKUr9sg5yTiFLdavZgy0iWydAcorc2oA_Bz55l5tKx0VNUaiWlJgQlpjBzt_RHRhh8XBbOLYYRM0f14BUe4sv6h_NrJTCrFXu0fJbI-WH4Nnc3He47XAjHCU1WlvSL-zYoUqVCDimkwPYYeSLuJJLHj_Xv9HSCJbksX7ouL6WgwR0N2LK2F3IhizOrxnXxTuFwxeJeHkuv49PxqB2cQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/fPtOk-OHOmmhkyTAyxo99aRk0Dtn_Dhl42NHGy_FSBXs-ibrsKItE1EyLaRQHMTiPsqN_UoRbKmJTje-N2kL6JViBlAqvtbk5gvpn0WujcSuIytlUXcG0iUJAWHHoA94ozQkLp_NamiOqqfgwLEgtntkhRy5Jdt2ofu2qigduUVmlNodOAZCnus_ZRqipqRLj4I9Nj_7T4b-u98hAeMw0RhJwiLmaUVi4rKRhx9EP_NHNSjPENhNIijA0oAzTEe9JEsdCs1dqGlfsVj_83OQB5mgMDCHgxl02fUD4Ke0AzMJYBWhxGB-buJtbcg-wJcn7KEfInaBkxsPs4hH__8R1w.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 پروکسی</h1>
 <p>@IranProxyV2 • 👥 1.47K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-14 20:27:24</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-14 21:30:48</div>
 <hr>
 
 <div class="tg-post" id="msg-40">
