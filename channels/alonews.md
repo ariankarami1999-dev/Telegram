@@ -292,7 +292,7 @@
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directادمین کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-15 02:24:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-15 03:28:57</div>
 <hr>
 
 <div class="tg-post" id="msg-131981">
@@ -303,7 +303,7 @@
 ✅
 @AloNews
 خبر جنگ</div>
-<div class="tg-footer">👁️ 8.19K · <a href="https://t.me/alonews/131981" target="_blank">📅 02:09 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/alonews/131981" target="_blank">📅 02:09 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131980">
@@ -313,7 +313,7 @@
 رئیس‌جمهور ترامپ در Truth Social، نخست‌وزیر ایتالیا، جورجیا ملونی را تمسخر کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/alonews/131980" target="_blank">📅 01:58 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/alonews/131980" target="_blank">📅 01:58 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131979">
@@ -328,7 +328,7 @@
 ‼️
 ابرویی که بالا نرفت/ بچه‌غول حکم به حذف برزیل داد و نروژ را به یک‌چهارم فرستاد
 @AloSport</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/alonews/131979" target="_blank">📅 01:39 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/alonews/131979" target="_blank">📅 01:39 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131978">
@@ -337,7 +337,7 @@
 نتانیاهو: اسرائیل هرقدر لازم باشه تو لبنان می‌مونه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/alonews/131978" target="_blank">📅 00:59 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 38.4K · <a href="https://t.me/alonews/131978" target="_blank">📅 00:59 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131977">
@@ -353,7 +353,7 @@
 بی اعتنایی عجیب پزشکیان به مسعود و میثم خامنه‌ای
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/alonews/131977" target="_blank">📅 00:51 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/alonews/131977" target="_blank">📅 00:51 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131976">
@@ -362,7 +362,7 @@
 سه غایب بزرگ مراسم امروز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/alonews/131976" target="_blank">📅 00:48 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/alonews/131976" target="_blank">📅 00:48 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131973">
@@ -376,7 +376,7 @@
 سه غایب بزرگ مراسم امروز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/alonews/131973" target="_blank">📅 00:42 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/alonews/131973" target="_blank">📅 00:42 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131972">
@@ -395,7 +395,7 @@
 حسن خمینی هم همون اول گذاشت رفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 38.2K · <a href="https://t.me/alonews/131972" target="_blank">📅 00:35 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/alonews/131972" target="_blank">📅 00:35 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131971">
@@ -413,7 +413,7 @@
 هنگام ورود هیئت عربستانی و ادای احترام، آیه مخصوص منافقین خوانده شد و به عربستان متلک انداخته شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/alonews/131971" target="_blank">📅 00:34 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/alonews/131971" target="_blank">📅 00:34 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131970">
@@ -423,7 +423,7 @@
 توی زرنج شهر افغانستان، یه کودک 8 ساله در حوزه علمیه مورد تجاوز گروهی معلمان دینی خودش قرار میگیره و متاسفانه جون خودشو از دست میده.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/alonews/131970" target="_blank">📅 00:21 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.1K · <a href="https://t.me/alonews/131970" target="_blank">📅 00:21 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131969">
@@ -437,7 +437,7 @@
 ⚠️
 مشاهده فوری و بدون سانسور
 ⚠️</div>
-<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/alonews/131969" target="_blank">📅 00:15 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.5K · <a href="https://t.me/alonews/131969" target="_blank">📅 00:15 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131968">
@@ -449,7 +449,7 @@
 منابع نظارتی نشان می‌دهند که تاکنون تا ۳۱۰ پهپاد پرتاب شده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.6K · <a href="https://t.me/alonews/131968" target="_blank">📅 00:09 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46.5K · <a href="https://t.me/alonews/131968" target="_blank">📅 00:09 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131967">
@@ -467,7 +467,7 @@
 این شبی شگفت‌انگیز بود که حتی باورنکردنی‌تر شد با این واقعیت که بلافاصله پس از پایان آتش‌بازی بزرگ، باران‌ها با تمام شدت شروع به باریدن کردند!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/alonews/131967" target="_blank">📅 23:52 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.7K · <a href="https://t.me/alonews/131967" target="_blank">📅 23:52 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131966">
@@ -476,7 +476,7 @@
 استان خوزستان سه‌شنبه تعطیل شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.2K · <a href="https://t.me/alonews/131966" target="_blank">📅 23:50 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/alonews/131966" target="_blank">📅 23:50 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131965">
@@ -492,7 +492,7 @@
 خبرنگار صداوسیما به خبرنگار نشریه تایمز: برو به مردم دنیا واقعیت ایران رو بگو
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/alonews/131965" target="_blank">📅 23:36 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.6K · <a href="https://t.me/alonews/131965" target="_blank">📅 23:36 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131964">
@@ -502,7 +502,7 @@
 آسوشیتدپرس: یک مجری (محمد رسولی) در مراسم تشییع رهبری ایران در برابر جمعیتی متشکل از صدها هزار نفر، خواستار کشتن ترامپ شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.2K · <a href="https://t.me/alonews/131964" target="_blank">📅 23:31 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/alonews/131964" target="_blank">📅 23:31 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131963">
@@ -511,7 +511,7 @@
 صابرین نیوز: محمود احمدی‌نژاد، حسن روحانی، محمد خاتمی، محمدجواد ظریف و اسحاق جهانگیری در مراسم وداع رهبر  شرکت نکردند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.6K · <a href="https://t.me/alonews/131963" target="_blank">📅 23:25 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.5K · <a href="https://t.me/alonews/131963" target="_blank">📅 23:25 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131962">
@@ -520,7 +520,7 @@
 زلنسکی: طبق اطلاعات به دست آمده، روسیه در حال آماده‌سازی یک حمله گسترده دیگر است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/alonews/131962" target="_blank">📅 23:21 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/alonews/131962" target="_blank">📅 23:21 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131961">
@@ -533,7 +533,7 @@
 رویترز به ذخایر ۲ تریلیون دلاری سازمان سرمایه‌گذاری ابوظبی و صندوق سرمایه‌گذاری عمومی عربستان سعودی به عنوان گزینه‌های محتمل تامین مالی صندوق بازسازی ایران اشاره کرده، اما می‌گوید با توجه به حملات گسترده جمهوری اسلامی به این کشورها طی ماه‌های گذشته بعید است آنها صرفاً به درخواست واشینگتن هزینه احیای اقتصاد جمهوری اسلامی را بپردازند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.5K · <a href="https://t.me/alonews/131961" target="_blank">📅 23:16 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 51.3K · <a href="https://t.me/alonews/131961" target="_blank">📅 23:16 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131960">
@@ -548,7 +548,7 @@
 اتخاذ تدابیر سخت‌گیرانه‌تر برای محدود کردن اقدامات خشونت‌آمیز و پاسخگو کردن مسئولان آن.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.6K · <a href="https://t.me/alonews/131960" target="_blank">📅 23:08 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/alonews/131960" target="_blank">📅 23:08 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131959">
@@ -564,7 +564,7 @@
 صف‌های چندین کیلومتری بنزین در روسیه در پی حملات اوکراین به زیرساخت های نفتی این کشور
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.2K · <a href="https://t.me/alonews/131959" target="_blank">📅 22:54 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.4K · <a href="https://t.me/alonews/131959" target="_blank">📅 22:54 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131958">
@@ -574,7 +574,7 @@
 تابلوهای جدید بزرگراه I-95 در جنوب فلوریدا اکنون مسافران را به سمت فرودگاه بین‌المللی رئیس‌جمهور دونالد جی. ترامپ هدایت می‌کنند، حتی پیش از تغییر نام رسمی فرودگاه بین‌المللی پالم بیچ که برای 9 ژوئیه برنامه‌ریزی شده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/alonews/131958" target="_blank">📅 22:47 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.8K · <a href="https://t.me/alonews/131958" target="_blank">📅 22:47 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131957">
@@ -589,7 +589,7 @@
 ⚠️
 مشاهده فوری و بدون سانسور
 ⚠️</div>
-<div class="tg-footer">👁️ 50.7K · <a href="https://t.me/alonews/131957" target="_blank">📅 22:41 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/131957" target="_blank">📅 22:41 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131956">
@@ -598,7 +598,7 @@
 شمار قربانیان دو زلزله مرگبار هفته گذشته در ونزوئلا، بر اساس آمار رسمی منتشرشده در روز شنبه، به حدود 3 هزار کشته رسید. هم‌زمان، با کاهش امیدها برای یافتن بازماندگان، تیم‌های بین‌المللی امداد و نجات عملیات جست‌وجو در زیر آوار را محدود کرده‌اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.2K · <a href="https://t.me/alonews/131956" target="_blank">📅 22:38 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 52.5K · <a href="https://t.me/alonews/131956" target="_blank">📅 22:38 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131955">
@@ -610,7 +610,7 @@
 جمهوری‌خواهان، هوشمند شوید، اگر این کار را نکنید، مدت زیادی در قدرت نخواهید بود!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/alonews/131955" target="_blank">📅 22:24 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.9K · <a href="https://t.me/alonews/131955" target="_blank">📅 22:24 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131954">
@@ -619,7 +619,7 @@
 سی‌ان‌ان: ایالات متحده انتظار دارد رهبران ناتو در اجلاس خود درباره امنیت تنگه هرمز گفت‌وگو کنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.4K · <a href="https://t.me/alonews/131954" target="_blank">📅 22:16 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.9K · <a href="https://t.me/alonews/131954" target="_blank">📅 22:16 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131953">
@@ -628,7 +628,7 @@
 بر اساس گزارش ها ،در درگیری های اخیر یمن حدود 50 عضو از حوثی ها کشته شده اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52K · <a href="https://t.me/alonews/131953" target="_blank">📅 22:14 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/alonews/131953" target="_blank">📅 22:14 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131952">
@@ -644,7 +644,7 @@
 یه پهپاد اوکراینی یه سرباز روس ـ افریقایی رو تو یه مزرعه تو شرق اوکراین بدون شلوار حین دسشویی کردن گیر اورده و افتاده دنبالش
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54.8K · <a href="https://t.me/alonews/131952" target="_blank">📅 22:10 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57K · <a href="https://t.me/alonews/131952" target="_blank">📅 22:10 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131951">
@@ -655,7 +655,7 @@
 با توجه به تعطیلی رسمی فردا، سامانه‌های ساتنا و چکاوک روز دوشنبه ۱۵ تیر در دسترس نخواهند بود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52K · <a href="https://t.me/alonews/131951" target="_blank">📅 22:10 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/alonews/131951" target="_blank">📅 22:10 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131950">
@@ -664,7 +664,7 @@
 دلار در تهران به 177هزار تومان رسید!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/131950" target="_blank">📅 21:54 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 58.7K · <a href="https://t.me/alonews/131950" target="_blank">📅 21:54 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131949">
@@ -675,7 +675,7 @@
 برید تو بازی ماینکرفت، انتقامِ رهبر شهیدمون رو از آمریکا و اسرائیلِ جنایتکار بگيريد و فیلمش رو واسمون بفرستيد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/alonews/131949" target="_blank">📅 21:47 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/131949" target="_blank">📅 21:47 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131948">
@@ -688,7 +688,7 @@
 کسانی که از اسرائیل نفرت دارند، در نهایت به آمریکا هم نفرت پیدا می‌کنند؛ وقتی تظاهرات می‌کنند، پرچم اسرائیل را آتش می‌زنند و خیلی وقت‌ها درست کنار آن، پرچم آمریکا را هم آتش می‌زنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54.4K · <a href="https://t.me/alonews/131948" target="_blank">📅 21:45 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/131948" target="_blank">📅 21:45 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131947">
@@ -697,7 +697,7 @@
 ترامپ: از فیفا به خاطر انجام کار درست و لغو یک بی‌عدالتی بزرگ متشکرم!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.9K · <a href="https://t.me/alonews/131947" target="_blank">📅 21:26 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.4K · <a href="https://t.me/alonews/131947" target="_blank">📅 21:26 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131946">
@@ -710,7 +710,7 @@
 همزمان، از سوی اسرائیل نام شماری از افسران لبنانی که با حزب‌الله همکاری می‌کنند، منتقل شده است.»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/alonews/131946" target="_blank">📅 21:26 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/131946" target="_blank">📅 21:26 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131945">
@@ -719,7 +719,7 @@
 الحدث: نتانیاهو در دیدار خود با ترامپ، تلاش خواهد کرد تا بر "توافق" بین واشنگتن و تهران تأثیر بگذارد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.8K · <a href="https://t.me/alonews/131945" target="_blank">📅 21:18 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 58.3K · <a href="https://t.me/alonews/131945" target="_blank">📅 21:18 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131944">
@@ -729,7 +729,7 @@
 ترامپ: از فیفا به خاطر انجام کار درست و لغو یک بی‌عدالتی بزرگ متشکرم!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.9K · <a href="https://t.me/alonews/131944" target="_blank">📅 20:52 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/alonews/131944" target="_blank">📅 20:52 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131943">
@@ -738,7 +738,7 @@
 کاخ سفید : ترامپ قراره تو اجلاس ناتو با جولانی دیدار کنه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/alonews/131943" target="_blank">📅 20:48 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/alonews/131943" target="_blank">📅 20:48 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131942">
@@ -754,7 +754,7 @@
 آزمایش موشک‌های ناوچه "جیانگ جیان" کره شمالی، دیروز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.6K · <a href="https://t.me/alonews/131942" target="_blank">📅 20:38 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/alonews/131942" target="_blank">📅 20:38 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131941">
@@ -763,7 +763,7 @@
 به گزارش فارن‌پالیسی، تهاجم اوکراین در کریمه به‌طور جدی توان روسیه برای اجرای عملیات نظامی در جبهه‌های جنوبی را تحت فشار قرار داده و می‌تواند دامنه محدودیت‌های عملیاتی مسکو در این منطقه را افزایش دهد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.4K · <a href="https://t.me/alonews/131941" target="_blank">📅 20:18 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/alonews/131941" target="_blank">📅 20:18 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131940">
@@ -772,7 +772,7 @@
 نتانیاهو:برخی از شهرک های مسیحی در جنوب لبنان، درخواست الحاق دائمی به خاک اسرائیل را دادند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.7K · <a href="https://t.me/alonews/131940" target="_blank">📅 20:09 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/alonews/131940" target="_blank">📅 20:09 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131939">
@@ -786,7 +786,7 @@
 چون حتی احمد وحیدی فرمانده سپاه هم توی مراسم حضور داشت ولی خبری از ابراهیم ذوالفقاری نبود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/alonews/131939" target="_blank">📅 20:01 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/alonews/131939" target="_blank">📅 20:01 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131938">
@@ -797,7 +797,7 @@
 با آمادگی برای شهادت مذاکره می‌کنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/131938" target="_blank">📅 20:00 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.4K · <a href="https://t.me/alonews/131938" target="_blank">📅 20:00 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131937">
@@ -808,7 +808,7 @@
 نیروهای ما در لبنان باقی خواهند ماند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.8K · <a href="https://t.me/alonews/131937" target="_blank">📅 19:47 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/131937" target="_blank">📅 19:47 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131936">
@@ -817,7 +817,7 @@
 به گزارش اکونومیست، ترکیه و اسرائیل ممکن است پس از کنار رفتن بنیامین نتانیاهو و رجب طیب اردوغان از قدرت، زمینه‌ای برای کاهش تنش‌ها پیدا کنند؛ اما نگرانی‌های موجود در روابط دو طرف فراتر از رهبران فعلی ارزیابی می‌شود.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/131936" target="_blank">📅 19:37 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.4K · <a href="https://t.me/alonews/131936" target="_blank">📅 19:37 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131935">
@@ -826,7 +826,7 @@
 یک منبع نظامی به فارس گفته خروج حداقل ۱۱ فروند هواپیمای سوخت‌رسان آمریکا از منطقه تأیید شده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/131935" target="_blank">📅 19:28 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/131935" target="_blank">📅 19:28 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131934">
@@ -842,7 +842,7 @@
 عزیزی، رئیس کمسیون امنیت ملی و سیاست خارجی مجلس: دنیا باید بداند که ما انتقام رهبر شهید و فرماندهان و مردم شهیدمان را می گیریم؛ پیام مراسم مصلی تهران، پیام انتقام است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.9K · <a href="https://t.me/alonews/131934" target="_blank">📅 19:23 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63K · <a href="https://t.me/alonews/131934" target="_blank">📅 19:23 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131933">
@@ -861,7 +861,7 @@
 افرادی که از اسرائیل متنفرند، در نهایت از آمریکا نیز متنفر می‌شوند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.3K · <a href="https://t.me/alonews/131933" target="_blank">📅 19:19 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.5K · <a href="https://t.me/alonews/131933" target="_blank">📅 19:19 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131932">
@@ -872,7 +872,7 @@
 نیروی دریایی ایالات متحده اعلام کرد که یکی از نیروهایش کشته شده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62K · <a href="https://t.me/alonews/131932" target="_blank">📅 18:23 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/alonews/131932" target="_blank">📅 18:23 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131931">
@@ -883,7 +883,7 @@
 پیاده‌سازی تفاهم با آمریکا سخت، اما شدنی است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64K · <a href="https://t.me/alonews/131931" target="_blank">📅 18:15 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/131931" target="_blank">📅 18:15 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131930">
@@ -899,7 +899,7 @@
 حمزه صفوی: یکی از گرون‌ترین سیستم‌های حفاظت در بین رهبران جهان مربوط به علی خامنه‌ای بود، اما نتونستیم اونو حفاظت و پنهان کنیم و از دستش دادیم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/131930" target="_blank">📅 17:58 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.6K · <a href="https://t.me/alonews/131930" target="_blank">📅 17:58 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131929">
@@ -909,7 +909,7 @@
 تصویری پربازدید از نیروهای امنیتی مراسم امروز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/131929" target="_blank">📅 17:52 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.6K · <a href="https://t.me/alonews/131929" target="_blank">📅 17:52 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131928">
@@ -918,7 +918,7 @@
 کارشناس صداوسیما: آمریکا رو به افول است و کارش تا ۲۰۳۰ تمام است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/alonews/131928" target="_blank">📅 17:47 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.8K · <a href="https://t.me/alonews/131928" target="_blank">📅 17:47 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131927">
@@ -932,7 +932,7 @@
 ⚠️
 مشاهده فوری و بدون سانسور
 ⚠️</div>
-<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/alonews/131927" target="_blank">📅 17:42 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.5K · <a href="https://t.me/alonews/131927" target="_blank">📅 17:42 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131925">
@@ -941,7 +941,7 @@
 شورای هماهنگی تبلیغات اسلامی: مراسم تشییع رهبر شهید روز دوشنبه، ۱۵ تیر، رأس ساعت ۶:۰۰ آغاز می‌شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/131925" target="_blank">📅 17:35 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/alonews/131925" target="_blank">📅 17:35 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131924">
@@ -951,7 +951,7 @@
 رسایی: اینترنت رو قطع کنید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/alonews/131924" target="_blank">📅 17:33 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/131924" target="_blank">📅 17:33 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131923">
@@ -967,7 +967,7 @@
 زینب سلیمانی: شهادت آقا برای ما سنگین‌تر از شهادت حاج قاسم بود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.4K · <a href="https://t.me/alonews/131923" target="_blank">📅 17:31 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/alonews/131923" target="_blank">📅 17:31 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131922">
@@ -977,7 +977,7 @@
 ⬇️
 https://t.me/ads_alonews
 https://t.me/ads_alonews</div>
-<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/alonews/131922" target="_blank">📅 17:25 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/alonews/131922" target="_blank">📅 17:25 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131921">
@@ -987,7 +987,7 @@ https://t.me/ads_alonews</div>
 تصویری از حضور سردار وحیدی در مصلای تهران
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.4K · <a href="https://t.me/alonews/131921" target="_blank">📅 17:22 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/alonews/131921" target="_blank">📅 17:22 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131920">
@@ -1007,7 +1007,7 @@ https://t.me/ads_alonews</div>
 ویدیوهای متعددی نیز وجود دارد که وحید خزایی به آیت الله خامنه‌ای فحاشی میکرده اما اکنون ژست دیگری گرفته
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.7K · <a href="https://t.me/alonews/131920" target="_blank">📅 17:12 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/131920" target="_blank">📅 17:12 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131919">
@@ -1017,7 +1017,7 @@ https://t.me/ads_alonews</div>
 تصویر برگزیده رویترز از زمین لرزه ونزوئلا
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.7K · <a href="https://t.me/alonews/131919" target="_blank">📅 17:07 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/alonews/131919" target="_blank">📅 17:07 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131918">
@@ -1026,7 +1026,7 @@ https://t.me/ads_alonews</div>
 ترامپ : ما بهترین بازار سهام رو داریم، واقعاً عالیه!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.7K · <a href="https://t.me/alonews/131918" target="_blank">📅 17:01 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/alonews/131918" target="_blank">📅 17:01 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131917">
@@ -1035,7 +1035,7 @@ https://t.me/ads_alonews</div>
 فارس: کارت ورود به جلسه امتحانات نهایی، تا پایان این هفته منتشر می‌شود. امتحانات نهایی قرار بود از ۲۰ تیر آغاز شود که با یک روز تاخیر از ۲۱ تیر آغاز می‌شود و کارت ورود به جلسه این آزمون هم تا پایان این هفته منتشر می‌شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.7K · <a href="https://t.me/alonews/131917" target="_blank">📅 16:52 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/alonews/131917" target="_blank">📅 16:52 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131916">
@@ -1044,7 +1044,7 @@ https://t.me/ads_alonews</div>
 یائیر لاپید، رهبر اپوزیسیون اسرائیل:  اسرائیل باید زیرساخت‌های ایران را بمباران کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.6K · <a href="https://t.me/alonews/131916" target="_blank">📅 16:46 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/131916" target="_blank">📅 16:46 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131915">
@@ -1055,7 +1055,7 @@ https://t.me/ads_alonews</div>
 رایزن بازرگانی جمهوری اسلامی ایران در دوحه از بازگشایی مجدد بندر الرویس قطر به روی کالاهای ایرانی و ازسرگیری تجارت دریایی میان دو کشور خبر داد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.7K · <a href="https://t.me/alonews/131915" target="_blank">📅 16:42 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.7K · <a href="https://t.me/alonews/131915" target="_blank">📅 16:42 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131914">
@@ -1064,7 +1064,7 @@ https://t.me/ads_alonews</div>
 فرودگاه بین‌المللی بندرعباس عصر امروز با فرود نخستین پرواز مسافری از مبدأ مشهد، پس از چهار ماه وقفه، رسماً فعالیت دوباره خود را آغاز کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.4K · <a href="https://t.me/alonews/131914" target="_blank">📅 16:32 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/alonews/131914" target="_blank">📅 16:32 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131913">
@@ -1073,7 +1073,7 @@ https://t.me/ads_alonews</div>
 بنیامین نتانیاهو: بازسازی غزه بدون خلع سلاح و غیرنظامی‌سازی در مناطق تعیین‌شده،امکان‌پذیر نخواهد بود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61K · <a href="https://t.me/alonews/131913" target="_blank">📅 16:23 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.9K · <a href="https://t.me/alonews/131913" target="_blank">📅 16:23 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131912">
@@ -1086,7 +1086,7 @@ https://t.me/ads_alonews</div>
 ما حفظ منطقه امنیتی را از دستاورد بزرگ خود علیه لبنان می‌دانیم، اما آنها سعی خواهند کرد از هر طریقی، از جمله اعمال فشار بر دولت لبنان، آن را تضعیف کنند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/alonews/131912" target="_blank">📅 16:13 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/alonews/131912" target="_blank">📅 16:13 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131910">
@@ -1102,7 +1102,7 @@ https://t.me/ads_alonews</div>
 ترامپ  در حال تماشای خودش در فاکس نیوز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.9K · <a href="https://t.me/alonews/131910" target="_blank">📅 16:09 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/alonews/131910" target="_blank">📅 16:09 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131909">
@@ -1113,7 +1113,7 @@ https://t.me/ads_alonews</div>
 به افرادی نیاز دارید که بلد باشند همه ۸۸ کلید پیانوی دولت را بنوازند؛ کوشنر، ویتکاف و ونس؛ این‌ها سرشان شلوغ است و مشغول کار‌های دیگری هستند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.6K · <a href="https://t.me/alonews/131909" target="_blank">📅 16:04 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.4K · <a href="https://t.me/alonews/131909" target="_blank">📅 16:04 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131908">
@@ -1129,7 +1129,7 @@ https://t.me/ads_alonews</div>
 نیروهای اسرائیلی به تخریب منازل در شهر بنت جبیل، در جنوب لبنان، ادامه می‌دهند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58K · <a href="https://t.me/alonews/131908" target="_blank">📅 15:59 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 58.8K · <a href="https://t.me/alonews/131908" target="_blank">📅 15:59 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131907">
@@ -1139,7 +1139,7 @@ https://t.me/ads_alonews</div>
 یک کشتی در سواحل یمن مورد حمله قرار گرفته
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.7K · <a href="https://t.me/alonews/131907" target="_blank">📅 15:55 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/alonews/131907" target="_blank">📅 15:55 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131906">
@@ -1148,7 +1148,7 @@ https://t.me/ads_alonews</div>
 قطر، تعلیق موقت فعالیت‌های دریایی را لغو کرده است، که در نتیجه، تمامی فعالیت‌های کشتیرانی و عملیات دریایی فوراً از سر گرفته شده‌اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54.2K · <a href="https://t.me/alonews/131906" target="_blank">📅 15:51 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 55K · <a href="https://t.me/alonews/131906" target="_blank">📅 15:51 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131905">
@@ -1157,7 +1157,7 @@ https://t.me/ads_alonews</div>
 ریاست‌جمهوری سوریه: امانوئل مکرون به‌زودی به دمشق سفر خواهد کرد و یک هیئت از سرمایه‌گذاران فرانسوی در این سفر، مکرون را همراهی خواهند کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/131905" target="_blank">📅 15:39 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57.8K · <a href="https://t.me/alonews/131905" target="_blank">📅 15:39 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131904">
@@ -1167,7 +1167,7 @@ https://t.me/ads_alonews</div>
 پست ترامپ در تروث: از زمان آغاز جنگ در ایران، بیش از 273 آمریکایی در شیکاگو هدف گلوله قرار گرفته‌اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59K · <a href="https://t.me/alonews/131904" target="_blank">📅 15:35 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/alonews/131904" target="_blank">📅 15:35 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131903">
@@ -1178,7 +1178,7 @@ https://t.me/ads_alonews</div>
 ترامپ از ما نخواسته است که علیه تونل‌های حزب‌الله اقدامی نکنیم و برای باقی ماندن در امتداد «خط زرد» در جنوب لبنان، مشروعیت لازم را به دست آورده‌ایم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.8K · <a href="https://t.me/alonews/131903" target="_blank">📅 15:31 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/alonews/131903" target="_blank">📅 15:31 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131902">
@@ -1189,7 +1189,7 @@ https://t.me/ads_alonews</div>
 رحمانی فضلی گفت ایران همراه با عمان در حال تدوین سازوکارهای جدید برای تردد در تنگه هرمز است. او تأکید کرد مبالغ دریافتی «عوارض عبور» نخواهد بود، بلکه هزینه خدماتی مانند تأمین امنیت مسیر، نظارت بر عبور کشتی‌ها و رسیدگی به پیامدهای زیست‌محیطی تردد دریایی است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.3K · <a href="https://t.me/alonews/131902" target="_blank">📅 15:28 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/131902" target="_blank">📅 15:28 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131901">
@@ -1198,7 +1198,7 @@ https://t.me/ads_alonews</div>
 فارس: قایق‌های سپاه 6 کشتی رو از تنگه هرمز خارج کردن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.6K · <a href="https://t.me/alonews/131901" target="_blank">📅 15:18 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.3K · <a href="https://t.me/alonews/131901" target="_blank">📅 15:18 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131900">
@@ -1217,7 +1217,7 @@ https://t.me/ads_alonews</div>
 در روزهای ۱۷ و ۱۸ تیرماه نیز پروازها در سراسر کشور به جز مشهد بدون محدودیت ادامه خواهد داشت.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61K · <a href="https://t.me/alonews/131900" target="_blank">📅 15:11 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.6K · <a href="https://t.me/alonews/131900" target="_blank">📅 15:11 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131899">
@@ -1226,7 +1226,7 @@ https://t.me/ads_alonews</div>
 روزنامه عبری معاریو در گزارشی مدعی شد که دونالد ترامپ، رئیس جمهور آمریکا، برای برگزاری یک دیدار سه جانبه در کاخ سفید با حضور بنیامین نتانیاهو، نخست وزیر اسرائیل و جوزف عون، رئیس جمهور لبنان، تلاش خواهد کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/alonews/131899" target="_blank">📅 15:05 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/131899" target="_blank">📅 15:05 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131898">
@@ -1242,7 +1242,7 @@ https://t.me/ads_alonews</div>
 حضور ایمان تاجیک، سخنگوی جنگ ۱۲ روزه، تو مصلای تهران
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.5K · <a href="https://t.me/alonews/131898" target="_blank">📅 15:01 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/131898" target="_blank">📅 15:01 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131897">
@@ -1251,7 +1251,7 @@ https://t.me/ads_alonews</div>
 بنیامین نتانیاهو، نخست‌وزیر اسرائیل: حزب‌الله از توافق ایران حمایت می‌کند و توافق ما را مورد حمله قرار می‌دهد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58K · <a href="https://t.me/alonews/131897" target="_blank">📅 14:55 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 58.6K · <a href="https://t.me/alonews/131897" target="_blank">📅 14:55 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131896">
@@ -1260,7 +1260,7 @@ https://t.me/ads_alonews</div>
 سفیر ایران در چین: کشتی هایی که از تنگه میگذرن باید هزینه ناوبری بدن ولی برای کشتی های چینی تخفیف و ملاحظات خوبی در نظر گرفتیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.8K · <a href="https://t.me/alonews/131896" target="_blank">📅 14:51 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/alonews/131896" target="_blank">📅 14:51 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131895">
@@ -1272,7 +1272,7 @@ https://t.me/ads_alonews</div>
 خواهیم دید چه می‌شود...
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.1K · <a href="https://t.me/alonews/131895" target="_blank">📅 14:41 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.8K · <a href="https://t.me/alonews/131895" target="_blank">📅 14:41 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131894">
@@ -1285,7 +1285,7 @@ https://t.me/ads_alonews</div>
 منم چنین درخواستی ازش نکردم و ما تصمیم‌هامون رو بر اساس ملاحظات خودمون می‌گیریم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.9K · <a href="https://t.me/alonews/131894" target="_blank">📅 14:37 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 61.5K · <a href="https://t.me/alonews/131894" target="_blank">📅 14:37 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131893">
@@ -1294,7 +1294,7 @@ https://t.me/ads_alonews</div>
 محمد مخبر: قاتلین امام به مرگ طبیعی نخواهند مُرد و نظام انتقام خواهد گرفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.8K · <a href="https://t.me/alonews/131893" target="_blank">📅 14:32 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/alonews/131893" target="_blank">📅 14:32 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131892">
@@ -1310,7 +1310,7 @@ https://t.me/ads_alonews</div>
 حملات توپخانه ای اسرائیل به جنوب لبنان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.8K · <a href="https://t.me/alonews/131892" target="_blank">📅 14:15 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.4K · <a href="https://t.me/alonews/131892" target="_blank">📅 14:15 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131890">
@@ -1321,7 +1321,7 @@ https://t.me/ads_alonews</div>
 ایران به جای داشتن یک سلاح هسته‌ای واقعی، متوجه شده است که سلاح دیگری دارد که از سلاح هسته‌ای ضعیف‌تر نیست، یعنی تنگه هرمز، که وضعیت بین‌المللی پیچیده‌ای دارد. ایران نه تنها این سلاح‌های هسته‌ای را حفظ می‌کند، بلکه یک سلاح هسته‌ای حرارتی نیز دارد که همان تنگه باب المندب است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/alonews/131890" target="_blank">📅 14:05 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/alonews/131890" target="_blank">📅 14:05 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131889">
@@ -1332,7 +1332,7 @@ https://t.me/ads_alonews</div>
 این چند روز چشم‌تان را به ایران بدوزید؛ این همان ایرانی است که خیال می‌کردید چند روزه می‌توانید آن‌ را از پا درآورید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.1K · <a href="https://t.me/alonews/131889" target="_blank">📅 14:03 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.7K · <a href="https://t.me/alonews/131889" target="_blank">📅 14:03 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131888">
@@ -1341,7 +1341,7 @@ https://t.me/ads_alonews</div>
 خودروسازان چینی با رشد سریع صادرات و استقبال بازار اروپا، برای نخستین‌بار از نظر حجم فروش از رقبای ژاپنی عبور کردند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/alonews/131888" target="_blank">📅 13:47 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/alonews/131888" target="_blank">📅 13:47 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131887">
@@ -1350,7 +1350,7 @@ https://t.me/ads_alonews</div>
 شرکت بهره‌برداری متروی تهران: از بامداد تا ساعت ۹ صبح امروز، یک میلیون و ۳۰۸ هزار و ۴۴۵ مسافر، بیش از ۳ میلیون سفر در متروی تهران داشته‌اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/131887" target="_blank">📅 13:40 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.8K · <a href="https://t.me/alonews/131887" target="_blank">📅 13:40 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131886">
@@ -1360,7 +1360,7 @@ https://t.me/ads_alonews</div>
 ‎
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/131886" target="_blank">📅 13:34 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.8K · <a href="https://t.me/alonews/131886" target="_blank">📅 13:34 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131885">
@@ -1371,7 +1371,7 @@ https://t.me/ads_alonews</div>
 در پی بروز جنگ آمریکا و اسرائیل علیه ایران، وزارت خارجه ژاپن سطح هشدار سفر اتباع خود به ایران و 3 کشور منطقه را به درجه 4 (تخلیه فوری) افزایش داده بود.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.5K · <a href="https://t.me/alonews/131885" target="_blank">📅 13:30 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65K · <a href="https://t.me/alonews/131885" target="_blank">📅 13:30 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131884">
@@ -1383,7 +1383,7 @@ https://t.me/ads_alonews</div>
 با گذشت یک ماه از قطعیش، هنوز شدیداً مختلهِ - Nut blocks
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/131884" target="_blank">📅 13:26 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/alonews/131884" target="_blank">📅 13:26 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131883">
@@ -1392,7 +1392,7 @@ https://t.me/ads_alonews</div>
 تلگرام از مرز یک میلیارد کاربر فعال ماهانه عبور کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/alonews/131883" target="_blank">📅 13:21 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/alonews/131883" target="_blank">📅 13:21 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131882">
@@ -1402,7 +1402,7 @@ https://t.me/ads_alonews</div>
 من علاقه‌ای به اسرائیل ندارم، اما راه حل دیگری را به من پیشنهاد دهید که ما را از این جنگ‌ها بیرون ببرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.7K · <a href="https://t.me/alonews/131882" target="_blank">📅 13:08 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.1K · <a href="https://t.me/alonews/131882" target="_blank">📅 13:08 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131881">
@@ -1411,7 +1411,7 @@ https://t.me/ads_alonews</div>
 العربیه: ترکیب و سطح هیئت اعزامی‌ایران هنوز نهایی نشده و پس از پایان مراسم تشییع، تعیین خواهد شد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.1K · <a href="https://t.me/alonews/131881" target="_blank">📅 12:59 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.6K · <a href="https://t.me/alonews/131881" target="_blank">📅 12:59 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131880">
@@ -1421,7 +1421,7 @@ https://t.me/ads_alonews</div>
 آمریکایی ها مجددا یک گروه از نفتکش ها را ردیف کرده و در حال اسکورت آنها به سمت تنگه هرمز هستند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/alonews/131880" target="_blank">📅 12:51 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 66.6K · <a href="https://t.me/alonews/131880" target="_blank">📅 12:51 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131879">
@@ -1434,7 +1434,7 @@ https://t.me/ads_alonews</div>
 وی همچنین ادعا کرد: اماراتی‌ها از ما کمک می‌گیرند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/alonews/131879" target="_blank">📅 12:46 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.1K · <a href="https://t.me/alonews/131879" target="_blank">📅 12:46 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131878">
@@ -1443,7 +1443,7 @@ https://t.me/ads_alonews</div>
 ترامپ: نتانیاهو احتمالاً هفته آینده به کاخ سفید می‌آید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/alonews/131878" target="_blank">📅 12:44 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.6K · <a href="https://t.me/alonews/131878" target="_blank">📅 12:44 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-131877">
@@ -1452,7 +1452,7 @@ https://t.me/ads_alonews</div>
 سازمان دریایی بریتانیا: یک کشتی باری در سواحل الحدیده یمن از سوی افراد مسلح ناشناس مورد حمله قرار گرفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.5K · <a href="https://t.me/alonews/131877" target="_blank">📅 12:40 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64K · <a href="https://t.me/alonews/131877" target="_blank">📅 12:40 · 14 Tir 1405</a></div>
 </div>
 
 <hr>

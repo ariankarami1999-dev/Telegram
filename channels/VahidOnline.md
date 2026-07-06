@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن. اینجا بعضی ازچیزهایی که می‌خواستم ببینم رو همونجوری که می‌خواستم بهم نشون داده بشه می‌گذارم.استوار بر حمایت‌های مردمی:ماهانهvhdo.nl/patreonیک‌بارهvhdo.nl/paypal</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-15 02:24:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-15 03:28:57</div>
 <hr>
 
 <div class="tg-post" id="msg-76790">
@@ -304,7 +304,7 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 222K · <a href="https://t.me/VahidOnline/76790" target="_blank">📅 19:31 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 229K · <a href="https://t.me/VahidOnline/76790" target="_blank">📅 19:31 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76788">
@@ -326,7 +326,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 346K · <a href="https://t.me/VahidOnline/76788" target="_blank">📅 09:37 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 350K · <a href="https://t.me/VahidOnline/76788" target="_blank">📅 09:37 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76787">
@@ -340,13 +340,13 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 380K · <a href="https://t.me/VahidOnline/76787" target="_blank">📅 23:04 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 382K · <a href="https://t.me/VahidOnline/76787" target="_blank">📅 23:04 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76786">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">این مجله ۹ ماه قبل از سرنگونی حکومت صدام‌حسین در عراق و سپس اعدام او نیز عکس صدام حسین را روی جلد برده بود. معمر قذافی نیز از دیگر رهبران منطقه بود که ۶ ماه قبل از کشته شدن به دست معترضان، عکس او روی جلد تایم رفت.</div>
-<div class="tg-footer">👁️ 373K · <a href="https://t.me/VahidOnline/76786" target="_blank">📅 19:56 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 374K · <a href="https://t.me/VahidOnline/76786" target="_blank">📅 19:56 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76784">
@@ -366,7 +366,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 367K · <a href="https://t.me/VahidOnline/76784" target="_blank">📅 17:45 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 368K · <a href="https://t.me/VahidOnline/76784" target="_blank">📅 17:45 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76783">
@@ -378,7 +378,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 345K · <a href="https://t.me/VahidOnline/76783" target="_blank">📅 17:27 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 346K · <a href="https://t.me/VahidOnline/76783" target="_blank">📅 17:27 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76782">
@@ -392,12 +392,12 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 340K · <a href="https://t.me/VahidOnline/76782" target="_blank">📅 17:21 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 341K · <a href="https://t.me/VahidOnline/76782" target="_blank">📅 17:21 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76781">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hJA_iUsSMwAyS2U4aPVgDI4_4OGvHL2zfXGrhscR2qDfvan062xW8AItx_zMJ8oLhnI-nSQ2q5X9cBl4yTyjC9c5tqMuC1PHqZas7_cEwzK4WtmKuEAU94aAUdPnhlwTdjg2pFnsDHIV7A-UMEr8Fsbax6Zz7J9mBci-GFYxa6hWjdnCbYk-2S4OsGT9uFPgQcAciQja4hx2CRoFtVPKTgFXt1lanNwNj986MV7AoerLAf5zSwh1rVBYC_3nNOJhs8zqVscemmNKR3LVAgC7a5Bqmkw8xvJs-yrGQUg2_iXgSoLJ4hzLHc3lvRNvzyy84ECcTdsn0Vb5QgrOau0ScA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fy6Di8lBV4bnDZMhMe_I2W1tw593P4zUHEVa8ZjbAfOMKW_I0kd4zJEnP8ucIAGdGGTKu9iCks6J9CL-ZjQhFyjjBGTXx_cmqc-ZncMlN8vkzFZXzbnsRpsQ0--RkJniEI2Wi7qMHINqhRXDnUJatbqRPvPhDS4eFE-FQDQb4S0uTd_i1y2m__HiHO5JTYGA_AGSK9XrC9OK2bj7x0mvJGkLy4geleUm9ro0aAmMXpcJ-oicmdQXla02ybztl8YVHWraUeB0qFpMn4xa2f8QD2gKbG0ZHwvHsNNTT9JctluXvihizYJu2VYLnVjRQiCaRVvCqBRxR0NWrLXc_0S0Dw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شهرنوش پارسی‌پور، نویسنده، مترجم، تهیه‌کننده و فعال اجتماعی ایرانی، امروز در بیمارستانی در حومه سانفرانسیسکو درگذشت.
 خانم پارسی‌پور که از دهه ۷۰ خورشیدی در شمال کالیفرنیا زندگی می‌کرد، از هفته گذشته به علت سکته قلبی در بیمارستان بستری شده بود.
 او در سال ۱۳۲۴ در تهران به دنیا آمد و اوایل دهه ۵۰ خورشیدی از دانشکده علوم اجتماعی دانشگاه تهران فارغ‌التحصیل شد. نخستین داستان بلندش، «سگ و زمستان بلند»، را نیز در تهران منتشر کرد.
@@ -427,7 +427,7 @@ VahidHeadline
 </div>
 <div class="tg-text">📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 411K · <a href="https://t.me/VahidOnline/76778" target="_blank">📅 19:48 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 412K · <a href="https://t.me/VahidOnline/76778" target="_blank">📅 19:48 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76777">
@@ -447,7 +447,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 401K · <a href="https://t.me/VahidOnline/76777" target="_blank">📅 18:47 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 402K · <a href="https://t.me/VahidOnline/76777" target="_blank">📅 18:47 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76776">
@@ -461,7 +461,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 367K · <a href="https://t.me/VahidOnline/76776" target="_blank">📅 18:40 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 368K · <a href="https://t.me/VahidOnline/76776" target="_blank">📅 18:40 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76775">
@@ -490,7 +490,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 416K · <a href="https://t.me/VahidOnline/76774" target="_blank">📅 02:01 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 417K · <a href="https://t.me/VahidOnline/76774" target="_blank">📅 02:01 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76773">
@@ -499,7 +499,7 @@ VahidOOnLine
 <div class="tg-text">"دارم خواب می‌بینم؟ سلام دنیای جدید!" ویدیو دریافتی از 'شادی جوانان شهر #گله‌دار در شهرستان مُهر استان فارس، یکشنبه ۱۰ اسفند' Vahid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 402K · <a href="https://t.me/VahidOnline/76773" target="_blank">📅 16:33 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 403K · <a href="https://t.me/VahidOnline/76773" target="_blank">📅 16:33 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76772">
@@ -984,10 +984,10 @@ https://www.iranrights.org/fa/memorial/story/-9117/mobin-yaqubzadeh
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/2ac12c0761.mp4?token=YDdy_gCsbR1JiQfpRU9_ieNC8YbXu19CExfcCJsSUUjnlRg0Vz0R5vaqP83Ax52FLmLfazGNckCUrl1Qf7SYNpRz2rtecJj-PUfWRcUMMFy6KpLrRbdC9D6sJ9j1fp9g00XrL25b23SckvltsRqGM_DMtnzm-Vbl0bezigewLcp7e9tDW7-gZi9_AtwaMYYGiyEAi9bZMsVv9D3POyNpFApbLQ6T_zhuKc8IXiZLQ-Dubm04_AXNv1kPow2OW3qanhUruJkkXQLWJ1sNeEKZvq9mnj7SUWKQ-AZVxqITaNbR7_W3UtW-gGf-R5eq9MXF-VWKrRKAAxLdk1TvLraWYQ" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/2ac12c0761.mp4?token=pS8T8rIKgryUuYH-mGyN1Xtd8h_TwyUwh7LUK1asimWfDGtsHkCwoij6nsSOUJRf3CICbKwXMnknmJnOxZEJDhPlEQiqH3XAbieD7f4sXInMvs-NTHdw464To4-cxbI9nAxtsxs23qN6I3YMNutF8hU1_2Z-UJt7a2Bq5vup2GrSTqqbL61m0aoWtQvPy7xLFD5xOrd-nRUUW9S5HixInml3zpZw1JOnf8GFOaj33EUJPUH5kpI0M6C0hETj5e4zg8EWw9MstDZ_5TGtytEmJ0cpoJCxeEN8EHexxnA_zytGR-3_jOVcBXfo7NjL-uuszhFJIpnaog0SiJYQudKFkA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/2ac12c0761.mp4?token=YDdy_gCsbR1JiQfpRU9_ieNC8YbXu19CExfcCJsSUUjnlRg0Vz0R5vaqP83Ax52FLmLfazGNckCUrl1Qf7SYNpRz2rtecJj-PUfWRcUMMFy6KpLrRbdC9D6sJ9j1fp9g00XrL25b23SckvltsRqGM_DMtnzm-Vbl0bezigewLcp7e9tDW7-gZi9_AtwaMYYGiyEAi9bZMsVv9D3POyNpFApbLQ6T_zhuKc8IXiZLQ-Dubm04_AXNv1kPow2OW3qanhUruJkkXQLWJ1sNeEKZvq9mnj7SUWKQ-AZVxqITaNbR7_W3UtW-gGf-R5eq9MXF-VWKrRKAAxLdk1TvLraWYQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/2ac12c0761.mp4?token=pS8T8rIKgryUuYH-mGyN1Xtd8h_TwyUwh7LUK1asimWfDGtsHkCwoij6nsSOUJRf3CICbKwXMnknmJnOxZEJDhPlEQiqH3XAbieD7f4sXInMvs-NTHdw464To4-cxbI9nAxtsxs23qN6I3YMNutF8hU1_2Z-UJt7a2Bq5vup2GrSTqqbL61m0aoWtQvPy7xLFD5xOrd-nRUUW9S5HixInml3zpZw1JOnf8GFOaj33EUJPUH5kpI0M6C0hETj5e4zg8EWw9MstDZ_5TGtytEmJ0cpoJCxeEN8EHexxnA_zytGR-3_jOVcBXfo7NjL-uuszhFJIpnaog0SiJYQudKFkA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">(
 ⚠️
@@ -1048,7 +1048,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 373K · <a href="https://t.me/VahidOnline/76730" target="_blank">📅 19:32 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 374K · <a href="https://t.me/VahidOnline/76730" target="_blank">📅 19:32 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76729">
