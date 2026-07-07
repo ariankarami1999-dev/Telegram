@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 62.7K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-17 02:22:15</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-17 03:19:19</div>
 <hr>
 
 <div class="tg-post" id="msg-5921">
@@ -300,7 +300,7 @@
 <div class="tg-text">🚨
 گزارش ها از شنیده شدن حداقل ۳ انفجار در بندر عباس
 تصویری که گفته می‌شود آتش گرفتن یکی از قایق های تندرو سپاه است</div>
-<div class="tg-footer">👁️ 6.97K · <a href="https://t.me/farahmand_alipour/5921" target="_blank">📅 01:05 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.06K · <a href="https://t.me/farahmand_alipour/5921" target="_blank">📅 01:05 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5920">
@@ -310,7 +310,7 @@
 🚨
 ارتش آمریکا: نیروهای ما آغاز یک رشته حملات قدرتمند علیه ایران را آغاز کرده‌اند.
 ‏حملات آمریکا در واکنش به حملات ایران علیه سه کشتی تجاری است که در حال عبور از تنگه هرمز بودند.</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farahmand_alipour/5920" target="_blank">📅 00:48 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farahmand_alipour/5920" target="_blank">📅 00:48 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5919">
@@ -319,7 +319,7 @@
 🚨
 🚨
 شنیده شدن صدای چند انفجار در حوالی قشم و سیریک!</div>
-<div class="tg-footer">👁️ 9.13K · <a href="https://t.me/farahmand_alipour/5919" target="_blank">📅 00:46 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farahmand_alipour/5919" target="_blank">📅 00:46 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5918">
@@ -332,14 +332,14 @@
 <a href="https://cdn4.telesco.pe/file/a8f02faf66.mp4?token=TOf9vi73uQoTX-E3TAgt0KYxfBX2uwopboROUvR9lW-5h8zAU2oYOJAJ5GOAC4MFAYiODtEapqBEBop1t_xzIvQzfxN2x4Eiiis_Qz_-zxEJScWsbIJDAFEaVV_TbuWD_3nHeLUWSPbVKh6dUMFMmTN4aAb9vnFqSXAAAtMe7pbzuRvyr4HCl6XPVnV51ntxI04q364p0RoL19HzFNVhcDz6oohLK8aGBvs8jw0CFPa-hEKHj_orKah98Upj5i0EpRI7mkMG_2ZjL18Ba-WnrBgq29rynMmEsVq1j630b1ZhD5mX7hLrKqsKogTucMrJluaKM1pEvmQ4gX_eB_qlJw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">توی این ویدئو دقت کردید یه نفر رو به کامیون جنازه خامنه‌ای وصل کردن؟ :)</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farahmand_alipour/5918" target="_blank">📅 00:23 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/farahmand_alipour/5918" target="_blank">📅 00:23 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5917">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QdPbQyU29iMFSPN0LnUcVR6V7MCBVUAe7RHXePg_G3-B89XIjCMShFiJJKcagRQpoc_UPQn8ucirH0jnyq4Sm0XLA_x0Yq1JDrpKT0L1SnpWTTfYZwuF_u2D-KcJiITCrs9XlmaGi3JEzi08qs4GaoCFqTwp2wU4mFNm5_GQlOL8E2TqWKf9P4UnhQWOcXK2OaXFHXWf9tpE6zD50x9i7Su3LjbV0I2llN19Bt1gD96kaMYdUYP8RZveq0uEUfPTCl_Zj2GHf8N-wRd-N54qtGGBDoPI8gF0exR2yq7zISToGIYVjh6ytaJx8zuC-QpFhh74sWmSXNbzFQBdpQCSWw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این ویدئو حقیقتا یک سکانس تاریخیه، مدلی که دارند خودروی تابوت خامنه‌ای رو اسکورت میکنن :)  دارند جنازه خامنه‌ای رو‌ از جلوی خونه‌اش رد می‌کنن، از همین هم‌ پیروزی ساخته و‌ میگه چقدر قشنگه آقا خودش اومده به دیدن.</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farahmand_alipour/5917" target="_blank">📅 00:22 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farahmand_alipour/5917" target="_blank">📅 00:22 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5916">
@@ -350,7 +350,7 @@
 مغایر با حسن همجواریه!
 کشورهای همسایه هم تازه دارن می‌فهمن
 مردم ایران از دست اینها چی میکشن</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/farahmand_alipour/5916" target="_blank">📅 23:44 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/farahmand_alipour/5916" target="_blank">📅 23:44 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5915">
@@ -363,7 +363,7 @@
 <a href="https://cdn4.telesco.pe/file/5e58e9ca73.mp4?token=GimCSjU_DrgvXaQkU-Po-UGlpVHUGH-6cVrlHsG772zgy5IxKrF6gKYepYmZQGYXn2R3heZfiRllyMcuQHM5ONRxG8PaoUPYzbCPCmRawAMdRmPzEdOVZIwuPMCh9j80mjn3G8EwvQMECH1z-EKqDtc6Ca5aTTd4Px4vicgJwiP58W12W2OgGs1R-GjP7zK9bEtYZOLuC2garzxR0Bhjz51ZSCN7Z3BYn5hLG95moJqod4VOnUu5etWWyYQ840pgWwe2OEEUT-3-CT2Pa-kVDBDTEpmv1pglVTvxvv8ocOFAlpRTAdTr-0733QoLU6Pb1_mFgoLxVLKAZ7MF7qbV0g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">نحوه حمل جنازه خامنه‌ای</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farahmand_alipour/5915" target="_blank">📅 23:26 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farahmand_alipour/5915" target="_blank">📅 23:26 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5914">
@@ -377,7 +377,7 @@ pinned a video</div>
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">این ویدئو حقیقتا یک سکانس تاریخیه، مدلی که دارند خودروی تابوت خامنه‌ای رو اسکورت میکنن :)
 دارند جنازه خامنه‌ای رو‌ از جلوی خونه‌اش رد می‌کنن، از همین هم‌ پیروزی ساخته و‌ میگه چقدر قشنگه آقا خودش اومده به دیدن.</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farahmand_alipour/5913" target="_blank">📅 23:12 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/farahmand_alipour/5913" target="_blank">📅 23:12 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5912">
@@ -390,7 +390,7 @@ pinned a video</div>
 هلی‌کوپتر از وسط راه برگرده قم!
 بیاد دستشون!
 برای آمریکا خرجش یک «توییت» زدنه!</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/farahmand_alipour/5912" target="_blank">📅 22:50 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/farahmand_alipour/5912" target="_blank">📅 22:50 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5911">
@@ -399,14 +399,14 @@ pinned a video</div>
 <div class="tg-text">🚨
 🚨
 آمریکا مجوز فروش نفت ایران را لغو کرد!</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/farahmand_alipour/5911" target="_blank">📅 22:44 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/farahmand_alipour/5911" target="_blank">📅 22:44 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5910">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MhmCJ3-FVh4KXEuF3XgtwFp_DH0d8S2po5zTonuxGdyOurHWLh9971maKMYTyf7PJqbb44r1XFC6po5eyIhTquNmFYWOB4_xUW8FYhlVNeJH1GVAKzDwhWs2DoQztxLv0pmj3K4oKq1Rgn3XqiFmhdWQpkzkRK7iyTu_m7rpzr6ozLjrOTMvhFJ2vsRXzf12ao5QY7IUq0a3cjvVcfa-ED7P2mDCaCnBWX_nJq0IQBtOlZYPxXwm8MtoX7Mw4hrt5YCXmkw0gPiDZxuQAZ36WgVS5upwg8JXfg7jJNruJvUl6QGW-CnKXsk9lPy3gRrOMjp7DmfztiVR7lm0ZpEWVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیشنهاد حمید  رسایی :)</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/farahmand_alipour/5910" target="_blank">📅 22:41 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/farahmand_alipour/5910" target="_blank">📅 22:41 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5909">
@@ -416,7 +416,7 @@ pinned a video</div>
 ‏رویترز به نقل از یک مقام آمریکایی: واشنگتن مجوزی را که فروش نفت ایران را اجازه می‌داد لغو می‌کند.
 ‏یک مقام آمریکایی اعلام کرد که ایالات متحده در حال لغو یک مجوز عمومی (General License) است که فروش نفت ایران را مجاز می‌کرد.
 ‏ این مقام آمریکایی هشدار داد که اقدامات ایران در تنگه هرمز «کاملاً غیرقابل قبول» است و «با پیامدهایی روبه‌رو خواهد شد»</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farahmand_alipour/5909" target="_blank">📅 22:24 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/farahmand_alipour/5909" target="_blank">📅 22:24 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5907">
@@ -429,7 +429,7 @@ pinned a video</div>
 به ریال می‌نویسید؟
 خمینی گفته بود که برای حفظ اسلام
 حتی دروغ گفتن حتی شرب خمر «واجبه» :)</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/farahmand_alipour/5907" target="_blank">📅 19:23 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/farahmand_alipour/5907" target="_blank">📅 19:23 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5906">
@@ -446,7 +446,7 @@ pinned a video</div>
 به قدرت کشور کمک کند»
 که منظورش نفوذ جمهوری اسلامی بود…..
 دیدیم نفوذ و جایگاه رو!</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/farahmand_alipour/5906" target="_blank">📅 18:58 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/farahmand_alipour/5906" target="_blank">📅 18:58 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5905">
@@ -459,14 +459,14 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/344e1773fb.mp4?token=SnR3c1dV44v2SPyIoO2arDGYBMXO09kkh27FUSGytLDD2aq2QN-nCQvuKJJcohCWvd35MzwuKgtqACtwpHdSQaIUWQ0nibpF7ANqbD-UH-mTo-yDs4zEhIN1_GVizaawP-RrKBbLKdhpwNQSKLCiFnKpY6udRPltQIBjo2mphavcZHhCXJmk1qvZ-4TvCtdd_1KwDsTQcTQKSBCRoJ-tkMhOVKm9sH6rzlw4dHjSdZcYJT8i1Z_XFa3lT4R0xK2RfXMkTEYSn5fK-TElNQVgXlrJWymKIjazZzqpnyF-7RVd8vLaemoqj4LFDZeGq_geECCrKEJanigMVG7deRItDQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">یک داستان ۴۷ ساله در ۲۴ ثانیه</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/farahmand_alipour/5905" target="_blank">📅 18:57 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/farahmand_alipour/5905" target="_blank">📅 18:57 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5904">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">🚨
 یک کشتی دیگر هم در تنگه هرمز مورد هدف قرار گرفت.</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/farahmand_alipour/5904" target="_blank">📅 17:48 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/5904" target="_blank">📅 17:48 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5903">
@@ -476,7 +476,7 @@ pinned a video</div>
 «هدف قرار گرفتن کشتی قطری «الرقیات» هنگام عبور در نزدیکی تنگه هرمز، حمله‌ای غیرقابل‌قبول به امنیت و ایمنی کشتیرانی بین‌المللی، امنیت تأمین انرژی جهان، و نقضی جدی و آشکار از قوانین بین‌المللی است؛ به‌ویژه قواعدی که آزادی کشتیرانی و عبور امن از آبراه‌های بین‌المللی را تضمین می‌کنند.
 ما از جمهوری اسلامی ایران می‌خواهیم فوراً تمام اقداماتی را که امنیت منطقه را تضعیف می‌کند یا ایمنی کشتیرانی بین‌المللی را به خطر می‌اندازد، متوقف کند و از به خطر انداختن تأمین انرژی جهان و منابع کشورهای منطقه در راستای منافع تنگ‌نظرانه خودداری کند.
 ما جمهوری اسلامی ایران را از نظر حقوقی، به‌طور کامل، مسئول این حمله و هرگونه خسارت و پیامد ناشی از آن می‌دانیم.</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farahmand_alipour/5903" target="_blank">📅 17:25 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/5903" target="_blank">📅 17:25 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5902">
@@ -489,7 +489,7 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/3e6ae83645.mp4?token=WpSK390fprd3utv1RBeOJUVpxz4xbau-DtCBzlHJOGpiIzwuVrAVY0IvwUd4TpvI35styZagfKHGEVp9AbaP18HpHsjN3DuLnWQawE1XaB3Qv-87zNKG5WnyOmxi8SFrUUtkxcxonBUWw5DJxDF6o5nlaqqJl8jrXTjlj6Tnwb4SALQzC661FDnCrr1KCXw41kEwUgAkVijRTKn_FoGLbvax_FNJksEUCiL8m2sjWCnnXMWzR0hRByovWd_RqPuTJhRQe1CsuL7hhpSMj7oujFuNf6gsUBKhSM0F2VIwHkZP9EIcqOVoGuOorsEIELnUnrrenwpSHcvofSiT1l9yoQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">رافضی‌های جمهوری اسلامی دیروز یهو «عراقچی» رو در مراسم دیدند و ازش پذیرایی کردند.</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/farahmand_alipour/5902" target="_blank">📅 17:05 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/5902" target="_blank">📅 17:05 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5901">
@@ -502,7 +502,7 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/cb4fe1f3d8.mp4?token=M1QsXOJ1gX5bi4uJcOTlP-wB6xh3X-bRdLJapKl-FRCZhCPcV7Wv0nfJVqQjk1CqFgWJkmBDox3xPfe6CqWGiRjxJyqbqWE3zBd-xzj2IOSBOd0xD_X9i2aUEd9NAyjDl9MjmiB_7owm54Vyms7kOLN8VXQAzDyFz5--CZwEx0urZRH7UJ60Y1v7C8X4SKRJpCg9_pZcoCSqgYpQgVvJiZziiTRHeR9dU2Vb7IjYfRxhw3ki3WX9j3PhNfAs-X1w4o-Lh2pVG4rqwS5gQyoRG_4S59WI-_RlFiwtDM35bUFvxTlGXON1dHu2ldedEeRGsHpaJunfC87BlOd5XadjkA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">سالاد الویه و گریه آخوند</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/farahmand_alipour/5901" target="_blank">📅 15:29 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/farahmand_alipour/5901" target="_blank">📅 15:29 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5900">
@@ -512,7 +512,7 @@ pinned a video</div>
 در مراسم تدفین خامنه‌ای - که خودش رو ولی امر مسلمین  معرفی می‌کرد، تنها ۴ تن از سران کشورهای جهان شرکت کردند. روسای جمهور عراق، گرجستان، تاجیکستان و نخست وزیر پاکستان.
 🔴
 در مراسم‌ تدفین «اسحاق رابین» نخست وزیر اسرائیل، رهبران ۴۹ کشور جهان…</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/farahmand_alipour/5900" target="_blank">📅 15:23 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/farahmand_alipour/5900" target="_blank">📅 15:23 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5899">
@@ -527,7 +527,7 @@ pinned a video</div>
 🔴
 برای مراسم یاسر عرفات هم ۱۷ تن از رهبران جهان شرکت کردند. از جمله رهبران کشورهای اندونزی، مصر، ترکیه، عربستان، پاکستان، الجزایر، سوریه، لبنان، یمن، آفریقای جنوبی، اردن و…
 فرانسه، آلمان، بریتانیا، اسپانیا، هلند، نروژ، دانمارک، فنلاند، سوئیس، کانادا و چند کشور دیگر اغلب وزیر خارجه فرستادند.</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/farahmand_alipour/5899" target="_blank">📅 15:21 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/farahmand_alipour/5899" target="_blank">📅 15:21 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5898">
@@ -541,7 +541,7 @@ pinned a video</div>
 </div>
 <div class="tg-text">سیل و انبوه جمعیت
 از دوربین خبرگزاری بسیج  :)</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/farahmand_alipour/5898" target="_blank">📅 13:42 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/farahmand_alipour/5898" target="_blank">📅 13:42 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5897">
@@ -557,14 +557,14 @@ pinned a video</div>
 نکته بعد هم اینه که ۸۵ درصد درآمد این کشور بسیار ثروتمند از میدان مشترک گازی با ایرانه! و تا زمانی که ایران منزوی باشه و زیر کنترل جمهوری اسلامی،
 قطر همیشه ثروتمند باقی خواهد ماند
 و اطمینان خواهد داشت که در استخراج گاز از میدان مشترک، رقیبی نخواهد داشت.</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/farahmand_alipour/5897" target="_blank">📅 13:39 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/farahmand_alipour/5897" target="_blank">📅 13:39 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5896">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JKNQe97Od1oYvPJRtOd7KNBsk2JU96HzgwMVozLV8RnUGBKxdxYTh8GXuo6VrF7t0dn-VsqvVuu1ucbpf33HkL96gMgptnmNxzwkQmhIMGZK2tTQ65PYGJbz8afDzCXdA69iQmYAQA7XWzf07smH8_LJvTX-7LQCCuQvMvSfGxowuCW4yPvoP4hG-Jf6lLRjnBak0nGcrewRWZC3T5SjsWPdUOPUdGCk1coCl1ig2UP1eJyEPTlalxjfa3mK2pKy4yMTsBKcmy5FG2ffWvCsl9l8ccbM2jb1xb1D2KKizTJfruqkOt8cwE4FbgmxpeKDVaAnMGIl3oHVeIEywQHw3A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این‌ اتفاقی است که الان برای  جمهوری اسلامی رخ داده!  گرانترین گروگانش رو از دست داده!  اونهم در دوران «آتش‌بس» ! به آرامی رکب خورد!  تردد در تنگه به آرامی افتاد در مسیر عمانی!</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/farahmand_alipour/5896" target="_blank">📅 13:35 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farahmand_alipour/5896" target="_blank">📅 13:35 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5895">
@@ -577,13 +577,13 @@ pinned a video</div>
 <div class="tg-post" id="msg-5894">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">وحید اشتری، فعال رسانه‌ای حکومتی : تنگه هرمز شبیه یک بومرنگ برگشت به صورت خود ما، در ۴۰ روز گذشته حتی یک بشکه نفت نفروختیم. از لحاظ نظامی توان شکست این محاصره را نداشتیم.   گقتم تنگه هرمز میشه تنگه احد براتون!  به هوای غنیمت گرفتید، ولی فهمیدید باید دو دستی…</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/farahmand_alipour/5894" target="_blank">📅 13:27 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/farahmand_alipour/5894" target="_blank">📅 13:27 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5893">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">منطق جمهوری اسلامی   و تعریف «امن» و «ناامن»   میگه اگه  یه کشتی بخواد از مسیر «ناامن» عبور کنه بهش شلیک میکنیم :)</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/farahmand_alipour/5893" target="_blank">📅 13:22 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/5893" target="_blank">📅 13:22 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5892">
@@ -594,20 +594,20 @@ pinned a video</div>
 ✌🏼
 😄
 الجزیره از دیروز چنان عزداری واسه خامنه‌ای راه انداخته! بزنید!</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/farahmand_alipour/5892" target="_blank">📅 12:57 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/5892" target="_blank">📅 12:57 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5891">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dvGWq9hYxk9dJsv0FqsCmLrGLAP4k9rPn-hv0f5_g_qEfdbC8kcaKOpJvibj7qkOhUaH5NXLpyPSxhozcmqs8p2tbfojfW0v0qEKve3TxBXbsgWd1OaALjHUPvm_26cl6URSTw_LqcCpQBe74dyu2PKkRTudDzGSGcwwhKvUPst-vWWOyNDb8oBPeHGwuoE-pw4d1QNsMcpULMwErpHOs8fFJMJX-DUa1RktyLC7oxPo2i8aMbnZf_ZZkXN1Sk0ZXPrLlFaVbE5rnjO4CIF6XBxU3qZ_fxdMf7n2CWv9j4ybdgViQsmyAiI_rv1CUjyfU0Hv23cjDtoKZ049OmJVeg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک روز سردبیر یکی از روزنامه های مهم تهران، (همین دو سال پیش حدودا )  بهم گفت که خیلی از روزنامه‌نگارهای ما «سرچ درست از گوگل» رو هم نمی‌دونن!  و این حرف علاوه بر این که باعث تعجبم شد  باعث شد یکسری نکات رو روشن‌تر متوجه بشم.  و این مسائل رو توی دایریکت هر…</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/5891" target="_blank">📅 12:17 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/farahmand_alipour/5891" target="_blank">📅 12:17 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5890">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">احتمال اینکه یک مسلمان یک سوالی،  یک روایت تاریخ از مذهب،  یا یک منطق مذهبی و….. از هوش مصنوعی بپرسه، و هوش  مصنوعی در تایید به حق بودن اون نگاه و منطق اسلامی پاسخ بده بالاست.   دقیقا همون سوال رو یک مسیحی ازش بپرسه، با درصد احتمال بسیار بالا،  پاسخی میده…</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/farahmand_alipour/5890" target="_blank">📅 12:12 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farahmand_alipour/5890" target="_blank">📅 12:12 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5889">
@@ -630,7 +630,7 @@ pinned a video</div>
 خیلی‌ها فکر میکنن اگه توی کادر چیزی بنویسن و سوالی بپرسن و جوابی بگیرن، به «جواب درست» رسیدن. در حالی که پاسخ هوش مصنوعی،
 می‌تونه به دو کاربر
 دو ‌نتیجه متفاوت بده!</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farahmand_alipour/5888" target="_blank">📅 12:01 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/farahmand_alipour/5888" target="_blank">📅 12:01 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5887">
@@ -645,7 +645,7 @@ pinned a video</div>
 <div class="tg-text">یک فرد نظامی جمهوری اسلامی
 با لباس نظامی ، این مدلی در مراسم خامنه‌ای نشسته.
 فرهنگی که آخوند در ایران ترویج میکنه</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/farahmand_alipour/5887" target="_blank">📅 11:51 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/farahmand_alipour/5887" target="_blank">📅 11:51 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5886">
@@ -658,7 +658,7 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/99fa478c0f.mp4?token=FI6BAkvRY0_jDR_5LrTcjrC1kybbqWRO_3eu5vFFdkibCydNwUUqIaUGtgo_NcfN1i5b-zdEdatKz625J2Sr1ZPcttNpYL4WHwHTgij3jyIiJKY9bjbyiGVtnetwR_zYjhjeMjCGbAqDYZY1fhB2yolkppkdvW1xVV-0ONMzZa8pP9EIOwvgw5EgAYxhQLwRtPjvFCFRY121XaM-xOvnZty2htpESnaKVxHo7ZTAn39JZ1VVkIidCPq5Es-AQ8n6hx8UiicvT_UVRjZzM7GrAySJ7_DhX7EhxB1IUm41aYweC9vDNlEIjXke_wAGRoaFwPwqP64h92u9Yu3j2Ansqw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">رافضی‌های جمهوری اسلامی دیروز یهو «عراقچی» رو در مراسم دیدند و ازش پذیرایی کردند.</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/farahmand_alipour/5886" target="_blank">📅 09:52 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/farahmand_alipour/5886" target="_blank">📅 09:52 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5885">
@@ -691,7 +691,7 @@ pinned a video</div>
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N8os8ZvrzZ80YomZNTydt8hXWzxYBzbwhsM-3qSgkBPjBaAicVHpBo2YCvtaUnRTxhWEnOXzazMHH32LV5lopxarXNTatIrtGLAldgiC6FT4sfl9WpJvG2B00amd3yjuXvkjyPvG6rv7monfJuZRwH1jo99hIkk_Ag3qW_CmfwoHEKOHfyx3BcstqoNjBX-0qrtXKXHwr_RnM8LXOy00pqojdb_crQe-1cm1ETEdsboZohy5ACTkGP90NM3Lbf9ZpZltiiDjuXPL1J5qqmTUBg50Qg4KNg8a1APB9kAgutrHAhF0j3IZk5hGHK25vwW7NNuIxlNjO-MRyslDXBZjFA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینجا هم مجری شون اشاره  به حذف این مسیر میکنه. همه رسانه‌هاشون هم بسیج شدن بگن  نه! چون جمعیت زیاد بود،  ما مسیر تشییع جنازه رو کوتاه کردیم!  در حالی که مگه میشه اینهمه روز اینها رو با اتوبوس و….. بردید،  چند ساعت مونده به برگزاری میگید به خاطر اینکه جمعیت…</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/farahmand_alipour/5883" target="_blank">📅 09:31 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/farahmand_alipour/5883" target="_blank">📅 09:31 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5882">
@@ -704,14 +704,14 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/dd8e155078.mp4?token=peVf9MCovkk623Drg8VuHksI0XBPGtGgRIaNslp9m6kX3L4_1tZlpt-L-KMzXtm3zOg9_RcAO_1SVk64Sg31s3TUenJXD2O4aBikiE93VCGHfKDM6irsV8SUdfWq2UOHKkM7hndOx6_jew7LtKG9t3XjK9tdsfZl40tQZmkH_CVOIXprPMaTvTwQgP91rHQdXlmeL6wddWdlj_xIoiqoli7z81RleYcOD_oNJVefEAA3owRL0M8b1Ya3PKoYxDnrm7MRv7khsv41z48-vGTe36vWJvVZPdm4o54gar90FheJiCdObnCMec2hHZdpize7x48YX0LG9NOTnpU0vPXa_A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اول مسیر خیابان دماوند تا میدان امام حسین حرف شد A بعد مسیر میدان امام‌حسین تا دانشگاه شریف لغو شد! B در آخر تبدیل شد به مسیر دانشگاه شریف تا میدان آزادی C که میشه چیزی در حدود ۲ کیلومتر</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/farahmand_alipour/5882" target="_blank">📅 09:29 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/farahmand_alipour/5882" target="_blank">📅 09:29 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5881">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a3lEbR6olm4TGPZ0yMzAoFt35fT-MJdfa1n4Nk6WjYNuYbwY9Q_lvhpoMAzp4l0fnr1yERgFugsv1EtJCYuMx_UTnZJkUimz1EdoxL28Jz50Gxc-ZqJcZb2iKvjss3wJtATZjAxTvpbonWao9PDTc3nBeQ4lvmCg5g3aK0otwHUTh_hnz52A0PddB-F0YbX8oA2giQyJAq9joakG1vwKsa-e20qE9cwvHPkWAT1Vb1W4XOPSvCZfXchORz8coedzJTz2_FJ0U9fUsqmINMjCDqGXboQWxGR2bXrq1T1xV2DI3GCkxpN_MvElWqW1HmwJfKfUFcRF8gzmIHRW70LuMw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از دیروز کلی ویدیوی اعتراضی منتشر شده می‌دونید چی شده و جریان چی بوده؟  دیدن برخلاف انتظارشون مردم خیلی کم اومدن! مسیری مراسم قرار بود از «ابتدای خیابان دماوند» باشه تا میدان‌ امام‌حسین.  صبح اینو لغو کردن، بعد مسیر امام حسین  تا میدان انقلاب رو لغو کردن :)…</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/farahmand_alipour/5881" target="_blank">📅 09:29 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/5881" target="_blank">📅 09:29 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5880">
@@ -730,7 +730,7 @@ pinned a video</div>
 بعد تبدیل شد از حوالی دانشگاه شریف
 تا میدان آزادی! که حدود ۲ کیلومتره ! ۲ هزار متر!
 مسیر حدود یک ششم شد!!</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/farahmand_alipour/5880" target="_blank">📅 09:15 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/farahmand_alipour/5880" target="_blank">📅 09:15 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5879">
@@ -750,7 +750,7 @@ pinned a video</div>
 ، خامنه‌ای در ۸۶ سالگی کشته شد
 اگه فقط میخواست به اندازه جنتی  و مکارم
 - تا اینجا -عمر کند، باید تا ۱۴ سال آینده هم حاکم  ایران می‌بود!</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/farahmand_alipour/5879" target="_blank">📅 20:19 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/farahmand_alipour/5879" target="_blank">📅 20:19 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5878">
@@ -765,7 +765,7 @@ pinned a video</div>
 <div class="tg-text">وحیدی ، مهم‌ترین چهره نظامی جمهوری اسلامی که برای ۴ ماه نیز از نظرها پنهان بود،
 این مدلی و با موتور اومده دور دور :)
 حکومت آخوندی - مدیریت آخوندی</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/farahmand_alipour/5878" target="_blank">📅 13:45 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/farahmand_alipour/5878" target="_blank">📅 13:45 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5877">
@@ -781,7 +781,7 @@ pinned a video</div>
 «برای مردم یک جو ارزش قائل نیستن!
 مردم رو بازی بدید!»
 تازه فهمیدن!</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/farahmand_alipour/5877" target="_blank">📅 13:26 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/farahmand_alipour/5877" target="_blank">📅 13:26 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5876">
@@ -795,7 +795,7 @@ pinned a video</div>
 </div>
 <div class="tg-text">سنگ میزنن
 و‌ سنگ‌ها بر میگرده و به سر خودشون میخوره</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/farahmand_alipour/5876" target="_blank">📅 13:21 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/farahmand_alipour/5876" target="_blank">📅 13:21 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5874">
@@ -810,7 +810,7 @@ pinned a video</div>
 <div class="tg-text">ویژگی‌‌های یک زن خوب از نگاه اینها
 حدادعادل داره از دخترش تعریف و تمجید میکنه :
 مثل یک خدمتکار کار می‌کرد</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/farahmand_alipour/5874" target="_blank">📅 00:02 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/farahmand_alipour/5874" target="_blank">📅 00:02 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5873">
@@ -890,7 +890,7 @@ pinned a video</div>
 می‌دونی درباره کی دارند حرف میزنن!
 و همین خودش خیلی چیزها رو
 نشون میده.</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/farahmand_alipour/5867" target="_blank">📅 14:54 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/farahmand_alipour/5867" target="_blank">📅 14:54 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5866">
@@ -934,7 +934,7 @@ pinned a video</div>
 (احمدی‌نژاد، روحانی و خاتمی) رو هم
 دعوت نکردن!!
 بعد در میانه جنگ میگفتن «علاج در وطن است»! حتی برای خاکسپاری رهبرتون هم روسای جمهور خودتون رو هم حذف می‌کنید و راه نمیدید!! تا این اندازه تمامیت خواه و کینه‌توز!</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/5864" target="_blank">📅 13:04 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/farahmand_alipour/5864" target="_blank">📅 13:04 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5863">
@@ -949,14 +949,14 @@ pinned a video</div>
 <div class="tg-text">۱۲۰ روز رفته بودن توی ۷۰ تا سوراخ قایم شده بودن
 الان که می‌دونن همه جا امنه اومدن بیرون
 میگن انتقام بگیریم!</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/farahmand_alipour/5863" target="_blank">📅 13:03 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/5863" target="_blank">📅 13:03 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5862">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/osXHFxZuhH2TnhbwTw5VdrtgSvPCFkTiTwaT7BwRcPUE0YSNS2BohvqxSRrzsFBz62bL3gBYqFMfovCq_kmOLxrhziiu5uwrOj2kfJU03zIzBEcOV-iaIQM-TyK6RMbXrdEivFszicGTm17iLKMmJoXDU6y3XyALKFmM2tMSV9csC1dZoGfC-L2vCMaL6QDZivQDIV1cEFNB5wUcy_JkaHYm9rahSQ-CInB56s7RgPii87bBKKzD05O5HlvtNPt4K1Fj2zP6Jfkv_RDP5XOv1NXTBuMZ7Y_d-LByPuaToO7fzcWyInbPDFu2jEjBkgpZQWcNrRxtBwiOR7vszunM-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">:)</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/5862" target="_blank">📅 12:46 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/farahmand_alipour/5862" target="_blank">📅 12:46 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5861">
@@ -1046,7 +1046,7 @@ https://x.com/farahmandalipur/status/2073333637022449802?s=46</div>
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/irOn-jbUtWcm2SlzikdBdxEQ-HeDDgV2YErtmUZU1WzAbqRtHYZzUSKbkVOlzIlRm1fZDCPb8tlzt2taDoZCPGkBODjGcsFYSabHYbhXVW-g3qn0c0S-AWiW8Y-0njAFgxI8uMeFRreGaD4X3W8PmpYc2EdVgPpMDzr3M0RDzLQuBZMyMyXjSNFX_Ro8bb8w1rI25059WzmkVI4KPGA7gxILduF9foHttuPqbfs3Qsmz2fpis6bLE5RG81M9N5XjJx2AEt02KiEXp9qGxT87Vbu3546zD6iyUP3WQXkZ6q9CJ8-gSCgGc2HVoBCOq6Sre2ZkZsHNtdeRkH8rW_yRCw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در مراسم خامنه‌ای ۴ تا رئیس دولت مشارکت کردند، ۳ رئیس جمهور و یک نخست وزیر . که از این ۴ رئیس دولت، ۳ تاشون اسلامی هستن (عراق، تاجیکستان ، پاکستان)</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/farahmand_alipour/5853" target="_blank">📅 11:29 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/farahmand_alipour/5853" target="_blank">📅 11:29 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5852">
@@ -1068,7 +1068,7 @@ https://x.com/farahmandalipur/status/2073333637022449802?s=46</div>
 یک درصد!!
 (ظرفیت نمازگزارانش ۶۵ هزار نفره)
 حالا اینها رفتن از هر ده کوره‌ای و از عراق و افغانستان آدم وارد کردن، تا همین ظرفیت ۱٪ جمعیت شهر تهران رو پر کنن!</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/farahmand_alipour/5851" target="_blank">📅 11:11 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/farahmand_alipour/5851" target="_blank">📅 11:11 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5849">
@@ -1092,7 +1092,7 @@ https://x.com/farahmandalipur/status/2073333637022449802?s=46</div>
 جیبوتی «هیچ»
 سودان «هیچ»
 ولی امر مسلمین جهان :)</div>
-<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/farahmand_alipour/5849" target="_blank">📅 00:26 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/farahmand_alipour/5849" target="_blank">📅 00:26 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5848">
@@ -1182,7 +1182,7 @@ https://x.com/farahmandalipur/status/2073333637022449802?s=46</div>
 <a href="https://cdn4.telesco.pe/file/4889807b7b.mp4?token=iJK5shqaEtgbjKXt1Mf7dg9zpolTl4PPumGsMdFOyHB7JbSPtO9gSrbOAul0TAW_MhlTwtRQccel5Qgl0jGD4JJLk9SeKl8LgG2APJE2QDynOxoIxhpzjxzrA5ObaET-HpVNC4MM6bVkL0e6PIqAIOpu2Zamg4qD0gy0SSFOg3dsbxgHoJyav4j2B3b2QTi7LJJI6W5X9lPgaRcyFH9zqZTaEzXzn-LXAyhqK61R6stlUWOz3BYLWpCQhNu9RQEalSgjP8BNW05e2U9ecwfcy_SRk0ZgLeEcaoTtRl4ZUQaxuskZ7v3dRhVbMloGGW2g5xKuoRznm1WVd16-y9FMgg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">چرا کمونیست‌ها حامی جمهوری اسلامی هستند؟ با اینکه جمهوری اسلامی “هزاران نفر” از آنها را اعدام کرد، اما دست از حمایت از جمهوری اسلامی برنمی‌دارند؟  چون مبارزه آنها برای “ایران” نیست! ایران اصلاً موضوع دعواشون نیست! آنها یک مبارزه جهانی با آمریکا و اسرائیل دارند…</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/farahmand_alipour/5843" target="_blank">📅 14:28 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/farahmand_alipour/5843" target="_blank">📅 14:28 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5842">
@@ -1362,7 +1362,7 @@ https://x.com/farahmandalipur/status/2073333637022449802?s=46</div>
 <a href="https://cdn4.telesco.pe/file/e54b01c817.mp4?token=Geftp4vy-VtNPQnyDraVlsT5H1SDVG6YHPQhgRpcG_1tfQTD-GBtQWJy38saCONK4IA-yGWoyXpSp7Rz1SLQkdcDYpzp0belftio54Y_EwGVcTm6CBPV0pCTRj-BfhGeUA74XD7Lzc2Jj1v7nB60FOXWTT1yvYX0DMGWioFZIxTcAQKJauw_4WtQQX-QKDsaIyu58V1PQHaBGzjVSsvHhys4bI8n81h1NN-FcdSyJvCu200UtERcqtYUSDUnaVvw6DGtw99RaWyQ4aRtYs9fsZvLQkO1k_6Y5n7Ls0QGvzpDghzJ10zBNj5xjSETUC6HXqNs-Vmf-LY6lyhciSETHQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">روضه خوانی سحر امامی در شبکه خبر</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/5825" target="_blank">📅 09:09 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/5825" target="_blank">📅 09:09 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5824">
@@ -1444,7 +1444,7 @@ https://x.com/farahmandalipur/status/2073333637022449802?s=46</div>
 <a href="https://cdn4.telesco.pe/file/ed6be978db.mp4?token=MXpMWSyNZLWbeLxspLVtNKgOa-wwKUFnIV8MNA_ADs3-1AANrPT-TCEpygc0_ocNdnnM7vGtMwpiN88BeAQi_O4c42xfwGC58Skl_RYd0p33xp1KsG9dGIG2cWbAYblTlArinkvu1Al2hhGw_dHpUWbPRyFFsqQamp_aJ-MmT1B6BU3vAOmnZOnJiOkdAGb-U93H6IXBOrrQF7NImde1oeQGJiW2iI2zkcJ8_l5pV9ZC0fG73oHVbzFtAtDgo4hT-dKsLQIp5WJcuqlj1zvHTef0LERAcJrVPn9yPT_lcospyJyIcjUdBBcN7df1qIrCJQdlruP_kxEtVjJbYoB6VA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">به امید شکست و تحقیر یک به یکتون!</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/5819" target="_blank">📅 20:05 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/farahmand_alipour/5819" target="_blank">📅 20:05 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5818">
