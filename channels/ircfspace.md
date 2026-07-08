@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-18 01:29:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-18 02:39:36</div>
 <hr>
 
 <div class="tg-post" id="msg-2476">
@@ -307,7 +307,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/ircfspace/2476" target="_blank">📅 07:48 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/ircfspace/2476" target="_blank">📅 07:48 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2475">
@@ -324,7 +324,7 @@ github.com/SuOracle/GRoute/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/ircfspace/2475" target="_blank">📅 08:14 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/ircfspace/2475" target="_blank">📅 08:14 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2474">
@@ -341,7 +341,7 @@ github.com/SamNet-dev/MTProxyMax
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/ircfspace/2474" target="_blank">📅 08:03 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/ircfspace/2474" target="_blank">📅 08:03 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2473">
@@ -395,7 +395,7 @@ github.com/GFW-knocker/MahsaNG/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/ircfspace/2471" target="_blank">📅 07:58 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/ircfspace/2471" target="_blank">📅 07:58 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2470">
@@ -409,7 +409,7 @@ github.com/GFW-knocker/MahsaNG/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38K · <a href="https://t.me/ircfspace/2470" target="_blank">📅 07:44 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 38.1K · <a href="https://t.me/ircfspace/2470" target="_blank">📅 07:44 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2469">
@@ -425,7 +425,7 @@ alirezashirazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/ircfspace/2469" target="_blank">📅 07:36 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 37.5K · <a href="https://t.me/ircfspace/2469" target="_blank">📅 07:36 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2468">
@@ -494,7 +494,7 @@ Mehrdadlinux
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/ircfspace/2465" target="_blank">📅 08:22 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/ircfspace/2465" target="_blank">📅 08:22 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2464">
@@ -615,7 +615,7 @@ shokhmatic
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 49.5K · <a href="https://t.me/ircfspace/2456" target="_blank">📅 13:02 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/ircfspace/2456" target="_blank">📅 13:02 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2455">

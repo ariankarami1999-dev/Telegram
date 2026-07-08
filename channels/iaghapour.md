@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-18 01:29:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-18 02:39:36</div>
 <hr>
 
 <div class="tg-post" id="msg-2745">
@@ -328,7 +328,7 @@
 #paypal_verification_card
 @verifyxx
 @verifyx</div>
-<div class="tg-footer">👁️ 6.61K · <a href="https://t.me/iaghapour/2745" target="_blank">📅 21:09 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.96K · <a href="https://t.me/iaghapour/2745" target="_blank">📅 21:09 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2744">
@@ -340,7 +340,7 @@
 اگه خرج سرور و هزینه‌ها بالا رفته، خیلی روراست قیمت‌ها رو ببرید بالا. مشتری ترجیح میده گرون‌تر بخره ولی بدونه دقیقاً داره بابت چی پول میده، تا اینکه یواشکی از حجمش دزدیده بشه.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 7.75K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.08K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2743">
@@ -391,7 +391,7 @@ docs.songbird.website
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 7.78K · <a href="https://t.me/iaghapour/2743" target="_blank">📅 20:19 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.04K · <a href="https://t.me/iaghapour/2743" target="_blank">📅 20:19 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2742">
@@ -403,7 +403,7 @@ docs.songbird.website
 این ابزار سه گزارش جامع ارائه می‌دهد؛ گزارش عملکرد برای نمایش دقیق کلیک‌ها و میزان بازدید، گزارش اینسایت برای شناسایی پست‌های موفق و تحلیل روند ترافیک، و بخش دستاوردها برای ثبت رکوردهای جدید و پیگیری رشد کانال. برای راه‌اندازی این سیستم، کافی است در سرچ کنسول یک ویژگی جدید (Add property) ایجاد کرده و پس از انتخاب پلتفرم هدف، مراحل تأیید هویت را طی کنید. این آپدیت طی هفته‌های آینده فعال می‌شود و یک امکان فوق‌العاده برای تحلیل دقیق‌تر بازخورد ویدیوهای آموزشی و مدیریت سئوی محتوای شما خواهد بود.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 8.44K · <a href="https://t.me/iaghapour/2742" target="_blank">📅 19:40 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/iaghapour/2742" target="_blank">📅 19:40 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2741">
@@ -454,7 +454,7 @@ docs.songbird.website
 کانال اطلاع‌رسانی:
 @Hi_Speed_Channel1
 ☑</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/2741" target="_blank">📅 21:35 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/2741" target="_blank">📅 21:35 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2740">
@@ -476,7 +476,7 @@ docs.songbird.website
 به دلیل سودآوری بسیار بالاتر فروش دیجیتال و کاهش هزینه‌های تولید سخت‌افزار برای سونی، کارشناسان اقتصادی احتمال تغییر موضع این شرکت را با وجود این اعتراضات گسترده، بسیار اندک می‌دانند.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/iaghapour/2740" target="_blank">📅 21:01 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/iaghapour/2740" target="_blank">📅 21:01 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2739">
@@ -487,7 +487,7 @@ docs.songbird.website
 هر شب
 کامنت‌ها رو بررسی و تایید می‌کنم. البته در تلاشیم تا راهی پیدا کنیم که این محدودیت به‌زودی کمتر بشه. از درک و همراهی همیشگی شما ممنونم.
 💚</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/iaghapour/2739" target="_blank">📅 19:42 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/iaghapour/2739" target="_blank">📅 19:42 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2738">
@@ -580,7 +580,7 @@ WARP کلودفلر
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/iaghapour/2735" target="_blank">📅 20:08 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/iaghapour/2735" target="_blank">📅 20:08 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2733">
@@ -607,7 +607,7 @@ WARP کلودفلر
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/iaghapour/2733" target="_blank">📅 18:17 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/iaghapour/2733" target="_blank">📅 18:17 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2731">
@@ -935,7 +935,7 @@ GTA 6
 دامنه ها برای به ویدیو بالا
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/iaghapour/2705" target="_blank">📅 19:09 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/iaghapour/2705" target="_blank">📅 19:09 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2704">
@@ -1064,7 +1064,7 @@ GTA 6
 وصل شدن اینترنت گوشی‌ها تنها ظاهر ماجرا را عادی جلوه می‌دهد؛ در حالی که شریان حیاتی بسیاری از کسب‌وکارهای دیجیتال در دیتاسنترها مسدود مانده و خسارت‌های مالی و فنی جبران‌ناپذیری در حال رقم خوردن است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/iaghapour/2696" target="_blank">📅 19:11 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/iaghapour/2696" target="_blank">📅 19:11 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2694">
@@ -1342,7 +1342,7 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 پ.ن: جالبه تو این مملکت انگار با فساد و رانتِ کسی کاری ندارن؛ اما وای به روزی که بخوان اینترنتی رو که دست مفسدها رو رو می‌کنه، یه ذره آزاد کنن!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/iaghapour/2671" target="_blank">📅 21:34 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/iaghapour/2671" target="_blank">📅 21:34 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2670">
@@ -1437,7 +1437,7 @@ YouTube.com
 اگر وارد ویدیو شدید و دیدید صدای من انگلیسی شده، روی علامت چرخ‌دندهِ خودِ ویدیو بزنید، وارد بخش Audio track بشید و اون رو روی Original (فارسی) بذارید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 35.9K · <a href="https://t.me/iaghapour/2667" target="_blank">📅 16:45 · 20 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 36K · <a href="https://t.me/iaghapour/2667" target="_blank">📅 16:45 · 20 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2664">
@@ -1613,7 +1613,7 @@ CoinGate
 🙏
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/iaghapour/2656" target="_blank">📅 17:00 · 15 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35K · <a href="https://t.me/iaghapour/2656" target="_blank">📅 17:00 · 15 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2655">

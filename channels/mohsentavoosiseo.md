@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-18 01:29:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-18 02:39:36</div>
 <hr>
 
 <div class="tg-post" id="msg-828">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">یه کلاس زبان عمومی باید برای کلمه "People" قرار بدیم. اینجوری فایده نداره. خوب نیست دیگه انقدر آدم بی سواد باشه در عصر هوش مصنوعی که مترجم در لحظه و رایگان در دسترس هست.</div>
-<div class="tg-footer">👁️ 991 · <a href="https://t.me/mohsentavoosiseo/828" target="_blank">📅 12:49 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1K · <a href="https://t.me/mohsentavoosiseo/828" target="_blank">📅 12:49 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-827">
@@ -319,13 +319,13 @@ https://t.me/mohsentavoosiseo/826
 الان کارفرما میگه با من با عدد حرف بزن و منطقی بهم بگو که دقیق چیکا کنم که تا چند روز اینده این سایت نیاد جای من که رتبه یک هستم رو بگیره.
 پاسخ در voice پیش رو:
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/mohsentavoosiseo/826" target="_blank">📅 21:07 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/826" target="_blank">📅 21:07 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-825">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.38K · <a href="https://t.me/mohsentavoosiseo/825" target="_blank">📅 22:52 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/mohsentavoosiseo/825" target="_blank">📅 22:52 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-824">
