@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-17 13:38:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-17 15:30:20</div>
 <hr>
 
 <div class="tg-post" id="msg-2741">
@@ -343,7 +343,7 @@
 کانال اطلاع‌رسانی:
 @Hi_Speed_Channel1
 ☑</div>
-<div class="tg-footer">👁️ 6.95K · <a href="https://t.me/iaghapour/2741" target="_blank">📅 21:35 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.22K · <a href="https://t.me/iaghapour/2741" target="_blank">📅 21:35 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2740">
@@ -365,7 +365,7 @@
 به دلیل سودآوری بسیار بالاتر فروش دیجیتال و کاهش هزینه‌های تولید سخت‌افزار برای سونی، کارشناسان اقتصادی احتمال تغییر موضع این شرکت را با وجود این اعتراضات گسترده، بسیار اندک می‌دانند.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 7.4K · <a href="https://t.me/iaghapour/2740" target="_blank">📅 21:01 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.63K · <a href="https://t.me/iaghapour/2740" target="_blank">📅 21:01 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2739">
@@ -376,7 +376,7 @@
 هر شب
 کامنت‌ها رو بررسی و تایید می‌کنم. البته در تلاشیم تا راهی پیدا کنیم که این محدودیت به‌زودی کمتر بشه. از درک و همراهی همیشگی شما ممنونم.
 💚</div>
-<div class="tg-footer">👁️ 8.38K · <a href="https://t.me/iaghapour/2739" target="_blank">📅 19:42 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.57K · <a href="https://t.me/iaghapour/2739" target="_blank">📅 19:42 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2738">
@@ -397,7 +397,7 @@ Save Media
 ۳. در همین بخش می‌توانید کل سابقه جستجو را غیرفعال کنید یا یک زمان مشخص برای حذف خودکار (Auto-delete) اطلاعات تعیین کنید.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/iaghapour/2738" target="_blank">📅 19:07 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/iaghapour/2738" target="_blank">📅 19:07 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2737">
@@ -493,7 +493,7 @@ WARP کلودفلر
 اطلاعات بیشتر در گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/2735" target="_blank">📅 20:08 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/2735" target="_blank">📅 20:08 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2733">
@@ -528,7 +528,7 @@ WARP کلودفلر
 <div class="tg-text">⚠️
 آقا این همراه اول قشنگ داره عجیب‌غریب حجم می‌خوره! اول که اومدن نصف بسته‌های خوبشون رو حذف کردن که مجبور بشیم بسته‌های گرون‌تر بخریم. بعدش هم برای تست یه بسته ۶ گیگی خریدم؛ منی که بیشتر از وای‌فای استفاده میکنم و ۶ گیگ برام ۱۰ روز کار می‌کنه، چشم باز کردم دیدم بعد دو روز پیام اومده بسته‌تون تموم شد!
 توییتر رو که نگاه می‌کنی همه دارن از همین دزدی و حجم‌خوری شکایت می‌کنن. ایرانسل و رایتل هم همین‌طورین یا فقط اینا این‌جوری دست‌شون تو جیب مردمه...!</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/iaghapour/2731" target="_blank">📅 15:13 · 13 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/iaghapour/2731" target="_blank">📅 15:13 · 13 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2730">
@@ -551,7 +551,7 @@ WARP کلودفلر
 دانلود سایر نسخه ها
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/iaghapour/2730" target="_blank">📅 20:40 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/iaghapour/2730" target="_blank">📅 20:40 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2728">
@@ -570,7 +570,7 @@ WARP کلودفلر
 Hedioum Tunnel
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2727">
@@ -626,7 +626,7 @@ Lumo 2.0 Lite
 پروتون که حالا بیش از ۱۰ میلیون کاربر در بخش هوش مصنوعی دارد، هدف اصلی نسخه دوم را جذب کسب‌وکارهایی قرار داده که نگران امنیت داده‌های حساس خود هستند.
 🧠
 @NovinAIplus</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/iaghapour/2725" target="_blank">📅 20:55 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/iaghapour/2725" target="_blank">📅 20:55 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2724">
@@ -729,7 +729,7 @@ mysite.example.com
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/iaghapour/2719" target="_blank">📅 18:01 · 08 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/iaghapour/2719" target="_blank">📅 18:01 · 08 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2718">
@@ -748,7 +748,7 @@ mysite.example.com
 
 <div class="tg-post" id="msg-2717">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bSuLAqXbJTr94fWFlATpPcHibQYdqat9zhg0PhtBf3qaN7aH1Ca3DHv3xwXFi4nQ5HzpZ1r4d9_O31S8-MF6xbM6Oqu82lUFop3-wdQh_ypGOxErhd4rhRvGnmset0XIkJJcCsjVX8hD4kc4GJq0REjT1XUmN2pPN940CcBnh35B3fT3DvrdKz7rd_SedZD2r_sDIVwi2lmBcJ0jP8cXqaAFJkJc00OfgjwzKJsT0EsaPf8IOSdbomhQOuSCosUEBy-RMKviSxff_PHVFfcTuOWyu5jbHDfXs1cvWyBEfovNUhU3eXn6Whz3skVt5aG_j4T-orB8szC--O7XQxU01Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DFR_d9ej6s-HuKeFqhUxcEoIQQc78oHOsvobjx6_aC3eDQl0ucYM8ciagqpf3ooUxl1GuEQpGz_7Ph9WdCEm-vddCfsXbjlaXx2kzTH0_fPANprsTgh8P5RdxT2bt7riLbysV5ZClKzaM5Iakx9qrrWl6vNH5YQxUMdlKyCgHFzaZ9UfTlWUvv4YLrYc9hskE74FSqYtHs-KGiT0J1K1A0bS3M-QpBNPzRzVC1qAZGTptHCnYhPcrG_w0x5g7MBFR2kGiKdxQOsILjDqhRqscA-yx6ua52PvV-Jw8lwISRiT5Hd0JwRlkUOnKpua5mmc2ofsZ104heJr9jt2ICsCmQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی اسکریپت ساده EZxray Direct Server
 یک اسکریپت کاملاً خودکار که سرور شما را به یک مرکز Xray با پشتیبانی از ۱۲ پروتکل مختلف و ۲۰ پورت متنوع تبدیل می‌کند؛ آن هم بدون نیاز به هیچ‌گونه تنظیمات دستی یا دانش فنی!
@@ -766,7 +766,7 @@ mysite.example.com
 اطلاعات بیشتر در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/iaghapour/2717" target="_blank">📅 17:56 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/iaghapour/2717" target="_blank">📅 17:56 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2711">
@@ -977,7 +977,7 @@ GTA 6
 وصل شدن اینترنت گوشی‌ها تنها ظاهر ماجرا را عادی جلوه می‌دهد؛ در حالی که شریان حیاتی بسیاری از کسب‌وکارهای دیجیتال در دیتاسنترها مسدود مانده و خسارت‌های مالی و فنی جبران‌ناپذیری در حال رقم خوردن است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/iaghapour/2696" target="_blank">📅 19:11 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/iaghapour/2696" target="_blank">📅 19:11 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2694">
@@ -1030,7 +1030,7 @@ ircf
 چون نسخه رایگانه، به محدودیت ۵ هزار پیام در ماه رسیده و رفته رو حالت تعمیر!
 اگه تنظیماتش بر اساس تایم‌زون باشه، اول ماه جدید یعنی 2 روز دیگه خودبه‌خود درست میشه؛ وگرنه به ناچار نسخه پرو رو می‌خرم تا دوباره در دسترس قرار بگیره.
 🥸</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/iaghapour/2690" target="_blank">📅 17:19 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/iaghapour/2690" target="_blank">📅 17:19 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2689">
@@ -1066,7 +1066,7 @@ ircf
 پ.ن: من داشتم میخوندم خندم گرفت این چطوری داشت میگفت خندش نگرفت؟
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/iaghapour/2687" target="_blank">📅 19:23 · 29 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/iaghapour/2687" target="_blank">📅 19:23 · 29 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2685">
@@ -1255,12 +1255,12 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 پ.ن: جالبه تو این مملکت انگار با فساد و رانتِ کسی کاری ندارن؛ اما وای به روزی که بخوان اینترنتی رو که دست مفسدها رو رو می‌کنه، یه ذره آزاد کنن!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 34.2K · <a href="https://t.me/iaghapour/2671" target="_blank">📅 21:34 · 23 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/iaghapour/2671" target="_blank">📅 21:34 · 23 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2670">
 <div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nH8b_KlWMYehFSBHtPq2MnTrb8uo6MgBbUjCFwf2oxjfcOTY41AFPIt63QzGJ1LOkh5ZyfpkoBl6YJRg1VL2sWBBHOlXWTu7Y-4v66ywLA5Tb6rWHBJh9VDSpH3ZnKbTkD2WVLdeW2e6FX4GJ12Xr1EaEFfhpIv0FnE_zUBrCjBt6C-nO5lZJZ4CDRXkLBuLlfl1axcMsbyZbm5LuSEph0wRmPGZqPkNZCv9_smrwwKU_NdRag9np4xaXzPrKzEORgw_4O6qGz-WEkxw1J_98U9GApM61E_4vHTBY8Q0bp2C8x0H9fB-MzMQlZ97vvG3QMWetC3-aI4tEpwiYo67fg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Q9p5wzDqmwTD5DswUYdVJDsoEZt1cDSBM2ySe1131hiifTk5KSfdStpPKNmbQGjBwHHyA-iKngDM3j_BUZLW5CtcNER3CkcW9pZgR5X16FEphcFghkssrb9YAHYA4KPePV6Zw7LvxrqMj70CWiU_dbRUT6KhvfJXNt2k3zHI3kxfrBBl3uBupg0W-GCnEpxyqbuV4xuF5QVLai_lVVjSfvj2pAGvRYeLl7BWPgULal9MQzDyzOR7lmnj0Sk5cmXc2Q_yA6sFXL_1vKldE5txnB7T3pKL388h4Q5U4451_BqI9G5OwQR1A7bprXAHC0Q2WHx5erOAnozaAF4IfAg66Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 وزیر ارتباطات: محدودیت‌های اینترنت شفاف و زمان‌دار می‌شود / خسارت روزانه ۱۵ میلیون دلاری قطعی‌ها!
 ستار هاشمی، وزیر ارتباطات در نشست خبری خود با انتقاد از وضعیت فعلی گفت: «در عصر هوش مصنوعی، دردناک است که هنوز دغدغه وصل بودن اینترنت را داریم.» وی تاکید کرد که قطعی اینترنت در فضای غبارآلود شایسته مردم نیست و سازوکار اعمال محدودیت‌ها باید تغییر کند.
@@ -1454,7 +1454,7 @@ SMS Fee
 
 <div class="tg-post" id="msg-2659">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G7iEoGT0BupI0WDcITPi3o3NZX8RKL2aQScxDaD7x9cfRwMJ-l_AxcyrbxYq1A9byHSrFN9NsCdE-tgYDMRGM4tOrpSRQA7lmX6o3QfrDKm-hgdychJt8H4UpXkbBak8UP6Y2eXceRi2cqkFhkuG8dSLh2Y6ZVUKCOqKIkbZlY9wwcA3JDyi2n0VS1ll-wlzzECP9aB8sMaSpo3flXVEzKsQpmzjcLpXe0Oh0BYNn2XUE7ZJvNTENGbxCMS3VDRdX3ZZo6UDfRdEIaKvLSGGiUyRS0hjXDs6RHjUnXQF-aC_NVSZU-vAsqEbPGJx4fGasBlXF15yKuRjDaguUBpuAg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qTbu7k-D2FS72kVaLmAHuZKYkCnCcruR6mFj82ABDbyJryT8_QytPBCGBWULt2Uyk6Cd50r2h27i_oDsMoVf0wPbcYHvY-_1mJnNkmXCcMNcK_IxH4rlpBeY9qw3c7HaUGv-LQX-roLEWURk_gRVV1CCHHy_xSCL4ePem9vLQ0qSOy644RDdIe35lGSHZYcbVyP5VFpm2uJS0n7JtzAhAItlHYQac9VnJaCSVaBgHgOJ31IDShCOId4qSkTgjO6FQMh9Jhc6X86oPoLqniy_kC_tSTNZgdHl3BR92YN_SjUz5WPS19T6kCA3XO19tF-c6v9OyGHB1B9ZqJ4TZycfzA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 نصب خودکار داکر روی سرورهای ایران
 اگر روی سرورهای داخل ایران داکر نصب می‌کنید، حتماً می‌دانید که به خاطر تحریم‌ها و اختلالات شبکه، باز کردن مخازن داکر و دانلود ایمیج‌ها مکافات است. این اسکریپت متن‌باز و امن، کل فرآیند نصب داکر را خودکار کرده و در انتها به شما اجازه می‌دهد از بین ۶ میرور ایرانی (ابرآروان، داکر آی‌آر، لیارا و...) بهترین را برای رفع تحریم انتخاب کنید.
@@ -1716,7 +1716,7 @@ CoinGate
 
 <div class="tg-post" id="msg-2642">
 <div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DqbVv7eJFcbadn4B1rBJwf0W_xyg70k6Pci3cw8iYbsDgXuLGksoEiCxXn4BdbPf0lPXeyiszhfDN8Xe9HSvbt0ys4-GRA4N-tm9CqdwyTUzN01RiHLKNGPg6_c7hXcMrGo_sKH5si5UHppDIKCD9CrZvzvbM-H3LQvJ8ECjPLPOoQc5xiq0aGOpfzQdDfonELynLbE3cmnKp4SuiVboGmiR7qz_BITzpMlIVwp3wJ4YBsDsRqHL2vOy7OtFJmfI-3UpntkTm-3CbNZmb5kAEHaoPVaMLskSOrc3XQRRH1YgAh3NGvGDniWcaYyFPAeBgoQpPfAqwFoonVQXj9soCw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tM8XOVROhiWFXHQTK8P8I5rDLvALEPo-aWCdj0t2Vxuqks6csrOrleDHCkKKSXrFNtB4K1aD7rcC69gsy5RKlD-4IrFwGmVYM0SYlRLaGAR5dBn9YBdNSGmG8r45UxbfJ1FSPodvV3DJ7bfNLevePFgmYxdwto-hRmEaXhzpUJlvmnafVf1XdM9zVSPEWkMka6XIaGFLQbOScsrVVIe0IZcHgQ4-6p5Q0Yhb05d_lCBNt96Rz90nSI0AZnflF9sqXgXPVM56MzJTlRdIwZdzgM-lKDBbXOqPxhSpe1Z-n3u4vO-mzNFQrtruWrnfiw8UebUqmh6bv4FPf23bOUdCWg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آپدیت بزرگ ویندوز ۱۱ منتشر شد؛ پرسرعت‌تر و هوشمندتر!
 مایکروسافت به‌تازگی آپدیت جدید ویندوز ۱۱ (نسخه‌های ۲۴H۲ و ۲۵H۲) را با تمرکز بر افزایش سرعت و هوش مصنوعی منتشر کرد.
@@ -1814,7 +1814,7 @@ CallofDuty.com
 
 <div class="tg-post" id="msg-2632">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/iaghapour/2632" target="_blank">📅 18:16 · 05 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 39K · <a href="https://t.me/iaghapour/2632" target="_blank">📅 18:16 · 05 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2631">
