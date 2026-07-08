@@ -286,17 +286,360 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/CCWQH8JdQhBiELSG3Gt8eck_LSfys4AU2S6FDvPLF6mPK--70lCupGG8V5WPwPQQat7kMkR_UrhGR_AwFDixaVj-QpWdsJdXMsuip243LRcz-0_EWEQ-7iw5JwQpFdzUP9W2-EL_Lc-mVJUucRNOdWHNGm8_tlw--wn5sh6JDbIyLmbwe3ux7UrJrJ7g3i3or-D-GILtrDIMLPNCh4veEQyzX9AfY8PTOOYzrRW8jsRx6wmZob9o6I55CJs71FNu1wx55Ljcn4nUwu8s5SSgru85qusRgNxWNJOI42QdYXNxhEi3RYnPrB708v1k57E5-kYBSyrxTmnWc60FYdscIQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/C-1Yd3f7YCI70nFMCb8CrNyNgR_Kqjo4pQwP2Rv-5DcuIGy7M0d7aOtoiVGk4JYHUAJlj5N2pATuIQRTOmpfPWCM1-WX4UYTYJuGMXEYIw3yWU7NtVtXkJXMV92Tz1QI6o2uhahxKlMmfdrYqhvgC8YwOc3JrIRmieeVMfvLGTJCIH4FzghrgGCIbxwRJTCuedT7TPSoDBMJN-aCKXGXXfIaQVp-KIqB-fdGR6pqpEN6fD-PV0ly0t6wCXDS4b_vlQhAhAHSX-Czu7XLAZ2i1mWMlPplFDLQgPqAhNLg_ghftyVbjMY-c3BWhhbWtCHbugdwgud16iLL9D3LuMgfFA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 نايا - NAYA</h1>
 <p>@naya_foriraq • 👥 255K عضو</p>
 <a href="https://t.me/naya_foriraq" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اخبار ؛ امن ؛ دراسات ، خرائط ، OSINT ، تسريباتلا تظن الإدارة الأمريكية انها قادرة على إسكات شعوب المنطقة والله لن نسكت .. يوما ما سوف نعيد أيام عماد مغنية وسوف تبث العملية على هذة القناة ..🪪للمراسلة وارسال الاخبار@Nayaforiraq_bot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-17 03:19:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-17 05:22:29</div>
 <hr>
 
-<div class="tg-post" id="msg-81535">
+<div class="tg-post" id="msg-81562">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/556309f2f5.mp4?token=KtsoXR5xJ00v3COZMvnDyLubGHOb26jaRzCsPAC5__F4LbOPYJTjbkGIiUP9aIu1SQKiTtQ3O6fYGrTml0IY4IlLp9HgQl9y8qOXhanV_pNCCAar6Y-GEJcIbuiT3E4bJT6p83sHFEhxoCbOCC3PfLVaTqxz0fvlhyAie15EMHeonBOIo_TT_sdD-KHn2B3b4T6nmC0ZXjIAVd0e2p5gSKQKWGHCQSIpvXkojNazQ7sqb2N7dK2KfjZkuP2B8xBlS4u4g89ZxURKhyH9Gb-onm6_JrkapbMyyl9Zde_eBg-c_ayf0n3UoJjBJgNBvkl-RkIBMM5oMQGsr-NXDV48Nw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/556309f2f5.mp4?token=KtsoXR5xJ00v3COZMvnDyLubGHOb26jaRzCsPAC5__F4LbOPYJTjbkGIiUP9aIu1SQKiTtQ3O6fYGrTml0IY4IlLp9HgQl9y8qOXhanV_pNCCAar6Y-GEJcIbuiT3E4bJT6p83sHFEhxoCbOCC3PfLVaTqxz0fvlhyAie15EMHeonBOIo_TT_sdD-KHn2B3b4T6nmC0ZXjIAVd0e2p5gSKQKWGHCQSIpvXkojNazQ7sqb2N7dK2KfjZkuP2B8xBlS4u4g89ZxURKhyH9Gb-onm6_JrkapbMyyl9Zde_eBg-c_ayf0n3UoJjBJgNBvkl-RkIBMM5oMQGsr-NXDV48Nw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-footer">👁️ 645 · <a href="https://t.me/naya_foriraq/81562" target="_blank">📅 05:21 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81561">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-text">تنويه هام
+تؤكد اللجنة المنظمة لمراسم التشييع أن التشييع الشعبي في محافظة النجف الأشرف سيبدأ عند الساعة السادسة صباحاً، انطلاقاً من مجسّر مستشفى الصدر باتجاه ساحة الصدرين.
+وعليه، فإن ما يُتداول حالياً عبر مواقع التواصل الاجتماعي بشأن انتهاء مراسم التشييع أو اختتامها لا أساس له من الصحة، إذ إن التشييع لم يبدأ بعد، وسيُقام وفق التوقيت والمسار المعلنين.
+وندعو جميع المواطنين ووسائل الإعلام إلى اعتماد المعلومات الصادرة عن الجهات الرسمية، وعدم تداول الأخبار غير الموثقة .</div>
+<div class="tg-footer">👁️ 1.36K · <a href="https://t.me/naya_foriraq/81561" target="_blank">📅 05:18 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81560">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/510cefa993.mp4?token=h5EotdR3gEm6uAvZ1SnU49Yturv-FAGr3QpFixUZ9mzWgB3jGPLRjCSthfmmr9q5tXiNHyH88yp0PGXb0I2iPMH7bjEVlkbF_TyyRFFO2l1GdnqP0Fya7Y6IaJmk9B7kC7fneFLsTunq_hJ0vxXp6ndTvYSgHUNsGxLPMTCWXNFt6c3kUA8RNdd7vNc3pZ879k83CBtl3ljp4YTfJDi5K3kbn61Lm2Dz8ZWqWTkOz8uLmvsBPRxUqA75NUKwZVJ-Yo1Uo93JzJ23TzwN3FD5vX15wKjKwQL_-L7RRUZwW9O6_oE--95Y3ioPcrDxjz8XzT8qcIHD7SxlvmbKHKIhNA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/510cefa993.mp4?token=h5EotdR3gEm6uAvZ1SnU49Yturv-FAGr3QpFixUZ9mzWgB3jGPLRjCSthfmmr9q5tXiNHyH88yp0PGXb0I2iPMH7bjEVlkbF_TyyRFFO2l1GdnqP0Fya7Y6IaJmk9B7kC7fneFLsTunq_hJ0vxXp6ndTvYSgHUNsGxLPMTCWXNFt6c3kUA8RNdd7vNc3pZ879k83CBtl3ljp4YTfJDi5K3kbn61Lm2Dz8ZWqWTkOz8uLmvsBPRxUqA75NUKwZVJ-Yo1Uo93JzJ23TzwN3FD5vX15wKjKwQL_-L7RRUZwW9O6_oE--95Y3ioPcrDxjz8XzT8qcIHD7SxlvmbKHKIhNA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+من بين الحرمين الشريفين في محافظة كربلاء المقدسة حشود مليونية تنتضر قدوم نعش السيد القائد.</div>
+<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/naya_foriraq/81560" target="_blank">📅 05:15 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81559">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/e9162ec4eb.mp4?token=gssbhwWzXnseoDlqZ0lwhNxAFo0ECvTVzMTxUr9gvNvaTCA4Yp2DteH92yDM3k_qRIVr0UYdWyNGlFjLw_I6XekV76omwILXCuy4GrH2toIzAEf_mMKrlrBVz7E0t-4Yb-2VNNJ286rtz4BTvOVXr3UWeF3E7CQqdw8zt9CLwwHgI_hkXHimhbrdKHKJ4ZIZd7Rjr3kX5L3Ld1eU8jFQR_AqVnRShcPIkPgMrfpHjKyhzR85vV9d-GVYcZNAzUJXYbXqe5Mgfp0Q6WN7kU8M4s5ptMXjyUUovqXP0X8pXJ0zxCRfYdjRmTMoLCwhwvdIEjo-e-ni7WUsL8wP-t6HEg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/e9162ec4eb.mp4?token=gssbhwWzXnseoDlqZ0lwhNxAFo0ECvTVzMTxUr9gvNvaTCA4Yp2DteH92yDM3k_qRIVr0UYdWyNGlFjLw_I6XekV76omwILXCuy4GrH2toIzAEf_mMKrlrBVz7E0t-4Yb-2VNNJ286rtz4BTvOVXr3UWeF3E7CQqdw8zt9CLwwHgI_hkXHimhbrdKHKJ4ZIZd7Rjr3kX5L3Ld1eU8jFQR_AqVnRShcPIkPgMrfpHjKyhzR85vV9d-GVYcZNAzUJXYbXqe5Mgfp0Q6WN7kU8M4s5ptMXjyUUovqXP0X8pXJ0zxCRfYdjRmTMoLCwhwvdIEjo-e-ni7WUsL8wP-t6HEg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+الحشود المليونية تنتضر اكمال زيارة النعوش الطاهرة لحرم جدهم الامام علي (ع).</div>
+<div class="tg-footer">👁️ 2.95K · <a href="https://t.me/naya_foriraq/81559" target="_blank">📅 05:09 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81558">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/f35c31313b.mp4?token=bMt7sXBictZPawcosfORnTG9nIq3GLuPC9KVwkjUaRld69vE25k-9tJG-zTNJ_-4QkXe-9vHW1MvmZQOBluR7BG2r6gvt52f3fXQu4A_bQdJRf2Z-4jSC-BLnn1lNSvnZCIPnhskuelcDylCvvls01y8XjH7HExqfolLdTehviGN0T7VB16jPsSxTiToxPT22RCfUank8zbgvNN7mmh1jqC1OpVACWXmDNDxIPAlXnYMusacCewUleBReZXfn84txkeGmY3iQcGBLn-rvL6HDtx6ATo39Bz93Q2RYw1XRbgapPCK2lnkGUlhVwORwmtLNlkOzQRN8QM-aMFXsovlRg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/f35c31313b.mp4?token=bMt7sXBictZPawcosfORnTG9nIq3GLuPC9KVwkjUaRld69vE25k-9tJG-zTNJ_-4QkXe-9vHW1MvmZQOBluR7BG2r6gvt52f3fXQu4A_bQdJRf2Z-4jSC-BLnn1lNSvnZCIPnhskuelcDylCvvls01y8XjH7HExqfolLdTehviGN0T7VB16jPsSxTiToxPT22RCfUank8zbgvNN7mmh1jqC1OpVACWXmDNDxIPAlXnYMusacCewUleBReZXfn84txkeGmY3iQcGBLn-rvL6HDtx6ATo39Bz93Q2RYw1XRbgapPCK2lnkGUlhVwORwmtLNlkOzQRN8QM-aMFXsovlRg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+بدأ زيارة النعوش الطاهرة لحرم الامام علي (ع).</div>
+<div class="tg-footer">👁️ 3.76K · <a href="https://t.me/naya_foriraq/81558" target="_blank">📅 05:04 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81557">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/ac7d25feb6.mp4?token=toyQrNw41w3V71FZuPYvLxzcv06UhZksnF_T4NnYqFUMIcfrHMFuA3hRgyj8xMERxzeloRovfQkYwjsqrs-ki5nP_qDFvzoWlVQ9gjHPCnJ9kV3ACI6anFMNRyBNISvR5NIrCxrAykI8agHZqHqL1T7I8LREFLoXfTHUDfHC-vWp2Iy3AACTI4POwGXplAhWSTkiUefZvVTvocyh7_2mlvvHO9RzwT2boSPAjEt2G2JYSL8AO9lavix-P1KWaSh0heSVoYfXNr0ZentibCLq1Nbebi-e5KpcDHdDyCv_1LWRmFw045ylVfJrY85Z-5u8yOPbQA0d6ZF--YuI2YrT7A" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/ac7d25feb6.mp4?token=toyQrNw41w3V71FZuPYvLxzcv06UhZksnF_T4NnYqFUMIcfrHMFuA3hRgyj8xMERxzeloRovfQkYwjsqrs-ki5nP_qDFvzoWlVQ9gjHPCnJ9kV3ACI6anFMNRyBNISvR5NIrCxrAykI8agHZqHqL1T7I8LREFLoXfTHUDfHC-vWp2Iy3AACTI4POwGXplAhWSTkiUefZvVTvocyh7_2mlvvHO9RzwT2boSPAjEt2G2JYSL8AO9lavix-P1KWaSh0heSVoYfXNr0ZentibCLq1Nbebi-e5KpcDHdDyCv_1LWRmFw045ylVfJrY85Z-5u8yOPbQA0d6ZF--YuI2YrT7A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+بدأ زيارة النعوش الطاهرة لحرم الامام علي (ع).</div>
+<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/naya_foriraq/81557" target="_blank">📅 04:56 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81556">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/510de80780.mp4?token=vrM0V1aT77KR9Y4o2I8jfNajIyjt8f-zB9yhqf3511TxMSm8LzsJpKj44QiT4qt1GhXi28SWCAxW2EL6M6dkd32DZUvTAOXXNXmLH-LkjfK5DDmacBhQR1Pge716XIp7aYnCauPrZDsGqrS6K_ZNmaaUpeEGKb4QJ_dq4JwYeYD-L7wIixK_BgDxV98D1s11BuRRaISYj_UhQDlTVN5Gk2E1GN1i-aLDsFqZqoYKqveP8r4dYx_MPkYySIrL47-F0HGUEwLHriad49nHKoMpHzO6HDTxpunXVkgBxQD205_6OoSEL3ufOUm6DV0ECKUqQ03kftqxgQSiFF5HOnfHvQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/510de80780.mp4?token=vrM0V1aT77KR9Y4o2I8jfNajIyjt8f-zB9yhqf3511TxMSm8LzsJpKj44QiT4qt1GhXi28SWCAxW2EL6M6dkd32DZUvTAOXXNXmLH-LkjfK5DDmacBhQR1Pge716XIp7aYnCauPrZDsGqrS6K_ZNmaaUpeEGKb4QJ_dq4JwYeYD-L7wIixK_BgDxV98D1s11BuRRaISYj_UhQDlTVN5Gk2E1GN1i-aLDsFqZqoYKqveP8r4dYx_MPkYySIrL47-F0HGUEwLHriad49nHKoMpHzO6HDTxpunXVkgBxQD205_6OoSEL3ufOUm6DV0ECKUqQ03kftqxgQSiFF5HOnfHvQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+أرض العراق تفتح ذراعيها لاستقبالك... والقلوب سبقت خُطا المشيعين.</div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/naya_foriraq/81556" target="_blank">📅 04:54 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81555">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/bb34f17673.mp4?token=hBcjFBpIGoXw95xuIIqnHx1XzKCyBuu9tUuCqOZBf1mii4CmG863KATKXTDN6CUQ2OnurMOoudskJWGjwrvvLWNFZagonV8d8VmLYT-DPTqNRLOg3cdxkgn-Obq1z-kl-CVxLR7EGldd2hxkjfE62nAU7Zy3kvM0Br7GTFHnEhbi5gyhX4IxVKTpmprU4MZs2_AG5rWtAPG675PsDLny-0B6XbV4Gpvhm1nDPbZ0GDTFD4XhOdwsQPW67ktrtxxkiUjwWMHn8PEO3JN3WNKPUkqdBaaI4JwiolCk_qvw4buuBLlmsvDbP5XjaTrQQd22wMlCn4_1HF9dHaiVsQHdSQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/bb34f17673.mp4?token=hBcjFBpIGoXw95xuIIqnHx1XzKCyBuu9tUuCqOZBf1mii4CmG863KATKXTDN6CUQ2OnurMOoudskJWGjwrvvLWNFZagonV8d8VmLYT-DPTqNRLOg3cdxkgn-Obq1z-kl-CVxLR7EGldd2hxkjfE62nAU7Zy3kvM0Br7GTFHnEhbi5gyhX4IxVKTpmprU4MZs2_AG5rWtAPG675PsDLny-0B6XbV4Gpvhm1nDPbZ0GDTFD4XhOdwsQPW67ktrtxxkiUjwWMHn8PEO3JN3WNKPUkqdBaaI4JwiolCk_qvw4buuBLlmsvDbP5XjaTrQQd22wMlCn4_1HF9dHaiVsQHdSQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+أرض العراق تفتح ذراعيها لاستقبالك... والقلوب سبقت خُطا المشيعين.</div>
+<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/naya_foriraq/81555" target="_blank">📅 04:49 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81554">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/766b183c64.mp4?token=WZJ6iqjLM07Ly3h3g_JEnaAd8Goojf7jkF7Mcp99EPENbJh4m_qTJc6m6ugtmKz3rFDVJdEpRkIm1K72lnKZpBtM9IncoJIq9Iy0M7tenqzffr6Kb5EAOU5yUOYQ4VIWlVWK90jAvO8SPjPwf0_5z5IEGMUwixGxdxwitRVDwaz_eJTKUdNueLYyuNlYU0W34fSVHTVgIqiY_VmqTfh4iXMP3USY3dtzaFjYE4ikYkSLOED88lXwdqos-uD3rLkK1BM8SkbswGyF-AEL4BJxGwu4ShidInFvrMLOFFo7f_90a5OLHU6OxPzEqsEVN0YMkU01VTbncOVnybV5BYivhg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/766b183c64.mp4?token=WZJ6iqjLM07Ly3h3g_JEnaAd8Goojf7jkF7Mcp99EPENbJh4m_qTJc6m6ugtmKz3rFDVJdEpRkIm1K72lnKZpBtM9IncoJIq9Iy0M7tenqzffr6Kb5EAOU5yUOYQ4VIWlVWK90jAvO8SPjPwf0_5z5IEGMUwixGxdxwitRVDwaz_eJTKUdNueLYyuNlYU0W34fSVHTVgIqiY_VmqTfh4iXMP3USY3dtzaFjYE4ikYkSLOED88lXwdqos-uD3rLkK1BM8SkbswGyF-AEL4BJxGwu4ShidInFvrMLOFFo7f_90a5OLHU6OxPzEqsEVN0YMkU01VTbncOVnybV5BYivhg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+يا سيدي حملناك على الأكتاف كما يليق بمقامك فمرحبا بك في أرض أجدادك.</div>
+<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/naya_foriraq/81554" target="_blank">📅 04:42 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81553">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/ea5c946de0.mp4?token=G2MTT94VzWdmLBSPhl0kMoS5argjpvJv0c_rlY0TqzkHVhIAInPCyo-uOMfRXdSLOGy-rTa5nneCQ46xwSsneyJJJs9tzOlcVmOW54CN0Z8e4WWDTCO-UHbVy8rStFb6G7bqCDqVz_fKL4epXr19iGQUSY8NJZ813y_Kk5FW0iSOPk_j-6rvY6TpmfMYXfOPiL_pu9U8_1qxWzwVBvPPbkUBeSakm5EnrsH3EqOKO3rVuiP4RIVEb_lY-0gxZFlmtYzeLClmoiHAom0ZeZb0BzrZ6oBtTavIinrU7FbA3Zh5vTmmuPYwfcy98nGSdcXzK1Z8VKPkFkI_Dq5v3la0bQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/ea5c946de0.mp4?token=G2MTT94VzWdmLBSPhl0kMoS5argjpvJv0c_rlY0TqzkHVhIAInPCyo-uOMfRXdSLOGy-rTa5nneCQ46xwSsneyJJJs9tzOlcVmOW54CN0Z8e4WWDTCO-UHbVy8rStFb6G7bqCDqVz_fKL4epXr19iGQUSY8NJZ813y_Kk5FW0iSOPk_j-6rvY6TpmfMYXfOPiL_pu9U8_1qxWzwVBvPPbkUBeSakm5EnrsH3EqOKO3rVuiP4RIVEb_lY-0gxZFlmtYzeLClmoiHAom0ZeZb0BzrZ6oBtTavIinrU7FbA3Zh5vTmmuPYwfcy98nGSdcXzK1Z8VKPkFkI_Dq5v3la0bQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+حمل نعش حفيدة السيد القائد علي الخامنئي.</div>
+<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/naya_foriraq/81553" target="_blank">📅 04:39 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81552">
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/1b8c2207f7.mp4?token=RwfrwlX2WVoqkWygVuHmXN3-mC2vs6m_m_QB3I0aek5gvr1YpDbbyiLfIq8LvJSrGh5iQrcNSTDthKLvpRQnwbTrCcFBCu2xxNR5ac5mcStRffp3p3_vQUG16QvWyDHNOPvE2r3XPKSmCPwQU7R-EKctMh8TiesH9ukZSR_Wd5qJVT2q-n15K-7qQelnslUZ2Zxe9GBCWf95h5Sk_K3hu1ft7UcOfsfDlzMpOtJGJ1cIPJIK02-tCaGeZnFVsSYJyc2zeTX7DTBxQD0-wL-LSIOum4rWa6-2zVAJ2W9v0B97kdr2fKpZfNRNbZ7MPt61_f2H0-qzpH7FdAo0KpLsPA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/1b8c2207f7.mp4?token=RwfrwlX2WVoqkWygVuHmXN3-mC2vs6m_m_QB3I0aek5gvr1YpDbbyiLfIq8LvJSrGh5iQrcNSTDthKLvpRQnwbTrCcFBCu2xxNR5ac5mcStRffp3p3_vQUG16QvWyDHNOPvE2r3XPKSmCPwQU7R-EKctMh8TiesH9ukZSR_Wd5qJVT2q-n15K-7qQelnslUZ2Zxe9GBCWf95h5Sk_K3hu1ft7UcOfsfDlzMpOtJGJ1cIPJIK02-tCaGeZnFVsSYJyc2zeTX7DTBxQD0-wL-LSIOum4rWa6-2zVAJ2W9v0B97kdr2fKpZfNRNbZ7MPt61_f2H0-qzpH7FdAo0KpLsPA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+حرم أمير المؤمنين (عليه السلام) يحتضن الصلاة على الجثامين الطاهرة للإمام الشهيد علي الخامنئي وعائلته.</div>
+<div class="tg-footer">👁️ 5.62K · <a href="https://t.me/naya_foriraq/81552" target="_blank">📅 04:38 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81551">
+<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/55db15f31d.mp4?token=LOjl7sp_fFtH-XPwr-wh3m031uP8XMBL_OrSpelmtUBjW-z237N9bXO2Ebx3e9FDUXlSc0udIXMCpS7DxXDiRBQYfsAZlV4kRtmDK51LYNzPrY-ikKAkqn2GyNkP19XLQvYSBh97ykbnEuk_pzeIo2hYxvNFlbNdpMoxb9T-aBcKC3tyaQ8Bihh-aW1R8Zp0mGcH-NA4_t-YHc3skISndF_fu8b6z3Pit70y6Gqy6TeSHFVNvsq9umd_eowdJStxfkhduBEHuzdaMnovcY1weRmPjheBKLNG82_sbam_9AKvLQsc3jXGMiuTgTz00WFGS49SZ2uhxaiWqFxJrcDd3Q" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/55db15f31d.mp4?token=LOjl7sp_fFtH-XPwr-wh3m031uP8XMBL_OrSpelmtUBjW-z237N9bXO2Ebx3e9FDUXlSc0udIXMCpS7DxXDiRBQYfsAZlV4kRtmDK51LYNzPrY-ikKAkqn2GyNkP19XLQvYSBh97ykbnEuk_pzeIo2hYxvNFlbNdpMoxb9T-aBcKC3tyaQ8Bihh-aW1R8Zp0mGcH-NA4_t-YHc3skISndF_fu8b6z3Pit70y6Gqy6TeSHFVNvsq9umd_eowdJStxfkhduBEHuzdaMnovcY1weRmPjheBKLNG82_sbam_9AKvLQsc3jXGMiuTgTz00WFGS49SZ2uhxaiWqFxJrcDd3Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+حشود مليونية تنتضر قدوم النعش الطاهر للسيد الولي في محافظة النجف الاشرف.</div>
+<div class="tg-footer">👁️ 5.61K · <a href="https://t.me/naya_foriraq/81551" target="_blank">📅 04:36 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81550">
+<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/c0234d7ef6.mp4?token=Z5YsNxi8faR6NQtF370IGrQaICmefKpe73-Oama7vUaGozKjmlKXy4Q02-Fa3sIk74hHR4PeRT7uOgFoDd27XPd1FOfoPZit2mePDjK1_Lo0wrVnzYgPAqeT6L7rwO9e5qT60wp0Z-kMOCN-qSyQxYvode_Hsxu8Ywc7Ht7gmdL98KhS0bsxIH_DAPpKx5tqutmXWT0BswH1NhTX6GkfETd3v7RFRmzzA-ss3OK0IHCUvAWoVTLZjeIZ7n3lAbwPZvceoEVjvZgxqFtnl3xPx-6wROMJldjwQw6exA5K1IGI37tV4sCzYNph969OTeNqmLpbeZHEP-_e3QHdxZYZ2A" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/c0234d7ef6.mp4?token=Z5YsNxi8faR6NQtF370IGrQaICmefKpe73-Oama7vUaGozKjmlKXy4Q02-Fa3sIk74hHR4PeRT7uOgFoDd27XPd1FOfoPZit2mePDjK1_Lo0wrVnzYgPAqeT6L7rwO9e5qT60wp0Z-kMOCN-qSyQxYvode_Hsxu8Ywc7Ht7gmdL98KhS0bsxIH_DAPpKx5tqutmXWT0BswH1NhTX6GkfETd3v7RFRmzzA-ss3OK0IHCUvAWoVTLZjeIZ7n3lAbwPZvceoEVjvZgxqFtnl3xPx-6wROMJldjwQw6exA5K1IGI37tV4sCzYNph969OTeNqmLpbeZHEP-_e3QHdxZYZ2A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+حشود مليونية تنتضر قدوم النعش الطاهر للسيد الولي في محافظة النجف الاشرف.</div>
+<div class="tg-footer">👁️ 5.99K · <a href="https://t.me/naya_foriraq/81550" target="_blank">📅 04:32 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81549">
+<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/9c046fea80.mp4?token=jDQoNRETZ3Qae6d6D3LhH_bVUpu52vRRmUsNpJR8qegUBT2e3kB-1lHU3boXyW4e9B7PdZv1ep5UpZwskYQhOimEOcOtXDFo-1WfNI7AeGV-k_hGByjggBBF_y6gDSmPJ53j1aJZuURC-r6oMxyO1N2Alp4VBUYt_576AWZ8S3Uykl70aiMM5wEwaDrzO_2b9fV2ZSy7D6wSfbLzE_a465Mq-jIzRGBr6MgNaCCug3brKODW-GcU8QXBK3Jep_WN7F89QYagoj0bSK5S8Sh7PhurOKUYhQwTD-zvEegsCi0typf6cybVyuqP2egfQq4EmyvYUE_AMU5XCv3Wc_tNPw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/9c046fea80.mp4?token=jDQoNRETZ3Qae6d6D3LhH_bVUpu52vRRmUsNpJR8qegUBT2e3kB-1lHU3boXyW4e9B7PdZv1ep5UpZwskYQhOimEOcOtXDFo-1WfNI7AeGV-k_hGByjggBBF_y6gDSmPJ53j1aJZuURC-r6oMxyO1N2Alp4VBUYt_576AWZ8S3Uykl70aiMM5wEwaDrzO_2b9fV2ZSy7D6wSfbLzE_a465Mq-jIzRGBr6MgNaCCug3brKODW-GcU8QXBK3Jep_WN7F89QYagoj0bSK5S8Sh7PhurOKUYhQwTD-zvEegsCi0typf6cybVyuqP2egfQq4EmyvYUE_AMU5XCv3Wc_tNPw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+حرم أمير المؤمنين (عليه السلام) يحتضن الصلاة على الجثامين الطاهرة للإمام الشهيد علي الخامنئي وعائلته.</div>
+<div class="tg-footer">👁️ 7.23K · <a href="https://t.me/naya_foriraq/81549" target="_blank">📅 04:19 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81548">
+<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/26ecdec096.mp4?token=ZOmxv4j_AhFlWboFJI4HvIyR4QiY3NAgfZdyYEnPehTCoUMiysm6E44sEXL3qVxlhVrRN4gxFdHWxxyYdQVk4ollpzRT7r-sMnZdCqrvCE_-48g1krrQCXzXNuRxjiMsFzHs-bGTlXTpUK-9dzglNqWtqdCroRVENoB3ZLgOQ5z1BhMsfgZ8XZ9bsbPXVdaARQLQmeET3gY5QdYyC6PUEnvSpMYyEldgpvp7zKn_7pIP2Byv8WdclWXHMLuxTLj4Ga3oUu3gzWFp71hfVHH6z55UeRXJ6OD0AspKl-Cs-QjnLRZLp7gSCmfHO0MQ70_3mLnLorJDkMnlEGa4fHik_w" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/26ecdec096.mp4?token=ZOmxv4j_AhFlWboFJI4HvIyR4QiY3NAgfZdyYEnPehTCoUMiysm6E44sEXL3qVxlhVrRN4gxFdHWxxyYdQVk4ollpzRT7r-sMnZdCqrvCE_-48g1krrQCXzXNuRxjiMsFzHs-bGTlXTpUK-9dzglNqWtqdCroRVENoB3ZLgOQ5z1BhMsfgZ8XZ9bsbPXVdaARQLQmeET3gY5QdYyC6PUEnvSpMYyEldgpvp7zKn_7pIP2Byv8WdclWXHMLuxTLj4Ga3oUu3gzWFp71hfVHH6z55UeRXJ6OD0AspKl-Cs-QjnLRZLp7gSCmfHO0MQ70_3mLnLorJDkMnlEGa4fHik_w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+العجلة التي تقل جثمان السيد القائد علي الخامنئي وهي تتجه الى الصحن العلوي الشريف لبدأ مراسيم التشييع الرسمي في محافظة النجف الاشرف.</div>
+<div class="tg-footer">👁️ 7.7K · <a href="https://t.me/naya_foriraq/81548" target="_blank">📅 04:12 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81547">
+<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/8e22e40a6a.mp4?token=cTOD2gakEX4I-IzL1Ln1riIfhPZAJZL-PSAhWQjh6Z9qY_zzOsOYsMxvIiHKrJEc-hYyeLPPulH4ogWfzmr7tic3WBXN8p15RfjuiX6HKZCYOrWqJiecEXDDW-9js3Eoou6cLMLUn3Vsb9J7y3BXB_1I57x2RqwBmNfcaDGciOYcaRZFqwBezn5SAe-wYHMjL0k5ZC08TywgzC_mHyk6wQrQe6tT0xRPLmbsMYRMzcKOTXd4DNnPUL90rHh7pi37Lf5ZcFJNCME2mto1yptO2Yg0h5arM2JxggKZCUOE-yPJEvNWWT0kn1sHAqw2dMi4Tda55EUwlq4Szv05y4IwtA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/8e22e40a6a.mp4?token=cTOD2gakEX4I-IzL1Ln1riIfhPZAJZL-PSAhWQjh6Z9qY_zzOsOYsMxvIiHKrJEc-hYyeLPPulH4ogWfzmr7tic3WBXN8p15RfjuiX6HKZCYOrWqJiecEXDDW-9js3Eoou6cLMLUn3Vsb9J7y3BXB_1I57x2RqwBmNfcaDGciOYcaRZFqwBezn5SAe-wYHMjL0k5ZC08TywgzC_mHyk6wQrQe6tT0xRPLmbsMYRMzcKOTXd4DNnPUL90rHh7pi37Lf5ZcFJNCME2mto1yptO2Yg0h5arM2JxggKZCUOE-yPJEvNWWT0kn1sHAqw2dMi4Tda55EUwlq4Szv05y4IwtA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+جموع غفيرة في صحن العلوي الشريف تنتضر قدوم السيد القائد علي الخامنئي(رضوان الله عليه).</div>
+<div class="tg-footer">👁️ 8.33K · <a href="https://t.me/naya_foriraq/81547" target="_blank">📅 04:03 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81546">
+<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/76bcc2bbee.mp4?token=Iq6qy8oTitaVdiA7ALvx4ilXLmiyCcRvYLBWWuOztfSLXyC6us_wYwYJ1YaDr8KrnRn6QoGevqttB4oLOkenwjKk7orOsmyN5CwYvOIADdHRhE_BjywZcScOxeKW13aOoZfWaG5GSLYBMPsyQa4bzhrpmGm4WAvD9ob64NrQ0RS6gGnbBIZmm5L6oAZwb2ITePYo9Qxp9MTcgC7Onc_NIa4CKWgNniwDO6wBolfntrGZh78zgy9WjfliLB2Gp0iPmMRKHW1QgU9cSQoMEzUhDdAIqpvX_5XTUm0C6USCPoNfPLp4WWN6JTrkFK5sk4oZXP_s8nfftDxhMLz7N_kfRQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/76bcc2bbee.mp4?token=Iq6qy8oTitaVdiA7ALvx4ilXLmiyCcRvYLBWWuOztfSLXyC6us_wYwYJ1YaDr8KrnRn6QoGevqttB4oLOkenwjKk7orOsmyN5CwYvOIADdHRhE_BjywZcScOxeKW13aOoZfWaG5GSLYBMPsyQa4bzhrpmGm4WAvD9ob64NrQ0RS6gGnbBIZmm5L6oAZwb2ITePYo9Qxp9MTcgC7Onc_NIa4CKWgNniwDO6wBolfntrGZh78zgy9WjfliLB2Gp0iPmMRKHW1QgU9cSQoMEzUhDdAIqpvX_5XTUm0C6USCPoNfPLp4WWN6JTrkFK5sk4oZXP_s8nfftDxhMLz7N_kfRQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">من الصحن العلوي الشريف</div>
+<div class="tg-footer">👁️ 8.34K · <a href="https://t.me/naya_foriraq/81546" target="_blank">📅 03:58 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81545">
+<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-text">جمهور كتائب حزب الله في العراق يستمر بالتوافد نحو محافظات العزاء</div>
+<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/naya_foriraq/81545" target="_blank">📅 03:47 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81544">
+<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/a7e56111a2.mp4?token=gBGav3I_beC6PcoUvjCEbYHEhQDA0Ef0csv6Ac8pkt_uOSCYhOEZTd2Evm0wRLBaIcS6Y3XXuOcQdmBiaXKeU1-kfDQhBDi2jLKWKLoE0WD1bEdez9iiMWuP5_xvt1Hvg21mJG9byyD_uDHdzLJPLzzPy4wvDRrOTcLwznjy_TSBj-kW4S-JoTN9tk6TjhmbwqqmVrHcHdVTQOr55cx3UCsv5TbjILLnrppUxvhNmnmckwi7iMGPvYUwc2UJPGYHI8wvQUbHllQKEKbIug03_L1v692W9vqAVpxZDVUunq1c76uaUI-TGOkzvmfPmpw0_71t4LDhSGMgpWqlIwGqTg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/a7e56111a2.mp4?token=gBGav3I_beC6PcoUvjCEbYHEhQDA0Ef0csv6Ac8pkt_uOSCYhOEZTd2Evm0wRLBaIcS6Y3XXuOcQdmBiaXKeU1-kfDQhBDi2jLKWKLoE0WD1bEdez9iiMWuP5_xvt1Hvg21mJG9byyD_uDHdzLJPLzzPy4wvDRrOTcLwznjy_TSBj-kW4S-JoTN9tk6TjhmbwqqmVrHcHdVTQOr55cx3UCsv5TbjILLnrppUxvhNmnmckwi7iMGPvYUwc2UJPGYHI8wvQUbHllQKEKbIug03_L1v692W9vqAVpxZDVUunq1c76uaUI-TGOkzvmfPmpw0_71t4LDhSGMgpWqlIwGqTg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+جميع اطياف المجتمع العراقي يشارك في تشييع السيد الولي الفقيه بمحافظة النجف الاشرف.</div>
+<div class="tg-footer">👁️ 8.83K · <a href="https://t.me/naya_foriraq/81544" target="_blank">📅 03:45 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81541">
+<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Td5e-sYChRgKUmU9g25m6kDRJbNtFckdc8HzFiNzzz__mTDBARbS2UDuvlvtXJeUb07eGDMe-ietludtm-q9ptHxWRM599RnoQgJZC1M5FsVw2RNunsY2vUQuvdimt310h4vxSSBbld_TFyfXoxVv5qmAeWB-q-WiVfweTqilZYUYGoU6T-7X0eTLOaxgws-GRzzJZSILZdGcQOkYdC5_jogOBUzd7eLXeiKnkXK5tFfkCMCebMoR1QTnhf08M4oH_FAGK5gmDfB0aPvAP6pPfGCKxq4tJbgWC-0G5OJcrxzZ2-wBcUs9rCrWrtpQs8NQ7EYBNxDp3y23HbmYJ21Sw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/nYdbjimawa7BIzg4TYAAqV_gzPV2hdGZK3QpcjnDiFkqg26bESWi5p22rjGFx4b3X-6ZuxQcD3AAx5wHezUXFJARfq4Msl38gfK-EiFDKyeE4Syig-Hf26R9pxIC3CKAam5O-MulscEpnKwI_E_RcymC0RCnoqcSuE-pvcf4ByGI9jWNl8FvE6rxZpFqRuuj0RJdmfyrKgb9EDLQ0YNlnKg1Ck1kL9Gi-1jp226Pw2ibIFuQA9WT0kysA-E1HD6lE9hDapJ4UF8Y1I40B3RdkFitZCsfcQGSCF8UU1pM_cQBPkvqh_aXH-_0sYXgoZI22GFmswCIl42D7_drtejtDg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/WYbM2KJgh3WvWbzOaFarNoJGuP_eRWTZVUp1OCiVEkh4zq2Gwj-O8kaAAic5Cy1uUG5e1X1WiCidU0ecYLBopE3wDLnSXNhPLCP59IAP6Oah7WGvumMbwJVY-XH5U33aNg7D25__WZ3SsWZUcsEwCy7-13liGga2YS_hDbASqh7tMD76e9PpDiETgvDc43kYyxh5AmnFHDQmIhp55zsS08TFznFOLYr3tgxoKNIhmjXEGo1z-ZzqRAsPMOXbcvqhgyGZzWk_Q-2APETU0eFY7aTs9LKF4oZJTSfnihoDT9R0UAI-5zcOATGZsoKC13252EE2JhZcg590CGBN4GkEiw.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+أهكذا يصنع العشق بأهله؟ مواطنون عراقيون يفترشون طرقات محافظة النجف الأشرف انتظارًا لموكب تشييع السيد علي الخامنئي.</div>
+<div class="tg-footer">👁️ 8.47K · <a href="https://t.me/naya_foriraq/81541" target="_blank">📅 03:45 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81540">
+<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-text">🇮🇷
+🌟
+عقب العدوان الأمريكي على إيران.. الرئيس الإيراني مسعود بزشكيان يغادر العراق متوجهًا إلى إيران.</div>
+<div class="tg-footer">👁️ 8.12K · <a href="https://t.me/naya_foriraq/81540" target="_blank">📅 03:42 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81539">
+<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/20d8bbcecc.mp4?token=P6TFbEg7cFQDhG7_ChmXSp_SmxuEw-NfFlgs6QT7kZN23eabvwujwZ85US1RtOfX3558d-roVNZ27AZXlWa7PkECFAj6kvfSGf3v8WflOUuk7WDPPXJ-rwvSdkgY0cmeVv5Wdr2Ei8Qo9aK9PckqVvqFu2XMghb3DD3jAmm2Ji_b8F4WxgKu4u-5Puv0pcy6IUE-AoJkoU7bU407kZgcQmkmA0Bi6b4Fy1QDMgFZQo4opSjsWgWBB43YXBszfWFlN3VwpIO46Z7MeHNMc2L5s5KunCEsl5Bz_cp15Q7LL0EH6rTKz6IgLEdA5auzJrrfRN_avt_zFesfHnPIu2aTDw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/20d8bbcecc.mp4?token=P6TFbEg7cFQDhG7_ChmXSp_SmxuEw-NfFlgs6QT7kZN23eabvwujwZ85US1RtOfX3558d-roVNZ27AZXlWa7PkECFAj6kvfSGf3v8WflOUuk7WDPPXJ-rwvSdkgY0cmeVv5Wdr2Ei8Qo9aK9PckqVvqFu2XMghb3DD3jAmm2Ji_b8F4WxgKu4u-5Puv0pcy6IUE-AoJkoU7bU407kZgcQmkmA0Bi6b4Fy1QDMgFZQo4opSjsWgWBB43YXBszfWFlN3VwpIO46Z7MeHNMc2L5s5KunCEsl5Bz_cp15Q7LL0EH6rTKz6IgLEdA5auzJrrfRN_avt_zFesfHnPIu2aTDw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+جميع اطياف المجتمع العراقي يشارك في تشييع السيد الولي الفقيه بمحافظة النجف الاشرف.</div>
+<div class="tg-footer">👁️ 8.37K · <a href="https://t.me/naya_foriraq/81539" target="_blank">📅 03:40 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81538">
+<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/a6850587fe.mp4?token=jZU3eljyJ_PW6kzZijyGBVM5q_1L1NwtUTD0JdcGlC-JEfYB-lrKGUhpKAVZuyV_rHc_JQb3aHOlYGEdf9Taez3Whe5PUCwLIcm0O9G2IZDtj8IaTuT97Vxx7afrZRA0zwoTKq_z1gWgrjc-dbqFRMCXdahUD7lBdS6CaewpfM5KSvMVSAuQkHjnzhT4jCkHmQDoN5VUZesem6zJiW8Xcu0nPHoZTVsajEJ3GfirowHNVrejlk4Idvao__AxzKKyj-rfAdvlK7wSfFM4A9DXDcW45B727epIN-kparA8Mm-AGypTQ9wZy41rh1QeL1oTpHap16bv27ZN6RVHxIRXVYi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/a6850587fe.mp4?token=jZU3eljyJ_PW6kzZijyGBVM5q_1L1NwtUTD0JdcGlC-JEfYB-lrKGUhpKAVZuyV_rHc_JQb3aHOlYGEdf9Taez3Whe5PUCwLIcm0O9G2IZDtj8IaTuT97Vxx7afrZRA0zwoTKq_z1gWgrjc-dbqFRMCXdahUD7lBdS6CaewpfM5KSvMVSAuQkHjnzhT4jCkHmQDoN5VUZesem6zJiW8Xcu0nPHoZTVsajEJ3GfirowHNVrejlk4Idvao__AxzKKyj-rfAdvlK7wSfFM4A9DXDcW45B727epIN-kparA8Mm-AGypTQ9wZy41rh1QeL1oTpHap16bv27ZN6RVHxIRXVYi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">كاميرا نايا
+تجري لقاءات صحفية مع المواطنين في محافظة النجف الأشرف التي تحولت لأكبر تجمع بشري للتشيع جثمان السيد القائد</div>
+<div class="tg-footer">👁️ 8.58K · <a href="https://t.me/naya_foriraq/81538" target="_blank">📅 03:31 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81537">
+<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/07ae3e981d.mp4?token=T1fVGHcv7es1moGODP8VqoFXWJ4a_jOYtflQanlqRXKQqu2z4pyw7qinSpa2gwGODlqOX_rudz4xpO2lmNvtEO4xtq_oFRKC-JHKK60v_aYDweac57UZ-5NveCdnu-rpz_izh6L9BhORR4AcFy5UbfZUTW_CUsmIwPLut_GUjcr04UNFMpTHNk00oFcC7hNZj9gDISQR4gVNVqEggmFxbU_lV4i5HWEIgtnTINiSCyVdlbRFIQg1J2hOzdvm5lUepF4aArtww_mLLQMJBDYIU8g3YtQJ_djrsPNmPjGpK4sdGEaMtwsI3Pqcruj-LX3V5-GimZ9RrcTLeCpHrjZ3mDzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/07ae3e981d.mp4?token=T1fVGHcv7es1moGODP8VqoFXWJ4a_jOYtflQanlqRXKQqu2z4pyw7qinSpa2gwGODlqOX_rudz4xpO2lmNvtEO4xtq_oFRKC-JHKK60v_aYDweac57UZ-5NveCdnu-rpz_izh6L9BhORR4AcFy5UbfZUTW_CUsmIwPLut_GUjcr04UNFMpTHNk00oFcC7hNZj9gDISQR4gVNVqEggmFxbU_lV4i5HWEIgtnTINiSCyVdlbRFIQg1J2hOzdvm5lUepF4aArtww_mLLQMJBDYIU8g3YtQJ_djrsPNmPjGpK4sdGEaMtwsI3Pqcruj-LX3V5-GimZ9RrcTLeCpHrjZ3mDzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">قوموا لله يا شعب العراق العظيم.. السلام على رجال الحشد الشعبي وفصائل المقاومة العراقية البطلة</div>
+<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/naya_foriraq/81537" target="_blank">📅 03:28 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81536">
+<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/c197ab9d7d.mp4?token=k5bZekLMlLIo5MG5cSTzCZAFEGImSsogZx7nauF7efx8o8Xj0nnPsw-grBIyymrf75hQOtE1EarEZgmoYPWe48lsWyXTVLDrWKvZbC2H8blpwYVAnUKLwMveo2ysGKIlPD9bJuQRiIGWVs8N_B4Jbgs-BZ1RHl5ZVPVg3rXMZsR5kAYv18pvic8wVSwQswVDfcErZjqathvKptLBNxF2W4joLCOybftIjwyAKs2xZJ-AkUXSJUA3STJsmQg_qgVa8wUC_v7yNSft5563kSzO6zt8TYWEs0FCypZRt_WIYW4OdeooS6KTwvDSIdhcKaL5Yr4liBFK0EQaAycDA9jMPg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/c197ab9d7d.mp4?token=k5bZekLMlLIo5MG5cSTzCZAFEGImSsogZx7nauF7efx8o8Xj0nnPsw-grBIyymrf75hQOtE1EarEZgmoYPWe48lsWyXTVLDrWKvZbC2H8blpwYVAnUKLwMveo2ysGKIlPD9bJuQRiIGWVs8N_B4Jbgs-BZ1RHl5ZVPVg3rXMZsR5kAYv18pvic8wVSwQswVDfcErZjqathvKptLBNxF2W4joLCOybftIjwyAKs2xZJ-AkUXSJUA3STJsmQg_qgVa8wUC_v7yNSft5563kSzO6zt8TYWEs0FCypZRt_WIYW4OdeooS6KTwvDSIdhcKaL5Yr4liBFK0EQaAycDA9jMPg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🇮🇶
+🇮🇷
+جميع اطياف المجتمع العراقي يشارك في تشييع السيد الولي الفقيه بمحافظة النجف الاشرف.</div>
+<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/naya_foriraq/81536" target="_blank">📅 03:25 · 17 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-81535">
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/f8913959e9.mp4?token=G5p_d-OQvbXVxjyKcr3-S6TQW6G1f5wicQaTRzFKlnCS9A7uLIER76K6623NIIoHlyo_nj-s_iHAAlv9J0mKoAw0wxhJ5Tqv4A8HbN6PPEtvyARWRgqlIX6vRWwQe0pB4NldPe06X1DDccEmoQvfxUr3ERNIBNESw9KRfqJfkDrdfHq_EzudvnU_lPyHX5gGLxmogSienFQnajF19eNtOH1_HWtsd6dN07tbWdmbGjx3EepJo12KZBaZbYREfnKxM_qWkW_VZ0V662xSQtkOHLuKA7IhDDUmTcxcbS4V48D5gAojhzZIJqcfL1eEQmQHe3sWFZsgamZtkmT8MmAn5Q" type="video/mp4">
@@ -307,11 +650,11 @@
 <div class="tg-text">🇮🇶
 🇮🇷
 تتردد الأهازيج الجنوبية العراقية بين العتبتين المقدستين رثاءً للسيد الولي وسط جموع المعزّين.</div>
-<div class="tg-footer">👁️ 604 · <a href="https://t.me/naya_foriraq/81535" target="_blank">📅 03:18 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.11K · <a href="https://t.me/naya_foriraq/81535" target="_blank">📅 03:18 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81533">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1cb19c1f2e.mp4?token=YT8uWrNt1wRrm8gwBUFIwi78ZqaCoBxwjJZiTyOnEe5W7coGhbjyGw2Xuh_F1koKJEF2kGrF275axzoe2L6t-Ne70EciCMUfZL_Y9c3_VPhLKf1U_ejYVruJu50u2LAR-84QomchrZ3L8BzwtJzv2QXzk2KI_qCFrlqBrboGKvHUiQ7pe6xel8z2MVgVAYYrZGqEsUimb-d4BH5kmfai0jPCgCKHbEv-2dVL5-YodYAbul50o_CiEKIWOd4NLH84xsR5akBPkn2dcIYIwy5XxVy9NVTGDBWJ91T3C2tIFfzvivva1wiB6qcqYDtpgRp316r-VnSzcu3ptHbZDS1Keg" type="video/mp4">
@@ -322,19 +665,19 @@
 <div class="tg-text">🇮🇶
 🇮🇷
 أهكذا يصنع العشق بأهله؟ مواطنون عراقيون يفترشون طرقات محافظة النجف الأشرف انتظارًا لموكب تشييع السيد علي الخامنئي.</div>
-<div class="tg-footer">👁️ 1.49K · <a href="https://t.me/naya_foriraq/81533" target="_blank">📅 03:14 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/naya_foriraq/81533" target="_blank">📅 03:14 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81532">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZJvh6vm0yQDYIfRpmZGc1TthH7kzpiLv2o5UEPTzYcTXmGBCxs-QFeFoOdLTL80RsazUtBiqGFAZMIOHcKMn2-Bl3O5I4S4dO1KHTt38CKP2KDekXbvdxLVHZ7Albo7ZbUWci2BxreqYn8HSq6-HVx1ALPRdTmu88ezVlupMU9GeQjg-RZVpmXxZOm38pFC0SrdBWd6UX1xlPp5D8uWveNcD7cQ_E7dVZPUHUXjq2yTmy4ZndVT2ZhvzYr0WSkjxE_jfVXQIU6nwNxl8ORXLthF_RMsBdljH-t0p_vTPgAqQlq42jod030JR0R8g67EXsfuSxTinqHtehkyNB3ZMBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭐️
 لافتة "اقتلوا ترامب" ترفع في حرم أميرالمؤمنين عليه السلام بالنجف الأشرف.</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/naya_foriraq/81532" target="_blank">📅 03:11 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.67K · <a href="https://t.me/naya_foriraq/81532" target="_blank">📅 03:11 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81531">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/2547fabe80.mp4?token=HEJK8Oo5GUs94PZm22TY6rC8CaC891R5S5JwLStHIntBFwMXjehqgjKDRXMRclLR6QUPXf-rAsrq-jOW_6ZBtoiTsDST2ApOGvxbmd02g6zQ7v5U3NrmmJPFlm2bwjLJxxUr4zrklFk79YP8-Gymz5XCuIdujazunFoOQAx4KuPWJY1Hj58XwoZy4nxJntAYzHwuI0McrAfESkqhoenVZrCiqtEU2ATNdwZS8bA902MNOD1r3sjQaAv3RcxzCACYd_F4SpbccecIjw2Lv-YFQr-nhXz_28h7a_kOA71hMQ4gkgzduqUSDDMOwohHyIBo2isEpf2buvqDODROkGjtgg" type="video/mp4">
@@ -344,11 +687,11 @@
 </div>
 <div class="tg-text">⭐️
 لافتة "اقتلوا ترامب" ترفع في حرم أميرالمؤمنين عليه السلام بالنجف الأشرف.</div>
-<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/naya_foriraq/81531" target="_blank">📅 02:51 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/81531" target="_blank">📅 02:51 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81528">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/a3c55b9859.mp4?token=okiMYKVLyxPgPWGww9LDei5IcrFxpgEUkhYVFS3ARgdm3FmgOZNJwUHkX59hzCEIAN6AWAvphpfayKo7uzaV0FOMIBDxY2C-Hc7EP30s_zvAZgOHCU1SXC2CJosozIPBwb_kVO-upLeKxU7Gtfe3TN9tMMMAWTYnyXy51P3yOVe2u9-y2C1sTGzriwGzPdpnNL1RiSXFcLQm95larR1X1WQFvaMO_F-dSOP5PvvZjgvvegOCXofsD-g-vNubW83zOykBlCJBmTOBoownVrqS858jzWM9BxFLVCu9IdpVD5DUyJ7ecOyjH1pFkSfeESO9yBr3VDfaQyP35tGvH-GLUYAd-wbKBWzlEhDcprW934u_XUzgNCGA0b56Q8ytciaxMy0dXTh1fiXUwmcNv9E-1g4vqYfeKVqtXoxoyU1T-UfoP3CKCOZOjT-xqgV0dXLHPHHJsboeMl1myXgblsGM_7hXNMcHkox7T5YB-wZdPpe-7qc1BKg8JPLVSAje92sm2J3CMq0CFhFCTzd_X6zxgrwTy2xfpkIruXKZ7rrwE4Pzfp6OkU6zLX3w9G9jlUV1y4i0W4RfzunJpJxzghy9VUDFObFj3kyTQyYFqyyMn0jKjhZZUv0zogpnScYcoIFcUV77XuEJKp-0vE_-ecRWJ3vei15etqd_MdYK5XHRIFE" type="video/mp4">
@@ -359,11 +702,11 @@
 <div class="tg-text">🇮🇶
 🇮🇷
 أهازيجُ جنوبيةٌ عراقيةٌ تصدح في منطقة بين الحرمين رثاءً للسيد الولي.</div>
-<div class="tg-footer">👁️ 7.28K · <a href="https://t.me/naya_foriraq/81528" target="_blank">📅 02:46 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/81528" target="_blank">📅 02:46 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81527">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/f53e1a044b.mp4?token=PsvKC_hAoyuKbHU2_YL_JiicCQP16RgUptPgIcEbzH9IZzDRohx_VK0byrq17zt-dkf59d9sRh4by-Lx1JHXCDJ4xYiS1et8u5014bSx8ABhDr7xvh0zkF7V9QAC7jMyrM_pOHHI5gpOt6Kn03VxiUjJstkWi8iOJYoR6DiLm8PeFBHWU6HlLV8hrzefonaA6TLbexyQVBUHOehvIXwP4_HKcZAtc_PnwRuAAIaINHDP7Wytl354er8ElEtUhukMdOwtB0RDZn5-ADWnH5zhg3hnye_1PRbC1hDqjIeyf_vHGjAU-ydZKMvEk7_KUgYo3j8GInASLQ8r6p8BLs6KoA" type="video/mp4">
@@ -374,29 +717,29 @@
 <div class="tg-text">🇮🇶
 🇮🇷
 دخول نعش السيد الولي علي الخامنئي في ازقة محافظة النجف الاشرف.</div>
-<div class="tg-footer">👁️ 7.96K · <a href="https://t.me/naya_foriraq/81527" target="_blank">📅 02:40 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/81527" target="_blank">📅 02:40 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81526">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">غارة معادية استهدفت محيط النبطية الفوقا بجنوب لبنان.</div>
-<div class="tg-footer">👁️ 8.68K · <a href="https://t.me/naya_foriraq/81526" target="_blank">📅 02:33 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/81526" target="_blank">📅 02:33 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81525">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">غارات عنيفة استهدفت السفن التجارية وقوارب الصيد في أحد الأرصفة بمدينة بندرعباس جنوبي إيران، ماأدى إلى إحتراقها وتصاعد أعمدة النيران والدخان منها.</div>
-<div class="tg-footer">👁️ 9.34K · <a href="https://t.me/naya_foriraq/81525" target="_blank">📅 02:29 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/81525" target="_blank">📅 02:29 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81524">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">غارات عنيفة استهدفت السفن التجارية وقوارب الصيد في أحد الأرصفة بمدينة بندرعباس جنوبي إيران، ماأدى إلى إحتراقها وتصاعد أعمدة النيران والدخان منها.</div>
-<div class="tg-footer">👁️ 9.98K · <a href="https://t.me/naya_foriraq/81524" target="_blank">📅 02:27 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/81524" target="_blank">📅 02:27 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81523">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/545bd57853.mp4?token=Vc2bZXkxqgUmVMeo6A28tmfVy2mmEb5lmgbXb4NPF1iDCnCndyiwU_qcZwMsz2LKEMBy0PwVjpvD2GtX2nkb0MXCXQksbcVaaD-Jj8d9-7XINdev7WCj3vmHi_5QMCf5PnHxIpn0LGyFRJbkNna-Tnx2U5A6srN_z2pn_2f2QZ1P1zb1aWVhX3CVF8PxUg3ChC4vwzhJ6AslycjhH_mP-orLBhQOVjZ9NCudI9ZnouPV4pVNKCngl8A4lwp8HpJD4TZqEY37IqHUJdwixYu3U1fMiCoSama9NJPyfqJIy7GdNiyBNlJ9x-O43N11FG-c7FyjwIodbY8mLp0IA9D2xWBgZtDiwKxw3bZOWHxQR8LTOWPkWAsDMd7nmPdcr1k6iPgrE3bv1ecHzhmlv7bamckgKv3fWQy7IovxAoTHXQY5gE9a2MA2SevRqpSNH4VYS7TKsnxdgCgsroa-j73OVj3xYMHu0wUiND7JL3KIEQYsK628hFAFOzG5naeclQUAKN3i-HYYNckXvmTk8Y0XAAOs5f4G8NxXWBu4aFbIzojxKcMGh98h0HD_lvb4HDbZ65DD9SpBFJiwx8NNax-I3wkx_aCNCwAqlOYw2L9S4BVGSzCsm9v6SWK3eoOg_rUepgft9C14Zcq8qmJ3-S4uB_pIE4CDz2E9oz5eqEX8j8Q" type="video/mp4">
@@ -407,26 +750,26 @@
 <div class="tg-text">🇮🇶
 🇮🇷
 عشرات الألاف من المعزيين يتحضرون لاستقبال النعوش الطاهرة في محافظة النجف الاشرف.</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/naya_foriraq/81523" target="_blank">📅 02:24 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/81523" target="_blank">📅 02:24 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81522">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">🌟
 🔳
 بالتزامن مع التوتر الأمريكي الإيراني.. انقطاع التيار الكهربائي في بعض مناطق البحرين والكويت.</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/naya_foriraq/81522" target="_blank">📅 02:21 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/81522" target="_blank">📅 02:21 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81521">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">🔻
 كوادر مديرية الجهد الخدمي والهندسي في الحشد الشعبي تطلق حملة تنظيف كبرى في النجف الأشرف، لتهيئة مسار المشيعين استعداداً لمراسم تشييع الشهيد المعظّم، وبالتعاون مع الجهات الخدمية المختصة.</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/naya_foriraq/81521" target="_blank">📅 02:20 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/81521" target="_blank">📅 02:20 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81520">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9929fb77c6.mp4?token=Al7f-xIbG1T9qMEB1tbcymyOOv1OSZ33Z50262wR6_fYceqYDKgoeIJ83IUkNyjME6F3ZpX_pfuEko-xQA2VDhTm3BKOwiCHPLAKie2so4caEXt5Fb0hQgFoAHhvMRgPBCa_fa5xShsuqJHLlowuX048RZP2EWQY6s6YBH46C4SuLXRZLMwyScgi_EaeH6L4ofqd2pFz6nwLvet4ky2CdkSwJ1Bd9dEnORidwaRc4g0okHajShr67G69jBE8tWYYhVLr2FWitZICnruy91HBsocD_tPeCSCoJrCL6VcXLcaYkD9WP9vW1cMuR32wOVS1t_PcCT-60AfmQs067FUong" type="video/mp4">
@@ -435,11 +778,11 @@
 <a href="https://cdn4.telesco.pe/file/9929fb77c6.mp4?token=Al7f-xIbG1T9qMEB1tbcymyOOv1OSZ33Z50262wR6_fYceqYDKgoeIJ83IUkNyjME6F3ZpX_pfuEko-xQA2VDhTm3BKOwiCHPLAKie2so4caEXt5Fb0hQgFoAHhvMRgPBCa_fa5xShsuqJHLlowuX048RZP2EWQY6s6YBH46C4SuLXRZLMwyScgi_EaeH6L4ofqd2pFz6nwLvet4ky2CdkSwJ1Bd9dEnORidwaRc4g0okHajShr67G69jBE8tWYYhVLr2FWitZICnruy91HBsocD_tPeCSCoJrCL6VcXLcaYkD9WP9vW1cMuR32wOVS1t_PcCT-60AfmQs067FUong" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">غارات عنيفة استهدفت السفن التجارية وقوارب الصيد في أحد الأرصفة بمدينة بندرعباس جنوبي إيران، ماأدى إلى إحتراقها وتصاعد أعمدة النيران والدخان منها.</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/naya_foriraq/81520" target="_blank">📅 02:11 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/81520" target="_blank">📅 02:11 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81516">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/YZJ8kbZsNeMtbrIOkAzAoEJPzsrVBhzsGKYICUNXScGs3CS0eC41KNRg3Sf8rtXjbUFrLPcNmm9M-6SnFl0_jbOsPf-OlxZ4uAxi95TURypOX97Dm5ZqDnyKxp5hpQ1frzcy8JZnWDfbRcKuqWEW9ASuDgOQuDgDVr2XdwYf8J3CLIkPRPvf7aJ6n1wmM7W5BKxx9hfXYKTjBJXmVCXZopWSgJK6h8uOVeN5pD_2BpBbWRI5UrxkpZnmayj0uJpsW2hGnBxFGW8BNCXuxV2_ErrywvwW86xSCQ7VLbFERoBEyPOR9tTuGVZ2ytbHfsz4JO5O0q4UHdnd9BAv_-7KbA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ReiPBJVgg1NmdV8wUmpdUm3Nle5cImxhUqCQcn7SYCSAkyPcMhluzmHsx_fbi6FhELtvCh6TFHXnD6UlyETmWD-45PlVNyxaKt8kfKBktYv5ElCs9LEnWt3BkO_c9QA2fuRPS3g3r1Cg1g6DSNUUe8L7bntG_nKpZQg9MLKZt99vSLNLuOV9_ih28MCt8JzQySXdEV1I3PA1PzuCEYsPxx2vRtD33jQh3oLOjSphbtofS6tfcq3r7toTbo9FxBk1c4UzHolC5F8WblVU3P9lgR1hvXrXDi4WEub38HQgSdceTD_NeLEZm6gfv65WSQtK2773xiNehD6KXVeDtlHFkQ.jpg" alt="photo" loading="lazy"/></div>
@@ -449,11 +792,11 @@
 <div class="tg-text">🇮🇶
 🇮🇷
 استمرار انطلاق القوافل من مدينة سوق الشيوخ بمحافظة ذي قار جنوبي العراق، الى كربلاء المقدسة للمشاركة في تشييع السيد الولي .</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/naya_foriraq/81516" target="_blank">📅 02:10 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/81516" target="_blank">📅 02:10 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81513">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/2e91a13316.mp4?token=TZ1DIHJ63nnVxpoaV2w28ZXvj7RRXxpqz_QiwwalXn_SesJ50ifBaQUHvkibiorfkePHKjr5gNZYeW5L7c74-2cm1JKDsgkqSxycVW0p-XsD2-5LySB7V8_Ho9PT59uVHEO678o8jh6UoUFqoUsLQ7ZLdcaXQ4iGQZNySSb3tlOQ6xOHS51ArSMD_7LwQpJLeZOI_pMbb5BfWYT1SIN_wX4Zlhb8JoC1gESyfsCeWwDMaUGb5gVtQKM1kdHixVhiOhL-6aqIJKS5TkZciW5NuSwQY1zXV3Ww2IjbWTPEVaM9cIqNXvOoAyFY-Zcttdnsj8__5s-xA-slC0nHcYTrUy18Qh3c1tEntzXvQdT9lTSAZoUQa9UwVfvPHuCH01Mn5plJ499eTfRDX72HYIpF7n1noq6ouS0G3TgeuMlJJDO2Sx47PhoY-w_5Vl7gYmzxlgLjWdHgNyyaFAuQq1bkskxMijClRcwNX-Bww7p4aJ3vK29nTDZX8ZXO22-DYkXK1xvDKcu2y9y5HmYoPEyHXN1y8s2cEbmzpj9D218Yfl5FHfGv5j_EA0SoN0aInt5iQdYwIdsF-8G03EiRe1SiOq9MOX5u9W3xipmsfskrmt-M9O3119EciTyIBxmQqbB8pWem9zx1kkaZOjZtsKP3nbm1GCGJWw0Z7DaPtMHuWTU" type="video/mp4">
@@ -464,17 +807,17 @@
 <div class="tg-text">🇮🇶
 🇮🇷
 آلافُ المعزّين بدأوا بالتوافد إلى مرقد الإمام علي (عليه السلام)، استعدادًا لتشييع السيد الولي.</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/81513" target="_blank">📅 01:58 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/81513" target="_blank">📅 01:58 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81512">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">عدوان أمريكي جديد على سيريك</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/81512" target="_blank">📅 01:56 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/naya_foriraq/81512" target="_blank">📅 01:56 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81509">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/ce832e9f1f.mp4?token=Nz5cJ12DznLP1lGyh7-WvXV0Lb-uzJlF_TT4VQcqnKJ2CBmHbQtGnh-NxXRpxRm49b5S7mtw5rFyV6RARc1SWelEdCbHWw9LDXihKgUB1CuNkHZ8R6liIWin_rGgphqtGVJm0jXXCS1GB1t7ydY4VhkZtXtqimcr7elw0wiLLkRTPZp_jAxQDSesCdJYViXYPDB8y7yvqiMuhANFU_NDZBg1K60cJT2bq7NDNpy8yzc4iXvUo17_IthSc0HfamZK19r5OaGQnflTZZuV2JEiZYjA3JQP1QSKc2wtVFJYIVWivhs076rPNASY722MFxu9TpuhEuqUT_S3NSSKwPBBNg" type="video/mp4">
@@ -483,11 +826,11 @@
 <a href="https://cdn4.telesco.pe/file/ce832e9f1f.mp4?token=Nz5cJ12DznLP1lGyh7-WvXV0Lb-uzJlF_TT4VQcqnKJ2CBmHbQtGnh-NxXRpxRm49b5S7mtw5rFyV6RARc1SWelEdCbHWw9LDXihKgUB1CuNkHZ8R6liIWin_rGgphqtGVJm0jXXCS1GB1t7ydY4VhkZtXtqimcr7elw0wiLLkRTPZp_jAxQDSesCdJYViXYPDB8y7yvqiMuhANFU_NDZBg1K60cJT2bq7NDNpy8yzc4iXvUo17_IthSc0HfamZK19r5OaGQnflTZZuV2JEiZYjA3JQP1QSKc2wtVFJYIVWivhs076rPNASY722MFxu9TpuhEuqUT_S3NSSKwPBBNg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">أثر العدوان الأمريكي الغاشم على مدينة بندرعباس جنوبي إيران</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/81509" target="_blank">📅 01:54 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/81509" target="_blank">📅 01:54 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81508">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/523e9d2d34.mp4?token=R6DEL36aW2l-ylj696l-e9R8_41WL9cEDLmst8VzVLUVHtqBn40to7Lre8wfg2nkIuYvy81KDxJhVtYWhvG44jTiRtA__y1Gw1-5fw2duC4MgJPE7aMk4hszcFiwptWMNm9An0dIcKiUb_0bC7B6cwwZn7UkGzAkrZAj0LqsXXW92Mmg5JvupbcQ6XG9L1OFeI7PL_6Y2r_5eW12cyO4XOZSyZB8M_esiTv4hpxfO_pLpA-neW4J1tW5VhsoZAOiHxrQ8SOJwPUrMgOM1SnnNlxymid1shtPUiO5gf9I0QQGdjE8OnsvNT0Wnl0k0seC1v3465wxubNHKIJ-e8r8WB1djrja02QW1Nt2WePGDw7BycMBiH450-hmg_tNwbMx8phKYegDnQ6VZ94ogRpaqLFRh6pERZ5fmMlxXx5Aqfcu10x3pukIuHC6QswyiunLBkKupsSCSpBl2ESflsbN9WTAiBGQlXASmFdnVpnncLI5kF3ASM4cB4Rla3-BsbL2ZccpMDrEWY9fD79sSzQWCRNybmfZOFiyAiU7GSEOVxuIK4CmwdBzbjc4MBvoDmXNcm9yKOV3LCjyDdyQtD2L7P-UxbgUdiFrYaeCeX3eRej0ApnEZbPzYx16EL07RCAc8vsQUTSUOVQRE5V6NRqOA__4xs4Rw0tdOQb9z-DgFT8" type="video/mp4">
@@ -498,18 +841,18 @@
 <div class="tg-text">🇮🇶
 🇮🇷
 بدأ توافد المعزين الى محافظة النجف الاشرف لتشييع امامنا الولي الفقيه السيد علي الخامنئي(رضوان الله عليه)</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/81508" target="_blank">📅 01:52 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/81508" target="_blank">📅 01:52 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81507">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QZOsaKR1mAxZ6dA67dIu6JQCna2nTtzrB69INj3ob8WZ5TYy4rdPaDjG3u4tqSmHIgmi5XrY-OJKVHXlR1V08tLzBJfWQ2B6Wjoix3T0doQgvtRlIJH2VxAJZoWU-5wyR3X1BLPPgmxlAYy7oAr0KPhvtYwHgN-rDTNRn2gGaZb1UhvBsjWuQ4shFHGD3N66TOGHAVOMg_Ct9LOTy3AOeAs-UtIM6H__rFfPmZilnHOJ96oRoI0wmyRCmZnO9h6lpuWFWxCq1FgPPnkwueIyeTdPzOFgiK_4p_Tz7QRpf9Lr0JjCB8R192uZSnd_D_LVcf7ScoayiFoUy6730yrHJw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">من العدوان الأمريكي الغاشم على بندرعباس جنوبي إيران</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/81507" target="_blank">📅 01:46 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/81507" target="_blank">📅 01:46 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81506">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/be02edbe42.mp4?token=C6OSssEkJrdZIDbRh5u6oVsluOMwKjhi6v-iX4yTLx1K9xPLXWqI9uTFAMVXgGn-gnly_sXfoyPcRPpYm2ejtnTa5eqBSvc9knCzqmwbpWMrGXjhXzs5WCqXzMyCmkt2dannFBa5S-bFY6tx3OXAdf0FuraZiKdgMv6LBu8UZhGIdWJGPmG0I7p4Opu_sdhWGu_X2U67KUZPXF9kZXxM7XX_ChodXvbVS245dYYoWQq7XFok741AuxEyAU2sxaXGU4G7j8ADJbo0JpSxpEdlmDC32zOYz2sJPQWpKQ96DRch7PfNUVjS4QzF2DvyX9fS0nIXz1OJwPAkkKE-ZirpBy55b4CJuX0t4K1oCok_pHDiFW1RlBiGuTv8EVC5WiAauBrbQWDrg8AFUXPSW7u1qHrtEjedTY-Z18P9RrF-SE_DE9saakgnEwc6e8LnQajglvRWKm6Z7KVjGR4Qq2qt9vStotBmFuw3qPqIPiAV8XbD8awwXGVLLiwCi2DB7YrsAaGdqaOdgeqKLOMJOVANY1oLkyMypjK8n8iYiqY35q0bGg4EINIiqjV67bsWEy2jPeU7mDFsmpB4OHJ2qE2RonydQDD-tN7ql-xs-8An40fDY7MSkhM3ASb0D6_BWD5a0Z2WA11mqEBjh2-wP683XXL_jTPWMl-5Ej06GWgIRsg" type="video/mp4">
@@ -520,11 +863,11 @@
 <div class="tg-text">🇮🇶
 🇮🇷
 هتافاتٌ منددةٌ بالاحتلال الأمريكي تعلو أرجاء الصحن العلوي المطهر، تزامنًا مع حضور وزير الخارجية الإيراني عباس عراقجي.</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/81506" target="_blank">📅 01:45 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/81506" target="_blank">📅 01:45 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81505">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4d99a3e997.mp4?token=V959AfpirR3Hj4JmiTG0WK7ulxm3GmQeJ1CTYuHkXl7pZ-bkPu7H12G8qtr1aNlWJm2OlxitpeQIC_w7eVK4U-71de59w96403dXcx-U3q48r1s1MTZbuusj869GzIBdJDppY_ja7SC1Ph4a1yXjtaSg9hvM9pizCTcN3Oz7HhM7C43AdOmyqPNzJMohl1YeBO1pbZ6UsZXZz4E2adAI6qZavEbgQXndG8MM170cWSdxFxsM20VYR0atRXDVu_xXg-D3dLORYWgLzIkSP_KVNQ4pITJQl3I69YJsXZn5agZzO9qMjyw1HlOg2W3AcVL3oz-xOR6qGhTYBm91Hfx6fTzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
@@ -536,11 +879,11 @@
 🔳
 بالتزامن مع التوتر الأمريكي الإيراني..
 انقطاع التيار الكهربائي في بعض مناطق البحرين والكويت.</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/81505" target="_blank">📅 01:45 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/81505" target="_blank">📅 01:45 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81504">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/dcfc436a19.mp4?token=bsfhWRnxcnAbckkNr2N-0LPdYcOBrC8i3J7FgWAB-qKwI0y2wciyb69lLTJe7Ovfn3jJCXGWv2ge0JYRUM4YDwcswTkcknTRWHMlVfIQABwpO6cziAG-E8cU6kFQfpggUM4QbsAJ-qXL1i9fV18rwHNNHLr-i5OK1WLjF5NNlgDvXMKFNSgW_5f8aMM6Sjhn3jy6AcTy2R5v4aZC1WB4XF1jvWmxm0HlIWUsfUQ0Y3P4_L2FA3ZdYGOcXId6e8l3q4CdmnQUngwCIrCaGqKUnAi8t7Qd0SipNAeUCCFhFvifLhzgdTXOqbjHdYcbzv_2lpeUS79lVnslESwslWZBFw" type="video/mp4">
@@ -550,11 +893,11 @@
 </div>
 <div class="tg-text">🔻
 السيد عباس عراقجي مع رئيس جمهورية ايران في عتبة العلوية المباركة.</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/81504" target="_blank">📅 01:36 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/81504" target="_blank">📅 01:36 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81503">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/2e61389fce.mp4?token=LvQT87K9p4I5ZJyGkuWfKSfVpjgD50KJTb8U1NsJI9shwBNls_TqqNVt9h4042LGOTOTn2xl8HD2NRMEswCPDRrhiBRaOAsaWq-z3eIK605-ys1IY8TO6sbN3Ai7mwLmoLiQ83KwmQ5uaYSYN-MbNFb_BJZnjvNL3bt21hyafiSE8zd5Zo43M0OkMoSn5Yei7i4_ybrIzS94UZQvlbYJlrT7ZyVLN2oNbWkN4u8QIAefhI6fgvT_jNk6hIOZgzN2L8KK0bs2gKIibJo3CpFj-nw3pnBMgTZyr4A7I0meL_zAz1rMI2eE8534U6ktw4-pNi0sMaDPLQQc3JgW4Mt1E48f0Vhx4-PxcAxhR37EEx--rmyX_OdeBkvzyX6meTWe-ikoLjVfxB8Rk20O9yDPI8fKH9m3s_BbhlPnJbYi49ZJQqmW2gaCVLYvU-etMR4BcUoZVR2LLdwsFgPzX7q59977lY80cUOz4sYC3BhzVAtlvfVV8nykwDf2uvVI_W3sOvJ9sZXSgOveC5sbcasva7JdiaM8vZfrLilYpimPOIVdB__140A_dCfDe2EzQ075HUxvTViFJRdRes2jxpX_kwLUQ2__smuFJw_Fz3Q1GI3F5JzAK9XKly_2aviyJgT95GIIDUxkL7QirLgaD6GQnUwWgfuYENAqqoxpH098WCw" type="video/mp4">
@@ -563,11 +906,11 @@
 <a href="https://cdn4.telesco.pe/file/2e61389fce.mp4?token=LvQT87K9p4I5ZJyGkuWfKSfVpjgD50KJTb8U1NsJI9shwBNls_TqqNVt9h4042LGOTOTn2xl8HD2NRMEswCPDRrhiBRaOAsaWq-z3eIK605-ys1IY8TO6sbN3Ai7mwLmoLiQ83KwmQ5uaYSYN-MbNFb_BJZnjvNL3bt21hyafiSE8zd5Zo43M0OkMoSn5Yei7i4_ybrIzS94UZQvlbYJlrT7ZyVLN2oNbWkN4u8QIAefhI6fgvT_jNk6hIOZgzN2L8KK0bs2gKIibJo3CpFj-nw3pnBMgTZyr4A7I0meL_zAz1rMI2eE8534U6ktw4-pNi0sMaDPLQQc3JgW4Mt1E48f0Vhx4-PxcAxhR37EEx--rmyX_OdeBkvzyX6meTWe-ikoLjVfxB8Rk20O9yDPI8fKH9m3s_BbhlPnJbYi49ZJQqmW2gaCVLYvU-etMR4BcUoZVR2LLdwsFgPzX7q59977lY80cUOz4sYC3BhzVAtlvfVV8nykwDf2uvVI_W3sOvJ9sZXSgOveC5sbcasva7JdiaM8vZfrLilYpimPOIVdB__140A_dCfDe2EzQ075HUxvTViFJRdRes2jxpX_kwLUQ2__smuFJw_Fz3Q1GI3F5JzAK9XKly_2aviyJgT95GIIDUxkL7QirLgaD6GQnUwWgfuYENAqqoxpH098WCw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">من العدوان الأمريكي الغاشم على بندرعباس جنوبي إيران</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/81503" target="_blank">📅 01:36 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/81503" target="_blank">📅 01:36 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81502">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/f2d3e456ef.mp4?token=t5-YYtyj5HNT1djcGCFqu0EB3LFCvVsEO1Muj_kK1_Z9E97kkHhErgnPNz0zHz2dmd1xj49V_rYulGbVgK4gqIFo31ziCgRO1tdaNk7M95ZX6YQWOJTOnWXaqQgShbou2_Mei2jZ4XKORSFdHUEC-GQJToatmHRPsR6r2YC_0PPUyDVW5JDE_jy6zHWaCZBp2mVVoEgCIgynAAwbZTMNoVPvGfaBg2fiYwiM9LOL8b-qI2kOB6ru8XMoItlvR1o7k8UJHUpZu2gopZ1xLlfNSBBLaL8Dag75tDns77k0O3lc_a-05n0sWZJjL-uOZNXq4lVijUaiva-QLKLpgRaHGg" type="video/mp4">
@@ -577,11 +920,11 @@
 </div>
 <div class="tg-text">🔻
 السيد بزشكيان في حرم الامام علي (ع)</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/81502" target="_blank">📅 01:36 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/81502" target="_blank">📅 01:36 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81500">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/a299961c29.mp4?token=YDSD58dd2jnHWx1YWqmQ4U3pM93-G0aEQVY9CNz2Shv2rXe5e8h4IhIcfDXG21Pt6mu9k2wTsIboVKSZTlrwssi85A8rw4NiEw18tD3OQiyPwvJvwjDmoHtoAkfLThGuQv5DhnPPYNTebeoRKJ4wNMZf2vbB1BRYhA8Fs8bdgQ9h0w-QuPpnhlOGVPfjcJ-aTUKiTs3x-LgowtzUTbPOcuSAgTIZICQAiqeTGAPD3CxHNHuglbVTZvIhy21HHoPKVd-Szpvp7f94eQpCQYFLTsIXXSTUzHgam-HTWtoSzvIEXOCZMOTDvIFJUdf-4Dkj9q8o5HlSmMgNgf2xGRdnhA" type="video/mp4">
@@ -590,11 +933,11 @@
 <a href="https://cdn4.telesco.pe/file/a299961c29.mp4?token=YDSD58dd2jnHWx1YWqmQ4U3pM93-G0aEQVY9CNz2Shv2rXe5e8h4IhIcfDXG21Pt6mu9k2wTsIboVKSZTlrwssi85A8rw4NiEw18tD3OQiyPwvJvwjDmoHtoAkfLThGuQv5DhnPPYNTebeoRKJ4wNMZf2vbB1BRYhA8Fs8bdgQ9h0w-QuPpnhlOGVPfjcJ-aTUKiTs3x-LgowtzUTbPOcuSAgTIZICQAiqeTGAPD3CxHNHuglbVTZvIhy21HHoPKVd-Szpvp7f94eQpCQYFLTsIXXSTUzHgam-HTWtoSzvIEXOCZMOTDvIFJUdf-4Dkj9q8o5HlSmMgNgf2xGRdnhA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">الجيش الأمريكي: ‏ بدأت قوات القيادة المركزية الأمريكية سلسلة من الضربات القوية ضد إيران لفرض خسائر فادحة عليها جراء استهدافها ومهاجمتها سفنًا تجارية يقودها مدنيون أبرياء في ممر مائي دولي. وتأتي هذه الضربات ردًا على هجمات إيرانية استهدفت ثلاث سفن تجارية كانت…</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/81500" target="_blank">📅 01:34 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/81500" target="_blank">📅 01:34 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81499">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/2068541d4b.mp4?token=Vo7KYhiKv_NTCQHZBstTcn65PRMoRaF5PZu63Sb7l1QZ7IkwGhCzADyXzANSQxvzHnmFfz3PqzNL8-m4k693sdZrvgWYu8zy2lxFUDCg3RcfOW_K2wj5IDX0rlmUyAcDTyBdHE_R12zEwLV5xJKX-7uCQPCih7T9mKLJ3lP77v3Ukp-UtGKeyL5ZRD0ysq_LztY3Vted63RyaOScWdnTO_aXjupaib1qjxTdOCFsEpXpu8mrx97xp1k9-6EOou7u9qgbFiDBjxCkdMwZTlaSbtpgirTFpytuhmhwy1hBYi20cbqVU2a1YPcr_gR_7g4GJ6hcZVq4uAgZTSrnUOGwXA" type="video/mp4">
@@ -604,43 +947,43 @@
 </div>
 <div class="tg-text">🔻
 وصول عائلة الشهيد السيد علي الخامنئي(رضوان الله عليه)، برفقة رئيس الجمهورية الإسلامية ، للمشاركة في مراسم التشييع.</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/81499" target="_blank">📅 01:30 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/81499" target="_blank">📅 01:30 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81498">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">مسؤول أمريكي: الأهداف في إيران شملت أنظمة الدفاع الجوي والمراقبة الساحلية وصواريخ أرض جو</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/81498" target="_blank">📅 01:29 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/81498" target="_blank">📅 01:29 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81497">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">🔻
 وصول عائلة الشهيد السيد علي الخامنئي(رضوان الله عليه)، برفقة رئيس الجمهورية الإسلامية ، للمشاركة في مراسم التشييع.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/81497" target="_blank">📅 01:27 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/81497" target="_blank">📅 01:27 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81496">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">انفجارات جديدة في سيريك وقشم</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/81496" target="_blank">📅 01:27 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/81496" target="_blank">📅 01:27 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81495">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">🌟
 مسؤولين أمريكيين: سفننا الحربية لا تزال بحالة تأهب لإعادة فرض الحصار على الموانئ الإيرانية إذا قرر الرئيس ترمب ذلك</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/81495" target="_blank">📅 01:16 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/81495" target="_blank">📅 01:16 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81494">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">انفجارات بالقرب من مضيق هرمز</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/81494" target="_blank">📅 01:14 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/naya_foriraq/81494" target="_blank">📅 01:14 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81493">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/2b4931c3d0.mp4?token=HcozyN3Yz7DpZlpBvBq6BtIDEDl47K-Tg_235ZYrOiVZTOQ0e_OrGg1wF8gB3RFoBUIU-5qdzBhN675rl97_QA4RDg_08Tbzxy2hdmUzMGrNyDzOEGUGRTGwaSYIMHFORew4q6FC6FjaNU0pdcQkHgvTCszhMIzhWHQ_K-s0Z-FyJtpvvBsfuLDWuOrftaNRGuQRvSRv1aYKzVX451ZJIZVzEtraHjz61qUijM_KNcTB5zirwDGaN0YEo7rBqleGpjmH1BHOVYs2GD2Xqews3xMP8WOHetxnnBYjk4u3NAI8VYL9lWMAr39so_ulwsj5_jSq1h7MM4TQib9kO6g4lA" type="video/mp4">
@@ -650,74 +993,74 @@
 </div>
 <div class="tg-text">🇮🇶
 وزير خارجية ايران السيد عباس عراقجي في محافظة النجف الاشرف .</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/81493" target="_blank">📅 01:12 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/naya_foriraq/81493" target="_blank">📅 01:12 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81492">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">🌟
 مسؤولين أمريكيين:
 سفننا الحربية لا تزال بحالة تأهب لإعادة فرض الحصار على الموانئ الإيرانية إذا قرر الرئيس ترمب ذلك</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/81492" target="_blank">📅 01:09 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/81492" target="_blank">📅 01:09 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81491">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/W1RnzLloYvJ5DxGIhadxXy4WFaEx_I-fpJyt4peAGOJCIBTeXQbrOpbt0-VOKqj3GTJkVxyo3zgM8cwIaKZ_z5t5TGhmkZ3sq07KWGZwGadFBlEKtxksn6wyi4epipTQqz_wG5CDKlZmlwxTLdl3I4stia2VjOVm8A068fOZbyt7a7IN0DrCgKB7mCVPSgNGHAgiUzPDLd8sfW8z0ScA5RJ8Skle6rKNsYDAZitzDXMVmvc1g69tNSTS89TAyGm42xL9awN57oAapMMlG0NFh1dZzVS_hSVPBcYjVVt7Rsm7XOr6G_rsMv5SE9Ss1BhhQZk-XZkQotjeRAe0ALvVdg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">أسعار النفط العالمية تلامس 77 دولاراً للبرميل الواحد</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/81491" target="_blank">📅 01:00 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/naya_foriraq/81491" target="_blank">📅 01:00 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81490">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">🇮🇶
 الحشد الشعبي ينظّم حركة السير في محافظة النجف الأشرف استعدادًا لاستقبال المعزّين ومراسم تشييع آية الله العظمى السيد الشهيد علي الحسيني الخامنئي (قدس سره).</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/81490" target="_blank">📅 01:00 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/81490" target="_blank">📅 01:00 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81489">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">سماع دوي عدة انفجارات في بندر عباس</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/81489" target="_blank">📅 00:55 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/81489" target="_blank">📅 00:55 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81488">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XA3GZFBwUIPCF3N5wplyUTO59f0SmG_bTbYiHYyr7hEyAz1abLLKnEbAVv4P5lhKisoLtxUwEneR34WL8Z0ggAQeoxLTgLHLhMWg0QpYyIPTYyiQNhWFRLEUlshQsUftD5OQYGnWnUyJDOwCF8KOrUyVgexLR_2DBw-s7yRv59LrQ5pMl-pvFqwMHaL1u-r94blNPRllVPcc_bkHRTIXj0CEl8b9Su19RD-47YyrTVd-eW775LWDoJSGpnEpqgAWMZRmz_2v_mO7vJE6XzUTBRdj4g0NgyAtQAsD-arO95i9KKKeDsLdDhLfd60NRllxaeO2524c51J3GEJvw1LP8w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بيان صادر عن وزارة الخارجية الإيرانية بشأن انتهاك الولايات المتحدة الصريح للمادة 10 من مذكرة التفاهم الخاصة بإسلام آباد
 تدين وزارة خارجية الجمهورية الإسلامية الإيرانية بشدة خطوة وزارة الخزانة الأمريكية برفع التعليق المؤقت للحظر المفروض على مبيعات النفط الإيراني، وهو ما يمثل انتهاكاً صارخاً للمادة 10 من مذكرة التفاهم لإنهاء الحرب، وتحمل الحكومة الأمريكية مسؤولية عواقب هذا الإخلال بالوعد.
 بعد أقل من عشرين يومًا من توقيع مذكرة تفاهم إسلام آباد، يُعدّ إعلان إلغاء التفويض العام الصادر في 21 يونيو/حزيران دليلاً آخر على سوء نوايا الولايات المتحدة وعدم استقرارها وعدم موثوقيتها. ويأتي هذا على الرغم من ارتكاب الولايات المتحدة، خلال العشرين يومًا الماضية، انتهاكات متكررة، طفيفة وجسيمة، لبنود مختلفة من مذكرة التفاهم، إما بشكل مباشر أو من خلال ممارسات الكيان الصهيوني ضد لبنان.
 منذ توقيع مذكرة التفاهم في 18 يونيو، سعت الجمهورية الإسلامية الإيرانية بحسن نية وبكل ما أوتيت من إمكانيات للوفاء بالتزاماتها بموجب المذكرة. إلا أن الحكومة الأمريكية، كعادتها، انتهكت التزاماتها في الوقت نفسه وحاولت تبرير ذلك بأعذار واهية.
 أعلنت وزارة الخارجية في الجمهورية الإسلامية الإيرانية، في الوقت الذي حذرت فيه من عواقب انتهاك أمريكا للاتفاق، أنها ستتخذ أي إجراء تراه ضرورياً لحماية مصالحها وأمنها القومي.</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/81488" target="_blank">📅 00:53 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/naya_foriraq/81488" target="_blank">📅 00:53 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81487">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">سماع دوي عدة انفجارات في بندر عباس</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/81487" target="_blank">📅 00:46 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/81487" target="_blank">📅 00:46 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81486">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">تفعيل الدفاعات الجوية الإيرانية جنوب إيران</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/naya_foriraq/81486" target="_blank">📅 00:37 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/81486" target="_blank">📅 00:37 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81485">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">تفعيل الدفاعات الجوية الإيرانية جنوب إيران</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/naya_foriraq/81485" target="_blank">📅 00:37 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/naya_foriraq/81485" target="_blank">📅 00:37 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81484">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">تفعيل الدفاعات الجوية الإيرانية جنوب إيران</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/naya_foriraq/81484" target="_blank">📅 00:35 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/naya_foriraq/81484" target="_blank">📅 00:35 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81483">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/aebedb3ae1.mp4?token=oYzTtP8zNx55hEQgfciNKMhSb7Q9JYi2FsuJlEKQHqCDpdGPBN6X3De_q9O_9leLFjID5M0LcSFHmA-TssD7rHFKodJdKs1uV2kJVQgUkFWr4vOGQkPqk2uJ7fnKMVyDN2h3j2MzUdbWW9gR1M1hnUM__LRrN2_-Fb2qjRq8Kg-CQnq2R22trkmg0K-I9aHOwr1HJvjQGDGtQPQ6GGJvlwOJiBfh2ilD8LQQXOsOeCNGSUqepkMfGeA2PHYad1gmnunBiQMg6ATWGISwHTWh5H-Pw_a63MJtab66aDzBIxncaqalIjxML8IvMCh1PGl75PrYHyOydEbEx55NhU_DVw" type="video/mp4">
@@ -726,25 +1069,25 @@
 <a href="https://cdn4.telesco.pe/file/aebedb3ae1.mp4?token=oYzTtP8zNx55hEQgfciNKMhSb7Q9JYi2FsuJlEKQHqCDpdGPBN6X3De_q9O_9leLFjID5M0LcSFHmA-TssD7rHFKodJdKs1uV2kJVQgUkFWr4vOGQkPqk2uJ7fnKMVyDN2h3j2MzUdbWW9gR1M1hnUM__LRrN2_-Fb2qjRq8Kg-CQnq2R22trkmg0K-I9aHOwr1HJvjQGDGtQPQ6GGJvlwOJiBfh2ilD8LQQXOsOeCNGSUqepkMfGeA2PHYad1gmnunBiQMg6ATWGISwHTWh5H-Pw_a63MJtab66aDzBIxncaqalIjxML8IvMCh1PGl75PrYHyOydEbEx55NhU_DVw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">الآلاف من العراقيين يحتشدون في شوارع النجف الأشرف لتشييع السيد الشهيد علي الخامنئي</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/81483" target="_blank">📅 00:33 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/naya_foriraq/81483" target="_blank">📅 00:33 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81482">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">🔻
 اشتباكات خلف جبل طوزخورماتو في محافظة كركوك شمال العراق.</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/81482" target="_blank">📅 00:31 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/81482" target="_blank">📅 00:31 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81481">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dbWLhw18Yi7l2Sd_aXVnQXzvGAEroEyEZ7wuSnlVEwrXpqPYC5G410YwywPdQVtQVclVBCRVQss7SFD33H717jSfZBtASO08wukcpxsnIzdMiS8Fr7R11cq18Hc1VP7eR9Acmmw3XmLqy50dBqnwRZZGjuNpndZAF9mhjiqhMzTW8NLs96O9sRVFQ5D0REBMsCtQxvh389IjPeqOdyN1tknA5Cdu6DDH4cJVX6RsEMrNdgJHCiaBSgcKP15t4MQhWeZiSqOYahXjJMubfvtLFnElZv3XQr6rXCTQ-V5z5fzfDXT2SIBoQsq10-o_V23acgnfHxB_uMmCNGkFSefzaw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قيادة حرس البيشمركة في شمال العراق تعلن مقتل أحد عناصرها التابعة لقوات الدفاع الكردستانية أثناء التدريب.</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/81481" target="_blank">📅 00:18 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/naya_foriraq/81481" target="_blank">📅 00:18 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81479">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/beb84cf7e2.mp4?token=QjWTg82sNx95tALWPDo5b0D-xnj20EBYZUv1M15lgrecGUCCA2yWoxa7eik-n4RAa1OpM7aUh0txWjh-24xJffRB0_GwyUp0pvV-EXzmZceS0z920TQLMOvl8A_ZJPTibStMIw0rewHv05UK6nT-ZLH7pR4vsmTJWR3WNRv__Qqv_yRH1JissJEMUh_n5-IyHp1Cuy9UFdlldMMVG5HqXPgEcPXeJkVbBmSOQPwK5XCw0snohNVHSCs6srUfOC57yFqNShbRu626l1XqPhIrLTLI6gJDOKTos03FFSsdqRjcPgZUZUN3Doe1VsxCZpm-1yzEjJnVvmrD4knlRvvlthFl2ULfiv-dWy2x1QxM8p5Xai7i6tQueCLixRN1sQiKceiHnCo4xu5XlIOZVo3RcsSl7GY6pQJC5BkdaoLruM3oU20WeNtU0OSo_5KgHdQLKUkgQ4TAQH8hc_hnxa-Pxwlq_sTrCAdmfmSBMe1PcsFkQsVnNCKEY8k5JKeLnL50hdUPCsUS0kDXlU0sooETlOtHIVWZA8DluffIcevMXgN9jGjZH6DKT7TpOqxx3JkL3yJ3v898v6MQ2BnV3EawN-ErD9_m-PBZpgDUFqeU0jinjhINpITc3pObfauXHx9jAXKvnesuk3KYOPOrXa4V-EzKhQslKk0pc3WylEsTof8" type="video/mp4">
@@ -753,11 +1096,11 @@
 <a href="https://cdn4.telesco.pe/file/beb84cf7e2.mp4?token=QjWTg82sNx95tALWPDo5b0D-xnj20EBYZUv1M15lgrecGUCCA2yWoxa7eik-n4RAa1OpM7aUh0txWjh-24xJffRB0_GwyUp0pvV-EXzmZceS0z920TQLMOvl8A_ZJPTibStMIw0rewHv05UK6nT-ZLH7pR4vsmTJWR3WNRv__Qqv_yRH1JissJEMUh_n5-IyHp1Cuy9UFdlldMMVG5HqXPgEcPXeJkVbBmSOQPwK5XCw0snohNVHSCs6srUfOC57yFqNShbRu626l1XqPhIrLTLI6gJDOKTos03FFSsdqRjcPgZUZUN3Doe1VsxCZpm-1yzEjJnVvmrD4knlRvvlthFl2ULfiv-dWy2x1QxM8p5Xai7i6tQueCLixRN1sQiKceiHnCo4xu5XlIOZVo3RcsSl7GY6pQJC5BkdaoLruM3oU20WeNtU0OSo_5KgHdQLKUkgQ4TAQH8hc_hnxa-Pxwlq_sTrCAdmfmSBMe1PcsFkQsVnNCKEY8k5JKeLnL50hdUPCsUS0kDXlU0sooETlOtHIVWZA8DluffIcevMXgN9jGjZH6DKT7TpOqxx3JkL3yJ3v898v6MQ2BnV3EawN-ErD9_m-PBZpgDUFqeU0jinjhINpITc3pObfauXHx9jAXKvnesuk3KYOPOrXa4V-EzKhQslKk0pc3WylEsTof8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">العراقيين من كل حدب وصوب يتوافدون إلى النجف الأشرف للمشاركة في العزاء العظيم.</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/81479" target="_blank">📅 00:18 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/81479" target="_blank">📅 00:18 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81477">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/fea3c98f90.mp4?token=CXoKdIOXM12jPGqPiG-gal-qFcBk3pb3YOkStLuJ51j3owA1X8IpHFLAkXkfBVtcr9e0AGd26piwB9dtcACUje2-NG37cyLL29YTrCKCclwJbb5nAzP5l4U7yF2Xpp6iP17Ma4Q1ZwZgAJphMhaD99rKgYDBkrLADcqY21FCZK-TaiJqBL3A5a70JtZGpt-kgsxzD0fR5MEFaXrsKe-EiB_Id4LfgFWW7K8EUayMY7x7ANgM96RYKojHqAMc_2DXbdjdro7OE-bqJLwfv00TuofJRTPGhJ8jG3igLKFdjrbInZIgtqdY0ZHSBjXkbeAxlSOESoBKcLh-pqenqPEhVw" type="video/mp4">
@@ -766,11 +1109,11 @@
 <a href="https://cdn4.telesco.pe/file/fea3c98f90.mp4?token=CXoKdIOXM12jPGqPiG-gal-qFcBk3pb3YOkStLuJ51j3owA1X8IpHFLAkXkfBVtcr9e0AGd26piwB9dtcACUje2-NG37cyLL29YTrCKCclwJbb5nAzP5l4U7yF2Xpp6iP17Ma4Q1ZwZgAJphMhaD99rKgYDBkrLADcqY21FCZK-TaiJqBL3A5a70JtZGpt-kgsxzD0fR5MEFaXrsKe-EiB_Id4LfgFWW7K8EUayMY7x7ANgM96RYKojHqAMc_2DXbdjdro7OE-bqJLwfv00TuofJRTPGhJ8jG3igLKFdjrbInZIgtqdY0ZHSBjXkbeAxlSOESoBKcLh-pqenqPEhVw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">شوارع النجف الأشرف تعج بالمعزين بالسيد الشهيد</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/81477" target="_blank">📅 00:10 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/81477" target="_blank">📅 00:10 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81476">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8d3bb965e4.mp4?token=QRf_dodeTj3D5BZ2shuWGo2rthc-DALeuyOosjavSndnmKtQ95F5sBg9Wgkw0wlgkvbw8oNHGb9lFQy5P9fCa8s-D7AxOdTYAmrinubifP77O-eacIu6CBgqfVP4WBO8l1dxvrmk2hC5Rk49VPDTK1PrDFVQorBJk3Ar5zUAVoCSvSg1Xr8SG--zPBZKxl7hLOmRplERt5NqBuCajywQVrFmqURdSRTplTl3HCbMaoNZxcNZ1-f_pcG9TAsfja2dMoc2ZUMv9RfECHh6B9k_XDhaBtXpnwKW16i77T_5Vwo3Ed8lxOG0dP8ZU084DX3gnbRIEHSbBYsz3XZdqlJkEg" type="video/mp4">
@@ -779,11 +1122,11 @@
 <a href="https://cdn4.telesco.pe/file/8d3bb965e4.mp4?token=QRf_dodeTj3D5BZ2shuWGo2rthc-DALeuyOosjavSndnmKtQ95F5sBg9Wgkw0wlgkvbw8oNHGb9lFQy5P9fCa8s-D7AxOdTYAmrinubifP77O-eacIu6CBgqfVP4WBO8l1dxvrmk2hC5Rk49VPDTK1PrDFVQorBJk3Ar5zUAVoCSvSg1Xr8SG--zPBZKxl7hLOmRplERt5NqBuCajywQVrFmqURdSRTplTl3HCbMaoNZxcNZ1-f_pcG9TAsfja2dMoc2ZUMv9RfECHh6B9k_XDhaBtXpnwKW16i77T_5Vwo3Ed8lxOG0dP8ZU084DX3gnbRIEHSbBYsz3XZdqlJkEg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">الرئيس الإيراني في شارع الكوفة متوجهاً لزيارة مرقد الإمام علي عليه السلام في النجف الأشرف</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/naya_foriraq/81476" target="_blank">📅 00:07 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/81476" target="_blank">📅 00:07 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81475">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/57255ab7ca.mp4?token=Iv0KZVLZludrZ3ajimY2ZEq2CCKhFvBBXzYxlCMmHWVyyf40xLXncQ066cebvUu1RSKLLGyupCM6DgWkUUJjA2nlnt0eu-ZkLpsK0Asz3v7WYhHo3Ndc9uiSmBUX_oc9a-X0CTvUGEt1OXY87ADcCyTR3FfX3XG1-pDapcv_VOBnuqjFdu8LBgYSDVJExbhy0ataMOWEia1ZSFVOlaq-V3G2ic05wkisx-wqMsXcirGnmPhXHlxWUzxN1Mx2Kl67YdaZN02LONn-pBgdHAbNAZwBD_w65z-huuSAavm1yhiUl34DC0I34TjaTxT95juQKSxTYzJKSaOX8dm_LgcoZQ" type="video/mp4">
@@ -792,11 +1135,11 @@
 <a href="https://cdn4.telesco.pe/file/57255ab7ca.mp4?token=Iv0KZVLZludrZ3ajimY2ZEq2CCKhFvBBXzYxlCMmHWVyyf40xLXncQ066cebvUu1RSKLLGyupCM6DgWkUUJjA2nlnt0eu-ZkLpsK0Asz3v7WYhHo3Ndc9uiSmBUX_oc9a-X0CTvUGEt1OXY87ADcCyTR3FfX3XG1-pDapcv_VOBnuqjFdu8LBgYSDVJExbhy0ataMOWEia1ZSFVOlaq-V3G2ic05wkisx-wqMsXcirGnmPhXHlxWUzxN1Mx2Kl67YdaZN02LONn-pBgdHAbNAZwBD_w65z-huuSAavm1yhiUl34DC0I34TjaTxT95juQKSxTYzJKSaOX8dm_LgcoZQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">أهالي محافظة ذي قار يتوافدون للانطلاق إلى محافظتي النجف الأشرف وكربلاء المقدسة لتلبية النداء وتشييع السيد الولي</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/81475" target="_blank">📅 00:04 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/81475" target="_blank">📅 00:04 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81474">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/141fb0aa9c.mp4?token=F5QdJpStOFMSDNtGij0QJUCtk0C8SPX5prL_NfhS3sq47_iKheD_eP2rx6kFbcAksSW6oqxP2Fycbb-pI-64L3EuBVSqo4cXAtlMBhXiRCQAOuJ6StDCQnxEu8eOozIy0Fl0rinAejk-RJXgD4kujzb8phhwt4-UDCfUU8q5L9uFzHjNva2xw8ILF9ybbh8p4tkVTr0DtaRzYwg7Mi5haihwdz4Sf4QK1IgbSiCxQbKxv49anxpNdcEOLODCDMgpb0xJRRaEGU4BOf0cdYcH-bB_xZNiSkoDzIZc4oQiDU_3RRiaYnZRmJ3LdJDkDJ4Gvt66rw5btHzzOrFKKPCq9oWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
@@ -805,17 +1148,17 @@
 <a href="https://cdn4.telesco.pe/file/141fb0aa9c.mp4?token=F5QdJpStOFMSDNtGij0QJUCtk0C8SPX5prL_NfhS3sq47_iKheD_eP2rx6kFbcAksSW6oqxP2Fycbb-pI-64L3EuBVSqo4cXAtlMBhXiRCQAOuJ6StDCQnxEu8eOozIy0Fl0rinAejk-RJXgD4kujzb8phhwt4-UDCfUU8q5L9uFzHjNva2xw8ILF9ybbh8p4tkVTr0DtaRzYwg7Mi5haihwdz4Sf4QK1IgbSiCxQbKxv49anxpNdcEOLODCDMgpb0xJRRaEGU4BOf0cdYcH-bB_xZNiSkoDzIZc4oQiDU_3RRiaYnZRmJ3LdJDkDJ4Gvt66rw5btHzzOrFKKPCq9oWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">من مرقد الامام علي عليه السلام المشيعون بانتظار جثمان السيد الشهيد علي الخامنئي</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/naya_foriraq/81474" target="_blank">📅 00:02 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/81474" target="_blank">📅 00:02 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81473">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">تحطم طائرة مدنية باكستانية فوق بحر العرب على متنها خمسة أفراد أثناء رحلة من الشارقة إلى كراتشي.</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/81473" target="_blank">📅 23:39 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/81473" target="_blank">📅 23:39 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81472">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/a79ae4e2f7.mp4?token=tnbg90UzlMpKh10gUwh8dh9UY2DRwriVNi_8ynmaDa-Q8cUqMlHmRYnUzbVHyvRgY2yRkLfiIZSqp7G2wi-u9Rjlz2ysmgulBLGMt_PXFWeclCj4TDrcDefSU6-9qkWSFtYP5uWb4f-HRy4SudotJ0xbApH8P8RmxXXH4eZmH1RT5QtIJbDdsziLpOf48ZRgiBJY5vyROUqaiReNdw7T1O3ebPqPOw341Rz_V81Nho9R0GIko9oRO5MaSFMzBe-BfvCCemVI0ZtR9ZkBxHazepBFfEDybUjESHqP-_YP4vLNdAQrzyxAGyt92zx-3454CMv_yNiw7t8LZtUJkaAU6w" type="video/mp4">
@@ -825,19 +1168,19 @@
 </div>
 <div class="tg-text">لوحة الوفاء الأكبر.. النجف الأشرف تشهد رفع جدارية استثنائية للمجلس الأعلى الاسلامي العراقي بالتزامن مع انطلاق التشييع المهيب الإمام الخامنئي (قده)
 #قوموا_لله</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/81472" target="_blank">📅 23:36 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/81472" target="_blank">📅 23:36 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81471">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Dx9XqHEIF3kO89Nnlc-AuXjp-8ZcWFuV3V989P5xP7UOGhbpg0GX5sX8MhPRqEb9wkjkk-DQ9C3rn8WTREV_lYOdtmF7RL2kxfC0MC31tmyJRXxohUY6O6xHC-DSWPd-jRZ7V5rSEh6x9aK_EV3BQ8-i6XZhyrVYIj-E8cH7zJ-68Pi-FsGjCiScnAfmdwfAkn2kyJ_fLTNiU1OG0cxt1SdYkuWe8jr_OAlCQUpCSqWgFvU11m45z4C4HeoNReL2e9QIP93URsqIPbecCSrX6Kz8bNJ8MfG5RB04Sn1-WhgeOx0C2gP66261f18SEaLaVGUuCfZK40r5zJVZ0HB18g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#قوموا_لله
 تتصدر ترند العراق على مواقع التواصل الاجتماعي</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/81471" target="_blank">📅 23:32 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/81471" target="_blank">📅 23:32 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81470">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/a611a3cbdd.mp4?token=hza5PEh7Fp7tQjWHjalR05IKhrNxY7xlYmiZHwGna1LvrVSA7vjemLMPGjmAuDpv5h_2jsvKtiNWpmX4sO_OU_Eyd59vTd9AhJ__lpf76A2OKVjlSMxUgN64ifESwtSkpHP0XORIhS1R1SLAIOjUT1I-jrDtiAuoHJu7OxEFJZBIIINNzf9AmAPaBRCfbGXT1HZmBt6S_QSEgOb7O2y2S5cq4_BH_gQklPaam8Qev5fsDWEwcY6FR8x0QwVuHY4A3YxlyGvG0RH1ZYqK6zuC96JSzGAAl2GtzGO69O9X0iVq6C8c-_7v0iYpsxOASorW4qeXAPaalZMNQAP8dokOEw" type="video/mp4">
@@ -846,11 +1189,11 @@
 <a href="https://cdn4.telesco.pe/file/a611a3cbdd.mp4?token=hza5PEh7Fp7tQjWHjalR05IKhrNxY7xlYmiZHwGna1LvrVSA7vjemLMPGjmAuDpv5h_2jsvKtiNWpmX4sO_OU_Eyd59vTd9AhJ__lpf76A2OKVjlSMxUgN64ifESwtSkpHP0XORIhS1R1SLAIOjUT1I-jrDtiAuoHJu7OxEFJZBIIINNzf9AmAPaBRCfbGXT1HZmBt6S_QSEgOb7O2y2S5cq4_BH_gQklPaam8Qev5fsDWEwcY6FR8x0QwVuHY4A3YxlyGvG0RH1ZYqK6zuC96JSzGAAl2GtzGO69O9X0iVq6C8c-_7v0iYpsxOASorW4qeXAPaalZMNQAP8dokOEw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">تهافتت قلوب العراقيين لحظة وصول جثمان السيد الشهيد إلى أرض العراق.</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/81470" target="_blank">📅 23:15 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/81470" target="_blank">📅 23:15 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81469">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9675615690.mp4?token=k-43gZ1cDLWYU9QVuIdO5ctbzzdHGDU1KeGLqQVe4piE600naWoskSFLyzBJGvjC4HuWmR_pglJvZq2D4TtUXUYtPaclWmJEE_kovBHPgnvZnjqe5TaoZKwbccvyLEZyecrvOmqNeoqZeN2ExOsMFjwcUMSin8UkswTeElkf64o4-klHsnR9cQYNKNcRc6-I2AARwevjiBZgSOzBlHf2US4EOKLg2U2oPRBTDjUGHIHGQOOs4M4C7lZEuBHJ6iCWQYeu15m_3XlSKyfH7-0v7zLjOOUTZg8WUPRr4cy0M2FmX-UMsiabVzCbdnRT2S1vl4DqjZmK3Q2HPxP_rR3IwIWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
@@ -859,11 +1202,11 @@
 <a href="https://cdn4.telesco.pe/file/9675615690.mp4?token=k-43gZ1cDLWYU9QVuIdO5ctbzzdHGDU1KeGLqQVe4piE600naWoskSFLyzBJGvjC4HuWmR_pglJvZq2D4TtUXUYtPaclWmJEE_kovBHPgnvZnjqe5TaoZKwbccvyLEZyecrvOmqNeoqZeN2ExOsMFjwcUMSin8UkswTeElkf64o4-klHsnR9cQYNKNcRc6-I2AARwevjiBZgSOzBlHf2US4EOKLg2U2oPRBTDjUGHIHGQOOs4M4C7lZEuBHJ6iCWQYeu15m_3XlSKyfH7-0v7zLjOOUTZg8WUPRr4cy0M2FmX-UMsiabVzCbdnRT2S1vl4DqjZmK3Q2HPxP_rR3IwIWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">تهافتت قلوب العراقيين لحظة وصول جثمان السيد الشهيد إلى أرض العراق.</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/81469" target="_blank">📅 23:11 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/81469" target="_blank">📅 23:11 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81468">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/fd55bc01e1.mp4?token=ZmXks2pFMZIdGWQLzTFeww-8mH34eGiiimAmptr3FXnPbk42PgIBWNZPScfV6MjzTfoqaW08sl9ibiRD3CSqrlfJDoSk7V08Oz_N5cMMc-9TVvIr75OfxLjynFrDiTNuc0gIb_dzyOCZpT0qkFyqh0-iESyPFgsGAz6rzu8rq_NN-qtFc2HDetF5HU6aag0R0JenUlpx-eIMeLvcPR4wO3S_EOl5Cy_tipV_aeRjFki2pqBAthvkWDY24s8kkYz-HUb1G_oYdRkIAsgN2iFFTbmIJcptSloXdzJyIoV22cRN-SqBV1EEmp7235i5TMmSxGQUqfJUKfiuXWYZD9ViIQ" type="video/mp4">
@@ -872,11 +1215,11 @@
 <a href="https://cdn4.telesco.pe/file/fd55bc01e1.mp4?token=ZmXks2pFMZIdGWQLzTFeww-8mH34eGiiimAmptr3FXnPbk42PgIBWNZPScfV6MjzTfoqaW08sl9ibiRD3CSqrlfJDoSk7V08Oz_N5cMMc-9TVvIr75OfxLjynFrDiTNuc0gIb_dzyOCZpT0qkFyqh0-iESyPFgsGAz6rzu8rq_NN-qtFc2HDetF5HU6aag0R0JenUlpx-eIMeLvcPR4wO3S_EOl5Cy_tipV_aeRjFki2pqBAthvkWDY24s8kkYz-HUb1G_oYdRkIAsgN2iFFTbmIJcptSloXdzJyIoV22cRN-SqBV1EEmp7235i5TMmSxGQUqfJUKfiuXWYZD9ViIQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">أين خامنئي أين...</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/81468" target="_blank">📅 23:04 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/81468" target="_blank">📅 23:04 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81466">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/03e9cd7257.mp4?token=h32aTEyIlh1OaIKyQ1Bbpl3Jlnxdo7vuVZr_fdcWvl_yG132xN8JOUUciwx3Gc5SjJ7MihmqYUgZsJJcVoBDZsq0_5CMBcunVwv2PARdue6yfd5d5RC9B9MVh8OjuCjWhBrHVp9umsZkSC9eQobOS6wM4CWvh4Fmwd5ZUt2XW9suUV0jRcJoyqV3jho4upHmmPwODC1UOysKmgHT2q3X4DRQNCke580_u0e6tzNwNbTwiJTy4XsB7UdwDjL6D9B1cLwvIRKC9Gl14ifmQr10Lvi0yQR7eIC_NKwjsm0j-g885bmRh-dxX6f5iEtq-fm_zUx7IzTnMiEwBZU6T5MZ8g" type="video/mp4">
@@ -885,24 +1228,24 @@
 <a href="https://cdn4.telesco.pe/file/03e9cd7257.mp4?token=h32aTEyIlh1OaIKyQ1Bbpl3Jlnxdo7vuVZr_fdcWvl_yG132xN8JOUUciwx3Gc5SjJ7MihmqYUgZsJJcVoBDZsq0_5CMBcunVwv2PARdue6yfd5d5RC9B9MVh8OjuCjWhBrHVp9umsZkSC9eQobOS6wM4CWvh4Fmwd5ZUt2XW9suUV0jRcJoyqV3jho4upHmmPwODC1UOysKmgHT2q3X4DRQNCke580_u0e6tzNwNbTwiJTy4XsB7UdwDjL6D9B1cLwvIRKC9Gl14ifmQr10Lvi0yQR7eIC_NKwjsm0j-g885bmRh-dxX6f5iEtq-fm_zUx7IzTnMiEwBZU6T5MZ8g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اولى مراسم التشييع الرسمي للسيد الشهيد علي الخامنئي في مطار النجف الدولي</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/81466" target="_blank">📅 22:54 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/81466" target="_blank">📅 22:54 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81465">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">نايا - NAYA
 pinned a video</div>
 <div class="tg-footer"><a href="https://t.me/naya_foriraq/81465" target="_blank">📅 22:51 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81464">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">عدسة نايا لقطات حصرية عند وصول السيد الشهيد الخامنئي القائد للعراق</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/81464" target="_blank">📅 22:51 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/81464" target="_blank">📅 22:51 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81463">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/65bb850197.mp4?token=DzMcu9931MEqHG2KJJxM8jZ-MY2EG4ow28ucUFHK_1v1oSCiBICeyeNHIQKcqf0BXk08-ksjT3tI1ZES27N5afzlhHeWly6jJXO9U4EFNV5GWJxD7k_YvlG3RJxNrEwaRPfanOFsoLryRe5ZTFZz1-RVBCdNbd-4yAAqt1a7S_a9IfamK06Gv4U3R9vjbm5zOijc3TyI8TiLT5UWCuu76x3kbVWfIzZBlU5L5cqFQZ0Sx9a3vru9cVbvxHoEEq7wX6tKVUONUySR0gXJ-NUY1_vKumBqMJ57rzdsgCIsOrD9eQFWL9D2_5XZykbhRTGb2lxPxOdjdCzP4poaUYHscw" type="video/mp4">
@@ -912,25 +1255,25 @@ pinned a video</div>
 </div>
 <div class="tg-text">🔻
 انطلاق مراسم التشييع الرسمي للشيهد السيد علي الخامنئي في النجف الأشرف</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/81463" target="_blank">📅 22:51 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/naya_foriraq/81463" target="_blank">📅 22:51 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81462">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">🔻
 انطلاق مراسم التشييع الرسمي للشيهد السيد علي الخامنئي في النجف الأشرف</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/81462" target="_blank">📅 22:48 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/81462" target="_blank">📅 22:48 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81461">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">🇮🇶
 الداخلية العراقية تعلن إصدار أمر إداري بترفيع ومنح علاوة سنوية لأكثر من 178 ألف منتسب.</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/81461" target="_blank">📅 22:46 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/naya_foriraq/81461" target="_blank">📅 22:46 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81460">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/7acae2a189.mp4?token=oXmIcPepJIr7P9iGdVpkrl-CKSWlXGNHOvlAHigIt3i103TsaQoAzDtWU4uXjTNzTR3VH9_9Mohx6GACCsgrWnQOyiC2K3l-rUIIMiXepIJ5m0rl2EsTllutqA8HZWm2UQLTuTYqZEq7bLiH2BOQSxJfMfGSGCb-F3oSZQf0tSM0CpbnzeRNC_EUO_6Jw_VaJWfkuiPfXJxMqLV36-PbPkr33LlnWkXLYY1RrUFd9Es_zKSh8Av-nsez8dWpRwS9OAwD6F-WCBhYRMk7SJkS16Eg3kNZrvjb1sNBzFTJ9bS60-OWJeLfxyjhhwytNN2MrlQ6rA24jbh24RiOu9-D7g" type="video/mp4">
@@ -939,11 +1282,11 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/7acae2a189.mp4?token=oXmIcPepJIr7P9iGdVpkrl-CKSWlXGNHOvlAHigIt3i103TsaQoAzDtWU4uXjTNzTR3VH9_9Mohx6GACCsgrWnQOyiC2K3l-rUIIMiXepIJ5m0rl2EsTllutqA8HZWm2UQLTuTYqZEq7bLiH2BOQSxJfMfGSGCb-F3oSZQf0tSM0CpbnzeRNC_EUO_6Jw_VaJWfkuiPfXJxMqLV36-PbPkr33LlnWkXLYY1RrUFd9Es_zKSh8Av-nsez8dWpRwS9OAwD6F-WCBhYRMk7SJkS16Eg3kNZrvjb1sNBzFTJ9bS60-OWJeLfxyjhhwytNN2MrlQ6rA24jbh24RiOu9-D7g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وضع جثمان الإمام الشهيد في مطار النجف في المكان المخصص لتأدية التحية.</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/81460" target="_blank">📅 22:44 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/81460" target="_blank">📅 22:44 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81459">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/fd8dbce758.mp4?token=WXDWBJkDW0NKG_8t3HIrLqucEBV6aqABupXwp5basNRd0mpz-pSuyRIJSaTXFGy7kjBCPlpV_J11OANsS1Xct1Y5CmPj5c3DZWDVnHkJW817An07ooR3mojqTg6f2jLo3MwjfE15VtuF23SA9Gc6tNmws4QjRkerEvWPa5EcBD7OHSRhTlqbS6Xuep8cWCcj0RsJ0TlBn_wAtgvq-PbFOetePrJ0V-SKaim9dS-QGOOYVm2Xd7CG36FVdAWF924z50aPHi0GKvM_lAmCXjVR8x0J2KY6LS0xGJ84MboCLFp7NwBh8kulqZzVeeNvUHjOhO7b06BZzZZGexjhdUYOCQ" type="video/mp4">
@@ -953,11 +1296,11 @@ pinned a video</div>
 </div>
 <div class="tg-text">الدم بالدم ناخذ ثاره
 الإمام علي النجف الأشرف مباشر</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/81459" target="_blank">📅 22:42 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/81459" target="_blank">📅 22:42 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81458">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/ff124e6770.mp4?token=tODATYc2xC-cVKN1bKJ2AgsfKW5-COz3YIKJ1gb42ZV64JAsnPzfllwKeXawvRqhd6F-wPMj2s01XQmbYO3GkzsXs9zInSB_jq2p0OC7Vzc6gvLikJsbJWkG1zK9am8VUEaG-N1BFgR-1y4Uj-yKR6DZUHS8p6_908foX0jtD3AsDWMEYNkX5uGPfmS4bN0mQ06s4Hec4BVQJPiaaQbDiCLOnFEOqCJ5IO9j4jx_uqvcmcUQ2R42X_gjOF6H2DvzCOnubnvatFGf0_tmQfe3VrdY0CudDdlDWMwpQfq3BFioXMFKIlRWBpc1gJ-hi4ZG6XhTXDUQhjS6UYcaAZQj1A" type="video/mp4">
@@ -966,11 +1309,11 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/ff124e6770.mp4?token=tODATYc2xC-cVKN1bKJ2AgsfKW5-COz3YIKJ1gb42ZV64JAsnPzfllwKeXawvRqhd6F-wPMj2s01XQmbYO3GkzsXs9zInSB_jq2p0OC7Vzc6gvLikJsbJWkG1zK9am8VUEaG-N1BFgR-1y4Uj-yKR6DZUHS8p6_908foX0jtD3AsDWMEYNkX5uGPfmS4bN0mQ06s4Hec4BVQJPiaaQbDiCLOnFEOqCJ5IO9j4jx_uqvcmcUQ2R42X_gjOF6H2DvzCOnubnvatFGf0_tmQfe3VrdY0CudDdlDWMwpQfq3BFioXMFKIlRWBpc1gJ-hi4ZG6XhTXDUQhjS6UYcaAZQj1A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وصول جثمان الشهيد السيد علي الخامنئي إلى المكان المخصص في مطار النجف الدولي</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/81458" target="_blank">📅 22:38 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/81458" target="_blank">📅 22:38 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81457">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c86698fb6e.mp4?token=Gs_mK6k7AFUuA_HUiyEzsFzLvFSmR2zX_pZ6Rd6VJ83cRBiFnempiFDmmnzPs5ShC8QQeIw595myAhwBrd_nv7_ZmFr49Zal56c0wQphl2H6Z7WA1VTEavV2DeRhwGJqDapnuzzo80edgbVV9dZ6HsKOHQ_-dud9RE_CHTCVFI0uVbILTX58ecxUNl_4gAjTNIP3FzBwF9v42jTlNcqdEk1a2eiaGoJDWF7_bbNFE8lgdpEsRqOL_20Ex_j9mDbrlgXNKCj3I6Vy3V8XiXKE0EHVnbmheCHueEFV8DrIq0qcGOIWC_gvoplKozQVRgEXxX68puturznqOQRri8QToQ" type="video/mp4">
@@ -979,24 +1322,24 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/c86698fb6e.mp4?token=Gs_mK6k7AFUuA_HUiyEzsFzLvFSmR2zX_pZ6Rd6VJ83cRBiFnempiFDmmnzPs5ShC8QQeIw595myAhwBrd_nv7_ZmFr49Zal56c0wQphl2H6Z7WA1VTEavV2DeRhwGJqDapnuzzo80edgbVV9dZ6HsKOHQ_-dud9RE_CHTCVFI0uVbILTX58ecxUNl_4gAjTNIP3FzBwF9v42jTlNcqdEk1a2eiaGoJDWF7_bbNFE8lgdpEsRqOL_20Ex_j9mDbrlgXNKCj3I6Vy3V8XiXKE0EHVnbmheCHueEFV8DrIq0qcGOIWC_gvoplKozQVRgEXxX68puturznqOQRri8QToQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">تشييع مهيب للسيد الشهيد في مطار النجف الأشرف</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/81457" target="_blank">📅 22:37 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/naya_foriraq/81457" target="_blank">📅 22:37 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81454">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">استقبال العراقيين للامام القائد</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/81454" target="_blank">📅 22:27 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/81454" target="_blank">📅 22:27 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81453">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FneYzblgYwM0o8CIYT2YNfGlMurcGJc7P7INujGJCZGdopdRU79sFVuAXx1rpCXPu8eCL9PeFLksxWsVbVl_anDifRhvkh4nkiIFidV93-ar3J_fDg2TFD7K9gucXMymmlesu2ucIw7cmQ5cVBVME2l6_EE17uR80NFTzCYucnJ5WxpahW-wiDEtNnqQr4nUmmgyxhtaGrdVjLPYDvvuZmrnzYrTF8PwTQLIfJ4Qfmu-GgPps1toeEAXEuzK9RuQlOHICqbnGRJfLsgj7Hp5yabcMom_-kIvZjXpZMdLwNu9F8s239cgQb68lkelKNQw8KsmA_l-rAYkQwQlAlYtUQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جثمان السيد الولي على أكتاف العراقيين في ارض النجف الأشرف</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/81453" target="_blank">📅 22:24 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/81453" target="_blank">📅 22:24 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81452">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c718ba0931.mp4?token=dza4SrfjbeSi5O2dv1h-mDG6v5XriNoHzW4p5yVdoZ9yI6jhYp2oFbQ5Wo3_tZa2qOtHnvqiqS9INZgqtBvld4LycKucxuhidygvnzlZKyFVU3hovcVBknp4H_E4xahrerBZDHC--XbO2-XKpjFUVpsGI4ac3Y8BXziXiGUPwBvGFq9oVwhiqzq-TB-1g2own274pPwWNBHc0F4YcLGlgD3dXDPYE-eqPjX30b0pmccRcHhJH1OFBkF7G0e-WGrN0Ip4nBfHPCE4hagTwRQ9yx99Oy1MwIJzafkRrM4xlD0iKifLFXAK85PHl7ebEd-0qdvhJPZoK4MvZh0sWdDNZhy67SKFdktmm4jqY_z4F3XlLnSlDNYmeRlA7feLZkb5tL8UJ_OEl9QxaVC_2g9dMm88Rly4gdonT1ws-j0oWqxduU3fc2pHa60BIcLtgbCuzHeC4rNiIVcLecg47h1qMp1_C2u1tx4hbDIVK_wRV0cbTwf52nnCaefToDXytR5M2JYxvZVtmcYfvdFAb0HP13JtHP4iMXtuSzNKSstMwC2HdTtr6yipgv2UXS68jBbooPbzYhnpwvdSXGvjgXwsSQEtk0nmZAvjYBpqQCXRPtI_TjsqKPD1CVWSl5OmU0FI8ozsNOOnCnBpZnD8dk0fzIGZZx2WLGoy_5V6L7gJOew" type="video/mp4">
@@ -1005,23 +1348,23 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/c718ba0931.mp4?token=dza4SrfjbeSi5O2dv1h-mDG6v5XriNoHzW4p5yVdoZ9yI6jhYp2oFbQ5Wo3_tZa2qOtHnvqiqS9INZgqtBvld4LycKucxuhidygvnzlZKyFVU3hovcVBknp4H_E4xahrerBZDHC--XbO2-XKpjFUVpsGI4ac3Y8BXziXiGUPwBvGFq9oVwhiqzq-TB-1g2own274pPwWNBHc0F4YcLGlgD3dXDPYE-eqPjX30b0pmccRcHhJH1OFBkF7G0e-WGrN0Ip4nBfHPCE4hagTwRQ9yx99Oy1MwIJzafkRrM4xlD0iKifLFXAK85PHl7ebEd-0qdvhJPZoK4MvZh0sWdDNZhy67SKFdktmm4jqY_z4F3XlLnSlDNYmeRlA7feLZkb5tL8UJ_OEl9QxaVC_2g9dMm88Rly4gdonT1ws-j0oWqxduU3fc2pHa60BIcLtgbCuzHeC4rNiIVcLecg47h1qMp1_C2u1tx4hbDIVK_wRV0cbTwf52nnCaefToDXytR5M2JYxvZVtmcYfvdFAb0HP13JtHP4iMXtuSzNKSstMwC2HdTtr6yipgv2UXS68jBbooPbzYhnpwvdSXGvjgXwsSQEtk0nmZAvjYBpqQCXRPtI_TjsqKPD1CVWSl5OmU0FI8ozsNOOnCnBpZnD8dk0fzIGZZx2WLGoy_5V6L7gJOew" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">جثمان السيد الولي على أكتاف العراقيين في ارض النجف الأشرف</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/81452" target="_blank">📅 22:23 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/naya_foriraq/81452" target="_blank">📅 22:23 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81451">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">وزارة الخزانة الامريكية تلغي ترخيص تصدير النفط الخام الإيراني</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/naya_foriraq/81451" target="_blank">📅 22:21 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/81451" target="_blank">📅 22:21 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81450">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">وزارة الخزانة الامريكية تلغي ترخيص تصدير النفط الخام الإيراني</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/81450" target="_blank">📅 22:20 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/81450" target="_blank">📅 22:20 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81449">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/cabe8849b9.mp4?token=IaG4vl4WulbWWpJTpbeJY05rN2s9U2MGn3OUM3GgN1ZvgZcbzw-87PgGPjQtBFUn2s6apW7XhJOoCbWQJRtKqhPw4dybII1bhLnMLZKV8pehrki9Ftjw7ooi3J8kxo8KZoSYwpWxa21t8B-3JUFuupsGSk7DIUCyZoTux6Re7sx6elX4zRmwFVvpl8IsGQbLq2TZ641FkwZmhlDnUH6ECyHyF0-dUbgnaoXAf8vO8702XoHE1iadxUUC4X_E0j1dyuVYSuZS1930kL3B0JwG3iSRoKaINy41a9fsFxa4Ae4eR_87eVCMGHZYTiv0ttp_JEafG4nUPvDfx6lQk1SAzqlGLHB8aVe_W9f2eFYHWTmw1T_VGxNj7gucJzOSzM6QxAyI0GD8ZNLApQT9tuZNo0ePApocvkPFGzK6Tsh0Xu7ZyYKu2oM230m5UKiNna2-96M5xaywG52RMzpM8enWs8xBJWOWgvAPB67MR4cHEemvZ1zfhteB1sYcE1TjObi2sjyB8MxiuBo9epyz7sJm2c7wukJDcVd8CSDByaJEXWmR35H80WKFdoroSl7OTmzuU6Ts5ekPtBbpGQstG7sWFqoouYdaJ0_kq96yYXT-NAlXXovtFhFU4-elSKrqyNPYJ9te1Uu-q8ljUKDTn7jt0kUIq8gvUcc5Ue2UK63aPdg" type="video/mp4">
@@ -1030,18 +1373,18 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/cabe8849b9.mp4?token=IaG4vl4WulbWWpJTpbeJY05rN2s9U2MGn3OUM3GgN1ZvgZcbzw-87PgGPjQtBFUn2s6apW7XhJOoCbWQJRtKqhPw4dybII1bhLnMLZKV8pehrki9Ftjw7ooi3J8kxo8KZoSYwpWxa21t8B-3JUFuupsGSk7DIUCyZoTux6Re7sx6elX4zRmwFVvpl8IsGQbLq2TZ641FkwZmhlDnUH6ECyHyF0-dUbgnaoXAf8vO8702XoHE1iadxUUC4X_E0j1dyuVYSuZS1930kL3B0JwG3iSRoKaINy41a9fsFxa4Ae4eR_87eVCMGHZYTiv0ttp_JEafG4nUPvDfx6lQk1SAzqlGLHB8aVe_W9f2eFYHWTmw1T_VGxNj7gucJzOSzM6QxAyI0GD8ZNLApQT9tuZNo0ePApocvkPFGzK6Tsh0Xu7ZyYKu2oM230m5UKiNna2-96M5xaywG52RMzpM8enWs8xBJWOWgvAPB67MR4cHEemvZ1zfhteB1sYcE1TjObi2sjyB8MxiuBo9epyz7sJm2c7wukJDcVd8CSDByaJEXWmR35H80WKFdoroSl7OTmzuU6Ts5ekPtBbpGQstG7sWFqoouYdaJ0_kq96yYXT-NAlXXovtFhFU4-elSKrqyNPYJ9te1Uu-q8ljUKDTn7jt0kUIq8gvUcc5Ue2UK63aPdg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">رئيس مجلس الوزراء العراقي وبزشكيان يستقبلان جثمان السيد القائد</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/naya_foriraq/81449" target="_blank">📅 22:16 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/naya_foriraq/81449" target="_blank">📅 22:16 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81448">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tkULgLgB1nKfOlsRd-QLpGaggJK0Q4eI-mYns4MDCalChO8z2nVv0hFTPuD_aFPxg8HhxhtRIyU85BBEbseQLrck3NiRXo6_lViVWC-sOGiLjAtUMbUpP3CS_wRWPjLch0Vwn8vmdShCeURIHDdxw1NJFiwmS0p5RnvdbpTOW3Z1KrrySwbSRkWt87MKfVRrxj1iwiBW1O-X7eVzUyPrS7KvVNnP04sppOQofW9-HfmD5wMKlfqmWXAxIFE-H4OeqeFhIUdhr0mybrPbevIeDelj1nFyUiMIR5MP0uXKMEnRvLR0PQUWGN5VGmYodmxWu_hg5TSO-aTHWGrSpYID6A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اخراج النعوش من الطائرة</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/81448" target="_blank">📅 22:14 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/81448" target="_blank">📅 22:14 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81447">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b8d3c10c72.mp4?token=tXg4jycgziT5_0pxR0poAi_uQdyCmxhnToZLCFv4U8bHhQjQxUrpPTXm5zw4BF1AwCWH2dqrgwxt0OCofCJOnrB9XCv61K8livO5e0-Tim_aBR5WMBH2p0zgCNWzjgwhPiC0M4zqNM3NNBOxewfieqfs_G7xVMKEPGYThyj6tycmCBdnKkgqOyIpENUbNhswlVBDRhkLgBOhvVX3tZ5t730puHEtDuSk4spZPCJlPJODXms3uqfyDoy0B1a03S5PkINzKEnEyoGRBd_YhyBO6SwVnM0VPL-aqk5RJiOFPsa2PFzFG2yLyD28nqHRdPQSbzQxQb3a5RKh6J3v8bGiQoWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
@@ -1050,238 +1393,19 @@ pinned a video</div>
 <a href="https://cdn4.telesco.pe/file/b8d3c10c72.mp4?token=tXg4jycgziT5_0pxR0poAi_uQdyCmxhnToZLCFv4U8bHhQjQxUrpPTXm5zw4BF1AwCWH2dqrgwxt0OCofCJOnrB9XCv61K8livO5e0-Tim_aBR5WMBH2p0zgCNWzjgwhPiC0M4zqNM3NNBOxewfieqfs_G7xVMKEPGYThyj6tycmCBdnKkgqOyIpENUbNhswlVBDRhkLgBOhvVX3tZ5t730puHEtDuSk4spZPCJlPJODXms3uqfyDoy0B1a03S5PkINzKEnEyoGRBd_YhyBO6SwVnM0VPL-aqk5RJiOFPsa2PFzFG2yLyD28nqHRdPQSbzQxQb3a5RKh6J3v8bGiQoWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">السيد القائد وعائلته على أرض العراق</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/naya_foriraq/81447" target="_blank">📅 22:14 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/naya_foriraq/81447" target="_blank">📅 22:14 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81446">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">لحظات لاستقبال الامام القائد وعائلته</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/naya_foriraq/81446" target="_blank">📅 22:12 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/naya_foriraq/81446" target="_blank">📅 22:12 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81445">
-<div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-text">التلفزيون الرسمي الحكومي العراقي يخصص بث مباشر وتغطية خاصة للتشيع</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/naya_foriraq/81445" target="_blank">📅 22:10 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81444">
-<div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RTJbSkMDOJvDnB-eatFQm261iqkLS_jaOtaJGNnYMrp32VitD31XxAQJEPu4qVjorspPpGC0CzylN9jPVy_JvZWPDlZgClThfoQOKfu4ImyVB8JTH9WF_Wwciwxkqe9V-a7hVGgM89GEqs97c4AGzE_FGWF7uXzTDUdAQwSR_R3kZ9DJLCRNa_dafEetonlrx4KIE6GNHM5EmHyI-rAV_BJ6O5-Zu9Wnn8iyFgALNEspod5H3hErp9OSYPJL9ml6BdI0ZLYQRxWTBCsSS4IFfW3ZMRi6_RLKVcSq9BrZtoWYGFx3qtBqMbnn9GZIoVf1AhSoDpqcTY37kYEA_ptiiw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">محمد الحلبوسي رئيس البرلمان السابق يبكي ويثغب امام الطائرة</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/naya_foriraq/81444" target="_blank">📅 22:08 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81443">
-<div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/571e5da2ac.mp4?token=TUf6Lcn6dqXa7lihY1Nl-TyF5sgQr_qfETovUckynB_4hAlQiUiJjXUTDSHxrZ1Z2dHNnDg6nAEb-q8YXGhRAf_N9MAJFUlLdaDlrKjOhazzVkebH_UR_CWAo8Np00WrPmCyo8BROzBegvx0m3vlKlaIUwi8WTNdS2VnxMYkn3sJf58gKj2y6VdFd7r5qWVtLbQF2H8EukAzxrLtZOHvlA6-87OX1qFa6aeiuLIPxWIjU_vhPuDnqknycX1k-irMXnJD7T8FfC6hb2PIzIonMKkEBS1fzGiElWs8TZ7w7ZhTK_o7C9R4thHVfXquUfszGIPCXbuMiZTHIysISa3c16f1sXnLQxF5xGBYwiQXvvNEKmwvJdaUw_cMOWBQhHWEfnLwUR9H1H59JahAU0QwODy-ilwrn_-bEXdat7a4H36fZuWdibZLLJWjVgsZP1B4Z8XWVuuprx3zOFYH122NJmRhXmSr5CL2V-vz4drGHPjEReL_9AbJeZkk_6P7DUD9T-Xg5XVS61ZWjypd9DO3CfcZh9TvpjYkSHF9KXlZYujmEE6jqCidUjV64sdzsm4Exn8an-azEU7san6ZTKI4RKBD4NL1Y1i0rUeh_uHtQtWvw2YjoG9rglGGi-feH6fPSVnMCDvk9xW2JwYubj43Rk3pgdday3DHqqX_WJ9RVnA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/571e5da2ac.mp4?token=TUf6Lcn6dqXa7lihY1Nl-TyF5sgQr_qfETovUckynB_4hAlQiUiJjXUTDSHxrZ1Z2dHNnDg6nAEb-q8YXGhRAf_N9MAJFUlLdaDlrKjOhazzVkebH_UR_CWAo8Np00WrPmCyo8BROzBegvx0m3vlKlaIUwi8WTNdS2VnxMYkn3sJf58gKj2y6VdFd7r5qWVtLbQF2H8EukAzxrLtZOHvlA6-87OX1qFa6aeiuLIPxWIjU_vhPuDnqknycX1k-irMXnJD7T8FfC6hb2PIzIonMKkEBS1fzGiElWs8TZ7w7ZhTK_o7C9R4thHVfXquUfszGIPCXbuMiZTHIysISa3c16f1sXnLQxF5xGBYwiQXvvNEKmwvJdaUw_cMOWBQhHWEfnLwUR9H1H59JahAU0QwODy-ilwrn_-bEXdat7a4H36fZuWdibZLLJWjVgsZP1B4Z8XWVuuprx3zOFYH122NJmRhXmSr5CL2V-vz4drGHPjEReL_9AbJeZkk_6P7DUD9T-Xg5XVS61ZWjypd9DO3CfcZh9TvpjYkSHF9KXlZYujmEE6jqCidUjV64sdzsm4Exn8an-azEU7san6ZTKI4RKBD4NL1Y1i0rUeh_uHtQtWvw2YjoG9rglGGi-feH6fPSVnMCDvk9xW2JwYubj43Rk3pgdday3DHqqX_WJ9RVnA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">حضور كبير في مطار النجف الدولي لاستقبال الجثامين</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/81443" target="_blank">📅 22:07 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81442">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-text">دقائق قليلة والعراق يستقبل الجثمان الطاهر</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/naya_foriraq/81442" target="_blank">📅 22:07 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81441">
-<div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-text">أعلام العدو خلال الأربع والعشرين ساعة الماضية: أطلقت إيران خمسة صواريخ وطائرات مسيرة على ثلاث سفن في الجانب العماني من مضيق هرمز.
-هل سيكون هناك رد أمريكي؟</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/naya_foriraq/81441" target="_blank">📅 22:03 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81440">
-<div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uHQ0bNz8sFgYTxpj9Es9IUsUOxIR8674RAjAoFdZovTf7v8BIVv-AX5C2IoV3LquEuV62ZtmqvCp_1dtQhT7-drvsHYgKRHkU7Sf-BF3VrmTvSfBlyY-nRfN0y6dzJ_xQKEVC-O9dsXEF7eMO3NFEZ2sr055BHmZEu0O_Xk4Ipvkdrn2YrM0qy4ny3fc2J_fDv1kBaT8WT9H2yuttfgt053rNnh-ZWy5avwC_ZoQAqHiujUAncj7a5a2iYHDjJWbJmNEijtIi7l1NVQUcz6_k2jg-VACt66vQ_4NRPWxpZ2R8miJ1K8coyTlttrRPlc52fdicHZfVvZQOHbxYJmfbA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">دقائق قليلة والعراق يستقبل الجثمان الطاهر</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/naya_foriraq/81440" target="_blank">📅 22:02 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81439">
-<div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3ee83fb66b.mp4?token=uPoB_RTmkeESmq2_tZKpxTInpixFndBUJF1zwRxS97FoLq4Rw1OpXQ7YFLST2GpoQguWEiMxfhg6ZHnwpej0JtjZ5LSK8cZp3Xon5Y31_jQxnYZ0n2jW693VTHqSN8T0ZKZHi9HfTrGUr8bk2-DDTTQmYzLdAn2p4CEW1CQSnG5UCrNWE2K1ozlXbDB9DJTBY0pbfpax1dYThApfxp_WSIvFpCZzd1juVewndBlYKuURSWqbid-mAhj9rOB49qcvcdtkk5EpFH2xFpGcq_DG-XNOADA-rs4BFxpTfZCxFKEqjiZTRlqgL058Edd2M93xA7Jln6TEKNFX-VplI77uIA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/3ee83fb66b.mp4?token=uPoB_RTmkeESmq2_tZKpxTInpixFndBUJF1zwRxS97FoLq4Rw1OpXQ7YFLST2GpoQguWEiMxfhg6ZHnwpej0JtjZ5LSK8cZp3Xon5Y31_jQxnYZ0n2jW693VTHqSN8T0ZKZHi9HfTrGUr8bk2-DDTTQmYzLdAn2p4CEW1CQSnG5UCrNWE2K1ozlXbDB9DJTBY0pbfpax1dYThApfxp_WSIvFpCZzd1juVewndBlYKuURSWqbid-mAhj9rOB49qcvcdtkk5EpFH2xFpGcq_DG-XNOADA-rs4BFxpTfZCxFKEqjiZTRlqgL058Edd2M93xA7Jln6TEKNFX-VplI77uIA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">دقائق قليلة والعراق يستقبل الجثمان الطاهر</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/naya_foriraq/81439" target="_blank">📅 21:55 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81438">
-<div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/7631b638cf.mp4?token=uqPWuFxWj5kHk-2PRmU6ia3XB5999F3jqGyf63HMGfNHf5Q7AqMO5N4UZWt3ufaG6_EoT69zn32XrSfIIyuYe8Zf1iUvxDZagKnQddTSBDLfUKtOIObmx9w1_GqoTTvpkQUaN-TPtrFRw6aZfdql8WaKhlivrNL--Ugoqt_ra8aYIkktPv8_yhTytpDGbw5xjVGFua0ILtUPLyPkpGbDHz4xuHW4FlDkqWhIZOsymkAaYz8aL84zU11rEZDtKvxwQzZuLocdRJJuqmMVbPTagZzDfBZIs0ke55OqXBCN55qpSswGuZ3M01QpT5p_NHfhrg5X2eGnexw5rQqBigPRyg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/7631b638cf.mp4?token=uqPWuFxWj5kHk-2PRmU6ia3XB5999F3jqGyf63HMGfNHf5Q7AqMO5N4UZWt3ufaG6_EoT69zn32XrSfIIyuYe8Zf1iUvxDZagKnQddTSBDLfUKtOIObmx9w1_GqoTTvpkQUaN-TPtrFRw6aZfdql8WaKhlivrNL--Ugoqt_ra8aYIkktPv8_yhTytpDGbw5xjVGFua0ILtUPLyPkpGbDHz4xuHW4FlDkqWhIZOsymkAaYz8aL84zU11rEZDtKvxwQzZuLocdRJJuqmMVbPTagZzDfBZIs0ke55OqXBCN55qpSswGuZ3M01QpT5p_NHfhrg5X2eGnexw5rQqBigPRyg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">وصول جثمان السيد الشهيد وأفراد عائلته الان إلى مطار النجف</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/naya_foriraq/81438" target="_blank">📅 21:53 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81437">
-<div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-text">وصول جثمان السيد الشهيد وأفراد عائلته الان إلى مطار النجف</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/naya_foriraq/81437" target="_blank">📅 21:52 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81436">
-<div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-text">هبوط طائرة إيرانية الان</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/naya_foriraq/81436" target="_blank">📅 21:50 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81435">
-<div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-text">هبوط طائرة إيرانية الان</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/naya_foriraq/81435" target="_blank">📅 21:49 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81434">
-<div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-text">هبوط طائرة إيرانية الان</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/naya_foriraq/81434" target="_blank">📅 21:48 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81433">
-<div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KzC8TowSJZUEnf0mkUCUJhduQHwolQcPRxFDfseTl7us78W-44uhRaYg5CZkwD-tyYvMEAUAY4BUC75fsDngo8FKN2L2jzN4mMUxQU1RGXmMyEs94JoiMTI2c3Tp5uRgu-n_CCaLXQ-_f8BgIl7iziadUSc7z43x02Dr8TarNsYGV5LTVCLaXXZCNKgkZj-ItLD7jzS6gI6UU2z1z0oQwP-dQwE6ARzjxr90-RkuVq1olkqUEKlcNtb5pckfeQcxS5Yb4_Dh0R-fd97RZtnMxVLTLZqGvM6zpzzz5ViPDRh-fAmc7w2Y15LbnjjTjlwSnX8iXbfkAXWY3Om9ZY9ySw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">التحضيرات الأخيرة قبل استقبال جثمان الشهيد علي الخامنئي وأفراد عائلته</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/81433" target="_blank">📅 21:46 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81432">
-<div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-text">مونتي كارلو لا يسمح لقاني زيارة العراق وتم ابلاغه ان ضيف غير مرغوب به
-😄</div>
-<div class="tg-footer">👁️ 9.3K · <a href="https://t.me/naya_foriraq/81432" target="_blank">📅 21:45 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81431">
-<div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dpKq-oxcQ2gOOOYfirWoa1RhWogp6Om0Ui2KYBl4HKN5s7NBJk280PitpKwWSowrf0U31cuiiROT72CyjOUpec2ELusKMDaiRBsG2Y8R6R4Deijk_ETaDHTG2ttTwUQRTxnzvNDznNlWvksDqoxqee7p9oITNo6wKKCj1CbZYEmkp584ah3kn3RLTmRcadzdEWy0SP4lak5jHymb8Tl605OABFRrWDDE1pvbIkdNE3JB2XN_IktVHEN2bXJeMWLQuT6sQsILJwcQgGrvg3ZquSD4o6hygAGtg8P4uISvB4lPrq6dhxZ7x6E5QIkhuGwhCXZtO2wPwS8nWLpbc6iZxA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/naya_foriraq/81431" target="_blank">📅 21:45 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81430">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/ca633d74a1.mp4?token=HdKFDXMCeO7jsuu0L4dLTO6rPwL8srJnaJMzLowzk3Q-MeKjSInZ7COfYd-VAB0mtCW7wwQjI_Vx5ATdwBwfVXkxCGILFow3EQsyjFFqeiosVSTd7WgYttTpgmMMudsZbhycjR4OPP7wnIbo-oHF2dWzfzgqB5DxwWwV-XJWPL2qHGtxAuf_zLEEthmW7hQm3M9RqBPKPAtLSuvN_K62zER5YsbeFp1Xm11C9SdcLC0ydjF8qGCsOltscwnb1H4utYneV2Xt8cKHtxk8De3LBwp1hfgCkiKkGoIoF43rOx7MdnD2CY26dppokX6gp7hjXuOiIjLo05Ac7NwJEY0e3Q" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/ca633d74a1.mp4?token=HdKFDXMCeO7jsuu0L4dLTO6rPwL8srJnaJMzLowzk3Q-MeKjSInZ7COfYd-VAB0mtCW7wwQjI_Vx5ATdwBwfVXkxCGILFow3EQsyjFFqeiosVSTd7WgYttTpgmMMudsZbhycjR4OPP7wnIbo-oHF2dWzfzgqB5DxwWwV-XJWPL2qHGtxAuf_zLEEthmW7hQm3M9RqBPKPAtLSuvN_K62zER5YsbeFp1Xm11C9SdcLC0ydjF8qGCsOltscwnb1H4utYneV2Xt8cKHtxk8De3LBwp1hfgCkiKkGoIoF43rOx7MdnD2CY26dppokX6gp7hjXuOiIjLo05Ac7NwJEY0e3Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">اختناق فوق مونتي كارلو   تفهم ما تفهم مشكلتك</div>
-<div class="tg-footer">👁️ 9.86K · <a href="https://t.me/naya_foriraq/81430" target="_blank">📅 21:41 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81429">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-text">قال شو؟ شخص غير مرغوب به</div>
-<div class="tg-footer">👁️ 9.87K · <a href="https://t.me/naya_foriraq/81429" target="_blank">📅 21:41 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81427">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/b8af3e7c08.mp4?token=b8WCqITSS_ieZZuU8uq-Usj1q-xIwRsYuyEgdtdIWM3KiShc5ZpDdIwHfhvCTSTDkvbt4e3qpLZQQZCCrMaaOegeESsRyATMgQIzYfHjvx5g_QGXrjw4coD2rCYyQoS_zd6BMrFjibijvjWrAWMcZb9SmVdKhjIIE-iG4V9uCTzhMejybAGJMrH0KXvwC2EMrhAkslYFOVbpPI331sG-Ydu1D_RbgG6wpgoC8_aY26VA0iWiE3gDtKtoZFnkQpXa22a7HMC0zWrbZB0avTWVWiJgFPxJl2OZ9XeUatN-0_jGgwjVl1rCpJu0baE5x_-dGrhNdxStZtC7Ic98GJGL4A" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/b8af3e7c08.mp4?token=b8WCqITSS_ieZZuU8uq-Usj1q-xIwRsYuyEgdtdIWM3KiShc5ZpDdIwHfhvCTSTDkvbt4e3qpLZQQZCCrMaaOegeESsRyATMgQIzYfHjvx5g_QGXrjw4coD2rCYyQoS_zd6BMrFjibijvjWrAWMcZb9SmVdKhjIIE-iG4V9uCTzhMejybAGJMrH0KXvwC2EMrhAkslYFOVbpPI331sG-Ydu1D_RbgG6wpgoC8_aY26VA0iWiE3gDtKtoZFnkQpXa22a7HMC0zWrbZB0avTWVWiJgFPxJl2OZ9XeUatN-0_jGgwjVl1rCpJu0baE5x_-dGrhNdxStZtC7Ic98GJGL4A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">محافظة النجف الأشرف تعج بالمشيعين للسيد الشهيد علي الخامنئي</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/naya_foriraq/81427" target="_blank">📅 21:39 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81426">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3986d93255.mp4?token=IE4EP1p1zp9fgDvQMzCdN-sPnIp5g7DC6ZA2Kx41lOeUWCXnEYjkaw43EHON5Vt3hapxqmIBF3Ou_JDofaZGqJ0BH8AHCOm6Mzz2d9LdmfsdCIzrhn0rG0XdE4uuge6Q4GDxFvFSl39Bc24GE_6_0aGB0gp6bJa9ZrBZ6FSbDDjDS7Dxvq_Q3XxW8wPX1BdVUxUhS7uyeuUovU7cFLBmPMNLGS0lVmtlIpK5RQt1srXSXtDF4wEPxCwobI4nptgNy966AXKwHqZhnfdfbSSRdJEFurdHeP_OVCtUn3kKVF8_abyYJ7bBM_bc9Sk49_aJPaQABfYmmyrYQfsopANUyg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/3986d93255.mp4?token=IE4EP1p1zp9fgDvQMzCdN-sPnIp5g7DC6ZA2Kx41lOeUWCXnEYjkaw43EHON5Vt3hapxqmIBF3Ou_JDofaZGqJ0BH8AHCOm6Mzz2d9LdmfsdCIzrhn0rG0XdE4uuge6Q4GDxFvFSl39Bc24GE_6_0aGB0gp6bJa9ZrBZ6FSbDDjDS7Dxvq_Q3XxW8wPX1BdVUxUhS7uyeuUovU7cFLBmPMNLGS0lVmtlIpK5RQt1srXSXtDF4wEPxCwobI4nptgNy966AXKwHqZhnfdfbSSRdJEFurdHeP_OVCtUn3kKVF8_abyYJ7bBM_bc9Sk49_aJPaQABfYmmyrYQfsopANUyg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">الزيدي يستقبل بزشكيان</div>
-<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/naya_foriraq/81426" target="_blank">📅 21:37 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81425">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZnHk7CrJaaeUNnjCWsSKlWCoAaobN3he0DJ-CLXoDqb7kHoAnmcJ1VZcKB2yYfO68go_ATQHfne54YBS1w7HggUko-ch6owrTw1Lo6akXkNzoFC1kCheuj1U18pCCgOiP7ZqVME4Mu05nl7lJQOF_KjVNxtp5a5JMSSC6KiKRto066XXQgsvWrIicszFovq5Dv7AUnA60-qK1wc6g2e7RLZw3APpkaUVrBC_LlaPQo9R63v0QMYfEoc9ezbPdyz-EeIY-u3YsG0RZ0ZZjHLLfPW9DBUIvg1BiM0vZ2Xh030FvArf94hprb70qyruSEm7N_3uIcdYUkPmCu27JQs01Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">الزيدي يستقبل بزشكيان</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/naya_foriraq/81425" target="_blank">📅 21:34 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81424">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-text">المالكي؛ الفياض؛ والمندلاوي</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/naya_foriraq/81424" target="_blank">📅 21:31 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81423">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3796d4c299.mp4?token=TQwubCh2ME19K-yt3p4in7PNa9tRBxFYPDQZWhOh3GUxptX32brmRUSdOKDnpvHNT2EV-klTZqlFy0kX-5pFDyOlTknpRJz1RYUveSyisK2ujLfE7YmVIJNSHxEcAyODU6oFb05TuFVlDQwxU3kv1Q19oUsVBOyTaUG-PXwr4uFrWNeMS7II5BOw1GREYLUBuMxawuk7DGTSi7L3lz5iYr1lwhBbfTC_Byq5D3_VU6Thxz0eawua1_dTuVr-mA182rTaQU-4BCXD36wA0LgCRvK7_MnmX3lAJ5uSXo2yBzWKlBib66vsU32JQzi2bGY67WubmGiGAW-ojQJIaMs48w" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/3796d4c299.mp4?token=TQwubCh2ME19K-yt3p4in7PNa9tRBxFYPDQZWhOh3GUxptX32brmRUSdOKDnpvHNT2EV-klTZqlFy0kX-5pFDyOlTknpRJz1RYUveSyisK2ujLfE7YmVIJNSHxEcAyODU6oFb05TuFVlDQwxU3kv1Q19oUsVBOyTaUG-PXwr4uFrWNeMS7II5BOw1GREYLUBuMxawuk7DGTSi7L3lz5iYr1lwhBbfTC_Byq5D3_VU6Thxz0eawua1_dTuVr-mA182rTaQU-4BCXD36wA0LgCRvK7_MnmX3lAJ5uSXo2yBzWKlBib66vsU32JQzi2bGY67WubmGiGAW-ojQJIaMs48w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">التحضيرات الأخيرة قبل استقبال جثمان الشهيد علي الخامنئي وأفراد عائلته</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/81423" target="_blank">📅 21:30 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81421">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-text">🇮🇶
-ذي قار تعطل الدوام الرسمي في الدوائر الحكومية يوم الخميس الموافق 9 تموز، استكمالًا لقرار تعطيل يوم الأربعاء، وذلك لإتاحة الفرصة أمام الموظفين للمشاركة في مراسم التشييع وتفويج المشيعين.</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/naya_foriraq/81421" target="_blank">📅 21:28 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81420">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">فدای جان پاکی که جان‌فدای ما شد...
-❤️
-🕊️
-▪️
-تصاویری از وداع باشکوه و تاریخی مردم تهران با رهبر شهید انقلاب
-🇮🇷
-📸</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/naya_foriraq/81420" target="_blank">📅 21:25 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81419">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-text">وفد الإطار التنسيقي يصل إلى مطار النجف الأشرف للمشاركة في مراسم استقبال جثمان السيد الخامنئي</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/naya_foriraq/81419" target="_blank">📅 21:19 · 16 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-81418">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/209e13531b.mp4?token=AiD13aUOVcPdBvJbDnPmGefzLVktGO2nt0TQmxuYLqW4WKLxY9VF87KcEx33t2L-n1f1f1erk12BusASbd76PVO7ls6gcfQ0drQoeU3P7r0_Zrf6wNzoAJv3hcBBRY9IAWa8gb78d-fjhDIyDSISuRoCzsPmgiJ42ZUGR8sqfm64WrH2MRYM-JczELSbuniM_E5Jw_VK0d3ffqkmLJ22OOHIaXbqTi5OuHucnYMMHVUF7Ufszh-e0EtLmVoE_IrTxSVUoJCAqpOYEsFToZPcQ-KkNXGB7ZLSGen351VIT8yRmmwWFyC29L8QRoQU7221Uh5qbPI7EcVKdSLMTnx_tbbE1EHkZIZZqkJwN87gyc6ufEZOS5SXrjcSeQOZKo3JC2shD_EOMkk86MoyspfpjeZl602gKzDg_LYazIopWYc_yvMjEQVTGPzmVNK-G3noepLXzzCS2U5u23iDSwE_KMLA8oYEgvMVlTx0EF9G6_Gr2oFDud5RD4Bfo--HSjumkk7c2T6hBlhtvAE9_w3MaTM8Mir4KSKEs_AxcECP5jl6cJuFKWMr9Qnx4wRhwLZHNom0J43Bru1mQvw3T-nDa2FmlUbo-sCAIviWoxP_XEXFJDwZlcVvZxPRg7_VfMTwsFoa0hpb8hNArSFEHr1VXmntWTFGviThXc8KkDDVQFU" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/209e13531b.mp4?token=AiD13aUOVcPdBvJbDnPmGefzLVktGO2nt0TQmxuYLqW4WKLxY9VF87KcEx33t2L-n1f1f1erk12BusASbd76PVO7ls6gcfQ0drQoeU3P7r0_Zrf6wNzoAJv3hcBBRY9IAWa8gb78d-fjhDIyDSISuRoCzsPmgiJ42ZUGR8sqfm64WrH2MRYM-JczELSbuniM_E5Jw_VK0d3ffqkmLJ22OOHIaXbqTi5OuHucnYMMHVUF7Ufszh-e0EtLmVoE_IrTxSVUoJCAqpOYEsFToZPcQ-KkNXGB7ZLSGen351VIT8yRmmwWFyC29L8QRoQU7221Uh5qbPI7EcVKdSLMTnx_tbbE1EHkZIZZqkJwN87gyc6ufEZOS5SXrjcSeQOZKo3JC2shD_EOMkk86MoyspfpjeZl602gKzDg_LYazIopWYc_yvMjEQVTGPzmVNK-G3noepLXzzCS2U5u23iDSwE_KMLA8oYEgvMVlTx0EF9G6_Gr2oFDud5RD4Bfo--HSjumkk7c2T6hBlhtvAE9_w3MaTM8Mir4KSKEs_AxcECP5jl6cJuFKWMr9Qnx4wRhwLZHNom0J43Bru1mQvw3T-nDa2FmlUbo-sCAIviWoxP_XEXFJDwZlcVvZxPRg7_VfMTwsFoa0hpb8hNArSFEHr1VXmntWTFGviThXc8KkDDVQFU" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">مقام الإمام علي عليه السلام قبل ساعات من بدء مراسم تشييع الإمام الشهيد السيد علي الخامنئي في النجف الأشرف.</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/naya_foriraq/81418" target="_blank">📅 21:08 · 16 Tir 1405</a></div>
+<div class="tg-text">التلفزيون الرسمي الحكومي العراقي يخصص بث مباشر وتغطية خاصة للتشيع</div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/naya_foriraq/81445" target="_blank">📅 22:10 · 16 Tir 1405</a></div>
 </div>
 
 <hr>
