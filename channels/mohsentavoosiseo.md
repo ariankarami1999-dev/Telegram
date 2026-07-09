@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-18 22:35:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-19 00:30:37</div>
 <hr>
 
 <div class="tg-post" id="msg-828">
@@ -355,7 +355,7 @@ https://t.me/mohsentavoosiseo/826
 لینک پستش
 رو میذارم. ولی حرفم خود تصویر نیست.
 بعد از نظر سنجی پایین، چیز دیگه ای میخوام بگم.</div>
-<div class="tg-footer">👁️ 1.42K · <a href="https://t.me/mohsentavoosiseo/822" target="_blank">📅 18:28 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.43K · <a href="https://t.me/mohsentavoosiseo/822" target="_blank">📅 18:28 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-819">
@@ -397,7 +397,7 @@ https://t.me/mohsentavoosiseo/267
 ) که گفتم فاز لبه تکنولوژی برداشتن بر ضد پول و به ضرر خودمون هست.
 هوش مصنوعی های دیگه نمیفهمن به خاطر جاوااسکریپتی لود شدن با Query string نشون نمیده. این عین انسان میفهمه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.6K · <a href="https://t.me/mohsentavoosiseo/816" target="_blank">📅 14:22 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.61K · <a href="https://t.me/mohsentavoosiseo/816" target="_blank">📅 14:22 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-813">
@@ -446,7 +446,7 @@ https://t.me/mohsentavoosiseo/267
 😒
 . زشته کارتون که مخفی نگهش داشتید
 😏</div>
-<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/mohsentavoosiseo/810" target="_blank">📅 15:58 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/mohsentavoosiseo/810" target="_blank">📅 15:58 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-809">
@@ -584,7 +584,7 @@ vibe coding - وایب کدینگ
 <div class="tg-post" id="msg-793">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">سوال از پشتیبان دوره:(سوالات خیلی سطح حرفه ای هم داریم. ولی هدفم پاسخ دادن نیست الان).  مابقی دستورهایی که میخوام در فایل روبوت بزارم مثل قبل هست؟ مثلا disallow کردن سرچ ها صفحه چک اوت و ...   فقط ادرس لاگین رو دیگه قرار ندم  درسته؟</div>
-<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/mohsentavoosiseo/793" target="_blank">📅 12:52 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/mohsentavoosiseo/793" target="_blank">📅 12:52 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-792">
@@ -654,7 +654,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hnxLTNlyGfpEzO90NorP-1Omcx7WotEdUDSNAIT836NMqCLgPVvaepyFJy0DHXudHHCiPrC0MAORmu660l2EZmzFyULhhgTyJ7EdQCeiNyDaaCEvYWKFi9rN36rbLtG_VrjVK7mwTTiAGu8Wq4xjc333e8zf9RHyapqwVct1H4Zh4CysY-bbEv1SpF4MuRK_4gCNWArTAk48fErPtJezIkHLM9HVRgAOakH_hJLfXWd0HKHnA3z9nzVaua-QX43tW7o3wD55ZN_1WEjXmXHLqfDmjkZlrBh4mZBxQ4iF2YF-Hk2Nt_G_6g6T1syRpbLHBPvcuNFwyGEOrlYYwiu5Uw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LuZFL5aUaXF_wYIGV0f2CfiK739AgbViVMAQg7LCoUn05MaeNwdx7RWhJg5yWXrc7dUqa1W3dn69sMLyLbroJNGu5Wpe93YU7GiueU0yUFxkWAgQN5LtdVCGJiL6zMcARnYOWMOfVVPlUyHIIFxYSJnR-FL333iGeaBT52pE3buBU8rhBYdaCxORZwNSATiRJQ7okZJ76ZpOFroUWFgltdlhmvPtahAKsVfdKJ-_UTlSGCYvrocbf1xTsUEcIhkCqfQSPEatTpM_FX92yJzQBnzeAeL76AcX1U4uJ7xK1Y_8lBabAdsOBahOW3hawxsP6WmWwbL6gGaDWlS7vOS6rQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
@@ -684,7 +684,7 @@ pinned «
 
 <div class="tg-post" id="msg-774">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Z-UAEOXB8Xx8JP0hiAtrtvNQ4fIO1ojl2hMkCZ-CgdlDLtNgf4rjkW1j6l5Isby6oMqWYLUTxE742yoaxpczE2GE69wF6R15wBFD6GZzsxU-8LjqADIOCDtt89S8XXP3uiCfSk0C7Grns1hcTClu54Z9wXItuPFUu1KGrPxIs9io1Tf-JEYVqR16P05x15vw1agtTJr2hLf-BNSIhCvdOa94FZNIkiofGY97QEYhf1wsMuXon4qStQUAUvIrAhikhBUkS5Su5cfmiSdkd18m-O3dLasBCtChvxT0lJrB-IMk8eElDoOL7M4JhmB0xYobmIDOtz10Unc7sVsYHTZFFg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/US6hUXNr1Hxm2qJ_Z6iuIVfbE4I0Z8oZuhQV3CR-GFfNp6BwCOmrvyWIFkeEn7Blw3gWZ0G7ZCxXTHA6X6iKT7wZAqVW2C232MaCBQLl8FinhStE6ZRSWjpa_r72aKClgITs6VaXd1Q3QH8N8upFarddIKpfnUjw-5EBWyqd64pSApJfLIGEa1qZ97DU5p9ptZP0dxfS9Gmbr-LqdtpPzgMkzvvPTirJpKSae9xGNpSA3H3hco73rODDU8Zkt_uPrhVYRz5Ysf1Cu3Ik2Y9q5BNJ9vukwlibaWEXOk_yecDmIgOSs7UkPqkdGmZWPGBExWn8qFPy1yfnn0r5HYE_dg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درباره پستی که روش ریپلای زدم:   نظر یک نفر قبل از اون پست:  از این زاویه نگاه میکردم که آقا تفکر وقتی آزاد باشه کامنت هم باز میزاره که جامعه بتونه درموردش صحبت کنه  وقتی میبنده داره آزادی رو میگیره</div>
 <div class="tg-footer">👁️ 1.98K · <a href="https://t.me/mohsentavoosiseo/774" target="_blank">📅 17:48 · 04 Tir 1405</a></div>
 </div>
@@ -715,7 +715,7 @@ pinned «
 
 <div class="tg-post" id="msg-768">
 <div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PAS1zmY1NoeHQqep0QwRQpeQklWiwNS4-dFIi4j9nYSFIkO4ljSoHNLInEzIMJNlTVnr83GNVKaD1elCpdF9_68CWkriihvoVnCMK9T6qG3Ds2i5VoCDePS5vSKZ4lEnLoG-ZwCIQNAKpNckI_eTvq_U7zD6HcKXj98LUtUvKjwZBGor7kKkNybGiiFnhDV_hsw8pTYO2D-GXWSocoz8r_aSxAXs_J1zM2N5X7eKjCx_oN0aKOuYvBzU2QMv_h66kS1jOPGUu5eDk8Jx-iTcAVEabaOM8Nsr3XarOcXfndKbtoNl0bBBfUZr4TwVNeUtqx_iNy5TcvKpJpkMkkybWw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cndxIgqbxLaAAe693OaFPQcSnwWtJDPChitrqXCRKGcd_qdxz66sNDkGPRAgV-eaV71vkSkk-DhuNcFB4XG6u6414WLXOHRlG-i57CXJP_SQaOQrmnAw_fhyEc8fZETmlwI0-U-VGSvfho5fELh8Qs5DErOHpX4f-grr6mLLCPFg9J_tY879xplV2-dAvRViUlAHfjUBy3yx3oEZgMsmivdEqHzfRH4H6NQECk7TMYjsHvIFhhHiu1sN8t32K1Xp-Hb8UoFfP3RefEjwiaJGDkPgxzMQge-8JK2QzSLdHTVWVMBVQt_1lzj4aMyEuBElQ6YANmFPcMmqVy2Gq8DbjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال یک دنبال کننده که احتمالا شناخت قبلی هم به من نداره:
 نکات سوال:
 پارتی نداشتم کار خوب گیرم نیومد
@@ -759,7 +759,7 @@ pinned «
 
 <div class="tg-post" id="msg-761">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nylvGCRJlOa_4VekGe3tJneE21dC_zlliAcPalsgL-pKbp87aJ7XhSoqlt3fIk5Ge82oXLO1l_nBKVnFAA5kel1a7ogFW-_za3zVgI2u6eydBFqY45TzrN6TLMPjGnxJqkUCVrYsw9qB5of9Q1k-Jm1tDc98urHXydFnYRX8UJllGJI_b_gRQtCI--wUHTodklMqpFXXCCYFAHTb66xknSFMAKnsXialURWJM_CorV233n50zZRdUY6F-FCuuwMdSQPmgC1SH6OePMHtTEvziqKV-ZgC-vZSefegxruuaSdpJLigfm5ZyNlcMcqRRHZayob-o8k6UEdwMEcmDcj8eg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pfkrWVSojSB4UIkntF8dqTm78APR3h_N4DYfWyPT9abcbTrU6ABoa9KQIihf856HmrC6YqO4I-3eSgBNmQuhBxrAR7WY4feQUd8lgYuo8gaekt1WOD52f_z5yr4eaALuDb0Z5My10vIevvmWM4z_kfUdEFveaKlt0F2LFPBHJaMf1Pg5AZqv3tE6Vjk1WZwwS17nf9zK-OjFZum2o3I-Oi8dJM-FGHGWjJOBIEQxiZtgXjtFNqjHVh28Kl5TbIA2FFm1CbjTtmTt2tl7bYlCZPDyuFTnjvQYrs8pcO2ZMpf77-XOm3BI1jiSLh4IkHgBpxB4Vv1eTLv8xpXpq2hDaw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال دانشجو:
 من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده
@@ -824,7 +824,7 @@ pinned «
 حالا میخوام بدونم مشتری روی یک سری از کلیدواژه ها میخواد بیاد بالا (از 98 تا 1401) روش کلمه ها کار کردم و صفحه اول بوده الان افت کرده و میگه کار کنید تا بیام صفحه اول.
 سوالم اینه مشتری از من در برابر پولی که میده تضمین میخواد قبلا من تضمین رنک میدادم
 الان چی بهش بگم برای تضمین؟</div>
-<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/mohsentavoosiseo/753" target="_blank">📅 20:28 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.23K · <a href="https://t.me/mohsentavoosiseo/753" target="_blank">📅 20:28 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-752">
@@ -887,7 +887,7 @@ pinned «
 
 <div class="tg-post" id="msg-744">
 <div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uzcZYBdfcNAbkIJhrqNBgCTkcDnKBWUdcNXW0zP9K4NKK9ubkicI0OXcbMTcDWciuRWZ2ukXi8Wjs_H3Wmt6dueOZNzGokUJ8LCEgnXdHEpOTcsVtfOJg8Wxn8-uPtwDdRM3GWmafsPlbN87ymzTUf65Sy0xp7rQXiN9ECXlEzyOQ03E6VjBPxfwGAydlKfXwJJAz3zeDuNQy7hUbxClyG8Ve1d8JFxawZqAc8Ow-b2rWpklPlju2ZgwxNLhMuOLHqiS7VSVkYTbMBRlDUZTfEJ552lLzaNFi4-dEJeG5aMIBagyufci-5gmUmOH1aQmm_f7EONT3JPFSC8UiiQu8Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XpUUnI7IO5CSWYwUb1YAxvco1l1UIME7Rd_b824jsuGOf8aymt8O-mfjSHD3btGMmlMO9PlZVRM5GKUb40P8L81nnw10A-4M6e5PvYeLbjXrghMMRRMNBzf7ckDiIctFeN5CWjc2WdwX0VtdPVeBoofaMAktkkhRFrF5JYslUIf6yX1wcQRKSYz1GZvFa6Vb717l-cll0C_GrQC6EMvEvlevurmohsBb46y8YI0hbBSyMAYJoeNdp8gorwUJgft5gSx-62mu71d23xPdVDAiWev370N_7IbXsySfKwLuVdb6R42NcEZfqP0G-JWSpgKDdSVydCR8P_5GovwDnvwd1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شما هم فکر می کنید این بنده خدا و این بندگان خدا، ساده اند؟ یا من تنهام؟</div>
 <div class="tg-footer">👁️ 2.33K · <a href="https://t.me/mohsentavoosiseo/744" target="_blank">📅 09:03 · 31 Khordad 1405</a></div>
 </div>
@@ -983,7 +983,7 @@ https://t.me/mohsentavoosiseo/739
 
 <div class="tg-post" id="msg-731">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SWbu_8tpY32PPGx5oHAaeiiSlLJ43ioDlV8C9J4WnaD9GFlQCm0nzgwDHkFuUlyT2kgQ3W0Nk7HHfaYiD47eKwJtbvVuwpkwWxr_8uoDatpZ4yPFlmFBOEf9ZF6PwiPOU0ABVo-jJpb1uddN44Xj3AasMcnWdbJ_McBMfN6tSmLCCIqSg0Cg-6PWASbAu1YoS5sPBu111vqYY1obeXKBiP_gkkMsqm4qdAlGypnMw_eNqHp7ZvnPAOB6bpC6Jam2nDx7H7APWw6Fgf7s32b6u-bMiLYYKPjvzgHLoLcGRQB03G4tGZyD0R6ILRrKd-dymanTwrYh0FRUWkL8QA9Y-w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EjAe0mv1zAM9jkSRZ-Qjske9boqt-Pwn3Z8HG5kPNFFdoltpGBHFGrEe8HB1nBP7SlZe6sXojTk55auZ7qoJY-f4etIJXbSR3f1Y8stVukSK_OJ7wWU1t_Qw1GX88nGG2E1EuJRMiucFU57DG4LQV-T5YD9-t5sMQkG5uif_SSo4oa81BXu77FesDaXOUYrNJkgN_N6Qs3PfLffiqemFzj3KfaCVnyJs3kisPCoKw7nh-QTBHFK-_2x3kyeFwALKHr6dA_DiZEKW7isj5cUb_TNb1yFUUPf8pa7Vw8g7DBIliCopuOhHf9UJrZ24jlw9YG7yI3Lnd6hUjfjQkyRrpg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک دوستی دارم که همیشه فکر میکنه من یه تکنیکی بلدم که انجام میدم سایت ها رشد میکنن. هربار فکر میکنه دارم میپیچونمش و نمیخوام بهش یاد بدم!
 همیشم این رو مثال میزنه. این برای سایتی هست که من فقط یک ساعت مشاوره و راهکار دادم. اوایل فوریه. حدودا یک ماه قبل از جنگ دوم(اسفند).
 بازار آمریکاست و زبان انگلیسی. و فعلا هم خدماتش در یک ایالت هست فقط.
@@ -1057,10 +1057,10 @@ https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromسئو با محمد قاسمی</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/2dd6ab0dbf.mp4?token=LCR1R55ee1VQPP4l82okTjMh391sp7w_Mcl6fXyVoEUTI6hGe8Cd9W8GZRv6J0F0U6sZv6cmCw_v_SHAaLH-6Tk5rjKCd1gLuwZIf-cVwm50T0ResejI-Quk9Xu4i94skc5w4KkrOcS3lkHVS2W353Q1iVPsorw_388c48XlwDpI7Sn-4xdmWaklY822WkDMkWgQPQeFIWm68DmMsLEDHOx6UOhozbPbIHpzf3s8yqztAkq7tVlc85Tn0_KtSkEAOvywrnQwyqwKOHVGbi_SF4KiXrH8CeHGvkgAHQWfkDBBPYwl0Pw-xbGINDhDZlJuLvtfZFW2Y2sSlyDDOqlOhw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/2dd6ab0dbf.mp4?token=tmiFmJAMsDZb1YfVcbnhxyt56iYkInC1EYsXA_FSuz82gYWcUSjyKV9JpRVorFmL7HK1_Szlmzz5AN4aLXji557RwlfJHhGm3pmCna3-rXGL5k0WLhko8FgmnuqL4rDaH6OWZHPSTpW46tpeKGPcNgoe19uFoXeKJfrQIwCiJGXbZdWgONBQX2WbVGdwj7R3_lYSS5M-leiUhiqi6rW7Wi42tyjwx-_Ile5PcqF_trj1Rt6zLrLVUBV3TxD5ui6GOrD-bv9PgniKRYqNQSkhGej87lIU9n37M8LgCN3HyXxtsAeSG9cbX3b1lHHPx4RmfjBcobv2VJXu-jPc4iyQXQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/2dd6ab0dbf.mp4?token=LCR1R55ee1VQPP4l82okTjMh391sp7w_Mcl6fXyVoEUTI6hGe8Cd9W8GZRv6J0F0U6sZv6cmCw_v_SHAaLH-6Tk5rjKCd1gLuwZIf-cVwm50T0ResejI-Quk9Xu4i94skc5w4KkrOcS3lkHVS2W353Q1iVPsorw_388c48XlwDpI7Sn-4xdmWaklY822WkDMkWgQPQeFIWm68DmMsLEDHOx6UOhozbPbIHpzf3s8yqztAkq7tVlc85Tn0_KtSkEAOvywrnQwyqwKOHVGbi_SF4KiXrH8CeHGvkgAHQWfkDBBPYwl0Pw-xbGINDhDZlJuLvtfZFW2Y2sSlyDDOqlOhw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/2dd6ab0dbf.mp4?token=tmiFmJAMsDZb1YfVcbnhxyt56iYkInC1EYsXA_FSuz82gYWcUSjyKV9JpRVorFmL7HK1_Szlmzz5AN4aLXji557RwlfJHhGm3pmCna3-rXGL5k0WLhko8FgmnuqL4rDaH6OWZHPSTpW46tpeKGPcNgoe19uFoXeKJfrQIwCiJGXbZdWgONBQX2WbVGdwj7R3_lYSS5M-leiUhiqi6rW7Wi42tyjwx-_Ile5PcqF_trj1Rt6zLrLVUBV3TxD5ui6GOrD-bv9PgniKRYqNQSkhGej87lIU9n37M8LgCN3HyXxtsAeSG9cbX3b1lHHPx4RmfjBcobv2VJXu-jPc4iyQXQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این اکستنشن فقط یک ابزار نیست، یک مزیت رقابتی سخت و مهار نشده  است
 واقعیت این است که آینده سئو متعلق به کسانی نیست که فقط بیشتر کار می‌کنند.
