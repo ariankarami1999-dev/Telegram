@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-18 02:39:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-18 04:37:41</div>
 <hr>
 
 <div class="tg-post" id="msg-828">
@@ -306,7 +306,7 @@
 <div class="tg-text">پاسخ سوال بالا
 https://t.me/mohsentavoosiseo/826
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/827" target="_blank">📅 21:07 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.2K · <a href="https://t.me/mohsentavoosiseo/827" target="_blank">📅 21:07 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-826">
@@ -319,7 +319,7 @@ https://t.me/mohsentavoosiseo/826
 الان کارفرما میگه با من با عدد حرف بزن و منطقی بهم بگو که دقیق چیکا کنم که تا چند روز اینده این سایت نیاد جای من که رتبه یک هستم رو بگیره.
 پاسخ در voice پیش رو:
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/826" target="_blank">📅 21:07 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.2K · <a href="https://t.me/mohsentavoosiseo/826" target="_blank">📅 21:07 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-825">
@@ -331,7 +331,7 @@ https://t.me/mohsentavoosiseo/826
 <div class="tg-post" id="msg-824">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">بخاطر احترام به حقوق تولید کننده تصویر لینک پستش رو میذارم. ولی حرفم خود تصویر نیست.  بعد از نظر سنجی پایین، چیز دیگه ای میخوام بگم.</div>
-<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/mohsentavoosiseo/824" target="_blank">📅 22:49 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.35K · <a href="https://t.me/mohsentavoosiseo/824" target="_blank">📅 22:49 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-823">
@@ -397,7 +397,7 @@ https://t.me/mohsentavoosiseo/267
 ) که گفتم فاز لبه تکنولوژی برداشتن بر ضد پول و به ضرر خودمون هست.
 هوش مصنوعی های دیگه نمیفهمن به خاطر جاوااسکریپتی لود شدن با Query string نشون نمیده. این عین انسان میفهمه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.57K · <a href="https://t.me/mohsentavoosiseo/816" target="_blank">📅 14:22 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/mohsentavoosiseo/816" target="_blank">📅 14:22 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-813">
@@ -472,7 +472,7 @@ https://t.me/mohsentavoosiseo/267
 <div class="tg-post" id="msg-807">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/mohsentavoosiseo/807" target="_blank">📅 00:05 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/mohsentavoosiseo/807" target="_blank">📅 00:05 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-805">
@@ -490,7 +490,7 @@ https://t.me/mohsentavoosiseo/267
 <div class="tg-post" id="msg-803">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">https://www.instagram.com/reel/DaNzmW8MtPF/</div>
-<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/mohsentavoosiseo/803" target="_blank">📅 20:02 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.73K · <a href="https://t.me/mohsentavoosiseo/803" target="_blank">📅 20:02 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-802">
@@ -559,7 +559,7 @@ vibe coding - وایب کدینگ
 شما اکانت 20 دلاری کلاد نیاز دارید حداقل. دستی هم انجام بدید موقع Off-Page نیاز دارید به هزینه کردن. خیلی چیز ها هم هزینه پنهان هست که به چشم نمیاد. مثل زمانتون که داره میره و از کار و زندگی مفتید. ماهی 40 میلیون تومن از دست میدید که سال دیگه تازه شروع کنه به درامدزایی.
 سئو پول میخواد. رایگان نیست. ابزار هاش هم رایگان گیر بیارید، موقع Off-Page، پول میخواد.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/mohsentavoosiseo/796" target="_blank">📅 14:01 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/mohsentavoosiseo/796" target="_blank">📅 14:01 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-795">
@@ -649,7 +649,7 @@ pinned «
 <div class="tg-text">هرچیزی که دوست دارید یاد بگیرید یا از من یاد بگیرید، حتی خارج از سئو، توی دایرکت کانال بفرستید.
 میخونم همه رو قطعا.
 قصدم از باز کردن دایرکت، صرفا دریافت نظرات شما درباره اینکه علاقه مند به یادگیری چه چیزی حتی خارج از سئو هستید.</div>
-<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/mohsentavoosiseo/781" target="_blank">📅 13:12 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.28K · <a href="https://t.me/mohsentavoosiseo/781" target="_blank">📅 13:12 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-780">
@@ -754,7 +754,7 @@ pinned «
 <div class="tg-post" id="msg-762">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">سوال دانشجو:  من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده و من باید بهش تضمین بدم تو قرارداد بیارم که رتبه میگیره صفحه اول. این حرفش منطقیه؟</div>
-<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/mohsentavoosiseo/762" target="_blank">📅 13:34 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.8K · <a href="https://t.me/mohsentavoosiseo/762" target="_blank">📅 13:34 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-761">
@@ -1034,7 +1034,7 @@ https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-
 اما مسئولیتی هم بابت معرفی و توصیه کردنم نمیپذیرم. استفاده از مطالب هرشخصی که اطلاعاتی داره، کلا مفید هست.
 من منتورینگ برگزار نمی کنم. ولی ایشون انجام میده.
 با تأکید بدون قبول مسئولیتی از سمت من (بابت معرفی کردن)، می تونید با ایشون منتورینگ سئو داشته باشید.</div>
-<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/mohsentavoosiseo/726" target="_blank">📅 11:41 · 25 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/mohsentavoosiseo/726" target="_blank">📅 11:41 · 25 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-725">
