@@ -286,18 +286,18 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn1.telesco.pe/file/luUXqjNeOhj0IE-qSX2BNjZINiGj8mOi3SmODiwv6cgo-0FYNIT7OuqmDiGbmVWMeoWgi15Mf9By9FJn5hZkyhB5hd7_VHuJBiPgtHLhXqaNuGPIl-J2nBT9gs4gkMVrdmQMRlJ9NUS0KstTNot311CVpCVSrnrQhSS0_a5uFkKn6s_LnQMAlhHUz85FLUjsiujeDZ47rrNVlLHKQj5GHVlxDFSvg6gEb864I6WltLnQksmxuwtV4i0MfAzR2GqtMz5EWgbAUxWK6prXiFl8lv9cWqAtLwuePmUQnC6oU4QSYAVO_bJp-LKsa6g-u-O06VXsvAgO6ZNsuTtt8VbZ_w.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn1.telesco.pe/file/VKXeykmHPY8go-TPnQgbmR_q8A8HG-AfeJgn0bRxRqTcnrCK42MRG2d6-nLUOJyR_XFn3ru-yOZJn07fpVTNJgzlaQLEoA-auqBz_mmCMc15Hm3ExIKzBnTKWCy8illGTVTQbc2Yr1tPQmB-6baFT3ZmJXH-yHkt8eDNPRdkXNM-VPmETekg0x-_okyFy5r3kqrOPeXBfOPN_A65OaJBXvbalgJrqaDzlz5ngL3StmVPyqSLV5uWgKXmNMt4F86Y1Kbu2_MHoXwJYuZDVRuCA75O-EvxByKVVfUBd-SRUEuuzus11BPp51oWS4BD41ujh4arBnQtLbyxngLPnqoisg.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 IRCF | اینترنت آزاد برای همه</h1>
 <p>@ircfspace • 👥 97.9K عضو</p>
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-19 06:50:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-19 10:29:07</div>
 <hr>
 
 <div class="tg-post" id="msg-2476">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lqRFGF-pit6x0pc7A40tV1q164-SuGi9EaCO_FXcCVM2Y15g6CEJb4QKAKaamZ9iOUDtPUnMyv_Y43gkt2HlCjNVjco2acTxVI51UZZEx34ZFJU9ehTb4ekgI4vEzFekEHzbtpAv88rkBxB_WnmJzrsw-0X5Bqx7g8oDL3T1hDHQS5QoWG3g9hfxiceOojEFf4aYM6yIEm0h4QmHEH1qJs5VfZcc17TA56O5BiLjg6LD1MOLU7xhdgC17pZ40liyNslZ6k9k-3QTcXmoypAi3T212botUKTLnqP_aE6rYuXzvI-FLZ3eAR9TlsUTUkiaGDERXV1eecATjnROYl651A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XmK3Q61gaAhO32an7tmHS1waAhcBs9r9fSwmtZOpjaCJC-0SgcEjGNURDD4hFvvSriqqw6wKhhIhrtrA4ciwBcXdoCq5lRH_HtkehCGwRRxmnJItxBzXvGgiB1nInApZiNapEbUpG3kW4KAhdXzrJnD2_n7ByvJOtnPxrzhBXzhM-qezVC0CK-jFvl3gf70Yq3LGOszyYITJmj6D1WQr6xYfipYkZhflCUXIS8k4m6mn_6XLbT-MLw7hMeUW4VLlxAFM0OReS8rP8a9f9HYDHm3OBnxrL0_65_MBdh2Y-PCeUofYKOtSpxMG8tf63I0enaPBX_w6TfdtoYkq0GwPwQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که "کدوم مدل هوش مصنوعی خطرناک‌تره"، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.
 به گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس
 🔗
@@ -307,12 +307,12 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/ircfspace/2476" target="_blank">📅 07:48 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/ircfspace/2476" target="_blank">📅 07:48 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2475">
 <div class="tg-post-header">📌 پیام #99</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nH0EYzHdcjW8C3HeQ7j-8QZ8VIoFtjXA-qYpHV7Ov53kjf_HIIYOtmEnI5GjxuQCgia-R1HQWxF648SxY8bW0sIoV0jbPIYnvXw4t6Yl5_J2yJuYMwYrssPfrGmzlKQrAGyURiFDW1dQSY5Rba-iID0Ur9HZb5TkrRoEEFQEgc_ciJc9emJdJY6G9AE8n7bT5PG_yV_uJ50i4qJvAmDlIEPOhxrZmp9xzbpfPfIND49qYa_uvoGWiW-PrYjPcUlA8s5yrgvN4BzM8OrT5j8zhW6-rkijF1I5yN14yr636ZDVEBs5cIgCGmGkMYELQxtyn_ecyRjaiLHAg0PcxQ-Y9A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mQvg-GHwqVyMVh_Wv8AbNLpBtou1EZ1cN_hOHq8cqxJhNDgtCyfkDaBAx_0K7sPiU6cO5-ujbWZ7TdtsUaM1sh7COgzALgIatITIGkOoUCJO9tsjJ6l8AldFIh8MZmT4yQEWnkFNxkFlD2SeGj56UVT_wkQAya1aO3sVs9VbDG2nSuKC_U4dQpAv6rj0Y2G6LmXh5_XPKetYX_4AFhqp0nlJw5Kc8N1QGo3IVnHmta5ACSNoBkPqvLNaq1Vc4FpINaBYkor6PcuQhHPLaSAGQpxPaNxaxJ3lieLAY4sOcTktCZKEtY_mvWaslXCGgfMS8wKW6HzSQJUFVWaS6MQcAg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ GRoute یک کلاینت متن‌باز و رایگان بر پایه هسته ایکس‌ری هست، که امکان استفاده از پروتکل‌هایی مثل VLESS، VMess، Trojan و Shadowsocks رو در کنار ترنسپورت‌های مختلفی مانند REALITY، TLS، WebSocket، gRPC و XHTTP برای دیوایس‌های اندرویدی فراهم می‌کنه.
 این برنامه از قابلیت‌هایی مثل اضافه‌کردن کانفیگ وارپ، مدیریت لینک‌های ساب با بروزرسانی خودکار، مسیریابی تفکیکی، پروکسی برای برنامه‌های انتخابی، فرگمنت، Sniffing، نمایش لاگ‌های Xray، اسکنر آیپی تمیز کلودفلر، امکان تست کیفیت اینترنت، بررسی پینگ واقعی، تاریخچه مصرف دیتا و ... برخورداره.
 👉
@@ -324,7 +324,7 @@ github.com/SuOracle/GRoute/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/ircfspace/2475" target="_blank">📅 08:14 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/ircfspace/2475" target="_blank">📅 08:14 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2474">
@@ -341,7 +341,7 @@ github.com/SamNet-dev/MTProxyMax
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/ircfspace/2474" target="_blank">📅 08:03 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/ircfspace/2474" target="_blank">📅 08:03 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2473">
@@ -357,7 +357,7 @@ https://github.com/rezakhosh78/SIMORGH-Scanner/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/ircfspace/2473" target="_blank">📅 07:56 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/ircfspace/2473" target="_blank">📅 07:56 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2472">
@@ -374,7 +374,7 @@ github.com/ashanews9776-eng/asha_scanner/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/ircfspace/2472" target="_blank">📅 07:48 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/ircfspace/2472" target="_blank">📅 07:48 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2471">
@@ -395,7 +395,7 @@ github.com/GFW-knocker/MahsaNG/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/ircfspace/2471" target="_blank">📅 07:58 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/ircfspace/2471" target="_blank">📅 07:58 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2470">
@@ -425,7 +425,7 @@ alirezashirazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38K · <a href="https://t.me/ircfspace/2469" target="_blank">📅 07:36 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 38.1K · <a href="https://t.me/ircfspace/2469" target="_blank">📅 07:36 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2468">
@@ -499,7 +499,7 @@ Mehrdadlinux
 
 <div class="tg-post" id="msg-2464">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/It8zecz7I5hcV4IlBc215RtWeBHE8ceZXhJsmkxhyyVtHNIFx9_d36UOKjI07v6rJoqe1TJDoyPZJ-R4B-pXAMls5QtGg-f3Cx_E9_jyoLK8R6I_TC3yUgKVaspvflpAJcdmuHdmeDn1KMd2VElhOEumJLm3f3ItOFdDTJdnlMzsSQAzgJoH-KCCBSZKdY1BTX1dKOEG-7Lqssdd6aJ5_Hbi8alO0YnG1dBvP2jWUStJobc4-runQ-X0OvkFADxghOimhUd1JQKru5wZP6cPA0SJMX_TkBI_In7V-4Spjtb0gPAEXJRpA-Xo-QMN2OE3gkPMLd6KWWhPaLByYBdeAA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kr3FJX5QTDH442AlmC7V7XLxvqki4KcHEvkFdlrda9Elrzw0oBtKnDe0HvtEIvsOjM0orRHAH3Me-l1We4Ea3hv1eP1srKyJhJoGf_nvZm-FSAld7Uou652JAlytVLtxyp6SAG3t6-OvoB_m81I7bhu1ionxck3gwB9YRNIxVy-ZWUWZRH1oQ35y6-iMUh150j1rAC0G1J6OMX7HCzo462q3yO-FomGoEEqk122b4XBoGC2sRKC7nZ41oNXDhTuFcOrXn9BqScBGGLgSiAtRl1pB4Ows-QcmyBylBGy6308uEYvr1LkD0tEEAWG1Yc2hbC_MTTdKjVg7pLn3SI5Fow.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگر از
 #لینوکس
 استفاده می‌کنین، فیلترشکن دیفیکس در جدیدترین بروزرسانی خودش پشتیبانی از این سیستم‌عامل رو اضافه کرده.
@@ -544,7 +544,7 @@ github.com/Devtahas/RedCloud-Android/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/ircfspace/2462" target="_blank">📅 07:44 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/ircfspace/2462" target="_blank">📅 07:44 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2461">
@@ -572,7 +572,7 @@ shokhmatic
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.7K · <a href="https://t.me/ircfspace/2460" target="_blank">📅 18:27 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 38.8K · <a href="https://t.me/ircfspace/2460" target="_blank">📅 18:27 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2459">
@@ -830,7 +830,7 @@ github.com/Gedsh/InviZible/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.2K · <a href="https://t.me/ircfspace/2443" target="_blank">📅 08:24 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 38.3K · <a href="https://t.me/ircfspace/2443" target="_blank">📅 08:24 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2442">
@@ -1219,7 +1219,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2417">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OZtuARljDmficlWnpUNJUZugh--qC-I2N2S1sBDXAHj1nvG3PbDn4HmOXtBiAa7Ws_NjupYvb0ORk5e6Agilnxbfn0EZtAqbzKcS6edZIQzShbg7nady6fFEhZvgR2ho_Zjg5E8i7kOxFwoJRo873hvTPUPgVQogNymeGwLAl59unoDrs_JZScz-q3NMJC1vrL3PB6WzOcoPDRpdNRs7dJk50gDrP2nVgwpDEulGeQP1j2Qm2DwdtIE-5Jr5eS3T6oQBHvsZpB7c80ClowAfOTBv5__YrV-8f3et59nLmt0yFnnHHu4D-47GsEF7Jrw-3p9LBFFGyOxg4seM8kqifQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/m1tG4bfV2rrOQBdk9R4OYE0a1OJvu8yTcV8fHTZIDCoHLXEWftbli2djMI2mrgAZtcbCpYk-eFEXlx7jwowQ8BNseUKYAS_pqMAJNzHfcogSX6YakH9MoPA_3YcKgfhEuqYfFXznbD3ypgOD97vw4QcDnloZtTnPQnQf_DgOEpT7KhH09ucbFsww5bdR1B_csbheVLi6lvqo6deYZ-SBRkvwt8Y6f4_ba2uGDmNCsEcnaW3ZrTorjG7ImAlosukvE8b97YNWEs1AzrfO1clyM1QxsamCx43OIs_uppC_lx8kqGb1l1ekcq-ZAl7M4JS80ogzGV4qDIPRwgdJ4faxbA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر RKh CFS یک ابزار رایگان و متن‌باز برای پیدا کردن آیپی‌های تمیز کلودفلر هست، که از IP تکی و CIDR پشتیبانی می‌کنه و در نهایت نتایج رو بصورت رتبه‌بندی‌شده برمیگردونه.
 👉
 github.com/rezakhosh78/RKh-CF-Scanner/releases/tag/v0.1.4
@@ -1359,7 +1359,7 @@ alirezaer
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/ircfspace/2409" target="_blank">📅 19:29 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 47K · <a href="https://t.me/ircfspace/2409" target="_blank">📅 19:29 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2408">
@@ -1408,7 +1408,7 @@ github.com/amir0zx/CrimsonCF/blob/main/README.fa.md
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/ircfspace/2406" target="_blank">📅 12:01 · 10 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/ircfspace/2406" target="_blank">📅 12:01 · 10 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2405">
@@ -1534,7 +1534,7 @@ t.me/PersianGithubMirror/5676
 
 <div class="tg-post" id="msg-2398">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cL3zVlEpXVVkncKLwtzGJqaplkMa08ZG0ekujTM1KGGEfyXfV7zf87FfOiWUdduEaBrfV5secpF-5O3CJMGA-eAFaLb9MwtPIc0aAz2U6PETt-41Qgqr24k_Ad0crA4WjwhamqVYAwsvxFVbcUHHZiGpjt5OsXVB9c3RHdCYPJZ4FqbfSzGdEK3HllWYP9OWMGJOFkjdxifn6wGpFst4VNQpXLWpoHE2tetWRZQB3LxjG9zrmQ8BMcLb4BEDo_OHyRZRwCHOtLOmOO4755MNMHsQ9FonhGjBYNpMbdgn6g8yevbAWggc0TlGC-3PteA8Ls7hc11TMkqs9Zm95O0l8g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/C5JzvMOK-AUD8bYPgKfNFMI-u_LC_g4-kjENE1S5xH-Oz5pdW1WLKjH7LZA10L2TtQmBbq9DMecEqlD-njd1OJ7VW8rSPL0p4rZ3BWdTgS-zIZPpCW6vJnFQLyhEKGo1f6EqIkMcmHCiDYgPlU9HoEZKdO9iXCE5oaROlOCslZmKtflRlL5MdoGg7HQ5LXT35hRYxzKO_rxgZnjLLkUZxkbikRnRFqZ-gPBhXGm1kPMSh4PJ_xyPggbCJxivSbe6Ms-Cz55A424-1YAMQucRqTJ1sg3envGo9-BVl3dJsvjOaMr1DchMLJIVMY1x0t53PmPpo_rY9iXaS-l83T2IDA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در بروزرسانی جدید از کلاینت NexaTunnel امکان پشتیبانی از کانفیگ‌‌های Xray در کنار Stormdns, SSH over VPN, WhiteDNS برای iOS فراهم شده.
 👉
 apps.apple.com/us/app/nexatunnel/id6766783641
