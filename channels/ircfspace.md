@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 01:02:14</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 02:22:22</div>
 <hr>
 
 <div class="tg-post" id="msg-2476">
@@ -395,7 +395,7 @@ github.com/GFW-knocker/MahsaNG/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/ircfspace/2471" target="_blank">📅 07:58 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 31K · <a href="https://t.me/ircfspace/2471" target="_blank">📅 07:58 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2470">
@@ -572,7 +572,7 @@ shokhmatic
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/ircfspace/2460" target="_blank">📅 18:27 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 39K · <a href="https://t.me/ircfspace/2460" target="_blank">📅 18:27 · 04 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2459">
@@ -602,7 +602,7 @@ shokhmatic
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 86.5K · <a href="https://t.me/ircfspace/2458" target="_blank">📅 16:44 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 86.6K · <a href="https://t.me/ircfspace/2458" target="_blank">📅 16:44 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2456">
@@ -801,7 +801,7 @@ github.com/MortezaBashsiz/nipovpn/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/ircfspace/2445" target="_blank">📅 08:57 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/ircfspace/2445" target="_blank">📅 08:57 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2444">
@@ -1534,7 +1534,7 @@ t.me/PersianGithubMirror/5676
 
 <div class="tg-post" id="msg-2398">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/i_jq3GTatDMEtZqauWm3BL58TXEj8he2o69RclREM7rnLOZ0A2sN6SxamAmqoTWmx7wP8K_1mNYNE_jqJYRMu43Poud7ZvwPFgIlUW4DFuXtji3qaJQSL6w8_mLCHga8IieeD3wxHi4yA9tdPwdgTpJY7MTveIQE9ZNp1MlCuoBLYdM6iVfHEm45HoSurdQqswV3AXrbAyH3AGet_31EepIqGd8I39miLKIrvT2hKRjv0895UMMa6drPvm_cCTAMnQuED0s_rf2T_OL5veg-1NLci4Jij0V3uQPuI7OycyQm6gqqEnF9_-jlu2G5Zot-dnQ5YNGYBtwm2QSES0iLVw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GzavDC0H8RuN3kFnS-s2xW6Y2K06WevgFDlOpDKchrh7zWEHNvS-RpcG8ROG2Z5sXfYvMv9TzP86BnMG0AauZOwc4ySnuW6gyBEpWqPmuo40SWrtlUPkRC0mrHQK9U1nGeH3YmvbTk0zkO2zDcCmzEOUhDTsXEIhUTFkaUz_jOqWkBwfn-qicWIyk14qXgiTkTAVli7cogrLIC2UelugbvbWbpu0GCkLtjX7yMHHWooRt6flbBL10Tg0ew35HiGe67pw_o_myYznrFuUYr0XH4avDldcgyc7zYzxezKnBo2yWW0gWTPlqNVwSr_i8eW1kRp-asUHJzZQlAaZcUWpjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در بروزرسانی جدید از کلاینت NexaTunnel امکان پشتیبانی از کانفیگ‌‌های Xray در کنار Stormdns, SSH over VPN, WhiteDNS برای iOS فراهم شده.
 👉
 apps.apple.com/us/app/nexatunnel/id6766783641
