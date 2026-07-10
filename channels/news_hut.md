@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 02:22:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 03:21:07</div>
 <hr>
 
 <div class="tg-post" id="msg-67764">
@@ -321,7 +321,7 @@
 🔤
 وارد سایت شوید
 💬</div>
-<div class="tg-footer">👁️ 1.29K · <a href="https://t.me/news_hut/67764" target="_blank">📅 02:11 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/news_hut/67764" target="_blank">📅 02:11 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67763">
@@ -383,7 +383,7 @@
 A19
 📱
 https://www.lenzbet1.living</div>
-<div class="tg-footer">👁️ 1.32K · <a href="https://t.me/news_hut/67763" target="_blank">📅 02:11 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.58K · <a href="https://t.me/news_hut/67763" target="_blank">📅 02:11 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67762">
@@ -392,7 +392,7 @@ https://www.lenzbet1.living</div>
 <div class="tg-text">🚨
 حملات ارتش اسرائیل به نبطیه در جنوب لبنان
 @News_Hut</div>
-<div class="tg-footer">👁️ 3.35K · <a href="https://t.me/news_hut/67762" target="_blank">📅 01:58 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/news_hut/67762" target="_blank">📅 01:58 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67761">
@@ -404,7 +404,7 @@ https://www.lenzbet1.living</div>
 ایران‌ با عواقب وخیمی روبرو خواهند شد اگر از انتشار یک بیانیه عمومی فردا خودداری کنند که در آن اعلام شود تمام مسیرها در تنگه هرمز باز هستند.
 اگر این موضع [آنها] فردا نباشد، روز خوبی برایشان نخواهد بود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/news_hut/67761" target="_blank">📅 00:58 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/news_hut/67761" target="_blank">📅 00:58 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67760">
@@ -414,7 +414,7 @@ https://www.lenzbet1.living</div>
 باراک راوید:
 به گفته مقامات آمریکایی، ایالات متحده به ایران تا روز شنبه مهلت داده است تا حملات در تنگه هرمز را علناً محکوم کند و باز بودن این تنگه را اعلام نماید.
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/news_hut/67760" target="_blank">📅 00:56 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/news_hut/67760" target="_blank">📅 00:56 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67759">
@@ -422,7 +422,7 @@ https://www.lenzbet1.living</div>
 <div class="tg-text">کشوری غنی، اما مردمی فقیر
 💔
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/news_hut/67759" target="_blank">📅 00:39 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/news_hut/67759" target="_blank">📅 00:39 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67758">
@@ -430,7 +430,7 @@ https://www.lenzbet1.living</div>
 <div class="tg-text">🚨
 🚨
 وزارت آموزش و پرورش:  ممکنه امتحانات نهایی به صورت داخلی برگزار بشه.  فردا در جلسه ای در موردش تصمیم گیری می کنیم.  @News_Hut</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/news_hut/67758" target="_blank">📅 00:31 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/news_hut/67758" target="_blank">📅 00:31 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67757">
@@ -441,7 +441,7 @@ https://www.lenzbet1.living</div>
 ممکنه امتحانات نهایی به صورت داخلی برگزار بشه.
 فردا در جلسه ای در موردش تصمیم گیری می کنیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/67757" target="_blank">📅 00:27 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/67757" target="_blank">📅 00:27 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67756">
@@ -458,7 +458,7 @@ https://www.lenzbet1.living</div>
 اسماعیل بقایی سخنگوی وزارت امور خارجه:
 ایران اجازه بازرسی از تأسیسات آسیب دیده در اثر حملات آمریکا و اسرائیل را نخواهد داد و قطعنامه 2231 شورای امنیت سازمان ملل عملاً اعتبار قانونی خود را از دست داده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/67756" target="_blank">📅 00:05 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/67756" target="_blank">📅 00:05 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67753">
@@ -473,7 +473,7 @@ https://www.lenzbet1.living</div>
 ⭕️
 شبکه خبری CNN تصاویر ماهواره ای  ادعایی را منتشر کرده که نشان می‌دهد ایران در تلاش است تا تاسیسات هسته‌ای واقع در پارکچین را بازسازی کند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/67753" target="_blank">📅 23:16 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/67753" target="_blank">📅 23:16 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67752">
@@ -490,7 +490,7 @@ https://www.lenzbet1.living</div>
 گفتن خودشو که نمیتونیم بکشیم حداقل ماکتشو بکشیم
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/67752" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/67752" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67751">
@@ -502,7 +502,7 @@ https://www.lenzbet1.living</div>
 در جریان مذاکرات، به معاون رئیس‌جمهور آمریکا توضیح دادم که ما به شما اصلاً اعتماد نداریم.
 به نظر من، تنها کسانی می‌توانند با ایالات متحده مذاکره کنند که برای جنگ آماده باشند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/67751" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/67751" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67750">
@@ -515,7 +515,7 @@ https://www.lenzbet1.living</div>
 بررسی آمار و عملکرد تیم‌ها
 🎯
 نکات و دیدگاه‌های تخصصی همراه ما باش و مسابقات را حرفه‌ای‌تر دنبال کن.  @bet_maxxx @bet_maxxx @bdt_maxxx</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/67750" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/67750" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67749">
@@ -535,7 +535,7 @@ https://www.lenzbet1.living</div>
 @bet_maxxx
 @bet_maxxx
 @bdt_maxxx</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/67749" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/67749" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67748">
@@ -551,7 +551,7 @@ https://www.lenzbet1.living</div>
 رونالد ریگان چهلمین رئیس جمهور ایالات متحده آمریکا:
 در این سخنرانی، ریگان با یک روایت طنزآمیز، دیدگاه خود درباره نقش دولت و مسئولیت فردی را بیان می‌کند؛ روایتی که سال‌هاست در مباحث سیاسی از آن یاد می‌شود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/67748" target="_blank">📅 22:15 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/67748" target="_blank">📅 22:15 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67747">
@@ -564,7 +564,7 @@ https://www.lenzbet1.living</div>
 اسرائیل هیوم به نقل از منابع خود مدعی شده است که عباس عراقچی در تماس با میانجی‌ها اعلام کرده دولت ایران نتوانسته موافقت سپاه با مفاد تفاهم با آمریکا و توقف حملات به کشتی‌ها در تنگه هرمز را جلب کند.
 این روزنامه همچنین مدعی است که یکی از گزینه‌های مورد بررسی واشینگتن و تل‌آویو، تشدید دوباره فشارهای اقتصادی و بازگرداندن کامل تحریم‌ها با هدف افزایش فشار بر رژیم ایران است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/67747" target="_blank">📅 21:33 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/67747" target="_blank">📅 21:33 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67746">
@@ -576,7 +576,7 @@ https://www.lenzbet1.living</div>
 بر اساس گفته‌های یک دیپلمات آگاه از این سفر، مذاکره‌کنندگان قطری با هماهنگی ایالات متحده، به ایران سفر کرده‌اند تا با مقامات ایرانی دیدار کنند و تلاش کنند تا تنش‌ها را کاهش داده و شرایط را برای از سرگیری مذاکرات فراهم کنند.
 این دیپلمات گفت که جلسات بین مقامات قطری و ایرانی در تهران همچنان در حال برگزاری است، "اما واضح است که هر دو طرف تمایل دارند به توافق‌نامه اولیه بازگردند."
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/67746" target="_blank">📅 20:56 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/news_hut/67746" target="_blank">📅 20:56 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67745">
@@ -587,7 +587,7 @@ https://www.lenzbet1.living</div>
 🇺🇸
 ترامپ به «نیویورک پست» گفت که دستوراتی صادر کرده است مبنی بر اینکه اگر ایران در ترور او موفق شود، ایالات متحده باید «به‌معنای واقعی کلمه، آن‌ها را چنان بمباران کند که هرگز پیش از این ندیده باشند.» او افزود که «مدت‌هاست» نفر اولِ فهرست ترور ایران بوده.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/news_hut/67745" target="_blank">📅 20:21 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/news_hut/67745" target="_blank">📅 20:21 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67744">
@@ -597,7 +597,7 @@ https://www.lenzbet1.living</div>
 مرندی از اعضای نزدیک به تیم مذاکره‌کننده:
 ترامپ و خبرگزاری آکسیوس را نادیده بگیرید. هیچ مذاکره‌ای تا زمانی که دولت ترامپ به تعهدات خود عمل نکند، صورت نخواهد گرفت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/news_hut/67744" target="_blank">📅 19:44 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/67744" target="_blank">📅 19:44 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67743">
@@ -607,7 +607,7 @@ https://www.lenzbet1.living</div>
 آکسیوس:
 پیش‌بینی می‌شود که ایالات متحده و ایران هفته آینده دور دیگری از مذاکرات را برگزار کنند، احتمالاً در سوئیس.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/67743" target="_blank">📅 19:21 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/news_hut/67743" target="_blank">📅 19:21 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67742">
@@ -623,7 +623,7 @@ https://www.lenzbet1.living</div>
 🚨
 آتش‌سوزی گسترده در مجموعه اکسین پلدختر در استان لرستان
 @News_Hut</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/news_hut/67742" target="_blank">📅 19:15 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/news_hut/67742" target="_blank">📅 19:15 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67741">
@@ -633,7 +633,7 @@ https://www.lenzbet1.living</div>
 🚨
 انفجار در پالایشگاه نفت پلدختر در استان لرستان.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/news_hut/67741" target="_blank">📅 19:13 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/news_hut/67741" target="_blank">📅 19:13 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67740">
@@ -643,7 +643,7 @@ https://www.lenzbet1.living</div>
 🚨
 بلند شدن دود در کنارک پس از وقوع دو انفجار
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/news_hut/67740" target="_blank">📅 19:01 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/67740" target="_blank">📅 19:01 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67739">
@@ -662,7 +662,7 @@ https://www.lenzbet1.living</div>
 😆
 😆
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/news_hut/67739" target="_blank">📅 18:52 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/news_hut/67739" target="_blank">📅 18:52 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67738">
@@ -675,7 +675,7 @@ https://www.lenzbet1.living</div>
 پرزیدنت ترامپ:
 ایران با ما تماس گرفت و خواستار ادامه "مذاکرات" شد. ما به این درخواست موافقت کردیم، اما ایالات متحده به طور واضح به آنها اعلام کرد که آتش‌بس به پایان رسیده است. از توجه شما به این موضوع سپاسگزارم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/news_hut/67738" target="_blank">📅 18:07 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/news_hut/67738" target="_blank">📅 18:07 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67737">
@@ -684,7 +684,7 @@ https://www.lenzbet1.living</div>
 <div class="tg-text">🔴
 نیروی دریایی ایالات متحده امروز حضور قابل توجهی در خلیج عمان دارد. یک ناو هواپیمابر و اسکورت آن (حداقل 3 ناو جنگی و یک تانکر سوخت) امروز در فاصله کمتر از 300 کیلومتر از سواحل ایران مشاهده شدند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/67737" target="_blank">📅 17:51 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/news_hut/67737" target="_blank">📅 17:51 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67736">
@@ -699,7 +699,7 @@ https://www.lenzbet1.living</div>
 <div class="tg-text">⏸
 ویدیو‌ ای از صحبت های چند روز اخیر ترامپ که در حال وایرال شدن است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/news_hut/67736" target="_blank">📅 17:51 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/news_hut/67736" target="_blank">📅 17:51 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67735">
@@ -730,7 +730,7 @@ Sport100
 برای تغییر زبان برنامه، زبان موبایل خود را تغییر دهید.
 ✅
 ورود به اپلیکیشن بدون فیلترشکن</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/67735" target="_blank">📅 17:51 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/news_hut/67735" target="_blank">📅 17:51 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67734">
@@ -760,7 +760,7 @@ Link
 🔜
 MelBet1.net
 ✅</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/news_hut/67734" target="_blank">📅 17:51 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/news_hut/67734" target="_blank">📅 17:51 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67733">
@@ -778,7 +778,7 @@ MelBet1.net
 به طور خلاصه در دو کلمه به ملت ایران
 بگویم: جنگ نخواهد شد و مذاکره نخواهیم کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/news_hut/67733" target="_blank">📅 17:15 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/news_hut/67733" target="_blank">📅 17:15 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67732">
@@ -789,7 +789,7 @@ MelBet1.net
 جوون‌های نسل زِد که از وضعیت اقتصادی و زندگی در آمریکا گلایه دارن رو بفرستید ایران خیلی زود قدر آمریکا رو میدونن و زود برمیگردن
 😔
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/news_hut/67732" target="_blank">📅 16:25 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/67732" target="_blank">📅 16:25 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67730">
@@ -807,7 +807,7 @@ MelBet1.net
 این حرکتش باعث واکنش تندرو ها توی فضای مجازی شده و گرفتن روش
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/news_hut/67730" target="_blank">📅 15:29 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/news_hut/67730" target="_blank">📅 15:29 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67729">
@@ -820,7 +820,7 @@ MelBet1.net
 ✅
 واقعیت: ایران کنترل تنگه هرمز را در دست ندارد. از اوایل ماه مه، نیروهای آمریکایی به تسهیل عبور موفقیت‌آمیز بیش از 800 کشتی تجاری و 380 میلیون بشکه نفت خام از طریق این مسیر حیاتی تجاری بین‌المللی کمک کرده‌اند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/news_hut/67729" target="_blank">📅 14:49 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/news_hut/67729" target="_blank">📅 14:49 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67728">
@@ -829,7 +829,7 @@ MelBet1.net
 <div class="tg-text">🔴
 با اعلام سازمان سنجش، رسما و شرعا امتحانات دانش آموزا، بدون هیچگونه تغییری و طبق برنامه، از ۲۱ تیر ماه آغاز میشه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/news_hut/67728" target="_blank">📅 14:00 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/news_hut/67728" target="_blank">📅 14:00 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67727">
@@ -848,7 +848,7 @@ MelBet1.net
 ..."
 + ستاره همون دختریه که تتلو تو ترکیه روش شاشید!
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/news_hut/67727" target="_blank">📅 13:26 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/news_hut/67727" target="_blank">📅 13:26 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67726">
@@ -895,7 +895,7 @@ MelBet1.net
 گویا یه خانواده داشتن از خیابون رد می‌شدن و هم‌زمان یه نفر هم با سگش از همون مسیر رد می‌شده.
 یکی از افراد اون خانواده که از سگ می‌ترسیده، به سگ طرف مقابل یه لگد می‌زنه، بعدش دعوا انقدر بالا می‌گیره که همه با هم می‌افتن تو رودخونه و اونجا هم به جون هم می‌افتن و به این صورت همو میگیرن زیر چک و لگد :
 @News_Hut</div>
-<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/news_hut/67723" target="_blank">📅 10:02 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/news_hut/67723" target="_blank">📅 10:02 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67722">
@@ -952,7 +952,7 @@ MelBet1.net
 صابرین نیوز:
 سخنگوی انتظامی استانداری خراسان رضوی اعلام کرد که درگیری مسلحانه‌ای در منطقه "بلوار سرافراز" در شهر مشهد رخ داده است که در نتیجه آن، دو نفر جان خود را از دست دادند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/news_hut/67718" target="_blank">📅 00:57 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/news_hut/67718" target="_blank">📅 00:57 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67717">
@@ -962,7 +962,7 @@ MelBet1.net
 41تا43میلیون نفر در تشییع جنازه علی خامنه‌ای حضور داشتن
 😆
 @News_Hut</div>
-<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/news_hut/67717" target="_blank">📅 00:49 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/news_hut/67717" target="_blank">📅 00:49 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67716">
@@ -992,7 +992,7 @@ MelBet1.net
 در حمله به ایست بازرسی در مشهد دو پاسدار کشته شدند.
 افراد مسلح لباس نظامی به تن داشتن و بعد از زدن نیروهای امنیتی با موفقیت فرار کردن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/news_hut/67713" target="_blank">📅 00:41 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 31K · <a href="https://t.me/news_hut/67713" target="_blank">📅 00:41 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67712">
@@ -1020,7 +1020,7 @@ MelBet1.net
 ❌
 گزارش های تایید نشده از شنیده شدن صدای تیراندازی اطراف حرم امام رضا
 @News_Hut</div>
-<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/news_hut/67710" target="_blank">📅 00:06 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 32K · <a href="https://t.me/news_hut/67710" target="_blank">📅 00:06 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67709">
@@ -1078,7 +1078,7 @@ MelBet1.net
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kPzO126repXR58KK3Mk9b6F850nY8MvBubWzWmiPez8BNuMYvsZ4tum-_VNYHxH95CzK8_qztAXB-ufKWelxL-gfTaxx3F-KMxnh7W8YUS1iKS4BjlxGZQUcE1GP8CU1diFInMYziX2wiePweCh_XrpNcQSp4i4DBXRLYNwp7O_9H10Q-Bv2qAfazzmZ9w49BWfdda6fG2rQKTXbeWC1UXaYd0NbdvQBVSHHaE6aWjG0cdrjvRTyzf340N4IQPM3UyXfC62N-jqs6gAeE2DBehSvA4lB_MnghNfN053ff3e0WjHrrGJE5nEGiiUmupLaQRCUoQjAl_UfJyPT75ENMw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به به بریم برا دعوا #hjAly‌</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/news_hut/67704" target="_blank">📅 22:57 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/news_hut/67704" target="_blank">📅 22:57 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67703">
@@ -1102,7 +1102,7 @@ MelBet1.net
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">🚨
 نایا: ممکنه حملات امشب کار کویت و بحرین باشه  @News_Hut</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/news_hut/67701" target="_blank">📅 22:27 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/news_hut/67701" target="_blank">📅 22:27 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67700">
@@ -1178,7 +1178,7 @@ MelBet1.net
 ⭕️
 مصطفی خامنه‌ای در شهر مشهد بر جنازه پدرش نماز خواند
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/news_hut/67695" target="_blank">📅 21:59 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/news_hut/67695" target="_blank">📅 21:59 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67694">
@@ -1289,7 +1289,7 @@ MelBet1.net
 به هم‌میهنانم گفتم آنچه شما در ۱۸ و ۱۹ دی‌ماه آغاز کردید، مسیری بازگشت‌ناپذیره. ما با هم جایگاه شایسته کشورمان در جهان را بازپس خواهیم گرفت، عزت ملی خود را احیا خواهیم کرد و یاد قهرمانان‌مان را با ساختن ایرانی آزاد زنده نگه خواهیم داشت.
 اکنون زمان آن است که درنگ کنیم، دوباره نیرو بگیریم، و بار دیگر خود را وقف پیروزی کنیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/news_hut/67684" target="_blank">📅 21:17 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/news_hut/67684" target="_blank">📅 21:17 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67683">
