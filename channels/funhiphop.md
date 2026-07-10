@@ -292,7 +292,7 @@
 <a href="https://t.me/funhiphop" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 «قدیمی ترین اجتماع فانِ هیپ هاپی»🟡صاحب سبک🟡Tb :@FunHipHopAdsContact :@Chaman_Dar_KhakFollowing Copyright Laws©</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-19 03:28:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-19 06:50:05</div>
 <hr>
 
 <div class="tg-post" id="msg-79878">
@@ -300,7 +300,7 @@
 <div class="tg-text">بعد مرد مومن به صدف چیکار داشتی اینو خود هیپهاپولوژیست تو دو تا ترک دیسش کرده بود.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 1.21K · <a href="https://t.me/funhiphop/79878" target="_blank">📅 03:24 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/funhiphop/79878" target="_blank">📅 03:24 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79877">
@@ -308,19 +308,19 @@
 <div class="tg-text">اما اگه بخوام خلاصه دیس ترک رو براتون بنویسم: زنت جنده اس، بدهی داری، فائزه جنده اس، پولمو بده، زنت برام میپیچه، بدهی داری، حصین زنتو گایید، به علی ضیام بدهی داری.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/funhiphop/79877" target="_blank">📅 03:19 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.84K · <a href="https://t.me/funhiphop/79877" target="_blank">📅 03:19 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79876">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">دیس ترک ویناک به نام قمر در عقرب منتشر شد.  YouTube  @FunHipHop | Arash</div>
-<div class="tg-footer">👁️ 2.33K · <a href="https://t.me/funhiphop/79876" target="_blank">📅 03:14 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.15K · <a href="https://t.me/funhiphop/79876" target="_blank">📅 03:14 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79875">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">دیس ترک ویناک به نام قمر در عقرب منتشر شد.  YouTube  @FunHipHop | Arash</div>
-<div class="tg-footer">👁️ 2.8K · <a href="https://t.me/funhiphop/79875" target="_blank">📅 03:08 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.29K · <a href="https://t.me/funhiphop/79875" target="_blank">📅 03:08 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79874">
@@ -330,13 +330,13 @@
 YouTube
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 3.08K · <a href="https://t.me/funhiphop/79874" target="_blank">📅 03:06 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.41K · <a href="https://t.me/funhiphop/79874" target="_blank">📅 03:06 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79873">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">دیس بک ویناک امشب میاد</div>
-<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/funhiphop/79873" target="_blank">📅 02:01 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/funhiphop/79873" target="_blank">📅 02:01 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79872">
@@ -344,25 +344,25 @@ YouTube
 <div class="tg-text">فارس اعلام کرد که خامنه ای بعد ۱۳۱ روز و یک تور ایران گردی بالاخره دفن شد
 @FuunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 8.56K · <a href="https://t.me/funhiphop/79872" target="_blank">📅 01:31 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/79872" target="_blank">📅 01:31 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79871">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">البته دمبله زد یجا که یه ذره غم و ناراحتی وجود داشت ولی خب تقریبا از یه سوراخ زدن</div>
-<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/funhiphop/79871" target="_blank">📅 01:05 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/79871" target="_blank">📅 01:05 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79870">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">کصکش یجوری زد توپ رفت جایی که غم نباشه</div>
-<div class="tg-footer">👁️ 9.94K · <a href="https://t.me/funhiphop/79870" target="_blank">📅 01:05 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/79870" target="_blank">📅 01:05 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79869">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">کصکش یجوری زد توپ رفت جایی که غم نباشه</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/funhiphop/79869" target="_blank">📅 00:56 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/funhiphop/79869" target="_blank">📅 00:56 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79868">
@@ -371,19 +371,19 @@ YouTube
 سوپر گل هم میزنه
 @FuunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/funhiphop/79868" target="_blank">📅 00:54 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/79868" target="_blank">📅 00:54 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79867">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">دیس ترک جدید دکی به‌نام "تا دیدی سروش" منتشر شد.  Soundcloud  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/funhiphop/79867" target="_blank">📅 00:39 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/funhiphop/79867" target="_blank">📅 00:39 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79866">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">محمد سامتینگ رفته برا تشیع جنازه تو حرم امام رضا، چند نفر ریختن تو سن با شعار مرگ بر سازشگر بزننش که مامورا باهاشون درگیر شدن، صدا سیما هم چند دقیقه پخش زندشو قطع کرد  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/79866" target="_blank">📅 00:35 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/79866" target="_blank">📅 00:35 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79865">
@@ -391,7 +391,7 @@ YouTube
 <div class="tg-text">محمد سامتینگ رفته برا تشیع جنازه تو حرم امام رضا، چند نفر ریختن تو سن با شعار مرگ بر سازشگر بزننش که مامورا باهاشون درگیر شدن، صدا سیما هم چند دقیقه پخش زندشو قطع کرد
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/79865" target="_blank">📅 00:32 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/79865" target="_blank">📅 00:32 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79864">
@@ -399,7 +399,7 @@ YouTube
 <div class="tg-text">مراکش عملا زورش نمیرسه طبیعی هم هست ولی فوتباله و هزار و یک اتفاق غیر منتظره
 @FuunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/funhiphop/79864" target="_blank">📅 00:08 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/79864" target="_blank">📅 00:08 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79863">
@@ -408,7 +408,7 @@ YouTube
 🔥
 @FuunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/funhiphop/79863" target="_blank">📅 23:59 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/79863" target="_blank">📅 23:59 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79862">
@@ -416,13 +416,13 @@ YouTube
 <div class="tg-text">تعداد حضورم تو جنگا داره از امام علی هم بیشتر میشه کیرم تو خاورمیانه
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/79862" target="_blank">📅 23:40 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/79862" target="_blank">📅 23:40 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79861">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromVinak</strong></div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/funhiphop/79861" target="_blank">📅 23:23 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/79861" target="_blank">📅 23:23 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79860">
@@ -430,7 +430,7 @@ YouTube
 <div class="tg-text">ریدم حاجی فیروز کریمی تو شبکه جم چیکار داره میکنه
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/79860" target="_blank">📅 23:22 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/79860" target="_blank">📅 23:22 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79859">
@@ -438,13 +438,13 @@ YouTube
 <div class="tg-text">دکی سه دقیقه دیس دادی به ویناک یه کلوم توش نگفتی نمیخوام پولتو بدم کشیدمش بالا
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/79859" target="_blank">📅 23:11 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/79859" target="_blank">📅 23:11 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79857">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">راستی امشب ایرانو آمریکا نزده، کویت زده</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/79857" target="_blank">📅 22:36 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/79857" target="_blank">📅 22:36 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79853">
@@ -456,7 +456,7 @@ YouTube
 <br>
 <a href="https://cdn4.telesco.pe/file/940935d4b2.mp4?token=sAp3PaQ9U_b1TZP3TXeAAsWO5QCPPy8XekR-MyJ4JQOXX9zWMXBeqhAwjIGk76yqmD-aQSzITgdLyT-CUApSywI9pnuh2FaoKusCHJbcQGweTDeX9MAzqZpsolruLuh2yAEIQ-PrZnaDEAgOxidTmsguCEQgWNLaExnji_O_2nhYbenu4VY636VXJXny-vEtTl9B9wSSs7H-EKXxZGsqqIFcdfCuevC6pSsFhlAILtVfE0GxqGwhKylcT_9rW3Yx_3Y9hJnPFd21llln3INGjp6LScCxPkl_QfFAGry5MdV1xhzEv93rKTU5_qJlmR8iKOsdTW3pFJxqY6VqX5pL2A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/79853" target="_blank">📅 22:24 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/79853" target="_blank">📅 22:24 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79852">
@@ -473,14 +473,14 @@ YouTube
 😂
 😂
 😂</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/79852" target="_blank">📅 22:24 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/funhiphop/79852" target="_blank">📅 22:24 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79851">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">حالا کی قراره ویناکو بگیره
 هیشکی بک نمیداد بهش هفته ای یه دیس میداد الان که هیچی دیگه</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/79851" target="_blank">📅 22:10 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/79851" target="_blank">📅 22:10 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79850">
@@ -488,7 +488,7 @@ YouTube
 <div class="tg-text">دیس بک دکی به دلو از این دیس بکش بهتر بود
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/79850" target="_blank">📅 22:08 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/79850" target="_blank">📅 22:08 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79849">
@@ -496,25 +496,25 @@ YouTube
 <div class="tg-text">دکی به لیتو: خانومت خوشگله بزی لی تبریک
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/79849" target="_blank">📅 22:06 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/79849" target="_blank">📅 22:06 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79848">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">دیس ترک جدید دکی به‌نام "تا دیدی سروش" منتشر شد.  Soundcloud  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/79848" target="_blank">📅 22:02 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/79848" target="_blank">📅 22:02 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79847">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">اینو نمیداد سنگین تر بود</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/79847" target="_blank">📅 21:56 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/79847" target="_blank">📅 21:56 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79846">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">دیس ترک جدید دکی به‌نام "تا دیدی سروش" منتشر شد.  Soundcloud  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/79846" target="_blank">📅 21:55 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/79846" target="_blank">📅 21:55 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79845">
@@ -524,13 +524,13 @@ YouTube
 Soundcloud
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/79845" target="_blank">📅 21:55 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/79845" target="_blank">📅 21:55 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79843">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">اف 18 سوپر هورنت اومد با یه ست تابستونی  @FuunHipHop | FaRib</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/funhiphop/79843" target="_blank">📅 21:43 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/79843" target="_blank">📅 21:43 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79842">
@@ -538,20 +538,20 @@ Soundcloud
 <div class="tg-text">اف 18 سوپر هورنت اومد با یه ست تابستونی
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/79842" target="_blank">📅 21:42 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/79842" target="_blank">📅 21:42 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79841">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromA M i R</strong></div>
 <div class="tg-text">پشمام اون داداش کوچیکه هم که میدوئه کاگانه</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/79841" target="_blank">📅 21:27 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/79841" target="_blank">📅 21:27 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79840">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">این جنگی که دارن باهاش هایپ میکنن بیفشونو اسمش تو گیم اف ترونز "نبرد حرومزاده ها" بود  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/79840" target="_blank">📅 21:26 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/funhiphop/79840" target="_blank">📅 21:26 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79839">
@@ -559,7 +559,7 @@ Soundcloud
 <div class="tg-text">این جنگی که دارن باهاش هایپ میکنن بیفشونو اسمش تو گیم اف ترونز "نبرد حرومزاده ها" بود
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/79839" target="_blank">📅 21:25 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/79839" target="_blank">📅 21:25 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79838">
@@ -572,7 +572,7 @@ Soundcloud
 <a href="https://cdn4.telesco.pe/file/8b0c8abffc.mp4?token=shsI_q3AFm4bL7h_NzfYwBthBAUcwIArCS95510NCD-Wz1VsMYMLm53OgGLOqgQ6FP7dW2bCjs2YXNonXh6GX6qV2tClmiQItWZVTieC1_F2yYB0ZTmftamGFOWZvwiuN3Y6w8QNv6R8geHru0qhyXbTkH3GN87klEsqcmHTEwQXM24oTXb1s4RQHuDVNrM1I13JeMCKYzGjDXybmCjSFDoQRsm6G_Q4dQbR_gmxpJvsP-Nm4eLL1oSn_gaMFh9PoQOR4KPuV3VJZ0NHV__bRglIGWzI14QwrucCDCsEWMfSO1J8Y2oKjcpZUntlfEZ0en2asFAIqXbfF6I1d-sTvQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">استوری جدید دکی، مایل به کاردی 4؟  @FunHipHop | Mmd</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/79838" target="_blank">📅 21:18 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/79838" target="_blank">📅 21:18 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79837">
@@ -581,7 +581,7 @@ Soundcloud
 <div class="tg-text">عملیات وعده صادق 284؟
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/79837" target="_blank">📅 20:20 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/79837" target="_blank">📅 20:20 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79836">
@@ -591,7 +591,7 @@ Soundcloud
 روح تمام جاویدنامان هر دو اتفاق شاد
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/79836" target="_blank">📅 20:04 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/79836" target="_blank">📅 20:04 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79835">
@@ -606,7 +606,7 @@ Soundcloud
 <div class="tg-text">ایرانیا با ai هم طنز تولید میکنن
 @FunHipHop
 | Mmd</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/79835" target="_blank">📅 19:49 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/79835" target="_blank">📅 19:49 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79833">
@@ -632,7 +632,7 @@ Soundcloud
 @vmoon_pn_bot
 @vmoon_pn_bot
 @vmoon_pn_bot</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/funhiphop/79833" target="_blank">📅 19:38 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/79833" target="_blank">📅 19:38 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79832">
@@ -641,7 +641,7 @@ Soundcloud
 <div class="tg-text">استوری جدید دکی، مایل به کاردی 4؟
 @FunHipHop
 | Mmd</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/79832" target="_blank">📅 19:26 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/79832" target="_blank">📅 19:26 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79831">
@@ -650,14 +650,14 @@ Soundcloud
 <div class="tg-text">عکس کامل استوری چادی هوپان.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/79831" target="_blank">📅 19:02 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/79831" target="_blank">📅 19:02 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79830">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sua4DwztJwRVgn8Iu5jzgmayji6K6FJDxS1nexJa3_Ml7gc5M_qdVuys-ceV5HBS5vCcFr-xglr3npb8aYhOvcqZQHXU-x_ul_SeFzC7MJoU6Y8iYeY3y5xKFrz40_hZKO358tFja5Nzx2G4cEQAh6Z6XUWHcvSsL_bt73xxX_RU91cAHkGQzpI_TUVCX0u3fn7YqJ3w2ZKk3musFWlXLc1k42tYdpvV_FgPOuHYtsW3_iVL6nKG3BGeCrEZ-DHeoeo3azTBDH44wkQypyY_t9r5KaJrw2lEUGoMjB4URhLf09K7U2SvZ2vHJLugELp1cssUibQep0ub1YcurfCUcg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">زیر این پست عکسای رندوم بفرستید.  @FunHipHop | Arash</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/funhiphop/79830" target="_blank">📅 18:12 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/79830" target="_blank">📅 18:12 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79829">
@@ -667,7 +667,7 @@ Soundcloud
 هکتور فورت رفته تو رابطه
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/79829" target="_blank">📅 17:50 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/79829" target="_blank">📅 17:50 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79827">
@@ -679,7 +679,7 @@ Soundcloud
 <div class="tg-text">فقط لجندا ربط این دوتا تصویر به هم رو میدونن.
 @FuunHipHop
 | Jenayi</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/79827" target="_blank">📅 17:07 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/79827" target="_blank">📅 17:07 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79826">
@@ -705,13 +705,13 @@ BetForward.com
 r18
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/79826" target="_blank">📅 17:07 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/79826" target="_blank">📅 17:07 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79825">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">آلبوم جدید ناجی به اسم Nowhere منتشر شد.   Spotify  @FuunHipHop | FaRib</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/79825" target="_blank">📅 16:55 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/funhiphop/79825" target="_blank">📅 16:55 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79824">
@@ -721,7 +721,7 @@ r18
 Spotify
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/79824" target="_blank">📅 16:53 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/79824" target="_blank">📅 16:53 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79823">
@@ -736,7 +736,7 @@ Spotify
 <div class="tg-text">هواپیمای حامل تابوت توسط جنگنده Mig29-ub اسکورت شد، نکته اینجاست که این نسخه آموزشی و فاقد راداره
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/79823" target="_blank">📅 16:38 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/funhiphop/79823" target="_blank">📅 16:38 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79822">
@@ -744,7 +744,7 @@ Spotify
 <div class="tg-text">اموزش پرورش همچنان میگه امتحانا سر تایمشه در حالی که یه سری از حوضه های امتحانی کنار مراکز نظامی قرار گرفتن و احتمالا درگیری تا چند روز یعنی اولای امتحانات طول بکشه
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/79822" target="_blank">📅 16:23 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/79822" target="_blank">📅 16:23 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79821">
@@ -753,7 +753,7 @@ Spotify
 <div class="tg-text">این 3 تا هم تو حملات دیشب امریکا به خوزستان کشته شدن
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/79821" target="_blank">📅 16:19 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/79821" target="_blank">📅 16:19 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79820">
@@ -762,25 +762,25 @@ Spotify
 <div class="tg-text">الان دکی با موزیک ویدیو ویناک جق میزنه یعنی؟
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/79820" target="_blank">📅 16:04 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/79820" target="_blank">📅 16:04 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79819">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">ترک جدید ویناک به نام "بلاد گنگ" منتشر شد.  Youtube  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/79819" target="_blank">📅 15:57 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/79819" target="_blank">📅 15:57 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79818">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">درحال حاضر دکی کیر ویناکم نیست</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/79818" target="_blank">📅 15:56 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/79818" target="_blank">📅 15:56 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79817">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">ترک جدید ویناک به نام "بلاد گنگ" منتشر شد.  Youtube  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/79817" target="_blank">📅 15:53 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/79817" target="_blank">📅 15:53 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79816">
@@ -790,7 +790,7 @@ Spotify
 Youtube
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/79816" target="_blank">📅 15:53 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/79816" target="_blank">📅 15:53 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79815">
@@ -799,7 +799,7 @@ Youtube
 <div class="tg-text">ترک ویناک اومد
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/79815" target="_blank">📅 15:50 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/79815" target="_blank">📅 15:50 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79814">
@@ -810,7 +810,7 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 کاهش شدید قیمت‌ها به پاس همراهی شما؛ از این لحظه تمام  پلن‌ها با نرخ جدید محاسبه میشن:
 💲
 تعرفه جدید: فقط گیگی ۷,۰۰۰ تومان  سرورهای پرسرعت اختصاصی  پایداری فوق‌العاده بالا  مناسب اینستاگرام، یوتیوب و هوش مصنوعی و گیم…</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/79814" target="_blank">📅 15:47 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/79814" target="_blank">📅 15:47 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79813">
@@ -819,7 +819,7 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 <div class="tg-text">امریکا بترس
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/79813" target="_blank">📅 15:36 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/79813" target="_blank">📅 15:36 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79812">
@@ -827,7 +827,7 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 <div class="tg-text">نتتون ضعیف شده؟
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/79812" target="_blank">📅 15:24 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/79812" target="_blank">📅 15:24 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79810">
@@ -836,7 +836,7 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 <div class="tg-text">ترامپ قمار باز به صورت زنده در حال تهیه گزارش از اوضاع تنگه هرمز برای صداسیماست.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/79810" target="_blank">📅 15:12 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/79810" target="_blank">📅 15:12 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79809">
@@ -844,13 +844,13 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 <div class="tg-text">تو گوگل سرچ کنید erling haaland بعدش چند ثانیه صبر کنید.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/79809" target="_blank">📅 15:05 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/funhiphop/79809" target="_blank">📅 15:05 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79805">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">شاید باورتون نشه ولی آتش بس هنوز نقض نشده</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/79805" target="_blank">📅 14:38 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/funhiphop/79805" target="_blank">📅 14:38 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79804">
@@ -858,26 +858,26 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 <div class="tg-text">انقدر جنگ دیدم و برام عادی شده که دیگه حتی پمپ بنزین هم نمیرم.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/79804" target="_blank">📅 14:26 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/79804" target="_blank">📅 14:26 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79803">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">غزه در زیر بمب ها زندست، غزه با بمب ها نخواهد مرد ولی آن روز میرسد از راه، که بیکینی باتم شخم خواهد خورد  @FunHipHop | Arash</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/79803" target="_blank">📅 14:19 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/funhiphop/79803" target="_blank">📅 14:19 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79802">
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">آغاز موج 649767667 وعده صادق 27 به سمت پایگاه های استکبار با رمز یا زینب.  @FunHipHop | Arash</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/funhiphop/79802" target="_blank">📅 14:12 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/79802" target="_blank">📅 14:12 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79801">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oss3BzkW2mlwmuKnOiAqofcN-JSKADX0M65grvKY3JQZOjaGzDaUa1pzF3GAexhDAHb2B3UmQAN9lj4ERsDDWOE0ta0RvSEEnpugVkrVcuKPN-3wBxMjzd8N1AHNHpcTQFfk8adoVLLzxe5mfJ1ZdFC31ldvOH-S4pMJsqNUya1-kFnCrNMl4mljg2HwbCsYELL5CJuYAE3gmSnfLgILI2QpkyRf3WYfUruVuFVWYZpC3engWzfgHQ3YRkuCbnCdmgHlqLKHwvQumdsbxyO8Mk0RDqjYZmK1_X7ROu2pSRb0atnXFuA-_kJLXnOZGeD2LkTjYFGv-p1TmysHUK5cTw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">امروز قراره کسایی که تو تشییع مشهد شرکت می‌کنن یه پرچم به طول ۵۰ متر رو حمل کنن که روش نوشتن We Will Kill Trump 100%  اگه باقر شاه جلوشون رو نگیره تا قبل از طلوع آفتاب فردا بمب اتم رو خوردیم خدا بخواد.  @FuunHipHop | Nima</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/funhiphop/79801" target="_blank">📅 13:49 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/79801" target="_blank">📅 13:49 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79800">
@@ -887,7 +887,7 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 اگه باقر شاه جلوشون رو نگیره تا قبل از طلوع آفتاب فردا بمب اتم رو خوردیم خدا بخواد.
 @FuunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/funhiphop/79800" target="_blank">📅 13:25 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/funhiphop/79800" target="_blank">📅 13:25 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79799">
@@ -895,7 +895,7 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 <div class="tg-text">بوشهرو زدن
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/79799" target="_blank">📅 13:04 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/funhiphop/79799" target="_blank">📅 13:04 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79798">
@@ -910,7 +910,7 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 <div class="tg-text">کیری مادرکسه ای حاجی
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/79798" target="_blank">📅 12:53 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/funhiphop/79798" target="_blank">📅 12:53 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79797">
@@ -918,7 +918,7 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 <div class="tg-text">فلیک یجوری داره وینگر و مهاجم میگیره و کیرشو کرده تو دفاع فک کنم بارسا فصل بعد هر بازی ۵ تا میخوره ۶ تا میزنه
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/funhiphop/79797" target="_blank">📅 12:11 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/funhiphop/79797" target="_blank">📅 12:11 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79796">
@@ -926,7 +926,7 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 <div class="tg-text">سپاه بحرینو زد
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/funhiphop/79796" target="_blank">📅 11:57 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/79796" target="_blank">📅 11:57 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79795">
@@ -934,7 +934,7 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 <div class="tg-text">ذرتارو با موشک میفرستن خطرناک نیست؟ یهو باز میشه پفیلا میشه
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/funhiphop/79795" target="_blank">📅 11:35 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/funhiphop/79795" target="_blank">📅 11:35 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79794">
@@ -949,7 +949,7 @@ OFFER OF THE DAY | تخفیف شگفت‌انگیز
 <div class="tg-text">یادتونه یه دختری بود تتلو شاشیده بود روش؟ حالا اون دختره تو فصل جدید عشق ابدیه بعد با یه پسره دعواش میشه پسره برمیداره میگه حداقل نشاشیدن روم.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/funhiphop/79794" target="_blank">📅 11:21 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/funhiphop/79794" target="_blank">📅 11:21 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79793">
@@ -975,7 +975,7 @@ BetForward.com
 r18
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/funhiphop/79793" target="_blank">📅 11:21 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/79793" target="_blank">📅 11:21 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79792">
@@ -983,7 +983,7 @@ r18
 <div class="tg-text">این خط ریلی که زدن یکی مهم ترین راهای تبادل کالا ایران روسیه بود
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/79792" target="_blank">📅 11:06 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/79792" target="_blank">📅 11:06 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79791">
@@ -993,7 +993,7 @@ r18
 حملات احتمالی آمریکا: چغادک و جزیره کیش.
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/funhiphop/79791" target="_blank">📅 09:57 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/funhiphop/79791" target="_blank">📅 09:57 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79790">
@@ -1008,7 +1008,7 @@ r18
 <div class="tg-text">سلام صبح زیباتون بخیر. 4
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/funhiphop/79790" target="_blank">📅 07:00 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/funhiphop/79790" target="_blank">📅 07:00 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79789">
@@ -1016,13 +1016,13 @@ r18
 <div class="tg-text">به بوشهر و چابهار مجدد حمله شده.
 @FunHipHop
 | Reza</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/funhiphop/79789" target="_blank">📅 06:23 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/funhiphop/79789" target="_blank">📅 06:23 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79788">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">آغاز موج 649767667 وعده صادق 27 به سمت پایگاه های استکبار با رمز یا زینب.  @FunHipHop | Arash</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/funhiphop/79788" target="_blank">📅 04:20 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/funhiphop/79788" target="_blank">📅 04:20 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79787">
@@ -1030,14 +1030,14 @@ r18
 <div class="tg-text">آغاز موج 649767667 وعده صادق 27 به سمت پایگاه های استکبار با رمز یا زینب.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/funhiphop/79787" target="_blank">📅 04:06 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/funhiphop/79787" target="_blank">📅 04:06 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79786">
 <div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Cbv6YHnlXmsB_BiOTSaFPnSgJXREXwTVoMuBxvQ86IiG0jAnzDPGyrYyOMxLkdT0bM0tnt26jSjHHfhWGVqdyrtiwPTSmzlI9jnyJ8eNMN2AcWNTZEuy1xwqQ2LLLqC2wDvKW6iIRxkv-x6rOcYEv9uourWyRqk1aFneTf4gcjOAyyPL9BviIAh4gVZ5tZ2fJQYXJaqHLQMEYcdteff9UNYVU1sDQYCpYBYleRPaCTYawPMzP4dvJiaTtg-tRVDKCQIMXWw6IA6ytEl51ZykGYK8nXi_eKz3RDM-ZevedehCWGi9STCiBaIsPvuK0IdHZqWZtDo4bB4wHVZtZaicXQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شمال رو هم دارن میزنن  گرگان و اق قلا   @FunHipHop | Taymaz</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/funhiphop/79786" target="_blank">📅 03:18 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/funhiphop/79786" target="_blank">📅 03:18 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79785">
@@ -1052,14 +1052,14 @@ r18
 <div class="tg-post" id="msg-79784">
 <div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">بزن بزن تموم شد بیاید بلایسیم  https://t.me/+3BUNQoy8hp5iODE0</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/funhiphop/79784" target="_blank">📅 02:09 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/funhiphop/79784" target="_blank">📅 02:09 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79783">
 <div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">بزن بزن تموم شد بیاید بلایسیم
 https://t.me/+3BUNQoy8hp5iODE0</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/funhiphop/79783" target="_blank">📅 02:06 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/funhiphop/79783" target="_blank">📅 02:06 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79782">
@@ -1068,7 +1068,7 @@ https://t.me/+3BUNQoy8hp5iODE0</div>
 ولی من بعد سه سال هنوز زیر پستایی که اهورا نیازی توشه کامنت"ناتکوین کی پول میشه؟ هیچوقت" میبینم
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/funhiphop/79782" target="_blank">📅 02:01 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/funhiphop/79782" target="_blank">📅 02:01 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79781">
@@ -1076,7 +1076,7 @@ https://t.me/+3BUNQoy8hp5iODE0</div>
 <div class="tg-text">خب فعلا اوضاع ارومه بریم خواب خدا را به شماوند بزرگ میسپارم
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/funhiphop/79781" target="_blank">📅 01:50 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/funhiphop/79781" target="_blank">📅 01:50 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79780">
@@ -1084,7 +1084,7 @@ https://t.me/+3BUNQoy8hp5iODE0</div>
 <div class="tg-text">اماده باش صدرصدی یگان های پدافندی بیکینی باتوم و کویر یهودا برای مقابله با حملات سپاه
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/funhiphop/79780" target="_blank">📅 01:46 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/funhiphop/79780" target="_blank">📅 01:46 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79779">
@@ -1170,7 +1170,7 @@ https://t.me/+3BUNQoy8hp5iODE0</div>
 <div class="tg-text">چغادک بندر لنگه کیش زاهدان زدن
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/funhiphop/79769" target="_blank">📅 00:55 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/funhiphop/79769" target="_blank">📅 00:55 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79768">
