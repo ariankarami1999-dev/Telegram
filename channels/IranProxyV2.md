@@ -291,8 +291,27 @@
 <p>@IranProxyV2 • 👥 1.42K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 14:08:51</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 15:15:01</div>
 <hr>
+
+<div class="tg-post" id="msg-44">
+<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-text">🔴
+زیرنویس شبکه خبر ساعت ۱۲:۵۱ امروز ظهر :
+با اعلام وزارت آموزش و پرورش، امتحانات نهایی از فردا و بر اساس برنامه اعلام شده، آغاز میشه
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+@IranProxyV2</div>
+<div class="tg-footer">👁️ 80 · <a href="https://t.me/IranProxyV2/44" target="_blank">📅 14:24 · 20 Tir 1405</a></div>
+</div>
 
 <div class="tg-post" id="msg-43">
 <div class="tg-post-header">📌 پیام #5</div>
@@ -320,7 +339,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 70 · <a href="https://t.me/IranProxyV2/43" target="_blank">📅 12:50 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 134 · <a href="https://t.me/IranProxyV2/43" target="_blank">📅 12:50 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-42">
@@ -330,7 +349,7 @@
 پروکسی
 پروکسی
 پروکسی</div>
-<div class="tg-footer">👁️ 122 · <a href="https://t.me/IranProxyV2/42" target="_blank">📅 11:33 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 179 · <a href="https://t.me/IranProxyV2/42" target="_blank">📅 11:33 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-41">
@@ -339,7 +358,7 @@
 پروکسی
 پروکسی
 پروکسی</div>
-<div class="tg-footer">👁️ 166 · <a href="https://t.me/IranProxyV2/41" target="_blank">📅 10:45 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 214 · <a href="https://t.me/IranProxyV2/41" target="_blank">📅 10:45 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-38">
