@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 23:09:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-21 00:09:02</div>
 <hr>
 
 <div class="tg-post" id="msg-942">
@@ -520,7 +520,7 @@ Google Discover
 
 <div class="tg-post" id="msg-925">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WoAtudfte_baPLIeo7YZHFZQBsJRklyAur5_e-nq3z3OV9X_nzSuaHidahXlOmQgYu5I1WVzX93TnZxMqDcX5ICoImnKgQ14W9Wa9j0p96iLxi7ODxIbjLr_IkrDNEg1icRJVvg-ubIjvghsXpplKlZahed2zyZTXnu2ZrP4JFVRqbVmRWaEzq0SauFfr9QNYyFF2-1l_gkOf-SH_qLxnAFijYsE09nMDUPCV60ZphX_HDEXDcijadlzaJkSYLwbKPoTcNbvPt51t46FLGqOYbKFLGK88pRTP0y_PpAdgbIhhMgbo_3Y1-aH5DWaKWIAM1mKiVoWyRtppe-gaXjPMg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lbNddcCQLqyOTyCu6DnsNaQct-Wb4JA39udsrqLqdbTrEGnNYDk6a95b6E-Lgkcx4OR_vfGtP02-7bazhTVaPra7LbMa1HwcLzeUdASGfIU92uKqHSW3sNCU9TXQNnNmyp3JLEe6h0bvhJvTnMQ_hF3iaFxV_MlEtCHee8N5f88Ei1B6r8e4v0gv35n7Bxb-Yn3w2n6oZRWSp5Q0x74oObGggsGbHRHf0Bn7duuspI8bHZHljiAG8VF01IH_I_oOnF-u6ovXM-vCypyoC4Y579_QswQr7P9x_mJ_vPrXn9AAWLJm2EEwWSH3neOY8UZlQ4OrgP9RaTDKEsSfWYAfXw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درود
 ظاهرا دسترسی به یک سری دیتاسنترهای بین المللی برقرار شده.
 @danialtaherifar</div>
