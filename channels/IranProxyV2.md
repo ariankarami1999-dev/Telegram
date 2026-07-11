@@ -288,11 +288,40 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/Dl-SGHPS4Gveo-5dN42puYNOVJ8BnmcIVQEgzlHpw9HABHHps35PK_bcdHyfWIPjQ3BCMATmqA3z7S_4ckgylVZL7MwSc0b0oyd3nt9dkRqszVrpT5iVn-ZwT9e3T1rH9GdrOjMVn43SeumIpRJFvVsdN99yq_CScIDVIRmXWerRhWpnt1swmLLKuYjVfv60AdbUhRYzIoCD-iMLePYFHxj0xwletYmkF-AtqjaV-o1i_oen9OAYZUZsmhNc6omYQFRCCj8fwDS-MDvxeEu6GIZPpQ97noPlKNUsNrqv99nBHdV6H2lpZ2TKtkJ5tY8DmyaX3oBjx3-A9-hvjoj29w.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 پروکسی</h1>
-<p>@IranProxyV2 • 👥 1.43K عضو</p>
+<p>@IranProxyV2 • 👥 1.42K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 12:34:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 14:08:51</div>
 <hr>
+
+<div class="tg-post" id="msg-43">
+<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-text">🔴
+طبق تحقیقات جدید، کسایی که دل خانمارو میشکونن، زودتر کچل میشن
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+@IranProxyV2</div>
+<div class="tg-footer">👁️ 70 · <a href="https://t.me/IranProxyV2/43" target="_blank">📅 12:50 · 20 Tir 1405</a></div>
+</div>
 
 <div class="tg-post" id="msg-42">
 <div class="tg-post-header">📌 پیام #4</div>
@@ -301,7 +330,7 @@
 پروکسی
 پروکسی
 پروکسی</div>
-<div class="tg-footer">👁️ 61 · <a href="https://t.me/IranProxyV2/42" target="_blank">📅 11:33 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 122 · <a href="https://t.me/IranProxyV2/42" target="_blank">📅 11:33 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-41">
@@ -310,7 +339,7 @@
 پروکسی
 پروکسی
 پروکسی</div>
-<div class="tg-footer">👁️ 118 · <a href="https://t.me/IranProxyV2/41" target="_blank">📅 10:45 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 166 · <a href="https://t.me/IranProxyV2/41" target="_blank">📅 10:45 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-38">
