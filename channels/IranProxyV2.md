@@ -288,17 +288,29 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/Dl-SGHPS4Gveo-5dN42puYNOVJ8BnmcIVQEgzlHpw9HABHHps35PK_bcdHyfWIPjQ3BCMATmqA3z7S_4ckgylVZL7MwSc0b0oyd3nt9dkRqszVrpT5iVn-ZwT9e3T1rH9GdrOjMVn43SeumIpRJFvVsdN99yq_CScIDVIRmXWerRhWpnt1swmLLKuYjVfv60AdbUhRYzIoCD-iMLePYFHxj0xwletYmkF-AtqjaV-o1i_oen9OAYZUZsmhNc6omYQFRCCj8fwDS-MDvxeEu6GIZPpQ97noPlKNUsNrqv99nBHdV6H2lpZ2TKtkJ5tY8DmyaX3oBjx3-A9-hvjoj29w.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 پروکسی</h1>
-<p>@IranProxyV2 • 👥 1.46K عضو</p>
+<p>@IranProxyV2 • 👥 1.43K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 10:37:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 12:34:36</div>
 <hr>
 
-<div class="tg-post" id="msg-40">
+<div class="tg-post" id="msg-42">
+<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-text">يك بار برای همیشه غرورم را برای يك نفر کنار گذاشتم او هم نشان داد چرا نباید هرگز این کار را میکردم
+پروکسی
+پروکسی
+پروکسی
+پروکسی</div>
+<div class="tg-footer">👁️ 61 · <a href="https://t.me/IranProxyV2/42" target="_blank">📅 11:33 · 20 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-41">
 <div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">لینک کانال اصلی
-https://t.me/+5XpIAb0BBbo0MGY8</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/IranProxyV2/40" target="_blank">📅 11:11 · 14 Ordibehesht 1405</a></div>
+<div class="tg-text">بنظرم هیچ حسی قشنگ تر از اینکه مطمئن باشی یکی دوستت داره و برات تلاش میکنه...
+پروکسی
+پروکسی
+پروکسی</div>
+<div class="tg-footer">👁️ 118 · <a href="https://t.me/IranProxyV2/41" target="_blank">📅 10:45 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-38">
