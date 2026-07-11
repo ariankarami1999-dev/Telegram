@@ -291,8 +291,33 @@
 <p>@IranProxyV2 • 👥 1.41K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 16:28:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 17:52:09</div>
 <hr>
+
+<div class="tg-post" id="msg-47">
+<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eJQkRBX-bhtShzt4k6UNZcu6jBrH5kJ73RSyds9S3TA3uL8nA8bHaZOfAgVpA3BDqELisSS4XRofTqhTcA9rBq27WdfFFc4rkhlTvIND32UqMyhbA4FxDj4lFczweCDj9l1QbIP-2NU5tuZ8MDApgUysd5QIX1Ee5OA_8Or_udT6KqMtrWYwhkaKocNN0jdmuQ1FMLo4Te5MAEwEBeCUhhlF-_6Wu466C2cLBh0DU8i53ccnppCN-zTbEqOKEfA3iJSJWPFiqQGm9uGBIuMSfBjPHPDwM8ztfFSAHt-7yA2FBSwruFgO3aUnPVD82EAjLsYJ0Fhpz8ER04vHb8S-wA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♾
+اتصال مطمئن، تجربه‌ای روان با Lost vpn
+اگر به‌دنبال یک سرویس باکیفیت برای استفاده روزمره هستی، اینجا جای درستی است.
+📣
+ویژگی‌های سرویس:
+🔗
+اتصال پایدار
+🌎
+سرورهای بروز
+📶
+سازگار با اپراتورها و دستگاه‌های مختلف
+🖱
+مناسب برای وب‌گردی، استریم و استفاده روزمره
+🔴
+تمدید آسان
+💬
+پشتیبانی پاسخگو
+@LOST_VPNBOT
+@LOST_VPNBOT</div>
+<div class="tg-footer">👁️ 30 · <a href="https://t.me/IranProxyV2/47" target="_blank">📅 17:08 · 20 Tir 1405</a></div>
+</div>
 
 <div class="tg-post" id="msg-46">
 <div class="tg-post-header">📌 پیام #8</div>
@@ -316,7 +341,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 32 · <a href="https://t.me/IranProxyV2/46" target="_blank">📅 16:10 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64 · <a href="https://t.me/IranProxyV2/46" target="_blank">📅 16:10 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-45">
@@ -344,7 +369,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 77 · <a href="https://t.me/IranProxyV2/45" target="_blank">📅 15:19 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 98 · <a href="https://t.me/IranProxyV2/45" target="_blank">📅 15:19 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-44">
@@ -363,7 +388,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 136 · <a href="https://t.me/IranProxyV2/44" target="_blank">📅 14:24 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 154 · <a href="https://t.me/IranProxyV2/44" target="_blank">📅 14:24 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-43">
@@ -392,7 +417,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 178 · <a href="https://t.me/IranProxyV2/43" target="_blank">📅 12:50 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 193 · <a href="https://t.me/IranProxyV2/43" target="_blank">📅 12:50 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-42">
@@ -402,7 +427,7 @@
 پروکسی
 پروکسی
 پروکسی</div>
-<div class="tg-footer">👁️ 212 · <a href="https://t.me/IranProxyV2/42" target="_blank">📅 11:33 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 227 · <a href="https://t.me/IranProxyV2/42" target="_blank">📅 11:33 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-41">
@@ -411,7 +436,7 @@
 پروکسی
 پروکسی
 پروکسی</div>
-<div class="tg-footer">👁️ 244 · <a href="https://t.me/IranProxyV2/41" target="_blank">📅 10:45 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 258 · <a href="https://t.me/IranProxyV2/41" target="_blank">📅 10:45 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-38">
