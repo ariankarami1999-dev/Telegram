@@ -292,7 +292,7 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 05:21:07</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 08:26:15</div>
 <hr>
 
 <div class="tg-post" id="msg-99515">
@@ -305,7 +305,7 @@
 - باشگاه الهلال خواهان جذب رافینیا است و به شدت به او علاقه دارند، اما در حال حاضر، رافینیا تمایل به ماندن در بارسلونا دارد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.3K · <a href="https://t.me/Futball180TV/99515" target="_blank">📅 03:12 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/99515" target="_blank">📅 03:12 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99514">
@@ -319,7 +319,7 @@
 - باشگاه الهلال خواهان جذب رافینیا است و به شدت به او علاقه دارند، اما در حال حاضر، رافینیا تمایل به ماندن در بارسلونا دارد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.42K · <a href="https://t.me/Futball180TV/99514" target="_blank">📅 03:11 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/99514" target="_blank">📅 03:11 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99512">
@@ -332,7 +332,7 @@
 پاریس سن ژرمن به شدت به جذب فران تورس علاقه‌منده و اونو برای جایگزینی گونزالو راموس زیر نظر داره.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.74K · <a href="https://t.me/Futball180TV/99512" target="_blank">📅 03:07 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/99512" target="_blank">📅 03:07 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99511">
@@ -343,7 +343,7 @@
 😆
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.16K · <a href="https://t.me/Futball180TV/99511" target="_blank">📅 03:03 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/99511" target="_blank">📅 03:03 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99510">
@@ -364,7 +364,7 @@
 🥂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.79K · <a href="https://t.me/Futball180TV/99510" target="_blank">📅 02:31 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/99510" target="_blank">📅 02:31 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99509">
@@ -375,7 +375,7 @@
 طبق اعلام رسانه های نزدیک به بارسلونا، فران تورس از پاریسن ژرمن پیشنهاد دارد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/Futball180TV/99509" target="_blank">📅 01:55 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/99509" target="_blank">📅 01:55 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99508">
@@ -385,7 +385,7 @@
 طبق اعلام رسانه های نزدیک به بارسلونا، فران تورس از پاریسن ژرمن پیشنهاد دارد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/Futball180TV/99508" target="_blank">📅 01:52 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/99508" target="_blank">📅 01:52 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99507">
@@ -395,7 +395,7 @@
 16 سال پیش تو چنین روزی اسپانیا با شکست دادن هلند قهرمان جام‌جهانی شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/Futball180TV/99507" target="_blank">📅 01:50 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/99507" target="_blank">📅 01:50 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99506">
@@ -407,7 +407,7 @@
 تیبو کورتوآ: «می‌خواهم یک سال کامل استراحت کنم و در هیچ مسابقه‌ای با تیم ملی بلژیک شرکت نکنم، و سپس در مسابقات مقدماتی جام ملت‌های اروپا و خود جام ملت‌های اروپا در سال ۲۰۲۸ شرکت کنم. نمی‌دانم که آیا بلژیک با این موضوع موافقت خواهد کرد یا خیر.»
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/Futball180TV/99506" target="_blank">📅 01:35 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/Futball180TV/99506" target="_blank">📅 01:35 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99505">
@@ -425,7 +425,7 @@
 ‏فرانسه یا برای بار سوم متوالی به مرحله فینال جام جهانی می‌رسد، یا ما آن‌ها را برای بار سوم متوالی شکست خواهیم داد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/99505" target="_blank">📅 01:13 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/Futball180TV/99505" target="_blank">📅 01:13 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99503">
@@ -437,7 +437,7 @@
 اشک های تیبو کورتوآ پس از تعویض در دیدار بلژیک مقابل اسپانیا به دلیل مصدومیت
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/99503" target="_blank">📅 01:11 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/99503" target="_blank">📅 01:11 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99502">
@@ -449,7 +449,7 @@
 استارت رجزخوانی لامین یامال: « فکر می‌کنم اگر فرانسه قرار باشه از تیمی بترسه، آن تیم ما هستیم ، چون این ما بودیم که آن‌ها را حذف کردیم.»
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/99502" target="_blank">📅 01:06 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/Futball180TV/99502" target="_blank">📅 01:06 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99501">
@@ -468,7 +468,7 @@
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/99501" target="_blank">📅 01:00 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/Futball180TV/99501" target="_blank">📅 01:00 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99500">
@@ -485,7 +485,7 @@
 MOTM
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/99500" target="_blank">📅 00:58 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/99500" target="_blank">📅 00:58 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99499">
@@ -501,7 +501,7 @@ MOTM
 48 مسابقه؛ 33 پیروزی؛  15 تساوی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/99499" target="_blank">📅 00:54 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/Futball180TV/99499" target="_blank">📅 00:54 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99498">
@@ -515,7 +515,7 @@ MOTM
 همچنین، در 5 دقیقه پایانی بازی مقابل بلژیک، او یک گل زد و اسپانیا به نیمه‌نهایی رفت
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/99498" target="_blank">📅 00:49 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/Futball180TV/99498" target="_blank">📅 00:49 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99497">
@@ -529,7 +529,7 @@ MOTM
 ‏آمار این روند: ‏27 برد؛ ‏9 تساوی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/99497" target="_blank">📅 00:47 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/Futball180TV/99497" target="_blank">📅 00:47 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99496">
@@ -558,7 +558,7 @@ MOTM
 🔤
 وارد سایت شوید
 💬</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/99496" target="_blank">📅 00:47 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/99496" target="_blank">📅 00:47 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99495">
@@ -620,7 +620,7 @@ MOTM
 A19
 📱
 https://www.lenzbet1.living</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/99495" target="_blank">📅 00:47 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/99495" target="_blank">📅 00:47 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99494">
@@ -632,7 +632,7 @@ https://www.lenzbet1.living</div>
 در 11 بازی اخیر که لامین یامال از ابتدا در ترکیب اصلی تیم ملی اسپانیا حضور داشته، اسپانیا در مسابقات بزرگ (یورو + جام جهانی) پیروز شده است.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/99494" target="_blank">📅 00:46 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/Futball180TV/99494" target="_blank">📅 00:46 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99493">
@@ -645,12 +645,12 @@ https://www.lenzbet1.living</div>
 ؛ دکلان‌رایس، مارک‌گهی و ریس جیمز در آستانه بازی با نروژ به تمرینات انگلیس بازگشتند
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/99493" target="_blank">📅 00:43 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/Futball180TV/99493" target="_blank">📅 00:43 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99492">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RA5ESzgKnIztBhRqr-P2qRtk37LwWeYN89CqHhDUe918HrE-nE2BIMOePnNMruf5mjeFPZK7gX6GjxQ0ZWI2UW7-mIxfLobhw91_MhDfwDcGXsRL6Ozx83zvEyteHhUofJvlYNwO_7yAUFxpbgqfDG2byOYCVQlu49QJfjb4EI4qOTc-DnPZ6D3XFSaKnNZWGY-esue6XPqiuQRKxPDi_K1-bQKzff_Ev9X-7xO11IO0_Dj0kw7Wxce0vz8Mz2NTHuMNJpiXoaSsTZSYWD6876uItGGNzY52Q_wcjDllVIEmw2kH4uXx5K4tvqPvBkVR3KxGR8RWy7fyiPJkfy2cdw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sGC_1qtbeUkckq6-wh35rp1R1xTimI_9hgh9Ua8944CLtGPbJfbQ1-lNGTsN1WzRVbWvond2FSpWo-uC-Xbnh3N_wcpvY4GacWCD41hesbkNK369AlS_MQdqSenHMqQW_zqexC_91iuw_x-AEfGyf6o52EkOGYqipmKcWxa4DYbpXHdQ-UYaXLks9ZDiR8W_Rln0o1bPkCpebQu_SzFoA0xRGCNgRUvDBUA4ulxeEO1bMOLqCqBlvw-NcHoRUO_qmCTkq2GXfFh25-6fuVQdptSqSMOwDVOlN79KI3G97PAJbFP3TnSDhLj8C1Qax_NVu_4x29bq96WqN4lScP5t7Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 🇪🇸
 مرينو در دو بازی آخر در جام جهانی:
@@ -660,43 +660,43 @@ https://www.lenzbet1.living</div>
 همچنین، در 5 دقیقه پایانی بازی مقابل بلژیک، او یک گل زد و اسپانیا به نیمه‌نهایی رفت
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/99492" target="_blank">📅 00:42 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/99492" target="_blank">📅 00:42 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99491">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/S_zTBU8yaR-g0_kRIetrvAKwGRl4O1JLIxHoiPfS9pDiCCCr6K9krbjw7WfXR3SlVynnfViSW0mar3rJeHMugikxeBF5jI92tdjKqv73Jhica_OQ1xO9rCe4tUgzXMQV-_J8_SU5PUPxRtJ4QOK6nKMchpA-cnVv-cMfDruI64xqN4oPHa21i1otIwYM6cQikLozaAhsjvwZAw1IpvlwktAj85A4Ds5oLwkxn0wTCcIuCcDaPr9baOjk01inFqQ-TnifiZ5-zw8f7rG64tMGBd_K2FWJ4GOkhIOdqB2vIzk3JVqVWF1c6jE6OH8oZ45-7TijuuXif1zY34ihk4DzUA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bajbo-_OEVpm1SOc9t8QExwmwNP41gQb1v4-WVqK9wmYIsuLfPk-Nuil_dzMZ-2ps5l0FYqcXgIX1OeANgwoKtExr4M06cGDQV9rnaprVoThS1vA7YKK7e_KJZq8hk9bLZxJ0le9dqR_X4vsOlEJnjzU7bONz33UGikYZNvBpsPyU3uxoIDh854mQCPpeq8HsDB-1eZZwYKZjnX2N1aDsOwrnflMpYUEIQnDLr4Mt7127Db5uwPel0rm21rck7gUmvA7n8i9VBKHcfUUjVjZB28CHvMFC-jQ0aARtOXgcAz1ZzHxMZK2kHZvOMk-cjFSZVZ9IlrvBfhhfq3I05OrzA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇪🇸
 اسپانیا پس از سال 2010 برای دومین بار در تاریخ به نیمه نهایی جام جهانی رسید
 ‌‌
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/99491" target="_blank">📅 00:40 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/99491" target="_blank">📅 00:40 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99489">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/eEKuBEDmLpITb2pWEQ2xVwAwyVKGeP3Gk-UEAMyq5pxTCor_znyBP4Kob61J_IvleUE1prGi0Aqukv5ohNxBeqd6dzbx8mj1OqxZbwuMaM5WVqJ2XXjUE0xfzzPNBt1qA17C3SQu52YK2l8hDwhMFXfPIsqgmXilfKhilo1tlCQifuRHF25YP0g4xgEM8zTP87CRGIN0RKjHGSxdAX2VdpWIXe3jZwqbK9Ivo2tSXC_UrgBU4dw4BovIVggjbwoj5qwS7jZnFlLPlFZjCjFo13Atpq2h29xi9o50bfF6lZAudxB2agoRDWL8q3WhnkiDWE6bPtWFI2McODzNyU-9gw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/PT4oPHZOB-3mQTEQp5flg3xWq9C_uv0iKmzMw1evXkeTZk0gAW-3C0ysQ-MS7gCfvrsWifVKS5wZ4qQMuZEGuhroS-E-bnOwv0GS5kJ2473f4ihQazHk5Lfhu41ab9w01RQrLVz6hWxLb7j6Fi6p6Fzjati2LkOpLiEpTnowLroagbzpMdthcu4n1P2OLV_Loxcq5BB6Q5krjxp5LhQZ0nhtjahSZoB_yinLGmB0jrDHdktIYXZOoS_B-80ik3JBMvXl1E0vuy4d16tWIB0OhEX3nfx5KatszxCkEs3vop6Kq7cXSZvi9K62Eb6EptB7ZbbpS7YkTIP81EMfv0ZyGA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/aS8ShKb3REDeVL1b5gMRxCvbt-cHcwyfmBkPFMjkREoRaUc7I9ILmqpf8ZpWN2G7koHqIRC6QRKu9gTJCNLB4eexKy8x7jv0V_wiDdRGfcHtu7PYNGXViuKNrU23aJcuiPWs2urAHZyLyNZ5cpkQlK0ibt1JOgChlLTphAPZxSPSy3m67WPZgTKMWKUSSPuUvWnNQlBvAVL-xdZXo7EVH5qW7rIx7u2MeCu_BmUqS0l9xG0X78o1WXgm_P_iLS3HubYpcZSieRDu02kKrKUATf6j-SepTDYzCYyH9cOUxx-3KtTJOtnnHxRN4KY2Z77HFVA_kb461M7IixRx__hCgw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/KlJ37RLbzma1207oUkZ4a4hnkm3wu9ETxVJBnW-ICSg2Y4SNcAmYmB-9yg4ryvA-JFLCKLKYLUU0BIwoF8H53qCU0_LR0lgSD1qoeOtx77Do5yTrbt2zzS5OQPHJKWMySIv8Wo5XeN_s6Pfr8MKiR74uIqLGzq7cJ1TbXli9ue-hOkdNXGENOYap6WTWaFtLIqG_heZ12TL5FwPCUZhF9KAz6j21eXmmec0k6dtKvr4Rvs7AadDZSM-U2UB0_K-lSonu8o5dKfDa3gFWDDxrk0dEhkIaQxPliJHanGO5SYdrix7gjII-_35jVM5Pj_7r2qMILfDfxgv4632MgCO4Mg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">داش یامال تو استادیوم
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/99489" target="_blank">📅 00:37 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/99489" target="_blank">📅 00:37 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99487">
 <div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B1PySIOxGD9yMdHPu32e37v68Mpapoo6XaqR8s8Ck5SIUcBNL2mpZtZs9s5tq47d6BUTw4rPbE4alafF84yVOduY4VbcT9z6mcjJZPN3-aQtZClngzkPob1lIVG4ZbyHhtyf4l6dCL2RR7D_ic_W_KCKymGe_xN-4MnrfNpLLoC26wLnv4LE69M8D1oFWvY-2Ft_rXs6pSHT-YobPSTJtDZHzw1Drq68TKO1p6dKe3nrcf9MhRskoYZTZ7U32l4MfOiCjBy5-7rKIXAwbdpquyRb7_KViPSTIl-6qmYbl4KzmDPn-0rEe3aDrHdHP1b3I-A1SiejJBwvCxBQ0nvsIQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bqXbkVSsNODsZDD4ps4UAIA1PEUhYSA_-p_zkzVfDwAEAl4m-a-2Yltlc60WRiO2pu1QKhd38KReuNrQ8PgsEwB33uybRKJ0LTyRPIf6BhnKwT_QmRjnkpNVcPJiMxhN5gnXlVwwbqf44El7U8pIQdvukYKNfj6amqsJ4IJ4kHrUxlxjalnS80ZH3AkqNa1LsYw1BJp-bQkaXVkXvZl9yZ2hNGVwNDwoiQAYDLvGLaZeBZ1sXsxvyKOUSzjStEQMSlsCkbmw0SqbtrNnI-X3W5Vv2TkYk55eeBjdcqopXdrGp_HBLnxwSrcWtiFhlug4bxKDBlPFBiE7A5Tk7nLOKA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇧🇪
 🏆
 🇪🇸
 آمار بازی امشب بلژیک و اسپانیا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/99487" target="_blank">📅 00:33 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/Futball180TV/99487" target="_blank">📅 00:33 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99486">
@@ -707,12 +707,12 @@ https://www.lenzbet1.living</div>
 آپدیت نمودار جام جهانی؛ این سمت که واقعا جذاب شد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/99486" target="_blank">📅 00:33 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/99486" target="_blank">📅 00:33 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99485">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LiU_9nnOt43V0idmBkeHKF18SuGl5I5XPhdy6I945IAskE14n9pFhggfYvJc_-l81bNzBuBWQT_seafUu5ki4d6195uWadnxZuRAsjPI15Ayw_NW9t00kpnoMwG-FjK9twP6guNAQr64xbFpYCQoCZKD5o7xi2aUShT4tEeYXkNpw7fzRw5hB7KXdTSv4DU3cFtW962Fh9K64Udpsrqf2eY6GK55g0etyV7EwPdpwIEqrtkC0EJKcdWx2-ZvIIx1u5lFIEBU73FiddMENS-qtdu5GE_v1jqXa9xT-CS9gaoHNIU2qfGouEw84LWXYJbarNRbCkiaI8gkJQ8IfBFedA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OYbQsajnCohoKGUP--80-DCyTsjRkKev3ljjry0uTiCta2BYcXiAmFpCTqF1QC03xip_UunEbPwAhzUTVzeBMm-_V6FZ3Nx7oOz-Qr7YDN8YODyHOg47_axVyZbSUyWy8JY2soYwdvKZZTVLCNhaV9BDwG_XEJr-cR7Z9crmOOjoWhcOeUtehNu-R8hO3ct5Fr16QCxIYlHdl7V7JhfQmvj6OTS0uQ9zt4EaKR0ref7p7n7PmuyA56756TxVktZv6HHomp-wpinhUMpFdzIy-arEB617uMiJURWbT6ADAEvpWsHYrwyJdNhprQXWTUW47XNz1sDoKuMfUUaWK1G78Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🏆
 پایان‌بازی|داستان اسپانیا در جام‌جهانی همچنان ادامه دارد؛ راوی قصه ستاره آرسنال است! بلژیک در کمال شایستگی حذف شد
@@ -724,12 +724,12 @@ https://www.lenzbet1.living</div>
 🇪🇸
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/99485" target="_blank">📅 00:32 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/Futball180TV/99485" target="_blank">📅 00:32 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99484">
 <div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nVyoqfNZ6-L5FZhszf0YiC2KdFH8tps5DWv3yU1oP9WP4SqVRjhk6U5ret9TC5vHlhkIcSmKp57WE2SorZMiqOB3VH31n0XBSCzg0LgMxhZ-EEwhMJOrPA1bPZCBuFgzSthKXBaODWZdLEYFUeXJJw75a64So_vyXE8Lv3ZApwfpHGS0ivBPLv-HbaYsZUqxRSaq9I2PhKWh8X43t5ZvLDgjGL5akYOB9wmB64JCkA057wNBeuVJ23uL8Ztqewub8GmWz7VoqeXU7f3UTSf_RuYWLW-CTXPuAYmUIjMAFYt4uZl2tMb4ePHE2l-yObZOvQyz8JoG_ywZDc0EEdlteA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Rs7G_XvckzLrOZPomnwH3Wse_fB26wV5i860EWxTkB8pPx2NAdWWjly6ZwoyqYOTR8JtgQaOJbwe0bgb41g7HRNQRxMXEzQfQCpoHRp2Nfk_UXSlhPOZMcLA9flyry3nIQ9oyMgH_ZO2y6QQG2iyIJ_PsczDB5iznsJFNG1CE9-iyZBBenQLiVqm18315YD25q6f9r6o5GouRlY9xFuTz1w6Np3-LQlQujsunyP39Be0J0NN8rqL5LkX015V-r34Czp6lL3strlrWjYI4EuDOizym5AWBm3djEAkJRu-5pEifFVJlqosjHrUL3TxjFVTJZgp26MeNW8M-wacs5i1-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🔥
 🏆
@@ -743,12 +743,12 @@ https://www.lenzbet1.living</div>
 سه‌شنبه ۲۳ تیر ساعت 22:30
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/99484" target="_blank">📅 00:29 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/Futball180TV/99484" target="_blank">📅 00:29 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99483">
 <div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UCLgKddncrHOZbaWfu_R98jcXaIsi6qemro2egKuVw5YSRvZ5zkQvI0o5Y_zilyQ794O7sHvZl9EQ31elMeV0yOE-YefyGQW5l_UtP1fYv_vgNwOSjeBn7O0XuqAGGIoCBmoidsmZGnsAL6drLHOXW5w_LZKfWaaWR6UJ_5W4saGIAVkldTM9ENETFryC0oL7mul96ZSA2tM2ANn50XN1V8QY3jypDA2pHYtZNNy4S1JqZqXxWDbbZV9MoOnZIQXRFWvbpGc2BMaMm4TgRNWW0sXgcr7QrhWvx5BJQUbgd1lMSSmI7A875qTR0VkvGYCIPenlAbp3OgcVNz_lmrVag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y0gbEyUOYEErl7BKUSERFmMN7qvm3w1lLeqm9VWczU_IPjQ1Ygff7sCUj6518gCNHQf31hbdfHEZOJ2Jj0FhoDtSWajKXCnHOnQOlDvAuIKbjwKEdg0kTqEdMW1KNy0bey7DI-WKqrVZUAqhWdUQr37kakSnoqlrZBvwVOesSu2NHohUFKaP_XALCDgseMrbkTRuUSBnuABAvN0k1d9B4BEBngKHHfHPzXXlJ_-DVa7KSK4ywDk54nK17CWlGKw6ZqecHTFt4i4OKTvyKYeHK4qZ0LkLsYzDw-ktJZj4iGXBDGqMyzW1PWZO-TlTsV2GB_WXrHPlZpNJ1BJ2eGsjwA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🏆
 پایان‌بازی|داستان اسپانیا در جام‌جهانی همچنان ادامه دارد؛ راوی قصه ستاره آرسنال است! بلژیک در کمال شایستگی حذف شد
@@ -760,37 +760,37 @@ https://www.lenzbet1.living</div>
 🇪🇸
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/99483" target="_blank">📅 00:29 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/Futball180TV/99483" target="_blank">📅 00:29 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99482">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">پدری ریدددددد</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/99482" target="_blank">📅 00:25 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/Futball180TV/99482" target="_blank">📅 00:25 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99481">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">چه توپییییی در آورد لاپورتتتتتتتت</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/99481" target="_blank">📅 00:24 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/Futball180TV/99481" target="_blank">📅 00:24 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99480">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">وااااای</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/99480" target="_blank">📅 00:24 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/Futball180TV/99480" target="_blank">📅 00:24 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99479">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">هفتتتتت دقیقه فقط تا پایان</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/Futball180TV/99479" target="_blank">📅 00:23 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/Futball180TV/99479" target="_blank">📅 00:23 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99478">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">بلژیک اونجایی که کورتوا مصدوم شد بازیو باخت</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/Futball180TV/99478" target="_blank">📅 00:22 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/Futball180TV/99478" target="_blank">📅 00:22 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99477">
@@ -807,67 +807,67 @@ https://www.lenzbet1.living</div>
 گل‌دوم اسپانیا به بلژیک توسط مرینو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/99477" target="_blank">📅 00:21 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/Futball180TV/99477" target="_blank">📅 00:21 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99476">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">مرینو عشققققققق</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/99476" target="_blank">📅 00:20 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/Futball180TV/99476" target="_blank">📅 00:20 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99475">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">چه شاهکاریه این مرینوووووو</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/99475" target="_blank">📅 00:20 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/99475" target="_blank">📅 00:20 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99474">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">گلگلگگلگلگلگلگلگلگلگلگلگللللللللللللللللل</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/99474" target="_blank">📅 00:20 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/Futball180TV/99474" target="_blank">📅 00:20 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99473">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">گلگلگگلگلگلگلگلگلگلگلگللللل</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/99473" target="_blank">📅 00:20 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/Futball180TV/99473" target="_blank">📅 00:20 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99472">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">گل دومممممممممم</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/99472" target="_blank">📅 00:19 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/Futball180TV/99472" target="_blank">📅 00:19 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99471">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">اسپانیااااااااا</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/99471" target="_blank">📅 00:19 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/Futball180TV/99471" target="_blank">📅 00:19 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99470">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">مرینوووووووو</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/99470" target="_blank">📅 00:19 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/Futball180TV/99470" target="_blank">📅 00:19 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99469">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">گللللللللللللل دوممم</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/Futball180TV/99469" target="_blank">📅 00:19 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/Futball180TV/99469" target="_blank">📅 00:19 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99468">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">گلگلگلگلگلگگلگل</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/99468" target="_blank">📅 00:19 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/99468" target="_blank">📅 00:19 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99467">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">مرینو عشق پرتغالیا اومد</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/Futball180TV/99467" target="_blank">📅 00:18 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/Futball180TV/99467" target="_blank">📅 00:18 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99466">
@@ -886,7 +886,7 @@ https://www.lenzbet1.living</div>
 اشک های تیبو کورتوآ پس از تعویض در دیدار بلژیک مقابل اسپانیا به دلیل مصدومیت
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/Futball180TV/99466" target="_blank">📅 00:06 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/Futball180TV/99466" target="_blank">📅 00:06 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99465">
@@ -898,7 +898,7 @@ https://www.lenzbet1.living</div>
 🚨
 🚨
 😐</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/99465" target="_blank">📅 00:03 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/99465" target="_blank">📅 00:03 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99464">
@@ -909,25 +909,25 @@ https://www.lenzbet1.living</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/99464" target="_blank">📅 00:03 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/Futball180TV/99464" target="_blank">📅 00:03 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99463">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">دو تیم خوب بازی میکنن</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/99463" target="_blank">📅 23:54 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/Futball180TV/99463" target="_blank">📅 23:54 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99462">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">بلژیک چه ضدحمله هایی میزنه</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/Futball180TV/99462" target="_blank">📅 23:54 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/Futball180TV/99462" target="_blank">📅 23:54 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99461">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">آغاز نیمه‌دوم بازی اسپانیا و بلژیک</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/99461" target="_blank">📅 23:36 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/Futball180TV/99461" target="_blank">📅 23:36 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99460">
@@ -938,7 +938,7 @@ https://www.lenzbet1.living</div>
 فابریزیو رومانو: انتقال ادرسون ستاره برزیلی آتالانتا به منچستریونایتد منتفی شد. این بازیکن به این تیم نخواهد پیوست.
 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 دلیل لغو قرارداد، بروز نگرانی‌های پزشکی پس از انجام بخش اول معاینات پزشکی بود. (این نگرانی‌ها به ویژه مربوط به آسیب قبلی زانو، به…</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/Futball180TV/99460" target="_blank">📅 23:28 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/Futball180TV/99460" target="_blank">📅 23:28 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99459">
@@ -956,7 +956,7 @@ https://www.lenzbet1.living</div>
 ‏1 گل در وقت‌های اضافه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/Futball180TV/99459" target="_blank">📅 23:27 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/Futball180TV/99459" target="_blank">📅 23:27 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99458">
@@ -970,7 +970,7 @@ https://www.lenzbet1.living</div>
 🇧🇪
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/Futball180TV/99458" target="_blank">📅 23:24 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/Futball180TV/99458" target="_blank">📅 23:24 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99456">
@@ -979,7 +979,7 @@ https://www.lenzbet1.living</div>
 پایان نیمه اول؛ اسپانیا 1 بلژیک 1
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/99456" target="_blank">📅 23:21 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/99456" target="_blank">📅 23:21 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99455">
@@ -989,76 +989,76 @@ https://www.lenzbet1.living</div>
 گل‌تساوی بلژیک توسط دکتلاره
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/99455" target="_blank">📅 23:12 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/Futball180TV/99455" target="_blank">📅 23:12 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99454">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">گل تاییده و موردی نداره</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/99454" target="_blank">📅 23:12 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/Futball180TV/99454" target="_blank">📅 23:12 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99453">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">چه ضربه سر خوشگلیییی</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/99453" target="_blank">📅 23:11 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/99453" target="_blank">📅 23:11 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99452">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">مساووییییی بلژییییک</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/99452" target="_blank">📅 23:11 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/Futball180TV/99452" target="_blank">📅 23:11 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99451">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">گللللللللللللل</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/Futball180TV/99451" target="_blank">📅 23:11 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/Futball180TV/99451" target="_blank">📅 23:11 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99450">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N_-aX9lTnltL6x27hwuSgaDTPzk1qSeXA17P009b50KvwfepmdFM1xQ2M-TJuMb-5kapxpUxVC_Q9WXBo-UTL0HU3tqnUvlEwm_LwJ3tZfdwrTVCSd5LH4m-cVdyfpXR_KM7-k16cQfyqzRPDKwvt8tUZDvYYA84m0EyAXN86d1AIRQtJRBD10D84BFnLlBok00wHiU-cJCkWv2CenDaYqnkImoEtNoZKaxJq4BIx7kARUxZdtUzbZDoDO6S2bdNR-memNG7WqH77hA9DajfQJ5Q5nhW3FcSPq5dT559uLGvgOuYwU0QdeW5mSk8__PCEb5hkezm9kS3GRH5wnx3fw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sn4iASnZoaQ7cYRdsft4NbXFiKtqqI3jlWpKvjfMEmy1KQoCV1VUVsXtUoSGa6EYGmCXEizgLi1ATMKO4ZCLei2bAVI769aeh7Gkbd21pM6TgxIOhgV5UNFuo2ndpmZrE7ZOWXjXQCAJm9HqghaZsShhb3JYf3N3BP-FNicqfGCPWAfOVAkL-WtyNp-edenAtSz19AEch8uDKP_KZs2xl-DoN5t-aapzpM05x6v9BwruCewA64T_-sslV4VNv6BDY75sCQDJSjUUCCBCy037EIlLY-ZYmaGFG_5SzhyncZcwMegxplBJ1QOq9icJM4f-ZwhYVYYr3y9zG1byUhdHTg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حضور برد پیت تو ورزشگاه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/99450" target="_blank">📅 23:08 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/Futball180TV/99450" target="_blank">📅 23:08 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99449">
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">خوشگل سیو‌ کرد کورتوا</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/99449" target="_blank">📅 23:05 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/99449" target="_blank">📅 23:05 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99448">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">چه خووووب زد</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/99448" target="_blank">📅 23:05 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/99448" target="_blank">📅 23:05 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99447">
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">واااااای</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/99447" target="_blank">📅 23:05 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/Futball180TV/99447" target="_blank">📅 23:05 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99446">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">چه بازی ای میکنه یامااااال</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/99446" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/99446" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99445">
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">یامال دفاع چپ بلژیکو کرده قشنگ</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/99445" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/99445" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99444">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">خطاااااای خوش جا برای اسپانیا</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/99444" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/Futball180TV/99444" target="_blank">📅 23:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99443">
@@ -1068,49 +1068,49 @@ https://www.lenzbet1.living</div>
 گل‌اول اسپانیا به بلژیک توسط فابیان رویز
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/99443" target="_blank">📅 23:01 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/Futball180TV/99443" target="_blank">📅 23:01 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99442">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">اسپانیاااااا فرانسسسسه داریم نیمه نهاییییییییییی</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/99442" target="_blank">📅 23:01 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/99442" target="_blank">📅 23:01 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99441">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">ببببببه بببببببههههههه</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/99441" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/Futball180TV/99441" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99440">
 <div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">بالاخرهههههه شددددددد</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/99440" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/99440" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99439">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">فابیاننننننن رویزززژزززز</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/99439" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/99439" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99438">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">اسپانیاااااا</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/99438" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/99438" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99437">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">گللللللللللللل</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/99437" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/99437" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99436">
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">گلگگلگلگلگلگلگلگل</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/99436" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/Futball180TV/99436" target="_blank">📅 23:00 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99435">
@@ -1124,7 +1124,7 @@ https://www.lenzbet1.living</div>
 از آرشیو وار: پنالتی اسپانیا مقابل بلژیک گرفته نشدددددد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/99435" target="_blank">📅 22:56 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/Futball180TV/99435" target="_blank">📅 22:56 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99434">
@@ -1134,7 +1134,7 @@ https://www.lenzbet1.living</div>
 پست جدید رونالدو: یه پیروزی میلیون ها میارزه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/99434" target="_blank">📅 22:44 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/99434" target="_blank">📅 22:44 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99433">
@@ -1143,7 +1143,7 @@ https://www.lenzbet1.living</div>
 <div class="tg-text">دوست دختر یامال تو ورزشگاهه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/99433" target="_blank">📅 22:43 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/99433" target="_blank">📅 22:43 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99432">
@@ -1156,7 +1156,7 @@ https://www.lenzbet1.living</div>
 بررسی آمار و عملکرد تیم‌ها
 🎯
 نکات و دیدگاه‌های تخصصی همراه ما باش و مسابقات را حرفه‌ای‌تر دنبال کن.  @bet_maxxx @bet_maxxx @bet_maxxx</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/99432" target="_blank">📅 22:43 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/99432" target="_blank">📅 22:43 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99431">
@@ -1175,14 +1175,14 @@ https://www.lenzbet1.living</div>
 @bet_maxxx
 @bet_maxxx
 @bet_maxxx</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/Futball180TV/99431" target="_blank">📅 22:43 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/Futball180TV/99431" target="_blank">📅 22:43 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99430">
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">بریییم سراغ بازی جذاب اسپانیا و بلژیک
 🔥</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/99430" target="_blank">📅 22:30 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/99430" target="_blank">📅 22:30 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99429">
@@ -1191,7 +1191,7 @@ https://www.lenzbet1.living</div>
 ترکیب بلژیک مقابل اسپانیا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/Futball180TV/99429" target="_blank">📅 22:18 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/Futball180TV/99429" target="_blank">📅 22:18 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99428">
@@ -1206,7 +1206,7 @@ https://www.lenzbet1.living</div>
 تیم منچستریونایتد از نتایج معاینات راضی نبود و تصمیم گرفت این قرارداد را تکمیل نکند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/Futball180TV/99428" target="_blank">📅 22:12 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/Futball180TV/99428" target="_blank">📅 22:12 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99427">
@@ -1217,7 +1217,7 @@ https://www.lenzbet1.living</div>
 #اختصاصی_فوتبال‌180 #فوری
 🔵
 علی‌تاجرنیا مدیرعامل استقلال در آخرین صحبت ساعاتی‌پیش خود با سهراب بختیاری‌زاده اعلام کرده که پنجره نقل‌وانتقالات آبی‌پوشان تا ده روز آینده باز می‌شود! هرچند به صحبت‌های تاجرنیا نمی‌شود استناد کرد اما باید تا اواخر تیر برای اتفاقات…</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/Futball180TV/99427" target="_blank">📅 22:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/Futball180TV/99427" target="_blank">📅 22:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99426">
@@ -1233,7 +1233,7 @@ https://www.lenzbet1.living</div>
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/Futball180TV/99426" target="_blank">📅 21:55 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/Futball180TV/99426" target="_blank">📅 21:55 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99425">
@@ -1241,7 +1241,7 @@ https://www.lenzbet1.living</div>
 <div class="tg-text">فکر کنم کیش انقلاب شده خبر نداریم
 😐
 @sammfoott | پروکسی</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/Futball180TV/99425" target="_blank">📅 21:51 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/Futball180TV/99425" target="_blank">📅 21:51 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99424">
@@ -1252,7 +1252,7 @@ https://www.lenzbet1.living</div>
 هدف مورد نظر بارسلونا همچنان خولیان آلوارز است. قرارداد آدیمی، تاثیری بر تمایل باشگاه برای جذب یک مهاجم جدید نخواهد داشت، چه خولیان جذب شود و چه نشود.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/Futball180TV/99424" target="_blank">📅 21:48 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/Futball180TV/99424" target="_blank">📅 21:48 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99423">
@@ -1263,7 +1263,7 @@ https://www.lenzbet1.living</div>
 ترکیب اسپانیا مقابل بلژیک
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/Futball180TV/99423" target="_blank">📅 21:12 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/Futball180TV/99423" target="_blank">📅 21:12 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99422">
@@ -1274,7 +1274,7 @@ https://www.lenzbet1.living</div>
 ترکیب اسپانیا مقابل بلژیک
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/Futball180TV/99422" target="_blank">📅 20:47 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/Futball180TV/99422" target="_blank">📅 20:47 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99421">
@@ -1291,7 +1291,7 @@ https://www.lenzbet1.living</div>
 سرقت‌ گوشی سینا سعیدی‌فر گلر سابق استقلال
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/Futball180TV/99421" target="_blank">📅 20:40 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/Futball180TV/99421" target="_blank">📅 20:40 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99420">
@@ -1309,7 +1309,7 @@ https://www.lenzbet1.living</div>
 Here We Gooo
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/Futball180TV/99420" target="_blank">📅 20:33 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/Futball180TV/99420" target="_blank">📅 20:33 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99419">
@@ -1322,7 +1322,7 @@ Here We Gooo
 استوری رامین‌رضاییان که تمریناتش رو بجای حضور در کمپ استقلال در کشور اسپانیا پیگیری میکنه و اعلام کرده که بزودی اخبار خوب در راهه!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/Futball180TV/99419" target="_blank">📅 20:27 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/Futball180TV/99419" target="_blank">📅 20:27 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99418">
@@ -1332,7 +1332,7 @@ Here We Gooo
 مورات یاکین سرمربی سوئیس غیبت یوهان مانزامبی در بازی با آرژانتین را تایید کرد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/Futball180TV/99418" target="_blank">📅 20:25 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/Futball180TV/99418" target="_blank">📅 20:25 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99417">
@@ -1342,7 +1342,7 @@ Here We Gooo
 #اختصاصی_فوتبال‌180 #فوری
 🔵
 باشگاه استقلال با چندین ستاره‌جوان لیگ‌برتری به توافق نهایی رسیده اما تا باز شدن پنجره نقل‌وانتقالات آبی‌پوشان، هیچ امضای قرارداد رسمی صورت نخواهد گرفت. هرچند شانس بازشدن پنجره استقلال کم است اما پیگیری‌های وکلای خارجی این باشگاه…</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/Futball180TV/99417" target="_blank">📅 20:22 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/Futball180TV/99417" target="_blank">📅 20:22 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99416">
@@ -1354,7 +1354,7 @@ Here We Gooo
 تیزر فوق‌العاده از تقابل امشب اسپانیا و بلژیک در ¼نهایی جام‌جهانی فوتبال
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/Futball180TV/99416" target="_blank">📅 20:14 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/Futball180TV/99416" target="_blank">📅 20:14 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99415">
@@ -1370,7 +1370,7 @@ Here We Gooo
 هدیه‌یک هوادار برزیلی برای کیلیان امباپه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/Futball180TV/99415" target="_blank">📅 20:10 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/Futball180TV/99415" target="_blank">📅 20:10 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99414">
@@ -1387,7 +1387,7 @@ Here We Gooo
 استقبال پشم‌ریزون مصری‌ها از کاروان تیم‌ملی فوتبال کشورشون بعد بازگشت به این کشور
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/99414" target="_blank">📅 20:06 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/Futball180TV/99414" target="_blank">📅 20:06 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99413">
@@ -1420,7 +1420,7 @@ Here We Gooo
 Telegram Channel
 👇
 https://t.me/+dukgrB6-zGsyNGM8</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/Futball180TV/99413" target="_blank">📅 20:06 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/99413" target="_blank">📅 20:06 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99412">
@@ -1469,7 +1469,7 @@ https://t.me/+dukgrB6-zGsyNGM8
 ✔️
 آموزش کامل و جامع شرطبندی
 👉</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/Futball180TV/99412" target="_blank">📅 20:06 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/Futball180TV/99412" target="_blank">📅 20:06 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-99411">
@@ -1484,7 +1484,7 @@ https://t.me/+dukgrB6-zGsyNGM8
 🤩
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/99411" target="_blank">📅 20:00 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/99411" target="_blank">📅 20:00 · 19 Tir 1405</a></div>
 </div>
 
 <hr>
