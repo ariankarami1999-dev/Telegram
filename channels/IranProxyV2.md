@@ -288,11 +288,38 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/Dl-SGHPS4Gveo-5dN42puYNOVJ8BnmcIVQEgzlHpw9HABHHps35PK_bcdHyfWIPjQ3BCMATmqA3z7S_4ckgylVZL7MwSc0b0oyd3nt9dkRqszVrpT5iVn-ZwT9e3T1rH9GdrOjMVn43SeumIpRJFvVsdN99yq_CScIDVIRmXWerRhWpnt1swmLLKuYjVfv60AdbUhRYzIoCD-iMLePYFHxj0xwletYmkF-AtqjaV-o1i_oen9OAYZUZsmhNc6omYQFRCCj8fwDS-MDvxeEu6GIZPpQ97noPlKNUsNrqv99nBHdV6H2lpZ2TKtkJ5tY8DmyaX3oBjx3-A9-hvjoj29w.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 پروکسی</h1>
-<p>@IranProxyV2 • 👥 1.41K عضو</p>
+<p>@IranProxyV2 • 👥 1.4K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 17:52:09</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-20 18:58:13</div>
 <hr>
+
+<div class="tg-post" id="msg-48">
+<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HhVWxa3x2xL2d5B2vMqGWn3KsF0bFhoVNpOpF-SRETlvY1bw_s9R49Ijihn6PmIoFq-VVSYJyIbV0Yc6Eq_zLLR46CMTqhuUTF9lMG1pI9N15TA18R_HC0WKBqr3FdiQdstFhcdsg1iAabN_Q2pvuCXDhX6jv9jD8F_LC86e2r1F2Wo2k6LwQKstA7RjzxZ8NRGmkX24UQiGpuElNq4eyFjwKqDMHLn8BkytK9JVm--t4FsRQdaQ60txGD57LALI2pVYFZA1stnQ59AUSBdws6Y7KvzKA9C_VG39rJUDinMn180evfDT36--Jk5mxy242xgqYoVVwFgVvikDYIDrCg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">دلم واسه حس گناه بعد از با دست هُل دادن تو
+تنگ شده :))
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+پروکسی
+|
+پروکسی
+|
+پروکسی
+@IranProxyV2</div>
+<div class="tg-footer">👁️ 31 · <a href="https://t.me/IranProxyV2/48" target="_blank">📅 18:27 · 20 Tir 1405</a></div>
+</div>
 
 <div class="tg-post" id="msg-47">
 <div class="tg-post-header">📌 پیام #9</div>
@@ -316,7 +343,7 @@
 پشتیبانی پاسخگو
 @LOST_VPNBOT
 @LOST_VPNBOT</div>
-<div class="tg-footer">👁️ 30 · <a href="https://t.me/IranProxyV2/47" target="_blank">📅 17:08 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54 · <a href="https://t.me/IranProxyV2/47" target="_blank">📅 17:08 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-46">
@@ -341,7 +368,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 64 · <a href="https://t.me/IranProxyV2/46" target="_blank">📅 16:10 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85 · <a href="https://t.me/IranProxyV2/46" target="_blank">📅 16:10 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-45">
@@ -369,7 +396,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 98 · <a href="https://t.me/IranProxyV2/45" target="_blank">📅 15:19 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 114 · <a href="https://t.me/IranProxyV2/45" target="_blank">📅 15:19 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-44">
@@ -388,7 +415,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 154 · <a href="https://t.me/IranProxyV2/44" target="_blank">📅 14:24 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 167 · <a href="https://t.me/IranProxyV2/44" target="_blank">📅 14:24 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-43">
@@ -417,7 +444,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 193 · <a href="https://t.me/IranProxyV2/43" target="_blank">📅 12:50 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 205 · <a href="https://t.me/IranProxyV2/43" target="_blank">📅 12:50 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-42">
@@ -427,7 +454,7 @@
 پروکسی
 پروکسی
 پروکسی</div>
-<div class="tg-footer">👁️ 227 · <a href="https://t.me/IranProxyV2/42" target="_blank">📅 11:33 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 238 · <a href="https://t.me/IranProxyV2/42" target="_blank">📅 11:33 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-41">
@@ -436,7 +463,7 @@
 پروکسی
 پروکسی
 پروکسی</div>
-<div class="tg-footer">👁️ 258 · <a href="https://t.me/IranProxyV2/41" target="_blank">📅 10:45 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 269 · <a href="https://t.me/IranProxyV2/41" target="_blank">📅 10:45 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-38">
