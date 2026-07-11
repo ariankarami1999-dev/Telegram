@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-21 01:10:23</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-21 02:08:25</div>
 <hr>
 
 <div class="tg-post" id="msg-2759">
@@ -316,7 +316,7 @@ check-host.net
 🤯
 تغییر آیپی و تنظیم PTR از
 کنترل پنل</div>
-<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/iaghapour/2759" target="_blank">📅 21:59 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/iaghapour/2759" target="_blank">📅 21:59 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2758">
@@ -343,7 +343,7 @@ check-host.net
 اگه ترافیک سرورتون رو از پشت کلودفلر عبور می‌دید، احتمال خیلی زیاد اون آی‌پی تمیزی که ست کردید روی ایرانسل محدود و کند شده، ولی روی همراه اول هنوز جوابه. تو این حالت معمولاً با اسکن کردن و جایگزین کردن یه آی‌پی تمیز جدید مخصوص همون اپراتور، مشکل حل می‌شه.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/iaghapour/2758" target="_blank">📅 21:33 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.9K · <a href="https://t.me/iaghapour/2758" target="_blank">📅 21:33 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2757">
@@ -352,7 +352,7 @@ check-host.net
 😁
 دوباره این داستان قطعی برقا شروع شد. رسماً دهن سیستم و وسایل برقی خونه سرویس شد رفت!
 🥲</div>
-<div class="tg-footer">👁️ 6.8K · <a href="https://t.me/iaghapour/2757" target="_blank">📅 21:01 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.04K · <a href="https://t.me/iaghapour/2757" target="_blank">📅 21:01 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2756">
@@ -383,7 +383,7 @@ check-host.net
 به جای قطع دسترسی مردم، باید امنیت سایبری شبکه‌ها را تقویت کرد و در سیاست‌های فعلی مدیریت اینترنت تجدیدنظر اساسی انجام داد.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.59K · <a href="https://t.me/iaghapour/2756" target="_blank">📅 15:54 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.75K · <a href="https://t.me/iaghapour/2756" target="_blank">📅 15:54 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2755">
@@ -410,7 +410,7 @@ dav1d
 behrad javed
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/iaghapour/2754" target="_blank">📅 01:03 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2754" target="_blank">📅 01:03 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2752">
@@ -463,7 +463,7 @@ Nova.app
 نکته: Nova Client در واقع یک فورک بهینه‌شده از Karing هست که کاملاً با طراحی Nova Proxy هماهنگ شده و رادار قدرتمندش هم داخلش ادغام شده.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/iaghapour/2752" target="_blank">📅 21:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/iaghapour/2752" target="_blank">📅 21:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2751">
@@ -595,7 +595,7 @@ docs.songbird.website
 این ابزار سه گزارش جامع ارائه می‌دهد؛ گزارش عملکرد برای نمایش دقیق کلیک‌ها و میزان بازدید، گزارش اینسایت برای شناسایی پست‌های موفق و تحلیل روند ترافیک، و بخش دستاوردها برای ثبت رکوردهای جدید و پیگیری رشد کانال. برای راه‌اندازی این سیستم، کافی است در سرچ کنسول یک ویژگی جدید (Add property) ایجاد کرده و پس از انتخاب پلتفرم هدف، مراحل تأیید هویت را طی کنید. این آپدیت طی هفته‌های آینده فعال می‌شود و یک امکان فوق‌العاده برای تحلیل دقیق‌تر بازخورد ویدیوهای آموزشی و مدیریت سئوی محتوای شما خواهد بود.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/iaghapour/2742" target="_blank">📅 19:40 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/iaghapour/2742" target="_blank">📅 19:40 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2740">
@@ -628,7 +628,7 @@ docs.songbird.website
 هر شب
 کامنت‌ها رو بررسی و تایید می‌کنم. البته در تلاشیم تا راهی پیدا کنیم که این محدودیت به‌زودی کمتر بشه. از درک و همراهی همیشگی شما ممنونم.
 💚</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/iaghapour/2739" target="_blank">📅 19:42 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/iaghapour/2739" target="_blank">📅 19:42 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2738">
@@ -681,7 +681,7 @@ NuGet
 لینک ریپازیتوری پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/iaghapour/2736" target="_blank">📅 21:44 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/iaghapour/2736" target="_blank">📅 21:44 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2735">
@@ -798,7 +798,7 @@ WARP کلودفلر
 Hedioum Tunnel
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2727">
