@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-21 23:32:14</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-22 00:41:58</div>
 <hr>
 
 <div class="tg-post" id="msg-828">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">یه کلاس زبان عمومی باید برای کلمه "People" قرار بدیم. اینجوری فایده نداره. خوب نیست دیگه انقدر آدم بی سواد باشه در عصر هوش مصنوعی که مترجم در لحظه و رایگان در دسترس هست.</div>
-<div class="tg-footer">👁️ 1.45K · <a href="https://t.me/mohsentavoosiseo/828" target="_blank">📅 12:49 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.46K · <a href="https://t.me/mohsentavoosiseo/828" target="_blank">📅 12:49 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-827">
@@ -325,7 +325,7 @@ https://t.me/mohsentavoosiseo/826
 <div class="tg-post" id="msg-825">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/mohsentavoosiseo/825" target="_blank">📅 22:52 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/mohsentavoosiseo/825" target="_blank">📅 22:52 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-824">
@@ -355,13 +355,13 @@ https://t.me/mohsentavoosiseo/826
 لینک پستش
 رو میذارم. ولی حرفم خود تصویر نیست.
 بعد از نظر سنجی پایین، چیز دیگه ای میخوام بگم.</div>
-<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/mohsentavoosiseo/822" target="_blank">📅 18:28 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.59K · <a href="https://t.me/mohsentavoosiseo/822" target="_blank">📅 18:28 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-819">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">اگر از داخل ایران وصل میشید، کشور رو یک کشور در نظر بگیرید و هربار یه کشور نشه. جوری نشه که انگار طی الارض دارید صبح آلمانید یک ساعت بعد آمریکا یک ساعت بعد ترکیه. (بیاید فرض کنیم پیاده از مرز سوئیس نمیرید آلمان و بین مرزهای شنگن در حالی که کلاد رو باز می کنید).</div>
-<div class="tg-footer">👁️ 1.78K · <a href="https://t.me/mohsentavoosiseo/819" target="_blank">📅 18:43 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.79K · <a href="https://t.me/mohsentavoosiseo/819" target="_blank">📅 18:43 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-818">
@@ -521,7 +521,7 @@ https://t.me/mohsentavoosiseo/267
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">سوال زیر رو 99 درصد آدم ها متوجه نمیشن. ولی تو جواب، ساده توضیح دادم سوال، چی هست.
 مخاطبشم اکثر آدم ها نیستند. اما نکته های توی جواب، از نظر باز شدن ذهن، به درد همه میخوره.</div>
-<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/mohsentavoosiseo/799" target="_blank">📅 19:44 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/mohsentavoosiseo/799" target="_blank">📅 19:44 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-798">
@@ -569,7 +569,7 @@ vibe coding - وایب کدینگ
 کی دیدید التماس کنه بیا از پشتیبانی استفاده کن! 60 هزار تا سوال بپرس! هرروز! هر ساعت! ما طبق زمان بندی خودمون جواب میدیم. ولی شما که میتونید بپرسید!
 آگر تو دوره باشه و مشخصه که ندیدید، ارجاع میدیم به ویدیو دوره، بهر حال یه کمکی می کنیم در حد تعهدی که مکتوب دادیم(نوشته شده موقع خرید). ولی از سمت شما واقعا نباید مراعات و شرم وجود داشته باشه!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.64K · <a href="https://t.me/mohsentavoosiseo/795" target="_blank">📅 12:55 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.65K · <a href="https://t.me/mohsentavoosiseo/795" target="_blank">📅 12:55 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-794">
@@ -584,7 +584,7 @@ vibe coding - وایب کدینگ
 <div class="tg-post" id="msg-793">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">سوال از پشتیبان دوره:(سوالات خیلی سطح حرفه ای هم داریم. ولی هدفم پاسخ دادن نیست الان).  مابقی دستورهایی که میخوام در فایل روبوت بزارم مثل قبل هست؟ مثلا disallow کردن سرچ ها صفحه چک اوت و ...   فقط ادرس لاگین رو دیگه قرار ندم  درسته؟</div>
-<div class="tg-footer">👁️ 2.63K · <a href="https://t.me/mohsentavoosiseo/793" target="_blank">📅 12:52 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.64K · <a href="https://t.me/mohsentavoosiseo/793" target="_blank">📅 12:52 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-792">
@@ -593,7 +593,7 @@ vibe coding - وایب کدینگ
 مابقی دستورهایی که میخوام در فایل روبوت بزارم مثل قبل هست؟ مثلا disallow کردن سرچ ها صفحه چک اوت و ...
 فقط ادرس لاگین رو دیگه قرار ندم
 درسته؟</div>
-<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/mohsentavoosiseo/792" target="_blank">📅 12:50 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/mohsentavoosiseo/792" target="_blank">📅 12:50 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-791">
@@ -601,7 +601,7 @@ vibe coding - وایب کدینگ
 <div class="tg-text">خرید قسطی هرچیزی، intent کاملا متفاوتی از خرید اون چیز داره(بدون کلمه قسطی). اگر سرچ والیوم داره(جستجو میشه قسطیش) صفحه اش باید جدا باشه برای شانس بهتر رتبه گرفتن.
 اگر صفحه یکی باشه و تو عنوان بنویسید نقد و اقساط، حوزه رقابتیش بزرگتر میشه. ولی این هم میشه. ولی روی کیورد خرید قسطی اون چیز، سخت تر رتبه می گیره.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/mohsentavoosiseo/791" target="_blank">📅 00:50 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/mohsentavoosiseo/791" target="_blank">📅 00:50 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-790">
@@ -667,7 +667,7 @@ pinned «
 <div class="tg-text">هرچیزی که دوست دارید یاد بگیرید یا از من یاد بگیرید، حتی خارج از سئو، توی دایرکت کانال بفرستید.
 میخونم همه رو قطعا. (صرفا دریافت. بدون پاسخ و تعامل خصوصی).
 قصدم از باز کردن دایرکت، صرفا دریافت نظرات شما درباره اینکه علاقه مند به یادگیری چه چیزی حتی خارج از سئو هستید و شنیدن هر صحبتی.</div>
-<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/mohsentavoosiseo/778" target="_blank">📅 11:15 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.98K · <a href="https://t.me/mohsentavoosiseo/778" target="_blank">📅 11:15 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-776">
