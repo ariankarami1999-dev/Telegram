@@ -2,28 +2,28 @@
 
 | کانال | آخرین بروزرسانی |
 |-------|----------------|
-| @Futball180TV | ❌ هنوز گرفته نشده |
-| @IranProxyV2 | ❌ هنوز گرفته نشده |
-| @MatinSenPaii | ❌ هنوز گرفته نشده |
-| @SBoxxx | ❌ هنوز گرفته نشده |
-| @VahidOnline | ❌ هنوز گرفته نشده |
-| @akhbarefori | ❌ هنوز گرفته نشده |
-| @alonews | ❌ هنوز گرفته نشده |
-| @archivetell | ❌ هنوز گرفته نشده |
-| @danialtaherifar | ❌ هنوز گرفته نشده |
-| @farahmand_alipour | ❌ هنوز گرفته نشده |
-| @farsna | ❌ هنوز گرفته نشده |
-| @funhiphop | ❌ هنوز گرفته نشده |
-| @iaghapour | ❌ هنوز گرفته نشده |
-| @ircfspace | ❌ هنوز گرفته نشده |
-| @mohsentavoosiseo | ❌ هنوز گرفته نشده |
-| @naya_foriraq | ❌ هنوز گرفته نشده |
-| @news_hut | ❌ هنوز گرفته نشده |
-| @persiana_Soccer | ❌ هنوز گرفته نشده |
-| @sorkhtimes | ❌ هنوز گرفته نشده |
-| @tahlilgar | ❌ هنوز گرفته نشده |
-| @whitedns | ❌ هنوز گرفته نشده |
-| @withyashar | ❌ هنوز گرفته نشده |
+| [@Futball180TV](./Futball180TV.md) | 1405-04-23 16:14:42 |
+| [@IranProxyV2](./IranProxyV2.md) | 1405-04-23 16:14:42 |
+| [@MatinSenPaii](./MatinSenPaii.md) | 1405-04-23 16:14:42 |
+| [@SBoxxx](./SBoxxx.md) | 1405-04-23 16:14:42 |
+| [@VahidOnline](./VahidOnline.md) | 1405-04-23 16:14:42 |
+| [@akhbarefori](./akhbarefori.md) | 1405-04-23 16:14:42 |
+| [@alonews](./alonews.md) | 1405-04-23 16:14:42 |
+| [@archivetell](./archivetell.md) | 1405-04-23 16:14:42 |
+| [@danialtaherifar](./danialtaherifar.md) | 1405-04-23 16:14:42 |
+| [@farahmand_alipour](./farahmand_alipour.md) | 1405-04-23 16:14:42 |
+| [@farsna](./farsna.md) | 1405-04-23 16:14:42 |
+| [@funhiphop](./funhiphop.md) | 1405-04-23 16:14:42 |
+| [@iaghapour](./iaghapour.md) | 1405-04-23 16:14:42 |
+| [@ircfspace](./ircfspace.md) | 1405-04-23 16:14:42 |
+| [@mohsentavoosiseo](./mohsentavoosiseo.md) | 1405-04-23 16:14:42 |
+| [@naya_foriraq](./naya_foriraq.md) | 1405-04-23 16:14:42 |
+| [@news_hut](./news_hut.md) | 1405-04-23 16:14:42 |
+| [@persiana_Soccer](./persiana_Soccer.md) | 1405-04-23 16:14:42 |
+| [@sorkhtimes](./sorkhtimes.md) | 1405-04-23 16:14:42 |
+| [@tahlilgar](./tahlilgar.md) | 1405-04-23 16:14:42 |
+| [@whitedns](./whitedns.md) | 1405-04-23 16:14:42 |
+| [@withyashar](./withyashar.md) | 1405-04-23 16:14:42 |
 
 ---
 ✨ این لیست هر ۲ ساعت خودکار بروز می‌شود.
