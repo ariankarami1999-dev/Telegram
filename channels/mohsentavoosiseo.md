@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-25 01:58:28</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-25 02:58:34</div>
 <hr>
 
 <div class="tg-post" id="msg-845">
@@ -307,7 +307,7 @@ pinned «
 <div class="tg-post" id="msg-844">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">دوستانی که اکانت کلاد خریدند و تجربه موفق دارند و بن نشده لطفا تو دایرکت همین کانال اعلام کنید.   با توجه به نظر سنجی بالا من نمیبینم توی خودم که ماهانه به ۱۰۰۰ نفر بفروشم. نهایت میشه ۱۰۰ نفر با کلی دردسر. میشه حداکثر ماهی ۲۰۰ دلار با کلی مکافات.   پس من ورود…</div>
-<div class="tg-footer">👁️ 694 · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 697 · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-843">
@@ -1112,7 +1112,7 @@ https://t.me/mohsentavoosiseo/739
 
 <div class="tg-post" id="msg-731">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ndIHNRsU2Ow967URdAOtEtNhuZfwOZjNyBnj0lJppoSV7wZ-_K1EKOk5cnn1ZmmmxfEbvrFs4ZBluhzb-eJdPJ_XUGIZojA3raBGSNx1mdNnfSjX3bKyviaV52pvGjyRYxGFaebF4789uGZUaH2dW2uLKJCorczFaBkDKfkZL0hPesfp2DK_SNA8M0dD3pbRC8bFprEsXPuXELZNX3cUFbwsP_5JDd9A1TGSkm1m-l5wINMVEoZeAmI_jLtssGOKvJptj04ovE9P-LVj8NqvlhZCJ0i1gKTSOUPtFHlbPtyo_Y_v2OTeZXQYMo22mmNLCeAs4Hz7ZJfFgAaTNuIeEg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fUVsXwiVtq6xMZ6Wpn3SptMY8siped9_PeCsNPRUjzZgJGfnnwPpk7KkxyQVqqs2uTj7LrnGHy8Uj7pLrT6vrN1cYEyrJ2yj5IabpT4y3zlxZYQZHZHlM7WBkok4NYyXu4tGatMDLGK4SztwVzBDtnaGLvdh36_qr02wC5LrLS0C_L44wR6aeKLM0EwG2uV6J8MHGrzvn1yR9Ky2K-hkXYJaOc4A27UyiEm8zjtx1bHLCrSwiHMw1TlfiaUrBkmgooJmDe9j5j2n_iUurJKn2envZT0xLsdUHtJE_zynPZdrNTTxmPY4O3u45mXjnfHNkUBUqSSbdoWryIKnZopp1g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک دوستی دارم که همیشه فکر میکنه من یه تکنیکی بلدم که انجام میدم سایت ها رشد میکنن. هربار فکر میکنه دارم میپیچونمش و نمیخوام بهش یاد بدم!
 همیشم این رو مثال میزنه. این برای سایتی هست که من فقط یک ساعت مشاوره و راهکار دادم. اوایل فوریه. حدودا یک ماه قبل از جنگ دوم(اسفند).
 بازار آمریکاست و زبان انگلیسی. و فعلا هم خدماتش در یک ایالت هست فقط.
