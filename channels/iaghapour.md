@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/njYQwm105Ekr-NGinOlu3NXbdZFCwkvFsV3Z-vFh5Kr-IagrTQdFWLnL1xoDS2jm872ncxq8YOTT44W4jtNuqeW5dzRnZ5AfN3oPryxOoiioM4N-lTXA1ltZnM-9wG-LLfzZImDAsHPSYV8qjyzePizLfA9eLXAyqKmKvKEFEFWdROaN-IfEdx5T5RxC-Vbn2IYymfgSyujJwUQD0ozjsd1cZNTAckAGWTnvjpdF7bhhr7l8zjuLt2DBx9IZ0AsapopJxn26g3IpWE1Ptw5WASVctnBVepjclRKsbdD1oyR8X-crl113iINoQlbM3AfuIvVBwggzQ20XAkhd3kRRbw.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/p-ps_ij6Liw15ycEo69nWIkMdD1fD0LzfFL48-iBgHvA3fdpIhrXf9lJrkdtnNZ5HhK-qqL3sOzJxVa4JhR94oPPVcISZfCNHOJyNvd8hhFId8tpKnXN033_DyXxI-IQK_FMuZ7TlG8gmDGdZMHrYr3fHkg_iJVoIzHYmZ3PE7ppEbBbs_wrMmPsyrAopGBlS4qtBLxC_v65exHP-JY-0bxOTFdSUYHxKuvp_jblXlj_-fvbL9vsxJkHuk5gkJ3RRnSZzREoLYJJGWJhx3jKlI9IP2byiFDUtGjKrUQ2ImNI0wUxbv_4csPjNUaA_JVKe11hjCQlO5vWfBMIWNMoJA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p>@iaghapour • 👥 52.8K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-24 07:57:58</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-24 10:05:15</div>
 <hr>
 
 <div class="tg-post" id="msg-2770">
@@ -312,7 +312,7 @@
 🔍
 ➡️
 @AppleIdCityBot</div>
-<div class="tg-footer">👁️ 6.34K · <a href="https://t.me/iaghapour/2770" target="_blank">📅 21:29 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.74K · <a href="https://t.me/iaghapour/2770" target="_blank">📅 21:29 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2769">
@@ -327,7 +327,7 @@
 البته با وجود این خبرها، هنوز یه سری از کاربرها میگن بعضی تراکنش‌ها مشکل داره. از اون طرف هم انگار کلاً بخش وام رو بستن؛ یعنی مردم این‌همه سپرده گذاشتن به امید وام، ولی حالا که می‌خوان اقدام کنن جلوی وام رو گرفتن.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 6.69K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.06K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2768">
@@ -347,7 +347,7 @@ t.me
 Behrad Javed
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.51K · <a href="https://t.me/iaghapour/2768" target="_blank">📅 19:27 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.79K · <a href="https://t.me/iaghapour/2768" target="_blank">📅 19:27 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2767">
@@ -361,7 +361,7 @@ IPv6
 از اون طرف هم عده‌ ای از دوستان از جنوب کشور پیام دادن و گفتن که اوضاع اینترنتشون خوب نیست و قطعی و اختلال شدیدی رو دارن تجربه می‌کنن.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/2767" target="_blank">📅 13:13 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/iaghapour/2767" target="_blank">📅 13:13 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2765">
@@ -388,7 +388,7 @@ IPv6
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/iaghapour/2765" target="_blank">📅 17:25 · 22 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/iaghapour/2765" target="_blank">📅 17:25 · 22 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2764">
@@ -402,7 +402,7 @@ IPv6
 🤝
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2764" target="_blank">📅 16:07 · 22 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/iaghapour/2764" target="_blank">📅 16:07 · 22 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2762">
@@ -463,7 +463,7 @@ IPv6
 😁
 دوباره این داستان قطعی برقا شروع شد. رسماً دهن سیستم و وسایل برقی خونه سرویس شد رفت!
 🥲</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/2757" target="_blank">📅 21:01 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2757" target="_blank">📅 21:01 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2756">
@@ -499,7 +499,7 @@ IPv6
 
 <div class="tg-post" id="msg-2755">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/iaghapour/2755" target="_blank">📅 01:29 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/iaghapour/2755" target="_blank">📅 01:29 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2754">
@@ -521,7 +521,7 @@ dav1d
 behrad javed
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2754" target="_blank">📅 01:03 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/iaghapour/2754" target="_blank">📅 01:03 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2752">
@@ -574,7 +574,7 @@ Nova.app
 نکته: Nova Client در واقع یک فورک بهینه‌شده از Karing هست که کاملاً با طراحی Nova Proxy هماهنگ شده و رادار قدرتمندش هم داخلش ادغام شده.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/iaghapour/2752" target="_blank">📅 21:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/iaghapour/2752" target="_blank">📅 21:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2751">
@@ -739,7 +739,7 @@ docs.songbird.website
 هر شب
 کامنت‌ها رو بررسی و تایید می‌کنم. البته در تلاشیم تا راهی پیدا کنیم که این محدودیت به‌زودی کمتر بشه. از درک و همراهی همیشگی شما ممنونم.
 💚</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/iaghapour/2739" target="_blank">📅 19:42 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/iaghapour/2739" target="_blank">📅 19:42 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2738">
@@ -890,7 +890,7 @@ WARP کلودفلر
 دانلود سایر نسخه ها
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/iaghapour/2730" target="_blank">📅 20:40 · 12 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/iaghapour/2730" target="_blank">📅 20:40 · 12 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2728">
