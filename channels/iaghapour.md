@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-26 01:59:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-26 02:56:07</div>
 <hr>
 
 <div class="tg-post" id="msg-2778">
@@ -316,7 +316,7 @@ check-host.net
 🤯
 تغییر آیپی و تنظیم PTR از
 کنترل پنل</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/iaghapour/2778" target="_blank">📅 21:40 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/iaghapour/2778" target="_blank">📅 21:40 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2777">
@@ -324,7 +324,7 @@ check-host.net
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/APmmOA_HIdYQCbOF4gkHuT4CeHK96h7IflH0RKZLvHP9RtBsgo45UCrWR-mS-cjqItJ8iE1xXs3ZRvYoVnIiA8GgKFHzvvuhY907-kBeXLc1teM2LDCwP97Al5h751Fku-SwbgxeFSqYMPE0iO6a5SgXE_VtEDEdSP__FW0jMDGEWq43LI1HXLN0rdQzce94gyOJhBbf4A7E0ZC6GYujP262C8dAz4PL7-YFnzCDjQSnD3UDT6JD3Ctiax7l2tPgfwR2mCNrV1Xrro0hZSjgV9VM9JlnFL1UCP2R90CrgtkqL2TUTEON7malSISjZ3tD41dTlrEMl3rFSXBfx0WM1Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بالاخره یه روز لو میره که مسی اصلاً آدمیزاد نیست!
 یه فضاییه که اومده زمین تا کلاس درس فوتبال برامون بذاره و برگرده سیاره خودش :)</div>
-<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/iaghapour/2777" target="_blank">📅 21:29 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.95K · <a href="https://t.me/iaghapour/2777" target="_blank">📅 21:29 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2776">
@@ -338,7 +338,7 @@ check-host.net
 👌
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 7.39K · <a href="https://t.me/iaghapour/2776" target="_blank">📅 20:14 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.57K · <a href="https://t.me/iaghapour/2776" target="_blank">📅 20:14 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2775">
@@ -348,7 +348,7 @@ check-host.net
 خدایی دیگه چه انرژی و انگیزه‌ای واسه آدم می‌مونه؟ اصلاً نمی‌خوام نق بزنم یا فاز ناامیدی بدم، ولی واقعاً یه جاهایی آدم کم میاره و رسماً می‌بره... کشته شدن این سربازهای بی‌گناه هم که دیگه مثل یه تیر وسط قلب همه‌مون بود. آخه چرا باید پژو پارس بشه آرزو؟ چرا باید یه ۲۰۷ مشکی بشه سقف رویای یه جوون ایرانی؟
 😔
 خدایا... فقط بزرگیتو شکر.</div>
-<div class="tg-footer">👁️ 8.23K · <a href="https://t.me/iaghapour/2775" target="_blank">📅 19:41 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.38K · <a href="https://t.me/iaghapour/2775" target="_blank">📅 19:41 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2774">
@@ -390,7 +390,7 @@ Telegram Premium
 📢
 Channel:
 @SubMarket_IR</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/iaghapour/2774" target="_blank">📅 21:25 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/iaghapour/2774" target="_blank">📅 21:25 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2773">
@@ -420,7 +420,7 @@ UAC SNI Spoofer
 دانلود از گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.78K · <a href="https://t.me/iaghapour/2773" target="_blank">📅 21:15 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/iaghapour/2773" target="_blank">📅 21:15 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2772">
@@ -445,7 +445,7 @@ UAC SNI Spoofer
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/iaghapour/2772" target="_blank">📅 20:56 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.79K · <a href="https://t.me/iaghapour/2772" target="_blank">📅 20:56 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2771">
@@ -468,7 +468,7 @@ UAC SNI Spoofer
 هدف ما از انتشار آموزش‌ها در این کانال دقیقاً همین است که یاد بگیرید خودتان به سادگی و به صورت کاملاً رایگان این ابزارها را راه‌اندازی کنید. هیچ دلیلی وجود نداره که بابت یک کد رایگانِ کلودفلر به کسی هزینه پرداخت کنید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/iaghapour/2771" target="_blank">📅 15:34 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2771" target="_blank">📅 15:34 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2769">
@@ -483,7 +483,7 @@ UAC SNI Spoofer
 البته با وجود این خبرها، هنوز یه سری از کاربرها میگن بعضی تراکنش‌ها مشکل داره. از اون طرف هم انگار کلاً بخش وام رو بستن؛ یعنی مردم این‌همه سپرده گذاشتن به امید وام، ولی حالا که می‌خوان اقدام کنن جلوی وام رو گرفتن.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2768">
@@ -558,12 +558,12 @@ IPv6
 🤝
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/iaghapour/2764" target="_blank">📅 16:07 · 22 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/iaghapour/2764" target="_blank">📅 16:07 · 22 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2762">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/iaghapour/2762" target="_blank">📅 21:44 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/iaghapour/2762" target="_blank">📅 21:44 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2761">
@@ -583,7 +583,7 @@ IPv6
 
 <div class="tg-post" id="msg-2760">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2760" target="_blank">📅 20:12 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2760" target="_blank">📅 20:12 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2758">
@@ -738,7 +738,7 @@ Nova.app
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MCUBKZ0CTVksI-txV5QoZYk-BvjqFAxcVH7UMSCXaI8KHBEZqR_LLQ9LEqJAyiQfcfFzx1oHx2j9CUsiCyU8Q8UHm--sth9xwMOiByBXFTLPH2mlMEokEYyFsQP-HKAdd5TbCbt5JPI6LKZOiPAxZgJcjCD4CxwQlruTuL4R5FBQT2UZT_NewK6n_VrvqhjDqgzVs9J6YHB89JIhP-kCz26GeEpoeeMPTKK7H0ZfYos0MuoOGxkEY0tcXLE1Bn1sJGL8nf3LPNXJ302PyTheUopzgBPMA961Vm_RNilbfGe81UfpkmUOikbjY-PRLwpm0CZCie2Y3phckOztqaOw3Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فقط بعضی افراد میدونن این چیه
 😊</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2751" target="_blank">📅 19:25 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/iaghapour/2751" target="_blank">📅 19:25 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2749">
@@ -792,7 +792,7 @@ Nova.app
 
 <div class="tg-post" id="msg-2744">
 <div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VUJ2gUaoILIntjY-dQ7_l2aYw_w-rhFZNJEvrdWwwkJ7TSZub1O-zQXro72Mt-ypFM1q3g5_6EiQseaVHxNHovcD1tjhJLVXMj9CWHbPaXrd228P5dYbRkOI0Zw7A7EdDxNqqGjdUlPw9SQgw5wwMHy53oulK0j2FVYkn1hl_QbfVeIKAGEl8EKJxKJc1ZYA7jy7A5hg9CrZWWllHhd7FS7MERxj2fggl2auY8l9c04K_lNiWjPzsm6ngI2URj7-t5qtHqckaEd9ccKjWMt8x02aL5WJ1nAVlsJpow2ZrV3RTYcHgrHHhQu2rKkEGeobmdecg4mq_r0zpD0iLN9LBg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PDSBJWM7fcIn9dldEDaVDe1EZwYggq0GsWAGG4QtxvIeBlN0S3mgd8IqaPLRpIkWwlDy2KJp2Bo9POsY_b0G50zZEFioYafA0D9e3dPx1yFHnjewMQ1a8VAwauk0FFn7Y5ietGfYjRsIvEGhKMLwLAuxgiT9fEJhFX-X66hOEAHlSCFnNouDuT8fkjypKra4LyQfPorgo_rGlUV2FABLFuFIk6bncnnor9zyuIaRDla16Jq5HCZpgE1vlMgvj3HWiVsakVsSGVNxXTr6GwkIkGgOgcGRoC01PNKq_p8RcHKabp7JLEa9umcpPHHmihVR02ELXs9YraDSAlhK_Mm5yg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">.
 ⚠️
 ببینید، اینکه بیایم مصرف کاربر رو چند برابر حساب کنیم (مثلاً طرف ۱ گیگ مصرف کرده ولی ۲ گیگ از حجمش کم کنیم)، اسمش زرنگی نیست، رسماً دزدی و کم‌فروشی تو روز روشنه! اینجور کارا فقط گند می‌زنه به اعتماد مردم و باعث میشه مشتری به بقیه فروشنده‌هایی که دارن سالم کار می‌کنن هم به چشم دزد نگاه کنه.
