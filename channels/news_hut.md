@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/HgkoQVlOyRrj3YgIiyBX1ZAUiF7bDbh8fW_S10At4-li5FNmrdSrgjlxr9heuiCmt-RiJmfAEuC_mJRkXfnL4sIDto9Gpak3xlBY9TSSDwv2vFO9dAKabIqBNsQAr3j7kp5jv_bsWQ3celvuTdUIWti89KTIj4G7HyCTPh21Jx4OP-TLyVWgqoZbfDTXuKUFDVJNCzT_GbA4m9eWSeL7WAxsMoFNw9sEcdYgTwgoZd6UETxmPp2uvIQxBJy5pbw8NjFUJudH_jiwBOdDhfEeHBWMPSWxlkoRHmXWLhrBTPncWLb-TF5dJXjKw2JTDA051HhJJh8RNNGz0eKidst52g.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/i871apWkffRI_T15boix7iBelk-uQC8wQk7xfuk8hbA06nZiHpYC5eBI391lrpgdQtRMcsfmSdjrLHUu3DPzlPMxdgEkOlCH8wOSpBXoORbcCNEEzQkuEYSef0fQp-rUeazATDWCCnEkEUYDbX_mnurg2AqhOd8vnVbSyuMkAl51LRxZPbKLE_ECK3aLzpIN4kROSNeKqFy_bV-fwxph1yvMwdnS0TAMAnhpsV22V-X9qEiTcURTpAa9Th3cBc9mWYLAojALwsIReDNDEdaKfq41WHc74x4jN--zgqU4aU7vCFobrRDUogv361juSaq40T4JcskFZ_wV12ObN0yGuw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 هات نیوز | HotNews</h1>
 <p>@news_hut • 👥 170K عضو</p>
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-25 04:26:11</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-25 07:27:19</div>
 <hr>
 
 <div class="tg-post" id="msg-68245">
@@ -303,7 +303,7 @@
 میگی ن ؟ بیا تو چنلمون و ببین
 🔥
 @FuckBet @FuckBet @FuckBet @FuckBet @FuckBet @FuckBet</div>
-<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/news_hut/68245" target="_blank">📅 03:00 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.28K · <a href="https://t.me/news_hut/68245" target="_blank">📅 03:00 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68244">
@@ -320,7 +320,7 @@
 @FuckBet
 @FuckBet
 @FuckBet</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/news_hut/68244" target="_blank">📅 03:00 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.39K · <a href="https://t.me/news_hut/68244" target="_blank">📅 03:00 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68243">
@@ -335,7 +335,7 @@
 <div class="tg-text">🚨
 پرتاب‌های متعدد موشک‌های پدافندی پاتریوت به سمت پهپادهای ایرانی:
 @News_Hut</div>
-<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/news_hut/68243" target="_blank">📅 02:56 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.83K · <a href="https://t.me/news_hut/68243" target="_blank">📅 02:56 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68242">
@@ -350,7 +350,7 @@
 <div class="tg-text">🚨
 فعال شدن پدافند بحرین در پی حمله موشکی و پهبادی سپاه پاسداران
 @News_Hut</div>
-<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/news_hut/68242" target="_blank">📅 02:49 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.28K · <a href="https://t.me/news_hut/68242" target="_blank">📅 02:49 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68241">
@@ -363,7 +363,7 @@
 نکات مهم برای ایمن نگه داشتن دارای های شما تو کانال قرار دادیم حتما رعایت کنید
 آموزش رفع مشکل
 https://t.me/arrad_group/2450</div>
-<div class="tg-footer">👁️ 8.42K · <a href="https://t.me/news_hut/68241" target="_blank">📅 01:46 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/news_hut/68241" target="_blank">📅 01:46 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68240">
@@ -371,7 +371,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">🚨
 انفجار در سیریک
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/news_hut/68240" target="_blank">📅 01:38 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/news_hut/68240" target="_blank">📅 01:38 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68239">
@@ -386,7 +386,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">🚨
 سنتکام تصاویری از اصابت چندین موشک هلفایر به موتورخانه نفتکش M/T Belma که در خلیج فارس در حال حرکت به سمت جزیره خارگ بود را منتشر کرده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/news_hut/68239" target="_blank">📅 01:35 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/news_hut/68239" target="_blank">📅 01:35 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68238">
@@ -394,7 +394,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">🚨
 بندرعباس بوووم
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/news_hut/68238" target="_blank">📅 01:28 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/news_hut/68238" target="_blank">📅 01:28 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68237">
@@ -410,7 +410,7 @@ https://t.me/arrad_group/2450</div>
 انگلیس
 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 #hjAly‌  @News_Hut</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/68237" target="_blank">📅 01:00 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/68237" target="_blank">📅 01:00 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68236">
@@ -419,7 +419,7 @@ https://t.me/arrad_group/2450</div>
 🚨
 چندین انفجار شدید در قشم
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/68236" target="_blank">📅 00:56 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/68236" target="_blank">📅 00:56 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68235">
@@ -436,7 +436,7 @@ https://t.me/arrad_group/2450</div>
 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 #hjAly‌
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/68235" target="_blank">📅 00:33 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/68235" target="_blank">📅 00:33 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68234">
@@ -444,7 +444,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">من خودم رئالیم ولی برای مسی باید ایستاده دست زد
 😑
 #hjAly‌</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/news_hut/68234" target="_blank">📅 00:25 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/68234" target="_blank">📅 00:25 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68233">
@@ -457,7 +457,7 @@ https://t.me/arrad_group/2450</div>
 <a href="https://cdn4.telesco.pe/file/d327baf32e.mp4?token=EdUDwJbx7As6NyBqfp-H2Bai-v3qIKUK4cDVWuzhIR6fJPc4FQ85wjhxYgoFx1lToPqoTp-7Ls4HnCHf3iFLF3ajOIFt5bVLxEa_n5cTqX-rejkDS0PmV9M5L0ZcLx4LmoX9Z7mZP21EjOhL34nn8GAy-eZUnKAzyhywLzolqL44HX747uFy9ujZHz2eljZICAsjr2GnXtJjDIC-tlNQIXEYtRRlFWjfeTJ-m5iPySwnKlRCPz1KejoB1BdDWvDZ9ie3MsskDoVN4md6Dtn6vSh7hjuqVDYNtYV-Quj26t77uRuXVjX2_o9LMBA0dejFKzG_iGo_tOIWh_w45sKPSg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">#hjAly‌</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/68233" target="_blank">📅 00:24 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/news_hut/68233" target="_blank">📅 00:24 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68232">
@@ -466,13 +466,13 @@ https://t.me/arrad_group/2450</div>
 💢
 💢
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/68232" target="_blank">📅 00:23 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/68232" target="_blank">📅 00:23 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68231">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">گگیایایتیلیاایایاااللل دوممممم</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/68231" target="_blank">📅 00:23 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/68231" target="_blank">📅 00:23 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68230">
@@ -480,7 +480,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">گلللللل تساوی آرژانتین به انگلیسِ کثیف
 🔥
 #hjAly‌</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/68230" target="_blank">📅 00:21 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/68230" target="_blank">📅 00:21 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68229">
@@ -488,19 +488,19 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">گلللللل تساوی آرژانتین به انگلیسِ کثیف
 🔥
 #hjAly‌</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/68229" target="_blank">📅 00:19 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/68229" target="_blank">📅 00:19 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68228">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">درووود بر روح پاک مارادونااااااا درود بر بیبییی</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/68228" target="_blank">📅 00:17 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/news_hut/68228" target="_blank">📅 00:17 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68227">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">کلم کیریه، کیر تو انگلیس کیر تو کیراستارمر #hjAly‌</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/68227" target="_blank">📅 00:16 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/68227" target="_blank">📅 00:16 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68226">
@@ -517,7 +517,7 @@ https://t.me/arrad_group/2450</div>
 پرزیدنت ترامپ:
 جمهوری اسلامی به زودی شکست خواهد خورد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/68226" target="_blank">📅 00:12 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/68226" target="_blank">📅 00:12 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68225">
@@ -532,7 +532,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">🚨
 لحظه حمله آمریکا به سپاه راسک سیستان و بلوچستان
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/68225" target="_blank">📅 00:08 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/68225" target="_blank">📅 00:08 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68224">
@@ -541,7 +541,7 @@ https://t.me/arrad_group/2450</div>
 گل اول انگلیس به آرژانتین توسط گوردون.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/68224" target="_blank">📅 23:58 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/68224" target="_blank">📅 23:58 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68223">
@@ -549,7 +549,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">🚨
 انگلیس اولیو زد به آرژانتین
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/68223" target="_blank">📅 23:47 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/68223" target="_blank">📅 23:47 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68222">
@@ -568,7 +568,7 @@ https://t.me/arrad_group/2450</div>
 ترامپ:
 بله. همینطور است. درست زمانی که داشتم به اینجا می‌آمدم، تماسی دریافت کردیم و آنها (ایرانی‌ها) می‌خواهند ملاقات کنند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/68222" target="_blank">📅 23:43 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/68222" target="_blank">📅 23:43 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68221">
@@ -583,7 +583,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">🚨
 ستون دود در چابهار
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/68221" target="_blank">📅 23:40 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/68221" target="_blank">📅 23:40 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68220">
@@ -591,7 +591,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">برق بعضی از مناطق اهواز قطع شده، خونه ها دارن می‌لرزن
 😑
 #hjAly‌</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/68220" target="_blank">📅 23:11 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/68220" target="_blank">📅 23:11 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68219">
@@ -600,7 +600,7 @@ https://t.me/arrad_group/2450</div>
 مادرقحبه‌ی هزارپدر
 : ایرانیا خیلی دنبال توافقن می‌خوان جلسه بزارن
 #hjAly‌</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/68219" target="_blank">📅 23:07 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/68219" target="_blank">📅 23:07 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68218">
@@ -609,13 +609,13 @@ https://t.me/arrad_group/2450</div>
 گزارش ممبرا از اهواز:
 اهواز قطع برق منطقه احداثی
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/68218" target="_blank">📅 23:06 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/68218" target="_blank">📅 23:06 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68217">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">ممبرا از اهواز گزارش لحظه‌ای می‌دن، حداقل تا الان ۱۲ بار صدای انفجار شدید شنیده شده #hjAly‌</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/68217" target="_blank">📅 23:06 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/68217" target="_blank">📅 23:06 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68216">
@@ -630,14 +630,14 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">🚨
 اهواز رو وحشتناک دارن میزنن
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/68216" target="_blank">📅 23:03 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/68216" target="_blank">📅 23:03 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68215">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">ممبرا از اهواز گزارش لحظه‌ای می‌دن، حداقل تا الان ۱۲ بار صدای انفجار شدید شنیده شده
 #hjAly‌</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/68215" target="_blank">📅 23:01 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/68215" target="_blank">📅 23:01 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68214">
@@ -645,7 +645,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">🚨
 اهواز رو دارن میزنن همچنان
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/68214" target="_blank">📅 22:59 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/68214" target="_blank">📅 22:59 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68213">
@@ -654,7 +654,7 @@ https://t.me/arrad_group/2450</div>
 گزارش ممبرا:
 مجدد انفجار در اهواز خیلییی شدید بود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/68213" target="_blank">📅 22:50 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/news_hut/68213" target="_blank">📅 22:50 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68212">
@@ -666,7 +666,7 @@ https://t.me/arrad_group/2450</div>
 این حملات به توانایی‌های نظامی ایران که برای تهدید کشتی‌هایی که آزادانه از تنگه هرمز عبور می‌کنند، استفاده می‌شوند، هدف قرار گرفته‌اند؛ تنگه‌ای بین‌المللی که برای تجارت جهانی حیاتی است.
 ارتش ایالات متحده در پی دستور فرمانده کل قوا، ایران را پاسخگو می‌داند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/68212" target="_blank">📅 22:47 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/68212" target="_blank">📅 22:47 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68211">
@@ -674,7 +674,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">🚨
 انفجار در چابهار
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/68211" target="_blank">📅 22:43 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/68211" target="_blank">📅 22:43 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68210">
@@ -682,7 +682,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">🚨
 گویا انفجار ها خیلییی شدید بوده
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/68210" target="_blank">📅 22:37 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/68210" target="_blank">📅 22:37 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68209">
@@ -691,7 +691,7 @@ https://t.me/arrad_group/2450</div>
 🚨
 مجدد انفجار در اهواز
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/68209" target="_blank">📅 22:36 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/news_hut/68209" target="_blank">📅 22:36 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68208">
@@ -707,7 +707,7 @@ https://t.me/arrad_group/2450</div>
 🚨
 شلیک موشک از کویت
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/68208" target="_blank">📅 22:36 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/68208" target="_blank">📅 22:36 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68207">
@@ -716,7 +716,7 @@ https://t.me/arrad_group/2450</div>
 🚨
 سه انفجار در اهواز
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/68207" target="_blank">📅 22:33 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/68207" target="_blank">📅 22:33 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68206">
@@ -731,7 +731,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">از کسی که در برنامه زنده می‌خواست شب‌پره بگیره چه انتظاری داشتید آخه
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/68206" target="_blank">📅 22:30 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/68206" target="_blank">📅 22:30 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68205">
@@ -740,7 +740,7 @@ https://t.me/arrad_group/2450</div>
 یه هموطن داشت از محل برخورد موشک ها به چابهار فیلمبرداری میکرد که یهو برج مراقبت دریایی رو زدن
 ‌
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/68205" target="_blank">📅 22:05 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/68205" target="_blank">📅 22:05 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68204">
@@ -758,7 +758,7 @@ https://t.me/arrad_group/2450</div>
 صادر شده.
 +هشدار سطح 4 به این معنیه که آمریکا از شهروندانش میخواد که به دلیل خطرناک بودن اوضاع، به این کشورها اصلا سفر نکنن و یا اگر اونجا هستن فورا ترک کنن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/68204" target="_blank">📅 21:45 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/news_hut/68204" target="_blank">📅 21:45 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68203">
@@ -769,7 +769,7 @@ https://t.me/arrad_group/2450</div>
 فاکس نیوز به نقل از ترامپ:
 حملات علیه ایران هفته آینده گسترش خواهد یافت، و خاورمیانه خود را برای اتفاقاتی که بعداً رخ خواهد داد، آماده می‌کند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/news_hut/68203" target="_blank">📅 21:28 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/68203" target="_blank">📅 21:28 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68201">
@@ -781,7 +781,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-text">🏆
 ترکیب انگلیس و آرژانتین برای بازی امشب
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/68201" target="_blank">📅 21:15 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/68201" target="_blank">📅 21:15 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68200">
@@ -791,7 +791,7 @@ https://t.me/arrad_group/2450</div>
 همزمان با درگیری‌ها، باید از ابزارهای دیپلماسی و مذاکره نیز استفاده کنیم، به گونه‌ای که منافع ملی را تأمین و تقویت کند.
 همانطور که بارها تاکید کرده‌ام، مذاکره در این مرحله به معنای تسلیم یا ارائه امتیازات نیست، بلکه در کنار جنگ، بخشی از استراتژی مقاومت و حفظ منافع ملی است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/68200" target="_blank">📅 21:14 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/68200" target="_blank">📅 21:14 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68199">
@@ -801,7 +801,7 @@ https://t.me/arrad_group/2450</div>
 برای ما مسجل است که انتقام خون آقای شهیدمان را به ثمر خواهیم نشاند
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/68199" target="_blank">📅 21:10 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/68199" target="_blank">📅 21:10 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68198">
@@ -810,14 +810,14 @@ https://t.me/arrad_group/2450</div>
 محمدباقر قالیباف:
 تفاهم‌نامه وقتی معنا دارد که مفادش معتبر و در حال اجرا باشد. اگر ایران از آن سودی نبرد، دلیلی برای پایبندی وجود ندارد. ما بر اساس اصل «چشم در برابر چشم» عمل می‌کنیم و در برابر بدعهدی، متقابلاً واکنش نشان می‌دهیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/68198" target="_blank">📅 21:07 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/68198" target="_blank">📅 21:07 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68197">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">🇮🇷
 قراره تا ساعات آینده ممدباقر بیانیه‌ای درباره جنگ و تحولات روز کشور منتشر کنه.  @News_Hut</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/news_hut/68197" target="_blank">📅 21:02 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/68197" target="_blank">📅 21:02 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68196">
@@ -825,7 +825,7 @@ https://t.me/arrad_group/2450</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CsHPwBB_kuDSkjlJd_p66xhbw7CMyG0stg97canvOWGpx8c0TT6vxS7-nct6OHcy0q-A_3mhx5nRvZoYzRhYrB3zXOY7tE9j6nDnLDxUIx79Lcl49aV4okU4YohzV0d56ECCasM6EOOBRwZ3TQR18TfpNCrtARdnxHMX_nKw31MLpdznyBid08fpZNu07fvb_Die-u3_c8KVy1XU1sJepFPEjToCTugPUiyEFPEQhnKe5vrSu4L3N_OCOFpEf87jSqFpkgYiODOF6zdQWtCTRdFV9I-sxk5Szi_YV_yr2Mxif2zLCTIQx2ahVWeQ03RSW4Zqew6LmbKttMetkURigw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تصاویر شهدای حمله آمریکا به پادگان ارتش در ‎بمپور.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/68196" target="_blank">📅 20:46 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/68196" target="_blank">📅 20:46 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68195">
@@ -835,7 +835,7 @@ https://t.me/arrad_group/2450</div>
 کص‌خار میثاقی
 #hjAly‌
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/68195" target="_blank">📅 20:15 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/68195" target="_blank">📅 20:15 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68193">
@@ -849,7 +849,7 @@ https://t.me/arrad_group/2450</div>
 ❌
 Zhiuuuuuu
 ✅</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/68193" target="_blank">📅 20:13 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/68193" target="_blank">📅 20:13 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68192">
@@ -864,7 +864,7 @@ Zhiuuuuuu
 <div class="tg-text">تا صبح می‌شه به کریستیانو خامنه‌ای خندید ولی کانال زشت می‌شه پس بسه، فک می‌کنه کریس آمریکاییه
 😂
 #hjAly‌</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/68192" target="_blank">📅 20:12 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/news_hut/68192" target="_blank">📅 20:12 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68191">
@@ -873,14 +873,14 @@ Zhiuuuuuu
 <div class="tg-text">کریستیانو خامنه‌ای کرایه اسنپ نداشت بره سازمان؟
 😁
 #hjAly‌</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/news_hut/68191" target="_blank">📅 20:10 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/68191" target="_blank">📅 20:10 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68190">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromرونالدو</strong></div>
 <div class="tg-text">اخه من چکارم؟</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/68190" target="_blank">📅 20:01 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/68190" target="_blank">📅 20:01 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68189">
@@ -892,7 +892,7 @@ Zhiuuuuuu
 🤯
 🤯
 :  #hjAly‌</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/68189" target="_blank">📅 19:59 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/68189" target="_blank">📅 19:59 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68188">
@@ -908,14 +908,14 @@ Zhiuuuuuu
 💔
 #hjAly‌
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/68188" target="_blank">📅 19:48 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/68188" target="_blank">📅 19:48 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68187">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">پاساز علاءالدین خبری نیست، ویدیو های منتشر شده مربوط به‌ گذشته‌ست
 #hjAly‌</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/68187" target="_blank">📅 19:36 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/68187" target="_blank">📅 19:36 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68186">
@@ -928,7 +928,7 @@ Zhiuuuuuu
 ✔️
 واقعیت: در تاریخ ۱۴ ژوئیه، نیروهای آمریکایی اهداف نظامی ایران را در بندرعباس، خورموج، اهواز، قشم، تنب، بوشهر و کوه استک هدف قرار دادند تا توانایی ایران برای حمله به کشتی‌های تجاری در تنگه هرمز را تضعیف کنند. در همین حال، ایران غیرنظامیان بی‌گناهی را که از این تنگه عبور می‌کنند و همچنین در کشورهای همسایه حوزه خلیج [فارس] حضور دارند، هدف قرار داده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/news_hut/68186" target="_blank">📅 19:26 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/news_hut/68186" target="_blank">📅 19:26 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68185">
@@ -937,7 +937,7 @@ Zhiuuuuuu
 <div class="tg-text">🇮🇷
 قراره تا ساعات آینده ممدباقر بیانیه‌ای درباره جنگ و تحولات روز کشور منتشر کنه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/news_hut/68185" target="_blank">📅 18:26 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/news_hut/68185" target="_blank">📅 18:26 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68184">
@@ -947,7 +947,7 @@ Zhiuuuuuu
 فرماندهی مرکزی ایالات متحده:
 از زمان ازسرگیری محاصره دریایی بنادر ایران در ۱۷ ساعت گذشته، نیروهای آمریکایی مسیر دو کشتی تجاری را که قصد عبور از این محاصره را داشتند، تغییر داده‌اند. ارتش ایالات متحده همچنان هوشیار و آماده است تا از رعایت کامل مقررات اطمینان حاصل کند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/68184" target="_blank">📅 18:20 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/news_hut/68184" target="_blank">📅 18:20 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68183">
@@ -966,7 +966,7 @@ Zhiuuuuuu
 اپلیکیشن رو دانلود کردید موقع ثبت‌نام، کد هدیه 1x_1566529 رو وارد کن و تا
 100یورو
 هدیه بگیر!</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/68183" target="_blank">📅 18:20 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/68183" target="_blank">📅 18:20 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68182">
@@ -1001,7 +1001,7 @@ bitly.uk/connect1xbet
 ⬇️
 فایل نصب اندروید 1XBET
 ⬇️</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/68182" target="_blank">📅 18:20 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/68182" target="_blank">📅 18:20 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68181">
@@ -1010,7 +1010,7 @@ bitly.uk/connect1xbet
 🚨
 انفجار در جزیره هنگام
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/68181" target="_blank">📅 18:17 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/news_hut/68181" target="_blank">📅 18:17 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68180">
@@ -1026,7 +1026,7 @@ bitly.uk/connect1xbet
 منوچهر متکی وزیر خارجه اسبق جمهوری اسلامی کاملا جدی اومده گفته:
 باید به پایگاه های آمریکا در منطقه حمله زمینی کنیم و صدتا اسیر بگیریم ازشون و بیاریم ایران.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/68180" target="_blank">📅 18:15 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/68180" target="_blank">📅 18:15 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68179">
@@ -1041,7 +1041,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">‼️
 تمسخر لهستان و شوروی توسط چپ‌کش اعظم رونالد ریگان فقید:
 @News_Hut</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/news_hut/68179" target="_blank">📅 17:32 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/news_hut/68179" target="_blank">📅 17:32 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68178">
@@ -1056,7 +1056,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">یکی از وایرال‌ترین ویدیو ها در 24ساعت اخیر در توییتر فارسی
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/news_hut/68178" target="_blank">📅 17:00 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/68178" target="_blank">📅 17:00 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68174">
@@ -1072,7 +1072,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">⏺
 ویدیوی منتشر شده از انفجار در چابهار صبح امروز
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/68174" target="_blank">📅 16:15 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/68174" target="_blank">📅 16:15 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68173">
@@ -1115,7 +1115,7 @@ bitly.uk/connect1xbet
 @News_Hut
 |
 @HutNewsPlus</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/news_hut/68172" target="_blank">📅 15:28 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/news_hut/68172" target="_blank">📅 15:28 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68171">
@@ -1123,7 +1123,7 @@ bitly.uk/connect1xbet
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H9U_oAPDcSDV1FjtcxBURg4-oJAr3ovbDFjNvqSy2tTOLR4m8OX3QtU4hpKFvpo-pdtce7i5nj5X9dUa53K6rMpNIsVJV8ra2Kne_sedwT-NIvBeipgncOsgzNFcsIV9BG6yzlfEJpr_C22s7h2Bjbll8f8SmzhKReiHBU2hHwewQlB_xXr-kEGSG1JDNrKfxpFAWn1R0P7t4aZ8Yc2d2dl7Ui71ZPgzWO0LDtnaoXN8rLapxE1mtoc9JSvpcig2OA4NfOdb-hP9osrYFj9wTK1gOsESaHO7btqKb2WWLXc-4IMPgsEcQwnW-Z239uXEsoczqNqbtzbLT9WfrfQeJA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">استوری حامد‌لک:
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/news_hut/68171" target="_blank">📅 15:07 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/news_hut/68171" target="_blank">📅 15:07 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68170">
@@ -1137,7 +1137,7 @@ bitly.uk/connect1xbet
 ساعت ۲۲:۳۰
 ورزشگاه؛ مرسدس بنز آتلانتا
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/news_hut/68170" target="_blank">📅 14:45 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/68170" target="_blank">📅 14:45 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68169">
@@ -1151,14 +1151,14 @@ bitly.uk/connect1xbet
 <div class="tg-post" id="msg-68168">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">علاوه بر اینکه سوالات یکیه و باید همزمان امتحات گرفته شه، تسنیم اومده گفته فقط نهایی دوازدهمیا تو روز ۲۵ و ۲۷ لغو شده، این درحالیه که دوازدهمیا اصلا ۲۷‌ام امتحان ندارند و یازدهمیا دارن!  باید منتظر واکنش رسمی اموزش و پرورش باشید @News_Hut</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/68168" target="_blank">📅 14:27 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/news_hut/68168" target="_blank">📅 14:27 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68167">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rZaACSUzUPRYjRPFCs0eGm6Prc6i6ZYgxVWbaszEGsu10jwGNz4JQ8MSJ7PIIsLKZSEQBP39hjDQVRLSoWJ9zFkbLheGBYE-0h7BMl6KFlPFxVhv8DmaA0yTPNQTcG-cB5XUJ4eajt5ErX7JuLiIjj1vctbqiSswoIPEaDC_Xof9hhcPqm24H-SM8UPUbjmC7LWsZhp4WMRjhprkuK8no9OoUyohbCxVkrVY2LWDWTEkx7JYMurQUPbxlI8Tn26OGXe5jrXH6CFVKMMbEKuSFJaX7_5a1px9y2LkeatNIeSY67K21xGC4v8qoT_RNgYOtMkeDe7aILT49oC-0lBeQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چطوری نهایی رو فقط برا چند منطقه لغو کردین، کاش این دو روز کل ایران رو لغو می‌کردین تا فاجعه‌ای دوباره مثل میناب رخ نده... #hjAly‌</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/news_hut/68167" target="_blank">📅 14:24 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/news_hut/68167" target="_blank">📅 14:24 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68166">
@@ -1173,7 +1173,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">🚨
 خسارت وارد شده به یک دکل مخابراتی در بندرعباس پس از حمله آمریکا
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/68166" target="_blank">📅 14:20 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/68166" target="_blank">📅 14:20 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68165">
@@ -1191,7 +1191,7 @@ bitly.uk/connect1xbet
 وزارت آموزش و پرورش:
 بر اساس تصمیم ستاد عالی آزمون های این وزارتخانه و با توجه به شرایط خاص کشور در استان های هرمزگان، بوشهر، خوزستان و سیستان و بلوچستان، امتحانات نهایی تمامی رشته های تحصیلی پایه دوازدهم در روز پنجشنبه 25 تیر و شنبه 27 تیر لغو و به زمان دیگری که متعاقباً اعلام خواهد شد، موکول می شود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/news_hut/68164" target="_blank">📅 14:01 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/news_hut/68164" target="_blank">📅 14:01 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68163">
@@ -1202,7 +1202,7 @@ bitly.uk/connect1xbet
 فرماندهی مرکزی ایالات متحده:
 امروز ساعت ۶ صبح به وقت شرقی، نیروهای فرماندهی مرکزی ایالات متحده (سنتکام) موجی از حملات را علیه ایران آغاز کردند. هدف از این حملات، تضعیف هرچه بیشتر توانمندی‌های نظامی‌ای است که نیروهای ایرانی برای حمله به کشتی‌های تجاری در تنگه هرمز به کار گرفته‌اند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/news_hut/68163" target="_blank">📅 14:00 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/news_hut/68163" target="_blank">📅 14:00 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68160">
@@ -1221,7 +1221,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">🚨
 تصاویر منتسب به شیراز
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/news_hut/68160" target="_blank">📅 13:33 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/68160" target="_blank">📅 13:33 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68159">
@@ -1232,7 +1232,7 @@ bitly.uk/connect1xbet
 🚨
 گزارش های اولیه از انفجار در شیراز
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/68159" target="_blank">📅 13:27 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/news_hut/68159" target="_blank">📅 13:27 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68158">
@@ -1240,7 +1240,7 @@ bitly.uk/connect1xbet
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HIT8xe69LjqqtB0KjtjtHe3rkSDq8_te4t2VdH_NuqeZSsKFJGiY9wnZlSdA3g3Clxu7ZtppASEQO0d4e5ELNSXNDR5AFn3Wc_gkvcnf6Y7MygE_Zgf5D4lmJ3GXolr2VtzWod4IU9Qq5Bid2qRXDW10CKtOyVsowZ34N54ngI07bJpzHF-fUqZ2rgGNaVL68mZPXYz61AY4vpvluWRqgdW428YClPzcE_XgltlikPYkRLUX0ht_iY-LoQzUnkayaULcTgnV6JimKf64De-4kDSoEv3LKa4SrL_UVALGzjzwR-V8d_Gl6hF6onOQc5Sr69C-GqRn8ZPIawDHSNuQ5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مادرِ داریوش فرضیایی (عمو پورنگ)، بعد از تحمل یه دوره بیماری، تو سن 90 سالگی درگذشت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/68158" target="_blank">📅 13:04 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/news_hut/68158" target="_blank">📅 13:04 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68157">
@@ -1278,12 +1278,12 @@ bitly.uk/connect1xbet
 <div class="tg-text">🚨
 لحظه برخورد پهپادشاهد ، به طور مستقیم به یک انبار در کویت
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/news_hut/68154" target="_blank">📅 11:15 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/news_hut/68154" target="_blank">📅 11:15 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68153">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ajZ9PRyiIgEHiYcaCcSf4Xktqjtdi05cGfK1NYe5yhZbXOnrSJDP_u1nUNSdRlR0CsxhvCnRnk6cWKKkio8pt8R-0HOefZ4N_7cC5MFvB4vOfQuEkShui0zX3FTHgOz1-e8Ue8A6XQHbHh0nAGYUtYt6fCb-k_eiUQpvtHpMzDX3d92eJJ2QyM8POmhBhOzXiL5mMEn9Jao42fHzb16UkdRMqF2WWAoxVt_FCFRkJMjQv70gJ1ybWhW-k38U-AfyzbhVp2wemjnSGVY4EN1SUuX7tdLf4VmI_5uwUzLLLsF35MsUu39rO48FOEW2U_dhemS_V4qMFYgu55zhr9aSNA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZXh20ZGPCCCYpWZlBgdmI6LU-czD_gwi_INBF_YmOtBM2Rc99ijQvKnjQTIoVFn9RaM9MePEpB5Sh2p6lNhSGKurTLOAT4uNtGTPFdRtHYhFJZ8l9UsSJcktdYwl7QvZLLvVKm1VqQzlyNKFjo9UvATOYRlPnHBFS_1cACNekpmlDeQcyPiveMcFBvz7bfyzTkFdCcW-8tKmB_Xc5hi0GXeg41inNBhIu-PuE-r3NB9-4kdPhkkpox4CE9ylGLX0FMSLzWDIkGgcYY4XIa6tY3V5HYDOTkwysIxnMdMX9t--kUc_M3mpcTXd4o4YrtoYX1_WCKEtK4ybT4Uhs5k08w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عقل بچه‌ شیعه‌ی آخوندپرست
 🤯
 🤯
@@ -1291,7 +1291,7 @@ bitly.uk/connect1xbet
 🤯
 :
 #hjAly‌</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/news_hut/68153" target="_blank">📅 10:52 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/news_hut/68153" target="_blank">📅 10:52 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68152">
@@ -1324,7 +1324,7 @@ bitly.uk/connect1xbet
 پروفسور «جیانگ» تحلیل‌گر سیاسی مشهور در گفتگو با «پیرز مورگان»، مجری معروف انگلیسی، پیش‌بینی می‌کند که «نیروهای زمینی» آمریکایی از اوایل ماه دسامبر در ایران مستقر خواهند شد
 .
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/news_hut/68151" target="_blank">📅 10:02 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/news_hut/68151" target="_blank">📅 10:02 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68150">
@@ -1338,7 +1338,7 @@ bitly.uk/connect1xbet
 ارتفاع این کوه تقریباً دو برابر کوهی است که سایت هسته‌ای فردو در آن ساخته شده است
 .
 @News_Hut</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/news_hut/68150" target="_blank">📅 09:15 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/news_hut/68150" target="_blank">📅 09:15 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68149">
@@ -1389,7 +1389,7 @@ bitly.uk/connect1xbet
 <div class="tg-text">🚨
 تلفات امشب نیروی نظامی در بمپور
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/news_hut/68144" target="_blank">📅 02:57 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/news_hut/68144" target="_blank">📅 02:57 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68143">
@@ -1459,7 +1459,7 @@ bitly.uk/connect1xbet
 💪
 گزارش های اولیه از شلیک موشک از تبریز
 @News_Hut</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/68138" target="_blank">📅 02:14 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/news_hut/68138" target="_blank">📅 02:14 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68137">
