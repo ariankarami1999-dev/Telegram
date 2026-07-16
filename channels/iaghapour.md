@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/p-ps_ij6Liw15ycEo69nWIkMdD1fD0LzfFL48-iBgHvA3fdpIhrXf9lJrkdtnNZ5HhK-qqL3sOzJxVa4JhR94oPPVcISZfCNHOJyNvd8hhFId8tpKnXN033_DyXxI-IQK_FMuZ7TlG8gmDGdZMHrYr3fHkg_iJVoIzHYmZ3PE7ppEbBbs_wrMmPsyrAopGBlS4qtBLxC_v65exHP-JY-0bxOTFdSUYHxKuvp_jblXlj_-fvbL9vsxJkHuk5gkJ3RRnSZzREoLYJJGWJhx3jKlI9IP2byiFDUtGjKrUQ2ImNI0wUxbv_4csPjNUaA_JVKe11hjCQlO5vWfBMIWNMoJA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/adk_E0gwZTl3wlfzV2NwAer68KV3CHKEsi-GHgpNBWfFFCYU7EERtk1IPudSle6WgfZULNq_06Jfti7ej5UTnleCqLzgArsKGXQp91mco2q1U5pklEu5IY0DpSYKDdflHU6f9mtN2f5dCgxJrS2S_xuSOpLO-r9LSR3hI0HsoP5oPWdjbURniA8_VrG7Bh0GktpOdG66oXmi8hRc6RXv0L40EYkfWIpjJv9PQ_fRKOth_KlltwXOV4bI32QtUrbHbl5O7vGZFW9yOM3ATvw1dgepBdtNv_ZwaEAnXwPBDPaAX8nNiY18kAWUHrNP_XGti9HABxIT4jO6wfZHyNwaTQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p>@iaghapour • 👥 52.8K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-25 07:27:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-25 09:44:46</div>
 <hr>
 
 <div class="tg-post" id="msg-2774">
@@ -334,7 +334,7 @@ Telegram Premium
 📢
 Channel:
 @SubMarket_IR</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/iaghapour/2774" target="_blank">📅 21:25 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/iaghapour/2774" target="_blank">📅 21:25 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2773">
@@ -364,7 +364,7 @@ UAC SNI Spoofer
 دانلود از گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 5.7K · <a href="https://t.me/iaghapour/2773" target="_blank">📅 21:15 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.99K · <a href="https://t.me/iaghapour/2773" target="_blank">📅 21:15 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2772">
@@ -389,7 +389,7 @@ UAC SNI Spoofer
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 6.29K · <a href="https://t.me/iaghapour/2772" target="_blank">📅 20:56 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.54K · <a href="https://t.me/iaghapour/2772" target="_blank">📅 20:56 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2771">
@@ -412,7 +412,7 @@ UAC SNI Spoofer
 هدف ما از انتشار آموزش‌ها در این کانال دقیقاً همین است که یاد بگیرید خودتان به سادگی و به صورت کاملاً رایگان این ابزارها را راه‌اندازی کنید. هیچ دلیلی وجود نداره که بابت یک کد رایگانِ کلودفلر به کسی هزینه پرداخت کنید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.27K · <a href="https://t.me/iaghapour/2771" target="_blank">📅 15:34 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/iaghapour/2771" target="_blank">📅 15:34 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2769">
@@ -427,7 +427,7 @@ UAC SNI Spoofer
 البته با وجود این خبرها، هنوز یه سری از کاربرها میگن بعضی تراکنش‌ها مشکل داره. از اون طرف هم انگار کلاً بخش وام رو بستن؛ یعنی مردم این‌همه سپرده گذاشتن به امید وام، ولی حالا که می‌خوان اقدام کنن جلوی وام رو گرفتن.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2768">
@@ -554,7 +554,7 @@ IPv6
 اگه ترافیک سرورتون رو از پشت کلودفلر عبور می‌دید، احتمال خیلی زیاد اون آی‌پی تمیزی که ست کردید روی ایرانسل محدود و کند شده، ولی روی همراه اول هنوز جوابه. تو این حالت معمولاً با اسکن کردن و جایگزین کردن یه آی‌پی تمیز جدید مخصوص همون اپراتور، مشکل حل می‌شه.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/iaghapour/2758" target="_blank">📅 21:33 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/iaghapour/2758" target="_blank">📅 21:33 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2757">
@@ -594,12 +594,12 @@ IPv6
 به جای قطع دسترسی مردم، باید امنیت سایبری شبکه‌ها را تقویت کرد و در سیاست‌های فعلی مدیریت اینترنت تجدیدنظر اساسی انجام داد.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/iaghapour/2756" target="_blank">📅 15:54 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/iaghapour/2756" target="_blank">📅 15:54 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2755">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/iaghapour/2755" target="_blank">📅 01:29 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2755" target="_blank">📅 01:29 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2754">
@@ -687,7 +687,7 @@ Nova.app
 
 <div class="tg-post" id="msg-2749">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/iaghapour/2749" target="_blank">📅 20:48 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/iaghapour/2749" target="_blank">📅 20:48 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2748">
@@ -743,7 +743,7 @@ Nova.app
 اگه خرج سرور و هزینه‌ها بالا رفته، خیلی روراست قیمت‌ها رو ببرید بالا. مشتری ترجیح میده گرون‌تر بخره ولی بدونه دقیقاً داره بابت چی پول میده، تا اینکه یواشکی از حجمش دزدیده بشه.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2743">
@@ -1009,7 +1009,7 @@ WARP کلودفلر
 Hedioum Tunnel
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/iaghapour/2728" target="_blank">📅 19:10 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2727">

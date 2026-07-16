@@ -286,12 +286,12 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/h-UKiFMutK70k3kCaNCyzw2mom-G4o5-HgVP39xXh4T8e6J8wgwCDtUIpmtZ2rLqzNiW5QOIDsLNmVHyTQGOIOQt27P6P-HzlWZSrspAbMdpGTF38WKRSu5NW704VboYLuLpYCv9NPjGACzEGQpOhxBPjhKXowGYiLMZYsSnwMtjVHixbysAq66yKTVJZlM6GfCmWAmDlavGeUDDUnUsUVbiJaiURlwXH9iP2kQyRM5ktJ5EYNBwtgbdjgxRQ5SzTAOfhkgbsEk1vSR8oqhKksEquaOGMT9GZk5yWSmzl85zj40xVCBbFDaVH70AzaXi13t7QBmV0Gq-hv6mXUx7cA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/ejz5K_dm0F3Ao4ICtmu-G43k6tF2uoLYTcth-Ch0D-zU9yaiUc81kbXkuA86a4xmpE5iNzKUiWZE4DBaL_ZitcWKzxHOMUlFwSvsrzdbJbo6-ouECoiUK8eAeem4xLVNYvUm4vxerJBak88Baud1bI08LL09e7fuqBMWKWqg9uNLaFRWP1Kcpyli9J_0pXTHvcuKD7Gn5eoeSs1x2dp8Q-D1n-WMHC_iBhiVJNlIZ4WkQX7-R2ykrJ4tDhV5WLMZXsDmlElIfu1Fg9tJBcgPHZQ41XuOdSKke4ls2j0TmVqX3FGimV8NNbAjKL7e59mExMmDgCkAQRrqFpC7CxctwQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 پروکسی</h1>
 <p>@IranProxyV2 • 👥 1.36K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-25 07:27:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-25 09:44:46</div>
 <hr>
 
 <div class="tg-post" id="msg-79">
@@ -321,7 +321,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 47 · <a href="https://t.me/IranProxyV2/79" target="_blank">📅 01:08 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62 · <a href="https://t.me/IranProxyV2/79" target="_blank">📅 01:08 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78">
@@ -352,7 +352,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 59 · <a href="https://t.me/IranProxyV2/78" target="_blank">📅 00:35 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 71 · <a href="https://t.me/IranProxyV2/78" target="_blank">📅 00:35 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77">
@@ -383,7 +383,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 72 · <a href="https://t.me/IranProxyV2/77" target="_blank">📅 23:48 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 83 · <a href="https://t.me/IranProxyV2/77" target="_blank">📅 23:48 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76">
@@ -413,7 +413,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 85 · <a href="https://t.me/IranProxyV2/76" target="_blank">📅 22:40 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 90 · <a href="https://t.me/IranProxyV2/76" target="_blank">📅 22:40 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75">
@@ -450,7 +450,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 105 · <a href="https://t.me/IranProxyV2/75" target="_blank">📅 19:07 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 111 · <a href="https://t.me/IranProxyV2/75" target="_blank">📅 19:07 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-74">
@@ -465,7 +465,7 @@
 پروکسی
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 110 · <a href="https://t.me/IranProxyV2/74" target="_blank">📅 17:06 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 115 · <a href="https://t.me/IranProxyV2/74" target="_blank">📅 17:06 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-73">
@@ -495,7 +495,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 130 · <a href="https://t.me/IranProxyV2/73" target="_blank">📅 12:48 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 131 · <a href="https://t.me/IranProxyV2/73" target="_blank">📅 12:48 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72">
@@ -526,7 +526,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 180 · <a href="https://t.me/IranProxyV2/72" target="_blank">📅 00:08 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 181 · <a href="https://t.me/IranProxyV2/72" target="_blank">📅 00:08 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71">
@@ -558,7 +558,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 162 · <a href="https://t.me/IranProxyV2/71" target="_blank">📅 23:05 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 164 · <a href="https://t.me/IranProxyV2/71" target="_blank">📅 23:05 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69">
@@ -588,7 +588,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 133 · <a href="https://t.me/IranProxyV2/69" target="_blank">📅 18:38 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 134 · <a href="https://t.me/IranProxyV2/69" target="_blank">📅 18:38 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68">
@@ -619,7 +619,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 176 · <a href="https://t.me/IranProxyV2/68" target="_blank">📅 12:15 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 177 · <a href="https://t.me/IranProxyV2/68" target="_blank">📅 12:15 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-67">
@@ -654,7 +654,7 @@
 
 <div class="tg-post" id="msg-66">
 <div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tNHjfSwFp8Cty5qQCvV_1s6HaKQw4uPszTxY3FNv3tOtAZzs_O9Qq8PytRawBUTdLZxTHsymLkMRk4zl8IiKiR26JvPxfIiPteIsQwkeHt6ynisZjdQcXhELOFnS1RsH8nzfp4DiUj2ONkEnXB7NxYmJzIHwVMCAMuCXJIIWevPqiMohTJk0WJBJL5s2LD_aeXFv8M4-x-SK9bIceAJFDtXzl2JHSuWGFz26OU1hKlKFjelZusAbUwn5g3zK5zruqfeL_fPXDCiwg5LwLnWXczxjPeZidITzkwKFgtrmpPAVDDWkHll00FzFfcPBGL9fkM8Jhpz7OteO4NS-aoRy1g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XokZU5CrAmFhDmaM6Y26_sxag6T78zmLNe7m86RNkvxjSI6Yg8qGGPQOxubo4_J2KUnDVNr497OVMHk-EBaOyCApJ1IvNQ2dKj8n3gyTfu2rSqk0SkNww3YvfGhtUtWZervCYkvVXijMuzckK2S_WS-e9_HlBQ6KhaFezQ5d8h1adOb3ZpHpTHuum8XMr37LGz--0F_IkhReVNuoSatJeiOnAlxlmiz0BgRoTNU1UVfEkWmyrDsUVqcmEf5wFopAbXUgmLDjlQEK8_P3K4M1HhjJl5WVek19qVix4RX26ZojMtzpaX8zN2P8O8yaUIH4AyiZYe5me7kH-lJTCMGhxA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همین:
 پروکسی
 پروکسی
@@ -673,7 +673,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 165 · <a href="https://t.me/IranProxyV2/66" target="_blank">📅 00:23 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 166 · <a href="https://t.me/IranProxyV2/66" target="_blank">📅 00:23 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-65">
@@ -697,7 +697,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 163 · <a href="https://t.me/IranProxyV2/65" target="_blank">📅 22:01 · 22 Tir 1405</a></div>
+<div class="tg-footer">👁️ 164 · <a href="https://t.me/IranProxyV2/65" target="_blank">📅 22:01 · 22 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-64">
@@ -729,7 +729,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 166 · <a href="https://t.me/IranProxyV2/64" target="_blank">📅 19:46 · 22 Tir 1405</a></div>
+<div class="tg-footer">👁️ 168 · <a href="https://t.me/IranProxyV2/64" target="_blank">📅 19:46 · 22 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-63">
@@ -761,7 +761,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 168 · <a href="https://t.me/IranProxyV2/63" target="_blank">📅 14:23 · 22 Tir 1405</a></div>
+<div class="tg-footer">👁️ 169 · <a href="https://t.me/IranProxyV2/63" target="_blank">📅 14:23 · 22 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-62">
@@ -788,7 +788,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 171 · <a href="https://t.me/IranProxyV2/62" target="_blank">📅 11:58 · 22 Tir 1405</a></div>
+<div class="tg-footer">👁️ 172 · <a href="https://t.me/IranProxyV2/62" target="_blank">📅 11:58 · 22 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-61">
@@ -822,12 +822,12 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 174 · <a href="https://t.me/IranProxyV2/61" target="_blank">📅 08:54 · 22 Tir 1405</a></div>
+<div class="tg-footer">👁️ 176 · <a href="https://t.me/IranProxyV2/61" target="_blank">📅 08:54 · 22 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-60">
 <div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WDtDy_GPNi_7prCBW3kvsm_jATnt1Jf52j0gJc7OXJ-6yv-clcHwadroIB3DF54hxjeodXu6Z7X6EZwfxJjFhZXJHCi9mqx8pc5vx5QzCclB1m43CnHBp1CPf2GwraShVgiS4PyYaKm2_gD3BPctXL4OI2jPwOvTUXLmZBvtZpvLsVQziwAQtI7_1T5lfnnvSU2yEEDLx6I3YrLN-BLg4Va1CHSCMo_LWZm3x-IOpqosDlOK4esDO53xHKGdffGtpq40s_GspQHtzUbkNNY9CjZlHQMMiQtTarXPfHUsFof0qYsiwZoXfTsqVbZNEpvNT06nIGMMIh7KG-E3JWr4Kw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fXoY6MaPpBhc_wcp_UhVO6KEkDv75MV2aXAwDHdQ8e-9xNtBdCQhY26Yn6EQ-mbfU6gTqb0gcNQ4zDh7k6RN3J9aJubZJXHuDZfXgjgXwtDvJjDxfdYav0AE9rLfiCFl5BY8qLdrHZ-u9hNLyVRnbcKjKKnIPqAQV-WhgFXMx1LAFpLEHHkFaw6551-Mt_KgfCOYJOavxNylw_i402kzVw1PXOA1frsSyuWaLeraLphlTMDBSTTe0jsA7HNyRgMJ0qyZuGObLool80l_vJFbSjDd2n0_is1yY3aUoqhQ_k2O2EZ9H5wYZN-K4cgBsUJXsHYDBEx-C0T054__TpH5RQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">لباس‌های فوتبال سال ۱۹۱۴
 پروکسی
 |
@@ -848,7 +848,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 180 · <a href="https://t.me/IranProxyV2/60" target="_blank">📅 01:08 · 22 Tir 1405</a></div>
+<div class="tg-footer">👁️ 182 · <a href="https://t.me/IranProxyV2/60" target="_blank">📅 01:08 · 22 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-59">
@@ -878,7 +878,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 180 · <a href="https://t.me/IranProxyV2/59" target="_blank">📅 22:50 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 182 · <a href="https://t.me/IranProxyV2/59" target="_blank">📅 22:50 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-58">
@@ -908,7 +908,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 210 · <a href="https://t.me/IranProxyV2/58" target="_blank">📅 18:50 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 212 · <a href="https://t.me/IranProxyV2/58" target="_blank">📅 18:50 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-57">
@@ -939,7 +939,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 216 · <a href="https://t.me/IranProxyV2/57" target="_blank">📅 17:05 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 217 · <a href="https://t.me/IranProxyV2/57" target="_blank">📅 17:05 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-56">
@@ -961,7 +961,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 209 · <a href="https://t.me/IranProxyV2/56" target="_blank">📅 15:30 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 211 · <a href="https://t.me/IranProxyV2/56" target="_blank">📅 15:30 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-55">
@@ -985,7 +985,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 257 · <a href="https://t.me/IranProxyV2/55" target="_blank">📅 14:51 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 259 · <a href="https://t.me/IranProxyV2/55" target="_blank">📅 14:51 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-54">
@@ -1016,12 +1016,12 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 184 · <a href="https://t.me/IranProxyV2/54" target="_blank">📅 12:13 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 185 · <a href="https://t.me/IranProxyV2/54" target="_blank">📅 12:13 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-53">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nMYvQLPipE35gNT0rcBlBtZvUF3lHQ1j8rp06A_9TduurWe14JvNjRptbS75I-FUCMvvmm1x5GHUaIAHJeiLd97x_foPU9PbZIRVWXDDK82mboonK5rzRp34BcD-T-s-V2B3x_pu4JBHb0HjDbt3O3S1HDE1TnmXLgB_NXMRmHfiTzEDRUwPOe6dld93W0otPgGlVZKEgjqMMkoOhtLSf5oUH3Xw5myuPRqCUpssg3zO8KuXpcy8ChMHFpwVAjhsB6_A4rhgAhLqU5Dp6MXH3pmMUvxvvSmjIrs6pDaAPXLzKBg6a8p_bx6o4vIyxS0Ul-pGATT77TkRy4cFXUXzdg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/km6Cu6xqxkLL-n-g_j4CcGmuEDZjLQbLrsdJe6XXjlg4ZpOvYzyimkbqd8Xg20fqVP3JTgHx-yl0R4Ie8vGSlpnth1qUWYoV71k0mwbcd5b2W8NpUeUVgHBt7n4dvV-WP5m0AMze8eAo9wK-0vUOFsjjjfZ02Zdw0FiUjqY7jqhkWyh_fLwGXdjU_b-T6mrtitWhkOHiAe9iiG5hDooQxUCyDqFVtZGLSn2C4QvrPDWlx3Rk-sYxW4T3KlKY3XCNh_9LwlW2EYl9hYsgNhIr7-Fv2Yuum2DUVu3MHeH5z9OSBjpWfidFzDCqvFTtA-EGU-XA9R8qB5enfvu7_NUWGA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شخصی که قرار بود انگلیس رو از جام حذف کنه:
 پروکسی‌
 |
@@ -1042,7 +1042,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 243 · <a href="https://t.me/IranProxyV2/53" target="_blank">📅 11:55 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 245 · <a href="https://t.me/IranProxyV2/53" target="_blank">📅 11:55 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-52">
@@ -1072,7 +1072,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 196 · <a href="https://t.me/IranProxyV2/52" target="_blank">📅 08:34 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 197 · <a href="https://t.me/IranProxyV2/52" target="_blank">📅 08:34 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-51">
@@ -1100,7 +1100,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 208 · <a href="https://t.me/IranProxyV2/51" target="_blank">📅 22:46 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 209 · <a href="https://t.me/IranProxyV2/51" target="_blank">📅 22:46 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-50">
@@ -1129,7 +1129,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 203 · <a href="https://t.me/IranProxyV2/50" target="_blank">📅 21:27 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 204 · <a href="https://t.me/IranProxyV2/50" target="_blank">📅 21:27 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-49">
@@ -1153,7 +1153,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 187 · <a href="https://t.me/IranProxyV2/49" target="_blank">📅 20:08 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 188 · <a href="https://t.me/IranProxyV2/49" target="_blank">📅 20:08 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-48">
@@ -1180,7 +1180,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 206 · <a href="https://t.me/IranProxyV2/48" target="_blank">📅 18:27 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 207 · <a href="https://t.me/IranProxyV2/48" target="_blank">📅 18:27 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-47">
@@ -1205,7 +1205,7 @@
 پشتیبانی پاسخگو
 @LOST_VPNBOT
 @LOST_VPNBOT</div>
-<div class="tg-footer">👁️ 238 · <a href="https://t.me/IranProxyV2/47" target="_blank">📅 17:08 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 239 · <a href="https://t.me/IranProxyV2/47" target="_blank">📅 17:08 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-46">
@@ -1258,7 +1258,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 300 · <a href="https://t.me/IranProxyV2/45" target="_blank">📅 15:19 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 301 · <a href="https://t.me/IranProxyV2/45" target="_blank">📅 15:19 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-44">
@@ -1277,7 +1277,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 353 · <a href="https://t.me/IranProxyV2/44" target="_blank">📅 14:24 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 354 · <a href="https://t.me/IranProxyV2/44" target="_blank">📅 14:24 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-43">
@@ -1306,7 +1306,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 419 · <a href="https://t.me/IranProxyV2/43" target="_blank">📅 12:50 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 421 · <a href="https://t.me/IranProxyV2/43" target="_blank">📅 12:50 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-42">
@@ -1316,7 +1316,7 @@
 پروکسی
 پروکسی
 پروکسی</div>
-<div class="tg-footer">👁️ 443 · <a href="https://t.me/IranProxyV2/42" target="_blank">📅 11:33 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 445 · <a href="https://t.me/IranProxyV2/42" target="_blank">📅 11:33 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-41">
@@ -1325,7 +1325,7 @@
 پروکسی
 پروکسی
 پروکسی</div>
-<div class="tg-footer">👁️ 470 · <a href="https://t.me/IranProxyV2/41" target="_blank">📅 10:45 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 472 · <a href="https://t.me/IranProxyV2/41" target="_blank">📅 10:45 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-38">
