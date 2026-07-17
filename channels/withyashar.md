@@ -288,32 +288,32 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/dL9sMLxqA4yDGGTsZhOrp9saIv2hCznBtK5sqbXZUHHLYRfW7Sa7-BvTY3nQz_tTNWeN52cYqShsiJjEPTlyXiDt0LLAoeItlT021Q9U5CYHb8E58HbvVcKiCD17jy-XDd0UbXrtTd8StZffNfVq2Y5rivJNvEdPPSEfNACBkhDVF10voTlYota7a-qR3UqpIzfHiTFPaXtxGP8xEckVMDXkhW5A98CqV0cj6_QRHIyovEwHA9VkTgGHjUbARCLMq1BHr4pLaHYgBPFMPP24cOeGnMAQsrOov_pbUxQOlstxQufGyoLGpKQTBxKP1Ovd9XFi3dV-FFrr_2CI0GYDAg.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 WarRoom with YASHAR</h1>
-<p>@withyashar • 👥 398K عضو</p>
+<p>@withyashar • 👥 399K عضو</p>
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیلinstagram.com/yasharhttps://X.com/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-26 02:56:07</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-26 04:27:25</div>
 <hr>
 
 <div class="tg-post" id="msg-18500">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">بندر یدونه زد ملت نیم متر پریدن
 @WarRoom</div>
-<div class="tg-footer">👁️ 89.5K · <a href="https://t.me/withyashar/18500" target="_blank">📅 01:31 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/18500" target="_blank">📅 01:31 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18499">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">از سیریک موشک پرتاب شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 97.8K · <a href="https://t.me/withyashar/18499" target="_blank">📅 01:22 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/18499" target="_blank">📅 01:22 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18498">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">حملات موشکی/پهپادی سپاه شروع شد و تمام پرواز ها رو هم کنسل کردند
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/18498" target="_blank">📅 01:20 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18498" target="_blank">📅 01:20 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18497">
@@ -338,7 +338,7 @@ M/T Wen Yao
 را نیز برای اطمینان از اجرای کامل این محاصره بازرسی کرده‌اند. سنتکام همچنین مدعی شد
 تنگه هرمز و آب‌های اطراف آن همچنان برای کشتیرانی آزاد و باز است، به‌جز برای شناورهایی که قصد نقض محاصره دریایی آمریکا علیه ایران را داشته باشند
 @WarRoom</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/18497" target="_blank">📅 01:09 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18497" target="_blank">📅 01:09 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18496">
@@ -348,7 +348,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/18496" target="_blank">📅 01:03 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18496" target="_blank">📅 01:03 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18495">
@@ -358,14 +358,14 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18495" target="_blank">📅 00:57 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/18495" target="_blank">📅 00:57 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18494">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">شاهزاده رضا پهلوی در مصاحبه تصویری با شبکه آی24 فرانسه گفت، امروز پس از ۴۷ سال تجربه جمهوری اسلامی، بیش از هر زمان دیگر آشگار شده که بدون تغییر این رژیم، دستیابی به ثباتی پایدار در منطقه ممکن نخواهد بود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/18494" target="_blank">📅 00:56 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/18494" target="_blank">📅 00:56 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18493">
@@ -376,7 +376,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/18493" target="_blank">📅 00:53 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/18493" target="_blank">📅 00:53 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18492">
@@ -386,7 +386,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18492" target="_blank">📅 00:53 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/18492" target="_blank">📅 00:53 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18491">
@@ -396,14 +396,14 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18491" target="_blank">📅 00:49 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/18491" target="_blank">📅 00:49 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18490">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">فارس: حمله به پل خمیر ۶ کشته و زخمی داشته
 @WarRoom</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18490" target="_blank">📅 00:49 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18490" target="_blank">📅 00:49 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18489">
@@ -414,7 +414,7 @@ M/T Wen Yao
 ⚠️
 ⚠️
 ⚠️</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/18489" target="_blank">📅 00:39 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/18489" target="_blank">📅 00:39 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18488">
@@ -427,7 +427,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/18488" target="_blank">📅 00:37 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/18488" target="_blank">📅 00:37 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18487">
@@ -444,7 +444,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/18487" target="_blank">📅 00:35 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/18487" target="_blank">📅 00:35 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18486">
@@ -455,7 +455,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18486" target="_blank">📅 00:28 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/18486" target="_blank">📅 00:28 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18485">
@@ -466,7 +466,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/18485" target="_blank">📅 00:24 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/18485" target="_blank">📅 00:24 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18484">
@@ -474,7 +474,7 @@ M/T Wen Yao
 <div class="tg-text">خبرگزاریCBS به نقل از مقام آمریکایی:
 دستورالعمل‌های مربوط به حملات آمریکا به‌روزرسانی شده‌اند تا شامل پل‌ها و اهداف ارتباطی و تدارکاتی شود، با هدف افزایش فشار بر ‌رژیم ایران!
 @WarRoom</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/18484" target="_blank">📅 00:23 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/18484" target="_blank">📅 00:23 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18483">
@@ -487,7 +487,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/18483" target="_blank">📅 00:21 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/18483" target="_blank">📅 00:21 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18482">
@@ -499,7 +499,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/18482" target="_blank">📅 00:18 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/18482" target="_blank">📅 00:18 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18481">
@@ -510,21 +510,21 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/18481" target="_blank">📅 00:18 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18481" target="_blank">📅 00:18 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18480">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">شکارچی سخنگوی ارشد نیروهای مسلح : مدیریت تنگه هرمز به قبل از ۹ اسفند بازنخواهد گشت
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/18480" target="_blank">📅 00:16 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/18480" target="_blank">📅 00:16 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18479">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">صداوسیما:تاکنون دو پل استراتژیک مواصلاتی بندر عباس، شیراز، لار و بندر خمیر بمباران شدند و تخریب شدند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18479" target="_blank">📅 00:13 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/18479" target="_blank">📅 00:13 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18478">
@@ -535,14 +535,14 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/18478" target="_blank">📅 00:11 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18478" target="_blank">📅 00:11 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18477">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">یاشار همین الان صدای انفجار بندرعباس کنار پارک جنگلی
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18477" target="_blank">📅 00:05 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/18477" target="_blank">📅 00:05 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18476">
@@ -556,12 +556,12 @@ M/T Wen Yao
 </div>
 <div class="tg-text">کهورستان بندرعباس
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18476" target="_blank">📅 00:04 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/18476" target="_blank">📅 00:04 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18475">
 <div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/18475" target="_blank">📅 23:58 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18475" target="_blank">📅 23:58 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18474">
@@ -580,7 +580,7 @@ M/T Wen Yao
 </div>
 <div class="tg-text">کهورستان بندرعباس ۳ تا پل رو زدن
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18473" target="_blank">📅 23:57 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/18473" target="_blank">📅 23:57 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18472">
@@ -588,14 +588,14 @@ M/T Wen Yao
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m9lc5WTj2so5AdkApBBnInjIQJvR86EJ1iRrnFaqUrsNu2r0xdnzdFkXGwHV0p75dA21PVv1HmyQ0Xe18JSj5VftoLT2yYVxqT4SeR4efnEew3njIohU5xxvylPuO0Ea7hrhR28XPjFe1U6jAor_k8tf5KuGruRYdmuQgIDUDrE3jaQJfNQAFoLFKYimz0P4IBCIfv16ovihL33-HszgfIOY2DE9JY-Mm6VHOW-z6AROCZjXUyESob-58Dh5y_kqh7BQ7UX0LBm7bGdeVSw7otiRxYilMzEclBMgW9trLOmMi_a-BNRheyay10nZ8FE-6KVeSVDEsMz8dsBDqBbKgw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فرودگاه ایرانشهر
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18472" target="_blank">📅 23:54 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/18472" target="_blank">📅 23:54 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18471">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">مهر: دقایقی پیش، صدای حدود ۶ انفجار پیاپی در حوالی شهرستان حمیدیه شنیده شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/18471" target="_blank">📅 23:45 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/18471" target="_blank">📅 23:45 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18470">
@@ -614,7 +614,7 @@ M/T Wen Yao
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/18470" target="_blank">📅 23:43 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/18470" target="_blank">📅 23:43 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18469">
@@ -631,7 +631,7 @@ M/T Wen Yao
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18468" target="_blank">📅 23:37 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/18468" target="_blank">📅 23:37 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18467">
@@ -642,7 +642,7 @@ M/T Wen Yao
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/18467" target="_blank">📅 23:37 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18467" target="_blank">📅 23:37 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18466">
@@ -660,7 +660,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/18466" target="_blank">📅 23:37 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/18466" target="_blank">📅 23:37 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18464">
@@ -672,7 +672,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/18464" target="_blank">📅 23:30 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18464" target="_blank">📅 23:30 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18463">
@@ -683,7 +683,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18463" target="_blank">📅 23:25 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/18463" target="_blank">📅 23:25 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18462">
@@ -694,7 +694,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/18462" target="_blank">📅 23:24 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/18462" target="_blank">📅 23:24 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18461">
@@ -705,7 +705,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18461" target="_blank">📅 23:24 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/18461" target="_blank">📅 23:24 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18460">
@@ -718,14 +718,14 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18460" target="_blank">📅 23:16 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/18460" target="_blank">📅 23:16 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18459">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">سخنگوی سنتکام: ما در پاکسازی مین‌هایی که سپاه پاسداران در هرمز کار گذاشته است، به پیشرفت‌هایی دست یافته‌ایم و ادامه میدهیم
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18459" target="_blank">📅 23:12 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/18459" target="_blank">📅 23:12 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18458">
@@ -733,7 +733,7 @@ M/T Wen Yao
 <div class="tg-text">تسنیم: دقایقی پیش تپه الله اکبر بندرعباس مجددا مورد حمله دشمن قرار گرفت.
 حجم این اتفاق به حدی بود که برق این منطقه در بندرعباس در حال حاضر قطع شده است، هدف مورد اصابت در این حمله یک دکل مخابراتی بوده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18458" target="_blank">📅 23:11 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/18458" target="_blank">📅 23:11 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18457">
@@ -744,7 +744,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18457" target="_blank">📅 23:06 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/18457" target="_blank">📅 23:06 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18456">
@@ -755,7 +755,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18456" target="_blank">📅 23:05 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/18456" target="_blank">📅 23:05 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18455">
@@ -766,7 +766,7 @@ M/T Wen Yao
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18455" target="_blank">📅 23:03 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/18455" target="_blank">📅 23:03 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18454">
@@ -778,14 +778,14 @@ M/T Wen Yao
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/18454" target="_blank">📅 23:02 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/18454" target="_blank">📅 23:02 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18453">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">بندر عباس میگن عباس هم رفت فقط خود بندر مونده
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18453" target="_blank">📅 22:58 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/18453" target="_blank">📅 22:58 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18452">
@@ -796,12 +796,12 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18452" target="_blank">📅 22:57 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/18452" target="_blank">📅 22:57 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18451">
 <div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18451" target="_blank">📅 22:55 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18451" target="_blank">📅 22:55 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18450">
@@ -812,12 +812,12 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/18450" target="_blank">📅 22:54 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/18450" target="_blank">📅 22:54 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18449">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/18449" target="_blank">📅 22:52 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18449" target="_blank">📅 22:52 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18448">
@@ -829,7 +829,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/18448" target="_blank">📅 22:52 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18448" target="_blank">📅 22:52 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18447">
@@ -847,7 +847,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18447" target="_blank">📅 22:48 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/18447" target="_blank">📅 22:48 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18446">
@@ -858,7 +858,7 @@ M/T Wen Yao
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/18446" target="_blank">📅 22:46 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/18446" target="_blank">📅 22:46 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18445">
@@ -869,7 +869,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18445" target="_blank">📅 22:45 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/18445" target="_blank">📅 22:45 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18444">
@@ -880,7 +880,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18444" target="_blank">📅 22:45 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/18444" target="_blank">📅 22:45 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18443">
@@ -891,7 +891,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/18443" target="_blank">📅 22:41 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/18443" target="_blank">📅 22:41 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18442">
@@ -902,7 +902,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/18442" target="_blank">📅 22:35 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/18442" target="_blank">📅 22:35 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18441">
@@ -913,7 +913,7 @@ M/T Wen Yao
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/18441" target="_blank">📅 22:34 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18441" target="_blank">📅 22:34 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18440">
@@ -926,7 +926,7 @@ M/T Wen Yao
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/18440" target="_blank">📅 22:31 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18440" target="_blank">📅 22:31 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18439">
@@ -941,7 +941,7 @@ M/T Wen Yao
 <div class="tg-text">ویدیو از بندرعباس؛ مجدد همون دکل رو با 4 تا موشک زد
 اینبار واقعا شدید بود
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/18439" target="_blank">📅 22:31 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18439" target="_blank">📅 22:31 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18438">
@@ -953,7 +953,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/18438" target="_blank">📅 22:26 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18438" target="_blank">📅 22:26 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18437">
@@ -965,7 +965,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/18437" target="_blank">📅 22:26 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/18437" target="_blank">📅 22:26 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18436">
@@ -983,13 +983,13 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/18436" target="_blank">📅 22:25 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/18436" target="_blank">📅 22:25 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18435">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">هم اکنون دوباره سمت ایستگاه رادیویی پیامبراعظم بندر عباس @WarRoom</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/18435" target="_blank">📅 22:24 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/18435" target="_blank">📅 22:24 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18434">
@@ -1003,7 +1003,7 @@ M/T Wen Yao
 </div>
 <div class="tg-text">بندر عباس
 @WarRoom</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18434" target="_blank">📅 22:21 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18434" target="_blank">📅 22:21 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18433">
@@ -1014,7 +1014,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/18433" target="_blank">📅 22:15 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/18433" target="_blank">📅 22:15 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18432">
@@ -1025,13 +1025,13 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18432" target="_blank">📅 22:14 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18432" target="_blank">📅 22:14 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18431">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">غروبه هرمز @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/18431" target="_blank">📅 22:11 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/18431" target="_blank">📅 22:11 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18430">
@@ -1053,7 +1053,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18430" target="_blank">📅 22:07 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/18430" target="_blank">📅 22:07 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18429">
@@ -1063,13 +1063,13 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/18429" target="_blank">📅 22:04 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/18429" target="_blank">📅 22:04 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18428">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">لطفاً تا فردا صبح هیچگونه سؤال سیاسی اجتماعی و تحلیلی نپرسید. لطفاً در مورد اینترنت خبریی ندهید. لطفاً صدای جنگنده ها را نگید. لطفاً فقط گزارش صدای انفجار رو بدید و تصاویر و عکس. همچنین پیامها را فقط همیشه در یک متن بفرستید، نه ده پیام جداگانه.</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18428" target="_blank">📅 22:03 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18428" target="_blank">📅 22:03 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18427">
@@ -1077,12 +1077,12 @@ M/T Wen Yao
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vff7fqWUCnMZ6Uy04y7_PHhN7DwDWqG2n98emQz-jINEel7OdapTCcWqeo8_HQAEYoQwHtIrcl9KxtCx6iqEuWk06OyiTJCZOxX1HHHfmcDRVHvMWiyeCRq0-T5JpzzhKDGdw26I9SP5j_hzIZAf4rVxYZYVWlMmxaHQJrd5M4UNsHP2V0aylhj2Ku98B9_YjIDY2Nu_AzP1bJ6oMecR_s4JnhL3thIdFgZbZa2zXUnuPKctBihALg5U8xpn5BRWfUptzHROHYvloeTTzw7gtau7YK9NNqbVU3cDRgY53IpriqUpJ0kwOXZkr8NHXgHX7wIerL3IxWi65nwa2AyNDw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هم اکنون دوباره سمت ایستگاه رادیویی پیامبراعظم بندر عباس
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/18427" target="_blank">📅 21:59 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/18427" target="_blank">📅 21:59 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18426">
 <div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/18426" target="_blank">📅 21:58 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/18426" target="_blank">📅 21:58 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18425">
@@ -1090,19 +1090,19 @@ M/T Wen Yao
 <div class="tg-text">ادعای ترامپ مبنی بر آزادی یک زندانی آمریکایی از ایران تکذیب شد
 ترامپ در حالی این ادعا را مطرح کرده است که با توجه به بررسی‌های صورت گرفته هیچ زندانی محکوم و یا جاسوس آمریکایی با مشخصاتی که ترامپ اعلام کرده و یا با هر مشخصات دیگری از زندان‌های ایران آزاد و یا تبادل نشده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/18425" target="_blank">📅 21:57 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/18425" target="_blank">📅 21:57 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18424">
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">بندر ادامه دارههههه ۵-۶ تا شد</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/18424" target="_blank">📅 21:54 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/18424" target="_blank">📅 21:54 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18423">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">ولی باید ببینیم امشب به اصفهان میرسه یا نه الان مرکز هدف اصفهانه کوه کلنگ</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/18423" target="_blank">📅 21:52 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/18423" target="_blank">📅 21:52 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18422">
@@ -1112,13 +1112,13 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18422" target="_blank">📅 21:51 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/18422" target="_blank">📅 21:51 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18421">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">تهران رو شاید بزنند ولی‌ نه به حالت زارتان زورتان به همون پارچین اینا بزنند فککنم</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18421" target="_blank">📅 21:51 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18421" target="_blank">📅 21:51 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18420">
@@ -1129,7 +1129,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/18420" target="_blank">📅 21:50 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18420" target="_blank">📅 21:50 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18419">
@@ -1140,7 +1140,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/18419" target="_blank">📅 21:50 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/18419" target="_blank">📅 21:50 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18418">
@@ -1153,7 +1153,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/18418" target="_blank">📅 21:50 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/18418" target="_blank">📅 21:50 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18417">
@@ -1164,7 +1164,7 @@ M/T Wen Yao
 🚨
 🚨
 ) @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/18417" target="_blank">📅 21:49 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/18417" target="_blank">📅 21:49 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18416">
@@ -1185,7 +1185,7 @@ M/T Wen Yao
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/18416" target="_blank">📅 21:46 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18416" target="_blank">📅 21:46 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18415">
@@ -1196,7 +1196,7 @@ M/T Wen Yao
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/18415" target="_blank">📅 21:45 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/18415" target="_blank">📅 21:45 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18414">
@@ -1216,12 +1216,12 @@ M/T Wen Yao
 کارولین لیویت:
 رئیس جمهور و معاون رئیس جمهور دقیقاً در یک جبهه هستند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18414" target="_blank">📅 21:44 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/18414" target="_blank">📅 21:44 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18413">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/18413" target="_blank">📅 21:22 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/18413" target="_blank">📅 21:22 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18412">
@@ -1240,14 +1240,14 @@ M/T Wen Yao
 🚨
 )
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/18412" target="_blank">📅 21:13 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18412" target="_blank">📅 21:13 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18411">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">کانال ۱۵ اسرائیلی: ایالات متحده در حال آماده‌سازی برای گسترش حملات خود علیه ایران از نظر دامنه و تعداد است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/18411" target="_blank">📅 20:51 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18411" target="_blank">📅 20:51 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18410">
@@ -1255,34 +1255,34 @@ M/T Wen Yao
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eGq6hpcIV9-Qt4BWtmnDDs40F9_LKhjsehha3obVvnMokQgDygUaPY_BXoQRM0mDis69PEBF8rL4b2dpunJ2h95XViDXtIU6Y7eiZD4ZyvBO2jkuWjyngGsvGQyWHtRy46rXYlBtas_mJPYX9Zpk_iRnPmcrH0LE96K00kd7d3BT88guCQ4QE006YzVwiirniahYmK_18uZHgDy9uJaipKoQtRp93WHwCistUEQ0idk6CF_ZzNhqibdF11ZxTLDMDyaGoC5No2A-m-sc1N8NLV8WRuDeuuFqvnJ6zoXeqX0Sp3TI1GCU9xyG7xRUodvFX6PgQpqnA_uTJb_1DcTbiA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ارتش اسرائیل : فرمانده اطلاعات نظامی حماس در تیپ خان یونس را با انفجار خودرو در جنوب غزه به هلاکت رساندیم
 @WarRoom</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/18410" target="_blank">📅 20:46 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18410" target="_blank">📅 20:46 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18409">
 <div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">اتوبوس …. ببوس
 😂</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/18409" target="_blank">📅 20:40 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/18409" target="_blank">📅 20:40 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18408">
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">رویترز:حمله بزرگ علیه ایران نزدیک است
 @WarRoom</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/18408" target="_blank">📅 20:32 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/18408" target="_blank">📅 20:32 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18407">
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18407" target="_blank">📅 20:31 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/18407" target="_blank">📅 20:31 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18406">
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">رویترز رو تبر‌ زدن خبر دبی فیکه
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18406" target="_blank">📅 20:28 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/18406" target="_blank">📅 20:28 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18405">
@@ -1304,14 +1304,14 @@ M/T Wen Yao
 رضا پهلوی:
 سرکرده‌های رژیم آخوندها در تهران و پناهگاه‌های امن پنهان شده‌اند، اما سربازان وظیفه را در پادگان‌های آسیب‌پذیر رها کرده‌اند. او با بیان اینکه حکومت جان نیروهای نیابتی خود را بر جان ایرانیان ترجیح می‌دهد، از سربازان خواست جانشان را برای این نظام به خطر نیندازند و از خانواده‌ها نیز خواست تا حد امکان مانع اعزام فرزندانشان به خدمت سربازی در شرایط کنونی شوند. شاهزادت همچنین از اقدام مردم زاهدان و مناطق اطراف در کمک‌رسانی و اهدای خون قدردانی کرد و تأکید کرد جوانان ایران نباید قربانی بقای رژیم شوند، زیرا آینده کشور به این نسل نیاز دارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/18403" target="_blank">📅 19:35 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/18403" target="_blank">📅 19:35 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18402">
 <div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">حسن روحانی : قبل از آخرین جلسه ای که قرار بود تمام مسولین نظام خدمت رهبر برسند (رمضان ۱۴۰۴) احساس خطر کردم و پس از تلاش های فراوان و فرستادن پیغام های مختلف برای شخص رهبر و تیم دفتر ایشان، موفق شدم جلسه را لغو کنم
 @WarRoom</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/18402" target="_blank">📅 19:28 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/18402" target="_blank">📅 19:28 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18401">
@@ -1325,14 +1325,14 @@ M/T Wen Yao
 </div>
 <div class="tg-text">بهبهان ، خوزستان
 @WarRoom</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/18401" target="_blank">📅 19:27 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/18401" target="_blank">📅 19:27 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-18400">
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">صداوسیما: عصر امروز یک پرتابه دشمن به روستای مسن قشم اصابت کرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/18400" target="_blank">📅 19:16 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/18400" target="_blank">📅 19:16 · 25 Tir 1405</a></div>
 </div>
 
 <hr>
