@@ -292,19 +292,19 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-26 17:40:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-26 19:23:01</div>
 <hr>
 
 <div class="tg-post" id="msg-846">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">دوستانی که اکانت کلاد خریدند و تجربه موفق دارند و بن نشده لطفا تو دایرکت همین کانال اعلام کنید.   با توجه به نظر سنجی بالا من نمیبینم توی خودم که ماهانه به ۱۰۰۰ نفر بفروشم. نهایت میشه ۱۰۰ نفر با کلی دردسر. میشه حداکثر ماهی ۲۰۰ دلار با کلی مکافات.   پس من ورود…</div>
-<div class="tg-footer">👁️ 925 · <a href="https://t.me/mohsentavoosiseo/846" target="_blank">📅 14:46 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 943 · <a href="https://t.me/mohsentavoosiseo/846" target="_blank">📅 14:46 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-844">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">دوستانی که اکانت کلاد خریدند و تجربه موفق دارند و بن نشده لطفا تو دایرکت همین کانال اعلام کنید.   با توجه به نظر سنجی بالا من نمیبینم توی خودم که ماهانه به ۱۰۰۰ نفر بفروشم. نهایت میشه ۱۰۰ نفر با کلی دردسر. میشه حداکثر ماهی ۲۰۰ دلار با کلی مکافات.   پس من ورود…</div>
-<div class="tg-footer">👁️ 1.2K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.21K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-843">
@@ -321,13 +321,13 @@
 <div class="tg-post" id="msg-842">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
-<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/mohsentavoosiseo/842" target="_blank">📅 15:25 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.54K · <a href="https://t.me/mohsentavoosiseo/842" target="_blank">📅 15:25 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-841">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
-<div class="tg-footer">👁️ 1.42K · <a href="https://t.me/mohsentavoosiseo/841" target="_blank">📅 15:22 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.43K · <a href="https://t.me/mohsentavoosiseo/841" target="_blank">📅 15:22 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-840">
@@ -362,7 +362,7 @@
 <div class="tg-text">پاسخ سوال بالا، قسمت ششم
 در تجارت، تواضع اشتباه هست.منت گذاشتن بسیار مهم و جایز هست. ترکیب تضادها در کار.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.03K · <a href="https://t.me/mohsentavoosiseo/837" target="_blank">📅 14:55 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.04K · <a href="https://t.me/mohsentavoosiseo/837" target="_blank">📅 14:55 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-836">
@@ -384,7 +384,7 @@
 <div class="tg-post" id="msg-834">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
-<div class="tg-footer">👁️ 988 · <a href="https://t.me/mohsentavoosiseo/834" target="_blank">📅 14:49 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 990 · <a href="https://t.me/mohsentavoosiseo/834" target="_blank">📅 14:49 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-833">
@@ -403,7 +403,7 @@
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oqIGGTKC-Jl26puhpEmWDJReX7fCwmZEGRUH8h3OP1oTxkVguk7NWUfZqvS8kTrqUanG8Kc9rAprJTPXEMXvv5iM99CaiBAY5VTEGxzXQiRYqgMkD6oUPQXPvBTRuQdZd-4A6NSTaFRBklxAdMRH-9VhlnPcTR9SBJYSA1QQMF-Q03j2jVPx_m3_G5siCJVeHbubt2SpxTQwo6QIuZ9jw2QdgBDSsGCMF5MM2p-pa6WJ1uTrZo4Khq2vjqJo8ZSHr9Awblhu2oqlJgZw4xXqIB8W-mndIISbxKVN7q6XcYRzeNnP1tI7RTUgSUCuPvHRbVWKbbJyLuRZ8RUT-6rfEg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
-<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/mohsentavoosiseo/830" target="_blank">📅 13:50 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.35K · <a href="https://t.me/mohsentavoosiseo/830" target="_blank">📅 13:50 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-829">
@@ -418,7 +418,7 @@
 #پروژه
 #پروژه_گرفتن
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.33K · <a href="https://t.me/mohsentavoosiseo/829" target="_blank">📅 13:48 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/mohsentavoosiseo/829" target="_blank">📅 13:48 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-828">
@@ -885,7 +885,7 @@ pinned «
 
 <div class="tg-post" id="msg-761">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aiWB7rWCUGLXJBgXfPPonwzwlOIqPIrX73uDhBcJkKe7LR_f8EQoveFIaLYbRcIqDjvegxPcNqC8BeHcwEjNNMvztH71OOfQItzDm8UrmXYUWCulXCwlW2XIpx51kWrHbwR8cEjalbldiN6vWUOyODev8Lpy0GwhP0k2v7ceBpdGPnP0OVI2CEAsbw0wb2puQtGPUPADQZbsOy3w5ZPG6C2F4DcKfLIR1uvNLitAPJtDTbZBS1cEIC-hKtVVqS-gX3aXbqnjw6RxcUo-ZY-XE-Duo5JVAi-AGXM56pGKogn0SPrvyr4A1HJ9Hxu--pfMzk9mmHP-QmxVnMx8PGUgHQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e5Q7GEsbZdFQ3xaMyNoqvWeTMzmHqzKINUWkbpn5k6hAIxd8H2EuChvs2UPysFoe_Rtw7dtOLkhbqFc6-wB-7Me5Ly8RpqfoS_ee-mQ5j-OzEdLlCj6i_14SOF-14_codkHa_qFh0dVtfxj1_MZeJ8qy6rp9F9Z2lk8AAhT4052LXqF4lKeH9tjWZaTbD6IYhj72HloTaZSxvkaFt7ssUMFpIZ0bTen24sNcMwPtaddqANoezTBX9Cdn7JM6W59TrtGzB_W1WYDOUXXC4Aq7ORZqEL-n5xaqSeJNCtWbL9v9GSqvY9j27UotugQSXBPuzYW0HHyhSJlZlEIFdeSzEA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال دانشجو:
 من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده
@@ -1013,7 +1013,7 @@ pinned «
 
 <div class="tg-post" id="msg-744">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c332bNHA8eaLxZg5ohCKdOtBweFnlXkOQZh7hoLzqfZ4vY_8XHOpnVlj3GScUOwL0qjc3s-rwwn9pPwDE7RkxrQVk9z5_uiqbUXjGmBFaZFiWjq1zdemdFhRsGU_0bYFHXvt_HdqMSyRouIIlxTA9W5s1i3wqAglkFPvldwAWAj8rh5dld7sBDtaac2rO6mrFzU3ACDVvxZUXr5IyEPzBpsw_V5p2BQkXdN-XpUf6qPInOg9Fc5HtMO8njYu4xP-gqy7X37qVh-D-sFaqT3wOWLYXH3OlQzofM-HK5cNWyCGEPJvIt5UwcerDYR5qMSvS_7mCYK-fGqGID6ldEmv7w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Rn8e7r1HIYu7_gdwH4Pbf--Q0yrvrM_3v0A9P_qHjK85XBQVhGG1c37QYnGfWc838Ys8U7H-ADl7Bw5J8vgISAFB3C9ldlkG6iyG7v0-KPb1PVUW52nlWvdzJojp1ZY8ojYiY36WSiglASzV7j0uszq7saKwH7hmWFYvaFt6yYm0KdaUuQPYzLJKRxfYG44bEHtcPjpKv65Dm1u-nZ-qIU2jWecx-mGaj64cT_7veMciJ8amginpFq3FC0k4oL0bUXgJOgtdMK0VTGiT_0j5iDz3KjoLMBXFCiqZqeQtRik7x_ExZ0AMeT-fZdbv69dk-m47lFYyikE37SyYcYJaEw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شما هم فکر می کنید این بنده خدا و این بندگان خدا، ساده اند؟ یا من تنهام؟</div>
 <div class="tg-footer">👁️ 2.37K · <a href="https://t.me/mohsentavoosiseo/744" target="_blank">📅 09:03 · 31 Khordad 1405</a></div>
 </div>
@@ -1058,7 +1058,7 @@ https://t.me/mohsentavoosiseo/739
 <div class="tg-post" id="msg-739">
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/mohsentavoosiseo/739" target="_blank">📅 17:09 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/mohsentavoosiseo/739" target="_blank">📅 17:09 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-738">
@@ -1109,7 +1109,7 @@ https://t.me/mohsentavoosiseo/739
 
 <div class="tg-post" id="msg-731">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y-PQt0I9BVjELSmSmQUEHm9MqtNp1nU5KGLOH8ktinhPTm53snLC9HzXB_lPPEshJiSrbqbtwXx7VPFzxS1zIPMH79ae2kyHVfpJcOwQVRqmb0LT6Sallv_IA_dNzzbjQK-XppH8K3QUrbiVW_tYhMJbI1T2sTMR2s6DBO5J_7jKneq21ltZJ61sdZjQaV3LblF1a78lrqtTzgjOxKs3Os9cK1TCrp_8XOPGDEByxb11uMMs1gf10Muky1yMjEL8g8lB3lfvINFPtN0XgwmOpvhQ02OCSZznv2Y4lXRd1gULX9iS27DwbA2mwGBTxJQKCxQbZT9CWvusfKYVyi1LZg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NDOqYZYEcQnEStcZtXU7jLUYXJ6OKXHI36doi-1vR_v2BW_mEZ6vMRotC1VHiEjgUDrVriABPaiQgmxV5t00VG0fqQSt2wK3e24D1pJI2FSnj-WkoScKaWGlrUSJtVS7Hj6eAHr2myqPgdROiscIsERyWkh2fDoBChh_8gTE4eOjr6oMXPzFvUmLKN0Ec182rhzwxgBlcwcBTAizfdgt9uiM2WNgHkeGV4owFE2RUclLuztVL9HVaO9SXsfq9PnThELcBrH3VvqiaSQ6FW60gpGxcTUhnfhqKe4ax1-C9B7tON8Aay-pbYaEU11Ntr3ORTJJyek4Z0MsNVbaT0G1cQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک دوستی دارم که همیشه فکر میکنه من یه تکنیکی بلدم که انجام میدم سایت ها رشد میکنن. هربار فکر میکنه دارم میپیچونمش و نمیخوام بهش یاد بدم!
 همیشم این رو مثال میزنه. این برای سایتی هست که من فقط یک ساعت مشاوره و راهکار دادم. اوایل فوریه. حدودا یک ماه قبل از جنگ دوم(اسفند).
 بازار آمریکاست و زبان انگلیسی. و فعلا هم خدماتش در یک ایالت هست فقط.
