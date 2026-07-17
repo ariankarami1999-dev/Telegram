@@ -286,12 +286,12 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/ejz5K_dm0F3Ao4ICtmu-G43k6tF2uoLYTcth-Ch0D-zU9yaiUc81kbXkuA86a4xmpE5iNzKUiWZE4DBaL_ZitcWKzxHOMUlFwSvsrzdbJbo6-ouECoiUK8eAeem4xLVNYvUm4vxerJBak88Baud1bI08LL09e7fuqBMWKWqg9uNLaFRWP1Kcpyli9J_0pXTHvcuKD7Gn5eoeSs1x2dp8Q-D1n-WMHC_iBhiVJNlIZ4WkQX7-R2ykrJ4tDhV5WLMZXsDmlElIfu1Fg9tJBcgPHZQ41XuOdSKke4ls2j0TmVqX3FGimV8NNbAjKL7e59mExMmDgCkAQRrqFpC7CxctwQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/GRobhe22u0NC6pElkUz5tRmZ2l8g4lD65A2-N8CjaiY5lvDOv9ESif1zs1E8NWD7Js8q8aHv5ouXIaDKmzkdVPUutxmfCbcKcGWFo7X1Hk0MzC1e_85zeRFvsl5Et8hQzKR0u3P53XOrHuhyaN1xYwPbflG3fd1J_EycWyU7q4QAGXJCQJTM9csIkjulxKu_rj8Zthdb3egW4ynq-roAzQU1u6ISbelKw0cwLKP02KuHfHnMuYh2WN7BUhpNlLEzGIR8VA3ZunmzAfBlrjPWWLJRlQtjIaAf3Oh9RTysMauUVsLQc58XOeLm8x2sq8wPLIzqgHOyuxWPrkiEz4miqA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 پروکسی</h1>
 <p>@IranProxyV2 • 👥 1.36K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-26 07:27:51</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-26 09:43:41</div>
 <hr>
 
 <div class="tg-post" id="msg-82">
@@ -303,7 +303,7 @@
 پروکسی | پروکسی | پروکسی
 پروکسی | پروکسی | پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 76 · <a href="https://t.me/IranProxyV2/82" target="_blank">📅 19:11 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78 · <a href="https://t.me/IranProxyV2/82" target="_blank">📅 19:11 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81">
@@ -333,7 +333,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 103 · <a href="https://t.me/IranProxyV2/81" target="_blank">📅 17:34 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 105 · <a href="https://t.me/IranProxyV2/81" target="_blank">📅 17:34 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80">
@@ -363,7 +363,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 123 · <a href="https://t.me/IranProxyV2/80" target="_blank">📅 13:47 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 125 · <a href="https://t.me/IranProxyV2/80" target="_blank">📅 13:47 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79">
@@ -424,7 +424,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 136 · <a href="https://t.me/IranProxyV2/78" target="_blank">📅 00:35 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 137 · <a href="https://t.me/IranProxyV2/78" target="_blank">📅 00:35 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77">
@@ -455,7 +455,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 139 · <a href="https://t.me/IranProxyV2/77" target="_blank">📅 23:48 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 140 · <a href="https://t.me/IranProxyV2/77" target="_blank">📅 23:48 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76">
@@ -485,7 +485,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 125 · <a href="https://t.me/IranProxyV2/76" target="_blank">📅 22:40 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 126 · <a href="https://t.me/IranProxyV2/76" target="_blank">📅 22:40 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75">
@@ -726,7 +726,7 @@
 
 <div class="tg-post" id="msg-66">
 <div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XokZU5CrAmFhDmaM6Y26_sxag6T78zmLNe7m86RNkvxjSI6Yg8qGGPQOxubo4_J2KUnDVNr497OVMHk-EBaOyCApJ1IvNQ2dKj8n3gyTfu2rSqk0SkNww3YvfGhtUtWZervCYkvVXijMuzckK2S_WS-e9_HlBQ6KhaFezQ5d8h1adOb3ZpHpTHuum8XMr37LGz--0F_IkhReVNuoSatJeiOnAlxlmiz0BgRoTNU1UVfEkWmyrDsUVqcmEf5wFopAbXUgmLDjlQEK8_P3K4M1HhjJl5WVek19qVix4RX26ZojMtzpaX8zN2P8O8yaUIH4AyiZYe5me7kH-lJTCMGhxA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pwJSXX0ENy4z68C9ryJbkhcCGyc-mcUV1ItBKf2Pi1b3ezRSvSY0VGPXa3ytnf5t3ff4wcK-MzDPDQkQ23dwiB1Ev5aEmPI2QrqWrs-b89jOeaI42pS6voqiHLTMq9uCog644AzKYRL41Vb48suwCjj6lyuZT-qs6EVhtsTadGNAyFdgyzNicfZPQeN28j7rNFcADfWxB1BSN0TWaBiNumjKFHK96_wxaim_TK73FuzfrJdCSr9WAVw2lfhkbJDpSXOKf3heeWq4TVP_Du6jaXoN1xKPrPiCE9N-Cga3RrhJaUJjHABnYRXsSnPS0AZF1YTbjmka_lKWWN1X_HH6eQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همین:
 پروکسی
 پروکسی
