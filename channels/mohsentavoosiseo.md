@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-27 22:20:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-27 23:29:14</div>
 <hr>
 
 <div class="tg-post" id="msg-846">
@@ -304,7 +304,7 @@
 <div class="tg-post" id="msg-844">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">دوستانی که اکانت کلاد خریدند و تجربه موفق دارند و بن نشده لطفا تو دایرکت همین کانال اعلام کنید.   با توجه به نظر سنجی بالا من نمیبینم توی خودم که ماهانه به ۱۰۰۰ نفر بفروشم. نهایت میشه ۱۰۰ نفر با کلی دردسر. میشه حداکثر ماهی ۲۰۰ دلار با کلی مکافات.   پس من ورود…</div>
-<div class="tg-footer">👁️ 1.32K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.33K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-843">
@@ -342,7 +342,7 @@
 #تله
 #عیب
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/mohsentavoosiseo/840" target="_blank">📅 15:11 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.4K · <a href="https://t.me/mohsentavoosiseo/840" target="_blank">📅 15:11 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-839">
@@ -354,7 +354,7 @@
 <div class="tg-post" id="msg-838">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
-<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/mohsentavoosiseo/838" target="_blank">📅 14:57 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/838" target="_blank">📅 14:57 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-837">
@@ -476,7 +476,7 @@ https://t.me/mohsentavoosiseo/826
 
 <div class="tg-post" id="msg-822">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X5AKMJEL0T1Q6HaUrlj7zPGTdKFdkXFaaw8q1zIELGmFnG0UNZdHJL6Oqfb6R2d9nf3G0KgG76VvmNMhoVpRAvTI3QKjx_WDVjLmDWTukrOdlZTSuVKbAfJY7y77hpWoYzIm9T30YXU6jhzQSZi-R-_MuVzFbEyvGbi5t-1b7c1IYEpqSGG3RP5Go0sjLSTdt0tKnw19sdvyZGGDNdD5W4_RYYxkMI36KQHcFpttxV_x3iJ-UeapLT7RG-Tq0W_h9NaLFvW2WLOl67wLa0YwHzaSf8qMl638QAIuNHjyndRSuOfwGQWDfeLAgwnmHoNYxIGAkQs6y6OSx3KZrcuJjQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MuRCdF018OzAzr4vv6gxBMwImPV1b5ulTjVz3dRKVYawpKauSTjA4cSxexpzojIFGhAsZ34sLUkyoN1QUk0orbcp0hoLv9wh9ycZc32m67TbpgSCzRUGFn7nw62T6h4rKobgK2jF6JtQTo5ayeBWQKjFBmTPVFUhX4_2_25ObzncVXKkD3BBcHb6I0Vezz6l-7QvfscIIuIJ3Qn38F3s51iRjnrlDTJx-XHxGPGQnvkMb23e_aDQ9m1GiOAsXqLK0bgFSZASaTSi3rg36dWB7JURBZ1QwM26CO5_uO7j_OaQ8TTIpRS48HD-kIh91M9kYmYmTNNYUjbLVwEeXo_HrQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بخاطر احترام به حقوق تولید کننده تصویر
 لینک پستش
 رو میذارم. ولی حرفم خود تصویر نیست.
@@ -545,7 +545,7 @@ https://t.me/mohsentavoosiseo/267
 2- یا نمیتونه بفروشه اصلا و جمع میکنه
 3- یا نارضایتی از محصول یا خدماتش ایجاد میشه که نمیتونه حلش کنه(این ها سومی هستند و حداقل تو یک و دو گیر نکردند).
 این نکته برای خود اون کسب و کار و کسانی که دریچه دریافتشون بازه، میلیون دلاری ارزش داره. باید میلیارد ها تومن یا صد ها هزار دلار از دست بدن تا این بازخورد رو از زبون یه مشاور که ایراد کسب و کارشون رو میگه بشنون.</div>
-<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/mohsentavoosiseo/812" target="_blank">📅 14:13 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/mohsentavoosiseo/812" target="_blank">📅 14:13 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-811">
@@ -586,7 +586,7 @@ https://t.me/mohsentavoosiseo/267
 <li>✓ من از بعضی AI ها رو از جایی میخرم که خیلی کمتر از قیمت دلاریش در میاد. اختصاصی هم هست و خوشحالم.</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 3.52K · <a href="https://t.me/mohsentavoosiseo/809" target="_blank">📅 15:55 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.53K · <a href="https://t.me/mohsentavoosiseo/809" target="_blank">📅 15:55 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-808">
@@ -640,7 +640,7 @@ https://t.me/mohsentavoosiseo/267
 یا مثال دیگه یکی از ویژگی های پلاگین ما Buy X Get Y هست که این کلمه خیلی سرچ میشه. ما نمیتونیم اینو جدا کنیم از پلاگین و یه پلاگین یا محصول جدا بدیم ولی رقبا اومدن یه پلاگین نوشتن فقط buy x get y انجام میده و اون الان بالاتر از ماست توی نتایج در حالی که این یه ویژگی خیلی کوچیک از پلاگین بزرگ ماست.
 وقتی هم بلاگ مینویسیم برای این ویژگی توی بلاگ مجبوریم اینفورمیشنال صحبت کنیم و از روش های مختلف غیر از پلاگین خودمون هم حرف بزنیم که بتونیم با رقبایی که فقط بلاگ وردپرسی هستن رقابت کنیم. در نتیجه نرخ تبدیلمون خیلی کم میشه.
 من احساس میکنم آموزشی که جناب طاووسی میدن برای این مدل بیزینس ها مثل سایت ما یه آپدیت نیاز داره که نیاز هست برای سایتایی که کم محصول هستن و محصولاتشون قابل تفکیک و توسعه به صفحات مختلف نیست چیکار باید بکنن؟</div>
-<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/mohsentavoosiseo/800" target="_blank">📅 19:45 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.06K · <a href="https://t.me/mohsentavoosiseo/800" target="_blank">📅 19:45 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-799">
@@ -719,7 +719,7 @@ vibe coding - وایب کدینگ
 مابقی دستورهایی که میخوام در فایل روبوت بزارم مثل قبل هست؟ مثلا disallow کردن سرچ ها صفحه چک اوت و ...
 فقط ادرس لاگین رو دیگه قرار ندم
 درسته؟</div>
-<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/mohsentavoosiseo/792" target="_blank">📅 12:50 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/mohsentavoosiseo/792" target="_blank">📅 12:50 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-791">
@@ -733,7 +733,7 @@ vibe coding - وایب کدینگ
 <div class="tg-post" id="msg-790">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">سوال دانشجو:  و اینکه یکسری تعاریف هست برای سئو هست. این ها چی هستند؟  Topical Authority Internal Linking Strateg Site Architecture  Content Hub / Pillar & Cluster Information Architecture + Semantic SEO Link Equity Flow + Topic Authority Reinforcement</div>
-<div class="tg-footer">👁️ 2.33K · <a href="https://t.me/mohsentavoosiseo/790" target="_blank">📅 00:39 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/mohsentavoosiseo/790" target="_blank">📅 00:39 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-789">
@@ -880,18 +880,18 @@ pinned «
 <div class="tg-post" id="msg-762">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">سوال دانشجو:  من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده و من باید بهش تضمین بدم تو قرارداد بیارم که رتبه میگیره صفحه اول. این حرفش منطقیه؟</div>
-<div class="tg-footer">👁️ 2.95K · <a href="https://t.me/mohsentavoosiseo/762" target="_blank">📅 13:34 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.96K · <a href="https://t.me/mohsentavoosiseo/762" target="_blank">📅 13:34 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-761">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TvgwPql-N8XB2sdYN3-r38L6-QA9ICsEGGCDet-Sw6e8LmcIJK6RlZcG91ftzqvpJweC3BLbNNJJcQMkQjhO9aet13wsorOwoAtoL3Bnl05IJl4B8th19GrgEtLPOvbnSQFVMp1hxL5MjOu9EC4qXpHDCQsxqKRibMflDAoErmToXlxnFiVz87ki5p2N_D47jRA58UcukhQGSxcV22PyVD4mBTmO7sblXD7CzjR-S9BJW60FfaK_iKEz3dfNJLTEulXYDCkVWrDBNYLNOho2fCVItF6KSjaySU5KkzXdtjXmrWiAMvhiuoE61_mRvLHhjV4D9KAOcOlJw6Sr3zovgQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g4J9B3rQRSJWB_Vp8fEyFoQtBXnMthsPo3n2Jxm6nGujdIw9u30WVyGazniDqmhflkVR0B9YWqFy1qG47T0hnmxwKRxoGMbZLChX4J67RNYSN9cc65XybLBFNgiL3KSYjMCjD4XVSbjKmkHFll2gujDMWEfl3Jk5JDSShDGkCVgpSpQQQq4q7uIeBiJdtaBfvZ2lXjKqosmc4aUg1FEBFuWArmE4y8KGtexvuq_zoSAFclIH2I6MqSTiYHk5LnGcm9iofRYN42PclOfPmwLynETl1ogHIl1D4UkV4V3RTe5KNLi0SVuS0GzHo9nMRqdXuuuObuSUyz8y4ZueKKBb4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال دانشجو:
 من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده
 و من باید بهش تضمین بدم تو قرارداد بیارم که رتبه میگیره صفحه اول.
 این حرفش منطقیه؟</div>
-<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/mohsentavoosiseo/761" target="_blank">📅 13:26 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.75K · <a href="https://t.me/mohsentavoosiseo/761" target="_blank">📅 13:26 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-760">
@@ -919,7 +919,7 @@ pinned «
 <div class="tg-post" id="msg-757">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">سوال دانشجو:  من رو یه سایت دارم کار میکنم که تجهیزات آشپزخونه میفروشه.یه دسته بندی داره هود اخوان.و تقریبا ۵ ساله همین دسته بندی رو داره.زیر مجموعه میتونه هود مخفی،هود مورب،هود شومینه ای باشه با توضیحات و مدلاش.الان اوکیه من اضافه کنم؟یا چون همون صفحه هود…</div>
-<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/mohsentavoosiseo/757" target="_blank">📅 11:22 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/mohsentavoosiseo/757" target="_blank">📅 11:22 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-756">
@@ -938,7 +938,7 @@ pinned «
 <div class="tg-post" id="msg-754">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">سوال دانشجو:  من روی کیورد با مشتری کار میکردم و قیمت میدادم یعنی یک سری کلیدواژه میداد و میگفت اینا برای من مهمه و من کار میکردم میوردمشون صفحه اول  علاوه بر این براش مقاله هم مینوشتم و تو بقیه صفحه ها هم کار میکردم  و تضمین میدادم که میارمش صفحه اول اما…</div>
-<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/mohsentavoosiseo/754" target="_blank">📅 20:30 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/mohsentavoosiseo/754" target="_blank">📅 20:30 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-753">
@@ -956,7 +956,7 @@ pinned «
 <div class="tg-post" id="msg-752">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">سوال یکی از دانشجویان:  هدف از صفحه دسته بندی محصول اینه که خب محصول بفروشه قسمت توضیحات هم که شاخص ها کیفیت و قیمت گفته میشه  صفحه اصلی هم که معرفی برند هست هدف از اینکه برای بعضی کلمه ها لندینگ پیج داریم چیه ؟  با کلمه هایی که براشون دسته بندی داریم هم نوع…</div>
-<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/mohsentavoosiseo/752" target="_blank">📅 18:03 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/mohsentavoosiseo/752" target="_blank">📅 18:03 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-751">
@@ -1001,7 +1001,7 @@ pinned «
 <div class="tg-post" id="msg-746">
 <div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">سوال بعضی از دانشجویانی که تازه شروع کردند:  داخل این دوره ی اموزشی طریقه ی این که چجوری کلمات کلیدی که پیدا کردیم رو تو صفحات بزاریم رو اموزش میده چون من نه از رودپرس سایت یا سئو هیچ پیش زمینه ای ندارم و داخل وردپرس اگه من بخوام کلمات کلیدی رو جایی بزارم…</div>
-<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/mohsentavoosiseo/746" target="_blank">📅 17:11 · 01 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/mohsentavoosiseo/746" target="_blank">📅 17:11 · 01 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-745">
@@ -1013,9 +1013,9 @@ pinned «
 
 <div class="tg-post" id="msg-744">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m715hYoxfdio3uRgEQLvA-vuXHF0OFTYd6d94JXDC4uJ-diChLBnX_lSc30h4f37nlkGlgkci2x1w9O1IsDgHSXliM9UdL4EXNesW_Tpnkd6PBfL0vPISI10-IRSlp8eoe_5Yl3kEsvif2naAxytbKRL1j5QUstYL1DCD5v1ZaY4_LDKicofC72Q2t0rNz80LysCK1UXt_zuOHcx0YufCsrxvPjcwiUcIaXnXNsc7u6XmuFRiA8e2RQ01IXZWpmZTOJ2dO_pJrV97erwHlz3bhbODwJZ8_9uWdNOwXIW_JfK1t1T7VEYdBB5GJVrATo4O_EkPSqxKFCZ1vqbul11RA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EZ-9nT5DGzrMLzPIx4Py6uLTHIelr3k4Vb0WAztY_VU3dOCBBMRVLsqF6EX5-hhua6hLirwch4Z4zpoqYWP_dkeFxS97hw1Cm6DJ3tFEdN28AVpE3cTYjkFUexkn8AXR1wDNCoqobPKHXYC5OxBoTk-PFIkW3pd6R4oMta5YTMVc_s8b9gdndvFPQZRvuvQhIdEyZtZT1pSyYwdxljtDEV14s_h2rgvx7OVHKbk2cyW0BhQIKCfI_VF7VKycJQFdpEOeM7_kqOh9RmZAJicHeSnyeV_PhC0bwckE9xGFBqkOqx8LdDI9w4wZmKWSUVy8T9GyTTaO4qO_e3rIdn3B1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شما هم فکر می کنید این بنده خدا و این بندگان خدا، ساده اند؟ یا من تنهام؟</div>
-<div class="tg-footer">👁️ 2.37K · <a href="https://t.me/mohsentavoosiseo/744" target="_blank">📅 09:03 · 31 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/mohsentavoosiseo/744" target="_blank">📅 09:03 · 31 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-743">
@@ -1041,7 +1041,7 @@ pinned «
 چرا همه تخصص ها رو باهم میخواد؟
 😒
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.75K · <a href="https://t.me/mohsentavoosiseo/741" target="_blank">📅 17:52 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.76K · <a href="https://t.me/mohsentavoosiseo/741" target="_blank">📅 17:52 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-740">
@@ -1058,7 +1058,7 @@ https://t.me/mohsentavoosiseo/739
 <div class="tg-post" id="msg-739">
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/mohsentavoosiseo/739" target="_blank">📅 17:09 · 30 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/mohsentavoosiseo/739" target="_blank">📅 17:09 · 30 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-738">
@@ -1109,7 +1109,7 @@ https://t.me/mohsentavoosiseo/739
 
 <div class="tg-post" id="msg-731">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tzb-XL9-IrtWSW64jByCXGf8Ut7LZT4wmdgi03onbta2Xw2LqQC_BtA2kUKDbOoLJJqChAGsodJviPaTK5CrXDjkmDyJ4_hVa3y-9oZsfiCnxMUiNnagdCGOwpLCaYVY5az48UNNczp8uHRwq4UEUWzQV6zVccpqcxFAGOhd4nsuP8HHJbgQDpQ7eiOeUOkxMEq3rGOATRikWTa8ZOLt6KiA2VpHqGweGuoZ_kkJbnCBJiKsbOGfnqLMyPTUBvXz9J1QvOEeb-V-9YUmglvTPwavGo5QlXJEcgvMzvnYXrVMiESdJ9iiI5TaNcH5ugyY3B69wmB4V1A2cNExUME1Dg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C8ADNzdXT2iMAVOIYkEih0mIRMpnewjflJPNRLoZYIybf8YmTyhoWRooGGIJ9J7wxf7Y_H3Rxk9_YIAhTDeDPIVHQXcDhMXlUU4H5Jv4ya8IKxvKa9cftD4Ir0FUCjfLCDB6PEdkrcSkq0NNYJLtRLqjARHudFLflB5ZOUfPMJUsB2GgJ7oJXS9fMs9hcEuMDzZe_pzdNfycHY8SruZuXWGRMHP-kd0ugLtndQfM66yIkxSD_gV9yIR0jIFUn3AHYYfE52YsGib5RJelz4EYgCJSNyPctr7swtJW6BOJOFIYC8jHPten3UdXcUiDJxsWbZqpXq-9sPv_bmGq7ZOPgA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک دوستی دارم که همیشه فکر میکنه من یه تکنیکی بلدم که انجام میدم سایت ها رشد میکنن. هربار فکر میکنه دارم میپیچونمش و نمیخوام بهش یاد بدم!
 همیشم این رو مثال میزنه. این برای سایتی هست که من فقط یک ساعت مشاوره و راهکار دادم. اوایل فوریه. حدودا یک ماه قبل از جنگ دوم(اسفند).
 بازار آمریکاست و زبان انگلیسی. و فعلا هم خدماتش در یک ایالت هست فقط.
