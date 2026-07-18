@@ -292,7 +292,7 @@
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directادمین کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-27 05:13:26</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-27 08:10:41</div>
 <hr>
 
 <div class="tg-post" id="msg-135248">
@@ -301,7 +301,7 @@
 انفجار در اهواز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 5.56K · <a href="https://t.me/alonews/135248" target="_blank">📅 04:57 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/alonews/135248" target="_blank">📅 04:57 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135247">
@@ -310,7 +310,7 @@
 انفجار در لرستان و جاسک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 5.55K · <a href="https://t.me/alonews/135247" target="_blank">📅 04:56 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/alonews/135247" target="_blank">📅 04:56 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135246">
@@ -319,7 +319,7 @@
 انفجار در جزیره لارک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/alonews/135246" target="_blank">📅 03:30 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 67.4K · <a href="https://t.me/alonews/135246" target="_blank">📅 03:30 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135245">
@@ -328,7 +328,7 @@
 انفجار در جزیره خارگ
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/alonews/135245" target="_blank">📅 03:22 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69.3K · <a href="https://t.me/alonews/135245" target="_blank">📅 03:22 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135244">
@@ -337,7 +337,7 @@
 حمله آمریکا به جزیره لارک به یک دکل مرکز کنترل ترافیک دریایی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/alonews/135244" target="_blank">📅 03:17 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 70.2K · <a href="https://t.me/alonews/135244" target="_blank">📅 03:17 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135243">
@@ -353,7 +353,7 @@
 اصابت دو موشک‌ به پایگاه موفق السلطی اردن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/alonews/135243" target="_blank">📅 03:13 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 70.4K · <a href="https://t.me/alonews/135243" target="_blank">📅 03:13 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135242">
@@ -362,7 +362,7 @@
 صنایع دفاع و شهر موشکی در یزد بمباران شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/alonews/135242" target="_blank">📅 03:05 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 70.2K · <a href="https://t.me/alonews/135242" target="_blank">📅 03:05 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135241">
@@ -371,7 +371,7 @@
 انفجارهای پی در پی در اردن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/alonews/135241" target="_blank">📅 03:01 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 70.2K · <a href="https://t.me/alonews/135241" target="_blank">📅 03:01 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135239">
@@ -380,7 +380,7 @@
 انفجار در بوشهر
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/alonews/135239" target="_blank">📅 02:59 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69.9K · <a href="https://t.me/alonews/135239" target="_blank">📅 02:59 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135238">
@@ -389,7 +389,7 @@
 پدافند اردن فعال شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/alonews/135238" target="_blank">📅 02:51 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 71.1K · <a href="https://t.me/alonews/135238" target="_blank">📅 02:51 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135237">
@@ -401,7 +401,7 @@
 این اولین حمله مستقیم ایران به عربستان در چهار ماه گذشته هست.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 39.9K · <a href="https://t.me/alonews/135237" target="_blank">📅 02:44 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 73.5K · <a href="https://t.me/alonews/135237" target="_blank">📅 02:44 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135236">
@@ -410,7 +410,7 @@
 انفجار در کویت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 40.7K · <a href="https://t.me/alonews/135236" target="_blank">📅 02:39 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 72.4K · <a href="https://t.me/alonews/135236" target="_blank">📅 02:39 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135235">
@@ -419,7 +419,7 @@
 فوری/شلیک موشک از ارومیه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/alonews/135235" target="_blank">📅 02:32 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 75.4K · <a href="https://t.me/alonews/135235" target="_blank">📅 02:32 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135234">
@@ -428,7 +428,7 @@
 فوری/حمله به پایگاه شاهزاده سلطان عربستان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.7K · <a href="https://t.me/alonews/135234" target="_blank">📅 02:27 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.3K · <a href="https://t.me/alonews/135234" target="_blank">📅 02:27 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135233">
@@ -438,7 +438,7 @@
 فوری/حملات موشکی به عربستان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/135233" target="_blank">📅 02:26 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.5K · <a href="https://t.me/alonews/135233" target="_blank">📅 02:26 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135232">
@@ -447,7 +447,7 @@
 بندر عباس از سه طرف از تمام شهرهای اطراف جدا شده و هم اکنون هیچ راه زمینی‌ای به اطراف نداره
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.5K · <a href="https://t.me/alonews/135232" target="_blank">📅 02:24 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 76.1K · <a href="https://t.me/alonews/135232" target="_blank">📅 02:24 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135231">
@@ -457,7 +457,7 @@
 وضعيت پل سه‌راه‌ میناب به‌سمت رودان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.5K · <a href="https://t.me/alonews/135231" target="_blank">📅 02:18 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.1K · <a href="https://t.me/alonews/135231" target="_blank">📅 02:18 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135230">
@@ -466,7 +466,7 @@
 فوری/شلیک موشک از لرستان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.6K · <a href="https://t.me/alonews/135230" target="_blank">📅 02:17 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 75.1K · <a href="https://t.me/alonews/135230" target="_blank">📅 02:17 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135229">
@@ -475,7 +475,7 @@
 فوری/شلیک موشک از تبریز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.1K · <a href="https://t.me/alonews/135229" target="_blank">📅 02:16 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 75.6K · <a href="https://t.me/alonews/135229" target="_blank">📅 02:16 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135228">
@@ -485,7 +485,7 @@
 در مسیر بندرعباس به سیرجان نیز بمباران و تخریب شده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/135228" target="_blank">📅 02:14 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.5K · <a href="https://t.me/alonews/135228" target="_blank">📅 02:14 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135227">
@@ -494,7 +494,7 @@
 از ترامپ بعید نیست یهو بیاد بگه بندرعباس ایالت ۵۱ام آمریکاست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/alonews/135227" target="_blank">📅 02:13 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 76.1K · <a href="https://t.me/alonews/135227" target="_blank">📅 02:13 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135226">
@@ -503,7 +503,7 @@
 فوری/انفجار در بوشهر
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/135226" target="_blank">📅 02:08 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 76.6K · <a href="https://t.me/alonews/135226" target="_blank">📅 02:08 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135224">
@@ -512,7 +512,7 @@
 فوری/امشب 3تا پل تو بندرعباس نابود شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.8K · <a href="https://t.me/alonews/135224" target="_blank">📅 02:03 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.3K · <a href="https://t.me/alonews/135224" target="_blank">📅 02:03 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135223">
@@ -521,7 +521,7 @@
 فوری/به تونل شهید میرزایی بندرعباس هم‌حمله شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54.6K · <a href="https://t.me/alonews/135223" target="_blank">📅 02:01 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.1K · <a href="https://t.me/alonews/135223" target="_blank">📅 02:01 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135222">
@@ -531,7 +531,7 @@
 فوری/پل مسیر بندرعباس/ رودان هدف قرار گرفته شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.4K · <a href="https://t.me/alonews/135222" target="_blank">📅 01:56 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.9K · <a href="https://t.me/alonews/135222" target="_blank">📅 01:56 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135221">
@@ -540,7 +540,7 @@
 حملات به شهرهای جنوبی همچنان ادامه داره
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54.9K · <a href="https://t.me/alonews/135221" target="_blank">📅 01:52 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.4K · <a href="https://t.me/alonews/135221" target="_blank">📅 01:52 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135220">
@@ -550,7 +550,7 @@
 👍
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56K · <a href="https://t.me/alonews/135220" target="_blank">📅 01:50 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.4K · <a href="https://t.me/alonews/135220" target="_blank">📅 01:50 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135219">
@@ -558,7 +558,7 @@
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromAlo Sport الو اسپورت</strong></div>
 <div class="tg-text">ترامپ درباره قلعه نویی: اون مربی بزرگی هست و تنها مربی‌ای که نباخته
 @AloSport</div>
-<div class="tg-footer">👁️ 55.8K · <a href="https://t.me/alonews/135219" target="_blank">📅 01:49 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.2K · <a href="https://t.me/alonews/135219" target="_blank">📅 01:49 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135218">
@@ -567,7 +567,7 @@
 فوری/انفجار در آبادان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/135218" target="_blank">📅 01:47 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.5K · <a href="https://t.me/alonews/135218" target="_blank">📅 01:47 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135217">
@@ -576,7 +576,7 @@
 بندرعباس برج رادیویی رو زدن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/alonews/135217" target="_blank">📅 01:47 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 83K · <a href="https://t.me/alonews/135217" target="_blank">📅 01:47 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135216">
@@ -586,7 +586,7 @@
 متاسفانه مادر جاویدنام سامان ابراهیم پور که پسرش ۱۹ دی ماه در رشت جاویدنام شد، بعد از ۶ ماه تحمل درد از دوری پسرش، امروز خودکشی کرد و به زندگیش پایان داد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/alonews/135216" target="_blank">📅 01:41 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 90.9K · <a href="https://t.me/alonews/135216" target="_blank">📅 01:41 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135215">
@@ -595,7 +595,7 @@
 فوری/شنیده شدن صدای جنگنده در شیراز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.8K · <a href="https://t.me/alonews/135215" target="_blank">📅 01:38 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.2K · <a href="https://t.me/alonews/135215" target="_blank">📅 01:38 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135214">
@@ -605,7 +605,7 @@
 دو فروند کشتی نفتکش با عبور از مسیر مین گذاری شده جنوب تنگه هرمز منفجر شدند!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/alonews/135214" target="_blank">📅 01:29 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.6K · <a href="https://t.me/alonews/135214" target="_blank">📅 01:29 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135213">
@@ -617,7 +617,7 @@
 به نظرم ایران نباید سلاح هسته‌ای داشته باشد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.9K · <a href="https://t.me/alonews/135213" target="_blank">📅 01:27 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 86.4K · <a href="https://t.me/alonews/135213" target="_blank">📅 01:27 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135212">
@@ -635,7 +635,7 @@
 مسی ضربش را زد و همان گل، کار بازی را تمام کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/135212" target="_blank">📅 01:26 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.6K · <a href="https://t.me/alonews/135212" target="_blank">📅 01:26 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135211">
@@ -648,7 +648,7 @@
 در عوض با چین میزبان مشترک بشیم؛ بین هر بازی یه سفر دلپذیر یک روزه بین دو کشور خواهیم داشت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.1K · <a href="https://t.me/alonews/135211" target="_blank">📅 01:24 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.5K · <a href="https://t.me/alonews/135211" target="_blank">📅 01:24 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135210">
@@ -657,7 +657,7 @@
 فوری/حمله موشکی به داراب فارس
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61K · <a href="https://t.me/alonews/135210" target="_blank">📅 01:23 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.4K · <a href="https://t.me/alonews/135210" target="_blank">📅 01:23 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135209">
@@ -673,7 +673,7 @@
 حمله پلیس به جشن هواداران تروریست نساجی مازندران
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.5K · <a href="https://t.me/alonews/135209" target="_blank">📅 01:22 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.9K · <a href="https://t.me/alonews/135209" target="_blank">📅 01:22 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135208">
@@ -682,7 +682,7 @@
 فوری/حمله مجدد به یزد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 61.5K · <a href="https://t.me/alonews/135208" target="_blank">📅 01:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.8K · <a href="https://t.me/alonews/135208" target="_blank">📅 01:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135207">
@@ -699,7 +699,7 @@
 : من فکر می‌کردم که ما کشوری علاقه‌مند به فوتبال نیستیم. اما مشخص شد که ما یک کشور علاقه‌مند به فوتبال هستیم، و من فکر می‌کنم که این وضعیت همچنان ادامه خواهد داشت.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.5K · <a href="https://t.me/alonews/135207" target="_blank">📅 01:17 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.8K · <a href="https://t.me/alonews/135207" target="_blank">📅 01:17 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135206">
@@ -708,7 +708,7 @@
 به اربیل عراق حمله شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/alonews/135206" target="_blank">📅 01:11 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.6K · <a href="https://t.me/alonews/135206" target="_blank">📅 01:11 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135205">
@@ -724,7 +724,7 @@
 پیش بینی سریال مختار از وضع فعلی ایران
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.7K · <a href="https://t.me/alonews/135205" target="_blank">📅 01:10 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.1K · <a href="https://t.me/alonews/135205" target="_blank">📅 01:10 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135204">
@@ -733,7 +733,7 @@
 ممد نبودی ببینی با گنده گوزی یه سریا جنوب هرشب زیر موشکه.....
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67K · <a href="https://t.me/alonews/135204" target="_blank">📅 01:07 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 83.3K · <a href="https://t.me/alonews/135204" target="_blank">📅 01:07 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135203">
@@ -742,7 +742,7 @@
 امشب بازم دارن جاده‌ها رو میزنن. اینبار حملات سنگین به جاده‌های جنوب غربی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.9K · <a href="https://t.me/alonews/135203" target="_blank">📅 01:06 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.3K · <a href="https://t.me/alonews/135203" target="_blank">📅 01:06 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135202">
@@ -751,7 +751,7 @@
 فوری/به جاده اهواز_اندیمشک حمله شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/alonews/135202" target="_blank">📅 01:03 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 87.9K · <a href="https://t.me/alonews/135202" target="_blank">📅 01:03 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135201">
@@ -760,7 +760,7 @@
 خبر فووووری/4000تفنگدار دیگه عازم خاورمیانه شدن
 🚨
 @AkhbareFouri</div>
-<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/alonews/135201" target="_blank">📅 01:01 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 88K · <a href="https://t.me/alonews/135201" target="_blank">📅 01:01 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135200">
@@ -769,7 +769,7 @@
 فوری/برخی گزارشات خبر از هدف قرار گرفتن تیپ ۳۳ المهدی در جهرم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 72.3K · <a href="https://t.me/alonews/135200" target="_blank">📅 01:00 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 88.6K · <a href="https://t.me/alonews/135200" target="_blank">📅 01:00 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135199">
@@ -778,7 +778,7 @@
 انفجار در اهواز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 71.2K · <a href="https://t.me/alonews/135199" target="_blank">📅 01:00 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 87.6K · <a href="https://t.me/alonews/135199" target="_blank">📅 01:00 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135198">
@@ -787,7 +787,7 @@
 گزارش‌ها از حمله به سایت موشکی یزد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 73K · <a href="https://t.me/alonews/135198" target="_blank">📅 00:57 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 88.3K · <a href="https://t.me/alonews/135198" target="_blank">📅 00:57 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135197">
@@ -800,7 +800,7 @@
 طبق این گزارش حدود ۶۴ درصد مردم دائماً عصبانین؛ ۸۱ درصد برای تأمین غذا مشکل دارن و اعتماد بخش بزرگی از جامعه به نهادهای حکومتی از بین رفته
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 77.2K · <a href="https://t.me/alonews/135197" target="_blank">📅 00:48 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 91.5K · <a href="https://t.me/alonews/135197" target="_blank">📅 00:48 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135196">
@@ -816,7 +816,7 @@
 ویدیویی از انفجار در یزد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 78.2K · <a href="https://t.me/alonews/135196" target="_blank">📅 00:43 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 91.5K · <a href="https://t.me/alonews/135196" target="_blank">📅 00:43 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135195">
@@ -826,7 +826,7 @@
 تصویری از انفجار در یزد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 76.5K · <a href="https://t.me/alonews/135195" target="_blank">📅 00:42 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 89.7K · <a href="https://t.me/alonews/135195" target="_blank">📅 00:42 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135194">
@@ -835,7 +835,7 @@
 محسن رضایی: فعلا به دیپلماسی فرصت دادیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 75.5K · <a href="https://t.me/alonews/135194" target="_blank">📅 00:40 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 87.8K · <a href="https://t.me/alonews/135194" target="_blank">📅 00:40 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135193">
@@ -844,7 +844,7 @@
 جنگ تقریبا به مرکز ایران رسیده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 80.6K · <a href="https://t.me/alonews/135193" target="_blank">📅 00:35 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 92.9K · <a href="https://t.me/alonews/135193" target="_blank">📅 00:35 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135192">
@@ -853,7 +853,7 @@
 فوری/۵ انفجار در یزد گزارش شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 81.1K · <a href="https://t.me/alonews/135192" target="_blank">📅 00:35 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 93.4K · <a href="https://t.me/alonews/135192" target="_blank">📅 00:35 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135191">
@@ -862,7 +862,7 @@
 فوری/انفجار در یزد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 79.5K · <a href="https://t.me/alonews/135191" target="_blank">📅 00:34 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 91.8K · <a href="https://t.me/alonews/135191" target="_blank">📅 00:34 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135190">
@@ -878,7 +878,7 @@
 اصابت موشک آمریکایی به لار
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 80.2K · <a href="https://t.me/alonews/135190" target="_blank">📅 00:31 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 92.5K · <a href="https://t.me/alonews/135190" target="_blank">📅 00:31 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135189">
@@ -887,7 +887,7 @@
 طرف داره با موشک تاماهاک و بمب‌های سنگین میزنه بعد یه سریا میگن پرتابه! مگه تفنگ ساچمه‌ای هست؟
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 76.2K · <a href="https://t.me/alonews/135189" target="_blank">📅 00:30 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 87.5K · <a href="https://t.me/alonews/135189" target="_blank">📅 00:30 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135188">
@@ -897,7 +897,7 @@
 دولت عراق رسما مجوز فعالیت شرکت استارلینک در عراق را امضا کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 79K · <a href="https://t.me/alonews/135188" target="_blank">📅 00:26 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 90.3K · <a href="https://t.me/alonews/135188" target="_blank">📅 00:26 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135187">
@@ -906,7 +906,7 @@
 استانداری هرمزگان: در حملات جدید آمریکا به حوالی سیریک هیچ مصدوم و یا خسارت به زیر ساخت‌های مسکونی و تجاری گزارش نشده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 78.2K · <a href="https://t.me/alonews/135187" target="_blank">📅 00:25 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 89.5K · <a href="https://t.me/alonews/135187" target="_blank">📅 00:25 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135186">
@@ -915,7 +915,7 @@
 آمریکا هر شب داره بوشهر رو میزنه و فرماندار این شهر هم هر شب تکذیب میکنه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 80.6K · <a href="https://t.me/alonews/135186" target="_blank">📅 00:21 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 91.9K · <a href="https://t.me/alonews/135186" target="_blank">📅 00:21 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135184">
@@ -930,7 +930,7 @@
 عکس مربوط به غزه‌س
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 80.2K · <a href="https://t.me/alonews/135184" target="_blank">📅 00:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 90.5K · <a href="https://t.me/alonews/135184" target="_blank">📅 00:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135183">
@@ -939,7 +939,7 @@
 آمریکا از توافق عراق و سوریه برای بازسازی و احیای خط لوله انتقال نفت استقبال کرد؛ ظرفیت این خط لوله روزانه به دو میلیون بشکه در روز خواهد رسید.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 76.5K · <a href="https://t.me/alonews/135183" target="_blank">📅 00:19 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 86.7K · <a href="https://t.me/alonews/135183" target="_blank">📅 00:19 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135182">
@@ -957,7 +957,7 @@
 برای پدرش.
 🔴
 لعنت به حکومت اسلامی، لعنت به نسل ۵۷ و لعنت به حرام زاده های حکومتی که چه به روزگار ما و بچه های این سرزمین  آوردن.</div>
-<div class="tg-footer">👁️ 77.6K · <a href="https://t.me/alonews/135182" target="_blank">📅 00:18 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 87.9K · <a href="https://t.me/alonews/135182" target="_blank">📅 00:18 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135181">
@@ -967,7 +967,7 @@
 توی کنسرت جدید BTS، این شکلی یاد جاوید نام‌های ایران رو زنده نگه داشتن و به نمایش درآوردن:
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 75.3K · <a href="https://t.me/alonews/135181" target="_blank">📅 00:18 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.5K · <a href="https://t.me/alonews/135181" target="_blank">📅 00:18 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135180">
@@ -979,7 +979,7 @@
 ⚠️
 مشاهده فوری و بدون سانسور
 ⚠️</div>
-<div class="tg-footer">👁️ 74.7K · <a href="https://t.me/alonews/135180" target="_blank">📅 00:16 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 84.9K · <a href="https://t.me/alonews/135180" target="_blank">📅 00:16 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135179">
@@ -988,7 +988,7 @@
 گزارش انفجار در لار، استان فارس
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 79.6K · <a href="https://t.me/alonews/135179" target="_blank">📅 00:13 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 89.8K · <a href="https://t.me/alonews/135179" target="_blank">📅 00:13 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135178">
@@ -999,7 +999,7 @@
 آمریکا اگه زمینی بیاد، راه فرار نداره
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 82.8K · <a href="https://t.me/alonews/135178" target="_blank">📅 00:12 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 93K · <a href="https://t.me/alonews/135178" target="_blank">📅 00:12 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135177">
@@ -1010,7 +1010,7 @@
 👍
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 87.8K · <a href="https://t.me/alonews/135177" target="_blank">📅 00:00 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 97K · <a href="https://t.me/alonews/135177" target="_blank">📅 00:00 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135176">
@@ -1020,7 +1020,7 @@
 از این به بعد اگه ۱ پل مارو بزنن، ۲ تا پل ازشون میزنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 84.4K · <a href="https://t.me/alonews/135176" target="_blank">📅 23:59 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 93.6K · <a href="https://t.me/alonews/135176" target="_blank">📅 23:59 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135175">
@@ -1029,7 +1029,7 @@
 مهر:  شنیده شدن صدای انفجار در بوشهر، قشم و سیریک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 84.2K · <a href="https://t.me/alonews/135175" target="_blank">📅 23:58 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 93.5K · <a href="https://t.me/alonews/135175" target="_blank">📅 23:58 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135174">
@@ -1038,7 +1038,7 @@
 فوری/سپاه خورموج و اهواز مورد هدف موشکی قرار گرفتن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 89.9K · <a href="https://t.me/alonews/135174" target="_blank">📅 23:50 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 98.1K · <a href="https://t.me/alonews/135174" target="_blank">📅 23:50 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135173">
@@ -1047,7 +1047,7 @@
 دولت عراق مجوز فعالیت استارلینک تو این کشور رو رسما امضا کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 94.3K · <a href="https://t.me/alonews/135173" target="_blank">📅 23:47 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/alonews/135173" target="_blank">📅 23:47 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135172">
@@ -1056,7 +1056,7 @@
 فوری/انفجار در سیریک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 88.4K · <a href="https://t.me/alonews/135172" target="_blank">📅 23:47 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 95.6K · <a href="https://t.me/alonews/135172" target="_blank">📅 23:47 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135171">
@@ -1075,7 +1075,7 @@
 مجری شبکه خبر با شماره ایران زنگ زده به یه هتل تو عمان و مثلاً داره جاسوسی می‌کنه ببینه  چه خبره
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 89.8K · <a href="https://t.me/alonews/135171" target="_blank">📅 23:43 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 97K · <a href="https://t.me/alonews/135171" target="_blank">📅 23:43 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135170">
@@ -1084,7 +1084,7 @@
 فوری/انفجار در اهواز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 88K · <a href="https://t.me/alonews/135170" target="_blank">📅 23:41 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 94.2K · <a href="https://t.me/alonews/135170" target="_blank">📅 23:41 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135169">
@@ -1098,7 +1098,7 @@
 ⚠️
 مشاهده فوری و بدون سانسور
 ⚠️</div>
-<div class="tg-footer">👁️ 89.8K · <a href="https://t.me/alonews/135169" target="_blank">📅 23:38 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 96K · <a href="https://t.me/alonews/135169" target="_blank">📅 23:38 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135168">
@@ -1107,7 +1107,7 @@
 انفجار در بندرعباس
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 88.2K · <a href="https://t.me/alonews/135168" target="_blank">📅 23:35 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 95.4K · <a href="https://t.me/alonews/135168" target="_blank">📅 23:35 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135167">
@@ -1116,7 +1116,7 @@
 انفجار در بوشهر
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 89.3K · <a href="https://t.me/alonews/135167" target="_blank">📅 23:33 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/alonews/135167" target="_blank">📅 23:33 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135166">
@@ -1125,7 +1125,7 @@
 صدای انفجار در قشم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 92.5K · <a href="https://t.me/alonews/135166" target="_blank">📅 23:29 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 98.6K · <a href="https://t.me/alonews/135166" target="_blank">📅 23:29 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135165">
@@ -1134,7 +1134,7 @@
 فوری/انفجار در سیریک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 92.9K · <a href="https://t.me/alonews/135165" target="_blank">📅 23:28 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 99K · <a href="https://t.me/alonews/135165" target="_blank">📅 23:28 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135164">
@@ -1143,7 +1143,7 @@
 روسیه: تفاهمنامه میان آمریکا و ایران در آستانه فروپاشی قرار دارد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 90.1K · <a href="https://t.me/alonews/135164" target="_blank">📅 23:27 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 95.2K · <a href="https://t.me/alonews/135164" target="_blank">📅 23:27 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135163">
@@ -1154,7 +1154,7 @@
 دور جدید حملات از الان شروع شد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 92.4K · <a href="https://t.me/alonews/135163" target="_blank">📅 23:25 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 97.6K · <a href="https://t.me/alonews/135163" target="_blank">📅 23:25 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135162">
@@ -1175,7 +1175,7 @@
 دارلین، نامزد شو! بدو، دارلین، بدو!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 83.2K · <a href="https://t.me/alonews/135162" target="_blank">📅 23:24 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 88.3K · <a href="https://t.me/alonews/135162" target="_blank">📅 23:24 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135161">
@@ -1185,7 +1185,7 @@
 رسایی: یکی بره ترامپ رو بکشه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 77.6K · <a href="https://t.me/alonews/135161" target="_blank">📅 23:23 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.7K · <a href="https://t.me/alonews/135161" target="_blank">📅 23:23 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135160">
@@ -1194,7 +1194,7 @@
 وجود شما حرام زاده های طرفدار حکومت تو خاک ایران از ورود سربازهای آمریکایی متجاوزگرانه تره!
 🤔
 کی داشت با وینچستر تو سر هم وطن های من شلیک میکرد؟</div>
-<div class="tg-footer">👁️ 77.5K · <a href="https://t.me/alonews/135160" target="_blank">📅 23:21 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.6K · <a href="https://t.me/alonews/135160" target="_blank">📅 23:21 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135159">
@@ -1205,7 +1205,7 @@
 علی دایی برای مردم ایران عددی نیست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 80.2K · <a href="https://t.me/alonews/135159" target="_blank">📅 23:20 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.3K · <a href="https://t.me/alonews/135159" target="_blank">📅 23:20 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135158">
@@ -1215,7 +1215,7 @@
 تیشرت ایمان صفا تو ختم مادر عمو پورنگ
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 78.5K · <a href="https://t.me/alonews/135158" target="_blank">📅 23:16 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.7K · <a href="https://t.me/alonews/135158" target="_blank">📅 23:16 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135157">
@@ -1235,7 +1235,7 @@
 شلیک موشک کروز توسط نیروی دریایی ارتش موجب ایجاد رعب و وحشت دشمن و دور شدن شناور متخاصم از تیررس رزمندگان دلیر این نیرو شده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 75.4K · <a href="https://t.me/alonews/135157" target="_blank">📅 23:14 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.6K · <a href="https://t.me/alonews/135157" target="_blank">📅 23:14 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135156">
@@ -1249,7 +1249,7 @@
 باور نمی کنم و حتما اینطور نیست، چون با ادعای مردم دوستی نمیشه در مقابل جنایت میناب و دنا و بمپور و کشته های جنگ تحمیلی سکوت کرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 76.7K · <a href="https://t.me/alonews/135156" target="_blank">📅 23:11 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.8K · <a href="https://t.me/alonews/135156" target="_blank">📅 23:11 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135155">
@@ -1263,7 +1263,7 @@
 رانت‌خواری و فرصت طلبی رو همه زشت می‌دونیم ولی کاش تو خلوت هم اون کار دیگه رو نکنیم، کاش چهره ما واقعی باشه.. زشت یا زیبا اما واقعی...
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 78.2K · <a href="https://t.me/alonews/135155" target="_blank">📅 23:11 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.3K · <a href="https://t.me/alonews/135155" target="_blank">📅 23:11 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135154">
@@ -1272,7 +1272,7 @@
 چند نکته بسیار مهم برای حفظ امنیت شما در تلگرام
 🔴
 برای تنظیم بیشتر موارد، وارد مسیر Settings > Privacy and Security شوید.  ۱. مخفی‌کردن شماره تلفن وارد Phone Number شوید و این گزینه‌ها را تنظیم کنید: Who can see my phone number: روی Nobody Who can find me…</div>
-<div class="tg-footer">👁️ 76.1K · <a href="https://t.me/alonews/135154" target="_blank">📅 23:09 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.2K · <a href="https://t.me/alonews/135154" target="_blank">📅 23:09 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135153">
@@ -1281,14 +1281,14 @@
 وجود شما حرام زاده های طرفدار حکومت تو خاک ایران از ورود سربازهای آمریکایی متجاوزگرانه تره!
 🤔
 کی داشت با وینچستر تو سر هم وطن های من شلیک میکرد؟</div>
-<div class="tg-footer">👁️ 80.1K · <a href="https://t.me/alonews/135153" target="_blank">📅 23:04 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 84.2K · <a href="https://t.me/alonews/135153" target="_blank">📅 23:04 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135152">
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">🔴
 دشمنی "آیت الله BBC" از آغاز تاسیس تاکنون‌ با ایران و ایرانی</div>
-<div class="tg-footer">👁️ 81.5K · <a href="https://t.me/alonews/135152" target="_blank">📅 23:01 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 84.6K · <a href="https://t.me/alonews/135152" target="_blank">📅 23:01 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135151">
@@ -1297,7 +1297,7 @@
 قیمت هر لیتر بنزین در پاکستان به ۲۹۵ هزار تومان رسیده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 80.1K · <a href="https://t.me/alonews/135151" target="_blank">📅 22:57 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 83.2K · <a href="https://t.me/alonews/135151" target="_blank">📅 22:57 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135150">
@@ -1313,7 +1313,7 @@
 منابع عراقی از حملات پهپادی در اربیل و فعال شدن سامانه پاتریوت مستقر در پایگاه آمریکا خبر می‌دهند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 83.3K · <a href="https://t.me/alonews/135150" target="_blank">📅 22:57 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 87.4K · <a href="https://t.me/alonews/135150" target="_blank">📅 22:57 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135149">
@@ -1322,7 +1322,7 @@
 معاون استاندار هرمزگان از فعالیت دستگاه‌های اجرایی این استان طی روز شنبه ۲۷ تیر ماه با ۵۰ درصد کارکنان خبر داد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 79.9K · <a href="https://t.me/alonews/135149" target="_blank">📅 22:54 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 83K · <a href="https://t.me/alonews/135149" target="_blank">📅 22:54 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135148">
@@ -1331,7 +1331,7 @@
 وای نت: تاکنون بیش از ۶۰ هواپیمای سوخت‌رسان آمریکایی وارد اسرائیل شده‌اند که ۳۳ فروند از آنها در فرودگاه بن گوریون مستقر شده‌اند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 82.6K · <a href="https://t.me/alonews/135148" target="_blank">📅 22:50 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.8K · <a href="https://t.me/alonews/135148" target="_blank">📅 22:50 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135147">
@@ -1347,7 +1347,7 @@
 فیلد مارشال محسن رضایی: اگر فرضا دشمن توانست در جایی پیاده شود، چطور می‌خواهد فرار کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 88.2K · <a href="https://t.me/alonews/135147" target="_blank">📅 22:42 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 91.3K · <a href="https://t.me/alonews/135147" target="_blank">📅 22:42 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135146">
@@ -1356,7 +1356,7 @@
 فاکس نیوز: یک گزارش محرمانه که برای ریاست‌جمهوری ایران تهیه شده، نشان می‌دهد تنها ۹ درصد ایرانیان از حفظ وضع موجود حمایت می‌کنند؛ در حالی که نزدیک به سه‌چهارم مردم خواهان اصلاحات عمیق ساختاری یا تغییر کامل نظام سیاسی هستند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 85.6K · <a href="https://t.me/alonews/135146" target="_blank">📅 22:39 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 88.7K · <a href="https://t.me/alonews/135146" target="_blank">📅 22:39 · 26 Tir 1405</a></div>
 </div>
 
 <hr>

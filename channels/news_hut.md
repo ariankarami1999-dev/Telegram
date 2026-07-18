@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-27 05:13:26</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-27 08:10:41</div>
 <hr>
 
 <div class="tg-post" id="msg-68421">
@@ -325,7 +325,7 @@
 👇
 🔸
 https://t.me/+ioIBrQfqMLtmMmEy</div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/news_hut/68421" target="_blank">📅 03:16 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/news_hut/68421" target="_blank">📅 03:16 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68420">
@@ -353,7 +353,7 @@ creedroomz
 ورود به سایت با فیلترشکن
 📲
 @yekbet</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/news_hut/68420" target="_blank">📅 03:16 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/news_hut/68420" target="_blank">📅 03:16 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68419">
@@ -363,7 +363,7 @@ creedroomz
 🚨
 انفجار در جزیره لارک
 @News_Hut</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/news_hut/68419" target="_blank">📅 03:14 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/news_hut/68419" target="_blank">📅 03:14 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68418">
@@ -372,7 +372,7 @@ creedroomz
 <div class="tg-text">🚨
 ۳ نفر در اثر حمله به پل بندرعباس_رودان کشته شده
 @News_Hut</div>
-<div class="tg-footer">👁️ 6.64K · <a href="https://t.me/news_hut/68418" target="_blank">📅 02:58 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/news_hut/68418" target="_blank">📅 02:58 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68417">
@@ -381,7 +381,7 @@ creedroomz
 🚨
 ⭕️
 باراک راوید به نقل از مقام ارشد آمریکایی:    ایران یک موشک بالستیک به سمت پایگاهی آمریکایی در عربستان سعودی شلیک کرد.   اهمیت موضوع: این نخستین حمله مستقیم ایران به عربستان سعودی در حدود چهار ماه گذشته است.  @News_Hut</div>
-<div class="tg-footer">👁️ 7.26K · <a href="https://t.me/news_hut/68417" target="_blank">📅 02:53 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/news_hut/68417" target="_blank">📅 02:53 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68416">
@@ -394,14 +394,14 @@ creedroomz
 ایران یک موشک بالستیک به سمت پایگاهی آمریکایی در عربستان سعودی شلیک کرد.
 اهمیت موضوع: این نخستین حمله مستقیم ایران به عربستان سعودی در حدود چهار ماه گذشته است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 7.71K · <a href="https://t.me/news_hut/68416" target="_blank">📅 02:48 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/news_hut/68416" target="_blank">📅 02:48 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68415">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">⏺
 رویترز:پاکستان به جمهوری اسلامی درباره حملات حوثی ها به عربستان هشدار داده و این اقدام را تعرض به خاک خود تلقی کرده است.  حملات این هفته حوثی‌های یمن - که هم‌پیمان ایران هستند - به عربستان سعودی، موجب نارضایتی پاکستان شده و این کشور را در معرض خطر کشیده شدن…</div>
-<div class="tg-footer">👁️ 8.11K · <a href="https://t.me/news_hut/68415" target="_blank">📅 02:44 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/news_hut/68415" target="_blank">📅 02:44 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68414">
@@ -410,7 +410,7 @@ creedroomz
 فارس به نقل از منابع عربی:
 حملۀ گسترده موشکی و پهپادی علیه منافع و پایگاه‌های آمریکایی در عربستان سعودی در حال انجام است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.44K · <a href="https://t.me/news_hut/68414" target="_blank">📅 02:40 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/news_hut/68414" target="_blank">📅 02:40 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68413">
@@ -426,7 +426,7 @@ creedroomz
 پل مسیر بندرعباس رودان
 بعد از ایست بازرسی چغازردی حوالی روستای سرزه پس از حمله آمریکا
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.24K · <a href="https://t.me/news_hut/68413" target="_blank">📅 02:30 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/news_hut/68413" target="_blank">📅 02:30 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68412">
@@ -435,7 +435,7 @@ creedroomz
 <div class="tg-text">🚨
 آژیرهای هشدار در شهر الخرج، واقع در عربستان سعودی، به صدا درآمدند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.14K · <a href="https://t.me/news_hut/68412" target="_blank">📅 02:27 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/news_hut/68412" target="_blank">📅 02:27 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68411">
@@ -444,7 +444,7 @@ creedroomz
 <div class="tg-text">🚨
 پل سه‌راه‌ میناب به‌سمت رودان
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/news_hut/68411" target="_blank">📅 02:26 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/news_hut/68411" target="_blank">📅 02:26 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68409">
@@ -456,7 +456,7 @@ creedroomz
 <div class="tg-text">🚨
 ارسالی از تبریز
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.82K · <a href="https://t.me/news_hut/68409" target="_blank">📅 02:25 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/news_hut/68409" target="_blank">📅 02:25 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68408">
@@ -471,7 +471,7 @@ creedroomz
 <div class="tg-text">🚨
 شلیک موشک به سمت پایگاه های آمریکا
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.97K · <a href="https://t.me/news_hut/68408" target="_blank">📅 02:21 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/news_hut/68408" target="_blank">📅 02:21 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68407">
@@ -481,7 +481,7 @@ creedroomz
 گزارش ممبرا:
 دو انفجار در خرم آباد شنیده شده.
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/news_hut/68407" target="_blank">📅 02:19 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/news_hut/68407" target="_blank">📅 02:19 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68406">
@@ -491,7 +491,7 @@ creedroomz
 گزارش ممبرا:
 از تبریز موشک شلیک شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.46K · <a href="https://t.me/news_hut/68406" target="_blank">📅 02:18 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/news_hut/68406" target="_blank">📅 02:18 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68405">
@@ -510,7 +510,7 @@ creedroomz
 پل گلوگاه بعد گنو بندرعباس و سرزه جاده رودان'
 صدای ویدیو: راننده‌های سیرجانی اصلا سمت بندر نیایید ... پل بعد گلوگاه رو زدند همه ایستادند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.79K · <a href="https://t.me/news_hut/68405" target="_blank">📅 02:17 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/news_hut/68405" target="_blank">📅 02:17 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68404">
@@ -519,7 +519,7 @@ creedroomz
 🚨
 دو انفجار در بوشهر
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/news_hut/68404" target="_blank">📅 02:06 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/news_hut/68404" target="_blank">📅 02:06 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68403">
@@ -535,7 +535,7 @@ creedroomz
 ⏺
 بر پایه این گزارش، پل محور رفت در مسیر سه‌راهی میناب به سمت رودان، پس از دوراهی سرزه، نیز مورد حمله دشمن قرار گرفته است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/news_hut/68403" target="_blank">📅 02:02 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/news_hut/68403" target="_blank">📅 02:02 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68402">
@@ -546,7 +546,7 @@ creedroomz
 🚨
 پل مسیر بندرعباس رودان هدف قرار گرفته شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/news_hut/68402" target="_blank">📅 01:58 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/news_hut/68402" target="_blank">📅 01:58 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68401">
@@ -569,7 +569,7 @@ creedroomz
 به نظر من، سرعت در این ورزش بسیار مهم است، شما موافقید؟"
 😐
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/news_hut/68401" target="_blank">📅 01:54 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/news_hut/68401" target="_blank">📅 01:54 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68400">
@@ -578,7 +578,7 @@ creedroomz
 تسنیم:
 حملات مجدد دشمن آمریکایی به اهواز، لار، یزد و چند شهر ایران
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/news_hut/68400" target="_blank">📅 01:45 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/68400" target="_blank">📅 01:45 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68399">
@@ -594,7 +594,7 @@ creedroomz
 ترامپ:
 دموکرات ها در انتخابات تقلب کردند، و من چه چیزی نصیبم شد؟ جام جهانی نصیبم شد. المپیک نصیبم شد و آن‌ها را به اینجا آوردم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/news_hut/68399" target="_blank">📅 01:39 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/news_hut/68399" target="_blank">📅 01:39 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68398">
@@ -603,7 +603,7 @@ creedroomz
 🚨
 مجدد انفجار در لار
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/news_hut/68398" target="_blank">📅 01:35 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/68398" target="_blank">📅 01:35 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68397">
@@ -613,7 +613,7 @@ creedroomz
 سپاه پاسداران:
 دو فروند کشتی نفت‌کش با عبور از مسیر مین‌گذاری‌شده جنوب تنگه هرمز منفجر و دچار حریق گسترده شدند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/news_hut/68397" target="_blank">📅 01:29 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/68397" target="_blank">📅 01:29 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68396">
@@ -629,14 +629,14 @@ creedroomz
 🚨
 منتسب به یزد صدای جنگنده
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/news_hut/68396" target="_blank">📅 01:28 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/68396" target="_blank">📅 01:28 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68395">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">خفه شو کصکش
 #hjAly‌</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/news_hut/68395" target="_blank">📅 01:26 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/68395" target="_blank">📅 01:26 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68394">
@@ -644,7 +644,7 @@ creedroomz
 <div class="tg-text">🇺🇸
 ترامپ: هری‌کین هم خوبه ولی ممکنه تو پست اشتباهی بازی کنه
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/news_hut/68394" target="_blank">📅 01:25 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/68394" target="_blank">📅 01:25 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68393">
@@ -652,7 +652,7 @@ creedroomz
 <div class="tg-text">🇺🇸
 ترامپ: مسی خیلی خفنه
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/news_hut/68393" target="_blank">📅 01:25 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/68393" target="_blank">📅 01:25 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68392">
@@ -660,7 +660,7 @@ creedroomz
 <div class="tg-text">🇺🇸
 ترامپ: رونالدو مرد بزرگیه
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/news_hut/68392" target="_blank">📅 01:24 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/68392" target="_blank">📅 01:24 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68391">
@@ -668,7 +668,7 @@ creedroomz
 <div class="tg-text">🚨
 شنیده شدن صدای انفجار در قشم
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/news_hut/68391" target="_blank">📅 01:24 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/68391" target="_blank">📅 01:24 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68390">
@@ -677,7 +677,7 @@ creedroomz
 🚨
 بندرعباس رو شدید دارن میزنن
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/news_hut/68390" target="_blank">📅 01:23 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/68390" target="_blank">📅 01:23 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68389">
@@ -685,7 +685,7 @@ creedroomz
 <div class="tg-text">🚨
 مجدد انفجار در بندرعباس
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/news_hut/68389" target="_blank">📅 01:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/68389" target="_blank">📅 01:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68388">
@@ -699,7 +699,7 @@ creedroomz
 </div>
 <div class="tg-text">صدا و سیما ۵ دقیقه بعد از حمله به شهر های مختلف ایران:
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/news_hut/68388" target="_blank">📅 01:17 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/68388" target="_blank">📅 01:17 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68387">
@@ -708,7 +708,7 @@ creedroomz
 🚨
 دقایقی قبل آمریکا به نقاطی در داراب حمله کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/news_hut/68387" target="_blank">📅 01:14 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/68387" target="_blank">📅 01:14 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68386">
@@ -717,7 +717,7 @@ creedroomz
 فارس:
 لحظاتی قبل یک فروند پهپاد MQ9 با آتش سامانه نوین پدافند پیشرفته نیروی دریایی سپاه تحت کنترل شبکه یکپارچه پدافند هوایی کشور در آسمان بوشهر رهگیری و منهدم شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/news_hut/68386" target="_blank">📅 01:09 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/68386" target="_blank">📅 01:09 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68385">
@@ -732,7 +732,7 @@ creedroomz
 <div class="tg-text">🚨
 منتسب به لار
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/68385" target="_blank">📅 00:59 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/68385" target="_blank">📅 00:59 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68384">
@@ -741,7 +741,7 @@ creedroomz
 معاون استانداری خوزستان:
 دقایقی پیش نقاطی در اطراف شهر اهواز توسط دشمن تروریستی آمریکا مورد حملۀ موشکی قرار گرفت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/68384" target="_blank">📅 00:50 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/68384" target="_blank">📅 00:50 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68383">
@@ -756,7 +756,7 @@ creedroomz
 <div class="tg-text">🚨
 حملات آمریکا به سایت موشکی یزد
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/68383" target="_blank">📅 00:39 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/68383" target="_blank">📅 00:39 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68382">
@@ -764,7 +764,7 @@ creedroomz
 <div class="tg-text">ممکنه امشب، سخت‌ترین شب برای جنوب باشه
 🙁
 #hjAly‌</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/68382" target="_blank">📅 00:37 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/68382" target="_blank">📅 00:37 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68381">
@@ -774,7 +774,7 @@ creedroomz
 🚨
 گزارش های اولیه از چندین انفجار در یزد
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/68381" target="_blank">📅 00:35 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/news_hut/68381" target="_blank">📅 00:35 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68380">
@@ -789,7 +789,7 @@ creedroomz
 <div class="tg-text">🚨
 ویدیو منتسب به حمله آمریکا به لارستان فارس
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/68380" target="_blank">📅 00:29 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/news_hut/68380" target="_blank">📅 00:29 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68379">
@@ -797,7 +797,7 @@ creedroomz
 <div class="tg-text">🚨
 گزارش ها از انفجار در لارستان استان فارس
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/68379" target="_blank">📅 00:14 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/news_hut/68379" target="_blank">📅 00:14 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68378">
@@ -806,7 +806,7 @@ creedroomz
 انفجارر
 بندرعباس
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/68378" target="_blank">📅 23:56 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/news_hut/68378" target="_blank">📅 23:56 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68377">
@@ -814,7 +814,7 @@ creedroomz
 <div class="tg-text">🚨
 سیریک و اهواز انفجار
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/68377" target="_blank">📅 23:45 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/68377" target="_blank">📅 23:45 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68376">
@@ -823,7 +823,7 @@ creedroomz
 🚨
 قشم رو وحشتناک زدن
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/news_hut/68376" target="_blank">📅 23:40 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/news_hut/68376" target="_blank">📅 23:40 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68375">
@@ -831,7 +831,7 @@ creedroomz
 <div class="tg-text">🚨
 دو انفجار در اهواز
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/news_hut/68375" target="_blank">📅 23:39 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/news_hut/68375" target="_blank">📅 23:39 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68374">
@@ -839,7 +839,7 @@ creedroomz
 <div class="tg-text">🚨
 دو انفجار در بوشهر
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/news_hut/68374" target="_blank">📅 23:34 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/news_hut/68374" target="_blank">📅 23:34 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68373">
@@ -847,7 +847,7 @@ creedroomz
 <div class="tg-text">🚨
 انفجار ها در سیریک
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/news_hut/68373" target="_blank">📅 23:33 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/news_hut/68373" target="_blank">📅 23:33 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68372">
@@ -857,7 +857,7 @@ creedroomz
 فرماندهی مرکزی ایالات متحده:
 سنتکام امروز ساعت ۳ بعدازظهر (به وقت شرقی) و برای هفتمین شب پیاپی، دور جدیدی از حملات را علیه ایران آغاز کرد. این حملات با هدف تداوم تضعیف توانمندی‌های نظامی ایران و بنا بر دستور فرمانده کل انجام می‌شوند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/news_hut/68372" target="_blank">📅 23:33 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/news_hut/68372" target="_blank">📅 23:33 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68371">
@@ -868,14 +868,14 @@ creedroomz
 ⭕️
 با اعلام سنتکام دور جدیدی از حملات آمریکا به ایران آغاز شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/news_hut/68371" target="_blank">📅 23:29 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/news_hut/68371" target="_blank">📅 23:29 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68370">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">‼️
 عجیب اما واقعی، حمله‌ی گداوند به علی‌آقا دایی:</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/news_hut/68370" target="_blank">📅 23:09 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/news_hut/68370" target="_blank">📅 23:09 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68368">
@@ -889,7 +889,7 @@ creedroomz
 علی دایی رانتیه و آرزوی بمباران ایران رو داره
 !!!
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/68368" target="_blank">📅 23:07 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/news_hut/68368" target="_blank">📅 23:07 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68367">
@@ -909,7 +909,7 @@ creedroomz
 مادرش پشت سرهم مجبور بوده از یک خونه به خونه دیگه بره
 جی دی ونس یک کتاب داره که توش نوشته چندتا دوست پسر مامانش داشته و چطوری دوست پسراشو میاورده خونه و چقدر کمبود داشته
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/68367" target="_blank">📅 22:42 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/news_hut/68367" target="_blank">📅 22:42 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68366">
@@ -924,7 +924,7 @@ creedroomz
 <div class="tg-text">🚨
 ویدیو ای که گفته میشه مربوط به کشتی تایلندی هست که مورداصابت قرار گرفته!
 @News_Hut</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/68366" target="_blank">📅 22:15 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/news_hut/68366" target="_blank">📅 22:15 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68365">
@@ -933,7 +933,7 @@ creedroomz
 🚨
 🇮🇷
 یک کشتی تایلندی در تنگه هرمز هدف حمله سپاه پاسداران قرار گرفت.  @News_Hut</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/68365" target="_blank">📅 21:51 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/news_hut/68365" target="_blank">📅 21:51 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68364">
@@ -943,7 +943,7 @@ creedroomz
 🇮🇷
 یک کشتی تایلندی در تنگه هرمز هدف حمله سپاه پاسداران قرار گرفت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/news_hut/68364" target="_blank">📅 21:36 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/news_hut/68364" target="_blank">📅 21:36 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68361">
@@ -958,7 +958,7 @@ creedroomz
 <div class="tg-text">🚨
 وضعیت اقلیم کردستان پس از حملات جمهوری اسلامی
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/news_hut/68361" target="_blank">📅 21:33 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/news_hut/68361" target="_blank">📅 21:33 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68360">
@@ -994,7 +994,7 @@ creedroomz
 👇
 🔸
 https://t.me/+ioIBrQfqMLtmMmEy</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/news_hut/68360" target="_blank">📅 21:33 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/news_hut/68360" target="_blank">📅 21:33 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68359">
@@ -1027,7 +1027,7 @@ YekBet
 ورود به سایت با فیلترشکن
 📲
 @yekbet</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/news_hut/68359" target="_blank">📅 21:33 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/news_hut/68359" target="_blank">📅 21:33 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68358">
@@ -1036,7 +1036,7 @@ YekBet
 <div class="tg-text">🚨
 تعداد بیشتری از جنگنده‌های آمریکایی مدل F-16 که از اروپا به این منطقه اعزام شده‌اند، با پشتیبانی هواپیماهای تانکردار KC-135، در حال استقرار هستند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/news_hut/68358" target="_blank">📅 21:15 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/68358" target="_blank">📅 21:15 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68357">
@@ -1051,7 +1051,7 @@ YekBet
 <div class="tg-text">‼️
 ترافیک تنگه هرمز در ۱۶ جولای به کمترین میزان در طول سه هفته گذشته رسید و تنها هشت کشتی از این مسیر عبور کردند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/news_hut/68357" target="_blank">📅 20:34 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/news_hut/68357" target="_blank">📅 20:34 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68356">
@@ -1060,7 +1060,7 @@ YekBet
 🚨
 🚨
 تعداد قابل توجهی سوخترسان در حال اعزام به خاورمیانه است</div>
-<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/news_hut/68356" target="_blank">📅 20:10 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/news_hut/68356" target="_blank">📅 20:10 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68355">
@@ -1075,7 +1075,7 @@ YekBet
 <div class="tg-text">‼️
 ماهیگیران ایرانی یک پهپاد انتحاری آمریکایی مدل "لوکاس" را که سقوط کرده بود، از تنگه هرمز خارج کردند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/news_hut/68355" target="_blank">📅 19:54 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/news_hut/68355" target="_blank">📅 19:54 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68354">
@@ -1087,7 +1087,7 @@ YekBet
 امری که می‌تواند نقش احتمالی آینده اسلام‌آباد به عنوان میانجی میان ایالات متحده و ایران را پیچیده سازد.
 پاکستان که دارای تسلیحات هسته‌ای است و ماه گذشته در دستیابی به توافقی موقت در مناقشه میان واشنگتن و تهران نقش میانجی را ایفا کرد، سال گذشته یک توافق‌نامه دفاعی متقابل با عربستان سعودی امضا نمود و هزاران سرباز پاکستانی به همراه یک اسکادران از هواپیماهای جنگنده به این پادشاهی اعزام شده‌اند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/news_hut/68354" target="_blank">📅 19:23 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/news_hut/68354" target="_blank">📅 19:23 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68353">
@@ -1100,7 +1100,7 @@ YekBet
 ✔️
 واقعیت: اخیراً هیچ‌یک از نیروهای آمریکایی در این منطقه کشته یا اسیر نشده‌اند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/news_hut/68353" target="_blank">📅 18:50 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/news_hut/68353" target="_blank">📅 18:50 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68352">
@@ -1119,7 +1119,7 @@ YekBet
 انهدام این برج، مستقیماً توانایی سپاه پاسداران را برای هماهنگی حملات علیه خدمه غیرنظامی و بی‌گناه کاهش می‌دهد.
 علاوه بر این، این اقدام از آزادی کشتیرانی در آب‌های منطقه برای تمامی شناورها محافظت می‌کند، مگر کشتی‌هایی که قصد نقض محاصره دریایی جاری ایالات متحده علیه ایران را داشته باشند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/news_hut/68352" target="_blank">📅 18:07 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/news_hut/68352" target="_blank">📅 18:07 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68351">
@@ -1136,7 +1136,7 @@ YekBet
 برای آنکه رهبران آمریکا و رژیم صهیونیستی از وجود اراده جدی برای مجازات خود آگاه شوند، سریال «مختارنامه» را تماشا کنند
 😶
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/news_hut/68351" target="_blank">📅 17:53 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/news_hut/68351" target="_blank">📅 17:53 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68350">
@@ -1151,7 +1151,7 @@ YekBet
 <div class="tg-text">‼️
 هم‌اکنون وضعیت پل کهورستان
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/news_hut/68350" target="_blank">📅 17:15 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/news_hut/68350" target="_blank">📅 17:15 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68348">
@@ -1162,7 +1162,7 @@ YekBet
 </div>
 <div class="tg-text">بدون شرح.
 @News_Hut</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/news_hut/68348" target="_blank">📅 16:32 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/news_hut/68348" target="_blank">📅 16:32 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68347">
@@ -1172,7 +1172,7 @@ YekBet
 سید مجید موسوی:
 حملات موثر و هدفمند تا زمانی که صلح به سواحل جنوبی و تنگه هرمز برگرده ، ادامه خواهد داشت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/news_hut/68347" target="_blank">📅 16:00 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/news_hut/68347" target="_blank">📅 16:00 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68346">
@@ -1186,7 +1186,7 @@ YekBet
 عرزشی فقط زورش به مردم بی دفاع خودش میرسه تا اسم امریکا اومد وسط همه از ترس ریدن به خودشون
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/news_hut/68346" target="_blank">📅 15:35 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/news_hut/68346" target="_blank">📅 15:35 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68345">
@@ -1195,7 +1195,7 @@ YekBet
 <div class="tg-text">🚨
 همچنان آمریکا در حال انتقال تجهیزات و مهمات جنگی به خاورمیانه
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/news_hut/68345" target="_blank">📅 15:12 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/news_hut/68345" target="_blank">📅 15:12 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68344">
@@ -1213,7 +1213,7 @@ YekBet
 الان هم اگه سپاه تو تنگه هرمز به کشتی‌ها حمله نمی‌کرد، سرباز‌های جنوب کشته نمیشدن.
 جنگ طلبی سپاه داره کشور رو نابود میکنه وگرنه ما کشور ثروتمندی داریم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/news_hut/68344" target="_blank">📅 14:36 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/news_hut/68344" target="_blank">📅 14:36 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68343">
@@ -1223,7 +1223,7 @@ YekBet
 سپاه پاسداران:
 در یک حمله غافلگیرانه به پایگاه آمریکا در العدید قطر یک سامانه راداری بردبلند و چندین فروند سوخت‌رسان آمریکا به طور کامل منهدم و به چندین فروند دیگر آسیب جدی وارد شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/news_hut/68343" target="_blank">📅 14:35 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/news_hut/68343" target="_blank">📅 14:35 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68342">
@@ -1257,7 +1257,7 @@ YekBet
 👇
 🔸
 https://t.me/+ioIBrQfqMLtmMmEy</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/news_hut/68342" target="_blank">📅 14:35 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/news_hut/68342" target="_blank">📅 14:35 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68341">
@@ -1278,7 +1278,7 @@ YekBet
 ورود به سایت با فیلترشکن
 📲
 @yekbet</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/news_hut/68341" target="_blank">📅 14:35 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/news_hut/68341" target="_blank">📅 14:35 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68340">
@@ -1293,7 +1293,7 @@ YekBet
 <div class="tg-text">‼️
 مهدی مطهرنیا در برنامه «با ضیا» به بررسی برخی سناریوهای احتمالی در تنش میان ایران و آمریکا پرداخت و از احتمال حمله زمینی و نیز مطرح بودن سناریوهای دیگر سخن گفت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/news_hut/68340" target="_blank">📅 13:32 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/news_hut/68340" target="_blank">📅 13:32 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68339">
@@ -1319,7 +1319,7 @@ YekBet
 <div class="tg-text">❌
 دقایقی پیش یک فروند نفتکش که قصد عبور از آبهای عمان را داشته است مورد اصابت قرار گرفت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/news_hut/68338" target="_blank">📅 12:53 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/news_hut/68338" target="_blank">📅 12:53 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68336">
@@ -1332,7 +1332,7 @@ YekBet
 هگست وزیر جنگ آمریکا لحظه سقوط برج مراقبت دریایی چابهار را در صفحه توئیتر خود بازنشر کرد!
 الان فقط یه خاطره از این برج مونده.
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/news_hut/68336" target="_blank">📅 12:30 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/news_hut/68336" target="_blank">📅 12:30 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68335">
@@ -1351,7 +1351,7 @@ YekBet
 ⏺
 پل روستای مارو شهرستان خمیر
 @News_Hut</div>
-<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/news_hut/68335" target="_blank">📅 11:52 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/news_hut/68335" target="_blank">📅 11:52 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68333">
@@ -1381,7 +1381,7 @@ YekBet
 <div class="tg-text">⏺
 وضعیت پل کهورستان در محور بندرعباس شیراز بعد از حمله دیشب.
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/news_hut/68332" target="_blank">📅 10:59 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/news_hut/68332" target="_blank">📅 10:59 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68331">
@@ -1409,7 +1409,7 @@ YekBet
 محمدباقر قالیباف، تیر 1403:
 ما غنی‌سازی را بیست درصد کردیم جنگ شد؟ شصت درصد کردیم جنگ شد؟
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/news_hut/68330" target="_blank">📅 10:02 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/news_hut/68330" target="_blank">📅 10:02 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68329">
@@ -1424,7 +1424,7 @@ YekBet
 <div class="tg-text">⏺
 تصاویر ماهواره‌ای نشان می‌دهند که آثار سوختگی در محل حضور یک سامانه پدافندی پاتریوت آمریکایی در فرودگاه اربیل عراق وجود داشته و احتمالا این سامانه  بالاخره توسط پهپادهای شاهد منهدم شده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/news_hut/68329" target="_blank">📅 09:19 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/news_hut/68329" target="_blank">📅 09:19 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68328">
@@ -1435,7 +1435,7 @@ YekBet
 میگی ن ؟ بیا تو چنلمون و ببین
 🔥
 @FuckBet @FuckBet @FuckBet @FuckBet @FuckBet @FuckBet</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/news_hut/68328" target="_blank">📅 03:11 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/news_hut/68328" target="_blank">📅 03:11 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68327">
@@ -1476,7 +1476,7 @@ YekBet
 <div class="tg-text">🚨
 فعال شدن پدافند بحرین در پی حمله موشکی و پهبادی سپاه پاسداران
 @News_Hut</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/news_hut/68325" target="_blank">📅 03:05 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/news_hut/68325" target="_blank">📅 03:05 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68324">
@@ -1485,7 +1485,7 @@ YekBet
 🚨
 حملات موشکی سپاه پاسداران به بحرین
 @News_Hut</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/news_hut/68324" target="_blank">📅 03:02 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/news_hut/68324" target="_blank">📅 03:02 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68323">
@@ -1537,7 +1537,7 @@ YekBet
 🇮🇷
 حملات موشکی و پهبادی سپاه پاسداران به کویت
 @News_Hut</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/news_hut/68319" target="_blank">📅 01:51 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/news_hut/68319" target="_blank">📅 01:51 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68318">
