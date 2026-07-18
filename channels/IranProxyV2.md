@@ -291,7 +291,7 @@
 <p>@IranProxyV2 • 👥 1.35K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-27 14:57:31</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-27 15:41:26</div>
 <hr>
 
 <div class="tg-post" id="msg-87">
@@ -321,7 +321,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 52 · <a href="https://t.me/IranProxyV2/87" target="_blank">📅 08:58 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 54 · <a href="https://t.me/IranProxyV2/87" target="_blank">📅 08:58 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-86">
@@ -362,7 +362,7 @@
 
 <div class="tg-post" id="msg-85">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AplFcdmQXvROWSkmxhZyW8MMEECxuAQ5gzCKcaY2lRrNalLnsaRXqUbKdApzk1SN8zhfXxGZ5S8ECvKMk5QD8abPpG0C9-nhp4eu9dI4VtV7AO3TMdCmMtkLMToYo1EzlsQt59yQ70XefoDi1pgt4cflCB8d3USJK-7e44_J_y9hB5ub6JyBPQswdud7O2rPqPk-ZJJtSKbbQFrR9KuEA6wO3FBfToZhfAZs5w9TyY-T_2ojjNgvZsf5td1OKCduVJCtwDMfAynroQAUrOtTcU7f36RC1pwuiSZLCfx3StMZMxFFW0WLFt5QkASC2_GKHfaDCqXb5wJ_bn0W9VgQbg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dAyEs71sSJiKUpQaFjOUPR3elwwotevqKOQzWnRyAR_MXyBau0iwVu_W8eXbN40RZir1bnshnzXpnJ-XhMLuLmPZUHcoMSjof3ntkO2yNsAU5BjXNK46DBuVc6niZU37474vi6jyzzy8pWJ4y2GBdhdBTwCydlwUHGCzBRMtFKHyoOUUzNMHuB6UqnBkbSSt7stBPX3oNsQoUHx3f0uGBVlra2eBF6Or8F-G6jA1Y2xG_9x-0yPjtV_VZc2uudp4g2I5v2lpLYbcaMuLcFBOniSZ5lGx0weJChS4k-snzHxq8aV-7KcCFOPJKp1gutRd3dk2A5S0YHb7vNHKlo1wGA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حتی با دیدنش هم خنک شدم
 پروکسی
 |
@@ -678,7 +678,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 162 · <a href="https://t.me/IranProxyV2/73" target="_blank">📅 12:48 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 163 · <a href="https://t.me/IranProxyV2/73" target="_blank">📅 12:48 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-72">
@@ -709,7 +709,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 217 · <a href="https://t.me/IranProxyV2/72" target="_blank">📅 00:08 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 218 · <a href="https://t.me/IranProxyV2/72" target="_blank">📅 00:08 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71">
