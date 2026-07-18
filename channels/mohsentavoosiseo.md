@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-28 01:11:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-28 02:09:42</div>
 <hr>
 
 <div class="tg-post" id="msg-846">
@@ -304,7 +304,7 @@
 <div class="tg-post" id="msg-844">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">دوستانی که اکانت کلاد خریدند و تجربه موفق دارند و بن نشده لطفا تو دایرکت همین کانال اعلام کنید.   با توجه به نظر سنجی بالا من نمیبینم توی خودم که ماهانه به ۱۰۰۰ نفر بفروشم. نهایت میشه ۱۰۰ نفر با کلی دردسر. میشه حداکثر ماهی ۲۰۰ دلار با کلی مکافات.   پس من ورود…</div>
-<div class="tg-footer">👁️ 1.33K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-843">
@@ -327,7 +327,7 @@
 <div class="tg-post" id="msg-841">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
-<div class="tg-footer">👁️ 1.51K · <a href="https://t.me/mohsentavoosiseo/841" target="_blank">📅 15:22 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/mohsentavoosiseo/841" target="_blank">📅 15:22 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-840">
@@ -885,7 +885,7 @@ pinned «
 
 <div class="tg-post" id="msg-761">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g4J9B3rQRSJWB_Vp8fEyFoQtBXnMthsPo3n2Jxm6nGujdIw9u30WVyGazniDqmhflkVR0B9YWqFy1qG47T0hnmxwKRxoGMbZLChX4J67RNYSN9cc65XybLBFNgiL3KSYjMCjD4XVSbjKmkHFll2gujDMWEfl3Jk5JDSShDGkCVgpSpQQQq4q7uIeBiJdtaBfvZ2lXjKqosmc4aUg1FEBFuWArmE4y8KGtexvuq_zoSAFclIH2I6MqSTiYHk5LnGcm9iofRYN42PclOfPmwLynETl1ogHIl1D4UkV4V3RTe5KNLi0SVuS0GzHo9nMRqdXuuuObuSUyz8y4ZueKKBb4g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ePyheuu6XKi9iYhrbqA13jE-Ti1d8rjPA1MV3n1cxNeqTJ3fL0_qD1J3HqHgIuU0l0q77MlyY8jbzH9g9VgmTV0fx7HDU4UxvwBxfQg6N9_npRv6P55m0IcoVcBLTudPrIQNCGodeZN-FtJuK4TwrLuQXC-7H7v6v-eZ69JSS0CvZW4nW00KM8HnoGizCoNGf0MwA1YMiFIzhkfVHzrm-Jx-Rehj-tLLKK8Dba7oKufx3jcYtJyUfeBANBS2kSQRiWIKCyuKUSW7SFGL8ZasXid9_yt4q-s_mVRsIvP5IE2Z6MpmuGXuFCy9G7gnCqaluyBl7erNi3KuaUmXxvm_zQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال دانشجو:
 من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده
@@ -1109,7 +1109,7 @@ https://t.me/mohsentavoosiseo/739
 
 <div class="tg-post" id="msg-731">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C8ADNzdXT2iMAVOIYkEih0mIRMpnewjflJPNRLoZYIybf8YmTyhoWRooGGIJ9J7wxf7Y_H3Rxk9_YIAhTDeDPIVHQXcDhMXlUU4H5Jv4ya8IKxvKa9cftD4Ir0FUCjfLCDB6PEdkrcSkq0NNYJLtRLqjARHudFLflB5ZOUfPMJUsB2GgJ7oJXS9fMs9hcEuMDzZe_pzdNfycHY8SruZuXWGRMHP-kd0ugLtndQfM66yIkxSD_gV9yIR0jIFUn3AHYYfE52YsGib5RJelz4EYgCJSNyPctr7swtJW6BOJOFIYC8jHPten3UdXcUiDJxsWbZqpXq-9sPv_bmGq7ZOPgA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iUCcCL0Tmfqe73th4hVxTkcy2h_BOglLkJfg0zCD0NJTw1PWr1Mn65V2dPzFOWdHc3iIcGq4bxzovmsWrBwvrxEGYSt1HW1aGr7QpKjSV2NfQWriTY9BPxRe4ajaOoZZcVTaNA10dSAdsBlBroigovkkV625A7o5AQ1_bwcX4F71MhMzt2Gu7iMPN9__wuc92VYVsUVJuD1BT8f4iDdkfkcd33_WEKE7kMesHBCKWK-NTTLSV2as9fkt4BEkHb8VbWFSZbitO3DZC-USy6xx4oYX9oJ8-ILZch-RfdhG9HeIML4q1cwhPAds5Aj_kow2AXmLTmOAvwLAALxDVdgb2A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک دوستی دارم که همیشه فکر میکنه من یه تکنیکی بلدم که انجام میدم سایت ها رشد میکنن. هربار فکر میکنه دارم میپیچونمش و نمیخوام بهش یاد بدم!
 همیشم این رو مثال میزنه. این برای سایتی هست که من فقط یک ساعت مشاوره و راهکار دادم. اوایل فوریه. حدودا یک ماه قبل از جنگ دوم(اسفند).
 بازار آمریکاست و زبان انگلیسی. و فعلا هم خدماتش در یک ایالت هست فقط.
