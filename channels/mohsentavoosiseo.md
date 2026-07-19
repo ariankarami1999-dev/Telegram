@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-28 14:34:53</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-28 15:41:04</div>
 <hr>
 
 <div class="tg-post" id="msg-846">
@@ -418,7 +418,7 @@
 #پروژه
 #پروژه_گرفتن
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/mohsentavoosiseo/829" target="_blank">📅 13:48 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.4K · <a href="https://t.me/mohsentavoosiseo/829" target="_blank">📅 13:48 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-828">
@@ -710,7 +710,7 @@ vibe coding - وایب کدینگ
 <div class="tg-post" id="msg-793">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">سوال از پشتیبان دوره:(سوالات خیلی سطح حرفه ای هم داریم. ولی هدفم پاسخ دادن نیست الان).  مابقی دستورهایی که میخوام در فایل روبوت بزارم مثل قبل هست؟ مثلا disallow کردن سرچ ها صفحه چک اوت و ...   فقط ادرس لاگین رو دیگه قرار ندم  درسته؟</div>
-<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/mohsentavoosiseo/793" target="_blank">📅 12:52 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.8K · <a href="https://t.me/mohsentavoosiseo/793" target="_blank">📅 12:52 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-792">
@@ -810,7 +810,7 @@ pinned «
 
 <div class="tg-post" id="msg-774">
 <div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mB6MXfEKSQ5OkZt2CHtsa2rR3YUpav_mF4OkDsV0fjYVgyZaeNQrt4E9uqva-xXb63figPEPRJjRmDb72go_LoWVJzN40hw6KE-SuF8grgSsBaniltLVTVgjOW-bII_tgsbXg5GecyHu2NCOrk5v4p3bN1ymBxtE4kX7EUAxDiAVAkYlQy2p2Rgo3v6TyzZ8MkJ6pSBDKLZpPDh0Ky_GGqTtQm1g09hYbEuIXzNn7f_7LIFlvoWIEisc0v4PINVJChKnHmcUAg4IBjVwk7Ex8KceJzfJ7Fo28hx-vXY7oE_x9zifeDGuaFpz9L4vxhpk5KOHodOMKgwM1vT6iMe92g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UkBuAhOqlQC0UpFIWSo4pFYcG4YmWqp134U_dlScDvPxpX_PrMCL1vXa-RRf7CdZwoQFShxvY-uMVAXBxDSOxE2RPFtLgrCA7khWA-lK0J2Hc5WUwsPZxQacOD_MLRtpHNW9-vz4NcbiRHQR7i40nDMZbvjYNUONG8h49GhcUDHb0Z6Osm1jqiYbdphcw-1cLtVy40FTj_BTEJgDbimRBL_E-xz7ULGehHsrdevb3_RqYJX2ygVwFvmg5JKW0w9NpijKDuHYxXGuznabnI_8Pa0lXq3e_NJNHGwhViCz2p_pY1_J45Dq4A3Mfq5G-hAzHZbEfnbDqlPV9BFGXSfbOw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درباره پستی که روش ریپلای زدم:   نظر یک نفر قبل از اون پست:  از این زاویه نگاه میکردم که آقا تفکر وقتی آزاد باشه کامنت هم باز میزاره که جامعه بتونه درموردش صحبت کنه  وقتی میبنده داره آزادی رو میگیره</div>
 <div class="tg-footer">👁️ 2.06K · <a href="https://t.me/mohsentavoosiseo/774" target="_blank">📅 17:48 · 04 Tir 1405</a></div>
 </div>
@@ -885,7 +885,7 @@ pinned «
 
 <div class="tg-post" id="msg-761">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tkFwazMKHDkMQy9T_-IDYLpA-ugxL6u8zcRJNTdCUVuNE_-RebpxKiQCrd2D6ntGESxMVyz8p3pZqfTrgiJP5v82z4uo9OrI2yGEiK0Uay4OAT5NJAvksypC6-vNDX-NNcxO7ZzwW-SrkeB5B4Ne1cZoAnxorTGSf1_ZufiqYEJ9-jeAixgZ1bebvI6tDdkwRhZaonauIWgFg_AucymboZPmKVWBCn1RIk9AHDyoukKS87ErWG9KUGsX_m_sS2xc92Ax1erFp2gd-tM4enABsCL5ladaJoJ4MnurS00InlRL9W45G0fFAm-dNxN4b1kwGVh-SdPEtx0EQpP15q9cYw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UJC0mui1n_VIcmUcoWCYoClfrIk6zrZgnu9AF6dy-jHA9DTmhQm-D2mSpVcn1NA0qbFTgt39gHR5g0-Ago6FL8lM8SeqDrOGunRb8EQzqWZxzJbBtSNqNhUTN9U1oCUJ-cVvP0V97KHGTsia11gyr0IyaXME569keGpG15oZ0SRuQdzkz4wXqOC9PHOVGWBIFhqyE7kMmLr04f_HNdDUAC72naR8Z3xhAOOAblbNU8B7daCjmkvDbm3S4AgNj88dHfM2T9BVR0MozlFmrlHP-d4jmtZaPnPA1iw083psnNfMwil9a1C0lS00RE1yCILKzGMcOxp27CZuu4XXPQcVMg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال دانشجو:
 من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده
@@ -1013,7 +1013,7 @@ pinned «
 
 <div class="tg-post" id="msg-744">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/psZKu3dSbMpn1MuU1nVUaE8Bl9Qa7dhWbBSMk6maD0Qo5emxX3G2lOYVGUBvMSHVmpGTatXawJHdz3XbsCscsCgoOaYjTOB-idQJttkA7vTNkpcrjBQnR2bUmpkFAiupj0aDkefFhjo4iKPuwJzcTI1m58EuIQPctLqRZXo7Z11iyeULWjAOcT6WDTqUOSUWyd-txD3Aan4IkgIy9N1iBAGW-cNTjImOP860-mxBkW2pUplVchcwGRSky-c_ihnksvW5JJN8RQrG_FnokIfCB0wwerxQ3KW346dEiZt-IOfdgGX13JkSWPyfpXoiG5WyV6ZiRS_NaMde5rTyzU341w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tU2Lw5V8-iL8r4KxyT1b_BbT5pwXnpLzc8iOHCzqyI3qQkXtr8_Mi7sQeuTvHE78m8ikM7Wjo5lwCNOvpielulyYxYKArTEAjNeJDEWf5Xf8jZ9LS29MJkjg-U14rgGFYeewI7XtJJhWDijbjj9vWEx5psP14EuLFt5PDR-IbN6883EjZQv6qf9zoPNpqWkopIVRfafHbmaPeICpfbP-FOBR6mjYcmp2z6yn71cgevllJkCom4vAeNmfVhywOs2tVDrfZsUe9SKx6YdtV-7YCNAthEfykXM3SVCPHXIjBi5z2JnOr90wOaNYYN4epF8Fq7bGtsbyPU5wdjT-B90G5Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شما هم فکر می کنید این بنده خدا و این بندگان خدا، ساده اند؟ یا من تنهام؟</div>
 <div class="tg-footer">👁️ 2.38K · <a href="https://t.me/mohsentavoosiseo/744" target="_blank">📅 09:03 · 31 Khordad 1405</a></div>
 </div>
@@ -1109,7 +1109,7 @@ https://t.me/mohsentavoosiseo/739
 
 <div class="tg-post" id="msg-731">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Mewbq3bzgtv09Uq17XhCEharOv-AxrWHReA8iRB3r8l5w87-2WYcThzEfYTWGI3hpWH-J4Fe83MBCQakquvKe9WAmfKNBDN2CYM9-wNiuoTv_6e0fU0mSROaxRcpWvxTvRCKPzv_4UY7OzAIwwP7viX3bun0hHtdHNXA5kzDYknhWuwPXKS3OPpTeBzyh6EpdYam2P2t24UyFPOb2NKQ4w_s3Pia6Lzc43sUvnqwh2vKQ7P3q0ZBZPVU4a4gB9xChpJqvVJWdG1f57Bo6quGhdgqpYQls6cQfSMzs2iQG-M8ae74sbUfA8YBz9euWD40j85b26DLjZgYNBLM7nL1cw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VKPsMhYYex1on7BAZYWeCYLPzOQHOJspmIcLG4pyfM-ot9ILqD9TkeGb25gIgK2Se0REA6J4r_GZK1RGoudJJQL5rSn9-lSRUX_XJ99vkZ3xSDlkaqmZ70yK2PmX5MZx5g2HNuYQKoW3Bx0NbkvoPQSn9FZhLNYlElzKFTzubot3SWjN5h50SiOkruV4Yr2C1UHagteZMib3JtMl3hJRbDTtRvFZXg90g8M8KImdJlRVgEvptNwYGeuQ051eO8Mx7p4bSg0tykypM1bTJHCXSkYA40CKIEkCAD1Z8tXqdTYw2vSR63EOVc0qA6WhWUZRQ4fssmjceypKeFAzr5YzGg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک دوستی دارم که همیشه فکر میکنه من یه تکنیکی بلدم که انجام میدم سایت ها رشد میکنن. هربار فکر میکنه دارم میپیچونمش و نمیخوام بهش یاد بدم!
 همیشم این رو مثال میزنه. این برای سایتی هست که من فقط یک ساعت مشاوره و راهکار دادم. اوایل فوریه. حدودا یک ماه قبل از جنگ دوم(اسفند).
 بازار آمریکاست و زبان انگلیسی. و فعلا هم خدماتش در یک ایالت هست فقط.

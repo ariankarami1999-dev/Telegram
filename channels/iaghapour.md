@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-28 14:34:53</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-28 15:41:04</div>
 <hr>
 
 <div class="tg-post" id="msg-2787">
@@ -352,7 +352,7 @@ appleidgram.ir
 ربات ۲۴ ساعته
 🏪
 @appleidgram_bot</div>
-<div class="tg-footer">👁️ 6.79K · <a href="https://t.me/iaghapour/2787" target="_blank">📅 22:55 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.92K · <a href="https://t.me/iaghapour/2787" target="_blank">📅 22:55 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2786">
@@ -372,7 +372,7 @@ appleidgram.ir
 همه این موارد در
 آموزش بالا
 قابل پیاده سازی هستش.</div>
-<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/iaghapour/2786" target="_blank">📅 21:54 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.59K · <a href="https://t.me/iaghapour/2786" target="_blank">📅 21:54 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2785">
@@ -391,7 +391,7 @@ appleidgram.ir
 تانل ریورس روی سرور با آی‌پی مسدود
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 9.86K · <a href="https://t.me/iaghapour/2785" target="_blank">📅 19:32 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/iaghapour/2785" target="_blank">📅 19:32 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2784">
@@ -418,7 +418,7 @@ appleidgram.ir
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2783">
@@ -444,7 +444,7 @@ appleidgram.ir
 در حد توان آمادگی داشته باشید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2780">
@@ -497,7 +497,7 @@ appleidgram.ir
 👌
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/iaghapour/2776" target="_blank">📅 20:14 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/iaghapour/2776" target="_blank">📅 20:14 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2775">
@@ -567,7 +567,7 @@ UAC SNI Spoofer
 
 <div class="tg-post" id="msg-2771">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ekIk9UInKxetOup08PM1Rf0aMgsuyuzFOSt17dune8lqktJruVbfpZUM1Ng05KWUvrHgrToII1NKytJ-bQtCNg8kvqQD6bzIwfXFiAXGb8myJYgg8Tc6SeFGWLPFQZJ0chAN_iO_ppRyvEFFKhk5iJysu81R-JzLtyKsFWjy6tQQNqRatxiIPf9uqE_JAdCKczBi9tmCIK-OnWuAo917VeGt-lmPpM20-JH-jiSO0zJ2jcSynhFzWe8lW4xpsHbh2P0MLWQ4w9otRGRNEhx5jHfYXnOkgreao1zfqCfOtK_1RRI7xKQL3Dia4FUHvJzrAkghUjA0HhvKxSazn-_MxQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fnkUXFC02UUX6ybWbGRes0exAVPxcXjiIdj4pSfHK36wqE7ZTuft2OnOKxp6UZISDuKFAnPVP7q2w5n9dgSnQP0Cb_aEMENpofxMM467NfGAuAbT1YbTHoPtAq-CQTbLyYGQPR482IkOgCip1fZpKjPSNDlP-L4eGHtPwtR2UXN2BK7m6LfMf7gaGkuJGUgPWMyyj1aR0ZOL2Fgqgy7jfz_Iknszgni2ySiJIVw2uKv7DY2TysndcrVK4A5R_vfYmTp1n_YpyZYeEpiv9IpKzPO-HdmsGPm0uiGgcvslkNyNgkdEtz0KgxVIJLy_qA45zvwtAEyIv7l0DrM7BBTkFw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚠️
 توجه! مراقب کلاهبرداریِ فروش پنل‌های رایگان باشید
 دوستان عزیز، با توجه به پیام‌ها و درخواست‌های متعددی که از سمت شما دریافت کردم وظیفه خودم دونستم که یک اطلاع‌رسانی مهم در مورد سوءاستفاده‌های اخیر داشته باشم.
@@ -600,7 +600,7 @@ UAC SNI Spoofer
 البته با وجود این خبرها، هنوز یه سری از کاربرها میگن بعضی تراکنش‌ها مشکل داره. از اون طرف هم انگار کلاً بخش وام رو بستن؛ یعنی مردم این‌همه سپرده گذاشتن به امید وام، ولی حالا که می‌خوان اقدام کنن جلوی وام رو گرفتن.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2768">
@@ -736,7 +736,7 @@ IPv6
 😁
 دوباره این داستان قطعی برقا شروع شد. رسماً دهن سیستم و وسایل برقی خونه سرویس شد رفت!
 🥲</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/iaghapour/2757" target="_blank">📅 21:01 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/iaghapour/2757" target="_blank">📅 21:01 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2756">
@@ -1872,7 +1872,7 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 
 <div class="tg-post" id="msg-2670">
 <div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sTxeodxjuHySHPgNNo1kHmRr3v6j4af0ofoAEs9Ecgc7AR-Ogtp-ZgpxgyzgYKTG0MeoYkg_jAKKwAUXusqUp5ns4tNQ2X8qL_ag9STOm9MMVkXJCtm2dBNbHAHMUi-VinSRKJMjvknRapuONlk_2bTNlgYwxchZf1XjI9ZqcmlEzoTczFQuHrQFmFCsKjHFxnKHb3zepVIMs7ONwhAq2xr3E55kdZ7gEkbhAQ0NSCwGFJzSESjPdJWlSKkODw0ctk43G-1b89Aic7ijYlJZqlepewYVdKf_c67RyIMyro8jIxeRDCzEkzOEvPrUjnsfNAR1Uk13ZVwXjJYL5JZuUA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E7dF9ehtJgKIwEJtjAukb43ywiiqIrFnut8HbkXM-_qZ5zRc07sO-z8W8avevqYvK60618ekKgZAdmmq0ChRhrlSJ8H_gpYyQrjyQn7CG2wJfgL_iLBgKaEtOSSaUANYzRqqdTmXYbAXpPVGe4dx8wDmUjePM-nCJOpEQ1IKXsDUVEqxTub0We_1WAiTLy6wLKrBMNig5_nH6VurdUpeXX22dHAZIhRW6tfPkYQLA0N6eCz7hOGFDYg2e-0yXOe3lq77fZulPukizWArFx6ZMhvdwEgHyjgjUVgFxIic1fqAfDg0_HCsMezS-niferqqKJBKoeDrhYYLv1yhbbYpVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 وزیر ارتباطات: محدودیت‌های اینترنت شفاف و زمان‌دار می‌شود / خسارت روزانه ۱۵ میلیون دلاری قطعی‌ها!
 ستار هاشمی، وزیر ارتباطات در نشست خبری خود با انتقاد از وضعیت فعلی گفت: «در عصر هوش مصنوعی، دردناک است که هنوز دغدغه وصل بودن اینترنت را داریم.» وی تاکید کرد که قطعی اینترنت در فضای غبارآلود شایسته مردم نیست و سازوکار اعمال محدودیت‌ها باید تغییر کند.
