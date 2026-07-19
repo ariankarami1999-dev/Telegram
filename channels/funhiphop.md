@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/gngm1HJShIsWhL-kDfd_CknNuwYsk3G6nXPAzBJMw7e88oBKgJOyY312oEjCOaTJF-jPJKKjsQ_JtegOV8dDqGDWJpP2dtdN1aVRId_8tQYNCHbYFbPDsW6awe_6K0LwEh6IbHe4Hlv3wSqcXv-wBj_kedc10mtXb4LxHwUMNKeYTbl0vzuc3wTUs6I3N-V7fyIK2-BHoI6Sv5TDHvupmz7YSfQ6a-Q2WwUH35X71PFOv1XdNDEaF3rkHnUhShL0C9Tn6zNDC5SXCwC2rGM-SozECB_9pUnAGHctlzpP8FWHzVgSth9uueYRbMX32HOOBaNiNLQeEXBxN_KBHB4oxQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 [ Fun HipHop ]</h1>
-<p>@funhiphop • 👥 192K عضو</p>
+<p>@funhiphop • 👥 193K عضو</p>
 <a href="https://t.me/funhiphop" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 «قدیمی ترین اجتماع فانِ هیپ هاپی»🟡صاحب سبک🟡Tb :@FunHipHopAdsContact :@Chaman_Dar_KhakFollowing Copyright Laws©</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-28 08:44:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-28 11:07:53</div>
 <hr>
 
 <div class="tg-post" id="msg-80709">
@@ -300,13 +300,13 @@
 <div class="tg-text">واقعا وضعیت خنده داریه چطور ممکنه یهو کلی بلا سر یه بخشی از یه مملکت بیاد، چرا انقدر ما کیر شانسیم ناموسا
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/funhiphop/80709" target="_blank">📅 06:17 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.92K · <a href="https://t.me/funhiphop/80709" target="_blank">📅 06:17 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80708">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">یه شبم آمریکا رحم کرد خدا رحم نکرد  @FunHipHop | چمن در خاک</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/funhiphop/80708" target="_blank">📅 06:14 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.05K · <a href="https://t.me/funhiphop/80708" target="_blank">📅 06:14 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80707">
@@ -314,13 +314,13 @@
 <div class="tg-text">یه شبم آمریکا رحم کرد خدا رحم نکرد
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/funhiphop/80707" target="_blank">📅 06:06 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.61K · <a href="https://t.me/funhiphop/80707" target="_blank">📅 06:06 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80706">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">اهواز زلزله شدید اومده   @FunHipHop | چمن در خاک</div>
-<div class="tg-footer">👁️ 5.46K · <a href="https://t.me/funhiphop/80706" target="_blank">📅 06:04 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.6K · <a href="https://t.me/funhiphop/80706" target="_blank">📅 06:04 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80705">
@@ -328,7 +328,7 @@
 <div class="tg-text">اهواز زلزله شدید اومده
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/funhiphop/80705" target="_blank">📅 06:01 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.48K · <a href="https://t.me/funhiphop/80705" target="_blank">📅 06:01 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80704">
@@ -336,7 +336,7 @@
 <div class="tg-text">ترامپ خوش غیرت 2 تا از سربازای مملکتش کشته شد شدت حملاتشو کمتر کرد
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 6.65K · <a href="https://t.me/funhiphop/80704" target="_blank">📅 05:16 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.3K · <a href="https://t.me/funhiphop/80704" target="_blank">📅 05:16 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80703">
@@ -345,7 +345,7 @@
 <div class="tg-text">سلام بهونه قشنگ من برای زندگی.
 @FunHipHop
 | Reza</div>
-<div class="tg-footer">👁️ 6.99K · <a href="https://t.me/funhiphop/80703" target="_blank">📅 05:09 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/funhiphop/80703" target="_blank">📅 05:09 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80702">
@@ -353,7 +353,7 @@
 <div class="tg-text">حالتون چطوره؟
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 8.01K · <a href="https://t.me/funhiphop/80702" target="_blank">📅 03:06 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.85K · <a href="https://t.me/funhiphop/80702" target="_blank">📅 03:06 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80701">
@@ -361,31 +361,31 @@
 <div class="tg-text">خب بریم سراغ جنگ فوتبال بسه
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 9.28K · <a href="https://t.me/funhiphop/80701" target="_blank">📅 02:33 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/80701" target="_blank">📅 02:33 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80700">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">یاد گل اوزیل افتادم</div>
-<div class="tg-footer">👁️ 9.22K · <a href="https://t.me/funhiphop/80700" target="_blank">📅 02:31 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/funhiphop/80700" target="_blank">📅 02:31 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80699">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">عجب گلی زد جواد</div>
-<div class="tg-footer">👁️ 9.24K · <a href="https://t.me/funhiphop/80699" target="_blank">📅 02:31 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/funhiphop/80699" target="_blank">📅 02:31 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80698">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">فرانسه چهارمی رو زد انگلیس هم شیشمی رو</div>
-<div class="tg-footer">👁️ 9.27K · <a href="https://t.me/funhiphop/80698" target="_blank">📅 02:30 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/funhiphop/80698" target="_blank">📅 02:30 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80697">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">گلللل</div>
-<div class="tg-footer">👁️ 9.33K · <a href="https://t.me/funhiphop/80697" target="_blank">📅 02:28 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/funhiphop/80697" target="_blank">📅 02:28 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80696">
@@ -393,7 +393,7 @@
 <div class="tg-text">ولی عجب فودبالیه
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/funhiphop/80696" target="_blank">📅 02:27 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/funhiphop/80696" target="_blank">📅 02:27 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80695">
@@ -401,7 +401,7 @@
 <div class="tg-text">حملات دوباره به جنوب کشور
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 8.9K · <a href="https://t.me/funhiphop/80695" target="_blank">📅 02:25 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/funhiphop/80695" target="_blank">📅 02:25 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80689">
@@ -409,7 +409,7 @@
 <div class="tg-text">آمریکا حملاتش به جنوب رو شروع کرد
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 9.97K · <a href="https://t.me/funhiphop/80689" target="_blank">📅 01:57 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/80689" target="_blank">📅 01:57 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80687">
@@ -421,7 +421,7 @@
 <div class="tg-text">میخواستم پست بزنم بگم لاکپشت کثیف کیرم دهنت چطوری تونستی بانو رو ناراحت کنی که جبران کرد.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/funhiphop/80687" target="_blank">📅 01:54 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/80687" target="_blank">📅 01:54 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80683">
@@ -430,7 +430,7 @@
 <div class="tg-text">عجب خریدی پسر
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/funhiphop/80683" target="_blank">📅 01:36 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/80683" target="_blank">📅 01:36 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80682">
@@ -438,13 +438,13 @@
 <div class="tg-text">طرفدارای بارسا نیمه دوم تلویزیونو خاموش کنید، به صلاح خودتونه.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/funhiphop/80682" target="_blank">📅 01:23 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/80682" target="_blank">📅 01:23 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80680">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">یا امام حسین چهارمی</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/funhiphop/80680" target="_blank">📅 01:16 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/funhiphop/80680" target="_blank">📅 01:16 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80677">
@@ -452,7 +452,7 @@
 <div class="tg-text">حیف که دیکتاتور ها گریه نمیکنن سقوط میکنن وگرنه رو گریه امباپه میبستم.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/funhiphop/80677" target="_blank">📅 00:54 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/80677" target="_blank">📅 00:54 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80668">
@@ -461,7 +461,7 @@
 <div class="tg-text">امتحانا تعویق افتاد؟
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/80668" target="_blank">📅 00:27 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/80668" target="_blank">📅 00:27 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80666">
@@ -469,7 +469,7 @@
 <div class="tg-text">من دلم نمیاد تو حساب دمو هم ۱۴۰ میلیون خرج مورگان راجرز بکنم، چلسی چطوری انقد پول داده پاش
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/80666" target="_blank">📅 00:12 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/80666" target="_blank">📅 00:12 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80665">
@@ -477,7 +477,7 @@
 <div class="tg-text">حدود ۲۰ دقیقه دیگه نبرد بازنده های جام، امباپه و بلینگهام شروع میشه
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/80665" target="_blank">📅 00:08 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/80665" target="_blank">📅 00:08 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80663">
@@ -486,19 +486,19 @@
 <div class="tg-text">چقدر زود ترسیدن میزاشتین حالا برسن بعد انصراف میدادید
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/80663" target="_blank">📅 23:59 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/funhiphop/80663" target="_blank">📅 23:59 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80662">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">دشان جان بازی قبلی اینجوری ارنج کرده بودی فرداشب میدیدمت</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/80662" target="_blank">📅 23:43 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/80662" target="_blank">📅 23:43 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80661">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">دخترا عکسو آروم باز کنید  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/80661" target="_blank">📅 23:35 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/80661" target="_blank">📅 23:35 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80660">
@@ -507,7 +507,7 @@
 <div class="tg-text">دخترا عکسو آروم باز کنید
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/80660" target="_blank">📅 23:32 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/funhiphop/80660" target="_blank">📅 23:32 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80659">
@@ -515,7 +515,7 @@
 <div class="tg-text">دوستان مگه ایرانه رئیس جمهور مملکت بیاد برای جذب نیرو فراخوان بده و چارتا تازه کار بردارن بیارن خاورمیانه برا جنگ، این پستی که از ترامپ داره پخش میشه فیکه.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/80659" target="_blank">📅 23:16 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/80659" target="_blank">📅 23:16 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80658">
@@ -523,7 +523,7 @@
 <div class="tg-text">فرانسه هم قشنگ معلومه فقط اومدن برا آقای گلی امباپه، خط دفاع رو ذخیره ها بازی داده خط حمله همه هستن
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/funhiphop/80658" target="_blank">📅 23:12 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/80658" target="_blank">📅 23:12 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80656">
@@ -531,7 +531,7 @@
 <div class="tg-text">انگلیس یجوری ترکیب دومشو بازی داده انگار بعد این مسابقه میره برا فینال
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/80656" target="_blank">📅 23:08 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/80656" target="_blank">📅 23:08 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80655">
@@ -539,7 +539,7 @@
 <div class="tg-text">ولی جدی قطع نکنید، این پولدارایی که وصل میمونن خیلی یبس و توکون نرو ان، حوصلم سر می‌ره
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/80655" target="_blank">📅 22:49 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/funhiphop/80655" target="_blank">📅 22:49 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80654">
@@ -547,13 +547,13 @@
 <div class="tg-text">اگه نت قطع شد بدونید دوستون داشتم، اگه نشد هم که کیرم دهنتون ازتون بدم میاد
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/funhiphop/80654" target="_blank">📅 22:34 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/funhiphop/80654" target="_blank">📅 22:34 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80653">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">یکی به این کصکشا بگه جام جهانی فردا تموم میشه نه امروز</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/80653" target="_blank">📅 22:33 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/80653" target="_blank">📅 22:33 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80652">
@@ -562,7 +562,7 @@
 <div class="tg-text">حمایت بنیامین نتانیاهو از آرژانتین
 @FuunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/80652" target="_blank">📅 22:14 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/funhiphop/80652" target="_blank">📅 22:14 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80651">
@@ -570,7 +570,7 @@
 <div class="tg-text">اسرائیل به آمریکا پیشنهاد داده در صورت شروع مجدد جنگ تهران رو به اسرائیل بسپارن و بقیه شهر هارو آمریکا مورد حمله قرار بده
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/80651" target="_blank">📅 21:55 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/funhiphop/80651" target="_blank">📅 21:55 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80650">
@@ -578,7 +578,7 @@
 <div class="tg-text">امشب به احتمال زیاد حجم زیادی از حملات به زیرساختای اقتصادی کشور انجام بشه، اگر جنوب کشورید از پل ها و صنایع پتروشیمی و بندر ها فاصله بگیرید
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/80650" target="_blank">📅 21:50 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/80650" target="_blank">📅 21:50 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80649">
@@ -601,7 +601,7 @@
 کانال: @apranetwork
 🚀
 سرعت، پایداری و قیمت؛ همه‌چی توی…</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/80649" target="_blank">📅 21:43 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/80649" target="_blank">📅 21:43 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80648">
@@ -629,7 +629,7 @@
 @apranetwork
 🚀
 سرعت، پایداری و قیمت؛ همه‌چی توی اَپرا</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/80648" target="_blank">📅 21:39 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/funhiphop/80648" target="_blank">📅 21:39 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80647">
@@ -638,13 +638,13 @@
 فاکس نیوز :موشک های ایران مستقیم به نیروهای امریکا در کویت برخورد کرده و حتی جسدشان پیدا نشده است
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/80647" target="_blank">📅 21:23 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/80647" target="_blank">📅 21:23 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80646">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">یکی از سربازا هم مفقود شده   @FuunHipHop | FaRib</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/80646" target="_blank">📅 21:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/80646" target="_blank">📅 21:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80645">
@@ -652,13 +652,13 @@
 <div class="tg-text">عاصم حرکت کن
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/80645" target="_blank">📅 21:18 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/80645" target="_blank">📅 21:18 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80643">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">سنتکام اعلام کرد 2 تا سرباز تو حمله جمهوری اسلامی به اردن کشته شدن  @FuunHipHop | FaRib</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/80643" target="_blank">📅 20:56 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/80643" target="_blank">📅 20:56 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80642">
@@ -666,7 +666,7 @@
 <div class="tg-text">سنتکام اعلام کرد 2 تا سرباز تو حمله جمهوری اسلامی به اردن کشته شدن
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/funhiphop/80642" target="_blank">📅 20:52 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/80642" target="_blank">📅 20:52 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80641">
@@ -674,14 +674,14 @@
 <div class="tg-text">یونان اعلام کرده ۶۰ مسجد رو در این کشور تخریب و تعطیل کرده و هر کسی که مکان مذهبی اسلامی بسازه رو از کشور دیپورت می‌کنه.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/80641" target="_blank">📅 20:23 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/80641" target="_blank">📅 20:23 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80640">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/F_XmAaQQaAih78wqEhNP4SFMtyfO-yEBw_A6u_zwu5RGsg21v88K_4VXYmEV35bWWRqm9NT8GbK5dUTQZqrI7CyZYbxLtaEOF8Yk2q0iiOU6EXse8XUEwNXgfEZ9XhjgTaXRwE-QdhKoiKWs0gyd8C5p_IyGDBUvkqd7lGi_CLqiYdB6mIUtVVsNPI5rR5rfr1ntzfm7NmCXaAQtsQknt7N3f-yy89emp8EQTVJyssX3hUsPeOr7WtVQvW_dXi3lhkPNxUY_MhkJvxEmt7u7QHvaEdTL8v11xu9cVBIAQYcxOT9K0N7kRBh-Eo0vPK70uA3xNAjAZJTisi8W_ShoUQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خدایا چرا ایران  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/80640" target="_blank">📅 20:11 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/funhiphop/80640" target="_blank">📅 20:11 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80639">
@@ -690,7 +690,7 @@
 <div class="tg-text">خدایا چرا ایران
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/80639" target="_blank">📅 18:52 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/80639" target="_blank">📅 18:52 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80638">
@@ -733,7 +733,7 @@ BetForward.com
 g27
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/80638" target="_blank">📅 18:52 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/80638" target="_blank">📅 18:52 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80637">
@@ -742,7 +742,7 @@ g27
 <div class="tg-text">اوکراین خار زیرساخت های روسیه رو گاییده، کل اصرارشون هم سر بسته بودن تنگه هرمز بخاطر همینه که نفت بفروشن بتونن جبران کنن
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/80637" target="_blank">📅 17:46 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/80637" target="_blank">📅 17:46 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80636">
@@ -750,7 +750,7 @@ g27
 <div class="tg-text">جمهوری اسلامی ایران تعلیق توافقنامه و مفاد آنرا اعلام کرد.
 @FunHipHop
 | Reza</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/80636" target="_blank">📅 17:24 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/80636" target="_blank">📅 17:24 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80635">
@@ -759,7 +759,7 @@ g27
 <div class="tg-text">عشقتون برا فینال کاستوم آرژانتین زده
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/80635" target="_blank">📅 17:17 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/80635" target="_blank">📅 17:17 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80634">
@@ -767,7 +767,7 @@ g27
 <div class="tg-text">این قضیه ۳.۲ اسپانیا جلو آرژانتین چیه، چیزیو از دست دادم؟ چرا همه همینو میگن
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/80634" target="_blank">📅 17:10 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/funhiphop/80634" target="_blank">📅 17:10 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80632">
@@ -776,7 +776,7 @@ g27
 <div class="tg-text">حالا به من ربطی نداره ولی آقای حیایی یکم شک بد نیست.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/funhiphop/80632" target="_blank">📅 16:04 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/funhiphop/80632" target="_blank">📅 16:04 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80631">
@@ -800,7 +800,7 @@ g27
 پلیس های مجهز به سلاح وارد هواپیما شدند و مسافر مسلمان را بازداشت کردند.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/funhiphop/80630" target="_blank">📅 15:03 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/funhiphop/80630" target="_blank">📅 15:03 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80628">
@@ -812,7 +812,7 @@ g27
 <div class="tg-text">این سگ تو فضای مجازی خیلی معروف شده، چون همه فکر می‌کردند این سگ نابیناست، اما آزمایش نشون داد فقط آدم‌ها رو نادیده می‌گرفته.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/funhiphop/80628" target="_blank">📅 14:56 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/funhiphop/80628" target="_blank">📅 14:56 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80627">
@@ -828,7 +828,7 @@ g27
 <div class="tg-text">خوش اومدی به بلاد پاری
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/funhiphop/80626" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/funhiphop/80626" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80624">
@@ -852,7 +852,7 @@ g27
 <div class="tg-text">باخت آرژانتین قطعی شد، دریک رو برد آرژانتین بسته.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/funhiphop/80623" target="_blank">📅 12:49 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/funhiphop/80623" target="_blank">📅 12:49 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80622">
@@ -860,7 +860,7 @@ g27
 <div class="tg-text">سخنگوی قوه قضاییه: برای ترامپ و نتانیاهو پرونده قضایی تشکیل دادیم و کیفرخواست اونا صادر شده.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/funhiphop/80622" target="_blank">📅 12:16 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/funhiphop/80622" target="_blank">📅 12:16 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80621">
@@ -880,7 +880,7 @@ g27
 
 <div class="tg-post" id="msg-80620">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oSG_bvbZ6BqwyAMPvELeG5K3VWmo-yD6wAH5sHm8dw-FEKOfqB5RpFuq5j211xorOgDmfcoDOc9gNFis2-Bks_Iufuc7WeltDoS6-OiV_qFj5wmV7WhEXB0iTWBi6VjVTpJnSroHOIHAi5WPcMQckHeuSXJ5fdjIQnNC-B1MIz7M_LuIoCAip-lfdcmtgVCheBXNWnVmf8EyiDX3uVMgzgPgile8_nSst2Y4euvY0q7KEVbXGuzN9a3Nrps88ce3ltrQBFd1I2y2OL4clJmdotykFjWUmo67grSRijsKwjV2wYUTIOUy5MQ8FImsI64uLM-ogzpVKh1ejeeZvkLCLA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/u-Kyt5L-w_I_kTYEozLO2DJvc2wEce91EAbLY74OZVZLA-7oqW-zZIwg_8VdmUbRj0YEX6lFeEUMZKrW_39x8uzXefVXt-30EUUgZkOAG7xT8r4kAr66m995bOhRzivteALM4yyvjuBsHn_DQdTq-1m0ooQN9icn3zY-j3mnEnV9WRT-s73ERDnbXbA5mhuSsgKFuwfrcZ_CcPo4e-uH0YfBDQ28i06kMS4gevAerv70pyVUCGVmTiBHVd_PNh8uHbXM5jSPkaQ5p7QUk0pG-z9o2gBuv5wNosOD7yHnU49iOVHioiqF97PeCqum01pXhLRUzKk4L400e3rscbjscw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگه تو یه کشور نرمال امیرمحمدو میکرد میفتاد زندان.
 @Funhiphop
 | Menot</div>
@@ -889,7 +889,7 @@ g27
 
 <div class="tg-post" id="msg-80619">
 <div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Nue1yjE0e97TnNMSWKY3hEw6uf1MFOgXrLNm7hoUpYT-Hku4iv0kvIzaufT0mDVuGrHH3Q7w7tntE4fGLQ4MryjXdpKTqkxZJyDG8uB4OgVBftn6E41ixIxy290hZRLhaT1t07-zwQzx9v35O71LygW3xH7XVbJ3xVzCX0XoWvbNKNkpyPslD3V0j3TtP13m4slJSff3t6y5vsE1m2Cjint_wBKm3v3keFF4eqJ3pBI0rbNLzOXf5ZHcBiMbMGGfy-COjG8iAKyB3vFYEJQSngSSdD-yvvyd1r-dn3OZE92KmByghpBRFk5LCz5UqS1CKly9KT9aEnS8on81bP6GOA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e54zhT8fYvorKi3Xv6Pt5dtq7lE9D1CFmGtsCy3BL7gKjkt9Tzkt4ExhLHD2WZ8AXa9rEkK4yOtWNu79ew8Fb0J_0Y0l74nGP7UsGd7XaodsMj466SbPsm5Dal37QB_nv6Ll_HCRE6np3dkePY-LS5BDmj4x7voE935tY0m0C9SkrSiqPOpLPeeD6bLiDmuTdzJd-1Im2P7Y7QD7DoFfMzDWXKrqxJSBAUPTUEhlejIHamWyMUNOOLmvEvJU1_rXlCd1daOgwxRKSaZd6XdGNaftmhNaU2OHbxmbVB9d5IRmzvAm7MzgP21IhGyZWUEFKPKeD7YV9HMXfM2goCSHbQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚽️
 فرانسه
 🇫🇷
@@ -932,11 +932,11 @@ BetForward.com
 
 <div class="tg-post" id="msg-80617">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H1XXXusMSgb1BFu91oABhtS3CqTaLcXtT97EspLbk5NgjWZLlOTXbpyXp0KBcDL7dvOgjR0TxHuw-U7m5FLYAoG1OTjwKgNVH3vusPUl_KxLEMMGAEeGhNsVyC7qvYLOr8Ec2sRgCwPZPZeEoTAWPcdZsvjKbQxyD8shyjPAssZT7sv61WMGW-gGqJi5wCMYPHEepdqyTKHz4GS4Ahw42Nx7SRw-Z7jGxswtisAFG0Z98H0lb88H19sbJwB767uf8oNLvLslxyaxD2Vuu3GWJ8oofvg7YASEijaWcyGi9oFufRUoJCZ_EwqiUYRpdlZ2F0GD9IcnjkrLW3GS_icCOQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AdDy0w56KfTXG7OIR8XBSGFG4nbmvORq6FBNA_byRgwF2HsLqp-1R2l_I9qt3ZJ2VUFbAscfoiISVCQxe8hu9exfzrsQp6P_iBmEWylCuOlzqZmz3GjwZEuLN5OjEKFRxd1jkGMsd0nPfc9JNrjRqG-Lk2Exx50dDEGBvA6vkU90cmUsBoH7I31w8_4Ot_IQ7Pe9wNpvKfbb4gnaglk6z1NeH-mCvsFxc6uNHhycmmydD_AFlo_sgRXqI8Cou_YeJ1HTMwNOBTqnuZqjfbhTHvaSMzyAE9Bw9v2WaVvM4ay5GFyvszM_WfxBdRnbnEo5XAzsmEDNFXEY8gZG8caU5Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تیشرت ایمان صفا تو ختم مادر عمو پورنگ.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/funhiphop/80617" target="_blank">📅 10:30 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/funhiphop/80617" target="_blank">📅 10:30 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80613">
@@ -945,7 +945,7 @@ BetForward.com
 <div class="tg-text">بیژن مرتضوی قراره تو فینال جام جهانی بین دو نیمه اجرا بکنه
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/funhiphop/80613" target="_blank">📅 04:10 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/funhiphop/80613" target="_blank">📅 04:10 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80612">
@@ -953,7 +953,7 @@ BetForward.com
 <div class="tg-text">از الان شدت حملات کیری میره بالا گفته بودن بعد تعطیل شدن مارکت جهانی (3:30) شدیدتر میزنیم
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/funhiphop/80612" target="_blank">📅 03:36 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/funhiphop/80612" target="_blank">📅 03:36 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80611">
@@ -1031,7 +1031,7 @@ BetForward.com
 <div class="tg-text">گروه BTS تو کنسرت جدیدشون به این شکل یاد جاویدنام های عزیز رو زنده نگه داشتن.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/funhiphop/80603" target="_blank">📅 00:23 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/funhiphop/80603" target="_blank">📅 00:23 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80602">
@@ -1093,7 +1093,7 @@ BetForward.com
 ناتو و نیروهای کرد و اسراییل و کشورهای عربی و پاکستان نیز وارد میشوند
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/funhiphop/80595" target="_blank">📅 22:43 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/funhiphop/80595" target="_blank">📅 22:43 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80594">
@@ -1120,7 +1120,7 @@ BetForward.com
 <div class="tg-post" id="msg-80591">
 <div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">اگه خدایی نکرده زبونم لال یک درصد اتفاقی افتاد خواستم از همین الان تاکید و یادآوری کنم که این جزایر ما خواهند بود که سربازان آمریکایی رو محکم درون خودشون جا می‌دن و به عبارتی به اسارت می‌گیرن.  @Funhiphop | Nima</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/80591" target="_blank">📅 22:04 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/80591" target="_blank">📅 22:04 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80590">
