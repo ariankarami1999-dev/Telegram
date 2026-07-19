@@ -288,10 +288,10 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/JCp81C67MdTgcNt9ZDN1II_AqoTzvi-8xNNah4QdP8BigEf-kbhovr_kWL-ufrEbgOvSHSoy6c0BnT04OA01uu3WD6Wainev0y9J4XAWkN8XvFuxbx3O-CRMO5hifD1I9wMVPUdCNTi_Qd2WkA9bMxknZ2dpphdwZskAcj7yDgQICp5AYGCTptzrqr5z1eqUQ5xBnSgUq419xkv7Po9LsTxOtGuHrm5E8FLxGH-NT51uCIwH7-gRbFsbt752e93dqYgre1RH_FXa9DhXKVERfsS7PSyJ2u7tkMsAeVw_gDCt-wmeDpzlfyRO5v-3vkhsHh1trl58fw2ZWK9MSOSEWQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 پروکسی</h1>
-<p>@IranProxyV2 • 👥 1.35K عضو</p>
+<p>@IranProxyV2 • 👥 1.34K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-28 03:13:34</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-28 05:21:37</div>
 <hr>
 
 <div class="tg-post" id="msg-89">
@@ -323,7 +323,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 43 · <a href="https://t.me/IranProxyV2/89" target="_blank">📅 23:51 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46 · <a href="https://t.me/IranProxyV2/89" target="_blank">📅 23:51 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88">
@@ -698,7 +698,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 175 · <a href="https://t.me/IranProxyV2/75" target="_blank">📅 19:07 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 176 · <a href="https://t.me/IranProxyV2/75" target="_blank">📅 19:07 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-74">
