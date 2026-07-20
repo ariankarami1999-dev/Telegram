@@ -292,11 +292,150 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن. اینجا بعضی ازچیزهایی که می‌خواستم ببینم رو همونجوری که می‌خواستم بهم نشون داده بشه می‌گذارم.استوار بر حمایت‌های مردمی:ماهانهvhdo.nl/patreonیک‌بارهvhdo.nl/paypal</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-29 23:45:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-30 01:08:35</div>
 <hr>
 
-<div class="tg-post" id="msg-77325">
+<div class="tg-post" id="msg-77335">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/fj9-HXlVRZ4uET2fMpUpx_WaJK98DWp1wSzBObPni73U44_GKT4MqvciNmeLz6Q0RGeqruenwu1FnIDHGNC3641D0vBkaPPwH9-JitQosPBVOtwd-UlNo64ftEy0xhxA2MMTXhI1JTD5V5VQHv3KluouFi0Xp3I10zzEAyx4bc8ZmEkkxP4dsqn7flqzuWzdMOvy396EvnmE5Nzm-vZmxyLvXHJbT9O1d0DIIttzU6KtBffVjgTV9K4cDDkg8cel8XdqqVEyzDc1ILbEdzyjcpOw1Gc9IjphQZseGu8N0Vfu-pHUo9-LzCXOOZJMd1gY-vp-0azyBOdAqRVLLaajGA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/qTyfJB50HQGaG_xGAb8Q1Io-4k8z3OpFJG9Oj6LpdLDXuJ_ZwKCPXLh_F9flwwUi93RFY_BStLsHBO4cSInIXevkxRxlmPT5RFUFWEVWp-dgnLnwBWamv4fqNqWDWvv8NirtXK8e16O_-S97X06T-oN36FyrU3-qLjMVa2yrSw3yWqkgwn4oXQYuExYtV3Jf4A9F974QWDq08HoCSED62CiIbWcponenBX9scAJL8zhb3gG7yNyyf6752noraKqkZ_V_U7qWfnhSLIwl5qhgbIgnNANegbPebc-zgEzT6VH0afbLj-siz0n2hgyolNxyzhf8SAYnUJ5Vcj8B4xG23Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/YNxqCYNT33bQb5kIjlTa5kUhg7Nd5zOYvBOOWSQvSvnTWZ04OIjbNz8qQz015U5XxfwmXfOEu_Jh0OYFm-DXs2_homcKFx5QxKSgbIeykaFJ-r_qRK91JRoaR1zP6g5inGbm09Pq43HRIvFh6Eve5OcKWb9nKznFHY-Q_Lf1e-UOe6uVJQp3fHT4eApXydlAO4S2HoojG2G6-r6kdrPrsh6Zc2cQ1UVgT90QYy23Z7B7weCDdH8UDoXEWSnCAA28QYZawUWgm0en4zuDc7PhoXPU3kvpLq602bp-57kvrEfrxCycRMnuInU7igmPcF6Mx4dZ_-2snqzQ2km_MPmc5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/hSYAj-GkygHG8oL_60GhUBz4sy7TFs42OdecpSXhB5CBztSTZZOZ5BiE1ozTvXxRsQFB9ybIskbALzyH08mAGBxwqyrGV3ariER6RZ2nZfjHvih3btkC8WWcwhzlPFPUwQ204ZZNKzvqbI7iZbtDI7Jz4uBWPcQRMYByspi4PdQsPHzAmIGKbpDlXJJO7KXK6xudB1qr6YvYaRiHDR9whup1Nf6zluVGLfklaM7IcRQV9eVWSzO9amNC3ZBQgc6GtaFVvzl3U2twSlQ3QDOKPMdeeXEjIUUkxQJV_ZHzePoP4MJSOsT3NVP5a3MCqg7KvlM4qy01DTVP1sAKB5EuVg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/XxNtdTEx6gNlK-GKxQE9QEIRRElcdFFnoD8VVxr2NZrujSjIZdikJC2RjjWPZIgCzcOIpPYXyQMDqzEOW0K4zC8v4rCW0WLhGbuCupUQFjkJba0mqOY1CGjRTOjmPQzanbTTGVj27gwSMtA9JVP8jWDqwv1OPqMtt157uEAlS_0sBDQkmJMBs-FY5pZV8XHN97oUUu2dp8S8YySCPwFDIhuZIci5CuMYjh25AnxKQlsieGvqsQY38z-um6ItgUtkXNfCvVkgl445hkt8WUyRJXM-PzPQIeV5ogwQ5ADnfboEH4sWYyKSVxZalULxNklQJtcfTgB6anLTYI7raO9iQQ.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">'هدف قرار گرفتن نقطه‌ای در کوه دراک شیراز'
+تصاویر دریافتی از شهروندان با شرح بالا، سه‌شنبه ۳۰ تیر حدود ساعت ۰۰:۴۰ بامداد
+Vahid
+📡
+@VahidOnline</div>
+<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/VahidOnline/77335" target="_blank">📅 01:05 · 30 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-77329">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/N6iRSAvjQ19wzHOn4RZFGvWP7ZPkfNSF6QSDuufnKckFigCy30_VF7twLPHzvSXoQ_71p0QSHkSADCjYIALy3y8n9YYZ6_vn2ssLSV9ycOld5n-QRmG2x9HDdBOFs3OgXF469y_eX0JJuJirGrk-4oy_J7UmzKCnnif4AGSYhagCwc4zQ8ZZd5NwjN1Inmh7IdVz2IB85QxpgWt-Nj5APmCgp1FcGkM_UyLUkNA-mJJ1lxlPSRNAmx6F-v_zHJ_YxXvvlkXTBsbhdkrxTXgmrDUVBsJq4ENsTCck4UaeHIAEYhr80mnm-PLqbPVSsAh0i_Yl-xByMRBVKRIPC1osJw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/dCqWINznRfW8fTo3jwdVVOi0iS2ec8ykUbwh80qTFep70SNqoNbfzJKcgc8vh5bSv7fCZqvSmHvEjudz3ICPX7Ac9i0HpsaeYOVI5Y_7lr3KiLDtLQ_cQyeAin4gPZQDDbORxdeUGkso6iz1BQWGUcLnj4TzM44cBAJSSMSDMkAemRb2g0E2vS8FnE7bnf-VQ3BMLCEZcAiO5SiPLu9u07nCoC7xU3jlCd1oy2iKv7d2wIoGA8oNPiPMciMwN_51Q1xai7YsGkMYfHjKcMZMa99tia1UAx8MHPnSmUHSUDAkq1NlCOL8AQnVz9-mbojodFSQUDMDmy5ehm7otUs4zw.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">تصاویر دریافتی درباره صدور هشدار در کویت
+📡
+@VahidOnline</div>
+<div class="tg-footer">👁️ 74.6K · <a href="https://t.me/VahidOnline/77329" target="_blank">📅 00:54 · 30 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-77328">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-text">پیام‌های دریافتی تایید نشده ده دقیقه پیش:
+سلام شیراز همین الان صدای انفجار اومد12.37
+شیراز همین الان صدای انفجار اومد
+شیراز همین الان صدای انفجار مهیب اومد
+🔄
+پیام‌های رگباری الان:
+همین الان شیراز و زد کلفت
+همین الان صنایع صدای انفجار اومد
+سلام وحید جان
+شیراز سمت صنایع رو زدن ساعت 00:45
+00:45 شیراز صدای انفجار
+فکنم صنایع الکترونیک رو زدن
+همین الان شیراز صنایع رو زدن
+شیرازو زدن همین الان
+سلام وقتتون بخیر
+ساعت ۱۲ و ۴۵ دقیقه بامداده
+شیراز همین الان صدای انفجار اومد
+شیراز صدای انفجار
+همین الان شیرازو زدن رکن آباد خونه لرزید
+فرهنگ شهر شیراز صدای انفجار مهیب  ۰۰:۴۵
+شیراز صدا اومد
+سلام یدونه تک انفجار صنایع شیراز ساعت 0:45
+شیشه ها لرزید
+ساعت ۰۰:۴۵ صدای انفجار از شیراز
+شیراز ۱۲:۴۴
+احتمالا صنایع صدای انفجار
+درود وحید جان
+الان صنایع الکترونیک شیراز رو زدن
+این دومین انفجار امروز تو صنایع هست
+شیراز الان 00.46 زدن
+12:45 معالی آباد صدای بلندی شنیده شد ( انفجار یا بمب نمیدونم)
+چهل و شش دقیقهٔ بامداد صدای جنگنده و انفجار در شیراز
+سلام وحید. ساعت 00:46 محدوده صنایع الکترونیک، صدای انفجار شنیدیم.
+شیراز صدرا همین الان صدای شدید انفجار اومد
+شیراز صدای جنگنده اومد روی کوه دراکو زد انفجارشو دیدم
+همه فکر میکنن صنایع رو زد ولی بالای کوه دراک بود
+امروز ساعت ۵ هم از بقیه شنیدم که صنایع الکترونیک شیراز رو زده بودن
+سلام شنیده شدن صدای انفجار صدرا ۱۲:۴۷
+همین الان صدرای شیرازو زدن
+شیراز صدای وحشتناک بلند همه جای شهر شنیدن یا صنایع بوده یا کوه دراک
+وحید ساعت ۱۲:۴۵ بعد نیمه شب صنایع الکترونیک شیراز رو زدند صدای انفجار اومد
+۰۰:۴۵ صدای مهیبی اومد، ما ابیوردی هستیم ولی صدای انفجار تا اینجا اومد
+سلام همین الان حدود ساعت ۱۲:۴۵ شیراز صدای انفجار شدید اومد
+سلام الان شیراز صدرا هستم صدای انفجار اومد
+شیراز  0:45 صدای انفجار اومد
+سمت فرهنگ شهریم ما
+سلام ۰:۴۵ شیراز سمت شهرک گلستان صدا انفجار اومد
+شیراز زدن نمیدونم کجا بود ولی من از فرهنگشهر شنیدم صداشو
+سلام وحید جان  دکل مخابراتی کوه دراک شیراز رو با جنگده زدن ۰۰:۴۰
+من رو پشت بام بودم دکل کوه دراک رو زدن
+صدای جنگده اومد بعد زدن
+خونه ما معمولا وقتی صنایع رو میزنه صداش نمیاد، این انفجار مشخص بود خیلی عمیق  و بزرگ بود که انقد واضح صداشو شنیدم
+📡
+@VahidOnline</div>
+<div class="tg-footer">👁️ 99.6K · <a href="https://t.me/VahidOnline/77328" target="_blank">📅 00:46 · 30 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-77327">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-text">پیام‌های دریافتی:
+چابهار صدای جنگنده سطح پایین میاد الان
+سلام صدای انفجار شدید در چابهار ۰۰:۰۲
+۰۰:۰۶ دیقه صدای انفجار اومد کنارک انگار دور بود
+چابهار ساعت 12 شب دوتا سنگین زد
+🔄
+چابهار دوباره صدا جنگنده :۶
+انفجار سنگین :۰۷
+الان زدن چابهار 12:07
+چابهار الان صدای انفجار شدید
+درود چابهار الان زدن خونه لرزید 00:07
+دوتا دیگه هم زد
+چابهار همین الان دوباره زد
+انفجار خعلی سنگین ۱۲:۰۸
+وحید ۰۰:۰۷ انفجار شدیدتر
+کنارک همین الان صدای سه انفجار
+سلام چابهار الان ۳ تا صدای انفجار اومد۰۰:۰۸
+چابهار همین الان دوباره زد
+۳ بار شد
+🔄
+صدای ۲ انفجار دیگه در کنارک
+همین الان یکی دیکه چابهار
+صدای انفجار دوباره در چابهار
+صدا جت امام علی زد یکی ۱۲:۱۱
+باز یکی دیگه زد همین دقیقه
+پشت هم داره میزنه
+جنگنده ها در ارتفاع پایین در حال پرواز هستند
+داداش امامعلی چابهار رو مثل اینکه زدن
+سلام آقا وحید طرف های امام علی نه خود [پایگاه] امام علی رو زد
+دو تا چیز شبیه فلر از سمت دریا اومد چابهار
+نمی‌دونم چی بودن
+منابع حکومتی:
+فرماندار ویژه چابهار از حمله هوایی دشمن به شهرهای کنارک و چابهار در بامداد سه‌شنبه خبر داد.
+📡
+@VahidOnline</div>
+<div class="tg-footer">👁️ 177K · <a href="https://t.me/VahidOnline/77327" target="_blank">📅 00:02 · 30 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-77326">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/dWVlCrXrLrgk5AS7IQZWdkeFE2aqteJ2y1i2mXsnsrmXbgMdAlJKyD2HrFynqv0FrtkyE2RUO1A0Nb3rhJW0k02WF6oVdpZoVj7bqb8qZ1MAhOzFJEfKald6OaJWK0YMm-Wt8jtgsZg7vkYLd00wcBPb0gaKfKgtGnsb1Dhak-s3ky9tpxrQTBDtXHZdEVR1tsovumguTnnnW-9KzlvYfUoJko6LN5g88P6giVA9QSpiJKOoOJV3er1KJmPTMNNTBxLvmXpVzC-sJE8F1u4QbdL8FuSm8OQg3vIazwIGmLWPkQSaNGhl2xewfVg21WM4wweOXn8JhRT0Wdh59_JjRA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">پست سنتکام، ترجمه ماشین:
+امروز ساعت ۴ بعدازظهر به وقت شرق آمریکا [۲۳:۳۰ به وقت تهران]، نیروهای ایالات متحده به دستور فرمانده کل قوا دور جدیدی از حملات علیه ایران را آغاز کردند. هدف از این حملات، تضعیف بیشتر توانمندی‌های نظامی ایران است که برای حمله به کشتیرانی تجاری در تنگه هرمز به کار گرفته می‌شوند.
+CENTCOM
+📡
+@VahidOnline</div>
+<div class="tg-footer">👁️ 180K · <a href="https://t.me/VahidOnline/77326" target="_blank">📅 23:56 · 29 Tir 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-77325">
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">پیام‌های دریافتی:
 صدای یک انفجار الان بندرعباس
 صدای انفجار مهیب بندرعباس ساعت 22:33
@@ -323,11 +462,11 @@
 دقایقی پیش صدای چند انفجار از حوالی سیریک در شرق استان هرمزگان شنیده شد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/VahidOnline/77325" target="_blank">📅 23:35 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 212K · <a href="https://t.me/VahidOnline/77325" target="_blank">📅 23:35 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77324">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/u7ioZ2MeiQY638YqGBf50Fteuc17Sb9AdLjZVcT-2A3z3l8crymHJt0UoA1zgtAFX2SluBVj4oU4Vrst0sApNw04ZyBKMBW7XSoUGD6ZwTnFE8xBhTGCfhKV6NyPobOft4jg-XfEDV6Vpi37e4yydkqcpECftqvoQ0Y9UThs4-tVUdbJSHHZd0UY21i_sIiVxgv8-KA3HsSzqKS10tHkN8XwHQ-PnUxTyb3ZeqUWVzziYlE0HdVYT0mj4w08WcYcb_a-BfIvrDH1UuTL4Za6PUuAMwrFY5WAfdK97zd85sOntD3gbrSVYAr73kMlpMQN8Yc_JN4C0TZtxSJNzs9sVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حساب فارسی وزارت خارجه آمریکا شامگاه دوشنبه ۲۹ تیر با انتشار یک هشدار امنیتی از شهروندان آمریکایی خواست در پی افزایش تنش‌ها در خاورمیانه، هرچه سریع‌تر ایران را ترک کنند.
 در این هشدار آمده است که وضعیت امنیتی منطقه همچنان پیچیده است و احتمال تشدید غیرمنتظره تنش‌ها وجود دارد.
@@ -339,11 +478,11 @@ VahidHeadline
 BarakRavid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 78.4K · <a href="https://t.me/VahidOnline/77324" target="_blank">📅 23:31 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 204K · <a href="https://t.me/VahidOnline/77324" target="_blank">📅 23:31 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77323">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/b98202fb7b.mp4?token=O5jlRlFD87SmNx8vaqoyQlvOY-IU_-n4e466Cc0VIk2UjLvmONWttqdFF397Klg5o0vRjQ2m38zIRTKzQaojEipguSmkCu2rEmshmtSd_wG1S-foiDpPsxlcKir_xCWZTTdC4GnheCNP5KNYQqdbffoKADZMnGGLM_v8R0tXagsmy-Nr8-mtV61X0iARiueA-h_peEWL19vs-uCuAGZMf17kziRgVhf2z7fPB5AcHY8OJcGVpPnXOcfEUxzKDDnixqsyFZ3xHNJJc9_Atik5u0pRiIyVuDQ2gtqw0LZ9ry_BvQj7t-fKZafwt6NscYxka5C6PamNC51OjkDeuCQ_jQ" type="video/mp4">
@@ -357,11 +496,11 @@ BarakRavid
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 218K · <a href="https://t.me/VahidOnline/77323" target="_blank">📅 21:57 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/77323" target="_blank">📅 21:57 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77322">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/82071ea2df.mov?token=StXfaiAxhDxxeFIBXpjoDn-VQTmIS4p2490ippR1aO3X3rXwsmdj4P4X36g8k0bjy_Y1egnXSgSWgEHpEnOzuvEw4P89XL_aK9O9UKiX00h7OhZHqAErClHGdgonH6Aanril2B6hOp-1FXAGAjFrWLRfpzGAqXJ7O2UZLJ3SbbpG4xXyhyFVynyKzgJyWsTMbqWg37MhFFcvUP7livsGNn0fZ7CTmhO0E4Pux77C-UCdu8yawaoTIOgRUbyMQkOptTILVzb7Ij5lzBTfjOqiOS-2Tp-xenvxMIc7A0ROTz9EydmT4-m_KxSjA2xQnuFPmmTZRXmEbZPEyE5RN16xkQ" type="video/mp4">
@@ -376,11 +515,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 238K · <a href="https://t.me/VahidOnline/77322" target="_blank">📅 21:33 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 290K · <a href="https://t.me/VahidOnline/77322" target="_blank">📅 21:33 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77321">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/fb11afb901.mp4?token=bKrko_OyT1V9ni3MsEdBzyQRKCr6BjjLLc4U6YaVF2PCxsg1nf3QnSAPhN-015AMs8yriJfP0L84LUl030oG5DXczWACzFoUftHigfA3m8Cy5SHOLfSxLEcZMeJuxKqlVDnPTTugW8LCGjX5Xfnrp_mFovb3tAOLhTLNy-d944-SL18oHSuvVrI-YhNfRmKfn3UGKAjP9UCfcioGqEdNK3_Tpos5i6aVc-2yFr84Yv4aqp2_8Wi5M-1LL7XwH1TnGfjsDblzgxYRu__i1tEJBxg0LvGAJdJ2ZR6nNNecuIeZelDVB8FVwIZOMuYpltKfiplKQzHczfMST0jUPgZmPw" type="video/mp4">
@@ -398,11 +537,11 @@ VahidHeadline
 صدای شلیک موشک ساعت ۲۱:۲۵ از تبریز
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/77321" target="_blank">📅 21:26 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 289K · <a href="https://t.me/VahidOnline/77321" target="_blank">📅 21:26 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77320">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/3c8221ff7b.mp4?token=WWcb_x3rEGtcXZ4QQ4JSkMW2og7Nqyanp0c5eBnd1KcueJK9AVoQasBtMKmctXZ6P7fRooqBmVQMxgMytJAZFZAqy_xa_T9Vdih1jaJRI_iK0a2HAfaWNjJyZA3JlWyImWghKmEda1-x_BX7Alk7NX97sd4E9hgNk1KcK0uvZERHDVjZqhcs1_sNqXlDk4eED6gjp92XVpzd_Qne5dlSmcPXxPPY_HyRwOvq6WKNksp1tA3zbXmkDR8MrZ7xxLa35G1Yr76dQPJcaGa2U3AviGHXr07G03E35j0YNv-0I4VzoqzklxGV4Q6QEqlCCRFLjoiaQMq3cBB2f3fUs5cQ6jzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
@@ -418,11 +557,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 237K · <a href="https://t.me/VahidOnline/77320" target="_blank">📅 21:17 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 279K · <a href="https://t.me/VahidOnline/77320" target="_blank">📅 21:17 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77319">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Evk7K2Up29I3I2qaWA_cZKdePOaO6ELYUhXOD6OwYaaTxZ2P4GocmN-nF5P1hzT7lYfcImsAka3clpNF8pM7ID9PAa24en1XgZLIlt___ak8O3fVKmqU2d1bkGmlxbvWJA2cYL92AJDoyFrVPdBSd1W4kIzI0gVyQLLrCjYNlntSYivs49S86503azcNjvb1_6ABs7l1xmTD-HJ6u1ISx0YiNGO1LWOlyMawKKVp5sJUFFA7crmZeRQhrRX5m5TZwHqVPm9ZokLD_7rdHXLIjMutb4cqvNsIh9P_XNioaL_XsSfN4EzdNiKaMrzb-4K9Ap-kHAM0ZHYserO7sDAlsg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست ترامپ، ترجمه ماشین:
 هر بار که ایران یک سرباز آمریکایی را بکشد، بهای آن کشتار را چندین برابر خواهد پرداخت! این دستور به پیت هگست، وزیر جنگ، دنیل کین، رئیس ستاد مشترک ارتش، و تمامی فرماندهان نظامی ابلاغ شده است.
@@ -442,11 +581,11 @@ realDonaldTrump
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 269K · <a href="https://t.me/VahidOnline/77319" target="_blank">📅 20:29 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 306K · <a href="https://t.me/VahidOnline/77319" target="_blank">📅 20:29 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77318">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/j8hIeU7rzukU6sc4mdsZAgn9TAcFSX_boiY0r8HKhvcuVL3Vr65rYXsDGiFL0Fq1eOxBVLnXGYyt6ityIorkaEEMKd461sVxRhHyLTVwWTm5WihV3048q3-CqXgghaO4AEhu0fEkmLExoWrPcf38MKwc50CbYZUFwq0HyKdUI_dMpff4b6hK-ZvgyEY9E0cYxwe7S2KUrk5Yx7uF6axW3gHyepP_Mw3JDW81IbNIu-GXHxRE7qu85CFjKi-ULpZqsuqEPUz7e5C2TGzoSXoCGJwf4HC-uMWVmnVxfoKYqNH_JKIM5tYvRvsgFhOMSmGqnTOjWTG9vzLYzs6lyc3QDw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چند پیام دریافتی تاییدنشده با مضمون: کارخانه نخ شهرستان خمین رو هدف قرار دادند.
 هم‌زمان منابع حکومتی:
@@ -454,11 +593,11 @@ VahidOOnLine
 معاون سیاسی امنیتی استانداری مرکزی در گفتگو با خبرگزاری صداوسیما: این حمله حوالی ساعت ۱۹ روی داد که تلفات جانی در پی نداشت و خسارات احتمالی در دست بررسی است.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 278K · <a href="https://t.me/VahidOnline/77318" target="_blank">📅 19:52 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 308K · <a href="https://t.me/VahidOnline/77318" target="_blank">📅 19:52 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77317">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MoYe4h7e8F0JUvYfMxh75nkDb0T-aUM-W6MMRzOFkZ6lKP1ZzAJ0X-YdrLcGyCuX9bvrR63OYyPK6QIdqak0bcqubi-xkNBHKyOTjbZJoUpyvZcndMnh7hrsbV9ggff4FlrqGHMG29xoAEI79VhpTuAvaLmce8ghBWh0lchM8iSMX8y6ucerWUYPYHDNFmoe5XfCGaQDaYBGd_E3mIssgm6WBe6mvMBV-6LfB52dH7EdiywmeffR73hji57qEc3fvRSME85estut1_7uEHOgdLOIYdtY17Rl-ijT1CKkDfWRHc9YbdtGEAHZ2bkgY9O2jmXY6aJb54Nd-pSP0BfZzg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ژان نوئل بارو، وزیر خارجه فرانسه، در شبکه ایکس اعلام کرد که دو نفر از کارکنان سفارت این کشور یک‌شنبه از سوی نیروهای امنیتی جمهوری اسلامی مورد «تهدید و رفتار ارعاب‌آمیز شدید» قرار گرفتند.
 بارو گفت این اقدام نقض آشکار مصونیت‌های دیپلماتیکی است که این افراد از آن برخوردارند.
@@ -469,11 +608,11 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 284K · <a href="https://t.me/VahidOnline/77317" target="_blank">📅 19:30 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 311K · <a href="https://t.me/VahidOnline/77317" target="_blank">📅 19:30 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77316">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZzjOA4BXCf6zsAMH19M7YYRvrWi-wvDm1Grw0p9FmVcLuGooGXp6nhTFWQbrgWdGHk8w6ZSDrHvaZpllZ8mIRTf7283bZsUpWQCw_82jrA9sNyaXrhxxOoliiCpqRv0hBPDfsshIoyreHltjX2wkKx_Ya_Itg6gz8lA3x8AetHM5k4whV-OXST6PaIMKET3qfFn7G0fJD8LCy2SdlRWMqdGeFMm2gSO58iVL0vM11Sv1DA6jk-gjueL45VcfbYdzvJPOswgF_6GFKapoKb3Pv5vtDCPia7aVkTDel0aEVaxgHxnzAALg2iJSA88GCyDCMwrSqnBZ_PNN7_EDBw6vjA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فاکس‌نیوز، ترجمه ماشین:
 خبر فوری: پنتاگون تصویری از سرباز ایزابلا گونزالس، نظامی ۱۹ ساله آمریکایی اهل کارولتونِ تگزاس، منتشر کرده است که در حملات موشک‌های بالستیک و پهپادی ایران در آخر هفته کشته شد.
@@ -488,11 +627,11 @@ FoxNews
 FoxNews
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 277K · <a href="https://t.me/VahidOnline/77316" target="_blank">📅 19:12 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/77316" target="_blank">📅 19:12 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77315">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/6cac939191.mp4?token=vPPpkFhRPVBa4jm6GP_X33HhMSjHGfmt1NV44_GNhoo-DRnC97e_hyj_WprDtWDMqhQwl7m5M0j67XUAOlpSExs1Kk7xz004vbe2fJ4DWwS4xghRMpFiQCKh16iL_LIzieBsUqttooHAizzV431Nci35IyIPE_dpIxvoA_CN5v5HmvP1N63m0h5b1HhnyXNmJsJ29A_tjZr5mw7G4EgtumgEqer5oVpEJSi3BYdI8bkISLpOOxklVDxRM6a-Ck272djhQ8oHg8T6rngKyfUwRLCaUeHRWTucH0tpqIYwAzMzMV-_h-6od03S5dyqsPZNf7RcfWGAFQNnCdR9OLLECw" type="video/mp4">
@@ -505,11 +644,11 @@ FoxNews
 Vahid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 268K · <a href="https://t.me/VahidOnline/77315" target="_blank">📅 19:05 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 290K · <a href="https://t.me/VahidOnline/77315" target="_blank">📅 19:05 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77313">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">رسانه‌های داخل ایران از پلمب چند کافه و رستوران در مرکز شهر تهران خبر داده‌اند.
 براساس این گزارش‌ها جو کافه، ۱۴۰۱، سام‌کافه، دو بار، نووک و تئوری در خیابان‌های سنایی و ایرانشهر پلمب‌ شده‌اند.
 وبسایت امتداد نوشت که به هریک از این کافه‌ها دلیل متفاوتی ارائه شده است از جمله «حجاب، داشتن ساندویچ در منو و صندلی در پیاده‌رو».
@@ -520,11 +659,11 @@ VahidHeadline
 چهارشنبه (چندروز پیش) به ۹ تا کافه داخل اکباتان فاز یک حکم پلمب دادند بدون هیچ توجیهی (فقط گفتن حجاب رعایت نشد) و همه کافه ها رو پلمب کردن.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 270K · <a href="https://t.me/VahidOnline/77313" target="_blank">📅 18:50 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 292K · <a href="https://t.me/VahidOnline/77313" target="_blank">📅 18:50 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77312">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nzz_wjuJsnbPhujg4EfNgN7JQxR0Ao9KIcgXqwYEuktWuzc4Gro2BfM7t0pgad9EYndbZGvHPeS95ODjg6oSFWVbu_3iI6hipZlIf0x_hyXpltzv30hnWftnssNB5802Qg78RXfd0AXmyywEh0JWiPFn_2n136GZJmc9dfkd0g8YGmeI_UhT6Cax_SgBwWRZ1i8WOEORmY2hFwZhgZlj344ABo7oZF8DnDmwtvIXsaJRU-RHVlwhSaIRX9i5FJsa1jXStey_iczwM1sP-_VlxQ9b6olqarQAzbflJ1mWCKrjm-bDhy129GrC0kq3v_yBGrOkn6y-k3_tgwHl7AixTA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">«اسکندر مومنی»، وزیر کشور جمهوری اسلامی، در راس هیاتی از نمایندگان دستگاه‌های اجرایی، به دعوت همتای پاکستانی خود عازم اسلام‌آباد شد.
 رسانه‌های ایران روز دوشنبه ۲۹تیر۱۴۰۵ گزارش دادند که هدف از این سفر، بررسی راه‌های توسعه همکاری‌های دوجانبه میان ایران و پاکستان است. جزییات بیشتری درباره برنامه دیدارها و محورهای مذاکرات وزیر کشور جمهوری اسلامی منتشر نشده است.
@@ -533,11 +672,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 264K · <a href="https://t.me/VahidOnline/77312" target="_blank">📅 18:47 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 283K · <a href="https://t.me/VahidOnline/77312" target="_blank">📅 18:47 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77311">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vzjZhfw-1wg1dvHr94zAkDZNA-dM6fRHK68AiLIliNN-vsORFHvqfWlULY7eVLUrxz4Pqs8E1PgKwtNIJP3y_94oHhQOfXhrStHzlz9Ezfj1Wj-IGursCl1zIh3G5D2A5ISS1e_QJLKrZM71Szubs3xjgdCr8wjrLPlWySOR5lCS2VNFOYpyCYYEihCX0E9iOflyrPbLf1ZOBSpC1lxrOJPeD6eTRnY3CqeWJyCvQsARLBozZBvuw8r9DnYgcUydklYoeT3BkPSu3uozdfcUgtXDKHNjVS93rT094fzfzaajjekgMv7q-kDH1Asx7N_BjiHywRyxY2m6Evvjj5Gzlw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">«محمدباقر قالیباف»، رییس مجلس شورای اسلامی، با انتقاد از سیاست‌های آمریکا در منطقه، با انتشار پستی در حساب «ایکس» خود نوشته است که واشینگتن هم‌زمان با ادعای تلاش برای توقف جنگ، به انتقال تجهیزات نظامی جدید به منطقه ادامه می‌دهد.
 قالیباف در پیامی که دوشنبه ۲۹تیر۱۴۰۵ منتشر کرده، نوشته است: «آمریکایی‌ها مدام تجهیزات نظامی جدید به منطقه می‌آورند و ادعا می‌کنند دنبال توقف جنگ‌اند.»
@@ -547,11 +686,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 247K · <a href="https://t.me/VahidOnline/77311" target="_blank">📅 18:46 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 269K · <a href="https://t.me/VahidOnline/77311" target="_blank">📅 18:46 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77310">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OCwh2GCZYIExJlWYpF051r3LSEZLJAUi4hj_2ngCrPEXMdtJaesXeOo9-SOLOtmLip0oU5kelMK6YKvlbSJPl2JEs77vrpl8pN4JLG_ql27xy26Lo1Ye3yGZR6ebuAh0MVWQ8V8PGmA-LYDjl6XNvoDtuP19xOguRR3Lx4Ju1tPXXtkQVAWFipjJAx3_TBnTS0kTyPT3dp5kiPPmpBd07seTJ-3oggrNUJdJuPPhU2pzYv3YMkimLhd23GdbIrgwe5MlgWTDrs2quM83cWAyCO1-TF6vhRtm1zpJ8kSJOfdVaISSFYtbNAtAy-cHYJoufM6nG_n-mMh5I7N0HdYAJg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شرکت کشتیرانی یونانی «دایناکام تنکرز» همزمان با بالا گرفتن درگیری‌ها میان ایران و آمریکا در منطقه اعلام کرد که دو نفتکش تحت مدیریت این شرکت روز دوشنبه هنگام عبور در آب‌های ساحلی عمان، هدف پرتابه‌هایی با منشأ نامشخص قرار گرفتند.
 شرکت دایناکام اعلام کرد نفتکش «کاوومیلیز» با پرچم مالت هدف دو پرتابه قرار گرفت که باعث آتش‌سوزی در اتاق موتور آن شد و خدمه را ناچار به ترک کشتی کرد.
@@ -563,11 +702,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 236K · <a href="https://t.me/VahidOnline/77310" target="_blank">📅 18:45 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 253K · <a href="https://t.me/VahidOnline/77310" target="_blank">📅 18:45 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77308">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/UewixnjbB1HFKYWr_gkWk_Fv4UFLdXgm6m3KudezKgdV6NsY_CgPPq80iBlxLIaQ27VUoXHi4y6vY6bzAMBxzDDpZzKI1rgj1sYdm3AXyAKAcB_iRK1p-SALR7qkgfJsmpVrCQM0lMwf-VdxkkOY93ihibOItMZCLnej3GrRBpuy2J6RZilsu4itnpdOasvSdmd1Oa9RaqAgi6DieIlU_6j_VxRG22FxmkBaEJcmR1pPQh7GNUmxmbiL2QS_MftBIYHxuI0fow1jfuChaXtNGuW6an2Wthvk_shVoV7S9g82bvOevilLnwy7PANtDTgKNlUiH4ZeZrIjK_WrQnpCVQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/RLOErEZu8-AXluxyVbncO4aYtSGhnSlhi0fACFUtB-udzmyhNCqG1aXd5bQnIlek82cYDBKP8QP2hL-JFc5kq753QFVWnndaoYH6PMBDemAC3ZKXhZ16s-qA9L1jmkgQHISHhPQ_hpd2gBsvFXC_KDmFlXoXx_7jKSj-241NrDDBZn457CExbMLGJFG1czPjdBHaBePDl9CgUkq1VXw_h4Z4yj-Ohy_281zacW-0loqs3ma0Jq5dJLMX3I33isxScI9nPXoxDY1v9U22kOe9tO0-17-fPZ4P3eqBlEenLXhh_PC1ZreE_l8ItyZ6uTfPl5HFn0lPoooZgOIjAEp69Q.jpg" alt="photo" loading="lazy"/></div>
@@ -581,17 +720,17 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/77308" target="_blank">📅 18:45 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 259K · <a href="https://t.me/VahidOnline/77308" target="_blank">📅 18:45 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77307">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">چند پست بعدی مربوط به ساعت‌های گذشته هستند.</div>
-<div class="tg-footer">👁️ 239K · <a href="https://t.me/VahidOnline/77307" target="_blank">📅 18:45 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 258K · <a href="https://t.me/VahidOnline/77307" target="_blank">📅 18:45 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77305">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/nWM-YNOuyWKnBCuhqHWXeuHT_XmJBb6gqsmWofWm_A68gtVG6e9FFXQvr9yr4U8HYUb_b1_2zNNYqf9WIpZ2r0mV_BjGz30Wnui2WtLeoeiy6Dak5zcwcQJdaxr6iAoTGmsDz1u1Nu2ExwH6dpK3h1XFZPaRJXQKsNv65wsYs0-uHf09c4BS6xJYF1CFruMK8tgkg4u0PADy6ThLEFFRDtIBZYA9qU2vzfJjWEjokXLKvfHbGN-EYf8BIFbVhBpRb9nb-Psc8GQCqqDuj0JrogOWQQq7fVeSaMcdlfh2m6ne_VGQIbC03wujxEzy0x6G0_jX8OUY9l55BwedgJXsXA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/FxD-FWs5hGVh7eUQMztY7vR4-xWtiBXLUVhamyENUjiX1mHhO-fMcdYIO1P0y3zEHDd-IVdsxxYBoJRs5_iGfokr_aEFxl4L7vzuFvPbBYzD3EEka8udMKgieGXjthYt0j9X9KdWSqxmUXZATM1F5qNTEnlg74dOTgR294aB--F_LiQfgYuE2HRf42l_VgJP08HuTsi3SWyxZZV4lBcBuUrqjZWQ2sYiOsAwdmlT-zqtVyMfR2QtVdnoYQ3tOZuXOaIIy4q4PCBeyz9B5brxMOdz3HLJ-9kucs1X0CwFmNOFF_saXnaKO7x2fq0LsC5O9VVAzNrFSeLoH2Uv_WBjBQ.jpg" alt="photo" loading="lazy"/></div>
@@ -605,11 +744,11 @@ VahidHeadline
 [بعدش کلی تصویر مشابه دیگه اومد که دیگه پست نمی‌کنم]
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 262K · <a href="https://t.me/VahidOnline/77305" target="_blank">📅 18:29 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 282K · <a href="https://t.me/VahidOnline/77305" target="_blank">📅 18:29 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77301">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/CxBcdvgNtsGqsk433GdZx7H0dLBbwYRDqAyTz-EjcqRFhI_I-f1i4qyGceZP9tg-C15-hfEwSkYbTPi3tB3Q8eJ9DEeDcAWcy1O9L6EO6b9TDBZiSnOUvs9iqBKiZYWbjJbZ_3M0h_Vys79xHu6bbKG4EPvoG4GosffgIOlZ-JaODJZW5HTmJNuBr9JPtEuBhHamt2zGN4_49fNpkEpu9RP3vqj1ZC6JOscHRDgRDEKmw3KrnFJdD4fo5lkRlHYTFkfknH94YFQtWSrj1DmIu9XMkT6690yB5HR3wJcXUypT4lHybNpF1w6CiVIBOcLadWaua6hMMyjyrKcGIe-94Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/gl8WTlQ1FD0DkiRZLgrbg5JP3nqQBLG1ar-t66E0rO5FrqWvleRx9Q_FKXmJt6TWVTrYd9378vmqT_ZG6vXJVJD7aaMWcRyGF1Z9HyMakl84C_GrCO51KkRXeESwjZ25HOE-91aLEaQPlRs5RszsAbtyM_OeUHPEHahDlIpE7LUuI0loYDJrBeOkXBwV2PyMhhFY7BEjGA5qH9QaCpqRFN_NoZd871O11RDqkU33x5umEBgzO87E4eCYKhy7npZKT207L2CswGylMvhwhfwM9e8aIzj2VEp1ScIlCMonbQOl35ED5HB3gHz5HvxkUHytnJSDwqZoiWj77DoMGdt35Q.jpg" alt="photo" loading="lazy"/></div>
@@ -621,11 +760,11 @@ VahidHeadline
 Vahid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 269K · <a href="https://t.me/VahidOnline/77301" target="_blank">📅 18:00 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 286K · <a href="https://t.me/VahidOnline/77301" target="_blank">📅 18:00 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77300">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">شیراز، پیام‌های دریافتی از ساعت ۱۷:۰۶
 سلام ساعت ۱۷:۰۶ شیراز ،صنایع الکترونیک زدن صدا انفجار لرزوند
 صاایران شیراز رو زد پنج دقیقه پیش
@@ -652,11 +791,11 @@ Vahid
 GoogleMaps
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 316K · <a href="https://t.me/VahidOnline/77300" target="_blank">📅 17:48 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 338K · <a href="https://t.me/VahidOnline/77300" target="_blank">📅 17:48 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77299">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kK3Yd63KSy5SA0PmTUz1Zvfjm8Fy6jQruPjwjunQkPd1BaI3PCCl6tIhzhQSF8YYKR-OrdvPId-HdyLmdwyj84FPY8_7CB1zdeJLi_wUBFj8MqtWs4d4Uxu-IQkx5w-BKqFt6CqQdLmCvSiTAYdHVJAUP7tv4FlWCuoHPbYzmEU5b5f72Ku4DOJBRgES6QZD0-WBR4nSJ0BBlWHULgurzGfHXx51O_mS7tQ8ONXACOOA3Imp9pZj5YbbnWjRDKDSYcZaC1rUAgYBKxlgKzaNInO1i_fnhfDv6TbvfZt0_lkWitHZ9bHkvwzpNPuO6iPaiLIu-xjKIlxK6Hd1M-dzQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">زمین‌لرزه‌ها در کرمانشاه!
 آپدیت: دو زلزله به بزرگی ۵٫۲ و ۵٫۷
@@ -778,11 +917,11 @@ GoogleMaps
 94 کیلومتری سنندج
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 446K · <a href="https://t.me/VahidOnline/77299" target="_blank">📅 07:15 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 454K · <a href="https://t.me/VahidOnline/77299" target="_blank">📅 07:15 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77298">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QlF0-kAQ5ZegkKGcnWUlVj4q11ezU9tk4D6hnZ-JIZl3lAhuSyuj6lu9KhBfaQNJB8JZWO0by6mqXHWbTkr02BHjTzHh7dWLvG-6vs-AETc7pst0shsS398sx-PT0TDqq0iF5IZL24BUkF39Onmw6aXKx100hWV0xHIU83nG4vsX9xacZwVj1o7fyVNGQdhDK7AHuz2QzFblbftFPFwbDFU57j79KJLHMqVACmrYf3Y5m8EchdnazARbyR0JtoITUDrR9TPxHQxiZHlFnyRjybvnMEaZePd5nX4q8nMwnRp63Ih8WJPjFA0-NnSjAWMHdMGdefGF8wEpvYiyEdw3jg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترجمه ماشین:
 مارکو روبیو، وزیر خارجه آمریکا، روز یکشنبه گفت ایالات متحده آماده دیپلماسی با ایران است؛ هم‌زمان ارتش آمریکا نهمین شب پیاپی حملات خود را آغاز کرد.
@@ -799,11 +938,11 @@ CNN
 CNN
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 411K · <a href="https://t.me/VahidOnline/77298" target="_blank">📅 07:02 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 416K · <a href="https://t.me/VahidOnline/77298" target="_blank">📅 07:02 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77297">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">پیام‌های دریافتی:
 همین الان چابهار 5 بار زد 5:50
 باز داره چابهار رو میزنه  لرزش ها وحشتناکه
@@ -816,11 +955,11 @@ CNN
 صدای هواپیما بازم شنیده میشهه چابهار
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 372K · <a href="https://t.me/VahidOnline/77297" target="_blank">📅 05:51 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 380K · <a href="https://t.me/VahidOnline/77297" target="_blank">📅 05:51 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77296">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/f2ddbd450c.mp4?token=j8k5ZSSHMwkCUjkQNthItppf2NbgEInoYKTCiMtQ3hZ5hTMyERNl7XksXgKXyBnYajrURs0I1SApXmKUdhIXdztNTtwYSKc0iQLvBzEfMdIwXBRyb30SwDjiGMgV0NUoABbaZINJlz1OpLtbxCjOt5WWuuk8_lNK7LoZUxC3osEE_B-5TSPHjg-aRWNM__dOey7RxjSDuowWboHQIzdfIT2GOG22bAd76yGvREep8XIBcG45IzZk1mdazliAPofR2Ym3niMJPyiwXxowz1mr0dLPZDEFVa9Vm_3w8oe4fqK88F2Aq8swK5TtkBKlCcUqzEE_40XL1cJGrIm92Pa81w" type="video/mp4">
@@ -858,11 +997,11 @@ CENTCOM
 «إِنْ تَنْصُرُوا اللَّهَ یَنْصُرْکُمْ وَ یُثَبِّتْ أَقْدَامَکُمْ»
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 370K · <a href="https://t.me/VahidOnline/77296" target="_blank">📅 05:49 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 383K · <a href="https://t.me/VahidOnline/77296" target="_blank">📅 05:49 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77295">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/94bb518d25.mp4?token=mYBsPhgOa6kKbEtXAnI1_tcLVpU3WSmwSYjbXpfnpx9boxfrdw1iIY0VZVbHVuP3nMMjZqwxuxZtTSoAqga-UDEXe3mbzcVwfJjHSaUxiYoqJNXpu3v6Q3YlC5yb6Ie_TI4kN3hRsDNxAd76XJO9IW8ymSEp7-UG2q4vrdAU2dtRA_qtiGH7re6Naip5_thWs63UKskHfIHdm9qsc1pPFkWzr2l63PYJ3YmktYmFQNBjslJaGr3XoJU2x0c9kECdP76zdsy7725i1YOR3ttV4kWAkR2JhO1WNDT9te4oENWyJJg4CJnvZonc2s_fjOpfEWd64f_g7yUc8iVcRUZ6UQ" type="video/mp4">
@@ -935,11 +1074,11 @@ CENTCOM
 اگر نگاه کنید، پس از یک هفته و نیم ــ نه چهار هفته؛ یک هفته و نیم یا دو هفته ــ جلویشان را گرفتیم؛ احتمالاً... اما نمی‌خواهم از واژهٔ «احتمالاً» استفاده کنم.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 367K · <a href="https://t.me/VahidOnline/77295" target="_blank">📅 04:01 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 373K · <a href="https://t.me/VahidOnline/77295" target="_blank">📅 04:01 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77294">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WyHLj_3zWnuj5yGO8I9xBeYuP59LUmZXxNiu-PT58RaDla3dr3YVsSVOjA1IFm8cBcfZbx0hppnlNWzDphTOogfOOKTsd9gLRYC1-quISPoscPTr_cXgjQB3iuYjMs_5q3C5j3AWsEH9LVQB8QQo_HYnLMsN8OBtXzeJ2I94r1YMimZHx2hLO1vqcyz19l5-PnPB_WYFaFmcwpfq5GuPgf1aXiQD4lB5QVGnmfJ8OgcKKVlzve4eQbu7XIr1oLlzOUd3svnR7t0QRrV2wR6uDcfSkap8j3oJTK5FH37wvOYH1CTSwhnjVzPCkG5whH_Y8gj7L6qU713kN2ur940_Jw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آپدیت: تصویر منتشرشده با شرح کنارک
 پیام‌های دریافتی:
@@ -952,22 +1091,22 @@ CENTCOM
 همین الان چابهار دوبار زد 3:51
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 335K · <a href="https://t.me/VahidOnline/77294" target="_blank">📅 03:54 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 338K · <a href="https://t.me/VahidOnline/77294" target="_blank">📅 03:54 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77293">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/riQHxaBGDjaNRK7oHsG9HZEnFnWdvs-7YaDAVwVAN_CuymeAed5O2LJ9qApSzEi2US5ORRkZA_pC8YpT-N36WURh29pv7WmYuVt7fIs9GI8AYSwxMSE7ITpw9pzcBTxuO_aGXcGHz98eCwoP6lIXOXkO-ho4kGohdB6H95oo4cxpDju_AnAHgwGOIx4_E4HJKmn4i_cBc3h_5-EdLfpT4TBUd9v5Ueq-sS4KZ3HCLDbKsPfIHVX3KI6iP292k9jecIK8YdOS29RPlPtgw5N56GA1ukH7P3yB2gQpcWhJidf6yFhothULEaJxCH4HMoI71YQgIyTJy1y2tWIAB7ggoA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همزمان با آغاز نهمین شب حملات متوالی آمریکا به مواضع نظامی در ایران، بامداد یکشنبه، فارس از اصابت چند موشک و شنیده‌شدن صدای انفجارها در شهرهای تبریز، چابهار، کنارک، بندر ماهشهر و بندر خمینی در خوزستان خبر داد.
 @
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 340K · <a href="https://t.me/VahidOnline/77293" target="_blank">📅 03:26 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 342K · <a href="https://t.me/VahidOnline/77293" target="_blank">📅 03:26 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77292">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">پیام‌های دریافتی:
 سپاه خورموج توی استان بوشهر رو زدن برق ی منطقه هم رفته
 سلام وحید  ساعت ۳:۰۷ دقیقه
@@ -976,11 +1115,11 @@ VahidOOnLine
 همین الان سپاه خورموج زدن ساختمانش کلا صااف زمین شد
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 328K · <a href="https://t.me/VahidOnline/77292" target="_blank">📅 03:24 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 330K · <a href="https://t.me/VahidOnline/77292" target="_blank">📅 03:24 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77291">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">پیام‌های دریافتی:
 چندین صدای انفجار پیاپی، سیریک.
 ساعت سه و پنج دقیقه بامداد شهر سیریک ده ها انفجار بسیار سنگین
@@ -997,11 +1136,11 @@ VahidOOnLine
 بیشتر از ۳تا شده
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 326K · <a href="https://t.me/VahidOnline/77291" target="_blank">📅 03:24 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 329K · <a href="https://t.me/VahidOnline/77291" target="_blank">📅 03:24 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77290">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eMyk6YUF2whqi2v1QuxB8wr1gEhJhKLl0j74mnQimvHAKqesE-5FiysQp68XhDAygAC2p9gk0QrGg9X8G8nbIx6zdp_t4WlRWIgNwxNnNqT9C4qwsNsJcoZiq_NK4uZtNHLV5gcOMKLtvtxkanqvlORBtLpG7zN68qpZKAZFWd9L51QHqAPvA8tJo5r2Tsv1FtFVg-QsB_dMLsL5o_xwwhhVBFCS7FIlKw5o1ruS3C13dpozlgpZJYF-qFcxB85971r3ZXO8_NqrnFx2_fzvmmPwZzQDtnXdNV8uWOduCZuRGsvtQRg9MTfkVCTg8FgVYQXgfYR4nOWcWYySvTSpUw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عکس دریافتی با شرح: 'سربندر ("بندر امام خمینی") ساعت ۲:۴۰ دوشنبه ۲۹ تیر'
 Vahid
@@ -1023,11 +1162,11 @@ Vahid
 سربندر ساعت ٣:٠٩ دقیقه دوباره انفجار شدید
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 305K · <a href="https://t.me/VahidOnline/77290" target="_blank">📅 03:20 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 308K · <a href="https://t.me/VahidOnline/77290" target="_blank">📅 03:20 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77289">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/baefb3737a.mp4?token=QekG2voUa5Ae-vXG9VBOd88wPWFGhnIe2WfK2nLoRowopeKEeo_Gc1yxkq1hsXix--RvotaL-E694AGxR0zaH3oRAyzAigTEMDGwtuV1zmz0S2Rz6iJQ86Mpalk1AbYGBGxpxI3RLm5nYvKt9ygYi2Ash0JgmTuUSvT-KhTpW8lv_TAVdJQnbHhB8TNZY3G0esZcxVfWvPZx_MZ8iNUymRG3bI0pB1f7iZgGf9Np0A4G5Uja689c2TzCB4nHy8Lrhlo9Wrp7u9DYVcqhiot9MRMB0dE3lzXQQ-Aj-cOCbEk6ZGkOBYi3Ab2VqY8stWY2WFT9X-CL0o7H03SV1UIhlQ" type="video/mp4">
@@ -1040,11 +1179,11 @@ Vahid
 Vahid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 308K · <a href="https://t.me/VahidOnline/77289" target="_blank">📅 03:08 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 310K · <a href="https://t.me/VahidOnline/77289" target="_blank">📅 03:08 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77288">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/028b9087f7.mp4?token=gnEhl3cZLDLucO4DwwIT7Dbjbuek1UPcVNAjeU0WD8zpN_VPmI4e82X3lowS0ASr_F7vQxG2AQJdeVrn10XPnB87AjpqF8aW8GuGFvGS-Yz46eivwfr1fDf6q7Ca7MUMNtImoReRRC2-jOD5vWQ09sOQnloZk8PSa9kflHcQpuXwhDTa1KDDFFl9Y4eacCxH0MBwPRBEPQQVvcrfK_-Uqaayg1Wo5U26-ZKcHE7c6VPiAdKu3Ya2mkP2jnsjv2lIQl9Z7B3v86PoSaEHT7yZcZSs2fUY0wXcwCXmKQOXOp6E8U9DX_OaX8VmxmUuL1vMI4h5JUKUAt72ZsyPma6Inw" type="video/mp4">
@@ -1059,22 +1198,22 @@ Vahid
 Vahid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 339K · <a href="https://t.me/VahidOnline/77288" target="_blank">📅 03:00 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 343K · <a href="https://t.me/VahidOnline/77288" target="_blank">📅 03:00 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77287">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/W5CUnfkQVX1IAJCkBBVuWY7CR0DXtZUwrEbl1k192ppDcnB1hUEnNW3JCuHetbN8W8aM5nzBtRf3IvZju743uWG6MFfvVV2H3Lr6pLirKmE38UEheww4eteyRZi_YpNV9WE5Mddqq4FI6wQKRdpXH1Vt1vAqug9eUUpKoHs4ravmhiRX03Dao07VFYTuEsrBHBKEJcPbAjsP5UEUvQWFWPNzGzJqhq8ycXrFlvoUm1mZjEP0o48uhK6-UYM0Gr13PdMTx05SgYytdR4VQSmNPCgfB-S0usvGl-Dy02CYgRSiTfmg8drxaKxrf3eGti-4mL3TY4g1QdXHUgLJDlRjig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست سنتکام ترجمه ماشین:
 سنتکام امروز ساعت ۷ عصر به وقت شرق آمریکا، برای نهمین شب متوالی موج جدیدی از حملات علیه ایران را آغاز کرد. این حملات به تضعیف بیشتر توانمندی‌های نظامی ایران که برای حمله به کشتی‌های تجاری و دریانوردان غیرنظامی در حال عبور از تنگه هرمز به کار می‌روند، ادامه خواهد داد.
 CENTCOM
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 340K · <a href="https://t.me/VahidOnline/77287" target="_blank">📅 02:58 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 343K · <a href="https://t.me/VahidOnline/77287" target="_blank">📅 02:58 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77286">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">پیام‌های دریافتی:
 ۵ ۶ تا همین الان کنارک
 خیلی خیلی شدید بود هنوز داریم میلرزیم
@@ -1090,11 +1229,11 @@ CENTCOM
 خیلی بد داره میزنه
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 326K · <a href="https://t.me/VahidOnline/77286" target="_blank">📅 02:46 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 329K · <a href="https://t.me/VahidOnline/77286" target="_blank">📅 02:46 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77285">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">پیام‌های دریافتی:
 ماهشهر صدای انفجار اومد میگن سربندره
 سلام وحید جان
@@ -1110,11 +1249,11 @@ CENTCOM
 من ماهشرم، هیچ صدایی نشنیدم، شاید سربندر رو زده باشن، اما ماهشهر هیچ خبری نبوده
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 318K · <a href="https://t.me/VahidOnline/77285" target="_blank">📅 02:42 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 320K · <a href="https://t.me/VahidOnline/77285" target="_blank">📅 02:42 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77284">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/czsiuE21amDzNXZeqhx47v6TKSF2GGz1jQ4e4FHXVukUtz1QH9ZSomoWQk7LBE5yCVQ2Y3PoajqFvIX1ugRWLo2C03O_w3j3wNBaSui9r6DASCoAZUw0JOZa4kqXn8K_OdwWyM0SYoWQlHg0YbgKPr7RQeK_6utzt2flqFTLiJjY4fL_VVFn8X6LsLw5q2Z7iLhhdYGXxNrdGUwL-zs5udA76CF4-Cm4-L76IPWQIA_d8tOULFBcgS_6C_OYz5Nqs_YBZ4x8af0sPOHDSzdE8PcuB5Fd2-HCZZ4Ox2nfYHd9fJJ3ReyHuE6Z9F2-x9SV6YuUk9U76HYYV6pBSBVJmA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیام‌های دریافتی:
 وحید همین الان صدا اومد از تبریز ، ۳ تا
@@ -1142,11 +1281,11 @@ CENTCOM
 تبریز صدای ۳ انفجار پشت سر هم،ساعت ۲:۳۷
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 366K · <a href="https://t.me/VahidOnline/77284" target="_blank">📅 02:38 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 372K · <a href="https://t.me/VahidOnline/77284" target="_blank">📅 02:38 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77283">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/668363f045.mp4?token=hUjAqGwTn6AFKtpdcVZamd_ihd9VF1f5F2lz-pM2pNKUDVxBwOgULmrpwPGCVjB69kjIY5bv_yyA7ceQj2m7ZRGMjHM0iCHS1l6kphGcuIbLkzA0i5NN72-pcdf3NI9w5z6Y4X5GCqZJVWN-vu3oEEsqGicJQ3Qm6jfubtvhs1EOROq_ZW1a-X5eg1WgSFCGBJeU-oJlOfCQ6Krm5_iEHCTwz30Xudmg_ZxyexrqRFIFgEymbEDRl27-ySpvSzTq3-W4jWwx6-QvbCkWU8NVuvWO6tulsfzkqP2HTE2QmH_z48aAozF7CbOt7iLC0EXA6MbEpo5Ksrm1j4b3PjW-BQ" type="video/mp4">
@@ -1162,17 +1301,17 @@ VahidHeadline
 ترامپی که حتی موقع ثبت لحظه تاریخی بالا بردن جام هم حاضر نشد از کادر دوربین‌ها بیرون بره.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 350K · <a href="https://t.me/VahidOnline/77283" target="_blank">📅 02:38 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 357K · <a href="https://t.me/VahidOnline/77283" target="_blank">📅 02:38 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77282">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/d5c82cf41e.mp4?token=hAs-Md4kz7NTkwC3ptU5uks6tyVU_9AOmz89VzZtBOR9IEgQbLmGK5oZpDubIl92_C-peubOmMumSZmcSMva8Uq5zRnqmC7ah83xV1WrFpG5x4MgcAEkrwjoMpXTDC6Us4vN1PKubacuK9HcjnFKzb_eFjP0gjBcfP5O2z2MoRj1qsci9l9TNR4pHunJXYUGF9_QcVmk_TjEF_7TxjmC6P9s9-npJSKjEZuIealjaSxpegy3GQhXDGuxM_zvFjJQfsh1q2kfXkp3IeJilLOgk7W_k1cIKZ3E107nTiocnQCcm2yvsZ-SM2qbuRJ_EOIiNKh44gj8NhdfIf_vgNMdwQ" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/d5c82cf41e.mp4?token=WqnSrjReRokfMrVyvECka9JQA4ZB2RAJHQIRXdOWkMhC8YXTmKQbgBW56wdV34QU_Q1czIIhj5rg3EMFPCWQJ4wPSZAvJ02LXhwmup6kWd7GCGqpFU1twPZxqT0iMRFmggsPVYu0jx5ZgmciGBtNFMixzk07DsAf4p8f-lIS9jIuiD6M1ght6rBU17-eGRJzOyCK56BJEi7atcu2IJnThZniQeCPawkBCsEuPJAcZ9D2obXDqKAvd4ugWJvJbd_aThYB4-E5Zlk75xIdt7DbzZvZYgcDZhhi3gcmIrMI6P3q4e2X26rXlzljBEv1r6KKgbUfYWGILrCWDm9xnVTZVA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/d5c82cf41e.mp4?token=hAs-Md4kz7NTkwC3ptU5uks6tyVU_9AOmz89VzZtBOR9IEgQbLmGK5oZpDubIl92_C-peubOmMumSZmcSMva8Uq5zRnqmC7ah83xV1WrFpG5x4MgcAEkrwjoMpXTDC6Us4vN1PKubacuK9HcjnFKzb_eFjP0gjBcfP5O2z2MoRj1qsci9l9TNR4pHunJXYUGF9_QcVmk_TjEF_7TxjmC6P9s9-npJSKjEZuIealjaSxpegy3GQhXDGuxM_zvFjJQfsh1q2kfXkp3IeJilLOgk7W_k1cIKZ3E107nTiocnQCcm2yvsZ-SM2qbuRJ_EOIiNKh44gj8NhdfIf_vgNMdwQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/d5c82cf41e.mp4?token=WqnSrjReRokfMrVyvECka9JQA4ZB2RAJHQIRXdOWkMhC8YXTmKQbgBW56wdV34QU_Q1czIIhj5rg3EMFPCWQJ4wPSZAvJ02LXhwmup6kWd7GCGqpFU1twPZxqT0iMRFmggsPVYu0jx5ZgmciGBtNFMixzk07DsAf4p8f-lIS9jIuiD6M1ght6rBU17-eGRJzOyCK56BJEi7atcu2IJnThZniQeCPawkBCsEuPJAcZ9D2obXDqKAvd4ugWJvJbd_aThYB4-E5Zlk75xIdt7DbzZvZYgcDZhhi3gcmIrMI6P3q4e2X26rXlzljBEv1r6KKgbUfYWGILrCWDm9xnVTZVA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ویدیوی دریافتی از قم با شرح پرتاب موشک
 سایر پیام‌های دریافتی که شاید درباره پرتاب موشک باشند:
@@ -1195,11 +1334,11 @@ VahidHeadline
 فرماندار اراک اعلام کرد که صدای شنیده شده مربوط به اقدامات آفندی در یکی از استان‌های مجاور است و جای نگرانی نیست.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 408K · <a href="https://t.me/VahidOnline/77282" target="_blank">📅 23:50 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 410K · <a href="https://t.me/VahidOnline/77282" target="_blank">📅 23:50 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77281">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/esDlMsBnx3s9hrb7Ml2GxNqG7XmYsEcqOaAgw5E-Q1sU_UNkBH7ES-CHtT8iUHAP0WhzXV3Mcjb4GHNI77l7PMnF2wDEJY8T_Zqn_QKLfs0MrJ66lq4N4Rzc8Yn4EAD9xZj4QAAK7ZGsy1eOaNm8oHFsjT3U4cOMwHEBzBSw0dxPNglfSufrWmHNZczjy5DbJSAqbRVWSE6XAiQAQdYVjR7jJo2XmYewIxpWYYuXaMpgKZoXFr09l2Zv6rkWoAFvSuXRiOdWcKxRc2MOdXioWkEMPbGkHITF86nPS-8NtCX8UKJqdTqu9cwTIQXibyRpH35xPoe6KPeP2qtTKQHShA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست سنتکام، ترجمه ماشین:
 به‌روزرسانی سنتکام درباره نظامیان آمریکایی جان‌باخته اخیر
@@ -1209,11 +1348,11 @@ VahidHeadline
 CENTCOM
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 407K · <a href="https://t.me/VahidOnline/77281" target="_blank">📅 23:28 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 409K · <a href="https://t.me/VahidOnline/77281" target="_blank">📅 23:28 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77280">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iSxMA7E5XREDBpkFPjSQPELUAFPU7MVzrN9naHWa1n808PKjuP1dAZ328TGPZypKcyHhojnd8etiw_q9k0Wxa53jOEiwcAwly5cWFbTvUumtOVAhKnfiJyRe0Oxs0-ZB-C4CwLtOzYjhHQNGpTVJtnogDI_oEVJ5-yzdawGlxetTEWymanL317bE5UwxKOXRWw0Xp4Gt67uViAwNTJWdyQgAr-ggux_Wntxgb_rDIzna3ju_v_Cx7Iezl27PmqHXqaN7IhobC3hlp-R6_lAk13J9sEMQ_LKz_2vUNajWOvjz8db9_5DMJGRR0SQE5UUjziBG8L9B6FyJzM6oCrlXpg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایران گفته است آمریکا بامداد یکشنبه با «تعدادی پرتابه» به سایت در حال ساخت نیروگاه دارخوین حمله کرد. دارخوین شهری در بخش دارخوین شهرستان شادگان در استان خوزستان ایران است.
 آژانس بین‌المللی انرژی اتمی اعلام کرد که در حال بررسی این گزارش‌هاست و یادآور شد که این نیروگاه «در مراحل بسیار ابتدایی ساخت قرار دارد و در آخرین بازدید آژانس، هیچ ماده هسته‌ای در آن وجود نداشت.»
@@ -1222,11 +1361,11 @@ CENTCOM
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 423K · <a href="https://t.me/VahidOnline/77280" target="_blank">📅 20:12 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 425K · <a href="https://t.me/VahidOnline/77280" target="_blank">📅 20:12 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77279">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/U4puusnp9hP0dVjy4PBa21lQzLxLMBYqUVZXzzEmRoUPc9p8BoS83Q_aZWxqw8dh3FSIcs2_hs2i_dq08yOj7kKqLEJnYZiM-diHD2AzJmQij_y9zhpze4j4aGRai8abbiCJhrdfXQ5ESJnd3kRz6lUQYMOXDxC5TxOysCwVpNPZmJ5aIFb8CaNEB3P1_C4hHhNZTrg1f3PxeknSZM-WN2lGKig0CqVcKZ_oESADxqXieoZorju9O2c5U3Cg8diN8P4O06yNSRv7Ea7I0Tv0l1ZfxgK44p8BbOE2w5J64LgOpdTjFZTEQsLNVFFojOnyVNfV5hsyPN4-TjTrtAOwUQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معاون امنیتی و انتظامی استانداری خوزستان عصر روز یکشنبه از «حمله موشکی آمریکا» به نقطه‌ای در اطراف شهر آبادان خبر داد.
 ولی‌الله حیاتی اضافه کرد که این حمله کشته و مجروحی به جا نگذاشته است.
@@ -1235,11 +1374,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 407K · <a href="https://t.me/VahidOnline/77279" target="_blank">📅 18:39 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 408K · <a href="https://t.me/VahidOnline/77279" target="_blank">📅 18:39 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77278">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H548TzGGHdn7obbFmgCKR2ohcKj050j_rapj_5RryRxEUBmqtPtGjZwo1RStZmWA3yxMVINH7CrypuG9t22Wy-m_VQt6bQddTd0fpmC4zPU73mILoxe4zqhiFBstYuqS_833lFCdnYMJQS3ZyTxZnomyYDCfEZmHl4NryeDAdrfY5T7JvNrLj_xCJFHBqm0JgL8zPxqVfQYnSe6NEEJw1Ni6CdhgUkpsFebi1ZeFKFnBKABgGMI7I3JVwhbNAaGi3-jmvMET8_cFKVNkc48RhfG7TgzHloNks2lGyV_55svG9CZfmicLXuEutTkEqUmoIoKViHL28GmLryxT40mU6w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ارتش اسرائیل روز یکشنبه اعلام کرد که نیروهای اسرائیلی و اردنی یک موشک ایرانی را که به سمت شهر عقبه در اردن شلیک شده بود، رهگیری کرده‌اند.
 دقایقی پیش از این رهگیری، ارتش اسرائیل اعلام کرده بود که موشک‌هایی را که از ایران به سمت عقبه شلیک شده‌اند، شناسایی کرده و نسبت به احتمال «سرایت» حملات به خاک اسرائیل هشدار داده بود.
@@ -1260,11 +1399,11 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 388K · <a href="https://t.me/VahidOnline/77278" target="_blank">📅 18:38 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 390K · <a href="https://t.me/VahidOnline/77278" target="_blank">📅 18:38 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77274">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/224ff6e0b2.mp4?token=cpTUgVaAOHe87DwUy_c2ew-vNyT-EsLyDMrGcbAEchnE3r19v6YQR4PoQGIFbR0ZXrzTNgYR0uqQeh0TGLEpGFP26okuGOQNoUU75zrmxQcTQXoCVVYxWD0ipr-usnaZ4zlKVKAiiyyiug90t5CwSenQGg_E-QgvYgvSkI4nM9aUS8PYRCPH3S_EmTK4q3zG4ZaRrZQJLKZO_0ZM2fUfz2emrQ9G6c8M_e0Go0-SHDPmHdejAKc37RYaEf08OVSPOxvIhSz7SPfDPSHyw-W4cosV8B2I5fezv4bh89pUOIIILZDVwUicveP7UmTcpSix2K9HEjgCf99Am13zrPAh4pTL9ZL83LrUBDpOLEIbFcjoH7dqwGVGBwvy2bGmY7NC3XbK0jv7B3APREZRXqQWUg9TkYHaPtIIJHCeLyIka0eoCXA6qy6aOg4SpcPESVXCyG3I6PaKgeMiqRwxK9cAHZx2shvf-mhXqMwYYvaVSNU_blgJIxj5jsVhBk-dS9ub4tNg0m2NITGyRdNstBBcXjNOnFgp_Jjwv3faqni7LusuK7DQ5-m98lgnsLmruRNBp2rLGO-DmqJ9wSQE60w0yTlyXICHAEwQ3RjKLFx71FJ42KRNEgHfPsDomvZgTk7adjQJbZpTxrXwm5oaGeHTtSQ6U6J0oaThtO9LIC8JeT8" type="video/mp4">
@@ -1297,11 +1436,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 378K · <a href="https://t.me/VahidOnline/77274" target="_blank">📅 18:02 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 380K · <a href="https://t.me/VahidOnline/77274" target="_blank">📅 18:02 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77270">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XwHjyliCEDLtqllrx3F-kJwuIcaYT9TuQroWITfEOQvJE-1na4HUmlg8LSH4_hgKqOhkuchzAtGPFDIot1sghHZVainJ5lYJgTys6sBodtsYADZHdWWQVui9TgNeKx-4k6--UKm7xQ2caUUrI-2qAO997L1n-Sbg_Rm0pLAdkcf5vctG52N3wtmiffFJ0ZUvYLleDSr8owmyJvXNnwa3H90efYOvr3qoeqD_d9d0ho_zzmvcVj4hIXSuuqIOvlryQob_K-3N-MIBIWU6Z19rez5scj2xbHPYnwfA5XNWejd1jlDkOIHcCDmRH3GW1Gdly7Yy-Yn_FJ-J5nASY4UA4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -1319,11 +1458,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 350K · <a href="https://t.me/VahidOnline/77270" target="_blank">📅 17:24 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 351K · <a href="https://t.me/VahidOnline/77270" target="_blank">📅 17:24 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77269">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DUi6u5mwVrbTt97gVn9oRkqa13Bs1PTfgEI6vqe85TGPWutQn0XjH1WhpM1Rmvo44rD7liOzVRCqiiLyUCkfni5tdl3cqXpe7r519tpInpDLegvEw0IYgIgSHJG_CpPlmnIOqT64hT7iaO16nuEtPlqlnWElhuvq0R9KUzqWOyKabxIYCtLiUpFpamZJhnufRC3cb8T4EA9NDek3rFHy2KvoJqaSsd9-1PqwOzkWbfd5ybpo2Tc_CeX7ICqWnE_7172dsXLKiB2qYNDOVIdiAY13IodMvMT6XIjYTUrTdvPQA8eKhT2-4okLjkkGK5Q-ln5hUI2zuG5aHbDkEu1U3w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دنا کراری، شهروند دو تابعیتی ایرانی-آمریکایی که پس از حدود ۱۹ ماه ممنوع‌الخروجی و محدودیت‌های امنیتی سرانجام ایران را ترک کرده بود، به ایالات متحده رسید. هم‌زمان، مقام‌های جمهوری اسلامی همچنان روایت منتشر شده درباره آزادی او را رد می‌کنند.
 جرد گنسر، وکیل دنا کراری، با اشاره به «۵۶۶ روز بازداشت ناعادلانه دنا کراری توسط حکومت ایران» از همه افرادی که در آزادی او نقش داشتند قدردانی کرد و افزود: «اکنون باید تلاش‌های خود را برای آزادی سایر شهروندان آمریکایی که همچنان در ایران هستند، دوچندان کنیم.»
@@ -1339,11 +1478,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 372K · <a href="https://t.me/VahidOnline/77269" target="_blank">📅 17:14 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 374K · <a href="https://t.me/VahidOnline/77269" target="_blank">📅 17:14 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77268">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/G_N6OXc3whisZELv8x7WeSCFmns01hEfPtt5zqNl8jhKWPr4JUvBWZVsfdPRnhM97LuuJ9NJHiL3ZTVGDudc7-edDo0BOAmHMYUwV0nHdvpPsMMyvPUPETHhhfG1_Eu07ZO3xUlRpHGjiMfgellDm8mW27bp8x-r0LGgeamnLaIudcdtJQfpWFKDNGLjbB63rfg2IpbRuz3Tzp_eQ8RykFIf3x_yrTlB5pg1LnlrMNVQSXvZyCYH-HewQjZ6bomIYbB1-U9FtLx3KJoUb4ZBsZTFvDVW_1qX-viL9w-DDx18dLaExKySXB6rNeckvb3gnO42N8FwcdxSgs_T4LjijA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خبرگزاری میزان، وابسته به قوه قضاییه، روز یک‌شنبه خبر داد که حکم اعدام عرفان اسفندیاری و گل‌محمد محمدی، دو تن از جوانان معترض دی‌ماه ۱۴۰۴ متهم در پرونده موسوم به میدان علیخانی اصفهان، در بامداد همین روز اجرا شده است.
 هفته گذشته کمیته پیگیری وضعیت بازداشت‌شدگان در ایران هشدار داده بود که حکم اعدام ۱۲ نفر از معترضان دی‌ماه در اصفهان در پرونده موسوم به «میدان علیخانی» این شهر، در دیوان عالی کشور «تأیید شده» است.
@@ -1361,11 +1500,11 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 350K · <a href="https://t.me/VahidOnline/77268" target="_blank">📅 17:06 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 351K · <a href="https://t.me/VahidOnline/77268" target="_blank">📅 17:06 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77267">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">اگر صدایی شنیدید و خواستید به من هم اطلاع بدید لطفا فقط بگید صدا شنیدم. یا نور دیدم، زمین لرزید... یعنی لطفا تفسیر نکنید که: زدند!
 آبادان تک صدای انفجار از دور ۱۶:۳۸
 سلام همین الان ابادان رو زدن برق هم نداریم
@@ -1379,11 +1518,11 @@ VahidOOnLine
 صدای انفجار ۱۶:۳۹ آبادان
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 347K · <a href="https://t.me/VahidOnline/77267" target="_blank">📅 16:41 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 348K · <a href="https://t.me/VahidOnline/77267" target="_blank">📅 16:41 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77266">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">پیام‌های دریافتی الان درباره شنیده شدن صدای انفجار که می‌تونه انفجار پرتاب موشک باشه، انفجار شلیک پدافند باشه و...
 سلام وحید جان
 الان ۴:۳۱ صدای انفجار اومد، کرمانشاهم
@@ -1407,11 +1546,11 @@ VahidOOnLine
 [هنوز از اخبار ساعت‌های گذشته بی‌خبرم]
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 395K · <a href="https://t.me/VahidOnline/77266" target="_blank">📅 16:33 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 399K · <a href="https://t.me/VahidOnline/77266" target="_blank">📅 16:33 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77265">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/h9BX8r6pu3bo5UR3Nv9Q2OzUcZmK-zMagE1bHWazOB6vlukgMicnDnKDv8pUvk6bqFGWfIxJAx2WeMgRirPlOXLs6iII5PfY46V3-QxajZrvJd_pmL9-mHnY4EwgnCkUsfHjh_s4WihpQ181QEAmKskRee8s3q__Ww2a7GkA1uWpn3E9U82cztl0d5ygJcuA59f-q68l75nr2nMhyPUHJfbyqQNA0dy9ip7WUUptY3SaTzBbFtVnfcCuAQ9aneIehUqkbVYVrN1GP6mlbes7gwH9ryKOLoyw7vbo2f6v25WXyW7rb6o5OAVH3nTx-5XVtw-yCXmQxz2aJ1EV_CyPLA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هشدار در کویت هم‌زمان با پیام‌ها درباره پرتاب موشک از خوزستان
 آپدیت:
@@ -1420,11 +1559,11 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 430K · <a href="https://t.me/VahidOnline/77265" target="_blank">📅 10:06 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 431K · <a href="https://t.me/VahidOnline/77265" target="_blank">📅 10:06 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77264">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">پیام‌های دریافتی:
 صدای یک انفجار چابهار اومد دور بود فقط موجش بود
 09:42 بدجور زد الان چابهار رو نمیدونم کجا بود
@@ -1436,11 +1575,11 @@ VahidOOnLine
 فرمانداری شهرستان چابهار: صدای انفجار شنیده‌ شده در روز جاری (۲۸ تیر) در حوالی شهر چابهار، ناشی از عملیات امحا و انهدام کنترل‌شده مهمات عمل‌نکرده بوده است.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 428K · <a href="https://t.me/VahidOnline/77264" target="_blank">📅 09:48 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 430K · <a href="https://t.me/VahidOnline/77264" target="_blank">📅 09:48 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77263">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/bXy3GlVI39CcC_eBlIYPcEmq-JsQaTzSunjCW5lczBiBldMsgN5jrdQCf9issxzLV7jJdoDL0l6vfuaxFPj2utHgOP6s_aWZasR_zbMhgU58rjqEvV-vl9qIx7VEKYhJXDcHGUALWjIt9KQQrCQINt2yqm7UBEiu54lxZWiElK8QC4k0AdQyg4EAj88QeG-Kqe4PX1E3QT3SqnTAwZfSOf0xEOo3n_vlevsXMR9URS17f3rwL4Rkxl344pkTIa8GSZ4snlvjiJF1qtvhj3fAnGQU5yMEW8CDQpmOQvDSQQHnC3V9AxZikNM2Fkdcz1rfe1cZu6Osl5GP7EhS-y8egQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیام‌های ساعت ۹:۰۹
 سلام وحید همین الان گرگان زلزله اومد نسبتا شدید بود
@@ -1448,11 +1587,11 @@ VahidOOnLine
 سلام گرگان الان زلزله اومد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 417K · <a href="https://t.me/VahidOnline/77263" target="_blank">📅 09:48 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 418K · <a href="https://t.me/VahidOnline/77263" target="_blank">📅 09:48 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77262">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Rb2yjM3VtREgjBJJVN-dn9gPi1ZIHBkQktsHOp8jbKKgVnuceBY53TQgl1Ep7eFVoLUINjUfrRTnj4NleVeJV_VA0gG2hPYWdHPlQKsgJ8H4DrFOghGCckGvrDbNuN6K1L3eD4EKxFJM_UfE-BGqExmm2geo8NlQwDBOG4ja-oAG9C1m8yD-RyCWGC25Aemy8EJRyuNumAjIE3uvaVbvmZ9rWcvbpNlahWeQ1jQQnznu3zEbeFu0GNW2YHCvfoPE3VdaqQoNRascRvazKTob4PUM6mVIv5FTUHkTFwXYohEhkHoNEWgH8b6hQb4Z_ea-aZqjFZNVhBgho8tTgHjehQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آپدیت: زمین‌لرزه به بزرگی ۴
 دوباره
@@ -1465,11 +1604,11 @@ VahidOOnLine
 زلزله ۷ و ۵۷  دقیقه باز هم دزفول با شدت کمتر از قبلی
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 438K · <a href="https://t.me/VahidOnline/77262" target="_blank">📅 07:59 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 440K · <a href="https://t.me/VahidOnline/77262" target="_blank">📅 07:59 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77261">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KOvGxhtMy6tOMUTvJ8NsWf_ENKVUI-DIY7gViahgRth5p1tP7oDiqCejtvBJC4nf31DVdpSWt3I5fWyU-xtIvnbVcWTJ_XC3FHbsR2krmHc_iDmVlLR-LF_s2hDjbd4h19W6KAzOGTHR65ongE95d8fctvrBZdHg2T8vfJQ5c155aDWhBbisNTJItL8_N1TCFKTmCu1OypDPe9odMmmusFgBVrPwwLhMgl8I07rC9pqYwxAWz2JA-ppsC1uH4pc2NT1rVCLMMn4BGZ4Kbk62-gbbgU_naDlCsq3AoBm-BjAhYLggNtEadywwQ5hy9531awOOMD1WlQnNKKdE-SIpQw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همزمان با ادامه سقوط ارزش ریال، قیمت ارز، طلا و سکه در بازار ایران به سطوح تازه‌ای رسیده است.
 براساس نرخ‌های ثبت‌شده در روز ۲۷ تیر، قیمت هر دلار در بازار آزاد به حدود یک میلیون و ۹۴۵ هزار ریال، معادل ۱۹۴ هزار و ۵۰۰ تومان رسیده است. یورو نیز حدود ۲۲۳ هزار تومان و پوند بریتانیا بیش از ۲۶۲ هزار تومان قیمت‌گذاری شده‌اند.
@@ -1479,11 +1618,11 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 416K · <a href="https://t.me/VahidOnline/77261" target="_blank">📅 07:28 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 417K · <a href="https://t.me/VahidOnline/77261" target="_blank">📅 07:28 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77260">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/b791da5472.mp4?token=tnDixhDyfnny_uo5xzc0jHPbZ6BxHsUJ49EscSFzh5bl1kr9pHKaCAZ8CdgombDrPMu_XnSFaY9Yp_olbUaflNHdfTWfYYSt1E0y0n7LKGKiVXlPu_w4xASBOdzWjLZJd3PB9sn98Q7gmKlxdUNIaCfIhJbuCg4yvyCjxXPRLFEJ6YmJzqHRG4qnMoFZw0INPVPGv3eu_XXXY16h6gWqeuoKOTzo-26MyMTMWVjUFy7AuHN0mYemuENuJrWR_1XfC8BfOBLndFcfmROc6dLQYP7xEngwpznN9mdEAwgeLZ6qwwM2XSS7RLvqRA_A80VZqL0xLmI5dwYhhEnnbQAP8g" type="video/mp4">
@@ -1499,21 +1638,21 @@ VahidHeadline
 CENTCOM
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 396K · <a href="https://t.me/VahidOnline/77260" target="_blank">📅 07:18 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 397K · <a href="https://t.me/VahidOnline/77260" target="_blank">📅 07:18 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77259">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">منابع حکومتی:
 ‌معاون امنیتی ‌استانداری خوزستان: ‌جنگنده‌های‌ آمریکا ساعت ۰۵:۵۵ دقیقه یک نقطه در اطراف شهر شادگان را مورد اصابت موشک قرار دادند.
 ساعت ۶:۱۰ صبح امروز جنگنده‌های آمریکایی بار دیگر مناطقی در جزیره قشم را هدف حمله قرار دادند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 401K · <a href="https://t.me/VahidOnline/77259" target="_blank">📅 06:14 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 402K · <a href="https://t.me/VahidOnline/77259" target="_blank">📅 06:14 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77258">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">پیام‌های دریافتی:
 الان دو تا افنجار بندرعباس ۶:۹
 اصلا تا حالا این ساعت حمله نمیکردن!
@@ -1530,7 +1669,7 @@ CENTCOM
 </div>
 
 <div class="tg-post" id="msg-77257">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sISLIhVQ-xt1kVbPEZMiZvzSDyFx1TVecwNq9Q9qP72kHdTDlvqVlHHUuYzSB80XrDPAo1puQ1HGSSE9YqNqIuNy5APlSizAwQ_6h-wnN795dsY_xUn0JripPxNzVFLf1a3lC6fmDie4bW2xsF6szYRsAhpJd0zMQuD6DjioEelVFPk99pwDnpaHIOTOXErZHqjcovfa1F8MICva30GKbDtaX17NBtHmgBqKlLaRxcAeCIHJNzyzISd4Zwx2dGBeLkFrZB8xBKpLHmlcRK-Cx8qkAEXYL0ufa0mSA2ILqFkuUgOA47fzmHcOZA9fLvSBhDWnw6B64U3DQ-AMoH0X9Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔄
 زمین‌لرزه به بزرگی ۵ در عمق ۱۲ کیلومتری زمین در سالند خوزستان
@@ -1616,7 +1755,7 @@ GoogleMaps
 </div>
 
 <div class="tg-post" id="msg-77256">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">پیام‌های دریافتی:
 بندرعباس همین الان صدای چهارتا انفجار اومد
 03:33 سه تا پشت هم صدا اومد بندرعباس ولی فکر میکنم دور بود
@@ -1668,11 +1807,11 @@ GoogleMaps
 دو انفجار الان بندرعباس
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 427K · <a href="https://t.me/VahidOnline/77256" target="_blank">📅 03:34 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 428K · <a href="https://t.me/VahidOnline/77256" target="_blank">📅 03:34 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77255">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">پیام‌های دریافتی ۲:۱۷
 درود وحید جان همین الان بهبهان اگر اشتباه نکنم سمت پالایشگاه بیدبلند رو زدن ما تو حیاط بودیم  که اون سمت آسمون سرخ شد
 سلام بهبهان صدای سه تا انفجار اومد
@@ -1682,11 +1821,11 @@ GoogleMaps
 برخلاف فضاسازی رسانه‌های ضدانقلاب، تاکنون هیچگونه حمله و بمبارانی‌ در بهبهان صورت نگرفته است.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 413K · <a href="https://t.me/VahidOnline/77255" target="_blank">📅 02:28 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 414K · <a href="https://t.me/VahidOnline/77255" target="_blank">📅 02:28 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77254">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oJe6fapZkJM_jCsle_MzKz_gY4chfW5bIGGA8zLiLxg3T3lKCf7Rn07N8NKwL1P7iiy39vFyP2sPM6toJ9cjE-Va7l8keoDnYJLz7uDBQJFxh2Gzag_B9izWCtHdwAqRS5yCtZV4fd8SK_e0GyEtMxOJ3F5De3DmvodFIG6t8JEKlWjvqHgE429085tWolfraaK42aYM8NmeoBHEWztZ86z_VVFtP6Vl7Y5n1aMWvMso3IOtVklDpiHfpglQiI2XA0RDAZzLMn77X1IFFm-toRPTTcbTduzr_ngWBdDf1tyQksWWuPE5qqIapl-EKgzwOcfD32hO5fmcmvlAMjo1QQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست سنتکام، ترجمه ماشین:
 امروز ساعت ۶ عصر به وقت شرق آمریکا [۱:۳۰ بامداد یکشنبه به وقت تهران]، نیروهای ایالات متحده به دستور فرمانده کل قوا دور تازه‌ای از حملات هوایی علیه ایران را آغاز کردند.
@@ -1698,7 +1837,7 @@ CENTCOM
 </div>
 
 <div class="tg-post" id="msg-77252">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/RVkvFXFgkouJCj1UZ5eixUo-tU5bj-SHZ_qBwQIo0ZQFoqPp82WA7KbuNPziDVdVwjMSrv4b5iwUJTQYpRSxTgo4dsp99ed6cnVW5RKOQHifc6Xtam4yfoKIMgN0l-2cvsfNNQPz7lLHiF08sfeShzNc_Fn_jBBN2UX8sBLEGGPNgRUBMd5r32Z5LfpmAWPu6maU3VpC6fuYjl5FHO-uJFeJVulITohI6HQlKSYbEcwe-7uEu8WdSgedUCLdTOQaVakdBqyN3hFQA86hpoRIIk6hgyGg-05QqdWmscfcUAYp3H8iSDaRS3ifQeWZ-lDpGC5snWfUphMGJ5KhFMWItQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/IK9TGmwJs52ccxH5JpbQNTJj_HFUwAF9EJsEpfJeeq5m0_r4JrANchzAVnVk7pyq5AzLYXDKKoPCddaZ9Ij3eKA2_mGc0O4JUJyKl8L4BnY-CHFsEPJYNkSp1PzNvA-O9TLMGQ21L6mYoma96Pq_bnMUc3plKSgn9QpkbbMkdXojxoja1-vZuACnPA8uzcXgPx4xigW6Ma_Y843npB6El0zVk0aNOZh5D5xjeWfCX83OxEO-e6-cZojcqOOUQHrh7fD-Efpwid2lZSsdd2nI8pTRhf5jfAccErQfDlHRiGdLlYOsc0O5_bk0s8W9xY0L_R1xuC2up5rHfqSqo6d6nA.jpg" alt="photo" loading="lazy"/></div>
@@ -1713,12 +1852,12 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 411K · <a href="https://t.me/VahidOnline/77252" target="_blank">📅 01:45 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 412K · <a href="https://t.me/VahidOnline/77252" target="_blank">📅 01:45 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77251">
-<div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EwK-4IQ5m6ISsDDiffKNUzitYeGxifXLBcMuzYXMoyx2-V07QHHKAT3YI11BHEpc6pA5LiycwJcn6omKO8jojk1mLf2SNz_R4v2kKcCIsot_ZPjoErf5-wX6nEp1amr4oG1DUZErHb3dEY1Wvk5olg7k0kiK0VMWUKcKvDSl4WnBTHAnQ9SfcFHJI_qFhV2FRAKxiXwz1vnJjioaHpA-BWHBvkEIp1xnZnp9QaRIwckZ9qphLHVYBXKO2sL9ob4hT4IA8t_9lDx2ndyAcnyDK4-nBXsw9qrIPDRDWa3JSUq5gc-6Dl1eJbuEkx6XeNv1ynlR8-iK3dSLrwJE4194SA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nS-9nyG2cEQQ4v9V0ShQ4zPQnzAO63So9NxPzfSn2QOavyEvOSChmpqDkjslv4cXwdXvOgiMjenL9IMrv1Q5QnJIv2oGyOhEIr2rbonEtEjG-dyaxQdWiSYvk1H4J0mCrnLgeDmDZS-5bwvvwWtyhqfzaa-3vJf_w2lCWrBScSKigOWdjeVlOrBBRMVIyGNm2x_RvrVsR6kynWQGoHZCAEBHr8WxnlhGgu0z2Bz3rjGceeTXVMIMytC2Z5570ZW-Ny2Luf6aodf2KxltFfKriwZmZiLLwfGULJbyCawXCuJEbsjVgql9iq0In31c7L5vYoJzweGUylshTen29ZdGsg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">روزنامه نیویورک تایمز به نقل از چند مقام آمریکایی نوشت حمله جمهوری اسلامی به اردن که جمعه به کشته شدن دو سرباز آمریکایی و مفقود شدن یک سرباز انجامید، چهارمین حمله به نیروهای آمریکایی در این کشور طی پنج روز گذشته بود.
 به گفته این مقام‌ها، این حملات در مجموع ده‌ها سرباز آمریکایی را زخمی کرده و به تعدادی بالگرد بلک هاوک آسیب رسانده است.
 این مقام‌ها گفتند حملات و خسارات ناشی از آنها نشان می‌دهد نیروهای جمهوری اسلامی همچنان ذخایر موشکی قابل توجهی دارند و در عبور از سامانه‌های دفاع هوایی آمریکا نیز ماهرتر شده‌اند.
@@ -1729,22 +1868,22 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 459K · <a href="https://t.me/VahidOnline/77251" target="_blank">📅 01:22 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 460K · <a href="https://t.me/VahidOnline/77251" target="_blank">📅 01:22 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77250">
-<div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MHRuk-hctF3CQU8GC9QlZSxRPg_S9es-2oVsBCcfNerVRWmGYMqwEtmYVSrnc_zL_IiZHFjt6sYKc2MvQGKE9Ey0_I9Gy7Dagt27eTXDPskbfSR5lN09whmDXahT98etgCUmIQAuIwURLLXpA0DTpt0Km1Ijpf9yacy8LdL9sfGsDvFmFVmsrX3sGJ9-QIq-ayJnv4f9LxjL8HQMY5XvA00Jaat0w4MkbxGI8E8ZWfyXKrMGXC0gZVe33HwJ-_OKF_iqR2hRsIpDbBz0UD_Hc9y0BIBCRxPy7vjgD5gGepkyuqJlp16qzIrvnj2_btU_tQs9boo560yNAM3k-J2_yA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c9VWdyaz2vXmnUjPmJhUdltWHc44A2VKLuRPh30veUhTKYk9w5FAzwQQuM3eiJo8Xnv74LEMroLB-l3PX9Rq-Otf5SO5BU35gYsXjLp02XgshKVrktEW6znGuUovAHV7QjoBoL18spHyJXkF1bL0qibdLPHzttpSGQmHzGHcEOxIjFA0CojIg3UzufnSvmnXF-ovCn51OzBUDBY9lPlWgWLsOfInlhCGjwMnVHpnAhc23AOcvC99Ra_CLlFT_k7RDBAgBMrnF3gurba68rPx4fm3k0kGQByuW2A5V_b6pfUGK7xBPtqv3B86ztaW26dd-cRPr0fQ8UAjyOVZlzFyKw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به گزارش خبرگزاری مهر، بامداد یکشنبه، ۲۸ تیرماه، زمین‌لرزه‌ای به بزرگی ۳.۷ حوالی سرگز در هرمزگان را لرزاند.
 @
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 457K · <a href="https://t.me/VahidOnline/77250" target="_blank">📅 00:53 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 458K · <a href="https://t.me/VahidOnline/77250" target="_blank">📅 00:53 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77249">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">چند پیام دریافتی در ساعت ۲۲:۱۳
 بندرعباس ۳ انفجار
 اقا بندرعباس رو زد
@@ -1765,7 +1904,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77248">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/77727bb200.mp4?token=AsBj6Dqp__eL-Cf6TAnVIxJSnWljqHmonCBEZVDG300GZr0mKsRueXQ-mG8p_b_W22p9xMgbNgmSh5mslvXplaoZDgYw1z4IryGqV3OeXN3D4wX1k2BR6gJOETq8zGygIswMfnYUiJbY_eDqTtGISJwGLnLfiD9QQKt-zYHFLm8jrZhGDTWvpxXY8AVIlhTS7d-dLTZbnVrF1YuRfPbCTnBYz4dTnJCikSDFJ5pPpW_u8h_3WC4toObh7BBTY9jegHgSVv11taRwWoLz2jtnknpIvVGUs8Z_nXiMFpyljzX5PfsBpYzRfxrUSJTIXeQhDGFGGY5EFdLCRszA3DV4qg" type="video/mp4">
@@ -1782,7 +1921,7 @@ sentdefender
 </div>
 
 <div class="tg-post" id="msg-77247">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/T8tKKTxXM5RDnmyVbwbrvEXHePS7tzHR249eN0EWIz3MQnl5se-xVaCG9mAGxihxsLbeHK3PkCC9UrhNxs7P9QU_4I8ZXTgMC-hDrsTmKnnrPk0I_iAI55u-15lt7xf2d89Oys9dfdk0EBWIupwcBeeOXNnC3o7I0NS4pJcDmrNCP70tkLhwlgrF-XRsp4yYl8TQpoaVwT8tghU799XyCaXe0QVVzn9JPTkMYPkiJft0CbsO1lY2eNrbz6CCtMrcamSCupCLuX9Jv6cEGafdpTMpiwEh-tHXHmIEj6C7ONbktD-3pG7bGhY_Qu2KYfnWugrzlwBKjbaxwhgfqmNthA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سنتکام: دو نظامی آمریکایی کشته شدند و یک نفر مفقود است
 پست سنتکام، ترجمه ماشین:
@@ -1802,7 +1941,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77246">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/863eecb938.mp4?token=khJkHuEHHYaju5Qp578gpO5IUdirinY-hkcyLQQ-GySkG2nhyyRq9tvMXpGqRvAB744WH0YyiaLPmPlm0PrPMnoLKWTw-B07nULqcoyUIYLs3uN4Sor7PtUDXq_mzgFPaE0vCfLjaDepOdMzHHh6pqlPWAInD6jWYqYc6pl2avcrmgA7pdQuts7oWii30Kwxl60BP_iQ2KPd9mJZCl2bdTG8VsxkMufxcYuDlGRpq2bv5rpnpUQ7gnfJcb08mswHesdAJQY2I3AZJ7YSWO8Nlttpk04T5waEHVOiSRm5eSZPe7cP54fL7Mx6eLfFCT4CVLRjEc50m8YAqy9BH0A2xrhYEcMiwmqEaNxgvs-LzP08q_qUL6JXerCt6sOAVSiBviI69pYZX0TzJyhD5GPWHJKtPl-Dn3krk5T0yvEOJdkSPP6HrZ-sulJGeI7I7k4IQ2ak09i4FDSrOsPiwD9LTM0t7PXmU49SlYyk-ftGbsSdJDQp2vFfNLJW318FsO_lw9HsyUS4BBWhiUKGvbN6OYZdG1_54_hFgq9EsstryXbevb9jZohZAOnh3GyzV86oYAvP3wdY16X-UuDlbESDAHVKX14FkauVvyNNp-xyFIx31H9WitX_jwRF3-TxB7IFqAHp9eK6cvoxwuv9vg_3e-IzV-m3OJtD2g5N3990rDQ" type="video/mp4">
@@ -1834,7 +1973,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77245">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/su5PV49B4jj--WEo4A0-SLKW5jmumGK5_Iozw_9_J505pG37vahbE3ViR0afPqCVfJbT-5oZ6jUzt5i-9ouWrp-nW3hR8vafoSsg6xkGT0K8Tr_m9uh3-PqrPU5SpTfEabDFaAh-QYY9EfJObzqOAyLiKE27EJMy3UfPSPrVHpYA4ZRJCviRpBTGSuyG1f7e-Ic2ckBEboDEiiubBJDZu3Y5Pd82hVqvf_adShrlVDjhIp83MfUSvg8Cdisi6N5wqMp93n2EYWC3ZOZD-g3mncOsmxhLni8NUcVn97tf2UWvwpLCFmcftnuUv5ky5XeBo1snJDEqb1HWxE_7RWcF_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رسانه‌های ایران به نقل از استانداری هرمزگان خبر دادند طی ظهر تا عصر روز شنبه چند حمله موشکی به حوالی شهر سیریک در نزدیکی تنگه هرمز انجام شده است.
 استانداری هرمزگان اعلام کرد: «در ساعت ۱۲:۳۰ و ۱۶:۳۰ و ۱۶:۴۰ نقاطی در حوالی سیریک هدف حمله نظامی دشمن آمریکایی قرار گرفت.»
@@ -1848,7 +1987,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77239">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/S3tiAhM2JPaGBPwlqiQm6Y9WDjFRJdnVkz1Bj9j-H8tgERlR0S5smyyQQqr58zqnM4qBD6Op_S92ktErsZqhrcPAPV8pR05pWMLRSFMlY073PNxX_ULQLcImKaIbeYc0EqAUdaBiMPAYdWGf_zuKFqMwY_mCEO7g8i3wJMIUJ7k2Iav9iwR12zfCq1KDxFWQwjXCl8woUWZuVET1luPR5Ggwd_dr9-Ql2CXpVnHqiisJBAEpZYJt0_VA0qEQzIucQbfbi5naurUBzK8LO7GI48kQmhNq7kfe023Y377jhDC6biCaDRf0EKhhxGNf3vIDG21bFSDuLxEXSSShAy1IwQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/PC9krbI23OCt2FW4Y8YS8Lykkb9natRHaGd0h6HAH2xT9hHDNx33GF8zmvvBFGKcAaFSCk30LnityZTt7mHDOuXxKgP49hJc1L4shdZqEhWNdqGdV2XPCHUIhdyN_un1DWOZOhhBwBDfQkdNgGg1dlxJJI7v7ULa_pEXvsviVzPDc3wHSfJsvdlfo4WROBQ9H_Pgnu5AS3OCzgv3vB-eBgkW4GYuOC2a2AZPMFp93nn2N02ZAWaf-Yh2cZRTIJ1pSLm4vQqokirI6HctJUEACWECeU90xowSxN7_pVHDLXlyNafKWlfGGS9l3vLiMTUKYwZJorR3I3iNv6TZjKm2oQ.jpg" alt="photo" loading="lazy"/></div>
@@ -1893,10 +2032,10 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77232">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/KkSXp717LD-QrKEW6aPvEd9_oTkn4wSbElv6dyXzf6YyiVEvKjEw37IjUpgy8cCSClYrOQgjVXpOgSTzEW5Fi07KuP1qM_RYDlwsviWho3-glQ4_pegQE9C0xMUvGbnqMv4r5KR46xdY1ZCOMyXYrvb6zdIHrvYrZnMhceVyFuF0Cpf4jc_003_RsOl-YRPEmuwTDloISUKkZ2QYtv1lPBOnT7pWyb3cUZ7tvUJPcnJYyhjganMEHzybxsqwfRdqSQDhIGaWWZ1zlYc9UoCUK3qsYNG7isxMYIj_5Yx2r40xv_4Nr7vGC5briiFmkdRRh2yg5LEfXQdlnX4vc4jLaA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/kX30FFpDDdvQgYpyQvI6jyserUgyhDc0p9lIotsY1d9cY4NBtIbFADRtvzzrj2wSL5uVO91kKELmGQpa11MOS55SvER5AbI_orAjVs5rGIOQY5XGA9GvKZmcalmZiIOiMgRc2NpTZ6UfIjNVXCQaRRCtH5jbvq10KpycG1ZZl2eUqDSryxnN_yBRjHVmT3kykRcHHriZlv70rGS5fKFMikZ7MZyspipkpwH1cHV6xPKRtuu6AMaluACfm1PT7UEg1v_VQtrR_Wim4tCFMQSV-7_jtb00E0-cu8zq3mO0vkHJCI4Gupy-ZSn28EhLiQZNUuVl6SRLKHj8KixfEA-qxQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/lgbvc_z68Fn0TtEc5CixjnWprPPlm7hzpvNSTOkoh3t_sHC5_CEdujwg1uq22XAeXbahoEgQt5M4phikc8TpoYJKbVaotITpujdgB78uApMfcSF4tm44aKrySbX7O552GYIoucGgbzaM1el0fJqDSK2uNyRgQo_K7xAJf6wqWR_NvqJbkR7gHgVRQSiAtWe9VakTDTc2B0VZ_qSyNqvE3J8sMG4d3LBwgNYLBzLbDJ0bABii6jc-vUgra07nkpIhnavxd3PHpG_JVT19Ogq_CA00R4x3GKlCA-BXSvpQYXm51i6U6j4eg9_fi5V6DYnYTy-Wu472Sot20Pisze3b4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/ahu9pZoakKZGnkpQMfX10RD-kzL9Nv7mVaZ8IYDRpN_Ilhl1HWdXWWVEsSarLzk4cbHDrA7Sdcr-vUYUnerzIYkJq4AYF2oHHtFHXGlg5Jhi9zAkCnU-QBa7E293ESdk2PXw_WsmlHUnKxod-mneZBmOUnpdL3hg36F8Btavo8lLhQ0Y2Mcgs9t1SiYSP6xq-AnQt-iikB6vMjNY2z00lXsGXan6aWlwmV-dmSb7L1OYh0BW4JVJUWjHHoEqnI211oCVxZfd3l5sUWgBXOobTCFCqrE1riLwcAXLYb7n0YilkIYMUOXZWBcYQ-TqEqpvGfVEfHXoAXS_oU_zzruUXg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/XQ0qSOgwTc4FEoSBqGpxdKEFwkUFoH_RUVQ06zcAAzK4wUrgBAX7okwHjZXQBUEHUH0LniHiyqiItp23O3tPV_1BpI-n916ukUQ4qYA6YaWGLI0ozZyPFerA8afRIc8wZpKS609wRdcwR8byZssafyUP7vsMkEfDdwHR0ong7ENCvxMPTp3ixYup2yXpZRYWsGfediwv4zFxNS8vFWK-f7IPkWAU7f1rzQaE3IW-WD6s4D6Z4cc5AmObeyl7JSlZ89DPGhSU-fYPPFuPcz86PKgVSU-U9usu3VFCjbZbwYiZx03rIowElFMKTfSfk4NLDGwq_PVd_qHeJDxuspVOJw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Iqry-Qet5A8g0M1mJi7Qx2P7qf1-3SQeNPfjbJMyMoi5jvKkuK69sQLTFyXBxaihJWUPjexsr7a1vpVUT1k2VIPRJhj8ViWEndAfAD1hrfHpI3B8tz7A6fjlvo0LTxtJKXzjp7P7QRbOxl7EbjRTVxN9so1gm9Wzs8MvMh_boodFbNi1QuX3v00hLZPSWf8q_vfR6sBJ4N-WDQY8WSF1hJfbYX4oj36Z-jPpNKGkJK-s8X5X5wXFinu3MofpQ8RoJ1McashktOqU7DG1nRwS0muTkPXDxPYqtJIc6BxxlKeXJznyF6Qt6zm38Jc26wuNHtuNJCsZQ7E5X_LmKdw3hQ.jpg" alt="photo" loading="lazy"/></div>
@@ -1923,23 +2062,23 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 435K · <a href="https://t.me/VahidOnline/77232" target="_blank">📅 19:06 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 436K · <a href="https://t.me/VahidOnline/77232" target="_blank">📅 19:06 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77231">
-<div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HpjeqMQhlttSCo2sI48egyO4Qn1OXVNgj_RRarNe9cUBjRfzJbT2Tmo6f9BvUtyfF3tjZ_k5qAi6cX2-bsxIUqyd6jA_FDj34JQExL-bZlkPsDNB1KIG8hvGBYQF1vs7kK--7fBc430eP7UMKZ0ilaFcTrR32Et2mUjCQ1ZXXJ1ATfCdW7owgidnXj_Pv32x88TzczXEABJzi6ocVI7P2YEW1fJ2c6t_op7T2R7LRw-argJ1-ihB_FJ6ExxBdjRWdYv9YTBGPYtoE-Gh2Y7HjWaGJ1e_Y7T5His2CRd-gPb-ZApuF8zGFkWlh5YwVRD6eSpu21fCzCtJ8Ttra-WFOQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iHTw3nhxUQdWR1NPXOZuY4pm2620IMciAfIOJ1QaNZQGrm-yOglP55InHsWjOBuhy6N-F4wyY9Et8qIsDK5gwZcBmhoV4KPt9uB_5F7JNrcEwPP7razcuxtwvC0AYHovpCU0kCRWqlNRiIu0mN3zrE3cbghUS3KOMNesrBUDvjtuO0Mv99dEqAzKn3pcPpi6HWDZF2PmVrAeREuCQZ7TLADYaI8uBxpM7pyn6UBpgs7IrZ_RWB0pGV0AHkwykCFFQkfDlJQA_Pu_7ws6MjICcuF35Xg5sMVfFw_EaSK_hMd04kQJwnVoSrOUkvL_r7s8mghBGE6zl2WKZPkmmEZUtQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزارت آموزش و پرورش اعلام کرد آزمون‌های نهایی پایه‌های یازدهم و دوازدهم در روزهای یکشنبه و دوشنبه، ۲۸ و ۲۹ تیر، در استان‌های هرمزگان، بوشهر، خوزستان و سیستان و بلوچستان برگزار نخواهد شد.
 این وزارتخانه روز شنبه ۲۷ تیر دلیل این تصمیم را «استمرار شرایط ناپایدار در جنوب کشور» عنوان کرد و گفت زمان جدید برگزاری این آزمون‌ها متعاقباً اعلام خواهد شد.
 @
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 433K · <a href="https://t.me/VahidOnline/77231" target="_blank">📅 19:05 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 434K · <a href="https://t.me/VahidOnline/77231" target="_blank">📅 19:05 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77230">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EkshC_16kc7rmg_Mk8NkzQJTXqjcjBvM6X1ANsFGZoSd9UbdZUcCUrGTyHhQOkBfGpnynTcUqRSL4rVwd9_UvB_FJH7jpqU8NgQDHmrh3olKDSYOMaWurXmhX6RlVdWC-CpOXBNfnu3xVUnog0i8HQn82_q8PLJsPD52sYhBwE9qhxVKEaoggNqb_Pa672XAhdS_q7Za86IE1TM8swF0RkOW6Uuyv6smS2BB6gbgQkifUF18Mmj3z8i0_NG9iJbQNDNzardncFHZHorBDtifA2fbf4vxDrSvwwRxqS1UOJNhrYZHWKQQocgxDr2KojxDj5JymxuXvkkJFxxjPqEmZQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عکس دریافتی: پرتاب چند موشک از استان بوشهر
 شنبه ۲۷ تیر حدود ساعت ۶:۳۵
@@ -1951,13 +2090,13 @@ Vahid
 </div>
 
 <div class="tg-post" id="msg-77229">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/4f9ac6ccc3.mp4?token=X_QtSEtrumRSkCNlzS0jFNgvxBt4v3no0diOfn3kPPC2QH4-EKupm3oOQjinKMAmj8nvHj2Y54SVqCooncxw81Um82NR0bnmEA2WywZSTFLy_517MITHuv7WQoHPtapHQA1MjSt9x5CqEFNe_gHIlKsPIvmmCukEItDSv38-UAgVBEvHjKSxE5b_JTSnHYzjJoSI8RSQHY8nlQwOwdZcxHEnseTlFo1t5oGND5g49zZgzsaNedG9svZt-CqlnEm0c4cpXz20ixu5E7B3576k6naYXuphG6_Cp4-PAketfsOv2zhx47pAxFiap6-VCQLSWf0xCFvMh2J9byWIBiRUtg" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/4f9ac6ccc3.mp4?token=hz1lKV4l5avWcLDVhaGJJFxyJsbQVVUanTCsCe9NmMInyFods4N1LsR2nGc2d5srHmZITZwoYLteS3_qlU7qjHzgOFfno9Bu4HdODD_imisNPF0-cwLXe215fLqbxNtxsYPXQxaGN1WeDlQFAgMw1yz_X3mxlb54wge8wieLYv66bEAgDg_89TPPG7Dy9oGU8ayQmwJieI2nSRyyBu58q8nb6r2yO0e0n9fuB_0PY2J3vdfOlzI_zCJWVNCI5SXtcMeR20LXwCRv9e0dWKDEKJdMbVJbXVhdYi8rQfvilC8f0AC0PRydpypqQWRnHWkiKk2qHNjJ8Gn4VfVawQTNNw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/4f9ac6ccc3.mp4?token=X_QtSEtrumRSkCNlzS0jFNgvxBt4v3no0diOfn3kPPC2QH4-EKupm3oOQjinKMAmj8nvHj2Y54SVqCooncxw81Um82NR0bnmEA2WywZSTFLy_517MITHuv7WQoHPtapHQA1MjSt9x5CqEFNe_gHIlKsPIvmmCukEItDSv38-UAgVBEvHjKSxE5b_JTSnHYzjJoSI8RSQHY8nlQwOwdZcxHEnseTlFo1t5oGND5g49zZgzsaNedG9svZt-CqlnEm0c4cpXz20ixu5E7B3576k6naYXuphG6_Cp4-PAketfsOv2zhx47pAxFiap6-VCQLSWf0xCFvMh2J9byWIBiRUtg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/4f9ac6ccc3.mp4?token=hz1lKV4l5avWcLDVhaGJJFxyJsbQVVUanTCsCe9NmMInyFods4N1LsR2nGc2d5srHmZITZwoYLteS3_qlU7qjHzgOFfno9Bu4HdODD_imisNPF0-cwLXe215fLqbxNtxsYPXQxaGN1WeDlQFAgMw1yz_X3mxlb54wge8wieLYv66bEAgDg_89TPPG7Dy9oGU8ayQmwJieI2nSRyyBu58q8nb6r2yO0e0n9fuB_0PY2J3vdfOlzI_zCJWVNCI5SXtcMeR20LXwCRv9e0dWKDEKJdMbVJbXVhdYi8rQfvilC8f0AC0PRydpypqQWRnHWkiKk2qHNjJ8Gn4VfVawQTNNw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">خبرگزاری تسنیم با انتشار ویدیویی از محل حادثه گزارش داده است که دو پل در محور بندرعباس–رودان هدف حمله آمریکا قرار گرفته و این مسیر آسیب دیده است.
 این خبرگزاری می‌گوید که در این حمله شماری کشته و تعدادی نیز زخمی شده‌اند، اما آمار دقیق تلفات و میزان خسارت هنوز اعلام نشده است.
@@ -1965,28 +2104,28 @@ Vahid
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 481K · <a href="https://t.me/VahidOnline/77229" target="_blank">📅 06:31 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 482K · <a href="https://t.me/VahidOnline/77229" target="_blank">📅 06:31 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77228">
-<div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/de9YXHH_5oWfNzIrtXGKytDcJIxv1zRagn-CfZO0Qw8hOGjBlf1KIp-KyshpmP0NcEtNDXDXqXe_1STiJ0l2Ki3bJ0M40YxzoCyjXRJ_0_onzc-NrXXQd5VgS-WnoC6y7qcEAcMgCzJT8Txzala9dv9cWxpDoR-UICmd6SaYivpDePI55Qm6NhT_uOeHmsZEoM0srYeOplFkj4YZgTnmTh_TUDnqM_7hHrQq4RhJDQr7vbBK-L6ge84tMrhPFKDDUlb3ud2P3ACY4hReyUq9dwGuJ7t2-RnFDPBumQ0K7Ylsle6_ACrt1Hj-LXvKdJGPOdw4U-wldZ-TbN1Guh2Sag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Lpy67r5hkyJhD2VQk59mGIlhOJm1SA4p-SE1DlCGLvxpuaIF1QV506bD4c57--OWmlAX_USSUedlQIm2S-_RIK1ClHdM98ExFX30lVDBap4AL2QigaDeY4lu3pZDoZczZX3Ah_9pDTzGB6f_Vz26uYX7T67fee87KnwOpuiKieB_y2WqtBbWc9Dvr5BCkBak3irm7aHn9gMV0zNvYb0xdDA28rKpUFfT47ZOlnH9iWaaGHxdEv3PT1duwqS5W6ARYGG8Y4efa0EhMeuSF2ud8P7yagmli6HaOE8sdy1t8-wsCvICgK-uS2OwU4dWTD7jbj9JsgUeqrugUWVOeWhaVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">توییت: نقشه «راه‌های مسدودشده» در نزدیکی تنگه هرمز
 شامل دو پل و خروجی تونلی که در حملات هوایی امشب آمریکا هدف قرار گرفتند.
 mhmiranusa
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 470K · <a href="https://t.me/VahidOnline/77228" target="_blank">📅 06:28 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 471K · <a href="https://t.me/VahidOnline/77228" target="_blank">📅 06:28 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77227">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/c159c5a2e1.mp4?token=epWzV6DuQM4N73uRmBFVRmdCpeCZaN5lZkkE2qWswMzgHNCsStF_kSNCIjBWahdAPpCTtIBVdJelv7HcbeYcc1XmhWsuoTX1uEYO7St-pMGvkZo41zRcfPzoN4A3i7inV6brfNiz_bxwRMGT1UuYpLKV5ZmDE0QpSkNdAQCpai5dnk7FFO1pDB1l360gDWg3Tz9igj0G5VTF-7Fl_rTwCIWee3Ev-zdvBu1bYgzPdPkm_N6t9vsW-rHFDQpt8E02R-KXl4XC885Sc7UfLkEsQpp7GpfiVojnYG4YVyOOwOR7AJ59QuXYm70HTX24qXcdqFci07eQRBYuSBVnX6I2Jw" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/c159c5a2e1.mp4?token=t7jB1-hD1IsIKE4INSMyGfbybSIC2-QEwcRz0onWDOFam75Pp8KpUUx9xD-iqmfDGWFaaOMG06A33KCTRlTME_p716MDM574nxHrDz1geT5YC_vT82mR49DWvOw1FRXvGOq6WALu5KC7Q7oPoVjQ17fN-Fthq3VyJWGZDMHESgiePEmt26g9hwI3SleAc028_W1lJhbMrQvqS8C6gBdMIG9wSDiNz9-7kW5CHLzS3NhLAQS3QW235RWlYmSmj3SGNfpnPNykmn2kcojDlcfOhsCNeJS8nt_toDBKIj7zEx33dqyI1gOvzYixY4Ei9IhW7cFbkQPysaMoLYB3ZYZHqQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/c159c5a2e1.mp4?token=epWzV6DuQM4N73uRmBFVRmdCpeCZaN5lZkkE2qWswMzgHNCsStF_kSNCIjBWahdAPpCTtIBVdJelv7HcbeYcc1XmhWsuoTX1uEYO7St-pMGvkZo41zRcfPzoN4A3i7inV6brfNiz_bxwRMGT1UuYpLKV5ZmDE0QpSkNdAQCpai5dnk7FFO1pDB1l360gDWg3Tz9igj0G5VTF-7Fl_rTwCIWee3Ev-zdvBu1bYgzPdPkm_N6t9vsW-rHFDQpt8E02R-KXl4XC885Sc7UfLkEsQpp7GpfiVojnYG4YVyOOwOR7AJ59QuXYm70HTX24qXcdqFci07eQRBYuSBVnX6I2Jw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/c159c5a2e1.mp4?token=t7jB1-hD1IsIKE4INSMyGfbybSIC2-QEwcRz0onWDOFam75Pp8KpUUx9xD-iqmfDGWFaaOMG06A33KCTRlTME_p716MDM574nxHrDz1geT5YC_vT82mR49DWvOw1FRXvGOq6WALu5KC7Q7oPoVjQ17fN-Fthq3VyJWGZDMHESgiePEmt26g9hwI3SleAc028_W1lJhbMrQvqS8C6gBdMIG9wSDiNz9-7kW5CHLzS3NhLAQS3QW235RWlYmSmj3SGNfpnPNykmn2kcojDlcfOhsCNeJS8nt_toDBKIj7zEx33dqyI1gOvzYixY4Ei9IhW7cFbkQPysaMoLYB3ZYZHqQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">پست سنتکام، ترجمه ماشین:
 سنتکام تازه‌ترین موج حملات علیه ایران را به پایان رساند
@@ -1997,11 +2136,11 @@ mhmiranusa
 CENTCOM
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 471K · <a href="https://t.me/VahidOnline/77227" target="_blank">📅 05:25 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 472K · <a href="https://t.me/VahidOnline/77227" target="_blank">📅 05:25 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77226">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">پیام‌های دریافتی:
 انفجار شدید همین الان خرم آباد
 خرم آباد لرستان ۴:۵۷ بامداد صدای دو انفجار شدید
@@ -2018,12 +2157,12 @@ CENTCOM
 آپدیت: پس‌تر هم ساعت ۶ از داراب]
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 436K · <a href="https://t.me/VahidOnline/77226" target="_blank">📅 05:00 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 437K · <a href="https://t.me/VahidOnline/77226" target="_blank">📅 05:00 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77225">
-<div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/T3ZU0Hkc5c54MpcnawN3bMnV4OYKcdJttiF07KlxEElanzUwOApwDjdFDA0u-zRzjWnGcU5k3K4Vj6djFgzORY3ybwEtKqyucqHMo38YkkrILoX84HxGZjgZVgDOAt31YgrOzkjdUVj8rMUFb1clt0b8Pg58J2GBEwlmPjhEYmVydO8VoEByV-lSVioaLVYekb-LvlfL13u4PS0hphh0uMqBBk5d7LeEgkFtCz9d8ru0T6U6A_ySRq1iS8OtbY43S4c_3cU-R1Ha6KGzKgY2VGi2-wI7qau8dfA8lUTfJ0TlVFk577-tUt-CBL_ZZeObueL5D6SWuGrX4-ELpMCpfA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/aIrMhJp34SGfUycu4nNwmD5fAX2tqC_orizCMFQ1C8JUg3kN8aguQdtBJllJpHhHW5asRP1kDqBvH7nEyvj4kqLzcZbwSL-sUE2y2KTlmvmu8frS9_Xj2GGH5PHxjSpC8nfZbiF2zFcdXDwvF3W391zSg_X4m6gRNFMUgM9yUZGkvANWrU-Q_qPeXNrALxvKzLT0BSSfHF58LZQfaWwumGAayI9ClrYsE7oxPQawt1dsQ-NjhFyRYqzVYa9hsVIRiNZ7y-qjgMjdCUU43vVsR03EnOJMds1VvCeVne1S-qeJpZXn1aDadpGQ1ZEdUBVo1TRreuPawBM_1huG7dmzTg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 به گزارش تسنیم، خبرگزاری وابسته به سپاه، بامداد شنبه، در جریان حملات موشکی آمریکا به جزیره لارک، دکل مرکز کنترل ترافیک دریایی اداره بنادر و دریانوردی این جزیره هدف اصابت قرار گرفته است.
 @
@@ -2034,8 +2173,8 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77224">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XKdNNWdqbVPcgEum4jHNvBMkO1y4BHC8kKDPBkXjLal5sFBh7qGeLWjLyNJsuYOI_I-CA1zm3-71rIYDyb2vLgfliA7qRjPlNB2KR4oBnIWfFdHdSgA4pRZvjJpLrirBRwzOuW3fWtL2HE6fqFqydqo7dqvK9j0hP6GZvdyIVR1jqGjZLeHtDYIJi1C6_y-oqL10Iw1TL2zAmvjPWQqk48sTjXHdTW-EO4zCTx7_x50p79F9M_v7MnWR3TIsIH79grlJJlhg8vVQo9arE0W91MW1QAYSWj35T2v9M0i7oI-MZORkgC758vqrlkkRI8JQ71DUobFphflAu-iDxWznsw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ErSw6H-4ROdANDx9YDgzyn8SKF_uu9TENiL8GRHkeb6IXnml8QzGZ4JrFrPCvfz7PAL-9mPyCcQ9IX6jr8vDxJNrD1u9vgud4qbnnNkAl0yMzYK0PUPkaMT8nA_w-uMOwofv8icivH_EulhttSSjGfzrrAnxU5oXtfJDPfcdry1BwAIDanXQcNIazznU-L32xtJXPmbJU7DsTqQCrximWpSk3IPQJJ2Mz3l-bGRWx-0wy4No5BK8XzjH2Xvxn3Pvt48Pf6lBa393yjrK78UX8KxjmqmWSmMkmDOtev_Z9K1hHEMun7ntYy4OTUJtnw7myuRXwCaZVlpkZ5-RfQu1SA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست سنتکام، ترجمه ماشین:
 🚫
 ادعا: سپاه پاسداران انقلاب اسلامی ایران مدعی است دو نفتکش پس از برخورد با مین در آبراه بین‌المللی تنگه هرمز منفجر شده‌اند.
@@ -2048,7 +2187,7 @@ CENTCOM
 </div>
 
 <div class="tg-post" id="msg-77223">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">پیام‌های دریافتی از ۳:۵۰:
 بندرعباس دوباره چهارتا انفجار شدید بود
 باز داره بندرو میزنه
@@ -2064,7 +2203,7 @@ CENTCOM
 </div>
 
 <div class="tg-post" id="msg-77222">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">خبرنگار اکسیوس، ترجمه ماشین
 :
 🚨
@@ -2074,12 +2213,12 @@ CENTCOM
 BarakRavid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 414K · <a href="https://t.me/VahidOnline/77222" target="_blank">📅 02:42 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 415K · <a href="https://t.me/VahidOnline/77222" target="_blank">📅 02:42 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77221">
-<div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lFTJ1-4VkBekB3n-0CTyqlx8E-nRFBmhvbdpiKnlKnCcSEWMf-5Pq04F9WbgpAgO0uEihCc5E80FqW9kApeSRXLTN5dGit9BY8zCNeKRwFA9q8ffoDIAaMRUzafItSMrcDocP3ikTqcSR94ttAgXceOSMaYCmWtsVSCJo8Hza70tvxxz-qve7xJ-cTCXqedUfwDIVYdNv4RkEdkYot5TNnm9jbYrhQdshjrPBZVzmTEAIiIVfmqQp0lzI9YnG0UQ2OQKwCVCKB1ZxcCyWTh39KMbWqwvVCtAacYm4W29Fl5w7Bv3muvTuEsri4s7uZaNce8AUgOeJhg0vkqX-1iY-g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uP6k9PQw7tvqFj2H1lRjnUo0m6pEQYw6eSwKwIRItD26dtJVYeebxTWB6ObtCG0gPCwpoiuuBPk_fL-Zvp7f67hYZ4NdWtdllpUR9jZ9i4rITfwdg09j2NThIvonXeU_zqnyrmIECVW31jRsljF-BDb9ilqCQUTzRUHlUJgulwxrmHmP2tepXeYp9l6sM59posoASaBarkcDEYRF7BSgCBrKzwVx2xUgUalRcrjkboqC4LhZHDsNycFnV7TpQjwGbxvCQ5L4txKK9jmn0ykWkpeJPfSskhzrgtqtZI_7NM3vfFLFXg-d2zFUhuqZF2O3VDaFLA2GXtLrVtp00Q3hfQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تصویر دریافتی با شرح: پل جاده رودان به بندرعباس
 شنبه ۲۷ تیر
 Vahid
@@ -2099,13 +2238,13 @@ Vahid
 </div>
 
 <div class="tg-post" id="msg-77220">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/daa140a498.mp4?token=YdsFEoT9RqmoA6AQ9rjeYV-hgtYzNT7p7DumZYNIgKo-8Y3R1-leMX55v2smXRZ5eDH05lFJAYSED1DMRW0JqW3ff4OhRmeyQMVc5zs50n99E3WYMMqhEBhD6oTGr4XK2jzsFSTa49MF27eg3G36Oc4A7Dp-hQRWiaexKndoRx6_MbwQD8bTcwIT31SvC6Fc5bHnG3kiXCrdeCfaut7yV5GPq2EoDE4jS6jdCt63_ABKszmDtzqBfD61w8Rounigwxe1hxu2-zqYWzIfUOM7WhTJYt-rM3DoGIqKzVMirGEd55d5khg4A6jIoYJHuNO8hGBkMhlcJGit716oiK-aJA" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/daa140a498.mp4?token=fst20qN_V9K1ehoTxPMWL8lYtT1OmJanvxEw3WMRSC1htVUR_aeNdkX55WSGQa6IPYSadd3XzpaVsWthzRbaCpD8RHS6ElxDUVbCH2ydh5nRAuOHkT7MdoOab0-U2Ny1A0zsivY2x_aIbZpfob5hYKECcu8mHiVKOg64sKAxRlENws6YUbvLBIGXWXZJNcxS7MKvdwnzgGpUQPeWxSLgHRMjR_8onLVOi98JNa52OU_AyoF6xnT_qLC53IQ73v_1XaHdOzUZTzdIfXAXpRLmPCT1YqKtkgzRlmp6D0IPczQQ7ayGmXb2_UPGQQHMz96xhLiQiQDjUlOQiePKpydb3A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/daa140a498.mp4?token=YdsFEoT9RqmoA6AQ9rjeYV-hgtYzNT7p7DumZYNIgKo-8Y3R1-leMX55v2smXRZ5eDH05lFJAYSED1DMRW0JqW3ff4OhRmeyQMVc5zs50n99E3WYMMqhEBhD6oTGr4XK2jzsFSTa49MF27eg3G36Oc4A7Dp-hQRWiaexKndoRx6_MbwQD8bTcwIT31SvC6Fc5bHnG3kiXCrdeCfaut7yV5GPq2EoDE4jS6jdCt63_ABKszmDtzqBfD61w8Rounigwxe1hxu2-zqYWzIfUOM7WhTJYt-rM3DoGIqKzVMirGEd55d5khg4A6jIoYJHuNO8hGBkMhlcJGit716oiK-aJA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/daa140a498.mp4?token=fst20qN_V9K1ehoTxPMWL8lYtT1OmJanvxEw3WMRSC1htVUR_aeNdkX55WSGQa6IPYSadd3XzpaVsWthzRbaCpD8RHS6ElxDUVbCH2ydh5nRAuOHkT7MdoOab0-U2Ny1A0zsivY2x_aIbZpfob5hYKECcu8mHiVKOg64sKAxRlENws6YUbvLBIGXWXZJNcxS7MKvdwnzgGpUQPeWxSLgHRMjR_8onLVOi98JNa52OU_AyoF6xnT_qLC53IQ73v_1XaHdOzUZTzdIfXAXpRLmPCT1YqKtkgzRlmp6D0IPczQQ7ayGmXb2_UPGQQHMz96xhLiQiQDjUlOQiePKpydb3A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">پیام‌های دریافتی:
 شلیک از خرم‌آباد و زیر ۵ دقیقه بعدش ۲ تا انفجار
@@ -2136,7 +2275,7 @@ Vahid
 </div>
 
 <div class="tg-post" id="msg-77219">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/62a2ad38dd.mp4?token=excwv7gX4ztWiS4tYTAbgBtLFZSApb26IlqR5X0onq21jwR4blWZ4F4dgKHhEmq88ARYCS4zOUinHELtBIAWIdDYhZUN1253D3YxcP4le0RCFEqnio7V12tYKpLdGraxmj6wBCCEDAjPQhnGsurIosKza8uX3mklQO00q1ZOLqQqJ01X5NNPq-KmRFFId8X2ZADB7z4Qjy55Jjd3-ntzAikWatPODWm8I08y65-WoCUP8_KRQZNyQTkb3BhtQz6EwOYAXKkMBfO18E1VOX_m6ARGtTQVw6TzBVU34vd0Q7ZGGPWCH5jEX-ispwgAO4nC3slEbCv0BmjBd8BcM3mLaw" type="video/mp4">
@@ -2152,11 +2291,11 @@ Vahid
 Vahid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 394K · <a href="https://t.me/VahidOnline/77219" target="_blank">📅 02:19 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 395K · <a href="https://t.me/VahidOnline/77219" target="_blank">📅 02:19 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77218">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/087c286f67.mp4?token=eqpfbqLxOZz3l3bJUWzU2HoLqE8SXeL9g_26R2BY1jDCuw6513yFt17ZbDocqFFyECPXCrg9djLwihe5SEub5Nbi-eekhYbt-g90buhU3lCG2irbB9ULJm7M4Tlp0MtGWwjQwDasjKxNl2iYK4jOYrMFhChgxBjbCIVwzNVyr9LDzylpSbE56HNyUOq3pPCAdLTyq7jJJBiYauztsQag0W45eT4cy_gAMwqAsC5Vr6VKC8a3XAJpCsWACPK0TqJXF2YhSARelAvLyof0ZQGeNNOv-h2jLANPS4rkunMBzhON8TBNwylkU0FWM-gEGaxv9P-2eNtVLjGRrPdvl0Ttvg" type="video/mp4">
@@ -2168,11 +2307,11 @@ Vahid
 و مطابق معمول از ارومیه و خمین و خرم‌آباد زنجان و داراب و... جاهای دیگری هم پیام‌های مشابه میاد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 386K · <a href="https://t.me/VahidOnline/77218" target="_blank">📅 02:15 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 387K · <a href="https://t.me/VahidOnline/77218" target="_blank">📅 02:15 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77217">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">پیام‌های دریافتی:
 بوشهر سه تا
 شد پنج تا صدا
@@ -2189,7 +2328,7 @@ Vahid
 </div>
 
 <div class="tg-post" id="msg-77216">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">سپاه: دو  کشتی نفتکش با عبور از مسیر مین گذاری شده جنوب تنگه هرمز منفجر و دچار حریق گسترده شدند
 منابع حکومتی:
 روابط عمومی سپاه پاسداران انقلاب اسلامی:
@@ -2210,17 +2349,17 @@ Vahid
 سپاه: لحظاتی قبل یک فروند پهپاد MQ9 با آتش سامانه نوین پدافند پیشرفته نیروی دریایی سپاه تحت کنترل شبکه یکپارچه پدافند هوایی کشور در آسمان بوشهر رهگیری و منهدم شد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 393K · <a href="https://t.me/VahidOnline/77216" target="_blank">📅 01:31 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 394K · <a href="https://t.me/VahidOnline/77216" target="_blank">📅 01:31 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77215">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/58eec30bb8.mov?token=afVA6KOd3UWvypNlNbbfWjQookLK_69MikvpOZvPDDTYmFsAvD8zmGbkE89NkX1su1AHB5saKymeAAXbS-MhEQ-UnEae1OfT4jvV5sr64R0YZ1fJzPlN5GE1ibCh6VDXY-Pvm0apVKJodkE0tSqKkvZsXHj4c_K8b6Vhp7-JyYqwKwYA68IEXJfkb_8x240UHpVEcUpY2Hzv_2T5EEyHZcTeDTV907aa-fKdHKFZPILVurW2BsSR0pxPlNiVKHTfv7Nz0ezK9XNc43ZqyGVLhp_0uHzYi7A0qCmryQcHoGZgIdNW3T2_MqnVBned36ptA5xKYuaY4eyr64dNZQlLFw" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/58eec30bb8.mov?token=ZbJAAPzwbwmjdmDIOKxXLMnpF0b9qoY8IovlHAnLbEi6Be7iE1zp6WQaesEKuvWhOW-hspozb4jy-7C1wO6CeekWN9BXXYRyL_RzSPuHvPtifOq0tJT15yjrGk9thDzqQtfa4SkTEvu62ckrI1mghmodYwvHYcLe3zMyWsUNQzJ4iI8FVDWwDnn3p0j2mJwQXg8SYzRNuxXZo8AxKtgmQDVROK-g1j-JF_3uSBPtLLCekjMMH0sXjfrrOl7dzOqH2rR23pytcJRkrObfb-mOE4T75tQmY7RjUBjZNcnPSGWDSrls4Y1ZEJ85Lqb76LptfPEWUhi-RgLjXDdrvL0dnA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/58eec30bb8.mov?token=afVA6KOd3UWvypNlNbbfWjQookLK_69MikvpOZvPDDTYmFsAvD8zmGbkE89NkX1su1AHB5saKymeAAXbS-MhEQ-UnEae1OfT4jvV5sr64R0YZ1fJzPlN5GE1ibCh6VDXY-Pvm0apVKJodkE0tSqKkvZsXHj4c_K8b6Vhp7-JyYqwKwYA68IEXJfkb_8x240UHpVEcUpY2Hzv_2T5EEyHZcTeDTV907aa-fKdHKFZPILVurW2BsSR0pxPlNiVKHTfv7Nz0ezK9XNc43ZqyGVLhp_0uHzYi7A0qCmryQcHoGZgIdNW3T2_MqnVBned36ptA5xKYuaY4eyr64dNZQlLFw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/58eec30bb8.mov?token=ZbJAAPzwbwmjdmDIOKxXLMnpF0b9qoY8IovlHAnLbEi6Be7iE1zp6WQaesEKuvWhOW-hspozb4jy-7C1wO6CeekWN9BXXYRyL_RzSPuHvPtifOq0tJT15yjrGk9thDzqQtfa4SkTEvu62ckrI1mghmodYwvHYcLe3zMyWsUNQzJ4iI8FVDWwDnn3p0j2mJwQXg8SYzRNuxXZo8AxKtgmQDVROK-g1j-JF_3uSBPtLLCekjMMH0sXjfrrOl7dzOqH2rR23pytcJRkrObfb-mOE4T75tQmY7RjUBjZNcnPSGWDSrls4Y1ZEJ85Lqb76LptfPEWUhi-RgLjXDdrvL0dnA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">در پیام‌ها میگن در بندرعباس صدای پرواز جنگنده و انفجار می‌شنوند.:
 صدای جنگنده بندر
@@ -2295,13 +2434,13 @@ Vahid
 </div>
 
 <div class="tg-post" id="msg-77214">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/a3939b6f6d.mp4?token=ddU6r6viPJr1m9U16ss1PhNWCgKSjf9HQElR2fyi5SPZXP4NH5dll5wiDgskJt84EPxGtDP3ri4gpqCJhyUEVWnZxjvPxXwaE-zhsab5WMt07uQ16E_hpVQ78JPqxV5SOQXBZ2weJ2Oo4GHWX_NifFcDREMRKgAI5LwQlUyzxYZh7Y99MdZUWtXhCn979YsbY3TX9SujBTlsB9sdjonQnFBf9rJpKEOl-uu0MqnShVxEWFZbYFJPvkT_-8eBOsaSzM57yQFfkEm1RRZtfuy2ZgGPJsjtzAbsQUDMVYQnEjQMNXPhj0249qqFIpI3ypYstHL-VY0m4Qw6y0STSIsMYg" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/a3939b6f6d.mp4?token=jPla2e6n6-6ByRoQqU2zu9Ngci64IG0k-3ZJhsLKcO18atNns8U4MFjHuEH1UTMfsnftLOXJyMImehgTyB1Hq_DqRbVEAbbcVTw41SUin1Qnx7fklP6FmfMOlloQ_FiAoAS2BnA5f62FJ1YDVIMD5wGOFJGUtLTyK4maqqlv893DGQmcVvY2jvr5V5P8RLcN1r59apvgKWvmwG1qbeB3ZoOGxTYbfd5m-CBDDG-f0zVjQUDrBEPK0QGwxnIoI5USJ96-0-CmNPGEUzphS-Abdr7l0cb7ptw9UZwKWprisxPgMFzxcSup3NW7na8149TQvHjINMK8faD00LDV8Ahctg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/a3939b6f6d.mp4?token=ddU6r6viPJr1m9U16ss1PhNWCgKSjf9HQElR2fyi5SPZXP4NH5dll5wiDgskJt84EPxGtDP3ri4gpqCJhyUEVWnZxjvPxXwaE-zhsab5WMt07uQ16E_hpVQ78JPqxV5SOQXBZ2weJ2Oo4GHWX_NifFcDREMRKgAI5LwQlUyzxYZh7Y99MdZUWtXhCn979YsbY3TX9SujBTlsB9sdjonQnFBf9rJpKEOl-uu0MqnShVxEWFZbYFJPvkT_-8eBOsaSzM57yQFfkEm1RRZtfuy2ZgGPJsjtzAbsQUDMVYQnEjQMNXPhj0249qqFIpI3ypYstHL-VY0m4Qw6y0STSIsMYg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/a3939b6f6d.mp4?token=jPla2e6n6-6ByRoQqU2zu9Ngci64IG0k-3ZJhsLKcO18atNns8U4MFjHuEH1UTMfsnftLOXJyMImehgTyB1Hq_DqRbVEAbbcVTw41SUin1Qnx7fklP6FmfMOlloQ_FiAoAS2BnA5f62FJ1YDVIMD5wGOFJGUtLTyK4maqqlv893DGQmcVvY2jvr5V5P8RLcN1r59apvgKWvmwG1qbeB3ZoOGxTYbfd5m-CBDDG-f0zVjQUDrBEPK0QGwxnIoI5USJ96-0-CmNPGEUzphS-Abdr7l0cb7ptw9UZwKWprisxPgMFzxcSup3NW7na8149TQvHjINMK8faD00LDV8Ahctg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ویدیوی دریافتی: سمت نیروی هوایی
 #لار
@@ -2311,8 +2450,8 @@ Vahid
 </div>
 
 <div class="tg-post" id="msg-77213">
-<div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PC9rjQ_xViwVXLy82jsTKZaA5KnqbqKKbKhzqx9vniEJM6jFBRxIYMygdE40GghO9FLK7uGPg6u_aCbMDfLXE8wNTF4l27YBxOjeQPhyX7dAfaGi6ouN3q-k9P0fTK1Z0tpR4L377Iy2b6ux1gspkpt1ZPhE6tvacu6xZJ8fy3mLrEPC7sxROFPt-I9QdxFtwXPcJGkKom1sAQbdPFBdm37mAmxNYOjctrUnVGN--zO3zE-V3d452saMobDbkfFdBXO-JS--mKwUZz5Y2005Klpn-3lAvVi-comYggjuQojHhC75Ljex2Rm1h3CUoPrB2jHOnigOmCWomNJhVUW4rA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/C-OFo0TnYiVfJdq_ebn8g4V5HRQF3jc_jz71ey6g45fNC_SAI_OTyXLP57QxX0FUe2qg8fPjrPEk1bYM3UMSphC2Ku61FtX-Kaixxs-vYYbZF30Hy8ZMpGfqMOOM9gmYJsAxXCB-z_EZdQnqN7GKxNFPuc6IsSWbaqRfKP7R2FY0WyCkziUgdBEa4LJ1sEvPTGool2q4YwMpusLMvr8OcAtnOazZKhD8BgnP-jTjVdfon0eBiZ6VPEkq3LEHxZU2Jp8x0McKZtmrc_8DzaVPfofr2V7H3daxHcc5X4flz7TWHxaNEdLsnFg9o8CAOw8yVi8bey8O_o7VTENu1r8myA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیام‌های دریافتی:
 ۱۲:۳۰ اهواز رو زدن
 صدای انفجار ولی زیاد نزدیک نبود
@@ -2323,17 +2462,17 @@ Vahid
 معاون امنیتی انتظامی استانداری خوزستان: دقایقی پیش نقاطی در اطراف شهر اهواز توسط دشمن تروریستی آمریکا مورد حمله موشکی قرار گرفت.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 417K · <a href="https://t.me/VahidOnline/77213" target="_blank">📅 00:35 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 418K · <a href="https://t.me/VahidOnline/77213" target="_blank">📅 00:35 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77212">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/50fc7e043f.mp4?token=at6nrC8Z5sUtOUsuCaH5Ov_qHwAwz_Ul1Y-d6mkk0W7PJTifEsXRyK9kzeundlnJ-33MCxIHCtwAQMcuIZRZue1bTqVgjNvvbqglFUDT8cHP4HACPUNoTbZMBL5gSGKb0ee5cl4tiM7bB2JhwaMg_0IcldZibSdPIAEdWk-Jxk-Y9xQBEGFdKJ1XZsJZUvovkBxs7V-_sgFygMdvZksa-eInymaptfcK6SNyivrx3_ajTRUYZNMW9cOjKHJZTJ8bUT98q5gbbxgeglORyr1MBIb6om0sYookWfZG6CdPy3gwE311Qo8mDXNE7NnA76s1bktOA4vtgPE7i4UyOKMqmA" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/50fc7e043f.mp4?token=YPkUYcov98MYNoTWQiccXIHhCWiZ57tEswnDzxQ6Ilrl7VOZz0LaKFhA9nBBnZECP1FlJ-z7TWG0P6oFC2eA1MOmpuARYsct0K6nyNaDzESyAhieiR1l8eBLSjOdFrQ7OUpf97asUnpFUnRTdVC_E5KFh7XOuX2Bhd3rzYAzwXPWD3yoy5Jlnt8weiPb9KqBzBSHg0m3HHJjG2eDBol_fieyibA7fHqngPyfjOVc1LJZppZ00TuAun0mlv-oBilmvgch7o2G8JsbAkyj3O6WKkC2AZLXFPCFH_urx38IjgQIBwb1RrLBQgECbaD2b8q_j9u40U62696Z9ihYypQKkw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/50fc7e043f.mp4?token=at6nrC8Z5sUtOUsuCaH5Ov_qHwAwz_Ul1Y-d6mkk0W7PJTifEsXRyK9kzeundlnJ-33MCxIHCtwAQMcuIZRZue1bTqVgjNvvbqglFUDT8cHP4HACPUNoTbZMBL5gSGKb0ee5cl4tiM7bB2JhwaMg_0IcldZibSdPIAEdWk-Jxk-Y9xQBEGFdKJ1XZsJZUvovkBxs7V-_sgFygMdvZksa-eInymaptfcK6SNyivrx3_ajTRUYZNMW9cOjKHJZTJ8bUT98q5gbbxgeglORyr1MBIb6om0sYookWfZG6CdPy3gwE311Qo8mDXNE7NnA76s1bktOA4vtgPE7i4UyOKMqmA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/50fc7e043f.mp4?token=YPkUYcov98MYNoTWQiccXIHhCWiZ57tEswnDzxQ6Ilrl7VOZz0LaKFhA9nBBnZECP1FlJ-z7TWG0P6oFC2eA1MOmpuARYsct0K6nyNaDzESyAhieiR1l8eBLSjOdFrQ7OUpf97asUnpFUnRTdVC_E5KFh7XOuX2Bhd3rzYAzwXPWD3yoy5Jlnt8weiPb9KqBzBSHg0m3HHJjG2eDBol_fieyibA7fHqngPyfjOVc1LJZppZ00TuAun0mlv-oBilmvgch7o2G8JsbAkyj3O6WKkC2AZLXFPCFH_urx38IjgQIBwb1RrLBQgECbaD2b8q_j9u40U62696Z9ihYypQKkw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">پیام‌های دریافتی:
 وحید یزد الان 12:30صدای انفجار میاد
@@ -2365,13 +2504,13 @@ Vahid
 </div>
 
 <div class="tg-post" id="msg-77211">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/d6f0dabd88.mp4?token=vzlWH1N9N289K4H61DS5JDBe2A7PsKEmuHzhiEAJmaofQafdNCo0_4-GnVo41hHcNOTCE9WYGjojsMfSpC-w8kSJMu-_NPgra7yVfhb_4jBsaV3IGBR7b7xAz-fC-9WVEhxVdRx_SISKrS7zeBOYirnLmQrhpO-hVwAr4N8FKL0eJb_GV5PnM_iOLBLIwC7D7y-rLX-SjyjypENljRxvfml0f8l9rt1-PDveXtQMOWqT56oe9txMa1vdFOe0CUjl3yOoiVdOHDk3AF7GfirmWL47SPVd0eAuAbTEnWxsKlxfooF8vUFm1WeFPNZuLWMD_JmmOPjg7vxKy3cCVC-jvA" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/d6f0dabd88.mp4?token=faQuMsgYxX3ZWVA1I93FRwPwK-orgZthgpdpL4PgiLTrJcQxESLwARjtnyxEACkZ6b4kTnfnAdWzGUIrkfoBlNCze-PE1e6sZX9AKy9rbqQiMJMoZqyk74hqXmh66c3b4GT_h3ztVGJPfCjzgeKROM8QmdJoE9DuUFZBcA7p3eWegLKA60nbkclke0nP9kOQCUOLFy-9d8TD8l12OWRQ1H1D36_NUDKyjah_tpHXhoqDMDEaw7yeY0RLjFb0xRDLZBk2dY4K6CKs3NssqJnXra0wzl3UviRatK9Flp9GP2tNgvW0UcrNEryAcKP83vOpo4KnFUDMCWUvxdHtng8Chw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/d6f0dabd88.mp4?token=vzlWH1N9N289K4H61DS5JDBe2A7PsKEmuHzhiEAJmaofQafdNCo0_4-GnVo41hHcNOTCE9WYGjojsMfSpC-w8kSJMu-_NPgra7yVfhb_4jBsaV3IGBR7b7xAz-fC-9WVEhxVdRx_SISKrS7zeBOYirnLmQrhpO-hVwAr4N8FKL0eJb_GV5PnM_iOLBLIwC7D7y-rLX-SjyjypENljRxvfml0f8l9rt1-PDveXtQMOWqT56oe9txMa1vdFOe0CUjl3yOoiVdOHDk3AF7GfirmWL47SPVd0eAuAbTEnWxsKlxfooF8vUFm1WeFPNZuLWMD_JmmOPjg7vxKy3cCVC-jvA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/d6f0dabd88.mp4?token=faQuMsgYxX3ZWVA1I93FRwPwK-orgZthgpdpL4PgiLTrJcQxESLwARjtnyxEACkZ6b4kTnfnAdWzGUIrkfoBlNCze-PE1e6sZX9AKy9rbqQiMJMoZqyk74hqXmh66c3b4GT_h3ztVGJPfCjzgeKROM8QmdJoE9DuUFZBcA7p3eWegLKA60nbkclke0nP9kOQCUOLFy-9d8TD8l12OWRQ1H1D36_NUDKyjah_tpHXhoqDMDEaw7yeY0RLjFb0xRDLZBk2dY4K6CKs3NssqJnXra0wzl3UviRatK9Flp9GP2tNgvW0UcrNEryAcKP83vOpo4KnFUDMCWUvxdHtng8Chw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ویدیوی دریافتی با شرح: 'حمله به سایت موشکی در جاده گراش
 #لار
@@ -2384,7 +2523,7 @@ Vahid
 </div>
 
 <div class="tg-post" id="msg-77210">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">پیام‌های دریافتی تایید نشده:
 ‌
 پیام ساعت ۰۰:۰۷: لار داره پشت سر هم صدای انفجار میاد
@@ -2398,17 +2537,17 @@ Vahid
 </div>
 
 <div class="tg-post" id="msg-77209">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">پست سنتکام ترجمه ماشین:
 سنتکام امروز ساعت ۳ بعدازظهر به وقت شرق آمریکا [۲۲:۳۰ به وقت تهران]، برای هفتمین شب متوالی دور تازه‌ای از حملات علیه ایران را آغاز کرد. این حملات به دستور فرمانده کل قوا و با هدف ادامه تضعیف توانمندی‌های نظامی ایران انجام می‌شود.
 CENTCOM
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 421K · <a href="https://t.me/VahidOnline/77209" target="_blank">📅 23:30 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 423K · <a href="https://t.me/VahidOnline/77209" target="_blank">📅 23:30 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77208">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/ae40102b43.mp4?token=KqDF71j5zd7_IljyQwOOkQt_GzIW2zT2yhmBKw2WEAxQfTvauFJpU_VIicXkx_4HyFlkHEA8xhP4ROhGnfvSBYXfYbZSRkXMkbxfY8TaE2g81WtUGjf0QFk090kGs_AWf3Uv-q1hpeUCSVwJzZIJgu7AWXOO6X8sfFiMZDuSUH6AAiFd0eREoWB8xhNQCp6eRyAPUThxDU5Qg61kkoiqrLOcACRC4GaP2O7GVl_BSBGCEifgxEnH5xtmpmty6BTmbwaAqYP2IPRHiMNBoypwRqz0X2Jfp9EbW0_jSX_U6ZODMo_YA46jQWcmdOMP9hmAW0Trly7MGd9ZrGfeqPxyAQ" type="video/mp4">
@@ -2421,17 +2560,17 @@ CENTCOM
 hafezeh_tarikhi
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 446K · <a href="https://t.me/VahidOnline/77208" target="_blank">📅 23:16 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 447K · <a href="https://t.me/VahidOnline/77208" target="_blank">📅 23:16 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77207">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/d59582925b.mp4?token=d8SZljlNeYcPd4QivuT0sfbhtfMWLIOMjXz8pA5u4udrKt6qQWJRgoXEKRhFllJEnAwwRm3W5A57rayc0U7cWpWL7-wRsAf8AUxlhATgKWp1TYQUZ7SaCzrGbZJhrihtVCq2ObdTkGrCUccz58r6J2gGK2U8vbffiCbZ0Z4LclOuV4CdcC-Hvxm4ZTgPwjrlsBgp8WOiJdPxDocUhJxMVKnN3FHSsLcJxcw7xgaOBZj7RoBmVqE8DBSVmdC4hrYGQUpp4IiupY0hGy0rZjTP9MWgF_f5nABn5QyRNxTKyz_Q0EWVxABFvL2lU2y-Sq3IjTfiJwC42uS7wOt5jRBH3Q" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/d59582925b.mp4?token=nS9vv4er9adgCCrlYc6RMZZp0HR7Rlaob0R5XofRhzFvlAAIVj_4ktgiiCKoDsqGGrp3B4tOicqISrSu7CI71pLpW1YYWx6x6-_D4r1co0XCjjQfGtLqHdBiz2j7Hcq5SagKEnKaNkRziIvkXRv8aCt25TkEFyUZ5n8lXkvuyPJbOA9dqWN2l2I_uB5CSZFRRHCZfG2AJ6F6RIL2LS03F-sCPsRH3D6wFZj_CYZx_pvZHUzy7DREBxBOYOSwHfK25MKD2y7QQxn-PeiTTALPe2vNkskJYO9hvKmOfKIxvISvLp8SCR6JjHB8kSe-PayOZPf_D1tMQYnjmdXfOVqpgQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/d59582925b.mp4?token=d8SZljlNeYcPd4QivuT0sfbhtfMWLIOMjXz8pA5u4udrKt6qQWJRgoXEKRhFllJEnAwwRm3W5A57rayc0U7cWpWL7-wRsAf8AUxlhATgKWp1TYQUZ7SaCzrGbZJhrihtVCq2ObdTkGrCUccz58r6J2gGK2U8vbffiCbZ0Z4LclOuV4CdcC-Hvxm4ZTgPwjrlsBgp8WOiJdPxDocUhJxMVKnN3FHSsLcJxcw7xgaOBZj7RoBmVqE8DBSVmdC4hrYGQUpp4IiupY0hGy0rZjTP9MWgF_f5nABn5QyRNxTKyz_Q0EWVxABFvL2lU2y-Sq3IjTfiJwC42uS7wOt5jRBH3Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/d59582925b.mp4?token=nS9vv4er9adgCCrlYc6RMZZp0HR7Rlaob0R5XofRhzFvlAAIVj_4ktgiiCKoDsqGGrp3B4tOicqISrSu7CI71pLpW1YYWx6x6-_D4r1co0XCjjQfGtLqHdBiz2j7Hcq5SagKEnKaNkRziIvkXRv8aCt25TkEFyUZ5n8lXkvuyPJbOA9dqWN2l2I_uB5CSZFRRHCZfG2AJ6F6RIL2LS03F-sCPsRH3D6wFZj_CYZx_pvZHUzy7DREBxBOYOSwHfK25MKD2y7QQxn-PeiTTALPe2vNkskJYO9hvKmOfKIxvISvLp8SCR6JjHB8kSe-PayOZPf_D1tMQYnjmdXfOVqpgQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">محسن رضایی، مشاور نظامی مجتبی خامنه‌ای، در صدا و سیما گفت: اگر آمریکا دو سه روز دیگر به حملات خود ادامه دهند، وارد فاز تهاجم و انهدام کامل خواهیم شد و هیچ مرز سیاسی‌ای برای حملات خود نمی‌شناسیم.
 او ادامه داد سیاست «هم جنگ، هم مذاکره» به طور کامل پایان یافته و اکنون راهبرد ما بر پایه بازدارندگی، مقابله به مثل قاطع و پاسخ «چشم در برابر چشم» به حملات موشکی دشمن استوار است و ما موشک در دهان دشمن می‌زنیم.
@@ -2444,99 +2583,6 @@ VahidHeadline
 📡
 @VahidOnline</div>
 <div class="tg-footer">👁️ 465K · <a href="https://t.me/VahidOnline/77207" target="_blank">📅 23:15 · 26 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-77206">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/c044eb7a7e.mp4?token=MsDDuGomsZhg_EW4WvcWXiM737ZSjXLBpqs2AC_YiJnnCgQGc0dAYsqk1ZAKbbQtwKbbmPNrOQc_MCYoHIGdignYu9IcZJZ5J7OoIdSW0ny8rriOpj8VCDlzS1Eok9I402bbCBJ3_iCPlzdJT30P4LAK4NdDPvUvutWa0b_SZ7u0JPgqjpmXKCOL2_MRQ3YOiazPMy6PQFCEIyJF6kAPa0fMS88hMn9-eEfiH-1o1nCnyVB8vxtawnvQIs0UtTNsOZWA-7YXaAQQGJCEp5AhXpuls0JZ-yACfsCmGoAJJ9B0FvsfWVr_r6yhhWb_wbn49zT554lFgQZWKmkWtY40lw" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn1.telesco.pe/file/c044eb7a7e.mp4?token=MsDDuGomsZhg_EW4WvcWXiM737ZSjXLBpqs2AC_YiJnnCgQGc0dAYsqk1ZAKbbQtwKbbmPNrOQc_MCYoHIGdignYu9IcZJZ5J7OoIdSW0ny8rriOpj8VCDlzS1Eok9I402bbCBJ3_iCPlzdJT30P4LAK4NdDPvUvutWa0b_SZ7u0JPgqjpmXKCOL2_MRQ3YOiazPMy6PQFCEIyJF6kAPa0fMS88hMn9-eEfiH-1o1nCnyVB8vxtawnvQIs0UtTNsOZWA-7YXaAQQGJCEp5AhXpuls0JZ-yACfsCmGoAJJ9B0FvsfWVr_r6yhhWb_wbn49zT554lFgQZWKmkWtY40lw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">انتشار ویدئویی‌هایی از قرارگاه سپاه پاسداران در راسک نشان می‌دهد که در پی حمله هوایی آمریکا، سقف یک سوله بزرگ در این مجموعه به شدت آسیب دیده است.
-@
-VahidHeadline
-📡
-@VahidOnline</div>
-<div class="tg-footer">👁️ 459K · <a href="https://t.me/VahidOnline/77206" target="_blank">📅 20:29 · 26 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-77205">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/UYgo-hQXCF217b0NSK6RyKIAtciEfBMf4KaGc1kU-1ECO5Anowq8tgjbhCjgu6ool2RgZJ888IqtW0Stj7LFoGntedBVf0gU3xiKZuDXgt47TZT6jFOtRtGpyjOffSiWiyt_SjL80YH7yAtFAOagdq-Ig9a6UFbWSmvRnvU0TL9WnuVXFv_8b5lFIddE4sHDMeK4hR75QNAVUXyl5OebllwZCKqUpzTFGzV1NW406ek_Vwo_eZkPFCjl_faRAaYyalboBsVww9aFRgGWh-641sCgEEdvdzDEswFcJKCrM7jIOrVYK06Ngyi0G5fAW5sen5lGWJyFpeCMBd3DMVkgMQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">وب‌سایت اکسیوس روز جمعه به نقل از سه مقام آمریکایی و اسرائیلی خبر داد دولت دونالد ترامپ به اسرائیل اطلاع داده که در آستانه احتمال گسترش عملیات نظامی علیه ایران، ده‌ها فروند دیگر هواپیمای سوخت‌رسان را به این کشور اعزام می‌کند.
-بر اساس این گزارش، سه‌شنبه این هفته در نشست «اتاق وضعیت» کاخ سفید، چندین طرح جدید نظامی به رئیس‌جمهور آمریکا، ارائه شد و او در حال بررسی اجرای یک «حمله گسترده» علیه ایران است؛ حمله‌ای که دامنه آن از حملات کنونی در اطراف تنگه هرمز «فراتر» خواهد رفت.
-اکسیوس می‌گوید «زیرساخت‌های ایران مانند نیروگاه‌های برق، انجام حملات بیشتر به تأسیسات هسته‌ای ایران با هدف دفن هرچه عمیق‌تر ذخایر اورانیوم غنی‌شده، و همچنین بمباران سایت زیرزمینی کوه کلنگ‌گزلا که گمان می‌رود یک تأسیسات هسته‌ای در حال ساخت باشد»، ازجمله گزینه‌های در حال بررسی در دولت آمریکا است.
-دونالد ترامپ روز ۲۲ تیر در یک مصاحبه گفته بود که ارتش آمریکا احتمالاً به زودی به کوه کلنگ حمله خواهد کرد.
-گزارش اکسیوس در عین حال یادآوری می‌کند که ترامپ هنوز تصمیم نهایی را نگرفته است، اما به نظر می‌رسد آماده تشدید جنگ باشد تا خسارتی در حدی به ایران وارد شود تا جمهوری اسلامی تنگه هرمز را باز کند و خواسته‌های او دربارهٔ برنامه هسته‌ای ایران را بپذیرد.
-در حال حاضر، ایالات متحده حدود ۳۰ فروند هواپیمای سوخت‌رسان نظامی در فرودگاه بین‌المللی بن‌گوریون در نزدیکی تل‌آویو و تقریباً همین تعداد نیز در فرودگاه رامون در جنوب اسرائیل مستقر کرده است.
-مقام‌های اسرائیلی به اکسیوس گفته‌اند آمریکا قصد دارد طی روزهای آینده چند ده فروند هواپیمای سوخت‌رسان دیگر نیز به اسرائیل اعزام کند تا شمار این هواپیماها به سطحی برسد که در آغاز جنگ ۴۰ روزه وجود داشت.
-به گفته این مقام‌ها، ارتش آمریکا ترجیح می‌دهد هواپیماهای سوخت‌رسان خود را از فرودگاه بن‌گوریون به پرواز درآورد، زیرا سایر پایگاه‌های هوایی منطقه در برابر حملات ایران آسیب‌پذیرتر هستند و امنیت کمتری برای هواپیماهای آمریکایی دارند.
-@
-VahidHeadline
-📡
-@VahidOnline</div>
-<div class="tg-footer">👁️ 467K · <a href="https://t.me/VahidOnline/77205" target="_blank">📅 19:54 · 26 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-77204">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/3253e7746f.mp4?token=i-NCH52mv-3ruwvESAqaHoQgv89Hb3VNRmD8_0vTxL0ZCBvCeqF3ev1mvYosRmlonuGxc-jGFWjw9BlHyhozF_WETkm3rdT1r8lD_OBo9NSaWCBudvF3Hp-fGPensROn6gh__dNOmwMUSAARzupQyCFNnGnaBiBC6eLDySdL0RwZoHL0i56QHWUOtVydcxtbqpSx1OTRA_cJo-pGOhHOrslRvDLuuzgW05iUTXqxo0SY09G67-bGkpSYgHtIgpvnFTqUjEciKbx4iJJueCMp_9ui2DyEupcjTPBXZuxdFpGnCuNPcWYmMl0PGVqHQi074uvyFH0db-LEvuv1eJ_mZQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn1.telesco.pe/file/3253e7746f.mp4?token=i-NCH52mv-3ruwvESAqaHoQgv89Hb3VNRmD8_0vTxL0ZCBvCeqF3ev1mvYosRmlonuGxc-jGFWjw9BlHyhozF_WETkm3rdT1r8lD_OBo9NSaWCBudvF3Hp-fGPensROn6gh__dNOmwMUSAARzupQyCFNnGnaBiBC6eLDySdL0RwZoHL0i56QHWUOtVydcxtbqpSx1OTRA_cJo-pGOhHOrslRvDLuuzgW05iUTXqxo0SY09G67-bGkpSYgHtIgpvnFTqUjEciKbx4iJJueCMp_9ui2DyEupcjTPBXZuxdFpGnCuNPcWYmMl0PGVqHQi074uvyFH0db-LEvuv1eJ_mZQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">آمریکا: برج مراقبت چابهار را منهدم کردیم چون سپاه
-...
-پست سنتکام ترجمه ماشین:
-در ۱۶ ژوئیه، نیروهای آمریکایی برج مراقبت بندر شهید کلانتری چابهار را با موفقیت منهدم کردند. این برج بخشی از شبکه نظارت دریایی در امتداد سواحل ایران در دریای عمان بود که سپاه پاسداران انقلاب اسلامی دهه‌ها از آن برای ردیابی و هدف قرار دادن کشتی‌های تجاری عبوری از تنگه هرمز استفاده می‌کرد.
-انهدام این برج مستقیماً توانایی سپاه پاسداران برای هماهنگی حملات علیه خدمه غیرنظامی بی‌گناه را تضعیف می‌کند. افزون بر این، این حمله از آزادی کشتیرانی در آب‌های منطقه برای همه شناورها محافظت می‌کند، به‌جز کشتی‌هایی که در تلاش‌اند محاصره دریایی جاری آمریکا علیه ایران را نقض کنند.
-CENTCOM
-پیش‌تر پیت هگست، وزیر جنگ آمریکا،
-این تصویر دریافتی
-رو بدون هیچ توضیحی
-توییت کرده بود
-.
-📡
-@VahidOnline</div>
-<div class="tg-footer">👁️ 440K · <a href="https://t.me/VahidOnline/77204" target="_blank">📅 18:07 · 26 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-77203">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OoQSqwOki43DPkZ6i2H7C1dd4UUedplo6ZjrlFyyCHnjscRo-napg1DhjsZPc2-ddQQtC4uKM9J1_4TwO70l3NqZduo-bdy0Wa-91rpRWnjCIzLQ9Lno2pcgFnMxor9u31NEefPEEm1nIAUVxSzKPKkBqGqBpPzRaFFb7IxQoiW_0us-2G-TtruooHgtr0TDt27UjTRYCKztLPnmIApAiqYzaut-y3FT4CAv9TlE1rIayBOsJIVDGMBuGKsQkTNGJd11IE2tlrNrBABQWDGROZkWWoNKE26ImbWWeRNNokUf-3MuAhDg59Kr6aGWJaqsrMMmcs9O85tGiQaJupqoGw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">عکس دریافتی با شرح: "پل و خط تخریب شده دیشب ایستگاه انشعاب راه‌آهن
-#بندرعباس
-"
-هم‌زمان با حملات آمریکا در بامداد جمعه ۲۶ تیر
-Vahid
-📡
-@VahidOnline</div>
-<div class="tg-footer">👁️ 428K · <a href="https://t.me/VahidOnline/77203" target="_blank">📅 18:00 · 26 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-77194">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/o3Uke31gxL0Xru7qoUdmtP6yL7r3f8tku6f1R321UowSG2_ndCIrXmvZVkxbxGnIXfA4I5CXbyDIVodgim_kDYdvAIGB6CPlqMJ-uXRPdt3A6NuGJ_K8z-vrM95-1_HK1Q6G5_Y3Ptco4qol9snFQijpwd0BrGv0yJ950z1Z1MuNZZSoo6cLIooZq0GyeDyO7etod7OCulxzVpbLrZk3tByEzug_ITccAfgqS4_DrO4T0rltI_bSYEhYp10PrOoEPB6BF0hnLjU49uuq2qw8l3GECxl01ECFVAY5aywXw-g3KyMz53dSVJ-AykVAn2StYaAwsxNU1fmsgla4Aya8zQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/WspGddT5ECmLTTHgGhoY60NhN6YVBdYntqhegqPwAl_1XQ3jxVTWL8kbinqyv90gJWT3hUlBQV0m8Eu3B1L3v_BCBd5suT8yJmb_thVc1tbzQUxxpIdfVkoNNUzhGjIjVyg8zscDgV5V5VTUFQKUWtxHNGA7VRmQmcdzqgEaky8aKQ085oQK2t5QwiH3Zhkofipejwc3iiH-I2SY7kAR3ODq3qN7zZVIc7KZZ0P2Vr-mcQGcLMVRaWwF7YQX3dWJvA2eEuFcnwYx8_194-p5sAb_laJNHV38eg3sCpe-99MUnMR-sa2-V5cu15-FpO-G3c_Nr8dr_gH-q51pXkzHiA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/bzJq7sDYDobYiVVcuDju6G5XukNycEf_KeXzs7GMm9JoDTyQEMvf9U9cWikqLcVZz2l1ibBECW944eGZf5tJUvCqSEIpJA471CoFTu6NOUw183Kw3PqQiVS8vHDvKbl-yHtWjFHl7pTl_CeplcG_DwoRUG3XSUiZDLS3aiSGzBjeuZ2AfF9AaElJ26fxw7fYxjtbw5CZZ8dsm5HVN_a1r-AaZVNLzUccTqcTKpjpYgJZgfOe1ccpvy26CflATYZfeK0J0_qstSyqiL8ZpyFCfCSr1tNqlF7mxu9d97fR9bhR2DFuqvXXOsLR2d1seHjuBO_WtJngEczpBZTs-Vk5mw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/vvc9RVL5O73yVUOyhJsVeA4rZ6_xX8nwUqMqfjw5QB6jiQUiJjtxc2hxzdtDRPQ_nk1YNX1OijO-Q7QnTQRd_IC56cGcBfZbjRHuAw3GyPsqoq5h_R0ztdQ9IBz0sewkCL_4sH7leEQ8mpqw6R-S22QRN9yJL1LQ9hybhtU-Kz31_dDgekPVn3siB3CV_qTGTDzAsmTfm59WFps6nt6O91802IWx6Bc-1_HOwkJk0_gud6rk9dqNx648UZOJELhu8mF-aQC-9eVVTEiPQn5hVOpCz3XQRgy_U5nfQBnjQ96QZUA4VujHDJxFO33V1Zzx6goYAMvXU3f2jRovETcfyg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/MIFw_6uBlVEpeaaU7fF6US9_kRHHlqfat3Kr4okKNEgEOiKycvbNJDUEfCcgM2EYqMPnLleO0KgcUbhR1v7RWbrwJwE25VfGekj1DrPAhKK-aHzjLtSuyIFyByW_Ip9GQQ8DHIXjD2ub7mpRhtyBY6jOjp4tVvYb4wgscbSY8_ZX-Y0QIwEQFlgyeD-bnEWG5B4b9YX04L2Qo2Dj-WOofS1uaGQiCt3rWvvwtOeJTiwvX0sOn1A8aUgDtRdmW6OZvAM4uLXZYg-Ugw8HXMRx5Grqcl3P1dv9vfzVJhwoPd6Gf8rDo87BKB3k8wOK3H3x0V3GfbnSNcMb-xsjMHeA5w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/QKRmJ-zalgATwuWbVlSFsXqfhWZ_ztuZwORw7dAzL-ewGNaVmuLsdKdy0-P3W7nq4Ca4RMDrdjFmV1vz3-B0VyDOdcgQbpW2FJrjk6ywn0rd9wBEebUqTkswNb4iGscvUDpwOnyo4HHjuhOThRpEzc3nEDWBiBs_aLzTTECnKpVL0n_eX6iEo6ojJzRYQozIn7hIRtGHBHXaQKnOb3d4o0KXr3NrF9VD55vHYw77xAsWCQ3EggpdhxSdFWf66dqqbQpdltz-U1GZPDVQ6GyIsbqnON1LZ6wttAA2F_9cTfVve5xXB6NMD4_4vtNiWD-bNpKmDIL3vZsw61MXWYaCdA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/uCmvnraC5vv8OKX1Kjha-MQxggqhVAGN4VC-5QqYE1URD9jDUgCvYDNmshWWjIcLCWQBCan8PBL8MrhnL_yBrt67EqKi3EgxqL-TTXRriEh4uRwwjuXgkkY9bo89jK9ov0A6NO0auBZc0FvzPTvWAf7mcJcs80IYyLKLhxC_JXGb4m1oArEbyPYJcYVdwcvbGvxDd3eX4P1S6GvXMom7faSXe7TzvTKcfstUDAJltSy9M9q65YVZ26GwP1hpq74uGteA5lSQ8rND0uWgajGrjzQyGaXZVF4K3CV6zyGNCsxeLuQF-hH9l-8HF5cOI02pDC9IZSHioJX53wlgE2hKsQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/NiBe6YQo66xCEKFvO6VfMYscqOGH6A8XHOkHSuBax4Bx5fsxUg7f75sEBg9AnqRlDspR-Amk5AM8PDv9XOvy9cBNgGIPyp5lwfy07cZ7ycDhIykiq1uvuFnp6X1exh8retOo7jk7hJ6S_JjBx7RjtFbZ_hFhw-0AdoQoPyGEDW0qN5gitUxL7qegLz3IGNlQvABeBJxqkVgps_WljDt8ML25vnNlljSeBl0qwLkvXKx2ROAnQqaU4nMoRMMKc_nyx10iiJmS-ZH2D9bJ_Av2iS_hulDx5F1rC9-pBm1q2Qih7vm5vok7AjTYT7GTEgjS5S5D3zUuLZTPkZTgEtgcVw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/baBPzOcuYM6-XuQOXVMyzxiwO_qg_65ZoJq_qD_CxQudNMkPEYvM_MwUs24MuTTFHEbnM_ANEWphdxL5WQf4mbCig9docAn2IbcxYFBMs3whgY09sDZBqKuj58Qk_pQbNd-bp5xMQl7kjgwqW3ZXMLGgsiCXX4WbXF3SykU1V2TLnjpbscFNqVmbL1YcvLk_lgA2TMRfRBJ3p-RCYP09ffseHC5PJJsjrJrbFoQ-So-0BzTTRvBdNq9ti2f09UBpE7kEWlLv5vQx8prqImrXD90CURUfIZEjxWFtva1j10IJuc1n9nAxN2C6C2NfPpBDjahLkTbjgEoC_SekbfYYBg.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">تصاویر منتشر شده در منابع حکومتی با شرح:
-تصاویر هوایی از حمله آمریکا‌ به پل‌های بندرخمیر
-📡
-@VahidOnline</div>
-<div class="tg-footer">👁️ 471K · <a href="https://t.me/VahidOnline/77194" target="_blank">📅 17:55 · 26 Tir 1405</a></div>
 </div>
 
 <hr>
