@@ -292,18 +292,18 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-29 18:55:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-29 20:21:39</div>
 <hr>
 
 <div class="tg-post" id="msg-847">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-footer">👁️ 853 · <a href="https://t.me/mohsentavoosiseo/847" target="_blank">📅 18:02 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 857 · <a href="https://t.me/mohsentavoosiseo/847" target="_blank">📅 18:02 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-846">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">دوستانی که اکانت کلاد خریدند و تجربه موفق دارند و بن نشده لطفا تو دایرکت همین کانال اعلام کنید.   با توجه به نظر سنجی بالا من نمیبینم توی خودم که ماهانه به ۱۰۰۰ نفر بفروشم. نهایت میشه ۱۰۰ نفر با کلی دردسر. میشه حداکثر ماهی ۲۰۰ دلار با کلی مکافات.   پس من ورود…</div>
-<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/mohsentavoosiseo/846" target="_blank">📅 14:46 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/mohsentavoosiseo/846" target="_blank">📅 14:46 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-844">
@@ -347,7 +347,7 @@
 #تله
 #عیب
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.55K · <a href="https://t.me/mohsentavoosiseo/840" target="_blank">📅 15:11 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.56K · <a href="https://t.me/mohsentavoosiseo/840" target="_blank">📅 15:11 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-839">
@@ -550,7 +550,7 @@ https://t.me/mohsentavoosiseo/267
 2- یا نمیتونه بفروشه اصلا و جمع میکنه
 3- یا نارضایتی از محصول یا خدماتش ایجاد میشه که نمیتونه حلش کنه(این ها سومی هستند و حداقل تو یک و دو گیر نکردند).
 این نکته برای خود اون کسب و کار و کسانی که دریچه دریافتشون بازه، میلیون دلاری ارزش داره. باید میلیارد ها تومن یا صد ها هزار دلار از دست بدن تا این بازخورد رو از زبون یه مشاور که ایراد کسب و کارشون رو میگه بشنون.</div>
-<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/mohsentavoosiseo/812" target="_blank">📅 14:13 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/mohsentavoosiseo/812" target="_blank">📅 14:13 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-811">
@@ -633,7 +633,7 @@ https://t.me/mohsentavoosiseo/267
 <div class="tg-post" id="msg-801">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">سوال یکی از دانشجویان دوره از پشتیبان دوره:  من یک سایت در زمینه فروش پلاگین های وردپرسی دارم. کلا نزدیک 13-14 تا محصول بیشتر روی سایتم نیست مشکل من اینه که توی مثال ما یک لندینگ بیشتر نمیتونیم بسازیم اونم برای خود محصوله.سایر صفحات میشه ویژگی های محصولمون...که…</div>
-<div class="tg-footer">👁️ 1.88K · <a href="https://t.me/mohsentavoosiseo/801" target="_blank">📅 19:51 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/mohsentavoosiseo/801" target="_blank">📅 19:51 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-800">
@@ -645,7 +645,7 @@ https://t.me/mohsentavoosiseo/267
 یا مثال دیگه یکی از ویژگی های پلاگین ما Buy X Get Y هست که این کلمه خیلی سرچ میشه. ما نمیتونیم اینو جدا کنیم از پلاگین و یه پلاگین یا محصول جدا بدیم ولی رقبا اومدن یه پلاگین نوشتن فقط buy x get y انجام میده و اون الان بالاتر از ماست توی نتایج در حالی که این یه ویژگی خیلی کوچیک از پلاگین بزرگ ماست.
 وقتی هم بلاگ مینویسیم برای این ویژگی توی بلاگ مجبوریم اینفورمیشنال صحبت کنیم و از روش های مختلف غیر از پلاگین خودمون هم حرف بزنیم که بتونیم با رقبایی که فقط بلاگ وردپرسی هستن رقابت کنیم. در نتیجه نرخ تبدیلمون خیلی کم میشه.
 من احساس میکنم آموزشی که جناب طاووسی میدن برای این مدل بیزینس ها مثل سایت ما یه آپدیت نیاز داره که نیاز هست برای سایتایی که کم محصول هستن و محصولاتشون قابل تفکیک و توسعه به صفحات مختلف نیست چیکار باید بکنن؟</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/mohsentavoosiseo/800" target="_blank">📅 19:45 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/mohsentavoosiseo/800" target="_blank">📅 19:45 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-799">
@@ -785,7 +785,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PAA1ncBU3pnTm5GgXn51qtY4XEdPUvvQbNzV_YiAupMnKSeq2PWJewk8n58_3ThBcUjQ-5EZHmzWu2ZFjVkezbns4V4gvzLnyuNF3E6QhELPUgrbd6NUd4qRS74Sv6ikUWRopqSj9Lk5gvovwRTVv1R-PKyEv-4j8UjF_9myf3ojDgHGWmxy-kVDiQG9tsOOP00WDg1gET6bbNwFMgeaFAHoK3jcut33XR3BurRimKOmoYtpMHZ2UaV-UOsBCKub5ERCJtZiKXhlPSwmpr3zZoO1pliynlH_hWXJzV193kslBO18DB1RZS3kOdx6r5OVcDziB--a1_te7pPpOlwOMw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aSRNKBJCtVSgowM2Lfo91jYNehqGtZebocCtQwvXUFqBAP3KsDjQmzuvQilHvCsaoNMLoQiX8s8YVeH6rW60i8AWFX6UM8WZvh7AQ5d9WNvw-w2spauhd1tjV4OT6d714dbh2o0Ok2nNaGnk32O1CActkxFQYe1WfNHhYQy3BBKn4LT-u93kwnfcKrgHEcNw_mHzYYoETCk3Z6_J3XJbJ6x5sKwItdjfX1SEDw4F18eOJPdMovtyFdxajjdhG4VBJAlBqMqUFlAZ2ZxgcIZX2HRB8P9SY8Yz7TcUGom4lmw_2-C56uKbZq4tWxJ2OlL2I80ktBhps2xyU2iXDqmO7Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
@@ -1018,7 +1018,7 @@ pinned «
 
 <div class="tg-post" id="msg-744">
 <div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rRdun2bRalAqwbIcNLJ180MyrIsCBkUP23GXDBANhp0bjs0K6K-JPUQAuSF5JN0N7x5JxdbrNT0A2hYbWM7lZq9009JYkdyVA60OjyR7WZmywFJRHruIwHhCZy5L8ax5_uKCBH0iPbJc5e9K9YOdUQYjetL2al906dZSsuYY_23-_uf5cOu0lAUpLhTII_5FMIKUAJu9ho8ZA2F-W9P1bt-3PERreC7H0VHJWG6c1vAHYqwdpGOggcsjnTOclRRepizLvbdZksFCRr95cmvfcQ5FPq3p_FtIRtGNOQTq0kO_GfKLK-VzsF1dMMrpomsXN4iF0wiYldjWJTWH4OXUxg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DcV2a793_dM_E4-vyFi1SGnQ-iSDVtY0d8SAF1YmJiDYH75AvhGagw_QXEmNX49x40aLoOXo_f9cYI7lPhJI-AaZlSZfcDM16ncSijFlG-qAEgaPy94H2HudY4eBy96-CEm5UJnJJxX6zCue3yXyWNkkhmj2wyYdMoKTmCQ58fDnE4FY_B2ka1qscn_GnoRRiqRnfKWNQ8do_k3TGQAESlzzLm1Ip_DO2hgh_F03g3QbRGh3iLhoGlkSSjwyBBJwRZUCSdItDOZ4fGEVbtgJut72nhSTKmNoqQEfnuTcpcuC5hCu5Ko87hiZ_lrbTupJYT_YyT2CdR6bd3jUFL5NBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شما هم فکر می کنید این بنده خدا و این بندگان خدا، ساده اند؟ یا من تنهام؟</div>
 <div class="tg-footer">👁️ 2.38K · <a href="https://t.me/mohsentavoosiseo/744" target="_blank">📅 09:03 · 31 Khordad 1405</a></div>
 </div>
@@ -1114,7 +1114,7 @@ https://t.me/mohsentavoosiseo/739
 
 <div class="tg-post" id="msg-731">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rt8t4UMQR78Ueh4XtlmL80wPOKBQz8IJ8CwKI2hAgQ7gtFA67MKyVz33z_KdXQ25pHaodTVfl5BjdjNJIzuewO1sQXiSeE7zA2Oo_oEVdk9Bi-ngQ5xWs2XrTQAzRlxtiK6cnXonyipfwuW7ujCGKVL2RKiFdTwp9TPxrDrXSz6KbKVekNDrTzEA-3D_fujBMVVqaOP0KzWSdRB-drjINN0rRLj20ZRYvc0-v-VIZ-nWaEHeW-9sM4zBHgl-k04BnEkgHXAbLtD4urAN5tHRvya2P4x8fVuKf8EB96Qus2g_9TBwqkGFLvJd0s0NmI_jtyGNtZlJ5v4nSvfJw0qbDw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eODXHXhFMoGiYR2XUCJan-NHh9Tam_yiuQNRhbu9NG1PWIOcwiOd2mMnmPpXdDNp541aBEs3V0eZuLGBoTcG3pwFX0yHmq_q0S9C7HZ5LTHIx-gUbzn47ST7iKJ9-Oh_v9vSSjGGxqUun5qRktZMfo_9WXIbpi_kpFUiFG_olPftovNV6uYfNfzZI9PuoDM5-aaZLnupDEoNe8D6W-WuMYMOMOR7T94NVSmGlGomDTux1AINwOExI1JM4GngkuKoMSuMoNKT1Sz2oMeAjoJQ_BN93RzMuYmWssf9tClYtu2bEPSo3Ha06KtaQFq--TUBQvljD815ubcVXPrR8Usecw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک دوستی دارم که همیشه فکر میکنه من یه تکنیکی بلدم که انجام میدم سایت ها رشد میکنن. هربار فکر میکنه دارم میپیچونمش و نمیخوام بهش یاد بدم!
 همیشم این رو مثال میزنه. این برای سایتی هست که من فقط یک ساعت مشاوره و راهکار دادم. اوایل فوریه. حدودا یک ماه قبل از جنگ دوم(اسفند).
 بازار آمریکاست و زبان انگلیسی. و فعلا هم خدماتش در یک ایالت هست فقط.
