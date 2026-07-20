@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 65K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-30 02:18:51</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-30 03:18:50</div>
 <hr>
 
 <div class="tg-post" id="msg-6287">
@@ -306,7 +306,7 @@
 <div class="tg-text">نماینده رودان :
 اول جمهوری اسلامی ‌آتش‌بس
 را نقض کرد و سپس آمریکا پاسخ داد.</div>
-<div class="tg-footer">👁️ 5.77K · <a href="https://t.me/farahmand_alipour/6287" target="_blank">📅 01:10 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.76K · <a href="https://t.me/farahmand_alipour/6287" target="_blank">📅 01:10 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6286">
@@ -315,7 +315,7 @@
 گزارش انفجار مهیب در شیراز
 🚨
 گزارش انفجار در اصفهان</div>
-<div class="tg-footer">👁️ 6.98K · <a href="https://t.me/farahmand_alipour/6286" target="_blank">📅 01:02 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.89K · <a href="https://t.me/farahmand_alipour/6286" target="_blank">📅 01:02 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6285">
@@ -324,7 +324,7 @@
 🚨
 به گزارش خبرگزاری ایرنا، در ساعات اخیر صدای حداقل ۱۴ انفجار بزرگ و کوچک در چابهار و کنارک شنیده شده است.
 فرماندار چابهار : از محل اصابت‌ها هنوز اطلاعی نداریم!</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farahmand_alipour/6285" target="_blank">📅 00:32 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farahmand_alipour/6285" target="_blank">📅 00:32 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6284">
@@ -338,14 +338,14 @@
 انفجار در سیریک، قشم، بوشهر، دزفول.
 🔺
 پرواز جنگنده‌ها بر فراز چابهار در ارتفاع پائین.</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/farahmand_alipour/6284" target="_blank">📅 00:06 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/farahmand_alipour/6284" target="_blank">📅 00:06 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6283">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">🚨
 آمریکا از شهروندانش خواست تا هرچه سریعتر خاورمیانه را ترک کنند.</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/farahmand_alipour/6283" target="_blank">📅 00:03 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/farahmand_alipour/6283" target="_blank">📅 00:03 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6282">
@@ -353,7 +353,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VMD8LmlF9dtW_n9ppKxRpI6QEXxtDEOZeKd6k5r9jaHphX7ZuB2x4FOmuvzkpSzuhK3CooFbmgshifVFysRdGWvr4Pna4MnxN2FNp-esexuuFvmYCJAhgcUfSgH8eqhwpQkR6Yg245Us02bJktom1ib5QIBAIa5PgJ5LGU9C9FTumRkNzb41Q-lnnQmJx9sEq1lhVY0nerk_x5bbVpnD0635S6P9iWvAp_YA4V3r5IlbLiTJMlJLQjVjJUpsnEvndrzup1rLMfURtN_cudyC7poMQIUA-PiU7xaE7158WF3QTASLBthMmRX8yv8yfsd6sbX8zW4upsYobqvtIxBRbg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ :
 اگه قراره کسی دستگیر شود، سران جمهوری اسلامی هستند.</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/6282" target="_blank">📅 21:09 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/6282" target="_blank">📅 21:09 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6281">
@@ -361,7 +361,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YEJ6rdm-hlmlotnbn9FaHxJ0RX3m0GzYfYxBtckZb0nIVWIxdx7j3lcHH864cKmsuIm0dwzJ_y3pBMEhdxArYfoBASdyluMci6fDXNIOVO2ZfEVlGnnd1FsxHIjDavIXSJWEULKrkwWBJ_fE55yeUvSO5hfN2ybvq2YBoc_Ts1WgzkBvyCkvriILoNLFpkToCbfh2SQfw92mOVU-kT9PVtCbyXf1bqQIwKdbg3ruF2SAB0GRlHHGLSZWBQV6o2sSUAsnod26XixMpiiMLAwZK1FmeCnc55yoqp54QRTdCTecsWubf5pSrh6dfhuu7kojcma0VHqryzf207W9pgS5nw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حمله جمهوری اسلامی به یک کشتی
 در تنگه هرمز</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/6281" target="_blank">📅 18:12 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/6281" target="_blank">📅 18:12 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6280">
@@ -371,13 +371,13 @@
 🚨
 گزارش‌هایی از حمله به شیراز
 هدف: احتمالا صنایع الکترونیک شیراز</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/6280" target="_blank">📅 17:53 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/6280" target="_blank">📅 17:53 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6279">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">این سخنرانی ترامپ در عربستان رو به یاد دارید؟  پارسال، درست در  تاریخ ۲۳ اردیبهشت ۱۴۰۴  که به درستی گفت :« رهبران ایران روی دزدیدن ثروت مردم خود و خونریزی در خارج تمرکز کرده‌اند.»</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/farahmand_alipour/6279" target="_blank">📅 17:27 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/farahmand_alipour/6279" target="_blank">📅 17:27 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6278">
@@ -385,7 +385,7 @@
 <div class="tg-text">این سخنرانی ترامپ در عربستان رو به یاد دارید؟
 پارسال، درست در  تاریخ ۲۳ اردیبهشت ۱۴۰۴
 که به درستی گفت :« رهبران ایران روی دزدیدن ثروت مردم خود و خونریزی در خارج تمرکز کرده‌اند.»</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/6278" target="_blank">📅 17:27 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/6278" target="_blank">📅 17:27 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6277">
@@ -402,7 +402,7 @@
 آن‌ها همچنین فراخوان‌هایی برای بسیج عمومی صادر کردند:
 «از همه می‌خواهیم که به بسیج عمومی، فراخوان همگانی برای مسلح شدن و آمادگی کامل برای تمامی سناریوها و تحولات ادامه دهند و جبهه‌ها را با جنگجویان پشتیبانی کنند
 هرگونه حماقتی که دشمن بی‌پروا، یعنی سعودی، از طریق تشدید تنشِ همه‌جانبه مرتکب شود، ما با تشدید تنشِ همه‌جانبه و شدید با آن مقابله خواهیم کرد.»</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/farahmand_alipour/6277" target="_blank">📅 16:00 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/farahmand_alipour/6277" target="_blank">📅 16:00 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6276">
@@ -419,7 +419,7 @@
 و چه از محل فروش نفت، آن را صرف تروریست‌ها در منطقه می‌کند، حزب‌الله و حماس می‌کند…
 .
 در حالی که باید میلیاردها دلار برای ساختن و توسعه کشور خود و مردم ایران هزینه کنند، اما در عوض آن را صرف حمایت از تروریسم می‌کنند.»</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/farahmand_alipour/6276" target="_blank">📅 13:18 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/farahmand_alipour/6276" target="_blank">📅 13:18 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6275">
@@ -427,7 +427,7 @@
 <div class="tg-text">‏
 🚨
 دقایقی پیش، شنیده شدن صدای انفجارهای مهیب در ⁧ ساوه</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/farahmand_alipour/6275" target="_blank">📅 11:41 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/farahmand_alipour/6275" target="_blank">📅 11:41 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6274">
@@ -443,7 +443,7 @@
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">وضعیت اسکله بندر رجایی - بندرعباس
 بندری که ۷۰٪ صادرات و واردات کشور را بر عهده دارد.</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/farahmand_alipour/6273" target="_blank">📅 10:20 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/farahmand_alipour/6273" target="_blank">📅 10:20 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6272">
@@ -457,14 +457,14 @@
 <div class="tg-post" id="msg-6271">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">علیرضا پناهیان : اگر بی‌برقی و بی‌آبی را تحمل کنید، اول منطقه را و بعد جهان را آزاد خواهیم کرد.  به زودی نام نویسی برای آزادی جهان آغاز خواهد شد و آب و برق جهان را از ستم صهیونیسم آزاد خواهیم کرد.</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/farahmand_alipour/6271" target="_blank">📅 09:45 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/farahmand_alipour/6271" target="_blank">📅 09:45 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6270">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">علیرضا پناهیان : اگر بی‌برقی و بی‌آبی را تحمل کنید، اول منطقه را و بعد جهان را آزاد خواهیم کرد.
 به زودی نام نویسی برای آزادی جهان آغاز خواهد شد و آب و برق جهان را از ستم صهیونیسم آزاد خواهیم کرد.</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/farahmand_alipour/6270" target="_blank">📅 09:26 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/farahmand_alipour/6270" target="_blank">📅 09:26 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6269">
@@ -490,7 +490,7 @@
 کویت : در حال مقابله با حملات پهپادی هستیم.
 کویت در چند روز گذشته در صدر اهداف حملات جمهوری اسلامی بوده.
 مساحت این کشور کوچک عربی به اندازه «یک دهم» مساحت استان کرمان است.</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/farahmand_alipour/6268" target="_blank">📅 08:37 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/6268" target="_blank">📅 08:37 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6267">
@@ -505,14 +505,14 @@
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">🚨
 دو زمین‌لرزه ۵.۷ و ۵.۲ ریشتری حوالی کوزران کرمانشاه را لرزاند.</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/6266" target="_blank">📅 08:22 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/farahmand_alipour/6266" target="_blank">📅 08:22 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6265">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">« یه راه خوب اینه که چاه‌های نفت
 امارات، عربستان، قطر، بحرین و کویت رو کلا بزنیم» !</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/farahmand_alipour/6265" target="_blank">📅 01:42 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/farahmand_alipour/6265" target="_blank">📅 01:42 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6264">
@@ -552,7 +552,7 @@
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OH_5S45MxowlJZKryRExdDv_YoI313N6BP4WuFfM0_dDBGIXRA_HeUilF1mZm2gQ8rQH96MuD5E6jXvzeXMjnpGwE_-M4Iltpjbsq1UsaFO_Cu4OR1Dg6vmzrn54i8qwQ7OfySz9oCihr7EtQDUDdv5qqv5tF2FQpYCbNajhLzk_hjqyqQDxHyrnnX2aLccb4sKepy6T0SkU1pk3DUfwPSkJU0_nsz-2WlvZHZXGzGBaiuhmpc7r2ooU-BOBMpWX4Y8IWcuOEaQeJw-iG9txi7iz62R3a_9NZljFKOkBx9dYIm6fuYivQNhoikQzw_rNVRt4jtbU5Asb3xPqEWxpaA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">https://x.com/farahmandalipur/status/2078890340753568161?s=46</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/farahmand_alipour/6260" target="_blank">📅 20:41 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/farahmand_alipour/6260" target="_blank">📅 20:41 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6259">
@@ -580,7 +580,7 @@
 .» !
 قهرمان جهان عرب!
 که مقاومت به وسیله او در منطقه قدرت و آبرو یافت! امروز در مسکو به سر میبره و حتی در تشییع جنازه خامنه‌ای هم شرکت نکرد!</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/farahmand_alipour/6258" target="_blank">📅 20:18 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/farahmand_alipour/6258" target="_blank">📅 20:18 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6257">
@@ -596,7 +596,7 @@
 آتش‌سوزی در نیروگاه برق صبیه کویت
 مقامات کویتی: در پی حملات مجدد
 جمهوری اسلامی، یک نیروگاه برق و آب‌شیرین‌‌کن کویت برای دومین‌بار در ۲ روز گذشته  هدف حمله قرار گرفته است.</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/farahmand_alipour/6257" target="_blank">📅 19:23 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/6257" target="_blank">📅 19:23 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6256">
@@ -604,7 +604,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ftSNMWwFxm7ISdWnejerwkzQHaNzkiugpntlfrfYLORD1Mlh2AfxIsBdrxQkRIippDo5QVwYvTZCzIMKG5bxsGZu38UIAcdS9tnEZEG7Y1ycfett8IQ8J9U5hOb56jrMH_N4XiR7lSs5fZyypUZHfXIV0YUQLcX-zBnGwbm5f3dxMJDx-WT2A8-bXMqCuE4xmD68lsZ85_jDP1ceZj2tt2TEF55Tv1bEdjQY_NLKmpIuVyiqQJIYYEK72luQObHQDfv-amai4JcLCSZTD8SOizOrQjzl1pc1FNQb3AFb6Yqh5mBO7k13TXbgF4NUMMt8rlJheDHb2Mjy9eupQVtuig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 حمله موشکی آمریکا به نقطه‌ای در آبادان</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/6256" target="_blank">📅 19:19 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/6256" target="_blank">📅 19:19 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6255">
@@ -693,7 +693,7 @@
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">ترامپ درباره مشهد درست گفته بود
 مشهد برای چند ساعت سقوط کرده بود</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/farahmand_alipour/6250" target="_blank">📅 18:01 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/6250" target="_blank">📅 18:01 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6249">
@@ -773,7 +773,7 @@
 تصميم گرفتیم کمتر به كشورهاى خارجى فحاشی و حمله شود
 . صداوسيما هم كنترل شود.»
 https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/farahmand_alipour/6243" target="_blank">📅 02:31 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/farahmand_alipour/6243" target="_blank">📅 02:31 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6242">
@@ -855,7 +855,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 «ایران نمی‌تواند و نباید به سلاح هسته‌ای دست پیدا کند.»
 ساعاتی بعد، پس از آنکه جمهوری اسلامی اعلام کرد اجرای تعهدات خود ذیل توافق موقت را به حالت تعلیق درمی‌آورد، ترامپ در واکنش گفت:
 «ذره‌ای برایم مهم نیست.»</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/farahmand_alipour/6234" target="_blank">📅 01:05 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/6234" target="_blank">📅 01:05 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6233">
@@ -1000,7 +1000,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 ❌
 اما یک گزاره هست که دقیق تر به نظر می‌رسد و باید بررسی شود:
 - چون در سوریه، غزه و لبنان جنگیدیم، و همزمان دنبال موشک تل‌آویو‌ زن بودیم و برنامه هسته‌ای، مجبوریم در ایران بجنگیم.</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/farahmand_alipour/6219" target="_blank">📅 18:18 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/farahmand_alipour/6219" target="_blank">📅 18:18 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6218">
@@ -1081,7 +1081,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 <div class="tg-post" id="msg-6210">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">💔</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/farahmand_alipour/6210" target="_blank">📅 10:42 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/6210" target="_blank">📅 10:42 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6209">
@@ -1302,7 +1302,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 <div class="tg-text">عراقچی در ۲۹ آبان ۱۴۰۴ گفت:
 ترامپ به ما نامه‌ای داده و صراحتاً نوشته است:
 «بیش از دو گزینه وجود ندارد: یا جنگ و خون‌ریزی، یا مذاکره مستقیم برای پایان‌دادن به غنی‌سازی و برنامه موشکی.»</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/farahmand_alipour/6189" target="_blank">📅 21:16 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/farahmand_alipour/6189" target="_blank">📅 21:16 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6188">

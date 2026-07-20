@@ -292,7 +292,7 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیلinstagram.com/yasharhttps://X.com/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-30 02:18:51</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-30 03:18:50</div>
 <hr>
 
 <div class="tg-post" id="msg-19151">
@@ -300,7 +300,7 @@
 <div class="tg-text">ترامپ:مکالمه خیلی خوبی با نخست‌وزیر جدید بریتانیا، اندی برنهام داشتم. موضوعات زیادی را بررسی کردیم، از جمله رابطه ویژه‌ای که با بریتانیا داشتیم. به زودی برای موضوعات مورد علاقه مشترک ملاقات خواهیم کرد.
 نخست‌وزیر وظیفه بزرگی پیش رو دارد، اما قادر به انجام آن خواهد بود و البته ایالات متحده آمریکا. من آنجا خواهم بود تا کمک کنم! درباره نفت دریای شمال، تجارت، اتحاد نظامی و پاکسازی مین‌ها از تنگه هرمز و موضوعات دیگر صحبت کردیم. مکالمه جالب بود و خوب پیش رفت. برای نخست‌وزیر برنهام آرزوی موفقیت و انتظار خوب کردم!
 @WarRoom</div>
-<div class="tg-footer">👁️ 35K · <a href="https://t.me/withyashar/19151" target="_blank">📅 01:54 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 57.8K · <a href="https://t.me/withyashar/19151" target="_blank">📅 01:54 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19150">
@@ -311,14 +311,14 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/withyashar/19150" target="_blank">📅 01:48 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63K · <a href="https://t.me/withyashar/19150" target="_blank">📅 01:48 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19149">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">داداش الان سیریک طی ۱۰دقیقه ۵ انفجار قشنگ و محکم زد
 @WarRoom</div>
-<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/withyashar/19149" target="_blank">📅 01:47 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/withyashar/19149" target="_blank">📅 01:47 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19148">
@@ -328,12 +328,12 @@
 مقامات در حال بررسی هستند.
 به کشتی‌ها توصیه می‌شود با احتیاط عبور کنند و هرگونه فعالیت مشکوک را به UKMTO گزارش دهند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/withyashar/19148" target="_blank">📅 01:43 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 66K · <a href="https://t.me/withyashar/19148" target="_blank">📅 01:43 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19147">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/withyashar/19147" target="_blank">📅 01:40 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 67K · <a href="https://t.me/withyashar/19147" target="_blank">📅 01:40 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19146">
@@ -341,7 +341,7 @@
 <div class="tg-text">گزارش تایید نشده از حمله به نیروگاه بوشهر ، ممکنه مثل قبل‌ پدافندش رو زده باشن
 @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 52.5K · <a href="https://t.me/withyashar/19146" target="_blank">📅 01:38 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 68K · <a href="https://t.me/withyashar/19146" target="_blank">📅 01:38 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19145">
@@ -351,7 +351,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 53.5K · <a href="https://t.me/withyashar/19145" target="_blank">📅 01:37 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69K · <a href="https://t.me/withyashar/19145" target="_blank">📅 01:37 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19144">
@@ -360,20 +360,20 @@
 <div class="tg-text">درود رئیس اتاق جنگ
 خوشحال شدم رسیدن به جیرفت (کرمان)
 بزنن هرچی مقر سپاه توی این استان هست با خاک یکی کنن. هرچی میکشیم زیر سر قاسم و لشکر ۴۱ ثارالله و این سپاهه. جیرفت و بافت معدن سپاهیاست. البته توی این استان کم نیستن. به امید اینکه اعلام کنی تک تکشون پودر شدن.</div>
-<div class="tg-footer">👁️ 53.5K · <a href="https://t.me/withyashar/19144" target="_blank">📅 01:37 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69K · <a href="https://t.me/withyashar/19144" target="_blank">📅 01:37 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19143">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">اسرائیل اینش خوبه که قبلش میگه ! پل ها رو هم باید اعلام میکردن ! پل‌که در نمیرفت ! فرمون باید دست بی بی باشه  تا این راه بیفته پیر میشیم</div>
-<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/withyashar/19143" target="_blank">📅 01:35 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 70K · <a href="https://t.me/withyashar/19143" target="_blank">📅 01:35 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19142">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">خداروشکر حمله ها کاملا فقط پایگاه های نظامی هست و امروز تا الان مردم عادی آسیبی ندیدند
 😍</div>
-<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/withyashar/19142" target="_blank">📅 01:34 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 68K · <a href="https://t.me/withyashar/19142" target="_blank">📅 01:34 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19141">
@@ -384,7 +384,7 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 58.7K · <a href="https://t.me/withyashar/19141" target="_blank">📅 01:30 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 71.1K · <a href="https://t.me/withyashar/19141" target="_blank">📅 01:30 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19140">
@@ -399,13 +399,13 @@
 <div class="tg-text">نوش این نیز بگذرد…
 ❤️‍🩹
 @WarRoom</div>
-<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/withyashar/19140" target="_blank">📅 01:24 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 76.3K · <a href="https://t.me/withyashar/19140" target="_blank">📅 01:24 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19139">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">استاندار اصفهان: صدای انفجار در اصفهان تایید میشه ولی بخاطر حملات نبوده و دلیلش درحال بررسیه @WarRoom</div>
-<div class="tg-footer">👁️ 68.9K · <a href="https://t.me/withyashar/19139" target="_blank">📅 01:19 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.3K · <a href="https://t.me/withyashar/19139" target="_blank">📅 01:19 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19138">
@@ -422,14 +422,14 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 68.9K · <a href="https://t.me/withyashar/19138" target="_blank">📅 01:19 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.2K · <a href="https://t.me/withyashar/19138" target="_blank">📅 01:19 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19136">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">استاندار اصفهان: صدای انفجار در اصفهان تایید میشه ولی بخاطر حملات نبوده و دلیلش درحال بررسیه
 @WarRoom</div>
-<div class="tg-footer">👁️ 73K · <a href="https://t.me/withyashar/19136" target="_blank">📅 01:14 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.3K · <a href="https://t.me/withyashar/19136" target="_blank">📅 01:14 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19135">
@@ -439,14 +439,14 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 80.2K · <a href="https://t.me/withyashar/19135" target="_blank">📅 01:06 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 89.5K · <a href="https://t.me/withyashar/19135" target="_blank">📅 01:06 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19134">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromWarRoom with YASHAR</strong></div>
 <div class="tg-text">تحلیلگر ارشد</div>
-<div class="tg-footer">👁️ 57.6K · <a href="https://t.me/withyashar/19134" target="_blank">📅 01:06 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.9K · <a href="https://t.me/withyashar/19134" target="_blank">📅 01:06 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19131">
@@ -454,7 +454,7 @@
 <div class="tg-text">کره جنوبی:
 از شهروندانمون میخوایم فورا از کل خاورمیانه خارج بشن
 @WarRoom</div>
-<div class="tg-footer">👁️ 89.4K · <a href="https://t.me/withyashar/19131" target="_blank">📅 00:57 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 96.7K · <a href="https://t.me/withyashar/19131" target="_blank">📅 00:57 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19130">
@@ -466,7 +466,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 90.5K · <a href="https://t.me/withyashar/19130" target="_blank">📅 00:55 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 97.7K · <a href="https://t.me/withyashar/19130" target="_blank">📅 00:55 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19129">
@@ -477,7 +477,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 93.5K · <a href="https://t.me/withyashar/19129" target="_blank">📅 00:47 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 99.8K · <a href="https://t.me/withyashar/19129" target="_blank">📅 00:47 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19128">
@@ -487,7 +487,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/19128" target="_blank">📅 00:46 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/19128" target="_blank">📅 00:46 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19127">
@@ -498,7 +498,7 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/withyashar/19127" target="_blank">📅 00:45 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/19127" target="_blank">📅 00:45 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19126">
@@ -509,13 +509,13 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.6K · <a href="https://t.me/withyashar/19126" target="_blank">📅 00:45 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/19126" target="_blank">📅 00:45 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19125">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">یه حالی بدین اینستاگرام رو هم بابااااا اگه ندارین فالو کنین دیگه instagram.com/Yashar</div>
-<div class="tg-footer">👁️ 94.5K · <a href="https://t.me/withyashar/19125" target="_blank">📅 00:45 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/19125" target="_blank">📅 00:45 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19124">
@@ -523,21 +523,21 @@
 <div class="tg-text">رویترز
 : حملات به جمهوری اسلامی ایران در مقیاس بزرگ نزدیک است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.6K · <a href="https://t.me/withyashar/19124" target="_blank">📅 00:43 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/19124" target="_blank">📅 00:43 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19123">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">استاندار بوشهر: تاکنون هیچ گزارشی مبنی بر وقوع جراحت گزارش نشده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/19123" target="_blank">📅 00:31 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/19123" target="_blank">📅 00:31 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19122">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from❤🦁💚</strong></div>
 <div class="tg-text">اصفهان یچی زدن یاشار شاید باور نکنی شبیح ویبره</div>
-<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/19122" target="_blank">📅 00:30 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/19122" target="_blank">📅 00:30 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19121">
@@ -545,7 +545,7 @@
 <div class="tg-text">سلام من اصفهانم
 ی چیزی زدن صدا نداشت اما شیشه ها لرزیدن
 @WarRoom</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/19121" target="_blank">📅 00:26 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/19121" target="_blank">📅 00:26 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19120">
@@ -553,7 +553,7 @@
 <div class="tg-text">اصفهان صدای جنگنده
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/19120" target="_blank">📅 00:23 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/19120" target="_blank">📅 00:23 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19119">
@@ -566,7 +566,7 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/19119" target="_blank">📅 00:21 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/19119" target="_blank">📅 00:21 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19118">
@@ -574,7 +574,7 @@
 <div class="tg-text">اصفهان صدای جنگنده
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/19118" target="_blank">📅 00:19 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/19118" target="_blank">📅 00:19 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19117">
@@ -584,7 +584,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/19117" target="_blank">📅 00:14 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/19117" target="_blank">📅 00:14 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19116">
@@ -594,7 +594,7 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/19116" target="_blank">📅 00:13 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/19116" target="_blank">📅 00:13 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19115">
@@ -604,7 +604,7 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/19115" target="_blank">📅 00:12 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/19115" target="_blank">📅 00:12 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19114">
@@ -612,7 +612,7 @@
 <div class="tg-text">فاکس نیوز: دور جدیدی از تنش با ایران در راه است
 به گفته فاکس نیوز احتمال بازگشت آمریکا به جنگ تمام‌عیار در خاورمیانه بسیار بالاست.
 @WarRoom</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/19114" target="_blank">📅 00:09 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/19114" target="_blank">📅 00:09 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19113">
@@ -623,7 +623,7 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/19113" target="_blank">📅 00:08 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/19113" target="_blank">📅 00:08 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19112">
@@ -635,7 +635,7 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/19112" target="_blank">📅 00:07 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/19112" target="_blank">📅 00:07 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19111">
@@ -646,21 +646,21 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/19111" target="_blank">📅 00:07 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/19111" target="_blank">📅 00:07 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19110">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">یه حالی بدین اینستاگرام رو هم بابااااا اگه ندارین فالو کنین دیگه
 instagram.com/Yashar</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/19110" target="_blank">📅 00:06 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/19110" target="_blank">📅 00:06 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19109">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">دوستانی که نمیتون عضو بشن فیلترشکن دیگری امتحان کنند ، اونی که دارن لیمیت خورده
 ❤️</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/19109" target="_blank">📅 00:06 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/19109" target="_blank">📅 00:06 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19108">
@@ -671,14 +671,14 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/19108" target="_blank">📅 00:04 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/19108" target="_blank">📅 00:04 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19107">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">صداوسیما: صدای انفجار در بخش بمانی شهرستان سیریک شنیده شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/19107" target="_blank">📅 00:00 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/19107" target="_blank">📅 00:00 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19106">
@@ -688,7 +688,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 @WarRo</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/19106" target="_blank">📅 23:59 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/19106" target="_blank">📅 23:59 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19105">
@@ -699,19 +699,19 @@ instagram.com/Yashar</div>
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/19105" target="_blank">📅 23:57 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/19105" target="_blank">📅 23:57 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19104">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/19104" target="_blank">📅 23:56 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/19104" target="_blank">📅 23:56 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19103">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">خبر گزاری داخلی : دقایقی پیش، صدای فعالیت سامانه‌های پدافندی در اطراف نیروگاه اتمی بوشهر به گوش رسیده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/19103" target="_blank">📅 23:53 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/19103" target="_blank">📅 23:53 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19102">
@@ -722,7 +722,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/19102" target="_blank">📅 23:52 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/19102" target="_blank">📅 23:52 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19101">
@@ -733,21 +733,21 @@ instagram.com/Yashar</div>
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/19101" target="_blank">📅 23:49 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/19101" target="_blank">📅 23:49 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19100">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">گزارش صدای انفجار جیرفت
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/19100" target="_blank">📅 23:43 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19100" target="_blank">📅 23:43 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19099">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">موج سنگینی انفجار بندر از شهر های اطراف احساس شده
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/19099" target="_blank">📅 23:41 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19099" target="_blank">📅 23:41 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19098">
@@ -757,7 +757,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/19098" target="_blank">📅 23:40 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/19098" target="_blank">📅 23:40 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19097">
@@ -769,7 +769,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19097" target="_blank">📅 23:37 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/19097" target="_blank">📅 23:37 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19096">
@@ -780,7 +780,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/19096" target="_blank">📅 23:37 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/19096" target="_blank">📅 23:37 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19095">
@@ -790,7 +790,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/19095" target="_blank">📅 23:36 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19095" target="_blank">📅 23:36 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19094">
@@ -800,7 +800,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/19094" target="_blank">📅 23:36 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/19094" target="_blank">📅 23:36 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19093">
@@ -810,7 +810,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/19093" target="_blank">📅 23:36 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19093" target="_blank">📅 23:36 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19092">
@@ -818,7 +818,7 @@ instagram.com/Yashar</div>
 <div class="tg-text">شاهزاده رضا پهلوی در گفت‌وگو با رویترز:
 داوری بی‌طرف, و پلی برای رسیدن به مقصد هستم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/19092" target="_blank">📅 23:35 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19092" target="_blank">📅 23:35 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19091">
@@ -830,7 +830,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/19091" target="_blank">📅 23:28 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/19091" target="_blank">📅 23:28 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19090">
@@ -839,12 +839,12 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19090" target="_blank">📅 23:27 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/19090" target="_blank">📅 23:27 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19088">
 <div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/19088" target="_blank">📅 23:23 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/19088" target="_blank">📅 23:23 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19087">
@@ -854,7 +854,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/19087" target="_blank">📅 23:21 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/19087" target="_blank">📅 23:21 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19086">
@@ -865,7 +865,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/19086" target="_blank">📅 23:21 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/19086" target="_blank">📅 23:21 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19085">
@@ -873,7 +873,7 @@ instagram.com/Yashar</div>
 <div class="tg-text">خبرگزاری سی بی اس :
 یک توافق موقت درحال شکل گیری است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/19085" target="_blank">📅 23:19 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/19085" target="_blank">📅 23:19 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19084">
@@ -883,14 +883,14 @@ instagram.com/Yashar</div>
 حمله دوم به یک آشیانه خالی هواپیما
 حمله سوم به یک خانه کانتینری که سربازان در آن خوابیده بودند
 @WarRoom</div>
-<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/19084" target="_blank">📅 22:51 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/19084" target="_blank">📅 22:51 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19083">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">@WarRoom
 وسط راه</div>
-<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/19083" target="_blank">📅 22:45 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/19083" target="_blank">📅 22:45 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19082">
@@ -898,7 +898,7 @@ instagram.com/Yashar</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FwK6tms8r6IMRYVG9T9OIApBENAwjzaDfo0CCsEwAF5zjlIQyCcpl7a_o4ORHMsJFtWeJD9ii__BgvRE4FQKRm2T3hTxx0zp1Fu_COQInOMCI3ITaiJcs4QHdzRchHTneuAl77XWSTr_n_QVtqM2e7F0xKYz9XmlLT-UKVfRpk8Uif21ig92ZYDfFkAFYtsLtsawkhARhI19vi95OCPRx7CWK4wLZPTFvFLmct4cmD8kT8WAp6yGitAPT2Xpb_yv95Hc6KMo1x74GNBtsVJSDJQXDHjnTd8bCbNpFQVCodv_kt6Cugwxz7pOq79dRPcvaTsdkHHJ0ghsgKs9jmEfRg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سپاه کرمان: یک موشک کروز آمریکایی در آسمان رودبار جنوب رهگیری و منهدم شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19082" target="_blank">📅 22:34 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/19082" target="_blank">📅 22:34 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19081">
@@ -909,14 +909,14 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/19081" target="_blank">📅 22:28 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/19081" target="_blank">📅 22:28 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19080">
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">شرکت هواپیمایی ایرفرانس، تمامی پروازها به کشور های خلیج فارس را به مدت هفت روز متوقف کرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/19080" target="_blank">📅 22:24 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19080" target="_blank">📅 22:24 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19079">
@@ -924,7 +924,7 @@ instagram.com/Yashar</div>
 <div class="tg-text">کانال ۱۲ اسرائیل: شنیده شدن صدای انفجار در بندر ایلات
 احتمالاً این صداها به دلیل شلیک موشک به سمت اردن بود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 143K · <a href="https://t.me/withyashar/19079" target="_blank">📅 21:42 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 144K · <a href="https://t.me/withyashar/19079" target="_blank">📅 21:42 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19078">
@@ -932,7 +932,7 @@ instagram.com/Yashar</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jyGJnMmkbM6Eopfz98Dtoj59_5W8kTIqeL0WOplmNcH-CaSTy-_KxaOY96VCDLTLomGIfMYSbHpyYMbUOIVs5mxGaZugZEwjI9ZV0MTCMahdSg0FHVxcG0ETNvxYQa_cN2hCXy1YHLZsRB_Dn5p-lueMF0ZPyOhKe_bb1rUsv7lUhf2cMjyiRIRHN6uzrdR1DtZGg0auBRlFzQCn_5fI1Qqk9qhMnQ_YXRIpX_8bKb9Q4ha-hiigiw18kWh6Yp3EcrGFfLZjVxIfda2r3bAuOsTq-cZQVlb-IsTb2RPCs9NU1AbwkQKUC2QMHZ8GMQxifqRRg8p1ZbnC8f87tiVVWg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یاشار همین الان سه تا موشک از غرب تبریز فرستادن خیلی صدای بدی داد
 @WarRoom</div>
-<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/19078" target="_blank">📅 21:31 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/19078" target="_blank">📅 21:31 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19077">
@@ -943,21 +943,21 @@ instagram.com/Yashar</div>
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/19077" target="_blank">📅 21:27 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/19077" target="_blank">📅 21:27 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19076">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">یک منبع امنیتی اسرائیلی به شبکه i24NEWS: ایالات متحده در روزهای آینده، مرحله بعدی عملیات نظامی خود علیه ایران را آغاز خواهد کرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/19076" target="_blank">📅 21:26 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/19076" target="_blank">📅 21:26 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19075">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">کاخ سفید:رئیس جمهور دونالد ترامپ، فردا شب در مراسم استقبال از تابوت‌های سربازانی که در حمله جان باختند، شرکت خواهد کرد. این مراسم در پایگاه هوایی دوور (Dover Air Force Base) برگزار می‌شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/19075" target="_blank">📅 21:25 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/19075" target="_blank">📅 21:25 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19074">
@@ -977,14 +977,14 @@ instagram.com/Yashar</div>
 آسیب زیست‌محیطی
 منتشر نشده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/19074" target="_blank">📅 21:18 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/19074" target="_blank">📅 21:18 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19073">
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">منبعی در سپاه پاسداران به نایا که از افشای نام خودداری کرد: تیپ ۶۶ ارتش ایران از دزفول به سمت آبادان منتقل شده و نیروهای ویژه هم در آنجا حضور دارند. این عملیات احتمالاً در جزیره بوبيان انجام می‌شود که محل پرتاب موشک‌های آتش غیرمستقیم آمریکایی ATCAM به سمت جمهوری اسلامی ایران است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19073" target="_blank">📅 21:09 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/19073" target="_blank">📅 21:09 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19071">
@@ -999,7 +999,7 @@ instagram.com/Yashar</div>
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">کانال ۱۲ اسرائیل: جلسه کابینه امنیتی و سیاسی اسرائیل درباره ایران با حضور تمامی فرماندهان و رؤسای نهادهای امنیتی آغاز شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/19070" target="_blank">📅 20:35 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19070" target="_blank">📅 20:35 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19069">
@@ -1020,14 +1020,14 @@ instagram.com/Yashar</div>
 کشاندند؛ موضوعی که
 باید سال‌ها پیش و در دوران رؤسای جمهور پیشین آمریکا با آن برخورد می‌شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/19069" target="_blank">📅 20:27 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/19069" target="_blank">📅 20:27 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19068">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">رسانه تندرو عراقی : ایران آماده حمله زمینی به کویت شده، شاید امشب!!!
 @WarRoom</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19068" target="_blank">📅 20:24 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/19068" target="_blank">📅 20:24 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19067">
@@ -1057,7 +1057,7 @@ instagram.com/Yashar</div>
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">اف‌بی‌آی: هزار دامنه اینترنتی پخش‌کننده غیرمجاز مسابقات جام جهانی توقیف شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/19066" target="_blank">📅 20:10 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19066" target="_blank">📅 20:10 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19065">
@@ -1075,7 +1075,7 @@ instagram.com/Yashar</div>
 <div class="tg-text">یک واحد صنعتی در حومه شهر خمین هدف حمله قرار گرفت
 معاون سیاسی امنیتی استانداری مرکزی: این حمله حوالی ساعت ۱۹ روی داد که تلفات جانی در پی نداشت و خسارات احتمالی در دست بررسی است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/19064" target="_blank">📅 19:56 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/19064" target="_blank">📅 19:56 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19063">
@@ -1106,7 +1106,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/19061" target="_blank">📅 19:36 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19061" target="_blank">📅 19:36 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19060">
@@ -1128,7 +1128,7 @@ instagram.com/Yashar</div>
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">وزیر امور خارجه فرانسه: امروز، تعدادی از کارکنان سفارت ما در ایران برای چند ساعت بازداشت شدند، مورد بازجویی قرار گرفتند و تحت فشار و تهدید قرار گرفتند. اتفاقی که برای دو کارمند سفارت ما در ایران افتاد، بدون عواقب نخواهد گذشت. دو دیپلمات در سلامت هستند و در ساعات آینده به فرانسه باز خواهند گشت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/19059" target="_blank">📅 19:08 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19059" target="_blank">📅 19:08 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19058">
@@ -1144,7 +1144,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/19057" target="_blank">📅 19:03 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19057" target="_blank">📅 19:03 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19056">
@@ -1164,7 +1164,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/19055" target="_blank">📅 18:45 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/19055" target="_blank">📅 18:45 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19054">
@@ -1173,7 +1173,7 @@ instagram.com/Yashar</div>
 اکسیوس:
 عقب‌نشینی ارتش اسرائیل از "مناطق آزمایشی" در جنوب لبنان، فردا سه‌شنبه آغاز خواهد شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19054" target="_blank">📅 18:30 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/19054" target="_blank">📅 18:30 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19053">
@@ -1190,7 +1190,7 @@ instagram.com/Yashar</div>
 عرزشی
 بندرعباس با زنجیره انسانی ۵ کیلومتری به آمریکا پیام دادند: اگر از سد نیروهای مسلح عبور کنید، با ما طرفید؛ هیچ صلح و دوستی با ترامپ نداریم
 @WarRoom</div>
-<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/19053" target="_blank">📅 18:24 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/19053" target="_blank">📅 18:24 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19052">
@@ -1214,7 +1214,7 @@ instagram.com/Yashar</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 144K · <a href="https://t.me/withyashar/19050" target="_blank">📅 17:59 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/19050" target="_blank">📅 17:59 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19049">
