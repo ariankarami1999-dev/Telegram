@@ -291,14 +291,14 @@
 <p>@farahmand_alipour • 👥 65K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-29 02:54:57</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-29 04:30:39</div>
 <hr>
 
 <div class="tg-post" id="msg-6265">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">« یه راه خوب اینه که چاه‌های نفت
 امارات، عربستان، قطر، بحرین و کویت رو کلا بزنیم» !</div>
-<div class="tg-footer">👁️ 7.73K · <a href="https://t.me/farahmand_alipour/6265" target="_blank">📅 01:42 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/farahmand_alipour/6265" target="_blank">📅 01:42 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6264">
@@ -306,7 +306,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/I6HOGWW58Ca8r-IfC0ijyKWBEbOMY0OfGjz7IobZkHa-aFb8m-FOHAs580oxjfI-FLULgtoG-ornyIyE6DwdizY-8jXfwlEU96jGIkjEhRK4-uB62C8Uu5FxtP6EM3yTYj805it_LJZM-BBU2IGV_xlASohq3YLaMouLrpXlq4FtHiw97YPKktgC_kN5p2NOltNH62ffMmoGfdHTK4ISX_vAd0Kfe6QcXpqMmstJ5pXI4LRBg_Jxu9qhLbRR6MenRjkUEj8p4K7e3tUIDy73L7ZcW6eOrH_r_hmBpUgANFCbiO-dcOY_CuyWzvk9QIU9TO2DfIrggBBt5vWDe1aHzg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بیسیمچی مدیا:
 الله اکبر - اسپانیا برد :)</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/farahmand_alipour/6264" target="_blank">📅 01:35 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farahmand_alipour/6264" target="_blank">📅 01:35 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6262">
@@ -316,7 +316,7 @@
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/JQTm-GORMQsHyoQA2Jfe9odBDfnVbM5wg4V5gYjcyBNcP5-N-mcPzn6CoE9Wb0cNKNhboYrr5VmCWpbBjgOua9Da7F7pXnc9pWvx_vqb95Pfy8J98qtAB8y40-DEhbThH_fxPQLv2PYX4I9L13zNe27kGLwMlHl-GrBtyRKIA5R91UYA6PSdBGFbhCoCpBOhNRMWNP6cblMKBmYyAMdgwixCp0ghnR92N84suRuHUGRzNK65D8nvMayKqteTQavqfCoYy5TsGTJYAM7_EJxKtZl9BRA_QIDnyWNICKImpt4obdRBKdmm2EDSgv7fODc27_CpxORuOeWjHQR4hFgyyA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">حمل  موتور پهپاد آمریکایی با الاغ</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/farahmand_alipour/6262" target="_blank">📅 00:04 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/farahmand_alipour/6262" target="_blank">📅 00:04 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6261">
@@ -331,14 +331,14 @@
 دو نظامی آمریکایی در اردن کشته شدند و یک نظامی دیگر در وضعیت مفقودی قرار دارد
 .
 پس از یک عملیات جست‌وجوی گسترده، نیروهای ارتش آمریکا امروز بقایای ناشناس یک فرد را در محل حادثه پیدا کردند. روند بررسی برای تأیید هویت این بقایا همچنان ادامه دارد.</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/farahmand_alipour/6261" target="_blank">📅 23:00 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/farahmand_alipour/6261" target="_blank">📅 23:00 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6260">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rIOQVfZhz0XXHmouuOFUMaUiXc2QtDnpHgcvJ_6lMyLvPvs8vAbQMS96y4x7Fu4lDImcltyaeO8qcsieUdVVrjqKvLhVz07RWiYvEFnCkc5oEGMA-lLoYN5cDatcaY-zGj6oPI7Qm46NNOvRDBhCi4U1Jlq8OEUBy_4XnOo1zaqrfKEbt0K5KwyvFFMkdEg4g67rxaIVirQN9_0UIn_o8wFWi8hihh2gx97z3j5bs0XutuWDNU7b4xStT6ya4yX8-Ag8dIL_Q6WPFsMnI9tyJXPXa5_fgJOgJpUDHnJ7_LSTh7ubMeAxPL1wUlAXvn9ggmQQZSi1SaUNzFZR-02frg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">https://x.com/farahmandalipur/status/2078890340753568161?s=46</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/6260" target="_blank">📅 20:41 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/6260" target="_blank">📅 20:41 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6259">
@@ -353,7 +353,7 @@
 ظاهرا ستونش رو برای
 بازماندگانشون نگه داشتن :)
 یک «هفت اکتبر » راه انداختن و همگی با هم رفتن!</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/6259" target="_blank">📅 20:25 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/6259" target="_blank">📅 20:25 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6258">
@@ -366,7 +366,7 @@
 .» !
 قهرمان جهان عرب!
 که مقاومت به وسیله او در منطقه قدرت و آبرو یافت! امروز در مسکو به سر میبره و حتی در تشییع جنازه خامنه‌ای هم شرکت نکرد!</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/farahmand_alipour/6258" target="_blank">📅 20:18 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/6258" target="_blank">📅 20:18 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6257">
@@ -382,7 +382,7 @@
 آتش‌سوزی در نیروگاه برق صبیه کویت
 مقامات کویتی: در پی حملات مجدد
 جمهوری اسلامی، یک نیروگاه برق و آب‌شیرین‌‌کن کویت برای دومین‌بار در ۲ روز گذشته  هدف حمله قرار گرفته است.</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/6257" target="_blank">📅 19:23 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/6257" target="_blank">📅 19:23 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6256">
@@ -390,7 +390,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ltal-iHqkU0t-EHVYH8ZhpAgiCYVDQtn3wBr7TH3XJndSFkvIyRCPZ7zD4r5YX4kbOKH1uxuN0aLUrdvaiiZTEoSzNZpoffNDc2_btwlxDopv2nx1EuZK7zQKhImefrntwGTuCWlVk8JL3jrKujqo28IxRtltUndl-jkDKS6HthSH3-KuA9yb7C_HZNa1CcmWzIbu_YSpKmlDbatnlbpWPi5RndPAmT28vdaaz_DHYC652KN-h6kuBlgGPP0mmG6N1O3jrbzsdTdyzK9fn6dqim164x3MJ5s6xVPdUukpyCJQxYlLT0On-Pej-4U6cNmNE8H4PAstP0gws1XZx8qzw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 حمله موشکی آمریکا به نقطه‌ای در آبادان</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/6256" target="_blank">📅 19:19 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/farahmand_alipour/6256" target="_blank">📅 19:19 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6255">
@@ -406,7 +406,7 @@
 دولت چپگرای اسپانیا در ماه‌های اخیر تندترین مواضع را نسبت به آمریکا و اسرائیل داشت، در عوض رئیس جمهور آرژانتین
 «جمهوری اسلامی را دشمن آرژانتین» خواند
 که دو بار در این کشور دست به بمب گذاری زده است (از جمله انفجار آمیا)</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/farahmand_alipour/6255" target="_blank">📅 19:13 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/farahmand_alipour/6255" target="_blank">📅 19:13 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6254">
@@ -418,7 +418,7 @@
 <li>✓ آرژانتین</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/farahmand_alipour/6254" target="_blank">📅 19:07 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/farahmand_alipour/6254" target="_blank">📅 19:07 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6253">
@@ -443,7 +443,7 @@
 گاه برای شوخی به آرژانتینی‌ها میگن : «ایتالیایی‌هایی هستند که اسپانیایی حرف میزنند»، فرهنگ غذایی، صحبت کردن به دست، تلفظ کلمات و آهنگ زبان و….. متاثر از ایتالیا است
 🔺
 پیش‌بینی برد اسپانیا ۵۸٪ و آرژانتین ۴۲٪  است.</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/6253" target="_blank">📅 19:02 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/farahmand_alipour/6253" target="_blank">📅 19:02 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6252">
@@ -461,7 +461,7 @@
 خیلی مهم بود این پیام را به دنیا بدهیم که سیاست‌های ما تغییر نکرده و تغییر نخواهد کرد.
 درست میگه، جمهوری اسلامی هیچ وقت اصلاح نمیشه! نه با انتخابات، نه با اعتراضات و کشته‌های زیاد، نه جنگ.
 تا باشه همینه!</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/6252" target="_blank">📅 18:17 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/6252" target="_blank">📅 18:17 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6251">
@@ -472,14 +472,14 @@
 از اینکه ساعت‌ها در ماشین در حال حرکت بود که جاش رو پیدا نکنن.
 از خونه‌های به ظاهرا شخصی که پنهان می‌شوند و…
 مجری برنامه هم اسم دو تا از تونل‌ها که فرماندهان اونجا پناه میبردن رو میگه.</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/farahmand_alipour/6251" target="_blank">📅 18:09 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/6251" target="_blank">📅 18:09 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6250">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">ترامپ درباره مشهد درست گفته بود
 مشهد برای چند ساعت سقوط کرده بود</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/farahmand_alipour/6250" target="_blank">📅 18:01 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/farahmand_alipour/6250" target="_blank">📅 18:01 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6249">
@@ -495,7 +495,7 @@
 <div class="tg-text">علی خامنه‌ای، خرداد ۱۳۸۴:
 خیال می‌کردند حکومت اسلامی یعنی خلافت موروثی، مثل بنی‌امیه. یک نفر مستبد با نام خلیفه اما با باطن فرعون. بعد هم که از دنیا می‌رود، یک نفر را جای خود معین می‌کند. در ذهن دنیا حکومت اسلامی این شکل تصویر می‌شد که بزرگترین اهانت به اسلام و حکومت اسلامی بود
 @hafezeye_tarikhi</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/6249" target="_blank">📅 17:51 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/6249" target="_blank">📅 17:51 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6248">
@@ -514,14 +514,14 @@
 توی حکومت اسلامی ولی برای آتش زدن
 سطل آشغال و یا داشتن سنگ در دست
 حکم اعدام دادن.</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/6248" target="_blank">📅 17:46 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/6248" target="_blank">📅 17:46 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6247">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">🚨
 گزارش انفجار در آبادان</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/6247" target="_blank">📅 16:44 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/6247" target="_blank">📅 16:44 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6246">
@@ -534,7 +534,7 @@
 یک موشک در یک منطقه‌‌ خالی از سکنه افتاد.
 🔺
 عقبه تنها «چند متر» با شهر اسرائیلی ایلات فاصله دارد.</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/farahmand_alipour/6246" target="_blank">📅 16:34 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/farahmand_alipour/6246" target="_blank">📅 16:34 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6245">
@@ -542,13 +542,13 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IuBAHLtebmp0i3zJGSC5DvPZLoX0F73DMm9ioklhszLVkTkQTTk7Ib6Y8n0sW50riJ4q-AXm3cOCek1gjlGdlp6GsdkJg4NfLJURDqngcNydiTooRjcG2OvbApBBXj6_rv6BXOT4qv5ZrAG7nzgi-hjSi1Hzef8m-7sFMZElJIU_6_x6ZoIbRBEinOBXPdNi7H1q-4fGeVbLxjPe8-kYr17fX4uxSmgV4lLXgS030geLc4v1hkkxcFTRdn0yBfFJ4p-Mqm1W3Rm6JqMK85quCs-k5rzVomzbggdxg07eI_XnruxRUNW5_u7eDYBpwyMsNKX392qK6JTH2RFBhBsV5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هر روز ماندن جمهوری اسلامی
 هزینه برای ایرانه و فرصت برای ارتکاب جنایت</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/farahmand_alipour/6245" target="_blank">📅 16:16 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/6245" target="_blank">📅 16:16 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6244">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">حرف حق :)</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/farahmand_alipour/6244" target="_blank">📅 10:41 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/farahmand_alipour/6244" target="_blank">📅 10:41 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6243">
@@ -580,7 +580,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">🚨
 گزارش انفجار در اهواز</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/farahmand_alipour/6240" target="_blank">📅 02:09 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/farahmand_alipour/6240" target="_blank">📅 02:09 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6239">
@@ -607,7 +607,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 این حملات برای کاهش بیشتر توانایی ایران در تهدید کشتیرانی تجاری در تنگه هرمز و
 مجازات سریع نیروهای سپاه پاسداران انقلاب اسلامی
 که دیشب به نیروهای آمریکایی در اردن حمله کردند، طراحی شده است.»</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/farahmand_alipour/6237" target="_blank">📅 01:57 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/farahmand_alipour/6237" target="_blank">📅 01:57 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6236">
@@ -620,7 +620,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 و دولت آرژانتین به یکی از مهم‌ترین مدافعین اسرائیل تبدیل شده‌اند.
 نتانیاهو در دیدار با سفیر آرژانتین
 گفت که فردا از آرژانتین حمایت خواهیم کرد.</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/farahmand_alipour/6236" target="_blank">📅 01:17 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/farahmand_alipour/6236" target="_blank">📅 01:17 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6235">
@@ -631,7 +631,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 به منطقه اعزام کرده.
 آمریکا همچنین بدون سر و صدا
 در حال اعزام ده‌ها جنگنده به منطقه است.</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/farahmand_alipour/6235" target="_blank">📅 01:11 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/farahmand_alipour/6235" target="_blank">📅 01:11 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6234">
@@ -641,13 +641,13 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 «ایران نمی‌تواند و نباید به سلاح هسته‌ای دست پیدا کند.»
 ساعاتی بعد، پس از آنکه جمهوری اسلامی اعلام کرد اجرای تعهدات خود ذیل توافق موقت را به حالت تعلیق درمی‌آورد، ترامپ در واکنش گفت:
 «ذره‌ای برایم مهم نیست.»</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/farahmand_alipour/6234" target="_blank">📅 01:05 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/farahmand_alipour/6234" target="_blank">📅 01:05 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6233">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">آمریکا ۷ شبه که به جنوب و گاهی مرکز و شمال ایران حمله میکنه، اما نه عنوان «جنگ» به کار میبره و نه حتی «عملیات»!  در جنگ ۴۰ روزه هم از عنوان  «جنگ» پرهیز می‌کرد. به این دلیل که فرمان جنگ در اختیار سنای آمریکاست و رئیس جمهور می‌تونه فرمان «عملیات» بده.  این…</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/farahmand_alipour/6233" target="_blank">📅 00:36 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/farahmand_alipour/6233" target="_blank">📅 00:36 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6232">
@@ -668,7 +668,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 <div class="tg-text">مجتبی رو میگه؟
 مجتبی که مثل باباش شجاعه
 و در صف اوله!</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/farahmand_alipour/6231" target="_blank">📅 00:07 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/farahmand_alipour/6231" target="_blank">📅 00:07 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6230">
@@ -678,7 +678,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 انتشار گزارشهایی مبنی بر اینکه دقایقی پیش آمریکا پل سورمیچو که ایرانشهر را به چابهار متصل میکند را مورد هدف قرار داده است.
 🔺
 گزارش‌‌ها از حمله به قشم حکایت دارند.</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/farahmand_alipour/6230" target="_blank">📅 23:57 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/farahmand_alipour/6230" target="_blank">📅 23:57 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6229">
@@ -711,7 +711,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 تهران اما شعار می‌دهند که جنوب لبنان
 الگو و اسوه‌ای است برای جنوب ایران
 .</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/farahmand_alipour/6227" target="_blank">📅 21:50 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/farahmand_alipour/6227" target="_blank">📅 21:50 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6226">
@@ -786,7 +786,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 ❌
 اما یک گزاره هست که دقیق تر به نظر می‌رسد و باید بررسی شود:
 - چون در سوریه، غزه و لبنان جنگیدیم، و همزمان دنبال موشک تل‌آویو‌ زن بودیم و برنامه هسته‌ای، مجبوریم در ایران بجنگیم.</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/farahmand_alipour/6219" target="_blank">📅 18:18 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/farahmand_alipour/6219" target="_blank">📅 18:18 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6218">
@@ -833,7 +833,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 <a href="https://cdn4.telesco.pe/file/dbfc942e21.mp4?token=v2LVUByIPiSkt9TCf-nbXA3aoGu6vHPrkqj4DcWvBtgf2TnaBreC_8jWsZ5AY65-0tzmJ879Yh1cCSbd-7emB15U-Qw7HahvP0jprqM0lrBL93bpfRdovBhsIH8Ncg4BvukZ9_Dg_uC38XpmYXj8Gx1qWGtfolY1w-zDJoIhov4ZcrTIpYxtoDO3rsEE2vOjrKpr5gSc96IpNN1JynnE6eJmh5no92tPTIJTHTzTCp9NOS7wKLm6vCPg7e0p95JGIhu2lxiZiY4j1c9C49XW3kjnwNSXNxBIyE3mknQ3S9C9f-WSlT4n70Rrzv28YNwmF2ACdWByZ2BWbuesJRcyXaqvueP7AZgEimvaV6UB9m3PxXuKWB4cOo0exhvOUpaAusOkONkt92k0aBHIulzWd0k9HngQN1mA3jGAfkTqbAzKeXaoU6WPF4Wumiw8H-xtum_sKD_Nrq0oDHjY7cb-fgS_vK60wUbWyEGoE7r5qIh3GKvOfVDUL-kdxq4rq6q0sJCZSNQRpyy0fGlpapYtna-CJF1ygW32CXQY5gnbFIFupWoT8FP7XNrNYrh_RYabKsgrK6kCJgBZXL-eh0trLzUJYsRt7TT7oLz5Lj8oslZZ8SItiDztH04g_C4fC4TbGPGxuvbh8JkVldh1RCOphkaGjxpKFfZ3an-hZhMCEzc" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">سرنوشت ۹۰ میلیون ایرانی افتاده دست این جماعت  متوهم</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/farahmand_alipour/6214" target="_blank">📅 13:03 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/farahmand_alipour/6214" target="_blank">📅 13:03 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6213">
@@ -843,7 +843,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 این بار اما آمریکا از عنوان عملیات هم پرهیز کرده و به نوعی داره با سر و صدای کمتر، این جنگ رو پیش می‌بره.
 رسانه‌های بزرگ آمریکایی هم  گرچه اخبار این «حملات» ۷ روز اخیر رو پوشش میدن، اما نه با شدت و هیجانی که اخبار جنگ ۴۰ روزه رو پوشش میدادن.
 شخص ترامپ هم از  هر ساعت توییت زدن و تهدیدهای درشت، فاصله گرفته.</div>
-<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/farahmand_alipour/6213" target="_blank">📅 12:07 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/farahmand_alipour/6213" target="_blank">📅 12:07 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6212">
@@ -1073,7 +1073,7 @@ https://x.com/farahmandalipur/status/2078615489446543468?s=46</div>
 <div class="tg-post" id="msg-6190">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">عراقچی در ۲۹ آبان ۱۴۰۴ گفت:  ترامپ به ما نامه‌ای داده و صراحتاً نوشته است: «بیش از دو گزینه وجود ندارد: یا جنگ و خون‌ریزی، یا مذاکره مستقیم برای پایان‌دادن به غنی‌سازی و برنامه موشکی.»</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/farahmand_alipour/6190" target="_blank">📅 21:16 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/farahmand_alipour/6190" target="_blank">📅 21:16 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6189">
