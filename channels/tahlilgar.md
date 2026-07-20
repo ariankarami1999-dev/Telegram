@@ -292,7 +292,7 @@
 <a href="https://t.me/tahlilgar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 در این کانال عضو باشید تا درصورت تغییر لینک کانال اصلی لینک جدید اطلاع رسانی شود.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-29 11:37:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-29 14:49:00</div>
 <hr>
 
 <div class="tg-post" id="msg-352">
@@ -304,7 +304,7 @@
 🔽
 @tahlilgar
 @tahlilgar</div>
-<div class="tg-footer">👁️ 1.43M · <a href="https://t.me/AghayeTahlilgar/352" target="_blank">📅 15:42 · 19 Aban 1403</a></div>
+<div class="tg-footer">👁️ 1.44M · <a href="https://t.me/AghayeTahlilgar/352" target="_blank">📅 15:42 · 19 Aban 1403</a></div>
 </div>
 
 <div class="tg-post" id="msg-1">
