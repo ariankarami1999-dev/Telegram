@@ -292,7 +292,7 @@
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directمالک کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-29 04:30:39</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-29 08:29:30</div>
 <hr>
 
 <div class="tg-post" id="msg-135884">
@@ -301,7 +301,7 @@
 انفجار در قشم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/alonews/135884" target="_blank">📅 03:42 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 60.3K · <a href="https://t.me/alonews/135884" target="_blank">📅 03:42 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135883">
@@ -310,7 +310,7 @@
 انفجار در جاسک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/alonews/135883" target="_blank">📅 03:37 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 62.6K · <a href="https://t.me/alonews/135883" target="_blank">📅 03:37 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135882">
@@ -319,7 +319,7 @@
 منتسب به تبریز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/alonews/135882" target="_blank">📅 03:34 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.4K · <a href="https://t.me/alonews/135882" target="_blank">📅 03:34 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135881">
@@ -329,7 +329,7 @@
 منتسب به تبریز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/alonews/135881" target="_blank">📅 03:31 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/alonews/135881" target="_blank">📅 03:31 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135880">
@@ -339,7 +339,7 @@
 وضعیت بندر امام
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/alonews/135880" target="_blank">📅 03:27 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.4K · <a href="https://t.me/alonews/135880" target="_blank">📅 03:27 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135879">
@@ -349,7 +349,7 @@
 یه کشتی تو سواحل تنگه آتیش گرفته
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/alonews/135879" target="_blank">📅 03:25 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65K · <a href="https://t.me/alonews/135879" target="_blank">📅 03:25 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135878">
@@ -358,7 +358,7 @@
 انفجار در راس‌الخیمه امارات
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/alonews/135878" target="_blank">📅 03:20 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 66.7K · <a href="https://t.me/alonews/135878" target="_blank">📅 03:20 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135877">
@@ -367,7 +367,7 @@
 انفجار در بوشهر
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/alonews/135877" target="_blank">📅 03:19 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.3K · <a href="https://t.me/alonews/135877" target="_blank">📅 03:19 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135876">
@@ -376,7 +376,7 @@
 ستاد فرماندهی منطقه سوم دریایی بندر ماهشهر مورد حمله قرار گرفت.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/alonews/135876" target="_blank">📅 03:19 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.3K · <a href="https://t.me/alonews/135876" target="_blank">📅 03:19 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135875">
@@ -385,7 +385,7 @@
 انفجار در سیریک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/alonews/135875" target="_blank">📅 03:16 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/alonews/135875" target="_blank">📅 03:16 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135872">
@@ -401,7 +401,7 @@
 تصاویر منتسب به شهرموشکی تبریز.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/alonews/135872" target="_blank">📅 03:12 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.7K · <a href="https://t.me/alonews/135872" target="_blank">📅 03:12 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135871">
@@ -412,7 +412,7 @@
 ۵ انفجار شنیده شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/alonews/135871" target="_blank">📅 03:11 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.7K · <a href="https://t.me/alonews/135871" target="_blank">📅 03:11 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135870">
@@ -421,7 +421,7 @@
 انفجار در سربندر
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/alonews/135870" target="_blank">📅 03:10 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 64.6K · <a href="https://t.me/alonews/135870" target="_blank">📅 03:10 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135869">
@@ -430,7 +430,7 @@
 انفجار مجدد در خرم آباد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/alonews/135869" target="_blank">📅 03:08 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/135869" target="_blank">📅 03:08 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135868">
@@ -439,7 +439,7 @@
 انفجارهای مجدد در چابهار
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/alonews/135868" target="_blank">📅 03:03 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 66.2K · <a href="https://t.me/alonews/135868" target="_blank">📅 03:03 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135867">
@@ -448,7 +448,7 @@
 گزارش تایید نشده از انفجار در ساری
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/alonews/135867" target="_blank">📅 03:03 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 66.4K · <a href="https://t.me/alonews/135867" target="_blank">📅 03:03 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135866">
@@ -464,7 +464,7 @@
 ارسالی از تبریز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/alonews/135866" target="_blank">📅 02:58 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 68.1K · <a href="https://t.me/alonews/135866" target="_blank">📅 02:58 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135865">
@@ -480,7 +480,7 @@
 موشک های آمریکایی‌ای که از کویت به سمت ایران پرتاب شدن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/alonews/135865" target="_blank">📅 02:57 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 65.9K · <a href="https://t.me/alonews/135865" target="_blank">📅 02:57 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135864">
@@ -489,7 +489,7 @@
 حملات امشب خیلی گسترده هست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/alonews/135864" target="_blank">📅 02:49 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69.5K · <a href="https://t.me/alonews/135864" target="_blank">📅 02:49 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135863">
@@ -498,7 +498,7 @@
 انفجار در چابهار
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/alonews/135863" target="_blank">📅 02:49 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 68.4K · <a href="https://t.me/alonews/135863" target="_blank">📅 02:49 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135862">
@@ -508,7 +508,7 @@
 سنتکام: امروز، ساعت ۷ بعد از ظهر به وقت شرق آمریکا، موج جدیدی از حملات علیه ایران را برای نهمین شب متوالی آغاز کرد. این حملات به تضعیف قابلیت‌های نظامی ایران که برای حمله به کشتی‌های تجاری و دریانوردان غیرنظامی در حال عبور از تنگه هرمز استفاده می‌شوند، ادامه خواهد داد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/alonews/135862" target="_blank">📅 02:48 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69.4K · <a href="https://t.me/alonews/135862" target="_blank">📅 02:48 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135861">
@@ -517,7 +517,7 @@
 انفجار در کنارک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/alonews/135861" target="_blank">📅 02:47 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 67.7K · <a href="https://t.me/alonews/135861" target="_blank">📅 02:47 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135860">
@@ -526,7 +526,7 @@
 انفجار در ماهشهر
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 41K · <a href="https://t.me/alonews/135860" target="_blank">📅 02:45 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 68.6K · <a href="https://t.me/alonews/135860" target="_blank">📅 02:45 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135859">
@@ -535,7 +535,7 @@
 انفجار در خرم آباد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/alonews/135859" target="_blank">📅 02:44 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 69.1K · <a href="https://t.me/alonews/135859" target="_blank">📅 02:44 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135858">
@@ -544,7 +544,7 @@
 هم اکنون صدای جنگنده در تبریز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/alonews/135858" target="_blank">📅 02:41 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 71.3K · <a href="https://t.me/alonews/135858" target="_blank">📅 02:41 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135857">
@@ -553,7 +553,7 @@
 فوری/4انفجار در تبریز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/alonews/135857" target="_blank">📅 02:40 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 72.2K · <a href="https://t.me/alonews/135857" target="_blank">📅 02:40 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135856">
@@ -562,7 +562,7 @@
 گزارش‌ها از انفجار در تبریز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/alonews/135856" target="_blank">📅 02:38 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 72.2K · <a href="https://t.me/alonews/135856" target="_blank">📅 02:38 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135855">
@@ -578,7 +578,7 @@
 عادل: قلعه نویی موقع جنگ رفته بود ویلای خودش تو آلانیا ترکیه بعد میگه کنار مردمم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.2K · <a href="https://t.me/alonews/135855" target="_blank">📅 02:33 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 73.5K · <a href="https://t.me/alonews/135855" target="_blank">📅 02:33 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135854">
@@ -589,7 +589,7 @@
 سفیده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/alonews/135854" target="_blank">📅 02:30 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 73.5K · <a href="https://t.me/alonews/135854" target="_blank">📅 02:30 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135853">
@@ -598,7 +598,7 @@
 این وسط یه مدال هم به ترامپ دادن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.3K · <a href="https://t.me/alonews/135853" target="_blank">📅 02:23 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82K · <a href="https://t.me/alonews/135853" target="_blank">📅 02:23 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135851">
@@ -607,7 +607,7 @@
 ترامپ میخواست با بازیکنا اسپانیا قهرمانیو جشن بگیره که اینفانتینو بهش گفت مشتی بیا اینور
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/alonews/135851" target="_blank">📅 02:20 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 88.5K · <a href="https://t.me/alonews/135851" target="_blank">📅 02:20 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135850">
@@ -616,7 +616,7 @@
 صداوسیما قاتل رهبر رو نشون داد
 ✅
 @AloNews ‌</div>
-<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/alonews/135850" target="_blank">📅 02:17 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.1K · <a href="https://t.me/alonews/135850" target="_blank">📅 02:17 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135849">
@@ -627,7 +627,7 @@
 ✅
 @AloNews
 ‌</div>
-<div class="tg-footer">👁️ 57K · <a href="https://t.me/alonews/135849" target="_blank">📅 02:17 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.9K · <a href="https://t.me/alonews/135849" target="_blank">📅 02:17 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135848">
@@ -637,7 +637,7 @@
 اسپانیایی‌ها و ترامپ جام رو بالای سرشون بردن:
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/alonews/135848" target="_blank">📅 02:15 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77K · <a href="https://t.me/alonews/135848" target="_blank">📅 02:15 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135847">
@@ -653,7 +653,7 @@
 اهدای مدال طلا به بازیکنان اسپانیا توسط پرزیدنت ترامپ
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54.1K · <a href="https://t.me/alonews/135847" target="_blank">📅 02:14 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 75.3K · <a href="https://t.me/alonews/135847" target="_blank">📅 02:14 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135846">
@@ -663,7 +663,7 @@
 وضعیت عجیب ایتا
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.4K · <a href="https://t.me/alonews/135846" target="_blank">📅 02:13 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.3K · <a href="https://t.me/alonews/135846" target="_blank">📅 02:13 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135845">
@@ -673,21 +673,21 @@
 گریه‌های مسی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/alonews/135845" target="_blank">📅 02:07 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 76K · <a href="https://t.me/alonews/135845" target="_blank">📅 02:07 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135844">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">👈
 مسی گریه کرد</div>
-<div class="tg-footer">👁️ 54.8K · <a href="https://t.me/alonews/135844" target="_blank">📅 02:06 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.6K · <a href="https://t.me/alonews/135844" target="_blank">📅 02:06 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135843">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">👈
 مدال مسی رو ترامپ داد</div>
-<div class="tg-footer">👁️ 55.9K · <a href="https://t.me/alonews/135843" target="_blank">📅 02:05 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 75.7K · <a href="https://t.me/alonews/135843" target="_blank">📅 02:05 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135842">
@@ -697,14 +697,14 @@
 ترامپ و بچه‌ها
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.7K · <a href="https://t.me/alonews/135842" target="_blank">📅 01:59 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.6K · <a href="https://t.me/alonews/135842" target="_blank">📅 01:59 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135841">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">👈
 ترامپ برای اهدای جام اومد</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/135841" target="_blank">📅 01:59 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 76.9K · <a href="https://t.me/alonews/135841" target="_blank">📅 01:59 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135840">
@@ -720,7 +720,7 @@
 قلعه نویی قبل از واریز 140میلیارد پول
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.6K · <a href="https://t.me/alonews/135840" target="_blank">📅 01:53 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.5K · <a href="https://t.me/alonews/135840" target="_blank">📅 01:53 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135838">
@@ -733,7 +733,7 @@
 مردم روی این دختره که امشب سرود تیم ملی آرژانتین رو توی ابتدای بازی خوند حسابی روش کراش زدن:
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.7K · <a href="https://t.me/alonews/135838" target="_blank">📅 01:49 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 83.6K · <a href="https://t.me/alonews/135838" target="_blank">📅 01:49 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135837">
@@ -746,7 +746,7 @@
 <a href="https://cdn4.telesco.pe/file/5a6163e56d.mp4?token=f04ZEjpHpbvTOaE1WCm93nIAfxY4EfGAtdk-i2cRfinMlcoyE9WRFJKwJ_-w4CPmsmi5kl1-Vt4aV0msMqJb2JOoFh80c3I46JpRpW4490MZs_6WLUGvKe1KMf_gKBz7LjpFeLGM5t-fqT9qfT2qNmr1fBIuuyf7tVQi2aQzPcvIRdXDOpezdHHOzS5T2VzlhR8N1t7vFvjlGheNze2mITwvTsBJx00UPQiGYSPf__rok26PKCMwTFYYrLdug_FysTy57t72N2H7h06NkhIdEdwwjpGQDiu5RypWNGWfo6FJpFVUHKZ7b6tLdNIwky0AkRYcuUIGjSSTp6HaiPFwlTF_fuuMxOGcC4Va8GhckEpyZtkkeri6jK64YCbyzyeCQjjYV_BuPZ40T86aRe2wSf3TbQ5XAl4ILmZxu_r9-KLB3wEQ6uy30bo8Gpx153mKIC3PBoBd3w0HqX13Fny9-5jdXxnJ5D0lL_E9TjuO1zfLAraT3tqAkv-C7sVAgANZQh53qsISGWAeR7thDbBrFVMXqfBCcFPHjxD2JjxnwicR9rhJ7288678Nl9AVZTfijtIK5KwurlmohSM_yXN-j1isDoLLb0XLfdHzxmdiq4TP_fAeqVZYiOTRiPM37UEsPpbP-FO3OnJaa6faZy3BQFY-3iOx303ZvEwLxhaU0Es" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">Comming soon.....</div>
-<div class="tg-footer">👁️ 70.3K · <a href="https://t.me/alonews/135837" target="_blank">📅 01:42 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.8K · <a href="https://t.me/alonews/135837" target="_blank">📅 01:42 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135836">
@@ -755,7 +755,7 @@
 گویا صدا و سیما مراسم اهدای جام رو به دلیل حضور ترامپ نشون نمیده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70.8K · <a href="https://t.me/alonews/135836" target="_blank">📅 01:41 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.9K · <a href="https://t.me/alonews/135836" target="_blank">📅 01:41 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135835">
@@ -765,7 +765,7 @@
 وضعیت مسی بعد بازی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70.7K · <a href="https://t.me/alonews/135835" target="_blank">📅 01:40 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 86K · <a href="https://t.me/alonews/135835" target="_blank">📅 01:40 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135834">
@@ -779,7 +779,7 @@
 ◀️
 ◀️
 مشاهده فوری فیلم</div>
-<div class="tg-footer">👁️ 70.9K · <a href="https://t.me/alonews/135834" target="_blank">📅 01:38 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.4K · <a href="https://t.me/alonews/135834" target="_blank">📅 01:38 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135833">
@@ -788,7 +788,7 @@
 تنها دو تیم اسپانیا و ایران نباختن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 71.7K · <a href="https://t.me/alonews/135833" target="_blank">📅 01:37 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.9K · <a href="https://t.me/alonews/135833" target="_blank">📅 01:37 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135832">
@@ -798,19 +798,19 @@
 دلیل قهرمانی اسپانیا
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 75.4K · <a href="https://t.me/alonews/135832" target="_blank">📅 01:34 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 88.8K · <a href="https://t.me/alonews/135832" target="_blank">📅 01:34 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135831">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">اسپانیا با شکست آرژانتین قهرمان جام جهانی شد</div>
-<div class="tg-footer">👁️ 68.2K · <a href="https://t.me/alonews/135831" target="_blank">📅 01:32 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.3K · <a href="https://t.me/alonews/135831" target="_blank">📅 01:32 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135830">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">تمااااام</div>
-<div class="tg-footer">👁️ 68.2K · <a href="https://t.me/alonews/135830" target="_blank">📅 01:32 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.3K · <a href="https://t.me/alonews/135830" target="_blank">📅 01:32 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135829">
@@ -819,33 +819,33 @@
 فوری/چند سوخت‌رسان از عربستان، برای عملیات علیه ایران بلند شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70.1K · <a href="https://t.me/alonews/135829" target="_blank">📅 01:30 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 83.2K · <a href="https://t.me/alonews/135829" target="_blank">📅 01:30 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135828">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">👈
 فک کن هم طرفدار آرژانتین باشی هم طرفدار جبهه مقاومت</div>
-<div class="tg-footer">👁️ 70.7K · <a href="https://t.me/alonews/135828" target="_blank">📅 01:23 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 82.8K · <a href="https://t.me/alonews/135828" target="_blank">📅 01:23 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135827">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">کجاش آفساید بود آخه؟؟؟؟؟؟؟</div>
-<div class="tg-footer">👁️ 70.4K · <a href="https://t.me/alonews/135827" target="_blank">📅 01:20 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.8K · <a href="https://t.me/alonews/135827" target="_blank">📅 01:20 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135826">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">آفساید شد
 😂</div>
-<div class="tg-footer">👁️ 69.7K · <a href="https://t.me/alonews/135826" target="_blank">📅 01:20 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.8K · <a href="https://t.me/alonews/135826" target="_blank">📅 01:20 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135825">
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">دومیییییییی</div>
-<div class="tg-footer">👁️ 68.9K · <a href="https://t.me/alonews/135825" target="_blank">📅 01:20 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.1K · <a href="https://t.me/alonews/135825" target="_blank">📅 01:20 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135824">
@@ -854,7 +854,7 @@
 مجری تلوزیون: اسپانیا طرفدار جبهه مقاومته و ما خوشحالیم، این بهترین جام تاریخ بود چون هم ایران هم اسپانیا نتایج عالی گرفتن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70K · <a href="https://t.me/alonews/135824" target="_blank">📅 01:19 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.1K · <a href="https://t.me/alonews/135824" target="_blank">📅 01:19 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135823">
@@ -863,7 +863,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UkMJv4fqe-StabwjI2Ivp-s4lY2tCkwaj6n7r7BcI7ldGlJxUsJYjcmwTIOqV7RwI0JOkeFWPaplxxO7yigCAfwrNsyYAIwuMkSZYunWDyerTl6-IssiwMhdUeS9y2FErwMQ9ekD-5MWnHVMAO-1evD3WyW8fB-UgkuE6-WelZHtoPks3_y-xq3UGtNGGWluY_1lzZzhwp_HRePh4lTr90-Ga3iviA1wk9KqiTUGka5vlbZ51QCKFeA6uM9mfWUQAyDhGTPlbDeOuMkNSPa33sN5K03FVqaWs1brdbYAzNh_Yyj2Syo5mAdNqlIacqOuQuQNumNnfyzqyz24nAzQlw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینفانتینو بعد گل خوردن آرزانتین
 @AloSport</div>
-<div class="tg-footer">👁️ 67.6K · <a href="https://t.me/alonews/135823" target="_blank">📅 01:18 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.7K · <a href="https://t.me/alonews/135823" target="_blank">📅 01:18 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135822">
@@ -879,19 +879,19 @@
 <div class="tg-text">🇪🇸
 گلللللللللللللل اووووووول اسپااانیاااا به ارژاااااانتیییین تووووسط فرااااان کوووسه دقیقههههه 101
 @AloSport</div>
-<div class="tg-footer">👁️ 65K · <a href="https://t.me/alonews/135822" target="_blank">📅 01:15 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 76.2K · <a href="https://t.me/alonews/135822" target="_blank">📅 01:15 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135821">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">اسپانیا زد. فران تورس</div>
-<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/135821" target="_blank">📅 01:13 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.3K · <a href="https://t.me/alonews/135821" target="_blank">📅 01:13 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135820">
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">گلللللللللللل</div>
-<div class="tg-footer">👁️ 63.1K · <a href="https://t.me/alonews/135820" target="_blank">📅 01:12 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.2K · <a href="https://t.me/alonews/135820" target="_blank">📅 01:12 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135819">
@@ -904,7 +904,7 @@
 ؟
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.7K · <a href="https://t.me/alonews/135819" target="_blank">📅 01:11 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.9K · <a href="https://t.me/alonews/135819" target="_blank">📅 01:11 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135818">
@@ -913,7 +913,7 @@
 مقاومت اسلامی عراق اعلام کرد در صورت ادامه تشدید تنش‌ها علیه ایران توسط ایالات متحده، مستقیماً نیروها، پایگاه‌ها و منافع ایالات متحده در عراق و سراسر منطقه را هدف قرار خواهد داد. این گروه افزود که در روزهای اخیر هیچ حمله‌ای به پایگاه‌های آمریکایی انجام نداده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.6K · <a href="https://t.me/alonews/135818" target="_blank">📅 01:09 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.8K · <a href="https://t.me/alonews/135818" target="_blank">📅 01:09 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135817">
@@ -923,7 +923,7 @@
 اینفانتینو بعد اخراج دادن آرژانتین
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 66.3K · <a href="https://t.me/alonews/135817" target="_blank">📅 01:07 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 76.4K · <a href="https://t.me/alonews/135817" target="_blank">📅 01:07 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135816">
@@ -939,7 +939,7 @@
 نتانیاهو: آرژانتین امشب قهرمان جام‌جهانی میشه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/135816" target="_blank">📅 01:05 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.3K · <a href="https://t.me/alonews/135816" target="_blank">📅 01:05 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135814">
@@ -953,7 +953,7 @@
 #لابی_صهیونیست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.9K · <a href="https://t.me/alonews/135814" target="_blank">📅 01:00 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 75.7K · <a href="https://t.me/alonews/135814" target="_blank">📅 01:00 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135813">
@@ -963,7 +963,7 @@
 پرچم شیر و خورشید پشت دروازه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.6K · <a href="https://t.me/alonews/135813" target="_blank">📅 00:59 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.4K · <a href="https://t.me/alonews/135813" target="_blank">📅 00:59 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135812">
@@ -972,7 +972,7 @@
 داور حکومتی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 65.2K · <a href="https://t.me/alonews/135812" target="_blank">📅 00:58 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.9K · <a href="https://t.me/alonews/135812" target="_blank">📅 00:58 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135811">
@@ -981,7 +981,7 @@
 اسپانیا گل زد ولی خطا بود قبلش و رد شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.6K · <a href="https://t.me/alonews/135811" target="_blank">📅 00:57 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 73.3K · <a href="https://t.me/alonews/135811" target="_blank">📅 00:57 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135810">
@@ -991,7 +991,7 @@
 دست خدایی که آرژانتین برای قهرمانی نیاز داره
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 67.7K · <a href="https://t.me/alonews/135810" target="_blank">📅 00:56 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.5K · <a href="https://t.me/alonews/135810" target="_blank">📅 00:56 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135809">
@@ -1001,7 +1001,7 @@
 سنتکام اعلام کرد که نیروهای آمریکایی، از زمان از سرگیری محاصره بنادر ایران، ۶ کشتی تجاری را تغییر مسیر داده و یک فروند دیگر را با شلیک غیرفعال کرده‌اند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62K · <a href="https://t.me/alonews/135809" target="_blank">📅 00:55 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 70.8K · <a href="https://t.me/alonews/135809" target="_blank">📅 00:55 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135808">
@@ -1013,7 +1013,7 @@
 آرژانتین 0 شوت در مسابقه ثبت کرده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/alonews/135808" target="_blank">📅 00:54 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 71.6K · <a href="https://t.me/alonews/135808" target="_blank">📅 00:54 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135807">
@@ -1030,7 +1030,7 @@
 #علیه_فراموشی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/alonews/135807" target="_blank">📅 00:53 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 72.4K · <a href="https://t.me/alonews/135807" target="_blank">📅 00:53 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135806">
@@ -1039,7 +1039,7 @@
 جذاب ترین بخش فینال تا الان این بود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/135806" target="_blank">📅 00:51 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 73.3K · <a href="https://t.me/alonews/135806" target="_blank">📅 00:51 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135805">
@@ -1048,7 +1048,7 @@
 میثاقی: آه مردم مظلوم غزه و ایران یقه آرژانتین رو گرفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 69.2K · <a href="https://t.me/alonews/135805" target="_blank">📅 00:46 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78K · <a href="https://t.me/alonews/135805" target="_blank">📅 00:46 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135804">
@@ -1057,7 +1057,7 @@
 رفت وقتای اضافه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 68.3K · <a href="https://t.me/alonews/135804" target="_blank">📅 00:46 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 77.1K · <a href="https://t.me/alonews/135804" target="_blank">📅 00:46 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135803">
@@ -1066,7 +1066,7 @@
 مجری تلوزیون: مردم ایران از آرژانتین تنفر دارن چون حامی اسرائیله
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 71.3K · <a href="https://t.me/alonews/135803" target="_blank">📅 00:42 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.1K · <a href="https://t.me/alonews/135803" target="_blank">📅 00:42 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135802">
@@ -1075,7 +1075,7 @@
 آرژانتین اخراج داد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 71.4K · <a href="https://t.me/alonews/135802" target="_blank">📅 00:41 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.1K · <a href="https://t.me/alonews/135802" target="_blank">📅 00:41 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135801">
@@ -1084,7 +1084,7 @@
 فوری/انفجار در بحرین
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 70.7K · <a href="https://t.me/alonews/135801" target="_blank">📅 00:39 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.5K · <a href="https://t.me/alonews/135801" target="_blank">📅 00:39 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135800">
@@ -1093,7 +1093,7 @@
 <div class="tg-text">الان ترامپ میاد وسط فینال میگه ایران نباید سلاح هسته ای داشته باشه.
 اونا میخان توافق کنن…
 خواهیم دید چه خواهد شد!</div>
-<div class="tg-footer">👁️ 70.7K · <a href="https://t.me/alonews/135800" target="_blank">📅 00:33 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.4K · <a href="https://t.me/alonews/135800" target="_blank">📅 00:33 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135798">
@@ -1109,7 +1109,7 @@
 پرتاب موشک از ایران به سوی اربیل
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 74.4K · <a href="https://t.me/alonews/135798" target="_blank">📅 00:21 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 81.2K · <a href="https://t.me/alonews/135798" target="_blank">📅 00:21 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135796">
@@ -1119,7 +1119,7 @@
 شاتی جالب از مراسم که یادآور تجمعات شبانه است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 73.2K · <a href="https://t.me/alonews/135796" target="_blank">📅 00:19 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.9K · <a href="https://t.me/alonews/135796" target="_blank">📅 00:19 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135795">
@@ -1127,7 +1127,7 @@
 <div class="tg-text">نمیخوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چ‌خبره :
 @khabar
 ◀️</div>
-<div class="tg-footer">👁️ 74K · <a href="https://t.me/alonews/135795" target="_blank">📅 00:16 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 80.7K · <a href="https://t.me/alonews/135795" target="_blank">📅 00:16 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135794">
@@ -1136,7 +1136,7 @@
 فوری/واشنگتن پست: آمریکا در حال برنامه‌ریزی برای جنگ  گسترده‌تری علیه ایران است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 77.1K · <a href="https://t.me/alonews/135794" target="_blank">📅 00:12 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 83.8K · <a href="https://t.me/alonews/135794" target="_blank">📅 00:12 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135793">
@@ -1145,7 +1145,7 @@
 <div class="tg-text">🏆
 اجرای کامل مراسم بین دو نیمه فینال جام جهانی 2026
 @AloSport</div>
-<div class="tg-footer">👁️ 78.3K · <a href="https://t.me/alonews/135793" target="_blank">📅 00:01 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 84K · <a href="https://t.me/alonews/135793" target="_blank">📅 00:01 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135791">
@@ -1156,21 +1156,21 @@
 ممکنه شلیک موشک هم باشه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 80.2K · <a href="https://t.me/alonews/135791" target="_blank">📅 23:58 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 86K · <a href="https://t.me/alonews/135791" target="_blank">📅 23:58 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135790">
 <div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">🔴
 فووووووووووووووووووووووووووووووووووووووری</div>
-<div class="tg-footer">👁️ 81.1K · <a href="https://t.me/alonews/135790" target="_blank">📅 23:56 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 86.8K · <a href="https://t.me/alonews/135790" target="_blank">📅 23:56 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135789">
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">🔴
 فووووووووووووووووووووووووووووووووووووووری</div>
-<div class="tg-footer">👁️ 80.3K · <a href="https://t.me/alonews/135789" target="_blank">📅 23:54 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.7K · <a href="https://t.me/alonews/135789" target="_blank">📅 23:54 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135788">
@@ -1180,7 +1180,7 @@
 شاتی زیبا از اختتامیه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 81.6K · <a href="https://t.me/alonews/135788" target="_blank">📅 23:52 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 87.3K · <a href="https://t.me/alonews/135788" target="_blank">📅 23:52 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135787">
@@ -1189,7 +1189,7 @@
 محور قدیم بندرعباس - کهورستان - لار بازگشایی شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 80.9K · <a href="https://t.me/alonews/135787" target="_blank">📅 23:52 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 86.3K · <a href="https://t.me/alonews/135787" target="_blank">📅 23:52 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135786">
@@ -1198,7 +1198,7 @@
 <div class="tg-text">عادل تو پخش زنده: آرژانتین بار ها ۵ سانت و ۱۰ سانت و ۳۰ سانت از حذف شدن فاصله داشته
 😂
 @AloSport</div>
-<div class="tg-footer">👁️ 80.4K · <a href="https://t.me/alonews/135786" target="_blank">📅 23:49 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 85.9K · <a href="https://t.me/alonews/135786" target="_blank">📅 23:49 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135785">
@@ -1207,7 +1207,7 @@
 از اجرای بین دونیمه و شکیرا لذت ببرید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 86K · <a href="https://t.me/alonews/135785" target="_blank">📅 23:46 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 91.4K · <a href="https://t.me/alonews/135785" target="_blank">📅 23:46 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135784">
@@ -1217,7 +1217,7 @@
 تماشای بازی نیروهای ارتش اسرائیل تو لبنان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 80.5K · <a href="https://t.me/alonews/135784" target="_blank">📅 23:45 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 86.2K · <a href="https://t.me/alonews/135784" target="_blank">📅 23:45 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135783">
@@ -1226,7 +1226,7 @@
 اجرای بیژن مرتضوی بین دو نیمه فینال جام جهانی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 79.1K · <a href="https://t.me/alonews/135783" target="_blank">📅 23:43 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 84.5K · <a href="https://t.me/alonews/135783" target="_blank">📅 23:43 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135782">
@@ -1242,7 +1242,7 @@
 اجرای بیژن مرتضوی بین دو نیمه فینال جام جهانی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 80.2K · <a href="https://t.me/alonews/135782" target="_blank">📅 23:42 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 84.6K · <a href="https://t.me/alonews/135782" target="_blank">📅 23:42 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135781">
@@ -1252,7 +1252,7 @@
 بیژن مینوازه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 73.7K · <a href="https://t.me/alonews/135781" target="_blank">📅 23:41 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.1K · <a href="https://t.me/alonews/135781" target="_blank">📅 23:41 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135780">
@@ -1269,7 +1269,7 @@
 [
 @AloTweet
 ]</div>
-<div class="tg-footer">👁️ 70.4K · <a href="https://t.me/alonews/135780" target="_blank">📅 23:38 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74.8K · <a href="https://t.me/alonews/135780" target="_blank">📅 23:38 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135779">
@@ -1279,20 +1279,20 @@
 #علیه_فراموشی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 74.2K · <a href="https://t.me/alonews/135779" target="_blank">📅 23:36 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 78.6K · <a href="https://t.me/alonews/135779" target="_blank">📅 23:36 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135777">
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/RdoOC7wd_im8aHakzgNpvm39Tm5TgmUGimfDp_sVzqIZ9B08LM1toa63E2PpeQMgOlGYx8l5wKkutI-7UifLxV-lTOTFlcAmdlGmL1-hukx7sfi6yW-SAR_RhOj7bzukZuDrdwqgj4urMLr00WBnQzT10rx4uXcWn17lhECqLHEkh-N8tATYHJkUBcl2spNvCPilnHCMSvVZldjgCxH2uDh6xF2ZDVLoC8xT3G8_iE9aMjIL-7G8ZqBlLW7Gf6IOx86ij5A-OzBJdm9ntE0AU548d5fi3_q6j1tzRMmqvEmkMTt9arROTkWAxbZyR5PQCL6OgTX1pfDUwKUHBkNNDw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/OsmvbeySqL4vQdWiAdFA6z75XqPJfwnZ4MtOks2RVSt3bKoyUWd_3d5ARuE12U2uht2V4YpzTwTUQazzlp09CCcD-7Zxq4XPkNDOlbhpSFiSXFKQhTjbjd8A3mIoW0A0a8ll57RPS_IMYrfXTQreHrbOtZygu2LtbmArQumPfV1aBHcJyI7MNYxe4Wl4h2zjyqt7KqnUwE5K7nvXaCbPvrgdo_y8sfMNcQemK2rN3TBPdHNSlSNHAOrIv3F51XnUjxH0LVmusaFf3JboAeDo-euLhEIid1Dogigp0MOWmEQdUft2Lym4mIXYE-J5hKI6iEpnhaTnfXsEiDxxGVxBhg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Pr9jBL3c-vZnZS3l3nqvE7dSBCUl1lFeukPjqiroAruma-ErvSs8rBZqUOgCNkWHvbPK5SWZizeDOXvS-s4KlJFluccQbNjKbofAuBVl4EPmu3w6cgVeLWOlIcu0ha0Zr2Vi21_fdQ4HDFkJIMQ0NpCVCNbrJctltu9KekFMb0iDPnWpYpm_V0YITQLhU-fKHsPZn_q1SNuLO3lNN-BKVHkmJBRwqjER62f1OpRAFBieazgEK_owymV18EL3z4PbGr6Jh71pILYlu0UpqZVzPjMpnAaTYim23oMbIZr7P4Hvf9nvHE2hIGAx6ABw8S4wd5xGczpMtlTp3BHrG15BeA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">👈
 ملت موتور پهپاد MQ9 رو انداختن پشت الاغ بردن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 74.8K · <a href="https://t.me/alonews/135777" target="_blank">📅 23:36 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79.2K · <a href="https://t.me/alonews/135777" target="_blank">📅 23:36 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-135776">
@@ -1301,7 +1301,7 @@
 اسرائیل هیوم: مقامات می‌گویند سفر برنامه‌ریزی‌شده نتانیاهو به آمریکا برای شرکت در مراسم تشییع جنازه سناتور لیندسی گراهام در هفته آینده به دلیل تنش‌های امنیتی منطقه‌ای در معرض خطر لغو است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 80K · <a href="https://t.me/alonews/135776" target="_blank">📅 23:32 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 84.4K · <a href="https://t.me/alonews/135776" target="_blank">📅 23:32 · 28 Tir 1405</a></div>
 </div>
 
 <hr>
