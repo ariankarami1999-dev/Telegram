@@ -291,7 +291,7 @@
 <p>@IranProxyV2 • 👥 1.34K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-30 11:14:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-30 13:46:06</div>
 <hr>
 
 <div class="tg-post" id="msg-92">
@@ -323,7 +323,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 76 · <a href="https://t.me/IranProxyV2/92" target="_blank">📅 12:18 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 79 · <a href="https://t.me/IranProxyV2/92" target="_blank">📅 12:18 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-91">
@@ -355,7 +355,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 126 · <a href="https://t.me/IranProxyV2/91" target="_blank">📅 01:39 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 129 · <a href="https://t.me/IranProxyV2/91" target="_blank">📅 01:39 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-90">
@@ -386,7 +386,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 124 · <a href="https://t.me/IranProxyV2/90" target="_blank">📅 16:19 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 127 · <a href="https://t.me/IranProxyV2/90" target="_blank">📅 16:19 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-89">
@@ -418,7 +418,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 136 · <a href="https://t.me/IranProxyV2/89" target="_blank">📅 23:51 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 138 · <a href="https://t.me/IranProxyV2/89" target="_blank">📅 23:51 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88">
@@ -451,7 +451,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 139 · <a href="https://t.me/IranProxyV2/88" target="_blank">📅 17:54 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 141 · <a href="https://t.me/IranProxyV2/88" target="_blank">📅 17:54 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87">
@@ -481,7 +481,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 142 · <a href="https://t.me/IranProxyV2/87" target="_blank">📅 08:58 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 144 · <a href="https://t.me/IranProxyV2/87" target="_blank">📅 08:58 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-86">
@@ -517,7 +517,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 159 · <a href="https://t.me/IranProxyV2/86" target="_blank">📅 21:18 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 161 · <a href="https://t.me/IranProxyV2/86" target="_blank">📅 21:18 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-85">
@@ -543,7 +543,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 186 · <a href="https://t.me/IranProxyV2/85" target="_blank">📅 15:29 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 188 · <a href="https://t.me/IranProxyV2/85" target="_blank">📅 15:29 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-84">
@@ -574,7 +574,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 168 · <a href="https://t.me/IranProxyV2/84" target="_blank">📅 11:18 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 170 · <a href="https://t.me/IranProxyV2/84" target="_blank">📅 11:18 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81">
@@ -604,7 +604,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 218 · <a href="https://t.me/IranProxyV2/81" target="_blank">📅 17:34 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 220 · <a href="https://t.me/IranProxyV2/81" target="_blank">📅 17:34 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-80">
@@ -634,7 +634,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 213 · <a href="https://t.me/IranProxyV2/80" target="_blank">📅 13:47 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 215 · <a href="https://t.me/IranProxyV2/80" target="_blank">📅 13:47 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-79">
@@ -664,7 +664,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 223 · <a href="https://t.me/IranProxyV2/79" target="_blank">📅 01:08 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 225 · <a href="https://t.me/IranProxyV2/79" target="_blank">📅 01:08 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78">
@@ -695,7 +695,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 205 · <a href="https://t.me/IranProxyV2/78" target="_blank">📅 00:35 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 207 · <a href="https://t.me/IranProxyV2/78" target="_blank">📅 00:35 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77">
@@ -726,7 +726,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 199 · <a href="https://t.me/IranProxyV2/77" target="_blank">📅 23:48 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 201 · <a href="https://t.me/IranProxyV2/77" target="_blank">📅 23:48 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-76">
@@ -756,7 +756,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 182 · <a href="https://t.me/IranProxyV2/76" target="_blank">📅 22:40 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 184 · <a href="https://t.me/IranProxyV2/76" target="_blank">📅 22:40 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-75">
@@ -793,7 +793,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 205 · <a href="https://t.me/IranProxyV2/75" target="_blank">📅 19:07 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 207 · <a href="https://t.me/IranProxyV2/75" target="_blank">📅 19:07 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-74">
@@ -901,7 +901,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 217 · <a href="https://t.me/IranProxyV2/71" target="_blank">📅 23:05 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 218 · <a href="https://t.me/IranProxyV2/71" target="_blank">📅 23:05 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69">
@@ -931,12 +931,12 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 182 · <a href="https://t.me/IranProxyV2/69" target="_blank">📅 18:38 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 183 · <a href="https://t.me/IranProxyV2/69" target="_blank">📅 18:38 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68">
 <div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HQG8vgM8PPA_YjPYzMeAFIq47P6rWHWT6RDDbM0hmYMvrBVCe-QtQluwg8koboKq65yh0-rPOe1OhPeAFjyaN9nB7OVTZNjlJe2xkPFtX2IdVjnHVMGBpEHqg3P3gWSyKV-xnBlnrU4ETnnTjNJpWdDUu8o4kR-CPR1OH4W0vGBgdlH8g0Tmp0WV2XhoAND6iIHTCKLHcVtD_2ZLRC-qRH-UHq3_1_u-wfnUhum8OEkgCIzz7ipwWhb4QZXNP3oL_uVLEr86M02yr3g5aiqj3y8tuoHBjLLzpvzOKoVYwG9JgYnL-mhqfgpidok7PKPVi31J1n7YbTAr8Gk507sOcg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XDb2Ry_uVX4Cy6Rvqgfgxlalr_PrgNv3fNr3J-3ZBfWpx8Vu__VNjpKJUbvTrI4xq7FPeIhT_fEh-ktF4lAAXsecG4wejVTmcDCDbk0kiEjBSt50BM80kS6g0BeWT11vCBgqPyVcCKeNuOc4MBjl_391O_QI3CAvEAD4SBpwD1Dfr_KTFitxLyh7sdLFMbppgcczRgKORzRu8B9L3QBtzptcqTCjbyL-_jIr2o20a4ROvL9fyEUGVmQz7zVusOcEowTV-KfILcw_9QQIQ3NpFZaqhh4jjTzjiioLkGhR3DQ3g-Wa28yhL0_h6qwFzv4_H-5VKnSZve2dTrEkj5g0lw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">داریوش فرضیایی به سوگ مادر نشست.
 پروکسی
 |
@@ -1170,7 +1170,7 @@
 
 <div class="tg-post" id="msg-60">
 <div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ejSRe3aabxec-O-IKZdcZbIgMhvOwE3vw77qK_ZJdIu28jap-s5LUqI1jSRUS-lkrEXaGku0z0XEwxuZ8FipQSFbSqz5zkxCjYVPcdUhK0xPG8qGNADbGFRz95AWrbN6gp8joUCnC9Rj9oLmkO2L_H-c3NvQfG5s4UHrZ2kX0xIGIKmeH36onGQbcEUchitcOnnjSy0IDuBNP-SCDux5sx87SYY8YIvc9kF5o9lTVaGl220uJn3eAAaRfRxe5GJ0aPw02Lc7M1_UuxUjJB7RKwqz6n5eE9dq5ZYzUaQVtTd8fTCnO7OE41BjFHKNvC6CNTEQcxwWeGk1opHqWF4L0w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JkCD1SKwFAK0ypJmBP5gc9c1Q0npyy1MRGR_0HIuG1PXSrR7DjquC7IxhD7UvxNJ3OuRggPSaZaZ46_5aLzmJBfwrlGYGoVpbltUnukjTKNPeyr1zwLmztPwtugq0rGb86bvUmlWNgAPNiKvA8Gl9NprPOXMy-xdwr2_2oqyPhq2ZfikDMqQFciINybRvq7qF41DVJHX4RJLCAFbscKLu2NGwONxFscc0-sMn9IFzMZKmEm1IqjV-uhnEf50SwYlXPVzYY2uqW3PpQyFaXzNHuXdCiuKE9AfjdzPTzRC98XJwEui6LBzVM3fy9Yp-MB1KsOQA93GF33sb8c_WNgC6A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">لباس‌های فوتبال سال ۱۹۱۴
 پروکسی
 |
@@ -1309,7 +1309,7 @@
 
 <div class="tg-post" id="msg-55">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/q5-YRY0Vqow49PZSoCPfvtrkAoJxrM9AOrO-1ArDHU8Rwm64zMKqEkPXj7wOeilBNhCls5hrwYiHQVCUroWJ86EwcBaUHBQjlXEOwjLat2tD98fAqqSuTJPy0oPzOPhmsTzhbX4DL_8bkNJoZODkX9X__CiU_W_lJw42M0qz7GQ7iLCWZtkl0l0tuwZ9oHQz7IKG68vgKm0j4C_wAK0zCyANBfLLd68T3YsMc4RnkI3fYzS5xzvwaWZyR-KFx_QfwsNw8mQKt0EeD5Y71U2oPhF7FT7VjacI3QczG9o-wvJfQ8uuM2jLjPryJKEWuDpLwIb_AhY4jCsdhD2RR25XHw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZwnsmlStTRIllkmka9zv5cGvm17vOsjBH9rQJ-AB3US348mGHTc_pEp3H5DrLi8lR1tfM9VoD5ogK00GBXCyFp_cA1MTvsyLxBgqWs1riup7F4zgTCy2CvlWgXpAZpTs5smBUxZ74dbjFCCJPSrW6ICZuDm60p2jbfuj8ZVTmfuUwkse86EgdAW3wgsFLQaJ_kz7aFz11r96k2FFo9PivU2PgkfWLu9ot0RMo_wnTgJ_Ua2y7y0YbvsXuHQ_GsgYT8LUv_HWIWSEKwsEfMCJD53t2lSXaBgo75PLPYf5Dwzr7Ez-j1Sj5WNHylmcGIS_-kAtztJnewlCJzzIc1hyWw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">صداقت اگه عکس بود :
 پروکسی
 پروکسی
@@ -1364,7 +1364,7 @@
 
 <div class="tg-post" id="msg-53">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ap0kF0qeyzftGk8P_XCK552I-qEdTjAf7sDQcOMNBwNxxpk_XTzLU3eFpPgupHCf6kOh3rS32RWpPMKZvnQrDSvAxBrGo0Pa1HImC6Ds23ky2uFnu3_8ZOBG4ybZW0GXS-sRXK34NuYZuOgZURj_uCjOlaTyAGabpILaQARTRv6RzloxATntqPU96jNAAhpXZVF0vbWc0JuH7sSaN_k_uO2vT2dIGNmVStU_oxlt0bdyZt2N2IHyhJ9mesvu4UcJVGM7Kl0OL6pLLiq5gn8JHD9FQ57pLQ4t_XPHcdt4RjhXSOp-BIJ_HgxjATZx5VtU3M1VOVI4dVEo-_2oNcmn2A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OkH2h9hjW4urbqqEaxIVo1M-Oz5AV-f-8MdDrD_KavMrlekP1jov8ow7YAaDKAQtD9jdwa5a29dGDhqV7xMcTDLo0Lp3uYHRhQjPFzKqIFcyC0OyFcPoy1fFlbZQlq3zic3lzPSgaUMBfAjMxjejgKKegZV8hYHIIj2vUXDKp2T2exJYPreagsJ3UkZyO7Lgz-p5BKlpAbW9joluEN0hHr6I_JrpLNG6l5ZfRRqV46_QYvpux7FXQsCy3GerGPyh9IJDQvPMgbY5xlwPDMg9ZG6XzD2Si-UrnBQkZf1x0ExM2BNXYNVAnT9JS3siDNP-bWbuAJCcUuaJnTgBDRpKxA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شخصی که قرار بود انگلیس رو از جام حذف کنه:
 پروکسی‌
 |
@@ -1448,7 +1448,7 @@
 
 <div class="tg-post" id="msg-50">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eliQzcHV2KHJNRYz_T25Fl77LHBkIWGQNHG2MmZ58Plmuqd5_IK37wWMXqdb2cvMoGTMCJcX2S3AGEa3EpOeBXkkZoFhO1C1gtGKfY1ZVWEzKc8ZzjitHH44FG8QSGt6-BgY8EoBwFf9GVHLsP1KWru_Hd1VkJFV6RUIAZ6IKa1O2_YfSX99Mu2_WM065hkoXqZBjwoHtw7UrSvjAiJXjfEk1pM2ef_y3MludykHbAAxTaR25gJ_ZH7o_NcW7kKxGI4GxFNAFo99bOaJLN-Xrln-D9-100qtQWWShgouoOStBUqH9j9qKoI1sOR0ij0zzeAfJiw0Z36D9YtbUSbciQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nK0VxAh28Am_KRWKBdpUJ2r-btKDyS5dZFwo7ouSLYlDEbee0vGzwiQJf5gacSSe26OvyeAZIl0NCGTpDVf0t6w_If7gQ7hm6fRHj05KL4rbz3aOp2UFQqYrXGxpRjTkbYWQRyOVkF2Jry1olU4ZHqww1MSr0Y0QpK9HSBNhUsJ9QdzQVAHYBCnLlVT6lpW8ehXuwV2x73YGhX8xCp2c7nwlyrvoiFnXNeUteqc11f-55seUXl5QfhHBhIh-_N_h-AY53QNwoMyy4Pm3jPU5s7eyIHFMO41iw1yBRwuyJforrwW8tWMplCyFplyz9wLf7h0mjpfkL1jc9eFasjYDSQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بچه شترها وقتی میشینن، پاهاشون شبیه چرخ میشه.
 پروکسی
 پروکسی
@@ -1477,7 +1477,7 @@
 
 <div class="tg-post" id="msg-49">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Z3Y-5wE7trQjKwsGLU3U49nz0k4k3Por8qBGBk5-_q3PKF04poD6Ng83WfdKqYXOIZ31HNfnOFM14EdL_lFHYkBFLIcAtv-PSiApgj7zoM148cpBwEEsgpgXsIzRuqdYf5jP4arYjXcz9csmNHYe3RP9YvO4zTJoMJ2JZaB0p3dRCMJb1URj_r2_tCHrN7_eV-F1wD4blKHNoK2D37a3Fil6y7exkmQYgN4y8bteNg3SA0jp2pvMEsD7JciFjP-GS0uZbQdXlcK-X_fgIfCXyUDTCkPmSwtk7tbhyU-qge3lu1RhcM_uD-gH0e5mPnbu0yvmry-Qk5XVwsj2c1-p7g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/o5uJHCmFAPODSzALQby_utDpVMYFpVUAvg630VjJTc8FGm_8jifKoteahzYALhvAyuCqrACRSxo7w8a66jWH0cJkndhGmz-wdCv1YQ1Vu1Z-xcRgOvk2JDU9dcs08CbmY9ZHf7D8n2B_Ch45C15EGJaze-ATUtYhSIOAKi4Zgpj3xgBOIW5VpLjz50pCiFc7JZTZgLlKzST0UDUF1zPpc9jDiJ05Om2rac1lXritERkv3TwaWRJOBMm1-dvv2Ac7c0qhDqOZlUudHDPprY5V1xFgf5LsiWizAmNfazzJEfBgKI4J7D7tOxc6r8GIcECFzLwctpZqa5l-FSqljL_Cdw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وقتی وسط درس نخوندنام به خودم
 استراحت میدم :
 پروکسی
@@ -1501,7 +1501,7 @@
 
 <div class="tg-post" id="msg-48">
 <div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/r4_SHi1mZ9oj6lXTnwp8oVkU9palxCy7y3fPag_Y6UdDHe0B5nWvPlOuOy-XslGuBN8iiwmz7uFLXNMSk_BgdaGp1_Wh9Q9KLXicm6tjngFt253wR67i2kLNQS1LOx5CMs3zS-ECAsmPbof-vrITTDBx9gLgT1PeK0tt5BbhERp1Sl8P4XsQG5ojlbDhC_yHEiJfZ6GM9nqtPGTggxkls_Imxi_z_zf0HurnHd7S1KBjMnhSIlFFeBdZ8Kc-Qu2GHXjLdjgkAbIObXl5z0DJZwV3b_DkARazwyF-86pw7yE1gHZLoiFTFLzy8N-E8yD4_1drLdUHLfsEcCuKh7HNXg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aJ0W7bJx9FOHmfG7iO4mnCB0ZYpWOaExDQIlw6zz-1duvOFHCDXrrLbLWKZb__y0Ef0LGSxt2TYKkZpxeGGDdFVTJSFehvbatp_YyoCf8Tni1pErDQbEVqROQkFDr5uQrH3Cx18WKkcKV7X2G9fo-Sf3XSwOxl7Pi4pwXQt1RqiJvJHkQwqrUz6Z4UZfmrhvCj5r2ycOztiLCOzmpOJBaNa0RxzKb80ZZvEYWDwp4w_hrfWVk1D6pQNpXCM--zAxPPliv6uE0Mq2N_fLmAps-DhdLzBL-JrXrtOouDS4pd3Cv8LRWWZBNnwN9qP2yb3rbTAMbOhaRIJXeJsT8XGOJw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دلم واسه حس گناه بعد از با دست هُل دادن تو
 تنگ شده :))
 پروکسی
@@ -1528,7 +1528,7 @@
 
 <div class="tg-post" id="msg-47">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h30xkVx78slDei1sy_RoD7WllZh6BDAGy_3OoU0WY_XxMmxHzb47Pah5i1H9yoz8wFpK8UaWQ4yLGskSTFvJQ9P5bH_OGSfDpfJensxA71aMJJjxNFKqFjDjhm8LIDwpTSccb7IWUrPVp-F3uqQFkDFG7z35YZO7FVR0uh-Zb4YrmaljIj16ejhWOoCWsV9xcDLxM3SiuZKXKG4rknC18GDimM1qe_sBHCCkP9nzUavM36SzmPhnzLBnROk8djTpK4qK_xCYm_NAVlV9PiBYQI3KMMa2C08FbMcdp0QcIfd3w5gkIqPmrbfvYiQ6r6fkVNHZ7b7dN6bXdSlb1MaxXg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f6lPVMsBEaYSFjA5bsEhB9IP1GZFA72-xvDQul6dmEnToYkQrrTFhHl5Jm9cirq4uhQ7cG-yfH0kylniXhwSNvD7UzPGIMPOoHT2EZd45927h3c0pU3gm-ILctmmwNcHyvCgC19h_nqDEdYznM4Xzza7BVpaY1PcwYbrPP5wlbckIc5wZyD1l_9yC5S5-M4R28keiCUmSRLciqI8qmbjeXwGqSVPHC5oVe23OJ4YTMwPc-rf4Kczw5GIVCEnx5gzfLd0vLD7fjMSIG8M3FYDsUrO6K-0u-Plb0JsmsgWhRcB1AQdi0-QDOANRQ5v4d1rfgbznZfC563BE5RCB864uw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♾
 اتصال مطمئن، تجربه‌ای روان با Lost vpn
 اگر به‌دنبال یک سرویس باکیفیت برای استفاده روزمره هستی، اینجا جای درستی است.
