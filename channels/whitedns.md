@@ -292,7 +292,7 @@
 <a href="https://t.me/whitedns" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 گروه :t.me/whitedns_groupادمين :@WhiteDnsChatBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-30 19:46:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-30 21:20:10</div>
 <hr>
 
 <div class="tg-post" id="msg-1247">
@@ -300,7 +300,7 @@
 <div class="tg-text">آپدیت بزرگ و انقلابی BPB Worker Panel (نسل جدید - نسخه 5.1.1)
 🎉
 نسخه جدید و کاملاً بازطراحی‌شده پنل BPB با امکانات بی‌نظیر و تغییرات ساختاری عظیم منتشر شد! در این آپدیت، مدیریت پنل و سرورها بسیار یکپارچه‌تر، امن‌تر و بی‌نیاز از درگیری با داشبورد کلودفلر شده…</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/whitedns/1247" target="_blank">📅 19:33 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/whitedns/1247" target="_blank">📅 19:33 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1246">
@@ -322,7 +322,7 @@ pinned «
 <li>✓ خیر🫤</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 7.1K · <a href="https://t.me/whitedns/1245" target="_blank">📅 16:38 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.71K · <a href="https://t.me/whitedns/1245" target="_blank">📅 16:38 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1244">
@@ -378,7 +378,7 @@ https://github.com/bia-pain-bache/BPB-Worker-Panel/releases
 لینک ویزارد :
 https://wizard.bpb-panel.workers.dev/
 @whitedns</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/whitedns/1244" target="_blank">📅 12:59 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/whitedns/1244" target="_blank">📅 12:59 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1239">
@@ -392,7 +392,7 @@ https://wizard.bpb-panel.workers.dev/
 </div>
 <a href="https://t.me/whitedns/1239" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 3.79K · <a href="https://t.me/whitedns/1239" target="_blank">📅 12:43 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/whitedns/1239" target="_blank">📅 12:43 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1238">
@@ -435,7 +435,7 @@ ChatGPT
 پیشنهاد می‌کنیم همه کاربران از همین حالا اپلیکیشن را دانلود کرده و آن را به آخرین نسخه به‌روزرسانی کنند. این نسخه یکی از راهکارهایی است که برای شرایط قطعی و اختلالات شدید اینترنت روی آن کار کرده‌ایم و ممکن است در چنین شرایطی بتوانیم استفاده بسیار بیشتری از قابلیت‌های آن داشته باشیم.
 📱
 WhiteDNS VPN v0.0.9</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/whitedns/1238" target="_blank">📅 12:43 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/whitedns/1238" target="_blank">📅 12:43 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1235">
@@ -485,7 +485,7 @@ ip:port
 Downloads
 📥
 https://github.com/QW-AI-Code/Aether/releases/tag/v1.1.0-build.2</div>
-<div class="tg-footer">👁️ 8.87K · <a href="https://t.me/whitedns/1235" target="_blank">📅 11:40 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/whitedns/1235" target="_blank">📅 11:40 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1234">
@@ -501,7 +501,7 @@ https://github.com/QW-AI-Code/Aether/releases/tag/v1.1.0-build.2</div>
 اتصال با یک لمس — VPN کامل سیستمی؛ همه اپ‌ها و مرورگرها بدون هیچ تنظیمی از تونل عبور می‌کنند
 🛡
 موتور…</div>
-<div class="tg-footer">👁️ 9.3K · <a href="https://t.me/whitedns/1234" target="_blank">📅 11:33 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.77K · <a href="https://t.me/whitedns/1234" target="_blank">📅 11:33 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1233">
@@ -533,7 +533,7 @@ https://github.com/QW-AI-Code/Aether/releases/tag/v1.1.0-build.2</div>
 @WhiteDnsResponder_bot
 🔗
 @whitedns</div>
-<div class="tg-footer">👁️ 7.72K · <a href="https://t.me/whitedns/1233" target="_blank">📅 05:51 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8K · <a href="https://t.me/whitedns/1233" target="_blank">📅 05:51 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1232">
@@ -590,7 +590,7 @@ https://github.com/QW-AI-Code/Aether/releases/tag/v1.1.0-build.2</div>
 دانلود مستقیم از گیت‌هاب:
 https://github.com/QW-AI-Code/Aether
 @whitedns</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/whitedns/1232" target="_blank">📅 03:46 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/whitedns/1232" target="_blank">📅 03:46 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1231">
@@ -614,7 +614,7 @@ https://youtu.be/filwdiPKN90?si=O-hvgeNw43t4BUmR
 📲
 کانال تلگرام:
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/whitedns/1231" target="_blank">📅 17:28 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/whitedns/1231" target="_blank">📅 17:28 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1230">
@@ -660,17 +660,17 @@ WhiteDNS Scanner
 👇
 🔗
 https://www.youtube.com/@WhiteDNS</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/whitedns/1229" target="_blank">📅 17:56 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/whitedns/1229" target="_blank">📅 17:56 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1228">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/whitedns/1228" target="_blank">📅 12:05 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/whitedns/1228" target="_blank">📅 12:05 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1227">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/whitedns/1227" target="_blank">📅 12:03 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/whitedns/1227" target="_blank">📅 12:03 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1226">
@@ -701,7 +701,7 @@ https://www.youtube.com/@WhiteDNS</div>
 لینک‌ها با توجه به نیاز کاربران آپدیت میشن.
 🔄
 @whitedns</div>
-<div class="tg-footer">👁️ 7.41K · <a href="https://t.me/whitedns/1225" target="_blank">📅 06:20 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.47K · <a href="https://t.me/whitedns/1225" target="_blank">📅 06:20 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1224">
@@ -733,7 +733,7 @@ https://www.youtube.com/@WhiteDNS</div>
 @WhiteDnsResponder_bot
 🔗
 @whitedns</div>
-<div class="tg-footer">👁️ 5.78K · <a href="https://t.me/whitedns/1224" target="_blank">📅 20:08 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.85K · <a href="https://t.me/whitedns/1224" target="_blank">📅 20:08 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1219">
@@ -747,7 +747,7 @@ https://www.youtube.com/@WhiteDNS</div>
 </div>
 <a href="https://t.me/whitedns/1219" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 8.65K · <a href="https://t.me/whitedns/1219" target="_blank">📅 17:40 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.78K · <a href="https://t.me/whitedns/1219" target="_blank">📅 17:40 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1218">
@@ -790,12 +790,12 @@ ChatGPT
 پیشنهاد می‌کنیم همه کاربران از همین حالا اپلیکیشن را دانلود کرده و آن را به آخرین نسخه به‌روزرسانی کنند. این نسخه یکی از راهکارهایی است که برای شرایط قطعی و اختلالات شدید اینترنت روی آن کار کرده‌ایم و ممکن است در چنین شرایطی بتوانیم استفاده بسیار بیشتری از قابلیت‌های آن داشته باشیم.
 📱
 WhiteDNS VPN v0.0.9</div>
-<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/whitedns/1218" target="_blank">📅 17:40 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.8K · <a href="https://t.me/whitedns/1218" target="_blank">📅 17:40 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1217">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/whitedns/1217" target="_blank">📅 17:12 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/whitedns/1217" target="_blank">📅 17:12 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1216">
@@ -871,7 +871,7 @@ pinned «
 <div class="tg-text">درود به همه‌ی همراهان عزیز چنل؛ امیدوارم حال دلتون اگر هم که عالی نبود حداقل بد نباشه.
 🌟
 با توجه به شرایط کنونی خاورمیانه، ترجیحاً هم اپلیکیشن WhiteDNS را نصب/آپدیت کنید و هم اپلیکیشن TheFeed را نصب/آپدیت کنید تا در صورت قطعی مجدد اینترنت بتوانید به اینترنت…</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/whitedns/1214" target="_blank">📅 13:54 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/whitedns/1214" target="_blank">📅 13:54 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1213">
@@ -903,14 +903,14 @@ pinned Deleted message</div>
 لینک‌ها با توجه به نیاز کاربران آپدیت میشن.
 🔄
 @whitedns</div>
-<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/whitedns/1211" target="_blank">📅 12:40 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/whitedns/1211" target="_blank">📅 12:40 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1210">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-photo"><img src="https://cdn5.telesco.pe/file/kj8WcECEqtCQM7-MDazR9X8XpkJIE_GrjnbgwOXFUhuWls0WQnT7QEgNQYJVvVE5VkxAO4Xv1Dg7WSVhzvrT5qPuOkA8Xc48y3MqLhp0t4dmWnuxY0TCQIsKlxPcaulyqePbWuRsXOMZRIch1tn-_rJejvKXxfgVEvG3VatxQ5sR3wEvR6uDMIMbCAmeTs6nCZHAV1tAByblk9_iLCngjUi6AMSRq6PQLTUeLEANpkax_4egZONhtTpIL7jbKgnat9-o7dynURHsNsssaojMomGUvwV8YcfvJWG2V_fndHUR70EWKBLMnRPpP122FBsT6IPhv0627qdmqHwHpOfGPg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وارد کردن تنظیمات بهینه در whitedns android</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/whitedns/1210" target="_blank">📅 12:33 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/whitedns/1210" target="_blank">📅 12:33 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1208">
@@ -1055,7 +1055,7 @@ ChatGPT
 پیشنهاد می‌کنیم همه کاربران از همین حالا اپلیکیشن را دانلود کرده و آن را به آخرین نسخه به‌روزرسانی کنند. این نسخه یکی از راهکارهایی است که برای شرایط قطعی و اختلالات شدید اینترنت روی آن کار کرده‌ایم و ممکن است در چنین شرایطی بتوانیم استفاده بسیار بیشتری از قابلیت‌های آن داشته باشیم.
 📱
 WhiteDNS VPN v0.0.9</div>
-<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/whitedns/1198" target="_blank">📅 11:59 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.04K · <a href="https://t.me/whitedns/1198" target="_blank">📅 11:59 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1196">
@@ -1087,7 +1087,7 @@ HTTP/2 (TCP):
 🤠
 دانلود نسخه 0.4.0:
 https://github.com/MatinSenPai/Aether-GUI/releases/tag/v0.4.0</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/whitedns/1196" target="_blank">📅 04:29 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/whitedns/1196" target="_blank">📅 04:29 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1195">
@@ -1176,7 +1176,7 @@ Port (پورت)
 Not set
 باشند.
 @whitedns</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/whitedns/1195" target="_blank">📅 16:57 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/whitedns/1195" target="_blank">📅 16:57 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1194">
@@ -1231,7 +1231,7 @@ pinned a photo</div>
 @WhiteDnsResponder_bot
 🔗
 @whitedns</div>
-<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/whitedns/1190" target="_blank">📅 12:13 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 35.9K · <a href="https://t.me/whitedns/1190" target="_blank">📅 12:13 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1188">
@@ -1240,7 +1240,7 @@ pinned a photo</div>
 ورژن جدید WhiteDNS VPN
 👆
 👆</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/whitedns/1188" target="_blank">📅 11:16 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/whitedns/1188" target="_blank">📅 11:16 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1183">
@@ -1253,12 +1253,12 @@ pinned a photo</div>
 </div>
 <a href="https://t.me/whitedns/1183" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 46.7K · <a href="https://t.me/whitedns/1183" target="_blank">📅 11:04 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.7K · <a href="https://t.me/whitedns/1183" target="_blank">📅 11:04 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1182">
 <div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/guyLFFgro71aXNvpQoQfW10w24CAJMqJBAyFeSbYc-TTPLNWUmaDQM4bEY07h_aCF918yCGJyBbblO7-NH7-PxHd_5Vq3TszcQIfPyBIBZ-hG0eW7Y10tOHabgJqmC5AwsyEH5AbVcWLdVZ3210ahEpOuI4HG5oigYzjvmpGLAv8WPQ-e-28YCkldyeKkkvuVH9h3H5UHfJtloKExiuqHE3buyWn3CjAV_5atXRQJL-P-sdYKIlo9xD-Si5gWgni59ZRrSRrsZs-Szu18V8IJ_GQLIgpCVHGEsI24C-D329ElmA5txEznIcXaI-7BbR_7ZFnFdl1B579BivilsFYlg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/epPRC83V1aff0881NwRSzC5Gh01gky_WJE6q94o3EczU6ZuQKv0yCuHCYeE8eFV8D40N9WzVHaXIZEWCDUtBEzIzYPnfQGU7F4TnaUFT3tzQPb8gX0sgwRZRWf66Y42gEBnwlc9FevHIVnJ62yPMsGfCVh2B4SGuQGsUAqfvgAGRo-fDP68t8JrlOSLL8hfX_m9GnUU5l2GnkeEfd_kYWGIHSRD6f8VBEgfZ03SmoP4Ed4IbdL046Lz--LPFzd8q2whaBOhsfUnojMikyLk0aITlgLmMVn6aig2LCsHN8v50Kb9fbBTOlIWPaXH2gBRYdeoUwi0RlGLw7-jfL1oG8Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🛡
 نسخه 0.0.9 اپلیکیشن WhiteDNS VPN منتشر شد
 در نسخه جدید، اپلیکیشن
@@ -1295,7 +1295,7 @@ ChatGPT
 پیشنهاد می‌کنیم همه کاربران از همین حالا اپلیکیشن را دانلود کرده و آن را به آخرین نسخه به‌روزرسانی کنند. این نسخه یکی از راهکارهایی است که برای شرایط قطعی و اختلالات شدید اینترنت روی آن کار کرده‌ایم و ممکن است در چنین شرایطی بتوانیم استفاده بسیار بیشتری از قابلیت‌های آن داشته باشیم.
 📱
 WhiteDNS VPN v0.0.9</div>
-<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/whitedns/1182" target="_blank">📅 11:02 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/whitedns/1182" target="_blank">📅 11:02 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1181">
@@ -1307,7 +1307,7 @@ pinned a photo</div>
 
 <div class="tg-post" id="msg-1180">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/kxQ3Y1bARwFsYSELDeSwrfIvkudCnDLOOLCFlGCghC6v3pk-_xBQdLva-bO-gzlfKvv-NtZ0_B19ivJpJ1p_MAqKkVzDAwB1RdctV0jPgYS1Hg4hLoQjZI96e8nur4nZby3eQpbSaqCb6a5jhVGy5GkSE6kAfJuvG-3DgFVoNNMmej5SabuEF9uCf5Yu7Kb5CcmteXNq8NY4Ywo4aVLTbyvfbMeYbBZVr2NOJoQyy6Vgs3aTaYqWqvBDgBzitm3DMosNd116MG0mp0UFYDsjxU91hc9xW0u5bjsnAT4wyT4EN_z-OakbKW3fI4floYYRHawz-aHDHC6pydGhh3-kxw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/BfEUh01yBBi2cBgo9BFB5DNfnIiVI7lIUc8Hf16YVgb6wCHG4pydLfLdJUNrazVofa2eBykPpZ_BCowzfeU6QoFBSWtiUF7pwEZETyquw1cW_aDyknEDnPdPlYTB9nambr7r-I9k4O7hy0PWCcjlpeCL1Ob07IbXJEF1hACPzJ5ADym76-UeESjfp1aFlUSBz9P1WfIaEtsBsw_dmwli4bV6lkTmixcqe6tQNPSR8uwXZgjDHRoNq-z7PGEERTHR7xLVLJecGyc5dxJlVSXFFTfpinhEHhwcGFJa8_ionQtOKvDYd8J3acm1S_jW6wjswZtaO8u138aCR23ZG95eMg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معرفی کانال یوتوب WhiteDNS
 🌐
 اگر به دنبال آموزش‌های تخصصی و کاربردی برای دور زدن فیلترینگ، پیدا کردن آی‌پی‌های تمیز و ساخت سرورهای شخصی هستید، این کانال یکی از بهترین مراجع آموزشی است!
@@ -1333,7 +1333,7 @@ WhiteDNS Scanner
 👇
 🔗
 https://www.youtube.com/@WhiteDNS</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/whitedns/1180" target="_blank">📅 08:59 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/whitedns/1180" target="_blank">📅 08:59 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1179">
@@ -1352,7 +1352,7 @@ https://www.youtube.com/@WhiteDNS</div>
 
 <div class="tg-post" id="msg-1177">
 <div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/RNelfRx8vHzrokA39cDDiXrYymeJ0NjJ9RKjWMFtz27ueTOUGebU0chE6lbZ0307bedjGzlxLqWDNtuDC-INpy55dh7K2cuAb9z0UoSbJlyniFYgAtlt1SdD_wcb9fKzj6Hm4gKl8Xzi6MuNtAmbac8gmfUYWEcZME_1P8UMS4K-hMay3tyEi01SdUO2x5XcLSqi3fDs4WoMzOzddl7Lo6Z1wZIMEbTGox2xD2Z2_aOmXs_MqAqqBaq3-_9lCmmhvyOTzmB_waIZA6ekMpLIYuSk5nwSy7IjqtLiodLGrozSOGEaO0vT9W8-IhVb0uICOjr9HWjSBjs4I974DttZnw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/J3BfrxkDkFxzMcLceoNPHx6iwnSr00a_E2zmgF0LbT0Bx69CPLgxts2drRPMAzZKBaabZ99PXwHYwPhgafmTNqY1SevFqEJoIadOmEu17LHOKTsynen4mf1ccDMaNAjNBIbsESBzGUQT49lhDsqlNAZASDcjI3Z9VE2XUV0kjJdIghmYWJXvz8t7JTBff1wwmyf9M4C-3vHBW568oVRHDh2ckfYc-2e7MTonnxiDv290NJrqAmCYn5fiLjhyunSVSZqctkYXBzyyXkvBlvg7hDHtf0Gr4XTVEk9x-2QAVGGg9dwfKMXslWELSrlN4EKnsZXxkNKX4sOkvga-yxtaQw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🤖
 دستیار هوشمند کانال WhiteDNS
 👉
@@ -1395,7 +1395,7 @@ Warp و Cloudflare
 
 <div class="tg-post" id="msg-1176">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/d9NcdiBNWMmhFiZ36fsKugxYhuQsWfJ7XnwYSpH1MnH8UwVIGRfl0L8uciacURCXj5y2PS8nojxOQADqcrHsXNzp-BZ0BcoCjnF8VZ9pMSytbqUsHPunGRPLCYARPwiiOaKqkJ3ShziDPj4Rf6EnKzse98CWQAEZgksEO5YDAG3x3cDX3afZJYCa0zY22e51Wo9WKZHUqJnho88IaVwDzq9u0V4knQp1dfMtcFMlGiiJYz_yslpUQVYYAnyYM6QPjE_BDaiuI9uBbYEvPKDycmtmL5JMeGYPOUTfuBMAM0KzOqm5rxqn55QxcVhiPfcPi8N-h1fpfHUWVYvKCmL7VQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/h76HkNvLDrqFjvXPyCJUOcusA-hagix1ngcPNeGvKoqqwJ-QNJKmuJKAfuYMJPj8T-zsvL-6E8MhkY3x7DhqDVipFXwUmRmfTyzlzcS-wCNjHMtD6riUCJJs3e5bMEGs0fk8rg2WWqOGfT4Qk1JWvg9KEfEElWjlSwnQsilXBy4PRyGFOsVjflLyYimTjQ2S6F4YZk_BOGocrimHGupQ01dkdgJxbdUyEdzEyzczDPixUd4dAdyogOdYAzQ-0S0TkZYlCIjKz16rsPEjR3j2_I_rE6wreLJ1nooNxZy1SNt9QD1_AMlNz3wOhgx3iPs4mfvLPURpi-LWn8aTRPWF-A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💻
 OnionHop V3.7.2 - انتشار جدید: اتصال هوشمند و عیب‌یابی شفاف
 آیا می‌خواهید ترافیک سیستم خود را بدون درگیری با تنظیمات پیچیده از شبکه Tor عبور دهید؟ OnionHop، ابزار متن‌باز، سبک و قدرتمند ویندوز، برای همین کار ساخته شده است. نسخه جدید 3.7.2 تمرکز ویژه‌ای بر پایداری در شبکه‌های سانسور شده و شفافیت عملکرد دارد.
@@ -1487,7 +1487,7 @@ https://github.com/center2055/OnionHop/releases/tag/v3.7.2
 وبسایت رسمی:
 https://www.onionhop.de
 @whitedns</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/whitedns/1176" target="_blank">📅 14:57 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/whitedns/1176" target="_blank">📅 14:57 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1175">
@@ -1507,7 +1507,7 @@ https://www.onionhop.de
 
 <div class="tg-post" id="msg-1174">
 <div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/oXEjyMNIfwk-Ncnk5mc1Rp1Fx_l0TlSxk-li0xyCj4WZrmp5QNBu_9uZm9j1L8h70XA51rGj7zPoT6ofmm-UWWbfMtkawwmqZNHow1SjVcmwQIal4BoJFtiu4X1UjRGzn4f4UR43jSoba4_9iR0ynOGCjLBgzwEl7aozwwnQHjYqfiHtcfhDEv8W97N7Vnf48jD73wOjMK2i3OSqbAOSBccUN_Ve8FCn5NiEKX-JpZYGxXWu1cfsTLfQ2_h3djveY9RXUjdhpOFYRUOq3hM3Sdw-Iuuq4ZzLoDtOSH-ZW7WJK-cLH2hIwjvbZBZ2sNBeNFwZ8Rnfqy9xeN12pARofA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/ESxevDJfiOjDVSKBH6axCet2eokKHMs0b4uK2L4lCi7T6uZPlOTXyndYIdL3h0HdvE48BOyfm65RRZh5FYARLgYRWo3BajhFGZIl05NKBGkE9n1Ekqn7LdJAJJgvIEaBhx8-UBpFSLPlrjWnzhkaR4QRNqUrY-dZ8Kec7ThmoAyApJkpgdUw2auSu1V2oQ02KVhNl73RvoLkDKUWTGKNnTRVjQerO7NIN9kCOmRnl-nfBXccU6as8rdSYD95lwdOoofAkvHByn19ATnQCfYFD28W9Z9QjqZozcEopknTjLytb1x8m5qcZX-tf6W3QYOl6oii76b2O-kspiYo9YKsHw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">16.7.2026
 فایل زیر را دانلود کنید
 ⬇️
@@ -1530,7 +1530,7 @@ pinned a photo</div>
 
 <div class="tg-post" id="msg-1172">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/jeiaxzw6UX4b9ndQSs6TawX-WsLw_q8JS9_mhwZtnRcuKsaPILafCRjIw3sp0fFt1JrS_mrK33_I6th5T_D4PRhHK_b-5XRrPGm0ZRbKjZF-qj0Tnczd7aqOYHsXbtfVUB-MAwBj8Y3_thtcTzD3wSYXAz23Gp6NAyjmQJt1aGSycRHLv_kOTAO3MjU_B7wWVO7S1cNLdq7UN-KJdNnnZ6YeSn_AnaFV9s4SUOou9PKdUYysMGBSqtl2xg82QNzOu9dBYRnKGiKw8JZ6M-uq1NC_NCrN208MjzHYC1I__vJuEKDoCy7aNRZ9WC4T1VBN7_HPL0sxymH2HfvzPhSc5w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/mPxWNi8mSp26_RRCOz-O_761AUXWXGNCePNIRergleFjgBHZzCi6UTRfn07M6QmTmUSdlKunVjDxRz0_DgHi_n0bJ-Ii_f9_tL1NAyif9g6m93SuSE9V78GpbXlwnv3K4OlC4CiVHrs0mDUTdEm6V8rPSEUBpeilLhztprXDcOyjaqFoxrA0hgIcm-0PS6Afk7-kNJwrdqP_sDsdCPNeAscEHG7VkYKMOJfLo8qdNDPaZ4lKKWGz24s62JSL-cfFfdG00cnXFOde73ATUKihxdu4DB47kll_xX32XOHWftx19kMQbUub83QOqkoyGy199RdFpA9wJ3VJ-2HtTB-N6g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آموزش جامع استفاده از
 WhiteDNS VPN
 و
@@ -1583,12 +1583,12 @@ https://t.me/whitedns/1072
 👇
 https://www.youtube.com/watch?v=N5hKuWXp37w&t=57s
 @whitedns</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/whitedns/1172" target="_blank">📅 11:39 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/whitedns/1172" target="_blank">📅 11:39 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1171">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/Je5NlhYLVy9NoPYJVp_NtRCzTRbZ9XlKqmpzRVShr1wcmfCk5gT3xpeXX1xuVPBZ7A4S2yII7M4yy7j2WwhABvDqoG-kHmwxBGFptoA0FuPGZI_Qu5gt3Fm56T3_15l0qp1e2HPKprFFDKfKTDeUc9yMxrqT3pr450DNr10lv_AvDOygE68MAxLfsDFhx50PEI4xT48IVZ2ytm9n6e3MXKqSkHGPL2CZygINJUH8xYUZ5tjnBhLmZXDfniANoJbK7_3jIlvaO6VqbXHrroPWw4kqT0_QU6YlADCnUsxPGjMLzrZQaB2WdV7Ow9vDhmY6My0HaQUz-XdHjXMlcp2HXg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/hT1hi_FHbKwgRKvDNp-Q3Aoa5xhb7R_vsqeaRcj5Z9JGJISbENilJ3xCGyBGJKHsd0w87iXB0kDl-rB2w3Hb_mF7P8Re0r7pb28cjmuWLTby_MqpsKL1LBaPUnHTrg5iMMhVx75_DemEx-r26qw-5RXo3WzwQcF3FWOhpX02SBzLsWxWkzplBc5dBrKaNkL2K7XkQ8gl3HT4gEgC6RLSMwnx-aQ0LekrbaRktGipRQluu3kTtv6rML2UwU0p1HTUEn6lQlQ5DGFMCL9gkjAUwzdIZglFfibfsyl7f10-Z3zLVr-3dL7_4koSAYIZUE4t7fJl2R7T94FpsZnjC_9jfA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 آموزش کامل راه‌اندازی V2Ray با پنل قدرتمند 3x-ui از صفر تا صد!
 🎓
@@ -1640,7 +1640,7 @@ https://www.youtube.com/watch?v=vVjqNQBUGIc
 <div class="tg-post" id="msg-1170">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMatin SenPai(᯽マティ️️ン先輩)</strong></div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gFj3Veuz2VMe8esK5bzaRUNIxHqXzLXoVItp8XkdSCrveNsMomJuWWBBC3q1uZ79HXThgkVeFQ7woVaAJpgQtbL0UZBhIzqTrLLAtTeWlumbzsh1Vz17ysbOehCVwkB27XOxroYyInfoXM_8DVVjl2tx2n7zUM95O81XRRtRvCvmhjTsNrJzBzz4TYj35ExWMeL1P3SMf8quVt7spdeXVHdm5sskXc9doZ3l9AGiU-DNFEKc3vz-Of6TgEgSTfCIjOc5tUIC27dvF0DW4vqUt4SI0A9aD4cJcPpklLixBXZ8qaGPjVJWcBRvKCNG4ZE8tgOhPLrwUYWEgSb3Z2iXPw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JbMcJiQWoazCcVs5FWhV3ksynnMlPHpMN2uMMZiZu5WGYmzq_weIdGaRrwn9Z6u42An58waAgfvwk6aJ9G2jeZr7mXzGSpT-B8mSyHYMhYAOzqL5wgxSASDeFp2EfbW0vuWVWdifmYETAU5gM4-UAhWIvtTK9XM_JKo12mx6xkQZqI5Vc4HHu571wOxqT2dknG4pGI2d0CvvlPsqbx97R6fmnsC_Dol-seUnkCYNSPK9Y9Ys4Lh5DI7ZaPC4liDse-QsFjQ1xXDSKMk95vrdte5QxjDJ2DvoZvyGFPBNYnQksDqTWmcRTDqFSvLNH7E5s3J2qk8DWEcsrw1C5RSCjA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">☠️
 اتصال رایگان و پرسرعت با پروژه Aether + پروتکل ویژه گیم Wireguard
 ⚡️
@@ -1666,7 +1666,7 @@ termux-wake-lock
 
 <div class="tg-post" id="msg-1169">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/P3it-pRg55yE2Dnybiiix4R_TQpSS9BG_tvZPRXvJTtHDwsFcCf3dkunT_oBNvlGRZnDIzUOjEqoP5Ntjbqd7d1aTaW441NCGwNs8sbyRQDepCmJbQ_M08OjU2jTGJCN6T3oxDX-YzWpGKlbWw5u9t-wiH6eu7OCVtpT90BGitHgH5QrMRtBpUSQw6BIlg9CLXS2C0OVH5vwdIdV88TqDdGjjL-z0UGA1kskuEnpf49y86HC9BXHUJLwZ_XelR5b-SZRgfEV0zZ4y9fqyGkCWK6QkrKSQFInHDSW7SZEueVFXJVewj7GnM9Eu4DH7zOau9eTr7iu-pk_Tuy6rVgalg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/c5RjOpIr_VZZ_MjSIUCsxtjOuaqWceFYN7UEVKVKxlhFEWEaspEkwMdgPjzlhwcR1_IcC7mWsuNgFahBNU9KrxFf3duocX_fVQTEbjQcZ0TGJe8Tsdo_lsJ8oKYBX-KDHDjeqxIhbOssc2Sucpci2PCTeJkkXT9K_wjjY6DDfFL05cxtcH2NkEr7D74yPJD6JNtSMgtQhYvXtMvj5pkxPO0rxONIbpEALlzVMp5p5RsUtcTXBYT4d_4-9K4KxGJi8k97I8vLkw5dOLU-VcMYhIgCNhqIpl7HwRDCVmjRYUfWQ613wHb0S16J6zVxwtSgrjkfBEuQ77A1M8MvJzh0cA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگر برای استفاده از سرویس‌های هوش مصنوعی (AI) مشکل دارید
 🤖
 این پراکسی را چک کنید
@@ -1686,7 +1686,7 @@ termux-wake-lock
 https://ghhrmnzdh.github.io/tower/
 🔗
 @whitedns</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/whitedns/1169" target="_blank">📅 09:35 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/whitedns/1169" target="_blank">📅 09:35 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1168">
@@ -1699,12 +1699,12 @@ https://ghhrmnzdh.github.io/tower/
 </div>
 <a href="https://t.me/whitedns/1168" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/whitedns/1168" target="_blank">📅 09:02 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/whitedns/1168" target="_blank">📅 09:02 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1167">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/uyhJ8-plCQkiIZyZTR3mrsWgiKbHdyx4vmXykyROcl1QHN6t63pvflydTsZ5i2GqOy6eMEd-pGyhV_moAQhFgDjsX_yD4yOz7pjfcyKbbiSZiPBCMh4MjjA0T09t1DysoeszbFrXBfkz20bAJSfE_L4eO7TLJKqtImi2uhR2hXQ3DAH_bFWsJrAadRPDo8pTDPs0WWtKZBKtK4IIKTRyv7X1Gem5LoDPUIf6cxSFr067pHk7N832Z_-VQtZIw0_PmBAEtHSTG8Wl41m2bh4aeiRWZOAVEoFkR7uQKnETC1VTnv02ZAZ0T_pyRazeKhjIOeJwpoL8GJNzWYzaJrlHRg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/IsO9MAXQ0rtRsJSjsmchRT-LM0d6JXg0NzudHIaHB5cuq6wnEtqlvf6XwhzwqCSOjvuGkWbVAvmS35rnRawIxVD3rCl1dvncoay7H9mpUa8uTFhzHn8RD2Y5IJasQSUsoPvooYlZxxNEB8HPOK-sUzDwc1f1B6ebe1QVlhBTDZO_bnLl6yjvlPHPoYt57C6yx-nSZUvtO5QQcY9Xl-7G-5chd6UaU2GPD5-MsNJ4LtwjbJ5NRBYRH9ydQPBhUDfEdR9SLBwQ-psNc55Jz4MtfmJSNC3Nu3Var_eor3AFeQ5p5ku1lg1bl6CvlmpPys0niJLTUim0uyioj9yGDHC2XA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">15.7.2025
 📅
 فایل زیر را دانلود کنید
@@ -1716,7 +1716,7 @@ https://ghhrmnzdh.github.io/tower/
 📥
 @whitedns
 🔗</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/whitedns/1167" target="_blank">📅 09:02 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/whitedns/1167" target="_blank">📅 09:02 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1166">
@@ -1755,12 +1755,12 @@ https://ipleak.net
 </div>
 <a href="https://t.me/whitedns/1165" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/whitedns/1165" target="_blank">📅 18:19 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/whitedns/1165" target="_blank">📅 18:19 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1164">
 <div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/gQC2DQfDzplJWSwc8bqouWwAt-VQNJfZ8_zteZ7a6eHfgutQtxMjl5Md3v-1XwLw8N_xRqUUuCiNspmkLOEgjNbaxvMpWnJPG61W3JGg7nfVM-7hZWaEYWJWwCtX49QSoZGAbeHwjqXvnUv2EzLKQetXOEOB9n5xh7Yu5t9yL2MVDTBeDCY_vp0s9JzmmSFkEeomPlp1ASp7cf2ZJWm4XV0CDbNfb90-4NhyvAC_AnItzXo9KlF1sY1wJJFNTXWMZiVHNWAX8dJg8_EQURXRgJSXC-P6i_wsiko0x1SuaKhoc_h9-ODJaiN8B7LL7SeNjeka9Kcgf5YVyNRQKe-RgA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/ol2nqBp05gwGIcTBE38TuksgC6TuAttMkUukPdLC4kyJ2fofSBc0DpUINCZNoC1WvasJ1PhuLGO6Tp0233Zn1ZY2h79cDYacawbAcS64KmKZIIjz6PhXR92lvEQW7bh33mhxKfq_MU9mgOAiXWW0knbMcT3Dmq67Ifh4FTjTMK29jLHtpJbih3e1fk3lTzbO0sD2pUeMoptdrP55Ej1eGlfX7qFA7Ah33Wnq7P9saToM5TahtimVNS_W8VrbotVaHr-EXjYFiMfPMqACNmxiJsBOtKoZA_v8ws57eZzixI6yHVhPEmHFIPdrCqU6ZvY5dYet9Shq2QAHpjgPtvYf6A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">14.7.2026
 فایل زیر را دانلود کنید
 ⬇️
@@ -1771,12 +1771,12 @@ https://ipleak.net
 📥
 @whitedns
 🔗</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/whitedns/1164" target="_blank">📅 18:19 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/whitedns/1164" target="_blank">📅 18:19 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1163">
 <div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/jwQ9GAbt0CL_LFiztrt0OuMlwJ8N5ayY6s6PbXzIE_f3P7XO_6NTgGH50GLSw6FZ7exaiTUVFedIUsfAOHI8w981_JbLnvwn4oMDXvzRunvvTURPyJucTpaTep1iEqWYksyxmR4G4_xEb_LIolCKYAbR3sr-Akta2qk0akQNWxpaJSNV3yDmGCs9f9EEuvTtk8FDwIfIjarYc36hH07d4D4H5qOwovktFbzSI98uRP8Bm7qUrOpebnJrY1rMvUZNC0X5kM2-oWo9RjO0jIPMKtnP4hCBjGxckxRxgksNcbPgQp3-XnlVuoyQnsLRDpH7eC0-cuPrQxYbp-5H8ZYGKg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/U23SmcKi8IP13nOPHNBeRa7HZMg-46h6E_qVHaXVNDR8RLK6aOA0l_APxJtKaoZabM-KH_bk8lk05UBJHMCcWXaa564PL5tPlx-8NlKGl7x63gxnBOKG5jxl9ZnzCepQ3QZSo6OsTTU10PIAo02elWMebaklhkVpvYiBllAg_8QPFok75YXVpY1YmbuhY390W71VANO5Xh0vWg8okCYIY0e-UZJxEAFYZ2u-O4h5ZRZrLtLza6tr8hRgTmYhxXaUi6pk-OwLEX6cA6csY3P02HeKhtCYwYDYE2w74mCWzUGvWm2Ze5cTYJjlfcqlfWDj2VXmGln0TS3iSE1Jc9CzYg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🤖
 دستیار هوشمند کانال WhiteDNS
 👉
@@ -1814,7 +1814,7 @@ Warp و Cloudflare
 ربات قادر به پاسخ‌گویی به سوالات غیرمرتبط با موضوعات کانال نیست.
 💡
 نکته: اگر جواب دقیق نگرفتید، سوالتان را طور دیگری بنویسید یا از دکمه جستجو استفاده کنید.</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/whitedns/1163" target="_blank">📅 17:35 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/whitedns/1163" target="_blank">📅 17:35 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1162">
@@ -1882,13 +1882,13 @@ https://github.com/WhiteDNS/WhiteDNS-cleanip-finder/releases
 
 <div class="tg-post" id="msg-1155">
 <div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/L2dFj0gz4yz5AGcOpmjuNrayO6xsoccwFf2ZIi5K8O-AdnCKtTXSMZeJgqZydHnvTEjNQTzhFtI_C5jD3_Jy__gYhBwHdoXNQjc6KDYEITVfzDkADjsveGxV1D6_xr7OrGqB3_kQyr8aOncnWfIkmVoizZhI-RX3KkD2I2tU-FOzWIzQZGxyi2pP_3348_Uc-f-OhfBLt-nqtUewvQmBwvv2BHLJLUOI6Rv11L5qMCx9Palp9ztWgnKFyjz1J8g02uj-uW-LWyq3cdbuojZcPv1HwOojJSFkJwVPCp6-VeiJDfxqkOY3FO11XtI7rbS9Efeju8NqzLRxax6dSQiU7g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/nMWzJTlM_ViNy1IANTuWaPMWkrOKjRCBTw7rMaPNvIFpLKTXZ_XVjfX4esQi9e8fh_-g57yFmHbBOn39s4Ofg26CDpFS5rDNFoNQJswgSD-e5WxrfKPaCGUFNiF36cIR_b_nLFkPAITuykSNolslA588SndCEMBehoJwx9HL8GFCQbgUVhwNyZFoH-XBjQ2Iz-EOGvEssOwzkds7ult-WeeviyL0zCx9AnFLVgmYLPm4LjSoH65gfHF_CHLIZzXYW778UNkpxwcp9h0DS6dSznnPsYssXpcm75BKG1el5SLtjpwZV1q-C_joM4KE-pejHbHTr7NqRSH2mfI2GEotRQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-footer">👁️ 15.9K · <a href="https://t.me/whitedns/1155" target="_blank">📅 17:29 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1154">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/kje_u1GNhKpal_rf_sIZ5DZgtxzP-luIAC1UnFCxJTex5HFJlNvdX74022SEHzE5ODSLvvsOoqh1z0MoU7m5KyO5E5dyUlx5Xdl5QIwhyrn_Hco_EG1BoYAEfFOJNyoF5cckcgrXgD4kyej78_Wbhqqiw0oido1n4MTzHXH9eIv4zsGhWAwaTQAGC3Y_Qp67eWdFvcje0aR3_vIkTxTKW_T_6zn8KfyQvu9dXWX48qex1ITr5_X-cQVm9w1fbyMBbznwhpGlhHfVw5_StxCTVtFGd2NyIFk9S9XwaY4XHPwpCin2dclrga2EYhRkFrH-tCSHHuYWUnYFfudhqbsARA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/SvWGUz6pbr30CBj9ODxCcsa_Dusk4ilKFtai0apgcC91viMqxOKtCOxtLMsaqsvsZS6a6B2py5FMeBVxsvoGDyUY3_jxUZXebD3Pdc92RmCFS8SDBtzQAGSnepSttNzGhHQ69SLkc7WwibJaWoY9Swcojd6g2gSaDvH9Ow-a8Lyq6aUafPVN-xK10z2EcK1KrypztYjJp6SylYQOwvYTcoUZ0SjR-Fv7MATZ4CVqNF_3UoMyfXa-5AqFY7n4PZKOSy5Vp5o2rzr-VgTsSOmCrFCvnFx_bx8vGH21gde0ODJKWh80d_TgbEUWYg97jLzQpYIqUvq7YdmWm2pO7vXNLA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دوستان :
 در صورتی که موفق نشدید با برنامه whitedns vpn وصل بشید
 🙄
@@ -1985,7 +1985,7 @@ pinned «
 
 <div class="tg-post" id="msg-1145">
 <div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/qhdVC57hPGm568xIzDVe4NTiaYCNxQn4vpXWCjhyfUgCIlv6CwkhxThd7klbKQDiSIpqja0DcMJAN7NbzQbi_OZvdiRTudYXv8O54CUjVGn_c1O9qVcRSr2apclKj0F_J6WDMS3bwE2u27-X9O4XzQZ_pGCxy3A9NO7LMDzU-ve85J1HyJ036LeTs5AyFQUv-mimqus68oQb4zQvkSUnFCkqXsV8FNqUG98G9nUjcZp4_qZ03_7QbA3_QX6nu3tkImlvXwcSl96OMkESsjeAGK_w-Gap3yy6yXtWSnzO2TrBTTahAf9iw-TzRj_cee2rgAgsKYc5mNwzm6BmbKwQNA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/SdvbfqHa9nbXOAeJ0gNjh_RHQGAYy5UyWeFahyiD7DPD80LwWByivm2F9AUZZEynge3xT1jTjIZgMV89YZuTdcZBPD5QSHRRaXM3fXN0FwbMDL0W7HT6EpsEAa3oUCs-o4w-QpMzKiePk3u-j7JGR4fO5Bh6Qn1kfpj3R61p7eVFA-gVWJxl0ThKZyDSbuwBSQJ_DDzN7nGRc5ZnyWzAg80LjQAjqmalJDGV80bqLBE9vT5cvZWK68LfZGw9HmGsjzigiVLiCPuNXTfeKU2BEEtfzVSvop01r4gy_dCXHBvThUU8EPZK8NGYA4HGjdJq1lpzaetGk3CG9gCxVvnWhw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-footer">👁️ 15.6K · <a href="https://t.me/whitedns/1145" target="_blank">📅 16:44 · 23 Tir 1405</a></div>
 </div>
 
@@ -2001,7 +2001,7 @@ pinned «
 ۲. اپلیکیشن بر پایه هسته‌های x-ray, singbox که پروتکل‌هایی مثل vless, vmess, ... دارند
 ⚙️
 مثل  0.0.8 whitedns vpn</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/whitedns/1144" target="_blank">📅 16:30 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/whitedns/1144" target="_blank">📅 16:30 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1136">
@@ -2025,7 +2025,7 @@ https://github.com/WhiteDNS/IP-Range-Scout-Android/releases/tag/v0.1.2
 اگر امکان اسکن Resolverها را ندارید، می‌توانید از ربات ما استفاده کنید:
 @dns_resolvers_bot
 همچنین اگر برای اولین‌بار از WhiteDNS استفاده می‌کنید، پیشنهاد می‌کنیم در گروه اصلی، تاپیک «اولین شروع» را مطالعه کنید.</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/whitedns/1135" target="_blank">📅 03:56 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/whitedns/1135" target="_blank">📅 03:56 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1134">
@@ -2044,7 +2044,7 @@ https://github.com/WhiteDNS/IP-Range-Scout-Android/releases/tag/v0.1.2
 
 <div class="tg-post" id="msg-1129">
 <div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MA5V6dBxh8UuKXIG7wmUVPi8VTgbbG1nz7OXQ5QufLR3q4eSXiH0AgY3hJbRkM8Z8H2GCiLrFWqau5j6lrL4iY6j2jkUOdZ7azE7OMRXnoD1dF7kFYbBwdJmkU4yLLDS38X-5yfxK1D515C_MubYE3DDgOQghpNtYuw3Zrvpg1uvO9AZIbZ3J8gwS06QudSXj7MmOMIQUV0iHCN4UIF-t_fiDw5K38PUPhjEOdtNi_cWfs-qJB83CRF_Xu_bbgEsNViFmZjF0lrfpqnUKkPMfBN5KWJ82uAxD5W9xJ6s_75-WVqNXHV6MZUbaS76AiJvuhQj425B0_UVH8slUw2M3Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QmYt1kTr9taCfHwFnq6EoVf2rljQhkaNIfVeZTaYJTYTftSn2dk4Kabl4bmaWZHs3uAz4YZhX5OYXrgq4v9AlfpFAdvUy__NSlxnohPohEAyfyhcCTk34fSDcAw-4NhLJRHVe3ybBt_qDSwQjcNvnZCmq6RXotKTaoTBQJMHZJG2e4Y_0kJEiiG6ZdlOmhCboS3C2esq1UeItYoFvnf3M2t3fACIyInEAVQazKstwwGRunJMexpqd3rEEDH9TsYwyvXz_j3jNZ4OajMITn3YIODMlB20EQvrQQkWMWDGIn-DdSgRsIOkakpJ3s__Gnr2y_Nwbi7aGBb6TPP7e-7gJQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎬
 آموزش کامل TheFeed از صفر تا صد
 جایگزین تلگرام برای قطعی کامل اینترنت
@@ -2062,7 +2062,7 @@ https://t.me/thefeedconfig
 📢
 کانال WhiteDNS:
 https://t.me/whitedns</div>
-<div class="tg-footer">👁️ 72.9K · <a href="https://t.me/whitedns/1129" target="_blank">📅 17:05 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 73K · <a href="https://t.me/whitedns/1129" target="_blank">📅 17:05 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1127">
@@ -2074,7 +2074,7 @@ pinned a photo</div>
 
 <div class="tg-post" id="msg-1126">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/q9djJiVguOyb267Qn11w41oYTYNhoSddHNgTWc9BwIf4_kLKjXTX21sfvDynHljRATphfI_jtDnry8Sg0kA_W3geq5kme2rA3XXCQOa-XSqWT1YaUSNXlWTYxJzsfkHk6bA_cTrJ6dRd6gvLJpGuFQar4USV17jdsaVSF1RoP64MerVIQVGGfhRNBE549_Sj1EKOzz8GSzpTTV8kxo3F-7_nDuGYilYvkUFSmcV8mVX1Vp3x1KUwoxJamII0cWu-trsgBbJYDk7bSqrlPWW7NQ5C6I4gYXLwl0imTpBUl74qxcqmn843PFzLWuCsfhnRaTqvBSnvsRHGkQnRbcD_CA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/BWk_vEKsKvX0xSCtOOTkDZ5lGwcFlV8AxXGugrXJwMp6Lhg6IyhNvwqtg0ht51Syo-7WgA34C1PN0orYHVwZr106YdFfNY6EahSQTqZmG56666HiQxVVrvqGlVMqmjkPfNQJ2Hq8F5V4XMVIL1UAhMY3A7EEZYqfXmHFVnmj8UI1eL7HX5HxEJC-lvPcxxMkG7hW8_TG7EQ-GBITYukPakQpxkO85jzenozKEcRBE87o3a1y1tdLu2R5n80aUZT8vRanwkIBcBe3ZxHUUgFhCtyWQNhpFxWWvoDzbTLMhNcsGyTXg3hKy93pCSwlSrklWR_guh98AOZ0gc7oEt4SWQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🤖
 دستیار هوشمند کانال WhiteDNS
 👉
@@ -2112,7 +2112,7 @@ Warp و Cloudflare
 ربات قادر به پاسخ‌گویی به سوالات غیرمرتبط با موضوعات کانال نیست.
 💡
 نکته: اگر جواب دقیق نگرفتید، سوالتان را طور دیگری بنویسید یا از دکمه جستجو استفاده کنید.</div>
-<div class="tg-footer">👁️ 73.9K · <a href="https://t.me/whitedns/1126" target="_blank">📅 13:56 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 74K · <a href="https://t.me/whitedns/1126" target="_blank">📅 13:56 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1125">
@@ -2287,7 +2287,7 @@ DnsForge آخرین راه‌حل است. یعنی اول از RelayForge است
 <div class="tg-post" id="msg-1116">
 <div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromWhite DNS</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HyZJdgSdAcrLd9Yeven3VZ2Mx8GSJ_wKKScoVZm6KmWGgA-0qHxMUyYAri7wZp0WgNijxRuBV0F586adOCRXfU8PifrsshN_FcpQCM0WfBHPCso9ZQM5hlYUZZoFAkvki_psDaoVMFM2ciPybhZBQhfmanQPrjDIKZUfCHGalJ3xo6mFixdRSnX7f3_xR3-OU6r7FKGDwnpnEg4jPfKAycZT4qa6RyKRRnp5UlaVXwDDtBvghTeMROcVt80CZYknH_vugDvaBCars0wsr4BRkRPty9wQeVvYOKeKpwfjek4AJ4sr3GfxDwrfyA1EJadWux4btT4ykLSokBnK2gqTsA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EnZ1audR0CaUXOrnzRbRtPc6oTXIvOji2vO2NV5NBSI4bXmVczRxoP8Nb94JPpIyM0PoqQvlkm38Rl2yV5w5UlaxQalA_5e1HMhOPpGGu4lyxIiDxq0VI7uPjZcGQvSBTAUPfTxIxcSermwiNN_gzTbnbdY2howTc6Hu5nvWDBhkcQSCzyr_RHs_ZxWn_2eUvzV3oB5lp7LkA9WUvOI6ekQcY89ah4I-kBmrFaTK1oXOJv27gMz_IXjm3R0auHn2QthDcvThCgULRp3x2rYDi0sQ1IOp2ijFt9IFt6EAmB6Sx6L4bJyA1HDII0LDU-00_puyyv61ItSs11th3JHlhw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♨️
 معرفی ربات جدید WhiteDNS برای راه‌اندازی و مدیریت سرور شخصی MasterDNS
 ♨️
@@ -2372,7 +2372,7 @@ Packets:1-1
 
 <div class="tg-post" id="msg-1113">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/K0slGI5CmDdbq14-Nlkw2ORrNcP_n3o2Wos49QqV0Vhywqeg7YNLR3-RdX4irTUNllFx5GkwMySi1ngcn4hlNc1hT-tcu5v0007B5naEoVDqTo3FYwB1irsv4JdchlI66yjMm1NunVajTglFa1fixTnfVm6cb7E6AlHBE0nM6a7niGitcn0Ha_07Yf9GFv2ahZRay-eD9K9vL9Pltn73PTp_23DmxK_nxIxGY5rtGdpMj7V2Ec_KZ18c_2cZyd-chhhY0hRuK9eoAFjgjPIaxqg_99238oXUdvTTy6FJtfw6BU2KM8QeXy6Tk55Huqwuyz4-zdv8PKtWtdxsMVR-Vw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/IAOqGylKqdWKIru98CpOxLlwYbyLHgovRces7Qx4Gpt6QyXdyhIteectjk94Z03fC8AYgSMd3J3reNSSb--wsgWwwhAcwHt6dnI4ds04TErSWCjl0ZY6clKytUPWSibS5MlkSAODcRzTpSZDVquF4i7nCdB5HS9j_5mY0Wbj3rOwmscBI2zG2UhcYjjyT0EB8KvCe68Btn4R_OowPFLGJ0DpcLYeUfAnG0-K_osEF5AJbqsyMvRJuKP5UpHGJzN6JGEvofNBL65NpMa2qWuFDTNaj_CfV96PwtnDClIdW9285ZHkeEI0anjk4nUsZRex8iqosypOcCO-wr-AtNjnnA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-footer">👁️ 30.1K · <a href="https://t.me/whitedns/1113" target="_blank">📅 20:38 · 14 Tir 1405</a></div>
 </div>
 
@@ -2433,7 +2433,7 @@ Packets:1-1
 ۱.۰.۷
 🏷
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 56.2K · <a href="https://t.me/whitedns/1110" target="_blank">📅 19:48 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 56.3K · <a href="https://t.me/whitedns/1110" target="_blank">📅 19:48 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1109">
@@ -2552,7 +2552,7 @@ https://dash.cloudflare.com
 
 <div class="tg-post" id="msg-1101">
 <div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e2dPVJtDr0e5drqZUc_WIfIb6wZ2OneblbwFF1VTOVFUFeo7lTpRkpGHjq6pfPleIpAP4Y7CfseLzowh7d8Y784fFyp5vJ4Lgf9q7BOLCT_GmNFpHKgKumONky1DDeVBGM2pw-rHjeoRbeaSSMs0yQcy_aPZzpnigOi-eM0kbpC3ktlVk4wlCTBu49kKtQN5-yGGuwp5mOVR8iqoYLY0LlqMHv19izfgc4k_-KWbaV2AQ7WONeyCABt27rZBUYpITw8peg-J3y4PkbOEUQFlhILPUez2pJK4_R4vTHIiWiTkdTCAZLZesKW-kEMTKV7jAZeT3iDMBY-6dl5ALfW_gQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/b2vL6Y-rAE9d0PZxo_YIR1CPK0ml_ifKtzCoMnOoV-VLfnwYv17ELX3bNVQQzaMnaHCDqMCMcTihqYR3MhIyR0M9R6njl0d-AQ_oy67UKcCopUze1xcWIUmd-0bXsrLqlAfga4fv1wkun53Va2lAJ10bP4vgGixH___Mi8MvDgP72SACHHGacALyG1a-DRcTQa4a5bUSKtvZjrUi1qIoxh5cWFo5LqCJPYJXOzHkWqjqc_5JdojHKfysSlbAjjOzZUg5tFGAEVnxwgr86mZYA4bWBN3jaYIDIYeRddotVXHJL1xR3naKGRYNoDM6VgX-0zUu0ng8k8XC51CyW1eA9Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📇
 دوستانی که امکان اسکن ندارند، می‌توانند از تاپیک «IP تمیز» در گروه استفاده کنند. دوستان دیگر IPهای تمیز را آنجا به اشتراک گذاشته‌اند و می‌توانید از همان‌ها استفاده کنید.
 لینک گروه
@@ -2566,10 +2566,10 @@ https://youtu.be/N5hKuWXp37w?t=1092&si=mdL0Q8Q9H039IAiL</div>
 <div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/56bbdb4680.mp4?token=V3rr9ZbX1eyh6K6PqCllzXj8UPzoC5wNjLz9_hx6zYpNE2lT5dtsx9rdmtHaG5JfsEcc2CImAiu21LBVYKybUjEurDG5o0UF-_t3DpAvA8HVDZbagKlNQeqYDynXrZokYrU1AwYBqj49RrLI-I8xKlWcMcrEjXc8hSiJgyIrd4vbajXRFdK52wtSiX9QHmlsBdtdo04kbAVdVx62V7FEo5IZtEiBLiSaBZwSKrpMq38TCwY0nDZ3I7K-pCk6TrJx2dnAFroDdDw2COpMBGcE50bwcVwHtJltSbpLeIkPubBUk5Mu_IW019FZwZ_yuq54vTmXdb-BArNTPzFbLhF2_4WOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/56bbdb4680.mp4?token=aBtd9hWL-9pAXGBcdHZgn5uiAwpt6em2Pnh1NBuC_3u1Bm_fCfA1kUL33U5AM9HyTs2KmTDAT5pGR1RYyJAA0HDpA0wNqzOsvApcxwMEtM0_NqwvgnWHW1LrD1iIN81uzkSb5m0c0jX9whMH5Q61OKtMTlFeONHkCu9FVblnU6XfsPDnzvtORRhVcOnCxrRFvcVoxnTz0G3aER0mkML0k_THhu6CrzsUEtbqLNTXMHY0ban7dt2j-5_hHEZGmv3WIwOv5uYpBgrmFQKgxfIwN6eZdkpVSoAZsN_Gm22pyg13_5p2zdpd0kMloySygHa9fu9t__BNeztZH4M3fo-M8oWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/56bbdb4680.mp4?token=V3rr9ZbX1eyh6K6PqCllzXj8UPzoC5wNjLz9_hx6zYpNE2lT5dtsx9rdmtHaG5JfsEcc2CImAiu21LBVYKybUjEurDG5o0UF-_t3DpAvA8HVDZbagKlNQeqYDynXrZokYrU1AwYBqj49RrLI-I8xKlWcMcrEjXc8hSiJgyIrd4vbajXRFdK52wtSiX9QHmlsBdtdo04kbAVdVx62V7FEo5IZtEiBLiSaBZwSKrpMq38TCwY0nDZ3I7K-pCk6TrJx2dnAFroDdDw2COpMBGcE50bwcVwHtJltSbpLeIkPubBUk5Mu_IW019FZwZ_yuq54vTmXdb-BArNTPzFbLhF2_4WOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/56bbdb4680.mp4?token=aBtd9hWL-9pAXGBcdHZgn5uiAwpt6em2Pnh1NBuC_3u1Bm_fCfA1kUL33U5AM9HyTs2KmTDAT5pGR1RYyJAA0HDpA0wNqzOsvApcxwMEtM0_NqwvgnWHW1LrD1iIN81uzkSb5m0c0jX9whMH5Q61OKtMTlFeONHkCu9FVblnU6XfsPDnzvtORRhVcOnCxrRFvcVoxnTz0G3aER0mkML0k_THhu6CrzsUEtbqLNTXMHY0ban7dt2j-5_hHEZGmv3WIwOv5uYpBgrmFQKgxfIwN6eZdkpVSoAZsN_Gm22pyg13_5p2zdpd0kMloySygHa9fu9t__BNeztZH4M3fo-M8oWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">https://www.youtube.com/watch?v=Z069VNFAgAc
 ایجاد بی‌نهایت آدرس ایمیل با یک دامنه روی کلودفلر
@@ -2636,7 +2636,7 @@ https://yottasrc.com
 سرویس ساب WhiteDNS در گیتهاب راه‌اندازی شد.
 ✍️
 اسکنر های ما هر ۳۰دقیقه بیشتر از ۲۵۰هزار کانفیگ را اسکن میکنند، از خروجی این اسکن تست سرعت، دسترسی و DNS Leak گرفته میشه تا بهترین کانفیگ ها جدا بشن.  نتیجه این تست، هر ۳۰دقیقه داخل…</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/whitedns/1097" target="_blank">📅 14:27 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/whitedns/1097" target="_blank">📅 14:27 · 11 Tir 1405</a></div>
 </div>
 
 <hr>
