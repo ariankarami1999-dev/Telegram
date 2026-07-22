@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/WYjK6z50IfbOf9kQysc_iytY2GyThy3ie4KQVdLzG1uMfnRaA5I3cunHQ3r57CuquQnaaOIAjNXXBJDtUKbqqUJcoX5t8QoTET5l1tWJGiWZCD5hyz9pyYlaIVW8g0v0qt7jRJGsFouO0rL9TgLABCN59Oh7e5ExzvrAchJDMAljpylPwRLfVBQSIPYjOpbN93yY1H-qCTe6QCOTrT2598mhi_LDQHCBl852O8wMPYoUQqSI0xeIuNhmj1UBfdP75dXhYomRGp3J3nNzpAwqXGVPhFx9LrKgqxkZFu144wVS-kB84kaqF-EIxru3OG9Db3HmVRyMnXozDxo4uj1r4g.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/QfyUVsGZYD2g_8CMQiWPdLMqSC8O2KpH-_9xeRy6LrBKZzTlnqtGSHvf17F_bt21dv71hq_l6M1iI8_TDgRD1YxhrbdA6RXbr6pVpl5GzbbDV4MAL-3XBCiBlLS2hzBxKF_7lbFg4cdYQNmq4oxHumy7W78JLwlXYYtSy98Kk23gtm9EazFk-ssCgCRFZu0JaelYyyKPhFBiyimxRcTj6pFh-92wDe6CZjOR3M7hZWE8cMyDQoqI4YQJ7HpIsLk0RmdZeFW3F5vsVarVTAsW1D4CFac06EBTdyo5Rq-aCSo1F9zYRwoWKQrbSbL2yGbLqTbvhrmHlHz48bYLBM0A9w.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p>@iaghapour • 👥 52.8K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-31 05:20:15</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-31 08:41:34</div>
 <hr>
 
 <div class="tg-post" id="msg-2799">
@@ -323,7 +323,7 @@
 |
 💬
 ارتباط با پشتیبانی</div>
-<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/iaghapour/2799" target="_blank">📅 20:58 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.81K · <a href="https://t.me/iaghapour/2799" target="_blank">📅 20:58 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2798">
@@ -356,7 +356,7 @@ nipovpn://
 لینک اسکنر پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 5.94K · <a href="https://t.me/iaghapour/2798" target="_blank">📅 20:44 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 6.32K · <a href="https://t.me/iaghapour/2798" target="_blank">📅 20:44 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2796">
@@ -381,7 +381,7 @@ Hugging Face
 موضوع به نهادهای مجری قانون و تیم‌های جرم‌شناسی سایبری برای بررسی دقیق‌تر ارجاع داده شده است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.46K · <a href="https://t.me/iaghapour/2796" target="_blank">📅 18:01 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.7K · <a href="https://t.me/iaghapour/2796" target="_blank">📅 18:01 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2795">
@@ -439,7 +439,7 @@ https://github.com/cubepy/cubepay-doc
 https://cubevps.ir
 〰️
 CubePay | پرداخت هوشمند، سریع و بدون دردسر.</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/iaghapour/2795" target="_blank">📅 21:10 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/2795" target="_blank">📅 21:10 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2794">
@@ -471,7 +471,7 @@ Flutter
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/iaghapour/2794" target="_blank">📅 20:58 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/iaghapour/2794" target="_blank">📅 20:58 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2793">
@@ -612,7 +612,7 @@ LangOver
 تانل ریورس روی سرور با آی‌پی مسدود
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/iaghapour/2785" target="_blank">📅 19:32 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/iaghapour/2785" target="_blank">📅 19:32 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2784">
@@ -665,7 +665,7 @@ LangOver
 در حد توان آمادگی داشته باشید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2780">
@@ -806,7 +806,7 @@ UAC SNI Spoofer
 هدف ما از انتشار آموزش‌ها در این کانال دقیقاً همین است که یاد بگیرید خودتان به سادگی و به صورت کاملاً رایگان این ابزارها را راه‌اندازی کنید. هیچ دلیلی وجود نداره که بابت یک کد رایگانِ کلودفلر به کسی هزینه پرداخت کنید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/iaghapour/2771" target="_blank">📅 15:34 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/iaghapour/2771" target="_blank">📅 15:34 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2769">
@@ -821,7 +821,7 @@ UAC SNI Spoofer
 البته با وجود این خبرها، هنوز یه سری از کاربرها میگن بعضی تراکنش‌ها مشکل داره. از اون طرف هم انگار کلاً بخش وام رو بستن؛ یعنی مردم این‌همه سپرده گذاشتن به امید وام، ولی حالا که می‌خوان اقدام کنن جلوی وام رو گرفتن.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2768">
@@ -948,7 +948,7 @@ IPv6
 اگه ترافیک سرورتون رو از پشت کلودفلر عبور می‌دید، احتمال خیلی زیاد اون آی‌پی تمیزی که ست کردید روی ایرانسل محدود و کند شده، ولی روی همراه اول هنوز جوابه. تو این حالت معمولاً با اسکن کردن و جایگزین کردن یه آی‌پی تمیز جدید مخصوص همون اپراتور، مشکل حل می‌شه.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/iaghapour/2758" target="_blank">📅 21:33 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/iaghapour/2758" target="_blank">📅 21:33 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2757">
@@ -1099,7 +1099,7 @@ Nova.app
 توسعه‌دهنده پروژه نووا خبر داده که کدهای این پنل رو دوباره بازنویسی کرده و تو آپدیت جدید، مشکل ارورهای مختلف (مثل همون ارور رو اعصاب 1101) کلاً برطرف شده.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/iaghapour/2748" target="_blank">📅 20:02 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/iaghapour/2748" target="_blank">📅 20:02 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2747">
@@ -1137,7 +1137,7 @@ Nova.app
 اگه خرج سرور و هزینه‌ها بالا رفته، خیلی روراست قیمت‌ها رو ببرید بالا. مشتری ترجیح میده گرون‌تر بخره ولی بدونه دقیقاً داره بابت چی پول میده، تا اینکه یواشکی از حجمش دزدیده بشه.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2743">
