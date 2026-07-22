@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-31 03:19:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-31 05:20:15</div>
 <hr>
 
 <div class="tg-post" id="msg-2509">
@@ -307,7 +307,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/ircfspace/2509" target="_blank">📅 11:13 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/ircfspace/2509" target="_blank">📅 11:13 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2508">
@@ -325,7 +325,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/ircfspace/2508" target="_blank">📅 17:01 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/ircfspace/2508" target="_blank">📅 17:01 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2507">
@@ -342,7 +342,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/ircfspace/2507" target="_blank">📅 16:53 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/ircfspace/2507" target="_blank">📅 16:53 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2506">
@@ -357,7 +357,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/ircfspace/2506" target="_blank">📅 16:47 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/ircfspace/2506" target="_blank">📅 16:47 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2505">
@@ -383,7 +383,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/ircfspace/2504" target="_blank">📅 19:08 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/ircfspace/2504" target="_blank">📅 19:08 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2503">
@@ -426,7 +426,7 @@ slcyber
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/ircfspace/2501" target="_blank">📅 08:07 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/ircfspace/2501" target="_blank">📅 08:07 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2500">
@@ -488,7 +488,7 @@ github.com/ZethRise/Aethery/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/ircfspace/2497" target="_blank">📅 16:59 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/ircfspace/2497" target="_blank">📅 16:59 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2496">
@@ -537,7 +537,7 @@ PingChannel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/ircfspace/2494" target="_blank">📅 07:34 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 31K · <a href="https://t.me/ircfspace/2494" target="_blank">📅 07:34 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2493">
@@ -728,7 +728,7 @@ github.com/MortezaBashsiz/nipovpn/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/ircfspace/2482" target="_blank">📅 08:14 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/ircfspace/2482" target="_blank">📅 08:14 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2481">
@@ -820,7 +820,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2476">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/B5a6V2QIA2pjXbsavftaoKOPbXgGMMxAeCJ8aUDXRxzUZYE52YItz_zCwgZjhgJBJ4TOETcKPBodbuIdy83_u4i-dusnewR0avc1zfiZ71UIvOehLD5e8jXWwMaMk049vxAe4-gWNGmHyHQko825meJ5lBGT_S_tCV9jtxcKd0k6VW4teKS3i7OcsflWXCmrSRjXjU1e7Nn_xmMMPAjjwp1QfeWQ9QtwJjIGsw_03mso2FIH7TmPrQrDaq3qx5cSq6sGHocG-NX30oiR-8rewOuhYd7QuFH8zw27W5kxETQ1lTKJCSSs9LUwYdBkb_1h8NiLSoSIdxO6EvoPmBw-_A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Mj03qbE1PF6o3LrQhwK3rS2s8OYRTBIOimjYBda9XmaslZuDOhtsOLJwwYiaUvwFoHaCUHSMP0USodalEjBwamwubGz3DaU7D3fOVQGNgSpAMj-XMOt1l73mgW4a1Epevnmt6mHHXVTZRnfQ2V5YhPymKPv2_qKa5Rs153EQ13SmtjgU9hbcLDCva3_fPVaok7mFxMdlsMG-_8PhwhRmbqPk8wnIncbGvY2B97mgx1h8bQOls2oknD9LvSP4VLjCae0qcy2un6wddTgdRhbVl-H3FIXDcNTq4EUAwXDQ23Rr39Tpo5ib13ZwmMd3MvE1LEwXRQYLtPkWTRypZyjfPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که "کدوم مدل هوش مصنوعی خطرناک‌تره"، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.
 به گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس
 🔗
@@ -835,7 +835,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2475">
 <div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VTR5l2V2iMn0rlyeVB9VhnxZ7csUR85NGOmp3xLEBP_LOCRtWn9Dm9PiNha7QV0YihJOdFxSvtGhyEIIc-wUmv1pskFjBmUr24f5PGA474QpBM1h3PQzD0WJmWp0Miq1PjiT1TXAovDGG5J3QWB2BVX3OPgwUPLzbh2Gexwrp-HaMyAEjZ-ox_sk14Es2B2X7ARKSbUUouaZwO8FacvG0J5lbUcHZfS8RsQgRe3vLnsACR-3kKKUnC0kI02uq0EB6FaCeQ3jy5mYMvBl2m1QeCZfZg9WSOC2rldBZzW4YzKL5BHwczMPxHu0WDnwZAXHqORfvn_EGRFXgtzfqxDJNw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WNm2PWqjAa6RmWo6wgAaZyoLkCT2o2LeEcQl7GPcr68D0IH5nWIqYzJZOlB6SMvL-WIOC-eLHG_19g_tPO3-KSWcsHjH8Y0bgZF6VQjFIR3GhQXYTu3upwJqjATv7oR-UdNQnykOtMyPqx0yPDmYAU2ALk_-o0XQsA7st6RJSHEJpS7vP5rIQ4uXv8ZUkb_goOTBQrCAoj4Hhru1mOTSfcqafbFloBD2ZHc4GL8UK4XItYFblNUXl3BU6pWiHTSkFAOf4BPOJ9w__xKQABNHJBzEkq2ErpzyazLe_9_n72UziSchhS9vf24xcCdIxP8MxYG2MXRIbU1C0QVUUXDn-A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ GRoute یک کلاینت متن‌باز و رایگان بر پایه هسته ایکس‌ری هست، که امکان استفاده از پروتکل‌هایی مثل VLESS، VMess، Trojan و Shadowsocks رو در کنار ترنسپورت‌های مختلفی مانند REALITY، TLS، WebSocket، gRPC و XHTTP برای دیوایس‌های اندرویدی فراهم می‌کنه.
 این برنامه از قابلیت‌هایی مثل اضافه‌کردن کانفیگ وارپ، مدیریت لینک‌های ساب با بروزرسانی خودکار، مسیریابی تفکیکی، پروکسی برای برنامه‌های انتخابی، فرگمنت، Sniffing، نمایش لاگ‌های Xray، اسکنر آیپی تمیز کلودفلر، امکان تست کیفیت اینترنت، بررسی پینگ واقعی، تاریخچه مصرف دیتا و ... برخورداره.
 👉
@@ -864,12 +864,12 @@ github.com/SamNet-dev/MTProxyMax
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.4K · <a href="https://t.me/ircfspace/2474" target="_blank">📅 08:03 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 38.5K · <a href="https://t.me/ircfspace/2474" target="_blank">📅 08:03 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2473">
 <div class="tg-post-header">📌 پیام #64</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QS85oRV1yoy9Pc_oUsW8Xlo7-oU8yVjWinOxOM30KGevPTBBca6oI8picQVtsdC1nstP2ttMP7qMJNYYkIoIpFQ9yR9c8DwYZVw0Hjrba_MO7_EXEYswmwguvJrQBArhvEtMWu96YF5yW5SkuklE_mkONC-sJVYVHI7_yrYMyH_x3k3a7Ic2PD1Z1tVdwZfOhRDOsQ6oUtvY_WtW15oBkzAoUecyNf0znJCBcg-OV5059EIgMBric_JN27kMt4ffSoIfUpXeixdTZmhhsbrlowk84M6KfyTcwZ6ghlXoBqta8fOQvNy_QZBFYTmgwz6s6bOP_O6iMVPqcUXO1dmJ0w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WNoBQJeFzaeG-Ht7_KLl1Eed0NhtRFzMrKCo4jD7bZBp7JWfskQ7liv7HsY92Mqe0LDnDrMUIK7Yl28fZ0-b2W0-KBUrBCyCua39O2qaE34TvEs2E-mO3OIuu_TgJa-XahJb2x1EWDA004fTujkAmi8c1eo5G-ZxTVygFryEOHXt5ZJMeLcuKefHGpXfpLVp49Qq2TZKIym0QRaxTIk4d7LxFTFkLbQl6sgtAYDsS8c84C-5VFtfmyh1vglS3J82rwXdfTT8MYxZi_Q8R8ShWYM5t-AYjBe-yga2r52Ptka6vKTHbOeqPkSoonoNdEewQyQZodvkkyCo5qWMK4XcFA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر سیمرغ یک ابزار متن‌باز و رایگانه که برای پیدا کردن آیپی‌های تمیز کلودفلر در اندروید و ویندوز ساخته شده. این برنامه میتونه آیپی تکی، رنج‌های CIDR، رنج‌های دستی و لیست‌های آماده ISP رو اسکن کنه و بهترین‌هارو بر اساس سرعت و تأخیر بصورت رتبه‌بندی‌شده برگردونه.
 👉
 https://github.com/rezakhosh78/SIMORGH-Scanner/releases
@@ -885,7 +885,7 @@ https://github.com/rezakhosh78/SIMORGH-Scanner/releases
 
 <div class="tg-post" id="msg-2472">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cwY-Jqd0AZNa2OCvvsUpoDPj0l0GovXKpTfOW_rCE5HpDTVV_PlT9B_AgYuc6NW--u3VJjZWLhuEQfxkg7m_AmliFBj4ECEroiwX3GNh9Psa8rQgViTSaG6ARbmENwrJR7OaskQcIl4blf5m1VPMjZ1pBIo5iDAxZnEADVaRKXM5wxQlwQdwd21xANw1Yd28XCvutnUH1K2rk03CZIBZWKaR7Ko8LPFD4Q-EQRxh_sWUFpLKWqN4G53AsNHO64JF3cvTdp9suBCcsMsNu-TPXQrUz-dHIuIfK1A-cd7hbdQMdswHZ4L-kIG6_obD7RuxIrQAouQRBljOVagFS1HtOw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NaW7VUODnwwFrQttS1BKB5rPc3kCoyHzwEVkFop0P5oKEzyf8h3vyPXcFef15QT5gAIcbnNjECa1KnrAwh_QqHxDw18Q1SRlvjqesxkscNM6_C2JEgVhr953samC_pPGRRTWP7WOESGpDxnSBesASFuMAGyO4lM8BTawRdZyjl7bZ2xpTDzCxH22eAZq0eOKH-pVTQ_7n58xqBk8MBDFuik_-XoAWDxaTxthEXQsaeTEFrzRVHFgnbvR7MYr73puNhhE5RU9PDsjnO0mVreP4Yo9PwEBw5X9tRm_t7qkCiKYrqnjHNLbII3Pho-8DLXSkvZO6gwdGzTHiQTzBCTD_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر Asha یک اپ متن‌باز و رایگان برای اندرویده، که با تمرکز روی پیدا کردن آیپی‌های تمیز و پایدار کلودفلر ساخته شده و کمک می‌کنه سریعترین و مناسب‌ترین آیپی‌هارو متناسب با شرایط شبکه پیدا کنین.
 حالت‌های مختلف اسکن، بررسی لیست دلخواه آیپی، شناسایی دیتاسنترهای قابل دسترس کلودفلر، امکان تست سرعت واقعی از طریق پروکسی و استخراج هوشمند آیپی از وبسایت‌های پشت کلودفلر، از جمله امکانات این اسکنر هستن.
 👉
