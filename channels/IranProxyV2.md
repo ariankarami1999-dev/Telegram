@@ -291,7 +291,7 @@
 <p>@IranProxyV2 • 👥 1.33K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-01 02:24:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-01 03:25:22</div>
 <hr>
 
 <div class="tg-post" id="msg-94">
@@ -359,7 +359,7 @@
 ✅
 با ما اخبار جنگی بروز باشید
 @War_Now24</div>
-<div class="tg-footer">👁️ 89 · <a href="https://t.me/IranProxyV2/93" target="_blank">📅 21:19 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 90 · <a href="https://t.me/IranProxyV2/93" target="_blank">📅 21:19 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92">
