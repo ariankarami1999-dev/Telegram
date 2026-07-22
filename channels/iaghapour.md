@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-31 21:16:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-04-31 22:28:39</div>
 <hr>
 
 <div class="tg-post" id="msg-2801">
@@ -320,7 +320,7 @@
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/iaghapour/2801" target="_blank">📅 18:01 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/iaghapour/2801" target="_blank">📅 18:01 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2800">
@@ -346,7 +346,7 @@
 لینک دریافت نسخه 1.0.3 از گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.75K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2799">
@@ -377,7 +377,7 @@
 |
 💬
 ارتباط با پشتیبانی</div>
-<div class="tg-footer">👁️ 8.74K · <a href="https://t.me/iaghapour/2799" target="_blank">📅 20:58 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 8.92K · <a href="https://t.me/iaghapour/2799" target="_blank">📅 20:58 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2798">
@@ -410,7 +410,7 @@ nipovpn://
 لینک اسکنر پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.04K · <a href="https://t.me/iaghapour/2798" target="_blank">📅 20:44 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/iaghapour/2798" target="_blank">📅 20:44 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2796">
@@ -435,7 +435,7 @@ Hugging Face
 موضوع به نهادهای مجری قانون و تیم‌های جرم‌شناسی سایبری برای بررسی دقیق‌تر ارجاع داده شده است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/iaghapour/2796" target="_blank">📅 18:01 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/iaghapour/2796" target="_blank">📅 18:01 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2794">
@@ -467,7 +467,7 @@ Flutter
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/2794" target="_blank">📅 20:58 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2794" target="_blank">📅 20:58 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2793">
@@ -490,7 +490,7 @@ Flutter
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aG5Yh-OZ09aucA5S0rufPhXp910lHi7v_EHScV37G968qO4rmNeJJyFiwBgISwi1Lrl9vt7xCvXuVUo1EulG9bDBXoqXtKi4o9C6CF0AcbRngF8hmd90b8HX4UGph6Tuv2sj1zSq-sRKODCadCuZFl9IWyh4U72Z3LiKfl0p6MLAbfpg3zWfr2lkbnaUbgRDX0oXh4xVxRmKA2qQkzfA5AJdOS7QgoQObcV8rEsr4Zsos35cIGSaL93KWa5zZzcdziVAqKuCa89Y440AFdqV8-pzisuDrALrMnC9nbLKc2k4bS-WOLg3spbC_U9_pVNmcsRC_zCCT0XKgMCK9ppU7A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بدون شرح...</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/iaghapour/2792" target="_blank">📅 16:07 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2792" target="_blank">📅 16:07 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2790">
@@ -569,7 +569,7 @@ LangOver
 لینک سایت و دریافت برنامه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2786">
@@ -589,7 +589,7 @@ LangOver
 همه این موارد در
 آموزش بالا
 قابل پیاده سازی هستش.</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/iaghapour/2786" target="_blank">📅 21:54 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/iaghapour/2786" target="_blank">📅 21:54 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2785">
@@ -608,7 +608,7 @@ LangOver
 تانل ریورس روی سرور با آی‌پی مسدود
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/iaghapour/2785" target="_blank">📅 19:32 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/iaghapour/2785" target="_blank">📅 19:32 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2784">
@@ -635,7 +635,7 @@ LangOver
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2783">
@@ -648,7 +648,7 @@ LangOver
 درحال‌حاضر تلفن ثابت، تلفن همراه و اینترنت در برخی مناطق شمال استان با قطعی مواجه است که تلاش برای وصل‌کردن آنها در جریان است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/iaghapour/2783" target="_blank">📅 15:53 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/iaghapour/2783" target="_blank">📅 15:53 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2782">
@@ -661,7 +661,7 @@ LangOver
 در حد توان آمادگی داشته باشید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2780">
@@ -682,7 +682,7 @@ LangOver
 ⏳
 زمان قرعه‌کشی:
 همین فردا! پس تا فرصت هست کامنتتون رو ثبت کنید.</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2779">
@@ -912,7 +912,7 @@ IPv6
 🔹
 پول به صورت کریپتو؟
 البته این وسط دوباره درگیری‌ها زیاد شده و فقط امیدوارم باز قطعی اینترنت شروع نشه که تمام انرژی و وقتمون رو بگیره :(</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/iaghapour/2761" target="_blank">📅 21:43 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/iaghapour/2761" target="_blank">📅 21:43 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2760">
@@ -1431,7 +1431,7 @@ Hedioum Tunnel
 <div class="tg-post" id="msg-2725">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromNovin AI✨</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jUnWkfn8rWkDR1P9uyGK3HJPysuMYsYvCj94VfHiQgLQ-rvuCceCRvNuGSmMLDWrZdEJKXjW3e5oKonDnV8pCxl9vM8bze8XPw-uw8MVk_3QnT27aXixnmJfro7FmD6V60GyW7L4yHXvfWU-WHhbwlGzZLrHzsavCGz11ll1C2u05QaYHEZxMIn20K6FiS74xfXyV6nsZKCuvs4rbWyoF9NAcLRXB_d23EJh3_sKa7InPlS5Abf0oGd8TJn0tBTAZ-PbCdsX2txOs0p3Pxaf2gjAaYo1geRpJrDA_rSFAb-j72aL1ykPXEuSUnrOCKX7tI36SQVyvQHxKlEvrneRtA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uvklSVraBADTD1AzZ5KF2o1OYJjg1lPMD1cMLOqdi5lCMOxlzxGDk2rST6JsQGqwtnM9tbsFsYazpGzJ3n9EP651nquheZ7DqTlCBJcvXJHz-bfgMx3HnowUAoo4Ah9pjf6VImcPB6G2ZXHpTZN0F1baVRw6K_CgMq03FmbDg0uYYzitxUahw9fddu5tWY3zNeZRVd7fEqtb1uwft4ilZhFkBoyOg2YZNTu6XYYdCOA6-oQRwLxdRIWDhASDc0q1xGHK-417YmhzUi9b8xwi4b9bcsRmieo2jxTizwVQ-_v88DCZLH-7swsBAkiR0-Xts5jEC5FKZUx3KU9N7HUxRw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🤖
 ارتقای بزرگ هوش مصنوعی پروتون؛ Lumo 2.0 با قابلیت تولید تصویر منتشر شد
 شرکت پروتون (توسعه‌دهنده سرویس معروف پروتون‌میل) نسخه جدید هوش مصنوعی خود را با نام
