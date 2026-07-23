@@ -291,7 +291,7 @@
 <p>@IranProxyV2 • 👥 1.33K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-02 02:24:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-02 03:23:20</div>
 <hr>
 
 <div class="tg-post" id="msg-94">
@@ -1432,7 +1432,7 @@
 
 <div class="tg-post" id="msg-53">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IZHGrKCF20BEp5JmaONu6VHnuGmYWgOVGqI3yoetV6Z3YIjMIczGmfVhTwAdMrpYXF-u79hmT4ubky-FXKkiVsJl26jGsffvN1l56qaXavUpaqR0RvP0rA9Z8nFhbRodMkGjZpZTkr4n3BcIc8fiDlySLM4-TaXK8mHWUY_iLJsIkDSaLjfGctYMZMejjc9DDVGklQDD0OeN5aOyxtt6HkZRoF0TMvLWJtZqInnv8w2Ash4ts68J2pG5RC-aWBe_eIuVSPITOWZ_yOblQnnI452pzLI4pEjc6yzK9H2_EaELiGn-reWTuTGxPa3M0jpwlJfcdRsCbGgEwUKY0cc4BA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FOp0rpvfi4YMdLPPaD-qve5ANks6T_0kkdBH2eB9DZKpDcMPDFktuHDC88-NlVqlElth7L0gMLOWE06L0bsIAv4b6zEv-skki9BrjrTsh9ExptSPWTtlNaEpuD60_75GPYxPT2dJfb0cDRaNTHD4RaKLP2Q_L_-1HRcLVfWM6d_iSpsM8UxQqDkcX2CVPCdAhpFgt87iXhJXV0BpYX8D9vrXfNg7zkhjk_owDmfTrx_uak9bwOzEwUzgCtRxrB711uc7wrRlm6AfgNe3-25KTQLwlyy8xcfIbSL4vvu5n_lh5Hf1u7zKbaYvYR4zmw1SCFzTTojkHJnjiZgMwNOpSg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شخصی که قرار بود انگلیس رو از جام حذف کنه:
 پروکسی‌
 |
