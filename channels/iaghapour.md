@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-01 03:25:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-01 05:29:56</div>
 <hr>
 
 <div class="tg-post" id="msg-2802">
@@ -326,7 +326,7 @@ www.doprax.com
 💬
 پشتیبانی و اخبار در کانال ما:
 @dopraxcloud</div>
-<div class="tg-footer">👁️ 3.84K · <a href="https://t.me/iaghapour/2802" target="_blank">📅 23:50 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.15K · <a href="https://t.me/iaghapour/2802" target="_blank">📅 23:50 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2801">
@@ -354,7 +354,7 @@ www.doprax.com
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 7.04K · <a href="https://t.me/iaghapour/2801" target="_blank">📅 18:01 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.21K · <a href="https://t.me/iaghapour/2801" target="_blank">📅 18:01 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2800">
@@ -380,7 +380,7 @@ www.doprax.com
 لینک دریافت نسخه 1.0.3 از گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 7.72K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 7.88K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2799">
@@ -411,7 +411,7 @@ www.doprax.com
 |
 💬
 ارتباط با پشتیبانی</div>
-<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/iaghapour/2799" target="_blank">📅 20:58 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.82K · <a href="https://t.me/iaghapour/2799" target="_blank">📅 20:58 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2798">
@@ -444,7 +444,7 @@ nipovpn://
 لینک اسکنر پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.92K · <a href="https://t.me/iaghapour/2798" target="_blank">📅 20:44 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 9.99K · <a href="https://t.me/iaghapour/2798" target="_blank">📅 20:44 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2796">
@@ -551,7 +551,7 @@ Flutter
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2790" target="_blank">📅 21:25 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/iaghapour/2790" target="_blank">📅 21:25 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2789">
@@ -576,7 +576,7 @@ Flutter
 اصلاً فکرش رو نمی‌کردیم این‌قدر حمایت کنید. حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/iaghapour/2789" target="_blank">📅 20:54 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/iaghapour/2789" target="_blank">📅 20:54 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2788">
@@ -695,7 +695,7 @@ LangOver
 در حد توان آمادگی داشته باشید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2780">
@@ -851,7 +851,7 @@ UAC SNI Spoofer
 البته با وجود این خبرها، هنوز یه سری از کاربرها میگن بعضی تراکنش‌ها مشکل داره. از اون طرف هم انگار کلاً بخش وام رو بستن؛ یعنی مردم این‌همه سپرده گذاشتن به امید وام، ولی حالا که می‌خوان اقدام کنن جلوی وام رو گرفتن.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/iaghapour/2769" target="_blank">📅 21:24 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2768">

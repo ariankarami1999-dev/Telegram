@@ -291,7 +291,7 @@
 <p>@IranProxyV2 • 👥 1.33K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-01 03:25:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-01 05:29:56</div>
 <hr>
 
 <div class="tg-post" id="msg-94">
@@ -359,7 +359,7 @@
 ✅
 با ما اخبار جنگی بروز باشید
 @War_Now24</div>
-<div class="tg-footer">👁️ 90 · <a href="https://t.me/IranProxyV2/93" target="_blank">📅 21:19 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 91 · <a href="https://t.me/IranProxyV2/93" target="_blank">📅 21:19 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-92">
@@ -1432,7 +1432,7 @@
 
 <div class="tg-post" id="msg-53">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qg7eCvfP2iuOhOXXcPxCM1Xp6kb3J-Fie-FrIENAlEngxenfFJq7KWb4k7YIKSlwyMBNWZQdgRddZSc3vWD46tOodS5ExgIr7Hp4_Uq5JSbWQqfAs7dYhK71FZTA1wUdqArHhnIQbsvNwzwqTr89LeBTi3gNma4Epy_YbsYe8U7R2uHEzRnmj7OrB1JunApzMotHzewUVBzZag6w3M9QhAmnfUc2kFxQntp53F_Z0bU9QrZVGvx4sI__nszK_vHCvHWOnSjfYJOhwyQ8GzRtwOuDUWNA0OBUC_9i3CH2xEOA4u-NIYdUQrQaWtVngILRG4xstPSrvu072cSCnPklLg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RtUzLxtxiS9Io7eNi49PSGhavPDgsvftK41f_PJZ7URBwTFcMMzvppAXw4vZTGNrUMoGXRbn_fKNK7xaaIeEJF_iSlt3K7sYGMXEj25P2pKpG0RsOwXCrT3dPFaya95Z2lPVVK56bks7OnPyeUDTOpZKK77acFH-BaWT7re4vk-jBUXSChrGfNcg6N3ykwYLkuF7g94EkwtidEDZUjxEIgpPKZ1DRT5NSqn405t8cwt4larq3btY5_jzXcqDXYS55m3b_fNLUd8kxbEjzgR6sMi2vhEMVvXNVa6O106lX1V435NHdEULf4YQOaDt5Lg_h4xPYnap4etp7K993O7tnQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شخصی که قرار بود انگلیس رو از جام حذف کنه:
 پروکسی‌
 |
