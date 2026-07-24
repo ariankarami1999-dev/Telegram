@@ -292,61 +292,68 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 تاریخ، ژئوپولیتیک و بازارهای مالیhttps://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-02 18:50:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-02 20:31:06</div>
 <hr>
 
-<div class="tg-post" id="msg-19202">
+<div class="tg-post" id="msg-19203">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-text">ترامپ در 'حالت انتقام' و خسته از جنگ با ایران
+به گفته یک مقام آمریکایی ، رئیس‌جمهور ایالات متحده تلاش‌های دیپلماتیک برای حل درگیری پنج‌ماهه در ایران را کنار گذاشته و طبق گفته مقامات، وارد «حالت انتقام» علیه تهران شده است.</div>
+<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/SBoxxx/19203" target="_blank">📅 18:59 · 02 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-19202">
+<div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">به گفته سه منبع پاکستانی، پاکستان در پی تلاش چین، در حال بررسی از سرگیری مذاکرات متوقف شده آمریکا و ایران برای پایان دادن به جنگ تقریباً پنج ماهه خود است.  به گفته منابع، مذاکرات مقدماتی در جریان سفر این هفته اسکندر مومنی، وزیر کشور ایران، به اسلام آباد، که…</div>
-<div class="tg-footer">👁️ 501 · <a href="https://t.me/SBoxxx/19202" target="_blank">📅 18:49 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.65K · <a href="https://t.me/SBoxxx/19202" target="_blank">📅 18:49 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19201">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">به گفته سه منبع پاکستانی، پاکستان در پی تلاش چین، در حال بررسی از سرگیری مذاکرات متوقف شده آمریکا و ایران برای پایان دادن به جنگ تقریباً پنج ماهه خود است.
 به گفته منابع، مذاکرات مقدماتی در جریان سفر این هفته اسکندر مومنی، وزیر کشور ایران، به اسلام آباد، که دومین سفر او در ده روز گذشته است، انجام شد.</div>
-<div class="tg-footer">👁️ 510 · <a href="https://t.me/SBoxxx/19201" target="_blank">📅 18:49 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.96K · <a href="https://t.me/SBoxxx/19201" target="_blank">📅 18:49 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19200">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">ترامپ: چین و پوتین گفتند که سلاح به ایران نمی‌فروشند</div>
-<div class="tg-footer">👁️ 582 · <a href="https://t.me/SBoxxx/19200" target="_blank">📅 18:47 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/SBoxxx/19200" target="_blank">📅 18:47 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19199">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">وزارت امور خارجه آمریکا: وظایف مرزی و گمرکی درمسیر TRIPP  تحت کنترل ارمنستان باقی خواهد ماند.   وزارت امور خارجه ایالات متحده در مورد مقررات اتحادیه اقتصادی اوراسیا در مسیر TRIPP اعلام کرد، تمام وظایف امنیتی مرزی و گمرکی تحت کنترل ارمنستان باقی خواهد ماند.…</div>
-<div class="tg-footer">👁️ 1.25K · <a href="https://t.me/SBoxxx/19199" target="_blank">📅 18:30 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/SBoxxx/19199" target="_blank">📅 18:30 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19198">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">بنیامین نتانیاهو روز سه‌شنبه با رئیس‌جمهور ترامپ برای ارائه لیست خواسته‌ها و انتظارات خود از آمریکا دیدار خواهد کرد.</div>
-<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/SBoxxx/19198" target="_blank">📅 17:50 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.27K · <a href="https://t.me/SBoxxx/19198" target="_blank">📅 17:50 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19197">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">بنیامین نتانیاهو روز سه‌شنبه با رئیس‌جمهور ترامپ برای ارائه لیست خواسته‌ها و انتظارات خود از آمریکا دیدار خواهد کرد.</div>
-<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/SBoxxx/19197" target="_blank">📅 17:49 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.28K · <a href="https://t.me/SBoxxx/19197" target="_blank">📅 17:49 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19196">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">سپاه پاسداران انقلاب اسلامی:  «ما به عموم مردم کشورهایی که پرسنل نظامی ایالات متحده در آنها مستقر هستند هشدار می‌دهیم که فوراً از مناطقی که در شعاع ۵۰۰ متری از مکان‌هایی که پرسنل نظامی ایالات متحده، چه به صورت آشکار و چه به صورت پنهان، مستقر هستند، قرار دارند،…</div>
-<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/SBoxxx/19196" target="_blank">📅 15:09 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SBoxxx/19196" target="_blank">📅 15:09 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19195">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">سپاه پاسداران انقلاب اسلامی:
 «ما به عموم مردم کشورهایی که پرسنل نظامی ایالات متحده در آنها مستقر هستند هشدار می‌دهیم که فوراً از مناطقی که در شعاع ۵۰۰ متری از مکان‌هایی که پرسنل نظامی ایالات متحده، چه به صورت آشکار و چه به صورت پنهان، مستقر هستند، قرار دارند، دور شوند تا امنیت خود را تضمین کنند.»</div>
-<div class="tg-footer">👁️ 3.67K · <a href="https://t.me/SBoxxx/19195" target="_blank">📅 15:08 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/SBoxxx/19195" target="_blank">📅 15:08 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19194">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -358,66 +365,66 @@
 <div class="tg-text">#پادکست_GeoMarkets
 شماره — 12
 جمعه 24 جولای 2026</div>
-<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/SBoxxx/19194" target="_blank">📅 13:18 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/19194" target="_blank">📅 13:18 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19193">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CC_EaCZut1HHGmme68_oIXf9oRthjlLqV_A5RJsOtbYfntSE0vj7KZF50YEOp6wd7sLbvehwZ7ZlmhTJ8UMJz9w2ohLOveD0NidkKims2PpIOJcPPg8-DoOGWBcqnvxDQPUlGhUw4Evy8qMFnVQFzL2vyuAMmE7-avo4w6CtXOB_l5RIaURqk4vvna7WPpBaOvnZ_C4O__1nxn1VZ5kxd4bGmGFtq8WXfSVCSP51C2KDSZjbi_qRPqcTzusWYb1i5CMtMOVVFitfBZCUrEkpBLU6kxJ-B2e99jdi2YOHbX5czREfDCytZwz4fYqumWIjJgZ52tcAIEUgn_u2hvSXzw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک امروز در سطح میانه ای قرار دارد و پیش بینی حرکات رفت و برگشتی و رنج همراه با نوسان برای طلا می رود.
 محتملا بین رنج ۴۰۶۰ تا ۴۰۳۰</div>
-<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/SBoxxx/19193" target="_blank">📅 12:24 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/19193" target="_blank">📅 12:24 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19192">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">وزارت امور خارجه آمریکا اعلام کرد که تحویل جنگنده‌های اف-35 به ترکیه انجام نخواهد شد، زیرا شرایط مربوط به سیستم دفاع هوایی اس-400 برآورده نشده است.</div>
-<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/SBoxxx/19192" target="_blank">📅 11:44 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/19192" target="_blank">📅 11:44 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19191">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">اگر شانتاژ اسراییلی ها برای بر هم زدن ماه عسل ترامپ با اردوغان نباشد، معنی اش این است که ترک‌ها حاضر هستند از اف-۳۵ چشم بپوشند اما شاهد سرنگونی جمهوری اسلامی نباشند.  به نظر در این صورت، تنش‌هایی در دریای اژه خواهیم داشت.  #ژئوپولیتیک</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/19191" target="_blank">📅 11:42 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SBoxxx/19191" target="_blank">📅 11:42 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19190">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">بوی آغاز حملات اسراییل می آید.</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19190" target="_blank">📅 11:18 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/19190" target="_blank">📅 11:18 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19189">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">استانداری گیلان اعلام کرد
 صبح امروز نقطه‌ای در بندرانزلی مورد اصابت پرتابه‌های دشمن آمریکایی قرار گرفت.</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/19189" target="_blank">📅 11:18 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/19189" target="_blank">📅 11:18 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19188">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">حملهٔ هوایی به پیرانشهر  مدیریت بحران آذربایجان‌غربی: حوالی ساعت ۹ صبح امروز یک نقطه در پیرانشهر مورد حملهٔ هوایی دشمن امریکایی قرار گرفت.  در این حمله چندین خودرو نیز آسیب دید؛ هنوز آمار احتمالی از تعداد شهدا و مجروحین این حملهٔ جنایت‌کارانه دشمن در دست نیست.</div>
-<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SBoxxx/19188" target="_blank">📅 11:17 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/19188" target="_blank">📅 11:17 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19187">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">حملهٔ هوایی به پیرانشهر
 مدیریت بحران آذربایجان‌غربی: حوالی ساعت ۹ صبح امروز یک نقطه در پیرانشهر مورد حملهٔ هوایی دشمن امریکایی قرار گرفت.
 در این حمله چندین خودرو نیز آسیب دید؛ هنوز آمار احتمالی از تعداد شهدا و مجروحین این حملهٔ جنایت‌کارانه دشمن در دست نیست.</div>
-<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SBoxxx/19187" target="_blank">📅 11:17 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/19187" target="_blank">📅 11:17 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19186">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Svn24U6rntUesuB59q098K09zj_-GFFG3L8Auj14tgmRytbXwt2SbKtOwEw2rgl4Z3u3VToNovvmokzq7zs1QQfLB3mSccKuCdCino4ryLe0AnAdjPhJcyCE_sgedA2qISWFuvQyuMiTyYLHxDVEnqgZIR9pjTfP4rQi1UgsWASI-WdcDp79GRr70ziCkWeIUHop3gnXUcgdWt4uzk-AGBzbb8kTQqu_hdxQf1PQ44ofYnYJfecEqz_8wiL1xZ1jdYnL2Y48sSui6323E40U24MgsgECEuGOucCVeivl89iPb3vlbjq4eMOd1UW3G9zVHYD9yxLFp1JPGzVVN7OVEw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI  شاخص ریسک ژئوپولیتیک امروز کماکان بالا است اما از دیروز خیلی پایین تر آمده.  به نظر می رسد طلا یک اصلاح صعودی رو به بالا داشته باشد (بعد از ریزش 700 پیپی از سقف دیروز)</div>
-<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/SBoxxx/19186" target="_blank">📅 10:56 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/SBoxxx/19186" target="_blank">📅 10:56 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19185">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/0bc2d5ac32.mp4?token=tsKIlYca_ET_0lzpn3k5Ij2jNvHpfzKidcwtOY4lXzlLrUAOP1es9yZFgksYgTtOySfLlZZxRjJd8StoLvel4hor-22DkgF3FYFth5QENreDESyimbhw3pc3msKxNvLXR3vj1xr70TL0TUJ_fpdHR-7j5Qi6MFb_KdXavVra0KTcVukT8mwSHfCapd6OvpYrUHlbvogNtaW0CCv10B9zXKdWZgvBpVNahTERGbx9cyf70uHI9-Eh6n5alB95DO-5EPPOX8NuIfi73VVqt132VbHZL-CkKP1wR2wuK6k0RrjGFREI4RLHOJB6wXd9gXtPVbLbf0LTkZAPpaqol3z5qw" type="video/mp4">
@@ -427,17 +434,17 @@
 </div>
 <div class="tg-text">یک کویتی میگوید از بس صدای آژیر خطر به صدا درآمده، پرنده اش مداوماً این صدا را تقلید می کند!
 سبحان الله!</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/19185" target="_blank">📅 10:50 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SBoxxx/19185" target="_blank">📅 10:50 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19184">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">ادامه حملات ایران به بحرین و اردن</div>
-<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/SBoxxx/19184" target="_blank">📅 09:53 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19184" target="_blank">📅 09:53 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19183">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c330773d3a.mp4?token=hsmNbRec_duRIjmgxt9jQTtBrjfbkjrFk47sQt6graBtu5cjxF__mzG7E_XmdU_rf5Enp9_CzgWmVrmO74eCAkgmUH-1Sqn34m_iq1VESVRi1je5DKLSYnH7teEA8j--flsQVH2UTFovI1vIgvuOue2nAcpnpuT1_6Le2QEnQTWGWyEaDqcVwRwAp5yhkzidW4nVdlmTJC99SGrfMM4lOdnwrUSGvEqbJF1ooJyHufkKJ6tXcy-YjHCfqBD7KzW33vz0lxzzdalrkp2KKjVxKud0xjYx7fN-qkvYze5SKa-rHbKJaA1JmB8f7sCVFdOuViPgMv7H8HOt8bFtNwuSvA" type="video/mp4">
@@ -448,64 +455,64 @@
 <div class="tg-text">یک تکه از فیلم «فریاد مجاهد» ساخته شده در اوایل انقلاب که مثلا میخواسته با دیالوگ ماموران فحاش ساواک و چند تن از مجاهدین اسیر، مظلومیت عنترهای مجاهدین خلق را به تصویر بکشد اما رسما به مایه انبساط خاطر بیننده تبدیل می شود و آرمان‌های اصیل سه خر بنیانگذار مجاهدین را به تمسخر می‌گیرد!
 خطر ترکیدن روده ها از شدت خنده وجود دارد.
 #تاریخ</div>
-<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/19183" target="_blank">📅 09:45 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/19183" target="_blank">📅 09:45 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19182">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">ترامپ:   از این به بعد، خسارات وارد شده به کشتی‌ها، بارها یا اموال مرتبط از پول‌های ایرانی که در اختیار و کنترل ایالات متحده است، پرداخت خواهد شد.   خسارات ممکن است قابل توجه باشد، اما این امر عادلانه و منصفانه است.</div>
-<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/SBoxxx/19182" target="_blank">📅 09:42 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/SBoxxx/19182" target="_blank">📅 09:42 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19181">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">ترامپ:   از این پس در ازای هر نفتکشی که هدف حمله ایران قرار بگیرد  یک پل یا نیروگاه در ایران هدف قرار خواهد شد و تهران و اطراف نیز جزو اهداف این حمله هستند.</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SBoxxx/19181" target="_blank">📅 09:30 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/19181" target="_blank">📅 09:30 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19180">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">۴ کشته و ۵ زخمی در حمله موشکی ‌آمریکا به اطراف شهر اهواز
 استانداری خوزستان: پس از حمله موشکی دشمن آمریکایی به نقاطی در اطراف شهر اهواز ۴ نفر از هموطنانمان شهید و ۵ نفر دیگر مجروح‌ شدند.</div>
-<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/19180" target="_blank">📅 09:20 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/19180" target="_blank">📅 09:20 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19179">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m8I6ITyd8_iEEDKiXTAWD7mb5dRAJWXstavcqy14Gkj6GhrhxfojD-FPH5t4jcVVZgGdaNNBJR-a9CrVDfrFDtfnfjBwzm_n9m2SUonpZaqeTBkkfwSJA6SGTy-OcDOw5THMnHkCQISb761mzTa6W5L-UaB8TCogBkU8Hsk1R8ukTyrtlk0cJQGGuYTVsG3HixLmt-65rPBPqcX79TChZWa_J0dYasD_yeIsahYYfO6L5tRwPU4C1G2ovzb0OExkwG3t-CulQMVB--PINxx6gs_XPbPV8VR4DUtFTNAlQnHg71sN2GFm_eFbDtwXi-PGtfj6LIJNE1EAQvmQtpH6BA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نیویورک پست :
 «دقت وحشتناک موشک‌های ایران» این هراس را دامن زده که دشمنان آمریکا در حال کمک به ایران برای هدف قرار دادن نیروهای ارتش آمریکا و CIA هستند!</div>
-<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/19179" target="_blank">📅 09:17 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/19179" target="_blank">📅 09:17 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19178">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">گفته می شود یک هواگرد آمریکایی (هواپیما یا پهپاد) بر فراز جزیره قشم سرنگون شده است.</div>
-<div class="tg-footer">👁️ 4.9K · <a href="https://t.me/SBoxxx/19178" target="_blank">📅 02:05 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SBoxxx/19178" target="_blank">📅 02:05 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19177">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">خوشبختانه در کشور خودمان به دلیل تدابیر داهیانه سازمان بورص، میزان ارزشی که از سهام ما کم شده حتی نصف 1 تریلیون دلار هم نیست.</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SBoxxx/19177" target="_blank">📅 01:17 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/19177" target="_blank">📅 01:17 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19176">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">وال استریت ژورنال :   بازار بورس وال استریت آمریکا بیش از 1 تریلیون دلار در ساعات اخیر ریزش کرد به دلیل جنگ تمام عیار احتمالی در خاورمیانه.   #ژئوپولیتیک</div>
-<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/SBoxxx/19176" target="_blank">📅 01:17 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/SBoxxx/19176" target="_blank">📅 01:17 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19175">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">وال استریت ژورنال :
 بازار بورس وال استریت آمریکا بیش از 1 تریلیون دلار در ساعات اخیر ریزش کرد به دلیل جنگ تمام عیار احتمالی در خاورمیانه.
 #ژئوپولیتیک</div>
-<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/SBoxxx/19175" target="_blank">📅 01:16 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/SBoxxx/19175" target="_blank">📅 01:16 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19174">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/a0be177031.mp4?token=J55cwWyw9iT2A_R-8QeQDs2bYlBxEtGk2bukuilIwCCcVp8xMSlzau_N1VtAe2oX93Bp-GOi8JUhWBhKmKgJNXrwPkAQ6OQB-jCHWagCzChiVjQt5K63wRGfTdYZ4h2bi1Y-mGbNxmAl1vSaQJt82zoc2P86NwEdGFewjJK2wWnrrZxQ-d10E4pBmzCQZ03y0-wXiUgqzJFBmM3SlLDfbAdwd3WoqRlcbwQrAgxeK6K4oppT-DpncWAMEPUvZuGj0tSMN-r0MXU_JKoctYlN1LcyGrRY29rRRrRlotUwomcSxhdfNu12b5p03TgvPAAsmwh8SEMAsMHh6WHS-dNg2A" type="video/mp4">
@@ -516,40 +523,40 @@
 <div class="tg-text">اژدهای بندر تک تیرانداز می شود!
 راستی می دانستید از تنب بزرگ می شود همه کشتی های جهان را دید؟!
 سبحان الله!</div>
-<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/19174" target="_blank">📅 00:41 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SBoxxx/19174" target="_blank">📅 00:41 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19173">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">مصاحبه مایک هاکبی سفیر آمریکا در اسراییل با تاکر کارلسون درباره حق الهی اسراییل در تصرف و کنترل خاورمیانه.</div>
-<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/SBoxxx/19173" target="_blank">📅 00:03 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/19173" target="_blank">📅 00:03 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19172">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">چقدر حس خوبی هم داشته یارو که ۴+۵ را درست جواب داده !</div>
-<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SBoxxx/19172" target="_blank">📅 22:24 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SBoxxx/19172" target="_blank">📅 22:24 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19171">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">خب اسکل جواب سوال دوم را میگفتی مثلا ۱۳!  ما هم خب ۱۰ خط لوله داشتیم و مخ آنها هم مثل مغز خودت میگوزید</div>
-<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SBoxxx/19171" target="_blank">📅 22:23 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SBoxxx/19171" target="_blank">📅 22:23 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19170">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">🔥
 خاطره عجیب اوجی از تماس موساد به او!
 🔹
 جواد اوجی وزیر سابق نفت: ما ۱۰ خط لوله بزرگ و سراسری گاز داریم. در بهمن سال ۱۴۰۲، یک شب ساعت ۱ بود که موساد روی خط تلفن بنده آمد و گفت امشب می‌خواهیم آتش بازی کنیم‌.
 🔹
 از من پرسید فلانی ۳+۵ چند می‌شود؟ گفتم ۸، بلافاصله…</div>
-<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SBoxxx/19170" target="_blank">📅 22:23 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/19170" target="_blank">📅 22:23 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19169">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8c687c4b9c.mp4?token=STh_lpJdhcV7ur9SSYkvnErg6srljRNSLls8csJV3gV3ON64OCZ6qmQLWeMs2skLA-xMPIecfkvoEHE_xqgOA6O_0KlwjevSoRVWBrXhxC6qSObbSZqxnmVtefsdwSh-pSWHkcdvxW1kne6xVsxFW84-VEc6ZUF8XmUDu5xz7TzxIbcxr2B5sBSctTJGsX8blq1--Tv-Ces-s7lk_TpiTsQEdtKq3wZUvCEYXfs9qJi_PX_8VRFjCkLz97kvbQMJ1YemllJlIIwMX6Dbb68cVzcldcfarvj781UyjfzEvTqVQdc16b90tbLhjXzrQjEpPpUhp5rz1vObkMTjxpiK6A" type="video/mp4">
@@ -566,36 +573,36 @@
 🔹
 تا لباس بپوشم، موساد دوباره زنگ زد و از من پرسید ۴+۵ چند می‌شود؟ من گفتم ۹، گفت خط نهم سراسری گاز را هم منفجر کردیم. سومین خط را هم زدند.
 @khate_energy</div>
-<div class="tg-footer">👁️ 5.79K · <a href="https://t.me/SBoxxx/19169" target="_blank">📅 22:19 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.8K · <a href="https://t.me/SBoxxx/19169" target="_blank">📅 22:19 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19168">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CjOS2CY97cPrTrlymVoqC7B_Eaz32PiaVP_x5IvvSG9N9I23CpA0uHtAryNZ3TEdSjJbieZqlz84bKA0udRnbYGJPkrenUEfTKysMKAsAXTm05HpvkHSwihuCSbaLuKkb_UaXVBUJNp8xGZ6qi3ID8EoEoeVdjpSFmE-TGhzorHnGEOAaBDZ6xqgg6dLPD8fz6G3xiHpTl1imDuIDt0pl07mwxPWLBmWwDYEPPLIYooD2GqDLvYWGTpSyrsZqiO9YFD_8tKja1QyIKeCuUq854CeuTUNizrA-q1ZorDGDINlZC3gYHoB9r5JYp8E0-_-_aIWu5Eg1AcjoSz0BiiruA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این حجمی که سوخت رسان های آمریکایی سمت ما می آیند فکر میکنم محتاج دعای خیر نیاکان باشیم.</div>
-<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/SBoxxx/19168" target="_blank">📅 21:51 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.68K · <a href="https://t.me/SBoxxx/19168" target="_blank">📅 21:51 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19167">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">کارخانه‌های پالایش نفت چین، نفت روسیه را خریداری می‌کنند  خبرگزاری رویترز گزارش می‌دهد که در بحبوحه بسته شدن مجدد تنگه هرمز و تهدیدهای حوثی‌ها در مورد ایجاد یک محاصره دریایی برای عربستان سعودی، چین به طور قابل توجهی حجم خرید نفت خود از روسیه را افزایش داده…</div>
-<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SBoxxx/19167" target="_blank">📅 21:28 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/19167" target="_blank">📅 21:28 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19166">
-<div class="tg-post-header">📌 پیام #64</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YnYaZWF6SPqpg9zZHxhFEh_aejFPpHgG0sBhkmDO4jgQ9kJBRSDgW_Y09oxooCz9SspfvB2JOClxw4xlm82i8-hUpGAv2zp7UKjkaIJlT8wHm0aF7eJuJVrZbRuleOtwV1gxuCQ7Nu-smbKMQMFMM_80ALWkwjkAwY-i__nHkJcgctL3kd7FqnPCq00Hs-L6YhbKrtRuBIR8GyEutJ-PEmDI3cosDQI-pNHSHeG5cP5Gtv5ttEOeNcyTZ8zJDwOJcfhQQwBKyuimiOi0ldxnP6lcHZtdAakKOvqvFntvzhjWcVgS_9RKnV7yMpVVrXl4Coa231ZT2o_Y-DJ30ycMwA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QR08VnpaAjrrGP0AExzp3CSFZIKufcuJ0T7fMls920Lagv3wYWYHaPR2VIllioTcRY6P-Hu0YdHXHWMLMp3zNtPeK-PZbiipjw8wDtBXNnDoIaMjDIU-2PHeBHZhgDI6wJSfntDPOcDi6EeZcKsdU02rN-oe2mWLaqV7utUFFOqPsmLfME_j73U3Ebq-WaxgPZvj01ItnTNQLTyD2dp7L9jJ5ITI6GVkbXwnLDJtR_swTsKIiDTTRptsvu4BUGaNTCpKr5NIgtYDhalmBfWyvUwccD2pfWb5ikUFYpZLmE6kGnFHj5hqmJv16orI0HfRzRCD-RiXMOWVl38_Ilsk3A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کارخانه‌های پالایش نفت چین، نفت روسیه را خریداری می‌کنند
 خبرگزاری رویترز گزارش می‌دهد که در بحبوحه بسته شدن مجدد تنگه هرمز و تهدیدهای حوثی‌ها در مورد ایجاد یک محاصره دریایی برای عربستان سعودی، چین به طور قابل توجهی حجم خرید نفت خود از روسیه را افزایش داده است:
 «با توجه به اختلالات در عرضه، کارخانه‌های پالایش نفت چین در هفته‌های اخیر به طور فعال نفت را از بزرگترین تامین‌کننده خود، یعنی روسیه، خریداری کرده‌اند و همچنین مذاکرات خود را برای خرید نفت ایران از سر گرفته‌اند.»
 نویسندگان این مقاله همچنین اشاره می‌کنند که دو شرکت بزرگ پالایش نفت چین، بخش قابل توجهی از نفت خام روسی با نام ESPO Blend را برای حمل در ماه سپتامبر از بندر کوزمینو خریداری کرده‌اند. به گفته یکی از مسئولان یکی از کارخانه‌های پالایش نفت چین، نفت روسیه در حال حاضر به عنوان قابل اعتمادترین گزینه برای تامین در نظر گرفته می‌شود.
 «با توجه به عدم قطعیت در خاورمیانه، ESPO به نظر می‌رسد گزینه امن‌تری باشد. علاوه بر این، قیمت آن نیز ارزان‌تر است.»
 #ژئوپولیتیک</div>
-<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/SBoxxx/19166" target="_blank">📅 21:27 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SBoxxx/19166" target="_blank">📅 21:27 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19165">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">منابع اسراییلی:
 بازگشایی درب‌های پناهگاهای زیرزمینی نشان دهنده نزدیک بودن وارد شدن اسرائیل به جنگ با ایران است.
 تل‌آویو در صورت مشارکت ایران در جنگ قصد دارد اهدافی را در ایران مورد حمله قرار دهد که تاکنون هدف قرار نگرفته‌اند</div>
@@ -603,100 +610,100 @@
 </div>
 
 <div class="tg-post" id="msg-19164">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">محاصره حوثی ها ضد عربستان سعودی می‌تواند ماهانه تا ۷ میلیارد دلار هزینه بر ریاض تحمیل کند
 دیروز گزارش‌هایی ظاهر شد که «حدود ۲۰ سوپرتانکر بارگیری شده با نفت عربستان سعودی در دریای سرخ گیر افتاده‌اند.» این نتیجه محاصره‌ای است که حوثیان یمن اخیراً علیه تمام کشتی‌هایی که به هر نحوی به عربستان سعودی مرتبط هستند اعلام کرده‌اند.
 آن کشتی‌ها دیگر نمی‌توانند بدون خطر حملات از سواحل یمن، به‌طور ایمن از تنگه باب‌المندب عبور کنند.
 در درجه اول، این موضوع بر حملات نفت خام و محصولات نفتی تأثیر می‌گذارد.
 #بازارهای_مالی</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/19164" target="_blank">📅 20:38 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.9K · <a href="https://t.me/SBoxxx/19164" target="_blank">📅 20:38 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19163">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">گویا سپاه یک کشتی را در تنگه هرمز زده است</div>
-<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/19163" target="_blank">📅 20:35 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SBoxxx/19163" target="_blank">📅 20:35 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19162">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">وزیر دفاع یونان، نیکوس دندیاس:  یونان از این موضوع که ترکیه جنگنده‌های F-35 را دریافت کند، راضی نیست. یونان از این موضوع که ترکیه موتورهایی برای یک هواپیمای نسل جدید دریافت کند، راضی نیست.  ما یک سوال مطرح می‌کنیم: آیا این موضوع به منافع واقعی ایالات متحده…</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/19162" target="_blank">📅 20:33 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/19162" target="_blank">📅 20:33 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19161">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">نتانیاهو فردا بعدازظهر جلسه‌ای با موضوع «تصمیمات امنیتی» ریاست خواهد کرد.
 به احتمال زیاد این موضوع به ایران مربوط است.</div>
-<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/19161" target="_blank">📅 19:32 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/19161" target="_blank">📅 19:32 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19160">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">شلیک موشک از ایران</div>
-<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/19160" target="_blank">📅 19:29 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/19160" target="_blank">📅 19:29 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19159">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">ترامپ درباره ایران:  من در حال بررسی یک حمله عظیم هستم؛ بزرگتر از هر چیزی که تاکنون رخ داده است.  من نزدیک به اتخاذ این تصمیم هستم.  منبع: N12</div>
 <div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/19159" target="_blank">📅 19:19 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19158">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">نتنياهو:  آنها مطالعات ژنتیکی بر روی جوامع یهودی مختلف انجام دادند — اشکنازی‌ها، یمنی‌ها، شمال آفریقایی‌ها و حتی اتیوپیایی‌ها — و چیزی شگفت‌انگیز کشف کردند.  آنچه کشف کردند این است که همه ما، برخلاف ادعاهایی مبنی بر اینکه ما هیچ ارتباطی با یهودیان اولیه‌ای…</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/19158" target="_blank">📅 19:07 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/19158" target="_blank">📅 19:07 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19157">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">نتنياهو:
 آنها مطالعات ژنتیکی بر روی جوامع یهودی مختلف انجام دادند — اشکنازی‌ها، یمنی‌ها، شمال آفریقایی‌ها و حتی اتیوپیایی‌ها — و چیزی شگفت‌انگیز کشف کردند.
 آنچه کشف کردند این است که همه ما، برخلاف ادعاهایی مبنی بر اینکه ما هیچ ارتباطی با یهودیان اولیه‌ای که اینجا بودند نداریم، دارای ژنی هستیم که ما را مستقیماً به سرزمین اسرائیل بازمی‌گرداند.
 به این معنی که همه ما، در جوامع مختلف، این ژن یهودی را داریم.</div>
-<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/19157" target="_blank">📅 19:05 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/19157" target="_blank">📅 19:05 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19156">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">ترامپ درباره ایران:
 من در حال بررسی یک حمله عظیم هستم؛ بزرگتر از هر چیزی که تاکنون رخ داده است.
 من نزدیک به اتخاذ این تصمیم هستم.
 منبع: N12</div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/19156" target="_blank">📅 19:01 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SBoxxx/19156" target="_blank">📅 19:01 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19155">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">خبرنگار: آیا لیندزی گراهام حذف شد یا مرگ طبیعی بود؟
 نتانیاهو: نمی‌دانم. ادعای آمریکایی‌ها این است که بررسی کردند و میگویند مرگ طبیعی بوده است.</div>
-<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/19155" target="_blank">📅 18:41 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SBoxxx/19155" target="_blank">📅 18:41 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19154">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">شورای رهبری یمن:  «پروازهای شرکت هواپیمایی ماهان ایران که پروازی به صنعا انجام می‌دهد، نقض حاکمیت کشور و تهدیدی برای قوانین بین‌المللی است.  ما از ایران می‌خواهیم که از مداخله در امور داخلی یمن دست بردارد و به حاکمیت و تمامیت ارضی آن احترام بگذارد. ما از ایران…</div>
-<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SBoxxx/19154" target="_blank">📅 18:19 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SBoxxx/19154" target="_blank">📅 18:19 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19153">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">فرانسه کارکنان سفارت خود را از تهران، ایران فراخوانده است.</div>
 <div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/19153" target="_blank">📅 17:53 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19152">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">سپاه :
 پس از از سرگیری رسمی جنگ، نیروهای نظامی متجاوز ایالات متحده از موشک‌های کروز استفاده کرده‌اند که از کشتی‌های دریایی خود در اقیانوس هند پرتاب شده‌اند.
 با این حال، پس از اینکه آن کشتی‌ها ذخایر موشکی خود را به پایان رساندند، دیروز به استفاده از بمب‌افکن‌های B-1 که از پایگاه هوایی RAF Fairford در بریتانیا پرواز می‌کردند، روی آوردند.
 همچنان که مقامات وزارت امور خارجه اعلام کرده‌اند هر پایگاهی که برای پرتاب حملات علیه خاک ایران استفاده شود، برای ما یک هدف مشروع محسوب می‌شود.</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/19152" target="_blank">📅 17:27 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/19152" target="_blank">📅 17:27 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19151">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">ترامپ: درصورت ادامه محاصره دریایی توسط انصارالله، ایران و یمن مجازات نظامی سختی در پیش دارند
 ترامپ: یک سال پیش، ایالات متحده آمریکا به شدت به حوثی‌ها به دلیل دخالتشان در تجارت و بازرگانی از طریق هدف قرار دادن کشتی‌ها، حمله کرد. از آن زمان و در طول درگیری ما با ایران، آن‌ها رفتار بسیار مسئولانه‌ای داشته‌اند.
 متاسفانه، اکنون آن‌ها دوباره این کار را شروع کرده‌اند و شب گذشته دو کشتی سعودی را مورد هدف قرار داده‌اند.
@@ -706,7 +713,7 @@
 </div>
 
 <div class="tg-post" id="msg-19150">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -718,77 +725,77 @@
 <div class="tg-text">#پادکست_GeoMarkets
 شماره — 11
 پنجشنبه 23 جولای 2026</div>
-<div class="tg-footer">👁️ 7.9K · <a href="https://t.me/SBoxxx/19150" target="_blank">📅 13:06 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.93K · <a href="https://t.me/SBoxxx/19150" target="_blank">📅 13:06 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19149">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">مارکو روبیو درباره ایران:  عراقچی می‌گوید سیاست آن‌ها «چشم در برابر چشم» است.  سیاست ترامپ «سر در برابر چشم» است.  آن‌ها بهای بسیار سنگینی خواهند پرداخت.</div>
 <div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SBoxxx/19149" target="_blank">📅 12:31 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19148">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gysrE0XMVgK2W8C_ZJcTHw2tWNKIWFcyLa_ekuihyfKGMg22lStQkg-rs3m07-H_upvS5ulVPq-pYy18IZnM03yx0Mv5dXufYNtG49zsKfEKtG15fneGYK91w2FtnFdVxJZRmkXxlCooMpufwr-qU3le2XBA0jQbjfUwQvZSt9Mp7pIaFDn9Dzf5V3D7Lqv53Yjo9-t3yv7FzjF9-Kk3pMzXxk0-oyzNFKy9kIf9oAxp0qX1S3tzqqd_kDMBDmiy3jgIKEnEWORLmMLRRAah_cM9zIOa0yTwxJx5JJ6j8i7ZZgg5FsJmkuTw6wgFSSn3sFaL9YIZLfY87nf9D3_y_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI  شاخص ریسک ژئوپولیتیک امروز در سطح بسیار بالایی قرار دارد.  توصیه می شود از تعقیب مومنتوم صعودی در طلا خودداری بشود و برای خرید حتماً منتظر یک اصلاح نزولی عمیق باشیم.</div>
 <div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/19148" target="_blank">📅 12:21 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19147">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">مارکو روبیو درباره ایران:  عراقچی می‌گوید سیاست آن‌ها «چشم در برابر چشم» است.  سیاست ترامپ «سر در برابر چشم» است.  آن‌ها بهای بسیار سنگینی خواهند پرداخت.</div>
 <div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/19147" target="_blank">📅 12:17 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19146">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">مارکو روبیو درباره ایران:  آنها هر روز با ما تماس می‌گیرند و از ما تقاضای توافق می‌کنند.  هر بار که آنها به توافقی می‌رسند، یا آن را نقض می‌کنند یا پس از توافق، خواهان تغییر آن می‌شوند.  احتمالاً آنها هنوز برای توافق آماده نیستند، اما به زودی این آمادگی را…</div>
 <div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/19146" target="_blank">📅 12:16 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19145">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">مارکو روبیو درباره ایران:  با وجود سخنان تند و ویدیوهای لگویی احمقانه شان، آن‌ها به شدت در حال رنج کشیدن هستند و تا زمانی که به واقعیت پی نبرند، این رنج بیشتر خواهد شد.</div>
 <div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/19145" target="_blank">📅 12:14 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19144">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">مارکو روبیو درباره ایران:
 با وجود سخنان تند و ویدیوهای لگویی احمقانه شان، آن‌ها به شدت در حال رنج کشیدن هستند و تا زمانی که به واقعیت پی نبرند، این رنج بیشتر خواهد شد.</div>
 <div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/19144" target="_blank">📅 12:13 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19143">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">انفجار در کنارک!</div>
-<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/19143" target="_blank">📅 11:53 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/19143" target="_blank">📅 11:53 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19142">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">ایران پیشنهاد آتش‌بس میانجی‌ ها را رد کرد</div>
 <div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/19142" target="_blank">📅 11:49 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19141">
-<div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HWogcOTdbNeNCg7l3QZl-DjIxbpZzVW8F8lm77oCQB5mt0GUsQTyZfJi06u4KKcwxTwo6xampH50_TecoJoyC2TiqK5VL4GExG25C8LqeNMPu5MyBLjNXa-TaCp-KylUc2Fg0Xc14G02P8_DK1lK74vGvS28aXheXwMWzcrllJbQUEnCXC1Tr9uvx0c4WzRR0z2_Wz7040_gp1AfDWae7u19-eVrhMk5z0qWl82e7G5ZSZ5h65Mh-xz2OLlkmFzFIp4Lr7CEt_DRLRw-n9hMdFVItMGQhTPtJkeS3tXn5Uzir3sAi0A03Baytk2KRy5CkswsW7m6qA_9GU6QDP1BNA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vKF5hFpMqnN0j8g7zaYcJvCRgpzp1AasPoQmWl3vpfn94qRF-dFm617HKENogqYWSBzPEqWIMENHUl2KHgfpt8b_exsw3B-4zaNV0i2YVC1Ak745hnMnFn_Ox95LE7bVHO3bmHDpJE7FTNCVM2YYKgkNEHZ-e0TnEFbFx8OBT3O4K5Oyz_AUFMb52vZ2C2Zn1GQ1sSjbsqX-MZROJAAcQRxxwnTJWLxM5nUGKXmMI_Ay4cKpxWdcFJpiIX--QCZB-e2ACKHjCDtV7HBMxbH3TacqGIWLDw3HgZgWBOgCgu8kdEgpvc4Fsch8XmWofPiYfS6rTM-aolJ4DLKJ_d5IbA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#USOIL — H2  در محدوده مشخص شده می شود به دنبال موقعیتهای خرید باشیم.</div>
 <div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/19141" target="_blank">📅 11:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19140">
-<div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qrwgQA1qCdiiEqdgdz8lg_hMQKZyrP6cTbAibdCDkQRKhrYp-5t84OnxlrF77-XZHjOs-W1BrunxaWhc0ymtvFkH0-iewW7_ftL539uvQqL2t6JF39-chsc3IfwNrLabyvDOu9-dVO5e9MpLd6d-77uMoq68XvCZ_DOKstOxHXnyDm0ndtcoMRoEL6UeUeTieBysIWaSeQ0oFVbMQp_U17uR1Z27URurbvwFqqj0px2upZPbmBC47yZk6jDAkhPXBNd564xQ5EZoQl7qkWdHQ9BT9LNsnmXLDU0XhcacHKPXNucvPerycRialMASqZLpbqbpC96GcEHZtfwBHwuuyw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i9VIASeCQk368u9V4FaejaFN5lIgUy-kOIMczEmtve0UfkKIGGSe-TXjZbls4ZfE8MHx-ZDU3HqYnfg3yubJ0gFQGDGCWWfGARxzRkJUMapBzNgx9NVHzMa4qXo22XlJ8o5clqQno6jhk69vgRj-RUhH0JI1dlbqjM9BHXvzp5ijQg19bFQ1dF1Qlh1CxqjiIas1hP95OFRoi7FzaBTW2siyzIkEPRPlVRHr_ABN-N9woww_xYpuKGbBuBUlfi_0AtwGJ41wTJBZXESzuG-88inSu8CEARs4MHC7uHgNryzOgqjltmMeSxRru5OclOK4nedzdrFXir8-nyhVcAkwfg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#WHEAT — D  به نظر می رسد گندم هم دارد همان مسیری را می رود که نقره 3 سال پیش در آغاز آن بود...</div>
-<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/19140" target="_blank">📅 11:34 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/19140" target="_blank">📅 11:34 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19139">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromCyclical Waves</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J3J3Po-evrC7OFSviphNU53LjEiZ_OxhTj3xT1hwPPf_AlFdSQDZEz5v5MZ9G55oaGiEEpS97Q9SYs0N0bTwZlNIUoMQ99Ztjl4i0IDKPBR2EX6cGG-WwmuK1bT8pCqbg_aVoZOsqmAv2fwmViqwlbp8TgkgAbvYwUEwesblEHkxq8j9wMIgxhPbMHxQdcTbocQ_qe6GQNXRIoiqZ4okv_6UmSvrVPudrD-dRUvwPzaOPnpAqD9WVO_0DIkQN09bOxWkaX1pXyQJYHNedctKTu6GshTDYbIDxo0g4UbewyQaJSQED28t4M4rlfiW6ClTS8S_X4T1nvP05nmY4sJNww.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HXvwUx5qNkKoGrHYHwpXvGLIh3D5UW8J7JGHDwtA7oFiJA1LOwdtvkvPDZkhY7ZRcfr-vYVXCvoJNOxpnemRbAzyt3ECoZswkQfPZpwmlEz8-If1ZZUHrQvg517wvLPCe0GGDVlbHHhoDROb0IGTxTczHMYRrVQnMWhgliiK-D8tE0oGXeWzoZmlLUGAP-xLRCFgWM_sHY2UOrYYVHHVO93cjMNI74DWcoV7oI-KrcrUt6z0mq5ww9CpU4VzYazbGNQctM8bA2IAWtAadLZEFV6wIr7pnTsHINwcq9NGA3HeJ2rOm-MEv46fa1_KN8rVgltWDaX-MTFKqSwiPYicZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📌
 هرمز؛ گلوگاهی که می‌تواند قیمت گندم را منفجر کند
 تنش یا اختلال در تنگه هرمز تنها بازار نفت را تهدید نمی‌کند؛ این آبراه مسیر حیاتی انتقال کودهای شیمیایی است و اختلال در آن می‌تواند هزینه تولید محصولات کشاورزی، به‌ویژه گندم، را به‌سرعت افزایش دهد.
@@ -801,32 +808,32 @@
 📌
 کانال ما :
 @cyclicalwaves</div>
-<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/SBoxxx/19139" target="_blank">📅 11:25 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/SBoxxx/19139" target="_blank">📅 11:25 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19138">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">فایننشال تایمز :    آمریکا نمی‌تواند با مذاکره به اهداف خود برسد. بنابراین تغییر رژیم دوباره در دستور کار قرار گرفته است!</div>
 <div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SBoxxx/19138" target="_blank">📅 10:51 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19137">
-<div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fZMYLpHdJkRnKPXb_8CwVXRbyMALgbRRLkdgJBu4qQVnnNnJJG2minRLxx-osTVox9CSYNGCuyDsDkMcDtZxDD14ZcsMRwtLq7GuAK7wUs5mI-JeBrauUXUCAMV6GrET3Oi5OtrIkB_DleK3Oqh15joUZHT_T_zFBBpdMJuIqXHunUBVMip1qqMOGCBnmhydCm6LxWknDjKD-imQ0JgpsC0W-8qYeaIEfVlcn2QFb_8tdSfmj16-ONn12hrdYOZH3E-TUUT6r5-UE5dbT5hVyQtcOfMZvZZ0uWABnO_ntYEYQz11gLdZ4tNbhpQNRqEJB5n5VeRaK1gD9UJZC7kMTw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/erqgwa6VTi6aSrI8OodafRc2oKdGPpbkEzK16CGX9ENBPVJSkHhZEECsq-NZ6ki3_UBzSURbQYFc_G03rm6je9vuhnaS-bp-pujRcz9ZyOh9hU2Whsmo1qlNHoeELrrbjfQEexFItAF6Mi1K27sBx02FbMHHC72cQr8_bEDcya-WRxrxhXR5MQZkBhdy87EV85xLWKDd-QA8J4ZbaZKUBwguQdQZr28tF9kkLe2IVh94bu8MhKWNQ9TjTk7f-dQuFSmH78q_CwWnMqYGtPfe5TPJkBLWs3TqKOTTXPzrV87lfnUfsfLYIB6AsTTns3ssSN8UyZaYu6wz9Jv0s601lg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">GeoMarkets Podcast Text.pdf</div>
-<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/19137" target="_blank">📅 10:50 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SBoxxx/19137" target="_blank">📅 10:50 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19136">
-<div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KjBztLPNcQxG_y4THToc35KjUh_e8Vl1K6Bg7o03j5jdhw1xJUDe6eTneRjnrZajrrz9uO4mMomsrQQM63gffVOMwM3kRgMhQic4K4q15JGpL74XBAS9ASHqylWczhYQxvgoW41JwxyHYPTM1dIGgNBys3ZsI6EGQf97T4Jdb_aP61v7vM2k7pOscXNeZfp8zvlWYrD0or3PpypCDUa8y1_lJOrAxZTb3FXWhjpLuT9pRlWs4gQeBpndbIKn8zXRSuY5EF-yn1LvE1HmB3DhOT8KQsaXBJnUKUz8CCNeSQgbAHehFz0rrv_cJGZHTCBid5Nj8Uq69QCq5qVQiIIwyg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/r0dKvpcvcZU2MYFNkQhmjyVwo5235ErPw39G6N9eJ0qyKzGmrsybbo53Pd51vumU1LKyed5fFboLm2vcUNeAwQzFTpTSNBRPiY_A5HkvQu-aAr9G80m1zR_025Equo9FbVmljF1WI5KkSh_Oot_5_k62tGvd644OS44rh3NeXDbkZDXpF8kUqPdtHvZJUyiv8dXwiRzlwsHJHzO0l43R1iK41-vgE7Tbw-vXAWDawyFmhg_oSlDWKxGGwoNsZV-W3qf6Qk5UhsdNCRspxoGOItUTPtP5S5XuULh36YGt6QWQuRGBUCBYhNM9SgFdYy7hhIiDoB10pp-L2bqL9Ggo6w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هر چند ترامپ می گوید تنگه هرمز باز است اما داده های بلومبرگ نشان می دهد که شمار کشتی های عبوری از تنگه هرمز (آبی) به کمترین سطح ممکن رسیده است.</div>
 <div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/19136" target="_blank">📅 10:29 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19135">
-<div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/q3EzOQWOqhu3vINfsQEUM84lDwjbwuW-vKI9q6PGatCKMb0FPBqlf1LRKmOJirprvcsOxoYdaJc45LxWcRD0wQD28bbTebZaK0fskkM4rwVeBKZmVP6jJjnW9WxWdU1LWV6hqz5yWl-nfTBahJ5B3cFCD9ZfquiqcDkdIOAUVtGOx3asmrTWU8jBhETOB6DNtJb_VBOPd1umGl8jvdBO5lhfpcGQGFMC55z8GU1UIn116S6KBzqGVp4N8pTsvJR1ruWysaf5UJSKuqBunXpaECtJ8o4q8Tq3z0Ss7C_OYRsOJDVzloNeqEHb4AHWGTXXmb1MxFk8BxXnV_3yLvPe9w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C6ZPEI9EUNuyuyS0a-wMH0fjSHH0CwESyxg_IjgqpOD-SMQeOQ00639Zbz5AAqoqBeTXfkTPYNZ48Wnxy7KumyZc47VUBb2zZZ5DyVxrMqYj_9UGAQCRVepIT4rdiiDC0DAknuASc8ltlFDQ84cRRK2Pxi5RWLSyVfBmT7xhuZmeBkeD2oyXfHunYtyT2rJ0ukMrRRDVebe1rKF0C4no6NNm6460KMwvsTDjro06xIDL-A7niz-iPXA7N74YgGKjkJWGyUtZ9mA2piQNoomhmUOXdALWVIePt85hoDbMsyUUIC-7fMGPYWZEaPUlIVC9KMfpAuP5VV00g_jDbb75cw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مجلس نمایندگان، طرح بودجه دفاعی به ارزش ۱.۱۵ تریلیون دلار را با وجود مخالفت‌های جدی دموکرات‌ها تصویب کرد.
 دموکرات‌ها از ترامپ به دلیل همراهی با حملات اسرائیل به ایران بدون تایید کنگره انتقاد کردند و با بندهایی که به تعمیق همکاری‌های دفاعی بین ایالات متحده و اسرائیل می‌پرداخت، مخالفت نمودند.
 این طرح همچنین شامل ۶۰ میلیارد دلار بودجه اضافی برای مسائل نظامی است که بخش زیادی از آن انتظار می‌رود برای پوشش هزینه‌های مربوط به درگیری‌ها استفاده شود. اکنون این طرح به سنا ارسال خواهد شد.</div>
@@ -834,102 +841,102 @@
 </div>
 
 <div class="tg-post" id="msg-19134">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">سنتکام:
 امروز، ساعت 17:30 به وقت شرقی، نیروهای ایالات متحده با دستور فرمانده کل، حملات بیشتری را علیه اهداف نظامی ایران آغاز کردند. این عملیات ادامه خواهد داشت تا توانایی ایران در تهدید ملوانان غیرنظامی و کشتی‌های تجاری در حال عبور از آب‌های منطقه، بیشتر تضعیف شود.</div>
 <div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/19134" target="_blank">📅 01:37 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19133">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">قیمت نفت به صورت عجیبی رو به افزایش است</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SBoxxx/19133" target="_blank">📅 01:10 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SBoxxx/19133" target="_blank">📅 01:10 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19132">
-<div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T1FxrgRVyENJxpf-gDBrwT14ADCpUNJph5reIqqzoC78ss8E2fgBlcGXYKccQ8WQnANQjphDgtMNKbSdnWUG_-n9He63awfU8r-_MIOj84LpqVDByhDkLE7dp-z-GJgxYLtthf1pcp0ttuVHq-Qn_MCk8Brsdm5Wrg9xECixWY7s4BMPKf7rUNj6DcOT4sdn5vr-XMOKcqV499lccuyH2FPjj2LCgAKgH_SJ1537un011LYyA6d4UuUTgyGLSqI3E_Q8wZQoBhZ8er8dpteLlzWpQuPIxQcRea_7YnlWsdZfq5rpzxYUvxolCHa_rr5Wr11x-4MKUTXf6-jvIp9OMQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/r-YUer68x91P9SXlBIVQTdstN6OkbStE_SiMx9q2K3ziKgxIrMTJSwmE01vis9hecetCxqX3lLX1tKRMJfbcMtmVAcOzusV-XHFkFh_BfWpq5UF2ZWUuYI5154nlFjc52PVpCz8IT2o4mTo3w7hB5d1uNKfFNFFt5ke34xxofs7notCYtC2lYBOxZbR8dNb_dH5CHVSCo2sdUVGKvkqbRDbG27X4xVuN8gHOvc9-oFZupcdN5GKMMdQ4bNd3Pxlc7Su7RQWwM6NEWXjiBURkDOfu7cOGmXcoEOsFjKLtjnJvTIf3RMCcWUIOAkMvRfLyMExGeNfsbZcLDG04rgUGwQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تایید نشده:  یک کشتی نفتی عربستان در ۷۰ کیلومتری شمال مرز یمن با موشک مورد اصابت قرار گرفت و در حال سوختن است  ظرفیت کشتی حدوداً ۵۰۰ هزار بشکه بوده و مبدا حرکت آن از ینبع بوده است. ‎ #بازارهای_مالی</div>
 <div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SBoxxx/19132" target="_blank">📅 00:52 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19131">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">جنگنده‌های نیروی هوایی ارتش بر فراز آسمان تهران به پرواز درآمدند</div>
 <div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SBoxxx/19131" target="_blank">📅 00:51 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19130">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">جنگنده‌های نیروی هوایی ارتش بر فراز آسمان تهران به پرواز درآمدند</div>
 <div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SBoxxx/19130" target="_blank">📅 00:50 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19129">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">تایید نشده:
 یک کشتی نفتی عربستان در ۷۰ کیلومتری شمال مرز یمن با موشک مورد اصابت قرار گرفت و در حال سوختن است
 ظرفیت کشتی حدوداً ۵۰۰ هزار بشکه بوده و مبدا حرکت آن از ینبع بوده است.
 ‎
 #بازارهای_مالی</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SBoxxx/19129" target="_blank">📅 00:44 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SBoxxx/19129" target="_blank">📅 00:44 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19128">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">موج ۴ کامپلکص</div>
 <div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SBoxxx/19128" target="_blank">📅 00:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19127">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">انفجار در اهواز!</div>
 <div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/19127" target="_blank">📅 00:39 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19126">
-<div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X3qUH6KIPSUq9EdWO1eV90A--BC-eyG8iUkrnJ6nKmQt20uLrHt1hVm3EEvJuKh7MmVtXQ_kOAGls3LNV_C6Vi7aPsJ5wx-VTTNivOP1NEWqhBgleOwVAmy8kEX5bBhkEZY4PlZMbwLdm3vr8RzbxcFmf6VU_SF2HA6X7kci51uLAvkIFTfM-_W9PlTWG_18Q1kW8CX9zof71ZRLY0oLowuWBtf-vQYM-xqBub1awmvaCy2MvNOQ2h4hYe195CMLpsKZUteRNpf09OgJ_aJCYRl4ank7UQDroDdmUDoaFBZbhJ5s3MIrqHhD97VT_BykpcyJYYTDPRTGfGf69AVJcg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n5ByOkRaA2NksTqg2cBr7btFqwYkKKTjx0aFoVz9YyhD01UGYOWIyb_oObx19EVXiRbG5l5mgtKvFUmQWSf983KCgHgddwKhTK0y1OiKR32lpdppTUBewfNOda8zpRb2yEE45a7WNcvIQPsTBiDhkhfAPx5vzA_ni7XTvVBm4VkF9GQJLYnysY_5Sd3R3sYDa7yf8PDW4fSt8jSyJ2JjZAftBoyGMSzZfokWzCLQTsmHbVjnt0EtUiwJxBuxwEc1SIOkc4JHBmLg_1i3igH4oyorVS9Hj9pH1x2QGI4EkFDXHY1MktjsfQS-ypF5-Al1H8M61eYTu-7k5qnCzFhC2w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI  شاخص ریسک ژئوپولیتیک امروز در سطح بسیار بالایی قرار دارد.  توصیه می شود از تعقیب مومنتوم صعودی در طلا خودداری بشود و برای خرید حتماً منتظر یک اصلاح نزولی عمیق باشیم.</div>
 <div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SBoxxx/19126" target="_blank">📅 00:31 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19125">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BRiIvTrIO4n0RknzDn-wy7BxtHHuonYwztVifpcgzr6Pv7wpJj3lMkhXkNIGMU_UsOcl-rmfvt4DNJgrdFL11lnm-BxTwkAYThNLcHJ60kZK5e4t6mxyesLw8T0y-mTB7ommclY8GCIb2rcQvsNeJ1dDvhUGGoyRDIyGsgKCoCQLvmttquylAG34B-18-_5hd-kqExZ_7d9Ey-ZeVJnvc7b7FnyAvWh4n69jiCSpMgRgsWRWDggpgxqUc525kaRacxpZQU0Jbk_-xR5CP9qeteqqX_7D-XMUpchGbUk1SqKx9xLgvzvMNmS3luI3W6wJjBF3xazx114ZXMFEEeRQKQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HgQwOVDM15P5YxiU-YHiQLDEGjZbNOllJP6KSWokLXOZdAXGmM1evGvQZxw1xk0IgKredLl6pIA77uYYv38wx_w1-WbTsIq-V-Y0fb2njt-K6ZTOuKEdyEII4TV-eAfJpRNLE2YDSXuqC4JnWMiIdTQFy3Hu_YJ5YPL-C1IlNLcHNfuZJkKxpBMuE1yWmX-y8TnSqFo1eovs6wGqm2-mSTYHPIE_hA69RN-doXf-loV8wJ_3nbWOfqPP5-B65mpdo_ZJFIvG0AcCRfSdZbeJDbPvE_beM-uFhsuSXDEYlCEHB-va0M7QfN-HxmXID8076gBdQlgN7A3Qc8LzoXGj1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بخدا قسم همین کتاب را برای ترامپ پست کنید دلش به حال ما می سوزد و دیگر به پل ها و نیروگاههایمان کاری نخواهدداشت.</div>
-<div class="tg-footer">👁️ 6.39K · <a href="https://t.me/SBoxxx/19125" target="_blank">📅 00:27 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.42K · <a href="https://t.me/SBoxxx/19125" target="_blank">📅 00:27 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19124">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">انفجار در تبریز</div>
-<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SBoxxx/19124" target="_blank">📅 00:23 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/19124" target="_blank">📅 00:23 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19123">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">🇰🇷
 کره جنوبی از اتباع خود خواست کل خاورمیانه را ترک کنند</div>
-<div class="tg-footer">👁️ 5.42K · <a href="https://t.me/SBoxxx/19123" target="_blank">📅 23:53 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/SBoxxx/19123" target="_blank">📅 23:53 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19122">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">واشنگتن به تل آویو اطلاع داده است که قصد دارد برای اولین بار در جریان این تشدید، از بمب‌افکن‌ها در حملات علیه ایران استفاده کند.
 سازمان رادیو و تلوزیون اسرائیل</div>
-<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SBoxxx/19122" target="_blank">📅 22:21 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SBoxxx/19122" target="_blank">📅 22:21 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19121">
-<div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BiIm-Y9pH4qN9eSoy3W55vvJ3PHU1pbRo-gE33qfBc5--b8RsaqbABuGJJ3PZGsC2wPX0nlhF9H7jlQLU8t4nJLS_lEBwrA8hT7Q1TgFgLWUkO22JkHcSthnzCkSGu0Ujl7GjDSgSgUk6oEoKr90QrplznFvUwT1ddrb1X4uwN_u9qIzjZryXN9gqTrlO7gsdkxQpUu-GeObTB6glc6sImmyL8chCdZ4qPqz_kE0dY2WPS10id9cuj6iXEqK_fM7L2o43jmRG-HY4Z1fqpt4DPjgw87naq6k7_Ty9FQHTUGwEVibeflLq2aTxIEM3-fpdwzcwId8MBYSMfGbvW2lDQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/enbQ5wVihGGas_jCP8KlBvZLNT2jkpCNhSVJjvq7zaGg_-iutmSVq1MJ8BLRDa1yNDapSLVhICR31wdzAmKAY5Sv20mEg1dYrKKzuJ7uznvzxqWT2VTue1fFfRfwhrzI4NQ9ayNatjPwbU2Kipu2EeY7p3Aaqz8l35kLTEm1EItKgxJRITU-tCUhcD2GweOE71XMDWJFONOCo-2q9n8zixZz3yIQqikx6YI6WjRXxQLqfxcplMvIqtCkNFwPZjBal3FeEGe0swXMUGKb523FNgzfL3ZeCiTcieO0GHgMx8HPX4IqQnnzdn4wcNboXybqcG8SfnKr2FH3JouFD474eA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر امور دیاسپورای اسرائیل، امیحایی چیکلی:  ممکن است برخورد  مستقیمی با ارتش ترکیه در دریا روی بدهد.  این یک سناریوی غیرممکن نیست؛ ممکن است حتی فردا صبح رخ دهد.</div>
 <div class="tg-footer">👁️ 5.27K · <a href="https://t.me/SBoxxx/19121" target="_blank">📅 21:04 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19120">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">محمدباقر قالیباف:
 «معادله این جنگ روشن است: یا همه یا هیچ!»
 «در منطقه‌ای که ما نفت نمی‌فروشیم، کسی نفت نمی‌فروشد. اگر امنیت ما تأمین نشود، زیرساخت‌ها امن نخواهند بود و امنیت تنگه در غیاب نیروهای آمریکایی است.»
@@ -938,53 +945,53 @@
 </div>
 
 <div class="tg-post" id="msg-19119">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/305f8deeb1.mp4?token=JjutDfomvu055wXvftInWf6ptCAQg8J_ci3OfhgIWBbAV7Vd29MJVn-52F2YjR1giBd5msFo8uGBLNBFzUj2UltaEPhyNA6-jr4nTRgo69oeL7GyRFkPSIi_dCowGmmI7ko1rxLbmWHq0Mf-LL2qJEYHl8X8BNFYoBCCqcZP7Yuto_YzKx0u4Z8rw4NmWZ6tL0WgnCG64715bwMFYK0kU3yI--XtEPDV9OzeAD1HBrroD7xulm1XT7fetJuSp2g-yicUPaLl0ikXg8y-7Aml77t0L0KASOM5RXx0yasEeJHhChRr5mcnm2qxfPUflh9aoEpzD27izCWZtnCwVA5kOQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/305f8deeb1.mp4?token=hqSnlEPcg657OLr-rLfsmtgXRIGYlPWz7LQ-Q_5tXjv7S30tRLqLSWPbeg_mIHFhtWY-7arFaxEb_S8F8xYmi3ZmsMx6NC1xznW9Y2DV85hJwI8Z4wrwqKZLqnmBcNsc21EysmrxdJ8VWdInQWjcPaQLwd0zAT-hLbb8rS22vp9xWPyjejW7MSqU915hlVm_VW0Fh_npdpT229qdncbTw7_36asY6ttxfTFae7e37Wsoh1OuT7uKa9Y-yUFc1pRw-C-u8wk0zj86SZOK960DLfxR7KODXEVJVdWiQYXOL7J65wC2MzP9p2bUfri0hDg5Fglk1tPyABQSB4Ou0pfP9g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/305f8deeb1.mp4?token=JjutDfomvu055wXvftInWf6ptCAQg8J_ci3OfhgIWBbAV7Vd29MJVn-52F2YjR1giBd5msFo8uGBLNBFzUj2UltaEPhyNA6-jr4nTRgo69oeL7GyRFkPSIi_dCowGmmI7ko1rxLbmWHq0Mf-LL2qJEYHl8X8BNFYoBCCqcZP7Yuto_YzKx0u4Z8rw4NmWZ6tL0WgnCG64715bwMFYK0kU3yI--XtEPDV9OzeAD1HBrroD7xulm1XT7fetJuSp2g-yicUPaLl0ikXg8y-7Aml77t0L0KASOM5RXx0yasEeJHhChRr5mcnm2qxfPUflh9aoEpzD27izCWZtnCwVA5kOQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/305f8deeb1.mp4?token=hqSnlEPcg657OLr-rLfsmtgXRIGYlPWz7LQ-Q_5tXjv7S30tRLqLSWPbeg_mIHFhtWY-7arFaxEb_S8F8xYmi3ZmsMx6NC1xznW9Y2DV85hJwI8Z4wrwqKZLqnmBcNsc21EysmrxdJ8VWdInQWjcPaQLwd0zAT-hLbb8rS22vp9xWPyjejW7MSqU915hlVm_VW0Fh_npdpT229qdncbTw7_36asY6ttxfTFae7e37Wsoh1OuT7uKa9Y-yUFc1pRw-C-u8wk0zj86SZOK960DLfxR7KODXEVJVdWiQYXOL7J65wC2MzP9p2bUfri0hDg5Fglk1tPyABQSB4Ou0pfP9g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اعلام وضعیت!</div>
 <div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/19119" target="_blank">📅 19:34 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19118">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">اعلام وضعیت!</div>
 <div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SBoxxx/19118" target="_blank">📅 19:33 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19117">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">اعلام وضعیت!</div>
 <div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/19117" target="_blank">📅 19:29 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19116">
-<div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VNuvEDZF7u_fcwPN4SRQ6molX16xX_-5isjPbv0D0vlNqZchsmdNDZKwWRY7E2DLT3Qc3btIfdureXQ35JiKn25Td8CDzqnVQ0TOanSZqzRFSVFIjmzjev7yHnj-P_WI2JQV5ISxFmm-AahvJivwrj6F_Yf_ef1VdIyj3mPUCVtVeONyn1BEoK-qnofHK4BSw6lU3djTxsZFDMhuBgEtcJALjYbczywP2kYjHMceMbqXF95SLWFEzniBCr8M6g4UwEX7hwm9C5YnY3UAVuEckbp4hCoR_lp8IsKtXGB8lhgHIFlQj6eUOca8tyTn6VVIcZS7NzTviWUeaRJHGohtIg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MpzK7DR6ytmtb8cngvDmiK_NJxByoLSD5EKklPr1q4cvVNW_ZApRAIl2fV4pu9unNZcoc3_SAIeVRyGuwLbc85A2imDYolCRCs8hTEQDzA5pbxA9i_DfsLV8TGP5FH3YB7ltflz53j-VURhcVWFC1suEonV7VhHoL3W_XZtdy3IxaZOW0ue9hXG3_RXLCsv1E9d8LXOqikjw1BIGWxB0mwGBGND9ztO7g-klnb9cstWpzZ066bQi9V3tOWvgbK51dZEKskkiUD5p7j5f8Kny2hSFkKxs9NPNw3JBooIhV29lgrhdIEnvHWpu--q2lHx-DG0fCHR--jv5A4P2UdJ1fA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اعلام وضعیت!</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/19116" target="_blank">📅 19:29 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SBoxxx/19116" target="_blank">📅 19:29 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19115">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">پدرسگ مثل این بستنی فروش های قرمساق استانبول است که پول را میگیرند و اسکل هم میکنند و آخر بستنی را هم نمیدهند</div>
 <div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/19115" target="_blank">📅 19:28 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19114">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">منوچهر متکی:
 قرار بود قطر ۱۲ میلیارد دلار از ۲۴ میلیارد دلار منابع ایران را آزاد کند و حتی اعلام کرد ۶ میلیارد دلار خود را بعداً پس می‌گیرد، اما آمریکا وارد شد و گفت یک سنت هم نباید پرداخت شود؛ تا امروز هم این پول پرداخت نشده است</div>
 <div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/19114" target="_blank">📅 19:26 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19113">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t3M9Ws1azLCQyBz78P-pz6BCR2cAo-0DkTL1_5A5P-knvbH4UvqKovVcw_LsDPHhP3tMUEa7j9yePqe0aL-qFVeIOEl5PU4W-HIYgOtj2ezZHljaOFj8wYW_wVkSpMMSBiMT6AXvTqMCwmz9rdXCQ-YF1VpMWCDdFi7bZTATTxYDnkZ8chMN9hTcfcOOtF6_97-c909EtQ1SePnBMOhyyQfHb7bdD43Ibhnil4-nT1vziD3WaknoO32JeB7Wyq8HMfpG_pr3dk28OX6EPCbLJZeyqOKt8zJDDSuFbHcBR54aKRWhuel48FDKF5qTn11ZwJsQiRm63LsJzJlJV0dlNg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ur2RsJADs6A7w6mu2j3gBVvgcSzoEgaYGdZGeGYrXDYF8VZHcfR86VSuf4aMCFH3cqZLzVoUfj5a_me3lBHxe8GIjmXB8P6vUBYUpGSoWbpEOn_IDfzpH-filrYYtz6DPZD7wrH1C-Ljlvf6u-KI-E_mJ1EAYNdfrbb-pvtWe4kMAX-FKTN50rJzg3yy2Xw7dXZu3XzrFpBmLPE299eofJnWHFYQq4NVr1_jPlTkgsaJ-Ze9rVVEnP9mXdtNj0dO-ZvEdp6ex_3oQ9Hr39FdgNNXxJkvK2nqdfJd2i31i1r0QD98xi1_mXjOIGBRjJ0_v33vrypj1C6j0gVOAAIEkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکل ها یک چیزی شنیده اند!
 ده سال زندگی در ایران کافی است تا کارمای قابیل هم پاکسازی بشود دیگر چه برسد به اجداد نزدیک مان.
 رایگان، تضمینی</div>
@@ -992,28 +999,28 @@
 </div>
 
 <div class="tg-post" id="msg-19112">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KHKtIQdVCpsRr9K5XuxQTG6UzaorUQ-Ncn7V52d-ooXJrn24uHvaOaTfXkzN_S7tQE5LLdmEOCk4JDjNoWuXLYR8peTlZt7t2gdeoHTZiBHHgoLPWSDCxrjPStF5RBornl0PDyg60oDrnquJdWD1IX2LST82X-LiqIAaEnK0F_ppswFsiN3dI3BuAlR9IHUBuaYES5ZtNrJn54fB4fp0ijYOTGdF0AcI3XYIn5YJ5gYnCgmkfgM66zhMyFczr3MDRddQFyJsEpceyBHA62_NKJPi3J8GAKAxSCoJ79sGWQQo6ylK_tllPLbC4avKo_nzcaREyqn7KONSo88gGOVI6g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K6ErfBZNNDueAdw3AgpTyl40hbI1VU8Z1IIFdxYTXkRap1xfGUkVGrUpmwMZywzg_uGMHHo90Enyq2L5_Mdyfj6VxlLD2qjVHjtfoLazlUQPIOLJVXop7wl9qCePi3Mw9HRje6rQOrDujXrCqhF4u4zMhweYssOnsLDZr5B2AqXl6Hxx1PKX3Cij2xYsKxgyCnDOPEZnm5zl9IYV38eUr_S3aXJJc_g9GYJzVZpIidMZiH7dxJSNjDV6XN2P-txPaach9jhdFrmwdOox-sk_09rBw7hajqjfEsYTPVurcQYkKZffbq61FcM5XXDjOJ-e6oxO8CSHG0D8IhKGbn11Yg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ساعت 12 امروز با نیما در نشست هفتگی به بررسی پویه های ژئوپولیتیکی موثر بر بازارهای مالی خواهیم پرداخت.  لینک ورود</div>
-<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/19112" target="_blank">📅 19:22 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/19112" target="_blank">📅 19:22 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19111">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">وزیر امور دیاسپورای اسرائیل، امیحایی چیکلی:
 ممکن است برخورد  مستقیمی با ارتش ترکیه در دریا روی بدهد.
 این یک سناریوی غیرممکن نیست؛ ممکن است حتی فردا صبح رخ دهد.</div>
-<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/19111" target="_blank">📅 18:10 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SBoxxx/19111" target="_blank">📅 18:10 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19110">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">وزارت خارجه ایران:   بلغارستان باید در اجازه دادن به ایالات متحده برای استفاده از خاک و توانایی‌های خود برای حمله به ما محتاط باشد.</div>
 <div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/19110" target="_blank">📅 18:08 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19109">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">خبرنگار : آیا چین و روسیه اطلاعات هدف‌گذاری را به ایران می‌دهند؟ این حملات اخیر ایران  بسیار ویرانگر برای نیروهای آمریکایی بوده‌اند.
 روبیو: هر زمان که در یک منطقه جنگی مانند الان هستید، خطراتی با آن همراه است. منظورم این است که در نهایت، این واقعاً ثابت می‌کند که این همان چیزی است که ایران در ۲۰ سال گذشته پول خود را در آن سرمایه‌گذاری کرده است.
 هیچ کاری که چین انجام داده، به هیچ وجه مسیر آنچه را که در مورد درگیری‌هایی که با ایران داریم می‌بینید، تغییر نداده است.
@@ -1022,19 +1029,19 @@
 </div>
 
 <div class="tg-post" id="msg-19108">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">الان عرب ها بیشتر نگران هستند تا خودمان</div>
 <div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SBoxxx/19108" target="_blank">📅 17:53 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19107">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">ترامپ:   از این پس در ازای هر نفتکشی که هدف حمله ایران قرار بگیرد  یک پل یا نیروگاه در ایران هدف قرار خواهد شد و تهران و اطراف نیز جزو اهداف این حمله هستند.</div>
 <div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/19107" target="_blank">📅 17:53 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19106">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">ترامپ:
 آمریکایی‌ها مخالف جنگ نیستند.
 آمریکایی‌ها نمی‌خواهند قیمت بنزین بالا باشد، اما مخالف جنگ نیستند.</div>
@@ -1042,16 +1049,16 @@
 </div>
 
 <div class="tg-post" id="msg-19105">
-<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">ترامپ :
 ایران برای کشتن سربازان آمریکایی بهای خیلی سنگینی خواهد داد.</div>
 <div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/19105" target="_blank">📅 17:28 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19103">
-<div class="tg-post-header">📌 پیام #2</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromCyclical Waves</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UGabXl7WuiujTP__TJUWt5M3tjTW5dl9gaOFoRGbnM7UfKbajfCHx5Rq3DR9Ve0o5KqZpl6vPlub4SUEWdc8kmXiKaJ3J6opvrKpctesY9SPhEpwlNzVxCzSJJalK-jxlxFKjITswetRwFFHHb-YZYDQ7cx8htRxdQUHWPBsgOL4Sp0xSgf5Mvo8YqCcMw03mHVk-fLeyszsIvrZDEQ9Xhfn42LeycUbhaEkrGRYQnodZvOHCKoiCgFOezjWGwNLbAn6pylif7bGVSMXVe3rQ5sj-71SdbVyttmktWA9sAQpuEUJtG9qM9VwKI1gHT9p2uM-bgA5yWh-jqMRpOvV9g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h5Dfdpmv1dwEgFWdabKelWpJwAJ1535a31o8aamIMpCspJ9Acr1hvBVelbfZBKoJd4-BgmlJ9FsxaM-CFlORGyPm8zGzrdEx3ASV66eAncOAE4tdjLpk_4-FraKVkwrDZ7QQnGfipy1dgfFedllM01YVrRzm5B_lAaNU_6ElFFfONRLfKe5or5vAK4FPFvtUWuzrNUXLfq4Z-8GhKq_k93n7bOuDDdi5M0HNlvzFSudk4GhrpX1w667qCu2dfA0X3vjhcowdnoONJLLMtD_LL1rx7DCgDljeS0w3001a4sfLMSRTIu2rj392gh-0keLoDth1Ztq-CNIQIj4Ppe3z8A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📌
 انتظارات تورمی مصرف‌کننده آمریکایی؛ آینه‌ای با تأخیر برای حرکت دلار
 انتظارات تورمی مصرف‌کنندگان آمریکا معمولاً با تأخیر نسبت به بازارهای مالی تغییر می‌کند، در حالی که شاخص دلار زودتر به چشم‌انداز تورم و سیاست پولی فدرال رزرو واکنش نشان می‌دهد.
@@ -1065,12 +1072,6 @@
 کانال ما :
 @cyclicalwaves</div>
 <div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/19103" target="_blank">📅 17:25 · 31 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-19102">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">مرندی باوجود   حامی نفت کرود!</div>
-<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/19102" target="_blank">📅 17:13 · 31 Tir 1405</a></div>
 </div>
 
 <hr>
