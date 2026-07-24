@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 65.1K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-03 02:24:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-03 03:26:29</div>
 <hr>
 
 <div class="tg-post" id="msg-6344">
@@ -312,7 +312,7 @@
 نه در راه ایران! نه برای ایران!
 بلکه برای فلسطین!
 https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/farahmand_alipour/6344" target="_blank">📅 22:10 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/farahmand_alipour/6344" target="_blank">📅 22:10 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6343">
@@ -324,7 +324,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 با صدای اذانش، بیش از این تعداد
 از مردم ایران اعدام میکنه!
 جنگ ۴۷ ساله جمهوری اسلامی علیه مردم!</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/6343" target="_blank">📅 19:38 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/6343" target="_blank">📅 19:38 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6342">
@@ -335,13 +335,13 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 قبلا هم همینکه در بیرون به توافقی میرسیدن
 موشک آزمایش میکردن و روش به عبری
 شعار می‌نوشتن!</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/6342" target="_blank">📅 19:35 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/6342" target="_blank">📅 19:35 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6341">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">سپاه خطاب به مردم منطقه : فورا تا شعاع ۵۰۰ متری از محل‌ حضور آمریکایی‌ها فاصله بگیرید.</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/6341" target="_blank">📅 14:05 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/6341" target="_blank">📅 14:05 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6340">
@@ -353,7 +353,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 حدود ۱۰۰ میلیون دلار خسارت وارد کرد.
 ترامپ : هزینه این خسارات‌ها رو از پول‌های
 مسدود شده ایران بر میداریم!</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/farahmand_alipour/6340" target="_blank">📅 11:25 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/farahmand_alipour/6340" target="_blank">📅 11:25 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6339">
@@ -368,7 +368,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <div class="tg-text">روایت وزیر نفت دولت رئیسی از تماس موساد با او و انجام حملاتی در ایران
 🔺
 جواد اوجی وزیر نفت دولت رئیسی : ما ۱۰ خط لوله بزرگ و سراسری گاز تو کشور داریم، تو یکی از شبای بهمن سال ۱۴۰۲ ساعت ۱ شب موساد با من تماس گرفت گفتن امشب می‌خوایم آتیش بازی کنیم‌ باهم،از من پرسید ۳+۵ چند میشه؟ گفتم ۸، بلافاصله گفت همین الان خط هشتم سراسری گاز رو زدیم، ۵ دقیقه بعد دوستان مسولین بهم زنگ زدن گفتن خط ۸ گاز کشورو زدن،تا داشتم لباس میپوشیدم، موساد دوباره بهم زنگ زد و از من پرسید ۴+۵ چند میشه؟ گفتم ۹، گفت خط نهم سراسری گاز رو هم منفجر کردیم،چند دقیقه بعد مسولین مربوطه بهم زنگ زدن این خبرو هم تایید کردن،من تا رسیدم سه تا خط اصلی گاز مارو زدن.</div>
-<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/farahmand_alipour/6339" target="_blank">📅 08:24 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/farahmand_alipour/6339" target="_blank">📅 08:24 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6338">
@@ -381,14 +381,14 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <a href="https://cdn4.telesco.pe/file/d4193f544e.mp4?token=IlCvjUfAFBmLg1zWWPt2p7YF1VRmiFKFzrXtog9v7YUcyJG7l939vJSi88DNd3BL_vMZqOMtcTrjApJs5nHrzlzL_Uib85wUPh7iG47x7o7NbvTu6Ai-aMkrkhCnnbMHLrOdSk1ahWgZHQ5Vy1SoJUyJj0QYGgj6IHaGA2yFZxLod2fE6dpfXZKFt_ix0fQZ0CZuhifAk6ve0n9CZSaE5N7HplG4qsC_VQxzCJ-Ah67bxDp0qs4EIi8HROI3ZXUBJ4dag3p6hjLuszd1-TgZURRg5W5__z-TXJjy1_uWeMZsWtA0-2QZzKSUin07GZyTo7Zb9zZp51sCUcAVQwgIWg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">دیشب - انفجارهای پی در پی در بندرعباس</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/farahmand_alipour/6338" target="_blank">📅 08:03 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/farahmand_alipour/6338" target="_blank">📅 08:03 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6337">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZMTx5dkGl32RMhG-1Hg_CtPAzpfVN27SicsOysr20M_aNLCquCTAtN-gFSbLC-onlxVwNmJMrlK0xifEzyk2wsUcaZW0pUF5FTYD0dJeuty-EFwUlZw5PYG9eQ6oyuaCWjKTQ9tOF4xI8uVayMzIWJhXhpZVLc3Zgi0V1mtIuxuGNfkk3n2KFE5zQBIix0FYskm02ZBXZ4FHoogqjFTyyp8KW2riGk3IG3Q6J98oEE0zNPingE_KCVaCHOXuCMLV4YEta8rNetg-zCZ18LGrjZPGH-NrrFfxsBJlvjhpVY46okXIEx12oo17GXcpQYvzP67av4_q4eoNs3lJ5O83Gg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تهدید تازه ترامپ‌: از پولهای بلوکه شده ایران، خسارت کشتی‌های آسیب دیده توسط جمهوری اسلامی را پرداخت میکنیم.</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/farahmand_alipour/6337" target="_blank">📅 08:00 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/farahmand_alipour/6337" target="_blank">📅 08:00 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6334">
@@ -417,7 +417,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <div class="tg-text">‏هشدار سپاه: هر پایگاهی در بریتانیا که برای انجام حملات علیه ایران مورد استفاده قرار گیرد، یک هدف مشروع خواهد بود.
 ‏واکنش سخنگوی دولت بریتانیا به هشدار : نیروهای مسلح ما آماده‌اند تا از بریتانیا در برابر هرگونه حمله محافظت کنند.
 بریتانیا به‌صورت شبانه‌روزی و در هماهنگی نزدیک با متحدان خود در ناتو، آماده دفاع از خود است.</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/farahmand_alipour/6332" target="_blank">📅 21:24 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/farahmand_alipour/6332" target="_blank">📅 21:24 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6331">
@@ -437,7 +437,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 اینه که ترامپ مستقیم میگه فاکتور هزینه
 حملات حوثی‌ها رو شما باید بدید!
 و این یعنی بازهم ایران باید هزینه سیاست‌های جمهوری اسلامی و نیروهای تحت حمایتش رو پرداخت کنه.</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/farahmand_alipour/6330" target="_blank">📅 18:37 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/farahmand_alipour/6330" target="_blank">📅 18:37 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6329">
@@ -518,7 +518,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 </div>
 <div class="tg-text">- رئیس جمهور سلام میرسونه و تشکر میکنه
 - باشه</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/farahmand_alipour/6321" target="_blank">📅 07:00 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/farahmand_alipour/6321" target="_blank">📅 07:00 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6320">
@@ -531,7 +531,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <div class="tg-post" id="msg-6319">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">مارکو روبیو وزیر خارجه آمریکا : جمهوری  اسلامی تفاهم نامه را نقض کرده و لذا دیگر  معتبر نیست.</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/farahmand_alipour/6319" target="_blank">📅 06:56 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/farahmand_alipour/6319" target="_blank">📅 06:56 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6318">
@@ -559,7 +559,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <div class="tg-text">حسن روحانی ۱۳۹۷
 تا آخر هم افتخار میکنیم به نفوذ
 در عراق و سوریه و لبنان و…..</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/farahmand_alipour/6317" target="_blank">📅 22:30 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/farahmand_alipour/6317" target="_blank">📅 22:30 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6316">
@@ -569,7 +569,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 مسیر مین‌گذاری‌شدۀ جنوب تنگۀ هرمز  [ آب‌های عمان] مسیر نابودی سرمایه ی شماست!
 قرارگاه خاتم هم دقایقی پیش هشدار داده بود که فقط از آب‌های تعیین شده (بخش ایران) باید تردد کنند.
 جمهوری اسلامی رسما آب‌های سرزمینی عمان رو هم ناامن کرده.</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/farahmand_alipour/6316" target="_blank">📅 22:22 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/farahmand_alipour/6316" target="_blank">📅 22:22 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6315">
@@ -589,7 +589,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <div class="tg-text">🚨
 🚨
 تهدید ترامپ: کشتی بزنید نیروگاه میزنم.</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/farahmand_alipour/6314" target="_blank">📅 18:06 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/farahmand_alipour/6314" target="_blank">📅 18:06 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6313">
@@ -644,7 +644,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 چهره زنان رو!
 بعد همین ها میگن اگه ما نبودیم داعش می‌اومد توی ایران
 داعش ۴۷ ساله که در ایران حکومت میکنه.</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/farahmand_alipour/6308" target="_blank">📅 23:28 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/farahmand_alipour/6308" target="_blank">📅 23:28 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6307">
@@ -971,7 +971,7 @@ Axios
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pmH5br_AnuNSDd5qaDbord9Fzizuh1JyCxq_Bg2f63KQM_Cmvud8actlktoO69hHhS-Hq_C_Hn_A1JigttLZCgy8J9aEJKDbnMhyhtSO_Ty41WzqyYVjYYfF1M5jliCmACa9QSVDsZvIroR1z9Dtopx9vdOusaQC5v_pDuMu-xZZ94sPfeNu9xdJH1d98o9hf38OxQGpaNeWgizWSy_aQ7_qlBLSZYUdDrK8IOguF_Im74C2taE1MsJwbJQ3SqiqHdljzZ5jrZxSvHervLoUxW1A_HS1-Z36NG9TLYr77sb9lVoKPpxfmuJtNrU2kfu8HF0Xybe3QN5Jux7foPx2fg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ :
 اگه قراره کسی دستگیر شود، سران جمهوری اسلامی هستند.</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/farahmand_alipour/6282" target="_blank">📅 21:09 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/farahmand_alipour/6282" target="_blank">📅 21:09 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6281">
