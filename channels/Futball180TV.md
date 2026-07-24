@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn5.telesco.pe/file/PWwb8sLpbgY0ZCNmZQLYm9Zam3CDDTGTgSh341yY00As8IFeXc6Yz9kjw5PFeDoH0cPDDlDtyh0ATYIOUffxHGM8t1B_6FtOKz1dyC7PT8JRLj6euAFG1xQVFpkM30LbnEdVI7VljHokLPFTyhQWMsZzL4z--roudc2rmR1jTVvzaJKc6HjbX_d3ePqCWvp36MaaCOmpBlk4qXzWXZhurtzXp_nfiP9xXfgSIF38tHfxV_jESyY-3PuSEPayEwAcTupwZBiw6z4rPuaH0qkwe9cM8SkxwXr2khVWdUNDBc0vnvP0shln7v-omG2DzjFs89dUres9r3_EiCpxqx7CMA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 جام جهانی 2026 | فوتبال 180</h1>
-<p>@Futball180TV • 👥 537K عضو</p>
+<p>@Futball180TV • 👥 536K عضو</p>
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-02 03:23:20</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-02 05:23:21</div>
 <hr>
 
 <div class="tg-post" id="msg-101723">
@@ -307,7 +307,7 @@
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/Futball180TV/101723" target="_blank">📅 03:00 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.44K · <a href="https://t.me/Futball180TV/101723" target="_blank">📅 03:00 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101722">
@@ -328,7 +328,7 @@
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/Futball180TV/101722" target="_blank">📅 02:54 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.07K · <a href="https://t.me/Futball180TV/101722" target="_blank">📅 02:54 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101721">
@@ -346,7 +346,7 @@
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 5.79K · <a href="https://t.me/Futball180TV/101721" target="_blank">📅 02:52 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.98K · <a href="https://t.me/Futball180TV/101721" target="_blank">📅 02:52 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101720">
@@ -363,7 +363,7 @@
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.7K · <a href="https://t.me/Futball180TV/101720" target="_blank">📅 02:47 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.77K · <a href="https://t.me/Futball180TV/101720" target="_blank">📅 02:47 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101719">
@@ -373,7 +373,7 @@
 انفجارهای سنگین در نقاط مختلف اهواز
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.09K · <a href="https://t.me/Futball180TV/101719" target="_blank">📅 02:46 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.79K · <a href="https://t.me/Futball180TV/101719" target="_blank">📅 02:46 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101718">
@@ -390,7 +390,7 @@
 انفجارهای سنگین در نقاط مختلف اهواز
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.39K · <a href="https://t.me/Futball180TV/101718" target="_blank">📅 02:44 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/Futball180TV/101718" target="_blank">📅 02:44 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101717">
@@ -401,7 +401,7 @@
 کریم‌آدیمی ستاره بارسلونا و خانواده‌اش
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.08K · <a href="https://t.me/Futball180TV/101717" target="_blank">📅 02:41 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.38K · <a href="https://t.me/Futball180TV/101717" target="_blank">📅 02:41 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101716">
@@ -417,7 +417,7 @@
 وضعیت تلخ کودکان در‌ جنوب کشور‌ بدلیل قطعی مکرر و گسترده برق...!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.35K · <a href="https://t.me/Futball180TV/101716" target="_blank">📅 02:35 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.59K · <a href="https://t.me/Futball180TV/101716" target="_blank">📅 02:35 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101715">
@@ -429,7 +429,7 @@
 اوتامندی رسما از مسابقات ملی برای آرژانتین خداحافظی کرد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.22K · <a href="https://t.me/Futball180TV/101715" target="_blank">📅 02:30 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.24K · <a href="https://t.me/Futball180TV/101715" target="_blank">📅 02:30 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101714">
@@ -457,7 +457,7 @@ Pinbet
 @Pinbet_official
 🔗
 @Pinbet_official</div>
-<div class="tg-footer">👁️ 5.93K · <a href="https://t.me/Futball180TV/101714" target="_blank">📅 02:29 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.86K · <a href="https://t.me/Futball180TV/101714" target="_blank">📅 02:29 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101713">
@@ -471,7 +471,7 @@ Pinbet
 </div>
 <div class="tg-text">🚨
 نیمار دوباره در برزیل جنجال به پا کرد! باشگاه سانتوس اعلام کرد نیمار به‌جای سفر با تیم برای دیدار کوپاسودامریکانا، در برزیل ماند تا روی آمادگی بدنی‌اش کار کند. اما ساعاتی بعد، او در یک تورنمنت پوکر با مبلغ بالا در سائوپائولو دیده شد! این اتفاق باعث شد خیلی…</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/Futball180TV/101713" target="_blank">📅 00:47 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/101713" target="_blank">📅 00:47 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101712">
@@ -489,7 +489,7 @@ Pinbet
 یه فرد فلسطینی رفته وسط اسپانیایی هایی که قهرمانی تیم ملی کشورشون در جام جهانی رو جشن گرفتن، پرچم فلسطین رو بلند کرده و اسپانیایی ها هم پرچم رو میارن پایین و پاره میکنن!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/101712" target="_blank">📅 00:19 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/101712" target="_blank">📅 00:19 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101711">
@@ -501,7 +501,7 @@ Pinbet
 لیورپول قصد دارد وینیسیوس جونیور را در تابستان آینده پس از پایان قراردادش با رئال مادرید به عنوان بازیکن آزاد جذب کند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/101711" target="_blank">📅 00:05 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/101711" target="_blank">📅 00:05 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101710">
@@ -511,7 +511,7 @@ Pinbet
 ارزشمندترین بازیکنای دنیا تو ترانسفرمارکت
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/101710" target="_blank">📅 23:53 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/101710" target="_blank">📅 23:53 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101709">
@@ -528,7 +528,7 @@ Pinbet
 در سال ۲۰۱۶، مرتضی احمدی، پسربچه افغان که توان خرید پیراهن مسی را نداشت، با یک کیسه پلاستیکی پیراهنی شبیه لباس ستاره آرژانتینی ساخت. تصویر او در شبکه‌های اجتماعی جهانی شد و به گوش لیونل مسی رسید. مسی تحت تأثیر داستانش، مرتضی را به قطر دعوت کرد و در آنجا با او دیدار کرد؛ لحظه‌ای که رؤیای یک کودک عاشق فوتبال را به واقعیت تبدیل کرد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/101709" target="_blank">📅 23:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/101709" target="_blank">📅 23:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101708">
@@ -543,7 +543,7 @@ Pinbet
 <div class="tg-text">لطفا هوش مصنوعی رو متوقف کنید.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/101708" target="_blank">📅 23:04 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/101708" target="_blank">📅 23:04 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101707">
@@ -558,7 +558,7 @@ Pinbet
 ۴ آبان ۱۴۰۵ : مراسم توپ طلا ۲۰۲۶
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/101707" target="_blank">📅 22:57 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/101707" target="_blank">📅 22:57 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101706">
@@ -570,7 +570,7 @@ Pinbet
 ❤️
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/101706" target="_blank">📅 22:24 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/101706" target="_blank">📅 22:24 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101705">
@@ -581,7 +581,7 @@ Pinbet
 به پرتغال هشدار داده شده بعد از خداحافظی رونالدو ممکنه بخش زیادی از توجه و درآمدش رو از دست بده. کارشناسان میگن فدراسیون باید از الان برای دوران بدون کریستیانو آماده بشه.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/101705" target="_blank">📅 22:18 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/101705" target="_blank">📅 22:18 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101704">
@@ -597,7 +597,7 @@ Pinbet
 ✈️
 🏆
 @abitajsport</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/101704" target="_blank">📅 22:18 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/101704" target="_blank">📅 22:18 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101703">
@@ -617,7 +617,7 @@ Pinbet
 🇩🇪
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/101703" target="_blank">📅 22:00 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/101703" target="_blank">📅 22:00 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101702">
@@ -628,7 +628,7 @@ Pinbet
 ترکیب منتخب جام‌جهانی از نگاه فیفا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/101702" target="_blank">📅 21:55 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/101702" target="_blank">📅 21:55 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101701">
@@ -639,7 +639,7 @@ Pinbet
 رئال مادرید شبیه یک تیم ملی بود؛ چون در هر پست، یکی از بهترین بازیکنان دنیا حضور داشت. هم‌تیمی بودن با کریستیانو رونالدو، بیل، بنزما، مودریچ، کاکا، کاسیاس، سرخیو راموس و په‌په واقعاً چیزی خاص و فراموش‌نشدنی بود. هیچ‌وقت کامل متوجه نشدم که برای بزرگ‌ترین باشگاه دنیا بازی میکنم، چون فقط داشتم از فوتبال لذت میبردم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/101701" target="_blank">📅 21:21 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/101701" target="_blank">📅 21:21 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101700">
@@ -652,7 +652,7 @@ Pinbet
 چلسی به احتمال زیاد قرارداد با ماکسین لاکرو مدافع تیم کریستال پالاس را با مبلغی در حدود 52 میلیون دلار نهایی خواهد کرد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/101700" target="_blank">📅 21:19 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/101700" target="_blank">📅 21:19 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101699">
@@ -663,7 +663,7 @@ Pinbet
 فدراسیون فوتبال نروژ قصد دارد بعد از دخالت دونالد ترامپ در ماجرای فولارین بالوگون، یک شکایت رسمی به فیفا ارائه کند. این فدراسیون نمی‌خواهد این دخالت بدون عواقب باقی بماند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/101699" target="_blank">📅 21:09 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/101699" target="_blank">📅 21:09 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101698">
@@ -674,7 +674,7 @@ Pinbet
 آنجلوتی پیشنهاد فدراسیون فوتبال ایتالیا برای هدایت کشورش را رد کرده و گفته که میخواد در برزیل بمونه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/101698" target="_blank">📅 20:57 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/101698" target="_blank">📅 20:57 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101697">
@@ -690,7 +690,7 @@ Pinbet
 این نسل از اسپانیا قهرمانی در یورو زیر ۱۷ سال، یورو زیر ۱۹ سال، جام ملت‌های اروپا، لیگ ملت‌ها و جام جهانی رو به دست آورده.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/101697" target="_blank">📅 20:53 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/101697" target="_blank">📅 20:53 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101696">
@@ -699,7 +699,7 @@ Pinbet
 <div class="tg-text">نیمار در کنار بتموبیل و هلیکوپتر و جتش :
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/101696" target="_blank">📅 20:47 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/101696" target="_blank">📅 20:47 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101695">
@@ -714,7 +714,7 @@ Pinbet
 #رسمیییییی؛ باشگاه بارسلونا اعلام کرد که رباط جانبی داخلی زانو راست فرنکی‌ دی‌یونگ دچار پارگی شده و ماه‌ها شرایط بازی برای کاتالان‌ها رو نداره
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/101695" target="_blank">📅 20:34 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/101695" target="_blank">📅 20:34 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101694">
@@ -728,7 +728,7 @@ Pinbet
 باشگاه آرسنال قصد داره پیشنهادی به ارزش 70 میلیون پوند برای جذب برونو گیمارش به نیوکاسل ارائه بده.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/101694" target="_blank">📅 20:33 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/101694" target="_blank">📅 20:33 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101693">
@@ -744,7 +744,7 @@ Pinbet
 😀
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/101693" target="_blank">📅 20:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/101693" target="_blank">📅 20:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101692">
@@ -755,7 +755,7 @@ Pinbet
 😃
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/101692" target="_blank">📅 20:14 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/101692" target="_blank">📅 20:14 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101691">
@@ -767,7 +767,7 @@ Pinbet
 🐐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/101691" target="_blank">📅 20:08 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/101691" target="_blank">📅 20:08 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101690">
@@ -778,7 +778,7 @@ Pinbet
 فوت‌مرتکاتو: پاتریک‌ویرا اسطوره فوتبال جهان بزودی سرمربی تیم‌ملی سنگال می‌شود!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/101690" target="_blank">📅 20:05 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/101690" target="_blank">📅 20:05 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101689">
@@ -794,7 +794,7 @@ Pinbet
 ؛ باشگاه بارسلونا اعلام کرد که رباط جانبی داخلی زانو راست فرنکی‌ دی‌یونگ دچار پارگی شده و ماه‌ها شرایط بازی برای کاتالان‌ها رو نداره
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/101689" target="_blank">📅 20:02 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/101689" target="_blank">📅 20:02 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101688">
@@ -809,7 +809,7 @@ Pinbet
 توپ به سمت بالا پرتاب شد و به دست من برخورد کرد. داور بلافاصله کارت زرد به من نشان داد. من مطمئنم که این فقط به این دلیل بود که مسی آنجا حضور داشت. ما 2 بر 0 جلو بودیم، بنابراین احساس می‌کردم که داور فکر می‌کرد:  بیایید کمی به مسی و آرژانتین کمک کنیم.'"
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/101688" target="_blank">📅 19:55 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/101688" target="_blank">📅 19:55 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101687">
@@ -818,7 +818,7 @@ Pinbet
 فوووری و رسمی؛ تریلر FC 27 منتشر شد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/101687" target="_blank">📅 19:41 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/101687" target="_blank">📅 19:41 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101686">
@@ -829,7 +829,7 @@ Pinbet
 #رسمیییییی: الیوت اندرسون ستاره تیم‌ملی انگلیس به منچسترسیتی پیوست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/101686" target="_blank">📅 19:39 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/101686" target="_blank">📅 19:39 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101685">
@@ -841,7 +841,7 @@ Pinbet
 : الیوت اندرسون ستاره تیم‌ملی انگلیس به منچسترسیتی پیوست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/101685" target="_blank">📅 19:38 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/101685" target="_blank">📅 19:38 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101684">
@@ -850,7 +850,7 @@ Pinbet
 <div class="tg-text">کاسمیرو رویاهای همتونو داره زندگی میکنه.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/101684" target="_blank">📅 19:37 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/101684" target="_blank">📅 19:37 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101683">
@@ -862,12 +862,12 @@ Pinbet
 : قرارداد لوکا مودریچ با میلان به مدت یک‌فصل دیگر تمدید شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/101683" target="_blank">📅 19:37 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/101683" target="_blank">📅 19:37 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101682">
 <div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/L5tJxu85fvcxFHfJd7aqM7dvjb3abNkZlimnP76-E-S71SXFX66zk9WarteMiW3iEq30FsrbRXtP9HTZp3SR95vuzmSrBKEAKCWDcnlxqyB9NyFDgapG8klNZV0gnrxGskDmxpNwXKOUoltN4muUZAnLq9dml7IP0S_AZTqwE3fJKNjJLDrJJxxWFko9Ljt1qXUBvu7o163jZ-pns51MEOw3D51WTx-CjUJdwXdvekVCb3zUU4zrTrfPtBmDClUn4si-IwtKY2ABW7FLoVBRaBYRlZoUcuLE6X0sVB5_Gy23gn7qdTJ7kPXx-ocHP9V9MmfNZy4Bp7U8SyogBLT_og.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XVTOjhTjr3qKipc0YlSgDx2Fx0PhmT93e-LIxHMi8cCnetKaUur_fFa4wXV9RZX0BTQb0KjggRPE1rrltTlL2yRDpdlQGFX_p1Hytmf-dwl1_8WRoCVPMPbPOmuJjvHpz14PRVri2_zYWjepBAkeIqUIEkK5kcAIrlChz7BDzV5xjDu08hZu_XjwSg8255g9w-dLy3_m-5q3L7dKyJiwSH6BP_oQ3b4T2O5ZvSp7D1uDGxlc0JhHXhMny-OiDf1Ix3ercZFfbQCT05S2LChMWWYx4d7u1cuX_BgKAEUNqTDrlqC2ZE_HRp420rUMoB2-XW60IjxOtdXh5xT9ce77Bw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 آنالیز
 دقیق،
@@ -890,7 +890,7 @@ Pinbet
 @Pinbet_official
 🔗
 @Pinbet_official</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/101682" target="_blank">📅 19:37 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/101682" target="_blank">📅 19:37 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101681">
@@ -908,7 +908,7 @@ Pinbet
 نتانیاهو: باید بگویم، در کنار پله. اما در دوران ما و در دهه‌های اخیر قطعا مسی. او چند سال پیش به اسرائیل سفر کرد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/101681" target="_blank">📅 19:26 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/101681" target="_blank">📅 19:26 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101680">
@@ -918,7 +918,7 @@ Pinbet
 اگر از اسرائیل بخواهم، ظرف دو دقیقه به این عملیات ملحق خواهد شد. ایران به اندازه کافی احساس درد نکرده است!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/101680" target="_blank">📅 19:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/101680" target="_blank">📅 19:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101679">
@@ -936,7 +936,7 @@ Pinbet
 تنها جمله درست گفته شده از صداوسیما در سال جاری خطاب به امیرحسین ثابتی: ‏مگه تنگه هرمز مال ننت بوده که بدیم بره:)))
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/101679" target="_blank">📅 19:18 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/101679" target="_blank">📅 19:18 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101677">
@@ -949,7 +949,7 @@ Pinbet
 تبلیغات جورجینا واسه برند خودش Mimoa
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/101677" target="_blank">📅 19:13 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/101677" target="_blank">📅 19:13 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101676">
@@ -960,7 +960,7 @@ Pinbet
 منتخب بازیکنان آزاد فوتبال جهان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/101676" target="_blank">📅 19:05 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/101676" target="_blank">📅 19:05 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101675">
@@ -976,7 +976,7 @@ Pinbet
 ویرجیل فن‌دایک مقابل بازیکنان بزرگ فوتبال
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/101675" target="_blank">📅 19:00 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/101675" target="_blank">📅 19:00 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101674">
@@ -997,7 +997,7 @@ Pinbet
 ‌
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/101674" target="_blank">📅 18:40 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/101674" target="_blank">📅 18:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101673">
@@ -1013,7 +1013,7 @@ Pinbet
 روایت عادل فردوسی پور از الکس فرگوسن
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/101673" target="_blank">📅 18:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/101673" target="_blank">📅 18:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101672">
@@ -1025,7 +1025,7 @@ Pinbet
 ؛ باشگاه نساجی مازندران با ارائه پیشنهادی خواستار جذب محمد خلیفه به صورت قرضی به مدت نیم فصل از استقلال شد. این درخواست از سوی مجتبی‌حسینی به شهاب‌زندی مدیرعامل این تیم منتقل شده است
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/101672" target="_blank">📅 18:06 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/101672" target="_blank">📅 18:06 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101671">
@@ -1041,7 +1041,7 @@ Pinbet
 مارک کوکوریا موهای بلندش را فقط به خاطر استایلش نگه نداشته است. پسر بزرگ او، «ماتئو»، مبتلا به اوتیسم است و در تشخیص چهره‌ها مشکل دارد. کوکوریا می‌گوید موهای بلندش کمک میکند پسرش هنگام تماشای مسابقه بتواند او را راحت‌تر بین ۲۲ بازیکن پیدا کند. به همین دلیل هم قصد ندارد موهایش را کوتاه کند؛ چون برای پسرش فقط یک مدل مو نیست، بلکه نشانه‌ای است که باعث می‌شود پدرش را گم نکند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/101671" target="_blank">📅 18:06 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/101671" target="_blank">📅 18:06 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101668">
@@ -1055,7 +1055,7 @@ Pinbet
 رونمایی الهلال عربستان از کیت‌دوم فصل‌آینده
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/101668" target="_blank">📅 18:02 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/101668" target="_blank">📅 18:02 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101667">
@@ -1066,7 +1066,7 @@ Pinbet
 جلد نهایی بازی FC27
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/101667" target="_blank">📅 18:01 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/101667" target="_blank">📅 18:01 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101666">
@@ -1083,7 +1083,7 @@ Pinbet
 خاطره قایدی از اولین بازی در استقلال: جمله‌ای که بعد چند سال هنوز از ذهن قایدی پاک نشده
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/101666" target="_blank">📅 17:40 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/101666" target="_blank">📅 17:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101665">
@@ -1100,7 +1100,7 @@ Pinbet
 صحبت‌های چندی‌پیش مهدی‌مهدوی‌کیا اسطوره فوتبال ایران درباره تیم‌ملی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/101665" target="_blank">📅 17:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/101665" target="_blank">📅 17:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101664">
@@ -1111,7 +1111,7 @@ Pinbet
 گارناچو رسماً به صورت قرضی با بند خرید اجباری به استون ویلا پیوست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/101664" target="_blank">📅 17:19 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/101664" target="_blank">📅 17:19 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101663">
@@ -1135,7 +1135,7 @@ Pinbet
 کوارتسخلیا ۲۳ گل‌و ۱۰پاس‌گل‌
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/101663" target="_blank">📅 17:01 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/101663" target="_blank">📅 17:01 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101662">
@@ -1152,7 +1152,7 @@ Pinbet
 حمایت سید جلال و قیاسی از علی دایی و کنایه‌شان به بیرانوند: بعضی‌ها اصلا نمیدونن احترام چیه، هیچی دیگه سَر جاش نیست!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/101662" target="_blank">📅 16:40 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/101662" target="_blank">📅 16:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101661">
@@ -1169,7 +1169,7 @@ Pinbet
 نگرش متفاوت دو سرمربی؛ یکی شکست را پذیرفته و با قبول واقعیت به فکر آینده‌ست؛ دیگری زمین و زمان را بابت عدم صعود از گروه در جام‌جهانی ۴٨ تیمی مقصر می‌داند
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/101661" target="_blank">📅 16:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/Futball180TV/101661" target="_blank">📅 16:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101660">
@@ -1187,7 +1187,7 @@ Pinbet
 مهدی‌قایدی: حسرت خیلی زیادی دارم که چرا بهم در جام‌جهانی بازی نرسید
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/Futball180TV/101660" target="_blank">📅 16:02 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/Futball180TV/101660" target="_blank">📅 16:02 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101659">
@@ -1197,7 +1197,7 @@ Pinbet
 فرانسه کارکنان سفارت خود در تهران را تخلیه کرد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/Futball180TV/101659" target="_blank">📅 15:44 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/101659" target="_blank">📅 15:44 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101658">
@@ -1215,7 +1215,7 @@ Pinbet
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/Futball180TV/101658" target="_blank">📅 15:40 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/Futball180TV/101658" target="_blank">📅 15:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101657">
@@ -1225,7 +1225,7 @@ Pinbet
 چند سوپرسیو دروازه‌بان در فصول‌گذشته
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/Futball180TV/101657" target="_blank">📅 15:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/Futball180TV/101657" target="_blank">📅 15:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101656">
@@ -1242,7 +1242,7 @@ Pinbet
 علی‌قلی‌زاده: امیر‌ عابدزاده استعداد بی‌نظیری در نوشتن و رپ داره؛ از او خیلی چیزها یاد گرفتم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/101656" target="_blank">📅 15:04 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/101656" target="_blank">📅 15:04 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101655">
@@ -1253,7 +1253,7 @@ Pinbet
 🤣
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/101655" target="_blank">📅 15:04 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/101655" target="_blank">📅 15:04 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101654">
@@ -1270,7 +1270,7 @@ Pinbet
 بحث تئوری توطئه نیست و هیچ خدشه ای به قهرمانی شایسته اسپانیا وارد نمیکنم اما مطمئنم تو رختکن یه خبر بد یا یه اتفاق ناگوار برای آرژانتین افتاده.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/Futball180TV/101654" target="_blank">📅 14:42 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/101654" target="_blank">📅 14:42 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101653">
@@ -1287,7 +1287,7 @@ Pinbet
 رضا جاودانی در جواب نگرانی عادل فردوسی‌پور، به جای فکر کردن به خودش، با آرامش گفت: «بذار بیکار بشم... مهم نیست.»
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/101653" target="_blank">📅 14:40 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/Futball180TV/101653" target="_blank">📅 14:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101652">
@@ -1304,7 +1304,7 @@ Pinbet
 شیروانی، مافیا ایرانی فوتبال ایتالیا: به اینزاگی گفتم طارمی را جذب کن، اما طارمی در اینتر جواب نداد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/101652" target="_blank">📅 14:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/101652" target="_blank">📅 14:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101651">
@@ -1315,7 +1315,7 @@ Pinbet
 کریم‌آدیمی برای عقد قرارداد رسمی با باشگاه بارسلونا راهی دفاتر نیوکمپ شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/101651" target="_blank">📅 14:12 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/Futball180TV/101651" target="_blank">📅 14:12 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101650">
@@ -1332,7 +1332,7 @@ Pinbet
 محمد شیروانی از اعضای ایرانی مافیای فوتبال ایتالیا: با دیگو مارادونا رفیق صمیمی بودم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/Futball180TV/101650" target="_blank">📅 14:01 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/Futball180TV/101650" target="_blank">📅 14:01 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101649">
@@ -1345,7 +1345,7 @@ Pinbet
 از مارکا: انریکه در روزهای اخیر با فران‌تورس تماس گرفته و پروژه آینده تیمش با حضور این بازیکن رو توضیح داده. قراره تورس نظر نهایی خودش رو بزودی اعلام کنه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/Futball180TV/101649" target="_blank">📅 13:48 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/Futball180TV/101649" target="_blank">📅 13:48 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101648">
@@ -1361,7 +1361,7 @@ Pinbet
 سیدجلال‌حسینی: بدترین خاطره دوران فوتبالم بازی معروف با اولسان‌هیوندای کره‌جنوبی است!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/Futball180TV/101648" target="_blank">📅 13:40 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/Futball180TV/101648" target="_blank">📅 13:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101647">
@@ -1378,7 +1378,7 @@ Pinbet
 کریم‌آدیمی برای عقد قرارداد رسمی با باشگاه بارسلونا راهی دفاتر نیوکمپ شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/101647" target="_blank">📅 13:24 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/101647" target="_blank">📅 13:24 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101646">
@@ -1395,7 +1395,7 @@ Pinbet
 یادی‌کنیم از دوران درخشان سادیو‌مانه سنگالی در ایام حضورش در لیورپول
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/101646" target="_blank">📅 13:23 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/101646" target="_blank">📅 13:23 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101645">
@@ -1423,7 +1423,7 @@ Pinbet
 @Pinbet_official
 🔗
 @Pinbet_official</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/Futball180TV/101645" target="_blank">📅 13:23 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/101645" target="_blank">📅 13:23 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101644">
@@ -1435,19 +1435,19 @@ Pinbet
 مارکا: رئال‌مادرید فارغ از جذب رودری، تمام تلاش خودشو برای جذب اولیسه به کار میگیره
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/101644" target="_blank">📅 13:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/Futball180TV/101644" target="_blank">📅 13:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101643">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EN1UNmVrKeI826-X5byHZv2ht4bUug27jP5XK5MsFE4SkHJDPEzIWcppNN2M7ZqQZyhMHu9nLw-ljqzqEj4wxVNfl18a1e0pidKvIHIB2LQOfTsdT6WSf47ZNo3hoUvtZAe1A9YRZ6U93K2md5dCY7V2-0dmk4xTrcDD4vLO0FUVVPbkoFWzSJAg0auPwOmU9aefZoY4McEHhMwmvu31cJFVJF0uPMbjdlb60wUrxcCDJC37vbe4gDGjwYRQDir0dsdhC838ff4Ze0KlkK0sB1baGYlOwLVjOti7zZqolG5gBWVPAEVfg2SoLcAx8sHHTANT1EhTfPcqJz4f35EczA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BSqjBXBpZb4xz4VaczMQTwdU-V465G8ND6aAV_uiHAB_MMvd4eiucSkhAgLjb7A4ej-eimkdKjS3ZzigaIe9iLuUlSdHIpT_IC9qxodeQcmHtoROAqgJj35bm17QfIDQRtt6Or48iHuJWSSlTLFBU4TRycaqRT-P6yW-30o_CQZ46Zmtfq4wADcxTupnvLAREmmdpYATdtk-I7cNdfu8p9p-svoXw_UScM0ih8cPYMw_AuU8I4i3-LP9CaTSglUGcQWlRbPHJfFkKw0ZgUGUkhFbl5kERS4RrkVBeLxzy1Ay02g6KshQUz90rGzrUCsEBTT1phZzvBwbZAF9pQkvCg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🇪🇸
 ⚽️
 مارکا: رئال‌مادرید فارغ از جذب رودری، تمام تلاش خودشو برای جذب اولیسه به کار میگیره
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/101643" target="_blank">📅 13:14 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/Futball180TV/101643" target="_blank">📅 13:14 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101642">
@@ -1464,7 +1464,7 @@ Pinbet
 هنر استپ‌ و گلزنی از برخی ستارگان فوتبال
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/Futball180TV/101642" target="_blank">📅 13:03 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/101642" target="_blank">📅 13:03 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101641">
@@ -1476,7 +1476,7 @@ Pinbet
 !
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/101641" target="_blank">📅 12:50 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/101641" target="_blank">📅 12:50 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101640">
@@ -1487,24 +1487,24 @@ Pinbet
 خانم‌شکیرا و چنتا از اساطیر NBA
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/Futball180TV/101640" target="_blank">📅 12:46 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/Futball180TV/101640" target="_blank">📅 12:46 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101639">
 <div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e8fa0ff87b.mp4?token=IYVnyLswHH1i588cY6yst0rUeB4PMMq0-EgZ3Y-kR8jHncANgjU3lurcgipDrRfRarc6m65cTfvefnJROaBs6efbE0Djpzk8LRM4G_EC-636jTB7SK19-6WPJqx7TzYqxIaCYnv7TLM53BDbtg1lL-QHGTjjoRy1kDkOV8iekHVxfENJt5FBWaMPqWusI6sP4OeN6UJyukMhIHFOi-GtcmT5YWOattLwMjX7MENZoi46zCZPOLtIbWE_otR0AxQnCtUABsZAUTJeX-CO1I6C5AXWrGtk0pDikqG3yVNSqZNkKgyDsr4FH5vBzucSDpoFHJcyanCP26ZzFDUQHLNjIw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/e8fa0ff87b.mp4?token=qY-pbv-ckaGRyDqwAxV_IG3gv4iDhnJgQDHGI5sSkNjktRpZAzzKMvwmbEwNrzYEs4ej1rTR2O9niPIYtODapGEArIbCUI8tULBCptMK6u7LIBjQp3BF1oCThJ5BCYq1rnXKz0Q1mWWTu4W5fLpzwAkVfz3p5RMcxjfBZqasjaQ4Gkj78HeBv-KBe_otnLf3GwY2a4Dr2l-Hhw8Il6TulvsLmIDHHe4-stJPdcgFZz3c-nmn1ADq3DV_2IBuh5tVesXEXf0lCjoIHDUzsfbDy0k2Bv51-pEfvf-BJRI4OVRnQV6Rh4pntfhbqv7wilqbJxFK1DGA6Mtl_oDUOEUOYg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/e8fa0ff87b.mp4?token=IYVnyLswHH1i588cY6yst0rUeB4PMMq0-EgZ3Y-kR8jHncANgjU3lurcgipDrRfRarc6m65cTfvefnJROaBs6efbE0Djpzk8LRM4G_EC-636jTB7SK19-6WPJqx7TzYqxIaCYnv7TLM53BDbtg1lL-QHGTjjoRy1kDkOV8iekHVxfENJt5FBWaMPqWusI6sP4OeN6UJyukMhIHFOi-GtcmT5YWOattLwMjX7MENZoi46zCZPOLtIbWE_otR0AxQnCtUABsZAUTJeX-CO1I6C5AXWrGtk0pDikqG3yVNSqZNkKgyDsr4FH5vBzucSDpoFHJcyanCP26ZzFDUQHLNjIw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/e8fa0ff87b.mp4?token=qY-pbv-ckaGRyDqwAxV_IG3gv4iDhnJgQDHGI5sSkNjktRpZAzzKMvwmbEwNrzYEs4ej1rTR2O9niPIYtODapGEArIbCUI8tULBCptMK6u7LIBjQp3BF1oCThJ5BCYq1rnXKz0Q1mWWTu4W5fLpzwAkVfz3p5RMcxjfBZqasjaQ4Gkj78HeBv-KBe_otnLf3GwY2a4Dr2l-Hhw8Il6TulvsLmIDHHe4-stJPdcgFZz3c-nmn1ADq3DV_2IBuh5tVesXEXf0lCjoIHDUzsfbDy0k2Bv51-pEfvf-BJRI4OVRnQV6Rh4pntfhbqv7wilqbJxFK1DGA6Mtl_oDUOEUOYg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 ⚠️
 سید جلال حسینی: اشتباه کردم همه زندگیم رو برای فوتبال گذاشتم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/Futball180TV/101639" target="_blank">📅 12:40 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/Futball180TV/101639" target="_blank">📅 12:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101638">
@@ -1516,7 +1516,7 @@ Pinbet
 بیلد‌آلمان: آرسنال حاضر است برای جذب دیامانده ستاره ساحل‌عاج مبلغ ۱۰۰ میلیون یورو پرداخت کند اما این بازیکن خواستار حضور در پاری‌سن‌ژرمن شده است
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/Futball180TV/101638" target="_blank">📅 12:30 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/Futball180TV/101638" target="_blank">📅 12:30 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101637">
@@ -1535,7 +1535,7 @@ Pinbet
 ‌
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/101637" target="_blank">📅 12:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/Futball180TV/101637" target="_blank">📅 12:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101636">
@@ -1545,7 +1545,7 @@ Pinbet
 مایکل اولیسه پس از تعطیلاتش باید به دنبال خانه جدیدی در مونیخ باشد. او از سپتامبر ۲۰۲۴ ویلای ژروم بواتنگ در گرونوالد را اجاره کرده. بواتنگ اکنون می‌خواهد ملک لوکس خود را بفروشد، بنابراین اولیسه باید تا پایان ماه اوت از آنجا نقل مکان کند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/101636" target="_blank">📅 12:16 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/Futball180TV/101636" target="_blank">📅 12:16 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101632">
@@ -1561,7 +1561,7 @@ Pinbet
 کیت‌لورفته جدید رئال‌مادرید که قراره فردا رسما رونمایی بشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/Futball180TV/101632" target="_blank">📅 12:01 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/Futball180TV/101632" target="_blank">📅 12:01 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101631">
@@ -1572,7 +1572,7 @@ Pinbet
 هواداران آرژانتین بعد از شکست مقابل اسپانیا در فینال جام جهانی 2026، یک دادخواست برای تکرار بازی فینال راه‌اندازی کرده‌اند. تا امروز بیش از 61 هزار و 500 نفر این درخواست را امضا کرده‌اند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/101631" target="_blank">📅 11:54 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/Futball180TV/101631" target="_blank">📅 11:54 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101630">
@@ -1584,7 +1584,7 @@ Pinbet
 لاگاتزتا: پپ‌گواردیولا پیشنهاد تیم‌ملی ایتالیا برای نشستن روی نیمکت را رد کرد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/Futball180TV/101630" target="_blank">📅 11:45 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/Futball180TV/101630" target="_blank">📅 11:45 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101629">
@@ -1602,7 +1602,7 @@ Pinbet
 آنالیز‌بازی رودری ستاره تیم‌ملی اسپانیا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/Futball180TV/101629" target="_blank">📅 11:40 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/Futball180TV/101629" target="_blank">📅 11:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101628">
@@ -1613,7 +1613,7 @@ Pinbet
 اسکواد احتمالی آرژانتین در جام‌جهانی بعدی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/Futball180TV/101628" target="_blank">📅 11:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/Futball180TV/101628" target="_blank">📅 11:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101627">
@@ -1623,7 +1623,7 @@ Pinbet
 - نیمار :
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/Futball180TV/101627" target="_blank">📅 11:14 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/Futball180TV/101627" target="_blank">📅 11:14 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101626">
@@ -1634,7 +1634,7 @@ Pinbet
 خانم‌شکیرا و چنتا از اساطیر NBA
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/Futball180TV/101626" target="_blank">📅 11:04 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/Futball180TV/101626" target="_blank">📅 11:04 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101625">
@@ -1646,7 +1646,7 @@ Pinbet
 لکیپ: انریکه و پاریس تا 2030 برای تمدید قرارداد به توافق رسیدند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/Futball180TV/101625" target="_blank">📅 10:52 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/Futball180TV/101625" target="_blank">📅 10:52 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101624">
@@ -1663,7 +1663,7 @@ Pinbet
 سید جلال: حسین‌ماهینی واقعا بازیکن‌نفهمی بود. همیشه منو عصبی میکرد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/Futball180TV/101624" target="_blank">📅 10:40 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/Futball180TV/101624" target="_blank">📅 10:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101623">
@@ -1680,7 +1680,7 @@ Pinbet
 به‌بهانه صحبت‌های اخیر قلعه‌نویی؛ یادی‌کنیم از روزی که مایلی‌کهن با شدیدترین الفاظ علیه سرمربی فعلی تیم‌منتخب ایران صحبت و افشاگری کرد!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/Futball180TV/101623" target="_blank">📅 10:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/Futball180TV/101623" target="_blank">📅 10:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101622">
@@ -1698,7 +1698,7 @@ Pinbet
 ۲ سال دیگر قراردادم تمام میشود، اگر آن موقع استقلال من را خواست، برمی‌گردم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/Futball180TV/101622" target="_blank">📅 10:12 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/Futball180TV/101622" target="_blank">📅 10:12 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101621">
@@ -1715,7 +1715,7 @@ Pinbet
 سیدجلال: بیرانوند رو مخ‌ترین همبازی بود
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/Futball180TV/101621" target="_blank">📅 10:04 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/Futball180TV/101621" target="_blank">📅 10:04 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101620">
@@ -1725,7 +1725,7 @@ Pinbet
 استوری رسول خادم برای عادل فردوسی‌پور
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/Futball180TV/101620" target="_blank">📅 09:37 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/Futball180TV/101620" target="_blank">📅 09:37 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101619">
@@ -1742,7 +1742,7 @@ Pinbet
 صحبت‌های جالب علی‌قلی‌زاده بازیکن تیم‌ملی درباره همسرش که فوتبالیست هست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/Futball180TV/101619" target="_blank">📅 09:20 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/Futball180TV/101619" target="_blank">📅 09:20 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-101618">
@@ -1759,7 +1759,7 @@ Pinbet
 سیدجلال‌حسینی اسطوره پرسپولیس: رپر مورد علاقم تتلو هست. بعضی وقتا هم شایع!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/Futball180TV/101618" target="_blank">📅 09:03 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/Futball180TV/101618" target="_blank">📅 09:03 · 01 Mordad 1405</a></div>
 </div>
 
 <hr>
