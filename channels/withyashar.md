@@ -292,21 +292,21 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-04 00:45:30</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-04 01:53:38</div>
 <hr>
 
 <div class="tg-post" id="msg-19702">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">یک پهپاد در نزدیکی منزل ایتمار بن گویر، وزیر امنیت ملی اسرائیل، سقوط کرده است ، جزئیات در حال بررسی است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.4K · <a href="https://t.me/withyashar/19702" target="_blank">📅 23:09 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/19702" target="_blank">📅 23:09 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19701">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">دریای قزوین
 😁</div>
-<div class="tg-footer">👁️ 98.5K · <a href="https://t.me/withyashar/19701" target="_blank">📅 23:06 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/19701" target="_blank">📅 23:06 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19700">
@@ -314,7 +314,7 @@
 <div class="tg-text">وزارت امور خارجه ایران:
 ما محکوم می‌کنیم اقدام دولت اوکراین مبنی بر حمله به یک کشتی تجاری ایرانی در دریای قزوين«خزر»که امروز صبح رخ داد. این حمله منجر به انفجار کشتی و شهادت یکی از ملوانان و زخمی شدن ملوان دیگری شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/19700" target="_blank">📅 23:04 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/19700" target="_blank">📅 23:04 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19699">
@@ -325,28 +325,28 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/19699" target="_blank">📅 22:49 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/19699" target="_blank">📅 22:49 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19698">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">کانال 12 : بنیامین نتانیاهو تصمیم دارد در نشستی در کاخ سفید، اطلاعاتی درباره پیشرفت برنامه هسته‌ای ایران را در اختیار ترامپ قرار دهد
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/19698" target="_blank">📅 22:31 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/19698" target="_blank">📅 22:31 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19697">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">زلنسکی : ما دریافتیم که ماهواره‌های روسی به تهران در حمله به مناطق خاورمیانه کمک می‌کنن
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/19697" target="_blank">📅 22:30 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/19697" target="_blank">📅 22:30 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19696">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">خبرگزاری وای‌نت : قطر و عمان ،رژیم تهران را تحت فشار گذاشتند تا سازش کند و از یک عملیات تقریبا قطعی و بزرگ آمریکا جلوگیری کند
 @WarRoom</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/19696" target="_blank">📅 21:59 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/19696" target="_blank">📅 21:59 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19695">
@@ -357,14 +357,14 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/19695" target="_blank">📅 21:57 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/19695" target="_blank">📅 21:57 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19694">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">🥛
 امشب دوغ  میزنمااااااا</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/19694" target="_blank">📅 21:44 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/19694" target="_blank">📅 21:44 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19693">
@@ -372,7 +372,7 @@
 <div class="tg-text">ترامپ , تلفنی به یک خبرنگار از شبکه فرانسوی LCI:
 اگر از ایران ۱۰۰ درصد آنچه را که می‌خواهیم دریافت نکنیم، قطعاً بازگشت کامل به درگیری‌های نظامی را مدنظر قرار خواهم داد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/19693" target="_blank">📅 21:40 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/19693" target="_blank">📅 21:40 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19692">
@@ -383,19 +383,19 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/19692" target="_blank">📅 21:31 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/19692" target="_blank">📅 21:31 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19691">
 <div class="tg-post-header">📌 پیام #89</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/19691" target="_blank">📅 21:28 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/19691" target="_blank">📅 21:28 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19690">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">سخنگوی سپاه: در طی ۱۵ روز نبرد، نیروهای مسلح ایران ۱۱ فروند جنگنده و بالگرد آمریکایی را در پایگاه‌های منطقه و روی زمین منهدم کردند؛  شامل یک F-15، یک P-8، یک C-17، هشت هواپیمای سوخت‌رسان و ۱۷ پهپاد شناسایی و عملیاتی.
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/19690" target="_blank">📅 21:24 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/19690" target="_blank">📅 21:24 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19689">
@@ -403,7 +403,7 @@
 <div class="tg-text">ایلان ماسک: در سیاست زیاده‌روی کردم!
 بهتر بود به جای دخالت در امور اجرایی واشنگتن، تمام تمرکز خودم را روی مدیریت شرکت‌هایم می‌گذاشتم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/19689" target="_blank">📅 21:22 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/19689" target="_blank">📅 21:22 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19688">
@@ -411,7 +411,7 @@
 <div class="tg-text">رادیو و تلویزیون اسرائیل:
 در حال حاضر بیش از 90 هواپیمای سوخت رسان آمریکایی در اسرائیل مستقر شدند، موشک های رهگیر پدافند به صورت گسترده در حال ورود به اسرائیل می‌باشد، هواپیماهای ترابری آمریکایی بدون وقفه وارد اسرائیل می‌شوند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19688" target="_blank">📅 21:21 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/19688" target="_blank">📅 21:21 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19687">
@@ -419,12 +419,12 @@
 <div class="tg-text">شبکه
 I24News:اسرائیل برای یک حمله گسترده از سوی آمریکا در پایان این هفته آماده‌سازی می‌کرد، اما این حمله اتفاق نیفتاد. تخمین‌ها نشان می‌دهد که آتش‌بس فعلی موقتی است و هدف آن فراهم کردن زمینه برای گسترش دامنه عملیات نظامی در آینده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/19687" target="_blank">📅 21:16 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/19687" target="_blank">📅 21:16 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19686">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/19686" target="_blank">📅 21:13 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/19686" target="_blank">📅 21:13 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19685">
@@ -437,31 +437,31 @@ C-17 Globemaster III
 مرکز پزشکی منطقه‌ای لنداشتول (Landstuhl Regional Medical Center)
 در ایالت راینلاند-فالتس آلمان بوده است؛ بیمارستانی که سال‌هاست به‌عنوان مهم‌ترین مرکز درمانی ارتش آمریکا در خارج از خاک این کشور برای پذیرش مجروحان جنگی فعالیت می‌کند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/19685" target="_blank">📅 20:52 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/19685" target="_blank">📅 20:52 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19684">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/19684" target="_blank">📅 20:49 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/19684" target="_blank">📅 20:49 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19683">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromَ</strong></div>
 <div class="tg-text">یاشار جان سلام خسته نباشی اول از همه مرسی از زحماتی که میکشی ، من المان زندگی میکنم بعد ما رفتیم بیمارستان ارتش مخصوص کسایی که زیر نظر بیمش هستن فامیلمون عمل لازم بود قبولش نکردن گفتن تو حالت اماده باش هستیم پرسیدیم برا چی بخواطر جنگ خاورمیانه گفتن اره  هرچی خواستیم ازش جزئیات بیشتری بگیریم گفتن محرمانه هست هیچ جوابی بهمون ندادن</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/19683" target="_blank">📅 20:36 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/19683" target="_blank">📅 20:36 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19682">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">نیویورک پست: ایران در هفته‌های اخیر دفاع خودشو به‌شدت تقویت کرده و برای سناریو حمله زمینی آماده شده
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/19682" target="_blank">📅 20:25 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/19682" target="_blank">📅 20:25 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19681">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19681" target="_blank">📅 20:21 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/19681" target="_blank">📅 20:21 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19680">
@@ -469,29 +469,29 @@ C-17 Globemaster III
 <div class="tg-text">دو شرکت زیرمجموعه لوفت‌هانزا آلمان پروازهای تل‌آویو را تا سه‌شنبه لغو کردند
 این تصمیم در پی ادامه نگرانی‌های امنیتی و ارزیابی وضعیت منطقه اتخاذ شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19680" target="_blank">📅 20:20 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/19680" target="_blank">📅 20:20 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19676">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">سفارت آلمان و فرانسه رسما شایعه تخلیه کارکنان خود را تکذیب کردند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/19676" target="_blank">📅 20:08 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/19676" target="_blank">📅 20:08 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19674">
 <div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19674" target="_blank">📅 20:02 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/19674" target="_blank">📅 20:02 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19673">
 <div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/19673" target="_blank">📅 20:01 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/19673" target="_blank">📅 20:01 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19672">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19672" target="_blank">📅 20:00 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/19672" target="_blank">📅 20:00 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19671">
@@ -499,12 +499,12 @@ C-17 Globemaster III
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XZ0f2p-Et3FqiaerXiYhqCdvlwHy9Uf0pvZfgUdijAUbBIYNeJz4q3yD1MJuFhYy8MDYsK_FV0Emsj7poLksfmnrFFdrN_8pW7pZ2qfpOxmxCxJ9n54K9RC7Hc0NWp4fcAJA35P8TAeepzct_6VmFm7WJ6DW5R13E-cvecfli4ULhMrmzfEJf9rjGzvlMdo0UUIgtNwVJdVhcs0Trr0KyXDd39vc9zYehFsngY3M8l_d2EmXDulDzpt9W3OlJIeHNRd7r35H0PfFStuft3tHicEjVMKw6-TOSaA4L_pRkszk__Uzvn871PUlFxvHE9DyKmoHm2JinlKtBPhy9B-nUw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه ریزه کاری هایی داره ولی خیلی سخت بود تا این بشه ، سلیقه داداش رو که قبول دارید
 😎</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/19671" target="_blank">📅 19:59 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/19671" target="_blank">📅 19:59 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19670">
 <div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/19670" target="_blank">📅 19:52 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/19670" target="_blank">📅 19:52 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19669">
@@ -512,7 +512,7 @@ C-17 Globemaster III
 <div class="tg-text">حمله به یک نفتکش در نزدیکی عربستان
 سازمان عملیات تجارت دریایی انگلیس از اصابت یک پرتابه به نفتکشی در ۷۰ مایلی ساحل الشقیق عربستان خبر داد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/19669" target="_blank">📅 19:17 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/19669" target="_blank">📅 19:17 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19668">
@@ -520,7 +520,7 @@ C-17 Globemaster III
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JaW8oBf3qW5xL01QIZgRjgx9xhB0ZD0SukMjyQ_DjyoOv1mBSpUOEY1F1WZIRZmm0nFGW74-iVZQYv7xMjKEWjYVEUSQBjYlAqkWHdiky2GKn7aWhynMWLI2z5s28ROJrcBnXfN_AscgFd7H_dLGX3gefyE3RgLu-juY1eJ17p1Z5K46O15QfVgPIg4ACtesswzXPfxioxxTxKlOYwPKVDZRu7G5FiGTm1p900Iqkn5bPFqJiCvHS9x0DL3yB8rkMGEtrM6cLfWpLxhRhuFj5kqHJ3FY4bykXRU-_x5S4n0KZBgh_JI30uGohIvD1tO_mX5kKSs3Ci39DI5WDDZx3w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏یک هواپیمای آواکس E-3 Sentry در فرودگاه جده فرود آمد
 @WarRoom</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/19668" target="_blank">📅 19:16 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19668" target="_blank">📅 19:16 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19667">
@@ -528,7 +528,7 @@ C-17 Globemaster III
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cGa3zbCSD19xBcKLGokabV6fZrP5g9FgXQjQ7Rb0DnFp2-diTMSf0Oe5D6N4iixTq54n2_qgNXlnjXW8Y7SIheL8kt94N5JFXUBxP6Ao7UuM_HDGERsVliwqWHPy9B79-Ka3DyY6iFgYbcZMQushpYDHXUJl0_dATlq1Zbo_qmlxhQZLfkUCkfjr_h-NOq2fQ-W00cdmgC3xE2K_UztUWD61v4F8xnkDmpsWUoSJP5BLzT8oLS0PfKPzWM7oYffDKJRFi6fkd8DJkuBVJczub_eW7jyfOLG57iT7XOVsXEtwQxhjSvYvMcaAXL41hB7sCEmGw7nGxn3biDYM4wsfYw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۶ سوخترسان هم اکنون در آسمان اردن
 @WarRoom</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/19667" target="_blank">📅 18:51 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/19667" target="_blank">📅 18:51 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19666">
@@ -537,35 +537,35 @@ C-17 Globemaster III
 آمریکایی‌ها دیروز برای یک عملیات گسترده‌تر علیه ایران آماده نشده بودند، بلکه برای حمله‌ای با همان حجم و ابعاد حملاتی آماده شده بودند که در دو هفته گذشته هر شب انجام شده بود
 .
 @WarRoom</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/19666" target="_blank">📅 18:47 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/19666" target="_blank">📅 18:47 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19665">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">به گزارش کانال ۱۲: آماده‌باش در سطح بالا در اسرائیل برقرار است؛ آنها منتظر تصمیم ترامپ در مورد آینده رویارویی با ایران هستند, همچنین شرکت‌های هواپیمایی خارجی لغو پروازهای خود به مقصد و از مبدأ اسرائیل را آغاز کردند
 @WarRoom</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/19665" target="_blank">📅 18:21 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19665" target="_blank">📅 18:21 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19664">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">وای نت : ترامپ قرار بود دیشب یک حمله بسیار گسترده به ایران انجام بده ولی وسط کار نظرش عوض شد و تصمیم گرفت فعلا به ایران فرصت بده تا مسیر دیپلماتیک جواب بده!
 @WarRoom</div>
-<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/19664" target="_blank">📅 18:04 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 144K · <a href="https://t.me/withyashar/19664" target="_blank">📅 18:04 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19663">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">‏وزارت حمل‌ونقل قطر اعلام کرد از روز ۲۶ ژوئیه، تردد تمامی کشتی‌ها و شناورهای دریایی به طور کامل از سر گرفته می‌شود. با اجرای این تصمیم، همه محدودیت‌های اعمال شده بر فعالیت‌های دریایی لغو شده و عبور و مرور در آب‌های قطر به وضعیت عادی بازمی‌گردد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19663" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/19663" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19662">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">تلگراف : یک مقام ایرانی ناشناس، بریتانیا را تهدید کرد و هشدار داد که در صورت مشارکت این کشور در جنگ به همراه آمریکا، مقر نخست‌وزیر هدف قرار خواهد گرفت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/19662" target="_blank">📅 17:33 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/19662" target="_blank">📅 17:33 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19661">
@@ -573,13 +573,13 @@ C-17 Globemaster III
 <div class="tg-text">وال استریت ژورنال: موشک‌های خیبرشکن ایرانی با ترکیبی از مسیر‌های پروازی، مانور‌ها و سرعت‌ها، سامانه‌های پدافند هوایی را گیج می‌کنند
 این موشک‌ها بسیار ارزان‌تر از رهگیرهایی هستند که برای انهدام آن‌ها استفاده می‌شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/19661" target="_blank">📅 17:13 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/19661" target="_blank">📅 17:13 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19660">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">اکسیوس: طرحی جدید میانجی‌ها به امریکا و ایران ارائه شده که شامل رفع محاصره بنادر ایران، بازگشایی تنگه هرمز و پیشنهاد دریافت «عوارض تأمین امنیت» توسط تهران از کشتی‌های عبوری است @WarRoom</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/19660" target="_blank">📅 17:05 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/19660" target="_blank">📅 17:05 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19659">
@@ -587,28 +587,28 @@ C-17 Globemaster III
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pOnBUMId2uFIZvvPMPee384K5CQua4w-Y_evuYEFisOwL8Loz1_tHEtRRfa6w9szmVJliU6MTjDJ5b7nrCgFPMvAu2XLyTs9gMiISQPuclGa2-7aD5aZMllStvaNDOdGZOeZZVeQO9Yll5DrYiiwS2T9akQtAnjq0fxmywkAf35aJnV2bfbz3ScKvy3I36G23AEEqMqTjAInurN2CPOS1cE5bZb9_yKR9oxJFgH80mcc92CYK-kyO9S_34Q9VwK7lyF7B-ShdUvSGKI4pT7YXp4pPpCm5MMhfr5J2TK1VdJIBiLh3Xm-lFRY6kroUc__WK96OeHSPqC8COediCwepw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ارسال سنگین تجهیزات و مهمات به اردن فقط در همین لحظه ۴ هواپیما C17 در‌ مسیر رفت و برگشت ! نشان میده آمریکا در حال کشیدن کامل کمان «فول دراو» است
 @WarRoom</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/19659" target="_blank">📅 16:49 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/19659" target="_blank">📅 16:49 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19658">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">ورودی جدید
 @WarRoom</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/19658" target="_blank">📅 16:39 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/19658" target="_blank">📅 16:39 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19657">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromH</strong></div>
 <div class="tg-text">الان جدی جدی آمریکا قبول کرده ایران فقط تنگه رو باز کنه و پولم بگیره؟؟</div>
-<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/19657" target="_blank">📅 16:34 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/19657" target="_blank">📅 16:34 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19656">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">اکسیوس: طرحی جدید میانجی‌ها به امریکا و ایران ارائه شده که شامل رفع محاصره بنادر ایران، بازگشایی تنگه هرمز و پیشنهاد دریافت «عوارض تأمین امنیت» توسط تهران از کشتی‌های عبوری است
 @WarRoom</div>
-<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/19656" target="_blank">📅 16:07 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 143K · <a href="https://t.me/withyashar/19656" target="_blank">📅 16:07 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19655">
@@ -624,28 +624,28 @@ C-17 Globemaster III
 @WarRoom
 💃🏼
 🕺🏻</div>
-<div class="tg-footer">👁️ 144K · <a href="https://t.me/withyashar/19655" target="_blank">📅 15:49 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/19655" target="_blank">📅 15:49 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19654">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">نیویرک پست : آمریکا در حال بررسی طرحی برای تصرف اورانیوم غنی‌شده از تاسیسات هسته‌ای ایران است. این طرح به اعزام هزاران نیروی زمینی، خنثی‌سازی تله‌های انفجاری و استقرار یک نیروی دفاعی بزرگ در اطراف سایت‌ها نیاز دارد. سپس یک تیم کوچک از نیروهای ویژه عملیات اصلی تصرف را انجام می‌دهد. این مأموریت بسیار خطرناک و از نظر لجستیکی پیچیده توصیف شده است. گفته شده ارتش ایران تا حد زیادی تضعیف شده، اما هنوز از نظر تجهیزات از نیروهایی که مادورو را محافظت می‌کردند پیشرفته‌تر است. این طرح فعلاً در حد بررسی است و تصمیم نهایی درباره اجرای آن اعلام نشده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/19654" target="_blank">📅 15:17 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 143K · <a href="https://t.me/withyashar/19654" target="_blank">📅 15:17 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19653">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">صداوسیما: اهالی جاسک اسلحه‌ به‌ دست منتظر آمدن نیروهای آمریکایی هستند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/19653" target="_blank">📅 15:10 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/19653" target="_blank">📅 15:10 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19652">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">ترامپ: نتانیاهو در 48 ساعت آینده به آمریکا سفر خواهد کرد و در کاخ سفید دیدار خواهیم داشت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/19652" target="_blank">📅 15:04 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 149K · <a href="https://t.me/withyashar/19652" target="_blank">📅 15:04 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19651">
@@ -653,7 +653,7 @@ C-17 Globemaster III
 <div class="tg-text">تلگراف : جمهوری اسلامی از شبکه‌های قاچاق مهاجران در کانال مانش برای انتقال برخی افراد مرتبط با نهادهای اطلاعاتی به بریتانیا استفاده کرده است.
 مقام‌های بریتانیایی چند نفر مشکوک را هنگام ورود با قایق‌های کوچک شناسایی و متوقف کرده‌اند. برای ردیابی این افراد از پهپادها و برج‌های نظارتی مجهز به هوش مصنوعی استفاده شده است. بخشی از این شبکه‌ها با سپاه پاسداران و به‌ویژه واحد ۷۰۰ نیروی قدس در ارتباط بوده‌اند. یک مقام ایرانی گفته «افراد انقلابی» در لندن مستقر شده‌اند و مسیرهای قاچاق را از موشک‌ها مؤثرتر دانسته است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 150K · <a href="https://t.me/withyashar/19651" target="_blank">📅 15:03 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 152K · <a href="https://t.me/withyashar/19651" target="_blank">📅 15:03 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19650">
@@ -664,21 +664,21 @@ C-17 Globemaster III
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 152K · <a href="https://t.me/withyashar/19650" target="_blank">📅 14:27 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 153K · <a href="https://t.me/withyashar/19650" target="_blank">📅 14:27 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19649">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">حمله عربستان به مأرب و الجوف در یمن
 @WarRoom</div>
-<div class="tg-footer">👁️ 152K · <a href="https://t.me/withyashar/19649" target="_blank">📅 13:27 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 154K · <a href="https://t.me/withyashar/19649" target="_blank">📅 13:27 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19648">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">وای نت به نقل از مقامات اسرائیلی: بعد از آزادسازی تمامی گروگان ها، دست اسرائیل برای انجام حذف هدفمند در غزه زیاد شده و اینکار با شتاب بیشتری انجام خواهد شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 154K · <a href="https://t.me/withyashar/19648" target="_blank">📅 13:26 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 155K · <a href="https://t.me/withyashar/19648" target="_blank">📅 13:26 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19647">
@@ -686,13 +686,13 @@ C-17 Globemaster III
 <div class="tg-text">الجزیره : چراغ سبز عراقچی به شروع مذاکرات
 عراقچی: پس از بروز تنش‌هایی در هرمزگان، در جریان مذاکرات سوئیس، تصمیم گرفتیم یک خط ارتباط مستقیم ایجاد کنیم تا از بروز سوءتفاهم‌ها جلوگیری شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 156K · <a href="https://t.me/withyashar/19647" target="_blank">📅 13:15 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 157K · <a href="https://t.me/withyashar/19647" target="_blank">📅 13:15 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19646">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">سازمان عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرده است که گزارشی درباره وقوع یک حادثه میان یک نفتکش و نیروهای نظامی مهاجم در خلیج عمان دریافت کرده است @WarRoom</div>
-<div class="tg-footer">👁️ 154K · <a href="https://t.me/withyashar/19646" target="_blank">📅 12:36 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 156K · <a href="https://t.me/withyashar/19646" target="_blank">📅 12:36 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19645">
@@ -702,7 +702,7 @@ C-17 Globemaster III
 خلیج عمان
 دریافت کرده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 157K · <a href="https://t.me/withyashar/19645" target="_blank">📅 12:22 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 158K · <a href="https://t.me/withyashar/19645" target="_blank">📅 12:22 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19644">
@@ -714,7 +714,7 @@ C-17 Globemaster III
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 150K · <a href="https://t.me/withyashar/19644" target="_blank">📅 12:21 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 152K · <a href="https://t.me/withyashar/19644" target="_blank">📅 12:21 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19643">
@@ -728,14 +728,14 @@ C-17 Globemaster III
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 157K · <a href="https://t.me/withyashar/19643" target="_blank">📅 12:16 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 158K · <a href="https://t.me/withyashar/19643" target="_blank">📅 12:16 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19642">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">فاکس نیوز: جی دی ونس امروز در جلسه شورای امنیت ملی در کاخ سفید شرکت نکرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 155K · <a href="https://t.me/withyashar/19642" target="_blank">📅 10:38 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 156K · <a href="https://t.me/withyashar/19642" target="_blank">📅 10:38 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19641">
@@ -750,7 +750,7 @@ C-17 Globemaster III
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h7weGvzfEoWOVGadmM60yJ9F6qEJlogX00HrOIj7Uxz2n3u34am1prJJec-X2xRlE8i3XX-stBF47ogEuAKHE0N3lAxyNlf0zSNAlZIOkPOodmXSOdDvjalIf6nQk2hQLg4cWj5YMMeUkXdm_OAGMNr7HHCGYGBdmbK3Qdw57LgBeC0hxmAHJn2OCZaypi9Lqh3NJoDSx45COHOdmXhl-gjswIvURPyLwlZXZGKK6CtqZddFwi9bBBfJw55K6kI5aiPmezdRi6uUqNO1qPJJi9HIORme4iqcYu-42gdiijdIYQ8uCROF00qesCh2hvDGVIRKuMMC_-NyeWWAFqf73Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اتاق جنگ با یاشار : عکس باراک راوید خبرنگار ارشد آکسیوس به همراه تیم این خبرگزاری در مراسم شام کاخ سفید که بخش بزرگی از اخبار این جنگ را پوشش میدن و ما رو سرویس کردند ، دیشب اصلی ها نبودند که حمله رو پوشش بدهند ، در جنگ آمریکا و اسرائیل با ایران، رسانه‌ها فقط نقش اطلاع‌رسانی نداشتند، بلکه به یکی از میدان‌های اصلی نبرد تبدیل شدند. انتشار سریع اخبار، تصاویر، عملیات روانی، روایت‌سازی، جنگ اطلاعاتی و تلاش برای تأثیرگذاری بر افکار عمومی، همگی بخشی از این نبرد بودند. در چنین جنگی، گاهی یک خبر یا روایت می‌تواند به اندازه یک حمله نظامی بر روند تحولات اثر بگذارد
 @WarRoom</div>
-<div class="tg-footer">👁️ 159K · <a href="https://t.me/withyashar/19640" target="_blank">📅 09:49 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 160K · <a href="https://t.me/withyashar/19640" target="_blank">📅 09:49 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19638">
@@ -763,14 +763,14 @@ C-17 Globemaster III
 <a href="https://cdn4.telesco.pe/file/6c5168a521.mp4?token=UQnMjgKBOGbF3iKn3HyFEhYw1u3WOnnri1yJWJx8WX2Tbpo1pOUF5Wij7pzrFlhj-FCEl6yON2AcfvdUrWozFNaa2BzPL1qEUCFR_ekUurtRG5qRmAciDKp2mSJz6sjwxlrvdHYqwWARHzRayP_idyBjtZHVD3ASpSzEkIZTQBxRSKzwDzkKx57bYDxaq_ugoVkkEtIqdULvb-crt4iRuxZ_Pn1C-6xMscCtYl5_4iCfxFN2DR-hk2blJZMy3vCuBmxnA68wgzAxEbFUjbdWw_-VC-I7feCqgvehJYomTi5qogZnF34Dggy__h5y3mUlBGMao1-UggwWsoQdkWghDQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">لحظه تیراندازی در ضیافت شام رئیس‌جمهور ترامپ در کاخ سفید @withyashar</div>
-<div class="tg-footer">👁️ 154K · <a href="https://t.me/withyashar/19638" target="_blank">📅 09:44 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 155K · <a href="https://t.me/withyashar/19638" target="_blank">📅 09:44 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19637">
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">کلش ریپورت : فرماندهی مرکزی آمریکا امشب هیچ حمله‌ای علیه ایران انجام نداد؛ احتمالاً به‌دلیل برگزاری شام انجمن خبرنگاران کاخ سفید و سخنرانی ترامپ در این مراسم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 153K · <a href="https://t.me/withyashar/19637" target="_blank">📅 09:21 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 154K · <a href="https://t.me/withyashar/19637" target="_blank">📅 09:21 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19636">
@@ -779,17 +779,17 @@ C-17 Globemaster III
 «برای مثال، در دوران دولت من، آن رژیم(خامنه ای اول)که زمانی همه از آن می‌ترسیدند و بی‌وقفه به آمریکا حمله می‌کرد، سرنگون شده است. رهبران سابقش برکنار شده‌اند و حالا توسط یک دیکتاتور گِی (خامنه ای دوم) اداره می‌شود و با اختلافات داخلی دست‌وپنجه نرم می‌کند. اما من به نوبه خودم برای باری وایس در CBS News بهترین‌ها را آرزو می‌کنم.»
 ﻿
 @WarRoom</div>
-<div class="tg-footer">👁️ 165K · <a href="https://t.me/withyashar/19636" target="_blank">📅 09:03 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 166K · <a href="https://t.me/withyashar/19636" target="_blank">📅 09:03 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19635">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/92de2ca506.mp4?token=v_HUtMWEiJR5gddRzFJKaIhUMqeLCRU-uBVg6ZS396GJKUJC5rm20UMgJ1kLRBU9NfAsVz84DAe7_rCjIwPgCPxugdm4yijRHK6x3SZIkd-n-oHx9JH6wH-wxPY4AgBDUjVGhieIHopC6pvRqarySqC1twgsn-0iyoLq_pORMFd9F4Jv5Dmwjz02rc7QGnS17MnlCgmR9p7mi-NVREtLxi_LUQKTC53AipCI-aJz9kG1U9iPxqNGa4yDCJN0BOqFgHBQSoPd1y750CqnY388mzfmyPFluyLCWWoVuJoN8KLcgWMgmv9Kdo_qOLJ7frH8qwhrm-XOOq71X0n4ERdKvA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/92de2ca506.mp4?token=v47TrU2u5Yu3e-PCQF29w9QyRmkqdavT4fqWy-Ja_DymO_DMvNsJMNdhsT25fgZ80qEbXAEOhyZGlVIhIl7Ioe_1JXVXSGYKjudk1Vq7cSeHbykESdacCN5jHLPqbPBg_O4rYfMptV9Xfdsr_d_tT-e9OJeds2MTJo_ohD0f4mCP46kAs7zPXpc_E_h0gLk3uEDja7rxaCM-LO90aC9dVOGOivmduzL41RHRGJ47HX1V7xDJgF2uemywtIsUjtsCHRtC7HN8kHjqYO1_TS0EVVPtdmYQXbVBLckyEaD3p-SX95ShRNZ4uddOJtUNTZpFRpy_MISgvSnDH9vyDQsc6A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/92de2ca506.mp4?token=v_HUtMWEiJR5gddRzFJKaIhUMqeLCRU-uBVg6ZS396GJKUJC5rm20UMgJ1kLRBU9NfAsVz84DAe7_rCjIwPgCPxugdm4yijRHK6x3SZIkd-n-oHx9JH6wH-wxPY4AgBDUjVGhieIHopC6pvRqarySqC1twgsn-0iyoLq_pORMFd9F4Jv5Dmwjz02rc7QGnS17MnlCgmR9p7mi-NVREtLxi_LUQKTC53AipCI-aJz9kG1U9iPxqNGa4yDCJN0BOqFgHBQSoPd1y750CqnY388mzfmyPFluyLCWWoVuJoN8KLcgWMgmv9Kdo_qOLJ7frH8qwhrm-XOOq71X0n4ERdKvA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/92de2ca506.mp4?token=v47TrU2u5Yu3e-PCQF29w9QyRmkqdavT4fqWy-Ja_DymO_DMvNsJMNdhsT25fgZ80qEbXAEOhyZGlVIhIl7Ioe_1JXVXSGYKjudk1Vq7cSeHbykESdacCN5jHLPqbPBg_O4rYfMptV9Xfdsr_d_tT-e9OJeds2MTJo_ohD0f4mCP46kAs7zPXpc_E_h0gLk3uEDja7rxaCM-LO90aC9dVOGOivmduzL41RHRGJ47HX1V7xDJgF2uemywtIsUjtsCHRtC7HN8kHjqYO1_TS0EVVPtdmYQXbVBLckyEaD3p-SX95ShRNZ4uddOJtUNTZpFRpy_MISgvSnDH9vyDQsc6A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ترامپ به روزنامه‌نگاران:
 وقتی من بروم، همه شما ورشکسته خواهید شد. مدل کسب‌وکارتان تمام می‌شود.
@@ -803,15 +803,15 @@ C-17 Globemaster III
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">از شاهزاده سلطان عربستان هم سوخترسان داره بلند میشه… @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 165K · <a href="https://t.me/withyashar/19634" target="_blank">📅 04:05 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 167K · <a href="https://t.me/withyashar/19634" target="_blank">📅 04:05 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19633">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/r1qFQDX124TH6EzCYN0lABS4LpCeQ5rR5ZGEQki3Cr3-Yy_lODkLBP9a7unPS-cQSdmI9TzFrBvKpSRmIrJTWNmKyXYz_X016Zb4bKubPJSzhLmmxJs-gm5KvxdDDePbnixM8Z_Q9tBopIFmqXuaDMNTGu-cCIdAR_NX6VpfMY3sqzq_q4afpneeOYaJuDWH_uXvfLfpoRbnvz7K06dR6U10tNo6bx2WNKu7XB5TdooFbR4hBKWOzkzJyrawYHdPYlgLphtYzY5ivgwYBokeg6wLvpqgKGAZYtNvxIpcp6EcOpNvgJlv45tPLt9Y9UwA8p64n351trOt9I5AREYEcg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Zp-hYVjlnfWTYq47L9qLNRGvhQxbAWsaTG1_3lXnRESMVwqpeS1yVr66lXKIKWRS0Y8_DVL3kj3Vulsy6JxQO2ByW0GkGOGK2uWIEi0BDgOg4_ywk8D6-SxJDiYuT7VtqVl2tzvOYg6BeUN4ToUKBLbFRKFJ0K_Z6QbyGrB6IiYdLe3IgA8si4WgD18sms3ywLoTPnqE3caMYWZYc1alwybYt7jrJDizHY59fk-niBukOAOryUT7AGCbL1qyyru_5EAHNTORG31zdBPoVobBXGfabo6959EUc-fv7WkAQSA81dTjlnNncAaZ94gccRwWSCuqkKkP2L83wqbgpWfC5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فعالیت دو هواپیما چند منظوره بوئینگ پی-۸ پوسایدون
 @WarRoom</div>
-<div class="tg-footer">👁️ 168K · <a href="https://t.me/withyashar/19633" target="_blank">📅 04:02 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 169K · <a href="https://t.me/withyashar/19633" target="_blank">📅 04:02 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19632">
@@ -825,52 +825,52 @@ C-17 Globemaster III
 <div class="tg-text">وال استریت ژورنال: ترامپ به برخی از نزدیکانش گفته است که معتقد است
 از طریق یک بمباران تهاجمی و جهنمی، جمهوری اسلامی را در هم بشکند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 165K · <a href="https://t.me/withyashar/19631" target="_blank">📅 03:31 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 166K · <a href="https://t.me/withyashar/19631" target="_blank">📅 03:31 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19630">
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">پنجمین سوخترسان از اسرائیل بلند شد @WarRoom</div>
-<div class="tg-footer">👁️ 164K · <a href="https://t.me/withyashar/19630" target="_blank">📅 03:29 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 165K · <a href="https://t.me/withyashar/19630" target="_blank">📅 03:29 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19629">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">نیویورک تایمز : نشست چگونگی حمله به ایران با حضور ترامپ داره انجام میشه و شروع شده
 @WarRoom</div>
-<div class="tg-footer">👁️ 164K · <a href="https://t.me/withyashar/19629" target="_blank">📅 03:28 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 165K · <a href="https://t.me/withyashar/19629" target="_blank">📅 03:28 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19628">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">با فاصله بلند شدن ۴ رمی هم داره تیک آف میکنه  @WarRoom</div>
-<div class="tg-footer">👁️ 163K · <a href="https://t.me/withyashar/19628" target="_blank">📅 03:11 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 164K · <a href="https://t.me/withyashar/19628" target="_blank">📅 03:11 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19627">
 <div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">اوه اوه هواپیما جاسوسی ریوت جوینت هم از خانیا یونان داره بلند میشه ! @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 160K · <a href="https://t.me/withyashar/19627" target="_blank">📅 02:52 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 161K · <a href="https://t.me/withyashar/19627" target="_blank">📅 02:52 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19626">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-footer">👁️ 157K · <a href="https://t.me/withyashar/19626" target="_blank">📅 02:50 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 158K · <a href="https://t.me/withyashar/19626" target="_blank">📅 02:50 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19625">
 <div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H0nVQvWoMhssn79JTUgFqdBYoLFpptf0B4Z5VfeCkznl9-vSp10xMtdt3Qsyv0xCIxxAGMTbmbzIPiM-L-Mw1zezEOQWCJKO9DaojAa68KQFAe9z7JUJbgzFEUeHvOIgOd4jaZkUEdEE9CTLesKmqcbs0YvkMAM3ajjLdA6Z5XPsdBc53AYEZwgiFGr1jFlG5MJoqV16-Ik21H8mA8CpYKcixalgc4Z8bWfkX1Z_EZyq7i0Ta3iKa0m-Eo8d7FHGuV63jhCzx7_vnocsNAEwJYA9WQg8UjqMh3RG-OwzjDQydqbXU6k8cXxPXf1y0am9oyG1rWCExWtCwLpBzxNVXA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GwQP1X9WLJ5rRdHGfpr_VK4pkAQELS00BnNb2gFslEHBA6BchJCem4hApMdVc6f6t58BGquUjw9dl4tberSsk_HCRsQgrY3Ww5iZOUYPkWv4z1yVibG7zP6ie5S5LrpBLNn0voLQkCDMYZK1zABuzlKorU3g-LN0svr5vDJqejiAPY4b3U-evDtgeCEJmtnrsSRz1pqtcnkgY3rwj2txoK6WsIf6gyyKVLlhBIE6Hv_5lTew8COG3cedHOcGMCG612bEPT8E5E0CA6iIvoDngtNBo_K-MIwqst0WZgpsAs1m4ct5cFRN4bOPTExdrmylgQOe_U9XpXSzlZJAEtCWHg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اوه اوه هواپیما جاسوسی ریوت جوینت هم از خانیا یونان داره بلند میشه !
 @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 160K · <a href="https://t.me/withyashar/19625" target="_blank">📅 02:48 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 162K · <a href="https://t.me/withyashar/19625" target="_blank">📅 02:48 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19624">
 <div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EUJ5JQOCi12bmei4HEdReBvkU-D-X5ftAbhbo-e7xkShZjAqCLMN9ybO2m-LtG6vIuo5SUf9FizmwxgRhUIm2cWtHSQSlGn1BMGa0xxPZT85FF7FPoNUZ4xr-4WMg85_CxWXZVfz-tTl7tRsa97PsXcqZGE_cwifOPtNpzQzkUMhtBWMah2fHeYlNz-dSrYvPhN7pQXgedJo1Faz8hzFPO13CYWQscgQIEzPkBwlV_56Q2Vo2ekbhMalSmv1DR1bnRpD2qqPgWDxFLKVCYbOempR8hff3v8Ns9B477mfTTMsX1KucBn23BZt9x32ErdbPcenjpvMUAvz-XLUQu0p3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Lh23nizhNNGyI-MaKx0nbwva_3QKyF8fXWRhKKXUoHDC_a-OYZfTmbG8g58X3dd4UxF26FN7wu4wYhE0ZdPPDC5wgvD0QhpMRmhOTIxMZa6HRU3d6onfFg7GJedENWNFi0Qn72ohJgY6f3Vd-OjT01e7g6ghKSk72hIEq8-tCnErRI0pk-UD2k6ODAdD8yq7RBIALyuCRD8KUsQjoeuPQQu4FL4yk2LHfs7Vsv2DyUJ2aDqbgm0VAi35pVvg1yi6ZrOhUOo2HENnBBE9aQ_6EDXhZRcyKY2RWGD42SimLjjrKad20tAniE2vp9p2Q-xSsxvkysriYzunLNgFcQhApA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از شاهزاده سلطان عربستان هم سوخترسان داره بلند میشه…
 @WarRoom
 🚨</div>
@@ -882,15 +882,15 @@ C-17 Globemaster III
 <div class="tg-text">هاآرتص
 : تل آویو می‌خواهد تهران را به حمله پیش‌دستانه علیه اسرائیل سوق دهند و در نتیجه برای پاسخ اسرائیل، مشروعیت بین‌المللی فراهم شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 155K · <a href="https://t.me/withyashar/19623" target="_blank">📅 02:24 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 156K · <a href="https://t.me/withyashar/19623" target="_blank">📅 02:24 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19622">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cXzgjhNsUUltM66p8HjjNytCdmVTGMbpIzKqfhJKoc1obpkW2gD3zWJkgUFRUtc-KQGIAB8SptEZ_o6pQk5Zx2gIJdx34liFqpZNgPhqmCUchIiY_JgYYg4PKQZxPMckCxQQ34_iyFpLikXlu_S6Nga6h6GT_O-s6aZQuPrCSwt3Y6XCsQTwKhAhGzWdlF8yQB8wjQr4KOU7JHr8ueh0q0ft1vq4fa-FSMQ_sPqqvI31rwViaMrR8e0szB_6sl6-rOdI8cT4ksKlbL5WxsTAgz-UlZhhflWrO8UxBYHRrEDsKLeBr6gPxsrDq09wMaUHUaT0RKYdnVqtz1w7lQfZAg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gCayEVPA-uw3SVVm_TZxhJietzxFCNS6RXXp6eQpHYL2YpNU4sjzHLFDA8IhnADP93rUJGwgrG0NUJASvG6IBplzn-MK-ch7xT3Asihy1DQMeo86qly02jgXNp_ICQr8hEZlSSwuXWrT70co-RMmFir96aMKVO74dO7GuagPUCFp97SKiTB4FmW_CjS_jT2gtkCRY4HonMGRFmd2mQ3Rx-gyn4uX5oEiEaVhm5aTyBFoSSj_p5Sf1_Q9zbPvclYar18hiQpoqIQyGYKtnR0tnss0S8OYb0LZX0wjsNzh8VZDt7ps4W-HLy5usFKs38HOmxhIHeiAkiReydMFxiMH6g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">با فاصله بلند شدن ۴ رمی هم داره تیک آف میکنه
 @WarRoom</div>
-<div class="tg-footer">👁️ 160K · <a href="https://t.me/withyashar/19622" target="_blank">📅 02:21 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 161K · <a href="https://t.me/withyashar/19622" target="_blank">📅 02:21 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19621">
@@ -901,7 +901,7 @@ C-17 Globemaster III
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 155K · <a href="https://t.me/withyashar/19621" target="_blank">📅 02:15 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 156K · <a href="https://t.me/withyashar/19621" target="_blank">📅 02:15 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19620">
@@ -915,7 +915,7 @@ C-17 Globemaster III
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">خبرنگار کاخ سفید: سنتکام گزارش داده بود بعضی اوقات ما به ایران حمله نمی‌کردیم ولی میدیدیم که کلی موشک در آسمان به طرف ایران میره، بعد می‌فهمیدیم که کویت و بحرین و عربستان و … در حال حمله به ایران بودن ولی به طور رسمی اعلام نمی‌کردن
 @WarRoom</div>
-<div class="tg-footer">👁️ 164K · <a href="https://t.me/withyashar/19619" target="_blank">📅 01:28 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 165K · <a href="https://t.me/withyashar/19619" target="_blank">📅 01:28 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19618">
@@ -927,7 +927,7 @@ C-17 Globemaster III
 
 <div class="tg-post" id="msg-19617">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-footer">👁️ 160K · <a href="https://t.me/withyashar/19617" target="_blank">📅 01:25 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 161K · <a href="https://t.me/withyashar/19617" target="_blank">📅 01:25 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19616">
@@ -938,30 +938,30 @@ C-17 Globemaster III
 
 <div class="tg-post" id="msg-19615">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-footer">👁️ 156K · <a href="https://t.me/withyashar/19615" target="_blank">📅 01:19 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 157K · <a href="https://t.me/withyashar/19615" target="_blank">📅 01:19 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19614">
 <div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">علی عراقی ریدم تو سرت به تو نمیرسه از چنل بدزدی ، فقط برای ایرانی‌ها آزاده
 ⚠️</div>
-<div class="tg-footer">👁️ 158K · <a href="https://t.me/withyashar/19614" target="_blank">📅 01:15 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 159K · <a href="https://t.me/withyashar/19614" target="_blank">📅 01:15 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19613">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-footer">👁️ 157K · <a href="https://t.me/withyashar/19613" target="_blank">📅 01:15 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 158K · <a href="https://t.me/withyashar/19613" target="_blank">📅 01:15 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19612">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CyiUTn5vUKcPqqCLe1muOi6xHvHUmbDigo3pFnxy2h9nnM7EbyeYALVvjCSxojXjehFRcXDx_I2xjRjfX97jYqaDhT7t8ed0z_Gc1Es5Dr_Ooq1AGCqqUi62E3jxLdPI52GZtwCeEkgJaS_pefp0HA5dl8gNJGoDGY2elnGuex0ZpvZ6gFl7ap8wekR9Gldpst6ZCggfRf2wJViPJVQ10dLSqjNDq3zWj0q81GgK8CaB7JGGKmwlGB-rrieQ7rCR2YARDFB6VhvXHv-YkaraLmDwe_jvYp1PToOWvVCcmKOuiDKAkfow8byy6FU1hAwy8D6oU30P6xjEUyDca8XUPA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hT8qw0KcR2PkYJcRtitp9UtxtYnm-LU0JN62CwYsWmDcPkSD5ybRcWWv2OdrQ2yyGDD8cjZ0Ha038_tp1BAO8oKLcVKSh7VTIOlREG8f4XlxWwDV-FMLFfDXMjyg1ehiis6i_S4REeJUB6W4r0bUnoTVSBVrirOlxplUfW6NeoXRXU8ln_GEwgKqx0Qv0zcxtfBzSMUc0TOpmCg9hW-xpctQBs3omF5NDvG1y8IIZ63rjYOxmIGJJpe_3MvH_Zfvh-CyHDTY6y7FsfXuMaqHFVnmdYUHiwR_Cr8gmGg98V7taWNhuVsmQ36AQVkxrQm1_FfCqyAgz0B9zLyxA-gFSA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سیریک الان
 🚨
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 161K · <a href="https://t.me/withyashar/19612" target="_blank">📅 01:12 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 162K · <a href="https://t.me/withyashar/19612" target="_blank">📅 01:12 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19611">
@@ -977,7 +977,7 @@ C-17 Globemaster III
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 164K · <a href="https://t.me/withyashar/19610" target="_blank">📅 00:47 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 165K · <a href="https://t.me/withyashar/19610" target="_blank">📅 00:47 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19609">
@@ -988,7 +988,7 @@ C-17 Globemaster III
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 164K · <a href="https://t.me/withyashar/19609" target="_blank">📅 00:45 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 165K · <a href="https://t.me/withyashar/19609" target="_blank">📅 00:45 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19608">
@@ -997,7 +997,7 @@ C-17 Globemaster III
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 163K · <a href="https://t.me/withyashar/19608" target="_blank">📅 00:39 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 164K · <a href="https://t.me/withyashar/19608" target="_blank">📅 00:39 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19607">
@@ -1007,7 +1007,7 @@ C-17 Globemaster III
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 164K · <a href="https://t.me/withyashar/19607" target="_blank">📅 00:34 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 165K · <a href="https://t.me/withyashar/19607" target="_blank">📅 00:34 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19606">
@@ -1025,23 +1025,23 @@ C-17 Globemaster III
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 168K · <a href="https://t.me/withyashar/19605" target="_blank">📅 00:09 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 169K · <a href="https://t.me/withyashar/19605" target="_blank">📅 00:09 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19604">
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/99e4e60bc5.mp4?token=ANdXO9z2YsQhq2Bs06YjEXj0u4jrPWN2fejwtcHH05Db5UIuuNmttDL8f6GKQCfU7Z4I73rxdtJBNsDDTf4aiJy6EUj1VFGZrGnwL7EoRQBlkJxmx3tQsC9_ZGuW6z1kOz4geNJDh7kVj_RzKAo1GnowQ_6RgBCY1Znh17PFdxU6gOlgx6djPDkIaw6wj0QLd4P9uZTn2gV21YvirB9MiZPG0Htxq0POQ6agBeGBpPPV8_HfOcBe-KhkOd0kpMobJP3BT55TmHr3Cxy5jrDFVgcJjgoinRkgO5tc3HTMFooVIZVMmCEsEcNDGoE04m8iIrUPlPbncnt2hjIwHmFvlQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/99e4e60bc5.mp4?token=M2GCWRfJ6ibapO1DpTTpKk6fQs-LAZlU2BN7HlIBrsUvEkMQ8naA9-umeYRDkuMlDQ-vvaDU_cLQ4kK6smUww9g5UY9o4jWbpaWv8INe98ylc0YSfZbCwa_11gdpHPaItbpvI991mQNlJQr16hmeId0x5Ixz8fAkzKwTgV1uHbn3DoTqRzS3G-jEPqvqK5wEA6-AiRq_EDztlHKmg8EKUoBk-GBpVg2u86BTgx5bQA5fIQ8EpuiguCD29pcXao3iRFyQRACtMq4d0K6ynPclRFOv9YlqnfkSAQiitWiRG_vX1dZOMCh1SHoOfv-O_Zvh_WOJcm7PHdn1ho-V4DFKjg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/99e4e60bc5.mp4?token=ANdXO9z2YsQhq2Bs06YjEXj0u4jrPWN2fejwtcHH05Db5UIuuNmttDL8f6GKQCfU7Z4I73rxdtJBNsDDTf4aiJy6EUj1VFGZrGnwL7EoRQBlkJxmx3tQsC9_ZGuW6z1kOz4geNJDh7kVj_RzKAo1GnowQ_6RgBCY1Znh17PFdxU6gOlgx6djPDkIaw6wj0QLd4P9uZTn2gV21YvirB9MiZPG0Htxq0POQ6agBeGBpPPV8_HfOcBe-KhkOd0kpMobJP3BT55TmHr3Cxy5jrDFVgcJjgoinRkgO5tc3HTMFooVIZVMmCEsEcNDGoE04m8iIrUPlPbncnt2hjIwHmFvlQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/99e4e60bc5.mp4?token=M2GCWRfJ6ibapO1DpTTpKk6fQs-LAZlU2BN7HlIBrsUvEkMQ8naA9-umeYRDkuMlDQ-vvaDU_cLQ4kK6smUww9g5UY9o4jWbpaWv8INe98ylc0YSfZbCwa_11gdpHPaItbpvI991mQNlJQr16hmeId0x5Ixz8fAkzKwTgV1uHbn3DoTqRzS3G-jEPqvqK5wEA6-AiRq_EDztlHKmg8EKUoBk-GBpVg2u86BTgx5bQA5fIQ8EpuiguCD29pcXao3iRFyQRACtMq4d0K6ynPclRFOv9YlqnfkSAQiitWiRG_vX1dZOMCh1SHoOfv-O_Zvh_WOJcm7PHdn1ho-V4DFKjg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">خبرنگار : ایران کی تسلیم می‌شود و واقعاً پای میز مذاکره می‌آید؟
 ترامپ: شاید تسلیم شوند، یا شاید فقط بروند در یک تونل و قایم شوند،آنها تونل‌های خیلی عمیقی دارند که می‌توانند در آنها قایم شوند.
 @WarRoom
 🤣</div>
-<div class="tg-footer">👁️ 172K · <a href="https://t.me/withyashar/19604" target="_blank">📅 23:55 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 173K · <a href="https://t.me/withyashar/19604" target="_blank">📅 23:55 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19603">
@@ -1073,10 +1073,10 @@ C-17 Globemaster III
 
 <div class="tg-post" id="msg-19600">
 <div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Qs0f8gCyxOYfwFsHPSR5BM-w6ESJZUvfjmjeVJWmayMOFHsrdJP2wK_5KEdNkXJEnpq_k5qK5kwBSPtxUX4_Aw5-8irySOuA5obrMolQRhNnso7YFzlXaQvLHWHvJIYiP3FIfd934MYp4NfINDw7Wsd1OR_5DKb_DVkG811fRYcnUHeme2JLkFgsblYiHg3SBp8ZRLKrmwWOatNxbeBHRemYxIs7p1dtNYEygA0tTdu8C4LAFvhxPXZ_HPDS52yncKHl2C5nCBrFP5Nu7WYo0q0WPc94eVZbwv4t1GQ8KpOgBa57OOz8TGAjM1Iv8yewZlDyjucoAl2_msa7WxiV3g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MlixZm5AOFwh3l-a3E-GR92sW9yRFJyzfwqx7e9mdwHDbc2g444LKKVARBEkgcLgVthaxVZbABkKBYsJKCKp-zCX6LYJDhmuzJ10QgPn5yx00KVO0xPe5p_HJFbUUCNqbM4QRodrHndKPJ2hiyRwMOKKCI0Yyr2n8M42knwRFv2KNdMNDXjNvlwthhbqBBRiiqglW6YPasXjtsBWG56pOpGjtGSHzyRB4vDbkZyD1DtIg5SvMfPkesxnqAnWURUw4A6lYQtGOEErbVdy-KzGPnsyui-n7sk2yKjtucSmMiOW5UbVWpiQtfFhYVLirEZJSW7Ql5sWA7U1qam0cZBwjA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جنگنده های عربستان دقایقی پیش به بندر حدیده یمن حمله کردند!
 @WarRoom</div>
-<div class="tg-footer">👁️ 157K · <a href="https://t.me/withyashar/19600" target="_blank">📅 23:41 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 158K · <a href="https://t.me/withyashar/19600" target="_blank">📅 23:41 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19599">
@@ -1090,10 +1090,10 @@ C-17 Globemaster III
 <div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/8dfff8f4c1.mp4?token=VvuXWWg9oZZMWI0-Y9Jr88exUWvu6Gf-XMJRQhIrkYKPAJ0cxFJwHT73XF4VhLKZTEycjufM30OizeY-LUW4rSp9cJLoWPhpFI-o6nOgrE0eU6RUkyuzk9JRFkUtZfTwrRgXpCZVhAd1hewalVppDPSzenNKHmOX_zJJSrn8gJ_3Eg2tns_moCiYDSjnOL36WQghQ2k418XvkdHP5ZnCtpkXBnQd6PEMXN_bhXMQmPbX00k-7_ca7wevTs_WZiKi2E2sDqO641ppz0x_mWKr7GrtwJP1hQutvLs06L9-JcsyT3tQGpZOfKebUJTQ8agycGwL0tmRthefMc2epvgS5g" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/8dfff8f4c1.mp4?token=G8KRLBYXyFnInTsIaoeEDZ5NsDV5zqtehFA7sNDnudwiY_6S09sf4dvCHyjDdF7yk7eeFxzF3p5aiaSZ7ZnfLigc25kpePLnGahEA0XZw8yWqZwjU6ICxT5NWMz-JEzDUJaOaf1kvIJRf0KhUEggjB79iw4UwMMTz3M5T28gDCjUM5c34UkQAPUQ7VlM0ia7kieo1vTavZSb6-9Lpg_jU7iVwvYW58TKlJNUBzqnM0mN11-_2fc7XbJNm39zt6Wp6kA96eCK6s--VAkzI3Orp8JiChcZ4AnVOxH11UTpWFbuZYkGzHXEKbH3xK6K065k6vepTLp717LQVUmYRpEJAQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/8dfff8f4c1.mp4?token=VvuXWWg9oZZMWI0-Y9Jr88exUWvu6Gf-XMJRQhIrkYKPAJ0cxFJwHT73XF4VhLKZTEycjufM30OizeY-LUW4rSp9cJLoWPhpFI-o6nOgrE0eU6RUkyuzk9JRFkUtZfTwrRgXpCZVhAd1hewalVppDPSzenNKHmOX_zJJSrn8gJ_3Eg2tns_moCiYDSjnOL36WQghQ2k418XvkdHP5ZnCtpkXBnQd6PEMXN_bhXMQmPbX00k-7_ca7wevTs_WZiKi2E2sDqO641ppz0x_mWKr7GrtwJP1hQutvLs06L9-JcsyT3tQGpZOfKebUJTQ8agycGwL0tmRthefMc2epvgS5g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/8dfff8f4c1.mp4?token=G8KRLBYXyFnInTsIaoeEDZ5NsDV5zqtehFA7sNDnudwiY_6S09sf4dvCHyjDdF7yk7eeFxzF3p5aiaSZ7ZnfLigc25kpePLnGahEA0XZw8yWqZwjU6ICxT5NWMz-JEzDUJaOaf1kvIJRf0KhUEggjB79iw4UwMMTz3M5T28gDCjUM5c34UkQAPUQ7VlM0ia7kieo1vTavZSb6-9Lpg_jU7iVwvYW58TKlJNUBzqnM0mN11-_2fc7XbJNm39zt6Wp6kA96eCK6s--VAkzI3Orp8JiChcZ4AnVOxH11UTpWFbuZYkGzHXEKbH3xK6K065k6vepTLp717LQVUmYRpEJAQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ترامپ درباره ایران:
 وقتی به ونزوئلا رفتم، همه مخالف آن بودند. سپس، دو روز بعد، گفتند: "وای، این فوق‌العاده است."
