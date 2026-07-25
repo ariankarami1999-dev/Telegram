@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-03 23:36:33</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-04 00:45:30</div>
 <hr>
 
 <div class="tg-post" id="msg-2814">
@@ -319,7 +319,7 @@ check-host.net
 🏷
 کد تخفیف دائمی:
 AKO58</div>
-<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/iaghapour/2814" target="_blank">📅 22:35 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.23K · <a href="https://t.me/iaghapour/2814" target="_blank">📅 22:35 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2813">
@@ -345,7 +345,7 @@ AKO58</div>
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 5.78K · <a href="https://t.me/iaghapour/2813" target="_blank">📅 18:55 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.25K · <a href="https://t.me/iaghapour/2813" target="_blank">📅 18:55 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2812">
@@ -375,7 +375,7 @@ Claude Opus 5
 بیشترین مقاومت در برابر فریب‌های سایبری و کمترین میزان رفتار ناهماهنگ.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 6.31K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2811">
@@ -388,7 +388,7 @@ Claude Opus 5
 آقای حمزه حوتی عزیز، مبارکتون باشه!
 ✨
 آقا حمزه لطفا برای دریافت جایزه‌تون و هماهنگی‌های لازم، از طریق…</div>
-<div class="tg-footer">👁️ 6.58K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.94K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2810">
@@ -439,14 +439,14 @@ Claude Opus 5
 کانال اطلاع‌رسانی:
 @Hi_Speed_Channel1
 ☑</div>
-<div class="tg-footer">👁️ 9.25K · <a href="https://t.me/iaghapour/2810" target="_blank">📅 22:59 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/iaghapour/2810" target="_blank">📅 22:59 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2809">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">🟢
 اگه بین ویدیوهای چند ماه اخیر بخوام فقط یکیشون رو بهتون پیشنهاد بدم که حتماً ببیند، بدون شک همین ویدیو بالاییه؛ پس اصلاً از دستش ندید! :)</div>
-<div class="tg-footer">👁️ 9.34K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.46K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2808">
@@ -476,12 +476,12 @@ Claude Opus 5
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2807">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/2807" target="_blank">📅 18:07 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/2807" target="_blank">📅 18:07 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2806">
@@ -490,7 +490,7 @@ Claude Opus 5
 بدون نیاز به خرید سرور فیلترشکن شخصی خودت رو بساز!
 🔹
 در این ویدیو یاد می‌گیریم که چطور با استفاده از پنل قدرتمند BPB روی بستر کلودفلر ورکر یک فیلترشکن کاملاً شخصی و رایگان بسازیم. این روش نیازی به تهیه سرور مجازی ندارد و به شما کمک می‌کند تا بدون صرف هزینه…</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/2806" target="_blank">📅 17:41 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/2806" target="_blank">📅 17:41 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2804">
@@ -598,7 +598,7 @@ Claude Opus 5
 لینک دریافت نسخه 1.0.3 از گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2798">
@@ -704,7 +704,7 @@ Flutter
 (مشابه پروژه torsina)
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2792">
@@ -790,7 +790,7 @@ LangOver
 لینک سایت و دریافت برنامه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2786">
@@ -829,7 +829,7 @@ LangOver
 تانل ریورس روی سرور با آی‌پی مسدود
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/iaghapour/2785" target="_blank">📅 19:32 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/iaghapour/2785" target="_blank">📅 19:32 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2784">
@@ -903,7 +903,7 @@ LangOver
 ⏳
 زمان قرعه‌کشی:
 همین فردا! پس تا فرصت هست کامنتتون رو ثبت کنید.</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2779">
@@ -1298,7 +1298,7 @@ Nova.app
 
 <div class="tg-post" id="msg-2749">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/iaghapour/2749" target="_blank">📅 20:48 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/iaghapour/2749" target="_blank">📅 20:48 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2748">
@@ -1347,7 +1347,7 @@ Nova.app
 
 <div class="tg-post" id="msg-2744">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/k3H4_APR4MNnA8EuPxpuNuLYY9bDRw9Al5F0fDwhfoECccfNtriw978EwnaEpFC-RKRejMyaSEgP05NuzgKoF6UZZNj-z4IEfWUTp8kdhNTrozzKJt2B53cKr5seBK3WJJMHApkiiXPQ9aZpPaZ3q3ZpFbO2z_POT6ZPs2PlleoXmt6EsVT0xfzZG_y8FRa4CI4iepKZ0OeO7TxgzfzljPNSP0OIh9ncde3ub38wil-UJ7IOxZ7TkFerb5QOKrQyfDxCNgTPck8YGM5_NKINNRyUKDoga3WqBFYU9HF0YVQ9GSmzgeXkpNuMfTmhLXfkFLtn1Qrk7gidz2iPA1SpkA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/APXUgI9G8H-fSeXjTRkLYQKOB7X9QtpfawgB9TZTZl56ohcrqL2BNSgTNGBT0uKhh4lYWyboC5IlIMviHA7xVIj18npSPh8CJcbOh29DYMGRYxXvqB7KOmV5PoJqPl7aSji0fwXw3PSuwoZOnFyUyfneEA95j5ZDkvBR_ONaEUuyUprCqjMoIdaeJK196KyiKErupDInKUdkI-m7WTCbDYSqxOXz7OCooeM3E6xHA1umK4wOg8cgvMoOzNyEUi31t4t0vOvBeULM9IOlkSlsJios6vvkm6u_gSO19iieUeKCXWemPPMud-Sahqs6zhiM1hQTLlRIoqfIuTB3STkPyA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">.
 ⚠️
 ببینید، اینکه بیایم مصرف کاربر رو چند برابر حساب کنیم (مثلاً طرف ۱ گیگ مصرف کرده ولی ۲ گیگ از حجمش کم کنیم)، اسمش زرنگی نیست، رسماً دزدی و کم‌فروشی تو روز روشنه! اینجور کارا فقط گند می‌زنه به اعتماد مردم و باعث میشه مشتری به بقیه فروشنده‌هایی که دارن سالم کار می‌کنن هم به چشم دزد نگاه کنه.
@@ -1703,7 +1703,7 @@ Lumo 2.0 Lite
 
 <div class="tg-post" id="msg-2722">
 <div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/u2AIPTErbrdIXH7YmdDGhKEmvfuS0dyxagkJIpx2ZbXmtWLqZv2EWCWH4CedXgqiqpNgUeIGeWWljUi3hWO-3fRSrC_8N6VqFUrl-P2O36hWYPCibIMoqpeJcvzpNDMBKAzNGLgRkffKvM9GEZYN9RQJX7Zq1sorvhBiViprUW2gsliSp7Zrv1tk3I2PRlYy0NtsZqDQELrch7Pvlkg0eptrIVU6m9d3ObKxj_pecoWxdDKRL4TMHq7w1QyItqxcIuVKqJxqBUPu2lzbU5SJg27fmeR8A8n4vCTTLUrDqf9kThMz-eH6YcHvf0xS0mirsRCMyOEvFE6rKIMhHhXh1w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rnjiLAMDk0Jwqrj6kU3mm8CiWRzRBi2G-xFUSwzXFVEKa_tpEN57hsNkZglxuQykuqiH6sN_BELTtSQ_N_NLuU4xOxXvJiXowRb8ttGqqRwrgk0K59KYK0xTRVpLGu1tyIoxjofQsGvSvodxrV5JMBrofgZwpDA_SbVxUrDrrm8t9-lhysDo4Pscn3Z77YwnliIx7PKnJMshIpVj_dNf8uJbzXTcEInxtOdjlZzsEg8cIta58mf7VYHu0zuSJpffw3imVc_nDRDkSlNw7iFtfer0fGIzDne_jPiCpgpRhd88JeAcO-_whatKgJomLlI7vJ-oiazdPBTJyafZDvVtGw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 پلتفرم متن‌باز مدیریت DNS با دامنه دلخواه
 با این سیستم می‌توانید یک سرویس ارائه ساب‌دامین رایگان روی دامنه اختصاصی خود راه‌اندازی کنید. کاربران می‌توانند رکوردهای دلخواه خود (مثل
@@ -2121,7 +2121,7 @@ ircf
 
 <div class="tg-post" id="msg-2685">
 <div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Tmhg_eepSSnne10_Tg-QUCR79mufy3OD7I8KyRE1ldUE9eTwz4_fzaMJkNQCt5y4HaG-_hn1ZJMmyJnUocLbLqjkOTychnQlwrcma3izY6BlGMVIRL2ttaJK3FX7-qF4Y9GNlPxWV5ZdcAolZIX1y_gOIvFV9bmCditCqMMlj_NHhI-aDSlKXNsUE0Gp0vJ_8kNzg0rrz2gLiXe5b8wNcitpVJAf__jmNmAKBvH6PRKvqEPYkGgJaVJRtmBrOTrKB1tZj0hW3JIFoCgv0fFtf_A_lkQo1CzeCrkARLcjUXKkyJJfh3sqaGKzNAHx7sTJ1QbCQ48mivYIR8Zz5tVwFQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/quFtBXJI7bxORUjIUmMlBeQ3ejdFsn70loytxhfLq0J1xSr8yyHzF9sQ7Ql3-p2KwI9Xa_kfmMeWe_A9PSP6zk699c0O1FR428xTHlJ4W0ZePKeS1pkrSxZ9IoenPaZbKTogneHD7lE4YMXM3FKJM0xDSLRX5o8l6IpQGl3e3qZpPKNFySDlpiqxddqBN1dIQ08GwaSz6a_cl-DfqDDsU4ZaEaeEpmngtT7jU_mg8P5s24QmrCz9x1gdtrtkK6hLOm9DM7DqCpHX_ZU4QgZgBCUXnrnkmYfWScWME9dKrLjbpk3eCxegEGW-6fKlaY4-c3jFdh6IVeGIzEdPJyM1kg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ساخت فیلترشکن پرسرعت و رایگان با ورکر کلودفلر (NovaProxy v3)
 🔹
@@ -2310,7 +2310,7 @@ https://raw.githubusercontent.com/patterniha/Serverless-for-Iran/refs/heads/main
 
 <div class="tg-post" id="msg-2670">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vBGgvEP0tNI60MBJuDClrIXsOsYIm-HEsJUkci0J3GJyuqI0J0xDuSheDw3W-OKgLAE1t4BPUK6KMkKZb_0V0sopFWlAqHffGYs__dynF7xpPSZ2tLgfcRvug-QeksAhLFZxu_G4cMFTI-PF8SyqPBXS3C55GWA8e5fYEG0AqujqcHnZxj0TpDT6UCCPRnPOTrhBRu1Mwfljb75reggsGQJkJxqslHem58a7lmrkGYnXhABCe5Wriu0p0y71AXU4mLFywiNXzDd8JhD4qj0v12debuLCqQqO0wHGXWTOt_UECo86N0ZH54x-4HwtoQoL9-mvHtDk6YxH1Bpp458HeQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lhCReVvMnS1h6TezyTeO3s2zmi6FcmE0T7TrWIU3DQN0blnbiAiY1oew6hq0X-8WzIEwJ-nIEDF2rlgySNyv_g4POsiJL93ZhJ-loqh65mVKSfxjLxKrCL8fxvBEhRHMQgWuG8sYT3Je2DeDchjytl3Mzc0v-zug6-UABhUhqVmqFCGXmbbEK-A-2XcYn3iG2zj4h0MIcdZHXKxTjr88Jp6rztQPtkEI-NsMnHf1EOueRgbulgNPpwML7N-HHrtMxvQh7MG9YaJJHPA23QmFkVsWUmHMY8QZjTSV1lpH8qiCrkgN8-Tm71KYW3BJKSLregvZCOKDNT9eU9MvPCe0mw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 وزیر ارتباطات: محدودیت‌های اینترنت شفاف و زمان‌دار می‌شود / خسارت روزانه ۱۵ میلیون دلاری قطعی‌ها!
 ستار هاشمی، وزیر ارتباطات در نشست خبری خود با انتقاد از وضعیت فعلی گفت: «در عصر هوش مصنوعی، دردناک است که هنوز دغدغه وصل بودن اینترنت را داریم.» وی تاکید کرد که قطعی اینترنت در فضای غبارآلود شایسته مردم نیست و سازوکار اعمال محدودیت‌ها باید تغییر کند.
