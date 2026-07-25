@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-03 15:26:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-03 16:44:49</div>
 <hr>
 
 <div class="tg-post" id="msg-2810">
@@ -343,14 +343,14 @@
 کانال اطلاع‌رسانی:
 @Hi_Speed_Channel1
 ☑</div>
-<div class="tg-footer">👁️ 6.35K · <a href="https://t.me/iaghapour/2810" target="_blank">📅 22:59 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.49K · <a href="https://t.me/iaghapour/2810" target="_blank">📅 22:59 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2809">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">🟢
 اگه بین ویدیوهای چند ماه اخیر بخوام فقط یکیشون رو بهتون پیشنهاد بدم که حتماً ببیند، بدون شک همین ویدیو بالاییه؛ پس اصلاً از دستش ندید! :)</div>
-<div class="tg-footer">👁️ 7.39K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.51K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2808">
@@ -380,12 +380,12 @@
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.98K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2807">
 <div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/iaghapour/2807" target="_blank">📅 18:07 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/iaghapour/2807" target="_blank">📅 18:07 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2806">
@@ -394,7 +394,7 @@
 بدون نیاز به خرید سرور فیلترشکن شخصی خودت رو بساز!
 🔹
 در این ویدیو یاد می‌گیریم که چطور با استفاده از پنل قدرتمند BPB روی بستر کلودفلر ورکر یک فیلترشکن کاملاً شخصی و رایگان بسازیم. این روش نیازی به تهیه سرور مجازی ندارد و به شما کمک می‌کند تا بدون صرف هزینه…</div>
-<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/iaghapour/2806" target="_blank">📅 17:41 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/iaghapour/2806" target="_blank">📅 17:41 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2805">
@@ -423,7 +423,7 @@
 Tm.GlysitBot
 ✈️
 Tm.Glysit</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2805" target="_blank">📅 21:02 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/iaghapour/2805" target="_blank">📅 21:02 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2804">
@@ -450,7 +450,7 @@ Tm.Glysit</div>
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2804" target="_blank">📅 15:10 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2804" target="_blank">📅 15:10 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2803">
@@ -477,7 +477,7 @@ Tm.Glysit</div>
 گیت‌هاب پروژه برای بررسی و راه‌اندازی
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2803" target="_blank">📅 14:36 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2803" target="_blank">📅 14:36 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2801">
@@ -589,7 +589,7 @@ Hugging Face
 موضوع به نهادهای مجری قانون و تیم‌های جرم‌شناسی سایبری برای بررسی دقیق‌تر ارجاع داده شده است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/iaghapour/2796" target="_blank">📅 18:01 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/iaghapour/2796" target="_blank">📅 18:01 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2794">
@@ -671,7 +671,7 @@ Flutter
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/iaghapour/2790" target="_blank">📅 21:25 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/iaghapour/2790" target="_blank">📅 21:25 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2789">
@@ -743,7 +743,7 @@ LangOver
 همه این موارد در
 آموزش بالا
 قابل پیاده سازی هستش.</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/iaghapour/2786" target="_blank">📅 21:54 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/iaghapour/2786" target="_blank">📅 21:54 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2785">
@@ -789,7 +789,7 @@ LangOver
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2783">
@@ -1218,7 +1218,7 @@ Nova.app
 نکته: Nova Client در واقع یک فورک بهینه‌شده از Karing هست که کاملاً با طراحی Nova Proxy هماهنگ شده و رادار قدرتمندش هم داخلش ادغام شده.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/iaghapour/2752" target="_blank">📅 21:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/iaghapour/2752" target="_blank">📅 21:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2751">
@@ -1287,7 +1287,7 @@ Nova.app
 اگه خرج سرور و هزینه‌ها بالا رفته، خیلی روراست قیمت‌ها رو ببرید بالا. مشتری ترجیح میده گرون‌تر بخره ولی بدونه دقیقاً داره بابت چی پول میده، تا اینکه یواشکی از حجمش دزدیده بشه.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2743">
@@ -1355,7 +1355,7 @@ docs.songbird.website
 
 <div class="tg-post" id="msg-2740">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UXjtt_zg5bbe2wg9jN9jz36-Uo3Hi-CInNWZzE8L4GhQAJa4pS4IhGB4XJjBIWTPHHNH4P8wj8TXxLP34GlhtdcYoZHprbdmcj7OA-NiSma9lpjDGKjEQhZ70nNyd9ao8mmRMlLHjA2m9tm2EnfQrBKGeb946AGs0TCiMDjBRuQlMiNolOt9SxoxV4c3ER1gnMFzt1BOKmVOuE6jg0Bh8tjLR36HmrTOIwfIb8pRwoQH71AB6KUiw4GMkTM2kAcrOsx8Kiow5PgY0cb--J8di4tlhsBhXBn9_HHECKviWLqIokaLaAZPEgvemQp0IO57SOxH2jwoN3Wu0qEiqrSoVQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CKdNRz60gnsfOmybSI_oz9C0HeuPWnp-RnIvT_OTUN5y-AKwz5AG9GEhIpgZsLtXn9ZlGq0gZAOD1Azb7eEKqj_KsiL5pWoWnfTeW_6gl6T29G7sF2AFa983xhgLN9cqAQNqjjSDWOW3zE5S2UQow98uulyfJrmkHR05ydQ4ZCIKnKLwVOgkjUe1km8cqtcJjrlJAnQs-x_GSc6eJuIoebCQk13hcuekQ96zYaxbUWI-mCxiFZXGvo0Z7Y9YYfXr0xcPwyIMzqRg5RKUTsfDvvyZzJleAL_xIB5MJ8hjBTMCAZbnA47WxwfhZTVRqPWbCtk55gNgjYb1GTwz8o-mEA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎮
 اعتراض ۱۱۵ هزار نفری به سونی؛ دیسک‌های فیزیکی را حذف نکنید!
 یک خرده‌فروش کانادایی (PNP Games) کمپینی با نام «Don't Kill the Disc» به راه انداخته که تاکنون بیش از ۱۱۵ هزار امضا برای توقف برنامه جدید سونی جمع‌آوری کرده است. سونی قصد دارد تا سال ۲۰۲۸ درایو نوری را به طور کامل از کنسول‌های پلی‌استیشن حذف کند.
@@ -1441,7 +1441,7 @@ NuGet
 
 <div class="tg-post" id="msg-2735">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e24MJ7TbhtTjLDs6QxaFz0ENhSjd5C9ZNaMMHkDBMIi1H_YPbKOsBTQWFZS7N8lepj347LzHK1WjmvUDw6V0KO0GFTl3MB75_TuHJ1_UTfJ7iVf8Vek89dBtdjfDAFKH9iOf01L7oYDOOyXw-bbethA5UBF5t4Xvo5anTzRfKhjpDPc-eashTc4JokPLXft8gATIWzjBklhkINWb35hFLrBY0LXxllz7p4oCBTziUrJZPQ3koDPTS5Xs6aVMUnGPivi19jpzI_gaReXEoj1k2NaYM-VzOaEWbWZJEh_SqZFr3IFR2emDyOVQoalCivNJ_phPCRSf6v8q_t5Oy-ihAA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AcA8Qi3bZc-PNiGcjsKVV4lXOv-Tlm87OZJDpEPRiCp5NJ2Obpo1xzexz7qr37i568ARo4rAwif6_fefsSVpqCARcxpbYrJxhA5jwUGvUlUYxjpQmBzBmFHNdevpDL5rYCLixVTVcyXZUpFea3lNh2vHdHANWP07bC3ueJgkCyCX9AKIEiAr3vw9B9EA-ZXjF_snrXtb3r_65zOWeUHzcQz1mJU0bkts-ENUU2FiOn0WFhrT7jGUYJb_lFwwDy1jNqoNqSyV5zQylf4KhsWPEt4T-uUZc0UogYqabffs4YbKryttF9W9QxUovPerzlnWGVDuY2CLNw3AFWotI8qKOw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی (GRoute)؛ کلاینت سبک و مدرن اندروید برای عبور از فیلترینگ
 جی‌روت یک کلاینت فوق‌العاده سبک و روان برای اندروید است که بر پایه
@@ -1481,7 +1481,7 @@ WARP کلودفلر
 
 <div class="tg-post" id="msg-2733">
 <div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hmj7n3woKKE_ZAVe0Aq6KhdHtytsswv68-WHNWAuHxnNEMer5k4buabcuh5b_dVZIYfKke3lpnSabeyw03LWfln-2QaFwx_b0SBuT2CdNYeBd77YBC_i9cLyQvSx256b3TwGOEZZo61Ec36peIiZ9EzUo-R6DpUZIPcdQLKC8OV5QvW9rMnBQdl8fWFE_msQWRFyF7SOqGL-oT0g7JoSjhWvrPfng6bgRVBGXlUHm4Etjy45CbTi2THhPy3X3DoBPkQDwnRhOUzDHEaWpy9KAnkldQenqlQjIA39Rrk4SkubXeGloQgf1l60hZ8eVz916n_N5yCs1jRguCfVykdZIw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/u4kMX4vLsA_yjsn_l0SaL6alHwNek_HLyv7KgRY4C2tpAUGVnEAJQWArxzO8HsqsLLDz8GBk3VXAxZTUsDrWmowaNMiqE8t-Bsc7Aa9MIxsU9HKAa0NoUVAo7fccUX2ulSgR6RxOgnTmAFOCpkLNGBf9YT_jUDW6Avd0sivZAeNbyoQ6zYt3dI6qCnqe6lw_3tg6encdwzPokuU_XGxv2-Jlqmmu2m5q7XbOuCuaKQlGC2qXkAOFdGjjoMHQYdZWqDEbNYItYj5kfsk3U7tBfBVoj9CS7yLUALKEIchuIMrE6CKFXFKGa88HX4toOXNnWyCx1ZlLyh-wTcOGaNpq4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 بدون دانش فنی فیلترشکن شخصی و رایگان بساز! (با یک کلیک)
 🚀
