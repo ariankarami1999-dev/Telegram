@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-03 20:23:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-03 21:22:00</div>
 <hr>
 
 <div class="tg-post" id="msg-866">
@@ -323,7 +323,7 @@
 قطعا مرتبط و موثرند روی هم. قطعا اخلاق و انسانیت مهمه. کسب پول از راه سالم و بدون دروغ و فریب و دزدی و... مهمه. آسیب نزدن به کره زمین، طبیعت، آدم ها، همدیگه و حیوون ها مهمه و ضروریه. قطعا مهربونی با حیوانات نشانه ای از تمدن و انسانیت هست و بدرفتاری باهاشون نشانه عقب ماندگی و بربریت.
 ولی خیلی گوگولی و کودکانست اون دو جمله بولشیت اول این پست درباره تواضع و ادعا.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/mohsentavoosiseo/866" target="_blank">📅 13:13 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.27K · <a href="https://t.me/mohsentavoosiseo/866" target="_blank">📅 13:13 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-864">
@@ -337,7 +337,7 @@
 <div class="tg-text">فیچر و امکانات و قابلیت: ۱۰ درصد
 فروش و به سود رسیدن: ۹۰ درصد
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/mohsentavoosiseo/863" target="_blank">📅 12:27 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/863" target="_blank">📅 12:27 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-861">
@@ -760,7 +760,7 @@ https://whatismyipaddress.com/
 چون اغلب آدم ها حوصله ندارن وی پی ان و مسترکارت مجازی رو خودشون بخرن بزنن. میدن یکی پرداخت کنه. همین خودش باعث دردسر میشه.
 به شرطی که سایت پرداخت کننده هم، اون کارت مجازی رو قبول کنه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/mohsentavoosiseo/818" target="_blank">📅 18:37 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/mohsentavoosiseo/818" target="_blank">📅 18:37 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-817">
@@ -1035,7 +1035,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PYGX7uLbklJhWgbQxZzB9xmyNCcae-UfXv6_OA7VynG4UOXeDvWWi8-Y7aj-uIY4TFQrto5E1PqdtvrTLCPmSv72qiKiNuzCP_5dn4MU707_KyEVt8F8B8hydJiiymu9aOsrlQnMztp8RXMT8DKQ-hJhuvIgZt-HgtkZx_ZVeXLuTikZLRPNgRNC9kDNV3YX1yQvYvtnagUNzyS5PiYdfJkB0cwsA0u6VEqJ2o7ykINlwVIFQ6xvLLrZtFMKo-iyaaaNTGe-r8nerPtz3wXE_Um4C9mL6mkmM_pOkywYFIqVmEJ1mMvMnj0sBbRcc8qaMltvIsIv4_q9auBDdf1DjQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bMCkH0Fc_pBaO58gEQnez9vsjXLMVlCtbYyznkvnUzVUjiANr5-A-hjaCIcyODhV53SsJXDcmbIxy915_uUktPDpKN9-9ofdKgpm4awIzur6v8zY7_o9bZFaoGEbTxQF0Dhh6j3COmKmCw4Lo20fyW2Z8vm4wsQeFV0ugYqgNsCXuKySg6FcS2u3Z4VQpg09NLcqaLco2uV-4FqQxIuXcHa4-gOUNEwLL8cXdG_M2ZiwFDZoSUzbBSJosjYpPQC9tBHSAtVio0zZLpSl8JZ5z0H22NM12gO3cyBoXLvyKscKsvho8822Vyx0dt291PLgPmC0TWuJ-znZdyHaJ9TFpw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
@@ -1065,7 +1065,7 @@ pinned «
 
 <div class="tg-post" id="msg-774">
 <div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fzioefaYfrva-52KJYkOm6gvr9VjNlf3E0f4XEOuXHKXROoPvbj9hk4BuBwjMiSBpIKqzBIpz6ObIHZ2YNNiV3fGv2sLHmYnpTPSKEwUYkzYRahWTnm9lDtWawMME5UrvCLpiHzQnjVOtD3RD3okESbP1rYl0o850y6yR8JgQl-7K-kfo09Q8gh0MPlce7PmlCQT5zHIq9qFpKfxQ2BdbTJg69NOo6IpyVtIMMNq7HlA1JpzWusmLR1SGZTFt_m5RqnEn6DNktAZqmTfSATqAp3jnFn5uU-8SjGOuqjW6w_rAl5-rc3_65KGuwgKyoJA1v0UjaVdpJ9VJOb66Vy0NA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/s5z7SMoHZT9TaZ_Genaql2MX-PYR2UOrow7CNY0XDJNbBAvH22plz_VuxcT6u1bc-gDKXx2rG9cO9RrCACrKeMW8BED0KkDEjxaF93H18i9bEowpUJ35BmzC0euMU-7dGXz2EVQvq-ZOcKd-s2qAMG6JhM-UVOYR8yArk-omhyYbUmIYPuArHO1x3Az44Ag5heDw_7BLQ-6F8Spdvbt0ixdhauBrw3HYG6aSZlbrpgF_K_47TPqogHFKHPzOodBPqK-5zHHgCKTH095ZDAlfq_CZG3_OlYZKvzrJYWT4cKMAhCnK1vP9msbjEWEGVmbK7ELnhsRRh2LLNASaa-PcNA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درباره پستی که روش ریپلای زدم:   نظر یک نفر قبل از اون پست:  از این زاویه نگاه میکردم که آقا تفکر وقتی آزاد باشه کامنت هم باز میزاره که جامعه بتونه درموردش صحبت کنه  وقتی میبنده داره آزادی رو میگیره</div>
 <div class="tg-footer">👁️ 2.11K · <a href="https://t.me/mohsentavoosiseo/774" target="_blank">📅 17:48 · 04 Tir 1405</a></div>
 </div>
@@ -1096,7 +1096,7 @@ pinned «
 
 <div class="tg-post" id="msg-768">
 <div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CVRr9qNkaWddcs9u5HnpJImiZo5G5nb-cFMXGUt_13Rdz0H8qzdV1FW_ebNK_C9b5oshyaCPI1I1AEOz3wz11bIXoG0nn51dodrPZ9VTfFk7utdHzoav_7fnCljIMmbPHpFmtnHNUs-WgjMNK5l_rpRFa5DRKGP39sSEsY4tfZBhemN74ZLQbeyMcXGQYWHeBUvvmmRjHp5tF5BGkbPYURnVkJbx0-pOW0F4V6C2RPKhZlrEcsh5xdMc-UMxBSE7F0El7NdyWVVGw7rh_5rLGmOeFi25lFESI-n4EZjtTIINiZpDV6JXqEdwTVwAi4JcxQOw67TXKiTH9AjDYNR_oA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H_hedFxARb6lvxXIPQCV4qVhH-M1xy7WAus5R5r-vdakGeBRr3C4-hpIwSHbRGuD-9HAoz3kQuaJ_Ep2MEMrhu1xlI8HcAm_D_5yXlCKcvgkGoexJjwJRW4OmswjnJqy8U2P1lP-s_qUHPoSXXzCBcaAfXNYyxCIp4j_vjuts5tOPn7CK3R8IL-XldYLl6WpaKJZiRRCCO_MwiMQsfKiPaIWpQBZ27sYVQKAFpWlaKRdp53vxPsGJ4Zfm-Cm8O6sWJkyq5nxY-vGuZlSSUkFVsPbe4XHw3TmjaYqKr4Efu06QhCe5phxeu6PqfGmkIvZ5cZnh_aIXoybUGV9BgtpOA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال یک دنبال کننده که احتمالا شناخت قبلی هم به من نداره:
 نکات سوال:
 پارتی نداشتم کار خوب گیرم نیومد
@@ -1140,7 +1140,7 @@ pinned «
 
 <div class="tg-post" id="msg-761">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cfF15nYtfJPnxLjntKANHVZ18JsTflZrIuu1fmbrOSZRFJhnYZWxDJT8kXpwSOQ3-Hnl4_6rUuPnUuUA_6ZzvaDTvLF8ZgVyJRvTF_LRAFYatSNm4Y45vyCSfCHNbCP46bQECiznfUsIt1Ipun-jjLjBJu_E9x3XDFKmJpSRojyP9a63_3_j4kKKOgbzqpVmIdygvaCd3hDyiilApYLA6OFeu736YJonCn9EAxp_ACeiKaIIXMgPIACNhMhiepEwGrFi3hEzDsYbG54ZJTyru-9D5WPq2d90QL5PCxXG11g61sDAUuQrCF_Xm8l_2j7j4b_QAr0qgmqS0AVyCpQV8g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FEndc5eFxkfqkRIUTcxUzTvGQjBvlDbTZFKHDGZimyIwIbaE7ZFrcXOfmQaGf01xJhR_iOVRFfz_eFM1q816f3sWoG3XfuHOgtINBIJrCxw5t62NJ73_ZpapcODzX3HAEOPnlyHr6OvQ6ImwFJ9_kf2BVn9kEXttgP78mAOX2HnOtXF-rbYH3QVr-Th_7EXjd5YdRKvTJWaTVXaGVW8JcQPfwj2qTwiifAtIUXXvtf3oxw7vUtfm4FuhJevxiV7FbS0bxwTmLOGd7y5J7dVskHtWiI2GPDtGMb2vEtJrFeWGaG-OgWtco3qZVfpqqAEy2d_0LkEC0CVkg6SKl0vi7w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال دانشجو:
 من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده
