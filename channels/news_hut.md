@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-04 04:35:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-04 08:22:00</div>
 <hr>
 
 <div class="tg-post" id="msg-69001">
@@ -305,7 +305,7 @@
 آمادگی‌های نظامی آمریکا، حتی پس از لغو حمله برنامه‌ریزی‌شده برای شب گذشته، همچنان در جریان است. این تقویت قوای نظامی، بخشی از تلاش گسترده‌تر آمریکا برای حفظ فشار و در عین حال، تلاش برای بازگشت به میز مذاکره محسوب می‌شود.
 در حال حاضر، حدود ۹۰ فروند هواپیمای سوخت‌رسان هوایی به همراه یک اسکادران از جنگنده‌ها در اسرائیل مستقر هستند. طی روزهای اخیر، محموله‌های تسلیحاتی و موشک‌های رهگیر بیشتری نیز وارد شده‌اند که یادآور تدارکات و آمادگی‌های پیشین است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/news_hut/69001" target="_blank">📅 02:34 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/news_hut/69001" target="_blank">📅 02:34 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69000">
@@ -322,7 +322,7 @@
 🇮🇷
 واکنش عباس داوینچی:
 @News_Hut</div>
-<div class="tg-footer">👁️ 6.88K · <a href="https://t.me/news_hut/69000" target="_blank">📅 02:10 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/news_hut/69000" target="_blank">📅 02:10 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68999">
@@ -341,7 +341,7 @@
 نیروهای سنتکام در تاریخ ۲۴ ژوئیه، نفتکش «لاوین» (Lavine) با پرچم موزامبیک را در دریای عمان از کار انداختند؛ این اقدام پس از آن صورت گرفت که خدمه کشتی چندین بار تلاش کردند محاصره را نقض کنند و هشدارهای مکرر را نادیده گرفتند. این کشتی دیگر به سمت ایران حرکت نمی‌کند.
 نیروهای آمریکایی همچنان بسیار هوشیار، متمرکز، مرگبار و آماده هستند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/news_hut/68999" target="_blank">📅 01:05 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/68999" target="_blank">📅 01:05 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68998">
@@ -349,7 +349,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/U_grE6OHQBPvQvezozuJenYYGsYRXjuQknrzZPEc9mW5gvXTELXK_aSk-YtmRDlCjPIsst2tPyrdAJbInR1JWlIB3UvcdiKT8wUGxsA09eBBV-XHRhZyehHMmjUDfYlqQEQJKG_KsdC9Qb8ufsn4KCdU2EuVTn_KdEq8pmmSoUqv8U4ujFPyKYku8IKjEii_lBaFJvgfJ0p9aAWSJUjY0vi9Z2rcvjaNYOYTGmpRh09VE2543mmK4fnwnoiesIjP4TR5rjWdQuc6mALXba7Kgcq2d8wV0HjNT_vdDNCy_J5bWpw_VqKYtZzHBWfi5foN-eOGT8fP3E2Dvj7DsUcJ4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۷ فروند هواپیمای سوخت‌رسان آمریکایی هم‌اکنون بر فراز خاورمیانه در حال پرواز هستند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/news_hut/68998" target="_blank">📅 00:45 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/68998" target="_blank">📅 00:45 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68997">
@@ -358,7 +358,7 @@
 اوکراین، یک کشتی متعلق به جمهوری اسلامی را در دریای خزر هدف قرار داد!
 تاکنون مرگ یک ملوان در این حمله تایید می‌شود، رئیس جمهور اوکراین می‌گوید این کشتی حامل محموله نظامی بود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/68997" target="_blank">📅 23:50 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/68997" target="_blank">📅 23:50 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68996">
@@ -380,7 +380,7 @@
 پیروزمند:
 خب اینطوری شاید ده سال دیگه طول کشید خب ما تا کی اماممونو نبینیم؟ اینطوری همیشه در موضع ضعف میمونیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/news_hut/68996" target="_blank">📅 22:50 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/68996" target="_blank">📅 22:50 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68995">
@@ -392,7 +392,7 @@
 پرزیدنت ترامپ در گفتگوی تلفنی با شبکه فرانسوی «ال‌سی‌آی» (LCI):
 اگر «صددرصدِ آنچه را می‌خواهیم به دست نیاوریم»، «قطعاً» گزینه ازسرگیری جنگ تمام‌عیار علیه ایران را مد نظر دارم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/news_hut/68995" target="_blank">📅 21:48 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/news_hut/68995" target="_blank">📅 21:48 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68994">
@@ -403,7 +403,7 @@
 رئیس جمهور ترامپ روز جمعه به ارتش ایالات متحده دستور داد حملات به ایران را متوقف کند و به تقریباً دو هفته حملات روزانه پایان داد.
 این تصمیم در حالی گرفته شد که مقامات عمانی در تهران مذاکراتی داشتند و گزارش‌ها حاکی از پیشرفت در جهت توافق احتمالی برای بازگشایی تنگه هرمز است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/news_hut/68994" target="_blank">📅 21:15 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/68994" target="_blank">📅 21:15 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68992">
@@ -419,7 +419,7 @@
 <div class="tg-text">💢
 ساعاتی پیش یک هواپیمای آمریکایی در فرودگاه جده فرود آمده است. به نظر می‌رسد این هواپیما یک هواپیمای آواکس مدل E-3Sentryباشد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/news_hut/68992" target="_blank">📅 20:29 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/68992" target="_blank">📅 20:29 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68991">
@@ -430,7 +430,7 @@
 باراک راوید، اکسیوس:
 آمریکایی‌ها دیروز برای عملیاتی گسترده‌تر در ایران آماده نشده بودند، بلکه برای حمله‌ای تدارک دیده بودند که از نظر وسعت، مشابه حملاتی بود که هر شب در طول دو هفتهٔ گذشته انجام می‌شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/news_hut/68991" target="_blank">📅 19:59 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/news_hut/68991" target="_blank">📅 19:59 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68987">
@@ -445,7 +445,7 @@
 <div class="tg-text">‼️
 قلنج شکن معروف اینستاگرام که هر چی داف بود میاورد پیش خودش و نالشون رو درمیاورد دستگیر شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/news_hut/68987" target="_blank">📅 19:35 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/68987" target="_blank">📅 19:35 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68986">
@@ -465,7 +465,7 @@
 ما این جنگ را شروع نکردیم، اما تمامش خواهیم کرد.
 حملات موشکی پراکنده به کشتی ها یا تحرک قایق ها در تنگه‌هرمز نشانه قدرت نظامی نیست بلکه دست‌و‌پا زدن یک حکومت در حال سقوط است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/news_hut/68986" target="_blank">📅 18:56 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/68986" target="_blank">📅 18:56 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68985">
@@ -479,7 +479,7 @@
 یک منبع اسرائیلی وضعیت را این‌گونه توصیف کرد: ترامپ تمایلی به حمله ندارد و تنها به این دلیل به سمت آن متمایل شده که احساس می‌کند دیگر گزینه‌ای پیش رو ندارد.
 ارزیابی اسرائیل تغییری نکرده است: احتمال دستیابی به توافقی واقعی صفر است و تهران تنها موفق شده برای خود زمان بخرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/news_hut/68985" target="_blank">📅 18:14 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/news_hut/68985" target="_blank">📅 18:14 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68984">
@@ -495,7 +495,7 @@
 فارس با انتشار این ویدیو:
 مردم جاسک، اسلحه‌ به‌ دست منتظر اومدنِ نیروهای آمریکایی هستن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/news_hut/68984" target="_blank">📅 17:29 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/news_hut/68984" target="_blank">📅 17:29 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68983">
@@ -512,7 +512,7 @@
 مبارزه زمینی
 با آمریکایی‌ها به رخ کشید
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/68983" target="_blank">📅 16:55 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/68983" target="_blank">📅 16:55 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68982">
@@ -523,7 +523,7 @@
 در پاسخ به تجاوز آشکار و جنایتکارانه عربستان سعودی، نیروهای مسلح یمن دو عملیات نظامی دقیق و موفقیت‌آمیز انجام دادند. عملیات نخست، با استفاده از ده‌ها فروند موشک بالستیک و پهپاد، تأسیسات حساس شرکت آرامکو در جیزان را هدف قرار داد.
 عملیات دوم نیز با بهره‌گیری از تعدادی موشک بالستیک و کروز و همچنین پهپاد، تأسیسات حساس شرکت آرامکو در ینبع را هدف قرار داد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/news_hut/68982" target="_blank">📅 16:14 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/news_hut/68982" target="_blank">📅 16:14 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68981">
@@ -541,7 +541,7 @@
 یه روز رفتم پیش علی خامنه‌ای و گفتم خودتون گفتید نه جنگ - نه صلح، حالا ما چکار کنیم؟ گفتش که برید مذاکره کنید و ما به دستور علی خامنه‌ای گفتگو با آمریکا رو شروع کردیم.
 تو آخرین پیامش هم گفتش که برید مشکل رو حل کنید چون تو حالتِ نه جنگ - نه صلح نمیشه کاری کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/news_hut/68981" target="_blank">📅 15:35 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/news_hut/68981" target="_blank">📅 15:35 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68980">
@@ -556,7 +556,7 @@
 <div class="tg-text">گروهی از طرفدارهای حکومت با مقوا عکس رهبران ارشد نظام درست کردن و اومدن تو خیابون
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/68980" target="_blank">📅 15:00 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/news_hut/68980" target="_blank">📅 15:00 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68979">
@@ -572,7 +572,7 @@
 سخنگوی دولت:
 تغییر قیمت یا سهمیه بنزین قطعی است.ما علاقه‌مند به افزایش قیمت هستیم!
 @News_Hut</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/68979" target="_blank">📅 14:14 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/news_hut/68979" target="_blank">📅 14:14 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68978">
@@ -582,7 +582,7 @@
 عراقچی:
 در پی حوادث تنگه هرمز، طی مذاکرات سوئیس تصمیم گرفتیم برای جلوگیری از سوءتفاهم‌ها، یک خط ارتباطی مستقیم ایجاد کنیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/68978" target="_blank">📅 13:30 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/news_hut/68978" target="_blank">📅 13:30 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68977">
@@ -598,7 +598,7 @@
 حمله موشکی حوثی های یمن به پالایشگاه جازان شرکت آرامکو
 عربستان
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/68977" target="_blank">📅 12:45 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/news_hut/68977" target="_blank">📅 12:45 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68976">
@@ -609,7 +609,7 @@
 سازمان تجارت دریایی بریتانیا (UKMTO):
 سازمان عملیات تجارت دریایی بریتانیا گزارشی مبنی بر وقوع حادثه‌ای مربوط به یک نفتکش و نیروهای نظامی در خلیج عمان دریافت کرده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/68976" target="_blank">📅 12:23 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/news_hut/68976" target="_blank">📅 12:23 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68975">
@@ -628,7 +628,7 @@
 نتانیاهو:
 حرفات درسته ولی طبق ارزیابی ما اون زنده هست
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/news_hut/68975" target="_blank">📅 11:52 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/news_hut/68975" target="_blank">📅 11:52 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68974">
@@ -636,7 +636,7 @@
 <div class="tg-text">💢
 ویدیو وایرال شده، پشم‌ریزون از گات تلنت
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/news_hut/68974" target="_blank">📅 11:15 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/news_hut/68974" target="_blank">📅 11:15 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68973">
@@ -659,17 +659,17 @@
 انقلاب رو روستایی ها نکردن انقلاب رو روشنفکرا و دانشگاهی ها کردن بعد اولین ضربه رو هم خودشون خوردن.
 به مردم گفتن عاای شما وضع اقتصادیتون خیلی بهتر از اینا باید باشه ببینید اون سرمایه دارها چیا دارن که این همه خورد خوراک به شما رسیده.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/news_hut/68973" target="_blank">📅 10:30 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/news_hut/68973" target="_blank">📅 10:30 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68972">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5d6904f498.mp4?token=VaRGs-jVRXpmv3jsnVAueGOmyA3vL8Dz1S7KUq9RcDCSdx8OzKrRtvcZHFNK5HFMXFvm-iHOv-t6TaEC5jFLpbwSd3Nl9D4z69ZYXxPC7SI5sQrErNvm_EGGyrqW1KDcNqRutimMxi5Rn8iuPojkGdrU_WR9ZxoPm5GF8kuSDSJQogcNZS1OzCVsj6Z0iZYVjzWVVrP2qKqUsuy86YLpn0Baxfi1Aqt0E16tdHyG74eFXfZlPo4GLvxyNsCe-azIIRxcdsPIa35ZBBAIKnT53F3xqfLpLWNN9itC8w0PsAkRg8PEYzn6gHk9NxO1uGFckp4b0pbY2eVMwbac3wV-Vg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/5d6904f498.mp4?token=m7VitNqjBo712Q9NUqZQO7xH1CArjvp97X-dzD6X-JwOv8RtuUpLZtybqnmC96yMlnpNBNHsGDP5-_5lbpZPNJdl--Da-bPNlC2zI_Fbhi0S-KshM8nlAwwTDMdrzZgB4BH-VFm1wruxejc0W2fsRWo418ZohuTxvSb-FePsj02NIMURK73L2tT9grNij2mfQ4F2xO2tZccYh_S9b-UepM7vV95Oko4SberWiRPqxlvJJPADaxhDCUXfpk3DpEo4AZjoA2-EY_ph4Rca9hnSe6c01zGNVqIQhp0kILdHJPV6_jgMKBbUmT-tAnl5QtnVbW034_9R6Xqfj2uSNzsNXw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/5d6904f498.mp4?token=VaRGs-jVRXpmv3jsnVAueGOmyA3vL8Dz1S7KUq9RcDCSdx8OzKrRtvcZHFNK5HFMXFvm-iHOv-t6TaEC5jFLpbwSd3Nl9D4z69ZYXxPC7SI5sQrErNvm_EGGyrqW1KDcNqRutimMxi5Rn8iuPojkGdrU_WR9ZxoPm5GF8kuSDSJQogcNZS1OzCVsj6Z0iZYVjzWVVrP2qKqUsuy86YLpn0Baxfi1Aqt0E16tdHyG74eFXfZlPo4GLvxyNsCe-azIIRxcdsPIa35ZBBAIKnT53F3xqfLpLWNN9itC8w0PsAkRg8PEYzn6gHk9NxO1uGFckp4b0pbY2eVMwbac3wV-Vg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/5d6904f498.mp4?token=m7VitNqjBo712Q9NUqZQO7xH1CArjvp97X-dzD6X-JwOv8RtuUpLZtybqnmC96yMlnpNBNHsGDP5-_5lbpZPNJdl--Da-bPNlC2zI_Fbhi0S-KshM8nlAwwTDMdrzZgB4BH-VFm1wruxejc0W2fsRWo418ZohuTxvSb-FePsj02NIMURK73L2tT9grNij2mfQ4F2xO2tZccYh_S9b-UepM7vV95Oko4SberWiRPqxlvJJPADaxhDCUXfpk3DpEo4AZjoA2-EY_ph4Rca9hnSe6c01zGNVqIQhp0kILdHJPV6_jgMKBbUmT-tAnl5QtnVbW034_9R6Xqfj2uSNzsNXw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🚨
 🇺🇸
@@ -680,7 +680,7 @@
 و اکنون توسط یک دیکتاتور گی(همجنسگرا)اداره می‌شود که با اختلافات داخلی دست‌به‌گریبان است.
 با این حال، من شخصاً برای باری وایس در شبکه CBS آرزوی موفقیت دارم. او زن فوق‌العاده‌ای است.»
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/news_hut/68972" target="_blank">📅 09:56 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/news_hut/68972" target="_blank">📅 09:56 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68971">
@@ -695,14 +695,14 @@
 <div class="tg-text">⏺
 بررسی اهداف احتمالی حملات آمریکا توسط فاکس نیوز زیرنویس فارسی:
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/news_hut/68971" target="_blank">📅 09:15 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/news_hut/68971" target="_blank">📅 09:15 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68970">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">بعد از سیزده شب، امشب جنوب آرومه و خبری از انفجار نیست، و متاسفانه این آرامش، ترسناک تره!
 #hjAly‌</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/news_hut/68970" target="_blank">📅 03:30 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/news_hut/68970" target="_blank">📅 03:30 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68969">
@@ -712,7 +712,7 @@
 شبکه فایتوکس به نقل از مقامات اروپایی:
 در اروپا این اجماع رو به افزایش است که ترامپ پیش از کاهش تنش، آن را تشدید خواهد کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/news_hut/68969" target="_blank">📅 03:12 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/news_hut/68969" target="_blank">📅 03:12 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68968">
@@ -727,7 +727,7 @@
 <div class="tg-text">⏺
 پدافند هوایی روسیه یک پهپاد اوکراینی را بر فراز انبار «وایلدبریز» در سن‌پترزبورگ سرنگون کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/news_hut/68968" target="_blank">📅 02:03 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/news_hut/68968" target="_blank">📅 02:03 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68967">
@@ -746,7 +746,7 @@
 <div class="tg-text">🚨
 سیریک
 @News_Hut</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/news_hut/68966" target="_blank">📅 01:17 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/news_hut/68966" target="_blank">📅 01:17 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68965">
@@ -768,7 +768,7 @@
 <div class="tg-text">⏺
 عربستان دقایقی پیش به بندر حدیده یمن حمله کرد!
 @News_Hut</div>
-<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/news_hut/68964" target="_blank">📅 00:40 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/news_hut/68964" target="_blank">📅 00:40 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68963">
@@ -781,7 +781,7 @@
 پرزیدنت ترامپ:
 "ما آماده حمله هستیم. ما کاملا مسلح و آماده حمله هستیم. ما با آنها صحبت می‌کنیم. شاید یک نقطه عطف وجود داشته باشد یا نباشد... در حال حاضر، ما به طور جدی با آنها صحبت می‌کنیم. اما به نظر نمی‌رسد که بتوانند به آنجا برسند، شاید اکنون بتوانند."
 @News_Hut</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/news_hut/68963" target="_blank">📅 00:33 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/news_hut/68963" target="_blank">📅 00:33 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68962">
@@ -850,7 +850,7 @@
 ایران، باورنکردنیه، ولی شروع کرد به شلیک به همه جای خاورمیانه.
 اگه سلاح هسته‌ای داشت، حتماً از اون هم استفاده می‌کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/news_hut/68957" target="_blank">📅 23:47 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/news_hut/68957" target="_blank">📅 23:47 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68956">
@@ -869,7 +869,7 @@
 ترامپ:
 نمیدونم. بهش فکر نکردم. پیتر، زیاد کاهو میخوری؟
 @News_Hut</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/news_hut/68956" target="_blank">📅 23:31 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/news_hut/68956" target="_blank">📅 23:31 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68955">
@@ -887,7 +887,7 @@
 وقتی من وارد ونزوئلا شدم، همه مخالف آن بودند. اما دو روز بعد، آن‌ها گفتند: «وای، این فوق‌العاده است.»
 بسیاری از افراد همین حرف را درباره ایران هم می‌زنند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/news_hut/68955" target="_blank">📅 23:25 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/news_hut/68955" target="_blank">📅 23:25 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68954">
@@ -971,7 +971,7 @@
 نیویورک‌تایمز:
 نهادهای اطلاعاتی آمریکا بر این باورند که رهبر عالی جدید ایران، آیت‌الله مجتبی خامنه‌ای، بسیار بیش از پدر و سلف خود به دستیابی به سلاح هسته‌ای تمایل دارد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/news_hut/68950" target="_blank">📅 22:11 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/news_hut/68950" target="_blank">📅 22:11 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68949">
@@ -981,7 +981,7 @@
 نیویورک‌تایمز:
 رئیس‌جمهور ترامپ روز جمعه با مشاوران ارشد و اعضای بلندپایه کابینه خود دیدار کرد تا درباره تشدید حمله نظامی علیه ایران تصمیم‌گیری کند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/news_hut/68949" target="_blank">📅 22:04 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/news_hut/68949" target="_blank">📅 22:04 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68948">
@@ -1021,7 +1021,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/inqY2GL4UlFf3cRZHQ5WSNUR6zvAxNrnJF0YOY0ioMvvut2uaOigoPIvDigxOb5LyqvLlgw2BzB1BM2y721iTmC1uYaRl7TUYJFCblwm3eplSYlTCSiUb5QFpQWJr0F2k_tCyoOFnRD-2P9a-TiavUsPKpqHq4IdakbjQun15yjYoq5rm4ARqSmsj0HXqupiTASQZ4iMhNqxokPeXBkbmzFzZV5YBqQ3zruaSltKZUrU4Nbxhwr-EN4TXlZP6PDtjHRWzFW9ojwsgya-zmK_S7TFfuqYwsV3_7NrGMCONVcan4NJJJk25RVWtWWnPCfu3BKJAEtdjTaiL5p95gsFYw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اکبر عبدی، بازیگر سینما و تلویزیون، در سن 66 سالگی درگذشت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/news_hut/68946" target="_blank">📅 21:07 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/news_hut/68946" target="_blank">📅 21:07 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68945">
@@ -1031,7 +1031,7 @@
 علی عبدالهی فرمانده قرارگاه خاتم الانبیا:
 از این به بعد به ازای هر شهیدی که از ما بگیرید یدونه امریکایی رو به درک واصل میکنیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/news_hut/68945" target="_blank">📅 20:41 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/news_hut/68945" target="_blank">📅 20:41 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68944">
@@ -1049,7 +1049,7 @@
 بیمارستان خاتم‌الانبیا
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/news_hut/68944" target="_blank">📅 20:14 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/news_hut/68944" target="_blank">📅 20:14 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68943">
@@ -1065,7 +1065,7 @@
 بنابراین، به عقیده من، دو کشور عمده‌ای که اغلب در ارتباط با موضوع ایران از آن‌ها نام برده می‌شود، در این کار مشارکت ندارند. اگر چنین می‌کردند، برایشان بسیار بد تمام می‌شد؛ و قطعاً به نفعشان نبود.
 از توجه شما به این موضوع سپاسگزارم!
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/news_hut/68943" target="_blank">📅 19:21 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/68943" target="_blank">📅 19:21 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68939">
@@ -1100,7 +1100,7 @@
 <div class="tg-text">⏺
 در هفته‌های اخیر، آشیانه خصوصی وابسته به سپاه در جزیره خارک هدف حمله قرار گرفت. در این حمله، چهار فروند بالگرد آگوستا وستلند AW109E که توسط شرکت خصوصی بالگردی خلیج فارس بهره‌برداری می‌شدند، منهدم شدند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/news_hut/68938" target="_blank">📅 18:31 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/news_hut/68938" target="_blank">📅 18:31 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68937">
@@ -1109,7 +1109,7 @@
 <div class="tg-text">🚨
 رئیس‌جمهور ترامپ روز سه‌شنبه در کاخ سفید با بنیامین نتانیاهو، نخست‌وزیر اسرائیل، دیدار خواهد کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/news_hut/68937" target="_blank">📅 17:57 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/news_hut/68937" target="_blank">📅 17:57 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68936">
@@ -1185,7 +1185,7 @@
 ⭕️
 وزارت امور خارجه آلمان اعلام کرد که این کشور فعالیت‌های سفارت خود در تهران را کاهش داده و بار دیگر از شهروندانش خواسته است که هرچه سریعتر ایران را ترک کنند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/news_hut/68932" target="_blank">📅 15:15 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/news_hut/68932" target="_blank">📅 15:15 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68930">
@@ -1293,7 +1293,7 @@
 <div class="tg-text">⏺
 بخش هایی از سخنرانی ترامپ درباره ایران زیرنویس فارسی:
 @News_Hut</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/news_hut/68923" target="_blank">📅 10:34 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/news_hut/68923" target="_blank">📅 10:34 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68922">
@@ -1423,7 +1423,7 @@ Pinbet
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bBDosWjOQj-TqniPHtc6Pwz56MR1IJzEDTDlZYH4sd8-2t1bnhb5CTZW6Kh_Ot83alMsrtHtu0ScuDeTh1n7FBy0JaRXEBHKTz6Jp944E62btzVAYQZzjAANAuPwxP9UTfVxKTT9MsyZawGs-LhyJy9uvEH0Zbfy26PEhF08PM86VEElKRK_lIjmwZUWuPT-HTbyzMTLzadiCoA7T2NULGiSTc1nj4tHHmYd5k-G9qyJQI1JgFz3i-DDAIVKdkvi69r995fGYgKuby5cS-FxXIgeWOxH_kukwsHHyG3h1p8tBiq5ax-LDK6NYhLWMSbrA1e6yC4Xxdvni5Fa30qvzQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 بندرعباس؛ امشب  @News_Hut</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/news_hut/68913" target="_blank">📅 03:37 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/news_hut/68913" target="_blank">📅 03:37 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-68912">
@@ -1493,7 +1493,7 @@ Pinbet
 
 <div class="tg-post" id="msg-68907">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gHJPffnq7CAm25vdwoE9BerS6I5ch6sZ6SXoGl3XPy6CJ-XEhUG_FHiikuktCELf4UN5BYuX_uNnGwuTmEhJughNTzxn384cPqskvzms61wjNd3yIlX858JQGaVLlADdK9DV3WsVwPQgn5D1WJRHwqeCmXBoFIfHR9KHJJDcHxDzEQUSfB7Wau4KgVedSaAtej_1V4QvQXT6717F8c0Vo3rFIILHfCvDEHX5rlFqkpIBxFvZoJtNKuojWZmco2n415N8spJrtlyqxtErE_Ql6ID3PaEt_LfemTj6pYIVxbyxghtVr4Jz6PjWkmYVruup_znsWqqKfI2I_KcAJZUSoA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lYDgxH9B7AhWU_6cZTnjzfRKoXZqY4Zp6dKZDr0uIzB4bYIsw66P8WyrIyomQYJ4yaiM1oLPBhDDd6i8eECJ9InFg6a18WxltabjmPuK8xSR92kMBCMGzUKum0P9T3MjaQ9Kj-VrUmS_S168i6pFHyYsH3ArtCIFYvPNM24G_qT1XbWG_iOW6l6-EdqQ7h1WPAHGcvAjFuchKV3CHa6VagRTAY6Tf49aGD3XX7zldr-D8GlZLShcib4rlstvUJRjtjecd6-p0kmbzwGmuZrX8dK3uUodtZz3oWWc2KpsPf5QI_LcPCKJsNfBDmNEEw45f3T7bZmuqUmrEEPVfOX1Iw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💥</div>
 <div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/68907" target="_blank">📅 03:00 · 02 Mordad 1405</a></div>
 </div>
@@ -1589,10 +1589,10 @@ Pinbet
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/1175f94fc3.mp4?token=OF_zRvxPBX3i3ogDS3HBUF_vTW6bxAe3Oq9yh43yJH3qQi8sNv3SRfgbIz0TrhXoBPqhCaacDqQdjuZurXocxBLUyqC-w8w93GXN6ONE8Op0C95tRIajafRVDHDk9R9vha8IJKgVuieBqZnvV4qJHQm7rsdQqkby1HMBUMN5rjiR49Kvynt5sXAFiYr_-OVIf3vOq241iGciNXUpGzao7sJd-zmk5cVJnfOOL5tqUCNWz-A7wIAGW9ipnvNwkxcPNxQFqtb84fZMDnfKw-up9zWxZsT_-65Y2QBETbvD-GIX9T9S1CZw9t5-WKGhY1ZpUWallJl4LIveq9h2jsCBuQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/1175f94fc3.mp4?token=IQwB-a3xa3hnttHZIiM2b5jqbLXsYw9TWfbhC-hmqVVMxLJvwh-q6n8fiKASdjRmxsDx0bb3xHUEuuN8ctrEHcOBrlpRw7jbkTYhgtnQBCLtQlNpMmaqYRV-Dl_XM8gi2OfIKgYE_LWsVNeysMMqlWhatVobVBXb802TKgbOIcOHD8dmIDgneH6z9wV-R1zPil8Yb826-qBG4Cf-LVKHmgLrKDUBnNgeWlpFYs0MTH5Hr6Pir1z_L7tHR9yarI2VGEW1YeCS6YxEtzmWjTlW_IyrJ3ltMA8If2mC_xx6NGmdVViF_PMpOoqH6zt-FlF7q47H-KbjYN2Un6W4XHRdWw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/1175f94fc3.mp4?token=OF_zRvxPBX3i3ogDS3HBUF_vTW6bxAe3Oq9yh43yJH3qQi8sNv3SRfgbIz0TrhXoBPqhCaacDqQdjuZurXocxBLUyqC-w8w93GXN6ONE8Op0C95tRIajafRVDHDk9R9vha8IJKgVuieBqZnvV4qJHQm7rsdQqkby1HMBUMN5rjiR49Kvynt5sXAFiYr_-OVIf3vOq241iGciNXUpGzao7sJd-zmk5cVJnfOOL5tqUCNWz-A7wIAGW9ipnvNwkxcPNxQFqtb84fZMDnfKw-up9zWxZsT_-65Y2QBETbvD-GIX9T9S1CZw9t5-WKGhY1ZpUWallJl4LIveq9h2jsCBuQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/1175f94fc3.mp4?token=IQwB-a3xa3hnttHZIiM2b5jqbLXsYw9TWfbhC-hmqVVMxLJvwh-q6n8fiKASdjRmxsDx0bb3xHUEuuN8ctrEHcOBrlpRw7jbkTYhgtnQBCLtQlNpMmaqYRV-Dl_XM8gi2OfIKgYE_LWsVNeysMMqlWhatVobVBXb802TKgbOIcOHD8dmIDgneH6z9wV-R1zPil8Yb826-qBG4Cf-LVKHmgLrKDUBnNgeWlpFYs0MTH5Hr6Pir1z_L7tHR9yarI2VGEW1YeCS6YxEtzmWjTlW_IyrJ3ltMA8If2mC_xx6NGmdVViF_PMpOoqH6zt-FlF7q47H-KbjYN2Un6W4XHRdWw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🚨
 🚨
