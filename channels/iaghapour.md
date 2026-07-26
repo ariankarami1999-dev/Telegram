@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/QQHUfSXYuyXBkNjkysbeaweS6aYyQBMmNPAhnbx6g0sXva_3-xRD-LW6_cANWA9lTCE5AiSRwUpPYKj5o33HHj67cvyEWgp8_Uky849j_BAjf8J5nWSIaqggw-qPqMyniRiVb46tN_iV2umyNDBsZa29u3S5JwWh-4eScauVniJ6We7dLE-6MoXMjN2uzyqx4I3HpsBfJ6bSfs6_Hp-UDOs5Q6fgmCTRGy4Oh6FqWfpRmmw5Z1J8umnaP1sLr5qYGkSwHbmgoZSueHQid6USYvGaFCKKhNdiwlX4oSLev3OZ-RTmoVKBYQ0-ghLwkYO0wwxiNxxxEdrXJjnxxuYsCQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/CRKN0IO54hWvjjOvHwjaGKd5AE7ejsXQ1WoZ4viZCM_eVzF9ehparDUcsDkjBOCG__nK3bZc4PBf3LkSqOigc3gzW9RiP6ZIujoScrhYI8Lk_660Iy8FqcZpBPE_RXE--_6-cbFdpalb97hxWzLueUxbfwHP0oS5WTpfxo677MblIGYc9NngjWKFOICIo6AfxOCXyXCutWnVqb1ydKPycQKNY0ka4C6DX8yKwDGQVn_lqGmpHi34V3XPcmIFzZDigdKbEHLT696mTPi9yn19p7Bd6bi4nunULjejojSxIu_HXXG2d-HaHEba9eOPtbmGgK-gcRaO85Yv0guHgIPYDA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p>@iaghapour • 👥 52.8K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-04 22:28:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-04 23:39:17</div>
 <hr>
 
 <div class="tg-post" id="msg-2818">
@@ -317,7 +317,7 @@ WELCOME20
 شروع رایگان
 👇
 http://b2n.ir/dinacode1</div>
-<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/iaghapour/2818" target="_blank">📅 21:09 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.74K · <a href="https://t.me/iaghapour/2818" target="_blank">📅 21:09 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2817">
@@ -348,14 +348,14 @@ Trojan
 آموزش کار با برنامه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 3.27K · <a href="https://t.me/iaghapour/2817" target="_blank">📅 20:59 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/iaghapour/2817" target="_blank">📅 20:59 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2816">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vKnIerS5Abc-_1oXQorZMSqq_07_arp9FIvzs5u3wu1UplqTss1Q261e7Eb-CeJVLiQuV161JCQ2pXZmkVXUz_Q_uXxXD3_3kG_SSHCs0xv-ro6PZIttGv1D2iBEPHZQJO1wA_KvmJ4CO9fMza3zbW-wDwX-CrN8164j6Q1DprX5vyE_KJlloIqH2uWB0me94F13Splx-dKxQRYVLzOR_Kr-NldkSnKO0BIivQxXt_r6mmSANf5d8buCWx98VZCJf-qwn26AC1ZR83KmMTvrRFEX5_lyVdIjtv3IpzrzYyiNm_w-TqzSveXnTIR3Lv-K7kwNwDZ7_nlbfugBiIaBcQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مردم ما در هر شرایطی نمک خاص خودشونو دارن :)</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/iaghapour/2816" target="_blank">📅 20:40 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/iaghapour/2816" target="_blank">📅 20:40 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2815">
@@ -370,7 +370,7 @@ Trojan
 @ircfspace
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/iaghapour/2815" target="_blank">📅 20:02 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.19K · <a href="https://t.me/iaghapour/2815" target="_blank">📅 20:02 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2814">
@@ -397,7 +397,7 @@ check-host.net
 🏷
 کد تخفیف دائمی:
 AKO58</div>
-<div class="tg-footer">👁️ 8.33K · <a href="https://t.me/iaghapour/2814" target="_blank">📅 22:35 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.52K · <a href="https://t.me/iaghapour/2814" target="_blank">📅 22:35 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2813">
@@ -423,7 +423,7 @@ AKO58</div>
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.3K · <a href="https://t.me/iaghapour/2813" target="_blank">📅 18:55 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/iaghapour/2813" target="_blank">📅 18:55 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2812">
@@ -453,7 +453,7 @@ Claude Opus 5
 بیشترین مقاومت در برابر فریب‌های سایبری و کمترین میزان رفتار ناهماهنگ.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.38K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.49K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2811">
@@ -466,13 +466,13 @@ Claude Opus 5
 آقای حمزه حوتی عزیز، مبارکتون باشه!
 ✨
 آقا حمزه لطفا برای دریافت جایزه‌تون و هماهنگی‌های لازم، از طریق…</div>
-<div class="tg-footer">👁️ 9.04K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.13K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2810">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from𓆩 𝐇𝐢 𝐒𝐩𝐞𝐞𝐝 𓆪 ️ᵃᵈᵐⁱⁿ 👨🏻‍💻</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NA9tBTu-qH3E791AgZIhbaY5ckDPJa1uejtRoDd6Z4XqcsoyHC7FmzF6v8fBBR2KfaFgB5SWVyjix9qU68PtpL_QuL2OGLsAc9yUohNY-68X-vwWJiYCbMiAmQacaAxVIRuokKUQNPOWur9ariFbHJYa0d1voPGf8xjxzrndkZEcJw4wiyH-YqqDoiQF0voSKIcDB-3JVArg0ktGY4MDLznnsKwX_yCoOmlDEBDyKk830Jp_bdb8b899CLj5UEh3KUSM53apmKJOiG6L2d8PbZ4ufXUNwpBmi5GY5xIxOfe_QiRy2HwtuWVUFnI3aVxFLB5G2v6LaKrkaCntMzjbGw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CkeFnztBCyif6-4k0KE5bGH821YypwLJWAcioqDgmks5E_FN3iSAdqQrr3fHfZQVQvmOiDlTXloL5LzG1_V9ytfgy7tQ0mQVuFbDCW3C7gN6nOb64ASubRBi5YBMWci5Kc-qeF1MgDlWXsPFK_ZSfuoXQ1vinz3F-Lj5PeHN6fkSywaxPzMf8dIwLiA7krAJRAJM3apkCU9GbmuY5hYuzvGS1Iq2n2tBVEaj4UpCJlZS8ceQhHF3ZG0UcOOydRzQNYljKcLJ2zLOnp2o2luLBD6RqknTtvIFQlaV-mni3tvmvaH0SFalXZEBVwTOa9WEFhuT2u84IBS0BY4A1AN6jw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">𓆩 𝐇𝐢 𝐒𝐩𝐞𝐞𝐝 𓆪
 | سرعت ، کیفیت و پشتیبانی واقعی
 دنبال یه VPN پرسرعت و پایدار با ضمانت بازگشت وجهی ؟
@@ -524,7 +524,7 @@ Claude Opus 5
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">🟢
 اگه بین ویدیوهای چند ماه اخیر بخوام فقط یکیشون رو بهتون پیشنهاد بدم که حتماً ببیند، بدون شک همین ویدیو بالاییه؛ پس اصلاً از دستش ندید! :)</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2808">
@@ -595,7 +595,7 @@ Claude Opus 5
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2804" target="_blank">📅 15:10 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/iaghapour/2804" target="_blank">📅 15:10 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2803">
@@ -622,7 +622,7 @@ Claude Opus 5
 گیت‌هاب پروژه برای بررسی و راه‌اندازی
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/2803" target="_blank">📅 14:36 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2803" target="_blank">📅 14:36 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2801">
@@ -650,7 +650,7 @@ Claude Opus 5
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/iaghapour/2801" target="_blank">📅 18:01 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/iaghapour/2801" target="_blank">📅 18:01 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2800">
@@ -676,7 +676,7 @@ Claude Opus 5
 لینک دریافت نسخه 1.0.3 از گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2798">
@@ -709,7 +709,7 @@ nipovpn://
 لینک اسکنر پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/iaghapour/2798" target="_blank">📅 20:44 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/iaghapour/2798" target="_blank">📅 20:44 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2796">
@@ -868,7 +868,7 @@ LangOver
 لینک سایت و دریافت برنامه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2786">
@@ -888,7 +888,7 @@ LangOver
 همه این موارد در
 آموزش بالا
 قابل پیاده سازی هستش.</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/iaghapour/2786" target="_blank">📅 21:54 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/iaghapour/2786" target="_blank">📅 21:54 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2785">
@@ -1013,7 +1013,7 @@ LangOver
 👌
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/iaghapour/2776" target="_blank">📅 20:14 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/iaghapour/2776" target="_blank">📅 20:14 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2775">
@@ -1101,7 +1101,7 @@ UAC SNI Spoofer
 هدف ما از انتشار آموزش‌ها در این کانال دقیقاً همین است که یاد بگیرید خودتان به سادگی و به صورت کاملاً رایگان این ابزارها را راه‌اندازی کنید. هیچ دلیلی وجود نداره که بابت یک کد رایگانِ کلودفلر به کسی هزینه پرداخت کنید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/iaghapour/2771" target="_blank">📅 15:34 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2771" target="_blank">📅 15:34 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2769">
@@ -1293,7 +1293,7 @@ IPv6
 
 <div class="tg-post" id="msg-2754">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QnfvFoH-0TNGZq4YnZqc455fiiJhw37IVFIuNVQ3QTMzdwO_BxVjauftiaaCobLUzBFqGXh1MBNGaqoG-ygd5tfgAZ1rIwzO6ofeTAU3HgitS1E9YlmfrafT8PAyA5rYdLhiQcchbS1qJsMkifZGOO9YUxnZOAA5dnLTwbhkYnBLfM1Rnkf35Q0BBPw3ddI07yH45SYCFY-a-PM__LXcK_FF5JSaJCddR0wCI2XRISZAaqzHE6dIxEE0SSWGh99Hg2tHhRdNaaI1mXlnc8BFgfLmf8oZK3lSqrlKHlgZZ3GlrLVI4uG3O0XQSlHcP5KUBge2BEKBwpiKda83ivQp_A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UqaZWP24WTVzy7QuhGuWwvABbMtbqmGT-RBniwDNLpPa6ROcFQRBkUe8b_nW6aTHub1vVCdo06k0KCY1hprd55quTx2T9px-bPBSWU4eYx7yWRHeng2DipRxgNfPaMXPsVyNFnBalnvgLPEfGXZ8dwYA0K-agyn1DXXHKjQCEecgUOhVGhjqZDeywY8POgVq3fPM2_z7SsRHC7p2LjKERSw42dAtT_M5WYyEMQdUB0TfHYiYuVcrKCnU7tIiXGj4KPceG5J8uCZMUkydwR3zoEfkQPCdalwIA-s-2esFDaa2b6W9MQQo3-NA-6jB8yvtVp0ZE8AxkEz4suSL_fuh7Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎬
 قهرمان گمنام دنیای ویدیو؛ چرا VLC هیچ‌وقت پولی و تبلیغاتی نشد؟
 🔹
@@ -1425,7 +1425,7 @@ Nova.app
 
 <div class="tg-post" id="msg-2744">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/APXUgI9G8H-fSeXjTRkLYQKOB7X9QtpfawgB9TZTZl56ohcrqL2BNSgTNGBT0uKhh4lYWyboC5IlIMviHA7xVIj18npSPh8CJcbOh29DYMGRYxXvqB7KOmV5PoJqPl7aSji0fwXw3PSuwoZOnFyUyfneEA95j5ZDkvBR_ONaEUuyUprCqjMoIdaeJK196KyiKErupDInKUdkI-m7WTCbDYSqxOXz7OCooeM3E6xHA1umK4wOg8cgvMoOzNyEUi31t4t0vOvBeULM9IOlkSlsJios6vvkm6u_gSO19iieUeKCXWemPPMud-Sahqs6zhiM1hQTLlRIoqfIuTB3STkPyA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FlhAaLvZ4__dYPmtHke6BxQUXVWDumJFApDRGP1Jz4evIXePFFheZJR7bwV4dO1C0zssyYn1lr507XLX3KVTudoaaY0f5PlvTGcdcJKd0cv90YJ3rG2HHKr1OcA12wiHdIR_EJAI9IYuIqMh0_om2eeIPveID7oBNtk0Pp0KdlC5_RePduS3JuMjNo3xnEH7yKr9xAlwrG6u3hq8GeUfkI0_Cy0UUChUpoDJiOfdpVNTp70Y95CPq1Uu8rJMw_-Cf-ZaOAqmxtvjw5J11cqj7APFj2fxiaKURPt4NY6gnp7fsWPXRUSZgP_ET1c33rlmU43-ZqlPT_ocB8_MJZYLiA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">.
 ⚠️
 ببینید، اینکه بیایم مصرف کاربر رو چند برابر حساب کنیم (مثلاً طرف ۱ گیگ مصرف کرده ولی ۲ گیگ از حجمش کم کنیم)، اسمش زرنگی نیست، رسماً دزدی و کم‌فروشی تو روز روشنه! اینجور کارا فقط گند می‌زنه به اعتماد مردم و باعث میشه مشتری به بقیه فروشنده‌هایی که دارن سالم کار می‌کنن هم به چشم دزد نگاه کنه.
