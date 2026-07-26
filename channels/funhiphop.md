@@ -292,7 +292,7 @@
 <a href="https://t.me/funhiphop" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 «قدیمی ترین اجتماع فانِ هیپ هاپی»🟡صاحب سبک🟡Tb :@FunHipHopAdsContact :@Chaman_Dar_KhakFollowing Copyright Laws©</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-05 01:57:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-05 02:57:47</div>
 <hr>
 
 <div class="tg-post" id="msg-81336">
@@ -300,7 +300,7 @@
 <div class="tg-text">فک کن این قیمتای بازیکنا که تازه داره تو مارکت معامله میشه رو بارتمئو ۹ سال پیش میداد برا بازیکن
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/funhiphop/81336" target="_blank">📅 01:36 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.82K · <a href="https://t.me/funhiphop/81336" target="_blank">📅 01:36 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81335">
@@ -309,7 +309,7 @@
 Download
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 3.35K · <a href="https://t.me/funhiphop/81335" target="_blank">📅 01:24 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/funhiphop/81335" target="_blank">📅 01:24 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81327">
@@ -327,20 +327,20 @@ Download
 <div class="tg-text">گفتم شاید بازم براتون جالب باشه بدونید که انگار بعد از مدت‌ها پول داده اشتراک آن‌لیمیتد خریده و برا همین بعد از اون ۱۵ تا نه تنها متوقف نشده بلکه تا یک دقیقه پیش ۲۶ تای دیگه هم پست کرده.
 @Funhiphop
 | Nima</div>
-<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/funhiphop/81327" target="_blank">📅 00:43 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.85K · <a href="https://t.me/funhiphop/81327" target="_blank">📅 00:43 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81325">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YB53_16xmlCpuKz-sljh38PM3yhxKS3u1fGGokp54rlNOnwmtPWce8_2g4us1sQbOwHI7qvfgM-_0afHfdYqGbyyU9krc-3vAOssnuYFGYRMq5_WUonwYKuvc77WLNK5eQfbGedI3SImlGShj0w3ImpZ2QUm2cgDwk7VLYrQ-7lRR-tSxtn9Bns-tWtTSUWZ9H8_NxQvEMA2g_SsS9_L203n8IwtiPQ6n9nTh8m9aRmWTCfNlfSxIyXA2hdpMSiO4YE9aDo9ZZJVXuKU3-T_B9PrZk1AUlMGF0LrQSq4FCfJ0NrKd5Jgrb0J748npsLQdKz2bEN-AMbRgav405FWdA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ اگه گفتی وقت چیه.  @FunHipHop | Arash</div>
-<div class="tg-footer">👁️ 7.01K · <a href="https://t.me/funhiphop/81325" target="_blank">📅 00:15 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.66K · <a href="https://t.me/funhiphop/81325" target="_blank">📅 00:15 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81324">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">وارد 5/5/5 شدیم و کیرخر، تنها کاری که میتونیم تو این روز بکنیم اینه که خودکشی کنیم.  @FunHipHop | Arash</div>
-<div class="tg-footer">👁️ 6.91K · <a href="https://t.me/funhiphop/81324" target="_blank">📅 00:09 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.53K · <a href="https://t.me/funhiphop/81324" target="_blank">📅 00:09 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81322">
@@ -348,7 +348,7 @@ Download
 <div class="tg-text">وارد 5/5/5 شدیم و کیرخر، تنها کاری که میتونیم تو این روز بکنیم اینه که خودکشی کنیم.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 7.51K · <a href="https://t.me/funhiphop/81322" target="_blank">📅 00:01 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.06K · <a href="https://t.me/funhiphop/81322" target="_blank">📅 00:01 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81321">
@@ -356,7 +356,7 @@ Download
 <div class="tg-text">جدی جدی قضیه پژمان جمشیدی رو فقط برای پرت کردن حواس ها از عروسی دختر شمخانی راه انداخته بودند
 @Funhiphop
 | Farid</div>
-<div class="tg-footer">👁️ 7.66K · <a href="https://t.me/funhiphop/81321" target="_blank">📅 23:57 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.39K · <a href="https://t.me/funhiphop/81321" target="_blank">📅 23:57 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81315">
@@ -372,14 +372,14 @@ Download
 <div class="tg-text">گفتم شاید براتون جالب باشه بدونید این اسطوره از ۴۰ دقیقه پیش شروع کرده و داره رگباری کصشعرترین عکس‌های ساخته شده توسط هوش مصنوعی تو تاریخ رو بدون هیچ توضیحی پست می‌کنه و تا الان که ۱۵ تا عکس پست کرده انگار هیچکس دور و برش نیست که بتونه متوقفش کنه یا حداقل ادیتشون کنه.
 @Funhiphop
 | Nima</div>
-<div class="tg-footer">👁️ 8.6K · <a href="https://t.me/funhiphop/81315" target="_blank">📅 23:46 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.27K · <a href="https://t.me/funhiphop/81315" target="_blank">📅 23:46 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81314">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/k7k9QkxLLdvQtycUnQKGvHd8lFZvzJJDnoOue5u9DVvCNgmeZcb_DImgTfEXHZvxIni8oU0bQ0enxQl50y3V8ikK6Q5mJzBUSE3qwUncwFnSs__bec9i9pFXVTVZuZzk_Bs-a8DWOlTcKlpBj0ngk7xPwPa0gFf_02QEUC4yeCtT31S-yZ10Ej9mhA8xtTVq1vRiFqYKh-gDI7Aso6S9LkMpkFRKwVyLCmyP17xdy6QB3PnYS5unTlRe55Ai1mojWQCT_wZfZA_yCSyDSfEDBrgQN7cvk99kXSjgYvRcVb_F6EoQ7gIdXeNBml4aD1ebI_f3luAu4jr0nvOulGADyg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏پسر بیژن مرتضوی اوتیسم داره و استفاده از ویولن سفید تنها راهیه که میتونه پدرش رو در میان نوازنده ها تشخیص بده.  @FunHipHop | Taymaz</div>
-<div class="tg-footer">👁️ 8.61K · <a href="https://t.me/funhiphop/81314" target="_blank">📅 23:15 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.16K · <a href="https://t.me/funhiphop/81314" target="_blank">📅 23:15 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81313">
@@ -388,7 +388,7 @@ Download
 🫪
 ❤️
 @MMD_HAB</div>
-<div class="tg-footer">👁️ 8.49K · <a href="https://t.me/funhiphop/81313" target="_blank">📅 23:10 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/funhiphop/81313" target="_blank">📅 23:10 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81312">
@@ -402,7 +402,7 @@ Download
 🫪
 ❤️
 @MMD_HAB</div>
-<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/funhiphop/81312" target="_blank">📅 23:05 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.32K · <a href="https://t.me/funhiphop/81312" target="_blank">📅 23:05 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81311">
@@ -411,7 +411,7 @@ Download
 <div class="tg-text">لاپورتای بیناموس یکم از این پرز یاد بگیر.
 @Funhiphop
 | Jenayi</div>
-<div class="tg-footer">👁️ 9.26K · <a href="https://t.me/funhiphop/81311" target="_blank">📅 22:50 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.59K · <a href="https://t.me/funhiphop/81311" target="_blank">📅 22:50 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81310">
@@ -420,7 +420,7 @@ Download
 <div class="tg-text">ریدم حصین به زنش خیانت کرده
 @Funhiphop
 | Jenayi</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/funhiphop/81310" target="_blank">📅 22:40 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/funhiphop/81310" target="_blank">📅 22:40 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81308">
@@ -429,7 +429,7 @@ Download
 <div class="tg-text">دیامونده رفت رئال
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/funhiphop/81308" target="_blank">📅 22:31 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/funhiphop/81308" target="_blank">📅 22:31 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81307">
@@ -438,7 +438,7 @@ Download
 <div class="tg-text">فقط کیر، توییت مالک شریعتی (عضو کمیسیون انرژی مجلس) :
 @Funhiphop
 | Jenayi</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/funhiphop/81307" target="_blank">📅 22:27 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/funhiphop/81307" target="_blank">📅 22:27 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81306">
@@ -446,12 +446,12 @@ Download
 <div class="tg-text">گیفت شجاع خلیل زاده به تلگرام اضافه شد.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/funhiphop/81306" target="_blank">📅 22:17 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/funhiphop/81306" target="_blank">📅 22:17 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81305">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-footer">👁️ 9.9K · <a href="https://t.me/funhiphop/81305" target="_blank">📅 22:17 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/funhiphop/81305" target="_blank">📅 22:17 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81304">
@@ -459,7 +459,7 @@ Download
 <div class="tg-text">درسته پژمان جمشیدی از اتهام تجاوز تبرعه شده، ولی هنوزم باید برا رابطه نامشروع ۸۰ ضربه شلاق بخوره
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/funhiphop/81304" target="_blank">📅 21:51 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/81304" target="_blank">📅 21:51 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81303">
@@ -491,7 +491,7 @@ Download
 🤖
 برای دریافت اکانت تست یا خرید، از طریق ربات زیر اقدام کنید:
 https://t.me/ToPoLvpnbot?start=start</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/81303" target="_blank">📅 21:35 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/funhiphop/81303" target="_blank">📅 21:35 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81302">
@@ -500,7 +500,7 @@ https://t.me/ToPoLvpnbot?start=start</div>
 <div class="tg-text">میدونستید دیامونده بازیکن آکادمی بارساعه؟
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/81302" target="_blank">📅 21:18 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/funhiphop/81302" target="_blank">📅 21:18 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81301">
@@ -508,7 +508,7 @@ https://t.me/ToPoLvpnbot?start=start</div>
 <div class="tg-text">پژمان اپستین تبرئه شد
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/funhiphop/81301" target="_blank">📅 20:47 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/81301" target="_blank">📅 20:47 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81299">
@@ -522,7 +522,7 @@ https://t.me/ToPoLvpnbot?start=start</div>
 :
 @FuunHipHop
 | Jenayi</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/81299" target="_blank">📅 18:15 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/funhiphop/81299" target="_blank">📅 18:15 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81298">
@@ -531,7 +531,7 @@ https://t.me/ToPoLvpnbot?start=start</div>
 <div class="tg-text">نمیدونم چرا ولی کورتوا رو روی مبل تصور کردم
 @FuunHipHop
 | Jenayi</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/81298" target="_blank">📅 18:12 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/81298" target="_blank">📅 18:12 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81297">
@@ -556,7 +556,7 @@ BetForward.com
 r4
 💻
 @betforward</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/81297" target="_blank">📅 18:12 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/81297" target="_blank">📅 18:12 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81296">
@@ -564,7 +564,7 @@ r4
 <div class="tg-text">امروز 4 مرداد، سالگرد درگذشت رضا شاهه
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/funhiphop/81296" target="_blank">📅 17:40 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/81296" target="_blank">📅 17:40 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81295">
@@ -580,7 +580,7 @@ r4
 😂
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/81295" target="_blank">📅 17:18 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/81295" target="_blank">📅 17:18 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81294">
@@ -596,7 +596,7 @@ r4
 دوستان این ویدیو با صداگذاری ساخته شده و واقعیت نداره.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/81294" target="_blank">📅 15:26 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/81294" target="_blank">📅 15:26 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81293">
@@ -605,13 +605,13 @@ r4
 <div class="tg-text">رسام سهرابی هم بعد این که لختش کردن و موهاشو زدن دیگه کلا از رپفارسی خداحافظی کرده و بلاگر شده.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/81293" target="_blank">📅 15:03 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/81293" target="_blank">📅 15:03 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81292">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">سجاد شاهی این پول ویناک چیشد</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/81292" target="_blank">📅 14:53 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/81292" target="_blank">📅 14:53 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81291">
@@ -626,7 +626,7 @@ r4
 <div class="tg-text">دیشب آنتونی جاشوا موزیک سیاوش قمیشی رو به عنوان تم ورودی خودش به رینگ انتخاب کرد و وارد شد.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/funhiphop/81291" target="_blank">📅 14:27 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/81291" target="_blank">📅 14:27 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81290">
@@ -634,7 +634,7 @@ r4
 <div class="tg-text">امروز ۴ مرداد، سالروز درگذشت رضاشاه پهلوی، بنیان‌گذار سلسله پهلوی است. او در ۴ مرداد ۱۳۲۳ در سن ۶۶ سالگی، در زمان تبعید در ژوهانسبورگ آفریقای جنوبی درگذشت.
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/funhiphop/81290" target="_blank">📅 13:34 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/81290" target="_blank">📅 13:34 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81289">
@@ -644,7 +644,7 @@ r4
 شرکت‌کنندگان در این نشست از جمله شش خواسته اولیه جامعه رنگین‌کمانی برای «یک زندگی معمولی» در ایران را تشریح کردند که عبارتند از: ۱. حق زندگی، تحصیل و کار در محیط امن ۲. جرم‌انگاری کوییرستیزی ۳. حق تشکیل خانواده ۴. صدور مدارک شناسایی متناسب برای افراد ترنس ۵. دسترسی به خدمات درمانی متناسب ۶. آموزش و افزایش آگاهی عمومی درباره مسائل جنسیتی.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/funhiphop/81289" target="_blank">📅 13:26 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/funhiphop/81289" target="_blank">📅 13:26 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81288">
@@ -652,7 +652,7 @@ r4
 <div class="tg-text">جفری اپستین تنها شانسی که تو زندگیش آورد این بود که زمانی خودکشی کرد که ادمین اکانت حافظه تاریخی حوزه پوشش زیاد گسترده نبود و اونقدرا هم حوصله‌ش سر نرفته بود.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/funhiphop/81288" target="_blank">📅 12:45 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/81288" target="_blank">📅 12:45 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81286">
@@ -661,7 +661,7 @@ r4
 <div class="tg-text">اینو دیدید؟ رئال مادرید دو سال دیگه برا همین 250 میلیون یورو پول میده
 @Funhiphop
 | Jenayi</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/81286" target="_blank">📅 12:27 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/81286" target="_blank">📅 12:27 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81285">
@@ -670,7 +670,7 @@ r4
 <div class="tg-text">استوری جدید صدف زن هیپهاپولوژیست :
 @Funhiphop
 | Jenayi</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/81285" target="_blank">📅 12:14 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/81285" target="_blank">📅 12:14 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81284">
@@ -695,7 +695,7 @@ BetForward.com
 r4
 💻
 @betforward</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/81284" target="_blank">📅 12:14 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/81284" target="_blank">📅 12:14 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81283">
@@ -704,7 +704,7 @@ r4
 <div class="tg-text">این تجهیزات آمریکا که تو دو هفته‌ی اخیر زدیم نابود کردیم ۲۰۶ تا ۱۰۰ میلیون دلار قیمتشه.
 @FuunHipHop
 | Menot</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/81283" target="_blank">📅 11:44 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/81283" target="_blank">📅 11:44 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81282">
@@ -712,7 +712,7 @@ r4
 <div class="tg-text">خداوندگاران هفت آسمان را سپاس که امروز من را لایق زنده ماندن و توانا در شنیدن این معجزه‌ی جدید تمدن بشری دانستند.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/81282" target="_blank">📅 10:30 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/81282" target="_blank">📅 10:30 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81281">
@@ -720,7 +720,7 @@ r4
 <div class="tg-text">یادش بخیر امتحان نهایی فیزیکو فرمولاشو نوشتم تو کاغذ بردم سر جلسه، بعد نمیدونستم کدوم فرمول برا کدوم سواله، افتادم
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/81281" target="_blank">📅 10:08 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/81281" target="_blank">📅 10:08 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81280">
@@ -729,7 +729,7 @@ r4
 <div class="tg-text">سیاسی بسه، بریم دعوا جنسیتی
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/81280" target="_blank">📅 10:04 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/81280" target="_blank">📅 10:04 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81279">
@@ -737,37 +737,37 @@ r4
 <div class="tg-text">آلوارز کلا سه تا مشتری داره پاریس، آرسنال و بارسا، آرسنال چون داره وینی رو میخره کنار کشیده، پاریسم چون فران رو داره میخره کشیده کنار، فقط بارسا مونده
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/81279" target="_blank">📅 09:56 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/81279" target="_blank">📅 09:56 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81278">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">امیدوارم زودتر بمیری مهدی اونوقت حافظه تاریخی داستان پسرعمو و F35 زدن رو به همه میگه</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/funhiphop/81278" target="_blank">📅 09:47 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/81278" target="_blank">📅 09:47 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81277">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">صرفا چون ی نفر تو گذشته خایمالی کرده دلیل بر همچنان خایمال بودنش نمیشه، آدما تغییر میکنن همونطور که مردم مخالف رفته رفته از نود و هشت تا به امروز بیشتر و بیشتر شدن</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/81277" target="_blank">📅 09:45 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/81277" target="_blank">📅 09:45 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81276">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">صرفا چون ی نفر تو گذشته خایمالی کرده دلیل بر همچنان خایمال بودنش نمیشه، آدما تغییر میکنن همونطور که مردم مخالف رفته رفته از نود و هشت تا به امروز بیشتر و بیشتر شدن</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/81276" target="_blank">📅 09:41 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/81276" target="_blank">📅 09:41 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81275">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">یارو پیرمرد افتاده مرده ملت ریختن سر جنازش میگن ۳۰ سال پیش خایمالی میکرده، خب کیر</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/81275" target="_blank">📅 09:35 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/81275" target="_blank">📅 09:35 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81274">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">سلبریتی تو ایران همین که خایمالی نکنه کارشو انجام داده بیشتر از اون بکنه یا فراریش میدن یا یه بلایی سرش میارن دیگه اون آدم سابق نشه</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/81274" target="_blank">📅 09:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/81274" target="_blank">📅 09:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81273">
@@ -776,7 +776,7 @@ r4
 <div class="tg-text">رشید مظاهری اومد مستقیم گفت، چیکار براش کردید که از بقیه هم انتظار دارید بگن
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/funhiphop/81273" target="_blank">📅 09:27 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/81273" target="_blank">📅 09:27 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81272">
@@ -784,7 +784,7 @@ r4
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fEZgsQO4zsaqsauPN4QtsFMBjZ_g3dk1qkUuT8qcFUk-d-49GWqtC10JSDyfYud8r8Zby0ZhYHDbPxnzbvo0gu4b6qulzWWjW-nF_TiCXoYq8wcnblHsWt2Efp7bJ4j3b7AUdfFzpzSPhOKksR0ULNiKzM-FjQZcpRpkCoXPYXZ27TTq8bhT6oqf2PZJ4JQr_sP-se1EmgQsybv_hyR2HQK-ym4rmnV0WtfWR4Y-KKjX9uYO41DdQOZSZC3qys9YnH9USIz3vP70nYxzKtB8XyLI5eQp9JzIBuvfzCWx-8MfJODpUv5PaLi_bv9q-mVswBi_pzCmQAh5S0XXmzphdA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">@Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/81272" target="_blank">📅 09:18 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/81272" target="_blank">📅 09:18 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81271">
@@ -792,22 +792,22 @@ r4
 <div class="tg-text">فیتای ویناک و هیپهاپولوژیست از سپاتیفای پاک شد.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/81271" target="_blank">📅 07:46 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/funhiphop/81271" target="_blank">📅 07:46 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81270">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qdxg3KegV7xXZ0GXYsvq0k13gRDWLeQ1s_z0ePkBDzP-Ss-lvwLDT93X7YIHq84nbL6k8aVfyAwGouxzXA9IL9Vw5AbzhT2oFn-co-vnWz0uudpe1TXxJ5i0HdmTnLLFUhhhwLbwv12e0_VVvmmhnhZx0A6KPJBvYhtmO2Y5ggkYJiBzg_PqGDi5-nRIwLmrjAyFp7JgR0XQ_JXXmaKN9HLVsIVNMoxfp3yuA6IpTdweixuOxAfh01hJOAGWyPQaSE0XR6JgnmapIvfmmsQthGasnkH7iZx2ZE6jjYFFqw3bqLWuudzuqposUEV0bBvmhcXVPa2TN4ewx6i7_fNyuw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eZRyF5-qkGDtr8MNlfCYrfpNEbbd0nE2dRs6wth5pA5vFcO5FbxPoIuXhT8xbjKksOwsCt8qkzSibePBsUFenWGIU3M7akQFVy8m5eljzS8GCcdzbq_0c3mOEVIHCb0mXaPbm4H-1vwXdM6ppjxvFA28BnzWgsOQttZiyCzfYWDmp7NMK8gQ1Dm02vkftmk_riTt_w3xbdhisrhkrN0STXMkEf2WK21FnaWV84QKU0EqD6e5aTnLfF9HXaok5feivXwkuMq9lxQNhIkeUTp5T-xjn7SQSHqx35mZ-14IJLrfZ-h6JLHjuTzYtKKQng0lmnCq_afcc-1THpVJIecNmQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جود هم پاخور بوده پسر.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/funhiphop/81270" target="_blank">📅 02:35 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/funhiphop/81270" target="_blank">📅 02:35 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81268">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">ایمان کیرم دهنت چرا کسی جز تو صدا نشنیده</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/funhiphop/81268" target="_blank">📅 01:57 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/funhiphop/81268" target="_blank">📅 01:57 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81267">
@@ -822,13 +822,13 @@ r4
 <div class="tg-text">چی رپفارسی؟
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/funhiphop/81266" target="_blank">📅 01:52 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/funhiphop/81266" target="_blank">📅 01:52 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81265">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">ترک جدید حسین تی‌ام و شایان یو به نام "تقصیر منه" منتشر شد.  SoundCloud  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/funhiphop/81265" target="_blank">📅 00:29 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/funhiphop/81265" target="_blank">📅 00:29 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81264">
@@ -838,7 +838,7 @@ r4
 SoundCloud
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/funhiphop/81264" target="_blank">📅 00:29 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/funhiphop/81264" target="_blank">📅 00:29 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81263">
@@ -888,7 +888,7 @@ SoundCloud
 <div class="tg-text">اینم از مادر رپفارسی
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/funhiphop/81259" target="_blank">📅 22:27 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/funhiphop/81259" target="_blank">📅 22:27 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81258">
@@ -911,7 +911,7 @@ SoundCloud
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/p0O0qghal86zqYxUNtqtQunBYv2E_lc7HXXM0pAnW0dH1ZCQ0LMQcXI1zVs28GiPU-aPyXeU0zEUeX4woHlgBNf3pMIUVFH6ygpi3RIrYFiZ3kzJ6XK5Ud9eAPVgaxV0NU7oXQ5UySR7iF5ZRTZgKLG8x3WR4FVhutqEFBC721AmajXJHSwECDhNRC0H8wApmxjyonXlEcB0Ym373humPfp5OxyHdeKEdG8NF1cQkmourd7_SDKrvfK4xRjk5qKaL4FmLGEBjwdOCr4z6XfS4PDL4xQTf6U0HIHgjA9VbFfZO6E3hzrqMBXmUHa7x6kLjB7slWcb_XB1pIx8muM2pg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">@FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/funhiphop/81257" target="_blank">📅 21:39 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/funhiphop/81257" target="_blank">📅 21:39 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81256">
@@ -932,7 +932,7 @@ SoundCloud
 #خدابخشیان
 @FuunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/funhiphop/81255" target="_blank">📅 20:05 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/funhiphop/81255" target="_blank">📅 20:05 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81254">
@@ -958,7 +958,7 @@ SoundCloud
 <div class="tg-text">میدونستم اینو قبلا یه جایی دیدم.
 @Funhiphop
 | Jenayi</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/funhiphop/81252" target="_blank">📅 18:46 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/81252" target="_blank">📅 18:46 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81251">
@@ -1013,7 +1013,7 @@ r3
 .
 @FuunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/funhiphop/81250" target="_blank">📅 16:59 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/81250" target="_blank">📅 16:59 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81246">
@@ -1022,7 +1022,7 @@ r3
 <div class="tg-text">بدبخت مهدی
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/funhiphop/81246" target="_blank">📅 16:00 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/funhiphop/81246" target="_blank">📅 16:00 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81244">
@@ -1031,7 +1031,7 @@ r3
 آمریکا در حال بررسی طرحی برای خارج کردن اورانیوم غنی‌شده از تأسیسات هسته‌ای ایرانه؛ «پیچیده‌ترین عملیات نظامی تاریخ»
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/81244" target="_blank">📅 15:43 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/funhiphop/81244" target="_blank">📅 15:43 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-81243">
