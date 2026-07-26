@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-04 13:21:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-04 14:43:39</div>
 <hr>
 
 <div class="tg-post" id="msg-2814">
@@ -319,7 +319,7 @@ check-host.net
 🏷
 کد تخفیف دائمی:
 AKO58</div>
-<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/iaghapour/2814" target="_blank">📅 22:35 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/iaghapour/2814" target="_blank">📅 22:35 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2813">
@@ -345,7 +345,7 @@ AKO58</div>
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 7.55K · <a href="https://t.me/iaghapour/2813" target="_blank">📅 18:55 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.65K · <a href="https://t.me/iaghapour/2813" target="_blank">📅 18:55 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2812">
@@ -375,7 +375,7 @@ Claude Opus 5
 بیشترین مقاومت در برابر فریب‌های سایبری و کمترین میزان رفتار ناهماهنگ.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 7.84K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.94K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2811">
@@ -388,7 +388,7 @@ Claude Opus 5
 آقای حمزه حوتی عزیز، مبارکتون باشه!
 ✨
 آقا حمزه لطفا برای دریافت جایزه‌تون و هماهنگی‌های لازم، از طریق…</div>
-<div class="tg-footer">👁️ 7.94K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.03K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2810">
@@ -439,14 +439,14 @@ Claude Opus 5
 کانال اطلاع‌رسانی:
 @Hi_Speed_Channel1
 ☑</div>
-<div class="tg-footer">👁️ 9.85K · <a href="https://t.me/iaghapour/2810" target="_blank">📅 22:59 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.9K · <a href="https://t.me/iaghapour/2810" target="_blank">📅 22:59 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2809">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">🟢
 اگه بین ویدیوهای چند ماه اخیر بخوام فقط یکیشون رو بهتون پیشنهاد بدم که حتماً ببیند، بدون شک همین ویدیو بالاییه؛ پس اصلاً از دستش ندید! :)</div>
-<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2808">
@@ -495,7 +495,7 @@ Claude Opus 5
 
 <div class="tg-post" id="msg-2804">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XwD7lA02VMbd7b_ubFOzYSPqgW6mjCfsS11jqtdjhgJJzKduc2soIXZptFhSVFsWCfsv0LrGQSEw1wG56ZhSJEQKO0yd3GrAFoUaC7HFuott6hdRUcHqqfKQ8Gr8ro4UuX7tN0y7YqzSPneYnRSp90Xl4FaSrKXHtd4g8LpkmING13sD_F7zNknx6IcVsf0m2vYtfy-Q0j3SZMjujN_I5Su42NrJu3CPjGDYEOjlIa7uWEr5JZuR74SmDnwB99fN72OYyjrjXxSwPIQJ81JxH8RjCcEHrDYL0pl3fWStF9vywwcPG5yuk7WTxPPuqxpBOyhFlmCtlWHKoBpzFEfKXw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kJKBpFWHx6Gm7cTmxMrSXOiVbYua05ZmGilHV8WHX5pZQRPgu_GIGr9rLVg8ss8RWWuKvUda3vPAf04C4rnEm5oC4pf0iYQzVC38TvMkY-F7rgPWnBSGrKjpxsKgtDqtS1ZP2ohbOWj_lENGOhzbxA2Bf8TyUL8mxV9-gK3I5cS2bsREAwNZZyRxynSF_dIn5u-0ojr3zUNkEGRiHUWuCdaLogfe36qjrJi3roaUD100NINA5KWgnM35xYK46Rs0c7mAyESr6v1H088zAxX0oLanOX3AsOzDtdC9duoUPibPM4hcRbbdtjKQRV5NIl_byeMtLbhgYEfwpEW-cSZ33w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 بدون نیاز به خرید سرور فیلترشکن شخصی خودت رو بساز!
 🔹
@@ -522,7 +522,7 @@ Claude Opus 5
 
 <div class="tg-post" id="msg-2803">
 <div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JUCHbIfqX9oc0nJpNRkMcQsJSrQFO-x1MtUPrlWFkBnh0gS8xiG1RSbtwZuMuxkS9k_Ej09ZzXVE2M8ubC39kt79KR7riK7E1i9c8luiUiLAXegqUaZoaxLEMxQDBH_XRruUhQkw_URK0ijMuYcCa7j-9d5bRjsrn_TH2spr2v0BDpSSdlTowyHAa0Bm7qhDhORKFdRumGalPgS0yLRXH4fBGY560EKSeKzSN6wKwF_Q9bM31E-EWWV4-myBg_XcJuFUNsOhKU7uYSn9ukoy_9UdilOYCRlSTz-C8GTBUXWsx1JUgrTxZ_i8wpjltOaLxdmUEEr01bjSFLpHVKaZPA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rOykRb5wpXH5VCCoUrCwi4j0YudERjbrhT-KlaUtzni276kH_8CNIdqZyoZgu_ztHpnrPs6Y-fKgyAp65rr5DcCIltBvYJJT5vBk2bfXHPpdilcMM3qB6II2H5cNcN-ZJHH64_CLWSv8MnK676YKaZ9-LBoBjNMmBu7ufVHY_7I0pQdyPeGyqW1o-qWvV61a2DLjRmfWdI_I_QdXYWxuOEpJh2rkJMt704m_QMqL2O8KRxAjtYdwsErP4ksPi9Ux1lL-gCeWHaU91VRU9Ywu1Z-vOmb_IjNarqCTvoznC2QSVj9F057W3PwkDpLBOoieIgtJhl8BJcoFRKq0JGW7kg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Holt Chat؛ پیام‌رسان امن و ضد سانسور
 اسکریپت (Holt Chat) یک پلتفرم پیام‌رسان کاملاً متن‌باز و سلف‌هاست است که با تمرکز ویژه بر حریم خصوصی و مقابله با سانسور اینترنت طراحی شده است.
@@ -709,7 +709,7 @@ Flutter
 
 <div class="tg-post" id="msg-2792">
 <div class="tg-post-header">📌 پیام #83</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pJ_WgkyOKE8_8FhZpDfHxMDeuQ2KSYQyO2tBIoe6FnC63ISv2HZ05jbRyGAiPPVOG5r4KJHRjynpdRorOlSCyClK6YHycsCgftFPiNrfksIMwGOY1YqGQmbPHHZbprQ8-mvGpugHQ0cMiLX_6UOwb2dGv-IMn8Lq-2L7mDusbIHul5phyZeCH35VLTTWTRnU8OEpC7la8d6zBuO1otpykm4wmqbiKQSLx49ocRbgex5qp8Xmg6BpbWMfidwResYSAhgYrrpripWNV1idXsFflDkQNZfns1LZK_1hiOYh04cbRYbO-WdJCUlw6az76w5-v7smcEovlNFD6DVqbAY8aQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tySAlJXgHsc_qnFWvlKtT8p6sLDTKUR72W0tDNvEorTofl81_wIKx16ZsfL1muXHhmEvZF-vUWRy3CppSsDFmp5d8S5v4Qo2-NtgoGqxOjvJMb5rq5hi20Zgov4xE4ArXJWHsT6X3tDCO--ud2UCIp_-NMUCXXVAFntOC65EtlsGLz7GjhhLz8sNnE-fffx5rbUR95pWo2EfTWwRDip8qY0PSHrVsuTXv3Zh1uYfiF3LiiYOWdvm8RyXUIt1oFpAd2VudSYChhHal5n8CSwyHLuqXXf6v73Sg6grot44RnJRvvZPyD_N7glbaO4aVM-HgymA4M5I7CQ6Y-zwrgwWEw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بدون شرح...</div>
 <div class="tg-footer">👁️ 15.8K · <a href="https://t.me/iaghapour/2792" target="_blank">📅 16:07 · 29 Tir 1405</a></div>
 </div>
@@ -738,7 +738,7 @@ Flutter
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/iaghapour/2790" target="_blank">📅 21:25 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/iaghapour/2790" target="_blank">📅 21:25 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2789">
@@ -856,7 +856,7 @@ LangOver
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2783">
@@ -903,7 +903,7 @@ LangOver
 ⏳
 زمان قرعه‌کشی:
 همین فردا! پس تا فرصت هست کامنتتون رو ثبت کنید.</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2779">
@@ -913,7 +913,7 @@ LangOver
 پ.ن: من می‌ترسم فردا روز اینا واسه جبران بیان سایتای ارائه‌دهنده گواهی مثل Let's Encrypt و اینجور چیزا رو تحریم کنن و کلاً همه رو به فنا بدن!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/iaghapour/2779" target="_blank">📅 16:12 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/iaghapour/2779" target="_blank">📅 16:12 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2777">
@@ -945,7 +945,7 @@ LangOver
 خدایی دیگه چه انرژی و انگیزه‌ای واسه آدم می‌مونه؟ اصلاً نمی‌خوام نق بزنم یا فاز ناامیدی بدم، ولی واقعاً یه جاهایی آدم کم میاره و رسماً می‌بره... کشته شدن این سربازهای بی‌گناه هم که دیگه مثل یه تیر وسط قلب همه‌مون بود. آخه چرا باید پژو پارس بشه آرزو؟ چرا باید یه ۲۰۷ مشکی بشه سقف رویای یه جوون ایرانی؟
 😔
 خدایا... فقط بزرگیتو شکر.</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/iaghapour/2775" target="_blank">📅 19:41 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/iaghapour/2775" target="_blank">📅 19:41 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2773">
@@ -1005,7 +1005,7 @@ UAC SNI Spoofer
 
 <div class="tg-post" id="msg-2771">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M8PqvBxszi5sQ-wL86VvCcfmQKZfGJsUNehj4olerByEb74fUIicIpEO2IKvEyual_U3HMw8Za_GwO06mi6O5Lu2Iun0mfVSMKEkCqNWsF9535kAXanVBNYboSzM7cp5Bt6KhdOF-HbK9aW-gZjG-sxoCcZfzkaOLDGszdBmB3bZPN-on84cJ9K4OEg-0QwbYV9vVG-tkPUVVtx_tZ6mnRGceC_8wO7FsCHDxw4GNXBoJDAAvXazY4QArlb19qkQmxw71dKtfiiipNgjx_HgdWbq4GLHokzP98Wjrjw6CTJzT9cBf2IqKQRCeJ-rDi7SNsyq3ZcooUA-HNXkaoqRVg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/axNlqEp9KRnuLbK8Js2jPPIKYAq8qvV-iBibquTzHPCvqnDlp9kWp1pHQGu51_FD7pzwV7KQiKWd1Q4gEKFhcYYoo61Ashjs4udvSbOgeEN4gDNVBTVc45q-CM3NrZulKoZnD0Vetiglkj2Ss7c_i4ykfcI7how3kLmmkh1R6POW9C575Wzh12JJzLYqhBvwl22iCYwvrDI57J7RGiH-5oPrkpzosMs0XVIskWBfhObqSoOeMqaqKbtODvk1f0Ghas9fBKQbv11GCmT-iLaZ8_Q3dIHmZqgIWvO85qgCLdCLICckDlxVoASNsKCC_IElC-0VXWkYCeuMylKZdWlXrw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚠️
 توجه! مراقب کلاهبرداریِ فروش پنل‌های رایگان باشید
 دوستان عزیز، با توجه به پیام‌ها و درخواست‌های متعددی که از سمت شما دریافت کردم وظیفه خودم دونستم که یک اطلاع‌رسانی مهم در مورد سوءاستفاده‌های اخیر داشته باشم.
@@ -1058,7 +1058,7 @@ t.me
 Behrad Javed
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/iaghapour/2768" target="_blank">📅 19:27 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/iaghapour/2768" target="_blank">📅 19:27 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2767">
@@ -1165,7 +1165,7 @@ IPv6
 اگه ترافیک سرورتون رو از پشت کلودفلر عبور می‌دید، احتمال خیلی زیاد اون آی‌پی تمیزی که ست کردید روی ایرانسل محدود و کند شده، ولی روی همراه اول هنوز جوابه. تو این حالت معمولاً با اسکن کردن و جایگزین کردن یه آی‌پی تمیز جدید مخصوص همون اپراتور، مشکل حل می‌شه.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/iaghapour/2758" target="_blank">📅 21:33 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/iaghapour/2758" target="_blank">📅 21:33 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2757">
