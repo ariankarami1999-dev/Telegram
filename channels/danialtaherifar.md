@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-06 03:26:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-06 05:27:46</div>
 <hr>
 
 <div class="tg-post" id="msg-948">
@@ -1677,7 +1677,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 <div class="tg-post" id="msg-853">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/nG6uHrg4H8VL9gjwU9Zq2lLUS5If3Z9y-1dLHNbD99eKcuGH0mKXvTNsxvo43UjGBX3veO3cBICq91UrK718SdTsmId_nBtsodiJlmXQQU7MFUGM5wcAKS23yAldWSKCuppkzyVYLlhz_eeCQJukIiE0CU42HaY9i-kqDhaTAV6xGam_8f2TddWSUByzcUu1nM92HvsCbQQKJvO_3W7cNnQGi3b9UJEoBE47GMw2ta96VR4llSK4rGJNA0grYfqCSNuXmVPO-NL247MJtFllTyY_v5YnGi2qB2Wmu_hyaK_otN2J1lArgoolpCunHVzOSQY2V5UHuN2qlKEl36x9dg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/VCiwCkQQCxuki4dYhK8zftPMgA8d8h70rxj_Cr9NfwoD-IrOBTpv6_UfnygOgI61sidOQsEq33hS1Q-fqG8KHFkbfRUaA1nxnL5VdwUPaYXMWcFuf85wT1QwnelOTgrpBzsq026jBapGIAD1BQvWKYJG-3wLRIh9GyfLYi9w_ymlRrSG14I7RRlOEC4OTE3LIZSvpnpzNTOvDyUx9xxE3Tn_dIHz9S7Bhku3QdW9tOUm1_xCHsFsynDzDum6Id1FNn2Nyw-pmCnTp7i3IERH87g3mx8sWlJX4d21k36t5kssPeluTmG1sBTYYqYz9JWYeiARxAWP9z0Rxs6OUiBzpw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/cMIXUT_oPSAXkct76ty3s0PXNmXcYzOULIivcHEYqdNJ0UMYb6qaR_k2tCKBguHJV1GRFOr0sqPmR3Xx4z3OwKETagahaQ3QLRmkdRb9kDfWdd5VklD2bnu3G7qBhAc8V7Ywmfna9dvOXKJA39cGQ6xv45Mcrd4TB6hXBb-UEZP-N02cnPAHc6ihLjbHTbI-WuCuYtsMauSrB8P3Z-BzxkmrPiciuT6SrzfkDBlLrK3uFEADAfItVc700oQ_8lKWS-UfUQ_7oWIGhXM1_EuHyQMjeLIHtCVdy0pMZdFvGTvPw1h8iARcJvjLHppYtwKU6V4BPdlnf860P2kAKe7tUw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">📉
@@ -2494,7 +2494,7 @@ neural networks
 
 <div class="tg-post" id="msg-828">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uAzrswIVLHNeC1sIwHR5thug3jLVYJzGN1BiOWcAJQqnTkdu7qmrddM68hv0vE6la16xtaLKPNzswQaYu236KQXpuCqv2NQ1S_BOzZjpNPfN0Vm_CzCioexO_cUntHna06grFWqdC8B5lLTRaywUBAC31WcOQwVX2tGRgBjcINbL3GqkRso3SntNffKfz5_WWpRxhhTJHSnIyRPfqpozOx4dOP7716L9Av2TGg1ad9RgT3IvCBtXrLLpaZ8ZTMrwCSfS_gNmV0vKFoMo0OCYtb4Fpb1m5Y8xqruiu1-q9YeGmG2ZhzZxquGGzxey5G2KLhGfoBLpXJ_lPBt0MYJSmw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t9g9h612b8ngE9kgOM2y9ZRrsocOJdgRfkZFtp4sjzoNPRaxp5lJoptECh1_DeMVaTpYYsrVom6jWp_TosBNwwvpfovbefiIsgWCdKF5V7H6t4HNvv70RsGQxZDbIYrhbHBDa_Nun_4-KESJU74wGKlolbgM_iQCLhy_LcWhaYCkkaC1Qh5oxltuU0nZIeA68UBTdhiu0kitUoIYzVGYxeM9uoEd5mDpumqeloEYtfVjKzYVqqu8n6HZ2iA74wQaPx2tiKbilvvIT2KFLaXygKjLtYIlYvuGcFvw9HHnv4teQcwpVXOgKKKmpLvpv5jmd2UXDRjVnP-sg72IKrWVSg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❌
 مسدود شدن اکانت آنالیتیکس سایت های ایرانی
 ⚠️

@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-06 03:26:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-06 05:27:46</div>
 <hr>
 
 <div class="tg-post" id="msg-2821">
@@ -336,7 +336,7 @@ https://netinomarket.ir
 @Netino_Service
 ✨
 نتینو؛ کیفیت بالا، قیمت رقابتی و خرید مطمئن</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/iaghapour/2821" target="_blank">📅 21:15 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/iaghapour/2821" target="_blank">📅 21:15 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2820">
@@ -358,7 +358,7 @@ https://netinomarket.ir
 آسیب‌های ناشی از ابزارهای دور زدن فیلترینگ نشان می‌دهد که حوزه تامین امنیت سایبری نیازمند نگاهی جدید و بازنگری در شرایط پایدارتر است./زومجی
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/iaghapour/2820" target="_blank">📅 20:52 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.58K · <a href="https://t.me/iaghapour/2820" target="_blank">📅 20:52 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2819">
@@ -368,7 +368,7 @@ https://netinomarket.ir
 🔥
 🔹
 تو این ویدیو قراره با هم یاد بگیریم چطوری یه فیلترشکن شخصی فوق‌العاده با استفاده از پنل پاسارگارد بسازیم. این پنل از 2 هسته Xray و وایرگارد ساپورت میکنه و همینطور از قابلیت نود هم پشتیبانی میکنه.…</div>
-<div class="tg-footer">👁️ 7.68K · <a href="https://t.me/iaghapour/2819" target="_blank">📅 17:05 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.77K · <a href="https://t.me/iaghapour/2819" target="_blank">📅 17:05 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2818">
@@ -393,7 +393,7 @@ WELCOME20
 شروع رایگان
 👇
 http://b2n.ir/dinacode1</div>
-<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/iaghapour/2818" target="_blank">📅 21:09 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/iaghapour/2818" target="_blank">📅 21:09 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2817">
@@ -424,14 +424,14 @@ Trojan
 آموزش کار با برنامه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/iaghapour/2817" target="_blank">📅 20:59 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.22K · <a href="https://t.me/iaghapour/2817" target="_blank">📅 20:59 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2816">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kptreuHlFnJeOEV92li3OO19lCZM0BjSbW_wNkSWClP51juNhvPyu46fxVYFi88e1z3UouN8l0ttEG8qC-dTj3yBkRD0IsT9w4NrpIm3wSDt27bxjVBc4YahPj4uwwmmrAL_kYRSP-VZv8PRQXS9VeiwhXj2YAeS2653McAojGlTi3rqZuvQn5PBnolHxorITJzNvtIAp3aEEjm0w-NKOfMHgYwVCMa0tG2SfNEwP-PpsNhi2dkPDcCutlsZWHmPZLd5joCObTQBUyw3If_kxWP4brDpeUI61eiGztfhScwQKi0rYyDPp-hWaupHwRJK2uHJ6foa5b_UibqXpf6l2g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مردم ما در هر شرایطی نمک خاص خودشونو دارن :)</div>
-<div class="tg-footer">👁️ 9.37K · <a href="https://t.me/iaghapour/2816" target="_blank">📅 20:40 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/iaghapour/2816" target="_blank">📅 20:40 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2815">
@@ -446,7 +446,7 @@ Trojan
 @ircfspace
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.77K · <a href="https://t.me/iaghapour/2815" target="_blank">📅 20:02 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/iaghapour/2815" target="_blank">📅 20:02 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2813">
@@ -552,7 +552,7 @@ Claude Opus 5
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2807">
@@ -780,14 +780,14 @@ Flutter
 (مشابه پروژه torsina)
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2792">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DC7E61lFkwwzEYpDEvQSrrRK7GRowtQ3hZlTGQDonHppl0rqdrPW_zBaeOqQb9rsRCx3kQ_Rp5krn07GitN1fVMzximpXMyYQLHivtWGa0xbZLq-Vc4CAWhtMbDTTyjBdzXnTI2le2NRdeRrZcEj_6PYgiZ05FbdLL9MbRh7Hru-0D5xdihQ4iQJ-q9KgBl_aiM_3RevPOO_Iiku-AmG7BG3fGdHiog87fgebGSUqPcWHIQAu2R8G-IHqplBMIKx5i6IBxeFWVDGc8-AIkPdwtRdUPHAuJE8TB_nUG_QNyOifdasQTTEE8dLT7ckDuceU5-RZSTNVjACLXcNdqQpxg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بدون شرح...</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/iaghapour/2792" target="_blank">📅 16:07 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/iaghapour/2792" target="_blank">📅 16:07 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2790">
@@ -979,7 +979,7 @@ LangOver
 ⏳
 زمان قرعه‌کشی:
 همین فردا! پس تا فرصت هست کامنتتون رو ثبت کنید.</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2779">

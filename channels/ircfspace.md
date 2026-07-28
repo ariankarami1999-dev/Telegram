@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn1.telesco.pe/file/RF0BXHcgrFAPfV_lKnvtx1aR6I2UkhcSvmRGWZe4NT2FJ7vpQn5Osglkpr2F5DuXp-6LoNOKLzZelP40bv8Cgs1vJkAAlfYWvQ3EXPpoqe63kUgvLRU0GHsMMZ1lUYw_t6CQYKUVLgFzZtub_7c2XeRFhkyzrOYN3C0C92H9WP2uL9e-POuIyqlZ1p5KoTb2WdFHnzVN0KNzS0CfMqHcoW7a0uQ5yohrMcxXN1n9aIV9r3KExejSa6mwYBMiqf-0R41yXW0pWEEZmpGFxfyyQyh32C-O18EfpUKZ81ZXa-LwCmgGN1whPzEDdIr8tl4iNTd8vixFgdz8CFQNQADNCg.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn1.telesco.pe/file/ecIjIze_jNELKFf3-3QQwTYiAnWt_0jSEGK1b7BwNDwnofnO--6alJhyF634kbmPw52zqLnmokbULhOssObWGPLJp9k1e1htXoGhKsgODUTPEe1SV_oBNzEaCbyXoxnb8FzE3ciAD28aCtvZ8pGc1MD15I9jgckzIH-yPJecR-d24ZsL3iSeJFkZfWFYVrAdhDS83XusrhybdjkBLFlemdjFzckFNAyL7Nkq3fHWgY9HQ7zT_VtZpk5koPO345USLcFqlp0H-WBsZ2nTrc-V8Wyfhm0H29fUBmz7p2mFZ45_nQ3ff1TQkQpW2GZLT25kpJ0f2oRIKyEfYCXzQ5lKNA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 IRCF | اینترنت آزاد برای همه</h1>
 <p>@ircfspace • 👥 97.7K عضو</p>
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-06 03:26:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-06 05:27:46</div>
 <hr>
 
 <div class="tg-post" id="msg-2518">
@@ -308,7 +308,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/ircfspace/2518" target="_blank">📅 18:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/ircfspace/2518" target="_blank">📅 18:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2517">
@@ -340,7 +340,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/ircfspace/2516" target="_blank">📅 18:08 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/ircfspace/2516" target="_blank">📅 18:08 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2515">
@@ -357,7 +357,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2514">
@@ -371,7 +371,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/ircfspace/2514" target="_blank">📅 19:00 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/ircfspace/2514" target="_blank">📅 19:00 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2513">
@@ -386,7 +386,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/ircfspace/2513" target="_blank">📅 19:56 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 33.5K · <a href="https://t.me/ircfspace/2513" target="_blank">📅 19:56 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2512">
@@ -415,7 +415,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/ircfspace/2511" target="_blank">📅 18:55 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/ircfspace/2511" target="_blank">📅 18:55 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2510">
@@ -446,7 +446,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.4K · <a href="https://t.me/ircfspace/2509" target="_blank">📅 11:13 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 36.5K · <a href="https://t.me/ircfspace/2509" target="_blank">📅 11:13 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2508">
@@ -464,7 +464,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/ircfspace/2508" target="_blank">📅 17:01 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/ircfspace/2508" target="_blank">📅 17:01 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2507">
@@ -481,7 +481,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27K · <a href="https://t.me/ircfspace/2507" target="_blank">📅 16:53 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/ircfspace/2507" target="_blank">📅 16:53 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2506">
@@ -579,12 +579,12 @@ slcyber
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/ircfspace/2500" target="_blank">📅 07:57 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/ircfspace/2500" target="_blank">📅 07:57 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2499">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lkoTKXZ0WfbX33yRmknKzQZkEy_8eilMv0YR7npoyFkxl-SWn26bhDC763SyGHqFHbZYyM8hdQOi184T3xWP0ViFkgaROPpAYHbC1K8vpsRTKCwbF1JCIBMwBTL0O5xJelaA5xeXCPnKwDWdtz-tLGJvHsU-QClGYA6DWP9v2pYSKbupWm_-MmJjeD3dUftKhRSqn-uUwDs05-I40XUdYL29d3dIf4cVA0Eb-LJJqaJoUAKoyCJkj8T6180xnqLYJxVfbrZ-SjvUJIw5_yssCb203Hik_m0YSwTQWAX2EYEj37kmiQdEeT3jSpsJ4xq42dkEUbm7gAQwF9cA1IycDg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IHFhekXF8Z5s8Ld_ppS8OUKMik01VbEb2sUKCYubBBHgXtRPcYq7JdJRHDWmgV2tyvf-3B_Mz78Tp9BsGI5bpzebzkUqMfd2jKVsptAcJnBrH07QMh1TRxsb2mE-kQrKKeIFA86NtsU4UjBhYSsWNCHPe19j1YYpbzoJK7dv_XV_yT0dO044UIpFq2f9-IQlKiqCe1s-RO37_We1-JXU1pBYO0edy_HLPTvGyHpMsZLP3eBKhjNS7lUSEPqox5UKtgIAWAVHGhmMMmpos40E3b6bWh_ubkm17GzY14e8xodKk1840jl40T7tZHg6gyo_IieXHjtsmk58ml5-RysAeQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ dicodePing یه کلاینت متن‌باز و رایگان برای اندروید و ویندوزه، که مدیریت و اتصال به کانفیگ‌های مبتنی بر ایکس‌ری رو راحت‌تر می‌کنه. این برنامه از مدیریت سابسکریپشن‌ها پشتیبانی می‌کنه، می‌تونه بصورت خودکار بهترین سرور رو بر اساس latency، jitter و سلامت اتصال انتخاب کنه، از حالت TUN/VPN پشتیبانی می‌کنه، آمار لحظه‌ای اتصال رو نمایش میده و امکان تعریف دامنه‌ها و برنامه‌های خارج از تانل رو هم در اختیارتون قرار میده.
 👉
 github.com/mcodersir/dicodePing/releases
@@ -648,7 +648,7 @@ github.com/SagerNet/sing-box/releases
 
 <div class="tg-post" id="msg-2495">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/m50oZJzgaW0flVOhBwvgn56Byty6mWT-XmOVxkj6AYu1ojjHwU7nBzKx9u6jx7gRNTgIasBtuKOKMyu2Cmwc8pjtUMxUdQ6x0XGE3hU4qOibJ7RdkXjKxQd-zgb0b2A3nJpIhbMRLdrExVh_VxlFMdbDwHjVkCe0Yv3v0n0NJlXB3lmstshUrYvarTqDY0qMcCR01BQk7oB1mn7SzPBzfiI6fFEPVs_vvpKzJYtP2L_iowzbiES1bChxV8ClqASGCbRkqYSbLP8FOXTJveiP1BdwlWLdU_6SkM_aQ973gay3dHl_mPN2Z-Ob-Tz1OPoapMKiovFZSDns68jLafFeMA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/r4_Xu0NXlmXUqjGECaGwYwzW0rhfqrWCTNn7gb4SSHamlqin2ZrZIavt_5rNBxWF4bLmpBm37sBgOD-WRA7hk4qtTG5g4rOJK2Ve6EUJp-sSayL0XkXbPoigDOf16wWvzzMT9ATHzxiKMueqhVfCQsPTVk4EeM4TCd49bgQv6CxnTruuBvWGVsSioZwqEYenG-XUqjEG4q8mE9UJqSYGX56BRygpGCEuMpYQCwpqs7kMROrTXG3QMHpnZT01Oiw7JlXrfA5eY6fJdGKZ141Bd0M3IdEACS1I2-VEuzWS3F_uEXquVRa9sF3qlP13LzGCLfLLgM5ix7OMl8csAIhpqw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aether-GUI یه واسط گرافیکی برای هسته Aether جهت دسترسی به اینترنت آزاد و دور زدن فیلترینگ هست، که دردسر سر و کله زدن با محیط ترمینال رو برای کاربران سیستم‌عامل ویندوز حذف میکنه.
 👉
 github.com/MatinSenPai/Aether-GUI/releases
@@ -664,7 +664,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 
 <div class="tg-post" id="msg-2494">
 <div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/B2yJjTrD5-ccAt5Mvo8eWzxSXQr7BNvLg1m9y3RNuR2PbkFm1_8jCt2vZzuHeiyo8WB3CdV2QckQBEHxbzief0FWxuOD5lOgUhzb4n67Yj-atfsINOyQkX6sUZ3ckHCCHoXE_UdzYtf0W3W1uWtp5x-PPQlCQ6HVUdxhfR0UCCPQC9mATK3f-3Zt0OXrnbEIuog9ElB7ZRinpArlpCdfEQBll2UIyV2JPbgC5fIKVmC3QystjiTfU-ZvtwVbkChHJiVxLWAvrDTf2REHeDi07A7x5umvjUl6CDcENpKUqq1mcLBmKpYEBAgyqBRZwjRxG8oMtKlyvXxUdKrOHFm7VA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Qbfk9idMrIbCbCg3vKx1XZwQTVuPZc-120wMWNzSdTlIleMl6hW11Ygq4NN91dk7s9hQp_SMU1B11w8OwzWsY2sH6KiKJUc9JKi-NSdTVj4EWN0JAb3-zNFe7ZDsFnYlfKDBPROiNMzGe6q8D5bd2lVUJT0kb7y5aniDJc0FwhKFDifaw5R4U9nPssuDh-NBH3M6gk2Pd4l9hdyO7rq5odyyRuu5hH2Q190NAFJhdWpJWh-PgEBQUUh2QKyvGd_HhIt3VCfJSBH3voVa72qQmyIjauL957WXc_YhQRvHaIZZ68dpUFRBVgDJe-HC80U2mHHKuFu3bHVuDYuuhwBpLg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایکروسافت در بروزرسانی امنیتی جولای، بزرگترین بسته اصلاحات امنیتی تاریخ خودش رو منتشر کرد؛ بسته‌ای که ۶۲۲ آسیب‌پذیری منحصربه‌فرد رو در Windows، Office، SharePoint، SQL Server، Exchange، Defender و سایر محصولات این شرکت برطرف می‌کنه.
 اهمیت این بروزرسانی صرفاً در تعداد خیره‌کننده آسیب‌پذیری‌ها نیست؛ دست‌کم دو Zero-Day Vulnerability پیش از انتشار Patchها، عملاً در حملات سایبری مورد Exploit قرار گرفته بودن.
 ©
@@ -906,7 +906,7 @@ kaveh.yebekhe.workers.dev
 
 <div class="tg-post" id="msg-2479">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Rl52KBmps1jI5zPZqC-PO61HUBcLN-wbWRDEGUzkBuIbiekPtNbijn9eO_MnKVpbRKWQGyOzMH-HoUcBDACBkByOhK_6sXD4RW878kMQzQdllQJCjCFm0ut90ivlWp6syhHUqGpFoORQvBN_yVxthY73fw5CWUFi0duDJHqulNb6B8eLbP1ZdU0j1mXrW_xP8Jxs-0-rxVldwXFU1ETVcdUVoDCcfuBDrAQWFmpUeP9RnPhISQpkhadmuxTNWS8ue_S7VolOBCQ5xwHBtMqimy0HbPOGS9UqqokndFgcBlpdXLtJ7800qzBDtCSd1ufAzrtZwCRiP7lTyECEoH4OfA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Xz8gXJVkWRUrS61jYfF5VufaOLhgSHUgE-oPxJmJrd0MTaeo-E4fg7sByuNUbRXAe4vkhvhS9Sc1FcnUvoqofGysIOLZVn3aPEyVBuVhcPRabOQ7bWZNDrYh7XdoJjsQC0ckU5HUXDYqDwF7ZKWWQgRXhqOo0EWPYs6YhQIFNOzoWMYcsclCrpxnnUp3qIavPLxN6dXZMAiOkhKkhscwbpPku1pOtFPogduVzote3v4THSBaLseeFqEH3kl_2r8_RVSvkp25-I5Ow4al9KfXLkARDnJgk89V7WqxeZNL9zKITOnDOgVoieuRcHZeKp_FJHbmFT4HKvCj57s1JNMuBg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای ابزار MTProxyMax آپدیت جدیدی منتشر شده که توی اون از بهینه‌سازی‌هایی مثل BBRv3 استفاده شده تا عملکرد سرورها بهتر بشه و مصرف حافظه هم روی VPSهای ضعیف‌تر کاهش پیدا کنه. همینطور در این ابزار که برای مدیریت پروکسی‌های MTProto تلگرام روی سرور شخصی هست، قابلیت‌های جدیدی برای مقابله با DPI و اسکنرهای شناسایی پروکسی اضافه کردن تا شناسایی و مسدود شدن سرورها سخت‌تر بشه.
 👉
 github.com/SamNet-dev/MTProxyMax/releases
@@ -959,7 +959,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2476">
 <div class="tg-post-header">📌 پیام #58</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/owu7_ctErVK8ChZrdKk15urRlbSLhCGXxrmhq1P4yNA6NKCvjwdWbHa6yeOSXyDbPrF1K_DKpWFxuQe2O9tWzA91l0HzEqXaTrVYA5ha3lv7EzLVzdO3caRRaF104ziWtB_a8GOjH_GAV5uIffBJfS1mxkHcpUsujEpPuJTewonPxmULYGqg3QHyUPp-OzdNSJFpK3ux5SoXWVPUY5vo9Af19kgReS02bGnG6lxQAPxEf9MXcx6COJg2tGQQ2s_nSZh8Z6Y8vFcvUPfbaHub5PjSwM34mjQ1jpnZSEeFOo8yj0agsCKC1CMhm1Nf1PUaj0emMWkBFgDeaYys7I8SZg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mmEXg3Wjy0UZNcvrMRqbP5AZdG3Q_Mdm_EPs9fjS0yrTZK4vHZ5L6pUSrw1kPu9lGMhhAmr0t5KcwwX-YwYLMV86QwtlbBDjcTz4gJXFpE-LgXDu41VS8hmlSgKLdQzdX_PgKPqY9sCIgvv_6v_9Js2UMABU4kqD6uloPqHq3DKLzWcGJhKF7QIlP6Dh7RYhzizRQBZxQRW3ATMDutqvSHxud-xRZAHT16sNy_pOL0jY6fivu2FrDL_g_IhONaIGz7gzDqFAADt7yscATBIyPA4kyj2kt6_rRibMHoDA6X97sTzS5Ov84w6qcq7Z3vgflb0uKiE_JJNJChCJInymlg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که "کدوم مدل هوش مصنوعی خطرناک‌تره"، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.
 به گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس
 🔗
@@ -1664,7 +1664,7 @@ Mohsen_935
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.3K · <a href="https://t.me/ircfspace/2432" target="_blank">📅 08:05 · 21 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/ircfspace/2432" target="_blank">📅 08:05 · 21 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2430">

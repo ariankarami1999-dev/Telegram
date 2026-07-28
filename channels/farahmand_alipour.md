@@ -286,12 +286,12 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/sL_NSTxe-nqPzoH7vLM9GBFP3DNwJI7KoGl4yCTNWeXLwJdku6FM4oq6C4mFUT44g5zwpcBXVzytTBBE3M6kwjgAjVETGfuHgoRnlul14PjYw2gaVtO0NlIGtsIlUIt1_P0DYnnczzRJSU3SXbQQauYil9hfHRqyVrdwwuIj2P4ynnqPRLwz7tjuZZSTJKC0Vn8zh6LEH84r0r-3jCnLmNzSwa6E6ig1yOOn8q6zFq7x6spK_N0kq5AsEojU00o8MKkSmPFKhoGL1nLH7ax4QNdODgkag31qoqVqwdGpKEMNsvkFJ5sw0rYwlXOuNiiPg1-4IvEauzO0YvjBZIMJeQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/qqM19uY9OMTMV5DfoLRy8kAIbQJs6_Zb0ry_fy3Ug2rT2oVpchKhQe9ysElDwDDCBG0XQAb2ypPkzyFN4jpmr1y8gXJpkqdEDtutTIktX6LnjyoYS9oAsCCYqshZDVbpJARc1vk-idmWQ38UrwXe5w_Z12ZtiwNga1QeZ1B1xBVvuWPzMCVIuUEHyarqiLaUAt8e71cuKwq5pJXPhEwR2w--HWTBsSiElWxl-XLTDjtrqQrf7sca9TKl4SodnBw7nki7Qj8GbCJ95YY3-ExUXOx0j0i28vB7VrqnLt8Qb1PONBS-ruQav8-r9wAdTclBAhPhVUxrdqMMO5CWSTIVLg.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 فرهمند عليپور Farahmand Alipour</h1>
 <p>@farahmand_alipour • 👥 65K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-06 03:26:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-06 05:27:46</div>
 <hr>
 
 <div class="tg-post" id="msg-6382">
@@ -305,7 +305,7 @@
 </div>
 <div class="tg-text">آرزوهای خامنه‌ای : جوان‌های ما تا ۲۰ سال دیگه همه باید عربی بدانند.
 https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/farahmand_alipour/6382" target="_blank">📅 21:35 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farahmand_alipour/6382" target="_blank">📅 21:35 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6381">
@@ -313,13 +313,13 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-text">جاویدنام مجید پوررستمی - قرچک
 ۱۸ دیماه ۱۴۰۴
 قلب آدم هزار پاره میشه</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farahmand_alipour/6381" target="_blank">📅 21:22 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farahmand_alipour/6381" target="_blank">📅 21:22 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6380">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">ترامپ به شبکه ۱۲ اسرائیل: «در حال انجام مذاکرات عمیق با ایران هستیم. اگر موفق نشوند، به اقدام نظامی قدرتمند بازخواهیم گشت.»</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/farahmand_alipour/6380" target="_blank">📅 18:39 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/farahmand_alipour/6380" target="_blank">📅 18:39 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6379">
@@ -342,14 +342,14 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 اکنون هم که وارد این میدان شده‌ایم
 باز حاضر به عدول از اصول خود نخواهیم بود.»
 یکی هم اون وسط فریاد میزنه : یا حسین!</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/6379" target="_blank">📅 11:22 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/6379" target="_blank">📅 11:22 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6378">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fkx454vvoBkL2QCkWSqTFWzq67WIq0x80NQ5OAMjJizy9zdo-o4J1-CKcsY0AZN0sf63sIk9pv6b6WyOlAijamLUwzjcwT_wgrUxZfZzqQxT5lRSwxiesY1Oqegq1DuWX5ILLqyc6KJl7dgut9HleURDl6AEmTgaPKTCQZ1NUPzxZ2zLMy1nHOaSRXaL_yezxMLD16op68m1hF8BERYJR_M_VlKM6yjCsvxVGPdmTkEp_YxOorbiHyA39fVroBmYzzH_dBIcM4lJ2xoyapfLiQEEILG6P8I3CsxD5X3dVsbHRkw3JuQNR_Y2yA07oNl-xTHzoqHvMVD5E0O1VhUXRw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نتانیاهو راهی آمریکا شد</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/6378" target="_blank">📅 10:02 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/6378" target="_blank">📅 10:02 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6377">
@@ -362,7 +362,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <a href="https://cdn4.telesco.pe/file/af3c95e2d9.mp4?token=ucZAcftuuQgE-EApzcxILZYL2BFHKTCDuOg63yoQRc9S2qUjDSbLrYt6s4CKJhZYZAXmabm1YCHWUXae_J7QPu9tuUlAMnwa4bB-NkchtGBXxcCJc2mCM556dKi4pn8NgwoxxqYliUvctLAhuZ3BtcISAt9qhXZFvu5BRsdYJGevjHlnTV5Kc0uaUviT-jVmW-nrD2xPMgX_j59gh8CoEHJNM0TJriunvCNoJl2mDtn4BVRVWk32-kkU1IE9ZQsSeTye4nRSBysnP9u1Q3kTps3-vk4W1kpnHlplQJq8YdYFKMeSYQN4dBg92zKUGSI5vQ5UinlZ0qn1h653wpOQjA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">حمله یک پهپاد سپاه به یک کشتی در تنگه هرمز</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/6377" target="_blank">📅 09:59 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/6377" target="_blank">📅 09:59 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6376">
@@ -371,13 +371,13 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-text">«مسیر ناامن»
 منظورشون آب‌های ساحلی عمانه
 چون از مسیر ناامن میرن، با موشک بهشون میزنن :)</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/6376" target="_blank">📅 08:45 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/6376" target="_blank">📅 08:45 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6375">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">۷۰ سال داستان دلار و تومان</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/6375" target="_blank">📅 08:42 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/6375" target="_blank">📅 08:42 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6374">
@@ -419,7 +419,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-text">جنگ اوکراین
 تا دیروز افتخار میکردن
 امروز نوبت انکاره</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/farahmand_alipour/6366" target="_blank">📅 20:37 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/farahmand_alipour/6366" target="_blank">📅 20:37 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6365">
@@ -432,7 +432,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-post" id="msg-6364">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d7EDUsXNbb-mM4WE-YtSwStfWjeC5Qi7pvc87MSUhJ6C0uWng80hJoFKL-WKcxw5A1prIIZa-5BVitK6db_glsTp7MxNcbHmkxHOxaStwft2Iv0jzt2cwSnqyZ3MXthaoEQ83aHmSZO74DVa6pA3eWzc88sxpsdn5oRE2EWDpBJ1VX7tTz6_sImAhGEakee6S-S_025tNdN7aUMpoYFnrhJM1FdiD_IBXZmXY3YXRRxq2_1_1uPhtTi6kbyZJT8542lYfVLvy-YepEmkwt6bFW2h0YDbNJ1Hb7H_XD1XyD8oeCRpkzWjxnls4q5NYW0r2NzTosx4cowXkrb9xD-KRA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/farahmand_alipour/6364" target="_blank">📅 17:37 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/farahmand_alipour/6364" target="_blank">📅 17:37 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6363">
@@ -473,7 +473,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 وقتی مجری به این نقطه می‌رسد که جمهوری اسلامی می‌توانست در مذاکرات، مانع جنگ شود (که می‌گوید باز ادامه میدادیم چند سال دیگر…) عراقچی می‌گوید : تصمیم گیری دست من و شما نیست.
 این برنامه فتنه‌انگیز ۲۰ ساله هسته‌ای که هزینه ۲ هزار میلیارد دلاری بر ایران وارد کرد و حاصلش فقیرتر شدن مردم ایران بود، این سیاست ۴۷ ساله دشمنی با دنیا، این دشمنی کینه‌توزانه‌شان با مردم ایران، این جنگ‌ها را هم به ایران تحمیل  کرد، که عراقچی همین جا هم می‌گوید: مسئله ما زیرساخت و تاسیسات نیست!
 «شکست در نابودی تاسیسات نیست!)</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/farahmand_alipour/6360" target="_blank">📅 10:58 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/6360" target="_blank">📅 10:58 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6359">
@@ -487,7 +487,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 ولی داره زندگی‌اش رو‌ میکنه!
 و میگه دست به اقدامات شامپانزه‌ گونه نزنید!
 چون - مثل روستای شیعه لبنان - نابود میشید.</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/farahmand_alipour/6359" target="_blank">📅 10:46 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/farahmand_alipour/6359" target="_blank">📅 10:46 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6357">
@@ -503,7 +503,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 موردی که ۲-۳ روز پیش کامل توضیح دادم.
 جنگ رو ج‌ا شروع کرده و دارند زور میگن به عمان
 بخش ۵ هم بسیار مهمه، در خصوص کوه کلنگ، ج‌ا در عمق این کوهِ سنگ، غنی سازی میکنه که حتی با یک بمب اتم تاکتیکی هم نمیشه نابودش کرد! و چون خیالش راحت شده از اینکه غنی سازی‌اش متوقف نخواهد شد داره رو تنگه هرمز هم فشار میاره. اگه امریکا بخواد برنامه هسته‌ای ج‌ا رو جمع کنند، باید هزینه زیادی بده (جنگی بسیار بزرگ)</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/farahmand_alipour/6357" target="_blank">📅 10:06 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/farahmand_alipour/6357" target="_blank">📅 10:06 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6356">
@@ -731,7 +731,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qZQ4j0a27fSOIpeLL6ZC1TmCg5VQLV5GqHjI6rZKKTyRpfUeIqZ0jAxGX6jjPkA7gpy1NhvlRt_UFEgS5575jX8DaFiNqqHdE0Q0_jR9CX7bXJQUV7mzVkaxng21XptNSLEF7VuewvTcxFjv3bmWCQ4ZsZXKmAAlhBQXrdEs-e9zTAw3kz2ilUEj_uQa0DGH-7OkSuX2aVV-aYuXNpEWieVOipMXqeDmB4EZgHKZVWpZJb4rFGralFcotBOJF_k-psAZSIhsw0zVXPgzFkyv1Q3Ci36v3TYS7-ke1lpLj3HDDMfR1tRmbmaGENpKIiBg5lx6Gey9JAuoCpNAs6hMJQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تهدید تازه ترامپ‌: از پولهای بلوکه شده ایران، خسارت کشتی‌های آسیب دیده توسط جمهوری اسلامی را پرداخت میکنیم.</div>
-<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/farahmand_alipour/6337" target="_blank">📅 08:00 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/farahmand_alipour/6337" target="_blank">📅 08:00 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6334">
@@ -767,7 +767,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EuKZHWNUuuZRrSewIU0u-b3axRqADDmsH6Yo5qWLiPPpF0a5pgUaFN7-SvrHgGaU2fmJLZQT1-zPELlArzVYB40ntinL75ilzBY6Set_zYIPcmHKWE-5mJO2ZWXwgiMapiRqm3L5nnN2FsZLXA2d19Mtp7GFP5i4oksAP-9b85ehPEwaXOFTd-EAcrJI4Pp_mZ2JpSokAqZ76yhDX000294ln96kg5WFV2YgWigWfR3MTi6NWNa4iRKUgGAh803TPSM_FqdZLYBhv63pxnSCirBp0U-hssE68w2oTbgmqrYl8lau-5fCBTxee42NNxBy08c8sIZUZ_w16S4wpkj4_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ضرغامی : فعلا حرفی از مذاکره نزنید!</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/farahmand_alipour/6331" target="_blank">📅 21:22 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/farahmand_alipour/6331" target="_blank">📅 21:22 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6330">
@@ -834,7 +834,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 و نشانه اینکه حملات وارد فاز تازه‌ای شده.
 «بی‌ ۱» برای حملات بسیار سنگین و عمیق
 استفاده میشه.</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/farahmand_alipour/6324" target="_blank">📅 08:48 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/farahmand_alipour/6324" target="_blank">📅 08:48 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6323">
@@ -887,7 +887,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <a href="https://cdn4.telesco.pe/file/65da400742.mp4?token=DJhxP-QDN-hswyVi0yDUMo72CaMdSE-prp9KtX5Nd5eQXjsCfppJ7-qcciJkDqVfbNZCpkOzEj33p0LT9vnjM-I2O6NjRH747sOBzWaVS1ee2BbWgcsu5uGU6xI_1K2ZOfAm9WeH8uxPOG4cvrxFjnw5B1BmcNthOExBtLipPUTeNE4F_w-5YNaWIYjMhWR5Cdu3R-bGSYS4sC3puImOB_jQ-6bohoBjzho101Q7ZU3PpJoggaR7Ro0R_yncGOIGlDwdydQfDw74G-0Y9-aPHWMOWQlQrZyaxvOozOHJ8_98O3A2qL_1qMPiQQ276-Mv1p-D1CYRlz-fLurW4xLHEw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اون بابایی که با نخوت …</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/farahmand_alipour/6318" target="_blank">📅 22:41 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/farahmand_alipour/6318" target="_blank">📅 22:41 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6317">
@@ -1216,7 +1216,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/j6L_FpCBqtJ0ZJ5M7na5dx6WwTf0-LiqTxLmo_0iu3m5ZjfhVNoMIKVcmWdMMYoOM8DVmwWiu9n7kxvQ42OMpdkA2ba8OJ-TjbqS4PewVlCKJwqSr3agaHZNRP8LR_CWDRj-5kzD3mwaxiOPWzcfWP4QzDO7crp7ZluEAwb8Vdm3qIjjoZyMW1lvOZrW0kxOPQkZlS_hHohwijDpdJbmUNWcluBfTThMinOcny3LgbET1xD7qGYSnR-vavXUsuEMjwUYFIqPIlpTkJD5lGZ9HU185tQEbLF0YYHUUgZSRS7FMRVIpu7aD2SexaCHQyrJpS0QvnRdNWAUArYg-W3DVQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ارزیابی اطلاعاتی اسرائیل نشان می‌دهد جمهوری اسلامی پائیز گذشته هزاران سانتریفیوژ غنی‌سازی اورانیوم را به تونل‌های عمیق در کوه کلنگ منتقل کرده است.</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/farahmand_alipour/6289" target="_blank">📅 06:50 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/6289" target="_blank">📅 06:50 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6288">
