@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn1.telesco.pe/file/ecIjIze_jNELKFf3-3QQwTYiAnWt_0jSEGK1b7BwNDwnofnO--6alJhyF634kbmPw52zqLnmokbULhOssObWGPLJp9k1e1htXoGhKsgODUTPEe1SV_oBNzEaCbyXoxnb8FzE3ciAD28aCtvZ8pGc1MD15I9jgckzIH-yPJecR-d24ZsL3iSeJFkZfWFYVrAdhDS83XusrhybdjkBLFlemdjFzckFNAyL7Nkq3fHWgY9HQ7zT_VtZpk5koPO345USLcFqlp0H-WBsZ2nTrc-V8Wyfhm0H29fUBmz7p2mFZ45_nQ3ff1TQkQpW2GZLT25kpJ0f2oRIKyEfYCXzQ5lKNA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn1.telesco.pe/file/ZXEJBRkckCnUbYPOWwKrAzmicY7spJManGoTdpd9mN6a7GhPZNk5apREjVUIC5ANH73dMrL2Y_C9KFnh01J5QIV6cdQsHM3lT-y4QGdtXZMQw5vKNutaCCSeFHMUNSXt1gxIsokRb9oZ5L5WFcLgFptxNo4eMWe4g7O7puY2xDZoRamgGdTLkl0BsKHB7sl29e9HocZJO0PMj-yh-sHyR3tql7YwO0ZVzA83X3a0zZWpj0QxqviSAw6xKUpiaAMgqxAQuQzg9X2mYT5J1i63aoGrl819-1ZXxx_M5AdfPOTzplYt5AaqhMVC_eIvmPPOlkeXQcCIrYfx4Ym5HHRwNQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 IRCF | اینترنت آزاد برای همه</h1>
 <p>@ircfspace • 👥 97.6K عضو</p>
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-07 03:22:13</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-07 05:18:31</div>
 <hr>
 
 <div class="tg-post" id="msg-2525">
@@ -307,7 +307,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2524">
@@ -321,7 +321,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2523">
@@ -337,7 +337,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2522">
@@ -353,7 +353,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/ircfspace/2522" target="_blank">📅 18:13 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/ircfspace/2522" target="_blank">📅 18:13 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2521">
@@ -372,7 +372,7 @@ PingChannel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/ircfspace/2521" target="_blank">📅 18:06 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/ircfspace/2521" target="_blank">📅 18:06 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2520">
@@ -391,7 +391,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/ircfspace/2520" target="_blank">📅 07:46 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/ircfspace/2520" target="_blank">📅 07:46 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2519">
@@ -412,7 +412,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/ircfspace/2519" target="_blank">📅 07:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/ircfspace/2519" target="_blank">📅 07:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2518">
@@ -566,7 +566,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/ircfspace/2509" target="_blank">📅 11:13 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 41.3K · <a href="https://t.me/ircfspace/2509" target="_blank">📅 11:13 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2508">
@@ -690,7 +690,7 @@ slcyber
 
 <div class="tg-post" id="msg-2500">
 <div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cNtpWk727yeCqKBvJuwCm2lTcuWGR0Gu5Rn_OtW8H3pZwDdU2o0WF99cg_SPGqpGhZP17HwUVj1ANh5DMKcPOoUU1_5buXi-MoEE7GSbQHIU8B2YG1VSWRvPcrKfQ7PXJIVMWP3Y3bnmeMyrze2Ar7vgk-G9cXkd7I6deOz0P4ofH5RucZEBG_1wkDn4Gt5IGZ35yZhIFdmNO2VLbd6egwXfhF2ARFJIH2q2pCfYCXikI5RqCAq_qxLEQTAYleOiL9pWQZv1PAAQd9naz0Xo6W2VWYMGcHZAWcw2ioCgkcWLJ2j2-WGOehGAuoa7zD8P_XcCZRW5kVYAJubwLr497Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/usWZBulC6ZBfDWKpTNjzjr9r_bOkRgMC3UmGehVwF43PZHrCtGhCol_s7E_bb4NquylBepRYq463nHVqD243hsNG6GRb1RDShCteQFEopWMZ959sVYX9cFtzmy1bdGA3LFE_L0-VSpAeMYFiICxBJf6WVR-qnPFayxDY9VrWwn3MNhq_txk_BsOCbuaW4LLGYsjWv3fpbWjAyLeU4PTGBRGIOTNkEtUON2T2HybHJKdp97248Gtlh6IfIevGb8nRxczfPqn_SqmeWFJ_ZI6wY9OWJ1A4KUN7KPlX4ydxb3uMniGXKZld2CclRrcqcSmnYLKxzOMFq1tTEtm0hQadzA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگرچه قضیه ترند شدن "لغو عضویت جانفدا" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه "وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -704,7 +704,7 @@ slcyber
 
 <div class="tg-post" id="msg-2499">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IHFhekXF8Z5s8Ld_ppS8OUKMik01VbEb2sUKCYubBBHgXtRPcYq7JdJRHDWmgV2tyvf-3B_Mz78Tp9BsGI5bpzebzkUqMfd2jKVsptAcJnBrH07QMh1TRxsb2mE-kQrKKeIFA86NtsU4UjBhYSsWNCHPe19j1YYpbzoJK7dv_XV_yT0dO044UIpFq2f9-IQlKiqCe1s-RO37_We1-JXU1pBYO0edy_HLPTvGyHpMsZLP3eBKhjNS7lUSEPqox5UKtgIAWAVHGhmMMmpos40E3b6bWh_ubkm17GzY14e8xodKk1840jl40T7tZHg6gyo_IieXHjtsmk58ml5-RysAeQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JuMR3z4LYJ1jy399FTQdoDZ_I4--hsFmZX-QjkO1fN7165pA5aXATvzHTkVW1iSlchcQv834on0u5UXIZhJhTW1AiXJBOF9zz6v2BO6IFWwIDd-aucY4Krh49ZKfx3AgG-Z3SZrjEmyeadfuv326znz5uGym_QtWGOEFTVKNfyHF-3zDrImp0FYmF_PS9r5BstHjWphA3f6MsM6PwCXh88-E0VsyLpkBmJT9w_KBMtDeDG1JFKHXEj4nY52ynofKbbMBEwaKMWYNd519VU1dYv65WhheMc4lW-25KfBdGAlbMwKMjJTJLoZ5HnBvlxHgIzEr7BBKBBHES920lzKUNA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ dicodePing یه کلاینت متن‌باز و رایگان برای اندروید و ویندوزه، که مدیریت و اتصال به کانفیگ‌های مبتنی بر ایکس‌ری رو راحت‌تر می‌کنه. این برنامه از مدیریت سابسکریپشن‌ها پشتیبانی می‌کنه، می‌تونه بصورت خودکار بهترین سرور رو بر اساس latency، jitter و سلامت اتصال انتخاب کنه، از حالت TUN/VPN پشتیبانی می‌کنه، آمار لحظه‌ای اتصال رو نمایش میده و امکان تعریف دامنه‌ها و برنامه‌های خارج از تانل رو هم در اختیارتون قرار میده.
 👉
 github.com/mcodersir/dicodePing/releases
@@ -763,12 +763,12 @@ github.com/SagerNet/sing-box/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/ircfspace/2496" target="_blank">📅 08:44 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/ircfspace/2496" target="_blank">📅 08:44 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2495">
 <div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/r4_Xu0NXlmXUqjGECaGwYwzW0rhfqrWCTNn7gb4SSHamlqin2ZrZIavt_5rNBxWF4bLmpBm37sBgOD-WRA7hk4qtTG5g4rOJK2Ve6EUJp-sSayL0XkXbPoigDOf16wWvzzMT9ATHzxiKMueqhVfCQsPTVk4EeM4TCd49bgQv6CxnTruuBvWGVsSioZwqEYenG-XUqjEG4q8mE9UJqSYGX56BRygpGCEuMpYQCwpqs7kMROrTXG3QMHpnZT01Oiw7JlXrfA5eY6fJdGKZ141Bd0M3IdEACS1I2-VEuzWS3F_uEXquVRa9sF3qlP13LzGCLfLLgM5ix7OMl8csAIhpqw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ItAYjx-w6XeP_nhBY5B9IWNYypkDKWR6M9FHBehvMRPDENEGLDy8PdFYjWZ1PxxSeOsiRqwMW5GlEH3HLMSeNk77R5jMc9cjZPnM88BJ3FjN-i0q8DN5ReWBGUNQ7FPVn_ePv99S4d6r26Z9bPo0bKcVc-6pm6QymYDwdT1497YvRwRH2qF-ls_0aYMqSdEleNbiiN4Dbcb06xHh-Rr5VqWtUqopo8s9qAxckSTXk74VPSzLMVCXM9rU_LRB2XhDp98aawpPmv6Eg-hAwjR674CfCbbCy1u-KMM-JAGnhgS7G7QYna5sFE0HwSCaE7MtUQ3fKnwk6iarPaRxcV3gfA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aether-GUI یه واسط گرافیکی برای هسته Aether جهت دسترسی به اینترنت آزاد و دور زدن فیلترینگ هست، که دردسر سر و کله زدن با محیط ترمینال رو برای کاربران سیستم‌عامل ویندوز حذف میکنه.
 👉
 github.com/MatinSenPai/Aether-GUI/releases
@@ -784,7 +784,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 
 <div class="tg-post" id="msg-2494">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Qbfk9idMrIbCbCg3vKx1XZwQTVuPZc-120wMWNzSdTlIleMl6hW11Ygq4NN91dk7s9hQp_SMU1B11w8OwzWsY2sH6KiKJUc9JKi-NSdTVj4EWN0JAb3-zNFe7ZDsFnYlfKDBPROiNMzGe6q8D5bd2lVUJT0kb7y5aniDJc0FwhKFDifaw5R4U9nPssuDh-NBH3M6gk2Pd4l9hdyO7rq5odyyRuu5hH2Q190NAFJhdWpJWh-PgEBQUUh2QKyvGd_HhIt3VCfJSBH3voVa72qQmyIjauL957WXc_YhQRvHaIZZ68dpUFRBVgDJe-HC80U2mHHKuFu3bHVuDYuuhwBpLg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vK0QfxjowaN2yP7lRPHiy6A5vNt1UKT_pLYKj3LjMA4fxedZqbKQRIUKEr7EK18TzFl_y5kSJ5Ispw3a6oyaw4FgNBgceOMZQk7kpuccN3SDTjvSKSV42Kr-pRKVcfBW4J0TAgxBBz_3xbJl0t3WE-DNB7HI_WEGFngBgF2NuRi9Vtpvvrlso71KB_MbanG_jSuMpwgkPj21OC6ENZXPQZ95Z00ZhYandMcQYZ8SOClS8HuDlU9s8cQ0fqx1DP5hK3pxQzqONC_q6Bx9WTornJFuCtWquKQRJNDboZURQAjyVnr4VqOtizpLTuaEfWiW0bUhDc0MLid2pS05GkhozQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایکروسافت در بروزرسانی امنیتی جولای، بزرگترین بسته اصلاحات امنیتی تاریخ خودش رو منتشر کرد؛ بسته‌ای که ۶۲۲ آسیب‌پذیری منحصربه‌فرد رو در Windows، Office، SharePoint، SQL Server، Exchange، Defender و سایر محصولات این شرکت برطرف می‌کنه.
 اهمیت این بروزرسانی صرفاً در تعداد خیره‌کننده آسیب‌پذیری‌ها نیست؛ دست‌کم دو Zero-Day Vulnerability پیش از انتشار Patchها، عملاً در حملات سایبری مورد Exploit قرار گرفته بودن.
 ©
@@ -1026,7 +1026,7 @@ kaveh.yebekhe.workers.dev
 
 <div class="tg-post" id="msg-2479">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Xz8gXJVkWRUrS61jYfF5VufaOLhgSHUgE-oPxJmJrd0MTaeo-E4fg7sByuNUbRXAe4vkhvhS9Sc1FcnUvoqofGysIOLZVn3aPEyVBuVhcPRabOQ7bWZNDrYh7XdoJjsQC0ckU5HUXDYqDwF7ZKWWQgRXhqOo0EWPYs6YhQIFNOzoWMYcsclCrpxnnUp3qIavPLxN6dXZMAiOkhKkhscwbpPku1pOtFPogduVzote3v4THSBaLseeFqEH3kl_2r8_RVSvkp25-I5Ow4al9KfXLkARDnJgk89V7WqxeZNL9zKITOnDOgVoieuRcHZeKp_FJHbmFT4HKvCj57s1JNMuBg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VymRQGh-S--V6WOHElmwAG52IuG6I1VQgTPcVYaNnt6eNtVwr41MnXOrlJzHRo1de2WSKObCXBvR6ZsdoDfQfLKTToCzt8Z_cuq20on7x3BkNxJe83oWfcGN9UxkBIuwRfMWTtqqnc2umj0aNN05kebCu2Nng-yGXNsLPoOMzS40x-IJFHltNneTswu2q-NrJ2cQzQM77VPoGi__WWR8-GQEJ-LKm_xDhPK4QqJLVYPQLb621AXQWyXhiDoMrY1xyr45a74s4PD31XobI0cMrWW3_SjZ3pDLQo9PW0dIU2Vu8CWb1KL-wei4uBL0vj4-fobz7gZipoRwUO5BjpRKqg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای ابزار MTProxyMax آپدیت جدیدی منتشر شده که توی اون از بهینه‌سازی‌هایی مثل BBRv3 استفاده شده تا عملکرد سرورها بهتر بشه و مصرف حافظه هم روی VPSهای ضعیف‌تر کاهش پیدا کنه. همینطور در این ابزار که برای مدیریت پروکسی‌های MTProto تلگرام روی سرور شخصی هست، قابلیت‌های جدیدی برای مقابله با DPI و اسکنرهای شناسایی پروکسی اضافه کردن تا شناسایی و مسدود شدن سرورها سخت‌تر بشه.
 👉
 github.com/SamNet-dev/MTProxyMax/releases
@@ -1079,7 +1079,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2476">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mmEXg3Wjy0UZNcvrMRqbP5AZdG3Q_Mdm_EPs9fjS0yrTZK4vHZ5L6pUSrw1kPu9lGMhhAmr0t5KcwwX-YwYLMV86QwtlbBDjcTz4gJXFpE-LgXDu41VS8hmlSgKLdQzdX_PgKPqY9sCIgvv_6v_9Js2UMABU4kqD6uloPqHq3DKLzWcGJhKF7QIlP6Dh7RYhzizRQBZxQRW3ATMDutqvSHxud-xRZAHT16sNy_pOL0jY6fivu2FrDL_g_IhONaIGz7gzDqFAADt7yscATBIyPA4kyj2kt6_rRibMHoDA6X97sTzS5Ov84w6qcq7Z3vgflb0uKiE_JJNJChCJInymlg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HUi78IYqBpM9gDd_Rf60YtHAGgQ8QwyCJhj3DF53YTer00L75W_G6vOAfXnqI9D9s3CKqjRjp-Vq_hxZbVsMq2cQRFjryQI01hyYdsqh49Skw5K_FN8LOVWVtJ6PMaqBm01-DGrvx_cbEWaCZsX5moQ6sd0ty69zcXKes9WEE8FhTUMKJUHiYa1Ko14fs4adI_ojaRob76flKicxwjtUEkppM7jevp6rsavgpee6nei7vrpjJ_eAZkFZVAGrRiY_A2ErFbhLZwxEaS9xEiF56irIrB0950KWLarUBCOc18nkqIsS2sbp40gDdqmKus-MxEgMMhVIvDmPjvllHLdF1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که "کدوم مدل هوش مصنوعی خطرناک‌تره"، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.
 به گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس
 🔗
@@ -1490,7 +1490,7 @@ github.com/2dust/v2rayNG/releases
 
 <div class="tg-post" id="msg-2450">
 <div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RSiOwY1DWWn4POD39GOE9CBMqBgQ10_Q20Z5HNz5dpbQU6LKDjf_LaU62pq3yM0Xy8vEjgljAL1T95xWKwelVuzGWwyxWpG3ueTLIKPZfOy1sMdVDDV3HXZm43oEYs7kQSCFyMBQyy6KLZrXnxtXzg1Y4_c20C4vfM13iiwMySDCx761UEHq5zdNnOBj5JvuYLfuyw10ChYKGt9I94xyFmoTMzyt37R0cMbYmgb6c96hTsirTb29ypv9bBry0x-H6QfMGcLs7OJpUo5kw_dDouvve1E09ROnhV74OG2duyUSYDzUkcQrzMzaT5LzuxGhUZdSCCOFUJC6Y3tK-2_KKA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/D2fShEa6H75HcawkF_9QFk4_Up3-YKthe51ZXBK6XfPU6ByG562jbidH5KEOSjJPjL9-J4VZ2tM9vQ-GtitgOtlZj2uFgxgTNaoNN0z3gjIpUPObke8FCvrRxkbyO7xyNLqkTlf4CJG50cs3Y8hPI1wAe8tHcShfJu31n6-f7PCwVBLZtQf0LWR9l__y_rm3iPfnPdSkZMd95sIEzgCe5sXF1m0V-VNmhUjmDrHVgfJ2XP95s6o8CpXzeCr2vZJGk3IUV51QrMJCQ-kVkoTJskrVtSW-kWOjX166o76DLPvmskWwXSFiU1cNR4DdHqjFC1QXbt-FMeukpNzPBA6KDw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ما تنگه را مفت ندادیم، زندگی یک ملت را مفت دادیم. سال‌هاست حرص و ناکارآمدی‌تان را «سیاست‌گذاری» نامیدید، ماشین قراضه را ده برابر فروختید و گفتید حمایت از تولیدملی، اینترنت را خفه کردید و گفتید «مدیریت»، فقر را گردن تحریم انداختید در حالی که رانت و انحصار رگ‌های مردم را بریده بود. جوانی را به مهاجرت، کسب‌وکار را به «تاب‌آوری»، آینده را به سکوت فروختید. اگر چیزی واقعاً مفت رفته، نه تنگه هرمز، نه یک وجب خاک؛ عمر مردم، آرزوهایشان و فردای سوخته‌شان بوده. این صورت‌حساب واقعی است.
 ©
 rassssoo

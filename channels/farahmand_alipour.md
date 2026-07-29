@@ -286,12 +286,12 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/qqM19uY9OMTMV5DfoLRy8kAIbQJs6_Zb0ry_fy3Ug2rT2oVpchKhQe9ysElDwDDCBG0XQAb2ypPkzyFN4jpmr1y8gXJpkqdEDtutTIktX6LnjyoYS9oAsCCYqshZDVbpJARc1vk-idmWQ38UrwXe5w_Z12ZtiwNga1QeZ1B1xBVvuWPzMCVIuUEHyarqiLaUAt8e71cuKwq5pJXPhEwR2w--HWTBsSiElWxl-XLTDjtrqQrf7sca9TKl4SodnBw7nki7Qj8GbCJ95YY3-ExUXOx0j0i28vB7VrqnLt8Qb1PONBS-ruQav8-r9wAdTclBAhPhVUxrdqMMO5CWSTIVLg.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/EV2MqBw1UVHiVE985kcfIKpVREe4wNLiDznHDuk7drhdh2seC384itudXtYEokGSo4bL9VnDJI9MMZd8o7LpFfh0_Z0nOwUDuuME4b0yaioALblflBX7BsLnXiX6BFhs5HnWjvCX_KRAxsk6KxYzcX05PM8bIORt2RHJkmJsoTyUndNhDZCY3GM9cC97l75lSambeShB9wYfT7jeyH3vhdsYzPMLQC9dQqjkXcH8cQ_e-MCyJNGBWAHy8YqbnsfMiY4IfX8kNCuMuREbRN6dpZuGe8fTutx4YFWxcut_1TyvTEZWVcFJLb_mmKFQGDCWRxS3BjEsqVtVNlrFCCAAtw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 فرهمند عليپور Farahmand Alipour</h1>
 <p>@farahmand_alipour • 👥 64.9K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-07 03:22:13</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-07 05:18:31</div>
 <hr>
 
 <div class="tg-post" id="msg-6396">
@@ -299,7 +299,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TtxaaGa2NHgdANT6h6NVASJI_uCrr1X6OkpWbWA_CK2TIviPIeIQi9MYYFHKuUsTXjpvk_aw3gIi3rLa0ff6Y0NNlI3wHEBrzWoHd3UsB56U2f2lp3fCxKlG4YqQCDPar43PzAd97dUIEZo68MhH8gdcYmSbef6POekZynlaY_8dhhEP_sIAPFMahunBSlhAKjFzFg4SDajTLxbimArdzwLWd5mmG3oJCoGoUd8MAgnMXjch9bVJiJH7xW_i80VfxW_1C9qg-i3j1JMo4aGqclXhmzcwLz8dGYsAnUuY8-UD_JGqKcdIBMIbgkLT2IvK2K8l3JfYr7Vmm9ped5j-HQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حدود ۱۵۰ میلیون دلار
 هم براش هزینه کردن</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/farahmand_alipour/6396" target="_blank">📅 21:56 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/farahmand_alipour/6396" target="_blank">📅 21:56 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6392">
@@ -312,7 +312,7 @@
 </div>
 <div class="tg-text">تصاویری از ویرانی فرودگاه بوشهر
 از این هواپیمای مسافربری تنها دم آن باقی مانده.</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/farahmand_alipour/6392" target="_blank">📅 19:06 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/6392" target="_blank">📅 19:06 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6390">
@@ -329,13 +329,13 @@
 اسرائیل و مصر دوست هستند،
 اسرائیل و آمریکا روی سر ایران بمب میریزن.
 زمان شاه که در خفت بودیم هم مصر با ما دوست بود هم آمریکا، هم اسرائیل! معجزه آخوندها !</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/6390" target="_blank">📅 15:02 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/6390" target="_blank">📅 15:02 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6389">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">مراسم خاکسپاری مهدی توکلی، مدیر خانه عکاسان کُردستان، خواهرش سمیه توکلی، روان‌شناس، و مادرشان مریم اصلانی برگزار شد. این سه نفر شامگاه چهارم مرداد در پی تیراندازی نیروهای سپاه پاسداران به خودروی حامل آن‌ها در جاده بانه–مریوان جان باختند. نیروهای سپاه پاسداران…</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/6389" target="_blank">📅 14:02 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/6389" target="_blank">📅 14:02 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6388">
@@ -344,20 +344,20 @@
 <div class="tg-text">مراسم خاکسپاری مهدی توکلی، مدیر خانه عکاسان کُردستان، خواهرش سمیه توکلی، روان‌شناس، و مادرشان مریم اصلانی برگزار شد. این سه نفر شامگاه چهارم مرداد در پی تیراندازی نیروهای سپاه پاسداران به خودروی حامل آن‌ها در جاده بانه–مریوان جان باختند.
 نیروهای سپاه پاسداران بدون اخطار یا دستور ایست به سوی خودروی این خانواده شلیک کردند.همچنین پس از این واقعه، از خانواده قربانیان خواسته شده علت جان‌باختن آن‌ها «تصادف» اعلام شود، اما خانواده تاکنون از پذیرش این درخواست خودداری کرده‌اند.
 @Farsi_Iranwire</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/6388" target="_blank">📅 14:02 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/6388" target="_blank">📅 14:02 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6387">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i2ORx1jh5LsI722c8zsmqtOIUrvwB7tJReM8fIN2JSlIXnga73Oja3H7AG7mkN-nEti7VwViQaaFSn_bM8mTXHKFzI9b3Wm5jvtoOG11-VSToYxfAmVEv6txd1KPZS7D2tMaIEBIiBQlUJwAmUzTd41y_bHbWYbOQ7gJO-_ptOyI4p-CcfHnBY5g_szyBXMSMFVpyjlY0VxrZ0bntoyvznT37EJ-1LM3Gpm2IEAqhUuh8u_5gJYjFZcM5eCtigLu5_Mtfo3ixkX9FJZg3Pr8pgKzSVvwFrUkZ5ptux6S7CdxKcrjYyKdYf7t8zvDDeMvXLqyLt8oYKIklv3IdHhVWA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باید آن قدر آن‌ها را زد تا پدرشان را درآورد.</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/farahmand_alipour/6387" target="_blank">📅 11:33 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/farahmand_alipour/6387" target="_blank">📅 11:33 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6386">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">‏روایت اردشیر زاهدی از درگذشت محمدرضا شاه</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/6386" target="_blank">📅 10:52 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/farahmand_alipour/6386" target="_blank">📅 10:52 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6385">
@@ -365,7 +365,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ue28OWgnPLlukqvma0A0ngcWlMs6EI3Qi0Bn46S9QVNMzJTIZE5Sz5gAQhJbm_1534G-SRvEitXDKBWapj1nViKTCoQba1XCM9yj1VuijvNY2emTA8iSmmvtQ_CEctnOjqRs2Smsc8LZG12jaIkregOX2xvYSbDEwwdfXsU5PckQe1Yqlo3h15Y4p8ACUS1XE96Q_V0auQUpSzunqhzRLfZP2exPId7qVGPY4RK7tUsEKQIT7lP8zbVw8N7qEpFveHiKRu8PLkNyOXj-1teUV6CL32IwgyeadEFBpGTt2PkwTm0tJbOT8aoI2aEheP7lWyOn85NXRdpKbLtIg9Oxdg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">لعنت به ترامپ که ۶ ماه بیشتر بهش فرصت داد! تا یکی از اقداماتش،
 و حاصل دو روز بیشتر عمرش، قتل عام دیماه باشه.</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/farahmand_alipour/6385" target="_blank">📅 10:19 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/farahmand_alipour/6385" target="_blank">📅 10:19 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6383">
@@ -407,7 +407,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-text">جاویدنام مجید پوررستمی - قرچک
 ۱۸ دیماه ۱۴۰۴
 قلب آدم هزار پاره میشه</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/farahmand_alipour/6381" target="_blank">📅 21:22 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/farahmand_alipour/6381" target="_blank">📅 21:22 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6380">
@@ -436,7 +436,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 اکنون هم که وارد این میدان شده‌ایم
 باز حاضر به عدول از اصول خود نخواهیم بود.»
 یکی هم اون وسط فریاد میزنه : یا حسین!</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/farahmand_alipour/6379" target="_blank">📅 11:22 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/farahmand_alipour/6379" target="_blank">📅 11:22 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6378">
@@ -465,7 +465,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-text">«مسیر ناامن»
 منظورشون آب‌های ساحلی عمانه
 چون از مسیر ناامن میرن، با موشک بهشون میزنن :)</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/farahmand_alipour/6376" target="_blank">📅 08:45 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/farahmand_alipour/6376" target="_blank">📅 08:45 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6375">
@@ -478,7 +478,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sit4uA033CUIRbAlhpVWu7DCw-NmO8vCoYQMSBnOl98rSbm9oJvNlQI13kdfGDH4Tf9WpPPCkOjOPTa2G09FrHpx8AFbGMzL8a8SwReXtnlRiBHziqYnqovdfVg-EQ6r9Cy1rOJ_fccqwCjm9J4-IPgLLO7CKCihEgygxwClLAdXMLdtu6bOq1APtVe-w0NDySAw_qo3TPUkwxRhPeeMgba4H24UOZxlvOggcEuCs0ICqOtBEkKxB1dfO4dZZ9bne7XHefvHruq1bwN5t4d_53MU0gNpGWji8EC0XzrUukiZIrzprJaOtCTf9VKcrBehK9SiCxHBqTSplix_xeNxmg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نشسته هی طرح میزنه و منتشر میکنه :)</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/farahmand_alipour/6374" target="_blank">📅 00:29 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/farahmand_alipour/6374" target="_blank">📅 00:29 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6371">
@@ -597,7 +597,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 موردی که ۲-۳ روز پیش کامل توضیح دادم.
 جنگ رو ج‌ا شروع کرده و دارند زور میگن به عمان
 بخش ۵ هم بسیار مهمه، در خصوص کوه کلنگ، ج‌ا در عمق این کوهِ سنگ، غنی سازی میکنه که حتی با یک بمب اتم تاکتیکی هم نمیشه نابودش کرد! و چون خیالش راحت شده از اینکه غنی سازی‌اش متوقف نخواهد شد داره رو تنگه هرمز هم فشار میاره. اگه امریکا بخواد برنامه هسته‌ای ج‌ا رو جمع کنند، باید هزینه زیادی بده (جنگی بسیار بزرگ)</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/farahmand_alipour/6357" target="_blank">📅 10:06 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/farahmand_alipour/6357" target="_blank">📅 10:06 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6356">
@@ -955,7 +955,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 </div>
 <div class="tg-text">- رئیس جمهور سلام میرسونه و تشکر میکنه
 - باشه</div>
-<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/farahmand_alipour/6321" target="_blank">📅 07:00 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/farahmand_alipour/6321" target="_blank">📅 07:00 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6320">
@@ -1031,7 +1031,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 
 <div class="tg-post" id="msg-6313">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YAjha2er-eRL1oyZgGHjZ0OIQEqbBjK14lEEIDO8a8fTjsnyk_J6SIBbUpJSYPmtL0-um3Kw1GLhaiFc7UDbmJd3wZSzxQ13xs58ooH8g7-bSDoPaIXRdwBTzprXVRYEd4OYTo2JNaWbcIIy1syCCtH2Q3nZq48-HhgCHOx9ITVLMs59XxsuIF41NoVhLGOS3Di2XnWM4TWuOH-RtXFsBO6JwtcJyLl2xyaMXL1oB4WT_WFCnSOE99qeTMCu-mUZ5Saruv44mQZzBNb0X-l6zXdlA94BHuS4noeP48zq0QU7h5tLcNAIBn5q_lVO0JTxgFR7h5Alq8Dh9yO4uWJhBQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RGGu3UREVGyAtQZHMFhstqUde6RAsNxFsekMouH6CFKsUQZHz7i-NsbTL6qyRN1_QEYGjvZ6kxxSsJA_G7n_Y5-Z9Szvhpnolbhu7zP6WxnaQ8QL6I4LAeHBqjARsoWfqz-LeBcHOhwiKNeQdnGhk0ivWKA2R9sQzqgD4STd38LY533lqaSr1gTjeokv9S26COVk5Ht8VYil5TsRHCD63DYqKNmmZ33-JoLyjDn5fCA9OcXQfDhkDC0DiReKdmjxE6GKhMWf9Hq8sWiqq9eh29uk6FItKJeVYVPmZ_8nW88TlOPaZlvJbbfTkRkmWOD-4OOMbfTbN-dqEPQu7TWzQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
 تهدید ترامپ: کشتی بزنید نیروگاه میزنم.</div>
@@ -1074,7 +1074,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <div class="tg-post" id="msg-6308">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Izm5y0qAC_H0MuP2Db0wGFqCLpngUog36iRTSxNXWDCTrFThlV_2naY1QPhoTXzhxVbEmArINeh94lvMJfdYv1JcqqFocDX5BbjZw6tmwnz2QZ7M7DN3FDdXKdvwZmpkBjPunWenS9NRTHpX_xMUc3mJJlkpdwNI1h91JBfjomjjUgO20LGMebju0RYKOxHuBTAIz-nyfObbzNQpcgRRl0Idu4P8sRnyKCQt7v0OHgqaU_-vxdR5y4KCpXtD5zivHUrwymHIUKlfEfXdZGDhZM85GmaYo-8pHlYat46b062RONI2EZz-aBC1e_yYWxXv5cE3CHxhjOQORUc1oGcdWA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/muqvXwZBCrAtj-_xek9VITOhPjB9k3Fzuv5Gghn1VNjKv5xhnX0gpYSCpNJ5D69mgfGXRs3Vyvx4OzbdFeXQ_s0EFglVTNz4v1JoZ8WfBTs0rKQXEF_YgNlTWHXx_YkjG8Ba4p0Lb6A_mDNi1LLQT0d1LvGIxyx1OMHoIMotMSfrx5EHDNpemavG_c1jOx2l08Z4C88O4egjmci2NCQ3btl7wsAn4wwBWgUauWi_66bmcw2QC1R5YuBgKth8BxjlpQstM4t7onBnZjoeiiwlHhybRiRIi0BHeZeWuCWe3ezyanSPDpEsLs-uN1eAqCnOFPKmmAZzOuJyspycrlQq5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/UQnmv-6zpFwG838HbgaBmKnC9oMJ0wLncZkzoEL0ultNi9cOD6OHtSlylAaVqSOxs8ehVkj26HcbwuXGImsLsUasrzFNY7b8a8e2rNnjvDPdNXmmJ2qYDPR1i8FZaB-HC4WT0hoqr-n3WNIRwXy0yGXyLvKXsADqb7t4tDUsR5KwUcq4gcliRVDfp7VWN2e2QwgvLo1VLWZ99SdQWulxgm3eagnDfEiC6Byt50zK_oV0yi3ZQUfipYlWkvZxb3xkvEu2BLtGI3DCnV6vY3djNoR4PuiR7JPiUiO87rIGDCiQO6zz18wqwFHm2_CfWNkiwCvAKJV8bYlKHxRgjMoPvg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">حسن روحانی رفته خونه لاریجانی تسلیت
