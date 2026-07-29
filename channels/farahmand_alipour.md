@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64.9K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-08 01:21:14</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-08 02:22:41</div>
 <hr>
 
 <div class="tg-post" id="msg-6416">
@@ -299,7 +299,7 @@
 <div class="tg-text">🚨
 🚨
 ترامپ : ایرانی‌ها می‌دونن که ما امروز شدیدا بهشون حمله میکنیم. اکنون نوبت ماست. ضربه سختی به آنها خواهیم زد.</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/farahmand_alipour/6416" target="_blank">📅 23:00 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/farahmand_alipour/6416" target="_blank">📅 23:00 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6415">
@@ -311,7 +311,7 @@
 تعداد تلفات گروه تروریستی حشدالشعبی به ۸۰ کشته و ۲۷۰ زخمی رسید!
 ایالات متحده و عربستان شب گذشته در پاسخ به حملات پهپادی گروه‌های وابسته به جمهوری اسلامی به عربستان،
 به مواضع حشدالشعبی در ۷ استان عراق حمله کردند.</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/6415" target="_blank">📅 19:58 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/6415" target="_blank">📅 19:58 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6414">
@@ -324,7 +324,7 @@
 <a href="https://cdn4.telesco.pe/file/3b85006cf0.mp4?token=XS_tUOrRPbAETX8JRJ9ZmrtScVvT9LXRHWRPwBYG8OvM7DAvLV9d9UIUPwSLOJFbSjdL4nsbqvHNkABvAT0cLQGLfKQLTN-gVfd6U9sa9NdddkocZcrZcpPH_wG2x4NrjzDGXrHWKdcq-fOz7i-wHmZzF8eO2obgpBgCak3yeb1ViFchwdlnILggkgqdlns76Qj4VCJeMPuBCc84I5nudPH6uH7JkHawXFNtaex7T0awcU0yNtUa5PGeL7xfeH8c3HmtvCpW0dp98jGsUp6B1-32xCYONADiQFKlUK97fzb_XNBraI67tCWUJ3DiV8jfNqovmrXq_mXKWsSu8Ky9I5YLT1OnCzmQegSpRJdLe2NYSf2b7VYr0YnVlIvecBfvdvxC3UmIGIjDa8fqoblJrvmFIMcbYIcfdVpiLrcVR7GrFBx2Z-2p_zspbU_IBI9ynntM-D3CSOihCDNP_tJRx-sx47KUCjKkWMnpGXdnbJDEnESH1ySPRmadxRwY36cnCDTpXkgtyAbMEYNi4MjioFPjQOh3qEBt2WIEWBX3rjDhdmWcR0pYWlGcdAJQiAsGyLGaz-q7RHtaQbtWMOd6xn8HAoyPzpaKQpC0rAs0rghE-8EtqdVNfy8ieRGwF1yaftfNyBQfxXZJzAwrP_DYnOwLCzd5vHlfwNjBRyGHl9g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">عروسی، طایفه «آل العرعیر» -  غزه</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/6414" target="_blank">📅 18:29 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/6414" target="_blank">📅 18:29 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6412">
@@ -336,7 +336,7 @@
 <div class="tg-text">🚨
 🚨
 رسانه‌های حکومتی از کشته شدن ۴ پاسدار در جریان حملات شب گذشته آمریکا و عربستان به مواضع گروه تروریستی حشدالشعبی در عراق خبر می‌دهند، تصویری که جماران منتشر کرده اما ۵ تابوت را نشان می‌دهد.</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/6412" target="_blank">📅 18:14 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/6412" target="_blank">📅 18:14 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6411">
@@ -344,7 +344,7 @@
 <div class="tg-text">🚨
 وزیر جنگ آمریکا امروز با نتانیاهو (در واشنگتن) دیدار می‌کند.
 نزدیکان نتانیاهو دیدار دیروز او با ترامپ را «عالی» توصیف کردند.</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/6411" target="_blank">📅 16:10 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/6411" target="_blank">📅 16:10 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6410">
@@ -352,7 +352,7 @@
 <div class="tg-text">🚨
 🚨
 ترامپ با اشاره به حمله موشکی شب گذشته ج‌ا به پایگاه آمریکایی در اردن :  ما ایران را به‌شدت هدف قرار خواهیم داد. به‌شدت به آن‌ها حمله می‌کنیم .</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/6410" target="_blank">📅 16:08 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/6410" target="_blank">📅 16:08 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6409">
@@ -368,7 +368,7 @@
 🚨
 ترامپ با اشاره به حمله موشکی شب گذشته ج‌ا به پایگاه آمریکایی در اردن :
 ما ایران را به‌شدت هدف قرار خواهیم داد. به‌شدت به آن‌ها حمله می‌کنیم .</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/6409" target="_blank">📅 15:58 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/6409" target="_blank">📅 15:58 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6408">
@@ -377,7 +377,7 @@
 🚨
 گروه تروریستی حزب‌الله لبنان با یک پهپاد به یک خودروی نظامی اسرائیلی حمله کرد،
 ارتش اسرائیل : بزودی به نقض آتش‌بس حزب‌الله پاسخ می‌دهیم.</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/6408" target="_blank">📅 15:14 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/6408" target="_blank">📅 15:14 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6407">
@@ -390,7 +390,7 @@
 <a href="https://cdn4.telesco.pe/file/eaa361a599.mp4?token=CKVQ6kQK5M5BnWcRlbrfk6R1Az8ACbnlCQxuOAY0Z8cvZdxOansSVJzeo-mlj5eMPiraqQ7tmWhzNQMq6hOx2wmxu98h5TnMWuaHv0axpGuy8cqGEFpGCfB5YtH__A_IRopMWltBNxvM_DHESigZxM70MaoRnS1Z_GfTupQfTcxef0_lOApDvWRGrYP5qWBuJeSjj8Qqq-RcCYBrxRZXAVbSZLCrFw6_wxQuSRq2qC40JG-mFY692MHu-SwxCb2_V2--1Kow782XLEBq2jKMPU6uJq_pzjDDRH979V_xvOM-4eiKhXFTodBavZzYYVeugK2agoSJRltbG6RJDwds8w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">خاکسپاری اعضای حشدالشعبی در استان دیالی عراق که دیشب توسط آمریکا و عربستان مورد حمله قرار گرفتن</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/6407" target="_blank">📅 15:04 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/6407" target="_blank">📅 15:04 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6406">
@@ -400,7 +400,7 @@
 به همه کشورهای عربی حمله کرد
 اما به اسرائیل حمله نکرد!
 (یعنی از اسرائیل ترسید و بهش حمله نکرد در عوض بقیه رو زد)</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/6406" target="_blank">📅 15:01 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/6406" target="_blank">📅 15:01 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6405">
@@ -415,14 +415,14 @@
 در هر جا و هر مدلی، تحقیر بشید
 خوشحال میشیم
 ✌🏼</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/6405" target="_blank">📅 14:25 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/6405" target="_blank">📅 14:25 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6404">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">🚨
 صدا و سیما: دقایقی پیش نقطه ای در نوار مرزی پیرانشهر مورد حمله هوایی آمریکا قرار گرفت.</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/6404" target="_blank">📅 14:11 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/farahmand_alipour/6404" target="_blank">📅 14:11 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6403">
@@ -440,7 +440,7 @@
 حملات به مقرهای حشدالشعبی در ۷ استان عراق صورت گرفت بصره، کربلا، نینوا، کرکوک ،
 دیالی و واسط.
 در ۷۲ ساعت اخیر حشد الشعبی بیش از ۳۰ حمله پهپادی به عربستان انجام داده بود.</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/6403" target="_blank">📅 11:23 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/6403" target="_blank">📅 11:23 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6402">
@@ -453,7 +453,7 @@
 <a href="https://cdn4.telesco.pe/file/83ac14cf04.mp4?token=edI5JjcBNI8rcSCXsj3snl3tO-j3GuiCFujTxfhw1-C5Tw4H-X9p22CMfNjyZp0dRocizdpJCgZX9KQhVm3egB6ApG9PNERLFqFO_VSke77YTUNebJvHE0vVAdEICnPhEWr7ilHpapIzLfbh51Sqs1ARoyCfErPSezQiBgBBqWwgNb6XZ2PXoBrPZCvvtiUQxz-eITRSlIsUM3qpRk_0P6z11q64oXeA3rRL3Fv0c7FR91nsRuoB8Ivx__WpZsnvhzvxkvX22neS3T6gS6VH1GSRAAkrhA8MltVyn4vJYUx8pRNpeCoalF3xBaHeJXvSozefcc_KFyD2oLOTVXfOzg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">خب چرا همون موقع نیومدید از تفاهم نامه دفاع کنید؟  این تجمعات شبانه دست کیه که هم دولت و وزیرخارجه ازش  ناراحته و گلایه داره و هم سپاه!!   کی بهشون یاد میداد که بگن «بزن» «بزن»؟  کی موشک میزد به ۳ تا کشتی در روز و توی خبرگزاری خودش (فارس و تسنیم)  می‌نوشت…</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/6402" target="_blank">📅 11:14 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/6402" target="_blank">📅 11:14 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6401">
@@ -469,7 +469,7 @@
 می‌نوشت : «به تیر غیب» گرفتار شدن؟؟
 مگه معاون سیاسی سپاه در یکی از همین تجمعات سخنرانی نکرد و نگفت
 : حملات آمریکا به ما «واکنشی» است! یعنی ما اول میزنیم و آمریکا پاسخ میده.</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/6401" target="_blank">📅 11:11 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/6401" target="_blank">📅 11:11 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6400">
@@ -478,21 +478,21 @@
 سپاه ساعاتی پیش از هدف قرار دادن سه کشتی که قصد عبور از تنگه هرمز را داشتند خبر داد.
 همزمان با سفر نتانیاهو به آمریکا
 هر روز دارند به کشتی‌ها حمله می‌کنن ولی به اوکراین میگن حمله به کشتی‌ها خلاف موازین بین‌الملل و  حقوق دریاها و آزادی کشتیرانی و … است!</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/farahmand_alipour/6400" target="_blank">📅 09:25 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/farahmand_alipour/6400" target="_blank">📅 09:25 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6399">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g2jvxndXuOlDQ90AS4zSGOMX9a898jsjr8sv3dRWPhb-jHNTbppzu0wHR2u3nPPCIa2kQ13MAftcNDA5C15hlyvmWitzWY-eu5RHfFcUgM_-OrcUBVGu6QTlicHiP_ZXgZJMYGhUO4IdyB-X7PjZf2faOOJ1FEd4fJObt5xlo9hhALXC2yyvhJfUD0ik4VSFoGM8J2UDoggZ4X4qVj_UlnIDP40Y94GFlWbt62bme7hvhZEq2JH_LbPiEt2y3krTRG5u7epc2cfL3tmq3QG-7bxrQhJo7ubGcsZJqj7U2_MeDTL9sHbZXsumbwdRCtc53QSWFFSSzrXOpRVrO3-ULA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینها دائم میگن اگه جنگ زمینی بشه دیگه قطعا ما پیروزیم!  این تصویری از عراقه و نیروی قدرتمند زمینی ارتش عراق!  نیروی زمینی که پشتیبانی هوایی نداشته باشه وضعش این میشه!  فکر میکنن سرباز آمریکایی قراره مستقیما  بیاد با سربازان ایرانی بجنگه. بالای سر اون سرباز…</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/farahmand_alipour/6399" target="_blank">📅 08:31 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/farahmand_alipour/6399" target="_blank">📅 08:31 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6398">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i9aPxx-ivjmeebdwMhUPzMmBWJpkYla_Xuv6QeLWSjWSFrJE7Fwmjw9I5b1cjQ6sjBTkwoFBS5FtEj6_pHYjXXpBxX95jsrcHb1EWMdeTRcEQTkv7X9t7n0eYDRxyV1ngsecIv1Dnf9RSFCG8wU9lG4BXqRLFAJ2PEoBxp5b_sU53LzjLuR6JdV_5673tscO_RQJgqGMd-VktOu8ZCvziRkGq9tDjcsXMr6u7CdIcoenWluSpdFHKQaG--jG4mCcaRrg86CuTCz2N0XfXniMAL96cKLLPt71EgktRMnFBo3zt2VrDMhap-XfekVCdHTPvNEppxJyg0hI-rMmGSjTlw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۱- جنگ زمینی چیز بدی نیست! ۲- اینکه جزایر رو بگیرن،  اتفاقی نمی‌افته! جزایر خودمون  رو میزنیم و بعد پس میگیریم!   اینها قبلش میگفتن آمریکا جرات حمله به ج‌ا رو نداره! امروز میگن، حالا جزایر رو بگیره هم مهم نیست! قدم به قدم!</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/farahmand_alipour/6398" target="_blank">📅 08:24 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/farahmand_alipour/6398" target="_blank">📅 08:24 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6397">
@@ -502,7 +502,7 @@
 اتفاقی نمی‌افته! جزایر خودمون
 رو میزنیم و بعد پس میگیریم!
 اینها قبلش میگفتن آمریکا جرات حمله به ج‌ا رو نداره! امروز میگن، حالا جزایر رو بگیره هم مهم نیست! قدم به قدم!</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/farahmand_alipour/6397" target="_blank">📅 08:19 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/farahmand_alipour/6397" target="_blank">📅 08:19 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6396">
@@ -510,7 +510,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OWR0F0taF1ctqMdfM1h9so9bW_B3JUxh1aJe1avLLFXw7Cv4Q8CHXQT-ozQseL2b4JnZRRMZEj4vCFos3tVUQ5BIvzWsfWYo7FJECZ81eNJ5Uz-T09_EVmuqlZFdWws8eefhJfMV3I41KD5TaVE1Zc4HPJp-nbswCVJxTlZKLyHL8kS0rW8eDrzLj1FezBBRd4JXV9FfsmKkyaQ1f3svvrO7Sa_vPqIypt47dz-TVpQ02sL9ODKTNwpOh69_uL70Ir6nXbO0xTzmuv-vFyy5Kynpn3zQA_iPCDRLsQr8GGz-qgW0--yYOrmOI6oKD-ea6_qsbJ3dGRlO0lyyhecSxg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حدود ۱۵۰ میلیون دلار
 هم براش هزینه کردن</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/6396" target="_blank">📅 21:56 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/farahmand_alipour/6396" target="_blank">📅 21:56 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6392">
@@ -568,7 +568,7 @@
 <div class="tg-post" id="msg-6386">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">‏روایت اردشیر زاهدی از درگذشت محمدرضا شاه</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/farahmand_alipour/6386" target="_blank">📅 10:52 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/farahmand_alipour/6386" target="_blank">📅 10:52 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6385">
@@ -576,7 +576,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jB-WJ8knb9jYMzDZd3ildLyYPBae_2vaB0Vx9-jc96qpxtL695BdFs5hLCE5iZ7x_pK4zrWkdB6OOUfkD7sFzbIu3gQzYFZWzoHXr9xPFy0kzZvjZCrfkhLAqD3g7mQ77nzWMhsgz0KnifOD6Ze0C-7G-FDtHI9PrL9CHVPXjGdfPbdxvVhAN0c9WiGAUB-b0iHqL3YwOTlkK4VZ_mP1w4dFcHW0QTdT5mc-bA0a0q5S9cDLRwJ62_iujS6b1MGqsz2DRwKhlKPkd-OlFnebjStjMsDCYyLMKSeL59F40CAICDuo36LPy6Cxx5RhGPrHBZ8WLBvtchQ5VqEbpJSQFQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">لعنت به ترامپ که ۶ ماه بیشتر بهش فرصت داد! تا یکی از اقداماتش،
 و حاصل دو روز بیشتر عمرش، قتل عام دیماه باشه.</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/farahmand_alipour/6385" target="_blank">📅 10:19 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/farahmand_alipour/6385" target="_blank">📅 10:19 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6383">
@@ -618,7 +618,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-text">جاویدنام مجید پوررستمی - قرچک
 ۱۸ دیماه ۱۴۰۴
 قلب آدم هزار پاره میشه</div>
-<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/farahmand_alipour/6381" target="_blank">📅 21:22 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/farahmand_alipour/6381" target="_blank">📅 21:22 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6380">
@@ -654,7 +654,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i00pLP2LVwjoZplz_NTVSbq89tEU4Ksh7Xsp_R67fsYCzIBUcXSqjounXr2M26LLHNC9u_boFPWr1rRfnqJZPWVijAbuADuOdgd-s_27hVKerTQSD6oTkynHvVfTHVUbcg2zTdJxv6FeFo6QSg253hQVSlV-fMCSJkMduHXe3OIUD4lpDQKUELQinZfhCgvqRDZDZfVA1lCnlF2VF4mvK6VE01Tvj4gBzdbuZ-sc2KuLTI3NBpOdHHZfreuVRyoR2UJMRbbwTMen03VtJOYOLfy_dWOJNlWWTQQ4sxQMU1o22LafAbPEkSv5-UZqeYu-uJxNbUz7m1fKbLpeyx7qRQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نتانیاهو راهی آمریکا شد</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/farahmand_alipour/6378" target="_blank">📅 10:02 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/farahmand_alipour/6378" target="_blank">📅 10:02 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6377">
@@ -710,7 +710,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-text">نامه منتسب به مجتبی خامنه‌ای :
 در برابر آمریکا و اسرائیل راهی
 جز مقاومت نمانده.</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/farahmand_alipour/6370" target="_blank">📅 21:20 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/farahmand_alipour/6370" target="_blank">📅 21:20 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6366">
@@ -737,7 +737,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-post" id="msg-6364">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JLZIA0KtXZSW8GLK-OqKIIal_1qhkVI2zKfod-sm6ErUvEPxBChbDubfHcIObgXfqVC7CaU0QR0Rb_xe5N8SgbmchegpNqObUp8sbHXMzLaBzP40nSwijf5ZWHJGTlTrxrp-Z9KFyDL6YiLB1I9O-V06tM2n-rFQWLiZAW51AcLzEaqbwRTm2QLELWhUVQCok5C9FrLQu7q6ZDNVTLtGll7LCB7H8x9z6DYYb1gPiFPlU9xfrQ6UxwJYkmsIMiJuswLcgNPj2SC8mi1S6UwoPW-TdyTYGl44jsEGDYctEbb9XXeFUHftevzh-_xspXNR2VNjRpJPXq6l8WH-sCha_A.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/farahmand_alipour/6364" target="_blank">📅 17:37 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/farahmand_alipour/6364" target="_blank">📅 17:37 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6363">
@@ -808,7 +808,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 موردی که ۲-۳ روز پیش کامل توضیح دادم.
 جنگ رو ج‌ا شروع کرده و دارند زور میگن به عمان
 بخش ۵ هم بسیار مهمه، در خصوص کوه کلنگ، ج‌ا در عمق این کوهِ سنگ، غنی سازی میکنه که حتی با یک بمب اتم تاکتیکی هم نمیشه نابودش کرد! و چون خیالش راحت شده از اینکه غنی سازی‌اش متوقف نخواهد شد داره رو تنگه هرمز هم فشار میاره. اگه امریکا بخواد برنامه هسته‌ای ج‌ا رو جمع کنند، باید هزینه زیادی بده (جنگی بسیار بزرگ)</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/farahmand_alipour/6357" target="_blank">📅 10:06 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/farahmand_alipour/6357" target="_blank">📅 10:06 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6356">
@@ -839,7 +839,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jkb_8MQMB7-NdO-pZoGtGnsszG3NhK00JSHcZCGSmzdjckracNXPXP24ai1gAcIm3_c3pWQCydoZe2NrxWIPV_mPKPURoS6q5Isty9lhmAzrcngWxHdJKDcxp4HzZaOfIP613DFqllwvjKR93WDDH6fVR0cc-wPGY6trq6ZEXXuwIf1wQ-C4mqeFrfYltaan786S8x0lcUlUUjx1vJSRKbg9TF-AsBI8t0lXhbizn27PHso-tfxxchK7x4ZKtT9Dw5sBY69sbkhXl60tJ2akTXvKZbL1_PjTTgHmBt6zrFunzlUjifejqqQiqNAaGad4MZoewAjuikpvmZ7_oRewyg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اجابت دعای هر روز مردمه</div>
-<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/farahmand_alipour/6353" target="_blank">📅 16:29 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/farahmand_alipour/6353" target="_blank">📅 16:29 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6352">
@@ -848,7 +848,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 جمهوری اسلامی و انصارالله (حوثی‌ها)  دیگر وارد چرخه جنگ، آتش‌بس و مذاکره نمی‌شوند.
 ‏حسین کنعانی‌مقدم، از فرماندهان پیشین سپاه پاسداران، گفت که‌جمهوری اسلامی و انصارالله یمن دیگر وارد چرخه «جنگ، آتش‌بس و مذاکره» نخواهند شد و این الگو، به گفته او، کارایی خود را از دست داده است.
 حوثی‌ها دقایقی پیش نیز اعلام کردند که به تاسیسات نفتی عربستان حمله کرده‌اند.</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/farahmand_alipour/6352" target="_blank">📅 16:07 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/farahmand_alipour/6352" target="_blank">📅 16:07 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6351">
@@ -873,7 +873,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nKr3KBIHvpe-Dr8zxxzGqiSRFu74Qb_2gkHUhz4WAQYrXVgUfiFtuHq9fJHud2K1RtgXT-RCRNy1dArkJefhgvW6kzCnxJx1uM2cwqYDeSogqNR1YDBfdxFEj8P47QkA9Bi9q_-2OrXmW1sXsnVNDYvc2GzYeTrV2loxD6K30KVbdUHToMzMOFLD5fVDJZjC_Ghh1Lu9CNlphb27KpPNkCJF2WpGit-zSik6sYSS7FMc_lTvlUUVJtWT0xQRdbNGm8diSG5EoSvIO1pOGeN7goZFCcSyrBpNuWwYlf6x_Xhw6VUjvy9ztEGSGZJsTvj2q3Hgt_dVLDw9oXN0xqx-sQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بازرگان می‌گفت ما شب می‌شینیم با اعضای ارشد حزب جمهوری اسلامی مذاکره می‌کنیم، در نهایت به یک توافقی در خصوص سیاست خارجه و….. میرسیم فرداش می‌بینم  در «روزنامه جمهوری اسلامی» و صدا و سیما کلی به ما فحش داده که اینها خائن هستن و…..!  بهشون میگیم مگه ما این تصمیم…</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/6350" target="_blank">📅 11:37 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/farahmand_alipour/6350" target="_blank">📅 11:37 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6349">
@@ -917,7 +917,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 خامنه‌ای رئیس جمهور بود،
 رادیو علیه‌اش یک برنامه پخش کرد و‌
 رفت گریه کرد و قهر کرد و…..!</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/farahmand_alipour/6347" target="_blank">📅 11:18 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/farahmand_alipour/6347" target="_blank">📅 11:18 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6346">
@@ -960,7 +960,7 @@ https://x.com/farahmandalipur/status/2081803094522757301?s=46</div>
 نه در راه ایران! نه برای ایران!
 بلکه برای فلسطین!
 https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
-<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/farahmand_alipour/6344" target="_blank">📅 22:10 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/farahmand_alipour/6344" target="_blank">📅 22:10 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6343">
@@ -1207,7 +1207,7 @@ https://x.com/farahmandalipur/status/2080726571627774147?s=46</div>
 <div class="tg-text">حسن روحانی ۱۳۹۷
 تا آخر هم افتخار میکنیم به نفوذ
 در عراق و سوریه و لبنان و…..</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/farahmand_alipour/6317" target="_blank">📅 22:30 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/farahmand_alipour/6317" target="_blank">📅 22:30 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6316">
