@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn1.telesco.pe/file/ZXEJBRkckCnUbYPOWwKrAzmicY7spJManGoTdpd9mN6a7GhPZNk5apREjVUIC5ANH73dMrL2Y_C9KFnh01J5QIV6cdQsHM3lT-y4QGdtXZMQw5vKNutaCCSeFHMUNSXt1gxIsokRb9oZ5L5WFcLgFptxNo4eMWe4g7O7puY2xDZoRamgGdTLkl0BsKHB7sl29e9HocZJO0PMj-yh-sHyR3tql7YwO0ZVzA83X3a0zZWpj0QxqviSAw6xKUpiaAMgqxAQuQzg9X2mYT5J1i63aoGrl819-1ZXxx_M5AdfPOTzplYt5AaqhMVC_eIvmPPOlkeXQcCIrYfx4Ym5HHRwNQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn1.telesco.pe/file/m3N26jRdNK7oYAJdpZfdVpPR0GC9giGnJVidlMLnfeLzgN0gR4Pfy6fsFqP0BFVH-EUZngp34CMa6KFL4MVN9CEGGHrsW9AsHtL1AkhGJzJ2PIQFGOoiXvkO4v7a2SjO1BPEAM7flYkga2zTNveCmDcZzJtKkigoJGDiYWpQ4hz6x0j0Exd4yix1iHp5TDftYK8Bsb0e4fSnkZBnnP0nf_ExRdFeMNliiGXB-FPGYVV49MbEAyW3w0qylwFv8KBZrlEPqgrGOYAG7TeJ1Anb1yWUO3fKuFFlMtC6HhBnorQQOQX5QnWMfyaf7f71K9vsz7hA2WorL4GlXgR_GggP-g.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 IRCF | اینترنت آزاد برای همه</h1>
 <p>@ircfspace • 👥 97.6K عضو</p>
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-08 03:23:57</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-08 05:11:23</div>
 <hr>
 
 <div class="tg-post" id="msg-2526">
@@ -307,7 +307,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/ircfspace/2526" target="_blank">📅 19:22 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/ircfspace/2526" target="_blank">📅 19:22 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2525">
@@ -322,7 +322,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2524">
@@ -368,7 +368,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/ircfspace/2522" target="_blank">📅 18:13 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/ircfspace/2522" target="_blank">📅 18:13 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2521">
@@ -387,7 +387,7 @@ PingChannel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/ircfspace/2521" target="_blank">📅 18:06 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/ircfspace/2521" target="_blank">📅 18:06 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2520">
@@ -427,7 +427,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/ircfspace/2519" target="_blank">📅 07:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/ircfspace/2519" target="_blank">📅 07:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2518">
@@ -492,7 +492,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2514">
@@ -536,7 +536,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/ircfspace/2512" target="_blank">📅 19:03 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 35.9K · <a href="https://t.me/ircfspace/2512" target="_blank">📅 19:03 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2511">
@@ -705,7 +705,7 @@ slcyber
 
 <div class="tg-post" id="msg-2500">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/usWZBulC6ZBfDWKpTNjzjr9r_bOkRgMC3UmGehVwF43PZHrCtGhCol_s7E_bb4NquylBepRYq463nHVqD243hsNG6GRb1RDShCteQFEopWMZ959sVYX9cFtzmy1bdGA3LFE_L0-VSpAeMYFiICxBJf6WVR-qnPFayxDY9VrWwn3MNhq_txk_BsOCbuaW4LLGYsjWv3fpbWjAyLeU4PTGBRGIOTNkEtUON2T2HybHJKdp97248Gtlh6IfIevGb8nRxczfPqn_SqmeWFJ_ZI6wY9OWJ1A4KUN7KPlX4ydxb3uMniGXKZld2CclRrcqcSmnYLKxzOMFq1tTEtm0hQadzA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VcKzX2iPN4kZIb9Ms0V-wOay5m0hwVvty3eGTXkfyQjbeiSfykRxUdhtnybTnXFSArzORzgj80TjiwtW7pTnQ4qPahT3TAD8tNMB-j9aCKhJKrwfV4x9s7NkB8eLbJvzRn1VfRPiYIeOF70Ikcb-lB4j_HomouYyV31VaV-CLEWxzRqS-Jg2GC_EqkQlk7JWZQnsi7Pb9WYI7moMOsG57Qt7WUG04O3P7IX-YlBMzgltuFQ8O14NMJLPJTn4kiGVhxWtzKxSPq3ejFtYMXlgdf7Q_ipRvMGGTWcv3QEv1lLVUjuVTpiLbIqWpSuvBwyxqG4SIVmSrmFqsIXU8kLvOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگرچه قضیه ترند شدن "لغو عضویت جانفدا" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه "وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -783,7 +783,7 @@ github.com/SagerNet/sing-box/releases
 
 <div class="tg-post" id="msg-2495">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ItAYjx-w6XeP_nhBY5B9IWNYypkDKWR6M9FHBehvMRPDENEGLDy8PdFYjWZ1PxxSeOsiRqwMW5GlEH3HLMSeNk77R5jMc9cjZPnM88BJ3FjN-i0q8DN5ReWBGUNQ7FPVn_ePv99S4d6r26Z9bPo0bKcVc-6pm6QymYDwdT1497YvRwRH2qF-ls_0aYMqSdEleNbiiN4Dbcb06xHh-Rr5VqWtUqopo8s9qAxckSTXk74VPSzLMVCXM9rU_LRB2XhDp98aawpPmv6Eg-hAwjR674CfCbbCy1u-KMM-JAGnhgS7G7QYna5sFE0HwSCaE7MtUQ3fKnwk6iarPaRxcV3gfA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hCtVTAs6tZ7AqKcwwafgi2ErrcTY6_F7WCPGqI2d5i6ppOf8KDhctlKBaN5HEw3jbcXC1A7qX9mZFZw5AtsTK-vxuU4lOcOBMADpjG67HmPWQFkrvovX_ChD5EpdlAB7r5lapg07ZiHJG_T4psuzMb0zIY-dSWdFeUYlOBV5EARjiiSWvQmTRCjLNmVqAlL4H1ZQ8EA_mfzkULc6ALqiTa5-YGfaNpBpFPddiDVbAe83BPEpcK2FUKToQfsetkC-w6EZTEWzipyNeyyRY6E6ekujJFF4isRQUnN3S859GUDtwyJEObYy8PFWQG2spASP-yi0Md_NF_L0A9eflD169w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aether-GUI یه واسط گرافیکی برای هسته Aether جهت دسترسی به اینترنت آزاد و دور زدن فیلترینگ هست، که دردسر سر و کله زدن با محیط ترمینال رو برای کاربران سیستم‌عامل ویندوز حذف میکنه.
 👉
 github.com/MatinSenPai/Aether-GUI/releases
@@ -799,7 +799,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 
 <div class="tg-post" id="msg-2494">
 <div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vK0QfxjowaN2yP7lRPHiy6A5vNt1UKT_pLYKj3LjMA4fxedZqbKQRIUKEr7EK18TzFl_y5kSJ5Ispw3a6oyaw4FgNBgceOMZQk7kpuccN3SDTjvSKSV42Kr-pRKVcfBW4J0TAgxBBz_3xbJl0t3WE-DNB7HI_WEGFngBgF2NuRi9Vtpvvrlso71KB_MbanG_jSuMpwgkPj21OC6ENZXPQZ95Z00ZhYandMcQYZ8SOClS8HuDlU9s8cQ0fqx1DP5hK3pxQzqONC_q6Bx9WTornJFuCtWquKQRJNDboZURQAjyVnr4VqOtizpLTuaEfWiW0bUhDc0MLid2pS05GkhozQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nAiZJwvFi49UYshykSeLWSyykm8KfcaebWLqUd99Nbot5MHyu8Vrwsavy6FdbjaZCTUsfXg-oeQbw-PUGaLVho800G4Z5f7kDjIYDnnjuEEGBtJsvH9x1LxNsM97efc6mqSg4q5q7RlucaqVma9hCOsm_wbYOfQ6W-jWKS6gUoK1MYfMwBf4bwKHaG_9EF4Xldf6uydP7HLIbYP65NiSRb1V45jdK6tT1CVl_TzZN0lxNoPuLLIVXUZx9t1ROjoOjgsReruY9iR1PClhVwbodOlNRNTqy9IctHVyDue0_GOxRygXx_IdYOD22-C88tF_navSGI7cQjEukXAcpxOhHg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایکروسافت در بروزرسانی امنیتی جولای، بزرگترین بسته اصلاحات امنیتی تاریخ خودش رو منتشر کرد؛ بسته‌ای که ۶۲۲ آسیب‌پذیری منحصربه‌فرد رو در Windows، Office، SharePoint، SQL Server، Exchange، Defender و سایر محصولات این شرکت برطرف می‌کنه.
 اهمیت این بروزرسانی صرفاً در تعداد خیره‌کننده آسیب‌پذیری‌ها نیست؛ دست‌کم دو Zero-Day Vulnerability پیش از انتشار Patchها، عملاً در حملات سایبری مورد Exploit قرار گرفته بودن.
 ©
@@ -1002,7 +1002,7 @@ github.com/MortezaBashsiz/nipovpn/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/ircfspace/2482" target="_blank">📅 08:14 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/ircfspace/2482" target="_blank">📅 08:14 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2481">
@@ -1505,7 +1505,7 @@ github.com/2dust/v2rayNG/releases
 
 <div class="tg-post" id="msg-2450">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/X8RIS-UHa-kkVWcdBwQz9Qzuhay8U3Ql9aurIHBxGeoU5XE-fIqHy_9EOhcNqv-6y9PETXjtrQO6DBcq34NXhmI-588_cS_Dz66JBfc_xSnmBpB2azWXuL95wBUlBIJDU1Q_oAKRvt75bmS2t8qtPV91WT3q4Twx1MDIv46YKgXef2ZblgDo-hO0JDPWQ8wohBidxUjT1CmDa_DLn2yU6kx6Midrk9lvFHZRXDP0PsXu6Zylc7D7dO3HtOBux2KYTJIeRepiiQoapn7Cggi2QFZ8SXGHN46mIeSE7ToT6HsoW0UJ8CFCtQ4UmQh4M_nr5gcC-ZJ1HLvCJnGCJ0Ighw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KRIdrQdQQQ7tTTr1YIeBGK0DCVIQeTbwJ5C9HKph676-yg1EIcGTOfMXU8QnOzI18Mb7IAOpHKHpwPF35oT84NjMODsiAV0OuciZCm8p-T5FEQlb_u9SOu-U28ja5EjWrMBlP66aMloir_n8kGM-udVoSdOUoMJJ9JNQI-wLi-FP-qS6Vu6_yBcXStEYNSHLJS_tN30oVeOCGN4xQJEx0E6ZN5kzpW6QyfH1rsIJ1P-izEiAbuD_kHwtBab5om9-s7-fLXvEe3giVlVOPxZypP7cqPSOz6uaNOGrMNafbCCKcTc9QnDQCQ4vCM5rbl6kzqxx7muuWwc8pkO3_1VLog.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ما تنگه را مفت ندادیم، زندگی یک ملت را مفت دادیم. سال‌هاست حرص و ناکارآمدی‌تان را «سیاست‌گذاری» نامیدید، ماشین قراضه را ده برابر فروختید و گفتید حمایت از تولیدملی، اینترنت را خفه کردید و گفتید «مدیریت»، فقر را گردن تحریم انداختید در حالی که رانت و انحصار رگ‌های مردم را بریده بود. جوانی را به مهاجرت، کسب‌وکار را به «تاب‌آوری»، آینده را به سکوت فروختید. اگر چیزی واقعاً مفت رفته، نه تنگه هرمز، نه یک وجب خاک؛ عمر مردم، آرزوهایشان و فردای سوخته‌شان بوده. این صورت‌حساب واقعی است.
 ©
 rassssoo
