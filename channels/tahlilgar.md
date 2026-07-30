@@ -292,12 +292,12 @@
 <a href="https://t.me/tahlilgar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 در این کانال عضو باشید تا درصورت تغییر لینک کانال اصلی لینک جدید اطلاع رسانی شود.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-08 13:28:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-08 15:21:00</div>
 <hr>
 
 <div class="tg-post" id="msg-352">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MZdzhYbiyIA-Ny9UN3JWaCVwcRqIEHKf2Ud8pW0fYhCa_hXcEgOwrtqj1OekqEhKYr3Or0jTbKyA7NRytw8REEMbq4e2ROwO5BxPLr7mQ9MkvMXRmIat78UGf1fqbe5H9ukfd8feix0UEa1ksh4jeMtmnPifpt3aUFjPFJSEkhqDWmbHJNxU1SQHKzBNQv1t2JKlHZZZlVyH82gPmEh49oCe1FJ7HyNSzq9t1jtzl03zFr6dFDEEh61-VLWHY9jHRzYaw3Nyw6LzWSPgvt9xZlCiR8FC5HELxNsCCh2Kk_1ImHziwm662mTcHq81PJqgyXoSUR946drMREycO9pj8g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g1das63lZEhA93GPpe8hbSYZSxANDF3i7_3Flq2hUXCP3aACOReBAHiCM7qZFa8ykNAUBCJL7YNxJyGBigoQtzKK4yGfq1XHTxvPEFUjqLtfvPkaYw_QT7wLu1Uf0yYDhBoIZj9AfEvDe6LQbbo2Q6jZFTJC8J0xpXO27CcprQi7O_BgeRmAlsSwM8O4m0h0gVxyOd5Qd20x_tR1ulNRRr8Xaqmk7-R2DF2pFkxhouP0vNAh1YXmS-7kaiD5HweETguKWb70pw53V14S33lkVkPkb1n3p6u42NlBiU6Mof7-nfp5xHQq4Pafb9Sj0K-c1dwwBa9tJ9J6pQWsaXXHfg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تنها راه ورود به کانال آقای تحلیلگر (ظرفیت محدود)
 🔽
 🔽
