@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 02:22:26</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 03:24:16</div>
 <hr>
 
 <div class="tg-post" id="msg-880">
@@ -358,7 +358,7 @@ Claude Cowork
 <div class="tg-post" id="msg-877">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-875">
@@ -869,7 +869,7 @@ https://t.me/mohsentavoosiseo/826
 <div class="tg-post" id="msg-825">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/mohsentavoosiseo/825" target="_blank">📅 22:52 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.62K · <a href="https://t.me/mohsentavoosiseo/825" target="_blank">📅 22:52 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-824">
@@ -947,7 +947,7 @@ https://t.me/mohsentavoosiseo/267
 <div class="tg-post" id="msg-813">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">مباحث امنیتی(امنیت ایالات متحده)</div>
-<div class="tg-footer">👁️ 3.2K · <a href="https://t.me/mohsentavoosiseo/813" target="_blank">📅 14:33 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.21K · <a href="https://t.me/mohsentavoosiseo/813" target="_blank">📅 14:33 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-812">
@@ -1046,7 +1046,7 @@ https://t.me/mohsentavoosiseo/267
 <div class="tg-post" id="msg-801">
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">سوال یکی از دانشجویان دوره از پشتیبان دوره:  من یک سایت در زمینه فروش پلاگین های وردپرسی دارم. کلا نزدیک 13-14 تا محصول بیشتر روی سایتم نیست مشکل من اینه که توی مثال ما یک لندینگ بیشتر نمیتونیم بسازیم اونم برای خود محصوله.سایر صفحات میشه ویژگی های محصولمون...که…</div>
-<div class="tg-footer">👁️ 1.99K · <a href="https://t.me/mohsentavoosiseo/801" target="_blank">📅 19:51 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2K · <a href="https://t.me/mohsentavoosiseo/801" target="_blank">📅 19:51 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-800">
@@ -1058,7 +1058,7 @@ https://t.me/mohsentavoosiseo/267
 یا مثال دیگه یکی از ویژگی های پلاگین ما Buy X Get Y هست که این کلمه خیلی سرچ میشه. ما نمیتونیم اینو جدا کنیم از پلاگین و یه پلاگین یا محصول جدا بدیم ولی رقبا اومدن یه پلاگین نوشتن فقط buy x get y انجام میده و اون الان بالاتر از ماست توی نتایج در حالی که این یه ویژگی خیلی کوچیک از پلاگین بزرگ ماست.
 وقتی هم بلاگ مینویسیم برای این ویژگی توی بلاگ مجبوریم اینفورمیشنال صحبت کنیم و از روش های مختلف غیر از پلاگین خودمون هم حرف بزنیم که بتونیم با رقبایی که فقط بلاگ وردپرسی هستن رقابت کنیم. در نتیجه نرخ تبدیلمون خیلی کم میشه.
 من احساس میکنم آموزشی که جناب طاووسی میدن برای این مدل بیزینس ها مثل سایت ما یه آپدیت نیاز داره که نیاز هست برای سایتایی که کم محصول هستن و محصولاتشون قابل تفکیک و توسعه به صفحات مختلف نیست چیکار باید بکنن؟</div>
-<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/mohsentavoosiseo/800" target="_blank">📅 19:45 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/mohsentavoosiseo/800" target="_blank">📅 19:45 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-799">
@@ -1203,7 +1203,7 @@ pinned «
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
 بدیهیه که تبلیغات، مال خود تلگرامه و در کنترل من نیست. خداروشکر این کانال، افرادش آی کیوشون تو این چیزا بالاست و میدونن که تبلیغات پایین کانال های تلگرام، دست اون کانال نیست.</div>
-<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/mohsentavoosiseo/780" target="_blank">📅 12:38 · 05 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/mohsentavoosiseo/780" target="_blank">📅 12:38 · 05 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-778">
@@ -1271,7 +1271,7 @@ pinned «
 ۹ ماه کاراموزی رایگان
 تو ویس بعدی فقط جواب نمیدم. تحلیل می کنم این  صحبت ها رو.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/mohsentavoosiseo/768" target="_blank">📅 14:31 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/mohsentavoosiseo/768" target="_blank">📅 14:31 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-767">
@@ -1315,7 +1315,7 @@ pinned «
 <div class="tg-post" id="msg-760">
 <div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">اگر کار دقیقا قابل برنامه ریزی میخوادی جای اشتباهی اومدید. SEO به دردتون نمیخوره</div>
-<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/mohsentavoosiseo/760" target="_blank">📅 12:12 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/mohsentavoosiseo/760" target="_blank">📅 12:12 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-759">
@@ -1325,7 +1325,7 @@ pinned «
 کار با زمان بندی دقیق میخوای اورگانیک سرچ به درد نمیخوره. گوگل ادز و سایر روش های دیجیتال مارکتینگ ادز محور فقط. که میتونی در لحظه و در روز کمپین رو شروع کنی و تموم کنی.
 گوگل خیلی تلاش کرد کنترل رو از ارگانیک سرچ باز ها(SEO) بگیره که گوگل ادز بیشتری بفروشه و برای گوگل ادز تقاضا بره بالا. و موفق هم شد.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/mohsentavoosiseo/759" target="_blank">📅 12:08 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/mohsentavoosiseo/759" target="_blank">📅 12:08 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-758">

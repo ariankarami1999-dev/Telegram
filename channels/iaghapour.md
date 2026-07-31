@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 02:22:26</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 03:24:16</div>
 <hr>
 
 <div class="tg-post" id="msg-2833">
@@ -318,7 +318,7 @@ https://iranmonitor.net/services/vps
 ارتباط از طریق وبسایت یا پیام مستقیم برای دریافت مشاوره و سفارش
 @IranMonitorAdmin
 ایران مانیتور – انتخاب حرفه‌ای‌ها</div>
-<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/iaghapour/2833" target="_blank">📅 22:50 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/iaghapour/2833" target="_blank">📅 22:50 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2832">
@@ -349,7 +349,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 7.19K · <a href="https://t.me/iaghapour/2832" target="_blank">📅 18:33 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.31K · <a href="https://t.me/iaghapour/2832" target="_blank">📅 18:33 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2831">
@@ -376,7 +376,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 filterbaan
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/iaghapour/2831" target="_blank">📅 14:17 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.96K · <a href="https://t.me/iaghapour/2831" target="_blank">📅 14:17 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2829">
@@ -442,7 +442,7 @@ KelpDAO
 کارشناسان از احتمال رشد حملات تزریق دستور (Prompt Injection) به ایجنت‌های هوش مصنوعی خبر می‌دهند که نمونه اولیه آن هک ۲۱۶ هزار دلاری پروژه بنکر بود.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2826">
@@ -493,7 +493,7 @@ KelpDAO
 هم‌زمان پرونده کیفری او در فرانسه نیز مفتوح است، هرچند محدودیت‌های مسافرتی وی در فرانسه اخیراً لغو شده بود.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/iaghapour/2825" target="_blank">📅 16:12 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/iaghapour/2825" target="_blank">📅 16:12 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2823">
@@ -681,7 +681,7 @@ Claude Opus 5
 آقای حمزه حوتی عزیز، مبارکتون باشه!
 ✨
 آقا حمزه لطفا برای دریافت جایزه‌تون و هماهنگی‌های لازم، از طریق…</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2809">
@@ -732,7 +732,7 @@ Claude Opus 5
 بدون نیاز به خرید سرور فیلترشکن شخصی خودت رو بساز!
 🔹
 در این ویدیو یاد می‌گیریم که چطور با استفاده از پنل قدرتمند BPB روی بستر کلودفلر ورکر یک فیلترشکن کاملاً شخصی و رایگان بسازیم. این روش نیازی به تهیه سرور مجازی ندارد و به شما کمک می‌کند تا بدون صرف هزینه…</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/iaghapour/2806" target="_blank">📅 17:41 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/iaghapour/2806" target="_blank">📅 17:41 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2804">
@@ -873,7 +873,7 @@ nipovpn://
 لینک اسکنر پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/iaghapour/2798" target="_blank">📅 20:44 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/iaghapour/2798" target="_blank">📅 20:44 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2796">
@@ -1969,7 +1969,7 @@ mysite.example.com
 گیت‌هاب پروژه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/iaghapour/2722" target="_blank">📅 20:50 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/iaghapour/2722" target="_blank">📅 20:50 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2721">
