@@ -292,7 +292,7 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-09 02:26:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-09 03:28:11</div>
 <hr>
 
 <div class="tg-post" id="msg-20114">
@@ -300,7 +300,7 @@
 <div class="tg-text">ممباقر : حمله تروریستی به منازل مسکونی غیرنظامیان در جزیره قشم، ادامه جنایت در میناب و لامرد است.
 امریکایی‌ها عادت کردن که سیلی‌هایی که در میدان نبرد می‌خورن رو با ریختن خون بی‌گناهان جبران کنند؛ تاوان خواهند داد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 81K · <a href="https://t.me/withyashar/20114" target="_blank">📅 00:42 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 93.1K · <a href="https://t.me/withyashar/20114" target="_blank">📅 00:42 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20113">
@@ -311,7 +311,7 @@
 حملات ایران به پایگاه‌های آمریکایی: پایگاه موافق‌السلتی در اردن: طبق ادعای ایران که آکریکا تکذیب کرده، ۳ فروند F-35 نابود و ۳ فروند دیگر آسیب دیدند و تعدادی از نیروهای آمریکایی کشته شدند؛ پایگاه علی‌السلام در کویت: دو انبار پهپاد و مخازن سوخت هواپیما و هلیکوپترها آسیب دیدند.
 در عرصه دریایی: در تنگه هرمز، دو کشتی هنگام عبور با حادثه روبه‌رو شدند؛ در یکی آتش‌سوزی بزرگی رخ داد و هر دو بازگشتند. همچنین یک تانکر LNG قطری برای نخستین بار در سه هفته گذشته از مسیر تأییدشده ایران عبور کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/20113" target="_blank">📅 23:12 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/20113" target="_blank">📅 23:12 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20112">
@@ -319,7 +319,7 @@
 <div class="tg-text">جمهوری اسلامی یک موج جدید از حملات موشک/پهپاد را به بحرین آغاز کرد.
 @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/20112" target="_blank">📅 22:48 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/20112" target="_blank">📅 22:48 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20111">
@@ -329,7 +329,7 @@
 هر کسی به سپاه یا ماهان‌ایر خدمات مالی، لجستیکی یا تجاری بده، به حفظ یک سازمان تروریستی کمک کرده
 ما این افراد و شرکت‌ها رو شناسایی می‌کنیم، معرفی می‌کنیم و دسترسی‌شان رو به سیستم مالی آمریکا قطع می‌کنیم
 @WarRoom</div>
-<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/20111" target="_blank">📅 21:56 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/20111" target="_blank">📅 21:56 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20110">
@@ -337,7 +337,7 @@
 <div class="tg-text">ارتش رژیم جمهوری اسلامی :
 پایگاه شیخ عیسی در بحرین را با پهپاد هدف قرار دادیم
 @WarRoom</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/20110" target="_blank">📅 21:20 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/20110" target="_blank">📅 21:20 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20109">
@@ -345,14 +345,14 @@
 <div class="tg-text">لیست کشورهایی که اعلام کرده‌اند از ائتلاف دریایی عربستان برای حفاظت از کشتیرانی در دریای سرخ حمایت می‌کنند، به گفته عربستان  آن‌ها به این ائتلاف پیوسته‌اند :
 کویت، بحرین، قطر، اردن، مصر، یمن، ترکیه، پاکستان، بنگلادش، سودان، جیبوتی، سومالی و نیجریه.
 @WarRoom</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/20109" target="_blank">📅 21:14 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/20109" target="_blank">📅 21:14 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20108">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">روند خلع سلاح حماس : ایالات متحده تمایل دارد پیشنهاد حماس مبنی بر تفکیک سلاح‌های سنگین و سبک در فرآیند "غیر مسلح کردن" این سازمان تروریستی را بپذیرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/20108" target="_blank">📅 21:10 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/20108" target="_blank">📅 21:10 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20107">
@@ -364,7 +364,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/20107" target="_blank">📅 21:07 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/20107" target="_blank">📅 21:07 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20106">
@@ -381,28 +381,28 @@
 در برابر ۴۹ رأی موافق
 طرح محدود کردن اختیارات ترامپ برای اقدام نظامی علیه ایران رو رد کرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20106" target="_blank">📅 20:59 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/20106" target="_blank">📅 20:59 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20105">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">رویترز به نقل از مقام‌های فدرال و ایالتی آمریکا گزارش داد که بازرسان در حال حاضر احتمال می‌دهند هکرهای مرتبط با ایران مسئول حمله سایبری هماهنگ به سامانه‌های آب شهری در ایالت مینه‌سوتا باشند، اما تأکید کرده‌اند که هنوز به نتیجه‌گیری قطعی نرسیده‌اند و تحقیقات ادامه دارد. به گفته این مقام‌ها، این احتمال نیز وجود دارد که مهاجمان برای افزایش تنش‌ها، خود را به جای هکرهای ایرانی معرفی کرده باشند. در این حمله بیش از ۳۰ سامانه آب شهری هدف قرار گرفت، دست‌کم یک چاه و یک تأسیسات تصفیه آب به‌طور موقت از مدار خارج شد و چندین سامانه نیز به کنترل دستی منتقل شدند، اما مقام‌ها اعلام کردند که کیفیت آب آشامیدنی تحت تأثیر قرار نگرفته و هیچ موردی از آلودگی آب گزارش نشده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20105" target="_blank">📅 20:06 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/20105" target="_blank">📅 20:06 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20104">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">نتانیاهو : ممدانی، شهردار نیویورک، ایران و حزب الله و حماس رو حمایت می کنه!
 @WarRoom</div>
-<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/20104" target="_blank">📅 19:47 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/20104" target="_blank">📅 19:47 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20103">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">رویترز، با استناد به دو مقام در غرب آسیا، گزارش داد که انصارالله این هفته از خاک عراق و با هماهنگی گروه‌های مسلح عراقی و نظارت از سوی سپاه ، به عربستان سعودی حمله کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/20103" target="_blank">📅 19:04 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/20103" target="_blank">📅 19:04 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20102">
@@ -410,21 +410,21 @@
 <div class="tg-text">سنتکام ادعای ایران مبنی بر انهدام سه فروند جنگنده رادارگریز اف-۳۵ لایتنینگ ۲ در پایگاه هوایی موفق سالتی، اردن را تکذیب کرد؛ و ادعای رسانه‌های ایرانی مبنی بر اینکه نفتکش ام/تی نورا محاصره آمریکا را شکسته است را نیز رد کرد.
 سنتکام همچنین بار دیگر ادعا کرده است که تهدید اصلی برای کشتیرانی تجاری در تنگه هرمز، رژیم ایران است
 @WarRoom</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/20102" target="_blank">📅 19:02 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/20102" target="_blank">📅 19:02 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20101">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">گزارش وقوع چندین انفجار در صنعا ، یمن
 @WarRoom</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/20101" target="_blank">📅 18:24 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/20101" target="_blank">📅 18:24 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20100">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">«فاکس نیوز»: همکنون دولت آمریکا گزینه‌های انجام عملیات نظامی گسترده علیه ایران را به ترامپ ارائه داد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/20100" target="_blank">📅 17:58 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/20100" target="_blank">📅 17:58 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20099">
@@ -433,28 +433,28 @@
 Tether : 193000T
 Brent oil :91.5$
 @WarRoom</div>
-<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/20099" target="_blank">📅 17:35 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/20099" target="_blank">📅 17:35 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20098">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">اواخر شب گذشته، دو فروند بمب‌افکن B-1B Lancer با شناسه‌های LANE90/91 از پایگاه RAF Fairford برای یک مأموریت آموزشی کوتاه بر فراز سواحل جنوب‌غربی بریتانیا به پرواز درآمدند و با پشتیبانی هواپیمای سوخت‌رسان CLEAN71 عملیات را آغاز کردند. این بمب‌افکن‌ها سپس برای تعویض خدمه به فرفورد بازگشتند و حدود ساعت ۰۱:۴۵ بامداد با شناسه‌های HARPO40/41 دوباره به پرواز درآمدند تا با سه فروند هواپیمای سوخت‌رسان CLEAN91، CLEAN92 و CLEAN93 از پایگاه Lajes تمرین سوخت‌گیری هوایی انجام دهند. به نظر می‌رسد این تمرین، شبیه‌سازی سناریوی عدم دسترسی به حریم هوایی فرانسه و پرواز به سمت ایران از مسیر جبل‌الطارق بوده؛ مسیری که پیش‌تر در عملیات Operation Epic Fury نیز استفاده شده بود. این مأموریت حدود ساعت ۰۴:۱۵ بامداد با بازگشت بمب‌افکن‌ها به RAF Fairford و هواپیماهای سوخت‌رسان به Lajes پایان یافت
 @WarRoom</div>
-<div class="tg-footer">👁️ 144K · <a href="https://t.me/withyashar/20098" target="_blank">📅 16:50 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/20098" target="_blank">📅 16:50 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20097">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mfpUjydJSryPcLB5z7TPuI4x4CnP665E6sB2MsXcIgCHCbC34YurdjS1qRQl0p16Tf9cWwzQCbjWF-0AxhvM7-F5aeF7ikYeofZ11k2JONxkxhvr4chIrFUyHs4f5QZn3IYcGUUSl_-f0azbT1_gB6xpskvZLzQQYDuUWfEkgKDot6xPqksqseggK-Y8yHeKSxe4DUUz_5wgVwQaTZFNifOWckMfA12eQ3l3sanETwtusDsmIfapuQ53vi9mwEsqWvoDsj5EvYMdoP4KLmrzBRc5QKcdPANBRZ0T6_r_ib_3LqCqMZnkk2QghjdpkgnOyqkhCtoTJhckvzJ_JItd-w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏۳ تا از کثافتهای رسما گی حشدالشعبی که در حمله عربستان کشته شدند (عکس رسمی) همین افراد دی ماه در ایران قتلعام کردند. @WarRoom</div>
-<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/20097" target="_blank">📅 16:47 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 144K · <a href="https://t.me/withyashar/20097" target="_blank">📅 16:47 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20096">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">گزارش کانال ۱۴ : درون کوه کلنگ گزلا - مستحکم‌ترین سایت هسته‌ای ایران.
 @WarRoom</div>
-<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/20096" target="_blank">📅 16:20 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/20096" target="_blank">📅 16:20 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20095">
@@ -462,14 +462,14 @@ Brent oil :91.5$
 <div class="tg-text">اکسیوس : چین با ۴۰ درصد کاهش خرید نفت موجب
 جلوگیری از جهش شدید قیمت‌ها در پی جنگ و بسته شدن تنگه هرمز شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/20095" target="_blank">📅 15:29 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/20095" target="_blank">📅 15:29 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20094">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">سپاه زنجان: در حمله موشکی دیشب آمریکا، 3 پاسدار کشته شدن.
 @WarRoom</div>
-<div class="tg-footer">👁️ 144K · <a href="https://t.me/withyashar/20094" target="_blank">📅 15:18 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/20094" target="_blank">📅 15:18 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20093">
@@ -477,32 +477,32 @@ Brent oil :91.5$
 <div class="tg-text">وزیر دارایی اسرائیل، بزالئل اسموتریچ:
 «غزه بزرگترین زندان جهان است. مردم به زور و برخلاف میلشان در آنجا نگهداری می‌شوند و اجازه خروج ندارند. این یک چیز وحشتناک است. فقط دروازه‌ها را باز کنید و بگذارید غزه‌ای‌ها بروند.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 144K · <a href="https://t.me/withyashar/20093" target="_blank">📅 15:08 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/20093" target="_blank">📅 15:08 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20092">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">خانه ای که در محله مينابي در قشم موشک خورد گزارشات بومی میگن که محله مينابي ها همشون جز بسيج و سپاهن و عادی نیستند ، ویدیو خبرنگار رژیم این گزارش رو تایید میکنه و نشون میده عکس قاسم کتلت هم بر دیوار بوده @WarRoom</div>
-<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/20092" target="_blank">📅 14:51 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/20092" target="_blank">📅 14:51 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20091">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">ارسالی : در قشم گروه پهپادی نیرو دریایی سپاه و هوافضا سپاهاز طریق آنتن مخابراتی شهری پهپاد کنترل میکنند خود اتاق کنترل پهپاد رو توسط شبکه به خونه‌های مردم منتقل کردن بین روستاها خونه کرایه کردند و داخلش کنترل پهپاد انجام میدن... هیچکدام از مردم روستا اطلاع…</div>
-<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/20091" target="_blank">📅 14:34 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/20091" target="_blank">📅 14:34 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20090">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">خانه ای که در محله مينابي در قشم موشک خورد گزارشات بومی میگن که محله مينابي ها همشون جز بسيج و سپاهن و عادی نیستند ، ویدیو خبرنگار رژیم این گزارش رو تایید میکنه و نشون میده عکس قاسم کتلت هم بر دیوار بوده @WarRoom</div>
-<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/20090" target="_blank">📅 14:30 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/20090" target="_blank">📅 14:30 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20088">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">اطلاعیه شماره ۵۵ گروه تروریستی سپاه: تخریب کامل سه فروند هواپیمای اف 35 و ورود خسارت سنگین به سه فروند دیگر در در پاسخ به حملات آمریکایی در قشم
 @WarRoom</div>
-<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/20088" target="_blank">📅 14:14 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/20088" target="_blank">📅 14:14 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20087">
@@ -515,7 +515,7 @@ Brent oil :91.5$
 <a href="https://cdn4.telesco.pe/file/cb9ea42418.mp4?token=dKQRnRVio882kOGbNgV_qfZ7ouO7iDQ7Xl-EAWQshgDn5ZojJli5qEFzUDlBaM1rgndHUF7xAWQLAsJjf6IOr3GyRvFq_Xj6ICcX4Wv_XS2hA1xGVCyu3CeDCy1UFbiQbo71EgdGJTJ31mr9Ej_gQV433VXSRCs5SQisMm4iMcG61LcV3KijjGs4PVWRgX3vKJiGzuRnhGQiRNUf295gHoT9W2IlFOmnIauHRbjx_idXf6607tEGuH8r65fbukxYIOxvKMN6FWIL6y8eoSzdZqMuPR6VuKYwD6RHQIF2fFJKXhjEtXEpzxIahHGbxmZXwVxot4jJ5RbGw-rJNRavckHEUV7fROT0mnLPbz4QwbtBhqn0iLOxflPjoGZ590rstWmvQsCT8zly23XQiN4S22mU14TBAvTMcxFzGzvKhsgzV5eMu4cHG_do2JCF9yO0VwbU3dMpZxtq0kY1UHUeY4URhiHnLUxhwGsrRPYvaotDm-Mbn5ke2RuTRTpuiZBrznq8o7tiHLPM-Z4MTFQ3uzPGP71g9Eh5FHE38Jor1hrt_nTElNlFvSFZk0PhyM438O0selnZTDyu51ZRcHCqYBTH-3apIyu4NamfmMN0Ynq7kjknKFj2wbVlV3x0hLnIcyqsqWRw3T2ZcRXlLrmzqEn5q5H8f6IZcFtyDReAeFs" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ارسالی : در قشم گروه پهپادی نیرو دریایی سپاه و هوافضا سپاهاز طریق آنتن مخابراتی شهری پهپاد کنترل میکنند خود اتاق کنترل پهپاد رو توسط شبکه به خونه‌های مردم منتقل کردن بین روستاها خونه کرایه کردند و داخلش کنترل پهپاد انجام میدن... هیچکدام از مردم روستا اطلاع…</div>
-<div class="tg-footer">👁️ 152K · <a href="https://t.me/withyashar/20087" target="_blank">📅 14:07 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 153K · <a href="https://t.me/withyashar/20087" target="_blank">📅 14:07 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20086">
@@ -531,7 +531,7 @@ Brent oil :91.5$
 <div class="tg-text">دادستانی اسرائیل علیه یک راننده آمبولانس به نام فارس ابو‌الهیجا کیفرخواست صادر کرده و او را متهم کرده است که به دستور یک عامل اطلاعاتی ایران، اقدام به جمع‌آوری اطلاعات و عکس درباره مقامات بلندپایه اسرائیل کرده است.
 بر اساس کیفرخواست:او از محل حضور و تردد اسحاق هرتزوگ فیلم و عکس تهیه کرده است. همچنین مأمور شده بود رفت‌وآمد و محل حضور یوآو گالانت را زیر نظر بگیرد و اطلاعات مربوط به او را جمع‌آوری کند.دادستانی اسرائیل مدعی است که این اطلاعات برای یک رابط یا مأمور وابسته به ایران ارسال می‌شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/20085" target="_blank">📅 13:31 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/20085" target="_blank">📅 13:31 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20084">
@@ -546,14 +546,14 @@ Brent oil :91.5$
 <div class="tg-text">دفتر شاهزاده رضا پهلوی:
 آخرین خواسته امیرحسین صفری از مادرش پیش از اجرای حکم اعدام این بود که به همه بگه ویدیویی که جمهوری اسلامی از اون منتشر کرده، اعتراف اجباری بوده و اون کسی رو نکشته.
 @WarRoom</div>
-<div class="tg-footer">👁️ 156K · <a href="https://t.me/withyashar/20083" target="_blank">📅 12:03 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 157K · <a href="https://t.me/withyashar/20083" target="_blank">📅 12:03 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20082">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">خبرگزاری رژیم : نتانیاهو به ترامپ پیشنهاد داده یه لایه دیگه از رهبران و‌ فرماندهان جمهوری اسلامی رو بزنند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 157K · <a href="https://t.me/withyashar/20082" target="_blank">📅 11:58 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 158K · <a href="https://t.me/withyashar/20082" target="_blank">📅 11:58 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20081">
@@ -562,7 +562,7 @@ Brent oil :91.5$
 <div class="tg-text">‏۳ تا از کثافتهای رسما گی حشدالشعبی که در حمله عربستان کشته شدند (عکس رسمی)
 همین افراد دی ماه در ایران قتلعام کردند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 167K · <a href="https://t.me/withyashar/20081" target="_blank">📅 11:48 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 168K · <a href="https://t.me/withyashar/20081" target="_blank">📅 11:48 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20080">
@@ -570,27 +570,27 @@ Brent oil :91.5$
 <div class="tg-text">نتانیاهو به شبکه ABC:
 حماس باید منحل شود و غزه باید از سلاح‌ها پاکسازی شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/20080" target="_blank">📅 11:18 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 148K · <a href="https://t.me/withyashar/20080" target="_blank">📅 11:18 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20079">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">سپاه: متجاوز همین امروز تنبیه خواهد شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 148K · <a href="https://t.me/withyashar/20079" target="_blank">📅 11:16 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 149K · <a href="https://t.me/withyashar/20079" target="_blank">📅 11:16 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20078">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">وزارت دفاع کویت : یک ساختمان متعلق به یک شرکت چینی در شمال کویت مورد حمله موشکی ایران قرار گرفته و منجر به کشته شدن یک کارگر و وارد شدن خسارات قابل توجه شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 150K · <a href="https://t.me/withyashar/20078" target="_blank">📅 11:03 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 151K · <a href="https://t.me/withyashar/20078" target="_blank">📅 11:03 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20077">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">سنتکام : در ساعت ۵:۳۰ صبح پنج‌شنبه ۳۰ ژوئیه به وقت تهران، نیروهای فرماندهی مرکزی ایالات متحده (سنتکام) با موفقیت یک موج سنگین از حملات را علیه ایران، در پاسخ به تلاش روز گذشته برای حمله موشکی به نیروهای آمریکایی، به پایان رساندند. دارایی‌ها و تجهیزات سنتکام…</div>
-<div class="tg-footer">👁️ 150K · <a href="https://t.me/withyashar/20077" target="_blank">📅 10:34 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 151K · <a href="https://t.me/withyashar/20077" target="_blank">📅 10:34 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20076">
@@ -612,7 +612,7 @@ Brent oil :91.5$
 <div class="tg-text">نتانیاهو به ای بی سی: بعد از پایان این جنگ، فکر نمی‌کنم تنگه هرمز اهرم قدرتمندی باشد، زیرا خطوط لوله انرژی را از تنگه به ​​دریای سرخ و از آنجا به اسرائیل و مدیترانه منتقل خواهند کرد.
 ما می‌توانیم این گلوگاه را باز کنیم و این کار را خواهیم کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/20075" target="_blank">📅 10:16 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/20075" target="_blank">📅 10:16 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20074">
@@ -629,7 +629,7 @@ Brent oil :91.5$
 ما در واقع هر سه احتمال را بررسی کردیم و فکر می‌کنم این کار را به صورت علنی بین دوستان و متحدان انجام دادیم.
 و این تصمیم اوست. این تصمیم اوست.
 @WarRoom</div>
-<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/20074" target="_blank">📅 10:07 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 143K · <a href="https://t.me/withyashar/20074" target="_blank">📅 10:07 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20073">
@@ -828,7 +828,7 @@ Brent oil :91.5$
 <div class="tg-text">باراک راوید خبرنگار آکسیوس به نقل از مقام ارشد آمریکایی :
 آمریکا هم اکنون در حال انجام حملاتی در ایران هست.
 @WarRoom</div>
-<div class="tg-footer">👁️ 161K · <a href="https://t.me/withyashar/20052" target="_blank">📅 02:49 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 162K · <a href="https://t.me/withyashar/20052" target="_blank">📅 02:49 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20051">
@@ -854,7 +854,7 @@ https://t.me/boost/withyashar</div>
 کوپر در ۳۱ مارس ارزیابی کرد که هنوز حدود ۲۰ روز دیگر برای تکمیل عملیات نیاز دارد.
 با این حال، سرنگونی یک فروند جنگنده F-15E Strike Eagle آمریکایی در ۳ آوریل بر فراز جنوب غربی ایران، علیرغم نجات موفقیت‌آمیز هر دو خدمه در تصمیم ترامپ برای پیگیری آتش‌بس تنها در چند روز بعد نقش داشت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 163K · <a href="https://t.me/withyashar/20049" target="_blank">📅 02:23 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 164K · <a href="https://t.me/withyashar/20049" target="_blank">📅 02:23 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20048">
@@ -871,7 +871,7 @@ https://t.me/boost/withyashar</div>
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">رویترز: انفجارهای شدید و پیاپی، کیف پایتخت اوکراین را به لرزه درآورد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 165K · <a href="https://t.me/withyashar/20047" target="_blank">📅 01:55 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 166K · <a href="https://t.me/withyashar/20047" target="_blank">📅 01:55 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20046">
@@ -881,7 +881,7 @@ https://t.me/boost/withyashar</div>
 PAC-3 MSE
 تمرکز دارد؛ موشک‌هایی که برای رهگیری موشک‌های بالستیک، موشک‌های کروز، هواپیماها و پهپادها استفاده می‌شوند. هدف این برنامه، افزایش ذخایر موشکی آمریکا و متحدانش و بالا بردن ظرفیت مقابله با حملات گسترده موشکی پس از تجربه جنگ اوکراین و افزایش تهدیدهای موشکی در جهان است
 @WarRoom</div>
-<div class="tg-footer">👁️ 166K · <a href="https://t.me/withyashar/20046" target="_blank">📅 01:54 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 167K · <a href="https://t.me/withyashar/20046" target="_blank">📅 01:54 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20045">
@@ -908,7 +908,7 @@ PAC-3 MSE
 
 <div class="tg-post" id="msg-20039">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-footer">👁️ 163K · <a href="https://t.me/withyashar/20039" target="_blank">📅 01:21 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 164K · <a href="https://t.me/withyashar/20039" target="_blank">📅 01:21 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20038">
@@ -919,7 +919,7 @@ PAC-3 MSE
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 167K · <a href="https://t.me/withyashar/20038" target="_blank">📅 01:19 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 168K · <a href="https://t.me/withyashar/20038" target="_blank">📅 01:19 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20037">
@@ -927,7 +927,7 @@ PAC-3 MSE
 <div class="tg-text">خبرگزاری صدا و سیما : شنیده‌شدن صدای انفجار در پایتخت عربستان
 منابع عربی می‌گویند لحظاتی پیش صدای ۲ انفجار نامشخص، به وضوح در ریاض شنیده شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 168K · <a href="https://t.me/withyashar/20037" target="_blank">📅 01:14 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 169K · <a href="https://t.me/withyashar/20037" target="_blank">📅 01:14 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20036">

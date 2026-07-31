@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-09 02:26:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-09 03:28:11</div>
 <hr>
 
 <div class="tg-post" id="msg-7324">
@@ -328,7 +328,7 @@ TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_E
 ✔️
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 453 · <a href="https://t.me/ArchiveTell/7324" target="_blank">📅 01:33 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 571 · <a href="https://t.me/ArchiveTell/7324" target="_blank">📅 01:33 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7323">
@@ -356,7 +356,7 @@ TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_E
 *
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 591 · <a href="https://t.me/ArchiveTell/7323" target="_blank">📅 01:11 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 682 · <a href="https://t.me/ArchiveTell/7323" target="_blank">📅 01:11 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7321">
@@ -366,7 +366,7 @@ TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_E
 بچه‌ها، کانفیگ‌های بدون‌سرور (Serverless) به نسخه ۴۶ آپدیت شدن و روی نت‌هایی که اخیراً از کار افتاده بودن، دوباره فعال و متصل شدن!
 ✌️
 این آپدیت شامل دو نسخه low_delay (تاخیر کم) و high_delay (تاخیر بالا)…</div>
-<div class="tg-footer">👁️ 675 · <a href="https://t.me/ArchiveTell/7321" target="_blank">📅 01:02 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 745 · <a href="https://t.me/ArchiveTell/7321" target="_blank">📅 01:02 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7320">
@@ -375,7 +375,7 @@ TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_E
 🫠
 ❤️‍🔥
 (البته از ۱۲ گذاشته ساعت)</div>
-<div class="tg-footer">👁️ 796 · <a href="https://t.me/ArchiveTell/7320" target="_blank">📅 00:42 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 857 · <a href="https://t.me/ArchiveTell/7320" target="_blank">📅 00:42 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7319">
@@ -386,7 +386,7 @@ https://t.me/archivetell/5282
 https://t.me/archivetell/5308
 https://t.me/archivetell/5309
 https://t.me/archivetell/5310</div>
-<div class="tg-footer">👁️ 848 · <a href="https://t.me/ArchiveTell/7319" target="_blank">📅 00:35 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 908 · <a href="https://t.me/ArchiveTell/7319" target="_blank">📅 00:35 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7318">
@@ -417,7 +417,7 @@ Fast Mode
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 1.36K · <a href="https://t.me/ArchiveTell/7318" target="_blank">📅 21:06 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/ArchiveTell/7318" target="_blank">📅 21:06 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7317">
@@ -452,7 +452,7 @@ tempmail.id.vn
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 1.36K · <a href="https://t.me/ArchiveTell/7317" target="_blank">📅 20:02 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.38K · <a href="https://t.me/ArchiveTell/7317" target="_blank">📅 20:02 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7316">
@@ -482,7 +482,7 @@ tempmail.id.vn
 ]
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.44K · <a href="https://t.me/ArchiveTell/7316" target="_blank">📅 18:00 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.46K · <a href="https://t.me/ArchiveTell/7316" target="_blank">📅 18:00 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7315">
@@ -495,7 +495,7 @@ tempmail.id.vn
 🔵
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/ArchiveTell/7315" target="_blank">📅 14:39 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.59K · <a href="https://t.me/ArchiveTell/7315" target="_blank">📅 14:39 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7312">
@@ -539,7 +539,7 @@ format=info?
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 1.69K · <a href="https://t.me/ArchiveTell/7312" target="_blank">📅 12:12 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/ArchiveTell/7312" target="_blank">📅 12:12 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7311">
@@ -567,7 +567,7 @@ format=info?
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/ArchiveTell/7311" target="_blank">📅 10:48 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/ArchiveTell/7311" target="_blank">📅 10:48 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7310">
@@ -589,7 +589,7 @@ format=info?
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/ArchiveTell/7310" target="_blank">📅 10:29 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.65K · <a href="https://t.me/ArchiveTell/7310" target="_blank">📅 10:29 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7309">
@@ -620,7 +620,7 @@ MiTemplateSub-XUI
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/ArchiveTell/7309" target="_blank">📅 23:59 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/ArchiveTell/7309" target="_blank">📅 23:59 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7308">
@@ -655,7 +655,7 @@ MiTemplateSub-XUI
 ]
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.75K · <a href="https://t.me/ArchiveTell/7308" target="_blank">📅 22:01 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/ArchiveTell/7308" target="_blank">📅 22:01 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7307">
@@ -704,7 +704,7 @@ MiTemplateSub-XUI
 <div class="tg-text">😐
 😂
 https://t.me/ArchiveTell/7300</div>
-<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/ArchiveTell/7305" target="_blank">📅 18:28 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.68K · <a href="https://t.me/ArchiveTell/7305" target="_blank">📅 18:28 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7304">
@@ -777,7 +777,7 @@ https://gentsergame.com
 مشاهده سورس‌کد
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/ArchiveTell/7303" target="_blank">📅 16:00 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/ArchiveTell/7303" target="_blank">📅 16:00 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7302">
@@ -1003,7 +1003,7 @@ vless://
 ‎
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/ArchiveTell/7298" target="_blank">📅 10:17 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/ArchiveTell/7298" target="_blank">📅 10:17 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7297">
@@ -1013,7 +1013,7 @@ vless://
 بچه‌ها، کانفیگ‌های بدون‌سرور (Serverless) به نسخه ۴۶ آپدیت شدن و روی نت‌هایی که اخیراً از کار افتاده بودن، دوباره فعال و متصل شدن!
 ✌️
 این آپدیت شامل دو نسخه low_delay (تاخیر کم) و high_delay (تاخیر بالا)…</div>
-<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/ArchiveTell/7297" target="_blank">📅 00:59 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.73K · <a href="https://t.me/ArchiveTell/7297" target="_blank">📅 00:59 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7296">
@@ -1191,7 +1191,7 @@ http://hub.cocoloop.cn
 <div class="tg-post" id="msg-7291">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">آپدیت 1.0.4 کلاینت UAC-SNI-Spoofer</div>
-<div class="tg-footer">👁️ 1.69K · <a href="https://t.me/ArchiveTell/7291" target="_blank">📅 18:18 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/ArchiveTell/7291" target="_blank">📅 18:18 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7290">
@@ -1695,7 +1695,7 @@ docker run -d --name lightpanda -p 127.0.0.1:9222:9222 lightpanda/browser:nightl
 به مدت محدود قابل استفاده هست همین، حالا ها شاید متده بپره سریع برید بزنید
 ⚡
 برای دیدن…</div>
-<div class="tg-footer">👁️ 2.33K · <a href="https://t.me/ArchiveTell/7265" target="_blank">📅 15:15 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/ArchiveTell/7265" target="_blank">📅 15:15 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7264">
@@ -1759,7 +1759,7 @@ docker run -d --name lightpanda -p 127.0.0.1:9222:9222 lightpanda/browser:nightl
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.62K · <a href="https://t.me/ArchiveTell/7260" target="_blank">📅 13:47 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.63K · <a href="https://t.me/ArchiveTell/7260" target="_blank">📅 13:47 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7259">
@@ -2019,7 +2019,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/AminMGMT/BackPack/main/insta
 🔵
 @ArchiveTell | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/ArchiveTell/7241" target="_blank">📅 11:16 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.03K · <a href="https://t.me/ArchiveTell/7241" target="_blank">📅 11:16 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7240">
@@ -2378,7 +2378,7 @@ Windows
 🔵
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/ArchiveTell/7227" target="_blank">📅 18:11 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/ArchiveTell/7227" target="_blank">📅 18:11 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7226">
@@ -2553,7 +2553,7 @@ HeyGen
 500 دلار اعتبار رایگان برای هوش مصنوعی!  ‏دسترسی به قدرتمندترین مدل‌های روز دنیا با قابلیت ‌Agent Mode⁩ برای چت و پردازش‌های هوشمند:  ‏
 💎
 مدل‌های فعال: • ‌Fable 5⁩ • ‌GPT 5.6 (Sol⁩, ‌Terra⁩, ‌Luna)⁩ • ‌Opus 4.8⁩ • ‌GLM 5.2⁩ • ‌Qwen 3.7⁩  ‏برای دیدن آموزش…</div>
-<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/ArchiveTell/7216" target="_blank">📅 21:18 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.06K · <a href="https://t.me/ArchiveTell/7216" target="_blank">📅 21:18 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7213">
@@ -2665,7 +2665,7 @@ emailondeck.com
 #هوش_مصنوعی
 🔵
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.37K · <a href="https://t.me/ArchiveTell/7208" target="_blank">📅 10:40 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/ArchiveTell/7208" target="_blank">📅 10:40 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7207">

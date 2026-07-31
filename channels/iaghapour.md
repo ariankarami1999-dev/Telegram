@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-09 02:26:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-09 03:28:11</div>
 <hr>
 
 <div class="tg-post" id="msg-2830">
@@ -364,7 +364,7 @@
 جهت دریافت اطلاعات پیام دهید:
 @badranjafari
 @ragacloudvpn</div>
-<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/iaghapour/2830" target="_blank">📅 22:10 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/iaghapour/2830" target="_blank">📅 22:10 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2829">
@@ -392,7 +392,7 @@
 Aliasghar Honarmand
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/iaghapour/2829" target="_blank">📅 21:50 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.75K · <a href="https://t.me/iaghapour/2829" target="_blank">📅 21:50 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2828">
@@ -430,7 +430,7 @@ KelpDAO
 کارشناسان از احتمال رشد حملات تزریق دستور (Prompt Injection) به ایجنت‌های هوش مصنوعی خبر می‌دهند که نمونه اولیه آن هک ۲۱۶ هزار دلاری پروژه بنکر بود.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 7.24K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.35K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2826">
@@ -493,7 +493,7 @@ KelpDAO
 🎁
 ✨
 شرایطش هم خیلی راحته؛ فقط کافیه زیر ویدیو کامنت بذارید!</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/2823" target="_blank">📅 21:05 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/2823" target="_blank">📅 21:05 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2822">
@@ -515,7 +515,7 @@ KelpDAO
 مردم در هر صورت از سد فیلترینگ عبور می‌کنند، اما اکنون با هزینه و آسیب بسیار بیشتری مواجه هستند؛ بنابراین تنها راه حذف فیلترشکن‌ها، آزادتر کردن اینترنت توسط دولت است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/iaghapour/2822" target="_blank">📅 20:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/iaghapour/2822" target="_blank">📅 20:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2820">
@@ -537,7 +537,7 @@ KelpDAO
 آسیب‌های ناشی از ابزارهای دور زدن فیلترینگ نشان می‌دهد که حوزه تامین امنیت سایبری نیازمند نگاهی جدید و بازنگری در شرایط پایدارتر است./زومجی
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/iaghapour/2820" target="_blank">📅 20:52 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2820" target="_blank">📅 20:52 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2819">
@@ -1143,7 +1143,7 @@ LangOver
 پ.ن: من می‌ترسم فردا روز اینا واسه جبران بیان سایتای ارائه‌دهنده گواهی مثل Let's Encrypt و اینجور چیزا رو تحریم کنن و کلاً همه رو به فنا بدن!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/iaghapour/2779" target="_blank">📅 16:12 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/iaghapour/2779" target="_blank">📅 16:12 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2777">
@@ -1577,7 +1577,7 @@ Nova.app
 
 <div class="tg-post" id="msg-2744">
 <div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B8PmhbEE3WGidVYM-N174TCdHoAlRj6EQ0HGZffyHrc-B3pZPbcW6NeFBa3KLsXerG9jTm32FP0NJjMc5yJKqS3GgWqNlPSE-WytRP9zOkjeglkHNdtCrvP5VfLxTeI97XZh5l5bkNgc-DI3a7tc91NsM9f0fAB2uozytOkSFdiA3HGujCVZeu5wRK9kBh30jiIHSB-wXvvE5X8uwE4-OAIz7SUyAqDWrbZyYe0FJxs9H2IITcymxYAkKBORdZNYM7xfXz5agMmu8tOem30IjRsfsqgd6HfebIlpJaF3UHrWT56Hg3UV7Mtx4x0YILocRrEsZZF4jKKPkpEEzGl3xg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qk3BB8tEPtT8pJGm1680h80VBwwPEO2YTS6l_y3vOLryvchVP6MxTCcJNjGR6Lv6B6S207uQNPpI8XsICrYD6D6tkvuQRQv5NWtm2807fm_JxJOszx77LY9LrOA3pX-V2ESyX-Ddjb1HcHjuFxUx77oz-RluMuW1S9msLn1RWRlGM5JV79MMM6wYeleRoxK2iYrwWyAhSCVRaSCaRr1AA2laUDCIcwwQ2yEmX06JUiBhqYmSAOtKQ2NDqrohTlyffsaPDiwMfILk_thxlRsA0O86hEXxLj2WfJPKbjsZCzdIu6lo5azdDlj0cRKtmRECkPE4s3XE1gM8jI8ZQKe6BA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">.
 ⚠️
 ببینید، اینکه بیایم مصرف کاربر رو چند برابر حساب کنیم (مثلاً طرف ۱ گیگ مصرف کرده ولی ۲ گیگ از حجمش کم کنیم)، اسمش زرنگی نیست، رسماً دزدی و کم‌فروشی تو روز روشنه! اینجور کارا فقط گند می‌زنه به اعتماد مردم و باعث میشه مشتری به بقیه فروشنده‌هایی که دارن سالم کار می‌کنن هم به چشم دزد نگاه کنه.
