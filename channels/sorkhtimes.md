@@ -292,7 +292,7 @@
 <a href="https://t.me/sorkhtimes" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽ورزشی نویس پرسپولیس👤🎗️«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس.⛔رسانه سرخ تایمز مسئولیتی در قبال تبلیغات ندارد.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-09 03:28:11</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-09 06:17:17</div>
 <hr>
 
 <div class="tg-post" id="msg-137078">
@@ -313,7 +313,7 @@ Musetti
 @Wincobet_bot
 🤖
 @Wincobet_bot</div>
-<div class="tg-footer">👁️ 683 · <a href="https://t.me/SorkhTimes/137078" target="_blank">📅 02:48 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.56K · <a href="https://t.me/SorkhTimes/137078" target="_blank">📅 02:48 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137077">
@@ -331,7 +331,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/SorkhTimes/137077" target="_blank">📅 01:09 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.39K · <a href="https://t.me/SorkhTimes/137077" target="_blank">📅 01:09 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137076">
@@ -347,7 +347,7 @@ Musetti
 🔴
 🔴
 هالیلوویچ به عنوان گزینه خرید…</div>
-<div class="tg-footer">👁️ 3.45K · <a href="https://t.me/SorkhTimes/137076" target="_blank">📅 00:49 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/SorkhTimes/137076" target="_blank">📅 00:49 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137075">
@@ -363,7 +363,7 @@ Musetti
 🔴
 🔴
 هالیلوویچ به عنوان گزینه خرید…</div>
-<div class="tg-footer">👁️ 3.74K · <a href="https://t.me/SorkhTimes/137075" target="_blank">📅 00:41 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SorkhTimes/137075" target="_blank">📅 00:41 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137074">
@@ -374,7 +374,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.78K · <a href="https://t.me/SorkhTimes/137074" target="_blank">📅 00:39 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SorkhTimes/137074" target="_blank">📅 00:39 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137073">
@@ -390,7 +390,7 @@ Musetti
 🔴
 🔴
 هالیلوویچ به عنوان گزینه خرید…</div>
-<div class="tg-footer">👁️ 3.85K · <a href="https://t.me/SorkhTimes/137073" target="_blank">📅 00:35 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SorkhTimes/137073" target="_blank">📅 00:35 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137072">
@@ -406,7 +406,7 @@ Musetti
 🤔
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس…</div>
-<div class="tg-footer">👁️ 3.84K · <a href="https://t.me/SorkhTimes/137072" target="_blank">📅 00:34 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SorkhTimes/137072" target="_blank">📅 00:34 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137071">
@@ -420,7 +420,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.13K · <a href="https://t.me/SorkhTimes/137071" target="_blank">📅 00:08 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SorkhTimes/137071" target="_blank">📅 00:08 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137070">
@@ -435,7 +435,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/SorkhTimes/137070" target="_blank">📅 00:06 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SorkhTimes/137070" target="_blank">📅 00:06 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137069">
@@ -450,7 +450,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SorkhTimes/137069" target="_blank">📅 00:05 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SorkhTimes/137069" target="_blank">📅 00:05 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137068">
@@ -462,7 +462,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SorkhTimes/137068" target="_blank">📅 23:59 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SorkhTimes/137068" target="_blank">📅 23:59 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137067">
@@ -483,7 +483,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SorkhTimes/137067" target="_blank">📅 23:42 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SorkhTimes/137067" target="_blank">📅 23:42 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137066">
@@ -492,7 +492,7 @@ Musetti
 گفته می شود ایجنت ایرانی نزدیک به‌ عثمان‌ اندونگ به مهدی‌تارتار سرمربی تیم پرسپولیس گفته که اندونگ از سپاهان‌آفر دریافت کرده اما اگه او بخواد باپرداخت 600 هزار دلار میتواند رضایت نامه این بازیکن رو بگیرد و او رو به پرسپولیس بیاورد.
 🎗️
 «سرخ تایمز» دریچه ای…</div>
-<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SorkhTimes/137066" target="_blank">📅 23:21 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SorkhTimes/137066" target="_blank">📅 23:21 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137065">
@@ -504,7 +504,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SorkhTimes/137065" target="_blank">📅 23:11 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SorkhTimes/137065" target="_blank">📅 23:11 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137064">
@@ -515,7 +515,7 @@ Musetti
 درخشش علیرضا همایی‌فر در دیدار دوستانه؛ پرسشی جدی درباره روند استفاده از این بازیکن در پرسپولیس
 ⚽️
 علیرضا همایی‌فر، بازیکن جوان پرسپولیس، در دیدار دوستانه روز گذشته تیم خود، عملکردی قابل‌توجه و امیدوارکننده از خود به جای گذاشت. همایی‌فر که توسط مدیریت سابق…</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SorkhTimes/137064" target="_blank">📅 23:09 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SorkhTimes/137064" target="_blank">📅 23:09 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137063">
@@ -529,7 +529,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SorkhTimes/137063" target="_blank">📅 23:03 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SorkhTimes/137063" target="_blank">📅 23:03 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137062">
@@ -550,7 +550,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.93K · <a href="https://t.me/SorkhTimes/137062" target="_blank">📅 21:10 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.06K · <a href="https://t.me/SorkhTimes/137062" target="_blank">📅 21:10 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137061">
@@ -563,7 +563,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.1K · <a href="https://t.me/SorkhTimes/137061" target="_blank">📅 21:08 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.23K · <a href="https://t.me/SorkhTimes/137061" target="_blank">📅 21:08 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137060">
@@ -579,7 +579,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.84K · <a href="https://t.me/SorkhTimes/137060" target="_blank">📅 20:49 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.95K · <a href="https://t.me/SorkhTimes/137060" target="_blank">📅 20:49 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137059">
@@ -592,7 +592,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/SorkhTimes/137059" target="_blank">📅 20:47 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.87K · <a href="https://t.me/SorkhTimes/137059" target="_blank">📅 20:47 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137058">
@@ -604,7 +604,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/SorkhTimes/137058" target="_blank">📅 20:43 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.77K · <a href="https://t.me/SorkhTimes/137058" target="_blank">📅 20:43 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137057">
@@ -615,7 +615,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/SorkhTimes/137057" target="_blank">📅 20:42 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/SorkhTimes/137057" target="_blank">📅 20:42 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137056">
@@ -630,7 +630,7 @@ Musetti
 با تصمیم کارگروه اضطرار آلودگی هوا تمامی مقاطع تحصیلی استان تهران بجز فیروز کوه روزهای سه شنبه ۴ آذر و چهارشنبه ۵ آذر غیر حضوری اعلام شد.
 🟦
 دانشگاههای استان تهران بجز فیروز کوه غیر…</div>
-<div class="tg-footer">👁️ 5.58K · <a href="https://t.me/SorkhTimes/137056" target="_blank">📅 20:41 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.68K · <a href="https://t.me/SorkhTimes/137056" target="_blank">📅 20:41 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137055">
@@ -649,7 +649,7 @@ Musetti
 @Wincobet_bot
 🤖
 @Wincobet_bot</div>
-<div class="tg-footer">👁️ 5.54K · <a href="https://t.me/SorkhTimes/137055" target="_blank">📅 20:32 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/SorkhTimes/137055" target="_blank">📅 20:32 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137054">
@@ -660,7 +660,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.64K · <a href="https://t.me/SorkhTimes/137054" target="_blank">📅 20:08 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.76K · <a href="https://t.me/SorkhTimes/137054" target="_blank">📅 20:08 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137053">
@@ -673,7 +673,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.86K · <a href="https://t.me/SorkhTimes/137053" target="_blank">📅 19:20 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.94K · <a href="https://t.me/SorkhTimes/137053" target="_blank">📅 19:20 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137052">
@@ -682,7 +682,7 @@ Musetti
 نیمه اول دیدار دوستانه پرسپولیس و آلانیااسپور بدون گل به پایان رسید.  در حاشیه این بازی، محمد عمری و اورونوف در کنار محمدمهدی محبی روی نیمکت و زیر باران نشستند تا یک قاب جالب و متفاوت در ارزروم ثبت شود.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی…</div>
-<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/SorkhTimes/137052" target="_blank">📅 19:16 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.9K · <a href="https://t.me/SorkhTimes/137052" target="_blank">📅 19:16 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137051">
@@ -696,7 +696,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.86K · <a href="https://t.me/SorkhTimes/137051" target="_blank">📅 19:15 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.94K · <a href="https://t.me/SorkhTimes/137051" target="_blank">📅 19:15 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137050">
@@ -711,7 +711,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.9K · <a href="https://t.me/SorkhTimes/137050" target="_blank">📅 19:10 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.98K · <a href="https://t.me/SorkhTimes/137050" target="_blank">📅 19:10 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137049">
@@ -723,7 +723,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.9K · <a href="https://t.me/SorkhTimes/137049" target="_blank">📅 19:08 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.98K · <a href="https://t.me/SorkhTimes/137049" target="_blank">📅 19:08 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137048">
@@ -736,7 +736,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.08K · <a href="https://t.me/SorkhTimes/137048" target="_blank">📅 18:37 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.22K · <a href="https://t.me/SorkhTimes/137048" target="_blank">📅 18:37 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137047">
@@ -758,7 +758,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/SorkhTimes/137047" target="_blank">📅 17:49 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.16K · <a href="https://t.me/SorkhTimes/137047" target="_blank">📅 17:49 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137046">
@@ -769,7 +769,7 @@ Musetti
 طبق اخبار دریافتی غیر رسمی : باشگاه پرسپولیس آلن‌هلیلوویچ‌هافبک‌کروات سابق بارسا رو به‌ اردوی‌سرخپوشان‌پایتخت در ترکیه دعوت کرده و قراره‌ظرف 48 ساعت آینده هلیلوویچ بعنوان‌بازیکن تستی در اردوی شاگردان مهدی تارتار حاضر شود.
 🎗️
 «سرخ تایمز» دریچه ای تازه…</div>
-<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/SorkhTimes/137046" target="_blank">📅 17:06 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.49K · <a href="https://t.me/SorkhTimes/137046" target="_blank">📅 17:06 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137045">
@@ -783,7 +783,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/SorkhTimes/137045" target="_blank">📅 16:47 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.47K · <a href="https://t.me/SorkhTimes/137045" target="_blank">📅 16:47 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137044">
@@ -798,7 +798,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.32K · <a href="https://t.me/SorkhTimes/137044" target="_blank">📅 16:44 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.36K · <a href="https://t.me/SorkhTimes/137044" target="_blank">📅 16:44 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137043">
@@ -809,7 +809,7 @@ Musetti
 طبق اخبار دریافتی غیر رسمی : باشگاه پرسپولیس آلن‌هلیلوویچ‌هافبک‌کروات سابق بارسا رو به‌ اردوی‌سرخپوشان‌پایتخت در ترکیه دعوت کرده و قراره‌ظرف 48 ساعت آینده هلیلوویچ بعنوان‌بازیکن تستی در اردوی شاگردان مهدی تارتار حاضر شود.
 🎗️
 «سرخ تایمز» دریچه ای تازه…</div>
-<div class="tg-footer">👁️ 6.25K · <a href="https://t.me/SorkhTimes/137043" target="_blank">📅 16:18 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.3K · <a href="https://t.me/SorkhTimes/137043" target="_blank">📅 16:18 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137042">
@@ -846,7 +846,7 @@ Musetti
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 6.27K · <a href="https://t.me/SorkhTimes/137042" target="_blank">📅 15:25 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.3K · <a href="https://t.me/SorkhTimes/137042" target="_blank">📅 15:25 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137041">
@@ -860,7 +860,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.09K · <a href="https://t.me/SorkhTimes/137041" target="_blank">📅 15:21 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/SorkhTimes/137041" target="_blank">📅 15:21 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137040">
@@ -872,7 +872,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.16K · <a href="https://t.me/SorkhTimes/137040" target="_blank">📅 15:18 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.2K · <a href="https://t.me/SorkhTimes/137040" target="_blank">📅 15:18 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137039">
@@ -885,7 +885,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/SorkhTimes/137039" target="_blank">📅 15:15 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.15K · <a href="https://t.me/SorkhTimes/137039" target="_blank">📅 15:15 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137038">
@@ -894,7 +894,7 @@ Musetti
 آلانیا اسپور حریف تدارکاتی بعدی پرسپولیس در ترکیه
 ▶️
 با اعلام باشگاه پرسپولیس، شاگردان تارتار، روز پنج‌شنبه در دومین بازی تدارکاتی خود از اردوی آماده سازی پیش فصل در ترکیه، به مصاف تیم آلانیا اسپور خواهند رفت که خود را آماده فصل جدید رقابت‌های سوپر لیگ ترکیه…</div>
-<div class="tg-footer">👁️ 6.18K · <a href="https://t.me/SorkhTimes/137038" target="_blank">📅 15:13 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.22K · <a href="https://t.me/SorkhTimes/137038" target="_blank">📅 15:13 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137037">
@@ -906,7 +906,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.42K · <a href="https://t.me/SorkhTimes/137037" target="_blank">📅 14:01 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/SorkhTimes/137037" target="_blank">📅 14:01 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137036">
@@ -936,7 +936,7 @@ Musetti
 هفته نهم: مس شهر بابک
 ✔️
 هفته دهم: فولاد…</div>
-<div class="tg-footer">👁️ 6.55K · <a href="https://t.me/SorkhTimes/137036" target="_blank">📅 13:48 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.58K · <a href="https://t.me/SorkhTimes/137036" target="_blank">📅 13:48 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137035">
@@ -952,7 +952,7 @@ Musetti
 شهید و ۲ زخمی در حملۀ آمریکا به محله چاهتنگو شهر قشم
 ✔️
 دانشگاه علوم پزشکی هرمزگان: در حملۀ دشمن آمریکایی به منزل مسکونی در محلۀ چاهتنگو شهر قشم، پدر و مادر خانواده و یک کودک ۲ ساله به شهادت رسیدند و…</div>
-<div class="tg-footer">👁️ 6.34K · <a href="https://t.me/SorkhTimes/137035" target="_blank">📅 13:46 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.37K · <a href="https://t.me/SorkhTimes/137035" target="_blank">📅 13:46 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137034">
@@ -965,7 +965,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.49K · <a href="https://t.me/SorkhTimes/137034" target="_blank">📅 13:45 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.52K · <a href="https://t.me/SorkhTimes/137034" target="_blank">📅 13:45 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137033">
@@ -987,7 +987,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.59K · <a href="https://t.me/SorkhTimes/137033" target="_blank">📅 13:37 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.62K · <a href="https://t.me/SorkhTimes/137033" target="_blank">📅 13:37 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137032">
@@ -999,7 +999,7 @@ Musetti
 محبی هنوز هیچ قراردادی با تیم روسی نبسته و امکانش جذبش هنوزم هست همه چیز بستگی به نوع مذاکرات و پیشنهاد مدیران تیم داره
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و…</div>
-<div class="tg-footer">👁️ 6.59K · <a href="https://t.me/SorkhTimes/137032" target="_blank">📅 12:22 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.61K · <a href="https://t.me/SorkhTimes/137032" target="_blank">📅 12:22 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137031">
@@ -1015,7 +1015,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/SorkhTimes/137031" target="_blank">📅 11:36 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.74K · <a href="https://t.me/SorkhTimes/137031" target="_blank">📅 11:36 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137030">
@@ -1037,7 +1037,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.61K · <a href="https://t.me/SorkhTimes/137030" target="_blank">📅 10:23 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.64K · <a href="https://t.me/SorkhTimes/137030" target="_blank">📅 10:23 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137029">
@@ -1051,7 +1051,7 @@ Musetti
 ⚠️
 ⚠️
 پورعلی‌گنجی هیچ قراردادی با باشگاه الطلبه عراق امضا…</div>
-<div class="tg-footer">👁️ 6.53K · <a href="https://t.me/SorkhTimes/137029" target="_blank">📅 09:59 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.55K · <a href="https://t.me/SorkhTimes/137029" target="_blank">📅 09:59 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137028">
@@ -1063,7 +1063,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.44K · <a href="https://t.me/SorkhTimes/137028" target="_blank">📅 09:55 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.46K · <a href="https://t.me/SorkhTimes/137028" target="_blank">📅 09:55 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137027">
@@ -1074,7 +1074,7 @@ Musetti
 🔻
 🔻
 رفیعی یک سال دیگر با پرسپولیس قرارداد دارد مشکلی برای همراهی این تیم نخواهد داشت اما احتمالا با تمدید قرارداد در جمع شاگردان مهدی تارتار حضور خواهد داشت و زیر نظر حسین اینانلو کار خود را دنبال خواهد کرد.…</div>
-<div class="tg-footer">👁️ 6.22K · <a href="https://t.me/SorkhTimes/137027" target="_blank">📅 09:52 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.24K · <a href="https://t.me/SorkhTimes/137027" target="_blank">📅 09:52 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137026">
@@ -1087,7 +1087,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.3K · <a href="https://t.me/SorkhTimes/137026" target="_blank">📅 09:42 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.32K · <a href="https://t.me/SorkhTimes/137026" target="_blank">📅 09:42 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137025">
@@ -1101,7 +1101,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.22K · <a href="https://t.me/SorkhTimes/137025" target="_blank">📅 09:31 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.23K · <a href="https://t.me/SorkhTimes/137025" target="_blank">📅 09:31 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137024">
@@ -1115,7 +1115,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.32K · <a href="https://t.me/SorkhTimes/137024" target="_blank">📅 08:56 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.34K · <a href="https://t.me/SorkhTimes/137024" target="_blank">📅 08:56 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137023">
@@ -1129,7 +1129,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.41K · <a href="https://t.me/SorkhTimes/137023" target="_blank">📅 08:16 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/SorkhTimes/137023" target="_blank">📅 08:16 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137022">
@@ -1166,7 +1166,7 @@ Musetti
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 6.75K · <a href="https://t.me/SorkhTimes/137022" target="_blank">📅 01:26 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.76K · <a href="https://t.me/SorkhTimes/137022" target="_blank">📅 01:26 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137021">
@@ -1181,7 +1181,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.71K · <a href="https://t.me/SorkhTimes/137021" target="_blank">📅 00:44 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/SorkhTimes/137021" target="_blank">📅 00:44 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137020">
@@ -1191,7 +1191,7 @@ Musetti
 ❤️
 ❤️
 ❤️</div>
-<div class="tg-footer">👁️ 6.59K · <a href="https://t.me/SorkhTimes/137020" target="_blank">📅 00:43 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.63K · <a href="https://t.me/SorkhTimes/137020" target="_blank">📅 00:43 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137019">
@@ -1206,7 +1206,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.87K · <a href="https://t.me/SorkhTimes/137019" target="_blank">📅 23:53 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.88K · <a href="https://t.me/SorkhTimes/137019" target="_blank">📅 23:53 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137018">
@@ -1217,7 +1217,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.95K · <a href="https://t.me/SorkhTimes/137018" target="_blank">📅 23:49 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.96K · <a href="https://t.me/SorkhTimes/137018" target="_blank">📅 23:49 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137017">
@@ -1230,7 +1230,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.89K · <a href="https://t.me/SorkhTimes/137017" target="_blank">📅 23:46 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.9K · <a href="https://t.me/SorkhTimes/137017" target="_blank">📅 23:46 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137016">
@@ -1249,7 +1249,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.92K · <a href="https://t.me/SorkhTimes/137016" target="_blank">📅 23:45 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.93K · <a href="https://t.me/SorkhTimes/137016" target="_blank">📅 23:45 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137015">
@@ -1260,7 +1260,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 7.03K · <a href="https://t.me/SorkhTimes/137015" target="_blank">📅 23:43 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.04K · <a href="https://t.me/SorkhTimes/137015" target="_blank">📅 23:43 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137014">
@@ -1308,7 +1308,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.97K · <a href="https://t.me/SorkhTimes/137011" target="_blank">📅 22:37 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.98K · <a href="https://t.me/SorkhTimes/137011" target="_blank">📅 22:37 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137010">
@@ -1336,7 +1336,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.89K · <a href="https://t.me/SorkhTimes/137009" target="_blank">📅 22:25 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.9K · <a href="https://t.me/SorkhTimes/137009" target="_blank">📅 22:25 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137008">
@@ -1370,7 +1370,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.53K · <a href="https://t.me/SorkhTimes/137007" target="_blank">📅 21:57 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.54K · <a href="https://t.me/SorkhTimes/137007" target="_blank">📅 21:57 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137006">
@@ -1385,7 +1385,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.8K · <a href="https://t.me/SorkhTimes/137006" target="_blank">📅 21:55 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.81K · <a href="https://t.me/SorkhTimes/137006" target="_blank">📅 21:55 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137005">
@@ -1397,7 +1397,7 @@ Musetti
 پاس گلشم روی یک ارسال تمیز شکل گرفت. با وجود اینکه جلوی چادرملو هم بهترین بازیکن زمین بود نکته عجیب اینکه چرا رسانه‌ها اصرار دارند مازاد بشه.
 🎗️
 «سرخ تایمز» دریچه ای تازه…</div>
-<div class="tg-footer">👁️ 6.71K · <a href="https://t.me/SorkhTimes/137005" target="_blank">📅 21:11 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/SorkhTimes/137005" target="_blank">📅 21:11 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137004">
@@ -1409,7 +1409,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/SorkhTimes/137004" target="_blank">📅 21:04 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/SorkhTimes/137004" target="_blank">📅 21:04 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-137003">
@@ -1484,7 +1484,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.2K · <a href="https://t.me/SorkhTimes/137000" target="_blank">📅 20:09 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.21K · <a href="https://t.me/SorkhTimes/137000" target="_blank">📅 20:09 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136999">
@@ -1498,7 +1498,7 @@ Musetti
 جواد نکونام پس از ساعت‌های طولانی مذاکره با باشگاه پیکان، به توافق نهایی با خودروسازان رسید تا پس از یک وقفه، دوباره به لیگ برتر برگردد و هدایت این تیم را برعهده بگیرد.
 🎗️
 «سرخ تایمز» دریچه…</div>
-<div class="tg-footer">👁️ 6.31K · <a href="https://t.me/SorkhTimes/136999" target="_blank">📅 20:04 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.32K · <a href="https://t.me/SorkhTimes/136999" target="_blank">📅 20:04 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136998">
@@ -1527,7 +1527,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.55K · <a href="https://t.me/SorkhTimes/136998" target="_blank">📅 19:59 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.56K · <a href="https://t.me/SorkhTimes/136998" target="_blank">📅 19:59 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136997">
@@ -1540,7 +1540,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.34K · <a href="https://t.me/SorkhTimes/136997" target="_blank">📅 19:45 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.35K · <a href="https://t.me/SorkhTimes/136997" target="_blank">📅 19:45 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136996">
@@ -1563,7 +1563,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.44K · <a href="https://t.me/SorkhTimes/136995" target="_blank">📅 18:24 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/SorkhTimes/136995" target="_blank">📅 18:24 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136994">
@@ -1573,7 +1573,7 @@ Musetti
 میرشاد ماجدی، رئیس هیئت فوتبال تهران:
 ◻️
 مسئولیت استادیوم‌های تهران با من نیست. ورزشگاه‌های دستگردی و شهرقدس برای لیگ آماده هستند، اما درباره آزادی هنوز تصمیمی اعلام نشده است. زمان شروع مسابقات مشخص نیست و به وضعیت جنگ بستگی دارد.برگزاری منظم مسابقات،…</div>
-<div class="tg-footer">👁️ 6.77K · <a href="https://t.me/SorkhTimes/136994" target="_blank">📅 18:22 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.78K · <a href="https://t.me/SorkhTimes/136994" target="_blank">📅 18:22 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136993">
@@ -1600,7 +1600,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.83K · <a href="https://t.me/SorkhTimes/136992" target="_blank">📅 16:21 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.84K · <a href="https://t.me/SorkhTimes/136992" target="_blank">📅 16:21 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136991">
@@ -1611,7 +1611,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.93K · <a href="https://t.me/SorkhTimes/136991" target="_blank">📅 15:55 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.94K · <a href="https://t.me/SorkhTimes/136991" target="_blank">📅 15:55 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136990">
@@ -1622,7 +1622,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 7.08K · <a href="https://t.me/SorkhTimes/136990" target="_blank">📅 15:43 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.09K · <a href="https://t.me/SorkhTimes/136990" target="_blank">📅 15:43 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136988">
@@ -1635,7 +1635,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.9K · <a href="https://t.me/SorkhTimes/136988" target="_blank">📅 15:32 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.91K · <a href="https://t.me/SorkhTimes/136988" target="_blank">📅 15:32 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136987">
@@ -1646,7 +1646,7 @@ Musetti
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 6.86K · <a href="https://t.me/SorkhTimes/136987" target="_blank">📅 15:22 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.87K · <a href="https://t.me/SorkhTimes/136987" target="_blank">📅 15:22 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136986">
@@ -1669,7 +1669,7 @@ Musetti
 توجه به پیوستن محمدرضا اخباری، احتمال بازگشت امیر رفیعی قوت گرفته است. برخلاف اخبار منتشره، باشگاه پرسپولیس، با احمد گوهری و سایر دروازه بان هایی که نام آن ها مطرح است مذاکره ای نداشته
 🔴
 رفیعی به مدیران پرسپولیس اعلام کرد توافقی جدا شود و باشگاه به او…</div>
-<div class="tg-footer">👁️ 6.81K · <a href="https://t.me/SorkhTimes/136985" target="_blank">📅 15:16 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.82K · <a href="https://t.me/SorkhTimes/136985" target="_blank">📅 15:16 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136984">
@@ -1744,7 +1744,7 @@ Musetti
 @Wincobet_bot
 🤖
 @Wincobet_bot</div>
-<div class="tg-footer">👁️ 6.88K · <a href="https://t.me/SorkhTimes/136980" target="_blank">📅 13:41 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.89K · <a href="https://t.me/SorkhTimes/136980" target="_blank">📅 13:41 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136979">
@@ -1755,7 +1755,7 @@ Musetti
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.59K · <a href="https://t.me/SorkhTimes/136979" target="_blank">📅 11:55 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.6K · <a href="https://t.me/SorkhTimes/136979" target="_blank">📅 11:55 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-136978">
