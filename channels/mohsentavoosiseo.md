@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 01:04:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 02:22:26</div>
 <hr>
 
 <div class="tg-post" id="msg-880">
@@ -1103,7 +1103,7 @@ vibe coding - وایب کدینگ
 شما اکانت 20 دلاری کلاد نیاز دارید حداقل. دستی هم انجام بدید موقع Off-Page نیاز دارید به هزینه کردن. خیلی چیز ها هم هزینه پنهان هست که به چشم نمیاد. مثل زمانتون که داره میره و از کار و زندگی مفتید. ماهی 40 میلیون تومن از دست میدید که سال دیگه تازه شروع کنه به درامدزایی.
 سئو پول میخواد. رایگان نیست. ابزار هاش هم رایگان گیر بیارید، موقع Off-Page، پول میخواد.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/mohsentavoosiseo/796" target="_blank">📅 14:01 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/mohsentavoosiseo/796" target="_blank">📅 14:01 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-795">
@@ -1198,7 +1198,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LeOMZ_foHgHQCF2mvZ1i0PezbbeVJAE0E2Sy2rPXYWgFI27so0lY8dRtbqRZoDhkFMx6pMQ-l3ERZyO-6zeEIa_JzQ8zE1o6Wvn9HFsk5Wb_5zMGCfaUUzkNWfN-phdpZgAiGHt30a3pIP6xxWkwAgZe-A1js2nXF2EJXGJzF68-5Ecm99ohbh7Bx_3_Ia91aFCmrHQSsapYyuHmYyRdj2VgE12Hs1Va8YRDcBKDSYSveVF9r3c3dxW3MmokycqxZbvM-mJ_8PRPONYBrpYlKmPQarz5-X2Gbabdm753yNVu7MFoA2qqdXJIk6RfCtCoFn4xQxqBa1MHMfl3LF1Bug.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YlaUtk1A-yvlDJd7vi3cxw_ATMhEJ4PJVy4t0xa3--9UMjIxVrG4JsbmoheRdY_ULCrBEfyQYZelWBjfJ7Ow3_nh42rTGe3AS0ro2mxnOAK4jreVFBB-4br_UVT59dlBSRxIRae_7y83BkUobQhiJ9ZbcZ7fxt38vyHPQIEXtcl7RjtfEAcwaov8modiS2W3yUykEwweXfiHWj3_DZV_baCPLyY92Hv8xq2GY-KL53-K4y5dihIodh_qgABQPHaPP9DEHoAcZDv_dX4Y8sAj9l0hRVZtBY0C2W_P5n0Q63su_ERfYAvQoHNNoE5YETSH21FiZ2p3Jd44YMYm_-Z6Cw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
@@ -1228,7 +1228,7 @@ pinned «
 
 <div class="tg-post" id="msg-774">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EP6s_sjAwf0K7Dgr60Hfb_OcDcJ095ZUv4_eljVgKY_3d_MC2HJNh7TD_gNVkm59fUV9-HMf9CiKeDFJrEBE5Hb4tgoAYCooPkIVfIydpcshAZjpICNw3lowMkFYFtArDpOkEPuaVPc-u7bZIGJxQilxXQF-76O_xJrqkYIadQcaiplHMz1RIAYHq-DsyeMrBgTtA9oWWMJQyrJv-Af1kgLOj8LrIo7kDuASDxSczcpMITm-aCDy1AgXZwx7z7OvVpJAkd3a-LqXoNY3gv3TRzqvfjxX4cDb4Q5zC6KcSV2Y9kNhxd_AYhqjuKSXtUKyQlcEJntgMmJ-oVKQVEnE-g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Gm65h3Tr8ttaTp1VA7CnM_2nl9oWzRItXX6MBhUtcbK1R8NU6FZWJohCq31Y5LtESw0slsel6bcNurIXS1UFO7UaLUdbX6SOYa1NhUwlm_F6epTuFp67IWOcpJv4SUhIbt7xBzQKqc7j9kz4pCvV9Dys34GUTfl3dsW2X-q4Mjq6KwBUWQoLcrZkivv6VWUqH_ltq2kHAeDj2exKJ-ND-yj1h3fb9_UuH8kaPiJ839uog8jG_kkatUCpQYSMLVNrhLmnCp_Io6fKA-mopObcWHUZsi1tgWuZ_yk32c6TzuvpvMa4IxVXFu0unQuB-YVA2HUl8y9QftUgMsOyvHXo1g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درباره پستی که روش ریپلای زدم:   نظر یک نفر قبل از اون پست:  از این زاویه نگاه میکردم که آقا تفکر وقتی آزاد باشه کامنت هم باز میزاره که جامعه بتونه درموردش صحبت کنه  وقتی میبنده داره آزادی رو میگیره</div>
 <div class="tg-footer">👁️ 2.14K · <a href="https://t.me/mohsentavoosiseo/774" target="_blank">📅 17:48 · 04 Tir 1405</a></div>
 </div>
@@ -1259,7 +1259,7 @@ pinned «
 
 <div class="tg-post" id="msg-768">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EqD4JuGoxmkGJou5oFYLhmiG0BUwkVY3THpZqDu4KItkXShl7Z4rUvVvy2ATz1CY439_HNBZ0wvY6chM8LaJCbhRTICpXeu5GOtTkTCVkiWyIihF8QkOB002RQtPPM9ewSy9cd21g_pWa3EwTLAzg2EBnv6WtB6-bgKt_9PTXPv8Oeb6dUwG-EaikeuF2fugNw6T3fLQrxu_Pjq41pV9wDhZBr6W_Q8TaOkIZKVBJfxmfaFX_xiF5bB_5gxQ2JmALBe8Ao6I1yPef3Ve4YeXGZmXFooFL3UT9rVUVzNFFRq1D47rjSnfMYwM1YoFWF29EEx9t3HMbpHSzLe-jiC7sA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QzpNUAICx6JE7rAAUFje53SAw392UGVU8s6xBvwB5cIUeks-5whC210R8bj93-nVk2-aedoFjhJG4D-XMcU4A1GSMeurxyMGBqOwUd1zoHCyWvX4FqyTawJ95MCsKkmMxbOrGC0rjDV5_U5E_U6j89APnxBAbV40rwWNKhbG__1kM02BW4F2GlPMNmSxaze1wBEGKc0eRFEXjynEz4CqSJlNsVHsYvnVzSzp1aFf3mFQ_hWerRjMhqJu0YKlzwqAdTO_AMrVUUuH4ngkWjz4SrsTnm1B0r4xtzJbOeCpNA_RlnbX0MqxWWIXNEKhSwux5jsGQpR0XgMe3dhgUrO7fw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال یک دنبال کننده که احتمالا شناخت قبلی هم به من نداره:
 نکات سوال:
 پارتی نداشتم کار خوب گیرم نیومد
@@ -1303,7 +1303,7 @@ pinned «
 
 <div class="tg-post" id="msg-761">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sf3mYCZE26v2RHZcBXhy_GHkDF1-Ip1plrHSwgpS4lP-0d2XpTgBTke-MhN0ZW4Vc4AjH_fD6V3cHA5rfhbZTBXzNJQTQHcxkUJdhHYvUU7Lmfdl6Jc6howgZ2pz9H7obGzky5EAHaFdnpOazwb-We8x8yp6yREfDe5sbtlyoOWFqmJjej4B26MCSRMZpsSD5YeUvxDYc8LM9u6CQqE9ACOZZ4aQH6pzzbr3_saMwN-DZKwmFpJ1XQoRTuMIS21qj1A_g10rA6veojJvUR8koAx96qk4h7UoMaUtSr5eKl98GK3SMGc9y5Oj13jdHfg56h_6eyQVHT8pl5dMqrpQbA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Hq0tYn2NqAkvBeuqmGg34xwszkkOlVGJfK3gm1xej8HkGPTerDDCCKmsJRDUF9sAA4aV61AyWBdAPdIX96UmmaayUvvu_SQEZtnbAMtYW0D1kDOxOXjWOFlva84Ra7PCyb-5WMgdPnkABEg_mU4HW4yTUQlaDShxIv6KhunvyT8lvxtfcl78jy400brOOYNZy0dV_p9vmjW6KKTM7IWCFrF-cGrFnpS5TyATCl93eZulTqDs_E5tRTo6Kvqp0ojkf1frlPFWxxQ_k96kr7_zO7e5dPUaRLd2Fw_CO2RuKYl8cQ8t1Qy7Aj4OqGrOZmdqj7BgJIVaZrfaWvQknTo_DA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال دانشجو:
 من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده
