@@ -291,7 +291,7 @@
 <p>@IranProxyV2 • 👥 1.3K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-11 01:54:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-11 02:55:44</div>
 <hr>
 
 <div class="tg-post" id="msg-97">
@@ -692,7 +692,7 @@
 |
 پروکسی
 @IranProxyV2</div>
-<div class="tg-footer">👁️ 279 · <a href="https://t.me/IranProxyV2/85" target="_blank">📅 15:29 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 280 · <a href="https://t.me/IranProxyV2/85" target="_blank">📅 15:29 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-84">
