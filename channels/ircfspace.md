@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 15:08:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 16:29:12</div>
 <hr>
 
 <div class="tg-post" id="msg-2528">
@@ -308,7 +308,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/ircfspace/2528" target="_blank">📅 18:30 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/ircfspace/2528" target="_blank">📅 18:30 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2527">
@@ -329,7 +329,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/ircfspace/2527" target="_blank">📅 18:11 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/ircfspace/2527" target="_blank">📅 18:11 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2526">
@@ -359,7 +359,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2524">
@@ -389,7 +389,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2522">
@@ -517,7 +517,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 
 <div class="tg-post" id="msg-2515">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HK-CxrJW5s7dTRlBz6my2-vTjVWKsJ3RIDoH4qCc0icJrRDBgAdjLlcLVQ0A_FuaoPjS0bNBBTSW6N0cUKg6EF495fYcWrWtHh-Yi5KLtYqLt7EZiURSUEQRjxAcsc2k0dWuCYQ7HxjUJuQ1YJocz7WhMaCChs9GPJWbQC6yjTIjbd1SMUsjrfFpbfJFHy9t7wrSEpNCihHQcX87x4S8SOGEn4mgcYULeG_Y7Zq70prxxsKQyVKkIFLl_WTD-GBXui9Pf0MfhqtZE4SGlr0NrxIUWNgKHoOAJe-PTfsCf1f9PbdncdjZY13ndM9RxdDyak0x6kni607gXwd6J-rx-A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Lvz3Ms99fSisXrVmE7scPDjisOYBWEtUhkIL5rfhgGgs9MAiZxSr6iPdtJwHs8oLPn7fy6mfLDyNYOrIhI1Te9FsIq6I3IoHS0Q6fCXw9Nat6BMbnOyE_HIVe-YXt90x7laGzq50EMPiKdqVua5pSMQGPe2l4Ez86MD5dtz8edcrx8yFKdYJxPLc715AuXIJO868Fm44Q9Xaqjyn2SsxkgDzjWguzef7Mlyc3Xke-FCQTGdTN7gZoOCQh9c1eAn54ggiepV4oFAoOeBT7XSFZr2gBWTfGqRoxd0bukovwudrbTBwVbCuD99qWdqoIpb9A46xtpGOhVts1xlw47e9Tg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت دسکتاپ v2rayN یک بروزرسانی امنیتی اضطراری منتشر کرده و از همه کاربرا خواسته هرچه سریع‌تر برنامه رو بروزرسانی کنن. این هشدار در چند ریلیز اخیر هم تکرار شده و توسعه‌دهندگان تأکید کردن که نسخه‌های قدیمی حتماً به آخرین نسخه ارتقا پیدا کنن.
 در توضیحات این بروزرسانی اومده که "یک آسیب‌پذیری امنیتی بحرانی در دانلودر داخلی نسخه‌های قدیمی برطرف شده، که می‌تونست به مهاجم اجازه بده فایل دانلودی رو در مسیر انتقال دستکاری کرده و به جای فایل اصلی، فایل مخرب رو بهشون تحویل بده".
 👉
@@ -529,7 +529,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.5K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2514">
@@ -592,7 +592,7 @@ github.com/2dust/v2rayN/releases
 
 <div class="tg-post" id="msg-2510">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JapgbEujlili8LGnsvWqhFiTbVTu_QSCG9liPXcVapX3qQkteTXxNpy5K3H4uZy7wPbVni9bav6fZdipLYa7O8fEZrdN5dzG5iwvHB1PupOcL2OCo1s-JyDPjNQ2Q02BirOF6xxRctQP87BIUFVJNjRK26mMaeBoR3K5tjxZc3lOOrMG5Xf_LHXtb0j0UDq9lqWTdozClnTNMEHWLSrkE32TA8bOlV67AeMTjX7pSK4UOzZ-cmnW-LtdpmYn8pz5kvIxHY6xImJVDufGxf2iagR-LslGISFbCOmHfa8yD5NDzUlbB6gbL5RGEd3PCoa8fAHz7rBEX0HhIlc7foJ_Dw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/t-06T4ilJa8CPLNVY7ywy0iYOZH2lOUsPJ7fUQG2OIIm26vJiES3-ogNDNcI06ka7pX_8xsqNP29ra1XCB8_JYTF9MlA-2LYrdM1IqvinGh97FhggKNz9RKe9pH1TpG2r6gGW7t1kJEK1iLitCtr3Y4eig5F4oU0GlJO9qG67m_Ilw8ZRQQIor8_UL-rRCoOhKqxw_xXPbmkgobJI9_B1zUw1_lwmZoke8BKqkeXoGSlXGNUS1FNC_cOCrSNuSkPfHoNC1dlQNb4jfuj-QxN7WcEjpqWohTjyjHvsUwyYo4NZAdzABkhReXgdp3ExbvKpSO_YYbsUMqYDq9fLq18tw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ ShineNET VPN یک فیلترشکن رایگان و متن‌باز برای اندروید هست، که از امکان انتخاب هوشمند سرور بر پایه هسته‌های Xray و Aether برای دورزدن محدودیت‌ها استفاده می‌کنه.
 👉
 github.com/shayanheidari01/ShineNETVPN/releases
@@ -853,7 +853,7 @@ PingChannel
 
 <div class="tg-post" id="msg-2493">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cQcNaT_k1cslp5VcG1VjQbLIhCv946IEuqNQlsZrFLUdQt724Nc3zsjmm9VRiLKWzK_DPFtLSmd22L8GUmWrlMPqBkTgHmFAIf3XVd0pjDeH3Qkj2LN-iXfqj6SxpsUO0mkqEoTZdihYuSluEoYyaD8_zw6TollSUZhr7V-bdweKW2yKpNCtDCKwiR5C0gKxedXU57dNHJ8G2g6_kLDpRdZ5DBDUBh0K1QfEW-GUi8rafDtNHWQCCM9JjFwiHr8PoUHiEIn69L2VQRRr5mjo3PNqFm8QRqyHY2Sh-807CsPSsg7gZeVwxpjDKOGxMGvBAQ1lx60GpzAGi7noPKu5dA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZhMJZM9BgeCqIP2oYcXtM6Q7LzTKCa2y45czcFIIFSZpm36pi4cBy_GfoBCAxp2P6_CQTygxGO7cLJBZOLeBg_rvSrZ-HdBciTPccjjbiUcuCCeb8zbOl6V4-OBLoCTxrqVYC1b9vZNin1GZnXXl08-sz998c8bywhs_INkCyWUACxHhttDcMmvWrFrVWtdURd4jdyIcVRzZbPU_sAyGfCALhfI8nojEsE0h0WTOFlIpbRku-jZI5Ana-cZWRPdpQji6oFBL5M-cUArghQKK1NfG3nNfS8HixF-ktWrWr1Jg5Omp7pChX0_LowHvxmVTSOFPsEbGIIGur9UBoTLnXw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پروژه Aether یک ابزار متن‌باز و رایگان برای دسترسی به اینترنت آزاد و عبور از محدودیت‌های شبکه هست، که با تمرکز روی سرعت، پایداری و مقاومت در برابر فیلترینگ توسعه داده شده. این پروژه با ترکیب وایرگارد، MASQUE و WARP-in-WARP، ترافیک رو تا حد زیادی شبیه ارتباطات عادی نشون میده و به همین دلیل روی شبکه‌هایی که از DPI و روش‌های پیشرفته فیلترینگ استفاده می‌کنن میتونه عملکرد خوبی داشته باشه.
 یکی از قابلیت‌های کاربردی Aether اینه که خودش بصورت خودکار اندپوینت‌های تمیز رو اسکن و بهترین گزینه رو انتخاب می‌کنه؛ بنابراین نیازی نیست که تنظیمات رو بصورت دستی انجام بدین. بطور پیشفرض هم از HTTP/3 استفاده می‌کنه، اما اگر شبکه‌ای QUIC یا HTTP/3 رو محدود کرده باشن، میتونه اون رو روی HTTP/2 قرار بده تا سازگاری بیشتری داشته باشه.
 این پروژه روی ویندوز، لینوکس، مک و اندروید (از طریق Termux) قابل استفاده هست و توسعه‌دهنده‌ش اعلام کرده که بزودی قصد داره هسته Aether رو با زدن Pull Request در فیلترشکن‌های ابلیویون و دیفیکس ادغام کنه.
@@ -911,7 +911,7 @@ Linuxmaster14
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37K · <a href="https://t.me/ircfspace/2490" target="_blank">📅 08:08 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 37.1K · <a href="https://t.me/ircfspace/2490" target="_blank">📅 08:08 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2489">
@@ -989,7 +989,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 83.3K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 83.4K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2484">
@@ -1175,7 +1175,7 @@ github.com/SamNet-dev/MTProxyMax
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39.5K · <a href="https://t.me/ircfspace/2474" target="_blank">📅 08:03 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 39.6K · <a href="https://t.me/ircfspace/2474" target="_blank">📅 08:03 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2473">
@@ -1542,7 +1542,7 @@ github.com/2dust/v2rayNG/releases
 
 <div class="tg-post" id="msg-2450">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kVq_0dXDcEs8snbdofMz9GnwbJdS7zr8A4pN2C5p1CqEXxlI6FiZcFQHzZYyroVAsXkPz3KxZ-TcFvqUv47Xwy4IM-tWANRByRWdFLoS9wUXlcB4slfNXaT4w3Oau4NkoFBlLmJOfAeu6W8GmjFX4CRZWk6H0b6P95TYxEJWNIDSN89RGcY0-opBbjUm4wJQzHqIhG_nMKspfu2bkiIQhZvL5vK4G-FgMR3omKCUc49S7_EruvjefY1uYyxs3spobu-eYY8oTRQC5sVjd8fpZOJaefGYaIcMD1k57yvDGomRvbY7pljsMhKThHhdYS0K8-noNCResKV6HEvrLTEbrg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fTxLwO8udYDpRgI3pD1sc_HjYKQ8k3ZnV83pmnxp_2FaAzElRA3p1ZNXFZV2zVF_XfGyJE55PY49N5-drcnP0uu1RJcZgk_p_ravk7MJD897XzY0QHOm7i2n5TxTkuImZ-jjg0Bsd7066dhQAVzC9KUvDrJlZnZgBrKfmowsSkq3Ftt8TeMUIBevT9eRlTttX1hfgsxTWyo0PwLYhiiJNrzooacsuEN0_-UT3848tE3X-HcKoXggHhlVqbLwa5rEPQ_JC2asB1TVj3o6l_9lcc9hIec9nbz0Y6lk5B8jxlHTqCmNMgCq7fsNCrI2_fmWicoaiXkHcGAbN8oAaRlzLA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ما تنگه را مفت ندادیم، زندگی یک ملت را مفت دادیم. سال‌هاست حرص و ناکارآمدی‌تان را «سیاست‌گذاری» نامیدید، ماشین قراضه را ده برابر فروختید و گفتید حمایت از تولیدملی، اینترنت را خفه کردید و گفتید «مدیریت»، فقر را گردن تحریم انداختید در حالی که رانت و انحصار رگ‌های مردم را بریده بود. جوانی را به مهاجرت، کسب‌وکار را به «تاب‌آوری»، آینده را به سکوت فروختید. اگر چیزی واقعاً مفت رفته، نه تنگه هرمز، نه یک وجب خاک؛ عمر مردم، آرزوهایشان و فردای سوخته‌شان بوده. این صورت‌حساب واقعی است.
 ©
 rassssoo
@@ -1694,7 +1694,7 @@ emirhussein_rz
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/ircfspace/2441" target="_blank">📅 08:12 · 27 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/ircfspace/2441" target="_blank">📅 08:12 · 27 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2440">
