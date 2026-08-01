@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 17:57:25</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 19:05:43</div>
 <hr>
 
 <div class="tg-post" id="msg-880">
@@ -358,7 +358,7 @@ Claude Cowork
 <div class="tg-post" id="msg-877">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.79K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-875">
@@ -366,7 +366,7 @@ Claude Cowork
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h9CyREWl-beg7DkX_rNr5-bULRcwS94utsiokFlbOZlVRRDZnTu745Zn_JtByV7Klw9vTEHw7StXMdrdER1rr8W-pHybIxacJkqatHShxRZj4p9DmkeWdovrW6UMwrgj7JvW44to_CV2UHxn7g0R9dAWrK2iVmHlmZl_z5fS-HxOoCNV0FW-5JSljO4RFYROdNlSgKQc3tXleD4JrCR3r0J-Awcu5M9Yy5p-teOu55caEXeFIfv0uO2DmYROmw5eKc8C1RqzH95a2tV2PChSoY5aM81f3zquiJilMv2Is5-pAREZFo8-4es5FI33WW84lCKLTUnaZEoV9Sl-k7Fjjw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
@@ -434,7 +434,7 @@ Claude Cowork
 <div class="tg-post" id="msg-869">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-868">
@@ -446,7 +446,7 @@ Claude Cowork
 ✅️
 7 چیزی که باید چک کنید. تمام پاسخ های من به این موضوع
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/mohsentavoosiseo/868" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/mohsentavoosiseo/868" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-867">
@@ -492,7 +492,7 @@ Claude Cowork
 <div class="tg-post" id="msg-864">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/mohsentavoosiseo/864" target="_blank">📅 12:32 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/mohsentavoosiseo/864" target="_blank">📅 12:32 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-863">
@@ -516,7 +516,7 @@ Claude Cowork
 و اون Master شمایید. کسی که به هوش مصنوعی وقتی چیزی میگه، هوش مصنوعی میگه آهان اره و ادامش میده.
 اون مغز متفکر که هوش مصنوعی از رود دستش باید ادامه بده، شمایید. پس باید کامل سئو رو بلد باشید. سنتی ولی عمیق بلد باشید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.33K · <a href="https://t.me/mohsentavoosiseo/861" target="_blank">📅 17:39 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/mohsentavoosiseo/861" target="_blank">📅 17:39 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-860">
@@ -722,7 +722,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 <div class="tg-post" id="msg-844">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">دوستانی که اکانت کلاد خریدند و تجربه موفق دارند و بن نشده لطفا تو دایرکت همین کانال اعلام کنید.   با توجه به نظر سنجی بالا من نمیبینم توی خودم که ماهانه به ۱۰۰۰ نفر بفروشم. نهایت میشه ۱۰۰ نفر با کلی دردسر. میشه حداکثر ماهی ۲۰۰ دلار با کلی مکافات.   پس من ورود…</div>
-<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.93K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-843">
@@ -772,7 +772,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 <div class="tg-post" id="msg-838">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
-<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/mohsentavoosiseo/838" target="_blank">📅 14:57 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.22K · <a href="https://t.me/mohsentavoosiseo/838" target="_blank">📅 14:57 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-837">
@@ -819,7 +819,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 
 <div class="tg-post" id="msg-830">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/imxtucIyh5gCIWi4LQpIj22qXDONijUftuqiHLoCBqADbFz0CDAP3hp01APgnTi3eFme9JMAHuDxpi0YIUn3MGsrt5za5cO4dd4udXfcs2jt2B5NTp-ATqmfBes_ddaMv4XcmNcUmVGPkE1ZylGRjV2G8zZB8OV0zSZwIGr0EX8RI_Vi9eivLEBtzoMkZoi8Sh3gnmIiUgVmDbCBvYQNkEvsIRp_Sv_ua2H5sLHIrX5Vp70pmpQA92pR8XPtx01Fe8ePhrzwL-xYHS-8d0cFewA7mMiCmRNtXS1-KRPX6tvD_xDK_GDznVNtyxv2pFHEGww7xF41qJ8x1K-1nB0aGA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JhfY-AX_RbxQTNe0Q-mJODtd7ZtuCXj3wx79zdQA51Z8YyNeZbljnjauv9ba3eEf-OSZ5N4FdZet7qVva4o6ZGsjzTyd21R9M-tW-gWkJDeF86etPL72T-sOz7T_En3tUcOj2zIKd6-FzttxyJBLKI5mQLKiYS1RKCGFU8kn0KuZA1fdhjAsL0VnPSrJQG9GSKqYqaHZI-rXFZPAyyVlbMV5WbPxWXbC4eYfda9WbsXNOLZN2iYf06uEME-CLY20V0OhSM2PVzfdIMTRjxxLehH8kNoy_tRscWCDnWp-xNMhklO3lmE5PhoMdf9tsRBgWlJSW9BZXsz_WBL7xwC2Nw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
 <div class="tg-footer">👁️ 2.03K · <a href="https://t.me/mohsentavoosiseo/830" target="_blank">📅 13:50 · 23 Tir 1405</a></div>
 </div>
@@ -894,7 +894,7 @@ https://t.me/mohsentavoosiseo/826
 
 <div class="tg-post" id="msg-822">
 <div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HBdmeLdhJk6OJby270Xfl3YmBJsRjtB9SfdWzU8a9VMJJFkytGR-iwriQIgnXPD1nspAFsFq_kXmWoecJHxO6br6XJsOxBXiRFiLd86NgMZSnpitG-uBqjYs38iXAkoYoZy-SpEKy1ihqudtbM0lfX-z9QMS7yZ23BSXSqWYiTu8bNv_8d8SreCYbCEs5A_UKVNI_JgAn0a47QxGoOs5yY6DnNjxalb209BdTMyodcEFt1H1bESMBtieUNVjES_ldNkKB_aeM_DDklVnLu2w4tWn7z4PXPHAwOHuS4I_kI90UGbrlyFAzX1SsYgRBBsPCl1yvU2hydV5uElmntJqQQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EvAEuaLTQOhAeSgB7n2QvH1yr9ulaCuwG_iN3juOgg8DPbJU0oI7z9B37JmDHDteqcKWg9bfaZHEYpb80_mA2JlD_JVcI3jH5x9USj5fbdudEqOIkY-fKt6yZNsYF4evCv9g6CAwnK2aL2Gy4N5rIsgJLaVQ2zzeNWZBH7REih_PXXvgaHTYyJlLxNKpWspbJPBOvqoD_Ur8lPSvE00ZnKCsQjPGQ9T7B7gilnrvU2AU6U6s6xWyNiJS3aXRpGRBvnhC6kVYRhEplPqnEwWoNSI6-6xYl6EkCPbiSg9U1c93jAQr7ry3W-b35e0uqdEL9L3ckooGgAfOpWA0GHJl_Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بخاطر احترام به حقوق تولید کننده تصویر
 لینک پستش
 رو میذارم. ولی حرفم خود تصویر نیست.
@@ -1004,7 +1004,7 @@ https://t.me/mohsentavoosiseo/267
 <li>✓ من از بعضی AI ها رو از جایی میخرم که خیلی کمتر از قیمت دلاریش در میاد. اختصاصی هم هست و خوشحالم.</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 3.94K · <a href="https://t.me/mohsentavoosiseo/809" target="_blank">📅 15:55 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.95K · <a href="https://t.me/mohsentavoosiseo/809" target="_blank">📅 15:55 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-808">
@@ -1198,7 +1198,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nMzIV6YMUj5ImvZ8qtwcJ2DOpydK7YY3oS7T010uo7Xdpvgf67DuDuD_f11VcTpCyn3e80OEPDpW4MBW_hja2t7V2AFgIksDWNvHQMOSjGxD5jqgm5HrdeGowJziQxhVIHiAX9qvlH4WGeUIdEuD37Mh2YOCoTq9atvInmWFfrlXMS-9RwQ3ItFAcywWo6zhm92sgT2PJNA0NEPwVNQG3gg6NW07e_MYJntdBFUag-ETc99UUABNQeCXpuDeTv9IAJ8UQ6Sp82s_hl1opzjN3CPpEbZFPKwhHhEJTQnwVqIk8EzWXgM9zVl5hJMXqxmp462K_q5SqBftQNJ6AFJOtw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RUz3p-CO2Tkc1VCS-L2WuELxcdp8dq9Ms6dtSB2BFjPmwrzwyMzRqJNviemMsaPMJiL_myVeoNahqTrHI76mrxl0KWpXZSkE1W2VOUHC7Et5sBBRptr2IdRUfXACOIK7FJljya0L9hyYFNOkxnsMgnnNPWeCHxHCfSaw_fmVn4x-dXim57WLMOSVTUMbafKYAd1y1E3hL5s-8FkSYDJKM_ZUb3PXHjp6BV_5TjltlqUDT-Qa9o7i9BcrmDnl1kpWOS4sH9OdCqWzUsLpRKg9U0XUKf4blEdunYYA1wvZPHHR3TfLwz4F871Y8XPDastufsi3tXIhanTT6HoVQDyOdQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
@@ -1228,7 +1228,7 @@ pinned «
 
 <div class="tg-post" id="msg-774">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Id-Ixe1LsBKvBigoLm4pXDpI82UoQXCL9wQF1URKK3Zll6qQBp4Q0IatO6l9l6OJKnFf5yI8YmHhGQ0vNxisevR-SGcIQvorwj5aXBbfOwRoz-rGxv_vLbVwoe-9dxqqjfO5IoPxRxU4XOPMW6UANBsXn7V1x5OuuN31JomdUs5Dn_B4_x6ufbL64AWWyD90nzZRivsqFm738nQkC-1QyO2Q1kF5VeAKT3KLefdnKK9LTdwPYqQ6BI6wlXlkUOhuvsituEwp3BrlZmLFrbhoKX1r6x3W8MNI9Bn7NO68icvnM8rWmsiS0weWDbcqRaQQ4bIsHZfy7t3oiPRJiLg6aA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qbg6x-8OZxCkzLMQ6AYk3fqEIgQq8DFw46XD-15Gznen-Fkoe8Vv4MKRymsyDQGEm83aFgyD2c7kiWOMWrrM05cPHeXbb3oy65sF2ebVb9PAVwvmxlHtS7Yz3-lwKC0ptFumWsG7g7wL7gux2QK0xUbLc2ABqz2YXvJu7WvnIKw3vywp7io9Enn_sB4i_Dp2jup0PSPsxvKFyfk14jao3-yO5m74WZ_zxzX7mtFM9R1-H1qnH9udsahBk15VL6DgJy3AMGmPuYHALHCu7Z_P9ETV4LGscSCtCjOlROLYTynor0LToOuWqF8GhUotjnYBNFEnk0rLC2Y_2LtojdznZg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درباره پستی که روش ریپلای زدم:   نظر یک نفر قبل از اون پست:  از این زاویه نگاه میکردم که آقا تفکر وقتی آزاد باشه کامنت هم باز میزاره که جامعه بتونه درموردش صحبت کنه  وقتی میبنده داره آزادی رو میگیره</div>
 <div class="tg-footer">👁️ 2.14K · <a href="https://t.me/mohsentavoosiseo/774" target="_blank">📅 17:48 · 04 Tir 1405</a></div>
 </div>
@@ -1259,7 +1259,7 @@ pinned «
 
 <div class="tg-post" id="msg-768">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TSZmkXucPosrW4MVwYRBX52c1ZLK3md74iSaq4NVVYn7AkNuCc2jt0GP4WQ3d3AHPv0J1utjqlXISkzDLjvVn0C9jjsUfh7d6Eh8eyyuVwb1ZiB_3sw3fvrJwmq8KMpSVhDWhZm2cP4H_hc2UJQkgGfrRxC7sA3fm70Vx4cvrdWOTCoQ-WbVP7Of7Tl1nGZ1xGxWTRMAZ5JiXtkND9UwkN6fsy6WcbmDWmwp6R6u1mW8aG8MtBS3kCVhy41X8PygsxGrnoThfn3az1B574kGKq_4AnOtfv6lgGLAnICyg1aieN1aJp2abBELIiJpoMnkaHiGDZhGM9LTRDhL95RiFQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vO82HgJWgRU29yCRfIHXRkStkLyXUikjGXBODt-sXFlE3jgR553ilrbRiaXVKjkVGlqZnTXkJ92FxSGnDsCi3Rm2ojkVOAgb33Bg9a6E9uu4qqS8TwikqTI0QtbLVEKK-9Xt_J18Xj2T88gAjV9UN3Gz44JLCgt1vDMZo-_ATM6eA3pRHObl8RqFJpCpMahaIAQQRs3Gv5JwTeLy5WoSlT8nXRi4CWE_JibyrMb021C-5KObV0O9SWvC4p1m2_X4gZwSou_6AkLcuGI3B3c3GriaUAFHSQnz-E6zxRx3-wnlgY9fuXgKFfO6JT4csrCivGr6HK9T2IIuoezNY4XqFw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال یک دنبال کننده که احتمالا شناخت قبلی هم به من نداره:
 نکات سوال:
 پارتی نداشتم کار خوب گیرم نیومد
@@ -1303,7 +1303,7 @@ pinned «
 
 <div class="tg-post" id="msg-761">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VTMuBqR8zT10rUisZ6rjWtRT0peKvaK6W5TWW7UTd-Y7g_7mFgYd-n8dk7TwNCLR8Gjg3ktaqrA-DRRB5nNChBDmlC442XmE7NM8QtRNrvXBKCc6iU4EzVzeEH8CG1ve37qBMOKxq4j_lqVogTtFUkJ-bUQd12GBLcLfNkVzkYUcpw81Msvl6FX9Dlbs0ogCjR3a5JM0GyNVVfOtm_j8MmYcjhEYuacMVv2P2fPKLTlOwgxQfbrx-yJI7dmbV1jfiSqxUtHxOctvZThJHQP-NHHEvZ0jzfDkYPkpDeuck8MAjJD7Ckme2aw-dZDbwQZ-Ry6Nr8-FxAekwraZXipA8Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fr-2AoW7EquW73FfRgFI9UGotZMcPiplBrzqYzGEitVXHOemn54k5kTaLnAOw3JsyuJ97Ds_JRePkZ-ZI1QHDqk6geOUoRMiji5N8FNZpEabR73ISnXArPevpz8OS0NnajkZgctNyvk2XCULsJGK7pTk9RNPIDKdYdD_bJmk9NitGdCetVhsll-dLB6QC6naToZJuhGRB0EL9J0GXHQ0HGlOmXCONJ12RIzJcN9SG4fIbSiXavDPuc3uSA-U2X5sWQ1YAF4OsuRX1uCK7Du4EWBZa2cqKmNvG4Fz_4lj5Ebc5VASG6VjYxDDHv0X7qXz0WUGrWxIZh0tbyyKds8G6g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال دانشجو:
 من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده
@@ -1337,7 +1337,7 @@ pinned «
 <div class="tg-post" id="msg-757">
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">سوال دانشجو:  من رو یه سایت دارم کار میکنم که تجهیزات آشپزخونه میفروشه.یه دسته بندی داره هود اخوان.و تقریبا ۵ ساله همین دسته بندی رو داره.زیر مجموعه میتونه هود مخفی،هود مورب،هود شومینه ای باشه با توضیحات و مدلاش.الان اوکیه من اضافه کنم؟یا چون همون صفحه هود…</div>
-<div class="tg-footer">👁️ 2.68K · <a href="https://t.me/mohsentavoosiseo/757" target="_blank">📅 11:22 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/mohsentavoosiseo/757" target="_blank">📅 11:22 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-756">
