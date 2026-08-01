@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 22:26:03</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-10 23:36:25</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -338,13 +338,13 @@
 
 <div class="tg-post" id="msg-944">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DGkYdZIZfu5s2HWvCjo8jCCYwMH0sptr7e4bmNnjqZyLtJ0WNcLyC8GMGwg7mBUt16-og2I529VN2W42kgTAMfgxv4wJIBUOAp_6lbL7AI1dsXxmHWxXz_bguYZxpHKEkbkwgtNdx8Zc-iS9nT2pJeMz3Dj_cwV2RyIFRD5priLfBHkU0oD_00m6lpFOqHzOUy1Qb0bwC-i8h3VOkLem0_6zNGzZsoOhuOxx1p1uEnFCrJ2YHNRi-DCSYaeUQUvCSsN7US77F-POkRtN_71xx3SXBy-_d8IRayGqEKVYdkSLihIniHQq7fbP4acRyolOIsNJteN4te_vxchoQtzb6w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eZ5FHGgngTfySVlpp5DPzzVfYZWdoLe-klC3pspKu0B5A6i2P65qXmgDRoEQXuABDneX24YspMbysD141gN1GMr4uRJlBXRmNnfEQZn11okPtEx2_Xm4HFDQGXd_XPgjeGV5eHkIQKwMW3nrxXqtQxvIIq3BoC8-i8aLdv_dfwPCDsunDbxZqGcMY9vIrqbkbmB7ad0F8gxegC338QTPu_aiQHVC2XILa5IANiQiSk7EehEsG44Wb8HvTX3kqUmsXeCRnVU-tWcvByMFYO6tGZM-flNsTvOGtTh5IlDsJPOw8-Bt8P-Gke2_QFMtG7wcHjsML_9Z7rK2PGp3r6OAqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=AfuQqA641S-JyLC68k-gHrnzd8zTi1M0F10eU_hRiuZwcbGIeUx0jObDmnKHVquJ3Is9SKTa_j2c8_vUZ8tDk8MDyqr5DmmvqBErAc2Uo0o1ZyZlUqqxFB3jIevl2w9pOZLT-Zt_EoeoLIJ9yCZ62RnQXKtNzk5Z361qTgTlSKZ15Pd47QoT1O8e9PSRwLWznFEqSyfwEoxJWm0whIhEHVziKS47vA3LY6b0U_Na8rzWRoeQq91yu3w50xjQI0h8nb5KYEIP8wCKSFrJlLLGaPCbvpNzM4rgTJPGz_CdaxbJBA50Kuaz7KUVALF1vtdWuJvKWSNGUA6xF4sPI9xbZQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=qOhm_wvUwFYAYVrrZWXHWfUNElf1NRFtrFBsmDjn35KOllzzm10Oyo3Jjp45bxnd_J2G4yejijC-2OlofHig63QBCImIXrTGjr_q8NI1qv14Q-0uhzJOFF0eZGvxea2wNLterW9CjC50-Ea6hNcygjaLZagcT3u7DhSx4zbqsoqpFDzp_IXHWCOp3htiSm9-a6jaQ-Zl4URnlAP3sGTYKd8TjX8KdqQRpyePMTqP--E0A--4tWao1ypM9q4-sqQqtTJOBUtU9fk-EyacypO3D722vx5QDqBMS24DRV1ecMAf91pzkwSRdDA54dpbyauimhtnJAkYVsjkpmepJrRSCg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=AfuQqA641S-JyLC68k-gHrnzd8zTi1M0F10eU_hRiuZwcbGIeUx0jObDmnKHVquJ3Is9SKTa_j2c8_vUZ8tDk8MDyqr5DmmvqBErAc2Uo0o1ZyZlUqqxFB3jIevl2w9pOZLT-Zt_EoeoLIJ9yCZ62RnQXKtNzk5Z361qTgTlSKZ15Pd47QoT1O8e9PSRwLWznFEqSyfwEoxJWm0whIhEHVziKS47vA3LY6b0U_Na8rzWRoeQq91yu3w50xjQI0h8nb5KYEIP8wCKSFrJlLLGaPCbvpNzM4rgTJPGz_CdaxbJBA50Kuaz7KUVALF1vtdWuJvKWSNGUA6xF4sPI9xbZQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=qOhm_wvUwFYAYVrrZWXHWfUNElf1NRFtrFBsmDjn35KOllzzm10Oyo3Jjp45bxnd_J2G4yejijC-2OlofHig63QBCImIXrTGjr_q8NI1qv14Q-0uhzJOFF0eZGvxea2wNLterW9CjC50-Ea6hNcygjaLZagcT3u7DhSx4zbqsoqpFDzp_IXHWCOp3htiSm9-a6jaQ-Zl4URnlAP3sGTYKd8TjX8KdqQRpyePMTqP--E0A--4tWao1ypM9q4-sqQqtTJOBUtU9fk-EyacypO3D722vx5QDqBMS24DRV1ecMAf91pzkwSRdDA54dpbyauimhtnJAkYVsjkpmepJrRSCg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این وسط با kimi3 هم آشنا بشید!
 یک مدل هوش مصنوعی با 2.8 تریلیون پارامتر! و کانتکست ۱ میلیونی که عملکرد فوق العاده ای داشته و در سطحی نزدیک به Fable 5 , gpt5.6 ظاهر شده.
