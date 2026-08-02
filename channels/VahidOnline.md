@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-12 01:54:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-12 02:56:10</div>
 <hr>
 
 <div class="tg-post" id="msg-77711">
@@ -304,37 +304,78 @@
 <br>
 <a href="https://cdn1.telesco.pe/file/e5fb7b499d.mp4?token=dlCXElGgGAbIfEzNMCciHSMUFx_tRJoMlPTAkiu6-3Q6L-G7iT-pW6mCDPT8fA_wYnNmWGXvtHqhc0urwbSkEpvaQV5taKRn9Am1Y27QR6e05jcPXBoDCAN84FHyajHHjukqBHdShzA7ufPhvLtOkAkRgxD5767simPDYH8l3yHQuqxTX9Ik2YLyYuTXA2iAOp9kP-K_CknsJESKqudw-dd22c8JkMnDldFJ5Vh_MmiJylXwb0rAf7fMUiGhUuaaztjW0h0NCnBWOZx1iz1vzJKP-m3Qg1n5YPaSYOd7iRE4Zq2pj9PqCh9zvl1avhdH_NRKcQ01us353IFfljaPS099vTlKdfxG9FWpMIbG5bRVx6iBBfzCRx7Hyhu-wXFa-3IvleHj5Cv0wbmnCislNLSV66TXPz_SQXlRYGlbmD6Jip1q01l9RIFUEFBxy0vjWzqHLCj61cUvz3rGGF20v0mR752PxqPd0kCCsN5Kj-m2gyQGEqkXd2aAadUP3IsrRvx3F8rEN85gic5gOrhACwEemcs80XO4MaKd-FpGm1XyhrcPZZeNRu9zOhOuGFG1rq6oYMOvNprv_Y6zpYcCsM3k1ynURzwulVhqZwwqfkCUdS895yBNQGm0lpj_F3OMz998S4a5vW29B7ykBu76PBQ1LjFgw5-NK6jRdjXbtas" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-text">اظهارات ترامپ درباره ایران:
-🔻
-ترامپ: از من خواسته شد که توسط عربستان سعودی، امارات متحده عربی، قطر و همچنین خود ایران، از انجام حملات خودداری کنم.
-این یک حمله بسیار بزرگ بود.
-وقتی متحدان درخواست کردند که این عملیات متوقف شود، باید بگوییم: "خب، بیایید ببینیم."
-متحدان فکر می‌کنند که یک توافق وجود دارد. یک توافق در مورد هرمز وجود دارد و این توافق در مورد مسائل هسته‌ای نیز خواهد بود.
+<div class="tg-text">دونالد ترامپ، رئیس‌جمهوری آمریکا، می‌گوید که «مذاکرات جدید» با ایران روز دوشنبه آغاز می‌شود.
+آقای ترامپ گفت که در حال حاضر توافقی درباره تنگه هرمز وجود دارد و توافقی هم درباره هسته‌ای زدایی ایران حاصل خواهد شد.
+@
+VahidHeadline
+گفت‌وگوی ترامپ با خبرنگاران در هواپیما
+تشخیص و ترجمه ماشین:
 🔺
-گزارشگر: در مورد ایران، حالا چه اتفاقی خواهد افتاد؟
+خبرنگار:
+چه چیزی باعث شد حملات دیشب را لغو کنید؟
 🔻
-ترامپ: ما با آنها در حال گفتگو هستیم. این گفتگوها فردا بعد از ظهر آغاز خواهد شد. این کار می‌تواند جان‌های زیادی را نجات دهد.
-گروهی از افراد هستند که مایلم این کار را انجام دهم - یعنی به سادگی آن را انجام دهم - و گروه دیگری از افراد هم هستند که نمی‌خواهند من این کار را انجام دهم.
+ترامپ:
+عربستان سعودی، امارات متحده عربی، قطر و ایران از من خواستند این کار را انجام دهم.
+ما تقریباً همین موقع کاملاً آماده اجرای عملیات بودیم و قرار بود حمله‌ای عظیم باشد. همه‌چیز برای اجرا آماده بود. اما وقتی متحدان می‌خواهند حمله را لغو کنید، ناچارید بگویید: «خب، ببینیم چه می‌شود.»
+دلیل درخواستشان این است که فکر می‌کنند توافقی وجود دارد. توافقی دربارهٔ [واژه نامفهوم] وجود دارد و بعد هم توافقی درباره موضوع هسته‌ای حاصل خواهد شد؛ یا می‌توانید آن را «هسته‌ای‌زدایی از ایران» بنامید. من آن را هسته‌ای‌زدایی از ایران می‌نامم.
+فعلاً آن را متوقف نگه داشته‌ایم. فقط باید ببینیم چه می‌شود. هر زمان بخواهیم می‌توانیم آن را انجام دهیم.
+اما سه طرف اصلی از ما درخواست کردند. ایران هم با تأکید زیادی از ما درخواست کرد. گفتند: «مایلیم توافق کنیم.»
+حالا نمی‌دانم بیرون چه می‌گویند، چون خیلی وقت‌ها این را به من می‌گویند و بعد بیرون می‌روند و می‌گویند: «نمی‌دانیم او درباره چه حرف می‌زند.»
+بدیهی است که نمی‌خواهند مورد حمله قرار بگیرند. آن‌ها از وسعت حمله خبر داشتند، چون [عبارت پایانی نامفهوم است].
 🔺
-گزارشگر: آیا ایران برای رسیدن به توافق، ضرب‌الاجلی دارد؟
+خبرنگار:
+حالا چه اتفاقی می‌افتد؟
 🔻
-ترامپ: باید ببینیم. من قصد ندارم کسی را به قتل برسانم.
-من از ولیعهد عربستان سعودی پرسیدم: "ترجیح می‌دهید ما چه کار کنیم؟"
-او گفت: "ما ترجیح می‌دهیم به جای حمله، به یک توافق برسیم."
-🔻
-گزارشگر: گزارشی وجود دارد که حاکی از آن است شما در حال انتقال نیروهای آمریکایی از کویت و بحرین هستید.
+ترامپ:
+کاری که اکنون انجام می‌دهیم این است که در قالب مذاکره با آن‌ها گفت‌وگو می‌کنیم. مذاکرات فردا بعدازظهر آغاز می‌شود و خواهیم دید آیا واقعیت دارد یا نه.
+خیلی دوست دارم این اتفاق بیفتد. جان‌های زیادی نجات پیدا می‌کند و [ادامه جمله نامفهوم است].
+سال‌های بسیار زیادی طول می‌کشید تا بتوانند آن را دوباره بسازند؛ البته اگر اصلاً امکان بازسازی‌اش وجود داشت. فکر نمی‌کنم حتی قابل بازسازی می‌بود.
+حمله‌ای آماده کرده بودیم که اگر انجام می‌شد، بزرگ‌ترین حمله از زمان جنگ جهانی دوم می‌بود.
+برای آن‌ها فاجعه‌بار می‌شد و نمی‌خواستند ما آن را انجام دهیم.
+صادقانه بگویم، عربستان سعودی هم آن را نمی‌خواست. آن‌ها فکر می‌کردند توافقی قریب‌الوقوع است.
 🔺
-ترامپ: من نمی‌خواهم در این مورد اظهار نظر کنم.
-قرار بود یک حمله گسترده باشد.
-آنها از ما خواستند که این کار را انجام ندهیم. آنها گفتند: "لطفاً این کار را نکنید."
-همسایگان آنها هم همین را گفتند. ما فقط می‌خواهیم ببینیم آیا می‌توانیم به یک توافق برسیم یا خیر.
+خبرنگار:
+آیا ضرب‌الاجلی وجود دارد، قربان؟
+🔻
+ترامپ:
+توافقی قریب‌الوقوع است که به [واژه نامفهوم] و در نهایت به هسته‌ای‌زدایی از ایران مربوط می‌شود.
+وقتی این را می‌شنوم، می‌گویم: «آیا می‌خواهیم تا این اندازه شدید عمل کنیم؟»
+گروهی از مردم هستند که می‌خواهند من فوراً این کار را انجام دهم و گروه دیگری از مردم هم هستند که نمی‌خواهند من این کار را انجام دهم.
+🔺
+خبرنگار:
+آقای رئیس‌جمهور، آیا ایران برای رسیدن به توافق ضرب‌الاجلی دارد؟
+🔻
+ترامپ:
+باید ببینیم. ببینیم اوضاع چگونه پیش می‌رود. هر زمان بخواهیم آماده‌ایم وارد عمل شویم.
+آیا ترجیح می‌دهم توافق کنم؟ من در پی کشتن مردم نیستم، چون مردم کشته می‌شوند؛ تعداد زیادی از مردم کشته می‌شوند و ما این را نمی‌خواهیم.
+بنابراین آن‌ها از ما درخواست کردند؛ مشخصاً ایران. اما آن سه طرف دیگر هم گفتند که واقعاً...
+از آن‌ها پرسیدم. [اشاره نامشخصی به پادشاه و سپس ولیعهد.] گفتم: «ترجیح می‌دهید چه کار کنیم؟ ترجیح می‌دهید ما این کار را انجام دهیم یا نه؟»
+گفتند: «ما توافق را بسیار بیشتر از حمله ترجیح می‌دهیم، چون نمی‌دانید این [واژه نامفهوم؛ احتمالاً اشاره به حملات یا اقدامات] به کجا منتهی می‌شود.»
+آیا کشورشان با ورود سیل‌آسای مردم و فاجعه روبه‌رو خواهد شد؟ اتفاق‌های بد زیادی ممکن است رخ دهد.
+🔺
+خبرنگار:
+قربان، گزارشی منتشر شده است که می‌گوید نیروهای آمریکایی را از بحرین و کویت خارج می‌کنید. آیا نیروها از خاورمیانه خارج می‌شوند؟
+[در ترنسکریپت هیچ پاسخی از ترامپ به این پرسش ثبت نشده است.]
 ....
-ما شاهد یک حمله بودیم که بزرگترین حمله از زمان جنگ جهانی دوم به شمار می‌رفت.
-این حمله می‌توانست فاجعه‌بار باشد، و آن‌ها نمی‌خواستند ما این کار را انجام دهیم.
-صادقانه بگویم، عربستان سعودی هم این موضوع را نمی‌خواست. آن‌ها فکر می‌کردند که یک توافق در شرف تحقق است.
+🔺
+خبرنگار:
+بازگردیم به ایران؛ آیا آماده بودید اهداف انرژی را هدف حمله قرار دهید؟
+🔻
+ترامپ:
+نمی‌خواهم این را بگویم. نمی‌توانم این را بگویم.
+قرار بود حمله‌ای عظیم باشد. قرار بود حمله‌ای باشد که با فاصله بسیار زیاد، بزرگ‌ترین حمله از زمان جنگ جهانی دوم می‌بود.
+اما از ما خواستند آن را انجام ندهیم. گفتند: «لطفاً این کار را نکنید.»
+همسایگانشان هم همین را گفتند.
+بنابراین فقط می‌خواهیم ببینیم آیا می‌توانیم درباره هسته‌ای‌زدایی به توافق برسیم یا نه.
+🔺
+خبرنگار:
+[پرسش ناقص درباره اینکه مذاکرات فردا انجام می‌شود.]
+🔻
+ترامپ:
+بله.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 68.1K · <a href="https://t.me/VahidOnline/77711" target="_blank">📅 01:21 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/VahidOnline/77711" target="_blank">📅 01:21 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77710">
@@ -348,7 +389,7 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 207K · <a href="https://t.me/VahidOnline/77710" target="_blank">📅 23:26 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 227K · <a href="https://t.me/VahidOnline/77710" target="_blank">📅 23:26 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77709">
@@ -374,7 +415,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 195K · <a href="https://t.me/VahidOnline/77709" target="_blank">📅 23:26 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 212K · <a href="https://t.me/VahidOnline/77709" target="_blank">📅 23:26 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77707">
@@ -394,7 +435,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 339K · <a href="https://t.me/VahidOnline/77707" target="_blank">📅 17:16 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 347K · <a href="https://t.me/VahidOnline/77707" target="_blank">📅 17:16 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77706">
@@ -409,7 +450,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 330K · <a href="https://t.me/VahidOnline/77706" target="_blank">📅 17:16 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 337K · <a href="https://t.me/VahidOnline/77706" target="_blank">📅 17:16 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77704">
@@ -428,7 +469,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 313K · <a href="https://t.me/VahidOnline/77704" target="_blank">📅 17:14 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 321K · <a href="https://t.me/VahidOnline/77704" target="_blank">📅 17:14 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77702">
@@ -447,7 +488,7 @@ The U.S.A. is locked and loaded and ready to go against the Islamic Republic of 
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 494K · <a href="https://t.me/VahidOnline/77702" target="_blank">📅 05:50 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 497K · <a href="https://t.me/VahidOnline/77702" target="_blank">📅 05:50 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77701">
@@ -495,19 +536,19 @@ realDonaldTrump
 axios
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 455K · <a href="https://t.me/VahidOnline/77701" target="_blank">📅 03:28 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 458K · <a href="https://t.me/VahidOnline/77701" target="_blank">📅 03:28 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77700">
 <div class="tg-post-header">📌 پیام #92</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EaLnDLhw5_dOLm6Z142P0i0RsmwBAOcuY4DcYjp2e2Ho_AOYkYniLm8T325hjelgOhVRGGt39r5MyiDT4kp0sQh6-4mhrdzIhAVbn3iW565sbzxpm8e9133iphSjG8xMl2IRV-ElZkm5bWHZS2GsBXjWZoGOHwhm4bHTSTA7qCeSy3V2N15cgntIaaSfqU5-_hLhyv3p8E-kLFVE_JSHggtxqcekVeamHy2x5QAjEE3Kg2hBt8S4yXVchVaHBSF6I1IWURvsEOVtSoBEBtVOxf35Q1Ur_Rqt4uaK2usHchy_IQNdo7QEc-1aZ-9p9mCxRKpZLx_F9vBwnORtkCug4g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tZXlvp1mt7uKVl5VLyRv3EJT6jV9g62tOIR092pzh5qZpFjCnAoGZmr8Qm7rqMVVxyisdjQx3DrTwMAwDg99yvgT3zj5ukdKz23mksR7pro5-2XZWUdaivVuZXfuz7ExuTm3QdmDGp4Z4Qmjft3SU4o3A4sylAAWrUjC4HrlizOsCIQO3FxrDBR0THPAMfCDLehCoFLPa1CIX-wiHucAOiF2Pk9CD3qpJ_o6HfKZjm2PULYezABLugzs6g9eBLnq0czjpWHLeO3VklSsD4RFZMCxbIR-pNlw0kmBkuwqA3FPhz5EesN6N83N1pQxwnz3otHKKwzPll1-NqrFNt1hEQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همزمان با افزایش تنش‌ها میان واشنگتن و تهران، «وای‌نت» روز شنبه گزارش داد، ورود و استقرار بیش از ۳۰ هواپیمای سوخت‌رسان نظامی آمریکا در فرودگاه بن‌گوریون تل‌آویو و افزوده شدن ۱۰ هواپیمای دیگر در روزهای آینده، موجب بروز اختلالات شدید، ترافیک سنگین هوایی و تاخیرهای روزافزون در پروازهای این فرودگاه شده است.
 بر اساس گزارش سازمان فرودگاه‌های اسرائیل، میانگین تاخیر پروازها در ترمینال‌های مختلف به بیش از یک ساعت رسیده و دریافت بار مسافران نیز تا دو ساعت معطل شده است. وضعیتی که هم‌زمان با اوج سفرهای تابستانی و نقایص فنی اخیر در سیستم‌های کنترل ترافیک هوایی اروپا، مسئولان را نسبت به تشدید بحران و جدی‌تر شدن اختلالات در پروازهای بین‌المللی نگران کرده است.
 @
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 443K · <a href="https://t.me/VahidOnline/77700" target="_blank">📅 03:12 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 445K · <a href="https://t.me/VahidOnline/77700" target="_blank">📅 03:12 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77699">
@@ -531,7 +572,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 521K · <a href="https://t.me/VahidOnline/77699" target="_blank">📅 21:20 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 523K · <a href="https://t.me/VahidOnline/77699" target="_blank">📅 21:20 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77698">
@@ -547,7 +588,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 543K · <a href="https://t.me/VahidOnline/77698" target="_blank">📅 18:13 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 545K · <a href="https://t.me/VahidOnline/77698" target="_blank">📅 18:13 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77696">
@@ -566,7 +607,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 496K · <a href="https://t.me/VahidOnline/77696" target="_blank">📅 17:44 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 497K · <a href="https://t.me/VahidOnline/77696" target="_blank">📅 17:44 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77695">
@@ -579,7 +620,7 @@ VahidHeadline
 KuwaitArmyGHQ
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 536K · <a href="https://t.me/VahidOnline/77695" target="_blank">📅 10:04 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 537K · <a href="https://t.me/VahidOnline/77695" target="_blank">📅 10:04 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77694">
@@ -616,7 +657,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 485K · <a href="https://t.me/VahidOnline/77692" target="_blank">📅 07:02 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 486K · <a href="https://t.me/VahidOnline/77692" target="_blank">📅 07:02 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77691">
@@ -628,7 +669,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 507K · <a href="https://t.me/VahidOnline/77691" target="_blank">📅 03:06 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 508K · <a href="https://t.me/VahidOnline/77691" target="_blank">📅 03:06 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77690">
@@ -663,7 +704,7 @@ VahidOOnLine
 axios
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 498K · <a href="https://t.me/VahidOnline/77690" target="_blank">📅 01:02 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 499K · <a href="https://t.me/VahidOnline/77690" target="_blank">📅 01:02 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77689">
@@ -695,14 +736,14 @@ axios
 cbsnews
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 452K · <a href="https://t.me/VahidOnline/77689" target="_blank">📅 00:38 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 453K · <a href="https://t.me/VahidOnline/77689" target="_blank">📅 00:38 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77688">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZDa6LxJiKOTsrRR1bJuzTDQqDUDOzknGdwYShTqi54qYgE0Ju5ojuKbJkp57x_g-n9qAjLFoNuUNH6WnFTDZkAGHDvqrbxxvVen5BwBxVQ3IT1ZHLmF4jLzKETchRd2h-VFUgbH58apfDBg0gheJv67HjddblFmPHcKl1ry75EH9LMW9yc4j1aIzBEEX54VdU8wsGfq2HOEPiZoNAqjucfAHtJKawnOgiV5GSlQbxjZxZaGLZUAqBvrkdRm6PriED9SNkRrs2IYkUjzj8ExUFeVQaey0Vt_SB5ilImkH1LXuUhpNI6HqVVU21piNRsCy9qc1oGjLmySYXIS2IziDhw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایتالیا پس از بحران مهاجران در سبته، اجرای نظام تردد آزاد در منطقه شنگن با اسپانیا را به‌طور موقت تعلیق کرد. این اقدام پس از آن انجام شد که مقام‌های اسپانیا روز جمعه اعلام کردند بیش از ۶۰ هزار نفر طی ۲۴ ساعت از طریق زمین و دریا وارد سبته شده‌اند. به گفته مقام‌های…</div>
-<div class="tg-footer">👁️ 437K · <a href="https://t.me/VahidOnline/77688" target="_blank">📅 00:30 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 438K · <a href="https://t.me/VahidOnline/77688" target="_blank">📅 00:30 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77686">
@@ -725,7 +766,7 @@ cbsnews
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 430K · <a href="https://t.me/VahidOnline/77686" target="_blank">📅 22:36 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 431K · <a href="https://t.me/VahidOnline/77686" target="_blank">📅 22:36 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77680">
@@ -892,7 +933,7 @@ VahidOOnLine
 هیچ‌وقت نمی‌توان دانست. بیشتر مردم تا الان تسلیم شده بودند. آن‌ها دیگر نیروی دریایی یا نیروی هوایی ندارند. بیشتر مردم تسلیم می‌شدند، اما آن‌ها نشده‌اند. از این بابت به آن‌ها اعتبار می‌دهم. سرسخت هستند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 388K · <a href="https://t.me/VahidOnline/77678" target="_blank">📅 20:03 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 390K · <a href="https://t.me/VahidOnline/77678" target="_blank">📅 20:03 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77677">
@@ -962,7 +1003,7 @@ VahidHeadline
 J74wabx
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 346K · <a href="https://t.me/VahidOnline/77673" target="_blank">📅 15:14 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 347K · <a href="https://t.me/VahidOnline/77673" target="_blank">📅 15:14 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77672">
@@ -1162,7 +1203,7 @@ VahidHeadline
 axios
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 434K · <a href="https://t.me/VahidOnline/77662" target="_blank">📅 06:18 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 435K · <a href="https://t.me/VahidOnline/77662" target="_blank">📅 06:18 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77661">
@@ -1211,7 +1252,7 @@ araghchi
 mb_ghalibaf
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 431K · <a href="https://t.me/VahidOnline/77659" target="_blank">📅 23:41 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 432K · <a href="https://t.me/VahidOnline/77659" target="_blank">📅 23:41 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77658">
@@ -1312,7 +1353,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 330K · <a href="https://t.me/VahidOnline/77653" target="_blank">📅 19:17 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 331K · <a href="https://t.me/VahidOnline/77653" target="_blank">📅 19:17 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77652">
@@ -1397,7 +1438,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 293K · <a href="https://t.me/VahidOnline/77647" target="_blank">📅 19:08 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 294K · <a href="https://t.me/VahidOnline/77647" target="_blank">📅 19:08 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77646">
@@ -1411,7 +1452,7 @@ VahidHeadline
 پیام دریافتی بررسی‌نشده: در خود زنجان کشته نشدند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 292K · <a href="https://t.me/VahidOnline/77646" target="_blank">📅 19:05 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 293K · <a href="https://t.me/VahidOnline/77646" target="_blank">📅 19:05 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77645">
@@ -1438,7 +1479,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 377K · <a href="https://t.me/VahidOnline/77644" target="_blank">📅 18:59 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 378K · <a href="https://t.me/VahidOnline/77644" target="_blank">📅 18:59 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77643">
@@ -1450,7 +1491,7 @@ VahidHeadline
 Vahid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 423K · <a href="https://t.me/VahidOnline/77643" target="_blank">📅 10:20 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 424K · <a href="https://t.me/VahidOnline/77643" target="_blank">📅 10:20 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77642">
@@ -1462,7 +1503,7 @@ Vahid
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 423K · <a href="https://t.me/VahidOnline/77642" target="_blank">📅 08:56 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 424K · <a href="https://t.me/VahidOnline/77642" target="_blank">📅 08:56 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77641">
@@ -1536,7 +1577,7 @@ VahidOOnLine
 CENTCOM
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 385K · <a href="https://t.me/VahidOnline/77637" target="_blank">📅 05:55 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 386K · <a href="https://t.me/VahidOnline/77637" target="_blank">📅 05:55 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77636">
@@ -1929,7 +1970,7 @@ CENTCOM
 
 <div class="tg-post" id="msg-77628">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DuPpvTizZmWj1SMj8xcx9hZbUhOnOnqxiW4_1qe4Pd4Y2-iV-QjV9MCe_S4I-gRBFmSbNqZdCeawsLt_HVljCTJL6BRFGEhWlrs6nl6HXUDfW_Tt72uR4y6YB27LeI84Kbl2a8GlLJJhwbFwH6RZIkQxxJf9ojwzcPD27fwKoXy8XzTeWf18l7T53vwVa75x1n_1L80om-K-33ZPUdch4F5AfIz0rIqFVjBh5tMqABjR9MpW84GC8BN2IrAHuSjKyUwHe3OS1PlAhdfweeqn4I7EPDyfQ_IVr7vkuE2aChQVXk9J_xFk7hvLzbLWAKfTHjCLyRmiyZNoe0QUPq7p8g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/daPOi-9rCartTA-c6Vmx3S32uzG-_O6mHah93AEzsiIl9G4cVcoAqfQXXQStAAhyPAKU4spnNZRvXvdpC1p074XGYHopAh89iR6L4f4xVD7A2TPlQbGOUvBQhdvYmCmZlcA0m6QpHUV5YX7CpRdn2lR2Kz0Cpt1GCxWHKFCKxZ70VbAp2REokIOlU96ERj4LBwzVfA9-ON-W3Nekmz7pK7BkGyf_3Vx2sNJtrcnw_yCv0iTk5gplvcIMwKxelg73uPlHCidC87kaLTbQUZYqDMu9siq-XuCcWW94qO2dGklTIs7wnEFaODc1n9BTH_D2OmQiPP2sao9qc1S14-SbFA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست خبرنگار اکسیوس:
 یک مقام آمریکایی به من می‌گوید ارتش ایالات متحده در حال انجام حملات هوایی در ایران است.
 BarakRavid
@@ -1947,7 +1988,7 @@ BarakRavid
 axios
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 362K · <a href="https://t.me/VahidOnline/77628" target="_blank">📅 02:47 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 363K · <a href="https://t.me/VahidOnline/77628" target="_blank">📅 02:47 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77627">
@@ -1970,7 +2011,7 @@ axios
 وحید بازم زد
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 393K · <a href="https://t.me/VahidOnline/77627" target="_blank">📅 02:25 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 394K · <a href="https://t.me/VahidOnline/77627" target="_blank">📅 02:25 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77626">
@@ -2044,7 +2085,7 @@ VahidOOnLine
 ترامپ: خب، این تعجب‌آور خواهد بود. چنین چیزهایی پیش می‌آید، اما واقعاً تعجب‌آور خواهد بود. او خیلی قاطع به من گفت که در این کار مشارکت نخواهد کرد و می‌داند که من کاملاً ناامید خواهم شد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 396K · <a href="https://t.me/VahidOnline/77624" target="_blank">📅 23:44 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 397K · <a href="https://t.me/VahidOnline/77624" target="_blank">📅 23:44 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77623">
@@ -2121,7 +2162,7 @@ VahidOOnLine
 axios
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 357K · <a href="https://t.me/VahidOnline/77623" target="_blank">📅 23:43 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 358K · <a href="https://t.me/VahidOnline/77623" target="_blank">📅 23:43 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77622">
@@ -2284,7 +2325,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 295K · <a href="https://t.me/VahidOnline/77613" target="_blank">📅 16:47 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 296K · <a href="https://t.me/VahidOnline/77613" target="_blank">📅 16:47 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77612">
@@ -2426,7 +2467,7 @@ reuters
 نوشتند تلاش‌ها برای تعیین وضعیت ۳ نفر دیگر همچنان در جریان است و مجید کاظمی هم با آزمایش‌های تخصصی و بررسی DNA هویتش تایید شده.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 408K · <a href="https://t.me/VahidOnline/77605" target="_blank">📅 07:03 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 409K · <a href="https://t.me/VahidOnline/77605" target="_blank">📅 07:03 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77604">
@@ -2607,7 +2648,7 @@ VahidOOnLine
 <div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/UCapOI_6cgO9x85EIiue7glJUUroc0ZwzoqqVgBr82r4Bdj5xbfbzP9JNooone8xM-6-8fbLoll_7qyE8Lvm1G1otXDZP-rQOol0rqD1wRCOmyaitG3Au7p5TACV4WRwnBOenLPOUNB8fJzqirLWgtYk5CsOZ-C8BdAKUOrlAFX0lyjyFhjnHv4h3ECfgAXXNkFJcMjdQxDTHKO_QIYAe5eiPlFHyAepLfMs14NLEi1iRGOchkacgC7AftG_lE18HVISfvE_SWVT1gqjsnWLES1-YdZuYF6X0Sw8Q-ev2Ei7sStmxKdvJFtvWqUdCVG1M-qM31qVWvE5vFCWMkIIxw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست وزیر خارجه اوکراین، ترجمه ماشین:  برای گفت‌وگویی صریح با وزیر امور خارجه ایران، @‌araghchi، تماس گرفتم. دیپلماسی یعنی گفت‌وگوی مستقیم، حتی زمانی که دشوار باشد. تأکید کردم که هدف ما جلوگیری از تشدید غیرضروری تنش‌هاست.  بار دیگر تأکید کردم که تمام اقدامات…</div>
-<div class="tg-footer">👁️ 360K · <a href="https://t.me/VahidOnline/77587" target="_blank">📅 22:43 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 361K · <a href="https://t.me/VahidOnline/77587" target="_blank">📅 22:43 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77586">

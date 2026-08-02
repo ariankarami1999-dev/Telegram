@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-12 01:54:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-12 02:56:10</div>
 <hr>
 
 <div class="tg-post" id="msg-2841">
@@ -325,7 +325,7 @@ check-host.net
 پنل مرزبان
 📚
 پنل پاسارگارد</div>
-<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/iaghapour/2841" target="_blank">📅 21:14 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/iaghapour/2841" target="_blank">📅 21:14 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2840">
@@ -333,7 +333,7 @@ check-host.net
 <div class="tg-text">⚠️
 دزدیِ آشکار و علنی یعنی همین! اپراتورها رسماً رو اینترنت بین‌الملل ضریب ۲.۷ می‌زنند؛ یعنی تا ۱۰۰ مگابایت دیتا مصرف می‌کنی، ۲۷۰ مگابایت از بسته‌ت می‌پره!
 با کدوم متر و معیاری این ضریب‌های عجیب‌وغریب رو روی حجم مردم حساب می‌کنید؟ این پولایی که بابت جابه‌جاییِ چند برابرِ حجم از جیب ملت می‌کشید، از گوشت سگ هم حروم‌تره. بسته‌ها رو که نجومی گرون کردید، جاده‌یک‌طرفهٔ کیفیت رو هم بستید، حالا رسماً دارید با ضریب زدن، حجم باقی‌مونده رو هم غارت می‌کنید.</div>
-<div class="tg-footer">👁️ 6.25K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.4K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2839">
@@ -355,7 +355,7 @@ check-host.net
 ⏳
 زمان قرعه‌کشی:
 تا امشب ساعت 24! پس تا فرصت هست کامنتتون رو ثبت کنید.</div>
-<div class="tg-footer">👁️ 6.91K · <a href="https://t.me/iaghapour/2839" target="_blank">📅 18:18 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7K · <a href="https://t.me/iaghapour/2839" target="_blank">📅 18:18 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2838">
@@ -383,7 +383,7 @@ Xray-core
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 7.78K · <a href="https://t.me/iaghapour/2838" target="_blank">📅 16:14 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.85K · <a href="https://t.me/iaghapour/2838" target="_blank">📅 16:14 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2837">
@@ -406,7 +406,7 @@ Xray-core
 به‌طور مستقیم به فضای مجازی و دسترسی به اینترنت وابسته است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.8K · <a href="https://t.me/iaghapour/2837" target="_blank">📅 13:58 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/iaghapour/2837" target="_blank">📅 13:58 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2835">
@@ -829,7 +829,7 @@ Claude Opus 5
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2807">
