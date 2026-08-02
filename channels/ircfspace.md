@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn1.telesco.pe/file/VR_1mDsKLVdMVpZcI48kHW-EjpOqEr5vq-mZpjuBD0bwPFG8Wqfba5n6duFhKI-Sb4FBdW3-cKcwu7WIlabMIODqDSkxHAnNn7jXgP-US4qJvec8p8Z9DtbveJYhZzVB33L4UY3W0TiuN2UAWsfYyXVwc_C7PebyUsmGHgswDkkzYI4WYac9GCtmNFZ4aKeH-gW3nl9UTHJLyYRitHPm1DOpGjoU2zK1VnHsOzSOSaem3qqdcOYypcbq38JPkr0uwOgcsYPq7D3ZlKJfWvn5okgEUzB3gZ_bjs8oJLpVLeemNtliaP65mKwJqb8fyBF0nInW7WTAFaUHJmh8wjXKsw.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn1.telesco.pe/file/SPePwCox26isFX1qi2RklJ-q9WKUStNAAy2z11wFyYTOVM61p9C0Kcn75qU9t-CJ4SOzFZb70kbcCibgNE5TK5-bx7RO51pHlG8C5CHaQBGBbuC3ul_YfVKHtuBbBQXN-jVJIlerQ6ef9OFk575FI2R_K7u6sBWtb5qIaU2y5GHPjogTZzWCuwMg-Yn5cxkgCelBsNQshTITDt48i6wjyyuRPAjq_WtwR6AL_1VVV2WjFUxk3jHfJEO-zlW0dU8K-bjkJ6MD-jICBgNU_zrs2gSdo1KniEcuH295f05s29vXPl6sDVwpXqd7B_D-BnT3pn-k7XHj3UiWRtIY-8iFjQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 IRCF | اینترنت آزاد برای همه</h1>
 <p>@ircfspace • 👥 97.4K عضو</p>
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-11 02:55:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-11 04:34:06</div>
 <hr>
 
 <div class="tg-post" id="msg-2528">
@@ -359,7 +359,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2524">
@@ -389,7 +389,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2522">
@@ -742,7 +742,7 @@ slcyber
 
 <div class="tg-post" id="msg-2500">
 <div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IaKhyawUtRpoqNylvSx4iHSEIVVknJbXiw665HdYM2m0ckqGVt9nr33mdTjhr5C1_SiumzcvdG3jiRzRT6di86zwmgrd9LK-BiX2CFy645GqxiBsihcc40wczRIRcuXbgudhaR-EsvrTm3ZYBHucVHXIJ6NHW0WeCCS1KxnHWEUa7NNADrgjLeENezb-sn-82X93s89QpRhdnXgflDU3okXBz-SkmbmxWV76lS74TwnudU1flzaQrKQnHGNUzIJzNH2LNB8rsydvCcuXwr0HrTjO3NIi7MWaMdo6neBw4l0g2-SvfCr3_uqtRZspilMWsmXrX0wEawh8dXmO0Ikqaw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Q-bNYeOai08t_5lFYY3UbUSTcUDuQ9t-ov4NlgaMJd-892QYEYi13nCmRSejFICGVZ_P9wFaoK3CbytPmkTy3yGXhZGdx3_7nahpyurnAkfwBJUIqcgBYVJ1rhVnBu15K-RhzAK3Rf1GA2WuOzUEJngb8aGV-4o5TnnvWK1lnGp-1rrS25RwzIlgCjuECfP6H7ioeMkVpXl2iwQaqvKn73o7X0-UlVRghxX39mTUUL_xXTwPLU_aSarESP2uKttDfdYT-n2ENIPXyY4mUMpjqGNLLObIZ8ihOcsiDjpm9qgWtzAG428xETd8PUYi80iqdZQ8UTpeCGjySiTpFncEmA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگرچه قضیه ترند شدن "لغو عضویت جانفدا" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه "وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -929,7 +929,7 @@ AdelTalebi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/ircfspace/2489" target="_blank">📅 07:58 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 35K · <a href="https://t.me/ircfspace/2489" target="_blank">📅 07:58 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2488">
