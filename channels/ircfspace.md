@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-11 14:41:06</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-11 16:02:47</div>
 <hr>
 
 <div class="tg-post" id="msg-2528">
@@ -308,7 +308,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/ircfspace/2528" target="_blank">📅 18:30 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/ircfspace/2528" target="_blank">📅 18:30 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2527">
@@ -344,7 +344,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/ircfspace/2526" target="_blank">📅 19:22 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/ircfspace/2526" target="_blank">📅 19:22 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2525">
@@ -359,7 +359,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2524">
@@ -424,7 +424,7 @@ PingChannel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/ircfspace/2521" target="_blank">📅 18:06 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/ircfspace/2521" target="_blank">📅 18:06 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2520">
@@ -443,7 +443,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/ircfspace/2520" target="_blank">📅 07:46 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/ircfspace/2520" target="_blank">📅 07:46 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2519">
@@ -501,7 +501,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 
 <div class="tg-post" id="msg-2516">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FkUNC6JpGwUAv87EXAC028OLbW4kr_zv9S0p07n7Kkxt0gpRpj2a93t6COdVpFYE1NPvM28A5n8_DZuPPHh5FlQvikaE3pNee2N5odZ9oAXeWVgIY7myJ5ww1Z8CYHHMvSwT8FUlBQel34CH6uwA8_bygW7bomii5OGPMQ9YX85n2y6wkUtO0e_dm-DX8ipCRU6-1KnaDVkPnT0RYWtwQxusbXho3HRpJBkpyVhJkXgfoz6m3OG70WvGesW4pldyPlkudvnJtPZhuZ2Z6UP8WoQOzCJs1ipkxPDQ4yEenxK_Yk_KyNf-dVATnAwnHvTjQIdxYiKHQERg1Gvi3iGSgg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/S6d6nOrjS3q8O3ValBDTLMkbqTRGpVm_5DnLUEghmykA-bFPQOCwrEUlUJd35kgMkA0cGrqkBdPvbSIJ_fgDmubADHc603ROJN3w4auGgJaucu4hbcLKZsPhVl3O2qX57LA1OwwTXSy3ygJGIbdVy1VadPKJP8vHaNirUR18VrcC7OXi3YEjbokz_8KNXubckoU93j2LDnTU-bLgQ7G7A97IpL2veBeiT4VMKb3oYARHfdokwbSJXEFSNyB6XprhOJBvITC3U9rmTHuEEETZgd0ye3qPg0aIVEMfaba640w46aune94OVAdliNucd7vL76OPTPi8FPfeWoF8u4UDWA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">توی هسته ایکس‌ری از نسخه ۲۶.۱.۲۳ به بعد یه سری هشدار برای قابلیت‌های منسوخ‌شده اضافه شده، که شامل allowInsecure و Shadowsocks، VMess، Trojan و VLESS بدون Flow میشن. مثلاً برای Shadowsocks این پیام در لاگ نمایش داده میشه:
 "The feature Shadowsocks (with no Forward Secrecy, etc.) is deprecated, not recommended for using and might be removed. Please migrate to VLESS Encryption as soon as possible".
 اگر در حال ساخت یا انتشار کانفیگ‌های مبتنی بر Xray هستین، بهتره به جایگزین‌های پیشنهادی مثل VLESS Encryption مهاجرت کنین، تا بعداً با حذفش به مشکل نخورین.
@@ -587,12 +587,12 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/ircfspace/2511" target="_blank">📅 18:55 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/ircfspace/2511" target="_blank">📅 18:55 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2510">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/t-06T4ilJa8CPLNVY7ywy0iYOZH2lOUsPJ7fUQG2OIIm26vJiES3-ogNDNcI06ka7pX_8xsqNP29ra1XCB8_JYTF9MlA-2LYrdM1IqvinGh97FhggKNz9RKe9pH1TpG2r6gGW7t1kJEK1iLitCtr3Y4eig5F4oU0GlJO9qG67m_Ilw8ZRQQIor8_UL-rRCoOhKqxw_xXPbmkgobJI9_B1zUw1_lwmZoke8BKqkeXoGSlXGNUS1FNC_cOCrSNuSkPfHoNC1dlQNb4jfuj-QxN7WcEjpqWohTjyjHvsUwyYo4NZAdzABkhReXgdp3ExbvKpSO_YYbsUMqYDq9fLq18tw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/B5-jTNQHmlJhD-l2c0bnb3p7U-T-s0Yr9o7bN914z6MwvS47itT1JBFlRZMSHmG1Gp5tvptBE3EIgxqgsPmH2tWI4K4RltT8c_wij81t0i71kydXvnjf1wdNpAWwy9UWysNqakQvB4wjc2hsKvarvTIsO9Oi5FSMAkMyU0Ux_-GqeLh_LUyPAg0wFJ1AEsgKbgO6dFAGoXacscqrskqOxNozsC42dDiitAA4uoXJGjD1tWryZY2rBFH4wkDkxRbtJ6XG87cApRkK0iSCnGUKsCVCTbZGz9uP_-UwBmz5w984oh6UsQer_eQeWFGWug0OEhcNOJUUGfucklfADCkYSg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ ShineNET VPN یک فیلترشکن رایگان و متن‌باز برای اندروید هست، که از امکان انتخاب هوشمند سرور بر پایه هسته‌های Xray و Aether برای دورزدن محدودیت‌ها استفاده می‌کنه.
 👉
 github.com/shayanheidari01/ShineNETVPN/releases
@@ -699,7 +699,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2503">
 <div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JGvLHpXZphe786ACZoNEdKiW8JI-_T8UE_sOuN4S5LmFR_gnz6Sz_iztrFd8rxOKXeOsziTZZg7gyA1UKD-motvoyxHHkIHUHGAWinbuz2rffmzmJKLNdqJHTnp-v5Aeq6yVvGU-S3wvBiiqrTLlDQYz8hTqb5yyLdhAqEWI1d2DYUY3eqpC2dgeNDfvqi6VFta7YQTWQncJbtxmonYqW1Knl3AztG67YDex4HjLi_YNeAsE_nmZ4v8ew9PjZsgQKWjWgX84mQSYQmUh2Lb1S6emyG38NySeMzwxjPt6LlORjgqTTFpQ-M815H8mSwP89JadRpNxE-Ib2OJvo7AnGg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QXIfAFhXQsMjMeiAL2LNj0CP5Et9YnAKkjDeioUus_8jeZIcpwPfuPyLEDkly6bhjBy_Am8n53qkLY0a3YLbxakMZQaTqu-U8BQQeUvDlJsyEnzS9dN4m7HbUL5EzoHKYgEK0pI_BKXs0-jzTTgjhbjBRDXQEpCIeeJOEWqLi1VjrjbgfDRUPkOgi82jOyNeLPSjcPmA97lUI3HLs0I2XiHQ_P9JD_DscZFcJwN6KJf6X4GzW1i00XoPUK8v0wbA6kyyniA7VsaWArbE_uBThYqM4JOpLAEVMH8Fhs3A2U3fUL8QbT9cvRSMGxx3z0FC3fxqCkzaAYfDpAgkzZ7KGA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پژوهشگران امنیتی از شناسایی یک زنجیره آسیب‌پذیری جدید با نام wp2shell در هسته وردپرس خبر دادن، که می‌تونه به مهاجمان اجازه بده بدون نیاز به احراز هویت و حتی بدون نصب هیچ افزونه‌ای، کد دلخواهشون رو روی سرور اجرا کنن.
 بدلیل شدت این آسیب‌پذیری، جزئیات فنی و کد اکسپلویت فعلاً منتشر نشده تا مدیران سایت‌ها فرصت کافی برای بروزرسانی داشته باشن. این مشکل در نسخه ۷.۰.۲ وردپرس برطرف شده و برای بسیاری از سایت‌ها بصورت خودکار در دسترس قرار گرفته.
 ©
@@ -974,7 +974,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 82.8K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 83.2K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">
@@ -989,7 +989,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 83.9K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 84K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2484">
