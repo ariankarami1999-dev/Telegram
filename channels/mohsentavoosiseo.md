@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-11 19:05:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-11 20:19:35</div>
 <hr>
 
 <div class="tg-post" id="msg-880">
@@ -305,12 +305,12 @@
 پیام به:
 @mohsentavoosisupport
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.25K · <a href="https://t.me/mohsentavoosiseo/880" target="_blank">📅 11:55 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/mohsentavoosiseo/880" target="_blank">📅 11:55 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-879">
 <div class="tg-post-header">📌 پیام #99</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/u7fupcRB7-VWgaZK16nLzGzBj4ij-aOF0I3ScsflG0aW0cj5Rr_qm0PQAi6tGC6_Rz5cIAyCp6hT5vbQT1GxbsFVJmgnqeGZytVnfHs6EvHjctEBC74nNIo0wxkXWAn4NHC8gCZ-rS0otX8efpRag3YrZn6kDZMwmPDM16RY-ASZf0U1xJy-EQgsBaCuvxG6kNgfi0MbfZNzrF3hXGsogkfsqniYuxm3byiKpHY1gGrVpqMZlThysvlENZDxk-3Dli1QRvh3dzfl-rbMswNYaJoKzsx_yipLRTODswEsfi3eTNx0oaXnNuI8iKtW513R1Bwc1Ioz090vTywvugMOnA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f9eufLHnoYzo35vW5h5BNzNFe_vOkw8vIkNkVz7hlmnjbU68nCcrlnuAIwQ9D-cmjWkQDYxyXXuzBDcSlDWQ4CJDSV_vjGnhzMUta6hzi8-cRU653F0hwTivIQRWp_mZSNuTp0TVPT51v_NSQ8kw2oxAPMZJSlR89u82Wpp9t42DiIl0rTSUTdWYMluVZg5iP2P3h8Q8P_4otCHCT3sYFU_PcZJt1eYY-477GrETY0rmrNJ65KIIRpKuJ6XyMJmr8DEViaXU84PwMQSBNYIEdgZczbAt0sdoz0FbqVj7DyPAq4l40Liq1qFQjLEn2U8AnHGEiYUaIxmR-1HSquI9nw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❓️
 از کدوم هوش مصنوعی استفاده کنیم؟
 کلاد
@@ -352,13 +352,13 @@ Claude Cowork
 چیکار کنم دیگه هی نگی کلاد؟
 از کلاد بپرس.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.44K · <a href="https://t.me/mohsentavoosiseo/879" target="_blank">📅 20:00 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.45K · <a href="https://t.me/mohsentavoosiseo/879" target="_blank">📅 20:00 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-877">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-875">
@@ -366,7 +366,7 @@ Claude Cowork
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/o0Xyg9ohlpr35PINcgh6EibIcBCvYA3epjvlSp1KN7qeUMELSAfFkADdvzNdCEUyBrOf-hPM1b48u1lREKCtRStURaWGPT861yB_nWRlZUjehCpKQT7jmuDfoThW0XQMgt-bo6M58f9nXKi_o_d3lAww1pQYTlSaFXiA7Ukk_6H3l3KUXtLBISBeeWV0H8KccXg1PmYk7fBbYVsb3AsItc3VI0x8OWkJUExtFn-OnJUR4SkEB-lGQC_kSwaGsfsrJXBd9JkYKvZ7k9edvyJ7OjvFc8EDShv_zE8QYyN2YyYZY0IetjNPlVKAeTHk2vZzhc_x9Gq7dp-Lc3nObFMLdg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
@@ -434,7 +434,7 @@ Claude Cowork
 <div class="tg-post" id="msg-869">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.24K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.25K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-868">
@@ -455,7 +455,7 @@ Claude Cowork
 با توجه به اینکه اپدیت پیش روی دوره، بسیار تمرکزش سئو بین المللی و چند زبانه و مبتنی بر هوش مصنوعی هست،
 و اسپات پلیر هم دوباره از وایت لیست خارج شده و از خارج دوباره در دسترس نیست و دیتا سنتر ها دوباره محدودیت هایی برای دسترسی از خارج به داخل اعمال کردند،
 اگر نیاز به وی پی ان ایران دارید به دایرکت همین کانال(آیکون پیام یا کلید message) پیام بدید تا وی پی ان ایران براتون بفرستم. وی پی انی که خودم استفاده می کنم (میخرم).</div>
-<div class="tg-footer">👁️ 1.93K · <a href="https://t.me/mohsentavoosiseo/867" target="_blank">📅 12:52 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/mohsentavoosiseo/867" target="_blank">📅 12:52 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-866">
@@ -527,7 +527,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-859">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WabLsVT1nnX2xuRzyUHVrq6qOd2sSiP04DsXBloGGOAWypnz9kQbHhSmPnYR3MG4voSCdcvybxZP0lMNOqsLe1jEkEuBWXsRdT18QKh5D4VAj1J-qXK9CWSFss7n1axkju77UsJmupjtkkXifdH-a79tvzTvcvyrdf6z6weLLPpF4oYmqU71f3XNHgX7Pwmgx9geLfrEtbHNb-j1qWW32lbVAyPtZanbDQO5edeKr4fWisOgQVpJ7RGyvmDrqB5jwfy1qvNfP_iKnDCV2ba-OA4CTuMFQf2Me4ZCCwisbY_DwNPhwAP64g22SmXdtbN-ZYvaq1tto4ByE3GYSGGl2Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DVBoH6PzdV9H94dTVXoVjSH3ZsAzWvZOZOh7od_E_Iie9R4mrdHuY2y683eQMJysRWwXSWW-vzZ5V6MhCMbiRQhmMOUN5YamYhXIBU6zMLlBoAzpATpzkmpLR5fecWVvegS6lJNzV9guieaOGwxEC-ZUwAizW00EDzl73Rnch1M8UekirJSiA-q-2gCyL5xveGADaXv2q0cyGIXEMuLpCJNtHsHcSfu1Tk8qUmh_xPYHpV6fwm3IiEq_WpC_dMDqcLwQhfrd0JhTnJF98CYVJx48Bdbn-NpnvOAlIqexaxUyD5uoAFbCknZp15UPMy1rI0swuiWAKrUm8o056EefWw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این عکس، نمودار حدود 8 ماه گذشته یکی از پروژه های انگلیسی هست. هیچ فیلتری جز زمان هم ست نشده.
 تاریخ 5 فوریه زمان شروع همکاری بوده.
 به نظرتون بد شده اوضاعش یا خوب شده؟
@@ -899,7 +899,7 @@ https://t.me/mohsentavoosiseo/826
 لینک پستش
 رو میذارم. ولی حرفم خود تصویر نیست.
 بعد از نظر سنجی پایین، چیز دیگه ای میخوام بگم.</div>
-<div class="tg-footer">👁️ 2.23K · <a href="https://t.me/mohsentavoosiseo/822" target="_blank">📅 18:28 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.24K · <a href="https://t.me/mohsentavoosiseo/822" target="_blank">📅 18:28 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-819">
@@ -1198,7 +1198,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qGYyNl_Gprqvw-W4LrTUbjNmMFJRCS-rZV5iqgH7JJsFSEDlOQvgezDLPMvuV0l0oHGDNY2FTPty8422k_jtYHQDlIBv9_YiwAq1ajqGkg8UlJ6YkSEdWM6Kndi1-CF8tRz0kQx5jP2qSuoINcceSirB8mmo81Mvpab6kAhE0yf050VvMg0m6qbX_pcwsXlb-86lAl7wQBPMMtlydwa6xpC9Hi6nnFMrf8vg2Iz62xVs3wMsi_XcGycQN6K5SDPkObORNZV39ux8l3J3EFjd6Q38vgCUoCqnqzI0RkJuDjRXxzAW28gV82EzFpETqEprVEDiFWD2Keierx943j_hig.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tALaRUlZ55bqm5pkrDsLKszxrKvS7uFlz9vLR5ww6rF6KWLrIAFxMxkSw8wVUsu7THQUR3NjjL04LRLYesIH_7F88JAXlEGxy5gsz6zHxpS7jp2yUM9cBTKcqMXtClGJWgoO7pLQR_1GzCYU3tdM0KRStHHJBi8dIGiOlKJ-Zz5XhuvSTODgPlLSqo8Q727R2N20uMoZFfSv9_Gmx95kGaz92yYcfdbzcpKsYzR46qkqrzF4IJlFit4lmYpic-XfYMVO5RVHGUl7xvUZ0V8srZvwueVmnBsQB_9ekJJn4hCN3yGdSMXP-OZUeSwC6LVMo8yFYiJpi05sv_MB0MNLDg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
