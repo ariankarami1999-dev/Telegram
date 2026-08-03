@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-13 01:06:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-13 02:23:17</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -857,10 +857,10 @@ NotebookLM
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3745059056.mp4?token=R1JSQA5rlyQTYrdEepuURgKtLRBFQTF5MgBPEQ8IFJl_JRVE_dqsI1jNBfFxxWAQ4_VaJG63Z6J2XC8ddSpaYc2aC7B1Mk3-6LFMeLdo7ZfDXMcwlFrYvQyrTW8_GLFr8oXbRVbkkfKV2ZznWd7w1B5H6n2nljiwZQz6Jn4r0P5Gb3czbPlJhEpdrIhYP2D8KuJtGY4QPj7FTTU5b3rSIApHhtkMVagYALBctLgvNdWdNpK3TA_InVhAptT6kuMjitXtA8hbsTH2Eftuy86u8Wh558RzfX9y_IORbajT1O2t6GFrf-9eN4BicNXA1Or03VtELXWFOWbelVIAN-ZIVQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/3745059056.mp4?token=fji5byFMqnqcdCGs-yME9pYaiflkX9ZE7O0rWRDvywKGDfDrh0Ruaz6HryQIimNu37LWEC-S2l3ha0OisXfx-HHG5CxMTGU8SrWcc04VUyHmFVFPhl6WKQlp6O42mIM1iBGm80m95vOROx0DnOpARaniynp-WRXojyOR9J2OQ0S9qJGwK-elbaUe-MVkBYpc_F1jUsQsvicBlIbPbMOudJIDRccsph_DOl_W8j9-zyHiegNICkzB5kY2rzpN6MGyzQ_gW5EZWTk9JOp2vedJjscbk34ayc7i-Ekovo9gP5pVu7WDMLMD7iBwbRQcnf0fDe262ImDxUXj79bibcPrXA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/3745059056.mp4?token=R1JSQA5rlyQTYrdEepuURgKtLRBFQTF5MgBPEQ8IFJl_JRVE_dqsI1jNBfFxxWAQ4_VaJG63Z6J2XC8ddSpaYc2aC7B1Mk3-6LFMeLdo7ZfDXMcwlFrYvQyrTW8_GLFr8oXbRVbkkfKV2ZznWd7w1B5H6n2nljiwZQz6Jn4r0P5Gb3czbPlJhEpdrIhYP2D8KuJtGY4QPj7FTTU5b3rSIApHhtkMVagYALBctLgvNdWdNpK3TA_InVhAptT6kuMjitXtA8hbsTH2Eftuy86u8Wh558RzfX9y_IORbajT1O2t6GFrf-9eN4BicNXA1Or03VtELXWFOWbelVIAN-ZIVQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/3745059056.mp4?token=fji5byFMqnqcdCGs-yME9pYaiflkX9ZE7O0rWRDvywKGDfDrh0Ruaz6HryQIimNu37LWEC-S2l3ha0OisXfx-HHG5CxMTGU8SrWcc04VUyHmFVFPhl6WKQlp6O42mIM1iBGm80m95vOROx0DnOpARaniynp-WRXojyOR9J2OQ0S9qJGwK-elbaUe-MVkBYpc_F1jUsQsvicBlIbPbMOudJIDRccsph_DOl_W8j9-zyHiegNICkzB5kY2rzpN6MGyzQ_gW5EZWTk9JOp2vedJjscbk34ayc7i-Ekovo9gP5pVu7WDMLMD7iBwbRQcnf0fDe262ImDxUXj79bibcPrXA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">✅
 اضافه کردن Note به چارت سرچ کنسول گوگل
@@ -1492,7 +1492,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-867">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G0ZQB3gq5RbMuIN_4KGg3_7O8sZ4XAWqrS_X5-BqEY2NTfm1axzykGVBmfkDeJbWlHYj-MbRYvqG1XEvVi7GZaah0sIf-6I12p81kY4_kkLdaXkgQ0xB0E396bQ-yoOP5wr6ikN3MYorgG5gOhkVchOfXvvAzBM4rKVEKnSHvZ1wQHCH5dK-xer0oE9tUjvZ6wGNVRXOT8996uQ_ATIcgTYiIToUMgNDITHSk57ACZM8BzUpMXRhE5zYNFYBKlW7cihZPvbb3oao8UKc1FgxrcRwLewO8jWvoItsJIFzRFkIfsN1CxA3845OALJBongqQjkgREyFQY4W-TWr4hiFQg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/o4UwsLxrvjiZfus2fUTvrD1FeMbUcaAnCZV0k7MP4gVSx_Enk3NaD6aAcphOkN7j_98LgHJrg9sv81vNYPWeCCEku3tLTZYxVKbN0Bg145R-6Nf1AcxZ0zDVFXkDO5vvfLi7dbHj8EOLwkM10RsMjnmtsNjWg1nViwgvF3JzWiZgYR5of-fE0FvDsvlcm9IA9EKiaI9NykfTS82qhOrBo7Sixw9hoL3j2nnP3oWMn033EofiVqIdbOnw77XWwruuTAbX5GoeLhOGFOTWtHqVOubtR01jAqgWC_tdWREBNIVEaJXNvU-ALXYss11kd2rk9a1GKLfpcGomkmDxhm-vCg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل مستندات Google-Extended را آپدیت کرد: کنترل بیشتر روی داده‌های آموزش AI!
 🌐
