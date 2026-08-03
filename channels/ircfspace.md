@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-12 11:56:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-12 15:23:35</div>
 <hr>
 
 <div class="tg-post" id="msg-2537">
@@ -308,7 +308,7 @@ github.com/shapeshed/aerial/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/ircfspace/2537" target="_blank">📅 20:26 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/ircfspace/2537" target="_blank">📅 20:26 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2536">
@@ -323,7 +323,7 @@ github.com/shapeshed/aerial/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/ircfspace/2536" target="_blank">📅 20:14 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/ircfspace/2536" target="_blank">📅 20:14 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2535">
@@ -339,7 +339,7 @@ AmirMahdi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/ircfspace/2535" target="_blank">📅 20:03 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/ircfspace/2535" target="_blank">📅 20:03 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2534">
@@ -353,7 +353,7 @@ AmirMahdi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/ircfspace/2534" target="_blank">📅 20:00 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/ircfspace/2534" target="_blank">📅 20:00 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2533">
@@ -369,7 +369,7 @@ Farshad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2532">
@@ -395,7 +395,7 @@ Taha
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/ircfspace/2532" target="_blank">📅 19:48 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/ircfspace/2532" target="_blank">📅 19:48 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2531">
@@ -414,7 +414,7 @@ Taha
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/ircfspace/2531" target="_blank">📅 19:41 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/ircfspace/2531" target="_blank">📅 19:41 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2530">
@@ -429,7 +429,7 @@ Taha
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/ircfspace/2530" target="_blank">📅 19:24 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/ircfspace/2530" target="_blank">📅 19:24 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2529">
@@ -446,7 +446,7 @@ sadroddinfallah
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2528">
@@ -462,7 +462,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/ircfspace/2528" target="_blank">📅 18:30 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/ircfspace/2528" target="_blank">📅 18:30 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2527">
@@ -483,7 +483,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/ircfspace/2527" target="_blank">📅 18:11 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/ircfspace/2527" target="_blank">📅 18:11 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2526">
@@ -498,7 +498,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.5K · <a href="https://t.me/ircfspace/2526" target="_blank">📅 19:22 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/ircfspace/2526" target="_blank">📅 19:22 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2525">
@@ -513,7 +513,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2524">
@@ -527,7 +527,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2523">
@@ -543,7 +543,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2522">
@@ -559,7 +559,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/ircfspace/2522" target="_blank">📅 18:13 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/ircfspace/2522" target="_blank">📅 18:13 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2521">
@@ -578,7 +578,7 @@ PingChannel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/ircfspace/2521" target="_blank">📅 18:06 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/ircfspace/2521" target="_blank">📅 18:06 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2520">
@@ -597,7 +597,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/ircfspace/2520" target="_blank">📅 07:46 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/ircfspace/2520" target="_blank">📅 07:46 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2519">
@@ -618,7 +618,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/ircfspace/2519" target="_blank">📅 07:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/ircfspace/2519" target="_blank">📅 07:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2518">
@@ -634,7 +634,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/ircfspace/2518" target="_blank">📅 18:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/ircfspace/2518" target="_blank">📅 18:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2517">
@@ -650,12 +650,12 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/ircfspace/2517" target="_blank">📅 18:20 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/ircfspace/2517" target="_blank">📅 18:20 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2516">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/S6d6nOrjS3q8O3ValBDTLMkbqTRGpVm_5DnLUEghmykA-bFPQOCwrEUlUJd35kgMkA0cGrqkBdPvbSIJ_fgDmubADHc603ROJN3w4auGgJaucu4hbcLKZsPhVl3O2qX57LA1OwwTXSy3ygJGIbdVy1VadPKJP8vHaNirUR18VrcC7OXi3YEjbokz_8KNXubckoU93j2LDnTU-bLgQ7G7A97IpL2veBeiT4VMKb3oYARHfdokwbSJXEFSNyB6XprhOJBvITC3U9rmTHuEEETZgd0ye3qPg0aIVEMfaba640w46aune94OVAdliNucd7vL76OPTPi8FPfeWoF8u4UDWA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MDN0XmLmJl4SINaOM_g1s_rGuzZKLzJrV4RYi9VvX0fOhpvLHp4rsbgtO3_bQF5mefjULS6zOUB35Y1zyol-yp4QNLi1yA09vQSkm74FFkk7ipEPjve5stj0roF-UVB1ccE7vylxGceEY5Z5c80dnqb1suvWWx_uum-BI2xTeD3NBd94Pfc4uum7E6k8b0WxQpvj96y3c8MpxZfzfeQxHPNZDLrc0ZLNRKLqLNGy_Vrvvov6MMGH2APglVOYDQ1pRSRbxIs_dJn7FIhQOm0Tf2irO77U8U5Ra4j3so_B6aNnefFr64QHKBP13ufEMZLhyj7cWAjUxWy6kbfuHbTEYg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">توی هسته ایکس‌ری از نسخه ۲۶.۱.۲۳ به بعد یه سری هشدار برای قابلیت‌های منسوخ‌شده اضافه شده، که شامل allowInsecure و Shadowsocks، VMess، Trojan و VLESS بدون Flow میشن. مثلاً برای Shadowsocks این پیام در لاگ نمایش داده میشه:
 "The feature Shadowsocks (with no Forward Secrecy, etc.) is deprecated, not recommended for using and might be removed. Please migrate to VLESS Encryption as soon as possible".
 اگر در حال ساخت یا انتشار کانفیگ‌های مبتنی بر Xray هستین، بهتره به جایگزین‌های پیشنهادی مثل VLESS Encryption مهاجرت کنین، تا بعداً با حذفش به مشکل نخورین.
@@ -666,7 +666,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/ircfspace/2516" target="_blank">📅 18:08 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/ircfspace/2516" target="_blank">📅 18:08 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2515">
@@ -683,7 +683,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2514">
@@ -727,7 +727,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/ircfspace/2512" target="_blank">📅 19:03 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/ircfspace/2512" target="_blank">📅 19:03 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2511">
@@ -746,7 +746,7 @@ github.com/2dust/v2rayN/releases
 
 <div class="tg-post" id="msg-2510">
 <div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/B5-jTNQHmlJhD-l2c0bnb3p7U-T-s0Yr9o7bN914z6MwvS47itT1JBFlRZMSHmG1Gp5tvptBE3EIgxqgsPmH2tWI4K4RltT8c_wij81t0i71kydXvnjf1wdNpAWwy9UWysNqakQvB4wjc2hsKvarvTIsO9Oi5FSMAkMyU0Ux_-GqeLh_LUyPAg0wFJ1AEsgKbgO6dFAGoXacscqrskqOxNozsC42dDiitAA4uoXJGjD1tWryZY2rBFH4wkDkxRbtJ6XG87cApRkK0iSCnGUKsCVCTbZGz9uP_-UwBmz5w984oh6UsQer_eQeWFGWug0OEhcNOJUUGfucklfADCkYSg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vYjp9CHczydDG4VTQMToXHcAgTTT-z8EJIGH0_WYEZRso3HrO2ScKDAXcdNDYhIlvLZ1wBhuqyYcEWnxNUgmcJanQ9IjSCrSo9rVVQv2yf-Fq9ryYk2kpzvMzwYBRzXoiFH3n2yQt4DCzA7TPs9_5PQSMFJupbDxGzuM7-_cIKH7xUSkNwsoXZnavpI3tZphjNMyWg2kshg-l2Ty1GtddoFx84G9SIzToQu1N1JJWeGNTVArSjvmqOwAwZjLr1pcwEJmzgNbm0cZu6Varx8PPv5o6nLOlm-kkiOLHmKP6CMLj2wvlqHVIxuVMD81r-nk_z9cwyz7hR1iF-D1m07GbQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ ShineNET VPN یک فیلترشکن رایگان و متن‌باز برای اندروید هست، که از امکان انتخاب هوشمند سرور بر پایه هسته‌های Xray و Aether برای دورزدن محدودیت‌ها استفاده می‌کنه.
 👉
 github.com/shayanheidari01/ShineNETVPN/releases
@@ -777,7 +777,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 
 <div class="tg-post" id="msg-2508">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FIpmk_KQKeNsH6DzcZDg3zcr91gdv4AVD4cBGQRpzfTm8AhQ1hFyZgyUFPQ8oeS49Gwt7PlIxNqDM2mdYlUdvPIwqu4rKniBVBy2QR8kyFTMZegpDZ8mtE6JdqcJ3aurt8rCGNyNMdKk6mGJnLwTTHOwbRN4LdrWQOWUYKFNQ9Mxh2h-6kWwp3yEN9D9CYZv-aQGldYgtQmkG5Kt4vBrFsxj8dj0JFXzpGWn1aS-iM9libM-kTkI57X7TV8CCGKYXwAEKMzuanAxAD6IYk7iPbKOMlAMpwFS_TxL-hMjlSKOarUv07IdNyLhAnHtVVAtJvcv3I6Rr5ocqSB3nsXZOA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iDAaTt95hKwOGJu0hISUcD4-SjeFNBarUbBB7XRrsBBmU8OX9xbXRz3iN6W_L9Od6CWdHP-MnOsvKTaxD8q6Lxj6IgrONe7Z7mZWIhx9uRcMVo_siOlo6FDI8hlLViHiJXKib0Enkt2-KQX65X-qTPxoqoQBNaTUUBNFfcIn7g80-nD1c76SAAZfoAgPtQHaizPFo2rs5bQ_TDSrD6EkA0CSwBtebbJlDea9DHMJh2cfcpY9KZntGCOPSsLjeW5duT4UBOWamb9C0ru9Fh9kG8ahW5lpl5WG5Niri0SnlxPLT-M7G6kg9PMx3zz3EQkHDwLIINXs4jAA72gXbr43Ng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فیلترشکن Aethery برای اندروید یکساعت قبل به ورژن جدید از هسته Aether بروزرسانی کرده. اپ Aether-GUI برای ویندوز هم کمی عقب‌تره و ۳ روز قبل بروزرسانی کردنش؛ البته احتمالا بزودی براش آپدیت جدیدی ارائه میدن.
 👉
 github.com/ZethRise/Aethery/releases
@@ -795,7 +795,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 
 <div class="tg-post" id="msg-2507">
 <div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oILhoYIgtPVWfX2eihw5VDIXDiZPp8kG1ThhWWpW7T5f68po8NBjTGm-e5SjdDuoje31A_ZOyqBuMsO1coQwsPWm4U6rGZGNZB3twbCOlltOxm1n8uQPwqdjhsZG_q1vWt8Zyt5qel5LXNU11S7whHBJnFlp9n0c7Lt-rOWB_m7ccqsA0UA4SgOsSUE9CIBmv2ckN-4hlgdUUGeb_wyCliMiZSO7kGqD-G3-gn17CPVEUjUhZrnIfhrnlHM3vVst8MzNDwlqsg52NKwkShFXI31olHNv8CFmYi4tHjp6mWMwKX2ncQo0QnBlMBvT-upO8Tzb0m9Sm9WHBRijnNceEA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iDS6_-_Ex0quTDETLwnUImhUdI6Fn-F9Hvz6Xoj6JJbS8C6HRVIlRVZNnt9EuQjf8gny-IJaWetN7lyCZcHYezOblXGC9B30691QdtCOLPEHW_yD5BV3h842MBhEPQ7EtCod-cOTd-NINZ8X17YpPEAxotXJK_XuoANC8r1DFXfqmqc_9ay9wXKCIZG_26GEBGHLjHE3blmuQyIO-hDoM-QE0CeOeGeEKisOgsToECXfPjNrUBKfT0bhCqnayfqmrgi2VkYvcPCRtS-Zm-CqHy45Gj196ebVg61iDH5vGtKS_5ltuor0zLcPHEfVILVhe31lenA9lsNVh63K-A3gLA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه ۱.۳ از پروژه متن‌باز و رایگان Aether منتشر شده و مهمترین تغییرش اضافه شدن حالت اسکن Ironclad هست. برخلاف حالت‌های قبلی که فقط بررسی می‌کردن یک اندپوینت در دسترسه یا نه، این حالت قبل از اینکه به یه سرور اعتماد کنه، یک تانل واقعی برقرار می‌کنه و یک درخواست HTTP از داخل اون عبور میده تا مطمئن بشه اتصال کار می‌کنه. البته این روش زمان بیشتری می‌بره، اما در عوض احتمال وصل شدن به اندپوینت‌های خراب یا ناپایدار رو تا حد زیادی از بین می‌بره.
 توی این آپدیت روند اتصال مجدد هم هوشمندتر شده؛ اگر ارتباط MASQUE یا WireGuard قطع بشه، Aether دیگه برای دور زدن فیلترینگ مستقیم سراغ اسکن کامل همه اندپوینت‌ها نمیره. اول همون اندپوینتی که چند لحظه قبل روی اون متصل بوده رو دوباره امتحان می‌کنه و فقط اگر از دسترس خارج شده باشه، اسکن جدید رو شروع می‌کنه.
 👉
@@ -807,7 +807,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/ircfspace/2507" target="_blank">📅 16:53 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/ircfspace/2507" target="_blank">📅 16:53 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2506">
@@ -822,7 +822,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/ircfspace/2506" target="_blank">📅 16:47 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/ircfspace/2506" target="_blank">📅 16:47 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2505">
@@ -853,7 +853,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2503">
 <div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QXIfAFhXQsMjMeiAL2LNj0CP5Et9YnAKkjDeioUus_8jeZIcpwPfuPyLEDkly6bhjBy_Am8n53qkLY0a3YLbxakMZQaTqu-U8BQQeUvDlJsyEnzS9dN4m7HbUL5EzoHKYgEK0pI_BKXs0-jzTTgjhbjBRDXQEpCIeeJOEWqLi1VjrjbgfDRUPkOgi82jOyNeLPSjcPmA97lUI3HLs0I2XiHQ_P9JD_DscZFcJwN6KJf6X4GzW1i00XoPUK8v0wbA6kyyniA7VsaWArbE_uBThYqM4JOpLAEVMH8Fhs3A2U3fUL8QbT9cvRSMGxx3z0FC3fxqCkzaAYfDpAgkzZ7KGA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oyCmD72Az-xyeQbbiw8HUxTtvK2DQZvTswEWyDrQgtEYXLahKU1KIEexvW5VRC6HDuzKavBFu_P0jpXmps-sjsgWM7FTx0a4vZQz7pvsFF9-U6MCwSl0qr4z53VjXDS73iZHu0fLc1ronpnmrxBuek40bhNV_wJoFR16Yu1tRCYqBHQOnWEFF4ZwbyZSC9Pgn4PfVVSchki-rg5WUMlIEwOh2ueA4amDYZzZJ5l-oaHoqjRymhpal5gnS3VR9FQFXhO6GRq30GviDSr1gHn4W-j9TuF3ht-InD6-PVL4MVhZkTous7py_2gzh46w-iMSNQMfzOgPG6R4R-Lbdcb-8g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پژوهشگران امنیتی از شناسایی یک زنجیره آسیب‌پذیری جدید با نام wp2shell در هسته وردپرس خبر دادن، که می‌تونه به مهاجمان اجازه بده بدون نیاز به احراز هویت و حتی بدون نصب هیچ افزونه‌ای، کد دلخواهشون رو روی سرور اجرا کنن.
 بدلیل شدت این آسیب‌پذیری، جزئیات فنی و کد اکسپلویت فعلاً منتشر نشده تا مدیران سایت‌ها فرصت کافی برای بروزرسانی داشته باشن. این مشکل در نسخه ۷.۰.۲ وردپرس برطرف شده و برای بسیاری از سایت‌ها بصورت خودکار در دسترس قرار گرفته.
 ©
@@ -942,7 +942,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2497">
 <div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/LBxi6-IB8VR6hf2Zt4R35Ab_NY0dtssfCmGfrY-FNzSbxki7WahcRrCP2e4-UR__GUisIEcSuHPPWsYfaGeGzmEersRnL1QudNYCrauPnCyyTWAMyxecZl8KpfiT9BytOYro_-Zhcmm9TB5PQ9mYxcPw5RWiNEXsSYRbheVPKm194PlTQnBGvm95JYrzan8TWbX1JYxQBMYo4DWe9QAKJhQGkKDHSSfrX4wph1ypOx79wMJcz7H4Vn4CmbsFikbIspNdXfnBizaSWWGwl9N4J9LgO3WaF7GmsiyT59Fep_aHaYriH0n5EnqJBHxJorMuTtk2RvG6J4n2MnWWXsgYOg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IegxckcejopnFlaT1K_fM6eiu5B05oJpoURGuM8xNfHzf35zKCHPSgWqiQNIVUTMx5JGPBcrRLe9igVFaI2RO0lWHGZ8cTtCFnP1BX3U2qvRmOAdRClmtc55BzMe0fPsxXq8kh8CkeUv1Pf9tcjCuYMzIsWP5yxWTbXv_BH9bGo0Lw0dbfu1vAjTszPz_1qk4w6FaHJClgFZ6KCAwRvKSJo4sPDV-NN3h_5KWr4gk0PnmN9srLnfIAgeuuX8yHq49O2HwHdWEzm93cC-naU8aajOdO8-aHKLlxjwSMadGBmJfhik7T-C3zmFRFJL_77SdboxIdmRFcuPsQcX32mv4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aethery یک فیلترشکن متن‌باز و رایگان برای اندروید هست، که بر پایه هسته Aether ارائه شده.
 👉
 github.com/ZethRise/Aethery/releases
@@ -1128,7 +1128,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 84.7K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 84.9K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">
@@ -1143,7 +1143,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 84.5K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 84.6K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2484">
@@ -1280,7 +1280,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/ircfspace/2477" target="_blank">📅 07:29 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/ircfspace/2477" target="_blank">📅 07:29 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2476">
@@ -1350,7 +1350,7 @@ https://github.com/rezakhosh78/SIMORGH-Scanner/releases
 
 <div class="tg-post" id="msg-2472">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XHICiOQuwtO92xC995STgrSY5_2ks4Rud_vPUX9kJlSASpz4KOoOgfGnTNphZ7mKTc0FuBKmt58vRZiAUGC7MKJx4pZn-12MbSuH56T5E204pyhLiROt8Z_0Ld-WuzdenxuT4CSArNjg5JHe3m0XuWVcziC-GP1OQOozy41tn4s0zx4iysnx4q4i4uMPpj2U1UFghnB84sGMLfNrqBwWwK72wxaSI7NDLRDvXEvOLtmsJlcMPmrDiK_W7bJMd0tKGA5tFKDfjpjjeEhMPlxm0-QqTMykgpoTH7E66v9w2vlQmChhBfyVZZzwRWcrvolXs-kegphD954B1s_pU8dUvw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GyL_9vMIZDvEPCTD8IsZFdkWbtSLGjEjOMFdmZ2W2wpjRtK_4aAMut7F1P3kKR-ehXwsTIACFJJzIoDymHInYynJzWIaxlr69jIV8puPClSuoMDwv0EkG7NBcxYHOPAyWEhNiBzLUOHEDuTs8Vmo2n57CJmAYl8xjLfSyo4oAFU7_3pYsD1-tr9EBDf_-MfTlAkaw37P8-PfU9UqTKxgflSgcNesJNff7ULA1-zEK3tLudcO98Ochf4S6236rlDVhWM3ob5YpEnEMbFeEp0WHTgGON6rcQH5NL2FYu-cORQSsrV5EAMRj9kDbYtaN92_CsheDReqVcIovFmSeENd3A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر Asha یک اپ متن‌باز و رایگان برای اندرویده، که با تمرکز روی پیدا کردن آیپی‌های تمیز و پایدار کلودفلر ساخته شده و کمک می‌کنه سریعترین و مناسب‌ترین آیپی‌هارو متناسب با شرایط شبکه پیدا کنین.
 حالت‌های مختلف اسکن، بررسی لیست دلخواه آیپی، شناسایی دیتاسنترهای قابل دسترس کلودفلر، امکان تست سرعت واقعی از طریق پروکسی و استخراج هوشمند آیپی از وبسایت‌های پشت کلودفلر، از جمله امکانات این اسکنر هستن.
 👉
@@ -1617,7 +1617,7 @@ shokhmatic
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/ircfspace/2455" target="_blank">📅 09:19 · 02 Tir 1405</a></div>
+<div class="tg-footer">👁️ 59.6K · <a href="https://t.me/ircfspace/2455" target="_blank">📅 09:19 · 02 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2454">
