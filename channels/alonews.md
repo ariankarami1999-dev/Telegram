@@ -292,20 +292,126 @@
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directمالک کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-12 23:50:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-13 01:06:27</div>
 <hr>
 
-<div class="tg-post" id="msg-139739">
+<div class="tg-post" id="msg-139750">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/78294ca69a.mp4?token=Z7x3cK7Y9fdiXNSEWG2XcZXNn4H-ofUrmyHWs63jU6RMi239BuqRAIHMjjnziwVn_H9bdBe-A_ZGgmxvo8dpln34o9OLOBokQmFqAZyJSIBuYWLNinBbJEDp-8BpWJwdc4f8KVHbyv9giJ8blQMxh-Rj6INpiGJ8bJBCzaMhIygIwW38D_DVfioJ_cdweH_Dipfw-LN7w6QOIpFzjWt_l7sHmCiNUku6rJ2ALCRRW9CIrpv2-9UsEHoXMqSs2Gx-EZSoZpSRNBIYEDSKrzttZctJVU7ai0PSfzA0BX5R5UxsfrLL1tVarA82XZkdJnfqdGYoHpjKr5rz7Opq2IQ0Vg" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/78294ca69a.mp4?token=Z7x3cK7Y9fdiXNSEWG2XcZXNn4H-ofUrmyHWs63jU6RMi239BuqRAIHMjjnziwVn_H9bdBe-A_ZGgmxvo8dpln34o9OLOBokQmFqAZyJSIBuYWLNinBbJEDp-8BpWJwdc4f8KVHbyv9giJ8blQMxh-Rj6INpiGJ8bJBCzaMhIygIwW38D_DVfioJ_cdweH_Dipfw-LN7w6QOIpFzjWt_l7sHmCiNUku6rJ2ALCRRW9CIrpv2-9UsEHoXMqSs2Gx-EZSoZpSRNBIYEDSKrzttZctJVU7ai0PSfzA0BX5R5UxsfrLL1tVarA82XZkdJnfqdGYoHpjKr5rz7Opq2IQ0Vg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+دیروز گروهی از مردم پاکستان، تجمع ضد جنگ برگزار کردن؛ اما وسط مراسم یهو یه عده، یک حمله انتحاری انجام دادن
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/alonews/139750" target="_blank">📅 00:46 · 13 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-139748">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/pGJ1COZKLuM0UlRXi9IBYKy0geD_wQUgujG2gxqm9nrRdlUNn_yAQgWBpiAWqzb-KwmhYp17jm0KqW-Fe_6biso0yY_2ea54J4Sx6Rf8RmfDMavVRYEdbwNCQoBk3NDaSz2okqiUIYRFpwA9hfjUGuJ-O5m_BTVl7iHfWD4P40qur8uwuMOkdMdLmwm07udtSWrL712pffC_S51x5Jta62ZtVx2vIcGOPwHnhjv3WjAYsCLp65E0P-Edd8CSpKBvPSDeNXtmWvlrKWZpeP0ylZF7-sB1Glq6J6ujpgQsXG5dmYnVjzM-RXYJbwXpzdBhK_Vl5niZhceXD8CVryrNNg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/WXbZ-Lupy6Lqb0Y8USPvLgc-iX40b2g5G0Pcp-0dASzAq-B9dCkEOYFR9Poa1Y2R5GCTENsSd5Hn4ajgUgadfCSXN8N1Oog0Xvxlqqh8rQ7rqklwOzAwqzNXQ-el4gvmqemmBkNysY9T4H4ulUixZmoWAE4XoCugNc9ygSdvdyEzj9cuaFo9GCS__U6zXVumHcHCSFcvn9WvA1N-DUcT8UwP019NOgPPhp6A7Jtz98XxrPrtWGyLiJ2luGkX_RsuPK5TVT0mKhBoZlt6h1ebXORUDM9anUiNC5TW0GEvRFru9jOvsmX-6NG5E_gE9pFqSAI9FBZV9MBKl0yQcnR5UQ.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">👈
+مهدی روشنی، فردی که این عکس را گرفته بود به اعدام محکوم شد.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/alonews/139748" target="_blank">📅 00:41 · 13 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-139747">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GgnDsUiTyK5c631SCpvtVFJPt8UjOZ36z12IUT8FRwnEBwVhMxWsDr53mzCtpaoBfP7_akBxUdVseHL7YY74j1N57sR0K-kAqjcgY9rEDCd5HvhigkHVfja53KmtBh8azbqoSjoQ5UROZu3TQhB8VmS4WWCRlZo1CLOTDBL_DlOjnR29Fth6UnA2omTxpfedTqsS9JN3xlRzX8myXnuhHsrGv8Sh9_QyaTW00jTGOsZxJMCDB8H_6YDWMSe5bhrAZU9P90q0lH_ZBhQ_rZUMoD1tkoPBmlGZzAUmfwi3Vc_vqYs-UarNPZjL6NXMtr22jsyF4ktGxVhplOmZ512yoQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+ترامپ: این‌ها کودکان گمشده هستند و ما هیچ کمکی از سوی شهرهای پناهگاه  (Sanctuary Cities) دریافت نمی‌کنیم
+آن‌ها حتی تمام تلاششان را می‌کنند تا این کودکان همچنان گمشده باقی بمانند!
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/alonews/139747" target="_blank">📅 00:34 · 13 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-139746">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-text">👈
+محسن رضایی: منتظر نفت ۱۵۰ دلاری طی روزهای آینده باشید!
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/alonews/139746" target="_blank">📅 00:26 · 13 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-139745">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-text">👈
+سازمان ملل: از تلاش‌ها برای توقف درگیرها میان ایران و آمریکا استقبال می‌کنیم
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/alonews/139745" target="_blank">📅 00:21 · 13 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-139744">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-text">👈
+بیانیه قطر، مصر و ترکیه: از جامعه بین‌المللی می‌خواهیم که اسرائیل را برای پایبندی به توافق آتش‌بس در نوار غزه تحت فشار قرار دهد.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/alonews/139744" target="_blank">📅 00:12 · 13 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-139743">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-text">👈
+الجزیره: ایران تعیین می‌کند چه کشتی‌هایی وارد خلیج فارس یا خارج از آن شوند
+🔴
+تهران همچنان کشتی‌هایی را که بدون اجازه‌اش حرکت می‌کنند، هدف قرار می‌دهد
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/alonews/139743" target="_blank">📅 00:03 · 13 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-139742">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-text">👈
+صمصامی، عضو کمیسیون اقتصادی: با ادامه روند فعلی تا دو ماه آینده موج جدیدی از تورم در راه است !
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/alonews/139742" target="_blank">📅 23:57 · 12 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-139741">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-text">👈
+مرندی:ایران هیچ قصدی برای مذاکره با ترامپ ندارد
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/alonews/139741" target="_blank">📅 23:53 · 12 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-139740">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/of4n9IKeJUYvPhrmGozXluRBFd7mZs0kulKoqlssgO4ZeQj_q1iSAFxxKAnOrDlzOfGgFS5dTSfItCi3tOSuZYnqnKDs8XPXH09EZYkwOu35BzbtkLfAtZrsGHYr4M4U1cvoKCOa1zbPXWuy-tPm5Fpfndfj2fnsjl9VOjlJg7fn40idKVTKerLKwfHfLE3LAMWNAHwd0mMk-zVk0jrdXXmRwA2SwApnu5h3bORAG2E52bbh6rjOtSmUuCRKsdp6P7u9V3t8RtuVpZqZToNZM5IMqtJDBkWfib4GUFpK1T8qoxfTw9z5GvJwKZD-XrBWZcwUMbIb5IUSYU-h89Q2yA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+محسن رضایی: اگر محاصره ادامه یابد، کشتی‌ها و نیروهای آمریکایی با خطرات و تلفات جدی روبرو خواهند شد. ایالات متحده باید رفتار خود را تغییر دهد - در غیر این صورت ما این را تحمل نخواهیم کرد. ما هرگز اجازه افتتاح یک کریدور دوم در تنگه هرمز را نخواهیم داد.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/alonews/139740" target="_blank">📅 23:51 · 12 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-139739">
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">👈
 الحدث: سفر عراقچی به اسلام‌آباد در آینده نزدیک انجام خواهد شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 3.08K · <a href="https://t.me/alonews/139739" target="_blank">📅 23:48 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.7K · <a href="https://t.me/alonews/139739" target="_blank">📅 23:48 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139738">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/5a02fc078e.mp4?token=jcny5qpKeuRHJMku8KSeWAAn8onBom5XYRM7SeGePyis4-vhP_VdCYiQ6dKC2CsljY5WlN-LuhsLd1Nq0YErmvxK3G8h5adtWXs_ce-wdkF-aot_PW42BBcz7O8_gnkF-O7fmtHLXAMJG7h1AgYZ-7qnTBGVU3Gnv03zjdZm_oV_ytCXco0PLMul1w5Nlkxe1yHuvlw_PtRRTWKJVOoR3r8Z8mgNe3z0J6ITPExYTke9QiXlsb3K-mtouo8I8_env4FoxGHbj6-c2GWMpelxzcWDimzyy30FZ-uMdsR9TsEfVbOt9SVn6effpvoBMISjW5h6ENfb1iWxKeilsFKH9w" type="video/mp4">
@@ -319,11 +425,11 @@
 من هیچ واکنشی از نظر تهوع ندارم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/alonews/139738" target="_blank">📅 23:46 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/alonews/139738" target="_blank">📅 23:46 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139737">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/0f0ce171f4.mp4?token=lBQbH7M9ikkAf2hegyWD7e0FNa_MNJ6HFygjIH1x64R6F1W1xDzrG2RN50k18f96yJQjus67I4ZHwQH3373HFz_t678LzaZG2gWtE_c5B05OOBM94so-vIVjnd3tONP_4s9jGGoj_-HQy3uhKaKFXCAuvVPSYVV3nbFIXWG5ISdPlQD499K0xtLsF_pjNPtt8-KT5rYrO9NNzCxBrEARnXf_WEe38RmIaUR4RciDC7To1loM2x0aazSxvAtEvG5GkCeSIX6-cdFj8geL0vs8NOR5Yb31NPHK-o18h-e04P0MT7j-Hxg6zPyfHgmSQx-xOUsRex_tJvgKbeb1cXKKLg" type="video/mp4">
@@ -337,31 +443,20 @@
 بر اساس گزارش‌های محلی، دو نفر در این حادثه کشته شدند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/alonews/139737" target="_blank">📅 23:45 · 12 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-139736">
-<div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-text">👈
-فیلد مارشال،محسن رضایی:  آماده بودیم به ۳ منطقه از اوکراین حمله کنیم، اما بعد از اینکه گفتند اشتباهی حمله کردیم، پاسخ را متوقف کردیم تا بررسی کنیم
-🔴
-البته اگر اشتباه هم باشد، ما به‌ازا دارد
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/alonews/139736" target="_blank">📅 23:42 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.7K · <a href="https://t.me/alonews/139737" target="_blank">📅 23:45 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139735">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">👈
 وزیر اقتصاد: دشمن آرزوی زمین زدن اقتصاد ایران را به گور خواهد برد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/alonews/139735" target="_blank">📅 23:27 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.7K · <a href="https://t.me/alonews/139735" target="_blank">📅 23:27 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139734">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">👈
 یک منبع بلندپایه ایرانی به المیادین: ایران هیچ مذاکره‌ای با ایالات متحده انجام نداده است
 ‏
@@ -372,43 +467,43 @@
 باز یا بسته شدن تنگه هرمز به وضعیت کلی منطقه بستگی دارد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/alonews/139734" target="_blank">📅 23:23 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/139734" target="_blank">📅 23:23 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139733">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">👈
 منابع سعودی ادعا می‌کنند: خوش‌بینی محتاطانه در مورد پیشرفت در مذاکرات ایران و آمریکا.
 🔴
 میانجیگران قبل از اعلام آتش‌بس به کمی زمان نیاز دارند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/alonews/139733" target="_blank">📅 23:20 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/139733" target="_blank">📅 23:20 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139732">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">👈
 کانال 12 اسرائیل:
 بانک اطلاعات اسراییل برای حذف سران نظام در حال تکمیل شدن است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/alonews/139732" target="_blank">📅 23:16 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/alonews/139732" target="_blank">📅 23:16 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139731">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZAr5X0utk0pymCHCCfyf4w0XHg9lXYHwgXIGGbAdgyvVkQUjYqsQ6ZTEp5CkgPiwv7RAyFfD9qAC_3dflDKqDGmUjbdP8uhiId81rBKWRM2UKRTeOdAhxmITt2OLENXJwE1ZsVNxeojVhIXYoJ4KA2vQgkGXFxdEJ3WVYd4I6nWxCPh1XQFSfV7remXVW2Bfava-usZV_KbHXwXsYVMTZYCUUOw32HCGES1yIqVkhBcptZBC8bGhPn6B9AnaYhGUW26vOUXYIS91BdmIGuM0b5HDU5p5IWBKkYUf5MXnnYkINv15T1TVLl-h6t1BQFcVLpcmPu99Ex_EzIeAf3iPLA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 قدیری ابیانه چهره نزدیک به جلیلی:
 جوون هامون باید باهم ازدواج کنن نیاز نیست حتما وسایل نو بخرید میتونید با خرید وسایل دست دوم و خونه ۲۰ متری زندگی کنید. قدیم زوج ها توی یه اتاق زندگی می‌کردن نیازی به ماشینم نیست چون قدیم ما ماشین نداشتیم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/alonews/139731" target="_blank">📅 23:12 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/alonews/139731" target="_blank">📅 23:12 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139730">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">👈
 محسن رضایی خطاب به امت معکوس:
 شرایط کنونی ما شرایط گذر به قدرت چهارم جهانی است
@@ -418,41 +513,41 @@
 نباید نقد را به سمت تخریب و اهانت بکشیم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/alonews/139730" target="_blank">📅 23:07 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/alonews/139730" target="_blank">📅 23:07 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139729">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mFco3xu7sCiWzP4oA7hiKSifte77y3O6ay19oaz9LRwtK_S8b3ZUoYgWjlfonAryzd2FBhEyEshyDvEeOOZfyutGpQz0XHt8tr3TLRQlLZnyose7QGHEujo3xOoV0btqFs9HqmfIRouiGYGmyvhm4Vwki2tCWaavpqEsOP2Uwfs_acDzX6JveS_g6sxCrG1OF722WkqgOYx0Q9qnKpf3IhVbksXBv_qvRrSZxjBtaJ7zME6PvmxgT-AplJ77H5YgZZjqsNY4ruB0FEufODViF7FbgOo1Pq2jmetefHzZgheQajRwTy-tHToFure6SY4d_UafYBKMXiBqJ1emzb3zrA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 گاردین: عاصم منیر با ونس، ویتکاف و عراقچی در تماس مستمر است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/alonews/139729" target="_blank">📅 23:00 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/alonews/139729" target="_blank">📅 23:00 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139728">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">👈
 منبع ایرانی به المیادین:
 مذاکرات ما با همسایه ابدی مان، سلطان نشین عمان در حال انجام است، به ویژه اینکه تنگه هرمز منحصراً در آب های سرزمینی دو کشور قرار دارد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/alonews/139728" target="_blank">📅 22:52 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/alonews/139728" target="_blank">📅 22:52 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139727">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">‏
 👈
 محسن رضایی: اگه آمریکا حتی یه ناو هواپیمابر هم به منطقه غیر قانونی تنگه هرمز بیاره میزنیمش
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/alonews/139727" target="_blank">📅 22:45 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/139727" target="_blank">📅 22:45 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139726">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/fc81f02b2a.mp4?token=P12c7MUDLKB7GS9_wuufoPFPcMNOwTZ-iqvqqVygrLOAiLaeZbNpbGdBpmFbUzFco6ZlQ8OQzuhXneosnsxFjl0azp3kKit_TFzBXO_-JYQv9f_4RUgRjHPFscUfTWN2d72MF12ycwTN_5dGjMTTgyD5f84xQTKF6weLOoRXzuoUOX3EkgmWmvlCqInYTHFIdeHgPQi96jDKylHRh9I1d_y0_qNhM31zVw3hJfTOhnc29GZF_cgLEa9dChy4h4DoGQItqLzGQoj_VlLcxm4AMSEnTcYRapj0H_uYcxAUl1L1cU2HD5F1PwOkh5Y5WaHyyXDROHVQ2lVbrm-81PrVoA" type="video/mp4">
@@ -466,29 +561,29 @@
 کشورهای دیگر را هم می‌خواهند وارد جنگ با ایران کنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/alonews/139726" target="_blank">📅 22:44 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/139726" target="_blank">📅 22:44 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139725">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">🔴
 فوری/ژنرال ۲ستاره محسن رضایی اتمام حجت کرد : اکنون آتش‌بسی وجود ندارد .
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/139725" target="_blank">📅 22:35 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 54.1K · <a href="https://t.me/alonews/139725" target="_blank">📅 22:35 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139724">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">👈
 ادمیرال محسن رضایی: «اجازه نخواهیم داد هیچ مسیری غیر از مسیر ایران در تنگه هرمز باز شود. حتی اگر آمریکا یک ناو هواپیمابر را به مسیر غیرقانونی تنگه هرمز بیاورد، آن را هدف قرار خواهیم داد.»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/139724" target="_blank">📅 22:35 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 54.1K · <a href="https://t.me/alonews/139724" target="_blank">📅 22:35 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139723">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/039faea8ea.mp4?token=AyYAvwybG0CuN2On0mvUuwfhTk9gkOdWckX4RySjRoP8uBmCqSi7aG2zjmE0FtuaVfwjc0TIQiEN7GAMXcM4slaSzSRnQpGX5CriKfahxgFq4r63TJwzBRBptnRtnUxdLdcpuKl1dh0DpjtH43uilN-YqKYCKLvPYVvuazCjXBIuaM4deUh-cWk3CxP-AK3L2qhQUhRsTjXUQq_jpeYpV4yFVYkm_e33R68UYEm4CoOwPErXgPSED6CrmYhQ8TZ849ypIqTSFHZ6Ff2UOHiSdph-lZFleTs0kkzD22ZaYI7AuJbe3Efw6aKZeI-IecDTthy37FZ4nw0BWxxbnKKQ2g" type="video/mp4">
@@ -503,11 +598,11 @@
 آن‌ها در هر صورت باید مابه‌ازای حمله‌شان را بپردازند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/alonews/139723" target="_blank">📅 22:30 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/alonews/139723" target="_blank">📅 22:30 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139722">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/0d49d0f727.mp4?token=Oh1UORb8ofZhHHKr3OuYUQSoD9Mss7Ow5vzbNshtWdUnYTaJLBSBAUYY2z_IV64gfHpZI5eOhsvlUJSocX_DzThSTsCzHF_ST79bHFndd_pjBGJPeDeX3lytxDC8-Q5AvmYOPl-CeM4kd5k5vzjuH2erlqSwM8jbHZOa3sok3SM6ac0KR99mlS32LAJHR1q_BNZG12zM2JEksb64BZrujEMUU5d9ob9UnrsDDsKQiTkaLBt4lQoJmnchzBV27BLq4BKPZnMt0FrvJQf2rBhivZnqljxjDx6r04cnbL-40lu1pUJ5sRZ-muNGRxjd6mLNmoUbBi7WNGlWBgGlmNeLfxW-7fHoto6nFLKHxz0T7vK5SNFfCVMSGgyBfJyPazDCZC_v007cbG11ugvF8YHG8EP9IZJYYfmSc8IaYF-BqeCc0ZGB6yVzkV2N3pfmEhLO02Nt7T5_2Ji_tEkyb-wEFZPln1kweJt-0z5bOY6WSEyB3Ak6MRRZU0kp8HARSJUv_Ps__a87kY6mF37vrlXcNAmvewjePLQ8aor9Gcsv5w2_MHxwZAKsL1bUqlBiXP8VKqiavBxqtmqtuRKFf8ytC2OGfAYRnvONy5TsuhoVAEX5u7eI_u0NQtfq7UynGM1hIT-yLXy2L9gsga1nOtVAwrgwc2-YPtsJPLQ9JsZsrrA" type="video/mp4">
@@ -523,11 +618,11 @@
 فرماندهی سنتکام از قطر، اول رفت اردن و بعد هم رفت اسرائیل
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/alonews/139722" target="_blank">📅 22:29 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139722" target="_blank">📅 22:29 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139721">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b06551d5d7.mp4?token=aKV7jFv3vxvA3EJRy-uK1dd08EyLeCmuyyJJEldcuV_c5za_ePmC6LhG6mL1uq0J5kDNmQ3gi1u2A0cb4Y3_DjOxldkwC-UAhmRw8eWChgcC4sPxXI-wLz5A6IaGfedl7N_lBZwbi_LTe5WrirdEyAC0xChOE-lJ65vBIzZQ--GRQDcEV-JoFxMSZb15rDsYb2sOZh1TMfwF1gWGO_sICt1BStV36I1uXF4N0wMmrQNinI2CUpboBkoZSYiHMUhO4Xpr7NLASxYsDuN1KTIdhssiusLNZAb9zlE9lKkIXIAfVpD-6QkzyIDgSoyFuVYMFjy2lLPClJ59Eo0mSCH_-A" type="video/mp4">
@@ -540,66 +635,66 @@
 اولش گفت رضا پهلوی مقصره که به مردم گفت برن خیابون، و بعدش گفت کشتار دی ماه کار جاسوسای موساد بوده، آخرشم گفت کسایی که کشته شدن بخاطر بالا پایین شدن هورموناشون رفته بودن خیابون.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/alonews/139721" target="_blank">📅 22:23 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/139721" target="_blank">📅 22:23 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139720">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">👈
 فیلد مارشال محسن رضایی: آمریکا برای بازکردن تنگه هرمز بنا داشت حمله زمینی انجام دهد
 🔴
 حملات به جنوب کشور با هدف حمله زمینی آمریکا به کشور انجام می‌شد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/alonews/139720" target="_blank">📅 22:20 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 54K · <a href="https://t.me/alonews/139720" target="_blank">📅 22:20 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139719">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">🔴
 فوووووووووووووووووووووووووری</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139719" target="_blank">📅 22:17 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 58.2K · <a href="https://t.me/alonews/139719" target="_blank">📅 22:17 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139718">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">🔴
 فوووووووووووووووووووووووووری</div>
-<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/139718" target="_blank">📅 22:15 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/139718" target="_blank">📅 22:15 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139717">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">👈
 ترامپ خواستار زندانی شدن عاملان افشای طرح حمله به ایران شد
 🔴
 دونالد ترامپ با «فاسد» خواندن کسانی که دست به افشای جزئیات طرح او برای حمله به ایران زده‌اند، تأکید کرد این افراد باید زندانی شوند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/139717" target="_blank">📅 22:14 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/139717" target="_blank">📅 22:14 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139716">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">👈
 ترامپ:
 آنها به پای ما افتادند و گفتند توروخدا حمله نکنید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/139716" target="_blank">📅 22:11 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/139716" target="_blank">📅 22:11 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139715">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">👈
 ترامپ: فعلا سر جمهوری اسلامی رو قطع نمیکنم و فرصت میدم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/139715" target="_blank">📅 22:08 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/139715" target="_blank">📅 22:08 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139714">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8edad057e3.mp4?token=PHS43P1CUOLHvH-eX9P8w5EEjUzpHQkvBw7MTrXCjbq-yX6HYDsC-utxHpr_C6rIh_vLAyhffOiVPNZzK9F_LARc96nOAc56Z3XjTcJ7g9Scm3UUeEEdL_1AYQdXLmhazYe0FekddfBhQSU0L7bTZ82JmO75Q_DEMlgtlYR3U913sliF5cIxAFQVEZPA7fULZiWmVZJBUYg9yiN_Nu7-HsnwbtdfIQbJpIubndYBh94Eh8fJk7ERBfynVbPeQSgviKOuHKybUBV4palc_CZfAUd5RIwqXmnCKSYJK4o8GSR1d1L6XbE_wdjBNGGPL36T6w9-22uiDufTSYXvpBJnZQ" type="video/mp4">
@@ -617,11 +712,11 @@
 او در پایان گفت: «چه کسی در چنین شرایطی تماس نمی‌گرفت؟»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139714" target="_blank">📅 22:05 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/alonews/139714" target="_blank">📅 22:05 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139713">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">👈
 ترامپ: پیش از اقدام قاطع، آخرین فرصت را به ایران می‌دهم
 🔴
@@ -630,103 +725,103 @@
 او افزود: «امیدوارم آن‌ها به خودشان بیایند.»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/139713" target="_blank">📅 22:04 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52K · <a href="https://t.me/alonews/139713" target="_blank">📅 22:04 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139712">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">🔴
 فوری / یک کشتی باری ترکیه‌ای که به سمت روسیه در حرکت بود، در دریای سیاه مورد حمله یک پهپاد انتحاری قرار گرفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/alonews/139712" target="_blank">📅 21:58 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139712" target="_blank">📅 21:58 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139711">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">👈
 ترامپ: من اروپا را بهتر از هر کسی می‌شناسم؛ حتی بهتر از کسانی که آن را اداره می‌کنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/139711" target="_blank">📅 21:57 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139711" target="_blank">📅 21:57 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139710">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">👈
 ترامپ: شرکت‌های نفتی سود بیش از حد به دست می‌آورند؛ باید بخشی از آن را به مردم بازگردانند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/139710" target="_blank">📅 21:55 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139710" target="_blank">📅 21:55 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139709">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">👈
 ترامپ: چمن مثل انسان‌هاست. آن هم زندگی دارد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/139709" target="_blank">📅 21:55 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139709" target="_blank">📅 21:55 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139708">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">👈
 ترامپ: در موضوع مهاجرت، اروپا با بحرانی جدی روبه‌رو است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/alonews/139708" target="_blank">📅 21:50 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139708" target="_blank">📅 21:50 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139707">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">👈
 ترامپ: آنها فردا اعلام خواهند کرد که تنگه هرمز باز است
 🔴
 ترامپ: تنگه هرمز به طور کامل در دست ماست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/alonews/139707" target="_blank">📅 21:50 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139707" target="_blank">📅 21:50 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139706">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">👈
 ترامپ: بریتانیا با بهره‌برداری از نفت دریای شمال می‌تواند دوباره ثروتمند شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/alonews/139706" target="_blank">📅 21:49 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139706" target="_blank">📅 21:49 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139705">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">👈
 ترامپ : من اروپا رو بهتر از هر کسی می‌شناسم؛ حتی بهتر از کسایی که خودشون دارن اداره‌ش می‌کنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/139705" target="_blank">📅 21:48 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139705" target="_blank">📅 21:48 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139704">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">👈
 ترامپ درباره عوارض‌ عبوری از تنگه هرمز: نمی‌گذارم ایران عوارض بگیرد. اگر قرار باشد کسی عوارض بگیرد، این ما هستیم که می‌گیریم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/139704" target="_blank">📅 21:48 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139704" target="_blank">📅 21:48 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139703">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">👈
 ترامپ: ما دیروز میخواستیم بزرگترین عملیات تاریخ پس از جنگ جهانی دوم را آغاز کنیم ولی منصرفمان کردند، ما در حال حاضر، بنا به درخواست ایران، و با حمایت عربستان سعودی، امارات متحده عربی، قطر و بسیاری دیگر، در حال گفتگو هستیم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/alonews/139703" target="_blank">📅 21:45 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139703" target="_blank">📅 21:45 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139702">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/7fbe9e8fc4.mp4?token=SiN55L8Cj0EUSYjdrHkoBPmboHjs43sCRTZ8_vytS4AqJS9A0DOfQrEE6BbLTSqFgxOD-jc8XIsplzXPHFPepWLpVOlvJWU7AKM4hbs2pnctEC4nqrynPT-di7afrvRXlEdQAKKPX-2FNLd7TBdX4qzUL0uJh652x2RWRGj8_Vz4U_ZJ8KZOqoFV2qHBmkjl7w7OBIPTWmCrGjDnqh2dB1GhQiNkP1tLPxO1JXjs-by8WiemEfN3Z0wIF9heOGljF0KELbsdyfFS4dI5GTv3nCgWr0gVviIPaEtFKHXjbmsUjToeOfMQHf3RfBJ7Knsi7mn04-S0Z_G-EmP3V1CXoA" type="video/mp4">
@@ -740,11 +835,11 @@
 دونالد ترامپ خطاب به پیت هگست گفت: «کارت را فوق‌العاده انجام می‌دهی.»
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/alonews/139702" target="_blank">📅 21:43 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/alonews/139702" target="_blank">📅 21:43 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139701">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3282f58089.mp4?token=RaW861BlERsiTnmQqXkxC_jbfqg6sXFVJWVAohjOoZHcU0Btkx72Ts_vCde737CuY1ilg8-FYK098uyi8ejofpXNXDLuayWqzWTCi30aIaj0UGlS1VlazivmIAI7_yVqXzJcBr-NjrjHUjNUi_7RQM6-XovLVmy8uDCghC30Ctiq-3s1zTjQcRuBC0gwV4drsAIL9_SOnVIfxKVUZpe4v8PuZJtsU9tvy65bk6TTaeeLc18Z_qZvCY_xuBfRMwEMmiDrqeP52oNtjItFIGpp_DZC7kxb9IW57ek-KnJQB75inV_bJ0_eRTuQtfKSxxuLLT6pMxkwZEmqyUbR9TRQUwBBUU9jE5aMlBUPv-BLZ05c8cn0T651u-xNwqj80u-Y3OaSXIbD0CZsNGMmpP6TfVQdqnBAH65VweAeB46RrM0T7wb7VhddTcDo2IIyZFGVskRR0-p3ObKThffsmUpnch1K3pGbsj6GIt0AgoRrpAd4RZGufQIQ29vd7upuTatTFl8WMJAmYMzNLFY7vgXuFLKmcB_kki9ew_TvVrSxRs5z_tqXqMyKrqc2cJo39ei17T5htYFdThJzuvXDrnV_NRQgHGo-XSqOcGs-uSLxG_xmFdw513yl7hMkOckOM3rVt5YB9O8XQlnkIIMomqFUOyoM1jHnVlf3ubz_zZtNcGY" type="video/mp4">
@@ -757,11 +852,11 @@
 مذاکرات در حال حاضر در جریان است. این یک اتفاق شگفت‌انگیز است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/alonews/139701" target="_blank">📅 21:42 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/alonews/139701" target="_blank">📅 21:42 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139700">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">🔴
 فوری/ترامپ: امروز یا فردا متوجه خواهید شدند که مذاکرات در چه وضعیتی قرار دارند.
 🔴
@@ -770,20 +865,20 @@
 سپس درباره ظرفیت هسته‌ای ایران صحبت خواهیم کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/alonews/139700" target="_blank">📅 21:42 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/alonews/139700" target="_blank">📅 21:42 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139699">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">👈
 ترامپ برای بار هزارم: ما دیروز قرار بود آن‌ها را به شدت مورد ضرب و شتم قرار بدیم. با قدرت بسیار زیاد. قوی‌تر از هر حمله‌ای از زمان جنگ جهانی دوم، اما به درخواست ایران و ضمانت کشور های عربی این حمله را انجام ندادیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/alonews/139699" target="_blank">📅 21:41 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/alonews/139699" target="_blank">📅 21:41 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139698">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">👈
 خبرنگار: مذاکرات با ایران الان منتفی شده است
 🔴
@@ -794,88 +889,88 @@
 اما به دلایلی، وقتی در حال مذاکره هستند، دوست ندارند بگویند که در حال مذاکره هستند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/alonews/139698" target="_blank">📅 21:38 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139698" target="_blank">📅 21:38 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139697">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">👈
 ترامپ : با ونزوئلا اختلافاتی داشتیم که به‌خوبی حلش کردیم
 🔴
 با ایران هم اختلافاتی داریم و روندش به نفع ما پیش میره؛ اوضاع خیلی خوبه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/alonews/139697" target="_blank">📅 21:33 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139697" target="_blank">📅 21:33 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139696">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">👈
 وزارت امور خارجه:
 در حال حاضر، هیچ آتش‌بسی بین ایران و ایالات متحده وجود ندارد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/alonews/139696" target="_blank">📅 21:25 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139696" target="_blank">📅 21:25 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139694">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">👈
 کانال ۱۲ اسرائیل: نتانیاهو با حضور وزیر جنگ و رئیس ستاد ارتش، یک نشست امنیتی برگزار می‌کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139694" target="_blank">📅 21:15 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139694" target="_blank">📅 21:15 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139693">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">👈
 زلنسکی، سفیر اوکراین در آمریکا را برکنار کرد
 🔴
 طبق گزارش روزنامه آنلاین کی‌یف ایندیپندنت، این اقدام در بحبوحه تغییرات اساسی در دولت اوکراین انجام شده و انتظار می‌رود چرخش گسترده‌تری برای سفرای اوکراین صورت گیرد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139693" target="_blank">📅 21:10 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139693" target="_blank">📅 21:10 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139692">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">👈
 وزیر خارجه پاکستان در تماس تلفنی با وزیر خارجه ایران و رایزنی پیرامون آخرین تحولات منطقه‌ای، از سید عباس عراقچی برای سفر به اسلام‌آباد دعوت کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139692" target="_blank">📅 21:05 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/139692" target="_blank">📅 21:05 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139691">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">👈
 وال‌استریت‌ژورنال: ترامپ دوباره در حال تلاش برای یافتن یک راه‌حل دیپلماتیک برای جلوگیری از تشدید تنش نظامی است. اما هیچ مسیر مشخصی، چه از نظر دیپلماتیک و چه از نظر نظامی، برای رساندن ترامپ به جایی که بتواند اعلام پیروزی کند، وجود ندارد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139691" target="_blank">📅 20:59 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139691" target="_blank">📅 20:59 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139690">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">👈
 رویترز: رهبران ایران معتقدند تهدید های نظامی پرزیدنت ترامپ صرفا برای تقویت جایگاه او در مذاکرات است، نه به قصد گسترش جنگ
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139690" target="_blank">📅 20:53 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/139690" target="_blank">📅 20:53 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139689">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">👈
 فرمانده نیروی زمینی سپاه:  درصورت هرگونه خطای گروهک‌های تروریستی این سرزمین را به گورستان عناصر مزدور بدل می‌کنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.2K · <a href="https://t.me/alonews/139689" target="_blank">📅 20:47 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 54.2K · <a href="https://t.me/alonews/139689" target="_blank">📅 20:47 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139687">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/d504354916.mp4?token=OPO8KTLdyqtShpzQVy8mYRHMsyIvbOGDKbKQvajfjnAb3moVWg17WLvoTm9RlOUQRkEblN3ab-uzhe5Q3ShNoRxdZRdjqHTrtOCJCPSDUYU8FtGq7RaEMYVQS63DcoAm9RMmvRkkCkWgIpI20Y1_hZrrNIyzIome1_4Xj_vtNHhzYbMs0oWfTs7RqLoLFEIz8JNRMsQD0JQLiqR9w-pttGvvo3gHyyyACJ66DLBkNgOvw3CHzdoGgW1mZXCciSPOVEtKpmj50XdLkrfNZn79od6bzMhkwJWMcp-uxt8948BkMFVRzhvqMnL7iUzD2IFy_iyVCh6Mv7QZb51JXNwxtw" type="video/mp4">
@@ -887,41 +982,41 @@
 جنگنده F-16I سفا نیروی هوایی اسرائیل در حال رها کردن فلر (شراره منحرف کننده موشک) بر فراز جنوب لبنان.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/139687" target="_blank">📅 20:43 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 54.1K · <a href="https://t.me/alonews/139687" target="_blank">📅 20:43 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139686">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rJIivVg_C-Jd2XzavI6gQVS81J6o0gbu9Dq0NxjFZT4e3MQZ2XnzAv823RjA7dG39iy04lZW1wXMNWRv4i1XqJW_9CM4cz5pEV7C2YacGB1PabDaLSco1SgI0VvyaoqW0ueO7QzBScpY48XkyD9MRrqwayDnB7v4yuI7wJ_Bbhe3rqVmAaawHVPXWJU1Qb7aXtouRs4UNkIiED1ElClAZAJsf-5gfqtHJzmY_wVg5c6Mo2-qonZpdJcKLHGHs4uRKbn0q7oVWW8J_8GBVTdAYlPjzA88oYB6jjBWexjMN2g_nNggUtN88Jp1I-9iCllrWojDdSY0h_kiEg-b95bYJQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 پست جدید ترامپ
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/alonews/139686" target="_blank">📅 20:33 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139686" target="_blank">📅 20:33 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139685">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">👈
 شبکه CBS : یک مقام آمریکایی اعلام کرد علی رغم ادعاهای ترامپ هیچگونه برنامه ریزی برای مذاکره با مقامات ایرانی وجود نداره
 🔴
 تماس ها صرفا از طریق واسطه ها جریان داره
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139685" target="_blank">📅 20:22 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139685" target="_blank">📅 20:22 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139684">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">👈
 فرماندهی مرکزی ایالات متحده (سنتکام): به اعمال شدید محاصره دریایی علیه ایران ادامه می‌دهیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/139684" target="_blank">📅 20:19 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/alonews/139684" target="_blank">📅 20:19 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139683">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/2fc718d54a.mp4?token=VKmwM1cgEy9tn8I6LnFq_xz3F8pK6ba4il-X33FeQLorGxKAUdSWhB5hi4QPqwSiWyiUAFEHsI7zg3OQ4xZAPQZMXFCm-acuRIWfvYZWFQSREIX5YI_6EnMZ9woEXqXTSsp2VSwiuj8MBkWnfsrdtuiP2FYenkCuf_Pv-6GaTckDviDAtfTQdp8i9fMxOOb_Q1gbTCs1rgWB1ZrsLHbkj5sAJuEenOj24PwfSIuO4bXMl7Xx1NX82RmRpb6NcRgCotkfCz_pOshhotFYY_zb9-17rbQKNjd66sc1ePqrD9AtKe8ifVnkJfcbPaJ5rFu15dr1LduGW9-eNEBo7FK43Q" type="video/mp4">
@@ -937,20 +1032,20 @@
 ۲ کشتی رو برای بررسی و اطمینان از رعایت قوانین، سوار شدیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/139683" target="_blank">📅 20:18 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53.2K · <a href="https://t.me/alonews/139683" target="_blank">📅 20:18 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139682">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">👈
 فارس: عاقبت مذاکره با آمریکای ترامپ بن‌بست است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/139682" target="_blank">📅 20:18 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.1K · <a href="https://t.me/alonews/139682" target="_blank">📅 20:18 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139681">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/e0ae581f7d.mp4?token=m9zBWtMKByyoIJJortPmzoTbYce07T9ixbwmVGgQ-jNv86O4ClgKp4AZ3cPJs-lw3LU3zIeOF9l0gIjcMLhgfQjkJxtMNGtVl3CGjZD7yCxzIreZ1VdV8WyCHYBgN3GKAeFL4kh6vv4-f0NNAWEfUKU_iY8BojNtuzXXwE3h_VJp9wsIWfje3TDKpx-eoRvqbdtHUAMn8sACEK_kBWJzg-YvLGhpAE0jytBqgJkWaBBJlqpxh_xfPckGqf7ZOljc49Bn-QIcVvm64ncCTnw-xTZuNKthA-sGBF2_nI6Vp2RTuMiZyImYAVsPS6cTJarmGt54zD_f1K0WHCwocUml0Q" type="video/mp4">
@@ -962,20 +1057,20 @@
 ف-۱۶ اوکراین یک پهپاد انتحاری روسی «گران-۲» رو با توپ خودش سرنگون کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.1K · <a href="https://t.me/alonews/139681" target="_blank">📅 20:10 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139681" target="_blank">📅 20:10 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139680">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">👈
 اسرائیل برنامه صلح غزه را رد کرده و همچنان به حملاتش علیه غزه ادامه خواهد داد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/139680" target="_blank">📅 20:06 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/alonews/139680" target="_blank">📅 20:06 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139679">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c17c460e34.mp4?token=IVqPNUSdAQ8UnPD_Od8OepRq5E0WuT1-puiVh271iNfJIEIN3fq_tdA1yxN8QSFLZj8qG9B2NYli2Kepy-9O4czlQb2pTN94qetifxR8r_XgPAcMeEDV3Ef65Dj_8G29MCtifiea7mI0EF49dH26EYXkqESTuBEIQMVfJTxc8ZtwLdi3fhGfIWDh_C9RpCBVjtBH2RcYcBD6S3SvfkhcJ0-eNxT1os_10MgD8fwdRUUsTBXFe78BLZu4ZuTXg2kMUcbLHUllWcxVTsAW3e6RwRxHxoZtXGjDX4LtVxYLxKK1u7ZOeKoq0bDJFnVC6Uun9H1HKk0nl9Fp_kypSD4Uvg" type="video/mp4">
@@ -992,107 +1087,107 @@
 این توافق نباید به عجله تصویب شود. این توافق باید به کنگره ارجاع داده شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.1K · <a href="https://t.me/alonews/139679" target="_blank">📅 19:59 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139679" target="_blank">📅 19:59 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139678">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">👈
 ترامپ: ایران هرگز سلاح هسته‌ای نخواهد داشت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139678" target="_blank">📅 19:58 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.1K · <a href="https://t.me/alonews/139678" target="_blank">📅 19:58 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139677">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">‏
 👈
 سید محمدباقر خرازی: رهبری گفتند اگر آقای پزشکیان یک بار دیگر استعفا کند، استعفایش را می‌پذیرم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/alonews/139677" target="_blank">📅 19:54 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 56.2K · <a href="https://t.me/alonews/139677" target="_blank">📅 19:54 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139676">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">👈
 رویترز: ذخایر نفت در آمریکا به پایین‌ترین سطح از سال ۱۹۸۳ رسیده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.1K · <a href="https://t.me/alonews/139676" target="_blank">📅 19:48 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139676" target="_blank">📅 19:48 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139675">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">👈
 ترامپ: ایران درخواست مذاکره می‌کند و سپس ادعاهای همیشگی خود مبنی بر کنترل اجباری تنگه هرمز را تکرار می‌کند
 🔴
 ترامپ رئیس‌جمهور آمریکا مدعی شد که رهبران ایران به طرز باورنکردی فریبکار هستند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139675" target="_blank">📅 19:45 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139675" target="_blank">📅 19:45 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139674">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vVy9vqrepPYnREBAn7d4OFmDlasCHPQk6Q2FYjlPwUR2Hv8-pshlHXQAF7XksDwwFklORVxLVIqcdi3DNV68HdWXj1y52Yb9fghf6JfY1W9J8JJf5X1DpZ-DG6twxXkZ6_QlbShnM-wpI932FB0oAyzSfktXaOGqDOlUFD3z6airWZoKv4rv-KOsqR6x6KXdDacFAW_MIWIo_T_jthMZgRgjZkjlIG2jeXIQQqeM5WP2I0EleEOBu2N3RpRvpfG14_tXe0JK8UJZnysiv1DNHqxcyd1tHkALD9wu4fep4KOhQaqXdgIMVx1l4Z7KlSVjRSSV-kGamLIBfc230qD9fQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 ثابتی: یا مرگ یا سرزمین مادری
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/139674" target="_blank">📅 19:38 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53.2K · <a href="https://t.me/alonews/139674" target="_blank">📅 19:38 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139673">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">👈
 ترامپ: هیچ چیز به ایران نمی‌رسد مگر اینکه یک توافق حاصل شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139673" target="_blank">📅 19:37 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/139673" target="_blank">📅 19:37 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139672">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">👈
 العربيه: پاکستان به گزارش‌ها میزبان وزیر امور خارجه عباس عراقچی خواهد بود تا در مورد مذاکرات احتمالی با ایالات متحده گفتگو کند، پس از اینکه مقامات پاکستانی اعلام کردند که هنوز هیچ جلسه‌ای برنامه‌ریزی نشده است.
 ✅
 @AloNewa</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139672" target="_blank">📅 19:33 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139672" target="_blank">📅 19:33 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139671">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">👈
 العربيه: پاکستان به گزارش‌ها میزبان وزیر امور خارجه عباس عراقچی خواهد بود تا در مورد مذاکرات احتمالی با ایالات متحده گفتگو کند، پس از اینکه مقامات پاکستانی اعلام کردند که هنوز هیچ جلسه‌ای برنامه‌ریزی نشده است.
 ✅
 @AloNewa</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139671" target="_blank">📅 19:27 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139671" target="_blank">📅 19:27 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139670">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nqBMffw9NsGN5JtPxXaZxi2YVgZrVXhBghCAgKEbJIkfSNu2OMcxxulrvLrHmnifWEjCO4lIr5PdCIMeMw8R-bFej8sUkx1Hy0M5GM7Bc0n4E_2kbrKOX-5eWqC1QeGgi4iUcIUKZeyD4kjoiL37BYvU4AEuU4iuQD0FzWQB2lf6ezhTT3Wb_n_8-7J8pGuz9bzg0dRMfu3EaSxIh_S6yEZuKmE-taXMfKKNB-grBzdEzV-2srPle7m00AhJVIdpcnHh9LnWLo8txcX_zL1pF6Cm2xhukBlwT1C4rESoBZeWWGqS9rg0ODNaxqceLVfixiATaCEX0Y_AgjGIdLD95w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 یک فروند هواپیمای نظارتی E-3G Sentry متعلق به نیروی هوایی ایالات متحده در حال پرواز در نزدیکی تنگه هرمز بود و احتمالاً علاوه بر ردیابی کشتی‌های تجاری و کشتی‌های متعلق به نیروی دریایی سپاه پاسداران انقلاب اسلامی، به دنبال پرتاب احتمالی موشک‌های کروز ضدکشویی توسط نیروی دریایی سپاه پاسداران بود.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139670" target="_blank">📅 19:15 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 54.1K · <a href="https://t.me/alonews/139670" target="_blank">📅 19:15 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139669">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IXQtQW9JF55Pq2ZZYzOeTeTIityFN1xDzqkNPaBjuhsmCbEy1sOqp-OEysv6QNo5AUp0A12b-naEcNcLinlnvj7NDEpD-skO7UFiLk9vski6Of7HazPfSckSfR6tHxi3YUNXYji6vRpj2xHKuHZM75I_1F_mohBNk549prpMWSR3xxzAsndX58XmV7W9gLk13x2bADSHx3w5U-tFaallko1EUTjPDt_jxWR_6xfDk7D9ry-z4NWtIg3w-AiEIQCJvb9rDNp3Fecl54R-2FLYoEgMwID9mdS41FHGMUzvjnfGWn8s_0yLKK33Kq2cY4keqKG-hIOsEFEmjXOXs_SU1g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 لیدینگ ریپورت : دانشمندا اعلام کردن تنها راه نجات کره زمین اینه که جمعیتش از ۸ میلیارد نفر نصف بشه و به ۴ میلیارد نفر کاهش پیدا کنه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139669" target="_blank">📅 19:12 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139669" target="_blank">📅 19:12 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139668">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/q8oNMfmWnMPxPvFVAbJQJXsrid-8B-kEgy1GwUqEgzpcxub9KHWkbD5dAuLSoXeEsyKmW182JSMWFA2J6vEnr2g0IguBvun1JP0pDICfRrOSLUJDdK5JnJIIeKLsIciHF8F_-vsEl9cQ5g448e6j0fbhhYjyIHJc4b8TMwKSDVPbPwiq611VDTIyh8zKqxCW59YXmz66Kaj2ZW_ywh3R1fVS4RtsIUA1DshuYTWF4zhS7ytEIlqHi49Zh2665Rpa-XcOTxvDOr79VhDNco2kVi4tMSYGU8Zc8HKUWef0aScKQECunVPGW7elvG1OnkSuGUkUodSDF42o1PfBCdiOFg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 ترامپ در تروث سوشال: رهبران ایران به طرز باورنکردنی‌ای دو رو و ریاکارن! از یه طرف درخواست جلسه می‌کنن، بعضیا حتی می‌گن «التماس» می‌کنن، مذاکرات شروع می‌شه و قرارهای بعدی هم برای همین روزهای نزدیک هماهنگ می‌شه؛ اما همزمان جلوی دوربین با افتخار می‌گن اصلاً هیچ مذاکره‌ای در کار نیست، هیچ صحبتی انجام نشده و فقط با «عمان» طرف هستن.
@@ -1109,21 +1204,21 @@
 از توجه شما به این موضوع سپاسگزارم پرزیدنت دونالد جی ترامپ
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139668" target="_blank">📅 19:07 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/alonews/139668" target="_blank">📅 19:07 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139667">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f4xDPIngBm7kEvYhWpXPfSimaWtY22PzdV8MGqEOJpBYqMdtg4B3MtRXfyV1EVFZGqWTQ_1B7qUaAzN3iM1x0o6fJrpKjwHsVmCnslhLEGIFwkvTDjAK6HDPSMcoJ9G34gQVnPCnkpPz_nmNH7y3_4tIRz0ntg71HOBb8mCzWB_cLU5cCnac6NSYZA5TGzwRFGPrb33zVu7MDXwfX2FFDrkfo2QJPByMLyUjm0Oz-SUoTYvQa7qyhEDlYMTgUuxbt1I56KRuHZHFbGJw2Meoz5o6BqKPzykRGl_ICbljQb_P0oh2IDntfhIKst4Uw47KoGj99qkVIf2GR8in1rgj-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 سنتکام توییتی را منتشر کرد که در آن از اعزام لشگر هوابرد چترباز های آمریکایی به خاورمیانه و تصویری از تمرین این نیرو ها خبر می دهد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139667" target="_blank">📅 18:59 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139667" target="_blank">📅 18:59 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139666">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/76554f0287.mp4?token=ULqGzdgc22V2cehI3Wo2L2-hYbtbAMzqGJylG3TMyWZPk51Ydj0-uqi7W3sNNXo6AtguCA5JQJwv3Wx5-oN7TKYiPbXbG4CWLogE4k_6ZpcGMJMwzrKjaEQtNm5eWGvETzSTXrZyatAV1fpa3Nik3zcvAnCEsFWFiUi9xry1hdvdTuHAl3ED7EZ0FRVIzDsYPXucYKex7Rym3ACFH2mP_PjycbXPIRYcBrtVbtOggYlpJpVcJgRON08Ayb8TMhtJA2hyqyfcq8WwZR2zMv-aRH8RfCX3kU6MEFEIDCaqjtwaIQv5TtjIe_f9DZFUg8jAZ09lzai1fw6NdI22oDSMMA" type="video/mp4">
@@ -1135,11 +1230,11 @@
 ادعای نتانیاهو: اکثریت قاطع مردم ایران شیفتهٔ اسرائیل هستند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139666" target="_blank">📅 18:49 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139666" target="_blank">📅 18:49 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139665">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/fdd46c3368.mp4?token=Rx9CCUkyNs6UpJfC-u8IloZhGWEKfhMJMmzlFEuFBSOdSoP4ynQrLsAEwtDzakRaETgpNiMpz2X5OKx7oKRAHGc626svGwa_5UT6liM_ce5iNx61TP6vHBc3EwRq23yWF4KiEZK5iU4Ptwrobkf4t4Empv6_DPXHU1S40LByVJrTZh_mvTmj7uESMvMkl1FgslCYXTzTPJWgdV4FQAz4KSGnLztIOfNtwtSjdP_jzUD_aP86x-QrAh0jiSxsFLYIp6bICTxCKepaR4kM3nrMwuxnH5O9RZtWHXJ0DYjULfKSmVbgwJtxRXov2VzKFvdzOzvtURjWG0qjJlrc5aVS8Fgr1Lj_RsGkuT-9oDEuVVRuMUw4aZR9mssdhh5h49pDOXrShjc5682mjdj0A8ZKq3U0sjTP4038RIUqzPCKIUL6VjEenzDifETsequUNGq8stWBoAoxCIbXzBi8k87qK_fybTh3pARu2P26frXNjFSyuSRS5pp5qhBdIm9s_9RDNvTfRH_VhqeFl3PUb65DuptHwlTGDXygbjuRMXO_Za3oJhBXkN4w-mNDAf34I-XMULpDDu3dllUCXJnLnKTFVXpDwlZgu4vaIM4X5ZEBEUoqPGnRqcHDV94SnJWjCoUXPDZejUmfHfc8BLHRV_AhoVBQJm5i6n_T0Hj1J_2lpwI" type="video/mp4">
@@ -1155,20 +1250,20 @@
 چرا شلیک نکرده‌اند؟ زیرا می‌دانند که ما می‌توانیم آن‌ها را آن‌قدر شدید بزنیم که بازدارنده باشیم. اگر به ما حمله کنند، ضربه‌ای بسیار شدید را تحمل خواهند کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139665" target="_blank">📅 18:49 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139665" target="_blank">📅 18:49 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139664">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">👈
 نتانیاهو: ایران به‌شدت آسیب دیده است؛ اگر حمله کند، ضربه‌ای بسیار سنگین دریافت خواهد کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/139664" target="_blank">📅 18:45 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139664" target="_blank">📅 18:45 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139663">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">👈
 نتانیاهو: یک کمپین سازماندهی شده با کمک مالی بزرگ وجود دارد تا اسرائیل را در شبکه های اجتماعی بی اعتبار کند.
 ما باید با این کمپین مقابله کنیم و آن را شکست دهیم.
@@ -1176,11 +1271,11 @@
 من فکر می کنم محاسبات ترامپ بر این اساس است که نمی خواهد اقتصاد جهانی فروبپاشد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139663" target="_blank">📅 18:45 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139663" target="_blank">📅 18:45 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139662">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">👈
 نتانیاهو: در دو جا نمی توان زندگی کرد: در کره شمالی و در غزه.
 🔴
@@ -1190,92 +1285,92 @@
 ما در حال تبدیل شدن به دومین قدرت هوش مصنوعی در دنیا هم هستیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139662" target="_blank">📅 18:40 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139662" target="_blank">📅 18:40 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139661">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">👈
 نتانیاهو: من قصد دارم شرکای جدیدی داشته باشیم. برای همین هست که من به شدت در هند سرمایه گذاری کرده ام و نارندرا دوست خوب من است و ما در هند بسیار محبوبیت داریم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139661" target="_blank">📅 18:39 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139661" target="_blank">📅 18:39 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139660">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">👈
 نتانیاهو: من دوست دارم نیروی هوایی خودمان را توسعه بدیم. فولادین ترین نیرو هوایی ممکن برای آینده. چون ما نمی دونیم کمک هایی که دریافت می کنیم قراره تا چقدر ادامه پیدا کنه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139660" target="_blank">📅 18:34 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139660" target="_blank">📅 18:34 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139659">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">👈
 گفت‌وگوی تلفنی وزرای خارجه ایران و عمان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139659" target="_blank">📅 18:30 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139659" target="_blank">📅 18:30 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139658">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">👈
 منابع دیپلماتیک به شبکه الحدث: پاکستان در تدارک ارسال دعوت‌نامه‌های رسمی برای قالیباف و عراقچی به‌منظور بررسی ازسرگیری مذاکرات است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139658" target="_blank">📅 18:26 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/139658" target="_blank">📅 18:26 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139657">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">👈
 روزنامه کیهان: اگه به نیروگاه‌های ما حمله کنن، خدمات کاهش پیدا میکنه و کاملا قطع نمیشه ولی ما توی نصف روز کل کشورهای حاشیه خلیج فارس رو با موشکامون وارد وضعیت بحرانی میکنیم و در آخر آمریکا مجبور میشه کاملا از خاورمیانه خارج بشه!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139657" target="_blank">📅 18:24 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139657" target="_blank">📅 18:24 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139656">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">👈
 ایلان ماسک : تا یک سال دیگر نابینا ها با نورالینک خواهند دید!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139656" target="_blank">📅 18:21 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/139656" target="_blank">📅 18:21 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139655">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">👈
 وزارت خارجه پاکستان: وزیر خارجه این کشور در گفتگو با همسایه‌ (همتای) ایرانی خود، تحولات منطقه‌ای و بین‌المللی را بررسی کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139655" target="_blank">📅 18:16 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/139655" target="_blank">📅 18:16 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139654">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">👈
 وزارت خارجه پاکستان: وزیر امور خارجه از عراقچی دعوت کرد در کوتاه‌ترین زمان ممکن به پاکستان سفر کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139654" target="_blank">📅 18:13 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/139654" target="_blank">📅 18:13 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139653">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">👈
 سوئیس: با ایران و آمریکا در خصوص مذاکرات احتمالی در تماسیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139653" target="_blank">📅 18:12 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139653" target="_blank">📅 18:12 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139652">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B4FoIdCHhEn2E8-lwd6XJUze-xCaH149zD-3IG501AaX9rsqm60CVBf57gNfuZxnstznsXZSYkpmlZvNAZ3CDGpovM6KsJHbFATCuYbUcWKQtaxa6Y4fi1wKTaDrinCN_EB8h3zFjSxJC6KItLHAWset51ovfgnbnSrNl8Yryo9r40heMoHXWS3XXjevKsh3-dRyY3q44luzTItGV3U-plslFkxb4onU1D-cPjV5msrJR4TdKSX_Haxpfkn0dq-yv-BBfHkOa2uivvCJrYW6hJwP5Fs7DfGqnqIZVjT4Dte0CZFhocrZoHNRyb-k51tQr9Fx9HDcyCK9Q94YRauLJA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 سفیر آمریکا در ناتو: در حال حاضر ما دیپلماسی و مذاکره را انتخاب می‌کنیم
@@ -1285,28 +1380,28 @@
 در حال حاضر ما دیپلماسی و مذاکره را انتخاب می‌کنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139652" target="_blank">📅 18:09 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139652" target="_blank">📅 18:09 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139651">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">🔴
 فوری / آناتولی به نقل از منابع دولت پاکستان:دطبق پیشنهاد، تهران تنگه هرمز را باز خواهد کرد و واشنگتن نیز محاصره را لغو خواهد کرد
 🔴
 وزیر کشور پاکستان، قرار است «طی یک یا دو روز آینده» به تهران سفر کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/139651" target="_blank">📅 18:04 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139651" target="_blank">📅 18:04 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139650">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/b9f2b33055.mp4?token=RXAvqyfv1cKqFVH40KzPThEKI7jhepbyHzorm14mZ0o1CI9RYhQYh8r0LfbWzMXYjepp4bxgxwDVYd2UKDerBIxUZk0dDPIXKZnld_W5sOzyu4UDcvFWHao7Z4j2EKus-9AEq6dIjNqABCteJhkFXhgXyQJ6z9SCH2wk-rSU6BGFIy4oqlvjeFOT8Bi5yDlAZQcX4H195iKys9e9hirnxue3v5nAJO5KdrpvYtr0WVt-oQLNP3GSQf7R1jpExv_oMOAx50Pg3b0KZHRZAToP9mkqPysmbxebL0ZwV2Ag5jJ9PDDYGL3FvukJ38msGIWRhZh4tXANl_7T-imtqwCYihIBvSdIKnG8NUhI5W5j1UsBGIdMFj3LjgQXY_Cfi8Q9RfY8RKi1Otoxetj45Uj85pOZ-UsWFrJ-wtnYph8EazrrqYaVoWBv0n2b_IZHBUzr63SxFa5wN5BffaR1333oj_m99DRk_E-17YMb4RMC_6CMbBupD8weGU0V9cnnhz4kIoqlWifrvYPXCqD_9Q4gjQvfxos7EmKLuV6ykOZQALdDdtvRiREYa6Z7it9ku5zetb8FWUlKNZPXJY_beoNR7yYkeNNcV70AKZF_gjNUbjGJYRixnU7bX-HY9s31-pb1KQ_r0_lZqrDDgw2J-afQPYadVoe9oevbhscuv6KYBEA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/b9f2b33055.mp4?token=RXAvqyfv1cKqFVH40KzPThEKI7jhepbyHzorm14mZ0o1CI9RYhQYh8r0LfbWzMXYjepp4bxgxwDVYd2UKDerBIxUZk0dDPIXKZnld_W5sOzyu4UDcvFWHao7Z4j2EKus-9AEq6dIjNqABCteJhkFXhgXyQJ6z9SCH2wk-rSU6BGFIy4oqlvjeFOT8Bi5yDlAZQcX4H195iKys9e9hirnxue3v5nAJO5KdrpvYtr0WVt-oQLNP3GSQf7R1jpExv_oMOAx50Pg3b0KZHRZAToP9mkqPysmbxebL0ZwV2Ag5jJ9PDDYGL3FvukJ38msGIWRhZh4tXANl_7T-imtqwCYiqKIgsHmin-f3rGIIQanxRjzo4uWnhwhMfsEXcDKfq6NpPPCK2-EhcvGO3hp3U7FcxY-POjNc5qChz8YHBDANcEdBOsjIO7Z7yv5tX68CwskZYeyt6KdERLXxTv49uHMs2XiZ00iua3JEKQQWMDu1500BQOFRHRwboo4KL2MYNca-3X-2rZLxHeYFNiSsdxiGhlS9egzBgcfojKA9rBsunLAKZJx5b-OcUo3DamZRhW_9zJTOJYoeIPU1mLFzM2UNiRi1CfXWiFg_pxaqNBmtgtcqdDz29NBsJAllooiVcJ-ki7E1iIno-LjPgkt3u5SFgXewfxaPX6QHnKsEGOdu7w" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/b9f2b33055.mp4?token=RXAvqyfv1cKqFVH40KzPThEKI7jhepbyHzorm14mZ0o1CI9RYhQYh8r0LfbWzMXYjepp4bxgxwDVYd2UKDerBIxUZk0dDPIXKZnld_W5sOzyu4UDcvFWHao7Z4j2EKus-9AEq6dIjNqABCteJhkFXhgXyQJ6z9SCH2wk-rSU6BGFIy4oqlvjeFOT8Bi5yDlAZQcX4H195iKys9e9hirnxue3v5nAJO5KdrpvYtr0WVt-oQLNP3GSQf7R1jpExv_oMOAx50Pg3b0KZHRZAToP9mkqPysmbxebL0ZwV2Ag5jJ9PDDYGL3FvukJ38msGIWRhZh4tXANl_7T-imtqwCYihIBvSdIKnG8NUhI5W5j1UsBGIdMFj3LjgQXY_Cfi8Q9RfY8RKi1Otoxetj45Uj85pOZ-UsWFrJ-wtnYph8EazrrqYaVoWBv0n2b_IZHBUzr63SxFa5wN5BffaR1333oj_m99DRk_E-17YMb4RMC_6CMbBupD8weGU0V9cnnhz4kIoqlWifrvYPXCqD_9Q4gjQvfxos7EmKLuV6ykOZQALdDdtvRiREYa6Z7it9ku5zetb8FWUlKNZPXJY_beoNR7yYkeNNcV70AKZF_gjNUbjGJYRixnU7bX-HY9s31-pb1KQ_r0_lZqrDDgw2J-afQPYadVoe9oevbhscuv6KYBEA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/b9f2b33055.mp4?token=RXAvqyfv1cKqFVH40KzPThEKI7jhepbyHzorm14mZ0o1CI9RYhQYh8r0LfbWzMXYjepp4bxgxwDVYd2UKDerBIxUZk0dDPIXKZnld_W5sOzyu4UDcvFWHao7Z4j2EKus-9AEq6dIjNqABCteJhkFXhgXyQJ6z9SCH2wk-rSU6BGFIy4oqlvjeFOT8Bi5yDlAZQcX4H195iKys9e9hirnxue3v5nAJO5KdrpvYtr0WVt-oQLNP3GSQf7R1jpExv_oMOAx50Pg3b0KZHRZAToP9mkqPysmbxebL0ZwV2Ag5jJ9PDDYGL3FvukJ38msGIWRhZh4tXANl_7T-imtqwCYiqKIgsHmin-f3rGIIQanxRjzo4uWnhwhMfsEXcDKfq6NpPPCK2-EhcvGO3hp3U7FcxY-POjNc5qChz8YHBDANcEdBOsjIO7Z7yv5tX68CwskZYeyt6KdERLXxTv49uHMs2XiZ00iua3JEKQQWMDu1500BQOFRHRwboo4KL2MYNca-3X-2rZLxHeYFNiSsdxiGhlS9egzBgcfojKA9rBsunLAKZJx5b-OcUo3DamZRhW_9zJTOJYoeIPU1mLFzM2UNiRi1CfXWiFg_pxaqNBmtgtcqdDz29NBsJAllooiVcJ-ki7E1iIno-LjPgkt3u5SFgXewfxaPX6QHnKsEGOdu7w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👈
 زلنسکی : ما می‌دونیم پوتین دنبال طولانی کردن جنگه و برای بسیج نیرو و حملات جدید آماده می‌شه
@@ -1316,136 +1411,34 @@
 ما اهداف واقعی روسیه رو می‌بینیم، متحدانمون رو کنار هم نگه می‌داریم و فشار روی روسیه رو بیشتر می‌کنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139650" target="_blank">📅 18:02 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139650" target="_blank">📅 18:02 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139649">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">👈
 گزارش ها از شنیده شدن صدای انفجار در دبی امارات
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/139649" target="_blank">📅 17:57 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/139649" target="_blank">📅 17:57 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139648">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">👈
 گزارش ها از شنیده شدن صدای انفجار در دبی امارات
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139648" target="_blank">📅 17:45 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139648" target="_blank">📅 17:45 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-139647">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">👈
 آکسیوس به نقل از یک مطلع: نماینده ارشد شورای صلح و مشاور این شورا امروز با نتانیاهو دیدار کرده و به او ابلاغ کردند که باید حملات به غزه متوقف شود.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/139647" target="_blank">📅 17:41 · 12 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-139646">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-text">👈
-آناتولی: منابع از تصمیم محسن نقوی، وزیر کشور پاکستان، برای سفر به ایران ظرف «یک یا دو روز آینده» خبر داده‌اند.
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139646" target="_blank">📅 17:38 · 12 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-139645">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/He5_QH6KwS4iAyXNzz5-_SVoDnn7x0r--6yFfdaTnfn-F92lX8tqwpIN3vIxzsg0ytpePynE7ioxbjVigKyd_JRn1yLONeEzMuZMhGJpayxA_m9kjZVOhEyvnVgrYebEqkZNmXc24RrRHJGJc6ly9OdA-9QGw_naDZV-SomHMcpucHMJKo9CBjQsR1tkeZnlmue1XktxhxIIAxgXX0IvYMbPl7Xk2n_y_PQmXlX_iji3sv6ulI3COXlchwldMg_RXWsn00OQfZJe7C77ddsmaBbmtLPt400y1XYDvo93tOeOH9vWak_Ad_KTnRTZ3V-sxOgHDhejucy2hw-TgwhGrg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">👈
-ترامپ عکس خودشو کنار جورج واشنگتن و آبراهام لینکلن منتشر کرد
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/139645" target="_blank">📅 17:35 · 12 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-139644">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a9F6jQBwjNpMOYeLJQzft1LxmqK4YJllt3LdLWwKj9DIdxw_jVntwy6hw3CN5p7iwfueLlLG_fwp2Epe8DSXoKY_heUrVYtwx9r-vxM1giGERVUk6Jl4u1EVFw_aIBLXDs7sLpVhnuOl9B84c44_ajo_5U2EzpnDbCbG7qa4JWEqzkBwdxlTRNOX63RZI6nXy48nlohZiTYE2Og2jTPuujL0G08QzJ_fBvpx_FABsoTGoC8jl5IcX8CqP1nMQ_8_eC2EHJPw5xylMc3ABjIGpdYubXzHsPKcvRCfe_h80a7UihbnjFyMVxdT0FsBi4bAt_u3yhy2tz0ExpgbjIt4fA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">👈
-‏ترامپ
-:
-شرکت‌های نفتی، قیمت نفت رو برای مصرف‌کنند‌ها پایین بیارید، همین حالا!
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/139644" target="_blank">📅 17:34 · 12 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-139643">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-text">👈
-فارن پالیسی: حمله زمینی گسترده به ایران بعید است، اما عملیات محدود همچنان روی میز است
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/alonews/139643" target="_blank">📅 17:33 · 12 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-139642">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-text">👈
-روزنامه نیویورک پست گزارش داد جیانی اینفانتینو، رئیس فیفا، همزمان با افزایش فشارها برای کناره‌گیری، در پی جلب حمایت دولت دونالد ترامپ است.
-🔴
-بر اساس این گزارش، اینفانتینو دیدارهای خصوصی با مارکو روبیو، وزیر خارجه آمریکا، برگزار کرده و یک منبع مدعی شده است که این گفت‌وگوها «بیشتر درباره حفظ موقعیت شغلی اوست تا دیپلماسی فوتبال»
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/alonews/139642" target="_blank">📅 17:29 · 12 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-139641">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-text">👈
-عارف: برنامه‌ای برای قطع اینترنت در صورت بروز تنش یا جنگ وجود ندارد
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/alonews/139641" target="_blank">📅 17:26 · 12 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-139640">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g06FrT95fhlK62FjA16x5D0hzoCQbqoTHxseR3L3QbyaSrBZS9MtSfMzF7w0-4xK6g2ClAhKRgpOX_0muIkr07BfcQX8Xv7P6MU3fE0Ps_v8vcW5pM2MtUChy-FVKcujkbSTJH-4ZgoZMM9-XPBgCDwrg7QHfUiP8Sf69qIGGiNyvib-mzDmHLubN77j11SYgSR9kl6i68XBCW-_uvHd1WRYH93rLvU3NBfqJM8ycuBSbNhCzKl791fGofs-xG34ZBvUy3CqNEUdGfzC3tvmtfhAExMYq2Lmj78ziNJhD8C2PhtZ_TrxO1CYaFdJtQcEZw6NE0Qp-E40Yvs67J07xw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">👈
-مارک لوین، تحلیلگر نزدیک به ترامپ در فاکس نیوز:
-🔴
-از اسرائیل حمایت می‌کنم.
-🔴
-از اوکراین حمایت می‌کنم.
-🔴
-از تایوان حمایت می‌کنم.
-🔴
-از مردم ایران حمایت می‌کنم.
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 47.5K · <a href="https://t.me/alonews/139640" target="_blank">📅 17:23 · 12 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-139639">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vbb6qKOPO5lnurqaYlcnK_vZ_spYc8YNiKvkkBNKi0uY8e671rTxIIUDDtKeCK0rDWS4UTrg0IFslGBvv4BDfVWzOM8z1jmH9k_MOTS8xmjnrvEoSilwcir-21PG5vWpG3tbeWZZSE9-6gcQ9h9EpECHfLyu_gM-74r0VAInvzledvTNNhojSOKKlF7tNIBAlDSg3K_Xnuq_VeNp1GFiIHzCrC2GV3vriKtaebzOKFpLlgWe-ZWSpvvbCU0ZbQA2TVs-6-AslPZbLioZKpKwzZKic3XkSBqYzQ-vPwl0hGdyfNxQOWTHnZQCwfHNLLeMo9htWO9VGOBUkjaF2wQktg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">👈
-در تمام ماه جولای ارتش روسیه تنها ۳۰کیلومتر مربع پیشروی رو به جلو داشته است، در حالی‌که ارتش اوکراین در این ماه توانست ۱۳۸کیلومتر مربع از خاک خود در جبهه لیمان، دنیپروپتروفسک و زاپورژیا آزاد کند
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/alonews/139639" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-139638">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RsZmU8dbJq1Jugl5JOcDXbBr28cFXIM44YJeuBTimF25kcKARBNS3uBVksL_rhIz3auo0oUPbRmrGJtvqaEJvRLKGwJYoIY1tsMqlG_NmA3Thk24qgNrKia9EiDXek0ZIt9pfdDyyVqlArFsbyexhcLMWXMmX8HJbaENbiZUZ2Pw8tOoa5TsR7UPs7JfFTzliw5fPCaZyE7NZe0avi4zw0FWeS02wp4MWCLJE2hd-kC2JbU3izRpo2SmBMpWUj7KYRu6Gx03Tw4tVi8n_EckkDT_pnba6DKGPIHSzrkGXGDY5pSmBSuJpZQJ51ThGZuPu6bh9u9MN3rfiQV1sllc5g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">👈
-ترامپ: آمار واقعی محبوبیت من، نه نظرسنجی‌های ساختگی رسانه‌های جعلی، بهترین نتایجی را نشان می‌دهد که تاکنون داشته‌ام. چرا هم نباید این‌گونه باشد؟ با بزرگ‌ترین کاهش مالیات و بهترین آمار اشتغال در تاریخ، بزرگ‌ترین سرمایه‌گذاری خارجی در تاریخ آمریکا، مرزهایی کاملاً امن، یک پیروزی بزرگ در ونزوئلا، خلع سلاح هسته‌ای ایران، احترام و موفقیتی بی‌سابقه در سراسر جهان و دستاوردهای بسیار دیگر.
-🔴
-به نظرسنجی‌های جعلی چپ افراطی باور نکنید. آن‌ها فریبکار و فاسد هستند، درست مانند دموکرات‌های فاسد و متقلبی که کشور را نابود می‌کنند.
-🔴
-برای عظمت آمریکا به جمهوری‌خواهان رأی دهید! از توجه شما به این موضوع سپاسگزارم
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/139638" target="_blank">📅 17:15 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/139647" target="_blank">📅 17:41 · 12 Mordad 1405</a></div>
 </div>
 
 <hr>
