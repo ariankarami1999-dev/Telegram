@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-14 19:56:33</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-14 21:31:18</div>
 <hr>
 
 <div class="tg-post" id="msg-2849">
@@ -319,7 +319,7 @@
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/iaghapour/2849" target="_blank">📅 18:37 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/iaghapour/2849" target="_blank">📅 18:37 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2848">
@@ -346,13 +346,13 @@ EA
 اندرو ویلسون، مدیرعامل EA، این اتفاق را آغاز فصلی جدید با فرصت‌های فوق‌العاده برای آینده این شرکت خوانده است./دیجیاتو
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/iaghapour/2848" target="_blank">📅 14:17 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.37K · <a href="https://t.me/iaghapour/2848" target="_blank">📅 14:17 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2847">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from𓆩 𝐇𝐢 𝐒𝐩𝐞𝐞𝐝 𓆪 ️ᵃᵈᵐⁱⁿ 👨🏻‍💻</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/u6k5IakzBLs2oyPllUE0TRGEDv2H9dZjPnmjxZ2JDG4Zpi6qNquCqVgydhrMGVwrapRvaoo5gla1__kiw8ooLCgYnbP5WiqMWA7EYXQT0uG7_3IpLfQRPS2TYM11hzKoKSlCOhtVf8V4Y0MGxOlkSc6V9ocPTE3nLGGLTXNq9P2HWwt78rAtqeHqrlOEUfqakZAUUQcc3UvDpIdT91ukbZGFEqd0wnGKufeys1MC0XmD0H8VF6B1szv0NKF3P7wnfLr71PlSacdmcEHgv-yZoa6tduno2CL1__bTyTwS-EzVSoR2f4IxBj0ItnEXwZeN8uTQEtO8HTojmsyAM7Xn3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QwJgwgVua85rm6cPyTPHIS2jSqNXs4ZEaHK4isUulmYfY1hWXRfYm6Dqo2wM62ihS1cFY0QoBR7jhBLJ6jdKO3X-Rw-UqHGhM25iGTKwIo51YF2XYLWec2wvTFb0g_i8U8gEQdwu06HtdHbXQArZdmhLvV8DqGXmz2eLCnwbs_mqA7wR4m8Q1_ApyIMjhsJwQYify4dX2MQs9m2z4ujkl4fvZOBsNhOz_5j9MV0S435y3sM_mBcLnLT943D44V8JlJPPdf7t8jrnsnroupLkHgCuUCET1wZ8kKgjHWXYdsSkr-aHIl1nKGoV4KwjdGZEVIa_794g_d8clqsHGuepkA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">𓆩 𝐇𝐢 𝐒𝐩𝐞𝐞𝐝 𓆪
 | سرعت ، کیفیت و پشتیبانی واقعی
 دنبال یه VPN پرسرعت و پایدار با ضمانت بازگشت وجهی ؟
@@ -397,12 +397,12 @@ EA
 کانال اطلاع‌رسانی:
 @Hi_Speed_Channel1
 ☑</div>
-<div class="tg-footer">👁️ 8.75K · <a href="https://t.me/iaghapour/2847" target="_blank">📅 21:09 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.04K · <a href="https://t.me/iaghapour/2847" target="_blank">📅 21:09 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2846">
 <div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/b-7syjAvt2XkR0NyaUmRl65ekZwR_BIdsZXOfyL538vU4HRs7tV6ceGrQqAHaU1aZmKvF_aYPA5vprWf3_BJa_nl3P1JhmySzjH0q1-Ayt_AnQbv8QWBAnd3STv5LdvHF_q0-SAt3uT2FquBNaJkvKRtcbV_iyypY-CADu2zrooB1e-32CQlPE5zuPs74Sg19uvPxIR9IsaZfOUV9esY2qM4cMNef_-vMC8U2cq0yKHNoEcyNFbuhedxNQvy8UVoskRAYedMYx9pQnov2mt4THhGF8sU5uk6j0JhsS2baxXLpIrVuTfpRYO4ntNWyKfApjIItYQ9Jt9RAF8xFf8liA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fuBReldImZtQ8tOcymlLWqdOPMVv3PvRVyu61IpjhGgGtnfGPxZ633EPP-U8k1wbyM3d358U8OYVvv2TpE_FvsI0KdX6_uy_q2bsoPnMlb06-h6A6rf84shJGmrXHMRe1q0aI43Cs4OXrqpUnbdkGhEWgwGUBwhCLTGM8Jjsc3NTcRnlrU5-9uc3PARHgehgynFpTdJlvLvz6gdZD32PbJmKc-QvUpor210VWgbBwRbbsXT8TRY-Fnq9lhhr2ku4D91h7GGyvXOUrwUeO5gmcmoUDS-Z4xRIlZFBW_yOiqdgGUoQaWkSNh_zF5oFSYoCEGrjm4N1BgS5ZXFZhZEkFw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🧅
 معرفی ابزار ToRouter؛ مدیریت حرفه‌ای پروکسی‌های متعدد Tor
 پروژه
@@ -429,7 +429,7 @@ ToRouter
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.63K · <a href="https://t.me/iaghapour/2846" target="_blank">📅 20:44 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.87K · <a href="https://t.me/iaghapour/2846" target="_blank">📅 20:44 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2845">
@@ -460,7 +460,7 @@ ToRouter
 یهویی این همه آدم باهم دیگه اشتباه میکنن پس. شاید همه باهم دیگه دارن توهم میزنن‍!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2843">
@@ -485,7 +485,7 @@ ToRouter
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/iaghapour/2843" target="_blank">📅 20:02 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/iaghapour/2843" target="_blank">📅 20:02 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2842">
@@ -514,7 +514,7 @@ ToRouter
 مخزن پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2842" target="_blank">📅 16:40 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2842" target="_blank">📅 16:40 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2840">
@@ -544,7 +544,7 @@ ToRouter
 ⏳
 زمان قرعه‌کشی:
 تا امشب ساعت 24! پس تا فرصت هست کامنتتون رو ثبت کنید.</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/iaghapour/2839" target="_blank">📅 18:18 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/iaghapour/2839" target="_blank">📅 18:18 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2838">
@@ -572,7 +572,7 @@ Xray-core
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/iaghapour/2838" target="_blank">📅 16:14 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/iaghapour/2838" target="_blank">📅 16:14 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2837">
@@ -595,7 +595,7 @@ Xray-core
 به‌طور مستقیم به فضای مجازی و دسترسی به اینترنت وابسته است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/iaghapour/2837" target="_blank">📅 13:58 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2837" target="_blank">📅 13:58 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2835">
@@ -604,7 +604,7 @@ Xray-core
 باز یه سری از بچه‌ها دارن می‌گن احتمال داره دوباره درگیری‌ها و جنگ شروع بشه. از اون طرفم خیلیا نگرانن که با بالا گرفتن اوضاع، دوباره با قطعی اینترنت یا حداقل اختلال‌های شدید و از کار افتادن خیلی از روش‌ها و تانل‌ها روبه‌رو بشیم.
 واقعیت اینه که کار خاصی نمیشه کرد و کنترلش دست ما نیست، ولی تا اینترنت هست، فایل‌ها یا ابزارهای ضروری که روزمره لازم دارید رو دانلود کنید که اگه باز شرایط سخت شد، کمتر به مشکل بخورید.
 در حال حاضر هیچ اختلالی روی شبکه و دیتاسنترها مشاهده نشده.</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/2835" target="_blank">📅 21:20 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2835" target="_blank">📅 21:20 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2834">
@@ -618,7 +618,7 @@ Xray-core
 با وجود این موضوع، توسعه‌دهندگان ساکن این مناطق به‌دلیل عدم امکان احراز هویت، نمی‌توانند اپ‌های خود را در بازار بین‌المللی منتشر کنند. با اجرای این طرح، اپ‌های توسعه‌دهندگان ایرانی فقط روی گوشی‌های مستقر در مناطق تحریم‌شده به راحتی قابل نصب خواهند بود. اگر کاربری در اروپا یا آمریکا بخواهد برنامه‌ای از یک توسعه‌دهنده ایرانی تأییدنشده را نصب کند، با سد محکم سیستم‌عامل مواجه می‌شود./دیجیاتو
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2832">
@@ -649,7 +649,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/iaghapour/2832" target="_blank">📅 18:33 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2832" target="_blank">📅 18:33 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2831">
@@ -676,12 +676,12 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 filterbaan
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/iaghapour/2831" target="_blank">📅 14:17 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/iaghapour/2831" target="_blank">📅 14:17 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2829">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bv4pId63dEI0huavQdbsGHhgkIb7C03Us7trAGzIkByoT1dOjH8A_q-89I59ow4cGAE0sTH1WcLhCqIsglqlg7lTKMuLU4slOC1eAS3YMO_TBmPb8QgLIAskFiQQiCcfRLpX1nFSOtPs5UIz2m3Htlnf0mMgdBayeDEIE1owaCzoyB7PplL4rZVPUsPBSIUXJjQ3LNCMWyuYmwLT_d-GKBcqFZHlip2jTUd-Qx82IAE3pGrKgRmXi07OkO63QP8VJ955MVriCStlAdUJxJ_17m7vi2tM2gJeEol5WcjFqClMqzu96Yqn3jkj5txxbdcuZ5TmfQ4bOTDrXHfe2o5n8w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/seZES3wgFDRmndDu-Ieexj8NZ1AVhjVhvAOnHWcdWTjREmCoX5OM7hSKLOtEIoFUyw4SgdguJ9AA3u4VPREoi9kSDHd0BeBFoZ5END9nzFgAVxBvYHpMa7DYw5P1ne9m8q4jClD8qv16lZ6yqzMiQ2d63bAG8s3-UDvIWIGOPoCYBswCnyImCgAra_9inL8B6bCz98-cJCnQAXWRSwZIvyOCLEHsB-K2Fp1r4_scCrHMqWfRDLuczqkgO7-3YNS4AeXlFPWffUpi9TM-KuZpNRIiCVSM5SQjD4hW0WeAcDt2R2OAHZGcDabQNxO6kfYbTQZWxtvrTM0inCnWCDuCZQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 فعال‌سازی رسمی اینترنت استارلینک در عراق
 شرکت اسپیس‌ایکس از روز گذشته (۲۹ ژوئیه ۲۰۲۶)، ارائه خدمات اینترنت ماهواره‌ای استارلینک را به‌طور رسمی در کشور عراق آغاز کرد.
@@ -704,7 +704,7 @@ filterbaan
 Aliasghar Honarmand
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/iaghapour/2829" target="_blank">📅 21:50 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/iaghapour/2829" target="_blank">📅 21:50 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2828">
@@ -742,7 +742,7 @@ KelpDAO
 کارشناسان از احتمال رشد حملات تزریق دستور (Prompt Injection) به ایجنت‌های هوش مصنوعی خبر می‌دهند که نمونه اولیه آن هک ۲۱۶ هزار دلاری پروژه بنکر بود.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2826">
@@ -912,7 +912,7 @@ Trojan
 @ircfspace
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/iaghapour/2815" target="_blank">📅 20:02 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/iaghapour/2815" target="_blank">📅 20:02 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2813">
@@ -988,7 +988,7 @@ Claude Opus 5
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">🟢
 اگه بین ویدیوهای چند ماه اخیر بخوام فقط یکیشون رو بهتون پیشنهاد بدم که حتماً ببیند، بدون شک همین ویدیو بالاییه؛ پس اصلاً از دستش ندید! :)</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2808">
@@ -1018,12 +1018,12 @@ Claude Opus 5
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2807">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/iaghapour/2807" target="_blank">📅 18:07 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/iaghapour/2807" target="_blank">📅 18:07 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2806">
@@ -1198,7 +1198,7 @@ Hugging Face
 موضوع به نهادهای مجری قانون و تیم‌های جرم‌شناسی سایبری برای بررسی دقیق‌تر ارجاع داده شده است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/iaghapour/2796" target="_blank">📅 18:01 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/iaghapour/2796" target="_blank">📅 18:01 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2794">
@@ -1246,7 +1246,7 @@ Flutter
 (مشابه پروژه torsina)
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2792">
@@ -1280,7 +1280,7 @@ Flutter
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/iaghapour/2790" target="_blank">📅 21:25 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/iaghapour/2790" target="_blank">📅 21:25 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2789">
@@ -1332,7 +1332,7 @@ LangOver
 لینک سایت و دریافت برنامه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2786">
@@ -1376,7 +1376,7 @@ LangOver
 
 <div class="tg-post" id="msg-2784">
 <div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BaY4cEkli3NA9WyTjFF9Tjwtxa5b4I7yu9URRaDkUey5iTLElF4gdFOpRhRclkmjIegctYPM_-tviAEjgzDDDtxrBYYZvYl9HKXmV9Q3BYoJCsi8PB_6sm3K6wVwz1C7kKTmLUb9wmReNcLVODJjuLWUx_NmDjpNY-yyBwRAnFKMwK_NpN5C5kmBTRbTmt5n7lK1Zo2cE9ofoWzVKLJe3vP2mCc3KSFe5CtGv-PDQXkHuDm6J0OfeQmpsGgFN8eZGHqWBzbMrcl1L6Ir7sQQb3AeqibGuyJ3Fhr7aYRdjBiyK6XjNN3qJ-IMwzdh8aCIAdYi_vEdyUd4P_Sa6qkFGw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BQJFJ5lPiCGdHujLbzGeKVCAAiCACnazmob--nchyATkUx27RaH_12qIrqUwyw72VwGvysmFV_m0OR7245iAHDU48KGRuE1D59eoFKZ3oyZ00RS_ivQTC3qVtvLpHDvPOo6A-p8iVhqZtchPalhohjexRup9P_BFrBQGS7OOGbnoFyry1kW-BDDcR3Ib-yJT5bH5y_-FDWi1NcVUdAKA2LA0M_cqmLibR6Koglk6LvZJpdXNsj0oKZ-TTYlStcbgeyEEEiYyCK0oNKh6G1BX_g5hJszCeNb_1BO5fthMtpzFep6FOmsiudoLywcigOI7lEL-v49VCtx4Kj0WMh1hFA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش تانل ریورس روی سرور با آی‌پی مسدود (مقاوم در برابر اکسس)
 🔹
@@ -1424,7 +1424,7 @@ LangOver
 در حد توان آمادگی داشته باشید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 33.5K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2780">
@@ -1492,7 +1492,7 @@ LangOver
 
 <div class="tg-post" id="msg-2773">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IRpuTLzfMUrZVaP7RsgGBt-MUDZG892YgrYxoR9BHlnbDN8UXwpOge6NC7YjU_aOggoxlFRLMY-cheCR5CIat3gTXkvKkD1X_bE67GHv69iukzbSGYzFq20IMAkAqzOrJG_SmzL9CUwkF95UzUXdDKf0VL6TubfQF7HromLN8gw7RX6LbKxUO6nNsN0wW-Zpml9_k9KnJYdaNJaA3qiccgQwUCH-Wa85urpJObqFOVoUoE6BwCgc37t5bU8uS8NzLxw02i8zIlQlIHKcNmSYIIwqGCm8Jf_FvKa2hOzYX9P9JCCf3qif5vpgYPbs8JN2yiD53E7CawUmcDDLmcoxcg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AbjzoMbu4UhLxmd1eOZeC7q9ujix_d_kwZ0g21Ic462yBZZfdWRRo_3yCfNlC5U4WkzZ-IFAkvvBKOiNE0boFdwm-Q_REmTwUGV926yxRw9KgrwIaxMa3-Bku8N7JGg0v_5aXwTykTTHvd4135dY7IvoY-F17tOI3txHrqERztQhCY60iY6NB5zLY0UNVFjaCyBgTZr0diFzVyzdsIcbqP0p8_d-8BBrYE82URoZtpqAh9-iGrc2vv5icxDvV74xXNSneWDal4nBTyiMH1fYlt8l7rKYRrZoXgdQ-5Vr4I5SX1mAA9sXnE_tzwwfzaAVL30yyGb-jR23a_sRk2AslQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 دور زدن رایگان فیلترینگ در ویندوز
 با
@@ -1605,7 +1605,7 @@ Behrad Javed
 
 <div class="tg-post" id="msg-2767">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/skggLETrdR6phFcrX8Y4AOxSnFq9r0vfmbDgFjwuHauUH4KtrRLZlP4ijCsgb4oadYYbjXlfsHdtGjqoi7gCgBsyBYekq19tnJEEfU1XAeAoc7047im8sKXAPlHDA8Euo-aJEMcS1UrmPowVW6jxXEl0OzambxIOlGa7PHX2l477fvmwxXskNoT3ChO8QouPONPBm15oeiGwpxF4Bi68ul55KFLBEdh5HIeGwTihCd9wzmc8GM_A79OHRZ2b3ObdxLLpAOtrFI_83uAh1kvhJgTJBi_v43VyrnPcVuu7US6oIM7-QtzPwmzoeCHebzpfIHdDYfLzmlx3NZGZaIOHhw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a7uthE_35prr7NQb21k9RPC5XgXcSRxVfxzCnScetupMMPEiWtmass5yO8lcSIqoF75YWbn6p5sDRLpqe16to0CA0RgzyUI6pmP9Twgu4uFoXkro_5RIH6r5N253MLdrzHvGjqI2z_Z29xj7gxoHp0wKwAshXKE0f9xtCt4EsbSxjaxHPrN0nyG6bdXArZbRpfSw0MiuieY2tp0Uo6Anv4psqZ2_0IfDXdXTSNnmMLPSZEPqBFVmC1DkHr7RVc2OJUfcSdjVSCGU_UDaYBll5uTxIy-6Xe1jl8YC_zHp_ObLxeBvnoH5fbsQIt6rcVJGaJguFPWNG1atgYOQsLm5Bg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🟢
 بعضی از بچه‌ها خبر دادن مثل اینکه کج‌دار و مریز
 IPv6
@@ -1747,7 +1747,7 @@ IPv6
 به جای قطع دسترسی مردم، باید امنیت سایبری شبکه‌ها را تقویت کرد و در سیاست‌های فعلی مدیریت اینترنت تجدیدنظر اساسی انجام داد.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/iaghapour/2756" target="_blank">📅 15:54 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/iaghapour/2756" target="_blank">📅 15:54 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2755">
@@ -1964,7 +1964,7 @@ docs.songbird.website
 
 <div class="tg-post" id="msg-2740">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RjdbvBhGxZxjJpfKmtlSo3TDofbdOiwAVfGPmr-_nKlq76-KJdNq64qGW76dtSuKb34OnAUdxHlwHGAD6tnqTumGcsSVdEMo1_Nt6ruSbi-HwwiYEWXLRZvQeyl-2cEeb0Wge__08cb89NPTifjgGM-2pBs6-lWS7pGI-UMb8sdnmOMM6db0LPujtzLLkJBEntuC0SEGGXMkMjVGjT2RNxUUWqygKkQ23u2jBD5LazhiJaI25ERL-0v_QB2t3VECNoISe571MKZXhDEfarJ27zkiZNaxZip3lMR_GCw0IG-AsEqW8AYnnYSmFTaEbRGl8YS8sk67loqqnlBp-oLKEQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P2taLLqQYRkIZ_XpcgbCAkHYOd7s_v9wH71mys6NZGfEctLDz4iA43utvU56nQoY4koYt4dAFfrnFUgRsvgGRUhHIpIOF99Qoq-DFX_lBQsYSkjOWSzZkAWbdN1ZvVrLxrihuMxSMSwLNcB7gKCTYN8kcwz80CpzHMaE7p1zFc_ROXMVJBCyZGrkKLly7D7CweBZ2Yw6WgQVqoF0FOljwtKOyBrnUa-Mz0gG3p53v_0Raz644M6tnF1RVOrpzvGUpOLu1f6XBc_1LogSLt541C94Vwgg9MTcVTONV8pUpTCQmpNSfbaWwGRYBbhpvIC5sQewMXzZGArSq05GCNkj9A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎮
 اعتراض ۱۱۵ هزار نفری به سونی؛ دیسک‌های فیزیکی را حذف نکنید!
 یک خرده‌فروش کانادایی (PNP Games) کمپینی با نام «Don't Kill the Disc» به راه انداخته که تاکنون بیش از ۱۱۵ هزار امضا برای توقف برنامه جدید سونی جمع‌آوری کرده است. سونی قصد دارد تا سال ۲۰۲۸ درایو نوری را به طور کامل از کنسول‌های پلی‌استیشن حذف کند.
@@ -2340,7 +2340,7 @@ mysite.example.com
 
 <div class="tg-post" id="msg-2717">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IqexpT16EycjjfcbvaJ37gVZAEHmM3ECDeWj-2oJ-_OpjcWz4z7aRwD9Efm6P6vj3UmYx22EVRECBVEIvY-eqGTML_7SYU3q4wet0gMSmliKr-qMZiHsAbpBdfFhnMSSh8RFo0Cg-ODPX48xrb-ovndOkS4G58VlnC8aVIQzyL1XVGkq42KYhTrhIoxxy7424iplHEc-96v8jV0XoPsisXmpEz3IMCtNquFgYvIpWkuv4bLHAJUe0scUTNyB9yAWuWIDPOR-ToaRCsNou4jiUNgD7w4T8pEIc8mjjR_gcnkR3HJGP7gO01JcXfWblFJqKvDjUnPzd0BEhBLMd4yH3g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pLWLBrbWzWZ3SKB1_GyInr2QTksKsXmhDArZ_CKICoPQms60d7t_1x_SGl6DkWVuE8sFw_9rdnyF5uGnABr-v6TgQwAcEMZPrpaeM19SvgLJ9jKD2TILKdICih7qRsZHpAxd_eRKf_UpLLBg5LlHVkMPsYgGvJBNb9IC6M_uFPfJ77FfTB-b5ZePRYzkJ5GsvZiOhBBNPoBEXbausGz4P1_6E8fsjjyf1ddPepE07rel6yOem3qwuR1Vu5VJMVs0jCRvw8CJeDctQls2Z9yKVjGLni-VoZnxupafWpR4uUss4_pBBkMNsbpcpzxSVqktzbmZx4jzF8_GrpZwYZ30Pw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی اسکریپت ساده EZxray Direct Server
 یک اسکریپت کاملاً خودکار که سرور شما را به یک مرکز Xray با پشتیبانی از ۱۲ پروتکل مختلف و ۲۰ پورت متنوع تبدیل می‌کند؛ آن هم بدون نیاز به هیچ‌گونه تنظیمات دستی یا دانش فنی!
