@@ -291,7 +291,7 @@
 <p>@IranProxyV2 • 👥 1.29K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-15 01:10:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-15 02:19:37</div>
 <hr>
 
 <div class="tg-post" id="msg-97">
