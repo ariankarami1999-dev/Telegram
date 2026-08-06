@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-15 05:16:35</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-15 08:27:30</div>
 <hr>
 
 <div class="tg-post" id="msg-881">
@@ -321,7 +321,7 @@ mohsentavoosi.com/1
 پیام به:
 @mohsentavoosisupport
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/mohsentavoosiseo/880" target="_blank">📅 11:55 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/mohsentavoosiseo/880" target="_blank">📅 11:55 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-879">
@@ -671,7 +671,7 @@ https://mohsentavoosi.com/video/keyword-gap-excel/
 درون گرا فقط از درون خودش بیشتر از بیرون انرژی دریافت میکنه. شارژش تو تنهاییه. همین! چه ربطی به خجالتی بودن و بی مهارت بودن تو ارتباطات داره؟!
 یه ای دی اچ دی در سطحی که تو جامعست(نه بچه هایی که از سنین کم اختلال یادگیری دارند)، هم میتونه یاد بگیره تمرکز کنه. بدون قرص. یه بار هم که شده مسئولیت خودمونو گردن بگیریم. تو این عصر هوش مصنوعی میخواید همچنان بدو بدو همه چیو ببینید؟ چجوری میخواید AI Agent تربیت کنید پس؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/mohsentavoosiseo/852" target="_blank">📅 17:49 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.06K · <a href="https://t.me/mohsentavoosiseo/852" target="_blank">📅 17:49 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-851">
@@ -1214,7 +1214,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SiuVaWbHx-HQok-Tit7eskxx-Lli0yX_hSjWuZVAp9kJY3HVLYaN9cec6J9tIO19Wgr8LsO18VByAJjaZ7sLz99twZu6C7KX_bUXzPUrnVISI0XWoDVazAqr400fPOBbywcl5dAOVGYL_WQzPVZpM7IyYMCMjkmyXTPt4ElBEwbGQmu1jCvTqbuFINhrnq4nS2XNXuxMKO1IRJDalPIi5WAXtgbF3Ivtzd7RmGHUS9ocKBLYLIkRen_arnU100EHTwYAPN02hLpALSBPuA6KAURZkojGjgwbFJ-j6mzBtY7MJAu520qFUMlHh_HuxtaphEyq9Knieq6eunGpoEMUvg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/I4VBbMsVds5vU4fXsJpgNzrLb3Nd7C4CZFkbMcQhzySvjAyfcBwTJXYMxi0IeOGs0fi1s_YmcM6YrF3YrATcQb7YU-O2JP1D6K92iTawyYMIT2fUwrSaRAsVfZJ2mKnfwtHD3isH5u2zW-qzvINqeqcW-KVFtVXrwjIuXe1YI_EKkgINMizlNwJ_3PSBztYEoe6OBA8fKLOJ8TRe7FvDXUBb_173zd9flDy3qxS4syfTVpszOraNDlIGZZtV2rDUucJFslVVysmZgcoTCQpbhAtsppWNo1PgUrJeq-cz5KycBf_liduiaOElMpEOfPC2W9sFBxMtnyFWOfLV-AkMiA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
