@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 00:59:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 01:36:41</div>
 <hr>
 
 <div class="tg-post" id="msg-7440">
@@ -308,7 +308,7 @@
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 938 · <a href="https://t.me/ArchiveTell/7440" target="_blank">📅 22:42 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.01K · <a href="https://t.me/ArchiveTell/7440" target="_blank">📅 22:42 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7439">
@@ -320,7 +320,7 @@
 ❤️‍🔥
 بدون رفرال
 🥹</div>
-<div class="tg-footer">👁️ 1.02K · <a href="https://t.me/ArchiveTell/7439" target="_blank">📅 22:29 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.09K · <a href="https://t.me/ArchiveTell/7439" target="_blank">📅 22:29 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7432">
@@ -349,7 +349,7 @@
 😳
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/ArchiveTell/7432" target="_blank">📅 19:22 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.56K · <a href="https://t.me/ArchiveTell/7432" target="_blank">📅 19:22 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7431">
@@ -394,7 +394,7 @@ openGym
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 1.46K · <a href="https://t.me/ArchiveTell/7431" target="_blank">📅 19:02 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.49K · <a href="https://t.me/ArchiveTell/7431" target="_blank">📅 19:02 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7430">
@@ -405,7 +405,7 @@ openGym
 ✈️
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 1.4K · <a href="https://t.me/ArchiveTell/7430" target="_blank">📅 18:40 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.43K · <a href="https://t.me/ArchiveTell/7430" target="_blank">📅 18:40 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7429">
@@ -431,7 +431,7 @@ openGym
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/ArchiveTell/7429" target="_blank">📅 15:57 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.73K · <a href="https://t.me/ArchiveTell/7429" target="_blank">📅 15:57 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7428">
@@ -456,7 +456,7 @@ openGym
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/ArchiveTell/7428" target="_blank">📅 12:13 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/ArchiveTell/7428" target="_blank">📅 12:13 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7426">
@@ -473,7 +473,7 @@ FlowMusic
 ✈️
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 1.98K · <a href="https://t.me/ArchiveTell/7426" target="_blank">📅 00:43 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.99K · <a href="https://t.me/ArchiveTell/7426" target="_blank">📅 00:43 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7425">
@@ -496,7 +496,7 @@ FlowMusic
 همین الان امتحانش کن
 👇
 @DownloadYaarBot</div>
-<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/ArchiveTell/7425" target="_blank">📅 22:32 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/ArchiveTell/7425" target="_blank">📅 22:32 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7424">
@@ -515,7 +515,7 @@ Opus 5 | GPT 5.5 | Sonnet 5 | Gemini 3.5 | Haiku 4.5 | Gemini 3.1 flash lite | N
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.01K · <a href="https://t.me/ArchiveTell/7424" target="_blank">📅 18:22 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/ArchiveTell/7424" target="_blank">📅 18:22 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7423">
@@ -608,7 +608,7 @@ Work for me
 ✅
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/ArchiveTell/7421" target="_blank">📅 13:11 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/ArchiveTell/7421" target="_blank">📅 13:11 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7420">
@@ -621,7 +621,7 @@ Work for me
 @survpnbot
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/ArchiveTell/7420" target="_blank">📅 12:30 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/ArchiveTell/7420" target="_blank">📅 12:30 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7418">
@@ -666,7 +666,7 @@ Work for me
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/ArchiveTell/7417" target="_blank">📅 21:16 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/ArchiveTell/7417" target="_blank">📅 21:16 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7416">
@@ -719,7 +719,7 @@ freellm.sh
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/ArchiveTell/7415" target="_blank">📅 18:30 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/ArchiveTell/7415" target="_blank">📅 18:30 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7414">
@@ -960,10 +960,10 @@ CloudSSH
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d56fd43533.mp4?token=M_BT_2NgqYaN1LnETUE0WsOOxv2Sez-Uxy0J6hqBnKyfOFIPJZaXRpor_fpYLC5b0_ZzWW-EGnhm_abICZJkFHh-Tu2DJFYqSUSBhaiD89cMIQ8Rqpieb-9aTlTSUQJN82CB6zRGCy1Zl0P7R5mkyFA_AMZON6UKNEZ54CKOPNbk8ZUr1IhcnES_85oGsV_GHP9dZZa6aA_hQ7ThzQt6Qt0hmMJMaz6zcuT4FoXOqmVZ11UgmSICKoQEwhViysutIB1gAyoS8l9umw4MSiSfy_U4OZCi5vZeYQdYz3pCDBPp4lGgsx-HdUDEVXLTS-Y4gOGDCJVA6tHp8hwO8g4vLiWv0AtrSPMVnRnX-uYLM9fTHJArED9s5RzMSKjqL0FjOUp98PzzIIsNQC-H1SYo5Mnrgwb-DziBXih6CEc_YlfCqG9Rcy9jCDtovOBxlEQA9ahcF-0btE6k74IUkfMAZpUO782C7Dx5ZJy3uKkfjEbpqG03uBksVwhwdzeL60J6xsMAVche_rgOeuX2cvIrYjU1ZwBIpZtNNgF_OmkJG5mrTZs_zSuKqLSkX4_BS1ugG5Ax3N0Ghmks2MyScLpgxQFAK6J6tFseua2cTc6gz_kxCWOBpjmFqUdYMRowlFAQESjS6YJpcjCV7z81-kO7Bp--Pgw7vEqDi9zji0RXzmI" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d56fd43533.mp4?token=uUywQf5npxgxbrzaWkUAGO9cbhTALr4gh85t55isBV1xkKWOX7oaiE_ek0sl-wNghYBVoiN6t1hyiFiOc_WVsZtWT-RXwzt_7Gg2dfezwX9qvndG3lmFCBzWhEGE0N9SWlJ60DnRLVJw_56EBz3vVEZad4x24kIKupxDXSWa9hVLTefY-ZfVh1OM_laL6pZnVb66CLzbG0hNL39UcOxKIf5ZBksQeLSlaMmvSfRW3i2dsB7VNLlupuqjAA34kG8zj8Hx3JVer39qRnFH8iqcP0gZ4V3Aq6xhstpjfKexW6lgQ3GXnec7_3x9MEgT3mMF67RufcuL6naPQ3IJ6VxAI0vZT2rOim0ASOkZxPYHAB_dJwXErGmbHT1T1ZtYi1DxIM4sH-IxuvhuxJTqOBUNjwyLuSN0Vl6WXTT6RlX6hpGKJVTTyikRDRBO51zgS1EwVy7cj42N57JywQLsi-klZTn190QRTr0FmtipwxTQKAhlUNrYjK1I_bM5jxBtMHfqv6giX6mBamDTgFeDZXshKzU7o-BAOcEfbXk3jyah7c327WQrqgd4Lf1CReoFIesR_HHupVz2cf2oMAvyPp13PY6rB8szQ6DzAb3KXi8n_OwdmDw5768cORDWvjRmX9Ju23KfqmhJOclE19ZQAbjCmLA_Yg-PizEpsxnCymOjkYs" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d56fd43533.mp4?token=M_BT_2NgqYaN1LnETUE0WsOOxv2Sez-Uxy0J6hqBnKyfOFIPJZaXRpor_fpYLC5b0_ZzWW-EGnhm_abICZJkFHh-Tu2DJFYqSUSBhaiD89cMIQ8Rqpieb-9aTlTSUQJN82CB6zRGCy1Zl0P7R5mkyFA_AMZON6UKNEZ54CKOPNbk8ZUr1IhcnES_85oGsV_GHP9dZZa6aA_hQ7ThzQt6Qt0hmMJMaz6zcuT4FoXOqmVZ11UgmSICKoQEwhViysutIB1gAyoS8l9umw4MSiSfy_U4OZCi5vZeYQdYz3pCDBPp4lGgsx-HdUDEVXLTS-Y4gOGDCJVA6tHp8hwO8g4vLiWv0AtrSPMVnRnX-uYLM9fTHJArED9s5RzMSKjqL0FjOUp98PzzIIsNQC-H1SYo5Mnrgwb-DziBXih6CEc_YlfCqG9Rcy9jCDtovOBxlEQA9ahcF-0btE6k74IUkfMAZpUO782C7Dx5ZJy3uKkfjEbpqG03uBksVwhwdzeL60J6xsMAVche_rgOeuX2cvIrYjU1ZwBIpZtNNgF_OmkJG5mrTZs_zSuKqLSkX4_BS1ugG5Ax3N0Ghmks2MyScLpgxQFAK6J6tFseua2cTc6gz_kxCWOBpjmFqUdYMRowlFAQESjS6YJpcjCV7z81-kO7Bp--Pgw7vEqDi9zji0RXzmI" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d56fd43533.mp4?token=uUywQf5npxgxbrzaWkUAGO9cbhTALr4gh85t55isBV1xkKWOX7oaiE_ek0sl-wNghYBVoiN6t1hyiFiOc_WVsZtWT-RXwzt_7Gg2dfezwX9qvndG3lmFCBzWhEGE0N9SWlJ60DnRLVJw_56EBz3vVEZad4x24kIKupxDXSWa9hVLTefY-ZfVh1OM_laL6pZnVb66CLzbG0hNL39UcOxKIf5ZBksQeLSlaMmvSfRW3i2dsB7VNLlupuqjAA34kG8zj8Hx3JVer39qRnFH8iqcP0gZ4V3Aq6xhstpjfKexW6lgQ3GXnec7_3x9MEgT3mMF67RufcuL6naPQ3IJ6VxAI0vZT2rOim0ASOkZxPYHAB_dJwXErGmbHT1T1ZtYi1DxIM4sH-IxuvhuxJTqOBUNjwyLuSN0Vl6WXTT6RlX6hpGKJVTTyikRDRBO51zgS1EwVy7cj42N57JywQLsi-klZTn190QRTr0FmtipwxTQKAhlUNrYjK1I_bM5jxBtMHfqv6giX6mBamDTgFeDZXshKzU7o-BAOcEfbXk3jyah7c327WQrqgd4Lf1CReoFIesR_HHupVz2cf2oMAvyPp13PY6rB8szQ6DzAb3KXi8n_OwdmDw5768cORDWvjRmX9Ju23KfqmhJOclE19ZQAbjCmLA_Yg-PizEpsxnCymOjkYs" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">✈️
 @ArchiveTell</div>
@@ -993,7 +993,7 @@ claude-opus-4-8
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.03K · <a href="https://t.me/ArchiveTell/7404" target="_blank">📅 01:25 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/ArchiveTell/7404" target="_blank">📅 01:25 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7401">
@@ -1005,7 +1005,7 @@ claude-opus-4-8
 https://github.com/patterniha/v2rayNG/releases/tag/2.3.2-P10
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.28K · <a href="https://t.me/ArchiveTell/7401" target="_blank">📅 01:07 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/ArchiveTell/7401" target="_blank">📅 01:07 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7399">
@@ -1072,7 +1072,7 @@ cline⁩
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/ArchiveTell/7397" target="_blank">📅 18:44 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/ArchiveTell/7397" target="_blank">📅 18:44 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7394">
@@ -1085,7 +1085,7 @@ Base url: https://www.fastaitoken.com/v1  Api keys: sk-1acd2bba8f138537e2f5405f9
 ✅
 🔵
 …</div>
-<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/ArchiveTell/7394" target="_blank">📅 16:21 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/ArchiveTell/7394" target="_blank">📅 16:21 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7393">
@@ -1130,7 +1130,7 @@ https://anymodel.org/v1
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/ArchiveTell/7392" target="_blank">📅 16:01 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/ArchiveTell/7392" target="_blank">📅 16:01 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7391">
@@ -1336,7 +1336,7 @@ Vega Agent
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 1.98K · <a href="https://t.me/ArchiveTell/7379" target="_blank">📅 16:34 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.99K · <a href="https://t.me/ArchiveTell/7379" target="_blank">📅 16:34 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7378">
@@ -1835,7 +1835,7 @@ deepseek-v4-flash
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/ArchiveTell/7352" target="_blank">📅 17:33 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.28K · <a href="https://t.me/ArchiveTell/7352" target="_blank">📅 17:33 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7351">
@@ -1928,7 +1928,7 @@ Vega Agent
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/ArchiveTell/7347" target="_blank">📅 12:32 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.57K · <a href="https://t.me/ArchiveTell/7347" target="_blank">📅 12:32 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7346">
