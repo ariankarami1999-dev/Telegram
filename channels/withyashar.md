@@ -292,14 +292,14 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-16 14:45:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-16 15:35:27</div>
 <hr>
 
 <div class="tg-post" id="msg-20634">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">شبکه الجزیره گزارش داد نشست لبنان و اسرائیل با میانجی‌گری آمریکا در رم بدون هیچ پیشرفت ملموسی پایان یافت. اسرائیل با پیشنهاد عقب‌نشینی مرحله‌ای از جنوب لبنان مخالفت کرد و تأکید کرد تا زمانی که سازوکار قابل‌اعتمادی برای خلع سلاح و راستی‌آزمایی حزب‌الله ایجاد نشود، با خروج بیشتر نیروهایش موافقت نخواهد کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/withyashar/20634" target="_blank">📅 14:24 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 54.3K · <a href="https://t.me/withyashar/20634" target="_blank">📅 14:24 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20633">
@@ -307,7 +307,7 @@
 <div class="tg-text">«توافقنامه دفاعی مکه» رسما امضا شد : هر گونه حملهٔ مسلحانه به هر یک از کشورها، حمله به هر سه کشور محسوب می‌شود.
 محمد بن سلمان، شهباز شریف و اردوغان توافقنامه دفاعی مشترک میان ترکیه، پاکستان و عربستان را امضا کردند.هدف این توافقنامه، تقویت بازدارندگی جمعی در برابر هر گونه اقدام تجاوزکارانه است
 @WarRoom</div>
-<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/withyashar/20633" target="_blank">📅 14:19 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/withyashar/20633" target="_blank">📅 14:19 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20632">
@@ -330,13 +330,13 @@
 ترامپ:
 قیمت‌ها فقط در صورتی پایین می‌آید که به توافق برسیم. آن‌ها می‌خواهند توافق کنند
 @WarRoom</div>
-<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/withyashar/20632" target="_blank">📅 13:37 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 78.5K · <a href="https://t.me/withyashar/20632" target="_blank">📅 13:37 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20631">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 86.9K · <a href="https://t.me/withyashar/20631" target="_blank">📅 12:40 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 99.6K · <a href="https://t.me/withyashar/20631" target="_blank">📅 12:40 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20630">
@@ -344,18 +344,18 @@
 <div class="tg-text">پرات ریخت ؟
 😈
 @WarRoom</div>
-<div class="tg-footer">👁️ 91.2K · <a href="https://t.me/withyashar/20630" target="_blank">📅 12:31 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/20630" target="_blank">📅 12:31 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20629">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-footer">👁️ 92.2K · <a href="https://t.me/withyashar/20629" target="_blank">📅 12:24 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/20629" target="_blank">📅 12:24 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20628">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">مجری : مردم میپرسند کی‌اینا میرن؟  نوستراداموس هم نتونست بگه! مانوک : انقلاب تقویم نداره … I LOVE YOU @WarRoom</div>
-<div class="tg-footer">👁️ 95.4K · <a href="https://t.me/withyashar/20628" target="_blank">📅 12:16 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/20628" target="_blank">📅 12:16 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20627">
@@ -370,7 +370,7 @@
 ۸۳.۳۴ دلار در هر بشکه
 رسید
 @WarRoom</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/20627" target="_blank">📅 11:32 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/20627" target="_blank">📅 11:32 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20626">
@@ -386,7 +386,7 @@
 نوستراداموس هم نتونست بگه!
 مانوک : انقلاب تقویم نداره … I LOVE YOU
 @WarRoom</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/20626" target="_blank">📅 11:25 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/20626" target="_blank">📅 11:25 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20625">
@@ -394,14 +394,14 @@
 <div class="tg-text">سی‌ان‌بی‌سی : به نظر می‌رسد توافق ترامپ در وضعیت وخیمی قرار دارد
 @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/20625" target="_blank">📅 11:12 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/20625" target="_blank">📅 11:12 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20624">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">‏خبرگزاری آناتولی به نقل از منابع امنیتی گزارش داد رجب طیب اردوغان، رییس‌جمهوری ترکیه، برای سفری یک‌روزه راهی عربستان سعودی شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/20624" target="_blank">📅 10:45 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/20624" target="_blank">📅 10:45 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20623">
@@ -409,19 +409,19 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/o8554GFHlVJfQOqK6vwgGvJnQD6uS3nsQ8ibUzQjHuisFqLTEnlH9W2ur69XWt-WVza20WDR3xTxz24rjpR2zIXnYQiQClmlTmjH2JUEZblzRrCvvxXpYkNop-lyscJeBIxPsZdjQQ3jeasioFDRBk3VQV8QjIMucIzhdZUuA-jIv04CrVcgc8jw5EKpEbfmJx6lEU2Kgt1MTO-x36n_-JN-iQoWuKOXu--pitWpOKhibiApOTrX-KcDTq8hHb4WcRI3V9SU6FjqgUoyNbI6mnyBnVf9xDNiCvxSznfDOZaJ7tqEFPxfn_CZBWtILFUBHFiHC5ugQALUzF51mbM5qw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏لکه های در تصویر منابع نفت و گاز در دریای کاسپین , طبق تقسیم‌بندی جدید بیشتر این منابع به کشورهای دیگه واگذار میشه
 @WarRoom</div>
-<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/20623" target="_blank">📅 10:37 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/20623" target="_blank">📅 10:37 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20622">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">پس از آنکه وزارت حمل‌ونقل اسرائیل پارک کردن تعداد بیشتری از هواپیماهای سوخت‌رسان آمریکا در فرودگاه بن‌گوریون را ممنوع کرد، به آمریکا اعلام شد که هواپیماها باید در پایگاه‌های نظامی نیروی هوایی اسرائیل مستقر شوند، نه در فرودگاه غیرنظامی بن‌گوریون.شبکه i24News…</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/20622" target="_blank">📅 09:45 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/20622" target="_blank">📅 09:45 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20621">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">instagram.com/Yashar – Ruhollah zam and Msoud Molavi @WarRoom</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/20621" target="_blank">📅 09:44 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/20621" target="_blank">📅 09:44 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20620">
@@ -436,14 +436,14 @@
 <div class="tg-text">امروز سی‌وچهارمین سالگرد درگذشت دکتر فریدون فرخزاد
 ۱۵ مهر ۱۳۱۵ متولد شد و در ۱۶ مرداد ۱۳۷۱ آسمانی…
 @WarRoom</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/20620" target="_blank">📅 09:19 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/20620" target="_blank">📅 09:19 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20619">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">مارک لوین : رژیم ایران باید نابود شود وگرنه این [وضعیت] هرگز متوقف نخواهد شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 144K · <a href="https://t.me/withyashar/20619" target="_blank">📅 01:56 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/20619" target="_blank">📅 01:56 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20618">
@@ -451,7 +451,7 @@
 <div class="tg-text">العربیه : یک مقام ارشد سعودی می‌گوید چندین گزارش اطلاعاتی معتبر نشان می‌دهد که میان حوثی‌ها، شبه‌نظامیان عراقی و سپاه پاسداران انقلاب اسلامی ایران (IRGC) برای آماده‌سازی حملاتی علیه عربستان سعودی ائتلاف هماهنگ وجود دارد.
 این مقام این گزارش‌ها را «تکان‌دهنده» توصیف کرد، زیرا در حالی منتشر شده‌اند که ریاض در تلاش برای کاهش تنش‌ها است و اعلام کرده بود مذاکرات به‌صورت مثبت در حال پیشرفت است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 153K · <a href="https://t.me/withyashar/20618" target="_blank">📅 00:27 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 155K · <a href="https://t.me/withyashar/20618" target="_blank">📅 00:27 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20617">
@@ -466,7 +466,7 @@
 <div class="tg-text">ترامپ: ما در سراسر جهان مهمات داریم.
 اگر زمانی به آنها نیاز پیدا کنیم، آنها را خواهیم گرفت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 152K · <a href="https://t.me/withyashar/20617" target="_blank">📅 00:14 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 154K · <a href="https://t.me/withyashar/20617" target="_blank">📅 00:14 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20616">
@@ -481,7 +481,7 @@
 <div class="tg-text">خبرنگار: گزارشی وجود دارد که می‌گوید شما به اهداکنندگان گفته‌اید که باید کاری کنند جی‌دی ونس انتخاب شود. آیا این حمایت رسمی شماست؟
 ترامپ: نه. من فکر می‌کنم او عالی است، اما خیلی زود است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 150K · <a href="https://t.me/withyashar/20616" target="_blank">📅 00:04 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 151K · <a href="https://t.me/withyashar/20616" target="_blank">📅 00:04 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20615">
@@ -499,13 +499,13 @@
 من در مذاکرات با ایران دخیل هستم. اوضاع به‌خوبی پیش می‌رود.
 ممکن است به‌زودی توافقی حاصل شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/20615" target="_blank">📅 00:02 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/20615" target="_blank">📅 00:02 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20614">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">محسن رضایی (محسن کج بند) دبیر شورای عالی امنیت ملی(جایگزین علی شمخانی) شد، اون سرش رفت اینم تهش میره @WarRoom</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/20614" target="_blank">📅 23:58 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/20614" target="_blank">📅 23:58 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20613">
@@ -515,7 +515,7 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/20613" target="_blank">📅 23:56 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/20613" target="_blank">📅 23:56 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20612">
@@ -526,7 +526,7 @@
 «گردشگری زایمان» (Birth Tourism)
 یا با اقامت موقت وارد آمریکا می‌شوند تا فرزندشان پاسپورت آمریکایی بگیرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20612" target="_blank">📅 23:54 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/20612" target="_blank">📅 23:54 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20611">
@@ -536,7 +536,7 @@
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20611" target="_blank">📅 23:45 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/20611" target="_blank">📅 23:45 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20610">
@@ -544,7 +544,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bwolXaMNHmRlT8i8RDglx3R7KZWH6wq792Lin3p3FQYGWjGxp8lYo5w3xkzdmoiATPNOfgZPe9QgzNCJMDgl-hshBczwkpeCS8tsvcFjNtoR5s1WY2NQSvwukd0xBiFxdacrha37nc_YuwI5dImM9tgwm-6ynjns-dxXP-O5ltzz_yfW2Ov1EDqi1rvZv87LquXdAGK00nOoyUbR2z7eyKwH_J-wabG7XaD2-wYbk6e1nWVeRccOp8pAy58wxKog3oesnFvCVltreSEb-1f7ji5aKIirgibgx4NkJ3dMDCjP9c74rck38Wi8zbuU-TxvRj5g5FyHbrlmcTWb9n_L8A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هواپیمای هشدار زودهنگام E3B-Sentry با رادار AWACS هم اکنون در آسمان انجام مأموریت میکند. دوستان بسیاری اسکرین‌شات گرفته بودند که این هواپیما رفته، لازم به ذکر است چندین نسخه از این هواپیما در پایگاههای آمریکا در منطقه حضور دارند. ولی این هواپیمای به خصوص همچنان به مأموریت خود ادامه میدهد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20610" target="_blank">📅 23:44 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20610" target="_blank">📅 23:44 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20609">
@@ -552,13 +552,13 @@
 <div class="tg-text">‏افشای تکان‌دهنده ژنرال جک کین :
 ‏"پاکستان و قطر بر سر منافع مشترکشان با جمهوری اسلامی، دولت ترامپ را درباره اهداف واقعی تهران فریب داده اند"
 @WarRoom</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/20609" target="_blank">📅 23:39 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/20609" target="_blank">📅 23:39 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20608">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">ایالات متحده، اقدام حوثی‌ها را که آن را "حمله ترسوانه" به نیروهای وفادار به عربستان سعودی توصیف کرده است، محکوم کرد و به خانواده‌های قربانیان تسلیت گفت. @WarRoom</div>
-<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/20608" target="_blank">📅 23:29 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/20608" target="_blank">📅 23:29 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20607">
@@ -567,7 +567,7 @@
 <div class="tg-text">پایان ۴ دهه واردات نفت از عربستان؛ آمریکا به سراغ ونزوئلا رفت
 برای نخستین‌بار از سال ۱۹۸۵، واردات نفت خام آمریکا از عربستان سعودی در ماه جولای به صفر رسید؛ تغییری بزرگ در نقشه انرژی جهان که پیامد مستقیم تنش‌های نظامی در خلیج‌فارس است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20607" target="_blank">📅 23:16 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/20607" target="_blank">📅 23:16 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20606">
@@ -576,7 +576,7 @@
 <div class="tg-text">در لحظه گزارش شلیک موشک، حداقل دو نفتکش در حال عبور از تنگه هرمز از طریق کریدور تحت حمایت ایالات متحده بودند.
 NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگه، سیستم شناسایی خودکار خود را خاموش کردند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/20606" target="_blank">📅 23:11 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/20606" target="_blank">📅 23:11 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20605">
@@ -584,7 +584,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-text">تسنیم
 : منشأ صدای انفجار در قشم، هدف قرار دادن اهداف متخاصم بود
 @WarRoom</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/20605" target="_blank">📅 23:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/20605" target="_blank">📅 23:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20604">
@@ -594,13 +594,13 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/20604" target="_blank">📅 22:46 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20604" target="_blank">📅 22:46 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20603">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">جنگ میشه ؟!</div>
-<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20603" target="_blank">📅 22:44 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20603" target="_blank">📅 22:44 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20602">
@@ -608,7 +608,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ok67E3SR5stQkPGtYKWSe32WvFkRkqY0kH0W1ZSwclDTg4lzmbETbStKQfY3viJ_05QHKri_J5KnIyYOPmkmbczxa-ZAPZLtnBduL9sj6Z8wbGIUVhJCM8Nk7r-xi8vwF4hILuzo0e4PfT3mMeStishpDyVeW-vfudwwTKHnxsWANrv8rvNsVOnMwOMiC_eQYg4VaY7EY9vqRisSHRwb-iuYCHsthiAlPb5Nmh16Ohwfptq3ENULc6HovFi75262QStcG_QZ5mrSLJ4bAz3P6A8FKjtBgA5bzu1H_G4uddrJYsn4hqAB1X1lS_96zV6f1rWS6bYxluJqnYg_AF5mug.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هم اکنون دود از پایگاه موشکی پارچین ، بی بی داره خنثی میکنه شاید براشون
 @WarRoom</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/20602" target="_blank">📅 22:37 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/20602" target="_blank">📅 22:37 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20601">
@@ -648,14 +648,14 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/20597" target="_blank">📅 22:14 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20597" target="_blank">📅 22:14 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20596">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">گزارش های مردمی با سانسور : تنگه مال اقوام درجه اولشون نیست که شب خنثی سازی کنند
 @WarRoom</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/20596" target="_blank">📅 22:10 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/20596" target="_blank">📅 22:10 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20595">
@@ -665,7 +665,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 استفاده از زور و تهدید، همراه با وعده‌های دروغین و اخبار جعلی، یک استراتژی شکست‌خورده است.
 حقایق را بپذیرید و به تعهدات خود عمل کنید. ما به نمایش‌های بیشتر نیازی نداریم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20595" target="_blank">📅 22:08 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/20595" target="_blank">📅 22:08 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20594">
@@ -673,7 +673,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-text">گزارش مردمی : اطراف یا خود اسکله بهمن قشم رو ۲ بار زدن ۴ بار هم دروغه
 @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/20594" target="_blank">📅 22:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/20594" target="_blank">📅 22:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20593">
@@ -681,7 +681,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-text">بخشی از رسانه های رژیم : موشکی هشدار آمیز توسط نیروی دریایی سپاه پاسداران به سمت یک شناور متخلف در تنگه هرمز شلیک شد.
 @WarRoom
 بخشی دیگری از رسانه های رژیم: صداهای انفجار جزیره قشم مربوط به مهمات عمل نکرده زمان جنگه</div>
-<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/20593" target="_blank">📅 22:01 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20593" target="_blank">📅 22:01 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20592">
@@ -691,7 +691,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20592" target="_blank">📅 21:56 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20592" target="_blank">📅 21:56 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20591">
@@ -701,7 +701,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20591" target="_blank">📅 21:46 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/20591" target="_blank">📅 21:46 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20587">
@@ -712,7 +712,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/20587" target="_blank">📅 21:46 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/20587" target="_blank">📅 21:46 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20586">
@@ -728,7 +728,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-text">صحبتهای افشا شده از مسعود مولوی با روح‌الله زم در مورد اسرار سیاست و پیشبینی جنگ ایران و آمریکا.
 ‏این صحبتها اولین بار چند روز پس از ترور مسعود مولوی در ۲۳ آبان ۱۳۹۸ پخش شد. همچنین روح‌الله زم در مهر ۱۳۹۸ توسط جمهوری اسلامی ربوده و یک سال بعد حکمش اجرا شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/20586" target="_blank">📅 21:29 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/20586" target="_blank">📅 21:29 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20585">
@@ -743,7 +743,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-text">شاهزاده رضا پهلوی : جمهوری اسلامی تو شرایط ضعف و بحران مشروعیت، قصد اجرای کنوانسیون آکتائو (رژیم حقوقی دریای کاسپین) رو داره. این کار بدون اراده ملت و تضمین کامل حقوق تاریخی ایران، تهدیدی جدی علیه منافع ملیه. معاهدات 1921 و 1940 و اعلامیه آلماتی، حقوق مشترک و نیاز به توافق همه کشورهای ساحلی را تأکید کردن. اما کنوانسیون آکتائو با اجازه توافق‌های دوجانبه و چندجانبه، اصل اجماع رو دور می‌زنه و جایگاه ایران روتضعیف می‌کنه.
 این اقدام از موضع ضعف و مغایر منافع ملی است. حقوق ایران تو دریای کاسپین قابل معامله نیست و هر تصمیمی بدون رضایت ملت، نامشروع و قابل بازخواست خواهد بود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/20584" target="_blank">📅 21:07 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/20584" target="_blank">📅 21:07 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20583">
@@ -758,7 +758,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Q9xnyEYAPHZTG8RN1F7KpZ4aNOG8L_h2Rmg_M-w53awGMqDV6ixlg35mp3lq_LacrFRfuGoCL1TrxE6iLusTEmfNtmKAHZgNuq2aECk28DqTHgpmThIJGjoh3k0S411dTQz0v4ix7XMYsRsjuDPLsfz6zuysnLTOty0vAzhxuGRqMXgv3t1yjG80PK1VXmKBOCK75p3JUtrStzwRCNSRZ_W2UpMi5GC-pK0YAN4liXfYd-QOef_vI3_RCDYFHUsZ3t9XgcdvYfYglgp0krtMsvwtXy0baNCRtSqFQ6bogVXyai5s__cIjhUBuTr10v_9RA5OecbD0RvSOISxnqHtng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رسانه‌های جعلی، مثل همیشه، در حال انتشار شایعاتی دروغین و کاملاً بی‌اساس هستند. من از عملکرد پیت هگست کاملاً راضی و خوشحال هستم. همه چیز فوق‌العاده بوده است، از جمله حمله ما به ونزوئلا که در کمتر از یک روز به نتیجه رسید و به ما امکان داد یکی از خطرناک‌ترین جنایتکاران جهان، نیکلاس مادورو، را به دست عدالت بسپاریم. همچنین در مورد ایران نیز همه چیز به‌خوبی پیش می‌رود؛ کشوری که برای این هدف که هرگز به سلاح هسته‌ای دست پیدا نکند، به‌شدت تضعیف شده است. پیت در میان نیروهای نظامی احترام بسیار زیادی دارد و اصلاحات بزرگی انجام داده است؛ از جمله حذف برنامه‌های DEI (تنوع، برابری و شمول) و افزایش جذب نیرو به بالاترین سطح تاریخی. این شایعه را روزنامه واشنگتن کام‌پست، که یکی از بدترین رسانه‌های این حوزه است، منتشر کرده؛ آن هم با وجود اینکه ما به آنها گفته بودیم گزارششان کاملاً دروغ است. در واقع، من واقعاً معتقدم این نوع «خبررسانی» جعلی، مصداق خیانت است!
 @WarRoom</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/20582" target="_blank">📅 20:35 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/20582" target="_blank">📅 20:35 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20581">
@@ -766,7 +766,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-text">توپ در زمین آمریکا است,ترامپ باید تصمیم بگیرد
 الجزیره : در خصوص مذاکرات باید گفت که به نظر می‌رسد توپ از زمین ایران و عمان خارج شده و به زمین آمریکا افتاده است. اکنون چشم‌ها به رئیس‌جمهور ترامپ است تا در مورد جزئیات باقی‌مانده و تعهدات آمریکا تصمیم بگیرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/20581" target="_blank">📅 20:24 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/20581" target="_blank">📅 20:24 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20580">
@@ -775,26 +775,26 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-text">بمب‌افکن مخوف B-1b از فیرفورد بلند
 شد تمرین کرد و با توجه به الگو احتمالأ سوختگیری هوایی هم امتحانی انجام داد ،  حسابی خودشو گرم کرد و آماده شد و دوباره به مبدأ برگشت
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/20580" target="_blank">📅 19:52 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/20580" target="_blank">📅 19:52 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20579">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">محسن رضایی (محسن کج بند) دبیر شورای عالی امنیت ملی(جایگزین علی شمخانی) شد، اون سرش رفت اینم تهش میره @WarRoom</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/20579" target="_blank">📅 19:34 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/20579" target="_blank">📅 19:34 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20578">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">رسانه های رژیم : طبق چارچوب مذاکرات میان ایران و عمان که نهایی نشده است ، در مرحله نخست کشتی‌های ورودی از کریدور شمالی تنگه هرمز در نزدیکی ساحل ایران و کشتی‌های خروجی از کریدور جنوبی نزدیک ساحل عمان عبور خواهند کرد. پس از پایان این دوره، تردد از هر دو کریدور متوقف شده و همه کشتی‌ها از کریدور میانی عبور می‌کنند؛ به‌گونه‌ای که ورود کشتی‌ها تحت مدیریت ایران و خروج آنها با مدیریت مشترک ایران و عمان انجام خواهد شد. همچنین هزینه عبور به‌صورت بهای خدماتی مانند سوخت‌گیری، بیمه، خدمات محیط‌زیستی و سایر خدمات تعیین می‌شود و ادعای دریافت تعرفه ثابت ۳ یا ۷ درصد از ارزش محموله‌ها تکذیب شده است. بر اساس این گزارش، عبور کشتی‌های آمریکایی و اسرائیلی از تنگه هرمز نیز ممنوع خواهد بود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/20578" target="_blank">📅 19:30 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/20578" target="_blank">📅 19:30 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20577">
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">کانال ۱۲ : نیروی هوایی ایالات متحده تخلیه بخشی از سوخت‌رسان‌ها در فرودگاه بن گوریون را آغاز کرده است @WarRoom</div>
-<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/20577" target="_blank">📅 19:25 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/20577" target="_blank">📅 19:25 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20576">
@@ -802,13 +802,13 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qAHYT17zlSLlW4KP0foqjprBQw1J42C4tZlYcr8WKOhNT-YiXp_Z8fNHbyNJYNysI3ADeDrXSQEwc6cjt6AIQANjX-AggKcONA6N_whlEO5qHD-rzpoTASE9CUA5gKFuaSYD2Ymav7n1PktEwze4C9lwy8xCgxE8fJYpeA5WqxlbCUoOd8_74Y9SERBcJ8tsfSOc5a-zWwVTqGvrUIuzskDqb2O_9jg7N2kmcFdgVHGlF5hNsik2PR__Pc2J2cQTJ4IgTpp0ALFEVnhPhEuOuPAzCsYdyozr6wOOIeSLYU-JLkpIZdaMENE8-p8akXeWvcR2_hutIaam61cE5dxLbw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محسن رضایی (محسن کج بند) دبیر شورای عالی امنیت ملی(جایگزین علی شمخانی) شد، اون سرش رفت اینم تهش میره
 @WarRoom</div>
-<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/20576" target="_blank">📅 19:05 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/20576" target="_blank">📅 19:05 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20575">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">تعدادی از نیروهای عربستان سعودی کشته و زخمی شدند، پس از آنکه یک موشک شلیک شده از یمن مستقیماً به پایگاه‌های نیروهای تیپ واکنش سریع اصابت کرد. @WarRoom</div>
-<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20575" target="_blank">📅 18:45 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20575" target="_blank">📅 18:45 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20574">
@@ -822,7 +822,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">حسین شریعتمداری نماینده ولی فقیه و مدیرمسئول روزنامه کیهان : باز شدن تنگه هرمز یعنی باز کردن راه فرار دشمن و از دست دادن یکی از مهم‌ترین اهرم‌های فشار جمهوری اسلامی.
 @WarRoom</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/20573" target="_blank">📅 17:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/20573" target="_blank">📅 17:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20572">
@@ -844,7 +844,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-text">‏مجری: آیا هنوز معتقدید که نوعی تغییر رژیم در ایران امکان‌پذیر است؟
 ‏مایک پمپئو: 100٪
 @WarRoom</div>
-<div class="tg-footer">👁️ 142K · <a href="https://t.me/withyashar/20571" target="_blank">📅 16:36 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 143K · <a href="https://t.me/withyashar/20571" target="_blank">📅 16:36 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20570">
@@ -865,10 +865,10 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3b68ab7702.mp4?token=vqSSGvPrUvQ-ymRJsWOaY1SEZiC9NSMai9dTci-d4GH_QalsqovkzeHIcdtHyIG2BCI8BTjIaRE36iE11s6fXzi2ZI8eu1O065OAv5i-ruu3ViZo1FQ6qALWs9lNk5l1ClQH1JvPQLuCjDDTogK4J2AnTU9Uetbq6HyNS9QB8mBdcCc9rA7Zb6mwj9qp2GaodBVpTS1Apnf4rg0JWip-OfqHEXV7hDjLgvY-Crw5xqcEWp-dHgiqnBzLjpLlM4Jrv_aYnyuRC53me2X0GbSuxdRZ6xSL0x2lKGYB5Zj3_75l_22SyopbG-pyRHMeLvoby7R7iA8XIZUkwffH5ipRJw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/3b68ab7702.mp4?token=qlig2vivaXWs3VTXqO-31kpYr1FipiwkbnYS0OFQEykDvIvqYJx40EKvmMnNkwG3hlphRQg3Gzj75mVRZaYURoLjm-N-DRithhlcSP59wMSqNwxz4s5oVm5M6wCzTb_ltjHSsBkKYqg8k5uIHlQP4jBCVLgApTviQIdEFWpcKBy6yGVVoLfaECiGuOEu1X1KuS4EDzjvdCOt_Ke8IOFftr6zyFaHqS0xZH2KPfppn3f6Q_NxFarzwQGP7BAoSSPuwfr7Dyjo75SCn2ai9iom11ahN0Uv6_-svFeKo0eBzRfXPQzrMrL7v2BAiXHgnDK2ScWXAUHZkuebJ7QFkRpW9A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/3b68ab7702.mp4?token=vqSSGvPrUvQ-ymRJsWOaY1SEZiC9NSMai9dTci-d4GH_QalsqovkzeHIcdtHyIG2BCI8BTjIaRE36iE11s6fXzi2ZI8eu1O065OAv5i-ruu3ViZo1FQ6qALWs9lNk5l1ClQH1JvPQLuCjDDTogK4J2AnTU9Uetbq6HyNS9QB8mBdcCc9rA7Zb6mwj9qp2GaodBVpTS1Apnf4rg0JWip-OfqHEXV7hDjLgvY-Crw5xqcEWp-dHgiqnBzLjpLlM4Jrv_aYnyuRC53me2X0GbSuxdRZ6xSL0x2lKGYB5Zj3_75l_22SyopbG-pyRHMeLvoby7R7iA8XIZUkwffH5ipRJw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/3b68ab7702.mp4?token=qlig2vivaXWs3VTXqO-31kpYr1FipiwkbnYS0OFQEykDvIvqYJx40EKvmMnNkwG3hlphRQg3Gzj75mVRZaYURoLjm-N-DRithhlcSP59wMSqNwxz4s5oVm5M6wCzTb_ltjHSsBkKYqg8k5uIHlQP4jBCVLgApTviQIdEFWpcKBy6yGVVoLfaECiGuOEu1X1KuS4EDzjvdCOt_Ke8IOFftr6zyFaHqS0xZH2KPfppn3f6Q_NxFarzwQGP7BAoSSPuwfr7Dyjo75SCn2ai9iom11ahN0Uv6_-svFeKo0eBzRfXPQzrMrL7v2BAiXHgnDK2ScWXAUHZkuebJ7QFkRpW9A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‏مایک جانسون، رئیس جمهوری‌خواه مجلس نمایندگان آمریکا، گفت:
 ‏«ما در انتخابات میان‌دوره‌ای پیروز خواهیم شد؛ چه مسئله رژیم تروریستی جمهوری اسلامی را پیش از انتخابات حل کرده باشیم و چه نکرده باشیم.»
@@ -881,7 +881,7 @@ NISSOS KEA و NISSOS KEROS، هر دو قبل از نزدیک شدن به تنگ
 <div class="tg-text">جروزالیم پست: اتهام جاسوسی به نفع ایران به دو زوج اهل عسقلان وارد شد.
 این زوج، اقدام به تصویربرداری از مکان‌های حساس، از جمله بندر ایلات و کوه هرتزل کرده بودند و همچنین خانه‌های افراد امنیتی را تحت نظارت قرار داده بودند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/20567" target="_blank">📅 14:32 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 138K · <a href="https://t.me/withyashar/20567" target="_blank">📅 14:32 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20566">
