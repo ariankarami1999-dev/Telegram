@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-16 15:35:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-16 17:15:43</div>
 <hr>
 
 <div class="tg-post" id="msg-2544">
@@ -307,7 +307,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2543">
@@ -320,7 +320,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2542">
@@ -336,12 +336,12 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
 <div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/o-r3d_sRf7cZPmUQ6UxtoPAwEc-Sn1wGXSnDB_QzMBCk4HfI24A7TRfwV-TFEsLKQGiFghR1JQ1EdKAtj4lol1NJwgfP4y5gpFgYsbgUwGhTvAmewycsQDrqTW76NX-6PJbFtPMy4QNkSwAhLd-v1UvmiHz893HqfDx4QDiTZTEJ0li3jxNomehblCTpNDMFV9CbOuryzUHlXTSfaQFgfuqasqI_90ntyMFItJV1xiyKu8nRf802bUd4TQGGddIhHqDTvW5mV00UtfkywUHMJbMG2uZTkwZFToSJFiHfuagymRGDy25K3KhMniUoy05Tdh3cXt6l82e9W3mOHsYjsg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VVRpgRuiAq-sFvFBdmZJ1w2mLiE1_0D9q_xE3V8PhDmtQsvv0fZ9EOcWQ7_25BEu1LyEi9Vxbns1MmbYOPHdHI6VAtuMxqAxnE92wWs2cCoDVZRvT0w_1QXtIRm3NaKSGFF9qlC1a8Xl791B_XhaTJpbd1XkRXEHCJXtIo_ElbsBeM0pXM51t-YlE8T5U3T1TR8bqLbzi7fCtZ2G20rhWOtPQqqcDt9Lz_ZM2Yc1XwKKjwZu8Qlb_9fOFqGfOoweILglKB5R9a3NZKgNowx-MUMO2P95tZrGSicSmxKtSrpyvhwP-eS4l3WH59QrEqvCTSGVGfuB1IuwG7D8U5RkIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باورم نمیشد که بعد از ۸۸ روز قطع سراسری اینترنت به جای اینکه بیرون بندازنشون، به نمایندگان حکومت تریبون دادن که در اجلاس جهانی اینترنت سخنرانی کنن؛ بعد دیدم این اجلاس در چین برگزار شده!
 روابط عمومی وزارت قطع‌ارتباطات گفته نمایندگان جمهوری اسلامی در پنل‌های تخصصی اجلاس جهانی اینترنت که دیروز برگزار شد، مجموعه‌ای از پیشنهادهای راهبردی برای توسعه همکاری‌های جهانی در حوزه‌های اقتصاد دیجیتال، هوش مصنوعی، امنیت سایبری، خدمات ابری و تاب‌آوری زیرساخت‌های ارتباطی ارائه کردن.
 🔗
@@ -351,7 +351,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2540">
@@ -366,12 +366,12 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2539">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nJAytXik_9Q6DgVT2MoMTiQ0V1YDA15QqcvXfDXa8C0_i5dG0wyWXh7j5x5eRYNi5cdImuW9wvirKzyOD9lUIKZnRsNxJ52gGtCFkAd8QcBkUq--hd9QhzRs12ehs56BKlkSHWGtFp_copRwJZmEdo-7fR-GnE6yLDSRZ2G2WAxStsIuLl_e9mfCJXE8bzF_yFKQMb3EgxVWUZ0ooAeb8k2-BW4kaw0mPrhhKz0oEE3SJ8uh1P0uWYYoEFa9vpJKEeAhRCAk8UKQA15f7olmysYkwS7j6uGYNIrIpPHrUnn8Ek_f9BbEZHAQa8GMXjzw5CqkBziWy8-Pn4J9lCJ-7A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GK3KYhy0deeBaD0STSuIl7EITF1ZCWJpU9wOG-VQvzPQdMcwSjQtyYbXN-RW-gpD2uCiWWspOp81xAB5OlJYVdnap82sUms-t5GHfs0RNd-xkgnKQksYj6FLAskbjJpJ2mnd_xrdEAC4_JUuxulvYVi3iYHmUrHuIka3gQZugiC-Uk3uU6dHRdR10d6QXCcUdqXg2sKwT5FN2ZA3dyUnFwfx_UAlC6ydoiytZS7AGfGNOa2m6JFCzJ_MrQrDstFsAP06v5vrcc_2zoBZ0QKTdPCf8pz4AE-pZuwdHyxXQdIo6hRGDeVg7rLoNdZDyUHZPaj8aV_1Kb1v9hJNKRyWKw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جدیدترین داده‌های مرکز آمار ایران نشون میده در بهار امسال ۶۳۰ هزار شغل صنعتی از بین رفته و سهم صنعت از اشتغال به ۳۱ درصد کاهش پیدا کرده.
 حالا این آمار رسمی مربوط به مشاغل صنعتیه، ولی فکر می‌کنین آمار خسارتی که بعد از قطع ۸۸ روزه اینترنت به درآمد و مشاغل اینترنتی وارد شد چقدر بوده؟
 🔗
@@ -381,12 +381,12 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2538">
 <div class="tg-post-header">📌 پیام #94</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/d6ZbtdEBBXwTSqp5egyzubsPffcSxUBdTEVZJ1WYXrVYLkxc112gImI3Ke5VhAfkvOsMuq6zXvv0HouWXKuw0DO1mzwTKwMuPdhq_CFWnAHvAmVcWOOQvqPO3UZcYMxAJhdg2tBpPFhdf-r43OwnSLlucsP9PwKiyFJDlffyaUAvi32CD-QUx-IaDJjK0Ha-VyatNSE5n0G5BiDRAZ_IzcdtNgLcZJn5HUWTVbI9PrIxHlRs2DxGIOGzTIMIP91jYhpvqDTtQcUhTy_UP-6HxrEJHtuSX5kGn71Nlqt0665oqrO2REKLSKtXcANSS9-_xuEBeoJn3ocKOzaEfU54OQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jdk8WjW2mLfQgc1_RwAmhrng1NVLkDxqVwuPajelw-SVmtj9u3AdQ92iIXPdpe795DMfyFuFWSm3YhLl9cfPG1Pmwd4QwldAiSgAp5eJQyVbkdSZiag99-6BiLvWRy_PCFDJ0bWBgVtR42VhVtzaeAjfWqENmRB2cocFUuwDdewTBdq3IGWe-O3B0ANUk7pPrt7kQVqgVxB6WjZAfTGF71QsWMeW_AJNSt1xwqIyPE7FBC8EihblAQ7zW8mSiTrqUpRH4aHvMYjJNUT8ib5Upc-3-UdT0yBl0PyNUizb2JDu-u-FhodR_GlPocgY2_FkSRWgLmRVkJ2t12F9X6-Xzg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چه کسی و با چه مجوزی تصمیم گرفت ضریب بسته‌های اینترنت بین‌الملل رو بدون اطلاع‌رسانی تغییر بده؟
 قبلاً ۵ گیگ اینترنت میخریدیم = ۱۰ گیگ داخلی بود! و فقط پول ۵ گیگ رو میدادیم. الان پول ۱۰ گیگ رو می‌گیرن!!! فقط نصف اینترنت بین‌الملل میتونی استفاده کنی! بی سر و صدا دزدی میکنن با عوض کردن مدل درامدی!
 غرامت قطعی‌های ماه‌ها اینترنت هم هنوز پرداخت نشده. این دزدی سازمان‌یافته‌ست که با حمایت وزارت پست و تلگراف اجرایی شده !
@@ -399,7 +399,7 @@ iSegar0
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2537">
@@ -415,7 +415,7 @@ github.com/shapeshed/aerial/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/ircfspace/2537" target="_blank">📅 20:26 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/ircfspace/2537" target="_blank">📅 20:26 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2536">
@@ -430,7 +430,7 @@ github.com/shapeshed/aerial/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/ircfspace/2536" target="_blank">📅 20:14 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/ircfspace/2536" target="_blank">📅 20:14 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2535">
@@ -476,7 +476,7 @@ Farshad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.1K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2532">
@@ -502,7 +502,7 @@ Taha
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/ircfspace/2532" target="_blank">📅 19:48 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/ircfspace/2532" target="_blank">📅 19:48 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2531">
@@ -553,12 +553,12 @@ sadroddinfallah
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2528">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kzt2GI05ShHeg9zkuNyqjOmK3_68V1YGIeI9uTFtZNbYUaiEhzik6lITqdpcyW-_Y3E4NCFzvgGA_C5S7ArCpfEP_013SylEFtPsTllrinY_svjcfcqT9U-jPyQfpv1Lmk_6S9LloljdPAk5c5mSHaUJhjzyTmT35Nadp8RwhWJeKCjo-7Q025uCu6IOLwUrlnMjhsMwULIbr7fTCP6cWmpJrT3tUf83lIB3FJujptidYWmnm5cBSZrz0QfD0RSIswoVokp7wgaghK_17qH77J6WSjGY6ouCwW2G44Rc8b2xHKOkFkDlHg4utsdJ0T4wDF0EK0sht35UHNmh8g7K1A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/saClK4WeqpBmsU7vtm4CiS_ki7_jR-eMiz-dE4KlEOtV4k_vEoU6lo47epwBMl7ILAaylkDdNRsF5M0Awp0PRQFQW0P6yZdsqPHrQfXTgPrqL-bSED4IcCniJKtMTCptqOm6yLv1460ceSm0VmRlSv5HX8AQ4Rh9rA07D2LLF0MuVap9ih2kMvKWWS6M202evBmnRPKCxC0RafMCENN1Pe_BWJaiEoG_eEq6EzG-Bwa6SaLzx5etHt6--Hae8ZYieAZeSrS3YW1EWBGyXHic6Er-j2gxpZESCZQlmLhQuq51F5RXMfWYTIDcVl6-wT5nNIewrPqaeHzfZUdbexe47w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هسته Aether یه آپدیت جدید داده، که امکان پشتیبانی از Zero Trust و تعریف قوانین مسیریابی، مهمترین تغییراتش هستن.
 👉
 github.com/CluvexStudio/Aether/releases
@@ -574,7 +574,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2527">
 <div class="tg-post-header">📌 پیام #83</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HATe9d7QT8EOeB1PqTkSnGpdtiKPtpl78g5Z0zjDJwrr9IiiB2Q-aCQ6nOn-eoKcuyaQcpO9kmZaQRfiusMfG0XVQ9TkuPIDxK0OLLxstx0QjMoogdp5b6F3rNNd16oOH2oR68DHvMMcpv4tVKNh0WB99Cr7N1Bdotc1WYmjHf7mLumt-aw6R797xAkXXkJjjFxmD41fMpT-2NTJ1MTX3nu-ff-805lFJLOCU8NlCkaPm7vWytoZuQvuNjrjZCdzzU3vIUukGVitNzk272wWA9FTtB3vZas6coLwDGUxqQTCcHVtnTp4bZFrKsmTBd8ZXfG1OTpxwemJDslFc7AzyQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OON-PB44jjpB2Mkshh98_onqJRvBiAur8FXLeBEJodnLjdHQPi36xTQZCo059Ut5-B84rntUI0xRMLAB8GDsMR_HNN2c43J6TAt6ejB0Jpr-E07VdsxYCTUxpbpvzBWB4J7YQ-Mof3TRhhTiMgmfeOPpLd6Z9Q4sbg7SOyLAHp-gFfmOcuOkE7AlXkRp1LY0jPOcBMtK5tzd8AO39P4rpYnV02Q4SWLxk49NcFNRdwkyUUR686szJ5sS1aWCLRo0DanjDLQ45QDHx02Epvh3UmX9TURyVBJYMKpIJ_g6y2aVrz9w6U-xsvAJ37IvFxkgm9EMh4YZHfXztm95WUW4kg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه جدید از فیلترشکن بگذر برای اندروید در گوگل‌پلی قرار گرفت. همینطور می‌تونین نسخه ویندوز اون رو از صفحه گیت‌هاب و نسخه آیفون رو از تست‌فلایت دریافت کنین.
 در این‌آپدیت هسته ایکس‌ری به جدیدترین نسخه بروزرسانی شده و روی افزایش پایداری اتصال، بهبود عملکرد کلی و افزایش سرعت برنامه کار کردن.
 👉
@@ -610,7 +610,7 @@ testflight.apple.com/join/cRSCr51a
 
 <div class="tg-post" id="msg-2525">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vREEeCmsOjkrhaem9cQGPKCjOrXMX8OB35zseCMJeDzoNyQvVBqp7wqLzBVg9G-uqeWwsvptY1epiUAfJd0p50nnhxNfYMgMc32Dbg6MsAY8CXpJrTpOXe8ATWKht1YG2s6fXy5fuIEvzmRhHYfYkXDHPAevtpOIyArrXfLz-Bvp4FzEKsmmnzcEfdzY8JL34WV6fL-JFmp0TDnvmALHHEElQtUHxFbZ-SKumapdOE59aboycX0i4387T2-b0gC24m0b_QysuSzAKjfAT4lq6P208Ym5IY5BOtry4F372LPmaB3TFx2vGQIvjjekRgJ5RydlpGEV5wuYgJukMsMcew.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lzFKXmdgPA-0KM21IThMN1X40l61tLXkO5ntX_V_s58QtnG61S-wXoPpDmmfrp9d_s4F1brluaZhe3yrwWvCtDXZrUfP6fgN49n2IH1GmyckMchQIVUegaIuAnHL-FjVoD-BJAD0qzLciFyn8E-XZ_Fm0YlsYtbfcdL0DPtvDe_Z5WWByDAWMXW0oPv5HfytMpHLV6icBEEXfGSR3Hfao6pjWobnBU9qnbKQwMBcroLmq9YfVFf-RGCgjw-4kxUKuBkD7Yn6W16hb18dfeO2jLFAwZDa5vz7J9zY70evIUXCqll2t7Pf_tVUk2kp82ar7v1gg6QgdzaAAh7H_-RM3A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گردش مالی ماهانه بازار فیلترشکن‌ها ۱۵ هزار میلیارد تومان است؛ بیانگر حجم عظیمی از سرمایه که به جای ورود به چرخه تولید، نوآوری و اشتغال، صرف حذف یک محدودیت می‌شود.
 با چنین ظرفیتی می‌توان ماهانه برای حدود ۳۵۰ هزار نفر، حقوقی معادل ۴۰ میلیون تومان پرداخت کرد؛ اما این سرمایه، به جای آنکه به موتور رشد اقتصادی تبدیل شود، در بازاری گردش می‌کند که هیچ ارزش افزوده پایداری برای اقتصاد ملی تولید نمی‌کند. /هموطن
 🔗
@@ -620,12 +620,12 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.7K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.8K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2524">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hw8fE5Ak9u_ec8tzxd0x5i8M5kAYdUzJkxdbXqGMLgtj-BMw_QlPm74iztShEL0W4OtfyMP6f4FoKteqh93kQEDkin4T3mLaITtSArWFULDnh6y_dJ3fQKfI-WeYp-ppglR34lagblnaMpXOqKvtckgFWpK5Cq0kI4fZbceyNmcTcT66tL-fUvkVa_UsKqHn9fSvNyVrgDeb3q9fQDzM-svq1vn45mCLPe4AqVBPHJjGvWIHytARojjAmvnU1RmstZTONjvCLwhBVAJNVBClRqQjmftxiAEq93JOxpK1AflgwbpDW0MbTK6xmdkMB0oW_fnsAmSUS9vCIioZbDAIWg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EUZ3anr2uQzFzB0B9jx_BpclpxLWFg8zzbJxNGebYZxPvcYqRcb20-ugbrL74sQqm-yUjtKCyhr_06XlX5O3lQ6OTBjBvXyj6HZ4AQVYc7itSJjrko4NNfyQaiE-_4iNY0VvRs5NsGOJBW0gRopSlTK5I5dawd3XWAqhIH2dBVQzrtTx1z0faTP4Zae-GKsCo_npB4_-m5Bx6YGQeyh6wfmYk06m3o6HseB5AzVPbVyEw4kjH9mv4KlRRaVn-VrODPkCnsitcfXCTzZt8FwNxamgnljqtqD3W3oxFBtx90E-UJZYHpAd2cdVxUMZq0ekXOgJDKIed-hpBCuVGkyuyw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هنوز کسی مسدود شدن سایت فوتبال ۳۶۰ رو گردن نگرفته، اما سخنگوی دولت گفته "هرگونه انسداد، تعلیق، تحدید، ممنوعیت فعالیت سکوها و کسب‌وکارهای دیجیتالی پس از اخذ نظر ستاد راهبری و ساماندهی فضای مجازی و دستور رئیس جمهور شدنی است" و "این موضوع یکی از دستاوردهای رئیس‌جمهور است"!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -634,7 +634,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2523">
@@ -655,7 +655,7 @@ github.com/immaghzbad/AetherST/releases
 
 <div class="tg-post" id="msg-2522">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/umqAcZecPJH0U5M-zQfY5XVgs8MHpz6ugGHJJFpNfkxUp0Uo0BCj2oSgu9Voy1ujJj4U2tmduSy5aL2af34OP8mbWIg_eJGoGkABXkWxFlyCqlq0Uvkaz9MTuJRYre3kP8DwcraX-FqiS2GYTpfJqjx6Y8WmOTpT7R4U5-DsO3nSylVyDy2jiq4SQwEvymJX90uL3Uc0EPLQX5hkf-7S4bFz6wBJTWE6PvVGCf3jAYGh4N_p5KgmhjW_42ziJ9vERtWCfBT6IqcaQr2QigZAn_9I01c_nc2_l9d72IA3sGF-G9mQ0uCjHg_aP0khHhE5g8frbktBItxrJSE2yV1YrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fkOgwgPWeF9-0n9wZZmgiFIVSdGRFj-21Zqb-Q-XqfzmJf4dM-wSNcOFhqq_5Modkk6xAhiIZYMlA7r7jMtrUaXJQti_esksLRTL3rW77gCWTxjHQ3CWqd6LPl30d_w6fwdin-9lOgi5hE8AG6xy0HEdxTN5OG-MRh15M3Rg-SBhnjg0fbJB-4D-e0WQC_HvrnwAYHFk_nD5bQ-x7ZB9Eog-XsZVGbvxkLruyuEud8dsa9WIsN0YpFukZelvOBeMvoJB8SZgc6xIW6ziTnUjMPLiENUbPHD0_D_idtip6739epyJ5RIm1eO39fW8u95MavakQt1MY6zMmQYsLHiU1Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از چندروز آینده بخش جدیدی از قانون هوش مصنوعی اتحادیه اروپا (AI Act) اجرایی می‌شود که شرکت‌ها را ملزم می‌کند در موارد مشخص، استفاده از هوش مصنوعی را به‌صورت شفاف اعلام کنند. بر اساس این مقررات، اگر محتوایی مانند تصویر، ویدئو، صدا یا متن با هوش مصنوعی تولید یا به‌گونه‌ای دستکاری شده باشد که بتواند کاربران را درباره واقعی بودن آن گمراه کند، باید برچسب مناسب داشته باشد.
 همچنین چت‌بات‌ها باید به کاربران اطلاع دهند که در حال تعامل با یک سیستم هوش مصنوعی هستند و محتوای تولیدشده نیز باید دارای نشانه‌های فنی قابل تشخیص برای سامانه‌های دیگر باشد. البته استفاده‌های ساده مانند اصلاح املایی یا ویرایش‌های جزئی معمولاً مشمول این الزام نیستند.
 در صورت نقض این الزامات شفافیت، شرکت‌ها ممکن است با جریمه‌ای تا ۱۵ میلیون یورو یا ۳ درصد از گردش مالی سالانه جهانی مواجه شوند.
@@ -671,7 +671,7 @@ github.com/immaghzbad/AetherST/releases
 
 <div class="tg-post" id="msg-2521">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iHkTDy2dhhL7dxdrmpPz_sCSb-aCpBa_qUgoa2r7pAzog_VKs99yVA4dyunCiWqVwu52Aa2TmRveQKjh8kA7kMmLw0pHgHwE9oVSqAb9Hx_vbV9zyeTKv1WogXXiit84bxMsv12BErf669ZiWeAatQ5XMB4D6Sy4Altzs-8HibfTFg8EZ1wgxww-isETOPBL85Jb0W0YWTTneozWe3RfCP1z6H0N_rD_Qa8uxQaOIbemC3i7Iq8b1CJKu7DbdsBT5Nripyq9OyyBWbdW6LKHukVuiwiYpqKwvdfA2q2eXz1fwCddmkSghP3yT6bJrRxUiXotNgZtvDHZMPdAhcrA-A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NvheV1rsYBfccYfK3IJh6AoNwyTSJ74BYTTpAX5JZRMpB1pOtX95pq3qYFoPSMYytN51-QV147035ZKtD6YIAswdPaQd_lVyRl96jTsIZN1mZZMSdDk3CTX9lZYAI4Cr7fANHCuUSUDimZhVjCW56wk2vhtHvGcZuGK8eMEnyw9D0Ul26D0TjoAWjgxsBY4vhlLSM50e1GCXyIf2d7zmaKwPVapDIHTrHRxe98XX049wSm53lUVzCuW9Bxtdx_bOniJaZ9bWOGKXw4n_4a-tNCWNfi60SEU82_s3MC7nno9s7EPOyTmdet5NNzfN8Y-00dVEO6sjl0vz4ocNTGmx6w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسپرسکی از فعالیت تازه گروه هکری تحت حمایت حکومت ایران به نام Nimbus Manticore خبر داده، که با نام‌های Mirage Kitten، Smoke Sandstorm و UNC1549 نیز شناخته می‌شود.
 این گروه در حملات جدید خود از یک Backdoor ناشناخته ویندوزی به نام NightLedger و دو ابزار Tunnel با نام‌های BridgeHead و ArcBridge استفاده کرده، که قادر است اطلاعات‌ سیستم و شبکه را جمع‌آوری کند، فرمان اجرا کند، فایل‌ها را سرقت یا حذف کند، Processها را شناسایی کرده و از صفحه‌نمایش Screenshot بگیرد.
 بخش نگران‌کننده‌تر، ابزارهای BridgeHead و ArcBridge هستند؛ این بدافزارها سیستم آلوده را به یک Relay مخفی تبدیل می‌کنند تا مهاجم بتواند ترافیک خود را از داخل شبکه قربانی عبور دهد و به سایر سامانه‌های داخلی دسترسی پیدا کند.
@@ -730,7 +730,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 
 <div class="tg-post" id="msg-2518">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oP4RqRRldyPnDcqhfT-P9z1Zjg36t3-DPn61DwHwEa30GgGboW4us5z4M8il19rPQ5fSjKJwpyWDK0jipHr1EFwTBkQxbkoPRSX6Vv07yFiNHOisPM4FkxWJa353z1PhbvOsKe9GsFZe4cm9fsxsEfL9brelVjp-9-q2aZ8S7KocZc3Z8CPczHdRzeXEP6GxcpozJ5S33FeCMnpqR9MlDiSft11RpgJe1HUFauiZPKwO2LJOOvvcaPtsKhOO-xY8674OGMz1XMWkCRK1UoRVDEeJ6e9v7bwqQ7Pe6L9To_50A68boBjOGB2uKLgCmJcmgmKNTXDxeuqVAgfBCMPUEQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cNNEivsQesHKRYOuruBB4QISmwhGkHZ_TFrj1NSSArVhhBg6FGx9xZs8eVHoz_d8K6tbreEjDKD1khkhca31_tc2D1t4OwpYhnqcrFOJNGgFeEOUZz3TR4dtAdXeJFTHWVsWkcSKZpMauw5aFagMavDskfyHnzrnskyvTS69MolvJbTHFEthOEyPKkAZW25tr8kziQZ5lm7u6nvfwrnzmzhx9tJ18gf-7AkFBFru5b13vBba-b8lX-V_dJkcHUvc6xFe87ZIqJ5TWDOJEICnCaDNikc9e_tRZBsB1Ux5KcG5H8cDaHs7LA27lJe8fBpli7WDXdutM5L1Coz49gUDFQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تازه‌ترین نمودار ترافیک اینترنت ایران بعد از ۲ دوره قطع اینترنت، نشون میده ترافیک هنوز به حالت قبل برنگشته.
 الان دیدم یه نفر یادآوری کرده "۴۰+ هزار نفر دیگه نیستن که به اینترنت وصل بشن"!
 #دی_ماه_خونین
@@ -746,7 +746,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 
 <div class="tg-post" id="msg-2517">
 <div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DC_BjYKVz8_8fGo3Al2j002H28-Zak-DA7mCiFivDBOf9ua2czU__OquisiwMy1u1dtLakcmuYqE5dMu7hTqVFTnxrqQfJ7pKLD0QM99CmyhzZq5Fraju5L4oL5Na41vIhdAOxTsxR1g6fP99OFRNNGNF3ePOZWXhnEj1iMatHkChaBp4zowcD4YxXmDo-jfSeBQpzqCcC09VvuWkvr4MTiPjIcN-vRIDhKMQH9qoQZ1bfWfVxyIq3fkmaTXwtRpcdl9NCKYb0t72I_gWdb1aHaA1DkVfHbuwjnNO-Pe4YlMgkhgyj7ZeVgXGrablO3uMlKXUOeHe9fCVPcXrNczzw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/avfVHG2k03S6bkKatBj6qaWJd6Ow4A3tTY_h0dvnuzyGxO6mqBvLuiVjVGjsY0KYl5Nodgz6sHvRLgLoyBFUJNzuUollP2GEZ6WMK3MrElf_UtCKptHmRlzW-WBKr4t5pbIPdM4iDd4rlWQS15Hi8BhqS1SGPyHVjcbpQGI6GckYE7ZlsWnAEMXPCUeDnExFuIu2MYVfyYPd3UQN7zstJhZiSEl0okN98oTKNkSuyG6ywKXTuGCckHfVRc7fec29R06gDr_R0ADZEOtsyZOrUpYCmhfS0Z2kSox_OOTBzQnRqQaP3TPzxzBO-qn_cAIvxKz6TaxnOUKsZAMqp9tgrg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر شیرین‌سخن قطع‌ارتباطات گفته "سایت‌های ارتباطی در خاموشی‌های بیشتر از ۲ ساعت قطع میشن و راهی برای تامین انرژیشون نداریم".
 یعنی از هر زاویه به این مرد و عملکرد درخشانش نگاه می‌کنیم، حل مشکلات و امیدواری به آینده فوران میزنه!
 🤡
@@ -790,7 +790,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.3K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2514">
@@ -809,7 +809,7 @@ github.com/2dust/v2rayN/releases
 
 <div class="tg-post" id="msg-2513">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qCnFVWEpaRwAIbbWKhcI_BvY4qMj9ASDLZNt9hl9fWcIr5KHs76ePMBtaPfAnRCB4SMc8Hwb7g_EkHjxYb_OwiNyrsb5kvkafsRwMHqcYQcOnU7S9oQfQgor18NZ2ATA4ECxeMZxT3BwzREj9yHKX6vKlf6sj-gg90GNj16_ktX7AfgVky6fxRztLkVIXWsjTOoQZgIFuAor_I6i88ZWhPuepoSFkbz5vAwZx77BW3wvuy-mEwpcm6OYKS1ahO1rkV4tMgR63vl2i2K0MRp9xEO-EF3ysFc7hD8y6XBL0wNJdmMZILhJeL2aQUMnn4h120giGbZ4qQPb4hEURhvfNw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/M3HTejx5_sW4rNarGx1iXqi8c1orpPVAYUHv3VJCogdAxUywR1Fco3BCLm39oFrBeUXXL5nvmdvDF8DVBIszhJnxWFcYF1s26ocnBtuyl5QbKxTjIGBFoxO9pKv0SLrjS734zv1uZsy-6nBpmXYlICr6p--mdYWELM3CVESbHUB_MMpM8J7v8sp8Oa__CtqwhaSm_-3nETLd4OSgFJXQk41X5l4EpcCOcD9TfHBRD7_pcIChZ2ILk9o5mZGP7nTrAi_OsqcKRjc5fsPD3SD2Lc8bopp5W7VLLdcAjMi0qx9h_kGf9DoMVQoR3gSdTtmOAFn8a1nTNupPLUZYpxbgig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبلیغات تلگرام ابزاری شده تا بعضیا مرزهای بی‌شعوری رو جابجا کنن.
 هیچکدوم از تبلیغاتی که توی کانال نمایش داده میشن توسط من ارسال نمیشن، به هیچ‌وجه مورد تایید نیستن و اگر سرتون کلاه رفت یا امنیت و حریم خصوصیتون به خطر افتاد، مسئولیتش پای خودتونه.
 🔗
@@ -834,7 +834,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39K · <a href="https://t.me/ircfspace/2512" target="_blank">📅 19:03 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/ircfspace/2512" target="_blank">📅 19:03 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2511">
@@ -1235,7 +1235,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 89.5K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 89.6K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">
@@ -1402,7 +1402,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/ircfspace/2476" target="_blank">📅 07:48 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/ircfspace/2476" target="_blank">📅 07:48 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2475">
