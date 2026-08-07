@@ -292,12 +292,12 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-16 18:15:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-16 19:14:45</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K2HDM9nTmF02JAKXh5INxGXSPWb_hi6Q3txWsSn5kyDRa9Hfx0iMLah6iV1caf2NXSuhUdcyMH8fmR2p_X-reoyLDxmMdc9NF-NiR7_0FcsCA_AoFdZ6h1vD_5kNtIhiMc2QwHGETIm7ltkfhDkAfBRJmq4eg6lqq9hNUQfgQq5r495oSHtQ8SSDLkL1aJyz-gBlHva3db_obH0p4D4dBH57McKr8oMyjxTKJLl-PkfNxJTyBNoEV39WA5nFOmDAkz_ABS8cxE4NbgMkVGqkE_BGgYE4fh6v4TyeM5n0DUHrkYYt47wGRnL4EloDjqz7ABkmbi9EGpnYtLg7J0dSTw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P6T2ZdjSDZpynbkThXpXWRdoMi0lqH8cCtieY39qORqraAEaS9uwuCV_6W-imwZY1-SYt0_uiYkv7d5zPYEAS1MBOu2cFYXpE4jYCX-vHkdk6ykeIXFCiuBM8nCEBgepj2rj3Sk8MUjmAFiqEkdstsnmAQVuD6eGCT2C3Tm-syDv-55QThiKx5nxQsZSzdEbhjFNzzgUm9fozjj0DPBIAUGPFVysCarWu45FAWeRobSFGvmZWGKXmNWm5TQgTUYLDv_b9nBFcmvgFg0xZBrGKa2vyf_JukeythpSInQOQvRFwPoluyClqvLb6FOnpAgPliwpH7W6C9DTm0MlqqU6Ww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
@@ -872,7 +872,7 @@ NotebookLM
 
 <div class="tg-post" id="msg-896">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IKorLkkj-mT2h3V1D1GtA2AQ2bIkn46fU3xUEBYgRzzBbdXgzYn1jHivodvH9gFjQAJcwoNxAMEyWYtfef5KdFO_R2BcO5sae6iKnzVIipIITgsL1zrBvEc9_2XNNRRVcwqK-DJJTDdbv41UWAWN0pGOtI2UqoXqxrI1RBNh16wZB-XFMCwjY53kCekOfe9HOwRtO7ZK-ngVz__PXv7FynWP5nqAQNkzbfJOWGzcr7qYeqrhnPwM1bwdUjM_YupIPDZ3Hmjlw5H1BNvt0PbVnOdxZZGwBIhDKALtvs2sqzNTQDTr1sRBDkF0ix_1vBsKZYzEc2zv9MM3c80gqHLT3g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/j4pwMHFfUXrrEkzL1kH3uW7hBETsdfdtaZvoWN-r58BXQ1aUoBNE2TfJi_QTiLNeuYYPb0nDbWDhwInGljre_Zs5S86yEdfBbaRqZjY0w-hxbgJemQKND9pWhN2bWB3_J5bItgtgGGgAAAdcp6I5pJZGFb3950uHrHJDCe15U6y1xpx4VvaT-g_otXIetVLZxpLd438ucCnCpxPkSojH_2cSNmIgtuRimUgrQz2x76xmTmycqVYIuQsKrcXaIB434o6TvE1-72ABs6Nfv_Q9UfYI0qXdcyWBr_HCwvIuNDtj19wjHeTqSNBrbmoYx2uaVDE1tvZeZiu5DyyLfw10cQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📌
 برای دیده شدن در AI Overviews چی کار کنیم ؟
 برای حضور در پاسخ‌های خلاصه ‌شده هوشمند (AI Overviews) نیازی به AEO یا GEO نیست! فقط همون سئو کلاسیک کافیه.
@@ -1492,7 +1492,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-867">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a8MKZ_fNdLWUWCwWEXU6B-meYb7WQqSJ4wR4jM1WqhAWbpHwy9F9UDifNoF2DPtDwCsKLarS3J10z0OP9KVblygzBqLhIw5VGXiP-1Ovp2pmXEiGhMOK58aKZfC1nQ4vg5jU2ZwkA1OZEZ-1Ea7oijE3hM_alKM0peCCFO27hAHepWKeSqIKumNL8jS386mPXi8yBjhQ0q2TqKXUUJbjIp6NIMBHiTBOay0WcsjJ7CvQR8q16goTPm1izX2v-jT4EMPC2Bq-IQNaHmOq1cNRqMDl4lFanuccLEPz3PmJb6G0n_zckCeGTewAiz-4wvoVbTwoYhHdDt1Fn2qFOAttNw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VqRe3nZ1c2vXH4fMTSU_7ktYqz3p-Ap_KBYhafp2uS6VQAfLBbWKeabvmD2ldfVGB52C-ON3pXKxPNidFcaS00CLN6u12WXC6efIS59V9bVKSxci65tWdrUMWC_Uo8Un-MinagxhkOQwCvDrjq6IqGjo2y8kwvFGa4BXJw72XYcrgbp_9QViHqV6VFB0tg6t3qJYDVSK4eH6pz7-xXoTwmO4igpyHyLIqBjXqVCNWEidKLFoUAfBuury4kFk4NRxoT-7c2husV3lT8uND73hgKTQlziUX3Fwx-p3bEtNbdCXOEIenvGirGj5kUQi119mnp_shF3yfr5YCJN1wlkqsg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل مستندات Google-Extended را آپدیت کرد: کنترل بیشتر روی داده‌های آموزش AI!
 🌐
