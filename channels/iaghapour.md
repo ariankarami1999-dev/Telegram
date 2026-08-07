@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-16 11:37:30</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-16 12:59:19</div>
 <hr>
 
 <div class="tg-post" id="msg-2853">
@@ -333,7 +333,7 @@ Telegram Premium
 📢
 Channel:
 @SubMarket_IR</div>
-<div class="tg-footer">👁️ 5.23K · <a href="https://t.me/iaghapour/2853" target="_blank">📅 21:28 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.43K · <a href="https://t.me/iaghapour/2853" target="_blank">📅 21:28 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2852">
@@ -367,7 +367,7 @@ GPT-5.6 Sol
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.61K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.77K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2851">
@@ -402,7 +402,7 @@ Adobe
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.31K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.43K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2849">
@@ -458,7 +458,7 @@ EA
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2848" target="_blank">📅 14:17 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/iaghapour/2848" target="_blank">📅 14:17 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2846">
@@ -521,7 +521,7 @@ ToRouter
 یهویی این همه آدم باهم دیگه اشتباه میکنن پس. شاید همه باهم دیگه دارن توهم میزنن‍!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2843">
@@ -583,7 +583,7 @@ ToRouter
 <div class="tg-text">⚠️
 دزدیِ آشکار و علنی یعنی همین! اپراتورها رسماً رو اینترنت بین‌الملل ضریب ۲.۷ می‌زنند؛ یعنی تا ۱۰۰ مگابایت دیتا مصرف می‌کنی، ۲۷۰ مگابایت از بسته‌ت می‌پره!
 با کدوم متر و معیاری این ضریب‌های عجیب‌وغریب رو روی حجم مردم حساب می‌کنید؟ این پولایی که بابت جابه‌جاییِ چند برابرِ حجم از جیب ملت می‌کشید، از گوشت سگ هم حروم‌تره. بسته‌ها رو که نجومی گرون کردید، جاده‌یک‌طرفهٔ کیفیت رو هم بستید، حالا رسماً دارید با ضریب زدن، حجم باقی‌مونده رو هم غارت می‌کنید.</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2839">
@@ -638,7 +638,7 @@ Xray-core
 
 <div class="tg-post" id="msg-2837">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d8ABtylzXQGJwV3zwGXtYSqOgf3rAVnEGH6xejTd0X_GrPGt_DxG576bliwOo_Xbw-frZctf0ZFPzBSyOx-ktTVLAgA3ug5o3G-iyATlXzBJwiSDJuklajP0l6Jl6_rsNXsqFs3evJahBK0gwxUso7oSe2CllNpJk_sasnXaSUwWQoDtoVCA17RppAGbK3Z_yGgX9DyPrYMkmCvHgLmZ2q3xb3M0R7Fo0963iirXgKTIpk2hJzeNdt21x4OQHW3oDXCXSvOcGgyz_lNPx2ef-5Zdw22eqywxiM_KoTc01VfCsCAwrMXgveVfaTK8K0jzcfZUEqs8THk8rwoV1Z2RAg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CSl0ZROkqM9fRBKjWPIXQbo3Px0Tq8RWYcl6NPh-zUkXKacMN_IXqz0u76XsewiN-MR2W3SIbYCYInZJyVpJMPBpSbxLgANl9g7GbgQay2ZEB0V43tA1MFQP4mYZTMNjm7uQyubGUEAoxZ3swWJ7Gorwwn-FFL6p6NHNFyBxQ4NhfxSVveuQAtofwffVPCIr6JhAxmeTfgeLJunHkjx3ZxAkH4r4wUO8sxFl7etYKlXvDtCkWkr6uieldh5lo2IqC-Hy7zPEgpv44jM_pRl2ngNJeie1_Ez41Pg8mdXr3qc9MeQmyYN7lB_9WSLAe_Bwg3TLT3ZaR1EyLMKpw4asjg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 معیشت بیش از ۵۰ درصد کاربران ایرانی به اینترنت وابسته است
 یافته‌های جدیدترین نظرسنجی ملی مرکز افکارسنجی دانشجویان ایران (ایسپا) آمارهای قابل‌توجهی از ضریب نفوذ اینترنت و اهمیت اقتصادی آن در کشور ارائه می‌دهد:
@@ -715,7 +715,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 
 <div class="tg-post" id="msg-2831">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/o1lwQigLWNWj2yHsi8JpF5Yi7MWwrC20vYD7fdoO6UJu9cdEDkj59ZXJLMgl3di1nB4WpIz8W_MqQLPjsznAkRI2etOITJ7Aug6MRQ0pOMgwDrhBFI_4jIBfWvvKXk-t9jZXe_qgC-FQqZPjDRJU3EkIYTTX-SThvfU9PT7amM8MO8ra65S-Q7T851qm7dSX28Iq89E5hHDGACal6f-RP8M9LPa_eV_S-RYL2AIGaRlQokYsrQWSdmVGMrUEAF8wv9q7IKOZ7sDCDRdGISl1C_Go6k1aAH8XW_7MwdSBZKBE9nAKnJARKCfJjBvkqf0-bCig1BJaFASMrcT5mAyGiQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Nb21oNaSqcOHdQLXXf03skXeUs1YYV9rZ7LZ3EyxQwo6ya3EFMiyU0oOiNl5uzvOthCvX4nSUgioFjDe5riE9MaLfJgm0jNSs4VLye3ctP3l4f-cym5dKs3aaegvTaspRXhUKoLzR4VosaozhY5U5378QDAaEkZU0ISFmlJz1PPOuj4FecJSAp8c2bDD6gcmSr7XdVmR6AlAz8nnQryGoUA-j-rFJqdN_l2hxGmmfQ2iN6SQIjpX3Jo3Zp80C7edSVMYZS1SO4ffNeCTuLB7gm7IDccCK94fVxj-mnUGcGEEGgHPXfEuFML_Qi-C9Io8w7TDA7Ao_7XuvPv5_Fvdyg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 امنیت حساب اینستاگرام در صورت استفاده از VPN
 تغییر مداوم موقعیت جغرافیایی (IP) هنگام اتصال به VPN، سیستم‌های امنیتی اینستاگرام را حساس می‌کند. اگر ورودها غیرعادی تشخیص داده شوند، احتمال قفل شدن یا محدودسازی موقت حساب وجود دارد.
@@ -1437,7 +1437,7 @@ LangOver
 
 <div class="tg-post" id="msg-2784">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pKxfDrS84XKV-V4anb1HwgjuUpPG9KRGqrhD7rdNSSzyX6-RsH_g_9lygBVRjo3IZ8YU936YwXlA7jrE47gbJwZykMWPj6Tgu6qWQgRTm0cNAHF-Nl5lGVJL8wPHmR_PIBNo0NSD7utOXOKY9f3dwFkLjAf5ZvMBXJixzwN5FxpUwKzrHKXYdjvIFQ4lmi3gRQjtDLCDTSya_mLqeuzKZP54jaYrQNHAgiUpCkvjBGY3TqxIvkq3LiyBg_MHC7xV4G8CIoZBpqTIHC8H4NPgLCquyetZAVHc1MTCpZDMXePgTSzuaf5qdrm4PX7mIiIUm5jYDf1zy2A-0jFqqrhK5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CUTyPW76LOLZfsIi-AoUPNSaoxLIw_C764e0GL1h49xdXsPMb7Fn8fIDVdyx9UCKPkWLXNQtjOA4hTkn7_GAXLXIa5TatCi3wr-8XB4G3GtlNFIrYpFFpaV7om5aclRO6cHLRpW9A_rA4Zg8XJo0JV9N2KIBgOIvPpeOADEH8_LTo9tHt1YZuJrjXpk7tiaBrtuPBJ321UHqs3RrEq2HFgKBvquCUemzKXkSWcPZi6CtP5P7HtaunTtlh8k23RBaFLv11M7q21xnFPa2xe1SBALKkYhoWuQT-DTIyZ5AREWc9ux33k2P3stb0uK_6gF-kMUZStgsGEU0FSoI1FPi4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش تانل ریورس روی سرور با آی‌پی مسدود (مقاوم در برابر اکسس)
 🔹
@@ -1485,7 +1485,7 @@ LangOver
 در حد توان آمادگی داشته باشید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2780">
