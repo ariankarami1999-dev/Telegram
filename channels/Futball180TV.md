@@ -292,7 +292,7 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-16 06:54:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-16 08:40:25</div>
 <hr>
 
 <div class="tg-post" id="msg-102943">
@@ -310,7 +310,7 @@
 محمد صلاح در مراسم معارفه امشب
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.25K · <a href="https://t.me/Futball180TV/102943" target="_blank">📅 02:32 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.25K · <a href="https://t.me/Futball180TV/102943" target="_blank">📅 02:32 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102942">
@@ -321,7 +321,7 @@
 فوووووری از فابریزیو رومانو: توافق بین رودری و باشگاه بارسلونا بر سر شرایط شخصی صورت گرفت. مذاکرات بین بارسلونا و منچسترسیتی به زودی آغاز خواهد شد تا این انتقال در سریع‌ترین زمان ممکن نهایی شود.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 8.14K · <a href="https://t.me/Futball180TV/102942" target="_blank">📅 02:17 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/Futball180TV/102942" target="_blank">📅 02:17 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102941">
@@ -333,7 +333,7 @@
 رومانو: ناپولی بدنبال عقد قرارداد با گابریل ژسوس هست اما آرسنال این بازیکن رو قرضی نمیده و میخواد با دریافت پول به صورت قطعی بفروشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/Futball180TV/102941" target="_blank">📅 01:34 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/Futball180TV/102941" target="_blank">📅 01:34 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102940">
@@ -354,7 +354,7 @@
 پزشکیان: من تو زابل خدمت میکردم و پنکه‌ام نداشتم، حالا چی میگی؟ :)))
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/102940" target="_blank">📅 01:11 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/102940" target="_blank">📅 01:11 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102939">
@@ -371,7 +371,7 @@
 جو پرشور هواداران فیورنتینا در استقبال از ماستانتانو ستاره جدید این‌تیم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/Futball180TV/102939" target="_blank">📅 01:09 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/102939" target="_blank">📅 01:09 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102938">
@@ -382,7 +382,7 @@
 😂
 😂
 @Futball_Bad_ultra @Futball_Bad_ultra</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/Futball180TV/102938" target="_blank">📅 01:09 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/Futball180TV/102938" target="_blank">📅 01:09 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102937">
@@ -395,7 +395,7 @@
 😂
 @Futball_Bad_ultra
 @Futball_Bad_ultra</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/Futball180TV/102937" target="_blank">📅 01:09 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/Futball180TV/102937" target="_blank">📅 01:09 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102936">
@@ -406,7 +406,7 @@
 پپ چاواریا از رایو وایکانو به چلسی پیوست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/Futball180TV/102936" target="_blank">📅 00:49 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/Futball180TV/102936" target="_blank">📅 00:49 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102935">
@@ -423,7 +423,7 @@
 رئال مادرید هفته پیش اوکی داده بود که حاضره ۵۰ میلیون یورو واسه رودری بده، اما سیگنال‌هایی که الان از سمت رئال میاد نشون می‌ده اونا رودری رو دیگه دور از دسترس می‌بینن! چون رودری چراغ سبز رو به بارسلونا داده، برای اولين بار درها رو به روی بارسا باز کرده و حتی با هانسی فلیک و دکو حرف زده. دکو داره سخت تلاش می‌کنه تا این انتقال جفت‌وجور بشه و الان همه‌چی آماده‌ست!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/102935" target="_blank">📅 00:33 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/102935" target="_blank">📅 00:33 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102934">
@@ -435,7 +435,7 @@
 از ورونیکا بروناتی: کریستین رومرو ستاره خط‌دفاع آرژانتین در آستانه توافق و حضور در اتلتیکومادرید قرار دارد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/102934" target="_blank">📅 00:21 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/102934" target="_blank">📅 00:21 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102933">
@@ -447,7 +447,7 @@
 گاستون‌ایدول خبرنگار مطرح آرژانتین: آلوارز هفته‌آینده به تمرینات اتلتیکو برمیگرده و خبری از اعتصاب نیست. اتلتیکو هرگز این بازیکن رو برای فروش نمیذاره
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/102933" target="_blank">📅 00:12 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/102933" target="_blank">📅 00:12 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102932">
@@ -477,7 +477,7 @@ Telegram
 🌐
 winro.io
 🎲</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/Futball180TV/102932" target="_blank">📅 00:11 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/102932" target="_blank">📅 00:11 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102931">
@@ -524,7 +524,7 @@ winro.io
 📩
 @winro_io
 🎲</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/Futball180TV/102931" target="_blank">📅 00:11 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/102931" target="_blank">📅 00:11 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102930">
@@ -535,7 +535,7 @@ winro.io
 باشگاه هایی که بیشترین هزینه رو تو فصل 2026/27 داشتن؛ طبق معمول چلسی در صدر!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/102930" target="_blank">📅 23:52 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/102930" target="_blank">📅 23:52 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102929">
@@ -545,7 +545,7 @@ winro.io
 ال ناسیونال: تیاگو مسی از همین نوامبر به لاماسیا اضافه میشه!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/102929" target="_blank">📅 23:36 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/102929" target="_blank">📅 23:36 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102928">
@@ -555,7 +555,7 @@ winro.io
 😆
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/102928" target="_blank">📅 22:51 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/102928" target="_blank">📅 22:51 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102927">
@@ -566,7 +566,7 @@ winro.io
 فابینیو رسما از الاتحاد عربستان جدا شد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/102927" target="_blank">📅 22:49 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/102927" target="_blank">📅 22:49 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102926">
@@ -575,7 +575,7 @@ winro.io
 <div class="tg-text">شات از تمرینات امروز ترابزون اسپور.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/102926" target="_blank">📅 22:15 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/102926" target="_blank">📅 22:15 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102925">
@@ -586,7 +586,7 @@ winro.io
 وینیسیوس در اقدامی ایرانی طور تمامی پست‌های صفحه اینستاگرام خودش رو حذف کرد و عکس پروفایلش رو هم برداشت.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/Futball180TV/102925" target="_blank">📅 21:46 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/102925" target="_blank">📅 21:46 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102924">
@@ -597,7 +597,7 @@ winro.io
 🔥
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/Futball180TV/102924" target="_blank">📅 21:18 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/102924" target="_blank">📅 21:18 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102923">
@@ -609,7 +609,7 @@ winro.io
 تیم‌فوتبال استقلال در آخرین بازی پیش‌فصل خود با دبل سحرخیزان و تک‌گل آسانی مقابل استقلال خوزستان به برتری رسید
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/102923" target="_blank">📅 20:52 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/102923" target="_blank">📅 20:52 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102921">
@@ -620,7 +620,7 @@ winro.io
 فوووووری از رومانو: وینیسیوس جونیور رسما تا 2032 با رئال مادرید تمدید کرد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/Futball180TV/102921" target="_blank">📅 20:48 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/102921" target="_blank">📅 20:48 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102920">
@@ -634,7 +634,7 @@ winro.io
 ؛ مگنوس آکلیوش با عقد قراردادی از موناکو به پاری‌سن‌ژرمن پیوست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/102920" target="_blank">📅 20:30 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/102920" target="_blank">📅 20:30 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102919">
@@ -646,7 +646,7 @@ winro.io
 خط‌‌هافبک فصل‌آینده بارسلونا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/102919" target="_blank">📅 20:27 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/102919" target="_blank">📅 20:27 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102918">
@@ -656,7 +656,7 @@ winro.io
 😆
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/102918" target="_blank">📅 20:08 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/102918" target="_blank">📅 20:08 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102917">
@@ -667,7 +667,7 @@ winro.io
 هافبک های فعلی اسکواد رئال مادرید؛ عملا چند تاشون فقط لیستو پر کردن.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/102917" target="_blank">📅 20:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/102917" target="_blank">📅 20:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102916">
@@ -684,7 +684,7 @@ winro.io
 قرارداد رودری با بارسلونا به مدت ۴ فصل و با دستمزد ۳۰ میلیون یورویی خواهد بود
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/Futball180TV/102916" target="_blank">📅 19:58 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/Futball180TV/102916" target="_blank">📅 19:58 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102915">
@@ -695,7 +695,7 @@ winro.io
 دافید ایبانز: آلوارز هفته دیگه با سیمئونه جلسه میذاره تا رسماً بهش بگه که میخواد از تیم بره!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/102915" target="_blank">📅 19:55 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/102915" target="_blank">📅 19:55 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102914">
@@ -711,7 +711,7 @@ winro.io
 20 درصد درآمد حاصل از فروش پیراهن‌ها
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/102914" target="_blank">📅 19:28 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/102914" target="_blank">📅 19:28 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102913">
@@ -722,7 +722,7 @@ winro.io
 دیس‌بک ممد رضا گلزار به رونالدو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/102913" target="_blank">📅 19:27 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/102913" target="_blank">📅 19:27 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102912">
@@ -739,7 +739,7 @@ winro.io
 خوزه‌فلیکس‌دیاز: رودری رسما به پیشنهاد رئال‌مادرید پاسخ منفی داد و اعلام کرد که خواهان حضور در تیمی‌ست که سبکی مشابه پپ‌گواردیولا داشته باشد و بارسلونا بهترین انتخاب وی خواهد بود
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/102912" target="_blank">📅 19:26 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/102912" target="_blank">📅 19:26 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102911">
@@ -753,7 +753,7 @@ winro.io
 پخش زنده بازی دوستانه استقلال و استقلال خوزستان ساعت 18:50 از لینک زیر
 👇
 https://t.me/+KXeZA-eHx3RjZjhk https://t.me/+KXeZA-eHx3RjZjhk</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/102911" target="_blank">📅 19:26 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/102911" target="_blank">📅 19:26 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102909">
@@ -766,7 +766,7 @@ https://t.me/+KXeZA-eHx3RjZjhk https://t.me/+KXeZA-eHx3RjZjhk</div>
 شکار لحظه ها از امباپه و استر اکسپوزیتو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/102909" target="_blank">📅 19:14 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/102909" target="_blank">📅 19:14 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102908">
@@ -784,7 +784,7 @@ https://t.me/+KXeZA-eHx3RjZjhk https://t.me/+KXeZA-eHx3RjZjhk</div>
 کصخل‌بازیای جرارد رومرو خبرنگار بارسلونا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/102908" target="_blank">📅 19:03 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/102908" target="_blank">📅 19:03 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102907">
@@ -800,7 +800,7 @@ https://t.me/+KXeZA-eHx3RjZjhk https://t.me/+KXeZA-eHx3RjZjhk</div>
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/102907" target="_blank">📅 19:01 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/102907" target="_blank">📅 19:01 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102906">
@@ -810,14 +810,14 @@ https://t.me/+KXeZA-eHx3RjZjhk https://t.me/+KXeZA-eHx3RjZjhk</div>
 دیومانده گران قیمت ترین خرید رئال در پست وینگر راست از زمان بیل شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/102906" target="_blank">📅 18:55 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/102906" target="_blank">📅 18:55 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102904">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g2I5Ebj3GkonRJqRMrn4lhoxYIonBmaJMSfll4ZBULL6irWrBq8VZtDqXwROUTvDzfKDBEq552twtD088ZfZv86vE321ENzwhYUaTkDU-fyL4tTJNx1tLLIFiVq-ELFfuhNHUciL-875cISw2r7OCOZYuR74NtksYcL66F3MDs1sbq8_1EvDwO6qOaUrk_-Zqs8DZT9-IYI4sjbXvYFJKTjUQoAErN-KSvQGXVJs-CwzUxX9QXiFxo9wgXwTmSTb82nsMCSTqeZBl8MxD6DZlIcssZenbBCVJbcJAdIojrdiGDDRfEOHjaZuuD6Q0jkKsLDeNIWhXFndOev9UenRsA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای دیدار دوستانه امروز</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/102904" target="_blank">📅 18:54 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/102904" target="_blank">📅 18:54 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102903">
@@ -832,7 +832,7 @@ https://t.me/+KXeZA-eHx3RjZjhk https://t.me/+KXeZA-eHx3RjZjhk</div>
 فابریزیو رومانو: رئال مادرید داشت روی انتقال رودری کار می‌کرد و فشار می‌آورد، اما بارسلونا با قدرت وارد صحنه شد و حالا کاملاً در آستانه نهایی کردن این انتقاله‌!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/102903" target="_blank">📅 18:44 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/102903" target="_blank">📅 18:44 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102902">
@@ -846,7 +846,7 @@ https://t.me/+KXeZA-eHx3RjZjhk https://t.me/+KXeZA-eHx3RjZjhk</div>
 #فوووووری از رومانو: فلیک شخصا با دکو تماس گرفته و گفته که تا آخر هفته قرارداد رودری رو باید نهایی و تمام‌شده کنی. دکو هم راهی مادرید شده تا با ایجنت رودری مذاکره مستقیم داشته باشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/102902" target="_blank">📅 18:43 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/102902" target="_blank">📅 18:43 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102901">
@@ -862,7 +862,7 @@ https://t.me/+KXeZA-eHx3RjZjhk https://t.me/+KXeZA-eHx3RjZjhk</div>
 از رومانو: فلیک شخصا با دکو تماس گرفته و گفته که تا آخر هفته قرارداد رودری رو باید نهایی و تمام‌شده کنی. دکو هم راهی مادرید شده تا با ایجنت رودری مذاکره مستقیم داشته باشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/102901" target="_blank">📅 18:41 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/102901" target="_blank">📅 18:41 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102900">
@@ -880,7 +880,7 @@ https://t.me/+KXeZA-eHx3RjZjhk https://t.me/+KXeZA-eHx3RjZjhk</div>
 اگه براتون سواله اثر جاودانه "تو که معنای عشقی" داریوش چجوری ساخته شده بهتره این ویدیو رو با دقت ببینید و لذت ببرید
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/102900" target="_blank">📅 18:39 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/102900" target="_blank">📅 18:39 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102899">
@@ -895,7 +895,7 @@ https://t.me/+KXeZA-eHx3RjZjhk https://t.me/+KXeZA-eHx3RjZjhk</div>
 <div class="tg-text">گاوی ستاره‌جوان باشگاه بارسلونا امروز 22 ساله شد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/Futball180TV/102899" target="_blank">📅 18:39 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/102899" target="_blank">📅 18:39 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102898">
@@ -924,7 +924,7 @@ https://t.me/+KXeZA-eHx3RjZjhk https://t.me/+KXeZA-eHx3RjZjhk</div>
 ❌
 ❌
 طرح شارژ رایگان فقط تا پایان مرداد ماه</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/Futball180TV/102898" target="_blank">📅 18:39 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/Futball180TV/102898" target="_blank">📅 18:39 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102897">
@@ -955,7 +955,7 @@ betinja.bet
 کانال بونوس های رایگان
 g15
 @betinjabet</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/102897" target="_blank">📅 18:39 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/102897" target="_blank">📅 18:39 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102896">
@@ -970,7 +970,7 @@ g15
 از متئو مورتو: رودری با بارسلونا به توافق نهایی رسیده و ظرف چند ساعت آینده قراره دکو با مدیران سیتیزن‌ها تماس بگیره
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/102896" target="_blank">📅 18:35 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/102896" target="_blank">📅 18:35 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102894">
@@ -983,7 +983,7 @@ g15
 رقم فسخ قرارداد رضاییان با استقلال فقط 100 میلیون تومان بوده است!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/102894" target="_blank">📅 18:19 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/102894" target="_blank">📅 18:19 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102893">
@@ -998,7 +998,7 @@ g15
 <div class="tg-text">خشن‌ترین ضربه‌ها در زمین فوتبال رو باهم ببینیم!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/102893" target="_blank">📅 18:10 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/102893" target="_blank">📅 18:10 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102892">
@@ -1009,7 +1009,7 @@ g15
 بعد از ورود دیومانده ، اسکواد رئال مادرید حالا به طور کامل پر شد و برای ورود بازیکن جدید باید حتما بازیکن دیگه ای فروخته بشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/102892" target="_blank">📅 18:00 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/102892" target="_blank">📅 18:00 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102891">
@@ -1020,7 +1020,7 @@ g15
 اگه تمام آپشن‌های پاداش قرارداد دیومانده فعال بشه این بازیکن تبدیل به گرون‌ترین خرید تاریخ رئال میشه!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/102891" target="_blank">📅 17:44 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/102891" target="_blank">📅 17:44 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102890">
@@ -1035,7 +1035,7 @@ g15
 #فوووووری از جرارد رومرو: حاضرم قسم بخورم که رودری بازیکن بارساست و فقط مراحل اداری عقد قرارداد باقی‌مونده!!!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/102890" target="_blank">📅 17:41 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/102890" target="_blank">📅 17:41 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102889">
@@ -1051,7 +1051,7 @@ g15
 از جرارد رومرو: حاضرم قسم بخورم که رودری بازیکن بارساست و فقط مراحل اداری عقد قرارداد باقی‌مونده!!!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/102889" target="_blank">📅 17:38 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/102889" target="_blank">📅 17:38 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102888">
@@ -1067,7 +1067,7 @@ g15
 ؛ یان دیومانده با قراردادی تا سال 2033 به رئال مادرید پیوست.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/102888" target="_blank">📅 17:31 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/102888" target="_blank">📅 17:31 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102887">
@@ -1081,7 +1081,7 @@ g15
 فابریس هوکینز (بسیااااار معتبر): رودری به‌جای رئال مادرید، خواهان پیوستن به بارسلوناست! همچنین پیشنهادی در حدود ۶۰ تا ۷۰ میلیون یورو می‌تونه برای راضی کردن منچسترسیتی کافی باشه.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/102887" target="_blank">📅 17:30 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/102887" target="_blank">📅 17:30 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102886">
@@ -1096,7 +1096,7 @@ g15
 فابریس هوکینز (بسیااااار معتبر): رودری به‌جای رئال مادرید، خواهان پیوستن به بارسلوناست! همچنین پیشنهادی در حدود ۶۰ تا ۷۰ میلیون یورو می‌تونه برای راضی کردن منچسترسیتی کافی باشه.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/102886" target="_blank">📅 17:18 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/102886" target="_blank">📅 17:18 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102885">
@@ -1109,7 +1109,7 @@ g15
 فوریییییییییی از جرارد رومرو: رودری به پیشنهاد بارسلونا چراغ سبز نشون داده.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/102885" target="_blank">📅 17:07 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/102885" target="_blank">📅 17:07 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102884">
@@ -1120,7 +1120,7 @@ g15
 پیشنهاداتی که گالاتاسرای برای فروش ویکتور اوسیمن ستاره خودش در روزهای اخیر رد کرده!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/Futball180TV/102884" target="_blank">📅 16:55 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/102884" target="_blank">📅 16:55 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102883">
@@ -1129,7 +1129,7 @@ g15
 <div class="tg-text">توان مقابله با این طوفان و این حرفا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/102883" target="_blank">📅 16:47 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/102883" target="_blank">📅 16:47 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102882">
@@ -1147,7 +1147,7 @@ g15
 واکنش تند رئیس باشگاه رمو پس از رفتار نیمار و حذف تیمش توسط سانتوس در جام حذفی برزیل
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/102882" target="_blank">📅 16:34 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/102882" target="_blank">📅 16:34 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102881">
@@ -1157,7 +1157,7 @@ g15
 رونالدو نیازی نداره واسه GTA 6 صبر کنه.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/102881" target="_blank">📅 16:14 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/102881" target="_blank">📅 16:14 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102880">
@@ -1174,7 +1174,7 @@ g15
 🔥
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/102880" target="_blank">📅 16:05 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/102880" target="_blank">📅 16:05 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102879">
@@ -1185,7 +1185,7 @@ g15
 ✍️
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/102879" target="_blank">📅 15:46 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/102879" target="_blank">📅 15:46 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102878">
@@ -1213,7 +1213,7 @@ g15
 شادی کوکسال‌بابا از پیوستن صلاح به ترابوزان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/102877" target="_blank">📅 15:40 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/102877" target="_blank">📅 15:40 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102876">
@@ -1223,7 +1223,7 @@ g15
 فوووووری: با اعلام راک استار گیم پلی GTAVI در تاریخ 27 آگوست (5 شهریور) از نتفلیکس منتشر میشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/102876" target="_blank">📅 15:38 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/102876" target="_blank">📅 15:38 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102875">
@@ -1232,7 +1232,7 @@ g15
 <div class="tg-text">عکسی از یان دیومانده در راه به سمت مادرید
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/102875" target="_blank">📅 15:30 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/102875" target="_blank">📅 15:30 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102874">
@@ -1266,7 +1266,7 @@ g15
 <div class="tg-text">عادی ترین کاری که پسرا تو کرج و اسلامشهر واسه جلب توجه میکنن:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/102873" target="_blank">📅 15:24 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/102873" target="_blank">📅 15:24 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102872">
@@ -1283,7 +1283,7 @@ g15
 ماریو بالوتلی از عجیب‌ترین بازیکنان دهه‌اخیر
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/102872" target="_blank">📅 15:15 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/102872" target="_blank">📅 15:15 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102871">
@@ -1292,7 +1292,7 @@ g15
 <div class="tg-text">طبق گزارش رسانه‌ها، "کیم جونگ اون" رهبرِ کره شمالی به مردم کشورش گفته که تیم ملی‌شون برای هفتاد و پنجمین سال پیاپی قهرمان جام جهانی شده و اینو به ملتش تبریک گفته
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/102871" target="_blank">📅 15:05 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/102871" target="_blank">📅 15:05 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102870">
@@ -1302,7 +1302,7 @@ g15
 گاوی صورتی تو تمرینات بارسا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/102870" target="_blank">📅 15:02 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/102870" target="_blank">📅 15:02 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102868">
@@ -1316,7 +1316,7 @@ g15
 به نظرم اون میتونست توی سری‌آ بازی کنه. از نظر من، لیگ ترکیه یه سطح پایین‌تر از اون حدیه که صلاح باید توش بازی کنه.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/102868" target="_blank">📅 14:54 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/102868" target="_blank">📅 14:54 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102867">
@@ -1393,7 +1393,7 @@ g15
 خوزه فلیکس دیاز: رودری قطعا بازیکن رئال مادرید خواهد شد اما سران منچسترسیتی قصد بازار گرمی دارند و میخوان این‌بازیکن رو با رقم بالاتری به رئال مادرید بدهد. رودری بارها اعلام کرده جز باشگاه رئال مادرید برای هیچ باشگاهی بازی نخواهد کرد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/102863" target="_blank">📅 13:14 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/102863" target="_blank">📅 13:14 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102862">
@@ -1405,7 +1405,7 @@ g15
 یان دیومانده بعد ازظهر امروز به مادرید سفر میکنه، بیانیه رسمی بزودی منتشر میشه.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/102862" target="_blank">📅 13:12 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/102862" target="_blank">📅 13:12 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102861">
@@ -1413,7 +1413,7 @@ g15
 <div class="tg-text">🚨
 🔵
 فووووری از فرناندو پولو: خبرهایی منتشر شد مبنی بر اینکه توافقی بین بارسلونا و رودری وجود دارد. ما با باشگاه تماس گرفتیم و آنها این خبر را به طور کامل تکذیب کردند و گفتند که این خبرها نادرست هستند. اگر رودری خودش مصمم به انتخاب بارسلونا نباشد، نمیتوان در…</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/102861" target="_blank">📅 13:10 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/102861" target="_blank">📅 13:10 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102860">
@@ -1444,7 +1444,7 @@ g15
 #فوووووری از بن جیکوبز: پیشنهاد رسمی بارسلونا به زودی ارسال میشه. رودری از جو رختکن بارسلونا خیلی خوشش میاد و مشتاقه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/102859" target="_blank">📅 13:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/102859" target="_blank">📅 13:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102858">
@@ -1490,7 +1490,7 @@ g15
 کریستیانو رونالدو اون‌قدر درآمد داره که می‌تونه کل کلکسیون ماشین‌های خودش رو 6 بار دیگه بخره! ارزش مجموعه ماشین‌های رونالدو حدود 50 میلیون دلاره و با داشتن بیش از 40 خودرو، یکی از خاص‌ترین و لوکس‌ترین کلکسیون‌های ماشین دنیا رو داره. گفته میشه درآمد سالانه‌اش حدود 300 میلیون دلاره؛ یعنی به‌راحتی میتونه کل گاراژ ماشین‌هاش رو با درآمد یکسالش 6 بار دیگه بخره.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/102855" target="_blank">📅 12:40 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/102855" target="_blank">📅 12:40 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102854">
@@ -1569,7 +1569,7 @@ g15
 رئال مادرید هفته‌ها با منچسترسیتی مذاکره کرده بود، اما منچسترسیتی با این موضوع موافقت نکرد زیرا احساس می‌کرد که باشگاه‌های بیشتری به رقابت می‌پیوندند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/102850" target="_blank">📅 11:56 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/102850" target="_blank">📅 11:56 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102849">
@@ -1596,7 +1596,7 @@ g15
 جام‌های فوتبال دنیا بر اساس رتبه و اعتبار
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/102848" target="_blank">📅 11:35 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/102848" target="_blank">📅 11:35 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102847">
@@ -1607,7 +1607,7 @@ g15
 مذاکرات فشرده بین باشگاه میلان و گالاتاسرای بر سر انتقال رافائل لیائو به سوپرلیگ ترکیه درحال انجام است
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/102847" target="_blank">📅 11:28 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/102847" target="_blank">📅 11:28 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102846">
@@ -1646,7 +1646,7 @@ g15
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/102844" target="_blank">📅 11:02 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/102844" target="_blank">📅 11:02 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102843">
@@ -1676,7 +1676,7 @@ g15
 فرانس‌پوشکاش اسطوره تاریخ فوتبال دنیا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/102842" target="_blank">📅 10:40 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/102842" target="_blank">📅 10:40 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-102841">
