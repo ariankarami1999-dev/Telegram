@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64.7K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 02:32:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 03:25:29</div>
 <hr>
 
 <div class="tg-post" id="msg-6533">
@@ -305,34 +305,34 @@
 </div>
 <div class="tg-text">حاجی‌دلیگانی؛ نماینده مجلس:
 ما الان جز ۴ ابرقدرت جهانیم. نمیگم چهارمیم؛ شاید حتی دوم‌ باشیم ولی دیگه جز ۴ تاییم و باید توی شورای امنیت حق وتو داشته باشیم!</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/farahmand_alipour/6533" target="_blank">📅 18:01 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/farahmand_alipour/6533" target="_blank">📅 18:01 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6532">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UfmcL9YoUWVOxwlyDJsZXFDW2BvA1HLnyDoVw3W8gNhfzRQaYwabZT5lj4NnOtE-XyXOCh5-YDwdAIbbYGyiW7rNJQ_XXKystsnlSJhMbJzgM151el3WDPsN1-o8AgCObAGsbH127q1fkhLbI69Piy9Yrd1MEbVCH_TLblxcWXuq8ZGPjiazvZXUiZErjpEYu7wQujlwv-eRUddnSsZq5SmK7BVkY2-6NvPWWH-yv2dkIWETMEOkQ-UNSkOFHzS_5Y6aWYJp0wXbPUHY5TO6FVrIVOQJ67bzhwGuoObjsh4ukCAR5Faz_UXnbKVHiLfjdQimhiNaxQpxb1MT1g_yOw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی دیگه از ریشه‌ها هم به این جریان برمیگرده  که پیامبر اسلام از نسل اسماعیله  و یهودیان جملگی از نسل اسحاق!  تمام پیامبران خدا،  یعقوب، یوسف، موسی، هارون، داوود،  سلیمان، عیسی، ایوب، یونس، دانیال،  ذکریا، یحیی و …… همه و همگی از نسل اسحاق هستند! پسر برگزیده…</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/farahmand_alipour/6532" target="_blank">📅 15:14 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/farahmand_alipour/6532" target="_blank">📅 15:14 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6531">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pUkyoZ9WO73tWWWFBqpNmmMJzkYd7lhJQwWh-w3MarHEsTkrFmRMTIr6pd7UzMMRRUEjnEVD7sJbr594jv5RVlsC6QFY2wlGnK3YrAh9w3YscJyDiyauBlua4s0mmzGDHsdnIAGAQp98A8QNCuRlsSSwuKcJ8wP5liwx5kbruqdkDZ3c9BK_hQPyBmGLUS7apm8VAH-nFQH-18t_Y9gVX3D3QfHw1wQ8itNHd2x7yUzPD_oPspsaOctCQUrIkKlD7VLFTOB1KGq7tO9OaVQKYJzx3MzfUvUPxPif9kAfIO2OynV2UvYL5nNskvAi8FpLMm6n-jOm4szHJ5kpLYBV0Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هم در این آیه ۵ سوره قصص، هم در آیه ۱۳۷ سوره اعراف، هر دوبار  قرآن میگه که ما یهودیان و بنی‌اسرائیل رو تسلط دادیم و حاکم کردیم!  . «و آن قومی را که پیوسته به ضعف کشانده می‌شدند، [بنی‌اسرائیل] را وارث مشرق‌ها و مغرب‌های آن سرزمینی کردیم که در آن برکت نهاده…</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/farahmand_alipour/6531" target="_blank">📅 15:11 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farahmand_alipour/6531" target="_blank">📅 15:11 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6530">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">و شاید خیلی براتون جالب باشه که این آیه قرآن  (آیه ۵ سوره قصاص)  که خامنه‌ای برای  خودش  تفسیرش کرد،  در واقع قرآن داره درباره قوم یهود صحبت میکنه!  درباره بنی‌اسرائیل صحبت میکنه!  اینکه اونها رو از ضعف و بردگی در مصر به قدرت رسوند ! و اونها رو تبدیل  به حاکمان…</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farahmand_alipour/6530" target="_blank">📅 14:58 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/farahmand_alipour/6530" target="_blank">📅 14:58 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6529">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rVVp5plKBiFnr5FQbGVzFIQEH9JA6wyrNkAOi6DB2bIqfjEJrI4p_dz7B9SuhCB6xwWI-GQ8PfJqN68Hi48uvEXNAw1dSXKlLncLmWrjLD7kYZ_E4ULycRHWMkZQbszYlXRAKXzuJKrI5iItqTVRVKVgoWDSlW0dze_z9d0-tWsKJbbnmng-G2lZ1ZnIiY5E5twSnaWDvZqR0mdHP1QLUhdkXY7ow5MsApHgD8-NOHC4dAFlzX1u2LtBrQLZz4T5wLWEiTvoQANhQuMxbBQlaQCkKPPTvyaqEs7TG8Zxmb9hG10dshWq25va5NOclNxwMcm_jvJGjw3rYtR5lVHI-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خامنه‌ای در سال ۹۸  معنای «مستضعفین» رو هم تغییر داد و مفهومش رو از مردم مستضعف و مورد ظلم واقع شده رو تبدیل به معنای «پشوا و رهبر کشور» تبدیل کرد!  به نوعی گفت «مستضعف» من هستم و اگه میخواید خدمتی به مستضعفین کنید  به من و پسرهام خدمت کنید!  کفت قرآن اینطور…</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farahmand_alipour/6529" target="_blank">📅 14:51 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farahmand_alipour/6529" target="_blank">📅 14:51 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6528">
@@ -346,7 +346,7 @@
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V8dGPk3CQQ016enk30JuWa1QhV49n1y9cjnxNSlGSqIG00TeuDtnBJs3nNM7xonUcAUgilI3yP4SBT83UQo2RCalAQc3rs-QO_idbHV1a6gl8Rfwb-cHBgIo11ZE1gKJqvprWJwOAF9JNmLyNa45SuXrftDXLQM63Ba3zjizx6CqCCgjqXfloyuNuCoGFN5_OwkaUHm7GwdPhPBzuzpNTEPERomjq1g6id-sDaZqH-iOg_o8JeMdYxVqbc2MJpJfAn01Vkf82MmQ6bpj1bQf_WwmnSIjgYsHSxGDhLo851XBdDeDvPj3qOG97rPq-NnLBZLXL-A94Qi3FTmVGM49zA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اختلاس‌های ۳-۴ میلیارد دلاری!  خودشون  که هر سال یکی از اونها افشا میشه  به کنار!  بیش از ۳۰ میلیارد دلار هم در سرزمین سوریه ریختند و شکستی مفتضحانه هم خوردند و اومدن بیرون!</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farahmand_alipour/6527" target="_blank">📅 14:34 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/farahmand_alipour/6527" target="_blank">📅 14:34 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6524">
@@ -364,7 +364,7 @@
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iyfZhE1_J9Nb75RmRLNlq8g53utWJu30_pWTB21IOmiHvbVScKtUtPkUZM8cwlSKqsPCqKdKB8Sp9RWEV7I5tIvOzsfDKPfcSoBaE5ubitf_vL6ZifrkvQ6Ip6e06f_yw8iM9LIu156WFjcfOrkqVHv9W7n2grbOoNAKecoHPwiRxO8-FmdPNJI7rADtM2uMu63ITvnnlt-5iYl2Pf3DccYlRIGV8gzG-rBgFpHt9brLRIQRRlCNy4gJSlGoFMXTSMwdFYT8LVUD2iTuJ5nP28xsJ1UKgXSA9WzWny1oX-1pD4jIkioQZPxQwtcHZubJK7pma4k4pakAKjfAEGbNCQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">لطفا این متن با دقت بخونید و قضاوت کنید:    پدر یک خانواده،  نیمی از درآمدش رو صرف مواد مخدر میکنه،  موضوعی که باعث فشار  و فقر در داخل خونه شده.  مادر خانواده ، چون بعد از اجاره و….  پولی براش نمی‌مونه، معمولا از بقیه کمک میگیره که پول پیاز و سیب زمینی و…</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farahmand_alipour/6523" target="_blank">📅 14:26 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farahmand_alipour/6523" target="_blank">📅 14:26 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6522">
@@ -386,7 +386,7 @@
 که به این خانم کمک می‌کنند، دارند کار خیر می‌کنند در سیر کردن شکم این بچه‌ها، یا دارند مسئولیت رو از دوش پدر بر میدارن،
 و اون هم با فراغ بال بیشتر، با شنیدن غرهای کمتر، پول خرج اعتیادش میکنه
 و در واقع کمک هست به پدر ناشایست؟</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/farahmand_alipour/6522" target="_blank">📅 14:19 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farahmand_alipour/6522" target="_blank">📅 14:19 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6521">
@@ -402,7 +402,7 @@
 ‏همه ما انتظار داشتیم ایران درخواست ۵۰ درصد بکند. قانونی هم بود. اما جلسه اول یکباره جمهوری اسلامی گفت تقسیم برابر بین ۵ کشور، یعنی کمتر از ۲۰درصد
 ‏برای ما عجیب‌وغریب بود که چجور ایران دارد از حقوق خودش گذشت می‌کند
 ‏این برای بقیه کشورها مثل هدیه الهی بود. از خوشحالی نمی‌دانستند چکار کنند</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/farahmand_alipour/6521" target="_blank">📅 13:33 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/farahmand_alipour/6521" target="_blank">📅 13:33 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6520">
@@ -530,7 +530,7 @@
 <div class="tg-text">«عبدال السید» سوسیالیست مسلمان!
 که حزب دمکرات اون رو نماینده خودش کرده در میشیگان و انتخابات مقدماتی پیروز شده
 و در یک قدمی ورود به سنای آمریکاست!</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/6507" target="_blank">📅 12:34 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/6507" target="_blank">📅 12:34 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6506">
@@ -746,7 +746,7 @@ Getty
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pWkDcxeTMBoDVZqcd-REDk-Or3-BDmEbPU1-TG8b7CQqQOoU7RzKWQTRSiUuPeCw878wkf0ChqYExXzeUBQqfpugy8_7Y53PKsGnF7Df627w4zcg5QhyzZk5XPtK09eQ5kmmZHPqkvmWLaYNrmabNhxvUJSROxbBAB9qBZjd3f34XMU2z8HRWRY6EpVc3RSa1wQ-16H8PjTNOMTWyxrcX5nfGpj1CPGSlPP10KOdzW-dH-7QK0zaEjwdVK5I1HQRg42WtieKseO3E3uVjK91uRywC5Xvso4FP2445cTWkJ4BjnOFywc4uSFJN1EeLx86WlAY9ooxzWXrzjmzhtRpdA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مرگ نخست زادگان مصر اثر نقاش بریتانیایی «لاورنس آلما تادما» در ۱۸۷۲ تمرکزش به تصویر کشیدن  اندوه یک پدر است.  نقاش عامدانه موسی را مرکزیت نقاشی، آنگونه که سنت نقاشان بود، کنار زده،  و برخلاف نقاشانی که به خاطر آموزه‌های مذهبی،  روایتی یکسویه را ترویج می‌کنند،…</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/farahmand_alipour/6490" target="_blank">📅 16:51 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/farahmand_alipour/6490" target="_blank">📅 16:51 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6489">
