@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 10:06:06</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 11:10:37</div>
 <hr>
 
 <div class="tg-post" id="msg-883">
@@ -336,7 +336,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -412,7 +412,7 @@ Claude Cowork
 چیکار کنم دیگه هی نگی کلاد؟
 از کلاد بپرس.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.91K · <a href="https://t.me/mohsentavoosiseo/879" target="_blank">📅 20:00 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/mohsentavoosiseo/879" target="_blank">📅 20:00 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-877">
@@ -432,8 +432,8 @@ Claude Cowork
 <div class="tg-post" id="msg-873">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/JOcu-NIXZHjivP8esasZhF-Mm0Sk_rPRInrpVezHpo6vvmPpQNWoWKyuOLzBhd73nb1juxfkTFyMyO_80uM651bz_Fn8aK2OJyj--PbyEvF5queBZdkLPC0INMYLgMAw172HzVc0hBd-OL69eGiPC9Lx3hd_U1Hwe0r8EerBfHgY339URj6QBthwFktyjvPdc4nx4RCBML_HYKL6zVfTWN0I7kIwOLIk4H10HCPOkn6oeSqNSIJx8Kntspt7F1tVnMIv_A4erLWQwxkKFmx7FoV5OWEvfqmFX8VIgFQC1ILMMuIw2ejMPdBdNKzGhG4xOPVDsLvvpz106H7DNcbb_Q.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/U8aU7vAaqu-CdpMT4ARl1NG6F-3saZx0IsihvjU82l72MAn8zsD99d0r5JWbgGh9920oP0hY56uyBOEXsvU_eanksDfXWo-wbsrgqXZBywohM3b-rdr5F6v0popFw7SuRpfZfid52dKqNtgBGSmPgs72uwMrbBXjjr_AC11BEQKdXR1cFu9gwGcja0TKzkeGYP8uOBm13KY4CaT98-itOC-Vz6tf_iyxX0E557K83QBF2ZVc8crF62x3RuXfO0O3xzWD7SUn14Be1LceXnyI7RK3Uz7JEx2tk9xF5qlId30Npw0-GI0n9t9zlGEk-HF7f2yTt-JtdIPav7qLdX3uZw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ZdCq7BkNjbC-otNKCBu-Dm7ZL4x184l7Bgp9_nrtE9gkhAQPky-KmeyUxLrNH4iHg9-NX8Gqfw4P_1hpOuSBpgiYvGLonf2isV2uDwLH7Gd_cl2fbmNwXewc0Oob8fTBPxkCzwemb0IFpFbTRTyIsZPVbUp11ebE0baDwHfUYsYCk2-pGzldyW2fgeOI6EdFYi3IdmUXKkT2J_-CBm88qKY6aTw9_bCQ05WrbB6h149rOpbEcFb-TXXPcfYm6Sz6_EivQcoX-CkYV4J5M_wL7C52XxahA5Er_vBPcIk4jwQHkY-z3c9BcwP2BtFZXeJ1Ci8vXDSVTLQXUPF4e69L8Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/NtGamxpngCUezk5Fsi2_iH3JMat6L_IdHkF5XB6ZJtMVt8uyVkJazymuopox6Qpjmo5HunRc0b6aas1tabjZlgMfdFWfGaE5QdZx7p3RqmCPmtWC0lEsfRQMwKVdaIFoLWGPfC58XO1EhNafb6f9G4-5ymkfvAt-8pzMVpq1ewSZcosxSkasfeZ9EuAALHFMTIq-cp2gsKK1o5iP-OZJ1JcBSxST8Uhh_59_umEKtYpp7UQbzcRyFDqv9Fy6WMC40dWbK74-9wMbNPl6uAojL7G5c3XOl9te85A9XiANz94mExek7qw7tb65q8o3TkA5Yji0e93Mt51aXF2wQkd4WQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">تصویر چهارستونه(گرونتر) برای ابزار keyword tool هست و تصویر سه ستونه(ارزون تر) برای ابزار Mangools که ایرانی ها به KWFinder میشناسنش.
 شما خودتون رو بذارید جای سایتی که ابزار اشتراکی میفروشه.
