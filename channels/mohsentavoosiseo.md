@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 02:49:15</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 03:21:38</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -306,7 +306,7 @@
 اگه اعداد مختلط نون شد اومد سر سفره، یا ماشینتو عوض کردی یا خونتو یا دارایی هات رو یا زندگیت با کیفیت تر شد، قطعا مسیرت درسته.
 حالا به جای این ریاضیات، هرچیزی بذار. از الگوریتم های گوگل تا مستندات و نحوه کارکرد مدل Fable کلاد تا... .
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 808 · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 813 · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-883">
@@ -1054,7 +1054,7 @@ https://t.me/mohsentavoosiseo/267
 اکثر ادم ها هم استفاده های سنگین ندارند. حتی از skill و connector ها که پایه ترین و ابتدایی ترین قابلیت کلاد هست استفاده نمیکنن. فعالیتی که توسعه کد سنگین تو گیت هاب به صورت انلاین و مواردی که میتونه منجر به استفاده عمومی بشه رو بهش حساس تر هست.
 اما خودشون میدونن دقیقا رو چی حساسن. تو متن خودش هم نوشته موارد خاص و این خاص رو تعریف نکرده.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.62K · <a href="https://t.me/mohsentavoosiseo/811" target="_blank">📅 14:10 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.63K · <a href="https://t.me/mohsentavoosiseo/811" target="_blank">📅 14:10 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-810">
@@ -1272,7 +1272,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NRbwDX-bLANHslnVxMMaR-9HNwkYovpWZ2iIVCppOmjp3CCBjmr9htZNl0IgbuPMeFIN6piKbSurCNagNm8y3Tzvj5604b20w3fk5EqkPi1Ea4UFqSZCpCobwGT3EdIsE6fDrz7oj45uW--b5KMkzUy4FUaxP4Tb9EZlhTRSRZY_dK0J0eLm9WVCKcNUOnzAsmJ5t1D__PSvPR_A1ByDyX1UXfntLERUWkVKJKi-Rm8JyZs48rVex3bkeSt-EqijGygQqrIhHCziqGPBmOUju-uiVpxtVEXRGqo4I46LaUda4JvP9ZD3ddPfz5IU0h6yliXfijgjJQC1V86lA50_XA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SKxNQdzFKZZ-EJGConzgjeMXcKiGwQxPM2us-YU4fyUEly_M0AydFZxOMfzYUvWlgg-GghHGfOyXCc8vuWggracpPRWz8Y279EIRkvzNwzscPczA11bW0KgeTUvdaHRjdqdvW758_BmpVa_GwVLP6HRHfpJpLMl-ENe3AQJBS4m6rZXzllClLisFUs0B9Bqv34U5EDUu_bP2AN9hRamCCtH9U30Rv1Jm_xXz8jcGBwll8ylVBAGkWQZo7cHXQE7rYX3dAlYjnBnVRAK9QDo48Zg5zhg4vKv3w4fPqNA_iedAKT7oCwMLP3ehDcUEvXOUedmImTD5Dfvr4qUNWB3tag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
@@ -1377,7 +1377,7 @@ pinned «
 
 <div class="tg-post" id="msg-761">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kVKFOQh7fH3kBbI98wQRSw3TV6JHoJ-vS9r4x1hCUlT9OFtaZuQl8d9SoPgQQp2WvXKR3zicm8c6Flk0MAlsoX8omyMUV1SQz7xe9BSPKJFyGNz7VTDnc4KKxML4pViW18qVo7TLBq6PbBn5NlhR6b-GgemofP6j4zmaYyqIb8MSAGOOPsycOb-DyWU-SBvg-WsmTcoJPL4c0co9GUYCruepd3L7IwOX3LoyhHNZTBdlzsnLoNFgn48pVKYid-av8PULcrl8FtKbwTMqnT8NciFJlhnajTfxB1NstgmkFeEyHYZMwwtXSNTyuVGHpaRnoLmryCfbJ8CC0m9CpQ206Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ADnc-EnzpFijHqjD6nePEogzbmxJwwmjjB6tE5_74jPXCDPMVQLyXXJlpVD9Bs6EmIKUJgxGVGJvLRSWe8AfR_6m3wivXvb_4CrLWskGiCo-KbidLvxnAtntQg21nYDubitlhc-mpjrhohfzXoOFFbbeb-2aRAy1R0H7vHqiGa17pPcXgdlScid8g10DIvjpZWmg85oFTd267mDpn3l9EY8vLjpUegMNeVUnA0EpsfGeeboar2eBP0dYY5VeIU8ThhUDAUpMLA2RCVTo8I8X3fdveykCCwZClB1umzCN6PLbu-w-Cc9s4lLzDP5qdpcYmHHOhnh2_BZBBSLqIG2MzA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال دانشجو:
 من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده
