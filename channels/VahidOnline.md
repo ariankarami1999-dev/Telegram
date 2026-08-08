@@ -292,22 +292,43 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 19:51:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 20:29:57</div>
 <hr>
 
 <div class="tg-post" id="msg-77786">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XR44hvEwxODPZLsYZNCLfoieWeny6mJQKPT0V9H4hogUYUyYAxYXgtLbyF1NYgxNyFRO4fIl5OJbBCJF0x5F3S8wuiM4Tv1oe-w_EgWzaNmc8DbB5R9D2lRpRxg3iwNMb3T2h5A-XRXLqOXllyY2_Wc8A5Wb6ZOVe5WlBBtPPn5GB5pXC0qc7w8Q34o3mHUQETPLJ5mt7cnE_0fY9hYCc1B_ebdmBBVx5DhU8gg6Hz4lE_ZFY1mTLoVTcPf8jxX28ADBQRoFeg5KgFc-v0YfKLLDtOSKQOksYzX6dgTbqBdhtW7X-8kjjmgIky1wior5jSd_DsPRFzKwVIcTaEHDsQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">جی‌دی ونس، معاون رییس جمهوری ایالات متحده، درباره پرداخت عوارض برای عبور از تنگه هرمز، به فاکس‌نیوز گفت: «برخی افراد در داخل حکومت ایران درباره دریافت عوارض صحبت می‌کنند. ایرانی‌ها به ما گفته‌اند که برنامه‌ای برای دریافت عوارض از عبور و مرور در تنگه هرمز ندارند. اما باز هم منتظر می‌مانیم ببینیم در عمل چه اقداماتی انجام می‌شود.»
-معاون رییس‌جمهوری آمریکا اضافه کرد: «: «انتظار ما این است که همان میزان نفت و گازی که پیش از آغاز درگیری از خلیج فارس خارج می‌شد، همچنان خارج شود. ایرانی‌ها به ما گفته‌اند که همین کار را انجام خواهند داد. ائتلاف کشورهای خلیج فارس نیز همین را می‌خواهد.»
-ونس اضافه کرد: «اما ما اعتماد نمی‌کنیم؛ راستی‌آزمایی می‌کنیم. ما در واقع به جای حرف‌های افراد، به اقدامات آن‌ها نگاه می‌کنیم.»
-ونس افزود: «مشکل اصلی این است که ایرانی‌ها در آغاز جنگ تعداد زیادی مین در منطقه کار گذاشتند. بنابراین، اکنون ما در حال بررسی این هستیم که چگونه می‌توان یک سازوکار تردد ایجاد کرد تا کشتی‌هایی که عبور می‌کنند، بتوانند با امنیت از تنگه عبور کنند. این موضوع، البته، شامل مین‌روبی و همچنین تعهد حکومت ایران به شلیک نکردن به کشتی‌های تجاری می‌شود.»
-ونس همچنین درباره جمهوری اسلامی گفت: «آن‌ها به‌شدت تحت فشار هستند. می‌خواهند این موضوع تمام شود. پرسش این است که آیا آن‌ها و ساختارشان قادر خواهند بود اقداماتی را که برای رضایت ما ضروری است، انجام دهند یا نه.»
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn1.telesco.pe/file/e485d924aa.mp4?token=k_KVH0W22gYHNX7NiVjnLx3-2ciGkQPhTvEiiPkTT260NY5mgmj7_OMeasXchwA_doSCjQ_RYCFElOyfsk_T-f3YreEPNSMVXfnfUASIRoKQGe_UZwHLiAUqdm5FmWlb8JXx0bR0a6AvKJI5s7s7zOmQ6immVc9fnrYZXe8jc_oaqnip0jh2MnvHulkKZF0IAtV4i_NosR1Sn8LqC--KO00ryAnqp8v9HzWZgEXPnBTWnf41jrYqWVRSOAXTbp44tEZRkt7sLXVFXEMACULK6LtSWlGuCyRJkiz7rLIaiQT6yMi5Rm6BchsuwkzoRVs9v01ioaX7pJe2BhdQqyVMFw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn1.telesco.pe/file/e485d924aa.mp4?token=k_KVH0W22gYHNX7NiVjnLx3-2ciGkQPhTvEiiPkTT260NY5mgmj7_OMeasXchwA_doSCjQ_RYCFElOyfsk_T-f3YreEPNSMVXfnfUASIRoKQGe_UZwHLiAUqdm5FmWlb8JXx0bR0a6AvKJI5s7s7zOmQ6immVc9fnrYZXe8jc_oaqnip0jh2MnvHulkKZF0IAtV4i_NosR1Sn8LqC--KO00ryAnqp8v9HzWZgEXPnBTWnf41jrYqWVRSOAXTbp44tEZRkt7sLXVFXEMACULK6LtSWlGuCyRJkiz7rLIaiQT6yMi5Rm6BchsuwkzoRVs9v01ioaX7pJe2BhdQqyVMFw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">جی‌دی ونس، معاون رییس‌جمهوری آمریکا، گفت ایران به واشنگتن وعده داده است که اجازه دهد صادرات نفت و گاز از تنگه هرمز به سطح پیش از آغاز جنگ بازگردد و برنامه‌ای نیز برای دریافت عوارض از کشتی‌های عبوری ندارد.
+ونس روز شنبه در گفت‌وگو با شبکه فاکس‌نیوز درباره مذاکرات پس از جنگ ۴۰ روزه با ایران گفت: «انتظار ما این است که همان میزان نفت و گازی که پیش از آغاز درگیری از خلیج فارس خارج می‌شد، همچنان خارج شود. ایرانی‌ها به ما گفته‌اند که همین کار را انجام خواهند داد.»
+معاون رییس‌جمهوری آمریکا افزود: «اما ما اعتماد نمی‌کنیم؛ راستی‌آزمایی می‌کنیم. ما به جای حرف‌های افراد، به اقدامات آن‌ها نگاه می‌کنیم.»
+ونس همچنین درباره گزارش‌ها درباره احتمال دریافت عوارض از کشتی‌های عبوری از تنگه هرمز گفت برخی افراد در داخل حکومت ایران درباره دریافت عوارض صحبت کرده‌اند، اما مقام‌های جمهوری اسلامی به آمریکا گفته‌اند که برنامه‌ای برای دریافت عوارض از کشتی‌های عبوری ندارند.
+او در عین حال تاکید کرد واشینگتن منتظر خواهد ماند تا مشخص شود ایران در عمل چه اقدامی انجام می‌دهد.
+به گفته ونس، یکی از چالش‌های اصلی برای برقراری تردد ایمن در تنگه هرمز، مین‌هایی است که به گفته او نیروهای ایرانی در آغاز جنگ در منطقه کار گذاشته‌اند. او گفت آمریکا در حال بررسی سازوکاری برای عبور ایمن کشتی‌ها از این آبراه است؛ سازوکاری که به گفته او، هم به مین‌روبی و هم به تعهد ایران برای شلیک نکردن به کشتی‌های تجاری نیاز دارد.
+ونس درباره وضعیت جمهوری اسلامی نیز گفت حکومت ایران «به‌شدت تحت فشار» قرار دارد و می‌خواهد این وضعیت پایان یابد، اما پرسش اصلی این است که آیا تهران و ساختار حاکم بر ایران می‌توانند اقداماتی را که برای تامین خواسته‌های آمریکا ضروری است، انجام دهند یا نه.
+این اظهارات در حالی مطرح می‌شود که وزیر امور خارجه جمهوری اسلامی و سخنگوی سپاه پاسداران روز شنبه به‌طور جداگانه اعلام کردند مذاکرات با میانجی‌گری عمان ارتباطی با «بازگشایی» تنگه هرمز ندارد و آمریکا برای بازشدن این آبراه باید شرایط ایران را بپذیرد.
 @
-VahidOOnLine
+VahidHeadline
+مکالمه ویدیوی بالا، ترجمه ماشین:
+ما البته با ایرانی‌ها در حال گفت‌وگو هستیم.
+سعی می‌کنیم میزان نفت و گازی را که از تنگه هرمز خارج می‌شود به حداکثر برسانیم. این چیزی است که در حال حاضر بیش از هر چیز دیگری روی آن تمرکز داریم. و همان‌طور که می‌بینید، فکر می‌کنم قیمت نفت امروز به حدود ۸۰ دلار در هر بشکه کاهش یافته و گاهی حتی کمی پایین‌تر رفته است.
+بنابراین فقط تلاش می‌کنیم مطمئن شویم که از این درگیری مشخص، آنچه را لازم داریم به دست می‌آوریم.
+اگر به عقب برگردید و به یاد بیاورید که اینجا چه کارهایی انجام داده‌ایم: برنامه هسته‌ای آنها را نابود کرده‌ایم، نیروی نظامی متعارفشان را نابود کرده‌ایم و توانایی‌هایی را که می‌توان «توانمندی‌های نظامی نامتقارن» آنها نامید، به‌شدت کاهش داده‌ایم.
+درست است.
+ما در تلاشیم ببینیم آیا آنها حاضرند آن نوع تغییرات بلندمدتی را انجام دهند که برای داشتن رابطه‌ای بهتر با ایالات متحده ضروری است یا نه. و اگر حاضر نباشند، آن هم اشکالی ندارد.
+ما فقط به اعمال هر فشاری که بتوانیم ادامه می‌دهیم و تلاش می‌کنیم تا جای ممکن نفت و گاز بیشتری از خاورمیانه خارج شود تا آمریکایی‌ها بتوانند از قیمت پایین‌تر بنزین و انرژی بهره‌مند شوند.
+بنابراین، این یک موازنه ظریف است.
+و آخرین چیزی که می‌خواهم درباره این موضوع بگویم، کِلی، این است که سعی می‌کنم به مردم یادآوری کنم که ما واقعاً هنوز در میانه این بازی هستیم.
+این ماجرا تمام نشده است. بدیهی است که دیگر در ابتدای آن هم نیستیم؛ در میانه بازی هستیم و طیف گسترده‌ای از ابزارها — ابزارهای دیپلماتیک، اقتصادی و نظامی — را به کار می‌گیریم تا مطمئن شویم بهترین نتیجه را برای مردم آمریکا به دست می‌آوریم.
+کاملاً اطمینان دارم که به آن نتیجه خواهیم رسید، اما هنوز تا حدی در میانه این بازی هستیم.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/VahidOnline/77786" target="_blank">📅 18:20 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/VahidOnline/77786" target="_blank">📅 18:20 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77785">
@@ -318,7 +339,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/VahidOnline/77785" target="_blank">📅 18:14 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/VahidOnline/77785" target="_blank">📅 18:14 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77784">
@@ -331,7 +352,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/VahidOnline/77784" target="_blank">📅 18:14 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/VahidOnline/77784" target="_blank">📅 18:14 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77783">
@@ -347,7 +368,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 100K · <a href="https://t.me/VahidOnline/77783" target="_blank">📅 18:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/VahidOnline/77783" target="_blank">📅 18:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77782">
@@ -361,7 +382,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 95.2K · <a href="https://t.me/VahidOnline/77782" target="_blank">📅 18:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/VahidOnline/77782" target="_blank">📅 18:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77775">
@@ -388,7 +409,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 99.7K · <a href="https://t.me/VahidOnline/77775" target="_blank">📅 18:08 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/VahidOnline/77775" target="_blank">📅 18:08 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77774">
@@ -410,7 +431,7 @@ VahidOOnLine
 به گفته این متهم، آن‌ها با وعده دریافت چند هزار دلار، اقدام به ربودن و قتل رجب‌زاده کرده‌اند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/VahidOnline/77774" target="_blank">📅 18:07 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/VahidOnline/77774" target="_blank">📅 18:07 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77773">
@@ -427,7 +448,7 @@ VahidOOnLine
 ZelenskyyUa
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 361K · <a href="https://t.me/VahidOnline/77773" target="_blank">📅 23:06 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 365K · <a href="https://t.me/VahidOnline/77773" target="_blank">📅 23:06 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77772">
@@ -439,7 +460,7 @@ ZelenskyyUa
 araghchi
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 378K · <a href="https://t.me/VahidOnline/77772" target="_blank">📅 21:44 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 380K · <a href="https://t.me/VahidOnline/77772" target="_blank">📅 21:44 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77771">
@@ -449,7 +470,7 @@ araghchi
 BarakRavid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 375K · <a href="https://t.me/VahidOnline/77771" target="_blank">📅 21:17 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 378K · <a href="https://t.me/VahidOnline/77771" target="_blank">📅 21:17 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77770">
@@ -472,7 +493,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 384K · <a href="https://t.me/VahidOnline/77770" target="_blank">📅 19:28 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 386K · <a href="https://t.me/VahidOnline/77770" target="_blank">📅 19:28 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77768">
@@ -495,7 +516,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 380K · <a href="https://t.me/VahidOnline/77768" target="_blank">📅 18:49 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 381K · <a href="https://t.me/VahidOnline/77768" target="_blank">📅 18:49 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77767">
@@ -541,14 +562,14 @@ VahidHeadline
 بنابراین در وضعیت بسیار خوبی هستیم. بااین‌حال، همیشه مهمات بیشتری می‌خواهیم و باید مقدار بیشتری داشته باشیم. ممکن است مسائل دیگری پیش بیاید و ممکن است هم پیش نیاید. امیدوارم هیچ مسئله دیگری پیش نیاید، اما ما در وضعیت بسیار خوبی قرار داریم. واقعاً مقادیر عظیمی مهمات داریم.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 429K · <a href="https://t.me/VahidOnline/77767" target="_blank">📅 01:06 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 431K · <a href="https://t.me/VahidOnline/77767" target="_blank">📅 01:06 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77766">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hnE_INQSphYpNbYLxiKJQguN-mP9hXkOipTj9Jvot6TcFKIY8Y33hAiIwlaLaIl-nj4yhi4FzgSDsCvvYuZDRgYmcidAg1MYmwwhxtqyhkcmOWjRJO6lnT3rIHHm_G3PIhmCKFGPD_hIS9kvsQfdmSYUidksHXxuBmOSkT7vZfNR-qqxbV4hBxmwA9bBchlW81whWLkq_2ju_VG06U_QEWLNaPrGPnsAAc6jlgH841tMJBeutcrtHppWov58mNnYVQP4infCJPc2WCu-T4dmoT8SQCVaLrIvzi4dwKMRQP7zpMbdJHtTzdZGkIGL7VrhpoT6pSZGGunsYm823ikg_w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پیام‌های دریافتی: سلام وحید جان  همین الان دو صدای بد انفجار شنیده شد قشم  سلام ساعت ۲۱ و ۴۳ قشم دو انفجار نزدیک شهر   سلام وحید جان الان قشم صدای دو انفجار بد اومد صدا از شرق جزیره احتمالا یا کشتی زدن یا تو آسمون چیزی زدن  وحید قشم رو زدنننننننن [لطفا صداها…</div>
-<div class="tg-footer">👁️ 427K · <a href="https://t.me/VahidOnline/77766" target="_blank">📅 23:05 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 428K · <a href="https://t.me/VahidOnline/77766" target="_blank">📅 23:05 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77765">
@@ -562,7 +583,7 @@ VahidHeadline
 mb_ghalibaf
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 431K · <a href="https://t.me/VahidOnline/77765" target="_blank">📅 22:05 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 432K · <a href="https://t.me/VahidOnline/77765" target="_blank">📅 22:05 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77764">
@@ -599,7 +620,7 @@ mb_ghalibaf
 
 <div class="tg-post" id="msg-77763">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DM525Yxjie653noWJx_vyEPZ8ngaXHJYVjcactbNMELaxz0Jvg7W877XsTAJarX6lQk3aORjtSNg2mArlXOgJI95DiUeCLPnPfg4cnbI7M5Sr4VnWZ6TRhUaJFFvowLoJkIunT_VJuVRl-cIsoa8JBhjQJ-ZLQmV1aJK7JMdkaj-d1ldwd3o_iaTqc78nTZpCXX51J3FRTGZ2JKItVyZMZb75M-6yUis-agKY382DBmdblZ5DbgRiCm2KSCLih3WGkYQDhmPAuh-8YHLUb47PyAxjGch9KaV4XnJJRvmbNMWRpeEvfd6slyUKgTsxM_k26f9YMsRmVZgWpRNbjeo3A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hxLyNn1QfxkXGHCUIP-ov_awot-FGLsFBqFMFYi_HTJYh5Cl67uuhadGKRmsGJEpiEooIq6HNmW9aFy7ldQeOfinEJsorcE3QuPfqzC7xnJIx83IeEoVhva8fao3epcMMpPZIcuqlIpHbVhr1KEUrNPTIhjpvgQ26-IJCn-JgWYnmIic4A3L5mkeARg8BLShSVHXKTI1XV28N_KivxfnRKy7csHD23EQYpD56IpRqfS6t4CjmcHCQ9itBKR8V_3Lvwdx59YY9JbjghnDSdlo-8vh5Nbc_Hb1UydbKIurCnHN85qtuupNIPS0qp6up-_gge-0iz2MLYzQ72aQCaD55w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست ترامپ، ترجمه ماشین:
 اخبار جعلی، طبق معمول، در حال انتشار شایعاتی دروغین و کاملاً بی‌اساس است. من از عملکرد پیت هگست به‌شدت راضی هستم. همه‌چیز فوق‌العاده بوده است؛ از جمله حمله ما به ونزوئلا که نتیجه آن در کمتر از یک روز حاصل شد و به ما امکان داد نیکلاس مادورو، یکی از بدترین جنایتکاران در سراسر جهان، را به دست عدالت بسپاریم!
 همین‌طور اوضاع ایران، که برای هرگز اجازه ندادن به آن برای دستیابی به سلاح هسته‌ای به‌شدت درهم کوبیده شده، بسیار خوب پیش می‌رود! پیت در میان نیروهای نظامی از احترام بسیار بالایی برخوردار است و اصلاحات عظیمی انجام داده؛ از جمله برچیدن سیاست‌های تنوع، برابری و شمول (DEI) و افزایش جذب نیرو به سطوحی تاریخی.
@@ -609,7 +630,7 @@ realDonaldTrump
 درباره
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 425K · <a href="https://t.me/VahidOnline/77763" target="_blank">📅 20:31 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 426K · <a href="https://t.me/VahidOnline/77763" target="_blank">📅 20:31 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77762">
@@ -681,7 +702,7 @@ realDonaldTrump
 و به‌محض اینکه این وضعیت با ایران پایان یابد، قیمت نفت به‌شدت سقوط خواهد کرد. قیمت بنزین هم پایین خواهد آمد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 433K · <a href="https://t.me/VahidOnline/77760" target="_blank">📅 01:40 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 434K · <a href="https://t.me/VahidOnline/77760" target="_blank">📅 01:40 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77759">
@@ -737,7 +758,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 386K · <a href="https://t.me/VahidOnline/77757" target="_blank">📅 17:47 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 387K · <a href="https://t.me/VahidOnline/77757" target="_blank">📅 17:47 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77756">
@@ -775,7 +796,7 @@ VahidHeadline
 درباره
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 346K · <a href="https://t.me/VahidOnline/77755" target="_blank">📅 17:43 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 348K · <a href="https://t.me/VahidOnline/77755" target="_blank">📅 17:43 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77754">
@@ -794,7 +815,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77753">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vkTdudWQYRC_gK4iS5n8CLvZXUTR_h1YaPDpTT_vZlJPOPghTrz5PrTmsNGDq9guHjEOzBXwBtst_LQg9S-Nhmjv1hZOQiF45jRAh5ecD_MX97JpBpVqSXmFhVJkVAx5BuH6Gk2ASvNPvhSwbn90XM7fJvHXz2TpNjuIl-iTH4yhzAYtvTX6yauXujgBG7Zo2Z2ye-yxcLqM91AJ9T26mTTQJYZyEAduMO7QR4GgtoG63VUvKMQyZVdqPTAtQvLfTnZ-Z2szXQqlocdnh9J9Tj4bRHnNcmcXxqyMkzK8OfkW_qOVJqSG51KAT2Swz3EBZXhSDBGmdhXHW6bgZ3if7g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hoB_gRjShhIhz3M8e1_mT1SU276ZG0PrMWRXD9o4G9P3UXAp_EheSMrAaWBk1_ruXfpsBrNdmKDuNyaortv1Ijsip0eK8WjYx5d65J1V_zGqbqkKgb_aqMx1sF8to8ni5b9oyypqJIKlnsIGaH94AVfGBUVylXg3rxvpdP5kFHV8CsRnYscAPieHtuMpn55j1Lt79HuC9lLfBcL6UjqkGfuIvkBiLBaSdNmKnJoEagHOb8mi1_3aDEPa8ZmaYsOa7PFKsnFLDApV_E9ZEK_KTIocFV9Yq4dWO1s5MBDEBNA-y6DwjBZB-_6ht0gDOyEKQndGfuWXFEecebVR_LHWGA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مصطفی قاسمی حسنوند، شاعر، زندانی سیاسی سابق و شهروند اهل شهرستان الشتر، روز یکشنبه ۱۱ مرداد ۱۴۰۵ پس از اقدام به پایان دادن به زندگی خود مقابل دفتر سازمان ملل در اربیل جان باخت.
 منابع آگاه به ایران‌وایر می‌گویند او پس از آزادی از زندان با مشکلات روحی و فشارهای ناشی از پرونده قضایی خود روبه‌رو بود.
 @
@@ -917,7 +938,7 @@ CENTCOM
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 400K · <a href="https://t.me/VahidOnline/77749" target="_blank">📅 01:01 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 401K · <a href="https://t.me/VahidOnline/77749" target="_blank">📅 01:01 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77748">
@@ -951,7 +972,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 378K · <a href="https://t.me/VahidOnline/77747" target="_blank">📅 22:28 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 379K · <a href="https://t.me/VahidOnline/77747" target="_blank">📅 22:28 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77746">
@@ -973,16 +994,16 @@ VahidHeadline
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/u_pAx6x71LH8jGQQf35DCAnCrq-yAD9WBNj6ksWgL2SYV1mhd7dD0X2F4hKE6Ml8JUpVEZ62PFHLpcCJ-6Bz4-wJFe3RYYyR4rtbyKlANvpk4gTiOO52am5f2xPqfX0Q8la7gZDEptuyW5xrIhbe2Jz0N1_odUYCHG7cT_Oefm28wENR_y7CcTPJ1Nl8N22DwYwd9U0BTvDk2i92wM7XE2LmpvXTRXdJUyxHmAuNE20c_yltBwy8cektJOpGsWkF9mTAEtDjt4M0jGw18Dzus8ekXGUwhj9Yie119Z3t0LubTcoQccK1tCsbVQkvt_5BXfinFLMqgii9R6vAhQ3rUA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/ESR7nfJ1t21EfRqwEQB1ktRFtP_LwtHfMEmUfWzXSFH7Y3ScDn16PgY37g_3dMA_rUpHHVAYPg49GKAh_UN_ayRjClWn9fHr9Xnz9VncORWWCToTaacQ4tZ0-G2n-WeCedfK6UrWZO8ffreil-SKA2AlaK8HqBnC1lC6etCe2RN4NVvhPe-AVynI4_SoaSBHa1yJ-0sH5oyA48EXE2vTjFiW2xc_pPechC2xBEuYByZPfHEml1pSiTFQbk5iP-sP1KsWrT2MAU3Pfx7FyH11mXWr0qZcRxCsO3edAbepp5yB7dqMN3VMHPpMNgOKCxGPXNbcruziy5iv-WQgCZi_uA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/FQJ3WJqdscRRx4azSfDjW6tzUiI6sJyg615pE5Dy9wDx2u7k6ROzadMFKKPV6f16v39nJhe_qB40-6_4FNNqfHe_Fq2_-dRzFRJDmDa1GtQN3VjR1nosGKxEEiN9P_ZUOM_uqv1Yz-3PZE56Huy2zkrIdLdOA0AYPh0xVujAkysoXiXqlhoJEMcKV9ca3e0NEREO_AmIGfp0OUeqDO_lrPyHQO3kzG4Y42h9eeHTujhExs5g7xVexJw-x55cKQo_IIIRyISrd4GrMzGRkJSJM2xeWxh46rLC-W-XmER2g2DHjT185OhB462WCwHU39i6wSYmCfGjA87QEcHtVWR3dA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/lfRsFYXaWWVFcC-MzvoGgHtirrn71PPrYIILgYy31_WHGyuvIPbxEJrVIdaNbAoTl1LI8LuVhBXZopwg8sab7n8LDNdPLFZB6Xa9WQlh6DAp3sGMGdaBpQ6bhDSrtSrrURS7_jq_6lMPAzHSutWgRrV5ojyH6WsTkz41UrEHm-m1zyLkr-1J_GU2eULwyP-9bmOz2ApTVqMH1VKNrIMIDGmrTMr_QTTA-95VBIg2z2g9_HHbXueF0IV3qCmGnphBMEDgqQq53D13LpOViN_Ukyq7xIG71BCbTBeAHbFKU6_fuh_tzRI4JGStYs_arOjtMqt9N1-0FKVVg7ZV4trscQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/eHVtsaPzeOVBwzTrl_YUMnuBv5WGykkWZj1xV_gU3bthtbsbZeskeUNg2kzuPxX1xOs-nWFLKhiCjvfefVfyF8ds_gDBP5W5DVqu17azYdU7R7bTwcdxxkGcBuCeo0c7jm2ThnFS75eu9YzjbSc7PB3MM-_lTGPD3xo5MFOuQa0SbtDfFqil0rGluUH_qAQxKUltyZSgW9JIxcWEjlTefMQMd_McwUxu2Fs5mBctPwmKnFgrgtlORds_h3oIXzBvT28by4IxJ7uRWm-K93OHjJ8L4bt5dPpwtII8hgObwYo03tx72pMmk8PAUt3pCNgsHsRzUjOqyLkdS4TFOnmk5A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/fBOwskx0XOSkNsaLyoHypzH4HROwIt50hPhf3C4Tnv_7RiywYkDOKWSal6t3BEIlCzk9-kg2yI0Ey1TxLlD3kXid2VMH75s-bStzN2dSmayaYJbQrq0e4CsHwufuXNZXtJJzfCdBXdEqfEmCZf35U2h7dPwlNBPgvtX10_hhxTZi8ITtFBzilh8YQ7horNkzLn7wH5OwC2JZrtze3-7reNn1RjJjqPyo00EO14ffXK751TmwdCRtqHKb2Udt37yHbtCjTTJVUXkJK8djDWqgvx2Y2Nxczt34qkOVTmDBGkFaKJl6dhYmOiqsNq6Ocdf252XHt6oZOkvnCUJvqmAFUQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/rQ35UjNTmFLk3IC18rt0KS5P74XX0RHTN5B3y_vzDjEcNvY8imOfDRMsM_p7XBQQbQksRURuMHtScNuQWr1OI1Y2UnBYYz7WMWUNjtd6h_Jj-W6EBxaT6LYTFEe_7uLbWI0GlYqtbNI03PVT-5wHhd6sDGvtL-DOlXSbYvXJoXlm6ygf4upBGGlal8JGLe_g7dJt48Y9u8t0lHUToHiZD0StiNGddx_BvQc_II-AW1ievA2SLHrkHj1HMR6hAT28BcVnJ_D_vd9pSI_WxPaRWMm2J-iyVzN9vIlr7si7kxII3diG7l1g5N9WPN3jtMfctYwFVnJKLGUlwQ_AQu0xVg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/2f1489028e.mp4?token=eqfr6-TI8s0jQLy1hVGQ7DDuU03pO2W7wwVik0d16w_OjIW0pvTXUhoyFhcbeqE_-Ll12_sFPvDy8XFvdNPFk2kGI6mnt0GJWIXqCtmg2DUvSsJs1k-bjslUtBPjxgy0cIjMy0Lvqb8-VL3kW3ZO18fjGlHAsQ_SWBWWHIZzO_JeOE49nJuN_pWMPCcr8wzNP594i7G_SxSjQ1LjIabc4tFXP87xJs9ibOslUTlvhl6gg3ss6DsEpJboqXUYu19pLXJkQFs4tha6q-KBz1P7v3kIjBKo6-AN9lvOKZ4qRUZlEZuaZ5RrNyxB17bZP0jq_SGpbfbQb6R1yPdtOlZjwQ" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/2f1489028e.mp4?token=KImLsfTjV9cAD4k6GDI6plqQXNZJ8xynSzh905q1o0sMrqp5RcCHANvdvkHGDgWWlEZDIxXjgrh_kBhyifXJ5T4yfMLcS8aVSV9V51mJQRPQ57sMctgM9ZWrkCtN0H4cXHagN4fOA8S6XIXxLD8FAshm2m1CndKLDIJPPwfZZ_db-JQESNxyOc3J36dfK6EOglERxr_bWIEvePDWJb-XoQWM3QxMDE4eT2lbdxhA6DT_DWRYvracDYHLgpfxJcKL2yg4EA5G_JFPUK2zi6Oyg0xRFiwbJTzBI9NeyF_Huj1p_bFB4-S5vXiBWtg0_zwsme63x-z4z2E_xFQ96Sa6Sg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/2f1489028e.mp4?token=eqfr6-TI8s0jQLy1hVGQ7DDuU03pO2W7wwVik0d16w_OjIW0pvTXUhoyFhcbeqE_-Ll12_sFPvDy8XFvdNPFk2kGI6mnt0GJWIXqCtmg2DUvSsJs1k-bjslUtBPjxgy0cIjMy0Lvqb8-VL3kW3ZO18fjGlHAsQ_SWBWWHIZzO_JeOE49nJuN_pWMPCcr8wzNP594i7G_SxSjQ1LjIabc4tFXP87xJs9ibOslUTlvhl6gg3ss6DsEpJboqXUYu19pLXJkQFs4tha6q-KBz1P7v3kIjBKo6-AN9lvOKZ4qRUZlEZuaZ5RrNyxB17bZP0jq_SGpbfbQb6R1yPdtOlZjwQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/2f1489028e.mp4?token=KImLsfTjV9cAD4k6GDI6plqQXNZJ8xynSzh905q1o0sMrqp5RcCHANvdvkHGDgWWlEZDIxXjgrh_kBhyifXJ5T4yfMLcS8aVSV9V51mJQRPQ57sMctgM9ZWrkCtN0H4cXHagN4fOA8S6XIXxLD8FAshm2m1CndKLDIJPPwfZZ_db-JQESNxyOc3J36dfK6EOglERxr_bWIEvePDWJb-XoQWM3QxMDE4eT2lbdxhA6DT_DWRYvracDYHLgpfxJcKL2yg4EA5G_JFPUK2zi6Oyg0xRFiwbJTzBI9NeyF_Huj1p_bFB4-S5vXiBWtg0_zwsme63x-z4z2E_xFQ96Sa6Sg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اسکات بسنت، وزیر خزانه‌داری آمریکا، گفت ایالات متحده ممکن است تا روز چهارشنبه برای بازگشایی تنگه هرمز با ایران به توافق برسد؛ توافقی که به گفته او می‌تواند قیمت انرژی را تثبیت کند.
 او روز سه‌شنبه در گفت‌وگو با شبکه سی‌ان‌بی‌سی گفت: «ما با ایرانی‌ها در حال مذاکره هستیم و فکر می‌کنم این احتمال وجود دارد که امروز یا فردا برای بازگشایی تنگه و حرکت به سوی وضعیتی عادی‌تر در این درگیری به توافق برسیم.»
