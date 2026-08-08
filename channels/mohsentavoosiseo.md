@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 00:51:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 01:23:03</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -306,13 +306,13 @@
 اگه اعداد مختلط نون شد اومد سر سفره، یا ماشینتو عوض کردی یا خونتو یا دارایی هات رو یا زندگیت با کیفیت تر شد، قطعا مسیرت درسته.
 حالا به جای این ریاضیات، هرچیزی بذار. از الگوریتم های گوگل تا مستندات و نحوه کارکرد مدل Fable کلاد تا... .
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 766 · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 786 · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-883">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">بازگشت قیمت(افزایش) دوره از 1 آبان یا زودتر. اگر قسطی دادید قسط رو تا پایان مهر کامل کنید یا اگر دوستی دارید که میخواسته تهیه کنید بهش اطلاع بدید.  با اومدن اپدیت بزرگ دوره(SEO و GEO بین المللی با AI) قیمت، تغییر خواهد کرد. چه اول آبان 1405 چه زودتر.  طبق…</div>
-<div class="tg-footer">👁️ 1.56K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.57K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-882">
@@ -432,7 +432,7 @@ Claude Cowork
 <div class="tg-post" id="msg-877">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.44K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-875">
@@ -440,7 +440,7 @@ Claude Cowork
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KYD9mG3myfAdiUTyx3J_QQwr1Uy_g3Jai-ZQ7g6IPC6hZgHcog739aoASwCrrRU9YJ7fUAtBNhlBsyTyGqnkldyYFYe_6IauITPrUDmy-vImLr3yFWvUbS2jiIkMQock4eb7fJvpa0iUesBKh2O8LWTF97eDL5jxy-xmGG9wfXFIGyVygjYdRWx3rgo4gWXfLiLy78ZbWSjSjKmwhuEQomxJ-oGWMlecuPZmI5LM60oofywlVapi_hX2VLjfAINwMWrMclPOlqbR8j6mEB3zDeQ6gR-xEyks9oJtNJGndOy8uGJUR9-muD0HaQasiYA0HyO_aMCmuXOA6-gm03RRvQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.14K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.15K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
@@ -508,7 +508,7 @@ Claude Cowork
 <div class="tg-post" id="msg-869">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.07K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-868">
@@ -1302,7 +1302,7 @@ pinned «
 
 <div class="tg-post" id="msg-774">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EdzcR-a6OgG4oaCVCA7msH-QegR4KXL7CSfIx9eb6NOk_ZNHHOLVOKZz4IqfgzRpkA6N6BsHbpsULDA-_MZ5Ej2FyjraXiKuBt3VR9Q8yrm2W74JJ2kspW0NbEUXgw9-BtkGyWv5CHZIX4BD0qL6JMuACWJPuV5dJ7QGt1sywpMKEht0ny7Ikg_0b-liT6L4AUf9_ntKRYQCcmXdI1U1Pok-kznUlIu_dHJbs7RHeBSkkR66beiy1hh9sF9CfoZp4cs2Yqjt4sDgEK_Zy97kUqaRGR0dmy30P-IZS7U8tr2b_t_7B9rFej6-iz-NPATxXUv7dtIkYJiNAz5cAek4hw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/I2--7ITKRZ-JUb8UPOkJhh1tDNkXnNkmRBotU0445SmBO8X9D2FVTVr0pih4FECsbRCdapj_ISOz-FV-d6Vl-SdBJOCBLTHy_hODDdH_f4JvZyI8rv7N0fyHBlEvs_7OUQTpvotOYyJ_ESeLFTaa9969Tx3OSuBek8N0tMyvZocLo0uKlBwMWnEmR93Pz18zIOY3tLrz4i-wwrPgF2rBsijaS_XC_5iBTLH72tdB7kbsQ-nHGzgy-K4hcF4axOzOsiVvIAp-5VNizR-as4iA4tL6VscuXvYzT_0BjIy9pFdz8VipqG8PjOU8cobpfzoz6nHNQksZRntweHbevIg5TQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درباره پستی که روش ریپلای زدم:   نظر یک نفر قبل از اون پست:  از این زاویه نگاه میکردم که آقا تفکر وقتی آزاد باشه کامنت هم باز میزاره که جامعه بتونه درموردش صحبت کنه  وقتی میبنده داره آزادی رو میگیره</div>
 <div class="tg-footer">👁️ 2.16K · <a href="https://t.me/mohsentavoosiseo/774" target="_blank">📅 17:48 · 04 Tir 1405</a></div>
 </div>
@@ -1333,7 +1333,7 @@ pinned «
 
 <div class="tg-post" id="msg-768">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HatJPyHbjdZb6gVKiwZ4D7-FJxJ4F72pHlmlnlegh0i2mwI1_nJ22bzO3zfq9V7QOpSe0aCjXY3peLjnrkUdN9ABfPWvf4cKwyBLanXColEhqe-DbHkKAUyQ750RjZ744TMY7xlfLG6TK79sIsta-QD18sjTQsrpmB4JmoWhYHkV-zD49g2mJQKp-yxds5jyYEntF5GKc9XKl2BudzcwkcW9jMAG7Apa_UM8eD-Pe46UgWu79iYos7P-LUrFQeLuQBiNNfm18fIVhR-k6m98rI3Y6ahL4WpikvNOonmOZ6m7t6x22AW1zG1SSpz6ilvRZ7yeaddOO_qN24E46C0BJQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DBpK_v1ljaAMJWbahYEGl3RnjuoGfajq2oDnGEMhGkVZO_IBpavUeEI0_eRSPUbUaZy2Wb_lJHiGFUOBVvpaTVz8uBo6dwEd4eMrS2wXUMA0nbjYzdsLUay2vcwqUR-_sP8tkb8CvXg1FT446aXGBm0AULOeN6MrGpdURFTcZoKG1hBXUM9b3AfMAyfvZtKOBUojHHCeytsow2yiQdNK7RakbMrIaSJIN9tkG6RU0Mx3iR1rIQFj23JFPXiS21TcXg48V9bPF58DATNZLpNkHEC3ipuZcmpCxMkNdVxjpdqi03_jR6y4lwLo8tCrTgCNbFxaambWhNH5G3e0m6fN8Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال یک دنبال کننده که احتمالا شناخت قبلی هم به من نداره:
 نکات سوال:
 پارتی نداشتم کار خوب گیرم نیومد
