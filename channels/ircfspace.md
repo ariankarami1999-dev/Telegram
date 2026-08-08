@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn1.telesco.pe/file/od8UfmzPMOIs6RRrZRSuTsiIy_gJVLbxLJa5yWfQKIlcO8YEMKxR0Yzoufw0M_J6siSPTD3WD8I13DQ0hqcau0X42C9Q6o8_g-g8U8Q87Zmgzbhi2hwxJxEpG9gzxe2J_n_Hui7G5tH0L0qRXdiU3hIzSayX5S9bjl1JuVcaTXKRxFk0yWnA01LFhi3BSNUyOJx0hzRUv5gwth3sfhETmu9F9De0eYCFpsNdVV-YSGI-oGCXF3mRyKbnpNz9s4vZTi9tVKJW46ydqFzVx034VvlvaXjaRxs89Elxj08O1RubFPQReAJI2xq4HZKL2lckHhCvob4_j6qEEj0IONS5Tg.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn1.telesco.pe/file/k7IuVp-RQfdjalh3Gq2sMvv-nVPfbJ0YXMVnlNF1OCqb2F_yk_7pR3FIw041GFaPlgE3a4u65A51fble2GXoyp6PM8WXUNDGbRh5K7raLCRaDEJAB3K-2sDAlv7D1VK0BIXTjRaK5RUXYzaKkAVmqkVc3eeXFHyJZjYa61nb9RQNNDsxo68hW35pClzU9Mvqe60ADmr4Wt135TcaXN9PTqLRDpFCkU-qtxAtCBGKrUL9EvFhXDV3X8lsRSj5KXtNyu3om1CmFYUIr1UgM51QBE5Z8A7irBN56VvPxuKSchiQVuS3pYvpAmQ8hdGB9-3PH4uZqcTJLlANCFcQvyJuoA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 IRCF | اینترنت آزاد برای همه</h1>
 <p>@ircfspace • 👥 97.4K عضو</p>
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 01:48:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 02:24:19</div>
 <hr>
 
 <div class="tg-post" id="msg-2544">
@@ -307,7 +307,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2543">
@@ -366,7 +366,7 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2539">
@@ -399,7 +399,7 @@ iSegar0
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2537">
