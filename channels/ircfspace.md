@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 18:51:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 19:23:35</div>
 <hr>
 
 <div class="tg-post" id="msg-2544">
@@ -307,7 +307,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2543">
@@ -399,12 +399,12 @@ iSegar0
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2537">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rTI_FiCVWqWbQHnH6cSAv_h4x5lde4Oyhd6zEK8E-7DtcIvlnbjTTuPSWdL4Mwa8njGC9vYxpfAFEJ7nisLi6qSsZu5UU4LJX_t1FXQRGYmIGUrgREa0CbvQ0F08zWvF1jqq1LA0i7oHQ4l5sCImJ4mYA5W0SLVv4QYku6mETxIVudvUvnKQyxvRkLsrjld30lQvuFZUxt-qtF-A8gMiXcbs9wXcpuJXlj7OVEjxgBAbzTGc21dUG6OHtqZEv65jFPKdaEc0y49kMWkrQwP1kkN4tG0nczv8P8VTMIhl6tirq4Jr8N_NcKOVeNNseiPA0Bi9AuA62VD6UgsiqC4Chw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/aC0W5tiCLkMsneKhCui0tRaFyEtbmsABIDYV4uaF_8I5M-VjneISnGxa8kYs6uNrdhnAQgM0XimbPae-cat0eGTpSlAH3o_adAsL-B7m-O9U6DQxrHV5zahBlIdRdHG6t9CwC0m-iCDud-k-k8EQY7jPImAYJgUktuSvGzkJbfjsz6xBgBIH2M0p2Jnb8eb1Tnq8gakkfnzehDi8ND911Ldwr5jnPlKi9R_MPo1L6ZyxL-EVgvkUtwiI0vWSPm_MbUbZvC-rVUvOpxyOsot6i85OQTeIQwzx0tBvp9WrsJJKAiwXPp5c05KTgjg68uWRRsujdE2sCYxxBF-_BRIarA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aerial یه رادیوی متن‌باز و رایگان برای اندروید هست، که باهاش می‌تونین بدون نیاز به ثبت‌نام یا استفاده از فیلترشکن، به ایستگاه‌های رادیویی مختلف گوش کنین.
 👉
 github.com/shapeshed/aerial/releases
@@ -553,7 +553,7 @@ sadroddinfallah
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2528">
