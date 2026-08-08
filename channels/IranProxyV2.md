@@ -291,7 +291,7 @@
 <p>@IranProxyV2 • 👥 1.28K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 18:25:47</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 18:51:49</div>
 <hr>
 
 <div class="tg-post" id="msg-97">
@@ -849,7 +849,7 @@
 
 <div class="tg-post" id="msg-77">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XQUrVBFAUKLiVqCLnOq85vWjElGxZhsCq1_-so-UBYt-pl4kZKRV8jumqlpfcUt3KBikxRW0bJPDsoVGis_lhGaUbRZ436viZH5dI3lQHrcDp9CM3RBKmJKO_3rWQ2ENQ-WCcqCN5Eljvb6No58RL8cSBsKNVAxihlAvJ5hxiQlQF3FXBfE0Xavk3ou5Qvlcm9J2U7dzQawZk8L6HeblhrG7OlDEle5_AsJ3ipJTbQa4X6fW9X9tykr5eic_6B8yAExfMADf9k9hpH9iJqdIcxGrwxZUC3f1hHGDtJhpKyFKomwyKiOF_1IDeJw7-OJgRq2XQmUgB95wsJWtcNJMjw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g3y4cj54Vtyk36Z3zu0HEoHtUiSU5EClDnzYWmfRiRxVk32fI_x53vvHPxOYQoZyd8StjJ0yEoW2EoIHcyl0c-Q76gC9QIREzmtrIhBVimAi7vVa1NHIyRJlvihkS784Ux5aELdDABYBcZX0-OuazgiGhs8loMnwMktSkmzv8tzGfRuttzSGSl4rr0nHwwaYAx5UamTV1K6l3Rjny3Nw_TN_An2Es0Oixm82H-nu-cyg6WHpCGEJMl4DfNom4ItNJA_YGDrH8ggr3nE02ZcyESAkjBGFOC0ZHMXQwxGx0s9DYo-moACgKLm_ZkKkvlrx8hWywxqQLL4oAEAz3kh2kA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بازی انگلیس - آرژانتین به روایت تصویر:
 پروکسی
 |

@@ -292,13 +292,22 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 18:25:47</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 18:51:49</div>
 <hr>
 
 <div class="tg-post" id="msg-77786">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XR44hvEwxODPZLsYZNCLfoieWeny6mJQKPT0V9H4hogUYUyYAxYXgtLbyF1NYgxNyFRO4fIl5OJbBCJF0x5F3S8wuiM4Tv1oe-w_EgWzaNmc8DbB5R9D2lRpRxg3iwNMb3T2h5A-XRXLqOXllyY2_Wc8A5Wb6ZOVe5WlBBtPPn5GB5pXC0qc7w8Q34o3mHUQETPLJ5mt7cnE_0fY9hYCc1B_ebdmBBVx5DhU8gg6Hz4lE_ZFY1mTLoVTcPf8jxX28ADBQRoFeg5KgFc-v0YfKLLDtOSKQOksYzX6dgTbqBdhtW7X-8kjjmgIky1wior5jSd_DsPRFzKwVIcTaEHDsQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/VahidOnline/77786" target="_blank">📅 18:20 · 17 Mordad 1405</a></div>
+<div class="tg-text">جی‌دی ونس، معاون رییس جمهوری ایالات متحده، درباره پرداخت عوارض برای عبور از تنگه هرمز، به فاکس‌نیوز گفت: «برخی افراد در داخل حکومت ایران درباره دریافت عوارض صحبت می‌کنند. ایرانی‌ها به ما گفته‌اند که برنامه‌ای برای دریافت عوارض از عبور و مرور در تنگه هرمز ندارند. اما باز هم منتظر می‌مانیم ببینیم در عمل چه اقداماتی انجام می‌شود.»
+معاون رییس‌جمهوری آمریکا اضافه کرد: «: «انتظار ما این است که همان میزان نفت و گازی که پیش از آغاز درگیری از خلیج فارس خارج می‌شد، همچنان خارج شود. ایرانی‌ها به ما گفته‌اند که همین کار را انجام خواهند داد. ائتلاف کشورهای خلیج فارس نیز همین را می‌خواهد.»
+ونس اضافه کرد: «اما ما اعتماد نمی‌کنیم؛ راستی‌آزمایی می‌کنیم. ما در واقع به جای حرف‌های افراد، به اقدامات آن‌ها نگاه می‌کنیم.»
+ونس افزود: «مشکل اصلی این است که ایرانی‌ها در آغاز جنگ تعداد زیادی مین در منطقه کار گذاشتند. بنابراین، اکنون ما در حال بررسی این هستیم که چگونه می‌توان یک سازوکار تردد ایجاد کرد تا کشتی‌هایی که عبور می‌کنند، بتوانند با امنیت از تنگه عبور کنند. این موضوع، البته، شامل مین‌روبی و همچنین تعهد حکومت ایران به شلیک نکردن به کشتی‌های تجاری می‌شود.»
+ونس همچنین درباره جمهوری اسلامی گفت: «آن‌ها به‌شدت تحت فشار هستند. می‌خواهند این موضوع تمام شود. پرسش این است که آیا آن‌ها و ساختارشان قادر خواهند بود اقداماتی را که برای رضایت ما ضروری است، انجام دهند یا نه.»
+@
+VahidOOnLine
+📡
+@VahidOnline</div>
+<div class="tg-footer">👁️ 62K · <a href="https://t.me/VahidOnline/77786" target="_blank">📅 18:20 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77785">
@@ -309,7 +318,7 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/VahidOnline/77785" target="_blank">📅 18:14 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 70.8K · <a href="https://t.me/VahidOnline/77785" target="_blank">📅 18:14 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77784">
@@ -322,7 +331,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 33K · <a href="https://t.me/VahidOnline/77784" target="_blank">📅 18:14 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 66.5K · <a href="https://t.me/VahidOnline/77784" target="_blank">📅 18:14 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77783">
@@ -338,7 +347,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/VahidOnline/77783" target="_blank">📅 18:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/VahidOnline/77783" target="_blank">📅 18:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77782">
@@ -352,7 +361,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/VahidOnline/77782" target="_blank">📅 18:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/VahidOnline/77782" target="_blank">📅 18:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77775">
@@ -379,7 +388,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/VahidOnline/77775" target="_blank">📅 18:08 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 66.9K · <a href="https://t.me/VahidOnline/77775" target="_blank">📅 18:08 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77774">
@@ -401,7 +410,7 @@ VahidOOnLine
 به گفته این متهم، آن‌ها با وعده دریافت چند هزار دلار، اقدام به ربودن و قتل رجب‌زاده کرده‌اند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 48.2K · <a href="https://t.me/VahidOnline/77774" target="_blank">📅 18:07 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 76.2K · <a href="https://t.me/VahidOnline/77774" target="_blank">📅 18:07 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77773">
@@ -418,7 +427,7 @@ VahidOOnLine
 ZelenskyyUa
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 350K · <a href="https://t.me/VahidOnline/77773" target="_blank">📅 23:06 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 354K · <a href="https://t.me/VahidOnline/77773" target="_blank">📅 23:06 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77772">
@@ -430,7 +439,7 @@ ZelenskyyUa
 araghchi
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 370K · <a href="https://t.me/VahidOnline/77772" target="_blank">📅 21:44 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 374K · <a href="https://t.me/VahidOnline/77772" target="_blank">📅 21:44 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77771">
@@ -440,7 +449,7 @@ araghchi
 BarakRavid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 369K · <a href="https://t.me/VahidOnline/77771" target="_blank">📅 21:17 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 372K · <a href="https://t.me/VahidOnline/77771" target="_blank">📅 21:17 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77770">
@@ -463,7 +472,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 379K · <a href="https://t.me/VahidOnline/77770" target="_blank">📅 19:28 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 381K · <a href="https://t.me/VahidOnline/77770" target="_blank">📅 19:28 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77768">
@@ -486,7 +495,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 374K · <a href="https://t.me/VahidOnline/77768" target="_blank">📅 18:49 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 376K · <a href="https://t.me/VahidOnline/77768" target="_blank">📅 18:49 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77767">
@@ -532,7 +541,7 @@ VahidHeadline
 بنابراین در وضعیت بسیار خوبی هستیم. بااین‌حال، همیشه مهمات بیشتری می‌خواهیم و باید مقدار بیشتری داشته باشیم. ممکن است مسائل دیگری پیش بیاید و ممکن است هم پیش نیاید. امیدوارم هیچ مسئله دیگری پیش نیاید، اما ما در وضعیت بسیار خوبی قرار داریم. واقعاً مقادیر عظیمی مهمات داریم.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 427K · <a href="https://t.me/VahidOnline/77767" target="_blank">📅 01:06 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 428K · <a href="https://t.me/VahidOnline/77767" target="_blank">📅 01:06 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77766">
@@ -553,7 +562,7 @@ VahidHeadline
 mb_ghalibaf
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 429K · <a href="https://t.me/VahidOnline/77765" target="_blank">📅 22:05 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 430K · <a href="https://t.me/VahidOnline/77765" target="_blank">📅 22:05 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77764">
@@ -585,7 +594,7 @@ mb_ghalibaf
 بررسی‌های لازم توسط دستگاه‌های مسئول برای شناسایی منشأ صدای شنیده‌شده درحال انجام است.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 425K · <a href="https://t.me/VahidOnline/77764" target="_blank">📅 21:44 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 427K · <a href="https://t.me/VahidOnline/77764" target="_blank">📅 21:44 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77763">
@@ -600,7 +609,7 @@ realDonaldTrump
 درباره
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 423K · <a href="https://t.me/VahidOnline/77763" target="_blank">📅 20:31 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 424K · <a href="https://t.me/VahidOnline/77763" target="_blank">📅 20:31 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77762">
@@ -616,7 +625,7 @@ realDonaldTrump
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 431K · <a href="https://t.me/VahidOnline/77762" target="_blank">📅 09:10 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 432K · <a href="https://t.me/VahidOnline/77762" target="_blank">📅 09:10 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77761">
@@ -634,7 +643,7 @@ realDonaldTrump
 متن کامل فارسی
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 431K · <a href="https://t.me/VahidOnline/77761" target="_blank">📅 08:25 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 432K · <a href="https://t.me/VahidOnline/77761" target="_blank">📅 08:25 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77760">
@@ -672,7 +681,7 @@ realDonaldTrump
 و به‌محض اینکه این وضعیت با ایران پایان یابد، قیمت نفت به‌شدت سقوط خواهد کرد. قیمت بنزین هم پایین خواهد آمد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 432K · <a href="https://t.me/VahidOnline/77760" target="_blank">📅 01:40 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 433K · <a href="https://t.me/VahidOnline/77760" target="_blank">📅 01:40 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77759">
@@ -744,7 +753,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 364K · <a href="https://t.me/VahidOnline/77756" target="_blank">📅 17:45 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 365K · <a href="https://t.me/VahidOnline/77756" target="_blank">📅 17:45 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77755">
@@ -766,7 +775,7 @@ VahidHeadline
 درباره
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 338K · <a href="https://t.me/VahidOnline/77755" target="_blank">📅 17:43 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 340K · <a href="https://t.me/VahidOnline/77755" target="_blank">📅 17:43 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77754">
@@ -792,7 +801,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 368K · <a href="https://t.me/VahidOnline/77753" target="_blank">📅 17:36 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 369K · <a href="https://t.me/VahidOnline/77753" target="_blank">📅 17:36 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77752">
@@ -878,7 +887,7 @@ VahidHeadline
 axios
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 432K · <a href="https://t.me/VahidOnline/77751" target="_blank">📅 06:09 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 433K · <a href="https://t.me/VahidOnline/77751" target="_blank">📅 06:09 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77750">
@@ -890,7 +899,7 @@ axios
 CENTCOM
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 411K · <a href="https://t.me/VahidOnline/77750" target="_blank">📅 01:02 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 412K · <a href="https://t.me/VahidOnline/77750" target="_blank">📅 01:02 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77749">
@@ -1058,7 +1067,7 @@ VahidOOnLine
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/hEjdlY43tdbcxKjdovI3-SS6-3uVL4expJZ5UqlG_F5yR3x12eDfrqL1ISfvO7YYLCr0SSj94zwkPIsxoP-udA3gJVfZOFmURgrpH3A8prKdmVOokkASHFPVQV9tcRfh2IptUOGbWDnyJlgxcGynCnScrjwsnA2mfcqHxDutaqbbY_2rnxb9dmy6QavefxvUVkpTsOJuxMBy6FcS7Q0woe9CrK_8RqIYtgEs0PoT0nXeigB6Dkvi4nNUAfPAPuo8WQcOCi-cAYMUg9x7cbAE-BA4t1lyD8vJOpO2KDcY4_BzfraQHeLCG-lq26QqNmjf9yqBCXWIV37O0iqOuknTjQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/lfZIlYAGX1Xs2eSieEGR1DEtsZplxR__iPAtqv5Go1VmNYyEWAuiAZFKwetXFRIPtnxTE7r3JBKvztwxp1nY_NzSb3agdSqHvky16RO9mhcapEMCutHrHovdydYgoCc6oIxZqL3U_qXSu71E5zPNQnVH_TE82x-cHDGg-3cav08cVDy7wrZJtH8N08-H-PgCm5WM-0NBHUts3Jhtc6YLrXvAiz6Hi3e3uP53a2r0eQu18firRn0bky4sYXhyVLNqlseKAsrqDDqwcK2D8flQPiLRl9VrBT2_9HdAimNkE8j46PEFzxCQbFWlyu7Mw8HsG9dBwK7U4mhwCZ7pDoEsOg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/DmojMl975ahxpHtRlvT_S2t8TO_1nZ_Yq9k2u0XzA7a4PlmHZz8ei7sI6J3VLMjr9eErsLpB1SmOxqsq9Z8W4b14b-KvgqFPtYabs4VMUJjRHJlbcazomk2ce70xdd8XbECSGpcpeom0izFbPLITUaeP7CrgxsaXHEAQR99EemOjOx-uXNCGbdCGDLHaf2KVqCMMHb9Tz33cNx-Ua-4t9jyHMsz5buRQdHgag8DNyJzcklf2BOGOWivWYz4JyE44ASbi1wV5evMst80ArfIxpxYj5hT5dCytPH1e4_k7OOguBeu2Q9QdYZP2czgpFvHN1_d6Ke3XI0VgudqyleRPPQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -1266,7 +1275,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-77722">
 <div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Q---Iq1Pa1Kw3IcdH-_ncrkoTYrrpDtvN3LggAByf4s0H9Oyr_19oeKApNb9u4FMtStys7e006UY8t6wa9rsk6Es4aLyyDDadltgu8ra8q06QrlX8WysDhmsVWTuoXDUTj073g72W96z66Hwp0a38KBQ_IO5cpH4meg0Gv_IawHKgYnW24CYg_SW2jXBF68Xqh2iEXHTm0yzNTAU4Vny5NLhFzh-eeBDlgJcp9Ko1JWknGPyR2RtnTnbbeqvICm7hPooDa9-RoaqTfs2q3cMdMw64UErq2OOBxbfRhkXhWJeko1vmsOfvT3Bf_qdOfl4DUA4gWV6Aqjt4VrB4ADihQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KSZfDQw3ojAnJ7lELJEhet_B0Wyc_-1IKaL3DKr-C2Mi6pg9BilDuZetHRD6yDvNDi5ANTW_tDFzW_wMMbcJY2LTx7sATFfd8nHoCF9rhsrVleqajx6DHBVVsDacdf9vF6CVRnz1-zchYgi6BOHSxLEv5uj_Xal6LYytEVg_DKka1MKDS8y5N-On88Nqvt3E8qA3q_ENFwgXZ0YOYfwaMgXQIRHnu9W7CbhRQHprhPSsOGrzzaDbCMPfhEuzi_a1CbGMPtwrUDn3COMhMjqwJCX1xMtrXJP8iTe-EVtQjMqJtFKtWhYdP0CVkpbavk3GONCdeSLWd4rCf6_o9YfrmA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست ترامپ، ترجمه ماشین:
 رهبری ایران به‌طرز باورنکردنی دورو است!
 آن‌ها درخواست جلسه می‌کنند ــ بعضی‌ها می‌گویند «التماس می‌کنند» ــ مذاکرات آغاز می‌شود و جلسات بیشتری نیز برای آینده بسیار نزدیک برنامه‌ریزی می‌شود، اما بعد آشکارا و با افتخار می‌گویند که هیچ گفت‌وگویی ندارند، درباره هیچ‌چیز صحبت نمی‌شود و فقط با «عمان» سروکار دارند.
@@ -1283,7 +1292,7 @@ realDonaldTrump
 
 <div class="tg-post" id="msg-77721">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/q1ahget0KygJGOdHBPI_v_NhOiPLRB0-6z83voSOhw69H6PMKWzN9ZPoL8vCnNK46KbWRzvF76-zhcTfMZD0tVgci74kbhrzhpvzPCtnrbIY3HUr64FLKuNeUpaxWfdqqSGq-kIMgwHeQY42ja_6Q8n44OJtgjFuDd1__4g7M6C0Ro4whn0hbgYHk9aVIrPJ28CgWRBas24Y5oHA8jVFEqmddhtPdpblHRi8kruRjqScGu9vOr1pIIz4tMET82iyhKXQVOHigZmnHx19qq4XpRUKsvoYnVHHjcYjT6gWzXDw69oWsp9WvnGmpGvsLTDwXhuug3AHTekRscowffPCMw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BcuXX3i_Ts-PwsbzWlxckUJA6-iCLQ6PWc8LzHLRbH57FxHb7CwUZf6Y3dXo7s-kyhx5UdWtlRt8PRpi-B6pqiMJGgD2lVwQfi-2a_tT5zdPh_7YJrMWZuiI6xugS49V3H-QHFtPj7mW19KQC-O1Xz01XbuUbiOJ-rpsUTKUEtF88FgWVNwY02UWMZtOh01FNDGKdqyxPSelBaWyZNF4yNhLHSt2QYcTsiwMFXP1eG7x5d10YUxuCrnlMhP--5SHOgbo9Ojwu7_4FgDeI6qODxlA_wVLQhABhZsXODgrVxtkw-Nu0lNTtQGJ5KjoxgobWZq4GoGeDwcsZ1tSHbHBjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیران امور خارجه جمهوری اسلامی ایران و پاکستان در گفت‌وگویی تلفنی درباره تحولات منطقه‌ای و روند تحرکات دیپلماتیک رایزنی کردند. در این تماس، محمد اسحاق دار، وزیر امور خارجه پاکستان، از عباس عراقچی برای سفر به اسلام‌آباد در نخستین فرصت دعوت کرد.
 @
 VahidHeadline
@@ -1294,7 +1303,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77720">
 <div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h6ptjtk6A8hjIxcofK1bDx2156lrNbg3IOHsG2MJDL0RlC7qjmOzoF9tQMVlW8WkPUcmpMOc8uk5tYp3zWBsYv9J4AW0eqJTdRt5kVONf80Ukyy-rHVtdQdtMl_TvXPlJ-aVgUu-IAjgrnJyQ7UtuoLYz3hXg5bnaO4o9FDCJNwWRgZdhGAVezAocA107APLjkeiuN2U_Is7G8ABQjGayqQrZk4GlJweIMt7eQEDSoQ2Zv9wa09mxnvs-MpDHp4CVg2vTzqyKN8-UZVst6biMtiTcPtrPyxbTHDdzNaxGqJqtskFvcBY3G76YQ3MbMDK41VMgLLrYzHPwTmLYs-JNA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y3zubXewt8Y62nx-WQ4HKvBZal_Kt8Ar8zJc1_PKEsJYunh3QNi9KbjOt-VtEOJeq6ALS8DSDGdiOJ8ESAtZExIx0MZgVECYKIIaHZRTlN4126y2miUu0SoCyUomYMpm6oTlIZvGOZbaNiULBfatjrdc-USf1gxPjaj-Ej7Q7Xl9vvPNBXeT7pc1S8aze3IGhSdkfEhDMXnl94yzAcVOIT126C1vt8RZ5X9dhYyJvMyRpHgkiEeTpyxPn2B_F5mLcZqfFZqGfiIlOg_Ub7siS7JVC8YWjeSXXyPJzkg5NRXUsr-VXS6RvOkEVdyRrPM7EDXjmHKN6zCNqWsfksKfGg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رئیس‌جمهور آمریکا روز دوشنبه ۱۲ مرداد بار دیگر از شرکت‌های نفتی خواست قیمت بنزین را برای مصرف‌کنندگان آمریکایی کاهش دهند و مایک ویرث، مدیرعامل شورون، را به‌دلیل قدردانی نکردن از تلاش‌های دولتش در حمایت از صنعت نفت مورد انتقاد قرار داد.
 دونالد ترامپ در یک مصاحبه تلویزیونی، ویرث را سرزنش کرد که به نقش دولت او در کمک به شرکت‌های نفتی اشاره نکرده است.
 او در پیامی در شبکه اجتماعی خود، تروث سوشال، نوشت: «تنها چیزی که او به‌راحتی از گفتنش صرف‌نظر کرد این است که بدون نبوغ، دوراندیشی، قدرت و ثبات دولت ترامپ، صنعت نفت و حتی خود کشور ما نابود می‌شد!»

@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 18:25:47</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 18:51:49</div>
 <hr>
 
 <div class="tg-post" id="msg-883">
@@ -370,7 +370,7 @@ mohsentavoosi.com/1
 
 <div class="tg-post" id="msg-879">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NvGw2QsjfguBWcFcnj-s_CO5aMTw5NgydGH2lUrAUnJ0iOrPEU3TXO0EZflAUzVRIZ0W9E-MUCyOilhfGyAOeA4f6jm77J3VPsX5PF0y-5uCdOuUqvo6GjcxQ0wxyXuiQRrqn2yyFOjVAL3kwuKm9dngbE-rt8RoY8yLXjLcue8GUrPeKiwEQM_oUYNgf4L9A2_3K1IHfR_Tzght8LhIq5wyq6xtOK7NNt0BI3EM5itHia_L1fIrpJBeLbk-pBV86VLJbqqilu76E5tMo8vALEspDdcLCRvpacNkJY2PG3lDMhqoq5nP16IFahzoq6fOwOfJDLEw_1cori5AZZ1kjw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vVtnZVxfSdGi7ZGowZMu7Z6-Rf4xNu40ER6czvdjtGVEDoFYBpUhcVSmC-yurM69mAd1q7qTspt178ObzgPff90f3ER3BswnNCU0tAkqa1zn8NFtx6A6Oe2MS6EmErzuvxn-1ezLcc_tAOvsNk8TygrrvFX5DcUSDX9YihCuyTeKeJk2LPPk5v2MlFVWRC-MyIp5T5XwJsZ5Dm3hHS0YIctd1L1x8hUu0n9QZoxNkkmOpCWloYBdkwOhEqW54lO5FqkVX5owL7cret6pLEWEtV0Erqm5fqz69WeWXDGMf55ymgdnZokL8bLW1EZ707lVqvh32GO0nKwTKS0CG0z33g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❓️
 از کدوم هوش مصنوعی استفاده کنیم؟
 کلاد
@@ -587,7 +587,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-859">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CKlM_3oaXgcRf6AxewN2GaVQGdkVk8T_sIhji0zY2gkafF48hvJyJTaxvdcqSzecCczgklsaqIpKt3Dj-rVCFTqkBD5dopMHAhpCCr8dRx2Fwwg2P9oFTFWAvXLKxg_KTEy1UwY-5nE3onsKGD0BMV2_V8TBIDPIzqPVewfW3qGHZO1gCgtAdaiyLNCy1T1TJdkI2rCqQgFGVORehLCZN15KKhK3oFX0QLmYZYV_9FRZ5fxFScvCYibFB_I-D9PiARbTTvY3Ooboq-qa4YH5PKJ6fNE6dJjMiPUGuQfRWfg_cysUOpLQfigJMMYlSQeaJGitVjBYTg8PyGNsvBnF3A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fVfAp1wXkmGU6l-qFfLFs16X99a_pjcFVkr7LbaUiVuEeAfnKJ841XhA2wiX2-0A2H1vNNYrdkVfjYwVkZID919tIjVNG0JVcZgWELGvJBQ7oCS9-N1-Zx6xckanHJ52bylH2ZD-s2SbR2hAy2RF2LdzqpQABPYRZQuiqGjRBA4aqsGAA5hypimWEkS9qzxolkf9y3K3-GOGG1HViukeHQHtrbm4OGBisLhBfn8GgHfMKpXAVL2sDL2xbRfnNDNW7M5XweAYM3_8y3gpEItl9ZHtMfIq_IMaRNk0bkw4lwSI6OUqw5shEyamLuZ6uyXHFnrGkYE_g2NCiWyG0Or-_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این عکس، نمودار حدود 8 ماه گذشته یکی از پروژه های انگلیسی هست. هیچ فیلتری جز زمان هم ست نشده.
 تاریخ 5 فوریه زمان شروع همکاری بوده.
 به نظرتون بد شده اوضاعش یا خوب شده؟
@@ -601,7 +601,7 @@ Claude Cowork
 😎
 سئو رو عمیق و درست یاد بگیریم و با دید تجاری. نه با بلغور ترجمه. نه سطحی. نه غیر کاربردی. نه با لفظ بازی بی کاربرد.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/mohsentavoosiseo/859" target="_blank">📅 17:28 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.78K · <a href="https://t.me/mohsentavoosiseo/859" target="_blank">📅 17:28 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-858">
