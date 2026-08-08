@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 15:21:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 15:58:41</div>
 <hr>
 
 <div class="tg-post" id="msg-2858">
@@ -317,7 +317,7 @@
 آدرس سایت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 2.94K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.45K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2857">
@@ -339,7 +339,7 @@
 👇
 🔗
 https://rayachat.net</div>
-<div class="tg-footer">👁️ 7.43K · <a href="https://t.me/iaghapour/2857" target="_blank">📅 21:15 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.59K · <a href="https://t.me/iaghapour/2857" target="_blank">📅 21:15 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2856">
@@ -349,7 +349,7 @@ https://rayachat.net</div>
 🟢
 جایزه قرعه کشی تحویل حمید عزیز شد.
 سعی میکنیم از این به بعد با حمایت های شما هر هفته قرعه کشی داشته باشیم.</div>
-<div class="tg-footer">👁️ 7.81K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.94K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2855">
@@ -364,7 +364,7 @@ https://rayachat.net</div>
 👇
 🆔
 @techno_clan</div>
-<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.6K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2854">
@@ -373,7 +373,7 @@ https://rayachat.net</div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2853">
@@ -448,7 +448,7 @@ GPT-5.6 Sol
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.96K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2851">
@@ -571,7 +571,7 @@ ToRouter
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/iaghapour/2846" target="_blank">📅 20:44 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/iaghapour/2846" target="_blank">📅 20:44 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2845">
@@ -627,12 +627,12 @@ ToRouter
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/iaghapour/2843" target="_blank">📅 20:02 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/iaghapour/2843" target="_blank">📅 20:02 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2842">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HRN7JvuQFOTTtiqFt9dIEXV4lKW9zoHJ34bFNWhrYhKd8AqlIHhk_2hOeu_YkI5lye-8Cd4F40uuB6nNiXi4MIaZ6RIqwl3ahxqflgLAyp2ML4HbUqir58hzRHQQ-R_pRP49Debsx5HxhFEid1ZmhsClxlimjCgW2UghL7akn8rerVGIiRhgPNhkhOTTL0HbaYjfj5dAprsQljUJi39UaQYNcEVFylDgII8voyB6q_9QxsJPri-qXJCVXpxLQhbwrsq7cjW3ExOJ1w4zBmYARLAm4oAjkRcxMR_KyIgb-Q8mvFngemmVL_lvhkqLFzbw3TTT69CThchnsTG3Tja1wg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aTv8uqj45JrG8ALxqw45B3CJqxk8OWTASslHvVYCxqUfcCUOQxXvMnfg7_rxC_Q7W9I-cZ1Bq1IbM5X4CA3bx4_Xj42Wgth1dL-AxE6-fwFjHD76105er9RTXg7m28XDseS92oAo8ip6d5eP-XC1sx78a6axTYi-h9hvSAXuI4ir88q8Y5UkDn1Z-FKOVQBO8FOqKwAab5uIWEK-sjo6Vbat9g-I3HY1WaOzVTnMpzkcLZnipiBqC4WHOzsduA-Jrqdgw7OV0LHyjPYDjiCWJuzD6IGa_zi-b-YG_5JEG4ysGj8SiN3zuaL3kaGfgsanRu363H9mYjAgzmvO5LY8KA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 دو ابزار برای مدیریت پروکسی‌های Psiphon و Tor روی سرور لینوکس
 این دو اسکریپت ترمینالی، راهکاری عالی برای کسانی هستند که می‌خواهند چندین لوکیشن مختلف را به‌طور هم‌زمان و یکپارچه روی یک سرور مدیریت کنند:
@@ -664,7 +664,7 @@ ToRouter
 <div class="tg-text">⚠️
 دزدیِ آشکار و علنی یعنی همین! اپراتورها رسماً رو اینترنت بین‌الملل ضریب ۲.۷ می‌زنند؛ یعنی تا ۱۰۰ مگابایت دیتا مصرف می‌کنی، ۲۷۰ مگابایت از بسته‌ت می‌پره!
 با کدوم متر و معیاری این ضریب‌های عجیب‌وغریب رو روی حجم مردم حساب می‌کنید؟ این پولایی که بابت جابه‌جاییِ چند برابرِ حجم از جیب ملت می‌کشید، از گوشت سگ هم حروم‌تره. بسته‌ها رو که نجومی گرون کردید، جاده‌یک‌طرفهٔ کیفیت رو هم بستید، حالا رسماً دارید با ضریب زدن، حجم باقی‌مونده رو هم غارت می‌کنید.</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2839">
@@ -714,7 +714,7 @@ Xray-core
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/iaghapour/2838" target="_blank">📅 16:14 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/iaghapour/2838" target="_blank">📅 16:14 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2837">
@@ -1115,7 +1115,7 @@ Claude Opus 5
 
 <div class="tg-post" id="msg-2811">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WKceSz7mQ2P97oAWjipXOV7cF1KYM_aGCsLCtQqTOldgEpQBOwzKhAn4wQ-62b4p_kq2oMi01t1pAIz8m1q7BvM-Sj-1Vr4_Wi-be_HoIyk6na59c80xq_dlRS7tJCc_D-8pc1N7tpCPWYmCNhM8zDfJ86TlAK5-Kup8xdToXfkvwGcbbYRvLb-vGOoS7Vj47BFbCwcZzQ0xVr18TAS0NYRPYLxEEsnDb9SW4QnZh11qW3uAMCMSUocUZRp2MvsMK6YoCxoDw1Mf-v_0oFJrUZ4RC2EFDh0Qg3OOsKLBfJdMciUUp3Yux6sxnzyOowjSlVf2h-w-MNXWjwBoew-6LQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vWSapLcBYOnedYYWWvaQUeRRcGWb_AFratI5O2rBPUmlDBn-7nt8ZqhsjNXVjxsujDgw1yLy54OrMjNsAUNo__rqRCa-8scMC1ZdzYOCfr0N-ioGmwcK32LCjLZFprW7-d3fa9p6oQG6DjSYlpku5fM7cJKKNuE9gEUgcWq-J39IId_NIMrOOHIxTujKfQM5RU1vzWbnC69kFGT1ws-sv2CLKDuhI7mFFJdMNMtipbU_aLd49Qp5QqKA_1_oe1MXAqOagYu8gVlfkU3W87SYew_16EKdbIGzFlK78zOiMl55OQk-qlgLDCGIIT8hd51CEZVBGw90X6uFneD38dRW1w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبریک به برنده عزیز قرعه‌کشی!
 🎉
 همونطور که قول داده بودیم، قرعه‌کشی از بین کامنت‌های ویدیو یوتیوب انجام شد و برنده یک اکانت هوش مصنوعی ۱ ماهه مشخص شد:
