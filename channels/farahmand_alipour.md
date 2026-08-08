@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64.7K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 02:24:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 02:49:15</div>
 <hr>
 
 <div class="tg-post" id="msg-6535">
@@ -328,7 +328,7 @@
 </div>
 <div class="tg-text">حاجی‌دلیگانی؛ نماینده مجلس:
 ما الان جز ۴ ابرقدرت جهانیم. نمیگم چهارمیم؛ شاید حتی دوم‌ باشیم ولی دیگه جز ۴ تاییم و باید توی شورای امنیت حق وتو داشته باشیم!</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/farahmand_alipour/6533" target="_blank">📅 18:01 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/farahmand_alipour/6533" target="_blank">📅 18:01 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6532">
@@ -355,14 +355,14 @@
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hV7gLqBKZrfjByVY7QaIUccjb1JgxWcjW22_h0R68A-p3rPPdY8y8zX1IQgjt_B_hvqeSelhS1u-zActSoi-fxRQU7nOFNyUivM0od1-ctampvOwVYtgmBZeu4y736c2TZyAE3RHGFSNC_5lt7j5H54Q_jdA0avHP919h3lKBQGTr7xJbBoGEsUCGwn9UAakOwBFOkPY3m_UoE8sz_OXesa-EiuAeNUiuLWCBgbFBa-wwxIpcJ5NBgxtBFvntobc9rNSMsGRgyU0cMtuwswnPiFysiQFDAUUu6ez88BKopyaXrphjqh7Beo2rNSsMJ4CDUr89j0sTuuIq3f11da1uw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خامنه‌ای در سال ۹۸  معنای «مستضعفین» رو هم تغییر داد و مفهومش رو از مردم مستضعف و مورد ظلم واقع شده رو تبدیل به معنای «پشوا و رهبر کشور» تبدیل کرد!  به نوعی گفت «مستضعف» من هستم و اگه میخواید خدمتی به مستضعفین کنید  به من و پسرهام خدمت کنید!  کفت قرآن اینطور…</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/farahmand_alipour/6529" target="_blank">📅 14:51 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/farahmand_alipour/6529" target="_blank">📅 14:51 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6528">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kgmoePoLnsAuEMEASaLv8YGMFsP8RD51CFedu4c-7jBVbSnRFyzGZk0VhqOJKX9kVXG9t7VFMfiB3B2QGBeOKoe3_oKRiH3cw2w9inKnsCQwsEIXPIAEgtlEUR58JxjsKt8lIlLpPdtldN3giFwIdrmLkx9kMD0cGiXAGhkzT-aZ9hsy0A_OaBzQYEMnapklF7z7y1xeZvHNQragUcIi99gSzVKZ3KHjSXKf1YUU608mpeq7sMPeSy2nMnp-VYl5nV4CrisDHZbjXaBrhdD-dvJVTSIspejLYJEWQPekoHKIBO-MGurmxYg3MJVH-xUx884I-dgz0R6tRE2STNPrNA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حامیان وقیح جمهوری اسلامی هم به مردم عاصی ایران از فقر و فلاکت کشور  دائم میگن :  شماها بیایید زیر پر و بال فقرای کشور  رو بگیرید، مدرسه و درمانگاه و….. بسازید،  به کودکان یتیم و سالمندان و….. برسید،  تا ما هم بخشی از ثروت‌های ایران رو یا خرج لبنان و فلسطین…</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farahmand_alipour/6528" target="_blank">📅 14:43 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farahmand_alipour/6528" target="_blank">📅 14:43 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6527">
