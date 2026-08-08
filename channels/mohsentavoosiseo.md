@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 11:59:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 12:40:42</div>
 <hr>
 
 <div class="tg-post" id="msg-883">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">بازگشت قیمت(افزایش) دوره از 1 آبان یا زودتر. اگر قسطی دادید قسط رو تا پایان مهر کامل کنید یا اگر دوستی دارید که میخواسته تهیه کنید بهش اطلاع بدید.  با اومدن اپدیت بزرگ دوره(SEO و GEO بین المللی با AI) قیمت، تغییر خواهد کرد. چه اول آبان 1405 چه زودتر.  طبق…</div>
-<div class="tg-footer">👁️ 1.29K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.3K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-882">
@@ -352,7 +352,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد میگم کلاد خداست میگید نه! بازم میرید از فلان جی پی تی، ایرانیش رو میخرید؟ خیلی فرق داره! اختصاصی بگیرید. کانکتور و اسکیل و داکیومنت و کوورک و... تو اختصاصی هست فقط.
 mohsentavoosi.com/1
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-880">
@@ -879,7 +879,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 
 <div class="tg-post" id="msg-830">
 <div class="tg-post-header">📌 پیام #58</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CIvT8r6xiTvszyEB3FPoDif-2FQ6dfxtY80ryY6mnx0D2yKe3jBw5pmzavm-8acgmJmB4k8MKYNgsjUQ3inw7NpfHbPOTtJg_5q_rXQcciF0V1gww0pP1rQ_RbZ4OPV3FhvRErdV4jUD-PDnZPpuzoE6b3kqDKZE-MiwwFxo5bl1K0fMpqgemalu6UZAjNlytzaNHziGx0v_sBVD8-SAXKu5KRITg7NbTRbwSVcyODyaRifYAf8el36L1JuP1fwtGbpZQOaaA_8Ls-YwRPiICthujssnHotmUaGZgteXEqLrM6oTQkF7lAzSNjlP256WXkZKEXey-mu9OTFoIHksbQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/R8RYrALb8JTjzpRyFlHVejoetI1tW-A1X_VDrSWiXjXUF8lgkWEn_OmABy8UgtZBxqCgNr_EAr10Hd5iUGoXy-VlA8TeMrUgiADL4E4VpvoIy3BSeyFZY9T3FTGR8q1QuCeLW3CIaseQPagDCneVEgYcQQesJ905JGHWCwtsAnCD2tlnHDMfPH17DFsITNooHIMiaBEZXa4G6yX6KvxJP9zhoLhA535pIP_mKq1zhcN7xCamrNowLAD2dLEldDYhxmIjrO74oK2kLtuBz4PbqWaZDMTb3fQiN0ydgsk_bEcqEUez1pysLCKBQd8Y0rSTmyyqDkBuzNlhwpMaBrY2DQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
 <div class="tg-footer">👁️ 2.1K · <a href="https://t.me/mohsentavoosiseo/830" target="_blank">📅 13:50 · 23 Tir 1405</a></div>
 </div>
@@ -954,7 +954,7 @@ https://t.me/mohsentavoosiseo/826
 
 <div class="tg-post" id="msg-822">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HquD09lo3-LsdRj6ZsdCjDC2V9d_24qT3X6HnhbJu-NLrDkOuuysXkGy7o8uPwvEStmepWU0xKfyR8CFlxek3O61hJNkBzRgKcunSo46mJsiLF00FPvJ4_2qjp58N0a4Y_JV-B2GMPOVYH5psygvv3l5VWzufB0W5T_7TA4cWZAKYg9hbbU1mecIXpDKCXhTKLnxdY2bklgruzCFZiMj28q9RzngS3XKRygcoB0bndw6C-alvrTG3QZaFzuPWaADznwsvsKtVL-jM2vZ414YwS7szvlG9HefZjvw5tol_rRdGEgO3JsWgyspvSaMNElUvwoeBOyesEpTzRW2jRADZQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ihuXF6ekU433e-b0BZRiKmRolMnqNr1-_yQVRHYovtbyb8wjxu9z391qIy11gbq7Z8eCT5gK-A7TFk2AseUxcGF7Fel0ZyfMoGM-jBbPRwUcfXgW4DDUyR5NqVzQKhMMJVXv3kxHXc_grRTDT4orzIFmB_Uh2t46pTYlbHf_SeLsNWLwjBOGY6onLIWzMBu_K1HOajyBdEVwsbAVd6uCnPHEthmPG62bfVQvp5gVC7KnHuNTxj6frlnyyvyG2-CyYYncKk62dghiUK9ssMu2OABt-wUNkVO3aLnFvUE-Ulczfzqz0Os9O9s8LkHw5hPn6g7B9uN0qHlF5dW3SjjcuQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بخاطر احترام به حقوق تولید کننده تصویر
 لینک پستش
 رو میذارم. ولی حرفم خود تصویر نیست.

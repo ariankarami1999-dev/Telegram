@@ -292,13 +292,13 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 تاریخ، ژئوپولیتیک و بازارهای مالیhttps://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 11:59:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 12:40:42</div>
 <hr>
 
 <div class="tg-post" id="msg-19795">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">سوال خبرنگار:   مانند مه ۲۰۲۵، زمانی که وضعیت جنگی بین هند و پاکستان وجود داشت، آیا ترکیه و عربستان سعودی فقط حمایت کلامی ارائه می‌دادند اگر چنین چیزی دوباره اتفاق می‌افتاد، یا با سلاح از پاکستان حمایت می‌کردند؟  وزیر دفاع پاکستانی عساف: هر چه این توافق‌نامه…</div>
-<div class="tg-footer">👁️ 136 · <a href="https://t.me/SBoxxx/19795" target="_blank">📅 12:00 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.46K · <a href="https://t.me/SBoxxx/19795" target="_blank">📅 12:00 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19794">
@@ -307,7 +307,7 @@
 مانند مه ۲۰۲۵، زمانی که وضعیت جنگی بین هند و پاکستان وجود داشت، آیا ترکیه و عربستان سعودی فقط حمایت کلامی ارائه می‌دادند اگر چنین چیزی دوباره اتفاق می‌افتاد، یا با سلاح از پاکستان حمایت می‌کردند؟
 وزیر دفاع پاکستانی عساف: هر چه این توافق‌نامه شامل می‌شود، قطعاً به حوزه عمومی خواهد رسید. همان‌طور که قبلاً گفتم، قطعاً به عرصه عمومی آورده خواهند شد.
 اما این توافق‌نامه تنها امروز امضا شده است و فکر نمی‌کنم مناسب باشد که در حال حاضر جزئیات آن را بحث کنم.</div>
-<div class="tg-footer">👁️ 324 · <a href="https://t.me/SBoxxx/19794" target="_blank">📅 11:57 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/SBoxxx/19794" target="_blank">📅 11:57 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19793">
@@ -316,20 +316,20 @@
 <div class="tg-text">ایالات متحده توانسته صادرات نفت ایران را فلج کند – فایننشال تایمز
 این روزنامه با استناد به داده‌های ماهواره‌ای گزارش می‌دهد که ایران حدود یک هفته است که در جزیره خارک نفت خام را در نفتکش‌ها بارگیری نکرده است.
 این جزیره اصلی‌ترین پایگاه ترانزیت نفت کشور است. اسکله‌های بارگیری خالی هستند و ترافیک نفتکش‌ها متوقف شده است که نشان‌دهنده طولانی‌ترین دوره بی‌فعالی در مجتمع ترانزیت جزیره خارک از آغاز جنگ است</div>
-<div class="tg-footer">👁️ 2.93K · <a href="https://t.me/SBoxxx/19793" target="_blank">📅 07:37 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/SBoxxx/19793" target="_blank">📅 07:37 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19792">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">مقام آمریکایی گفت که توافق مربوط به بازگشایی تنگه هرمز نهایی شده و در مقابل محاصره دریایی ایران نیز برداشته می شود</div>
-<div class="tg-footer">👁️ 3.94K · <a href="https://t.me/SBoxxx/19792" target="_blank">📅 01:21 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.15K · <a href="https://t.me/SBoxxx/19792" target="_blank">📅 01:21 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19791">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">رئیس‌جمهور ایران، مسعود پزشکیان:
 من نه تنها از شهادت نمی‌ترسم، بلکه آن برای من یک پیروزی بزرگ است.</div>
-<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/19791" target="_blank">📅 22:35 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SBoxxx/19791" target="_blank">📅 22:35 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19790">
@@ -343,26 +343,26 @@
 <a href="https://t.me/SBoxxx/19790" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">Ali SharifAzadeh – GeoMarkets - podcast 21</div>
-<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SBoxxx/19790" target="_blank">📅 22:05 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SBoxxx/19790" target="_blank">📅 22:05 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19789">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">رسانه های اسراییلی:
 محسن رضایی جزو اهداف ترور است.</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SBoxxx/19789" target="_blank">📅 20:47 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/19789" target="_blank">📅 20:47 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19788">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">در عصر اقتصاد دانش بنیان، تنگه بندی و گردنه گیری تنها منجر به انزوا و تیپا خوردن خود عامل می‌شود و اندونزیایی ها خیلی سریع فهمیدند که این لقمه برای دهانشان بزرگ است ولی خب.</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/19788" target="_blank">📅 19:53 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/19788" target="_blank">📅 19:53 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19787">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">انصافاً ببینید کشورهای منطقه (خصوصاً عراق و کویت که راهی جز هرمز برای صادرات نفت ندارند) برای گریز از اخلال ایران در هرمز چه می کنند.  خط لوله کرکوک—جیحان که الان هم فعال است.  خط لوله شرق—غرب عربستان به ینبع برای خود سعودیها فعال است و گویا عراقی ها و کویتی…</div>
-<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/19787" target="_blank">📅 19:53 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SBoxxx/19787" target="_blank">📅 19:53 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19786">
@@ -370,27 +370,27 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OVxLlwFHwUCjqiMhCllb3j8TwY6repdRYJL8S5nzU8UxYMqgBRh7woxx98XibAZLqQ5rZzZ_lbzYPON3cVvef_otFRZNfmr2meYoyDpqbv9VFtLnm4N-Ys9cL7XVinWM4duuO9wyx3e6GiiNBuz_vLQFDs4YmH8d3xdj-_IfqBA2ybk8sOkRS9uwbVDdJ73tOkg7zYw8Q47Mg-UKm_vrPWFMSQtljGFoxsKwQdckrD7G2Us5-1tS30R6Asp0wSfaxcS4xAA0PwagibxycBkrz0CoWsq-BGCwX-ANFvA5h7zyHKz0CfMpmWf0Tl-B-ErhKvZjs3HHLkom8suUvseWTQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#VIX
 با شاخص های سهام در سقف و نفت کنترل شده، همه چیز برای ماجراجویی دوباره ترامپ آماده است.</div>
-<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/19786" target="_blank">📅 19:18 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/19786" target="_blank">📅 19:18 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19785">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VviX_gtYT2zcytMnLujQbDF_jXpwHVFfrmvJsy4qOIyTRX1WCaO5aTdTxRidsnJr5nmX1-jfLxsWH44Z3TUGeV2Bz72qWyKseGT4CTmAKCe4jD7-TEALu4uRhqiVh87uIkPR6MGk7O5ggXaleTA5hcjeGgFAGa4pBdpKb61s8dwo37cna66K1l74eJWNzrQgBEp9GcGV1KFckE9hlxU4O-podr4OgK9SPCbwqLnEkXuWyZg7Q4fUvdqjr-YFZ3oIo1PHJzBn4QGb29ow3ysgTcR0LuWhHbGYMXcq04Jb4qaKRbuZETaU_tgnWODXbjc4P4KQIU68BvzH8n2-cO9_3Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#XAUUSD — H4  میتوان چنین ساختاری برای طلا متصور بود.</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/19785" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/19785" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19784">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">ریاست جمهوری ترکیه:   هرگونه حمله مسلحانه به هر یک از کشورها، از جمله ترکیه، عربستان سعودی و پاکستان، حمله به همه آنها تلقی می‌شود</div>
-<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/19784" target="_blank">📅 18:41 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SBoxxx/19784" target="_blank">📅 18:41 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19783">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iMkWA7TqdXNkb-msjKqL2PFcuDGoR1vI1v2AS2OYCperHpT2eVC7WR2rZXlGSlrTAB36tpRETBV7TrnApE02yeZ1AKMiPKO5Iv1Yd2BGt3k-LF42XrDKZlpqct2cKZy7OpA6G1bpSs5ezm1vWBjUqTIWRfuRrf4xVoms3aIlstrl_5fsVzCq8482Z31DuDlIp_dKk2fSZ7-UZwrtN5rUKN12ZzcwcHf4VtIRCoAxeXeegsx_nDdnziS870B7u0Z8GoRyysB08OrGndIUFYV1tLebb_sHV3pNZvL8u-M-QlF25qW1HmJ5sK6HZXauLUjG2zbULkpGvZd6DyZn3xihMQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ریاست جمهوری ترکیه:   هرگونه حمله مسلحانه به هر یک از کشورها، از جمله ترکیه، عربستان سعودی و پاکستان، حمله به همه آنها تلقی می‌شود</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/19783" target="_blank">📅 17:52 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/19783" target="_blank">📅 17:52 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19782">
@@ -398,7 +398,7 @@
 <div class="tg-text">💙
 تبریز
 💙</div>
-<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/SBoxxx/19782" target="_blank">📅 17:39 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/19782" target="_blank">📅 17:39 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19781">
@@ -408,13 +408,13 @@
 فکر می‌کنم به زودی، شاید حتی امروز یا فردا، قرار است یک توافق را ببینیم، یک آتش‌بس ۳۰ تا ۶۰ روزه و تنگه باز خواهد شد.
 قیمت‌های انرژی باید کاهش یابد.
 منبع: 12 News</div>
-<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/19781" target="_blank">📅 17:30 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/19781" target="_blank">📅 17:30 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19780">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">تحلیلی برگریزان از خرازی درباره پاکستان، هند و چین!</div>
-<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SBoxxx/19780" target="_blank">📅 15:39 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.56K · <a href="https://t.me/SBoxxx/19780" target="_blank">📅 15:39 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19779">
@@ -427,25 +427,25 @@
 <a href="https://cdn4.telesco.pe/file/3b35e228b4.mp4?token=vBNW6kw90xZPkX9FFNOyPeLbbPuwAYdoxRDIPEoELxyESPZZ3wTfORXqL3yl50twC-OYW-sVIpmrJPWkNF25l0S3FV5t-Do0ZU3obf5bQZn5xvtYPopg3aL4NHq9STKKPvYXwKsoJE0HcI_RbNF9_yORUDbQzdT2X93AL038bV4sYaQYNlBxSH8VVnf7VKhsa9lAQuse4hpDuO7iPIvFxv98DHjzWUNG64nNu17D_fCh74o2WyZ53bu0x_kL5hbTtk5muXBpS3AnpoNvdbJtqwhxUELEAMJXcTI16NpgbKf1GVpJH0BaXf8x1oEwC-LbDXiUHwzQCjmDMV2JYXiImQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">تحلیلی برگریزان از خرازی درباره پاکستان، هند و چین!</div>
-<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/19779" target="_blank">📅 15:38 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/19779" target="_blank">📅 15:38 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19778">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">ارتش یمن بیانیه مهمی صادر می‌کند
 سرتیپ یحیی سریع، سخنگوی نیروهای مسلح یمن اعلام کرد که نیروهای مسلح این کشور به زودی بیانیه‌ای درباره عملیات منحصر به فرد نظامی خود صادر می‌کند.</div>
-<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/19778" target="_blank">📅 15:13 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/19778" target="_blank">📅 15:13 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19777">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SBoxxx/19777" target="_blank">📅 15:12 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/19777" target="_blank">📅 15:12 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19776">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">نکته جالب اینکه مهلت حشدالشعبی به دولت عراق فردا پایان می یابد و یمنی ها هم حملات خود را به سعودی تشدید کرده اند!  یعنی اگر فردا این پیمان دفاعی میان ترک‌ها و پاکستانی ها و سعودی ها امضا بشود، از پسفردا باید شاهد حملات متقابل اینها به حشدالشعبی و حوثی ها باشیم.…</div>
-<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/SBoxxx/19776" target="_blank">📅 15:05 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SBoxxx/19776" target="_blank">📅 15:05 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19775">
@@ -480,14 +480,14 @@
 <div class="tg-text">#پادکست_GeoMarkets
 شماره — 21
 جمعه 7 آگوست 2026</div>
-<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SBoxxx/19772" target="_blank">📅 13:16 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.23K · <a href="https://t.me/SBoxxx/19772" target="_blank">📅 13:16 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19771">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">پیشروی بی سابقه حزب AfD در آلمان
 حزب موسوم به گزینه جایگزین برای آلمان در نظرسنجی‌ها به بالاترین حد تاریخی خود یعنی ۲۸ درصد رسید و فاصله خود را با ائتلاف CDU/CSU افزایش داد، در حالی که حمایت‌های محافظه‌کارانه به پایین‌ترین سطح خود از سال ۲۰۲۱ سقوط کرد.</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19771" target="_blank">📅 13:10 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/19771" target="_blank">📅 13:10 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19770">
@@ -502,38 +502,38 @@
 <div class="tg-post" id="msg-19769">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">مسئول ارشد سابق در پنتاگون و مدیر ارشد در مرکز اسکروفت در مورد ذخایر تسلیحاتی ایالات متحده:  «محاسبات مربوط به مهمات برای ایالات متحده بسیار جدی است،» او گفت. «با هر عملیات هوایی علیه اهداف ایرانی و حملات تلافی‌جویانه بعدی ایران، ایالات متحده توانایی‌های حیاتی…</div>
-<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/19769" target="_blank">📅 11:16 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/19769" target="_blank">📅 11:16 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19768">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UDDh12GTCoscDN9_lBzdG3g5Eo5iCxyuZBdRiuaOoI3ikJXvOCyTlZBJcjtZL6rJwi1mGkmvE4G6RUl01o0Gb8WHVgNXysFJrbtVNhBrbnhW-eTR2A_xawlyPFkliVLsUkYkWSDTdiaKqm2oF0BY9C0LEIYVPFQqlVABkHTqF7gfVuXn6lyAxUMy0ZNTN3LzERZBN913G3P6XI4GhoeYp0-OPzjuKyRHZJzkQfd-YUxEw2lDxB2smNSWnzxha4eLHyUBOLDkyhYJQXTP2iJNyQm_rVuc5k2FdmB4TUrEPX6KV0Sc5mAVFPaiJQHSSmsQd6MfrotU8r0-hDvlmvjI3g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI  برای امروز شاخص ریسک ژئوپولیتیک در سطح میانه قرار دارد. پیش بینی می شود طلا امروز مقداری افت اصلاحی داشته باشد (با توجه به رشد GRI از دیروز) اما دوباره به سقف (4300) حمله ور بشود (با توجه به افت میانگین شاخص GRI در روزهای گذشته)</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/19768" target="_blank">📅 11:12 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19768" target="_blank">📅 11:12 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19767">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">وزارت دفاع آمریکا، قرارداد ۵۸ میلیارد دلاری برای سیستم پدافند هوایی پاتریوت به شرکت لاکهید مارتین اعطا کرد.  این قرارداد به ارزش تا ۵۸.۶ میلیارد دلار، مربوط به موشک‌های رهگیر پاتریوت است و تولید این سیستم را تا سال ۲۰۳۲ افزایش می‌دهد. این اقدام در حالی صورت…</div>
-<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/19767" target="_blank">📅 11:05 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/19767" target="_blank">📅 11:05 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19766">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">نکته جالب اینکه مهلت حشدالشعبی به دولت عراق فردا پایان می یابد و یمنی ها هم حملات خود را به سعودی تشدید کرده اند!  یعنی اگر فردا این پیمان دفاعی میان ترک‌ها و پاکستانی ها و سعودی ها امضا بشود، از پسفردا باید شاهد حملات متقابل اینها به حشدالشعبی و حوثی ها باشیم.…</div>
-<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/19766" target="_blank">📅 03:01 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/19766" target="_blank">📅 03:01 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19765">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">ترکیه، عربستان و پاکستان در آستانه امضای پیمان دفاعی سه‌جانبه   رجب طیب اردوغان، رئیس‌جمهور ترکیه، روز جمعه راهی عربستان سعودی می‌شود تا در نشستی سه‌جانبه با محمد بن سلمان، ولیعهد سعودی، و شهباز شریف، نخست‌وزیر پاکستان، یک توافق دفاعی مشترک را به امضا برساند؛…</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/19765" target="_blank">📅 02:57 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/19765" target="_blank">📅 02:57 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19764">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">عجیب است!  الان دیدم در 17 مارس امسال — یعنی اوج جنگ 40 روزه — پنتاگون در حال نهایی کردن طرح استفاده از کلاهک های کوچک هسته ای به عنوان یک گزینه معمول جنگی (با حساسیت کمتر نسبت به جنگ تمام عیار هسته ای) بوده است.  لینک</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/19764" target="_blank">📅 02:21 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/19764" target="_blank">📅 02:21 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19763">
@@ -550,13 +550,13 @@
 توافق دفاعی مشترک
 را به امضا برساند؛ توافقی که می‌تواند به شکل‌گیری یکی از مهم‌ترین ترتیبات امنیتی جدید در خاورمیانه منجر شود.
 این توافق سه‌جانبه که بنا بر گزارش رویترز قرار است در جریان دیدار رهبران سه کشور نهایی شود، در شرایطی شکل می‌گیرد که جنگ ایران و افزایش بی‌ثباتی در منطقه، معادلات امنیتی خاورمیانه را وارد مرحله تازه‌ای کرده است.</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/19762" target="_blank">📅 02:03 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/19762" target="_blank">📅 02:03 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19761">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">نگاهی به فیلم «رشته ها»!   امروز، ۶ اوت، سالروز بمباران اتمی هیروشیماست؛ روزی که در سال ۱۹۴۵ برای نخستین‌بار در تاریخ، یک سلاح هسته‌ای علیه یک شهر به کار گرفته شد و جهان وارد عصر جدیدی شد که در آن یک بحران نظامی می‌تواند، در صورت خروج از کنترل، به تهدیدی برای…</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19761" target="_blank">📅 01:17 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/19761" target="_blank">📅 01:17 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19760">
@@ -636,7 +636,7 @@
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EaREQp55BmqiLM-fS8scNj9dYSURG65yl4nCH9aLPPev59681p6BBqlKryZgkDxazbKCo5KwaeYOjpZVEhBBJnhyfJZkB-7E9p_DYfbLKTCXrj6vQc2QNgJX9_gxnY-K51Xa3DpY3-44xhRoWhf_-XtMm3y5_JPypkC3dS_fOTr6GYVncb8V21K3PXDORE5fHVY7vklgVlWyxAE0yIt7vKRtlULjZ_lQHgy6mcB6xd5Y7nwnaLgodtsZ8UxMRdSrGj8eLtBFh_54hyrJCJh5mr-q02vlGuXRNIDcz254ULtRI5bfNNYAoZif_KKpS_9WCDn_jbTBgdQ-6xwLI-86ww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعید میدانم ایران چنین طرحی را ارائه کرده باشد.</div>
-<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/19749" target="_blank">📅 20:11 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/19749" target="_blank">📅 20:11 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19748">
@@ -693,7 +693,7 @@
 دولت موظف خواهد شد با همکاری نیروهای مسلح، مسئولیت‌هایی مانند هدایت ناوبری، نظارت بر تردد شناورها و حفاظت از امنیت و محیط زیست خلیج فارس را برعهده بگیرد.
 🔹
 این طرح همچنان در مرحله بررسی کارشناسی قرار دارد و مجلس از صاحب‌نظران خواسته پیشنهادهای خود را برای تکمیل آن ارائه کنند.</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/19743" target="_blank">📅 19:25 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SBoxxx/19743" target="_blank">📅 19:25 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19742">
@@ -749,18 +749,18 @@
 پیروزی از آن یمن و همه آزادگان این ملت باد!
 صنعا، ۲۳ صفر ۱۴۴۸ هجری قمری
 صادر شده توسط نیروهای مسلح یمن</div>
-<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/19738" target="_blank">📅 18:12 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/19738" target="_blank">📅 18:12 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19737">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SBoxxx/19737" target="_blank">📅 18:11 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/19737" target="_blank">📅 18:11 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19736">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">حملات سنگین اسرائیل به جنوب لبنان آغاز شد.</div>
-<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SBoxxx/19736" target="_blank">📅 16:34 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/19736" target="_blank">📅 16:34 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19735">
@@ -801,14 +801,14 @@
 <div class="tg-text">#پادکست_GeoMarkets
 شماره — 20
 پنجشنبه 6 آگوست 2026</div>
-<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/19732" target="_blank">📅 13:42 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/19732" target="_blank">📅 13:42 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19731">
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gyOXZxLjRkmuQIHz9jyZCzjSc2mXPSS9Fxz-dvweN5_UkFeXho_1KCjFV80NmdsLcI0tuVTlRBSP0iWJz7no7kNnljtDMimFDXkw_Wb-mC38skoD6XS5goi0I5N1uSibIWhLNWsGk83te1MJK0csXfUrJ52nAMQbR5Y2VHjZD3NxhZzTj_KuKHc39jsVgGjxJtTdsTCuvXPglMaARHvwB_RC8tWKgiIlEtSXDb3NO0HJtuG6wISQsP-JWYcPvNQNJoBX2ofT_m7xQGOoRkFa4RcrwaHbPlx_Tqz6V9rD7DmnL_i86tEK21IzM2Lu0XuDi-geo5YyTqC9AlZatFl0WQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این تحلیل درست 4 روز پس از پایان جنگ 40-روزه ارائه شد و همچنان بر اعتبار آن افزوده می شود و خواهیم دید روزی می رسد که تنگه هرمز را فقط خودمان استفاده خواهیم کرد.  از همه کریدورها که محروم ماندیم و سهممان .... های باقر شد این هم از تنگه هرمز!</div>
-<div class="tg-footer">👁️ 5.48K · <a href="https://t.me/SBoxxx/19731" target="_blank">📅 12:46 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/SBoxxx/19731" target="_blank">📅 12:46 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19730">
@@ -829,7 +829,7 @@
 <div class="tg-post" id="msg-19728">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">سبحان الله!  هندی ها حتی در باشگاه های بدنسازی شان هم ممکن است غرق بشوند!  (ماشالله چه بدن هایی هم ساخته اند در باشگاه)</div>
-<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SBoxxx/19728" target="_blank">📅 10:27 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/19728" target="_blank">📅 10:27 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19727">
@@ -842,7 +842,7 @@
 <a href="https://cdn4.telesco.pe/file/e2d8645934.mp4?token=U6K5rOQ05xUCB-vaJoG3P8jpdA0EZvEBTpEYPpd0xI5knShcoRtcXu5mBqoPuXDZ3KgxMvp1aZXZXafQJ1IV1h6KeflGiN_wl8M0pQudHJ_VbBZjVoTSS5ccZAfhoqp3RyDnR-bDZiEwZdAow0wMBzUi1dtVXrcUlzhKHBMKxMbxQ1DF_kbbbumDrCEJ6U63RHvYocoJxYJ9c2gZWjB0E2tzl30efN_rEjVmePR2jVNRF615vbMKTc32UJ-N0KiUZbGOF7zzUncrTqkpZTj9VrWpZeidFhqeMYx2LGXJXxE2bsaxPrmG8p9PTWmI2YCsGy0bz2su20dnQlW_Pr3eXA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این جنگ تمام هم که بشود باز هندی ها غرق خواهندشد.</div>
-<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/SBoxxx/19727" target="_blank">📅 10:20 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.07K · <a href="https://t.me/SBoxxx/19727" target="_blank">📅 10:20 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19726">
@@ -879,7 +879,7 @@
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nqhuiX2r-ehkUBEz15L6QCestFJWRA_G48kknQM20mK8ew3dH3XAZTCUFFlNcFVJEVTIu_iBkLKNZmYVjJIexmLlQhJvEPNvfKUgfRYPy-Ap1Dp0jX3JsRSHzic3Aq2K3ogWTsokgCCS4p0TC_45jg09Wq-X4iioqDji_-4aMDuOGb5_7nC8kOeKaLf6dXw-tJx5axu0TBqq5GlNLFwgs4K4RIKbgtwSXmQWxGiapFRI5F_OrY5IUXZZcSG0-_Gjeg-J60gHTh5mMuV1YDhpxYGdOqcux-pkJGJJtpvQMgHUAS6cZUCE_949T8Zqd5auvo5bXSOm06o-g_t4gdnc8A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI  شاخص ریسک ژئوپولیتیک امروز در سطح پایینی قرار دارد و ادامه جو ریسک پذیری پیش بینی می کند.  (شخصاً با توجه به اینکه:  — عمده رشد امروز در سشن آسیا روی داده — پس فردا گزارش NFP داریم — اعتمادی به توافق ایران و آمریکا ندارم  اینجا خریدار نیستم و پله ای…</div>
-<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/SBoxxx/19722" target="_blank">📅 22:55 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/SBoxxx/19722" target="_blank">📅 22:55 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19721">
@@ -1021,7 +1021,7 @@
 <div class="tg-post" id="msg-19701">
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">مقامات آمریکایی تأیید کردند که هرگونه توافق احتمالی با ایران، به طور قطعی تضمین خواهد کرد که تهران کنترل مسیر کشتیرانی تنگه هرمز را به دست نخواهد گرفت.</div>
-<div class="tg-footer">👁️ 4.06K · <a href="https://t.me/SBoxxx/19701" target="_blank">📅 16:49 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.09K · <a href="https://t.me/SBoxxx/19701" target="_blank">📅 16:49 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19700">

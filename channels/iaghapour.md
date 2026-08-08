@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 11:59:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 12:40:42</div>
 <hr>
 
 <div class="tg-post" id="msg-2857">
@@ -314,7 +314,7 @@
 👇
 🔗
 https://rayachat.net</div>
-<div class="tg-footer">👁️ 6.14K · <a href="https://t.me/iaghapour/2857" target="_blank">📅 21:15 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.25K · <a href="https://t.me/iaghapour/2857" target="_blank">📅 21:15 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2856">
@@ -324,7 +324,7 @@ https://rayachat.net</div>
 🟢
 جایزه قرعه کشی تحویل حمید عزیز شد.
 سعی میکنیم از این به بعد با حمایت های شما هر هفته قرعه کشی داشته باشیم.</div>
-<div class="tg-footer">👁️ 6.83K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.92K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2855">
@@ -339,7 +339,7 @@ https://rayachat.net</div>
 👇
 🆔
 @techno_clan</div>
-<div class="tg-footer">👁️ 7.67K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.74K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2854">
@@ -348,7 +348,7 @@ https://rayachat.net</div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>
-<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2853">
@@ -423,7 +423,7 @@ GPT-5.6 Sol
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2851">
@@ -577,7 +577,7 @@ ToRouter
 یهویی این همه آدم باهم دیگه اشتباه میکنن پس. شاید همه باهم دیگه دارن توهم میزنن‍!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2843">
@@ -694,7 +694,7 @@ Xray-core
 
 <div class="tg-post" id="msg-2837">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CSl0ZROkqM9fRBKjWPIXQbo3Px0Tq8RWYcl6NPh-zUkXKacMN_IXqz0u76XsewiN-MR2W3SIbYCYInZJyVpJMPBpSbxLgANl9g7GbgQay2ZEB0V43tA1MFQP4mYZTMNjm7uQyubGUEAoxZ3swWJ7Gorwwn-FFL6p6NHNFyBxQ4NhfxSVveuQAtofwffVPCIr6JhAxmeTfgeLJunHkjx3ZxAkH4r4wUO8sxFl7etYKlXvDtCkWkr6uieldh5lo2IqC-Hy7zPEgpv44jM_pRl2ngNJeie1_Ez41Pg8mdXr3qc9MeQmyYN7lB_9WSLAe_Bwg3TLT3ZaR1EyLMKpw4asjg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/taEuHypTALzYLTRFTDu6KVaaZL6l76r56D60NtZ6hxumUBpOL-Ja4ydZBrMeqmTP8EJ3R8w5TjR0tpDiK85dDiYnwT_07VpRfkrlmbSEiWVljup1E6eVsDauj-6UqligduzDxVW2EoHqTN4crNiBNgeBp-beh1td80qD4li34fG5g-4dWc0qFSTrAoQLY6lqOsn04L7kGJLH7Vd2R3nhoLaZ8dnyyDNp03XvTEU1FF19LwzjsaSU6mTe6L6-v8A8Hk72EWKz0E9zwOVHSAgetlg9JEcKed2OsnwQsoTkHmh7nJm85YY4zW2KbRCWkah1A_puGeEOBUsPnwtLubSzqg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 معیشت بیش از ۵۰ درصد کاربران ایرانی به اینترنت وابسته است
 یافته‌های جدیدترین نظرسنجی ملی مرکز افکارسنجی دانشجویان ایران (ایسپا) آمارهای قابل‌توجهی از ضریب نفوذ اینترنت و اهمیت اقتصادی آن در کشور ارائه می‌دهد:
@@ -771,7 +771,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 
 <div class="tg-post" id="msg-2831">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Nb21oNaSqcOHdQLXXf03skXeUs1YYV9rZ7LZ3EyxQwo6ya3EFMiyU0oOiNl5uzvOthCvX4nSUgioFjDe5riE9MaLfJgm0jNSs4VLye3ctP3l4f-cym5dKs3aaegvTaspRXhUKoLzR4VosaozhY5U5378QDAaEkZU0ISFmlJz1PPOuj4FecJSAp8c2bDD6gcmSr7XdVmR6AlAz8nnQryGoUA-j-rFJqdN_l2hxGmmfQ2iN6SQIjpX3Jo3Zp80C7edSVMYZS1SO4ffNeCTuLB7gm7IDccCK94fVxj-mnUGcGEEGgHPXfEuFML_Qi-C9Io8w7TDA7Ao_7XuvPv5_Fvdyg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TQPJnkhnDIhNxhXo9OLGpLxeybLMtVnkZoZo3l5YXsw5gJk6NbQGZbSswM2j94bt_udAz7_8OkH7OS_jy6cKV7HHeRplKGlRNzymBTeMMLPO_Uk9FVrl2dTqhGDIxVoCCms3aBxUrc-GRrE4E6CD3uZFc_7fF90YEd1y-FkYtnHhrOQHw-smjouBFfNiofeMtb45QkMxAtDtZrHKpWNsEwUNEWbOt2Gi9pkrSyDrQ1OVyy-aUXDBlRii9DG3wdiSGF1HE6NEsU6-1HwwIQ8icl_kWsRSqJVtfol8-Sb7HOabQAleCgHm-G191rFJJXRLF7YlsePSEyLe2MABPR9qag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 امنیت حساب اینستاگرام در صورت استفاده از VPN
 تغییر مداوم موقعیت جغرافیایی (IP) هنگام اتصال به VPN، سیستم‌های امنیتی اینستاگرام را حساس می‌کند. اگر ورودها غیرعادی تشخیص داده شوند، احتمال قفل شدن یا محدودسازی موقت حساب وجود دارد.
@@ -859,7 +859,7 @@ KelpDAO
 کارشناسان از احتمال رشد حملات تزریق دستور (Prompt Injection) به ایجنت‌های هوش مصنوعی خبر می‌دهند که نمونه اولیه آن هک ۲۱۶ هزار دلاری پروژه بنکر بود.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2826">
@@ -1055,7 +1055,7 @@ Trojan
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2813" target="_blank">📅 18:55 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2813" target="_blank">📅 18:55 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2812">
@@ -1634,7 +1634,7 @@ UAC SNI Spoofer
 دانلود از گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/iaghapour/2773" target="_blank">📅 21:15 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/iaghapour/2773" target="_blank">📅 21:15 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2772">
