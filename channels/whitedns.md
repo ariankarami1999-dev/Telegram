@@ -292,7 +292,7 @@
 <a href="https://t.me/whitedns" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 گروه :t.me/whitedns_groupادمين :@WhiteDnsChatBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 19:23:35</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 19:51:41</div>
 <hr>
 
 <div class="tg-post" id="msg-1425">
@@ -315,7 +315,7 @@ https://t.me/whitedns_group/17904
 🔗
 @whitedns
 📢</div>
-<div class="tg-footer">👁️ 9.28K · <a href="https://t.me/whitedns/1425" target="_blank">📅 13:44 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.53K · <a href="https://t.me/whitedns/1425" target="_blank">📅 13:44 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1424">
@@ -331,12 +331,12 @@ WhiteVPN Desktop — نسخه ۱.۰.۱۴
 دانلود:
 https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/tag/v1.0.14
 @whitedns</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/whitedns/1424" target="_blank">📅 10:24 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/whitedns/1424" target="_blank">📅 10:24 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1423">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/lgSupHrcmEtTwFHTNUriV6qAnXAs0YnWrjivZunL5eA4zQllXhsPv5Fntm_3ao9sgswr7krGROO87IGGyAJJhOqjJIC86DIrsMOliOFFLLCwq2_IKCp3NfIgetGHP1luahdSrs0pZi5c2R8yoZ9oidMmvk45_jWJyxf8eJTa5IYL-J5h1Mf9OuB2Rgb0eUGHh-qx9Kb86e8N_6ZVNmGlvlwUc3tzOFaISXcDG4C4Bn3hrKTxT0prU7KDeOU6XTmZfRM6QChWAHxzHf62_jspKQwc0LeSmRiRGFu3LV1h-vQpqwSi1GhaIbPX0PGkLjxbSLn5cbN4oMeTlKQowxAAQw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn5.telesco.pe/file/DU69G2GZ5lFc6C6vP0h-Mz7LRDm4YF1ABt4tVxuyJDTFbESfJgm2VZl1pbFlFG-FKg21DJqmwYOUIdlcM_95QWwnV__FQlAY0Azwe4DpYAdURjKgxD9ydmwo_cjI85rq0v2ugPli-e-CwP7Xcp0OAoJVhw5fUB_GXmbYVV8eddXX1x55R9UNE26chaBigARfA2rDTz5bUMmkC0B0uwS79GMFp689BDxHSeYthQk_7ix7UWXGbqDNhivUzQLMs-GHzk0z-NFUDIoCmmd4pAmOopWqN1wLWOS3oxXhlcTtYa5pxUC08LCAG2FZGTKYjbt_MMm_sI8-bLEwtDi6CbXJ9w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔵
 WhiteVPN Desktop — نسخه ۱.۰.۱۳
 Stable
@@ -420,7 +420,7 @@ WhiteVPN Desktop —نسخه 1.0.12
 دانلود برای ویندوز، مک و لینوکس:
 https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/tag/v1.0.12
 @whitedns</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/whitedns/1422" target="_blank">📅 14:45 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/whitedns/1422" target="_blank">📅 14:45 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1420">
@@ -437,7 +437,7 @@ https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/tag/v1.0.12
 آموزش فیلترشکن رایگان و امن با استفاده از متد های MITM و Serverless
 مشاهده در یوتیوب
 https://youtu.be/VYfQePhgEUU</div>
-<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/whitedns/1420" target="_blank">📅 11:53 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/whitedns/1420" target="_blank">📅 11:53 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1419">
@@ -486,7 +486,7 @@ DNS
 https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/tag/v1.0.4
 @whitevpn
 📲</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/whitedns/1419" target="_blank">📅 05:57 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/whitedns/1419" target="_blank">📅 05:57 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1418">
@@ -502,7 +502,7 @@ https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/tag/v1.0.4
 آموزش فیلترشکن رایگان و امن با استفاده از متد های MITM و Serverless
 مشاهده در یوتیوب
 https://youtu.be/VYfQePhgEUU</div>
-<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/whitedns/1418" target="_blank">📅 01:54 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/whitedns/1418" target="_blank">📅 01:54 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1416">
@@ -707,7 +707,7 @@ WhiteVPN Desktop متن‌باز است و تحت مجوز GPL-3.0 منتشر م
 https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/latest
 اگر برنامه برایتان مفید بود، لینک آن را برای دوستانتان هم بفرستید
 ❤️</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/whitedns/1410" target="_blank">📅 09:08 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/whitedns/1410" target="_blank">📅 09:08 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1409">
@@ -755,7 +755,7 @@ https://www.youtube.com/watch?v=filwdiPKN90
 👇
 https://youtu.be/Mc--GlKw2wg
 @whitedns</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/whitedns/1409" target="_blank">📅 04:43 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/whitedns/1409" target="_blank">📅 04:43 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1407">
@@ -778,7 +778,7 @@ https://youtu.be/Mc--GlKw2wg
 whitevpn
 اماده شده است و به زودی بعد از طی مراحل آزمایش منتشر خواهد شد
 @whitedns</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/whitedns/1407" target="_blank">📅 19:08 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/whitedns/1407" target="_blank">📅 19:08 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1403">
@@ -805,7 +805,7 @@ https://t.me/patt_channel_x/94?single
 👑
 @patt_channel_x
 ✅</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/whitedns/1403" target="_blank">📅 15:47 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/whitedns/1403" target="_blank">📅 15:47 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1402">
@@ -814,7 +814,7 @@ https://t.me/patt_channel_x/94?single
 آپدیت WhiteVPN 1.2.0
 ✍️
 تمرکز این نسخه فقط روی اتصال  سریع‌تر و پایدارتر بوده است.  امکانات و بهبودهای جدید: •  شروع اتصال سریع‌تر •  انتخاب هوشمند بهترین سرور •  جابه‌جایی خودکار در صورت اختلال سرور •  کاهش خطا و نیاز به چندبار زدن دکمه اتصال •  بهبود Real…</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/whitedns/1402" target="_blank">📅 15:06 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/whitedns/1402" target="_blank">📅 15:06 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1401">
@@ -859,7 +859,7 @@ Encryption Key
 
 <div class="tg-post" id="msg-1398">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/whitedns/1398" target="_blank">📅 12:36 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/whitedns/1398" target="_blank">📅 12:36 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1397">
@@ -911,7 +911,7 @@ https://www.youtube.com/@WhiteDNS
 آپدیت WhiteVPN 1.2.0
 ✍️
 لطفا تست کنید و نتیجه رو با ما به اشتراک بگذارید.</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/whitedns/1393" target="_blank">📅 07:45 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/whitedns/1393" target="_blank">📅 07:45 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1388">
@@ -924,7 +924,7 @@ https://www.youtube.com/@WhiteDNS
 </div>
 <a href="https://t.me/whitedns/1388" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 53.4K · <a href="https://t.me/whitedns/1388" target="_blank">📅 07:44 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53.5K · <a href="https://t.me/whitedns/1388" target="_blank">📅 07:44 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1387">
@@ -1012,7 +1012,7 @@ WhiteDNS Desktop
 ربات دریافت رایگان کانفیگ V2Ray
 🤖
 ربات دریافت ریزالور</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/whitedns/1378" target="_blank">📅 11:25 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/whitedns/1378" target="_blank">📅 11:25 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1377">
@@ -1153,7 +1153,7 @@ WhiteDNS Security
 ممنون
 🙏
 😊</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/whitedns/1368" target="_blank">📅 05:56 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/whitedns/1368" target="_blank">📅 05:56 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1367">
@@ -1937,7 +1937,7 @@ https://t.me/MatinSenPaii/4683
 تماشا در یوتوب
 💰
 دونیت</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/whitedns/1313" target="_blank">📅 04:41 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/whitedns/1313" target="_blank">📅 04:41 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1312">
@@ -2246,7 +2246,7 @@ https://github.com/QW-AI-Code/Aether
 • تنظیمات پیشرفته شامل TLS Integrity، DNS رمزنگاری‌شده، Split Tunneling و IP Fronting
 این بهینه شده تا با ورژن جدید BPB  به خوبی کار کنه.
 برای استفاده از اپ، سابسکریپشن های Mihomo را از پلن BPB داخل اپ وارد کنید.</div>
-<div class="tg-footer">👁️ 7.54K · <a href="https://t.me/whitedns/1291" target="_blank">📅 09:48 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.55K · <a href="https://t.me/whitedns/1291" target="_blank">📅 09:48 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1289">

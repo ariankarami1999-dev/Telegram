@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 19:23:35</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 19:51:41</div>
 <hr>
 
 <div class="tg-post" id="msg-2544">
@@ -320,7 +320,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2542">
@@ -351,7 +351,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2540">
@@ -366,7 +366,7 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2539">
@@ -381,7 +381,7 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2538">
@@ -620,7 +620,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 47.2K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2524">
@@ -704,7 +704,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/ircfspace/2520" target="_blank">📅 07:46 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/ircfspace/2520" target="_blank">📅 07:46 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2519">
@@ -790,7 +790,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.7K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.8K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2514">
@@ -1114,7 +1114,7 @@ PingChannel
 
 <div class="tg-post" id="msg-2493">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Z0w3Ud9fP2fR_DPyHaoa_LUTdAGzWrI8zV6gcls813s7ZVh3JhzzZV-0xmMS5F3ZPGfMRSAj9c_GmWWgrPpeXNBKHJZO3WweS0N1Tagcb5B_rMM3HDsTMa5J5hrP4-qR7CIL4NNc5pEQbGEV3zn769B1jKpeqtDwOSMNLXssRAcKXQvz9gyk46mWz7vGcOXvVejZP6dgMNQxdwUrnx0Zq5MGeeM23aenhGpnIyBXD_jxwMs6cjOu7TT2TojBMVSmOvPIoSTa2YvMs2vCunMQP7bwSTNFO6WT8vIFXK0UD_o149lTmJBP7M6NAIDvXmr_Put1hHmT7wPEjRrwH2JTZw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nZUaP97Fdg9jJhQjczGtQ-zSlkJ_b17pPJt3giRaxq2BQ--zmj-oy5MyYgQqdEch23z_pCFDBjvwO7cVilzt2b2OhQuuGk0BZHp0YwKHIUm3ciq8T3d4Je_B7L5wXTUnfq0Hdcxr_crpgeEOCXJU4AuK0VjbyYhX1JsgFNqLDmfCb0PEcTjR6_7MaHf4Z-68064eD3nLuRJcrc20nh-dLGTPvfPB0rGFzU3aCTw1rsspx44MOKzUGuFSruu_jMGNWLrDEHb125pptANEhbNIeDmGIBzpWOe-7maMLnvXtNnBfNKoNPOBGlm2s4sVbZjlRN4794xMMfV8iVsMuSYb-A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پروژه Aether یک ابزار متن‌باز و رایگان برای دسترسی به اینترنت آزاد و عبور از محدودیت‌های شبکه هست، که با تمرکز روی سرعت، پایداری و مقاومت در برابر فیلترینگ توسعه داده شده. این پروژه با ترکیب وایرگارد، MASQUE و WARP-in-WARP، ترافیک رو تا حد زیادی شبیه ارتباطات عادی نشون میده و به همین دلیل روی شبکه‌هایی که از DPI و روش‌های پیشرفته فیلترینگ استفاده می‌کنن میتونه عملکرد خوبی داشته باشه.
 یکی از قابلیت‌های کاربردی Aether اینه که خودش بصورت خودکار اندپوینت‌های تمیز رو اسکن و بهترین گزینه رو انتخاب می‌کنه؛ بنابراین نیازی نیست که تنظیمات رو بصورت دستی انجام بدین. بطور پیشفرض هم از HTTP/3 استفاده می‌کنه، اما اگر شبکه‌ای QUIC یا HTTP/3 رو محدود کرده باشن، میتونه اون رو روی HTTP/2 قرار بده تا سازگاری بیشتری داشته باشه.
 این پروژه روی ویندوز، لینوکس، مک و اندروید (از طریق Termux) قابل استفاده هست و توسعه‌دهنده‌ش اعلام کرده که بزودی قصد داره هسته Aether رو با زدن Pull Request در فیلترشکن‌های ابلیویون و دیفیکس ادغام کنه.
@@ -1375,7 +1375,7 @@ github.com/Jigsaw-Code/Intra
 
 <div class="tg-post" id="msg-2477">
 <div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hJIQy9XEGU1Hhf1wW1O2WDpo0TQNK099WdhKcezkLM4kjLkUUYHFczQZFYSIKEnkRxVU45slr9ei2OK1u0-DQOg4aaLCzpq8CvIVI-bxLxQrgc0FVcqD4FE_Rnz1ywI6sY2oD0FeUH3h7pz5UHvD5iZrC5DQw3Vqt-xHw7AGjH7JsmfSfYQJ1HOFFv2hHsDNvttCvC72vwSSB9Dt8A7KRf0M6oUKrYXKwnwjEQijeFUOSqycclOScb1pJTuYTzmBAgPfLIe8tr-a_Gq87SOPEgCeNdcFkPRd7iXaNO0yUtF6ZCtQCgURofkIqa8-S_HLlisj7m7ec-MPqSBDTbfTqw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PyEgxNHwTXQQVeTF8SD9TrxpXAPMQrqJ8MFM-sYcBAnK4S7vbhnnlMmOqHsMNsG55qH_URTjjKTK8igSkxRPtSdPYCeVxoyo4oQTpxfRq0nYSgyQpQuleEaBVjPr362rlrgU7yvT0Ve1mVuzbZFJvGZK-MPuWD1sBIhN7C2DqxAIXCJpI0kOE22EbAXehT7DvDmnqCK5Cuw2-c6WBcOfduGj-eF8u-CHu6knCsoJT7OonDkCUI4R-40n0RmuYthoNqOB74QMOpZ490a6ipJ0YuJ03M0mehtfHQzjYCJBPEnG79BeB_2rP45ItXxW8GyIGhyHspN-hdlurPqWsbN1Wg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محققان Datadog میگن مهاجمان با استفاده از بیش از ۵۰ حساب قدیمی و غیرفعال گیت‌هاب و توکن‌های دسترسی (PAT) افشاشده، از طریق API گیت‌هاب در حال جمع‌آوری اطلاعات سازمان‌ها هستن تا برای حملات بعدی آماده بشن و ساختار داخلی، اعضا و ریپازیتوری‌های اونهارو شناسایی کنن.
 توی بعضی موارد هم تونستن ریپازیتوری‌های خصوصی رو کلون کنن. به گفته Datadog، چون این کارها با حساب‌های واقعی و API رسمی گیت‌هاب انجام میشه، تشخیصش از فعالیت عادی توسعه‌دهنده‌ها کار راحتی نیست.
 ©
@@ -1392,7 +1392,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2476">
 <div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HfwfVjI3rN8CzbAZeiO_9ylOLcNkLlfG0J_OnDIvFJPPKujwTsjfQaGCJbXyBjDaSSCC0s4HCk7dnr5mFw3uGTx3H6hOonW1EOsXthbPX7nXl6iqn5vD6DhVQKzlGWk8hyoNG0Sefc9sNnBRml34J_dmbvnF4Qus_J8xRXZp2WO6Y3bqy243Hp2bi-WUfuPanyoe-K7t9DxzdAxjbn5cwdkdPPSmO4UUVUqNh-W_t_SrOMFq3_XRqb_5u5v4s2rYwPlGqheLKi2KvUM3EMAamf9Vs83NDCw6QC1YUJ2LOVtTWmyVjuD5PAF_pxFz0_AojZMMHR01ozySME_X2PFtGQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jaGMzMf3nYJLKAM_dP1S7IZm73ijupsQVbj8XYasFZsPZMUHVqkzK5kk4ZbWuS-xNdlBEx8QUN1yNPN6QvvF0uYbbqzajEKY5p2-d1_51nqQW-0FXspCStLSTAGSNusn0mCo91cy64uwG_A5cK6GvncpOufbSepb94nXPC8brvDZXivmljcENSDog2tXU-6c-wqxy0lE_FFN1wjYuNaqO5zzUGFNHlum_nAzwAnlvfukKZ-MP4Q_CsgmiTHZSveuIqDU7NlMOLJCV7nLiRXv1vgL9f6Sgkb9h7FKY4XZYhxR3pM5mYWAd4P6pZM0pRB_-Nbj5ZUcXlLLzwYLutlIAw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که "کدوم مدل هوش مصنوعی خطرناک‌تره"، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.
 به گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس
 🔗
@@ -1803,7 +1803,7 @@ github.com/2dust/v2rayNG/releases
 
 <div class="tg-post" id="msg-2450">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KqlTCT3x-Px1GCh8kD0aj01n2W1k9qLZ70Kgi8jZCmAFZSYeNzGszwJjWtXXEWCOe9EUkf7JjVSoFcxA3zLLSAAzsWoPM3_JMqyjStdeFzjrxJs2Wv21ieAb0pXONwWYGBWjUqlaV1-rVLFUly8D1zvoHFD5UIyL0Rl_p6P_f4UwaFRVTbj6lfTB2Awq0-bxl2TFc1udkyMVGaQ-RmdMMpHICmjVOS0sBwTEVS604_nhy9ksGuHHdbrd6oEBlKgXx8UKIDXkTqP9LslCDl1xom8cI0t21lrZNy6cmOYjCLOHwFni6r8tTXF2FD6fIIXCsDuC0YN1v9oHuOgo_Y6aRg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/i0MaVnqUdUCNKA1HAQX_z5Fh2TsDtDiQoZH1Zc4wwWCAxIT4ti_Id87ZrVtY7wLbU9ZUUocak323dffimPNgJ7lQdwnDZpJBOuzc8KWpLRuBibcCPMnevlft9AwWxKc9wwG2E5DSncQ6f6cTEP1uEQ9Q2MAomqZGBZug9UpM_-rCV6kbCQnD4sAvhwRsX7GVXtSx0_lZOhEqN2aat2PnpRlF1qURiiOVeKDezzHbLN3kA4a26RieYfjsx4_SU1aNQLVbCTbk4U5Ptb_X9rz0O92-bCXPtteB2w_b1wyaI8w-4C4ECE7R_0T_IOY7kVk1dRVri0bAsbWsFJHAwHIEIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ما تنگه را مفت ندادیم، زندگی یک ملت را مفت دادیم. سال‌هاست حرص و ناکارآمدی‌تان را «سیاست‌گذاری» نامیدید، ماشین قراضه را ده برابر فروختید و گفتید حمایت از تولیدملی، اینترنت را خفه کردید و گفتید «مدیریت»، فقر را گردن تحریم انداختید در حالی که رانت و انحصار رگ‌های مردم را بریده بود. جوانی را به مهاجرت، کسب‌وکار را به «تاب‌آوری»، آینده را به سکوت فروختید. اگر چیزی واقعاً مفت رفته، نه تنگه هرمز، نه یک وجب خاک؛ عمر مردم، آرزوهایشان و فردای سوخته‌شان بوده. این صورت‌حساب واقعی است.
 ©
 rassssoo
@@ -1901,7 +1901,7 @@ github.com/MortezaBashsiz/nipovpn/releases
 
 <div class="tg-post" id="msg-2444">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/p40WdKMKslx0WsJXBQeuk7mGIU4k7wCtCAT1JREuhQk3wOZflPz3qund3F_w6oCY7jQX52vm-uWUuBdYLJLNsvRmjKjiQvdZPCM-fmqZig1B_tyIBs-lTRtVfmD-IR72Lcwg2su-RvXRg3PBj7WSqJafEPog5MHIt7mROXIvBplcpiD1mNi5vvJOHCIY9z25ISWDz4XS-YdA3xqZWSBxeeLLOq0vVuc6CAXH4LeGMcfMcLgHdz4jWtuD027OGbolWZcQ4s8mAmXwgMZMttmkURIQ-bkXWT3ttW3zl-YDSKH39B-loLO0rfKzkfHNAlzx2Fvyhn1WjltagpGzz9EhlQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XVhFEJlQ4HeU8fCjT8wxOngKbb7ln1Y-MWscJ8wBDib-1RWXzVV3nfw9rxh4L4D4mfCKAldS6OkZ2eUFkPvIeh3U6okiOypXIwy0rwDsj6qVi600izRmCCbQD93C9C7Ec4ziFSIuXyqxcniN8RBgagA17y1T_iZMEwDk3THCxHmZvCSdAJoKIsyHCFb9A6B9VUzgl2AAWa0Zc0I0fQIZ5oufvqCIUg1UP6SBmII5cjEAWs7VEZXvd_imbv5j13ii15h6QAowkgjjEHKQk4Ji4RZM-Vuqsiw-1fzcEtL4ALjrhI9F92-8P_8AHEhmFXTYPmKvnECcs--y1h0iTQ0xtA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ InviZible Pro در بروزرسانی‌های اخیر نسخه بتا، با اضافه کردن Tor Snowflake و پشتیبانی از پل‌های DNSTT، قابلیت‌های ضد سانسور خودش رو برای عبور از محدودیت‌های اینترنت گسترش داده ...
 👉
 github.com/Gedsh/InviZible/releases
