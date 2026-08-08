@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 16:56:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 17:34:53</div>
 <hr>
 
 <div class="tg-post" id="msg-2858">
@@ -317,7 +317,7 @@
 آدرس سایت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2857">
@@ -339,7 +339,7 @@
 👇
 🔗
 https://rayachat.net</div>
-<div class="tg-footer">👁️ 7.8K · <a href="https://t.me/iaghapour/2857" target="_blank">📅 21:15 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.92K · <a href="https://t.me/iaghapour/2857" target="_blank">📅 21:15 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2856">
@@ -349,7 +349,7 @@ https://rayachat.net</div>
 🟢
 جایزه قرعه کشی تحویل حمید عزیز شد.
 سعی میکنیم از این به بعد با حمایت های شما هر هفته قرعه کشی داشته باشیم.</div>
-<div class="tg-footer">👁️ 8.1K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.18K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2855">
@@ -364,7 +364,7 @@ https://rayachat.net</div>
 👇
 🆔
 @techno_clan</div>
-<div class="tg-footer">👁️ 8.72K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.8K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2854">
@@ -448,12 +448,12 @@ GPT-5.6 Sol
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.99K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2851">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/og-j-S74nG8FB_FTM_0mf6n6KP-IQBX1EPDqmHqbGp8UR1jhKkgtPqItaBok_ccnYnTxHubn4fKAH6tG7-tC099xZoflcUlWT3jZEceb3URGLmkg6flOOgsgy6zuq6VOrrIemgy3V1KrWs_qf8lrFeABuFYvqb7Hwv6fhW5Me3AFdJtipGYfUL5kmXme0I361FvxOUsu7F6GNw2YCDJ9cZ4HpTQyj2k9I7ye2fPHCJK5Vg4xE36hpX3Eb1nsp8kSfAhGznXv92HgQTcRlWig24Xb0Ko0Z6SGmafLhcPGs_sYWdCo6Xl150K19TcOPNbkRP-6f7nuAeYRx5yYQ2p9Cw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TZOtRY_AqHg2lO3Qi9K8NbGZ7dCwQwR_imEtV_e-KjPP10WluLtOkdo4zqcJwa8wabtKVqIQhvD9shjME51BHxRaHHu1wIitU4G6j6g0lWsZDvxqHoWE2DMWroEmTdr-c6wdsjk9bf3S552xJqXZLYhGredosEMNxNUwqNB0xMKl5viyX9SLW5yRpYbnmpm_r5xNusu2DfDYyPrOL5H1tekhAwk8gfT0PDmKCE1mrhlgOXBvHeG4L7qdJDOWE20BBayvukTKYBqeT9RnzSojQ06nZsqZCl-yCieUcnPz7TbLqJ5VFhvh_W3IyXn2eOySqfBJgUFlS49yn-ZU_tYdoQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎨
 افزونه جدید ادوبی با ۷۰ ابزار تخصصی به ChatGPT اضافه شد
 ادوبی در ادامه همکاری خود با OpenAI، پلاگین جامع جدیدی را برای ChatGPT عرضه کرد که بیش از
@@ -627,7 +627,7 @@ ToRouter
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/iaghapour/2843" target="_blank">📅 20:02 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/iaghapour/2843" target="_blank">📅 20:02 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2842">
@@ -1135,7 +1135,7 @@ Claude Opus 5
 
 <div class="tg-post" id="msg-2808">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/S_p7uAmnSD1zSKMqLI2DnZUAwt_-sXllhiYHr761KEotDEJSNnhKmJ8v7MXi5YqN76RU-lkU2ULQNLeIwKBKjxjeQW_7CbWOJQyewkvrYn0pR0Zxysu4eFlXwu36ikdGwmL5NBxNfWGfDpeSIVSajFjHxW5DtWdSPkS2aIWT2vMP7ULT5olf0bvk30jlX5MS8PEmGAQ-8JJAHrQCKt1Eomeq6LKmtzD3h2uxuLgmInI7aSKWOigo08HPVP9Qi1ceHspqPFkXqQOOMvmr4qDHHondiuUUqqQ8Jwtyk_zz548Ia6Bon3-dqgYaNtNfhqZj5aNuQ2NUXvlu9zrKxgZsow.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hGBi-Yaw5CcLw2l5mSQeKb3FYK2bLy5JQq2JuOSB4SyeuVuzOLbWGVPFSpaBQ5IZNfKy01V44sOzgsKOT1SaS38ZZGiYTNsJ2kBy7QYzkZN9vrC0JnACAObOnd6DSrk3ZkiBEKERJD8KP_3tbh8MLpfTlsQJZy9iXFK-A9dpN09VJyEoDcSIdJ_q8GgOGPVmz5KKtBxfdtyYjDyKaCxpMkJ_P-Px1CN95TBWVjsrb1s02aQY-x4zMWKIdvgjkTjho_TD6vZlob4wIBieeqZorrqnrPSv6UnPyo7WJPzbISZBq_292zCQslXJGz5MbwcBAU6g_Pmf_SdU6Rw1lEs_6A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 کامل‌ترین پنل ساخت پروکسی اینجاست! از هیستریا تا وایرگاد (Nova Server)
 🔹
@@ -2187,7 +2187,7 @@ NuGet
 لینک ریپازیتوری پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/iaghapour/2736" target="_blank">📅 21:44 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/iaghapour/2736" target="_blank">📅 21:44 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2735">

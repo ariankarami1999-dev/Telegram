@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 16:56:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 17:34:53</div>
 <hr>
 
 <div class="tg-post" id="msg-2544">
@@ -307,7 +307,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2543">
@@ -366,7 +366,7 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2539">
@@ -460,7 +460,7 @@ AmirMahdi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/ircfspace/2534" target="_blank">📅 20:00 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/ircfspace/2534" target="_blank">📅 20:00 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2533">
@@ -553,7 +553,7 @@ sadroddinfallah
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2528">
@@ -590,7 +590,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/ircfspace/2527" target="_blank">📅 18:11 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/ircfspace/2527" target="_blank">📅 18:11 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2526">
@@ -650,7 +650,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2522">
@@ -804,7 +804,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/ircfspace/2514" target="_blank">📅 19:00 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/ircfspace/2514" target="_blank">📅 19:00 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2513">
@@ -834,7 +834,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/ircfspace/2512" target="_blank">📅 19:03 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/ircfspace/2512" target="_blank">📅 19:03 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2511">
@@ -1017,7 +1017,7 @@ slcyber
 
 <div class="tg-post" id="msg-2499">
 <div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IZmnadiTYBJFs07He-uY2pDRE822UMHyKTpZJzAiku5aKh_aBS7Y5R89c6Nip0vPqf7IUyixneDu-cDiT7GwyY0PaJG_qk_RZKdM32v8m3ZktVF6cSygLCqwQ50hZJF1VBMd-1Q5BC0CSEHcKJ-kBl_qGPzDreQ7fT2WGx1uVlHStDPp77uEDtyiJMhCb8zch39-6bFe5mAo_0sOZ7IrPR10sLxhAOnBFl5AuGKdeW56HI-q2k8xzvjihvrvaQunXa-HEt9j-nC-576bljaGxt76ksAjlNReG0tJaiRzq6wj2-wHTD2cDx2Ii7L8pYUY48GESS7niyegzB-ehB7q3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WahisLKHKRKaPwDUtDkwVJsF2r9u4hRL3chYCLOGpB--sQMtGqrRdtlJq9QzC8JBIVyBUNKxAWwl9o2fI64BOc_C8v_h45-qBGC9FhypHPVaXaMCfAeAI8NaMKS0FMIZPMGcR96SjvrQMKt8e33OXHbx5X8kSXp9M0vV4MzCSSk9FNhoAuCOlu9n1OTHeD55nJXT_SdSmcB4G6XVp4hk9GA7KtwDcmT9Jxvv74C_2p4CRiq1xzg11ayfjRXvIjRFxzquOq5zOgYf5CPq6zgpOU7MHWE-ItfXaSI5KM7WhQgVP838loCbWbC6dtq6J1qihAfX4FO_kQphckqjp5AGFg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ dicodePing یه کلاینت متن‌باز و رایگان برای اندروید و ویندوزه، که مدیریت و اتصال به کانفیگ‌های مبتنی بر ایکس‌ری رو راحت‌تر می‌کنه. این برنامه از مدیریت سابسکریپشن‌ها پشتیبانی می‌کنه، می‌تونه بصورت خودکار بهترین سرور رو بر اساس latency، jitter و سلامت اتصال انتخاب کنه، از حالت TUN/VPN پشتیبانی می‌کنه، آمار لحظه‌ای اتصال رو نمایش میده و امکان تعریف دامنه‌ها و برنامه‌های خارج از تانل رو هم در اختیارتون قرار میده.
 👉
 github.com/mcodersir/dicodePing/releases
@@ -1081,7 +1081,7 @@ github.com/SagerNet/sing-box/releases
 
 <div class="tg-post" id="msg-2495">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/pIfFmSo30pZ5UEn0Apuil2vSG_SQVYYyM-XwRUlcQr01f6RNDKOBui5J5F5AYW5LwaFXTvywk1-XAnKoFGIXDNmV3DT6qZWW4j6qIikIp_ui3fS09s-klGMkguFEI290vYuOpRccVJOEqxlLy03FmYGf4oUPh9qGUjVlQUEqmPX6SrzMaKwtq1JzYess_W-KaSEdv7_1SeCiqC3vCt4F8JQxgkhd67A-bQeiUrn7f4r2gv356OdcuGPiU9JCQHcSeDI6l0Fnzol64j0v2eIbyvbkhmB3a4ShV7m9CQC3twm4JOVHCbJZK6uV_AoGv_FmRUi8m5Co9VMYiV25by9QuQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HQQhUGAx56kDzyY4dJc17VLE86iTq2CJWkSLNCOOeuEtfU4GDr_Dt7qqlUe4u_OgxORjC8pbS9Hq0CeaQrDPDgUMy5_wlxd4v-1K9UmkXGMLaywmvom90XlzzooUx8KNwA4auVPgfiFff9ETaBTsvd0RkvgMY-Dpm2gVlU5B4r9eXky9vpKWLtXPWQw_RBYmNxFUe6p6lnlEYp_CBYrX89xJuCHCawogFpbifrCSqtPCfkjMuve2c1bRJCH8W8YNLofpZH-yiFmJRqW3mNSsw40OrW1ZCYRbEeHzHWBCGzRne527Xe9-UYRbPYlqeIw81c5LibQHpjXdrIsgja32dA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aether-GUI یه واسط گرافیکی برای هسته Aether جهت دسترسی به اینترنت آزاد و دور زدن فیلترینگ هست، که دردسر سر و کله زدن با محیط ترمینال رو برای کاربران سیستم‌عامل ویندوز حذف میکنه.
 👉
 github.com/MatinSenPai/Aether-GUI/releases
@@ -1132,7 +1132,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2492">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IW07YStjKnvcqFLsXK_SKlU7CcLuRcNLr08E0u0ibz_bwS20wfglKXQRdxzfX-QIyP-DQHA6iQYJFvyZYTxUi6h1mXXk68fCSKs8WMNxz6SGepzGTqkFKtvBzpi-wj5wDf9sNIO7wXKmFtI25R8y9QihCM_bTqaVhhR0BYt1Q9pdcOOvutPi7U4TojCEL_Hd_zElv4NBTQD6GBrf8DrTsIKil9rYEQyt4_VuIgTooOuhRt5NlK2vVLav75QbFarE1S6Ia7XdXv9RZRybKRcuXwN2eFukdnUnWEYfxEgDJRQFvVDngUjwg5wTak4ZYNp2nv0d-KStoacuzCzkvgT1hQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XVjEt6v7zpbtixjMPDcYJz_95Js31Ew3ZlhkAiBF128Wsb5hQO72qNR3y29xUN6zgiUKjuEmBlkZe3OACZsR5o0y0sv_wvmBMwtvGHnSv1_bDaN0rqcmvxQGhGkhw39vB2vrTetP5JKUBj11srQiz67ZN8bsHxwMKkAaN3tXQbF0QYzBq16Hb0T2A8yyOXbqG5e9VYE_Ldtd_2Klvcs9M6zfqO5RaAKlsxGdUZVoOoaa1i7JCruWO9_e2eFnc4QZ9RuNRFfW11dZNGtVFctBRtCCRWKtay4TVwNhhHVLMu6Lq0yMgr6QpD-KgA98aiY_qBkEISgorUjv4ZBhPiZKMw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دامین
 t.me
 که بدلیل تحریم‌های وزارت خزانه‌داری امریکا مسدود شده بود، مجدد فعال شد.
@@ -1235,7 +1235,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 90.2K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 90.3K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">
@@ -1271,7 +1271,7 @@ github.com/IR-NETLIFY/zeus
 
 <div class="tg-post" id="msg-2483">
 <div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Gu2lrvAqZVeX7IRk-fR6XK2nFc6y6kRMjM_hM0An6sylhdm_nEHClVxt2DyZkdonnCzkI0c24yYmM3JXGb2pEtQLZwk9ESYaDknQ2X7RsevnLI_v3E1QhD8fdWveO3ckfX2_Ez1CHudHAYWpZhwD1LgwWlQOJ5qEW-Y9op829qSvM5irl4RpuBdbxs74pKWOKmUhQ3ntKrskSOBdowr1hiNB-ANKpythRcnL8wvSfNw3FpXSWdZkoyEJmx_i2KNUh8B6aDxoULQgrIa2Y0_hlR3KkgkLPmC40JXf5KfgRqJqGZkvP9U7ATmF_DLR34rqD3oNVrSu42LZE_OapCPoxg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/O-wiT6-cBcoXRUEItgwLyWoFmA8nGMeXcYX1viiqdnIfx5a6nPL3e2qY6zshweuf6vjmYJuPhI9p-USDHYaCeadpamFm3gUvNjdfyNJ1-6Fh7qTd5_agZ8UvFyTWpu5g_deuepu78w-8X5MD1s3VQ2uvCuGvSO07qAOCdl-NTLagkUMGh8fpggpeeV5aY-laZUStBmBb1rqlDOPUmuIh4Zou3fDXNbDbWXPp9lzDCN5YqHKedGXtPWllH7OIszwLOexIeXSBqgOg---FcOW0uI-PO-kxM3J1c8hbTJbqZ2Wz7RG_QuS-YPDyk3XHZeULeYlkx6JeKKRaUJdE_c00bw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایکروسافت یک آسیب‌پذیری روز صفر در Microsoft Defender با نام RoguePlanet رو برطرف کرده که می‌تونست به مهاجم اجازه بده تا با سوءاستفاده از یک نقص Race Condition، سطح دسترسی خودش رو تا SYSTEM بالا ببره. این مشکل با شناسه CVE-2026-50656 ثبت شده بود و حتی روی ویندوز ۱۰ و ۱۱ کاملاً آپدیت‌شده هم قابل سوءاستفاده بود.
 ©
 bleepingcomputer
