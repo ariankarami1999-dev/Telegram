@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 21:04:31</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 21:53:21</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -338,20 +338,20 @@
 
 <div class="tg-post" id="msg-944">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FmcqwoRYMHd5MpFjQwH2vObqc0mDHyXhJBIZdh_mViniShjgWg-GZbVAaNJv_44RMsAgBSF8DlCAogq_ixqeND1D-Kyxl1PUGI8dNT1jgBuSZAzXYyytq9h7QCMKRVmYMDNgLr0b141N6EY2OV1uA4ytWcmZWaifWvQhoR8h9ushsCvOr8a2xx7-MWJzu0NqNivnZeVL0M_J7MMAKSTmX9EYt1BQcpnooR9_8MboP4-0tu6mh7bY9c3W521LCYTAk_SEvZ29IPg9Y4DfsL5rqvNk171EFEDrLZxEJqv3SW-56vFG3VPjVLQURMvF_07p-CVwg_0vb-IsPKbumHVjTw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QlLfyiXRmlivSf6Zhwxf1tsTiM1YnPQCIRgwHXF9GnY-WnjoZZvoNuX5cE3SjmAZhDPm-fWZeFITTyKfxGoSazcklTQEYKXf8ujp65iAEpCPfcsDU0b746MzmcVmM3xS2nsojFCsKWM6uraDCUsoR0wX-lsVeqWZBLZU_DnpdK7mdJ-Vg4qkXPTAEQovgkLtC-W_FvtPtC742k4l5aSBBVRH_FjLaNzABn2ww7YnwsUf7AVqhNJl5venUEmjHQ_VKQhIP2Nr2J3TeADutW8HcsCvGJq0QnqwQgvnmraOeXIFlXjXYkfUXQZJBJ0Fq6WRb-7_s4_3mmAJfOg0P4OqTA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=IAqrm3aDGzTEZFt2K2rGzTmMWlYaQIXv9JP6mbJ-S7ScNmpbptJDULacbq6xA9paoWLyxK57TERqcEI36yNWs-IVbnXEAAlKDl4VV4M6ZmPTNDglyHe_4VF4H7ST17Ak1ShJ51-vphkQ9xOjQOZHxdhXxqSqHEAiu2uXUJxKdXY2UlwsTDTEzyBjnvBJDLaWJAzDbdi4farZDK2Z4x02LTZdg6D6MlNCuyL6Vnx-AfPuXT7J8GiTYMTfc_191fxaKWRiUsss0zzzyGo7JC6hVJ8qi-kpkndoam6VugfymchkFg8KIwJ2heJA8kY7BuHeP7J27KT1fICo0nJ_wZGJuw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=IxPVt6qbwAHrsnQPReAK2ksGiZ9T4UVUvoFINbEx9zOkktEeBpWZ3Z7lBwKPm3u5jldihOSP9cHqaIE3PFIoiHQaeDvCBkWOko13GLAruH2fyp9ANWw8D2G6A0MxASKZVXtRQYsGl6qxMWqMzlhbospP8ovKG9Foa35LY7aa9KC0jptaHbPMDpn11zxDjzq0ixQWPRd2dKEKIus0h7B_opR40-HdQ16KOT4MIoWHDyHe6bPK7cd89pblS4ffyFNd9Jn8eWIdGEpInHXyCbk9stjSihI6-utle4I3FvRddd-tmvLliiZrLzh6QICDv4xbCZLaHnti5QJHHbyH7Bplwg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=IAqrm3aDGzTEZFt2K2rGzTmMWlYaQIXv9JP6mbJ-S7ScNmpbptJDULacbq6xA9paoWLyxK57TERqcEI36yNWs-IVbnXEAAlKDl4VV4M6ZmPTNDglyHe_4VF4H7ST17Ak1ShJ51-vphkQ9xOjQOZHxdhXxqSqHEAiu2uXUJxKdXY2UlwsTDTEzyBjnvBJDLaWJAzDbdi4farZDK2Z4x02LTZdg6D6MlNCuyL6Vnx-AfPuXT7J8GiTYMTfc_191fxaKWRiUsss0zzzyGo7JC6hVJ8qi-kpkndoam6VugfymchkFg8KIwJ2heJA8kY7BuHeP7J27KT1fICo0nJ_wZGJuw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=IxPVt6qbwAHrsnQPReAK2ksGiZ9T4UVUvoFINbEx9zOkktEeBpWZ3Z7lBwKPm3u5jldihOSP9cHqaIE3PFIoiHQaeDvCBkWOko13GLAruH2fyp9ANWw8D2G6A0MxASKZVXtRQYsGl6qxMWqMzlhbospP8ovKG9Foa35LY7aa9KC0jptaHbPMDpn11zxDjzq0ixQWPRd2dKEKIus0h7B_opR40-HdQ16KOT4MIoWHDyHe6bPK7cd89pblS4ffyFNd9Jn8eWIdGEpInHXyCbk9stjSihI6-utle4I3FvRddd-tmvLliiZrLzh6QICDv4xbCZLaHnti5QJHHbyH7Bplwg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این وسط با kimi3 هم آشنا بشید!
 یک مدل هوش مصنوعی با 2.8 تریلیون پارامتر! و کانتکست ۱ میلیونی که عملکرد فوق العاده ای داشته و در سطحی نزدیک به Fable 5 , gpt5.6 ظاهر شده.
 این اتفاق بسیار بزرگی هست برای مدل های چینی و ما تحریم شده‌ها از امکانات دنیای غرب.
 من تجربه کار با GLM 5.2 رو بعد از بسته شدن اکانت آنتروپیک داشتم که اونم سطح بسیار خوبی داشت، اما قابل اتکا نبود برای تصمیم گیری ها، و الان امیدوارم فرصتش بشه که kimi 3 هم تجربه کنم (اگر خاورمیانه بذاره).
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 565 · <a href="https://t.me/danialtaherifar/944" target="_blank">📅 01:14 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 566 · <a href="https://t.me/danialtaherifar/944" target="_blank">📅 01:14 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-943">
@@ -360,7 +360,7 @@
 <div class="tg-text">از ظهر امروز اوضاع نت اصلا خوب نیست و رو به بدتر رفتن هم رفته
 کارای مهمتون رو انجام بدین، احتمال هر شرایطی هست مجددا
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 494 · <a href="https://t.me/danialtaherifar/943" target="_blank">📅 00:13 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 495 · <a href="https://t.me/danialtaherifar/943" target="_blank">📅 00:13 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-942">
@@ -911,7 +911,7 @@ NotebookLM
 رسانه ها برای اینکه تاثیر منفی کمتری با فروش بک لینک های سایدبار یا سایت‌واید روی سایت خودشون داشته باشند از این روش استفاده میکنند.
 اسم رسانه خاصی رو نمیبرم، اما در خرید این مدل بک لینک ها حتما دقت کنید، بابت هزینه ای که می‌کنید ضرر نکنید.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 938 · <a href="https://t.me/danialtaherifar/895" target="_blank">📅 10:52 · 31 Tir 1404</a></div>
+<div class="tg-footer">👁️ 939 · <a href="https://t.me/danialtaherifar/895" target="_blank">📅 10:52 · 31 Tir 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
