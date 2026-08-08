@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 03:25:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 04:31:00</div>
 <hr>
 
 <div class="tg-post" id="msg-2544">
@@ -476,7 +476,7 @@ Farshad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 48.6K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.7K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2532">
@@ -650,7 +650,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2522">
@@ -1003,7 +1003,7 @@ slcyber
 
 <div class="tg-post" id="msg-2500">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SNpjO4JqZDEpF440TJ-KkF7l7UNSF8o-sdhjvTJAq5o-zsiYN9ApxqZ87yb6y2oGnds3eB0fu1QNDVBp0FOij7_qHJlTGsyqPMRTExjdL-lFX4QxEpctJh5tmErKoo4OvSnEVEmy-KzBT2wd51tlM_6eD9aCDH6YW2rx42hHe5igdJOjzfLJxrShOY3AEc4sdPjsHE6JxoD-CRYT7HZLJhyqr6KrlOE2XY0TRYFkXYJZ_NPQOAHFsilGIHls-rdl4xIIu5652Pyu5h80_4qgvUfDaTmi-gkQ-ys5hUBMhaRqeQ3bbqBgERQrD3yxQp4Yi8KIIVUv4FsWGGjZVn49Ww.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Ax5gFX17bzR7_Z8ZL8GYiU0QC6qRCLlXZwS0_IbIBcQAhCqtusPoLPsQ2XU80yAvQHPk6IGXefCQ84SJWczafoktllXFaz6456YX-8MjzS4_5lAt1E3roKe-HkCFoYXjPuhJa2YNJz_GMZj9qTlW9q6GL0Bn99vQGXUeZ7VUpWl62kEEx5AYCmQm_fbISWFev80m5b-TMkYvJpp2E_SI_llSewTg-ENuxd8zflLxuLAYt5n57LwO6TkG4pqqjI-53LL_kDz3WxLQyU61ckhyq3-4ju9s1p8TZlIe1Zcf9iqbFN2VZT6HIMCp6lZ9Q5gGVmLYGzsOLvbNDd6hCNO8cA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگرچه قضیه ترند شدن "لغو عضویت جانفدا" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه "وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
