@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 08:02:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-17 09:05:33</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -857,10 +857,10 @@ NotebookLM
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3745059056.mp4?token=BbRIk2VvY42AI71Q6sHmMvXGHD4yJoINMR-4YjwxtvZS6I8u2vDsSlrooEZNXYxzINVjllnAQWQak1jAXpktL9YbNT-nvy-pd1TQI9iMO2dhDZUY1_AmszjJqCJ-yOxO79AKmMS7ZdftwNzdXrAGV5CETcC05ZpCdNFc-mAYV4p6oSqFkj-HTiBUKuApe8VYB1TN42cCrFBobpDEU-6m-OV6Rz1R1v_JEeglz4wWYA88OKk3UYecTHhkpnT9sAHcsDBwzjucZwjrgu5LKOA3NO44WIDJ_5lD0lEjh8G7YHBG0PBvZZ1fLFmfX8mPgOlSluH_JBDKKDfPJxjfN9pMMA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/3745059056.mp4?token=d6FcvZMBK2Z4Rybs6HtuBJmw6b_2zuAJpbhZFQjKOy6Uc74Gstlp_IOy_Oa-CB5mOSv-8p5KzE4IFKqkGpiT47wsuVtnmV94iJicV11MgBk78ZiqijOiiax9OLZYwgTnebmVYBrFy6R-rsbk6zaF28wkg99ygs2GQr9ft0DDJYaAe0Ly1VxkTa27Bejgc8ly-QPcGfrSEiCzYUBtNRaDfG6QjF2-ZNNUqBq9zwpUkv7ZBk4qIVJRcrPEotbp7KzUF0X-xC7hhInac77mcB5W2ZX7dXALzyf9r2YLRHdRcnyxKXdIXePdfgnD50spPrUZFkxD38hlIjUF8l3hmhiwrw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/3745059056.mp4?token=BbRIk2VvY42AI71Q6sHmMvXGHD4yJoINMR-4YjwxtvZS6I8u2vDsSlrooEZNXYxzINVjllnAQWQak1jAXpktL9YbNT-nvy-pd1TQI9iMO2dhDZUY1_AmszjJqCJ-yOxO79AKmMS7ZdftwNzdXrAGV5CETcC05ZpCdNFc-mAYV4p6oSqFkj-HTiBUKuApe8VYB1TN42cCrFBobpDEU-6m-OV6Rz1R1v_JEeglz4wWYA88OKk3UYecTHhkpnT9sAHcsDBwzjucZwjrgu5LKOA3NO44WIDJ_5lD0lEjh8G7YHBG0PBvZZ1fLFmfX8mPgOlSluH_JBDKKDfPJxjfN9pMMA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/3745059056.mp4?token=d6FcvZMBK2Z4Rybs6HtuBJmw6b_2zuAJpbhZFQjKOy6Uc74Gstlp_IOy_Oa-CB5mOSv-8p5KzE4IFKqkGpiT47wsuVtnmV94iJicV11MgBk78ZiqijOiiax9OLZYwgTnebmVYBrFy6R-rsbk6zaF28wkg99ygs2GQr9ft0DDJYaAe0Ly1VxkTa27Bejgc8ly-QPcGfrSEiCzYUBtNRaDfG6QjF2-ZNNUqBq9zwpUkv7ZBk4qIVJRcrPEotbp7KzUF0X-xC7hhInac77mcB5W2ZX7dXALzyf9r2YLRHdRcnyxKXdIXePdfgnD50spPrUZFkxD38hlIjUF8l3hmhiwrw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">✅
 اضافه کردن Note به چارت سرچ کنسول گوگل
