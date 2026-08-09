@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 23:24:06</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 23:51:06</div>
 <hr>
 
 <div class="tg-post" id="msg-7452">
@@ -306,7 +306,7 @@ https://github.com/faithsaly5-stack/Study-Note-Maker
 ⚡️
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 527 · <a href="https://t.me/ArchiveTell/7452" target="_blank">📅 22:40 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 619 · <a href="https://t.me/ArchiveTell/7452" target="_blank">📅 22:40 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7451">
@@ -332,7 +332,7 @@ pinned a photo</div>
 ☺️
 ✈️
 ArchiveTell | S</div>
-<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/ArchiveTell/7450" target="_blank">📅 18:32 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.27K · <a href="https://t.me/ArchiveTell/7450" target="_blank">📅 18:32 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7449">
@@ -361,7 +361,7 @@ Vega Agent
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 1.22K · <a href="https://t.me/ArchiveTell/7449" target="_blank">📅 18:30 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/ArchiveTell/7449" target="_blank">📅 18:30 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7448">
@@ -391,7 +391,7 @@ Vega Agent
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/ArchiveTell/7448" target="_blank">📅 18:04 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.27K · <a href="https://t.me/ArchiveTell/7448" target="_blank">📅 18:04 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7447">
@@ -412,7 +412,7 @@ https://www.getunikey.ai/v1
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 1.48K · <a href="https://t.me/ArchiveTell/7447" target="_blank">📅 15:03 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/ArchiveTell/7447" target="_blank">📅 15:03 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7446">
@@ -434,7 +434,7 @@ GPT 5.6 Terra pro | Grok 4.5 | Deepseek 4 pro | MiniMax M3 | Gemini 3.6
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/ArchiveTell/7446" target="_blank">📅 13:48 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.6K · <a href="https://t.me/ArchiveTell/7446" target="_blank">📅 13:48 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7445">
@@ -460,7 +460,7 @@ GPT 5.6 Terra pro | Grok 4.5 | Deepseek 4 pro | MiniMax M3 | Gemini 3.6
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/ArchiveTell/7445" target="_blank">📅 20:01 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/ArchiveTell/7445" target="_blank">📅 20:01 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7444">
@@ -508,7 +508,7 @@ gitreverse
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2K · <a href="https://t.me/ArchiveTell/7443" target="_blank">📅 17:10 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.01K · <a href="https://t.me/ArchiveTell/7443" target="_blank">📅 17:10 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7442">
@@ -516,7 +516,7 @@ gitreverse
 <div class="tg-text">فرار از زندان قسمت 3 رو بزاریم؟
 تو این قسمت Sonnet 4.6 و Haiku 4.5 از زندان فرار میکنن
 😁</div>
-<div class="tg-footer">👁️ 1.99K · <a href="https://t.me/ArchiveTell/7442" target="_blank">📅 16:55 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2K · <a href="https://t.me/ArchiveTell/7442" target="_blank">📅 16:55 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7441">
@@ -706,7 +706,7 @@ openGym
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.26K · <a href="https://t.me/ArchiveTell/7428" target="_blank">📅 12:13 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/ArchiveTell/7428" target="_blank">📅 12:13 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7426">
@@ -746,7 +746,7 @@ FlowMusic
 همین الان امتحانش کن
 👇
 @DownloadYaarBot</div>
-<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/ArchiveTell/7425" target="_blank">📅 22:32 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/ArchiveTell/7425" target="_blank">📅 22:32 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7424">
@@ -871,7 +871,7 @@ Work for me
 @survpnbot
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/ArchiveTell/7420" target="_blank">📅 12:30 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/ArchiveTell/7420" target="_blank">📅 12:30 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7418">
@@ -943,7 +943,7 @@ Dola
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/ArchiveTell/7416" target="_blank">📅 20:00 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/ArchiveTell/7416" target="_blank">📅 20:00 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7415">
@@ -1005,7 +1005,7 @@ freellm.sh
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2K · <a href="https://t.me/ArchiveTell/7414" target="_blank">📅 17:55 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.01K · <a href="https://t.me/ArchiveTell/7414" target="_blank">📅 17:55 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7413">
@@ -1217,7 +1217,7 @@ CloudSSH
 </div>
 <div class="tg-text">✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/ArchiveTell/7405" target="_blank">📅 02:02 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/ArchiveTell/7405" target="_blank">📅 02:02 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7404">
@@ -1520,7 +1520,7 @@ Vega Agent
 http://1music.cc/
 😀
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/ArchiveTell/7384" target="_blank">📅 18:43 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/ArchiveTell/7384" target="_blank">📅 18:43 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7381">
@@ -2138,7 +2138,7 @@ pinned «
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/ArchiveTell/7349" target="_blank">📅 13:45 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/ArchiveTell/7349" target="_blank">📅 13:45 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7348">

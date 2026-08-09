@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 23:24:06</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 23:51:06</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -306,7 +306,7 @@
 اگه اعداد مختلط نون شد اومد سر سفره، یا ماشینتو عوض کردی یا خونتو یا دارایی هات رو یا زندگیت با کیفیت تر شد، قطعا مسیرت درسته.
 حالا به جای این ریاضیات، هرچیزی بذار. از الگوریتم های گوگل تا مستندات و نحوه کارکرد مدل Fable کلاد تا... .
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.2K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-883">
@@ -350,7 +350,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -426,7 +426,7 @@ Claude Cowork
 چیکار کنم دیگه هی نگی کلاد؟
 از کلاد بپرس.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.04K · <a href="https://t.me/mohsentavoosiseo/879" target="_blank">📅 20:00 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.05K · <a href="https://t.me/mohsentavoosiseo/879" target="_blank">📅 20:00 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-877">
@@ -502,13 +502,13 @@ Claude Cowork
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">درباره کمپین تبلیغات محیطی ا.......پ
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/mohsentavoosiseo/870" target="_blank">📅 23:03 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/mohsentavoosiseo/870" target="_blank">📅 23:03 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-869">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.14K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-868">
@@ -574,7 +574,7 @@ Claude Cowork
 <div class="tg-text">فیچر و امکانات و قابلیت: ۱۰ درصد
 فروش و به سود رسیدن: ۹۰ درصد
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/mohsentavoosiseo/863" target="_blank">📅 12:27 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/mohsentavoosiseo/863" target="_blank">📅 12:27 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-861">
