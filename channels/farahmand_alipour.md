@@ -291,14 +291,14 @@
 <p>@farahmand_alipour • 👥 64.6K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 21:25:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 21:56:40</div>
 <hr>
 
 <div class="tg-post" id="msg-6535">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">🚨
 شرکت ملی نفت ابوظبی از حمله موشکی به یکی از شناورهایش در تنگه هرمز خبر داد.</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/farahmand_alipour/6535" target="_blank">📅 15:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/farahmand_alipour/6535" target="_blank">📅 15:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6534">
@@ -355,7 +355,7 @@
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eILzOXHOarqSYIIAHSyCHWhdzZB4X3md3DyUFOBnBW4tBrpBYXtHhH3LKYtY_lwxiHx7ShwvKEj-9DuOkEayvRZITOEIkGY1cduOuUgZMWmj9A76513ay7rMAfvgUV-UJ-rEB77jExd5nYXkFKKuhaChzqYLegnEy-iVsXhYnSVQacTSWbc8t2lVE90-Dsq4gr7Ko0arMiiXh3d77epV3KINMJ_FP1cYqezlU5UXcPjseMsPBCkdULLdE72z95o9oJK6npUrKSentI6YfXa7Mj9i898NGHGNy5G9qSlq3vEvDz2C5PG_MyBHXwkIg7g_PrGtYgfTNj53iTkDKHoYNQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خامنه‌ای در سال ۹۸  معنای «مستضعفین» رو هم تغییر داد و مفهومش رو از مردم مستضعف و مورد ظلم واقع شده رو تبدیل به معنای «پشوا و رهبر کشور» تبدیل کرد!  به نوعی گفت «مستضعف» من هستم و اگه میخواید خدمتی به مستضعفین کنید  به من و پسرهام خدمت کنید!  کفت قرآن اینطور…</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/farahmand_alipour/6529" target="_blank">📅 14:51 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/farahmand_alipour/6529" target="_blank">📅 14:51 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6528">
@@ -425,19 +425,19 @@
 ‏همه ما انتظار داشتیم ایران درخواست ۵۰ درصد بکند. قانونی هم بود. اما جلسه اول یکباره جمهوری اسلامی گفت تقسیم برابر بین ۵ کشور، یعنی کمتر از ۲۰درصد
 ‏برای ما عجیب‌وغریب بود که چجور ایران دارد از حقوق خودش گذشت می‌کند
 ‏این برای بقیه کشورها مثل هدیه الهی بود. از خوشحالی نمی‌دانستند چکار کنند</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/farahmand_alipour/6521" target="_blank">📅 13:33 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/farahmand_alipour/6521" target="_blank">📅 13:33 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6520">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LUsYd-yt05w3uPyAUJ_mrpQBwFnrhcmcrM_PeGLqHsYYCLVy4FCwMQofvsBgJYZODnLXIztCkSNVBQfqC08Bac1Vab7H3ydLGofDmL0sq1_2zLv83RbqE8rqB7hONSCyimP8dlWhkXm-la8Q1iR8Z8195AHqv68tq8SU9o8m1PHPWtI7p4SFQw2jfBVv4EPwidlpVK-aQCAeterIgpHEOCkuTGOBRzSUxQfXnyg3FiNRp4t-xUaCRzbSmMpI_U-k_tGaFbccWVxWlecHW1NG7w1Hy7j1LuvbVM6mN-KoUtjVeHS6opIbtswLl0DE4_4Agjv9MH6bGAz2H-Md8p-Q4Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YbfFSJiTnLRGR2RUsLQXnScXf9XKEUjNwYYdui1jNx1qsIzy0ilDtTtoCKBi2R2YkopRoITmAfuacKLcCxGAaEsER23owEfeFCMhsTlb8TmlWaX6lZgYEFKj80Dph0ztAJmXfuadTmsY2YcFALx61brVs9E-Vjt4yLe2rUpHK2sXVVOmJ923Cv7hUi5yUqzGvNSR4A04v5MVBaVAeGiVzhxfyFnhKiKTIJH1Rlqo97E4ZAFEjlQkbelW84BFDAfZ12ARTO_Xg8wt4d3B4-3gP69w0XW5pKZKWrIAksdhE0hdI3uwM76vJR_HAhxhHM0eEpwrCSvCWr9KRzRfGoD3vQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محسن رضایی به عنوان رئیس شورای عالی امنیت منصوب شد.</div>
 <div class="tg-footer">👁️ 21.5K · <a href="https://t.me/farahmand_alipour/6520" target="_blank">📅 22:34 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6519">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DVCSDsmRTFxm1ghOeeURFKm7TrpXJqmn9bwySQ-NpdGIBfll6JxqXS-cQGy-tj83YERrY0z1PP9nGTx3Ajfqb1QUvdRfRva-sTs4VUOmXj_SIrsvsKBgRER58rXsiS-96BY68NQxJ3YVNiRKWmCON3VfnyHlWOuIw5gneERfggfxVIUkmloqpJDNOWqUXDkKhu9Gi-gX5gTMTSj3Gy8RZ1qYzEWniLdyvgNmZV0U2uHLLTr2TZnvldhJW5VGGU1zFynLijsLZ-HMDJyH1v2a5q_tbDD5Xu4WYsaGJTCZUJwgsz-SZ9pf0f72OAdwsbatb6jjDqwoHpyKODiwhxkLOg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RSD1qUH69vTcBd62Gvk06EaQ2uacnAehuG0sFRJKYSi9mk3iupk4LeanDHSuijZ-_3chBE7ER3mBuZ680qpaLLSTrVhqEBEGY211XTTzlRJdmnvSg8GqCC9XM9xnPTEAZQBZDVAP3kOp4Yxs7NDNqRFC2faaFI1sM5NosDxOi040oAcBjGyY0Xnzq8JoyQDR-IHJtQOMF5RdsvaHNHCMGdeydrx2M-uZjj_zL3joGOTo3t6cmWkEm1EA-2HA_CzXDSiNTpagFJqHncTe1G7CoKaxXY7Av-nHLe8SyjDtJn5rPVQ9sRnuWHhlCVbFGwYXLdJoKWJqczLEBM1mTt8OOQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">«حمله‌ای گسترده در راه است…
 نه، صبر کنید، می‌خواهند مذاکره کنند.»
 این یعنی «دیپلماسی نمایشی»
@@ -566,7 +566,7 @@
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bot-NlGtbg-QQZOOXKcoXXdZgZ2xSojfeAC4yffkc2WwrQ2v2pHYjPjb4VQ2bVpDicaO8qTNSdYswiZRfnXZzEjLmqwR1x8DLz5-r_Ni6fZFIluA-y3HdMLRFJrt9MVqaQJrPjtS1twci9I6nhQ8u2ZXUFU3cxMRq8KG-HbiCi6Dupwxz-AiXxqBtthB3CaEZLplZwjFlnLAzUk3YoKugDCZzaodq8gVON1aqBW_I3xdvTnNQHEH9OEMK4-1yyRNC8GGx9MbevErYw9kV9DPArTPlrwBjNpGRaGo2bvl0Iz-1ZDn2qESQRp_daDE_tBBEH1CYpdG3jWnqkrL8Sxw8g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">توطئه است!</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/farahmand_alipour/6505" target="_blank">📅 01:23 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/farahmand_alipour/6505" target="_blank">📅 01:23 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6504">
@@ -879,7 +879,7 @@ https://x.com/farahmandalipur/status/2083853984113054084?s=46</div>
 از مسببان انقلاب تباه ۵۷.
 از مسببان گمراهی یک نسل از ایرانیان،
 از‌مسببان  تنبیه نسل‌هایی از ایرانیان که هنوز  به دنیا نیامده بودند!</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/farahmand_alipour/6477" target="_blank">📅 12:45 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/farahmand_alipour/6477" target="_blank">📅 12:45 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6475">
@@ -942,7 +942,7 @@ https://x.com/farahmandalipur/status/2083837885224988931?s=46</div>
 <div class="tg-text">‏فارس: شنیده‌شدن صدای انفجار از حوالی اسلام‌آباد غرب
 🔺
 دقایقی پیش صدای انفجار از حوالی اسلام‌آباد غرب شنیده شد. هنوز محل دقیق و علت وقوع این انفجار مشخص نیست.</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/farahmand_alipour/6469" target="_blank">📅 13:52 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/farahmand_alipour/6469" target="_blank">📅 13:52 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6468">

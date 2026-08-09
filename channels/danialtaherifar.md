@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 21:25:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 21:56:40</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -301,7 +301,7 @@
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 298 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 299 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-948">
@@ -315,7 +315,7 @@
 دلخوش میشی که شاید ....
 و بعد با تصویر دوم روبرو میشی :/
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 465 · <a href="https://t.me/danialtaherifar/948" target="_blank">📅 14:52 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 466 · <a href="https://t.me/danialtaherifar/948" target="_blank">📅 14:52 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-947">
@@ -338,13 +338,13 @@
 
 <div class="tg-post" id="msg-944">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QlLfyiXRmlivSf6Zhwxf1tsTiM1YnPQCIRgwHXF9GnY-WnjoZZvoNuX5cE3SjmAZhDPm-fWZeFITTyKfxGoSazcklTQEYKXf8ujp65iAEpCPfcsDU0b746MzmcVmM3xS2nsojFCsKWM6uraDCUsoR0wX-lsVeqWZBLZU_DnpdK7mdJ-Vg4qkXPTAEQovgkLtC-W_FvtPtC742k4l5aSBBVRH_FjLaNzABn2ww7YnwsUf7AVqhNJl5venUEmjHQ_VKQhIP2Nr2J3TeADutW8HcsCvGJq0QnqwQgvnmraOeXIFlXjXYkfUXQZJBJ0Fq6WRb-7_s4_3mmAJfOg0P4OqTA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AjC0l3ZfIUlrChLz8dw75DECBAHmnwCNNfUroMhnWlahxu84EKD0-Q1WpYQtrmMpH0aWE_6qXuCX-n4wcz6Q0Vvi_8bzNbEA0B6Z9CN1xkWofQNTo3o8lRAhmTkgi5NrgeqEkYzLcNsHTHviHr6PpbbizDtFe6VqJlZ9TmJqaoTCwSzfmWJsG2Xd1WylUrGhxGqaHLC2_pKHigy13SIJXwRhbFcdXgkaaw-oXqrdludiXt9BrCdV8Qn-GLQx_ytd4N1nsy2ddTbgjbVNAJVQIR7_-dkgk0hAjDCZf6MwReY1PCjdtkVcUtTxgYqN3-T-y2ZPQ7KkXNPzjf51EH_hVA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=IxPVt6qbwAHrsnQPReAK2ksGiZ9T4UVUvoFINbEx9zOkktEeBpWZ3Z7lBwKPm3u5jldihOSP9cHqaIE3PFIoiHQaeDvCBkWOko13GLAruH2fyp9ANWw8D2G6A0MxASKZVXtRQYsGl6qxMWqMzlhbospP8ovKG9Foa35LY7aa9KC0jptaHbPMDpn11zxDjzq0ixQWPRd2dKEKIus0h7B_opR40-HdQ16KOT4MIoWHDyHe6bPK7cd89pblS4ffyFNd9Jn8eWIdGEpInHXyCbk9stjSihI6-utle4I3FvRddd-tmvLliiZrLzh6QICDv4xbCZLaHnti5QJHHbyH7Bplwg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=WjOcoXdKYH7KiEZtd1lr2nvLE43pC2SP1w1KGHqp4gNzik-JdrGb82-uV7Z2R0OHWW7evuCC_A8YT5YfkxFPUftu5iGA0LtNkHCv3Nk0s9Yf7j1-q-0zR2poW0noPpe3-JjF4PaU9n6x7760YyHwxT_gy0xJzq-eb6SCuo68lkQu9Wk4vkj-44dFRWL-xq6lk-rzmuic8wC_e8HGe5e8hVm_gQdlrjiFg9Gb0lMeTVbUgVakTimm9tsFDhzjxz7zmRp1MApvv0OG4DGfo2VBsbjSLeKNJ3254RW1M5I7NxVr13x9xiW_td2KwVsSKxzbT7Q8zgHzTPyjGfvnX9jbtw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=IxPVt6qbwAHrsnQPReAK2ksGiZ9T4UVUvoFINbEx9zOkktEeBpWZ3Z7lBwKPm3u5jldihOSP9cHqaIE3PFIoiHQaeDvCBkWOko13GLAruH2fyp9ANWw8D2G6A0MxASKZVXtRQYsGl6qxMWqMzlhbospP8ovKG9Foa35LY7aa9KC0jptaHbPMDpn11zxDjzq0ixQWPRd2dKEKIus0h7B_opR40-HdQ16KOT4MIoWHDyHe6bPK7cd89pblS4ffyFNd9Jn8eWIdGEpInHXyCbk9stjSihI6-utle4I3FvRddd-tmvLliiZrLzh6QICDv4xbCZLaHnti5QJHHbyH7Bplwg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=WjOcoXdKYH7KiEZtd1lr2nvLE43pC2SP1w1KGHqp4gNzik-JdrGb82-uV7Z2R0OHWW7evuCC_A8YT5YfkxFPUftu5iGA0LtNkHCv3Nk0s9Yf7j1-q-0zR2poW0noPpe3-JjF4PaU9n6x7760YyHwxT_gy0xJzq-eb6SCuo68lkQu9Wk4vkj-44dFRWL-xq6lk-rzmuic8wC_e8HGe5e8hVm_gQdlrjiFg9Gb0lMeTVbUgVakTimm9tsFDhzjxz7zmRp1MApvv0OG4DGfo2VBsbjSLeKNJ3254RW1M5I7NxVr13x9xiW_td2KwVsSKxzbT7Q8zgHzTPyjGfvnX9jbtw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این وسط با kimi3 هم آشنا بشید!
 یک مدل هوش مصنوعی با 2.8 تریلیون پارامتر! و کانتکست ۱ میلیونی که عملکرد فوق العاده ای داشته و در سطحی نزدیک به Fable 5 , gpt5.6 ظاهر شده.
@@ -360,14 +360,14 @@
 <div class="tg-text">از ظهر امروز اوضاع نت اصلا خوب نیست و رو به بدتر رفتن هم رفته
 کارای مهمتون رو انجام بدین، احتمال هر شرایطی هست مجددا
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 498 · <a href="https://t.me/danialtaherifar/943" target="_blank">📅 00:13 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 499 · <a href="https://t.me/danialtaherifar/943" target="_blank">📅 00:13 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-942">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">باز بریم بک آپ سایت هارو بگیریم :/
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 574 · <a href="https://t.me/danialtaherifar/942" target="_blank">📅 00:55 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 575 · <a href="https://t.me/danialtaherifar/942" target="_blank">📅 00:55 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-941">
