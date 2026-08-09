@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64.6K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 19:53:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 20:32:48</div>
 <hr>
 
 <div class="tg-post" id="msg-6535">
@@ -314,7 +314,7 @@
 ‏سردار کوثری: شمخانی برای جلسه فرماندهان در بیت بسیار اصرار کرد
 ‏سردار رادان جلسه را نیامد و سردار پاکپور هم نمی‌خواست جلسه را بیاید اما دستور شمخانی برای حضور بود؛
 ‏وزیر دفاع با معاونینش در جلسه حاضر شد؛</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/6534" target="_blank">📅 10:23 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/6534" target="_blank">📅 10:23 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6533">
@@ -348,7 +348,7 @@
 <div class="tg-post" id="msg-6530">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">و شاید خیلی براتون جالب باشه که این آیه قرآن  (آیه ۵ سوره قصاص)  که خامنه‌ای برای  خودش  تفسیرش کرد،  در واقع قرآن داره درباره قوم یهود صحبت میکنه!  درباره بنی‌اسرائیل صحبت میکنه!  اینکه اونها رو از ضعف و بردگی در مصر به قدرت رسوند ! و اونها رو تبدیل  به حاکمان…</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/farahmand_alipour/6530" target="_blank">📅 14:58 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/6530" target="_blank">📅 14:58 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6529">
@@ -369,7 +369,7 @@
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FF3uMIDUj01msi45aWfMC_O5FM_K_vjR_1t2xZLco_0qh01kLNqkCI_JcQiWKdQkUfQwg20LEZIisTyBj1T3nzuAbKYYx6epsYCKzx2O2PSk275HkUueCY4FPW-WRaVj6XhtJikTyv3R5SrvNYAosttmEbE4iL_Ne3-F4jsYPsB6tLODDgx9UTTM2dvjmXenq1MByJypGaMBo2IfQ99a9OXc6i26Fiw0ef--obA8fMfPG4902NQGM-Ie6QeiFkvJ-Xx6XzexOyUC-OJukf3zofSDORgHN5BQPgc2BWSBbZEQ9wE3r_uqoZSh9pNuqSB-AUxUB9Q6C8CCjyJq7crarQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اختلاس‌های ۳-۴ میلیارد دلاری!  خودشون  که هر سال یکی از اونها افشا میشه  به کنار!  بیش از ۳۰ میلیارد دلار هم در سرزمین سوریه ریختند و شکستی مفتضحانه هم خوردند و اومدن بیرون!</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/6527" target="_blank">📅 14:34 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/farahmand_alipour/6527" target="_blank">📅 14:34 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6524">
@@ -722,10 +722,10 @@ Getty
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/7d5918459d.mp4?token=tXyU_yF2YzZq0qN1InlEsbRPFSN3R0yxagMnF_FoxHqTxTbtDdw1aDSPzRJNUwaDpKdDTiyZjvF_3oo9UI9u-rh_gVNnd4iXVHvVOfhlkSljvTlglDi47iUiD36I4fOV3AvfBO4XcivkvyxjgrQ-wYtVKeOBVfBWpz53W_PjC9JDgx8TWJAcqKqw1nRNP9fDVOG57QtwICZMggajzYAxRzHYDVXwAmZgcgZ1qneTWQzd1yTFiLxkHPTymrweEH1gdK22LdutoPOfIqL0QmB7ZNXK2OsJ-OvOzhV82hN3zMHKAlK0RnwGSuR9HCGNFMSc3Nainylc6xEan47WeNP_tw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/7d5918459d.mp4?token=r2Stol9tonDwJjpLHeD4SHidD54kHfWkV70tPqvoz2k84om9FQ3otRw9uqcsBTudM_0zUFdO8nWRrpnbIUOUUD-00Srxy4-nwN2bhlzZAfZA1mzDqd3e_tUm0F0rauUlUtaPpdwfzoZR52JyoHfR1mE0iNN-IRhP7fvZa_IgvZ6F8jEhMbDEs6xaEb8WQ9RiSVNlK8NOt1q62kKFva8RSbgIJQwz5IxbtMJtyz1BrgrGOeNGWkqc6Gb4Y9J2ceSSRiiFx5UdTK2jFJXPpb0mHX2HtmicjCZZg8UdJKKXGs8LSgXswOnTOHrjm0laW3BhjkEkEMFMxrm42oJ_YRYgdA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/7d5918459d.mp4?token=tXyU_yF2YzZq0qN1InlEsbRPFSN3R0yxagMnF_FoxHqTxTbtDdw1aDSPzRJNUwaDpKdDTiyZjvF_3oo9UI9u-rh_gVNnd4iXVHvVOfhlkSljvTlglDi47iUiD36I4fOV3AvfBO4XcivkvyxjgrQ-wYtVKeOBVfBWpz53W_PjC9JDgx8TWJAcqKqw1nRNP9fDVOG57QtwICZMggajzYAxRzHYDVXwAmZgcgZ1qneTWQzd1yTFiLxkHPTymrweEH1gdK22LdutoPOfIqL0QmB7ZNXK2OsJ-OvOzhV82hN3zMHKAlK0RnwGSuR9HCGNFMSc3Nainylc6xEan47WeNP_tw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/7d5918459d.mp4?token=r2Stol9tonDwJjpLHeD4SHidD54kHfWkV70tPqvoz2k84om9FQ3otRw9uqcsBTudM_0zUFdO8nWRrpnbIUOUUD-00Srxy4-nwN2bhlzZAfZA1mzDqd3e_tUm0F0rauUlUtaPpdwfzoZR52JyoHfR1mE0iNN-IRhP7fvZa_IgvZ6F8jEhMbDEs6xaEb8WQ9RiSVNlK8NOt1q62kKFva8RSbgIJQwz5IxbtMJtyz1BrgrGOeNGWkqc6Gb4Y9J2ceSSRiiFx5UdTK2jFJXPpb0mHX2HtmicjCZZg8UdJKKXGs8LSgXswOnTOHrjm0laW3BhjkEkEMFMxrm42oJ_YRYgdA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">محمد باقر خرازی ، برادر همسر مسعود خامنه‌ای :
 پزشکیان ۲۸ بار استعفا داده
@@ -737,10 +737,10 @@ Getty
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a204c96911.mp4?token=XvBPJY2WcsYj7LDRnFjjeaVE8ZbFVrOYpQ9-2qvMYBcnadD-V0niJY6LUP64GH8ZCtUZayj15HCWUXp5Wq2hLPK1gJbYoGxq1Dc8BdJZqgHiwk73xX-oPumlIZdUAMgGjQsS5MSAbnfHG3QqNXGbE50deSTV5xPXuQoqxKVrD9L1TrhlprWk7NIf_iSua4IexWAjafAej3hJDqzU1ECRKXZSr7qWu0Rpu-BjQ3NfVAcRmcjfi2vOKJDK6WwM13l8Zo6MtlclW9qoySPvm1sqCvzwuK2f_gVyFEWBcxHJ7CBEpEOiA4iRoHoaveXLclngFVfjiJ09uUvD2bWbW1auPg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a204c96911.mp4?token=lKlvkSSVM-1C6Svna6Okxt8vNNBB1nuDM6D4pITvMAq1OQD6GPx9lgs-rXRz46Sc67zMqAUJULyDLuEVQt73eSHxnI1lK3snc3vlxVduJ6hnNqoP8IOSThrdca_RNxG_FZNWFyxJsrpLMItmIaIrtSUpyao8UFTVSXgCjNFhtLgYKZ1CeUXLWfXQ6b-FQjJbkPgefrYpI8t6zlPj6XOEHDbg0uqJHTp-jWrXR3OskTJwKdKEzHmqKIupG4uiMNm4b0xwdqW7ywHEsEacLN6rogYoJi2DA42zCuF52dI_y3HKcGfAMg9y6HGIT8dW60x-kZ1qcD6wEt32asnLmDVorQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a204c96911.mp4?token=XvBPJY2WcsYj7LDRnFjjeaVE8ZbFVrOYpQ9-2qvMYBcnadD-V0niJY6LUP64GH8ZCtUZayj15HCWUXp5Wq2hLPK1gJbYoGxq1Dc8BdJZqgHiwk73xX-oPumlIZdUAMgGjQsS5MSAbnfHG3QqNXGbE50deSTV5xPXuQoqxKVrD9L1TrhlprWk7NIf_iSua4IexWAjafAej3hJDqzU1ECRKXZSr7qWu0Rpu-BjQ3NfVAcRmcjfi2vOKJDK6WwM13l8Zo6MtlclW9qoySPvm1sqCvzwuK2f_gVyFEWBcxHJ7CBEpEOiA4iRoHoaveXLclngFVfjiJ09uUvD2bWbW1auPg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a204c96911.mp4?token=lKlvkSSVM-1C6Svna6Okxt8vNNBB1nuDM6D4pITvMAq1OQD6GPx9lgs-rXRz46Sc67zMqAUJULyDLuEVQt73eSHxnI1lK3snc3vlxVduJ6hnNqoP8IOSThrdca_RNxG_FZNWFyxJsrpLMItmIaIrtSUpyao8UFTVSXgCjNFhtLgYKZ1CeUXLWfXQ6b-FQjJbkPgefrYpI8t6zlPj6XOEHDbg0uqJHTp-jWrXR3OskTJwKdKEzHmqKIupG4uiMNm4b0xwdqW7ywHEsEacLN6rogYoJi2DA42zCuF52dI_y3HKcGfAMg9y6HGIT8dW60x-kZ1qcD6wEt32asnLmDVorQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">«تبعیت از ولی‌فقیه بر مسئولان واجب است»
 می‌دو‌نید شمر تا آخر عمرش
@@ -749,7 +749,7 @@ Getty
 شمر خودش از فرماندهان ارشد امام علی بود!
 توی روایات اسلامی هم هست که
 هر بار بحثی پیش می‌اومد دفاع می‌کرد از کارش! میگفت  تبعیت از حاکم اسلامی بر من واجبه !</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/farahmand_alipour/6492" target="_blank">📅 17:28 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/farahmand_alipour/6492" target="_blank">📅 17:28 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6491">
@@ -836,7 +836,7 @@ Getty
 که در زندان بود.» همگی کشته شدند!
 حتی! حتی نخست زادگان گاو و گوسفندهای مردم مصر!
 و این تصمیم و اراده خدا بود!</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/farahmand_alipour/6481" target="_blank">📅 15:48 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/farahmand_alipour/6481" target="_blank">📅 15:48 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6480">
@@ -887,10 +887,10 @@ https://x.com/farahmandalipur/status/2083853984113054084?s=46</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MEkqIVC0T8S9zWBGMUpGL2O1ehgb-ym9qHejrfwMN8cBa9fQ6LtyOtwRWVEqqgU1ajf_xuejz0MkZUxm3VwRwHjEUgVLlZ_vQ-s9_f2nK88lMrbC-LF6DzD3Ae9u5CakwBp8mLT3VESLlFmSh3ZiHnOWXLdOUASeJFy-8IoASdHYpzcE3trgZXZoCVDFcjM6WQ69NcRE4sdqKZB2-gQqyXFCy3DUMFAzqJwQfNF2PbXD0J09gSVZ29hLJZwugVDp0Sm7F6hsmiBlez1J-h8aH2IFZUyjP8VZSbpKhY-uX-d95hT-5xVDFZhPOf0VgMHYC5-LsnxAO2RFpiXFglBIVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a9c460b262.mp4?token=BJmqzkff9BHA1nzML-nXq1eOjbV1OBgfL87I3yrvLzgZmYzzmaNF4BOojOr_tpD2qH58sVrJhPpizYF9T_15ynHIWsLRiaJVb7E4wjA8OtE3lpKCHWMUkZUo41kYH2HTf4hRJhYdc5Fdzny0NcRKFuxQtK92GTHoYfibU40JPB39e6D1LQ_FX-XNeiK7MaB6M2MSEM5y1KJEqWMR4nEnU3Hu7CEfm_0_dzxgAO4HFKHyNGrz1O0j03AyttJis31h2xmmVXJfR3XwdXvCOkvqqb4NAdyuXy0uQDhfP-eU7HjQKg4ztf0Q0-1NoAsZX1_7Tb5xEaZsN9DRpImkQS5OEQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a9c460b262.mp4?token=oYrB44PAf1YkNAudtBlCM8aDA9UxpGm11Lo0--j5ZrjOhwM-n9uYo0PQUg97K_FVnuJS0-2DcCEg2mswj1x_HgZme57hlRScYhTPblNHWfUDwibhlFDgE3cz79EVR_U9KfJR_8mszon_G9kzUqxScLcQGleZ6x6YUaMlqrP8qNb5PFxc8HSYKhiy8uw3YIlHjNkNG7P1Ph4dJOV_HRXxEAS-e7nmtPHDNpVOJ5duvG3uW-F6csNxrMCoqK7lRFnCzdmZI3cyKR-K-6_dySopuvXL1WFy4ft5YufA_pY98zToF75t5YN6ZbDz5xNtfsTEJwAubZ60Mbrr7YRTq9JnQA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a9c460b262.mp4?token=BJmqzkff9BHA1nzML-nXq1eOjbV1OBgfL87I3yrvLzgZmYzzmaNF4BOojOr_tpD2qH58sVrJhPpizYF9T_15ynHIWsLRiaJVb7E4wjA8OtE3lpKCHWMUkZUo41kYH2HTf4hRJhYdc5Fdzny0NcRKFuxQtK92GTHoYfibU40JPB39e6D1LQ_FX-XNeiK7MaB6M2MSEM5y1KJEqWMR4nEnU3Hu7CEfm_0_dzxgAO4HFKHyNGrz1O0j03AyttJis31h2xmmVXJfR3XwdXvCOkvqqb4NAdyuXy0uQDhfP-eU7HjQKg4ztf0Q0-1NoAsZX1_7Tb5xEaZsN9DRpImkQS5OEQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a9c460b262.mp4?token=oYrB44PAf1YkNAudtBlCM8aDA9UxpGm11Lo0--j5ZrjOhwM-n9uYo0PQUg97K_FVnuJS0-2DcCEg2mswj1x_HgZme57hlRScYhTPblNHWfUDwibhlFDgE3cz79EVR_U9KfJR_8mszon_G9kzUqxScLcQGleZ6x6YUaMlqrP8qNb5PFxc8HSYKhiy8uw3YIlHjNkNG7P1Ph4dJOV_HRXxEAS-e7nmtPHDNpVOJ5duvG3uW-F6csNxrMCoqK7lRFnCzdmZI3cyKR-K-6_dySopuvXL1WFy4ft5YufA_pY98zToF75t5YN6ZbDz5xNtfsTEJwAubZ60Mbrr7YRTq9JnQA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مدل برخورد سربازان مسلمان با مردم مسلمان.
 نیروهایی امنیتی مراکش برای جلوگیری از خروج گسترده جوانان مراکشی در مرز مراکش - اسپانیا مستقر شدن و مشغول ممانعت از گریز جوانان مسلمان از کشور مسلمان مراکش هستند.

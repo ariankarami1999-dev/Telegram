@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 19:53:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 20:32:48</div>
 <hr>
 
 <div class="tg-post" id="msg-2862">
@@ -330,7 +330,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.87K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.06K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2861">
@@ -374,7 +374,7 @@ https://netinomarket.ir
 @Netino_Service
 ✨
 نتینو؛ کیفیت بالا، قیمت رقابتی و خرید مطمئن</div>
-<div class="tg-footer">👁️ 8.28K · <a href="https://t.me/iaghapour/2861" target="_blank">📅 21:15 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.38K · <a href="https://t.me/iaghapour/2861" target="_blank">📅 21:15 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2860">
@@ -403,7 +403,7 @@ Relay
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.89K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.98K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2859">
@@ -426,7 +426,7 @@ YouTube</div>
 اگر ویدیویی رو تماشا می‌کنید که ماه‌ها از انتشارش گذشته، لطفاً تبلیغ داخلش رو حتماً دوباره از طریق ربات ما صحت‌سنجی کنید. شرایط سرویس‌ها در گذر زمان تغییر می‌کنه.
 ممنون از اینکه همیشه در کنار ما هستید.
 🙏🏻</div>
-<div class="tg-footer">👁️ 8.64K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.7K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2858">
@@ -451,7 +451,7 @@ YouTube</div>
 آدرس سایت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.56K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2856">
@@ -491,7 +491,7 @@ YouTube</div>
 <div class="tg-post" id="msg-2852">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromNovin AI✨</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IlIepR1Gz-5cMj_EHb1Ered33wFSWWoswkynJZL01_trKFYfgBRWieK6lbzmZtoHCdcjeWVTD03EYhqFxVoPE4SG7eFZI6xvm8_iDrqKceY1elcSNrCaTApZ3sVYWcmV9OM9cmbuPRIgVpSkQ820VERwKPL59c24ljIAPGdt7yx0eh5ZhSqdH_RnghcSmvJdLtEM1HV7zCWIUqtpSLtOEB4szK3kGmbYhTd7_w5zQ6qvJfFn6AwJyGfL5leliVXMW731Q9lcG10maFJN0Nz6Ct-qNT7sMYSoYR-QBSc4OyZxJ2DGmfD0G3rX0qhr7Yu1LYGbTnuFmL4r2n0JEAZypA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/etYZ78V87-0Nde_i8-Wh5pqg4e6gP6YDxo6ougILsNJyebA6skKdkY5CyjggQ4pWfwXQpd0j2_SSQzqgtHSOEhrvU1LMCDn5BRUhhUogjJS29SYBk1RCr31FKnjz5cX7PAL6kqDPulRIKidwgCnviXyqFkwZTBewRSEaDKXUiG7QtBnCvkMvjxeuwdU8dHmNY4Wi2nVF_4F6Bs4mgI_4UHMt4SfWP3zjQP9HHufmWQiNkOsHnkjxFN0giYGJFGw-XuxmwKG83mNP9CmD8qQwl3t723GFBtig8F18OZCTKTAn4fIHFEBkBWcuXpOXLn-qlolwhL2quKLMLmEgQ5roLA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 تغییر بزرگ در ChatGPT؛ چت متنی رایگان و نامحدود شد!
 کمپانی OpenAI از به‌روزرسانی‌های جدیدی برای ChatGPT خبر داده که دسترسی کاربران رایگان و پرو را به‌طور چشمگیری ارتقا می‌دهد.
@@ -673,7 +673,7 @@ ToRouter
 یهویی این همه آدم باهم دیگه اشتباه میکنن پس. شاید همه باهم دیگه دارن توهم میزنن‍!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2843">
@@ -698,7 +698,7 @@ ToRouter
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/iaghapour/2843" target="_blank">📅 20:02 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/iaghapour/2843" target="_blank">📅 20:02 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2842">
@@ -735,7 +735,7 @@ ToRouter
 <div class="tg-text">⚠️
 دزدیِ آشکار و علنی یعنی همین! اپراتورها رسماً رو اینترنت بین‌الملل ضریب ۲.۷ می‌زنند؛ یعنی تا ۱۰۰ مگابایت دیتا مصرف می‌کنی، ۲۷۰ مگابایت از بسته‌ت می‌پره!
 با کدوم متر و معیاری این ضریب‌های عجیب‌وغریب رو روی حجم مردم حساب می‌کنید؟ این پولایی که بابت جابه‌جاییِ چند برابرِ حجم از جیب ملت می‌کشید، از گوشت سگ هم حروم‌تره. بسته‌ها رو که نجومی گرون کردید، جاده‌یک‌طرفهٔ کیفیت رو هم بستید، حالا رسماً دارید با ضریب زدن، حجم باقی‌مونده رو هم غارت می‌کنید.</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2839">
@@ -808,7 +808,7 @@ Xray-core
 به‌طور مستقیم به فضای مجازی و دسترسی به اینترنت وابسته است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/iaghapour/2837" target="_blank">📅 13:58 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/iaghapour/2837" target="_blank">📅 13:58 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2835">
@@ -1353,7 +1353,7 @@ Claude Opus 5
 لینک دریافت نسخه 1.0.3 از گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2798">
@@ -1658,7 +1658,7 @@ LangOver
 ⏳
 زمان قرعه‌کشی:
 همین فردا! پس تا فرصت هست کامنتتون رو ثبت کنید.</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2779">
@@ -2071,7 +2071,7 @@ Nova.app
 توسعه‌دهنده پروژه نووا خبر داده که کدهای این پنل رو دوباره بازنویسی کرده و تو آپدیت جدید، مشکل ارورهای مختلف (مثل همون ارور رو اعصاب 1101) کلاً برطرف شده.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/iaghapour/2748" target="_blank">📅 20:02 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/iaghapour/2748" target="_blank">📅 20:02 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2747">
@@ -2109,7 +2109,7 @@ Nova.app
 اگه خرج سرور و هزینه‌ها بالا رفته، خیلی روراست قیمت‌ها رو ببرید بالا. مشتری ترجیح میده گرون‌تر بخره ولی بدونه دقیقاً داره بابت چی پول میده، تا اینکه یواشکی از حجمش دزدیده بشه.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2743">
