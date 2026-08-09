@@ -291,7 +291,7 @@
 <p>@IranProxyV2 • 👥 1.28K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 19:03:51</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 19:53:21</div>
 <hr>
 
 <div class="tg-post" id="msg-97">
@@ -540,7 +540,7 @@
 
 <div class="tg-post" id="msg-89">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/teWcTL4qkWWREfsEn5ptXr-U4XlTJ2S8Aa93mAJWlho1TochtXjTmQIPqBMqL_svcP01PF65fkvIitlHI9YQsovFp_3uhbtiW8eumB4FN5WYRzuXXtRafcTgZOdXDshybzjQDcP_u4hqLOJvXai46wkkH63dXyW7XwGUc7Df5cMZdroL2j5NbBnxfhNGkChUS7plTJI-Btn0znOG3aZO6lhZnUvFAPT1G-_V0YVebEmSmj8_jYcjW6Zp-frV4ue06frtMeWeGcAMDVho0VJbJzrvx1vAsD_7e-xDjTZXi8m6HJpqVfWwrCwB-jbMXJIdIYhWjDErv8gxKHuduoRyPA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Vu-ErkhlI8dUSZIo00p8kj4qzEjTl80kBOLq1kdhd6xu2ReJoN3JGt3sRd_Hb3GvBy4hkeo5nmfFXQ6SFZoiMJThEfItFR48nOpBk3PBxaQ2KFJdDM3rl7-6DNRM4JpzJB3hh7K2iosCxTmWBKwW1nOJPeQOqL7_wkndB29H7mB2eWEsyKhIq3F8vnZmjxIpVAC1EVd7WCqOENE0-1_QUOhb6TOFhZyVpyZ6GPNkm9euZP3dL8MudaNYcctYYiM9QOqr66MFKGCnAgoFKzO2qT0bFBHYFM50Vt-C8GdksyAE-fVFz0BYVMfTUt_6tSSUHxz2AQURtmaXF-1PvBHx2w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">منم همینطور بستنی
 منم همینطور.
 پروکسی

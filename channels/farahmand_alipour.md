@@ -291,14 +291,14 @@
 <p>@farahmand_alipour • 👥 64.6K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 19:03:51</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 19:53:21</div>
 <hr>
 
 <div class="tg-post" id="msg-6535">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">🚨
 شرکت ملی نفت ابوظبی از حمله موشکی به یکی از شناورهایش در تنگه هرمز خبر داد.</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/farahmand_alipour/6535" target="_blank">📅 15:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/farahmand_alipour/6535" target="_blank">📅 15:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6534">
@@ -314,7 +314,7 @@
 ‏سردار کوثری: شمخانی برای جلسه فرماندهان در بیت بسیار اصرار کرد
 ‏سردار رادان جلسه را نیامد و سردار پاکپور هم نمی‌خواست جلسه را بیاید اما دستور شمخانی برای حضور بود؛
 ‏وزیر دفاع با معاونینش در جلسه حاضر شد؛</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/6534" target="_blank">📅 10:23 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/6534" target="_blank">📅 10:23 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6533">
@@ -328,7 +328,7 @@
 </div>
 <div class="tg-text">حاجی‌دلیگانی؛ نماینده مجلس:
 ما الان جز ۴ ابرقدرت جهانیم. نمیگم چهارمیم؛ شاید حتی دوم‌ باشیم ولی دیگه جز ۴ تاییم و باید توی شورای امنیت حق وتو داشته باشیم!</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/farahmand_alipour/6533" target="_blank">📅 18:01 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/farahmand_alipour/6533" target="_blank">📅 18:01 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6532">
@@ -362,7 +362,7 @@
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jl2X1-CitVn0L4EDM-RE9P6e66odRt2ME5x0UMAGY0-pQ8Rziuv-_40FfDDNFH_7beJSW_IYCEFNyXCm8V4b4_Wg3ut9ZU8oreoCodVqLPK0S4gEcCy8od6u_pAo4unuOKzkRCNPpOQom9Dw4BwCDr7UZcJpejSM4K7i10ewhbuu2-J7500Q4W0BdYj2PEsuYhJ8xTACCVpShLE8xMQ_9jcTd_XY4Kp48tb-qYZYurMsJTA-YW72vWjC-Q5DvAigOSJWaxVD8G-N7Eq_YgObzX3YruxZ9-Jyaqjo7GJ7PKEVU7I_YujAkF1HkjLbnW0K7qEdfyCLxaE44oqIPC5nuw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حامیان وقیح جمهوری اسلامی هم به مردم عاصی ایران از فقر و فلاکت کشور  دائم میگن :  شماها بیایید زیر پر و بال فقرای کشور  رو بگیرید، مدرسه و درمانگاه و….. بسازید،  به کودکان یتیم و سالمندان و….. برسید،  تا ما هم بخشی از ثروت‌های ایران رو یا خرج لبنان و فلسطین…</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/farahmand_alipour/6528" target="_blank">📅 14:43 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/farahmand_alipour/6528" target="_blank">📅 14:43 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6527">
@@ -380,7 +380,7 @@
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/M8092S92cD92Z57R7e8RPPVN2hNhRH5IhIT8RNonlRN3M9GXwFyARm27EXH_exNKJdOyFodMznGaP8qxEnj3wv6snhQ-NmyZ2YRjaDMPvz0MGl4OLSvoXsJkMKxvq3lvMp-XHKWcN6tl7Lxvvnml7-eykw7TWWr9s7Pfawli1vcWx1CtybPjc1bwC4oK9aGsbkd1Uta7aBnAJW0NDMc4O482-9vtbTQsqCxOIb9nX87m7k6IDkuSZLQPVoflFLcxw0dzW4Kf0ziJsk_Yxf-C7v3l_AdB_KPZUx0oj3RL9pXwZmSqXksRnLV00szph6X0hNRLWv9-EywPtMQxWNsw2A.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">خیرین مدرسه ساز در ایران،  ۶۲٪ از مسئولیت ساخت و ساز مدرسه  رو به عهده گرفتند. حدود هزار مدرسه.  فرض بگیریم همه اینها مدارس ۶ کلاسه هستند (برخی ها فقط ۲ کلاسه هستند)  اگه هر مدرسه ۶ کلاسه حدود ۱۲ میلیارد تومن هزینه داشته باشه، هزار تا از این مدرسه‌ها میشه…</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/farahmand_alipour/6524" target="_blank">📅 14:31 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/farahmand_alipour/6524" target="_blank">📅 14:31 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6523">
@@ -468,7 +468,7 @@
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Bw6BDdxo9m8a9q877SFpXelUnRx7bixCRetGSSUxHDDiTn7q9__uhAUWd4fTXjGg-2LupulUZnd5-roaA0TSlhqYgMAyPrTKiqlVKU31jFbVkRW81YawPCjCYrmEs1nVy2QSneyYoUA1busrZOwLrfxEfiRSLGtK1787kjv9hz0ttEy3pD1L82NyOh8jD6sgUgRfd0iYO7XQUbWcbH4njwHM6ssyH0iii6Z96i2zl6vrLW4zGmE-XQ9vUkybqoDF4ZOmn3AatOxrYQQH6cip5ZtRhVXNX3P9-XsNsvFFGiD_Mm4KCM6xyYjjCijzhZOEJg7aKW3uHpS5JmTOgYJrmw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برخلاف نقشه‌ها و آرزوهای جمهوری اسلامی  قیمت نفت خیلی زیاد بالا نرفت!!  میانگین قیمت نفت در ماه اخیر با اینکه هر روز خبر حمله به کشتی‌ها رو منتشر میکنن، اما بین ۷۸-۸۰ دلار باقی موند!  یکی از مهم‌ترین دلایل اینکه قیمت نفت خیلی بابا نکشید دقیقا  «چین» بود! …</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/farahmand_alipour/6516" target="_blank">📅 15:17 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/6516" target="_blank">📅 15:17 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6514">
@@ -524,7 +524,7 @@
 خرازی افزود سال‌هاست با مجتبی خامنه‌ای رفاقت نزدیک دارد و جلسات خصوصی بسیاری با او داشته است.
 او همچنین با اشاره به اعتراض‌ها و تجمع‌های خیابانی گفت دولت مسعود پزشکیان به پایان دوره خود نخواهد رسید.
 @iranintltv</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/farahmand_alipour/6510" target="_blank">📅 14:42 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/6510" target="_blank">📅 14:42 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6509">
@@ -572,7 +572,7 @@
 <div class="tg-post" id="msg-6504">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">آسوشیتدپرس: مذاکره‌کنندگان ایران و عمان پیش‌نویس توافق درباره تنگه هرمز را نهایی کرده‌اند؛ اقدامی که می‌تواند یک نقطه عطف احتمالی در بن‌بست مربوط به این مسیر حیاتی نفتی و کشتیرانی باشد.</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/farahmand_alipour/6504" target="_blank">📅 17:37 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/farahmand_alipour/6504" target="_blank">📅 17:37 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6503">
@@ -646,7 +646,7 @@ Getty
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qDxUlveU6TJ6P4iyh-IKN-sVxcSUAHThDnzfvEw5KCENh0mV9s37lrTTJaIFV3rKdlawj82ecbJxY9E1OglJEteKZGPDuzRg-QPNcWb8jLXj4NaNiXtEIkyPQ1pYk-43D6zBrscfx_wscrB9FsEiZekowHK0oc3L83tpdoHz7j_GS4GnCuaE5O0UMIgJ2b22o7lHy43saO9b3Ke90paPLGhv3vklM0sKGpDb5BvqCfWI-5PLkp6Yh2uQGlNLLc1jGcH1dlNmW2JsR6I4J4eOkW9nLG7uYHXrgPSzHbq6dZ7nY7zX2wgr5OQfUIv10PpYuzJUzKN-UCgRj0JPedKZqw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برنامه‌های بزرگی که کشورهای عربی برای دور زدن همیشگی تنگه هرمز در دست احداث دارند.  عراق : از طریق خط لوله انتقال نفت به ترکیه  کویت : خط لوله به عراق و ترکیه و همچنین به عربستان بحرین : از طریق خاک عربستان و‌دریای سرخ   عربستان : صادرات از طریق سواحلش در…</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/farahmand_alipour/6498" target="_blank">📅 17:45 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/farahmand_alipour/6498" target="_blank">📅 17:45 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6497">
