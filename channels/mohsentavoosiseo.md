@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 01:06:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 01:50:12</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -306,7 +306,7 @@
 اگه اعداد مختلط نون شد اومد سر سفره، یا ماشینتو عوض کردی یا خونتو یا دارایی هات رو یا زندگیت با کیفیت تر شد، قطعا مسیرت درسته.
 حالا به جای این ریاضیات، هرچیزی بذار. از الگوریتم های گوگل تا مستندات و نحوه کارکرد مدل Fable کلاد تا... .
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.21K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.22K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-883">
@@ -474,7 +474,7 @@ Claude Cowork
 . ولی استفاده کنید کنتور نمیندازه! نمیگیم چرا زیاد سوال میپرسی! نمیگیم چرا هر چی توضیح میدی ما نمیفهمیم! برعکس کمک می کنیم سوال رو درست بتونید بپرسید. خیلی راحت هم اگر خارج از سئو باشه یا بلد نباشیم، میگیم نمیدونیم!
 "نمیدونم" گفتن تو فرهنگ ما (تیم محسن طاوسی) تابو نیست. برعکس، کسی که همه چیز رو میدونه، احتمالا کلا چیزی نمیدونه!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/mohsentavoosiseo/872" target="_blank">📅 12:40 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/mohsentavoosiseo/872" target="_blank">📅 12:40 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-871">
@@ -529,7 +529,7 @@ Claude Cowork
 با توجه به اینکه اپدیت پیش روی دوره، بسیار تمرکزش سئو بین المللی و چند زبانه و مبتنی بر هوش مصنوعی هست،
 و اسپات پلیر هم دوباره از وایت لیست خارج شده و از خارج دوباره در دسترس نیست و دیتا سنتر ها دوباره محدودیت هایی برای دسترسی از خارج به داخل اعمال کردند،
 اگر نیاز به وی پی ان ایران دارید به دایرکت همین کانال(آیکون پیام یا کلید message) پیام بدید تا وی پی ان ایران براتون بفرستم. وی پی انی که خودم استفاده می کنم (میخرم).</div>
-<div class="tg-footer">👁️ 2.87K · <a href="https://t.me/mohsentavoosiseo/867" target="_blank">📅 12:52 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/mohsentavoosiseo/867" target="_blank">📅 12:52 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-866">
@@ -625,7 +625,7 @@ Claude Cowork
 نون کردن
 پرداخت بهای غیر زمانی و غیر مالی
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/mohsentavoosiseo/858" target="_blank">📅 14:36 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/mohsentavoosiseo/858" target="_blank">📅 14:36 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-857">
@@ -729,7 +729,7 @@ https://mohsentavoosi.com/video/keyword-gap-excel/
 درون گرا فقط از درون خودش بیشتر از بیرون انرژی دریافت میکنه. شارژش تو تنهاییه. همین! چه ربطی به خجالتی بودن و بی مهارت بودن تو ارتباطات داره؟!
 یه ای دی اچ دی در سطحی که تو جامعست(نه بچه هایی که از سنین کم اختلال یادگیری دارند)، هم میتونه یاد بگیره تمرکز کنه. بدون قرص. یه بار هم که شده مسئولیت خودمونو گردن بگیریم. تو این عصر هوش مصنوعی میخواید همچنان بدو بدو همه چیو ببینید؟ چجوری میخواید AI Agent تربیت کنید پس؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/mohsentavoosiseo/852" target="_blank">📅 17:49 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/mohsentavoosiseo/852" target="_blank">📅 17:49 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-851">
@@ -762,7 +762,7 @@ tribn.ir/Vrfz6P
 ℹ️
 این پست، تبلیغ هست. Ad
 ℹ️</div>
-<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/mohsentavoosiseo/851" target="_blank">📅 16:49 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/mohsentavoosiseo/851" target="_blank">📅 16:49 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-848">
@@ -1302,7 +1302,7 @@ pinned «
 
 <div class="tg-post" id="msg-774">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/I2--7ITKRZ-JUb8UPOkJhh1tDNkXnNkmRBotU0445SmBO8X9D2FVTVr0pih4FECsbRCdapj_ISOz-FV-d6Vl-SdBJOCBLTHy_hODDdH_f4JvZyI8rv7N0fyHBlEvs_7OUQTpvotOYyJ_ESeLFTaa9969Tx3OSuBek8N0tMyvZocLo0uKlBwMWnEmR93Pz18zIOY3tLrz4i-wwrPgF2rBsijaS_XC_5iBTLH72tdB7kbsQ-nHGzgy-K4hcF4axOzOsiVvIAp-5VNizR-as4iA4tL6VscuXvYzT_0BjIy9pFdz8VipqG8PjOU8cobpfzoz6nHNQksZRntweHbevIg5TQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VkWzvM4AFwMGanUEbiaejc-hdtYU0C-91PefuaF_V1NtmD0eTkauUGylTC33bv2d_S6SUUilFrJvYLkS2q7HBskgJoq7_uMGT4rQLfHQHF-qelcywXOK_3pUZVtpV235i4mOrqUW1xTGxZQrWW5rnYAH9dmb-7HN6HxiiBJfgWPPT8lnXSB_tCHRpLSY73kiBwKHDF32Apuyoq_RN9LLilAiGoFG4yhIrmQ_762MENhz8PBKnNn65WX-qG4saH31As21F7eyMzWEB2zYzkWLVjeKez05HSZzUshNJhO1f-DzspbeummrbOdZzMh4VbSE1s5zp5R4zO7X0Znr_1LwgA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درباره پستی که روش ریپلای زدم:   نظر یک نفر قبل از اون پست:  از این زاویه نگاه میکردم که آقا تفکر وقتی آزاد باشه کامنت هم باز میزاره که جامعه بتونه درموردش صحبت کنه  وقتی میبنده داره آزادی رو میگیره</div>
 <div class="tg-footer">👁️ 2.16K · <a href="https://t.me/mohsentavoosiseo/774" target="_blank">📅 17:48 · 04 Tir 1405</a></div>
 </div>
@@ -1333,7 +1333,7 @@ pinned «
 
 <div class="tg-post" id="msg-768">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DBpK_v1ljaAMJWbahYEGl3RnjuoGfajq2oDnGEMhGkVZO_IBpavUeEI0_eRSPUbUaZy2Wb_lJHiGFUOBVvpaTVz8uBo6dwEd4eMrS2wXUMA0nbjYzdsLUay2vcwqUR-_sP8tkb8CvXg1FT446aXGBm0AULOeN6MrGpdURFTcZoKG1hBXUM9b3AfMAyfvZtKOBUojHHCeytsow2yiQdNK7RakbMrIaSJIN9tkG6RU0Mx3iR1rIQFj23JFPXiS21TcXg48V9bPF58DATNZLpNkHEC3ipuZcmpCxMkNdVxjpdqi03_jR6y4lwLo8tCrTgCNbFxaambWhNH5G3e0m6fN8Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fqDTAWBiRyrHfNzre44MZ9Kr77OI2V_QBu6eXV7jNkV76Xqv-BJU40OAv2gN0OY1rc-PwcMA7AaHbHbeBvgqZ1g6jNhskzk2qSReOOcTj2GdewtnVkI-EOTB5Ctc0rFn7vqScbTY9F_pcnjC9fbQhSo62SeJzsMI9dxrzNIG96xtQiwEv8yMGiBjjYiprdYCO2BGUWffMYhcqFVj1e7P2JZkdyPmfTKpRoVM3q2MP41ruuDXH5-UjR6EyU8EoDX_U97325jMSlD4oK_hPGyrDW3QRSMPMuuZm-bhhgN-vpYCCoW2gnWuS9Z4PqcOi8yW6hcuHwksfffiuZf-XEqX5w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال یک دنبال کننده که احتمالا شناخت قبلی هم به من نداره:
 نکات سوال:
 پارتی نداشتم کار خوب گیرم نیومد
