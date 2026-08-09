@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 17:55:15</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 18:29:16</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -384,7 +384,7 @@ mohsentavoosi.com/1
 
 <div class="tg-post" id="msg-879">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vVtnZVxfSdGi7ZGowZMu7Z6-Rf4xNu40ER6czvdjtGVEDoFYBpUhcVSmC-yurM69mAd1q7qTspt178ObzgPff90f3ER3BswnNCU0tAkqa1zn8NFtx6A6Oe2MS6EmErzuvxn-1ezLcc_tAOvsNk8TygrrvFX5DcUSDX9YihCuyTeKeJk2LPPk5v2MlFVWRC-MyIp5T5XwJsZ5Dm3hHS0YIctd1L1x8hUu0n9QZoxNkkmOpCWloYBdkwOhEqW54lO5FqkVX5owL7cret6pLEWEtV0Erqm5fqz69WeWXDGMf55ymgdnZokL8bLW1EZ707lVqvh32GO0nKwTKS0CG0z33g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JSN8NkFWlb6LntSNoGFh7uRCyH5M13dAInXaT9YEbuJrL9fJMTv8hlb75bQpjX5BIX490apHnXRDTtF3mRQP9jEkjowhzKvwLBEciCIH5xmkx-hfK3JPzbhDCIXP8hU2dm01RQeK-8NpWDPtKif6yn80h28Evn4BIF_g1Ku4FLagrwrGEM8iBfvR_ffI_fUEQxCD3NoaRzUvRbp-MOTVPcwJgaY9dkppL9iA4SA_cpdwRfdvpg6AeZoiB3zvQgI7QKbVTKZA6nOUFUAF6P8cc3kmrucqwBU7me2PtGCBZ7aE-zN6XvpIRKSZGJZKxDiIuD4udvR2YDVgpfenDjZrPg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❓️
 از کدوم هوش مصنوعی استفاده کنیم؟
 کلاد
@@ -508,7 +508,7 @@ Claude Cowork
 <div class="tg-post" id="msg-869">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 3.11K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.12K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-868">
@@ -601,7 +601,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-859">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fVfAp1wXkmGU6l-qFfLFs16X99a_pjcFVkr7LbaUiVuEeAfnKJ841XhA2wiX2-0A2H1vNNYrdkVfjYwVkZID919tIjVNG0JVcZgWELGvJBQ7oCS9-N1-Zx6xckanHJ52bylH2ZD-s2SbR2hAy2RF2LdzqpQABPYRZQuiqGjRBA4aqsGAA5hypimWEkS9qzxolkf9y3K3-GOGG1HViukeHQHtrbm4OGBisLhBfn8GgHfMKpXAVL2sDL2xbRfnNDNW7M5XweAYM3_8y3gpEItl9ZHtMfIq_IMaRNk0bkw4lwSI6OUqw5shEyamLuZ6uyXHFnrGkYE_g2NCiWyG0Or-_g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/knmgOUJuQ0F1Z3sCLXbFiXOf_G3ceJKsUp7FGmFrOJ08ncNuqRfjwuID7SDWPZE0V1Y4MLFEdDrf9Z6DUK2L0NHNhutsNgq_o54rxOBzQzkOZRMYjQHnZJauOm4y7h3K7OW9mAAxbyjs452kBkB_OoMTv5yxPDnnGrN7PusCcbs42746p6IK_5j2mkHjcBJgERUcklGo38rN461I3VhwSX_hqThY7ZtbI9eknYW1D6wEv0xbs6qwcN908bTkCLi4uKF2Y946zIaxAYWM-sXaEkdwnzWUUJ6KSFjUHfLMx8JCKRuqYYwXXA274pRbCXiw807xLOPp3HCYmkPgMyw5zw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این عکس، نمودار حدود 8 ماه گذشته یکی از پروژه های انگلیسی هست. هیچ فیلتری جز زمان هم ست نشده.
 تاریخ 5 فوریه زمان شروع همکاری بوده.
 به نظرتون بد شده اوضاعش یا خوب شده؟
@@ -876,7 +876,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 <div class="tg-post" id="msg-834">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
-<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/mohsentavoosiseo/834" target="_blank">📅 14:49 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/mohsentavoosiseo/834" target="_blank">📅 14:49 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-833">
@@ -1114,7 +1114,7 @@ https://t.me/mohsentavoosiseo/267
 <div class="tg-post" id="msg-802">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">من احساس میکنم آموزشی که جناب طاووسی میدن برای این مدل بیزینس ها مثل سایت ما یه آپدیت نیاز داره که نیاز هست برای سایتایی که کم محصول هستن و محصولاتشون قابل تفکیک و توسعه به صفحات مختلف نیست چیکار باید بکنن؟</div>
-<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/mohsentavoosiseo/802" target="_blank">📅 19:58 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/mohsentavoosiseo/802" target="_blank">📅 19:58 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-801">

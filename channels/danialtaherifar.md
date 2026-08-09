@@ -292,12 +292,12 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 17:55:15</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 18:29:16</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f1F0vK5F28cbahgUg5wcNrtVJWxALGu9AlUb6S6THzxxfjn9uLdmutUc5q807wRZf41uoavMcnLy1L3cZ89ZOS5HZnI6i7SkV5bkuQQRjS4G5bZZvUqpkJCEk3QI_cyUl6U0eFhyjSyD2l8xwvI-ecN6GAglu9zJXGw5c_XPFuAWWPtVyyHF04a4unzfEnwwejNN7rMh0_jAC3E3sWg-foUoFUPdlr5hn6CRYw8fBTIZTJsKheEdeTw91LAFsrRywqnIjAgYPZKht13ZD07-jnJ7x5uWFiiMMxX3Q0rPSJnVQPrcbSZUnx81eAkD8b2063g5f3eoD8WNDTKXTK5jeg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rh_rFXgTAFglwttseLi7HPh7nlEdx3NuJ9s-z61FSkfYgWaBA8kbRjRJ3k5mh22o9I2dJhoLjbBoWD_cZy-Rcc6uYroC77fwpbb8qQdv085eRSw64QRVQtCGFI7D9nrzn3RAPlztaQyot0PMsRGx43B8Vj369gS6OTBF5lnqMgwfI8INP4uYcFT1elokW2gNIKdyKc-c1vXoVV288YEKiGjDBViz8TKbN2zPRzTChAXQrOy5yo4yhW-X3ym4A5ssfE3By0XUtuuyVV6HrTPuYZV0UnKx47MouZKJs2i4DjiIcNPOKhUTy3wXY_r-LL--R0oLSC_Ol2TdjabRfDsmmA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
@@ -857,10 +857,10 @@ NotebookLM
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3745059056.mp4?token=eIQ1dNwWRC39lVjuPJt0Tr0gpnQpmMe-5FTYBxS3MFsOUo7pPnPFGYpBEb325FC5QHJC2oF9uejd4Zoz2zVOaCWoCVNn3TR1sLd0dGJEKh-9E21cdkI5oKZ71WGsV1ViBgsKT0phqpFebsqpRGCzvKFsPICOpUynoswQtgwGUbMyxZVLcoHRDUHBuqqx204pu39UL_7BOlJRCSfgdDiz9u2m-5Ccvr6E9LhszOHN6ak0deX9qr2LlnAvrLwb0K-JEq3KaZASgsgsqbMvNgqOR_mFU25G0h4iiLhAZG092ACotvjf-A18BMpg1WFxtbn-Fxbn_VuK1qUiiw93PcA4AQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/3745059056.mp4?token=geUSW0h0lKl20M-YFpTgPvcod7aFlukkcaMRvmTlYF0I0IlUxqGqQrK9W1iuvjk0aGNnJEvq3mCrYYkISY4AKN8SfqaRvPGg_YuT6oksmHA7-mAKIrrEEj0WZlp3Sx-aUIe-GciW-chpR-uqjqKXQzV31W-yrSjxH4_yssLFVNS_ImPCaDkKJa7Fxe4JkSa3cw_VCAjhtnD_WpyibYBPUZuRYlTetymhyh5qRmDTPKpu4_68YVtEaYYyVwqmX7tohmkDEmQLNhBnhmeJu6YhZde0s3H3jzAloa2uqhv6kgKjRsaR8RmFVvYSeukjb-r1rqNbdDzSs603UDyE-gDqKg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/3745059056.mp4?token=eIQ1dNwWRC39lVjuPJt0Tr0gpnQpmMe-5FTYBxS3MFsOUo7pPnPFGYpBEb325FC5QHJC2oF9uejd4Zoz2zVOaCWoCVNn3TR1sLd0dGJEKh-9E21cdkI5oKZ71WGsV1ViBgsKT0phqpFebsqpRGCzvKFsPICOpUynoswQtgwGUbMyxZVLcoHRDUHBuqqx204pu39UL_7BOlJRCSfgdDiz9u2m-5Ccvr6E9LhszOHN6ak0deX9qr2LlnAvrLwb0K-JEq3KaZASgsgsqbMvNgqOR_mFU25G0h4iiLhAZG092ACotvjf-A18BMpg1WFxtbn-Fxbn_VuK1qUiiw93PcA4AQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/3745059056.mp4?token=geUSW0h0lKl20M-YFpTgPvcod7aFlukkcaMRvmTlYF0I0IlUxqGqQrK9W1iuvjk0aGNnJEvq3mCrYYkISY4AKN8SfqaRvPGg_YuT6oksmHA7-mAKIrrEEj0WZlp3Sx-aUIe-GciW-chpR-uqjqKXQzV31W-yrSjxH4_yssLFVNS_ImPCaDkKJa7Fxe4JkSa3cw_VCAjhtnD_WpyibYBPUZuRYlTetymhyh5qRmDTPKpu4_68YVtEaYYyVwqmX7tohmkDEmQLNhBnhmeJu6YhZde0s3H3jzAloa2uqhv6kgKjRsaR8RmFVvYSeukjb-r1rqNbdDzSs603UDyE-gDqKg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">✅
 اضافه کردن Note به چارت سرچ کنسول گوگل
