@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 20:32:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 21:25:10</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -356,7 +356,7 @@
 
 <div class="tg-post" id="msg-943">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V1gn2jGdiSVivj1YYbGyBtmHXtdNOqKQlC-UJh1ItTeqKrl1xQGEJAp1cU4cM6I3cSPADuvaVTciQaqOKVDkDvmW0RwZmsQf5WI9GSkKrFem-qOgOQA_SZqW6unntLWfCtdH9DEwZTDtGh1Iq0iyPBhRaJhuGa9togIDLCbBJnD6ZU-mVs3sApCV6ohEPBpClb06uh-Z4COb5mfL7E873H2Oja3UzAxmNTtiFida9KujmUMKuBmKeYREOCVIiB3Bpg_jsa0YMX-zwW2ii_BDpO_zDlqcFUKioDIvGA7V6_cZea_bwczUH7xesZs4QIUlmUn9YzCp1PC2gmT2RODmwQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fZijq2sdJxFh7EYo3eN_SvIxrEXPZO9a8o-_HOQoum-yaGMbF8a9qFK4EQF26e_c4dZ-H_cDO5DQWtIof9y7h3Wvkh7qMwCUP-MZ3unlk5zieEfoAJQXaNKajUGczLfunl3YqMYzxxFlKitHYgsPQcZImKIWCcOA3tyZNJqFIQIGTC8wE1umD_aZnZWwyGCk_VAgS7Ihee5wdA_gTYoe_2-IQS5zX3koGOl7PFqCPD5k-eXICjwoRnioT5gj1M-y0u_Vxe9MUgQxx8ms8OJQW2zwHcDbSnC_Xu3wKf5cy3YDi7vywp2ygMOqRWHTutfltX175xyxZuI4puz6Ew_s-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از ظهر امروز اوضاع نت اصلا خوب نیست و رو به بدتر رفتن هم رفته
 کارای مهمتون رو انجام بدین، احتمال هر شرایطی هست مجددا
 @danialtaherifar</div>
