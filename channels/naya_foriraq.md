@@ -292,13 +292,13 @@
 <a href="https://t.me/naya_foriraq" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اخبار ؛ امن ؛ دراسات ، خرائط ، OSINT ، تسريباتلا تظن الإدارة الأمريكية انها قادرة على إسكات شعوب المنطقة والله لن نسكت .. يوما ما سوف نعيد أيام عماد مغنية وسوف تبث العملية على هذة القناة ..🪪للمراسلة وارسال الاخبار@Nayaforiraq_bot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 18:29:16</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 19:03:51</div>
 <hr>
 
 <div class="tg-post" id="msg-87390">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">اعلام سعودي: انصار الله استهدفوا المرتزقة في المخا بـ30 صاروخا باليستيا</div>
-<div class="tg-footer">👁️ 730 · <a href="https://t.me/naya_foriraq/87390" target="_blank">📅 18:27 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/naya_foriraq/87390" target="_blank">📅 18:27 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87389">
@@ -312,7 +312,7 @@
 </div>
 <div class="tg-text">🇮🇶
 طيران حربي مجهول الهوية في سماء محافظة ذي قار جنوبي العراق.</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/naya_foriraq/87389" target="_blank">📅 18:19 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.77K · <a href="https://t.me/naya_foriraq/87389" target="_blank">📅 18:19 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87388">
@@ -327,19 +327,19 @@
 <div class="tg-text">🇮🇶
 عضو مجلس النواب العراقي غالب محمد:
 تستمر عمليات تهريب المشتقات النفطية من مصفى «لاناز» في أربيل إلى تركيا، عبر شاحنات تركية، رغم أن هذه الكميات مخصصة لتلبية احتياجات المواطنين في إقليم كردستان، وليس لتهريبها إلى خارج العراق.</div>
-<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/naya_foriraq/87388" target="_blank">📅 18:05 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.99K · <a href="https://t.me/naya_foriraq/87388" target="_blank">📅 18:05 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87387">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">اعلام سعودي: انصار الله استهدفوا المرتزقة في المخا بـ30 صاروخا باليستيا</div>
-<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/naya_foriraq/87387" target="_blank">📅 17:46 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.55K · <a href="https://t.me/naya_foriraq/87387" target="_blank">📅 17:46 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87386">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">انباء عن سقوط طائرة MQ-9 أمريكية في جيبوتي ولم يتم تحديد سبب سقوط طائرة الى الان</div>
-<div class="tg-footer">👁️ 7.68K · <a href="https://t.me/naya_foriraq/87386" target="_blank">📅 17:38 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.59K · <a href="https://t.me/naya_foriraq/87386" target="_blank">📅 17:38 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87385">
@@ -352,7 +352,7 @@
 <a href="https://cdn4.telesco.pe/file/86225a79fb.mp4?token=fjErm1xq2_iX9_7LVrePiCMuCS-_eRWb2Loz4DXrOK5DC4lpgXGLjaXHYL85voxCxU9p_Hs_f3TpkZKiyESVCyI1WKIffPDVVQc-BEUcuIjc4hNd0rHJtO396aElqds4hzC3VakmKoUDT5dEHFtPGWvU0dS3Mgz8jfljAOlHe4VLYJoZZd_Nc5-q4n2_v8H-vV3pzJkrgmYMXhp9D8ZpCtrR55caFDRQPZZUbnJNe44bsQAVfzm1dSsGdrSbQ_56zjVYaD1m9t0RZ7OTlMSTTxPRT_DJNOeboulfgPJsFdtdXRK5_gcbvaggtMR3elyA7kiLr-CemYqyG_-7bN0BZg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اعلان حالة طوارئ امريكية في جيبوتي</div>
-<div class="tg-footer">👁️ 7.78K · <a href="https://t.me/naya_foriraq/87385" target="_blank">📅 17:37 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.63K · <a href="https://t.me/naya_foriraq/87385" target="_blank">📅 17:37 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87384">
@@ -361,25 +361,25 @@
 🇾🇪
 مصدر يمني رفيع في صنعاء:
 ضربات القوات المسلحة اليمنية على المخا ومأرب فتكت بالضباط السعوديين وتحشيداتهم، الجيش اليمني سيحول كل تجمع للضباط السعوديين إلى هدف وضربة اليوم وصلت رسالتها بقوة.</div>
-<div class="tg-footer">👁️ 8K · <a href="https://t.me/naya_foriraq/87384" target="_blank">📅 17:33 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/naya_foriraq/87384" target="_blank">📅 17:33 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87383">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">اعلام العدو الامريكي يقول ان ترامب يتجه ‏الى تمديد وقف إطلاق النار بشرط كبح البرنامج النووي واستئناف الملاحة في مضيق هرمز</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/87383" target="_blank">📅 16:40 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/87383" target="_blank">📅 16:40 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87382">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">اعلام العدو الامريكي يقول ان ترامب يتجه ‏الى تمديد وقف إطلاق النار بشرط كبح البرنامج النووي واستئناف الملاحة في مضيق هرمز</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/naya_foriraq/87382" target="_blank">📅 16:37 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/87382" target="_blank">📅 16:37 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87381">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">طائرة امريكية كانت متجهة الى قاعدة إيلسون الجوية في الولايات المتحدة تعلن حالة الطوارئ لاسباب غير معروفة</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/87381" target="_blank">📅 16:32 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/87381" target="_blank">📅 16:32 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87380">
@@ -388,25 +388,25 @@
 <div class="tg-text">بعد وصفها شهداء الحشد بـ"القتلى" وقتلى مرتزقة السعودية في اليمن بـ"الشهداء"
 النائب احمد شهيد:
 تقدمنا بكتاب رسمي إلى هيئة الإعلام والاتصالات بإيقاف قناة خنجر العْدر قناة الفلوجة الطائفية</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/87380" target="_blank">📅 16:08 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/87380" target="_blank">📅 16:08 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87379">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">القوات المسلحة اليمنية تطلق صاروخًا باليستيًا على منزل حاكم الحديدة المدعوم من السعودية وانباء اولية عن نجاته</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/87379" target="_blank">📅 15:47 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/87379" target="_blank">📅 15:47 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87378">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">عصابات الجولاني تقول انها توصلت الى مذكرة تفاهم مع روسيا بشأن القواعد في طرطوس وحميميم</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/87378" target="_blank">📅 15:46 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/87378" target="_blank">📅 15:46 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87377">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">عصابات الجولاني تقول انها توصلت الى مذكرة تفاهم مع روسيا بشأن القواعد في طرطوس وحميميم</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/87377" target="_blank">📅 15:44 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/87377" target="_blank">📅 15:44 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87376">
@@ -419,20 +419,20 @@
 <a href="https://cdn4.telesco.pe/file/45ecba7daa.mp4?token=JfCn0SPRi_YKpN4UI2zfUkVvtzph24J66zRSjA78DdPcHBH87IDFp2eUTwu7zDkokZoQ19gVuae4iftS4lQH7tnHxvffk9x8ApY3-tjCxm3Bc3rIs3vSe7HDdu2cJgtSrOpfix1VuhPsuMy3Ydcn6YBkyTEIZCOSad-rQAiwATXppi56_duCRn5Tvv9cb1NNm1rxU2aGtQw87BVMMCc3s7HPOjoylnaee93nz4CCpdPeUsxudpkRSkJ1_jiiex78LG021UDQDnVKKQ_cDC76lFizfWc-UB7ecFYPx4q_XT6BbOLT5KweLpIIdsGd6GQC22R_LkINuolCeQAHEt39Og" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مصرع 7 اشخاص و35 جريح من المرتزقة في ضربات أنصار الله على المخا كحصيلة اولية</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/87376" target="_blank">📅 15:19 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/naya_foriraq/87376" target="_blank">📅 15:19 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87375">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">رصد إطلاق صاروخين باليستيين من قبل بواسل انصار الله باتجاه المخا والانفجارات تهز الميناء</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/87375" target="_blank">📅 15:17 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/87375" target="_blank">📅 15:17 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87374">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HcKOhwLmyaPyXHEqpl1r_UDMZVxffkk-nw1h59lWKKI8x0oEuZdFXJGOjVUHCHgixyOFthYBYUBT0hXED_smvPdAT3t1Zj9_PLR26vFAyngY3DZS5Gh8bsiQxVAOSM6bhxIofwuaNIlpJfA_X_VF3i5jFbbz3fmhjzYk7D_tHNfEWkdJR5esyEvZ8i7PJHQvKAxRSlV4N2SirOqxxBatzlrcqf9u4fArlHYWqgb0k2t8EYv2gmBpiMMNCM1ffqta-UNxqZGlidFJYVCTcJnGV83haxrDPOPO_aySK5bPynATIlsTbAfo-2ST3GBuT8wngVkDh0OIj7O4ZyNMjgC0Kg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رصد إطلاق صاروخين باليستيين من قبل بواسل انصار الله باتجاه المخا والانفجارات تهز الميناء</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/87374" target="_blank">📅 14:55 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/naya_foriraq/87374" target="_blank">📅 14:55 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87373">
@@ -445,7 +445,7 @@
 <a href="https://cdn4.telesco.pe/file/3801856749.mp4?token=r_N02k5ZBVTMWyFsPF5GyegX5XClbSkHPGlodf_Ne35xCRAxGTt4kgtwY9IKJJq5Hkxjl2_c7Oe7dbi8UkZQ2i-rAKTBj7vKubXdnNI7vKHMuZTqeGwjfy-yP5WHusfMI5eyB0RYDUSLAa4Nm3HFrtdenCcNa7ipuRj-ObVgTDTdfHSQinxQvx9sD4X1aUQBtJyJc_XslI1JpK4OZk3HWdCi7sMN8N7Uy_3ErDsgaH_e8dII8KriikJ01kZq37vcdpUO2L9fDUET-7CH5apVEL8265xaVZ1Il9tlM8E4Rhy--dCpgoF-yRyHOXLmnFGdgHrIsKkyIxSojs3jcBeJXw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">نتن ياهو: أود أن أكون دقيقًا. إسرائيل ترفض الوثيقة المكونة من 15 نقطة. سمعت بعض الناس يقولون: "لم تقله." لقد قلناه، ولكنني هنا أكرر: إسرائيل ترفض الوثيقة المكونة من 15 نقطة!</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/87373" target="_blank">📅 14:40 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/naya_foriraq/87373" target="_blank">📅 14:40 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87372">
@@ -458,38 +458,38 @@
 <a href="https://cdn4.telesco.pe/file/aa310c312d.mp4?token=UbPEaAzXTH-X_xgFZCYtB95UswHrLXJOz8pDBgBENU2Dhk_rRTChwIixmDOj1N5SCE0DcuRCC62k5PKoQUBHvA85X20JBYV7heZjz_8PmUBr7ILM72Ve_Y4k5q1JDRwo3A-RSmFhSjJKcJJkYVFQzSSvmyUxo7Ik2hmBSvaY--Ho4ihu9E2X3kLnIzfxIIO92fGrb5GBTdVG-osz1bnrcbL1xX-ExJdeBQecv5BG16372ZuXY76auihmJN-gB5-ur8bIRPrEtSqjLwI2rjTFll2yyyBSufTrEQK_K_9japB7EZNc7rhPzTgBUwn9ILLEykDEYwOCrJ1iC1n_FdcSY2t-jWsjf866jkxaic-d5SIIQ7YJ2112vmCHmlhDIMAew9SrDRo2hqXVYjluP07FLssqPUBT5PRiHmety4eEesE1BeBN3urYOFmXyfiaw8PJbdW5zNfDC8pdBB5DJrFkUp1Jp43UC1tzBTFFgGRQXwukR9_emDn805HdTAVYveM3QQiWy1H5X-yr-k3BgNYXet0qQsJ0ZlETL8R8Gx8KSL4Vk_znYbx4E-B6cSjKjHYvbxB4ZZx37VSH-Vn84DjIuDvwG51kTBzOej_TFCYcrNZ6nN_AAGGj3K7EadL4dbXRWB76F2xLGC2Ig5GQGcCmsLEiW20YgVcERG1YKz8l_Io" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">نتن ياهو: أود أن أكون دقيقًا. إسرائيل ترفض الوثيقة المكونة من 15 نقطة. سمعت بعض الناس يقولون: "لم تقله." لقد قلناه، ولكنني هنا أكرر: إسرائيل ترفض الوثيقة المكونة من 15 نقطة!</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/87372" target="_blank">📅 14:39 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/87372" target="_blank">📅 14:39 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87371">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vBRK6-10JU8QrMwoIlzfmzEiZVl79P6PdXjzfwE27ff48XGsOrz1oyweMy6fBISa3NwxLIk44ItlhpmHSP9g4P8e6UHATOo1oJiEacNGDkqzPhIGXVzarmUg-MSKBAdKZRyJVlPamuRzGg_Pr_3A0yNL6XKdfZ0BnB_-9-QE5frbHt6OV7tw18oj_SVVgLuAzytqz8widYU8Y0YUmlDSAPdklfQsJes6QFbW-NhSwWezLTdJHnvDWXk32GuN9Kh2wa7P0HrmEbgfEpmmqxNWrNlRtBV4UTCz4xtqpp22LnDcfpufKIT8nAcXgYJJDJJncc1y7DwcOtYt_e1beWnuVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">القضاء العراقي يطلب من البرلمان رفع الحصانة عن النائب ناظم الأسدي</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/87371" target="_blank">📅 14:30 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/naya_foriraq/87371" target="_blank">📅 14:30 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87370">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">اعلام سعودي: القصف مستمر على ميناء المخا</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/87370" target="_blank">📅 14:20 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/87370" target="_blank">📅 14:20 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87369">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">اعلام سعودي: القصف مستمر على ميناء المخا</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/87369" target="_blank">📅 14:16 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/naya_foriraq/87369" target="_blank">📅 14:16 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87368">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">الرئيس الايراني مسعود بزشكيان يلتقي قائد الثورة الاسلامية</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/naya_foriraq/87368" target="_blank">📅 14:03 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/naya_foriraq/87368" target="_blank">📅 14:03 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87367">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">الرئيس الايراني مسعود بزشكيان يلتقي قائد الثورة الاسلامية</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/naya_foriraq/87367" target="_blank">📅 14:02 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/naya_foriraq/87367" target="_blank">📅 14:02 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87366">
@@ -497,7 +497,7 @@
 <div class="tg-text">🇮🇷
 وكالة تسنيم:
 تكليف محسن رضائي ممثلاً للقيادة العليا للثورة في المجلس الأعلى للأمن القومي الايراني.</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/naya_foriraq/87366" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/naya_foriraq/87366" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87365">
@@ -506,7 +506,7 @@
 <div class="tg-text">🇮🇷
 مصدر إيراني لنايا
 ‏في إطار التغييرات الجارية على مستوى صناعة القرار الأمني والاستراتيجي في إيران، تمّ تعيين اللواء محسن رضائي ممثلاً لقائد الثورة الإسلامية في المجلس الأعلى للأمن القومي.</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/naya_foriraq/87365" target="_blank">📅 13:48 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/naya_foriraq/87365" target="_blank">📅 13:48 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87364">
@@ -518,26 +518,26 @@
 تستنكر هيئة الحشد الشعبي، بأشد العبارات، ما صدر عن بعض السياسيين من اتهامات باطلة طالت رئيس الهيئة السيد فالح الفياض، والادعاء بامتلاكه معلومات مسبقة عن استهداف مقرات الحشد الشعبي وعدم إبلاغ القطعات العسكرية، وهي ادعاءات عارية عن الصحة ولا تستند إلى أي دليل أو حقيقة.
 وتوضح الهيئة أنها، منذ بدء الأحداث في المنطقة قبل أشهر ولغاية اليوم، وضعت جميع قواتها في حالة إنذار، كما جرى، قبل يومين من الاعتداء، إبلاغ جميع القطعات بضرورة أخذ أقصى درجات الحيطة والحذر، وهو ما أسهم في حقن الكثير من الدماء وتقليل حجم الخسائر.
 وفي المقابل، لم يتخذ الفوج الرابع في اللواء 30 جميع الإجراءات الوقائية المتبعة، ما أدى إلى استشهاد العدد الأكبر من منتسبيه خلال الهجمات. وقد وجّهت رئاسة الهيئة بفتح تحقيق مع المسؤولين هناك للوقوف على ملابسات هذا التقصير وتحديد المسؤوليات.</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/87364" target="_blank">📅 13:48 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/naya_foriraq/87364" target="_blank">📅 13:48 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87363">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">اعلام سعودي: القصف مستمر على ميناء المخا</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/87363" target="_blank">📅 13:41 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/87363" target="_blank">📅 13:41 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87362">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">بيانٌ صادرٌ عنِ القواتِ المسلحةِ اليمنيةِ   بسمِ اللهِ الرحمنِ الرحيم   قال تعالى: {فَلَا عُدۡوَ ٰ⁠نَ إِلَّا عَلَى ٱلظَّـٰلِمِینَ} صدق اللهُ العظيم  رداً على استمرار العدو السعودي في التحشيد لأدواته وتعزيزها بالأسلحة والمعدات واعتداءاته المستمرة في الساحل…</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/naya_foriraq/87362" target="_blank">📅 13:37 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/87362" target="_blank">📅 13:37 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87361">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/O41mO--63bhyHsKDUaZbxTs7urGizA4zojjtP8k8t9c4EN9h0CgjBeKUHTwmet-0j4ygz4p16_lLuyC0xQ-XP9XQcaCsLoVtn0mkin2BAhEQE8PuYXXqb68aH8Kl7w-lqmkJTqeMa2By-7TRS3jSd45zeWLhJUbQPRAPvR-esUKDKm3YRqvK27_ZIktIPP9kOvjvvLQD3MlJD4ojsCLpd9yTwV8yQ2G47188KOLrQoUWRdbh5OQzMUSgiolaoYT-xQPaHG0mzvmHlKZ3mWq4GxsKVyEgXNBGUArDpuqqmdte6VinmeXXe14Vj14_piIH5GUpKaCdwAJWwJrNopmqFw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هل الطائرة اصيبت بهجوم يمني؟</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/naya_foriraq/87361" target="_blank">📅 13:36 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/naya_foriraq/87361" target="_blank">📅 13:36 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87360">
@@ -554,32 +554,32 @@
 صنعاء، 26 صفر 1448هـ
 الموافق 9 أغسطس 2026م.​
 صادر عن القوات المسلحة اليمنية</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/87360" target="_blank">📅 13:29 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/naya_foriraq/87360" target="_blank">📅 13:29 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87359">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ClCNWRSiU6C0KrjuMKHnlUnOQOMx09RLUEXlufw2XVgwb0IpbOl9ZIjaqxvWpdegsTcnVxzhCy8VLopvldXAfrxdbMrjSxz8YHNpAAL628qoqVHHBa-BOgoWQUQrC9-tVVbIMN3RVsXykilorz5ZOGcKl7UKj34WYOMDVXa0ajYlCerr4cBgtbPVpBhYK-A2tulDm7eYmLNwVlEEWu6mHwOpY_fLYZkyQC9udjUUMinotNwmLXupbw5UGqckuPUB1TjrPYHGdoQzbaLjiZE1CWvZrJZn6rTpbRoodmHfkkp60nsP0nPCvU2L3DorQyFxmWmT4tjU9bDcoOFlbTNHdg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هل الطائرة اصيبت بهجوم يمني؟</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/87359" target="_blank">📅 13:20 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/87359" target="_blank">📅 13:20 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87358">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">السفارة الامريكية في جيبوتي: طائرة امريكية في حالة طوارئ باجواء جيبوتي</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/naya_foriraq/87358" target="_blank">📅 13:14 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/87358" target="_blank">📅 13:14 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87357">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">اعلان حالة طوارئ امريكية في جيبوتي</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/naya_foriraq/87357" target="_blank">📅 13:13 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/naya_foriraq/87357" target="_blank">📅 13:13 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87356">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">اعلان حالة طوارئ امريكية في جيبوتي</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/87356" target="_blank">📅 13:12 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/naya_foriraq/87356" target="_blank">📅 13:12 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87355">
@@ -592,32 +592,32 @@
 <a href="https://cdn4.telesco.pe/file/d94b1eab85.mp4?token=Wk3f_K3fc6iR5VnyPPi45gf2xzxIULWE6FgiCCm7Vwdq85t3K4y0etnDpj1CUL1JCInOKqGMTxrMT5APkDbHNYsC-K5NhyczmxWok0ATmBw0PCXt7qcoPK9NFxlDrVEp9ii6-Du-4BqwDfo6pxIpNml2X27lbBRb6CyVOhsZuaw2Ona-h0a8pHIn5QFkO4XfwJosDiyqyEInvJYx3BxdkDhPcXx-AOtCxr9ExhdQVzT8oVWSpPjqXUvgxj7DNa1jJ1rVpJNCUS7ww1laxDEPdOQyMswi_RB6ZQUq3esgAzmK74vZGv-YRvWoWK4P_3MSuE9PWfjCyHBOC7O1InMctw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مشاهد من ميناء المخا الاستراتيجي على البحر الأحمر بعد استهدافه من قبل انصار الله</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/naya_foriraq/87355" target="_blank">📅 12:36 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/naya_foriraq/87355" target="_blank">📅 12:36 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87353">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">انفجارات جديدة تهز ميناء المخا</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/87353" target="_blank">📅 12:35 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/87353" target="_blank">📅 12:35 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87352">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">‏بيان مهم للقوات المسلحة اليمنية بعد قليل.</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/naya_foriraq/87352" target="_blank">📅 12:30 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/87352" target="_blank">📅 12:30 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87351">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">أنصار الله يستهدفون إمدادات عسكرية فور وصولها إلى مرتزقة السعودية في ميناء المخا</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/naya_foriraq/87351" target="_blank">📅 12:29 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/87351" target="_blank">📅 12:29 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87350">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MKrxowmHRtiUawQbM828GWzYw0RHlNPnziU0HSF6IHdg5-vna8IwC3EroePFFsb7uJ12MUsXQnsR3m4o5NNDXpArpxvp3l-Z4RxZygWI1rKAgKjLUYGTrAXfiFnYavGcYkj3zkRRJkwX7aCZKfOvu761glgz6HRGFPNYgfi9g8BhMzJbiiU_6msgBjiHBgdPLTaGLUbWFtR0uFizpCn83GQSZYlzOf6DI4vm_T_HWXq_CTnlGJ6YsrvtztSWgD8UVbJTEGacfuOWj4Iu9ZmJP6TUqoAJEyMTiS7iI7RrWv-_2TgMBZ2CUbGvb3YO_Y8Bno_bzPqrhaRJZMVxaTHaNw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">استمرار دوي الانفجارات من ميناء المخا عقب دكه بالصواريخ</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/naya_foriraq/87350" target="_blank">📅 12:07 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/naya_foriraq/87350" target="_blank">📅 12:07 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87349">
@@ -630,20 +630,20 @@
 <a href="https://cdn4.telesco.pe/file/d20a240712.mp4?token=TTqNmrec5SYYxU1T8WqPNTDVzhKC9RRATDNV-BC1dOPmixCEI8bEO3Kpdy5Le2zzZsF8S9OppxWUJcpO-Z8LoSZoW0Lxl8PpMHtoz_bvq_QjXH1onraheYaNfH4DS5f6EwhWim4CrRZuIFevIg3CoIXwRWcFpXvTfYK1BL1uldZGErSuROww438X-WyrQX9jxUU94XCL2VdW6CjzlPqgqZm0r3g3ZFGa7mfGY-s-KbTB-HFgHiTNWQ_GqDWT5tcvbqRQX-Fl7L9VQ4NFl1hGNhaa8e9zw0gm_7KCfliHIXW3TGyskB4UlQ90shHqq3XZu0C5NO7yE6mv2QKd6V8zpi1kKUtCtycAiz0OdjW7uicqF0Uj_LV50CzLPlhDPzTBnCL30qh_QPw9u-6yQ6HM_Rg4P9Wekzd5tf_zkUgXyHEpXLQo0tpnZmWe3HHN_2PUmwYEym99ARGbmpuDQ1WheBFPWY75xWb0q1glxsjCUAkPoqSVn1sDbv_U-r2JQXX1kIOpsiixKWYFdFV15rtTfLi9CALynsvkwsUXR-ixnYv6NPimeUyLfEsveH7vYjP3ldx3AefNEn2VWO2i-9Zq_Zqc1EqBBT_WQRHIrMkl1PLOAny2G59di95uTj6AMqNN5nJhk4DYluZOOzczpn9wjDTdDO1k_NzFNVqZkpOFOUk" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">استمرار دوي الانفجارات من ميناء المخا عقب دكه بالصواريخ</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/87349" target="_blank">📅 12:07 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/87349" target="_blank">📅 12:07 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87348">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">مراسل نايا في اليمن: أنصار الله يطلقون أكثر من 20 صاروخ باتجاه مواقع مرتزقة السعوديين وجميع الصواريخ تصيب أهدافها</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/87348" target="_blank">📅 12:02 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/naya_foriraq/87348" target="_blank">📅 12:02 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87347">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PT77JUqTAFMdL_ifJxd9pUZvOkb9LRaIdVYacVpwGuLJopgqu-kzjcqVgcVQrBUTsJ3_EG-fM9cO-SX_6RHdah4HNlG28eMN9ghgtg3A7tz6EqJTs-5D2zc4kDAEPcjuWYVHAhlJmQRRzAaPi_WTpENHmdejcbYcJMPR9TsPGAuxHT2MiBWiXSAq-XXXNr-M7D8CvdBj-clKO9xBJ-M9ZjrGLeW4nh4u1k6BOV_tOF8xj8kF6lziB5v6wwgNzYxTvPtvGw1L6vh4aiqIw-xV8GoGjMV8-BHt2M_Vw8EGc_YQqzJxJG6rIxPk6EmkcHFAqORQ-E9ax--4RyWkyiSrsw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">انفجار متتالية تهز ميناء المخا</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/87347" target="_blank">📅 12:00 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/naya_foriraq/87347" target="_blank">📅 12:00 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87344">
@@ -654,13 +654,13 @@
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/mvkyBdw2WoJ9BGPXWTja7k8XHbf9Jsxialf4qXuear8v2wGAZuRujjqi_Vqzz3u1uazSLcZ2Q_HOkhqpigdigRPndjiZ8yGxLflR8eOjiqHn9TlnLssibhcw35fsbjs4-imj9SWQb_WQ-6HYngB7QyXF5VLG6SlSEOb-zk64Mrn1w8Bs8Kbj7Dy43g32NE9Fxy_4hpmkUl_-tCw16YxJswX7NVIpS0SqAZYKl8Y5bf2yHrepQof0A3qp9sW9Tq1rWJ4NIn-2Oo0_IPvWRkSJO22MvlPvbMS21SDdCNOyKXdV8kYCFqn7f0_s7I7-_E0KRrm7IhqRWCgDX32GVThSFg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">انفجارات عنيفة غرب تعز</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/87344" target="_blank">📅 11:57 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/87344" target="_blank">📅 11:57 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87343">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">انفجارات عنيفة غرب تعز</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/naya_foriraq/87343" target="_blank">📅 11:56 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/87343" target="_blank">📅 11:56 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87341">
@@ -670,14 +670,14 @@
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/MpPY9h5FEttV-MHDvD4n8snp_ELsNyN-UV6N66AiB0nxY_O4mIQMIyMH5vjthxuGQ5FjCZpecSygtPn3sPf8RO5NSTtPPP3U3JbGEHjtib4UFQhQyw6ITrvH8-B6JROkuvMD7OvNgXIJ4TxxybHkC_F_Tc5_RX_YAp_MZWDOLYw5qvdL6hQ2Ewq_zXFHGwnXTCajvddoc9G9OD5ikG98SS2LEqLvozDAbtYa5JWTXJBs7xhw32ovhaApk7-M2UKrwq7P4bhhqg-KwbIRsbWDmRAXksNbpL8-wJidiUZ1X0rlE40Ernm_3Hy7fKsd1U2tvUcIhlysuN3K-66fA1yIhw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">الله أكبر   أنصار الله في اليمن يطلقون الصواريخ باتجاه مواقع المرتزقة</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/87341" target="_blank">📅 11:53 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/87341" target="_blank">📅 11:53 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87340">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">الله أكبر
 أنصار الله في اليمن يطلقون الصواريخ باتجاه مواقع المرتزقة</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/87340" target="_blank">📅 11:52 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/naya_foriraq/87340" target="_blank">📅 11:52 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87339">
@@ -686,7 +686,7 @@
 🔻
 🇸🇾
 إعلام العدو عن تقارير لبنانية: تركيا تدعو إلى اجتماع بين سوريا وحزب الله، معربةً عن استعدادها لشراكة اقتصادية وعسكرية في إطار قوة ستتمركز في لبنان.</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/87339" target="_blank">📅 11:44 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/87339" target="_blank">📅 11:44 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87338">
@@ -696,7 +696,7 @@
 القصف بالقصف
 الصاروخ بالصاروخ
 هذا ولم ولن ننسى دماء ٢٠ شهيد من الحشد الشعبي العراقي على يد ال سعود الظلمة</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/naya_foriraq/87338" target="_blank">📅 10:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/naya_foriraq/87338" target="_blank">📅 10:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87337">
@@ -704,20 +704,20 @@
 <div class="tg-text">والعين كل العين على مدينة الملك سلمان
 الأغوار وما بعد بعد بعد الأغوار
 صديك هندي حضر كاميرا انت نفر زين</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/naya_foriraq/87337" target="_blank">📅 10:31 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/naya_foriraq/87337" target="_blank">📅 10:31 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87336">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">لبيك يا ابو جبريل
 لبيك يا اكرم الكعبي</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/naya_foriraq/87336" target="_blank">📅 10:27 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/naya_foriraq/87336" target="_blank">📅 10:27 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87335">
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">المتحدث باسم الحرس الثوري الإيراني: استراتيجيتنا هي الحفاظ على المضيق إلى حين موافقة العدو على جميع شروطنا</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/naya_foriraq/87335" target="_blank">📅 10:22 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/naya_foriraq/87335" target="_blank">📅 10:22 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87334">
@@ -733,14 +733,14 @@
 </div>
 <div class="tg-text">سليت سيفي
 #شاركها</div>
-<div class="tg-footer">👁️ 7.38K · <a href="https://t.me/naya_foriraq/87334" target="_blank">📅 10:09 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.45K · <a href="https://t.me/naya_foriraq/87334" target="_blank">📅 10:09 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87332">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">🇸🇦
 وزارة الطاقة السعودية: اندلاع حريق في إحدى المرافق التابعة لمصفاة أرامكو بجازان.</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/naya_foriraq/87332" target="_blank">📅 10:08 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/naya_foriraq/87332" target="_blank">📅 10:08 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87331">
@@ -749,7 +749,7 @@
 🇾🇪
 تمكنت القوات المسلحة اليمنية بفضل الله من استهداف مصفاة أرامكو في جيزان بطائرة مسيرة وكانت الإصابة دقيقة.
 ‏يأتي هذا الاستهداف ردا على اختراق العدو السعودي بمسيراته أجواء محافظتي صعدة وحجة.</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/naya_foriraq/87331" target="_blank">📅 10:07 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/naya_foriraq/87331" target="_blank">📅 10:07 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87328">
@@ -761,35 +761,35 @@
 </div>
 <div class="tg-text">🇾🇪
 أظهرت بيانات نظام مراقبة الحرائق التابع لوكالة الفضاء الأمريكية اندلاع حرائق وتوهج حراري داخل مقر قاعدة اللواء الخامس العسكرية الواقعة بالقرب من منفذ الوديعة على الحدود اليمنية وذلك عقب تعرض القاعدة لسلسلة من الضربات الصاروخية والجوية بالطائرات المسيرة والتي نفذتها قوات "أنصار الله حيث أسفر الاستهداف عن انفجارات متتالية واشتعال النيران في مخازن للأسلحة والعتاد العسكري داخل الثكنة.</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/87328" target="_blank">📅 10:04 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/naya_foriraq/87328" target="_blank">📅 10:04 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87327">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">🇱🇧
 صحيفة لبنانية: إندونيسيا، وسويسرا، وبريطانيا، وأذربيجان تدعم تفكيك حزب الله عن أسلحته بينما رفضت إسرائيل أي دور لفرنسا.</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/naya_foriraq/87327" target="_blank">📅 08:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/naya_foriraq/87327" target="_blank">📅 08:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87326">
 <div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">🇸🇦
 إستهداف محطة غاز في مدينة الجبيل الصناعية بالسعودية والنيران تشتعل فيها.</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/naya_foriraq/87326" target="_blank">📅 05:12 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/naya_foriraq/87326" target="_blank">📅 05:12 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87325">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">🇸🇦
 إنفجار في السعودية.</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/naya_foriraq/87325" target="_blank">📅 04:10 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/naya_foriraq/87325" target="_blank">📅 04:10 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87324">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">🇸🇦
 إنفجار في السعودية.</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/naya_foriraq/87324" target="_blank">📅 04:10 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/naya_foriraq/87324" target="_blank">📅 04:10 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87323">
@@ -809,14 +809,14 @@
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T-rSb8fnsAs1cz4UK3BHUm4ebVtCgCP3xL3qHJWbVF6DvWa5DebfXOsyUTdjnA0tcvc7Xap_bo2B1zeXH0nd-LrhDVpqpYLQQZYJEMauHxhlXIajahrZdh90T8_l42YFUTUD33UlNhTZyIDj2YqMphxxbp21BQwqVsZtr_hXo0tPSgoR8HKHt7TFaZGcijB-nTE_GzV7HD4djeAMUIWuNx1MrDDRFnafjEX_0cpoZU8HGSfOvutb0M0fKVjvOyeZ2xGWMfp5UbT_TvFUV04-N80wOE39ZuB84BYmFzNiDqjL5xEZvHL7jDdm9KNG8eHTNuvhLlI4ACGQsm5iVBxk0g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">الصورة لنفس الشاحنة ومن زاوية مختلفة مع شاهد ١٠٧  التي تم عرضها على العربية الحدث السعودية والتي ادعت انها في بابل   تنفرد نايا بالصور للعثور على نفس العجلة لكن قبل حوالي شهر و في محافظة واسط   العربية الحدث ان تكذب اكثر</div>
-<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/naya_foriraq/87322" target="_blank">📅 02:21 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/naya_foriraq/87322" target="_blank">📅 02:21 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87320">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">🔻
 دوي إنفجارات عنيفة في محافظة ديرالزور السورية بالقرب من الحدود العراقية.</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/naya_foriraq/87320" target="_blank">📅 02:11 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/naya_foriraq/87320" target="_blank">📅 02:11 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87319">
@@ -835,20 +835,20 @@
 <div class="tg-post" id="msg-87317">
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">مصدر امني لنايا ينفي   قناة العربية السعودية اختلقت رواية من صور تعود لحدث امني حدث في العاصمة بغداد قبل شهر .   المصدر الأمني : لم يتم تأشر اي عملية عثور على مسيرات او أسلحة في محافظة بابل ..  المصدر الأمني اكد لنايا ان الحدث السعودية والتي تبث من الرياض…</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/naya_foriraq/87317" target="_blank">📅 01:40 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/naya_foriraq/87317" target="_blank">📅 01:40 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87316">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vq52SjfdDPmEFOgnZUt25vvufiUqObtoNmqPeqd7LYjWPAuFyl4KUSsQSqJt_w6s-wAkPJ-myG2AXSyXwTbVqwZx-3HvfqRKU4K-0bSsb6rWzLzpVYasZQ9Y6u0wcHCZYCOwJEfRvKaaiHr4bFBgvwZypm0_25zQccvEErp9CD4t6zDeLBXQ8ofZgKJ_yNR7iKHcpesdVnJEBA3x0-_4g7FsQvSN-5LVxt8bcX3VMH73OjqiFsi2iDtdoz02MYcmlp1t4o9UTExTx5wUVKGHAGW9D-gZ_fHQhMEYgNDf9tPwW8wq_swTk6EOlijUHLf58hvgBjHStHrYloReR0Zgrg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مصدر امني لنايا ينفي   قناة العربية السعودية اختلقت رواية من صور تعود لحدث امني حدث في العاصمة بغداد قبل شهر .   المصدر الأمني : لم يتم تأشر اي عملية عثور على مسيرات او أسلحة في محافظة بابل ..  المصدر الأمني اكد لنايا ان الحدث السعودية والتي تبث من الرياض…</div>
-<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/naya_foriraq/87316" target="_blank">📅 01:39 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/naya_foriraq/87316" target="_blank">📅 01:39 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87315">
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">نشرت منصات حكومية عراقية خبر لما اسمتهُ العثور على مسيرات كانت بصدد تنفذ هجمات ، المسيرات كما تبدو في الصورة هي من طراز 107 شاهد ثابتة الجناح ؛ لكن لم يعرف وقت وتاريخ العثور عليها حيث شهد العراق منذ حرب رمضان على حالات امنية تم العثور من خلالها على عدد مختلف…</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/naya_foriraq/87315" target="_blank">📅 01:29 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/naya_foriraq/87315" target="_blank">📅 01:29 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87314">
@@ -906,7 +906,7 @@
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">🇮🇶
 الشيخ اكرم الكعبي: فالصواريخ لا ترد إلا بالصواريخ، والنار لا تقابل إلا بالنار.</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/naya_foriraq/87309" target="_blank">📅 23:39 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/naya_foriraq/87309" target="_blank">📅 23:39 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87308">
@@ -915,7 +915,7 @@
 <div class="tg-text">🇮🇶
 الشيخ اكرم الكعبي:
 فالصواريخ لا ترد إلا بالصواريخ، والنار لا تقابل إلا بالنار.</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/naya_foriraq/87308" target="_blank">📅 23:27 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/naya_foriraq/87308" target="_blank">📅 23:27 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87307">
@@ -923,7 +923,7 @@
 <div class="tg-text">🇾🇪
 مرتزقة السعودية في اليمن:
 انصار الله يجددون استهداف مدينة مأرب.</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/naya_foriraq/87307" target="_blank">📅 22:23 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/naya_foriraq/87307" target="_blank">📅 22:23 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87305">
@@ -934,7 +934,7 @@
 </div>
 <div class="tg-text">🇮🇶
 انقلاب صهريج نفط في منطقة الحرية بالعاصمة بغداد مما ادى الى احتراقه.</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/naya_foriraq/87305" target="_blank">📅 21:00 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/naya_foriraq/87305" target="_blank">📅 21:00 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87304">
@@ -970,14 +970,14 @@
 </div>
 <div class="tg-text">🇮🇶
 انقلاب صهريج نفط في منطقة الحرية بالعاصمة بغداد مما ادى الى احتراقه.</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/naya_foriraq/87301" target="_blank">📅 19:57 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/naya_foriraq/87301" target="_blank">📅 19:57 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87300">
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">🇮🇶
 إلقاء القبض على السياسي أحمد الجبوري أبو مازن بتهم فساد في بغداد.</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/naya_foriraq/87300" target="_blank">📅 19:50 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/naya_foriraq/87300" target="_blank">📅 19:50 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87299">
@@ -987,7 +987,7 @@
 فضیلت آن است که دشمنان نیز به آن گواهی دهند.
 صدام حسین دربارهٔ جنگ تحمیلی علیه جمهوری اسلامی ایران سخن می‌گوید و بیان می‌کند که ایرانی‌ها به‌خاطر حوادث کویت و تحریم و محاصرهٔ عراق، از گرفتاری او خوشحال نشدند و شماتتش نکردند:
 «آن‌ها کینه و دشمنی به دل نگرفتند و از وضعیت ما ابراز خوشحالی و شماتت نکردند؛ بلکه با وجود هشت سال جنگی که با آن‌ها داشتیم، خواهان همکاری هستند؛ و این‌ها از صفات مؤمنان است!»</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/naya_foriraq/87299" target="_blank">📅 19:39 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/naya_foriraq/87299" target="_blank">📅 19:39 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87298">
@@ -1012,7 +1012,7 @@
 🇺🇸
 امريكا تنهار من الداخل بسبب ايران
 إعلام أمريكي : ‏ عائلات 5000 بحار على متن حاملة الطائرات الأمريكية أبراهام لينكولن واجهت وزير البحرية الأمريكية هونغ كاو بسبب مزاعم نقص الغذاء وتلوث المياه وإرهاق الطاقم.</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/naya_foriraq/87297" target="_blank">📅 17:17 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/naya_foriraq/87297" target="_blank">📅 17:17 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87296">
@@ -1044,13 +1044,13 @@
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Min1FiHl8JSnUVT6LiR3hYqP8F2Kqp48m88ssyWci_tnhKSqBKeuunoZ2D910PwcyLzmmfZoYbsdMl1sKaSVUscr0sUM5q-m2X6kR-v05qBuYQdjUqopgxGetpjcZH0Lw5CGpK0Fy1PQbTUb-UQncjm61BYxY4QOSbEwT4TUaT0MGyE1MLefGuBlRgnomW1gAIqMmk8X1AbgyzDA7jodU_w-nrjXOQkPFJ8-P994N4-vn085XxZlbDy-rFaBYEXfG0W90myPMETBJLmy5reKgoI0mcjk-2sPRH2G4K6uGGUY_datHJIxytvMIeI2PmIwg2yGDGmBeWSm7Bxa2-MvjA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">الله اكبر</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/naya_foriraq/87292" target="_blank">📅 16:40 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/naya_foriraq/87292" target="_blank">📅 16:40 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87291">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">الله اكبر</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/naya_foriraq/87291" target="_blank">📅 16:39 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/naya_foriraq/87291" target="_blank">📅 16:39 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87286">
@@ -1112,7 +1112,7 @@
 اصيب جندي في
 الجيش الإسرائيلي
 بجروح متوسطة في حادث عملياتي في جنوب لبنان. وتم إجلاؤه لتلقي العلاج، وأُبلغت عائلته..</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/naya_foriraq/87280" target="_blank">📅 14:29 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/naya_foriraq/87280" target="_blank">📅 14:29 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87279">
@@ -1126,7 +1126,7 @@
 <div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">🔻
 السفينة التي تم إستهدافها بالقرب من الساحل العماني في مضيق هرمز هي ناقلة نفط تابعة لشركة أدنوك الإماراتية.</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/naya_foriraq/87278" target="_blank">📅 14:00 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/naya_foriraq/87278" target="_blank">📅 14:00 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87277">

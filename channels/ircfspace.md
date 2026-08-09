@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 18:29:16</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 19:03:51</div>
 <hr>
 
 <div class="tg-post" id="msg-2545">
@@ -307,7 +307,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -322,7 +322,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2543">
@@ -335,7 +335,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2542">
@@ -351,7 +351,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
@@ -366,7 +366,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2540">
@@ -381,7 +381,7 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2539">
@@ -396,7 +396,7 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2538">
@@ -414,12 +414,12 @@ iSegar0
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2537">
 <div class="tg-post-header">📌 پیام #92</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/aC0W5tiCLkMsneKhCui0tRaFyEtbmsABIDYV4uaF_8I5M-VjneISnGxa8kYs6uNrdhnAQgM0XimbPae-cat0eGTpSlAH3o_adAsL-B7m-O9U6DQxrHV5zahBlIdRdHG6t9CwC0m-iCDud-k-k8EQY7jPImAYJgUktuSvGzkJbfjsz6xBgBIH2M0p2Jnb8eb1Tnq8gakkfnzehDi8ND911Ldwr5jnPlKi9R_MPo1L6ZyxL-EVgvkUtwiI0vWSPm_MbUbZvC-rVUvOpxyOsot6i85OQTeIQwzx0tBvp9WrsJJKAiwXPp5c05KTgjg68uWRRsujdE2sCYxxBF-_BRIarA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/I5vskjihyxAmaFI1NALPhYLsHPbYqWqzHZmCdE2zpvROS2wxS4MwCPJ5lBlJ3T21RhFwh3htIYqX0p4f-YAWmMBJ8PJroMzuDRrbD8kMPR2sv75UX-SR4lM1wi60NnqYaf8a4hEOw6-EJwUk9SW9wEtCHbMm_8ELoz2L4x7DW8dNTEFYyF1j4Q3oRAzqpKkpAaA80u-ZhlM_60bn6g_XL58WKs2cK7rrweLA2BoiQtrrO5eYCwhOUW4FV2QXZu6BNanek7WPb6nbNWj-zFDSqLOSlD1E7AgL7WFb6UoSEhF4FARCy9MAwgOBfugy6RTlPD9mLfGl01xHloiqqJqGtA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aerial یه رادیوی متن‌باز و رایگان برای اندروید هست، که باهاش می‌تونین بدون نیاز به ثبت‌نام یا استفاده از فیلترشکن، به ایستگاه‌های رادیویی مختلف گوش کنین.
 👉
 github.com/shapeshed/aerial/releases
@@ -435,7 +435,7 @@ github.com/shapeshed/aerial/releases
 
 <div class="tg-post" id="msg-2536">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HzJnVC3FYSGiOJunUqXHn5GG3-yJMitibe38buV9GBeYEI4fVD7N0CFOJ4KJdYVwV0_H0bMJHSLGq2hy9cFgYS_mEiGpKq72Bcq-lZ8KIsoz6HpSKOLyvQcPnak1fKLtocr6DGUG99rAYtI0GI21YHp7Xzql9_roiW_uAzAW727LRLeL_yE1CPu-AyAXo7wgJpWphsJXsN5tfHB0CQRmg86TJiX2u5ptGR2uPOPO6U51cZEFPNTc0FHg1-nKAbo9bTgj7FVQZFx3yWIHe9P7TZDtXAzwPq3U_dKUKuaGeHlUGOu1Adl2c8SSHzxqSLEwklyNnDqAaG-KKNcpnqOyaQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cOGcjoJWKxM12Uf5rgveb1BYGvcwHn2s6UW3xxUupiTxma-2uFin4GxVK5NfFiFI4iPQ7bm508308plz_Om7C2xTwS3yQZb19pSLBX5aDpVpSVHnopWNUVydfBQ8OTmyY4WStHtDPoaWmefuVZpXeMR9Js9WOaZfyJzohJPI2knP3jRcqpgr5_bWIdzj2bJdH0UQe_5ERUjqsB6uK9IaV-SOPtQSNTTHzNcCO0vvSq6kva5XiWaD477lItaQ01qOEgbnRMVx35_LM-uKQL3SframmTpneiXIqzn5VELi6MekaT8TZmIfDQ40GuNzXMJ7NLrmCpelgkL8--Rizzarfw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه سری برنامه مثل GlassWire، NetWorx، TrafficMonitor، DU Meter، DataMan و ... برای اندروید، آیفون، ویندوز، لینوکس و مک هست که باهاشون می‌تونین مصرف اینترنت خودتون رو بصورت روزانه، هفتگی و ماهانه مانیتور کنین.
 چرا میگم؟ چون صرفاً مصرف اینترنت شما اون چیزی نیست که خودتون دانلود می‌کنین و ممکنه خیلی از برنامه‌ها در پس‌زمینه مشغول رد و بدل کردن دیتا باشن.
 🔗
@@ -491,7 +491,7 @@ Farshad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 54.1K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 54.2K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2532">
@@ -772,7 +772,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/ircfspace/2517" target="_blank">📅 18:20 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/ircfspace/2517" target="_blank">📅 18:20 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2516">
@@ -805,7 +805,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 47.5K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 47.6K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2514">
@@ -1595,7 +1595,7 @@ Mehrdadlinux
 
 <div class="tg-post" id="msg-2465">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/af6s4EfVEVXNP2EdGO5MRbHE7Tsa_IAvZTxjyju_4UK307dpxuW3Bs7rAR3X0LJ6G8VPZgJHDGLB_ZYERLWX2B7f6gnNSbHbdmUsPBxOMS2FBQtLx-E3-gcn85BgwqrsG2lhPxGHIp4TfntqlDEuft-tacAT5hitW1Lvwx2TyrAWKqP0JfIQVGvvum_p68iECjHa47HYjWoC01BCFMmRch3OIh-XJaugHXBjnX5nPr1nUnDyfS05BXQi7BJemjzs9Fwqk8isw1oUYCkoDD2OuP7BOC75ps_zVsEYJ6RmUGuHFyNS9gpJup40uL4KByWBD2HNQj3_v7kVAIH5_qCbpA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WYdXISd1pJcN_4YiGFEivXbsU-xoGJqVR0pcUOSGEMhWZvbOO8pIfCxmwB0NRcQPvxXCcbzVCAIt12e4srWd9aKphrxtk3O-Iu1MP9phGfGTg2Sz2Ovhz8LuNRyP1P3_A_yFYjUt_ySSOJWJWEDrszKH2m9qnUqRGMnpYq8rf3ngFodKN5IkanSWlStOU0hBHhayhVzRmfHVCLAvznKSuz2libMCUd-1zIxbT5w4H3xVd_6_RGuySxbecw50Qn05Gc3Hl29x2IZQ1jr4nYvb-rxIou00_SJ1J0MIRmzMUKzu8La0c3_6AQypDBMBeOWhPT6LyIQMSpSU9XyB-1rMfg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در این چندروز احتمالا در مورد اکانت ویکی‌تجربه و سرنوشت نامشخصی که برای مالک ناشناسش رقم خورده چیزهایی شنیده باشین. متاسفانه دامینشون رو در ایام جنگ و قطع سراسری اینترنت نتونستن تمدید کنن. بعدش این دامین توسط ابرناک ثبت شده و با یک پیام مسخره و کینه‌توزانه، صفحات سایت تغییر پیدا کرده!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1627,7 +1627,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 
 <div class="tg-post" id="msg-2463">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lbSWr6MtkwuDP0Qg64j4w7eJ6VFfhkmwS3EGoIc4VUyvtRdjTqINA1P5_vzweUEGbMaB2R4oY3QbHlPTTBbNRGQwBGpGIwNGJ7ZGRQlUXKET6XfyVCnmoF9Wd1BfM6u_I2LhvZvHe_B5DorCSfCbubho8GnRzW8pH4SrgnJbHTqxHvOeSawxmVRCGH0EN_vF7Z04HnsnXmI0zhc0CqbsAs7xF2B8ChBoIjMSdeQm-DZDU6i7-LEOQWTGAYJ00dVff8FFQFsJadMorHwNsa-pwgfxHXtU0eKHhZjbD-ixW7kD2rC9xQp-3-_0_IG9bl-OanO8ovVwgyzyjG0bR-1NwA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uSLH2RDQr7ByxDgBA33-02UX8YaU8gEn_ToII5mbUUhDyZ9pvK4sU6dm5ZCe8rDG_qOqlEfV1bndeHMcNqB206253dJuiYzSIqHtkxb4V87CyZiZbqKpOWZa1_PZOJB9r35L40fLI91-bGJd_Fwyn9qfIjIMPcgUHjv0bXgAsa-7beKT5Kd2N5Fjr7hJ18eVLQ1hkt_r2fzciZZ_zczX8Ad6KhoppkD5g17MTVxn8IYq7b1AceE6E7MEViLYdd9PcTXifuSE3Ka13nHTaMbnXtnc1U3Mw0TpFA-ZproxXMsyJx5iNv8wOloA-wHWTE658zlEKw2HKO0V5tBB--c8rw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ RedCloud VPN یک کلاینت متن‌باز و رایگان برای ویندوز و اندروید هست، که با استفاده از هسته Xray توسعه داده شده و امکان اتصال از طریق کانفیگ‌های VLESS، VMess، Trojan و Shadowsocks رو فراهم می‌کنه.
 این برنامه تمام ترافیک دستگاه رو از طریق تانل‌های رمزنگاری‌شده هدایت می‌کنه، از قابلیت اسکن و سنجش همزمان IPهای کلودفلر هنگام اتصال بهره می‌بره و همچنین با استفاده از قابلیت Sniffing، ترافیک HTTP، TLS و QUIC رو شناسایی می‌کنه تا عملکرد اتصال بهبود پیدا کنه.
 👉
@@ -1687,7 +1687,7 @@ shokhmatic
 
 <div class="tg-post" id="msg-2459">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nKtFNyQeaXGWxnlZSSCIAd4yVfaU1Pi5WVjV7RvSvKLSR3NSttduOe2X9xL4ue7R3qReKa6JBs1xuZk38A2ruEPFdg-G1cF5XhONDe8tUADhUkDdy12pGP8JY9aUmRled2mpFuQFDikQUnuoHZhZeI7v4fNTMGdL2UzF_ebA9lbAdQZ5uDyOvjy1Z_HnCWvGk0KCLlm7H5yeqeO8SgUrMLM9z4K1LG1CUvvZiktmAoMBmE0shLMfN0M23J6iGs-93_mggoA8H409ODn8ocsG6xOJfM65uP3C7KAJNGsl6Mj9VWSkOCka8ks0nw5oCUHX1rLTxjjsckd3EzEZp6mL6g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EqW_y2VV5TeQpj2CKaqwp2PAULrJuQUafNUsraxhlPE5nVtKskfTSHf0v39xxaXIwPiQNyh3gHDtt5GtgHSSVyPKrFQ8vFsoeCPOrC2q7RKdGO4o3mu0B2dujvL4sJ71mn0isr4WRzDWRWdoZnH8Z2-SEZe7tX0IRPyPh1jEAFxJoDWsFF2Gf_adKDpSk-CX6NHYtqwT77WZRNRnFBCDTNv266VxswvV7S6uQDf0pkugqSAvhb6ZG8JIYCCKvMVghTjFF3WFI8n2cAXx7iFUkQwvqxLx_VwyfKbEkl_q-IIrzDUqwqj33uVajRKPUDZK5yc9yl1rN9IA8bt9h_Ln5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کمیسیون اقتصادی مجلس طی نشستی با ستار هاشمی، وزیر ارتباطات و فناوری اطلاعات، از عملکرد این وزارتخانه در دوران جنگ تقدیر کرد. /دیجیاتو
 بابت تقدیر یه کاسه دادن دست وزیر قطع‌ارتباطات؛ اما بابت ۸۸ روز
 ریدن
@@ -1761,7 +1761,7 @@ github.com/SulgX/SulgX-Panel
 
 <div class="tg-post" id="msg-2453">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/u1Podd9kGhDAevJ8JD-lCmFhdtj0J66YBCMSUU2gBuRoH2w2g_IslcJvLJlSlp5Wj3nUYxMMRiBN2lRDsZjoWFKe1_KAoArdiic2BMxWjAWw_TeNDIrXAJ35DkMhuVAAjJzZzCgkLNcdOdAH22Xq5-lA1GTkmg9pWDS7xT0taZUCx7Y-YxQQwQdVal7hW7_hLDhm-_Ragwr28chIPk-uV1UOOkNT0O7YFZ5KlvoMGY1saB0K-SDriOJtaZWm3LB4GNAOFg1kaKFmEJ22l3Ued7SYlM0Jfy89M-IkFNQwnpH2V2TChzMtJgfqC_4hqfl1xArGYq-xztlCDxUMXdSUig.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/j89VntjQieHNx0lkT8V4sbUnXxGF67S_bzPsSHKCH9wBG7IMB_XPjQSZq_KekVe98fh5ak5ymohlIU6w8w-iUAdu0MyPpKQ42RqlGj5vsiqRO9dwAsLeIJIMlHdGXMKArBb5-J-YtVyP_N_yyUbZHqhf25ma-2ECD84aOjFXkOBp70s2qqNz2a6fW63IStYVMnPKHgF8rkrIWOvvzwSfE6bWoBkdEvUu2UBOoM4xJNfQxeSaEXbEYZRT_mR0imfLlqdvE_KHJJs4FeNcIvsjsChYqHab1OLniCmanaIPwDtOrxsaSBLraKdjHrXF_5oQrcmKGSUO3ed_V5e83yFHlQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی از کاربران ایرانی به نام MrArrow دو مشکل مرتبط با فرگمنت در v2rayNG رو برطرف کرده، که از نسخه ۲.۲.۵ به بعد این اپ اندروید در دسترس هستن.
 این کاربر توضیح داده که "چون تو شرایط فعلی اینترنت ایران Fragment نوع
 tlshello
@@ -1789,7 +1789,7 @@ github.com/2dust/v2rayNG/releases
 
 <div class="tg-post" id="msg-2452">
 <div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/aKdo6MoNvUntRlGox7L6SWVIN2xYqhel98RNPJOFmRcFh1hGoXR-4QIy22rOrLkOe0NJEfnnbg3KbFut_CKRrvLy_5milm7x3GlJLHcPqtlFz753mKnX8DSlevbIKOelwwFSubmitdeFPAyr46F-k-jeuWo8VFXHXxSYcigE906iFAESDauF5828ITUbGScBAPzcQRTM1hnJ4bsC5UnvRHH4XDPBKanSw4uAUtWrJldsbBW_jBOSJxD_AHvWKKsKCl9ula7B8ng66tjIcntPAlkTlvri1Yl2T0jChrkTkIkM8G3DwbKTPwJQ1QrZyCmJ6LLydb2ol7wkj_04Qlb4gQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ja20hcpL-r6DBtAqy7mIfGkYpaK8uWv9v92UpQuyvrH_AJTiceAUzHsyrTXZPgaG0Bjyg4rDrXMdL1RaOopkUKJM09CyE3lkkgdJ3GC2yPpePJF0e65NFMyEqero9D4jiZKlsfQa3UanbtuLEk3_vr5cZTDI7EEitm3DCrWoUndI5hp09QWqNCs9eMl7qvdmjk2JU9pqs-Zj2dP5LxAckwUS1N2-hYlr5nq--nkcorRSVu3cQHoj89gQvD-Xkw8-HSZkmSKPemO1eRyZ7DX6MYgfWQIGrxmoodbRcFf1LOK96RaLyjuJvhOX_5U9TzuQTC1u_vO7y9E5x0YLrQsoSQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مارکت اندروید F-Droid (که کاربران میتونن بدون وابستگی به گوگل‌پلی، اپلیکیشن‌های آزاد و متن‌باز رو ازش دریافت و نصب کنن) هشدار داده که گوگل قراره از سپتامبر ۲۰۲۶ قوانین جدیدی رو روی اندروید اعمال کنه.
 طبق این ادعا، توسعه‌دهندگان برای اینکه برنامه‌هاشون روی دستگاه‌های اندرویدی قابل نصب باشه باید در گوگل ثبت‌نام کنن، هزینه بپردازن، مدارک هویتی ارائه بدن و اطلاعات مربوط به برنامه‌ها در اختیار گوگل قرار بگیره.
 منتقدان میگن این تغییر میتونه نصب برنامه‌های مستقل، پروژه‌های متن‌باز، نرم‌افزارهای شخصی و حتی برنامه‌هایی که خارج از گوگل‌پلی منتشر میشن رو با محدودیت جدی روبرو کنه. به همین دلیل F-Droid و برخی فعالان حوزه آزادی نرم‌افزار معتقدن اندروید بتدریج از یک پلتفرم باز فاصله میگیره و کنترل بیشتری روی اینکه چه نرم‌افزاری روی گوشی کاربران نصب بشه، در اختیار گوگل قرار میگیره. به همین خاطر کمپینی با عنوان Keep Android Open راه افتاده تا کاربران و توسعه‌دهندگان نسبت به این تغییرات آگاه بشن و به اون اعتراض کنن.
