@@ -292,7 +292,7 @@
 <a href="https://t.me/farsna" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 حقیقت روشن می‌شود‌‌تبلیغات@Farsnews_adsارتباط@FarsNewsفارس‌پلاس@Fars_Plus‌ورزش@SportFarsجهان@FarsNewsIntعکس@FarsImagesپیام‌رسان‌ها@Farsnaاینستاگرامinstagram.com/fars_newsتوییترtwitter.com/FarsNews_Agency</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 02:27:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 02:56:49</div>
 <hr>
 
 <div class="tg-post" id="msg-455238">
@@ -304,7 +304,7 @@
 @FarsNewsInt
 -
 Link</div>
-<div class="tg-footer">👁️ 1.04K · <a href="https://t.me/farsna/455238" target="_blank">📅 02:19 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/farsna/455238" target="_blank">📅 02:19 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455237">
@@ -313,7 +313,7 @@ Link</div>
 🔹
 منابع خبری از حملات مختلف رژیم صهیونیستی به مناطقی از جنوب لبنان، و هم‌چنین مناطقی از نوار غزه در فلسطین اشغالی خبر دادند.
 @Farsna</div>
-<div class="tg-footer">👁️ 1.68K · <a href="https://t.me/farsna/455237" target="_blank">📅 02:11 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/farsna/455237" target="_blank">📅 02:11 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455236">
@@ -327,7 +327,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/farsna/455236" target="_blank">📅 01:41 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/farsna/455236" target="_blank">📅 01:41 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455235">
@@ -344,7 +344,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/farsna/455235" target="_blank">📅 01:19 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/farsna/455235" target="_blank">📅 01:19 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455230">
@@ -359,7 +359,7 @@ Link</div>
 <div class="tg-text">📰
 دکۀ روزنامه | دوشنبه ۱۹ مرداد ۱۴۰۵
 @Farsna</div>
-<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/farsna/455230" target="_blank">📅 01:08 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.77K · <a href="https://t.me/farsna/455230" target="_blank">📅 01:08 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455220">
@@ -376,7 +376,7 @@ Link</div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/lAGw2SbF0SuQWxnT2nE11GRKF_G2yCt-ZJFyHMIDspHIjKwcM9BAEZ3PFB3JJrs1UeVSedVVkRES0O1eipghjvlyULm7d3tqA20XibJhUeo5CiUPxl19ASPtBekhKvJGJ8_SRiZkdb1uG7_X5ETMfQx5WQnlQtEEMj3TAPaEmCHcGdLsLr0KoGgHmsUfKE-BfM-H9eGe_7kYOtWbcdyCL4MbueiktB5IkRqQwNaDFT83yJEAaD86ZfkSPejeqADfM5w31-OlM6HEKw2v5oZ1OMEBHJMbgz_A_uQlYuJbi0-cQzPDukDYdMBrQX7O78oBXrZNsYzDTLCXsdsHQETokA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/t_lGQ0srxJtCo_BHZEiyFd6zLESU5ElXGeGvM-KmVwOPgxXet_6TClqDSz7IKmUmSBwUbI9ujfZRKKa-fR3Fr7AmpW7zGB5-mGelf9qkvYgZr-meCmymuu8QDjrqv2E8tk14zg2FpJ-nDFeKQZOwzM2XGkMOGJiy-G4gnS6xnAzPDmjHbSu1L5ZnKWnqHG5JsVFaQheSd5MQIOFuUWkyfwBJgmOYdRmTYiseA4ZH-6JA6BLGarytNO-ZgKCmbmvRWtGSEce5qmM2K_IADViT0YjgECJ72FQmrVDUs-ROdUDplr0a2wD55RhhSQR3qGQ9ab910GjDdOjktNcsU1Mv0w.jpg" alt="photo" loading="lazy"/></div>
 </div>
-<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/farsna/455220" target="_blank">📅 01:07 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/farsna/455220" target="_blank">📅 01:07 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455219">
@@ -391,7 +391,7 @@ Link</div>
 <div class="tg-text">برخی منابع خبری از شنیده‌شدن صدای انفجار در نزدیکی تنگۀ هرمز خبر می‌دهند
 🔹
 شبکه راشا تودی گزارش داد، شعله‌های آتش از فواصلی دور بر فراز آب‌های عمان قابل مشاهده است اما علت آن هنوز مشخص نیست.  @Farsna</div>
-<div class="tg-footer">👁️ 5.68K · <a href="https://t.me/farsna/455219" target="_blank">📅 00:58 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.17K · <a href="https://t.me/farsna/455219" target="_blank">📅 00:58 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455218">
@@ -400,7 +400,7 @@ Link</div>
 🔹
 شبکه راشا تودی گزارش داد، شعله‌های آتش از فواصلی دور بر فراز آب‌های عمان قابل مشاهده است اما علت آن هنوز مشخص نیست.
 @Farsna</div>
-<div class="tg-footer">👁️ 7K · <a href="https://t.me/farsna/455218" target="_blank">📅 00:49 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.37K · <a href="https://t.me/farsna/455218" target="_blank">📅 00:49 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455217">
@@ -416,7 +416,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.29K · <a href="https://t.me/farsna/455217" target="_blank">📅 00:36 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.68K · <a href="https://t.me/farsna/455217" target="_blank">📅 00:36 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455216">
@@ -432,7 +432,7 @@ Link</div>
 اینجا
 بخوانید.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.87K · <a href="https://t.me/farsna/455216" target="_blank">📅 00:16 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.17K · <a href="https://t.me/farsna/455216" target="_blank">📅 00:16 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455215">
@@ -449,7 +449,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.53K · <a href="https://t.me/farsna/455215" target="_blank">📅 23:56 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.77K · <a href="https://t.me/farsna/455215" target="_blank">📅 23:56 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455214">
@@ -465,7 +465,7 @@ Link</div>
 <div class="tg-text">🎥
 بازیکن جدید پرسپولیس: شنیده‌ام اجداد ما اژدهاکش بوده‌اند
 @Sportfars</div>
-<div class="tg-footer">👁️ 9.48K · <a href="https://t.me/farsna/455214" target="_blank">📅 23:45 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.71K · <a href="https://t.me/farsna/455214" target="_blank">📅 23:45 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455213">
@@ -481,7 +481,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/455213" target="_blank">📅 23:23 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/455213" target="_blank">📅 23:23 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455212">
@@ -497,7 +497,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/farsna/455212" target="_blank">📅 23:20 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.92K · <a href="https://t.me/farsna/455212" target="_blank">📅 23:20 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455211">
@@ -516,7 +516,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.06K · <a href="https://t.me/farsna/455211" target="_blank">📅 23:17 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.29K · <a href="https://t.me/farsna/455211" target="_blank">📅 23:17 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455210">
@@ -533,7 +533,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.09K · <a href="https://t.me/farsna/455210" target="_blank">📅 23:10 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.27K · <a href="https://t.me/farsna/455210" target="_blank">📅 23:10 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455209">
@@ -548,7 +548,7 @@ Link</div>
 <div class="tg-text">حملۀ پهپادی موشکی انصارالله یمن به مواضع عربستان در المخا
 🔹
 نیروهای مسلح یمن: امروز انبارهای تسلیحاتی و تجمع نیروهای دشمن سعودی در منطقۀ المخا هدف حملات دقیق موشکی پهپادی قرار گرفت که موجب انهدام تجهیزات و کشته یا زخمی شدن تعدادی از نیروهای عربستان شد. @Farsna</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/455209" target="_blank">📅 22:59 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/455209" target="_blank">📅 22:59 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455208">
@@ -565,7 +565,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/455208" target="_blank">📅 22:54 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/455208" target="_blank">📅 22:54 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455207">
@@ -578,7 +578,7 @@ Link</div>
 @FarsNewsInt
 -
 Link</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/455207" target="_blank">📅 22:44 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farsna/455207" target="_blank">📅 22:44 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455206">
@@ -593,7 +593,7 @@ Link</div>
 <div class="tg-text">🎥
 ۱۶۲ شب ایستادگی؛ حماسهٔ مردم همچنان ادامه دارد
 @Farsna</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/455206" target="_blank">📅 22:40 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/455206" target="_blank">📅 22:40 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455205">
@@ -610,7 +610,7 @@ Link</div>
 🔹
 فرماندهی دفاع هوافضای آمریکای شمالی اعلام کرد جنگنده‌های اف-۱۶، ۲ فروند هواپیمای غیرنظامی را که وارد فضای هوایی ممنوعه موقت در نزدیکی باشگاه گلف "بدمنستر" متعلق به ترامپ در ایالت نیوجرسی شده بودند، رهگیری کردند.
 @Farsna</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/farsna/455205" target="_blank">📅 22:21 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/farsna/455205" target="_blank">📅 22:21 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455198">
@@ -631,7 +631,7 @@ Link</div>
 عکس:
 ‌ محمدمهدی دهقانی
 @Farsna</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/455198" target="_blank">📅 22:10 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farsna/455198" target="_blank">📅 22:10 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455196">
@@ -653,7 +653,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/455196" target="_blank">📅 21:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/455196" target="_blank">📅 21:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455188">
@@ -676,7 +676,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/455188" target="_blank">📅 21:44 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/455188" target="_blank">📅 21:44 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455187">
@@ -696,7 +696,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/455187" target="_blank">📅 21:44 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/455187" target="_blank">📅 21:44 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455186">
@@ -720,7 +720,7 @@ Link</div>
 حضرت آیت‌الله سیدمجتبی خامنه‌ای در حکمی محسن رضایی را به‌عنوان نماینده خود در شورای‌عالی امنیت ملی منصوب کردند  متن حکم رهبر معظم انقلاب اسلامی به این شرح است: بسم الله الرحمن الرحیم برادر گرامی جناب آقای دکتر محسن رضایی
 🔹
 با توجه به تجارب ارزشمندتان بدین‌وسیله…</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/farsna/455183" target="_blank">📅 21:20 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/farsna/455183" target="_blank">📅 21:20 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455182">
@@ -735,7 +735,7 @@ Link</div>
 🔹
 باتوجّه به تجارب ارزشمندتان بدین‌وسیله جناب‌عالی را به‌عنوان مشاور سیاسی خود منصوب می‌کنم. امیدوارم در انجام این مسئولیت و در پیشبرد آرمان‌های انقلاب اسلامی، تحت توجّهات سرورمان حضرت بقیة‌الله‌الاعظم عجل‌الله‌تعالی‌فرجه‌الشریف موفّق و مویّد باشید.
 @Farsna</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/farsna/455182" target="_blank">📅 21:16 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farsna/455182" target="_blank">📅 21:16 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455181">
@@ -750,7 +750,7 @@ Link</div>
 <div class="tg-text">خضریان: کلیات طرح اقدام راهبردی امنیت تنگهٔ هرمز در کمیسیون امنیت ملی تصویب شد
 🔹
 عضو کمیسیون امنیت ملی: با توجه به موقعیت راهبردی خلیج فارس و تنگهٔ هرمز و لزوم اعمال حاکمیت جمهوری اسلامی ایران به‌منظور پیشگیری از تکرار اقدامات خصمانه علیه ایران، کلیات طرح…</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/farsna/455181" target="_blank">📅 21:15 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/farsna/455181" target="_blank">📅 21:15 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455180">
@@ -765,7 +765,7 @@ Link</div>
 <div class="tg-text">🎥
 افزایش اعتبار کالابرگ؛ از وعده تا اجرا
 @Farsna</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/455180" target="_blank">📅 21:11 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farsna/455180" target="_blank">📅 21:11 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455179">
@@ -776,7 +776,7 @@ Link</div>
 بعد از معرفی جواد نکونام به‌عنوان سرمربی تراکتور، شایعاتی پیرامون علاقۀ تی‌تی‌ها به جذب منیر الحدادی و توافق اولیه با این ستارۀ فصل گذشتۀ استقلال مطرح شده است.
 ⚽️
 بااین‌حال پیگیری‌های خبرنگار فارس نشان می‌دهد این ستارۀ…</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farsna/455179" target="_blank">📅 21:06 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/455179" target="_blank">📅 21:06 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455178">
@@ -791,7 +791,7 @@ Link</div>
 <div class="tg-text">🎥
 پاسخ روشن به ادعاهای بی‌اساس آمریکا
 @Farsna</div>
-<div class="tg-footer">👁️ 9.97K · <a href="https://t.me/farsna/455178" target="_blank">📅 20:57 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/455178" target="_blank">📅 20:57 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455177">
@@ -802,7 +802,7 @@ Link</div>
 طرح سنگ‌فرش کردن معابر در بافت مرکزی تهران، با هدف تبدیل این محدوده‌ها به پیاده‌راه و کاهش تردد خودروها، یکی از پروژه‌های بحث‌برانگیز مدیریت شهری در سال‌های اخیر بوده است.
 🔹
 حالا آقامیری، رئیس کمیتۀ عمران شورای شهر…</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/farsna/455177" target="_blank">📅 20:46 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/455177" target="_blank">📅 20:46 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455176">
@@ -818,7 +818,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/farsna/455176" target="_blank">📅 20:45 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/455176" target="_blank">📅 20:45 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455174">
@@ -836,7 +836,7 @@ Link</div>
 🔹
 إن‌شاء‌الله تحت توجهات سرورمان حضرت بقیة‌الله‌الاعظم عجل الله تعالی فرجه الشریف همواره سربازی مجاهد برای ملت سرافراز ایران باشید.
 @Farsna</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/farsna/455174" target="_blank">📅 20:30 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/farsna/455174" target="_blank">📅 20:30 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455173">
@@ -882,7 +882,7 @@ Link</div>
 🔹
 از حالا باید برای این حضور مردم طرح‌ریزی انجام شد.
 @Farsna</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/455171" target="_blank">📅 20:17 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/455171" target="_blank">📅 20:17 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455170">
@@ -900,7 +900,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/455170" target="_blank">📅 20:08 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/455170" target="_blank">📅 20:08 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455169">
@@ -914,7 +914,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 پزشکیان: افغانستان و پاکستان نگذاشتند تروریست‌ها و تجزیه‌طلبان از خاکشان وارد ایران شوند.  @Farsna</div>
-<div class="tg-footer">👁️ 9.48K · <a href="https://t.me/farsna/455169" target="_blank">📅 20:03 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.51K · <a href="https://t.me/farsna/455169" target="_blank">📅 20:03 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455163">
@@ -932,7 +932,7 @@ Link</div>
 عکس:
 میثم نهاوندی
 @Farsna</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/455163" target="_blank">📅 19:57 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/455163" target="_blank">📅 19:57 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455162">
@@ -977,7 +977,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/455159" target="_blank">📅 19:33 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/455159" target="_blank">📅 19:33 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455158">
@@ -986,7 +986,7 @@ Link</div>
 <div class="tg-text">دریاچهٔ ارومیه جان گرفت
 🔹
 شرکت آب منطقه‌ای آذربایجان‌شرقی: حجم آب ورودی به دریاچهٔ ارومیه از ۴.۵ میلیارد مترمکعب در سال آبی جاری عبور کرد؛ این میزان، بالاتر از حقابهٔ تعیین‌شده برای دریاچه بوده و بیانگر بهبود شرایط آبی این پهنه نسبت به سال‌های گذشته است. …</div>
-<div class="tg-footer">👁️ 9.96K · <a href="https://t.me/farsna/455158" target="_blank">📅 19:32 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/455158" target="_blank">📅 19:32 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455157">
@@ -1034,7 +1034,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/455155" target="_blank">📅 18:53 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farsna/455155" target="_blank">📅 18:53 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455154">
@@ -1069,7 +1069,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farsna/455152" target="_blank">📅 18:13 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farsna/455152" target="_blank">📅 18:13 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455151">
@@ -1080,7 +1080,7 @@ Link</div>
 سلیمی، عضو هیئت‌رئیسه مجلس: متن اولیۀ طرح «اقدام راهبردی تأمین امنیت و پیشرفت پایدار تنگۀ هرمز و خلیج‌فارس» در کمیسیون امنیت ملی در دست بررسی است.  براساس این طرح:
 🔸
 عبور شناورهای متعلق به آمریکا، رژیم صهیونیستی…</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farsna/455151" target="_blank">📅 18:08 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farsna/455151" target="_blank">📅 18:08 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455150">
@@ -1104,12 +1104,12 @@ Link</div>
 به گزارش مدیریت ارتباطات بورس تهران و به نقل از مدیریت پذیرش، با توجه به موافقت هیئت ‌پذیرش بورس تهران در جلسه مورخ 1404/09/12 با پذیرش سهام شرکت گروه پتروشیمی تابان فردا (سهامی عام) در بورس تهران، از تاریخ 05/06/ 1405، این شرکت به‌ عنوان ششصد و سی و هفتمین شرکت پذیرفته ‌شده در ﺑﺨﺶ "محصولات شیمیایی"، طبقه "تولید مواد شیمیایی پایه به جز کود" با کد "4411" و نماد "تابان" در فهرست نرخ‌های تابلو اصلی بازار دوم بورس تهران درج شد.
 🔸
 سرمایه‌گذاران محترم و علاقه‌مندان می‌توانند به منظور کسب اطلاعات بیشتر در مورد شرکت یادشده به سامانه اطلاع‌رسانی ناشران (کدال) و سايت بورس مراجعه کنند.</div>
-<div class="tg-footer">👁️ 9.22K · <a href="https://t.me/farsna/455149" target="_blank">📅 18:07 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.26K · <a href="https://t.me/farsna/455149" target="_blank">📅 18:07 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455148">
 <div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-footer">👁️ 8.97K · <a href="https://t.me/farsna/455148" target="_blank">📅 18:07 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.01K · <a href="https://t.me/farsna/455148" target="_blank">📅 18:07 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455147">
@@ -1136,7 +1136,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/farsna/455146" target="_blank">📅 17:56 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/farsna/455146" target="_blank">📅 17:56 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455144">
@@ -1153,7 +1153,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.98K · <a href="https://t.me/farsna/455144" target="_blank">📅 17:37 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/455144" target="_blank">📅 17:37 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455143">
@@ -1201,7 +1201,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/455141" target="_blank">📅 17:21 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/455141" target="_blank">📅 17:21 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455140">
@@ -1210,7 +1210,7 @@ Link</div>
 <div class="tg-text">🏀
 ترکیب تیم ملی بسکتبال با ویلچر مردان برای حضور در مسابقات جهانی کانادا مشخص شد
 @Farsna</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/455140" target="_blank">📅 17:15 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/455140" target="_blank">📅 17:15 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455139">
@@ -1261,7 +1261,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/455137" target="_blank">📅 16:55 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/455137" target="_blank">📅 16:55 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455136">
@@ -1296,7 +1296,7 @@ Link</div>
 @FarsNewsInt
 -
 Link</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/455135" target="_blank">📅 16:45 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farsna/455135" target="_blank">📅 16:45 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455134">
@@ -1517,7 +1517,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/farsna/455115" target="_blank">📅 13:27 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farsna/455115" target="_blank">📅 13:27 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455114">
@@ -1560,7 +1560,7 @@ Link</div>
 🔹
 در صورت تأمین نقدینگی، پیش‌بینی می‌شود تا شهریور ناوگان به حمل‌ونقل عمومی اضافه شوند.
 @Farsna</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/farsna/455112" target="_blank">📅 13:00 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/farsna/455112" target="_blank">📅 13:00 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455111">
@@ -1654,7 +1654,7 @@ Link</div>
 صندوق توسعه ملی با پرداخت تسهیلات ارزی برای بازسازی برخی صنایع آسیب دیده از جنگ تحمیلی اخیر موافقت کرده است.
 ◀️
 با توجه به درخواست های اخیر برای بازسازی صنایع آسیب‌دیده، صندوق با درخواست پرداخت تسهیلات ارزی از سوی  بانک های شهر و تجارت که عاملیت بازسازی را بر عهده دارند، موافقت کرده است.</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/455105" target="_blank">📅 11:59 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/farsna/455105" target="_blank">📅 11:59 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455104">
@@ -1729,7 +1729,7 @@ Link</div>
 آتش‌سوزی در کارگاه فندک‌سازی شهرک نصیرآباد تهران
 🔹
 سخنگوی اورژانس تهران: درپی آتش‌سوزی در کارگاه فندک‌سازی شهرک صنعتی نصیر‌آباد که ساعت ۷:۲۰ امروز رخ داد، تاکنون ۴ نفر مصدوم شده‌اند که از این تعداد ۲ نفر به بیمارستان منتقل شده‌اند. @Farsna - Link</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/farsna/455095" target="_blank">📅 10:24 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/farsna/455095" target="_blank">📅 10:24 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-455094">
