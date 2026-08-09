@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 09:11:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 10:09:32</div>
 <hr>
 
 <div class="tg-post" id="msg-2861">
@@ -336,7 +336,7 @@ https://netinomarket.ir
 @Netino_Service
 ✨
 نتینو؛ کیفیت بالا، قیمت رقابتی و خرید مطمئن</div>
-<div class="tg-footer">👁️ 5.14K · <a href="https://t.me/iaghapour/2861" target="_blank">📅 21:15 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/iaghapour/2861" target="_blank">📅 21:15 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2860">
@@ -365,7 +365,7 @@ Relay
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.46K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2859">
@@ -388,7 +388,7 @@ YouTube</div>
 اگر ویدیویی رو تماشا می‌کنید که ماه‌ها از انتشارش گذشته، لطفاً تبلیغ داخلش رو حتماً دوباره از طریق ربات ما صحت‌سنجی کنید. شرایط سرویس‌ها در گذر زمان تغییر می‌کنه.
 ممنون از اینکه همیشه در کنار ما هستید.
 🙏🏻</div>
-<div class="tg-footer">👁️ 6.91K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.01K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2858">
@@ -413,7 +413,7 @@ YouTube</div>
 آدرس سایت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.27K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.35K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2856">
@@ -423,7 +423,7 @@ YouTube</div>
 🟢
 جایزه قرعه کشی تحویل حمید عزیز شد.
 سعی میکنیم از این به بعد با حمایت های شما هر هفته قرعه کشی داشته باشیم.</div>
-<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2855">
@@ -572,7 +572,7 @@ EA
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/2848" target="_blank">📅 14:17 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2848" target="_blank">📅 14:17 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2846">
@@ -793,7 +793,7 @@ Xray-core
 با وجود این موضوع، توسعه‌دهندگان ساکن این مناطق به‌دلیل عدم امکان احراز هویت، نمی‌توانند اپ‌های خود را در بازار بین‌المللی منتشر کنند. با اجرای این طرح، اپ‌های توسعه‌دهندگان ایرانی فقط روی گوشی‌های مستقر در مناطق تحریم‌شده به راحتی قابل نصب خواهند بود. اگر کاربری در اروپا یا آمریکا بخواهد برنامه‌ای از یک توسعه‌دهنده ایرانی تأییدنشده را نصب کند، با سد محکم سیستم‌عامل مواجه می‌شود./دیجیاتو
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2832">
@@ -1507,7 +1507,7 @@ LangOver
 لینک سایت و دریافت برنامه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2786">
