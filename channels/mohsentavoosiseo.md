@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 14:29:34</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-18 15:01:51</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -306,13 +306,13 @@
 اگه اعداد مختلط نون شد اومد سر سفره، یا ماشینتو عوض کردی یا خونتو یا دارایی هات رو یا زندگیت با کیفیت تر شد، قطعا مسیرت درسته.
 حالا به جای این ریاضیات، هرچیزی بذار. از الگوریتم های گوگل تا مستندات و نحوه کارکرد مدل Fable کلاد تا... .
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.03K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.04K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-883">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">بازگشت قیمت(افزایش) دوره از 1 آبان یا زودتر. اگر قسطی دادید قسط رو تا پایان مهر کامل کنید یا اگر دوستی دارید که میخواسته تهیه کنید بهش اطلاع بدید.  با اومدن اپدیت بزرگ دوره(SEO و GEO بین المللی با AI) قیمت، تغییر خواهد کرد. چه اول آبان 1405 چه زودتر.  طبق…</div>
-<div class="tg-footer">👁️ 1.65K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-882">
