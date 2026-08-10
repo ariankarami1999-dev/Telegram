@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 13:24:39</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 14:28:54</div>
 <hr>
 
 <div class="tg-post" id="msg-2864">
@@ -328,7 +328,7 @@ https://t.me/irhosting24
 پلن ششم - 600 گیگ
 📦
 پلن هفتم - 700 گیگ</div>
-<div class="tg-footer">👁️ 5.96K · <a href="https://t.me/iaghapour/2864" target="_blank">📅 21:10 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.09K · <a href="https://t.me/iaghapour/2864" target="_blank">📅 21:10 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2863">
@@ -358,7 +358,7 @@ https://t.me/irhosting24
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.66K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.77K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2862">
@@ -396,7 +396,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.93K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.98K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2860">
@@ -425,7 +425,7 @@ Relay
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.38K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.42K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2859">
@@ -448,12 +448,12 @@ YouTube</div>
 اگر ویدیویی رو تماشا می‌کنید که ماه‌ها از انتشارش گذشته، لطفاً تبلیغ داخلش رو حتماً دوباره از طریق ربات ما صحت‌سنجی کنید. شرایط سرویس‌ها در گذر زمان تغییر می‌کنه.
 ممنون از اینکه همیشه در کنار ما هستید.
 🙏🏻</div>
-<div class="tg-footer">👁️ 9.67K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.7K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2858">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kY-xoL1BraY4Smdd99psaj8msHmQlDwM-V6JLru6p0tMfKt76L6eOGvpNm7maVSLFoZGiFQJ3lhULBy2J5KqsSPjVK_cJt5g1JwRqZcPJQto8eG5PqvewK279aqylNKmE-scSGLSvQrSvQhCfm1n7vujOtHDBnq5wg_erYkB8naBDabbmwb9GjcEvZSAjlu-lWnoVZVU986B_IiGO82aH3yHrXBIWUZRNUn4GRvj9K2CBR5CEq--W94JCA2lPCMssxgiDk36u-RKEA9GLQiujeqUjEAPDtUYqPzFxfu_rdXLAAvkpTnWNQio-7oqJHh-VhK_jisr3exNwEsqj7yttw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AIKA3yhnTf4y-F8cfFVbWEA2vzWZCmSpERPClcoiXbgmbyODq-IF-3iZDBIMCy57x9W1CJgVDQSUk8QYvZimm6PLo2HRJhTbcjxHQ-SfpsO_bH-f2SghiiLlFdOqpOHIPIy6TgQFlBqorMlhj29twSqIUI7dFMRZqCpgzGMsB7rfaJFABupIaytl_GiNefugYNiDlfsa4pUSLVsFLNG-VthLj-gt7mWu4-OPLu7qE3ZsJdyKpn3TQkEHfTgtfCKqFP8mA49f2LsExMPv6kp9LGTiyelaJ4i2VekjtQyUz7UBKrD8Ncm1CICVh_lpi4BbDfwDGizAfPMru_IzRVjmRw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 کمپانی OpenAI ابزار ChatGPT Translate را راه اندازی کرد
 شرکت OpenAI سرویس ترجمه اختصاصی خود را در آدرس به‌صورت رایگان و بدون نیاز به ورود به حساب کاربری در دسترس قرار داده است.
@@ -669,7 +669,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2845">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e6ROdsX4KY3vU_YcxzxPTORwoQblIyg3uv1IBFyKBEfTKksTIxG0AYnl1WCZ5zJcAVgoWwnRiscxIkbVwmNboT9CQwXpa5sI8fkhXkYsRlAcJpLC8LYhcxwGcNZ-m-VAPMHwEIdLrFu6KBJ0ZS6EB003jkokMxraSjAeCqVqpEtT30PDQ79-cZgcXGN2rJadeUxBAxs8rYOnhM5bD72iP5ZVA3B5KR43FG3IzxLfr-eZMI-A1bqJmVLrAxLNCyNhhhTtNYHAe-SoDsggaJKqoH5DpEhooGuabJAI4fmzS1tY1-MpmqDV32HJkBeobNdU8U9KeIMty-fCJjgzcOeP-A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jrn0Ooet3nHObUXjRyQ5cRlc7lnPFTTwUjaQXKHK3nuX9OJhrDE-NEsTRBoNd--fSp2P5XcXUR8_rB25bLtzTfq-CvESlaj5LpjsEJXEFz3dkDRDw3L6zsfWRyuavQqh2nA3ozTAus4WNooi60a8fuIKRBCttx12QfTfERfSzDAVh92KbAvuc6gc9HpfovwFfuPMwQAiNVzELVdvDJHVlKT-5SNxjFRvufbVdW5aYYrxZcD3mieNYyOPrV0BcDm0SKsHviUb48OnzBbhDARtE_GrJ3-1J2ytEK6BCJ-JSH8-sb64wNE5sytK_FUtsoQpcBm7isvKRwEA27rqeUUc2g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 توضیحات ایرانسل درباره نحوه کسر حجم بسته‌ها و ضرایب مصرفی
 ایرانسل با انتشار اطلاعیه‌ای، در پاسخ به ابهامات مطرح‌شده در شبکه‌های اجتماعی اعلام کرد که کسر حجم از بسته‌ها دقیقاً طبق مصوبه‌های سازمان تنظیم مقررات (رگولاتوری) انجام می‌شود.
@@ -757,7 +757,7 @@ ToRouter
 <div class="tg-text">⚠️
 دزدیِ آشکار و علنی یعنی همین! اپراتورها رسماً رو اینترنت بین‌الملل ضریب ۲.۷ می‌زنند؛ یعنی تا ۱۰۰ مگابایت دیتا مصرف می‌کنی، ۲۷۰ مگابایت از بسته‌ت می‌پره!
 با کدوم متر و معیاری این ضریب‌های عجیب‌وغریب رو روی حجم مردم حساب می‌کنید؟ این پولایی که بابت جابه‌جاییِ چند برابرِ حجم از جیب ملت می‌کشید، از گوشت سگ هم حروم‌تره. بسته‌ها رو که نجومی گرون کردید، جاده‌یک‌طرفهٔ کیفیت رو هم بستید، حالا رسماً دارید با ضریب زدن، حجم باقی‌مونده رو هم غارت می‌کنید.</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2839">
@@ -784,7 +784,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2838">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d50CWGkXX5UZMooJcVSJTZ2riv9BjgRygKYEv5qhZVKwnCeSJIMDsq0X45ydcocULjfC82vJGtfhRLeaUcrRhXIJi-mKuA8hxEBBL08ULaPepKBfNN-rzfqDtVwwVLmnsadN97kMRNZACHr1D7F6ukAdXZIXaz7UUQoDugRaUIQx_9YXFOl7kL4C4B-tubNCtLIWJG1DmcsqWo17kbUzSTMyA-iEHNDdl8IPETlLO9_-nrWzjHEi_JUubzMevlmB4WwOXqOcihAyHEmQ-3Xwz0xtkd3J2RSYwc-4SKinYne1rfnd_E34vNO781o6ZMdcU7IKxiW4YjJ6IC9PV4WoBg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N-sn4IGcMHuK4lzrI1dPQQJ5LhyIecCTiF5rmC2vTnUDSzS00bc8iN2WWjKkSgegTGl0KTcwjbeF5ek9JsMywh3UAxcexJ55_LYfezlLiv9-f20MlHXNfmTXrWE0YUgLfVhjPoKUn0UGK5vgKSIHCjmC4yt7lb-uUS8-WgGK40vS8avd-0Qto3hEBHTmCK3JTaL8ScSc3DvMimE_WjwE3hkfY4id5EuOMVmkVyo0_jIwtsce3E0VUhBARp12yygQjldB52FsVp88WkcYnpGTVYJuBdrw1zitFpj6tNp7Hp9V4hjOS5F0ObXXb8rSnEgfkZR-Kyjo3EpBr9mfKdlY7w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی کلاینت جدید Disruptor Proxy بر پایه Xray
 یک کلاینت پروکسی جدید و بسیار سبک است که برای سیستم‌عامل‌های مختلف توسعه یافته، اما
@@ -1009,7 +1009,7 @@ KelpDAO
 
 <div class="tg-post" id="msg-2825">
 <div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZIRmVCBFuUkfuN7Se3Rew_90olZE-fAey8F1GB9Wnl_gGx9IC1scfuwiowyPYbvnENv3U9AGCtggaNuVcu46TexXjZp0ZjvHA_ovBS1v2C2XYf4rXAkELLDW2-gkxwfX-2EkTk4zgK7V94880dnf7jeTNM9Ja4gV4adg_FMs8eU5H-BXgHeNz9-muEOMNkZSfXeHh6QLo1H-7dwjx8L0svQX_hhekvZfxX0SYNVxXQt5YqHaI-Z6ccWDpXbKLTGx__JVduzFI0okRnliuwVrVQeIxdUy4lB1x40wdT7xkfAsL98XKoN7Rj4TVuouM5q1yYmTmPrWFE0L8zYBAL_xzA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DCtsj4UDoqo2i1LrYwYER-E5kwfgtxmM4mq1lmZFMFqxPzEenpvl2MLbbMFK-BeDAJiJgFK5seB8jcqg4N_t0OiSvAJ80Hcyywe2pK_KWscGRSgD2oBpeM1HI_CWzS3dMMXtW6IO7gkTRtdaO3wsLZYKgeCee4kb-Lv1CQMpC-52umaAFP5dA9VQSjyb_MMR8ys-_NpDvOAyV-fmXH7tQP-qqpeTZgCcPqE94KPlvRDnaSLcsp5RnSxLihWJV9irYtLCxfEdhzn8mvvQKlLOfnfb2XnXcnDgRgwDyc4X3rqTbo3Y5sfCV_xw0hmfLiq5aHvxPvYSGqkXrSEBwvO8rg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 سرویس امنیت روسیه: پاول دورف تحت تعقیب بین‌المللی قرار گرفت
 سرویس امنیت فدرال روسیه (FSB) «پاول دورف»، مدیرعامل تلگرام را به اتهام
