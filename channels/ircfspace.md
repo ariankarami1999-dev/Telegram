@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 22:57:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 23:37:40</div>
 <hr>
 
 <div class="tg-post" id="msg-2546">
@@ -309,7 +309,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
@@ -431,7 +431,7 @@ iSegar0
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2537">
@@ -1282,12 +1282,12 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 87.3K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 87.4K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2484">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PFfARwL8RrYGQMr8A9_AwA053Denk2EvqzIxlAwWnqLhDTg0E9DB_ZbOD7uQygYGg9lL_sBKSxiFQlXOokPxjgRYXIWHaSGZUNqz18SxBRc6RtzlR1GFahA5FWo8y0jXckOrL6l3xComEWaaUnTKgDCd8xB-f_--q2SLF4VYnmDWspB9JygEfdQ-Rx76BAZ96eg8o7yHU2b_25RnWbu-CHDZcX_EnW4qV4pr5ye6UrMVqlTq6nM1Gb7XRyxAXpua0SxPux-lCEJLG25HtCtxswtmpYHu6MYzpzRAKzfUR3d1GfZrxtvbvXR5R9u1gPt-bg_Xs7qbO-jwguZ6_rirMg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VPPGXakgNuElnvca3R_1FaqWld1w7ALFk7CaVXelxQXsWxOgh5b9fNBnJUaha9tw7awhlkSfy9LYHatLrFVfOlxxWK4xeEQ-Z3sp7x7l08_opv0RGL2pVcPO4TRWT7qFX8bjnaZ0mPvz0p58Dy9HML94aurEo85x49FWUtatLCfqa-SgkiAdJ70Ldhrpgb-pqlYDcuBoNpAPVnJaLp6ID9TTMg1nIYmT8qX4rGQx3KIIZdDLZkPbFRfrGhVmUKMFV4HHOct5bCsv1WoCzDQjfXDZsLTXswwBHbOwOzP2ALLbbi-6ebV3TskcqfeVJ3s5raM3SyzGQOia_4aayr1sQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پنل زئوس یه ابزار متن‌باز برای ساخت فیلترشکن رایگان روی بستر ورکر کلودفلر هست، که امکاناتی مثل آیپی و لوکیشن ثابت، دریافت خودکار آی‌پی تمیز، لینک ساب و QR Code اختصاصی، فرگمنت، شبیه‌سازی فینگرپرینت، بکاپ‌گیری و ... رو بصورت یکجا در اختیارتون میذاره.
 👉
 github.com/IR-NETLIFY/zeus
