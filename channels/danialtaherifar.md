@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 03:27:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 04:55:52</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -1346,7 +1346,7 @@ Schema.org
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/HJJ0wPXD7dhflRnnv_ommNzePmhSgIjFQlMdbcE5TCjyUHqAtU8aZ-7S6zPnKWwS6OfVnLj_PSUvc4Yqc1ytWj16e9kW3_zAdmxG_yI8HV6_xSY8CellgZZ3QjIqik15_yMjJPdoEFuhnjoVG1qrhFF8B7lkPtuLI0kZh3HEQdWWZ2YU26rzEo2oG-YR3kdEFGNzsb6CeyGLscxiEcdDMy0Bys7wU6a6wimoFcWJDLDsrq1RDp5yqzLwmAbiRNxDKbw1KHv4xCCE33eFqvkhAgMT5WnXyvHzdTqxrEQW0-FQuHAO3Rzga-qm4H5g2Y6q71fkzzMSsxdzsAWm2cA0bg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ksuge5cJ9R_TsWXxUkingZDuLlYq0n8mdMfokaJytPRK9OdHiWZ1y1N-yrnY5S_HRQ30UWiqtPge5lIPZWVFlHFj9Qi4OsKopoXUjOnKZ64hPYd8Rrep5jTVu7xLdfifKQSdKtl42ydvaHjFCVMt0TDre0OL7wCbYK4uiCNd_Re09msrOUKPn_gRg4-quRqRy1l0GaG3BP3RMq_GhGM-D9z3YBXzdzWt7uGHx19s-hhyvRPwZWnK2WBWXvVC_h6P8dm1Igep76OxvZgeHdEaxaXJuAx2WHHnT-luFUULBM9d8Oue6w4zeU8iZIhrLv3HWQQKb2nFCD5xIufANOLvXg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/W4AaGOobDK2AYVEI14EHQdCK7gnl10wgi-HXST87Prni3NLL-Thcsm9IFIEiP_E5Mwy8fvrVLcdlgLWNMGrYH_Bjtr335l4wGb6QPck-zpzZYJvEhiuRcV8ChMJsW4TJgLKwuAPhx0wWUYGK664Ttq_VWFOFlz6CbA7UfqaOBK5P5X876-GkUrF5mlvTycdbY6Y9baeqXtl3MEwwcP5krTt0dBJEzZQF9yapf0BI4Efy9-ShO7ioxxFKCSO-RM-f9vpQYJR_Gn6meRF7sbCVGpRF_jUFaDB_x1Xgf3TL2XvWAcaNbpThvL_OnpuiSXFpS-cIj2dc8-GnKz4pFO1VGQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/byDFLqcbFPVn1sCZ3xkVS02N1VvGu5t9huDI7ygVd5atJPB2OvCZg72ACx7wSkWm1DVfuyRjU7BeQyxyaDQDG4nBFF9T549q1yi4QQtunro-JoNYNpGmd9PZto_-5HGtkTmtjoXamHEeW8E6WXsAhqpHxAD6c6OslbJfaczhFh25600y_3MoQpaQcgCOu7pTRDLFJIwotHa6t-ffbdAKL8N_7QsgFVaI7XVYwrasxQKWJJFWC328_SfRBNO9k1yGNF4V_k_87gt6a6APHsnermkDiKrJAHERjSv2PGeS63DR4hHWf5nBW3NP1pPdZ13xy67w8--lE3zlEuGg6WjlEg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/s-JFX6rv5sEr2iBz97iGXI-SnJFJxCtG25C0JEgki6-a7GxcXiVRIU6SS-EUCRM1I0n8rUJVhZnE1wDBbmK6Kb8BGozNk-qqNCz7jJUyi0sXWoU7S6uohBI9i6Qgym9BZVyPA2aTXfyS3EWv_nK3HV0w9ibwWnMyjnC4H8YytWYnf5DjFd0WTCcwOCKYSuAB6abCDRKZidwB1G1FtQEe4P70NT3M-e9MVUkednvzG1L_CHK3UiGzvY51V7dBX5eGaJonzrZJUvUkWK1wSZygyHPNea_wi1X5EptoGZEkpWlUoUjqGh9nHgF5zP2NM-uNoATuls_SGAbxoll2tvYbTw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">📊
 سهم جستجو (Share of Search) چیست و چگونه محاسبه میشود ؟

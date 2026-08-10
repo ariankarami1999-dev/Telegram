@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/JBV9Mn04FTHSO8BHxPMJbjl629diM62j4W709sFowRpOm3S6gpPzFY5lJZ_mAP8OQanJEPEKISUjGFYF6Ym3liDWhtotffkSobLPhyLdyUjWXykjHBfx966fX7ZqD7RwgZcys0wBEc58MbLC62D_9HxVY--7vXvmpV_OIcWBaJFAv93hBD-hMrDzzGSM85Tw8ijxUAy9g1nL9amz-beXluTWrL5_ItzI-B3LPvDFQNh4YczpkIMgHi7GYnfM1cevnt8u_ZT0dT6Dbnv_0TUFWQyjK-2V3Tjg-3AFX5-IV4ZSBGqfvOHu6M7EuWEBFt2k3AgsfM5S_ONRwxOy1WgSIA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/DrAh3F5bSVflttNu5pTB5_2cvnxqSHUcWmd8NhW3JYvikUfCAP6iNjWhg0EIW_ScPsVJVTp3r0463lPxfn6jBDk0GxwG8r6_HzvzpD6yMOe7yuvIdM4KuFvRb3I50NuRFttE-wgAWu4rtuxr_bk6L_ANp3SjePjze5S7Elu3QlOkbGOmiuXR3UBOjEq9olOjBBX10AW39Lrtcu6aZfADaAvHXn9F2Jl-za2unFxcQFQvg3ZsbmLOLrAiWJHcliWP06LFddidR6ErsH4p9Cqi1xqV75u0knKj42KHX6BYh9o3qrQjPf62SkkGFGGzPo6kEVHExPnK8xz-sKsMYDWqeA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو با محسن طاوسی</h1>
 <p>@mohsentavoosiseo • 👥 7.76K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 03:27:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 04:55:52</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -350,7 +350,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
