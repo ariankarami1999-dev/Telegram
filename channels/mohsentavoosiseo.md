@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 02:56:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 03:27:22</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -834,7 +834,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 #تله
 #عیب
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/mohsentavoosiseo/840" target="_blank">📅 15:11 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/mohsentavoosiseo/840" target="_blank">📅 15:11 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-839">
@@ -854,7 +854,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 <div class="tg-text">پاسخ سوال بالا، قسمت ششم
 در تجارت، تواضع اشتباه هست.منت گذاشتن بسیار مهم و جایز هست. ترکیب تضادها در کار.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/mohsentavoosiseo/837" target="_blank">📅 14:55 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.06K · <a href="https://t.me/mohsentavoosiseo/837" target="_blank">📅 14:55 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-836">
@@ -1272,7 +1272,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SKxNQdzFKZZ-EJGConzgjeMXcKiGwQxPM2us-YU4fyUEly_M0AydFZxOMfzYUvWlgg-GghHGfOyXCc8vuWggracpPRWz8Y279EIRkvzNwzscPczA11bW0KgeTUvdaHRjdqdvW758_BmpVa_GwVLP6HRHfpJpLMl-ENe3AQJBS4m6rZXzllClLisFUs0B9Bqv34U5EDUu_bP2AN9hRamCCtH9U30Rv1Jm_xXz8jcGBwll8ylVBAGkWQZo7cHXQE7rYX3dAlYjnBnVRAK9QDo48Zg5zhg4vKv3w4fPqNA_iedAKT7oCwMLP3ehDcUEvXOUedmImTD5Dfvr4qUNWB3tag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QE6cDikSzeXOMbTW0sP2sxJGmCElI60JCb3yJfMgKzI2hyHgWDENHX-xF6nTuqqFHllA3aBdVUTIMnkjp8XjivqnZLo0UcyBrQluzlzxrIMYh49vWSUIbDsllzkHNZwWTbyopvCyQ4-5dVelkKYbhN2qkyMnrZnKczTOcJcfcuq1kZ1qStz689XaxaJw_Dd0FeXiNl2-b09h7UhQUjpek35ErcfoZEYBFAEnl8fFYcx4oFVlXWVHepDd3iR7sdX_2T3DQgycg5OXNI70HYW1nUHfXxYUpn6ID022_fKMIm5-nZ4JWLJ5eeSOPJ2q6tRCCwN0rQDPVt-S7gylEXvsQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
@@ -1377,7 +1377,7 @@ pinned «
 
 <div class="tg-post" id="msg-761">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ADnc-EnzpFijHqjD6nePEogzbmxJwwmjjB6tE5_74jPXCDPMVQLyXXJlpVD9Bs6EmIKUJgxGVGJvLRSWe8AfR_6m3wivXvb_4CrLWskGiCo-KbidLvxnAtntQg21nYDubitlhc-mpjrhohfzXoOFFbbeb-2aRAy1R0H7vHqiGa17pPcXgdlScid8g10DIvjpZWmg85oFTd267mDpn3l9EY8vLjpUegMNeVUnA0EpsfGeeboar2eBP0dYY5VeIU8ThhUDAUpMLA2RCVTo8I8X3fdveykCCwZClB1umzCN6PLbu-w-Cc9s4lLzDP5qdpcYmHHOhnh2_BZBBSLqIG2MzA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HxBVKPvQJnzOObERqhZVy9xFtDMIBj4XKyubrdwUnQrflRCFtEHsPbdd4iIUDV8wkIfNIU-r0UfNKp-z9qWTZSgNZunPPd9WL_2ErP6mjcCgDDKhrb98Onyd4fjUcGCym2tahYxDERFXZH9qmb_mRFBhSSoRO6x2Wa6bpnILSSa_RNMiljSl9JowWdVkIeqgxTJyLpyE070K59XEwS4hU8LdfkI4e4tCBycaWIUMIVFdM2nVKp66PyS9HZqBvS8LsvX39AeETXLR0JMQL_zEMxFJkTkRwx1ukf_aMYqZhv7KJZxaO-nLtbKKdp6VI5xxuCc3P1TvOGL0D918ORklyg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال دانشجو:
 من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده

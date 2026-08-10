@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 02:56:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 03:27:22</div>
 <hr>
 
 <div class="tg-post" id="msg-69823">
@@ -312,7 +312,7 @@
 🔥
 بلک کارت جدید ترین بازی معروف جهانی هست که فقط کافیه یکمی باهوش باشی تا حریفات رو شکست بدی
 👌🏼</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/news_hut/69823" target="_blank">📅 02:02 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.04K · <a href="https://t.me/news_hut/69823" target="_blank">📅 02:02 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69822">
@@ -346,7 +346,7 @@ betinja.bet
 کانال بونوس های رایگان
 a18
 @betinjabet</div>
-<div class="tg-footer">👁️ 2.33K · <a href="https://t.me/news_hut/69822" target="_blank">📅 02:02 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.76K · <a href="https://t.me/news_hut/69822" target="_blank">📅 02:02 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69821">
@@ -356,7 +356,7 @@ a18
 🚨
 🇺🇸
 پرزیدنت ترامپ:  اگه ایران از این به بعد به هر کشتی‌ ای توی تنگه هرمز شلیک کنه، فرقی هم نداره با موشک، پهپاد، راکت یا هر سلاح دیگه‌ای باشه، آمریکا در جوابش یه پل یا نیروگاه برق ایران رو میزنه حتی اگه نزدیک تهران یا داخل خود تهران باشه.  @News_Hut</div>
-<div class="tg-footer">👁️ 6.59K · <a href="https://t.me/news_hut/69821" target="_blank">📅 01:25 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7K · <a href="https://t.me/news_hut/69821" target="_blank">📅 01:25 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69819">
@@ -375,7 +375,7 @@ a18
 🇸🇦
 یک پهباد ساخت چین متعلق به نیروی هوایی عربستان سعودی در آسمان جنوب کشور سرنگون شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.05K · <a href="https://t.me/news_hut/69819" target="_blank">📅 01:11 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.42K · <a href="https://t.me/news_hut/69819" target="_blank">📅 01:11 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69818">
@@ -386,7 +386,7 @@ a18
 ترامپ در تروث سوشال:
 51سال رفتار نامناسب!
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.77K · <a href="https://t.me/news_hut/69818" target="_blank">📅 00:56 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/news_hut/69818" target="_blank">📅 00:56 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69817">
@@ -402,7 +402,7 @@ a18
 🇮🇷
 آتش‌سوزی یک کشتی در پی حمله سپاه پاسداران
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/news_hut/69817" target="_blank">📅 00:48 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/news_hut/69817" target="_blank">📅 00:48 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69816">
@@ -412,7 +412,7 @@ a18
 🇮🇷
 سپاه‌پاسدارن یک کشتی را در تنگه هرمز هدف حمله قرار داد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/news_hut/69816" target="_blank">📅 00:45 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/news_hut/69816" target="_blank">📅 00:45 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69815">
@@ -431,7 +431,7 @@ a18
 ایشالا روزی برسه آمریکا رو نابود کنیم و تو کاخ سفید نماز بخونیم.
 نیاز به بسیجی‌ها نیست همین بچه‌لات‌ها اسرائیل رو میگیرین داداش...
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/news_hut/69815" target="_blank">📅 23:56 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/news_hut/69815" target="_blank">📅 23:56 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69814">
@@ -448,7 +448,7 @@ a18
 این کلیپ ها جعلی و هوش مصنوعی است؛
 من این حرف‌ها را نزدم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/69814" target="_blank">📅 23:15 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/news_hut/69814" target="_blank">📅 23:15 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69812">
@@ -467,7 +467,7 @@ a18
 حالا با وثیقه آزاده، ولی هنوز داستان تموم نشده؛ همسرش گفته فقط یه هفته وقت داری، وگرنه دوباره باید بری زندان!
 از یه آدم سالم و ورزشکار، رسیده به این وضعیت...
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/69812" target="_blank">📅 22:30 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/69812" target="_blank">📅 22:30 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69811">
@@ -477,7 +477,7 @@ a18
 وقوع یک حادثه امنیتی در نزدیکی باشگاه گلف ترامپ در شهر بیدمینستر، ایالت نیوجرسی؛
 فرماندهی دفاع هوافضای آمریکای شمالی (NORAD) دو فروند پهپاد را که حریم هوایی محدودشده بر فراز بد‌مینستر، نیوجرسی (Bedminster, NJ) در نزدیکی باشگاه گلف ترامپ را نقض کرده بودند، رهگیری کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/69811" target="_blank">📅 22:11 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/69811" target="_blank">📅 22:11 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69810">
@@ -486,7 +486,7 @@ a18
 <div class="tg-text">🇮🇷
 با حکم مسعود پزشکیان محسن رضایی رسما دبیرکل شورای عالی امنیت ملی شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/69810" target="_blank">📅 21:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/69810" target="_blank">📅 21:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69809">
@@ -494,7 +494,7 @@ a18
 <div class="tg-text">❌
 یه فلسطینی به زور بچه شو میفرسته جلو سربازای اسرائیلی، بهشون میگه شلیک کنید بهش!
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/69809" target="_blank">📅 21:33 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/69809" target="_blank">📅 21:33 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69808">
@@ -507,7 +507,7 @@ a18
 ایالات متحده در رابطه با ایران «بی‌سروصدا» عمل می‌کند، که نشان می‌دهد واشنگتن فعلاً از اقدام نظامی عمده جدید خودداری می‌کند و در عین حال اجازه می‌دهد فشار اقتصادی افزایش یابد.
 ترامپ با این استدلال که ایران از نظر اقتصادی «در وضعیت بسیار بدی» است و در حالی که محاصره دریایی ایالات متحده فشار را تشدید می‌کند، برای پرداخت حقوق سربازان خود با مشکل مواجه است، گفت: «این [مشکل] حل خواهد شد. همیشه حل می‌شود. مثل یک بازی شطرنج است.»
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/69808" target="_blank">📅 20:49 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/69808" target="_blank">📅 20:49 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69807">
@@ -538,7 +538,7 @@ a18
 به جان امام شهید قسم به جان رهبر مجتبی قسم شما رو با کارتک از وسط خیابون جمع خواهند کرد
 جنازه شماها رو میدیم سگ ها بخورن
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/69806" target="_blank">📅 19:56 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/69806" target="_blank">📅 19:56 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69803">
@@ -553,7 +553,7 @@ a18
 ☺️
 ☺️
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/69803" target="_blank">📅 19:12 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/69803" target="_blank">📅 19:12 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69802">
@@ -568,7 +568,7 @@ a18
 <div class="tg-text">🚀
 یک فروند پهپاد بدون سرنشین جنگی (UCAV) نیروی هوایی ایالات متحده از نوع MQ-9A Reaper که از فرودگاه چابلی برخاسته بود، در نزدیکی گورستان چابلی در جیبوتی سقوط کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/69802" target="_blank">📅 19:11 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/69802" target="_blank">📅 19:11 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69801">
@@ -595,7 +595,7 @@ g18
 لینک چنل
 https://t.me/+_btGj-rRAxs3NGVk
 https://t.me/+_btGj-rRAxs3NGVk</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/news_hut/69800" target="_blank">📅 19:11 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/news_hut/69800" target="_blank">📅 19:11 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69799">
@@ -617,7 +617,7 @@ https://t.me/+_btGj-rRAxs3NGVk</div>
 ما نایب رئیس بودیم توی تبریز باید ده تا درخت میکاشتیم همشو خودمون کاشتیم.
 ما کشاورزی میکردیم، همین الان اگه برم مزرعه خودمون بیل رو میگیرم کار میکنم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/69799" target="_blank">📅 18:30 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/69799" target="_blank">📅 18:30 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69798">
@@ -632,7 +632,7 @@ https://t.me/+_btGj-rRAxs3NGVk</div>
 <div class="tg-text">⏺
 بخشی از مستند«پسرملا» روایتی از چند سال آخر زندگی روح‌الله زم:
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/69798" target="_blank">📅 18:05 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/69798" target="_blank">📅 18:05 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69797">
@@ -640,7 +640,7 @@ https://t.me/+_btGj-rRAxs3NGVk</div>
 <div class="tg-text">🔴
 📰
 وال‌استریت ژورنال: دونالد ترامپ، رئیس‌جمهور آمریکا، از چند هفته قبل برای اعلام پیروزی در جنگ با ایران آماده‌سازی‌هایی انجام داده است.  او به مشاوران ارشد خود گفته است که در صورت بازگشایی کامل تنگه هرمز توسط تهران، می‌تواند این درگیری را بدون دستیابی به توافق…</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/69797" target="_blank">📅 17:36 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/69797" target="_blank">📅 17:36 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69796">
@@ -700,7 +700,7 @@ https://t.me/+_btGj-rRAxs3NGVk</div>
 لازم باشد بخاطر منافع ملی به بزرگ ترین دوستانمان نیز نه خواهیم گفت.
 منفعت اسرائیل رو پایبند به هیچ توافقی نخواهیم کرد و ما مستقل هستیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/69793" target="_blank">📅 16:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/69793" target="_blank">📅 16:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69792">
@@ -771,7 +771,7 @@ https://t.me/+_btGj-rRAxs3NGVk</div>
 🔴
 ارتش ایالات متحده همچنین به بیش از 30 کشتی اجازه عبور از محاصره برای کمک‌های بشردوستانه را داده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/69787" target="_blank">📅 14:59 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/69787" target="_blank">📅 14:59 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69786">
@@ -826,7 +826,7 @@ https://t.me/+_btGj-rRAxs3NGVk</div>
 <div class="tg-text">‼️
 این ویدیو رو ببینید تا متوجه بشید با قیمت الانِ یک نوشابه، تو سال ۹۵ می‌شد چه چیزایی خرید...
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/69783" target="_blank">📅 12:30 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/69783" target="_blank">📅 12:30 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69779">
@@ -965,7 +965,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-text">‼️
 بابای این دختره چون دخترش توی امتحان گواهینامه قبول شده براش BMW 225 خریده ناقابل ۱۲ میلیارد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/69773" target="_blank">📅 11:04 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/69773" target="_blank">📅 11:04 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69772">
@@ -1142,7 +1142,7 @@ winro.io
 <div class="tg-text">🚨
 ‼️
 حمیدرضا رجب زاده یکی از مداح های حکومتی بوده که چند هفته پیش به قتل می‌رسه، حالا یه کانال تلگرامی مدعی شده اونا این قتل رو انجام دادن دلیلشون هم اینه بوده که این مداح تو دی‌ماه جز نیرو های سرکوبگر بوده و به سمت مردم تیر می‌زده  ویدیوی قتل که قلبشو از سینش…</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/69762" target="_blank">📅 00:35 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/69762" target="_blank">📅 00:35 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69760">
@@ -1241,7 +1241,7 @@ winro.io
 <div class="tg-text">⏺
 ژنرال برد کوپر، فرمانده فرماندهی مرکزی ایالات متحده، در اسرائیل فرود آمد تا جلساتی را با ژنرال زمیر، رئیس ستاد، و مقامات ارشد نظامی اسرائیل برگزار کند. این مقام آمریکایی پس از برگزاری جلساتی در بحرین و امارات متحده عربی، به اسرائیل سفر کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/news_hut/69755" target="_blank">📅 21:19 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/news_hut/69755" target="_blank">📅 21:19 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69754">
@@ -1347,7 +1347,7 @@ winro.io
 ❌
 ❌
 طرح شارژ رایگان فقط تا پایان مرداد ماه</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/69749" target="_blank">📅 19:38 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/69749" target="_blank">📅 19:38 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69748">
@@ -1384,7 +1384,7 @@ betinja.bet
 کانال بونوس های رایگان
 g17
 @betinjabet</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/69748" target="_blank">📅 19:38 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/69748" target="_blank">📅 19:38 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69747">
@@ -1997,7 +1997,7 @@ a16
 <div class="tg-text">⏸
 یکی از قشنگ‌ترین ویدیوهایی که درباره توصیف وضعیت جامعه در حال وایرال شدنه:
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/69706" target="_blank">📅 22:27 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/news_hut/69706" target="_blank">📅 22:27 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-69705">

@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64.6K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 02:56:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 03:27:22</div>
 <hr>
 
 <div class="tg-post" id="msg-6535">
@@ -342,7 +342,7 @@
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vDD8QKRBOgDsnWDMdjA64O6zFksCOimNUqa_yZHEc5vRyMrEBisy3Ums_07eE_eT9-0DAskJMqDLtheC3MO-wLb6yWps1VbIBDsd4CqFVVgGcF6fZKqc6HGGpn1iY37J4MailIHcoiZDj18cwVd4mxyVgonpjk1J188n2Uct5KG1Yp4Z8lnqf7oOCkouOv6qVwWScAlpA6EFN0qwGbxEuiOA-OQ6KmhWcOmWYCWyE-a_nnS-jxZu1tHO22eXsV7luRFOWcpezJUkvV8_hcSNuUt98kMzPYjbfzB3UDVy-SM_Dwcl3n6Y7-T4k2A7Q7mw4uNG6Pv9SWOgGdQeXc16Ag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هم در این آیه ۵ سوره قصص، هم در آیه ۱۳۷ سوره اعراف، هر دوبار  قرآن میگه که ما یهودیان و بنی‌اسرائیل رو تسلط دادیم و حاکم کردیم!  . «و آن قومی را که پیوسته به ضعف کشانده می‌شدند، [بنی‌اسرائیل] را وارث مشرق‌ها و مغرب‌های آن سرزمینی کردیم که در آن برکت نهاده…</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/6531" target="_blank">📅 15:11 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/6531" target="_blank">📅 15:11 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6530">
@@ -1129,7 +1129,7 @@ https://x.com/farahmandalipur/status/2083837885224988931?s=46</div>
 <a href="https://cdn4.telesco.pe/file/cabfb827a1.mp4?token=CAH1-KTu6Xf0yloHEPrQF6dWAdHy2bRhzdUGqYk0NBFhFyhmjqNRfvuqVlFI9eRNzHEd53zHg0fvOI8EUHrXON2vpVRTVOcJEdWqq41s5tFq07CcgEdizPxrDQrJaLozaRuhH6kIXJ8kT-qfLNrOpowOYmbpJdpUScXFrqx2sOndZQHs7P3gxrRTVDrLXWJlIqkH8nSjvVNiYudnEN6Bc_m1SzO2cBIGfSLIweTm4LJbq_sbmj7DYRF-Sfxmt_ul_vt7Pl6Eulm8P0cxj05FUuCdjtp78p8oCA2kjy8g9-HKevfn5H9CAz4G4uBUFtFKU4uXfBT9tfgciWz90XATuA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">الان خاصیت ابوذر چی بود؟  دستاوردش برای انسان چی بود؟؟  به اندازه یک قرص سر درد،  تونست به بشریت خدمت برسونه که میگی هزار بوعلی و رازی و….. خدمت کنه؟  اینها روشنفکرهای ما بودن!!  این‌ها بت‌های یک نسل از ایرانی‌ها بودن که ثمره افکارشون رو داریم می‌بینیم!ً</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/farahmand_alipour/6448" target="_blank">📅 14:42 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/farahmand_alipour/6448" target="_blank">📅 14:42 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6447">
