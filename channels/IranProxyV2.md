@@ -288,10 +288,10 @@
 <div class="tg-channel-header">
 <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2EwZGU3ZSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzU0Y2I2OCIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPtm%2BPC90ZXh0Pjwvc3ZnPg%3D%3D" class="tg-avatar" alt="avatar"/>
 <h1>📡 پروکسی</h1>
-<p>@IranProxyV2 • 👥 1.27K عضو</p>
+<p>@IranProxyV2 • 👥 1.24K عضو</p>
 <a href="https://t.me/IranProxyV2" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 23:37:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 00:39:06</div>
 <hr>
 
 <div class="tg-post" id="msg-98">

@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 23:37:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 00:39:06</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -2419,10 +2419,10 @@ neural networks
 <div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6689285f08.mp4?token=lVgW_Lu1jMk6jxXRQpySjYsz-cxGPyIwuTA06bXZpHxcV1gzbUVLFN6t71_OvkFIrstvhCLLezXNIvasg10crgArbMunrL3NXCq5OZvgBEAi46x7pp56tYEcoaPAe7vpgGhIVDwXyntXzPb6dsKOlTM0ZtNY8TuKr5GGkp21FbpkQXA-qnbPmdNxUZ555etTNK7jG5UaTdLFV7MFHHwDYDQ3JIdWtex8w5yK7pVnIkt8wrzkHgZksm4IGT9sj4_J-u14sobrhpkCWimXYax1Jl5X3mIJoYPqZVXjpBrlJMU55OlqHw5jsGHr_fhKKM4iV4cNN0ADEflW5gpPTT30pw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6689285f08.mp4?token=rFEIJBpyqY_VGwnKBMJbu-0xM9oq534wrDNaaOmikcO6Q0X9U8PIA9Gq07kmr3-ic0vmaxQ1_nDjj6RMyft3eNLGeiCeZb40elxe02zQYQHiy-Rc4gb4FrQI10U0npFzyy8aDN-XxUb1Pe2FSaHbh0NCcB6F78AGVCcJsg_OdngMKG-yC5EN9xPjTU4wxAzxglsmvPmzP-cy_VlC-FOAE6__8ZSVJUMLdXkzVqs_O8qeO_nMXMTGxTXpxoJ-lMtstkLR1wGDzPZb9cVMSs7EPKzqaG9l_f1qXaiNnIiOQAYX5S0sRTup6tIe8yavEUIP18c8ocu5sB9ulFx7I188-Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6689285f08.mp4?token=lVgW_Lu1jMk6jxXRQpySjYsz-cxGPyIwuTA06bXZpHxcV1gzbUVLFN6t71_OvkFIrstvhCLLezXNIvasg10crgArbMunrL3NXCq5OZvgBEAi46x7pp56tYEcoaPAe7vpgGhIVDwXyntXzPb6dsKOlTM0ZtNY8TuKr5GGkp21FbpkQXA-qnbPmdNxUZ555etTNK7jG5UaTdLFV7MFHHwDYDQ3JIdWtex8w5yK7pVnIkt8wrzkHgZksm4IGT9sj4_J-u14sobrhpkCWimXYax1Jl5X3mIJoYPqZVXjpBrlJMU55OlqHw5jsGHr_fhKKM4iV4cNN0ADEflW5gpPTT30pw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6689285f08.mp4?token=rFEIJBpyqY_VGwnKBMJbu-0xM9oq534wrDNaaOmikcO6Q0X9U8PIA9Gq07kmr3-ic0vmaxQ1_nDjj6RMyft3eNLGeiCeZb40elxe02zQYQHiy-Rc4gb4FrQI10U0npFzyy8aDN-XxUb1Pe2FSaHbh0NCcB6F78AGVCcJsg_OdngMKG-yC5EN9xPjTU4wxAzxglsmvPmzP-cy_VlC-FOAE6__8ZSVJUMLdXkzVqs_O8qeO_nMXMTGxTXpxoJ-lMtstkLR1wGDzPZb9cVMSs7EPKzqaG9l_f1qXaiNnIiOQAYX5S0sRTup6tIe8yavEUIP18c8ocu5sB9ulFx7I188-Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔍
 گوگل با ۶۰ لینک در AI Overview!  آیا کسی روی لینک های پیشنهادی کلیک می‌کند؟
@@ -2503,7 +2503,7 @@ neural networks
 
 <div class="tg-post" id="msg-828">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RvQmMR8ba_YlCWLa_DNcwPndxXXU9peYpkm8jlQ_xmUB_FsiEJWC6--BqLbyilMb1Afoq70GLmkGeh0QA6qEzGxro2QUp1fa-O_4aZ2xjMxt3FlxKH41PcfKjjuWdHQsBwkSpNJXp7vL9KP_abDikM_Ct4d384o1UFlx_pEUHp24nhiKsLV7hZ6beUKoZAHVojtVHSf3m-31JzXuw-3CL8xgH-_AjFDIszToFSREbOHPebmlvJ6gZtZt294FV886xpNGvsSxWn7zt7ZSeivH5vSE9PuPyPzRtPmCbjTUsYJDbgPDyHbKsZ03JnQg0BxIfUvtNAzkC-zLRyLGKyvzkA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YTm30Qw61I8uLKxjJWMdFat-Aofgy1sX-ZAYMVO-PVJWx1qcx9lXCEbzBcuYOLxQbd_3HYOCHg82tMHdecfPWn1benRjgvbkgdhbBcVwyC-ZEHfgAWgpigQtBD_7Q2tZ1gwzHyZJTdKNhxI0cp-2BknyHzflza1O9sPklBZteEV-SyHf_kiO9DGyRtZ5pCycVn9utZ5viTBB1Y6hEREXuXodUtk5OCHUU--zTsSkf4loWkCxXTr-gLcC7FBsEh8d4U4oYH31XX0qwfxjjROdB7EEwGjjoYKum2WZz8RSHjvK5T3GjKvaVYEihT4rXS0yDJhN2G77V9jU7m3RKGeOtA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❌
 مسدود شدن اکانت آنالیتیکس سایت های ایرانی
 ⚠️
