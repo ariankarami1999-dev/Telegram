@@ -292,7 +292,7 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 15:17:58</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 16:17:14</div>
 <hr>
 
 <div class="tg-post" id="msg-20766">
@@ -301,7 +301,7 @@
 <div class="tg-text">کانال ۱۴ : عاملان کشتار جمعی اکنون کنترل ساختار نظامی و امنیتی ایران را در دست دارند.
 ایران به‌تازگی قدرت را به‌طور کامل در اختیار دو فرد تحت تعقیب اینترپل قرار داده است. محسن رضایی اکنون با اختیاراتی هم‌تراز با رئیس‌جمهور، ریاست شورای عالی امنیت ملی را بر عهده دارد و احمد وحیدی نیز با اختیاراتی در سطح رهبر جمهوری اسلامی، فرماندهی سپاه پاسداران را در دست گرفته است. هر دوی آن‌ها به دلیل نقش ادعایی در طراحی و سازماندهی بمب‌گذاری سال ۱۹۹۴ مرکز یهودیان آمیا در آرژانتین، تحت اعلان قرمز اینترپل قرار دارند
 @WarRoom</div>
-<div class="tg-footer">👁️ 6.49K · <a href="https://t.me/withyashar/20766" target="_blank">📅 15:14 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/withyashar/20766" target="_blank">📅 15:14 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20765">
@@ -311,7 +311,7 @@
 تهدید ایران و بقای سیاسی شخصی‌اش عملاً به هم گره خورده‌اند
 ؛ زیرا اگر بدون یک دستاورد بزرگ وارد انتخابات شود، فرسایش قدرت نظامی و نبود موفقیت سیاسی می‌تواند برای اردوگاه او هزینه انتخاباتی سنگینی داشته باشد
 @WarRoom</div>
-<div class="tg-footer">👁️ 77.6K · <a href="https://t.me/withyashar/20765" target="_blank">📅 12:38 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 91.5K · <a href="https://t.me/withyashar/20765" target="_blank">📅 12:38 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20764">
@@ -319,7 +319,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ecy1hqXO_X2a_4XmBNP6IA_uKMoetYPDANV7sdYyZijALDvqp-liaXeQ0LiHWk5r1D98_4wGOwQWE1TfFZNJWrg_JBm2rrS5EOWFlzldKQExoFiQk0EbZdmzrYkvzrxmSBIHd2sXl3OtzZjJHWRIfEd86Qb6VtRxnq2fz0XrRGYdP-er8av57diRJzAixCuXTJ3jBatSEcMjMbqucGehxeexc439AK5AkVwF9HTl4LTwMY1j7ob6J5DgmZxsqL8VqIZzspAybBjGEkfR3Bkf6NM7hdCNkgJaCgb41B_NsCkYVvvli1GR8dnCUTk4IPWIiOaGJh8-Yc2Wt4gOWHMY7g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حضور محمود بوتاکس در جلسه دیروز مجمع تشخیص مصلحت نظام
 @WarRoom</div>
-<div class="tg-footer">👁️ 83.8K · <a href="https://t.me/withyashar/20764" target="_blank">📅 12:24 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 96.1K · <a href="https://t.me/withyashar/20764" target="_blank">📅 12:24 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20763">
@@ -328,14 +328,14 @@
 خب،این به چه معناست؟
 نتیجه بگیرید.
 @WarRoom</div>
-<div class="tg-footer">👁️ 95.6K · <a href="https://t.me/withyashar/20763" target="_blank">📅 11:18 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/20763" target="_blank">📅 11:18 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20762">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">مجید شاکری ،مشاور قالیباف :  ترامپ با ما توافق نخواهد کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 96.3K · <a href="https://t.me/withyashar/20762" target="_blank">📅 11:10 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/20762" target="_blank">📅 11:10 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20761">
@@ -343,7 +343,7 @@
 <div class="tg-text">باراک راوید ، آکسیوس : یک مقام ارشد آمریکایی به من گفت که کاخ سفید از اظهارات نتانیاهو درباره طرح غزه «نگران یا ناراحت نیست» و آن را بخشی از فضای رقابت‌های انتخاباتی در اسرائیل می‌داند.
 این مقام آمریکایی گفت: ما نیازهای سیاسی بیبی را درک می‌کنیم
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/20761" target="_blank">📅 10:39 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/20761" target="_blank">📅 10:39 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20760">
@@ -351,14 +351,14 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AbdnkiPypyzW1X7nmigqC-Spe7qLULSvK62UlbU5ljhYHokmAghE086lAuqqlTivK7Gk31SulN2sLyAD4iqD3nWK4vS10Zn1T7gEp7gzXh77lI5FiLg-Mo20720X826LOWtSj4VTO0oEpIprAmJRgOXr4vJIFdNEUKZ1r-Tjm5xb0WxeZqS6Hs0YOFX-Dzjy5Kq1wf7o_Inr1bm2_xJecB-s3LFv2hM6KW_NWFRshsa7uuXz1fNk6jiTE4zMUUToNDzZqiTa3MufVyxTJDXDZgRlIpBOKw21T01tsYLpYWZGbc7z1k-zvR2LfT2FfF_yoEiWfT-jcbgo0WSGfrkvTQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چیز نیست، بی بی داره خنثی سازی و بازکردن ورودی های تونل ها رو براشون انجام میده.
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/20760" target="_blank">📅 10:14 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/20760" target="_blank">📅 10:14 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20759">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromAlireza</strong></div>
 <div class="tg-text">مهم نیست داش یاشار مهمات عمل نکرده دوران هخامنشیان هست</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/20759" target="_blank">📅 09:53 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/20759" target="_blank">📅 09:53 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20758">
@@ -366,7 +366,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fbdiM9ET-ozVfpvEoltD6osL6zNo7b7Tco6BoPDhEPSUDJmIZQ4zKMPrGjGTk_UeMqD-M1Yz9vfKTziqSQS1p-D-YLXW9ZMpb41bpgtS9Vt2r2Od0Veymel6DaZU9tDWAl4LPaqhOIdaznS0O0KEPNqvqVII0XJ3H4JlL57RRY--HhhMGtoHZBBlwVPLIce9_4KLHoNrFqtBHNN3C1gMt3glEZTzEHVKCXGnzBG3SSwfU5JKWfGHVSOmXh21OcMfYsgr4dHhOdvxhTdQzqXFzrb8IkcCW8Yrml72ebkIx0Qgg_gDPS8ma_z9-9n1_wm1k42HpXWHEdTjUikp_CNidg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اصفهان سمت پادگان ۱۵ خرداد انفجار جدید
 @WarRoom</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/20758" target="_blank">📅 09:49 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/20758" target="_blank">📅 09:49 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20757">
@@ -374,7 +374,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FtR7PoNHNRby1sGsYrPGareZ3ZOKD_hc3TCHK1TgYpBwGg7CTV7CKSb8E1UYCdBz-FkgWw8aJ8-76CUhojA1CJIj-oWSH0cG5txmWWwor2F0x7qTrFB9yzJjBU0ifTPRQm53yOuhZvbGNhalutFcO1FFebKw5eLFiZ-LKkEvrglSr0241ync24ujGCiPOIOV9xyERP9UAP4p4t8bqRT0BlQQ_bVs57RPidnHbE-s46cKhSdbHki05cjlNtKe-B5XVanPKKuCMhhE5x9NjiQl_CszWPNCjx-h6xL1NLlRoeEfON90KGPToBuEqJhE4PQNh6xHjoCNSuZZ39fNkio6Pg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دو انفجار شدید در اصفهان
 @WarRoom</div>
-<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/20757" target="_blank">📅 09:42 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/20757" target="_blank">📅 09:42 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20756">
@@ -383,7 +383,7 @@
 <div class="tg-text">فاکس‌نیوز : زیردریایی جدید «روز قیامت» اسرائیل که با هزینه ۶۳۴ میلیون دلار در آلمان ساخته شده، توان بازدارندگی این کشور در برابر ایران را به‌طور چشمگیری افزایش می‌دهد.
 این زیردریایی از کلاس «دلفین» است و شرکت آلمانی «تیسن‌کروپ» آن را ساخته است. همچنین، این بزرگ‌ترین زیردریایی ساخته‌شده در آلمان از زمان پایان جنگ جهانی دوم به شمار می‌رود و به جدیدترین موشکها مجهز است
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/20756" target="_blank">📅 09:29 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/20756" target="_blank">📅 09:29 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20755">
@@ -397,21 +397,21 @@
 </div>
 <div class="tg-text">ترامپ در واشنگتن دی سی، در پایگاه اندروز فرود آمد و مصاحبه ای‌ نکرد که به نظر من بازی با رسانه هاست تا در خبر های‌ زرد و دروغین خود غلت بزنند تا غافلگیر شوند
 @WarRoom</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/20755" target="_blank">📅 02:37 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20755" target="_blank">📅 02:37 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20754">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UOO1UJq98eMOL6OaHLXOz6X9yPj-kdW16h10gSkxyOyMUUF8Mfw8223zYgPOUqP0CBI0vbCkjJEsIfqfSU2T-Uajyur-FspLmhDUlKyZIEpKMbrTIWVJMg1bcqUQq6zzOzB-cLW5NOBQ1x5cOLKcnkYVAD-SyWzTuzhTQGsvynjS6RaEc9esi7_l6--pAwuvgsWQJJYK26wue0tP72WYag5GZoLWYgNOKjkDCjZ1wNlEAVltn8Ut0RJ5HOMo5BEzrmOpYS4WC9w5MQX6d9wEHpZJIEMuEkl6W5yynZR5Ea9LMAaq4wjCIChc_z8CwsQv64gsS-j3fna92A_kgBahFQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اتاق جنگ با یاشار : تا اینجای کار امشب در حالی که در سراسر خاورمیانه آرامش برقرار بود، در ساعات اخیر، حکومت ایران تعدادی موشک به سمت یک کشتی که در حال عبور از تنگه هرمز بود و توسط نیروهای ارتش آمریکا اسکورت می‌شد، شلیک کرد. سپس، آمریکا و عربستان سعودی تعدادی…</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/20754" target="_blank">📅 01:44 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/20754" target="_blank">📅 01:44 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20753">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">اتاق جنگ با یاشار : تا اینجای کار امشب در حالی که در سراسر خاورمیانه آرامش برقرار بود، در ساعات اخیر، حکومت ایران تعدادی موشک به سمت یک کشتی که در حال عبور از تنگه هرمز بود و توسط نیروهای ارتش آمریکا اسکورت می‌شد، شلیک کرد. سپس، آمریکا و عربستان سعودی تعدادی پهپاد به سمت جنوب ایران پرتاب کردند که پهپاد سعودی توسط سپاه رهگیری شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20753" target="_blank">📅 01:37 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/20753" target="_blank">📅 01:37 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20752">
@@ -437,27 +437,27 @@ USS Ross (DDG-71)
 ۲ کشتی دیگر
 را نیز مورد بازرسی و سوار شدن نیروهای نظامی قرار داده‌ایم
 @WarRoom</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20752" target="_blank">📅 01:32 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 135K · <a href="https://t.me/withyashar/20752" target="_blank">📅 01:32 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20751">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">بلومبرگ: توافق هرمز همچنان دور از دسترس است، با توجه به اینکه ایران از مذاکرات مستقیم با آمریکا امتناع می‌کند
 @WarRoom</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/20751" target="_blank">📅 01:29 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/20751" target="_blank">📅 01:29 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20750">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/20750" target="_blank">📅 01:19 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/20750" target="_blank">📅 01:19 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20749">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">روزنامه کیهان : اردوغان و شهباز شریف مثل روباه مکار و گربه نره بن سلمان را سرکیسه کردند!
 @WarRoom</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/20749" target="_blank">📅 01:18 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/20749" target="_blank">📅 01:18 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20748">
@@ -471,7 +471,7 @@ USS Ross (DDG-71)
 </div>
 <div class="tg-text">یک پهپاد ساخت چین که توسط نیروی هوایی سلطنتی عربستان هدایت می‌شد، در سیریک، استان هرمزگان، ایران سرنگون شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/20748" target="_blank">📅 01:15 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 131K · <a href="https://t.me/withyashar/20748" target="_blank">📅 01:15 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20747">
@@ -481,7 +481,7 @@ USS Ross (DDG-71)
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/20747" target="_blank">📅 00:55 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/20747" target="_blank">📅 00:55 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20746">
@@ -491,7 +491,7 @@ USS Ross (DDG-71)
 : 51 سال رفتار نامناسب ایران!
 @WarRoom
 حالا چرا ۵۱ !؟ ۴ سال آخر شاهنشاهی هم قبول نداشته ؟!</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/20746" target="_blank">📅 00:54 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/20746" target="_blank">📅 00:54 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20745">
@@ -509,7 +509,7 @@ USS Ross (DDG-71)
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/20745" target="_blank">📅 00:50 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/20745" target="_blank">📅 00:50 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20744">
@@ -520,7 +520,7 @@ USS Ross (DDG-71)
 🚨
 🚨
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/20744" target="_blank">📅 00:46 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/20744" target="_blank">📅 00:46 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20743">
@@ -530,7 +530,7 @@ USS Ross (DDG-71)
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/20743" target="_blank">📅 00:42 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/20743" target="_blank">📅 00:42 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20742">
@@ -540,14 +540,14 @@ USS Ross (DDG-71)
 یه نفتکش میخواست از مسیر جنوبی
 عمان عبور کنه مورد حمله قرار گرفت
 @WarRoom</div>
-<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/20742" target="_blank">📅 00:33 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/20742" target="_blank">📅 00:33 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20741">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">گزارش صدای انفجار  پرتاب  موشک/پهپاد از سیریک @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/20741" target="_blank">📅 00:32 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/20741" target="_blank">📅 00:32 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20740">
@@ -562,14 +562,14 @@ USS Ross (DDG-71)
 <div class="tg-text">ترامپ
 نیوجرسی را ترک کرد و جواب خبرنگاران رو هم نداد، تا ساعاتی دیگه میره دم توالت شروع میکنه
 @WarRoom</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/20740" target="_blank">📅 00:27 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/20740" target="_blank">📅 00:27 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20739">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">شبکه i24 NEWS: اسرائیل فاش کرد که رهبر حماس، "باسل صالیه" را از دو سال پیش بازداشت کرده است. این خبر پس از دستگیری او در شهر حمد منتشر شد. این گزارش حاکی است که او پیش از این با سنوار و الضیف اختلافاتی داشته است. اسرائیل او را مسئول شلیک موشک کورنیت به یک اتوبوس در سال ۲۰۱۱ می‌داند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/20739" target="_blank">📅 00:23 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/20739" target="_blank">📅 00:23 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20738">
@@ -583,7 +583,7 @@ USS Ross (DDG-71)
 لینک‌های داده و ارتباطات پیشرفته‌تر
 و موارد بکلی سری بسیار زیاد انجام شده
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/20738" target="_blank">📅 00:16 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/20738" target="_blank">📅 00:16 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20737">
@@ -591,7 +591,7 @@ USS Ross (DDG-71)
 <div class="tg-text">گزارش صدای انفجار  پرتاب  موشک/پهپاد از سیریک
 @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/20737" target="_blank">📅 00:04 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/20737" target="_blank">📅 00:04 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20736">
@@ -605,14 +605,14 @@ USS Ross (DDG-71)
 </div>
 <div class="tg-text">فرماندهی دفاع هوافضای آمریکای شمالی (NORAD) اعلام کرد که جنگنده‌های اف-۱۶ این فرماندهی، چند هواپیما را در نزدیکی باشگاه گلف ترامپ در بدمینسترِ ایالت نیوجرسی رهگیری کردند؛ زیرا این هواپیماها بنا بر گزارش‌ها، محدودیت موقت پرواز اعمال‌شده بر فراز آن منطقه را نقض کرده بودند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20736" target="_blank">📅 23:54 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20736" target="_blank">📅 23:54 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20735">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">کانال ۱۳ : اسرائیل به فرمانده سنتکام اطلاع داده است که در صورت توسعه برنامه‌های هسته‌ای و موشک‌های بالستیک ایران، به ایران حمله خواهد کرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/20735" target="_blank">📅 23:29 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/20735" target="_blank">📅 23:29 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20734">
@@ -620,7 +620,7 @@ USS Ross (DDG-71)
 <div class="tg-text">به گزارش اکسیوس، توافقی برای کنترل عبور و مرور از تنگه هرمز بین ایران، عمان و ایالات متحده مورد مذاکره قرار گرفته، اما چندین روز است که در حالت تعلیق مانده است.
 مقامات آمریکایی می‌گویند اختلافات فزاینده‌ای در درون رهبری ایران وجود دارد. گفته می‌شود یک ساید به رهبری رئیس جمهور مسعود پزشکیان، به طور فزاینده‌ای نگران فروپاشی اقتصادی احتمالی است و معتقد است که تهران به توافقی با واشنگتن نیاز دارد. ساید دیگر به رهبری فرمانده سپاه احمد وحیدی، با امتیاز دادن به ایالات متحده مخالف است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 143K · <a href="https://t.me/withyashar/20734" target="_blank">📅 21:23 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 144K · <a href="https://t.me/withyashar/20734" target="_blank">📅 21:23 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20733">
@@ -629,7 +629,7 @@ USS Ross (DDG-71)
 ترامپ گفت: «ما فقط به‌صورت نیم‌بند با آنها مذاکره می‌کنیم. ما فقط داریم ایران را زیر نظر می‌گیریم؛ با این تورم شدید و این واقعیت که پولی ندارد.» او با اشاره به وضعیت اقتصادی ایران مدعی شد که این کشور «در شرایط بسیار بدی» قرار دارد و در پرداخت حقوق نیروهایش با مشکل روبه‌رو است؛ آن هم در شرایطی که محاصره دریایی آمریکا فشارها بر ایران را افزایش داده است.
 ترامپ درباره رویارویی با تهران گفت: «همه‌چیز درست خواهد شد. همیشه درست می‌شود. این مثل یک بازی شطرنج است.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/20733" target="_blank">📅 20:53 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/20733" target="_blank">📅 20:53 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20732">
@@ -639,7 +639,7 @@ USS Ross (DDG-71)
 اعلام خواهد شد، اما از آن زمان، چشم‌انداز دستیابی به توافق کمرنگ‌تر به نظر می‌رسد
 یک مقام آمریکایی مدعی شد که حدود ۸ میلیون بشکه نفت هر شب از خلیج فارس از مسیر کریدور جنوبی تنگه هرمز و با هماهنگی ارتش آمریکا خارج می‌شود. آمریکا قصد دارد تا زمانی که توافقی حاصل نشده، تلاش کند نفت بیشتری از منطقه خارج شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/20732" target="_blank">📅 20:49 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/20732" target="_blank">📅 20:49 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20731">
@@ -647,7 +647,7 @@ USS Ross (DDG-71)
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jCAh8fePLqBv5GR7hP31ev0FEDYiyatXCtdXoSqV0mwe2vHcPV8XrznIXyfpAQgVbyg7LfhBRizuhvrOnLAL5Pq-S6ANglmTr0nY3bj6U4ywZcOGZDxTYzuIcxd7XnXpgsvRhPfLOyrsCOxpUj0Uqhbw-Y9qToEkVbYdCBa_EssXJlNlgCtwkwUM_tyjruNPurZJw8YnnRkMnjvarI8jI4oCjMUeRTbSpLCLTrojN6BxwDhhTDSGGjiQZp_1T4ys8JYF9UOjKGR9bMCSRaQbojrBu6EsSJDuIV9Gg4sQsLcyphztxJ12cY83NKpITtcGQ-g3NNOBHhWkb11xFVe_7A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سنتکام : جت‌های جنگنده رادارگریز F-35A نیروی هوایی ایالات متحده در آسمان خاورمیانه گشت‌زنی می‌کنند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 144K · <a href="https://t.me/withyashar/20731" target="_blank">📅 19:02 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 145K · <a href="https://t.me/withyashar/20731" target="_blank">📅 19:02 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20730">
@@ -720,7 +720,7 @@ USS Ross (DDG-71)
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">یکی از معاونان نیروی شبه‌نظامی بسیج ایران ادعا کرد که تصاویری که مجتبی خامنه‌ای، رهبر ایران، را در میان مردم و در خیابان‌ها نشان می‌دهد، در آینده منتشر خواهد شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/20724" target="_blank">📅 16:36 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 141K · <a href="https://t.me/withyashar/20724" target="_blank">📅 16:36 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20723">
@@ -745,7 +745,7 @@ instagram.com/yasharmotors</div>
 </div>
 <div class="tg-text">اتاق جنگ با یاشار : ناتو وارد میشود
 @WarRoom</div>
-<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/20722" target="_blank">📅 15:18 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/20722" target="_blank">📅 15:18 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20721">
@@ -782,14 +782,14 @@ instagram.com/yasharmotors</div>
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">یکی از رسانه های رژیم نزدیک به جبهه پایداری، با انتشار پیامی از هوادارانش خواست برای سلامتی مجتبی خامنه‌ای دعا کنند و «قربانی گوسفند» انجام دهند. در این پیام ادعا شده که «گروهی از علما» از در خطر بودن جان او خبر داده‌اند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 139K · <a href="https://t.me/withyashar/20717" target="_blank">📅 14:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 140K · <a href="https://t.me/withyashar/20717" target="_blank">📅 14:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20716">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">اسکات بسنت، وزیر خزانه‌داری آمریکا، در گفت‌وگو با کانال «12 نیوز» پیش‌بینی کرد تنگه هرمز طی 2 سال آینده اهمیت خود را از دست بدهد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 136K · <a href="https://t.me/withyashar/20716" target="_blank">📅 14:31 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 137K · <a href="https://t.me/withyashar/20716" target="_blank">📅 14:31 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20715">
@@ -886,7 +886,7 @@ instagram.com/yasharmotors</div>
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">‏حوثی‌ها اعلام کردند پالایشگاه آرامکو عربستان سعودی در جازان را هدف قرار داده‌اند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 150K · <a href="https://t.me/withyashar/20703" target="_blank">📅 10:40 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 151K · <a href="https://t.me/withyashar/20703" target="_blank">📅 10:40 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20702">
@@ -1006,7 +1006,7 @@ USS Abraham Lincoln (CVN-72)
 <div class="tg-text">فرمانده سنتکام وارد تل‌آویو شد
 برد کوپر با رئیس ستاد مشترک ارتش اسرائیل و دیگر مقامات ارشد ارتش دیدار خواهد کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 162K · <a href="https://t.me/withyashar/20691" target="_blank">📅 20:51 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 163K · <a href="https://t.me/withyashar/20691" target="_blank">📅 20:51 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20690">
@@ -1086,7 +1086,7 @@ USS Abraham Lincoln (CVN-72)
 <div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">دبیر شورای امنیت ملی ایران می‌گوید که ایالات متحده باید دارایی‌های مسدود شده ایران را بدون قید و شرط آزاد کند، تحریم‌ها را لغو کند و غرامت دو جنگ اخیری را که علیه ما به راه انداخته است، بپردازد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 146K · <a href="https://t.me/withyashar/20682" target="_blank">📅 17:54 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 147K · <a href="https://t.me/withyashar/20682" target="_blank">📅 17:54 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20681">
@@ -1096,7 +1096,7 @@ USS Abraham Lincoln (CVN-72)
 B-1B "FROWN30" 86-0124
 B-1B "FROWN31" (در انتظار تایید)
 @WarRoom</div>
-<div class="tg-footer">👁️ 152K · <a href="https://t.me/withyashar/20681" target="_blank">📅 17:05 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 153K · <a href="https://t.me/withyashar/20681" target="_blank">📅 17:05 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20680">

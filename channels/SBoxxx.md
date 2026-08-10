@@ -292,7 +292,7 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 15:17:58</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 16:17:14</div>
 <hr>
 
 <div class="tg-post" id="msg-19875">
@@ -308,31 +308,31 @@
 <div class="tg-text">#پادکست_GeoMarkets
 شماره — 22
 دوشنبه 10 آگوست 2026</div>
-<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/SBoxxx/19875" target="_blank">📅 14:19 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.73K · <a href="https://t.me/SBoxxx/19875" target="_blank">📅 14:19 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19874">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">— وزارت کشور عراق:
 «هر پهپادی که بدون مجوزهای لازم پرتاب شود، به عنوان عملی تروریستی تلقی خواهد شد».</div>
-<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/SBoxxx/19874" target="_blank">📅 13:43 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.28K · <a href="https://t.me/SBoxxx/19874" target="_blank">📅 13:43 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19873">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/SBoxxx/19873" target="_blank">📅 13:08 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/SBoxxx/19873" target="_blank">📅 13:08 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19872">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">فعلاً 2 کشور در خواهرمیانه با ائتلاف «مکه» مخالف هستند: ایران و اسرائیل</div>
-<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/SBoxxx/19872" target="_blank">📅 12:33 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.94K · <a href="https://t.me/SBoxxx/19872" target="_blank">📅 12:33 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19871">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">مایک والتز، سفیر ایالات متحده در سازمان ملل:  "عربستان سعودی، ترکیه، پاکستان و احتمالاً مصر در حال تلاش برای تشکیل یک ائتلاف دفاعی برای مقابله با ایران هستند."</div>
-<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/SBoxxx/19871" target="_blank">📅 12:32 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.96K · <a href="https://t.me/SBoxxx/19871" target="_blank">📅 12:32 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19870">
@@ -367,20 +367,20 @@ INS Drakon
 تحویل
 INS Drakon
 را می‌توان بخشی از راهبرد بلندمدت اسرائیل برای حفظ برتری کیفی در حوزه دریایی و تضمین آزادی عمل در یکی از حساس‌ترین مناطق ژئوپلیتیکی جهان دانست؛ منطقه‌ای که رقابت قدرت‌های منطقه‌ای در آن به‌طور فزاینده‌ای در حال افزایش است.</div>
-<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/SBoxxx/19870" target="_blank">📅 12:27 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.81K · <a href="https://t.me/SBoxxx/19870" target="_blank">📅 12:27 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19869">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">وزیر امور دیاسپورای اسرائیل، چیکلی:  اتحادیه مکه یک تحول بسیار خطرناک و نگران‌کننده است.  عربستان سعودی اساساً روی دیوار نشسته بود. آن‌ها قبلاً یک توافق دفاعی با پاکستان داشتند، اما به محض اینکه با ترکیه‌ای‌ها که در تقابل مستقیم با ما هستند و این تقابل می‌تواند…</div>
-<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/SBoxxx/19869" target="_blank">📅 12:18 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.8K · <a href="https://t.me/SBoxxx/19869" target="_blank">📅 12:18 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19868">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">بقائی:
 بازگشایی تنگه هرمز به لغو محاصره دریایی آمریکا مشروط شد</div>
-<div class="tg-footer">👁️ 2.85K · <a href="https://t.me/SBoxxx/19868" target="_blank">📅 11:52 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3K · <a href="https://t.me/SBoxxx/19868" target="_blank">📅 11:52 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19867">
@@ -388,7 +388,7 @@ INS Drakon
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Z6kZJRRrke2feQpaIuwQUFU_zo8ED2v9BWDMAV5BR3OVy26Wg2zO9wf6f3KhVhB0R1BEsrjnvG5ExYdrXsyANgZp4z222rZzUk8QrlFnZSqEO6hb8a-miFSejrvv_syjRKbyi-eCAqs9hMGhkl-Z5v7I5agTqhfq9sVO2USGyDX2ajpIvbQU0X4SjgjPLFf8orHM0LmfZHSbwG3L1XCUEXuWJA1B5uPUD00TS3bpp_UMkI03LvKSlf4xcvWhapS6x8LK14Z6CGHOKAK8tw1lw_BHkjKfeyMyo-mzjrqWMbG5OAYq4W9sKnRGcauBiF7LgikDws83QWNGN2XmcEkvJQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک برای امروز در سطح پایینی است و لذا اصلاح های محتمل نزولی طلا خرید دارد.</div>
-<div class="tg-footer">👁️ 2.9K · <a href="https://t.me/SBoxxx/19867" target="_blank">📅 11:51 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/SBoxxx/19867" target="_blank">📅 11:51 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19866">
@@ -399,52 +399,52 @@ INS Drakon
 که گازشو لیلاز خورده
 آبشو میثاقی
 @PiknikAnalyst</div>
-<div class="tg-footer">👁️ 2.76K · <a href="https://t.me/SBoxxx/19866" target="_blank">📅 10:55 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/SBoxxx/19866" target="_blank">📅 10:55 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19865">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">سرنگونی یک پهپاد ناشناس در جنوب کشور توسط پدافند</div>
-<div class="tg-footer">👁️ 4.19K · <a href="https://t.me/SBoxxx/19865" target="_blank">📅 03:02 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.25K · <a href="https://t.me/SBoxxx/19865" target="_blank">📅 03:02 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19864">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">احتمال پیوستن مصر به توافقنامه سه جانبه عربستان، ترکیه و پاکستان   «هاکان فیدان» وزیر خارجه ترکیه مدعی شد که مصر ممکن است به این توافقنامه مشترک به محض حل و فصل برخی مسائل فنی بپیوندد.</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/19864" target="_blank">📅 02:09 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/SBoxxx/19864" target="_blank">📅 02:09 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19863">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">سرنگونی یک پهپاد ناشناس در جنوب کشور توسط پدافند</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/19863" target="_blank">📅 01:18 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/SBoxxx/19863" target="_blank">📅 01:18 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19862">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">ما فقر شرافتمندانه داریم پدرسگ!  در ضمن علم بهتر است از ثروت!</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/19862" target="_blank">📅 01:04 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/19862" target="_blank">📅 01:04 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19861">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">ما فقر شرافتمندانه داریم پدرسگ!
 در ضمن علم بهتر است از ثروت!</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19861" target="_blank">📅 01:01 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/19861" target="_blank">📅 01:01 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19860">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AEnVPFE15hzlXJjt3JUPEtlimN6ZyTqBXOTMqqu0xs6bJDT841CFgLH1e_1UcCJGYvhEWINvLtjYWlOOUGOaDhGdQb6bVmyTN7AfidGpQbPkZSaWImEPimpoJZBtKozyLOlipJ1jO0pYCCKZt4ye_TrFezJ1F2NM9Ir8tjBl2DtlMq6qfRJgtvWPpwBHedoo4bkKtH1uXzI4-lAPAmal8Yr9bh8MJz6OQASgK0HAFH-CtcZ2X4KOLXuFUDkhnaFjuLg6YvEfe-lz1W3mzc-UHWS9rOeGwFOHsPHOTP6BJpekR13q-dHMX38BqXh-TD1uU4yVoZjhgWZ_ZUAz6xgJYg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">انتصاب محسن رضایی به عنوان دبیر شورای عالی امنیت ملی با حکم پزشکیان  معاون ارتباطات و اطلاع‌رسانی دفتر رئیس جمهور:   با حکم ریاست جمهوری اسلامی ایران دکتر مسعود پزشکیان، محسن رضایی به عنوان دبیر شورای عالی امنیت ملی منصوب شد  سیدمهدی طباطبایی نوشت؛   نظر به…</div>
-<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/19860" target="_blank">📅 00:44 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/19860" target="_blank">📅 00:44 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19859">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/auoFmzQDYt6mGpR07EWjBTb0fFvs6y6qRs5u6Nw9zX7hIsbwfIG8L7uYajvj4v5Bhv52FBOhHuWbZacQE9pVhXEGEtZyM83QHT9rL6zD3mhNXaUy9HN_7BkxqomhoCyN4VXyk5GoHd4tC-Yy7JA_xqVokx7NVnHOS-z29gqna2mCohywrC1Yzm6PpM9MHE5Ef8_5JwAPMHo_QDk89XgpTzPngzr79BBhvH1M2JEuTa2proHL-LRWrIZk4KArEFhNZHczq2zPO9-IE3qlzRjgBI22JLGtOEjNW7SWXDfs-I1BkPsqgnxu6s5L3ax1RrmtZTbHNq_OS519bhMQio5r6g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ درباره ایران:  ما فقط در حال مذاکره نیمه‌کاره با آن‌ها هستیم. ما صرفاً ایران را با تورم عظیم و واقعیت اینکه پولی ندارند، زیر نظر داریم.  منبع: آکسیوس</div>
-<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SBoxxx/19859" target="_blank">📅 00:36 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/19859" target="_blank">📅 00:36 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19858">
@@ -452,25 +452,25 @@ INS Drakon
 <div class="tg-text">بزنید شبکه آی فیلم سریال آیینه عبرت
 عینا شرایط امروز ماست
 سبحان الله!</div>
-<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/SBoxxx/19858" target="_blank">📅 00:33 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SBoxxx/19858" target="_blank">📅 00:33 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19857">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">شلیک از سیریک به سمت کشتی هایی در هرمز</div>
-<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/19857" target="_blank">📅 00:20 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/19857" target="_blank">📅 00:20 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19856">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">هواپیماهای جنگنده آمریکایی دو فروند هواگردی را که در حال نقض منطقه پرواز ممنوعه بر فراز ملک ترامپ در نیوجرسی بودند، متوقف کردند.  رئیس جمهور ترامپ در سلامت کامل است.</div>
-<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/19856" target="_blank">📅 22:53 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/19856" target="_blank">📅 22:53 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19855">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">بنا به گزارش‌ها، ایالات متحده فشار خود را بر اسرائیل برای کاهش درگیری‌ها در غزه، لبنان و ایران افزایش داده است.  واشنگتن خواسته است که اسرائیل حملات خود را کاهش دهد، از مواضع بیشتر در جنوب لبنان عقب‌نشینی کند و طرح اعزام نیروهای چندملیتی به غزه را پیش ببرد.…</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/19855" target="_blank">📅 22:53 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/19855" target="_blank">📅 22:53 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19854">
@@ -480,7 +480,7 @@ INS Drakon
 واشنگتن خواسته است که اسرائیل حملات خود را کاهش دهد، از مواضع بیشتر در جنوب لبنان عقب‌نشینی کند و طرح اعزام نیروهای چندملیتی به غزه را پیش ببرد.
 اسرائیل با برخی از این درخواست‌ها مخالفت کرده است. نتانیاهو گفته است که ارتش دفاعی اسرائیل به مقابله با تهدیدها ادامه خواهد داد و اسرائیل این گزینه را برای حمله به ایران حفظ می‌کند، در صورتی که ایران از سرگیری فعالیت‌های هسته‌ای یا توسعه موشک‌های بالستیک را آغاز کند.
 منبع: شبکه ۱۲ اسرائیل</div>
-<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/19854" target="_blank">📅 22:47 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/19854" target="_blank">📅 22:47 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19853">
@@ -492,21 +492,21 @@ INS Drakon
 <br>
 <a href="https://cdn4.telesco.pe/file/b59886795a.mp4?token=U98GwaAOWVspoT_HwAFAeIE6M-igQjGqCCQRpn7KNEa3ZitNB3q_VHAifudSRIbEJ3ZM6JGhRPGpPa4NS8jkgEkpzy9iBMMk2OtjJ8H5Zvp7BWsr1WOLSpxOiuCdB30au8QZcHXsMnD80-zXPlSNiWARUq6nRRBAccwRD4ljHB-y0ZVpMcd_-XFnphHHJ3RdWFCdTYejRsOZzeDYE8m4Mx7I1sn8ywgtzyGjq_oYxV2HdHu4DM41Phc1IFklyzm1nh8QhWj1rFH3tcyLIqhK0sqcZxwfVdcxi4FWX7ewm2e_CLbQwX6EEYl33d4a3pkUUVX479g6mIYGpL_JoHZIIw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
-<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/19853" target="_blank">📅 21:25 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/19853" target="_blank">📅 21:25 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19852">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">🟤
 «محسن رضایی» نماینده رهبر معظم انقلاب در شورای عالی امنیت ملی شد.    شنیده‌ها حاکیست که آقای محسن رضایی به عنوان نماینده رهبر معظم انقلاب به ترکیب شورای عالی امنیت ملی کشورمان ملحق شده است. بر این اساس، هم‌اینک آقایان محسن رضایی و سعید جلیلی به عنوان نمایندگان…</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/19852" target="_blank">📅 21:23 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/19852" target="_blank">📅 21:23 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19850">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">🟤
 «محسن رضایی» نماینده رهبر معظم انقلاب در شورای عالی امنیت ملی شد.    شنیده‌ها حاکیست که آقای محسن رضایی به عنوان نماینده رهبر معظم انقلاب به ترکیب شورای عالی امنیت ملی کشورمان ملحق شده است. بر این اساس، هم‌اینک آقایان محسن رضایی و سعید جلیلی به عنوان نمایندگان…</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SBoxxx/19850" target="_blank">📅 21:19 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SBoxxx/19850" target="_blank">📅 21:19 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19849">
@@ -517,7 +517,7 @@ INS Drakon
 ویندوارد: خط صادرات نفت ایران از جزیره خارک، تحت تاثیر محاصره دریایی آمریکا، برای بیست‌ودومین روز متوالی متوقف مانده.
 🔹
 هر سه پایانه غربی، LPG و شرقی خارک همچنان بدون بارگیری هستند. @khate_energy</div>
-<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SBoxxx/19849" target="_blank">📅 20:38 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19849" target="_blank">📅 20:38 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19848">
@@ -530,19 +530,19 @@ INS Drakon
 <a href="https://cdn4.telesco.pe/file/ac7c7abbdc.mp4?token=MNJHUpTMFql4kJ9DEw88361Eb3orkiWoyFCTpXOTgZ7iTT4l_RoLZiEBaV7xK147GHnKxiliPgqE94Pldf9xi2foTmo7xYSrHw0WWXLXxtp2d8gtLklm85uZvjRZbRDNaJt9YnWoL33m1izPVJZVfVXlwZRU23xUKDvBpdJkwlg6600D4AgXBfs97eVn-fPAwSo_8ZD0NEutvNxoXeI4fbQpGm6kAPvSVeWaGarQ3RNzI4jFzzohD0CmK2FZ2lNy8j1spPDQqy9gP6HHILCGdpVMv099wxsxvdvLp2mUjIfqDfZR5jqVl8GnNPQlcDBPPQ3Dca6bT7j_URYwjp5XFw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">باز همین که ۲ سانت عسل هم داشته خیلی خوب بوده</div>
-<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/19848" target="_blank">📅 20:04 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/19848" target="_blank">📅 20:04 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19847">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">ایالات متحده توانسته صادرات نفت ایران را فلج کند – فایننشال تایمز   این روزنامه با استناد به داده‌های ماهواره‌ای گزارش می‌دهد که ایران حدود یک هفته است که در جزیره خارک نفت خام را در نفتکش‌ها بارگیری نکرده است.   این جزیره اصلی‌ترین پایگاه ترانزیت نفت کشور…</div>
-<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/19847" target="_blank">📅 19:20 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/19847" target="_blank">📅 19:20 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19846">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">پزشکیان:  علم را اگر بتوانیم توسعه بدهیم نیازی به نفت و گاز نداریم. ﻿</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SBoxxx/19846" target="_blank">📅 18:41 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SBoxxx/19846" target="_blank">📅 18:41 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19845">
@@ -550,13 +550,13 @@ INS Drakon
 <div class="tg-text">پزشکیان:
 علم را اگر بتوانیم توسعه بدهیم نیازی به نفت و گاز نداریم.
 ﻿</div>
-<div class="tg-footer">👁️ 4.56K · <a href="https://t.me/SBoxxx/19845" target="_blank">📅 18:40 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/19845" target="_blank">📅 18:40 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19844">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">حالا باید ببینیم ائتلاف «مکه» پاسخ می‌دهد یا صرفا برای دوشیدن گاو شیرده حجاز و نجد تشکیل شده.</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/19844" target="_blank">📅 18:27 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/19844" target="_blank">📅 18:27 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19843">
@@ -576,19 +576,19 @@ INS Drakon
 یک شرکت نفتی آمریکایی با نام «گرینلند انرجی» با تجهیزات کامل در سواحل شرقی گرینلند پهلو گرفته و قصد دارد با ۶۰ میلیون دلار، دو حلقه حفاری کند.
 دولت گرینلند هشدار شدیداللحنی به شرکت نفتی صادر و اعلام کرد که هیچ گونه مجوزی برای این عملیات صادر نشده.
 مسئولان این شرکت آمریکایی ادعا می‌کنند که منطقه «جیمسون لند» ممکن است حاوی نفت خامی به ارزش یک تریلیون دلار باشد.</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/19842" target="_blank">📅 15:39 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/19842" target="_blank">📅 15:39 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19841">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">نتانیاهو:  ما می‌دانیم چگونه در برابر بزرگترین دوستانمان، حتی در صورت لزوم، بر موضع خود بایستیم.</div>
-<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/19841" target="_blank">📅 14:42 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/19841" target="_blank">📅 14:42 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19840">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">نتانیاهو:  اسرائیل سند ۱۵ بندی شورای صلح غزه را رد می‌کند.  ارتش اسرائیل تا زمانی که حماس «به‌طور واقعی» خلع سلاح نشود، هیچ گونه عقب‌نشینی‌ای را انجام نخواهد داد.</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/19840" target="_blank">📅 14:41 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/19840" target="_blank">📅 14:41 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19839">
@@ -609,7 +609,7 @@ INS Drakon
 <div class="tg-post" id="msg-19837">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">منابع غیررسمی تاکید دارند محسن رضایی دبیر شورای عالی امنیت ملی ایران شده است</div>
-<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/19837" target="_blank">📅 14:12 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/19837" target="_blank">📅 14:12 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19836">
@@ -622,26 +622,26 @@ INS Drakon
 <a href="https://cdn4.telesco.pe/file/e51206b9fc.mp4?token=QB6ltDIkLjE0GwSvhSYpimtCwaonXM2PshCUJQZXsb07Iw-Icw2qYpWIvhhJGOuvKiN6RdHaZxHG4VSPFOcLet5qVxxrChjMe8ZHFocaqDLCm4cw-7-FQ3w7ngroA3wKAvGo8oz_PxuFXXuGXYgvMCC3IwqUzwv0Pome9n7DtioCf6RInLP33-Me35dnOOifndWZg_8hlfJxprwyZnxt4bcbhb5Zq6Tv8IW6HXCx3sI9RJhktprEU4qgpFhfh00gu8cnloIKSj538vS3eymkzg2y4u0fpzIDPrxNb8-JeibqEM8pnCSiwRlf4xPZGH5KUtuJAFFZ6I4GTMNF9l3uuUdOsURF8eT4ta6aAbdWFUSvdF02F5yNAgPTJaWHBbP8y7V3lo92H4wY6i25vpYtQerLbNj0w7iTpQdb7guiURmU40SdQPSbroKoPVggltD0OFc7wMBrJXZe8OcoOdBdqG6aLsEPn7tDswxu6B_4LuZXgoMXFAKFNOIMtThJTyC81Q3wNwWU4dLlDO55ioPVSyDirKGjtod1bdAnmEGTdP1wbDWiqEi1dA_OMjWKwXkMEV-6kl-9B6aG0uQ6IOvVqtqFThzUWh6IRk0NWYic1wATSXbSwljWb_AOHk_ANGgQU7h3McA0F9Oxy__OJ-PuT5tu4eBp2QJW6y69NBKj1W0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مرکز مطالعات سیاسی وزارت خارجه!</div>
-<div class="tg-footer">👁️ 4.9K · <a href="https://t.me/SBoxxx/19836" target="_blank">📅 14:02 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/19836" target="_blank">📅 14:02 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19835">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">منابع غیررسمی تاکید دارند محسن رضایی دبیر شورای عالی امنیت ملی ایران شده است</div>
-<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/19835" target="_blank">📅 13:52 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/19835" target="_blank">📅 13:52 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19834">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">ترامپ با برجسته کردن بیگانگی فرهنگی امثال این چپول عرب تبار با فرهنگ غربی غالب در آمریکا به دنبال کاهش امکان شکست جمهوریخواهان در انتخابات نوامبر است.</div>
-<div class="tg-footer">👁️ 4.83K · <a href="https://t.me/SBoxxx/19834" target="_blank">📅 12:13 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/19834" target="_blank">📅 12:13 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19833">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GwSoLhYRi62jReLLhfViy3Nym_gzj_5djcEtgeqi3nJ_zgOBkpQEGCwfBe4fIiRbFxC5F8BkSLoprayfqhxN6FNIbv7tN5JuBOXvAdrsImssc94K_2LbdFgKAiyc9UFToN9idLMaRX9f0k9gIAMXv0iqDgbUm-7JvIOCTXLdWF5-EdSdEhEZfFk2UqIRiCn-hdBxpbjWSEjTXfuPVi2LLFtytyRyqixT25GK1xzPtphOh726LZA5BlhrxKkkVZjufiF-1aLQ6RH4L5asFH59O649a0aXzXEyHOJeosrVAO6VFuEcB79l6ug9XguoxYSXL0AIR4wwSOBfWPZENE7bUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این سه بوزینه ای که میبینید، متعلق به جناح چپ حزب دموکرات هستند که اخیراً در انتخابات حزبی دموکراتها به پیروزی رسیده اند.  این روند ادامه یابد، دستکم 10 تا 15 درصد از کرسیهای کنگره آمریکا به جناح بوزینگان خواهدرسید و این یعنی دموکراتها برای تصویب هر طرحی نیاز…</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/19833" target="_blank">📅 11:53 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.83K · <a href="https://t.me/SBoxxx/19833" target="_blank">📅 11:53 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19832">
@@ -664,7 +664,7 @@ INS Drakon
 
 <div class="tg-post" id="msg-19829">
 <div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SBoxxx/19829" target="_blank">📅 11:01 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/19829" target="_blank">📅 11:01 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19828">
@@ -689,7 +689,7 @@ INS Drakon
 <div class="tg-post" id="msg-19826">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">محاصره اقتصادی | فعال شدن گروه های جدایی خواه</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/19826" target="_blank">📅 02:07 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SBoxxx/19826" target="_blank">📅 02:07 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19823">
@@ -749,7 +749,7 @@ INS Drakon
 <div class="tg-post" id="msg-19816">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">سه کله پوک معلوم نیست چی امضا کرده اند که جرات نمیکنند علنی اش کنند.  ترکیه بخواهد در جنگی ضد هند هسته ای شرکت کند، بند ۵ ناتو عملا برایش کار نخواهد کرد و فقط موشک هسته ای خواهدخورد.</div>
-<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/19816" target="_blank">📅 21:44 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SBoxxx/19816" target="_blank">📅 21:44 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19815">
@@ -784,14 +784,14 @@ INS Drakon
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">⏳
 سوپر اپلیکیشن بله بعنوان اولین لژیونر اپ های داخلی وارد اپ استور شد</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/19811" target="_blank">📅 20:32 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/19811" target="_blank">📅 20:32 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19810">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jas_f9YLb8a_xpVXVROSnXn3OHGgIDmEcCno-MOaF0QY3Z4QP9f4BsKF4FmNZJCgUt350gl_w1OaM-3Efu_hMxsBIvxv0FyiKW5jXbOGRmrTIhs94kKO7LRKYyr3E6Fu99_9O2hF0HcijiGVkRCPPb4pwqbxm9Y6F59OUU-prse7AMzZN69p-Erx7wW4SFC2ck6fYAJm-OjttO1ld9m2nHEqVVEICbWy2aDBVS_WdEx51o3xWGyyHUVYjD_In1sF8qgJPLAO5RxJxBPVPYZyFaiWIAJASCMqa_-3jb4cUdXmwsVYowm31Fj6unHw3fv8dkxQEyU57TWbeGWblZNJqw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یادداشت تحلیلی یک سایت روسی: ناتوانی آمریکا در هدف قرار دادن زیرساخت‌های حیاتی نظامی ایران  تحلیل جدیدی از فیلم‌های منتشرشده توسط فرماندهی مرکزی آمریکا (CENTCOM) پس از ازسرگیری درگیری‌ها با ایران، که با هدف نمایش شدت بمباران‌ها منتشر شده‌اند، واقعیت دیگری…</div>
-<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/19810" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/19810" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19809">
@@ -834,7 +834,7 @@ INS Drakon
 <div class="tg-post" id="msg-19803">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">آیا صادرات نفت ایران از مسیر ریلی می‌تواند جایگزین صادرات دریایی شود؟   در هفته‌های اخیر گزارش‌هایی منتشر شده مبنی بر اینکه ایران در حال بررسی استفاده از مسیرهای ریلی برای انتقال نفت خود به چین، به‌ویژه از طریق خاک افغانستان و آسیای مرکزی، است. این ایده در…</div>
-<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SBoxxx/19803" target="_blank">📅 18:37 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/19803" target="_blank">📅 18:37 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19802">
@@ -947,7 +947,7 @@ INS Drakon
 <div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">رسانه های اسراییلی:
 محسن رضایی جزو اهداف ترور است.</div>
-<div class="tg-footer">👁️ 5.76K · <a href="https://t.me/SBoxxx/19789" target="_blank">📅 20:47 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.77K · <a href="https://t.me/SBoxxx/19789" target="_blank">📅 20:47 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19788">
@@ -974,7 +974,7 @@ INS Drakon
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rk6YR85D4J7buG9bicbPErUXTI6zwZHgbfV1sEd8MuZPO6fSDcMIVdUcb884Qu9v3a_J9KNx4IxcakkNusQiKqbrt34tv3vmr042XDs9Fm_utHUNLPtiDQwzU_I1W7zrrrMT5ydPlxK-6OdHGl55t2iYn_Hwkaz9IwrIFnR8LLWf1FI71jo8QiaVyLJjZNe92ZghMtO_rMbfs5_faI5y4ELwObwi5McgPO1TEDBw4pu1QNFb2A0SacAbafwwisF_RxlNNQbR8oQ5BA_F1moH9O-RQVXc1MiLJNoaMKJZagH57oGAe_XmlAAc9VpTavCxEgaGmLywQf0003mP5ccg4w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#XAUUSD — H4  میتوان چنین ساختاری برای طلا متصور بود.</div>
-<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SBoxxx/19785" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SBoxxx/19785" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19784">
