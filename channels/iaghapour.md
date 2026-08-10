@@ -292,11 +292,40 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 20:52:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 21:40:40</div>
 <hr>
 
-<div class="tg-post" id="msg-2866">
+<div class="tg-post" id="msg-2867">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromPremstore</strong></div>
+<div class="tg-text">📝
+خرید اشتراک Notion business تنها با ۳۵۰ هزار تومان در پریم استور.
+💰
+اقتصادی‌ترین راه برای دسترسی به چندین مدل هوش مصنوعی با یک اشتراک
+💎
+با یک اشتراک Notion AI به مدل‌های زیر دسترسی خواهید داشت:
+• GPT-5.5
+• Claude (Opus و Sonnet)
+• Gemini
+• Grok
+• و سایر مدل‌های جدید هوش مصنوعی
+❓
+مناسب برای:
+• تولید و بازنویسی محتوا
+• برنامه‌نویسی و بررسی کد
+• تحقیق، تحلیل و خلاصه‌سازی
+• مدیریت پروژه و کارهای روزمره
+🔼
+همچنین بقیه هوش مصنوعی ها در ربات موجود هست
+🛒
+خرید و ثبت سفارش از طریق ربات:
+🤖
+@prem_store_bot</div>
+<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-2866">
+<div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZlkngzjwfZiFRdbIJkLiHs8-lsEo5tQxQiBhD1lfSBU1kIFFV7kye5SYqaDoRYyTNEaylltrgNLdYDdb6gUtNVHWE4yRsbp9H3RxnOg6R_FLucf-EUPOLIcgQTPDOGFK5QBB7puolWNP45iqx2QHKh3LvswwtXAww8bEU0_exCpYI5CANkRgodCdSboMWxDc3GjXewQqWJ090_2pBbY13EK5Glnc2EM8F3ZL9alECX2xrgHNB5fgrdFZlFbC5khJ9GRlPLlDxnjBXHe-oIvkFv6Sm660qmn01GfGGD9jaL6CQ-b0GdBOixq_MlynNv8XsV9cHzkBnXOk6I5CM-zjEw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 ضرب‌الاجل ۱ هفته‌ای وزیر ارتباطات به اپراتورها؛ اتمام سریع بسته‌ها خط قرمز ماست
@@ -321,11 +350,11 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 3.6K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2865">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CzFZLrP8KfjchsbIq_E8Ev9hOwxhlnV3vVxPcZgaz71of0TCSF7GznMRAL9s1hlc8D04G-g9TJMNVgahetl1GAfwRUsTi_xYql7r1Nh4UENJVUHPb1zeHUI2AoLboo7akWZMrhv1R8iZFvYKmpt24Is6MDr6t-xmRuhcfqItPpHvFj3KySV7bv1CT2v_-q3eRX_L9kZYIlmC_KNqMxMGIfTbAwfhLYt85l7co_LGkxFArj0ixlSy8IDqJoM8p6MVoQSzaAG4yXZn7ehwTetgAY5VgmNJwBokjZHEbedD2aPV7q24xcu2kLAsAd4Ipsc1BGbFe8UygEr2aO3PDXf07w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Amnezia Web Panel؛ پنل وب برای مدیریت پروتکل‌های فیلترشکن
@@ -357,43 +386,7 @@ Remnawave
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-2864">
-<div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromایران هاستینگ 24</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WG9o5bOLpEy3Z7hDPZFiQNY_1eREFCG99YT699IsydlugVJDLS1tfkYyC7VFYeQ4gPzdgMytopJvDrBAY4dl6lNXfIntvQx-AeysuPATlH3rc-IKnXFHwgxsrQtrCmdMKWwc8l84_aj9bUOnFLMNwxluQhgtGFLhumw_yk28JhgTVK00O-Baq-_fvptMu2NbWWctP1Ky-nmsoUYZBAHijCzXnM-hpIQGikETJSGcmBGbHmhvlO0E8JB9glSWDL3ZvyR4hCzpkpqWHm8sotaCgXVsSBy7_6zfMR8HK-jxTP-oMmg-yIHREE1uInU8q88hAnyWANDAVXeVMfVeNd2lCA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🖥
-شروع فروش سرور مجازی آسیاتک
-🚀
-شروع قیمت از 399 هزار تومان
-💰
-هر گیگ ترافیک اضافه: ۶۰۰ تومان
-⚡️
-بصورت محدود در سامانه فعال شده است
-cloud.irhosting24.com
-🔗
-کانال تلگرام :
-https://t.me/irhosting24
-🔗
-📊
-میزان ترافیک پلن ها:
-📦
-پلن اول - 100 گیگ
-📦
-پلن دوم - 200 گیگ
-📦
-پلن سوم - 300 گیگ
-📦
-پلن چهارم - 400 گیگ
-📦
-پلن پنجم - 500 گیگ
-📦
-پلن ششم - 600 گیگ
-📦
-پلن هفتم - 700 گیگ</div>
-<div class="tg-footer">👁️ 8.68K · <a href="https://t.me/iaghapour/2864" target="_blank">📅 21:10 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.05K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2863">
@@ -423,7 +416,7 @@ https://t.me/irhosting24
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.85K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.12K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2862">
@@ -461,7 +454,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2860">
@@ -490,7 +483,7 @@ Relay
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2859">
@@ -513,7 +506,7 @@ YouTube</div>
 اگر ویدیویی رو تماشا می‌کنید که ماه‌ها از انتشارش گذشته، لطفاً تبلیغ داخلش رو حتماً دوباره از طریق ربات ما صحت‌سنجی کنید. شرایط سرویس‌ها در گذر زمان تغییر می‌کنه.
 ممنون از اینکه همیشه در کنار ما هستید.
 🙏🏻</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2858">
@@ -538,7 +531,7 @@ YouTube</div>
 آدرس سایت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2856">
@@ -548,7 +541,7 @@ YouTube</div>
 🟢
 جایزه قرعه کشی تحویل حمید عزیز شد.
 سعی میکنیم از این به بعد با حمایت های شما هر هفته قرعه کشی داشته باشیم.</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2855">
@@ -572,7 +565,7 @@ YouTube</div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2852">
@@ -606,7 +599,7 @@ GPT-5.6 Sol
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2851">
@@ -641,7 +634,7 @@ Adobe
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2849">
@@ -668,7 +661,7 @@ YouTube</div>
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/iaghapour/2849" target="_blank">📅 18:37 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/iaghapour/2849" target="_blank">📅 18:37 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2848">
@@ -760,7 +753,7 @@ ToRouter
 یهویی این همه آدم باهم دیگه اشتباه میکنن پس. شاید همه باهم دیگه دارن توهم میزنن‍!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2843">
@@ -814,7 +807,7 @@ ToRouter
 مخزن پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/iaghapour/2842" target="_blank">📅 16:40 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/iaghapour/2842" target="_blank">📅 16:40 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2840">
@@ -822,7 +815,7 @@ ToRouter
 <div class="tg-text">⚠️
 دزدیِ آشکار و علنی یعنی همین! اپراتورها رسماً رو اینترنت بین‌الملل ضریب ۲.۷ می‌زنند؛ یعنی تا ۱۰۰ مگابایت دیتا مصرف می‌کنی، ۲۷۰ مگابایت از بسته‌ت می‌پره!
 با کدوم متر و معیاری این ضریب‌های عجیب‌وغریب رو روی حجم مردم حساب می‌کنید؟ این پولایی که بابت جابه‌جاییِ چند برابرِ حجم از جیب ملت می‌کشید، از گوشت سگ هم حروم‌تره. بسته‌ها رو که نجومی گرون کردید، جاده‌یک‌طرفهٔ کیفیت رو هم بستید، حالا رسماً دارید با ضریب زدن، حجم باقی‌مونده رو هم غارت می‌کنید.</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2839">
@@ -844,7 +837,7 @@ ToRouter
 ⏳
 زمان قرعه‌کشی:
 تا امشب ساعت 24! پس تا فرصت هست کامنتتون رو ثبت کنید.</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2839" target="_blank">📅 18:18 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/iaghapour/2839" target="_blank">📅 18:18 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2838">
@@ -918,7 +911,7 @@ Xray-core
 با وجود این موضوع، توسعه‌دهندگان ساکن این مناطق به‌دلیل عدم امکان احراز هویت، نمی‌توانند اپ‌های خود را در بازار بین‌المللی منتشر کنند. با اجرای این طرح، اپ‌های توسعه‌دهندگان ایرانی فقط روی گوشی‌های مستقر در مناطق تحریم‌شده به راحتی قابل نصب خواهند بود. اگر کاربری در اروپا یا آمریکا بخواهد برنامه‌ای از یک توسعه‌دهنده ایرانی تأییدنشده را نصب کند، با سد محکم سیستم‌عامل مواجه می‌شود./دیجیاتو
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2832">
@@ -1004,7 +997,7 @@ filterbaan
 Aliasghar Honarmand
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2829" target="_blank">📅 21:50 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/iaghapour/2829" target="_blank">📅 21:50 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2828">
@@ -1042,7 +1035,7 @@ KelpDAO
 کارشناسان از احتمال رشد حملات تزریق دستور (Prompt Injection) به ایجنت‌های هوش مصنوعی خبر می‌دهند که نمونه اولیه آن هک ۲۱۶ هزار دلاری پروژه بنکر بود.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2826">
@@ -1318,7 +1311,7 @@ Claude Opus 5
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2807">
@@ -1440,7 +1433,7 @@ Claude Opus 5
 لینک دریافت نسخه 1.0.3 از گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/iaghapour/2800" target="_blank">📅 17:42 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2798">
@@ -1711,7 +1704,7 @@ LangOver
 درحال‌حاضر تلفن ثابت، تلفن همراه و اینترنت در برخی مناطق شمال استان با قطعی مواجه است که تلاش برای وصل‌کردن آنها در جریان است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/iaghapour/2783" target="_blank">📅 15:53 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/iaghapour/2783" target="_blank">📅 15:53 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2782">
@@ -1745,7 +1738,7 @@ LangOver
 ⏳
 زمان قرعه‌کشی:
 همین فردا! پس تا فرصت هست کامنتتون رو ثبت کنید.</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/iaghapour/2780" target="_blank">📅 20:59 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2779">
@@ -2184,7 +2177,7 @@ Nova.app
 دم همتون گرم!
 ✌️
 💚</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/iaghapour/2746" target="_blank">📅 15:22 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/iaghapour/2746" target="_blank">📅 15:22 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2744">
