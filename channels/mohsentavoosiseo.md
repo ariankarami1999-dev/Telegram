@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 17:44:11</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 18:58:47</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -350,7 +350,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -384,7 +384,7 @@ mohsentavoosi.com/1
 
 <div class="tg-post" id="msg-879">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JSN8NkFWlb6LntSNoGFh7uRCyH5M13dAInXaT9YEbuJrL9fJMTv8hlb75bQpjX5BIX490apHnXRDTtF3mRQP9jEkjowhzKvwLBEciCIH5xmkx-hfK3JPzbhDCIXP8hU2dm01RQeK-8NpWDPtKif6yn80h28Evn4BIF_g1Ku4FLagrwrGEM8iBfvR_ffI_fUEQxCD3NoaRzUvRbp-MOTVPcwJgaY9dkppL9iA4SA_cpdwRfdvpg6AeZoiB3zvQgI7QKbVTKZA6nOUFUAF6P8cc3kmrucqwBU7me2PtGCBZ7aE-zN6XvpIRKSZGJZKxDiIuD4udvR2YDVgpfenDjZrPg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/s0Sc7CS7-7FS2j4EDuc_U9sIsid1w1FJ8dQQKG2qAfRPUs0E7u2pwGsKfcJvjfzFnZF04rpcWf84pzxjgNpv2cMKlmuus0iMEfj8IZ8drV1RwP18pcwwQQ7SwF5cJXGF5zUb0NQde0T-D1SfNevotS0w8f_et43tpBPAAy9bD5vKALmE67fbXKOb4SQJOx3sqmeiZBnOdCn588zOMxDi4Ucvw22woJi_kh1KmVOvoNf2V8Eyd5oAZbRj5d_B23gtKQgXg1gN4ScNkr-O0b2m0dCz1pcrzwvmD9lx8C-vX0Y2EboBwaSx-3CW3_eBzzGQKDnwnl_BMtKbs7bZulM0dA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❓️
 از کدوم هوش مصنوعی استفاده کنیم؟
 کلاد
@@ -601,7 +601,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-859">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/knmgOUJuQ0F1Z3sCLXbFiXOf_G3ceJKsUp7FGmFrOJ08ncNuqRfjwuID7SDWPZE0V1Y4MLFEdDrf9Z6DUK2L0NHNhutsNgq_o54rxOBzQzkOZRMYjQHnZJauOm4y7h3K7OW9mAAxbyjs452kBkB_OoMTv5yxPDnnGrN7PusCcbs42746p6IK_5j2mkHjcBJgERUcklGo38rN461I3VhwSX_hqThY7ZtbI9eknYW1D6wEv0xbs6qwcN908bTkCLi4uKF2Y946zIaxAYWM-sXaEkdwnzWUUJ6KSFjUHfLMx8JCKRuqYYwXXA274pRbCXiw807xLOPp3HCYmkPgMyw5zw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TZX7jtkhvfJMR6aIV90MNvWyG-t3l7GvqiAZ015N95QBgnkf5o_yLW-MGv2Q5fS_indcNrnfZerQE13NMDqFWTT4Fz4_DDsilopxxWV3M22HYAM8Db5bUJ97_814pH0BMoe-kNh856_4D7b--RZKzHHFX6czJiRooIyeJfY4sl6l4qMe0qkIUiEYj_H9nPGMvANT4aJr7SfFRS9OmyqiSgb5lhMYjRwpXjGvaE_3i37soZT9h00o3btZCdDXQtx2HxpCCmkIisYVS42sa1Wp__789NXO2kN3PuhDKvvai6raa6TjpZmlO2JxvUsvQssU2_ta8CDvqsx3PJbV68aqcw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این عکس، نمودار حدود 8 ماه گذشته یکی از پروژه های انگلیسی هست. هیچ فیلتری جز زمان هم ست نشده.
 تاریخ 5 فوریه زمان شروع همکاری بوده.
 به نظرتون بد شده اوضاعش یا خوب شده؟
@@ -1139,7 +1139,7 @@ https://t.me/mohsentavoosiseo/267
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">سوال زیر رو 99 درصد آدم ها متوجه نمیشن. ولی تو جواب، ساده توضیح دادم سوال، چی هست.
 مخاطبشم اکثر آدم ها نیستند. اما نکته های توی جواب، از نظر باز شدن ذهن، به درد همه میخوره.</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/mohsentavoosiseo/799" target="_blank">📅 19:44 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/mohsentavoosiseo/799" target="_blank">📅 19:44 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-798">
@@ -1231,7 +1231,7 @@ vibe coding - وایب کدینگ
 <div class="tg-post" id="msg-789">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">سوال دانشجو:  و اینکه یکسری تعاریف هست برای سئو هست. این ها چی هستند؟  Topical Authority Internal Linking Strateg Site Architecture  Content Hub / Pillar & Cluster Information Architecture + Semantic SEO Link Equity Flow + Topic Authority Reinforcement</div>
-<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/mohsentavoosiseo/789" target="_blank">📅 00:33 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/mohsentavoosiseo/789" target="_blank">📅 00:33 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-788">
