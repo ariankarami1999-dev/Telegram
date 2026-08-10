@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 14:28:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-19 15:17:58</div>
 <hr>
 
 <div class="tg-post" id="msg-2864">
@@ -328,7 +328,7 @@ https://t.me/irhosting24
 پلن ششم - 600 گیگ
 📦
 پلن هفتم - 700 گیگ</div>
-<div class="tg-footer">👁️ 6.09K · <a href="https://t.me/iaghapour/2864" target="_blank">📅 21:10 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.18K · <a href="https://t.me/iaghapour/2864" target="_blank">📅 21:10 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2863">
@@ -358,7 +358,7 @@ https://t.me/irhosting24
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.77K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.84K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2862">
@@ -396,7 +396,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.98K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.02K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2860">
@@ -425,7 +425,7 @@ Relay
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.42K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.44K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2859">
@@ -448,7 +448,7 @@ YouTube</div>
 اگر ویدیویی رو تماشا می‌کنید که ماه‌ها از انتشارش گذشته، لطفاً تبلیغ داخلش رو حتماً دوباره از طریق ربات ما صحت‌سنجی کنید. شرایط سرویس‌ها در گذر زمان تغییر می‌کنه.
 ممنون از اینکه همیشه در کنار ما هستید.
 🙏🏻</div>
-<div class="tg-footer">👁️ 9.7K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2858">
@@ -725,7 +725,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2842">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d3eobrf_mDaqbh2f3G61Y1hlEQriqJl87ufwkAmUwYtg636l646PWfEA1qfDdlrWs6Dqqjli6RxT_O2c_kQT2RzXcILd-NY_Y5jCDNvmJ8VzKd1mZwlOT7urNWTr7fM9oj-pytS1CtX21OG77KWfx4DQwIJiSxlPq0OEFP-5KL0mut_6StTb0FkcV9i90S8xINaGSjHxwPAdDivuvXgt8ZCO3hXKzi4XpIqxkj0wDWRzRiDZke9LUkM6bD6Cp2u365Bch-uht9vKDhXT_JHUYypX8DNaHLhApLO0colT7gE0TpDx9B2IZ0XlG-lrooAV5uNLiC4G6vvrjOAnFdPgtg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VxuGUMd6g4Vp_q_eZtdH4I4b_qG1zS9hgeo7mLvaN1ZAyejNiElBYcsqVxNWNC0pnB8kDoiA1d57N2S8KARBBRtqAdT95_nVOiXupZqm2P3G5kOl_Hey6A9si24MPR64rzuqN2UqpHeQ3UcTSsGNy9fI-U2S6L9XhjNVde3y5WVFc8ZHaV7VW6BGwl1IzGwVpLT-IZy46D303aOxb7Ws1NR04pjBeXDyLSwBv4H0RmOLNtyEfN-IQyW_zyZhV8Mb68-Ts6DiAdq-jnOXPW9_PN2tpHFP9Ye7y3ak2qWXkZxQpvmmfvb56CJ8kA0UHYplXq1EdbrzIAL3WfsVuxg6qw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 دو ابزار برای مدیریت پروکسی‌های Psiphon و Tor روی سرور لینوکس
 این دو اسکریپت ترمینالی، راهکاری عالی برای کسانی هستند که می‌خواهند چندین لوکیشن مختلف را به‌طور هم‌زمان و یکپارچه روی یک سرور مدیریت کنند:
@@ -749,7 +749,7 @@ ToRouter
 مخزن پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/iaghapour/2842" target="_blank">📅 16:40 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/iaghapour/2842" target="_blank">📅 16:40 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2840">
@@ -844,7 +844,7 @@ Xray-core
 
 <div class="tg-post" id="msg-2834">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dETlFurT7Lj-RR5_pPXP1jY4ci-Jj6QmgWpcXFDSz26iK7Y30QBX7wMJmPhNPFOQGrIGAbUvx0fhoxBLU-okSnJfR7XPI3jM4FZIWsktigk1d3MIfa-zxQzPkoM53yanAcKOjTk-32AHjUfvvnRRAf2aVOH6qPP_3fX0Tn21byDbJ8x_y_PpKuwH0ho1yBNbgEg7nHw6TMlfEQrO5IyqbYyvVamU_KR5sRVC0UFk0wqTHfqXk9xKEHFeuutFdcSVCYbRi-9NSRxag7aGOod9la71kuxCSORBzmTl-X8huYHqGQIPPl18dvVjZM4u0HXc_EauZTmJJvfUuGb785WhCQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/U_Gd3dv4fy9QDdWUDk0_uISboPfuNOaEmC0FKGCvScwjuoC7c59vkbzl08E_TywVUedMil1vAUAcJ_zXbzvP-thG-34dzNo7OIhvPGaxbB43xEmrX_JVvdxAJkHIUT21XynU75s7hhqhCroHyMvBeJUxDpqNQ7Gs99MFNVzTB5bfJRTJAxugSQNGSC9IMrBOyRlkI_yRPMhZ83nEKG4IeelhPBrrVgJIYv3oilcyQTsErvWirvsKLDCEjwOBZZQYbdNawUshQF2lcIuIAqbVw6lWbpaGf4UkMNJQPCEqKfyKvOc5TFK6CzKP_AeWYmODaF2ix2hmqGcK-aDqrUCzVA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 گوگل محدودیت جدید نصب فایل‌های APK را برای کاربران ایرانی اعمال نمی‌کند
 🔹
@@ -1208,7 +1208,7 @@ Claude Opus 5
 
 <div class="tg-post" id="msg-2811">
 <div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vJOsSKuq_jnRTEQc-vujq3Mgnh5VU3CRVpz0uHN4pExLNNuVajlFrGv_vBdC_wsHHVAKvWoMty5bMRu6qRR8PdUBBzZSPcwpgkvEBgH730sQwylGkIcuyMjLM5_MD2x0iu1eccG1S4zrlGjh0ASftQDC7gbroOf_FGd6AccftrOZ4R0OudeOHcDFwB5_Nr_tpOGcykturbIHjX8OLLeO73gn9oosmv1gmJt1SUZLK6gLGQijPFlHsBy-2EslF4mhRJ1jIjxuaD82cjKm8-0EcBVs3I8ZzyQ14facKL6Wf0lmEcmQnQoXQKcym2mVlebfugSomt1-VtICgW5FJZM_DQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/F-kmF8zzdds8rUDn30CMLehxsD1aHndg8Y5kq8EWW5Pnm37CFqubOd9lUp9Vuc-is79FqUBJkHg7WeErhOSk2jAxV8d4ptUrlZPfnmzhjJR1EcgGJ3zvJfL44Az5ClVz0NXS_PaJgkVuALiK2oZgTTLKyKRNyQ8VFx8shJ5W89udjhtbwyVaxD_vvlxewY1DeHQ0CKTDDcG-RghqpNOazpZ0ZyU_CzDBsKXddH2ENDrHqqbaQJXLXXygU7Lclgnpm2P3I8yt_jwYhNgRGOmVItkkE2rgK63cm8QgJFpBiuZAJOPcGuf2zVEd-OUlaiGDyQjNYHYe8ymUSRmGfWx4bQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبریک به برنده عزیز قرعه‌کشی!
 🎉
 همونطور که قول داده بودیم، قرعه‌کشی از بین کامنت‌های ویدیو یوتیوب انجام شد و برنده یک اکانت هوش مصنوعی ۱ ماهه مشخص شد:
@@ -1413,7 +1413,7 @@ nipovpn://
 
 <div class="tg-post" id="msg-2796">
 <div class="tg-post-header">📌 پیام #52</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aIpRkHZU80wtdwuRy53tGjy8Vuf8Y-C5x8YAcxDvwrkC1Ci2D3i4ClqXzNvagsBxngUOk34-dK1l2Y_9eZqMu_wOhc7mN3gnIJSTHb90I9bsizYy_WMKs1pANDB1DINBeAjdI1ZiBjn7D_wFbAeEwjn5uWcXaGY72rdV9k0LYjNEFMBVKRxYB7Pn7i7SN33dRcrqGsvd-ZDO91m9NFeZZEV-w1tG2WOl3Rj3HlyYVT3Am1BSBkEnCRBHzot_i_RL_QuspvGCfz1ObtZr5duFJsPuKMhUR01CCmg7oHQS1UVIxIZxiQzUhyy1NX1vBORUXZun9LUcO0U_CdVV-JAqmA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fCBPoFKRnEkr97jlUKwoTUIgdGUJytH-llWvWNNP9StZdBqX0hO3n6EOMoGJUQoqfWRSvJxMO2v9CdqLDPUO4jqm13i_rVpCG2Xj_NwtGcT3Ds5L77h88ihxRpVXFlRso3LTF8cJ7g4fFRFyFCk6CG_oRzFB4TBqrEytFw9JOQFNa1IJIsxsV1GETjrPmIv7HcoUnZBlHq3bUs_oG3WQclB3lAN8yo-alPPwEjcIgg37og-sbM7WeXcfxgE0c8AJ5MfkH0U6oA5jzeARWYgWoDDBONgvVSIbn1MRb5KnP_qGq07YzWrmEVBWW-2oc-LrnOiSu7ymiaO2fVs_XfZTzA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 رخداد امنیتی در Hugging Face: سرقت دیتابیس و کلیدهای دسترسی
 پلتفرم
@@ -1470,7 +1470,7 @@ Flutter
 
 <div class="tg-post" id="msg-2793">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nw8j5bRHO2bWtYWRVyvzailZEr2dEnIvBFodaUvKEMzjfdlHDzGnQZ44UcK1wa9c19yrYOLDGUFE0ApnmZV0lQ7P8SQarIzhoi8zGasjPBLEfgRMEJ9kUxQU-zV6fAxL3ua5M1HsPdJrFWlyMAbYJSVE9qbTRZoyxLNn407-rho-sY-H1rsJ5YQgwrjdAn8ELdIaDLAsJFrHCiQ9ZRQrCg7yjT0h4kgOUMKnhLGVvoLLuwefV8z-IqAsLwsoBjmN_j1YdbntcWIqaQNykN7c4pukt6EBkC_N0ech-BU7tUmwoF51dhS0gz-JaFuqGScLuig5Uug49p9QA7liKhCn9w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ioi83P7TTA4eXPEPBKlwY7GLaJRLFn-R4xUPPYvxWNf8adO5kp32TCbhXkbsdBxnhE0fcPUy-qRBZ5Hu8JLEZhql9LaI-HdKkhE9xn5HnIzZRoOVFfrgd_6piuMt5C3WfnSE4_hNMKpKUWtR22NZH1Nsc512lUN-3Vqev1N3sOSAl-SW8jyrI6P1HVwkkSDYehKwRkuokIEKcRO9M8JFPbVxoywuTW2bzM9hJqGAPLb2CUSOkPO5brqYhUIaE8NwkdKAGlVfNodknfEU6FrPlnLGOKrOyKWfsiuk_8kPUP9crl4Ql4ZzMdFibBKmJLYBjPsdM3T-WBJMsz7H9o4Sdw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش استفاده از TOR در سرور ایران یا خارج (دسترسی به لوکیشن های مختلف در X-UI)
 ما حدودا 2 سال پیش همچین ویدیویی رو ساختیم و پروژه ای که توش آموزش دادیم حذف شده به اسم torsina و البته پروژه های مختلفی بعدش ساخته شدن مشابه این پروژه که یکی از اونها رو زیر معرفی کردم.
@@ -1722,7 +1722,7 @@ LangOver
 خدایی دیگه چه انرژی و انگیزه‌ای واسه آدم می‌مونه؟ اصلاً نمی‌خوام نق بزنم یا فاز ناامیدی بدم، ولی واقعاً یه جاهایی آدم کم میاره و رسماً می‌بره... کشته شدن این سربازهای بی‌گناه هم که دیگه مثل یه تیر وسط قلب همه‌مون بود. آخه چرا باید پژو پارس بشه آرزو؟ چرا باید یه ۲۰۷ مشکی بشه سقف رویای یه جوون ایرانی؟
 😔
 خدایا... فقط بزرگیتو شکر.</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/iaghapour/2775" target="_blank">📅 19:41 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/iaghapour/2775" target="_blank">📅 19:41 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2773">
