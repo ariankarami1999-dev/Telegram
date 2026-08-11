@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 10:20:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 11:33:58</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -312,7 +312,7 @@
 <div class="tg-post" id="msg-883">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">بازگشت قیمت(افزایش) دوره از 1 آبان یا زودتر. اگر قسطی دادید قسط رو تا پایان مهر کامل کنید یا اگر دوستی دارید که میخواسته تهیه کنید بهش اطلاع بدید.  با اومدن اپدیت بزرگ دوره(SEO و GEO بین المللی با AI) قیمت، تغییر خواهد کرد. چه اول آبان 1405 چه زودتر.  طبق…</div>
-<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-882">
@@ -437,7 +437,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-875">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lkrYEthWX0LGPL4bTO5cUl16ydEmOK0WvijWp5yma1tygeuVY5Hb8TVaNQD1ieS1uxcTrZwK83tQm5RfjVUOWH02ApcOywbk1JfkJ3bxMTrvivJFzNpXPZ4rfa8_-GM1ZJOACMkXiMPYfWI4n1KKPqlZGdQU0jplFPtdhZLv8XdM1Tr9Smg0JqJPMKGSjeI7KzTVXgeNPIa6cZVknWrUn72lf30tE7Y9QgOlnsA7i-e0E8qjECIzXJIUmFyJ8bCqt7vCEEhMB_7FuDhdal0EyTVcOlqSHThTHsmwiUIn8cJ6Xk9u6xqd4SOsTza2baQ7CSoeLYQtNwZoeLufiPnRmA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hvo3cuvmPPrGtqIPkmIrziQqZL8R7d9SqzLOS13prWkUZNGMPTyEEJVtHC4A3aLX8hGx2FViYP159P0IJRhUmul-J-AQEflptKZlpNllGKhy17IujKV7xuRuAPCbNaX9jKf9ktCMs2ltVJBY03j4wukQGsndV4qCLdxPEtHOgHsoo-Ok0S-vxZLyBq9vd2XEYHkfLCb6Vro4TnIP2UUNCvhSkj88zX_uvEIrqVjHZJYNCoSCkZu7GfK0atBW2cR4u9LYpNkHgJYUia08ss1P2a36JhG_UQzg_VYhcWlAkt7JPrVO009IvQ4aKPHi8R0GOKVQG7C8WZLk2gTHaBQ_AQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
 <div class="tg-footer">👁️ 3.3K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
@@ -446,8 +446,8 @@ Claude Cowork
 <div class="tg-post" id="msg-873">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/p-zgY5xQwsGe5RmWGEaT_F9Nefz6SAv6oJgEjYyrczFulzxHG1oFyxm1KbF-w3RMhC1cLFYzmPKYiaYaA0FQ3Nhhnne9TuMMOmFVf_BYvE-JDl00Pwrw_wXyfTJVHRgwx7RB9R_WNbuacaYaTCMzd7Skanzf5SjqTJpHsGxqHmav8x3uh3tJYYQqw4HE49Uc73hC5q-No4cargynuFP65QVvWJ-LuXhSv9IYWw6mzRImppPBKA1nKBWtB6Yojq2EVivpX_-Bjd7R2oICh5Rs6O4BHYaKBISvOrTTwtEq2QdtNMd0wH17LCMdF4UELs9kbTghEzdpG0r4sAyspQm_KQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/YdBAc5ckPfuVYU8NTRnMiCQDCCUNUnWfcOHJq7zSVEuggsGTVE8M0JXYwSwYz8I8huG2tEaUX-QhC7Ad_ZkUAc6JbQGWEDwBdSMi7lp-6HVQcTVNG_FZjGulVMe_Tvm1gRkB2tSFW7REz34qniyfYPKNWyGh_Ek9kVlvCvDS7WF3CWOQeIMw8_0Ju-uZBineUYmlKmVP0eYY4KTO6RwunWCM_1fBtYWkuH_uz24ZH5hraYsEBAg94IG0dY3XKuMxZLBZvR56QXL9O5ahMtQt4hyA_A2Lacbs5ikoMdFbifGzVy4etziEOtqch_RqfjxH9CZPyZvHd8abgmD-6Q3tzw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ClGlLCNa4v8hlhNaysLD96uFzJk5V7P3VdGAt-Ht4ekUHF3O-xeCLIDLuCqP95eJtd_2tKGL09uav2-tH5PPm2vJYol0w3EVVVDsSqwXo9xF65sacsBo2Z3e3Qdh1PLWdZ_VlRx8TYX4PScFS7prBskPgldQVzTuPuEzSBGthtzRC2clyPHbXYuTiS_x-N8BShcy5nCPjHog14gNc95zkrpXcw5fHtBhMKhobUA_nzIPNcJnuFH-2qz1P_tl-R0JXIzznMiPEhugpx_KbrFZZOzhs86N2GYl1C1NYcH3_S9o4PCN9fq2l_cn9pN6gVTqCvUzjmSeBGZa0ReNo77j3A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/KjjEXeNbcKI6ZUD5ewPrpe4xh2YUKNFCHEqQTpLYFAjWhmpHiIJnqterOAwdLGABpGD8PHDYnSVkqPuvYSGtTvbD6hr0uTcszlXjnLo6cvU5wE6QX9O8DlKKTPK0Ls-8CgJk-2URIgjAabmBvXBT6yyFTa8lL8TAZdwGWpKeMi-fi89MF9kwFwxe4rg1QFVKSVG7AaJV3tM-sC1IcRwPRUSOdplJdbrbRfFLmOPHhfVnOyq77UvVaTCNTi8rAS6NfZVVz8XUsbHNc6QqyC7bs-Apv2qG2xVRNSskTmu7aXaMin7JBFSZ7RWfj0q5f_wbuCOl4fCTfyt9A9sZzf3TRA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">تصویر چهارستونه(گرونتر) برای ابزار keyword tool هست و تصویر سه ستونه(ارزون تر) برای ابزار Mangools که ایرانی ها به KWFinder میشناسنش.
 شما خودتون رو بذارید جای سایتی که ابزار اشتراکی میفروشه.
