@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 11:33:58</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 12:57:05</div>
 <hr>
 
 <div class="tg-post" id="msg-2867">
@@ -321,7 +321,7 @@
 خرید و ثبت سفارش از طریق ربات:
 🤖
 @prem_store_bot</div>
-<div class="tg-footer">👁️ 5.5K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.69K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -350,7 +350,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.64K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.78K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2865">
@@ -386,7 +386,7 @@ Remnawave
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.52K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.61K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2863">
@@ -416,7 +416,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.81K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.87K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2862">
@@ -666,7 +666,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2848">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rlk9VLqFyITe_g5I9FvpsAunl7MRaic-oWBxizpaoJ5fooN9_UfG8etD6jSAJegkYlFjFSHJVXCP-kf2gwUqJSLEsMKy2lbgm3rbJz1KDU-gJhL6kB4PSCtczQWDRFo5Nzdp-qRq4gkLI6WAnjT2ZooK0xAZofJcmvRazWpG0DZ5dxwX0pUnk9YvileS9u2qWYEyUyeqddJxom9ru2B2_8mU7rUi-jbMKLvMbuVIl8nZJl5i56MwmKU-pFpdUCaBl66KUZjcrTM6WbIJhOCXPnz6FlYWvq13_vjhkBrTa_q9-sDlg-cG_eGAlYp90JUAzvAl6wCmcUrstkCW8GNEOw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YnShaU6pU-59NqHGtY5A_5TuZ2e0B2SkJehKKQhaPFo8fY_wcIHT-tmcfMEfFihHSrhc81VpHe_GBdofeGMptofgo70EUsIcC3CNNUGWdgyLOa4_1UgT5HrUk6mNmcwVofbrOmHmCBjLr7HwE11WPD_Zxs0eZZtEKSee7FwEBKTFQyyu0j0NvHlFGhPl38wB14k_uZUd4s-x1VgMuaExs1bGKrmLeC9MO1veYtuExAebkEFjys2vy65vkJnhHoYkPGRgk0MrG9YQxYbvkUiqpDCKab0lzz40N70vXvr3tlSJ4afAzOlLx9c-8U87Gt04IbHdK2TfVprksGXDAWgQ-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎮
 خرید تاریخی ۵۵ میلیارد دلاری؛ الکترونیک آرتز (EA) به دست عربستان افتاد!
 ناشر بزرگ بازی‌های ویدیویی،
@@ -722,7 +722,7 @@ ToRouter
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/iaghapour/2846" target="_blank">📅 20:44 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/iaghapour/2846" target="_blank">📅 20:44 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2845">
@@ -870,7 +870,7 @@ Xray-core
 
 <div class="tg-post" id="msg-2837">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uNryWhJNtUKSCgKHYEbnuVWSOvdzZ8mH3ZLJX2DF7LaNL6acBaCj9eoNxmAkH1198cM5A8hmMlYf-BmUjaWGr0uV9aOTeYxEmqduy8UtghrPql5-0nAsABm3ezYm-EKGnwTMlWEGOlxV_-DO5qmLxJy-dXaXCWAUQd-QHcUrVpLJWMAafDe-zwrtCpbTjgvab4VrjF3_1E-U47Fo_cR90ZWQWOitbSbPYp_DkdsKCsXCzthJLvm20t4vDLMNiJLH80BzMOnwB9bDehjgpB-zfcWgA6qfmOEaJDq9vs7QvPXo1GGmFz52XmQB_x6TuS8N4FD58SJkYmIH5P8wTYefew.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a7Zs2H8FNfn0Mnv69Nd4Dxk3jpsQReKK7VyBQBbW6NVoX18rgDrFcULxVLKvsM8tFn_Dgyj2e6LqvpZvcdzrRZCL1D-QdJj39yKeCMiR0WIEhC8Ko9_2hZ32z6RKBM3bdmbfjvdgtBTIPlJRyFcukuTyJJso_cwMyA6bubPyO5V9Q9XhV4Urpv8494hymrazHg_Hgsrolvzvbl9EAEsw6RB3yQvzfiWpg6x42tGRevYQJDW-RDUo1RVi2CfAfOvqzLZc6ia7n3xKMV8QlkP91f4i8pTpc8D-47F2kLXR-CkV2UbQrzIYJIiybGpDT3l1YkOhr5ARFba0F5YeY2LP7w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 معیشت بیش از ۵۰ درصد کاربران ایرانی به اینترنت وابسته است
 یافته‌های جدیدترین نظرسنجی ملی مرکز افکارسنجی دانشجویان ایران (ایسپا) آمارهای قابل‌توجهی از ضریب نفوذ اینترنت و اهمیت اقتصادی آن در کشور ارائه می‌دهد:
@@ -947,7 +947,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 
 <div class="tg-post" id="msg-2831">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KG4LeWshWFxFnEAf7aw0Z2H0bh15w--GzV7KFRmFzgUJ4ALUb-gL3hY-2n2xEUTJjMeJuA2vFRMiQqW7XofXV1Gmb2FVACxE2v8WVR0xC1BjsAvUliHfPp66n1GmbWez4ZOUnnyWEJim6Eo05OqInnGSTrpiD5EAwitoxNcMRuEpgUc1CX_irtpzXBuusW8vHSo_pJEOJrvWU9SaGa2nu6S8SaVcY-zKoRvjmGwmdeHNC3zpyjkCNlclP7XJcNO3itdZa3VesYJ_CopzWDfrQouM2mLXaI60m7xAg8EfOlXMUYpQ-DPaxFv9qv7CNAuCeCmW6Er3klZXHOq7ltAfOA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tdmexKDiPzCo8W77KQcraLGgrarrexkkaGe7TPUoCT4fmLXbvF8GhhlGbFXWT5-RL7dn1DeOE18LH9MDTYTRl36UZZSDyfrPxX6sMOtX5Z-Oh8e18bJGrJkxyop0XYzpECaJxKFIq8M6NvKByWJD70ci0MZl04ZjJlM1R-rwMzG9gCLJH9ZNbP6yVRPmOnS8ejPfpNSPTaBnYhKal5qYfgctEjG8mDl9J0h5-hF0RCyGKXs-2dHxO6j08xz1xVhsd_FgCQGz5zt8Fu0myUJPwo1PFhmYcTFxqWsFu2IgTes_SyK5JZzGrnjYjDjWeYiBcLKeGt-hcfjgBCrpOE4AWA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 امنیت حساب اینستاگرام در صورت استفاده از VPN
 تغییر مداوم موقعیت جغرافیایی (IP) هنگام اتصال به VPN، سیستم‌های امنیتی اینستاگرام را حساس می‌کند. اگر ورودها غیرعادی تشخیص داده شوند، احتمال قفل شدن یا محدودسازی موقت حساب وجود دارد.
@@ -1669,7 +1669,7 @@ LangOver
 
 <div class="tg-post" id="msg-2784">
 <div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jz74HPpz-jA3aP6n40W20d_c0xrKGYkBbYO7Mmmyb4dlahak02XetLtcZMLGBp_txv5jxDRjxQ7C-6VnrwSTV3EHkJd7BIW-lGtyLkLFl5GZZVozwj74qS3PTiI8iQpcYnHpqNbheV-Bznols6O4mFmng-NSFUbLF52itrpmot7ry-nIoLktoO54ZI2DtwANO53aBEGSKUJQLm247zQuLAQqn8VAQYb7MOq_6mG9VbLFMKhN8jcBFzdNmG0Ydh-czcO7EXzgrpPFboaar7-oxuyZtPFJAfb_KPad1NeNP5X_HtpUsa64Uw3oi_pATIISu9fIm5DSMs3dEoi6lXBr9g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Fgs91Ose-C4AW-dId1CTvy73g_AX9qaBtHzOGF_Pho-hQ5DKbhpcy3Ge-WRNENlTVgwX3_6DzFdyby_3OVV0d9I-XgVRCryXkkyv5d95gZ-DFzzmWlRBWwZ91Q2xO7660tXOI4JIpnlWyVkOZlTbGnS1wL6tkzBNEwNlAHbpJUwzvOnnJ_Jpb49Z2o8uE70z9xVJdVij-KmwBG89dKOQZmJ7jQG5S-ORH0H5_h1740DtPleN_fvKKquqB012f7ZAJ2tts7SiTs5F-vJMkDywkyIAo2YmFGv0l5Dl64sjz3YaCfPeYCSxtrVhegf04FOUH3sxZ3aKtXL5EDY7a56erQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش تانل ریورس روی سرور با آی‌پی مسدود (مقاوم در برابر اکسس)
 🔹
@@ -2120,7 +2120,7 @@ Nova.app
 نکته: Nova Client در واقع یک فورک بهینه‌شده از Karing هست که کاملاً با طراحی Nova Proxy هماهنگ شده و رادار قدرتمندش هم داخلش ادغام شده.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/iaghapour/2752" target="_blank">📅 21:04 · 19 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/iaghapour/2752" target="_blank">📅 21:04 · 19 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2751">
