@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 02:33:56</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 03:27:50</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -1132,7 +1132,7 @@ https://t.me/mohsentavoosiseo/267
 یا مثال دیگه یکی از ویژگی های پلاگین ما Buy X Get Y هست که این کلمه خیلی سرچ میشه. ما نمیتونیم اینو جدا کنیم از پلاگین و یه پلاگین یا محصول جدا بدیم ولی رقبا اومدن یه پلاگین نوشتن فقط buy x get y انجام میده و اون الان بالاتر از ماست توی نتایج در حالی که این یه ویژگی خیلی کوچیک از پلاگین بزرگ ماست.
 وقتی هم بلاگ مینویسیم برای این ویژگی توی بلاگ مجبوریم اینفورمیشنال صحبت کنیم و از روش های مختلف غیر از پلاگین خودمون هم حرف بزنیم که بتونیم با رقبایی که فقط بلاگ وردپرسی هستن رقابت کنیم. در نتیجه نرخ تبدیلمون خیلی کم میشه.
 من احساس میکنم آموزشی که جناب طاووسی میدن برای این مدل بیزینس ها مثل سایت ما یه آپدیت نیاز داره که نیاز هست برای سایتایی که کم محصول هستن و محصولاتشون قابل تفکیک و توسعه به صفحات مختلف نیست چیکار باید بکنن؟</div>
-<div class="tg-footer">👁️ 2.26K · <a href="https://t.me/mohsentavoosiseo/800" target="_blank">📅 19:45 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/mohsentavoosiseo/800" target="_blank">📅 19:45 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-799">
@@ -1272,7 +1272,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QE6cDikSzeXOMbTW0sP2sxJGmCElI60JCb3yJfMgKzI2hyHgWDENHX-xF6nTuqqFHllA3aBdVUTIMnkjp8XjivqnZLo0UcyBrQluzlzxrIMYh49vWSUIbDsllzkHNZwWTbyopvCyQ4-5dVelkKYbhN2qkyMnrZnKczTOcJcfcuq1kZ1qStz689XaxaJw_Dd0FeXiNl2-b09h7UhQUjpek35ErcfoZEYBFAEnl8fFYcx4oFVlXWVHepDd3iR7sdX_2T3DQgycg5OXNI70HYW1nUHfXxYUpn6ID022_fKMIm5-nZ4JWLJ5eeSOPJ2q6tRCCwN0rQDPVt-S7gylEXvsQQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GpdEFM1In6QCPH6txNziXAONGm_1hMlbBZH2muLiiwI5zue_rTrlsE_vIqryAlg1I2MX4EvyKHt9qEIi9S9wsfajp39_hLUWY68oXk2PF2I1cCHKkwm6z8Pphvu5xEyvmAW_HWQa0RjvehemYO7AqndiDrkvNWTuAEhRL2XaBPomGdEopogGxD4kBaUp9OHhUDywJcVPe4a8kjbGIgCurp-ovPQlK3DSGNpjcWU3rRDFgpMBpszoA47NuT2CnsA4zhUgz0ZNLmgivMmevK4-OV8u3Aifo40sDWd9_WgIw3onOKYIxyqUPY1KoEYaLTgl-24YzWXAJxIShqwUb0oElQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
@@ -1377,7 +1377,7 @@ pinned «
 
 <div class="tg-post" id="msg-761">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HxBVKPvQJnzOObERqhZVy9xFtDMIBj4XKyubrdwUnQrflRCFtEHsPbdd4iIUDV8wkIfNIU-r0UfNKp-z9qWTZSgNZunPPd9WL_2ErP6mjcCgDDKhrb98Onyd4fjUcGCym2tahYxDERFXZH9qmb_mRFBhSSoRO6x2Wa6bpnILSSa_RNMiljSl9JowWdVkIeqgxTJyLpyE070K59XEwS4hU8LdfkI4e4tCBycaWIUMIVFdM2nVKp66PyS9HZqBvS8LsvX39AeETXLR0JMQL_zEMxFJkTkRwx1ukf_aMYqZhv7KJZxaO-nLtbKKdp6VI5xxuCc3P1TvOGL0D918ORklyg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aWFM-dMXWYhcKGj93Z1jiYDe1cPfGx2bGzR_2Yquas0WaWR6Lm5nQ_Jmo7GLav23bQRqMHLxpjMphNsRMChkEeOx-K6BgQJdCGVMONv_rngitX0R0RVkfdKwsGlzbfpwlyEBMynmR0kaC9NS-9B5cmPpnDXkav2mjZhzJWMLR1ywV13Wapb7_NY26TAisT56HE667NBudsapk8VoEWIdlcPOpiUfqQCNgr_P-7lokyDqt2D3VxAjSy60-3WWdLWWmm52dtaUU8F7kza8620hxxI9JA5MhUrnU5Uab6_rEp3ag7SbhSMnhHnoNza1ZX8Ufaubih1j12EylQ4jvHoiKg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال دانشجو:
 من ی مشتری دارم که سایت خدمات راپل و نماشویی ساختمان داره
 گیر داده که فقط مقاله میخواد و ماهی ۷ بیشتر نمیده
