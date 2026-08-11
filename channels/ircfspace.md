@@ -292,12 +292,12 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 19:21:46</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 20:18:18</div>
 <hr>
 
 <div class="tg-post" id="msg-2546">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qgqEUe-nz0QyV-SfgUJaO-RiRadXMMn-Qe-EPW-I04cqZA3tOrSakjAXonmJx-8TYGZLJ2s4R49sSyx2xS5VCNL3Fpn223qOpmt2haL88LLpO0zGmyuEUhkPFrAQorOw5Yl1yoRgKsA3WS760MuV7FrfMOc9FQhgGUc6SzdXwqFef0C2bRs617awon39qk5V9TE14zCdQzs7cTyoBvpaEOXga-FtZmap5VmvcgukKlGZJU72M2N7CFLRXDYVc8Vr_PVAdWnrVwjIBenXLYpMuVd83OYsEs7pIuENNlFRIIaCGHDQX2e45ccYjCcMS3oJCzvFyEJfqvGBkgBCrr6VQA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XVA8vaYF-E0aCrET5mKHFk0d6KZSfH5Cy_xJ3Hh7FzYt9OJ9MuMkZVZ-5gJYx5bHNbRkewbh4Sfd69wfJ_AcYIUiFLDLs8hTgTo8wqnxCmt5iLI5yytiKeDKkfjEK6HGL7z5KM63BQTZd-V6SE7L2zV_x-v6qFEvMMRK9oN0rqmnobSqvZQEfPckoysZYQsaHA-MY9IBXn9b6AF6Yg7EVEe86xLrLkrR6PUxyiW8APUZlhag4sX2KWx8LtJGP79hy7Ac-BTOJCMeGV6h1fHN_G-he08ym25DQVnxFXMlE07UHXQHWz1hOzbP3Kd0snGW56ENCAZDln-xr-f9wWoslg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">متاسفانه عده‌ای از عناصر فرصت‌طلب سودجو عنوان می‌کنن اینترنت قوی و زیبای ما گران شده است. برای شفاف سازی میگم بسته‌ای که شش ماه پیش خریدم 1,348,000 تومان، الان شده 3,870,000 تومان. قیمت فقط ۳ برابر شده، گران نشده.
 بنده هم با ارائه سند میگم اینترنت گران نشده، فقط ۳ برابر شده!
 ©
@@ -324,7 +324,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -352,7 +352,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2542">
@@ -413,7 +413,7 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2538">
@@ -508,7 +508,7 @@ Farshad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 57.4K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 57.5K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2532">
@@ -585,7 +585,7 @@ sadroddinfallah
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2528">
@@ -773,7 +773,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/ircfspace/2518" target="_blank">📅 18:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/ircfspace/2518" target="_blank">📅 18:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2517">
@@ -1108,7 +1108,7 @@ github.com/SagerNet/sing-box/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/ircfspace/2496" target="_blank">📅 08:44 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/ircfspace/2496" target="_blank">📅 08:44 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2495">
@@ -1267,7 +1267,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 92.1K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 92.2K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">
@@ -1451,7 +1451,7 @@ github.com/SuOracle/GRoute/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/ircfspace/2475" target="_blank">📅 08:14 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/ircfspace/2475" target="_blank">📅 08:14 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2474">
@@ -1835,7 +1835,7 @@ github.com/2dust/v2rayNG/releases
 
 <div class="tg-post" id="msg-2450">
 <div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RN8vUU2P2iBIc9YLoZCCGY_gdKvs6wQuPQuctr93ut2U1YQels9emt3biVDBoKJkxVr5y1I5ISGXqXQ0FnZG4N-lYlfFACekChfFR_wxeJ9tDXL22T_RYgQV-gnTYkGw6y98zJexxhoCr60FrL6T6LboXX92O8BG_lZe6m4opr8UNsquRQ_4ImpAy94ql3voohgvLQD7VNz-cay2Blq2VN8qUuDMYv5qMSEeYsgbe-HGT_HB04qfnLn81Re4mO1GvdFC3eKlh2B1Uu93VI_pdhDyYVDRYGfmIr8CDIEE_3jz_brsRcQ1SQES_BHYDPKRooJBP_XTk3sufZ4i1jqT_g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JkjREKWg-PblZQAHXEozYqB1Ic60Aan-hmwpBNST90xHbu_Z3zvDOYYK1UUlIdGD3Si1WnuaModxDa7ekMqQHJrsO0izRVPAe28h9OkizAg4aYaiZHoMTZrczPxBjT0-XP0p1dlgiutoIp5brQGmAJyMBR3dGbUCIzkTwZ-yUW1XVZjJmmGXziHYmXdtRwv6rwXPtJF7cydg_Wwwsmh6NS7Izvw35ZJmsm-OzIV6E7SpHO5QM9ffi13EXsbe3wuAR8ZbF03JzyaRu-kA4PfVxvevzRq0zqK59VTzT1KiK1aiKhQ_Sb93F4LAPulcT1hi_X_kDbKB_0hvzjELcwSIEQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ما تنگه را مفت ندادیم، زندگی یک ملت را مفت دادیم. سال‌هاست حرص و ناکارآمدی‌تان را «سیاست‌گذاری» نامیدید، ماشین قراضه را ده برابر فروختید و گفتید حمایت از تولیدملی، اینترنت را خفه کردید و گفتید «مدیریت»، فقر را گردن تحریم انداختید در حالی که رانت و انحصار رگ‌های مردم را بریده بود. جوانی را به مهاجرت، کسب‌وکار را به «تاب‌آوری»، آینده را به سکوت فروختید. اگر چیزی واقعاً مفت رفته، نه تنگه هرمز، نه یک وجب خاک؛ عمر مردم، آرزوهایشان و فردای سوخته‌شان بوده. این صورت‌حساب واقعی است.
 ©
 rassssoo
