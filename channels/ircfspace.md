@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 12:57:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 13:53:21</div>
 <hr>
 
 <div class="tg-post" id="msg-2546">
@@ -309,7 +309,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
@@ -352,7 +352,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2542">
@@ -383,7 +383,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.2K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2540">
@@ -431,7 +431,7 @@ iSegar0
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2537">
@@ -447,7 +447,7 @@ github.com/shapeshed/aerial/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/ircfspace/2537" target="_blank">📅 20:26 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/ircfspace/2537" target="_blank">📅 20:26 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2536">
@@ -508,7 +508,7 @@ Farshad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 57.3K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2532">
@@ -934,7 +934,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 
 <div class="tg-post" id="msg-2507">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/K8muPauCGle1HrC_TbuPPh5aqKZswNobHmpwyWdhNeiML8C3IbfWn6Z8af7oApHe8scjlVghfhVrrwZAEC2rf1Iz1cHAk42fOc41GmyCeHZeuVItPQMNV6phWrRVpDwQqX0UqEXfXokLFvyZzDdsye1OG8mhVuSWfTdj4_nnh8MHjoNWK7NHmQSJZWQ6JJsU0M8SewO8z8evgaF8dC-7W9KsIRvyiaUIsb-CR2PQO6q-zDMM7y4W93vNNADtWh6EqYpJJJCoKAPu53F3aAYV8JyRZNqq-dRalSsUzB0KgwDk4BDXQvqSNG1RF5E9kWQiCLBm4QsuYxtkRSPwvUsoiQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gqLDenvumuAgJ_y_ey-kmm0oSwB3Iif-oa5JsVO3LrX3eBVlWHTZrX9xTO2eIpB0rIBYOUvPKxz2RmZ9vPWDizG1Bvf_W9rncEsohWTuNUKIJwvMLYtn-JLxwNQieqdTcIEix7765kUZ7EgR94SLWajrhT1_LZZ05zln7YPpbnqIdRpIeqkJgtA5VMZ8ViGvBLivQXmlwytIOXcCLVNEbe7bB-1xah8WcPzv2hT0oTus_jilKa4uW1rjqx0ihyuK0Hw7RBvivkH37Vd4IcuCEWz65XMnQi-VSMvkk5oyparnOsvfcu3KgtZNSIxTb6L-mUFiHVjwOZL13z2ZcvztkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه ۱.۳ از پروژه متن‌باز و رایگان Aether منتشر شده و مهمترین تغییرش اضافه شدن حالت اسکن Ironclad هست. برخلاف حالت‌های قبلی که فقط بررسی می‌کردن یک اندپوینت در دسترسه یا نه، این حالت قبل از اینکه به یه سرور اعتماد کنه، یک تانل واقعی برقرار می‌کنه و یک درخواست HTTP از داخل اون عبور میده تا مطمئن بشه اتصال کار می‌کنه. البته این روش زمان بیشتری می‌بره، اما در عوض احتمال وصل شدن به اندپوینت‌های خراب یا ناپایدار رو تا حد زیادی از بین می‌بره.
 توی این آپدیت روند اتصال مجدد هم هوشمندتر شده؛ اگر ارتباط MASQUE یا WireGuard قطع بشه، Aether دیگه برای دور زدن فیلترینگ مستقیم سراغ اسکن کامل همه اندپوینت‌ها نمیره. اول همون اندپوینتی که چند لحظه قبل روی اون متصل بوده رو دوباره امتحان می‌کنه و فقط اگر از دسترس خارج شده باشه، اسکن جدید رو شروع می‌کنه.
 👉
@@ -1081,7 +1081,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2497">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QAxFwVLu0NeMwWpVljP1m6w79njvbkRgVFUyAYRv1sryUAqJGz4YiXPfvRMY-_x49qi-iFJRrO4F-_JsM9D7uhoewQupfJyPaJhaVQ9J3tJAhaSmdPOczRyi6Qca0xi8eLh5ficDNrek4Ii-9rfsqxsPoirn8mAxW2kP6vk2BxRhdFrucCDe31o8Pn_C64po72zVqnNqiDOXu4kFiYZcoli4340CM8MwOsHHZ058R5tjVUHNm9arec9I0ooCoZ65eQAo4PEZb9VEE4NJPg1czz1ASVyLxbR0x9DhSOKczX1NX5a0lXPEsnFLsZbGpcHwM9TAaz1kq55CTd2fVP_UvQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ER1uH_30XuRFVqepL5CWV97PK88d1OtBCgoD86AMEmqNdqT6sPGAJ4SeNWdyBTfDFZdZ0LgAR4U9mR0U-Fbkf8R5AEZhAbBpUZfe1wqnb7f1FJ_0JtWPGnbMz-R4-723Vp_knJ_1AXRUAngq6sCbRP9feXzb-wPES4shuU05YU2--M-TX9DVM2AQ7VW94iVcicVNFDvKj1GlgXROMrOOttKvep3MEVqtzDApYmtkGjKIyLfy5BO2emzuphFvNW98DOpjv1-I3JA4cN97fpppxvyDA_Kc0LuF-8r05NtyLxLaQz9CwcdG9FbK9G5DA-sZOIo2Vbs2-kjcLgV7ulLSpA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aethery یک فیلترشکن متن‌باز و رایگان برای اندروید هست، که بر پایه هسته Aether ارائه شده.
 👉
 github.com/ZethRise/Aethery/releases
@@ -1267,7 +1267,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 91.6K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 91.7K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">
@@ -1366,7 +1366,7 @@ kaveh.yebekhe.workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/ircfspace/2480" target="_blank">📅 08:00 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/ircfspace/2480" target="_blank">📅 08:00 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2479">
@@ -1489,7 +1489,7 @@ https://github.com/rezakhosh78/SIMORGH-Scanner/releases
 
 <div class="tg-post" id="msg-2472">
 <div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oTpV1_wDUssDrYgq5qTj78KjfVbeh1HIzIAlCNJyxKi6SWRQ3TAi0fxhL5OGtpVCBjOBPNqsvvwYTIXo1kG1tE1wEE34jBVpZTGawjBcs493gzEDAMyeMTF4uRcbjOl2o-O6vC9YNKH8u3ex8iC7WQTn73ZHcczdztAneDpGmOSAfT4KRBBLqF_bBim1wd-8e2wHUaOdv6sDOZn2wYPLaP204GZD3HwsqBxdny8OqPZ5b3iLeH8AOJxJmN6dI90RmP76Mwd_HB4wfvojNR4mcFOlsojolLWibFiPqEq4vFC618IPwcJhKvKdBF3TPJVL94IgjibF3H0xN7WTXh1vzg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JM3Es66JLpgCIPKdG7hz6-g01ODi1CD_QapC4OZx6bU1jnBKQHmTBhX2TQCc2d48vvk-k2gzvllj7KLyM3tjskU1A3fV05KAJEJDcEgZj6hs45lG7oTugavr73X227WkIzBK9nqpxhCbHexQxICj0RrWDB8f8ZteRamMd9fceV7iD71XWplmem9sROFnhhe3yQXdX7WBi3vK6KBk1XvTo4Hy1W9Ze-GjoGEIIPEMdri0v0wK10aFATyPA-DGR1XfRJhUo5F2ILWd1EHlpIAS_NlOCie-DNJQa7agkdROmpF7V1jcyF6P6RoRRR-MynyF9r2UtasChoppbWD8FvnvxA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر Asha یک اپ متن‌باز و رایگان برای اندرویده، که با تمرکز روی پیدا کردن آیپی‌های تمیز و پایدار کلودفلر ساخته شده و کمک می‌کنه سریعترین و مناسب‌ترین آیپی‌هارو متناسب با شرایط شبکه پیدا کنین.
 حالت‌های مختلف اسکن، بررسی لیست دلخواه آیپی، شناسایی دیتاسنترهای قابل دسترس کلودفلر، امکان تست سرعت واقعی از طریق پروکسی و استخراج هوشمند آیپی از وبسایت‌های پشت کلودفلر، از جمله امکانات این اسکنر هستن.
 👉

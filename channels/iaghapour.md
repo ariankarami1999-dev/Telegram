@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/YNwftkgUxUQcLsURaBGi5A9Fe0cPd4y9uImRL7GubClG6DEi-YzP0thWS3439UGneEXQoI2EeAeGf5lxhcIEfr2wkl42OZVz02V9aZhcwYRU178UCt0MiWIdKm2QkGn_6Uam1KWKgO-sDt-mIOPUDACdqjDLKSvpHVvOxE5yGZH62wiLhPZ3T8QlbU-epIFyOqsSFHlVtKE-l5fDIQgGtNCSDwpifp2HC8opFFcvjJvYlxQwCEwrMuyygyx5Qb_AUm4GVwGTv0RqDKKfaNOsfyDDHePS1IImE1roRqBFAgTScJL-dOSEC7QwRJEEttUKTxPEmC8Gxn-jk7SbwX9vkw.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/gx6nDqmuyziZC2M4pl6va3kEeAb_FuS09ZO48uiZwRjAPwLQmJUbjhzjC5zeiVdDGLr4o1XWd-V5-KSabQBam7HvbKpsL5CTQCIJ41vYXkEB9ILTZgDq4pgX44I_qNRhU1orJ6h1nFCdMrs9hqNWWtW06gi7y5yp8cC1uJehZt6ZnxI3GXtAblF85cqb13-hocKo6JWKMT1KiW-NbIxuYiAwRAdMxdsvLxFi3ytPykQzmOincVqaDwlRGwo2J-X6nYn91CDEye3Wa0GF7e6tNyNAFkUygYDAvDo7pm5rt41tdRFk7cYfmb7WaBIWsZ7hhUqXVfRTe7133CHF2J6Jcw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p>@iaghapour • 👥 52.4K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 12:57:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 13:53:21</div>
 <hr>
 
 <div class="tg-post" id="msg-2867">
@@ -321,7 +321,7 @@
 خرید و ثبت سفارش از طریق ربات:
 🤖
 @prem_store_bot</div>
-<div class="tg-footer">👁️ 5.69K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.82K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -350,7 +350,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.78K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.88K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2865">
@@ -386,7 +386,7 @@ Remnawave
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.61K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.67K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2863">
@@ -416,7 +416,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.87K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.9K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2862">
@@ -511,7 +511,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2858">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AIKA3yhnTf4y-F8cfFVbWEA2vzWZCmSpERPClcoiXbgmbyODq-IF-3iZDBIMCy57x9W1CJgVDQSUk8QYvZimm6PLo2HRJhTbcjxHQ-SfpsO_bH-f2SghiiLlFdOqpOHIPIy6TgQFlBqorMlhj29twSqIUI7dFMRZqCpgzGMsB7rfaJFABupIaytl_GiNefugYNiDlfsa4pUSLVsFLNG-VthLj-gt7mWu4-OPLu7qE3ZsJdyKpn3TQkEHfTgtfCKqFP8mA49f2LsExMPv6kp9LGTiyelaJ4i2VekjtQyUz7UBKrD8Ncm1CICVh_lpi4BbDfwDGizAfPMru_IzRVjmRw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OM5PEJ6wyaWovdwehb3d8lrmxfAjtQl9i8YjddAMGuHRlowM5TIVjHife_C5dz7EvFsva0pHkXsLgiKSaLF-ZWbhoR3ZpvkmvwBlKTTdC1aqbTgohkm2Pb6OpzS8SiZUbqRDGaRPw4gNyRPy3auUC6KyJ2-7PetJmGxrgOw0nFGxiaEgEssVI5-rml0u6F7KlfHbKgWgvL76QAaSSHSVJkYbtAVzTitbm5rf_ABTtT9VsZkwReyvOX54QtUY4HmHptXu3m-aBW9yQwEP7OHYiD5ke_gc0AWqiSereyBD1zjoPTOfbElmmqVmT31yg3HncZbbRJfxu5GIArWKOAOgsw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 کمپانی OpenAI ابزار ChatGPT Translate را راه اندازی کرد
 شرکت OpenAI سرویس ترجمه اختصاصی خود را در آدرس به‌صورت رایگان و بدون نیاز به ورود به حساب کاربری در دسترس قرار داده است.
@@ -541,7 +541,7 @@ YouTube</div>
 🟢
 جایزه قرعه کشی تحویل حمید عزیز شد.
 سعی میکنیم از این به بعد با حمایت های شما هر هفته قرعه کشی داشته باشیم.</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2855">
@@ -556,12 +556,12 @@ YouTube</div>
 👇
 🆔
 @techno_clan</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2854">
 <div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jIkX_NTUwBCZ8rk7WRTs1tlgnZ27WyLBRzW-ifncgb3XJNV68atKe-2aphOvSKDGRIcT0ulZRAFJyb-tbo_ZnMwwqe1RJ8m6jjTBTkFUJufQoF8G6ZUWFylkX0INAvlthjcQbKMAEcz8xfQHAesAmJpqi0ly4gtRBcIjajbKOIgHtz21yrzdY9_fmDeu6NpoQW_BPKZ8tpAUy86uF8_TJDwHigl-9GfiTTPeZkr0xiKNyXBerE6g4qZONDmfVThhV3dimKcwDYybFpzIE_P8bqDJo_3d7P9MvrkmJjdmFKg87V01Ot2qXgEAxLl-0PTuK791LrvqBADN0ukEssabWg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eSGQUtnPsD3nwdke0zO0UwoLnQn4BFfOFehJ58ux84uH0XIB-vLcrHlcGn74dfh77lg-9kDmDPyr9Y-QTZMp5rBLmGVtpPMZMQoEaaDRG6uscKQwGFx3jNBLpCySAbswMtZVhAZyzInTYybxF-gYeflzyU3n6y00RMyD5zrLbds3gB2Vj1XlShx2jgQaAisjtMvErvVXVwrxETLWhpo6p7Onwv-PytraN4-Q2cwdK9r--xyDkwya1FJf2AADDs8n7gBvNLPIFep1xNvo1gI77-piOc8COUfbFR2MZsWXFIBdD-cUuzOanFyNOHWqK4jeiwYp4ldhLdwWpQ7taIVUTw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>
@@ -599,7 +599,7 @@ GPT-5.6 Sol
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2851">
@@ -727,7 +727,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2845">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jrn0Ooet3nHObUXjRyQ5cRlc7lnPFTTwUjaQXKHK3nuX9OJhrDE-NEsTRBoNd--fSp2P5XcXUR8_rB25bLtzTfq-CvESlaj5LpjsEJXEFz3dkDRDw3L6zsfWRyuavQqh2nA3ozTAus4WNooi60a8fuIKRBCttx12QfTfERfSzDAVh92KbAvuc6gc9HpfovwFfuPMwQAiNVzELVdvDJHVlKT-5SNxjFRvufbVdW5aYYrxZcD3mieNYyOPrV0BcDm0SKsHviUb48OnzBbhDARtE_GrJ3-1J2ytEK6BCJ-JSH8-sb64wNE5sytK_FUtsoQpcBm7isvKRwEA27rqeUUc2g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FlG5aULSg87hVJXWv_0aEYqe5N5UysW5CAuvDw4Ko9k0jaHpWMR8wXd_iE2EvAc278UcvrblYXyfZdjzx9l9UXtTgOThMtLEsWVseV1-3tqJMKHjrQqo7jUmslLOCl6HDYRisTds8ha8ccWnZihevPTZBM0WLKq2SroDlb2LmPi_pk4U_3dxyej_V2jWdBSLCRtTR-l5MASJa2EviOwIeSQbCeI7ffMRrPYQLfatPrjRMFWJ2CUcUInnFUS2loefFAae9yy0nHywvf402-LjGrveZOFhMbB1GJau7P6C4tWBFbxKqWQtKtJ3mF8oRoHcN9hFtYV1pKSr1E4G33Q6Eg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 توضیحات ایرانسل درباره نحوه کسر حجم بسته‌ها و ضرایب مصرفی
 ایرانسل با انتشار اطلاعیه‌ای، در پاسخ به ابهامات مطرح‌شده در شبکه‌های اجتماعی اعلام کرد که کسر حجم از بسته‌ها دقیقاً طبق مصوبه‌های سازمان تنظیم مقررات (رگولاتوری) انجام می‌شود.
@@ -911,7 +911,7 @@ Xray-core
 با وجود این موضوع، توسعه‌دهندگان ساکن این مناطق به‌دلیل عدم امکان احراز هویت، نمی‌توانند اپ‌های خود را در بازار بین‌المللی منتشر کنند. با اجرای این طرح، اپ‌های توسعه‌دهندگان ایرانی فقط روی گوشی‌های مستقر در مناطق تحریم‌شده به راحتی قابل نصب خواهند بود. اگر کاربری در اروپا یا آمریکا بخواهد برنامه‌ای از یک توسعه‌دهنده ایرانی تأییدنشده را نصب کند، با سد محکم سیستم‌عامل مواجه می‌شود./دیجیاتو
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2832">
@@ -1120,7 +1120,7 @@ KelpDAO
 مردم در هر صورت از سد فیلترینگ عبور می‌کنند، اما اکنون با هزینه و آسیب بسیار بیشتری مواجه هستند؛ بنابراین تنها راه حذف فیلترشکن‌ها، آزادتر کردن اینترنت توسط دولت است.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/iaghapour/2822" target="_blank">📅 20:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/iaghapour/2822" target="_blank">📅 20:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2820">
@@ -1190,7 +1190,7 @@ Trojan
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T_jAG4ho6KvJ2NiztExdWcHp4vDNwzka4O9xZ4PeKhqlsIDb8hdAMB9Lzy3_3GgoPzA_UmU-O03A7vviC56LGdcFjD53VfoY-aN5HynF7MCQD7kd7MiS-fjA4RHP3IbMOzXxkPr-1trZv3Hq6LZ9Uhn-2XZZwiBaR3NBziDxqq6iVrg2OdMnzlp4bdhbpAFRqP8myrZFJf3Kgj9FGqZ7TvL9nbEekFi76HnA9oKlcSy5llt8Ra-t_1b2zbvEnJmIOYlON9NdvdqNRfQJCWrjXAeFGhyXgxe0Z9dtoduw3FpxrQOyYErOA-RZpcvZAs4W-CUoIf1AH81pW8u_eL4yZQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مردم ما در هر شرایطی نمک خاص خودشونو دارن :)</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/iaghapour/2816" target="_blank">📅 20:40 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/iaghapour/2816" target="_blank">📅 20:40 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2815">
@@ -1539,7 +1539,7 @@ Flutter
 (مشابه پروژه torsina)
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2792">
@@ -2189,7 +2189,7 @@ Nova.app
 اگه خرج سرور و هزینه‌ها بالا رفته، خیلی روراست قیمت‌ها رو ببرید بالا. مشتری ترجیح میده گرون‌تر بخره ولی بدونه دقیقاً داره بابت چی پول میده، تا اینکه یواشکی از حجمش دزدیده بشه.
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/iaghapour/2744" target="_blank">📅 20:39 · 17 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2743">
