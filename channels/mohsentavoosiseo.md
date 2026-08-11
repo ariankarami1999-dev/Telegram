@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/U_RuU18o8bRZ_NPaPBCX2WRzK2RBh8dIpUFgTGq0QET8jAVYx9oi--PnyioC5AdRqIxK9mGOThWtaUloi3GNGAVnQkXXeLJ39f8ZN-CkpV9PomFjK1IoGmeWEQoG8xf47gg41rjs0S2YdT4JbZIdyZ9iiuwCi0wPSD8K0P4GfZI_rUD0OJJAEFAQLolwl287Hmm2jjfBbhunXEmb5lHOhAbfyHrbqb-mlTle3KlCC3QGIxJu2btq2Zf2BAM64tXEy8neH8AJAfaP0fyiDRJGJO0k6EVfnP_47NctTV067VdBDn0tvOAe1O_A6_hieJc6ErSoM2Eyq5v_KS7C-VAtXQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو با محسن طاوسی</h1>
-<p>@mohsentavoosiseo • 👥 7.78K عضو</p>
+<p>@mohsentavoosiseo • 👥 7.79K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 20:18:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 21:19:59</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -366,7 +366,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد میگم کلاد خداست میگید نه! بازم میرید از فلان جی پی تی، ایرانیش رو میخرید؟ خیلی فرق داره! اختصاصی بگیرید. کانکتور و اسکیل و داکیومنت و کوورک و... تو اختصاصی هست فقط.
 mohsentavoosi.com/1
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.68K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-880">
@@ -1078,7 +1078,7 @@ https://t.me/mohsentavoosiseo/267
 <li>✓ من از بعضی AI ها رو از جایی میخرم که خیلی کمتر از قیمت دلاریش در میاد. اختصاصی هم هست و خوشحالم.</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/mohsentavoosiseo/809" target="_blank">📅 15:55 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/mohsentavoosiseo/809" target="_blank">📅 15:55 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-808">

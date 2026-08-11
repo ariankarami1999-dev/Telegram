@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 20:18:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 21:19:59</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -338,13 +338,13 @@
 
 <div class="tg-post" id="msg-944">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gPlMcfKK-BWVCoSe32oXEzm94PegOBQN9V9ozcMS45Lri0LaEFgPWF1sI7P1S9O7JTHQiAxGRHEwKGf1jqxgQxAtZDGPadcoWmVxW9kkX-JC36qGkY-gECJd-P5wkm4xbMI4CUi9iA-e2yrznjp_dx60LOy-j4EbYFp2md53NRFkNtgzqVuTCpqOeRaAB1RS8tEcO1EX8K1xQ2vKPwj-lfR6GTBtKQApXxhD9veyK1VzzlIkxFhTJGm5vENayAT7ZtFsBobBL3yx2XJ06aRuvV0c8AN4C37c3ZzG1KDZxvZQzRXMzvJICrQ3vxH1pyMvjURXQRt3aEOWAMjeAeo-8w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BJsJr-ieQzHxsrQI9EDCK0VYbQrDl2XV1s_gGjzU5cg3s4CR8JvKia2Rji5Ih1lwlO5-9MgZ-txSWBRMat6bwwxv0fM_cip06E77MIY1O1PE1csJeajCrMC2FSuYV77YYGBJLVcJI2wk-9zBpkTIecgkmaXvkit4vHYH_IkqCMsrIoyH-tprNTpKBpI4Dyp9WJ4F2uxYvoFeECrcjLM0lTOggazB-q_HAxJ9i2Rei4sEyRPjqi-7X1UlnvlqErieJ5gyXQ4A8RWS0bvzqAN9fqNVognN9M_qq-tcuTiU91JV8mx4asfyZ8k2Q3v0c15zXrnk9Ri0ZzifDf2uDAf-fQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=uPHnrcGcYdNVpWmYevAyQ_Mg-Xx-lH45P-kNumG9k6JeW4r8FYdXgccC2C7n7KsdpmEaU-So1tvdrTpbNwSUAw5noDeaaWBGu3HKJdnGeFJvCLbR2zEzz1QawWdI1E9yPfNBFFRfSyqLz160jEQFZUjnCX4D1Ws_wYBsQJ-nZqKx4Ks11RnNN5-0YzjgsTp5_K1esOsuqpISgyd_60QI8zF5AD9E1VmsIcjkyFWvO4RQT-RH8XJMMv9GB76vSs8g-wqEwqgix0f5IaFl-3Gg1WdOqK2yc-4zv0vzf3NBXBIoFil_RrpH73re1_WHXeOaZtKroUX0QKlXAgfclNFAWA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=CakiNXUJ8Jj3BH2FsqKx2qAuXlD-so3l3OC3VraEiqI-ZtN59tFjt4Nf8PIPCJpbOMhVX4m0zGmbTL3s40_MC5q6dEJP1Ry2ryCCAOVnoPPhhGa0cu6llz_cyRJk6vxAJc1qIYqZ22kFPllbpBJObHir-rOKMI8__xNKfD-CEpgIi_agZ3wKS12klR80deNd8GbxpznlonFCoyfzv6nsydELAdcqYxF3eBYgQQHQzl7WH1AbpO6Me0Tfa71rKxOCoKPXpIrM69Xc8f8Vw8mLOqeODOX-OIU9xJCdrEwuKCSMXvMkulCfUIc1Xf4RNDzNq7DkQVk9VUceIn3LcVBIQA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=uPHnrcGcYdNVpWmYevAyQ_Mg-Xx-lH45P-kNumG9k6JeW4r8FYdXgccC2C7n7KsdpmEaU-So1tvdrTpbNwSUAw5noDeaaWBGu3HKJdnGeFJvCLbR2zEzz1QawWdI1E9yPfNBFFRfSyqLz160jEQFZUjnCX4D1Ws_wYBsQJ-nZqKx4Ks11RnNN5-0YzjgsTp5_K1esOsuqpISgyd_60QI8zF5AD9E1VmsIcjkyFWvO4RQT-RH8XJMMv9GB76vSs8g-wqEwqgix0f5IaFl-3Gg1WdOqK2yc-4zv0vzf3NBXBIoFil_RrpH73re1_WHXeOaZtKroUX0QKlXAgfclNFAWA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=CakiNXUJ8Jj3BH2FsqKx2qAuXlD-so3l3OC3VraEiqI-ZtN59tFjt4Nf8PIPCJpbOMhVX4m0zGmbTL3s40_MC5q6dEJP1Ry2ryCCAOVnoPPhhGa0cu6llz_cyRJk6vxAJc1qIYqZ22kFPllbpBJObHir-rOKMI8__xNKfD-CEpgIi_agZ3wKS12klR80deNd8GbxpznlonFCoyfzv6nsydELAdcqYxF3eBYgQQHQzl7WH1AbpO6Me0Tfa71rKxOCoKPXpIrM69Xc8f8Vw8mLOqeODOX-OIU9xJCdrEwuKCSMXvMkulCfUIc1Xf4RNDzNq7DkQVk9VUceIn3LcVBIQA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این وسط با kimi3 هم آشنا بشید!
 یک مدل هوش مصنوعی با 2.8 تریلیون پارامتر! و کانتکست ۱ میلیونی که عملکرد فوق العاده ای داشته و در سطحی نزدیک به Fable 5 , gpt5.6 ظاهر شده.
@@ -356,7 +356,7 @@
 
 <div class="tg-post" id="msg-943">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B-fY7yB_EqYLNwAi4yCY_XPVcJX7sWjj4kAO2bYNmY_WBXV6oLnRH3ysC1sl96cwOkVz7o4Lrxewa1b-b9izlh1LIOQt7afSpS7MdFlChhvSBJBpTdNS9BQyfs08UssXGwAMc9-3yrxqfWJi25XrFHLMGvK6YkW-NwX-rI4LgjPoEtKJNbZ1d9bx1JGdmNIbAv5BeRzIxAD-Q_KDEFdvn5o3msLWeRNID0Ob5hfspmEyUUflsHdsQ1gG3FkJwqSYSwSPF5H5UhL4jTv-JrQZ_8TbdBoxUurwGj5e9eVlB-K0JZ8Okl7Z13wQ16S-ukldqEsbFhce4qSR2Yjh1Uk14g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c_J3PXsgTiQqi72VPGXDZxrvjo6jDnX8RN5QxR3wykUinDTr6DLvcB5Sv7gBjTZhQcmBHyAsbsc2ZjmlE6gCRHxHD2TstcCPkkM4ZlvMi2cUBq7zyBWUIfuSVLWfLZahGhYiTQ4m16_w_KnQEoFWhqfzZr2yRZQiCFUKAD8Wc8DZa-rOvr-08Ny0hJN0sF70F2GoujtmHXEhxnopfk1hJPmbhR5JUnNC9seoVzrC_Zmj_AX9VVCBUAtzjpsB5jTIETgH_UDwFZ813h5MXmfFtQoGwMa5HjnyTF4uegtVe77Cz4iY5XYRR8I8QBJAknUaJeDe_sSmjgDLlZDB0amuxw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از ظهر امروز اوضاع نت اصلا خوب نیست و رو به بدتر رفتن هم رفته
 کارای مهمتون رو انجام بدین، احتمال هر شرایطی هست مجددا
 @danialtaherifar</div>

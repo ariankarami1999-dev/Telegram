@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 20:18:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 21:19:59</div>
 <hr>
 
 <div class="tg-post" id="msg-2869">
@@ -320,7 +320,7 @@
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2868">
@@ -353,7 +353,7 @@ Xray-core
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.79K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.3K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2867">
@@ -382,7 +382,7 @@ YouTube</div>
 خرید و ثبت سفارش از طریق ربات:
 🤖
 @prem_store_bot</div>
-<div class="tg-footer">👁️ 8.52K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -411,7 +411,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.78K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.96K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2865">
@@ -447,7 +447,7 @@ Remnawave
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.79K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.87K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2863">
@@ -477,7 +477,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2862">
@@ -520,7 +520,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2860">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hq2MaIpGk7mONutkysPYXatVNLgDPRqZPOZJG9TYPAAqC0pfrgXbOVcpidBzZ2t1CqWUooGOTiw2lDfXjmltRO9VdKfOqPzcO_wjygnMts77zJcEHey3NznYTnJD5WFptZ6N1_oZGkRP-BY3_d_wZf-uq0kk7GzWEH0CAvvBW5HjZp9ngY1X497O2xrO6ajLWZiISwvMci-5HDPwPP8L4LOkvX0oj7-sz_YcTrI-TrjpPHUEMHW0ADaknkWYTidbY0opYySC4AQFWcWPIogjkl_Gpu8r4DjHxBP5jfls6sUDi6bfUibokkL3t1yry4-0GSP2B3KZzO91vx-WDzClCQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Qwn5IM-uRtn32ds1jG3FEx1S2v2p_I4T-gjMbucCAxvVyx97f5E95S-EllXAcJw5nX04OotjGa-2FIUTk3wQAtkFWyO6UYd5hNvWBbQD_MIshC-sOjIMOF6Tx4InQ-Neur47kr6ak_ys7JFI8ULL2zIQyPTV6sAJTmuRWLDbk-FnK32y3H6KLb58LqH4rux_JyeJMBIi5iIwEQNjothamUyLrn6AYPp-GBimNoW8DaMtluY6eFrcwefQCTUKDbKNM7qFqmL3kiv1IkHm76uA2g96ERucxM8wsBZd1NAhwud-wWfTaSlIxGIo3_OTR4pWGJf_NXrvACVzNa_bGBXvWw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ابزار Relay؛ اشتراک‌گذاری سریع و امن اینترنت گوشی با ویندوز
 پروژه
@@ -544,7 +544,7 @@ Relay
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2859">
@@ -567,7 +567,7 @@ YouTube</div>
 اگر ویدیویی رو تماشا می‌کنید که ماه‌ها از انتشارش گذشته، لطفاً تبلیغ داخلش رو حتماً دوباره از طریق ربات ما صحت‌سنجی کنید. شرایط سرویس‌ها در گذر زمان تغییر می‌کنه.
 ممنون از اینکه همیشه در کنار ما هستید.
 🙏🏻</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2858">
@@ -592,7 +592,7 @@ YouTube</div>
 آدرس سایت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2856">
@@ -626,7 +626,7 @@ YouTube</div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2852">
@@ -660,7 +660,7 @@ GPT-5.6 Sol
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2851">
@@ -695,7 +695,7 @@ Adobe
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2849">
@@ -868,7 +868,7 @@ ToRouter
 مخزن پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/iaghapour/2842" target="_blank">📅 16:40 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/iaghapour/2842" target="_blank">📅 16:40 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2840">
@@ -876,7 +876,7 @@ ToRouter
 <div class="tg-text">⚠️
 دزدیِ آشکار و علنی یعنی همین! اپراتورها رسماً رو اینترنت بین‌الملل ضریب ۲.۷ می‌زنند؛ یعنی تا ۱۰۰ مگابایت دیتا مصرف می‌کنی، ۲۷۰ مگابایت از بسته‌ت می‌پره!
 با کدوم متر و معیاری این ضریب‌های عجیب‌وغریب رو روی حجم مردم حساب می‌کنید؟ این پولایی که بابت جابه‌جاییِ چند برابرِ حجم از جیب ملت می‌کشید، از گوشت سگ هم حروم‌تره. بسته‌ها رو که نجومی گرون کردید، جاده‌یک‌طرفهٔ کیفیت رو هم بستید، حالا رسماً دارید با ضریب زدن، حجم باقی‌مونده رو هم غارت می‌کنید.</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2839">
@@ -1147,7 +1147,7 @@ KelpDAO
 هم‌زمان پرونده کیفری او در فرانسه نیز مفتوح است، هرچند محدودیت‌های مسافرتی وی در فرانسه اخیراً لغو شده بود.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/iaghapour/2825" target="_blank">📅 16:12 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/iaghapour/2825" target="_blank">📅 16:12 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2823">
@@ -1159,7 +1159,7 @@ KelpDAO
 🎁
 ✨
 شرایطش هم خیلی راحته؛ فقط کافیه زیر ویدیو کامنت بذارید!</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2823" target="_blank">📅 21:05 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/iaghapour/2823" target="_blank">📅 21:05 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2822">
@@ -1377,7 +1377,7 @@ Claude Opus 5
 
 <div class="tg-post" id="msg-2807">
 <div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/iaghapour/2807" target="_blank">📅 18:07 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/iaghapour/2807" target="_blank">📅 18:07 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2806">
@@ -2318,7 +2318,7 @@ docs.songbird.website
 
 <div class="tg-post" id="msg-2740">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Fse3uJNQsH-1peTbGsSgt3a-9QXJoC3eb4wByNHNpemdNw623IpHXNnYJh9RTVh_qW2ClGpwquImJfLCki11Mhw9Mq5_wH58VByTjim6u_OX0lZI6eFZrcvA0u4IAc1l3W2x19fqNYhQ-t4JJl1nIWpk706D80Fva7X_rRgey-cSxpdiqRz_jtGJHFz3M8Csiv0gpC8380lfkcOc-eLybQWzRa_j3uB2H_Lm6KaLeOBU0mmzUd1v6hSRPhpzdwtjF5aKdDStSzKmdMf2uo00UM9iYVIofdMEecKpug_gy-9pWlNLLjeqxOcCK2Ge0DQm-TK23XAt-mK9vIGn_zgmAA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VxAJ-b8gXnobUIVVD49GYTP9Zjn51NjyN_gJ5JtgFV5IOlIlSlnMmy4LNSa30HZLGVUEX61ldrdG0sfGdi9b4hCu8o8dcboM2RgFD9sEfE_7l-Pdhrcay5bjk1-c7pCjDM8zroz1WGDyJxA-KSXyvj3wXzTk0SajZ54Iy4fls2mV30UVJo54ufF2AIhOSUKVSJTNj3w9nqK8MeSY642Jxnv7V8hyJOQWKaQSxHHkYDCkVt2V8Ew4xLSzcucS5Vf5Nax4PhVFYjCjHnGrYlN2xJwBl4ADYatA50gQRLT_SyjZsLNbUkz-xlRMe_u6yjXjFIsXMZWsUE1s3uRvsjUunw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎮
 اعتراض ۱۱۵ هزار نفری به سونی؛ دیسک‌های فیزیکی را حذف نکنید!
 یک خرده‌فروش کانادایی (PNP Games) کمپینی با نام «Don't Kill the Disc» به راه انداخته که تاکنون بیش از ۱۱۵ هزار امضا برای توقف برنامه جدید سونی جمع‌آوری کرده است. سونی قصد دارد تا سال ۲۰۲۸ درایو نوری را به طور کامل از کنسول‌های پلی‌استیشن حذف کند.
