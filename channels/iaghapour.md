@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 06:56:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 08:17:34</div>
 <hr>
 
 <div class="tg-post" id="msg-2867">
@@ -321,7 +321,7 @@
 خرید و ثبت سفارش از طریق ربات:
 🤖
 @prem_store_bot</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -350,7 +350,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.07K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.21K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2865">
@@ -386,7 +386,7 @@ Remnawave
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.19K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.26K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2863">
@@ -416,7 +416,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.63K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2862">
@@ -541,7 +541,7 @@ YouTube</div>
 🟢
 جایزه قرعه کشی تحویل حمید عزیز شد.
 سعی میکنیم از این به بعد با حمایت های شما هر هفته قرعه کشی داشته باشیم.</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/iaghapour/2856" target="_blank">📅 20:15 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2855">
@@ -599,7 +599,7 @@ GPT-5.6 Sol
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2851">
@@ -634,7 +634,7 @@ Adobe
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2849">
@@ -815,7 +815,7 @@ ToRouter
 <div class="tg-text">⚠️
 دزدیِ آشکار و علنی یعنی همین! اپراتورها رسماً رو اینترنت بین‌الملل ضریب ۲.۷ می‌زنند؛ یعنی تا ۱۰۰ مگابایت دیتا مصرف می‌کنی، ۲۷۰ مگابایت از بسته‌ت می‌پره!
 با کدوم متر و معیاری این ضریب‌های عجیب‌وغریب رو روی حجم مردم حساب می‌کنید؟ این پولایی که بابت جابه‌جاییِ چند برابرِ حجم از جیب ملت می‌کشید، از گوشت سگ هم حروم‌تره. بسته‌ها رو که نجومی گرون کردید، جاده‌یک‌طرفهٔ کیفیت رو هم بستید، حالا رسماً دارید با ضریب زدن، حجم باقی‌مونده رو هم غارت می‌کنید.</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/iaghapour/2840" target="_blank">📅 20:44 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2839">
@@ -1281,7 +1281,7 @@ Claude Opus 5
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">🟢
 اگه بین ویدیوهای چند ماه اخیر بخوام فقط یکیشون رو بهتون پیشنهاد بدم که حتماً ببیند، بدون شک همین ویدیو بالاییه؛ پس اصلاً از دستش ندید! :)</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/iaghapour/2809" target="_blank">📅 22:03 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2808">
