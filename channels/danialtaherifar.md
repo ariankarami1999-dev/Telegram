@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 09:18:28</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 10:20:45</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -301,7 +301,7 @@
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 303 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 304 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-948">
@@ -320,7 +320,7 @@
 
 <div class="tg-post" id="msg-947">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bYd1ihOfxdsoWWbUJ6X3hfg3a_5n8dA8BpMi1DAFPPYY7L3jFgmGVKJ60bXe34sDzeeaKy959cOSuMkwnCQ6vWXiVR1N421EbDry9aQZj4lkLU0k_Iz2tHVVnZ2qnLTCB4XRPYHUJm5rRtUfcdiJsPnDoO0W-Lp5mheofca4dS8E5P693jAW0mjWo7FlKZ-kFkTULMA2x6T1M5z8r6sNg2dpqS6RyMQRsX3Vri28ozQalzdJtt4yqClGtIlbkt5rLWfvUuLmGWtjMxRud90Yg3AiSDO1Uj7V06YJ_B8X2bk8dtShe87HXxHrMaUc6RXvZyooLJEZbwPqxwUWriYJxg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J6d7gH3YkgLlw1dTVCtTAXFG8O4jg6_HGVl0XfLPf5OFlRNd6Zhu5GcIzTRQopudTGU0uVprJ4hAwRYhVerostP1neMxG-j1rvZGB2K1HqjOu79k6amRCxFmsGCAeFmwbzwkT03eyKBOvBQZs6ZFQf7tzYXyuHTGpAWw_BFMpg33l6h7-S-RQvvomrO13kcjQP9qtDVvbIj2WhQG4EUUvEIh19yK2DrK5HwQFmj0yLIMioP_qoEmWqFG2bbn35FuK6XKu43mX1rnu2EA5p9y3N8TRVUQH1ecSDCHB-z1vs72Zkt60GTyCMW3Z_Xlavykyd7-hUPYa97pFJJqcQnxnQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 علی‌بابا هم اعلام کرد که مدل Qwen 3.8 با 2.4 تریلیون پارامتر و به صورت open weight به زودی منتشر میشه و در حد و اندازه های مدل های سطح بالا بعد از fable5 هست.
 خواهیم دید
