@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/DrAh3F5bSVflttNu5pTB5_2cvnxqSHUcWmd8NhW3JYvikUfCAP6iNjWhg0EIW_ScPsVJVTp3r0463lPxfn6jBDk0GxwG8r6_HzvzpD6yMOe7yuvIdM4KuFvRb3I50NuRFttE-wgAWu4rtuxr_bk6L_ANp3SjePjze5S7Elu3QlOkbGOmiuXR3UBOjEq9olOjBBX10AW39Lrtcu6aZfADaAvHXn9F2Jl-za2unFxcQFQvg3ZsbmLOLrAiWJHcliWP06LFddidR6ErsH4p9Cqi1xqV75u0knKj42KHX6BYh9o3qrQjPf62SkkGFGGzPo6kEVHExPnK8xz-sKsMYDWqeA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/U_RuU18o8bRZ_NPaPBCX2WRzK2RBh8dIpUFgTGq0QET8jAVYx9oi--PnyioC5AdRqIxK9mGOThWtaUloi3GNGAVnQkXXeLJ39f8ZN-CkpV9PomFjK1IoGmeWEQoG8xf47gg41rjs0S2YdT4JbZIdyZ9iiuwCi0wPSD8K0P4GfZI_rUD0OJJAEFAQLolwl287Hmm2jjfBbhunXEmb5lHOhAbfyHrbqb-mlTle3KlCC3QGIxJu2btq2Zf2BAM64tXEy8neH8AJAfaP0fyiDRJGJO0k6EVfnP_47NctTV067VdBDn0tvOAe1O_A6_hieJc6ErSoM2Eyq5v_KS7C-VAtXQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو با محسن طاوسی</h1>
 <p>@mohsentavoosiseo • 👥 7.78K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 03:27:50</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 05:08:25</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -306,13 +306,13 @@
 اگه اعداد مختلط نون شد اومد سر سفره، یا ماشینتو عوض کردی یا خونتو یا دارایی هات رو یا زندگیت با کیفیت تر شد، قطعا مسیرت درسته.
 حالا به جای این ریاضیات، هرچیزی بذار. از الگوریتم های گوگل تا مستندات و نحوه کارکرد مدل Fable کلاد تا... .
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.4K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-883">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">بازگشت قیمت(افزایش) دوره از 1 آبان یا زودتر. اگر قسطی دادید قسط رو تا پایان مهر کامل کنید یا اگر دوستی دارید که میخواسته تهیه کنید بهش اطلاع بدید.  با اومدن اپدیت بزرگ دوره(SEO و GEO بین المللی با AI) قیمت، تغییر خواهد کرد. چه اول آبان 1405 چه زودتر.  طبق…</div>
-<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.93K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-882">
@@ -440,7 +440,7 @@ Claude Cowork
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lkrYEthWX0LGPL4bTO5cUl16ydEmOK0WvijWp5yma1tygeuVY5Hb8TVaNQD1ieS1uxcTrZwK83tQm5RfjVUOWH02ApcOywbk1JfkJ3bxMTrvivJFzNpXPZ4rfa8_-GM1ZJOACMkXiMPYfWI4n1KKPqlZGdQU0jplFPtdhZLv8XdM1Tr9Smg0JqJPMKGSjeI7KzTVXgeNPIa6cZVknWrUn72lf30tE7Y9QgOlnsA7i-e0E8qjECIzXJIUmFyJ8bCqt7vCEEhMB_7FuDhdal0EyTVcOlqSHThTHsmwiUIn8cJ6Xk9u6xqd4SOsTza2baQ7CSoeLYQtNwZoeLufiPnRmA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.29K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.3K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
@@ -520,7 +520,7 @@ Claude Cowork
 ✅️
 7 چیزی که باید چک کنید. تمام پاسخ های من به این موضوع
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.35K · <a href="https://t.me/mohsentavoosiseo/868" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/mohsentavoosiseo/868" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-867">
