@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 01:06:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 02:02:37</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -350,7 +350,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.36K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -457,7 +457,7 @@ Claude Cowork
 این رو برای مخاطبین خودم پرمیوم هستند نگفتم. چون شما همه چیز رو با دید تجاری پخته نگاه می کنید و نمیگید اااا چرا گرون شد چرا نیست. میفهمید پشت قضیه چطور هست.
 برای کسانی گفتم که دید تجاری قوی ندارند.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.65K · <a href="https://t.me/mohsentavoosiseo/873" target="_blank">📅 12:52 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.66K · <a href="https://t.me/mohsentavoosiseo/873" target="_blank">📅 12:52 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-872">
@@ -1302,7 +1302,7 @@ pinned «
 
 <div class="tg-post" id="msg-774">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Q3INgY2jzFtSkj97PAiNrUlBj2evYHRpqsAarhg4qcl0KNQPqJ5Y5ElkjVJiZov6ewnBP6b0KKHms7axNO9K2qocH4EgCOvadkMFndsi_881PBKjhMsF6ADgbnvekvIHsPcPjZv4DKvfuwGfEDxYMvHV4IwzrsiNwphajdPt-a8ecEUfb2_wyBJCTyIQ817IsrXumRuKBU0MhBsrwUT-YF9MnLqXf43UkZvBsy_HxycL6KvqgtxBPaS3bER8qSmwGDzG6j_eoqYEvKuoXULiwVtWdR2TGigXdXH8tmjB1bwLdKy7SGLZdAD_1R-5vsQ0YtbZ30hdZmyhYi74odtnbQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VpQhjqBvBywo7TWcx92RiaJHX2MuwIoI0HUHkkDolrzf4-EjAlDp7xlRZMyHf22hsWzTmAbHKoaJuZH2beBHkBNXIC1HevbDIYwArOuJTf_qPRAZBeKffPBcR91ZB34xvAW3m2Ke2OJl-i0Nmedc60bo-F6FGJEfcLkcE4rYEoBJtqYxk3Ld53LMrjYR0L-M0lGGQLSb2DmhzDeGq30DGPzEMipEo0UDnr7TvQXOLoX6KdNzsx8ikzMAFnyzc24x9OQjuf5wYginwMjVuIQioBlsfu4eeRPENdc8FU6D9ykx-7px9y2ehOADnOVgBshrNj2zKv64oaTfN-7J6L9urQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درباره پستی که روش ریپلای زدم:   نظر یک نفر قبل از اون پست:  از این زاویه نگاه میکردم که آقا تفکر وقتی آزاد باشه کامنت هم باز میزاره که جامعه بتونه درموردش صحبت کنه  وقتی میبنده داره آزادی رو میگیره</div>
 <div class="tg-footer">👁️ 2.17K · <a href="https://t.me/mohsentavoosiseo/774" target="_blank">📅 17:48 · 04 Tir 1405</a></div>
 </div>
@@ -1333,7 +1333,7 @@ pinned «
 
 <div class="tg-post" id="msg-768">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/puTZxRDmpZ0w98NmigFeaSv7TU7KtcCfm06ssaE8Ls1o0oCeUR1_-X4adOF_C88LyQBDPT2OoydkV_jNZR6TRb-AYC9r6r0bQl0E1joiZL0hNlk8eGgvH4vM55yJQQWeZyoSC5xoYEYPQvnTfxAGXN_dan8rUoKd29-Pb1CjhIkr6Pd6u86EV823oy6_XxJnM-eQaaR3467ebjGQzbiJ1rjXlz-zO_KqkP55sLXVVCrY4anUYASbnzmF7jsmV2HrvAcwbhGzMYoSSLxoHqs9EqDZ4wtTO7Qu2erqLMUPYR8UO38GKHTCV997sHhE9enWjzuEW9LRjG8KjG8nfdDofw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BoyB6yrt8USQwlC0Up9vv9m1e_bUMlAA1v4PtbF_ackxq8wNRD2V5ljUIRdngG5TwAA-o3qM439URkTtHOqffFElzMYcbav3gIe3k3s-EyPxQZ-XR0AboOzdMJd0ky1iQQNBXsf79GS22lyf4NeMYA3Vd1ztOummkRQF3WgWBFGXFkWICfKnTHXJ_FOXEqV59goUAFkKX1gShUDdkpfixjsH5gWUnHmTdDZPBH7EPdLKffuAkyCM9QcOIyGdLQMqu1W2jrmNoliX6Ie-DO-6P3_TGfyZxan9UoM02MSBvMfxFYPxjE9bk_vB9ym4UFVWcGJkjYFN8AVyK76TRW5u6w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سوال یک دنبال کننده که احتمالا شناخت قبلی هم به من نداره:
 نکات سوال:
 پارتی نداشتم کار خوب گیرم نیومد
