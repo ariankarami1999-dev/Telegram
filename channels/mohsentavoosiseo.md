@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 17:20:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-20 18:20:19</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -350,7 +350,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -366,7 +366,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد میگم کلاد خداست میگید نه! بازم میرید از فلان جی پی تی، ایرانیش رو میخرید؟ خیلی فرق داره! اختصاصی بگیرید. کانکتور و اسکیل و داکیومنت و کوورک و... تو اختصاصی هست فقط.
 mohsentavoosi.com/1
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.67K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.68K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-880">
@@ -384,7 +384,7 @@ mohsentavoosi.com/1
 
 <div class="tg-post" id="msg-879">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/s0Sc7CS7-7FS2j4EDuc_U9sIsid1w1FJ8dQQKG2qAfRPUs0E7u2pwGsKfcJvjfzFnZF04rpcWf84pzxjgNpv2cMKlmuus0iMEfj8IZ8drV1RwP18pcwwQQ7SwF5cJXGF5zUb0NQde0T-D1SfNevotS0w8f_et43tpBPAAy9bD5vKALmE67fbXKOb4SQJOx3sqmeiZBnOdCn588zOMxDi4Ucvw22woJi_kh1KmVOvoNf2V8Eyd5oAZbRj5d_B23gtKQgXg1gN4ScNkr-O0b2m0dCz1pcrzwvmD9lx8C-vX0Y2EboBwaSx-3CW3_eBzzGQKDnwnl_BMtKbs7bZulM0dA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XCEqYNH53GtP0XpGI1LmwWizbLmBCSdkmMJJ4lHVxuR5Gnc5ckg8s7-je9PaRojSnCKDiNWF6qsDvRVSS34w7VF7W0gXRUCeLuJ1gxyZyiR4nseJNC7IfKBHaNKkkVPXTLgKV6YLCHE3srmDbRE3I9kUJM6GsRm2aOzlJNpBHoAMPIRK4sM4Hzc0wQ1yWAurA2CKRPTX5PBO1CbhbNMM3aiMLvZ6CQcoCzgDSXagsuu8jS7CFgsVa9jcH4qvu8weSdaNkFsfn795Y1YsJ5Aiztq7kz40jbM2-qLQoTyWBsU5hzzEWuuOzeGMq4OR2eQURgkGBO0bxQWEFv7iJhLIuQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❓️
 از کدوم هوش مصنوعی استفاده کنیم؟
 کلاد
@@ -601,7 +601,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-859">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TZX7jtkhvfJMR6aIV90MNvWyG-t3l7GvqiAZ015N95QBgnkf5o_yLW-MGv2Q5fS_indcNrnfZerQE13NMDqFWTT4Fz4_DDsilopxxWV3M22HYAM8Db5bUJ97_814pH0BMoe-kNh856_4D7b--RZKzHHFX6czJiRooIyeJfY4sl6l4qMe0qkIUiEYj_H9nPGMvANT4aJr7SfFRS9OmyqiSgb5lhMYjRwpXjGvaE_3i37soZT9h00o3btZCdDXQtx2HxpCCmkIisYVS42sa1Wp__789NXO2kN3PuhDKvvai6raa6TjpZmlO2JxvUsvQssU2_ta8CDvqsx3PJbV68aqcw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tkSp3guqSi8LcdglTfs3_ZzC7nPPEkztxdzaJgcLQCOawxrSaIa0RdjJEMZKe0q672Ye-5pvETCXGqyaBTHuge97H7faiXCpzem60ikIzX7g0QHbMTTrSKD7ToX8YcjpPLhOMcuOa2V98xXnFjTtj8DO2bFNbkxB7ylxyDbvTDU04bsDz6HbrFU46pDpl9f0Lf8G0uKQTr3D5gmTIIvCNe11sETHRYY6jEqpq4fSOenoaKqrbjXMdYyy6XZt6rur4k_2v5g0yhER8pG3SdfpDNjO8X5ylhHedoOq-kOSCZ3xWcWgnsIG6u1fLgxa20ncszsPQZJGq4nyvNhw7kyPSg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این عکس، نمودار حدود 8 ماه گذشته یکی از پروژه های انگلیسی هست. هیچ فیلتری جز زمان هم ست نشده.
 تاریخ 5 فوریه زمان شروع همکاری بوده.
 به نظرتون بد شده اوضاعش یا خوب شده؟
@@ -1090,7 +1090,7 @@ https://t.me/mohsentavoosiseo/267
 <div class="tg-post" id="msg-807">
 <div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/mohsentavoosiseo/807" target="_blank">📅 00:05 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.93K · <a href="https://t.me/mohsentavoosiseo/807" target="_blank">📅 00:05 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-805">
