@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 08:54:13</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 10:20:44</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -320,7 +320,7 @@
 
 <div class="tg-post" id="msg-947">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J6d7gH3YkgLlw1dTVCtTAXFG8O4jg6_HGVl0XfLPf5OFlRNd6Zhu5GcIzTRQopudTGU0uVprJ4hAwRYhVerostP1neMxG-j1rvZGB2K1HqjOu79k6amRCxFmsGCAeFmwbzwkT03eyKBOvBQZs6ZFQf7tzYXyuHTGpAWw_BFMpg33l6h7-S-RQvvomrO13kcjQP9qtDVvbIj2WhQG4EUUvEIh19yK2DrK5HwQFmj0yLIMioP_qoEmWqFG2bbn35FuK6XKu43mX1rnu2EA5p9y3N8TRVUQH1ecSDCHB-z1vs72Zkt60GTyCMW3Z_Xlavykyd7-hUPYa97pFJJqcQnxnQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rQrMbyR69RdVMVFZaam1HMyXzV6WDTrQWxDnjN9iBuium0ui9gWSG7lIMhZ93DUnCRqVip5Lf00tAgQ8iWbRyKhvcdOL25b7agSxHxNGCzVQM9LzGB6z_92XFq_RTZlGaK-tVMr4jatc8l0jE-xDmaiwuUAjoNObNRvZjJVVfyefnB2HKWvQVcZHDGh-dhRGQOs0B1A_lO9ZY-oSW0IsHi2E00vHxotx8Orp1BVIBfvjEvqLnKeRpYEusCTD7yuuv4G2sluQ9-gre2wPDRi91KuNFgAXiyEfBq8LxjaXtZUSR8QuWBCVhjN4uoNiMV5uIbcr_SHyDjhSeSCTJF_44w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 علی‌بابا هم اعلام کرد که مدل Qwen 3.8 با 2.4 تریلیون پارامتر و به صورت open weight به زودی منتشر میشه و در حد و اندازه های مدل های سطح بالا بعد از fable5 هست.
 خواهیم دید
@@ -1551,7 +1551,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 📢
 هدف گوگل از این تغییرات احتمالا افزایش خوانایی نتایج و بهبود تجربه کاربری است. البته هنوز بازخورد رسمی یا اطلاعیه‌ای از سوی گوگل در این باره منتشر نشده.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 549 · <a href="https://t.me/danialtaherifar/864" target="_blank">📅 14:10 · 06 Ordibehesht 1404</a></div>
+<div class="tg-footer">👁️ 550 · <a href="https://t.me/danialtaherifar/864" target="_blank">📅 14:10 · 06 Ordibehesht 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-863">
@@ -1570,7 +1570,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 ✅
 اگر براتون مهمه تصاویرتون توی گوگل دیده بشه، بهتره روش سنتی آپلود مستقیم (JPEG, PNG و...) رو استفاده کنید.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 548 · <a href="https://t.me/danialtaherifar/863" target="_blank">📅 09:57 · 06 Ordibehesht 1404</a></div>
+<div class="tg-footer">👁️ 549 · <a href="https://t.me/danialtaherifar/863" target="_blank">📅 09:57 · 06 Ordibehesht 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-862">

@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 08:54:13</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 10:20:44</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -312,7 +312,7 @@
 <div class="tg-post" id="msg-883">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">بازگشت قیمت(افزایش) دوره از 1 آبان یا زودتر. اگر قسطی دادید قسط رو تا پایان مهر کامل کنید یا اگر دوستی دارید که میخواسته تهیه کنید بهش اطلاع بدید.  با اومدن اپدیت بزرگ دوره(SEO و GEO بین المللی با AI) قیمت، تغییر خواهد کرد. چه اول آبان 1405 چه زودتر.  طبق…</div>
-<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.03K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-882">
@@ -350,7 +350,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.36K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.37K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -366,7 +366,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد میگم کلاد خداست میگید نه! بازم میرید از فلان جی پی تی، ایرانیش رو میخرید؟ خیلی فرق داره! اختصاصی بگیرید. کانکتور و اسکیل و داکیومنت و کوورک و... تو اختصاصی هست فقط.
 mohsentavoosi.com/1
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-880">
@@ -426,7 +426,7 @@ Claude Cowork
 چیکار کنم دیگه هی نگی کلاد؟
 از کلاد بپرس.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.14K · <a href="https://t.me/mohsentavoosiseo/879" target="_blank">📅 20:00 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.15K · <a href="https://t.me/mohsentavoosiseo/879" target="_blank">📅 20:00 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-877">
@@ -446,8 +446,8 @@ Claude Cowork
 <div class="tg-post" id="msg-873">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ClGlLCNa4v8hlhNaysLD96uFzJk5V7P3VdGAt-Ht4ekUHF3O-xeCLIDLuCqP95eJtd_2tKGL09uav2-tH5PPm2vJYol0w3EVVVDsSqwXo9xF65sacsBo2Z3e3Qdh1PLWdZ_VlRx8TYX4PScFS7prBskPgldQVzTuPuEzSBGthtzRC2clyPHbXYuTiS_x-N8BShcy5nCPjHog14gNc95zkrpXcw5fHtBhMKhobUA_nzIPNcJnuFH-2qz1P_tl-R0JXIzznMiPEhugpx_KbrFZZOzhs86N2GYl1C1NYcH3_S9o4PCN9fq2l_cn9pN6gVTqCvUzjmSeBGZa0ReNo77j3A.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/KjjEXeNbcKI6ZUD5ewPrpe4xh2YUKNFCHEqQTpLYFAjWhmpHiIJnqterOAwdLGABpGD8PHDYnSVkqPuvYSGtTvbD6hr0uTcszlXjnLo6cvU5wE6QX9O8DlKKTPK0Ls-8CgJk-2URIgjAabmBvXBT6yyFTa8lL8TAZdwGWpKeMi-fi89MF9kwFwxe4rg1QFVKSVG7AaJV3tM-sC1IcRwPRUSOdplJdbrbRfFLmOPHhfVnOyq77UvVaTCNTi8rAS6NfZVVz8XUsbHNc6QqyC7bs-Apv2qG2xVRNSskTmu7aXaMin7JBFSZ7RWfj0q5f_wbuCOl4fCTfyt9A9sZzf3TRA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/OCNlP7aKdmdYCdPv92QHb_47HXk7DReaOshZIuEjdrIzVZp_J6PVlUOWau4uD89z81TrauUF8OWqtC6yCoF80Gmz0gKmwmUlJdsExrUPPVWqfQBnGCMkrHOIIn6ttoZ4yhe6Ucl-d4SdRexsC55lUNTXPs8fyjg4cDX1KkqlUfYDgMHLZChE4-ReKEHGMX3hKkeAooDm9DlPYHcksjGT6ZvkoEHzU0UyK_nK9yiaGl0688k8Xmmf8DgENyAC-vCdent72bLG0xveXiaSIiAKst7HBAXmpRjX7PN7iDKpr1UcgL3vpBEK5NnHh_TgbmiSgJ6-qu3QK_3OtortQXmVMQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/MJun7DYhYaph6LuIsZ01PXc3fzywaNdlDiNBL0TKrLNDBrSfdMVe3OQVKUNHexpSmzLjnw_a7BA3xA31Lr-N4bkUJjIYKTYPPv-FUuk-W7nXjwlZlnnZu7wxe6zQ4JFbfRjI82gNIdHvqJg7jM6nIe-YJlCxvYdlSP1zxNsC7y1D93mZc7O_T6ajFp2qdi-ikXUVFFaZ4mzKMngb1gJGD_hEsSncSTzG-069i7Ac4XDVasgAzmJqslSWXPViGPIpEDUKnFLOJs_GtBuXTASKJL3_wz6pBSu78WeAjfDlHsU0Zb2dZxp4_aI-HFo05cza2o7KX8rWsDngMqfhJl6Byg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">تصویر چهارستونه(گرونتر) برای ابزار keyword tool هست و تصویر سه ستونه(ارزون تر) برای ابزار Mangools که ایرانی ها به KWFinder میشناسنش.
 شما خودتون رو بذارید جای سایتی که ابزار اشتراکی میفروشه.

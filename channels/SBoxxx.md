@@ -292,19 +292,19 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 08:54:13</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 10:20:44</div>
 <hr>
 
 <div class="tg-post" id="msg-19936">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">حجم تحقیری که ترامپ به عنوان رییس جمهور آمریکا دارد می شود کم نظیر است!  پس از افشای داستان فرار ترامپ از ترکیه با یک هواپیمای فرعی — آن هم داخل کامیون کترینگ هواپیما ! — دیروز خبری منتشر شده که ترامپ حتی داخل زمین گلف خودش احساس امنیت ندارد و همانطور که در…</div>
-<div class="tg-footer">👁️ 853 · <a href="https://t.me/SBoxxx/19936" target="_blank">📅 08:09 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/SBoxxx/19936" target="_blank">📅 08:09 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19935">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">— کریس رایت، وزیر انرژی ایالات متحده:  به لطف تلاش‌های هماهنگ ارتش ایالات متحده و متحدان ما در خلیج، میانگین هفت‌روزه نفت خروجی از تنگه هرمز در حال حاضر به نزدیک ۹ میلیون بشکه در روز رسیده است.  وقتی این مقدار با ۵ تا ۷ میلیون بشکه اضافی در روز که از طریق…</div>
-<div class="tg-footer">👁️ 1.01K · <a href="https://t.me/SBoxxx/19935" target="_blank">📅 07:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.98K · <a href="https://t.me/SBoxxx/19935" target="_blank">📅 07:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19934">
@@ -314,32 +314,32 @@
 به لطف تلاش‌های هماهنگ ارتش ایالات متحده و متحدان ما در خلیج، میانگین هفت‌روزه نفت خروجی از تنگه هرمز در حال حاضر به نزدیک ۹ میلیون بشکه در روز رسیده است.
 وقتی این مقدار با ۵ تا ۷ میلیون بشکه اضافی در روز که از طریق خطوط لوله و تأسیسات صادراتی تازه ارتقا یافته از منطقه خارج می‌شود، ترکیب شود، مجموع جریان‌های نفتی در حال حاضر به طور میانگین حدود ۱۵ میلیون بشکه در روز است.
 فقط در روز یکشنبه، بیش از ۲۰ میلیون بشکه از منطقه خلیج عربی خارج شد که این رقم بالاتر از میانگین پیش از درگیری است.</div>
-<div class="tg-footer">👁️ 975 · <a href="https://t.me/SBoxxx/19934" target="_blank">📅 07:58 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/SBoxxx/19934" target="_blank">📅 07:58 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19933">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">کوشش ژاپن در تقویت توان دفاعی  ژاپن با تأکید وزیر دفاع خود، شینجیرو کویزومی، بر لزوم تقویت و تحول توان نظامی این کشور با «حسی بی‌سابقه از فوریت و بحران» اصرار می‌ورزد. گزارش سالانه سفید دفاعی ژاپن، منتشرشده در ۴ اوت ۲۰۲۶، بار دیگر بر تهدیدات فزاینده چین، کره…</div>
-<div class="tg-footer">👁️ 1.46K · <a href="https://t.me/SBoxxx/19933" target="_blank">📅 06:25 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/SBoxxx/19933" target="_blank">📅 06:25 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19932">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">صدای انفجار در شمال غرب تهران</div>
-<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/SBoxxx/19932" target="_blank">📅 02:28 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.11K · <a href="https://t.me/SBoxxx/19932" target="_blank">📅 02:28 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19931">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">صدای انفجار در شمال غرب تهران</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/SBoxxx/19931" target="_blank">📅 02:26 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.18K · <a href="https://t.me/SBoxxx/19931" target="_blank">📅 02:26 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19930">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">▶️
 An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.  @PressTV</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/SBoxxx/19930" target="_blank">📅 02:18 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.17K · <a href="https://t.me/SBoxxx/19930" target="_blank">📅 02:18 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19929">
@@ -355,69 +355,69 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.  @Press
 <div class="tg-text">▶️
 An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 @PressTV</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/SBoxxx/19929" target="_blank">📅 02:17 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.17K · <a href="https://t.me/SBoxxx/19929" target="_blank">📅 02:17 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19928">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PKSMtqvjhY6C8-Fqr8hNjOvmysQIJOqo-SiDTUGKQ4GeoW_rYupRsFXY9urTkqZajc4LKawXpus42sKPJ3DrExskbGEraHeXgVtOnDIStqAXY3enI94j1heJeKzrjuEZblZPEP6wl22LbcOiYlzOu7E4RoaVwll9O70uVnUMZRcCuaffXn6PmXD2xBzSo0jwRY3fyPdkH_fgAK_rF22jkcIj4biDEKa7f3KypacKqvlSkWuUy-WfDPRpbZXkYjNt0vKxhLSzDjGm2wQcvD72UEZ7vR6aWE2sZzD84vb33XadLRZHRXxZKCaqM5Wr8jUx8FTxen_rNx8jhoVOxqbY4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">GeoMarkets Podcast Text.pdf</div>
-<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/SBoxxx/19928" target="_blank">📅 02:06 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/SBoxxx/19928" target="_blank">📅 02:06 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19927">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">ترامپ:  ما میلیاردها و میلیاردها دلار از ونزوئلا می‌گیریم.  این اتفاق با ایران هم خواهد افتاد.</div>
-<div class="tg-footer">👁️ 3.69K · <a href="https://t.me/SBoxxx/19927" target="_blank">📅 23:21 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.96K · <a href="https://t.me/SBoxxx/19927" target="_blank">📅 23:21 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19926">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">این ترکیب و چینش سیاسی و نظامی خبر از جنگی شدید می دهد.  تًن ماهی یادتان نرود.</div>
-<div class="tg-footer">👁️ 3.7K · <a href="https://t.me/SBoxxx/19926" target="_blank">📅 23:10 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/SBoxxx/19926" target="_blank">📅 23:10 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19925">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">اساساً به حمایت خاصی نرسید که برای خرید اقدام بشود.</div>
-<div class="tg-footer">👁️ 3.8K · <a href="https://t.me/SBoxxx/19925" target="_blank">📅 22:35 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.97K · <a href="https://t.me/SBoxxx/19925" target="_blank">📅 22:35 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19924">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IrDXnUqwIrBVL3nzfO5vopNcMs7hSmLwgr41tk7dj2G1ZZmNg6Dbm1HR9KAveXd4ioNMYu3IgFGrdiAMFQ9aog-cmxcGaWBXAXTnk65nx9b5WdUdYAVLiRF3dSlEelcCFufgxSK1ng9KktkfYWFEGzTyZZef-4JN46C_4Ky0XKAA07IJjF7sWoHs4Qvm5YVXVADFpfGapPY_gU_INyY_8wRPrVmHowA7LMgvzuENClFg5LvO67BBgabOLZAagup1FteYwqYVw58gGMzyCii6CKUPMYDEEo82K7oTQBV4-oZD3s4OHP9vtBqZMaLcjTSGduVhrynEFzEC7zjE3iceCQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI  برای امروز شاخص ریسک ژئوپولیتیک در سطح میانه ای قرار دارد. در چنین شرایطی سیگنال قوی خرید یا فروش صادر نمی شود و بهترین راهبرد از دید من خرید در سطوح حمایتی پایین تر است.</div>
-<div class="tg-footer">👁️ 3.75K · <a href="https://t.me/SBoxxx/19924" target="_blank">📅 22:34 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.92K · <a href="https://t.me/SBoxxx/19924" target="_blank">📅 22:34 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19923">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">بازآرایی ساختار نظامی و امنیتی ایران؛ حرکت به سوی فرماندهی متمرکزتر و مقاوم‌تر   ایران پس از تجربه جنگ‌های ژوئن ۲۰۲۵ و بهار ۲۰۲۶ در حال بازطراحی بخش‌هایی از ساختار نظامی و امنیتی خود است؛ بازآرایی‌ای که به نظر می‌رسد مستقیماً از آسیب‌پذیری‌های آشکارشده در…</div>
-<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SBoxxx/19923" target="_blank">📅 20:52 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/19923" target="_blank">📅 20:52 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19922">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">گریدم به اسلام آباد و توافق ش. نفت را دریابید.</div>
-<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/SBoxxx/19922" target="_blank">📅 20:51 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SBoxxx/19922" target="_blank">📅 20:51 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19921">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">محسن رضایی، دبیر شورای عالی امنیت ملی ایران:  پیام ایران روشن است: تنگه هرمز تا زمانی که آمریکا جنگ و محاصره را پایان ندهد، دارایی‌های مسدود شده ایران را آزاد نکند و به آتش‌بس در کل منطقه، از جمله لبنان و غزه، موافقت نکند، باز نخواهد شد.  تا زمانی که تمام…</div>
-<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/SBoxxx/19921" target="_blank">📅 20:48 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SBoxxx/19921" target="_blank">📅 20:48 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19920">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">محسن رضایی:   تمام توانم را برای افزایش قدرت ایران به کار خواهم گرفت</div>
-<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/SBoxxx/19920" target="_blank">📅 20:48 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.16K · <a href="https://t.me/SBoxxx/19920" target="_blank">📅 20:48 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19919">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">این خواهرمیانه درست بشو نیست؛ ببینید کی گفتم.</div>
-<div class="tg-footer">👁️ 3.87K · <a href="https://t.me/SBoxxx/19919" target="_blank">📅 20:39 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.96K · <a href="https://t.me/SBoxxx/19919" target="_blank">📅 20:39 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19918">
@@ -430,25 +430,25 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <a href="https://cdn4.telesco.pe/file/b3df015c88.mp4?token=pPmKT7hP9NNbKivhAdmHGPlmthNHim4agZvgDyOKswu0xSbqJVb6xXdur0sM3_HWMazybbGZbOrCSlqnpHTDDQcQOLBSLuZzI9dEgzTxy-cYIjrhKVIfxPpjUf4M0zMEICabWwNLYuE4_sJoTW1aPqwF_eModWnrGkqUTwckhZ9zUR1YflmPWLwDx3kVS1PR93J9jsPA_Rj7SGl_hSYJVxWTgll-gpXA3ptd98wtjZediFAGd1nWAwmW1QsOMh0c8kLG9tXs74zfHGGrDYkvqCeoi4wzXYtAs9J2wy4IVMGPLgjXwd4tZlC1DJRRrctuNOlS2QdZD1dXtiXnl8bStA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">پرواز زمینی بچه های تیم New Castle !  همه هم پنج سانت و ده سانت و …</div>
-<div class="tg-footer">👁️ 3.96K · <a href="https://t.me/SBoxxx/19918" target="_blank">📅 20:38 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/SBoxxx/19918" target="_blank">📅 20:38 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19917">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">حجم تحقیری که ترامپ به عنوان رییس جمهور آمریکا دارد می شود کم نظیر است!  پس از افشای داستان فرار ترامپ از ترکیه با یک هواپیمای فرعی — آن هم داخل کامیون کترینگ هواپیما ! — دیروز خبری منتشر شده که ترامپ حتی داخل زمین گلف خودش احساس امنیت ندارد و همانطور که در…</div>
-<div class="tg-footer">👁️ 3.81K · <a href="https://t.me/SBoxxx/19917" target="_blank">📅 20:23 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/SBoxxx/19917" target="_blank">📅 20:23 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19916">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">ترامپ:   ایرانی‌ها با ما بازی می‌کنند، در اتاق‌های جلسات موافقت می‌کنند و در رسانه‌ها رد می‌کنند.</div>
-<div class="tg-footer">👁️ 3.95K · <a href="https://t.me/SBoxxx/19916" target="_blank">📅 18:55 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/SBoxxx/19916" target="_blank">📅 18:55 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19915">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">ترامپ: ایالات متحده می‌تواند به زودی با قدرت بسیار زیاد به ایران حمله کند.</div>
-<div class="tg-footer">👁️ 3.97K · <a href="https://t.me/SBoxxx/19915" target="_blank">📅 18:54 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.06K · <a href="https://t.me/SBoxxx/19915" target="_blank">📅 18:54 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19914">
@@ -461,46 +461,46 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 از منظر سیاسی، دولت ترامپ این سیاست را مستقیماً بخشی از برنامه بازگرداندن امنیت عمومی معرفی می‌کند. افزایش فعالیت ICE، تمرکز بر افراد دارای سابقه کیفری، مقابله با شبکه‌های تبهکاری و کارتل‌ها و کاهش شدید ورود غیرقانونی، همگی می‌توانند از دیدگاه دولت نوعی افزایش بازدارندگی ایجاد کنند. داده‌های موجود نیز نشان می‌دهد اجرای سیاست‌های مهاجرتی در دوره ترامپ به‌طور محسوسی تشدید شده است؛ برای مثال، یک تحلیل مبتنی بر داده‌های ICE نشان می‌دهد تعداد بازداشت‌های ICE در مقطعی از سال ۲۰۲۶ نسبت به نیمه دوم دوره بایدن چند برابر شده است.
 با این حال، نباید از نمودار فوق یک رابطه علّی قطعی میان سیاست مهاجرتی ترامپ و کاهش قتل استخراج کرد. روند کاهش جرم پیش از آغاز دولت دوم ترامپ نیز شروع شده بود و خود آکسیوس نیز تأکید می‌کند که کاهش جرم در دوره پایانی دولت بایدن آغاز شده و سپس در دوره ترامپ ادامه یافته است. علاوه بر این، عوامل متعددی مانند افزایش یا بهبود عملکرد پلیس، تغییر الگوهای باندهای جنایتکار، وضعیت اقتصادی، کاهش خشونت پساکرونا و سیاست‌های محلی می‌توانند در این روند نقش داشته باشند.
 با این وجود، از منظر سیاسی می‌توان استدلال کرد که سیاست «مرزهای بسته‌تر، اخراج سریع‌تر و برخورد سخت‌تر با مجرمان» یکی از مؤلفه‌های محیط امنیتی جدید آمریکا است. کاهش ۶۰ درصدی یا بیشتر قتل در چندین حوزه قضایی، همراه با افت ۱۷.۲ درصدی در شهرهای بزرگ، نشان می‌دهد که آمریکا در حال تجربه یک چرخش مهم در شاخص‌های خشونت شهری است. بنابراین، حتی اگر هنوز برای نسبت‌دادن این تحول به یک سیاست مشخص زود باشد، دولت ترامپ اکنون می‌تواند این آمار را به‌عنوان شواهدی از موفقیت رویکرد امنیت از طریق اعمال قانون و کنترل مهاجرت در برابر منتقدان خود مطرح کند.</div>
-<div class="tg-footer">👁️ 4.02K · <a href="https://t.me/SBoxxx/19914" target="_blank">📅 18:50 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SBoxxx/19914" target="_blank">📅 18:50 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19913">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">ترامپ:
 ایالات متحده می‌تواند به زودی با قدرت بسیار زیاد به ایران حمله کند.</div>
-<div class="tg-footer">👁️ 3.99K · <a href="https://t.me/SBoxxx/19913" target="_blank">📅 18:19 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/SBoxxx/19913" target="_blank">📅 18:19 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19912">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">خواجه آصف وزیر دفاع پاکستان، گفته است که ایالات متحده و ایران به توافقی در مورد تنگه هرمز نزدیک می‌شوند، با وجود اینکه هر دو طرف اخیراً مواضع سخت‌تری را در مذاکرات اتخاذ کرده‌اند.  او گفت: "به نظر می‌رسد که اوضاع به نفع صلح پیش می‌رود."</div>
-<div class="tg-footer">👁️ 4.13K · <a href="https://t.me/SBoxxx/19912" target="_blank">📅 16:46 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SBoxxx/19912" target="_blank">📅 16:46 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19911">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">محسن رضایی:
 تمام توانم را برای افزایش قدرت ایران به کار خواهم گرفت</div>
-<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/SBoxxx/19911" target="_blank">📅 16:31 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SBoxxx/19911" target="_blank">📅 16:31 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19910">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">خواجه آصف وزیر دفاع پاکستان، گفته است که ایالات متحده و ایران به توافقی در مورد تنگه هرمز نزدیک می‌شوند، با وجود اینکه هر دو طرف اخیراً مواضع سخت‌تری را در مذاکرات اتخاذ کرده‌اند.  او گفت: "به نظر می‌رسد که اوضاع به نفع صلح پیش می‌رود."</div>
-<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SBoxxx/19910" target="_blank">📅 16:09 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SBoxxx/19910" target="_blank">📅 16:09 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19909">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">خواجه آصف وزیر دفاع پاکستان، گفته است که ایالات متحده و ایران به توافقی در مورد تنگه هرمز نزدیک می‌شوند، با وجود اینکه هر دو طرف اخیراً مواضع سخت‌تری را در مذاکرات اتخاذ کرده‌اند.
 او گفت: "به نظر می‌رسد که اوضاع به نفع صلح پیش می‌رود."</div>
-<div class="tg-footer">👁️ 4.16K · <a href="https://t.me/SBoxxx/19909" target="_blank">📅 16:09 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/SBoxxx/19909" target="_blank">📅 16:09 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19908">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">یک نفت کش که قصد داشته محاصره دریایی آمریکایی را بشکند هدف آتش نیروهای آمریکایی قرار گرفت.</div>
-<div class="tg-footer">👁️ 4.14K · <a href="https://t.me/SBoxxx/19908" target="_blank">📅 16:07 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SBoxxx/19908" target="_blank">📅 16:07 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19907">
@@ -511,14 +511,14 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 انتصابات جدید نیز همین جهت‌گیری را تقویت می‌کنند. علی عبداللهی علی‌آبادی در رأس ستاد کل قرار گرفته و هم‌زمان نقش او در خاتم‌الانبیا، وی را در مرکز ساختار فرماندهی مشترک قرار می‌دهد. سوابق او در سپاه، فرماندهی انتظامی، وزارت کشور و ساختار ستاد کل، ترکیبی از تجربه نظامی و امنیت داخلی را فراهم می‌کند. در کنار او، کیومرث حیدری، با سابقه فرماندهی نیروی زمینی ارتش و فعالیت در خاتم‌الانبیا، به لایه بالای ستاد کل اضافه شده است.
 در سپاه نیز تثبیت احمد وحیدی در مقام فرمانده و انتصاب مصطفی ایزدی به‌عنوان معاون فرمانده، نشان‌دهنده بازسازی سریع زنجیره فرماندهی پس از ترور محمد پاک‌پور است. انتخاب ایزدی، که اخیراً مسئول حوزه سایبری و تهدیدات نوظهور خاتم‌الانبیا بوده، می‌تواند بیانگر اهمیت فزاینده جنگ مدرن، حوزه سایبری و تهدیدات نوظهور در معماری دفاعی جدید ایران باشد. انتصاب حسین طائب به فرماندهی بسیج نیز نشان می‌دهد که بازآرایی نظامی با لایه امنیت داخلی و بسیج اجتماعی پیوند خورده است.
 در سطح امنیت ملی نیز تغییر دبیر شورای عالی امنیت ملی و جابه‌جایی مشاوران ارشد، بخشی از همین روند تمرکز قدرت و هماهنگ‌سازی ساختار تصمیم‌گیری است. در مجموع، تصویر ارائه‌شده در انتصابات اخیر حاکی از آن است که ایران پس از تجربه آسیب‌پذیری فرماندهی در جنگ‌های اخیر، در حال ایجاد ساختاری متمرکزتر، یکپارچه‌تر و کمتر وابسته به یک فرد یا نهاد منفرد است؛ ساختاری که هدف آن افزایش سرعت واکنش، هماهنگی ارتش و سپاه و حفظ تداوم فرماندهی در صورت تکرار حملات علیه رأس هرم نظامی است.</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/19907" target="_blank">📅 16:02 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/19907" target="_blank">📅 16:02 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19906">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eCFbFezp4XNn71VmW9dhxcOSh39nSGCgNjFJKBgc4SWUpTs6QQ4tDN2trAdnlplDEbWfjpVfvXPd6NLGOqsgBChuLiKgLeG3swN0l0bJEjmIUrKWEbiB2vRcAMS08I1PumTQAUdx0uUlI7fZT-pxFFXmsGvLEzv47CAS9iL3l1gk4hSS4JMoO6z41pdRzYi_rwsXjXQgFjk2dK0dTDbc4jFl7-jGA1dqbdbohU5gqlh4u9BNOQ4nf7Oz2k_NdkpChMGmekKlM9SrAz-KD04U0i8M_9kDBijucJcbP4RPkcEHIMU9-0e38jmJOBTI86JnqKy-cim67xtnW9PNYl0o8A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نقشه درگیری های میان انصارالله و نیروهای دولت رسمی یمن</div>
-<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/SBoxxx/19906" target="_blank">📅 15:28 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.13K · <a href="https://t.me/SBoxxx/19906" target="_blank">📅 15:28 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19905">
@@ -531,7 +531,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <a href="https://cdn4.telesco.pe/file/845af07e2f.mp4?token=Se5GCZdRrSGR_QvNq7txOCpe9LpFlGdduoo7guW_zEdHYN8tb0MQVhB99c4nwUrpEVk3avrXQmYv3HtRcRuU_MgMCxHqfeCMH0Yob0fGjsms4EhgKGiBc_PdjbLiFoj09PoL8Ze2osM0aGKBXQlELUwEV7VGAcoUmoV0dzELwQj62xDxRcftyg0zSQ03KpapLPCt4e3BoinJ_HjGyWwA51UbKse-R5YL6c9Tu7AJ1KsrCi2WtmuK11TGzgeEd2DZFvLXC-F5EX7ddj3d-973quRHSGuk5c2RaoYnZ_tJpo2-q-bXIQUsr7FKNzu65fvzgLcnOcf8OeAJViw10VYqIQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وزیر امنیت ملی اسرائیل بن گویر:  برای هر اشک یک مادر اسرائیلی، هزار مادر لبنانی باید بگریند. تمام لبنان باید بسوزد!</div>
-<div class="tg-footer">👁️ 4.18K · <a href="https://t.me/SBoxxx/19905" target="_blank">📅 14:39 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SBoxxx/19905" target="_blank">📅 14:39 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19904">
@@ -545,19 +545,19 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <a href="https://t.me/SBoxxx/19904" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">Ali SharifAzadeh – GeoMarkets - podcast 23</div>
-<div class="tg-footer">👁️ 3.88K · <a href="https://t.me/SBoxxx/19904" target="_blank">📅 14:36 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/SBoxxx/19904" target="_blank">📅 14:36 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19903">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">صد رحمت به جنگ (تحلیل ژئواکونومیک محاصره دریایی)  مجیدرضا حریری، رئیس اتاق بازرگانی ایران و چین، طی گفتگو با خبرآنلاین با تاکید بر ضرورت فوری پایان یافتن محاصره دریایی بنادر جنوبی ایران توسط سنتکام، گفته است: این محاصره باید پایان یابد؛ با مذاکره، خواهش، تهدید…</div>
-<div class="tg-footer">👁️ 3.96K · <a href="https://t.me/SBoxxx/19903" target="_blank">📅 14:20 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.98K · <a href="https://t.me/SBoxxx/19903" target="_blank">📅 14:20 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19902">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">آیا صادرات نفت ایران از مسیر ریلی می‌تواند جایگزین صادرات دریایی شود؟   در هفته‌های اخیر گزارش‌هایی منتشر شده مبنی بر اینکه ایران در حال بررسی استفاده از مسیرهای ریلی برای انتقال نفت خود به چین، به‌ویژه از طریق خاک افغانستان و آسیای مرکزی، است. این ایده در…</div>
-<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SBoxxx/19902" target="_blank">📅 14:19 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SBoxxx/19902" target="_blank">📅 14:19 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19901">
@@ -573,13 +573,13 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-text">#پادکست_GeoMarkets
 شماره — 23
 سه شنبه 11 آگوست 2026</div>
-<div class="tg-footer">👁️ 3.92K · <a href="https://t.me/SBoxxx/19901" target="_blank">📅 13:15 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.98K · <a href="https://t.me/SBoxxx/19901" target="_blank">📅 13:15 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19900">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">گزارشگر: گفتید این آخرین شانس ایران است. حالا چه؟  ترامپ: خواهید دید.</div>
-<div class="tg-footer">👁️ 4.16K · <a href="https://t.me/SBoxxx/19900" target="_blank">📅 11:58 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/SBoxxx/19900" target="_blank">📅 11:58 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19899">
@@ -587,20 +587,20 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lijRtFBOJkQq-jY0Law0l5AYlAJs-h4T-XaZdwhNTPUv_GEphd0KV5fuEa0qp4p0wGKpODEdAVXJluTyiWQWL8LKSutdGFVcLV2TPKaDGyEczPTawA8ZmyxhtCfJ5uOGa3WYtf6IibXD-24lh782mHvIZe1vz1H_fZapshishA2_2JW-4rRKz4ND4hhsUarw0iAv33rxhV8s7VmgGODd50oQoB6fwLCTVwVA5XuZfjtOb5jPCiBe3kTJnNuBfwjpAU7ilCmT0hqe6RKrdC1Ra6gA9ylx_v87xPzOXGlaKXJntPvK8fPOcU7CC0D9wOVeH4rjh8fcxSkhU2WKkPUEhA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 برای امروز شاخص ریسک ژئوپولیتیک در سطح میانه ای قرار دارد. در چنین شرایطی سیگنال قوی خرید یا فروش صادر نمی شود و بهترین راهبرد از دید من خرید در سطوح حمایتی پایین تر است.</div>
-<div class="tg-footer">👁️ 3.95K · <a href="https://t.me/SBoxxx/19899" target="_blank">📅 11:54 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4K · <a href="https://t.me/SBoxxx/19899" target="_blank">📅 11:54 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19898">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cDDR2m60NkIhEf5f2fLHjep6Ukiajs8NJYyZtgRAQxRhmQq50VezaHP8L2Ui5lJrn24AfvHnmWoa21NA4hV0x1KG69iZqauA6-v2NHo-Yq3dLPpEQ4n5OW68rtDHQ6COM3677ydYEIk4XEmsOYApxxR9uwHyMqyy6jgTmTc2N4YIGS5QGDSEipN0hLTKDWg_KT59Nm-Lc7O8YZAi--aPaMuSMYd2eKATP3YYnD5SvdCj-I80RDVCB_R-s2ifmSEp1G3i1Z5cWkMfnkr-N5Aq7Vp495UirRho3Itq5gL2y9k1HBXQ-PW1zQhagUaW2WnlctgSfRN2o1iXXxW6Ub33bg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ با برجسته کردن بیگانگی فرهنگی امثال این چپول عرب تبار با فرهنگ غربی غالب در آمریکا به دنبال کاهش امکان شکست جمهوریخواهان در انتخابات نوامبر است.</div>
-<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/SBoxxx/19898" target="_blank">📅 11:50 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/SBoxxx/19898" target="_blank">📅 11:50 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19897">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">انزوای روزافزون در جهان   کاهش اهمیت راهبردی خاورمیانه برای واشنگتن و برونسپاری مدیریت خاورمیانه به اعراب مسلمان  قدرت گیری روزافزون ترکیه و محور اخوانی  نیاز به حضور مستقیم در بازی کریدورها</div>
-<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/SBoxxx/19897" target="_blank">📅 11:14 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.13K · <a href="https://t.me/SBoxxx/19897" target="_blank">📅 11:14 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19895">
@@ -610,32 +610,32 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/aA3-u5tVDEmn7wjPJMhmCRY8DBwoqNMS1SAiTsF_GMfISrM-ALHDf_xwRtGfN38f7lZ6qou7dDeY_FtSAz7507imPE-8t7DbFzHh_Y0bP6wEZ3tezo8NTvyqK_LlCKbM3YzV7nce7LOsz6eA3h7RCLDFdnA8kxudifhdEGF4rBpaoGAe4nWVtvtTqJMpmiddLwqNyz884CnAH2qSYo-3ouJpuq31amDCidoftcYlDCLY6Yd4ETt73IpS5exByVdKLt7xMKyTt5VxFZbdS0QGjXszOsT3XF6TODcCJf-kjJyVQsL59XGWVJmGbohVG1JR59alL_5mrYtgF0aF4PQEuQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">طبق گزارش واشنگتن پست، دونالد ترامپ، رئیس‌جمهور، ماه گذشته پس از نشست ناتو، به دلیل تهدید ترور از سوی ایران، به صورت مخفیانه با یک هواپیمای C-32A نیروی هوایی ایالات متحده از آنکارا، ترکیه، خارج شد، در حالی که کاخ سفید به صورت عمومی اعلام می‌کرد که او با هواپیمای…</div>
-<div class="tg-footer">👁️ 4.18K · <a href="https://t.me/SBoxxx/19895" target="_blank">📅 11:04 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.24K · <a href="https://t.me/SBoxxx/19895" target="_blank">📅 11:04 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19894">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">انصارالله یک کشتی تجاری عربستان را در باب المندب زد و ۳ نفر کشته شدند.</div>
-<div class="tg-footer">👁️ 4.18K · <a href="https://t.me/SBoxxx/19894" target="_blank">📅 10:19 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/SBoxxx/19894" target="_blank">📅 10:19 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19893">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">فعلاً 2 کشور در خواهرمیانه با ائتلاف «مکه» مخالف هستند: ایران و اسرائیل</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/19893" target="_blank">📅 03:37 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/19893" target="_blank">📅 03:37 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19892">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">طبق گزارش واشنگتن پست، دونالد ترامپ، رئیس‌جمهور، ماه گذشته پس از نشست ناتو، به دلیل تهدید ترور از سوی ایران، به صورت مخفیانه با یک هواپیمای C-32A نیروی هوایی ایالات متحده از آنکارا، ترکیه، خارج شد، در حالی که کاخ سفید به صورت عمومی اعلام می‌کرد که او با هواپیمای…</div>
-<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/SBoxxx/19892" target="_blank">📅 02:48 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/SBoxxx/19892" target="_blank">📅 02:48 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19891">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jaqa-PhjFq-Ffy8No04TzDjdFH0QnzjrxNBiy4mYgN2s_miNOcj_hEEPbqoDUPAU68-Z4gqM8gignvnN6jQGlvSNIWV3eodpOg5W2vvQvDhTJA-5UlL6YmScgbZQ8Y9IhaaKb3ymQV0AdWEFre57bTa6CtcaABpRLRFcUx4BD8Ny-65t8pzEnghlK-V_156l0fICcm2iCwsxOASY6SnajEwZxcVn_OoDpGZ5Y9RqPwFrKRcNlu675CXkSD0sAZYPFzc1bzheo31-qFKKobQ7KH5S4mjIyQJjeD_Graw6NhTzDrKWLd-oTEPbLhVCl7oZReGfV6-cFlKdtsxYjKH_JA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گفته می‌شود ایران در جریان سفر ترامپ، رئیس‌جمهور آمریکا به ترکیه، تلاش کرده است او را ترور کند.  اطلاعات ارائه شده توسط یک منبع خارجی که به مقامات آمریکایی در مورد این توطئه ادعایی هشدار داده بود، باعث شد تا در آخرین لحظه، هواپیمای مورد استفاده رئیس‌جمهور…</div>
-<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SBoxxx/19891" target="_blank">📅 02:46 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/SBoxxx/19891" target="_blank">📅 02:46 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19890">
@@ -651,7 +651,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-text">از زمان آغاز جنگ ، ایران بیش از ۲۰۰۰ حمله هوایی، موشکی و پهپادی در سراسر خاورمیانه انجام داده و حداقل ۲۰ سایت مورد استفاده ارتش ایالات متحده در هشت کشور را آسیب رسانده است.
 این حملات تا ۱۳ میلیارد دلار خسارت به تجهیزات ایالات متحده و تأسیسات نظامی وارد کرده است.
 بیش از ۴۲ هواپیمای نظامی ایالات متحده نیز آسیب دیده یا نابود شده‌اند، از جمله چندین فروند که در پایگاه‌های هوایی پارک شده بودند.</div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/19889" target="_blank">📅 01:54 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/19889" target="_blank">📅 01:54 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19888">
@@ -665,19 +665,19 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 </div>
 <div class="tg-text">پرواز زمینی بچه های تیم New Castle !
 همه هم پنج سانت و ده سانت و …</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/19888" target="_blank">📅 01:37 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19888" target="_blank">📅 01:37 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19887">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">ترامپ درباره ایران:  آن‌ها می‌توانند دردسر درست کنند، اما ورشکسته هستند. پولی ندارند.  ایران کاملاً ورشکسته است. آن‌ها به سربازانشان حقوق نمی‌دهند.  تورم آن‌ها ۳۰۹ درصد است.</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/19887" target="_blank">📅 00:14 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/19887" target="_blank">📅 00:14 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19886">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">گزارشگر: گفتید این آخرین شانس ایران است. حالا چه؟  ترامپ: خواهید دید.</div>
-<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/19886" target="_blank">📅 23:09 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/19886" target="_blank">📅 23:09 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19885">
@@ -698,14 +698,14 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <a href="https://t.me/SBoxxx/19884" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">اسکات بسنت در مورد تنگه هرمز:  تنگه هرمز دیگر هرگز به وضع سابق خود باز نخواهد گشت، زیرا ایرانی‌ها از آن به عنوان یک گلوگاه استفاده کرده‌اند، یا تلاش کرده‌اند از آن به همین منظور استفاده کنند.  آنچه در 2 سال آینده شاهد خواهیم بود، این است که تنگه هرمز از اهمیت…</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/19884" target="_blank">📅 22:06 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/19884" target="_blank">📅 22:06 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19883">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WA3sQYaOcEcwXtXm5iFz3ftXjWYAIl9fp1rrBA45QHkzZ3wL0TtWXzvrQnvZ0Twt03uh7-E41odqQn-1M7GlikBuBH5wEuhEG4R5oBe-4uH41VWlTFPy3ogdng8WgOAi6E8FgnfjI6YkBlDN_jXT28aglJtyZImq2lLXdXgpnIPpVDQquWoIsL0MNm0TgKyCWWCDEneDqfMzCV908fu7iZXwj2J0zJ_5hrBU49Mbpug2MhI7TLPXRPhAaXPLd6wXp2ARTtbFX7f9NbdCG1ot_U9gHkodjp6BURoOYKtgAouOF89Cr-TVOomMaVmodgmEUvQvZcszqc8wJx7vVLZFbQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI  شاخص ریسک ژئوپولیتیک برای امروز در سطح پایینی است و لذا اصلاح های محتمل نزولی طلا خرید دارد.</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/19883" target="_blank">📅 21:12 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/19883" target="_blank">📅 21:12 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19882">
@@ -719,7 +719,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <a href="https://t.me/SBoxxx/19882" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">Ali SharifAzadeh – GeoMarkets - podcast 22</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/19882" target="_blank">📅 21:10 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/19882" target="_blank">📅 21:10 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19881">
@@ -807,13 +807,13 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-post" id="msg-19872">
 <div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">فعلاً 2 کشور در خواهرمیانه با ائتلاف «مکه» مخالف هستند: ایران و اسرائیل</div>
-<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/19872" target="_blank">📅 12:33 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/19872" target="_blank">📅 12:33 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19871">
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">مایک والتز، سفیر ایالات متحده در سازمان ملل:  "عربستان سعودی، ترکیه، پاکستان و احتمالاً مصر در حال تلاش برای تشکیل یک ائتلاف دفاعی برای مقابله با ایران هستند."</div>
-<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/19871" target="_blank">📅 12:32 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/19871" target="_blank">📅 12:32 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19870">
@@ -848,7 +848,7 @@ INS Drakon
 تحویل
 INS Drakon
 را می‌توان بخشی از راهبرد بلندمدت اسرائیل برای حفظ برتری کیفی در حوزه دریایی و تضمین آزادی عمل در یکی از حساس‌ترین مناطق ژئوپلیتیکی جهان دانست؛ منطقه‌ای که رقابت قدرت‌های منطقه‌ای در آن به‌طور فزاینده‌ای در حال افزایش است.</div>
-<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/SBoxxx/19870" target="_blank">📅 12:27 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/19870" target="_blank">📅 12:27 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19869">
@@ -869,7 +869,7 @@ INS Drakon
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Z_fHSXO1u-3ntf2ls9GMFYHuF7QvwZdawBkFktiFOPsXBEe-RiE_ZbbaeSh-vEq1hP8MZ3pGdRSMQ3kvcR3III_qDDxyrTqQslD19y1YbQ6ehSSCKEzIStwV_RzyLW3qAOzT2EVCfFahqspocjASG1waAnAL6VWnS2vziEh_KS6ogxDxj-tYoPEROggEFxsX3Dv_bt-tvN8UcnqID_ILoRE7SECtapEdN67LCRd4p9Ys8kHi8s4z3km8b7lzRw8jNJqLae9h8gwXnPM5QDLdlr3wIqVC7bCx1HNKRH9HwWg-ztlzhJpLOSCSMHaYnywfvZN0K-ZZ9xwAUtcOy7M89w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک برای امروز در سطح پایینی است و لذا اصلاح های محتمل نزولی طلا خرید دارد.</div>
-<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SBoxxx/19867" target="_blank">📅 11:51 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/19867" target="_blank">📅 11:51 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19866">
@@ -911,7 +911,7 @@ INS Drakon
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">ما فقر شرافتمندانه داریم پدرسگ!
 در ضمن علم بهتر است از ثروت!</div>
-<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/19861" target="_blank">📅 01:01 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SBoxxx/19861" target="_blank">📅 01:01 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19860">
@@ -925,7 +925,7 @@ INS Drakon
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H_bSpDgosrZ8EsKCEAY8CPJpoo0w2BFxi5uYwG72hWZqoDe-mLdXlOv8QLRVnIxWkTFdTAGxVJuf0U_1zoipWpyicZ10F8RknsJN6Uu8JgvTXMP65Dv5fFzf8Dh5gzJ-gJdiXPesvTkF3lX1IruZqPGhYASkOmYnJrJwkcwHkUShhUCBLcoFnF0pjgml6RNtx_EAmRc3_FLzQCZTxx2z0lOUx20VwLMOMy4tZZXfB9YKtXmdrx-U0IRpPY36AXKsEo3S6C0RJG4XYt9lF-orxkg7YpJUMJUnMKYN7e06IVkWXkpij5HVzu0MS3a3DwJdiVUkJh39KGp3p-8wL47chw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ درباره ایران:  ما فقط در حال مذاکره نیمه‌کاره با آن‌ها هستیم. ما صرفاً ایران را با تورم عظیم و واقعیت اینکه پولی ندارند، زیر نظر داریم.  منبع: آکسیوس</div>
-<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SBoxxx/19859" target="_blank">📅 00:36 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/SBoxxx/19859" target="_blank">📅 00:36 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19858">
@@ -968,10 +968,10 @@ INS Drakon
 <div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/b59886795a.mp4?token=Lg3e14yBe7oljkSrBeWMkPQ8RBFN-5q5Y6gMzYaILzzvKEEiayArvbbj-LhTg3Y2BYFLym5-KMQ792TKBYTzrQoD9PClHo6FA3dRv8vu2ZV31fkkbbK7-WR0i4pNLSx18cPFisqnD_NG2pCboz-d2Z4RRgV4JeaArIiL-SaiQgHzWL3h7I6z-pphWRu3b8tpz_QFboIuw-mh16S1dOk_umQQcmqPn41NaeTI2XZKyOO5mGfyTmaDOTclwBk3HMhBuGnORw-_gySRsNWPF2LLw8uNbN0E5iLpu65UpuNpo4EMI1nU20qpKhYCcTlztl_DbjNOFUUA4Xm0X6lzpdZd9Q" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/b59886795a.mp4?token=Zv4LODR_zcQLjQv7LCc05bEjO7XJmK_n3xLDGzijaEc1luHjD8AyQFUEgAuiSN4ImD9EdPaQNVib3JIu2afbNBm3Gi99zFQm1sAWFdLPgb5jZodVtI7MZuq6eBq1XsjmCDFP9GduK16-egYQvaknV-NO5tbGfWH5BZqUV9vUh8ClkGYxkMrcPJtEbvH5cldHWIzyiRreLgDt_xxTsfJ2TNvsZ4jyyDJnlTMf00pG-iVBnKvAsKjQV_L8exEcxxT1IeGSUFySd8BbXGdJG-anBbFxiMaOa6FSVUnMLpeY-9O9tD37OXbUnyIFzGopTqPXG2lnCsVp2mjVqjQs0xkMZg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/b59886795a.mp4?token=Lg3e14yBe7oljkSrBeWMkPQ8RBFN-5q5Y6gMzYaILzzvKEEiayArvbbj-LhTg3Y2BYFLym5-KMQ792TKBYTzrQoD9PClHo6FA3dRv8vu2ZV31fkkbbK7-WR0i4pNLSx18cPFisqnD_NG2pCboz-d2Z4RRgV4JeaArIiL-SaiQgHzWL3h7I6z-pphWRu3b8tpz_QFboIuw-mh16S1dOk_umQQcmqPn41NaeTI2XZKyOO5mGfyTmaDOTclwBk3HMhBuGnORw-_gySRsNWPF2LLw8uNbN0E5iLpu65UpuNpo4EMI1nU20qpKhYCcTlztl_DbjNOFUUA4Xm0X6lzpdZd9Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/b59886795a.mp4?token=Zv4LODR_zcQLjQv7LCc05bEjO7XJmK_n3xLDGzijaEc1luHjD8AyQFUEgAuiSN4ImD9EdPaQNVib3JIu2afbNBm3Gi99zFQm1sAWFdLPgb5jZodVtI7MZuq6eBq1XsjmCDFP9GduK16-egYQvaknV-NO5tbGfWH5BZqUV9vUh8ClkGYxkMrcPJtEbvH5cldHWIzyiRreLgDt_xxTsfJ2TNvsZ4jyyDJnlTMf00pG-iVBnKvAsKjQV_L8exEcxxT1IeGSUFySd8BbXGdJG-anBbFxiMaOa6FSVUnMLpeY-9O9tD37OXbUnyIFzGopTqPXG2lnCsVp2mjVqjQs0xkMZg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/19853" target="_blank">📅 21:25 · 18 Mordad 1405</a></div>
 </div>
@@ -980,14 +980,14 @@ INS Drakon
 <div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">🟤
 «محسن رضایی» نماینده رهبر معظم انقلاب در شورای عالی امنیت ملی شد.    شنیده‌ها حاکیست که آقای محسن رضایی به عنوان نماینده رهبر معظم انقلاب به ترکیب شورای عالی امنیت ملی کشورمان ملحق شده است. بر این اساس، هم‌اینک آقایان محسن رضایی و سعید جلیلی به عنوان نمایندگان…</div>
-<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SBoxxx/19852" target="_blank">📅 21:23 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/SBoxxx/19852" target="_blank">📅 21:23 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19850">
 <div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">🟤
 «محسن رضایی» نماینده رهبر معظم انقلاب در شورای عالی امنیت ملی شد.    شنیده‌ها حاکیست که آقای محسن رضایی به عنوان نماینده رهبر معظم انقلاب به ترکیب شورای عالی امنیت ملی کشورمان ملحق شده است. بر این اساس، هم‌اینک آقایان محسن رضایی و سعید جلیلی به عنوان نمایندگان…</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/19850" target="_blank">📅 21:19 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/19850" target="_blank">📅 21:19 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19849">
@@ -1005,10 +1005,10 @@ INS Drakon
 <div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/ac7c7abbdc.mp4?token=kjFYj0LSXf2PRV-9SMbvo_BRkID0YbSSpaiaKFT1qoHUh1MSPkV0fJIORPttmEsr_lJg-tS8fTYXBYvfZoYfISWrJeHg83_b7vfwDmryOiL8Dp5uDRzPQIkp33nky5woO4Mq5np1PnCTmaT1-B6drUaPJOGEFdzCqUay4nh-XPbMkvb3s4Oh50NKI9eYpkpYU9TfheCIm0laIEjDZZuVLqcCiQJxpA3d3LOo4or5SdAUyCJqSTlKALIQgRF22ZF4zgpNqy8vBeYIXrm8ENzYM3OticbH9amlyi9QBqj6BtGgCjAjPeXIm738zyzx7X5roiABMqqImN4bFzmd1nxKvA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/ac7c7abbdc.mp4?token=JDtgTgQjbXsOnQHpDY0YHjH9bTdFMmMb4VaNXzwXjEqZs0gZWphbax2RWJ4BPea1UslkAcpwWpoosoUfOJAewaNA0VgRx79hRWAeux3uBEAqsVq0qshT8XxCtzHSLVArg984Qs8D-8JlBuzJ_BtY7EWObuj4-JxJbsxjOi1X6yFPQgFI8mVN11pz6FDBksXmw0gnLeKaZvqBWabAjVYemLd3AWsvU6FdAU4TidQCSIOVs8igHwDt4Hr7oJ-CMDP9s7acZgBFIVPv9GoMjijmcbJQKn-LQqFL8SwVo2yKDBnuq8rrtlMYyYPvsOdZwq8r6mkmZ9vweIxNNZ4ll_CMzw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/ac7c7abbdc.mp4?token=kjFYj0LSXf2PRV-9SMbvo_BRkID0YbSSpaiaKFT1qoHUh1MSPkV0fJIORPttmEsr_lJg-tS8fTYXBYvfZoYfISWrJeHg83_b7vfwDmryOiL8Dp5uDRzPQIkp33nky5woO4Mq5np1PnCTmaT1-B6drUaPJOGEFdzCqUay4nh-XPbMkvb3s4Oh50NKI9eYpkpYU9TfheCIm0laIEjDZZuVLqcCiQJxpA3d3LOo4or5SdAUyCJqSTlKALIQgRF22ZF4zgpNqy8vBeYIXrm8ENzYM3OticbH9amlyi9QBqj6BtGgCjAjPeXIm738zyzx7X5roiABMqqImN4bFzmd1nxKvA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/ac7c7abbdc.mp4?token=JDtgTgQjbXsOnQHpDY0YHjH9bTdFMmMb4VaNXzwXjEqZs0gZWphbax2RWJ4BPea1UslkAcpwWpoosoUfOJAewaNA0VgRx79hRWAeux3uBEAqsVq0qshT8XxCtzHSLVArg984Qs8D-8JlBuzJ_BtY7EWObuj4-JxJbsxjOi1X6yFPQgFI8mVN11pz6FDBksXmw0gnLeKaZvqBWabAjVYemLd3AWsvU6FdAU4TidQCSIOVs8igHwDt4Hr7oJ-CMDP9s7acZgBFIVPv9GoMjijmcbJQKn-LQqFL8SwVo2yKDBnuq8rrtlMYyYPvsOdZwq8r6mkmZ9vweIxNNZ4ll_CMzw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">باز همین که ۲ سانت عسل هم داشته خیلی خوب بوده</div>
 <div class="tg-footer">👁️ 5.14K · <a href="https://t.me/SBoxxx/19848" target="_blank">📅 20:04 · 18 Mordad 1405</a></div>
@@ -1097,10 +1097,10 @@ INS Drakon
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e51206b9fc.mp4?token=c2g0UiFEH0iqcQLec4jWu2uYPA38CpedKUwx2LGSE3Tn1n83VKK57s60CCxpBYg_qFzyvDGcpn1-OXe7hZkdfkPQ2xFDaD0RTrUNF-qVDmQlq8tJkRUMYD8UHGO5US1OKXoA8x5JiEQhkplBFX1IUIDSltzX9-nOC4Kvu9XDw844NbO3w7Ru3SpNMBRosjZM-sTV-bms_u5YPdwjrovrV5aKGcodqdHSXQN4THAD2WW-2TSad5cdhBWkzu8OIH0WzGWtakNNbBbdSZ4fcBE2EFTVzHTnsbnhAQbj61xJ_b-auyiGNGtQb6DhFCXqqJE9SngynF-6TxLXr6mi1hIkKXxakS6NZWFplZ2SZlwJNLzNU0E8GlDImD46Vh1QH0eeWbSJzAdUtbsb3Q1h-QJXo-HcrkVH5QWTEK8bOZ18ankMCATqQ74nOsvpH3RbDKMywnsiu3cF5VVNqx9u2FiUEUp-0VMMMg1N67ZtQWROQxFZFzagGeFzy7u4k9S2NR6mIikvxSMBZqy23TwmTVbK8HgXWFPwdFxrbVgvRifSiQoAGHur1Pjz9Xy98ssgjTS3VHwwbGzFWty6wIQBiY8sQIIsFMrKHzUBGlhlVFjvvFIsHHq8OXoimEEe0IUgrpw8o6sv4JxgUh8Niew4eggM-h_Xzj6EWFjqutfifV4q4Xo" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/e51206b9fc.mp4?token=rba0I26_G6nw-mHxX-YfhOt70dNCBRK4ch_bCnZtoyRlnP6x95a4WwU7WKUVwT5uKuIQdbZQMPZPrr5buT4keKxJTMXMvUenc_4jezs1hDSDp4HNs95V4yyHR96-HzIN9C2Pk8UsnHErGLvWZSxiErL1NyWiK-HuorwrsbihF0KPKI0FcnRRZWDuXjmbEYkoknvZZkgmtGVYrzHjsB23LKKsqGvYf5Xl23Lkg2Sfhm5K60mRrOI2go6jt0da2Yqc2FBEuhan9Oxj-KSkiv-vGFbzkHRjVeWW-PwaGF9mhkc8VKXnDPpZsIfPqFPFm4dr-1o4GQPNeRJysHPQrCHg-AfUefT17lSLVgoPoCNvW-oTYgMvgIREk9xkgUYY4isoiJ4x9Sn2X4Ylh0P-bMR2HTDDlmBI2e-PkvRzeUt9k49PYCVqCHEP6wCCxF_h1bqNXW-geeWe4tjIJ-_3DoUkQvSIzghOx3WW0xepO4azHSYqZox0r5OifTE5tf2xpXReYYEY1MPOWEaalvzkTkRDfsqbobw-Pw-pl8NUYPyhGRg2_d43a2Uy7GkqgziTvOTZ6L6AA-6UyBghMwPD0t0sQz_PPdEOY068ukTtcQJLgrgfjGOO1HEiEIK_vBffHuyG0N-A9nl4JEzACMts1kxK0cAGjDlBj_k31o0qVNiTBXc" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/e51206b9fc.mp4?token=c2g0UiFEH0iqcQLec4jWu2uYPA38CpedKUwx2LGSE3Tn1n83VKK57s60CCxpBYg_qFzyvDGcpn1-OXe7hZkdfkPQ2xFDaD0RTrUNF-qVDmQlq8tJkRUMYD8UHGO5US1OKXoA8x5JiEQhkplBFX1IUIDSltzX9-nOC4Kvu9XDw844NbO3w7Ru3SpNMBRosjZM-sTV-bms_u5YPdwjrovrV5aKGcodqdHSXQN4THAD2WW-2TSad5cdhBWkzu8OIH0WzGWtakNNbBbdSZ4fcBE2EFTVzHTnsbnhAQbj61xJ_b-auyiGNGtQb6DhFCXqqJE9SngynF-6TxLXr6mi1hIkKXxakS6NZWFplZ2SZlwJNLzNU0E8GlDImD46Vh1QH0eeWbSJzAdUtbsb3Q1h-QJXo-HcrkVH5QWTEK8bOZ18ankMCATqQ74nOsvpH3RbDKMywnsiu3cF5VVNqx9u2FiUEUp-0VMMMg1N67ZtQWROQxFZFzagGeFzy7u4k9S2NR6mIikvxSMBZqy23TwmTVbK8HgXWFPwdFxrbVgvRifSiQoAGHur1Pjz9Xy98ssgjTS3VHwwbGzFWty6wIQBiY8sQIIsFMrKHzUBGlhlVFjvvFIsHHq8OXoimEEe0IUgrpw8o6sv4JxgUh8Niew4eggM-h_Xzj6EWFjqutfifV4q4Xo" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/e51206b9fc.mp4?token=rba0I26_G6nw-mHxX-YfhOt70dNCBRK4ch_bCnZtoyRlnP6x95a4WwU7WKUVwT5uKuIQdbZQMPZPrr5buT4keKxJTMXMvUenc_4jezs1hDSDp4HNs95V4yyHR96-HzIN9C2Pk8UsnHErGLvWZSxiErL1NyWiK-HuorwrsbihF0KPKI0FcnRRZWDuXjmbEYkoknvZZkgmtGVYrzHjsB23LKKsqGvYf5Xl23Lkg2Sfhm5K60mRrOI2go6jt0da2Yqc2FBEuhan9Oxj-KSkiv-vGFbzkHRjVeWW-PwaGF9mhkc8VKXnDPpZsIfPqFPFm4dr-1o4GQPNeRJysHPQrCHg-AfUefT17lSLVgoPoCNvW-oTYgMvgIREk9xkgUYY4isoiJ4x9Sn2X4Ylh0P-bMR2HTDDlmBI2e-PkvRzeUt9k49PYCVqCHEP6wCCxF_h1bqNXW-geeWe4tjIJ-_3DoUkQvSIzghOx3WW0xepO4azHSYqZox0r5OifTE5tf2xpXReYYEY1MPOWEaalvzkTkRDfsqbobw-Pw-pl8NUYPyhGRg2_d43a2Uy7GkqgziTvOTZ6L6AA-6UyBghMwPD0t0sQz_PPdEOY068ukTtcQJLgrgfjGOO1HEiEIK_vBffHuyG0N-A9nl4JEzACMts1kxK0cAGjDlBj_k31o0qVNiTBXc" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مرکز مطالعات سیاسی وزارت خارجه!</div>
 <div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/19836" target="_blank">📅 14:02 · 18 Mordad 1405</a></div>

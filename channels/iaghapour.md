@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 08:54:13</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 10:20:44</div>
 <hr>
 
 <div class="tg-post" id="msg-2870">
@@ -328,7 +328,7 @@
 ❤️
 کانال رضایت
 @AIPrime_Csat</div>
-<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/iaghapour/2870" target="_blank">📅 22:55 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/iaghapour/2870" target="_blank">📅 22:55 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2869">
@@ -356,7 +356,7 @@
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.4K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.58K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2868">
@@ -389,7 +389,7 @@ Xray-core
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.56K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2867">
@@ -418,7 +418,7 @@ YouTube</div>
 خرید و ثبت سفارش از طریق ربات:
 🤖
 @prem_store_bot</div>
-<div class="tg-footer">👁️ 9.96K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -483,7 +483,7 @@ Remnawave
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2863">
@@ -551,7 +551,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2860">
@@ -580,7 +580,7 @@ Relay
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2859">
@@ -628,7 +628,7 @@ YouTube</div>
 آدرس سایت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2856">
@@ -653,7 +653,7 @@ YouTube</div>
 👇
 🆔
 @techno_clan</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2854">
@@ -758,7 +758,7 @@ YouTube</div>
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/iaghapour/2849" target="_blank">📅 18:37 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/iaghapour/2849" target="_blank">📅 18:37 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2848">
@@ -1955,7 +1955,7 @@ UAC SNI Spoofer
 هدف ما از انتشار آموزش‌ها در این کانال دقیقاً همین است که یاد بگیرید خودتان به سادگی و به صورت کاملاً رایگان این ابزارها را راه‌اندازی کنید. هیچ دلیلی وجود نداره که بابت یک کد رایگانِ کلودفلر به کسی هزینه پرداخت کنید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/iaghapour/2771" target="_blank">📅 15:34 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/iaghapour/2771" target="_blank">📅 15:34 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2769">
