@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 13:06:38</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 14:22:24</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -306,7 +306,7 @@
 اگه اعداد مختلط نون شد اومد سر سفره، یا ماشینتو عوض کردی یا خونتو یا دارایی هات رو یا زندگیت با کیفیت تر شد، قطعا مسیرت درسته.
 حالا به جای این ریاضیات، هرچیزی بذار. از الگوریتم های گوگل تا مستندات و نحوه کارکرد مدل Fable کلاد تا... .
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.51K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-883">
@@ -355,7 +355,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 
 <div class="tg-post" id="msg-881">
 <div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a54kC3x9nqnfIHCl7oB55VUo325qhLw5Wrz6BdKvRea78ebZU3SukpD4Fm7RVAbxPr8OsgF3IAc7SPF2pE0o2SyyTm1Zy9sUiLZg-hSAnp12hVwK0DTjODap2XUzjsVcZsAoDr9fV-gfbEZfKh9DVKOzZPS2-IB_moo4OETxFfgpaxYYtnwpoUG8H9kyZckcRROxXijsvshQr-T2oaDkHfn1r7_UlyFdnDQ-0ZBrovLJjdzrvpYByd35ZmDYTwMtjwQkijmcCWWQsFj3DjJLBZH_uOFv--Rg1giUm5PXQJ7kpMhz4B9cYncnXd4RP1r7yfEsa0Ej6ANQGiorA4MC6Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/S0DMYP58GOA8961x1276IlxKW0Xxw7DxyKqvNAUAfqylKbhYECtcat8Dhej4AwgjYs7Lie_Aj_ngTpg9FoUUaaCJ8g3N4cyFN_lpLLFoNYP-b7vTsyOfJ2VZDcJWSNcFyJrFHBM37mNW5aaSwVrUrwothgtRJCtFbbT04lc6wa6bxLaegr6oTPhHToLB5iNctTXw-rn49D6VEfe6LPETQ3ultSdumxINwKGgDIX4kV9zfynJquXKU8UXev17HS6pReczx4-hEpk7Wx4uutlv1AoY2BAOPgmq2Ogvxo1TzfEGrW4A_6WCm8NzWRaU9sDinIJXqPDhCu_wwaNWUFue2A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این یکی از ساده ترین هنرکاری های کلاد هست! از منوی رفلکت، بهتون عملکرد خودتونو میگه و واقعا بازخورد های جذابی میده! در اپدیت پیش روی دوره، تمام کسانی که دوره رو دارند، سئو بین المللی با کلاد رو به خشن ترین حالت ممکن یاد می گیرند
 😎
 .
@@ -457,7 +457,7 @@ Claude Cowork
 این رو برای مخاطبین خودم پرمیوم هستند نگفتم. چون شما همه چیز رو با دید تجاری پخته نگاه می کنید و نمیگید اااا چرا گرون شد چرا نیست. میفهمید پشت قضیه چطور هست.
 برای کسانی گفتم که دید تجاری قوی ندارند.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.66K · <a href="https://t.me/mohsentavoosiseo/873" target="_blank">📅 12:52 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.67K · <a href="https://t.me/mohsentavoosiseo/873" target="_blank">📅 12:52 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-872">
@@ -508,7 +508,7 @@ Claude Cowork
 <div class="tg-post" id="msg-869">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 3.22K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.23K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-868">

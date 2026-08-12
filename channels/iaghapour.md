@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 13:06:38</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 14:22:24</div>
 <hr>
 
 <div class="tg-post" id="msg-2870">
@@ -328,7 +328,7 @@
 ❤️
 کانال رضایت
 @AIPrime_Csat</div>
-<div class="tg-footer">👁️ 6.31K · <a href="https://t.me/iaghapour/2870" target="_blank">📅 22:55 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.54K · <a href="https://t.me/iaghapour/2870" target="_blank">📅 22:55 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2869">
@@ -358,7 +358,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.96K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.12K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2868">
@@ -391,7 +391,7 @@ Xray-core
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.96K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.09K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2867">
@@ -420,7 +420,7 @@ YouTube</div>
 خرید و ثبت سفارش از طریق ربات:
 🤖
 @prem_store_bot</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -582,7 +582,7 @@ Relay
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2859">
@@ -826,7 +826,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2845">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FlG5aULSg87hVJXWv_0aEYqe5N5UysW5CAuvDw4Ko9k0jaHpWMR8wXd_iE2EvAc278UcvrblYXyfZdjzx9l9UXtTgOThMtLEsWVseV1-3tqJMKHjrQqo7jUmslLOCl6HDYRisTds8ha8ccWnZihevPTZBM0WLKq2SroDlb2LmPi_pk4U_3dxyej_V2jWdBSLCRtTR-l5MASJa2EviOwIeSQbCeI7ffMRrPYQLfatPrjRMFWJ2CUcUInnFUS2loefFAae9yy0nHywvf402-LjGrveZOFhMbB1GJau7P6C4tWBFbxKqWQtKtJ3mF8oRoHcN9hFtYV1pKSr1E4G33Q6Eg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QIvOg4XHDVPg1BrErYzUmHuvBcH6lNZ7mumsNj_lOzqa2DiCb8MBjVb8-CduIMobUzIj9kckRXUfA2mUkj6b7ROXKNvwImq9LX4AWxuZKUWKLzxlSE7c2NopabfWkFrSEF9U2q4iYUQZn6y3q_PNn21USUqxtGwtbI_mbqD83Y1DXW2V-ApG_KwddqooGjYxFghJCMphmUhBTD072uxytzJXCP6dG8VG9Msvn2IFpeaT0LdyevV2eNXOMcjVkjWM0FLYbJIIuqBAQyE4JzqRocklZrHDLcehHsQHL1ouIu9b1fK-CInpSmXv9olNIuIc4eBNLncXV_dpVCRNtcaJqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 توضیحات ایرانسل درباره نحوه کسر حجم بسته‌ها و ضرایب مصرفی
 ایرانسل با انتشار اطلاعیه‌ای، در پاسخ به ابهامات مطرح‌شده در شبکه‌های اجتماعی اعلام کرد که کسر حجم از بسته‌ها دقیقاً طبق مصوبه‌های سازمان تنظیم مقررات (رگولاتوری) انجام می‌شود.
@@ -941,7 +941,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2838">
 <div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y0o4ceaXkknu3NwZay1qjSM7tiSPzWgIwTjxDrTtaunk48BaeghDa3IXj9QlBtUk-yvCxgFkUq0X8GoPRRmPFby1Mgw--aSioi_Rc_sFhPprdiRgFsUcBGBcVYo_TlLG-7B0zPqm2ogagPDDnoL8w0dgU5YPGaqXph_ka3mwgzMAAVuEiYc2wFjVpNtegnXOc84KO4D3HIdcleU3F5jqkYmhbLAc2dK5YHo89NHTGL05-cR2zK8LBRaYVZ6g8W-j5zkPuyPkanigrTlj1mFzlI0g7P4P64tz1zPd3erHdWtPNO7P94puxN6TdW1nNjknrm330GE4EH5NnHhN8bZ-dQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ThXnJULcX_qRIeIGnbszrwsFI3GQqGFTRCRUEuvGTdzzdzz8dSNUJua-0oNrvDEDitSHn29jRr0F2WVUcAM_19qjviu1MiZrCJaGzvF6rFaXOEFQE0D4xQ6fYU17heQk9eadPgcwdbiHfyls9HNFasIWGd_57_UQF2jStsdyDUoJCeX99UiaxjaKW-F5Jf26tMf15dy4HtPCgClkse2MHGn6ASxllGMHznABp5-PlzAXRunRnlDk0Iaqj9W9JVUAOBWa9XSUOZOBpw5ht-pyk4lKpx7IFAdImybZLqT7Gtdoe6jZ0liV5iiZ10vZpgyDh0_L4JfVPKdzjCbirRTm3g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی کلاینت جدید Disruptor Proxy بر پایه Xray
 یک کلاینت پروکسی جدید و بسیار سبک است که برای سیستم‌عامل‌های مختلف توسعه یافته، اما
@@ -1068,7 +1068,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 filterbaan
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/iaghapour/2831" target="_blank">📅 14:17 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/iaghapour/2831" target="_blank">📅 14:17 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2829">
@@ -1134,7 +1134,7 @@ KelpDAO
 کارشناسان از احتمال رشد حملات تزریق دستور (Prompt Injection) به ایجنت‌های هوش مصنوعی خبر می‌دهند که نمونه اولیه آن هک ۲۱۶ هزار دلاری پروژه بنکر بود.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2826">
@@ -1166,7 +1166,7 @@ KelpDAO
 
 <div class="tg-post" id="msg-2825">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EClmrBA9p-rvqaxnqC7LxLeSa-syeDWbHJDQ5fcDqxFeUDGoRVWZvaIZ0Lc4XLVeXeotpI1hB801ERAhbzjRTGD9M8lMgVzh6dqCugUHSIDwZg1HuxnC_M_e-YqMY2_22WZSyyChSz9wPGg3IVcHsOAhlg-wGH-_5v5MDgVEyeW8TF49CeKZrZ3OGKlTx1zpyNbTPvpl_Rz7cfVLkxWkDJV3iW9eDPcx-ikD7zZVIuqV2bBms5zsCxKukkSQTi9IzWlplDOEd5JAD5VY-gazq_OyR6XO8RaeV7REvhGMN53x7xdZIlDfyuKvFHDL-N_0TsNMNmAP7z4aHBI-xfR4WQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gM98acK-7v6yBXDGBOFYDjsT7tAQgnr_MSDYdxFxgAGC9n9JjS9gjeAbiiRin6DkEynSqxmXeRsL8J883C7BEmKwfU6pv0cLIrPqB5AZFWoE8p-qv8fc2oja3WdBiopWvxp0gffij9Z83YMdQ0-rb6VXLeJQfcjgTL9W8-z_3eeArzr2LMcc8YtnrlXEjMewGL6UxRt0_CF07dF8lHLKOlxJOY-Cn9IWkuHAhkQ94hUyLoYAKtGhNSLTdAZqXnvK-EIt2g25fRaUnWMTd_tSbztzcsQommBRqbEWRNZt268a-lRrKhAJscM0ivwB2Jo6pZkJSrWWND1fkRwz9rz1BQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 سرویس امنیت روسیه: پاول دورف تحت تعقیب بین‌المللی قرار گرفت
 سرویس امنیت فدرال روسیه (FSB) «پاول دورف»، مدیرعامل تلگرام را به اتهام
@@ -1241,7 +1241,7 @@ KelpDAO
 آسیب‌های ناشی از ابزارهای دور زدن فیلترینگ نشان می‌دهد که حوزه تامین امنیت سایبری نیازمند نگاهی جدید و بازنگری در شرایط پایدارتر است./زومجی
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/iaghapour/2820" target="_blank">📅 20:52 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/iaghapour/2820" target="_blank">📅 20:52 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2819">
@@ -1373,7 +1373,7 @@ Claude Opus 5
 آقای حمزه حوتی عزیز، مبارکتون باشه!
 ✨
 آقا حمزه لطفا برای دریافت جایزه‌تون و هماهنگی‌های لازم، از طریق…</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2809">
@@ -2250,7 +2250,7 @@ Nova.app
 توسعه‌دهنده پروژه نووا خبر داده که کدهای این پنل رو دوباره بازنویسی کرده و تو آپدیت جدید، مشکل ارورهای مختلف (مثل همون ارور رو اعصاب 1101) کلاً برطرف شده.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/iaghapour/2748" target="_blank">📅 20:02 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/iaghapour/2748" target="_blank">📅 20:02 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2747">
