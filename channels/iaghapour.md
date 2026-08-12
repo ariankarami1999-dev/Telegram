@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 10:20:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 11:39:10</div>
 <hr>
 
 <div class="tg-post" id="msg-2870">
@@ -328,7 +328,7 @@
 ❤️
 کانال رضایت
 @AIPrime_Csat</div>
-<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/iaghapour/2870" target="_blank">📅 22:55 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.95K · <a href="https://t.me/iaghapour/2870" target="_blank">📅 22:55 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2869">
@@ -356,7 +356,7 @@
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.58K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2868">
@@ -389,7 +389,7 @@ Xray-core
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.82K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2867">
@@ -418,7 +418,7 @@ YouTube</div>
 خرید و ثبت سفارش از طریق ربات:
 🤖
 @prem_store_bot</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -447,7 +447,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2865">
@@ -513,7 +513,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2862">
@@ -653,7 +653,7 @@ YouTube</div>
 👇
 🆔
 @techno_clan</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2854">
@@ -731,7 +731,7 @@ Adobe
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2849">
@@ -787,7 +787,7 @@ EA
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/iaghapour/2848" target="_blank">📅 14:17 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/iaghapour/2848" target="_blank">📅 14:17 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2846">
@@ -904,7 +904,7 @@ ToRouter
 مخزن پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/iaghapour/2842" target="_blank">📅 16:40 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/iaghapour/2842" target="_blank">📅 16:40 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2840">
@@ -1094,7 +1094,7 @@ filterbaan
 Aliasghar Honarmand
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/iaghapour/2829" target="_blank">📅 21:50 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/iaghapour/2829" target="_blank">📅 21:50 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2828">
@@ -1722,7 +1722,7 @@ LangOver
 لینک سایت و دریافت برنامه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2786">
@@ -1788,7 +1788,7 @@ LangOver
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2783">
