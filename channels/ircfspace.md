@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 18:56:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 19:54:24</div>
 <hr>
 
 <div class="tg-post" id="msg-2553">
@@ -315,7 +315,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -331,7 +331,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2550">
@@ -347,7 +347,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2549">
@@ -362,7 +362,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2548">
@@ -377,7 +377,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2547">
@@ -391,12 +391,12 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2546">
 <div class="tg-post-header">📌 پیام #94</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XVA8vaYF-E0aCrET5mKHFk0d6KZSfH5Cy_xJ3Hh7FzYt9OJ9MuMkZVZ-5gJYx5bHNbRkewbh4Sfd69wfJ_AcYIUiFLDLs8hTgTo8wqnxCmt5iLI5yytiKeDKkfjEK6HGL7z5KM63BQTZd-V6SE7L2zV_x-v6qFEvMMRK9oN0rqmnobSqvZQEfPckoysZYQsaHA-MY9IBXn9b6AF6Yg7EVEe86xLrLkrR6PUxyiW8APUZlhag4sX2KWx8LtJGP79hy7Ac-BTOJCMeGV6h1fHN_G-he08ym25DQVnxFXMlE07UHXQHWz1hOzbP3Kd0snGW56ENCAZDln-xr-f9wWoslg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iU4f8tl-uAg1LP9JjcnJ8fYdXMIiAQlQbO1-JHLSIFgSlA-UgLcDhJ_fyu1dQzUoOb4oKFAP96sZf2dyp_JOzcrgZ8CGs_XjqHJrSX0mmgYdZ1H9y61uiSZ21bRyznpo_oaHws9suebILhJQREfIGTk8ZWbppbiFrg3nUlGJdG9L5JpDW62nvsqSXiZWk3ZLC4KqhVMn1l6R-_6IYCvcoFmQfAQi4ZMq7foyi4I5Hvr_JbjGRTaryS-rPOIwnsxu8ve5e33oQ5-LWVjQDzRNdBsJLGM9KMpU0BeXhNwPfyg7eLRB3TIHzjjbX5snp0zb_WD22S9AwD_Jv_pC44xt-w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">متاسفانه عده‌ای از عناصر فرصت‌طلب سودجو عنوان می‌کنن اینترنت قوی و زیبای ما گران شده است. برای شفاف سازی میگم بسته‌ای که شش ماه پیش خریدم 1,348,000 تومان، الان شده 3,870,000 تومان. قیمت فقط ۳ برابر شده، گران نشده.
 بنده هم با ارائه سند میگم اینترنت گران نشده، فقط ۳ برابر شده!
 ©
@@ -408,7 +408,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
@@ -423,7 +423,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -438,7 +438,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.4K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2543">
@@ -451,7 +451,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2542">
@@ -467,7 +467,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 44.8K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
@@ -497,7 +497,7 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/ircfspace/2540" target="_blank">📅 17:19 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2539">
@@ -577,7 +577,7 @@ AmirMahdi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/ircfspace/2535" target="_blank">📅 20:03 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/ircfspace/2535" target="_blank">📅 20:03 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2534">
@@ -667,7 +667,7 @@ Taha
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/ircfspace/2530" target="_blank">📅 19:24 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/ircfspace/2530" target="_blank">📅 19:24 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2529">
@@ -1245,7 +1245,7 @@ PingChannel
 
 <div class="tg-post" id="msg-2493">
 <div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SpDbHbg_wfwwrRW0nICWMdeE0_mIEBXkLWjw5yvru9i7SWTLrDSvDLy9MO_xrWXgYBCwmrMjliytGiu_itLHhzv7yrFu2sn7hR_1qJj7COIHIoGBFZUBxmwt7cC_AxGgbr0UzUKFKDvrh0pGfBYE2FEwG1UpXRW2sKKHtuvuvPdWTuDboDVYIwZxP42cf9HCjGwnVfikVluNxbwliSZod3uBalfG4FNfuC3Zf-8HOCC2qhf1tAMiiZIfbzBnDYTOF26YlAc4lJM64h8v75upk855h1joKM5nvrq5alQ6Hk1Yxkv5JbewSTu_lh_QPm7d2qg3rxjHLUngj9H8_fu63w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AoaEfVBj7KFCUtD1nhfmgyda9OQA8bSWCh9fvRm_mbigosI5IkxKBILqtoN0h4nv8H1Q3hxbvvQv46mNjb9JEzqLNw6LOb7BRg0vhTCJtGm6s_Dy0aIR0stnAADKbWESdfu_FgCAVpmuSsfiCIpU67ozKthzivXwJFMVZ7MuI_sK3C9bM8-KjJC8h28zpceBF70SNLTwLnH0ZHW9mdgLlCtOJlktPqVejdABlFyvhVoXuG4l7SYtgO9FT8NiDydGHR_NGh9bc7slz5Hs9frmt95eaRkSm5h_OrPsVrQF1oqHIPvdDFvllHSMxpMOa6I_84_A4-E9FLwy1Rsue8jOGg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پروژه Aether یک ابزار متن‌باز و رایگان برای دسترسی به اینترنت آزاد و عبور از محدودیت‌های شبکه هست، که با تمرکز روی سرعت، پایداری و مقاومت در برابر فیلترینگ توسعه داده شده. این پروژه با ترکیب وایرگارد، MASQUE و WARP-in-WARP، ترافیک رو تا حد زیادی شبیه ارتباطات عادی نشون میده و به همین دلیل روی شبکه‌هایی که از DPI و روش‌های پیشرفته فیلترینگ استفاده می‌کنن میتونه عملکرد خوبی داشته باشه.
 یکی از قابلیت‌های کاربردی Aether اینه که خودش بصورت خودکار اندپوینت‌های تمیز رو اسکن و بهترین گزینه رو انتخاب می‌کنه؛ بنابراین نیازی نیست که تنظیمات رو بصورت دستی انجام بدین. بطور پیشفرض هم از HTTP/3 استفاده می‌کنه، اما اگر شبکه‌ای QUIC یا HTTP/3 رو محدود کرده باشن، میتونه اون رو روی HTTP/2 قرار بده تا سازگاری بیشتری داشته باشه.
 این پروژه روی ویندوز، لینوکس، مک و اندروید (از طریق Termux) قابل استفاده هست و توسعه‌دهنده‌ش اعلام کرده که بزودی قصد داره هسته Aether رو با زدن Pull Request در فیلترشکن‌های ابلیویون و دیفیکس ادغام کنه.
@@ -1506,7 +1506,7 @@ github.com/Jigsaw-Code/Intra
 
 <div class="tg-post" id="msg-2477">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Pix178pDKbgY_1yeYxPi0fVtfbFUeLAV8lOUjtm3-f04qAF4Ju-v2hek6zmucqmbF37c6S8ryyehQ5BhaEdwwurKMDcj_LmURC_L0rg_HGSGdJP520QTODMcTxcMwsSOacDliZw4cM-xk2yDk8yIiXgb3sgRXQTITFBK4LLZf8DrqubYq8v1YZ0J9Nyk4NO-rIkopt8lBsOUKv8fYiJmZkKxkG1YgNGC_hUTpi32bW50HwvmMjy2r8d9McCrJ5i3Edlan8lFKTDvYoAAS_qbMyiqJ86-SQJGe-zNGz9x8Sm_IutdWvoz9ouvMoqriRZ-P4vUt4IEHFl6ou9XSGNwgg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/P6XD1IYwcMYRlkENxg9NffElfbXH4vh9VhddNjBwNT9JTCfmnNdi53hJ6QqCw1DRfuoduxottqzyQHUW3pZXTAXQ2g67PubK13JTzX0HSfqxk5wAIEJigsLyPcx2t7cMhj7eqpR69XtCwbjvMGdx_DhvXVFTHJhzM_XHkP8pfNVnNcWhEiXMOR4_0BzM7oKJuw9kZNHf7d2Z94-1cHBSinba8zOTN5cPYjCpyDqLkhk_EbioJLCihHvNpR-rGCIM3Xm8jCAzNv6CjrROaK0DjStu7ZmX9aiWQpdF7O0Lwr7r1-az2PeoE4j3AKzOupgl3wTbe8fV4hTqPS1llpt6qQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محققان Datadog میگن مهاجمان با استفاده از بیش از ۵۰ حساب قدیمی و غیرفعال گیت‌هاب و توکن‌های دسترسی (PAT) افشاشده، از طریق API گیت‌هاب در حال جمع‌آوری اطلاعات سازمان‌ها هستن تا برای حملات بعدی آماده بشن و ساختار داخلی، اعضا و ریپازیتوری‌های اونهارو شناسایی کنن.
 توی بعضی موارد هم تونستن ریپازیتوری‌های خصوصی رو کلون کنن. به گفته Datadog، چون این کارها با حساب‌های واقعی و API رسمی گیت‌هاب انجام میشه، تشخیصش از فعالیت عادی توسعه‌دهنده‌ها کار راحتی نیست.
 ©
@@ -1523,7 +1523,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2476">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/G684tepfiQmcz1ovkt28NoSyEU4Jzo0BD-UFuHgkibDxLGgxdp1hrwObj8nvmzWQi_4_M6RRou_qguDqgfDgOHC9j886OnxID22A1wKoTcWqR6894wppeX3kBGFLTb36ndfxMAWMDCeEZLmGltNRi0iLFBPyf3RGb2n4na7YzCLx0PtLLtpdehzUcqPe7QbytpeK8CQV79jS-VaGEsKegQcAjrUHsHYPALPrWnM5nUk6_IuxCgzqOkqCZx57BzkDIU47WjRAL8SWrKwIAAiHBZWcM94RPdy-ldjctHyTk6aMdR3oF_34Jzo8dKNTXpAUIdQhIHKHjIyO6N9Tu5HfFQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jS7T7uaxIxYs4-zIyF8YxGWL9ZOvxpn6b5eD9WZA6vkk2ZtyRfU26ql05ht9huADpJMt6EbOPcYfkq8J_K-x053C1VqJArbqLJbSTrQWR4iy3qMghhYkreU6sK2x0XyLYVpEy1bvKJf2TYeMvu1dp9ERqgCDLdU3K2_uqkgQhXS13wYmGzdqJkAvacyQ8qKaN9ZQuW12urZ1kT32yFi1wg22pJ9rnaFJxqfkHpfM0Un6q5FDFYUEqn6UDdwasf1tOlSoFUvh2HJE38N54jxUpqrsGvu9Xz_8q6qQ2BGaGhAN0mP7yA2ybM2bGI_fzsR5b055HSAI47ce4tLWifckLg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که "کدوم مدل هوش مصنوعی خطرناک‌تره"، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.
 به گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس
 🔗
