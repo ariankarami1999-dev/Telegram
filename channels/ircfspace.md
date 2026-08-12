@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 04:40:03</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 07:03:24</div>
 <hr>
 
 <div class="tg-post" id="msg-2546">
@@ -309,7 +309,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
@@ -324,7 +324,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -383,7 +383,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.7K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2540">
@@ -901,7 +901,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 
 <div class="tg-post" id="msg-2509">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/um_PH9vrmnGcJjZGDzIkZOJtpquLtO_Nwh8y976HumV60EsaI2iCmaynPYkpQpODrzDpDKy480ZFsrSVo8UyEihAUQzwInefjHkjQ-yzWwMJESErG69OJVZM0ets59xTwwNWmc-sPCSp5EUfANAmkXAJx9U31DVLt1tM68L56IVN2BTlS0wwIQMsgK0NvDIs2n1a2MekFhODsP2SC5cnc7J7Ypj8CSogKcIwL0iPIxdSewgdFEUefWngvK_w4V-jIP-ePeDe1jbDJf00KwacwlttGSIMR5WusLHqGF42dWZhASzMNKomFp3-D0t1vwTTVv9lVG1tIm8JlJR66ymjRw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PeZacs0wzlxMLJ1dnSGjQzNILd-zOBKw4ZmwO9ztAOVloKLGrNkuQ59jgAcefKFv-xabLYkNAub3JM2QtKw-I73G3fAPKZHWPqs4g2_wBdXes1TN7fq42VzSNhIyn_XfUd4ewBBjJqKdemmsLysxZrRIvVpxn4UKcyhilafSKgtRr939IYvybSknEEZ3wKyzfGcXafms9rdwOSxN9-qdT3YRQdznPgMEQdzK3Qd1PQPDID_3Bu9vr_rVElZ6aFobeSYIcohIzY4IqqJL4ieVRykC4f1S2CABne3lvXpLQNftBMkoRVoJX9bSjtcXw1F33dtgm97lZOQUWhsqvWd_9A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سایت فوتبال ۳۶۰ عادل فردوسی‌پور توسط قوه عاقله فیلتر و دیشب چند دقیقه قبل از شروع برنامه زنده از دسترس خارج شد.
 هنوز علتش بطور رسمی اعلام نشده، اما این اتفاق پس از درخواست سرمربی پرافتخار(!) تیم فوتبال جمهوری اسلامی برای برخورد با این برنامه و یک روز پس از جوابیه به امیر قلعه‌نویی صورت گرفته!
 🔗
