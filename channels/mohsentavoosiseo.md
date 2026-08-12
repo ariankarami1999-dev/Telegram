@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 14:22:24</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 15:09:19</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -440,7 +440,7 @@ Claude Cowork
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RwVk-WWHMcQAnaEzhrPt-5NntqMsUWuArBZ2hMRvZ8lVWTUSA6dOdxls6egAdBd_ppTKh966JEniDlejSJnIl22H4k-Xu4pXWZaxmqF_BjcbT_GM2m5thSEe9B8fk4MEbtoRWo3cEuzP8w0HNClErieWpbkHpPLKgpwqpMznoPXKaT_wlMp6aECzsmABRHZJbd5yLY3J1W7igzEKOdQX_WOoFVTv6id4QC1VSJ6YmeVmKrlynoq2h8xjVcbSpIXai7etwsXufT8dHXrbEzpha2-kP4ywURhriFNkVF8SHxr4CP-4-5dgQhijibA3J70vNov9BFVkJ_c44dmO2RsUxQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.34K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.35K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
@@ -520,7 +520,7 @@ Claude Cowork
 ✅️
 7 چیزی که باید چک کنید. تمام پاسخ های من به این موضوع
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.4K · <a href="https://t.me/mohsentavoosiseo/868" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.41K · <a href="https://t.me/mohsentavoosiseo/868" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-867">
