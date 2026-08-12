@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 15:09:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 16:17:19</div>
 <hr>
 
 <div class="tg-post" id="msg-2870">
@@ -328,7 +328,7 @@
 ❤️
 کانال رضایت
 @AIPrime_Csat</div>
-<div class="tg-footer">👁️ 6.69K · <a href="https://t.me/iaghapour/2870" target="_blank">📅 22:55 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.86K · <a href="https://t.me/iaghapour/2870" target="_blank">📅 22:55 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2869">
@@ -358,12 +358,12 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.22K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.33K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2868">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pcSwPTANYSp-gF6sQGblvDIzU6TCWKIbIewzqp5i2WHagIZSIaqhc9k7uf6pIn9pYdg2xEWTVp4D6C6dLZDknqos_sHCTk0WNrNuY8KRjCortjIDDAIrvEgOeAPh2QIWjvF9iWrSpkFeyv3u2DERpPBYVOJ9c8qOnZfrZtfOsstIwOKBnLU3MnuBhO_KPkY7C7QJwitVEbTVvShA-atZuZhIgnVL_qtRMDjaoQIQmiHTua5AD1pK04d0sikFohc9Z0DtW4rXb-GFtLAGipQIfUyUPgTr6yl7_fKUtZgsuiiO4Y-jV6wLYkQ46ykOjaH39CkDVJej4d-dQP0hVpgoLQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PXwz4WZ2tDqZFTAzisJvehTRuxCnEUoQS7hrYEFgfffRkcO_6i8o3CP5b7KJXXyRQxg_7PgF8R676pZMfz5ZBtSSLKDR8NL1I56AMClZHfIPk8lzNtVy1haWDbTMcb6zolxiw0M_kbbvSu0LU9uwArYEeEOs7aNWY7DypKNu1MsyziKePKphRI4wJFlKQep7L5PzJF6HkbT0ukOdoRU4I6N-JVlgbAnLxkTwU_ewi1YTDbMrXVABornp7LeD2BkegL0yezoqhAteg8kasOXPnbfFu5DAWBxUGgLUQ6Mn_XkL9RkhqNxthNmbew6FthHtObJMgDRTCxDfOXXBnGjjjA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🖥
 معرفی LuciNet؛ نرم‌افزار پیشرفته و گرافیكی مدیریت و تست کانفیگ‌های Xray
 پروژه
@@ -391,7 +391,7 @@ Xray-core
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.16K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.24K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2867">
@@ -420,7 +420,7 @@ YouTube</div>
 خرید و ثبت سفارش از طریق ربات:
 🤖
 @prem_store_bot</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/iaghapour/2867" target="_blank">📅 21:04 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -485,7 +485,7 @@ Remnawave
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2863">
@@ -698,7 +698,7 @@ GPT-5.6 Sol
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/iaghapour/2852" target="_blank">📅 21:06 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2851">
@@ -919,7 +919,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2839">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HfO4t696_Y6xGQaEvDri5iVWl2zo6eH4okx9HAETtFnY6HzGqm_5JXiQwUbw2YsxRx_JNtbDIAwoZOWwl4J0R-jbiIPAPL_m2afpApqFAo_pMteoF4-PY1BCnkxMLQnc34KEnV8LY0iVSYOk5cCv0x7Ysx8psID96waLLGI7dhuKE73wTJbIbg__OPff1FNb8T-XUuk_EMbZl7TdTG9RiFnC_84I9ydE17H7CqXsCWcI-qwp1I8A9qH51r61tRr6bgH8ZYAvi2zfrYWOKqS9_DD-AXhp4a-6FiJvqdhoCM9wTFVB0w820n5yEeoDsvfumC1mdbXUUYbrmgia4k0GAQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e4sh1nM3XclSawXKG-DQRq8BzhOX2PpWbkSZ41pXGwNMAdzSwiGPDsUCA44P2Bm3n7W-AKI3zB72Qq4PFEpS9sZlI-MKLD79USrWWjJko9rOU147vUaXabWlSK4GSwpok2Ie7RAezyvmEg7MB0yXWb6f33DQf7An3ULrBwIToA88yjujBk2Ea6HCgi4InlU95l-KEIhEypfCbu33cCOTzxar6xC9uBlY-DifsENlrM-EmkmII15woRXGClWt25NwV1AFkZDmMcWwtxw7Z8y4AMI0YVPv2HR-5XLr3ifvZIm2YQH1Di6HCpDZIrhYDRbb0vKr94A1Vu9UDpB-IX7BUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎉
 قرعه‌کشی ویژه اعضای کانال
 (سری دوم)
@@ -1139,7 +1139,7 @@ KelpDAO
 
 <div class="tg-post" id="msg-2826">
 <div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RKLu-LaN5psQ6h3Jv6AUVqNLhCXcENXlqGox0BTnaL5PJNO8qgL-Ohh6Z71UY1Q3mPP9ePfugG3Kxf6tWYOEp9qRGPRGSaiKaPL5xJ6CT7XzcXY6qWnAYil2dZaCsPqTQpNIoAY6gg52EUR2Y-X0wTIInEUvAx7zAzbYYSAewUZctDJsc76eI9tVhFsigjVPpezlUobfvE_ZkSA0oV6KzZHMNNcfN1NmGF87085pu_qpa3SGiT8GG-5M8ZDe0c6OjYawNuX96qVzm8fWc6zxXOy0GRMRlRK8vEjqsjETMY0kGLip9-S3WNIpF6JrrqpGFLpcnsi7AXWkphs4tdotHg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l6rH4LIW5L-G_IYKIxY7lG8an0nD5brgSa9AfuPCxTgBknItO82kJlhEunU0tkQFYQBN9oP6lJyGUrzkdLzpz6Xi68cE7EZI-zO-NMUa95cXDRL9sGBY76wlVJ_-YJsyNoSyiQT_90gR-_FyYn_aBPTp1UyWFsk-fjyVSJILscheque8WgLBOdoz_Ygr0nHaK33e7a6w2aEuqknntmC9pzLo7b1iz7cURYyTJp4EvvoTiA3SZ4q8EWmHfHuYMAnk5_0esS_N5vCNrZ6fO3afWykvXiAFyXYp6xdZvpeWGWtKm0C-E10i4iPJVhRg-Y8sM1SmNtQemiwt_I4gkYDf4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 تمام پروتکل‌ها در یک پنل (L2TP/PPTP, OpenVpn, WireGuard) در کنار Xray
 🔹
@@ -1365,7 +1365,7 @@ Claude Opus 5
 
 <div class="tg-post" id="msg-2811">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m2e_16hC_ckMlp-CZri87c-ImnG9EdUYqwnOwtSrO_mXO0LmZ4WUK99gXxAxLsk0hdUSfxEF4PZ_sQRiuDcONGfdMWLYY8mDWFk1fH5_uZdAxaZNZFjcqslbruXP0H6eTjFybN4eDqSa0Y7U9crphb824xu9WOvpK2zHpaeEWOQu1ZXr5GbR1eXeYG41bR_JOElbpRsSAsahki7omLwvS1b9pOWPyNXr2u6o8fE3tm3641wm_w6aqbnL3nfHCB639mXNsBtmGluADe8nLHWT9eLbKER2ZlWg1HMuJZ9rH2u9I605UfXKm6H7WmwxeI27EU4_7_IIorHLpz9KJSYEjg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aJo075fgfEvG3wKF59_IV3sYgBHnDQaxlgKNAPPkdvBcHBlubILoQwntjmzJ_aKuxdmvLd9ee8-rPOuZadJt9Fz_dO2dSY-HBxHffA8jL7tr9JqprxMaqQNv3eGZ0sWw89ufODskIswka5Lgq4rIdp2IATnawSWWZUtwPAyrLgHmJekQLusk9wQB0tUNSNuBVMx_imDI5YFcrXZCNSX_KciuaRK9pyOQJMa_4guXjsgfUeEfZiyCAC1lKTOfV5daDxCOUqkDvXJnBpoMtmgbvRVyErx9-tK0jNYW_6kWcmKnz7_MvWpSh1_OvelvNasBuQvDLFFFz5c62NXKP8M1fQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبریک به برنده عزیز قرعه‌کشی!
 🎉
 همونطور که قول داده بودیم، قرعه‌کشی از بین کامنت‌های ویدیو یوتیوب انجام شد و برنده یک اکانت هوش مصنوعی ۱ ماهه مشخص شد:
@@ -1763,12 +1763,12 @@ LangOver
 تانل ریورس روی سرور با آی‌پی مسدود
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/iaghapour/2785" target="_blank">📅 19:32 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/iaghapour/2785" target="_blank">📅 19:32 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2784">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qnDToMTu_GINpIknvKqiFQ0u591lFJKiD1Iu_iQPPuxhcp8KelKaZQSgn8pkMch94LcrpxRI_kx13BXuHPMcx7EtfuZVn_ltk10ewSiCcoKhSAxoXFbg1uFL3g-jAJV1H6LEtJMNKGB7tkPODgAG97ZuOOzvQGW2KxkuwoN3EvohVfam6lrZEULdjDdYj36ZVRQ5boIkVpbpPekW8ThdF2gTFGlPWNo8tQGXPgstCUCYaftzTmVdqI29pjNxh2CklwYN8cABflQMBLSl8icsetleAXZbrx-EPgQ_rD7Q7NvNgihxGeBxJZNe3S907FKm19_8TI-rLvpfEhec_vonww.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZTTOKpr_hVI7eLFnk_Mww_MVjTwRqwWxL5VlpEoeKnIHdUnoOMDUIjAzuZS6KoFh-xDQmMCAwRAaLDZ3hDCCjZEnsK0_Ez45bD7QoEfYtgks6KzRJZYqMQBWuy7ia8UWaybkvJrDZmyCKYaenTal0MpX15Qc66JBJT17GPgrHBdMXVwamhuc5VPYSUBW0xq04eFH1PV19z01NJW4qSdrXi7DoVRhLmXMPY1JUNngo6Cnwigrweqa13OJYfF_GeJ7B03zTxOG9O-IQDxGRBrwz-6mAsJ1FBRBjwoecRqGOUOsVh8tUVX7uOwGm_NVGSu14Dt9NS1XRt4ChhlVKMtHAw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش تانل ریورس روی سرور با آی‌پی مسدود (مقاوم در برابر اکسس)
 🔹

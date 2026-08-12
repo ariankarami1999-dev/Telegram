@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 15:09:19</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 16:17:19</div>
 <hr>
 
 <div class="tg-post" id="msg-884">
@@ -350,7 +350,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -736,10 +736,10 @@ https://mohsentavoosi.com/video/keyword-gap-excel/
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=JL0V8Tcl3434IV7N92kpy-pHsB3ZbLpBuIZTouqr42x-RMQmiNA2MqmEpEYfNgrTu5KECWG7UEnWlmXLse7WAPr_FX2rWa5czX0u5sKUSwB-MdmpLbsEmT6A1yFCMdFKpB4qys0Cypga6GPbVRmNr_mHoPNMh3XRiy0eQabe6rRr8iP-Vkpy4uLruETI4vHrZajlC6kyyB-XXYvYbpe9ceeDjNaPuD0aUW52UxVmXQ230wHuhyMPd4wXT3t74WJHYuxaNQWaMe63HXKpz-x14aZQmN6n-6jY9pvTyBrc85QXga9Fha0Nui0GVcBYe1DuNQJdhE5zVntaRvxBcyFRBTzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=UDtBM14GcSQTD7BKeAEv_t8F7vTSftAzPqfM5P9WnHAFLDMcShrNMPF6bL8NzYhWhU9XKKA2HAatb1sPIlJAnYmQWA-wjBNOfTIwpskwlEz5A_WoOkom_X-NTmbYRMos1EU_45f5f-P3blps1d6VB0rhEoar9je_1LiZmWSUjO6hSv1Io_8oYhNlJkZmwM-kZqVUsEg6-Gqwy9L8HY7Asy_VMxc9fgqvQW9SbARLw36bWUKU5h2UuK9o4EYz3edxt7Y7pOtUay7b4uvGN8ZwbUkSzJtL6uS4mFBucTaPB-16-6yZ1vrbxUfW6787HI3gbwzkdVj4moEQqB3E5eWft4i-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=JL0V8Tcl3434IV7N92kpy-pHsB3ZbLpBuIZTouqr42x-RMQmiNA2MqmEpEYfNgrTu5KECWG7UEnWlmXLse7WAPr_FX2rWa5czX0u5sKUSwB-MdmpLbsEmT6A1yFCMdFKpB4qys0Cypga6GPbVRmNr_mHoPNMh3XRiy0eQabe6rRr8iP-Vkpy4uLruETI4vHrZajlC6kyyB-XXYvYbpe9ceeDjNaPuD0aUW52UxVmXQ230wHuhyMPd4wXT3t74WJHYuxaNQWaMe63HXKpz-x14aZQmN6n-6jY9pvTyBrc85QXga9Fha0Nui0GVcBYe1DuNQJdhE5zVntaRvxBcyFRBTzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=UDtBM14GcSQTD7BKeAEv_t8F7vTSftAzPqfM5P9WnHAFLDMcShrNMPF6bL8NzYhWhU9XKKA2HAatb1sPIlJAnYmQWA-wjBNOfTIwpskwlEz5A_WoOkom_X-NTmbYRMos1EU_45f5f-P3blps1d6VB0rhEoar9je_1LiZmWSUjO6hSv1Io_8oYhNlJkZmwM-kZqVUsEg6-Gqwy9L8HY7Asy_VMxc9fgqvQW9SbARLw36bWUKU5h2UuK9o4EYz3edxt7Y7pOtUay7b4uvGN8ZwbUkSzJtL6uS4mFBucTaPB-16-6yZ1vrbxUfW6787HI3gbwzkdVj4moEQqB3E5eWft4i-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🤩
 تو جشنواره تریبون، رتبه‌ات رو برگردون
@@ -862,7 +862,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 <div class="tg-text">پاسخ سوال بالا، قسمت پنجم
 انتقال پیام پنهان ضعف
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/mohsentavoosiseo/836" target="_blank">📅 14:54 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/mohsentavoosiseo/836" target="_blank">📅 14:54 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-835">
