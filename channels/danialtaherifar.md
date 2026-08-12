@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 07:03:24</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 08:54:13</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -1492,7 +1492,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-867">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kcKJBomQzBWTmU-Kye5XLq8I5b0XbaWSWYOPcoF1Lh4iaS86afFL40xEu_pPyKi3Ory-h_7tSO44QZ_jrWb7HAagQOp417xQHkDExgiMgrkRdkYGL0e_NJkfzRi3rgJ_j-JQ8jtdOlBrC7WPgmyAwrDNgmbfBa_s8WKQzheeswCZQOPdxIMjKOC5NVkSBaEjAhLG13q4yj_B8G1_-ELTo4Lc9v8LikQPvxK7EvQdsQ1Go8AXHOya5fGT8emDdvHFvt-zlqUjz5-nbZArAYGOpm4F9alw-gvdKZ6iaBxMgt6gFDTfXREKrzT1yfFw0BXXBFM2ijfXgnLBcflalKoKSA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TJpbDVrAi2bvQX1vLXt6Cp20txaSpm9RqUIzFEeWO9BoXhsFud9XXgKrBK2A26v7aaKxlYJDbYk0zZbp8WTINWLi4WLV8pwV3qZrCt3YNNLUBDPqTqnsUEHYB-6UG01QvGrHDl7Bap-iijuBYBzo8awVHNlODlevZhU7E5J4PJ-uwRo3yv40GABcJgMvQqu-94e43pkEVKY2BSwO3UAEI-K33kug1lLIJJAewWFjnVqsihJpZ5qSnRWxJe8K5Fx4ilS-8Q3JHme6R5ewnf5KAig3Vbar5fwTe9tjg18g9IVNRT2tsQsnTmArInVYOuW09vXx7UmvPeQcKJCYuJ00lg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل مستندات Google-Extended را آپدیت کرد: کنترل بیشتر روی داده‌های آموزش AI!
 🌐
