@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 03:00:38</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-21 04:40:03</div>
 <hr>
 
 <div class="tg-post" id="msg-2546">
@@ -585,7 +585,7 @@ sadroddinfallah
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2528">
@@ -1035,7 +1035,7 @@ slcyber
 
 <div class="tg-post" id="msg-2500">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Y_FTST22oh7sadK51mXA-6J0WtmQECkIfVfbfSbaNDXm4fy5SAqSLsXHMVfRm9sTAAqM6HeQMZJUlScoF8Nr9wIgDsD7JXWIHfnVakvNIwJ-cOOP0ik5UnXrPP1TX8nJuiyv2s0s4eCgpR8WceWEuvR5DiGMcNOB5zbeLrQsrmWxY3bjd56DY2P62ViEpTnpSs6RZeLVb75DxDrirUF2Rr0l3Ppmv64Vzgm-pitXK1J7PKgQ9f9GmnzW22pJPDAJUF8KVP8V5avKL7LM70AF-3ApNANd2ArrOqCK6R03kY7zNYlcTLLMkUg6bRgj7UCI33ZgrEZ1Z4rFn4-6z9vzQg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/csv-qimvUtms0mZUWGh27_lzYCD5wLccqyufeRkZR9CHlUBwUpyoPgOYCfIkQlPsqBUtVVGG_Zl6Yzugt3CdHtJFnvataTf1XZNB-VzYwrcaJp3rAp1cJXkRXXM42sHeipZjqQNW4BnxibidoyxtOgN8men2_-fA8lxEfXPpvJs9TsFacEmL5px5Ox8VxRE7OU1PZ5pOSq2-NtnVpzNllbENvqE1ozE6TBtpYm7eJ0Ah5atnDAxaeAF8wU3z--YsQmLi8ygoeA6DMRwNiNFe4GMn82w75unpeygyZGjyC8Po0HpGsTF09AYeRfzeOoFgtFn6NKYkaRlprojf0e9fJg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگرچه قضیه ترند شدن "لغو عضویت جانفدا" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه "وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1267,7 +1267,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 92.6K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 92.7K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">
