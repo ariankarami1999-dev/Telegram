@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-22 08:57:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-22 10:26:04</div>
 <hr>
 
 <div class="tg-post" id="msg-950">
@@ -320,7 +320,7 @@
 
 <div class="tg-post" id="msg-947">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rQrMbyR69RdVMVFZaam1HMyXzV6WDTrQWxDnjN9iBuium0ui9gWSG7lIMhZ93DUnCRqVip5Lf00tAgQ8iWbRyKhvcdOL25b7agSxHxNGCzVQM9LzGB6z_92XFq_RTZlGaK-tVMr4jatc8l0jE-xDmaiwuUAjoNObNRvZjJVVfyefnB2HKWvQVcZHDGh-dhRGQOs0B1A_lO9ZY-oSW0IsHi2E00vHxotx8Orp1BVIBfvjEvqLnKeRpYEusCTD7yuuv4G2sluQ9-gre2wPDRi91KuNFgAXiyEfBq8LxjaXtZUSR8QuWBCVhjN4uoNiMV5uIbcr_SHyDjhSeSCTJF_44w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/goDqsFnT48JcTQq_3wGll0qmgJfHiQjun_n2Ix-BXzp_y7KfartsGmp1Zhq2rWWt29oPbwVsbIYdI36nPj8vhOXjjuzQXDGhExrb3tcZnAK1v5vcJyY9zurPiromo73nCfbCn-4YKgi19D3RZ3Z43jtXwo3OdeG18pOKqyFXKdpQnbEZ3sacK3k6fKqnVKC0hXdyHBeWXjb5BPCFTj-h_DBFNCv30AtyS0BMFnHCnaAGe0oUTCrsRjRX-x7gibJ9vBO4bNsQ8sg87lh5SuT35qEvFysqTrEq1rSCFNPiy5ixxLLnmMTUMW5K3zRqpJRsCh6RSF9HwvuZPKVHfPsCsQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 علی‌بابا هم اعلام کرد که مدل Qwen 3.8 با 2.4 تریلیون پارامتر و به صورت open weight به زودی منتشر میشه و در حد و اندازه های مدل های سطح بالا بعد از fable5 هست.
 خواهیم دید
@@ -1492,7 +1492,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-867">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LQiTs0f_C4h14kl5z14IkVWAeBQAoV2yf-l8fK8bjQzt9DWI3N6VnkEuf3DD46u5PBmFJJWRdfGw1Kkpic_ECTuHjNbXLIQ6aOk1KAzONsH4hPat-ETzAmOOUrBZCQofA-UGW7hLmux_kQBYNKzYcKIeImYgpM1X8Zy_ADVItJwvfWBzFHFhztLDYLoULdN4i7YgoVTjSf2N5zWrU8HO1BNJCNE5VSPLRIH9mX1ZPAci8AsuaQMKnLGS74F5-ul13REa-fRb3PfPz22-2ngk4cHTHGb-9AH04_AdVhE4ihnTK6qhMKygwKIsTVe5Vgv5OEjOtOr4AmmtZTFVedIVnQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T9p0iGXopARMrngtLGq6XcYIhOyIb22UwmJT6IkaRjJF9kIMtVBfH6YIsm6P_0PS5AsE4ZA_QHfHErUKKVao6Rc1-25ZNlwM9Wowb_lScEO0Y2UkaAsF-ghYjMNrEh-6L4c_ZqTyeHYte1H_ezdnd8UrglwAHI6jvI9bkAmVH4PKoRgd06Ttu8leJvExTLarZKhhgddcayS5G6_60txcoW37BNPgjvA_5VaBklD0Flw8m207WJfZ8gElnr_JjusnQSbc3ziHW4baUHI1lvvij7AH4zfe_tnSDqFQhGqwjmuZhOMbW5peaZc455-vkPBA1Sobg0y5vqLcs1GlQRpAdw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل مستندات Google-Extended را آپدیت کرد: کنترل بیشتر روی داده‌های آموزش AI!
 🌐
