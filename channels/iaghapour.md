@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-22 13:07:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-22 14:24:14</div>
 <hr>
 
 <div class="tg-post" id="msg-2873">
@@ -325,7 +325,7 @@ check-host.net
 پنل مرزبان
 📚
 پنل پاسارگارد</div>
-<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/iaghapour/2873" target="_blank">📅 21:10 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/iaghapour/2873" target="_blank">📅 21:10 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2872">
@@ -348,7 +348,7 @@ check-host.net
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/iaghapour/2872" target="_blank">📅 20:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.82K · <a href="https://t.me/iaghapour/2872" target="_blank">📅 20:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2871">
@@ -374,7 +374,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.92K · <a href="https://t.me/iaghapour/2871" target="_blank">📅 17:41 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.03K · <a href="https://t.me/iaghapour/2871" target="_blank">📅 17:41 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2870">
@@ -473,7 +473,7 @@ Xray-core
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -502,7 +502,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2865">
@@ -658,7 +658,7 @@ YouTube</div>
 اگر ویدیویی رو تماشا می‌کنید که ماه‌ها از انتشارش گذشته، لطفاً تبلیغ داخلش رو حتماً دوباره از طریق ربات ما صحت‌سنجی کنید. شرایط سرویس‌ها در گذر زمان تغییر می‌کنه.
 ممنون از اینکه همیشه در کنار ما هستید.
 🙏🏻</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2858">
@@ -717,7 +717,7 @@ YouTube</div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2852">
@@ -879,7 +879,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2845">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QIvOg4XHDVPg1BrErYzUmHuvBcH6lNZ7mumsNj_lOzqa2DiCb8MBjVb8-CduIMobUzIj9kckRXUfA2mUkj6b7ROXKNvwImq9LX4AWxuZKUWKLzxlSE7c2NopabfWkFrSEF9U2q4iYUQZn6y3q_PNn21USUqxtGwtbI_mbqD83Y1DXW2V-ApG_KwddqooGjYxFghJCMphmUhBTD072uxytzJXCP6dG8VG9Msvn2IFpeaT0LdyevV2eNXOMcjVkjWM0FLYbJIIuqBAQyE4JzqRocklZrHDLcehHsQHL1ouIu9b1fK-CInpSmXv9olNIuIc4eBNLncXV_dpVCRNtcaJqA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X0qi3RKgFOiLnUqXymy_lpMcAHkiwx2J8rNeQYx47gNp69CHInGOu6gcjs-6xdkkhg1rhMAZykPpIxoQ7w94kBLuo5Yk_FyL84IzGnF7TcyqAidNKt183_IgsFKGGiE5C5rEeWcK_ly3Smz7lY8MedJtDXNxI5eyiCBFtIF0p-XsLTWv6IwtKgi6_MgFhOVUD5SO6H2hsy08myvHy8O8XnbHwpLtH0LtdEHdvabY7I-7w0MtfTGmx8pwJE2RQeNWEy6wDBp_tiACDm73yRBejmBjUGK_AOphG8yEqE0bMGNwD4Rf_t5hCjojzliEFApJ9lTas8gi9eHB1ZfwojNmYQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 توضیحات ایرانسل درباره نحوه کسر حجم بسته‌ها و ضرایب مصرفی
 ایرانسل با انتشار اطلاعیه‌ای، در پاسخ به ابهامات مطرح‌شده در شبکه‌های اجتماعی اعلام کرد که کسر حجم از بسته‌ها دقیقاً طبق مصوبه‌های سازمان تنظیم مقررات (رگولاتوری) انجام می‌شود.
@@ -930,12 +930,12 @@ ToRouter
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2843" target="_blank">📅 20:02 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/iaghapour/2843" target="_blank">📅 20:02 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2842">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f2ZQJ8I9id02rM4iljdbcZso0EsqLyFDgJ-yC89iTHOo-DE0nYrORpCXTOoGBxBAMgmfFHbrmIMxVYeOOkIW5z4dFcYNwsZauPqmaYBMZ4x0JRvFwDu2amBO0gN1e6CnkSLS0_PVX_WcXITI_2va015m5h7qzbUf4Rz-iTOkuXpBKliZZVWBXl6QPX-xDTWFxfkfgSXDILkNkInOT1xg02L2rPDkAen7YZ07nNJVjgJbBvD2An10v7yN94PI9gx0x6RoJ3X5UUDeErD4NkYb2QoKPoykp9ftl6XFzPUNs8elNZTOZmdqB5-NP6CxP59dt9HxBSmJ3d8Vh1e415nXOg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bRi9-UQOMZqQhX7qJs8LO1De3ZvjBlIyyXDdFMBJYWEbQncg_dLpn2PvfgKdNC6WZZTDwVPUo8jwKY2f7cwOB4yW2jwAhjIv8gfPxSuj_vRml57dZ3n0MJCZA-G8KeNV9cx29_SICS1DlF7n03cVHJFx3pon8oxAoUxnhUcyYn5wi4eYxiyTlw-qWgt7xT-gZ0WcNz_PBy35CsYFA_fNXFJRWzLiF_jLE-hm43Al74fFTxA5bRDhe3x_KFP-htuUUSOOAPh_npgMMXDSABy1dPP-bP3mKvMTQvm7pEpT-WSBjtqxtwpSEP9S-TJKB5MbRvSvj6tcm29equwfWWvBBQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 دو ابزار برای مدیریت پروکسی‌های Psiphon و Tor روی سرور لینوکس
 این دو اسکریپت ترمینالی، راهکاری عالی برای کسانی هستند که می‌خواهند چندین لوکیشن مختلف را به‌طور هم‌زمان و یکپارچه روی یک سرور مدیریت کنند:
@@ -994,7 +994,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2838">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ThXnJULcX_qRIeIGnbszrwsFI3GQqGFTRCRUEuvGTdzzdzz8dSNUJua-0oNrvDEDitSHn29jRr0F2WVUcAM_19qjviu1MiZrCJaGzvF6rFaXOEFQE0D4xQ6fYU17heQk9eadPgcwdbiHfyls9HNFasIWGd_57_UQF2jStsdyDUoJCeX99UiaxjaKW-F5Jf26tMf15dy4HtPCgClkse2MHGn6ASxllGMHznABp5-PlzAXRunRnlDk0Iaqj9W9JVUAOBWa9XSUOZOBpw5ht-pyk4lKpx7IFAdImybZLqT7Gtdoe6jZ0liV5iiZ10vZpgyDh0_L4JfVPKdzjCbirRTm3g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UDhi8A4DGJC6QW-sDE_jWlCY5nbnTxFiMTac0R4iFtP_5aPfQDqrdCzdkIsQSjc1noIHbAFvwWKJCBNHawoBhrn-v04x3Sq-zsG41utm8WFuzrbK5uLlE9OVzvvaD7aSC7D4hS4VoAwck_gcWe0920xZD-a-cQVbM7YAK9RNyCvXxtVUrvzgQZd2ZeqTIR9QeObCaUScwr1Elm04zxRcdNAg0vpfKr32AVWfWGNv8_0_YiM1kwToI-7qwKP7sHNInAgucHPEmArFn-9aZTWpDRb7IM1E6dEHG1DpVMKywx-k-rEKNVXX5VRTndoMwzhfqVoJqVRoj5xpVT2BNZTiHg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی کلاینت جدید Disruptor Proxy بر پایه Xray
 یک کلاینت پروکسی جدید و بسیار سبک است که برای سیستم‌عامل‌های مختلف توسعه یافته، اما
@@ -1187,7 +1187,7 @@ KelpDAO
 کارشناسان از احتمال رشد حملات تزریق دستور (Prompt Injection) به ایجنت‌های هوش مصنوعی خبر می‌دهند که نمونه اولیه آن هک ۲۱۶ هزار دلاری پروژه بنکر بود.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2826">
@@ -1219,7 +1219,7 @@ KelpDAO
 
 <div class="tg-post" id="msg-2825">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gM98acK-7v6yBXDGBOFYDjsT7tAQgnr_MSDYdxFxgAGC9n9JjS9gjeAbiiRin6DkEynSqxmXeRsL8J883C7BEmKwfU6pv0cLIrPqB5AZFWoE8p-qv8fc2oja3WdBiopWvxp0gffij9Z83YMdQ0-rb6VXLeJQfcjgTL9W8-z_3eeArzr2LMcc8YtnrlXEjMewGL6UxRt0_CF07dF8lHLKOlxJOY-Cn9IWkuHAhkQ94hUyLoYAKtGhNSLTdAZqXnvK-EIt2g25fRaUnWMTd_tSbztzcsQommBRqbEWRNZt268a-lRrKhAJscM0ivwB2Jo6pZkJSrWWND1fkRwz9rz1BQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kEAsrBsExu-EZb35kj-q7LeJEFSya5p7ASE9g6KeHP-0mI87SBZHdwq66Exctne9IIZUhMgiu-UC3pmvSJohk1gz2Iyfgn34U7a5pLelDltaBH8lG0dDj--c0KOKSi1KS4Q3kGk7rrnXHTweSnr3HAvj7Fdb8Bf1mTtRUFVRhDUu57iDr69bsHrE56yiUsEK7kwYTcb3hGj4VQs2hriWpZ8g7z7HPkkbtNRSiWRnoGZYTPmTYcDewVI0WuUShy84veBw2dLAOqXDPhoE2kIfhO-p8-oCDfnOZoTPiIvezDxxUgEOKTpSo9t1Iljrw5zRrGlxesZjNqze2OyA2sur2w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 سرویس امنیت روسیه: پاول دورف تحت تعقیب بین‌المللی قرار گرفت
 سرویس امنیت فدرال روسیه (FSB) «پاول دورف»، مدیرعامل تلگرام را به اتهام
@@ -1777,7 +1777,7 @@ LangOver
 لینک سایت و دریافت برنامه
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/iaghapour/2788" target="_blank">📅 20:07 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2786">

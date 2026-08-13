@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-22 13:07:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-22 14:24:14</div>
 <hr>
 
 <div class="tg-post" id="msg-2553">
@@ -315,7 +315,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -331,7 +331,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2550">
@@ -347,7 +347,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2549">
@@ -362,7 +362,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2548">
@@ -377,7 +377,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2547">
@@ -391,7 +391,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2546">
@@ -408,7 +408,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
@@ -423,7 +423,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -438,7 +438,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2543">
@@ -451,7 +451,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.3K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2542">
@@ -546,7 +546,7 @@ github.com/shapeshed/aerial/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/ircfspace/2537" target="_blank">📅 20:26 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/ircfspace/2537" target="_blank">📅 20:26 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2536">
@@ -561,7 +561,7 @@ github.com/shapeshed/aerial/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/ircfspace/2536" target="_blank">📅 20:14 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/ircfspace/2536" target="_blank">📅 20:14 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2535">
@@ -893,7 +893,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 
 <div class="tg-post" id="msg-2516">
 <div class="tg-post-header">📌 پیام #64</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QCtejEicm1MstQcpG4nCdyZEGdKClDG15Gk2ToiX1a0EX_axTYjEx8ItzXZ05nXY8XVR-SeeTUvu-FrkioJvCmF5BE2MdKiwSPB9_dvesLv295no1jvK9WVQZkUdjmQGpSLtHfS9V56dfNQ5G0XeLqnKcxQ-aRO2oi5eObI47lc88o5q_Jg_1KjLudwebQxY71njZJPzkHpN-f1_1Cx5pQFKTeYMGTQWEN22zqcQga_KE-KosFAXHei2F85-DRsZ3zTlBnIXyqfbbw6aO-F0f2K1KRgZ2ZmOUsfoL3Pq14XZbXc0oMC67oB3hLtIqxtSgTh5XBgnbt9yUVm2Uc4Zww.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qD8NAGHaDkTDKcITnVqTWtLs4B_r_VMpDVG5LSZoPHYEiGB6KFO_h3PbcRQsPxaGKuFPxyTDj-wts_meA3srHjE8_USft1FLTQrgupAYyphs9kPYBEwOsjzgN0P40NpuwAKqsSp1VYBTz6VstGLmbLGSHGTnCdq2Vfdr6qbVTv_thEbyjwqwMDgZuAL8pVTqKgplVywIekf9rhAe72hlgEZBmaDh23XDsvI52MYkoirYVmRXbYrsrSZ6-_7fdLgOQrxO-kFnFfXZz2YFn55p6_FhqNqZF9nJzabs3nc9yh91LtDXqfiQ1HwEFLKF_cd6ZEi221F8hR-mXeJ_DrsTXA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">توی هسته ایکس‌ری از نسخه ۲۶.۱.۲۳ به بعد یه سری هشدار برای قابلیت‌های منسوخ‌شده اضافه شده، که شامل allowInsecure و Shadowsocks، VMess، Trojan و VLESS بدون Flow میشن. مثلاً برای Shadowsocks این پیام در لاگ نمایش داده میشه:
 "The feature Shadowsocks (with no Forward Secrecy, etc.) is deprecated, not recommended for using and might be removed. Please migrate to VLESS Encryption as soon as possible".
 اگر در حال ساخت یا انتشار کانفیگ‌های مبتنی بر Xray هستین، بهتره به جایگزین‌های پیشنهادی مثل VLESS Encryption مهاجرت کنین، تا بعداً با حذفش به مشکل نخورین.
@@ -909,7 +909,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 
 <div class="tg-post" id="msg-2515">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Efbh_H2ylODiWEPRatNZyX3gmPMvvu7-Hl-RL1SEOaPwt-TYvoIJntIsQ-4YXSYbIH4JUkEQKOaWFvOU_8IGZ7dA3Im4ltU4iKC8T7aw7y44SDaLTgbfjgzmbjgeYwypuDYS6i-qdmUJj5ARA6wfnmwz-7OPd-QSQEO4VU_UsQB-nnmqAwuDnBXPMoVHg4hIJ8dvnMQYB2rti4MQmSB5Twb-wsKqkkBpu3ISpOCkg0rQmfmmLyTlyx9RYSykYoIroW3T89U2MT4x8r87z1RSTCaAul4UNz8dwcAAzcMA48EBB8dwzQWVYqRrcA_pXApHo3jkfwmLPCtuSA5x5i_ZzQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/r_MbA3l4_9VZTal-7bblZqjbbC9bVP3SMdZ2E7QUcC1xpx4XH98RPTJjtv5T9iSEFk9YwAtaHUc8CabQrxTJBF-KVt2JaDrlfzpwbKrf-SGWuaJ04CSus2auzfbExt0TyZRop8bxiOZoMdvSXqFdIL6xADR1N_MXEh--Mv8YoznlnH51c78W0nbNeVXsjLEaSJ7txFseVZq3H5hIj87tIQL2-Jt420GdchcL7TEc8ieXJV4_CFGWKtzGSgQAOHcAWVjnJNnJiZfHLYE0u89_EiGrt6GH-56rEK9AwZC2R9wgAN2w2g78lZ9DY7SXrg6oUirRrkpOjs2JyuP1BOzT2w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت دسکتاپ v2rayN یک بروزرسانی امنیتی اضطراری منتشر کرده و از همه کاربرا خواسته هرچه سریع‌تر برنامه رو بروزرسانی کنن. این هشدار در چند ریلیز اخیر هم تکرار شده و توسعه‌دهندگان تأکید کردن که نسخه‌های قدیمی حتماً به آخرین نسخه ارتقا پیدا کنن.
 در توضیحات این بروزرسانی اومده که "یک آسیب‌پذیری امنیتی بحرانی در دانلودر داخلی نسخه‌های قدیمی برطرف شده، که می‌تونست به مهاجم اجازه بده فایل دانلودی رو در مسیر انتقال دستکاری کرده و به جای فایل اصلی، فایل مخرب رو بهشون تحویل بده".
 👉
@@ -926,7 +926,7 @@ github.com/2dust/v2rayN/releases
 
 <div class="tg-post" id="msg-2514">
 <div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KvEugHGAWS9PdhfGkWTZfywTCX4HymWYfgHT-JQCuu5K9yNQLRRLeQIJUakvz6El1nxw1omXgUfzRanE_xpUbXv10GKkrS85Ow8l7ovB9ENIQ2-0djz4LD9wHEi8ENaf8bpm5ZRjQW3Y56B8llrJmHpip5zS7SbAtqWYXs4mrNQY51Egn7myB1KL2fYWlor25GBcQ5rMA0Dimw7f6oplNXWrkVPmfHQfPu_Z3ayweO9kPeRDs1IbEOoVxH_xWOl8AN6aYc9TrODiVscGeRPUVD8wjS6LRaKdRAUVz3ZsaTpiI7N82vXMhtwzFO1hjr8G9Ute5O0l1SWzWzOo5f8pkA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/I9peEQxDYKQALggohDHgEFstgzzf4joYsgxSI2nACioaRdleRHRtBGeB_9u6cSR6RkBBPJ2fKSV1BMYmV-Ps6sOgrG2AHYbM6MW0FisiEBwDBxi_JTCZ5gQQEvfUsYSkioXdrKbTNqKpGJQYZvU19l82T0zn8J1ScQJNJbtoFq7OXDdR3ChOmFXiD-MbJPEG2h1ElvELtsV_qIw6ufQm5L6Qypita6PPoGMh0Uh5PaI9JnXoxZedYZEcx3UsH9w4qVGabLdTn2yY9KeNVA1Krq4T7qYoZkCV-1UXPUoQE1LHeLtbgIV08mbKEyD55BBm8rZW-MAe9VYca4FiU9sApQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قطع اینترنت در راهه؟
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -984,7 +984,7 @@ github.com/2dust/v2rayN/releases
 
 <div class="tg-post" id="msg-2510">
 <div class="tg-post-header">📌 پیام #58</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZnEUiWDFi16aKIoqpHBVy7AVcb3GpQG4h4QKh20GY4RkONf5NWQsmeagAf6ArfW8R-Pume2biWcoGV4CQ48w01HYv_i8WUdPVNiNFLgZS15vb1BmQY0xhnwo03kj0UXYDCBi2Fq9omMpRzB5SL07KjOzr7207t2tb0q317sa8H9_AEh9qrcQ8V7rJEuGn2tVumgtBL6zjBRfx1UcG6ySuJn4n0dXFXXLqmqSgz8UoK1IfViBZoT5LTRtCtpLHjI0-ci6LW9rR8-C33l8fp7boBX1fVG1rV-iArgiISHqvmWER4EV1_TuLgvcZzad2w1jerwu6ERMQ9cBtKJPcYBwtQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MNUJzhb_7wb4NhFRpxNgLJzy70Wx1feaJ1EfVh3ZqVDknHdfW1YzjdXCo01Eq_TLOtkoh0RxQOYRgzjBjPF9v3_JRyku6VGNvhtlGNiNveAxqACFfsTQgTeu6MvQMpH6CmbGPF5xcdJUE-YEfasCj_MVEQllFw4SBnTu6fUaakkWZCUBetloLhVojmXhdy2k4QTjv4KBUmaJUvoytdmLxBIf5k3V_alnB4wZcK25pmIseu1V7CE8qZqPh341zoE_iG2LYWxLWNMeknWLa7rhsPJ-2IOVea4AWWVs8335175GF1ypr-n1CceNN_AT79Gm-yk87xOKof0xMfS9O5GLpw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ ShineNET VPN یک فیلترشکن رایگان و متن‌باز برای اندروید هست، که از امکان انتخاب هوشمند سرور بر پایه هسته‌های Xray و Aether برای دورزدن محدودیت‌ها استفاده می‌کنه.
 👉
 github.com/shayanheidari01/ShineNETVPN/releases
@@ -1033,7 +1033,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 
 <div class="tg-post" id="msg-2507">
 <div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lFOLSdUqfBHxtpaZ3oIdA96AvHyR1WkPq14M9_hulKtZv1yPkZUaPg-dHFHfxERmvgsv_ZYZAGX1SaN6A2NvFbF-A4hmFRE7mIqm2MvxuEJ1trzXIV84gRUXsC-6XA7RY2h-XtA6wnU_VgP3KofR99u1SsrtR0sVRqeARALn4QbVuX6sBuJbz6tqUk1eXZPdXd6qiokFxVJEL3IIB_C6gix5Qb9Px1_HYWhx6Z2Lp00kXLAL5PHHK8mhRTYw7gs7Cu79x0SXlRIzGMu67NVuqehWa4BLvbImvuOm26Bhuhwe1XwaZ9G7S9PYIzC8AH15ARI3zFqNpGV5CWAvgES6ZA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lC03MNyFpkMoJde0BcjdzKTQyB1i4sV9IoQoDEW2Q3AcxIGdvgvixru3oBiIAAHpUYdesQ-jC5CyFziGezXlr_7s5ALzmVFr9TsdPf-SeCaJLBsbUQ-ScewiDSjq7hx35uvJWtwOHhOp9kyte4vkVKBMh9kpC4RVfQmgxpgPbrgv9wb5fpBZlGvmbBeA-UfWU3qgernSSXIaWl80QFKZ8lkRXUVJwcS2qPdSmxIPrr4hNU5wnfGnx--YfTa0stiz5-LHURoAGfcJYSjGA0Ln283G8HzEey6uqSlbKw-nw4-kAVDN3HpGZm0zAoQLu2Hkt8ZA595OdnhdMK0Tpyhpfg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه ۱.۳ از پروژه متن‌باز و رایگان Aether منتشر شده و مهمترین تغییرش اضافه شدن حالت اسکن Ironclad هست. برخلاف حالت‌های قبلی که فقط بررسی می‌کردن یک اندپوینت در دسترسه یا نه، این حالت قبل از اینکه به یه سرور اعتماد کنه، یک تانل واقعی برقرار می‌کنه و یک درخواست HTTP از داخل اون عبور میده تا مطمئن بشه اتصال کار می‌کنه. البته این روش زمان بیشتری می‌بره، اما در عوض احتمال وصل شدن به اندپوینت‌های خراب یا ناپایدار رو تا حد زیادی از بین می‌بره.
 توی این آپدیت روند اتصال مجدد هم هوشمندتر شده؛ اگر ارتباط MASQUE یا WireGuard قطع بشه، Aether دیگه برای دور زدن فیلترینگ مستقیم سراغ اسکن کامل همه اندپوینت‌ها نمیره. اول همون اندپوینتی که چند لحظه قبل روی اون متصل بوده رو دوباره امتحان می‌کنه و فقط اگر از دسترس خارج شده باشه، اسکن جدید رو شروع می‌کنه.
 👉
@@ -1091,7 +1091,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2503">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vBBke_bDqZakEoIbXtN3uVxjb77FOA2tz2_D2ev_o-jMxhXuhem_apLzyTiWWc4i17zCZhUi86Tjmbx4Vc0kXc45vT9arZU3Es1ABl1oc5-kasAlsWlxAusBl2sgi7f8WlvTREJn0IF92hB352yTHIo0FH21gcWlGzu0wHP72wDOF6xeYrWDH250cOp30vAS24pXW83FQY6ToJPnvWfVwYehVw2Bv5WG93T30sIFUqDyXIDEpNTBBruDxlv5EPhyoPNNRwgDVJzS9vkmugvLogxxpB4N4rdmgd08ATFa8fGjBpwUFE3pDjoQQYFG8HS1RhDuDRdsmSsp5r7zmw2p1A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/c2zefZNu-WMzHcNX4pQDosc9L1QTgm-79I7jJdP61-LploBQCnrTzpKLJOfZTVMNrNWg3vCztmls45iG2UlD6FTU8Rp5OI3u8zP3inPQ9IwXrHbiNgovviwbn2y2cV3VVQmrvO8aeyYPZlOYL0EPR7FLUtpVZBOUyh_NQWhHnMn6K8XqmbB_35qF174K3MgzznRFakCvuRBsb5B9GU0O1UGboRzBBZzAJ08NelMDRK-tyML8E4PhSD2QINr2Mp4zSg7OMlrvundgXpO9Uq5pTN1o5kvESRjZaxiuLAhToqZLw2TiJT0oZ365a6VWe_CYNGCZCb9MXqYVyS_m2l2PrQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پژوهشگران امنیتی از شناسایی یک زنجیره آسیب‌پذیری جدید با نام wp2shell در هسته وردپرس خبر دادن، که می‌تونه به مهاجمان اجازه بده بدون نیاز به احراز هویت و حتی بدون نصب هیچ افزونه‌ای، کد دلخواهشون رو روی سرور اجرا کنن.
 بدلیل شدت این آسیب‌پذیری، جزئیات فنی و کد اکسپلویت فعلاً منتشر نشده تا مدیران سایت‌ها فرصت کافی برای بروزرسانی داشته باشن. این مشکل در نسخه ۷.۰.۲ وردپرس برطرف شده و برای بسیاری از سایت‌ها بصورت خودکار در دسترس قرار گرفته.
 ©
@@ -1180,7 +1180,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2497">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mJHRuFMj-FA8ZvcmiR7HZ26-ZtXHtJ3qJQdZj8U4EilPY06h4moaFigv_q9AMQ2uaQxaGrV3_tjzw4Z6HKGZbCxQPl0kZDpkOMaUrZpf9Ed8PvjzGUlC-lzjo3KL22ye7r7GmzaCElr6_hRDY1-9eMAGuvccQhT8550OeMYNZ7jKQvR0jG2QrV_e8moQfA6w4Y5TMuvjxhIO22tHke12AL8RcyG7aaFYVjuiZHeD02OHB28gT-iIZcL-dv3oE0PRsRSvRqkeA6jkJ2fF20B_ctrzqgJ94Qo3w2XiBrMadsL84GGxO5y0r0fwf3Ee-824VLF8ridmmiAbFyssc9mTnA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rMZ_xJBYDOCWDP17U7GxEgvVswu5BvJy76wPuNPLtXwYYBjAt9AS9lyyiWWo5KoBL_FLu7GzfeujX6268XsjmXUzHldFlGpe3M-jg6NegF5aUG-ZYlHDYQ9ErpghqsPSe4SkJfiMZdIM6AMk4-GU6yylR8aqoouCXAKd375F_Gts8fP6T1IjIeIEMt-mlsGmwmCEeFbpbLazVCQPCJWZxOD4zuDd56ktr1OC3V4zZCH6FoRUHRXtxRdY9xJEESnuIaXR7Cdvy3MawPlbUwet0YzxcAU8IuId1kx43mH7d-gHSG24cuO690SuEwuWuX39m4hSSNNKp_oSiwjU8v7o6g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aethery یک فیلترشکن متن‌باز و رایگان برای اندروید هست، که بر پایه هسته Aether ارائه شده.
 👉
 github.com/ZethRise/Aethery/releases
@@ -1366,7 +1366,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 94.2K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 94.3K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">
