@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn1.telesco.pe/file/BrFXbyAg4B8ERgl1ujzllUqyV6wCmmY3zyncgOOFVy79VgnAFkTrbksY_YrmGZHloyguGYC9tpYZxVo-jwL8worF6hTRB7PhLnW35PrBB0CVJBMY4Fgx7sS0ok25YR8p8-5QJh_y38WEqAxnjI0E0JPbDRQf_uZMsLOgax4SBVbGqFj1qXxWszX1-GBKdF2v6F0HGX-e22OH0iO0DNeyLBnQBKp1oSacxM7nYQLTcRbv3ryf_j_vDD8sONuOGC-u5HF3VKxDwUwSY_6sPYZ4ccj40P-aq0HA6FDvmKjRBujRezFADsuuPWezyxm-s5-DyFeOllH3rHgXDSROQHX0vQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn1.telesco.pe/file/owzh1-RYE3910EXidIUh2-9TTE0vRgjOh1ttAmVnHUtVAkvvvtVC815l6SLY1K--dRW8nczfGmTjH25V2akMMAArruA3la0KhwyjlS3PoKlTwLNV4fV3A-myITQM-4PD5zLz46QK5AGs-1Bbn5t3YjnpySlBmpYSgpU3D1yXOyrBpmwOdQSbOTWIkvdt3njvVKE0O_CXze0HGFgsGr3FiDdUrGZzsZ4XGn2FAPM75LxdZ_nHXknZUMKH4iOzavXUE0AZOxgC0AhEVJzvaBjEE2WQ8cs38c7srhj24jIHl1faQRC8L4Za9i4GWp8Holp_2P2ZaRd7CpTamyYjeqKLAg.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 IRCF | اینترنت آزاد برای همه</h1>
 <p>@ircfspace • 👥 97.1K عضو</p>
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 00:22:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 00:46:48</div>
 <hr>
 
 <div class="tg-post" id="msg-2554">
@@ -307,7 +307,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -330,7 +330,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -438,7 +438,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -796,7 +796,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2522">
@@ -1666,7 +1666,7 @@ alirezashirazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 48K · <a href="https://t.me/ircfspace/2469" target="_blank">📅 07:36 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.1K · <a href="https://t.me/ircfspace/2469" target="_blank">📅 07:36 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2468">

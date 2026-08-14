@@ -292,7 +292,7 @@
 <a href="https://t.me/naya_foriraq" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اخبار ؛ امن ؛ دراسات ، خرائط ، OSINT ، تسريباتلا تظن الإدارة الأمريكية انها قادرة على إسكات شعوب المنطقة والله لن نسكت .. يوما ما سوف نعيد أيام عماد مغنية وسوف تبث العملية على هذة القناة ..🪪للمراسلة وارسال الاخبار@Nayaforiraq_bot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 00:22:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 00:46:48</div>
 <hr>
 
 <div class="tg-post" id="msg-87806">
@@ -306,7 +306,7 @@
 </div>
 <div class="tg-text">🇺🇸
 ترامب عن إيران: كان لديهم 212 طائرة جميلة جدًا، بعضها تم شراؤها من الولايات المتحدة، وبشكل ذكي، في عهد أوباما. جميع طائراتهم اختفت.</div>
-<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/naya_foriraq/87806" target="_blank">📅 23:59 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.32K · <a href="https://t.me/naya_foriraq/87806" target="_blank">📅 23:59 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87805">
@@ -320,7 +320,7 @@
 </div>
 <div class="tg-text">🇺🇸
 ‏ترامب بشأن إيران: قريباً سأعلن مضيق هرمز أرضاً تابعة للولايات المتحدة، يجب أن نمنع إيران من مواصلة أنشطتها الحالية.</div>
-<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/naya_foriraq/87805" target="_blank">📅 23:57 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.85K · <a href="https://t.me/naya_foriraq/87805" target="_blank">📅 23:57 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87804">
@@ -328,14 +328,14 @@
 <div class="tg-text">🇺🇸
 الاعلام الاميركي: ‏
 الوضع بين الولايات المتحدة وإيران مستقر.</div>
-<div class="tg-footer">👁️ 5.89K · <a href="https://t.me/naya_foriraq/87804" target="_blank">📅 23:48 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.68K · <a href="https://t.me/naya_foriraq/87804" target="_blank">📅 23:48 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87803">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">🇺🇸
 ‏ترامب بشأن إيران: قريباً سأعلن مضيق هرمز أرضاً تابعة للولايات المتحدة، يجب أن نمنع إيران من مواصلة أنشطتها الحالية.</div>
-<div class="tg-footer">👁️ 8.27K · <a href="https://t.me/naya_foriraq/87803" target="_blank">📅 23:28 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/naya_foriraq/87803" target="_blank">📅 23:28 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87802">
@@ -350,7 +350,7 @@
 <div class="tg-text">🇺🇸
 ‏ترامب بشأن إيران
 : قريباً سأعلن مضيق هرمز أرضاً تابعة للولايات المتحدة، يجب أن نمنع إيران من مواصلة أنشطتها الحالية.</div>
-<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/naya_foriraq/87802" target="_blank">📅 23:24 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/naya_foriraq/87802" target="_blank">📅 23:24 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87801">
@@ -364,7 +364,7 @@
 </div>
 <div class="tg-text">🇮🇷
 We are the king of Hormuz</div>
-<div class="tg-footer">👁️ 9.68K · <a href="https://t.me/naya_foriraq/87801" target="_blank">📅 23:14 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/naya_foriraq/87801" target="_blank">📅 23:14 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87800">
@@ -372,14 +372,14 @@ We are the king of Hormuz</div>
 <div class="tg-text">🇺🇸
 ترامب
 : سأضرب إيران اقتصادياً بقوة .</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/naya_foriraq/87800" target="_blank">📅 22:49 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/87800" target="_blank">📅 22:49 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87799">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">🇾🇪
 مشاهد من احتراق السفينتين في المخا، بعدما تم استهدافهما من قبل أنصار الله.</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/87799" target="_blank">📅 22:15 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/naya_foriraq/87799" target="_blank">📅 22:15 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87798">
@@ -393,14 +393,14 @@ We are the king of Hormuz</div>
 </div>
 <div class="tg-text">🇾🇪
 القوات المسلحة اليمنية استهدفت سفينتين كانتا راسيتين في ميناء المخا.</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/naya_foriraq/87798" target="_blank">📅 22:10 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/naya_foriraq/87798" target="_blank">📅 22:10 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87797">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">🇾🇪
 القوات المسلحة اليمنية تستهدف ميناء المخا من جديد.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/naya_foriraq/87797" target="_blank">📅 21:49 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/naya_foriraq/87797" target="_blank">📅 21:49 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87796">
@@ -420,14 +420,14 @@ We are the king of Hormuz</div>
 : هل استمرت مهمة الانتشار لفترة طويلة جدًا؟
 ترامب
 : لا. لا. لا. لم تكن طويلة بما يكفي على الإطلاق.</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/87796" target="_blank">📅 20:54 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/87796" target="_blank">📅 20:54 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87795">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">🇾🇪
 انصار الله اطلقو خمسة صواريخ  على ميناء المخا.</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/87795" target="_blank">📅 20:46 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/naya_foriraq/87795" target="_blank">📅 20:46 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87794">
@@ -435,21 +435,21 @@ We are the king of Hormuz</div>
 <div class="tg-text">🇮🇱
 الاعلام العبري
 : أميركا وضعت فيتو على طلب إسرائيلي بقصف أهداف في سوريا.</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/naya_foriraq/87794" target="_blank">📅 20:45 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/naya_foriraq/87794" target="_blank">📅 20:45 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87793">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">🇾🇪
 انصار الله اطلقو خمسة صواريخ  على ميناء المخا.</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/87793" target="_blank">📅 20:38 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/87793" target="_blank">📅 20:38 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87792">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">🇾🇪
 مشاهد جديدة لميناء المخا وهو يشتعل بفعل الصواريخ انصار الله.</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/87792" target="_blank">📅 20:33 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/naya_foriraq/87792" target="_blank">📅 20:33 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87791">
@@ -463,14 +463,14 @@ We are the king of Hormuz</div>
 </div>
 <div class="tg-text">🇾🇪
 قصف صاروخي من انصار الله جديد يستهدف ميناء المخا</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/87791" target="_blank">📅 20:28 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/87791" target="_blank">📅 20:28 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87790">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">🇾🇪
 استهداف مباشر لميناء المخا معقل تمركز العصابات المنفلتة الغير شرعية في اليمن .</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/naya_foriraq/87790" target="_blank">📅 20:16 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/naya_foriraq/87790" target="_blank">📅 20:16 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87789">
@@ -484,20 +484,20 @@ We are the king of Hormuz</div>
 </div>
 <div class="tg-text">🇾🇪
 استهداف مباشر لميناء المخا معقل تمركز العصابات المنفلتة الغير شرعية في اليمن .</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/naya_foriraq/87789" target="_blank">📅 19:59 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/87789" target="_blank">📅 19:59 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87788">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">الشيخ نعيم قاسم:  - من يراهن على الاستسلام إنما يراهن على سراب ولا يعرف المقاومة جيداً بأنها تتحمل وتصبر هي وأهل المقاومة  - اتفاق الإطار الذي ذهبت إليه السلطة اللبنانية ليس لا اتفاقاً ولا إطاراً  - اتفاق الإطار هو إملاءات إسرائيلية بالحبر الإسرائيلي تُوقّع…</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/87788" target="_blank">📅 19:23 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/87788" target="_blank">📅 19:23 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87787">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">🔻
 كلمة مرتقبة للأمين العام لحزب الله الشيخ نعيم قاسم اليوم الجمعة عند الساعة 18:30 بمناسبة ذكرى الانتصار يتناول فيها آخر التطورات.</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/87787" target="_blank">📅 19:16 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/87787" target="_blank">📅 19:16 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87786">
@@ -506,14 +506,14 @@ We are the king of Hormuz</div>
 <div class="tg-text">🇮🇶
 🇾🇪
 وزارة الخارجية العراقية تلتقي ما يسمى بـ"السفير اليمني" التابع لمرتزقة السعودية وتعرب عن تضامن العراق مع الشعب اليمني خصوصاً في ظل تصاعد الأحداث بين أطراف النزاع وما نجم عنها من خسائر بشرية.</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/naya_foriraq/87786" target="_blank">📅 19:11 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/87786" target="_blank">📅 19:11 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87785">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">🇮🇶
 الاستخبارات العراقية تلقي القبض على (23) أجنبياً حاولوا الدخول بصورة غير قانونية إلى البلاد عبر المياه الاقليمية العراقية وباستخدام الزوارق البحرية السريعة.</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/87785" target="_blank">📅 18:58 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/naya_foriraq/87785" target="_blank">📅 18:58 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87784">
@@ -521,14 +521,14 @@ We are the king of Hormuz</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iVub8QdMzOTVGTCWOv1v7C4BcGM9cwYC5Jr732IDI-AXw5NeKOvd8JWTK_XFUzfW0qUer_Rq-K-UvElDbBR44nfgjMjfzziyfuheKyQXtTvlkkdz-oZBvpCRG8R4spx0v9gs4rNK6fJXswRPtJoI3MTTuuGheD6Y_Ot7L_PV3O7cYpG19N1BhACXY_CiM0gNvmjM36zRKf71xcHOLDJ9PRpfOvJQ6EpJyIgIub-FAMxB1W43zSv9amyWgnbA0g9qwhOzzx0HjgavyibeH7zp1UU3owrfe6xpZ0Tf4MYAXeluYquRG1pos0VD87bs-XfkCI9ZuDWbw5MFRzNZqV6JoQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔻
 طيران مسير مجهول يجوب منطقة البلديات في العاصمة العراقية بغداد.</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/naya_foriraq/87784" target="_blank">📅 18:33 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/naya_foriraq/87784" target="_blank">📅 18:33 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87783">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">🇮🇶
 شرطة البيئة العراقية تكتشف كهفاً في صحراء الأنبار، بداخله نهرٌ يحتوي على أسماكٍ نادرةٍ جداً عمياء بلا عيون.</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/87783" target="_blank">📅 18:21 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/87783" target="_blank">📅 18:21 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87782">
@@ -536,7 +536,7 @@ We are the king of Hormuz</div>
 <div class="tg-text">🌟
 🇺🇸
 ‏محكمة الاستئناف الأمريكية تقرر ايقاف مشروع ترامب لانشاء قاعة الرقص في البيت الأبيض بكلفة 400 مليون دولار</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/naya_foriraq/87782" target="_blank">📅 16:46 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/87782" target="_blank">📅 16:46 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87781">
@@ -545,7 +545,7 @@ We are the king of Hormuz</div>
 <div class="tg-text">🇮🇷
 منصات التتبع:
 شوهدت اليوم ناقلة نفط عملاقة تابعة للشركة الوطنية الإيرانية لناقلات النفط وهي تقوم بتحميل مليوني برميل من النفط الخام في رصيف أزارباد في جزيرة خارك بإيران. ‏رغم أن هذه أول عملية تحميل تُشاهد في الجزيرة منذ نهاية يوليو، إلا أن إيران واصلت تحميل ناقلات النفط في محطات أخرى. ومع ذلك، يبدو أن إنتاج إيران من النفط يتماشى تقريبًا مع إنتاج مصافي التكرير (الاستهلاك المحلي)، مما يعني أنها قد لا تحتاج إلى تصدير كميات كبيرة.</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/87781" target="_blank">📅 16:45 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/87781" target="_blank">📅 16:45 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87780">
@@ -556,39 +556,39 @@ We are the king of Hormuz</div>
 ‏
 ترامب:
 لقد تعرض نصبنا التذكاري الجميل لحرب العالم الثانية للتخريب بالطلاء. لا توجد إهانة أكبر من هذه لأبطال أمريكا الذين ضحوا بحياتهم في الحرب العالمية الثانية. أولاً بركة المياه العاكسة، والآن هذا. نحن نتعقبهم! من أين يأتي هؤلاء المتوحشون؟</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/naya_foriraq/87780" target="_blank">📅 16:25 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/87780" target="_blank">📅 16:25 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87779">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">وزارة الخزانة الأمريكية: الولايات المتحدة ستفرض على إيران عزلة اقتصادية غير مسبوقة</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/naya_foriraq/87779" target="_blank">📅 16:00 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/87779" target="_blank">📅 16:00 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87778">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">وزارة الخزانة الأمريكية: الولايات المتحدة ستفرض على إيران عزلة اقتصادية غير مسبوقة</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/naya_foriraq/87778" target="_blank">📅 15:58 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/87778" target="_blank">📅 15:58 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87777">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">🔻
 كلمة مرتقبة للأمين العام لحزب الله الشيخ نعيم قاسم اليوم الجمعة عند الساعة 18:30 بمناسبة ذكرى الانتصار يتناول فيها آخر التطورات.</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/naya_foriraq/87777" target="_blank">📅 15:15 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/naya_foriraq/87777" target="_blank">📅 15:15 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87776">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">اكسيوس:  في الأسابيع الأولى من الحرب مع إيران، كان بعض أقرب مستشاري ترامب مقتنعين بأن ترامب سيدعم نتنياهو في الانتخابات.  في ذلك الوقت، كان ترامب يُطالب بشدة بالعفو عن نتنياهو لإنهاء محاكمته الجنائية.   لكن مع مرور الوقت وازدياد تعقيد الحرب، بدأت مصالح ترامب…</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/naya_foriraq/87776" target="_blank">📅 15:07 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/naya_foriraq/87776" target="_blank">📅 15:07 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87775">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">📰
 اكسيوس: تشير غالبية استطلاعات الرأي حاليًا إلى عدم فوز نتنياهو. الرئيس الأمريكي ومستشاروه يدركون ذلك. وحتى الآن، لم يُبدِ ترامب لنتنياهو الدعم العلني الذي يأمل في الحصول عليه، رغم تكرار سؤال الصحفيين له عن ذلك.</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/naya_foriraq/87775" target="_blank">📅 15:06 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/naya_foriraq/87775" target="_blank">📅 15:06 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87774">
@@ -596,19 +596,19 @@ We are the king of Hormuz</div>
 <div class="tg-text">📰
 اكسيوس:
 تشير غالبية استطلاعات الرأي حاليًا إلى عدم فوز نتنياهو. الرئيس الأمريكي ومستشاروه يدركون ذلك. وحتى الآن، لم يُبدِ ترامب لنتنياهو الدعم العلني الذي يأمل في الحصول عليه، رغم تكرار سؤال الصحفيين له عن ذلك.</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/naya_foriraq/87774" target="_blank">📅 15:05 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/naya_foriraq/87774" target="_blank">📅 15:05 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87773">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">الله اكبر</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/naya_foriraq/87773" target="_blank">📅 14:49 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/naya_foriraq/87773" target="_blank">📅 14:49 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87772">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">الله اكبر</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/87772" target="_blank">📅 14:49 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/naya_foriraq/87772" target="_blank">📅 14:49 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87771">
@@ -617,7 +617,7 @@ We are the king of Hormuz</div>
 ‏
 رئيس لجنة الإعلام الأمني العراقي:
 التحقيقات مستمرة لتحديد مكان إطلاق المسيّرات باتجاه أربيل ولا مؤشرات على إطلاق المسيّرات باتجاه أربيل من داخل الأراضي العراقية.</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/naya_foriraq/87771" target="_blank">📅 14:32 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/naya_foriraq/87771" target="_blank">📅 14:32 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87764">
@@ -634,13 +634,13 @@ We are the king of Hormuz</div>
 <div class="tg-text">🇮🇷
 صور لطائرات مسيرة وطائرات مقاتلة أمريكية إسرائيلية تم تدميرها بواسطة
 الدفاعات الجوية الايرانية</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/naya_foriraq/87764" target="_blank">📅 14:22 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/naya_foriraq/87764" target="_blank">📅 14:22 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87763">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">مسلحين يهاجمون وزير الداخلية في إقليم بلوشستان الباكستاني في منطقة مستونغ.</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/87763" target="_blank">📅 14:16 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/87763" target="_blank">📅 14:16 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87762">
@@ -648,7 +648,7 @@ We are the king of Hormuz</div>
 <div class="tg-text">الله أكبر
 🔻
 إستهداف سفينة "ناقلة نفط" في مياه مضيق هرمز والنيران تشتعل فيها.</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/naya_foriraq/87762" target="_blank">📅 12:54 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/naya_foriraq/87762" target="_blank">📅 12:54 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87761">
@@ -657,7 +657,7 @@ We are the king of Hormuz</div>
 وزير الخارجية الروسي
 لافروف:
 لن يكون هناك هدنة في أوكرانيا. موسكو لا تنوي إيقاف العمليات القتالية على خط التماس الحالي.</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/naya_foriraq/87761" target="_blank">📅 12:39 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/naya_foriraq/87761" target="_blank">📅 12:39 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87760">
@@ -666,7 +666,7 @@ We are the king of Hormuz</div>
 <div class="tg-text">الله أكبر
 🔻
 إستهداف سفينة "ناقلة نفط" في مياه مضيق هرمز والنيران تشتعل فيها.</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/naya_foriraq/87760" target="_blank">📅 11:30 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/naya_foriraq/87760" target="_blank">📅 11:30 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87759">
@@ -675,7 +675,7 @@ We are the king of Hormuz</div>
 المتحدث باسم لجنة الشؤون البرلمانية في مجلس النواب الإيراني:
 تمت مراجعة مشروع "الإجراءات الاستراتيجية لتأمين مستقبل مضيق هرمز وخليج فارس" في لجنة الشؤون البرلمانية، وبعد الاستماع إلى الآراء، تم اعتماد مبادئه العامة.
 أحد القرارات التي تم اتخاذها يتعلق بمنع مرور المعدات والمستلزمات التي تملكها الولايات المتحدة وإسرائيل والدول المعادية عبر مضيق هرمز؛ وذلك لأن هذه الدول استخدمت مضيق هرمز لتنفيذ أعمال عدائية ضد بلدنا، وارتكبت انتهاكات وهجمات غير أخلاقية ضد الشعب الإيراني.</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/naya_foriraq/87759" target="_blank">📅 11:20 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/naya_foriraq/87759" target="_blank">📅 11:20 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87758">
@@ -736,7 +736,7 @@ We are the king of Hormuz</div>
 <a href="https://cdn4.telesco.pe/file/ba4fbc1059.mp4?token=AjbBlgQu3_is7Ij9D0UmJXTmHo-nNSJnBiuuuOFLLDj6n0RJs0s_Y_sToTF6L2goqgZ5pH8fpsDlp6bB3oJbgJlpzSLe-qL_EJgc_F1UUc-u-p_57IPAdDCJ-8VqDg6ZS3UtlkckjM_Uy16TCn9f12GzP9v4HP-Q4C2WKgi5roSCgAIQIfVnFFsjdN8XzFUQp16qlYCRoR3ZVS_6loZ8M4wjOGQldNWtpmKRZHTKwKyVM_y2YQFMdX4ek9iJ7tnNTlE6CkWh-YQyWgmR1pAyMW8YNoH83LeQHtLTdduN7r0DYNlA8Umu8_UxQGGeFW8eZXAB7wQYXdjN8pPWO_R4mw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">استهداف فندق يتواجد بداخله عناصر من القوات الأمريكية في أربيل شمالي العراق</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/naya_foriraq/87752" target="_blank">📅 03:04 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/naya_foriraq/87752" target="_blank">📅 03:04 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87751">
@@ -768,13 +768,13 @@ We are the king of Hormuz</div>
 <div class="tg-post" id="msg-87749">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">الله أكبر</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/87749" target="_blank">📅 02:58 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/naya_foriraq/87749" target="_blank">📅 02:58 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87748">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">الله أكبر</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/naya_foriraq/87748" target="_blank">📅 02:58 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/naya_foriraq/87748" target="_blank">📅 02:58 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87747">
@@ -800,7 +800,7 @@ We are the king of Hormuz</div>
 <a href="https://cdn4.telesco.pe/file/4e026876dc.mp4?token=urTT6j8o0iU6j07Yd_uX4oL0Y-TEPIOq3ETqCPVa8iMFFFJyyObwfYEdppTfjDqcDZqWx9OM746zYrzlw3H4B2IU_BAPjXoxhKi55Rz7DQlbNcKhJGwheBh7p0edaPIxZZFw1Ob_3kPe0rj5jrUug4FQ_29Nza5AwUdDtM-LwmQN4Q9kSVjQkcq7UnCLf6ISWpStRnjSzOqh7xX3_k4grGA0RdNyJl9TNR2xmmYDP-hzttQoYjfDC8DHnrVq01KrPBAsedFnd54DibhKL4jkXaIoJ18I5HN_RbzawxZ80e4O4ESNtNCgliPuSVCVZQFCdbYK-Dgf3IPpZXsQ02qjNA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">هجوم عنيف بالطائرات المسيرة الإنتحارية يستهدف مواقع الانفصاليين في أربيل</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/87746" target="_blank">📅 02:53 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/naya_foriraq/87746" target="_blank">📅 02:53 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87745">
@@ -826,7 +826,7 @@ We are the king of Hormuz</div>
 <a href="https://cdn4.telesco.pe/file/557c261eaa.mp4?token=KUNt4erueYHJMfDpcL6vPZFU3qLQmI6D18f-JfEnEB_QYrDVqCKnvvRTuZDEBzFwrdwmPAFtn-_6v9OOak0XJRzqTWUq0yGpLbhfjs5QzhNrzASoJLYFxxzCTyoGCmdWZdqViRduzGpW57eK6Z-NF_myabEOwF9woB4NFaRu8MqRtDWKnjzT4NM-AJqX_NPUth4Nw8kmpiUaFkHV2GEcDAYmwNeB5xgtm-m0p2Bm8yo_CNTl4e8cJ72FrKfY-LvhlWjuLdiWdBg64raT4zhNY3wr_zMIxrHOPBh_aOQ9RM5zNrnNnu9QMmDAz9cypkBQBicK8TaGYkm2XQlONik22w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">استمرار طائرات مسيرة في التوجه نحو مقرات</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/naya_foriraq/87744" target="_blank">📅 02:52 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/87744" target="_blank">📅 02:52 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87743">
@@ -871,13 +871,13 @@ We are the king of Hormuz</div>
 <a href="https://cdn4.telesco.pe/file/cf3518d796.mp4?token=sOARB31MylyDqPCH4lim1TggUBvYUoGf0Wzg0wv2RT44dJWDV5nmzWafkX5OLNZ0ge8LCJDNK2vnMIffXaToqJ8Xl12UzcZ3sCbmLhApddQInaRiEQygO4y8-1hpKSz_OPLkWUDyE0T8TTnoHSGTR3GjlbcUTv-7i2iaKp8zEjpzTns4q_uzJUaQsvf-fdQw84OkgqEodxVaq3ei0MutGrtMyM4DZqwhXR_m_4pcPQ2KrezP-iZt0ubeTOiKsAHrLw_jdRaOyaVFMDKhLjQ1Xq_lM7R5gLk3O4Q8Kg2TYsTUMzvVZOMoUKeUisXiT3wRx2B6sBA4fxLuKqvlj7bnTQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">إنفجارات في محافظة أربيل شمالي العراق.</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/naya_foriraq/87740" target="_blank">📅 02:48 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/87740" target="_blank">📅 02:48 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87739">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">إنفجارات في محافظة أربيل شمالي العراق.</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/87739" target="_blank">📅 02:48 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/naya_foriraq/87739" target="_blank">📅 02:48 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87738">
@@ -904,7 +904,7 @@ We are the king of Hormuz</div>
 🕒
 الزمان: الساعة الثالثة ظهرًا
 يدًا بيد من أجل أمن بابل واستقرارها، ورفضًا لكل خطاب يدعو إلى الفتنة والعنف والطائفية.</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/naya_foriraq/87736" target="_blank">📅 01:52 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/naya_foriraq/87736" target="_blank">📅 01:52 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87734">
@@ -915,7 +915,7 @@ We are the king of Hormuz</div>
 </div>
 <div class="tg-text">🇮🇶
 إشادات شعبية في الأوساط الحشدية بمواقف مدير المكتب السياسي لمنظمة بدر، ودفاعه عن سلاح فصائل المقاومة العراقية.</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/naya_foriraq/87734" target="_blank">📅 01:50 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/naya_foriraq/87734" target="_blank">📅 01:50 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87733">
@@ -924,15 +924,15 @@ We are the king of Hormuz</div>
 ‏
 وزارة الحرب الأميركية:
 نراجع حاليا استراتيجيتنا النووية</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/naya_foriraq/87733" target="_blank">📅 01:50 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/naya_foriraq/87733" target="_blank">📅 01:50 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87732">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fSQ5cLzvdjznYHGeLPDuK0_ldpc_BpwG8p1ouywwF3fibgwgZBq0Mb-iZNge4hL-M1ntsiVxPIuT7N2Dga5-NIYPYr1oFpFHaD2LiqzIt82pNb8lbjPyP9Ien7LD2eGYGFJhECgd6VmvGBsZzHspk0VcK7b8gOnRIpSzYo2OizJV1X4kbeL_h3y9ZFGHxfx5_ocdqI4Jy5qTBWeLgBjk2uc606Aa73OXhkF7J0rFpbDQSAeASm_ZriuGDjMqcF4ncwb-fa-lfN_DSwNBc7uEqPieMX_jg1bn8SCJQtLhwrDZnw8xTb_5e0ExPQ_LxapaGfBXW05Yc2PxvZ-UpSTTcw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aEnAD-yy15lobdckLK5LZtzSb6xX6xtPZ2xVkDLLepvLWXL2ipkH4YUywCJu1MDTEnEh8gzvL8UD4__8dUrnxHoc1wlixkXXDdTxKrri4mOk57AM_8_P0sKh4jYvB8_YUTjIfxoZICYm-KQ-Jeqz7egKAih1586DNzfgsT4P_cp_e9-KM-kXfjxZgb6y-dvnLpzu5lf6IDv9WbA5NMmGR-gUv9RVf40lyOPGRiELVXT1y12_8XILhlQEKumb28Jjbe1Z2sq9Z3I5zHiVOGi7-6WmX7uPYgHGO2_Q9LExjB0U7r6qqIJYFVSDt1JYtlhsaQYzFDD8CbQEU4EY5WxvLA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇶
 الأوساط الثقافية والسياسية والإعلامية العراقية ترحّب بتكليف الدكتور عباس العنبوري وكيلاً لوزارة الخارجية ..</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/naya_foriraq/87732" target="_blank">📅 00:59 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/87732" target="_blank">📅 00:59 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87731">
@@ -948,7 +948,7 @@ We are the king of Hormuz</div>
 ‏
 نائب الرئيس الأمريكي فانس بشأن إيران:
 هذا الأمر ينتهي بنا في موقف قوي.</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/naya_foriraq/87730" target="_blank">📅 23:50 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/naya_foriraq/87730" target="_blank">📅 23:50 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87729">
@@ -991,7 +991,7 @@ We are the king of Hormuz</div>
 </div>
 <div class="tg-text">🇾🇪
 مشاهد لصواريخ الباليستية التي تم اطلاقها من قبل انصار الله نحو الاهداف الحيوية في مناطق تمركز عصابات السعودية في اليمن.</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/naya_foriraq/87725" target="_blank">📅 21:41 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/naya_foriraq/87725" target="_blank">📅 21:41 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87724">
@@ -1055,7 +1055,7 @@ We are the king of Hormuz</div>
 <div class="tg-text">🇮🇶
 الناطق باسم القائد العام صباح النعمان:
 رئيس الوزراء العراقي وجه بإنشاء صندوق لتطوير الدفاع الجوي العراقي.</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/naya_foriraq/87718" target="_blank">📅 20:42 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/naya_foriraq/87718" target="_blank">📅 20:42 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87717">
@@ -1095,7 +1095,7 @@ We are the king of Hormuz</div>
 <div class="tg-text">🇺🇸
 الاعلام الاميركي:
 الجيش فقد 45 مسيرة إم كيو 9 في الحرب مع إيران ما يعادل نحو 25 % من أسطوله.</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/naya_foriraq/87712" target="_blank">📅 19:28 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/naya_foriraq/87712" target="_blank">📅 19:28 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87711">
@@ -1204,7 +1204,7 @@ We are the king of Hormuz</div>
 مقر خاتم الأنبياء المركزي:
 الادعاءات الأمريكية الزائفة حول حركة السفن الاعتيادية عبر مضيق هرمز، والتي تعكس اليأس والعجز للجيش في ذلك البلد، ليست سوى أكاذيب.
 نعلن أن مضيق هرمز، كما هو الحال دائمًا، يخضع للإدارة والسيطرة الكاملة للجمهورية الإسلامية الإيرانية، ولا يمكن لأي سفينة تجارية أو ناقلة نفط العبور بأمان عبر هذا المضيق دون إذن ومراقبة القوات المسلحة الإيرانية القوية، ولن يتمكنوا من ذلك.</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/naya_foriraq/87698" target="_blank">📅 15:39 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/naya_foriraq/87698" target="_blank">📅 15:39 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-87697">
