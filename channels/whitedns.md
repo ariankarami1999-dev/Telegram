@@ -292,7 +292,7 @@
 <a href="https://t.me/whitedns" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 گروه :t.me/whitedns_groupادمين :@WhiteDnsChatBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 01:16:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 01:43:19</div>
 <hr>
 
 <div class="tg-post" id="msg-1473">
@@ -303,7 +303,7 @@
 ⚡️
 ⏯️
 تماشا در یوتیوب  https://youtu.be/EAjOhvuMw8Q</div>
-<div class="tg-footer">👁️ 6.93K · <a href="https://t.me/whitedns/1473" target="_blank">📅 21:53 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/whitedns/1473" target="_blank">📅 21:53 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1472">
@@ -315,7 +315,7 @@
 ⏯️
 تماشا در یوتیوب
 https://youtu.be/EAjOhvuMw8Q</div>
-<div class="tg-footer">👁️ 7.68K · <a href="https://t.me/whitedns/1472" target="_blank">📅 21:35 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.89K · <a href="https://t.me/whitedns/1472" target="_blank">📅 21:35 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1471">
@@ -333,7 +333,7 @@ https://youtu.be/EAjOhvuMw8Q</div>
 •
 دانلود آخرین نسخه CoreForge برای آیفون
 @whitedns</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/whitedns/1471" target="_blank">📅 18:18 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/whitedns/1471" target="_blank">📅 18:18 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1470">
@@ -407,7 +407,7 @@ https://t.me/NotHolidaySeasonBot/app?startapp=tr_aFLKAgxVq8ezM310c0sS
 📢
 کانال:
 t.me/UacSniSpoofer</div>
-<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/whitedns/1470" target="_blank">📅 15:32 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.97K · <a href="https://t.me/whitedns/1470" target="_blank">📅 15:32 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1468">
@@ -439,7 +439,7 @@ t.me/UacSniSpoofer</div>
 @WhiteDnsResponder_bot
 🔗
 @whitedns</div>
-<div class="tg-footer">👁️ 9.85K · <a href="https://t.me/whitedns/1468" target="_blank">📅 11:32 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.89K · <a href="https://t.me/whitedns/1468" target="_blank">📅 11:32 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1467">
@@ -448,7 +448,7 @@ t.me/UacSniSpoofer</div>
 <div class="tg-text">Coming soon............
 WhithAester desktop
 😍</div>
-<div class="tg-footer">👁️ 9.59K · <a href="https://t.me/whitedns/1467" target="_blank">📅 09:57 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/whitedns/1467" target="_blank">📅 09:57 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1466">
@@ -457,7 +457,7 @@ WhithAester desktop
 پروژه WhiteVPN رو اوپن‌سورس کردیم و در گیتهاب میتونید بهش دسترسی داشته باشید.   https://github.com/WhiteDNS/WhiteVPN  همراه با پابلیک شدن پروژه، نسخه ۱.۳.۱ هم ریلیز کردیم
 ⛏
 در این نسخه امکان • آپدیت اتوماتیک اپ  بعد از یک ورژن جدید • امکان routing برای…</div>
-<div class="tg-footer">👁️ 9.39K · <a href="https://t.me/whitedns/1466" target="_blank">📅 09:38 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.43K · <a href="https://t.me/whitedns/1466" target="_blank">📅 09:38 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1464">
@@ -467,7 +467,7 @@ WhithAester desktop
 پست قبلی پاک شد. یک آپدیت کوچیک داشتیم به ورژن ۱.۳.۱
 😆
 از این به بعد آپدیت هارو اتوماتیک از داخل اپ میتونید بگرید</div>
-<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/whitedns/1464" target="_blank">📅 08:58 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/whitedns/1464" target="_blank">📅 08:58 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1459">
@@ -503,7 +503,7 @@ https://github.com/WhiteDNS/WhiteVPN
 • تست سرعت به سابسکریپشن اضافه شده
 دانلود نسخه جدید از گیت‌هاب
 https://github.com/WhiteDNS/WhiteVPN/releases/tag/v1.3.1</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/whitedns/1458" target="_blank">📅 08:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/whitedns/1458" target="_blank">📅 08:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1449">
@@ -584,7 +584,7 @@ https://www.youtube.com/@WhiteDNS
 ممنون از همراهی همیشگی شما
 تیم
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 6.67K · <a href="https://t.me/whitedns/1448" target="_blank">📅 11:33 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.68K · <a href="https://t.me/whitedns/1448" target="_blank">📅 11:33 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1447">
@@ -1095,7 +1095,7 @@ https://github.com/WhiteDNS/WhiteVPN-Desktop/releases/tag/v1.0.4
 آموزش فیلترشکن رایگان و امن با استفاده از متد های MITM و Serverless
 مشاهده در یوتیوب
 https://youtu.be/VYfQePhgEUU</div>
-<div class="tg-footer">👁️ 63.6K · <a href="https://t.me/whitedns/1418" target="_blank">📅 01:54 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 63.7K · <a href="https://t.me/whitedns/1418" target="_blank">📅 01:54 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1416">
@@ -1664,7 +1664,7 @@ https://t.me/networkti/516</div>
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">📱
 آموزش ساخت رایگان، شخصی سریع پروکسی تلگرام کاملا رایگان و بدون نیاز به سرور   https://youtu.be/epG70Xl1xGI   @WhiteDNS</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/whitedns/1374" target="_blank">📅 11:08 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/whitedns/1374" target="_blank">📅 11:08 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1373">
@@ -1680,7 +1680,7 @@ https://t.me/networkti/516</div>
 آموزش ساخت رایگان، شخصی سریع پروکسی تلگرام کاملا رایگان و بدون نیاز به سرور
 https://youtu.be/epG70Xl1xGI
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 60.6K · <a href="https://t.me/whitedns/1373" target="_blank">📅 09:52 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 60.7K · <a href="https://t.me/whitedns/1373" target="_blank">📅 09:52 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1371">
@@ -1704,7 +1704,7 @@ Location: Israel
 🇮🇱
 cottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoidC5tZVwvV2hpdGVETlMgQ290dGVuRE5T8J-HrvCfh7EgdGh4IHRvIEFyYXNraGF0YXJlIiwic2VydmVyIjp7ImRvbWFpbiI6ImlzLmFyYXNraGF0YXJlLmdnZmYubmV0IiwiZW5jcnlwdGlvbl9rZXkiOiIyMjRiOWU4MjVlMzFkNWY0IiwiZW5jcnlwdGlvbl9tZXRob2QiOjF9fX0
 @whitedns</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/whitedns/1371" target="_blank">📅 23:28 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/whitedns/1371" target="_blank">📅 23:28 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1370">
@@ -1981,7 +1981,7 @@ https://github.com/WhiteDNS/WhiteDNS-Android/releases/tag/1.6.0
 سرور تست CottenDNS
 cottendns://eyJzY2hlbWEiOiJ3aGl0ZWRucy5wcm9maWxlIiwidmVyc2lvbiI6MSwicHJvZmlsZSI6eyJuYW1lIjoiQ290dGVuRE5TIiwic2VydmVyIjp7ImRvbWFpbiI6ImMuYmFtYWsueHl6IiwiZW5jcnlwdGlvbl9rZXkiOiIyZGRlYjlkZjJjMmJhNGQzIiwiZW5jcnlwdGlvbl9tZXRob2QiOjN9fX0
 @WhiteDNS</div>
-<div class="tg-footer">👁️ 69.5K · <a href="https://t.me/whitedns/1347" target="_blank">📅 10:39 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 69.6K · <a href="https://t.me/whitedns/1347" target="_blank">📅 10:39 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1346">

@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 01:16:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 01:43:19</div>
 <hr>
 
 <div class="tg-post" id="msg-7482">
@@ -308,7 +308,7 @@
 دیدن اطلاعات بیشتر
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 915 · <a href="https://t.me/ArchiveTell/7482" target="_blank">📅 23:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 949 · <a href="https://t.me/ArchiveTell/7482" target="_blank">📅 23:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7481">
@@ -321,7 +321,7 @@
 💯
 ⏰
 زمان‌بندی استفاده رایگان: امروز از ساعت 12:30 تا 20:30 به…</div>
-<div class="tg-footer">👁️ 1.35K · <a href="https://t.me/ArchiveTell/7481" target="_blank">📅 15:52 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.36K · <a href="https://t.me/ArchiveTell/7481" target="_blank">📅 15:52 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7480">
