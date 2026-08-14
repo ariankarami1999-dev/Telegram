@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-23 18:42:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-23 19:41:56</div>
 <hr>
 
 <div class="tg-post" id="msg-2554">
@@ -307,7 +307,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -346,7 +346,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2550">
@@ -377,7 +377,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2548">
@@ -392,7 +392,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2547">
@@ -406,7 +406,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2546">
@@ -423,7 +423,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
@@ -438,7 +438,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -466,7 +466,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2542">
@@ -482,7 +482,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 47.2K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
@@ -527,7 +527,7 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2538">
@@ -592,7 +592,7 @@ AmirMahdi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/ircfspace/2535" target="_blank">📅 20:03 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30K · <a href="https://t.me/ircfspace/2535" target="_blank">📅 20:03 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2534">
@@ -751,7 +751,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 42K · <a href="https://t.me/ircfspace/2526" target="_blank">📅 19:22 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/ircfspace/2526" target="_blank">📅 19:22 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2525">
@@ -994,7 +994,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/ircfspace/2511" target="_blank">📅 18:55 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/ircfspace/2511" target="_blank">📅 18:55 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2510">
@@ -1521,7 +1521,7 @@ github.com/Jigsaw-Code/Intra
 
 <div class="tg-post" id="msg-2477">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NhfQCHgSGuTkZd9Ty-SAVU7TOKSa_-AyVCQobaACaLHcrmWqxMp4h7G2idnKUeU_1gO89pspMZYhbkDqpsiLt7V_GEdMmXbmO6NVmsKo9TOFOP2cNuo7aKwbGB2_Fux_1kOIYQH17EgasaBNsgszO31qoMgtNkO3KIVZYJxCv1V2mKC6Xa3Auqb3C7Z1MIjeVSQK-MKf8t3u-1rNilQIr-ZOjZekcIQHyR5KHPYwTHG5ugc6hFNzxVRocB8GCkvqIF3cgKtnRIPKBUn5rO3bIguDPOJdoeCeBL3oEQKiKY96s0qcFi77mGWvkyRvBEI8ySwwGF-GuY8_wNXbZEnR_A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uYX2coi4d6d9JcfVzLovc4_6Tpc7x8IqfofGrejZ_HrMitiVl6UveihsDWElOChDyy6WDDvG0BEEYrgYc5tx241v9FyKhLqmh1_Ju6zI7LskdkC-RInuIt3AEFSGEJJm0YYbnqIQJoR0XkyrNAQvGd-Mynp3lEMnqea6QeR3BIbsxx50pl7u_YPNELFJW2JStjBT39w1cVD47CAnvWXTHMbIIp7o7UbH3r9Z42WaLFmVmq_Qq0qlWrNyaZqXgqxbCc1NLZYrZT_ZDAF7DfdYcvkh919F56Zg4MiECe-a541Y2zG_7zFtdAcuvMZJ_63fqlkIIxZF4oQXGMpekAXmjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محققان Datadog میگن مهاجمان با استفاده از بیش از ۵۰ حساب قدیمی و غیرفعال گیت‌هاب و توکن‌های دسترسی (PAT) افشاشده، از طریق API گیت‌هاب در حال جمع‌آوری اطلاعات سازمان‌ها هستن تا برای حملات بعدی آماده بشن و ساختار داخلی، اعضا و ریپازیتوری‌های اونهارو شناسایی کنن.
 توی بعضی موارد هم تونستن ریپازیتوری‌های خصوصی رو کلون کنن. به گفته Datadog، چون این کارها با حساب‌های واقعی و API رسمی گیت‌هاب انجام میشه، تشخیصش از فعالیت عادی توسعه‌دهنده‌ها کار راحتی نیست.
 ©
@@ -1538,7 +1538,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2476">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oexKBThL0i_upVW_JF2p5vJ-j2-5u9-2U_wjmjpNbqkhuTVlBZUZsrmsFtvWtpHOBtUntolHonaZvV5lVWrgrfT8Ryt0DP3s5-X6dhv45DCDiRJ82qZ0-gq_GUeUX12MI7n1mDIk03rMm4sdrTctAXC65OoUJMbZgZmUpP5WbLlMLWdcr2dcXGwfN05eMXKdSRkFT0TZsNMaJ-fJIJL6ELfSaKier166fx3TYxQ4rc1dVk76N6HgmyZ_CW1cQv0I9J62RRizwHjzqnH5WmS5dsUewkS37meMHS_pr-LXbmqG_RE0YtWHxDXOPyFkDI2D8Ofk_K5ELuD0mpXMX93UCQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PbTeMwFSkPzw2rH5DGbUCLoY5V8-CoYI1F9AITd6GPVU_UgfUoFnPPkkUsqd4RPZdkiqbT8ADKtqKXoJfe9VGGPSdmb9dQVni6slqHqlBdbSYmBESwVgd_71jalNjfCA4jiv4DSyHTiFBKs16myVVOPcUPk4Yua8Yksnq47-zzsCQjRqrup51KfToSaugGyMkWOkcvhZE6zYr0cN8vmAH-ZQLcKQHcyxwBQyMmR64uKj9_LOIovEtbp7FofPOKWht3CznyxZ8QDll-I6PDBYG4A2ZOI7YfjKDmi99TaxdXa5KwR-uG_SVrYT0_bXdqgUJxMHxFN4ypinN5qm3D_xoQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که "کدوم مدل هوش مصنوعی خطرناک‌تره"، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.
 به گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس
 🔗
