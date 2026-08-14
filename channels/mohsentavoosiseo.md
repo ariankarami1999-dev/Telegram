@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/LOU06tU1fjFycF20AJ3RjIH9k4GIm9scg3K-0XNnOpQsXwTIasP42tdQo2ACN88IYEhZl8uPCw9s0OAxI6WYljx5uswcCvjOl_oJMqes7YdakQo3nFq1uFyKtdhOEud_Si-M02hJXEv7L688gbPmttWKv0YkF31P_zfIHm3Q8QgMH_8X0dvDPxH2spf5lKVblMQxPxwH5_QW63lYMiu9XCr9hN7MantHPOymK7bmjb-Qs9XnmwV3bZrnaAWOlqhomac8tPi629ko0SDuL5kTP5-8T9HAsLt9ri_LET7sJBC6mM1uaNxqDtSSUGi0RidDGeiFDWD5IY1LheVX3MIvlg.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/glMseQaK8iM_oivytgk_gGbefSTLXzAXfC5vIs52WeaQRPPw8HN3N0PA99BYwKh57aE7r5odU3qdB8Mih_OkfPW22YYQjsTaDk1INPglaRAEu3Q10TUc03k3EPPmB4L6n1ZtQ_YTHRQqmvf_a_qbOG38gDYm1DC-az_VdL1hSObkFdVzdBILGyP3BlA2OkBlIggirq7n9yEOdPkcWscWlebo7XFREgiI9RXfc6G9Cn3flqIgZSqWperXvR8rhQwWUs3Da1YIBjphCiTX0ACWuhsIVMaOvk5lTD6s81hu7UUFCc6ci6bDrE-ygZLEQ1dmzne2Ml4Y_gmRgAx8wYXu1g.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو با محسن طاوسی</h1>
 <p>@mohsentavoosiseo • 👥 7.81K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-23 03:02:24</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-23 04:40:56</div>
 <hr>
 
 <div class="tg-post" id="msg-890">
@@ -365,7 +365,7 @@ booking.com
 @mohsentavoosisupport
 پیام بدید. من نیستم پشت این اکانت. بچه ها هستند.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 702 · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 708 · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-889">
@@ -558,7 +558,7 @@ Claude Cowork
 <div class="tg-post" id="msg-877">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.16K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-875">
