@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/pz4eWB4BGX9_Lgt4eApK6bYSBcIRA0QemnumE8VjeerLF9c4S84tNKCDUirGLJWESlaU_YS1knPetbdY1QMqxLBYwOJC86R7led_-jS7-sQbcpfNT765S8LpQN8XiH9QDn3vNQQ9UUSRjjKR_m66qwKLKpt25kYPKHS__v3320zPcQv7RHMA1QytbGhjtO7bSJeLvocVXxDQS0hrnKEaHiyLTMH5y4oQ2RF1gflA0yfjR5rV_i-O9ZMkHxOqsN6lTiatFawqD6NUyuFixUsT-UIUDvfxNXHKKVyF4Oe9UW5XS4dHWrTUo4asJ9h-alL5fINLdRYGOKXO-zMDJqmXXQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/OzIuXDWqT1ymkUPISImmfrT2imi4L6E4lzOUyiE0aRZSRUvmwcny73LRrjomtQnx-nsKAdH7zhZDRXptGsfrI-5OuwtbWTMqr9RSmdgJGkwYwOZzDL4gZQL3OwPaz42U4mYtDLeGXFLnhqmv06VlL6w-hQE2bOJVJ-hiLGW2wPrgCO2z9ys4KBW6MH2SUPkV_gpBQ0qWHZLMmzsPJq7G0iZP4ksIMKkkmYiPz2xXpYTwKJXIbq8ZT2XUdZJJcUqS1pIRxgoPEg5ykyYTu92TC-dgJ7mm3nj-kbuOPiBaoSHIN-k7bze-wpzEcnX1-Jxctu0PaRChP8QzbgKSRhXzCQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p>@iaghapour • 👥 52.4K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-23 11:37:16</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-23 13:02:44</div>
 <hr>
 
 <div class="tg-post" id="msg-2878">
@@ -323,7 +323,7 @@ ChatGPT Go & Plus:
 @ChatGPT_StoreBOT
 رضایت مشتری
 💎</div>
-<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/iaghapour/2878" target="_blank">📅 21:54 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.43K · <a href="https://t.me/iaghapour/2878" target="_blank">📅 21:54 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2877">
@@ -335,7 +335,7 @@ ChatGPT Go & Plus:
 ✅
 ویدیوی بعدی: ۲ اکانت
 🎁</div>
-<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/iaghapour/2877" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.03K · <a href="https://t.me/iaghapour/2877" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2876">
@@ -363,7 +363,7 @@ C2PA
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.8K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.96K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2875">
@@ -387,7 +387,7 @@ YouTube</div>
 تا امشب ساعت 24! پس تا فرصت هست کامنتتون رو ثبت کنید.
 🔻
 توجه داشته باشید برای اینکه یوتیوب کامنتتون رو به عنوان اسپم تشخیص نده و پاکش نکنه، حتماً بذارید ویدیو چند دقیقه پخش بشه و بعد زیرش کامنت بذارید.</div>
-<div class="tg-footer">👁️ 7.39K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.5K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2873">
@@ -420,7 +420,7 @@ check-host.net
 پنل مرزبان
 📚
 پنل پاسارگارد</div>
-<div class="tg-footer">👁️ 8.61K · <a href="https://t.me/iaghapour/2873" target="_blank">📅 21:10 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.68K · <a href="https://t.me/iaghapour/2873" target="_blank">📅 21:10 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2872">
@@ -443,7 +443,7 @@ check-host.net
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/iaghapour/2872" target="_blank">📅 20:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.75K · <a href="https://t.me/iaghapour/2872" target="_blank">📅 20:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2871">
@@ -469,7 +469,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.94K · <a href="https://t.me/iaghapour/2871" target="_blank">📅 17:41 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.98K · <a href="https://t.me/iaghapour/2871" target="_blank">📅 17:41 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2869">
@@ -627,7 +627,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2862">
@@ -722,7 +722,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2858">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ypulozy962czTFua-tCK8nyzuLdrODJOfuw6-lRnLSD4meyN6K49mlECsfJEcvjakUNVSdyHN-1ZAGrpiUIVNYcNQyBtvFb2WqlnnILAxBUWAb2aoNc0IpnuZr-nQZZ5hsTKke6ky1d65UbxZiLqSIWdeMnx2CXhPTnYcF0Wba5t9gVoINNbuTvosoqUan11gSBzD5D9tUvP01ENpt8y9vCaHin-gFvGgIacPIpRKAg_QwDurPXlDRV6F5FrYHYb9inqrQuclIQ0GSZ3irRgnrtcvZwBUtPHka9S7w1PNkkh8XFVhIktPgGdTyAJwdKPK1xHlD648QgJPag-UgwEJw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/h3rs4os5dcL4j5L1LYAF6mgRwFgpA9dWGAcQZTETAE-gMs2omMSOpybNyhZGoilpord7tPzjxsrJxuAiJXOSh-K8aRdk0H9HZpvJ4G0VrqwlPY-7d7mpLLKq3WSt1nc8aWgm8wSy02Hu4ZCheWxwR7werD0SQr094tMGRGOgGVvLZXfjGaiD2jwCSfzl1sXnMZSlM_CkQFjBuA-kvHo23M_uUgryXdGFp_f74kuZ23d-x7sxsD8WGGM3urS3PpXnUDNjBHxplSsQRmVAyqT5OkYnrT4rSkChYHHqTHFyVOkjhFw1D0sxgHqVtJKL5dDqSxtz9haTaPBYx0uWm_TQwA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 کمپانی OpenAI ابزار ChatGPT Translate را راه اندازی کرد
 شرکت OpenAI سرویس ترجمه اختصاصی خود را در آدرس به‌صورت رایگان و بدون نیاز به ورود به حساب کاربری در دسترس قرار داده است.
@@ -772,7 +772,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2854">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HlByQwHDBWFW3hGGcIenyyGU6-fo_2T08p7azLRJ5wwXF4Ivxc20NlS7lPwXDCdPK6vDpTtEmObSde4Tw5i5Kr4y0EPi7eYD0C1OFrMQ7quBAGINuJB9Louxk1e9M2guo13kkAMX97BVR_3-fULX2gM0hGQFHj8Cu9I6Vdseh9-YUkDbDj-LpfRDewj1kU27l2WXodLqwSHVRDXk__z3WaBoxDVFO9_W90Nv2IV58RSFMLBrIqGhHoFG97reJXQXoIAais92ejH_NdimEXd_OgOEZJ1qBc3sd4fEIcjaECpxq8mH67sqPg7IHHatPXSWpZMtr78VqnmzPBEQwX_dbQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/S6IGmIbRzarVsTB-to-iKV7xhimK-FN6IvWtRisOAMTBFjyyM1SK9jkO0ayvuXqJW_mLsXRYBIjEUbk9olACjZilNurIVuCipgZ3wh4U50mrG9Hva6BoCHAVGn6RRMy7WpaPZvf_o1jOIjlgeDm355yANH5kJGITBgLFylFNA5hB6ew7WHF2rdhnyZNDPXd_IWXgk6eOCLC5G33nZN9wth7WVqbZPZwQnsiSCAArjYAbnTz2FvbjJlhnwsiCOx5mK4rOid7DdXxpjlPLKevvrlIqMQyqmUig_jJLXOJ8H61_l-l7gXKdV05ggTCfN5dPgGbSh5YDrF1k3cxQ67iu1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>
@@ -877,7 +877,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2848">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FqbqwMuEr1NSUViznNQJE5T06neYD7NF7fSKRpNJXkNjpRfwUiNaM5ED9z4Q9XSrSC64bcR7_UuzBFiWpKwouB_o1yMMB8pnX0gha3Wh6IbVhCL1MzqylDIrjBNkPHBc2Q1GKAceAjlUxImzkc1WLuL2QQHobAOLN9HqxfC0VfqHIe4AelFby-BRJzHVLNNUy0ybmd9HeTpSLVg_0NjYNJde1KPBHbTfH4Cgim5epuiHGTHFvpm1PvvjvGFm1rzv4g6VQ_Qyx_oPSDG0xbYKm90FGHdEWFWfRll6rv-UPBsCaqQJe7obROroLIW_rrcejYH58d1xSAY6NDlaqF9Z3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eHIQJOWEyyzZ6kCHt4IODAAutwWc2dd7GO1fMYqRUGZfy29K4gX_qZx2JQFx_DlLLB_wnuqZOqYF_GIgrg-Lfuhas_GByzRbrWg_4ud5c8BhSjx3ImC6_fpjEvZtGmr3FYahkNL73VBGe_1s34lXRgdD_KGMj5TeR2gZzHgBViJXMAq9c23QwpNmOu9rTZmV8fXlajaTXHZ6JZnDSBWvgYx1R3TTPPtbcK_-tMhiqk9LAELeGrUYtjMHATqkHR9r2m-Yg_0zeLveirDJLoqdbuJXMUl_QwbvEEjcCHxeyrIgLa6FXrzzXfqVw0ICgbWQ_oe363vP2_E6wVdNU8C2pw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎮
 خرید تاریخی ۵۵ میلیارد دلاری؛ الکترونیک آرتز (EA) به دست عربستان افتاد!
 ناشر بزرگ بازی‌های ویدیویی،
@@ -964,7 +964,7 @@ ToRouter
 یهویی این همه آدم باهم دیگه اشتباه میکنن پس. شاید همه باهم دیگه دارن توهم میزنن‍!
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/iaghapour/2845" target="_blank">📅 15:29 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2843">
@@ -1081,7 +1081,7 @@ Xray-core
 
 <div class="tg-post" id="msg-2837">
 <div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QxMHqwxi7kLrmbfdCQEGTmSNJ6vGS8EJ3OpQHj0yhVoNeyn-JSj70Eu80Dvues3FqGJCTqOBrYVUetFhjr6ZIydmon3kIA_QKEDrk18xrdaEaisyKtnvrcoG9wj1EwSpgbQYi95ZpHh462x-H-kbgwW7UnwkVCxbtlmBWD-3lFjaOijqXfL3t9TN02y6_km1RqN6Ju4hG42_U4iJ7dkZ4yMiPZKD0mLpcLeOOhnoy7f8Y_0NJEJm8VNPYkegZEXN7eSPsVMnD-T5TDV9bSA5k-6T_mAb0woQ9AAJGJi1SjphEfg42Ona8nAfWyUzfujuOECuE2hCiBALchGDgldJ6A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MnNj6LnRVrKMujMT6l2YKgxtBQOer14EeuS_kJ4UggqoVHOCnkiMVvr5Yg4ITlgIdvSTDl6vYZYgx9iAGbKhxRHSPP87sMVdY9fsSFPX8DsOlsgB_WEiD4JpHgrWpIUNMMg_EPM6GuHUdNEkUojcN-bi7tdb8mKQ12XND_Glt8Jjs8XlFQOTKE3z4NMx9pYrse5qmK7CyVKyFgtXs2GSsJowSWvgSTC7ZY5CLvMgumwCdTN2IoSTm1e6BQFCK8wQLd7c8JGVyCw-2OwSUgLp5b4d30h0s1k91Mw0VPtfvQbs09LHe-uvJ_aOjET_MtAXM4niLijOSTtpag0es3Aiew.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 معیشت بیش از ۵۰ درصد کاربران ایرانی به اینترنت وابسته است
 یافته‌های جدیدترین نظرسنجی ملی مرکز افکارسنجی دانشجویان ایران (ایسپا) آمارهای قابل‌توجهی از ضریب نفوذ اینترنت و اهمیت اقتصادی آن در کشور ارائه می‌دهد:
@@ -1122,7 +1122,7 @@ Xray-core
 با وجود این موضوع، توسعه‌دهندگان ساکن این مناطق به‌دلیل عدم امکان احراز هویت، نمی‌توانند اپ‌های خود را در بازار بین‌المللی منتشر کنند. با اجرای این طرح، اپ‌های توسعه‌دهندگان ایرانی فقط روی گوشی‌های مستقر در مناطق تحریم‌شده به راحتی قابل نصب خواهند بود. اگر کاربری در اروپا یا آمریکا بخواهد برنامه‌ای از یک توسعه‌دهنده ایرانی تأییدنشده را نصب کند، با سد محکم سیستم‌عامل مواجه می‌شود./دیجیاتو
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2832">
@@ -1158,7 +1158,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 
 <div class="tg-post" id="msg-2831">
 <div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Fkz-yfSYzf0LBRu26JlYU6mKMHocH-AVYX98BrT0PAqENNvVghJtkH8aF8rE01YBuZQBMhD4sDhDz2onWh12lRGamK2NA6x0EZ81DuEldP44MhJ-aCHjf1HhZqjIC-AHQvuSeqBtTP51Cwp_vdsMesAnQ2SPF3JQFfzt7QKR0e_MmhNZDyVWfT7bxzVTsIcSjAsNliiLR9oamw7JKVTw7C3TcAblwEruzd4GlCZzl-Z6mCtuUqlcFyp6moc8L7J1jf9E_MrRKzQSSWOVNhoQNj8UZ5_ttWQigyrBebA560si56VAN5t9Xj4k0lsINk9LcPxdwd_OlGKizfWXy7MTig.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bEtNZyxG1K5O8oiC9Dy-Zz9_uBrhrkhvHdjky2tvMcidWC-RvH7ug8iaoIaFV4YnHm4DVu5hOVcQLEpUM3516NzQlQsn58hPKc8aWQNC7MUpdfDmrXu1O65v7lEBOtEvnMSBMeoGPrfcUyciHyOddB4BWja0X0em9KXzzVoWI7dhawC-RiOJqI3qupOoRwVjbncpuKICpZcMcxkZQ3dm08xwfPvpoesA_u8dVpiCC6NPaCxJXH6SUL_1j35QaNo0FIfOGb70qNq4au8aIGbUQoZtc_hqG4g2xwUYGu1-1Lulo3naueCG5LRQC837v4vZkj_JvjGSKpfP4z21u8cmdg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 امنیت حساب اینستاگرام در صورت استفاده از VPN
 تغییر مداوم موقعیت جغرافیایی (IP) هنگام اتصال به VPN، سیستم‌های امنیتی اینستاگرام را حساس می‌کند. اگر ورودها غیرعادی تشخیص داده شوند، احتمال قفل شدن یا محدودسازی موقت حساب وجود دارد.
@@ -1363,7 +1363,7 @@ KelpDAO
 🔥
 🔹
 تو این ویدیو قراره با هم یاد بگیریم چطوری یه فیلترشکن شخصی فوق‌العاده با استفاده از پنل پاسارگارد بسازیم. این پنل از 2 هسته Xray و وایرگارد ساپورت میکنه و همینطور از قابلیت نود هم پشتیبانی میکنه.…</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/iaghapour/2819" target="_blank">📅 17:05 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/iaghapour/2819" target="_blank">📅 17:05 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2817">
@@ -1485,7 +1485,7 @@ Claude Opus 5
 آقای حمزه حوتی عزیز، مبارکتون باشه!
 ✨
 آقا حمزه لطفا برای دریافت جایزه‌تون و هماهنگی‌های لازم، از طریق…</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/iaghapour/2811" target="_blank">📅 17:54 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2809">
@@ -1902,7 +1902,7 @@ LangOver
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2783">
@@ -2344,7 +2344,7 @@ Nova.app
 
 <div class="tg-post" id="msg-2749">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/iaghapour/2749" target="_blank">📅 20:48 · 18 Tir 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/iaghapour/2749" target="_blank">📅 20:48 · 18 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2748">
