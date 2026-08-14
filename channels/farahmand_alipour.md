@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64.4K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-23 08:55:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-23 10:20:50</div>
 <hr>
 
 <div class="tg-post" id="msg-6558">
@@ -304,7 +304,7 @@
 <a href="https://cdn4.telesco.pe/file/dea4168e97.mp4?token=M6CzRIqyg4ICwVOp6wIcy7goRUkS9heIOuRgzCYG5gaMfPVQzqzj8f19Ic-TSgdSU9qZo5hLWQXQYolCmU3VtYMie3303BUEEmx83QfjmnS0WE6Gfu25SVJSfVZn5NiZ6aOauETTVPvL9PpexGsgid3poHiHHnXzOkJH_VimKJ-Hr6EnJ0ajs5SD06oK-APv_qYB9aoBKwhUFxYQctyLRUZi-LQeBNLBbGxS_F0biusxGgNBRCTKcyUsCh1vs4OxJLxWdJrbplvJavd6R2PllQyc-rCniX4oRQIOPU_gAFhA1RGFju5UQ0hIqLUS8lnZv7KTcZjxVQdwbc_cevxA1g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">دیشب هیئت‌های عزادار چوبدار تبریزی و یزدی در مشهد، پس از مقداری عزداری برای امام رضا، همدیگه رو چوبکاری و سنگ کاری کردند.</div>
-<div class="tg-footer">👁️ 1.29K · <a href="https://t.me/farahmand_alipour/6558" target="_blank">📅 08:42 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.26K · <a href="https://t.me/farahmand_alipour/6558" target="_blank">📅 08:42 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6557">
@@ -317,7 +317,7 @@
 <a href="https://cdn4.telesco.pe/file/08352cf997.mp4?token=HIpZkecyjlswLl1I9n6eWU_PXqTPdGcQs9nzWDgl1h7A9sUm2Am5UbcsAQlmOVtpMuYglGXmzotofbFzjhrQ68smFjoidsI7YQfM_IN3ZX381HMShOPf0TsCq7zVWVgfYUxXpL0qzXdI05p8UYzR0GOlpWiQjHlCXaYxl2p9e5UxF1Yjnq9-vLgT5BeOabKvPXYnvrNJ2Y1I6pVvuGjzRXRa-23TzMwq_3ogbogmy5hNTD5tHUdjFq20fMygOhXlMZ_YeBmC3-vOxYNGMdOVR7p4lZfX7zGrkE67vBLoilq9YQiOGZqDPMkUPutL7xQhJqqwPtUNVCbU7ao7eOXkMA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">از نتایج حملات موشکی جمهوری اسلامی در تنگه هرمز،</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/farahmand_alipour/6557" target="_blank">📅 23:18 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/farahmand_alipour/6557" target="_blank">📅 23:18 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6555">
@@ -330,7 +330,7 @@
 <a href="https://cdn4.telesco.pe/file/c212d95b13.mp4?token=O1_p8wpk8d825BO6UCX2hCigJwul7281ltIAiQ1uDwGAIH0XCPjDlBQg6Hd4wIS3t517sau9z67MIRpC1Y1CxIarSFx3_Un9d9dQCmfaCrQ8jNsLst5CbON3XShKXnARFqypRPj0SnYRrLtjAkHtykZKjZv9MsZKHqjLs-8y_s19fL5-UOMKVBBuRPWXh0MkvtQr8zpm_XARRKsXhGPBv7qb6Ti3die8xGcPQ8A26vk5TRdmLchOg8ua5VB8l7VVes2iN62mjZEj4h4b1QtTHviaOb-EZnveZ_Eb3YXnYECi_7-cAeUVKRWQ--C9atAyJBQVudsgwqOYLpxK76RDEg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">یک نسل دیگر ،  با بیماری و سوتغذیه در ایران بزرگ خواهد شد.</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farahmand_alipour/6555" target="_blank">📅 23:17 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/farahmand_alipour/6555" target="_blank">📅 23:17 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6553">
@@ -346,14 +346,14 @@
 <div class="tg-text">ارتش اسرائیل در حال خلع سلاح
 (محو سلاح) گروه تروریستی حزب الله لبنان
 اون چیزهایی که دود می‌شوند و به هوا میرنپولهای ملت ایرانه که صرف خرید سلاح و تسلیح این گروه تروریستی شده.</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/farahmand_alipour/6553" target="_blank">📅 20:01 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/farahmand_alipour/6553" target="_blank">📅 20:01 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6552">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ixqchdPXuTArqJNK3_zh6Ggm8Uw7xNqNx2VZw8zNTGe92I6YSy3bEHIFx-_R3R9yQQA1qegQkVLqX4xK2Y7MVdomnmpl86sF2VwHGWkSeDBNj7H0OhLY9buN6cy7WzfXABDrgucQEJMKl4pcEy_T7Dktbggnuij9YeHIO7YMp820ZjYhbxU611SsaK_MZ8G5b8pj_jmiQCPp4RMpJ8ke7-eUDjExQqKPInuHg016NU8m1IkGxS3rNPNX4xgCDuPYaz9hcilT01oAl9U0feLT5qf6TbPTxaeibtufs-LO_SvKycYiiwxx21kuVsbt1cOxTM_vc1iFU0gM_PvGqFDWyA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gZJd5mdJLZcoBbHrOZLmlLpxJGfYFiroZAUZy59hTWo91kAukuJ58VtFMvW7cqgh9XG6DyZIx7cRrm5NBsuAA6yja8GyLHXfvPa7mpMx6Tn_TLL-E1qq3b8PmGagKL9kgtG9WZLAjYnTooR7eXUm7ZokvTonAPBI7J3GXh2gVZtFHr-ifJU8Kk4v2xNNK6kN0lf-P-l1msmj9OiWtDL0YI4y44BEZ2hCeoS-38q5wB3QqaKKf4d0_nAPo4rc-EQdLxIJRZVTChM4rZ8RmrbjCyHqeMM5T0_ExTbFm-o4iXMl6v2maRgqUrZQxtVtpUlfmpZ2oVbgR3eqMTUitILGxA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ظاهرا اون موشکی که زاکانی گفته بود دقیقا به خونه‌ مجتبی خورده بود و خودش از اهداف حمله بود، باعث ناخوش‌احوالی مجتبی شده و گفتن پول واریز کنید  زخمش خوب شه.</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/farahmand_alipour/6552" target="_blank">📅 10:33 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/farahmand_alipour/6552" target="_blank">📅 10:33 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6551">
@@ -361,18 +361,18 @@
 <div class="tg-text">🔺
 آمریکا در آخرین هفته‌های سال ۲۰۲۵ (قبل از شروع جنگ ۴۰ روزه) حدود ۳.۹ میلیون بشکه نفت در روز صادر می‌کرد.
 این میزان در ماه می، به رکورد ۵.۷ میلیون بشکه در روز رسید، یعنی افزایش ۴۳ درصدی صادرات نفت.</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/6551" target="_blank">📅 10:29 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/6551" target="_blank">📅 10:29 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6550">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">وقتی ترامپ در ترکیه بود اعلام کرد که با «ایرفورس وان» ترکیه را ترک خواهد کرد.  جلوی دوربین‌ها وارد هواپیما شد،  اما بعد از درپشتی خارج شد و با یک هواپیمای نظامی ترکیه رو ترک کرد!  نگران از تهدیدهای جمهوری اسلامی.</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/farahmand_alipour/6550" target="_blank">📅 10:28 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/6550" target="_blank">📅 10:28 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6549">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RZAS8hiAKSGNNmaPjwtV4BX1NqmK0gUECxTQvx5GAbab0ba-_Nt7Ufd9yObbS-jtjxGzu_y3EwAPv6FBktiMDXmehG6CHX7kqvovYHiiWm3bagvOyNzLZv1-is-WPZ9oYMdH9i9rNqDdXHK87b2Hjtqd1KRXvfYYoCxuldSpLuxNNSrL69vcw-7jGm0Mr1RjT0VLOkJ-9Z5zXUAqTdZ3WWZMB87NvTmsu_1PacY_4zw2Gd1kg59cPSXWmXFRDdroCblVmavW1IvF5CjxSnhEynADxIMUiykOD5LtsIqahcFsNEpmjrFgwD5HuyJGAF98sdwVG54amM2okCx_nb6uHg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uZ_kiQkmCH5xpIUfQsJxkeQsNskPAUnp4yYjUa2_hJPxBU8L1iaWkRvygcc_Rj33O9A9Nn_ueiMIw64ZR1D5D6VYxJAkXkkVHaoi9hlREZLqg2EoDJMyKNgZZJ9z5aW0ZqdkohR8EaKC-zklWGfWWD06vVhSzjrphUCM1XbgNei4dVLdjWMpMj6CHKe-Ip9lVzv_L4D1tIZbTuyf56Yv_18vSLjb9KIClZnoL40uW-OssLQo6J1TuqIO3erQqsPiDSVGKBIwISVnxD9Vglidzv62RSxA0pDeW4rrDlEokVg-lXDDTcwdPM38qQPgATrdpjkX8T9rhzioh1H1OzW_Sg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">لکه نفتی به جنگل حرا رسیده
 و حیات درختان این جنگل به خطر افتاده.
 اما این لکه نفتی که تهدیدی برای سواحل قشم شده از کجا اومده؟
@@ -382,7 +382,7 @@
 سخنگوی وزارت خارجه ج‌ا (بقایی) هم تایید کرد
 که این لکه نفتی ناشی از یک کشتی‌فله‌بر است،
 گرچه نگفت هنر دست خودشونه که برای بستن تنگه هرکز به کشتی‌هایی که در سواحل عمان حرکت میکنن، حمله می‌کنن.</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/farahmand_alipour/6549" target="_blank">📅 10:15 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/6549" target="_blank">📅 10:15 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6548">
@@ -398,14 +398,14 @@
 رو
 ۱۵۴۰٪
 افزایش بدن!!!</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/farahmand_alipour/6548" target="_blank">📅 21:54 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/farahmand_alipour/6548" target="_blank">📅 21:54 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6547">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WU_WkNruyvGgmMTtTtqNlKd1cclAxuFdzc9OJ-rmh5qyny1hi5mdcgdtyYZbp5z6JVaM6mNRBhmSiJEPdOiefcHewWAF0UEM4JMOclZijA5Vv-j7oSBd78J-YYA9SA05lPi9ySaAhZk0BWbEa8mVi9ogBCba1Tv5FFKXCAOgyD4ZM7OBOdCD_pAKcqkec5X9S-lbUc0nllJySqzuCmlJyTsRQdazCZ2yDDm3J3Q0YQi-vCpJuJiQDkNOPeE7Ljjo_zi5-5IuTdLL7UH1MN-hryOkXVg0wsWUsBDbLMtrm4N_gY2bgowKGZCJxDcpICRPL9kt_Rvr5EeaQ4DSm_oMfg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">زاکانی میگه : ۱- موشک مستقیم خورد به خونه مجتبی ۲- مجتبی خودش هدف بوده  ۳- زنش کشته شده!   اگه مجتبی هدف بوده و موشک خورده به خونه، قطعا همون لحظه مجتبی کشته شده!  اینها فقط برای اینکه حامیانشون رو نگه دارن، یک اسمی انداختن وسط و گفتن بیایید شعار بدید  که…</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/farahmand_alipour/6547" target="_blank">📅 15:30 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/farahmand_alipour/6547" target="_blank">📅 15:30 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6546">
@@ -427,7 +427,7 @@
 که دست اسرائیل (دست خدا) عیان شد
 و خامنه‌ای جوان شد، ولی از قرار معلوم میخوان آروم آروم بگن که دست خدا، هر دو رو از زمین برداشت.
 موشک خورده به خونه و زخمی شده  باشه :))</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/farahmand_alipour/6546" target="_blank">📅 15:11 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/farahmand_alipour/6546" target="_blank">📅 15:11 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6545">
@@ -438,7 +438,7 @@
 خورشید گرفتگی است.
 (عمامه سیاه آخوند که مانع خورشیده
 و کشت و کشتاری که پشت این عمامه سیاهه و روزگار خورشید گرفته ایران)</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/farahmand_alipour/6545" target="_blank">📅 02:18 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/farahmand_alipour/6545" target="_blank">📅 02:18 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6544">
@@ -447,43 +447,43 @@
 ‏آمریکا باید جنگ را پایان دهد، پول‌های مسدود شده ایران را پرداخت کند و جنگ در سراسر منطقه، از جمله لبنان و غزه پایان یابد
 ‏-شروطی دیگر از طریق واسطه‌ها به آمریکایی‌ها منتقل شده
 ‏-تا زمانی که همه شرایط ایران برآورده نشود، تنگه هرمز بسته خواهد ماند.</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/farahmand_alipour/6544" target="_blank">📅 00:05 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/farahmand_alipour/6544" target="_blank">📅 00:05 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6543">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/0b8763e605.mp4?token=qzSVY4n7jy51CsQaPhz5tRial4qA4whUEfak9ARLcV_Mxpy8xGKOdHfxo-jFtkU6jSa-xRt82aof7H-mT-iV7Jo6Ta7ORdCI6XfDMbi7SPNVKlX_k8SS2gvUrEcDRM7p3v0sLQSF7H-MK9KIYAmrjs_Whpl9veC9R99cEzHeh27YmLEmnrMPpdCNGmvhjwIII_ulsdsyYsz_Q4A67NeadFxfsRbFxS3PbVPrXcAfCwnBpIEyGmRZUc2SBksGe6aUjCehw68H_NEiajLClEcU73lHKOGiICYaVEdfjgHwzmGZRasKiysBOohKZLWA06PQhwvK95f1vO-7ClK1O41Nug" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/0b8763e605.mp4?token=hFEnu1UoriN2fEBpItMdRE9zcG98DdLJ_J89wfDJQBPGFQG852l04FFADNUquj4gQu_VmrfWDAlisupJ14yFn_MTywFSdU1D7LDsfvFBEcS6rDDgpVzfS9a59ggcDIO1o3v3MUKPRSPCK6Fip2GzUiA8ryNlvI_D1ERp-ban7ho9zOz92b_FWNYEpiRh4rVoxBT4kNvle1edpn4CrDl2YzNlhaT3HfrPVE-E81C4IoMxYRC6LtybUsjY5bRQ-wEWiNcWXkotO3Sstp17aZ5pGA4oDlZymA9SI_ChIx79esOr47dOKy7cEGluk8KK1a8yQ0s0YXHP5aj-TWCA5YJDDg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/0b8763e605.mp4?token=qzSVY4n7jy51CsQaPhz5tRial4qA4whUEfak9ARLcV_Mxpy8xGKOdHfxo-jFtkU6jSa-xRt82aof7H-mT-iV7Jo6Ta7ORdCI6XfDMbi7SPNVKlX_k8SS2gvUrEcDRM7p3v0sLQSF7H-MK9KIYAmrjs_Whpl9veC9R99cEzHeh27YmLEmnrMPpdCNGmvhjwIII_ulsdsyYsz_Q4A67NeadFxfsRbFxS3PbVPrXcAfCwnBpIEyGmRZUc2SBksGe6aUjCehw68H_NEiajLClEcU73lHKOGiICYaVEdfjgHwzmGZRasKiysBOohKZLWA06PQhwvK95f1vO-7ClK1O41Nug" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/0b8763e605.mp4?token=hFEnu1UoriN2fEBpItMdRE9zcG98DdLJ_J89wfDJQBPGFQG852l04FFADNUquj4gQu_VmrfWDAlisupJ14yFn_MTywFSdU1D7LDsfvFBEcS6rDDgpVzfS9a59ggcDIO1o3v3MUKPRSPCK6Fip2GzUiA8ryNlvI_D1ERp-ban7ho9zOz92b_FWNYEpiRh4rVoxBT4kNvle1edpn4CrDl2YzNlhaT3HfrPVE-E81C4IoMxYRC6LtybUsjY5bRQ-wEWiNcWXkotO3Sstp17aZ5pGA4oDlZymA9SI_ChIx79esOr47dOKy7cEGluk8KK1a8yQ0s0YXHP5aj-TWCA5YJDDg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وقتی ترامپ در ترکیه بود اعلام کرد که با «ایرفورس وان» ترکیه را ترک خواهد کرد.
 جلوی دوربین‌ها وارد هواپیما شد،
 اما بعد از درپشتی خارج شد و با یک هواپیمای نظامی ترکیه رو ترک کرد!
 نگران از تهدیدهای جمهوری اسلامی.</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/farahmand_alipour/6543" target="_blank">📅 10:33 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/farahmand_alipour/6543" target="_blank">📅 10:33 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6542">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/b31726f423.mp4?token=V26NixDAOVmB2YYwEcDO1w_n1gYAIisHBddZ53fTtq4te66bArhtJQmakzKRiMWDcHxT4vHKxuwlWJyoNhi7eSdjdhOlH-9U6aKlMdmkIFuI1O7WUzG4qySru-TNrQt_JqqM_QovwrgMr58dJUhIdMocvWBRCTFC08an3mnlNIxls6yaxnHoqiN4fzAsk6Uyfxlh9Mytcsj0NbegaAf3K3xHQpUpY9uGRdOmZEsBMwzq08hmNSANfxIHnvv8K6TGatC44lBE_SSgksJGyrJoc7Z3ShfJHHc5ziM9a4--WOK-gH6y-MMvprl82G3Ln22IK59dzs6Xe6bLCcAn5xruIA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/b31726f423.mp4?token=HnJVEEZLWJXiVtqZpOmB2dHU5YBIwB2UFPy2I8yynnsKZhwBltQBwebSUq98u81oAw_6Tvlum6DCi59iZB2eoy0mxF8HRonrbLeonPOx0oyQpbYWAtc7oLs6QBCXLoVlVbWKJ2OYk18Bxmrovtws2rhYNwWKVLXoCl-b1-8yUqdIJvc_gFmO7Cbuv2KiqTxIqdidJPVWS_F9S9RzBoEpBD_6vAKxchd87IA9lP8JmZC55n0_Hu1MJhPBigFZCCHQceNU6mOdNHZJVCjtbhUgHjgPB27GXWVdhR6cX7Ln49LFR2-ejbfxo9xUVakq8izerNLI2onbmgfBISV8jmEkNA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/b31726f423.mp4?token=V26NixDAOVmB2YYwEcDO1w_n1gYAIisHBddZ53fTtq4te66bArhtJQmakzKRiMWDcHxT4vHKxuwlWJyoNhi7eSdjdhOlH-9U6aKlMdmkIFuI1O7WUzG4qySru-TNrQt_JqqM_QovwrgMr58dJUhIdMocvWBRCTFC08an3mnlNIxls6yaxnHoqiN4fzAsk6Uyfxlh9Mytcsj0NbegaAf3K3xHQpUpY9uGRdOmZEsBMwzq08hmNSANfxIHnvv8K6TGatC44lBE_SSgksJGyrJoc7Z3ShfJHHc5ziM9a4--WOK-gH6y-MMvprl82G3Ln22IK59dzs6Xe6bLCcAn5xruIA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/b31726f423.mp4?token=HnJVEEZLWJXiVtqZpOmB2dHU5YBIwB2UFPy2I8yynnsKZhwBltQBwebSUq98u81oAw_6Tvlum6DCi59iZB2eoy0mxF8HRonrbLeonPOx0oyQpbYWAtc7oLs6QBCXLoVlVbWKJ2OYk18Bxmrovtws2rhYNwWKVLXoCl-b1-8yUqdIJvc_gFmO7Cbuv2KiqTxIqdidJPVWS_F9S9RzBoEpBD_6vAKxchd87IA9lP8JmZC55n0_Hu1MJhPBigFZCCHQceNU6mOdNHZJVCjtbhUgHjgPB27GXWVdhR6cX7Ln49LFR2-ejbfxo9xUVakq8izerNLI2onbmgfBISV8jmEkNA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">عضو فاطمیون (نیروی شبه نظامی تحت کنترل سپاه ) در تجمع افغانستانی‌ها در ایران ؛
 هر کسی گفت تو افغانی هستی به تو ربطی نداره بزن توی دهنش.</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/farahmand_alipour/6542" target="_blank">📅 10:05 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/farahmand_alipour/6542" target="_blank">📅 10:05 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6541">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">ترامپ درثروت سوشال و در واکنش به درخواست جمهوری اسلامی برای پرداخت غرامت نوشت: ‏باید به خانواده‌های صدها هزار معترض بی‌گناهی که ایران در طول ۵۰ سال گذشته کشته است غرامت پرداخت شود، چه برسد به ۵۲ هزار نفری که در همین پنج ماه اخیر کشته شده‌اند.  ‏</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/farahmand_alipour/6541" target="_blank">📅 21:08 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/farahmand_alipour/6541" target="_blank">📅 21:08 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6540">
@@ -492,7 +492,7 @@
 <div class="tg-text">ترامپ درثروت سوشال و در واکنش به درخواست جمهوری اسلامی برای پرداخت غرامت نوشت:
 ‏باید به خانواده‌های صدها هزار معترض بی‌گناهی که ایران در طول ۵۰ سال گذشته کشته است غرامت پرداخت شود، چه برسد به ۵۲ هزار نفری که در همین پنج ماه اخیر کشته شده‌اند.
 ‏</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/farahmand_alipour/6540" target="_blank">📅 21:08 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/farahmand_alipour/6540" target="_blank">📅 21:08 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6539">
@@ -505,7 +505,7 @@
 همچنین احمد وحیدی با ارتقا به درجه سرلشکری به‌عنوان فرمانده کل سپاه پاسداران و سرلشکر مصطفی ایزدی به سمت جانشین فرمانده کل سپاه منصوب شدند. در بخش دیگری از این احکام، دریادار علی عظمایی به فرماندهی نیروی دریایی سپاه رسید.
 در نهایت، حسین طائب نیز پس از کشته شدن غلامرضا سلیمانی، به ریاست سازمان بسیج مستضعفین منصوب شد. «گسترش فرهنگ بسیج، تقویت شبکه اطلاعات مردمی و مقابله با تهدیدات نوین» از مهم‌ترین ماموریت‌های محوله به طائب اعلام شده است.
 @indypersian</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/farahmand_alipour/6539" target="_blank">📅 20:05 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/farahmand_alipour/6539" target="_blank">📅 20:05 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6538">
@@ -513,14 +513,14 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eQ2T3reqIs-wekxGqFJtaiGdYmImDNMfQ_OOTDirBwQmkirbqdclitmQiGVKEwvtCY5VpLd3SuQsFp8j-60NY4LXJcH81hZb2UJc7RZDrQSr5XzhvYaVsOhZSHtlXDyYCl1PoQYn88-GwGTq7nprbP8Vv4iK6F0zCI0EcsVs7MgUb0Le2BImEZ2B9RLs7zOd2gaO4HNRN2Q6Py-IB35j1EtAeezgMe5t1dyKrEkSNV-6MTYYsym-Fa1PZRDr6XLFw-E3KlSR7zZRIXG0hGyUWIP8cq-IzDZiHkcmOBdHDWWs-1Nfg4sEnmAdKdMAZmGkrKA4TeEn0xalSVRgcjdNcA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکله بندر عباس
 اصلی‌ترین دروازه وارداتی کشور</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/farahmand_alipour/6538" target="_blank">📅 12:06 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/farahmand_alipour/6538" target="_blank">📅 12:06 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6535">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">🚨
 شرکت ملی نفت ابوظبی از حمله موشکی به یکی از شناورهایش در تنگه هرمز خبر داد.</div>
-<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/farahmand_alipour/6535" target="_blank">📅 15:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/farahmand_alipour/6535" target="_blank">📅 15:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6534">
@@ -536,7 +536,7 @@
 ‏سردار کوثری: شمخانی برای جلسه فرماندهان در بیت بسیار اصرار کرد
 ‏سردار رادان جلسه را نیامد و سردار پاکپور هم نمی‌خواست جلسه را بیاید اما دستور شمخانی برای حضور بود؛
 ‏وزیر دفاع با معاونینش در جلسه حاضر شد؛</div>
-<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/farahmand_alipour/6534" target="_blank">📅 10:23 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/farahmand_alipour/6534" target="_blank">📅 10:23 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6533">
@@ -557,7 +557,7 @@
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/frEhci4jemGUO6SsiNPRiVC85Oq1mtSAwY9EZBJfOxSLJPI3l4nvzvgKJy7RDCTB7pa3lTiwjJhPVpYGxngZRuhZXDlHz0EWiMVnUbXyZuJ_wFWOe7ELm_fSv1ZA5IFWd7WzZMdc1Cgk-XM84gQAYa5OgjsCZjPSik7x3osXG7aCRcIt6DFV4pK56TMRI5-xAN8p34Nr1NheiyZoJe63agKoh9Tc0z0-cCOo9glDVz9M3tCC9-SNrwziVRZrGkbBkBP7KvVDh5Q0faqboRQ6RrbBZsIuBEQUs6EBjz7jqAEBaZclYDf3OpCRwynV_T_iFFvbbtpDZAq9ZcM_jmrBSQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی دیگه از ریشه‌ها هم به این جریان برمیگرده  که پیامبر اسلام از نسل اسماعیله  و یهودیان جملگی از نسل اسحاق!  تمام پیامبران خدا،  یعقوب، یوسف، موسی، هارون، داوود،  سلیمان، عیسی، ایوب، یونس، دانیال،  ذکریا، یحیی و …… همه و همگی از نسل اسحاق هستند! پسر برگزیده…</div>
-<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/farahmand_alipour/6532" target="_blank">📅 15:14 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.5K · <a href="https://t.me/farahmand_alipour/6532" target="_blank">📅 15:14 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6531">
@@ -591,7 +591,7 @@
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nJrWNiE6kpRbXyHosNbbnLUIuMBMgpCmjvcQLldh-xKpHRY8h307AO9h4WO2Msl8pOq3I2IXZsdZXJyNyvcP8a8w058Q6ngEtyiDGJbqm-lXPXEr9zyuhR4s2fQxB2YylylFv12Jy27UCErxnD1CPdy3bSrOgmh7kErf6igaUOV72Izq_wUOHkgBlM8ymPsR9O6aZI9MoQSv7wIpM251XGwnbGn70xuylDsTccncYJfJhbJQaWizuQ3Shw2noTJ0BhcS93WpyE4zOu5rgdZHG_gqMO6UFzyVGmgoN5hTKmfCtDtCmbZq5DaMrAYPKxWMIm9sr1Y4hCkVwVrDqAvQYQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اختلاس‌های ۳-۴ میلیارد دلاری!  خودشون  که هر سال یکی از اونها افشا میشه  به کنار!  بیش از ۳۰ میلیارد دلار هم در سرزمین سوریه ریختند و شکستی مفتضحانه هم خوردند و اومدن بیرون!</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/6527" target="_blank">📅 14:34 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/6527" target="_blank">📅 14:34 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6524">
@@ -669,21 +669,21 @@
 راهبردی شکست‌خورده است.
 واقعیت‌ها را بپذیرید و به تعهدات خود عمل کنید.  ما به نمایش‌های بیشتری نیاز نداریم.
 - فهمیدن حمله به کشتی‌ها و زدن زیر تفاهم‌نامه نمی‌تونه براشون دستاوردی داشته باشه ، از ترامپ میخوان که مذاکره کنند.</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/6519" target="_blank">📅 22:30 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/farahmand_alipour/6519" target="_blank">📅 22:30 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6518">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M5iWFysM5Mz1CHXM02n7JbkPsi0G807Rxtyri1SHHxiZcc8YQfBCPSh5NN-8oLqvwYSUYwlZsIO23JwYm8p9xLRsB7zfRqeyK6GZ6QD_GzhBp4VxtsJVFEL1hs8_YTMdEwFnwLwEpWB9T-sHb2jnVjINQp_ki6jYOjBU-XKBakLGgx3BVwkl-8bNT0ElltLy774awwHH_d8-VGM5bHO6bdT7hH_NJvYukyCCA-ORcQ9hhgwQ2VSQeifyQ6vfTdfrYo91ERdtEgJBoDAUXebHsWFbSH3WNlds1BtbwwJukWANoQRvGfMShxcgOYxqHLxjziexXprvB1OMwx1ianb5sw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جمهوری اسلامی به امید بالا رفتن قیمت نفت و فشار به ترامپ، زد زیر تفاهم نامه  و حمله به کشتی‌ها،  که با اقدام به موقع دوستان خودشون  در حزب کمونیست چین،  نقشه‌هاشون نقش بر آب شد!  خدایا عظمتت رو شکر!  اما در عوض برنامه آمریکا در پاسخ  به اقدام جمهوری اسلامی…</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/farahmand_alipour/6518" target="_blank">📅 15:31 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/farahmand_alipour/6518" target="_blank">📅 15:31 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6517">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/v4_4iEWgFUVShgj3CO894LPxxKivp_K2o6Gzbi_ZPKkYXa8M9rgu30ME_ioKd1LLDdkW6bpFhoH8IxVEjgwPek3_kleoDkdw5Pi750LFh8cOxaHJ9sBq3exkdKRiB17hq8SbMisCl7WgRDI38UhayCm1FgS8jryRdHYs4Z2tTPKJU5T1E2f15NPYNfWNBHMiGpA_2evPdkCCUaQwc1det87mafb-qQtTbJqVU6TNXaioJJ4neZYXEjVQbOfADHwvLIvg4a-lZqGSDbfx-NtypZdOzthmHpExHYE8FsqcIzrIk8JrTKfjB9Y9qpYjki_O9zaIB52rGkEdhN5AXQa23Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نکته دوم : افزایش تولید نفت کشورهایی چون امریکا (که رکورد تا یخی زد)، کانادا،  برزیل، قزاقستان، ونزوئلا و….. است!  نکته سوم ترامپ!  و به نحوه مدیریت ترامپ برمیگرده!  بازار نفت به شدت حساسه به اخبار  و به انفجار و ناامنی و جنگ و…..!  خیلی وقت‌ها قیمتش «روانی»…</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/6517" target="_blank">📅 15:24 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/6517" target="_blank">📅 15:24 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6516">
@@ -729,7 +729,7 @@
 <div class="tg-post" id="msg-6511">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">محمدباقر خرازی، دبیرکل حزب‌الله ایران، در اظهاراتی درباره مجتبی خامنه‌ای گفت تفکرات رهبر کنونی جمهوری اسلامی «خیلی تندتر از پدرش» است.   خرازی افزود سال‌هاست با مجتبی خامنه‌ای رفاقت نزدیک دارد و جلسات خصوصی بسیاری با او داشته است.   او همچنین با اشاره به اعتراض‌ها…</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/6511" target="_blank">📅 14:42 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/farahmand_alipour/6511" target="_blank">📅 14:42 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6510">
@@ -794,7 +794,7 @@
 <div class="tg-post" id="msg-6504">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">آسوشیتدپرس: مذاکره‌کنندگان ایران و عمان پیش‌نویس توافق درباره تنگه هرمز را نهایی کرده‌اند؛ اقدامی که می‌تواند یک نقطه عطف احتمالی در بن‌بست مربوط به این مسیر حیاتی نفتی و کشتیرانی باشد.</div>
-<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/farahmand_alipour/6504" target="_blank">📅 17:37 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/farahmand_alipour/6504" target="_blank">📅 17:37 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6503">
@@ -907,7 +907,7 @@ Getty
 [تحمل نکنند هم یا زندان یا کشته میشن]
 یک عدد سه هزار نفری را سی چهل هزار نفر گفتن، نشان می‌دهد که این‌ها چقدر نامرد و وطن‌فروش هستند.»
 اونهایی که به قول خودش بین ۳ هزار نفر رو کشتن، نامرد و وطن فروش نیستن، کسانی که به کشتار و ظلم معترض هستند، نامردن!!</div>
-<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/farahmand_alipour/6495" target="_blank">📅 12:13 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/farahmand_alipour/6495" target="_blank">📅 12:13 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6494">
@@ -937,7 +937,7 @@ Getty
 وب‌سایت رادیوفردا
 بخوانید.
 @RadioFarda</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/farahmand_alipour/6494" target="_blank">📅 09:41 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/farahmand_alipour/6494" target="_blank">📅 09:41 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6493">
@@ -952,7 +952,7 @@ Getty
 <div class="tg-text">محمد باقر خرازی ، برادر همسر مسعود خامنه‌ای :
 پزشکیان ۲۸ بار استعفا داده
 و دیگه «کاسه کوزه‌اش رو جمع کرد»</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/farahmand_alipour/6493" target="_blank">📅 00:01 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/farahmand_alipour/6493" target="_blank">📅 00:01 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6492">
@@ -1233,7 +1233,7 @@ https://x.com/farahmandalipur/status/2083837885224988931?s=46</div>
 <div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">🚨
 ترامپ : می‌گویند که حمله سایبری به سیستم آب مینه‌سوتا، کار جمهوری اسلامی بود، ولی من اینطوری فکر نمیکنم! فکر میکنم مقصر خود مقامات مینه‌سوتا باشن.</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/farahmand_alipour/6462" target="_blank">📅 19:26 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/farahmand_alipour/6462" target="_blank">📅 19:26 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6461">
