@@ -292,13 +292,13 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-23 07:03:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-23 08:55:17</div>
 <hr>
 
 <div class="tg-post" id="msg-19944">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">مدتی نخواهم بود...</div>
-<div class="tg-footer">👁️ 5.35K · <a href="https://t.me/SBoxxx/19944" target="_blank">📅 16:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/SBoxxx/19944" target="_blank">📅 16:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19943">
@@ -367,7 +367,7 @@
 
 <div class="tg-post" id="msg-19934">
 <div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n2FV5T7vfbd-Bu04hR8wQ4A4f3PlxF1X_8ZoTBGU8O031l8nc3MKk0EYEjPCAixF2h0BGbNkWbwJfLX-4WENJe4oKb98AL90m7ZewSNSQ6EfHhNOxTts0IKhG2ga2gTyiqHYhc5GWZiyh6dLRKj-WsCR6-EVv1N_STDHo5F0ZdLyi-PaZ--NhmUU7rnRCMdFxqpZx5FJIGANoaltpTJ29yQiJeLf4z9PH0JAvPn6AUG_cSHpbnzSioguwYPj8n4hUwiVTgsZX_r_JeIrcmvfyoOKWFuuxEzqVZXKrB0U_engwPqczhxIp9khjLL2kCjVutQwho22z1rA-HhvWM9HLA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gzVO0jrjmyfRMrzRCGxbeyJi1WG-vtVqPXyulvgNp0zuLoxRn7MBNNEX0hTOZdX50mjZeCmgSI39R1hpy2l9CnpD6USpwbotmvyq29hUPFMt3VFbTZbM6RVLheilNuda60nT1tr43bzPLVEmN6QmOxslC75B0rITqWdPQnHYR3qrWTZExdkS1B3fT3KyoR_aaYNcnA24zbyMGIExH0pAppI4Mu9ohKHXCyVtTuUSjWtQpacwEOLxh4V9ip2TpP_XnJIvtVu_pwq9fvn4Kl08VYm17R0AY3lTBo0LYg6f0QtZSut4D-V0sIZdmndn8smZk1bv0dZZSFzQO7y930zUNA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">— کریس رایت، وزیر انرژی ایالات متحده:
 به لطف تلاش‌های هماهنگ ارتش ایالات متحده و متحدان ما در خلیج، میانگین هفت‌روزه نفت خروجی از تنگه هرمز در حال حاضر به نزدیک ۹ میلیون بشکه در روز رسیده است.
 وقتی این مقدار با ۵ تا ۷ میلیون بشکه اضافی در روز که از طریق خطوط لوله و تأسیسات صادراتی تازه ارتقا یافته از منطقه خارج می‌شود، ترکیب شود، مجموع جریان‌های نفتی در حال حاضر به طور میانگین حدود ۱۵ میلیون بشکه در روز است.
@@ -397,7 +397,7 @@
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">▶️
 An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.  @PressTV</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/19930" target="_blank">📅 02:18 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/19930" target="_blank">📅 02:18 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19929">
@@ -526,7 +526,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">ترامپ:
 ایالات متحده می‌تواند به زودی با قدرت بسیار زیاد به ایران حمله کند.</div>
-<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/SBoxxx/19913" target="_blank">📅 18:19 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/19913" target="_blank">📅 18:19 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19912">
@@ -589,7 +589,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <a href="https://cdn4.telesco.pe/file/845af07e2f.mp4?token=Rankq5KeZ4vjpANTSM1D2brwE_qMIbkuG3MyhKYPBk7PQm7A5CAhNEfgzfJ8abRsa_KxDDCUdGFoPgfKKl4NoATLfGwyXv5w67QfyhwXt1h-HOSOvPEN_YLoTBwtJEtLaZxhLs_N8mHXWM6N3CnG3ufdIm-XCr_G1yvJ62m4SY0GssCbvEieFhMzscZMn5_SBj8JwB5DU4rzBVVPKiRE_tix4OsbiCqA0wZ-ID1JrSKj3A2G-OFVkrZ4R-wnCoUG0bxtC9OZ_y4u2EDAfM5gQ2u_M7ZmMpXaex8jZakdHqqYKMfeHDxngAYjBHLG0VJL7UC5U-jqhTgvu7LYZR9q0A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وزیر امنیت ملی اسرائیل بن گویر:  برای هر اشک یک مادر اسرائیلی، هزار مادر لبنانی باید بگریند. تمام لبنان باید بسوزد!</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/19905" target="_blank">📅 14:39 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19905" target="_blank">📅 14:39 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19904">
