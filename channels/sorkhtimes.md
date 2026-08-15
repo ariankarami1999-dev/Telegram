@@ -292,11 +292,45 @@
 <a href="https://t.me/sorkhtimes" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽ورزشی نویس پرسپولیس👤🎗️«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس.⛔رسانه سرخ تایمز مسئولیتی در قبال تبلیغات ندارد.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 14:41:16</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 15:11:36</div>
 <hr>
 
-<div class="tg-post" id="msg-138192">
+<div class="tg-post" id="msg-138195">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-text">❌
+❌
+علت ماندن تیوی بیفوما در پرسپولیس، کاهش وزن، آمادگی جسمانی مطلوب و همچنین تغییر نگرش او و اصلاح سبک زندگی شخصی‌اش بود.  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
+🤩
+@SorkhTimes</div>
+<div class="tg-footer">👁️ 761 · <a href="https://t.me/SorkhTimes/138195" target="_blank">📅 15:08 · 24 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-138194">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-text">⬅
+⬅
+⬅
+حمید مطهری سرمربی فولاد گفته الی و بلی رزاق پور باید بمونه و اگه بره پرسپولیس استعفا میدم!!
+🎗️
+«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
+🤩
+@SorkhTimes</div>
+<div class="tg-footer">👁️ 943 · <a href="https://t.me/SorkhTimes/138194" target="_blank">📅 15:04 · 24 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-138193">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-text">❌
+سینا اسد‌بیگی: بعد جدایی از پرسپولیس افسردگی گرفتم، دلیل جداییم از پرسپولیس فوتبالی نبود.
+🎗️
+«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
+🤩
+@SorkhTimes</div>
+<div class="tg-footer">👁️ 1.16K · <a href="https://t.me/SorkhTimes/138193" target="_blank">📅 15:01 · 24 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-138192">
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m9CliBIsW7MMcw4BDolcG_dDUPENyfzsxUFEmtMuerh829UBhYzgh7IVC8Zv4khfYcALEQgBkYXpht4nGSElT_IZG4R4KxtYbU4v9WYn6sTQhjxMrtGzqbvjYJQ2YCoTPrjqu7WQE9rbWVZ0XBvmECr7aXlAd5p3nOnMijR7ibTP7n9gGU8bC8LQBS4_bHfJx9Nril8iS967shaXiWLLWfWq8KDjWqzP7_w-L4u0W4f_7XXfn-pJZjgLUpUwjxLq-aJO9PWvBbPPfGIJBjY-9z5FJGI3qxOlbNYhcv71iaXgAH0c3psYEcJgfw0gETPFhBLftKkrw3uGXXi54vIXng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⬇
 ⬇
@@ -307,21 +341,21 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/SorkhTimes/138192" target="_blank">📅 13:51 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.35K · <a href="https://t.me/SorkhTimes/138192" target="_blank">📅 13:51 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138191">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">❌
 ❌
 باشگاه قراره امروز از دانیال ایری رونمایی کنه  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/SorkhTimes/138191" target="_blank">📅 13:49 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.38K · <a href="https://t.me/SorkhTimes/138191" target="_blank">📅 13:49 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138190">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">💢
 💢
 💢
@@ -329,22 +363,22 @@
 مدیرعامل بانک‌شهر فرداصبح بودجه لازم رو برای جذب محمد قربانی دراختیار باشگاه پرسپولیس قرار خواهد داد. مدیریت‌باشگاه پرسپولیس‌آماده‌اندتاسقف 800 هزار دلار برای محمدقربانی هزینه‌کنند. این احتمال هست که مدیریت الوحده یه مقداری مبلغ رو بالا ببرند.
 🎗️
 «سرخ…</div>
-<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/SorkhTimes/138190" target="_blank">📅 13:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/SorkhTimes/138190" target="_blank">📅 13:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138189">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">🏆
 رضایی سرمربی شمس‌آذر: امیدوارم فردا بیش از ۱۰ درصد به هوادارای پرسپولیس نرسه
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/SorkhTimes/138189" target="_blank">📅 13:44 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.44K · <a href="https://t.me/SorkhTimes/138189" target="_blank">📅 13:44 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138188">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aIB5FFcvfOhbn4Wo2ZZQaaVFxgfVv5Rq1XuYvpJTpox4BLDPPggfEaQj8eHl75BvlerS8KpXPTQJjj1zSTex6iztM0zvzdkNkL7GeyiYvQBJVoWBojOkFTOr8zIegzwIGTKyFZQpev5sRmKb6c6GhKymD9dt5Ws76ltxMGoU0LAh6ZhQQTcOG7u6TsDfPBbxYgMjUTfhuWxtlmF4TjOSYTyQAkxNuOM733FzimQPyRuJRQ22wrB950LUx05lkzVcVG2d1Yf5uvGqjZayE35DfaQbSnwTYIpm-HP4CsqAV9zwI9Fg_8xpdliShWJ6gl5Tz_Ens1wywxOMQuBWjiQWUw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Sportnavad
 ➕
@@ -380,11 +414,11 @@
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 3.08K · <a href="https://t.me/SorkhTimes/138188" target="_blank">📅 13:25 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.68K · <a href="https://t.me/SorkhTimes/138188" target="_blank">📅 13:25 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138187">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YvHlpn9PX0euP6cdxyt4CBN4rfY2Bgih3qlQOEZu-lxaLbOfjNew-KEZv7Wn9MO819z3gkcNUJSggIiI-roDgsenjZ0uTVQbfGbkG86Awn0I3WKHKuWNEQbWIrDie1eqGKZgw4Su7tOE2665ObQ0oQTcMx461dzRn6aY_DHN9Mj_32un_MeSHK8VGEOPTAbdmyd0j4mZgEphJx-p-lAunWTkBunh9jd5xuFedxnvz5wL6asard6UV6yhUIegmqmknyZ5Znco3XlffNVJhcWA7kM296i7oY3HQ7NaOchRsH0oJDLrTMyN1iZaffvFTNBRTj090wvsU8buKQ59_Qk1PQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❌
 مهدی‌ترابی بازیکن تراکتور بدلیل مصدومیت در بازی دیروز مقابل پیکان، حداقل ده روز غایب است و بازی مقابل سپاهان و پرسپولیس د ر هفته دوم و سوم را از دست خواهد داد
@@ -393,11 +427,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 3.59K · <a href="https://t.me/SorkhTimes/138187" target="_blank">📅 13:04 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/SorkhTimes/138187" target="_blank">📅 13:04 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138186">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">❌
 ❌
 ❌
@@ -408,22 +442,22 @@
 سازمان لیگ قصد دارد دربی را در یکی از سه شهرِ مشهد، اصفهان و تبریز برگزار کند.  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 4.01K · <a href="https://t.me/SorkhTimes/138186" target="_blank">📅 12:46 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SorkhTimes/138186" target="_blank">📅 12:46 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138185">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">❌
 با اعلام امیرحسین روشنک مسئول برگزاری کننده لیگ برتر؛ دربی پایتخت ۱۲ شهریور ماه برگزار خواهد شد.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/SorkhTimes/138185" target="_blank">📅 12:43 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SorkhTimes/138185" target="_blank">📅 12:43 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138184">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3c4ae02899.mp4?token=ICx-G-eupRh5QZBzr6y9UxIpc_w0FvP0oFA3gEqrhFk-QL1-jvlY59WIfVhkSsubxfAZWxY6QGxDCIxxgrvr_HFVtERwE5e3ZgdLp9qY658mt4Ef42k0xunIBjStf0ytI0XlTDgHAQEQpUkyI1GObIj-42OEpKubDfQWPYyxBBDa-AmrhdSjyvDLuaX_s_j20izTLtraAfKPRH2nS-nKUFG8hJAMi_UObsnotpSKu1HXczaD_Q_KTmH7t8Z5i-48q2hkkgBI2wYZCb-mHuDyKkxCpstgMQieKcrLEkhI3g8JpSewauPDBzNrxBkzFeOZ9DkzDarGbetVtOEXtDSmmQ" type="video/mp4">
@@ -440,22 +474,22 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SorkhTimes/138184" target="_blank">📅 12:40 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SorkhTimes/138184" target="_blank">📅 12:40 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138183">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">🔴
 500 تا دیگه رفت رو رضایتنامه؛ گلزنی محمد قربانی برای الوحده که داغ دل تراکتوری ها و پرسپولیسی هارو تازه کرد
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SorkhTimes/138183" target="_blank">📅 12:24 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SorkhTimes/138183" target="_blank">📅 12:24 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138182">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Mrv55QS2UpE5xd9NikQICwDbl-xLVZhHUp7hdv6oyyCrl_zSalfHjT06wNCmi31B6fYNKXpcPAn1ZyoEKpYFYEBMbHjptm6h4VafxmnUp2VpYB300HqVp7oDHbQDX3K7b8taZCvV8uUyrQefweAUFStMoC_B9bUMfW-F1ht5UJzmMHX_s6ZSML3AzRtW8p9EazSn3Ih1hx1MQOsAt3lsPnn2h6Cezq02c80z8Drexd99Z2VQrsdqodd_PnPkFoAY_Ordp9prpqcNPG4JkUiMZRSZq1KCX-fmTpMT3J2ksGMH2ru4mjThxIKJGCjq5T2HkJdtfAGRPrmKc1D21g82wg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
@@ -466,11 +500,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 4.29K · <a href="https://t.me/SorkhTimes/138182" target="_blank">📅 12:23 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SorkhTimes/138182" target="_blank">📅 12:23 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138181">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">✅
 ✅
 تکمیلی :
@@ -480,11 +514,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SorkhTimes/138181" target="_blank">📅 12:21 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SorkhTimes/138181" target="_blank">📅 12:21 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138180">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E0l1IeboVwMt220KgxqxZe6S-eqK1xnsxXIa02KZDKcNX3V3GSZE4gYKq8PxoRkmlWotCLZlpaiTP_YFrPCvtvWQnVd5h3vklIdzHQCw9oNPVAcfK4JSYnw6CjCoblPVNzuKtNmTXTsm35byf3vgYgpgom4UjPpupyDb9fpB9FJYYTFMa0M8FQJ0K7Ug-84k5pJ_IKCq-xXyGLdP2K__V5-eRr0MSjFX1nL1dWN_jlsNbQpafs2sdKF7uP34sfQYuwGXZB6ELOsIBfvz85TxQhuukuUlch_4KHd0egB6MZgXHyXFBF_0PPeqPVPinNArcSpy-bPvRez_-ETaAMaSAw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
@@ -495,42 +529,42 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SorkhTimes/138180" target="_blank">📅 11:54 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SorkhTimes/138180" target="_blank">📅 11:54 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138179">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">🚨
 مس شهربابک از استقلال به خاطر استفاده از آسانی شکایت کرد.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SorkhTimes/138179" target="_blank">📅 11:53 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SorkhTimes/138179" target="_blank">📅 11:53 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138178">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">❌
 پوستر روز بازی پرسپولیس مقابل شمس آذر با یادی از شهید طرفدار پرسپولیس از مدرسه شجره طیبه میناب  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SorkhTimes/138178" target="_blank">📅 11:51 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SorkhTimes/138178" target="_blank">📅 11:51 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138177">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">🚨
 مس شهربابک از استقلال به خاطر استفاده از آسانی شکایت کرد.
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SorkhTimes/138177" target="_blank">📅 11:02 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/SorkhTimes/138177" target="_blank">📅 11:02 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138176">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">💢
 💢
 💢
@@ -539,22 +573,22 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SorkhTimes/138176" target="_blank">📅 10:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SorkhTimes/138176" target="_blank">📅 10:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138175">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oFii8HG1YSRcWTAk90GxISYqVNOIkntf0HVTf0YBF2MqJYqSXwyLsbL7JZJp0FVTNFJlwm7Iqhc8GOAAzjZ7sGK3mJVLPvEOfVondPDZSXquz3D9m7CrVvidIaWPaHNpJIQsmBEBOtApPaz3NJMidjoBSVkZNTIbdc4GBABjR_-SHZ7eE_FBwRLqPXP-AGt_zXes5I0UN0kY09oX8KGZLZBpBVYslqJvRQVhAGhCJVHxIqNjswXkqzZd1pIKrjT5ZVKY9IL8m3PABXnwKvTVgnn1hFcTkSucpzeIQeTbww3_NOCbLZIxzMOmBh0H2Kn45b9vbPiA3Svw54csfehstg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❌
 پوستر روز بازی پرسپولیس مقابل شمس آذر با یادی از شهید طرفدار پرسپولیس از مدرسه شجره طیبه میناب
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SorkhTimes/138175" target="_blank">📅 10:46 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/SorkhTimes/138175" target="_blank">📅 10:46 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138174">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">💢
 💢
 💢
@@ -563,11 +597,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.43K · <a href="https://t.me/SorkhTimes/138174" target="_blank">📅 09:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.58K · <a href="https://t.me/SorkhTimes/138174" target="_blank">📅 09:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138173">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">🔴
 🔴
 صبح روزی که عشق بازی داره بخیر
@@ -575,11 +609,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SorkhTimes/138173" target="_blank">📅 08:58 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/SorkhTimes/138173" target="_blank">📅 08:58 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138172">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KLshJqSCzzUiwqP9H14D0kNTgjBZ22nlrw-BBnFm0k7jzPcD4HdJc2NCcmmR1U4QCQIfUS8w3iLyqR6J9k0zBmTg-6LBghnPdwgYJ8jn6PQ_jCSTCkXjl9xkkpDym85XHVpMLr6DjLGYh3e2lk0UAiuRZ5FPKeUNd-WFqVyqGz74STggIXQX2gxNBtXYssTfELyfCpc-WIWtu4Kwm5MOBCeQRNSqfWySVK-HX-881IP5PWKSIJAP-repvfJ0Mq1U4n-TAC8C0LBMVjP44oR5IkS5iQTnGg8IEOh6LWhpmwdZqh3HjmOOO2GhSPXt86M_drdamS7UaiJpRjw_t3h5kg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">➕
 دسترسی سریع و مستقیم به اسپورت‌نود
@@ -599,11 +633,11 @@
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 6.21K · <a href="https://t.me/SorkhTimes/138172" target="_blank">📅 02:06 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.3K · <a href="https://t.me/SorkhTimes/138172" target="_blank">📅 02:06 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138171">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">💢
 💢
 💢
@@ -611,11 +645,11 @@
 مدیرعامل بانک‌شهر فرداصبح بودجه لازم رو برای جذب محمد قربانی دراختیار باشگاه پرسپولیس قرار خواهد داد. مدیریت‌باشگاه پرسپولیس‌آماده‌اندتاسقف 800 هزار دلار برای محمدقربانی هزینه‌کنند. این احتمال هست که مدیریت الوحده یه مقداری مبلغ رو بالا ببرند.
 🎗️
 «سرخ…</div>
-<div class="tg-footer">👁️ 6.31K · <a href="https://t.me/SorkhTimes/138171" target="_blank">📅 01:27 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.37K · <a href="https://t.me/SorkhTimes/138171" target="_blank">📅 01:27 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138170">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">🔄
 🔄
 ❌
@@ -626,22 +660,22 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.55K · <a href="https://t.me/SorkhTimes/138170" target="_blank">📅 00:48 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.58K · <a href="https://t.me/SorkhTimes/138170" target="_blank">📅 00:48 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138169">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">✅
 با خرید امیر جعفری سهمیه خرید پر میشه ولی .....
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.54K · <a href="https://t.me/SorkhTimes/138169" target="_blank">📅 00:48 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.61K · <a href="https://t.me/SorkhTimes/138169" target="_blank">📅 00:48 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138168">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">✔️
 ✔️
 ✔️
@@ -650,11 +684,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.37K · <a href="https://t.me/SorkhTimes/138168" target="_blank">📅 00:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/SorkhTimes/138168" target="_blank">📅 00:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138167">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">🚨
 🚨
 یک روز مانده به بازی بازم ترکیب تیم لو نرفته و کاملا مشخصه جاسوس شناسی شده بعد از سالها
@@ -662,22 +696,22 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.31K · <a href="https://t.me/SorkhTimes/138167" target="_blank">📅 00:46 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.37K · <a href="https://t.me/SorkhTimes/138167" target="_blank">📅 00:46 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138166">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">❌
 ❌
 ❌
 یک اتفاق جالب در بازی دیروز سرخپوشان
 👍
 در چند دیدار دوستانه اخیر شاهد لو رفتن ترکیب سرخ‌ها پیش از بازی بودیم، اما دیروز ورق برگشت و هیچ رسانه‌ای نتوانست ترکیب اختصاصی تیم را پیش از بازی منتشر کند. به نظر می‌رسد مهدی تارتار به وعده‌اش عمل کرده و پس از…</div>
-<div class="tg-footer">👁️ 6.39K · <a href="https://t.me/SorkhTimes/138166" target="_blank">📅 00:40 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/SorkhTimes/138166" target="_blank">📅 00:40 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138165">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">❌
 ❌
 ترامپ: ایران خواستار غرامت خسارات درگیری نظامی ۵ ماهه است و من هم از آنها غرامت می‌خواهم چون سربازان امریکایی را کشته اند
@@ -685,22 +719,22 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.46K · <a href="https://t.me/SorkhTimes/138165" target="_blank">📅 00:22 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.52K · <a href="https://t.me/SorkhTimes/138165" target="_blank">📅 00:22 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138164">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">🚨
 امیر جعفری که گفته می‌شود بازیکن مدنظر پرسپولیس است بر روی بیو خود قلب قرمز گذاشت
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/SorkhTimes/138164" target="_blank">📅 00:19 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.54K · <a href="https://t.me/SorkhTimes/138164" target="_blank">📅 00:19 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138163">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">❌
 ❌
 عضو مستعفی هیئت مدیره استقلال به صراحت اعلام کرده نامه فسخ یاسر آسانی پخش شده و بازی کردن او غیرقانونی است.
@@ -709,11 +743,11 @@
 تیم‌های لیگی با شکایت به AFC و FIFA می‌توانند این تخلف را گزارش دهند و نتایج خود را جلوی استقلال ۳-۰ کنند
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار…</div>
-<div class="tg-footer">👁️ 6.51K · <a href="https://t.me/SorkhTimes/138163" target="_blank">📅 23:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.57K · <a href="https://t.me/SorkhTimes/138163" target="_blank">📅 23:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138162">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">🚨
 🚨
 به امید اینکه با این کیت قشنگ ؛ خاطرات و لحظات خوبی رو تو ذهن و تاریخمون هک کنیم
@@ -722,11 +756,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.53K · <a href="https://t.me/SorkhTimes/138162" target="_blank">📅 23:52 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.59K · <a href="https://t.me/SorkhTimes/138162" target="_blank">📅 23:52 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138161">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aQS_05EZ6ZgWZav709Xq_DsEkHyJM00Qdt-kLWv54yltUwj73sF3mySr2brjimp7x2SLMSQIIW6l__4JBHoJCMEb4MXyW2ecsr7UpKD2knKISKaJSLdY1AhFd2nRUVHzO56oO5KJXAsWlx-YD94XbFMwYlxqEO3BxPyTZ8Atx_Dgjw6dSxwDMJ6Cx4FkvTcjCtked4vPiHzlLhJbkl4627xRwppEyDuHBkOxIXmiZQDsbxwWX4-0EKMNbmhbqINvVfjmJ_GQ5xCH9piUzJ-FhDv0DyZsK6EbZbk778I3mcOz_F1NT_y6MsT-PYrHMPRhWkk0wQC2-s6JIYvD8Xx-gw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 امیر جعفری که گفته می‌شود بازیکن مدنظر پرسپولیس است بر روی بیو خود قلب قرمز گذاشت
@@ -734,20 +768,20 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.56K · <a href="https://t.me/SorkhTimes/138161" target="_blank">📅 23:49 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.62K · <a href="https://t.me/SorkhTimes/138161" target="_blank">📅 23:49 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138160">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">🔴
 بازی کردن آسانی تخلف است
 🔴
 هیأت‌مدیره استقلال اقرار کرد فسخ یک‌طرفه آسانی بطور قطع انجام گرفته و قادر به‌‌بازی نیست‌. مس شهربابک بعدبازی بدون فوت‌وقت شکایت برای ٣ بر صفر کنند‌. شرایط جنگی و اولویت نبودن فوتبال برای مردم نباید باعت چشم بستن تیم‌ها به این جرم…</div>
-<div class="tg-footer">👁️ 6.46K · <a href="https://t.me/SorkhTimes/138160" target="_blank">📅 23:40 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.52K · <a href="https://t.me/SorkhTimes/138160" target="_blank">📅 23:40 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138159">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/2fea0075aa.mp4?token=Ix6KWrVuK0o1n_8tkD8IAExRkAraqryhujpPV0SFzPcJF4fhJ2UK9JqmQetj1tXNAn-f331kUP_SL3h1QpT4dzGeZ6VoOZpqT_WZx_7Ct0TceXMiY8WFx-s9--2riWAKXdY0bdwV9yyMmfAWHngYn0_eqOQNbqXWmP2ZBAox5TjEuvhUw75II00ZgjAWoalK0SBj53jvMm6MxvhhDmQjhLAlD8N2AezWrwYcYct3pADRG1pWG0jm_fqyVNAig0DZcs1Ww42NoovjIhhMXGPr5a7xtcfIRFtjXe_gHVi3if_iNMsQOJaXuGY1FdgdXWHR639QJH-olUaBAwznIpoUGQ" type="video/mp4">
@@ -763,22 +797,22 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.63K · <a href="https://t.me/SorkhTimes/138159" target="_blank">📅 23:22 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.66K · <a href="https://t.me/SorkhTimes/138159" target="_blank">📅 23:22 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138158">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">🚨
 قدوسی: 24 ساعت مهم برای قربانی در پیش داریم
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.39K · <a href="https://t.me/SorkhTimes/138158" target="_blank">📅 23:19 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.42K · <a href="https://t.me/SorkhTimes/138158" target="_blank">📅 23:19 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138157">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">🇮🇷
 💢
 پیراهن فصل‌جدید بعد از ادیت نهایی رونمایی شد
@@ -790,7 +824,7 @@
 </div>
 
 <div class="tg-post" id="msg-138156">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IhYcY3DavZSVr9hYcXCv5MCJ3iy_Pa3eKfvqOupyWiWZo4iKuFRSEZizeYTD_VKT6uBOxa-HeTdCZ43ahERu-E6NZtBNiOzE2g3DOPxD4Cl-X9PFLChr656wAlXYr0FYWTo33cw-Ti2cIitOHL9mWscCy45mU-jjTEEaELuq53EytlFyodVrYIjtxGjS9d9SXiqPoQst0KfEKMx3_n9Wu_V-SN64Qvc0sEm6L4i_dPABkRtnC7vXu6iwbvSujK52CVLd9AX0GGE0X-JVZ-CHzWwEEcxwcuiLr_rgHUs64xx6tBKuQfUUwZmTYMHeB37ZsLDnx9lkz7JDgG07vt52XQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔄
 🔄
@@ -803,7 +837,7 @@
 </div>
 
 <div class="tg-post" id="msg-138155">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">🇮🇷
 💢
 پیراهن فصل‌جدید بعد از ادیت نهایی رونمایی شد
@@ -811,11 +845,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.7K · <a href="https://t.me/SorkhTimes/138155" target="_blank">📅 22:28 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/SorkhTimes/138155" target="_blank">📅 22:28 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138154">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">❌
 ❌
 خطاب به مدیران باشگاه مس شهر بابک: یاسر آسانی طبق گفته ی خود عضو سابق هیات مدیره باشگاه استقلال، کارشناسان و قانون واضح فیفا، امکان عقد مجدد قرارداد با استقلال و نداشته و غیر قانونی بازی کرده است.
@@ -823,22 +857,22 @@
 منتظر شکایت این باشگاه هستیم.
 🎗️
 «سرخ تایمز» دریچه ای تازه…</div>
-<div class="tg-footer">👁️ 6.68K · <a href="https://t.me/SorkhTimes/138154" target="_blank">📅 22:24 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.71K · <a href="https://t.me/SorkhTimes/138154" target="_blank">📅 22:24 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138153">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">🔴
 500 تا دیگه رفت رو رضایتنامه؛ گلزنی محمد قربانی برای الوحده که داغ دل تراکتوری ها و پرسپولیسی هارو تازه کرد
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.66K · <a href="https://t.me/SorkhTimes/138153" target="_blank">📅 22:06 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.69K · <a href="https://t.me/SorkhTimes/138153" target="_blank">📅 22:06 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138152">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3bf45d8651.mp4?token=jcoGi8iQKUpdGoEKea1tNoLolXZsvC0KV5XvfnnVTKY5qPQmFIK_f0eu98631NdxT3m80F3_7LhZoxIVrD-82hCPAJT514BW9L7HjDkgrPrVK1duhTweJnH2dk0v6yaG9GkQglnARHYvoydl8Y-biu3XJaRnWMo4CTZd2Y77wIQbwHO0MOpfYlGKVChqN0yjn8jJolNXl8BD3hrg4U6yH9af7nTjjwMpuK7LcDc412izAngOMfKKg_myaIyoGxdujRv3hxgIy1o-MI7n3OuxvJ9cwWz7ib5LNCd5DjWkDptUBAXa2mxCLx1nNJSnU255kJzA9kICT-hhvqSx-jUg3w" type="video/mp4">
@@ -856,7 +890,7 @@
 </div>
 
 <div class="tg-post" id="msg-138151">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">🚨
 🚨
 چیه این پرسپولیس ..
@@ -867,11 +901,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.53K · <a href="https://t.me/SorkhTimes/138151" target="_blank">📅 22:03 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.56K · <a href="https://t.me/SorkhTimes/138151" target="_blank">📅 22:03 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138150">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">🚨
 🚨
 محمد قربانی روی نیمکت الوحده قرارداد گرفت
@@ -883,7 +917,7 @@
 </div>
 
 <div class="tg-post" id="msg-138149">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">❌
 ❌
 مدیران مس شهربابک قصد دارند که درصورت بازی کردن یاسر آسانی مقابل این تیم در هفته اول لیگ برتر بلافاصله از تیم استقلال شکایت کنند!
@@ -895,7 +929,7 @@
 </div>
 
 <div class="tg-post" id="msg-138148">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">🔄
 🔄
 فووووووووووووری
@@ -909,7 +943,7 @@
 </div>
 
 <div class="tg-post" id="msg-138147">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">❌
 ❌
 اتاق فرمان میگن که سانسورچی خوابش برده ندیده جوراب با لوگو مجیده باشگاه ویدیو رو پاک کرد.
@@ -917,11 +951,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.47K · <a href="https://t.me/SorkhTimes/138147" target="_blank">📅 21:33 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.5K · <a href="https://t.me/SorkhTimes/138147" target="_blank">📅 21:33 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138146">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">🚨
 🟥
 ✔️
@@ -932,22 +966,22 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.49K · <a href="https://t.me/SorkhTimes/138146" target="_blank">📅 21:31 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.52K · <a href="https://t.me/SorkhTimes/138146" target="_blank">📅 21:31 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138145">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">🚨
 کیسه سومی هم زد
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/SorkhTimes/138145" target="_blank">📅 21:26 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.48K · <a href="https://t.me/SorkhTimes/138145" target="_blank">📅 21:26 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138144">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">🚨
 استقلال دو گل تا دقیقه 60 به مس شهر بابک زده
 🎗️
@@ -958,7 +992,7 @@
 </div>
 
 <div class="tg-post" id="msg-138143">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">✖️
 ✖️
 مهدی ترابی از ناحیه کشاله ران مصدوم شد و به‌احتمال‌فراوان دیدار هفته سوم با پرسپولیس در یادگار تبریز رو از دست داد.
@@ -973,18 +1007,18 @@
 </div>
 
 <div class="tg-post" id="msg-138142">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">🚨
 🚨
 🚨
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 6.51K · <a href="https://t.me/SorkhTimes/138142" target="_blank">📅 21:11 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.54K · <a href="https://t.me/SorkhTimes/138142" target="_blank">📅 21:11 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138141">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">🚨
 🚨
 🚨
@@ -995,18 +1029,18 @@
 </div>
 
 <div class="tg-post" id="msg-138140">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">🚨
 استقلال دو گل تا دقیقه 60 به مس شهر بابک زده
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.5K · <a href="https://t.me/SorkhTimes/138140" target="_blank">📅 21:09 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.53K · <a href="https://t.me/SorkhTimes/138140" target="_blank">📅 21:09 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138139">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/a75e1bc211.mp4?token=Vd0yEqrJTokDDkKb4f21zoENDckjDTHu78MijrU9oj2v7A8bV3fGAhtq5uelko3BX_R668iBqKD6UNvPCjLIcuEN-VJOec3z5XFPWTjQDEqOgfTY57zOCMeRo7hp-CbotL8Ws8ePpbhcCoIzoMQVp95cnRNF4hUJgavVrV-vB1nLa-op8-i_aY3Pbw3w46hN6TuV241ce_2w_PnLkDAkiSWgGK7mXN7BeFDNiS-MauQ3KxEBqkrm1GELhntQS3160OLnu5E5xPYKb0KRLcvjdebyDOfKRDpEhwTZysQ3pw-aDXU03GnhuSOyuTl8u4oBG4_UaEqbBzpfLzAn9kkqKg" type="video/mp4">
@@ -1028,7 +1062,7 @@
 </div>
 
 <div class="tg-post" id="msg-138138">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">❌
 ❌
 ❌
@@ -1046,7 +1080,7 @@
 </div>
 
 <div class="tg-post" id="msg-138137">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">✅
 ✅
 ✅
@@ -1059,7 +1093,7 @@
 </div>
 
 <div class="tg-post" id="msg-138136">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">‏
 ✅
 ️ برنامه مسابقات هفته اول لیگ برتر فوتبال
@@ -1071,7 +1105,7 @@
 </div>
 
 <div class="tg-post" id="msg-138135">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">🔴
 نشست خبری مهدی تارتار، پیش از دیدار با شمس آذر ( بخش دوم )
 🎗️
@@ -1082,7 +1116,7 @@
 </div>
 
 <div class="tg-post" id="msg-138134">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b464aa2d22.mp4?token=iOiegAyQv1Lo9CHBbRFPuBWCFnGNyqaIyVKOcuduNaY1Px0WP5j5-hFsdC8Mn-Fqfu8RGeJ8UgX953BjKcIgRhUiJh6ndVojvnlPOkR3u8Rf4-Sc--Gu46q76js9y_qh2n8T_kutt71UmmmtRvfJRGhkGgCRJr1zzTwp820VturX7zXddo_O9fxp7bxSjpF-D2do5Q65ZZlRJIG34aQMII9J-Firffj3W7vRsFvw6m2TktL8nmPeKbJJxk4mgEuRY8py9Px_df_Y-XLvGtLBZWi7SiGwbgFfmVOBqe5iJUFhxZuW0451OQ-JBuOCSCvZ_a_TVuHH-z0-DHhiSdEAng" type="video/mp4">
@@ -1103,7 +1137,7 @@
 </div>
 
 <div class="tg-post" id="msg-138133">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/20949bf60a.mp4?token=eRckvYoD7q7CjoSJtI1BV4MxUb5sYKW2I7a-wsL26WSUqORuuS8CZOvEybuoxL8-LPZ5BHrFRfHWnmQdof_m7-W2QncI7K8q34-NT1whYiFMJhLBLfi1fi4xpHs_QPplmy0wu01Ahl8UungZyGyPIq8aXLoinqLGkX3C6UK9OC3aJVOeHRqoQAYSsHYSfFeKNtHvLd0ofXke0D_p_IwczxVk673X9guDFS96Z2ixNQYRq1xrr2vKpBnqkvAm-BLhALQHUmvYlPuBzio6q7AFJql0VpmORImoKnN-RzJChjLol4VNXzFRUZHo2xzgjVl46HXN1vcGnJH_NqUygcldtY8kzDIyD2hdVHrUw696wkr9Q497M1dPNY44d92C7ji3NAu-L4KXe7o5GTz3rDJAxGAWdkXqsCccM0Q2F935x60KKROaUjPsvuvFIcS7ad0AG3-IkcEPwkxDAzl_lBrEdKkrT5LG5xsopoWsnteTudkb69E-ahXAqxXTBkRl4nLBxgF8I349uUtRWKoEHGRkRp-zCeUu6bZDt1WIXaalL96ekPt4bWXZZXOIEbPO5ffjIdT1JXruwd5zGnJpC15Oa6Z00_iEKwj4cyGtH3t1mfTpFCfFZ7BMnc1qODIJ73RoejNVixe_xntOyWsV2NtAhnx1UYo63ePOKpTvezOe3T4" type="video/mp4">
@@ -1117,11 +1151,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.97K · <a href="https://t.me/SorkhTimes/138133" target="_blank">📅 19:40 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6K · <a href="https://t.me/SorkhTimes/138133" target="_blank">📅 19:40 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138132">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">🔴
 نشست خبری مهدی تارتار، پیش از دیدار با شمس آذر ( بخش اول )
 🎗️
@@ -1132,7 +1166,7 @@
 </div>
 
 <div class="tg-post" id="msg-138131">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">‼️
 اخراج عجیب نیما احمدی از پیکان پس از VAR طولانی در بازی با تراکتور تبریز
 پ.ن از هفته اول داوری به نفع تراکتور آغاز شده ...کجاش اخراج داشت و طرف تک به تک میشد
@@ -1144,7 +1178,7 @@
 </div>
 
 <div class="tg-post" id="msg-138130">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">🚨
 🚨
 فوری از طرفداری
@@ -1152,11 +1186,11 @@
 امیر جعفری دفاع چپ گل‌گهر ممکنه همزمان با جذب دانیال ایری به عنوان خرید جدید پرسپولیس معرفی بشه   «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.7K · <a href="https://t.me/SorkhTimes/138130" target="_blank">📅 19:36 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/SorkhTimes/138130" target="_blank">📅 19:36 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138129">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">🚨
 قدوسی: 24 ساعت مهم برای قربانی در پیش داریم
 🎗️
@@ -1167,7 +1201,7 @@
 </div>
 
 <div class="tg-post" id="msg-138128">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1a058c3af3.mp4?token=KYYj6wbRw3ErvccZ1KUtPlqqDH9yInbO0hhsLNfvQmpmaTXxMr274HR7mNzFyoQ9J2rAld0Vm94m8fyzMr-Ngqa1z_Os-VSRLCMCc0uzzoZ1PGwyeNjCsG2EfzT-IEFqOgJAES4J_wrWkn2Y-xIWAkKId-1tDdgfEC_OqCjPYRkYPproXUQuXkbWf0sVPNP2QQgd-qHMNJ-i2ozkBRREM5MTtcr03AWHQRD8joHqUsBBK4KgBEu9LygdzggJcjBh7x9IeRTKqi93xu_Px0tlBipUzMOhAIthzeXXsn9PQ-Lzmg6aGP20L5dZ5deINx9Oz7aV-3KhGeu8cHHlf0R53g" type="video/mp4">
@@ -1185,7 +1219,7 @@
 </div>
 
 <div class="tg-post" id="msg-138127">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fgY0udxA9vOsxLnCwNsV0FUM0BY3ndMpUxmnT1q7aVPzrwV6ivJbh7Csbh8WD9UnMIEW1OS0RBokYgO6cvC2cVPgcrb1qsuzEYexpctRI_kHrjuaIWstp4X_0nAzjrn5uipaJOWdJE3VKCQohH8YbCUzKDH0gcSr4oPExeK3iOULTFiyUDNs3J_BAFntw2wd-jMDyuTWAr-Io44dCq8o6HQ79cycdk_6K1nMH6JgtNRaKYZyKZsnwmtMp7x_OHiYV8pa41h4Sn-ojzwunGR6SEIzjSyj2LRW46aLgIIobIMFhzlzgboTSwfGtv2G8gKwabVbOEOn4LwbEJhfLp4ygw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Sportnavad
 ➕
@@ -1213,7 +1247,7 @@
 </div>
 
 <div class="tg-post" id="msg-138126">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">✖️
 ✖️
 مهدی ترابی از ناحیه کشاله ران مصدوم شد و به‌احتمال‌فراوان دیدار هفته سوم با پرسپولیس در یادگار تبریز رو از دست داد.
@@ -1228,7 +1262,7 @@
 </div>
 
 <div class="tg-post" id="msg-138125">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1831581867.mp4?token=u3EP5ZSd8Vu60Ewu-Ixg7x8FsQZiYbNTKk-enh5MuU5GoWNHoK5jiO7VI_3X5cMA66OdGzxOZ8R7uKVzZRGVH4PwkZ6k6pUO4ziSjAF1Mhsm72VsBkwmi_cskYJbszvgiFqJ3amIhi7iyG4UYLIkIjPmXYxfCQHKy6_hc3j2VnCFqUAZgWu4bPLPEIPT9a_IbDVIMDmRNCGLTcoydQpJn1RZof8IZOOXfhuGjzWTXTu6RaIURMf0zFXEE6VPZQKz2D0e5nlW7D9CVoWRvt4S7ymxtFdL04KIs9Ph9H36os8mchJwNiIMAXLZRaKE48V-WbtIlVRbxk4EV3f9c_3piw" type="video/mp4">
@@ -1245,11 +1279,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.89K · <a href="https://t.me/SorkhTimes/138125" target="_blank">📅 18:51 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.92K · <a href="https://t.me/SorkhTimes/138125" target="_blank">📅 18:51 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138124">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">❌
 گزارش خبرگزاری ایسنا : حمایت از بیرو و توهین به علی دایی توسط هواداران تراکتور!
 🗣
@@ -1262,7 +1296,7 @@
 </div>
 
 <div class="tg-post" id="msg-138123">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">‏
 ✅
 ️ برنامه مسابقات هفته اول لیگ برتر فوتبال
@@ -1270,11 +1304,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.05K · <a href="https://t.me/SorkhTimes/138123" target="_blank">📅 18:24 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.08K · <a href="https://t.me/SorkhTimes/138123" target="_blank">📅 18:24 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138122">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">❌
 گزارش خبرگزاری ایسنا : حمایت از بیرو و توهین به علی دایی توسط هواداران تراکتور!
 🗣
@@ -1283,11 +1317,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.96K · <a href="https://t.me/SorkhTimes/138122" target="_blank">📅 18:21 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.99K · <a href="https://t.me/SorkhTimes/138122" target="_blank">📅 18:21 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138121">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/bc8c8204fa.mp4?token=Txkk7uJf_1HbP7PA-msOTuHHZtmhauF_x-RlQLlb-ai1JJiDngWgNzfzOJDETCBjYyVC-hLBANS7edpNbWeSVa4abAjqTavXhye6XFelEWrhWtvh2Ons83EhGCcjM7aleh9wQRyA7FmJcyBvky7J2nZ5lwnyz2EnZgjUVAgHiYrLzoNr1PdvzE5Z7MJnmtID9qw1DAxmIRraknzHNsWBAu8RR3vQeQu7nFuHJnyfkCak87GuP8yFNlUcwQOYKNqymWE_RQicXXC20_j0IWyiodOL3aOnRP_084elnCuXvZf9988tOZMhxS4rLwgE38cVUYe4oh90S5TDLBl42tLW0A2tLNWVeSHJggnonRL55gm01rgUfE87MAFvGcnBK407Qf6h7ANiiZwyLXT0NpK_UxyrTDZN_5p3pOSXXnbqabG-SdZTEkoHWXzs40z3BSAMuGWWSTSb44x2FGz4Ht4sxoEbRo4_-rJsDkeB8_uLe0gOc31x1JQaRes-aC8XblYhO0l-KHBFFpuqEgKNiuBe9bfhR-Rp6apKc09CWtDyvjP5NW810OakVKaGJoRgSLj4YFFDrhjcw2GEavo5PMABhoO6j2VHviRdyyD4acyPbK9UbyzMZ3Y47EKjpjxd29BwhM5h7bOg3_w1VKnTRO-_3ariU1fsgBYS3lejyPUYM_4" type="video/mp4">
@@ -1307,7 +1341,7 @@
 </div>
 
 <div class="tg-post" id="msg-138120">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/47968981a0.mp4?token=gM1XoQU7z23vgM_aFwtDqVuEO9VbBE3AjgDY1QNxdHv20URjnHYotEKX95tNDujUA9x7LuzVP7LypVnBHm_nshcdJy2XdPJ6oBh9EqjCd336txADw134pwripSBf8bNFBtAC40RbKzPYFIvvuM4Qlh3Uy_5EGPFKKTnzyM81NLXiDVsEE3IG9lpvZgdxG7qXrMULSoSkFwrRN9DYiNeGTV_WCAZRYptaRgL_NGQMMJQNcGiGpbu2RRU-O3VJJP-gdPI2KBmvqGpkkMu1i0Qy8brCv4e3k4ICJx5Dh-anbMJrd61N84Neo1KcEtnkqLTCD7nE52sb4XIIS8CxV_0d4g" type="video/mp4">
@@ -1330,7 +1364,7 @@
 </div>
 
 <div class="tg-post" id="msg-138119">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">❤️
 📸
 قابی از یک تیم و یک هدف؛ آماده برای شروعی قدرتمند در لیگ
@@ -1338,11 +1372,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.88K · <a href="https://t.me/SorkhTimes/138119" target="_blank">📅 17:44 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.91K · <a href="https://t.me/SorkhTimes/138119" target="_blank">📅 17:44 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138118">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/R9bcfqERLctLi9J-xThVwILRTHMAfaSsXKN1H5UIvoYcECPkGh3YRZQeSJqbwGZ28xMnlSB1trfyq84uKRhoJziOmgHoa8VYydtsBaaFwAfxVqR8OxvHcyXU4HA8CDqGVaquT1zUjHKoYZorFNG1FEy9TR7gGdDQIoo4HUqtlkSSK4rkV3-27Tv08kWUR-lD9GHnH0MIczctVfRcTqRbNtfudQHLEiSD1Fk7DwmFM4W4lI_dgiTIrdKSStyuMBb1tGVb15DOSoPGMxvs4tP9kjf-aJbozTPfIrkEORDuvg4-DPueR4BHrkfWoLUijGYK5T4H5wp4v2yf_X5KQnRMZw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❤️
 📸
@@ -1351,11 +1385,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.89K · <a href="https://t.me/SorkhTimes/138118" target="_blank">📅 17:38 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.92K · <a href="https://t.me/SorkhTimes/138118" target="_blank">📅 17:38 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138116">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">🚨
 🏅
 برنامه بازی ها فردا لیگ برتر؛
@@ -1391,7 +1425,7 @@
 </div>
 
 <div class="tg-post" id="msg-138115">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/5528ddd2d1.mp4?token=g5a9RphNUw-Gne7TITCPSUowNVfHnRdI9qlx5PTCiYSE7QQb4nj8qknJtHnZbqweEBfnNhszpuFQsNxt6p2Nw6XKzdaJCxdcv1jB_shqOuu4DA8OXJ0TCepoJM2USlD1uqynawlH34MbWmwtdf_AOEqalMOIVsuphsAMXYc0aFo6fz4C3gDmBhzpCuFtdbvfbbT2dSjiieHBGWzzYP493EjFdB6txSNMIYx5q2YSMVTWvph-t0rNIw3HLQ3Fd1JIAireyFlxX_jzxyqGCNYgm45ZvYsjEoEg3twbH2TgJaXibgSDVrxobNbxvHWvfs0KmF6yF6FX02e2Tlvi0Vqb_XVFQ7Sn-Ag9ZioFfsHkJ_OSL7onWmnnyZHWYQ_9autjHa1yQ4U9kvLIy7FO39vhPbvPjejoMp3B3xyU0RtgSxpQylmyYk24ZW-9gyYC4zZ2US-zOIlEa83H7kQ-dFCdXIpP4PNFGitPDWERiDBNNQ8QSbdmRVCgklJU6jTsjhwKUG9cUDtrfVqF9Al-YlgOIcLnR7zztRK3TGAxUnPCBX9Uw8SvMT96YguvxG5KOz0QLx2ff2wSCjzj_0xX5-bqtM8DD72MYyBXqKpE65gdfCODEiGHIoJc0FLTDOnUFBH2b2h6yco68nO85IX4R-C0gngyLNM3lIykmj3nPLfb008" type="video/mp4">
@@ -1409,7 +1443,7 @@
 </div>
 
 <div class="tg-post" id="msg-138114">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">⬅
 یکی از نزدیکان مهدی طارمی پیشنهاد پرسپولیس رو به طارمی تایید کرد اما اعلام کرد طارمی به ایران برنمی‌گرده/ قدوسی
 🎗️
@@ -1420,7 +1454,7 @@
 </div>
 
 <div class="tg-post" id="msg-138113">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mzRsWLGcgzqVnyJ0vehleKTqwXk9H5er2R3LEDJ_sWYI1_OyVJXF357baa6BPZjuVnkOph3zNc-Z71rn-qC2R6Kxwc-5lt13of4Fl-GiIZC_CApcYA6ZRw2RraW6Q_5Lm9HCRwmt84V3teqeAhnmjwbKmIeuXvXu6MdHS-rb2HxEDPa08AfS6IY4PEcbm5IeuFH4izrDfjkGbIp7qpDvFzTDR2SYo0cXbZ3hq31Ncun50D8q12foHkKy3RZos6_Sgx34cbPxViIyN1EzhYSf7A9GLIfwI4IbbTrvqIGDcwsv0XLs4mB2b_U6lPgW_cSqvrtVVLCE6Zk8Uqeo3Q7p1g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 راه اندازی کمیته پیشکسوتان پرسپولیس در دستور کار قرار گرفت
@@ -1431,11 +1465,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.7K · <a href="https://t.me/SorkhTimes/138113" target="_blank">📅 17:13 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/SorkhTimes/138113" target="_blank">📅 17:13 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138112">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">🚨
 🏅
 برنامه بازی ها فردا لیگ برتر؛
@@ -1467,11 +1501,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/SorkhTimes/138112" target="_blank">📅 17:09 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/SorkhTimes/138112" target="_blank">📅 17:09 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138111">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">❌
 ❌
 امروز بازی های هفته اول برگزار میشه .کدوم بازی و نگاه میکنید و دنبال میکنید
@@ -1479,11 +1513,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.87K · <a href="https://t.me/SorkhTimes/138111" target="_blank">📅 16:35 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.9K · <a href="https://t.me/SorkhTimes/138111" target="_blank">📅 16:35 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138110">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">🚨
 🏅
 برنامه بازی ها فردا لیگ برتر؛
@@ -1519,7 +1553,7 @@
 </div>
 
 <div class="tg-post" id="msg-138109">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">❌
 ❌
 پارس جنوبی جم در یک بیانیه اعلام کرد انتقال کوروش اژدهاکش به پرسپولیس غیرقانونی بوده و این بازیکن هنوز با پارسی‌ها قرارداد دارد.
@@ -1527,33 +1561,33 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.79K · <a href="https://t.me/SorkhTimes/138109" target="_blank">📅 16:23 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.82K · <a href="https://t.me/SorkhTimes/138109" target="_blank">📅 16:23 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138108">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">✅
 ✅
 ✅
 کورش اژدهاکش که گفته می شود یکساله و قرضی به نساجی منتقل خواهد شد  امروز در تمرین پرسپولیس حاضر بود   «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.78K · <a href="https://t.me/SorkhTimes/138108" target="_blank">📅 16:19 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.81K · <a href="https://t.me/SorkhTimes/138108" target="_blank">📅 16:19 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138107">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">❤️
 کاروان پرسپولیس راهی قزوین شد
 🎗️
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.93K · <a href="https://t.me/SorkhTimes/138107" target="_blank">📅 15:59 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.96K · <a href="https://t.me/SorkhTimes/138107" target="_blank">📅 15:59 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138106">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">❤️
 کاروان پرسپولیس راهی قزوین شد
 🎗️
@@ -1564,14 +1598,14 @@
 </div>
 
 <div class="tg-post" id="msg-138105">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMmd</strong></div>
 <div class="tg-text">هر کانالی که این اتحاد و پوشش نده خیانتکاره</div>
 <div class="tg-footer">👁️ 5.77K · <a href="https://t.me/SorkhTimes/138105" target="_blank">📅 15:40 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138104">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hQrBXAYr4lUzI1fwSD3cZJa6Kr7IbSaSqHJ-yH2at_-9i-0RCSNIhS5jp8d49su8p6y6R53OA9MNOrDXcKoUyHXC1A3Qh2uasLLlu5ftO8X3BFVN0EmMygOswrf8Sv6b-O_MYC46AGMVWXxNcYNsu-3R3HtXhmLEbz752998ZoGaHgCUQ-fWl87tqYXjfI1jk8tSksLQCgV_DJF3Egw2775WUqSxzhQoXBP2Qi3DNF6hNTEPAhMWQmX0qaImBWJv9DZhJ9HXgLttM46V7xu8yWCg3L8SgqPfDrUoH6M1CzxKcQ46dBLVjIBEG8mx3A2PP6KCAGBolzDQ_pdoxqOssw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👤
 🔥
@@ -1580,11 +1614,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.78K · <a href="https://t.me/SorkhTimes/138104" target="_blank">📅 15:32 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.81K · <a href="https://t.me/SorkhTimes/138104" target="_blank">📅 15:32 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138103">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GffHC4zAivOJnkZBEkInwglFY5hxaHBMO7vjR-2MUvvFScSEJR4NM09eBpyLTtLjWGOkp-w6GAmlkjzS5LH7tG0SiQIhDrrZ2SnzCVKz8Z9xT23DMBaUeiGiCzlzQUCg7FEIinij2Hlvcj0r4Il3gMNI8LdR_9o38k8gdhWSTz_wDjRfmjCex0D9Mz-auNqoGdDNI2GUcmNN0NYtGlGbxjpZHACqjkj0STrbIcAhIgGK5_jeWTP9_WM7olnOdk7x01Lfrk3H_w9SfCLq4K-2tfz-bLVk4kVrV0NzugLRX8iEk644fg9jX1iauF080jqmBOwE9SxgjeB4kuK-R4LhuQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❤️
 کاروان پرسپولیس راهی قزوین شد
@@ -1592,11 +1626,11 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/SorkhTimes/138103" target="_blank">📅 15:31 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/SorkhTimes/138103" target="_blank">📅 15:31 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138102">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">⭕
 ❤️
 برنامه تشویق هواداران پرسپولیس در دیدار برابر شمس‌آذر
@@ -1608,7 +1642,7 @@
 </div>
 
 <div class="tg-post" id="msg-138100">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">⭕
 ❤️
 برنامه تشویق هواداران پرسپولیس در دیدار برابر شمس‌آذر
@@ -1627,7 +1661,7 @@
 </div>
 
 <div class="tg-post" id="msg-138099">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">🚫
 هرکسی با اسم رمز فردا بازی داریم خاست جو اروم بکنه پول گرفته و قرمساقه
 https://www.instagram.com/p/Db3Z8emDcaK/?igsh=MW0zbm5sMHc5Y3UzZw==
@@ -1645,11 +1679,11 @@ https://www.instagram.com/p/Db3Z8emDcaK/?igsh=MW0zbm5sMHc5Y3UzZw==
 𝓣𝓲𝓶𝓮
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.54K · <a href="https://t.me/SorkhTimes/138099" target="_blank">📅 15:10 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/SorkhTimes/138099" target="_blank">📅 15:10 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138098">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">امام علی(ع)
 : مؤمن اهل نیرنگ و فریب نیست؛ خیانت و حیله‌گری با ایمان سازگار نیست
 https://www.instagram.com/p/Db3Z8emDcaK/?igsh=MW0zbm5sMHc5Y3UzZw==
@@ -1670,7 +1704,7 @@ https://www.instagram.com/p/Db3Z8emDcaK/?igsh=MW0zbm5sMHc5Y3UzZw==
 </div>
 
 <div class="tg-post" id="msg-138097">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">✍
 کون‌گشاد دروغگو شیاد میگه همدلی؟! با دسته کورا طرفید؟! علی سه پستون‌ چرا رفت دست بوس علی دبیر ؟! نه جواب بده دیگه… چرا با لیدرا تا پنج صبح تو یوسف آباد جلسه داشتید؟! امر خیر بوده ؟!
 🎗️
@@ -1681,7 +1715,7 @@ https://www.instagram.com/p/Db3Z8emDcaK/?igsh=MW0zbm5sMHc5Y3UzZw==
 </div>
 
 <div class="tg-post" id="msg-138096">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">🫦
 ریدم تو باشگاه که علی دبیر بخاد برای ما تعیین تکلیف کنه
 ⛔️
@@ -1694,7 +1728,7 @@ https://www.instagram.com/p/Db3Z8emDcaK/?igsh=MW0zbm5sMHc5Y3UzZw==
 </div>
 
 <div class="tg-post" id="msg-138095">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">🔴
 پرسپولیس اینقدر خار ذلیل نشده یه ک.و.ن گشاد دهن گشاد و ارباب تخ.میش بخان گوه زیادی بخورن مالک حقیقی این تیم هوادارانش هستن
 🔴
@@ -1708,7 +1742,7 @@ https://www.instagram.com/p/Db3Z8emDcaK/?igsh=MW0zbm5sMHc5Y3UzZw==
 </div>
 
 <div class="tg-post" id="msg-138094">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-text">🔴
 ❤️
 پرونده رامین – پرسپولیس بسته شد
@@ -1721,58 +1755,6 @@ https://www.instagram.com/p/Db3Z8emDcaK/?igsh=MW0zbm5sMHc5Y3UzZw==
 🤩
 @SorkhTimes</div>
 <div class="tg-footer">👁️ 5.46K · <a href="https://t.me/SorkhTimes/138094" target="_blank">📅 14:48 · 23 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-138092">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cS-rF9YFd7kuUrcQurji53Q-wGxEw_tSoq9tLQc3MTLvokBbmFSImJZoK6g7OYaRAwg_2En2P9ESy9ZuZxGVojlFjZC4xocYLsDOtwWN2LKknrQ8e3yDuIZCuqBZNovv29XYOSrfwZsb23j-PjVloGygiFvdaVaDvIFbloOWixRdHjhJO0NqbL9Cz9mGY-eTqCYs5MwC9zhivqo_-z-hqI3OvZCsjUG1k9nV1y6VBH57sSdCo-yXXzqPvKItty1jMmjQIgVu6ANtXNfsp0HiCR1x_TBzrJBBJvr-aj79jklZT_KHmyv4oZbM0S8BC3kHgAqsRoiRC1c-vHy9wON7mA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">❤️
-🤩
-نگاهی به
-😃
-تقابل اخیر پرسپولیس و شمس‌آذر
-🎗️
-«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
-🤩
-@SorkhTimes</div>
-<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/SorkhTimes/138092" target="_blank">📅 14:39 · 23 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-138091">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hIiietkzhqRS_yYJOHIoepedb85avwi8BHlb9qEs3sKq7PADDY8H8yARLsR6uW8jBcRDcDAcwDwwp1vgOikmmWLnOWVrZTyKjbZCxhrMPnXU-QhAyCXWw2Z3qOgPtvII6adjGuEV6qI2ji_iNexPT0PZ2iRR5W8xVUtxygmFf2U1bttEymQ58Y0w910aSbLrSt1lc4pOdolaHhvm8Z6ZujB1pDgPeIVdVD0ruTCXwPfsYON4X_-mcGb7UZUCeS4q_S9rXadSFuRJ0bgERiIaPQjIZWUEtW2MM9BrpMeVvF38wVUWH2D_mebEkB3VPZUZjX6QYpHP_aKkYi4GRrvqgQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🔵
-سوت آغاز لیگ برتر ایران؛ پرده اولِ یک فصل تازه، مدعیان برای شروع طوفانی می‌آیند!
-⚽️
-امشب تراکتور و استقلال با برتری روی کاغذ وارد میدان می‌شوند، اما چند تقابل کاملاً متوازن می‌تواند معادلات را به‌هم بزند.
-سپاهان و گل‌گهر هم به‌دنبال سه امتیازند؛ شبی که فاصله‌ی بین برد، تساوی و غافلگیری بسیار کم است.
-📌
-مسابقات را فقط تماشا نکن؛ همین حالا وارد مینی‌اپ وینکوبت شو و با اولین شارژ خود و دریافت ۱۰٪ بونوس ویژه این دیدار‌هارو رو پیش‌بینی کن:
-👇
-🤖
-@Wincobet_bot
-🤖
-@Wincobet_bot
-📌
-کانال رسمی وینکوبت:
-🔵
-@Wincobetofficial</div>
-<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/SorkhTimes/138091" target="_blank">📅 14:38 · 23 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-138089">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">https://www.instagram.com/p/Db3Z8emDcaK/?igsh=MW0zbm5sMHc5Y3UzZw==
-#اخراج_اینانلو
-❌
-#اخراج_احد_میرزایی
-❌
-#اخراج_بازگشا
-❌
-#اخراج_خلیلی
-❌
-#جذب_قربانی</div>
-<div class="tg-footer">👁️ 5.47K · <a href="https://t.me/SorkhTimes/138089" target="_blank">📅 14:33 · 23 Mordad 1405</a></div>
 </div>
 
 <hr>
