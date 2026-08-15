@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64.4K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 14:15:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 14:41:16</div>
 <hr>
 
 <div class="tg-post" id="msg-6574">
@@ -306,61 +306,61 @@
 حزب‌الله در «دکترین ضاحیه» بمونه!
 و رهبر شما هم از زیر گودال و چاهِ حقارت،
 «علی الاصول» بنویسه براتون!</div>
-<div class="tg-footer">👁️ 7.5K · <a href="https://t.me/farahmand_alipour/6574" target="_blank">📅 11:14 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.99K · <a href="https://t.me/farahmand_alipour/6574" target="_blank">📅 11:14 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6573">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c5XA5xxIvKfKhlWZ4wBvbVvdCbLUvJ-6FLPOw_UtJRS856NIn-lknRl9tmrsh6yTeKzNQFFHlI2w-POl19vy4kiSMvbYcit7VKq2_NKqSLbRg6zOsGCG5recU0cNME8y74RWFowWPSksSKANBp2MW7DXQej8Iyx_g9KWzbqcRvWR1afPuYJ_L0mT-TihxUKurAt_PaNvtDf74Vf179Yg8fU7XFSai4ydW7pytzluj_ySDU4-_TbJ6Lp8nGYG1-2SihpSu5eNMQMQoE_VWQPwqyOOukZ0A2p_pVm7tQeJGts2z1yewvKWDS37xIa-n8bhxJPUw1U_QJlZ_ixyrum7NQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی از پسران معصومه ابتکار (سید طه هاشمی) به خاطر اینکه پول یک موسسه رو بالا کشیده بود (به ارزش امروزی حدود ۱۷۰ هزار دلار  یا حدود ۳۳ میلیارد تومن)  حکم جلب صادر شد.  سید طه هاشمی همچنین متهمه که سرمایه‌گذارن رو پیدا می‌کرد، یه پولی ازشون میگرفت و با توجه…</div>
-<div class="tg-footer">👁️ 9.25K · <a href="https://t.me/farahmand_alipour/6573" target="_blank">📅 10:29 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.7K · <a href="https://t.me/farahmand_alipour/6573" target="_blank">📅 10:29 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6572">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VUjClHVzaH5KUBjo6d6vkLMJdTMjD8mbT18Ch4N3IeQvI3XkFaVIigydKoqP60RTwiZ06XHUeSvphqfrNCEKj3JNGtEqxEbrXQFUQrrSVbTROd44uTwkmUuXWj-2gcbdcJ_EvIq6eFO1bHpWjvLoy4Sf9wJHfK_0581MF7o0vbFsK211ufWWrNtLLY6uWZfweB6LauP7-E9cgwswh2YRk73CJnT-hM3Dvlbg4SuPklcrBViixlD3XNKOTClNgnrBF0TH8N_3AayrzfT_yENeFq9x9ErrH9wKAoV2SmTDT4Oa0vt3Fa6d3SKVKp0sW_Oi0WToD8X1UxZe8wa_rJsVNQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در پرونده «املاک نجومی» که شورای شهر تهران به ریاست چمران، زمین‌های مرغوب دولتی رو با نرخ ۵۰٪ زیر قیمت، به مسئولان حکومتی فروخت تا اونها بتونن چند برابر بفروشن  (بعضا با گرفتن مجوز تجاری و…..)  و از سفره انقلاب بهره‌ای ببرن،  نام معصومه ابتکار هم دیده میشه.…</div>
-<div class="tg-footer">👁️ 8.72K · <a href="https://t.me/farahmand_alipour/6572" target="_blank">📅 10:24 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/farahmand_alipour/6572" target="_blank">📅 10:24 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6571">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/U-LjuxwJENWdD_hooyPi_qgjqJ9feZHxuxEJi2Na4TsGNRnX3OawM1ee6WQ0NDfnaBUaGrLgZybYfa70bKdEeBO8yLBMbwwVTArAa3TUvsFPuMruIKmxSaS43Rx_FplZRZVqQVPnkOTo9FbE1lxhwilfw_tWyUeijC-dTgOccBkgyAAJRcID5Shu7UnDjMwbJwW5FXsZOm5COaPGmIwkI8AYF5LtZCxY6CpDiG8ZlK9FY0Ko8dqdABwaN8buDU0CUzzLp76_3bjKrQeuccnQ9O9Hv4QvAlAVS5IKWNnHu--ZUbg5SHOqDRoWZxfpuLnFp0Xwh2IMc31qS4Lx6qHqnQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معصومه ابتکار، از زمین‌های ارزشمندی  که جمهوری اسلامی پس از وقوع انقلاب مصادره کرده بود نیز سهم برد!  او به همراه مادرش (فاطمه برزگر)، خاله‌اش، پسرش و البته «مهدی چمران»  این زمین‌ها و املاک را به اسم «موسسه زینب کبری» ثبت کردن! موسسه‌ای با زمین‌های مرغوب،…</div>
-<div class="tg-footer">👁️ 8.8K · <a href="https://t.me/farahmand_alipour/6571" target="_blank">📅 10:17 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/farahmand_alipour/6571" target="_blank">📅 10:17 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6570">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i_0Fj0QL62WE3q-PkAIDk2hGRs2dPmKFsGz3_TPqW19ItMKLdi0pvaP5dd8R6p0MFaRda_AiTVD9tSNqLz1NQawje25wdXlUDNnatJGwi_VeZpAqjw08qBU8aE6BhowrsEQGR74ULcH0KHZRcuI0ou8uFg2gQ44uh6YcaB1Bj6nxSmwt6P3luxkgU0F9z5QKkA0sUWwd66UwpHUd780-B2LS2MeD4kZFuwg9-meZ4iVfnnuHXYzDKJLKBWFTBHzcvpTEzcN-a5jFeYmIc3rPOXyGOfaBrGe5K8qnGdMaXPE_pg_ttAEjAUg1WjABPchiQfG901mZ3FqL8Zz1hjgjmg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این تصویری از پرونده «چوبهای روسی»!  معصومه ابتکار همچنین در دورانی  که رئیس سازمان محیط زیست بود،  به «زنگنه» وزیر نفت گفته بود که اعلام کند که دولت «بنزین کم گوگرد» از اروپا وارد کرده!  در حالی که این فقط دروغ گفتن به مردم بود!  زنگنه بعدها خودش این موضوع…</div>
-<div class="tg-footer">👁️ 8.47K · <a href="https://t.me/farahmand_alipour/6570" target="_blank">📅 10:13 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.79K · <a href="https://t.me/farahmand_alipour/6570" target="_blank">📅 10:13 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6569">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/g_M_u0lvhF2WahWSJmHZv9rWEiwRwwPGGSMBkAnL-9BemINtXl79ELmExzzV2Xh5VjTyLS2n7p98TM9Jd3T6qrBKQRZcy7WIJmBucnAQ9D3i96wcMAiMhFizI32hdJo7RswHrKJTkv6lt8f-DlAg43sZ5M8NXiQCu-XLLlvYjYTIxznR1dNvn3StyHKqhFBWby0UIBmJPmRElPFxTsvPBjMXhUXQnT6g0fwlnzNEDE4-tlIIl5OB71hEOST8AtRF1s8ZIm_bdDpo7fyYTPZ7qOjBHkEb_INVf6NgFjsbP38IgWWDmGhLnBuYe5GAJaGxWER8W2Sf1qYw77aF4GQTTQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در حالی که به خاطر سیاست‌های این افراد،  از جمله این زن و شوهر،  کل کشور و جامعه ایران درگیر یک بحران  عظیم شد، آنها از رانت‌های بزرگ حکومتی  برخوردار شدند!  سید محمد هاشمی، وارد کار و کسب شد!  از واردات قطعات سلاح برای وزارت دفاع تا واردات چوب ! از جمله پول…</div>
-<div class="tg-footer">👁️ 8.53K · <a href="https://t.me/farahmand_alipour/6569" target="_blank">📅 10:06 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/farahmand_alipour/6569" target="_blank">📅 10:06 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6568">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">معصومه ابتکار و همسرش «سید محمد هاشمی»  که او هم در تیم گروگانگیرها بود،  در همین ایام گروگانگیری، با هم آشنا  میشن و باهم ازدواج میکنن.  سید محمد هاشمی خودش فرزند یک آیت‌الله است!  گروگانگیری ۴۴۴ روزه موجب آغاز خصومت شدید آمریکا علیه ایران و آغاز تحریم‌ها…</div>
-<div class="tg-footer">👁️ 9.44K · <a href="https://t.me/farahmand_alipour/6568" target="_blank">📅 09:40 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/farahmand_alipour/6568" target="_blank">📅 09:40 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6567">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/v07wCgiZ4-pN1ZLx7Mj5lx23c7bH2jcbgFhOVF1CG3P39a7LVlSOAkGcITA-dDHTqqpDUy4JkGUIbecKAl23ugJQgkow20RFBOujNO8WG6-_PEBdbKeU0qmM9-aQlRpF994IYZiGj6I2IAIyhKKe-rjFD4G5S_mjJoDMFA_Ncias6mkjkbrLZ4ZGMxbneweIyuHKOK8iBRwIHshhQPoDm9-ymX3CHSBYtWT9ULbVZpkQe31_0x-33g1gcT0aVjT4YPKchATvp007bERdnStLS_fmeWZutb4cPJW_wdItKZCDjMk8OLNuzi4hzWEX6dACebpxSkY1QLp0vYpddFW6nw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مریم در این نامه به مقامات آمریکایی نوشته  کارهای «معصومه ابتکار» ربطی به ما نداره!  ۴۷ سال پیش بوده و…..!  توی این ویدئو که خود مریم گرفته ولی، خودش دست به یک مقایسه میزنه، میگه بقیه پرچم آمریکا رو زدن ولی ما پرچم امام‌حسین رو!  در واقع عروس خانم خواسته انتخاب…</div>
-<div class="tg-footer">👁️ 9.77K · <a href="https://t.me/farahmand_alipour/6567" target="_blank">📅 09:36 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farahmand_alipour/6567" target="_blank">📅 09:36 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6566">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">این صدای عروس «معصومه ابتکار» است! و این خونه عروس معصومه ابتکار است.  که با لحن تمسخر میگه اون پرچم آمریکا زده به خونه‌اش، من پرچم امام حسین،  حالا نامه نوشته به مقامات آمریکایی که من عاشق آمریکا هستم و بچه‌هام حتی فارسی نمی‌دونن</div>
-<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/farahmand_alipour/6566" target="_blank">📅 09:25 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.89K · <a href="https://t.me/farahmand_alipour/6566" target="_blank">📅 09:25 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6565">
@@ -380,7 +380,7 @@
 و واضحا تهدیدشون می‌کرد.
 میگفت شخصا می‌تونه اسلحه رو بگذره
 روی سر یکی از گروگان‌ها و اونو  بکشه.</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farahmand_alipour/6565" target="_blank">📅 09:16 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farahmand_alipour/6565" target="_blank">📅 09:16 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6564">
@@ -393,7 +393,7 @@
 <a href="https://cdn4.telesco.pe/file/c3f7a1d6d2.mp4?token=cuye6X4qNVzaXbl99AI2VBXxYCutDa57BYp31MEOluy6haWWJZ2FyEHfUxbl7isiL2-eBZoSFXG0lLwfqh0GUofTvtN0a5Nee6mx7MiHUgYXk8MEpuWxal18R6EMMF-v_kZHLunkNVzUMQEElmxr_xCgswauq6Gc_avgkK19TS4CG-2_kQ9d-P7VZsacZYkzQRiTRm-_udsAzJ1S7R4J-avNwpwzkcVlvEboCCPByvrTc2s6vengjJxlBzAc4HaI-jEGO4XoncTVkIXB2kqruXnB0UuJj0kSZi6ZdaattGRHszUUWp8k1XusvAodjsFYezNbGEM5gzZ5V9QsrYM92w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این صدای عروس «معصومه ابتکار» است! و این خونه عروس معصومه ابتکار است.  که با لحن تمسخر میگه اون پرچم آمریکا زده به خونه‌اش، من پرچم امام حسین،  حالا نامه نوشته به مقامات آمریکایی که من عاشق آمریکا هستم و بچه‌هام حتی فارسی نمی‌دونن</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farahmand_alipour/6564" target="_blank">📅 09:06 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farahmand_alipour/6564" target="_blank">📅 09:06 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6563">
@@ -403,7 +403,7 @@
 که با لحن تمسخر میگه اون پرچم آمریکا زده به خونه‌اش، من پرچم امام حسین،
 حالا نامه نوشته به مقامات آمریکایی که من
 عاشق آمریکا هستم و بچه‌هام حتی فارسی نمی‌دونن</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farahmand_alipour/6563" target="_blank">📅 09:03 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/farahmand_alipour/6563" target="_blank">📅 09:03 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6562">
@@ -419,13 +419,13 @@
 راه دریا بسته شده.
 چرا زدید زیر تفاهم‌نامه و حمله کردید به کشتی‌ها؟ که قیمت نفت بره بالا
 و به ترامپ فشار بیاد؟</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/farahmand_alipour/6562" target="_blank">📅 08:43 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/farahmand_alipour/6562" target="_blank">📅 08:43 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6561">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">دیشب هیئت‌های عزادار چوبدار تبریزی و یزدی در مشهد، پس از مقداری عزداری برای امام رضا، همدیگه رو چوبکاری و سنگ کاری کردند.</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/6561" target="_blank">📅 17:00 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/farahmand_alipour/6561" target="_blank">📅 17:00 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6560">
@@ -439,7 +439,7 @@
 </div>
 <div class="tg-text">و تاریخ ثابت کرد حق با آرش و آرش‌ها بود!
 فهم آرش از «شریعتی» و «آل احمد» و «هما ناطق» و «شاملو» و «غلامحسین ساعدی» و…. بسیار بالاتر بود.</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/6560" target="_blank">📅 11:22 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/6560" target="_blank">📅 11:22 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6558">
@@ -465,7 +465,7 @@
 <a href="https://cdn4.telesco.pe/file/08352cf997.mp4?token=WWlbq1brtgg1WfodOL-t0wkcINXdcHlRmrcbY3BunK8BCMS0PSmdMdvS9xnquj3ApXeeFBBtjh3ZUek2jXbcU5gi9k_I9n1qNfU3Ezcp3nWbs1KgDEjyKtTdwmYQXHmwVTqcWFM-yLahXgPTj_Q4SKlZoPH6r2IbQ04eeMeH_PJDClZvaTN_poflUg_wgGR2Yb_NFTLIEeMkQR26RdPGs29G8UWZbb5bvOQR_JTgV79FaPnMl31XS7MG34bsI6Vyg3XxzDzgtAODrwVcn0lbkPbA6B1QjBCzBKHZzGWSthEEBhwuWysgTb4Zq7h5NlPfIAiqeSaLUqAkIyJ9MK-NNQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">از نتایج حملات موشکی جمهوری اسلامی در تنگه هرمز،</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/farahmand_alipour/6557" target="_blank">📅 23:18 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/farahmand_alipour/6557" target="_blank">📅 23:18 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6555">
@@ -546,7 +546,7 @@
 رو
 ۱۵۴۰٪
 افزایش بدن!!!</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/farahmand_alipour/6548" target="_blank">📅 21:54 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/farahmand_alipour/6548" target="_blank">📅 21:54 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6547">
@@ -560,10 +560,10 @@
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/7024d4011f.mp4?token=Tt5HqmGMCUuBYCu1ozc-sGtM8RkGl4V72NK5tpn9EG2vgalKNB_q-0P3b6qJiYvTuRUkOgn1u06yUFMXNwJX36iYNoc9qRQfKnWYFDUgu8gVM6v8a71dRb7pQGXeEd5F9TfNGrarjrwxPkXSa2XY9PfrJEr0sjO2B-Ecc81l_wXFAoihZ-OOvPY_kkNq2j9dz_oqc0MyREDSRH420_D9LSVxam04Ro8C7QDUW9XCM4GVKZT28W-PYTy_jbwDEi91AWwqWh64zpnNpiPmhv9G8TtENHu0nBkI9MlxpsFpycn8i4jj3V-w60oyCGecouSxstQckruJd_TUBaxZRysqVA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/7024d4011f.mp4?token=Ri4VNQoFNl0YZ2xoYrjxvdpCHmoISNeO6nY16tsBkvdP1zcsGL0lf8jFo0cfxN0XLPOzqDaQjiwo30BC_ysB5FlzkuhTzz927XHgSnTsqZdspZgAtZ4miNiuvmPTvLmbdGqTCeh6-hgvBZ1Cd8TD5ZEqRiXxkjuxLPr6Q_EgxJoStxPaeKOPdg_9eVA3baQhw771qO4iRf9gjunbfHJ1LP2nZRG0ZZ_X5ULKiEcKSa-FDouWY7hEz9qLhyukWKldvWXJq1T8YHhLQvQIfZ6NQEtf0bGXsiPNbkdO5iK8PDVgMuReimcPkNHqNPO9YaIEl0XSpgZLydLG5Gr8SodPfw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/7024d4011f.mp4?token=Tt5HqmGMCUuBYCu1ozc-sGtM8RkGl4V72NK5tpn9EG2vgalKNB_q-0P3b6qJiYvTuRUkOgn1u06yUFMXNwJX36iYNoc9qRQfKnWYFDUgu8gVM6v8a71dRb7pQGXeEd5F9TfNGrarjrwxPkXSa2XY9PfrJEr0sjO2B-Ecc81l_wXFAoihZ-OOvPY_kkNq2j9dz_oqc0MyREDSRH420_D9LSVxam04Ro8C7QDUW9XCM4GVKZT28W-PYTy_jbwDEi91AWwqWh64zpnNpiPmhv9G8TtENHu0nBkI9MlxpsFpycn8i4jj3V-w60oyCGecouSxstQckruJd_TUBaxZRysqVA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/7024d4011f.mp4?token=Ri4VNQoFNl0YZ2xoYrjxvdpCHmoISNeO6nY16tsBkvdP1zcsGL0lf8jFo0cfxN0XLPOzqDaQjiwo30BC_ysB5FlzkuhTzz927XHgSnTsqZdspZgAtZ4miNiuvmPTvLmbdGqTCeh6-hgvBZ1Cd8TD5ZEqRiXxkjuxLPr6Q_EgxJoStxPaeKOPdg_9eVA3baQhw771qO4iRf9gjunbfHJ1LP2nZRG0ZZ_X5ULKiEcKSa-FDouWY7hEz9qLhyukWKldvWXJq1T8YHhLQvQIfZ6NQEtf0bGXsiPNbkdO5iK8PDVgMuReimcPkNHqNPO9YaIEl0XSpgZLydLG5Gr8SodPfw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">زاکانی میگه :
 ۱- موشک مستقیم خورد به خونه مجتبی
@@ -586,7 +586,7 @@
 خورشید گرفتگی است.
 (عمامه سیاه آخوند که مانع خورشیده
 و کشت و کشتاری که پشت این عمامه سیاهه و روزگار خورشید گرفته ایران)</div>
-<div class="tg-footer">👁️ 27K · <a href="https://t.me/farahmand_alipour/6545" target="_blank">📅 02:18 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/farahmand_alipour/6545" target="_blank">📅 02:18 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6544">
@@ -595,7 +595,7 @@
 ‏آمریکا باید جنگ را پایان دهد، پول‌های مسدود شده ایران را پرداخت کند و جنگ در سراسر منطقه، از جمله لبنان و غزه پایان یابد
 ‏-شروطی دیگر از طریق واسطه‌ها به آمریکایی‌ها منتقل شده
 ‏-تا زمانی که همه شرایط ایران برآورده نشود، تنگه هرمز بسته خواهد ماند.</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/farahmand_alipour/6544" target="_blank">📅 00:05 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/farahmand_alipour/6544" target="_blank">📅 00:05 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6543">

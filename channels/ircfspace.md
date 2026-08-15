@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 14:15:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 14:41:16</div>
 <hr>
 
 <div class="tg-post" id="msg-2555">
@@ -307,7 +307,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -322,7 +322,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -345,7 +345,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -361,7 +361,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2550">
@@ -377,7 +377,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2549">
@@ -392,7 +392,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2548">
@@ -421,7 +421,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2546">
@@ -497,12 +497,12 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 51.4K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.5K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eSGoR4MxEFIpaZvvWbLnI0vEeTdNRIoCw-XirGaHEQPO5JuXnO0PWc9i6ZwHtKZLqgwJ0CEo9goDiDIDgfEfenD6rpZ-ha4cLDZEZQmya6H4rmrYYnQfRfpCzvqJlLzX5r1lXQ5j7EkgyqyFO128EikwXf7fHLgqQo4hkpaCSQHdxMyDpGpHJa2vapWaMhrhkTJ2CmkgHM-SMM3LR7BFnmv9woYlzfMel3-sT5G_PWCXy1MqV4jxOFbtSGHLfjnInUfh42gb_zq-NZh3Y9LikQEQKicD7rb1KAQ2dO5wtGobtjZ9PSoYWnku4H4SkdmGo_zdz1YVEGJHWCE7BvT9nQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lbd6N7JCEAd0-a78a2v0sxALs4bjCZPmEk6NgGFjLUHqjPvpefIARcrJFy5j30nAc5wC8AnFiICuy1TV4_xWb4S-1eX8qEoYdXfKGiqvws-LgxNUMnSswVm4NnN65qPsOZwPb1UzZIbNnHXwm4ZjFdWyZoec1akCXjRJNO-NZk7qPPvxy0YpgPRphi6WfAH2HAQedyzx45LQyTUBHlMEKQqJ-31Xoa-X7e3oYto5oaLsH0YAr38qHnb46PDI_6mCMVyv8gt8LTF1HYwh26kRIJv0rHI0yioiQBSM3W_bAl8E7jPEdGN30GT8M_-hmicHbbOviY66UrI0iFO3LbQUjA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باورم نمیشد که بعد از ۸۸ روز قطع سراسری اینترنت به جای اینکه بیرون بندازنشون، به نمایندگان حکومت تریبون دادن که در اجلاس جهانی اینترنت سخنرانی کنن؛ بعد دیدم این اجلاس در چین برگزار شده!
 روابط عمومی وزارت قطع‌ارتباطات گفته نمایندگان جمهوری اسلامی در پنل‌های تخصصی اجلاس جهانی اینترنت که دیروز برگزار شد، مجموعه‌ای از پیشنهادهای راهبردی برای توسعه همکاری‌های جهانی در حوزه‌های اقتصاد دیجیتال، هوش مصنوعی، امنیت سایبری، خدمات ابری و تاب‌آوری زیرساخت‌های ارتباطی ارائه کردن.
 🔗
@@ -512,7 +512,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2540">
@@ -532,7 +532,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2539">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AL-CxF8QFwbCwHWCMkjqIVnBdCVlPOVq_faBE9ZOReQpUATcrCCb0121dpgggRh01r5ggnAmA2O6tE7fD0qT-e4ZGwKLMSDgGUA4R7d4UUGrCO-q-p0evTd339vnAY-GZ5BCLCT6arLGS2DDroN5m2L3wZgNC2ga3NVqntugwRrsX-0WZaYbh_H-2kAcAgQFbP6mciajXhmYel8IM7f2GraGSaJtJKRU0zSktLxv3tUs-BHlS-Z48blyq1jruimydSK1FHagCKfPvLEWbEYgoNby8bH8r0ED31JuOXnPXyZ3lbJL2bbgCykF3SgkFBAbqEvnsoyJtEUJ8VmhJlWNIw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/X4ApjgLQFl5yL6yjI3VIqYXapbqqTG_6QBfc3ZOi0eTWMeGTwz9pUc7-PYOhr2v_QiXLwB5Wj6Df3cJywDzL9fv8cKNftMRlLqEpejgqRcjKmEMyTCPQd_bXd2w-T2Xr-deIa4hfKdNUm5jJClT7rbSHodpu4dNsBxomGs6C6XXszpIrz6QKg_DobA2DjMq45YGfEUCQSgYthziVKGQ-zFiqhQUGSEw9qr_8uKBQQFUf2ukgO40Y8dVeXpEYwj_HuqC7oH0njowbBzl6Giy9cM5da9VWt_AnK7qIQlcgfLs81DAp3ZMAoX1oI6U5ex8npbjBXNb5rhitbJVxl4Vp2g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جدیدترین داده‌های مرکز آمار ایران نشون میده در بهار امسال ۶۳۰ هزار شغل صنعتی از بین رفته و سهم صنعت از اشتغال به ۳۱ درصد کاهش پیدا کرده.
 حالا این آمار رسمی مربوط به مشاغل صنعتیه، ولی فکر می‌کنین آمار خسارتی که بعد از قطع ۸۸ روزه اینترنت به درآمد و مشاغل اینترنتی وارد شد چقدر بوده؟
 🔗
@@ -637,7 +637,7 @@ Farshad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 60.5K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 60.6K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2532">
@@ -735,7 +735,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2527">
 <div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/n-QkfbZuodkusdhukhUO37y0k155toAfW58THPsrUfBpPT7BDmOUgamOsR5vgTNZtvlj5bpEQ8i66ccl2FDH5XtqzHZsmlj9XXEau0Dfvkku4lJbe1F2cNe8M36EjJMvvMvqF0vmr3tMMeVi8lEk40kEPggBmWdvhCCPdmbt5izaEm3aGYsKPInxUgadMaPX0GrFWXpfG4BoRn81DaKTvqQJMFHkgL1QQ0kib6YJqXH0wDjUWoEYOhCNL4vwh_FWRsrjIx1Rl8KmGy1pcVXhwjgQB11PdoaAu8qdLDLajfH27xDvRKBaFVe6twf9KxAJbokMvGJf7GSJhxIIBIa5KQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/u3GrKBDR7HkhsSMDjUDt3YkIXHFum8plAc1zydArmfOrLS14TeXnLCO9o-hTxf1gSm5kcgSngxHLEYvvy60SyiN9BmhyZG-hg53FTRfKhwQ58uZ60pyFPPXViclq6lprzxSh78ZozAzcIs_L1GNNAonkOq6xhud6jIUGx2IyUuWR-sFyhYkVE553W9FYd6R4MgSDoREocsUZMgbTuqf44jCZKZiaaspkTkhNfjxYyab6SWRFUqG3WE9igB6NQ7Qr4CJeY-j4JLnOrlj6ZBPI7VaXsE6UlbuG8gg5QDMFFMnGx3hoAa3UlbkdAG24pMVEgGkDiBecE_D31c4T0kYgig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه جدید از فیلترشکن بگذر برای اندروید در گوگل‌پلی قرار گرفت. همینطور می‌تونین نسخه ویندوز اون رو از صفحه گیت‌هاب و نسخه آیفون رو از تست‌فلایت دریافت کنین.
 در این‌آپدیت هسته ایکس‌ری به جدیدترین نسخه بروزرسانی شده و روی افزایش پایداری اتصال، بهبود عملکرد کلی و افزایش سرعت برنامه کار کردن.
 👉
@@ -1396,7 +1396,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 95.1K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 95.2K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">

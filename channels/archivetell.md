@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 14:15:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 14:41:16</div>
 <hr>
 
 <div class="tg-post" id="msg-7482">
@@ -308,7 +308,7 @@
 دیدن اطلاعات بیشتر
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.54K · <a href="https://t.me/ArchiveTell/7482" target="_blank">📅 23:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.56K · <a href="https://t.me/ArchiveTell/7482" target="_blank">📅 23:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7481">
@@ -321,7 +321,7 @@
 💯
 ⏰
 زمان‌بندی استفاده رایگان: امروز از ساعت 12:30 تا 20:30 به…</div>
-<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/ArchiveTell/7481" target="_blank">📅 15:52 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.54K · <a href="https://t.me/ArchiveTell/7481" target="_blank">📅 15:52 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7480">
@@ -337,7 +337,7 @@ Base url: https://tabitoken.com/v1  قابل استفاده در Vega Agent
 ✅
 🎁
 با هر رفرال شما 20 دلار و…</div>
-<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/ArchiveTell/7480" target="_blank">📅 14:15 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.59K · <a href="https://t.me/ArchiveTell/7480" target="_blank">📅 14:15 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7479">
@@ -372,7 +372,7 @@ jxp.com
 ✅
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.62K · <a href="https://t.me/ArchiveTell/7479" target="_blank">📅 13:59 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/ArchiveTell/7479" target="_blank">📅 13:59 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7478">
@@ -494,7 +494,7 @@ Base url: https://tabitoken.com/v1  قابل استفاده در Vega Agent
 
 <div class="tg-post" id="msg-7472">
 <div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qyeMctGgxJycMO0kWCoII3Jgb1AubbDkbXQf4MZRmOv3esB7sGXa7pr6tBR31yHQ-bsOdRHUfnNT-T3wLTVNAXW6yYVs17twmUqOJE_8gVy-EIG4b4C4t-WaOerA6mNDrV-_BijFc3ORbIrQNelV6GAAlG34cOSaAL0dWS_SQO2_P4F-xk9x2H0PWVlHogLK_FK4-SLt6W47X_sM9BIDYlec-xNxyoPGk9AHQW2OFfnzADcsMA7n_LZSLEdWOwwqKMuqOYoaR4aHVztEwhpcCdzVv1Elztk3EBwI-m08-zdbpc_v3OZSLJznIqkR6e-Qwh807JVkd_DXv1QjVcr8Lw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EyL6c6ZBC6jT0fRuy2biscqPE-2Xj3SICUU47bQjEhOP8yv_RYBX8hqOhsL6BKagmNUvoz0EGhnxcz-4wBLg7hZdmfHTNo4hnlxp-taZ8_Z-gYvIOih4g1Z6mWYI8hjaSHjJieL1sKHEGzJf3gajUQKeflKerDe3-8YxYhTnx2w9akSosBHcJcT36AiaAXQRtfotkpFgk147BiA-e5iAOAdSEVHG0EYu-1RKy20a6PkLhpcBbsuYZxJdevoElfv2rBQqV9XiB-lBfydPDBnFEyclxBafWiT0QwAdoVvPLvOm-BMb5p0tECiEAgs6Qv4cHPPuvk8NAbqOC_4WJ8uv7A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دسترسی رایگان به مدل های هوش مصنوعی محبوب
 💥
 🆓
@@ -550,7 +550,7 @@ Grok 4.6 همین هفته میاد  قرار بود ۷ آگوست منتشر ب
 
 <div class="tg-post" id="msg-7467">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/j2U9nNU_RmT_FRc5DAozxuLOgyls9_34GiLoIpflP_KZgsC8-XGZUHEAsRdHBVTH3GTG9RYreZAkqbQfg96yWyEClGoKLeJGOKg1JuZx0j_Mi4ec3kh91YaQHEhbrecXvVvFZHkQI1a82Ih25eHiX_S7RVaVlFwe5j8ZxNAqOBBArlf34AsyrQEkibKBrwQ-wwZXyHdv1lnXyRd29_0INP4EJinDJnTrbRiLO-ueMRj3uPKJXQjqdmtysYsT3FDslsvG-uqnCwc-dmRQcwp7mhtBYpPMBNCszIbPlFLN0pfABcbB01Q9HebnXG5xfqe_V3LU9vilKs0P5UC4Hjls2w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SjpWnRTn-K5GDn5pIMI-dmdsbsEmddjARGF0_wE0gH2Ygk_D-OWuERnx-jOJlgjsTUYNFcLUnS_2EQUU4u8xWv4wb3ESFMHLcg1COs0h5x64PIxkz3yTMWYRkFmpeJoiZbG1I0QQvm0rsuLaHPICg_N9ZVeRxYG0s81jRnuCUn43EvHEkd2aEE4yDyqO0R76WqKXf9vpNMP4DZ7VYZXOr9gZ485Opap4o4IBto9QrRcpiBJU6pQa_tVVBrcSg8ykPQfGqPfp3uXUiWSc4iulsybMofGA7gpNJhamyUQxFZpqu7gibaKgtF_L2IjaWo9PdpPo6rKQNrVuHFKbRfVqQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💥
 Grok 4.6 همین هفته میاد
 قرار بود ۷ آگوست منتشر بشه، اما انتشارش عقب افتاد

@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 14:15:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 14:41:16</div>
 <hr>
 
 <div class="tg-post" id="msg-2881">
@@ -355,7 +355,7 @@
 ثبت سفارش خودکار با کریپتو:
 🤖
 @NetProPlusZero_bot</div>
-<div class="tg-footer">👁️ 5.47K · <a href="https://t.me/iaghapour/2881" target="_blank">📅 23:01 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/iaghapour/2881" target="_blank">📅 23:01 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2880">
@@ -384,7 +384,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.23K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2879">
@@ -419,7 +419,7 @@ https://github.com/roseshayan/SpeedyBot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.39K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.42K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2878">
@@ -450,7 +450,7 @@ ChatGPT Go & Plus:
 @ChatGPT_StoreBOT
 رضایت مشتری
 💎</div>
-<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/iaghapour/2878" target="_blank">📅 21:54 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.96K · <a href="https://t.me/iaghapour/2878" target="_blank">📅 21:54 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2877">
@@ -462,7 +462,7 @@ ChatGPT Go & Plus:
 ✅
 ویدیوی بعدی: ۲ اکانت
 🎁</div>
-<div class="tg-footer">👁️ 8.9K · <a href="https://t.me/iaghapour/2877" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.91K · <a href="https://t.me/iaghapour/2877" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2876">
@@ -490,7 +490,7 @@ C2PA
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.43K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.44K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2875">
@@ -514,7 +514,7 @@ YouTube</div>
 تا امشب ساعت 24! پس تا فرصت هست کامنتتون رو ثبت کنید.
 🔻
 توجه داشته باشید برای اینکه یوتیوب کامنتتون رو به عنوان اسپم تشخیص نده و پاکش نکنه، حتماً بذارید ویدیو چند دقیقه پخش بشه و بعد زیرش کامنت بذارید.</div>
-<div class="tg-footer">👁️ 9.06K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.07K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2872">
@@ -537,7 +537,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/iaghapour/2872" target="_blank">📅 20:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.85K · <a href="https://t.me/iaghapour/2872" target="_blank">📅 20:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2871">
@@ -593,7 +593,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2868">
@@ -660,7 +660,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2865">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FiUFvYShgULLZe5Madcw-L76ZVvJr2wl8hryvuEio1bobI6xa2KI7b71Ye1knFGV0wFvs1dXsGn60G0iamTCcj4rgLix0n62JdtMHI6OIfNZIDVWfPEXk4OdXsxLFncj-udoFPgAbggkm1G6KQklOG-RL2aamnp4idHKszCe9U92lJXO6LPc8P5qd6miSyP5LkfxeaEmgpRbhIKUgvWtlrTZ4bzVXi_T8DVTCyvDVKd7-EFFvcX2OMFPO06T4RLGKL5JsN1iLBP_kCgvkcKH3QgyXM3-9Jqkjti653xMTQYS5YbM4xlN3alRYx2BnpkA5kMuVSP3ZNSbW7LWC8emgw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SfpvmL1Zbj3HRMivKWXc7Ok7sXuTZPjKZVdLkyMPpDI1gdctVXQlJ4kuf5oMFK8jAoc25dCiPSUHBLNWpLGoEbocuMC8saTXQC3tjTdmtaEf0W-PUR-EqKaaG_YE4djuomjCnwOBqEb2C7gOV4dJ3SE9slmLxHEWDB-sN1K8YOEe0IoVPFwIcvdi5Qf_3k-9NH5nFZzvsCfPvFX2iLCaX7At0wn0dnJYMtcthrjLFc6XFePX9N98EwZQ6CalVaXQseR6m5usZl5jx8wEqGJjUwvPCpuqpNo5_KlclVYxEHqUnPZ_ltUGHmOK8cnIhnL1m4M-5_2fnPk0DQmmg3KxIA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Amnezia Web Panel؛ پنل وب برای مدیریت پروتکل‌های فیلترشکن
 پروژه
@@ -1844,7 +1844,7 @@ Flutter
 (مشابه پروژه torsina)
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2792">
