@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 02:14:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 02:41:54</div>
 <hr>
 
 <div class="tg-post" id="msg-7483">
@@ -317,7 +317,7 @@ glm-5.2
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.12K · <a href="https://t.me/ArchiveTell/7483" target="_blank">📅 17:25 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.14K · <a href="https://t.me/ArchiveTell/7483" target="_blank">📅 17:25 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7482">
@@ -346,7 +346,7 @@ glm-5.2
 💯
 ⏰
 زمان‌بندی استفاده رایگان: امروز از ساعت 12:30 تا 20:30 به…</div>
-<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/ArchiveTell/7481" target="_blank">📅 15:52 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/ArchiveTell/7481" target="_blank">📅 15:52 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7480">
@@ -362,7 +362,7 @@ Base url: https://tabitoken.com/v1  قابل استفاده در Vega Agent
 ✅
 🎁
 با هر رفرال شما 20 دلار و…</div>
-<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/ArchiveTell/7480" target="_blank">📅 14:15 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.78K · <a href="https://t.me/ArchiveTell/7480" target="_blank">📅 14:15 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7479">
@@ -415,7 +415,7 @@ jxp.com
 🎉
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/ArchiveTell/7478" target="_blank">📅 22:12 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/ArchiveTell/7478" target="_blank">📅 22:12 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7477">
@@ -598,7 +598,7 @@ Grok 4.7
 باید دید xAI این بار چه چیزی رو رو می‌کنه!
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/ArchiveTell/7467" target="_blank">📅 15:04 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/ArchiveTell/7467" target="_blank">📅 15:04 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7465">
@@ -642,7 +642,7 @@ Cromite • Helium • Ultimatum • Quetta • Yandex
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/ArchiveTell/7465" target="_blank">📅 13:00 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/ArchiveTell/7465" target="_blank">📅 13:00 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7464">
@@ -764,7 +764,7 @@ Opus 5 | Opus 4.8
 |
 #API
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.42K · <a href="https://t.me/ArchiveTell/7457" target="_blank">📅 11:31 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/ArchiveTell/7457" target="_blank">📅 11:31 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7455">
@@ -880,7 +880,7 @@ https://github.com/faithsaly5-stack/Study-Note-Maker
 ☺️
 ✈️
 ArchiveTell | S</div>
-<div class="tg-footer">👁️ 2.91K · <a href="https://t.me/ArchiveTell/7450" target="_blank">📅 18:32 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/ArchiveTell/7450" target="_blank">📅 18:32 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7449">
@@ -1014,7 +1014,7 @@ GPT 5.6 Terra pro | Grok 4.5 | Deepseek 4 pro | MiniMax M3 | Gemini 3.6
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.91K · <a href="https://t.me/ArchiveTell/7445" target="_blank">📅 20:01 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/ArchiveTell/7445" target="_blank">📅 20:01 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7444">
@@ -1046,7 +1046,7 @@ gitreverse
 @ArchiveTell
 | 𝔹𝕒𝕔𝕙𝕖𝕝𝕠𝕣
 ⚡️</div>
-<div class="tg-footer">👁️ 2.82K · <a href="https://t.me/ArchiveTell/7444" target="_blank">📅 18:51 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.83K · <a href="https://t.me/ArchiveTell/7444" target="_blank">📅 18:51 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7443">
@@ -1062,7 +1062,7 @@ gitreverse
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/ArchiveTell/7443" target="_blank">📅 17:10 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/ArchiveTell/7443" target="_blank">📅 17:10 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7442">
@@ -1262,7 +1262,7 @@ openGym
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/ArchiveTell/7428" target="_blank">📅 12:13 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/ArchiveTell/7428" target="_blank">📅 12:13 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7426">
