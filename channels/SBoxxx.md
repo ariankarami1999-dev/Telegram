@@ -292,13 +292,13 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 15:11:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 15:49:40</div>
 <hr>
 
 <div class="tg-post" id="msg-19944">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">مدتی نخواهم بود...</div>
-<div class="tg-footer">👁️ 5.72K · <a href="https://t.me/SBoxxx/19944" target="_blank">📅 16:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/SBoxxx/19944" target="_blank">📅 16:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19943">
@@ -307,7 +307,7 @@
 <div class="tg-text">ترکیه به دنبال تایید ایالات متحده برای ارسال ذخیره‌ای بزرگ از سلاح‌های ساخت آمریکا به اوکراین است!
 این بسته شامل موشک های اتکمز و ۴۷,۰۰۰ گلوله توپ خوشه ای است که به گفته منابع، ارزشی حدود ۲۵۶ میلیون دلار دارند.
 واشنگتن آماده تایید این انتقال است، اما سازمان دیده‌بان حقوق بشر از کنگره می‌خواهد که جلوی آن را بگیرد و به خطراتی که سلاح‌های حاوی بمب‌های خوشه‌ای برای غیرنظامیان ایجاد می‌کنند، اشاره کرده است.</div>
-<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/SBoxxx/19943" target="_blank">📅 14:55 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.42K · <a href="https://t.me/SBoxxx/19943" target="_blank">📅 14:55 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19942">
@@ -315,7 +315,7 @@
 <div class="tg-text">چقدر خوشحالم جای پاکستانی ها نیستم؛
 فردای امضای پیمان دفاعی با عربستان، یمنی ها یک کشتی سعودی را زدند که در اثر آن چند پاکستانی کشته شدند!
 الان هم سه روز است میگویند ایران و آمریکا دارند سازش می‌کنند اما ولی خب</div>
-<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/SBoxxx/19942" target="_blank">📅 14:26 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/SBoxxx/19942" target="_blank">📅 14:26 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19941">
@@ -338,7 +338,7 @@
 <div class="tg-text">سخنگوی وزارت امور خارجه پاکستان:
 فرایند صلح گسترده‌تر بین آمریکا و ایران با مشکلاتی روبرو شده است و ما امیدواریم که دو طرف به گفت‌وگو بازگردند.
 ما می‌توانیم توافق‌نامه همکاری را قبل از پایان مدت اعتبار آن تمدید کنیم.</div>
-<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SBoxxx/19939" target="_blank">📅 13:54 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.18K · <a href="https://t.me/SBoxxx/19939" target="_blank">📅 13:54 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19938">
@@ -350,7 +350,7 @@
 <div class="tg-post" id="msg-19937">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">حالا باید ببینیم ائتلاف «مکه» پاسخ می‌دهد یا صرفا برای دوشیدن گاو شیرده حجاز و نجد تشکیل شده.</div>
-<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SBoxxx/19937" target="_blank">📅 10:26 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SBoxxx/19937" target="_blank">📅 10:26 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19936">
@@ -372,7 +372,7 @@
 به لطف تلاش‌های هماهنگ ارتش ایالات متحده و متحدان ما در خلیج، میانگین هفت‌روزه نفت خروجی از تنگه هرمز در حال حاضر به نزدیک ۹ میلیون بشکه در روز رسیده است.
 وقتی این مقدار با ۵ تا ۷ میلیون بشکه اضافی در روز که از طریق خطوط لوله و تأسیسات صادراتی تازه ارتقا یافته از منطقه خارج می‌شود، ترکیب شود، مجموع جریان‌های نفتی در حال حاضر به طور میانگین حدود ۱۵ میلیون بشکه در روز است.
 فقط در روز یکشنبه، بیش از ۲۰ میلیون بشکه از منطقه خلیج عربی خارج شد که این رقم بالاتر از میانگین پیش از درگیری است.</div>
-<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/19934" target="_blank">📅 07:58 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SBoxxx/19934" target="_blank">📅 07:58 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19933">
@@ -390,7 +390,7 @@
 <div class="tg-post" id="msg-19931">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">صدای انفجار در شمال غرب تهران</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/19931" target="_blank">📅 02:26 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.83K · <a href="https://t.me/SBoxxx/19931" target="_blank">📅 02:26 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19930">
@@ -463,7 +463,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-post" id="msg-19921">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">محسن رضایی، دبیر شورای عالی امنیت ملی ایران:  پیام ایران روشن است: تنگه هرمز تا زمانی که آمریکا جنگ و محاصره را پایان ندهد، دارایی‌های مسدود شده ایران را آزاد نکند و به آتش‌بس در کل منطقه، از جمله لبنان و غزه، موافقت نکند، باز نخواهد شد.  تا زمانی که تمام…</div>
-<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/19921" target="_blank">📅 20:48 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/19921" target="_blank">📅 20:48 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19920">
@@ -475,7 +475,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-post" id="msg-19919">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">این خواهرمیانه درست بشو نیست؛ ببینید کی گفتم.</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/19919" target="_blank">📅 20:39 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/19919" target="_blank">📅 20:39 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19918">
@@ -488,7 +488,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <a href="https://cdn4.telesco.pe/file/b3df015c88.mp4?token=jkphLzGEoF3bS9H2l4fx16XKuUjomlCNPCSWYdDaifH3sgm5JBjGeo3yJY4-rIvg_B8ocZLuuYTo0EnzxsnkK9JXX6l8KFmQte9vZVIzQMZiHoKkJ8RqlyR3aAvdBYEE78Ch77XdE6XVeWojtKG-p-VgTP7Tco9iNtWL-gVisTdqZZ6vgVf76wMstwTe6vKomZdU5IQdRHYUvfuh6AODl3JFpme4O_9IWyNIAW0Ji2PJjsqVB-ieunkJnNrm-d9KmAFEL3eEDrt7IcMX_95v_7DZIQvSc4T_LgnOgKTuA6GW7ZXmoQeeOe0tRVmbBfU7lPpTQwDMzKx24bKzN1TPSQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">پرواز زمینی بچه های تیم New Castle !  همه هم پنج سانت و ده سانت و …</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/19918" target="_blank">📅 20:38 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/19918" target="_blank">📅 20:38 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19917">
@@ -506,7 +506,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-post" id="msg-19915">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">ترامپ: ایالات متحده می‌تواند به زودی با قدرت بسیار زیاد به ایران حمله کند.</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SBoxxx/19915" target="_blank">📅 18:54 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SBoxxx/19915" target="_blank">📅 18:54 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19914">
@@ -519,7 +519,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 از منظر سیاسی، دولت ترامپ این سیاست را مستقیماً بخشی از برنامه بازگرداندن امنیت عمومی معرفی می‌کند. افزایش فعالیت ICE، تمرکز بر افراد دارای سابقه کیفری، مقابله با شبکه‌های تبهکاری و کارتل‌ها و کاهش شدید ورود غیرقانونی، همگی می‌توانند از دیدگاه دولت نوعی افزایش بازدارندگی ایجاد کنند. داده‌های موجود نیز نشان می‌دهد اجرای سیاست‌های مهاجرتی در دوره ترامپ به‌طور محسوسی تشدید شده است؛ برای مثال، یک تحلیل مبتنی بر داده‌های ICE نشان می‌دهد تعداد بازداشت‌های ICE در مقطعی از سال ۲۰۲۶ نسبت به نیمه دوم دوره بایدن چند برابر شده است.
 با این حال، نباید از نمودار فوق یک رابطه علّی قطعی میان سیاست مهاجرتی ترامپ و کاهش قتل استخراج کرد. روند کاهش جرم پیش از آغاز دولت دوم ترامپ نیز شروع شده بود و خود آکسیوس نیز تأکید می‌کند که کاهش جرم در دوره پایانی دولت بایدن آغاز شده و سپس در دوره ترامپ ادامه یافته است. علاوه بر این، عوامل متعددی مانند افزایش یا بهبود عملکرد پلیس، تغییر الگوهای باندهای جنایتکار، وضعیت اقتصادی، کاهش خشونت پساکرونا و سیاست‌های محلی می‌توانند در این روند نقش داشته باشند.
 با این وجود، از منظر سیاسی می‌توان استدلال کرد که سیاست «مرزهای بسته‌تر، اخراج سریع‌تر و برخورد سخت‌تر با مجرمان» یکی از مؤلفه‌های محیط امنیتی جدید آمریکا است. کاهش ۶۰ درصدی یا بیشتر قتل در چندین حوزه قضایی، همراه با افت ۱۷.۲ درصدی در شهرهای بزرگ، نشان می‌دهد که آمریکا در حال تجربه یک چرخش مهم در شاخص‌های خشونت شهری است. بنابراین، حتی اگر هنوز برای نسبت‌دادن این تحول به یک سیاست مشخص زود باشد، دولت ترامپ اکنون می‌تواند این آمار را به‌عنوان شواهدی از موفقیت رویکرد امنیت از طریق اعمال قانون و کنترل مهاجرت در برابر منتقدان خود مطرح کند.</div>
-<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SBoxxx/19914" target="_blank">📅 18:50 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/SBoxxx/19914" target="_blank">📅 18:50 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19913">
@@ -637,7 +637,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-post" id="msg-19900">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">گزارشگر: گفتید این آخرین شانس ایران است. حالا چه؟  ترامپ: خواهید دید.</div>
-<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/19900" target="_blank">📅 11:58 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/19900" target="_blank">📅 11:58 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19899">
@@ -674,7 +674,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-post" id="msg-19894">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">انصارالله یک کشتی تجاری عربستان را در باب المندب زد و ۳ نفر کشته شدند.</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19894" target="_blank">📅 10:19 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/19894" target="_blank">📅 10:19 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19893">

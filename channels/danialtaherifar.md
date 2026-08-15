@@ -292,18 +292,18 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 15:11:36</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 15:49:40</div>
 <hr>
 
 <div class="tg-post" id="msg-951">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QoO9Vcj3jmWsedr-jiHpC49jjB4RpmX7UGKQZc26kLUcse8RzHtMjDguZLxoqGCRBi74VuWD_vscCUycEh3-6exx_dV1Wkh8mPmZQi-ypUFqhEgRYF6QDQoeIwlFi8ez5oXLbspG16ClzxNUxWeSZixP5i9Rv8UR7KKehe1zxvUAK7xZ3iYophP7BM-bgVnnqtRxtmoPLwQMskAzsY8YLboejvTsZRvvrpDS39KViNs0yRqYB1rEarypx445FS_8kUe4zVM6T8yUbN0gqJ0uPfNNWDM7DmtRlXXGd04aDI24OQ6a-9k7Qx_S56g9NNsYZ5J7_YY1BYHig9W34eatBw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FezA0BOJSITJIh_hqU8gLnQjECn0R5W2BhSm4sGUDJyz2kUmdk2JamMvIKhHyXgV8wrM3fS1w09HjRnZjy80eD6Un7iW1Cuncx1OGdPbzWyvAbwW3kJ96XWlxdp-z9NOU2HKYsz77rUinjhL37VRuxhPVn8rNMZBCoXljeED2k-Ed-9KIgQ9fTflHVEwZEFcZ68A_3qbXGEvtZ8edUiaJhL7tyvtL-0IjYdj6DrBkLlTHVz8xTozW6WGLr4x2dpZxLkdFtPM6M8lHPCBZQ1n4vZgE41FRFLg6fz_jUf5j9DAzNmB9QG1Ub52bkyq2xpQwFv2Ji2Ls8hjQbb-29FjTw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 213 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 214 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
@@ -362,7 +362,7 @@ z.ai
 این اتفاق بسیار بزرگی هست برای مدل های چینی و ما تحریم شده‌ها از امکانات دنیای غرب.
 من تجربه کار با GLM 5.2 رو بعد از بسته شدن اکانت آنتروپیک داشتم که اونم سطح بسیار خوبی داشت، اما قابل اتکا نبود برای تصمیم گیری ها، و الان امیدوارم فرصتش بشه که kimi 3 هم تجربه کنم (اگر خاورمیانه بذاره).
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 598 · <a href="https://t.me/danialtaherifar/944" target="_blank">📅 01:14 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 599 · <a href="https://t.me/danialtaherifar/944" target="_blank">📅 01:14 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-943">
