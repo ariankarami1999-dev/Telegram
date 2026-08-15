@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 18:15:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 18:41:23</div>
 <hr>
 
 <div class="tg-post" id="msg-898">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 802 · <a href="https://t.me/mohsentavoosiseo/898" target="_blank">📅 11:01 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 812 · <a href="https://t.me/mohsentavoosiseo/898" target="_blank">📅 11:01 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-897">
@@ -324,7 +324,7 @@ Ban
 #بن
 #ban
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.41K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.42K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
@@ -337,7 +337,7 @@ Ban
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">تفاوت کلاد تو چیه دقیقا؟ نسبت به بقیه AI ها؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.33K · <a href="https://t.me/mohsentavoosiseo/893" target="_blank">📅 14:58 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/mohsentavoosiseo/893" target="_blank">📅 14:58 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-892">
@@ -366,7 +366,7 @@ Ban
 . پاسخ:
 https://www.instagram.com/reel/DcBLYe_MLHx/
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/mohsentavoosiseo/891" target="_blank">📅 14:54 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.25K · <a href="https://t.me/mohsentavoosiseo/891" target="_blank">📅 14:54 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-890">
@@ -474,7 +474,7 @@ booking.com
 خرید در:
 @mohsentavoosisupport
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.62K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-886">
@@ -492,7 +492,7 @@ booking.com
 <div class="tg-post" id="msg-885">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">ابزار های سئو خارجی رو به صورت اشتراکی از کجا تهیه کنیم؟ از سایت لیمیت پس! Limitpass.com ایرانی چطور؟ ابزار جت  سئو و کیورد چی و چند ابزار خوب دیگه...  http://limitpass.com/ https://www.jetseo.ir/ https://keywordchi.com/    کد تخفیف سه سایت بالا:  mohsentavoosi…</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/mohsentavoosiseo/885" target="_blank">📅 20:09 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/mohsentavoosiseo/885" target="_blank">📅 20:09 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-884">
@@ -512,7 +512,7 @@ booking.com
 <div class="tg-post" id="msg-883">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">بازگشت قیمت(افزایش) دوره از 1 آبان یا زودتر. اگر قسطی دادید قسط رو تا پایان مهر کامل کنید یا اگر دوستی دارید که میخواسته تهیه کنید بهش اطلاع بدید.  با اومدن اپدیت بزرگ دوره(SEO و GEO بین المللی با AI) قیمت، تغییر خواهد کرد. چه اول آبان 1405 چه زودتر.  طبق…</div>
-<div class="tg-footer">👁️ 3.2K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.21K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-882">
@@ -640,7 +640,7 @@ Claude Cowork
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EeBTTvzzELKfcoCp8wwPkZ7tzuIJj5DsVqdA50ZbrLdJyuuAmKRv__BloLhOurX1k9mby16MpOcteX85ECa0JH3GD7EJjNhW_0ZlsPGQfKwQWAixf_9eEvkgeJf_A0LMTO9fc2a2vHcG8VSWFNMEi9Gbc3SfBFZP_NsDkJ_xKQNOE2ynAs5QheR-OrGs_zsEyDpN8i_o9mEMqU5oV5WlrGPm1iimXdJ-Agyo0XJ7KNQ0L2WYFI9bTJzwtHNogcW7Z59Amc0gruCTo2mEnJ6t5L0onenFXRyLd01hbxfgOsCt9RFAFZixSEfaD5nbpHLBRwbeiLhxViPn8vYi7Ue0jw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
@@ -674,7 +674,7 @@ Claude Cowork
 . ولی استفاده کنید کنتور نمیندازه! نمیگیم چرا زیاد سوال میپرسی! نمیگیم چرا هر چی توضیح میدی ما نمیفهمیم! برعکس کمک می کنیم سوال رو درست بتونید بپرسید. خیلی راحت هم اگر خارج از سئو باشه یا بلد نباشیم، میگیم نمیدونیم!
 "نمیدونم" گفتن تو فرهنگ ما (تیم محسن طاوسی) تابو نیست. برعکس، کسی که همه چیز رو میدونه، احتمالا کلا چیزی نمیدونه!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.36K · <a href="https://t.me/mohsentavoosiseo/872" target="_blank">📅 12:40 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.37K · <a href="https://t.me/mohsentavoosiseo/872" target="_blank">📅 12:40 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-871">
@@ -766,7 +766,7 @@ Claude Cowork
 <div class="tg-post" id="msg-864">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.57K · <a href="https://t.me/mohsentavoosiseo/864" target="_blank">📅 12:32 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.58K · <a href="https://t.me/mohsentavoosiseo/864" target="_blank">📅 12:32 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-863">
@@ -801,7 +801,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-859">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/j05iP4Ha-5bWI8VN2CdClzxKV4M_zcNbkV5UMA1aWa649yIewPTcVnbA55WLLMaLiAo0xq9u0moqXdwRMO52TgS3PsIb3MI8bfrC3G2oW-FcQkGjxtCf0Pt4zq_8-1wNN-oqn9d5BLQdxmMzidXdHEZgg48faUO2cEb5YbHWcZ_2XMgKNMiKZ4UDv0Td9JkKQcoVIGjIeVvR-UqY-B9T-UqiA67FeCdBEI8BbQJP-zU2ejx2e0zDRDsFYtXRPmG0jJ_6vR10b3FYnDED4JB947-tkRWrv1btxKIpBXU9LJ3BvzB2jdtFSYQTZ6gsB0-mzDc5ISflbttH3UIm_yWI3A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kTQsJ8UbqF9zx9sOMKLqSC-1P3ktzstJzL44npRDYH1Hr9wrGA0CYvlx_W_24I8iMS_fTjwgJoMAYkZvI77zYfJAjs15ZRsR0Av1FJ3Je1WpAXy8lckDYi4KFwd59IAiCCPF8cjGOnYRgh9LBBMa8DQ4PsChq7DDl4n291fa0Wi2LB7bLTYu0rCShUaUgJvsIJqwIXnCUmyf40KBETgr1Xz6ESOdwtfsJzE8EnSA4jmrJdx4okGcQ99BjCA0LODIJNCAlkdojq_av9cN_2X6SyAfik8Y0-IC9KU4hUfz-WY_rp53y5IVl-P58m0-o6Ote_SA6PW4ZzVKLSAcCmdx1g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این عکس، نمودار حدود 8 ماه گذشته یکی از پروژه های انگلیسی هست. هیچ فیلتری جز زمان هم ست نشده.
 تاریخ 5 فوریه زمان شروع همکاری بوده.
 به نظرتون بد شده اوضاعش یا خوب شده؟
@@ -1472,7 +1472,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vm6Z9WgS23hOQ2uyJ8JBIEPsY8nzVOrTWr90JIvbZfd-NdQCM_4dKdlBnwsppoyESs0iLmnofOayCtmlb5PqPba-sNNCqOWnOSEePuDVm7N3cwP6mNC0Ib7QC38haCkWSCDjixOn_qGoBi5b_A6XdSKe4b9QXssFdXoEkQVsYrkrG76GtTrZp6kE0ClmM-AkfK4LjI2nxJQNBNDPdG_FENV6fkXGeqd1v2q5ROy3XFPr4yCY0yp4e60MX7crHbqmStZhEDKoAoBCHh0zBgp52tWPuywe-2oXNTEs2eL1f5OtIER7hB58ylOFl90Yc9jIiA400abxC3-nR5qF3KOLOA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a1gPOL-bhX7FslN8-Bt_tsXMCuDDE9Xq-rOD4A_5QfVOrFHtFdi99bVnKlvdTj9K5udiAv7KxH16j-JpHwNBiYGoaL__A-zl-qyyTs0VyKrffJZ0D7h_qlKcEirzbcEJ8-7Z4zLCIMR7j9pY38ki0tFHXgOhNo_Y8F5wzsX5IVJqzjbrDOF5UdxgCEHXBCqh9XnXLmX08GVj3YMME96RDrfHiG_rQOnIfRtwkBcUIyh6pqeK3TGrZ-wK0epOCYSxAi2dq97ceNHHCNjuYr5OgncN3vRILYP6WD9WkuTglgk5p6R_TigyVs_6jBHN35LyhLCR3zybwotT39t_1yn-KA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
