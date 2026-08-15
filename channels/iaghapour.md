@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/OzIuXDWqT1ymkUPISImmfrT2imi4L6E4lzOUyiE0aRZSRUvmwcny73LRrjomtQnx-nsKAdH7zhZDRXptGsfrI-5OuwtbWTMqr9RSmdgJGkwYwOZzDL4gZQL3OwPaz42U4mYtDLeGXFLnhqmv06VlL6w-hQE2bOJVJ-hiLGW2wPrgCO2z9ys4KBW6MH2SUPkV_gpBQ0qWHZLMmzsPJq7G0iZP4ksIMKkkmYiPz2xXpYTwKJXIbq8ZT2XUdZJJcUqS1pIRxgoPEg5ykyYTu92TC-dgJ7mm3nj-kbuOPiBaoSHIN-k7bze-wpzEcnX1-Jxctu0PaRChP8QzbgKSRhXzCQ.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/Qx5QLIoLRRVjSMS7VchZ3NAs60azxynsgKHVIXsgFaVTOuD4pb3azBgc8e3qFq-gUoXcPPi21It4Sz0Qw1MWCVi6hbsvvijiUG21cA6zH2aAD7v6B1q0AF6fetRFexu4zyC1Qz7Bt3YLL3R9k5KROPDk1tA3HLmmL2it54JFEOrR1aJPMQC2f-H1jLOGD2coalkfMvwM467uxQpKz54U54__vndpGBCKu4cyy2ljtQ9zPDRwppP56ntk_K46gI9-v0owC7J19ZJXNZJDEe8Om8fSRu9El50-iw0CgsOuEMEFd0Y01vSrZ9F2yOJy2kn_qJIDcgGfuz6idROwNvRcIw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 iAghapour | Digital Freedom🎯</h1>
 <p>@iaghapour • 👥 52.3K عضو</p>
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 11:46:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 12:21:37</div>
 <hr>
 
 <div class="tg-post" id="msg-2881">
@@ -355,7 +355,7 @@
 ثبت سفارش خودکار با کریپتو:
 🤖
 @NetProPlusZero_bot</div>
-<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/iaghapour/2881" target="_blank">📅 23:01 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/iaghapour/2881" target="_blank">📅 23:01 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2880">
@@ -384,7 +384,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.96K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.01K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2879">
@@ -419,7 +419,7 @@ https://github.com/roseshayan/SpeedyBot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.19K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.24K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2878">
@@ -450,7 +450,7 @@ ChatGPT Go & Plus:
 @ChatGPT_StoreBOT
 رضایت مشتری
 💎</div>
-<div class="tg-footer">👁️ 8.83K · <a href="https://t.me/iaghapour/2878" target="_blank">📅 21:54 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.87K · <a href="https://t.me/iaghapour/2878" target="_blank">📅 21:54 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2877">
@@ -462,7 +462,7 @@ ChatGPT Go & Plus:
 ✅
 ویدیوی بعدی: ۲ اکانت
 🎁</div>
-<div class="tg-footer">👁️ 8.8K · <a href="https://t.me/iaghapour/2877" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.83K · <a href="https://t.me/iaghapour/2877" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2876">
@@ -490,7 +490,7 @@ C2PA
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.34K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.36K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2875">
@@ -514,7 +514,7 @@ YouTube</div>
 تا امشب ساعت 24! پس تا فرصت هست کامنتتون رو ثبت کنید.
 🔻
 توجه داشته باشید برای اینکه یوتیوب کامنتتون رو به عنوان اسپم تشخیص نده و پاکش نکنه، حتماً بذارید ویدیو چند دقیقه پخش بشه و بعد زیرش کامنت بذارید.</div>
-<div class="tg-footer">👁️ 8.99K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.01K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2872">
@@ -537,7 +537,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.79K · <a href="https://t.me/iaghapour/2872" target="_blank">📅 20:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.81K · <a href="https://t.me/iaghapour/2872" target="_blank">📅 20:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2871">
@@ -593,7 +593,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2868">
@@ -759,7 +759,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/iaghapour/2862" target="_blank">📅 13:54 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2860">
@@ -866,7 +866,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2854">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/S6IGmIbRzarVsTB-to-iKV7xhimK-FN6IvWtRisOAMTBFjyyM1SK9jkO0ayvuXqJW_mLsXRYBIjEUbk9olACjZilNurIVuCipgZ3wh4U50mrG9Hva6BoCHAVGn6RRMy7WpaPZvf_o1jOIjlgeDm355yANH5kJGITBgLFylFNA5hB6ew7WHF2rdhnyZNDPXd_IWXgk6eOCLC5G33nZN9wth7WVqbZPZwQnsiSCAArjYAbnTz2FvbjJlhnwsiCOx5mK4rOid7DdXxpjlPLKevvrlIqMQyqmUig_jJLXOJ8H61_l-l7gXKdV05ggTCfN5dPgGbSh5YDrF1k3cxQ67iu1A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fmqBhknptcCWu8RMw4ZS_zYonn_D576WJQFy8kavgc8BfE200j47iMdLhB748q_WwhL5R4LigR2PwvJggSaTEwP089ABYPM19NT0njL5QWJ4s-_KIoFd-wZx16S3KTN7HhGhGjkEW7b-m2EckdfbRXJaltHaGCEZfa8x5PrvbTXPzEXFNrfA3aPxHy9tIFjrIq_nOL2sah5jLry71gNdhXR-s-tEqHbl3DETmzi4o0iKLcsROOT-uFTvarvi1BIleIb0EQdkd1MRQIEGhVpwXG9qDxWi6iYVL2w3YzMlpB3u6TR62y8uexKg6B14N9M_rO6UMBYfstqNUlXiDvneaA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>

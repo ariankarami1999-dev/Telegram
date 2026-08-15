@@ -288,23 +288,23 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/h5YiwagM__nzBYFtJGEok7LVR_je_BLx0ygTk3IRWyKnCxS9_u3cPwdUpQis6h3NQZbmOfOuczUc4UZrkxXdvAKFWkl9-_434s6mILXkiGnussIu8a2c5Kc0EUkri6W0Kn2BGhQoPoPNamAjdcSDJmJyRtOzt_dnW1vqyh9E5PUIct3t5jgKhKWf1LHm2pU_J-myR-PZUhE17oaGNqjwA-G8nIpeAbNL_urwJRasWjJ1bAtBKOxbNTdQD8Y2NXXILSI_cA59pECjMFuMCCNWmL7O0hQPoUc1NEpfGpC8KY5jMdbQvaYU2sM1n7sv1mxSQL9yDTtPoSCpQMNmlu0Aog.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو با محسن طاوسی</h1>
-<p>@mohsentavoosiseo • 👥 7.88K عضو</p>
+<p>@mohsentavoosiseo • 👥 7.89K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 11:46:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 12:21:37</div>
 <hr>
 
 <div class="tg-post" id="msg-898">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 349 · <a href="https://t.me/mohsentavoosiseo/898" target="_blank">📅 11:01 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 425 · <a href="https://t.me/mohsentavoosiseo/898" target="_blank">📅 11:01 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-897">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.29K · <a href="https://t.me/mohsentavoosiseo/897" target="_blank">📅 15:40 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.31K · <a href="https://t.me/mohsentavoosiseo/897" target="_blank">📅 15:40 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-896">
@@ -313,7 +313,7 @@
 استاندارد سازمان رو برای کلاد تعریف کردن
 هوش مصنوعی، چت کردن و چهار تا فایل اتچ کردن و اسکرین شات فرستادن و چهار تا پرامپت خوب دادن نیست! اینا خیلی مقدماتیه!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.32K · <a href="https://t.me/mohsentavoosiseo/896" target="_blank">📅 15:18 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.33K · <a href="https://t.me/mohsentavoosiseo/896" target="_blank">📅 15:18 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-895">
@@ -324,20 +324,20 @@ Ban
 #بن
 #ban
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.28K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.3K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.28K · <a href="https://t.me/mohsentavoosiseo/894" target="_blank">📅 15:01 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.3K · <a href="https://t.me/mohsentavoosiseo/894" target="_blank">📅 15:01 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-893">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">تفاوت کلاد تو چیه دقیقا؟ نسبت به بقیه AI ها؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.22K · <a href="https://t.me/mohsentavoosiseo/893" target="_blank">📅 14:58 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/mohsentavoosiseo/893" target="_blank">📅 14:58 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-892">
@@ -351,7 +351,7 @@ Ban
 </div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.2K · <a href="https://t.me/mohsentavoosiseo/892" target="_blank">📅 14:56 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.21K · <a href="https://t.me/mohsentavoosiseo/892" target="_blank">📅 14:56 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-891">
@@ -366,7 +366,7 @@ Ban
 . پاسخ:
 https://www.instagram.com/reel/DcBLYe_MLHx/
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.15K · <a href="https://t.me/mohsentavoosiseo/891" target="_blank">📅 14:54 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.16K · <a href="https://t.me/mohsentavoosiseo/891" target="_blank">📅 14:54 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-890">
@@ -439,7 +439,7 @@ booking.com
 @mohsentavoosisupport
 پیام بدید. من نیستم پشت این اکانت. بچه ها هستند.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.36K · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.37K · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-889">
@@ -486,7 +486,7 @@ booking.com
 😎
 پی نوشت:
 (کلاد تلفظ انگلیسیش کلاد هست)، ریشه اسمش فرانسوی هست که میشه کلود. شرکت آنتروپیک هم آمریکایی هست.</div>
-<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/mohsentavoosiseo/886" target="_blank">📅 20:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/mohsentavoosiseo/886" target="_blank">📅 20:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-885">
@@ -550,7 +550,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.46K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.47K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -566,7 +566,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد میگم کلاد خداست میگید نه! بازم میرید از فلان جی پی تی، ایرانیش رو میخرید؟ خیلی فرق داره! اختصاصی بگیرید. کانکتور و اسکیل و داکیومنت و کوورک و... تو اختصاصی هست فقط.
 mohsentavoosi.com/1
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.15K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.16K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-880">
@@ -626,7 +626,7 @@ Claude Cowork
 چیکار کنم دیگه هی نگی کلاد؟
 از کلاد بپرس.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.47K · <a href="https://t.me/mohsentavoosiseo/879" target="_blank">📅 20:00 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/mohsentavoosiseo/879" target="_blank">📅 20:00 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-877">
@@ -640,7 +640,7 @@ Claude Cowork
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EeBTTvzzELKfcoCp8wwPkZ7tzuIJj5DsVqdA50ZbrLdJyuuAmKRv__BloLhOurX1k9mby16MpOcteX85ECa0JH3GD7EJjNhW_0ZlsPGQfKwQWAixf_9eEvkgeJf_A0LMTO9fc2a2vHcG8VSWFNMEi9Gbc3SfBFZP_NsDkJ_xKQNOE2ynAs5QheR-OrGs_zsEyDpN8i_o9mEMqU5oV5WlrGPm1iimXdJ-Agyo0XJ7KNQ0L2WYFI9bTJzwtHNogcW7Z59Amc0gruCTo2mEnJ6t5L0onenFXRyLd01hbxfgOsCt9RFAFZixSEfaD5nbpHLBRwbeiLhxViPn8vYi7Ue0jw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
@@ -996,7 +996,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 <div class="tg-post" id="msg-844">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">دوستانی که اکانت کلاد خریدند و تجربه موفق دارند و بن نشده لطفا تو دایرکت همین کانال اعلام کنید.   با توجه به نظر سنجی بالا من نمیبینم توی خودم که ماهانه به ۱۰۰۰ نفر بفروشم. نهایت میشه ۱۰۰ نفر با کلی دردسر. میشه حداکثر ماهی ۲۰۰ دلار با کلی مکافات.   پس من ورود…</div>
-<div class="tg-footer">👁️ 3.25K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.26K · <a href="https://t.me/mohsentavoosiseo/844" target="_blank">📅 12:33 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-843">
