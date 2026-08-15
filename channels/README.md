@@ -2,28 +2,28 @@
 
 | کانال | آخرین بروزرسانی |
 |-------|----------------|
-| [@Futball180TV](./Futball180TV.md) | 1405-05-24 20:42:56 |
+| [@Futball180TV](./Futball180TV.md) | 1405-05-24 21:12:19 |
 | @IranProxyV2 | ❌ هنوز گرفته نشده |
-| [@MatinSenPaii](./MatinSenPaii.md) | 1405-05-24 20:42:56 |
-| [@SBoxxx](./SBoxxx.md) | 1405-05-24 20:42:56 |
-| [@VahidOnline](./VahidOnline.md) | 1405-05-24 20:42:56 |
-| [@akhbarefori](./akhbarefori.md) | 1405-05-24 20:42:56 |
-| [@alonews](./alonews.md) | 1405-05-24 20:42:56 |
-| [@archivetell](./archivetell.md) | 1405-05-24 20:42:56 |
-| [@danialtaherifar](./danialtaherifar.md) | 1405-05-24 20:42:56 |
-| [@farahmand_alipour](./farahmand_alipour.md) | 1405-05-24 20:42:56 |
-| [@farsna](./farsna.md) | 1405-05-24 20:42:56 |
-| [@funhiphop](./funhiphop.md) | 1405-05-24 20:42:56 |
-| [@iaghapour](./iaghapour.md) | 1405-05-24 20:42:56 |
-| [@ircfspace](./ircfspace.md) | 1405-05-24 20:42:56 |
-| [@mohsentavoosiseo](./mohsentavoosiseo.md) | 1405-05-24 20:42:56 |
-| [@naya_foriraq](./naya_foriraq.md) | 1405-05-24 20:42:56 |
-| [@news_hut](./news_hut.md) | 1405-05-24 20:42:56 |
-| [@persiana_Soccer](./persiana_Soccer.md) | 1405-05-24 20:42:56 |
-| [@sorkhtimes](./sorkhtimes.md) | 1405-05-24 20:42:56 |
-| [@tahlilgar](./tahlilgar.md) | 1405-05-24 20:42:56 |
-| [@whitedns](./whitedns.md) | 1405-05-24 20:42:56 |
-| [@withyashar](./withyashar.md) | 1405-05-24 20:42:56 |
+| [@MatinSenPaii](./MatinSenPaii.md) | 1405-05-24 21:12:19 |
+| [@SBoxxx](./SBoxxx.md) | 1405-05-24 21:12:19 |
+| [@VahidOnline](./VahidOnline.md) | 1405-05-24 21:12:19 |
+| [@akhbarefori](./akhbarefori.md) | 1405-05-24 21:12:19 |
+| [@alonews](./alonews.md) | 1405-05-24 21:12:19 |
+| [@archivetell](./archivetell.md) | 1405-05-24 21:12:19 |
+| [@danialtaherifar](./danialtaherifar.md) | 1405-05-24 21:12:19 |
+| [@farahmand_alipour](./farahmand_alipour.md) | 1405-05-24 21:12:19 |
+| [@farsna](./farsna.md) | 1405-05-24 21:12:19 |
+| [@funhiphop](./funhiphop.md) | 1405-05-24 21:12:19 |
+| [@iaghapour](./iaghapour.md) | 1405-05-24 21:12:19 |
+| [@ircfspace](./ircfspace.md) | 1405-05-24 21:12:19 |
+| [@mohsentavoosiseo](./mohsentavoosiseo.md) | 1405-05-24 21:12:19 |
+| [@naya_foriraq](./naya_foriraq.md) | 1405-05-24 21:12:19 |
+| [@news_hut](./news_hut.md) | 1405-05-24 21:12:19 |
+| [@persiana_Soccer](./persiana_Soccer.md) | 1405-05-24 21:12:19 |
+| [@sorkhtimes](./sorkhtimes.md) | 1405-05-24 21:12:19 |
+| [@tahlilgar](./tahlilgar.md) | 1405-05-24 21:12:19 |
+| [@whitedns](./whitedns.md) | 1405-05-24 21:12:19 |
+| [@withyashar](./withyashar.md) | 1405-05-24 21:12:19 |
 
 ---
 ✨ این لیست هر ۲ ساعت خودکار بروز می‌شود.
