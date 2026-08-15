@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 19:12:16</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 19:43:48</div>
 <hr>
 
 <div class="tg-post" id="msg-77878">
@@ -306,7 +306,7 @@
 VahidOnLive
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/VahidOnline/77878" target="_blank">📅 18:44 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 75.6K · <a href="https://t.me/VahidOnline/77878" target="_blank">📅 18:44 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77877">
@@ -327,7 +327,7 @@ VahidOnLive
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 53.5K · <a href="https://t.me/VahidOnline/77877" target="_blank">📅 18:39 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 78.6K · <a href="https://t.me/VahidOnline/77877" target="_blank">📅 18:39 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77876">
@@ -348,7 +348,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/VahidOnline/77876" target="_blank">📅 18:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 78.9K · <a href="https://t.me/VahidOnline/77876" target="_blank">📅 18:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77875">
@@ -363,7 +363,7 @@ VahidHeadline
 جزئیات بیشتری درباره مصداق اتهام «محاربه»، مستندات پرونده، روند بازجویی و نحوه برگزاری جلسات دادگاه منتشر نشده است. آقای سپهر امیرزاده، متولد ۱۳۸۲ و اهل رامهرمز خوزستان، مدرس و نوازنده موسیقی و ساکن اصفهان است.
 #نه_به_اعدام
 @IranRights</div>
-<div class="tg-footer">👁️ 64.7K · <a href="https://t.me/VahidOnline/77875" target="_blank">📅 18:30 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 86.6K · <a href="https://t.me/VahidOnline/77875" target="_blank">📅 18:30 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77874">
@@ -388,7 +388,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 214K · <a href="https://t.me/VahidOnline/77874" target="_blank">📅 11:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 221K · <a href="https://t.me/VahidOnline/77874" target="_blank">📅 11:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77873">
@@ -412,7 +412,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 308K · <a href="https://t.me/VahidOnline/77873" target="_blank">📅 00:18 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 310K · <a href="https://t.me/VahidOnline/77873" target="_blank">📅 00:18 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77871">
@@ -432,7 +432,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 341K · <a href="https://t.me/VahidOnline/77871" target="_blank">📅 18:26 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 343K · <a href="https://t.me/VahidOnline/77871" target="_blank">📅 18:26 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77870">
@@ -450,7 +450,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 327K · <a href="https://t.me/VahidOnline/77870" target="_blank">📅 17:15 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 329K · <a href="https://t.me/VahidOnline/77870" target="_blank">📅 17:15 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77869">
@@ -467,7 +467,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/77869" target="_blank">📅 17:14 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 303K · <a href="https://t.me/VahidOnline/77869" target="_blank">📅 17:14 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77867">
@@ -491,7 +491,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 250K · <a href="https://t.me/VahidOnline/77867" target="_blank">📅 17:11 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 252K · <a href="https://t.me/VahidOnline/77867" target="_blank">📅 17:11 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77865">
@@ -515,7 +515,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 241K · <a href="https://t.me/VahidOnline/77865" target="_blank">📅 17:03 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 242K · <a href="https://t.me/VahidOnline/77865" target="_blank">📅 17:03 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77864">
@@ -537,7 +537,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 223K · <a href="https://t.me/VahidOnline/77864" target="_blank">📅 16:57 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 224K · <a href="https://t.me/VahidOnline/77864" target="_blank">📅 16:57 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77863">
@@ -564,7 +564,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 216K · <a href="https://t.me/VahidOnline/77863" target="_blank">📅 16:56 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 219K · <a href="https://t.me/VahidOnline/77863" target="_blank">📅 16:56 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77862">
@@ -578,7 +578,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 225K · <a href="https://t.me/VahidOnline/77862" target="_blank">📅 16:47 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 227K · <a href="https://t.me/VahidOnline/77862" target="_blank">📅 16:47 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77861">
@@ -590,7 +590,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 239K · <a href="https://t.me/VahidOnline/77861" target="_blank">📅 16:46 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/77861" target="_blank">📅 16:46 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77860">
@@ -602,7 +602,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 243K · <a href="https://t.me/VahidOnline/77860" target="_blank">📅 16:41 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 244K · <a href="https://t.me/VahidOnline/77860" target="_blank">📅 16:41 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77858">
@@ -635,7 +635,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 277K · <a href="https://t.me/VahidOnline/77857" target="_blank">📅 05:21 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 278K · <a href="https://t.me/VahidOnline/77857" target="_blank">📅 05:21 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77856">
@@ -656,7 +656,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 291K · <a href="https://t.me/VahidOnline/77856" target="_blank">📅 05:20 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 292K · <a href="https://t.me/VahidOnline/77856" target="_blank">📅 05:20 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77855">
@@ -671,7 +671,7 @@ VahidHeadline
 زمان زلزله: ۱۴۰۵/۰۵/۲۳ ۰۰:۵۳:۴۷.۹
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 311K · <a href="https://t.me/VahidOnline/77855" target="_blank">📅 00:56 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 312K · <a href="https://t.me/VahidOnline/77855" target="_blank">📅 00:56 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77854">
@@ -685,7 +685,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 329K · <a href="https://t.me/VahidOnline/77854" target="_blank">📅 21:44 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 330K · <a href="https://t.me/VahidOnline/77854" target="_blank">📅 21:44 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77853">
@@ -702,7 +702,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 304K · <a href="https://t.me/VahidOnline/77853" target="_blank">📅 21:43 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 305K · <a href="https://t.me/VahidOnline/77853" target="_blank">📅 21:43 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77851">
@@ -723,7 +723,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/77851" target="_blank">📅 19:26 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/77851" target="_blank">📅 19:26 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77850">
@@ -758,7 +758,7 @@ VahidOOnLine
 🔸
 از آنجا که روند رسیدگی قضایی شفاف نیست و بسیاری از قربانیان و بازماندگان تمایلی به گزارش چنین مجازات عمیقاً تحقیرآمیزی ندارند، مستندسازی ابعاد واقعی استفاده دستگاه قضایی از شلاق همچنان دشوار است. با این حال، این کار برای آشکار کردن الگوهای سرکوب حکومت، حفظ شواهد برای پاسخ‌گو کردن عاملان و به چالش کشیدن استفاده جمهوری اسلامی از شکنجه، اهمیت حیاتی دارد.
 @IranRights</div>
-<div class="tg-footer">👁️ 327K · <a href="https://t.me/VahidOnline/77842" target="_blank">📅 18:23 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 328K · <a href="https://t.me/VahidOnline/77842" target="_blank">📅 18:23 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77841">
@@ -771,7 +771,7 @@ VahidOOnLine
 پیرو مذاکرات امشب استاندار کرمان با مقامات کشوری و نیاز به بررسی بیشتر در خصوص طرح مدیریت مصرف سوخت و مقابله با قاچاق، عرضه بنزین با نرخ آزاد پالایشگاهی در استان کرمان متوقف شد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 396K · <a href="https://t.me/VahidOnline/77841" target="_blank">📅 00:56 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 397K · <a href="https://t.me/VahidOnline/77841" target="_blank">📅 00:56 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77840">
@@ -787,14 +787,14 @@ VahidHeadline
 .
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 385K · <a href="https://t.me/VahidOnline/77840" target="_blank">📅 23:53 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 386K · <a href="https://t.me/VahidOnline/77840" target="_blank">📅 23:53 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77838">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/B_nHSUWfw95_mshPpZvemD4Ze1olQFE-w_LHSH4psUKI71jhnASfP5bzgdA_wyV4nK7rqWDJQhGTKLUVvWgNJBzpAI65T1DyAUWVZYGGVaNTyxXnZH9CfhQknt81KRBNdoAsauH317CVl_3jPh7CqT9qskd1nrJvluyVSXEoc7bBj3T_Sc0aZQQ5xhucaZ8qTYVHbmiYCzRW0KCt5la5fc6uYtjPjW89gLPk_Ve-EWg1EA32Db1xyWqgEV7_aB45CdwTU9ZshrhF49Iyl9gw5iuYaY1qrQ0DE2r4i9MCbLhM0-kT7Y33q38tiyY4AaBCyh7HXwi_CuG4jAtM08nREA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/JivlVInDPV_5GtvaplewByRLw2oBI-WEBWt7wHwubVuQjxYbIhmnxFcsX2KywbXiykRmW-IHmdUm88mKruSQnLXDOtGrE4lBzLXSsiz9VCd0OnvfJT4NyTledVLll9uTNpmmvh2JvJ4LuwvyzjAA5TkWQ6Yiu61QSbZXpDKFbtQF93pv7MnAVAgRabrUEB5Qog6JJtE7sMdbesnUXF5CEy7J7icun_G6mJJDeX70VLMvMDOiRHgqxafY0CK09R1BqAAzCU58qsYzLoy0sKT_TTJrXlYb5y90_KyFbUL8yNno77QhLyU-GZyhKzDpFIkwizXg5XwfO1D4w3gXdsWOwg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/opahAyg8HLjpk_s1jFW0cERbpUmNRE9wzTZ9uf-qwKLlHJAI052sj4G1VDz6yPj-cbRekeNVxKPLjtxzfSat7qLBPvVuLrk1Aoqf4ZHsfMpdJ3Mhk6fAtaAsQgPmryle1H0Td50y7eib2iB_MMXnpNUq7WjhkjiEydpNthXkk9tyK23c3xzoeZAlTZDN4ygJHACSV7aueR2sqtBvQuoNoPVBN0Vo0GF2JYPVMBKOe8t1xfmB7_S2LYuqmgxINmwUP8c96ihgBWUtfIWehovY47p8uH0_sAFyQIfUn36VB3P1EUH5m3ZqL4um9HvGyR3IDLjTMayx38GWQji6qquaSQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/vdCeNMx9iL6BKPyffU0tkHHhlok4JdG2ZAg0d3EXqAAUzNmyfjfR_iIGWlny2QjsGROFjWoVB3s-U2HRZobJVkOGEmSEfsVU7jR3-FLKhM0mksHsLwDq33WiXZUd4-hAj8iYO_vyXWf_Lfl-yXeHjq9mrIxuiNMWUC38A5NAzbYvmHPonN-qHKNCLqssOBysELdfIEC77FSKxBUXY1xzghvV06uJPeK0_O_wcghGaOepkX_Jp7tZgTAQ9t_YmP9vCxDoXIEF6gvg9uh2KWcLaT9eQJE-5ZF0re4vJV37566JVcbJkN_meTwxUNGt34FnJnHCbBKnlaTY3o0YwauP7Q.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">اتحادیه اروپا و شماری از کشورها، از جمله کانادا، بریتانیا و استرالیا در بیانیه‌ای مشترک، با شدیدترین لحن ادامه اعدام معترضان در ایران و سرکوب افرادی را که برای عدالت و کرامت انسانی اعتراض کرده‌اند، محکوم کرده و خواستار توقف فوری اعدام‌ها و آزادی تمامی بازداشت‌شدگان اعتراضات شدند.
 در این بیانیه که روز چهارشنبه ۲۱ مرداد منتشر شد، آمده است که استفاده از مجازات اعدام برای خاموش کردن مخالفان، ایجاد ترس در جوامع و مجازات افرادی که از حقوق بنیادین خود استفاده می‌کنند، به هیچ‌وجه قابل توجیه نیست.
@@ -843,7 +843,7 @@ realDonaldTrump
 ادامه مطلب
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 348K · <a href="https://t.me/VahidOnline/77836" target="_blank">📅 16:50 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 349K · <a href="https://t.me/VahidOnline/77836" target="_blank">📅 16:50 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77835">
@@ -931,7 +931,7 @@ VahidHeadline
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/P1SAG9-SykriHTyIWopLcQMpO3A8kPg_LYfVOr5zlvdGRioS7c1ErLAFIZY8LmxcVuqwjtP8mtsDbz54Irt4fM5pnLHWqssPf3y8lbQ5dJ0dQP0rUHsTBWrhhMQsz7wobs7dsmIjSD3nUD5HOpa0__DY3OZ6wSUB2kHImlwTfibVI1CxrSllN86781vRfjofPlOQVTe5Ke5gZPEnzz-Mwkm4VuAUG0OCZqsNByH3ExNh3JQ4N_qCqv0xufske9agNEoolHrs8qhlY6fJfq-0q6XY3qefXVzXax6c41oSPvKygV0Ydf_SDx1wvko0MaGL6FHc4jXHmiOCDzPT4xPDeQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">اظهارات علنی متناقض؛ ترامپ در پی تهدید ایران، مخفیانه با پروازی دیگر از ترکیه خارج شد  ترجمه ماشین: واشنگتن‌پست دریافته است که تهدید ایران به ترور دونالد ترامپ، رئیس‌جمهور آمریکا، ماه گذشته باعث اجرای عملیاتی فوق‌العاده شد که طی آن ترامپ به‌طور مخفیانه با…</div>
-<div class="tg-footer">👁️ 345K · <a href="https://t.me/VahidOnline/77825" target="_blank">📅 08:02 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 346K · <a href="https://t.me/VahidOnline/77825" target="_blank">📅 08:02 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77824">
@@ -972,7 +972,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77822">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CM37F5W5EFI5XPnEuIBwzrcbVJOjDjxHsyCbtxejPkfPGb6Xchks51mrOSWIlXLrZEg2NpGhv_Ot_doai002tLOwgA7vA2MVjv3Li2Ep0i4tKc5VxUWZNCFmoY7N0PnsAmx1tCnJJ4tGhapeOsOUc6Z7RdDYuIbEoxt3mUC3wesFE2BFrkv4LagCGADTHADLM0xK2_1k8CtgsDLoznioQVi30hyhrSGQ54mvS8aTXJtTA4b8svz3x69gNkyavNU9FTegMJpzHIuuODYz0dR3-VahZ-TciXKFQKFJQ9FartWtDdSSwGh3v6HPOX0HWVTIeq-WTDyJdTexmNm8UeJkGA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E5uO-XDDeSu4vbP_vXDAkEoI6c12BqWKG7bfj4bd4X9e0wFe_6gMWKANfVK5qgInafOTw-lIDRtE_GTcqHRdlnPdhvBnlxblhFQrSmDwIt2p2OYUyiWNvvxH3rZsa5vFw1DLSXI2d8gOfhR_Z5WWbl04xoSD02dc0ezJLfDOwObAhdWAzvhRsoezbxcDB7s6kiqf1gKD6ma6gKZrbnaZaOoXzcge3tTzwjIUXieRrAM8zv_Lnf_w9P8-GMpaaGv0iTgRDtFAtQ42zjtg1xBX3iGnmMEv25vI6kcFYYFUqirqPBXklciCualmEK185TIFAXlRCt_TyptaJCM_vDoVaw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محسن رضایی، دبیر جدید شورای عالی امنیت ملی جمهوری اسلامی، در نخستین موضع‌گیری پس از انتصاب به این سمت اعلام کرد برای باز شدن تنگه هرمز، آمریکا باید جنگ را پایان دهد و پول‌های مسدود شده ایران را بپردازد.
 به گزارش رسانه‌های ایران، او در دیدار با سفیر چین در تهران گفت تا زمانی که آمریکا «رفتار خود را تغییر ندهد و شروط ایران را نپذیرد» ایران اقدام به باز کردن تنگه هرمز نخواهد کرد. او پایان جنگ و آزاد کردن پول‌های مسدود شده ایران را دو عنوان از شرط‌های ایران برشمرد.
 این در حالی است که دونالد ترامپ، رئیس‌جمهور آمریکا، روز دوشنبه در کاخ سفید به خبرنگاران گفت ایالات متحده کل تنگه هرمز را «مین‌روبی» کرده و کنترل کامل آن را در دست دارد.
@@ -993,12 +993,12 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 306K · <a href="https://t.me/VahidOnline/77821" target="_blank">📅 20:14 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 307K · <a href="https://t.me/VahidOnline/77821" target="_blank">📅 20:14 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77820">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PauEoZEVmiTtLeeYPetzY6-eAz6UNEIbKZoUhjBG1rPHo1rULcYUzc8brYM2Lf1DvXv4X07bseF3UOsODjs5z4Hps9uMj0zn_OHPhfouFx90NBM89nrFFnFu2JQRSZEtC5stc73GYpz5vLcO8qVxE8M1uZVXbRb09_YRly7JAiCxYggu-oImCYUXjcWxYBGhQNtgNm8rdTiWsGeFzzk-agUmiykxG1ZigoRmjdDo5WZfQjrYFXjhiuGB2tAAGuAQ9JSCpKHykBGoxy0E8MBl2GTWb0DpNE8NEhbDcwYW-vHJQSJJ9bW6GiJ6HSsSdAnbTX2as7VRBEaIKieeoR-DCw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/BkQajBRLfOnmo84C8OvZDNDWMUzRiaEPpJW6O4fnYinRWhlAq4xRXUR07awuKWeqmXziVv---pE8aKBnCSFHZ51EuJZCQM2TA07thcVL-zog2i5uavBCpTEynkub4gPsX98A7YQrMrWXm2w3PzdrGMxUwirkT7Q8vjkHU1Jd1nA2w-ovhZE6VEUWGXA7mEKb6glLpf6DnarKpFTXhliGMS1bq-bIsJ5Q2GkGMlkKBRDStyPuW2qYYOF4sFcparnlqtK1QpHmuMUK_ksdR_pFugq18i1FmwziitBTW8AomikKwzWDXZazUakCvT_t_zbIve9aYVA_iXpIvu7zUeiIgQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یوسی کوهن، مدیر پیشین موساد، گفت ماموران این سازمان در گذشته چندین بار از تاسیسات غنی‌سازی اورانیوم فردو بازدید کرده بودند تا اطلاعات بیشتری درباره این مرکز هسته‌ای به‌دست آورند.
 به گزارش تایمز اسراییل، کوهن، روز سه‌شنبه ۲۰مرداد ۱۴۰۵، در نشست «مجمع جلیل» در شهر صفد، گفت: «ما بارها از سایت هسته‌ای فردو بازدید کردیم تا این سایت را درک کنیم.» او درباره زمان این بازدیدها و این‌که چه افرادی از سوی موساد در این بازدیدها حضور داشتند، توضیح بیشتری نداد.
 او همچنین درباره حمله آمریکا به فردو گفت: «بمباران آن توسط آمریکایی‌ها تحقق همه رویاهای من بود.»
@@ -1060,7 +1060,7 @@ Vela Nova
 CENTCOM
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 264K · <a href="https://t.me/VahidOnline/77818" target="_blank">📅 18:22 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 265K · <a href="https://t.me/VahidOnline/77818" target="_blank">📅 18:22 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77816">
@@ -1131,7 +1131,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 245K · <a href="https://t.me/VahidOnline/77813" target="_blank">📅 18:09 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 246K · <a href="https://t.me/VahidOnline/77813" target="_blank">📅 18:09 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77812">
@@ -1163,7 +1163,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 352K · <a href="https://t.me/VahidOnline/77811" target="_blank">📅 18:04 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 353K · <a href="https://t.me/VahidOnline/77811" target="_blank">📅 18:04 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77810">
@@ -1228,7 +1228,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 368K · <a href="https://t.me/VahidOnline/77807" target="_blank">📅 00:04 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 369K · <a href="https://t.me/VahidOnline/77807" target="_blank">📅 00:04 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77806">
@@ -1255,7 +1255,7 @@ VahidHeadline
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 366K · <a href="https://t.me/VahidOnline/77805" target="_blank">📅 21:22 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 367K · <a href="https://t.me/VahidOnline/77805" target="_blank">📅 21:22 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77804">
@@ -1302,7 +1302,7 @@ realDonaldTrump
 او همچنین خواستار تحقق شعار «هر ایرانی، یک بسیجی» با استفاده از ظرفیت حامیان جمهوری اسلامی که از ابتدای جنگ ۴۰ روزه در تجمع‌های خیابانی حکومتی شرکت می‌کردند برای «حفاظت از انقلاب اسلامی» شده است.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 372K · <a href="https://t.me/VahidOnline/77803" target="_blank">📅 19:08 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 373K · <a href="https://t.me/VahidOnline/77803" target="_blank">📅 19:08 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77802">
@@ -1501,7 +1501,7 @@ pinned «
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 402K · <a href="https://t.me/VahidOnline/77792" target="_blank">📅 18:48 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 403K · <a href="https://t.me/VahidOnline/77792" target="_blank">📅 18:48 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77791">
@@ -1661,7 +1661,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 360K · <a href="https://t.me/VahidOnline/77784" target="_blank">📅 18:14 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 361K · <a href="https://t.me/VahidOnline/77784" target="_blank">📅 18:14 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77783">
@@ -1682,7 +1682,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77782">
 <div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G1kjQLmthQOji45X9mTjAS9Cl2SK1aCE7tfhWcNjnrVOsMkKZpS1z-BDGoWxqwghgGYWGasQtri5vkOfTg2m-5OxY_PQjSTSM-B9kXzCkAeuPzvATQA7acoFzgSFchkQE_bem78x8Pd21F99l5wRTULzyN8u2Yv-5ILDgOoHull3Px8np4mlsbbR9Ao1zH9NuEK7tdHDcm3ZzXo9KxjOirEl55GjzVOigpjL4TsnMUuqwmEFm_hdhlLnNkJjMz3mI8l3U2s0oAS8E9t3WLSxqtld1tE4KiN-LhwKojb58RtUYZHgCv2UCxcgbMUgrhN9q4CIfQdPOPVnzOQ9rnkJ_Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/v3IQXw_2mIcm_TC2zRmnNDGlPK67w5fsqiZVjX7R5KNOC1jzhd9eNX78TrM6WmzcAjMsQPYIomgHT48Ddp4zNIwvfT100DnSWlDEyj7uyzyBiPm-wanKT64ioaPSN5uxFRbuQJumAkegRmhxzVL4R-bDllA9SRHOrDlJ-OYZxNUBpNThGyPgD3dHDCJlB3vPCfB-Mf0FFk15J-Kn2n0TgEmO3DxmIVuDGYxrrmbSb9kikoTp7uuGMrmwP0vO-tbGWJKL2M94oIcVltBaN3LX7s5gZx_OY4xAMR887tYexY2TSqQG1P1C8nGKV8uNTMzBuIbSXllBIX6_NBErvDrCrA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در پی انتشار گزارش‌ها در مورد حمله موشکی روز شنبه نیروهای مسلح جمهوری اسلامی به نفتکش اماراتی در خلیج فارس، وزارت خارجه امارات متحده عربی با انتشار بیانیه‌ای ضمن محکوم کردن شدید این حمله اعلام کرد، این حمله تلفات جانی نداشته است.
 وزارت خارجه امارات، روز شنبه ۱۷ مرداد ماه، در بیانیه‌ای این حمله را نقض آشکار قطعنامه ۲۸۱۷ شورای امنیت سازمان ملل متحد دانست؛ قطعنامه‌ای که بر آزادی کشتیرانی و مخالفت با هدف قرار دادن کشتی‌های تجاری یا ایجاد اختلال در مسیرهای دریایی بین‌المللی تاکید دارد.
 وزارت خارجه امارات همچنین اعلام کرد هدف قرار دادن کشتیرانی تجاری و استفاده از تنگه هرمز به‌عنوان ابزاری برای فشار یا باج‌گیری اقتصادی، «اقدامات دزدی دریایی» از سوی سپاه پاسداران محسوب می‌شود و تهدیدی مستقیم برای ثبات منطقه، مردم آن و امنیت انرژی جهان است.
@@ -1784,7 +1784,7 @@ BarakRavid
 
 <div class="tg-post" id="msg-77770">
 <div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PE2b6XM0RSZYL0uQb8dg5J2Bl4Mxe6wzK2Ru4UGVNAE_MH364KPUE5TQZ3B2mLdMacTtNgaJWRe3nmjBjkZmGr9A8T6_AsacH4lwGdyawlaXrGs-JLpKGMi-cPYlxBj185qHbr0qlfNk9VvDf17CXdWrIotPwYpSInp2dEmM-bZ3NRh4uu8YB-XoGqwlm7Jq95BAUpj9RDwPp7vw2SbcGAD1giY7E7ytIaZAxZ5Q9nuSau_RXC2SwhWR3qQGLzqhN2DYJnOJYGqaJ6Dy8dS5kkiblvm3rP-6FpC54H2mjLv5ww45LRsE6ABGVx9yA4eLSpf9DbhIPDw5NenJ_qrQpg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AOc7CUH5Ddj8gqNBvlV5DMyP8_8xWcK4SAid0vvWFyyU39_ITX55GrcacS2oRLyVyiZlAvC97fWAkZJF5VL3fk1VkPUcv22Li74_7-suJLwUK-LVNDQSoj_Lq_fntZqNMSEqwqoPfoRcfEmbaHEl8TSxMq9M5S_ahYG7I47unSVO-hDr8jrrFOO8gSxTLFDTjWz-eOCtlbEs1kfYzXsIJGiuxJHj1xdmXpb1H727R7PcQTcVbTuHexhhzDjarSOjHqrcN3NOXesXFczlhaHPXeZhFbIgvXxWcEFtMlzK6ZzLv0jidGZzKIlp0A-nAeIvRo60f6fm4mMqyN3CpYgNUw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزارت خارجه ایالات متحده آمریکا در گزارشی که روز جمعه ۱۶مرداد۱۴۰۵ منتشر شد اعلام کرد که «شبکه‌ای از صرافی‌ها و شرکت‌های پوششی مرتبط با جمهوری اسلامی» را هدف قرار داده است.
 در بیانیه منتشر شده از سوی این وزارتخانه تاکید شده است که ایالات متحده در حال اخذ تصمیمات قاطع با هدف «قطع شریان‌های مالی» است که حاکمیت جمهوری اسلامی ایران را سر پا نگه می‌دارند.
 این وزارتخانه در بیانیه خود نوشته است که این اقدامات با هدف برچیدن شبکه‌ای از صرافی‌ها و شرکت‌های صوری انجام خواهد شد که به ایران کمک می‌کردند صدها میلیون دلار را به‌طور مخفیانه از طریق نظام مالی بین‌المللی جابه‌جا کند.
@@ -1825,7 +1825,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 457K · <a href="https://t.me/VahidOnline/77768" target="_blank">📅 18:49 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 458K · <a href="https://t.me/VahidOnline/77768" target="_blank">📅 18:49 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77767">
@@ -1892,7 +1892,7 @@ VahidHeadline
 mb_ghalibaf
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 481K · <a href="https://t.me/VahidOnline/77765" target="_blank">📅 22:05 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 482K · <a href="https://t.me/VahidOnline/77765" target="_blank">📅 22:05 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77764">
@@ -2016,7 +2016,7 @@ realDonaldTrump
 
 <div class="tg-post" id="msg-77759">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qaeMPfb_yjwRe0Ky3kPweq0yz0eaANoTSKYV6VW8mjAxcGnyniwBlXGhuxRQOdDugtv1a0aPTE2lJ-UJDerk6YRWR-rJt09wXz1_Pa2FQkwm1ViLtWQ4YPkqtpEfyxGtqoNkKFPI8RYut_roX9ff7MzYvaLp4OGOooP71BWFWbN6GqERpjVwT6J1l0n7vQR-IaO-ja9ktBfWAAaAQhSN5Jkl1VaQM8DJ9_JdzLsbVeA5mapiPbXG4F9uS2ZaQaNycI-mTdPBgQHpa5zAsssKnbNKYslmYkW5N-ri8J3ExC7duz8LuLVdXohWzDghUpUkdtgiQGThmm0IFHldfczZYA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WqtxTvu2iZJe8rXKsKCQ0JK7VKsvUGWnXEdn1MpVHZ19YiwjZHSeUahAjRdOSmsUPNKzr0QGfFNIdcpg3RT-0_zyNH7HF1FHNuCTen8CHG-IKFwSlq3z6sr2N3TyMbIFZSoEAkg7f3yz3rqHvDozEwD4-KdQvLAqyDuqSEariHNXUUllLT3bm3HDZbIsYd8GyvLZz0xnfae1oUfjX6yVXrK73cKc3h1NIJs8VYtZh-21oAaIFWfr2DdrJaQnvUr0wNV-WKQmhEq_bYomURSTxRJDuuziLOi-4dFcwQURNcKr6BPVg2_ZvdoIudjIpsPL-Mgw7UpYj5CUK722Yzz8Qw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ارتش اسرائیل روز چهارشنبه ۱۴ مرداد، حملات جدیدی را به جنوب لبنان آغاز کرد و دلیل آن را «نقض آشکار آتش‌بس» از سوی گروه حزب‌الله دانست. این حملات که با صدور نخستین هشدار تخلیه پس از هفته‌ها برای ساکنان شهرک «منصوری» همراه بود، دست‌کم یک کشته و ۱۱ زخمی بر جا گذاشت.
 این رویارویی‌های جدید در حالی رخ داد که نمایندگان لبنان و اسرائیل با میانجی‌گری آمریکا در رم مشغول گفتگو برای پایان دادن به درگیری‌ها و عقب‌نشینی مرحله‌ای اسرائیل از جنوب لبنان بودند.
 یک منبع آگاه از روند مذاکرات به خبرگزاری فرانسه گفت هیات اسرائیلی، سه ساعت زودتر از موعد مقرر خواستار پایان جلسه شد. به گفته این منبع، یحیئل لایتر، سفیر اسرائیل در آمریکا و رئیس هیات مذاکره این کشور، درز «اطلاعات گمراه‌کننده» از سوی طرف لبنانی را علت این تصمیم عنوان کرده است.
@@ -2124,7 +2124,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77753">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jTPswffrdJW4GUuPBVNc-qN5HXXYl33WaXNAF3rGR1PndGUAlQzN2t3-sESlT_RhX0b8DUWEwMKX010Vf9Up1o_XL18LKaNDwZztsxmO5JC1UqFleFr0oCtS4VtI-5NnmsvMStlnez-G5BgpJx6YmZX07SgcEI9jY6c2HNta-nlkBdyi3z4gifREX0G3CvDMIRlSYSLOkXWhzebOjdJJibfrsvC5UPcTk5rpLkiYXCYJcDE8EHnAnJMUPDYtjs1uT5UVieUTAzqy8jO3hsASl9tzZoCJ8RhLWwTS8UqcG8ylYc_XS-b3qp_D82UYiVN205UHm7zgkVPguAcs6hqabQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mphhs33vVZuB3UhFuaHtR_FChicN9H9Hc27CB-grxd58OUNOtybgIJrvmxbXoP5HkLTMXAtuOuygJkpHfZolZSqCHJTZJsF98cd9MSV8tJfJc-mzfXWjErAbcyLjjXNwo9c2BTssj3gkwB6BdLEPVId67pqsiI3_AR_Qh6LboAT_x0jj9kbArHuxIM-w3-6KNMNMCNyCLGkWoT12AiM5XP3N89X0VtUM7iS515wgtEa0rmCH_73WVK8tjbq3lnYxv1yu81iH2ZH-CLJBRP55OkokeKeOsoIlDDXVhek2WdiOSH3MceY4g65nCQE9oPTbo2KGazyMAHaG7xl5lYz3cA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مصطفی قاسمی حسنوند، شاعر، زندانی سیاسی سابق و شهروند اهل شهرستان الشتر، روز یکشنبه ۱۱ مرداد ۱۴۰۵ پس از اقدام به پایان دادن به زندگی خود مقابل دفتر سازمان ملل در اربیل جان باخت.
 منابع آگاه به ایران‌وایر می‌گویند او پس از آزادی از زندان با مشکلات روحی و فشارهای ناشی از پرونده قضایی خود روبه‌رو بود.
 @
