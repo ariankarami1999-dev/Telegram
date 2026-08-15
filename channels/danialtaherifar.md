@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 10:34:46</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 11:19:51</div>
 <hr>
 
 <div class="tg-post" id="msg-951">
@@ -303,7 +303,7 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 205 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 206 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
@@ -318,8 +318,8 @@ z.ai
 <div class="tg-post" id="msg-948">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ESYiAJ7LD5dgzJmzSNfJ3C6f6mjQbzFfrFqdvptBbnFJ1Z6M34k98kOXmDMEHq_fozLfFQRr_dE7iy2sfyOYabnibwHP5si5-RgUYsGf6Vi1GM1yo26UKeMmVvFRju0D4O2lgxOU6x_rNkZPKG8GdoQ8kxETQ0JIcE3PoLC8w7SUwr3FP3tnUXKTqkfdrfJuVSuc9RNNltP7plBwJA1FMp5nNbycBbzRM3vYPZxl1kRps3J2PkRBhuNWVJISR7uKAd4fQ3L2qhlilJNUgQgOsVAyLO8ipg4-T-Wk04V9zyDkrHgmdvtlwe1OaH7OYdeP61E2KQ66I9KTKvOkIa7AwQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FBS093SKhZdkzACVWRmwP3MdYpyT-UpL9kgtchlBEYl9xCv63yctcEniZCInkCIGbTsvzI2urX35N2KKSciYDd8HaJnyEGyRB_4s4Qbc2j64tdTF96QAo3s80_oGX7L-JOQ8UjBIc0RTMs7Wp6AL67piPfax74O8lc25N5KGL_XT1yyAIlgMB3x1ttDjP1CvDCfUQJmoGmn86tw4utw9E9f-xsLqqSQlKqRv3muxoO79XV6BudILfPSgtOHzCpKf3lzrCK3PAeB2PYe-A9gz6tQJiBnAYj_VuXQejRfW6lxIVJ8iZwFDjYVpP-dza4clWafDT9P7mbCZZLlUfnkvZQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ED-dZr2k7rRmIAqHX9CnVnF3CunqhjDtY4CLU97UrMpjfGRpfz36JkJvUISd_AqYOVl-Kozu4jmor32DOrBIpo3swcUxiMVZi36285lKHoggaVm_vXGPZqmCwXyrzDLfGeqL64NY8f6F2wDObau40l0dHvmLrCvTBPlutUrutwZrc1eXuOcoKtJo1ee-iZ-YRWxItXkqN7CNgTAdYoYxh8NT3L4yAVxQ-N56wYgIrKy0Nih7XmUUxRhKbsxLEtwrnvetN_S6p2OIProFeuLPyJo0dPdX8uh8Db02Q5WRwoFC5j3HMAXdnq15uVuGIhTw5OA0BSuFCaN6FQZZcvEqMw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/HAMuz_Zfj0-1yowQIulAcWGb2yLGJzHEnhictcox0_C0lTR6iOIQcxcfGpbwV-h-YaIdyWWJIqQ5So_2OveZQ76zT0CTnRQTLVFD2Q_q-Eb6QETUzasPN0nYab6OHS_a-953WnH_pPZUF6jmEYTHAbZM5GQPAeoQud9CGTDgc4tX0f6syr_HxN8gYRlw0-XkZRtrqpHkm1IJszkNuEClrYpiEBuLI5taR9VWva1VsTIoW_powNCLdwLbkU2YEAAF-KRlsScL7us_Q4Y9dRSP4XYpL68eaEp4fepgCCyZ3SSYmxw5D1qkBdk73wW-HLM80dnXcIyNo0k3CTFCu3XanQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">😒
 کلاد ایمیل میزنه به اون اکانتی که بن کرده که بیا fable5 استفاده کن.
