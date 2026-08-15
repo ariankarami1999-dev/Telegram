@@ -292,14 +292,15 @@
 <a href="https://t.me/farsna" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 حقیقت روشن می‌شود‌‌تبلیغات@Farsnews_adsارتباط@FarsNewsفارس‌پلاس@Fars_Plus‌ورزش@SportFarsجهان@FarsNewsIntعکس@FarsImagesپیام‌رسان‌ها@Farsnaاینستاگرامinstagram.com/fars_newsتوییترtwitter.com/FarsNews_Agency</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 01:41:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 02:14:18</div>
 <hr>
 
 <div class="tg-post" id="msg-456323">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-text">منابع لبنانی از حملات جنگنده‌های رژیم صهیونیستی به مناطقی در جنوب لبنان از جمله منطقۀ علی‌الطاهر خبر دادند.
+<div class="tg-text">حملۀ فسفری اسرائیل به جنوب لبنان
+منابع لبنانی از حملات جنگنده‌های رژیم صهیونیستی به مناطقی در جنوب لبنان از جمله منطقۀ علی‌الطاهر خبر دادند.
 @Farsna</div>
-<div class="tg-footer">👁️ 1 · <a href="https://t.me/farsna/456323" target="_blank">📅 01:43 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/farsna/456323" target="_blank">📅 01:43 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456322">
@@ -313,7 +314,7 @@
 </div>
 <div class="tg-text">قمی‌ها در شب ۱۶۸ به‌یاد شهدای میناب به میدان آمدند
 @Farsna</div>
-<div class="tg-footer">👁️ 781 · <a href="https://t.me/farsna/456322" target="_blank">📅 01:35 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.96K · <a href="https://t.me/farsna/456322" target="_blank">📅 01:35 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456321">
@@ -331,7 +332,7 @@
 این‌جا
 بخوانید.
 @FarsNewsInt</div>
-<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/farsna/456321" target="_blank">📅 00:45 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/farsna/456321" target="_blank">📅 00:45 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456316">
@@ -346,7 +347,7 @@
 <div class="tg-text">📰
 دکۀ روزنامه | یکشنبه ۲۵ مرداد ۱۴۰۵
 @Farsna</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/farsna/456316" target="_blank">📅 00:32 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.81K · <a href="https://t.me/farsna/456316" target="_blank">📅 00:32 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456306">
@@ -363,7 +364,7 @@
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Mu5zFn_YGPjORQusaaaTv1YVgvztBLNumJ71VBmk1VFpQX1U3X5jiUWDsZBy7_nP_OJCtiiFscefP-jYq5NuV8I3On0iXOg76gSo_Mt5eoaWvFrxpuGvPQ4iOIC0I9FJ03Pt_UqMBMw_J9lAUiA2aaOXVqY4apuRqDMhfhdDINy3gAinLQuL37IT5xrFdLV5rRWLqKKKtHXde6Jm1dEHCxJ_0-VD15Uz9b54Ev52gSINdS7oqmXzGEbtfjEQMi7oW6zum9gJ53yxCVR-qKyG_C25h6hEs4JPxf7W65AfixnIfmNNEwKftUG9oXjhHIhkpcC2F1NiLSYZLAN5-bgcBg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/noQaKmJBRltXbSqj9o90Q-osuiRIdEYFyiPvYbt6jHvD5zDgK5T_hT1y4vfEA-OVrSoZ76WmiRdKr_JN7KOlfzqAFGVf1LMupwDEjtAm-dIuE9rvzH1NtAxlmr1eJvin_BQbChsr9_WI39JkGhIEV1bhQR8U1zeUW8cMew4mBgXyUiM9718lKPyFKzQmBCoVhZ1hk2dZdyarha8dFkoRipjMP1k29sXan4l9QxI03R6_QF023t5koQbKO0hRooHAf3K9x0jesTbt-k2JmXshSvr2914QaIKyoCiIhcLKPQJ5YIXvP-HgyglNR_ehqdEs-ROUsMtBoGcDqaVuMfbqJw.jpg" alt="photo" loading="lazy"/></div>
 </div>
-<div class="tg-footer">👁️ 4.25K · <a href="https://t.me/farsna/456306" target="_blank">📅 00:32 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/farsna/456306" target="_blank">📅 00:32 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456305">
@@ -382,7 +383,7 @@
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/farsna/456305" target="_blank">📅 00:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.24K · <a href="https://t.me/farsna/456305" target="_blank">📅 00:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456304">
@@ -402,7 +403,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/farsna/456304" target="_blank">📅 23:54 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.32K · <a href="https://t.me/farsna/456304" target="_blank">📅 23:54 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456303">
@@ -415,7 +416,7 @@ Link</div>
 🔹
 این ملوان گفت که به خدمه اطلاع داده شده بود که غذاها "با هم مخلوط شده‌اند" و افزود که لوبیاها از جمله بدترین غذاهایی بودند که تا به حال چشیده است.
 @FarsNewsInt</div>
-<div class="tg-footer">👁️ 6.33K · <a href="https://t.me/farsna/456303" target="_blank">📅 23:50 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.86K · <a href="https://t.me/farsna/456303" target="_blank">📅 23:50 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456302">
@@ -426,7 +427,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 6.95K · <a href="https://t.me/farsna/456302" target="_blank">📅 23:34 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.44K · <a href="https://t.me/farsna/456302" target="_blank">📅 23:34 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456301">
@@ -442,7 +443,7 @@ Link</div>
 رئیس سازمان بهینه‌سازی: ۳ طرح پیشنهادی بنزین روی میز دولت است و هرکدام منتقدان و طرفدارانی دارد
 🔹
 هرکدام از این ۳ طرح تصویب شود، قطعا آن را پیش از اجرا اعلام می‌کنیم و مردم را غافلگیر نخواهیم کرد. @Farsna</div>
-<div class="tg-footer">👁️ 6.91K · <a href="https://t.me/farsna/456301" target="_blank">📅 23:31 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.36K · <a href="https://t.me/farsna/456301" target="_blank">📅 23:31 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456300">
@@ -458,7 +459,7 @@ Link</div>
 رئیس سازمان بهینه‌سازی: در طرح سوم بنزین، طی ۳ سال ۴۰۰ هزار موتورسیکلت برقی و ۱۳۰ هزار وانت گازسوز می‌شود
 🔹
 همچنین ۷۳۰۰ اتوبوس اضافه می‌شود. @Farsna</div>
-<div class="tg-footer">👁️ 8.04K · <a href="https://t.me/farsna/456300" target="_blank">📅 23:29 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.64K · <a href="https://t.me/farsna/456300" target="_blank">📅 23:29 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456299">
@@ -475,7 +476,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 6.59K · <a href="https://t.me/farsna/456299" target="_blank">📅 23:26 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7K · <a href="https://t.me/farsna/456299" target="_blank">📅 23:26 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456298">
@@ -493,7 +494,7 @@ Link</div>
 در این روش سهمیۀ بنزین به‌جای خودروها به مردم اختصاص داده می‌شود؛ چه خودرو داشته باشند چه نداشته باشند.
 🔹
 روزانه حدود ۳۰ میلیون لیتر به حمل‌ونقل عمومی و تاکسی‌های آنلاین و غیرآنلاین اختصاص داشته…</div>
-<div class="tg-footer">👁️ 6.53K · <a href="https://t.me/farsna/456298" target="_blank">📅 23:23 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.92K · <a href="https://t.me/farsna/456298" target="_blank">📅 23:23 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456297">
@@ -510,7 +511,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 6.86K · <a href="https://t.me/farsna/456297" target="_blank">📅 23:14 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.22K · <a href="https://t.me/farsna/456297" target="_blank">📅 23:14 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456296">
@@ -519,7 +520,7 @@ Link</div>
 دومین طرح پیشنهادی دولت برای بنزین چه مزایا و معایبی دارد؟
 🔸
 در این روش ۱۲۱ میلیون لیتر تولیدی روز بین خودروهای موجود تقسیم شود و هرکس بیش از سهمیه بخواهد باید بنزینش را با نرخ آزاد بخرد؛ تقریبا مشابه روشی که قرار بود در کرمان اجرا شود. @Farsna</div>
-<div class="tg-footer">👁️ 7.03K · <a href="https://t.me/farsna/456296" target="_blank">📅 23:13 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.39K · <a href="https://t.me/farsna/456296" target="_blank">📅 23:13 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456295">
@@ -528,7 +529,7 @@ Link</div>
 طرح اول پیشنهادی دولت برای بنزین چه مزایا و معایبی دارد؟
 🔸
 در این روش قیمت بنزین تغییر نمی‌کند اما بنزین تا میزان تولید ۱۲۱ میلیون لیتری در پمپ‌بنزین‌ها توزیع شود و وقتی تمام شد، نازل‌ها خاموش می‌شود. @Farsna</div>
-<div class="tg-footer">👁️ 8.13K · <a href="https://t.me/farsna/456295" target="_blank">📅 22:52 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.44K · <a href="https://t.me/farsna/456295" target="_blank">📅 22:52 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456294">
@@ -544,7 +545,7 @@ Link</div>
 رئیس سازمان بهینه‌سازی: باید کلید اصلاح تولید خودرو را محکم بزنیم؛ نباید هزینۀ مصرف اضافی بنزین را از غیر از خودروساز بگیریم
 🔹
 باید شماره‌گذاری خودروها و واردات خودرو تعیین‌تکلیف شود.  @Farsna</div>
-<div class="tg-footer">👁️ 8.84K · <a href="https://t.me/farsna/456294" target="_blank">📅 22:43 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.25K · <a href="https://t.me/farsna/456294" target="_blank">📅 22:43 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456293">
@@ -559,7 +560,7 @@ Link</div>
 <div class="tg-text">🎥
 تجمع ۱۶۸ مردم مراغه به‌یاد ۱۶۸ شهید دانش‌آموز میناب
 @Farsna</div>
-<div class="tg-footer">👁️ 8.25K · <a href="https://t.me/farsna/456293" target="_blank">📅 22:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.11K · <a href="https://t.me/farsna/456293" target="_blank">📅 22:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456292">
@@ -575,7 +576,7 @@ Link</div>
 رئیس سازمان بهینه‌سازی: باید تکلیف خودروسازهایی که پدر همه را درآورده‌اند روشن شود
 🔹
 تا وقتی موتور اتلاف این خودروها روشن است، هر تغییری که در سهمیه‌ها دهیم فقط نقش مُسکن را دارد. بخش بزرگی از بنزینی که در کشور سوزانده می‌شود در موتور خودروهایی می‌سوزد که…</div>
-<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/farsna/456292" target="_blank">📅 22:28 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/farsna/456292" target="_blank">📅 22:28 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456291">
@@ -589,7 +590,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 رئیس سازمان بهینه‌سازی: اگر به‌جای خودروهای بی‌کیفیت و مونتاژی چینی، کل یک خودروی ژاپنی را وارد کنیم ارزان‌تر درمی‌آید.  @Farsna</div>
-<div class="tg-footer">👁️ 9.59K · <a href="https://t.me/farsna/456291" target="_blank">📅 22:23 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.86K · <a href="https://t.me/farsna/456291" target="_blank">📅 22:23 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456290">
@@ -603,7 +604,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 رئیس سازمان بهینه‌سازی: خودروسازهای داخلی هیچ‌وقت هزینۀ خودروی پرمصرف و بی‌کیفیت‌شان را نداده‌اند، فقط مردم و بیت‌المال این هزینه را می‌دهند؛ ما باید ریشۀ این موضوع را بخشکانیم.  @Farsna</div>
-<div class="tg-footer">👁️ 8.2K · <a href="https://t.me/farsna/456290" target="_blank">📅 22:19 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.43K · <a href="https://t.me/farsna/456290" target="_blank">📅 22:19 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456289">
@@ -617,7 +618,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 رئیس سازمان بهینه‌سازی: اگر میزان مصرف بنزین خودروهای داخلی مشابه خودروهای روز دنیا بود الان شاهد ناترازی در تولید و مصرف بنزین نبودیم.  @Farsna</div>
-<div class="tg-footer">👁️ 8.05K · <a href="https://t.me/farsna/456289" target="_blank">📅 22:16 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.28K · <a href="https://t.me/farsna/456289" target="_blank">📅 22:16 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456288">
@@ -635,7 +636,7 @@ Link</div>
 روش اول: با قیمت فعلی تا میزان ۱۲۱ میلیون لیتر بنزین در پمپ‌بنزین‌ها توزیع شود و وقتی تمام شد، نازل‌ها خاموش شود.
 🔸
 روش دوم: ۱۲۱ میلیون لیتر موجود با سهمیه و بدون افزایش قیمت بین خودروها تقسیم شود و رقم مازاد بر آن با…</div>
-<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/farsna/456288" target="_blank">📅 22:13 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.12K · <a href="https://t.me/farsna/456288" target="_blank">📅 22:13 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456287">
@@ -643,14 +644,14 @@ Link</div>
 <div class="tg-text">🔴
 منابع عربی از وقوع چند انفجار و هدف‌ قرارگرفتن مقر نیروهای وابسته به عربستان در شهر مأرب یمن خبر می‌دهند.
 @Farsna</div>
-<div class="tg-footer">👁️ 7.88K · <a href="https://t.me/farsna/456287" target="_blank">📅 22:10 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.07K · <a href="https://t.me/farsna/456287" target="_blank">📅 22:10 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456286">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hhI4Kj41MkRT88M1tAp1VRCCNGOzSZin1QP7onoCqPyZ3s3naiX_oZbTEaMDEh01sFGWPJ9dTCwYFcQUmh41QbGVexRL6ypY_NnSGQ7ojRHmSh2yMphPT8plg7ONI5nkLw8YQ629qI9QddNAe0yFbkd09qPAue_izP8lielYbrV0ZErAWoyohHZYp7p_nPzG0UKxr5LMWOE3vC0vjXZyLkTZZOHn4bVNWQ5jdlDonVwC3cDX_Pj1Ff3ui8ViWIWYooJQ86GFXoLOttpNYW6bUEQwFeRww0uaCwML1q6RhRQiTX9Lj-igjXJp-50SN3qHHAU4pW12M5Ii8jvb_Y5_WQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‌ وزارت بهداشت لبنان: شمار تلفات حملات اسرائیل به شهرک‌های «انصار» و «دیرالزهرانی» به ۱۱ شهید و ۱۹ زخمی رسید.  @Farsna</div>
-<div class="tg-footer">👁️ 8.52K · <a href="https://t.me/farsna/456286" target="_blank">📅 22:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.7K · <a href="https://t.me/farsna/456286" target="_blank">📅 22:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456285">
@@ -667,7 +668,7 @@ Link</div>
 @Farsnart
 -
 Link</div>
-<div class="tg-footer">👁️ 8.51K · <a href="https://t.me/farsna/456285" target="_blank">📅 21:52 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.65K · <a href="https://t.me/farsna/456285" target="_blank">📅 21:52 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456284">
@@ -678,7 +679,7 @@ Link</div>
 ذخایر راهبردی نفت خام ایالات متحده در هفته گذشته با کاهش ۳ میلیون بشکه‌ای، به ۳۱۶.۵ میلیون بشکه رسید که پایین‌ترین میزان ثبت‌شده از سال ۱۹۸۳ تا به امروز است.
 🔹
 بر اساس داده‌های وزارت انرژی آمریکا، این…</div>
-<div class="tg-footer">👁️ 8.74K · <a href="https://t.me/farsna/456284" target="_blank">📅 21:43 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.89K · <a href="https://t.me/farsna/456284" target="_blank">📅 21:43 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456283">
@@ -688,7 +689,7 @@ Link</div>
 گل دوم پرسپولیس به شمس‌آذر توسط عمری در دقیقۀ ۱۵
 ⚽️
 شمس‌آذر ۰ - ۲ پرسپولیس @Farsna</div>
-<div class="tg-footer">👁️ 8.38K · <a href="https://t.me/farsna/456283" target="_blank">📅 21:36 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/farsna/456283" target="_blank">📅 21:36 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456282">
@@ -703,7 +704,7 @@ Link</div>
 <div class="tg-text">نیویورک‌تایمز: جهنم در ناو لینکلن از روز اول جنگ شروع شد
 🔹
 نیویورک‌تایمز گزارش کرد: کابوس ناو هواپیمابر آبراهام لینکلن از همان ساعات نخست جنگ با ایران آغاز شد؛ زمانی که موشک‌ها و پهپادهای ایرانی پایگاه بحرین را ویران کردند و با آن، ستون فقرات لجستیکی ناوهای…</div>
-<div class="tg-footer">👁️ 8.04K · <a href="https://t.me/farsna/456282" target="_blank">📅 21:35 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.18K · <a href="https://t.me/farsna/456282" target="_blank">📅 21:35 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456281">
@@ -721,7 +722,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.35K · <a href="https://t.me/farsna/456281" target="_blank">📅 21:29 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.47K · <a href="https://t.me/farsna/456281" target="_blank">📅 21:29 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456280">
@@ -742,7 +743,7 @@ Link</div>
 اینجا
 بخوانید
 @Farsna</div>
-<div class="tg-footer">👁️ 8.67K · <a href="https://t.me/farsna/456280" target="_blank">📅 21:21 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.81K · <a href="https://t.me/farsna/456280" target="_blank">📅 21:21 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456279">
@@ -760,7 +761,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.11K · <a href="https://t.me/farsna/456279" target="_blank">📅 21:05 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/farsna/456279" target="_blank">📅 21:05 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456278">
@@ -775,7 +776,7 @@ Link</div>
 <div class="tg-text">🎥
 مردم در شب ۱۶۸ به یاد شهدای مدرسۀ میناب به خیابان آمدند
 @Farsna</div>
-<div class="tg-footer">👁️ 8.41K · <a href="https://t.me/farsna/456278" target="_blank">📅 20:59 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.53K · <a href="https://t.me/farsna/456278" target="_blank">📅 20:59 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456273">
@@ -790,7 +791,7 @@ Link</div>
 <div class="tg-text">🖼
 مخاطب رسانه‌ها در یک‌سال اخیر چه تغییری کرده است
 @Farsna</div>
-<div class="tg-footer">👁️ 9.05K · <a href="https://t.me/farsna/456273" target="_blank">📅 20:56 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/farsna/456273" target="_blank">📅 20:56 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456272">
@@ -809,7 +810,7 @@ Link</div>
 👈
 جزئیات بیشتر
 @irancellnews1</div>
-<div class="tg-footer">👁️ 7.79K · <a href="https://t.me/farsna/456272" target="_blank">📅 20:51 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.9K · <a href="https://t.me/farsna/456272" target="_blank">📅 20:51 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456271">
@@ -830,12 +831,12 @@ Link</div>
 🔶
 🔶
 @bank_keshavarzi</div>
-<div class="tg-footer">👁️ 6.01K · <a href="https://t.me/farsna/456271" target="_blank">📅 20:50 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.12K · <a href="https://t.me/farsna/456271" target="_blank">📅 20:50 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456270">
 <div class="tg-post-header">📌 پیام #64</div>
-<div class="tg-footer">👁️ 6.58K · <a href="https://t.me/farsna/456270" target="_blank">📅 20:49 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.7K · <a href="https://t.me/farsna/456270" target="_blank">📅 20:49 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456269">
@@ -843,7 +844,7 @@ Link</div>
 <div class="tg-text">🔴
 منابع عربی از هدف‌ قراردادن مجدد مقرهای نیروهای وابسته به سعودی در مأرب توسط نیروهای انصارالله خبر می‌دهند.
 @Farsna</div>
-<div class="tg-footer">👁️ 7.58K · <a href="https://t.me/farsna/456269" target="_blank">📅 20:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.68K · <a href="https://t.me/farsna/456269" target="_blank">📅 20:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456268">
@@ -854,7 +855,7 @@ Link</div>
 نخست‌وزیر عراق امروز با رئیس دستگاه اطلاعات عمومی عربستان سعودی که حامل پیام پادشاه این کشور بود دیدار کرد.
 🔹
 علی الزیدی مدعی شد بغداد اجازه نخواهد داد خاک عراق به نقطه آغاز هرگونه اقدام…</div>
-<div class="tg-footer">👁️ 8.62K · <a href="https://t.me/farsna/456268" target="_blank">📅 20:40 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.75K · <a href="https://t.me/farsna/456268" target="_blank">📅 20:40 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456267">
@@ -865,7 +866,7 @@ Link</div>
 🔹
 در نتیجۀ این انفجار که صهیونیست‌ها مدعی هستند تلفاتی نداشته‌اند، ارتش اشغالگر شهر خان‌یونس را مورد حمله قرار داد.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.09K · <a href="https://t.me/farsna/456267" target="_blank">📅 20:28 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.2K · <a href="https://t.me/farsna/456267" target="_blank">📅 20:28 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456260">
@@ -882,7 +883,7 @@ Link</div>
 <div class="tg-text">رئیس دانشگاه تهران: کسانی که در سطح دانشگاه هنجارشکنی کردند، احضار شدند و شورای انضباطی به پروندهٔ آن‌ها رسیدگی کرد
 🔹
 به‌طور خاص ۲ نفر را داشتیم که متأسفانه در اقدامی بسیار زشت و هنجارشکن به پرچم مقدس جمهوری اسلامی اهانت کردند؛ با این افراد مدت‌ها پیش برخورد…</div>
-<div class="tg-footer">👁️ 9.95K · <a href="https://t.me/farsna/456260" target="_blank">📅 20:19 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/456260" target="_blank">📅 20:19 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456253">
@@ -898,7 +899,7 @@ Link</div>
 گل اول پرسپولیس به شمس‌آذر توسط محبی
 ⚽️
 شمس‌آذر ۰ - ۱ پرسپولیس @Farsna</div>
-<div class="tg-footer">👁️ 9.09K · <a href="https://t.me/farsna/456253" target="_blank">📅 19:49 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.2K · <a href="https://t.me/farsna/456253" target="_blank">📅 19:49 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456252">
@@ -917,7 +918,7 @@ Link</div>
 @Sportfars
 -
 Link</div>
-<div class="tg-footer">👁️ 8.85K · <a href="https://t.me/farsna/456252" target="_blank">📅 19:48 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/farsna/456252" target="_blank">📅 19:48 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456251">
@@ -934,7 +935,7 @@ Link</div>
 ⚽️
 شمس‌آذر ۰ - ۱ پرسپولیس
 @Farsna</div>
-<div class="tg-footer">👁️ 8.25K · <a href="https://t.me/farsna/456251" target="_blank">📅 19:43 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.32K · <a href="https://t.me/farsna/456251" target="_blank">📅 19:43 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456250">
@@ -948,7 +949,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/farsna/456250" target="_blank">📅 19:39 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/farsna/456250" target="_blank">📅 19:39 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456249">
@@ -962,7 +963,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 اجتماعات شبانه تا چه زمانی ادامه‌ خواهد داشت؟  @Farsna - Link</div>
-<div class="tg-footer">👁️ 8.42K · <a href="https://t.me/farsna/456249" target="_blank">📅 19:33 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.49K · <a href="https://t.me/farsna/456249" target="_blank">📅 19:33 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456248">
@@ -978,7 +979,7 @@ Link</div>
 ۲ حملهٔ هوایی شدید رژیم صهیونیستی به شهرک دیرالزهرانی در جنوب لبنان
 🔹
 رسانه‌های لبنانی از هدف‌قرارگرفتن یک خانهٔ مسکونی در محلهٔ «الراس» در شهرک دیرالزهرانی هوایی خبر دادند. این منابع گزارش کردند که همزمان یک موتورسیکلت هم هدف شلیک یک پهپاد قرار گرفته است.…</div>
-<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/farsna/456248" target="_blank">📅 19:31 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/farsna/456248" target="_blank">📅 19:31 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456247">
@@ -990,7 +991,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.39K · <a href="https://t.me/farsna/456247" target="_blank">📅 19:26 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.47K · <a href="https://t.me/farsna/456247" target="_blank">📅 19:26 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456246">
@@ -1011,7 +1012,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 7.74K · <a href="https://t.me/farsna/456246" target="_blank">📅 19:20 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.81K · <a href="https://t.me/farsna/456246" target="_blank">📅 19:20 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456245">
@@ -1033,7 +1034,7 @@ Link</div>
 اینجا
 بخوانید.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.47K · <a href="https://t.me/farsna/456245" target="_blank">📅 19:15 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.58K · <a href="https://t.me/farsna/456245" target="_blank">📅 19:15 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456244">
@@ -1047,7 +1048,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 کارشناس پدافند هوایی سپاه: طبق گزارش پنتاگون، ۲۴ پهپاد ۳۰ میلیون دلاری MQ-9 در جنگ هدف قرار گرفتند.  @Farsna</div>
-<div class="tg-footer">👁️ 8.99K · <a href="https://t.me/farsna/456244" target="_blank">📅 18:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.06K · <a href="https://t.me/farsna/456244" target="_blank">📅 18:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456243">
@@ -1062,7 +1063,7 @@ Link</div>
 <div class="tg-text">🎥
 کارشناس پدافند هوایی سپاه: طبق گزارش پنتاگون، ۲۴ پهپاد ۳۰ میلیون دلاری MQ-9 در جنگ هدف قرار گرفتند.
 @Farsna</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/456243" target="_blank">📅 18:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/456243" target="_blank">📅 18:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456242">
@@ -1081,7 +1082,7 @@ Link</div>
 ادامه مطلب
 را در سایت فارس بخوانید
 @Sportfars</div>
-<div class="tg-footer">👁️ 9.89K · <a href="https://t.me/farsna/456242" target="_blank">📅 18:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.95K · <a href="https://t.me/farsna/456242" target="_blank">📅 18:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456241">
@@ -1096,7 +1097,7 @@ Link</div>
 <div class="tg-text">🎥
 حضور خیل عاشقان رهبر شهید انقلاب در جوار مزار نورانی ایشان در رواق دارالذکر حرم مطهر رضوی
 @Farsna</div>
-<div class="tg-footer">👁️ 8.05K · <a href="https://t.me/farsna/456241" target="_blank">📅 18:43 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.1K · <a href="https://t.me/farsna/456241" target="_blank">📅 18:43 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456240">
@@ -1111,7 +1112,7 @@ Link</div>
 <div class="tg-text">🎥
 وضعیت ورزشگاه سردار آزادگان کمتر از ۹۰ دقیقه مانده به اولین بازی فصل پرسپولیس
 @Farsna</div>
-<div class="tg-footer">👁️ 8.58K · <a href="https://t.me/farsna/456240" target="_blank">📅 18:32 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.66K · <a href="https://t.me/farsna/456240" target="_blank">📅 18:32 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456239">
@@ -1123,7 +1124,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.08K · <a href="https://t.me/farsna/456239" target="_blank">📅 18:25 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.14K · <a href="https://t.me/farsna/456239" target="_blank">📅 18:25 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456236">
@@ -1136,7 +1137,7 @@ Link</div>
 <div class="tg-text">📷
 نشست مشترک سران قوا در نهاد ریاست‌جمهوری برگزار شد
 @Farsna</div>
-<div class="tg-footer">👁️ 8.67K · <a href="https://t.me/farsna/456236" target="_blank">📅 18:22 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.73K · <a href="https://t.me/farsna/456236" target="_blank">📅 18:22 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456235">
@@ -1149,7 +1150,7 @@ Link</div>
 @FarsNewsInt
 -
 Link</div>
-<div class="tg-footer">👁️ 8.4K · <a href="https://t.me/farsna/456235" target="_blank">📅 18:15 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.46K · <a href="https://t.me/farsna/456235" target="_blank">📅 18:15 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456234">
@@ -1159,7 +1160,7 @@ Link</div>
 تهدید صریح وزیر جنگ آمریکا: حملهٔ نظامی به کوبا روی میز است
 🔹
 پیت هگزث: اگر کوبا مطابق با ارادهٔ آمریکا پیش نرود، از گزینهٔ نظامی علیه این کشور استفاده خواهیم کرد.  @Farsna - Link</div>
-<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/farsna/456234" target="_blank">📅 18:10 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/farsna/456234" target="_blank">📅 18:10 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456233">
@@ -1174,7 +1175,7 @@ Link</div>
 instagram.com/tv.farsna
 را دنبال و به دوستان خود معرفی کنید.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/farsna/456233" target="_blank">📅 18:02 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/farsna/456233" target="_blank">📅 18:02 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456232">
@@ -1191,7 +1192,7 @@ instagram.com/tv.farsna
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/farsna/456232" target="_blank">📅 17:54 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.22K · <a href="https://t.me/farsna/456232" target="_blank">📅 17:54 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456231">
@@ -1205,7 +1206,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.92K · <a href="https://t.me/farsna/456231" target="_blank">📅 17:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.99K · <a href="https://t.me/farsna/456231" target="_blank">📅 17:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456230">
@@ -1221,7 +1222,7 @@ Link</div>
 اینجا
 از زبان رئیس سازمان بسیج جامعه پزشکی بخوانید
 @Farsna</div>
-<div class="tg-footer">👁️ 9.22K · <a href="https://t.me/farsna/456230" target="_blank">📅 17:42 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.27K · <a href="https://t.me/farsna/456230" target="_blank">📅 17:42 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456229">
@@ -1238,7 +1239,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.97K · <a href="https://t.me/farsna/456229" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.01K · <a href="https://t.me/farsna/456229" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456228">
@@ -1247,7 +1248,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/farsna/456228" target="_blank">📅 17:22 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.27K · <a href="https://t.me/farsna/456228" target="_blank">📅 17:22 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456227">
@@ -1263,7 +1264,7 @@ chap.sch.ir
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.95K · <a href="https://t.me/farsna/456227" target="_blank">📅 17:15 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/456227" target="_blank">📅 17:15 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456226">
@@ -1281,7 +1282,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.38K · <a href="https://t.me/farsna/456226" target="_blank">📅 17:10 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.47K · <a href="https://t.me/farsna/456226" target="_blank">📅 17:10 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456225">
@@ -1292,7 +1293,7 @@ Link</div>
 ✔️
 غلامرضا محمدی سرمربی اسبق تیم ملی کشتی آزاد به‌عنوان سرمربی تیم کشتی آزاد استقلال انتخاب شد.
 @Sportfars</div>
-<div class="tg-footer">👁️ 9.43K · <a href="https://t.me/farsna/456225" target="_blank">📅 17:07 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.5K · <a href="https://t.me/farsna/456225" target="_blank">📅 17:07 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456224">
@@ -1311,14 +1312,14 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/456224" target="_blank">📅 16:42 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/456224" target="_blank">📅 16:42 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456223">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">🔴
 در حملهٔ بامداد امروز رژیم صهیونیستی به شهرک «انصار» در جنوب لبنان یک مادر و تمام فرزندانش به شهادت رسیدند.  @Farsna</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farsna/456223" target="_blank">📅 16:40 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farsna/456223" target="_blank">📅 16:40 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456222">
@@ -1332,7 +1333,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/456222" target="_blank">📅 16:33 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farsna/456222" target="_blank">📅 16:33 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456221">
@@ -1349,7 +1350,7 @@ Link</div>
 🔹
 شرکت آب‌وفاضلاب هرگونه افزایش قیمت خارج از چارچوب تعرفه‌های مصوب را رد می‌کند.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.28K · <a href="https://t.me/farsna/456221" target="_blank">📅 16:26 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.33K · <a href="https://t.me/farsna/456221" target="_blank">📅 16:26 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456220">
@@ -1365,7 +1366,7 @@ Link</div>
 🔹
 اکنون زمان آن است که دولت از ادامهٔ مذاکراتی که آمریکا تحمیل می‌کند دست بردارد و بداند که اتکا به تضمین‌ها و میانجی‌گری آمریکایی تلاشی بی‌نتیجه است، زیرا آمریکا شریک اسرائیل در جنایات و کشتارها علیه لبنان است.
 @Farsna</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/456220" target="_blank">📅 16:25 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/456220" target="_blank">📅 16:25 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456219">
@@ -1380,7 +1381,7 @@ Link</div>
 <div class="tg-text">🎥
 اوضاع قیمت‌ها در بازار کالاهای اساسی چطور است
 @Farsna</div>
-<div class="tg-footer">👁️ 9.55K · <a href="https://t.me/farsna/456219" target="_blank">📅 16:09 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/farsna/456219" target="_blank">📅 16:09 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456217">
@@ -1399,7 +1400,7 @@ Link</div>
 @TehranFarsnews
 -
 Link</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farsna/456217" target="_blank">📅 15:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/456217" target="_blank">📅 15:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456216">
@@ -1417,7 +1418,7 @@ Link</div>
 🔹
 ارتش آمریکا در جریان جنگ با ایران، نزدیک به ۲۵ درصد از پهپادهای «ام کیو- ۹ ریپرِ» خود را از دست داده که هزینۀ هر فروند آنها بین ۳۰ تا ۵۰ میلیون دلار برآورد می‌شود.
 @Farsna</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farsna/456216" target="_blank">📅 15:34 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farsna/456216" target="_blank">📅 15:34 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456214">
@@ -1456,7 +1457,7 @@ Link</div>
 منابع یمنی از حملات توپخانه‌ای ارتش سعودی به شهرستان «الظاهر» در استان صعده خبر دادند.
 🔹
 همزمان حملات راکتی از خاک عربستان به‌سمت منطقهٔ «بنی صیاح» در شهرستان مرزی «زارح» گزارش شده است. @Farsna</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farsna/456212" target="_blank">📅 15:07 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/456212" target="_blank">📅 15:07 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456210">
@@ -1481,7 +1482,7 @@ Link</div>
 همراه اول اکنون ۵۴ درصد بازار مشترکان فعال، ۵۵ درصد بازار پهن‌باند سیار و ۶۷ درصد اشتراک‌های اینترنت اشیا کشور را در اختیار دارد و حدود ۴۵ هزار روستا به شبکه این اپراتور متصل هستند.
 http://mci.ir/-48B5PW
 @mcinews</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/456209" target="_blank">📅 14:54 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/456209" target="_blank">📅 14:54 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456208">
@@ -1500,12 +1501,12 @@ http://mci.ir/-48B5PW
 مشروح خبر را
 اینجا
 بخوانید</div>
-<div class="tg-footer">👁️ 9.17K · <a href="https://t.me/farsna/456208" target="_blank">📅 14:53 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/farsna/456208" target="_blank">📅 14:53 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456207">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-footer">👁️ 8.4K · <a href="https://t.me/farsna/456207" target="_blank">📅 14:52 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.45K · <a href="https://t.me/farsna/456207" target="_blank">📅 14:52 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456206">
@@ -1513,7 +1514,7 @@ http://mci.ir/-48B5PW
 <div class="tg-text">علت آلودگی نفتی سواحل قشم از زبان رئیس سازمان محیط‌زیست
 🔹
 آلودگی از ۳ روز پیش وارد سواحل قشم شده و مناطق سوزا، شیب‌دراز، نقاشه و بخش‌هایی از جزیره هنگام را درگیر کرده است. هم‌زمان عملیات مهار و پاک‌سازی با استفاده از شناور، تجهیزات تخصصی و بوم‌های حائل درحال…</div>
-<div class="tg-footer">👁️ 9.29K · <a href="https://t.me/farsna/456206" target="_blank">📅 14:50 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.34K · <a href="https://t.me/farsna/456206" target="_blank">📅 14:50 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456205">
@@ -1525,7 +1526,7 @@ http://mci.ir/-48B5PW
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.67K · <a href="https://t.me/farsna/456205" target="_blank">📅 14:49 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/farsna/456205" target="_blank">📅 14:49 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456204">
@@ -1540,7 +1541,7 @@ Link</div>
 <div class="tg-text">🎥
 رئیس بانک مرکزی: تلاش می‌کنیم رهنمودهای رهبر شهید را به نتیجه برسانیم؛ ایشان فرمودند باید قوی شویم و ان‌شاءالله این موضوع عملی خواهد شد.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.89K · <a href="https://t.me/farsna/456204" target="_blank">📅 14:39 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.93K · <a href="https://t.me/farsna/456204" target="_blank">📅 14:39 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456203">
@@ -1551,7 +1552,7 @@ Link</div>
 تبریک گفت
 .
 @Farsna</div>
-<div class="tg-footer">👁️ 9.43K · <a href="https://t.me/farsna/456203" target="_blank">📅 14:35 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.47K · <a href="https://t.me/farsna/456203" target="_blank">📅 14:35 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456202">
@@ -1564,7 +1565,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.2K · <a href="https://t.me/farsna/456202" target="_blank">📅 14:26 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/farsna/456202" target="_blank">📅 14:26 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456201">
@@ -1584,7 +1585,7 @@ Link</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K4Fu3GFlkxwi5xydxjYGtvQi21NJzkUVcsWmPMP_SUBk_ukoy4qXHJDEC3rspu4ZZGatduoiESvXn0zSQHcvWDvG5vZoSptCQvNx5MVEbSVjuijcB57B9yoL4kGXU6EITrTrhiK671GVc_iOW_A5uN0_DITh5znyQHFXLRQ0qYNcFqv4nhqa8LYfT04Bo9UUMUqHxK_F8eRaXbMDt_eI0nNRO40P0I8k5Lm3JSb0ZRGBkHXLE69ftrhgDBSGD0b_cILk8WeKwTl1PCUAlfzZSu0R71Oc9eKCasANoqhmNzc0vE3gbo8gdakbCCtgHreASGrVZn9Tt9NxZq69sgacFQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">زمین‌لرزه‌ای به‌بزرگی ۳.۲ ریشتر در عمق ۲۶ کیلومتری زمین، مرز استان‌های هرمزگان و کرمان در حوالی فاریاب را لرزاند.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.45K · <a href="https://t.me/farsna/456200" target="_blank">📅 14:20 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.5K · <a href="https://t.me/farsna/456200" target="_blank">📅 14:20 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456199">
@@ -1598,7 +1599,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/farsna/456199" target="_blank">📅 14:09 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.67K · <a href="https://t.me/farsna/456199" target="_blank">📅 14:09 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456198">
@@ -1608,7 +1609,7 @@ Link</div>
 شورای انضباطی تجدیدنظر دانشگاه صنعتی شریف حکم اخراج رضا دالمن را تأیید کرد. وی در جریان ناآرامی‌های دی‌ماه به نقش‌آفرینی در تجمعات غیرقانونی و ایجاد التهاب در فضای دانشگاه متهم شده است.
 🔹
 براساس…</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/456198" target="_blank">📅 14:02 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/456198" target="_blank">📅 14:02 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456197">
@@ -1667,7 +1668,7 @@ Link</div>
 🔹
 رسانه‌های لبنانی از هدف‌قرارگرفتن یک خانهٔ مسکونی در محلهٔ «الراس» در شهرک دیرالزهرانی هوایی خبر دادند. این منابع گزارش کردند که همزمان یک موتورسیکلت هم هدف شلیک یک پهپاد قرار گرفته است.
 @Farsna</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/456193" target="_blank">📅 13:05 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/farsna/456193" target="_blank">📅 13:05 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456186">
@@ -1704,7 +1705,7 @@ Link</div>
 <div class="tg-text">رضایی‌کوچی: کنوانسیون خزر دشمنان را به سواحل ایران نزدیک‌تر می‌کند
 🔹
 رئیس کمیسیون عمران مجلس:  در شرایط فعلی نباید دست به اقدامی عجولانه زد و به‌صورت شتاب‌زده یا حتی محرمانه، توافقی را به امضا رساند. برخی از این اقدامات شتاب‌زده نشان از ابهامات جدی در این…</div>
-<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/farsna/456184" target="_blank">📅 12:48 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/farsna/456184" target="_blank">📅 12:48 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456183">
