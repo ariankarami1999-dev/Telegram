@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 13:43:39</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 14:15:05</div>
 <hr>
 
 <div class="tg-post" id="msg-2881">
@@ -355,7 +355,7 @@
 ثبت سفارش خودکار با کریپتو:
 🤖
 @NetProPlusZero_bot</div>
-<div class="tg-footer">👁️ 5.4K · <a href="https://t.me/iaghapour/2881" target="_blank">📅 23:01 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.47K · <a href="https://t.me/iaghapour/2881" target="_blank">📅 23:01 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2880">
@@ -384,7 +384,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.14K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2879">
@@ -419,7 +419,7 @@ https://github.com/roseshayan/SpeedyBot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.35K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.39K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2878">
@@ -450,7 +450,7 @@ ChatGPT Go & Plus:
 @ChatGPT_StoreBOT
 رضایت مشتری
 💎</div>
-<div class="tg-footer">👁️ 8.93K · <a href="https://t.me/iaghapour/2878" target="_blank">📅 21:54 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/iaghapour/2878" target="_blank">📅 21:54 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2877">
@@ -462,7 +462,7 @@ ChatGPT Go & Plus:
 ✅
 ویدیوی بعدی: ۲ اکانت
 🎁</div>
-<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/iaghapour/2877" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.9K · <a href="https://t.me/iaghapour/2877" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2876">
@@ -490,7 +490,7 @@ C2PA
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.43K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2875">
@@ -514,7 +514,7 @@ YouTube</div>
 تا امشب ساعت 24! پس تا فرصت هست کامنتتون رو ثبت کنید.
 🔻
 توجه داشته باشید برای اینکه یوتیوب کامنتتون رو به عنوان اسپم تشخیص نده و پاکش نکنه، حتماً بذارید ویدیو چند دقیقه پخش بشه و بعد زیرش کامنت بذارید.</div>
-<div class="tg-footer">👁️ 9.05K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.06K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2872">
@@ -836,7 +836,7 @@ YouTube</div>
 آدرس سایت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2856">
@@ -1088,7 +1088,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2842">
 <div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/avUaS7n7LN5bTzRu_bIOQapD26YG7C2Jr04pCRxE6Kr6neTS1Lh0C5P1xSd3EoTZan3mEnix3IbMeViLh4dqWMo-wuPVWm9ys0uHNdtO0-tHiMSeQLOtDqtTNCJ5G8fYq7MZNJczYVIcciHxbOT8o6r1gUdMfz7WxFEN6LQ8FMheaP6syzVFm-kgSpBg-91GXd3QMzSyMO5NLtUzspJ5_eDCyLrRPJafRgw0gUqMHg9nkB1GRrhXgNPYB-LC_6J6dts9HlTcR0ch1MgFdiZBwaMYihxuyEEDRJbT4dQ_lRD5MdKwa7v9sn9WVv-bwzEok5o9qXdS-Bxpa8LBSPRA0A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HvhuohStA0mopJ8if06OLpyc6TpJjg9w4EuJso9gQpXUKxHSJHMLf-XMXiy4g67FmkATL9UDToZVF8FoTZKZS0NGnzW1DPFSnvh3dunvQaGNjk8zBkkgBcH-X2Etl6_TcwA_RHEu-JvTADExbDlJe0-pOq0JdWl5w9GTmhxN7nc-n4KVwIqT2v_eRa5zkklvOnekzk5xY6crpfyGXZHIAL69TrCFkwKuK5Jv0a0YJ_4A8_oBhZRcdLWlyJidNXn97CDITU817EPKJumIkZ7sENFncFeaFELYl3m33uDiHXDQcrgdcJwcNLRAUpwrzrFc2HB6_ZYe0K6tlgfO3tSynQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 دو ابزار برای مدیریت پروکسی‌های Psiphon و Tor روی سرور لینوکس
 این دو اسکریپت ترمینالی، راهکاری عالی برای کسانی هستند که می‌خواهند چندین لوکیشن مختلف را به‌طور هم‌زمان و یکپارچه روی یک سرور مدیریت کنند:
@@ -1147,7 +1147,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2838">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Fk6xjCDl3_cDrt7sfH8Jyuwc8Snc1kpKKYvR6S_4akJ2RSUUgZUmdncQcqtQC0umLlvlgCUu9XFKaD53mMdqSmF9qHkyReo-Vd72gMubG-Qr2Smgfq9S1JJrHHkJsPWZOxhGA_Fk-6AGyzcpeBMU3ZXU_etYlTnErOi8p3K0odOyzhZNRG65o9ojaAgp8axQUtABKXRN-4OB4wc07Jf1SStb3Gx-KpX4dHswJ36uk3EdZmP_VJy-ySvLO5zs3EWKkx9R-brBLeBQ6srIuGs0AMorXZqxXdk7y7Zi1Nt63kD9wA5yFD6NjqUhIyHFBpCjYKdLqts0iaj2uJlocJws-w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/o4R-NMJIUKf83yUV4SXC03u5rykv0A00omG4C1ly09HsSI8FO0DccU0IlS6ZExzrROR_rbaBNgJELMbttMPE1h08tLohMXlkgeRRZawWxtcISFFtiM-KeD1EX5z0581MLNVz6DJcImn55rF-sxVj0x0InBdw61UbxH-YiHUkyOgucDJE97_GvkuGVEhw3gpZDYna3O_oGpRbXR0yF81xFhMx5ZS75F4ubArU4ZcG4NqN2DCAH46dla_rP5YyA0wsSIvPWgfCIWNSQ2NR1G1HD-0jD_q3AjfcSyn2Q0VwUGXXas2TIZ-ZrWPO7UxzGq5B5ZGwyciv4-AtP4GLNmpCAw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی کلاینت جدید Disruptor Proxy بر پایه Xray
 یک کلاینت پروکسی جدید و بسیار سبک است که برای سیستم‌عامل‌های مختلف توسعه یافته، اما
@@ -1340,7 +1340,7 @@ KelpDAO
 کارشناسان از احتمال رشد حملات تزریق دستور (Prompt Injection) به ایجنت‌های هوش مصنوعی خبر می‌دهند که نمونه اولیه آن هک ۲۱۶ هزار دلاری پروژه بنکر بود.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2826">
@@ -1372,7 +1372,7 @@ KelpDAO
 
 <div class="tg-post" id="msg-2825">
 <div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XTb4eoEsINlC_uTIXvNeslHj1qckyjkFaGUwPRR-9y_MQKbYCRkHkiEYdZ2q_MNHSdEjwX9uRps9-YvDDT2kBVwRFDbBZ1mc4SN5T16YSfjmSY_ZtFs-A281DdnW4rfabKnAaqNlta7oylf0rC6Q8aufRfyg0bTcUBvQIhkhmO14rxm-eY2LNf6k2qS4SHrtTTQI35NyOzjriTcNU-5GYjLlCH-ilCMI2c-oIYN4C9AtnBIUBbDeXZ4yAwKMDQZLrWQ_juePb46THAlx0BTFvzfGXxvRbxf2ocQ1mGWZnpi5jIyJP6AjW_cc2ej9451Z5t21t9w8VDGgA2JyRm5diw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CkgWrdHpcwtmGLImHao3ZepqORqcsEgeQuMsc45iveTY5WYUlIT8KCUR7Biox66i7ONBB8c-K6O2HKvO2Eud9noWyfwug2ISPDm_aAscvDk4D-5SFOu_sAEbpMpD49IUD0NLRu8-hp4sd3eu9qzMTL3pd4oOGj5iuN0fTeCWGCisokYm-H1Blq1Jkq2IlDxjWHepZL7sH-CzJBp8XNDJW6apHt76OqpaZvUqZjRLViEsHv1pk_HSxDVgnCfCwbaqXOlXcprlFAXP1bKWCNcR4UeNJkkUkuzzGFcvRcNC7xxctZAHCczBXC8MDgT3PF0pHKNL7Nw6aU2-IaB1oPsXzQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 سرویس امنیت روسیه: پاول دورف تحت تعقیب بین‌المللی قرار گرفت
 سرویس امنیت فدرال روسیه (FSB) «پاول دورف»، مدیرعامل تلگرام را به اتهام
