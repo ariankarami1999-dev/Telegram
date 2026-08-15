@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 20:17:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 20:42:56</div>
 <hr>
 
 <div class="tg-post" id="msg-951">
@@ -303,7 +303,7 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 224 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 225 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
@@ -312,7 +312,7 @@ z.ai
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 449 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 450 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-948">
@@ -326,7 +326,7 @@ z.ai
 دلخوش میشی که شاید ....
 و بعد با تصویر دوم روبرو میشی :/
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 567 · <a href="https://t.me/danialtaherifar/948" target="_blank">📅 14:52 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 568 · <a href="https://t.me/danialtaherifar/948" target="_blank">📅 14:52 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-947">
@@ -338,7 +338,7 @@ z.ai
 😁
 #ai
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 568 · <a href="https://t.me/danialtaherifar/947" target="_blank">📅 13:56 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 569 · <a href="https://t.me/danialtaherifar/947" target="_blank">📅 13:56 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-946">
@@ -349,13 +349,13 @@ z.ai
 
 <div class="tg-post" id="msg-944">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JwSCDn4i-CZcHOQ6gR2YQdP5SRfZ5I2HM1BjBC3ULIGPDwWvRsiF-oOKuepMxH4GRZ3zM0zm7cxP4_YcFoMHpdLQ3C7oZVc5C4BuPqGOKXeGCz-aGTSOvUzy4xlnsYmIsj688FdyCTASth_ISUmc-N6XjLmcPuuX0APcQ8V5bmZy2O4sm0FURUEHsf9jMR4GjPvY48OBE27VEODd8se1m7XcKXBvMehsKqVRhjpXzKZbERHQ97X8NgvyqlSOKSLhPDHtRg0ftbolrkKI-9g00O5p7sHpdHLrz5tLE5auA9zLN3scp0wrq473t3-6t8W9EEgB8Uc5ODkZzUvQ1_e3GA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/L8q2-SEmQRqV4j4ZJP4F6rGullqXLWV39tbuzPs90XnHZxpTTSb7WAS3n_KNSMjvef-vDmBe1v7TY6lL0b7jPyOx7qqV7jWAZmNLAvwZ8HMOZKtTlLuTIcovoIHOzO0wjs04KL5YBGVJ8D6KS7QpHBEr7p2WzyA0RfUiVH4YRUbcEoeolhwaSBZm-UvYbu4H2NKETOa3Hhdz7-9HM9MduSA1tiJmvu9EdstDPARIeG_g_H4-Jnd94EspWLOlQZghFj1V63d2Dg974jAgDvQLSeFPT3ZrTFn8wekEaNTBUTdX9cQ9IvMKktpJFlA2jfw2uc_qkJDnYHXs4BoXxZDBuw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=hsFuZLpg5c_WfcliehtXt4WxIJO52P0FjBatWuA2L3BF-eSxTeLY_djwuUkiokgEZajamd6MROwKSDku_Tq2yUYg9Ox_0Z5Lftrk-9v4tlxdtjbyMysNvKWiohos_n7tPSwFsgUl75VG6a6cTbfHbOW7UJPnk6sNjMfhrteuMP0xkY_PHSZZoZJBC7PT5J1OIsCDlGkxa_gjO5tWQGQI0eGBEAoipRTX36NklHX633DNpkqvSZyfXXrUhOZpOk-E80C5bntjDdsmkUHeSty2dF6GQ5o3DFtLxK5mTlnEfVvGfgF0orwtlQ1xt7MQ6_MR-KppFCPJPif52GSUTxbeMQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=k-L4zWz3UGXTXaaFj-2ccNvrWD3LhqJmWnEdmSLnC6hUfzsmWo_pn1eOtpsdmU2BUTz1MP_xo55ym5rdFRFmAMJ4FA6InveKR_LNtHqfRxiFk6hPUsF0TdzUDta0B8Wn5II9OIqXzzlXtskgFfkskFSWtKnuJ2Xel72xKwFOkbZ3S7divem2nuhX4Bpdeu1BA9-5NEI901AsQx8hA3MGUQab3PLXAnTay2u8d2UCX4LW8VQJ2zWu-4AErHnex1c9nCuZ-mrwE4TcnDPHM7cCD2-4OPYi8ayV-PF7Qtpr96orzWNVi6gwZ7or33XLcQB7mhmGNOE_iVMlxp_BBlqh5w" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=hsFuZLpg5c_WfcliehtXt4WxIJO52P0FjBatWuA2L3BF-eSxTeLY_djwuUkiokgEZajamd6MROwKSDku_Tq2yUYg9Ox_0Z5Lftrk-9v4tlxdtjbyMysNvKWiohos_n7tPSwFsgUl75VG6a6cTbfHbOW7UJPnk6sNjMfhrteuMP0xkY_PHSZZoZJBC7PT5J1OIsCDlGkxa_gjO5tWQGQI0eGBEAoipRTX36NklHX633DNpkqvSZyfXXrUhOZpOk-E80C5bntjDdsmkUHeSty2dF6GQ5o3DFtLxK5mTlnEfVvGfgF0orwtlQ1xt7MQ6_MR-KppFCPJPif52GSUTxbeMQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=k-L4zWz3UGXTXaaFj-2ccNvrWD3LhqJmWnEdmSLnC6hUfzsmWo_pn1eOtpsdmU2BUTz1MP_xo55ym5rdFRFmAMJ4FA6InveKR_LNtHqfRxiFk6hPUsF0TdzUDta0B8Wn5II9OIqXzzlXtskgFfkskFSWtKnuJ2Xel72xKwFOkbZ3S7divem2nuhX4Bpdeu1BA9-5NEI901AsQx8hA3MGUQab3PLXAnTay2u8d2UCX4LW8VQJ2zWu-4AErHnex1c9nCuZ-mrwE4TcnDPHM7cCD2-4OPYi8ayV-PF7Qtpr96orzWNVi6gwZ7or33XLcQB7mhmGNOE_iVMlxp_BBlqh5w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این وسط با kimi3 هم آشنا بشید!
 یک مدل هوش مصنوعی با 2.8 تریلیون پارامتر! و کانتکست ۱ میلیونی که عملکرد فوق العاده ای داشته و در سطحی نزدیک به Fable 5 , gpt5.6 ظاهر شده.
@@ -436,7 +436,7 @@ https://x.com/philhchen/status/2072793818945167475
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rXM1JsRTo4HyoibFnojeK74438cfaXsUf02WMZxNdddownx89Y1Hir6hNcvPzngE8vV0EAEcEd-IoD41v41COCLq_kTZc0iCms2DzU6FBkOrhmtS0Mm3yxrlSGN7wpg_CFZGM-nK4-hhY-3du5JXMav7Cb82PxaojV8rQUSXYD9H3D3WA6rbFP9Zy8_Emj1mPpDUCbpVb0Izqm2Am-Cl0RMs-5lMqPy0nD2LnoskFb7qVsIBBV9HITGObIlZI18xIviV9UUDP4XWMsIZ3bklOZmZrv676HKvvNs_IGBTntFhhQ5e5Lhg-DKnNs3bYcb_WjLgGZywbZPlSBNlsQCToA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 آنتروپیک دو مدل قدرتمندش رو روی غیرآمریکایی‌ها بست  دولت آمریکا با استناد به «امنیت ملی» دستور export control صادر کرد: دسترسی هر شهروند غیرآمریکایی — چه داخل، چه خارج آمریکا، حتی کارمندان خارجی خود آنتروپیک — به دو مدل Fable 5 و Mythos 5 قطع شود. نتیجه:…</div>
-<div class="tg-footer">👁️ 988 · <a href="https://t.me/danialtaherifar/938" target="_blank">📅 20:19 · 03 Tir 1405</a></div>
+<div class="tg-footer">👁️ 989 · <a href="https://t.me/danialtaherifar/938" target="_blank">📅 20:19 · 03 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-937">
