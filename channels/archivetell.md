@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 08:24:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-24 08:47:02</div>
 <hr>
 
 <div class="tg-post" id="msg-7482">
@@ -308,7 +308,7 @@
 دیدن اطلاعات بیشتر
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/ArchiveTell/7482" target="_blank">📅 23:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/ArchiveTell/7482" target="_blank">📅 23:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7481">
@@ -886,7 +886,7 @@ Vega Agent
 |
 #API
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.99K · <a href="https://t.me/ArchiveTell/7449" target="_blank">📅 18:30 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3K · <a href="https://t.me/ArchiveTell/7449" target="_blank">📅 18:30 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7448">
@@ -2271,7 +2271,7 @@ callback_data
 
 <div class="tg-post" id="msg-7369">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YO5L7EvZvWoD9NdSwJwix1j_EDlijrs8xgx8p7pN8inu20velQo1vUwWWuuN-hoDbVcUuTQ7oCjl8DlaHyjJeRY6ljrZX14Y3owYj9mfxbkwU0yhP3nkjmYNGbVMKwHKauslVtUFgmBY5He-wvC8-w61HBjvtfFI1c3IhaM4hkKySuRJUAcBJhsJoCzH-wLNhVAGNKW1jvOSpWUGfpLBmR--VxwnGkRxq4mgmSYg_wLnHLRLep_Wjme9W6KHxfOmLGjRwU2wUcinaL-xg_p2CLDzn-G9mT39z_jSZlkJ-sJ_AQueB4k1uhazJTWKaIRc9BnGn3otTta1DUp3YCy08g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/O9YDOud-cJb1X4_mbRnIO-i4e7CERen6amDc_sRUci-7CLHm85g0CHnASVHcvU0pu3ghpkPTsm4MiNVvmdZ4hMuc2_dSXnhzEyO5Dqx_XaSkVhcae--u2h9xVX1lMhVOX_L_25f7bgwU_2kO-3bwsSDGIKYbr5bMj_zv0heb4GVifGAGuG9arbVL96ynd7xfcfBMNfkhquZG5xDaGyzQBdDbIzHPUg6Y8Oc6I9YogJOJp1k7PF7tQNitL8wQbN7TwsKcmd_vTcmsB9oM_nMMU0UoYsuWlXjCsCnw_t2pHrZfNK73qderGfZNV_Yx0CkorOsCC3G9l33CW_kTNKMKig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بنچمارک های Qwen3.8-Max
 🔵
 @ArchiveTell</div>
