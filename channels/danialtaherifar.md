@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 19:43:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 20:17:33</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -300,7 +300,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oZILjbB9eoNfw35S3vZeIe3jfkSabklql5XzzVKvMHrcAXPQtyDYrAgEJ5WcIUoedsjFyXGeD7GqN5ZW8B2v6QD8LnIH9cCqghMVuYAZHNffe8GHUpiGor8-e5P17d6EGD5kS0QmpeCv4CLe4P3zVAXcZAVp9kClhcP7j6nyr8BshTsMnNmDDnmr1uYz_Yy2ZlNRHmEvw5kn0gXwhq94qrtJ2AdQqU2ww94Qz0xJZqtZ9HXYIcIScLh8sZTarnzE0tsm3e6zQoSQ3jXyUYb3kaKat8OzvTdQc2tYYIE3g2-dBl0cBZw0PO9dHwLG_k8ezP49U8gVtDHl7he9oOcmTg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده    @danialtaherifar</div>
-<div class="tg-footer">👁️ 96 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 103 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -320,7 +320,7 @@ z.ai
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 491 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 492 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-948">
@@ -334,7 +334,7 @@ z.ai
 دلخوش میشی که شاید ....
 و بعد با تصویر دوم روبرو میشی :/
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 603 · <a href="https://t.me/danialtaherifar/948" target="_blank">📅 14:52 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 604 · <a href="https://t.me/danialtaherifar/948" target="_blank">📅 14:52 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-947">
@@ -357,13 +357,13 @@ z.ai
 
 <div class="tg-post" id="msg-944">
 <div class="tg-post-header">📌 پیام #94</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/L8q2-SEmQRqV4j4ZJP4F6rGullqXLWV39tbuzPs90XnHZxpTTSb7WAS3n_KNSMjvef-vDmBe1v7TY6lL0b7jPyOx7qqV7jWAZmNLAvwZ8HMOZKtTlLuTIcovoIHOzO0wjs04KL5YBGVJ8D6KS7QpHBEr7p2WzyA0RfUiVH4YRUbcEoeolhwaSBZm-UvYbu4H2NKETOa3Hhdz7-9HM9MduSA1tiJmvu9EdstDPARIeG_g_H4-Jnd94EspWLOlQZghFj1V63d2Dg974jAgDvQLSeFPT3ZrTFn8wekEaNTBUTdX9cQ9IvMKktpJFlA2jfw2uc_qkJDnYHXs4BoXxZDBuw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bshp_dIao-3-GRoH53wueD_cPY7Vrol5fJxtfFKEedLP5sGAow6zclaosSB9GkpRR92hIDeUkOCi_0jrwq_8jn6rnJWIGmwBCPDxyIF0tW4eypJW9HIKRg4OBT5_dpNiUx7G9_193BmNb_Y_DjnN7r6S6LsnuhpQeCmXMv1z2MYYp3G-M8rdCdwBAZnUZQ82J0op2FTkyUUFBpIaWNH5QPPlJ9o7WkfGWW7ZYmJnDcHLMDt6bcdwIrZpFqXT3HanlP6VOQtheqciAwcdwfqP7RiaOSa4pixDXistXF4byih0zdUXpokWLC0nJTn7IqAv-gLI4etCtLZRw3lsL-u7LA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=k-L4zWz3UGXTXaaFj-2ccNvrWD3LhqJmWnEdmSLnC6hUfzsmWo_pn1eOtpsdmU2BUTz1MP_xo55ym5rdFRFmAMJ4FA6InveKR_LNtHqfRxiFk6hPUsF0TdzUDta0B8Wn5II9OIqXzzlXtskgFfkskFSWtKnuJ2Xel72xKwFOkbZ3S7divem2nuhX4Bpdeu1BA9-5NEI901AsQx8hA3MGUQab3PLXAnTay2u8d2UCX4LW8VQJ2zWu-4AErHnex1c9nCuZ-mrwE4TcnDPHM7cCD2-4OPYi8ayV-PF7Qtpr96orzWNVi6gwZ7or33XLcQB7mhmGNOE_iVMlxp_BBlqh5w" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=Qc40haYsmbnSB6x9Sbegu5kR8dtM5T42wMxTSSyClZN19IiYc52WO43skWnZSQ5D2E0Z0gpuRex6H_I-_3igemy5v-OzGyQYsYoHJ_ZtIsXbg1AOTrg_T2G62dvln8iVcK_hcON7V7ncwzhFskdt6TQIIGx6rae3CLFGIwlhp5UGgVMf2Ius47RuigiD4r7uAMJ7L2FFFhKlxGzwR-mgsiErdX6_z-srvp16GmWNeexUud9_j2t-94aaZL1KTGy19m0h6INB4-3LXfVDcFQ49KpOnC1iFjRVIpykW4c_Q8dTq4qGBUv2bMom3WbXp_HtHgycfJFUWW_XQrDyyYQkSg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=k-L4zWz3UGXTXaaFj-2ccNvrWD3LhqJmWnEdmSLnC6hUfzsmWo_pn1eOtpsdmU2BUTz1MP_xo55ym5rdFRFmAMJ4FA6InveKR_LNtHqfRxiFk6hPUsF0TdzUDta0B8Wn5II9OIqXzzlXtskgFfkskFSWtKnuJ2Xel72xKwFOkbZ3S7divem2nuhX4Bpdeu1BA9-5NEI901AsQx8hA3MGUQab3PLXAnTay2u8d2UCX4LW8VQJ2zWu-4AErHnex1c9nCuZ-mrwE4TcnDPHM7cCD2-4OPYi8ayV-PF7Qtpr96orzWNVi6gwZ7or33XLcQB7mhmGNOE_iVMlxp_BBlqh5w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=Qc40haYsmbnSB6x9Sbegu5kR8dtM5T42wMxTSSyClZN19IiYc52WO43skWnZSQ5D2E0Z0gpuRex6H_I-_3igemy5v-OzGyQYsYoHJ_ZtIsXbg1AOTrg_T2G62dvln8iVcK_hcON7V7ncwzhFskdt6TQIIGx6rae3CLFGIwlhp5UGgVMf2Ius47RuigiD4r7uAMJ7L2FFFhKlxGzwR-mgsiErdX6_z-srvp16GmWNeexUud9_j2t-94aaZL1KTGy19m0h6INB4-3LXfVDcFQ49KpOnC1iFjRVIpykW4c_Q8dTq4qGBUv2bMom3WbXp_HtHgycfJFUWW_XQrDyyYQkSg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این وسط با kimi3 هم آشنا بشید!
 یک مدل هوش مصنوعی با 2.8 تریلیون پارامتر! و کانتکست ۱ میلیونی که عملکرد فوق العاده ای داشته و در سطحی نزدیک به Fable 5 , gpt5.6 ظاهر شده.
@@ -436,7 +436,7 @@ https://x.com/philhchen/status/2072793818945167475
 بن شدن اکانت ها شروع شده.
 پ.ن: اکانت اصلی خودم پرپر شد.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 779 · <a href="https://t.me/danialtaherifar/939" target="_blank">📅 12:38 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 780 · <a href="https://t.me/danialtaherifar/939" target="_blank">📅 12:38 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-938">
@@ -812,7 +812,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 <div class="tg-text">متاسفانه اکثر سایت هایی که در ایران میزبانی میشدن ایندکسشون به صفر و نزدیک صفر رسیده ...
 💔
 اینکه بعد از اتصال اینترنت چه رفتاری با سایت ها میشه دقیقا مشخص نیست، اما به دلیل اتصال یک‌طرفه‌ی گوگل(و در دسترس قرار نگرفتن سایت های میزبانی شده در ایران برای گوگل)…</div>
-<div class="tg-footer">👁️ 864 · <a href="https://t.me/danialtaherifar/905" target="_blank">📅 15:46 · 01 Bahman 1404</a></div>
+<div class="tg-footer">👁️ 865 · <a href="https://t.me/danialtaherifar/905" target="_blank">📅 15:46 · 01 Bahman 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-904">
@@ -826,7 +826,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 به امید روزهای خوب
 🌺
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 698 · <a href="https://t.me/danialtaherifar/904" target="_blank">📅 15:27 · 01 Bahman 1404</a></div>
+<div class="tg-footer">👁️ 699 · <a href="https://t.me/danialtaherifar/904" target="_blank">📅 15:27 · 01 Bahman 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-903">
@@ -837,7 +837,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 از این به بعد می‌تونید روندهای بلندمدت رو راحت‌تر ببینید و تحلیل تکنیکال بلندمدت روی نمودارهای سرچ کنسول انجام بدید.
 😄
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 897 · <a href="https://t.me/danialtaherifar/903" target="_blank">📅 07:40 · 19 Azar 1404</a></div>
+<div class="tg-footer">👁️ 898 · <a href="https://t.me/danialtaherifar/903" target="_blank">📅 07:40 · 19 Azar 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-899">
@@ -855,7 +855,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 🔹
 این ویژگی که توسط دنیل وایسبرگ (Daniel Waisberg)، از تیم Search Relations گوگل، در رویداد Search Central معرفی شد، اکنون در حال rollout تدریجی برای همه حساب ‌هاست و طی چند هفته آینده برای تمام کاربران در دسترس خواهد بود.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 990 · <a href="https://t.me/danialtaherifar/899" target="_blank">📅 12:21 · 16 Azar 1404</a></div>
+<div class="tg-footer">👁️ 991 · <a href="https://t.me/danialtaherifar/899" target="_blank">📅 12:21 · 16 Azar 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
@@ -869,7 +869,7 @@ NotebookLM
 با اینکه ایرادهای جزئی در خروجی دیده می‌شود، اما در مجموع نتیجه کاملاً قابل قبول و کاربردی ارائه می‌دهد و می‌تواند برای تولید محتوای سریع بسیار مفید باشد.
 #AI
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 894 · <a href="https://t.me/danialtaherifar/898" target="_blank">📅 12:33 · 11 Azar 1404</a></div>
+<div class="tg-footer">👁️ 895 · <a href="https://t.me/danialtaherifar/898" target="_blank">📅 12:33 · 11 Azar 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-897">
@@ -930,7 +930,7 @@ NotebookLM
 رسانه ها برای اینکه تاثیر منفی کمتری با فروش بک لینک های سایدبار یا سایت‌واید روی سایت خودشون داشته باشند از این روش استفاده میکنند.
 اسم رسانه خاصی رو نمیبرم، اما در خرید این مدل بک لینک ها حتما دقت کنید، بابت هزینه ای که می‌کنید ضرر نکنید.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 939 · <a href="https://t.me/danialtaherifar/895" target="_blank">📅 10:52 · 31 Tir 1404</a></div>
+<div class="tg-footer">👁️ 940 · <a href="https://t.me/danialtaherifar/895" target="_blank">📅 10:52 · 31 Tir 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
@@ -961,7 +961,7 @@ GFM (مدل گراف-محور برای ارزیابی اعتبار محتوا)
 توی سرچ کنسول دنبال نوسان ترافیک باش
 واکنش سریع نکن! اول تحلیل کن بعد اقدام
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 785 · <a href="https://t.me/danialtaherifar/894" target="_blank">📅 18:37 · 29 Tir 1404</a></div>
+<div class="tg-footer">👁️ 786 · <a href="https://t.me/danialtaherifar/894" target="_blank">📅 18:37 · 29 Tir 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-892">
