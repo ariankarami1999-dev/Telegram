@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 11:21:24</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 11:47:58</div>
 <hr>
 
 <div class="tg-post" id="msg-7483">
@@ -317,7 +317,7 @@ glm-5.2
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/ArchiveTell/7483" target="_blank">📅 17:25 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.27K · <a href="https://t.me/ArchiveTell/7483" target="_blank">📅 17:25 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7482">
@@ -450,7 +450,7 @@ CiteSeerX گنج رایگان مقاله‌ها
 ورود به CiteSeerX
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/ArchiveTell/7476" target="_blank">📅 21:00 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.28K · <a href="https://t.me/ArchiveTell/7476" target="_blank">📅 21:00 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7475">
@@ -743,7 +743,7 @@ Base url: https://tabitoken.com/v1  قابل استفاده در Vega Agent
 
 <div class="tg-post" id="msg-7457">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/myqfZc_D7t9KMpweU4vT-yYce2xo9hjtYlR0EoNazdYYNM0JcrssoXl0dTN8ZVHw7V8QRJ6q6B4oyZ5njie0nIOnXdwk3xVSqvvb4n7gRRwfE0_Vm5Bvjqg3pMI7e3rm9PzXQWD3h3FWRIgP-vSm5O5FT_CctC4TexqUlByFwTvb3gTfEDfeWS2VawM0j077LkAHWVeBudUmiaML6_-rXCSD7M2Aqg451o6SSdq-IKwhBqD1C7mQgzzy7ND1XSaItBo8b7fGmQ45RcaH2l0B0dH_SlpltVn2sfep0ujhF313cqjJEM1FduLADkrqb43OpMkkh2jjr55xVCYX7bBr9w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gplLZ-Z1qER9-Avrd9TbR5Y_xnlMTqj7UD-sqy3LM9-iqhPz8FTFnfOJKH85t16BbolnXcX29G21sj5dqU3npVzGrYAveeP4NXWGc7ef31WkIqsHnGNR32oUEvJeNijJiLHAktpvLjt4NxoNI_PdfyTsnhS8dqxeSd5ubOPX5qFkAgNO3wp_vN5CiHSb9Ts_QlR8hii-VFmC04HsJ-0T_S6uCzEcPkN94elVK4xTTIBFIvuQAnh8n9CyUAX_AbvM8v5hq67E7A7kyyAEn5Nphe7vokMLAIR0s2zv3E0o0qiJ2hsDJc6nMNmnT8MjSP1Y3Z22Rxn13IiyfEWu2TAW9w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">40 دلار برای دسترسی به بهترین مدل‌های هوش مصنوعی جهان
 ✨
 Opus 5 | Opus 4.8
@@ -2262,7 +2262,7 @@ https://www.gitreverse.com
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 1.99K · <a href="https://t.me/ArchiveTell/7371" target="_blank">📅 12:03 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2K · <a href="https://t.me/ArchiveTell/7371" target="_blank">📅 12:03 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7370">
