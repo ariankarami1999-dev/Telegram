@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 13:18:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 13:43:56</div>
 <hr>
 
 <div class="tg-post" id="msg-2886">
@@ -333,7 +333,7 @@ PAY5SCMT
 |
 👍
 رضایت مشتریان</div>
-<div class="tg-footer">👁️ 5.47K · <a href="https://t.me/iaghapour/2886" target="_blank">📅 21:32 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/iaghapour/2886" target="_blank">📅 21:32 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2885">
@@ -367,7 +367,7 @@ PAY5SCMT
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 6.48K · <a href="https://t.me/iaghapour/2885" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.5K · <a href="https://t.me/iaghapour/2885" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2884">
@@ -398,7 +398,7 @@ Gemini 3.7 Flash
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.04K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.06K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2883">
@@ -427,7 +427,7 @@ Smart Support Bot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.15K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.16K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2882">
@@ -462,7 +462,7 @@ ChaCha20-Poly1305
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/iaghapour/2882" target="_blank">📅 15:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.88K · <a href="https://t.me/iaghapour/2882" target="_blank">📅 15:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2880">
@@ -526,7 +526,7 @@ https://github.com/roseshayan/SpeedyBot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.56K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.57K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2877">
@@ -1108,7 +1108,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2845">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CVGkpp5FIrON7pRy72u0gqloBPPqmIjFdVFAkcCWy4N0r2B1khmjb8OlcJVRHXN73_NycJkMDhMd_0zM69sU2Bo9dN7_tmAdedzJCUwG94b_Bb7cKh7Tunzm-pGFDTO1MFdS5BRdW1G4fuMTMTouuzjUkXqduf1JFvOEM4VSSXRBjVVEa0JcX34KZ57F5n2s0NCpCqoNyrUn6_MC6JIdsKr8HH1OJRNxl1kq2kVbkrz6DHscNTyedoTBRf2eoBSpurMX2IbKMKGsqODrlQi4ihqtVwmjlnRWJzKDU1lYAuZXmxSEvHR9N1S585ZoYjr5cjkj94GSGiJtciILiw0o0A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/v8p4bkHku6U6_p3uxJdsFTklmqLc8V4GdFyGMeYNBRNmNUxTQFMDmZnmDD6ocFclL8anQ7MfW6ZFwbZn2FqZhYCEqZvk230iO30rli90Jf3sLI3CF3aoZUxOr_HeYGpd_yfNPLtHTl-9fIIaaBjhY7TY0uIbvv1uTaJYLYwvzwXRoY0xABnAUpAj13ubZxqQJJfoAfojj42oFPOXyNCpD0ceh0PgVuNgsbjtZjx4H6P8eBqa5VtADoZKZWl-t4JqMA1FIf7fHk9Vsgb4NNZjuNdycFCqQQzBn0eNKphx8sTiLDU3htJ8KW4eYcArSv6IDmIHjKQ1IVWWXttdyhsugA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 توضیحات ایرانسل درباره نحوه کسر حجم بسته‌ها و ضرایب مصرفی
 ایرانسل با انتشار اطلاعیه‌ای، در پاسخ به ابهامات مطرح‌شده در شبکه‌های اجتماعی اعلام کرد که کسر حجم از بسته‌ها دقیقاً طبق مصوبه‌های سازمان تنظیم مقررات (رگولاتوری) انجام می‌شود.
@@ -1378,7 +1378,7 @@ filterbaan
 Aliasghar Honarmand
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/iaghapour/2829" target="_blank">📅 21:50 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/iaghapour/2829" target="_blank">📅 21:50 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2828">
@@ -2098,7 +2098,7 @@ LangOver
 در حد توان آمادگی داشته باشید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2780">

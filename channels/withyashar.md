@@ -292,7 +292,7 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 13:18:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 13:43:56</div>
 <hr>
 
 <div class="tg-post" id="msg-21045">
@@ -303,14 +303,14 @@
 بارزانی در طول جنگ ایران و عراق در ایران زندگی می‌کرد و در دانشگاه تهران تحصیل می‌کرد.
 او به زبان فارسی مسلط است و روابط شخصی با بسیاری از اعضای ارشد ایران، از جمله اعضای ارشد سپاه پاسداران دارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 9.02K · <a href="https://t.me/withyashar/21045" target="_blank">📅 13:12 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/withyashar/21045" target="_blank">📅 13:12 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21044">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">نیویورک‌تایمز: جنگ آمریکا با ایران وارد مرحله‌ای اقتصادی شده است؛ واشنگتن در کنار فشار نظامی، تلاش می‌کند با ضربه زدن به درآمدهای نفتی و منابع مالی جمهوری اسلامی، توان تهران برای ادامه جنگ و تأمین هزینه‌های آن را کاهش دهد. این رویکرد یادآور سیاست فشار اقتصادی سال‌های گذشته است که هدفش وادار کردن ایران به محدود کردن برنامه هسته‌ای و بازگشت به مذاکره بود. گزارش می‌گوید این فشار اقتصادی می‌تواند برای آمریکا یک اهرم مهم در مذاکرات آینده باشد، هرچند تجربه گذشته نشان داده که تحریم‌ها به‌تنهایی الزاماً ایران را وادار به تغییر سیاست نکرده‌اند. در نتیجه، مسئله اصلی اکنون این است که آیا فشار اقتصادی همراه با حمله نظامی می‌تواند کار آمد باشد یا نه
 @WarRoom</div>
-<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/withyashar/21044" target="_blank">📅 13:11 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/withyashar/21044" target="_blank">📅 13:11 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21043">
@@ -322,7 +322,7 @@
 ۲۰۱۸
 درباره خطر چنین اطلاعاتی هشدار داده بود و این مشکل همچنان ادامه دارد
 @WarRoom</div>
-<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/withyashar/21043" target="_blank">📅 12:30 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/withyashar/21043" target="_blank">📅 12:30 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21042">
@@ -336,21 +336,21 @@
 </div>
 <div class="tg-text">اتاق جنگ با یاشار : پاملا براون گزارشگر سی‌ان‌ان، همین یک ماه پیش در ناو هواپیمابر آبراهام لینکلن حضور داشت و آنها حتی هنگام بازدید از کشتی بستنی هم خوردند و بسیار شاد بودند ! با توجه به این که پنج روز قبل از شروع جنگ ۴۰ روزه و کشته شدن علی خامنه‌ای، خبری پخش شده بود که ناو جرال فورد مشکل توالت و حمام دارد و تمام کارکنان بسیار ناراضی هستند و شرایط خیلی بدی دارند. اکنون با تکرار همان الگو، ممکن است این بار هم یک استراتژی برای حمله دوباره باشد…
 @WarRoom</div>
-<div class="tg-footer">👁️ 51.4K · <a href="https://t.me/withyashar/21042" target="_blank">📅 11:39 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 58.5K · <a href="https://t.me/withyashar/21042" target="_blank">📅 11:39 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21041">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">کاخ سفید : موشک کافی برای ادامه جنگ با ایران داریم
 @WarRoom</div>
-<div class="tg-footer">👁️ 59.4K · <a href="https://t.me/withyashar/21041" target="_blank">📅 11:09 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 65.5K · <a href="https://t.me/withyashar/21041" target="_blank">📅 11:09 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21040">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">ستادکل نیروهای مسلح: تا شکست کامل دشمنان آمریکایی اسرائیلی در منطقه و احقاق حق ملت قهرمان ایران و تسلیم دشمن، از خواست مشروع مردم و مطالبات رهبر عزیزمان، در برابر آمریکای متجاوز کوتاه نخواهیم آمد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/withyashar/21040" target="_blank">📅 10:59 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 67.5K · <a href="https://t.me/withyashar/21040" target="_blank">📅 10:59 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21039">
@@ -359,7 +359,7 @@
 😍
 🙌🏾
 @WarRoom</div>
-<div class="tg-footer">👁️ 66.4K · <a href="https://t.me/withyashar/21039" target="_blank">📅 10:35 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 71.5K · <a href="https://t.me/withyashar/21039" target="_blank">📅 10:35 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21038">
@@ -372,27 +372,27 @@
 یاشار در نظرسنجی‌های اخیر به لیکود نتانیاهو نزدیک شده و حتی در برخی نظرسنجی‌ها جلو افتاده است.
 رویترز آیزنکوت را یکی از جدی‌ترین رقبای نتانیاهو معرفی کرده و گزارش کرده که حزب او توان بالقوه تشکیل ائتلاف گسترده‌تری نسبت به لیکود دارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 69.1K · <a href="https://t.me/withyashar/21038" target="_blank">📅 10:24 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 74.2K · <a href="https://t.me/withyashar/21038" target="_blank">📅 10:24 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21034">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">‏مارک لوین به وعده خود عمل کرد و نظر سنجی‌را  انتشار داد و گفت : ‏بر اساس یک نظرسنجی اخیر (۱۰ اوت) که توسط تنها نظرسنجی‌کننده‌ای انجام شده که دو دوره انتخاباتی اخیر را درست پیش‌بینی کرده بود، حزب لیکود نتانیاهو پیش‌بینی می‌شود ۳۳ کرسی در کنست به دست آورد و…</div>
-<div class="tg-footer">👁️ 68.1K · <a href="https://t.me/withyashar/21034" target="_blank">📅 10:18 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 72.2K · <a href="https://t.me/withyashar/21034" target="_blank">📅 10:18 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21032">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lw6Tu--gqCQwkgr0Baln2JG_3TuwbjOxX66HsbWsE_a2t2IKD5j25UKWoUx64G8D2F1Op2IvJ92BsXk2ll_W9ormd_p7y7QMO3-iuMFpubGOI07Qs-BPnyKBk4bK5-HkxUxwiXBJwgobArUM9mNGWr9GMc9A8erA7Fo1wfziOwlm0UpDi-IpoV0j811sZncQ9SXWp9yMOMnOgng8OrRNwBBalAsM8kd6XCnVmpWaZfNb50VIPmg4523Bo7V7k7HOzGUaTDOXGGvxy3LAmin241beU5fAI_GRjWy6eZIvUcPz7F7FajWfmYfpI93rdDogm3NbvYmuEfsDkda6FO5QSQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مارک لوین : من قویاً معتقدم که پرزیدنت ترامپ باید از نتانیاهو حمایت کند، چون در مقطعی برای ادامه مقابله با ایران به او نیاز خواهد داشت. به احتمال زیاد، نتانیاهو در هر صورت پیروز خواهد شد. اما بر اساس اطلاعات منابع من، در دیدار آنها هیچ توطئه یا زدوبندی در…</div>
-<div class="tg-footer">👁️ 74.1K · <a href="https://t.me/withyashar/21032" target="_blank">📅 09:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 77.2K · <a href="https://t.me/withyashar/21032" target="_blank">📅 09:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21031">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">مانوک : رژیم پاشیده
 @WarRoom</div>
-<div class="tg-footer">👁️ 72.4K · <a href="https://t.me/withyashar/21031" target="_blank">📅 09:41 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 75.4K · <a href="https://t.me/withyashar/21031" target="_blank">📅 09:41 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21030">
@@ -408,14 +408,14 @@
 MG34 مربوط به جنگ جهانی دوم
 نیز در این انبار وجود دارد. این مجموعه تصویری از گستردگی و تنوع تسلیحاتی را نشان می‌دهد که اسرائیل می‌گوید از گروه‌های مورد حمایت ایران از زمان ۷ اکتبر کشف و ضبط کرده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 75.4K · <a href="https://t.me/withyashar/21030" target="_blank">📅 09:31 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 78.5K · <a href="https://t.me/withyashar/21030" target="_blank">📅 09:31 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21029">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">خبرگزاری قوه قضائیه : شهرام صادقی که در ۱۸ دی ماه پس از حمله به مامورین با خودروی پراید ۷ مامور را زیر گرفت به اتهام اقدام عملیاتی به نفع اسرائیل و آمریکا، بعد از اذان صبح امروز، حکم وی اجرا شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 84.1K · <a href="https://t.me/withyashar/21029" target="_blank">📅 08:48 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 87.2K · <a href="https://t.me/withyashar/21029" target="_blank">📅 08:48 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21027">
@@ -436,7 +436,7 @@ USS Abraham Lincoln
 محاصره دریایی آمریکا علیه ایران
 انجام داده است. کوپر درباره استقرار آبراهام لینکلن گفت این مأموریت از نظر شدت و پیامدهای عملیاتی، یکی از مهم‌ترین مأموریت‌های دوران مدرن بوده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 93.4K · <a href="https://t.me/withyashar/21027" target="_blank">📅 07:38 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/withyashar/21027" target="_blank">📅 07:38 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21026">
@@ -455,7 +455,7 @@ USS Abraham Lincoln
 دوشنبه ۲۶ مرداد
 (اگر مبنا پایان روز) باشد پایان میابد
 @WarRoom</div>
-<div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/21026" target="_blank">📅 23:36 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/21026" target="_blank">📅 23:36 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21025">
@@ -1035,10 +1035,10 @@ USS Abraham Lincoln
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e612920df0.mp4?token=GuPgeSqiA-ae-4ySpB656n3IqFkQj-TX3ESc_f4gKa9pbXugCqxjYcwu2JI4VaRyoRnB90lTI0qB1OkdfFVPtN8xOl-G1oIhPd3V9gDyEbwWQRns_NRjQsgqui-O4MOPQ7687yZGoxnhPlKoFqwSaC4l__W3SjMFUj_pgBNPzIf7hsAzzUgfRGbQGscfGPgFjPHa-BwtkFelqv27zRmAHug1quIMFO2Qew21A0RT8iVVCPJh6Z0oAVLFsEpp-aB_sm9f1OYxTd6NTEf3nICnghIYbSrqhTXt3ynZD9iFRs8Fln1enfhcHu4uc94SGcUntlEIYpESOFEQ6Pas4Y2ZxIur_sByQU9zM9zNT1WUqegDhkGd2TfGTyB6LQLmfjfNJO5xiqFS1tUeJpfVp0KLlceumqWXlIUFikRaz4jy6R6Bkm-LSXWHKrkJhY0hVYDB5et3EhHR2Byso-CWFOoj8rNKjQSKg2mcvxZE965VxvzEjztwg8WLH2AClw9SVv_K_LaWjNNCEw5VuAd_O2YtD9R_J0n86WTEEoJ5XcmsnLzM2wyZ4Vz9yjd0SdJvrak6dz7uKof7SxRdhk-qiXvRdgRS5xglEqKmhqdVae9-28ewDuWcghV44pA5PT2LpkriMPwb9bDPtdyzO-sMY9CTAUQZwdlB1A5BChnIzNYlTIU" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/e612920df0.mp4?token=qoDX25cHIk-3M4_uNKUXF3r_rTc7V-W3foiiJxWPfPTy8Eu2w271IH4FXK14_KXZDBkhOwdvcqtqJJ--ukv8Y_0jLu2cAt9paFlQl6pR8h70R1qvf4DmI7dKEJ6imsdnXF5oHmmfbFipslfoxCAjByadii1v4p1X4IsqK4tMuqFBr1H6fRu6mVzs4l9W0OWP5cTKKXt_VjjWYCmcVxGs412AXGZWCDZonRFy19GBXuqsSGe-uI-xdprFqMJtx985JcpLDucK4s5rEVEXNvYlePAwAQXqiFELyjqX-zkMGsqI4__uSwV0B29D2jM_qkKqXSD_e-bDuy6SIOJf5Pdk80sleaUEjpCfjSKb6YyUWTXBkPC-5YjLG8kMex8enb4MfvHquG_JteXnzF8P22tiPhPHEGg7l5C7PSo8Jc_H0Gd4a04znrnfDH63-stWWGExCP572631JU6r9Qym-YoDVqfzlBy7hWe08thIq5xCcjLY9bhsbuAvLqasUHwAjxRD4TEO7TQ7h8w0tcwteQy4EhlkKJoBe2v9umQslKLNi-p_T-CiLmN_f00cJoJ7-4WvysFdGph12JzxlX2nd2xEJFjHT8IL5ncvkZkkU3bP-tKv_zUTO3YKyyDF3j8bbDDgeC2ahciheb9HfuBSOo3vEo6OlbIoqu7WlSoFsRMtpd4" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/e612920df0.mp4?token=GuPgeSqiA-ae-4ySpB656n3IqFkQj-TX3ESc_f4gKa9pbXugCqxjYcwu2JI4VaRyoRnB90lTI0qB1OkdfFVPtN8xOl-G1oIhPd3V9gDyEbwWQRns_NRjQsgqui-O4MOPQ7687yZGoxnhPlKoFqwSaC4l__W3SjMFUj_pgBNPzIf7hsAzzUgfRGbQGscfGPgFjPHa-BwtkFelqv27zRmAHug1quIMFO2Qew21A0RT8iVVCPJh6Z0oAVLFsEpp-aB_sm9f1OYxTd6NTEf3nICnghIYbSrqhTXt3ynZD9iFRs8Fln1enfhcHu4uc94SGcUntlEIYpESOFEQ6Pas4Y2ZxIur_sByQU9zM9zNT1WUqegDhkGd2TfGTyB6LQLmfjfNJO5xiqFS1tUeJpfVp0KLlceumqWXlIUFikRaz4jy6R6Bkm-LSXWHKrkJhY0hVYDB5et3EhHR2Byso-CWFOoj8rNKjQSKg2mcvxZE965VxvzEjztwg8WLH2AClw9SVv_K_LaWjNNCEw5VuAd_O2YtD9R_J0n86WTEEoJ5XcmsnLzM2wyZ4Vz9yjd0SdJvrak6dz7uKof7SxRdhk-qiXvRdgRS5xglEqKmhqdVae9-28ewDuWcghV44pA5PT2LpkriMPwb9bDPtdyzO-sMY9CTAUQZwdlB1A5BChnIzNYlTIU" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/e612920df0.mp4?token=qoDX25cHIk-3M4_uNKUXF3r_rTc7V-W3foiiJxWPfPTy8Eu2w271IH4FXK14_KXZDBkhOwdvcqtqJJ--ukv8Y_0jLu2cAt9paFlQl6pR8h70R1qvf4DmI7dKEJ6imsdnXF5oHmmfbFipslfoxCAjByadii1v4p1X4IsqK4tMuqFBr1H6fRu6mVzs4l9W0OWP5cTKKXt_VjjWYCmcVxGs412AXGZWCDZonRFy19GBXuqsSGe-uI-xdprFqMJtx985JcpLDucK4s5rEVEXNvYlePAwAQXqiFELyjqX-zkMGsqI4__uSwV0B29D2jM_qkKqXSD_e-bDuy6SIOJf5Pdk80sleaUEjpCfjSKb6YyUWTXBkPC-5YjLG8kMex8enb4MfvHquG_JteXnzF8P22tiPhPHEGg7l5C7PSo8Jc_H0Gd4a04znrnfDH63-stWWGExCP572631JU6r9Qym-YoDVqfzlBy7hWe08thIq5xCcjLY9bhsbuAvLqasUHwAjxRD4TEO7TQ7h8w0tcwteQy4EhlkKJoBe2v9umQslKLNi-p_T-CiLmN_f00cJoJ7-4WvysFdGph12JzxlX2nd2xEJFjHT8IL5ncvkZkkU3bP-tKv_zUTO3YKyyDF3j8bbDDgeC2ahciheb9HfuBSOo3vEo6OlbIoqu7WlSoFsRMtpd4" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">کیپلر
 : ترافیک دریایی از تنگه هرمز در ۱۳ اوت افزایش یافت و ۱۳ عبور تایید شده ثبت شد که نشان‌دهنده رشد ۴۴ درصدی نسبت به روز قبل (۹ عبور) است. نه کشتی از طرح یک‌جانبه ایران استفاده کردند، هیچ عبوری در سیستم جداسازی ترافیک هرمز تایید نشد و چهار مسیر نامشخص باقی ماند.
@@ -1051,10 +1051,10 @@ USS Abraham Lincoln
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/0f327dcc92.mp4?token=e0n1UwfKTznR2sGqPWSCL26VU8aULS2sLsMcjtVgKq9hYUX4cMTwRQ2rxK-fSXFsJ_hwF5ntN5i25_-6qmh-CHRB9e0xWdPyNugyc-hCxedsMYiwWQ-OLZDZNb9YICp0rkOiJy08SgFcNwSJSDiH1lDQFOb1KW0oicVMO_t0UpfOAWCt7NRxRnkqTcbF0NaJSGgW7NN66WbyJLlr8q3wZTEXFiqELoVBafyGDE82TKYvmpOuBVuIoFSR1lxGN58j6urJRizv8hQeQ_fDamao58mgeRx4h7m52wqPW5tSCaQYc_N-q9ngzJCVlLmRVibZT2slsWg86RvmwYEEsTbbdA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/0f327dcc92.mp4?token=ULYej5E22qjn0zwDDnt0oj7goj7uv10omzEwU1clMBkTqJylgdilYtyPx2Pb-GyKuOtrSKdVpTLlUbxL7yfPcvwhL_2l9zzHTyw8ilxg0Dh7gIRpPB9_pusrlBfFwzt1Mtx18VO73wp3gp-r2bKrpZabTNqs_HKg7DI-qlQAbz3u0mw_WzqZ6hbmWL69OJhgfur3__zJ0jG_xDXqqSHPtDyDrL0cDRid7G7Yh7xmAnqwfYb-hz-RsmZlzKlv_aGWEOjbp5S1qGSH9OxHFy8C9wPoHvWdyyuqcEg6HuaQGyFOAdTgr3EufwB0m-zMXfiRifqNHptZKrTYf3thK8ixOw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/0f327dcc92.mp4?token=e0n1UwfKTznR2sGqPWSCL26VU8aULS2sLsMcjtVgKq9hYUX4cMTwRQ2rxK-fSXFsJ_hwF5ntN5i25_-6qmh-CHRB9e0xWdPyNugyc-hCxedsMYiwWQ-OLZDZNb9YICp0rkOiJy08SgFcNwSJSDiH1lDQFOb1KW0oicVMO_t0UpfOAWCt7NRxRnkqTcbF0NaJSGgW7NN66WbyJLlr8q3wZTEXFiqELoVBafyGDE82TKYvmpOuBVuIoFSR1lxGN58j6urJRizv8hQeQ_fDamao58mgeRx4h7m52wqPW5tSCaQYc_N-q9ngzJCVlLmRVibZT2slsWg86RvmwYEEsTbbdA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/0f327dcc92.mp4?token=ULYej5E22qjn0zwDDnt0oj7goj7uv10omzEwU1clMBkTqJylgdilYtyPx2Pb-GyKuOtrSKdVpTLlUbxL7yfPcvwhL_2l9zzHTyw8ilxg0Dh7gIRpPB9_pusrlBfFwzt1Mtx18VO73wp3gp-r2bKrpZabTNqs_HKg7DI-qlQAbz3u0mw_WzqZ6hbmWL69OJhgfur3__zJ0jG_xDXqqSHPtDyDrL0cDRid7G7Yh7xmAnqwfYb-hz-RsmZlzKlv_aGWEOjbp5S1qGSH9OxHFy8C9wPoHvWdyyuqcEg6HuaQGyFOAdTgr3EufwB0m-zMXfiRifqNHptZKrTYf3thK8ixOw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‏ارتش اسرائیل در حال انفجار ساختمان‌ها در منطقه روستای شیعه‌نشین مرکبا در جنوب لبنان
 @WarRoom</div>
