@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 17:44:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 18:15:34</div>
 <hr>
 
 <div class="tg-post" id="msg-77880">
@@ -313,7 +313,7 @@
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 220K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 224K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77879">
@@ -330,7 +330,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 293K · <a href="https://t.me/VahidOnline/77879" target="_blank">📅 23:28 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 295K · <a href="https://t.me/VahidOnline/77879" target="_blank">📅 23:28 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77878">
@@ -344,7 +344,7 @@ VahidHeadline
 VahidOnLive
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 323K · <a href="https://t.me/VahidOnline/77878" target="_blank">📅 18:44 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 325K · <a href="https://t.me/VahidOnline/77878" target="_blank">📅 18:44 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77877">
@@ -365,7 +365,7 @@ VahidOnLive
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 299K · <a href="https://t.me/VahidOnline/77877" target="_blank">📅 18:39 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 300K · <a href="https://t.me/VahidOnline/77877" target="_blank">📅 18:39 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77876">
@@ -386,13 +386,13 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 278K · <a href="https://t.me/VahidOnline/77876" target="_blank">📅 18:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 279K · <a href="https://t.me/VahidOnline/77876" target="_blank">📅 18:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77875">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromبنیاد عبدالرحمن برومند برای حقوق بشر در ایران</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SrV9DupgDhxNoedu79_AnVoXtPHfpq8oeiyk1E9mvu5dPvkcKjFqoouQSgx3ak7fMSmUQrlDbNEebN2fBPNCPkYAWSfFDrFLzbBboo5Rt_5NjkZE48tmZb9bZf-mODKrx42LZpJ8Fy2783oEIdvPjLjXQsX6tWE3_aSz0KbdWs0zzkPCO79XRE9lFd4OKqb_NFyIJesImKiCeljkz3TMb8ouW28Yrm-MU9ZcYeokqTdodeiQDB5wgXIKPXVP06yAZjxyhKr3Zi7ZOOaL_kvm4932mgfkhDN0ZUl-0LRzSadfUfPAtebB2cPBfACOQmFKc-dA1IBCsyhapwbb6u7S9A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GwOzLbgl9sgnUAQ40sPL_YTYsodp7EryHqjc_99xQZx46QwiL-0-4nrEeeDa_qi9rs_1LGPFNkvzZXsJQpKn_th9BB81yQWyVO-DYbxr3q2Go_op2H9SUQ-twCmo9reGqt3Gj42fcPi2anF3fdsEpiOZawNlYpz-J1Cf8Wb66E18XTHBI-ZSrgQuDzeVNv4oqpl8q5XGtyLwKinpzvNrs7hd6Yiettj3mtSM47zM5EAZrw98w_BRNZnRoQtBQZkitMme9h0j-7jeILm82KII3pTaQErtgKP7-7Sxwhkh1vbm1YEiSnRg4ZOJriFJMbLsoqOgFunEbjIsFaoo6vquyg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 سپهر امیرزاده، از بازداشت‌شدگان اعتراضات سراسری دی‌ماه ۱۴۰۴ در اصفهان، از سوی دادگاه انقلاب به اتهام «محاربه» به اعدام محکوم شده است. پرونده او هم‌اکنون برای بررسی در دیوان عالی کشور قرار دارد.
 🔸
@@ -401,7 +401,7 @@ VahidHeadline
 جزئیات بیشتری درباره مصداق اتهام «محاربه»، مستندات پرونده، روند بازجویی و نحوه برگزاری جلسات دادگاه منتشر نشده است. آقای سپهر امیرزاده، متولد ۱۳۸۲ و اهل رامهرمز خوزستان، مدرس و نوازنده موسیقی و ساکن اصفهان است.
 #نه_به_اعدام
 @IranRights</div>
-<div class="tg-footer">👁️ 274K · <a href="https://t.me/VahidOnline/77875" target="_blank">📅 18:30 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 275K · <a href="https://t.me/VahidOnline/77875" target="_blank">📅 18:30 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77874">
@@ -457,10 +457,10 @@ VahidHeadline
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/d41b4db679.mp4?token=dnCIVzqJYgSkhN5PnebRCoqfbAfcQiYg2nC_4f_iuJS8AAtZ9fzcH9KpLaSH9qO-HlLw8uEBQO55jFD3X7GERNJfq6NvmVIFpAiYVV1usKaUNbMYp8WQfwAE4zHMYexaUqYIUHqDc8scLrDyehUx18Q0xF3FHY-w7kWhrIAED7I1mx5AWB30gUhgETsoEc_sUXclTfMujZlQkU1L7iXoXCJbI2OdYuKTA3E0Mxiqez5s9OBBDPqdLmc-zBoelUOmQgj1uHlREowm4Z3fKkuUtqJNdRZyIWtLx7IjFslhlodPV7NiCF7cYYztACx0ehWc_Yqvdby7Lb-MgrhQN3Xh1w" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/d41b4db679.mp4?token=qCgPJIF1rzObIi6gpmmswUR3RX_oFPLSCYlxN4NojvBQUKDUfmgFrxBVDdMfTGsKR-KfIihNdwlzAsDOXC9xWn6x79aVjjN-lRSjKXuPa9v8dGgHL5FiAps8UN27Yh1yvCgfP7tsu31izOh3CS-m0V4o0hQap7tqWxW7in7YfNBtNiM0hrhMwbV7mY-q6HPQ1WBz7by6fKx0tlKRka2qn-r0Ic9wbcPaKlpw6vWCAvDbnMRg8FU0qVSf0i9CDd5oZ488JhkTypJT2KWlcFIzuXns77XgLKe61wGxlFonW1goS4upfv7C2qGxfIa2sPfYx-g1zBVoevWvjRq2XnOk9w" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/d41b4db679.mp4?token=dnCIVzqJYgSkhN5PnebRCoqfbAfcQiYg2nC_4f_iuJS8AAtZ9fzcH9KpLaSH9qO-HlLw8uEBQO55jFD3X7GERNJfq6NvmVIFpAiYVV1usKaUNbMYp8WQfwAE4zHMYexaUqYIUHqDc8scLrDyehUx18Q0xF3FHY-w7kWhrIAED7I1mx5AWB30gUhgETsoEc_sUXclTfMujZlQkU1L7iXoXCJbI2OdYuKTA3E0Mxiqez5s9OBBDPqdLmc-zBoelUOmQgj1uHlREowm4Z3fKkuUtqJNdRZyIWtLx7IjFslhlodPV7NiCF7cYYztACx0ehWc_Yqvdby7Lb-MgrhQN3Xh1w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/d41b4db679.mp4?token=qCgPJIF1rzObIi6gpmmswUR3RX_oFPLSCYlxN4NojvBQUKDUfmgFrxBVDdMfTGsKR-KfIihNdwlzAsDOXC9xWn6x79aVjjN-lRSjKXuPa9v8dGgHL5FiAps8UN27Yh1yvCgfP7tsu31izOh3CS-m0V4o0hQap7tqWxW7in7YfNBtNiM0hrhMwbV7mY-q6HPQ1WBz7by6fKx0tlKRka2qn-r0Ic9wbcPaKlpw6vWCAvDbnMRg8FU0qVSf0i9CDd5oZ488JhkTypJT2KWlcFIzuXns77XgLKe61wGxlFonW1goS4upfv7C2qGxfIa2sPfYx-g1zBVoevWvjRq2XnOk9w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">«بریم نجف» از نوحه حکومتی تا ترند شبکه‌های اجتماعی علیه سفر اربعین
 همزمان با راهپیمایی اربعین، انتشار ویدئوهای بلاگرهای حامی حکومت با نوحه «بریم نجف، پس می‌ریم نجف» به سوژه کاربران شبکه‌های اجتماعی تبدیل شد.
@@ -470,7 +470,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 373K · <a href="https://t.me/VahidOnline/77871" target="_blank">📅 18:26 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 374K · <a href="https://t.me/VahidOnline/77871" target="_blank">📅 18:26 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77870">
@@ -529,7 +529,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/77867" target="_blank">📅 17:11 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 286K · <a href="https://t.me/VahidOnline/77867" target="_blank">📅 17:11 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77865">
@@ -602,7 +602,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 246K · <a href="https://t.me/VahidOnline/77863" target="_blank">📅 16:56 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 247K · <a href="https://t.me/VahidOnline/77863" target="_blank">📅 16:56 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77862">
@@ -661,7 +661,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 320K · <a href="https://t.me/VahidOnline/77858" target="_blank">📅 05:24 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 321K · <a href="https://t.me/VahidOnline/77858" target="_blank">📅 05:24 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77857">
@@ -773,7 +773,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 311K · <a href="https://t.me/VahidOnline/77850" target="_blank">📅 18:23 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 312K · <a href="https://t.me/VahidOnline/77850" target="_blank">📅 18:23 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77842">
@@ -851,7 +851,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77837">
 <div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kBCGS0dqgAYz8fosEvnto9j8n16mkzZCfq0NYQVf0MAVN5RdUj2Sor8oX45rKM9dZ_9jqU_JLCC_2wAidCeHbunuejm0gLGcTJ8slb7spXpkzVzMuZB8n1_zan0OAQhvn4O4icNfUZWiIBdMs4Xobda0tfBmkt3JXvFYGiPZJjMz2WtbmMx6fA1DiDOvKYzmJE0lTr6GoO4l2MnG3rpLY3tImRIoZeh18_-guT1sA-38LbsjcjDiSJPtZOtCMprjXOsFNEX4lgRRYF_bYtLK4opGSIOOrAOhR3CI43NwulRX9tiEsgruDhfn1B6TLDElC8vsADIraKZctQubmbxN4Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/d2SRpZpR8X4IEk-JRExzAAsJS69gP1oPxn5dBILLHAz2wkLyuqQpkwXEU4QjcfDq7hGrHQ-E243lIcaucf3P3F7OweeF-YGEXuZyueQpU1MafJjpXZQJsP45K_3Zv7kLg7HCZYvDgYqAnoamU3Kv5-t44KiXq28CFFV3ibRvqWtTuSx70OgatiLrYukSveS3xANVMe_1G9PHnKDOG1I0sNrMuH2m8M_sGqh5WjO_r-HbCSKGrB5bGMpZqv9tm654Wk0D2TCOwchRjg6F_kDxsKQ5JYWL1Xo18rb6x895rcYm79NQj_hFeKx8EKBRBFtP5M1xJoQJepBXREF85C6sjw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست ترامپ، ترجمه ماشین:
 ایالات متحده آمریکا کنترل کامل تنگه هرمز را در دست دارد. فکر می‌کنم آن را حفظ خواهیم کرد!
 محاصره دریایی ما را همه «دیوار فولادین» می‌نامند و ایران هیچ کاری نمی‌تواند در برابر آن انجام دهد. آنها نیروی دریایی ندارند، نیروی هوایی ندارند، سربازان باقی‌مانده‌شان حقوق نگرفته‌اند، سپاه پاسداران به‌شدت تضعیف شده و در حال فرار است، و «رهبری» آنها، در بهترین حالت، نامطمئن است!
@@ -1208,10 +1208,10 @@ VahidOOnLine
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/2d54b46d0a.mp4?token=reN11uuQrND7Z63aSJHpf-ywze2IqaOU2bg0PjHMTmYWDKts5Oa2SrhFn36DFXFmrzmklkauOKxGvd8NlbUJors45uUpHeJ-j-ZDNp6HFbMxHK0RYl9y3v6_XsyurCW9Pk-v1QCsT_xLtUQzaCZ08Zg9ANCZzoTWc3gN8Qa1UyToyByzakySHDUQqXC-DPD3MoyP42wej267E1RlRHW9_BX6lb3i3tScIsMK5dXDVcJqVCf3zNAdxLpODpa6EddJlBfs6PKITa7su8bcPTNgkqF7wyr86dHQvbgoCOkVH2zKEb6NkMYRG8nJUsA2cOV9FzQbp6G2hP174uCs_qFGSQ" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/2d54b46d0a.mp4?token=istxwVi69wnTg15Lptpc5XD_fpdt1RUdH1wlOJ3NHgQPPKV04Gvf1OcA1NXoq5buhCqd27HDu2f0z2Bqn9KdQXxdy8LUND9oLvEYSnadkTTh5wRql_NGTsPNns3_I2M2E6y1h6Y1XNvrIiH9SW3IDCeFeBoR6cdWk2ATRT0NxkPumXXFNIxzz_sZlLEQ1SJ08Tx0XB0CQUrCDG9lN8zCVGrd4SaSw8FuhLZUEBhLO2ms-yr8aNCT-EJtE5e1__eIxhIU5iJ2eAJrMxMMq0bWrDadoOjUCvifcXPMLiwWdCNP0u5mP_H16xYVK1InoocKIhku8RozAWkZzQs4mCLf5Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/2d54b46d0a.mp4?token=reN11uuQrND7Z63aSJHpf-ywze2IqaOU2bg0PjHMTmYWDKts5Oa2SrhFn36DFXFmrzmklkauOKxGvd8NlbUJors45uUpHeJ-j-ZDNp6HFbMxHK0RYl9y3v6_XsyurCW9Pk-v1QCsT_xLtUQzaCZ08Zg9ANCZzoTWc3gN8Qa1UyToyByzakySHDUQqXC-DPD3MoyP42wej267E1RlRHW9_BX6lb3i3tScIsMK5dXDVcJqVCf3zNAdxLpODpa6EddJlBfs6PKITa7su8bcPTNgkqF7wyr86dHQvbgoCOkVH2zKEb6NkMYRG8nJUsA2cOV9FzQbp6G2hP174uCs_qFGSQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/2d54b46d0a.mp4?token=istxwVi69wnTg15Lptpc5XD_fpdt1RUdH1wlOJ3NHgQPPKV04Gvf1OcA1NXoq5buhCqd27HDu2f0z2Bqn9KdQXxdy8LUND9oLvEYSnadkTTh5wRql_NGTsPNns3_I2M2E6y1h6Y1XNvrIiH9SW3IDCeFeBoR6cdWk2ATRT0NxkPumXXFNIxzz_sZlLEQ1SJ08Tx0XB0CQUrCDG9lN8zCVGrd4SaSw8FuhLZUEBhLO2ms-yr8aNCT-EJtE5e1__eIxhIU5iJ2eAJrMxMMq0bWrDadoOjUCvifcXPMLiwWdCNP0u5mP_H16xYVK1InoocKIhku8RozAWkZzQs4mCLf5Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اظهارات علنی متناقض؛ ترامپ در پی تهدید ایران، مخفیانه با پروازی دیگر از ترکیه خارج شد
 ترجمه ماشین:
@@ -1224,7 +1224,7 @@ VahidOOnLine
 متن کامل ترجمه فارسی گزارش
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 399K · <a href="https://t.me/VahidOnline/77810" target="_blank">📅 04:41 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 400K · <a href="https://t.me/VahidOnline/77810" target="_blank">📅 04:41 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77809">
@@ -1317,7 +1317,7 @@ realDonaldTrump
 
 <div class="tg-post" id="msg-77803">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/bYYPRB9J1CLHGzVAIKoxu90Jnwfwrv3NxR7kz8ja8F6KATUzfyiWfb-6SjaXTQZX5t8LKHqkLvQpnY7VPtO6rHHAbI1cSEL-Gb2KGxxNkP5WStjORtdwhuQ4hoh4BD4HEpBp9uBsV_V_ONmkn26i9fSlLXaO9GnArrlpgXh-U-a8FJ8iEjWE_49UoWCXsG3bqiwS1dCnV15N6knTQbcmHz8gfMckESNvtt83em_rRlX8iLFcndEvCCloieoznE14AZ42oD2ovLXRSkfC1S4fTenEmnta75BYSOPDseF3lGU_Fi3VQm_G76XOD563DjH4toP8nEqOihyU92OTQbBdtw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FJ_img_fxTFUFtaws6ZF_V85Wv2z0sAww2JRsicSbbzgqpAIW_JYJzomroY-xVoXWw8TWvJdYASMmHrRDRN0MovHv_RezwRLB_dNLxgZ5gRyROn7mFwNx-U6mMC1Hc9QkOviFv-8bfzrMqM7oA2mHL0ncVgn0m0Rh23_htOEMwwLusJFZFs6rNtejtZuPftVSRdoVJMKVJ3lM76b1IhCtjGoQIgJrccqChGlW08-t4hgpJ-vMqecd8TyVWKbQIE5774SniNNQ2CpseSZ9lLXnu2BB1K9giAxcTsRSDm9-r2QeT61SoOmLIZuwCk892EsdjM-I8hcdhxS8LY-KGZK4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">احکام منسوب به مجتبی خامنه‌ای برای انتصاب شش فرمانده ارشد نظامی؛
 بازگشت رسمی حسین طائب به قدرت
 دفتر رهبر جمهوری اسلامی روز دوشنبه ۱۹ مرداد خبر داد که مجتبی خامنه‌ای احکام انتصاب شش فرمانده ارشد نیروهای مسلح را صادر کرده و خواستار آمادگی برای «عملیات تهاجمی پرقدرت» علیه آمریکا و اسرائیل شده است.
@@ -2068,7 +2068,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-77758">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XySjlHmZ-WYX4Ec5ARXEkMuRjFo0zzJfcpqrZU4jKbs7K8sXRzTP83ViDvxuwtjUmbdhIhIMi2G66X6YspYwnN82TjGym6OFthB0OqZOmuw8c0em76vjFin9Aoo2oEJcDJgD3djYlRLLRlfIwZNMkmFiEED4A82wPX7_7jRekt_VgaJawIz_4_Xc0MDLaOOXb6QWRcQcxLIeWBqWwKCyT5fw0JQP8ZZcPXoBBKgo-mrzLFO6rp4aLXMM93kjxgm5t1dRX4JEC5ooLlpseDRKG85uQBnKH-sU0ra_OVcUTqtu1ypTyZ2kORaEzELQNmUor068RIKkL70xiBEd8PBb5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/s92sNDEAP1_SkJdVrPryDRjlavdr8_lWO3jg6OF-cGbP2Ct7plCDRxmnFoBguC9lRp9RXbZBaOJ5NLNiwSwjWp2FO3zp76o9WnHr9a79Yc0Zjb6tZK28kpVJNT2IYpxtHxeGpyJiBkVlrD-rsXyOmXEDrxRdw-D8k04chJl-BZxNf17Z5Umg4zWnJojeC7Nn3URwVocGrqTTiTCKZe_nNclqeGoYz7Qkzhs8HIfXxbMCj0jhk5OzZxHUp4UiG37756qSY6KNBvxw0rvKuVeQaMyHjvzGh7lk33Ua8nnSTTBci8l4qCK7uDFNZyPRnaRdfvyjROp-dCajsn-91SsbCg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایالات متحده روز چهارشنبه ۱۴ مرداد تحریم‌های اعمال‌شده علیه شرکت هواپیمایی عراقی «فلای بغداد» را که پیش‌تر به اتهام همکاری با نیروی قدس سپاه پاسداران در فهرست تحریم‌ها قرار گرفته بود، لغو کرد.
 ا این حال، تحریم‌های بشیر عبدالقاظم علوان الشبانی، مالک معرفی‌شده این شرکت، همچنان به قوت خود باقی مانده است.
 @
