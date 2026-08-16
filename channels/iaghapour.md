@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 14:41:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 15:11:43</div>
 <hr>
 
 <div class="tg-post" id="msg-2886">
@@ -333,7 +333,7 @@ PAY5SCMT
 |
 👍
 رضایت مشتریان</div>
-<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/iaghapour/2886" target="_blank">📅 21:32 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/iaghapour/2886" target="_blank">📅 21:32 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2885">
@@ -367,7 +367,7 @@ PAY5SCMT
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 6.6K · <a href="https://t.me/iaghapour/2885" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.63K · <a href="https://t.me/iaghapour/2885" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2884">
@@ -398,7 +398,7 @@ Gemini 3.7 Flash
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.14K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.16K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2883">
@@ -427,7 +427,7 @@ Smart Support Bot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.23K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.25K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2882">
@@ -462,7 +462,7 @@ ChaCha20-Poly1305
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.94K · <a href="https://t.me/iaghapour/2882" target="_blank">📅 15:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.95K · <a href="https://t.me/iaghapour/2882" target="_blank">📅 15:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2880">
@@ -491,7 +491,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.56K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.57K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2879">
@@ -526,7 +526,7 @@ https://github.com/roseshayan/SpeedyBot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.59K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2877">
@@ -590,7 +590,7 @@ YouTube</div>
 تا امشب ساعت 24! پس تا فرصت هست کامنتتون رو ثبت کنید.
 🔻
 توجه داشته باشید برای اینکه یوتیوب کامنتتون رو به عنوان اسپم تشخیص نده و پاکش نکنه، حتماً بذارید ویدیو چند دقیقه پخش بشه و بعد زیرش کامنت بذارید.</div>
-<div class="tg-footer">👁️ 9.97K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.98K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2872">
@@ -674,7 +674,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2868">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ne616rZWJ8wD7Us-teAENbD29sQAStfUz7JuBykElcIB-Brp8y7Fhz9AhOehzoZSqr-q1TZDaUD3PL08H-ligBv-YT1bxUggY-cjJI1Hp0uTtdw_16H35SGl34s4KXVaAYnGRHFf11svz3EuUDXADM28UB0yBz9A5t24pTAsI6PGbRNUPPo_9zgdn8rLRkbDffUbsauNKVTLHd3JROfRP1y4bbGx5U-hdn6-v8W8xFLsJ5H3B8vvGWweCjQQh8c5wEJMlQGM8Dcz45msiwQ3wNzKdxq5wFDuwKrL6QbwYkOAWT4V9Qct9DiuqFo7-vJJOhueH8knP-FVV_ycMtr_tg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mLFiQESBHA88oF28REm-XzltYNVwaD6OCuGJYYsUGb-s1trSrO5bubWfUCKlPqnLN7OeJOe4bws2n5kO99JpXKFc1JiXnVl-l1AqzCYBJuAYmt477QXjryU55HodrTBCCS7GxljLGXFEIXSjjonpEPzfLsP7CPbWJ-ioJC6EtGzeTA0_X2dJR6dUKnogYpbYz8m2HFXi-ZdtG8lH3JKWtKjuBehbxKFHnNcQvll24QkWi_SM0XiPB4cgkVgWG7QisdJrD3gWVS3RejH5MFp72PakN1Rg9Ng34K2mJVG72dw8WKHgutZRBaqRPGNyUPnV-bdqShBG_IGJAO4ddIMyvw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🖥
 معرفی LuciNet؛ نرم‌افزار پیشرفته و گرافیكی مدیریت و تست کانفیگ‌های Xray
 پروژه
@@ -767,7 +767,7 @@ Remnawave
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/iaghapour/2865" target="_blank">📅 15:25 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2863">
@@ -1642,7 +1642,7 @@ Claude Opus 5
 بیشترین مقاومت در برابر فریب‌های سایبری و کمترین میزان رفتار ناهماهنگ.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2811">
@@ -1852,7 +1852,7 @@ nipovpn://
 
 <div class="tg-post" id="msg-2796">
 <div class="tg-post-header">📌 پیام #37</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XZymR58Vt5Xlym8cHUuZ6TPy_5q6lrGbkfSw6t49MkIe3tZOUORo22iS7z992QFVo_pcGXpHdj8OuJBkZpg_grwsjVtyMgQDussMC_7V5PVAsv8qTjx08C6APybquR4vaBAvUL6bg3io8wqPzUhgh_ygzw0GHuPpFGWyrKIrlCXcs81s7ZMBi4FfyX3J4F-0tkgghNbByAynuEOempndDuKkn9vL4geOpY2_iOZ6qzL5FcF3WsbUK8bHY24kvY-bLh8HJH3YFzI885zFw7CiIgQA1I2eC9YfwNZNhHNgiA8f51KoxcL4_E3rIHfe-I3oMF3w38lgEpWb17Puh3fqww.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uXRcbH2KOI8eOFpAeBXkHeaQJsPcTkn99y5Lzfb0DVCiSMECMYXVXtlkI5SYmuoxOilWo5HduLxlZYp5Cn41JV6OLmna3Go_rwaf38xw7cj3q8lv9RrkywlS9PfESnHeIAUgT64JyruvjxpbUwBI1lgb7XQpgcyQDLJBmeVrBcttL1Iak4NHY7SXs7srhPN3_krdb42Ry2Sqt3vuWEjym2z6w7C6qxxbjwUrN2wpD11dsugJraPJEVeJgYFt6o7UVizSGcTeAdQ3pWzmVbzrQitjIYgofS4-6Oj7KQBjc5uSBf8H363glstvpzVOE3p1BXwX45I-pjGkvrOlliI57Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 رخداد امنیتی در Hugging Face: سرقت دیتابیس و کلیدهای دسترسی
 پلتفرم
@@ -1909,7 +1909,7 @@ Flutter
 
 <div class="tg-post" id="msg-2793">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DW7_mevXSmFa009BAdXmNREKl0uytOwsQzXQSS4LweB3bFJZmm1j8QiSbhntPqkc9vK-8XeNIdDUMsXPuh_Zvcqgz7KcZWiiXN7bTxQTjtm3k6JZYPtrq2abGgNr2BoRCEkUCIlcCAOGY8xbm1V8t32-J1cBGpjzB7urK0tn62gbnO6yoM1Z14UECBdXnG170NJc-hqbYWwTmE2mCAZKfKPyyj6a_nQLNmcT4iCkOfW3ZoKZJ820vcGxdnybNq0_-Ayri20uX9w_1VmUMVSnhZqSojBfXyG2Hz_ALJhUiNOgiRj2BtLG1UCWvAe7x_ewJpFnSnbw63JlrSTnJ48Xmg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/poeDR-80uwRJqw6mFnJrJwswx133lkAbOOm3ABwtKnKsPJAWSvjLL2UgRG1kLGOVtCDDFUKfL-zhfVRgNf2KtckuRHXxgbqy9zcv5jWjx7Urhc-eKNpKBJshJcKaQPR6WGTJ-mBzIHBHgi5Pjev3lKCXoHUuXWoLXyv_LiJ3WQ1qIpIt4_k6Bqx3To3nTOEzam3y0O5b3CGCftcXOsc-sH4KK1lgkNYZwpVCb5G0Wk17b5hViRdhDc_WS4sDeC-_NQfhduIssHsEfg6ago6yWQ7g9HhtSGrV7ioTGmLbj9h2jidebRt-MmeP-KzA9IbaN_X7XiXnLl_b3knGOmgUSw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش استفاده از TOR در سرور ایران یا خارج (دسترسی به لوکیشن های مختلف در X-UI)
 ما حدودا 2 سال پیش همچین ویدیویی رو ساختیم و پروژه ای که توش آموزش دادیم حذف شده به اسم torsina و البته پروژه های مختلفی بعدش ساخته شدن مشابه این پروژه که یکی از اونها رو زیر معرفی کردم.
@@ -1920,7 +1920,7 @@ Flutter
 (مشابه پروژه torsina)
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/iaghapour/2793" target="_blank">📅 18:33 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2792">
