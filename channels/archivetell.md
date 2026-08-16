@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 10:37:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 11:21:24</div>
 <hr>
 
 <div class="tg-post" id="msg-7483">
@@ -317,7 +317,7 @@ glm-5.2
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/ArchiveTell/7483" target="_blank">📅 17:25 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.26K · <a href="https://t.me/ArchiveTell/7483" target="_blank">📅 17:25 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7482">
@@ -333,7 +333,7 @@ glm-5.2
 دیدن اطلاعات بیشتر
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/ArchiveTell/7482" target="_blank">📅 23:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/ArchiveTell/7482" target="_blank">📅 23:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7481">
@@ -346,7 +346,7 @@ glm-5.2
 💯
 ⏰
 زمان‌بندی استفاده رایگان: امروز از ساعت 12:30 تا 20:30 به…</div>
-<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/ArchiveTell/7481" target="_blank">📅 15:52 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/ArchiveTell/7481" target="_blank">📅 15:52 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7480">
@@ -362,7 +362,7 @@ Base url: https://tabitoken.com/v1  قابل استفاده در Vega Agent
 ✅
 🎁
 با هر رفرال شما 20 دلار و…</div>
-<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/ArchiveTell/7480" target="_blank">📅 14:15 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/ArchiveTell/7480" target="_blank">📅 14:15 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7479">
@@ -397,7 +397,7 @@ jxp.com
 ✅
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/ArchiveTell/7479" target="_blank">📅 13:59 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/ArchiveTell/7479" target="_blank">📅 13:59 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7478">
@@ -538,7 +538,7 @@ Sonnet 5 | GPT 5.6 Terra | GPT 5.6 Luna |Gemini 3.6 flash | Gemini 3.1 pro | Hai
 
 <div class="tg-post" id="msg-7471">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FfA692ol29NSp21eSi403tiKwb2VdYfSJyOdUH-Kb_f9SOo80BYzXjhL0K15yBMVaGoquwyBFvjPOCrWBjJmK1vg1VtFWPI3NDE0L-KyLowQCJEFLDG78QOFPUyNKDQy1ZDptXPdtrkXoou7mhpcEBaaZ0JX1mbHAYQ7gNIrPvjGy3bA7LAKu8fNofdnD5GZbw3xXtdxANZNyJhRQrBsEtpThlVhQKQPbV53hGxbR_LRcpXO3J9c9YiItptOmqPyAfsfDvJeor6WtPmooo5y7tLC-XzaFjrMNPiCd9ioEtsso3nXCNEhT9TqoOSqMbQPmHwDGnHSYbp4GtmRwmXD7g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ss8JOIJfvP0mHYHDZfV0VPjqeicdul_4xgKDq65JyeirglgDwixg8GwrbjlTMh1ebe6n7psyDIy6LEXAQABvX2tUckve00YVyAaYvzSBFP7aDlB3lA_WS8vXufCnx5xJOypOE8Uj0cnr9XFKq729cc7yXAsK25-kb4RBEbjibkQNlth-ePYAroP-FHQ1sHryvRPsiGk51XAerCIysdE3skPgL5Ve1hr6yNrSplHKagmLQLw5cfv7_rOreUNgTBpc206zGJCTuA31Jpy31Fl3ia-eoz_2EWYlk17yIAQJzEbgsJjXzvZ_u6EpqSo6Hd4gDucypzG2M6aVG2MH2l2Txg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 کریپتو‌مارک مخفی Claude حذف شد!
 🥸
@@ -551,7 +551,7 @@ Sonnet 5 | GPT 5.6 Terra | GPT 5.6 Luna |Gemini 3.6 flash | Gemini 3.1 pro | Hai
 استفاده از ابزار
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2K · <a href="https://t.me/ArchiveTell/7471" target="_blank">📅 12:01 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.01K · <a href="https://t.me/ArchiveTell/7471" target="_blank">📅 12:01 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7470">
@@ -564,7 +564,7 @@ Grok 4.6 همین هفته میاد  قرار بود ۷ آگوست منتشر ب
 طبق گفته ایلان ماسک، Grok 4.6 حدود ۱.۵ تریلیون پارامتر داره و قراره در آموزش SFT و RL پیشرفت چشمگیری داشته باشه.
 🔥
 اما بخش جذاب‌تر:  چند هفته بعد، Grok 4.7 با حدود ۲.۱ تریلیون…</div>
-<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/ArchiveTell/7470" target="_blank">📅 23:00 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/ArchiveTell/7470" target="_blank">📅 23:00 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7469">
@@ -598,7 +598,7 @@ Grok 4.7
 باید دید xAI این بار چه چیزی رو رو می‌کنه!
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/ArchiveTell/7467" target="_blank">📅 15:04 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/ArchiveTell/7467" target="_blank">📅 15:04 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7465">
@@ -642,7 +642,7 @@ Cromite • Helium • Ultimatum • Quetta • Yandex
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/ArchiveTell/7465" target="_blank">📅 13:00 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/ArchiveTell/7465" target="_blank">📅 13:00 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7464">
@@ -846,7 +846,7 @@ qwen3.8-max
 |
 #API
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/ArchiveTell/7453" target="_blank">📅 12:53 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.51K · <a href="https://t.me/ArchiveTell/7453" target="_blank">📅 12:53 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7452">
@@ -1014,7 +1014,7 @@ GPT 5.6 Terra pro | Grok 4.5 | Deepseek 4 pro | MiniMax M3 | Gemini 3.6
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/ArchiveTell/7445" target="_blank">📅 20:01 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.93K · <a href="https://t.me/ArchiveTell/7445" target="_blank">📅 20:01 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7444">
@@ -1244,10 +1244,10 @@ openGym
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/7a8f426714.mp4?token=I83PjD6oyKQUsTnbldbMPl6nwHuBZvS34A5zYyOR5uhFvr41e3Xe4FwUvIiEMKVpO4Pw2v6M27vElDAIBpkUgQOywAttsk6b1ns0P3pYy4bkAPG9O6mP6SfkX12ZOloh78R56uF_4wpcizxUmqnS_iarJRz3cN0BraQXLwY1FJ2z4JQ5n-p8-tCGCG6QuocsRC8dY6NC4rFF6yN72e6z-bOh2FpbXAmhnharrSe0SpRREGdgQyLc9PGp9CtrirJbIpHyx64O3y_zqqSA-a1GAwLnDRv1UD5Sa4uEqx7uWnqE9lC25U9hmSj5iYlfa10VhBwg1sciNTi_NC95VATyTA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/7a8f426714.mp4?token=kK8ADdfcXo-AHX6E64CrtaE3DFkm_aSd8KwQqsmwgioBKUc2zLZelTilqjbAheZlmj1VtDpG7tAo8ZGpn8ZxiHYPgsRFsCU-vRXkYuLpAi5qsSMFLRHAN0TSMWKORjTU9-4b0JN46OiZMwjL6AOH720rQ8iLWfxhG0eU7YCNtmNV7pq3v3nv5xN5efCWz8xMGA1HqcIlenjaR8rpAER_Aw_fZQ-TyS7LZBpqvEG1pZa9CZjnV6UtCS4H_4bw155FOEnM5JcnUlcHerIvVD9t0Rw_zRZoq1Z5Up2RpEV0khhI2en5ghgfvngAdjQG1WEMp8usL9uHOaUE3gyT_-VnuA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/7a8f426714.mp4?token=I83PjD6oyKQUsTnbldbMPl6nwHuBZvS34A5zYyOR5uhFvr41e3Xe4FwUvIiEMKVpO4Pw2v6M27vElDAIBpkUgQOywAttsk6b1ns0P3pYy4bkAPG9O6mP6SfkX12ZOloh78R56uF_4wpcizxUmqnS_iarJRz3cN0BraQXLwY1FJ2z4JQ5n-p8-tCGCG6QuocsRC8dY6NC4rFF6yN72e6z-bOh2FpbXAmhnharrSe0SpRREGdgQyLc9PGp9CtrirJbIpHyx64O3y_zqqSA-a1GAwLnDRv1UD5Sa4uEqx7uWnqE9lC25U9hmSj5iYlfa10VhBwg1sciNTi_NC95VATyTA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/7a8f426714.mp4?token=kK8ADdfcXo-AHX6E64CrtaE3DFkm_aSd8KwQqsmwgioBKUc2zLZelTilqjbAheZlmj1VtDpG7tAo8ZGpn8ZxiHYPgsRFsCU-vRXkYuLpAi5qsSMFLRHAN0TSMWKORjTU9-4b0JN46OiZMwjL6AOH720rQ8iLWfxhG0eU7YCNtmNV7pq3v3nv5xN5efCWz8xMGA1HqcIlenjaR8rpAER_Aw_fZQ-TyS7LZBpqvEG1pZa9CZjnV6UtCS4H_4bw155FOEnM5JcnUlcHerIvVD9t0Rw_zRZoq1Z5Up2RpEV0khhI2en5ghgfvngAdjQG1WEMp8usL9uHOaUE3gyT_-VnuA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">چت‌جی‌پی‌تی رسماً تبدیل به فتوشاپ شد!
 🖌️
@@ -1680,7 +1680,7 @@ Hermes Agent
 
 <div class="tg-post" id="msg-7410">
 <div class="tg-post-header">📌 پیام #42</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y9P_4rCzYMNB4u_2vu_EwW32rk39EB7sisxGEFwf8ALQtJ32dka1FTonSy8d5iU7nHQ3CjDMtwY7XzqY_W-IbEWezypCPHASsz0lAgbgd4mJdPfCOmJ5QsdPQ5dsJx0TLuGrPu6h-OhbPYIh5DBz1uBmjMrEK00kMx5ULTaXoCEPgsSQpVDbc9YIOJeO_WgqQweKUrEWwSKM05OffiAgs9wUyjpA8OVSyQhf5rcOJnutM4K555SZKZLu2dwW2o2_bhWLT-CltBk_u_n-lIaDviWDBogNftsXU42Hcg1Q6ftvsAFx4IaVU893Xulo0RzPjvegdC-vTsIqWcNuw7VzGA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Z1t2-_XY3TISisnbfSHwJS0aFU7Re3ygmXDjgYiYutiyYnTxOGWnmG41YM5lV5NQnH3kWApF9MPR_cTJWnXQJWsOaSfLA22B2xGRd2QDQ1A6ANgRAhD4zC0VkLJ80xG_M7x_515YYXJvILY2UMBgcaqAZjLHJE5xts73LZl94M5bHRbZMcmA7r99QELIgqnQziCUkHVz9FyvDc9AmSIR1pF0aOkw3fiuWqjOreTu7FZ9t_qWSAUCCGdSGFl5npThBOM58_tVdQeBt5YUiSCWfEyiir2Nfd-3qlAfKkCTyOamRDGPLiBg8Lijf19jvNWd3a5mMaFP3XM4Rq3AUFYgpQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معرفی CloudSSH؛ ترمینال قدرتمند Web SSH بر بستر کلادفلر
 🎶
 📱
@@ -1832,7 +1832,7 @@ qwen3.8-max
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.58K · <a href="https://t.me/ArchiveTell/7398" target="_blank">📅 20:01 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/ArchiveTell/7398" target="_blank">📅 20:01 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7397">
@@ -1913,7 +1913,7 @@ https://anymodel.org/v1
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/ArchiveTell/7392" target="_blank">📅 16:01 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/ArchiveTell/7392" target="_blank">📅 16:01 · 13 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7391">
