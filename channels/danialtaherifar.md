@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 09:20:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 09:54:26</div>
 <hr>
 
 <div class="tg-post" id="msg-951">
@@ -331,7 +331,7 @@ z.ai
 
 <div class="tg-post" id="msg-947">
 <div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kRG635Q7w1XBL-6xj2MOAS2o3h3K48kIDUScohJgdgVDjfJslbN6hhVTh6qp9gW36re8bIBOZzHpo9cAnRgoL318crwWGtZwAJzQe9RkIV507GhqI2BYBmqcMNx3chOY0X0VFtlrXlaUdYFSXDAghfYupvTKYs7nkWvVSopEO5RwaA0kzO6VWhI4S_UeOraR4u4p7-SMtD1hPpmKLaaLGK084pgBHTj_oLxb0olil5nbxzThW2xo58YOWVfAvBuVEJ2WjbuhznfCXuNrHsP8fAIZuvApm_mA3QomHsXLsovef_yGy5_bjKIVZQN9ldqywtvI6QKhhkVX3Ze75s7MCA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LKGszQ9Xw3_FNPi6_jpIu8ajUyQw0OI5sjxxT9kGZRBkM_Utyh6VuONdR-ZY9qWyWgn1NCFouEkA-bUwgCrQ_OV7hPk0CWeZt-5hiz5glVjDuFSOo9Pqhds4guDe92sF_m1RIV1MSyzip76wWJ3gbcSSkIh23r88YnhXnSSNIKgPFBQiJnDDhUwT0ZU3RryiV1fSSmLgrGmLT7LRCkjDXq7Jb4UVx-arddl8HcgAsCRA4O4KV86f2lrl6BINbSUxw2dt85h4mhgibnzqMcljSseL4EDSrSrfjTwPvw7hZMJ_WiaDoV61NE4Q6QvzefXSeIFmnljzjLkAd24tmSjerg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 علی‌بابا هم اعلام کرد که مدل Qwen 3.8 با 2.4 تریلیون پارامتر و به صورت open weight به زودی منتشر میشه و در حد و اندازه های مدل های سطح بالا بعد از fable5 هست.
 خواهیم دید
