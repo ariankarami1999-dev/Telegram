@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 15:50:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 16:37:01</div>
 <hr>
 
 <div class="tg-post" id="msg-2886">
@@ -333,7 +333,7 @@ PAY5SCMT
 |
 👍
 رضایت مشتریان</div>
-<div class="tg-footer">👁️ 5.8K · <a href="https://t.me/iaghapour/2886" target="_blank">📅 21:32 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.88K · <a href="https://t.me/iaghapour/2886" target="_blank">📅 21:32 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2885">
@@ -367,7 +367,7 @@ PAY5SCMT
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 6.69K · <a href="https://t.me/iaghapour/2885" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.75K · <a href="https://t.me/iaghapour/2885" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2884">
@@ -398,12 +398,12 @@ Gemini 3.7 Flash
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.21K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.26K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2883">
 <div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DMS0BYo-jOZ3HKWgxUJ09oKsrc1I46oIYqki_dIxsK9o4N9MuFSfWTzg3NZCnCZJGh4vdzA9vMJ-mSD9Ps4pgAPI44NzZM6-tqp_JB5YT-fU3R6Z5VY1IGiVWyQgn8C3DX7BZeyhAM1KPbYpOl_tb0ZgXyMNYBlRn9O8iOquRNlnX3wMKdHhlId8_4EUzTMNFYW1xQwUzWGYjm2_6doPVVXlQlTjlxwQ8_fDUcdK7AdDQZBWw8bscq8RiHhUJvmXyHg9wU4mkaWU-O0xsXelFZZDkcnMcstMSQdy9Jkqb9LmiJ5K9IyJuq0c0h_FDEh0ZjmW9Hki64dmINGrKjRn7g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ql15C2BYtcUT0bsamZcrDbiLuNm3o_Tioiie2UwCBqFLGzGktru3D4JDEB5_sZB76YwmQ7wGfPReRT-ZmkImF_MSKsqsGFlh9pOLTIRa2T_SoD_-UicQe70cqBv9gDQvZJzf-BvMjvROeHEbbIkjxO8dG8Sn5TQa0hZV62BI69syboOVhsn8WKoMl0II0eAB34qyfQKOjQcht2hRFKRhbqKot7mL-GFjcV7Szew2Vb2LxisqDm35TXrccSoMcqtnAJrWm86qjkmChF90Usmag8nhvKV4CzQQDJDwXXBfpDP7jlZoJN8AOuKsdm5fgPY-9ZmnK1Z_s3e3SqGqpoE0OA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Smart Support Bot؛ دستیار هوشمند و ربات پشتیبانی همه‌فن‌حریف تلگرام
 پروژه
@@ -427,7 +427,7 @@ Smart Support Bot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.3K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.34K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2882">
@@ -462,7 +462,7 @@ ChaCha20-Poly1305
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.99K · <a href="https://t.me/iaghapour/2882" target="_blank">📅 15:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.04K · <a href="https://t.me/iaghapour/2882" target="_blank">📅 15:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2880">
@@ -491,7 +491,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.59K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2879">
@@ -526,7 +526,7 @@ https://github.com/roseshayan/SpeedyBot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.64K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2877">
@@ -590,7 +590,7 @@ YouTube</div>
 تا امشب ساعت 24! پس تا فرصت هست کامنتتون رو ثبت کنید.
 🔻
 توجه داشته باشید برای اینکه یوتیوب کامنتتون رو به عنوان اسپم تشخیص نده و پاکش نکنه، حتماً بذارید ویدیو چند دقیقه پخش بشه و بعد زیرش کامنت بذارید.</div>
-<div class="tg-footer">👁️ 9.99K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2872">
@@ -864,12 +864,12 @@ Relay
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/iaghapour/2860" target="_blank">📅 21:02 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2859">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qwU1xHLIJVHQmvRR9_jqsyZyYQ2jjdd15bY0KyiN5WO8WuJ-GMAXuxQmSR5DfuYrrTbTDIFJHcYrG8i_kRI5vMB9M8JQM1JXgEf3HMhbIGpfZ9QY1IKTdQVXvwm_hfWH9rQTLKFFIotONWBUJLOdK94YBeAOkilh6OFRD0vm5wRmpSlz68fI5fDPPzXGPlrRIp7aM2BYkn3jXimD2XrCCqVWpMqqDsfV3ziXMN-sgWs6eFViVbPms82KWYKKRdK5DglF5XEPCXyk_RD1c8lbQu7A5U8bhTGbJQBMm5hku_euLn3vJbxZ2_yT_e-CyynEMKuyjIrlOroJlImJATegGQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FxmUqrzkcBxiEq08Rb9VFmFlYAlLohCYDUBOae5jR5TgVUMW7AsG5qy9xL8jJZCzp2174LSc3bbt9ju6bh6y9Gu9-nuNIrpbksxm9iFLLuZtHelL3iFhOuHUUVSbqvP24y1hsrKRF5RiFOVgY071fGoq4H9bvamiyqOBNaINoDG8YEat_EdvHWPPtCskQYtMeRtbnWUoN7NUps3udaVAHSQyYrNgZg7SY4X9I6CPVJxwh-UfkH5DUuEDGRTYWnTnTjbIx59GtTZKHtgFL-51VkNAnUFAXlPqeINnxKV2LJTMaMJu0Z1ubaGSQJGtjZt41m0Ag-KJJhPJp_qNx5C1qQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سلام به همه عزیزان
 🌹
 همون‌طور که در تصویر بالا هم مشخصه، ما ماهانه ده‌ها درخواست تبلیغ رو رد می‌کنیم. دلیلش کاملاً روشنه:
@@ -887,7 +887,7 @@ YouTube</div>
 اگر ویدیویی رو تماشا می‌کنید که ماه‌ها از انتشارش گذشته، لطفاً تبلیغ داخلش رو حتماً دوباره از طریق ربات ما صحت‌سنجی کنید. شرایط سرویس‌ها در گذر زمان تغییر می‌کنه.
 ممنون از اینکه همیشه در کنار ما هستید.
 🙏🏻</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2858">
@@ -946,7 +946,7 @@ YouTube</div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/iaghapour/2854" target="_blank">📅 13:57 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2852">
@@ -1020,7 +1020,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2849">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BxqePJaTuq9tMG91KhBgtf1aeaBdKWgIlHO70GPcqaS-AsrmQ87_WfqobBOL8U56FSapYHNH_wYXbtDReW419Jpln7yeXLrLv84jvVMBPk8z_FRbo_Bvn9niMwPVzfNDxNszSd_RYXJAz4484yyMabcx4pIOne-bfkKjiKO8n2RDdUKDjqjE0ZBCtTcV1xzWREeDaisUdQsW9Dauyzpf5jeAyvxjWTxgYEhMwLlzwGaQ9wywZuEBD3p8DuFWBXrB444ZrpWntsjU3fMkPG2qYKoZg6_DycIrB3JYJuG3Wj1NnFoB6Rjo667JK28DkPL5GD3MvGeINe6Cps3DojMZgA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Bq0k13ZGjaTjxLPMaXETeSIiF-UU_f6F9pNA2zC2VpshBLIkNZUYW311racLEZ9uJLSat1DNq8KJ8S1RsaOczfT00UpD-sWwBauRdirVAd1eYEjhX7zB5umxZI3Vvrshvj704fPNF99ew4L3IHj1XF8ZuUPEXQ72MtqpZZol880ivUpCYRWacYQ2gV7wLg6co_mT0hjbrAKVkgXn8S12Tb2KS0rdiymbiED-vFzxYNETJmYlFAhA9yRr9zm6d9WVUAL50tv1qKhR1lLCihdGR-sUVqXZTEBODebejUfZmNeLmXzuJlJnPeQelF73QBiIIDS32gM91K2fBY7hzksycg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش تانل معکوس با آی‌پی فیلتر شده با سرعت بالا
 🔹

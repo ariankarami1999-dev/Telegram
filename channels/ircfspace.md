@@ -292,11 +292,26 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 15:50:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 16:37:01</div>
 <hr>
 
-<div class="tg-post" id="msg-2558">
+<div class="tg-post" id="msg-2559">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-text">ظاهراً پلتفرم شنوتو، میزبان هزاران پادکست ایرانی، توسط کارگروه تعیین مصادیق مجرمانه فیلتر شده است. طبق قانون شش نفر از اعضای این کارگروه ۱۲ نفره از طرف دولت هستند. دولتی که در «ستادش» اعلام کرد دیگر هیچ پلتفرمی بدون تأیید رئیس‌جمهور فیلتر نمی‌شود!
+©
+hamedbd
+🔗
+ᴡᴇʙꜱɪᴛᴇ
+•
+ᴠᴘɴʜᴜʙ
+•
+ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
+@ircfspace</div>
+<div class="tg-footer">👁️ 3.66K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-2558">
+<div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/G3CQzP5J8bbRc1EERrbkYtIGJ-ZfM0oi5eJyzxpOJOn_ex0LV7aoNIuEVRwYK65FY0p733g70vLkEuqAB-0CwEyfwHUPE8tIM-gIlgFZFlwWeG10eADR2jtw-GQLhQ2XCiQ_b5JIMpKotqG3MiBhq9SfvX_fwKu_eF6LEuCck2zND7lptneCt6DBv7kWI8FnZliOoMlkMJKBo7ksI0QvRdP-pTDR_cQJ8-s5XM95SdiEesWDloKEbriAhOdc72S90XUs4AkKh2LqPqkiK79ogM_vRdlSzUR4Pw2gTRMAKVG7vtG9TjBno3TmuCc1o3g9t9zhIUnAQbZFBZrZOHA0rg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پژوهشگران شرکت امنیتی Socket شبکه‌ای متشکل از ۷۳۷ افزونه رایگان VPN رو در فروشگاه Chrome شناسایی کردن که عمدتاً کاربران روسی‌زبان رو هدف قرار می‌دادن. این افزونه‌ها در مجموع ۷۵٬۴۸۶ بار نصب شده بودن و ۲۷۴ مورد از اونها با جعل نام و هویت ۶۶ سرویس معتبر از جمله Proton VPN، NordVPN، Surfshark، ExpressVPN، CyberGhost، Windscribe، TunnelBear و Cloudflare
 1.1.1.1
@@ -311,11 +326,11 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/LoXUNv6tLNwpsHlCl7mN0SHmGNNFYTKEEZxjgPaQtWQMt37QHZv4_gY1TwrP3zQmOxXhw5zF5ZLraBPuB3muNDWpbbZl7-nxLdWkDdwgtBweCV4Ohp4sOWv_BZXDqVSYKFK9RUQMOP6YF5Ot317GoKg5Jp5nW0CSzDqCJmTNqoHzgvh_33Mn83CSberfe45ZenAgvY2WIXOdgOUp3JrK9S-9pbsB-0VEFhxMbNHNZ8BFCP_67XTLWfCvbh5M7_V9wb-VwSUaZQ47743Wskb-iyqx_G5jTcOTfyyf1YviQ7je0wwE9JbGkUfRQ3uKU40kQpzRdify03hFltoCqaeRpg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ WhiteVPN یک VPN متن‌باز و رایگان برای اندروید، ویندوز، لینوکس و مک هست، که بر پایه‌ی هسته‌ی Mihomo ساخته شده.
 این برنامه با پشتیبانی از پروتکل‌هایی مثل VLESS، VMess، Trojan، Shadowsocks، Hysteria2 و WireGuard، امکان اتصال از طریق سابسکریپشن یا اضافه‌کردن دستی سرورها رو فراهم می‌کنه.
@@ -330,11 +345,11 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">قوه عاقله برای بار نمیدونم چندم دامنه
 workers.dev
 مربوط به کلودفلر رو فیلتر کرد و مشخص نیست بازم از فیلتر دربیاد یا نه. بهرحال "در سر عقل باید"، اما 404 مشاهده شده!
@@ -345,11 +360,11 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">اینترنت همین الانش هم طبقاتیه، چون هزینه بسته‌های اینترنت رو اونقدر بالا بردن که دیگه خریدشون در حد توانمون نیست!
 ©
 Kiyas
@@ -360,11 +375,11 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">اینترنت ایران باید به لیست شکنجه‌های تاریخ بشر اضافه بشه ...
 ©
 thepanue
@@ -375,11 +390,11 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/7887a97904.mp4?token=YUlt9w5XtrCsE5k9pFF7CLW73crlrTJcpHSPNPyioO45WlfzG8DbuxU1A_eOyDjT5rmTGjCKl7ZYFLDwwQb8TqmuqaU8ZgvSdwLeJ6hI1o2mU3z4bvMJTaj_2PL7Ea58v4LliUQjna2UpBXfGPibrhrfLp6n1_6r_Q4KH35A26EM7FtVbCdLqb81d7V3SMcu9fMCvHHkqVPCUYZIIidVHTytfwP4Zrp2AQodV7eRUwdFArnfmRB984_4qii56hVp5vlRPemIOm8YQsYsPErQ3ShulcOIzd7zCI6uT-8OzRqtO6wcELZnxKy3Milps--pxacn0vOuTJFDBIUgCQk9Iw" type="video/mp4">
@@ -398,11 +413,11 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QjSethD69Pet0qxchV8UhbwSA8wJzgpsTPTfFZxifbyEGoXZoJH4mGwAKte_e6At0EbGpvMnajna9ZdDcN2ATz-ZaStmAW59xGPTvpLbLFqV0ZiJBx6A_ntMZ9v5cCdJRswnQX4ZiLQXpvgysuxRuJDiB5v9NwUqXicYrodJqQCARqQUoF3ECHg-FigA6LmatI2PxOK3p0Q2sm0_k5OKqDaWKvueyTZdb5lZogkN0_dSSf5lVfoCGGinnZD5tXwEoCWV9bdco9G0ZQ3VN-0iXPe0NAk7J_tuQGKIkEHnsiS04XXjb0V6eGOuB44yDWtGdlZrVb4nH4d5yhyBKy2EuQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اکثر آنتی‌ویروس‌ها (از درپیت تا لاکچری) سایت بانک ملی رو فلگ کردن، چون سرتیفیکیتش منقضی شده!
 ©
@@ -414,11 +429,11 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2550">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZX-yiYhdlzo9jaUiTLi2TJOxh_kMvpWndfIuApKGcF3DL_JLVshBgDg-YH29ZnCxeH1Bh6pwZkpVfGt3dtFMnp5uozGEVGLC4hRcPagfp3LHafmZElmy4dHYCXAxzrJN7AFYy2Is8JGWO59dV6FX1UZk6U3ywNc989mcWxP7C0ljrHLExLhz84BPWGeH0Ya2GyoInLOF7i78ihfyDtOZtY0goCjZID3pR6CR5DFsQNE5lGF93_1ckwnMncWOmDJkWXh6Uj2f7XO0WNCx7tK8WJUiFMckaC0gVUHJiN9XdAaCUZneRM5UCTt5LNWcaWUjngp48_n7_a0oSLULoOc-yg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معاون ارتباطات مخابرات گفته دستورالعمل جدیدی برای محدودیت VPN روی اینترنت ثابت ابلاغ نشده و ممکنه از مشکلات فنی شبکه یا نحوه عملکرد خود فیلترشکن‌ها باشه!
 🤡
@@ -430,11 +445,11 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2549">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VWSMpPM1KjAKK4N-WQYhr0UgaSIoYPLvpX_66A5iMK1OAQTlotdsfqzcr47l0D_Ki0b2oWZkor9bBdzxapETsQUneVdzwcm4VSt7Pd6xVgobfPAfT7QP016HFod2x11Ie1UU2iBwfKcaaDdDgaMonDti2D0zB0x8WCFIm8qr9nAD7eOp9NZ3ORkI0HTHo-y7aGAKOW_L3f9jGRgqOJwDBlqg0rgfnme2x7cNcjvVGtWwNlIaIe79eTqZ7RwEs9M8Vyw6VSiZGBid1C0y-LXC5PCSls2_fkn3oU-G2s-ZgUS7O2DeI8XI9p5MAr3mD9rKqmkc2TYbaJIBOobCRxj-xw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از فیلتر شدن فوتبال ۳۶۰ و دستور رئیس‌جمهور برای پیگیری مشکل چقدر گذشته؟
 هنوز نه رفع فیلتر شده، نه کسی فیلترشدنش رو گردن گرفته!
@@ -445,11 +460,11 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2548">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/phBejjwCz0En6544QddwoaONtBOVVWwM0KAeYWmiJv6zUOQgWXbtb4EmjVj9xY8TgNBU_VocRGBWYXg-s_Ctx-APpnBo-b6cYFFyAvJnzpnHB0iFetkE7SBuZXycbaacUi-KHWQipMKW3eJNF529fws5dnHCBlDi72O9HZcOlhndfMTFZ_jC7C4Cp0RFbhdK5huyjV8EFZlAcHHsNcMCLRz4IfOIRY_M23B4rq5TwAmCBfBK2t9J-jH1Az4PchHklB_7ivZg_1_vgLf4MYNZNHGzQtBmK08AjsEy4nYk74p5vbGK2eeuBi2UdoyIMdoBfxG8K6YUI7vLCltKckgCoQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پلتفرم لندین که برای ساخت لندینگ‌پیج بود، بدون اخطار قبلی فیلتر شد. بعد از یک‌روز که با تعهد در دادستانی رفع فیلترش کردن، اعلام شده دلیلش فروش آمپول لاغری در صفحه یک کلینیک زیبایی بوده!
 یعنی هنوز که هنوزه نفهمیدن فیلتر کردن یه کسب و کار چه آسیب‌هایی داره. هنوز که هنوزه نفهمیدن وقتی یک صفحه محتوای خلاف قوانین داره، کل کسب و کار نباید فیلتر بشه.
@@ -460,11 +475,11 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2547">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CL37XkBwFLUyxmkeOV7xVQAhEq-QZBusSaSx_6iDl5p2wNSZ5aqDh30Zpf6NsabiqLyos60pBtRNvpP24uCwggZdUoRt00HUmrsjdSBVvanGHM9m4qhTrU0UCsQPDNk0pjGaHmHJhvLYcfctlxtSghH5Xu8ShlZ9A2cNzgTPAoWSE-sgAm-vHZR02S9fSoOuluhJpGbjjduuv3KeHAo9mN19Qcd6Cp3rcrvF6V3HL9jYJQIq3AXH5SbIHmfVDnfLV63f0dQFY3zHjDuARsKOJcz4XkIwyc85SOeGVcgmqrWjMjRNVep5_hxgiveW85ZQgRmlPNEsh9U-0TdW7IehKw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همزمان با قطع سراسری اینترنت و نابودی هزاران شغل، هزار میلیارد تومان به پیامرسان‌های رانتی کمک کرده بودن! همون پیامرسان‌ها در عین دریافت پول بیت‌المال، اختلال داشتن، ثبت‌نام جدید نمی‌گرفتن، محدودیت‌های تازه گذاشته بودن و چشم‌وچار مارو با تبلیغات کور میکردن!
 🔗
@@ -474,11 +489,11 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2546">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DXeYOe8s-rHAZRflYlJvuqGrPpxCVIpDOXCYVCx71wU_t-uKdlEfVEJfJvSQ-sXB57TEN4MGuDaaAtNkM4w9q1BoM4wQ-2UJJhcS9PeMFJrIc4VATt3Mw_95ivS_PAt7FhtgH8_atzXIc5pvdXatH-_NREElu0-bmHWCl2a-fhVduX4EVf9maEOIMao1gAOTIsw7DHHoycfXRJWx5JL5hmnFuE8Q5VIjlyw6HlRniWtVQNHom6F0wf1hQJv_TLNNODPyo1wnEdtji-DKDwD7ZQ2MowHX7ifz4KJwccOkDjnZ72yFiAX-0rXbv9q3ZQNCeFkYurWKIHUX6JRCAd80aA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">متاسفانه عده‌ای از عناصر فرصت‌طلب سودجو عنوان می‌کنن اینترنت قوی و زیبای ما گران شده است. برای شفاف سازی میگم بسته‌ای که شش ماه پیش خریدم 1,348,000 تومان، الان شده 3,870,000 تومان. قیمت فقط ۳ برابر شده، گران نشده.
 بنده هم با ارائه سند میگم اینترنت گران نشده، فقط ۳ برابر شده!
@@ -491,11 +506,11 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Po1g0roVPrHDDRq_qeJ44XQut-Rp6-XL65ag9P7k3bYBzJU4HWMT1UFaYGgbUF8VbwxfxrCFk59O3yc0g-587CcRz7ZPHZVVM8xIKsI2qEscLNYHPefYWJsBBldRco4At_QtUMMQTwVC3GH56aysF0YAR1jXwNNNLUOV_LC_ORFCqVKPcfi0e4ySztJ-kiDm1apTQzqOFCK8cPtSJ4fr9UZmt5X1ioEbpEfDEBZWWqVPMXwUxFQCiCzLYvCUet5LqD0Lik2L6KeFOgAodiQGc-JHOdcyjWPggzrTG-htbVtQd-y49JPeMLlZuJf8OeB_4gxy_u_HLkGU-lio8baOog.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">میگین چرا با وجود اینکه چند روزه اختلال‌ها و کندی اینترنت شدیدتر از همیشه هست، چیزی نگفتی. خب الان گفتم؛ کدوم احمقی قراره حلش کنه؟ همونو بهم نشون بده!
 ده‌ها پیام داشتم که نگران بودن چرا چند روزه نیستم. غرق در گرفتاریام و گاهی حتی آب از سرم رد میشه، ولی دوباره برمیگردم سطح. نگران نباشین.
@@ -506,11 +521,11 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/o7QioIitcthL3uBsQEcnwF-hrLxzw9O3XYZ6fbQyzFlIacaeZbVx9MBkFms6JD3-2z-IpLfP4GgSdWzp89p_2ap4Vy91YEyoTqGBXDq-sO-NnxvJbZUr5HOoCAdoWkGNmnuLeGMI-geR-ZTX-Se8bCOYWwShXKd1wC5x2ZHUa8Z5N9En7QCJga6ltTp4T9_VrRnLtMK4043mXDWiU9MuNC6OSlmYVjwPf0M6csIb2fTIqn5gS7E5ZNeljwvhdBR0hbg7m_EYKVh_c5EZ3Z_ogZzhEJPlTkkjhJZUUpn3JnDGgbrumpYRW13DMMpnMtLOPkLAGddDe_lRGwSnuB53kA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تصویر لو رفته از وزیر قطع‌ارتباطات هنگام رونمایی از طرح تشویقی "نسبت حجم ترافیک بین‌الملل به حجم ترافیک داخلی"
 😄
@@ -521,11 +536,11 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 49.8K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2543">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">این قضیه اینترنت نیم‌بها و ترافیک تشویقی برای استفاده از سایت‌ها و سرویس‌های داخلی واقعا داستان جالبیه. فقط ایرادش اونجاست که کاری می‌کنن تا سایت‌های داخلی روی ملانت باز نشن، یا به حدی کند باشن که بازم فیلترشکنت رو روشن کنی!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -534,11 +549,11 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.7K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2542">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">چند پورت مهم مانند پورت ٢٢ از سمت زیرساخت بر روی آیپی‌های ایران به سمت شبکه بین‌الملل محدود شده است.
 همچنین شواهد و بررسی‌ها نشان می‌دهند که ارتباطات زیرساخت برای ایجاد یک قطعی گسترده در حالت آماده‌باش می‌باشد.
 ©
@@ -550,11 +565,11 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 54.8K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XTrdNqiTIbazX2vTC4yM1pbqJySUrHdj8POObGWcqSWLlwPUdgpc4pL5ni-lT5IIXwP_AdlOEk337CQ3y_aHFrjuckx4J-zsQbMWRlpO82WHVo5Z2orcFK_rCsPxKsQySmfafQJcOM-UhtYqj-lc5OFE1NTXOy7DKvX7ua6rdlN12wD7pr3GKKzmksM0Qgex75od48jgKDPmsiykKm4oer-0aUHLgsvczb1peDQUBGpSTvRGABUrvv72heC4bRKWVRnHX3o5zFsmFprI2T0BNDN6vSTdvGqQnSfQFHidjDhBAxuGqmFmsKPg8JdFvDtDLdKl0xY892ZJT_Yn9o_biA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باورم نمیشد که بعد از ۸۸ روز قطع سراسری اینترنت به جای اینکه بیرون بندازنشون، به نمایندگان حکومت تریبون دادن که در اجلاس جهانی اینترنت سخنرانی کنن؛ بعد دیدم این اجلاس در چین برگزار شده!
 روابط عمومی وزارت قطع‌ارتباطات گفته نمایندگان جمهوری اسلامی در پنل‌های تخصصی اجلاس جهانی اینترنت که دیروز برگزار شد، مجموعه‌ای از پیشنهادهای راهبردی برای توسعه همکاری‌های جهانی در حوزه‌های اقتصاد دیجیتال، هوش مصنوعی، امنیت سایبری، خدمات ابری و تاب‌آوری زیرساخت‌های ارتباطی ارائه کردن.
@@ -565,11 +580,11 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 51.6K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.7K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2540">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">چرا کسی از این موضوع که "سیمکارتایی که استفاده نمیکنی رو واگذار میکنن، در حالی که طرف با اون خط اکانت تلگرام داره و چتاشو شخص جدید میتونه بخونه" چیزی نمیگه؟
 ©
 shara77miaa
@@ -584,7 +599,7 @@ shara77miaa
 </div>
 
 <div class="tg-post" id="msg-2539">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Mztvr_3wcpfgpwGBeKGS08vPaU1I5iNQpylPHIPaewcM-f2r-GQAL2S9-xGquNzEQm0HBT1TJKlNibdlQLqk9fJab0xDFe9TSRngH0jUuYPmVCCOQdHO7HpGrXOMoJ7Dvq23Otfx2KKKSLjm2XiQ9JWpd8lj3jWNTsXrjTL7S_R3cQjAIV_3klJGdaA0NQHkB3z0fjY7Wlnjfr3bCEx7AWEbcJV4VLDAzyZ1UvasIHyjV2xEb_rV6xPwSt7T-ve4kSz5Pujcrn9Kcvqx2qCnKngc0xgi1OeCnBx0LJgVw7TGdfEAQGl163aVZojLdF_zQaI2GTuGuu0HoTKmqky8KQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جدیدترین داده‌های مرکز آمار ایران نشون میده در بهار امسال ۶۳۰ هزار شغل صنعتی از بین رفته و سهم صنعت از اشتغال به ۳۱ درصد کاهش پیدا کرده.
 حالا این آمار رسمی مربوط به مشاغل صنعتیه، ولی فکر می‌کنین آمار خسارتی که بعد از قطع ۸۸ روزه اینترنت به درآمد و مشاغل اینترنتی وارد شد چقدر بوده؟
@@ -599,7 +614,7 @@ shara77miaa
 </div>
 
 <div class="tg-post" id="msg-2538">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Fb8PLH2g4LiN5ufY9rogRzLDNk7jhXtGKTw8zoDwS6QASFxccsySt3U9UOBTXKzyL_VNEqkLItRqehgj0OyElC70yu-MS9yI9LVsh0Ay1oIIEVREkP1ecCvryrOWI7bGn-tiom33B8PdxeM86tsKXwdDoakC0fo0JCy7yugpQW9sVRZOoVXptPdd5UN3_MwAHAPCv_Fk-CNw8qY4ti3UjNrtToF2i_5smSROxFpslyMyHp8SclkscTDPn2KSeuwkgd58T3pccS-0RqSwTWg9DkN-OZjTWU3l5PnRAOV4w6hkO3_NBIM7Cd5TbST0QG6xS2OBU0hV7WQU6n3oi7zxsQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چه کسی و با چه مجوزی تصمیم گرفت ضریب بسته‌های اینترنت بین‌الملل رو بدون اطلاع‌رسانی تغییر بده؟
 قبلاً ۵ گیگ اینترنت میخریدیم = ۱۰ گیگ داخلی بود! و فقط پول ۵ گیگ رو میدادیم. الان پول ۱۰ گیگ رو می‌گیرن!!! فقط نصف اینترنت بین‌الملل میتونی استفاده کنی! بی سر و صدا دزدی میکنن با عوض کردن مدل درامدی!
@@ -613,11 +628,11 @@ iSegar0
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2537">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/V2epk9E65oO4mE7sz_EGsSmaS-iyIXEY6OcALDiFtMapMszxSItyJGcqIqnEHaXEQpq8lneT1f6G4iGlAV82JfLL2RIVEHVU5mKvSIxFLZ_E_VAKwut0h47J4_pjzK3zcGCXq4yIQtNMuKoNO_DajwXKdm33hDts4zVjJjv2p2cgqnekDKjVCSxqQ7s0-KZcEsRdffVCC4keiT2NTkvFQi7RDe4V3zBOUuHuqknMHVGzX9mI9MZSbqSTreDLUN0Khi9ThGx9F3--CoBdtZjysSfYlhoRgf1U-syvYSf7vGa24VvWFl9SWG8XagZw1PGxRc51exy6DsHuTHLjGJSRTw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aerial یه رادیوی متن‌باز و رایگان برای اندروید هست، که باهاش می‌تونین بدون نیاز به ثبت‌نام یا استفاده از فیلترشکن، به ایستگاه‌های رادیویی مختلف گوش کنین.
 👉
@@ -633,7 +648,7 @@ github.com/shapeshed/aerial/releases
 </div>
 
 <div class="tg-post" id="msg-2536">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gAE9Ok5lRCB1-28qR1DKIb6rXcnl3VTDQxR1em__4gtPg1IDPR6oeTECOTvzfk56LY-SBAR6XCgfeNLRneSpyH55bJoBacCSpb2nhG5VOzIUJEAq1_hb6jwzSKGeTTyARtUdJwlBQOj1vt0FYF8VUTVJz89BPRwe_syx1edRcz-v27Dy-eLbPp9cm6e1SjEXmquHmR1N_Kx6nXrw1KMF_UZOTveVZG911VtWgK6Ba8BBqvV7z5VFOQRQiivsIAVMFd64X-3QU7HL8tv-J6K6RxUPje7vOlMavoGgdSIMT9Km0x9rIeBUrL6tAwA9IGh40MqEM8sMzMj4WJG3Z0d1mw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه سری برنامه مثل GlassWire، NetWorx، TrafficMonitor، DU Meter، DataMan و ... برای اندروید، آیفون، ویندوز، لینوکس و مک هست که باهاشون می‌تونین مصرف اینترنت خودتون رو بصورت روزانه، هفتگی و ماهانه مانیتور کنین.
 چرا میگم؟ چون صرفاً مصرف اینترنت شما اون چیزی نیست که خودتون دانلود می‌کنین و ممکنه خیلی از برنامه‌ها در پس‌زمینه مشغول رد و بدل کردن دیتا باشن.
@@ -648,7 +663,7 @@ github.com/shapeshed/aerial/releases
 </div>
 
 <div class="tg-post" id="msg-2535">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jP-mvaz8lOBvHmJaWxsO2eBaJx7xweQZ1hBUsdINTRNBiiBUT-ru-SlFDH0uQ9JP4BSoh1YC9A3xBmdP5oxsGp3d6sNzfUiRKCBOh4Qy-p7KHCblX4UzqNTT0N5JdPnldcxxr_B3AvF2YRQv89Z4o3ki6rStqMei6PNbKZlhEPwFlI5T---BWcTljOj5FQBk4BBtYwZw-w2vWwKdKo3L4HjFGWalCA_xY3OoNAcRYn9pIm5CrhW7GtXBypBoyvgkLnsRS-4UDUA_CKHqADeBZFN7Ifm7vv73QD8p25FLqQbTkGmKanqMc58hYxqQaOxklMz-moT4S1DJQUjH2kYwjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی از راه‌ها مخفی‌کردن صورت مسئله، اینه که چندهفته پیام خطا نمایش بدی!
 ©
@@ -660,12 +675,12 @@ AmirMahdi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/ircfspace/2535" target="_blank">📅 20:03 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31K · <a href="https://t.me/ircfspace/2535" target="_blank">📅 20:03 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2534">
-<div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/h3wKQhW3bnA9JWZTa4Nhb_l_1GqJjA1dVRatCGf9dUVJ2OeP1rHTsumzOZGEHyIzJoeW2L995pGp9MAjTXAbkgmFjEU00aj3keAh1TkYWdmN9LLwLGWHp03u3aos6cFAoVOdAPOjG7ik64TOACRcfQweJXN6fUmJX2CSacrpHwrw603-hzl41IEK3Dcq-5vS-e5qUBYfwGIfxvmiJ-hOifEaQjG8eBS877EBgs4DGrAjul3WOEDZB31Go43Byc3bAk80SkNHfxyTQY3Qo10iJHAdbHZLykdWyZrOHyvIf98hPvt_MnRgHnyu6yPJm8_uJXnibZ4q6oAEYoh_hGE_hA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/e-FwAVaX1zIW4g3imMLtxuDYxB1HPtvBoLWfc3tjOw_xZ3vPTG3ZJCuT-Awu5CHxw4p2FwbBlUGC5qauqzNEZgt48UPVSZRLJ-LDc5OFKBFtnfK0kSNnBJtxwNt_-AdVKC1kFEP3kF7a55tuKo3Tlj-mgrASOMqcOblK-eq_COI0m4_6n5F_9soPNK-wy3c7inW05VYJbs2ma1Jk8kUwXhzuj8-bDIUIplY5p_lIdPBJiwv6drXGIPjzfwXkGl9hazdXDxGGEaDndnKmHFMHOIIoMCJzSmTsgGBXzSzR99Lqj56U31apAO2_D1T26h2RGDwOVvOKBI4YKe6F9AJ8PQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به نظر میرسه این تصویر وضعیت رو برای بسته ۹۶۰۰ گیگابایت شفاف‌تر میکنه. در توضیحش نوشتن برای این بسته ضریب ۲ واسه اینترنت بین‌الملل لحاظ شده!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -678,7 +693,7 @@ AmirMahdi
 </div>
 
 <div class="tg-post" id="msg-2533">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FNDvnXIMaNeq9kgTF801acMehc5X-bx9nargo29cnKF2rb0gmJapqwmOYPlE-elIAjyYxi3DN3tBk3FSOpOgDAQowBP7nBMwYYZL1iXlb6h9XgHUu0a-AYiEjGBaJoYbCjG8mH0jPDwbwcO-J2PqvcKqjFDWHTNgI7_II6yTi0G13IzmIgk4D4WPdTIgtwXWjtuUjiBwN1qQ76oRn0oPbbW4mvM1hVOSEO4xAF6-14XC8ou7-ShI-wRBb5QF5OxBcbILxrJVnaU1LhcmiiNFY2v1OZ1g6ywAbRnnfcX8bM0tFy-RgR4BHlcvOrC9-MMNrRyOwegrUnx1K85fUBlfSg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جهت کنجکاوی در مورد موضوع ضریب جدید روی اینترنت بین‌الملل، ۱ گیگ دانلود کردم و توی پنل دیدم ۲ گیگ محاسبه شده!
 ©
@@ -690,11 +705,11 @@ Farshad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2532">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">ضریب اعمالی به اینصورته که شما اگر ۲۷۰ گیگ اینترنت داخلی دانلود کنید، ۱۰۰ گیگ حجم از بسته بین المللتون کم میشه.
 این کار کلاهبرداری خواهد بود، اگر حداقل یکی از حالت‌های زیر اتفاق بیفته:
 ۱. اپراتور موقع فروش به شما حجم ترافیک داخلی رو نمایش بده.
@@ -716,11 +731,11 @@ Taha
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/ircfspace/2532" target="_blank">📅 19:48 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/ircfspace/2532" target="_blank">📅 19:48 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2531">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">نسبت حجم ترافیک بین‌الملل به حجم ترافیک داخلی ۱ به ۲.۷ هست؛ یعنی اگر ۱ گیگ خریداری کرده باشین می‌تونین برای استفاده از سایت‌های داخلی به میزان ۲.۷ گیگ مصرف کنین.
 اما چیزی که کاربران میگن دقیقا برعکس همینه و جالبه!
 چند نمونه از پیام‌ها:
@@ -739,7 +754,7 @@ Taha
 </div>
 
 <div class="tg-post" id="msg-2530">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">پیام‌های زیادی در این چندروز داشتم که میگفتن اپراتورها ضریب جدیدی لحاظ کردن و مصرف اینترنت بین‌الملل رو چندبرابر محاسبه می‌کنن.
 یکی از پیام‌ها اینه که "امروز با پشتیبانی آسیاتک تماس گرفته بودم بابت اینکه یک فایل ۵۰ گیگابایتی دانلود کردم و اونا بیشتر از ۱۰۰ گیگ از حجم اصلی من کم کردن. پشتیبانی بهم گفت که اینترنت بین‌الملل با ضریب حساب میشه و همه اپراتورها این مصوبه براشون اومده".
 توی خبرهای رسمی چنین چیزی ندیدم، ولی اگر اطلاعات دقیقی دارین می‌تونین برام بفرستین.
@@ -754,8 +769,8 @@ Taha
 </div>
 
 <div class="tg-post" id="msg-2529">
-<div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/LXNWQZcOxoZfkHo9djx-Nf2F7hMiukIBPUxnOWlqI3fAE8gYldkhijZF-R0QFTEMZNWGjP7ITNZutTUxRXZl1AFwNj0RWh3JqT_ABLe2jkOVlYY4mqRYT4Co6ZJhTPwEeWIK7RcnRvjMhuLh7ArhJijKIC5HBzgknfzXCOrdBGxqpJBUwHuGUvJhlO_rhsifbcamKyjCT0vSV3OU1695VwDykqg4B0COI9S7806TIgBlrUv6sobERl8yTiKsTMs8iOjcqaQuINLBxLDmHDjR7NAwbPQH_mdQMHRtPrBu0cXURraXYRPOobdRuvkB-MQ90HWvSc6mdZUnQiJ3g6DiHA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nhjp1tItY-7Smi97f6WgSh05G1CXYHM4A5pScIj7cCMOCw-BDjHKGK6ke3dFfuK2No7jdnjDvkyJs0p8rkDQ4ISEbbk-nSBN0P1TADJHbMhOdLxN0Lut1KZd-0xhFW71vLKSULKIJF5brm-wr_1ctAqLsiTBs12afDtmZEf0WjuuWYSsUYLdLhfwOxeg1OFvsftbq5A0ttXQoq-w2AFmwU-CYO_KkwhphuX7_FjTlqX94JTWvgRfhdgqqtp2giG7nEyu2JaE9tjvLGoG9_Dp1vtdzUv6fCKVAm7LdyyOLBW_hdZfaOJ-dZz1UdOAx_eLdllYNBHSYD2vkwWlO-t6eQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هیچ‌کس این چنین به ستیز با مردم برنخاسته بود ...
 ©
 sadroddinfallah
@@ -767,11 +782,11 @@ sadroddinfallah
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2528">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kKVuERO-JuXH5fxyjfyLTknlY8Y3AdHO4kd9D-RVUBPiCrzBSyevgvt2c0MoBmYF1VFsV96NmJ_fIv9iy7G2fFiR0bvNIS26P0a9DimkOlVK36S5MGdzCLfQgqeE5WI6hTY9iMqyvNHLQaQFCBMqPFg63vaDo0Cg9iXJM0zEVylpsg-uTTICGA8G8BLIO-bGEAoQHRT6_-sb-9fSy_pRMer1pSLiGlrxD7dbhhOuo8pxOL9u4xRcyH85KtnulOD2ID1glse-roJMSwWjdBuh2yJQETysSVNcpchEsmMy6629lCIjF1C1XwPxzOFITlmVJCmQv7NrX3nKjNeiabs9eA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هسته Aether یه آپدیت جدید داده، که امکان پشتیبانی از Zero Trust و تعریف قوانین مسیریابی، مهمترین تغییراتش هستن.
 👉
@@ -783,11 +798,11 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/ircfspace/2528" target="_blank">📅 18:30 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/ircfspace/2528" target="_blank">📅 18:30 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2527">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/D5E3T98sAo_xthjno8T1qNheQvNoAW-yrycJlgsW7BtQ0Cyo3WXMOiqRCvzE3TWUj6o1BbTFkoI3RddxwaVEn-1plI8YPGSgXCk_LEWpJBJHjSB3ENQ9hm0v_mMVvbWnyEKLkolGK_O-RdgTi0VS4naRLAMX75SkWG_11M1folVR5ISZ7q5kJtu0poF5nbnFShqJbRoFGSc3gC2Pd6cYRn-I1EyiWepp6wf4UWHqzFlZTKeXk2WlCSh3GwhGVWpwKfZwtYI06kUgPAOyHeqsTgiVfj4_nLTxw6pYtkvpTJTm-QKRO1PxymyWs4DBfiyEFdgktbBbDndi_7NFiS1i6g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه جدید از فیلترشکن بگذر برای اندروید در گوگل‌پلی قرار گرفت. همینطور می‌تونین نسخه ویندوز اون رو از صفحه گیت‌هاب و نسخه آیفون رو از تست‌فلایت دریافت کنین.
 در این‌آپدیت هسته ایکس‌ری به جدیدترین نسخه بروزرسانی شده و روی افزایش پایداری اتصال، بهبود عملکرد کلی و افزایش سرعت برنامه کار کردن.
@@ -808,7 +823,7 @@ testflight.apple.com/join/cRSCr51a
 </div>
 
 <div class="tg-post" id="msg-2526">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">وزیر شیرین‌سخن قطع‌ارتباطات گفته توسعه زیرساخت‌های ارتباطی کشور حتی در شرایط جنگ تحمیلی سوم متوقف نشد!
 انگار نه انگار ۸۸ روز اینترنت کل کشور رو بصورت سراسری قطع کرده بودن و بعد از مثلا وصل شدنش، اختلال‌ها در ملانت ادامه داره ...
 برای راهپیمایی اربعین هم در ۱۰۰ نقطه اینترنت رایگان درنظر گرفتن و پولشم که با افزایش ضریب و هزینه‌ها، از جیب مردم پرداخت میشه!
@@ -823,7 +838,7 @@ testflight.apple.com/join/cRSCr51a
 </div>
 
 <div class="tg-post" id="msg-2525">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ASVMQ2igWp9dtuErpd_KGIsl5L5k4ozBizte110yPjKl0ViBxsHUomX_QJgRJ-Bqmk8ixVtGfqvPikj4w9nOfefc2fJVqofsNq5pKwswdFFd1VEeGt1xKwzsMsN21dpKm0BcoPLW0UV4IM91oIm7ASdu7iyQXXFjDcOeCvFGMgFSJejdkg8qkNkeqaAhxCzybWa0md0GLNAsud7szFXxAIkkBX4Fp9_h2jefaCgP7jZT5M_DBSApWVSyBCQc1FOcupF0GWZr_I-YqVmXKBr7OJdmsRyGIEN_ER1d4hSuLF8G6KLl1EtPzCrbcXxks8UUNQ8Zc1YBjP9JyCh_KZ61Fg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گردش مالی ماهانه بازار فیلترشکن‌ها ۱۵ هزار میلیارد تومان است؛ بیانگر حجم عظیمی از سرمایه که به جای ورود به چرخه تولید، نوآوری و اشتغال، صرف حذف یک محدودیت می‌شود.
 با چنین ظرفیتی می‌توان ماهانه برای حدود ۳۵۰ هزار نفر، حقوقی معادل ۴۰ میلیون تومان پرداخت کرد؛ اما این سرمایه، به جای آنکه به موتور رشد اقتصادی تبدیل شود، در بازاری گردش می‌کند که هیچ ارزش افزوده پایداری برای اقتصاد ملی تولید نمی‌کند. /هموطن
@@ -834,11 +849,11 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 49.8K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2524">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sveHesi1vx9vTMXvfrBEvOxJ97Uz1mCJJISaoFBjdKVYrmaUQLmMq5zvA_dBCYVlk2LFVdo1xBZv7wvwOIYF9soj7CKnv8UQI6KtlNeCBg0rfaNk1egv2YafTL4m2NZ1K10qVe97fuTFrFK6t-RUazExiKOjg_KM5EZ7_dfzjqcyyJ1XlKUzstQENd8vjHvSfwEyATCoZ6kfqTA3Y3gdbxqn5x8T6ETn0vSmdiq5ne9XmLAUgVDaEvkdyCCeOEeUR7iFyS7i5lZue1xAa8lKTLiSSg17NPhlLOb_WoBLgxChhESS4LE-GVLwb4JVdrFVwyaXTJuzCV9EiN8WUVvbJw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هنوز کسی مسدود شدن سایت فوتبال ۳۶۰ رو گردن نگرفته، اما سخنگوی دولت گفته "هرگونه انسداد، تعلیق، تحدید، ممنوعیت فعالیت سکوها و کسب‌وکارهای دیجیتالی پس از اخذ نظر ستاد راهبری و ساماندهی فضای مجازی و دستور رئیس جمهور شدنی است" و "این موضوع یکی از دستاوردهای رئیس‌جمهور است"!
 🔗
@@ -852,7 +867,7 @@ testflight.apple.com/join/cRSCr51a
 </div>
 
 <div class="tg-post" id="msg-2523">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oyv16uycEoFHZFI-0dJISPSZT1D4DBUAyDSJjJSFb14cLSK-jt9tsuFxJVJdTCEqb0BJfE-z8lGIs51uFZ6jtzFzR42lo_kde8GQunIppaGNcOcFi4HulgM0U_3SZDOZKZ5BldYnRJcQz6nWTGLbAQv16jkO9UHp8jfWq0zx2MqTJNtjWzwpcRBY8tfi7GmRfwhyohKKmwUn2YHGRZTM8sGYfM0JMSs-k9vzPkgYLQrh4lDrYVfj0axLdTo4CF_m8BqEF8SCbE7JVQ4rxqhwlt4sKW3-NWQ-f770K80InksqPhvFrkBdWb9ipk9UNcwcAtDVPYMl9tK2vJdkOgBTuw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ AetherST Tunnel یک فیلترشکن متن‌باز و رایگان برای اندروید هست، که با ترکیب هسته Aether و SOCKS5 مبتنی بر HEV، امکان اتصال از طریق پروتکل‌های MASQUE، WireGuard و Gool رو فراهم میکنه.
 👉
@@ -868,7 +883,7 @@ github.com/immaghzbad/AetherST/releases
 </div>
 
 <div class="tg-post" id="msg-2522">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rR3xj3xSROrw7AAsvI3ZZ_6EdHz-9C-pVefnXlzSaIyPZ9m8tdTyNIlVFHBy8XOA0gJoSKAgpPtF8sHUEG0FRadqCMpR-WGlBmN5zVdvfvaL4bkqPdFhJQkY1NvsY9A383zVpabMx8zDuphRDwdwUXRPbJixl25Iws9pb2NzXrRCOYalKAG3vUeU7D4rhfLB0SyHHSAUh0h0RsfW-eJC_PfPXwin2aQRr4BxsIOKW9N_Wu87t3c0CEszjy6ijcWxkPVRyB9NeKb49npNfETmWCmSQ5axSlugdM8ddoUQPOqmM5hnRWluIynVywzPh4inv_NsgwYVwTMZV3eq8hIkOA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از چندروز آینده بخش جدیدی از قانون هوش مصنوعی اتحادیه اروپا (AI Act) اجرایی می‌شود که شرکت‌ها را ملزم می‌کند در موارد مشخص، استفاده از هوش مصنوعی را به‌صورت شفاف اعلام کنند. بر اساس این مقررات، اگر محتوایی مانند تصویر، ویدئو، صدا یا متن با هوش مصنوعی تولید یا به‌گونه‌ای دستکاری شده باشد که بتواند کاربران را درباره واقعی بودن آن گمراه کند، باید برچسب مناسب داشته باشد.
 همچنین چت‌بات‌ها باید به کاربران اطلاع دهند که در حال تعامل با یک سیستم هوش مصنوعی هستند و محتوای تولیدشده نیز باید دارای نشانه‌های فنی قابل تشخیص برای سامانه‌های دیگر باشد. البته استفاده‌های ساده مانند اصلاح املایی یا ویرایش‌های جزئی معمولاً مشمول این الزام نیستند.
@@ -884,7 +899,7 @@ github.com/immaghzbad/AetherST/releases
 </div>
 
 <div class="tg-post" id="msg-2521">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hPEISV_v97tmzpWApH0MjouPXV5Wm1F9SrMkkFfU4WHZ3IBXyy8RN9O6cCauzEE-XF3bP0a4aPZL9vq2j1rUPrKKeFFi97adjpHcw9n2WCw1BWYlf4Qq1TbaZz8680TdzAOFpryrlxbzyVrNXzfaTMX16wHxVXZHNBpjVs5mk5JXxTqWipNtsLIxAxTaC1esNY7-7rZ30MvOqYRt01SqxhirW-5utJ7Wy-XSIsQHsUsOKaswt6KLRm70t8axxboV8oaOh3ZWApEcAAgPjd9FO9A53fHYmNetNZBcAJFJ-6099sQ6MebWWMAUCcdFkjDZXuH3CxdniMQ-6uuFTltHpg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسپرسکی از فعالیت تازه گروه هکری تحت حمایت حکومت ایران به نام Nimbus Manticore خبر داده، که با نام‌های Mirage Kitten، Smoke Sandstorm و UNC1549 نیز شناخته می‌شود.
 این گروه در حملات جدید خود از یک Backdoor ناشناخته ویندوزی به نام NightLedger و دو ابزار Tunnel با نام‌های BridgeHead و ArcBridge استفاده کرده، که قادر است اطلاعات‌ سیستم و شبکه را جمع‌آوری کند، فرمان اجرا کند، فایل‌ها را سرقت یا حذف کند، Processها را شناسایی کرده و از صفحه‌نمایش Screenshot بگیرد.
@@ -903,7 +918,7 @@ PingChannel
 </div>
 
 <div class="tg-post" id="msg-2520">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">فیلترشکن
 #دیفیکس
 در نسخه ۵.۸، هسته وی‌وارپ رو بروزرسانی کرده و میتونه به دورزدن فیلترینگ از طریق متد مسک روی بعضی از اپراتورها مثل همراه‌اول و مخابرات کمک کنه. همینطور مشکلی که باعث میشد فرایند اتصال در همون ثانیه‌های اول با شکست مواجه بشه، در این‌آپدیت برطرف شده.
@@ -922,8 +937,8 @@ github.com/UnboundTechCo/defyxVPN/releases
 </div>
 
 <div class="tg-post" id="msg-2519">
-<div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/BFHhI1sIh5O4mzSeSQY6A4UdUQencibqCx42P-E7Z17izjcxiF19rnkFUWHX3GXap5fafN3PqIg9un-wT4FWaHjnWVwKmK5mX3HM3WVquwDRGHzwq-VriaKS9c2x8sDIsAJVsVWoOW6CGo6RBT48rimdhhX_3yjZwVzagE1ozq8F3472hpncskfjfRtINNJ6zAMs2dFW7zJmy4qQIt9LUIyYIVh_rnkQZJ6V3UrYw0fQPylUHnpiF3DG_a2Yplp1Ri3bUQuRshwL7XuamyA079zczJy3-dn812vqa1DS5p80KlFl6kcUHA7-sIlAVf1ENjmVaSPSkvwR5EA8A5gyMA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uIm-NUHURLA8c91dJ3VYkWsrCLPEnDONA-7b_skzOo8Bm8PvM5YQKtAx5c43hyBS7agL7mp8YzBQI91bpZK35aQhNToNmN3-LFo7VKEDsdfGdQetXmro2pZKCSy6hqC5fDD6uQem3JZxNp5DF6OtVy_hd44E_peFSQRoZP8E0kDN8jTPeQrrt0WcIUetVVBC6B1HcihTRcFYbzD1p3g3D7zRPkLr45cEoiGh7Dy39sDA5R6IC0mIlN4X59LKH0a7KzQgHkT-wnDRfRo9KiHM1iERO7KjvyrUbHYKDMkzw4XgthE1Ngt1wx73duQ_cjYayNlZcF_Hm56K2C_2J43Dew.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ
 #Aether
 یک فیلترشکن متن‌باز و رایگان بر پایه هسته Aether هست، که برای اندروید (AetherMobile) و ویندوز (AetherDesktop) ارائه شده و از پروتکل‌های مسک، وایرگارد و گول و حالت‌های اسکن مختلف پشتیبانی می‌کنه.
@@ -943,7 +958,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 </div>
 
 <div class="tg-post" id="msg-2518">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eNhdhrIa8p3CmW98dH1jv1-mSQ4ZPcf4zocanGRJMPPY39cKVIB1B3uaKpu_nyb5Lx8rho1_Dm7LPvh4Js1F1Nz41G96pUld5KS8ZAN5q9MTSPsXccPr9DNJEA_jrrkiyimz-NkuNo2aUJWVadvyI0NwMY_9BO6iDbaBDobNGMUx94fN78FkleoC-39Rf1CyuFJ3aVHO6dRkdLvqRejCokzF2U35sEfFNSwCPmQNv9b4grlVZupUdDKHJjazeea56kFp6Yyzthj0NPdlqVM7qyTv8hRYC7b5SGq31Z3XZ9A6i7-eWMK_t3qKm8K6by1-eFkYTAorHu6-pRln0xGPQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تازه‌ترین نمودار ترافیک اینترنت ایران بعد از ۲ دوره قطع اینترنت، نشون میده ترافیک هنوز به حالت قبل برنگشته.
 الان دیدم یه نفر یادآوری کرده "۴۰+ هزار نفر دیگه نیستن که به اینترنت وصل بشن"!
@@ -959,7 +974,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 </div>
 
 <div class="tg-post" id="msg-2517">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/urvGnqQnjBoKZQ5FCC3x9Y0nMEWb3oY-a1KHIljIRsm6prOhi1zHZE1hpRO63r_Qs8sL6i8polMysybyHgezBvAx9a68xP1mlmFsqldZTAQfGx6rGSLRmf2FX8JHqXW9T8JIC61bi19TQzAkLCONdOejsRPE_BOhbRoF8g7eTSuv26RCWzdqxJ47eBHtWDjBFIx1XpEyndYmPsV-RmGzXHB-PvyqZMG5zhOv4cM8TU4FwawasN7HRTviNjbTdsQmVigz1g2y7ulki_h_7rc6W_D3mRo5LsTxv6qmuhUjqeM2YD6ekkwoeojb_QtrDlAvP941azsudUeCRilL_nQwMw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر شیرین‌سخن قطع‌ارتباطات گفته "سایت‌های ارتباطی در خاموشی‌های بیشتر از ۲ ساعت قطع میشن و راهی برای تامین انرژیشون نداریم".
 یعنی از هر زاویه به این مرد و عملکرد درخشانش نگاه می‌کنیم، حل مشکلات و امیدواری به آینده فوران میزنه!
@@ -971,11 +986,11 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/ircfspace/2517" target="_blank">📅 18:20 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/ircfspace/2517" target="_blank">📅 18:20 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2516">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OGZle1Td2O7-neJt7hmR5RMtEFpWPPM7ZPNWnr4Lu0xY1NW-jsp0Pz9ebLViftVjj5F8kHksuU3TBvdLdEXALJap6w72nQPxZdoxa9HfjuIR5RPv07gR6IZFjsOuUGB18Bu9gTWtauwBoouGvYKZAae55NtZyw6EedsY9JpwF6r3f5yBxS399Yp2BBnnSHCWQN_5aUuiD7eKAS49B8uQlnnhnMuUeBhYPYQ9m90EE7Uje3qwSuL_Tb2tRhnuqCPl65Vg9ODh5GtBM0gge7ndRNTmzlvRcdsqHs3bdYTDoBp5jTg6pEyDftbEhQbPsKPjWQrYYb2W2ZEtfRSjT3Llpg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">توی هسته ایکس‌ری از نسخه ۲۶.۱.۲۳ به بعد یه سری هشدار برای قابلیت‌های منسوخ‌شده اضافه شده، که شامل allowInsecure و Shadowsocks، VMess، Trojan و VLESS بدون Flow میشن. مثلاً برای Shadowsocks این پیام در لاگ نمایش داده میشه:
 "The feature Shadowsocks (with no Forward Secrecy, etc.) is deprecated, not recommended for using and might be removed. Please migrate to VLESS Encryption as soon as possible".
@@ -991,7 +1006,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 </div>
 
 <div class="tg-post" id="msg-2515">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DW2Bcwpk5vDdUoosrjAn6PBoXGjBUslte19XKot-6OvdEoXsyjQ5Bn64K-JIMkFUXfsvkkfYdsiTRbEsfow91HfgDdyweznTQqn8WhM6MrrvMQftDB0fKifSrdufLiwATFPX6O3JT_V5B-YSfB8gpFxprivkymKp9TSo8-QVwUcmgk4BG0C_mKpMWS6aT-Tk4AYMbQiIAY8nMnPG84TCyjMd2w82iIhy_ZJUjdtc80i1jBaZcBr65MQYp0qNGYLBiiO3UbPQkgwFT5_ghiWdxMI-ZQIlMj59Q_TL1P6KRducg0Yha6kADGClZDOMBTLYUOiifpPIk_d9LHwjXsv-XQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت دسکتاپ v2rayN یک بروزرسانی امنیتی اضطراری منتشر کرده و از همه کاربرا خواسته هرچه سریع‌تر برنامه رو بروزرسانی کنن. این هشدار در چند ریلیز اخیر هم تکرار شده و توسعه‌دهندگان تأکید کردن که نسخه‌های قدیمی حتماً به آخرین نسخه ارتقا پیدا کنن.
 در توضیحات این بروزرسانی اومده که "یک آسیب‌پذیری امنیتی بحرانی در دانلودر داخلی نسخه‌های قدیمی برطرف شده، که می‌تونست به مهاجم اجازه بده فایل دانلودی رو در مسیر انتقال دستکاری کرده و به جای فایل اصلی، فایل مخرب رو بهشون تحویل بده".
@@ -1008,7 +1023,7 @@ github.com/2dust/v2rayN/releases
 </div>
 
 <div class="tg-post" id="msg-2514">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Ja8EKESnWer7MFwL21Ho6-fqZjezzlc4Xvm-aXDt-5yhbe4H6E1e__J4_nMSUGeAofIDJuYELSa4G4z0mHxvAOQZa3VCF___YkIHhrDfojgOwPj3fOPoQ5g-GXEN7qbolIHd0oERCELYJanxs3qon1CUjK30Eb2xlvHPaerKO82sM2UXA2CyVsdGRrrHW2zFyxt9c1Gz1HUFI6rBr_tEZv6UH-fFrk5yNoXo5iuFFNz_Vqpx0-ZmTnR_1dL45_qvoyh3IQFCy5NV-bMocr3FKQy378LQpbKPJ5SkojHPuGeO92MC161aAgbTpMNTLNHQ_xCrau62miDNz3BIQNBQQg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قطع اینترنت در راهه؟
 🔗
@@ -1018,11 +1033,11 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 43.7K · <a href="https://t.me/ircfspace/2514" target="_blank">📅 19:00 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/ircfspace/2514" target="_blank">📅 19:00 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2513">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/k8u-x6UrIe7Hz-pmb4X1ShpabxTS5Al2mHek0QUUUiQcE_8H1kilKSubsf_ZOL3aqzYtZd2scRDtlZz9Z7i-_huJbPu2-4dnrK3ns2K5w2CBb77F1CcAmVI9CKgshrY88ptKAJKWMuDPlKQafRN4lZVOq1rvhjr8rPajcNtJB2-gwt2kzCFLfQ2po3dmn_X_7WK9ACQB7V4Xljy3h9zak2iHmsafZL2zmKfNPVwb_qNlIgaGsEif_sRLRAAQ11NzPUDMtsGvGT0bVPZtDn42zu54lYApReUYkePlWl4sLm9KOY7PDrbp4fngTJCaiVZ3nmGbZ9FbQV6ZT3ZGqNvypw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبلیغات تلگرام ابزاری شده تا بعضیا مرزهای بی‌شعوری رو جابجا کنن.
 هیچکدوم از تبلیغاتی که توی کانال نمایش داده میشن توسط من ارسال نمیشن، به هیچ‌وجه مورد تایید نیستن و اگر سرتون کلاه رفت یا امنیت و حریم خصوصیتون به خطر افتاد، مسئولیتش پای خودتونه.
@@ -1037,7 +1052,7 @@ github.com/2dust/v2rayN/releases
 </div>
 
 <div class="tg-post" id="msg-2512">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/U6u2nch_JfTypobNEIIVp0-B6X45HXjyO3zx2sitjWKYkcm6VjPsW2XLiOq0tmCtbQaYbBdu6N9Msp9-q-SdqlAsu7nymZ9NIpXKjRBDOfFg-yTuDLmZOP5rSf0gSWX2DLVx4opWb2QwYJ9UxYP0b4qJqmzq79Z3oPHmO6-gsLYQ5GPmG8UZ1VYa9VSXPTnnRFm_eN7XursD59pWuVnDD-QYQCSb9Y3kCtpiAJrRT4gwacDv0ZLGajC2Iyu0k8XYTFCtmu8tQcry-5BVdDcc3xutEp2rfJkv-dQ59-tvTCanSAxqqNc9iA1NU5PvbT7SCBhdr5YenfRu7jlPD5zPww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">انجمن تجارت الکترونیک ایران یه بیانیه داده و نسبت به تعلیق دامنه فوتبال ۳۶۰ در رجیستری ‎.ir اعتراض کرده.
 اصل بیانیه قابل دفاعه، اما امیدوارم برای کسب‌وکارهای کوچکتر، استارتاپ‌های کمتر شناخته‌شده یا پروژه‌هایی که بدون پشتوانه رسانه‌ای قوی دچار مسدودی دامنه یا محدودیت میشن هم کوپن بسوزونن.
@@ -1052,7 +1067,7 @@ github.com/2dust/v2rayN/releases
 </div>
 
 <div class="tg-post" id="msg-2511">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">ساترا گفته نقشی در فیلتر شدن فوتبال ۳۶۰ نداشته و قوه قضاییه اعلام کرد مسدود شدن این سایت ارتباطی باهاشون نداره.
 وزارت قطع‌ارتباطات هم طبق معمول نقشش فراتر از هویج و سیب‌زمینی نبوده!
 🔗
@@ -1066,7 +1081,7 @@ github.com/2dust/v2rayN/releases
 </div>
 
 <div class="tg-post" id="msg-2510">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mVzeQ4kPi3DmhgT3fdJk4gyfyi_Mi83scd9jtmyan2b7fqteI1oYzis_s_zrro5u7VaC_mYGtHUqWHw26k-dr1JSfRSpGwpcrcTddbsYx_4lAIgQEqtONkwJ8J_Vq5z1opggc0TbflpoNA3oT76ymS2nlcj6SmcfwP3Irf_Kf-Y4Z9ce8dijsmabzpnpvy0KbHwO5iL8XPDLudX1mgD8XKWad9BUY-f7sd1XL92h3EmTaFmhr_14DX6a0W3XyCHnjmO2fQJvZp8FrKtQlAVP5wZRPqDZ3pzhW39tEGZdmVUNIeK_hYr6kPq3BTD9LRnPmdvrgAWM77YM2UfXEHZ8OQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ ShineNET VPN یک فیلترشکن رایگان و متن‌باز برای اندروید هست، که از امکان انتخاب هوشمند سرور بر پایه هسته‌های Xray و Aether برای دورزدن محدودیت‌ها استفاده می‌کنه.
 👉
@@ -1082,7 +1097,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 </div>
 
 <div class="tg-post" id="msg-2509">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sUDwo_izx3L878Fa9p5EHVVpmtkHAlGasxXR-qOGUnuaToNbrchSugIWgNNoLyqEkdTFMAOiuoY-ZsJgAKMJtbt3tTvU5sTD4YStb6RKRXfXX08uQtUst0B85QJoDIgQnzOkj8_RRGzRCduYy3MCvqVuhsYN2e71teCb-MLYqj6KJrAq35ssvFop-nUth0eAVkhI7FeFkjDbcl6I1zDaw44W38LbjBwWB7BRFphPA21Lf9IPhxTyvCQh6y-PUy680RyoveJ6USnd5lPZflBI2v2V9qQ-2Xx9m6bYCVKNn7S55ulsmdXzNDk527F4bL4kw9brDLQPNhBwgt9iM4v8Ow.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سایت فوتبال ۳۶۰ عادل فردوسی‌پور توسط قوه عاقله فیلتر و دیشب چند دقیقه قبل از شروع برنامه زنده از دسترس خارج شد.
 هنوز علتش بطور رسمی اعلام نشده، اما این اتفاق پس از درخواست سرمربی پرافتخار(!) تیم فوتبال جمهوری اسلامی برای برخورد با این برنامه و یک روز پس از جوابیه به امیر قلعه‌نویی صورت گرفته!
@@ -1093,11 +1108,11 @@ github.com/shayanheidari01/ShineNETVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.8K · <a href="https://t.me/ircfspace/2509" target="_blank">📅 11:13 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/ircfspace/2509" target="_blank">📅 11:13 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2508">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DODtJ9B3iK68iGiPqdotK6EUK77KNr_VYqHHYpIVO6pGCtTeGVXmLs1EVOYZSACBTuhV89fNNWZ8qNBGnyu5Jpvofmsx-k0eDJGxaSH9tkBOqORR8MhX0PNvicF1WsyGmykYstFKOrAta6VfiNBj1-Youj_2eh3wEPCfyDE4vrr1iaU16igNm06P_rX4pcppNTPLafofv5oamNcpKo8eCCMdQMdYIEbZov25xWDYKZy_tt7dqlYCZn6415ALhHnGobvV1uNHr1kXVlaXE8-c2QuIYgLdajePUrjzTluMWirkvMdEqSg-iDn1Y7SHbIeKdSfbYTRscazTir6DIecaMA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فیلترشکن Aethery برای اندروید یکساعت قبل به ورژن جدید از هسته Aether بروزرسانی کرده. اپ Aether-GUI برای ویندوز هم کمی عقب‌تره و ۳ روز قبل بروزرسانی کردنش؛ البته احتمالا بزودی براش آپدیت جدیدی ارائه میدن.
 👉
@@ -1115,7 +1130,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 </div>
 
 <div class="tg-post" id="msg-2507">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NqOsdMhIuSivrOEAbUN0_jRLwxLbYteo9o5JlHMpQeTTGgl3UNGveU06gJQbqK4hb8cvyWvJ7BEbYPqJhGGYoHSHpL8fzLVZ8zwt6tMVzWDM2rWmegHKjZnzF2zQQ5vjUIlDbI7zrc4-HjrUkkN9b5Hnpp394A9ksrHIWMgkknYpLOv7XNvpo3Y2QtoHuA6Qk2bYSSVWqZlXnnCD50bkbZd296x1lEfX2YP1V81XeE3nHISj3rrzHAmBLPuL1pqSNdSsmTidoI11FNoQAutkHaV7dAQ_xNk_jmL1_y3lWw05OGbkStQDUliU6wSia9nHbZw6sSM19FzZSzONnZRHrw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه ۱.۳ از پروژه متن‌باز و رایگان Aether منتشر شده و مهمترین تغییرش اضافه شدن حالت اسکن Ironclad هست. برخلاف حالت‌های قبلی که فقط بررسی می‌کردن یک اندپوینت در دسترسه یا نه، این حالت قبل از اینکه به یه سرور اعتماد کنه، یک تانل واقعی برقرار می‌کنه و یک درخواست HTTP از داخل اون عبور میده تا مطمئن بشه اتصال کار می‌کنه. البته این روش زمان بیشتری می‌بره، اما در عوض احتمال وصل شدن به اندپوینت‌های خراب یا ناپایدار رو تا حد زیادی از بین می‌بره.
 توی این آپدیت روند اتصال مجدد هم هوشمندتر شده؛ اگر ارتباط MASQUE یا WireGuard قطع بشه، Aether دیگه برای دور زدن فیلترینگ مستقیم سراغ اسکن کامل همه اندپوینت‌ها نمیره. اول همون اندپوینتی که چند لحظه قبل روی اون متصل بوده رو دوباره امتحان می‌کنه و فقط اگر از دسترس خارج شده باشه، اسکن جدید رو شروع می‌کنه.
@@ -1128,11 +1143,11 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/ircfspace/2507" target="_blank">📅 16:53 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/ircfspace/2507" target="_blank">📅 16:53 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2506">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">پژوهشگران امنیتی Insikt Group وابسته به Recorded Future از شناسایی یک کارزار جاسوسی جدید خبر داده‌اند که با استفاده از بدافزار MarkiRAT، کاربران ایرانی را هدف قرار می‌دهد. این عملیات به گروهی با شناسه TAG-182 نسبت داده شده و طبق ارزیابی پژوهشگران، ایرانیان داخل کشور، مخالفان جمهوری اسلامی و فعالان مدنی مرتبط با جنبش‌های ضدحکومتی مقیم اروپا و آمریکای شمالی از اهداف اصلی آن هستند.
 مهاجمان برای توزیع بدافزار، نسخه‌های آلوده برنامه‌هایی را منتشر کرده‌اند که برای کاربران ایرانی کاربردی یا جذاب به نظر می‌رسند. از جمله آنها می‌توان به فیلترشکن Pis2ray VPN، نسخه‌ای جعلی از Star VPN، برنامه‌های YESHICA، YEPlayer و YEMPlayer و همچنین یک وب‌سایت جعلی با هویت Starlink اشاره کرد.
 بدافزار مذکور پس از اجرا می‌تواند اطلاعات سیستم، فایل‌ها و داده‌های مرورگر را جمع‌آوری کند، اسکرین‌شات بگیرد، دستورات مهاجم را اجرا کرده و ارتباط خود را با سرور فرماندهی و کنترل (C2) حفظ کند. پژوهشگران همچنین زیرساخت‌های جدیدی را شناسایی کرده‌اند که نشان می‌دهد این کارزار همچنان فعال است و احتمال ادامه فعالیت آن وجود دارد.
@@ -1147,7 +1162,7 @@ github.com/CluvexStudio/Aether/releases
 </div>
 
 <div class="tg-post" id="msg-2505">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">مدیرعامل شرکت آسیاتک با رد شایعات منتشرشده درباره کاهش ظرفیت دیتاسنترها و احتمال قطع اینترنت، اعلام کرد: تاکنون هیچ‌گونه اعلامی در این زمینه به آسیاتک ارائه نشده و خدمات ارتباطی و دیتاسنتری این شرکت مطابق روال معمول در حال ارائه است. /سیتنا
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1160,7 +1175,7 @@ github.com/CluvexStudio/Aether/releases
 </div>
 
 <div class="tg-post" id="msg-2504">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">گزارش‌های زیادی از کاربران در ۴۸ ساعت اخیر در رابطه با کاهش پهنای باند، اختلال یا کندی اینترنت تلفن همراه در مناطق مختلف کشور وجود داشته.
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1173,7 +1188,7 @@ github.com/CluvexStudio/Aether/releases
 </div>
 
 <div class="tg-post" id="msg-2503">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uLtM0KwV6C94m1yKgGL1PDCVoVEpmmK-3OOuBKNDEuQmD9fDq6JCplftfF6yZeap32gp8GDR8qipAE4ucFIsKb1oYQTr2eIMmvDNoZyZKo-ifbiDgMHet90TKeiO8cY8VlUGacRGhMsIo5sYkcFOplgtKwZbeVH4GuocI-82pqSATIba94MHMyE-qv0CifXqcjShQzZUgOYjYn3l5IWgWBcfl73WOB77eqCYg8HiIRacG5dAsL-CUbDn_6hx9K81Suxl9DBjWVYWoL92tlIY0tR0HA1Xo3U1McAzSJ2b--otxnOQHsItymEpz0hV7Mo6rwpESPtsa0s6ewzalCERjg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پژوهشگران امنیتی از شناسایی یک زنجیره آسیب‌پذیری جدید با نام wp2shell در هسته وردپرس خبر دادن، که می‌تونه به مهاجمان اجازه بده بدون نیاز به احراز هویت و حتی بدون نصب هیچ افزونه‌ای، کد دلخواهشون رو روی سرور اجرا کنن.
 بدلیل شدت این آسیب‌پذیری، جزئیات فنی و کد اکسپلویت فعلاً منتشر نشده تا مدیران سایت‌ها فرصت کافی برای بروزرسانی داشته باشن. این مشکل در نسخه ۷.۰.۲ وردپرس برطرف شده و برای بسیاری از سایت‌ها بصورت خودکار در دسترس قرار گرفته.
@@ -1186,11 +1201,11 @@ slcyber
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 42.8K · <a href="https://t.me/ircfspace/2503" target="_blank">📅 18:57 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/ircfspace/2503" target="_blank">📅 18:57 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2502">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">بیش از ۱۱۶ دکل مخابراتی استان هرمزگان در پی حمله آمریکا دچار اختلال جدی شده و خدمات تلفن و اینترنت ثابت و همراه در شمال بندرعباس و بخش‌هایی از استان با قطعی مواجه است. /عصرایران
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1203,7 +1218,7 @@ slcyber
 </div>
 
 <div class="tg-post" id="msg-2501">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">زهرا مرادی، مدیر اجرایی سامانه پیشگیری از خودکشی طعم گیلاس: در روزهای قطع و اختلال شدید اینترنت، روانه حدود ۷۰۰ فرد بحران‌زده که به کمک فوری نیاز داشتند، امکان برقراری ارتباط با سامانه را از دست دادند. برای تصمیم‌گیران، شاید اینترنت تنها فشردن یک دکمه باشد، اما برای سامانه‌ای مانند ما، این شبکه تنها پل ارتباطی با انسان‌های ناامید است. قطع کردن اینترنت، فاصله میان زندگی و مرگ را کوتاه‌تر می‌کند. وقتی شبکه قطع می‌شود، افراد آسیب‌پذیر دیگر نه تریبونی برای شنیده شدن دارند و نه راهی برای دریافت کمک‌های حیاتی. /دیجیاتو
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1216,7 +1231,7 @@ slcyber
 </div>
 
 <div class="tg-post" id="msg-2500">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/rKPDu8jJt-Gp50FRF6LSuwCiDv9wAce1nypPDaw2TTceXG4Co6tayxPLOAFWN7ctcgYGkO0SrE8TxaFOCLhKaDLSWh9ks_rrnJuT18_pP0iSQATr-dvL91cgIQxSYuAlBQ4M3XSOv83T6wprC2rmI0VV09DuNIiNLA-2gtUmaQJvzzF7reJvehpkFBUWAXg9lORVTWoWfIFUVbnsorlWeKO4Kirtn8VkRQkaNIBRAb3FRRRsiO3j2mnkip6qT_tvCf1Z4ZfHYspb70NhuhhwWPgYJ-gVNt5bWfbmZ5OozFbZrrb8RoQGR4BPROtkoDL9N3d9F2lKef_Y02E6Nq_WFQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگرچه قضیه ترند شدن "لغو عضویت جانفدا" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه "وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها".
 🔗
@@ -1230,7 +1245,7 @@ slcyber
 </div>
 
 <div class="tg-post" id="msg-2499">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/E6fdeKzcyWT2lQ3CCSUEe0E0UsU7ZGomQDiEdy_BIs3xqHQC3BVDriD4hhEo6N3b6V71TBYCCaJ5nAC-iqD2JALAQaOYOLNF2nCGr3rhYqpDzyb0QcY_bh3LZ8yrfyEwzXaTRw8ximg_w3pEmuUDOxu4shlVwuMfbtUNIXcXyFUIfSAavfeGVLYPtZpTOSyAeu5Ieen3Y3f1uYp63h2kpbPEMpFaAfrhui1RG6j5PW_zthlrCTUod4jJ1DfYOU0FEzluSZ65_Zb4upAo5k-p6zSM3Ha_SOV8ht1wnCdG75kW3tPhG9ccOJwVcm6ONlYdZkIJjT6th6RtJ0o0R18EGA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ dicodePing یه کلاینت متن‌باز و رایگان برای اندروید و ویندوزه، که مدیریت و اتصال به کانفیگ‌های مبتنی بر ایکس‌ری رو راحت‌تر می‌کنه. این برنامه از مدیریت سابسکریپشن‌ها پشتیبانی می‌کنه، می‌تونه بصورت خودکار بهترین سرور رو بر اساس latency، jitter و سلامت اتصال انتخاب کنه، از حالت TUN/VPN پشتیبانی می‌کنه، آمار لحظه‌ای اتصال رو نمایش میده و امکان تعریف دامنه‌ها و برنامه‌های خارج از تانل رو هم در اختیارتون قرار میده.
 👉
@@ -1246,7 +1261,7 @@ github.com/mcodersir/dicodePing/releases
 </div>
 
 <div class="tg-post" id="msg-2498">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">پژوهشگران دانشگاه میشیگان، دانشگاه نیومکزیکو و مؤسسه فناوری دهلی، ۲۸۱ وی‌پی‌ان رایگان اندرویدی با بیش از ۲.۴ میلیارد نصب رو بررسی کردن و به این نتیجه رسیدن که بخش زیادی از این برنامه‌ها برخلاف ادعاهاشون، امنیت و حریم خصوصی کاربران رو به‌خوبی حفظ نمی‌کنن. توی این بررسی مشخص شد ۶۱ اپلیکیشن بخشی از اطلاعات رو بدون رمزنگاری ارسال می‌کنن، ۲۹ مورد دچار نشت ترافیک یا DNS هستن و بیش از ۸۰ درصدشون هم با سرویس‌های تبلیغاتی و رهگیری در ارتباطن. علاوه بر این، خیلی از اونها هنوز از تنظیمات امنیتی ضعیف یا روش‌های رمزنگاری قدیمی استفاده می‌کنن.
 اما نگران‌کننده‌ترین بخش گزارش مربوط به ۵ وی‌پی‌ان بود که فایل تنظیمات اتصال رو از طریق HTTP و بدون رمزنگاری دریافت می‌کردن. این ضعف میتونه به مهاجمی که روی یک شبکه عمومی مثل Wi-Fi رایگان حضور داره اجازه بده تا اتصال VPN رو به سرور خودش هدایت کنه و تمام ترافیک کاربر رو بدون اینکه متوجه بشه زیر نظر بگیره. به گفته پژوهشگران، ۲ مورد از این برنامه‌ها این مشکل رو برطرف کردن، اما BambooVPN، Free VPN و 101 VPN همچنان در برابر این حمله آسیب‌پذیرن.
 ©
@@ -1262,7 +1277,7 @@ thehackernews
 </div>
 
 <div class="tg-post" id="msg-2497">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mqIzfaa7SFmy9smkjv9gvl6L0St0aegTl63Nls-o0ZsL88om8US5zTryOyrm_2TSZ0h2BROXZf_-L6nVPorj3F0icyGIOvz5GdYezctwtDjv96jBaqbhIoq7UUnW9aKgMbfVNW3Ai2C6hh9a58uQHPcko9BR_yea09zsHAke3wubRJJl8cNzqNN_JFyfBpDK8jKA3_KsCtNeWUPS2dqzXofF7fzZCF8UtZqAcoe1j16teRUGm1Nuu_jbIC4o2OdyurElgL3Sltl16vMbajR9YIqUsg_XSkxqq1m6bhSEtq8FOhYx0BuldNRDtEBP2cumyAODDBeMo0zwqh_3vnW6tw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aethery یک فیلترشکن متن‌باز و رایگان برای اندروید هست، که بر پایه هسته Aether ارائه شده.
 👉
@@ -1274,11 +1289,11 @@ github.com/ZethRise/Aethery/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/ircfspace/2497" target="_blank">📅 16:59 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/ircfspace/2497" target="_blank">📅 16:59 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2496">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/YXnjuV9y-nLTErl1NdMfKJ7-XzsuC8V54vEL3o6BYW3EU1VHU-zhGfjFekBRgmEI3HqDCsMAiyLiTC4yUZeIVnYpSYL-r4tILe0mf20oa2Z7n5bmlFS0ZMPdM--UnnT2nyprenXu8PWbDgCNSzxoPhXdclevX3ehgxJxH0q-aamA4OlMWXSkN9AM05JXhWs5blDE2b_TO-umniGJfrFX6Tnemi6ak29THmEgZr2-k5-08xhTVzmwfDMEf7RjOCU16PIEEDZFQnG5tgKp6i39cXCWmNkp9XGGggBzcVlk1SefFk58Tnd2gIcLbZps4iBL2M5kQxO-cS_EwB6M0AufIg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت رسمی Sing-box برای سیستم‌عامل ویندوز بصورت پیش‌ازانتشار عرضه شده و طبق اعلام توسعه‌دهنده‌ش، همون تجربه‌ای رو ارائه میده که پیش‌تر در نسخه macOS در دسترس بود.
 👉
@@ -1294,8 +1309,8 @@ github.com/SagerNet/sing-box/releases
 </div>
 
 <div class="tg-post" id="msg-2495">
-<div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/UpOe_ThRHph0ndDPxurKrYda5jYyg6MjmlzOXsveVg0DboVZlO61q5MfvGTg0se50SbLF1nB8wWJk6mft5IkA2NG_-4rrd85JHBAR5HM--2WdGMSZgkEz3kkMClYGjIqC3ZxpqYaSKuHRiuSDkpf2G1MeHOyD5kiM_oLL0I6vjcYyFgtQ5XsYK5DDZxqJSU_KqU7nq-UYFmaCTiV4qWoXuJXrL6ToDNdxqyjMMzeW78ONwTW4PbQyklZ4dZ9NjqZG8XD-zKHfunrAYoTiTXEJGS4Da9oV2ED4DOhVVwTftqA1HEHTLUddCIGu3TIgYeM-CI-BjVk0w6orOqPjBzqaA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HUU3fJ0Ym9XE2dAS6brk4aXdSAyIGKjN8BFbq8oiVDJuN7bxXN6h0nnz8ZPGL5nQYhOencMtEFZnYCMdfrFGYI5jzVmq3Y2ceflYJsGr7xQ_PS5moD-ej7WJqntfqB-TFwSrKF5vpkjL9rcGNcDUuYnHANp7IRzncN8DIss66V_LoI6bJtPRgtQ6SHC_4Kp_7x49zNrkDnPckhULu2iGgPZOWkKp_NqfM-ZuH9Otgpyh4cQkfVg8pi7xPae8or08sz1Ni6UZLiMhrwF74xL3J2U2sBxOFWZB85hAuZr4EaJ4ZIcfQSFcksu3TDgwGqGWf-eh7nfczf7h6Sdz6ToqCg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aether-GUI یه واسط گرافیکی برای هسته Aether جهت دسترسی به اینترنت آزاد و دور زدن فیلترینگ هست، که دردسر سر و کله زدن با محیط ترمینال رو برای کاربران سیستم‌عامل ویندوز حذف میکنه.
 👉
 github.com/MatinSenPai/Aether-GUI/releases
@@ -1310,7 +1325,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 </div>
 
 <div class="tg-post" id="msg-2494">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mJSmrCR_sZZHAXaXVIedLKljuQfi694fR_kaQ35tSrvE04OclhWvwXAjScVgeCpLKx3p5PXiYg3piuqpotMOxaZZbV1MPXCuGRUcDA3WfBrxusn6jkYohAngT1fx288eLadvG2-wZ-YdSiLc3QWVKWa7W2GuLspIx5rzrWQ_7ptaX7hC73hMuq2ubBopHedhooNzosoDKMJRqyBjTxWD6DC5wMZnENc_0yMv-I7pB_z7I8pWuRrOmbefZMUQGpve-ERu9BQcAFWmPrBn_y26dmmFfci4FYf1q71n-NpVMLueS3e0idG5EHEiSX_8Tu1JkIrvW2YRrn1DZgtqkOwLCw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایکروسافت در بروزرسانی امنیتی جولای، بزرگترین بسته اصلاحات امنیتی تاریخ خودش رو منتشر کرد؛ بسته‌ای که ۶۲۲ آسیب‌پذیری منحصربه‌فرد رو در Windows، Office، SharePoint، SQL Server، Exchange، Defender و سایر محصولات این شرکت برطرف می‌کنه.
 اهمیت این بروزرسانی صرفاً در تعداد خیره‌کننده آسیب‌پذیری‌ها نیست؛ دست‌کم دو Zero-Day Vulnerability پیش از انتشار Patchها، عملاً در حملات سایبری مورد Exploit قرار گرفته بودن.
@@ -1327,7 +1342,7 @@ PingChannel
 </div>
 
 <div class="tg-post" id="msg-2493">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fZ2ycqgE-kJ2kt5NuA6c6KGseoQz1zQsJsG5CWv-F-Y5erCge9n_WGkdYRV_JL_6xUR7z3RVOT3Wifu_QjYx2Q11ngXLu017Qkuqa7NjbSn7PrrPcvygeP_Uu8RvPeDsMGk9hymsxdtMpozpkmbWPyx8BT816jyDyKxZ1suQEBW75TL_4kkky1RCKTcb6wZF767qsu_461Q1CM3_yrjjQ3HS2m3om9lNCViNgXSsaZY-mW1ccKzrgaqi4vroba1s4f6q5gO2hKVLQZKPd5NXuX1rcyt16N7qA1r2HP-E5rShYgaXUGrnhYEHhNMyV5QbSy9pcSyTKvhkgDubAW6ZgQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پروژه Aether یک ابزار متن‌باز و رایگان برای دسترسی به اینترنت آزاد و عبور از محدودیت‌های شبکه هست، که با تمرکز روی سرعت، پایداری و مقاومت در برابر فیلترینگ توسعه داده شده. این پروژه با ترکیب وایرگارد، MASQUE و WARP-in-WARP، ترافیک رو تا حد زیادی شبیه ارتباطات عادی نشون میده و به همین دلیل روی شبکه‌هایی که از DPI و روش‌های پیشرفته فیلترینگ استفاده می‌کنن میتونه عملکرد خوبی داشته باشه.
 یکی از قابلیت‌های کاربردی Aether اینه که خودش بصورت خودکار اندپوینت‌های تمیز رو اسکن و بهترین گزینه رو انتخاب می‌کنه؛ بنابراین نیازی نیست که تنظیمات رو بصورت دستی انجام بدین. بطور پیشفرض هم از HTTP/3 استفاده می‌کنه، اما اگر شبکه‌ای QUIC یا HTTP/3 رو محدود کرده باشن، میتونه اون رو روی HTTP/2 قرار بده تا سازگاری بیشتری داشته باشه.
@@ -1345,7 +1360,7 @@ github.com/CluvexStudio/Aether/releases
 </div>
 
 <div class="tg-post" id="msg-2492">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/g74xwmfzcOAl7X-HPBEv0JrV4k4nWv-bK2nZIQRgztdwK8MKAh7_GKXcDLgf7__FAmfOcz7jGuMpEBi7jaF3ua4xvxkWR7siC48MwjnBYVsi73LUwifdtkgMERbtPuGsSuHHdSH99ClefpubSzr9xBzIgNxs5PViI-E70X4b3SN3JP_YUMx6f1md1KtmEwQssMu165TN2on0g1UGFQx-lXLhGBpbWDPHlmRF5ZWiawby1tAVpvWeNzUbQ9XN21DALmcYjzfPhmfpmAH7nM338DUgnO97lKcVeFRPOb92ywC3FsB8dY32zjBT9aT9oeIxfpEmtwURruE1-HoGnB2Jug.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دامین
 t.me
@@ -1363,7 +1378,7 @@ Linuxmaster14
 </div>
 
 <div class="tg-post" id="msg-2491">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">نزدیک به ۵ ماه مجلس تعطیل بود، آب از آب تکون نخورد. ۱۵ ماه وزارت قطع‌ارتباطات هم تعطیل بشه، وضع اینترنت بدتر از این نمیشه!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1376,7 +1391,7 @@ Linuxmaster14
 </div>
 
 <div class="tg-post" id="msg-2490">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">دیروز کاربران گزارش دادن که IPv6 بصورت محدود روی بعضی از سرویس‌دهنده‌های موبایل باز شده. همزمان گزارش‌ها از اختلال شدیدی که روی اینترنت موبایل و ثابت بصورت منطقه‌ای اعمال شده، زیاد بوده.
 در مورد اینکه آیا با از سرگیری جنگ ممکنه دشمنان داخلی اینترنت رو قطع کنن یا نه، نمی‌دونم. البته قطع مجدد اینترنت از کسایی که ده‌ها هزار نفر از مردم رو توی ۲ روز قتل‌عام کردن، بعید نیست.
 🔗
@@ -1390,7 +1405,7 @@ Linuxmaster14
 </div>
 
 <div class="tg-post" id="msg-2489">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RTeFFM5YKyXziSUbI8qnBYdNx7L0jxK6F3J6UUY_HDLZLivDSOOB6XfQNap3VHn5lZOjiJ0f-8AcsJy6XwqWAbhpJF1ltAOSGaxb4uXssGCgNJNZ1ECn8rSII3503mlFTpBSDBOcAgePJy7QiwXwINLw3BBl66N_6Cc3SPTTYhbKHbdljS2h1EWZfDVZ-FD7xHIGkDofEmaJEi0o2han3Ah_6P-o6gGMw5nVwZbz8uQG-vUQndlw8AYE0QKNpvJATY0RfULKb3mlLw8s87T8DClXeaDdDHZQOMsUfglezvJlh0uVBmtc_rcPk3csmkreUObSJgDjh1f9YqITQchH2Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به یکی از شرکت‌هایی که API می‌دهند مشاوره مارکتینگ می‌دادم. چند راهکار برای کاهش هزینه جذب مشتری یا CAC گفتم، ولی تاکید داشتند که باید API‌ رایگان هم بدهند. پرسیدم چرا؟‌ خیلی راحت گفت: چون رایگان است، طبق شرایط Privacy & Policy تمام پرامپت‌ها و داده‌ها و خروجی را می‌خوانیم و ذخیره می‌کنیم. فکر کردم شوخی می‌کنند. بعدا دیدم نه. جدی است.
 (...)
@@ -1408,7 +1423,7 @@ AdelTalebi
 </div>
 
 <div class="tg-post" id="msg-2488">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/l9Zgo_dbwWdVyI4d_AIRSNEAzR-3Zoczu5K8e9Lu0JID3QlTv4UFf2qF5BQTZyU15RUsReo96-J-vChYzedciDNQaAmq9qU-Ubo_uPAgSCsGOkvS3BGMsX6Hf5ehC-9aj0EveIz9cn2zYJ5DXB0J2IQKGsKAosV-hKrmmLdORHyTNAZDlregZ7ZdXzwI6ahl8Q7kdOTnuf7HaMNQMnDw4t81bJwA3N9hiLtd4h9M_uMlKGp5d395b9FJX9KCaTk2gkC5-ME2WehpK_PsSfy8rLv8Ik8eAcG5kayIIU8j-i9eRTtfHYIlaLLW5uK6iov30atQMUfG2F7-QwZJqF_gbw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پروتون در
 یک مقاله
@@ -1425,7 +1440,7 @@ AdelTalebi
 </div>
 
 <div class="tg-post" id="msg-2487">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">بانک ملی اطلاعیه زده که "کلیه خدمات بانکی و مالی این بانک شامل همراه بانک و اینترنت بانک مجددا فعال شده"، اما ایسنا نوشته "اعلام بازگشت خدمات بانکی به شرایط عادی، لزوما به معنای پایان مشکلات برای همه مشتریان نیست و گزارش‌هایی از تراکنش‌های ناتمام، کسر وجه و اعلام زمان انتظار تا ۳۰ روز کاری برای تعیین تکلیف، نشان می‌دهد بخشی از کاربران همچنان با پیامدهای اختلالات اخیر دست‌وپنجه نرم می‌کنند".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1438,7 +1453,7 @@ AdelTalebi
 </div>
 
 <div class="tg-post" id="msg-2486">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">طبق گزارش‌ها اینترنت در برخی نقاط کشور از ساعات گذشته با اختلال و کاهش سرعت همراه شده و دسترسی به برخی سرویس‌های آنلاین با مشکل مواجه است. همچنین گزارش‌هایی از قطعی‌های مقطعی و افزایش خطا در اتصال به خدمات اینترنتی به گوش می‌رسد.
 ©
 IRRadar
@@ -1449,11 +1464,11 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 95.4K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 95.5K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RFcPx9bwQ5dZnzd3JA_t8dX4f88rQHskocGHRwyXA_jnwshE24szWbUvc4ppL7X0_on7tUFrCNDlkOkpChs8boTL6BCp4CS_4WijmAytFsibuwxqGIkny6k2bJKrIZ7swdWgjeQ6BZcLBhLuPgH9N1FjBwIbqY8Ilyc_Rbsvpl5qoL8UffyGgvdNltu3A9IvNeDT4FO-CfzIDhJ-i2f3hPAuYoYfw8_9ec3NvDownFtKIjVgFAO3s-Mr6haq8BiCAVtm4rVV3Z3lR9NFU9Ewt-LrNMYZSBvXgSayrAgp9sWcuYKczK19WbnJenexSgjRVBNTxAZ8jlqcV_N5Yv00fQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فیلترشکن JumpJump که بارها نام اون در گزارش‌ها بعنوان یک اپ ناامن مطرح شده بود، حالا یک محصول پرریسک دیگه با نام SpeedTop VPN منتشر کرده!
 این برنامه با وجود چند میلیون دانلود در گوگل‌پلی، طبق بررسی‌های فنی پس‌کوچه دارای موارد نگران‌کننده‌ای مثل وجود تعداد زیادی ردیاب، درخواست دسترسی‌های غیرعادی و کدهای مرتبط با شبکه P2P هست، که می‌تونه دستگاه کاربران رو به بخشی از یک شبکه انتقال ترافیک تبدیل کنه.
@@ -1464,11 +1479,11 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 89K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 89.1K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2484">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/D36_VjY5J4noQEZN5HhxkNVIo3-FeN3PVxU1XxCe-FU2LofxPBuPrKmD1fu5kt8RZBjoqkYWBDJtTxOkXhUSxye1s4C8q9YvyZ15i-1IrE6zTjmlzYvXUVzCkbNtRSRddcCUgNHZWROJjQ9_8AHWzPN9IAA0fiW0u0LIPvcyGcZSH2H806jpz-_MPlSt_54WwlothCKLKcnNMUl-qD1-kED-3as1l7VstWCk6ozJOixFcl_Kt1Pxsgc_Qlnyzx0Ov2B-7MrcBPMcXtoU25QR4ss8fTr6tC3MMKt7Y0EPoMo-NVScYcX7s2q2ZHYX2lICmdQLG0BCadMmTHb-C3gE6A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پنل زئوس یه ابزار متن‌باز برای ساخت فیلترشکن رایگان روی بستر ورکر کلودفلر هست، که امکاناتی مثل آیپی و لوکیشن ثابت، دریافت خودکار آی‌پی تمیز، لینک ساب و QR Code اختصاصی، فرگمنت، شبیه‌سازی فینگرپرینت، بکاپ‌گیری و ... رو بصورت یکجا در اختیارتون میذاره.
 👉
@@ -1484,7 +1499,7 @@ github.com/IR-NETLIFY/zeus
 </div>
 
 <div class="tg-post" id="msg-2483">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/D7unG_dpgv9bWNX4aGXldLUBRp3z6gyumBiI15y9oqHEg6JPKPz2vG7PwNeCI7FIgHDV6tfSEKp4YN-QDX-toQt30C5eIXKVFYg2tvNb9O6M4b45cGrgnr1xPFRrPIOMLkIsRK0SnObQaWd1t29lGPKCB4jVMD3VUyZhgRtvHn5ZR632-lIs36hPV_MVsLRbUgmiBLkEwCg2RzHZf4nuFf7HYikXKMn99jzauaNZ2wjRMjOFeH_8a5r2g-Np1UcLp9dkqi8Ug2qmSjYWXMytCRUjJoFeN8-GUE85t8hY9qt38yRwIbrFOD76rnJxfd7nhrja8A5uQ2LZfY-HRx0u4g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایکروسافت یک آسیب‌پذیری روز صفر در Microsoft Defender با نام RoguePlanet رو برطرف کرده که می‌تونست به مهاجم اجازه بده تا با سوءاستفاده از یک نقص Race Condition، سطح دسترسی خودش رو تا SYSTEM بالا ببره. این مشکل با شناسه CVE-2026-50656 ثبت شده بود و حتی روی ویندوز ۱۰ و ۱۱ کاملاً آپدیت‌شده هم قابل سوءاستفاده بود.
 ©
@@ -1500,7 +1515,7 @@ bleepingcomputer
 </div>
 
 <div class="tg-post" id="msg-2482">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AMebzuqdncQhzpd2Gv_JzEvTIMG4UOK50dvU13EeTsY6__PTU9Zk3dGzYxcZcsbLrYOTEIqPGuQ03EWBCqrYhL9gwBhyuK6ZSfARWMK0DPaQh0FdNU0LUUuCfpb_-dt0ahKNy2-NnCTG4xSY1FmeLOc3Sz0p6ig6GwBo5g7Ee_le5mNJ-k520-0OMX40z3ISmY1YlG6I53OlWiSXuN_OAPL_Tbz66Ozt6BARbpoX8h1yB-gC6b75hrNsNqp7i3quUKtF-kdP02hi49lS6jJndtuMzcALRx819dmi9nwDNeKdXVHw5IJRQVni2sq66gVRD4rqh2hJTjA8UXMVY6kVQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت اندروید NipoVPN که برای اتصال به هسته این پروژه و مخفی کردن درخواست‌های HTTP داخل ترافیک عادی وب طراحی شده، حالا روی گوگل‌پلی در دسترس قرار گرفته.
 👉
@@ -1518,7 +1533,7 @@ github.com/MortezaBashsiz/nipovpn/releases
 </div>
 
 <div class="tg-post" id="msg-2481">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ongtqBRLVENft-NHs4_Zjv9aG8KR5vBvKO-MavU0KoOvzjrnD14GMieeLOz5nSBuKnPGZx5f07aJYJ0JeKrESlY0C9uHZDi1Pd0M820VoLlibhv3Fuan-zz16L9A9HXeFn3jjmbxw3CrcWu9VAt5xJjJmGUy5dOcJ3fM8BBaSrrN_ZTbJMsPGxoA1SfdvZTvbloSGOk1481tUFZ3BWmf0DrZXZgPKtr01WQDVVqtjBkdvyrAIuwzlBZ4PE9mbQ94KmcwMYXQmAicOz4CTj-ns2w6KuGaO5LiyGt-gJGCP54sgweo2VGMDzmIgbw415qn7ML8SIl6ZZgVA3xvpGeicw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ابزار BG Scan یک اسکنر متن‌باز و رایگان برای پیدا کردن و اعتبارسنجی سرویس‌های شبکه هست، که اجازه میده چند مرحله اسکن رو به هم وصل کنین و عملاً خروجی یک مرحله رو بطور مستقیم وارد مرحله بعد کنین تا فرآیندهای پیچیده راحت‌تر انجام بشن.
 این ابزار از پروتکل‌های مختلفی مثل ICMP، TCP، HTTP، TLS، DNS، DNSTT، Slipstream و Xray پشتیبانی می‌کنه و علاوه بر اسکن، امکان اعتبارسنجی و مدیریت نتایج رو در اختیارتون میذاره.
@@ -1535,7 +1550,7 @@ github.com/MohsenBg/bgscan/releases
 </div>
 
 <div class="tg-post" id="msg-2480">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/bQS2uVn09mRDWPdxzenyCoJgCOiCsGZXrFb6lHwPs93zBDfOX1FH-gUukgjFhA7yyGXaTfH_StLN8-sjVogbzOS4gy1vZOcHCL98-FIS1WxdJsRoAJ7pUPxGJ9fHbh_NTiXSIdjY0eYctw3gnH3ORKYzCadh3hAU7ng_5pG_Xl5IZv3I9_depdy8LmPbSUG1YE0ao5OzdA80a8Mx0ChBLWvsWaMOwj_561JNuwgS2_MfwyheOc0k2-DazgN-HNbMHrL69ZEzrC3B0TzkvNTW4YgYROIZJk5uRDyE77HQgwmeEODwBTkEGRd2CkXbm5BlLJsLGe6ijZDHR6vvgZpXzw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاوه یه ابزار برای اسکن، استخراج و اشتراک‌گذاری کانفیگ‌های فیلترشکن هست، که کار پیدا کردن کانفیگ‌های سالم و به‌روز رو راحت‌تر می‌کنه. این وب‌اپ میتونه چندین کانال تلگرام رو همزمان اسکن کنه، کانفیگ‌هارو بصورت خودکار استخراج کنه و در نهایت یه لینک سابسکریپشن بهتون بده تا مستقیم داخل کلاینت‌هایی مثل v2rayNG، v2rayN، Hiddify, Streisand, v2box و ... وارد کنین.
 توی کاوه می‌تونین کانفیگ‌های خودتون رو با بقیه به اشتراک بذارین. علاوه بر این، حذف خودکار کانفیگ‌های منقضی و امکان رأی دادن به کانفیگ‌ها و منابع از جمله قابلیت‌های این ابزار رایگان هستن.
@@ -1552,7 +1567,7 @@ kaveh.yebekhe.workers.dev
 </div>
 
 <div class="tg-post" id="msg-2479">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XeSEz3p474-PG7zedZSUwFYjAcb3T2AtLWXMeItZm734HhJ7uWXvEPZYdZS5vLVvzbsIf7LYxuCAVFNfs00ZmHJKCxKgHZVbdlNp1Mcn2GzeHDFnYPYbtfpv_T2gQWsIZKvIxG5lTWeMwzY6RK9zXPE87RZ53acBqkBbiyrt-mV5e4Eh4BffpG3qUnTekAj7sGQdniE8hwgehOZp5XNzcPhuPK77qvdsi8TRS06tkE130F7LQSLUAb3hP-cCLIc7deseKbTHdl18X2Ll8rFVvCvjX9gnLzVmRJ6kNZe0yXzR1x-Lvchv9URylDHcPvn8JT463CCsjsIqtfRknntc7Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای ابزار MTProxyMax آپدیت جدیدی منتشر شده که توی اون از بهینه‌سازی‌هایی مثل BBRv3 استفاده شده تا عملکرد سرورها بهتر بشه و مصرف حافظه هم روی VPSهای ضعیف‌تر کاهش پیدا کنه. همینطور در این ابزار که برای مدیریت پروکسی‌های MTProto تلگرام روی سرور شخصی هست، قابلیت‌های جدیدی برای مقابله با DPI و اسکنرهای شناسایی پروکسی اضافه کردن تا شناسایی و مسدود شدن سرورها سخت‌تر بشه.
 👉
@@ -1568,7 +1583,7 @@ github.com/SamNet-dev/MTProxyMax/releases
 </div>
 
 <div class="tg-post" id="msg-2478">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OwdkV661viUpKDu_lpiOA80F4d7dStM2QQ2ji1F3YnuRrbMKL5BSvxafEd9BbTPicaOzFNt3y3MBDsoiCHkt8MarPG2YI4vx5nva__NQOqp-PEBEcRbQeKgQMBy1UmEuow72RVUjHVYPDV6LuitCBewMDt9jcV9XwsiU1BIcc3JhdO4DPQUpW6h-PL3VA_jzF7LFNN3fbQTak_VcvkeqNokZPt4r2bpDCXCZF_omiG43wuhyTgty3W4z9y2c2TtRQTgm2wbVyzcx78Z8JvpKEaXsm8r7p6gNA51sD4xnT6nq9DZeww9G27TBM0lgNgfPtSZDlKsBOoKkUlAerAHlAQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Intra با استفاده از فناوری DNS-over-HTTPS (DoH) درخواست‌های DNS رو رمزنگاری می‌کنه تا اپراتور اینترنت یا هر واسطه‌ای نتونه آدرس سایت‌هایی که باز می‌کنید رو دستکاری، مسدود یا به مسیر اشتباه هدایت کنه.
 این برنامه فیلترشکن نیست و آیپی شما رو تغییر نمیده، اما چون جلوی سانسور و دستکاری DNS رو می‌گیره، در شبکه‌هایی که فیلترینگ از این روش استفاده می‌کنن می‌تونه باعث دسترسی به سایت‌های مسدودشده بشه. علاوه بر این، رمزنگاری درخواست‌های DNS تا حدی از کاربران در برابر حملات فیشینگ و برخی بدافزارها هم محافظت می‌کنه.
@@ -1588,7 +1603,7 @@ github.com/Jigsaw-Code/Intra
 </div>
 
 <div class="tg-post" id="msg-2477">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jrN-gxu8fgRIMlC4Om6BNQy-BSGIiyvt0uw8099FZjumeqLZ74OWzCT4aSCJ9qeJYyjAAxFEq21XEMTqe_Mr9MYvmyM62smb6K2fd1OmmEkyv4GsoD8XZgMUgH_bkM_h20M5eKw2hfSFVSTDRVevdrS6w0M_kEADLEqj-nWMvd_WDL_OVImqG9WYwK4fMYjXBYS1y9SsDroQ24hloA-uwF6RkpdNfbhHP_Zv5iGkHp_PCWTAGetjD5fwufUWTd31Yx6RJuSTspG7eRp74yxdEdRhOWtbw95HbtbJEFgRie1UBy4r8oPkX40isu0gl_y8pHCRNy23hu-Sin0nvia_Vw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محققان Datadog میگن مهاجمان با استفاده از بیش از ۵۰ حساب قدیمی و غیرفعال گیت‌هاب و توکن‌های دسترسی (PAT) افشاشده، از طریق API گیت‌هاب در حال جمع‌آوری اطلاعات سازمان‌ها هستن تا برای حملات بعدی آماده بشن و ساختار داخلی، اعضا و ریپازیتوری‌های اونهارو شناسایی کنن.
 توی بعضی موارد هم تونستن ریپازیتوری‌های خصوصی رو کلون کنن. به گفته Datadog، چون این کارها با حساب‌های واقعی و API رسمی گیت‌هاب انجام میشه، تشخیصش از فعالیت عادی توسعه‌دهنده‌ها کار راحتی نیست.
@@ -1605,7 +1620,7 @@ thehackernews
 </div>
 
 <div class="tg-post" id="msg-2476">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Kwxp331FajCgX3yQDcFe-4FX8k3-8wZdn-KWL374OdM6U8ZGnPHuHOIqAfgQr87Q3a6G10X1031Su1e1UK493gIPaEycwc0kf35BL1x2Sy2D83dxnY_V1keFY8-yba_tVZX7hH17YaxSiBU3ainNz1Xi-1ZEB9R7PbpK9cwYZFcIV-TfsmHYGX9Q02rAYc5sV1lmdhXXQuNxbbgrUrrcDwt522Ale9LcP-f6zgXRIcvyaBB8e5wyAltZcTxzg9eTwHou2wE4fIPwnqvA5RgBML6zsXxTZDJildDaNzln6qd3jGLDqNkxbTqpBkUDDdI6LLqblYqk9-e85jjUDYgxUw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که "کدوم مدل هوش مصنوعی خطرناک‌تره"، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.
 به گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس
@@ -1620,7 +1635,7 @@ thehackernews
 </div>
 
 <div class="tg-post" id="msg-2475">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VEhBN5A9qFR9Z_FsXgOwLLCYYMdr7Vv1oJ42cdJwxC7SpRb9uQpxUu69YAHh-7T5mJ0-JNljkjoUwN-as_EHYfD3YR-bcXmXUVjNNsAVYnsDYQsu07e4Wm6LiCp1U1AeW0JCjIyIaruaaaTOehk4gN8ZibliSRiAncFX0aFnqyhl-aUf8slywv9fN2EkZ5dNMXMqwaP8Gb0wQnxRJJHyj4OWKLCnMG8cFsGcPq4lITNCI2ZkqkfLTzMI5ImQtrYoWOAJ9yTqy63GbAULRZjDDg71atazG7zeOYHtXjnUlhgAtd3QLNL-E1p3aeDNRcX8_3fs_uzZDTdq4cV6J7-hcw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ GRoute یک کلاینت متن‌باز و رایگان بر پایه هسته ایکس‌ری هست، که امکان استفاده از پروتکل‌هایی مثل VLESS، VMess، Trojan و Shadowsocks رو در کنار ترنسپورت‌های مختلفی مانند REALITY، TLS، WebSocket، gRPC و XHTTP برای دیوایس‌های اندرویدی فراهم می‌کنه.
 این برنامه از قابلیت‌هایی مثل اضافه‌کردن کانفیگ وارپ، مدیریت لینک‌های ساب با بروزرسانی خودکار، مسیریابی تفکیکی، پروکسی برای برنامه‌های انتخابی، فرگمنت، Sniffing، نمایش لاگ‌های Xray، اسکنر آیپی تمیز کلودفلر، امکان تست کیفیت اینترنت، بررسی پینگ واقعی، تاریخچه مصرف دیتا و ... برخورداره.
@@ -1637,7 +1652,7 @@ github.com/SuOracle/GRoute/releases
 </div>
 
 <div class="tg-post" id="msg-2474">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">آموزش راه‌اندازی پروکسی تلگرام بر روی سرور شخصی ...
 📽
 youtu.be/pyvB6VSPhwg?t=176
@@ -1654,7 +1669,7 @@ github.com/SamNet-dev/MTProxyMax
 </div>
 
 <div class="tg-post" id="msg-2473">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/as-yjVe-0hrDtKP6Owb7oZI1-Iv9ivBbyb1WKVIuz7_mVeJB5jLi249oPlU6x4uK55z3W183TkYiWyOFFlpH-mKlAF1pEu9g4SsUghZ4YjsZBQKw7qq_lvr9qIWX3PL5EY7fgbexnYQVtdgp-O8AlQELhWfMlA__VD2lpGgsdUlraDhISeTgEK8v0HjnuGcGd6uX4QCdbfJTiSiBiBaJSz0d1d6w2Bp4USvCx_Lw_CQB6IjeM5y9PXkuBdOJEa6uks6ziFp1muGslmw3X5uTjdD4nkm_1LAehl2I7ozohKEOY3n6_Px4ZtqFdvx-xrGbaf4UEV9WOMa4PBLazTIwsA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر سیمرغ یک ابزار متن‌باز و رایگانه که برای پیدا کردن آیپی‌های تمیز کلودفلر در اندروید و ویندوز ساخته شده. این برنامه میتونه آیپی تکی، رنج‌های CIDR، رنج‌های دستی و لیست‌های آماده ISP رو اسکن کنه و بهترین‌هارو بر اساس سرعت و تأخیر بصورت رتبه‌بندی‌شده برگردونه.
 👉
@@ -1670,7 +1685,7 @@ https://github.com/rezakhosh78/SIMORGH-Scanner/releases
 </div>
 
 <div class="tg-post" id="msg-2472">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ne_pUaTADhmqiOH_biFr0kg916ZgR4Aa4toUHLVkFGz_hCbz-3nAaIdpCNTTwbWmwUduYma5bAFIiJe6pKlP9mkp4gG02v-_Onvszg9DfNu3vNlyMDX_wkHElFVlsasFfYVXEhZt72uPflks7clAxFFm1W0Tqy1G-6xeyg1YnzVSUGXwzhR8uhfPU7GfrF63TkhOk_gcBHiwYidmyUPM3620obfdB89tOAIWoRBJCXu5EKjaTsrkBa9kyYUgCAQWVtkg1eI9EX7GCS3gcWOVF959UXaOnRv4YNPwDdfXdc-koxEQmxLS-41JHB7GyxcoS-sTz-QtQjJVnwlhUtRpjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر Asha یک اپ متن‌باز و رایگان برای اندرویده، که با تمرکز روی پیدا کردن آیپی‌های تمیز و پایدار کلودفلر ساخته شده و کمک می‌کنه سریعترین و مناسب‌ترین آیپی‌هارو متناسب با شرایط شبکه پیدا کنین.
 حالت‌های مختلف اسکن، بررسی لیست دلخواه آیپی، شناسایی دیتاسنترهای قابل دسترس کلودفلر، امکان تست سرعت واقعی از طریق پروکسی و استخراج هوشمند آیپی از وبسایت‌های پشت کلودفلر، از جمله امکانات این اسکنر هستن.
@@ -1687,7 +1702,7 @@ github.com/ashanews9776-eng/asha_scanner/releases
 </div>
 
 <div class="tg-post" id="msg-2471">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">نسخه ۱۷ از اپ
 #MahsaNG
 منتشر شد و توی این نسخه هسته سایفون بصورت ویژه برای شرایط اینترنت ایران بهینه شده. همینطور امکان ساخت، وارد کردن، خروجی گرفتن و اشتراک‌گذاری کانفیگ‌های
@@ -1708,7 +1723,7 @@ github.com/GFW-knocker/MahsaNG/releases
 </div>
 
 <div class="tg-post" id="msg-2470">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">یکی از نکات جالب اختلال ادامه‌دار خدمات بانکی اینه که هنوز چک کردن موجودی از اینترنت‌بانک با مشکل مواجهه، ولی پرداخت قسط با قدرت کار میکنه. در کل هرچیزی میخوای از حسابت برداری، به خاطر هک به مشکل خورده، اما هرچیزی میخوای بذاری، میگیره
 🤡
 🔗
@@ -1722,7 +1737,7 @@ github.com/GFW-knocker/MahsaNG/releases
 </div>
 
 <div class="tg-post" id="msg-2469">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">مخابرات قیمت اینترنت ثابت را سوسکی بیش از ۵۰ درصد افزایش داده و آن را به بدترین شیوه در محدود کردن کاربران و تغییر ویژگی بسته‌ها انجام داده است. مثلا اینترنت ۱۶ مگابیت قیمتش ثابت مانده اما در سرویس سه ماهه، بیش از ۱۰۰ گیگ از ترافیک آن کاسته شده (۳۶۰ گیگ به ۲۵۵ گیگ).
 حالا شما اگر بخواهید تقریبا ترافیک همین بسته را که تا ابتدای سال عرضه می شد بگیرید بایستی ۱۰۰ گیگ ترافیک بخرید که قیمت آن بیش از ۲۰۰ هزار تومان است و در واقع همان کلاس ۱۶ مگ سه ماهه با ۳۶۰ گیگ از ۳۰۰ هزار به ۵۰۰ هزار تومان تغییر کرده است. انتخابها هم محدودتره و برای ۱۶ مگ یا همان ۲۵۵ گیگ را باید بگیرید (و بعدا ترافیک جدا بخرید) یا انتخاب دیگر ۸۸۲ گیگ است که قیمتش بیش از ۳ برابر است!
 ©
@@ -1738,7 +1753,7 @@ alirezashirazi
 </div>
 
 <div class="tg-post" id="msg-2468">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/q6URV4iQkSAtiiYuJuEnf7vyAdKyRlqlVsqQ2-5zCdFhzcz_NS47XpUPkxwK4whyGgdCV7lMt6xgSh2XNl0vyrbPRZMKjznbqfP2jtQDTRIyaxxEN_uyVskbqSCPy701Ex-Wb9jcxsMepISbv-GZo6AqpQBgzAIteAo8wxP_rGv9vMzarDzsp5AAwBFOxziv0uIE64_6eUZnuMiehZCYE6jex__T-Ob3Xy4nK06Kskuta-QuoYOJaWCeycGTut5oZK29vDlkyiwzlyLWoYmgSjw_1UP6U9dRoaW7G_mGmSa3gc_3QYQ98biroPnj-Fc50SDLgZzCNXbdzbjaol206A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر قطع‌ارتباطات (که به تازگی بابت عملکرد درخشان وزارتخونه در دوران جنگ ازش تقدیر کردن) گفته "لازم است با وزارت نیرو برای خارج شدن سایت‌های ارتباطی از اولویت قطع برق تفاهم شود".
 🔗
@@ -1752,7 +1767,7 @@ alirezashirazi
 </div>
 
 <div class="tg-post" id="msg-2467">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">گزارش تحقیقاتی
 HalcyonAi
 نشون میده شرکت
@@ -1774,7 +1789,7 @@ arashzd
 </div>
 
 <div class="tg-post" id="msg-2466">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/dK4wQSCXj6Xzq3hReovjNy-PLog328kf3z_v3jm5BwZmSeWzBBHSU4P7swf-1q_tt92Y1Sa2a1FRs9hoN-al4PmHeFflB-AFjfA74Lb4kMwlN_6aPlmP6M7PgcnBmNe8o_lEdvaDd_rJ_AYS8qJ43HiXiF5Iugj47oBNDRQyGjp_g2hMpfuvTWwj0mhY-3XDLiiDGR4Iq4yU7ymwahvA6o1SWHxPT3RwKnQygavvS_p3Od8oC4B0Ph_mlYLWB4Wp6hZk29oXRlemmK3fmKnfxJreNVjEIlrHh5qaii_c5pIlzfCvDJyfcDruywjGaph16Z_F7YeAAlxQtoEsPH2owQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایران از رتبه‌بندی جهانی اسپیدتست حذف شده. شاید فکر کنید چون دیگه حتی ته جدوله، رتبه بدترین اینترنت هم توصیف مناسبی نیست، یا دیگه زیر ۰ و منفی جوابگو نیست.
 نه، چون چیزی که داره ارائه میشه اسمش اینترنت نیست!
@@ -1793,7 +1808,7 @@ Mehrdadlinux
 </div>
 
 <div class="tg-post" id="msg-2465">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/avBuBJ1cYVS8UaGZoR5_SdAuSHf3FRXAIEX8AZFL8Dn851oopUga-MpD147OHI82pqPkqTc4tBEmmkOZPWhMlwaX0Eov6lmdJcl2IvxPZViE3x2_ue-qCtFifXxihDFGZyWT12qWOf6byG1m8dGfqtoqX4t1zC2qmIVtfQFn-nNjNhlQxVztICK6ANY-xHxgtliiZCUmCa9qnHZGh8cQ-zen7SjCUd94fRC5j2JdnPJ6m6g2ySjcmdTeRpZKxCNMzr9KPSugnkEFoGC3QTMUZc4-rkfMpUjTLk8ew0LWicQfoRgiMaADOKg_pjWRPHF78P5oknFYvEOP0ICcd9UwcQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در این چندروز احتمالا در مورد اکانت ویکی‌تجربه و سرنوشت نامشخصی که برای مالک ناشناسش رقم خورده چیزهایی شنیده باشین. متاسفانه دامینشون رو در ایام جنگ و قطع سراسری اینترنت نتونستن تمدید کنن. بعدش این دامین توسط ابرناک ثبت شده و با یک پیام مسخره و کینه‌توزانه، صفحات سایت تغییر پیدا کرده!
 🔗
@@ -1807,7 +1822,7 @@ Mehrdadlinux
 </div>
 
 <div class="tg-post" id="msg-2464">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mCvGio7VrhTuR48qZgz4nAor5agLsfZNNp2-F25Dllj7MibC_lMBPz7rPPYiN-BEqam1KH40GDIw_3fBofRCqrs0wRCQ2XVExUMRXvqJxx556e_e5IHM6QLA2_DMLcqeNPoAQOWuiqYeepDfK1_EiM2Oiv6I_vxw2A5AAhgXqvlOm_mQtbDnweyzjEvZGEyRHI_Ux5quImgZijHTBsb9SELoPJ5D1aW8wNbyjoQyFyKqHBfiziphhdJO_-FUDbNUIkHCXzD4jYk9wpCJWSw5WtiFoFNuBCrSn6xOsPJB8cA-YixqbcG0eTGMzw-THxqD99RlWALA_bXhY_v8ABHUZw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگر از
 #لینوکس
@@ -1825,7 +1840,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 </div>
 
 <div class="tg-post" id="msg-2463">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XRFKJdSVA9YXI0y2TtN-UKN8ksE_wlBIWGiVHCZ5l_6WMRfNpDhXkV6OD4NmcUn-GCSsCI7uo3W5o3_6TTfe3vWFhg39J-P7dmUg7jfbPI4r4C_kxNHT03-JPCJNQQmPH9Lr03g38wPry9dYUOh63HpRNBWdlpt3oNnnfOSNYt004VAkVP-lAaoVmLFjjfvYBRy60cZhEdvLHTXMA0nqxoy39IlNubBWN_m5JYcLidkvvqrUDlsx24fZ1_TiH9jcKkZvCHJEBPz41TSr03Fth-tUEdxPqpfnmZ1JLFqa_ME_Cb27P60NwkZVrdg41RHn9jmPsCFZfmcvuTvGf469IA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ RedCloud VPN یک کلاینت متن‌باز و رایگان برای ویندوز و اندروید هست، که با استفاده از هسته Xray توسعه داده شده و امکان اتصال از طریق کانفیگ‌های VLESS، VMess، Trojan و Shadowsocks رو فراهم می‌کنه.
 این برنامه تمام ترافیک دستگاه رو از طریق تانل‌های رمزنگاری‌شده هدایت می‌کنه، از قابلیت اسکن و سنجش همزمان IPهای کلودفلر هنگام اتصال بهره می‌بره و همچنین با استفاده از قابلیت Sniffing، ترافیک HTTP، TLS و QUIC رو شناسایی می‌کنه تا عملکرد اتصال بهبود پیدا کنه.
@@ -1844,7 +1859,7 @@ github.com/Devtahas/RedCloud-Android/releases
 </div>
 
 <div class="tg-post" id="msg-2462">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">بانک ملی از اختلال مجدد در خدمات کارتی خودش واسه ساعت ۲۲ تا ۲۴ روز جمعه خبر داده بود، که گزارش کاربران نشون میده این اختلال در روز شنبه هم همچنان وجود داره!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1857,7 +1872,7 @@ github.com/Devtahas/RedCloud-Android/releases
 </div>
 
 <div class="tg-post" id="msg-2461">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-text">الان خرید کردن با کارت بانکی مثل دستشویی رفتن شده. اول باید چک کنی آب وصله، بعد کارتو بکنی؛ وگرنه ممکنه گیر کنی.
 ©
 shokhmatic
@@ -1872,7 +1887,7 @@ shokhmatic
 </div>
 
 <div class="tg-post" id="msg-2460">
-<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">در حالی که با اعلام شرکت خدمات انفورماتیک اختلال خدمات کارت محور بانک‌های کشور برطرف شده‌اند، بررسی‌های کاربران نشان می‌دهد که همچنان بخشی از اختلال‌ها در خدمات‌دهی بانک‌ها برجاست. اغلب اختلال‌های موجود در بستر نرم‌افزارها و همراه‌ بانک‌ها برجاست و این موضوع کاربران را در برطرف کردن نیازها روزمره دچار مشکل کرده است. /ایسنا
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1885,7 +1900,7 @@ shokhmatic
 </div>
 
 <div class="tg-post" id="msg-2459">
-<div class="tg-post-header">📌 پیام #2</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sHTgS-5v1jLbPEkza7dlNA5t5ZKNPq6JIZ5V6EsuYern27Es2pqet8podvZCBSEPGqltD3ibV939nD6XPaKSmYqaeu90FExVA086N79Ed5k5tYrcPC2NbtlrKsseYyDFb_Rl377YxBZPZJpPSwrICR1oF3fxbeLlUcAANfDY902eysl3UfkV0CvT0XguBZ3-QenpQFDlDab7JLiSaKli2bd6Ybz4nxzIsKvKkPucawUCJX-5JiwSUFSGZNZ1CE_F0vVKGxJFTl14WCmKXptYqvN54HGfA8DGRIghXRv9JtwqfDaTgaMfwMlOP3I_EpfS0jbZ-GTmHux-XLObNEFIdA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کمیسیون اقتصادی مجلس طی نشستی با ستار هاشمی، وزیر ارتباطات و فناوری اطلاعات، از عملکرد این وزارتخانه در دوران جنگ تقدیر کرد. /دیجیاتو
 بابت تقدیر یه کاسه دادن دست وزیر قطع‌ارتباطات؛ اما بابت ۸۸ روز
@@ -1899,19 +1914,6 @@ shokhmatic
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
 <div class="tg-footer">👁️ 61.2K · <a href="https://t.me/ircfspace/2459" target="_blank">📅 20:28 · 02 Tir 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-2458">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">خدمات‌دهی دست‌کم ۸ بانک کشور با اختلال مواجه شده. شرکت خدمات انفورماتیک با انتشار بیانیه‌ای، حملات سایبری را تایید کرد و نوشت "شرکت خدمات انفورماتیک به‌منظور پیشگیری از هرگونه دسترسی غیرمجاز و صیانت از امنیت داده‌ها و دارایی‌های مشتریان، در حال حاضر ارائه خدمات مبتنی بر کارت را به صورت موقت از دسترس خارج کرده است". /iranintl
-🔗
-ᴡᴇʙꜱɪᴛᴇ
-•
-ᴠᴘɴʜᴜʙ
-•
-ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
-@ircfspace</div>
-<div class="tg-footer">👁️ 92K · <a href="https://t.me/ircfspace/2458" target="_blank">📅 16:44 · 02 Tir 1405</a></div>
 </div>
 
 <hr>
