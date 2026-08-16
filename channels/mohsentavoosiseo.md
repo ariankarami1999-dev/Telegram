@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 18:15:34</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 18:42:20</div>
 <hr>
 
 <div class="tg-post" id="msg-899">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">کسانی که جدیدا دوره رو میخرند، دو تا دوره دریافت می کنند(قدیمی ها نگران نشید تا آخر بخونید).  دوره جدید، برای راحتی ذهن شما جداگونه قرارداده شده و دوره صفر تا صد SEO و AEO برای همه زبان ها و همه کشور هاست! و کاملا آمیخته با AI که ابزار اصلیمون Claude هست.…</div>
-<div class="tg-footer">👁️ 943 · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 957 · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
@@ -319,7 +319,7 @@
 استاندارد سازمان رو برای کلاد تعریف کردن
 هوش مصنوعی، چت کردن و چهار تا فایل اتچ کردن و اسکرین شات فرستادن و چهار تا پرامپت خوب دادن نیست! اینا خیلی مقدماتیه!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.73K · <a href="https://t.me/mohsentavoosiseo/896" target="_blank">📅 15:18 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.74K · <a href="https://t.me/mohsentavoosiseo/896" target="_blank">📅 15:18 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-895">
@@ -465,7 +465,7 @@ booking.com
 و در نظر بگیرید، برای کسب و کار خودتون، خرج نقدی میخواد. فکر نکنید فقط یادگیری هست. پول هم باید خرج کنید. مگر اینکه بخواید استخدام بشید یا پروژه بگیرید.
 خرید در:
 @mohsentavoosisupport</div>
-<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/mohsentavoosiseo/889" target="_blank">📅 14:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/mohsentavoosiseo/889" target="_blank">📅 14:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-888">
@@ -480,7 +480,7 @@ booking.com
 خرید در:
 @mohsentavoosisupport
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.78K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-886">
@@ -492,7 +492,7 @@ booking.com
 😎
 پی نوشت:
 (کلاد تلفظ انگلیسیش کلاد هست)، ریشه اسمش فرانسوی هست که میشه کلود. شرکت آنتروپیک هم آمریکایی هست.</div>
-<div class="tg-footer">👁️ 2.2K · <a href="https://t.me/mohsentavoosiseo/886" target="_blank">📅 20:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/mohsentavoosiseo/886" target="_blank">📅 20:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-885">
@@ -638,7 +638,7 @@ Claude Cowork
 <div class="tg-post" id="msg-877">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-875">
@@ -646,7 +646,7 @@ Claude Cowork
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aPzvwQ5cN7jZLwkKnp-y0LA9qSk7fBrkfIE-ktcJYRn2cRfn3LcsoXd4p4EFMKyJmfSi7zMEMXwUNMjbvkBGhjS_xRvXi2BxJ0Mc5U_PxbXuizQDtQwYjT3poDApdmnbOEAhTldjVU0nrES2z8sqjxY334ddjd8JnqizW9HdhwN6sUHoSH2IT_O9d2v12cjhS8SX5xRoWx77T7eWojlqwUJXBZJBCbJYKQ7vxJZp-oDgz_qGtYgsRyUt9ufyObeEiGq8ddb0BirsimvKYL35z4BbQvTviGoR8ugWBhZQ9mxPLTm1tdOqho-vaYwJN7VIWBkYKXuepLHRvo6GekYHnQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
@@ -807,7 +807,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-859">
 <div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kTQsJ8UbqF9zx9sOMKLqSC-1P3ktzstJzL44npRDYH1Hr9wrGA0CYvlx_W_24I8iMS_fTjwgJoMAYkZvI77zYfJAjs15ZRsR0Av1FJ3Je1WpAXy8lckDYi4KFwd59IAiCCPF8cjGOnYRgh9LBBMa8DQ4PsChq7DDl4n291fa0Wi2LB7bLTYu0rCShUaUgJvsIJqwIXnCUmyf40KBETgr1Xz6ESOdwtfsJzE8EnSA4jmrJdx4okGcQ99BjCA0LODIJNCAlkdojq_av9cN_2X6SyAfik8Y0-IC9KU4hUfz-WY_rp53y5IVl-P58m0-o6Ote_SA6PW4ZzVKLSAcCmdx1g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y7AqNZYMlblcY_O_r0mm1KhAFvGoa8noX0TWOHfr7wjESHESfd1OXEzZZqQ_1ahnCyZ21rMEhTWJlozmEodpm9ZcVdRRkx827ut-hRKbxpLjJhRxTSe5PTp1_o0hndk-WVs2rhumFhzI-6cOWERs4NStH_98OvzsUerQl3mZ_pSLDGvzg5dN8sECuPwINO0Ir0gPaOnNYzV8C-qz0d_eGjFgQuWg6xXdgAvvwFPaPte0WH_GiVqrykOIhqeoZErF7lOkWjfh3nDHLiQ1oJZFAz32a466C6AVtwSUnH_Zn3QjFIfEWUSoLG2ccNAZCHXTtQMVyKhbc_fDJh4GhYxYgQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این عکس، نمودار حدود 8 ماه گذشته یکی از پروژه های انگلیسی هست. هیچ فیلتری جز زمان هم ست نشده.
 تاریخ 5 فوریه زمان شروع همکاری بوده.
 به نظرتون بد شده اوضاعش یا خوب شده؟
@@ -1478,7 +1478,7 @@ pinned «
 
 <div class="tg-post" id="msg-780">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a1gPOL-bhX7FslN8-Bt_tsXMCuDDE9Xq-rOD4A_5QfVOrFHtFdi99bVnKlvdTj9K5udiAv7KxH16j-JpHwNBiYGoaL__A-zl-qyyTs0VyKrffJZ0D7h_qlKcEirzbcEJ8-7Z4zLCIMR7j9pY38ki0tFHXgOhNo_Y8F5wzsX5IVJqzjbrDOF5UdxgCEHXBCqh9XnXLmX08GVj3YMME96RDrfHiG_rQOnIfRtwkBcUIyh6pqeK3TGrZ-wK0epOCYSxAi2dq97ceNHHCNjuYr5OgncN3vRILYP6WD9WkuTglgk5p6R_TigyVs_6jBHN35LyhLCR3zybwotT39t_1yn-KA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nNRQ6zqVWaAqGN2AtBnoNMNI2vJivFyoS4--sEugrmXiRPLeBUCOumfCK1kE1SKpLVzWnD5prKhUe7HVSvDdnEc-DETdHA5S_m70K3i_U6qxWzkQOqZi35NTltXCRA4JZ10xBLA4-nEv-EM8HvmVhGdlkmT0Yv1u180z0CSGnLgQXmN2zhkGZ-wjxmoY3rM80kokvVJ6ho7WxPUbYIY3g7bbhHQq0afqpAvlAXUY0qaoTzmJgvwitbNX6ilLU2m0Jy9Qg7LfMb-2pN3sWZX_DSSXyBAR2TRHi-bRITwG3t4PWEGhnIpg2M6hu3ybrEpFFApJCNdWmvV40nr9ZwPj2g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که نمیدونن دایرکت کجاست. پیام خصوصی ایکونش در اندروید اون پایینه. نیازی هم به ستاره و تلگرام پریمیوم نداره.
 تو آیفون هم داخل خود کانال رو اسم کانال بزنید نوشته message.
 تو وب و دکستاپ ندیدم هنوز خودم.
