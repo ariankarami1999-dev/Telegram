@@ -292,29 +292,29 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 13:43:56</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 14:15:40</div>
 <hr>
 
 <div class="tg-post" id="msg-19945">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">از فردا با حجم کاری کمتر فعالیت کانال از سر گرفته می شود.
 سعی میکنم شاخص GRI دستکم بروزرسانی و ارائه بشود.</div>
-<div class="tg-footer">👁️ 3.75K · <a href="https://t.me/SBoxxx/19945" target="_blank">📅 02:41 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.81K · <a href="https://t.me/SBoxxx/19945" target="_blank">📅 02:41 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19944">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">مدتی نخواهم بود...</div>
-<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/SBoxxx/19944" target="_blank">📅 16:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.2K · <a href="https://t.me/SBoxxx/19944" target="_blank">📅 16:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19943">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NOf9RmE3GeVtWIn2QqpNdZYRJlqEdjgKPmJRJFKz_tDXgpcnOELD4wPu1y5onDEturXYfH9D7z-dig2GnFbLY2fyAVdMAUyxhT26Iuvh2wd7p9or0hqIUQjY4cGBSBoN6YFRKI8tDHVU2i6fjT6A4wIijl175jnl7MvYp6HH-WGnM5pTk-W830dxx-ZAT9fjVC7HWwATLXZH8UczLyBr-O82wObdtQ1iitkKWFyQeOGbCQ1Tsk86X6W4F5Xtcp9x1HW8ftOiKbDL-jcXuH3kiS-a6SBsVvooAh14Rz1IacIuFpDMjVgOSKSFiZRI_x89RRdlaaGfiLbskfJuijOO3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fxzHn4IplaoSXq_UEsfXtLOoa3aw9R_oGGgqDQI7jD2HDUhjmVVj9LYwkqqMLuZs6t7Ju4IW6ew5ha5Uf3TavHo3vOPpheA15E--iTPgBrjFur5g9h95hIWhCxNPDoDww6E-LDn7hMKO1ni4QJxzKOPZGmyvG4xKzbU8DuGgXPZBFS1I1DVjpZq6h68D44cghRSds9tKyiQPN2Bh-I-4m39aMJhCBfzHmqJoiF-OXui2x4fFmhcYLUFkqo2PFx3wDVGlCxsZiFeyX7D0FNTeKZmM5SWfk7uivcghKpkSpqTgMDhoCPvL3gISTwIXYxoRG8HNycLmOr7d48qo1tU3kA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترکیه به دنبال تایید ایالات متحده برای ارسال ذخیره‌ای بزرگ از سلاح‌های ساخت آمریکا به اوکراین است!
 این بسته شامل موشک های اتکمز و ۴۷,۰۰۰ گلوله توپ خوشه ای است که به گفته منابع، ارزشی حدود ۲۵۶ میلیون دلار دارند.
 واشنگتن آماده تایید این انتقال است، اما سازمان دیده‌بان حقوق بشر از کنگره می‌خواهد که جلوی آن را بگیرد و به خطراتی که سلاح‌های حاوی بمب‌های خوشه‌ای برای غیرنظامیان ایجاد می‌کنند، اشاره کرده است.</div>
-<div class="tg-footer">👁️ 8.9K · <a href="https://t.me/SBoxxx/19943" target="_blank">📅 14:55 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/SBoxxx/19943" target="_blank">📅 14:55 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19942">
@@ -322,13 +322,13 @@
 <div class="tg-text">چقدر خوشحالم جای پاکستانی ها نیستم؛
 فردای امضای پیمان دفاعی با عربستان، یمنی ها یک کشتی سعودی را زدند که در اثر آن چند پاکستانی کشته شدند!
 الان هم سه روز است میگویند ایران و آمریکا دارند سازش می‌کنند اما ولی خب</div>
-<div class="tg-footer">👁️ 7.82K · <a href="https://t.me/SBoxxx/19942" target="_blank">📅 14:26 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.85K · <a href="https://t.me/SBoxxx/19942" target="_blank">📅 14:26 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19941">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">سخنگوی وزارت امور خارجه پاکستان:   فرایند صلح گسترده‌تر بین آمریکا و ایران با مشکلاتی روبرو شده است و ما امیدواریم که دو طرف به گفت‌وگو بازگردند.   ما می‌توانیم توافق‌نامه همکاری را قبل از پایان مدت اعتبار آن تمدید کنیم.</div>
-<div class="tg-footer">👁️ 7.59K · <a href="https://t.me/SBoxxx/19941" target="_blank">📅 14:25 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.62K · <a href="https://t.me/SBoxxx/19941" target="_blank">📅 14:25 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19940">
@@ -337,7 +337,7 @@
 دهه‌ها درگیری این کشور را به شدت با مین‌ها و مهمات منفجر نشده آلوده کرده است.
 باکو امیدوار است که روابط نزدیک‌تر با ایالات متحده بتواند تلاش‌های نقشه‌برداری و خنثی‌سازی مین‌ها را تسریع کرده و بازسازی پس از جنگ را پشتیبانی کند.
 منبع: آکسیوس</div>
-<div class="tg-footer">👁️ 7.5K · <a href="https://t.me/SBoxxx/19940" target="_blank">📅 14:09 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.53K · <a href="https://t.me/SBoxxx/19940" target="_blank">📅 14:09 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19939">
@@ -345,25 +345,25 @@
 <div class="tg-text">سخنگوی وزارت امور خارجه پاکستان:
 فرایند صلح گسترده‌تر بین آمریکا و ایران با مشکلاتی روبرو شده است و ما امیدواریم که دو طرف به گفت‌وگو بازگردند.
 ما می‌توانیم توافق‌نامه همکاری را قبل از پایان مدت اعتبار آن تمدید کنیم.</div>
-<div class="tg-footer">👁️ 5.76K · <a href="https://t.me/SBoxxx/19939" target="_blank">📅 13:54 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.77K · <a href="https://t.me/SBoxxx/19939" target="_blank">📅 13:54 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19938">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">اردوغان:  «توافق مکه» علیه هیچ کشوری نیست و تمام دولت‌ها می‌توانند به آن بپیوندند  نباید این توافق را به بعد نظامی محدود کرد، زیرا هدف اصلی آن تقویت بعد بازدارندگی و امنیتی است</div>
-<div class="tg-footer">👁️ 6.14K · <a href="https://t.me/SBoxxx/19938" target="_blank">📅 10:27 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.16K · <a href="https://t.me/SBoxxx/19938" target="_blank">📅 10:27 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19937">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">حالا باید ببینیم ائتلاف «مکه» پاسخ می‌دهد یا صرفا برای دوشیدن گاو شیرده حجاز و نجد تشکیل شده.</div>
-<div class="tg-footer">👁️ 6.08K · <a href="https://t.me/SBoxxx/19937" target="_blank">📅 10:26 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.1K · <a href="https://t.me/SBoxxx/19937" target="_blank">📅 10:26 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19936">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">حجم تحقیری که ترامپ به عنوان رییس جمهور آمریکا دارد می شود کم نظیر است!  پس از افشای داستان فرار ترامپ از ترکیه با یک هواپیمای فرعی — آن هم داخل کامیون کترینگ هواپیما ! — دیروز خبری منتشر شده که ترامپ حتی داخل زمین گلف خودش احساس امنیت ندارد و همانطور که در…</div>
-<div class="tg-footer">👁️ 5.23K · <a href="https://t.me/SBoxxx/19936" target="_blank">📅 08:09 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.24K · <a href="https://t.me/SBoxxx/19936" target="_blank">📅 08:09 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19935">
@@ -385,19 +385,19 @@
 <div class="tg-post" id="msg-19933">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">کوشش ژاپن در تقویت توان دفاعی  ژاپن با تأکید وزیر دفاع خود، شینجیرو کویزومی، بر لزوم تقویت و تحول توان نظامی این کشور با «حسی بی‌سابقه از فوریت و بحران» اصرار می‌ورزد. گزارش سالانه سفید دفاعی ژاپن، منتشرشده در ۴ اوت ۲۰۲۶، بار دیگر بر تهدیدات فزاینده چین، کره…</div>
-<div class="tg-footer">👁️ 6.07K · <a href="https://t.me/SBoxxx/19933" target="_blank">📅 06:25 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.08K · <a href="https://t.me/SBoxxx/19933" target="_blank">📅 06:25 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19932">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">صدای انفجار در شمال غرب تهران</div>
-<div class="tg-footer">👁️ 6.06K · <a href="https://t.me/SBoxxx/19932" target="_blank">📅 02:28 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.08K · <a href="https://t.me/SBoxxx/19932" target="_blank">📅 02:28 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19931">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">صدای انفجار در شمال غرب تهران</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SBoxxx/19931" target="_blank">📅 02:26 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SBoxxx/19931" target="_blank">📅 02:26 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19930">
@@ -476,7 +476,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-post" id="msg-19920">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">محسن رضایی:   تمام توانم را برای افزایش قدرت ایران به کار خواهم گرفت</div>
-<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/SBoxxx/19920" target="_blank">📅 20:48 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SBoxxx/19920" target="_blank">📅 20:48 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19919">
@@ -652,7 +652,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BRMdnb7EXztZM3CtslMpj0O3okAqCDDRW9o6XBvdzwVfV_NOl8iCLLhZoWwQyTNGBl1Ck2rTnyG2wG77AowfaQ7gLWtEtG_rSayskKpTpxKfUO8OEZ5wbNs7NyGsNymavPhffDCns4UrLrNwfsd6ki6LKOSUnZeAfj4kx4oz5IBis0j5chb0oqNAsLKvm7ffTd9DiuzLdTEGxYXPX9hPq7kledu29FFB990ocXmv82XwQqkWSIErV7FXLSPBLKRnaedjiwTHq-RlNv0V-bi922YPP4pvP4QcroImz4nimjN_CEMCcRq9qExzVyMfxTZsjDbnLyuc2ojgwIkiAybeMQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 برای امروز شاخص ریسک ژئوپولیتیک در سطح میانه ای قرار دارد. در چنین شرایطی سیگنال قوی خرید یا فروش صادر نمی شود و بهترین راهبرد از دید من خرید در سطوح حمایتی پایین تر است.</div>
-<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/SBoxxx/19899" target="_blank">📅 11:54 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SBoxxx/19899" target="_blank">📅 11:54 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19898">
@@ -831,7 +831,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 📌
 کانال ما :
 @cyclicalwaves</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/19877" target="_blank">📅 16:47 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/19877" target="_blank">📅 16:47 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19876">
@@ -957,7 +957,7 @@ INS Drakon
 <div class="tg-post" id="msg-19864">
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">احتمال پیوستن مصر به توافقنامه سه جانبه عربستان، ترکیه و پاکستان   «هاکان فیدان» وزیر خارجه ترکیه مدعی شد که مصر ممکن است به این توافقنامه مشترک به محض حل و فصل برخی مسائل فنی بپیوندد.</div>
-<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/19864" target="_blank">📅 02:09 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SBoxxx/19864" target="_blank">📅 02:09 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19863">
