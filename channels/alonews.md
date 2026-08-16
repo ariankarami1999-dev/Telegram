@@ -292,7 +292,7 @@
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directمالک کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 06:54:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-25 07:35:43</div>
 <hr>
 
 <div class="tg-post" id="msg-141970">
@@ -308,7 +308,7 @@
 اسرائیل برای بار Nام تفاهم نامه اسلام آباد رو نقض و به لبنان حمله کرد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/alonews/141970" target="_blank">📅 01:48 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.7K · <a href="https://t.me/alonews/141970" target="_blank">📅 01:48 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141969">
@@ -324,7 +324,7 @@
 مجری: تا الان مردم فقط ۸۱میلیون تومن کمک کردن تا ترامپ رو بکشیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/alonews/141969" target="_blank">📅 01:42 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/alonews/141969" target="_blank">📅 01:42 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141968">
@@ -333,7 +333,7 @@
 هم اکنون حملات به جنوب لبنان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/alonews/141968" target="_blank">📅 01:38 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/alonews/141968" target="_blank">📅 01:38 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141967">
@@ -342,7 +342,7 @@
 چند فروند موشک از سوی اسرائیل به منطقه "علی الطاهر" در جنوب لبنان شلیک شد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/alonews/141967" target="_blank">📅 01:34 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/alonews/141967" target="_blank">📅 01:34 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141966">
@@ -352,7 +352,7 @@
 ساشا سبحانی، پسر سفیر سابق تو ونزوئلا: حالا که انقدر بهم هِیت میدید اصلا خوب کاری کردم پول مردم رو خوردم و نوش جونم همینه که هست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/alonews/141966" target="_blank">📅 01:19 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/141966" target="_blank">📅 01:19 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141965">
@@ -362,7 +362,7 @@
 ترامپ به من قول داد که جنگنده‌های اف-35 را به ترکیه بفروشد. ما منتظر هستیم تا او به قول خود عمل کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/alonews/141965" target="_blank">📅 01:05 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/alonews/141965" target="_blank">📅 01:05 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141964">
@@ -373,7 +373,7 @@
 دغدغه من از سال 64، لبنان هست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.5K · <a href="https://t.me/alonews/141964" target="_blank">📅 00:56 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.1K · <a href="https://t.me/alonews/141964" target="_blank">📅 00:56 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141957">
@@ -398,7 +398,7 @@
 Cf) در ایران به کمبود داروهای ضروری(حیاتی) مانند کرئون و پولموزایم و نبود تریکافتا در ایران
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.1K · <a href="https://t.me/alonews/141957" target="_blank">📅 00:51 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/alonews/141957" target="_blank">📅 00:51 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141956">
@@ -407,7 +407,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 ۲۴ساعت تا پایان آتش بس
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/alonews/141956" target="_blank">📅 00:47 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.3K · <a href="https://t.me/alonews/141956" target="_blank">📅 00:47 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141955">
@@ -417,14 +417,14 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 گویا سپاه امروز یه کلیپ منتشر کرده که آره ما پدافند داریم، 20 دقیقه بعد لوکیشنی که پدافند بود لو رفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.6K · <a href="https://t.me/alonews/141955" target="_blank">📅 00:45 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.6K · <a href="https://t.me/alonews/141955" target="_blank">📅 00:45 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141954">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">🎙
 ‏روایت خداداد عزیزی از روزهای سخت زندگی‌اش  ‏ساندویچ نان و رب خالی می‌خوردم.. به‌همراه پدرم دم حرم دستفروشی و گچکاری کردم..  ‏برنج و مرغ تنها یک بار در سال و دم عید می‌خوردیم!  ‏چلوکباب نخورده بودم و نمی‌دانستم چیه  @AloSport</div>
-<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/alonews/141954" target="_blank">📅 00:41 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.3K · <a href="https://t.me/alonews/141954" target="_blank">📅 00:41 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141953">
@@ -436,7 +436,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 سوار بر اسب با جرج واشینگتن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.5K · <a href="https://t.me/alonews/141953" target="_blank">📅 00:38 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.2K · <a href="https://t.me/alonews/141953" target="_blank">📅 00:38 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141952">
@@ -456,7 +456,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 ‏برنج و مرغ تنها یک بار در سال و دم عید می‌خوردیم!
 ‏چلوکباب نخورده بودم و نمی‌دانستم چیه
 @AloSport</div>
-<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/alonews/141952" target="_blank">📅 00:34 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/alonews/141952" target="_blank">📅 00:34 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141951">
@@ -466,7 +466,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 علم الهدی: بعد شهادت آقا دیگه نباید برنامه شادی رو اجرا کنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/alonews/141951" target="_blank">📅 00:30 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.7K · <a href="https://t.me/alonews/141951" target="_blank">📅 00:30 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141950">
@@ -484,7 +484,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 او حتی نامه‌ای به سناتور برنی مورنو سناتور ایالتش نوشته و پیشنهاد داده که خودش به جای پسرش برود تا جکسون به خانه برگردد.  او تأکید کرده که این درخواست کاملاً از طرف خودش است و پسرش چیزی از او نخواسته است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/alonews/141950" target="_blank">📅 00:29 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/alonews/141950" target="_blank">📅 00:29 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141949">
@@ -497,7 +497,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 روزی که در به در دنبال ریش تراش بگردین تو بازار سیاه خیلی نزدیکه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/alonews/141949" target="_blank">📅 00:24 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/alonews/141949" target="_blank">📅 00:24 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141946">
@@ -517,7 +517,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 در ادامه گفت :
 بعضی وقت‌ها میگن روز، روز تو نیست؛ شب، شب تو نیست، من خیلی واسه این فایت آماده بودم اما نشد، شرمنده مردم شدم
 @AloSport</div>
-<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/141946" target="_blank">📅 00:17 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/alonews/141946" target="_blank">📅 00:17 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141945">
@@ -527,7 +527,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 پست جدید ترامپ: پیروز خواهیم شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/alonews/141945" target="_blank">📅 00:09 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.3K · <a href="https://t.me/alonews/141945" target="_blank">📅 00:09 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141944">
@@ -539,7 +539,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 ⚠️
 مشاهده عکس‌ها
 ⚠️</div>
-<div class="tg-footer">👁️ 50.3K · <a href="https://t.me/alonews/141944" target="_blank">📅 00:02 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.7K · <a href="https://t.me/alonews/141944" target="_blank">📅 00:02 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141941">
@@ -553,7 +553,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 خوده جول این موضوع رو تایید کرده و گفته همزمان با اینکه تو جام جهانی بخاطر حذف شدن اشک میریخت، از من نود میخواست و این خانمم فرستاده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54.3K · <a href="https://t.me/alonews/141941" target="_blank">📅 23:53 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 56.5K · <a href="https://t.me/alonews/141941" target="_blank">📅 23:53 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141940">
@@ -562,7 +562,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 استانداری خوزستان: درپی افزایش دما و ضرورت مدیریت و پایداری شبکه برق، فعالیت ادارات استان روز دوشنبه ۲۶ مرداد ۱۴۰۵ به‌صورت دورکاری خواهد بود.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/141940" target="_blank">📅 23:52 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 55.8K · <a href="https://t.me/alonews/141940" target="_blank">📅 23:52 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141939">
@@ -578,7 +578,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 رژه نیروهای طالبان با تجهیزات و خودروهای نظامی آمریکایی در خیابان های کابل، در سالروز خروج آمریکا از افغانستان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 57.7K · <a href="https://t.me/alonews/141939" target="_blank">📅 23:43 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/alonews/141939" target="_blank">📅 23:43 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141938">
@@ -588,7 +588,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 فرمانده ستاد ارتش اسرائیل: آماده بازگشت فوری به جنگ تمام‌ عیار هستیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/141938" target="_blank">📅 23:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.8K · <a href="https://t.me/alonews/141938" target="_blank">📅 23:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141937">
@@ -598,7 +598,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 همچنان جی دی ونس شانس اول برنده شدن در انتخابات ریاست جمهوری آمریکا در سال ۲۰۲۸ است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/alonews/141937" target="_blank">📅 23:32 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.5K · <a href="https://t.me/alonews/141937" target="_blank">📅 23:32 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141936">
@@ -616,7 +616,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 پولی که برای خرید اتوبوس داشتیم را در جیب قاچاقچیان سوخت ریختیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.4K · <a href="https://t.me/alonews/141936" target="_blank">📅 23:29 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/alonews/141936" target="_blank">📅 23:29 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141935">
@@ -635,7 +635,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 در صورت انتخاب سناریو، چند هفته با مردم مشورت می کنیم و اصلاحاتی در صورت لزوم انجام خواهیم داد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/alonews/141935" target="_blank">📅 23:29 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.9K · <a href="https://t.me/alonews/141935" target="_blank">📅 23:29 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141934">
@@ -644,7 +644,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 در پی حمله‌ای موشکی از سوی حوثی‌ها به نیروهای مورد حمایت عربستان سعودی در شهر مأرب، یمن، طی کمتر از یک ساعت، ۵ انفجار رخ داد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/alonews/141934" target="_blank">📅 23:27 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.3K · <a href="https://t.me/alonews/141934" target="_blank">📅 23:27 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141933">
@@ -653,7 +653,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 سقاب اصفهانی: امکان ایجاد بازار صحیح برای فروش سهمیه افراد نیز می توان اجرا کرد/قیمت این بازار ها نباید توسط دولت یا رانت کنترل شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.8K · <a href="https://t.me/alonews/141933" target="_blank">📅 23:23 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.3K · <a href="https://t.me/alonews/141933" target="_blank">📅 23:23 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141932">
@@ -669,7 +669,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 هدف قرار گرفتن نیروگاه برق الزاویه در لیبی با یک پهپاد و قطع برق
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/alonews/141932" target="_blank">📅 23:22 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.8K · <a href="https://t.me/alonews/141932" target="_blank">📅 23:22 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141931">
@@ -685,7 +685,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 سقاب اصفهانی: امکان ایجاد بازار صحیح برای فروش سهمیه افراد نیز می توان اجرا کرد/قیمت این بازار ها نباید توسط دولت یا رانت کنترل شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.2K · <a href="https://t.me/alonews/141931" target="_blank">📅 23:14 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.7K · <a href="https://t.me/alonews/141931" target="_blank">📅 23:14 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141930">
@@ -696,7 +696,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 قابلیت انتقال آن به هر فردی که بخواهید وجود دارد. دولت مدیریت سهمیه را به افراد می سپارد.
 🔴
 قیمت دوم و سوم در این…</div>
-<div class="tg-footer">👁️ 47.5K · <a href="https://t.me/alonews/141930" target="_blank">📅 23:14 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.7K · <a href="https://t.me/alonews/141930" target="_blank">📅 23:14 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141929">
@@ -716,7 +716,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 قیمت دوم و سوم در این طرح وجود ندارد و سهمیه در کارت بانکی افراد شارژ می شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.8K · <a href="https://t.me/alonews/141929" target="_blank">📅 23:09 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/141929" target="_blank">📅 23:09 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141928">
@@ -732,7 +732,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 ویدئویی از شلیک اخیر موشک‌های "فلامینگو" اوکراین، به سمت روسیه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/alonews/141928" target="_blank">📅 23:05 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.5K · <a href="https://t.me/alonews/141928" target="_blank">📅 23:05 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141927">
@@ -743,7 +743,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 پ.ن : همیشه بعد گرونی بنزین همه چی گرونتر شده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 46.5K · <a href="https://t.me/alonews/141927" target="_blank">📅 23:02 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 47.7K · <a href="https://t.me/alonews/141927" target="_blank">📅 23:02 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141926">
@@ -754,7 +754,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 یعنی شما اگه ۵۰ میلیون تومن نداشته باشی؛ یه گوشی خیلی متوسط هم نمیتونی بخری.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/alonews/141926" target="_blank">📅 23:02 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/141926" target="_blank">📅 23:02 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141925">
@@ -770,7 +770,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 پارناس
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/alonews/141925" target="_blank">📅 23:01 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/alonews/141925" target="_blank">📅 23:01 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141924">
@@ -787,7 +787,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 مهسا امینی به درک واصل شد!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.2K · <a href="https://t.me/alonews/141924" target="_blank">📅 22:58 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/alonews/141924" target="_blank">📅 22:58 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141923">
@@ -799,7 +799,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 مقایسه آمارهای سال ۲۰۲۴ نشان می‌دهد ایرانی‌ها به طور متوسط هفته‌ای ۴۶.۳ ساعت کار می‌کنند؛ رقمی که ایران را در میان ۱۷۰ کشور جهان در رتبه دهم قرار داده و افسانه کم‌کاری ایرانی‌ها را رد می‌کند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.5K · <a href="https://t.me/alonews/141923" target="_blank">📅 22:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/alonews/141923" target="_blank">📅 22:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141919">
@@ -819,7 +819,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 [
 @AloTweet
 ]</div>
-<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/alonews/141919" target="_blank">📅 22:56 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 44.2K · <a href="https://t.me/alonews/141919" target="_blank">📅 22:56 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141918">
@@ -835,7 +835,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 حرام زاده بودن رژیم جمهوری اسلامی و طرفدارهاش رو بصورت ساده توضیح میده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/alonews/141918" target="_blank">📅 22:56 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 44.4K · <a href="https://t.me/alonews/141918" target="_blank">📅 22:56 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141917">
@@ -845,7 +845,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 مدام از مصرف بنزین و صرفه جویی میگن ولی کسی اشاره نمیکنه چند ماهه شبانه تو کل کشور هر شب ،کاروان های موتوری و ماشینی تو خیابون ها دارن بنزین دود میکنن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 43K · <a href="https://t.me/alonews/141917" target="_blank">📅 22:54 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/141917" target="_blank">📅 22:54 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141916">
@@ -858,7 +858,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 آرون پارناس
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/alonews/141916" target="_blank">📅 22:51 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/alonews/141916" target="_blank">📅 22:51 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141915">
@@ -874,7 +874,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 رئیس سازمان بهینه‌سازی: اگر به‌جای خودروهای بی‌کیفیت و مونتاژی چینی، کل یک خودروی ژاپنی را وارد کنیم ارزان‌تر درمی‌آید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/alonews/141915" target="_blank">📅 22:51 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/alonews/141915" target="_blank">📅 22:51 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141913">
@@ -888,7 +888,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 حرکت قشنگ هوادار خانوم استقلال بعداز بازی دیشب
 👐
 @AloSport</div>
-<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/alonews/141913" target="_blank">📅 22:49 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/alonews/141913" target="_blank">📅 22:49 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141912">
@@ -904,7 +904,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 رئیس سازمان بهینه‌سازی: اگر میزان مصرف بنزین خودروهای داخلی مشابه خودروهای روز دنیا بود الان شاهد ناترازی در تولید و مصرف بنزین نبودیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/alonews/141912" target="_blank">📅 22:49 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/alonews/141912" target="_blank">📅 22:49 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141911">
@@ -922,7 +922,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 در تصادفات هیچ‌وقت نمی‌گوییم خودرو بی‌کیفیت بود و هزینه‌ای برای خسارت او قائل نیستیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/alonews/141911" target="_blank">📅 22:48 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/alonews/141911" target="_blank">📅 22:48 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141910">
@@ -933,7 +933,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 مقام‌هایی از عربستان، امارات، قطر، کویت و بحرین پس از ماه‌ها حملات ایران در نارضایتی خود اتفاق‌نظر دارند؛ برخی از آنها درباره ارزش ادامه میزبانی از تأسیسات نظامی بزرگ آمریکا نیز بحث می‌کنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/alonews/141910" target="_blank">📅 22:46 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/alonews/141910" target="_blank">📅 22:46 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141909">
@@ -944,7 +944,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 در این روش قیمت بنزین تغییر نمی‌کند اما بنزین تا میزان تولید ۱۲۱ میلیون لیتری در پمپ‌بنزین‌ها توزیع شود و وقتی تمام شد، نازل‌ها خاموش می‌شود.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/alonews/141909" target="_blank">📅 22:46 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43K · <a href="https://t.me/alonews/141909" target="_blank">📅 22:46 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141908">
@@ -956,7 +956,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 <li>✓ 👎خیر</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 44.8K · <a href="https://t.me/alonews/141908" target="_blank">📅 22:44 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/alonews/141908" target="_blank">📅 22:44 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141907">
@@ -967,7 +967,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 باید شماره‌گذاری خودروها و واردات خودرو تعیین‌تکلیف شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.2K · <a href="https://t.me/alonews/141907" target="_blank">📅 22:43 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.1K · <a href="https://t.me/alonews/141907" target="_blank">📅 22:43 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141906">
@@ -978,7 +978,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 پ.ن: تو ۹۵درصد زمینه‌ها اشتباه رفتید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/alonews/141906" target="_blank">📅 22:43 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.3K · <a href="https://t.me/alonews/141906" target="_blank">📅 22:43 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141905">
@@ -987,7 +987,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 گزارش صدای انفجار در سیریک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/141905" target="_blank">📅 22:35 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/alonews/141905" target="_blank">📅 22:35 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141904">
@@ -996,7 +996,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 گزارش صدای انفجار در سیریک
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.3K · <a href="https://t.me/alonews/141904" target="_blank">📅 22:29 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.3K · <a href="https://t.me/alonews/141904" target="_blank">📅 22:29 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141903">
@@ -1005,7 +1005,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 سید عباس : آتش‌بسی وجود ندارد که بخواهیم آن را تمدید کنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/alonews/141903" target="_blank">📅 22:27 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.8K · <a href="https://t.me/alonews/141903" target="_blank">📅 22:27 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141902">
@@ -1014,7 +1014,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 سردار باقرزاده: 3 خلبان ایرانی پس از سقوط جنگنده‌های سوخو-۲۴ در جریان حملات اسفندماه، زنده توسط نیروهای قطری اسیر شده‌اند!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/alonews/141902" target="_blank">📅 22:19 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.3K · <a href="https://t.me/alonews/141902" target="_blank">📅 22:19 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141901">
@@ -1023,7 +1023,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 آنیتا آناند وزیر امورخارجه کانادا اعلام کرد ابراهیم عزیزی، رئیس کمیسیون امنیت ملی ایران به دلیل نقش داشتن در فعالیت های تنگه هرمز را در لیست تحریم های خود قرار داده‌اند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/141901" target="_blank">📅 22:18 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/alonews/141901" target="_blank">📅 22:18 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141900">
@@ -1033,7 +1033,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 الجزیره: کمتر از ۳۰ ساعت تا پایان صلح ۶۰ روزه بین ایران و آمریکا باقی مونده
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.7K · <a href="https://t.me/alonews/141900" target="_blank">📅 22:16 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.4K · <a href="https://t.me/alonews/141900" target="_blank">📅 22:16 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141898">
@@ -1054,7 +1054,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 [
 @AloTweet
 ]</div>
-<div class="tg-footer">👁️ 45.5K · <a href="https://t.me/alonews/141898" target="_blank">📅 22:15 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 46.4K · <a href="https://t.me/alonews/141898" target="_blank">📅 22:15 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141897">
@@ -1067,7 +1067,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 قهرمان های ما همین مردمی هستن که با این رژیم سازش نکردن.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.7K · <a href="https://t.me/alonews/141897" target="_blank">📅 22:14 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 45.3K · <a href="https://t.me/alonews/141897" target="_blank">📅 22:14 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141896">
@@ -1083,7 +1083,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 زندگی یک ایرانی در ۲۲ثانیه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/141896" target="_blank">📅 22:09 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/alonews/141896" target="_blank">📅 22:09 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141895">
@@ -1092,7 +1092,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 طالبان هم فهمید برای پیشرفت باید دنبال رابطه با دنیا باشه و جهاد رو بزاره کنار اما جمهوری اسلامی نفهمید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.2K · <a href="https://t.me/alonews/141895" target="_blank">📅 21:54 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 47.5K · <a href="https://t.me/alonews/141895" target="_blank">📅 21:54 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141894">
@@ -1108,7 +1108,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 نیروهای یمنی مورد حمایت عربستان سعودی از یک پهپاد انتحاری (FPV) برای حمله به یک خودروی متعلق به گروه انصارالله/حوثی در خط مقدم جبهه استفاده کردند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.2K · <a href="https://t.me/alonews/141894" target="_blank">📅 21:51 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.5K · <a href="https://t.me/alonews/141894" target="_blank">📅 21:51 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141893">
@@ -1124,7 +1124,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 شهردار ایندیاناپولیس در آمریکا از ساکنان خواست که از راونزوود، راکی ریپل و سایر مناطق  به دلیل سیل شدید که بدترین مورد در حداقل ۳۰ سال گذشته است، تخلیه کنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/alonews/141893" target="_blank">📅 21:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.7K · <a href="https://t.me/alonews/141893" target="_blank">📅 21:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141892">
@@ -1133,7 +1133,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 پس از حدود پنج ماه توقف، پروازهای مسافری فرودگاه بین‌المللی لارستان با برقراری مسیر تهران–لار–تهران از سر گرفته شد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.6K · <a href="https://t.me/alonews/141892" target="_blank">📅 21:30 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.2K · <a href="https://t.me/alonews/141892" target="_blank">📅 21:30 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141891">
@@ -1145,7 +1145,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 کلمبیا با اسرائیل، همیشه دوست و متحد بوده‌
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.3K · <a href="https://t.me/alonews/141891" target="_blank">📅 21:27 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/141891" target="_blank">📅 21:27 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141890">
@@ -1155,7 +1155,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 نبیه بری ، رئیس پارلمان لبنان : اسرائیل هیچ ارزشی برای هیچ‌گونه توافق یا قانونی قائل نیست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/alonews/141890" target="_blank">📅 21:17 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.4K · <a href="https://t.me/alonews/141890" target="_blank">📅 21:17 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141889">
@@ -1165,7 +1165,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 در ساعات اخیر انصارالله یمن حملاتی به دو پایگاه نظامی صحن الجن و تداوین در استان مارب انجام داده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/alonews/141889" target="_blank">📅 21:12 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.2K · <a href="https://t.me/alonews/141889" target="_blank">📅 21:12 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141888">
@@ -1177,7 +1177,7 @@ Cf) در ایران به کمبود داروهای ضروری(حیاتی) مان
 برید بچرخونید ببینید شانس شما چیه
 👇
 https://r.saraf.app/s/agrd309</div>
-<div class="tg-footer">👁️ 47.8K · <a href="https://t.me/alonews/141888" target="_blank">📅 21:08 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.1K · <a href="https://t.me/alonews/141888" target="_blank">📅 21:08 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141887">
@@ -1188,7 +1188,7 @@ https://r.saraf.app/s/agrd309</div>
 اندی بیکر، مشاور ارشد امنیت ملی کاخ سفید و از افراد نزدیک به ونس از سمت خود کنار می‌رود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.1K · <a href="https://t.me/alonews/141887" target="_blank">📅 21:07 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.4K · <a href="https://t.me/alonews/141887" target="_blank">📅 21:07 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141886">
@@ -1197,7 +1197,7 @@ https://r.saraf.app/s/agrd309</div>
 آتشبار توپخانه اسرائیل به شهر عیترون در جنوب لبنان هدف قرار گرفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.7K · <a href="https://t.me/alonews/141886" target="_blank">📅 21:03 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/141886" target="_blank">📅 21:03 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141885">
@@ -1207,7 +1207,7 @@ https://r.saraf.app/s/agrd309</div>
 انفجاری در طلوسه، جنوب لبنان، به دنبال فعالیت‌های تخریبی اسرائیل مشاهده شد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/141885" target="_blank">📅 20:59 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.3K · <a href="https://t.me/alonews/141885" target="_blank">📅 20:59 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141884">
@@ -1216,7 +1216,7 @@ https://r.saraf.app/s/agrd309</div>
 زلزله‌ای به بزرگی 6 درجه در مقیاس ریشتر جزیره «میناهاسا» در اندونزی را لرزاند. این سومین زلزله بزرگ است که ظرف 24 ساعت گذشته در این کشور رخ داده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.6K · <a href="https://t.me/alonews/141884" target="_blank">📅 20:55 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.2K · <a href="https://t.me/alonews/141884" target="_blank">📅 20:55 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141883">
@@ -1229,7 +1229,7 @@ https://r.saraf.app/s/agrd309</div>
 موضوع فقط تنگه هرمز نبود؛ مسئله، جلوگیری از تثبیت تفاهم بود.چراغ «اتاق تخریب» درست یک روز پس از «میز تفاهم» روشن شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/alonews/141883" target="_blank">📅 20:51 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.2K · <a href="https://t.me/alonews/141883" target="_blank">📅 20:51 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141882">
@@ -1239,7 +1239,7 @@ https://r.saraf.app/s/agrd309</div>
 حماس اعلام کرد دفاتر خود را از قطر به ترکیه منتقل می کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.1K · <a href="https://t.me/alonews/141882" target="_blank">📅 20:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.5K · <a href="https://t.me/alonews/141882" target="_blank">📅 20:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141881">
@@ -1255,7 +1255,7 @@ https://r.saraf.app/s/agrd309</div>
 کمین جالب FPV روس علیه نیروهای اوکراینی
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/alonews/141881" target="_blank">📅 20:33 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.6K · <a href="https://t.me/alonews/141881" target="_blank">📅 20:33 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141880">
@@ -1266,7 +1266,7 @@ https://r.saraf.app/s/agrd309</div>
 فرانسه، آلمان و بریتانیا در حال تدوین موضعی مشترک هستند و انتظار می‌رود که کشورهای دیگری نیز در این روند مشارکت داشته باشند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.7K · <a href="https://t.me/alonews/141880" target="_blank">📅 20:28 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/alonews/141880" target="_blank">📅 20:28 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141879">
@@ -1277,7 +1277,7 @@ https://r.saraf.app/s/agrd309</div>
 نیروهای نیابتی حکومت ایران شرارت محض هستند. حزب الله کودکان را جمع آوری می کند و به مناطق نظامی می فرستد. آنها نظامیان اسرائیل را می کشمد با اینکه می دانند این کار ها بی پاسخ نمی ماند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.6K · <a href="https://t.me/alonews/141879" target="_blank">📅 20:22 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/alonews/141879" target="_blank">📅 20:22 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141878">
@@ -1287,7 +1287,7 @@ https://r.saraf.app/s/agrd309</div>
 نظرسنجی جدید شبکه CNN: محبوبیت ممدانی در شهر نیویورک در ۲ ماه اخیر ۱۱ درصد افزایش داشته و به ۶۹ درصد رسیده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.2K · <a href="https://t.me/alonews/141878" target="_blank">📅 20:19 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/alonews/141878" target="_blank">📅 20:19 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141877">
@@ -1296,7 +1296,7 @@ https://r.saraf.app/s/agrd309</div>
 شبکه ۱۲ اسرائیل: بر اساس اکثریت قریب به اتفاق نظرسنجی‌های فعلی، نتانیاهو در این انتخابات پیروز نخواهد شد، و آقای ترامپ و مشاورانش از این موضوع آگاه هستند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.2K · <a href="https://t.me/alonews/141877" target="_blank">📅 20:15 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.6K · <a href="https://t.me/alonews/141877" target="_blank">📅 20:15 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141876">
@@ -1305,7 +1305,7 @@ https://r.saraf.app/s/agrd309</div>
 سوپر اپلیکیشن "بله" از پلتفرم های ایرانی بازار و مایکت و... حذف شد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.7K · <a href="https://t.me/alonews/141876" target="_blank">📅 20:10 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/141876" target="_blank">📅 20:10 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141875">
@@ -1317,7 +1317,7 @@ https://t.me/+nCexQYLuuONhYzg0
 https://t.me/+nCexQYLuuONhYzg0
 دلار و طلا میریزه
 ⁉️</div>
-<div class="tg-footer">👁️ 52.7K · <a href="https://t.me/alonews/141875" target="_blank">📅 20:08 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/alonews/141875" target="_blank">📅 20:08 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141874">
@@ -1327,7 +1327,7 @@ https://t.me/+nCexQYLuuONhYzg0
 خبرگزاری تابناک، سال ۱۳۸۷: خیز دلار برای گذر از ۱۰۰۰ تومان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.4K · <a href="https://t.me/alonews/141874" target="_blank">📅 20:02 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 55.7K · <a href="https://t.me/alonews/141874" target="_blank">📅 20:02 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141873">
@@ -1338,7 +1338,7 @@ https://t.me/+nCexQYLuuONhYzg0
 دستیاران ترامپ با ارائه داده‌های خسارات تحریم‌ها، او را مجاب به تشدید فشار اقتصادی به جای جنگ کرده‌اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.6K · <a href="https://t.me/alonews/141873" target="_blank">📅 19:49 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.9K · <a href="https://t.me/alonews/141873" target="_blank">📅 19:49 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141872">
@@ -1360,7 +1360,7 @@ https://t.me/+nCexQYLuuONhYzg0
 حزب الله لبنان در بیانیه‌ای اعلام کرد پاسخ حملات سنگین اسرائیل به جنوب لبنان را خواهد داد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/141871" target="_blank">📅 19:21 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.3K · <a href="https://t.me/alonews/141871" target="_blank">📅 19:21 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141870">
@@ -1376,7 +1376,7 @@ https://t.me/+nCexQYLuuONhYzg0
 سربازان گردان موتورزرهی 64، که بخشی از گروه نیروهای "وُستوک" هستند، به شناسایی و هدف قرار دادن نیروهای اوکراینی در منطقه زاپوریژیا ادامه می‌دهند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52.7K · <a href="https://t.me/alonews/141870" target="_blank">📅 19:12 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/141870" target="_blank">📅 19:12 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141869">
@@ -1385,7 +1385,7 @@ https://t.me/+nCexQYLuuONhYzg0
 شجاع خلیل‌زاده: گل من به مصر درست بود؛ شاید ترامپ گل را دستکاری کرده باشد!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/alonews/141869" target="_blank">📅 19:05 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53.4K · <a href="https://t.me/alonews/141869" target="_blank">📅 19:05 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141868">
@@ -1405,7 +1405,7 @@ https://t.me/+nCexQYLuuONhYzg0
 مأموریت این ناو در خاورمیانه به دلیل جنگ با ایران بیش از زمان برنامه‌ریزی‌شده ادامه یافته و همین موضوع نگرانی‌هایی درباره وضعیت خدمه و فشار عملیاتی واردشده بر آنان ایجاد کرده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52.4K · <a href="https://t.me/alonews/141867" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.7K · <a href="https://t.me/alonews/141867" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141866">
@@ -1415,7 +1415,7 @@ https://t.me/+nCexQYLuuONhYzg0
 ارتش اسرائیل از ترور حاج علی سمیر حاج حسن، یکی از مسئولان نیروهای رضوان، در حمله به انصار جنوب لبنان خبر داد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53.4K · <a href="https://t.me/alonews/141866" target="_blank">📅 18:51 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53.7K · <a href="https://t.me/alonews/141866" target="_blank">📅 18:51 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141865">
@@ -1450,7 +1450,7 @@ https://t.me/+nCexQYLuuONhYzg0
 هیاتی از وزرای تاجیکستانی با عراقچی دیدار کردند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.6K · <a href="https://t.me/alonews/141863" target="_blank">📅 18:40 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.9K · <a href="https://t.me/alonews/141863" target="_blank">📅 18:40 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141862">
@@ -1491,7 +1491,7 @@ https://t.me/+nCexQYLuuONhYzg0
 وزیر انرژی ترکیه: شرکت های تکنولوژی سعودی قرار است در ترکیه نیروگاه های انرژی بادی و خورشیدی بسازند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.6K · <a href="https://t.me/alonews/141859" target="_blank">📅 18:15 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/alonews/141859" target="_blank">📅 18:15 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141858">
@@ -1501,7 +1501,7 @@ https://t.me/+nCexQYLuuONhYzg0
 وزیر انرژی ترکیه: شرکت های تکنولوژی سعودی قرار است در ترکیه نیروگاه های انرژی بادی و خورشیدی بسازند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.6K · <a href="https://t.me/alonews/141858" target="_blank">📅 18:14 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/alonews/141858" target="_blank">📅 18:14 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-141857">
