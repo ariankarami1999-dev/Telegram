@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 19:16:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 19:46:54</div>
 <hr>
 
 <div class="tg-post" id="msg-2892">
@@ -321,7 +321,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 2.59K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.01K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2891">
@@ -349,7 +349,7 @@ Ad
 اگر تبلیغ‌دهنده محصول دیگری را به شما پیشنهاد کرد، این خرید ارتباطی به تبلیغ کانال ما ندارد و مسئولیتش با خودتان است.
 ممنون از همراهی شما
 🙏</div>
-<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2890">
@@ -362,7 +362,7 @@ Ad
 ارتباط با ما
 پیام بدید تا مشکلی پیش نیاد.
 🙏🏻</div>
-<div class="tg-footer">👁️ 5.69K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.89K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2889">
@@ -391,7 +391,7 @@ Ad
 📢
 کانال:
 @KARIZMAVPNSTORE</div>
-<div class="tg-footer">👁️ 8.58K · <a href="https://t.me/iaghapour/2889" target="_blank">📅 21:05 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/iaghapour/2889" target="_blank">📅 21:05 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2888">
@@ -415,7 +415,7 @@ Ad
 توسعه هوش مصنوعی تنها متکی به مراکز داده داخلی نیست و نیازمند ارتباط پایدار با جهان، مدل‌های متن‌باز و خدمات ابری است./زومیت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 8.43K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.51K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2887">
@@ -446,7 +446,7 @@ Phia
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.26K · <a href="https://t.me/iaghapour/2887" target="_blank">📅 17:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.31K · <a href="https://t.me/iaghapour/2887" target="_blank">📅 17:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2886">
@@ -487,7 +487,7 @@ PAY5SCMT
 |
 👍
 رضایت مشتریان</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/iaghapour/2886" target="_blank">📅 21:32 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/iaghapour/2886" target="_blank">📅 21:32 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2885">
@@ -521,7 +521,7 @@ PAY5SCMT
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 9.96K · <a href="https://t.me/iaghapour/2885" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.99K · <a href="https://t.me/iaghapour/2885" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2884">
@@ -552,7 +552,7 @@ Gemini 3.7 Flash
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.9K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.92K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2883">
@@ -581,7 +581,7 @@ Smart Support Bot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.37K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.38K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2882">
@@ -616,7 +616,7 @@ ChaCha20-Poly1305
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.81K · <a href="https://t.me/iaghapour/2882" target="_blank">📅 15:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.83K · <a href="https://t.me/iaghapour/2882" target="_blank">📅 15:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2880">
@@ -697,7 +697,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2876">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jpRv0CHiw0NLv4HWxumbnRD7G6oDInpeAfzOJxmyTQTtOfGLPNqn3UH1jEMUVUpjZL6jc5FBN4-EIRzKGETTsqCJBAhbxKhOIXk5Y6AKVWzzh-MxnsrZOHaWPr9pkeZvsukdDit9oiSJzFvS7YdF6MFzO4lvcQu9i7Yw1MRDr5h0fNQxM_XdDxpU9VO7ApdxHvlBwOR14rat91jG-lDrV8D3JohIDe8lqenXbmGyb0fMvzlOz_GolV-knOpS20Cy7eD_PfzE3ocfMxfY52W5X0bPv_vVKXSB4U_c7lQQ2XTRqTbxrQmUs5Fb7A5LD_T6PFWDQSk-mzbjI2H_ivvWBQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nFf7a7X-uSliH1lpyhPyyhYwjBJj8jzgYdCuLEcFWpVz6MwlRs5lEShyiyqRFbCcx39wT9Qn25X-4CiFEH-7fWMv15MdtnQpZ1YDgsRmNHp60dUY62utnRtoUusKiwHYJfR5o1KudK9Wp-EcSoO6BdoGFK7ISvh2N82xHR-bhOeNq8z0xKqvsHqudmca7NJ3gb-rLJDh3OU6viBM4VPb995yHg7M5yB1n3wHEriyFzNYeBTMP-lV5wxg9OHdB9tO_DET3zKybAhX0uGUMjLJ4LIfLQ22XTHTJSp0swF2L1kvMidobdyRt_pUZA6G82WqQzNBaF1MzW6_vCwSIJWKTg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 واترمارک مخفی در خروجی‌های هوش مصنوعی کلاد
 آنتروپیک، سازنده
@@ -720,7 +720,7 @@ C2PA
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2875">
@@ -744,12 +744,12 @@ YouTube</div>
 تا امشب ساعت 24! پس تا فرصت هست کامنتتون رو ثبت کنید.
 🔻
 توجه داشته باشید برای اینکه یوتیوب کامنتتون رو به عنوان اسپم تشخیص نده و پاکش نکنه، حتماً بذارید ویدیو چند دقیقه پخش بشه و بعد زیرش کامنت بذارید.</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2872">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G9W3QAgYPCPa9ezdE3maC4hzzx_6FOjKVGHEZTDUYjVfeGcmzr7nAhk218fEX9ggCtoIW5-lPlQi-BpJ5Jp5pSMhrUzF6iAmWEkb0b6sA9sWU6lKHEGrEIctdOlTrvnH3w0eYITYdhq8bd-U4lEKaw-EoReU4y7VBQMHcISGogXMAZDfU9zv2wHYtWpyTuuTxraqtXD71edIConiEkegMnC8OmfTCIJv2PmVleGExIODxebCqHfGVM6Kw6CjH2IOZS7ao82u8G1izJa19fo4XeXAE2rswQyoa4znm18odo_fZrFvpLPmQ0W_0ND95j5CWOzYQnoOHjmYuVFuP9zrnQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NE4cpXc-elVI65oHNp9mYr4xcvUOEJxBV4mOEAUyW9WQoSKPPJJE_p0psVLfnVIUDS2eT1N3uftx0ra8f0GOAMKOxrc7g6KuNkhQgEHM2pU2wEocmCR-saLLpj522OsFt3AKUiDPFOB72_49b1a7Lbda1vZPdeLnY0vk2gjYezfad47Ob7iRerPQBWDQpGTC0WY-Knz8kN4imeoN9tCDe6Y7h3udNc35zWQwFuX6ZeMACmfwbeFqZNHHt-v59UGnrKLdSLbRKFO07J6g2f13sqHHmyGMXnMeThhH92HpP8av6b8sN3eYXx1toFtrHnkzav8bjzM6hHnc7S9JwskLxQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ایجنت OpenClaw برای ثبت‌نام کاربر سیستم یک باشگاه را هک کرد!
 یک توسعه‌دهنده استرالیایی به نام «اندرو برد» هنگام استفاده از ایجنت هوش مصنوعی OpenClaw (متصل به مدل Claude Opus 4.6) برای گرفتن نوبت در یک کلاس ورزشی پرطرفدار، با رفتار غیرمنتظره و خودسرانه این برنامه مواجه شد.
@@ -885,7 +885,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2865">
@@ -951,7 +951,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/iaghapour/2863" target="_blank">📅 20:34 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2862">
@@ -1041,7 +1041,7 @@ YouTube</div>
 اگر ویدیویی رو تماشا می‌کنید که ماه‌ها از انتشارش گذشته، لطفاً تبلیغ داخلش رو حتماً دوباره از طریق ربات ما صحت‌سنجی کنید. شرایط سرویس‌ها در گذر زمان تغییر می‌کنه.
 ممنون از اینکه همیشه در کنار ما هستید.
 🙏🏻</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/iaghapour/2859" target="_blank">📅 17:47 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2858">
@@ -1687,7 +1687,7 @@ KelpDAO
 🔥
 🔹
 تو این ویدیو قراره با هم یاد بگیریم چطوری یه فیلترشکن شخصی فوق‌العاده با استفاده از پنل پاسارگارد بسازیم. این پنل از 2 هسته Xray و وایرگارد ساپورت میکنه و همینطور از قابلیت نود هم پشتیبانی میکنه.…</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/iaghapour/2819" target="_blank">📅 17:05 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/iaghapour/2819" target="_blank">📅 17:05 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2817">
@@ -2252,7 +2252,7 @@ LangOver
 در حد توان آمادگی داشته باشید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 35.9K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2780">

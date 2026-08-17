@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 19:16:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 19:46:54</div>
 <hr>
 
 <div class="tg-post" id="msg-77918">
@@ -314,7 +314,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 88.1K · <a href="https://t.me/VahidOnline/77918" target="_blank">📅 17:44 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/VahidOnline/77918" target="_blank">📅 17:44 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77917">
@@ -328,7 +328,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 85.8K · <a href="https://t.me/VahidOnline/77917" target="_blank">📅 17:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 98.2K · <a href="https://t.me/VahidOnline/77917" target="_blank">📅 17:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77916">
@@ -347,9 +347,11 @@ VahidHeadline
 در زمان حملات هوایی به جنوب ایران در ماه گذشته، بسیاری از ایرانیان در سراسر جهان با مردم جنوب ایران به ویژه مردم بندرعباس ابراز همدردی کرده بودند.
 @
 VahidHeadline
+با توجه به چرندیاتی که قبل و بعدش میگه به نظر می‌رسه منظورش این بوده که مخالفان جمهوری اسلامی درباره جمهوری اسلامی این رو می‌گن که جنوب ایران رو فدای جنوب لبنان کردند.
+اگرنه وقیح‌ترین‌هاشون هم درباره مسائل ملی مردم‌فریبی می‌کنند و این طور صریح نظراتشون درباره «ملت فدای امت» رو جار نمی‌زنند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 92.3K · <a href="https://t.me/VahidOnline/77916" target="_blank">📅 17:28 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/VahidOnline/77916" target="_blank">📅 17:28 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77915">
@@ -362,7 +364,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 94.5K · <a href="https://t.me/VahidOnline/77915" target="_blank">📅 17:23 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/VahidOnline/77915" target="_blank">📅 17:23 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77914">
@@ -378,7 +380,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 88.1K · <a href="https://t.me/VahidOnline/77914" target="_blank">📅 17:22 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 97.2K · <a href="https://t.me/VahidOnline/77914" target="_blank">📅 17:22 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77912">
@@ -397,7 +399,7 @@ VahidHeadline
 اما خیلی زود اتفاقات خوبی خواهد افتاد. در واقع، همین حالا هم اتفاق افتاده‌اند، چون یک چیز هست که نمی‌توانیم اجازه بدهیم: نمی‌توانیم اجازه بدهیم ایران به سلاح هسته‌ای دست پیدا کند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 95.7K · <a href="https://t.me/VahidOnline/77912" target="_blank">📅 17:13 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/VahidOnline/77912" target="_blank">📅 17:13 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77911">
@@ -420,7 +422,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/VahidOnline/77911" target="_blank">📅 17:00 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/VahidOnline/77911" target="_blank">📅 17:00 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77910">
@@ -433,7 +435,7 @@ VahidOOnLine
 <a href="https://cdn1.telesco.pe/file/557e36e83b.mp4?token=BzukPfp7iQwho6YLy4_UovJeXFD_Vy8BB7hGXKPEQLo7pIJfeCjqi7HbtdqoYSvuvLJS5rHQJ_B7hlgncfdv_gGhdoRBnACPujUqyMcKCmdwLFwSolie6bfL8hzViU0b1mcaFKfotkkF7bbqY8VRYtmPj4O0lw-qZi2HwI1AEwPka83ev27DiEO5k3RxWPFIeg5zqXiGvxVvGM5adK0sz4mOQB6bCl4CCVMXylnmU9J0PKWMe2zfqxDI9mOP2ikvGV8qj09tjNugSb1ebpcJlL7F8Clg12Kgj0Swv_RBTKYcspUmhg6hNUGt2hZUr31KybbfEojN_5-DKArKZO_GLw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">احمد آریایی‌نژاد، نماینده ملایر در مجلس ایران، در یک مناظره تلویزیونی، کشته‌شدن مهسا (ژینا) امینی را با عبارتی توهین‌آمیز توصیف کرد و اعتراضات پس از مرگ او را «هشت ماه اغتشاش» خواند.  این اظهارات در رسانه شهرداری تهران (همشهری) مطرح شده است.  پدر و مادر مهسا…</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/VahidOnline/77910" target="_blank">📅 16:53 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/VahidOnline/77910" target="_blank">📅 16:53 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77902">
@@ -459,7 +461,7 @@ VahidOOnLine
 ManotoTV
 🤖
 @VahidOOnLine</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/VahidOnline/77902" target="_blank">📅 16:51 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/VahidOnline/77902" target="_blank">📅 16:51 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77899">
@@ -478,7 +480,7 @@ ManotoTV
 نگاهی کوتاه به این واقعه:
 https://www.iranrights.org/fa/memorial/story/-3134/atefeh-sahaleh-rajabi
 @IranRights</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/VahidOnline/77899" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/VahidOnline/77899" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77898">
@@ -499,7 +501,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 308K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 310K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77896">
@@ -520,7 +522,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 300K · <a href="https://t.me/VahidOnline/77896" target="_blank">📅 19:12 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/77896" target="_blank">📅 19:12 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77893">
@@ -600,7 +602,7 @@ VahidHeadline
 بخشی از پیام به‌مناسبت سالروز افتتاح اولین دوره مجلس شورای اسلامی و آغاز سومین سال فعالیت مجلس دوازدهم | ۷/خرداد/۱۴۰۵"
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 250K · <a href="https://t.me/VahidOnline/77886" target="_blank">📅 18:43 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 251K · <a href="https://t.me/VahidOnline/77886" target="_blank">📅 18:43 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77881">
@@ -631,7 +633,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 268K · <a href="https://t.me/VahidOnline/77881" target="_blank">📅 18:31 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 269K · <a href="https://t.me/VahidOnline/77881" target="_blank">📅 18:31 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77880">
@@ -652,7 +654,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 328K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 329K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77879">
@@ -725,7 +727,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/77876" target="_blank">📅 18:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/77876" target="_blank">📅 18:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77875">
@@ -740,7 +742,7 @@ VahidHeadline
 جزئیات بیشتری درباره مصداق اتهام «محاربه»، مستندات پرونده، روند بازجویی و نحوه برگزاری جلسات دادگاه منتشر نشده است. آقای سپهر امیرزاده، متولد ۱۳۸۲ و اهل رامهرمز خوزستان، مدرس و نوازنده موسیقی و ساکن اصفهان است.
 #نه_به_اعدام
 @IranRights</div>
-<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/77875" target="_blank">📅 18:30 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/77875" target="_blank">📅 18:30 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77874">
@@ -1033,7 +1035,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 312K · <a href="https://t.me/VahidOnline/77856" target="_blank">📅 05:20 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 313K · <a href="https://t.me/VahidOnline/77856" target="_blank">📅 05:20 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77855">
@@ -1164,14 +1166,14 @@ VahidHeadline
 .
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 395K · <a href="https://t.me/VahidOnline/77840" target="_blank">📅 23:53 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 396K · <a href="https://t.me/VahidOnline/77840" target="_blank">📅 23:53 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77838">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/pgOvz2bAdOyHdpDYcMFbg_Zyd-z983zAjP1INfYpVJS3GtgNNm7_tD7xj5Oen8ZLulCWNTmoGhV9UzsUr5OXoS2PdoridjELtzbIYmy7Enb0gmldxDNRGlQ6xpmt4JijpArTomk_2pzobV_KvwcSYQ1ZyFdBfNSqeUNTCxbLgCxMNIlrVTyIHWlX9Dx4gFX9CQlcan9-xho1hqVp1t7vMkGLB-HD3eBXjC2NEoGWaGGTKIebrNkehB1-FV0MD9gPuIbLEiDTAxXEWOldw_MT1QKT9yNX-_5Reujyn937NuxPWGEHjCl0GJQ-CjPVfGaFHE7_AJDMKL5j6_kOsolnUg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Z4HwfeG56S5JkaYnGZ_GcqyAKqU0ANMFmqtm1wAPVSknXmtZ4175FTo0c6rTE3dgJDU6QTsIp9nmET3OJAYmHWxozY-1WZYu2rSTXfxt0jO0S-raRb-6hItIvKGiipiX8awlS1bMQdfZzq-6n6vKJeNZvGaWXGjd6Ko7-P_9JurINJciW4k2cxFF7hQD0kbTs2ZQeKccmHLpioKNhFxVe7zzsY8isD-FRo21yrDyHO8K8nXQCLj22bx0c6nvZ-8w8p2WH6QVyF26X9-gpLe0c0GxSQ6A4RPuYIBm5q6v8FIJgf1eGxeEWRSllIuDMNoU7YW5aGgMaDG5zv6g4iM-Jw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/IJvGtvlG0HvJzfgHahTjJSRTtbDyQevH0owSQfrbaIWDJOMyAeSKi5w7YPgZEMo11IbQI9L9FpL5wMke4fH1zZcL4Fs0qZPudASbbfGPj-vs9QyetuQrqDzlSeRhHtABnA83CL1g6WbB2g0OSmypL2AhLToOF4eRP-GTHrmuSLAc9bV26eWvHI584EzbZYgQgrgU7ZrmLZ2OdRVZVuyuSflHIEN5KI82wYuIOEIZEFv_21QTkvr26IhqzHNXs6nG82TywMgm7IBe0FrL0V8kAqi1cHF1k0UBUwh18gK6j9YJDfkpPZUvD6QAcHO1BiOx7xzWtIOlMBd9q5ZQFf_Irg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/SvtKu0K2yd-cVOZfJIJDfojdS1YktqxahpYn7nXPJwWwX_3e79hyATxtdi8CeeTOPcyDSbvCvakDsL0QYGKHdg5bjSW_55_hQdL0nFa6pEKxXhKrn676iAm0har_bzHr45W5NuZviQFjRZTUCvrpEU7J8CGGdvb4889wCH7wnkv8rhZ0Hu2oVzg2wNi1qTZEKoJb6U03OMING8FeLn9Nx9-fx6Q1DjCsTJY-3L6Z-bFSNyux5xeUj7BHpo3spO4pIfFGlBjVI4bA7b2QC-DO0kEyjIHb0UNkmsmAP74lYxcQZ_-QiR0VIcOfdQ1LQaR2wOfcdeq6w5OpiuRFBsyn3g.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">اتحادیه اروپا و شماری از کشورها، از جمله کانادا، بریتانیا و استرالیا در بیانیه‌ای مشترک، با شدیدترین لحن ادامه اعدام معترضان در ایران و سرکوب افرادی را که برای عدالت و کرامت انسانی اعتراض کرده‌اند، محکوم کرده و خواستار توقف فوری اعدام‌ها و آزادی تمامی بازداشت‌شدگان اعتراضات شدند.
 در این بیانیه که روز چهارشنبه ۲۱ مرداد منتشر شد، آمده است که استفاده از مجازات اعدام برای خاموش کردن مخالفان، ایجاد ترس در جوامع و مجازات افرادی که از حقوق بنیادین خود استفاده می‌کنند، به هیچ‌وجه قابل توجیه نیست.
@@ -1349,7 +1351,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77822">
 <div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X8YIEZm2CxyiSnIVEgt8srXae0Od0FYNjrjKriBOe6xOB3sO-ufWrq7yZTyJ4SC_DWmOmS9Yj8eCdRTslIGNKN64fLzTKhmSMjG07g3487FCON8iqYojZ3n4z5Py_ZjrUKnnX0oIJZnqq9SHrCj0zAaf8ZGZZvyChTMnEd9GmFh8Ncksir9zfTVCA7ePaMUKU7CYe81hqPQthRgjkyy6SaDV-1ocj-Ce040-fbqjKlXRUt3jjr-eebBHkPXVUgi7cOsWeedz7o2xqdHbgAmH8EzgrJVURNqDrvZc9U4HTaNEzLhgqzPHgWGmHZWwf1-KLcTZxLtdwV6CY1lMuFRMiw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ifzv0OhoBAHxZFTch4iVn-7eMFpWf4ysCQisZL30vS_CSKhUjSp-qjWhxWxcZ9ewkuFbLBA-wpM0GZD0XE19IDDDVMKGGO0WK-9X5GfBytsg6Ut76ZRUoRfkRrMVnvavxPdu_dbMan4RUiB0p-_o44k1sWzL8tk0kliqYzOCi2RjKUINvINONF1ZGf9OCymr9BUvjhJ3Ms-XxeW30CRrNsir5uBpwMnfbHtVcxsDrojp1vdH8jjndvc7fZ-iQZcoz1X3hgEFdeSuduv-fTrQIIUjOb5Sm9duPlJ0rY1RTCK0WNPPGGH-ufmTJJTBB0LreHnfucOmxRA8Q0CSSlcqpQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محسن رضایی، دبیر جدید شورای عالی امنیت ملی جمهوری اسلامی، در نخستین موضع‌گیری پس از انتصاب به این سمت اعلام کرد برای باز شدن تنگه هرمز، آمریکا باید جنگ را پایان دهد و پول‌های مسدود شده ایران را بپردازد.
 به گزارش رسانه‌های ایران، او در دیدار با سفیر چین در تهران گفت تا زمانی که آمریکا «رفتار خود را تغییر ندهد و شروط ایران را نپذیرد» ایران اقدام به باز کردن تنگه هرمز نخواهد کرد. او پایان جنگ و آزاد کردن پول‌های مسدود شده ایران را دو عنوان از شرط‌های ایران برشمرد.
 این در حالی است که دونالد ترامپ، رئیس‌جمهور آمریکا، روز دوشنبه در کاخ سفید به خبرنگاران گفت ایالات متحده کل تنگه هرمز را «مین‌روبی» کرده و کنترل کامل آن را در دست دارد.
@@ -1375,7 +1377,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77820">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eQhWn_VdhwPZPOFO_P9ZUT4XMgObXATZh0VtHQhLH0aWP02Gb8ytwiPY3OPzVelUNNSRDxLjhY2K_18GNo6FmwWXNeceg6bvHXVcNGYr0rgL-Pq_f6w81MnkPVwZEZwqqWi39_rsiGtbznPdN6__58bTdViyR_dlbj8eCjFPyRVFIfm-LYrsKisdsTu4F14CB9BO1LfS4YD2axOPXFL0gk1MUowa8kKmvTTdB9RA5wC_LuAGFgOksOpKOA6OQcJ__FDbmhcxDFyZPI5jRBLfXp-DmAtgg37EIvJCKuay4caV8dQn8QES8kxUvr1NYXinBK1dflxl9PBLp8S3U1SsUw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fPrhS7HJPYzTTTiY0HKeNTCKmvGM4juD0W489Tk8pEk7KuXv-BH8wMgCJUDKxI57M7HPbtPlWN-RJF55VR9UkmAIizFy7hrtQsEF3UfDxjKXxz4F9OyN9RmblgeTsDlgFQjnlOh4_oFZ7b0qREY2ET2K73BE6J_z52byuyONTPGGLd7IKhPsi_qHONOtZ7uE4mm8EvNqneWSjTlgHvf_FbZypN7HtwuEkNyBOUZMBr_bbMPtGinWYmLIEV6o3ueDjdtw5aHUs2kQUH0UXTw7dchlbgueMkYv-25Ym1uvJu1A9NMVc2z7eYPfC9bfPoV2XnOgEWAdWtJpLXn-7VsH5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یوسی کوهن، مدیر پیشین موساد، گفت ماموران این سازمان در گذشته چندین بار از تاسیسات غنی‌سازی اورانیوم فردو بازدید کرده بودند تا اطلاعات بیشتری درباره این مرکز هسته‌ای به‌دست آورند.
 به گزارش تایمز اسراییل، کوهن، روز سه‌شنبه ۲۰مرداد ۱۴۰۵، در نشست «مجمع جلیل» در شهر صفد، گفت: «ما بارها از سایت هسته‌ای فردو بازدید کردیم تا این سایت را درک کنیم.» او درباره زمان این بازدیدها و این‌که چه افرادی از سوی موساد در این بازدیدها حضور داشتند، توضیح بیشتری نداد.
 او همچنین درباره حمله آمریکا به فردو گفت: «بمباران آن توسط آمریکایی‌ها تحقق همه رویاهای من بود.»
@@ -1742,8 +1744,8 @@ VahidOOnLine
 <div class="tg-post" id="msg-77795">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Ios4lsBpUcWcYLB8uFE340aR5GmLKXkICbaUVFkXutcDBkomCBFPoTnyz8-cMoO5NNPjxQunKXh1BMSGGzVCTGBJRVCm13fHISC1eVkCjR9oi9ba2Laip0uqK8ofvemfbsV94WDo0ojWTkOMgDldHUvCxQ1yFeJiDqjwbeg_XclmC3KQDVcmU0o89CwYXrGv_oqIvD6G5KyKEcM5QCZFUPc--Z9_5BP_FruaAtTo1PnOgZlWYjbQ_KRqQObGOHYAE1nai-7zKal4ZqZAae_TDX_XG4YP9BZdAO_4dzNmwO-7IJmtej617UgJcJ-orX21hPBEYgTylcSspN_Z8VAYAw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/IoCtuphB--kPIKGresKs1U9sNFIR3VXghzzObuizuP4bFwRpRFkAT-VtDk-7nLxW-JXESjzXJT_YgTgqJtBLKdkKBUiKrhOyvd_Id1-hUV2S-j2gjBb5pxgRwwfrNCWVTTgc19q1Mue05INNtJaqhsAXWa6ixPrxKzLZ5B69_V-trlu-FcO2qtFtbTvpHWzRVZCByvBP8ldmKxb7upKmKxVDDHS5PaIjMxy_KVZptfJ3EOBKV-mMxaxQ8Ee5MqPzEXMPvQnfYmlBR6Q-D7C2-UYh9bltNTINC-JSP8GL19oyvbJoxNndErj-84iXsMjrUKkgeHmxXsZH90Sr-IWcOg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/aAU6TdvI-tRd9GcKDcus2Xyxy3FMGx66u3mz3_DKno4Xa4wU8uOuLka5ftE8AyjCti5obf_24M-3-yPRT99J45fvr4xDI1qBWBIkYfkdVvNXiL2brmFjJTqwpI3bHAuxeWgG44zgd9Mwn7c2rQuFet91G5QWaPUiNIo-DsxeciHzxlnw_PIq_HUcritcKcyH_D65uMaXJanhG8IRky45ZZlvjZWH3dr7CU1V5zZ3Svz55yKw2N-Vc3eIB5EO8XNPoCfzgy9M5QBLNBoZfN1CQjfezPhuWJKktTIqr09kl1R8CzxQ0xIV-Lf2DWaJMNQeMFU72K6MfbQU_gohYHCXrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/evOLV0-h5A9jSR0UO7-i9htuqAPDw7uJovFKPf43i2RO5MFQ71TvZ_2TwrWmGsV3-PFuxippyViQKN-iJRoso-pCh5qh2_G4259MJxn2Y-E0qhq8rc4l6siDDQzrh2gQ-57ITlmf2tHrTam7N2AIpyXYuuxpYD-LGpNUhL1yNgic5D1fvW-mP6eB3_bFTrF33VelRz5J4Ax8ZP4tmE4U5zta49MFSQCo2G-YBKVoI4IBKG0-SW8727WHryfNcqacCwyvBxoslLv7RacgB3A7a9V6OX4giZS6rjOmzBNwmrUqw3r-mS4tKI8sYehiHO5BQCVGUqoUrisKSpKfKXJDnw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">در بحبوحه گمانه‌زنی‌ها درباره استعفای محمدباقر ذوالقدر از دبیری شورای عالی امنیت ملی، روز یکشنبه ۱۸ مرداد ماه، پیامی منتسب به مجتبی خامنه‌ای، سومین رهبر جمهوری اسلامی، در خبرگزاری حکومتی تسنیم منتشر شد که در آن محسن رضایی به عنوان «نماینده رهبر» در «شعام» (شورای عالی امنیت ملی) معرفی شده است.
 در ادامه این پیام مکتوب، بدون اشاره به استعفا، از محمدباقر ذوالقدر «تشکر» شد.
@@ -1883,7 +1885,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77791">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DMrmfeN_apDJosjcfmouvg9g7UenWGEbtAf1Ub2MkVEwcBaqw9zlX55yM0G1V5v5a-8lwD1k3dKFlgzoE6SAYoSaKN4ktPnxdC1r63a6QDqLNuUM4FClTQD_9n0EHKNkKOGpo57Qa0G6KciMvcjcoeMYmlNFyCkSU7p7Sxv79y1BkWPzQQR8y0N_pMKBpxZv9IPConLcc5KvAKW4MUcuOmeOmvCuOfWifI1OGmVl3Oj3UFp40l-RJtdPFjzWm1UfL-ieK2GJqGc8AJM-BKZ5qFp4lPo2DIflkNBMOsGALNou1F_Ql-8uhu0GmuxGdViAq8BMwY76arTah813SPWRpg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/X3Jv2SOs9qXJk_zbawIpxvLYs1eGzUlQdbsbXmsTjBWa3wGAEEqalYOCwYbEq2riIXkNYkHIt1vOrtGvqmdDDtkdQ8cSvpkDjcwep-96UqRfJ5WJdaPJg3MUItVmaJcLJL4a47_GFq1H8fDGY-TrAyxhy_vzxh5fBACWPLPOCaXsWz5iok0j8qchHAsjtm9FZJJPZvNHxTdb_2XnWkDpRu4Ju9encRCZEFPE2QtTZIe9I4EdYhsquv1QGrVLt_HYmX4arzLNtJkwxKBnca3AI_OD6mmVKS9ViIzB_-9WsIF9mkpQ2Szto6rBJvR0-2Y6iWbGYJWrNOuKIPyjyawRjA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شماری از رسانه‌های حکومتی یکشنبه ۱۸ مرداد از انتصاب محسن رضایی، مشاور نظامی مجتبی خامنه‌ای، رهبر جمهوری اسلامی، به‌عنوان نماینده او در شورای عالی امنیت ملی خبر دادند، اما دقایقی بعد این خبر را حذف کردند.
 خبرگزاری تسنیم، وابسته به سپاه پاسداران، به نقل از «شنیده‌ها» نوشت که با این انتصاب، محسن رضایی و سعید جلیلی دو نماینده مجتبی خامنه‌ای در شورای عالی امنیت ملی خواهند بود. تسنیم پس از چند دقیقه این مطلب را از کانال تلگرامی خود حذف کرد.
 رسانه‌های مهر، ایسنا و جماران نیز خبر انتصاب رضایی را منتشر کردند و اندکی بعد مطالب خود را برداشتند.
@@ -2059,7 +2061,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77782">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FdajYU_cCy99m5cdyrXwySrqzfiTBT7Ke2MjLykUU7Ak2Qo61f3udJ1Lc9WfPpH8mycOOSKTSMUyHqCUIFquKTvSgJ4TBDZFkuPG0553jGoL_ErH30nDqjaN1eXa-sypdw7TieqjeLs6QiKSfCG_hAUTP4NIOXcj7dq3WxTWNtd1F4IwXOr0MZO4ARisvowci3-2xxXLqgvRWUT2IF-60X8hgmOLyM4lAD2NP2vh2i7sqOwoo69x_3SwaYUueK2cauDPSxtxoMwKuqqoiRZeQBs85hjs5jmV3fMNYMqj-q-g3xHtCj0Xakl23Us055_XU-3Qy1-7NYuJnxzA29yqVQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cxmK0FsnhrGKj2DplOSrXHv0RAp3X2AJKKBrf4XsHm5g8RJOAfHY1VFKxKpv9R5tPcRQ6VPXZXvnMz9KdWf8Y1mVEuKOUKmd4AD2zVJtCwRFDJ47fEBRQVZ_sDUTL7hGRyYdV9tYEQ3MHk20s2BHucE_MeIbRGXQ_RNp_LvNLG0vpseFym_PFKBwXsyqtkp7-b-3FtJCXa_x1wyoTTqqf8OG17gLFe2Wze3f9KrtgUv5emMLfZBQ75QxmvTeLl4VK3BrHJPf-hobjvPfXu0WA9KVTAELt0QBNMP115-qrZDhdYVQfwWGmsQx9o7aDeTfWpFE4-ttJCHnyffytoPB_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در پی انتشار گزارش‌ها در مورد حمله موشکی روز شنبه نیروهای مسلح جمهوری اسلامی به نفتکش اماراتی در خلیج فارس، وزارت خارجه امارات متحده عربی با انتشار بیانیه‌ای ضمن محکوم کردن شدید این حمله اعلام کرد، این حمله تلفات جانی نداشته است.
 وزارت خارجه امارات، روز شنبه ۱۷ مرداد ماه، در بیانیه‌ای این حمله را نقض آشکار قطعنامه ۲۸۱۷ شورای امنیت سازمان ملل متحد دانست؛ قطعنامه‌ای که بر آزادی کشتیرانی و مخالفت با هدف قرار دادن کشتی‌های تجاری یا ایجاد اختلال در مسیرهای دریایی بین‌المللی تاکید دارد.
 وزارت خارجه امارات همچنین اعلام کرد هدف قرار دادن کشتیرانی تجاری و استفاده از تنگه هرمز به‌عنوان ابزاری برای فشار یا باج‌گیری اقتصادی، «اقدامات دزدی دریایی» از سوی سپاه پاسداران محسوب می‌شود و تهدیدی مستقیم برای ثبات منطقه، مردم آن و امنیت انرژی جهان است.
@@ -2161,7 +2163,7 @@ BarakRavid
 
 <div class="tg-post" id="msg-77770">
 <div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/e6agL9TTUWu9nEeFTHFqZ7zcVEbFYzCTGJV8c72Hcx1Hbqvt3XhPtRrTTK9jIW7Mf7IjxT7brwgG0CFPFyTEGIbR4P8ZSa-JFoUtGlGFnf_wH9KWjrgWcyfIdpbmPV4Wsj9yvq_C9yMb2HvrPaMxjNUilIgLAP_lCYBeOZEvv56RWyfMsbejODhN1oOgALd0YoFHns4K1Ioyu76PkyLmqPXS9pPZ8AD2bVX3GkLL0R_AzqptNAg2Uzh-9tfYhJ9Lq0iFM4enVTA4ue3SywVKkv0DM1ROuFe6r0e4sn-r5G52AnrZFiZT25WbpgoIdDjXKDVXULAIKY1c-J6EizrkPQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jTOrc2W04TteorXz6jt2vKHz2nk6H0JBwGcjdR8WnJlH27ouoJlSIkcclqcF-96xeFTZbnF9EEqDh0uiRwqCt-rnymD6qVlmcfzSvV_Ow-NDiYkXZhQppYGiey-fiVJyKOzlU1bWCmZMQaXrRhqH71KPGdcgT8SxaR0L_dSEMrqEyfDjjxs03D6eBuXFgqONIu72CyasBPdNOLMcPMQ_0r0uC6YXM3cvSXiKgexh8rpx8AR6xhuG8WTU4ryWcxqcyLR7mhNPrE-sF30nQqkduX13I8LpCBItXjPsHF5uWAkzOW9m1n_soI8mcnaGSsVo-gkfq2UmQBdphTSCivn-vg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزارت خارجه ایالات متحده آمریکا در گزارشی که روز جمعه ۱۶مرداد۱۴۰۵ منتشر شد اعلام کرد که «شبکه‌ای از صرافی‌ها و شرکت‌های پوششی مرتبط با جمهوری اسلامی» را هدف قرار داده است.
 در بیانیه منتشر شده از سوی این وزارتخانه تاکید شده است که ایالات متحده در حال اخذ تصمیمات قاطع با هدف «قطع شریان‌های مالی» است که حاکمیت جمهوری اسلامی ایران را سر پا نگه می‌دارند.
 این وزارتخانه در بیانیه خود نوشته است که این اقدامات با هدف برچیدن شبکه‌ای از صرافی‌ها و شرکت‌های صوری انجام خواهد شد که به ایران کمک می‌کردند صدها میلیون دلار را به‌طور مخفیانه از طریق نظام مالی بین‌المللی جابه‌جا کند.
