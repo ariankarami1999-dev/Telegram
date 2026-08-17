@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 22:35:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 23:18:20</div>
 <hr>
 
 <div class="tg-post" id="msg-77922">
@@ -309,7 +309,7 @@
 Vahid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/VahidOnline/77922" target="_blank">📅 21:13 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 134K · <a href="https://t.me/VahidOnline/77922" target="_blank">📅 21:13 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77920">
@@ -327,7 +327,7 @@ Vahid
 Vahid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/VahidOnline/77920" target="_blank">📅 20:40 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 162K · <a href="https://t.me/VahidOnline/77920" target="_blank">📅 20:40 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77918">
@@ -349,7 +349,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 195K · <a href="https://t.me/VahidOnline/77918" target="_blank">📅 17:44 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 210K · <a href="https://t.me/VahidOnline/77918" target="_blank">📅 17:44 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77917">
@@ -363,7 +363,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 179K · <a href="https://t.me/VahidOnline/77917" target="_blank">📅 17:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 192K · <a href="https://t.me/VahidOnline/77917" target="_blank">📅 17:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77916">
@@ -386,7 +386,7 @@ VahidHeadline
 اگرنه وقیح‌ترین‌هاشون هم درباره مسائل ملی مردم‌فریبی می‌کنند و این طور صریح نظراتشون درباره «ملت فدای امت» رو جار نمی‌زنند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 165K · <a href="https://t.me/VahidOnline/77916" target="_blank">📅 17:28 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 175K · <a href="https://t.me/VahidOnline/77916" target="_blank">📅 17:28 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77915">
@@ -399,7 +399,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 155K · <a href="https://t.me/VahidOnline/77915" target="_blank">📅 17:23 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 164K · <a href="https://t.me/VahidOnline/77915" target="_blank">📅 17:23 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77914">
@@ -415,7 +415,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 145K · <a href="https://t.me/VahidOnline/77914" target="_blank">📅 17:22 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 153K · <a href="https://t.me/VahidOnline/77914" target="_blank">📅 17:22 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77912">
@@ -434,7 +434,7 @@ VahidHeadline
 اما خیلی زود اتفاقات خوبی خواهد افتاد. در واقع، همین حالا هم اتفاق افتاده‌اند، چون یک چیز هست که نمی‌توانیم اجازه بدهیم: نمی‌توانیم اجازه بدهیم ایران به سلاح هسته‌ای دست پیدا کند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 148K · <a href="https://t.me/VahidOnline/77912" target="_blank">📅 17:13 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 157K · <a href="https://t.me/VahidOnline/77912" target="_blank">📅 17:13 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77911">
@@ -457,7 +457,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 159K · <a href="https://t.me/VahidOnline/77911" target="_blank">📅 17:00 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 167K · <a href="https://t.me/VahidOnline/77911" target="_blank">📅 17:00 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77910">
@@ -470,7 +470,7 @@ VahidOOnLine
 <a href="https://cdn1.telesco.pe/file/557e36e83b.mp4?token=BzukPfp7iQwho6YLy4_UovJeXFD_Vy8BB7hGXKPEQLo7pIJfeCjqi7HbtdqoYSvuvLJS5rHQJ_B7hlgncfdv_gGhdoRBnACPujUqyMcKCmdwLFwSolie6bfL8hzViU0b1mcaFKfotkkF7bbqY8VRYtmPj4O0lw-qZi2HwI1AEwPka83ev27DiEO5k3RxWPFIeg5zqXiGvxVvGM5adK0sz4mOQB6bCl4CCVMXylnmU9J0PKWMe2zfqxDI9mOP2ikvGV8qj09tjNugSb1ebpcJlL7F8Clg12Kgj0Swv_RBTKYcspUmhg6hNUGt2hZUr31KybbfEojN_5-DKArKZO_GLw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">احمد آریایی‌نژاد، نماینده ملایر در مجلس ایران، در یک مناظره تلویزیونی، کشته‌شدن مهسا (ژینا) امینی را با عبارتی توهین‌آمیز توصیف کرد و اعتراضات پس از مرگ او را «هشت ماه اغتشاش» خواند.  این اظهارات در رسانه شهرداری تهران (همشهری) مطرح شده است.  پدر و مادر مهسا…</div>
-<div class="tg-footer">👁️ 157K · <a href="https://t.me/VahidOnline/77910" target="_blank">📅 16:53 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 164K · <a href="https://t.me/VahidOnline/77910" target="_blank">📅 16:53 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77902">
@@ -496,7 +496,7 @@ VahidOOnLine
 ManotoTV
 🤖
 @VahidOOnLine</div>
-<div class="tg-footer">👁️ 151K · <a href="https://t.me/VahidOnline/77902" target="_blank">📅 16:51 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 158K · <a href="https://t.me/VahidOnline/77902" target="_blank">📅 16:51 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77899">
@@ -515,7 +515,7 @@ ManotoTV
 نگاهی کوتاه به این واقعه:
 https://www.iranrights.org/fa/memorial/story/-3134/atefeh-sahaleh-rajabi
 @IranRights</div>
-<div class="tg-footer">👁️ 175K · <a href="https://t.me/VahidOnline/77899" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 183K · <a href="https://t.me/VahidOnline/77899" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77898">
@@ -536,7 +536,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 322K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 324K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77896">
@@ -557,7 +557,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 308K · <a href="https://t.me/VahidOnline/77896" target="_blank">📅 19:12 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 309K · <a href="https://t.me/VahidOnline/77896" target="_blank">📅 19:12 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77893">
@@ -591,7 +591,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 284K · <a href="https://t.me/VahidOnline/77893" target="_blank">📅 19:04 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/77893" target="_blank">📅 19:04 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77886">
@@ -637,7 +637,7 @@ VahidHeadline
 بخشی از پیام به‌مناسبت سالروز افتتاح اولین دوره مجلس شورای اسلامی و آغاز سومین سال فعالیت مجلس دوازدهم | ۷/خرداد/۱۴۰۵"
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 257K · <a href="https://t.me/VahidOnline/77886" target="_blank">📅 18:43 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 259K · <a href="https://t.me/VahidOnline/77886" target="_blank">📅 18:43 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77881">
@@ -668,7 +668,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 279K · <a href="https://t.me/VahidOnline/77881" target="_blank">📅 18:31 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 280K · <a href="https://t.me/VahidOnline/77881" target="_blank">📅 18:31 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77880">
@@ -689,12 +689,12 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 334K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 336K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77879">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/pgqW3k4pAiAj_FAbsWjgRP0zEMj_530AbmKmYIzO-iuAqCw-PWsAkez-tFs98vkQ6RqIbnhFiLAWC9fr4lhue2FxCUILeCi4XDbyzwdasnMnAIofmWst18aYi7T2nuNvVKv8V0u_bx86AcC5y-bA09bGZK0ekYq_H2o4atsMGRTmpd6XHGrOyFOtSZt0ZgG0m2zF-ujJ60clIcgbIa5n7T2AGmR1qdkZ7QpGKSJqIUfaP8qH4ToORJ6HTqQHaaedwlEXwdDPdHjx8DbWbVL_gUtJ5-8GiaSD_ITz1JiIs8REvbNjmIHXJToGXWhqarKrqReJOGyofPoKbFK9gBvZRQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NBj19xRrTVc2ce481wO-K7aeyXpn6Adcdynrgez9Vh8NNorTT0tZGRPwNTgJ_dvQkIwVvBoqy5J7YPT7X2R8zkw-Zim-shhWz8kJNTlc1KTOrlBFEvEUNSIEnrk7qeeATeClS5qbBvp-Fj6c98MyB5geZJaJIkxOMB8flg9LBVcQlibShZ0NrnQIxjVesFYsH-ri4FBcTVePWdhjDMRoKpo9MHf83pnB69vx7WY2QR0vxsIN1X_yWbtx0jBkO1fri65pJxDH5zm47PmnShJ6-Y3RVRbyKeBVBsRuOy2jZUFxuBPnzSKUJweXUiHPDnDOK5Pe9WSkY9Chd9H2md7L5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ماجد محمد الانصاری، سخنگوی وزارت خارجه قطر، ادعای جمهوری اسلامی درباره بازداشت سه خلبان ایرانی را رد کرد و گفت نیروهای قطری پس از جست‌وجوی محل سقوط جنگنده‌ها، پیکر یکی از خلبانان را پیدا کرده‌اند.
 الانصاری روز شنبه ۲۴ مرداد در شبکه ایکس نوشت ادعاهای مطرح‌شده درباره بازداشت خلبانان ایرانی «به‌طور قاطع» نادرست است و از انتشار این اظهارات، به‌ویژه در شرایطی که تلاش‌های دیپلماتیک برای کاهش تنش در منطقه ادامه دارد، ابراز تعجب کرد.
 سخنگوی وزارت خارجه قطر گفت پس از ورود خلبانان مورد اشاره به حریم هوایی قطر، با آنها تماس گرفته شد و مسیر هدف‌گیری نیز بررسی و تایید شد. او افزود پس از رعایت قواعد درگیری و برقراری تماس با خلبانان بدون دریافت پاسخ، قطر اقدامات لازم را برای دفاع از خاک خود و مطابق با الزامات قوانین بین‌المللی انجام داد.
@@ -706,7 +706,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 350K · <a href="https://t.me/VahidOnline/77879" target="_blank">📅 23:28 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 351K · <a href="https://t.me/VahidOnline/77879" target="_blank">📅 23:28 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77878">
@@ -777,7 +777,7 @@ VahidHeadline
 جزئیات بیشتری درباره مصداق اتهام «محاربه»، مستندات پرونده، روند بازجویی و نحوه برگزاری جلسات دادگاه منتشر نشده است. آقای سپهر امیرزاده، متولد ۱۳۸۲ و اهل رامهرمز خوزستان، مدرس و نوازنده موسیقی و ساکن اصفهان است.
 #نه_به_اعدام
 @IranRights</div>
-<div class="tg-footer">👁️ 304K · <a href="https://t.me/VahidOnline/77875" target="_blank">📅 18:30 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 305K · <a href="https://t.me/VahidOnline/77875" target="_blank">📅 18:30 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77874">
@@ -802,7 +802,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 343K · <a href="https://t.me/VahidOnline/77874" target="_blank">📅 11:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 344K · <a href="https://t.me/VahidOnline/77874" target="_blank">📅 11:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77873">
@@ -864,7 +864,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 358K · <a href="https://t.me/VahidOnline/77870" target="_blank">📅 17:15 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 359K · <a href="https://t.me/VahidOnline/77870" target="_blank">📅 17:15 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77869">
@@ -881,7 +881,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 339K · <a href="https://t.me/VahidOnline/77869" target="_blank">📅 17:14 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 340K · <a href="https://t.me/VahidOnline/77869" target="_blank">📅 17:14 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77867">
@@ -1037,7 +1037,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 330K · <a href="https://t.me/VahidOnline/77858" target="_blank">📅 05:24 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 331K · <a href="https://t.me/VahidOnline/77858" target="_blank">📅 05:24 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77857">
@@ -1090,7 +1090,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77854">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kLDGC8J6iamnlEJ_fT-yzOEAQ8GEJyBl2EOPdZ-OkWBzAPsNvlf0yEGCvGl0zqvoejf-jDjrWlcycldZQNJ8_0u0ExDjQdem7q1f6dy4ZJpGZ-s0enmwPU2cU39WFXRpQoEDtHgRbkrtIVLcQCiaObVn1BM7uo_HxVy17b7_jEw2Nn3ouKUC4jypy_MdqAh6z6IcsGTAWiz7XjmmtRle_598334NJHxV_go8GbANiKLJtUFC4vnqCNGlWxxvFOtQ1m57g23CZwlB2YHVWthD6nkIprWWOuC9NyCR6MulR_q-5xS8023GX6JY5xsBBc2vdPo_YwSVtCXDrbQ2AHtrTA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kIRxz3f66_06YKMx4buGeDbDmFu0KlVq27auJ7t-GR-cr-AyjHOosRneEzsVAR8DtCRid7amh0P_aYuVtuq1J5I6W-t1at1JAmFdZ3dNedW1w2QlLT0ODHzmwCHH6AbvIcKWjqDK1rUYlWtRvVqczJbyHsmE5pFZI-FrKyglcHvia4tqcCz3WoOpozBoiZUP6QoLxfy99WruExETSQnVjryqlbYjvLEK-RVrbbjv4pxHCgS1ULCGhwU-3q8iw2B4JECjaI-6Gx18MwSSfvcZuEJEZODrVgYpRdrvWFyz2SzbME6ez6omcrzxkEpcz13bwnY84AT2wGXdyFix5A_AdQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فرماندهی مرکزی ایالات متحده، سنتکام، روز پنج‌شنبه ۲۲ مرداد از آغاز روند تشکیل نخستین یگان چندملیتی و چندحوزه‌ای پهپادهای تهاجمی خبر داد.
 این یگان با نام «نیروی ویژه فالکون استرایک» از پهپادهای یک‌طرفه تهاجمی و سامانه‌های بدون سرنشین هوایی، سطحی و زیرسطحی دریایی استفاده خواهد کرد و نیروهایی از آمریکا و شرکای منطقه‌ای در آن مشارکت خواهند داشت.
 سنتکام اعلام کرد رایزنی و دعوت رسمی از کشورهای شریک در منطقه برای پیوستن به این یگان آغاز شده است و با پیوستن آن‌ها، «فالکون استرایک» توانایی‌های پهپادی تهاجمی در خاورمیانه را در قالب یک ساختار چندملیتی و چندحوزه‌ای ادغام خواهد کرد.
@@ -1099,7 +1099,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 343K · <a href="https://t.me/VahidOnline/77854" target="_blank">📅 21:44 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 344K · <a href="https://t.me/VahidOnline/77854" target="_blank">📅 21:44 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77853">
@@ -1116,7 +1116,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 316K · <a href="https://t.me/VahidOnline/77853" target="_blank">📅 21:43 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 317K · <a href="https://t.me/VahidOnline/77853" target="_blank">📅 21:43 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77851">
@@ -1137,7 +1137,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 314K · <a href="https://t.me/VahidOnline/77851" target="_blank">📅 19:26 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 315K · <a href="https://t.me/VahidOnline/77851" target="_blank">📅 19:26 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77850">
@@ -1190,7 +1190,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-77840">
 <div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nJ08iX8HHKBFYUTYR0bd5VC7nSpo4HiWGEoTC1NAmnyc-0sa-BCkvthMLnoEAmNo0Z0nqmDWqNyIckTDCFlE-eehkMmvcmA5XxSn46Rcigpk4m3NyHLM-IP48zg5DVfY0HQjdRwNlmFjk3KUTPvRPY9XzNx1eByMolFbYNpsGTsYBYo5lItMn1yEtv85Qe3eDbXMrsBdpyPsQb-OU3jYyTFTl2Gmdjyy6gga5vW3Uu3FKXi6q3PGfg1snX-aGLPMNM_LZivZ2Zslaok4PkDZBGBUk4yzF7wX1gykJEla4WWwDVS0DyWdPIynJztQZ1QOV9fb7x1MINR_CecZFm5Sqw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Sc9zklNMWgzXdq-xQJu35T13zZal1mjOeifJWFY7cSEgb9-MGQKWeHEH9a2KH5gtS7LkxVUgXb0gZ5340UOa_n05rS0krHUNyjRBnESks0MvQsJek0EtexkL9cVFI5b4W5DWCpVkadcnkHm1TbPVuMbjecji2YMl8rmjA1o4b4dFnJGz16UPuuY1PffTSDX6LZ8NRHpq9EZ5yUR5rXsjBgYwOlbFAPJECfLbvkJjhegUeDMXTHC5tm2CLLTaYFKb8Su4wFZIP5D4vPn_qXEGQ_fLZ4CArz0d2dF1ka3-kGvRT8EZK-s-UFWBcn0c7qlvH4oJwlXbFGD-Ai7DHkQwWA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معاون هماهنگی امور عمرانی استاندار کرمان از آغاز عرضه بنزین با نرخ تمام‌شده پالایشگاهی، هر لیتر ۸۷ هزار و ۲۰۰ تومان، در ۲۰۴ جایگاه سوخت این استان خبر داد.
 به گزارش ایسنا، علی‌اصغر ذاکری‌هرندی اعلام کرد که عرضه بنزین بدون یارانه از ساعت ۲۴ چهارشنبه ۲۱ مرداد، بامداد پنجشنبه، در جایگاه‌های سوخت استان کرمان آغاز می‌شود.
 @
@@ -1238,7 +1238,7 @@ The U.S.A. has total control over the Strait of Hormuz. I THINK WE WILL KEEP IT!
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 358K · <a href="https://t.me/VahidOnline/77837" target="_blank">📅 18:25 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 359K · <a href="https://t.me/VahidOnline/77837" target="_blank">📅 18:25 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77836">

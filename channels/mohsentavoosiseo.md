@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 22:35:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 23:18:20</div>
 <hr>
 
 <div class="tg-post" id="msg-903">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">سوال:   دوستان من یه دسته بندی رو آوردم بالا و رتبه ۴ صفحه ی یک هستش  اولین سایت که ترب هستش  ولی اگه ترب رو حساب نکنیم میشه سایت سوم طبق سرچ کنسول توی بازه ۲۸ روز ، ۱۲۹ سرچ داشته  ولی کلیک ۵ تا!! راه حل برای کلیک گرفتن چیه؟ عنوان  و متا هم از دو رقیب دیگه…</div>
-<div class="tg-footer">👁️ 484 · <a href="https://t.me/mohsentavoosiseo/903" target="_blank">📅 20:05 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 521 · <a href="https://t.me/mohsentavoosiseo/903" target="_blank">📅 20:05 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-902">
@@ -314,13 +314,13 @@
 چون روی کلمه ی اصلی اومده بالا
 پاسخ در ویس:
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 557 · <a href="https://t.me/mohsentavoosiseo/902" target="_blank">📅 19:56 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 591 · <a href="https://t.me/mohsentavoosiseo/902" target="_blank">📅 19:56 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-901">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">سوال:   من از وقتی هاست سایتم رو برم روی Geo Dns میهن وب هاست یه مشکلی پیدا کردم. کلمات کلیدی تو سرچ کنسول رتبه دارن ولی وقتی خودم دستی سرچ میکنم نیستن. اکثر ساتیتام اینجوری شدن. این طبیعیه؟  پاسخ: https://t.me/mohsentavoosiseo/511 این ویس و ویس پایین  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 970 · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 994 · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-900">
@@ -331,19 +331,19 @@
 https://t.me/mohsentavoosiseo/511
 این ویس و ویس پایین
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.01K · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.03K · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-899">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">کسانی که جدیدا دوره رو میخرند، دو تا دوره دریافت می کنند(قدیمی ها نگران نشید تا آخر بخونید).  دوره جدید، برای راحتی ذهن شما جداگونه قرارداده شده و دوره صفر تا صد SEO و AEO برای همه زبان ها و همه کشور هاست! و کاملا آمیخته با AI که ابزار اصلیمون Claude هست.…</div>
-<div class="tg-footer">👁️ 1.54K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.55K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/mohsentavoosiseo/898" target="_blank">📅 11:01 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/mohsentavoosiseo/898" target="_blank">📅 11:01 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-897">
@@ -369,20 +369,20 @@ Ban
 #بن
 #ban
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/mohsentavoosiseo/894" target="_blank">📅 15:01 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/mohsentavoosiseo/894" target="_blank">📅 15:01 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-893">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">تفاوت کلاد تو چیه دقیقا؟ نسبت به بقیه AI ها؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/mohsentavoosiseo/893" target="_blank">📅 14:58 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.65K · <a href="https://t.me/mohsentavoosiseo/893" target="_blank">📅 14:58 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-892">
@@ -396,7 +396,7 @@ Ban
 </div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/mohsentavoosiseo/892" target="_blank">📅 14:56 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/mohsentavoosiseo/892" target="_blank">📅 14:56 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-891">
@@ -484,7 +484,7 @@ booking.com
 @mohsentavoosisupport
 پیام بدید. من نیستم پشت این اکانت. بچه ها هستند.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-889">
@@ -551,7 +551,7 @@ booking.com
 اگه اعداد مختلط نون شد اومد سر سفره، یا ماشینتو عوض کردی یا خونتو یا دارایی هات رو یا زندگیت با کیفیت تر شد، قطعا مسیرت درسته.
 حالا به جای این ریاضیات، هرچیزی بذار. از الگوریتم های گوگل تا مستندات و نحوه کارکرد مدل Fable کلاد تا... .
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.17K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.18K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-883">
@@ -595,7 +595,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.68K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.69K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -685,7 +685,7 @@ Claude Cowork
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IDuVJ5m6doGgxDjxvWPynzyjuCStRPY_iQnm8zRwyBqt_qfR9MjAx3ONxZDrghvaLLxuJ5JRjmEnZ_YXVegxB7Vi1p0Zu-m_wnt2Cd_CUMts-NyCt8VJhRWrReMpRsS9XS7_kxzS76Vn8czJQ6G5UzwMTZjngZoPxbprjUQiZqOIT2YkHsnwnYzcxLf9ra7rveUAFGc70kKw4gdtlhpVlK-7suBopYKXFGoIGJaqZ-Z23NCqwza2dV4S4XoTjcbHKVOo22goQIZfdZPifFUjvwZZ0bbh_wNK7ZCq6Qjcr3pOjBcXGLoWV7SdfXNcZpPcnTtRs7rUoVkQWjLw2JagOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
@@ -747,7 +747,7 @@ Claude Cowork
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">درباره کمپین تبلیغات محیطی ا.......پ
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/mohsentavoosiseo/870" target="_blank">📅 23:03 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/mohsentavoosiseo/870" target="_blank">📅 23:03 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-869">
