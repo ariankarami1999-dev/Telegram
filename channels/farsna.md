@@ -292,11 +292,56 @@
 <a href="https://t.me/farsna" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 حقیقت روشن می‌شود‌‌تبلیغات@Farsnews_adsارتباط@FarsNewsفارس‌پلاس@Fars_Plus‌ورزش@SportFarsجهان@FarsNewsIntعکس@FarsImagesپیام‌رسان‌ها@Farsnaاینستاگرامinstagram.com/fars_newsتوییترtwitter.com/FarsNews_Agency</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 17:57:56</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 18:23:22</div>
 <hr>
 
-<div class="tg-post" id="msg-456578">
+<div class="tg-post" id="msg-456587">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس افغانستان</strong></div>
+<div class="tg-text">انفجار در نزدیکی مدرسه‌ای در غرب کابل
+🔸
+منابع محلی از وقوع انفجار در منطقه دشت برچی در غرب کابل خبر دادند. این انفجار در نزدیکی یک مدرسه خصوصی و هنگام خروج دانش‌آموزان رخ داده است.
+🔸
+تاکنون جزئیاتی درباره نوع انفجار و تلفات احتمالی منتشر نشده و طالبان نیز در این‌باره اظهارنظری نکرده‌اند.
+@Farsnews_af</div>
+<div class="tg-footer">👁️ 1 · <a href="https://t.me/farsna/456587" target="_blank">📅 18:25 · 26 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-456580">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ugm_bLunFx-RAVi46qQH5NU7FUYC_9HcLSinMCC_q_eYUjCjBbqm5yIKNZ3Jr-SnefmW0v4zC6kzVs0HLo_7i0dTCkUDI4xvaU0v1mf7HAs2Us9UvDsZ1v38_TlawD8Mqj20V_nMvrbFBsEMCj4-hgXDvYQ994H5F_Sx88XdPnl8IsBWM1ZLfolfMMAAl5WWS6NytxFlNC92SD4UdqYRIMwRRaj3FsMRP_Sa4voJRqa9Eqtbr7bl3l2crBITsj8NWqA1ZhgJsgTcBd0Nm1qlG0OYfWk9fXw6DtGVTK3tWpIr0KLJnXzvqD7TbyFKYxEBSdSHa3J2r2NehspDFA8a1Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/SZ7WR4FZKNM6VyYw4MKwcYsoOArBt4sQljEcJDI22ULj1PGXuQc2YnoshU19DyFVVS6wZDICi3ggq3WhF1ZEfhjh1XOpt3w-fruH8284dWB8cjqGkPt1lu8xfJBQw9K4FsYIBpcdeIZazFxAqIEiR9vWYwDtsMf5ljrTJSBlfSSrQoF5OYYYmRDGU69dgcvVOUaIncKNZxoIWb6LxB50pTNmA7mjx92aYoL6hV20ETF88ue98e3NMZ9cEOe0L5qrFoVtdxs8xNDwPgd6sCKkmUFyMGvja-N7_wTHBGNWWuHeNqVK58g_ELeY1a67wg8uRfI_77MyR0UdtM0iyNKnPg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/V_CQJ7MLM2Mh5eCoMOuemhn8aSfV78agCIZz7lZcYVBKao39VTAWIarkeUH_pyggdLCB-09529dHdKHnfuB15TPkyiLnGRKC3hf5OGMa_EJxGxAxsOwv0S1HnH87gugesmgI8HpEP0zKVVb4ERbGgwNHcDRqBE8pXssPGNMVUaXmJD_UL4JV7VC9ng-lf2lWSCnvyECn6W9qOO-GNVFdM5NCJaD0PN1OT4CXHMUR3fw8jq6GsfclpdSJKq6esiE45oiZ4a0-Kc-8kv35CO2jdOnldwbJfpEdy8kcE9esz7OP5wC9m3K4VGYIWnl_lXEb5GZwPQTWjBLQw_QEjBUUmQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/MtGIFTnv0QbRbJsQgsSCj9j-NiI7YYAvDF583VqwNyNv_EtRGBrdbwZJAb9ABM6m7S9uxHJ7GtBOV1R9yaAptcCPeloyi4RcNMGHu0buTjPL5EZtHdmhqfjkEjag-d8np5r1S561Xh4HRaJu5Er6kRKpkCN9q8BOS8zriXVf54_mCod87WVcUCzkLPrg-I0CwfGcSEG8SMCg4l4Bso1Y9NNH2imtGcejRhySOlOKbwQrg9PyU_9b-VT8UMdOBky_TEP688dhu6fLdR5stPKKNoYs9v5Apc1Et4jkc8JsKPojwJb1xD9YfM_KGA5iB-gwNJ2tVQhhwlTMxMKc0vzY_A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Yw5_b-deXQ3Zfnr_Y9En-ugLqtRjb5uZXRcyChELdQsRq5a2eh-s4h5mcfNA5bv7NnLAGqVutUDiEhoodImdjUX9vyOIYnGcKIrGP7Rqim6lqJGJzcpOW27Y6J5Fa3PWZXq5vteSeJeDlWCNWo7Sx_NbZstWkhAzPvqnXQctXA0Ne19lUy78ZLsqW0kRwOn-uNDpU1o6O0TzKH-mhSv51bmt8bk0-dnqQw7TTFqfgyoDhWWvTzliB_cRmJwJyvu7mS1Vo2qfWuVMSDqdtlu996z21C21VcKg4LKd8EdliAowimNqxqSLcxYcYhIj5tLrlw0zYsZ0x-C5prDFBIqsdA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Zx8Y9E2hYrDMP0SR_Sf6U3rWKZfRIdbEYNjHSeNqtRW95bsblMFHeTrNhGb7AUQScj1n6GELdtXeys2q9IG6ep337H9qQSkMUcEOTlHgnRB-yfxnvIMDjWcrbseJcYAMK_0JvzI-gWQuJOzbjPolrr1bebIp_Y1nmR4i5xhaStDPkdTezBY6j14LpqBCo-ZdnB1Qh-NKayLI0svNVZZ2oP5wcdjTUs4SOxm4RWSYxfb3n-DYN5D1cRYVTjSSHFcuASz0GjRb8sCv9keqM7jiVgmEKVnilgfOhRQX9D5J17XULMKOJ8g2F5YqOZ6bMp5YeIV59BMTqTVD8LpyY8U4Ag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ilej4JtRUKZeB1NQwHll5AQ4J1I8pyKJagIcXf4NJmPL0bCpi1HWeLAwDEfWizESNy_yC-mW9IsdaUxuXr9p0hMFQPLJcDckRnDXtBikteA6tfA0JCZ013NbRJxVlOqsTTj3CXFGZTzP8yKe0mL1sDAhHQRTmzixqQhBfvd7Sm4XF5mWzrrU00J5ueMN5i7o44ReMH_J5Wq6qxBvUzx0UCXhj7-xQgVEdwXQH0jQQuWYj-BljjtuzQQEgJnEEFqCZv_O8m2E2MqAnlRjysv2tC-D4ebF3kF40KKXix_sZ0oKIFN_OFt8PYf9NTqAt9RAa7hxXiS04kU9YVdkbj09VQ.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">📷
+گرامیداشت راویان خط مقدم رسانه
+🔹
+آیین تجلیل از خبرنگاران و فعالان رسانه‌ای امروز باحضور جانشین فرمانده و سخنگوی سپاه در سالن سوره حوزه هنری برگزار شد.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 823 · <a href="https://t.me/farsna/456580" target="_blank">📅 18:19 · 26 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-456579">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lx6uy35SuWH6AscC96auLeh1NBCziISx_yTaM27hTnToNwL8m2BgYo9VGCgoCC7MKDTZ2un0AP_2txgOLAutjDIf6_-w6P_pey2D9VVqWWMHZ_k1oO5urWzFXDOGTCOWbd5wYrziG_mjmdS5IakiA9cDvvehtyPR7GP6t_GRlmiXWwn922F2T4qDTX3h7V7ChjU--ThNoHa6LJepqDpT42Ojh15VqAAuWspr9xAvgurEOj1bDOKPmauo6tRibIhxLfezPSZ-KORlaprQSdS1ECpiUCoiRjlTrN9tlSRvGX8W27DfoWM0Pr4P4-w91-A0cVl9YUpWGTzPPDjKYN0UFA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">سفر عمره از اواخر شهریور آغاز می‌شود
+🔹
+سازمان حج و زیارت: اعزام زائران ایرانی به عمره پس از ۶ ماه وقفه از سر گرفته می‌شود و در مرحلۀ نخست هر پنج روز یک پرواز از استان‌های مختلف به مقصد عربستان انجام خواهد شد.
+@Farsna
+-
+Link</div>
+<div class="tg-footer">👁️ 1.17K · <a href="https://t.me/farsna/456579" target="_blank">📅 18:15 · 26 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-456578">
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b8e88157be.mp4?token=B3eTsef5UdiVAoqnfVmS7pvxM_3MDO24RfouPciwwyRAZnVkKxhb_HMBbKfapy0HfAVT_rZeZXf04MWfTBatLU1uvrTV7qahNJE8rRMB6ISJH-BE6D_6i8hQHeMj41AE_bfrh1TED2Ps-3wRED3rCiMEKKk-ABOjF8D1GLbYQ4Iko2IShIhMSllrXiBTAAo2kxp-LnoOUdudxiSdsW-YzKk0i0QKwo-hpy2NHNIBHRybN8YDsEdpohAg4PfSwH5rFz-0vKyDl8ydnudZE4kHAZOZt36OgevJtaLw9g7TdXLxeQwcnBL5Yn6RbXt-l455z6-A0W6WHaAF9cF2thTtog" type="video/mp4">
@@ -307,11 +352,11 @@
 <div class="tg-text">🎥
 حجت‌الاسلام خلج در برنامۀ سمت خدا: اگر کسی تقوا پیشه کند، خدا برایش راه خروج قرار می‌دهد و از جایی که حسابش را نمی‌کند به او روزی می‌رساند.
 @Farsna</div>
-<div class="tg-footer">👁️ 1.41K · <a href="https://t.me/farsna/456578" target="_blank">📅 17:49 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.24K · <a href="https://t.me/farsna/456578" target="_blank">📅 17:49 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456577">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/5074a8c966.mp4?token=CfVqNNGwtAyqwT9XW6Uha3Lh9f-2mQeJBqE8cvUD3Caa60tXNYXwQRGkaGaA7dNr1jqRQQsYLU2GHWP7aAX2MQczRBDP3tJj2WxCtTonWggJFNYffxJw0C4YgzTBVcoSMn9kB6aRMfBVadLD7QvJp_wfNYHCLNdOnM61tR0XLygz967mle_tWiw76F2gNzKZkdiwnd1lqr1HM-ey0il0nQr_-X-ZITDJs0Mq_QhAWPCdaLa0fDqfiJhlmQ3JI1ZEDt085w8k7iaqEdy_n8xJH9rn6Z8-vXHO5NeIwBAHIW64jbD88cg0B1gbpwvrnItCPcZkXCrJ1Q2v9fmAbX2JmA" type="video/mp4">
@@ -324,11 +369,11 @@
 اگر درنظر بگیریم که نقش طیف اصلاح‌طلبان در برجام و پرونده هسته‌ای‌ ایران تا چه میزان پررنگ است، عمده مسائل مرتبط با کنوانسیون خزر نیز با یک درجه پایین‌تر به این طیف مرتبط است.
 🔹
 اولین مذاکرات پیرامون تعیین رژیم حقوقی…</div>
-<div class="tg-footer">👁️ 2.21K · <a href="https://t.me/farsna/456577" target="_blank">📅 17:39 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.7K · <a href="https://t.me/farsna/456577" target="_blank">📅 17:39 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456576">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/u_73xRVHjLI1VLhjtodMvJs5B32cZQTF76FXb0x0eLcWy0sSmfh1ICQl4I_UuShEXvVd7-ct5jtrWtej2pHWHvMoH6_s-xmN6ng2kwBUwomy7EStioCT87FZIYEhm_NFEJXn_hmjXX_rGyr76NmxI80TR0W_cs_zmkJtFGjqJIqG0sgfmoqNIOeu_n0nE8_tsicx6M4TUyrTm_NN9_fQFHMe94NFp-2YWXNHNQfgiIpC4Gx_N0R7L15_yFqisAl_CMYG-JMX_4uWDNvNw6Qb01ID4UgUT2UgYwdzNebC8L2z8FWyVV2RNXHcRIwNuSDSAtM1vMm7kIUoYDl1yyxwVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۹ سد برق‌آبی ایران پُرآب‌تر از پارسال
 🔹
@@ -338,31 +383,31 @@
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/farsna/456576" target="_blank">📅 17:33 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.06K · <a href="https://t.me/farsna/456576" target="_blank">📅 17:33 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456575">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">دستگیری عضو شورای شهر رضوانشهرِ گیلان
 🔹
 یکی از اعضای شورای شهر رضوانشهر در جریان تحقیقات و اقدامات پلیس امنیت اقتصادی استان گیلان، به اتهام دریافت رشوه دستگیر شد.
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 3.37K · <a href="https://t.me/farsna/456575" target="_blank">📅 17:26 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/farsna/456575" target="_blank">📅 17:26 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456574">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Po2mOjPCQn5bL_IdaA3DyckzyeimczCjcivQ03R7raHgxKC0_OBkGEfDJLhMcxoRLtDlTH7CCEKsyGK8U4sQkAPwguzY5aICjgtR2l1Cdr9Y-eapNLZNSVTz14xunL0yw3S6ft2K9Nw8CP3oTnko6IFVb6FevFMGvNvelwuJyW-NE31aoM7RpoC9Wqqw1R6gnAz674M2kHKIFKVJvINT8NDaW4iZ4FPo10gapIueZstRJuPHXPuTlkhfLyTLMnYusIKWP9lEujnSQeUCTqDeEqF44DLuVN5hk6OfUYyy3iL2ghxcy4goeQc_gBj7c0owgU9gAz0D77Bfy5jUm0e5mg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📷
 حضور آیت‌الله سبحانی در مزار رهبر شهید انقلاب در رواق دارالذکر
 @Farsna</div>
-<div class="tg-footer">👁️ 3.97K · <a href="https://t.me/farsna/456574" target="_blank">📅 17:21 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/farsna/456574" target="_blank">📅 17:21 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456573">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/5a88979b73.mp4?token=dLN8MEuf4g4UIZ20PjI_VX35dEkAAxbO9hgcxLKGEaurFIpdOBfucD9Avkza61gG069yfTyT5YX6BPCdPN1h07Ice63UP7pkquWW5A3Pav4rQdMWTOHNVDzIDFrZpsSDPOAHVf2kNlwRZyX3amNnho0ZDdSvc2x0bQa4qS39e5LczCYCUOUhcpRLELt1--1gsDGbqbuU9YJ9yM4m-0xi-i6M8NX5gQQG-xjgS3kKqSTZvwbBJVIohJR1Tt69Z_fMrC3BLTLyjjVaQU0SZU7FSNS957rohoLUJ9XrPg_y0jo5FarXLA4WN5mcLmiA-TugZCJ91srgNjCVzmcGRVvYAw" type="video/mp4">
@@ -375,21 +420,21 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/farsna/456573" target="_blank">📅 17:20 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/farsna/456573" target="_blank">📅 17:20 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456572">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e6ovHscbDaOXHqiz8L6UfhelD7DrC3ytEmLYKZvy0cFCZaw622j8OAMSifdlJ135grKLnfo8VkRvsyHYKOw8hDhekna-o56w9iUOnPAcXus40ShEOGpKnkX8N8eZS15Pl5SzlGnSdnLUSbB6cJzxEtxOQV3iW6j4H0OpiBHuTSUntthNpg_mN438INBxQDNSyZsC1JPcAPn4t_SFfSNA6cu3yt9OET7UanvVZ9BV0LznCLXB4x-AqZSg2LREbAFdY3Xtbgu4cs72hV4KB5Z2eCp2SRt-iKe1PUUNVn9wlt3NnmwGR0edoHSZHFHf7Dd7lUUtL87XH5NXu6wz1wzY4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سخنگوی سپاه: ادعای ترامپ دربارۀ گفت‌وگوی پشت‌پرده با سپاه، ناشی از توهم است
 🔹
 هیچ گفت‌وگویی میان مقامات سپاه با آمریکایی‌ها در جریان نیست و این دروغ ترامپ، صرفاً فانتزی‌هایی است که به‌خاطر توهمات و کابوس‌های ناشی از شکست و استیصال درجنگ به او دچار شده است.
 @Farsna</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/farsna/456572" target="_blank">📅 17:09 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/farsna/456572" target="_blank">📅 17:09 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456571">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ehvWi61Etn9eB1RAWEO2ZKmfPzio3g_vQszNB_aocJgxHB9X6MoYMGMXXSz916tjQ4ck0mhko1ZLBbUPJ1P1YYnL63kQYyV1tVFg_fyTCJPo8lVf50y2vtROPJEvEKgSJLckQsRVkNsJzvNnWX-QE0tXSJbQdtgLQTSxs3xVfAmfsO_sfEP_tnneO1eHTPi36W0C5wbEZ_tIvQcFleGKGMHyJDPKz6ODexIUVDmyAbk3MdAPeIxa7sntJJw8Q4bYGpzTzqplTsoAip3DDgkiQlbM5p75If9YXOqZrjxonkNUtH2otyS8h1xrZs2cifrwE-a8fN1vXU8_6kn4wEhRkA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نامۀ علی مطهری به پزشکیان: دولت دربارۀ حجاب بی‌تفاوت نباشد!
 🔹
@@ -406,11 +451,11 @@ Link</div>
 اینجا
 بخوانید
 @Farsna</div>
-<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/farsna/456571" target="_blank">📅 17:05 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.64K · <a href="https://t.me/farsna/456571" target="_blank">📅 17:05 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456570">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CcbwVsLJ7u85p8K6Q3B3zceeGYGyWKmpNE8YUuOgowwzvzvZ3zhmhe-RWMwXNg7p9WplQXyHk1YXNEy98-bBondQ2e6z_J66T1lcNCxtLhdimHOxtCX_7LYtH-1_WLKRFzP70mFafgzrF9INijDStnlXVVG8Wupuu_J2Tl5kpholRVaJgkJKsJJTX92DY8OweOYBO_TT_1ML9DU1U-IQzKrkCLt4aCFl3m1X04z_eI8bis1miyyonfF-x3FAReKGsOfcUMkDAJsnRxdkwsc-oF0og8BLqMPsTslgh9BeGkV0136uTUxwdNkXLdlx_OuIkklipWXqFLEGHZ7Az6t59A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بدهی ۶۰ همتی بیمه‌ها مانع رسیدن دارو به بیماران
 🔹
@@ -422,11 +467,11 @@ Link</div>
 پاسخ
 را اینجا بخوانید
 @Farsna</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/farsna/456570" target="_blank">📅 17:02 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/farsna/456570" target="_blank">📅 17:02 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456569">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pqbewKKeRTCZQYg8SVgmpoJ7rXAF72mxccRxHGYR-218rsrkdvVzQ48eMHO3xCRdbjRDMuN5UVopKDoDBBU91Ya0SPz3l-F_ODSx78uceOMvC_q6rKgHLybViv0vycYFHNnUPokGAU1LP_IJk591k6UtwRq86BO86_0J4qb6drntIxe4t29do-K1QuQW6DSCTVFRmudc3uepJcEXQ428a3RaDPxeujhGPjskNzhvzVPEKuoBJWQbFmke1yw9hKc9sbPbnVbeHCck2FmlIkfxhz0eOglP8Wt5kG9Lt9CWFufwcZuQ0zHTTNbHweh2D1fxV-xcU_GHpgk-qapwyxRShw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حادثۀ امنیتی برای یک کشتی در سواحل سومالی
 🔹
@@ -434,11 +479,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/farsna/456569" target="_blank">📅 16:48 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/farsna/456569" target="_blank">📅 16:48 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456568">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/29848cea44.mp4?token=GCml1VQfnQa_0XOzrB4_vOBYTDeUUND6earpiNGuEHQTgJYIrY1S7Hebhi4C44BCjn5Gz4iPp15wq6bCW208GZ_0TLfeu-gAZXM14Tk_O8C8vE-fYSMFuzxB5N79P7SLyZDCbATJ9cgKVlVJX3bp8QIDSU6TgoKsuMWRdCOgpLzAXzefY43VYJuD5N65QoORKE94HyzT99r49wqtc0-U0SDEc_2qaFYwLHCDT_l2ZsY0jUKWxheznzjbCpW80X_i56Rcz-pARR5TWWhax9roE9V3-6QT13egeS4ltlTpnkoHnucpecX6pAAukwtoxqCTWxdn5yiwctdp20cArCcTYGnnSoT45PbeGrywLuAVW9QxmlHW4HDFQcICww3e4D0dmcjFzdJQqP4CnTknBM2zaECgjmww4pxCcWYnR1nwSVP-yIY127CaTbUzOzQx8V2aNSUQoJnt5rnY-qsF9Jpt5sOjGLTOow1wVJ1fBbTOU6hctSElnvdPBvX5s5CIqThSlPUE_cX9C1mJRVBe0qEl9P95eItwPXULzUF2YSCpyroKAO5ahocbCpvTiu9A0E5MMa1LCTQzrJ_sW5hRamv0ycOVrKviDPIiSr5nILVODzfucu5dAx93qXL6gHniFmxRSBd2NrTHxlKlcSL4Po-PwzclzH12FQNPMkU8WYuEXmk" type="video/mp4">
@@ -451,44 +496,44 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 5.72K · <a href="https://t.me/farsna/456568" target="_blank">📅 16:27 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.2K · <a href="https://t.me/farsna/456568" target="_blank">📅 16:27 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456567">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jm2gYf4C15dTBjIK5nDTPkI6vC394ExB2cuiWC6C67svOKW41XbwbJsWojYZN6H96yl7U-yOH8mhDTTkohX-dM6pst50yuOvEdO2vdXkVewTR2UI0bpJU6KG0DHLf8Fqpoj-Ae8CJuo_nR7Z-9asfqyGLo9mKP7yMqSrkQ0lohCD3PX-ySz-YRumE_QL_rqwAMcps4cILm4XUXIjy98arnqTtej_nIqAkt6C2Jn4v_vLyeWi56ac2f4kTdH-r-mvhVduqyPeXQXxmJorIUpNIRXA6zmac3Gp7SGx_z0nK-FDb_JBhhYGjPrUUJ_Mi1dgGCTysllDaIhgzb1Dx75x8g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عارف: رئیس‌جمهور تصمیم گرفته‌ پروندۀ فیلترینگ را ببندد
 🔹
 اینترنت یک شاه‌راه است و نمی‌توان به‌خاطر برخی تخلفات، کل شاه‌راه را بست. من به‌عنوان یک استاد دانشگاه نمی‌دانم فیلترینگ چه منافعی برای کشور دارد؟
 🔹
 برخورد حذفی با فناوری‌ها نتیجه‌ای ندارد، اما توجه…</div>
-<div class="tg-footer">👁️ 6.26K · <a href="https://t.me/farsna/456567" target="_blank">📅 16:21 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.77K · <a href="https://t.me/farsna/456567" target="_blank">📅 16:21 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456566">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YNPid1BgytfvHoqxLcDcyRO-GmM0Dh4PWhCdvE1ACmLS7kPybgnseTVOcILvLt0xG1hvodCvZqz_ZHMuRGNCQNhkzf3UaUQwL1yV31GpgNID9yJh621ncUSR9TJTSM2sCDv6uepRRmgQnfC0QvcFbeCTZMRV3p6eCjASa511O4zSg-cXTVWn_kY0pXOIMleygNQmfxXaAGJx9UqtOX3RAcTkpQLEaILnlvrSb2rHOTBIv7qUJS8tC1Mxj6VYjzxuFWxKTzYGMPj2dgLscCXlamYtoLgp6W67JiIk539Q5BzA-D-_mLVJQWU8Cx2rKnDjwHKKR_jKXSdWRN08XTWaew.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عارف: دشمن برای کودتای جدی اجتماعی-فرهنگی برنامه‌ریزی کرده است
 🔹
 دولت پیش‌بینی وقوع جنگ‌های ۱۲ روزه و رمضان را کرده بود و برای هر دو جنگ برنامه تهیه کرد، اما آرامش جامعه را بر هم نزد.
 🔹
 اکنون نیز کماکان هدف دشمن سرنگونی جمهوری اسلامی ایران است و برای کودتای…</div>
-<div class="tg-footer">👁️ 6.7K · <a href="https://t.me/farsna/456566" target="_blank">📅 16:11 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.08K · <a href="https://t.me/farsna/456566" target="_blank">📅 16:11 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456565">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">سپاه: پاسداران انقلاب اسلامی هرگونه تهدید و تعرض را با قاطعیت تمام در هم خواهند کوبید
 🔹
 بیانیۀ سپاه پاسداران به‌مناسبت ۲۶ مردادماه، سالروز ورود آزادگان سرافراز به میهن: آزادگان سرافراز آموزگاران مقاومت و ایستادگی، نماد حقیقی مقاومت فعال و امید آفرینی راهبردی هستند.
 🔹
 سپاه پاسداران ضمن گرامیداشت این روز فرخنده به ملت شریف و مبعوث شدۀ ایران اسلامی، اطمینان می‌دهد که پاسداران جان‌برکف انقلاب اسلامی در این مقطع حساس به تأسی از ایثار و مقاومت و ایستادگی آزادگان سرافراز و با اتکال به خداوند متعال و تحت تدابیر و رهنمودهای رهبر انقلاب، با تمام توان و آمادگی، هم‌افزا و هماهنگ با سایر نیروهای مسلح مقتدر کشور، پاسدار حریم انقلاب اسلامی و حافظ تمامیت سرزمینی، استقلال، عزت و منافع ملی کشور خواهند بود و هرگونه تهدید و تعرض را با قاطعیت تمام و با بهره‌گیری از راهبرد بازدارندگی حداکثری و عملیات تهاجمی پرقدرت، در هم خواهند کوبید.
 @Farsna</div>
-<div class="tg-footer">👁️ 6.5K · <a href="https://t.me/farsna/456565" target="_blank">📅 16:04 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.85K · <a href="https://t.me/farsna/456565" target="_blank">📅 16:04 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456564">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i9fIs4mJEOOPNpJ7im1GCDwCxiFS7e-SaXhiu1lvABpGZwl4A7w8YX9tU4mE2VFzxUl96W6wpbqFVm36aZOL7g1RmiZS0mdm1F3fmvj5s-DX33nBA_6xH3QrIyld_dSsQi-hl7ZLblE_OlxUyzmhQ9Dm4RXhK-WNZHsPLp43gVguNkd7iWtZBcmkVbPHGLCa8_HIzonDdBrIec-1n6AMy637G_cZUH6v9_UtiEc75BL-F-s3ZfIp7vMzXWGuoQJfMrtsZ62XcowTfnHGua6kRE2IRo6tX_2RDd8N2bmDBGKF6pT7Ptq0xKVty89n3VwlGdwmzHUQxUNyddwZIpoGEw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عارف: دشمن برای کودتای جدی اجتماعی-فرهنگی برنامه‌ریزی کرده است
 🔹
@@ -500,11 +545,11 @@ Link</div>
 🔹
 من نقدهای رسانه‌ها درباره تصمیمات دولت را هر روز مطالعه و برای وزرا پی‌نوشت می‌کنم که آنها را پیگیری کنند.
 @Farsna</div>
-<div class="tg-footer">👁️ 7.09K · <a href="https://t.me/farsna/456564" target="_blank">📅 15:55 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.4K · <a href="https://t.me/farsna/456564" target="_blank">📅 15:55 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456563">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/444fabb1ff.mp4?token=voG53EU6pF4ht72u4F8F0zmaprofMZU5_cnwFOTJXAlUFX4c_YlRUhWxVxbvso3evqrPuhyMyxvNM24sq4JDYqRW8Jlv-OMQfVURaoEAUnjvvtqwe-Ap6YFYYLm0QbZQC8ogJcMLFnRN4mM-Fg3IRLayMUasu3Lw8jJGvmQ2NQMRm2M-2a46XiMsUjKtv3RMaoUpPZIBrL9lJcLV7-3lV_mw75F8qoqTbJ_QkDBj3Xbk7G26oTHPxPoQ0lTpxpXXo6KCuOs1Q0Xwuma1ShYJMohCRphVRFThyDiM6eWbJLgYGElnxoW5iSo0_hOWvz_6mj7Y9zA9g_UHina0EJ3yuw" type="video/mp4">
@@ -517,11 +562,11 @@ Link</div>
 نظامی که مبتنی‌بر ولایت فقیه است توانسته با یک‌صدم هزینه‌های نظامی دشمن، جنگی را اداره بکند که خروجی آن پیروزی نظام اسلامی و رزمندگان اسلامی است.
 🔹
 اگر تحریم‌هایی که غرب بر ما تحمیل کرده،…</div>
-<div class="tg-footer">👁️ 6.99K · <a href="https://t.me/farsna/456563" target="_blank">📅 15:46 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.27K · <a href="https://t.me/farsna/456563" target="_blank">📅 15:46 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456562">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1344ab35f9.mp4?token=hAkvXUpkPau_2-bxBqNYdZrnCEf_sS-UJVkXEF8EnG4lnzzcLejf4v-awElkjtOeN2kj3tfuoFmHcubmLJy0XD6kbmnw96oBapVJ83Abzz8FL84Vu0sfnGyub--ib_keFUPB_ilDPX5o_1P8zE7ObKF-eLMb9u9G8lTnqyDIbw0UQpu25yfEPKnLDE6LtBFeQR260Tzhxj87D-s0LDzAoJ1VT0MVB1u4LPSwIM9hDjD7O7T66DIB8iuA6JujO7Yb3qGEC8oLta7Ttilx-CHkhN14u0YzQT6fbwkFXBOFkl09zQWnCORSkikeS_sE-5lpW3ZKa861a56eBvnuetHOHA" type="video/mp4">
@@ -540,26 +585,26 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 7.38K · <a href="https://t.me/farsna/456562" target="_blank">📅 15:39 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.68K · <a href="https://t.me/farsna/456562" target="_blank">📅 15:39 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456561">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fwuSBBksjdua4ZFUyBD92s054lZUbmC06Mqiy1Kb2PBl9T66pby16g1TjbimV0ONvc_1jvE-LcLoCTw_R579KHeRXNzDXIcNVMfi5fUxg9PFrUTbW3GBOj0qEbOOa4-k-X4B59yu80PQk40d9Dl3_nC45-6BZGACvjD2aJ9wvFKvMGSPkbhCZMcXs0eC57-690pNlbdKfRn9jpDvclSeJHdaifEvXGsmdDl1cUdsgYMcKFl3Daz6kfpRyEq6SnkbRz9Sz20ixeiGdCDw4VpmWT5oioFGdGkeigNtEze5IEEU5NicTHvM2AvQZK-dHsWBNAyBTGLqZod6zBQXl9-_qw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ: اگر عمان در خصوص تنگهٔ هرمز مانع‌تراشی کند، ما آن‌ها را به‌شدت بمباران خواهیم کرد.  @Farsna</div>
-<div class="tg-footer">👁️ 7.44K · <a href="https://t.me/farsna/456561" target="_blank">📅 15:32 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.71K · <a href="https://t.me/farsna/456561" target="_blank">📅 15:32 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456559">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gDF-DZyXo1jKK6yMjud1zxoFaUKmxM-vM0K-aEzpmPtgZJoehfQ6jhZQMcif0E-MYdVqI6MuGokKiWT6taD3AgeQIgPRwTfbr_kpy4_5W-9-JGujHx9M7shR4kbwAJifU0dDtQ_jcNAgNzo0AyxzvhaP2KOMjgRLD5QOsGmmdDdhv04Fa-wj4qHTFi_0Qd9zBITR1py1Xg7nowvqqrRZ80sInaqJ-lqYeNjeJ7pxFM-pR0lGyqZFgXEo2gnvY7monrrU1rcyAndcRl_UXbUkalgu0CCj4q3gOmC3w12Y5MlEOYle_2Iw79F3NCWGefZxCZ6X3bIGI2QmB_KpM-C7JA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ: اگر عمان در خصوص تنگهٔ هرمز مانع‌تراشی کند، ما آن‌ها را به‌شدت بمباران خواهیم کرد.
 @Farsna</div>
-<div class="tg-footer">👁️ 7.71K · <a href="https://t.me/farsna/456559" target="_blank">📅 15:25 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.98K · <a href="https://t.me/farsna/456559" target="_blank">📅 15:25 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456558">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">🔴
 سخنگوی نیروهای مسلح یمن: یک کشتی سعودی را هدف قرار دادیم
 🔹
@@ -567,19 +612,19 @@ Link</div>
 🔹
 این حمله با دقت و به‌صورت مستقیم انجام شد و در پی آن، کشتی به‌طور کامل آتش گرفت؛ همچنین تعدادی از قایق‌ها غرق و بقیه نیز دچار آتش‌سوزی شدند.
 @Farsna</div>
-<div class="tg-footer">👁️ 7.53K · <a href="https://t.me/farsna/456558" target="_blank">📅 15:22 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.77K · <a href="https://t.me/farsna/456558" target="_blank">📅 15:22 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456557">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GuQVOtZ47_bmo0rN2_USpxlLvhyyYDwbeybrrRzmutdtP9x4tvK0tw1Df4GmmsFSqu9mLu1_D9TIAoi4T579G27ztIHr9LfM31gNrQ_W_0PnJq6EZdY8wHbDmG8L5YAjWIMovrPwrX2-Tds5GqtdaLKqhp3sebENK756AhWXa92XsX-vBdpMzXrhvE-o1UvN0-shKC-BPU_bEQ0JxGAXsDv__FCUbt772ZQNqoUoNIVEbpB09k4Cxhv7jKgJW_eGGoXqOOyZyXHjVcuSNovFcl3hK_xqDReRbq1HueudwjjR61m-KgijpZmpYhEgO6ezYNVhn_SyFT99RjiMvsKHyQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دانیال ایری با عقد قراردادی ۴+۱ ساله به پرسپولیس پیوست
 @Farsna</div>
-<div class="tg-footer">👁️ 7.75K · <a href="https://t.me/farsna/456557" target="_blank">📅 15:18 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.99K · <a href="https://t.me/farsna/456557" target="_blank">📅 15:18 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456556">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/630026d9ce.mp4?token=A75J10k6m_gyLGm2R1HL2f8zLb4lfUY9hEq-zjKGPBuwoj5fTxE_RK9pnKWu6FwfI0McCGDLgXNGG4b5cgQo8Y4ltyo9L_IKstzraXF_18SafLdTDlfOu5iKd6yJOspTFn92WPAhbOxb9KkFG7YMVRsQPR2zNg_gom4lEAvE_aZNC5lBLAtYVZl61emZd6_UihP5l2KIqu-ObL3LEmjXmbXCI6kj972sWM3NcbemJRLmA44VgvNoei9X2ra1LHzwFTXQEUYT9J8x8rh5o6gdU1hCrw6ovUt5b1pyifYoSaUAVr9MR8xfhG3MGXAI3TX6_bcPls_XZGGC2kjg3_4PEw" type="video/mp4">
@@ -588,11 +633,11 @@ Link</div>
 <a href="https://cdn4.telesco.pe/file/630026d9ce.mp4?token=A75J10k6m_gyLGm2R1HL2f8zLb4lfUY9hEq-zjKGPBuwoj5fTxE_RK9pnKWu6FwfI0McCGDLgXNGG4b5cgQo8Y4ltyo9L_IKstzraXF_18SafLdTDlfOu5iKd6yJOspTFn92WPAhbOxb9KkFG7YMVRsQPR2zNg_gom4lEAvE_aZNC5lBLAtYVZl61emZd6_UihP5l2KIqu-ObL3LEmjXmbXCI6kj972sWM3NcbemJRLmA44VgvNoei9X2ra1LHzwFTXQEUYT9J8x8rh5o6gdU1hCrw6ovUt5b1pyifYoSaUAVr9MR8xfhG3MGXAI3TX6_bcPls_XZGGC2kjg3_4PEw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">سبوس</div>
-<div class="tg-footer">👁️ 7.63K · <a href="https://t.me/farsna/456556" target="_blank">📅 15:14 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/farsna/456556" target="_blank">📅 15:14 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456555">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/ae7bcb0b00.mp4?token=D2Ck_IJdWSjbQUHBhe3KHjMr2QgIBJ8I9wnNyByTV3JE5AJ9qrNrqhtzF2Do74l8SDyA21R09nV6sFG6aRfJQ4ZZn09jl-0wkhFFbos9opnHBTTM7ijfkmUQgn--xsj31Of1bXNU7fG3M92OPOZHY0kOId53rdHeQw6UHVNwi7UUqbENtwypowtUHc1H5DvX90_BkgZ6GE82aiIeOtAsNRnR9-0bR9JnvOgntOJXREZbXJz9KUXIaU5y0sbRsF0tcPyQm5M04cJ-oo35ZwEzsOcxIhT5-uv3JeFI8b45f1gKypcRIvh32FC_qzzq8fpUSojuYhx1N2wpGvF_3fIi3Q" type="video/mp4">
@@ -605,22 +650,22 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.44K · <a href="https://t.me/farsna/456555" target="_blank">📅 14:45 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.68K · <a href="https://t.me/farsna/456555" target="_blank">📅 14:45 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456554">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AYhaAuWt7pwMcoK7bdgvPJevdp512JOcDip6FQa7J7uC2j-38mkwujOJZd2ou0aCSCtegROIO9dwcDcTFiDA96PF9-UgaPCRQVpKOdttp8CWk00YOi2BQTMJZBe8oPyfWMsdSwpTjF07EZCbyAxnUApnDj2nNR-Kn4FIB04QwnhajkGK3V-8ZpDTKx3k7-IH-ZCYrwjXa0kc8JKY27uLRAWdlFPG58iOnM1CyJWAh2urohSljxLoo5LzQ3atsy3Qn2EYcVmYlyAQn0Ea1tVqTaJJMLu315QSLZDWWxDG_vT8S6AlxNlAFJFvmcv5JOqcf2t-moU20B-nLnRy1OziwQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هدف نخست ترامپ از جنگ با ایران: بازگشت به قبل از جنگ!
 🔹
 جی‌دی‌ونس، معاون رئیس‌جمهور آمریکا در مصاحبه با فاکس‌نیوز گفته که نخستین هدف کنونی دولت ترامپ، حتی قبل از توافق هسته‌ای با ایران پایین آوردن قیمت نفت و بنزین است.
 🔹
 چندماه قبل‌تر سخنان مارکو روبیو،…</div>
-<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/farsna/456554" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.68K · <a href="https://t.me/farsna/456554" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456553">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفالس نیوز</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -637,21 +682,21 @@ Link</div>
 @Fals_News
 -
 Link</div>
-<div class="tg-footer">👁️ 8.17K · <a href="https://t.me/farsna/456553" target="_blank">📅 14:35 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.35K · <a href="https://t.me/farsna/456553" target="_blank">📅 14:35 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456552">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">‌ سرلشکر ایزدی: در جنگ اخیر بیش از ۲۰۰ هواگرد دشمن ساقط شد
 🔹
 جانشین فرمانده‌کل سپاه: در جنگ اخیر نه تنها ایران اسلامی تجزیه نشد و خدشه‌ای به نظام اسلامی وارد نشد بلکه خود را قوی‌تر و استوارتر به دنیا نشان داد
 🔹
 بزرگ‌ترین قدرت نظامی جهان و قدرت نظامی منطقه…</div>
-<div class="tg-footer">👁️ 8.14K · <a href="https://t.me/farsna/456552" target="_blank">📅 14:33 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.32K · <a href="https://t.me/farsna/456552" target="_blank">📅 14:33 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456550">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/7bc20e07ba.mp4?token=Xij-WEtjC0mRH8sK0FYQo166OfbDJsCHit2-fZT6HX8BlQ2gJyAFM4sdk75oNwetn7G98hVbpCPQcu_INaD-RxmSnm2IoauANhmsU4CXaU0DFhjAtFKkatJHSsovXnawPGY53nQsQCRWBbKk6Mv8dhozuvI_BXxtUsj0gLR_o3CW4qxVVYz0Ev-EjO4c5Ll1qyk-RtOwFrlHKI_5-g9ejrswrJn3ENKAk3pahGKxrSfZkASYTTYTlJu4-W9T5OeNboTF-kTNxW7FtznlUpQ7cHESQ6jamnJCMmz5MBPoXMXNpsLHbC3J6YJHzSzfgw4hTpAJPJnKvn9GUggexcPnCQ" type="video/mp4">
@@ -664,28 +709,28 @@ Link</div>
 قوه‌قضائیه: درپی انتشار ویدیویی توهین‌آمیز در فضای مجازی از سوی یک زن بلاگر، با دستور مقام قضایی متهم شناسایی و دستگیر شد.
 🔹
 برای این فرد پروندۀ قضایی تشکیل شده و درحال رسیدگی است. @Farsna</div>
-<div class="tg-footer">👁️ 9.06K · <a href="https://t.me/farsna/456550" target="_blank">📅 14:14 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/farsna/456550" target="_blank">📅 14:14 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456549">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EtBn22awwS49YkMmrTx15qlcZxCYo8q1OBXzzCU-EdwcokM3Jwd0Hc4TKIEFJeo7WwHKrjX2iYKrhH1V2bW6jnnuNBcxCwO2zexV07eLhlX4JYz0oAkH5aP9oxRBonViyCW6OlNHEjVdLWqc-jcwSBrt18X1QIj8eo2BiGFmptnZ71C9rfZeYkAtbYj1JmafGAoVhSQUrK2_aO7JmPlCoTPoEygf-Z0u7dVjCk6Md_q7V0n6t9KqMGWgjuiRcLPz3JRGG1o46istE4j5Rb-ccU4Z96MRMmjq6qsCJG5_DnEHIFXJnHHC92gL8a18kaBHVnY4iN59kboWGkF4Ktz4nA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ولایتی: معادلات منطقه تغییر کرده و امروز خانوادۀ آمریکایی هزینۀ قمار سردمدارانش را نقداً می‌دهد.
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.97K · <a href="https://t.me/farsna/456549" target="_blank">📅 14:05 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.14K · <a href="https://t.me/farsna/456549" target="_blank">📅 14:05 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456548">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">🎥
 رئیس سازمان بهینه‌سازی: خودروسازهای داخلی هیچ‌وقت هزینۀ خودروی پرمصرف و بی‌کیفیت‌شان را نداده‌اند، فقط مردم و بیت‌المال این هزینه را می‌دهند؛ ما باید ریشۀ این موضوع را بخشکانیم.  @Farsna</div>
-<div class="tg-footer">👁️ 9K · <a href="https://t.me/farsna/456548" target="_blank">📅 14:00 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.17K · <a href="https://t.me/farsna/456548" target="_blank">📅 14:00 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456547">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MTdWhUon7zjVpwptMHh1QekQnrzwjNVQ3CeotzK6ed48PxhZ28PunqFRuWODhH0YmMBwGj64QXYFbZSJ5m8ovod2QBZGxJrkPSkugbEtzdHRSHBhxtgTuSFoe77UDLtSZdaQ3cPhX3zYhqR1aHRgq82GuYL1vnP80ajrXVIfp_4dVfHgpNf6NgC_O0wKUrZMHTBxxJ5p78Bp94EXiB4FgO2XgHxcMZ5j-q1vXIDaO-eddY2yLyfeCMou_RJpfCqjGr640DVMnWt6r10EV1wAxaxo_1ZQ2BgLHNT-m_PH5HeMFspFrD7JRH5b8KS1YQJ95eRHIbd2Hv85sTClJnvPgg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سخنگوی سپاه: رسانه‌ها در جنگ اخیر
 پیوند خیابان، میدان و دیپلماسی را ساختند
@@ -698,21 +743,21 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/farsna/456547" target="_blank">📅 13:48 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/farsna/456547" target="_blank">📅 13:48 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456546">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">جانشین فرمانده‌کل سپاه: ملت ایران دستاورد ۳۵ سالۀ دشمن را خاکستر کرد
 🔹
 سرلشکر ایزدی: بعد از فراز جنگ رمضان یک وضعیت بدیع و جدیدی را در صحنۀ جهانی منطقه‌ای و حتی کشورمان ملاحظه می‌کنیم.
 🔹
 به عبارتی ما در این فرازی که نقطۀ عطف آن شهادت جانسوز قائد امت بود با…</div>
-<div class="tg-footer">👁️ 9.86K · <a href="https://t.me/farsna/456546" target="_blank">📅 13:21 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/456546" target="_blank">📅 13:21 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456545">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/488dfc14ab.mp4?token=ACVbCR7PFT56NRwNdqtEpqImpwv8Y_llKH9o67G7avMyvq38mPQ6VUfJEht91GQEXdIUr0PKk__UZOPCWmc2S__J1ITeyzp9X19-24vMgo7N_xnv3yLKK1mOsxXOO_v5z-LEjITQGTJi1V6hjjbPkYJkOA_sFyYD9BU1Ma88iHbVFRCuYY3kmtEehrocZjA5ca7O1FhLvaCrXjzI78oXIGAlM2hiDVjVK2YYpKuc3dVNy8J4HDJnLh_CB3_7926YIi7vBKsWoIjhxD2CpvoQ4FXJ8SZPE0oiEVjJJBT2eDmU-GnT1vN5isIWB3MX2K6G-N6tFKYVKdBAYiyVlBsmtg" type="video/mp4">
@@ -726,11 +771,11 @@ Link</div>
 اوکراین یکی از بزرگترین حملات پهپادی به مسکو را انجام داد و انبار فروشگاه بزرگ اینترنتی وایلدبریز (Wildberries) را به‌آتش کشید.
 🔹
 وزارت دفاع روسیه اعلام کرد دیشب ۸۰۰ پهپاد را رهگیری کرده و شهردار مسکو هم اعلام کرد که…</div>
-<div class="tg-footer">👁️ 9.04K · <a href="https://t.me/farsna/456545" target="_blank">📅 13:20 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/farsna/456545" target="_blank">📅 13:20 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456544">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Q87TPguft236LJTtgk8O3WkxiVPEh6oxhMS2Wc9dZhtpk2q_pldB6hw41ypmGOwugDOEvS1IqdqbXzCE03BnrGfkv8uAFfeEK8RfLhpc6eV8MKrMTjceYRMxDiuFZhdRY_gZ23ALpGxMAV_h1SPUO3Fl-sehNpQWBNRiyiDQlXY6s7xvkju3RpUXFaveii7upt3AHnN2H8VOYGwxaGXy_YBKHUcW-OlhDjOEQUbZIEbn4UIbZWIxLBtSDu6E8unC6X_V5XyigDTP9BUGCgHHaYragt8RSDLmdwXJkZs4FXpxeVztiSUQO2QvwgZyAeMSvRjuPfVd2xvLN5lP0DA-6A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
 اربیل مدعی حملهٔ پهپادی به دفتر مسرور بارزانی شد
@@ -738,11 +783,11 @@ Link</div>
 تشکیلات «مبارزه با تروریسم کردستان عراق» مدعی شد که ۲ پهپاد انتحاری دفتر مسرور بارزانی، نخست‌وزیر کردستان عراق را هدف قرار داده‌اند.
 🔹
 طبق این اطلاعیه، ساختمان سازمان امنیت داخلی اقلیم کردستان نیز هدف این…</div>
-<div class="tg-footer">👁️ 8.79K · <a href="https://t.me/farsna/456544" target="_blank">📅 13:15 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.9K · <a href="https://t.me/farsna/456544" target="_blank">📅 13:15 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456543">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/62513eb08a.mp4?token=kxH_FBryMAoU4zKzX87dmhJoOTo6fhBqy2UpaIF8RG2NXbU-2V7tVCCgVIFqcLnFUwKvglWG5hEH3vLtHLFHjbqFylycRh2l6dwm7N0fxDNTIopopOK2_Uz5L0RziDQZ7QGyIvQ0GxC6532to4A1K1YIdYf2frlE_9faPlxll_dWG-QxVlfX48nJ0EmMMSUE7NakZDuea3FUnpi_-92V7ILry8DS_COknpVhyQjmWP4sPwDu25zChmOCgTjo6eu4rh3xC2uRydIGAiVE_8LDQUUoZATNAZnbsDI3kpQJh2fFtikpqfByes27oLSBXk8pL8T2wKtwZl6TMLjKANmjBA" type="video/mp4">
@@ -757,11 +802,11 @@ Link</div>
 🔹
 شخصاً پیشنهادات افرادی در دستگاه‌هایی خارج از قوه‌قضاییه از جمله سپاه، وزارت اطلاعات و برخی مسئولان سابق در دستگاه قضایی را دریافت کردم.
 @Farsna</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/456543" target="_blank">📅 13:00 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/456543" target="_blank">📅 13:00 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456542">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/r4SDrz86quS3uD-9___-xuQlYINLiynaF7wyebrnFEdVmpxSYkt-X-HWT58CWG9ZWqGvzystGbWIaOMdfLclPrkhCeUshoKIpvx36KXbD5PZ_-lF0CQ4LYV8OFYptYm3O9O37N-x_0fQoMAtqI_WksyDdQR3qRb-Ni1_wL5g92gwrz_ygohlogdOHa4uO-vODv4oY2vlGjgaQYiIkJmZGIU1M3exxPcA6rqub26W9khIrvRCtTGEnBK0Ivt6x8E3EOQEmiYJBC9q-LZ6stDfGZWG9Uh6R6ryffEAQr4fDe556r_GC8PL8Bz4mYNoKjqtGP3VJ-6fUKeVnGHyd29gGw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جانشین فرمانده‌کل سپاه: ملت ایران دستاورد ۳۵ سالۀ دشمن را خاکستر کرد
 🔹
@@ -777,21 +822,21 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.5K · <a href="https://t.me/farsna/456542" target="_blank">📅 12:52 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/farsna/456542" target="_blank">📅 12:52 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456541">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kF0V4B0Qs8CSL1hX3Sm7RBYdRPKwtfxl3nu3O0eJKEZECHNMtj6Xv--zyGbPHxHTs9gle4o20BZ3ij7olnpvaCRZ1h16aayjhOwdGx9djMc1O2f3TvxHVBkvSgJXknQfkTBDMKtJT6zm1Hz-s4KCmFwWQg7ut-F8jXSCcJ_euWPR780SAvT6rsLHDYqj6sXS2GUaF13cGSQD5kjMcY9Jh4CSXQfnah-mUbUwxG-kE1AEA2jXh77vYgC1GGFNMziL0Uc5GhSXRcA-62u2hzwbimYOiHUJv-keNwXiZcoxeEoDgW0oFvhcXPl-SHWauFAEGLDOYqezqHYt_73CAUJUBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رکورد جدید بورس در مرز ۵ میلیون و ۹۰۰ هزار واحد
 🔹
 شاخص کل بورس در پایان معاملات امروز با جهش ۱۳۲ هزار واحدی به ۵ میلیون و ۸۹۸ هزار واحد رسید.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.06K · <a href="https://t.me/farsna/456541" target="_blank">📅 12:36 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.17K · <a href="https://t.me/farsna/456541" target="_blank">📅 12:36 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456540">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iX-N6Xigziku_awR91PQWghBqTKqIDz2G5O2C_-ASGjGG97ucSV_bwY6RHfeQP2GTdN0mUIpv2ccSGo6f9KBsr9ji9sWi3vyY6ULMv6of7XXRQg7R7qum4oLXOs_DIl92vYt3OGKEur9CedLP4qXc9OiVaKhzEzSgetfVN-sKLihgH4d0QE6OJcS5PWSpGXrRrxzmKC-5cvmd4ho2T-2JaLbuZEDsCwgqO5b-eMlz85u3NPMmsDnhx4j0XwpGQymRUw2WrI44YFkTGiSNEHyCdqbV4ZRhw8v9Afh0IgoPnAb60II8lM38fnY6wNCtriMCMGYUJX4kUQxhtkVDzdBCg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حاجی‌صادقی: هدف اصلی دشمن فرماندهی افکار جامعه است
 🔹
@@ -801,11 +846,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/farsna/456540" target="_blank">📅 12:16 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.64K · <a href="https://t.me/farsna/456540" target="_blank">📅 12:16 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456539">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/85391bbbde.mp4?token=t2LvkrvODK44PwqShrSDQp8mhqsUirsaGTuLL6puEnb2ZstZJbDzKRjuRp_XAO2GxfuQjRU5YLbasyr5jbS1tEwvGslFwQVKjxqKMFXK9fV7mv586p-tr_7f6MdRehGggylObPpbaqgy1X0A83zGCe6bFNyWNEQOflrmA4BCVYTTAUH4OCvmHQIlYSI9nIfBkeLup3AqrdXaYu6gb3K_zgkbeDcsEz6iJ52slmUtwOY74wIiykq1QniycmM_qS1sIeY5GDxz3ffpic7KXoJZhU_QD2-L5GmkHy4Aw9VX_bwIS_q3erorGLriauyu3ZxLF8WQ3qJvbIUSMU1EWykhdA" type="video/mp4">
@@ -818,11 +863,11 @@ Link</div>
 🔹
 ملت ایران مفتخر به این است که رهبرانشان از خطر نترسیدند و تا لحظهٔ آخر در محل‌های خدمتشان از عزت کشور دفاع کردند.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.09K · <a href="https://t.me/farsna/456539" target="_blank">📅 12:08 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/farsna/456539" target="_blank">📅 12:08 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456538">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/eb708e5299.mp4?token=awp-fgzFWfvc5YJNmE2ES9AvVCYYjAG7tTMigB2Ff0Gm223y9IpGBtM3LqO2kEIa4aIyWXMJVcxp4l6D4wXvxMyLPEUrbQMWBKM9psDkWNUqncA3Ko-o_BoaVuB7IAXHSghxfTAEGN9MHzcdhxf1ndOHUSKxXrpYxIAgf45_eLO28Kt90KDiqQHC1zm99PGW1iYLRUNkcUJ20yG7LgppK9sPCdymFbOJyudjEYjkAujRYHR9-XnXEtXAITDAr8_jDfwmGLuzKODneyda7zPqwpSLS0ex2OdTxm-y8xb4mW37I1xChd4UeL-mCPYupAMpRCUUHLykwCpjPVpO9D5RwA" type="video/mp4">
@@ -834,31 +879,31 @@ Link</div>
 معاون وزیر خارجه: آلودگی نفتی سواحل قشم، ناشی از آثار تجاوز نظامی خارجی در منطقه است
 🔹
 این قبیل خسارات وارده بر محیط‌زیست سواحل ایرانی خلیج فارس، ضرورت تعریف و اعمال سازوکار مدیریت تنگه هرمز توسط ایران به‌عنوان کشور ساحلی را بیش‌ازپیش، برجسته می‌کند. @Farsna</div>
-<div class="tg-footer">👁️ 8.6K · <a href="https://t.me/farsna/456538" target="_blank">📅 12:02 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.71K · <a href="https://t.me/farsna/456538" target="_blank">📅 12:02 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456536">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">انفجار کنترل‌شده در جنوب اصفهان
 🔹
 سپاه اصفهان: احتمال شنیدن صدای انفجار کنترل‌شده در صفه، بهارستان و اطراف آن تا ساعت ۱۴ امروز وجود دارد.
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.52K · <a href="https://t.me/farsna/456536" target="_blank">📅 11:52 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.59K · <a href="https://t.me/farsna/456536" target="_blank">📅 11:52 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456535">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JYA-q_WoILPjPc_UuIqaeCMT1OcV8nD-zNy2hhLJ6jTfUj41PrGoGFQRxEdN_JVQhWb6pRfPQwE6gZ7OzEoBcUokq1HhV_Z_N1WdnUl3Uxhs-tYwGZQKMLumZPZhOD3Rm6FF29aNfik__lIJRdjzPEWXYf0JXkr45YxJKeI3DRUjVzwsLebH8CQeKoJHGqHDZ02v4a7HjJmHCAYJSdJdjJ8lY-p4nV0ywbec1t2NCyD228uJyw_YZdpcJHn5TqlgH5rGPHNCmilYicetGci6me4TY4QKhsPHJVI-XI4tuNm667sh6V6i9gYwy3ButhyPQ91J9snwDVAO37dwfdyhbQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‌ بخش عمدهٔ آلودگی نفتی سواحل قشم مهار شد
 🔹
 معاون دریایی بنادر هرمزگان: تاکنون بخش عمده‌ای از آلودگی‌های نفتی سواحل قشم مهار شده و عملیات پایش، جمع‌آوری پس‌مانده‌های نفتی و پاکسازی منطقه تا رفع کامل آثار آلودگی ادامه دارد. @Farsna - Link</div>
-<div class="tg-footer">👁️ 9.24K · <a href="https://t.me/farsna/456535" target="_blank">📅 11:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.35K · <a href="https://t.me/farsna/456535" target="_blank">📅 11:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456534">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3fa912b817.mp4?token=a7bcNafRLX4ga2kNtK_1ouimReO-H0NncOOQJxf7MZ3JRFd4vfP5J5swbRub9XpBrSAQWwTKyrpoUM3Vabk3cpR3p5ZyTh73NwSmnByZU8XUh1AwyVo9ZuulBF5Ysr8HQdFqkyBdxBfl9FCm1KuTPdepNpUpyZyQat9WiI1ppHtcV7ovQ_5qXqmfOwy-9cntd1n949DdzDd_Y24VcY6wQa-wacF-D6taKEM7d8kmhaGfsCaAUE33qocyGftkiNHvgxGxjOr1w5JWue__GmSbRLGfIy2HEQ5XE7-pyTU8mGYInt0nEp8xAp4DI_U_OXHlLOUyOZn30B3PKWxR5r3Tdw" type="video/mp4">
@@ -868,11 +913,11 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 سخنگوی وزارت خارجه: در تفاهم پیش‌بینی شده بود که طی ۶۰ روز دربارهٔ رفع تحریم و موضوع هسته‌ای مذاکره شود، اما به‌دلیل نقض‌های فاحش و گسترده‌ای که آمریکا انجام داد، اصلاً مذاکره‌ای را شروع نکردیم.  @Farsna</div>
-<div class="tg-footer">👁️ 8.63K · <a href="https://t.me/farsna/456534" target="_blank">📅 11:44 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.74K · <a href="https://t.me/farsna/456534" target="_blank">📅 11:44 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456533">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">🔴
 اربیل مدعی حملهٔ پهپادی به دفتر مسرور بارزانی شد
 🔹
@@ -880,21 +925,21 @@ Link</div>
 🔹
 طبق این اطلاعیه، ساختمان سازمان امنیت داخلی اقلیم کردستان نیز هدف این حملات قرار گرفته است.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.02K · <a href="https://t.me/farsna/456533" target="_blank">📅 11:36 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.13K · <a href="https://t.me/farsna/456533" target="_blank">📅 11:36 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456532">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rt4_flKzwjqdK-Bw288faerbppOpPm1jSlpGCZoQDqvOv7kw5GDPr6UaYnLxZWZYy4KoomYN5T_wUYzB8Bak0nX3ExTVoa-TMx9RH9R3ywBoCIQZoyshEyftFRMCrwFyKD7-Gw9NQKItR5ARFDIndfqeRS7xWrhpSiBBO7Xq0xkyMY8X-w1Tv5-poiJITNbpajMKlp-L9n8xwrOU6BAy35ySGr7NpSCsbKmrfCTleNM-cYN-N9tEYQ5BEOYw2h_jOKe8raARq3ukJpaV2JUJykylOJ1IxZsHz-6gb-1jYW_RaI6nh3Yr3mM_QFG-p6yeWSKbwcWyAsuZblclo5axWA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎥
 رئیس سازمان بهینه‌سازی: ۳ طرح پیشنهادی بنزین روی میز دولت است و هرکدام منتقدان و طرفدارانی دارد
 🔹
 هرکدام از این ۳ طرح تصویب شود، قطعا آن را پیش از اجرا اعلام می‌کنیم و مردم را غافلگیر نخواهیم کرد. @Farsna</div>
-<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/farsna/456532" target="_blank">📅 11:35 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.3K · <a href="https://t.me/farsna/456532" target="_blank">📅 11:35 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456531">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/25766eff35.mp4?token=qvaslcvdbqSCyba0_czJ7PlmJ-ryxEl7nOZkKuEy7K-6fPrHT4W8v8AvANUBVXJMS454TFduyOubDg9u4SRvzkJVcu7ZmMP7kuOZNYOxHJHMKIc01M9SggtFjMxzAlGP__wBieMJG-A8tK_7aCe41vtJ42txjV7bydH2AFKclBSgTkiCnaRbwBewC12N0R_JvXTNtNxYF0xT6Qn4SJQHILQCbhLIynH0G2nvzKAS6iFefrHxMK6ito4uGc3Cw1w1K-kpRu-Bp2F8psBwalxs4_bEx9v8z16SCXQq8Xm-8FXphso7tBe7SVn-YvswCm80PkOeo9PBvhJ3csE1sOYJLg" type="video/mp4">
@@ -907,21 +952,21 @@ Link</div>
 آنچه در پایان جنگ و در یادداشت تفاهم اسلام‌آباد اعلام شد «پایان جنگ» بود. آمریکا تفاهم را نقض کرد و درگیری‌ها مجدداً آغاز شده.
 🔹
 ما چیزی به‌عنوان آتش‌بس نداشتیم که حالا بخواهد تمدید شود؛ ما «پایان جنگ»…</div>
-<div class="tg-footer">👁️ 8.32K · <a href="https://t.me/farsna/456531" target="_blank">📅 11:28 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.43K · <a href="https://t.me/farsna/456531" target="_blank">📅 11:28 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456530">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">‌ ثبت‌نام حج ۱۴۰۶ آغاز شد
 🔹
 سامانه «حج من» از ساعت ۱۰ صبح امروز برای متقاضیان سال ۱۴۰۵ فعال شد تا مراحل ثبت‌نام و معاینات پزشکی با دقت بیشتری انجام شود.
 🔹
 سایر متقاضیان نیز بر اساس جدول اولویت‌ها، وارد فرآیند خواهند شد.  @Farsna - Link</div>
-<div class="tg-footer">👁️ 8.7K · <a href="https://t.me/farsna/456530" target="_blank">📅 11:18 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.78K · <a href="https://t.me/farsna/456530" target="_blank">📅 11:18 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456529">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8301d537ed.mp4?token=vflG4Ae4yaXMM8Ex7kLWwqXnCZ1QFvI6SYk7FwXptXYaXP-1SJCTh2ZYe7UDsR20Lf2B6xP5WNSGrzBcvhqQjotz5-8fx5S501bQQ8ZJ7MfKILKJ9o9QUP4KYZk5nrHC2Zr8RLr9PsXPMc02opNw9sVkqxytMGMaHNT0BjhaC8iPAIi0D677TtwtPWtMkDh2VKXL3E4z8WT2dNW7JfmoSVTqWZlua-3yfeLwSVpE_XCsYfoiFx7adSOXzipmrEbmLtSCZ2EwtCYV7p5Tw5IGkO2qcV3hHeq2LMmALqrFhpUDLAuaksw06iJh9ZLLnUurG0fvUz7N8y-OElMSn2sUBw" type="video/mp4">
@@ -933,11 +978,11 @@ Link</div>
 وزیر کشاورزی: از زمان شروع جنگ ۴۰ روزه از ذخایر کالاهای اساسی استفاده نکرده‌ایم؛ نه‌تنها چیزی از آن کم نشده بلکه درحال اضافه‌شدن است.
 🔹
 محاصرهٔ ایران چیز جدیدی نیست؛ ایران به مسیرهای زمینی و دریایی متعددی دسترسی دارد و چرخ امنیت غذایی کشور همواره در حرکت…</div>
-<div class="tg-footer">👁️ 8.08K · <a href="https://t.me/farsna/456529" target="_blank">📅 11:14 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.16K · <a href="https://t.me/farsna/456529" target="_blank">📅 11:14 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456528">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/944a019ec7.mp4?token=v4VLU3bqkQMWKPZLJgwr74GOxkEu6cbYNu3k4phTnUD5sIYh7LEldiGmQCnY-CBHQBmXfEXFNsenW2eFMW94dkOyYXL8-JLeNKYR0YkqIfJQzKTd84zWzyMIYP2Uz9VCIpELaQykYrPsLiezoZUyVaRDtyreNvti4AUXgntcrsyoXn_SOO99mIxCHSEerxTJqO5OW2aMp6qofDqgBcUhJ-BgEKHAZlCRZuwHsX5ZO_seq-Mg3bxRm4vN6tBwsQeZvwLYX7hNUNZiI1zOtYMotBN5mtvtZ50iU_kRpAOBuZYm4uR1VuU5STbQJEtK5OKNtDqlP1x062jHbohWUoYQFg" type="video/mp4">
@@ -950,11 +995,11 @@ Link</div>
 فرمانده کمیتۀ جست‌وجوی مفقودین ستادکل نیروهای مسلح: تیمی متشکل از کارشناسان زبده نیروی هوایی کشورمان چندین ماه است که در انتظار ورود به قطر و بررسی میدانی هستند.
 🔹
 با کارشکنی‌های پیاپی و دفع‌الوقت…</div>
-<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/farsna/456528" target="_blank">📅 11:06 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.96K · <a href="https://t.me/farsna/456528" target="_blank">📅 11:06 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456527">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/507dba98f8.mp4?token=krpLcEzmgj8YjmzdFoqFDKCsuLoZhhlw-sjOKw-n7-wYN19aXX5ipog6HdNiixB-0UFg63_dEzYFnoyzplz5YBszCShfSdVSn0GItg22A5BDBgIsjNxCXzuZkE6EpHPN7vK--dWBqjndUjwYnq4OzekSaBdkjgW1iSto_Q00F7vA7eVdeoZR_tGyYQYqdnIq30Wdw0Nk2_0g5iD0iXiYwiwqMvyyTxs4tjpXjkfbU8XOUOCTVQZKrJGG9HPjzIz2hiYUnGsWFUylW4M8AZvFBc_DbprsA4UstzZLkF-74nA5hCKO4-zhqj49bt5b4il5N6EKc9Qp0MmC9yOe_-y9Pw" type="video/mp4">
@@ -968,11 +1013,11 @@ Link</div>
 مرغ سال گذشته ۱۴۰ هزار تومان بود الان بیش از ۳۷۰ هزار تومان است که دلایل خود را دارد.
 🔹
 جنگ روی افزایش قیمت‌ها تاثیر گذاشته و قیمت‌های جهانی ۱۰…</div>
-<div class="tg-footer">👁️ 8.05K · <a href="https://t.me/farsna/456527" target="_blank">📅 11:05 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.12K · <a href="https://t.me/farsna/456527" target="_blank">📅 11:05 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456526">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس بین‌الملل و سیاست خارجی</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ueogWeBDy0_aauLxGxHm67ZTdqEmZqitk2R4EvXoeHWu_ydun48FEyXYWrHCb7k2P14nIy1v5BZ8aiOhWt3H7eBrPNbtq0jkK092MRpSJr0gHYatE09ComdZAYJWC5Zbz_Bu-vzlxBz3h8HAlSNFO0CnVwEEzSNfCnLmZoYFLLl2tLzrWSpIWNRrRJ7wMGX4Ax3QB4wFDAMr9eyq0ke3AAJe007AzuhmBHLHkgY6SqJu5cqbIZvxxKkaGlHpYcMZE0ivsrFYaqlVWyccQmGUzJp2yE5whITl9uUtuoYZGXjSm_PpaGkWLam80G8T2LNn7SkSWqMj9T_aeYsjFcRMIw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بسته بودن تنگه هرمز،‌ بازگشت به مدرسه را برای آمریکایی‌ها گران کرد
@@ -985,11 +1030,11 @@ Link</div>
 @FarsNewsInt
 -
 Link</div>
-<div class="tg-footer">👁️ 7.72K · <a href="https://t.me/farsna/456526" target="_blank">📅 10:55 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.8K · <a href="https://t.me/farsna/456526" target="_blank">📅 10:55 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456525">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/dd2fd5eddd.mp4?token=v5q75H3G0QllwBp7sPO6_7fEHFD7BxghyGf1-3HPN7E7kHPXcnZBE-3QZtrq_4jc2h-GJkEaYmMzZtmlGx0JUwSVD3iDvVUvo9W_EGcHpmdznrmHdhCRITB4o9KMLMoieWbDLTPmIEvp6CBVVWsLTeqXUA-8m82V7U0xG7knN6REV8sgu2of88YQx82rrTIm4E1ZWZCOX3kUwddy8e6duZRbe5QKQ7KDPe5PpsYnA3vmAklVj1IjoVw-B2sGT1kO7Xs5rw9uQNejzbjga40lWN-2O43-paJNUWEroSKiaqKGIwtmjEw_CQrWh48CKUMVq1yF1dPCDIIK2g2YMruPUDzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
@@ -1002,11 +1047,11 @@ Link</div>
 رئیس‌کل بانک مرکزی در دیدار با تجار، صادرکنندگان و پیمانکاران ایرانی در سفارت ایران در بغداد، مسائل و موانع فعالیت اقتصادی در بازار عراق را بررسی کرد.
 🔹
 موانع بازگشت ارز صادراتی،…</div>
-<div class="tg-footer">👁️ 7.34K · <a href="https://t.me/farsna/456525" target="_blank">📅 10:53 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.41K · <a href="https://t.me/farsna/456525" target="_blank">📅 10:53 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456524">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8251e814b0.mp4?token=GesQIlHpP5OohsIzBP0lKRhMYzfWboMobIWd1mdszXt0pq-1mfaXSJix9ouG9ngS8DtZ_LeevS2maEs5thMk-Ft68gJY2p0s7zRfsNiFJFMqSkFaE6e6jh4r2bOtr6-uw0PPQ0wT8qrqo0wCTAaXvvtTQDuipx0kOyQWPzAXIMRlKicVCKaQcaG77J_m5_m1t5v_GapScgTV4WfXHtFJeSE7zmyhwsRYPkLrnGQ_rXdgSbmyGpSCdzgrxvO8ciY-8loPIjbzYR7iXR8JsT2mi6ejfYE3HYBxJHT0h7Wr0aZSiEuVioo0nAePAwIUIaYO_gEWGGmYNrK_hB4SIs0SzTKy1aUbhSrzHCuel15TwuHu6pdTybTdrhK10xQ6yT15ubfNbWpL2jmJKCXO0rrYOHX-NLJ5BsUc1qCb1mdN_u0bD3SjHYcSdXadL_ZJrTRShyZm_0_BZeiHAPSqVk9nhKqvzuUhXvqrOLAYvqbpdsQSenKamTe_mR55CqztMj8Kqvd_SgCs0kMLzv19dOqV-CCPXVr4h6eM56kINHNyD0iJQ0CpKpyL7i5JQkOpTb_24UokgN8KS46vE4Azwnaz8nV4bSd-ifIHzyNq3_lP354VD5xbBdFIp_cenjbuKCjL9WOrTImDDgSkH31VyuNbv0g2bxfvozlJ3IGOYimlBLE" type="video/mp4">
@@ -1016,11 +1061,11 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 وزیر کشاورزی: با اصلاحاتی که در سیاست ارز ترجیحی انجام شد، تولید دانه‌های روغنی با سرعت بیشتری ادامه خواهد داشت.   @Farsna</div>
-<div class="tg-footer">👁️ 7.46K · <a href="https://t.me/farsna/456524" target="_blank">📅 10:48 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.54K · <a href="https://t.me/farsna/456524" target="_blank">📅 10:48 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456523">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qYOjrxBWymvAjJPA7416dz3dLrK4GHEREofrSomaJaHfDLf_b_StHLC8YRo8_Rrldxn3KYKE75VGYLdsnU286r4JHhSPjWlABRTu960fCkDE-yvuo_dJ36YYIv-nk4IzegqL7dJbjzskF6cNDHSzZsTrNLPM5HWwepniHxaAN0wBDdyijoFGIYG2uYYyQYg1mQDjFuihpShDSTB9-9U1XMe3lqFWqIHr65nO-tV054w_5kIRSgTtCgPJNatR20qq3skFyB1Lq8N9nbmPiOQqPrwVPruo7oMFnkzWZytlrJTi4rJRhAd6b5oKfsYxlzYT5rnDD7r8dcyB470wnWI0UQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مسکن مهر در دستور کار پیگیری دیوان محاسبات
 🔹
@@ -1030,11 +1075,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.03K · <a href="https://t.me/farsna/456523" target="_blank">📅 10:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.11K · <a href="https://t.me/farsna/456523" target="_blank">📅 10:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456522">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/d5fa181a7b.mp4?token=gSdIHvxbchMDSkumbI0CsCWx6aEu4vjDtz3TlhrxaQWcQcATVRN7T68b3Wr2U_C-RJJhFkeiqhijeq0wl32eXCeUEH8Mk45WPyhjdrYGS0lZpcD8RjrSuPFONxDyvLsLLPS4U0Fs9xUHY0TOdgorSLO_gZZBjDjkJWx7ukwBfrJhPtMxXCca0U_tHYRUFgGcfEZUB35q2-gFjPFN3FFQoVI8h0ylFto9M7UWhmbfAUgBIXXGZskuTugjttRAIrHZTHH8uo89hqcV-WNRqTgjm_QzLlGCkbhFmPNrUANUIZoPUqmOoQD3AuwVDfoeFv6OrukQ6ag74Eqf1klHMGjLCA" type="video/mp4">
@@ -1044,11 +1089,11 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 وزیر جهاد کشاورزی: قیمت در بازارهایی مثل قند، شکر، آرد و روغن مشکلی ندارد؛ حتی چند درصد پایین‌تر از قیمت تعادلی مشخص‌شده در سازمان حمایت از مصرف‌کننده و تولیدکننده است.  @Farsna</div>
-<div class="tg-footer">👁️ 7.99K · <a href="https://t.me/farsna/456522" target="_blank">📅 10:30 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.07K · <a href="https://t.me/farsna/456522" target="_blank">📅 10:30 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456521">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9cc7bea42f.mp4?token=NAhjxLjKWksLOunphYS-lZKLfHSudLxDoefYsanSifkhOF_w1jBjrAH-aPwLQpS_2YjGvU-rzNzJx-uKDzs-BHBcwehibTFL8NDJmryrZZMb5VpCSAm_hb1bRK1T3CNQ_v0ZEVT3WPm92tn3W09lUvDvhe-3_EuXhz-ngBnJLd3OZc6KyfOXKKxSN_vlAg0t4sUOpxJXacGAfab29G0Ese7zqx5_2-Jb0v9s1nz1CnI4E2cUZBzUK_lX79gxIwhuW6FZy8I3qr67uwlR8rkb7U97A3a3D9cughVNO8NqEj4L41mOCmyGv08ZFc-xJ32D5thgUTnJgYffuBZ4OncPag" type="video/mp4">
@@ -1060,11 +1105,11 @@ Link</div>
 وزیر جهادکشاورزی: ۸.۲ میلیون تن گندم از کشاورزان خریداری شده و امسال وضعیت تولید خوب است.
 🔹
 همچنین از مجموع ۴۰۰ همت طلب گندمکاران، ۲۱۸.۵ همت پرداخت شده است. @Farsna</div>
-<div class="tg-footer">👁️ 8.65K · <a href="https://t.me/farsna/456521" target="_blank">📅 10:17 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.73K · <a href="https://t.me/farsna/456521" target="_blank">📅 10:17 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456520">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/953c8a4026.mp4?token=ATebPtYMbHGuPTz30IXONQDGF-yvetCdPiJTpyep3QcfXWgudwTzjE83WYvnhPmjGk4K3qu4GlDGWsQyb0IjcU0dw9d1Jmo3xGIxRoy54Dr3RnAy8mH8z_4NuV-qe3jAZyqpw6y1B4xUatZQzi_BDbPEWQWZpXxx-jwK057r-YT74oVL4ccPw7wvJem0qAI9Z5vIBab8Aveui0yLgEpmNm5hdRCi5MoAco5e2RopK9iFpEmbzNupD66XrENvWaP1gUOTwKFPU9-I35BPRJpNNmf7M34ZddGtn9s2BISH9KiA4Rxx4Mmz68KYU0v41tQfX6JDooCWFiTgcy5dz7ORCA" type="video/mp4">
@@ -1075,11 +1120,11 @@ Link</div>
 <div class="tg-text">‌
 🔴
 سرپرست دادسرای جنایی تهران: ۹ عامل اصلی مرتبط با قتل حمیدرضا رجب‌زاده دستگیر شدند.  @Farsna</div>
-<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/farsna/456520" target="_blank">📅 10:14 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.77K · <a href="https://t.me/farsna/456520" target="_blank">📅 10:14 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456519">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/416e249c60.mp4?token=L7O1imtG0KtS5COs0kwIc8K9UvnLuUNwuC6iRMIEW7dQ4xh1Et70aJzj9CW9Ukh1pUuUpGyOIYPv2NVnbMrEqjo2QED2RNWLJ4QF469DhsytbwcWqS_RU0-2SMAAaxBQ3Dz6TrpuF3T2cwiOigmnKckmXNNrpPJRxhNlb08sJYHeTwTvTHN-0KstlNJKqtJbM7E6A_MBnxEtb_3l0oXHIRyn2VQcsrKReDgEKHOUVGOFftpDFTT0bgXCcVldg_PvzKPqPf5nZlYXtZrV3fYxNtfsH1sxLtx8_n4DTkvU7hhi6xbwAd3UEnuMasoaO2U5p4YHsv_zRqz6wQ3B_-jvGg" type="video/mp4">
@@ -1089,11 +1134,11 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 توضیحات وزیر جهادکشاورزی دربارهٔ تخلف ۴۵ هزار میلیارد تومانی نهادهٔ دامی: چنین اعداد و ارقامی سوءتفاهم است و برای دولت چهاردهم نیست.  @Farsna</div>
-<div class="tg-footer">👁️ 9.05K · <a href="https://t.me/farsna/456519" target="_blank">📅 10:08 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.13K · <a href="https://t.me/farsna/456519" target="_blank">📅 10:08 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456518">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8ab49e9f1e.mp4?token=QkMDCxzLT-0N7eCQgMEf6TZD_NRkT-ev7Hdty-Tu_EgUxEFeZRkQIOfG8V35dAWMbqIaFKU2xjGqWIqajbq2RuYbpOf45UWPwEA5AxUKxxHXe6yi0N9hE5mYidlVcFKSsVENl4E5GrJvf1yXyRDcAc6wCXVv_F02MtGCLeBfUtBCbjy4582qogEE33atv12MA_kCoCFCztPUjmpRg0aUlNlJGU1dmzDQeqYYFCv95eQ2jm8gpCiWY2CGvJpuguR57cMNhYB1poXKO8rFGzjwR0FoNmE505QLYUQ1bK2FSk8Uq10ju0LS2grgSsi3dWMdh7PHuBs6kHwLFWdv5Y2BXA" type="video/mp4">
@@ -1104,11 +1149,11 @@ Link</div>
 <div class="tg-text">🎥
 توضیحات وزیر جهادکشاورزی دربارهٔ تخلف ۴۵ هزار میلیارد تومانی نهادهٔ دامی: چنین اعداد و ارقامی سوءتفاهم است و برای دولت چهاردهم نیست.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.07K · <a href="https://t.me/farsna/456518" target="_blank">📅 10:05 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/farsna/456518" target="_blank">📅 10:05 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456517">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eN9V3x8jvFq36nF9mO86tIaUo11PtRLAVlCjhQospTgel8ohf73Jr8U9cFbJZ89ikspOdezml_wY6YkqbZmfjNcXSAjP-aBKTDCKstWh01kvo6Uy2Ar09Ipf6-k_xlqLBmTpBIwNmhlQ7F8ybCvgd1wT0a8PJkV2GBYX2MC8gue2kpEMzyylPBCofGSoIzZtnc--WlSc-6XtYCmoidTcGevtSHp-0327-sR3V6zW1pooDJEjGCEzn8TE5ydoNxsGfQy3nYrZfrQRU8pM1C1DhwmMMsTyyHA0fGDC2V0Zn-dXogEaeYNrTeqReSaCjTa1bpHmJnNe4WXIBFTtBbXt6w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">امارات برای نجات بنادرش دست‌به‌دامن خزانهٔ دولت شد
 🔹
@@ -1124,11 +1169,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/456517" target="_blank">📅 09:48 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/456517" target="_blank">📅 09:48 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456515">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/fd2592cfef.mp4?token=k_ol12mMzVEpkUUkUo8QfuEZYbJ8-TBe1zZI4s2_-4gRWxILlLwEONY3hfzEROLKVxyX5AUGbl25VCb2VrFLDbX-p5qk40IEiKJMOn26uI4AuZHTaqKatUx2J7sHzrGzxcmdSzCVsOeH-BqclEDNu9BpV8QxLiDWfacucadea989j8ujs8Gk6gAt-M1NtTIlnO6dOk_gyr2hgiLJP6Ghy4pgC6P96pjqL8fFIYeJDhB7_PAFtiQBlNKVyrc0BUKd0iJHIKJtJckYNdx_yTNDzkOfYqWSYv4Yj-T8VU8EnzWZK1Zog2IlIdQk58WxpwswaHpzDa5AONMvSrC7b96Wmw" type="video/mp4">
@@ -1145,14 +1190,14 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456514">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">پیش‌فروش بلیت‌ قطارهای مسافری برای بازۀ شهریورماه آغاز شد.
 @Farsna</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farsna/456514" target="_blank">📅 08:34 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/farsna/456514" target="_blank">📅 08:34 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456513">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">آغاز توزیع کارت کنکور ۱۴۰۵
 🔹
 داوطلبان کنکور تا چهارشنبه ۲۸ مرداد فرصت دارند کارت آزمون خود را از سایت سازمان سنجش دریافت کنند.
@@ -1165,7 +1210,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456512">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aAMAenRJR-71Rp5YtBz4EekmYcUyS6Vx5COChhk-XUWjntjMGrsl7HojXl-L-jt9xzskRVodxe37gJSPNzNAQLQU_SUtRXCBqPxoDINGCXA3mGzsGIxE9gCkc6F42lTaQtxlsZPyyasQfFu143dOB7PHJldmWDG9vVDFNk3WD3WQe5-jxTyqnt4uKWU0t8UL3vTCWQ9fAYB3LKg8bksJhfy9Z0W9DY3UvrKuI_irn5zzinUJfZ288prgalmCuYHA4CcX8rmSzorE5Jdyfj2Y_EPXMbVqFYwEaTJmOd1yuEYpMHClQ9q-UaTniSXFlgYZ1eFnbv2VAenAYM7dqfLWPg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تویوتا در تنگۀ هرمز روغن کم آورد!
 🔹
@@ -1185,7 +1230,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456511">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dhIPmamgMTPGS2x5vrKAOCQFvwYBC74v5fqmp36s-WjC564iwR-CurVfq20qyBYYM4r2QZ70YdcfHAk20mWH9nuZXhdByRMzMbyCyJcWSYuA-wMDTGXQpvKxZvZpYiEAAFungDWUNMAdyxmC9irEhp1DtAqLt_XNuEj47T7EugKi71LyRAU2jG9WrDGgdDxYUy4m2SdOE0yrsElkTpVRjvuz2Zwo_ua13mcqmeUXQ9G0jIC7_0xlxCB4UDPuoQ0TA-nzqznehYFNHPeHdbMZtSFKOQoQx_r4fa0f9YAQKyMBhYKrWOLjUYJpZ_6ceKR54RWKPMo1qn16ZTcdhgV-8Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🖼
 معاون بین‌الملل وزارت خارجه: وزیر امنیت ملی رژیم صهیونیستی برای کشتار در غزه «سهمیۀ شبانه» تعیین کرده است؛ ۳۰ تا ۴۰ نفر.
@@ -1194,11 +1239,11 @@ Link</div>
 🔹
 این اعترافات باید برای روز حساب و محاکمۀ این جنایتکاران ثبت و حفظ شود.
 @Farsna</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farsna/456511" target="_blank">📅 07:22 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/456511" target="_blank">📅 07:22 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456510">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس هنر</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c7xyDzdu304Dyevdeq9am670-Fjq-Si087jWhPIn-5xgwfHSy-17GwOYVjKeau3Suk12qYSValnB33cuZ4orsIRO-XGfICi04fdzlETqYuT8LHA_SKGZFcZCJxbnp5Cv-kmRh7ia0ZZ_zfhpmx9n2JDQKzDHp64zcbm9Hl61eFm5qkRfgHf9220Xq7ivtxssgNgUrWVKGvne1KodBRvhpue_WguUqzp7Gdg15hCGoaqNyw7wGPX_9ZmwzwdrTvtfe9ST68ZiDtCuxE2S_vljbBRED3rWhXuuEa2tc-j1oQG4_dBVoe4NGO-wxlII5CJl4nhWbtcLVnL623fl4wpnLA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هنوز رکورد دست قدیمی‌ها است
@@ -1213,11 +1258,11 @@ Link</div>
 @Farsnart
 -
 Link</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/456510" target="_blank">📅 06:53 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/456510" target="_blank">📅 06:53 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456509">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">هشدار سطح زرد هواشناسی؛ تندبادهای شدید در راه تهران
 🔹
 سازمان مدیریت بحران کشور: از دوشنبه تا پنج‌شنبه در مناطق جنوبی، غربی، تا حدودی مرکزی، و ارتفاعات استان تهران شاهد افزایش وزش باد یا وقوع تندباد خواهیم بود.
@@ -1230,7 +1275,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456505">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس معارف</strong></div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/fQGP4jQLexWjc-zs225ubPataPiYsi397NQROYa2Bee23bhJncbn0ApjK282Ev1oB3CSWuz6ncZBHM9S0hE34RsYgqywRUqPJnju4zwFLoR0K1GOarZ75-qXrAIBMgTg7HjiR7wu9_QeoT6kM4_dBb1bXvyReS2upuvg21NoH68vaNVfcEIozX27W5E2TPrWalmF1kOAbGch-DHRHeg4FlM4s7-1IXRHVP9xJR9SMtfAecN5pX2LdTeyxMH0wp10ILXbeQg_0YPotH7rQquTVQHMjWAPH4WQ2kQnkMHvP6etDpWav3Xfr01_DmMpejyIYruv1K-uljdBbKj3T4noig.jpg" alt="photo" loading="lazy"/></div>
@@ -1242,11 +1287,11 @@ Link</div>
 از مهمان کار نکِش
 @FarsMaaref
 💠</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/farsna/456505" target="_blank">📅 05:43 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/456505" target="_blank">📅 05:43 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456504">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/I2WkpjCkKXkZNRqLTrTb3U0aJ6dwv8AFO0s7q6Fb9zaUFVSIwhh66W5xOl84HsgRE-XbvyBZnqsauGRVxyumZ2w31LCz7L7nnPjOpox3ZHpj1dKawrxme7LhyMxmegelWCIqVpaZGP4NchVq5r-a097vmbIEv_ecDkU2NhyDBWaLpPSJsf3ep8znZAqeOT6Ybhb3rk3sfxgL72NwKr6hQXj-gxAVbSJXpAnvaBPjTnfekGOi-w6c8I44proUo6Lh7OtV8yoLum2a3JyjsqV5qrll7v_trbovP2UJFwWdY1jXI6Mpn3avgKIR2GmB42jzpkNoMb6FF7UE3_JyJv3wNg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بی‌کلاه‌ها صدرنشین تخلفات موتوری‌ها
 🔹
@@ -1256,11 +1301,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/456504" target="_blank">📅 05:06 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/456504" target="_blank">📅 05:06 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456503">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/21499fbbf9.mp4?token=hcDSc-k5L9ZW9cNVWgiX2CTWZV7NEhgvJRtS6MkPzQ1d1CU7X_bpPv8Hdx1aNyowTWiBRmB04IoeXDwylEnCTlAoaxvPhMBbY3Q4RBay-Zhq5uUF1cTJ0r3HHZ9uStuDXqG7E_w_pzcReZGXzHm1zcO4eDATrL21mUylWil-kJ4bBJ3CRdl2f24CPiiKzwotTh0OJ3E9m6W78xWl0Lf__lFaJN4fiH4jxQ4d796sAenz256oD5E9oxaSj6OpwaefnmHFNnsHRJRB3BD0jjmc3Du3hupsFuYsQrxA_pB_N-QGv7bccld8TUeBxlbhJKdkYgkQ9k8Jg9IA7wI2a_KiOg" type="video/mp4">
@@ -1277,7 +1322,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456502">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nMPrNSNrFUW5jmbsHukj_Rt5DoeRY1xEjMOG2LWMg2GoekOhAQUgxNA2MN4xxt3jiwN-LLocztCQnAXYG3SdD5cpmUKWL4ol2WrkJ6DSfrPS3ZUn6O19cMO6xug2gXOOK346pmBpNZt-Jw2s7XMcth5vlS0IQ98sQk7TZ2KvWK9HoPwu5ADF-JMhC1adQT1LC0CBm24mBwcswhj-Yzv2Hwoge43j2sS64yY6SouO_vowvVR1ECoLCZDhOkT-RmYzHdzQ-I18SHwrCa2n1YMA2Q3Hwajq38diLv0n1zLkCN6CV-E7kHRPKfoz_mWgXuPxCEpLxoecp5KwMcjOfu9TRA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">۱۳۹ کتاب درسی در سال‌جاری تغییر می‌کند
 🔹
@@ -1289,7 +1334,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456501">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/caf9ea2519.mp4?token=eEayGC8d9t3AOMhrN3NtRiVtJHgu28JlAzZ_6Pdnr3Uktf5rrBnpJ-h7Cu8ROOHurKGO6wQsRuKNZrQoQuKjJ1PfYv_XII_-digx-UipYHkKPtrMoOHUQPyXTPBt14M7NCQ0itiumAvl67UBtlEn_RdaI_DKqyHfGiXt7gxjep9Mmt5pN4l2eOeDYJOnSFZ42tyNMtfd2ZxcvGjiLxuqWEBrhjxCOTY3jRTRVim1yQo1uLMn0o0NmvjCGRm-_qTNX0UgJYSLOYfyPR_zGR2YzluSIXP6GIrzfvWJNzAgdnkBhJIYOh6R_JKOXmTMfY-xkHNeegAgD7TwbJIVvKl3yg" type="video/mp4">
@@ -1300,18 +1345,18 @@ Link</div>
 <div class="tg-text">🎥
 حال‌وهوای مزار رهبر شهید انقلاب در رواق دارالذکر حرم مطهر رضوی
 @Farsna</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/456501" target="_blank">📅 03:39 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/456501" target="_blank">📅 03:39 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456500">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">المیادین از حملۀ توپخانه‌ای رژیم صهیونیستی به شرق شهر غزه خبر داد.
 @Farsna</div>
 <div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/456500" target="_blank">📅 03:17 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456499">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LV2N1XCI2GtcxHGGHFYrq8KpdBClIkPYD1QODIl8n3NEOZZNXdPgnD2wsOb7yPgdJa--Zp9mj9_bLhp3VIhzTAUti5KJ26-fX3-pS3Q8BrJlH1jbi7d5K3OoKVAC3oPscFbRpW_d2u8_5ZMePtxiAzbXPN5Rwdw1DLWbtSer6Zphfmt5bIpKE9eU2AN7PETMnnrmUgcWKWpUQR-r7EmYDgtgJX88iQwFi-KN_Tq0juY-TL_70cauow3YBm2VyIiEOW4aZttuB1Z-6hfgMexGcH1hYplxHZtWHp1fE4Ljvu9WBRpSY4zkVvT9Ok-bO8RfP3Hns6MLfevhFBjXKrJ4kg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎥
 اولین تصاویر از ۶ متهم پروندۀ قتل حمیدرضا رجب‌زاده
@@ -1321,7 +1366,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456498">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفارس علم و فناوری</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qEmB5tYDSX6L0CAcxciB4p3_otluUpdAMrRmi6hSiPhlG6puopFgpDOs3NrpDFd2Em2flVstwMAgXE_JdFsf8iwiLbjNV3NegqUkewMGwoHEbCCBnI7kv0nfWEleIcKpwYUJxg00ejm6W9Fvzp1O0VIAKxbxz08hY2BmAORPFc2Y61NDgQMMK9-5tVnFQCEAGbTlW2zEy5OQHPgNCzV2Ge9gQNCvPj09Dk1fBLHamGsJe7BGAPzPHWoe9sshJUY34CWBIhrOWynm1ShR-MPT6mJS6ZXX-J7xfGN1YJP0Gg_WYEESQRunCTPcAU9TZWVfQyx1BS2-cgw72vhk-y3V_w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبدیل کشتی‌های معمولی به سلاح شناور
@@ -1338,7 +1383,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456491">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/EsNEiU8ABHjzqmHrrfzlYZyaPRdP1lcGst3zrMUnDWEgqYMaOtCH0Bt7X2m3FgacROIm0Ef2nD5EU8m0db_8aVuwjvE1Os2hghJ-q6vn0kszJkeBQ5GaevhYWgGvIy4y_kPH3UMZB38mklXUIZVgHZHzkJAriPoaMRQhhEf2xSMV01aKEIKJ4lbqnnueODaCuGFNqLMUOM2Z0-QO9HsvR883fiWJB25Vwi5TdYNbCXNe_9TTApJNakjsADaE_6Kw6NnM4DjRR8sUQcskeGEisepASgSruM_qJQuaVXBaDzoH0Rx2QJKuMHBRCjM8Rh_RoKeomSCReLo0eb0gVg2lLg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TvpwJogorfBseUKuXvYTKXxhsWhgTwXylW_qUIT6c9A5uoMin4hJyyAJ1ZXdBXb42RAZO8hlWhKEHFX7gP00VMPkB6SRIEAgNlPMAHdkolngDdUk5xq9Vq467_TXpvKoc7XTtbG5M_2LOvY3WsylTqyBF7S_zeIniYJ7EOwWJM0w47m6_KxsXRmnCp-XX3NOkW900Q5NtXthQW1sa1kJVjfoD8Qd4Sf5fPDnGsZ8o8YOKQkEcrq_RowfvmIgoUSPjJIXQUPzeyaGWaEzNOVSkD31laeq2eXBw61VDsUFUMLcBSHHSZg8T7S7jlw0WQ51Dd3BLPOmTdbi6pi2aCnTng.jpg" alt="photo" loading="lazy"/></div>
@@ -1357,14 +1402,14 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456490">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">منابع خبری از حملات رژیم صهیونیستی به مناطقی در جنوب لبنان خبر می‌دهند.
 @Farsna</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/456490" target="_blank">📅 01:54 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farsna/456490" target="_blank">📅 01:54 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456489">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WpSGkLSbvHzkFJoKZ30unKUfbsxZicsg_sxplfu9L96uINK5KN1PLvZASm3HLeddm5ae-d7_StQtJHT_6gCTDr_0VaHyhwIrnkSgy5qw9fDG5vRxbm0KFswWTXSaHMRQDBXfufV_DTDLjRd0De-4MVYzicmJ_ltFQsThkOc3flLMUZ4J6vNlItitK4OuzlFmT12Rh8joKdtu-gKWZsRdRYWUrviEn5wSRFsR5ruc-_QN1TQJCwA-pnNNoXIs9cFdqmnMVDQBMySXlzC7QJabVVI8fVfG3uhViP1_AC2oPXnIG9GYtnlOWOhVUvjkMF5A_HirbmxiMWzZSdFKnH80xw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اردوغان: اسرائیل آغازگر جنگ کنونی در منطقه است
 🔹
@@ -1378,11 +1423,11 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/farsna/456489" target="_blank">📅 01:33 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farsna/456489" target="_blank">📅 01:33 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456488">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JCQi-Nk92zDUUrvC4_IwcL-6SS26-DRvNs1pPOXK3jYiQncujWUfWduR6bJ1J7mw5Nsk_7lPYB0RvFcunnMmvk-CZtHeIc2tF38jGz5EFYpOVHaJdhZUEsUr1ifnDy57sHbUfhjiTHHdig-xyCoLpqi6TWjhOnKfwEgcj-IAUjVcW_4YqPaU6PcCgv866wSgNSveadfQTdPDj13cUoanjIrExUZdTR7raMR-ZwOxza1fRw2by-v6pg_aiBfb--yLfzTnEZPorZZeux3z8E83bNZlcgJnz0PSl5lw52qK6TMy8hymKvyOliDkFhO7WC8B7boYFKDRcQQugX7OjtNUCw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خودکشی یک نظامی صهیونیست دیگر پس‌ از بازگشت از غزه
 🔹
@@ -1396,7 +1441,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456483">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/JYSLXWEvuCi2Ie1Zk7j7TYGmIg7EeiiqU7t5V7_1xStDIX4lHIdOBnATdolNWRZU6JUphn-YfsuLKzTbitBVBl-4g-pi4Q9S9IMkowSmTEgFEsydoVAresnqEuXjuXysUnC1hzeq9Rf6otgDZkS0BAdJANUjGnwXPcgJV-cZbVw37nmbfFTdo08CbGmlkMOvDLUNi3vo0MFW9xThz8UEW4J2j9LM3EFSOsyl3VF8ydgN9eincd5PhxRUt0yPWr8j3pbhFSxk-ov7Q5j4VwpJ9mb53zotiy_9xcbB9SUJoA6yJr6BLk60QmvZRS_Mo98TKcX2LWz_wfplB-FM2nBFIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/oNGg8NrF68-m9PupqKNlTeIVA_R0aVUuyvcP-32ASj9_ysHL0A00a3NB556w3cLwNcIvJSkLrgOFVwBnk_U038IE-h5T8Dh2WdX_8KeIO_xz5sJBA5D-XEdNArCvMAdGD24PaqXiE4l-icOMqlX8xzwZLN_t9VFebe4nknIo_IkR5PsrfWP-swKhGPUtMPAaLKbYTUwamzrxe-OptWPnKJPdbGH-IHFnsl7Pu4BcyVSNV8gBJuMuFgO4cBiVgky3bzS1lhOJ2JsM1HZkZshs8rydQNu7IQ60XRaIjSNXAoHNPpkPyECijtXP51H3K2Gqogodrw14W6XU6zuoqlzQUA.jpg" alt="photo" loading="lazy"/></div>
@@ -1411,7 +1456,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456473">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/sCbuzwFGvAaHXaM-x0sJuW4NLFYyE6xzZP-xlQbI_OZY144wkz8_XIwoWoWW0g5eIHwhVffUveQpsMXN6fQ0juIHJIcI2iamhA9hmOSZMYKmpKjYCnChLiHrEwf4MTGNeKZ82j-3wcXQAl92oTpKrewL2LSv0Vn7-bfxVi1EiwV_fHyYZ-95N-rDqMVzSwO3FeVxD83Sk7ghCABoCmPX4hAJBCdqRl2tQMkUgiNP1rmAJ7J0bVmqgOejEGVkc4_rdLrpiRWPoNUnkWE2EGuSmTPveVjDBXqQWzJbpnpR-UFpFmOj1sMhqqdwmC6XqaorTwBkoFEBS6CirwzaDsBuAQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/oZSuCIBP71-8XLsCN4Tc_JbXkLFjUXTDfEHrcvas1JNtAbmyckKB1c5uDzYnY0LmMEuIaT5VP9mybk-gc2rWWloZxOsRkqSk15fboQistHrUhshXOhjv-4f7e5wPPAqF8x6S1l8t48faspMlFNxk9wlJr3_6yWb2k0QI1Zb8VuoCei80juA5EK2RSq818htYIK68aPLljSOe_q3_xhV3V5Lfoh5fuX2K6vAbhZw19s5b3nrDerb-iv8xdh4_7rGthTQffBfLCLqQBahTigXwaFYWrS0gGHZG-9KNmQGfduIEaKVcO-8kMoegngg_yU-ceukJkD9Saz42QbYkG2US3A.jpg" alt="photo" loading="lazy"/></div>
@@ -1424,11 +1469,11 @@ Link</div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/WQAe8j5j4-cthQfMeEUx-TFqQX0Vu1Nms4YN7FwMH4IXJPwHCwoge4xeYcm3TY_a3aoJKr1HSkpy__dwjoBriOIY39bMiOFe_JHlt4XLdabgdHXtO2Nb8P1FAK-93Xx6_1eO0J3bvw3kVjGPru8TqQ5wqX638bHrZM4zxiCKQfFaLUQ25EEIHp4ZscahC7GLZCZtv_wAe7V79bg7_3HJZADPVfk3UbLAdZLcODxHkgL7b2RxZ2QT0Q-k5zj6pcik7VU1ZOi6o1gBFhG0XYhDY6JHh2H2Ti3SElBDop-2KZbT2bDTdohZeg2OBkm34HmVHhxHlZqWgUghSjDtE9kcwA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/orIH4Re7wYGmMz9en7gg7EYdDf7R1g0P-5pNtvXUWfGR0jU4ZgC3T2v9JuaTh9nB1YItSDLk8s3sLhN-AxTBIlJJYSBNt124mFD8mFOZHT42MQQYlK-XG7uHs1m9xP4775TQqm7eDzy7KmCfEAVWy_fQbmj-fPShMgWQ1upjWHl0897cQuTbWflYsM-pbZob2KS2Go-FewNCp3hapyAE1aC6Al18CfwkTr78jCDi-KmZEPW5WEebnu4M7Q7KZvRrV1TjDlcbjgTs-36vB1xw_E33szpdkEiQBxHiVNj0rwIGNKbZ2RQsoFhNxXTAhAJjCkNToOsUlti0iKhVXe06DQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farsna/456473" target="_blank">📅 00:55 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/farsna/456473" target="_blank">📅 00:55 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456472">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PNL5vanHkMsGntUizANTZgLEwa5BnfHd1bJF7-cflanaUGfnpeteEIpCRhYxzJtw9IgN6Cs0FGArbhSuMB6i_mkaPQEy4nKn_EJUI47utVp5QLGb9escfih260HI3dZm5AO3-iZgW8lI1uxYKUUsgHb31usg_IAFMEzNXBKKrYYrO8rdlQZMbq0j3q1xj79-X3T-7a6o-2kM-_WlE5g5fiULbgs3jXUiYa7Kfzh5RjpFw2PojLIVqGam_Y8sHoANDDFPuXZPsoM5B-pEmCi3eFueZTCAotFV_uNIYmqEEZiAjqkO-kzAkRcZm6zdp2isW99cxyATlGQsSNVYuFjhxA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سپاه: پیام منتسب به فرماندۀ هوافضای سپاه جعلی است
 🔹
@@ -1442,22 +1487,22 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/farsna/456472" target="_blank">📅 00:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/farsna/456472" target="_blank">📅 00:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456471">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">ادارات مهران و دهلران دوشنبه تعطیل شدند
 🔹
 با توجه به تداوم موج گرما و افزایش دمای هوا، فعالیت ادارات و دستگاه‌های اجرایی، بانک‌ها به‌جز شعب کشیک و شرکت‌های بیمه در شهرستان‌های مهران و دهلران روز دوشنبه ۲۶ مردادماه تعطیل اعلام شد.
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/farsna/456471" target="_blank">📅 00:24 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farsna/456471" target="_blank">📅 00:24 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456470">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/7ab76ea7e7.mp4?token=uP1uPmJkMnpwg5HYDF_HJBqC39rJxBDUKLaHfI0QKTwy-2-7C3vNqZgga7IGMKw4QZXCs5rGW9xb3tPOxqyDkBlAhFOebSZrxzO_4zrBtOyRam51eVvPNz74MO-xDCexyt8gN1FT8pt1neRMGq4w-3sWbKvU3WlHXcPXZeI64_2cgdemaln2ox_kKVJYE1DCZy-OcGGejd9yQF5dRK2wwWJAYO2yqd_LgfAmSoWuWzihrvvtSwtsiiJDHGrAaewERdHKjjWitedfGoqI_HpZyPDhgIXCCqs76u7hMbIhRRoadd9jrToEFBSCStl7Vy2uwD95hSLvOyXEP96rkqH-mZXUcaTyKBbv4CKkDjFwKT4LlIxq8FSA7aH_uF_Nv4OR0AyiSCie4X_3G09x3MyWdQchOkDDgvS9lunwzNZFkMd2jQHZN_8NrdMsm7yzskIhKDWLzXpV-8uRx5dTsL4E4BgW1j1NFG4nyFxGiGWyKrxhT_H7XohLuWKPTYlRFm23eSjdKCBFRukyq8r_kqVBibQt1zQDnMG_I4nbaejTgVh89mHRBue_ueD6CiEaRZmKmLQo5w-3DUv-BrHVu0t-IbDwzeP1h616WX00Wa4zzJsdUzhvgjRD29vLPN0f2x0IJlsUahOinucUzZxnnFmzBYGR8CipTKh1HcOEFt0kqwk" type="video/mp4">
@@ -1474,7 +1519,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456469">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3020d64c47.mp4?token=Br_6T9o8rGo_9ylFLbvFGUSmHFqL_-Sg3Ip5PnYSQ6JSgz_SpbhgUsOv70SlS4-Ns6c36rRV0evDs8GBULTGNwMIRpz2TVL9DNzt1w-tjbM1DHMDC-zBtcU0SvJQSu6nz7MxQWFhGHz5OvDuCK1q1GPs8P-o0jjwXt4lXxG93cBX87v1iviUOT6os8EOQ3eRpuYCkUN3vr6mfJrI-U4jzdVT9xwjIaNkESis7Vdtw92ActLA3RCHvg61tD_dlbjC_8IARt6CEV3_UPuZlvqQl0s0PT-k0D3MhuIr4KeoIVbJ3A8o6dGmX3C8U5qLPgfYMqF9-heQk0TyEd1LaJTkTwZ0JBzM7VE_NRVgZuYt4zU_cDYDCSi_92FhPU8C6CKQqoQfXb2Gk1RnCz6SmElJNJk-BlyQrYhpDdvYZHuZeXDQAg9WEPoYsI4GaagmeP3SenuZlN3W2IhIRwfCrvH9i6T4_L878cBsRJUsMFBStuAZz8VuJJkUrOlgK4HAOSUwgKg6gjXkowdqZTHKcvzNHj01ptl7umqM1fvm_qNQeGHwK_ygaz3M5MZHbaVjamXYJOB8pB20GATC9s-lZHc-cniiBa30WsfCQVgAvSfNVi-qtLvTak7ydU48n7K7uynYdyqW45h2ObI1SlYrBYnChceWtBF_9yPjUV325zH3CUg" type="video/mp4">
@@ -1491,7 +1536,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456468">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/96aeabd46f.mp4?token=kdXDBVZfjsiiSrTD9D9FFxh46AyMH160pfj7JCV8X-l2sKszHQegnwdCVumYvzVKkSzlV429Mn5QcJBSxmeJahwTb3GlEJFSyHZ3jaOHrwG_w1aXdj30lynbwDuHfaPcVhFqcCh9OASGFB3hntnzKcQbhdLPeIKNda5gjDjwUlTAVS5pKDtNPZ0qKHo8MICGCFfwUiRF1nW25uCcvIJlreZV9VjCXKj_Ry_NgyOKwPzhx15PBbDAXYkjM2hipxFO3mwwXP7xOaDsKUneE4pBRZJF4aheeDHqZKyvTeT_WuUM96jxSfhYAsjK_XhGmmy5HV4_QcVrCXzj16E-1kN5pA" type="video/mp4">
@@ -1508,7 +1553,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456467">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FgRXnRXDzBHOkJJrIMBgWwsNM5jiM8Buugsi06UR0jmIVufAJdSf4BfafmdQOFHOzryEVwaGTzgAxT-jXxC0FaQH5WYRuONZg0yVHX6WpsA0JRdXp6YNZeic1x1NqJq6p1EZl3exCYnXpW5UXdeclHC0zuMi1y-EsrLXoOHuKNCp_TeW7Sx1V0PDj_CLFijXP-kbUS2UFIUqyn0Q3BAxHCBo3ilpMfKs0ECEF6S0oBo9GeOy1fOUn3ONOx2MkqfY8knwTzw9vikcY9yACvEUFy6EDOQ1hEPDVS_6_JqrQka13JAXlzAR8qHQmIQ-ZH87Y96YMQoASostxDk8T2Ar2w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تصمیم تازهٔ جهاد کشاورزی؛ شالی‌کوب‌ها برنده، کشاورزان بازنده
 🔹
@@ -1522,7 +1567,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456466">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/7495006eb5.mp4?token=hp0-1otbkvo345t0Z3z_aCwQh6_vATvxKg7H11MNsPdttr-jc-0UWN5xTrXQsmgMxonvwHQ5dkXt6vH___9iaK187qi01h8ksS0zNsAyUzaSbhJwrJB0yMq6Jk7sL4j73LZvcmANUXN6lM3MDjMjVriOMxrpDn9KUWSCk9WPGyTxyh6Lxdn0BcyvA7AKFsP_VitNfG-mFfd2cZx7CjqTNXSfEgL8t4DSqdtVY-V5jXAXRN165oUqOqEWAD11l63e7BazWqy1_atwgXyFrwnuaWwFHFDye3tXo5xZFWmpPq3E0ge7zf6grh6Q3mDsh8XWsecg8lkK4JGE2MRrczD73395PVbS7WaqHl1W5mEBAM74nYXFXxXHfFBVXWkrtMgGoPCyIrW4ejytuj39Cdc9mCUCAfU2r8lBUhIA16EhRlc8rVAn9HtxlK38kH-cB4MDr_zdftvkVxfIDRvrbH8PLTBCoO7kfMytGLxaeyKHWd_nx4ZRM-Iw_zhqDuN91tHhshicJb4A1kMl7_GSKZUIudcUM1AQSkop12Smv9ETugS7ZYiz8cEIOxcwVKiy3mdguTkZVkG07Lr6y8NsXx6uwEVmcJrdfM-Za1T11XKf1tT3N0r-OjMKbPhdYc6QGVqVQMg5doccRWGRkVuPa_WjvhlT3ymoFi8-SRNEFbX1YR4" type="video/mp4">
@@ -1539,7 +1584,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456465">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c983a49c01.mp4?token=NLrQOpvqeJI_AIlXpLykg02TJZ8PwK2KfkV8qOGy9wmXAanvRHXJgob_9JNIWvwE8NK5kkEtafqFzGiSkA8kKfoob5EOgxE6ClTluzvNogOSBrMBy2kJVERsjrfS6JFPfM07TRKkMWwAabuRmur-5sQDI4_3uFPDnTsrKVNLLjIINdFAMwHLm5kTbH8SEhxyrkBlZLk8iev0b3aeV-ZFkEVvPZxU-wLFzyy9suay9N3Mhnsb8AQK8vKR7QtEWmItlI-5WEPT7Pe5Gyp1Hn240EgFRfDyPa72cDrrhBqH_wb8xFvgGmOQs7niMhMcne03P9reBVQLygNnOV4dBmFm2g" type="video/mp4">
@@ -1553,11 +1598,11 @@ Link</div>
 سردار جوانی: نیروهای مسلح براساس احکام صادرشده، رویکردهای تحولی خواهند داشت و هر اقدامی برای دفاع از کشور، تأمین امنیت و خنثی‌سازی تهدیدات دشمن در زمان لازم انجام خواهد شد.
 🔹
 آغازگر…</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farsna/456465" target="_blank">📅 23:15 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/456465" target="_blank">📅 23:15 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456464">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/ce4d930c6e.mp4?token=aDCKh5NhKwtwMUz1fZAorRBF636v_hYPreTbv_qRU5FgfKtHzycH_1-QmeWPj2YhFUcix2X_Ae3uv0HBIE1xayFpMFq_S5Dwv85eqgqp0AESVLllMn3Q3vpCcruf5xJ1xWMISmAnPWUT0MkqUVti2EyeYJKZcb4zXxpbiFjqjnbelrPVrvS_AAk5ySlnsY5GZnMe0oFELpo5Xlz2XFkZpaQd7DKn_5kJqg4sTk3wETafYMdgVaaUWHLsw-IvjCu17FLn_F-pc4Pfw7-P26NIxMN0ahnxYwBFpPz3NIdEVNi6GvVMYEjSV9BO0rXgY6dv_2FHc_bIuHVmTjcrET2ERw" type="video/mp4">
@@ -1570,11 +1615,11 @@ Link</div>
 آمریکا و اسرائیل با ۹ هدف مشخص به ما حمله کردند اما به هیچ‌کدام از اهداف خود در هیچ سطحی دسترسی پیدا نکردند، این بزرگ‌ترین پیروزی بزرگی برای ما بود.
 🔹
 امروز ما در یک جنگ ناجوانمردانه‌ هستیم که در رأس آن آمریکا…</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/456464" target="_blank">📅 23:06 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farsna/456464" target="_blank">📅 23:06 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-456463">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/38f51655b2.mp4?token=ZMqReO3FMNxM-qeC0eD0O0QELjncPgSSkGwVcQ6yg5sIEJConSCHpohaLa5gncbs6X6D9NcODl2xjdhraIa2LoaPrCREcE6Xt7QhC5qFxDCh6Nf59zgmvM_zISxbWawjkSqVWfABnc2zx1BO7nNlODbWM7lJCAicADokgUSW-D4oQmgU2v2xgvsFIHO0dIRLLhuYAptbDhicSYhPb1NgIIzTHLzDm-2jKcbYvmMlDOyi6vntGUz41Kf3v78__5QM8I9CYAvokjtKeHay2Ce0sn_UQpd1AaZcyaWgBoXUy5-CIvgf6YmyWOiTN4xYyJ8w8-sxxWJwxu9ws8edgl7iEA" type="video/mp4">
@@ -1593,7 +1638,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456462">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b1b5f96c1a.mp4?token=fdVSFwQsEzTmXHBqk7lSLPwNAP8GzY0KDYOXLqmZoODDESUErJ0toswgWAfvWlh_Rw3UIkoD1-fm-GZ3cw_RLIHOYy_gJgXwTTCu9TpzFwcMrnJttV-sEdcqTGlw9Ay2XqwUpA43azdDZAxoKcckREwZ1M4Mk5y3JRk_bm-2qEkvyNUAvexGfrxBoDpq1albsYaqj1uoEUYdA8fVCmtEy5yHe5rMfSZm9n1CHMd2Bggz2hgHMc3VAqDRd7WiAkuceUg4n_pRgJV6Y7-pEaD2Mi3r_bsHOseFC2VYdEa7ioCuRG3rknvQmHAue3BF77vHC3EIaik28fhRV_l87Y5S5A" type="video/mp4">
@@ -1607,7 +1652,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456461">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/332f90307c.mp4?token=i_ttDSlpNeNLU6gxm8ElqcETItHj5c8SuU3okRDeDjQbvjOLcN137lyUpXAv2IYIo6dvGp_EOVAuAoJjPiH_mpgAMYKijO_MBxqNPAf_cafYtIGO6Zf7o7PXAQbisWMq0dwhQmutgF67gtKoqQq2OLnxPSG_NtTtQjtW4_hxkLma5k9VHFCRqVdPxBn5u4_C8sjjI5sTZJIvO3_JZioqDGuZgcLoEnVzzv9Vuf1R2bXAoFWaw7WkZLJVOtR7-IVvJqPq0GCkLYAq-dHRTDFUNC7na8yZsZpPjTRLupMkxtxatMkEBsWVlis8dNfN5M2WYzOk_tnJ8ZJTMhpHorsPpA" type="video/mp4">
@@ -1621,7 +1666,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456460">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3cd296c47d.mp4?token=o83ZFXGdna5qtu-9P5PdsZ3EB2t0eJocyMQo_KvFXC-Q92zW-F4yGn_aCY4PLeMidbn-UOoUrznZ58rXfqI1ocWHk83Uicyv3SNFlMLpaeA5xIK76VKfUnajKJcW6qNQMUWiCiaCmZQWpL_mncLbi5npR8L5RfUVyTwccbYAp1P9I93hiyJdcJRjWR0tyI98KWo6OjWTYEBUH88IXx-gBN85X4mPDDaH-8UckbqYIAdhgYbaV3loySh9J2WTuGFiCqx0Gq-vIkymFJqk4kN1pROiF7jBhpam3jMwrkoSIGiLfR9LJaEcrvnKb7KW5vZtj7IEl28DyEczHARlY2rvnw" type="video/mp4">
@@ -1636,7 +1681,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456459">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4834b23901.mp4?token=e86EQ1bKvuKwHaCzSaDl2Tky3Y5orWSOALqfsO8LnaIgzzOSRkykyiv_pCFy0cF0olcSrlPcS5CXtUUAaEQrvbdPHV6tc8M1m7OQmFOwfPFYNarHm469ELjHSCA8V1EgsD-fyvRTQaDWHmkYcIyFG-D9_eN8NC-hcCqUpuBV6DBIao2FH8wtYxAqKc9fJzEzS1SeDZk-47Fh4L3P_I0YYD4VA3_pftYaTt3AMxSuQaDRfcyhUnssT9Rl47iyeQnq7xnuGxnhMZ0S940l2h_aAjfEY5UVoxXk5JgRczqmYBxuCpvAjBQNJ8OsBT9sxpQDuf-G8myaCaGPvvXL9-v0tg" type="video/mp4">
@@ -1653,7 +1698,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456458">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9413808a20.mp4?token=pCZPKzr2TQHn5e1KVq_AHx--F59HZIyjdMH004XznHCgM_SdTLIh1ux6Jy2ztiPGI7xkl9jSohMIo190bpcwuA2rnI8JEPOHnNGMWLYsNy2MI0P_XsYP4ycrwF_IOODewm2XdLQ2zFYXPdblqx0BDWolviBY9zO8kIdxQarLTRhUne159XrzcgVuVOFHGXkpNSzRoTR2NxCa_IkJtH6a0fTHFqA3PySwTIQ7ZKCiGuoAPyKaSi-Z7Qmao1yHwDTs12d5FzdJ4c21mO_cj59-DQ60vEidly6AvWLs0m56RvlPjqU5tUzLO5acrAnW1P9VCtxlkD2_Wq3-4ssjxH4p9A" type="video/mp4">
@@ -1670,7 +1715,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456457">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/737a9ae067.mp4?token=v_LW1ERlk9KjgqqwBu5Y2HvcLegukS49w-d2lsshW8ax1ved6bGzLi6vd6rop9664ORCZjQEk1aQ0Iy8g4mIov88bVIZsSZPnS_aDhOCueV4tNfE6s87DKS8fNUst6LFGWBF6dL8a4wO9ImCigQ94LzcdvlGf781vVR_nscOLMa-vrfBpldao0uR8oPC9C6rj9jk-HHBPtf2lIeeUBSB9lsuL5TAb2FuWqPZoVwiI2ILIGliDbjbbTtJse6risnLjq2-YMNg3pTyz0on-EFiMGmxUrF5OuZ5nepxou9BSSiy-sv2L_a_ONrLr3gi-4O7wtVEQlgeUDMD6a1Ew_RvFg" type="video/mp4">
@@ -1687,7 +1732,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-456456">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/74fc7d771a.mp4?token=rsFY7qz_7CF94ztb-qWyr93se0riV6-ywDJzRZS7N1FpsUfJ1wCP_TgFor7jiVUeTmvaoKHxYeNKdFKxdowhKrl0CCVgDEhWjiA7UVV8EZ0Ib9JTDmjYQNremUCtKLNVhcjxgVH4kGXnhqKWPeD4uYyQH16AQjQhkXmRarg0TPg9KS5LtEbCSyB0lZfHGuaO_FN5UQm48JIyxMpjc42uJZvlhX5ZQi6WiUNnqGe_pJFyYwHRczh_ME3wPrjV4aEqvwDDLFmpSwdIgOATT7hFFZ0TJTvtG8Y2XSSxOky-rMHaXwwhsCdlJf6INw_kBfYndlWeUN9k0OpvNiHU9KZKzA" type="video/mp4">
@@ -1699,50 +1744,6 @@ Link</div>
 مردم در شب ۱۶۹ دست از حضور در میدان نکشیدند
 @Farsna</div>
 <div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/456456" target="_blank">📅 22:01 · 25 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-456455">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d3a28d146a.mp4?token=ZEFt8b41NlFO3SV7_eZwLsFaDmU4P2Kc-UQBC3TH36xBrbU5YEU2B0ptE6Zy0Q664seLL9Givfsx6h5sYKb_4W7SaulBiy-c-jl-4YFiKW15Q3NolOJPfGXtl7lS4gVwx6YTpUX5L_Qn-YFTFzXEK_-5bVBdPSnS8FUV2VdoZ8mcPH7kJyszdyPQJL6Ym0UqF57CWXy-TLC-km0ea9DCjXilSSSNhWBqtPTvSUdaj8j8OscBiO2o6Y788ubI9YYycz-h79xYOQ31LQw15ywgyN9aVuQjLRGIMqs6CHv9m8y21LTLwxqLN4ooKcNJ6L-JUDSWgBCdmK7YY6Fov7lN1A" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/d3a28d146a.mp4?token=ZEFt8b41NlFO3SV7_eZwLsFaDmU4P2Kc-UQBC3TH36xBrbU5YEU2B0ptE6Zy0Q664seLL9Givfsx6h5sYKb_4W7SaulBiy-c-jl-4YFiKW15Q3NolOJPfGXtl7lS4gVwx6YTpUX5L_Qn-YFTFzXEK_-5bVBdPSnS8FUV2VdoZ8mcPH7kJyszdyPQJL6Ym0UqF57CWXy-TLC-km0ea9DCjXilSSSNhWBqtPTvSUdaj8j8OscBiO2o6Y788ubI9YYycz-h79xYOQ31LQw15ywgyN9aVuQjLRGIMqs6CHv9m8y21LTLwxqLN4ooKcNJ6L-JUDSWgBCdmK7YY6Fov7lN1A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">رئیس‌کل بانک مرکزی برای دیدار با مقامات بانکی و اقتصادی عراق راهی این کشور شد.  عکس: فرج صمدی @Farsna</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farsna/456455" target="_blank">📅 21:50 · 25 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-456454">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-doc">
-<span class="tg-doc-icon">📎</span>
-<div class="tg-doc-info">
-  <div class="tg-doc-title">بسته خط ۱۲۲.pdf</div>
-  <div class="tg-doc-extra">2.7 MB</div>
-</div>
-<a href="https://t.me/farsna/456454" class="tg-doc-link" target="_blank">دانلود</a>
-</div>
-<div class="tg-text">بسته خط ۱۲۱.pdf</div>
-<div class="tg-footer">👁️ 9.76K · <a href="https://t.me/farsna/456454" target="_blank">📅 21:46 · 25 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-456453">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/28bc46a7f5.mp4?token=F2XtIfSdXDt8stswqzTjc3Sy949wZJbUSdS5pDPu9olwvem-EzilLOcJFBs7ZLsUE5g9BEE62f-jtLcLcruZMTbcWwGqmMSLI8Vu6LafgvyFVAWj-lg4Ot7MNFpeOHE_KnDGmtIkUna8_aFOwVoxwsfne5p1_WLf9vVsJFTiMhkJFvIaAPixfsrcUh37SqnhN0jf-CPc3fbcQguiAma3-zkb0rUV501jkjtKswcVc7lsBKxOSx0foQDvEGK7UAx6I0bZmN77TJgaCKegZ1Zu5aKMW26_nq5yLe1Um7Z1TFCCDDKiFLx5rSkH_dFMtTKtBf4PmX5IhDV5i1olHYrleA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/28bc46a7f5.mp4?token=F2XtIfSdXDt8stswqzTjc3Sy949wZJbUSdS5pDPu9olwvem-EzilLOcJFBs7ZLsUE5g9BEE62f-jtLcLcruZMTbcWwGqmMSLI8Vu6LafgvyFVAWj-lg4Ot7MNFpeOHE_KnDGmtIkUna8_aFOwVoxwsfne5p1_WLf9vVsJFTiMhkJFvIaAPixfsrcUh37SqnhN0jf-CPc3fbcQguiAma3-zkb0rUV501jkjtKswcVc7lsBKxOSx0foQDvEGK7UAx6I0bZmN77TJgaCKegZ1Zu5aKMW26_nq5yLe1Um7Z1TFCCDDKiFLx5rSkH_dFMtTKtBf4PmX5IhDV5i1olHYrleA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">🎥
-چرا به یزد می‌گویند شهر «قنات، قنوت و قناعت»؟
-@Farsna
--
-Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/456453" target="_blank">📅 21:40 · 25 Mordad 1405</a></div>
 </div>
 
 <hr>

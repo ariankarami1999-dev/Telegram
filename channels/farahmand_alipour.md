@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64.3K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 17:57:56</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 18:23:22</div>
 <hr>
 
 <div class="tg-post" id="msg-6595">
@@ -307,7 +307,7 @@
 قطر رو ولی حتی بیشتر!
 که اون شبکه الجزیره‌اش
 کپی صدا و سیمای خودتونه!</div>
-<div class="tg-footer">👁️ 2.9K · <a href="https://t.me/farahmand_alipour/6595" target="_blank">📅 17:29 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.15K · <a href="https://t.me/farahmand_alipour/6595" target="_blank">📅 17:29 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6594">
@@ -321,7 +321,7 @@
 عقلای مجلس از تصویب جزئیات خطرناک طرح جلوگیری می‌کنند؟
 🆔
 @Entekhab_ir</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/farahmand_alipour/6594" target="_blank">📅 00:17 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/farahmand_alipour/6594" target="_blank">📅 00:17 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6593">
@@ -343,7 +343,7 @@
 هر روز پلمب کافه‌ها و... رو داریم.
 هر صبح اعدام داریم، هنوز چند ماه از یک قتل عام نگذشته. اینها اما برای موشک‌های جمهوری اسلامی قر میدن و میرقصن.
 البته که مردم ایران آگاه‌ترین مردم جهان نسبت به تاریخ و هویتشون هستن! خیلی!</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/farahmand_alipour/6593" target="_blank">📅 18:44 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farahmand_alipour/6593" target="_blank">📅 18:44 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6592">
@@ -352,13 +352,13 @@
 <div class="tg-text">هزینه بقای شما نابودی ایرانه!
 اگر اینگونه است که تسلیت به ایران
 و چند نسل آینده ایرانی!</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/6592" target="_blank">📅 17:11 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/farahmand_alipour/6592" target="_blank">📅 17:11 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6591">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">اگه این موضوع به این صراحت در تاریخ اسلام و سنت اسلام وجود داره  و قرآن هم صریحا مجوز داده،  چرا در ایران این نمایش‌ها برای گروه تروریستی داعش برگزار میشه؟  پاسخ ساده است!  ‌اونهایی که این برنامه‌ها رو میریزن می‌دونن عموم ایرانی‌ها از تاریخ اسلام بیخبرن! اطلاعی…</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/farahmand_alipour/6591" target="_blank">📅 15:46 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/farahmand_alipour/6591" target="_blank">📅 15:46 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6590">
@@ -370,19 +370,19 @@
 <div class="tg-post" id="msg-6589">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">در جنگ با هوازن (جنگ حنین)  [که خامنه‌ای قیام حاشیه نشینان فقیر مشهد- کوی طلاب در سال ۱۳۷۱ رو به بازماندگان جنگ حنین نسبت داد!!!]  تعداد زیادی زن و کودک نصیب مسلمان شد!  مسلمانان مکه رو فتح کرده بودند  میخواستن برن طائف رو هم بگیرن که وسط راه جنگ با قبیله…</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/farahmand_alipour/6589" target="_blank">📅 15:00 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/farahmand_alipour/6589" target="_blank">📅 15:00 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6588">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">آیا این تنها جنگ و مورد بود که در زمان پیامبر اسلام رخ داد، و زنان و کودکان به عنوان غنیمت جنگی برداشته شدند؟  پاسخ قطعی : خیر!  در جریان حمله به گروه دیگری از یهودیان،  در جنگ خیبر، زنان و کودکان آنها هم به عنوان غنیمت برداشته شدند،  از جمله زنی به نام «صفیه…</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/farahmand_alipour/6588" target="_blank">📅 14:56 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/farahmand_alipour/6588" target="_blank">📅 14:56 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6587">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">آیا علی هم سهمی برد؟  قطعا!  از اونجایی که ارتش اسلام حدود ۳ هزار نفر بود، و سهم سواره‌ها ۳ برابر پیاده‌ها بود،  همه املاک، زمین‌ها، پول و برده‌ها، ارزش گذاری شد، ابتدا «خمس» (یک پنجم) که سهم پیامبر بود جدا شد و سپس ۸۰٪ بقیه بین افراد تقسیم شد. از اونجا که…</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farahmand_alipour/6587" target="_blank">📅 14:50 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/farahmand_alipour/6587" target="_blank">📅 14:50 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6586">
@@ -413,14 +413,14 @@
 <a href="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=qSKi2hqLVJvw3L1RIGNqHWrsvrnKXpnazU-rGVkSsdG3grCdBHWx-2Eom7ot-wbI9gITmnJjr1i2BnykbEzQZmpxD3goSWE1Q29FIVK9EXn_NNj_LL70NMN2e2UM4EFToP0DT47QYOfohHniDvBMm7E3hQ-vdM9RjYulNjZPDbKCjHL2-3X-9Fc87QBYAIR-3I2N4HKlGjNq2Ip1C7nMRpNL_W-k0bgpXJ2owWbeaWK0q9HFkhp8vsHyrt1OLwCAaZCrGYhh1MS9JM9erla22ptnDOja_evBeqiAdgrGAwmbKdP-So56zXbgdUw_N1eXQ2VVTpRssd9YOs_B8gTnpw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">در روایات این دو کتاب، اومده که حدود  هزار زن و دختر و کودک یهودی از این جنگ موند!  که اینها رو به عنوان «غنیمت جنگی» برداشتند. یک پنجم کل این تعداد، تحت قانون «خمس»  سهم حکومت اسلامی و پیامبر شد.  چهار پنجم هم بین سربازان و فرماندهان ارتش اسلام تقسیم شد!…</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farahmand_alipour/6583" target="_blank">📅 14:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/farahmand_alipour/6583" target="_blank">📅 14:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6582">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MpdZ4cLYQysJYwE01lpVnQZDmvQFoMK65AVTTO524XZdRvK8Pa7G_wq3Uf-K2HJjHKPKxD5yDpFbb9JRXp8CCpgu3pwY8aEu18k7p6VKJS6FokOYBzA8XlIOlBlUpKDwwsBCxguKjpX0fP8ZpC5z5j_gNkJ1yP_7LASdRik6EytDnriIi5TrspZGn0CpcEcwFGT4BZyrtOmHjjVXWDbkZ8HVKWGuT4QV7EX8A0yYmX4n83m8RYv5EMbyfJQtEuAPozy7KCS24xcqsaQ5Qlg-BOKBk_o82UopbdR6EK611PKMIFLfC86aKKTmr1m4vXGxPPsS_EOURTyJfbhLezqvCA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نقاشی مینیاتور از جنگ بنی‌قریظه و صدور حکم کشتن تمام مردان و پسران یهودی.  مردان رو یک به یک کنترل کردند،  که آیا کودکه و به عنوان برده بردارند، یا به قتل برسانند.  مردان بالغ که از چهره‌‌شون مشخص بود که بالغن. نوجوان‌ها کمی دشوارتر بود.  لباس زیر اونها رو…</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/farahmand_alipour/6582" target="_blank">📅 14:06 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/farahmand_alipour/6582" target="_blank">📅 14:06 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6581">
@@ -465,7 +465,7 @@
 میزان نوشت که صادقی به اتهام «اقدام عملیاتی» به نفع اسرائیل و آمریکا و گروه‌های «متخاصم» و همچنین اقدام «علیه امنیت و منافع ملی» به اعدام محکوم شده بود. این خبرگزاری مدعی شده است که او در جریان اعتراضات، در ۱۸ دی‌ماه، به دلیل «زیر گرفتن ماموران با خودرو» بازداشت شده بود.
 قوه قضاییه جزئیات بیشتری درباره روند رسیدگی قضایی، مستندات اتهام «اقدام عملیاتی» یا چگونگی صدور و تایید حکم اعدام منتشر نکرده است. همچنین در گزارش رسمی، جزئیات مستقلی درباره ادعای زیر گرفتن ماموران و اینکه این اتهام دقیقا بر چه شواهدی استوار بوده، ارائه نشده است.
 @indypersian</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/farahmand_alipour/6578" target="_blank">📅 08:33 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/farahmand_alipour/6578" target="_blank">📅 08:33 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6576">
@@ -482,7 +482,7 @@
 اما يك آمريكايى رفت و اين خانواده رو بعد از چند نسل از بردگی نجات داد.
 در اين کپشن نوشته نشده، اما ايشون حدود ١٠ خانواده رو نجات داد!!
 اين مورد از برده دارى تا همين چند سال پيش در پاكستان «قانونى» بود. الان غير قانونيه اما هنوز رايجه.</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/6576" target="_blank">📅 00:07 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/6576" target="_blank">📅 00:07 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6575">
@@ -501,7 +501,7 @@
 حالا ناراحت و طلبكار هم هستيد؟؟
 توى خودتون و دين‌تون و نظام تون
 و چفیه‌تون و فلسطين تون!</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/6575" target="_blank">📅 21:40 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/6575" target="_blank">📅 21:40 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6574">
@@ -564,7 +564,7 @@
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ipyZSLlTqi9GcNZYvh4t1s48qMKpwE4LQZJi3CCV1FmYOeFFdNCNHxyPZDR8E4Hfi0iBilGTSwrPFEzEGAEg0Tk94t27JrEjHZpJRYxQWz4-PXtDLRPTiSVL62MSXek1oaMNnI8y-7fePSiQMhCZTpbsuJRDF9hXSJ00QViVmoTPyZMyzqi5a0fIVSrPbVzNLc5q87p7jfmuCK7Tt5XsJ99Bgl34Ouj8zdqUY4IW8GQd-FKXSSH0Mc8qcaje6k7sFQMP6IxpRABHAS6peMi-fZR1atbb3C0mTr4KfwCTo8irnaZCLRGfZNO5yA3-cgCuI9O-mriudWojiCVGapKKng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مریم در این نامه به مقامات آمریکایی نوشته  کارهای «معصومه ابتکار» ربطی به ما نداره!  ۴۷ سال پیش بوده و…..!  توی این ویدئو که خود مریم گرفته ولی، خودش دست به یک مقایسه میزنه، میگه بقیه پرچم آمریکا رو زدن ولی ما پرچم امام‌حسین رو!  در واقع عروس خانم خواسته انتخاب…</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/farahmand_alipour/6567" target="_blank">📅 09:36 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/6567" target="_blank">📅 09:36 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6566">
@@ -629,7 +629,7 @@
 راه دریا بسته شده.
 چرا زدید زیر تفاهم‌نامه و حمله کردید به کشتی‌ها؟ که قیمت نفت بره بالا
 و به ترامپ فشار بیاد؟</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/6562" target="_blank">📅 08:43 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/6562" target="_blank">📅 08:43 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6561">
@@ -688,7 +688,7 @@
 <a href="https://cdn4.telesco.pe/file/c212d95b13.mp4?token=LhA9eXKNeI-Llvb0CJv8Xzir3gQqknrJdbhV6tGWTmWhwThcxLJEqnw6bq_ZW8sV22P27vLrzPurt2Q4uKylhdFKZxOisBlSboPW9ZyiaFJOqdKMq0HibTLq8zK8ogzQkxL9Rv48CR5ELN_kR02R-EcyqFbo0HbJ0u8nhKWhD35QS6f51nJh6my42S5MlxPwuxrGzAJFpoudXdkQAarCIodB1JvK-cZmMrbeqjtkXrsl_D9qLRZxOF_ChhOgGjn4O88rE23JDvFeJ-5blCybRauOOvk_R54Ts2Su3vkzbTa-mMl0J6P5ZjBHpE0JPuvBGkIID7cuWd_HgzlVjDS6EA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">یک نسل دیگر ،  با بیماری و سوتغذیه در ایران بزرگ خواهد شد.</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/farahmand_alipour/6555" target="_blank">📅 23:17 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/farahmand_alipour/6555" target="_blank">📅 23:17 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6553">

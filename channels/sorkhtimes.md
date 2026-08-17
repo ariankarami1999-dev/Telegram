@@ -292,7 +292,7 @@
 <a href="https://t.me/sorkhtimes" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽ورزشی نویس پرسپولیس👤🎗️«سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس.⛔رسانه سرخ تایمز مسئولیتی در قبال تبلیغات ندارد.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 17:57:56</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 18:23:22</div>
 <hr>
 
 <div class="tg-post" id="msg-138412">
@@ -303,7 +303,7 @@
 پرسپولیس نامه زده به باشگاه الوحده و خواستار جذب مبین دهقان شده / فارس   «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/SorkhTimes/138412" target="_blank">📅 17:25 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/SorkhTimes/138412" target="_blank">📅 17:25 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138411">
@@ -317,7 +317,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/SorkhTimes/138411" target="_blank">📅 17:24 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/SorkhTimes/138411" target="_blank">📅 17:24 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138410">
@@ -329,7 +329,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/SorkhTimes/138410" target="_blank">📅 17:20 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.65K · <a href="https://t.me/SorkhTimes/138410" target="_blank">📅 17:20 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138409">
@@ -342,7 +342,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/SorkhTimes/138409" target="_blank">📅 17:19 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.65K · <a href="https://t.me/SorkhTimes/138409" target="_blank">📅 17:19 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138408">
@@ -355,7 +355,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/SorkhTimes/138408" target="_blank">📅 17:09 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.95K · <a href="https://t.me/SorkhTimes/138408" target="_blank">📅 17:09 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138407">
@@ -368,7 +368,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/SorkhTimes/138407" target="_blank">📅 17:03 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.07K · <a href="https://t.me/SorkhTimes/138407" target="_blank">📅 17:03 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138406">
@@ -389,7 +389,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس 𝓣𝓲𝓶𝓮
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 2.91K · <a href="https://t.me/SorkhTimes/138406" target="_blank">📅 16:56 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/SorkhTimes/138406" target="_blank">📅 16:56 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138405">
@@ -401,7 +401,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/SorkhTimes/138405" target="_blank">📅 16:14 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.95K · <a href="https://t.me/SorkhTimes/138405" target="_blank">📅 16:14 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138404">
@@ -415,7 +415,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.71K · <a href="https://t.me/SorkhTimes/138404" target="_blank">📅 16:12 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.02K · <a href="https://t.me/SorkhTimes/138404" target="_blank">📅 16:12 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138403">
@@ -434,7 +434,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/SorkhTimes/138403" target="_blank">📅 16:11 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.92K · <a href="https://t.me/SorkhTimes/138403" target="_blank">📅 16:11 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138402">
@@ -446,7 +446,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SorkhTimes/138402" target="_blank">📅 14:43 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SorkhTimes/138402" target="_blank">📅 14:43 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138401">
@@ -457,7 +457,7 @@
 برای اولین بار در هفت سال اخیر ترکیب پرسپولیس پیش از یک مسابقه رسمی لو نرفت  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SorkhTimes/138401" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SorkhTimes/138401" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138400">
@@ -471,7 +471,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SorkhTimes/138400" target="_blank">📅 14:39 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SorkhTimes/138400" target="_blank">📅 14:39 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138399">
@@ -481,7 +481,7 @@
 پیمان حدادی : امیر جعفری دفاع چپ گل گهر در لیست خرید ما نیست  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/SorkhTimes/138399" target="_blank">📅 14:15 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SorkhTimes/138399" target="_blank">📅 14:15 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138398">
@@ -492,7 +492,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SorkhTimes/138398" target="_blank">📅 14:13 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SorkhTimes/138398" target="_blank">📅 14:13 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138397">
@@ -504,7 +504,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.6K · <a href="https://t.me/SorkhTimes/138397" target="_blank">📅 12:58 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.69K · <a href="https://t.me/SorkhTimes/138397" target="_blank">📅 12:58 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138396">
@@ -532,7 +532,7 @@
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/SorkhTimes/138396" target="_blank">📅 12:35 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/SorkhTimes/138396" target="_blank">📅 12:35 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138395">
@@ -546,7 +546,7 @@
 𝓣𝓲𝓶𝓮
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.58K · <a href="https://t.me/SorkhTimes/138395" target="_blank">📅 11:56 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/SorkhTimes/138395" target="_blank">📅 11:56 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138394">
@@ -559,7 +559,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.62K · <a href="https://t.me/SorkhTimes/138394" target="_blank">📅 11:56 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.68K · <a href="https://t.me/SorkhTimes/138394" target="_blank">📅 11:56 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138393">
@@ -571,7 +571,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/SorkhTimes/138393" target="_blank">📅 10:49 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.89K · <a href="https://t.me/SorkhTimes/138393" target="_blank">📅 10:49 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138392">
@@ -586,7 +586,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.91K · <a href="https://t.me/SorkhTimes/138392" target="_blank">📅 09:24 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.97K · <a href="https://t.me/SorkhTimes/138392" target="_blank">📅 09:24 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138391">
@@ -608,7 +608,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.84K · <a href="https://t.me/SorkhTimes/138391" target="_blank">📅 09:23 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.9K · <a href="https://t.me/SorkhTimes/138391" target="_blank">📅 09:23 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138390">
@@ -623,7 +623,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.58K · <a href="https://t.me/SorkhTimes/138390" target="_blank">📅 09:21 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.61K · <a href="https://t.me/SorkhTimes/138390" target="_blank">📅 09:21 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138389">
@@ -645,7 +645,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.46K · <a href="https://t.me/SorkhTimes/138389" target="_blank">📅 09:20 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/SorkhTimes/138389" target="_blank">📅 09:20 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138388">
@@ -667,7 +667,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/SorkhTimes/138388" target="_blank">📅 09:20 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.44K · <a href="https://t.me/SorkhTimes/138388" target="_blank">📅 09:20 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138387">
@@ -689,7 +689,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.59K · <a href="https://t.me/SorkhTimes/138387" target="_blank">📅 09:06 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.65K · <a href="https://t.me/SorkhTimes/138387" target="_blank">📅 09:06 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138386">
@@ -705,7 +705,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/SorkhTimes/138386" target="_blank">📅 08:36 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.69K · <a href="https://t.me/SorkhTimes/138386" target="_blank">📅 08:36 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138385">
@@ -745,7 +745,7 @@
 👇
 ✉️
 @Sportnavad</div>
-<div class="tg-footer">👁️ 6.29K · <a href="https://t.me/SorkhTimes/138385" target="_blank">📅 01:20 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.32K · <a href="https://t.me/SorkhTimes/138385" target="_blank">📅 01:20 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138384">
@@ -759,7 +759,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.69K · <a href="https://t.me/SorkhTimes/138384" target="_blank">📅 00:55 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/SorkhTimes/138384" target="_blank">📅 00:55 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138383">
@@ -771,7 +771,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.46K · <a href="https://t.me/SorkhTimes/138383" target="_blank">📅 00:53 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.49K · <a href="https://t.me/SorkhTimes/138383" target="_blank">📅 00:53 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138382">
@@ -783,7 +783,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس 𝓣𝓲𝓶𝓮
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.59K · <a href="https://t.me/SorkhTimes/138382" target="_blank">📅 00:51 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.62K · <a href="https://t.me/SorkhTimes/138382" target="_blank">📅 00:51 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138381">
@@ -795,7 +795,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.74K · <a href="https://t.me/SorkhTimes/138381" target="_blank">📅 00:10 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.77K · <a href="https://t.me/SorkhTimes/138381" target="_blank">📅 00:10 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138380">
@@ -813,7 +813,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/SorkhTimes/138380" target="_blank">📅 00:03 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.76K · <a href="https://t.me/SorkhTimes/138380" target="_blank">📅 00:03 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138379">
@@ -823,7 +823,7 @@
 برنامه هفته دوم لیگ برتر  سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 6.59K · <a href="https://t.me/SorkhTimes/138379" target="_blank">📅 00:02 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.62K · <a href="https://t.me/SorkhTimes/138379" target="_blank">📅 00:02 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138378">
@@ -845,7 +845,7 @@
 پیمان حدادی : امیر جعفری دفاع چپ گل گهر در لیست خرید ما نیست  «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 6.69K · <a href="https://t.me/SorkhTimes/138377" target="_blank">📅 23:15 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.72K · <a href="https://t.me/SorkhTimes/138377" target="_blank">📅 23:15 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138376">
@@ -856,7 +856,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.5K · <a href="https://t.me/SorkhTimes/138376" target="_blank">📅 23:10 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.53K · <a href="https://t.me/SorkhTimes/138376" target="_blank">📅 23:10 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138375">
@@ -887,7 +887,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/SorkhTimes/138374" target="_blank">📅 23:05 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.46K · <a href="https://t.me/SorkhTimes/138374" target="_blank">📅 23:05 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138373">
@@ -897,7 +897,7 @@
 برنامه هفته دوم لیگ برتر  سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @Sorkhtimes</div>
-<div class="tg-footer">👁️ 6.49K · <a href="https://t.me/SorkhTimes/138373" target="_blank">📅 23:04 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.52K · <a href="https://t.me/SorkhTimes/138373" target="_blank">📅 23:04 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138372">
@@ -910,7 +910,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.63K · <a href="https://t.me/SorkhTimes/138372" target="_blank">📅 22:34 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.66K · <a href="https://t.me/SorkhTimes/138372" target="_blank">📅 22:34 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138371">
@@ -934,7 +934,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.57K · <a href="https://t.me/SorkhTimes/138370" target="_blank">📅 22:01 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.6K · <a href="https://t.me/SorkhTimes/138370" target="_blank">📅 22:01 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138369">
@@ -947,7 +947,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/SorkhTimes/138369" target="_blank">📅 22:00 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.46K · <a href="https://t.me/SorkhTimes/138369" target="_blank">📅 22:00 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138368">
@@ -1003,7 +1003,7 @@
 کریستیانو رونالدو از زمان پیوستن به تیم النصر، مبلغ شگفت‌انگیز 625 میلیون یورو به عنوان حقوق و پاداش کسب کرده است.
 😇
 فوق ستاره پرتغالی در کمتر از چهار سال، ثروتی بی‌سابقه به دست آورده و او را به فوتبالیستی تبدیل کرد که بیشترین…</div>
-<div class="tg-footer">👁️ 6.13K · <a href="https://t.me/SorkhTimes/138362" target="_blank">📅 20:51 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.16K · <a href="https://t.me/SorkhTimes/138362" target="_blank">📅 20:51 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138361">
@@ -1013,13 +1013,13 @@
 پست ۸ : باکیچ خدابنده لو
 پست ۱۰ : یاسین سلمانی
 واقعا هافبکامون ضعیف هستن</div>
-<div class="tg-footer">👁️ 5.97K · <a href="https://t.me/SorkhTimes/138361" target="_blank">📅 20:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6K · <a href="https://t.me/SorkhTimes/138361" target="_blank">📅 20:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138360">
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">همینا ک میگن پورعلی خوب بود  کافیه دیشب بازی با دقت دیده باشن  چند صحنه به راحتی تیم شمس آذر در موقعیت شوت قرار گرفت  چند بار توپ ازش عبور کرد کنعانی پوشش داد  یه بار هم از گوشه چپ تیم یه دریبل خیلی مسخره از ممی زاده خورد شانس آوردیم گل نخوریم   پورعلی و امثال…</div>
-<div class="tg-footer">👁️ 6.07K · <a href="https://t.me/SorkhTimes/138360" target="_blank">📅 20:47 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.1K · <a href="https://t.me/SorkhTimes/138360" target="_blank">📅 20:47 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138359">
@@ -1053,7 +1053,7 @@
 «سرخ تایمز» دریچه ای تازه به اخبار موثق و اختصاصی پرسپولیس
 🤩
 @SorkhTimes</div>
-<div class="tg-footer">👁️ 5.99K · <a href="https://t.me/SorkhTimes/138356" target="_blank">📅 20:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.02K · <a href="https://t.me/SorkhTimes/138356" target="_blank">📅 20:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138355">
@@ -1120,7 +1120,7 @@
 <div class="tg-post" id="msg-138350">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">چراغی تو همینی نیستی میگفتی باکیچ میشه رهبر خط هافبک چیشده ؟ وژدانن به جز اون گل رو به ترتر زد دیگه چه کاری انجام داد؟</div>
-<div class="tg-footer">👁️ 6.21K · <a href="https://t.me/SorkhTimes/138350" target="_blank">📅 20:22 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.24K · <a href="https://t.me/SorkhTimes/138350" target="_blank">📅 20:22 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138348">
@@ -1197,7 +1197,7 @@
 سلمانی
 خدابنده لو
 مگه یه تیم چند تا هافبک وسط میخواد؟</div>
-<div class="tg-footer">👁️ 5.71K · <a href="https://t.me/SorkhTimes/138339" target="_blank">📅 19:54 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/SorkhTimes/138339" target="_blank">📅 19:54 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138338">
@@ -1303,7 +1303,7 @@
 ❗
 ❗
 مدیربرنامه‌های‌محمدقربانی  به پیمان‌حدادی‌مدیرعامل پرسپولیس اعلام کرده باشگاه الوحده رو راضی میکنه که با همون 800 هزار دلار رضایت…</div>
-<div class="tg-footer">👁️ 6.52K · <a href="https://t.me/SorkhTimes/138329" target="_blank">📅 17:29 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.55K · <a href="https://t.me/SorkhTimes/138329" target="_blank">📅 17:29 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-138328">
