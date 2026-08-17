@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 07:39:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 08:34:47</div>
 <hr>
 
 <div class="tg-post" id="msg-2559">
@@ -307,7 +307,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -326,7 +326,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -345,7 +345,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -390,7 +390,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -429,7 +429,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2550">
@@ -450,7 +450,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2549">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VWSMpPM1KjAKK4N-WQYhr0UgaSIoYPLvpX_66A5iMK1OAQTlotdsfqzcr47l0D_Ki0b2oWZkor9bBdzxapETsQUneVdzwcm4VSt7Pd6xVgobfPAfT7QP016HFod2x11Ie1UU2iBwfKcaaDdDgaMonDti2D0zB0x8WCFIm8qr9nAD7eOp9NZ3ORkI0HTHo-y7aGAKOW_L3f9jGRgqOJwDBlqg0rgfnme2x7cNcjvVGtWwNlIaIe79eTqZ7RwEs9M8Vyw6VSiZGBid1C0y-LXC5PCSls2_fkn3oU-G2s-ZgUS7O2DeI8XI9p5MAr3mD9rKqmkc2TYbaJIBOobCRxj-xw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OOXi11wj720I5jxuZaDd05Kt4uEtOkPCszOv7PNorCZl1moFDZarc7VRVjzCb1jImhoYPLIiZEEL-w0PV0-pyNR2kFruMW-MuYF3Lnt0Qhqy5h5FdJsWYhPC1l2us9JyrBRHsaQOIky5XYKpA2VdiZQedvRwP3HOnfUi93nl-2_SOW5-gMRH-ZQ4MRP0jat5snFXY6OADxaFcaT1jfwpoZpSO-df6NQHeRlNLcolF4CEXuKhr2FvTx5NaL0C-FXDfiMwNyAMl7gkwJeVliXxGYGUVt-pRaQzrYDu1dQRnBgOk5RZivxkwmb6PJ23FOD21MUQ7fsgzhmMP5yTnYv3jA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از فیلتر شدن فوتبال ۳۶۰ و دستور رئیس‌جمهور برای پیگیری مشکل چقدر گذشته؟
 هنوز نه رفع فیلتر شده، نه کسی فیلترشدنش رو گردن گرفته!
 🔗
@@ -460,12 +460,12 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2548">
 <div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/phBejjwCz0En6544QddwoaONtBOVVWwM0KAeYWmiJv6zUOQgWXbtb4EmjVj9xY8TgNBU_VocRGBWYXg-s_Ctx-APpnBo-b6cYFFyAvJnzpnHB0iFetkE7SBuZXycbaacUi-KHWQipMKW3eJNF529fws5dnHCBlDi72O9HZcOlhndfMTFZ_jC7C4Cp0RFbhdK5huyjV8EFZlAcHHsNcMCLRz4IfOIRY_M23B4rq5TwAmCBfBK2t9J-jH1Az4PchHklB_7ivZg_1_vgLf4MYNZNHGzQtBmK08AjsEy4nYk74p5vbGK2eeuBi2UdoyIMdoBfxG8K6YUI7vLCltKckgCoQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GYEvFSwqNpXXJYx7EBsPpErFnY6DEFuiIyJpUZXhS1uhdVqBXU61o6Ot6Ob27e6H2UQ89GMMY-GEv1mYAbZ7j_XXlE06BWIbXECi8YJIlNdfN3EzLRu0Pd20Q8ICVhMvvmsN-rWSNoye43BqLdAbB3P4sxidZYZw_27JzzDYo7Fxmm0tnXhxUZTiJLn8yy7WbbLq7T0_FQH15SoqXZxS57gb4Pd9vzjgU1axQZrDBNbe8At6_3EVgB3MezK5no-yv-MwQga-A5xqwKUmmYcaWrgHYbq_l7NG5mWHvF6-QNEg1GZSj5rqGPO_4LS9BP5O9Qg3WyZ56hM77lSL2kAaxA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پلتفرم لندین که برای ساخت لندینگ‌پیج بود، بدون اخطار قبلی فیلتر شد. بعد از یک‌روز که با تعهد در دادستانی رفع فیلترش کردن، اعلام شده دلیلش فروش آمپول لاغری در صفحه یک کلینیک زیبایی بوده!
 یعنی هنوز که هنوزه نفهمیدن فیلتر کردن یه کسب و کار چه آسیب‌هایی داره. هنوز که هنوزه نفهمیدن وقتی یک صفحه محتوای خلاف قوانین داره، کل کسب و کار نباید فیلتر بشه.
 🔗
@@ -480,7 +480,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2547">
 <div class="tg-post-header">📌 پیام #89</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CL37XkBwFLUyxmkeOV7xVQAhEq-QZBusSaSx_6iDl5p2wNSZ5aqDh30Zpf6NsabiqLyos60pBtRNvpP24uCwggZdUoRt00HUmrsjdSBVvanGHM9m4qhTrU0UCsQPDNk0pjGaHmHJhvLYcfctlxtSghH5Xu8ShlZ9A2cNzgTPAoWSE-sgAm-vHZR02S9fSoOuluhJpGbjjduuv3KeHAo9mN19Qcd6Cp3rcrvF6V3HL9jYJQIq3AXH5SbIHmfVDnfLV63f0dQFY3zHjDuARsKOJcz4XkIwyc85SOeGVcgmqrWjMjRNVep5_hxgiveW85ZQgRmlPNEsh9U-0TdW7IehKw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/t2yBGFjtVh-EflX5M71Ua_tX5Lg57kletnoAxZteOLo2AH5y6SR9-ZgYX5vIaHHtv4EECaH8nI6ntq8F-xzebHVg1E__yNrm3B8D5WbchSelD1DIlpeDk9sOlCrbOMTGMIRpET-GvRGfbtE1vvq5GWEPZC8fBkLJiCVT3PUKTEHqBhDuLvEk7Bov4QyULzaoMNN4nj8PxDQ1thvaj25SRcA9e4gdsuD6FVpkWvtXRQjYGEN3cO-3PX5jwcVXPBGbjRW3cr6Eq-KGB-6RVnCeIIeAy1qD36qRiv9OtexkB1kYxBArfsKq0RN8dRoS4dAuN6zthgC7ZlshUgB3mAgrsA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همزمان با قطع سراسری اینترنت و نابودی هزاران شغل، هزار میلیارد تومان به پیامرسان‌های رانتی کمک کرده بودن! همون پیامرسان‌ها در عین دریافت پول بیت‌المال، اختلال داشتن، ثبت‌نام جدید نمی‌گرفتن، محدودیت‌های تازه گذاشته بودن و چشم‌وچار مارو با تبلیغات کور میکردن!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -526,7 +526,7 @@ mrweb24
 
 <div class="tg-post" id="msg-2544">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/o7QioIitcthL3uBsQEcnwF-hrLxzw9O3XYZ6fbQyzFlIacaeZbVx9MBkFms6JD3-2z-IpLfP4GgSdWzp89p_2ap4Vy91YEyoTqGBXDq-sO-NnxvJbZUr5HOoCAdoWkGNmnuLeGMI-geR-ZTX-Se8bCOYWwShXKd1wC5x2ZHUa8Z5N9En7QCJga6ltTp4T9_VrRnLtMK4043mXDWiU9MuNC6OSlmYVjwPf0M6csIb2fTIqn5gS7E5ZNeljwvhdBR0hbg7m_EYKVh_c5EZ3Z_ogZzhEJPlTkkjhJZUUpn3JnDGgbrumpYRW13DMMpnMtLOPkLAGddDe_lRGwSnuB53kA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PWPaE7dYVG7aLtxN42Z6qZvIboJwgnemgyVlrpxwkpJMBmT4ZuWmPx2VZHr6umEPxXqem_LSsFhiYDMOlc48Qj3t842p0fMN2ayW9I21Nraf16lD1R-Mi0-EKQsKFrkZd1lBHrkgEkbBI3o3AP6toqsNU8irOPlv5pC9AlrTS5xYiz_d7Pv00ARB7mPxV3wnsE2B5Cm1-uYk72RcBOr4WQoTxS9NLjxumnLe0L9zenWFbQqQ4Wv99DbSvini4V6Gax-6IPCfPVWc2Mwh4zC89s7fLF1xVByRcLpa2K5isahcI2v9tDn1MSjGDFTn-MlyCqtOSctj5rYUBVvXlmVjOA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تصویر لو رفته از وزیر قطع‌ارتباطات هنگام رونمایی از طرح تشویقی "نسبت حجم ترافیک بین‌الملل به حجم ترافیک داخلی"
 😄
 🔗
@@ -580,7 +580,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 52.2K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.3K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2540">
@@ -849,7 +849,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50K · <a href="https://t.me/ircfspace/2525" target="_blank">📅 18:57 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2524">
@@ -1436,7 +1436,7 @@ AdelTalebi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/ircfspace/2488" target="_blank">📅 07:49 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/ircfspace/2488" target="_blank">📅 07:49 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2487">
