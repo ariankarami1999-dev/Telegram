@@ -292,39 +292,39 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 02:17:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 02:44:05</div>
 <hr>
 
 <div class="tg-post" id="msg-19979">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">اگر تن ندارید لااقل آماده باشید!</div>
-<div class="tg-footer">👁️ 1.44K · <a href="https://t.me/SBoxxx/19979" target="_blank">📅 00:54 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/SBoxxx/19979" target="_blank">📅 00:54 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19978">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">خب رفتیم برای موج C از ۲ و چند صباحی دیگر فرصتی برای خرید تن و دلار و نفت</div>
-<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/SBoxxx/19978" target="_blank">📅 00:54 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.61K · <a href="https://t.me/SBoxxx/19978" target="_blank">📅 00:54 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19977">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/o59cz5B0UMJuPxO9jHH2zNKbVImdpcMG6KcYeOP48hVKLXLpDcOg_TU1n8MTedZLB7Vw5-sKMVJHjER17Qub8-7K35icmGj3WRFUPZ886t6Bom7fayvunaB-IkW1Z0hOITtv0riICVf8R9tvfhNkoYzE_V3f0CNQJIB6Cd3SQB54Z4X2oWDr3B83k6ywM-2OeBYhbKAJn1IaX3h9ED1MjluJIIIdkkJIoFaBPV5bjGzeTy3ZRHmWauwf4E3zPTfHZWdEdw7HDf0E_PuacomCUu36FbZgKlTPRVrBZDU9sFABGZpE9gP81tOBZoq4z_dmCwDNKGtzphW0GUajfh1D8g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#USOIL — H4  پوزیشن پیشنهادی.  ریوارد به ریسک خوبی دارد.</div>
-<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/SBoxxx/19977" target="_blank">📅 00:53 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.61K · <a href="https://t.me/SBoxxx/19977" target="_blank">📅 00:53 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19976">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">محسن رضایی :
 تا حالا زیادی صبر کرده ایم ، لازم شود از NPT خارج میشویم و خودتان میدانید این یعنی چه!</div>
-<div class="tg-footer">👁️ 1.61K · <a href="https://t.me/SBoxxx/19976" target="_blank">📅 00:46 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/SBoxxx/19976" target="_blank">📅 00:46 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19975">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vx0NoAO-2X3eJsnFn59eEcoOn6Ep-vhqrwbZ7FfJA_sH3eHCf-QhVm_vwmUfIJWvJ007Tivg1V9QOtc5B46jVx24j8oLI1E2Lp9QAR6_1n0C0kNFU5TWVJwwrlx7cxnBv1X1I9Aca0VUQG9XinReeSwx09zxmTfkpG4G1yYpGUB91PX2-Put42nQqSTnItsxaBeN6cPgr4uXi4MaKd31dnyEYKFInfUjdY5lwdi1NkuQT0aRATBFJoaY9x-yOgQzaImH5y2rSZXZQKw22Bx9HRcSXwzNBd_newrVV8IVnyit2NByE3BNmj2fwQ7c8rDjvz-EBrc5BdUdjhl8yBXekA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/SBoxxx/19975" target="_blank">📅 00:43 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.78K · <a href="https://t.me/SBoxxx/19975" target="_blank">📅 00:43 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19974">
@@ -332,57 +332,57 @@
 <div class="tg-text">جرد کوشنر درباره ایران:
 در حال حاضر،  ترامپ بر فشار اقتصادی متمرکز شده است.
 اگر ایران مایل به پایان دادن به توافقی است که آنها با ما در مورد آن صحبت می کردند تا از توانایی خود در ساخت سلاح هسته ای چشم پوشی کند، واضح است که او مایل است توافقی را انجام دهد که می تواند برای مردم ایران عالی باشد، اما در حال حاضر آنها هیچ علاقه ای به انجام کاری که برای ما منطقی است نشان نمی دهند.</div>
-<div class="tg-footer">👁️ 2.93K · <a href="https://t.me/SBoxxx/19974" target="_blank">📅 23:02 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.97K · <a href="https://t.me/SBoxxx/19974" target="_blank">📅 23:02 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19973">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c96ziMlOSJzZO9fwwJphdtxt1YALkDvyrcw6Go7nJ4V0aP8iw0UfFLaWpA51uJo4OTpBZLL1OUiC4cPfyKWv3w8XNnyJUBDVcYAVKGnRzWpJ8ho8eOLSP9aPMP_oeldEql6MJbTWFkip22nmq9HRhNSq69j_TiIECLSpSkb-BR-RUBBEOgpwdv8GaNwnQFEOampDNe4pMP6yiatSBwhvQZKWbHP1R-yFobt0sAj6C9EB5UfveGPthujBe5wu7HdwG2Pw8pawLWOb_s7_c55PbL7fNCwmr7iQpSPuutl_GyaylIBQ7IiBGueil9pudN26K58agQCLPw2OTJwQmbZqTg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 3.43K · <a href="https://t.me/SBoxxx/19973" target="_blank">📅 22:10 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.47K · <a href="https://t.me/SBoxxx/19973" target="_blank">📅 22:10 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19972">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">ترامپ:   توافق با ایران را لغو خواهیم کرد.</div>
-<div class="tg-footer">👁️ 3.47K · <a href="https://t.me/SBoxxx/19972" target="_blank">📅 22:09 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.51K · <a href="https://t.me/SBoxxx/19972" target="_blank">📅 22:09 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19971">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">ترامپ در مورد ایران:
 آن‌ها می‌خواهند توافقی انجام دهند، اما قصد ندارند آن نوع از توافقی را انجام دهند که من احساس می‌کنم ضروری است.</div>
-<div class="tg-footer">👁️ 3.67K · <a href="https://t.me/SBoxxx/19971" target="_blank">📅 21:42 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.7K · <a href="https://t.me/SBoxxx/19971" target="_blank">📅 21:42 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19970">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-footer">👁️ 3.59K · <a href="https://t.me/SBoxxx/19970" target="_blank">📅 21:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.63K · <a href="https://t.me/SBoxxx/19970" target="_blank">📅 21:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19969">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">ترامپ:
 توافق با ایران را لغو خواهیم کرد.</div>
-<div class="tg-footer">👁️ 3.79K · <a href="https://t.me/SBoxxx/19969" target="_blank">📅 21:40 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.85K · <a href="https://t.me/SBoxxx/19969" target="_blank">📅 21:40 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19968">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">گویا سپاه رفته کشتی اماراتی را از دهن آمریکایی ها کشیده بیرون و آورده قشم!</div>
-<div class="tg-footer">👁️ 3.85K · <a href="https://t.me/SBoxxx/19968" target="_blank">📅 20:55 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.88K · <a href="https://t.me/SBoxxx/19968" target="_blank">📅 20:55 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19967">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">ترامپ می‌گوید ایالات متحده تنها از «بادام زمینی» (استعاره از بخش کوچکی) از انبار سلاح‌های خود استفاده کرده است.</div>
-<div class="tg-footer">👁️ 3.88K · <a href="https://t.me/SBoxxx/19967" target="_blank">📅 20:47 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.92K · <a href="https://t.me/SBoxxx/19967" target="_blank">📅 20:47 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19966">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GwWFSdAgYhCRgPQU50udzkyt15sy-6sE68XXvIRjL2yyLbOa7G-rh23VJA6LQbiFG_aShzHxIXAMGOlmhPTog4dNePtzthDaeIvwMzjDt0UZgkp3srqDKHSaM62wNvbWJc-p2eBJ2KlHylLsQ91DCe4M1ljVvNaRKWhAmZMQcDOp2tbmdbH4eWyg73fFJnLqKSdZpTqW90OAoK_naQlP9AKz6xfSRNwdHMWh2Rft9oHSuyrn8OHJB9cqSbmCnYLfUz4bI8UT5Fj_Pq3KK5UuvvkC8_2mF8ZeMArvaTR79C5b3-LCFE4h9aZsYFquzKRiEKBWhjv5wkQJf-rVCEcf_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تسنیم:  داده‌های ناوبری دریایی نشان می‌دهد که یک نفتکش متعلق به یک شرکت اماراتی هنگام عبور از تنگه هرمز، متوقف شده است.  نفتکش امارات در نزدیکی قشم متوقف شده است.</div>
-<div class="tg-footer">👁️ 3.95K · <a href="https://t.me/SBoxxx/19966" target="_blank">📅 20:45 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.98K · <a href="https://t.me/SBoxxx/19966" target="_blank">📅 20:45 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19965">
@@ -390,20 +390,20 @@
 <div class="tg-text">تسنیم:
 داده‌های ناوبری دریایی نشان می‌دهد که یک نفتکش متعلق به یک شرکت اماراتی هنگام عبور از تنگه هرمز، متوقف شده است.
 نفتکش امارات در نزدیکی قشم متوقف شده است.</div>
-<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/SBoxxx/19965" target="_blank">📅 20:34 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.93K · <a href="https://t.me/SBoxxx/19965" target="_blank">📅 20:34 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19964">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">یک مقام ارشد ایرانی به خبرگزاری رویترز گفت که تهران از یک سیاست دفاعی به یک سیاست «کاملاً تهاجمی» روی می‌آورد و به ایالات متحده «چند هفته» فرصت می‌دهد تا توافق صلح را اجرا کند.
 «تمام نهادهای ایرانی آماده‌اند تا در صورت شکست دیپلماسی، تنش‌ها را در تنگه هرمز و در سراسر منطقه افزایش دهند. ایران به طور نامحدود منتظر نخواهد ماند تا ایالات متحده به محاصره دریایی ادامه دهد.»</div>
-<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/SBoxxx/19964" target="_blank">📅 18:38 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.14K · <a href="https://t.me/SBoxxx/19964" target="_blank">📅 18:38 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19963">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">یحیی سریع طی بیانیه‌ای اعلام کرد که انصارالله یک کشتی نظامی متعلق به سعودی را در دریای سرخ، در حوالی سواحل مخا همراه چهار شناور نظامی همراهی کننده آن، با استفاده از موشک بالستیک مورد هدف قرار دادند.   به گفته یحیی سریع اصابت موشک‌ها دقیق بوده و این عملیات…</div>
-<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/19963" target="_blank">📅 15:38 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/19963" target="_blank">📅 15:38 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19962">
@@ -415,7 +415,7 @@
 
 <div class="tg-post" id="msg-19961">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SBoxxx/19961" target="_blank">📅 15:35 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/19961" target="_blank">📅 15:35 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19960">
@@ -423,7 +423,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LnmKk-8p9XYn4a8mAEf0ZYwLQUz6Ge2ymCPc0xDInReMJIn4NPe8nDtTV7It8xHTeJ0zu9urAtjtVyj1XMsCP3LqZt2zpmd6ZE69pUcXvfmrCMmlAIaGoLvyCkzN_RoxI9OHDXXbviqA-D91TJ1YDyqdpOfrx-4EobAJLaAmv4yqTYTrqQEulJb5YSuCg9-VMyrc9b3DD01THvQuBq7fQ3gH-QTHPFN_b6YaVgt7NT4KDr2Jn-39F2hWqT9lLnzOzph2Adg2kzuzMksIgEShxGhwsdakNvCNh8fpisPgXah_E-lp7bMU5DJq-ScfKI21N1CHStSuBGqUDkWyJm124w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔹
 ترامپ: اگر عمان سر راه قرار بگیرد، آن‌جا را شدیدا بمباران می‌کنیم.  او هشدار داد که عمان نباید در تلاش‌های ایالات متحده در مورد تنگه هرمز دخالت کند.</div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/19960" target="_blank">📅 15:22 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SBoxxx/19960" target="_blank">📅 15:22 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19959">
@@ -444,7 +444,7 @@
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">ترامپ درباره ایران:
 ما یک کانال پشت پرده با سپاه پاسداران  ایران داریم. ما مستقیماً با مقامات سپاه صحبت می‌کنیم.</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19957" target="_blank">📅 14:52 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/19957" target="_blank">📅 14:52 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19956">
@@ -452,7 +452,7 @@
 <div class="tg-text">ترامپ به فاکس نیوز:
 ایران باید پرچم سفید تسلیم را بالا ببرد.
 آنها پوکربازهای خوبی هستند، اما دارند می‌میرند.</div>
-<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/19956" target="_blank">📅 14:48 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/19956" target="_blank">📅 14:48 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19955">
@@ -476,7 +476,7 @@
 گوشی دست نگیره
 مرسی
 @PiknikAnalyst</div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/19953" target="_blank">📅 13:01 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SBoxxx/19953" target="_blank">📅 13:01 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19952">
@@ -603,7 +603,7 @@
 <div class="tg-post" id="msg-19937">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">حالا باید ببینیم ائتلاف «مکه» پاسخ می‌دهد یا صرفا برای دوشیدن گاو شیرده حجاز و نجد تشکیل شده.</div>
-<div class="tg-footer">👁️ 8.12K · <a href="https://t.me/SBoxxx/19937" target="_blank">📅 10:26 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.15K · <a href="https://t.me/SBoxxx/19937" target="_blank">📅 10:26 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19936">
@@ -673,7 +673,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fP31hPbm4gSncsBAHnQE6WaNMfpFHRtFvgzqRoaQISKG6Hgp6FXmXxGjSUFA-md-QrtTd3vglcSmG-EbLVW4pOzNDw5O5P7IQa6Wrjp2toLkedwY9E-WeoBBheM8M5-QpZHBWitK33DKkXGaGF7vqq8tsKARZ7jt7rGzKTF0fbQib3UKhxU5rJBXkdLxvcojh7qqPCZRIyTTVq-5HCOWr5UToIe6q-CIA7vFLTkixRfziJDS7Xy85o9oZfwq3f3y2YjvQQkljr9Y1sed8dSxJz1zjoWI4_cYTTRY_wYDENEXC31LpKBLQ553-ZdWlIB3OsNIzysZpNQgNrjKyew5aQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">GeoMarkets Podcast Text.pdf</div>
-<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SBoxxx/19928" target="_blank">📅 02:06 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SBoxxx/19928" target="_blank">📅 02:06 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19927">
@@ -785,7 +785,7 @@ An oil spill has reportedly polluted a coastline on Iran's Qeshm Island.
 <div class="tg-post" id="msg-19912">
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">خواجه آصف وزیر دفاع پاکستان، گفته است که ایالات متحده و ایران به توافقی در مورد تنگه هرمز نزدیک می‌شوند، با وجود اینکه هر دو طرف اخیراً مواضع سخت‌تری را در مذاکرات اتخاذ کرده‌اند.  او گفت: "به نظر می‌رسد که اوضاع به نفع صلح پیش می‌رود."</div>
-<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SBoxxx/19912" target="_blank">📅 16:46 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/19912" target="_blank">📅 16:46 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19911">
