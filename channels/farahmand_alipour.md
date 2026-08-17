@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64.2K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 02:44:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 03:13:51</div>
 <hr>
 
 <div class="tg-post" id="msg-6595">
@@ -321,7 +321,7 @@
 عقلای مجلس از تصویب جزئیات خطرناک طرح جلوگیری می‌کنند؟
 🆔
 @Entekhab_ir</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/farahmand_alipour/6594" target="_blank">📅 00:17 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/farahmand_alipour/6594" target="_blank">📅 00:17 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6593">
@@ -400,7 +400,7 @@
 <div class="tg-post" id="msg-6584">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">آیا به بردگی گرفتن زنان و فروش اونها و یا ازدواج سریع با اونها اگه شوهر داشتن مشکلی داشت؟  نه! چون خود آیه ۲۴ سوره نسا صریحا اینو میگه!  وقتی هم قرآن بگه  هیچ آخوندی چه شیعه چه سنی نمی‌تونه مخالفت کنه!</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/farahmand_alipour/6584" target="_blank">📅 14:26 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/farahmand_alipour/6584" target="_blank">📅 14:26 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6583">
@@ -629,7 +629,7 @@
 راه دریا بسته شده.
 چرا زدید زیر تفاهم‌نامه و حمله کردید به کشتی‌ها؟ که قیمت نفت بره بالا
 و به ترامپ فشار بیاد؟</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/6562" target="_blank">📅 08:43 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/farahmand_alipour/6562" target="_blank">📅 08:43 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6561">
