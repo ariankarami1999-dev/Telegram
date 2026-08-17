@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 14:24:30</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 14:47:03</div>
 <hr>
 
 <div class="tg-post" id="msg-901">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">سوال:   من از وقتی هاست سایتم رو برم روی Geo Dns میهن وب هاست یه مشکلی پیدا کردم. کلمات کلیدی تو سرچ کنسول رتبه دارن ولی وقتی خودم دستی سرچ میکنم نیستن. اکثر ساتیتام اینجوری شدن. این طبیعیه؟  پاسخ: https://t.me/mohsentavoosiseo/511 این ویس و ویس پایین  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 390 · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 448 · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-900">
@@ -309,13 +309,13 @@
 https://t.me/mohsentavoosiseo/511
 این ویس و ویس پایین
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 456 · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 513 · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-899">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">کسانی که جدیدا دوره رو میخرند، دو تا دوره دریافت می کنند(قدیمی ها نگران نشید تا آخر بخونید).  دوره جدید، برای راحتی ذهن شما جداگونه قرارداده شده و دوره صفر تا صد SEO و AEO برای همه زبان ها و همه کشور هاست! و کاملا آمیخته با AI که ابزار اصلیمون Claude هست.…</div>
-<div class="tg-footer">👁️ 1.33K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
@@ -336,7 +336,7 @@ https://t.me/mohsentavoosiseo/511
 استاندارد سازمان رو برای کلاد تعریف کردن
 هوش مصنوعی، چت کردن و چهار تا فایل اتچ کردن و اسکرین شات فرستادن و چهار تا پرامپت خوب دادن نیست! اینا خیلی مقدماتیه!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/mohsentavoosiseo/896" target="_blank">📅 15:18 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/mohsentavoosiseo/896" target="_blank">📅 15:18 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-895">
@@ -367,10 +367,10 @@ Ban
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=OIPFhhRrYNB9FWATrB9vGMkivqFRS7afPy58pVQUpyVsuXfJ9r8mSDFFZBDJyneiqNAFojz5KHymJUyu-exdHELlU0BHIBQ1t_T3DuFZDZjREazQXaQQDf2ekvdwR7XTql0l1y4kXLxTWmyzynfiuEolSNjFN5iJhaClqUEvYYGd9pQR6Enf5NpMeSQG2ea3w1Va16bDCS77Ru2LJ3eSBxgDynsieTuEwLTpEyr5KTB6xxxmzlNHFN7e2Gr0ojXpo07sbir3QMXllIVEfyi9BuEzqI7Fg9vmDRDovXTAGTAmEY-1Rfnuxc-P9TeSgvSQYjJV-j9GFxstiIIoUl5iqWh7BgZEklxSiOaXYF9WlwEXOTi0xmxAMIX4YrUWW25YfrH0lv4cXabrPaiugRbYexcWKBNU1kHiewNQRHzDZ9sdJ1AR86wzIzMAnBmMrXgUBwWpgp_PdTAd3NGnw2Jb90MaASSUR3BnsFc75lSYbbD9LRLSwTVdlS0q3d700AwUTBM3Y3lhslBKmT-v85sHu3e8ETozREHQ13q7pB8z7GKngkTOv7fEclgnFSggLoxlNxFbelsXNPEwaCaVFVxR_K7KXFYgC426l5RDAQVaJLFN_2nxYHPnyv7RMSaKCGoU-2OvkMunCnIRFnLgbl_e_37DSdGbGTdQfz7ikJ0hVjk" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=Wjyioceldl9PA9Ck83Nj_UzczsC_pp4oD_gb3MKN2_MMApo5ZXVd5FKuxIX8Dav1F9Wq2jCchlx4po7Y1qIPcKHVy9o5Tw_KtYXj9hXHxU6Ndb9ajveK1yuyEcJ4DiQVkknaeo6rMz2hMGs6PrZT4SG5KzJpxJ3SV2LjM2h2zvynAYWcol6LPA5sGQGpyDd1o0Yg8Mh0ixH_6HqcZs7imA4xHl35-lrkJqq6s9JfgLl_NfPwFC-FVtPDJgNmBz0YczNsWyIDZZSR1L-e2gEfUDzn3xmafVWNaRy0jgToWBGru9nvUJgMt2AqhT9MLZHwkD3_rJVn13h8IzrYBcTNVrZzeQ6H214HLdjlek6ESHvBmI0aBJiAStX8qQ7qEQINePCNM3iUwQ9OyhlhLt1mq1EEp92qs-6pKF4tZ3DcHU0CH4ZJJitopZ668rzIcrs6NzOy5CqSvp_cGPnvzHr8b06agRQxUt1yTNnXzOvpHrhwUA4XrbVpDYmqcTFLvY2LtAYqWOHFxBr548-Iaro3CcDFq4ZtmS6Q5PS3gAUNXH5ix78nwOUTOs25zuPMeOkRO6AIuef-OJowO2_kDTcCqJUvQxYhL35lC5fcjUX4pjn_zJnLK5jk6KzmpdY8GhpgELq-B75rHMd8pPUuUydf1WozJFaZjUciwBOAVhXKjtE" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=OIPFhhRrYNB9FWATrB9vGMkivqFRS7afPy58pVQUpyVsuXfJ9r8mSDFFZBDJyneiqNAFojz5KHymJUyu-exdHELlU0BHIBQ1t_T3DuFZDZjREazQXaQQDf2ekvdwR7XTql0l1y4kXLxTWmyzynfiuEolSNjFN5iJhaClqUEvYYGd9pQR6Enf5NpMeSQG2ea3w1Va16bDCS77Ru2LJ3eSBxgDynsieTuEwLTpEyr5KTB6xxxmzlNHFN7e2Gr0ojXpo07sbir3QMXllIVEfyi9BuEzqI7Fg9vmDRDovXTAGTAmEY-1Rfnuxc-P9TeSgvSQYjJV-j9GFxstiIIoUl5iqWh7BgZEklxSiOaXYF9WlwEXOTi0xmxAMIX4YrUWW25YfrH0lv4cXabrPaiugRbYexcWKBNU1kHiewNQRHzDZ9sdJ1AR86wzIzMAnBmMrXgUBwWpgp_PdTAd3NGnw2Jb90MaASSUR3BnsFc75lSYbbD9LRLSwTVdlS0q3d700AwUTBM3Y3lhslBKmT-v85sHu3e8ETozREHQ13q7pB8z7GKngkTOv7fEclgnFSggLoxlNxFbelsXNPEwaCaVFVxR_K7KXFYgC426l5RDAQVaJLFN_2nxYHPnyv7RMSaKCGoU-2OvkMunCnIRFnLgbl_e_37DSdGbGTdQfz7ikJ0hVjk" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=Wjyioceldl9PA9Ck83Nj_UzczsC_pp4oD_gb3MKN2_MMApo5ZXVd5FKuxIX8Dav1F9Wq2jCchlx4po7Y1qIPcKHVy9o5Tw_KtYXj9hXHxU6Ndb9ajveK1yuyEcJ4DiQVkknaeo6rMz2hMGs6PrZT4SG5KzJpxJ3SV2LjM2h2zvynAYWcol6LPA5sGQGpyDd1o0Yg8Mh0ixH_6HqcZs7imA4xHl35-lrkJqq6s9JfgLl_NfPwFC-FVtPDJgNmBz0YczNsWyIDZZSR1L-e2gEfUDzn3xmafVWNaRy0jgToWBGru9nvUJgMt2AqhT9MLZHwkD3_rJVn13h8IzrYBcTNVrZzeQ6H214HLdjlek6ESHvBmI0aBJiAStX8qQ7qEQINePCNM3iUwQ9OyhlhLt1mq1EEp92qs-6pKF4tZ3DcHU0CH4ZJJitopZ668rzIcrs6NzOy5CqSvp_cGPnvzHr8b06agRQxUt1yTNnXzOvpHrhwUA4XrbVpDYmqcTFLvY2LtAYqWOHFxBr548-Iaro3CcDFq4ZtmS6Q5PS3gAUNXH5ix78nwOUTOs25zuPMeOkRO6AIuef-OJowO2_kDTcCqJUvQxYhL35lC5fcjUX4pjn_zJnLK5jk6KzmpdY8GhpgELq-B75rHMd8pPUuUydf1WozJFaZjUciwBOAVhXKjtE" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)
 @mohsentavoosiseo</div>
@@ -462,7 +462,7 @@ booking.com
 @mohsentavoosisupport
 پیام بدید. من نیستم پشت این اکانت. بچه ها هستند.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.65K · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-889">
@@ -497,7 +497,7 @@ booking.com
 خرید در:
 @mohsentavoosisupport
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-886">
@@ -743,7 +743,7 @@ Claude Cowork
 ✅️
 7 چیزی که باید چک کنید. تمام پاسخ های من به این موضوع
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.96K · <a href="https://t.me/mohsentavoosiseo/868" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.97K · <a href="https://t.me/mohsentavoosiseo/868" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-867">
@@ -1013,7 +1013,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 <div class="tg-post" id="msg-846">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">دوستانی که اکانت کلاد خریدند و تجربه موفق دارند و بن نشده لطفا تو دایرکت همین کانال اعلام کنید.   با توجه به نظر سنجی بالا من نمیبینم توی خودم که ماهانه به ۱۰۰۰ نفر بفروشم. نهایت میشه ۱۰۰ نفر با کلی دردسر. میشه حداکثر ماهی ۲۰۰ دلار با کلی مکافات.   پس من ورود…</div>
-<div class="tg-footer">👁️ 4.19K · <a href="https://t.me/mohsentavoosiseo/846" target="_blank">📅 14:46 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/mohsentavoosiseo/846" target="_blank">📅 14:46 · 25 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-844">
