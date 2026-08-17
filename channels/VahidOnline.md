@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 04:13:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 05:44:11</div>
 <hr>
 
 <div class="tg-post" id="msg-77898">
@@ -313,7 +313,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 212K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 218K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77896">
@@ -334,7 +334,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 227K · <a href="https://t.me/VahidOnline/77896" target="_blank">📅 19:12 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 231K · <a href="https://t.me/VahidOnline/77896" target="_blank">📅 19:12 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77893">
@@ -368,7 +368,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 211K · <a href="https://t.me/VahidOnline/77893" target="_blank">📅 19:04 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 215K · <a href="https://t.me/VahidOnline/77893" target="_blank">📅 19:04 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77886">
@@ -414,7 +414,7 @@ VahidHeadline
 بخشی از پیام به‌مناسبت سالروز افتتاح اولین دوره مجلس شورای اسلامی و آغاز سومین سال فعالیت مجلس دوازدهم | ۷/خرداد/۱۴۰۵"
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 198K · <a href="https://t.me/VahidOnline/77886" target="_blank">📅 18:43 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 202K · <a href="https://t.me/VahidOnline/77886" target="_blank">📅 18:43 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77881">
@@ -445,7 +445,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 212K · <a href="https://t.me/VahidOnline/77881" target="_blank">📅 18:31 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 215K · <a href="https://t.me/VahidOnline/77881" target="_blank">📅 18:31 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77880">
@@ -466,7 +466,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 300K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77879">
@@ -483,7 +483,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 331K · <a href="https://t.me/VahidOnline/77879" target="_blank">📅 23:28 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 332K · <a href="https://t.me/VahidOnline/77879" target="_blank">📅 23:28 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77878">
@@ -518,7 +518,7 @@ VahidOnLive
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 318K · <a href="https://t.me/VahidOnline/77877" target="_blank">📅 18:39 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 319K · <a href="https://t.me/VahidOnline/77877" target="_blank">📅 18:39 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77876">
@@ -579,7 +579,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 332K · <a href="https://t.me/VahidOnline/77874" target="_blank">📅 11:37 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 333K · <a href="https://t.me/VahidOnline/77874" target="_blank">📅 11:37 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77873">
@@ -682,7 +682,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 312K · <a href="https://t.me/VahidOnline/77867" target="_blank">📅 17:11 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 313K · <a href="https://t.me/VahidOnline/77867" target="_blank">📅 17:11 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77865">
@@ -769,7 +769,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 254K · <a href="https://t.me/VahidOnline/77862" target="_blank">📅 16:47 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/77862" target="_blank">📅 16:47 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77861">
@@ -793,14 +793,14 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 268K · <a href="https://t.me/VahidOnline/77860" target="_blank">📅 16:41 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 269K · <a href="https://t.me/VahidOnline/77860" target="_blank">📅 16:41 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77858">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/n6PfkDiLZtr6lRQKyppD0rM36gmV4DB2Up4okAiP29s4y6ndjPQWLVbomuROXshD_wA-ezK5VRneHHfeSOn2-X2LBq7U1aTeFh31pROpW9tancQxdaSZF0nXNbUeytNpI1TIviepUXMSUGOsBvaBXOjeVwPGZyRHMwLYqqSfmjFGzr7RHsWCELPjT8wtvxGxjpD52SlTVYOz506Q42e__hiasYFyIBIDqUr0tNk_anGzvmby7B9UTLwIPAKft6_84At39qB1PgOgsDIMqn_53o_9zsQKqNwPIssgnOmiMgb1L6ZpMMg-qiJ7-WlgSMSE4pKx4uDds93c0tmY6LKBlw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/D7kozMr713mkNbrTT6KHuG__HmPbQx4TlDAhvYkkJr29XuLQzkvL5GVMCe4nyuQ8KXE30tyrGysh4cT6Rf92PrmgtWU2bkzLOjnjTZSGPXeeKHWtUtvG5qnyrOmRiSWjmO_7j_ZgDzr0GHr9P-xSXo69CcJ6qgxmmu9S-P9Q77tn_E1xVsBnivzzJklZAbmWM2nXGLMWwudqsQBGaWvwkFtHYpIqOKZvMfgoKmQB48yait40V7GYEM3bRz2aYxP0gOKokJE-ZXWQ_BaQIsOhpWX4USlE5prp94C5srdfkOy-sippYRdW59BiF_0LSgHpOoTu5WS7QHnoZUBw6OnNrQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/EMwOmz5gBJbwUoCVtnIHMaMHYaEKptfUQg14bSQo-PGlGklO3cCTiXq9We-vNlZcK5q0QCSly8m7s91Gm7p-Yz35-j-4hwHIbdNHiiOtR1_vgVCH4vQTh82JRDvCNhxh-XgLREuSFsihhB5VWFhpxBgaJI_vrInPXhk8icZYKr7padq3Vlwqf0HIsr3u08ug41wtJAYSp-2vYxMwAER1iAAT2uvrmZsR9w91nutEWAu0f0Cq3LqBZmIKgAhmaV7q2x3XTbbDSk-VXA9snIRHV9ht0y-4Q9u_R3YFFyUr62gQSeXyttXW_URepmGYr1AICGI_kdf2QwACvvrs5N0gLA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/dsRVwcjRYPnJWaGLJZ0NCRj__YVS-tztNrz7Ss7Wxs_HAzUtmrxZFGORtti0KkhsgcACcVr1-gZYM1WnpCG_NPkLSCF4_rn09lHiQmSdPkoAeE9bBR1g6KMIQmQW_ZIU2Ga16rCjS93Q28otuQUE1NZBSrj9PCpaIIDjWOioVnAkqBWVZwOnQ_REIGdKCdjq9cbPh9hoJLg8jJvQiRilL4uBA0_Q-NkLm2knKmHeE44wacZFgIdRj4BNXJDyiFQbsWxPrw0PCMbh3AbhlrtP4CD20X2kotBIAkzfxnAkZtghMMVfHEt8_4QQEkJ9cZglXxTe4l54nhDybIBGk-jknQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">واشینگتن‌پست در سرمقاله‌ای نوشت توافق با جمهوری اسلامی و تزریق منابع مالی بیشتر به تهران، به رفتارهای «مخرب» این حکومت پاداش می‌دهد و زمینه‌ساز دور تازه‌ای از بی‌ثباتی خواهد شد. این روزنامه از دونالد ترامپ خواست مذاکرات را متوقف کرده و سیاست مهار جمهوری اسلامی را ادامه دهد.
 هیات تحریریه واشینگتن‌پست جنگ آمریکا علیه جمهوری اسلامی را از نظر راهبردی ناموفق توصیف کرد و نوشت این درگیری نه به تغییر حکومت انجامید و نه توان موشکی و فعالیت نیروهای نیابتی تهران را متوقف کرد. به نوشته این روزنامه، هرچند حملات برنامه هسته‌ای ایران را به عقب انداخت، اما انگیزه تهران برای دستیابی به سلاح هسته‌ای را نیز افزایش داد.
@@ -819,7 +819,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-77857">
 <div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/e9-gLKI9P00qtHr-lyLSo2rNlE9WuoXTDRN-gxyEBl7JqkMKA67ccKtW6ua5G0D6hCmNXRicd5XKId44WdfAdabYctmiNZyJrE6jQ6T216HiMCfJUZKsbF6Ra5DrM6DhQ9bdhASzoNb-3kYPbey6ViDHiH5zmjaqd1Vquq42GDBgpFmDJ_u0Uq1Fzd6kXUYdzRHKpwS9OEvx7Po4uxHyqS_-z96eP1-UsfxBLOo6hSfQq4BaWzYKzHV-09AiK3itWJHB5LR-nutsSjr4eSTUdzSHHmNvk3vBWcKwRaAkxn7_deT1j-uFA2trUX9PgJ2H1Ce1u4fMhBT0ePfD0PirsA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/i7DtxnV8Kw5Pp6JSYFoD23P4aIZZwFgIxo25JRdrLZimqEHXX3diUvgp7_Wx9_H51IU-e4dI_mqhllQStW-nZnJ1uLb_SYRrJMfQ6S4Bxetra3TWMHzRsHfrIlyRuV2DAkCx2sKx0Q7iJbHRUMc6pUBOYf94MdD7nhIU2FGzjDBy2E-zGEne4gkXLcGwybzs12JM5UTkyEQAJ1954D6IWuhC7hp12k1ZWUxkI2xpVTT5pRD-lZ0L6NePRw1eXNmAcrbaGUXNRV7BOVEWlF27-It6tOSn1paEW_uRkbfe93AifxXpPSiRTySI9EYSAdkwR1DD7kw_pTWHvH_6Hc9KfQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خبرگزاری رسمی عربستان سعودی (واس) گزارش داد شاهزاده محمد بن سلمان، ولیعهد و نخست‌وزیر این کشور، جمعه ۲۳ مرداد با دریاسالار برد کوپر، فرمانده ستاد فرماندهی مرکزی ایالات متحده، سنتکام، در جده دیدار کرد.
 بر اساس گزارش واس،  شاهزاده محمد بن سلمان و برد کوپر در این دیدار درباره همکاری‌های دفاعی عربستان سعودی و ایالات متحده گفتگو کردند و آخرین تحولات منطقه را مورد بررسی قرار دادند. دو طرف همچنین درباره تلاش‌ها برای کاهش تنش‌های منطقه‌ای و تقویت امنیت و ثبات گفتگو کردند.
 @
@@ -949,7 +949,7 @@ VahidOOnLine
 🔸
 از آنجا که روند رسیدگی قضایی شفاف نیست و بسیاری از قربانیان و بازماندگان تمایلی به گزارش چنین مجازات عمیقاً تحقیرآمیزی ندارند، مستندسازی ابعاد واقعی استفاده دستگاه قضایی از شلاق همچنان دشوار است. با این حال، این کار برای آشکار کردن الگوهای سرکوب حکومت، حفظ شواهد برای پاسخ‌گو کردن عاملان و به چالش کشیدن استفاده جمهوری اسلامی از شکنجه، اهمیت حیاتی دارد.
 @IranRights</div>
-<div class="tg-footer">👁️ 349K · <a href="https://t.me/VahidOnline/77842" target="_blank">📅 18:23 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 350K · <a href="https://t.me/VahidOnline/77842" target="_blank">📅 18:23 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77841">
@@ -1692,7 +1692,7 @@ pinned «
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 405K · <a href="https://t.me/VahidOnline/77792" target="_blank">📅 18:48 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 406K · <a href="https://t.me/VahidOnline/77792" target="_blank">📅 18:48 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77791">
