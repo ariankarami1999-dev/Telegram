@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 12:02:32</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 13:01:27</div>
 <hr>
 
 <div class="tg-post" id="msg-77898">
@@ -313,7 +313,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 261K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 266K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77896">
@@ -334,7 +334,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 266K · <a href="https://t.me/VahidOnline/77896" target="_blank">📅 19:12 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 271K · <a href="https://t.me/VahidOnline/77896" target="_blank">📅 19:12 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77893">
@@ -368,7 +368,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 244K · <a href="https://t.me/VahidOnline/77893" target="_blank">📅 19:04 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 248K · <a href="https://t.me/VahidOnline/77893" target="_blank">📅 19:04 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77886">
@@ -414,7 +414,7 @@ VahidHeadline
 بخشی از پیام به‌مناسبت سالروز افتتاح اولین دوره مجلس شورای اسلامی و آغاز سومین سال فعالیت مجلس دوازدهم | ۷/خرداد/۱۴۰۵"
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 226K · <a href="https://t.me/VahidOnline/77886" target="_blank">📅 18:43 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 229K · <a href="https://t.me/VahidOnline/77886" target="_blank">📅 18:43 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77881">
@@ -445,7 +445,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 239K · <a href="https://t.me/VahidOnline/77881" target="_blank">📅 18:31 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 242K · <a href="https://t.me/VahidOnline/77881" target="_blank">📅 18:31 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77880">
@@ -466,7 +466,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 313K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 314K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77879">
@@ -483,7 +483,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 338K · <a href="https://t.me/VahidOnline/77879" target="_blank">📅 23:28 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 339K · <a href="https://t.me/VahidOnline/77879" target="_blank">📅 23:28 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77878">
@@ -518,7 +518,7 @@ VahidOnLive
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 322K · <a href="https://t.me/VahidOnline/77877" target="_blank">📅 18:39 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 323K · <a href="https://t.me/VahidOnline/77877" target="_blank">📅 18:39 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77876">
@@ -554,7 +554,7 @@ VahidHeadline
 جزئیات بیشتری درباره مصداق اتهام «محاربه»، مستندات پرونده، روند بازجویی و نحوه برگزاری جلسات دادگاه منتشر نشده است. آقای سپهر امیرزاده، متولد ۱۳۸۲ و اهل رامهرمز خوزستان، مدرس و نوازنده موسیقی و ساکن اصفهان است.
 #نه_به_اعدام
 @IranRights</div>
-<div class="tg-footer">👁️ 296K · <a href="https://t.me/VahidOnline/77875" target="_blank">📅 18:30 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 297K · <a href="https://t.me/VahidOnline/77875" target="_blank">📅 18:30 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77874">
@@ -682,7 +682,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 319K · <a href="https://t.me/VahidOnline/77867" target="_blank">📅 17:11 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 320K · <a href="https://t.me/VahidOnline/77867" target="_blank">📅 17:11 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77865">
@@ -781,7 +781,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 265K · <a href="https://t.me/VahidOnline/77861" target="_blank">📅 16:46 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 266K · <a href="https://t.me/VahidOnline/77861" target="_blank">📅 16:46 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77860">
@@ -962,7 +962,7 @@ VahidOOnLine
 پیرو مذاکرات امشب استاندار کرمان با مقامات کشوری و نیاز به بررسی بیشتر در خصوص طرح مدیریت مصرف سوخت و مقابله با قاچاق، عرضه بنزین با نرخ آزاد پالایشگاهی در استان کرمان متوقف شد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 410K · <a href="https://t.me/VahidOnline/77841" target="_blank">📅 00:56 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 411K · <a href="https://t.me/VahidOnline/77841" target="_blank">📅 00:56 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77840">
@@ -978,7 +978,7 @@ VahidHeadline
 .
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 394K · <a href="https://t.me/VahidOnline/77840" target="_blank">📅 23:53 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 395K · <a href="https://t.me/VahidOnline/77840" target="_blank">📅 23:53 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77838">
@@ -1306,7 +1306,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-77813">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gt9MMN2IIhB3J3B5qFm_4tSFViduS2HltJblR8Fb63T3Iebo50derm8OIwITjvHTvk3-qWy3uCsSpborPc5hdJ_PoMhwtiEBUdmOoUyO9K656d7rcfS9PNacRo1hpO5vf5FbJQty5AGqxCtMAVfGCQwXeB78LF10aDPMX61EmhHNXe7p-yOmDs5cYSLDHr_ljPm75ZGqylaWizL0I9Tkwp9L_j4OXVHQfpzVmpszn2mol-3XGnQh6spzszLBKnFLsfhfamwbCnKa5aIl7oag0OJ2yrlB-X6ATSZbUq2MkwtjBnMT8Ok-Ty8jWqdSTNs9HJ5_D8Y6jWTcBaUH57eZtQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XArEbtSgdIh8s-QjoBAH617aYv2nwA8IwQilt-9BWjK-YCYIqhkH93JxqXxGi4CmYarR5QQZN6y6XvT2JVYOfwvfdI-ZouzabcSOMyWIW-rxMvTwBxBQ6H6dJyhKbTkJ3tq9QQaWWdEluJ_LWAFVFq8KNk8UmrhG6snQUQ_Hrlnw1Y1mwPh-e-TngItaYa0T2iR1BN03icv-Yg8ydxB8uaCnyhAY9kRfzdageY20jbBBhIIYkGijA9T_QNmpQUM2LM6pjQGI47r2SFED6qYZfgjP1Jo9F2ZFocf46NEzuIYwGiC_Wh1xR5pVmg0i2Lbi2fIN27jclnXC03f0NKe9bQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پارلمان لبنان روز سه‌شنبه مجازات اعدام را لغو کرد و این کشور نخستین کشور جهان عرب شد که این مجازات را با حبس ابد همراه با اعمال شاقه جایگزین می‌کند.
 اکثریت نمایندگان پارلمان ۱۲۸ نفره لبنان به لغو اعدام رأی دادند.
 فراکسیون حزب‌الله تنها گروهی بود که با آن همراهی نکرد.
@@ -2016,7 +2016,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 459K · <a href="https://t.me/VahidOnline/77768" target="_blank">📅 18:49 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 460K · <a href="https://t.me/VahidOnline/77768" target="_blank">📅 18:49 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77767">

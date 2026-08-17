@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 12:02:32</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 13:01:27</div>
 <hr>
 
 <div class="tg-post" id="msg-2559">
@@ -307,7 +307,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -360,7 +360,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -375,7 +375,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -429,7 +429,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2550">
@@ -565,7 +565,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 56.2K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
@@ -705,7 +705,7 @@ Farshad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 61.4K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 61.5K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2532">
@@ -1113,7 +1113,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 
 <div class="tg-post" id="msg-2508">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DODtJ9B3iK68iGiPqdotK6EUK77KNr_VYqHHYpIVO6pGCtTeGVXmLs1EVOYZSACBTuhV89fNNWZ8qNBGnyu5Jpvofmsx-k0eDJGxaSH9tkBOqORR8MhX0PNvicF1WsyGmykYstFKOrAta6VfiNBj1-Youj_2eh3wEPCfyDE4vrr1iaU16igNm06P_rX4pcppNTPLafofv5oamNcpKo8eCCMdQMdYIEbZov25xWDYKZy_tt7dqlYCZn6415ALhHnGobvV1uNHr1kXVlaXE8-c2QuIYgLdajePUrjzTluMWirkvMdEqSg-iDn1Y7SHbIeKdSfbYTRscazTir6DIecaMA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uNPKDTXY_x7-F2sQQdSK-GLs-IAz8kjEeXpWnkRjfq26AkXFgfQrEEyXmjGp15EBydGlql4zLt-y6V3naUv1AFUG2XXhleN5oKJf0lGdQltEnjaeEqwHlH5PrGxfVHJ35LR7BsRaKyD5w9RiV9nf3gf0Cs_d0R-zVZtvxWj_J1vkEOImi5snMY5hAt8Jp7B6VfIVPya5clXFufg58AihB82wcdz8XVCaDv-6hksoDMhkwVQuI-YfWg40aKy4uAKydTr2J8tT-avFlVemYOh30bEmm5YKQAxjxn4Jf6u5bd4awPiLXNSfS9t5PEgl9FV5BtnIXtUcuToJq3lwvGrFTw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فیلترشکن Aethery برای اندروید یکساعت قبل به ورژن جدید از هسته Aether بروزرسانی کرده. اپ Aether-GUI برای ویندوز هم کمی عقب‌تره و ۳ روز قبل بروزرسانی کردنش؛ البته احتمالا بزودی براش آپدیت جدیدی ارائه میدن.
 👉
 github.com/ZethRise/Aethery/releases

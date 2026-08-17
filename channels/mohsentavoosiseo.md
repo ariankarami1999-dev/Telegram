@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 12:02:32</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 13:01:27</div>
 <hr>
 
 <div class="tg-post" id="msg-899">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">کسانی که جدیدا دوره رو میخرند، دو تا دوره دریافت می کنند(قدیمی ها نگران نشید تا آخر بخونید).  دوره جدید، برای راحتی ذهن شما جداگونه قرارداده شده و دوره صفر تا صد SEO و AEO برای همه زبان ها و همه کشور هاست! و کاملا آمیخته با AI که ابزار اصلیمون Claude هست.…</div>
-<div class="tg-footer">👁️ 1.17K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
@@ -310,7 +310,7 @@
 <div class="tg-post" id="msg-897">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.88K · <a href="https://t.me/mohsentavoosiseo/897" target="_blank">📅 15:40 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/mohsentavoosiseo/897" target="_blank">📅 15:40 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-896">
@@ -445,7 +445,7 @@ booking.com
 @mohsentavoosisupport
 پیام بدید. من نیستم پشت این اکانت. بچه ها هستند.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.62K · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-889">
@@ -465,7 +465,7 @@ booking.com
 و در نظر بگیرید، برای کسب و کار خودتون، خرج نقدی میخواد. فکر نکنید فقط یادگیری هست. پول هم باید خرج کنید. مگر اینکه بخواید استخدام بشید یا پروژه بگیرید.
 خرید در:
 @mohsentavoosisupport</div>
-<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/mohsentavoosiseo/889" target="_blank">📅 14:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.78K · <a href="https://t.me/mohsentavoosiseo/889" target="_blank">📅 14:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-888">
@@ -556,12 +556,12 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.63K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
 <div class="tg-post-header">📌 پیام #83</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oX4TxOfFID0t2X1dThARK3Dj1MfSCo3ok3NlliX6cD5n8jbqyCFcU9mhmqJecjGfAtyoUXFanFvDYNllXq1cQzRNWi8a1mYaiOLUFRFOPL5jSLXDzPWG3oNZFWzGmwzClqnTaQu-auXdXDD1kgI33LI-qOLMCmUIkZXeAcLE1ZVRxVkSxKev1_BtPmt6d4Adn3iOS24XrVc09cOereEnca-lcvrzC85YbhsJEcx6v8abesEbAQ4NMGIgDQGo0nNE_kxtTBWVXzOk9ohhrxFSQ2JMLe4XVnE6Iqd8Oe2M9yvfke2vA7OFFX8AS-NxCcyRT7EAkwdqKL32JOLSWoF9tQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B6DO6DEn_znePiV12FJmp7j-6hXBHWRA7ShQoeNgxqtYYAS0X2NwpYbs4pEdWBbt0iVXg7jQMpVaBmFEmvGNV8tmeTc_if3bqcB58i9bewjSTG9P-P96CltYSk_f5b8J0jSYlzSybUAFAMOeyJR4rQJUXAQ9wxAXOtfTlZSGJdJMdZ53VAvOhdtE_a6M3sSmA0SR5_9GK_-o0tZmQODzVpvrJTE2kZw_63ePWuTR6ttoqJnzBnL8_jVYSOOPZMEPfPPqq5f5wQeiqI2qwUOHIY-Ci2tR13UqbKewPobhSt4bt7eiLBEN2ibpJTVcZ0ctgWfDXvcdDPKZzpFeav2heA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این یکی از ساده ترین هنرکاری های کلاد هست! از منوی رفلکت، بهتون عملکرد خودتونو میگه و واقعا بازخورد های جذابی میده! در اپدیت پیش روی دوره، تمام کسانی که دوره رو دارند، سئو بین المللی با کلاد رو به خشن ترین حالت ممکن یاد می گیرند
 😎
 .
@@ -572,7 +572,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد میگم کلاد خداست میگید نه! بازم میرید از فلان جی پی تی، ایرانیش رو میخرید؟ خیلی فرق داره! اختصاصی بگیرید. کانکتور و اسکیل و داکیومنت و کوورک و... تو اختصاصی هست فقط.
 mohsentavoosi.com/1
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.27K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.28K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-880">
@@ -585,7 +585,7 @@ mohsentavoosi.com/1
 پیام به:
 @mohsentavoosisupport
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.78K · <a href="https://t.me/mohsentavoosiseo/880" target="_blank">📅 11:55 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.79K · <a href="https://t.me/mohsentavoosiseo/880" target="_blank">📅 11:55 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-879">
@@ -1417,7 +1417,7 @@ vibe coding - وایب کدینگ
 مابقی دستورهایی که میخوام در فایل روبوت بزارم مثل قبل هست؟ مثلا disallow کردن سرچ ها صفحه چک اوت و ...
 فقط ادرس لاگین رو دیگه قرار ندم
 درسته؟</div>
-<div class="tg-footer">👁️ 3.11K · <a href="https://t.me/mohsentavoosiseo/792" target="_blank">📅 12:50 · 07 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.12K · <a href="https://t.me/mohsentavoosiseo/792" target="_blank">📅 12:50 · 07 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-791">
