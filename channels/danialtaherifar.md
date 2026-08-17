@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 09:27:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 10:22:26</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -300,7 +300,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oZILjbB9eoNfw35S3vZeIe3jfkSabklql5XzzVKvMHrcAXPQtyDYrAgEJ5WcIUoedsjFyXGeD7GqN5ZW8B2v6QD8LnIH9cCqghMVuYAZHNffe8GHUpiGor8-e5P17d6EGD5kS0QmpeCv4CLe4P3zVAXcZAVp9kClhcP7j6nyr8BshTsMnNmDDnmr1uYz_Yy2ZlNRHmEvw5kn0gXwhq94qrtJ2AdQqU2ww94Qz0xJZqtZ9HXYIcIScLh8sZTarnzE0tsm3e6zQoSQ3jXyUYb3kaKat8OzvTdQc2tYYIE3g2-dBl0cBZw0PO9dHwLG_k8ezP49U8gVtDHl7he9oOcmTg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده    @danialtaherifar</div>
-<div class="tg-footer">👁️ 155 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 160 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -311,7 +311,7 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 277 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 278 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
@@ -326,8 +326,8 @@ z.ai
 <div class="tg-post" id="msg-948">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ewEy-XjOdigyUyMibbobRYINw1hsMYWfBh3TTMKhuQnk7PoHRA3zMgQDep9jIujuHacIkr4IAvtwLL2JORrs53DhAsX7reEdhDjJ_iCyRBV-9rcfcGnH60650S1vgsnccIZzc-jhUQ4FTOprfmoj2yibW_yGxSykzQTAoiGabG5hOhQC_oTcgyiwkVvBlvmIvih99b5-uZfylrZnSzbbs8RmAKo661xydL5Kz2t9FY9d3rVjGIUAxl10Xs4wxGp7Je4MneChy4800GEhLLrQ6hr16EaehWhlFgewVVMOirJp9SYNBccmea5yq5aOfxqyoQFwwOJJC4h38i98kjW6yg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/MqfoomGDtwL9_giwBD26xxmubdJbRbCtNCLR5hCzD17sQP0oWK3Wd0-vsA09BbK0_U-JMjwVWla7n4yuckDluKsKWcsX-1NnWo-8Nh65LE68QmwLuYlfV8EQLXF91nomiFAIWTXVkOGUENU34VXiVPG1-bee3L0P7ZjHiZ3QnqFvfsWquWFFYRt1dcGJciLOnviLoT-b3lGh72jZcdXfhKYb__ekkXPMtxjQfctbuWPC2l9meyTSY8OFbTIrrIoplpzthXjbdiJufdaQik2py6HOUulFzKjGY7wqeDW2piwXD1F3QmbdXpo6lqrNn7As-9Eu80JU4pE3Pvu-E7WplA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/C4_G4nftIfYx4dx1kasZfHK8wMWXmyyj2xeZQng3tBCxpE_JxyA8ndZqgmRib4-XoJ93NY-OA0KiawMKkc7lLCconYdYRj7__H8qU7R8js0Y27G4pzPpKiuCMjP6S15wnAfnEziqjF_izlDKMeCdZWB8tdhuiJrin-hcuVpGasdcQ3Tkp3OTg_ONyi-wnXaA8LdmWL5HjpXqCb4fkWv1o0V_0b_0DurGqhEjs2D_cDAvmSo2DBFoVxPejv7IgszeHqb2ZHE6NXlCBoc9P-L_RERHhAxxJEp7IznmLyqZKfArTGobajIFudgc-zqUj_GfIHW9M6DgI3HQTHuFWshslg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/WQXU8Iq-efyQ1mpBnxbT7RY_ggoQ4ySSKnu_iVhrMgwGMXaH4IEJxMlYOt5mkyKvhifs_7fqD6q565_cH3vVWl3FsOunti9_z7HyVG48LudTJUZSuv4XxFmWsOG-XiQGsaKMjrmy8PnoFLk1pKIijGp4LdV4nLCddcB6Yw3xpap0NED7svTjL0WK0CxSwvnTn1ITUtF-n2zMVZKrmUNBRLfctZHDe44eG9PDq5ldOOXqPiaHmjXOgI2lmwSq0v6Gi-kkKGsebXjebKRFDS-dR7564TcBzrDPId2rYutJUVmAQGbgHIx0vS2bZhIU1bZc716KiQa00_0zHtE4OZpF4Q.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">😒
 کلاد ایمیل میزنه به اون اکانتی که بن کرده که بیا fable5 استفاده کن.
@@ -339,7 +339,7 @@ z.ai
 
 <div class="tg-post" id="msg-947">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LKGszQ9Xw3_FNPi6_jpIu8ajUyQw0OI5sjxxT9kGZRBkM_Utyh6VuONdR-ZY9qWyWgn1NCFouEkA-bUwgCrQ_OV7hPk0CWeZt-5hiz5glVjDuFSOo9Pqhds4guDe92sF_m1RIV1MSyzip76wWJ3gbcSSkIh23r88YnhXnSSNIKgPFBQiJnDDhUwT0ZU3RryiV1fSSmLgrGmLT7LRCkjDXq7Jb4UVx-arddl8HcgAsCRA4O4KV86f2lrl6BINbSUxw2dt85h4mhgibnzqMcljSseL4EDSrSrfjTwPvw7hZMJ_WiaDoV61NE4Q6QvzefXSeIFmnljzjLkAd24tmSjerg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M9zvJ8tryJUH3ficQQo2erbXuKFBq8RiryvsWIgeQ5gsyuUEkzGnTfMqUdxjJh22MJiILrjbZuNVc_ErOUkn2ARmidV6einBUPFvDyVSfqdQzOvteVDDlF0_nXzaW-PvSz4nrxvxJIb_iq8ylkV67o9Q7rvJbDg2r1BL1wZY7Se_Gptrx7NH23bb97XIXq-gmFfYkoOGachYHeAWgdAXDV4h9j9zEKkSnLjNPBsjhJv2UZjml1xZJFgwqYusJHNXjqql6EY6favhB8pSJioeMW5UYhs0aT0mpXMD7PXofDgNSTf7UDDmUV_tTz9rCZSEE67vITde_TNqH9NLR9HMHQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 علی‌بابا هم اعلام کرد که مدل Qwen 3.8 با 2.4 تریلیون پارامتر و به صورت open weight به زودی منتشر میشه و در حد و اندازه های مدل های سطح بالا بعد از fable5 هست.
 خواهیم دید
@@ -436,7 +436,7 @@ https://x.com/philhchen/status/2072793818945167475
 بن شدن اکانت ها شروع شده.
 پ.ن: اکانت اصلی خودم پرپر شد.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 789 · <a href="https://t.me/danialtaherifar/939" target="_blank">📅 12:38 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 790 · <a href="https://t.me/danialtaherifar/939" target="_blank">📅 12:38 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-938">
@@ -2153,7 +2153,7 @@ https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag#dire
 ✍️
 📚
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 663 · <a href="https://t.me/danialtaherifar/837" target="_blank">📅 09:11 · 14 Esfand 1403</a></div>
+<div class="tg-footer">👁️ 664 · <a href="https://t.me/danialtaherifar/837" target="_blank">📅 09:11 · 14 Esfand 1403</a></div>
 </div>
 
 <div class="tg-post" id="msg-836">
