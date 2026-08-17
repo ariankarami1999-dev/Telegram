@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 19:46:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 20:22:01</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -300,7 +300,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l5_nm8r39YMSlxKla9M8glp7uY-BRsoPcbpV7HOM0ijj5Th48msxBHhOYLEnmbo5-AWh75ijk-EswiKQCcMDHV0tIXGo_h2HpZBku4anu4oJNTK-TXtiowpsab3GGYunB888kixz-XuPEtGiMN0Fe72Jr1riwClK_S8o84ngxHwjSdxpwnsXFE87ro0w7002_2t_kXjav3JfcKogwtgClZD1tqoILt8Hd8p--Ju5zVCFjVD-XsAg3g4dYF92eNqykoEq6gHd4wjnU7RnYq8H6vkI0iPKmJ3hEPyThLQTgVyrEgbJp3xTaGXdrZeZA0EsE-q8Uh2UqJxkIhNY5S5JRw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده    @danialtaherifar</div>
-<div class="tg-footer">👁️ 190 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 193 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -311,7 +311,7 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 287 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 288 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
@@ -357,13 +357,13 @@ z.ai
 
 <div class="tg-post" id="msg-944">
 <div class="tg-post-header">📌 پیام #94</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bshp_dIao-3-GRoH53wueD_cPY7Vrol5fJxtfFKEedLP5sGAow6zclaosSB9GkpRR92hIDeUkOCi_0jrwq_8jn6rnJWIGmwBCPDxyIF0tW4eypJW9HIKRg4OBT5_dpNiUx7G9_193BmNb_Y_DjnN7r6S6LsnuhpQeCmXMv1z2MYYp3G-M8rdCdwBAZnUZQ82J0op2FTkyUUFBpIaWNH5QPPlJ9o7WkfGWW7ZYmJnDcHLMDt6bcdwIrZpFqXT3HanlP6VOQtheqciAwcdwfqP7RiaOSa4pixDXistXF4byih0zdUXpokWLC0nJTn7IqAv-gLI4etCtLZRw3lsL-u7LA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JUkBS_PwE2JH7tSkzpZnSLB7OAer5q0_M-LH56uGZFeuMW_SGd70WfSqUjQzEF0-xulbVFVDgpHCreO7hcUu3UKu8W2HjWSkAuSTajWjmnsV33P9kwehN4JuBiocTSVeGwD70tuLkxTnG_z1TNiLTKW6Lzwups6Mq57JF50QeqYzMgri0xIdi1bbVH70cBnAi0ZhgOqx8d8em1knkdZX2zS1GFyq9nPErEMeEWtKQyH3gSobNVhKwIuB_WvzWrNzwLFe1eIHaTURjvaxq3QKd3Kuz6JMhEtEIhiPvSCPRRnW1t5xacJHRSTh9H6gSXMGdhtQC-c4C-7HvYp5Amcuxw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=Qc40haYsmbnSB6x9Sbegu5kR8dtM5T42wMxTSSyClZN19IiYc52WO43skWnZSQ5D2E0Z0gpuRex6H_I-_3igemy5v-OzGyQYsYoHJ_ZtIsXbg1AOTrg_T2G62dvln8iVcK_hcON7V7ncwzhFskdt6TQIIGx6rae3CLFGIwlhp5UGgVMf2Ius47RuigiD4r7uAMJ7L2FFFhKlxGzwR-mgsiErdX6_z-srvp16GmWNeexUud9_j2t-94aaZL1KTGy19m0h6INB4-3LXfVDcFQ49KpOnC1iFjRVIpykW4c_Q8dTq4qGBUv2bMom3WbXp_HtHgycfJFUWW_XQrDyyYQkSg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=k4xIdlWyWyY4B1iCvXA3cdBOWpYfzcjRm69Exe2PEIt7SBmjMYmIQsxWB0dWAJzz1fagFGro2E35Fz6VQ6XacJc2WvE0qB_677T3zCO7sI9_Ov35wmPnkywQ94HLkbTYGzdmaixz9k_fx-z7RRFudUF3tbEDQcDIHycn3ykicMawViETqRyQHz-tk2jr0zcL_88ANo8k6UqtRN4MDaH6onv4UsiLruJO04ainA9yo5MkYc7tClP5UDPmYcyvTsBmwlcq6x-C1X4o7qnKeWPtozBnY7uQHkzqHsBk_jLo0cvEF6K8Nb5-d6jIK73zrWMNO70zK1a9E5wGtdmtwl2eqw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=Qc40haYsmbnSB6x9Sbegu5kR8dtM5T42wMxTSSyClZN19IiYc52WO43skWnZSQ5D2E0Z0gpuRex6H_I-_3igemy5v-OzGyQYsYoHJ_ZtIsXbg1AOTrg_T2G62dvln8iVcK_hcON7V7ncwzhFskdt6TQIIGx6rae3CLFGIwlhp5UGgVMf2Ius47RuigiD4r7uAMJ7L2FFFhKlxGzwR-mgsiErdX6_z-srvp16GmWNeexUud9_j2t-94aaZL1KTGy19m0h6INB4-3LXfVDcFQ49KpOnC1iFjRVIpykW4c_Q8dTq4qGBUv2bMom3WbXp_HtHgycfJFUWW_XQrDyyYQkSg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d93f82da84.mp4?token=k4xIdlWyWyY4B1iCvXA3cdBOWpYfzcjRm69Exe2PEIt7SBmjMYmIQsxWB0dWAJzz1fagFGro2E35Fz6VQ6XacJc2WvE0qB_677T3zCO7sI9_Ov35wmPnkywQ94HLkbTYGzdmaixz9k_fx-z7RRFudUF3tbEDQcDIHycn3ykicMawViETqRyQHz-tk2jr0zcL_88ANo8k6UqtRN4MDaH6onv4UsiLruJO04ainA9yo5MkYc7tClP5UDPmYcyvTsBmwlcq6x-C1X4o7qnKeWPtozBnY7uQHkzqHsBk_jLo0cvEF6K8Nb5-d6jIK73zrWMNO70zK1a9E5wGtdmtwl2eqw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این وسط با kimi3 هم آشنا بشید!
 یک مدل هوش مصنوعی با 2.8 تریلیون پارامتر! و کانتکست ۱ میلیونی که عملکرد فوق العاده ای داشته و در سطحی نزدیک به Fable 5 , gpt5.6 ظاهر شده.
