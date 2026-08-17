@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 17:28:38</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 17:57:56</div>
 <hr>
 
 <div class="tg-post" id="msg-2559">
@@ -326,7 +326,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -360,7 +360,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -413,7 +413,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -494,7 +494,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2546">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ttuyOY5iCqvcQD1KDLLzgMebJ04OoXt7nWX6r356ux1gxBSZ6lIrgiCelII0G19asmY_rQ5dJKQFb7O19UWeYiIJ-HKSJNlt6LRqvKzLAFILPdiTUtAleBJNPuwSb7bAPajI_s8NA9ZqXHPhxeUMOUmOt91AiWmQCl13cJygJ8A3NShxft93sLJo8ELixLnmQs_XKpfMoAC1kBGNndGhpoLZ0FzQH2CUaHBN0NAQspXoXLZ49sNLyxNjUsz5pdw4JYS0kSMTyIdNlVsbhn9dP1JM7hjrmSfQorYe4_eJJxrUvJukmbBcAb3znGjNh7lVULg32yY_ww47TH-xOToyDA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HeeZzWhOpM34E8PT--GjWjE-TVDDGVSfcXF4xjSJmhgrNQX9trsNDe925Qclzgxdn0pR3WmRxRgR_OQubQGmJq7QkFXZuHm7qoIiHJyjoFE8HRnDoo281pz6qzmcH9Xuwpm8cu7V8aF74t978F2oI0d2kVpx4EnG40Rts6AOkVE_kbx5JDWyL-BHj_0kxleETgmUuqyvixL35FmBWZ_EpYJqlzZXNaiIWG8OemijTw9CNnOn_d4L_sf6Fj3hYThk71hackiyb3lkHLlobCN8ATFfoHJS2b1qIVGHe71ZqK-JHEzJtdvv6RA91OHwzpo-4h7A6xlYRHQ5Sv8ytjU8jg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">متاسفانه عده‌ای از عناصر فرصت‌طلب سودجو عنوان می‌کنن اینترنت قوی و زیبای ما گران شده است. برای شفاف سازی میگم بسته‌ای که شش ماه پیش خریدم 1,348,000 تومان، الان شده 3,870,000 تومان. قیمت فقط ۳ برابر شده، گران نشده.
 بنده هم با ارائه سند میگم اینترنت گران نشده، فقط ۳ برابر شده!
 ©
@@ -521,7 +521,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -1823,7 +1823,7 @@ Mehrdadlinux
 
 <div class="tg-post" id="msg-2464">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jjr0Snb23wEEX77zSpyL82Ql8JwKowXtP8yMarySu3xDZ8gwC1zQjaa4tPLcJotAOP8vs1wb7V-e_2bO4ZuB5D_c-UsOQ1GDHBSJa0wOXk5emjRsW7Bk4s_VuDeeZBOovNQQ8LwWOUNe15Xzkxh7GREZbJGPkQfeET_P32OMAcbDd6xkuSCa7mjit74nYtTlVd9Fd6-vPWAEIcsNROgbXJR3G0hChYaaqOY73FYlAcZFXUCtNPtPqOwbL5JBA2OOmqIVoAtCigZEG32UFThBc9iiKjn-tKazcecvSIJhIL3HCaeqaEUwsWaFy5_NKM7RjyyzboAclCsysRD-dlmOBA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/dV6xNd4CAq0j_K9dwcREPJt4J6WWstIdmIqmj_gP_jpRFrxtMZ7doksu0jvP2vLhN9q3qjO_fI6lU_KVdPBXtqGw1C9jDUHkyJv75LOKTNTjQuVrKnq_8Y93OA4Gyfeq4bpovRcmjYA9BffmAkLH1reApqOOiICAwPdG5qpVFXVCcUjMClSIIByK9OoUrW3IKoC4WmmHHAD_SkhyYVrDB_XlSz8rxXqpDn6dcAQYb_GGjOMo-yaJWE_JpsNnCt4WFTRYoBOqsavOTF-A_j1C22G6iIGdVLCBF2xibsz_is-OcJkTrVBPxKFmLcAMvv5Fpfm2VGnrE48FzZe68S0Kxg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگر از
 #لینوکس
 استفاده می‌کنین، فیلترشکن دیفیکس در جدیدترین بروزرسانی خودش پشتیبانی از این سیستم‌عامل رو اضافه کرده.
