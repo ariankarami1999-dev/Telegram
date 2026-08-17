@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 06:55:04</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-26 07:39:10</div>
 <hr>
 
 <div class="tg-post" id="msg-77898">
@@ -313,7 +313,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 224K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 229K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77896">
@@ -334,7 +334,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 237K · <a href="https://t.me/VahidOnline/77896" target="_blank">📅 19:12 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 241K · <a href="https://t.me/VahidOnline/77896" target="_blank">📅 19:12 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77893">
@@ -368,7 +368,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 219K · <a href="https://t.me/VahidOnline/77893" target="_blank">📅 19:04 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 223K · <a href="https://t.me/VahidOnline/77893" target="_blank">📅 19:04 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77886">
@@ -414,7 +414,7 @@ VahidHeadline
 بخشی از پیام به‌مناسبت سالروز افتتاح اولین دوره مجلس شورای اسلامی و آغاز سومین سال فعالیت مجلس دوازدهم | ۷/خرداد/۱۴۰۵"
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 205K · <a href="https://t.me/VahidOnline/77886" target="_blank">📅 18:43 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 208K · <a href="https://t.me/VahidOnline/77886" target="_blank">📅 18:43 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77881">
@@ -445,7 +445,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 218K · <a href="https://t.me/VahidOnline/77881" target="_blank">📅 18:31 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 222K · <a href="https://t.me/VahidOnline/77881" target="_blank">📅 18:31 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77880">
@@ -466,7 +466,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 303K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 305K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77879">
@@ -682,7 +682,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 313K · <a href="https://t.me/VahidOnline/77867" target="_blank">📅 17:11 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 314K · <a href="https://t.me/VahidOnline/77867" target="_blank">📅 17:11 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77865">
@@ -781,7 +781,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 264K · <a href="https://t.me/VahidOnline/77861" target="_blank">📅 16:46 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 265K · <a href="https://t.me/VahidOnline/77861" target="_blank">📅 16:46 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77860">
@@ -962,7 +962,7 @@ VahidOOnLine
 پیرو مذاکرات امشب استاندار کرمان با مقامات کشوری و نیاز به بررسی بیشتر در خصوص طرح مدیریت مصرف سوخت و مقابله با قاچاق، عرضه بنزین با نرخ آزاد پالایشگاهی در استان کرمان متوقف شد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 409K · <a href="https://t.me/VahidOnline/77841" target="_blank">📅 00:56 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 410K · <a href="https://t.me/VahidOnline/77841" target="_blank">📅 00:56 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77840">
@@ -1034,7 +1034,7 @@ realDonaldTrump
 ادامه مطلب
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 356K · <a href="https://t.me/VahidOnline/77836" target="_blank">📅 16:50 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 357K · <a href="https://t.me/VahidOnline/77836" target="_blank">📅 16:50 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77835">
@@ -1118,8 +1118,8 @@ VahidHeadline
 <div class="tg-post" id="msg-77825">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/hgBJiVRoCOB4Lnar9CCfuNvuKKiS4mN6v73NeAIhesc_GDkqj9Ak4UbRsH-aL6GZPLu1_4fBKusVhrszH17PYWuCgEq3qIzxhv9oZU9U5knq0bAF6l3m4gBXV5Mt8TpLAn5u8jE70GGdAAaS8LqCtElRCsOS4Qpv-aSgIpRECe7LqkTFqIVVBnxh_6oz4Lk_JqA22dMTSO6_ArGH2KM5JzLSE-qKAnn5OnonAKDrdqrDqtK3qCAr5B69EeGVKNG_OynIbt4fhfmqonwtemmNU3YiQNNn4G8S_l11NlLlmshDKSYG0j9XGlfCpXXIlm-qK2JuxYG8tXTkBtxMIGDQlA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/IRqcYX7khDr4HrgquQDTelRSAaHDktu_JG2g7-3_Sugg1ZJ2-wbn80CbSffxwIp5MLD9HYVL7lwuNNtLqyJnWSeloYCMIbkgs4XwTuFiVnkGOB4NvBh6pyT3DZfgVDvshW2BFHQwFFNh1FoG6zK6y7JbV8EA7KQrFuKJ8dHiAsp4vtjBOdqFuhFhjXM88V8nv9Dnko9Pa1Sp6mb7lfmpjLchxtca3aqqJo4uNvrRK8OoLJsUGrmD6_yG6jNJaZ_4IBtnxoKIMB8fo2c4LqLP_PHKaYZ69DcOJa98o6ZfdAcO0EVmrEOZnihb_0bGfxvw83TnJW8ovAUfLOtmwZeUgg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Afn7julXp5lmpsqyfPl4-rwBzOTzPpdnu84pBSHVaLXIonV5mIHfDqkjJoHZvpLctRCm5T1WwP47zKgnaGaH895CIragfshYJP4fNxH2sLewzDcN53DA_LcdE5X6VHoP-SqCZLItll2CKOszvWEw8XxKo3DFGdI_Fv9U_T-ZGQsdy3BuoiDMd3g_0NljZ-ggxil2bp_gnFfmmDbE40UvNMwUyazCd-DC3loLIqnVtnyqMiCcOBsH5SEnyeFZNgrltPefhyT-6lXb3zMEMXScNhqe8SXHrrXHw1jA73iJ8ASasRTWK3FuP8Yfxuvbk8_VR63Oq6zlRMpruKr7u1sd4A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/SgDm2ob020DwWbLw-OxQN5vS5Qu54eYa9C5sxv9d496ZL02JyC3OS_xzLl295HMZulRAAK4xh__YLftP6XxArzZeK_JLjXjozEEjYx-89GA4tFQucX8R6XMcqUHFP8DDSNmUSokdQqfi5Pkwq2G_LNeYekxnkpoYq3b-h3uLPSARYZf2qiFSEUSfxOZEA3FwqYD65ruJCZQqI6OstmBAY3QWCTfujVt8zjW0j3MpbpWYUxI4JYJOrI9DZRdeuTWwjXJfdM_BCrwlrNOmwEpM-iAkjJeqn4xbv3ayVRwdw81BurX9dMmP6DjvvI2tG5H3lhPXOUKHDIpzUNjsXz_UUQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">اظهارات علنی متناقض؛ ترامپ در پی تهدید ایران، مخفیانه با پروازی دیگر از ترکیه خارج شد  ترجمه ماشین: واشنگتن‌پست دریافته است که تهدید ایران به ترور دونالد ترامپ، رئیس‌جمهور آمریکا، ماه گذشته باعث اجرای عملیاتی فوق‌العاده شد که طی آن ترامپ به‌طور مخفیانه با…</div>
 <div class="tg-footer">👁️ 352K · <a href="https://t.me/VahidOnline/77825" target="_blank">📅 08:02 · 21 Mordad 1405</a></div>
@@ -1129,10 +1129,10 @@ VahidHeadline
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/49def3f074.mp4?token=GjOzSTKkB5iw0_prN4yIKJ9JE55Vws1Z0757v1ncatIvHvqlJWmH0Dydf8-Fzg7T5EcA97xFdLyq-tqfNLEkcEfOy8U5k8o43ac4ZGAL6rYdpvcRwJj8lcboeNnmcUH5X2XwEcoTyUxjRjaRKotSGEXV9TZQ2L-na8LP702ui-cEC-4_VchtNnNiFq2cgpj2mMSJ-GRmcycdDD7qw_grSUfhlH301upVzCqkkvCG8bDYkPJDcscGB4VbUfwkeHGhvi3yxGzNpv6yiCdLWxcds3S8XHb2YUlYsQS0xLuLATrpd66qRYhejLoTC64KawcZFP3vfMzO8EVxOUOnoAcZXA" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/49def3f074.mp4?token=AMT1oQ-QJPGByzXZJezIXGEICjKTy6KJkT53ZFK8ZBoT5M9RMJIUnMIy8Z_rn9lxgNCfT9XSo0C8xhWyzMtO6rzrjIav3IapCs6mRwtHw6WeIgKAvBpumXZ2Z63NlMN6YfZRc-wkc7IMV-xrfXWk5LzCxNvNTpsUYdyKUM-3GGriGB2lnvuEXW8B4hjJoHgh4tgF-TX8b0YfIDmC35TayUMyUmKWN6ZIAilpuVCg3kSgECSYtZTdI4_q8Rt0A-izzqeRaaLNEJguxMJFJK6q_nb3H5D59KopbDrO03ZiGeIPzyroIcjVmEHTbXmai7aGvlh_3UAB8rCmtqxxvQaL5g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/49def3f074.mp4?token=GjOzSTKkB5iw0_prN4yIKJ9JE55Vws1Z0757v1ncatIvHvqlJWmH0Dydf8-Fzg7T5EcA97xFdLyq-tqfNLEkcEfOy8U5k8o43ac4ZGAL6rYdpvcRwJj8lcboeNnmcUH5X2XwEcoTyUxjRjaRKotSGEXV9TZQ2L-na8LP702ui-cEC-4_VchtNnNiFq2cgpj2mMSJ-GRmcycdDD7qw_grSUfhlH301upVzCqkkvCG8bDYkPJDcscGB4VbUfwkeHGhvi3yxGzNpv6yiCdLWxcds3S8XHb2YUlYsQS0xLuLATrpd66qRYhejLoTC64KawcZFP3vfMzO8EVxOUOnoAcZXA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/49def3f074.mp4?token=AMT1oQ-QJPGByzXZJezIXGEICjKTy6KJkT53ZFK8ZBoT5M9RMJIUnMIy8Z_rn9lxgNCfT9XSo0C8xhWyzMtO6rzrjIav3IapCs6mRwtHw6WeIgKAvBpumXZ2Z63NlMN6YfZRc-wkc7IMV-xrfXWk5LzCxNvNTpsUYdyKUM-3GGriGB2lnvuEXW8B4hjJoHgh4tgF-TX8b0YfIDmC35TayUMyUmKWN6ZIAilpuVCg3kSgECSYtZTdI4_q8Rt0A-izzqeRaaLNEJguxMJFJK6q_nb3H5D59KopbDrO03ZiGeIPzyroIcjVmEHTbXmai7aGvlh_3UAB8rCmtqxxvQaL5g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">دونالد ترامپ، رئیس‌جمهوری ایالات متحده، در گفتگو با خبرنگاران گفت به ایران اعتماد ندارد و افزود: «من آخرین کسی هستم که به ایران اعتماد می‌کند. آنها پیوسته به من دروغ گفته‌اند.»
 ترامپ همچنین گفت ایالات متحده در حال حاضر «کنترل کامل» تنگه هرمز را در اختیار دارد و افزود: «آنها کنترلی ندارند. ما کنترل کامل داریم. اختیار آن دست ماست.» رئیس‌جمهوری آمریکا در ادامه گفت ایران دیگر «قلدر خاورمیانه» نیست
@@ -2135,7 +2135,7 @@ realDonaldTrump
 
 <div class="tg-post" id="msg-77762">
 <div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fCX_u-v2C_gvc8iFQjDPZYUSS3-puF6RDuLe3bwcjYcKCCnsgpMAjds5SphU9n_qUOr4dSqkruFQjineq-WIDytz6xvZQLb1-alucKDuli4ERsPylqq7jdnmlechFHMkWQxNNUHQuiFnQj2TrubDbCtBLtwVt0GgerGn9ZX_TyoxDm-k6qAmei1gUiCWKIuqQDq8BxD_Zdu_ajqispyHvNg8Hsu9qXQhpbQdH-ib1l5C5_YzJ2ZsUrh7nc5a6icsWO1DCqodYc9KWRg0DBCpKIvq-SxIEal6TJafrDTY-N09IiRYTwdusZ_zZu0jWUjS5hKhIStL_q-9wm6_lqebNA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CVms73h_9ueLBq59XQc-dErNFCpfOzj3CuYVdY6MtPv87w_6u18Rl8c9aUNe_wFjiHjgqytmTL3wYGoB_RGJKDcWcC2TxnBgnSmOd_0sRmyvV4L7ZF2GLKydSlyTwomxM_mHmQ4p39_LXvnc99z1O6HJbXhDprp384uFnQF7k_fMRc6qYv4JlSNt_vB0e8lhv1AAJvtR-8oZMBvips4SFKDkzUjIHeNZuCmckMpcSuMXT9dw4WjL47dyVY9_f2Z9gYaPd4GZERcSnkIXm_sZYxkAMRd8wUIjETxPX0ytRj12C3DSPsXS2VG-k_6iJ-TUjKo_ikzR-M9kfNnx9dRN4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست ترامپ ترجمه ماشین:
 ایالات متحده مقادیر عظیمی «مهمات»، به‌ویژه از برخی انواع خاص، در اختیار دارد.
 افزون بر این، هر مقدار که نیاز باشد، حجم زیادی مهمات تولید و به ایالات متحده ارسال می‌شود.
