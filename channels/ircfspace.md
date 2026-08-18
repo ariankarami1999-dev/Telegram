@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 15:17:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 15:56:28</div>
 <hr>
 
 <div class="tg-post" id="msg-2559">
@@ -360,7 +360,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -375,7 +375,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -429,7 +429,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2550">
@@ -610,7 +610,7 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2538">
@@ -765,12 +765,12 @@ Taha
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/ircfspace/2530" target="_blank">📅 19:24 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/ircfspace/2530" target="_blank">📅 19:24 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2529">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QMTOXYSdLIGoIz8dXshEsmMd_8KDiQNCVJk0GGbqjdT70o6FQtyRW3kpe4c9PzGiPER1Jn0ItxZgMasBAn0azcOoaXCcyzH_eCCR1TWxA3d14kJkpVkumsfLAENofbuLCzH1MF-G_xjXEeaZSjcAHwYm4UmVKwLD7Ctm2uE9C2SJGgTml-KuPq_CSEiJuP0bnDbSW4J3YFaydgKcPj6sE-3twSSG0s7Di9O_gpA5skBs7w9JQjEn2J39h58SzXUnqx39-DtSEAZ_Vr2CzsIphgRlP6fSDUH1KO_Ek0ASxtU5czAbAk_eRX1nPiuyHw-wLLRV6QcYcVML_W1NKSHhGw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KzUtFzIDPh1r2Aaiesz7BlNHuwh8KH2Xm4MzVwF2zxaiMEcboXEMbQ38C3ykULiQbc2YFqa92OjBBMgZw6wbd4YCE_jEmdA83v8fts35F5Ccf-BOIFNEu9t6KO_5Vv55ePMlB85Wop1e7ozcki5Y8IZAaqBXBLmJXznFAD0Uul80zezHp1JiA9T7U42YUynfe5xK9CDY0i49g1eCmjWmktmriapKfCHsnBlWjYtKeSDOsu5htW2DqMPAAKNLI9lEt1Pqp9k1qeb2IJTqwz9txYzyoK3t75hcxc4E2HnD48aEiK2SOIdd6TtXJhhHXpCHZt5kQ7C6l4gGcbQv5r67bQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هیچ‌کس این چنین به ستیز با مردم برنخاسته بود ...
 ©
 sadroddinfallah
@@ -938,7 +938,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 
 <div class="tg-post" id="msg-2519">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uoTOnclAGql3E4YxhWawMldgstOK7vGOlJsd3QTOlKPf9548pVD9BWGczM7BP4E5t4xN_TfXvCmHOxHUFeSLZp7SCGE-aCfXlCYcpSg_gPHTpJJYnD1tKCL7zF-2qwfTwHVRVq0hb2x9iQbjNZWHBnVJIheACwSrwyKmasSGR65P_GADibTO721A-vyNG3iu3Lw3okCCI4rOsrQGyae-x30maSUwb2J0gR-ut9VqQw82H2pd6bhMCLbRNQVE9XKcPb54l6TWs57SQsjNyrQbpUR86iLTUabLWJpMMrGpjypHE8QbcoVoAswAph8Dydr-yzot7fqgdvfjZL-pDoPXoQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fhvj2F0P2Ys6z4C8ZptWl6mY5ImfgKW-oU_-tdINHjBoq-HM5yPDgMTMnu9QiWIkc_9y2remVn0QtvrhiYZz4r9oLvg6EL4a2ZniKCj3Gh_Ohjo-Mu-UPactfQnfiNFQ93JxnUF1r4TwkcMGZttCNsxgOhhcXFvgRP1A-FjGfpyjIMdFLw1teCEFly2UpCtH5ayiEqf6TO4phIYWaiFQh2lQTV3OgDwDvK_w_-aiR2eqC69BwYsmYlSdFjyBcmg9jlsbMLBsPtOgV4suAb-Ax9F4As3uATVAmxu49-z6_9E_XcWGz8nZ5La2oWle6Q2O89MtJ-m_8pBMY1PwkOIu3w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ
 #Aether
 یک فیلترشکن متن‌باز و رایگان بر پایه هسته Aether هست، که برای اندروید (AetherMobile) و ویندوز (AetherDesktop) ارائه شده و از پروتکل‌های مسک، وایرگارد و گول و حالت‌های اسکن مختلف پشتیبانی می‌کنه.
@@ -1033,7 +1033,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 43.8K · <a href="https://t.me/ircfspace/2514" target="_blank">📅 19:00 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/ircfspace/2514" target="_blank">📅 19:00 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2513">
@@ -1836,7 +1836,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.7K · <a href="https://t.me/ircfspace/2464" target="_blank">📅 12:41 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/ircfspace/2464" target="_blank">📅 12:41 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2463">
