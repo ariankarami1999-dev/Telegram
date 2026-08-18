@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 12:31:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 13:25:50</div>
 <hr>
 
 <div class="tg-post" id="msg-903">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">سوال:   دوستان من یه دسته بندی رو آوردم بالا و رتبه ۴ صفحه ی یک هستش  اولین سایت که ترب هستش  ولی اگه ترب رو حساب نکنیم میشه سایت سوم طبق سرچ کنسول توی بازه ۲۸ روز ، ۱۲۹ سرچ داشته  ولی کلیک ۵ تا!! راه حل برای کلیک گرفتن چیه؟ عنوان  و متا هم از دو رقیب دیگه…</div>
-<div class="tg-footer">👁️ 785 · <a href="https://t.me/mohsentavoosiseo/903" target="_blank">📅 20:05 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 807 · <a href="https://t.me/mohsentavoosiseo/903" target="_blank">📅 20:05 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-902">
@@ -314,13 +314,13 @@
 چون روی کلمه ی اصلی اومده بالا
 پاسخ در ویس:
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 843 · <a href="https://t.me/mohsentavoosiseo/902" target="_blank">📅 19:56 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 865 · <a href="https://t.me/mohsentavoosiseo/902" target="_blank">📅 19:56 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-901">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">سوال:   من از وقتی هاست سایتم رو برم روی Geo Dns میهن وب هاست یه مشکلی پیدا کردم. کلمات کلیدی تو سرچ کنسول رتبه دارن ولی وقتی خودم دستی سرچ میکنم نیستن. اکثر ساتیتام اینجوری شدن. این طبیعیه؟  پاسخ: https://t.me/mohsentavoosiseo/511 این ویس و ویس پایین  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.14K · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.16K · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-900">
@@ -331,13 +331,13 @@
 https://t.me/mohsentavoosiseo/511
 این ویس و ویس پایین
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.19K · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-899">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">کسانی که جدیدا دوره رو میخرند، دو تا دوره دریافت می کنند(قدیمی ها نگران نشید تا آخر بخونید).  دوره جدید، برای راحتی ذهن شما جداگونه قرارداده شده و دوره صفر تا صد SEO و AEO برای همه زبان ها و همه کشور هاست! و کاملا آمیخته با AI که ابزار اصلیمون Claude هست.…</div>
-<div class="tg-footer">👁️ 1.63K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
@@ -349,7 +349,7 @@ https://t.me/mohsentavoosiseo/511
 <div class="tg-post" id="msg-897">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/mohsentavoosiseo/897" target="_blank">📅 15:40 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/mohsentavoosiseo/897" target="_blank">📅 15:40 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-896">
@@ -369,13 +369,13 @@ Ban
 #بن
 #ban
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.93K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/mohsentavoosiseo/894" target="_blank">📅 15:01 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.88K · <a href="https://t.me/mohsentavoosiseo/894" target="_blank">📅 15:01 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-893">
@@ -504,7 +504,7 @@ booking.com
 و در نظر بگیرید، برای کسب و کار خودتون، خرج نقدی میخواد. فکر نکنید فقط یادگیری هست. پول هم باید خرج کنید. مگر اینکه بخواید استخدام بشید یا پروژه بگیرید.
 خرید در:
 @mohsentavoosisupport</div>
-<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/mohsentavoosiseo/889" target="_blank">📅 14:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.91K · <a href="https://t.me/mohsentavoosiseo/889" target="_blank">📅 14:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-888">
@@ -519,7 +519,7 @@ booking.com
 خرید در:
 @mohsentavoosisupport
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-886">
@@ -557,7 +557,7 @@ booking.com
 <div class="tg-post" id="msg-883">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">بازگشت قیمت(افزایش) دوره از 1 آبان یا زودتر. اگر قسطی دادید قسط رو تا پایان مهر کامل کنید یا اگر دوستی دارید که میخواسته تهیه کنید بهش اطلاع بدید.  با اومدن اپدیت بزرگ دوره(SEO و GEO بین المللی با AI) قیمت، تغییر خواهد کرد. چه اول آبان 1405 چه زودتر.  طبق…</div>
-<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.37K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-882">
@@ -747,13 +747,13 @@ Claude Cowork
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">درباره کمپین تبلیغات محیطی ا.......پ
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.75K · <a href="https://t.me/mohsentavoosiseo/870" target="_blank">📅 23:03 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.76K · <a href="https://t.me/mohsentavoosiseo/870" target="_blank">📅 23:03 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-869">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.9K · <a href="https://t.me/mohsentavoosiseo/869" target="_blank">📅 21:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-868">
@@ -819,7 +819,7 @@ Claude Cowork
 <div class="tg-text">فیچر و امکانات و قابلیت: ۱۰ درصد
 فروش و به سود رسیدن: ۹۰ درصد
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/mohsentavoosiseo/863" target="_blank">📅 12:27 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/mohsentavoosiseo/863" target="_blank">📅 12:27 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-861">
@@ -939,7 +939,7 @@ EAV Research و Entity Research و Topic Research و چه Attribute هایی د�
 انتیتی یا موجودیت یعنی یک چیز! واقعا چیز! یک thing. که جدا و قابل تشخیصه. و اسم داره، هویت داره، ویژگی داره و ارتباط با سایر موجودیت ها. الان محسن طاوسی یک موجودیت هست. اسم داره. مکان داره ویژگی داره. و تمام ویژگی های موجودیت "انسان" رو به ارث میبره.
 الان حس می کنی سئو رو خیلی خفن تر بلدی؟ نه فقط مغز بیچارت رو پر از دیتای بی کاربرد کردی که تو رو از پول دور میکنه ولی احساس کاذب خفن بودن بهت میده.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.65K · <a href="https://t.me/mohsentavoosiseo/854" target="_blank">📅 14:17 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/mohsentavoosiseo/854" target="_blank">📅 14:17 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-852">

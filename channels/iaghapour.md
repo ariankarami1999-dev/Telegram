@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 12:31:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 13:25:50</div>
 <hr>
 
 <div class="tg-post" id="msg-2893">
@@ -336,7 +336,7 @@ https://t.me/kavircloud
 http://ble.ir/kavircloud
 🌐
 https://kavircloud.com</div>
-<div class="tg-footer">👁️ 5.24K · <a href="https://t.me/iaghapour/2893" target="_blank">📅 22:55 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/iaghapour/2893" target="_blank">📅 22:55 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2892">
@@ -365,7 +365,7 @@ https://kavircloud.com</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.09K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2891">
@@ -393,7 +393,7 @@ Ad
 اگر تبلیغ‌دهنده محصول دیگری را به شما پیشنهاد کرد، این خرید ارتباطی به تبلیغ کانال ما ندارد و مسئولیتش با خودتان است.
 ممنون از همراهی شما
 🙏</div>
-<div class="tg-footer">👁️ 7.49K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.55K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2890">
@@ -406,7 +406,7 @@ Ad
 ارتباط با ما
 پیام بدید تا مشکلی پیش نیاد.
 🙏🏻</div>
-<div class="tg-footer">👁️ 8.28K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.34K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2888">
@@ -430,7 +430,7 @@ Ad
 توسعه هوش مصنوعی تنها متکی به مراکز داده داخلی نیست و نیازمند ارتباط پایدار با جهان، مدل‌های متن‌باز و خدمات ابری است./زومیت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.63K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2887">
@@ -555,7 +555,7 @@ Smart Support Bot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.73K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2882">
@@ -1175,7 +1175,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2848">
 <div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G98iwttfzzE2eAa_O97tpA78ViF3UpInx0RIxxu3n_SeyfVf9iGM_P2PykuFrsZ2Gr4fxhXGk_xJ9acjtW9vZHOtWoDwv0UzxCSj3TjtURwHYrZW-_g4NNgZwgjYlVegMfvTDDT1ggXcVK3d0sI9uITXT79bompsDmVZnFXWb4Es-ESOQUZzwpeoUpIp-JXcpJvyycJnzSBTQeIPIg4jrumKzSp-NcEUDiAjy3LrxZRMarfqd9KXg_yAJjNivMSTzCCtZVATQwfeW8c1zievHNGkYSLQe6BpILCHSNPVzjXuH8u312WjLszpWU8mXIapB3npNbtFDXhmvqgo20I1PA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/klcgd10TpTZ7LEaH0aQlUPetmYpJQ2kiLDxkEFea2bxkfkVigd1AtW_bqZOdL8P9GlFcLQuvQuFnUE3kfhAjTxQ0jkHmA2Z_eU39IPgL3xTkOWlbM84paXptB8wbPCj3_ta6UIqSytoFgBsGoXPsJgCQRC4IpPsvYY1hI6YEi1ZgToou7RtJriffG8kQUGVZW9KHS7MVmcEwNAFX2-_e4-nkqXiswE7A6s9XFwx_t-9AAJxoePfVlQz5S5zReGLXKDs0CMWLJF80n3xEuSHdLyBT2pjJIrhxizqsG731gENtG9nQaqgxi_zNAgTxEBhPkSnQl-52YT2h692YaXu0xw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎮
 خرید تاریخی ۵۵ میلیارد دلاری؛ الکترونیک آرتز (EA) به دست عربستان افتاد!
 ناشر بزرگ بازی‌های ویدیویی،
@@ -1379,7 +1379,7 @@ Xray-core
 
 <div class="tg-post" id="msg-2837">
 <div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ny1WwIMqZAJSeyRv_6uY9hzMcU7BkASkZjHeXGFtJazZiFC6Dg8r2Nkydka5MeffREeMiMJ3hFbQVQYfvUmhNyFVbhe5aTobsBiw7LdjrfXQIf9GsubDkaXt4GKQsBZkaXUu9NdL0uhD-lrBRrJ53AseQ3hMDi-HD0CWMS-JdPXKPpZGCaUN34w6AR3vq0IOk2br1vXtO8DC4RTkfZuKgaaSGNxFLpKRPyf7hA0PpLGu0FuD3h2fwb1j9-5qlTKgOglnisygqkIz-0oLt8_S6xvoBpQIVydgaHhg31Wvzop1rr4ns6WdlSxQjkobV6egwG1GiNVHCyOeTKiItg9KUw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iRUIs9twKHXzbzXZlWOlpCVDvkVtXPstFc3rYkblokulNqgCgh6XeKu3EAKAZz8bx3esoo_kpBaMgjiZ2J9uuC47mu0E34ztQdWxjdwZy6GdDGbNGeXtOnaB259e-K32RqCfKTy-ZBZItG-oMWYHOLufhlvOLjG33g4yYlTu2JXPwXMG6rXUrF65fC7fvD_be-eFp7KLDr2hCaxW6SZ4LykpH_M8L7OmK2Eg8HhbJHsg1IVpQYjpMuTeP6Las7ORNMp_bBO4D3U_9B_IRvh2B-xtzHkwwnFy8qdoTJaEKrXIFfG-aE69WNW-Zz_Nf_KO-SJuGwPBLmfu6Ae0k0PwLw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 معیشت بیش از ۵۰ درصد کاربران ایرانی به اینترنت وابسته است
 یافته‌های جدیدترین نظرسنجی ملی مرکز افکارسنجی دانشجویان ایران (ایسپا) آمارهای قابل‌توجهی از ضریب نفوذ اینترنت و اهمیت اقتصادی آن در کشور ارائه می‌دهد:
@@ -1456,7 +1456,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 
 <div class="tg-post" id="msg-2831">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N0GF5J0rhXf3fhd0d2tO49n00MEvglcnUeFaTexPklE588KS8NXpk4hE7b1-ukamTIQW2CFJZNwwi9xXnrXRJsklflcaEWotAzWgI-5O5y3TPy7AGTvGfrBiR6zUOkCKwPyBVZaiCdBxz1zY2f1FlhTyna0TyAMqazlw-eIdpE4Tb-l_OoT2txzXwqCndxPmCxhgZLo1Ph53e4OxntZhvvCHJP7YWnAgSJtC9v1vGarO1PwK6LunnWeyPlWdQvmtMSDIHaB4blrVWwNTqug4OpsyDAqs2LAIe3c2u-EiFhNfPoKvrqJ-CDR4QzYyRezKoIA38HSqD3mfbHk4E8dmvw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Du0aYI3OirSwLDCK1vPJt9qQTGcwZPsheUR7eQrpvjkQXeNB_DZrwhor1tRx2PP1uU5lJP1DaVbedXmAkGt8eSre4V4u13QGwv_8P4EbN-2-1sjWFcYnsHXDsvViMrTlIJbF5EMmcKeZ8sx79-ghIqh_wzZXMM0xrX_1ywv4vnMsB-DhvU29NQGsNQjmrIRSQik4iOZLyN2i_nDsWpMcDK3Y7WIRHxC1ED4-dGGyjtS0r3rNI181D0kifYFkiVR6SQkYu7ADrl08gkI2iqzI5qWk_dVkJQcjBwXPNiL5Ks7Fqh9NqCbTnjAQ3_QwspM2eHj7ZkUvEOtp1rG7FrjTgw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 امنیت حساب اینستاگرام در صورت استفاده از VPN
 تغییر مداوم موقعیت جغرافیایی (IP) هنگام اتصال به VPN، سیستم‌های امنیتی اینستاگرام را حساس می‌کند. اگر ورودها غیرعادی تشخیص داده شوند، احتمال قفل شدن یا محدودسازی موقت حساب وجود دارد.
@@ -1571,7 +1571,7 @@ KelpDAO
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/iaghapour/2826" target="_blank">📅 18:17 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/iaghapour/2826" target="_blank">📅 18:17 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2825">
@@ -2200,7 +2200,7 @@ LangOver
 💚
 🆔
 @iaghapour</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/iaghapour/2784" target="_blank">📅 19:15 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2783">
