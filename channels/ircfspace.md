@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 07:34:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 08:29:50</div>
 <hr>
 
 <div class="tg-post" id="msg-2559">
@@ -307,7 +307,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -326,7 +326,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -450,7 +450,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2549">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OOXi11wj720I5jxuZaDd05Kt4uEtOkPCszOv7PNorCZl1moFDZarc7VRVjzCb1jImhoYPLIiZEEL-w0PV0-pyNR2kFruMW-MuYF3Lnt0Qhqy5h5FdJsWYhPC1l2us9JyrBRHsaQOIky5XYKpA2VdiZQedvRwP3HOnfUi93nl-2_SOW5-gMRH-ZQ4MRP0jat5snFXY6OADxaFcaT1jfwpoZpSO-df6NQHeRlNLcolF4CEXuKhr2FvTx5NaL0C-FXDfiMwNyAMl7gkwJeVliXxGYGUVt-pRaQzrYDu1dQRnBgOk5RZivxkwmb6PJ23FOD21MUQ7fsgzhmMP5yTnYv3jA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nLMlHJmN3ByQbc7eyULgUopD8iaLjzJjrY7v9sVmaJbDfEKxG8kMXBMBvlwkOtqBDgi9uVH9hUWLEqqzw9W6J6-_WLqiz_yqkugWEtxNPB1WtsKKDphiOYGX9wY6r_qjAJBnLwCfQ59_B7b9ZjoZkNOxeyFHltqed75Mdbx-suWL8Y5RXtuFcwOuXhuAhP_wl9Vq-lrB_t1mhr5TXyxtGCsE2-5CwRSzPrW4hrdfIVeCJ2i-8qu96UC3aq8SMCy5KpDLWs3hznZYpx1kJsSFNnryrfXAPxmlquDZtn64PUM1l07ESbTR6x-iEahH_ZdkarAIg46K8R9CbC4AlYckPg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از فیلتر شدن فوتبال ۳۶۰ و دستور رئیس‌جمهور برای پیگیری مشکل چقدر گذشته؟
 هنوز نه رفع فیلتر شده، نه کسی فیلترشدنش رو گردن گرفته!
 🔗
@@ -465,7 +465,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2548">
 <div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GYEvFSwqNpXXJYx7EBsPpErFnY6DEFuiIyJpUZXhS1uhdVqBXU61o6Ot6Ob27e6H2UQ89GMMY-GEv1mYAbZ7j_XXlE06BWIbXECi8YJIlNdfN3EzLRu0Pd20Q8ICVhMvvmsN-rWSNoye43BqLdAbB3P4sxidZYZw_27JzzDYo7Fxmm0tnXhxUZTiJLn8yy7WbbLq7T0_FQH15SoqXZxS57gb4Pd9vzjgU1axQZrDBNbe8At6_3EVgB3MezK5no-yv-MwQga-A5xqwKUmmYcaWrgHYbq_l7NG5mWHvF6-QNEg1GZSj5rqGPO_4LS9BP5O9Qg3WyZ56hM77lSL2kAaxA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nukRibPcU5Bs1wJnuPduziQauNXBo2893mH2BAYbJYLtPf87PNgoVNsBF2LD_M1TSy6diQ6wls50EM-HgIZ-k8Z36Q7ayxhGcICPQZtogTVSUScN6Opk30BeGIQIUSVv-Drih5oom8VKQ-qiGpa5t158mUFWVjCA9vZURLPa5KMM5yH9IVQzQGi8pu4R3QO3JJTrsi4gklTfAopH_eG-NCXA6WeCkbwaHsJfc5P0eCutVcCglC0iYuGLy0YwBaC1wiMbyeb_owNNOj0EcLwBDFAjrAfRIQ1QqQq5Z50_sOVAdDiIm9VfyF7bo8dq9V5tGAKsRbjFMJJxHbKks49VyQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پلتفرم لندین که برای ساخت لندینگ‌پیج بود، بدون اخطار قبلی فیلتر شد. بعد از یک‌روز که با تعهد در دادستانی رفع فیلترش کردن، اعلام شده دلیلش فروش آمپول لاغری در صفحه یک کلینیک زیبایی بوده!
 یعنی هنوز که هنوزه نفهمیدن فیلتر کردن یه کسب و کار چه آسیب‌هایی داره. هنوز که هنوزه نفهمیدن وقتی یک صفحه محتوای خلاف قوانین داره، کل کسب و کار نباید فیلتر بشه.
 🔗
@@ -480,7 +480,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2547">
 <div class="tg-post-header">📌 پیام #89</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/t2yBGFjtVh-EflX5M71Ua_tX5Lg57kletnoAxZteOLo2AH5y6SR9-ZgYX5vIaHHtv4EECaH8nI6ntq8F-xzebHVg1E__yNrm3B8D5WbchSelD1DIlpeDk9sOlCrbOMTGMIRpET-GvRGfbtE1vvq5GWEPZC8fBkLJiCVT3PUKTEHqBhDuLvEk7Bov4QyULzaoMNN4nj8PxDQ1thvaj25SRcA9e4gdsuD6FVpkWvtXRQjYGEN3cO-3PX5jwcVXPBGbjRW3cr6Eq-KGB-6RVnCeIIeAy1qD36qRiv9OtexkB1kYxBArfsKq0RN8dRoS4dAuN6zthgC7ZlshUgB3mAgrsA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/i1ELSlpOW9aoqUtGjvxua-uzotrPQtrAKlvjxLH34WAsjP-VG2JXWt-jlCOKSz4NGvyJm_hv7RLzte7ndAqWSPqRoPHmVzFnm7IODFJlMRpA2IiVCQ5Z7dkE8y2kOAX0vvLJv7bHShacnp_ZJZxV6IxoX0Z-Zz6-G_ifX5n5LJIHhcMsLAYLKj2iaO3eD6UaLEm4kykkwF7JG4_N7kzuNBkxnaYNoBPZRLlw-bhuS-dH_fnRIiIkeUCgw5hP_uoZ9Z4mHMG_hrnk0ooYNImkjEJP2MIzrCs1dFz7qa7akC93lz5PICp6W2t1vSLL1YR-mmozRBwO9gqR880B5ktRyQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همزمان با قطع سراسری اینترنت و نابودی هزاران شغل، هزار میلیارد تومان به پیامرسان‌های رانتی کمک کرده بودن! همون پیامرسان‌ها در عین دریافت پول بیت‌المال، اختلال داشتن، ثبت‌نام جدید نمی‌گرفتن، محدودیت‌های تازه گذاشته بودن و چشم‌وچار مارو با تبلیغات کور میکردن!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -526,7 +526,7 @@ mrweb24
 
 <div class="tg-post" id="msg-2544">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PWPaE7dYVG7aLtxN42Z6qZvIboJwgnemgyVlrpxwkpJMBmT4ZuWmPx2VZHr6umEPxXqem_LSsFhiYDMOlc48Qj3t842p0fMN2ayW9I21Nraf16lD1R-Mi0-EKQsKFrkZd1lBHrkgEkbBI3o3AP6toqsNU8irOPlv5pC9AlrTS5xYiz_d7Pv00ARB7mPxV3wnsE2B5Cm1-uYk72RcBOr4WQoTxS9NLjxumnLe0L9zenWFbQqQ4Wv99DbSvini4V6Gax-6IPCfPVWc2Mwh4zC89s7fLF1xVByRcLpa2K5isahcI2v9tDn1MSjGDFTn-MlyCqtOSctj5rYUBVvXlmVjOA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RqbKwAFEgrV7J2kaUJNUgjhAPADpT43px76n3SosOqEvSVlRrBzBHO6_9GkIwooigqkoPAbniaAWt9dwo7OeK4RN-V-NCLYLPGVyHAeuqAnwPF4APwChqOnEhGFbbo5nM6ED2ewRY-e9fj_gaIo-Yym0gBh6UfU4CPRu4NgVAP11xBMJR0UbUged2Vjb9uqP3eGeixksaX8bP7UF-iIsiopXgpAWlor3LGsczerVE9WZjtb19yG8auMjHkh8bmfX_K8LrKTacn2aQqJ04hF0xflfyl7Vn2WyjnwjYvQFpLX7BYnI4A1otOBKddndTSBquV4Qmo6IzFKh07VZPeAARg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تصویر لو رفته از وزیر قطع‌ارتباطات هنگام رونمایی از طرح تشویقی "نسبت حجم ترافیک بین‌الملل به حجم ترافیک داخلی"
 😄
 🔗
@@ -1868,7 +1868,7 @@ github.com/Devtahas/RedCloud-Android/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/ircfspace/2462" target="_blank">📅 07:44 · 06 Tir 1405</a></div>
+<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/ircfspace/2462" target="_blank">📅 07:44 · 06 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2461">
