@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 23:43:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 00:15:59</div>
 <hr>
 
 <div class="tg-post" id="msg-2898">
@@ -328,14 +328,14 @@
 ❤️
 کانال رضایت
 @AIPrime_Csat</div>
-<div class="tg-footer">👁️ 3.78K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2897">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Et7ILQjy7T0tOpnYRPu62rxGi8pYeqWkqmNmWepZ3MWWtBaDb6k1dvSHAGDtKbKW-hWvdN_Bcj-hyXUrOBgDFzHuULndSNRLZCOrUEEdWthFj60zj1EYzy_1-0Sh9IV04uJVOnvwfwBvsg44L4uZRA3DDdYpcWVxalA-y_PntbMGKJBu7iCYu5VTQRYMFNI4UH_XIX79KAK5ryvn6nf_EUXZaykTwe2f9R-PLXX2GX3Zm9vqJEgA2bIqr4r-AurHKnel_dKZKGVRR5q1plze0aRCPmlKMYZXkBAqmHHR_wZErMygB2MZ-_RK_mRDUndBJiViwQMeeckU-gOuRfAiSQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کدنویسی در سال ۲۰۲۶ :)</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2895">
@@ -357,7 +357,7 @@
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
@@ -384,7 +384,7 @@ BFI
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.59K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.69K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2893">
@@ -428,7 +428,7 @@ https://t.me/kavircloud
 http://ble.ir/kavircloud
 🌐
 https://kavircloud.com</div>
-<div class="tg-footer">👁️ 8.75K · <a href="https://t.me/iaghapour/2893" target="_blank">📅 22:55 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.8K · <a href="https://t.me/iaghapour/2893" target="_blank">📅 22:55 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2892">
@@ -457,7 +457,7 @@ https://kavircloud.com</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.17K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2891">
@@ -485,7 +485,7 @@ Ad
 اگر تبلیغ‌دهنده محصول دیگری را به شما پیشنهاد کرد، این خرید ارتباطی به تبلیغ کانال ما ندارد و مسئولیتش با خودتان است.
 ممنون از همراهی شما
 🙏</div>
-<div class="tg-footer">👁️ 9.38K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2890">
@@ -498,7 +498,7 @@ Ad
 ارتباط با ما
 پیام بدید تا مشکلی پیش نیاد.
 🙏🏻</div>
-<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2888">
@@ -522,7 +522,7 @@ Ad
 توسعه هوش مصنوعی تنها متکی به مراکز داده داخلی نیست و نیازمند ارتباط پایدار با جهان، مدل‌های متن‌باز و خدمات ابری است./زومیت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2887">
@@ -618,7 +618,7 @@ Gemini 3.7 Flash
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2883">
@@ -711,7 +711,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/iaghapour/2880" target="_blank">📅 18:29 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2879">
@@ -951,7 +951,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/iaghapour/2866" target="_blank">📅 19:53 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2865">
@@ -1235,7 +1235,7 @@ Adobe
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/iaghapour/2851" target="_blank">📅 17:57 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2849">
