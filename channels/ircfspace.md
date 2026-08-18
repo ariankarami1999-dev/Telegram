@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 16:52:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 17:33:16</div>
 <hr>
 
 <div class="tg-post" id="msg-2559">
@@ -326,7 +326,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -536,7 +536,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2543">
@@ -549,7 +549,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 50K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.1K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2542">
@@ -1053,7 +1053,7 @@ github.com/2dust/v2rayN/releases
 
 <div class="tg-post" id="msg-2512">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/e2EoQwCFHfGj5AGRlYDbaxlUtufwhyWHR8fjkOilJF9WHAfvsVY9iUzp0gx8sr018uR1Zfq4jYeDCrVynNsFXfVSo6PGnbK8DdhUrTfUvE23UeCuv9LT8C9BWQaYR6gClHiGMo74jnhOZMMNUrkpLzrKk9rjSE6Tzt9r96jgS3aSss8vCxntxs9XOYELCjQGmso3y7Y9df7VMT2n90vF0n0pcHT431hVZBZI-H3Y4fUS7VWev9Zo1PPuE98F-swRBd8SK5-kgAS6GDPPCwVsfHosaXz-kBAFzVaoZxKht9Sd3JCU8zFA_iduhreErI6MzsPzZzaJCebvWRLx3ImXdg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/j6Z5S0berVhXSWhOHTf75GkZW2XxOy5mdpVDakjQptDjva8QgHuPs7pvg2_gfjNJmvuaOGWQES3mFXhMWNdA9j7uifAuouXdnqSqhdqm1sf4_7afPYfhZ2d8gIV5z8A-kHtzwYnjmgUj99TQkvAHOncIlKXey3a6UktbyyCCmImM0446mCz20d2ljQ4aHlbWZrrLJZvJ_HSlZ_bNq0KPAZL26IthbMG3k76rQZ1WzuKialMF3JxLrRr6Ze1hsV31j6cNYLEDHMcls10Eguj8T9h3oR_mhEETE_fCBlXtBmBk8mEz1Fw8WdPbadTZUBE-OIGBznMDyUebU7_6emBU9A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">انجمن تجارت الکترونیک ایران یه بیانیه داده و نسبت به تعلیق دامنه فوتبال ۳۶۰ در رجیستری ‎.ir اعتراض کرده.
 اصل بیانیه قابل دفاعه، اما امیدوارم برای کسب‌وکارهای کوچکتر، استارتاپ‌های کمتر شناخته‌شده یا پروژه‌هایی که بدون پشتوانه رسانه‌ای قوی دچار مسدودی دامنه یا محدودیت میشن هم کوپن بسوزونن.
 🔗
@@ -1246,7 +1246,7 @@ slcyber
 
 <div class="tg-post" id="msg-2499">
 <div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/paHPrJ0f7j4fj8KaOpRhulm8QuYhN4QqxdD1a4BCDTReZDuVrMQNbxVcm4cmHrwylx45o9UzRWg1uToDuM9YE_vdjXv0RZBIWgshwuNbkLtNXXOk8-_sUFv8D2FX3DIIs27NYtQT9gYT-elPxanWN3OPPjSw5kluDHzKUY4qv1rMupo4EPBGckpgxZZgCLGAr7MwPhSymuGaqXgME9RQ_yAdiUM356tkcD8fCE409OogOBw_f8JacHdkEPX7YmMxszaJSNImbl5GXvEhI8lXLXZ6z9a9DAMaCy36z6R-J6bgmDS7P17IuT5oZBnVKtSKfmqUbFLe3NcCieBaiNrghg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QdlqO1SThFgByMHTal8q8RZnlAtw-077Keq9CAdvqzP0PqdlrT1qdFZcd-0tv7f3xcXYQA4_-GKFPEPtvkMDeXcaAffXDzYGGMvoo0JRJnxrM0b7vFlswG1tLrEA3T0BwU9tnScjysuSaf59yfEQ7X1xwNZxuKXFh4tLzgzCpW3sNP_0eoqK_6D0JI_lS3ELEYeVLw6Sc0FNRVtyheGkcHpX-GCdM-_w4-hsVcXZRVdw9FS5vBf2w8poWV8Zr54jp8flGZNbyu5SarLNY8p2EqJ7NdKu5kGja_jDJByaCM2kJgDNDr5Xyzd_Gs6FjDBxDgDjavq_hOoA5Vfepbiewg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ dicodePing یه کلاینت متن‌باز و رایگان برای اندروید و ویندوزه، که مدیریت و اتصال به کانفیگ‌های مبتنی بر ایکس‌ری رو راحت‌تر می‌کنه. این برنامه از مدیریت سابسکریپشن‌ها پشتیبانی می‌کنه، می‌تونه بصورت خودکار بهترین سرور رو بر اساس latency، jitter و سلامت اتصال انتخاب کنه، از حالت TUN/VPN پشتیبانی می‌کنه، آمار لحظه‌ای اتصال رو نمایش میده و امکان تعریف دامنه‌ها و برنامه‌های خارج از تانل رو هم در اختیارتون قرار میده.
 👉
 github.com/mcodersir/dicodePing/releases
@@ -1321,12 +1321,12 @@ github.com/MatinSenPai/Aether-GUI/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/ircfspace/2495" target="_blank">📅 08:14 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 37.5K · <a href="https://t.me/ircfspace/2495" target="_blank">📅 08:14 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2494">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HqOw-CZPOBD8nfK2dfP6E8rhTX5B37fuVR7q6cYVGNtrOf7rBt-65kNJnSfkTd5iSqOYnS9bji2E5MDQulqgGWd81zzzTrq1_zS4TFtcoN68xb3yKhamDa7n3skSzz5fF54eBxWQvpfYbJlKwVvFUQCIbUDdt4GacZJ7XnNLOvNDI0gmlLpMympaHmL-rXaAQF_prwXLpb05_XXqmDc_r0NZVtsW3xKKpMgsoMAiUlQCQJ663MDjknhuNczotOrqXlKrBrWhiD6dSL1P-QAZx6YIN5UL3M6qX8z7dB1Nr4Ex72xfo9n5Y1rT7qIPaHXLkjEj6jc74S9zNq5QS48d3g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Bo7PEDSpK3oW0VDucASJ6L4e3t7Y3MtN6QRs1U8gBNNCzI7a-scotQLUSJzQczi5K4C4jniAVgrQjPXxBxX56rjGQVNpuIboDJATiGbY9YCnMSTv8q557zw3zQHqZWLv1_NjZADJsT3fGVgMjuk-UDWbp7O5QZCptKXPUs-QCseOQnweXjpaTkeGP5bln81E7HV-XnscjSBK5fBAfe0wllAtkd3Gh6bacAnHwDKbGFu8YyTcsQXWoSgUtPBRmpGD-PYXz1bEdO1v_ORBmSguRGoyw3ys3r7ndl5ADYNsWCOwApylxpcj4zOpGiKgt9LkLcVsO61iRs2W95lU-wDLJA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایکروسافت در بروزرسانی امنیتی جولای، بزرگترین بسته اصلاحات امنیتی تاریخ خودش رو منتشر کرد؛ بسته‌ای که ۶۲۲ آسیب‌پذیری منحصربه‌فرد رو در Windows، Office، SharePoint، SQL Server، Exchange، Defender و سایر محصولات این شرکت برطرف می‌کنه.
 اهمیت این بروزرسانی صرفاً در تعداد خیره‌کننده آسیب‌پذیری‌ها نیست؛ دست‌کم دو Zero-Day Vulnerability پیش از انتشار Patchها، عملاً در حملات سایبری مورد Exploit قرار گرفته بودن.
 ©
@@ -1424,7 +1424,7 @@ AdelTalebi
 
 <div class="tg-post" id="msg-2488">
 <div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Un6ga2wJfXBj7Ni2Mv73Md4t2UL9_UjH9XZlUN5hELc6oqf9DWo_ndu_0W9hTOSUuGZ4NgfCtD_NOrkSv5cWJhadxdYpmJpP5b28c9f_d9A_oDzvKUgg2FUowIUEZdXYYKfMAopdTedwwlw54ChVSSoq9P6ygiX2haxdKTsgLLet3PtBUO_3zJSorUyGyv7OBy92DgD2osswAW0y97Iq8UZz2dX9W_vbTzP9HJxvuTFurhpdpARZH-pULBrk6FNwaGE0dKFXrKDPAQqea2NGKP65IfMvegKniYyYzILnsgeqeYlBJS4benTZWqaqPJUJhgDWOCeQN0JZeKPEFCSaRQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tAZQHPzoqy86_zf0r0gk3M2oglHnf7p_catpXijEPfMxrYBBuO74K5GD1sNBmHxLJ0Dex-NujguRgjI10iI8NSr1_xTULfY6egN-IqZ2e8aupoi1ECb9cKhIsmbdwTeGPe1uo2zjKp2iFHZxgNyg0Hkei19NoS291WWRDqAUMmT8BGWORI_X86uxy5ecKkdyjVDW7G7ZURzF9b_-nzGIinMOOS2TzLClLcqaLTfiCYbucp6eMDr0XbHE_PtAsPVfHHov0r_oypCmvt97NraD6eacvrY9G2cziJOgb3OZgc_7C-0ZFz0714KPYMIvlW_yyJwBgFKEX0TdRkPXDc7wNw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پروتون در
 یک مقاله
 جنجالی ادعا کرده ویندوز دارای شناسه‌ای پنهان به نام GlobalDeviceId (GDID) هست که میتونه یک نصب ویندوز رو بصورت پایدار شناسایی کنه. به گفته این شرکت، این شناسه حتی در برخی شرایط با وجود استفاده از VPN هم میتونه برای مرتبط کردن فعالیت‌های یک دستگاه به کار بره و حذف یا تغییر اون برای کاربران ساده نیست.
@@ -1469,7 +1469,7 @@ IRRadar
 
 <div class="tg-post" id="msg-2485">
 <div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OCvp_RkUq9xiBciUt-V0kwHgf_OjLdLT3X8KbZiYgdR8NdOJwgHYIccgleYU45JDRqdwbSv78k-0YCyl_roQ78h8YqxF9SHIT1ltFJX_rgym_05UdrlMTZYhSqiR6hil_dtVpnH_fOcfoznoOWo7r3Pwb4pCaBktwXX5K0wOEjZrAeDRN20V0BrD9dvjyhdPXuayR3dnGlOGbR9ymX_Igqcyn3wWFIf5uxoVpTHHPG7jxXoXk2AAK5V8Ruvyv7lRXSor-mC7ovAwqe7JJb3JWWmZnDk8CKvYvyyo6rxYFPk4GTL4siN-ke6AB57h04lC4YZziRV_2UeIQ_XJu6IVCA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NMQqDE-8t953e7LfR5-7T3mDs0KR035hSXlSIcmXIwV3baDNLbJ3h2elUDpuj9l9dcE7_NbyDs5FcNXFI3_GiVyeu-NSHHWYkjXKk1EhlE1sMjie09lm9yGPRhfcgUrs4eXYPmHCD9eKNkuwTg0VtSyC2DE8Qd0DeLaXYXPS9YrTsGRFidxlYo6FTve5OZGH9ePe1OViI6aVVCN1TezdFiGBiCLZCTFmcvjXf1S2LzXJiUnHcNOW353XN3DoMU8FDPwPdTlZK3EZ0YwAiu-mZItgD8HyVUa88FbCKHgCJVQFhLjvNlNlF_hKYkec-JrfDOPk3bJhES3HpOXMLjxxdw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فیلترشکن JumpJump که بارها نام اون در گزارش‌ها بعنوان یک اپ ناامن مطرح شده بود، حالا یک محصول پرریسک دیگه با نام SpeedTop VPN منتشر کرده!
 این برنامه با وجود چند میلیون دانلود در گوگل‌پلی، طبق بررسی‌های فنی پس‌کوچه دارای موارد نگران‌کننده‌ای مثل وجود تعداد زیادی ردیاب، درخواست دسترسی‌های غیرعادی و کدهای مرتبط با شبکه P2P هست، که می‌تونه دستگاه کاربران رو به بخشی از یک شبکه انتقال ترافیک تبدیل کنه.
 🔗
@@ -1534,7 +1534,7 @@ github.com/MortezaBashsiz/nipovpn/releases
 
 <div class="tg-post" id="msg-2481">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nUVxC8EA8jqEIs9R1zksPizGJKRt4g2w2GFWCqi3Zsav-qs0cgqOplzxDO3e8KtlR2QR6_8dClVDutJjQvAG6xxEcSIF3O_Id9ivb3RXKbVxzY8bcHXXJh9w0Qm1sf4KLMbXadp0-NEkJbUnoKbYWRxjrLIywfS_lyGb6o113ZRcXYTskmd1Zynb3zGyVAmlV0Ipizvu6i_17HuFQN0TCaoVDLSqReEsCFb1T6jMqUhp4WBzU5k_YbakW-nXo-amVznT9OpmN28cAQBF7qnsbLALh9TuOlwWVOUT4y71kKg07P88eJ2tFjZh6ylMwBi3xn4l7_sXLJWttm7kuxjv3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gsrOfOuX7_JIWKEv7AhGM-_i1uBJyaG-KVdMNov8JAKSGebTH4opgfefQMswktTUW7KUbN4oCng4SaaIGYj5noDFHm2fQv7pZ6YSZuCp0K1SzkAs7QVTJbM6F6hZ8pT6bwlXUtBdIIMKSJHJL6OgTApWOcaoRTXVzlIOXdaLaLBf0PuphRVC1JuwJJERkDpt5hXDyFIy7rOyALoPy49HF4a3M3S04TwdW3yDEipejVfl0FBwIgR7OjAsxpmfx7AUcT9fbMmZxvlzCkg_PQpGifKj0jv-YC7D30afJMZqetGh9qaS3SqgB4Qc0uepc5LEttrvcThT5E4EPdW_uLQ1lA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ابزار BG Scan یک اسکنر متن‌باز و رایگان برای پیدا کردن و اعتبارسنجی سرویس‌های شبکه هست، که اجازه میده چند مرحله اسکن رو به هم وصل کنین و عملاً خروجی یک مرحله رو بطور مستقیم وارد مرحله بعد کنین تا فرآیندهای پیچیده راحت‌تر انجام بشن.
 این ابزار از پروتکل‌های مختلفی مثل ICMP، TCP، HTTP، TLS، DNS، DNSTT، Slipstream و Xray پشتیبانی می‌کنه و علاوه بر اسکن، امکان اعتبارسنجی و مدیریت نتایج رو در اختیارتون میذاره.
 👉
@@ -1568,7 +1568,7 @@ kaveh.yebekhe.workers.dev
 
 <div class="tg-post" id="msg-2479">
 <div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ASIOOStc2d7F6TPwUcP7d-ho_p4IZKBVeEZ1ZRSZ5O8cOaJvoAVmw3ERcQd-9se6OpCM3FI-WEWxr-CifT4Ki3omhwNLR5yov4g_zo4DQxAVFHL-4WV40Ltt2GUgoO6MLUOl_lSdS7MUfHz-V56z8_y27zci00_fpBYaGw9fqQhayVB4VpQfpmenzZJqkMeUsgWEC4KVoRiHc9lGpVbnwoO-gVX8-_CW4V6a-ufo7zE_YLz4F-7QeK0sj_XSWbXs6Sb3jjrLB2XXw-htLhZl7DWEqGJ1f4paq2zlxLGi3bdK6Jr_AT-KMEjGlDhN5nhTkTckShB_sXFWv7SE-u37rQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cC7J8wwA1RV_lHxUy_7nRTwy6bFY9ctC7YcCgISASPp2-CxzUQKLFEE693rUO7KOs8rTDyZetdAvVNeq_JFbw3Zxyiknb-CS_KTdZVl6moQxjokDuJXdf1YKvZNbjrBT8LQqON7HjiK-ir32ij6dhppssPhL9a2_IZ3mzCkc_OFBNy2TE0Fqq16q1SpFJh2n950AvlyjW5d0SVKjxmtRMT0dRFVR4mxD89vlMjzt8PTXnazBpIR0ULewRBALvjmCxfIwuWlc8WegJdidFLCOu5zxENsVnrBLBBsuqz8he0b9SIpAZv1vmGVUja0T4YpDIk3ztIg2VFDCl_4SpWVS8w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای ابزار MTProxyMax آپدیت جدیدی منتشر شده که توی اون از بهینه‌سازی‌هایی مثل BBRv3 استفاده شده تا عملکرد سرورها بهتر بشه و مصرف حافظه هم روی VPSهای ضعیف‌تر کاهش پیدا کنه. همینطور در این ابزار که برای مدیریت پروکسی‌های MTProto تلگرام روی سرور شخصی هست، قابلیت‌های جدیدی برای مقابله با DPI و اسکنرهای شناسایی پروکسی اضافه کردن تا شناسایی و مسدود شدن سرورها سخت‌تر بشه.
 👉
 github.com/SamNet-dev/MTProxyMax/releases
