@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 13:25:50</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 13:50:01</div>
 <hr>
 
 <div class="tg-post" id="msg-2893">
@@ -336,7 +336,7 @@ https://t.me/kavircloud
 http://ble.ir/kavircloud
 🌐
 https://kavircloud.com</div>
-<div class="tg-footer">👁️ 5.38K · <a href="https://t.me/iaghapour/2893" target="_blank">📅 22:55 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/iaghapour/2893" target="_blank">📅 22:55 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2892">
@@ -365,7 +365,7 @@ https://kavircloud.com</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.22K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2891">
@@ -393,7 +393,7 @@ Ad
 اگر تبلیغ‌دهنده محصول دیگری را به شما پیشنهاد کرد، این خرید ارتباطی به تبلیغ کانال ما ندارد و مسئولیتش با خودتان است.
 ممنون از همراهی شما
 🙏</div>
-<div class="tg-footer">👁️ 7.55K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.59K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2890">
@@ -406,7 +406,7 @@ Ad
 ارتباط با ما
 پیام بدید تا مشکلی پیش نیاد.
 🙏🏻</div>
-<div class="tg-footer">👁️ 8.34K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.37K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2888">
@@ -430,7 +430,7 @@ Ad
 توسعه هوش مصنوعی تنها متکی به مراکز داده داخلی نیست و نیازمند ارتباط پایدار با جهان، مدل‌های متن‌باز و خدمات ابری است./زومیت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.63K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2887">
@@ -461,7 +461,7 @@ Phia
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/iaghapour/2887" target="_blank">📅 17:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/iaghapour/2887" target="_blank">📅 17:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2885">
@@ -830,7 +830,7 @@ Xray-core
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -864,7 +864,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2865">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QcBJZOl3HTb0koXq2fanBiR04i5xG6XNAdcm-xtxexmDn55uqyrNiOKEuRVRDK_9N92p5in6oM9ZXA5Ozs8-Kro-hq_9XPsbNy9GfYWo5lJ7VJQpZhwaCiMwlXvQ1UoTqWV7JW6wtevVlXtAGRfOX6L5IQ80uzR_pFTdiQYqmm2F9RQMWE0o6mk7OcERiEprZIh4lmYA3-P3_OItvNhgxdBugHIKjzSKo255GZfJr5wTJLPIf2JcjgsCn8CAHvUltQFmfHF5KTPk2OugpqaM84WGdvAVhKQG4vOd0u1dM_efe2Sqj5d4O8GVS0LOkzA2a6Nb2I8mnAO4_zcSKmwsqQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FHl16qwmpMeeiIcoiMMhKDw7Gkv14bDbjnjCit9smLsnqyV-V2n-bQ3gmvwTOu5MYfUhBNqpOhrGZLfrQy3L5PR99JWjL0Xq3B5nWmWR4eJeZb4nTewnQGbXMne5xLGhagpMtC3ToFwd9-caouup0EMkNrt6vemRlL2cvMcr2FzPnkOJoJb6A1LvkRUj3J9dc6bhcCXBQ5Wpveyz3CtvCeIb8bPSEJGVlz7B-NsisjvC5PaOpbWODaCJWTC59OUK4z-H7kC4V3ppVycf06C5aIB_RmfDvVVaeQpHNWLV_cy_9LYfvK5TtroNXLHcBzjsLRn2i64mEPO08lJNYtYqOQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Amnezia Web Panel؛ پنل وب برای مدیریت پروتکل‌های فیلترشکن
 پروژه
@@ -1236,7 +1236,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2845">
 <div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QxeR7DeTm0OOzU157bU7nvUex-KjcdiU6wJDcxJ3g1ZhMoMB3OUDWXHvkfU_rcl1mTQy_pgZg-n74O6ACel2b-g3jN1EikEhw4Ul3T7lDtP4CIGICVDjbVpTG07lhcJiNsjGXhSn8p9OXB8osZHTzUjfKmnCWeEoQznkLme2yUoFWSo9WHobdu9450Cjd72D2qiQrCuodR5NpOKfTJ4G8g9mWf_zeGTfbUBczAHTQMP6xPfVPIgzrR5S4u2TtT2xhgRRRDsBhbL4awr_xNF3zbXBGO4RD0PjaP96HbyHYYm3RkB_msWdDk-m-JDFJCi5Oy_zZBLE_ANKSS6xgSqU5w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Pf9RPnFLpFWLiyi206NBf5PxqDMfM6H4r5-al6F3Ohvao7S6-sF3DvWYgApPLccdWssduoJv4wqVzJ0Jcw_cmWiasvpTnPXasi3ibHg3TYey6A-CPOHMQd-WOOhxaHuaRco9uDK6-_As0MHs7luw8Ob6x6tIl8_R-JcJSlTMR5B8uGfvZgeSjQDapliUablsX81AqO7yekMP--G2lL9zRBs2Te8XynFQSUvdP6U7wbF6TIhHEtJ5WNlAm4aJe2goUyqWPE9-2i8BcSedHYw5IAk_byYg-uZRGpmOk2ek9hkNPczdbOcAP4LkYUq4TTM60WY2XzGUz8SH9_-XpUK3Ng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 توضیحات ایرانسل درباره نحوه کسر حجم بسته‌ها و ضرایب مصرفی
 ایرانسل با انتشار اطلاعیه‌ای، در پاسخ به ابهامات مطرح‌شده در شبکه‌های اجتماعی اعلام کرد که کسر حجم از بسته‌ها دقیقاً طبق مصوبه‌های سازمان تنظیم مقررات (رگولاتوری) انجام می‌شود.
@@ -1292,7 +1292,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2842">
 <div class="tg-post-header">📌 پیام #64</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IH-TKHuhB1hFuiBGkj66IRlICdqf5IQfCf_b1yYogSRX6df6RMAVyusH5OKUDo3wS8w6tyrXtuiSRyJNhsnB4mq36Enf9gXEV2tmVoZhv6zYn_lynvVWyHI-pw2Wv00CGobXy7EaFnL2jrzefIiw3BjB_K1Ch0aquu1wOjeJBaiB-FHF6DSmSMAKbwUlQh-qNpHEDQXq3lEb683tZnUniC-HilhD1LJ4nmFxHGhaRxrIMzzgzDsVXWNOtuWUQSRQvxkgVsXqhxx97ZgVSArFgM5eBi6-0OZP8zTGk28Dlz8_T53r7AI3QtZvOxFtJVo9YliElrcf7tclBplZKP7ETQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/wAK8vM8MYy1TaeYJqBf_XVPhJSH4f3YyePeisNrLK1xoK8iXwIKLERmK9VY_t0no5rY9ajdt9EejLT7vdqWVsT1PdetuJwxOVA9Sk9ACa3H4IophhuCEk3vNA97PiVJXfVnsgp2RF4ZemB99dcFJ7Aagtmj5ruD9_i_F9rrXn9uu5sywCs1WBGr7HJJzWS5_zgLz40fECad9SEqjlB_a69RnJNzozvUFuoowJCC8twAADtrA-CWemiNYiQyeU9CYDh2zAxywcJSAjcLItBIOacsLvmccxshRwg-ctnsLq_5qa5KdCFQuY7nSkpicCnzejr1SAGCkIiwK1PYkTRVYsw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 دو ابزار برای مدیریت پروکسی‌های Psiphon و Tor روی سرور لینوکس
 این دو اسکریپت ترمینالی، راهکاری عالی برای کسانی هستند که می‌خواهند چندین لوکیشن مختلف را به‌طور هم‌زمان و یکپارچه روی یک سرور مدیریت کنند:
@@ -1351,7 +1351,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2838">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WJIP4v4EBBRJLzlFzHsjismQyOKbIOhxsWgttZmxkccdNX_-kGImlhmRiwXtWhMs6OGcicvMGT7pRxn89hmnRtkeJknX2RvSjoxFSr30UIcAGYumgWHlaP19IZL2-MGj1IRayPRB1JsfgTPebx-cXKjfCCLRH3UIhWgsAgu3dHPJWHEBzJCz-vc8VHr7ewqCGMn9YH6q6SXDf4lftqgwY-m9jZbL-n_oj2duR0J3nSGBB1ng6XoYluUZ6F5geIhNKI1UV22yOOsDiJKJrKk6NBF0hC-i9UTGr4ZvGe93SQRGVVbj6PE6YtDptqAznb9lCh4kflczAqD8ZXqISJZw-w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RaN4y_kMhSCeSpSEwuAVgypOHszrEbow5kbbXXpVvjlOjYmrrU8P8JdHG25mWhGBFpG4U_U7auAQcMWLaRZmuZ3DrrFrnMc93FlPNy4iIkkF31SfoeRz6n1fXrO9AMs4yod8LG4RUilN2Ood_2BHLRErIZR1qK3plei0FO6SunrkX9aqZbq_xw5j7Rhm5DFnlBqok38VGhbw1Sp6IPJAyq7d6sbif67ittC70nC5QtWne1vy5uk2amtTND3yuoMr_wU0deWKX8MMmI4cpMk6rOrEdluVJqBm727EjurUZv4E1PePwILV5x-vg9LBiO4-tTwMOBs_hnsuK-u2tfdnPg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی کلاینت جدید Disruptor Proxy بر پایه Xray
 یک کلاینت پروکسی جدید و بسیار سبک است که برای سیستم‌عامل‌های مختلف توسعه یافته، اما
