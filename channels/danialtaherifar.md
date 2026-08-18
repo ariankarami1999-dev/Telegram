@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 09:02:39</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 09:57:06</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -339,7 +339,7 @@ z.ai
 
 <div class="tg-post" id="msg-947">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M9zvJ8tryJUH3ficQQo2erbXuKFBq8RiryvsWIgeQ5gsyuUEkzGnTfMqUdxjJh22MJiILrjbZuNVc_ErOUkn2ARmidV6einBUPFvDyVSfqdQzOvteVDDlF0_nXzaW-PvSz4nrxvxJIb_iq8ylkV67o9Q7rvJbDg2r1BL1wZY7Se_Gptrx7NH23bb97XIXq-gmFfYkoOGachYHeAWgdAXDV4h9j9zEKkSnLjNPBsjhJv2UZjml1xZJFgwqYusJHNXjqql6EY6favhB8pSJioeMW5UYhs0aT0mpXMD7PXofDgNSTf7UDDmUV_tTz9rCZSEE67vITde_TNqH9NLR9HMHQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/grXpPWLrcE2D7zs4gpUU8ZR_Khs6oNCipJ2mIyJARaOJVG3RPkrfde-2Gwhx1pDm71kT-Wq6A2YABUIlMKtzvbuQzBAPBhukAT27-Ys7UMyvh15Xd0K5PuSjwBFXRUt2D2cac03QMoWlW0NvNJvZEkX0JV1vyqomknVjHBB1msA5Qvm1p6_XFhjrDwa9_4lCHLsjaQk-603WvfCyO6jp_9FxJxzGWl0Cg1Jqli3c4p7rFpE12dztk3topUzDWFesbDnqvV58pe7wKX8LKs-uerTiZypOPs1T97pGbvdypbgihB4VuSDLTpQS9pnamPf9QofWQkh3ixIlYoXT4GwalA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 علی‌بابا هم اعلام کرد که مدل Qwen 3.8 با 2.4 تریلیون پارامتر و به صورت open weight به زودی منتشر میشه و در حد و اندازه های مدل های سطح بالا بعد از fable5 هست.
 خواهیم دید
@@ -370,7 +370,7 @@ z.ai
 این اتفاق بسیار بزرگی هست برای مدل های چینی و ما تحریم شده‌ها از امکانات دنیای غرب.
 من تجربه کار با GLM 5.2 رو بعد از بسته شدن اکانت آنتروپیک داشتم که اونم سطح بسیار خوبی داشت، اما قابل اتکا نبود برای تصمیم گیری ها، و الان امیدوارم فرصتش بشه که kimi 3 هم تجربه کنم (اگر خاورمیانه بذاره).
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 633 · <a href="https://t.me/danialtaherifar/944" target="_blank">📅 01:14 · 26 Tir 1405</a></div>
+<div class="tg-footer">👁️ 634 · <a href="https://t.me/danialtaherifar/944" target="_blank">📅 01:14 · 26 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-943">
