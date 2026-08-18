@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/FKMmGwMbzs1rIfKJVf73I16n4a_hnb4lfQI1wmqxmrLkD1lEG_gbcsK0AwLIlHOFj-VhHE49pnL_HuzZvE0g77bPkz2-Rgkr-a_Igv7aLxijyx0lGWqcGQmeSGCnrOE-qNplPWGxK-gQGRwVdPPCncF_9qPtyypt0hsi_07QF0Bht65ijsoXNphfRYl5bJg_WNN49AbEceE3SnFbkdl_zXfpAFizSv1wpqe7QtNBfh-ma5aFb6bT8J3L3lEKyUD8jObM4rgxxnpSvHN4LLLML8my_CiR1-11RRN7velFCUZ90mzZsRwNFd6RKIg4cru1bE90o_MvR1WPYJvPigUUlA.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/jPKJEaWI5txceU4RpJEEtB_UWpCgXsh7w6Hf9LAm46t2LP_TPwOrc5a6Y3FueDdXA17Ep8Bpzm6VYKI_iITuouzzF6y5bg-zJfoXsUywYsbObmPX8xjwucQKhhZr0xYx5pT7zgO-dbNYc13UE9UyZhh5LMMyNUtgggmzeWlG7_IIgAtPlxKDvtFdj_oaPY_ycS8bKJlFQrXySwzNuAU_SGbnSC3hRN1VB_kw3i47xvB_wlGsOYw5x2BScuOitgYPRE4rWdkLa884W7wFQ14ylpdvlbmjBMS8qgZRbvdB5X2Z0zXzskmCaEuLv2jnPLL1WjPb21tY5BAQByKGKsbUtA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو با محسن طاوسی</h1>
 <p>@mohsentavoosiseo • 👥 7.92K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 01:42:52</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 02:17:14</div>
 <hr>
 
 <div class="tg-post" id="msg-903">
@@ -331,7 +331,7 @@
 https://t.me/mohsentavoosiseo/511
 این ویس و ویس پایین
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.35K · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-899">
@@ -349,7 +349,7 @@ https://t.me/mohsentavoosiseo/511
 <div class="tg-post" id="msg-897">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.23K · <a href="https://t.me/mohsentavoosiseo/897" target="_blank">📅 15:40 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.24K · <a href="https://t.me/mohsentavoosiseo/897" target="_blank">📅 15:40 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-896">
@@ -369,7 +369,7 @@ Ban
 #بن
 #ban
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.01K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
