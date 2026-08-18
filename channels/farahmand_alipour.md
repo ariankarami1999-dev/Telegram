@@ -291,55 +291,55 @@
 <p>@farahmand_alipour • 👥 64.2K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 14:23:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 14:46:41</div>
 <hr>
 
 <div class="tg-post" id="msg-6603">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iZ7DQDTQ8jIkQku3LuFiZF7kwJVXVqgX2EH8Q2SduMy_ytOtua34SjHgivXvPtb_qpGmFpFycFFxahMnpojIbI3YuKeDEgbqI6Q6RozwtwUySYRxr8kgVbtYtSuqiRiKeZzmL1BooYt8Kz_dHO19ZxbbO-KvQ-6n3BaquKIBqF9Fof7R2WQljWcxdjD6SunonZ-iNHUoXuFaDNkPauNxJfIBCNUqr7TlbeDPNFqJ4GC1raSJrl9GtgkW55ALRXASD5P4PNnPtFo7sFt-Pdtehl3uoT660N_R-WFdZfXPfRcXRYtUSvbRNBB3MMPzeDH9WQM0SzWWzvEBPhJs7L34hQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">انتفاضه «قیام» اول فلسطینیان ۶ سال و انتفاضه دوم ۵ سال و ۹ ماه طول کشید هر روز جوانان فلسطینی به سمت اسرائیلی‌ها و نیروهای نظامی اسرائیلی سنگ پرتاب می‌کردند.   حتی «یک فلسطینی» دستگیر شده توسط  قوه قضائیه اسرائیل اعدام نشد!  حتی یک نفر!  اسرايیل ۱۰ سال در…</div>
-<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/farahmand_alipour/6603" target="_blank">📅 12:53 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/farahmand_alipour/6603" target="_blank">📅 12:53 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6602">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iW-7nmpeRx6wwP5p3vXk8EVWDmd2kqBTxTBfXooRtICddMpMh-G7WSC5JyDl03yEiLi3vacFerh2AOMwLgyPnuQWRSgPuXOaDl-wM386iDJeIsODd3AePdjfDxEph2W78G5N0UWdMRyUqx-d_GVJJ72GsHFKLAU2KonAg_B8RoRxSejd5_WdtVqNxmybimaHzisQuSOMVwYzhfuuGWxK4oodG1LTT6K6XyaV9uOvvNXi_IvGtUtyGrb3AvxPXrejZSrWFy2gZvTn1n2dppRMS4XXGZKy7Mg20y5AvlNKfDfEGPX8gsqCfyZUSA2Apz8o1kYl6Rbw2hUq4rKhbZaL_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وقتی «رزم‌آرا» نخست وزیر شد، مصدق که قدرت اصلی در پارلمان بود مانع از این شد که بودجه دولت را یکساله  تخصیص بدهند!  و بودجه دولت ماه به ماه! تصویب میشد!  دولت رزم آرا تقاضای چاپ پول کرد،  مصدق مانع اصلی شد!  همین مصدق بعدا نخست وزیر شد و مجلس را تعطیل کرد!…</div>
-<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/farahmand_alipour/6602" target="_blank">📅 12:48 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/farahmand_alipour/6602" target="_blank">📅 12:48 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6601">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Whoddz3aDTksKRjFNULYyHQ_W9IOelnUazusfxtUZtrRf9_IEQNkphsm-bKK9dNkt56p6UYFP2HOZDa2twXPUYCaKWJu3tbNycI1E8WVQ877il5DL-IGrYN3uaW3KCzleSAiRT3Wh8vQYh6jTRQwRYsjHAwngcDLVMBWQ0yoyulEHgqP-y8E2CGzohuCTVyIvmzICpcaJPPoN6xXy4mspRwhjBo5QGB9HSNku5AuViygcdSurRs-tHbQIJdVg6JBt2A5FrYNHXyDnJ9SY8m308Ir25uNQiOLhA9d0NGX6L6e4jsJjGD879u8NqFtAUiF3rkQret4laDR8DxbNgAMew.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سپهبد «رزم‌آرا»، کسی بود که مهم‌ترین نقش  رو در سرکوب حکومت خودمختار کمونیستی  در آذربایجان و مهاباد انجام داد.  و چند سال بعد نخست وزیر ایران شد. مصدق از دشمنان جدی رزم‌آرا بود،  مخالف جدی برخورد نظامی با فرقه دمکرات در آذربایجان و مهاباد بود.  البته که مصدق…</div>
-<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/farahmand_alipour/6601" target="_blank">📅 12:38 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.8K · <a href="https://t.me/farahmand_alipour/6601" target="_blank">📅 12:38 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6600">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XqUpOTChbpkKVW198y5yBrBjTKcMmaOtvxTiLX4olUAB1SuQwnEhRz7YM1h5V90rxsO5gnOgj1biTsUmglQohFilWWKW_sYgVYyuiFLQApgWjc1RHlnG3sraXTuUNiOi5zQjC_nA4qoUPmwqc0PKtwl9ZRXB2a0WdSBWDUwVEgZOj83s5ftbLO0AX0s1dpvpyiPub8bHP7KP1f1QNLdolsryY0UDyYS8OherbXSvVEb7rv6vuEIDcDwmAO2BOOLljIgZj2SLu0ZixxKFgV-BzspGRhl3BOEG_jXsozEBlCbHUCzVSdjeMpyegnQm5y1tD6jRk4fpPR54ZeJi7KrYuw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وقتی میگیم بر اساس مالیات بر چای و شکر و قند، راه آهن سراسری ایران ساخته شد،  یعنی چی دقیقا؟   دولت در سال ۱۳۰۴ قانونی تصویب کرد  که بر روی هر ۳ کیلو قند، یا شکر و چای  (۳ کیلو رو اون زمان میگفتن : یک من تبریزی)  ۲ ریال مالیات گرفته بشه.  یک من تبریزی ۱۰ ریال…</div>
-<div class="tg-footer">👁️ 5.44K · <a href="https://t.me/farahmand_alipour/6600" target="_blank">📅 12:32 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.98K · <a href="https://t.me/farahmand_alipour/6600" target="_blank">📅 12:32 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6599">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NdjeQ4upo_bdFeTk6OhAXjrZJfYle3CavKJzSC6ZBn8qRH0wvJDD6SgEj4pxYpIzDmnWlmM8W_SBoK0Dv6sBczXLIzt8nSfHFxN6chsuOqMMfGzst2qeGJYvdRXFbubUR9oQiX9Lc8NBMipW3BDzCfarixE2qfD6rB4r_WuqGDjJkWtaABzuaWbZToeFvdnoweCWhuJo5CLvKXYsM59L4dT7DAslhQvUJlxtHveGux1UwkSGrrG_waPLdnSRhJXWcQNYdjQZ9Zv__AvNxleS82m2iEx-Gp4_nO9pGMClLtH3cCYPRl_XkwSjp3HmkxG59SXj3Kxcj_cAC75eUvW3FQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">راه‌آهن سراسری ایران، زمانی ساخته شد که ایران راه شوسه  درست درمان هم نداشت!  زمانی که حتی قافله‌ها و کاروان‌‌های شتر از دست راهزنانی مثل «نایب حسین کاشی»  و خوانین عشایر در گوشه و کنار کشور ، امنیت تردد نداشتن!  هم قافله لخت میشد و هم افراد رو به گروگان میگرفتن…</div>
-<div class="tg-footer">👁️ 6.23K · <a href="https://t.me/farahmand_alipour/6599" target="_blank">📅 12:14 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.7K · <a href="https://t.me/farahmand_alipour/6599" target="_blank">📅 12:14 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6598">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">مصدق پیشرفت را در آبادانی شهرها نمی‌دید! ساخت عمارت و هتل و آسفالت و آزادی حجاب و…..!  خامنه‌ای وقتی از امارات عربی متحده، و پیشرفت‌هایش صحبت می‌کرد هم  دقیقا از همین زاویه انتقاد می‌کرد!  میگفت : این‌ها که پیشرفت نیست!  حاکمانشان «بی‌عرضه»‌ترین هستند!  و…</div>
-<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/farahmand_alipour/6598" target="_blank">📅 12:04 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.9K · <a href="https://t.me/farahmand_alipour/6598" target="_blank">📅 12:04 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6597">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VbsU_ttp8hwV0xu_c9t9VtMvz71lXc78Q94EQ9TvQ17J74o4h6RQ2zT3J-QFwV_F3u65RAU07oQuoBqEfmeQ-R1EUNAGjyK933_p4508iWKlrvzYtNXnPkUevrx6bozyTXO7zoLpAIininvuh1mSrYEBmpLApS0llKqkRKGwG2kbHN_GQlfgfwLK2scRDC-CPa12wXPqh6S8qe5Stn6WnjcRdlOoALTSVbPTvFwb_n7DUrS0CRa6Eyga7qN5-vjDBPi9v3O05IR6i7635c7QmqW5byGuQPuarFLkl8L0RRd81rWYGJ61E-x15hseRB2S0B_pSKgyoI7b2-L1aHXP5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حداقل زمانى كه ما در مدرسه درس ميخونديم بهمون می‌گفتن که رضاشاه به خواست و دستور انگلیسی‌ها ، براى ايران راه آهن ساخت. ولى مى‌دونيد اين حرفها رو خيلى سال قبل از جمهورى اسلامى، چه كسى میگفت؟  این حرف‌ها را مصدق میزد. مصدق حتی اقدام رضاشاه در آسفالت خیابان‌های…</div>
-<div class="tg-footer">👁️ 7.01K · <a href="https://t.me/farahmand_alipour/6597" target="_blank">📅 11:52 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.42K · <a href="https://t.me/farahmand_alipour/6597" target="_blank">📅 11:52 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6596">
@@ -355,7 +355,7 @@
 او ۱۰ سال پیش از آنکه با محمدرضاشاه در بیفتد، یعنی در سال ۱۳۲۲ ، نطقی در مجلس داشت از آزادی حجاب در زمان رضاشاه و تغییر چهره شهرهای ایران و آبادی آنها انتقاد کرد  و از جمله گفت :« رفع حجاب از زنان پیر
 و بی‌تدبیر چه نفعی برای ما داشت؟
 اگر خیابان‌ها آسفالت نمی‌بود چه می‌شد؟  و اگر عمارت‌ها و مهمان‌خانه‌ها [هتل] ساخته نشده بود به کجا ضرر می‌رسید؟»</div>
-<div class="tg-footer">👁️ 7.8K · <a href="https://t.me/farahmand_alipour/6596" target="_blank">📅 11:49 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.31K · <a href="https://t.me/farahmand_alipour/6596" target="_blank">📅 11:49 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6595">
@@ -371,7 +371,7 @@
 قطر رو ولی حتی بیشتر!
 که اون شبکه الجزیره‌اش
 کپی صدا و سیمای خودتونه!</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/farahmand_alipour/6595" target="_blank">📅 17:29 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farahmand_alipour/6595" target="_blank">📅 17:29 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6594">
@@ -407,7 +407,7 @@
 هر روز پلمب کافه‌ها و... رو داریم.
 هر صبح اعدام داریم، هنوز چند ماه از یک قتل عام نگذشته. اینها اما برای موشک‌های جمهوری اسلامی قر میدن و میرقصن.
 البته که مردم ایران آگاه‌ترین مردم جهان نسبت به تاریخ و هویتشون هستن! خیلی!</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/farahmand_alipour/6593" target="_blank">📅 18:44 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/6593" target="_blank">📅 18:44 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6592">
@@ -416,7 +416,7 @@
 <div class="tg-text">هزینه بقای شما نابودی ایرانه!
 اگر اینگونه است که تسلیت به ایران
 و چند نسل آینده ایرانی!</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/farahmand_alipour/6592" target="_blank">📅 17:11 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/6592" target="_blank">📅 17:11 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6591">
@@ -477,7 +477,7 @@
 <a href="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=WzCulOzMAa3M__sFde1yW6jOkKbkcM_FQcQQ9CUmEBBG1JKqBz4TNuDPfp7ecVjFtCr-8Z7li0Rkq9Nu1ofd6OAJaYpqrQV3cSJd5KNRvVDW3byVbl2fMn8soPqVeSbaIKE4C7AZNmuLqe8nUzdeXQGjlqwBVaD62lzcMCuRyafwohN9qBcLFw0qHiHMvokrqcZrFC2fpxxMzL7tKsJqjC0n-yQWb-IhbYFMRVkjotGiN56O0U0J0nc9UqsnKGoarePHqHU09BxQ-oCj5ehzfz1HBYzphemMxJSQ0v953UGpmIEpQiegio2Nuu8Xr3YucTm9VxLSEv-rA03am-wzcA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">در روایات این دو کتاب، اومده که حدود  هزار زن و دختر و کودک یهودی از این جنگ موند!  که اینها رو به عنوان «غنیمت جنگی» برداشتند. یک پنجم کل این تعداد، تحت قانون «خمس»  سهم حکومت اسلامی و پیامبر شد.  چهار پنجم هم بین سربازان و فرماندهان ارتش اسلام تقسیم شد!…</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/6583" target="_blank">📅 14:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/farahmand_alipour/6583" target="_blank">📅 14:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6582">
@@ -587,7 +587,7 @@
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n72DEC24smR5L5KPgZ9_8NtKGhxMunZZJNwoJIAgV0jwT3VyxHqbbeYxm9AymIBnOSgaTdZgj-dobGv_cDQDCHsgAW7TXXCo71sgdFYLCVf2fINp9Py9V95A7Oyfij0nML1gabHC735eC70KftgfedykyFMn6ota-d2O47Umiv_djGR3SAwpuAlcsCRUzXQzPBcNvWckVjbBDtSH7_je6i6-PrJDyxg3BBKV0WT4RD4c--ApzzOekoEAGkUPh_x-_3ExyFuR7JC6Xgw9dbbz8qGb2TPKFl70Tyi9Re0YhLPTI5xYHAunD72nmvfjD7OLTS_B0PZZFpHC54cm7aSgyg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی از پسران معصومه ابتکار (سید طه هاشمی) به خاطر اینکه پول یک موسسه رو بالا کشیده بود (به ارزش امروزی حدود ۱۷۰ هزار دلار  یا حدود ۳۳ میلیارد تومن)  حکم جلب صادر شد.  سید طه هاشمی همچنین متهمه که سرمایه‌گذارن رو پیدا می‌کرد، یه پولی ازشون میگرفت و با توجه…</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/6573" target="_blank">📅 10:29 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/6573" target="_blank">📅 10:29 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6572">
@@ -654,7 +654,7 @@
 و واضحا تهدیدشون می‌کرد.
 میگفت شخصا می‌تونه اسلحه رو بگذره
 روی سر یکی از گروگان‌ها و اونو  بکشه.</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/farahmand_alipour/6565" target="_blank">📅 09:16 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/6565" target="_blank">📅 09:16 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6564">
@@ -699,7 +699,7 @@
 <div class="tg-post" id="msg-6561">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">دیشب هیئت‌های عزادار چوبدار تبریزی و یزدی در مشهد، پس از مقداری عزداری برای امام رضا، همدیگه رو چوبکاری و سنگ کاری کردند.</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/farahmand_alipour/6561" target="_blank">📅 17:00 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/farahmand_alipour/6561" target="_blank">📅 17:00 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6560">
@@ -1024,7 +1024,7 @@
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/bZc_BShmZm76v7P0svWzVGu_kidaJFpohOtiaDK9xQqCeisCeDq_PP-qn8sMVqgx1ohf64vxDdcddQXsBXy4JEj5C6jCEJ4natbsDLASjASGuYRijPZc25KG04y1o1dRKm2Lw_--U0_fQoe-BGPakPiw4YmfaeXtZJhcqrTuV_ff42-UgulMqmH8H7y1P6RAauyufDoIxmsf4_W813ruK0m9qXgj6GxL5SR-gAF7h734AuQED_xdJxtL6pbquaHIvtH-5d7y39RFV09p-xpUldSqiJ7H7FIRMAw7GnAviYUbm4KzzuK_MZQ1zWqftdxPU0jVG327a1qy-FgoPGNcBQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">خیرین مدرسه ساز در ایران،  ۶۲٪ از مسئولیت ساخت و ساز مدرسه  رو به عهده گرفتند. حدود هزار مدرسه.  فرض بگیریم همه اینها مدارس ۶ کلاسه هستند (برخی ها فقط ۲ کلاسه هستند)  اگه هر مدرسه ۶ کلاسه حدود ۱۲ میلیارد تومن هزینه داشته باشه، هزار تا از این مدرسه‌ها میشه…</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/6524" target="_blank">📅 14:31 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/6524" target="_blank">📅 14:31 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6523">

@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 14:23:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 14:46:41</div>
 <hr>
 
 <div class="tg-post" id="msg-2559">
@@ -345,7 +345,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -975,7 +975,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 
 <div class="tg-post" id="msg-2517">
 <div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Q8-kV74aTjeh9UKPbxsh1ntXYUOkXRedIGeDzBa4wHSrbktyDWU4XqAQNpuKd7ZCnlQEEPs2O22ksW8jdFsxBrskstyvXQpFLvVsR2GYnpyv1qGq05xLhIB-QozmDmVWhnILiAww9CpbGZj-gTyIRyfKf8yFIzGKfOMZqb_Rl-iRH0MxGr8pHkz6P78YbO7jjrLD2H8ox72n8fdzZMWTLBvbTyUKq_SQ3JY258D8PGdRvQbrSujEXeOd7zYNur_O68qQoNDPWcIqoGrmgUoL_9R8GI7u9F2zhY4v-DNVLOq2gc-hajGND0YPe6gN29JifKh78ugTV_HIpjuz9O2IAQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/M7vSnF6CPmEkAC0QlptsEg4HXB1IMewkzAA9joLgBg4GE25DnxDlrav97_ecLB1hfPZcp0ZXzU6sl_QwYnQLxegqeiGhIcXW7JdIL26NLeofUiZLUNga4BFSTUvw4GDHfBW5VMSV2ZNDDu7bakfp6nAKkSSOxnmCGXmFJVIB1IyDXgD4gvNqBaPqfikBT9GovETC8Bd2P5xZEWx5zEG7ss7OoxwW_5fc-rkyI9xB75pknQx4mXathQKdOSmOlSmFLxRB0DynDpL8RCk9DJTFSomDk5IFbHlDRhY8H03Tg6YIuHi4WKKoe2QwEJByaoJlUCVZgeRAW5JXQDvMXYPNXQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر شیرین‌سخن قطع‌ارتباطات گفته "سایت‌های ارتباطی در خاموشی‌های بیشتر از ۲ ساعت قطع میشن و راهی برای تامین انرژیشون نداریم".
 یعنی از هر زاویه به این مرد و عملکرد درخشانش نگاه می‌کنیم، حل مشکلات و امیدواری به آینده فوران میزنه!
 🤡
