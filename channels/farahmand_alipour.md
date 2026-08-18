@@ -291,55 +291,55 @@
 <p>@farahmand_alipour • 👥 64.2K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 14:46:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 15:17:29</div>
 <hr>
 
 <div class="tg-post" id="msg-6603">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iZ7DQDTQ8jIkQku3LuFiZF7kwJVXVqgX2EH8Q2SduMy_ytOtua34SjHgivXvPtb_qpGmFpFycFFxahMnpojIbI3YuKeDEgbqI6Q6RozwtwUySYRxr8kgVbtYtSuqiRiKeZzmL1BooYt8Kz_dHO19ZxbbO-KvQ-6n3BaquKIBqF9Fof7R2WQljWcxdjD6SunonZ-iNHUoXuFaDNkPauNxJfIBCNUqr7TlbeDPNFqJ4GC1raSJrl9GtgkW55ALRXASD5P4PNnPtFo7sFt-Pdtehl3uoT660N_R-WFdZfXPfRcXRYtUSvbRNBB3MMPzeDH9WQM0SzWWzvEBPhJs7L34hQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">انتفاضه «قیام» اول فلسطینیان ۶ سال و انتفاضه دوم ۵ سال و ۹ ماه طول کشید هر روز جوانان فلسطینی به سمت اسرائیلی‌ها و نیروهای نظامی اسرائیلی سنگ پرتاب می‌کردند.   حتی «یک فلسطینی» دستگیر شده توسط  قوه قضائیه اسرائیل اعدام نشد!  حتی یک نفر!  اسرايیل ۱۰ سال در…</div>
-<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/farahmand_alipour/6603" target="_blank">📅 12:53 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.6K · <a href="https://t.me/farahmand_alipour/6603" target="_blank">📅 12:53 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6602">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iW-7nmpeRx6wwP5p3vXk8EVWDmd2kqBTxTBfXooRtICddMpMh-G7WSC5JyDl03yEiLi3vacFerh2AOMwLgyPnuQWRSgPuXOaDl-wM386iDJeIsODd3AePdjfDxEph2W78G5N0UWdMRyUqx-d_GVJJ72GsHFKLAU2KonAg_B8RoRxSejd5_WdtVqNxmybimaHzisQuSOMVwYzhfuuGWxK4oodG1LTT6K6XyaV9uOvvNXi_IvGtUtyGrb3AvxPXrejZSrWFy2gZvTn1n2dppRMS4XXGZKy7Mg20y5AvlNKfDfEGPX8gsqCfyZUSA2Apz8o1kYl6Rbw2hUq4rKhbZaL_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وقتی «رزم‌آرا» نخست وزیر شد، مصدق که قدرت اصلی در پارلمان بود مانع از این شد که بودجه دولت را یکساله  تخصیص بدهند!  و بودجه دولت ماه به ماه! تصویب میشد!  دولت رزم آرا تقاضای چاپ پول کرد،  مصدق مانع اصلی شد!  همین مصدق بعدا نخست وزیر شد و مجلس را تعطیل کرد!…</div>
-<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/farahmand_alipour/6602" target="_blank">📅 12:48 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.42K · <a href="https://t.me/farahmand_alipour/6602" target="_blank">📅 12:48 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6601">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Whoddz3aDTksKRjFNULYyHQ_W9IOelnUazusfxtUZtrRf9_IEQNkphsm-bKK9dNkt56p6UYFP2HOZDa2twXPUYCaKWJu3tbNycI1E8WVQ877il5DL-IGrYN3uaW3KCzleSAiRT3Wh8vQYh6jTRQwRYsjHAwngcDLVMBWQ0yoyulEHgqP-y8E2CGzohuCTVyIvmzICpcaJPPoN6xXy4mspRwhjBo5QGB9HSNku5AuViygcdSurRs-tHbQIJdVg6JBt2A5FrYNHXyDnJ9SY8m308Ir25uNQiOLhA9d0NGX6L6e4jsJjGD879u8NqFtAUiF3rkQret4laDR8DxbNgAMew.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سپهبد «رزم‌آرا»، کسی بود که مهم‌ترین نقش  رو در سرکوب حکومت خودمختار کمونیستی  در آذربایجان و مهاباد انجام داد.  و چند سال بعد نخست وزیر ایران شد. مصدق از دشمنان جدی رزم‌آرا بود،  مخالف جدی برخورد نظامی با فرقه دمکرات در آذربایجان و مهاباد بود.  البته که مصدق…</div>
-<div class="tg-footer">👁️ 5.8K · <a href="https://t.me/farahmand_alipour/6601" target="_blank">📅 12:38 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.37K · <a href="https://t.me/farahmand_alipour/6601" target="_blank">📅 12:38 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6600">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XqUpOTChbpkKVW198y5yBrBjTKcMmaOtvxTiLX4olUAB1SuQwnEhRz7YM1h5V90rxsO5gnOgj1biTsUmglQohFilWWKW_sYgVYyuiFLQApgWjc1RHlnG3sraXTuUNiOi5zQjC_nA4qoUPmwqc0PKtwl9ZRXB2a0WdSBWDUwVEgZOj83s5ftbLO0AX0s1dpvpyiPub8bHP7KP1f1QNLdolsryY0UDyYS8OherbXSvVEb7rv6vuEIDcDwmAO2BOOLljIgZj2SLu0ZixxKFgV-BzspGRhl3BOEG_jXsozEBlCbHUCzVSdjeMpyegnQm5y1tD6jRk4fpPR54ZeJi7KrYuw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وقتی میگیم بر اساس مالیات بر چای و شکر و قند، راه آهن سراسری ایران ساخته شد،  یعنی چی دقیقا؟   دولت در سال ۱۳۰۴ قانونی تصویب کرد  که بر روی هر ۳ کیلو قند، یا شکر و چای  (۳ کیلو رو اون زمان میگفتن : یک من تبریزی)  ۲ ریال مالیات گرفته بشه.  یک من تبریزی ۱۰ ریال…</div>
-<div class="tg-footer">👁️ 5.98K · <a href="https://t.me/farahmand_alipour/6600" target="_blank">📅 12:32 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.53K · <a href="https://t.me/farahmand_alipour/6600" target="_blank">📅 12:32 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6599">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NdjeQ4upo_bdFeTk6OhAXjrZJfYle3CavKJzSC6ZBn8qRH0wvJDD6SgEj4pxYpIzDmnWlmM8W_SBoK0Dv6sBczXLIzt8nSfHFxN6chsuOqMMfGzst2qeGJYvdRXFbubUR9oQiX9Lc8NBMipW3BDzCfarixE2qfD6rB4r_WuqGDjJkWtaABzuaWbZToeFvdnoweCWhuJo5CLvKXYsM59L4dT7DAslhQvUJlxtHveGux1UwkSGrrG_waPLdnSRhJXWcQNYdjQZ9Zv__AvNxleS82m2iEx-Gp4_nO9pGMClLtH3cCYPRl_XkwSjp3HmkxG59SXj3Kxcj_cAC75eUvW3FQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">راه‌آهن سراسری ایران، زمانی ساخته شد که ایران راه شوسه  درست درمان هم نداشت!  زمانی که حتی قافله‌ها و کاروان‌‌های شتر از دست راهزنانی مثل «نایب حسین کاشی»  و خوانین عشایر در گوشه و کنار کشور ، امنیت تردد نداشتن!  هم قافله لخت میشد و هم افراد رو به گروگان میگرفتن…</div>
-<div class="tg-footer">👁️ 6.7K · <a href="https://t.me/farahmand_alipour/6599" target="_blank">📅 12:14 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.21K · <a href="https://t.me/farahmand_alipour/6599" target="_blank">📅 12:14 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6598">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">مصدق پیشرفت را در آبادانی شهرها نمی‌دید! ساخت عمارت و هتل و آسفالت و آزادی حجاب و…..!  خامنه‌ای وقتی از امارات عربی متحده، و پیشرفت‌هایش صحبت می‌کرد هم  دقیقا از همین زاویه انتقاد می‌کرد!  میگفت : این‌ها که پیشرفت نیست!  حاکمانشان «بی‌عرضه»‌ترین هستند!  و…</div>
-<div class="tg-footer">👁️ 6.9K · <a href="https://t.me/farahmand_alipour/6598" target="_blank">📅 12:04 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.35K · <a href="https://t.me/farahmand_alipour/6598" target="_blank">📅 12:04 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6597">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VbsU_ttp8hwV0xu_c9t9VtMvz71lXc78Q94EQ9TvQ17J74o4h6RQ2zT3J-QFwV_F3u65RAU07oQuoBqEfmeQ-R1EUNAGjyK933_p4508iWKlrvzYtNXnPkUevrx6bozyTXO7zoLpAIininvuh1mSrYEBmpLApS0llKqkRKGwG2kbHN_GQlfgfwLK2scRDC-CPa12wXPqh6S8qe5Stn6WnjcRdlOoALTSVbPTvFwb_n7DUrS0CRa6Eyga7qN5-vjDBPi9v3O05IR6i7635c7QmqW5byGuQPuarFLkl8L0RRd81rWYGJ61E-x15hseRB2S0B_pSKgyoI7b2-L1aHXP5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حداقل زمانى كه ما در مدرسه درس ميخونديم بهمون می‌گفتن که رضاشاه به خواست و دستور انگلیسی‌ها ، براى ايران راه آهن ساخت. ولى مى‌دونيد اين حرفها رو خيلى سال قبل از جمهورى اسلامى، چه كسى میگفت؟  این حرف‌ها را مصدق میزد. مصدق حتی اقدام رضاشاه در آسفالت خیابان‌های…</div>
-<div class="tg-footer">👁️ 7.42K · <a href="https://t.me/farahmand_alipour/6597" target="_blank">📅 11:52 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/farahmand_alipour/6597" target="_blank">📅 11:52 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6596">
@@ -355,7 +355,7 @@
 او ۱۰ سال پیش از آنکه با محمدرضاشاه در بیفتد، یعنی در سال ۱۳۲۲ ، نطقی در مجلس داشت از آزادی حجاب در زمان رضاشاه و تغییر چهره شهرهای ایران و آبادی آنها انتقاد کرد  و از جمله گفت :« رفع حجاب از زنان پیر
 و بی‌تدبیر چه نفعی برای ما داشت؟
 اگر خیابان‌ها آسفالت نمی‌بود چه می‌شد؟  و اگر عمارت‌ها و مهمان‌خانه‌ها [هتل] ساخته نشده بود به کجا ضرر می‌رسید؟»</div>
-<div class="tg-footer">👁️ 8.31K · <a href="https://t.me/farahmand_alipour/6596" target="_blank">📅 11:49 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.85K · <a href="https://t.me/farahmand_alipour/6596" target="_blank">📅 11:49 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6595">
@@ -371,7 +371,7 @@
 قطر رو ولی حتی بیشتر!
 که اون شبکه الجزیره‌اش
 کپی صدا و سیمای خودتونه!</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farahmand_alipour/6595" target="_blank">📅 17:29 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/farahmand_alipour/6595" target="_blank">📅 17:29 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6594">
@@ -385,7 +385,7 @@
 عقلای مجلس از تصویب جزئیات خطرناک طرح جلوگیری می‌کنند؟
 🆔
 @Entekhab_ir</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/6594" target="_blank">📅 00:17 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/farahmand_alipour/6594" target="_blank">📅 00:17 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6593">
@@ -428,7 +428,7 @@
 <div class="tg-post" id="msg-6590">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">این هیئت رفتند پیش پیامبر اسلام  و گفتند : « یا محمد!  در میان این اسیران، خاله و دایی‌ها  و زنانِ دایهٔ تو (کسانی که تو را در کودکی شیر داده بودند، مانند حلیمه سعدیه و قومش) حضور دارند.  ما را دریاب.» پیامبر اسلام هم گفت من سهم خودم  و بنی‌هاشم رو میبخشم!…</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/farahmand_alipour/6590" target="_blank">📅 15:04 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/farahmand_alipour/6590" target="_blank">📅 15:04 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6589">
@@ -440,7 +440,7 @@
 <div class="tg-post" id="msg-6588">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">آیا این تنها جنگ و مورد بود که در زمان پیامبر اسلام رخ داد، و زنان و کودکان به عنوان غنیمت جنگی برداشته شدند؟  پاسخ قطعی : خیر!  در جریان حمله به گروه دیگری از یهودیان،  در جنگ خیبر، زنان و کودکان آنها هم به عنوان غنیمت برداشته شدند،  از جمله زنی به نام «صفیه…</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/farahmand_alipour/6588" target="_blank">📅 14:56 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/farahmand_alipour/6588" target="_blank">📅 14:56 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6587">
@@ -464,7 +464,7 @@
 <div class="tg-post" id="msg-6584">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">آیا به بردگی گرفتن زنان و فروش اونها و یا ازدواج سریع با اونها اگه شوهر داشتن مشکلی داشت؟  نه! چون خود آیه ۲۴ سوره نسا صریحا اینو میگه!  وقتی هم قرآن بگه  هیچ آخوندی چه شیعه چه سنی نمی‌تونه مخالفت کنه!</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/farahmand_alipour/6584" target="_blank">📅 14:26 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/farahmand_alipour/6584" target="_blank">📅 14:26 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6583">
@@ -491,7 +491,7 @@
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FWs8BsnnudvYzLrmxUIl4Xcue3N99LStJJUzzF2noOraca0TzKjCXFVK57dRMex5YVeZ9Eb-IIcVEXLtieCQzM5IAyk89UnT4yva68s1OuoOTlDQULavOyw-uFcVEWEym9uePEqF6VrP4yib9IBD4dESKP49AdEMjD4VwsMh6_DDIAsM_V6xkzBM77eNIM09id1MCetdmUVtP2aGXdz6lFrNaZxNDxOPIQDOYeAD2weiHWw_F1nxSQzqWyIPmpTmZ_SBN5XGxFM-mqHB9FlMxFbTrdt24ChiQRQtJqq3Fr4nCoYCvIJiUdC454wy1PSmrZ3lq5U1zhIaEUm4tFpg0A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در جریان جنگ علیه قبیله یهودی بنی‌قریظه،  به فرماندهی پیامبر اسلام،  تمام مردان و پسران بالغ کشته شدند.  همه اینها تسلیم شده بودند و اسیر بودند!  یعنی در جریان نبرد و جنگ کشته نشدند!  همه تسلیم بودند!  کتاب‌های اصلی تاریخ صدر اسلام  مثل سیره ابن‌هاشم و تاریخ…</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/farahmand_alipour/6581" target="_blank">📅 13:52 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/farahmand_alipour/6581" target="_blank">📅 13:52 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6580">
@@ -504,7 +504,7 @@
 <a href="https://cdn4.telesco.pe/file/201818ce22.mp4?token=kSRRaVfoLsmMf9zQ-3_HtORzTljRS_rL4E-IcOWAYh8Ei1SrKxmV11Yj0VzANcNBoMWJr17EeJfwbrGdC0AYcwK5diuFwtI_1WbxWUzpaXbso9bYYDLOimbi6V_Ph-9e8SiV1ws5VgaL0FSnUY55GeR2z9_r18NmWDRaKHk0XWWaASjGxxgyRHDo6Z8RVKOLXRAsH-zAZB-TcDJL20-Lq_FZ264DhSTM2CC2-2rQeGNhnaJsO7Px69jnvNwg4V5YHsYnByDnlaWObiFoGczgGagchxekTi4YJpe8D0Jdj-8w-XJuM7amv3HAXWAacirs08OJvstjc61yi5PcJ-Z0Yw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">در تاريخ ٢٩ بهمن ۱۴۰۲ در متروى تهران نمايشى اجرا شدكه اگه گروه تروريستى داعش بياد ايران، زنان رو به اسارت و بردگی میگیره و اينكه قدردان جمهورى اسلامى باشيد. اما اين الگوی به بردگی  گرفتن زنان وفروختن اونها در بازارها، از كجا الگو گرفته شده؟ آيا گروه تروريستى…</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/farahmand_alipour/6580" target="_blank">📅 13:41 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/6580" target="_blank">📅 13:41 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6579">
@@ -529,7 +529,7 @@
 میزان نوشت که صادقی به اتهام «اقدام عملیاتی» به نفع اسرائیل و آمریکا و گروه‌های «متخاصم» و همچنین اقدام «علیه امنیت و منافع ملی» به اعدام محکوم شده بود. این خبرگزاری مدعی شده است که او در جریان اعتراضات، در ۱۸ دی‌ماه، به دلیل «زیر گرفتن ماموران با خودرو» بازداشت شده بود.
 قوه قضاییه جزئیات بیشتری درباره روند رسیدگی قضایی، مستندات اتهام «اقدام عملیاتی» یا چگونگی صدور و تایید حکم اعدام منتشر نکرده است. همچنین در گزارش رسمی، جزئیات مستقلی درباره ادعای زیر گرفتن ماموران و اینکه این اتهام دقیقا بر چه شواهدی استوار بوده، ارائه نشده است.
 @indypersian</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/6578" target="_blank">📅 08:33 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/farahmand_alipour/6578" target="_blank">📅 08:33 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6576">
@@ -825,7 +825,7 @@
 
 <div class="tg-post" id="msg-6547">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H66NBePLROv3szVBSUBJJhVuOS0Anu9rol5gINFd--cpRpduczADTWxWpSbvnEBnAUDVFa4eBlOymMp-NSUfUYDJvF-7yrbl7kBVVvU2S2VQaVYiLFk4zOOzEtYovnMS-Fe0IXS3_966peKi7I1-Da7JED3LQHOnEQdKBIj4z-Nzj0K0NsYY4UEHZ_UCfpdAAFk7iUEQlY8Q7NtoE54DbXHNjZ3JqlimQ6L-fCdLRJH1KJlv3_bD28CsK5fIpetas2qYhrXmoG7zEQijNAI8d8tC4nej8iudINktn4i3sqKCm4WCP_-M_Xw0pjqq-8-IB9sLS5MxmNJC05t1KYGtxA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Vg4STIqGdh3RUfLzFnOlLNHPKYsLhYTFz6Njsjwq1casLRa9klpFU9O84-rxlVHnWlEC164ZqimOCG1g40vdqVJz9odEZIbHslbUV4UY4I96ik70kH28r4uMEluZt9hyljEEYUTz6FON_Y5wSn-kitFoiYSSUlMP0feiFyKUTH0f34MfvEDT4iWOzuZpfai_OmYxgsQGyDmBx7r40YYp-ru_yx_nPWrxeWosfXpQI6pgIgGEdzLDiuQwcNPzNlW_bNGvV4MF1br7jcPzaTrlRjYGcuCvWVCoAr-f-ODYVdMWFQPSoVXJbpC3ZxewcOFBSAvcY0XKdKL7Ixdz9QWljg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">زاکانی میگه : ۱- موشک مستقیم خورد به خونه مجتبی ۲- مجتبی خودش هدف بوده  ۳- زنش کشته شده!   اگه مجتبی هدف بوده و موشک خورده به خونه، قطعا همون لحظه مجتبی کشته شده!  اینها فقط برای اینکه حامیانشون رو نگه دارن، یک اسمی انداختن وسط و گفتن بیایید شعار بدید  که…</div>
 <div class="tg-footer">👁️ 26.2K · <a href="https://t.me/farahmand_alipour/6547" target="_blank">📅 15:30 · 21 Mordad 1405</a></div>
 </div>
@@ -914,7 +914,7 @@
 <div class="tg-text">ترامپ درثروت سوشال و در واکنش به درخواست جمهوری اسلامی برای پرداخت غرامت نوشت:
 ‏باید به خانواده‌های صدها هزار معترض بی‌گناهی که ایران در طول ۵۰ سال گذشته کشته است غرامت پرداخت شود، چه برسد به ۵۲ هزار نفری که در همین پنج ماه اخیر کشته شده‌اند.
 ‏</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/farahmand_alipour/6540" target="_blank">📅 21:08 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/farahmand_alipour/6540" target="_blank">📅 21:08 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6539">
@@ -927,7 +927,7 @@
 همچنین احمد وحیدی با ارتقا به درجه سرلشکری به‌عنوان فرمانده کل سپاه پاسداران و سرلشکر مصطفی ایزدی به سمت جانشین فرمانده کل سپاه منصوب شدند. در بخش دیگری از این احکام، دریادار علی عظمایی به فرماندهی نیروی دریایی سپاه رسید.
 در نهایت، حسین طائب نیز پس از کشته شدن غلامرضا سلیمانی، به ریاست سازمان بسیج مستضعفین منصوب شد. «گسترش فرهنگ بسیج، تقویت شبکه اطلاعات مردمی و مقابله با تهدیدات نوین» از مهم‌ترین ماموریت‌های محوله به طائب اعلام شده است.
 @indypersian</div>
-<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/farahmand_alipour/6539" target="_blank">📅 20:05 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/farahmand_alipour/6539" target="_blank">📅 20:05 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6538">
@@ -1145,7 +1145,7 @@
 نفت در بازارهای جهانی هستند برای فشار به آمریکا و ترامپ.
 اساسا با همین منظور شروع به حمله
 به کشتی‌ها کردن …..</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/farahmand_alipour/6512" target="_blank">📅 14:50 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/6512" target="_blank">📅 14:50 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6511">
