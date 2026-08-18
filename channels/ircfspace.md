@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn1.telesco.pe/file/NUdUsK4mLpTN55Vrn6RvJYFT_EcaubultJibs-_TuQK5AIkZiLJW2fC2hwk_dywcT0SNUaWsTT9Z-EEjxXzorqHsUAjPtU_rC7ja7RlcxLPyOp4t-bQ779N4ffBzy4-cCTD1DIYOyEu7xOZ8HdJNTlWtrgWsPxX8O2EHp4ugSp_noXQljF2zK6F_90lib_g_iMQKm8AvOGxp_QI0WILdQSkNepQlytPxbi15QfNWnwtbBGBXJjBiKOewGzFylXWVk0g_zs2dgNJZ2cD25HH_NEL46bAZtsXwwuYo3w3mXKrppMjNflOzmnoV8GHArRrvFCD-LJap5CSC--H5qxEr4g.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn1.telesco.pe/file/Jizyjotfg15flbP6B-Q_pPwhi0ZYOk-LasTBd9G7D8-9roaJpIJtfwYM6xJRqtn6_4Io-hedttthD8FFxWv-rwaKHvwQuW9Y7gO0kIMTqVFHEUzaxG5A9gZP8hluhbagzxS2il1SP81yUf7_FvQg4nFDMxhG_4fAqxMlTwq_PIA9Ex3UBOX5RhLNUC4KRhD_581Gdqy20HhjZrl2v9_RvkapRUOHCc2dH_LeXt4p0gkwYAOS7soKR-U716Xsx1_nxf21Rrh4IiqvkZ3uurzBsxTi-zj3uVeJ3NgcsWgUeBxTF2t1aATtXcUXbpPMTv_ScegXodaymJbVHoLoYMureQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 IRCF | اینترنت آزاد برای همه</h1>
 <p>@ircfspace • 👥 96.9K عضو</p>
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 23:16:44</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 23:43:10</div>
 <hr>
 
 <div class="tg-post" id="msg-2559">
@@ -326,7 +326,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -489,7 +489,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2546">
