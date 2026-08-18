@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 15:56:28</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 16:52:44</div>
 <hr>
 
 <div class="tg-post" id="msg-2894">
@@ -319,7 +319,7 @@ BFI
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 3.1K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.88K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2893">
@@ -363,7 +363,7 @@ https://t.me/kavircloud
 http://ble.ir/kavircloud
 🌐
 https://kavircloud.com</div>
-<div class="tg-footer">👁️ 6.86K · <a href="https://t.me/iaghapour/2893" target="_blank">📅 22:55 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.17K · <a href="https://t.me/iaghapour/2893" target="_blank">📅 22:55 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2892">
@@ -392,12 +392,12 @@ https://kavircloud.com</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.02K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.2K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2891">
 <div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HA1dw4puZ2uUEZUFGkZsoO30F_QJRj3uZW7EYxNIVEYKqw7H6MqhpfkDm0ug-aqf-92YgKs6E6e6D39LHmxRXIvKkUJQzqIrHNo6xHkRY6Aw8RYBKE_c0h45deSHITfOGlSoWa3aCm2oyYrmGtvMTqmVs3ln01sK5RAEDJT5PNPyaN2PXfq1ZnBoy-SkKugkCyV0SGQ-mlg0ZGGYqwGY8sHH8Duwj8OsHtAR0WjuErFwffKjNtS3gYZlhrQdbAd0qfMDT2o4H-d20fBherCL_hK2TVznOBNP3x3SB3nB1o-5kMp5fTwYylYv_fRs4Qz1bEqvdWLba21hH8yJRJf9CA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dHEzLkXZKkE5AcdAy7fmAXg6VPp4HrbGMbY9QCAkO1bMeJENklG-vvDtOkVnWPKyYqt90X2GmAHWZbbWi7o4eK7fj8IMA9HzMxhthYGTGsDu8XV07DA-9Jr-kMmIYE5WPar6Xg1p67MZXKIvruFy2BVhpkyeyGRcFZYdp1bXyErOFqk_uhKuoDYaXnyRBwofgbk0lb-8fWBjUPWgpFxeGN1pP6A9XqGHtEOZCG_VpQWY1IOsLOf43g8f4HTlsU40Pf-3qIXIGd_1r3rCXychFCsWXRBJEWYup3rYaJsjiwb3G5On_ruD9vFq7eg0wKglR3IYgSmzj3CjCch12VcuZg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✍🏻
 یکسری نکات درباره تبلیغات تلگرام و تبلیغات خودمون رو قبلا هم گفته بودم و خالی از لطف نیست دوباره هم بگم.
 ⚠️
@@ -420,7 +420,7 @@ Ad
 اگر تبلیغ‌دهنده محصول دیگری را به شما پیشنهاد کرد، این خرید ارتباطی به تبلیغ کانال ما ندارد و مسئولیتش با خودتان است.
 ممنون از همراهی شما
 🙏</div>
-<div class="tg-footer">👁️ 8.28K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.44K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2890">
@@ -433,7 +433,7 @@ Ad
 ارتباط با ما
 پیام بدید تا مشکلی پیش نیاد.
 🙏🏻</div>
-<div class="tg-footer">👁️ 8.84K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2888">
@@ -457,7 +457,7 @@ Ad
 توسعه هوش مصنوعی تنها متکی به مراکز داده داخلی نیست و نیازمند ارتباط پایدار با جهان، مدل‌های متن‌باز و خدمات ابری است./زومیت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 9.97K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2887">
@@ -527,7 +527,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2884">
 <div class="tg-post-header">📌 پیام #92</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m3IB5TkYI_4F7-MyUZBgl-xCReirG0fdAJsxpbBQUM1YUqoMuefNRw1RSJ__MLGbgoIPVMKtv2kyqQL66TibpZu1w2w7mXGeo0DdjqcT7Q6JcJRqP4CvzTv8iKcjSMfKAd9hoaAqmjJfH2VK1wWMABhPBuwhJWUlDaC0I-zS2Dzz_wapIE6X7_UklLxlbqpG5FFOomysAjNP5A9oz3nC8wTPq1sTJO9ueufgvk23iOFuPYtURBXEV0Fm8YZmOt7l2oeCq90NNVg13vNfLtyonLRcYsDXeKgvFG6whXhq7i9zT_M4RDSUz4b7-cMhBNQ0xRq9ku2shkAWAmf3soMs9g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oxeCrOTRVSVxA02aV4PSaHNIls5niC8nzmmIJXUxUAH-WaaRC_6whPMpeiCbpmAfQPNxvl6iknIYqKRxVzlrm5zGzvJT9LQmSPU6T3L1MJHwUAbgYng7sX8ffhMEKCftNVm7vBzoZDrjkLbED4BUVbkOONYDLyDVU7yycy3bw_HK5Q5JO7sWw4o84coSVXjoPMbEVHcXYCFEK9ohn1t9_DY5XeWwSNDT-h8izVfAgz23Mq7mgZX7WzZS5P1ipTMwqbFRO8JGrZaIx80k-E1MOiv881WalwTccUN_PGyDgNv-txHerFwGxEmQz-Eu05MzEGFlwXCdPCZ5elM8s_nIMA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 رونمایی گوگل از هوش مصنوعی Gemini 3.7 Flash؛ جهش چشمگیر در کدنویسی
 گوگل تنها سه هفته پس از نسخه قبلی، از مدل هوش مصنوعی
@@ -558,7 +558,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2883">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BM-5ZP8PHkf45fbCQfuZFMNiUplEEfT4Xcp29__uePrYdn-6BFAtZXQG2uwDPt1aAhfrjPSE1nELpJ3-YpAdytLTXLcQyaSJRlvuy1-jrnbJYzO5ch2D728J8dYxCwoJ1I2rOBQWrUh_SZ7YEaZ2UzcZS0KozuT0jBXK7g-Y8nnpE6dOAB7iBpbSwniaOK3Pr5YzXg5XxeYnVgUXzA7Z9RkPsIiO_VJF1XdIxDCJFebdMpo6OEBbuBsaZp1DRzKNGYCYuPHrqc15G0EPQ3qrZtXIly0XGpHcuqJ7RDKMWbq47OtmLGiZq3OradViK9Pf937NhGFk7LM_1RiqGwO-Aw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eltY0DPHvjFASBoj3ze4dWZq7NOLL9OZQMsehTSSI3M2-pBE6rjB08BI39WQShNVi0GAirsRDkzFK8FbVCb1GTOqgeIPIn4u4-x3ysjr7XL0aOC65zlpVuVTeZzOhEo1fxHqmVbkfmQ78Immy0hMnxv2OeZqWOVzeZZaGmeRh8HbKk_xiLi84nVdXdF3gNgjntePKCniytQRRCfbpCjcvZOx-7PMaPBBYGdjhkSe9CEnbBRrFLw3WWoAHLxrZz08SaOdcUdmh9WpnJR0IxWICqHPMznrVJ6ZuUpk3CWI8IbWJAgLm6WVxXpB0La5fLB6OYww92NxvSYiwkvHn6Sx1w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Smart Support Bot؛ دستیار هوشمند و ربات پشتیبانی همه‌فن‌حریف تلگرام
 پروژه
@@ -582,7 +582,7 @@ Smart Support Bot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.87K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2882">
@@ -681,7 +681,7 @@ https://github.com/roseshayan/SpeedyBot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2877">
@@ -721,7 +721,7 @@ C2PA
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2875">
@@ -799,7 +799,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2869">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bsp2RNj7N1x4sL05zsrbO4mqW4Oncr8i8THA4eWQ6ZJNkad_7NqW5wm3Vw_tQUmzyZVvmhsroZc2Dzql6ECKXFluQONL47HjwSFJlQzt36XAtZmNeYH00pObOJ4_LjhYfRrZZ8SymXr9PFMqb2S5SRv5rEHvLKmzUqmQxQM_xqHWwsZleEObzkkt6WFbFMS4UqmaDg4tmB3Rdf44VcoBjsbB57mWBZL_5p6tf6LhKsomRz2l13xBXvFAxtA5rHatlt21GAE0N0U84lHCpCTzJfwRsGhpD6R_v4ppSInDBeJhP_Exl_JhhoOoDsuUpnXwg-cELL3VIheUUk_NKezOzQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WEkjKtMkvj9ezW9tXSWnY1GNIqF3jo_L60Hc0kj_5_XWH2zoRCQJwYH_Q5udyyJMIMD5FUfnVB1yA2MnErl8ECySFauRN97A56nH4Xl_-9Tczc3KqKFKLd1ZZVX2qmpraKGXMIbwcNhrKA0CfCwo2yejSIqgJXuyxf-_y08KuZdDTcojqvUw20JK_OhSVsOhinYNqDrU7SoPqgwZwIuxdjjWCNi3Wp02skol_jp0q_F_ApFD0U1hb1RkmxLKtawOdki_QO8KZ3ALs2_6WS5mfkuxytVjtV7B1c0_ygrOPLn1WS_2CE0In544laGyhQu2Luns2AtNJt5KRqiCt0bvdg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 مادر تمام فیلترشکن‌ها اینجاست! (۱۶ پروتکل در یک سرور)
 🚀
@@ -857,7 +857,7 @@ Xray-core
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -1175,7 +1175,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2849">
 <div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uWEI58z2_uKk6lTZnPskE9F_FvhAgS-q_ab493zQRxDohsb3waXKbxhrw7MC_6GY40JXl6nQ0YFRJXpMJlqj0Nmqm-qRo4j-giLZOoWFwM7WsF4YIixY-NmEiYhlsCaSjRBSx2cj_YNNRL5F0R07wRpkN5xLUI9zuwxlzjJmb4Er1SVhpjLbrW4ZAt1FYoaJandylXnejwJseOWcwY7o5N-QbW0-kVGY5uCXNbYhh6tceBP-qGBkpfqRcJJj1HM68YCzwKW_ykE7LZyBgDdXFl3wejZxiuOAgqIQgDg8NOcT_tIzuy9JsLrtgESeXHdnYLCwdrbMXW5pJwNVcTI40A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/illQvNGoR79pAKJ4l3m1dLqNXZxwv_8NZ6oAvtY9LM_MT9qa2V_sJJnVQbYffcxoVF8nA1z0uAXTMFyrYb7FWFlFvR3QGTmpl2ifg3inH3tBs5jR5Vyd9CrcDfEkv4BPmfgZ8E9uetXelP0Z8ECDW56DT2zkcS6x9e1NC44NGyLsWGacR7ISmgXpFdViUZkBoRWg_s3QRm-2dkQ7k2dOO5EE04EUtiln401KdpIJ6MhTcFbUZxkytgdJl0OIabgoq-6cligF4FbD0cwNpk9uW2gO3HOUGJEDcK4MEtmEPNQ2_jQVQRcc1MJyE0pPMxnkqDKXXEfnIYceuYtNSNuS8w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش تانل معکوس با آی‌پی فیلتر شده با سرعت بالا
 🔹
@@ -1401,7 +1401,7 @@ Xray-core
 لینک پروژه در گیت‌هاب
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/iaghapour/2838" target="_blank">📅 16:14 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/iaghapour/2838" target="_blank">📅 16:14 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2837">
@@ -1452,7 +1452,7 @@ Xray-core
 
 <div class="tg-post" id="msg-2832">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aLCcMvt7Rm2Wlp6kplu9B1tPYmFy94NIEnDRl8Ltp06M3OSqlOkzJPBql5cMDNeFEL85PJ8Q1coStZ_jJGzXNDo7SBls2vjIzCpsclF04sP-B6vAvJypdjmQiv6V22EjTLy5xz_kAuFNFFoeIYFQOJn2KrZMxUTZAqWMiRo78EKnjNWySU6BuMONQr3XvA6xCoqEPec8DOjffK5i6aiG81JN8t4TyNIKtqmxRlUNIUfZn4_GYQAzuDKYsWKcvsY8o5_r3rAjZIOhfq1AnJu8mXJiHhigCM_ibu6swglWvCO0NGTRqb6HR0qKPQ84--t8mlNnV_EpGFgFre_ioc25XA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HfRY3c7HMuWJrWJLAiX9-au2lH9kX7ZZNahRL3Hh02ymtvpR52N8BDzlscTVlk5hRlz5Q2debhH6ioV_ph3Znj4q3yVEh5lf2B9RxUf0tr4FKXxEDRaoyQhYhWWuGcTLpmjQRaCE8e4NuqqKniU6htaBVBGhxFgdOE8vqGkUifv1s_l-YP-YKOuqA-T6j-CmoASAs8D6DW7dLQRiFtov7wXc8Pm-E12U83JGzszLipiaGiq16bCAn62BwKTkkGe2XG5u8EoIphfaCJmjZrsa5Q4SZQSwpi-sfvHE5hsJTWJjrS71bx-pfgUMfSEpJn8Acm74P5u2oi_Jvac46H3TCw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 صفر تا صد تانل زدن و افزودن نود در پنل نوا سرور (Nova Server)
 🔹
@@ -1678,7 +1678,7 @@ KelpDAO
 آسیب‌های ناشی از ابزارهای دور زدن فیلترینگ نشان می‌دهد که حوزه تامین امنیت سایبری نیازمند نگاهی جدید و بازنگری در شرایط پایدارتر است./زومجی
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/iaghapour/2820" target="_blank">📅 20:52 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/iaghapour/2820" target="_blank">📅 20:52 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2819">
@@ -1797,7 +1797,7 @@ Claude Opus 5
 بیشترین مقاومت در برابر فریب‌های سایبری و کمترین میزان رفتار ناهماهنگ.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2811">
@@ -2139,7 +2139,7 @@ Flutter
 
 <div class="tg-post" id="msg-2788">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OjXv3aqPUZ09uEI1cJZHERGGAck3OcVO7KScDwkufad-cQzGDm59kRJTvd6axhE5CYXUjtJnXxSExcIEDrlKOAco9umzcFdtm1nxzMkztc6kjKudwBRX59ws6ZbN8AD6xCIeQqoVeTCvbpwcqf-gnCve5RNVJs4MMxNFhCnv3o4s9uIDovN6ssvelKc5CVh_joSxp4SkSOJHJ4b105IIChsU0Z5ElPLrg4j6nl6tFT9Q6vk2GL2kJqk32GLvfrxZ1Xfet8OchppV9I5bEemWBC_GWPwSndPBW2EHPuKQVv2Au-SQ2Il02hcsAaMl9cJqhnUOkcEbLvkQM69g4NaG7w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SARKh-Cw7Uc6sZ5J_0uws16RU9orADdLynLk22HPBHHhOHmPytg3IFv6WA9-ggV2VRaUkYnPhY587kVhwmPLU48bjhRlY__3wA7MdidmqbjmAM6Q517nJKOT1GKRhHT4dPYIdkz_LdzkpurbszfYGri_USln-vyMwve8JauTeXbga9ULKY6oPJyqJh8HOxfz6Zv4fP6R7Q8vRgwW4ncAXdWLA_GEWDsd26ds3dJfBLddKse3A9F9TKnJFpBT8H8_Evg5e6Gx3Wq_Xs4gvbUzLJSsKagAICmImCfSsacngi-KUPkhUXUs7-GokXTpebK0XHAi6l16H_3ClCC_yeBs9g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 حل مشکل تایپ اشتباهی با کیبورد فارسی و انگلیسی در ویندوز!
 مطمئناً واسه شما هم پیش اومده که کلی متن رو تایپ کردید و بعدش تازه متوجه شدید کیبورد روی زبان اشتباه بوده و کل متنتون به زبان عجیب و غریب یا برعکس چاپ شده! نرم‌افزار رایگان و سبک

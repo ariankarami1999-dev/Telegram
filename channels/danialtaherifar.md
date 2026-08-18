@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 15:56:28</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-27 16:52:44</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -311,16 +311,16 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 301 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 302 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Bpth_atN4IxIESKHgu3B0V4Omj4mGSqZRgGoPZtapGQNHM-grTAiCQltL33wEeeqTthM-QRhBxreGClAyv_mrN7ghJGLibdcOprg8IOO6RwTPnFZNgub1bzdd4wuZqkbYCcyNIB7WRCi92ozHmCz2Iltj2zJco_o8TIxqIpYsB2XtBFS94JIIllqGSopaUSYPnbJ21Pk7xyUvhsRPoaE4tMqPH0TbD6FQD3A6lbDjOsu9weoLx07UIQfvYbBJlG-Tmn0lj5cXYHLZNRzFhH6DMYmiW9EapE4ZasB391mme05IRDZ1_ODcaPBNfdd6bKBhU0AZ1zSTwdw17l_D2I3Nw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cVCjsklwFPweiqfkU_1vDzF4FgAZ630YxYE8Wc9MaBZYja7Vd2SL7qockQr0yl3zyM8Ecgx9UiOwpo5S2cabKGUFVoPlxyKych7Bu7vjIDy0eo8No43RpyjtaMUekVOl2dBu2fPu1oEPRYqAJSgd8ppSK8VIWqhjj_bl1u4NNQZIRWS76gNPH6mYBWUd0xBAj2EpS-Y73IdR3M6t_MdnaNwr4BTGqTX4TwjlCYNMSgjmVVJcdDCoVK0EeMtrf0eFPRHMFMILNIyrOnFZhIOXJD3pZLb3pedCHIO4tKG8IN9waFRIgzx1csbdWBljalijyL8udBoEPyS1bAz3y257nA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 526 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 527 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-948">
@@ -334,7 +334,7 @@ z.ai
 دلخوش میشی که شاید ....
 و بعد با تصویر دوم روبرو میشی :/
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 632 · <a href="https://t.me/danialtaherifar/948" target="_blank">📅 14:52 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 633 · <a href="https://t.me/danialtaherifar/948" target="_blank">📅 14:52 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-947">
@@ -1511,7 +1511,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-867">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KAZnjSIXIUde4ntCWO4TGg0pbW5UAFfVPJquDYcpTGImzD54zeK3P4ZJH5S_5y2Bcopwe1ZUeUjK-jEULvvBZ_7uT5b2Dtx7Z2F52UANoV0nWAgfKwK7JdjK--5vBCxriMIqXC_VbAkKRJ8-NOwK_AWzxpsrjM0ySEcvu-DHm5ffJXqfTQDty5K7DPbZ5fFP2MS7bltSo2d6BZ4izVcT3PtQuLCq70Drngjfw5F_wNwC8SU7FVLNKoz0Ixoi2aHWZPi5z95hbC3Okj7_hwuiPOQiPaI_pg_GzTQkVjB-ek-W6syoH5aeNDdIfC31D1EalPUvtMxHNy10C1ge1aNbIQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vZDAWtmgTSsry5PmXXZdSPxz4z4aEp5L80dgWnPuwBUc9ubqE0mXe9QwVqxA0sxNdWPwwyP1yv8jf1DGGlkWPoPlWEGehTpubefOxY7YyB4JGfGrQXxrgZFH2-ahYgl5hjHa1lV4y8OV9sT8PA-D-Ww-lr73qi7yV8OCClOyNOKXCPj9g-4GEPcDWFL8ffxxVy_3nZPp7bnOX09rxuezEcMGBK9eHOI-3qKk0NLByHcK9Ixcw7lVOJhAk_C_8BottrQvPhRtKlrEr_iSv9irb_nujpRqtIzWM8qKNthgUPgMaIso_Hn3mBWYWiA6O7DiVaBK_Yjipfzx-2xqmWThqw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل مستندات Google-Extended را آپدیت کرد: کنترل بیشتر روی داده‌های آموزش AI!
 🌐
