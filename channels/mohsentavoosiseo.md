@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 15:17:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 15:56:47</div>
 <hr>
 
 <div class="tg-post" id="msg-903">
@@ -337,7 +337,7 @@ https://t.me/mohsentavoosiseo/511
 <div class="tg-post" id="msg-899">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">کسانی که جدیدا دوره رو میخرند، دو تا دوره دریافت می کنند(قدیمی ها نگران نشید تا آخر بخونید).  دوره جدید، برای راحتی ذهن شما جداگونه قرارداده شده و دوره صفر تا صد SEO و AEO برای همه زبان ها و همه کشور هاست! و کاملا آمیخته با AI که ابزار اصلیمون Claude هست.…</div>
-<div class="tg-footer">👁️ 1.75K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
@@ -819,7 +819,7 @@ Claude Cowork
 <div class="tg-text">فیچر و امکانات و قابلیت: ۱۰ درصد
 فروش و به سود رسیدن: ۹۰ درصد
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/mohsentavoosiseo/863" target="_blank">📅 12:27 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/mohsentavoosiseo/863" target="_blank">📅 12:27 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-861">
@@ -981,10 +981,10 @@ https://mohsentavoosi.com/video/keyword-gap-excel/
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=dVZkUGBYDXZi_NOgddd15klj035o-uuh0SLzYfNYWVEeNT98rbldbm45ELsFmaQylLCUT2cRixpZs_GW6Hzbeovd2e0OoOIwEAySl91VVCA7MgVDwrooTSVEQQ3z6S5Fggyyuop0-yqr33kA9DsBQNBnLIQfmD-cG_gPa4oBDSOs5nknlEHsUvw-bDmOwsIrmBL1uBbHg8-9E_YMxQxq5sA_Xso4DYgKGDaJA3dRkMwvdQQv1RXVq_bDxpuiwCC7yQqPuJcSb62lA8fS-B7g19zxRAlwtSMfcIAiQv4huGeDoSfG2Vg1v3ZxJGOxzP7OStQbciHwIIQlrNfDPS_o6Ii-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=n7jkWsGy6YdJ2RLYMSMFkKGyrvNNo14pRJL9KCmFJDRF85dCC6gBJTatCmoVPAoIk4-MlityS9Nc8s0uyLeaGbsFttM6OVay2IJn0kDdbkoLbkkkBd0qHLhGw6QNcoUCqxQD4zuiGWzUQ3_x31n6_I0Q0L-nig4FWLAAR1lD6ok3v2r0DJQkWU3wauei2ZuSlFffCjUvq4gXkK71TPdafwNkzWQN_T_UrvAOZyawj8orn36Ly0mGXCu3XNi5nbytVSYwk_lQfX5auy5ds5KlO2f4MJMavTIHUUA1Yelxr6UfAiebiiE__ZCEXb151nCr3jtq9BEyCmLayuu3crReGjzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=dVZkUGBYDXZi_NOgddd15klj035o-uuh0SLzYfNYWVEeNT98rbldbm45ELsFmaQylLCUT2cRixpZs_GW6Hzbeovd2e0OoOIwEAySl91VVCA7MgVDwrooTSVEQQ3z6S5Fggyyuop0-yqr33kA9DsBQNBnLIQfmD-cG_gPa4oBDSOs5nknlEHsUvw-bDmOwsIrmBL1uBbHg8-9E_YMxQxq5sA_Xso4DYgKGDaJA3dRkMwvdQQv1RXVq_bDxpuiwCC7yQqPuJcSb62lA8fS-B7g19zxRAlwtSMfcIAiQv4huGeDoSfG2Vg1v3ZxJGOxzP7OStQbciHwIIQlrNfDPS_o6Ii-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/f9a9cb06f1.mp4?token=n7jkWsGy6YdJ2RLYMSMFkKGyrvNNo14pRJL9KCmFJDRF85dCC6gBJTatCmoVPAoIk4-MlityS9Nc8s0uyLeaGbsFttM6OVay2IJn0kDdbkoLbkkkBd0qHLhGw6QNcoUCqxQD4zuiGWzUQ3_x31n6_I0Q0L-nig4FWLAAR1lD6ok3v2r0DJQkWU3wauei2ZuSlFffCjUvq4gXkK71TPdafwNkzWQN_T_UrvAOZyawj8orn36Ly0mGXCu3XNi5nbytVSYwk_lQfX5auy5ds5KlO2f4MJMavTIHUUA1Yelxr6UfAiebiiE__ZCEXb151nCr3jtq9BEyCmLayuu3crReGjzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🤩
 تو جشنواره تریبون، رتبه‌ات رو برگردون
@@ -1029,7 +1029,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 
 <div class="tg-post" id="msg-847">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-footer">👁️ 2.94K · <a href="https://t.me/mohsentavoosiseo/847" target="_blank">📅 18:02 · 28 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.95K · <a href="https://t.me/mohsentavoosiseo/847" target="_blank">📅 18:02 · 28 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-846">
