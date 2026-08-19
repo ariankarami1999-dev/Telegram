@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 14:22:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 14:46:36</div>
 <hr>
 
 <div class="tg-post" id="msg-2559">
@@ -307,7 +307,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -954,7 +954,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/ircfspace/2519" target="_blank">📅 07:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/ircfspace/2519" target="_blank">📅 07:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2518">
@@ -975,7 +975,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 
 <div class="tg-post" id="msg-2517">
 <div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/M7vSnF6CPmEkAC0QlptsEg4HXB1IMewkzAA9joLgBg4GE25DnxDlrav97_ecLB1hfPZcp0ZXzU6sl_QwYnQLxegqeiGhIcXW7JdIL26NLeofUiZLUNga4BFSTUvw4GDHfBW5VMSV2ZNDDu7bakfp6nAKkSSOxnmCGXmFJVIB1IyDXgD4gvNqBaPqfikBT9GovETC8Bd2P5xZEWx5zEG7ss7OoxwW_5fc-rkyI9xB75pknQx4mXathQKdOSmOlSmFLxRB0DynDpL8RCk9DJTFSomDk5IFbHlDRhY8H03Tg6YIuHi4WKKoe2QwEJByaoJlUCVZgeRAW5JXQDvMXYPNXQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ClVJV734VrcGlpHA4Kp0a70vNCfTz5nG107tS_jv9REVp5WfEELB379x-XzlWbpZSWBO3Kcmv6BxX1OeWs-nfg2hd_MRF79esAKJtmji0K702RxBn3ADRX5dxZrhTZUZVLDcWXleUvFF5ICQT7NgCzKrQYjuTk7AHgVRh-fIAQ5wgRF2Sl1a9DQQwPkkj8_238fdy1bxKZGujP9bev6wsFylgrN_8BeDZ0jbeP5Jy0pjrr2dKGe39ICNTXsNAf6q9gaGxjqLHAnWQJ4Ub7hRPyNV6w6vheB1_iSvHs0Zvol1kHqGPjfVGktsQznxNR-NtBLGA9sb9m45t4L8CDS45Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر شیرین‌سخن قطع‌ارتباطات گفته "سایت‌های ارتباطی در خاموشی‌های بیشتر از ۲ ساعت قطع میشن و راهی برای تامین انرژیشون نداریم".
 یعنی از هر زاویه به این مرد و عملکرد درخشانش نگاه می‌کنیم، حل مشکلات و امیدواری به آینده فوران میزنه!
 🤡

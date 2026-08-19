@@ -292,7 +292,7 @@
 <a href="https://t.me/MatinSenPaii" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)•YouTube:http://www.youtube.com/@Matin_SenPai•Github:https://github.com/MatinSenPai</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 14:22:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 14:46:36</div>
 <hr>
 
 <div class="tg-post" id="msg-4993">
@@ -308,7 +308,7 @@
 🔥
 🔥
 🔥</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/MatinSenPaii/4993" target="_blank">📅 08:02 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/MatinSenPaii/4993" target="_blank">📅 08:02 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4992">
@@ -316,14 +316,14 @@
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HOALewAFSlM7MBYJk1c2woz_EXO6ddOFPcIIJI4UcSeoT3SEGDc-snx7TunVKEGjD4xsi1qQ1XN6HdpgnrHi5pKUZoIleKNO4u1ZHTdLWdPQp83oWumjL9EYm89ET4nzZL27VKqzDkIZ7WHj6y7gM8hKkhsS9sm_pZ9mJg2S-0EVQj29_o8QUrHBic_UxL9A-NOJPVzGQ2A_ld_tNxjvYUv0OCfy9PM1pb0H3GPtgN0vxGg_IVwulba1atsorNr7iLbVk2yv2LKpd4rVtWfl06s0GF-SLL3t6wREapO4-KthIP4AXx_fv08_bdiCYD1YZdVx8m2qJ1Ovk6z1PzCa3w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تجربه من از 5 روز کار با OpenCode Go
 https://x.com/MatinSenPai/status/2089928470801318139?s=20</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/MatinSenPaii/4992" target="_blank">📅 07:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/MatinSenPaii/4992" target="_blank">📅 07:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4991">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OZqsIXAGwVRJd7uxVth6PBrdHd23pgWkMsb6MG7zarN-WCdH2NNBIWwXxxPH_3dpGdBj3RXimgJB_TJ-PcY2D4qvB8JDkABZ2IdXYqBhM_8XCM-riZlfQef53Scj_qiLpSyIuskg_elN3K5PFs3Y2WSqVSBVOklQHvxrLQ3lwEFRw915aJNBzA6VFmT0Hk8EMRYA2jVg80dE551rwBsurRsRSCYkf_z105P2-uUBHSzXp2m9OaQxFsivW3Y4ol9tnVeqzb72QZlG_d7uz-0cklQvdqK3NRzXpoRTCIR4oAIzN1j-1tkLH0ic6JEZGnLHokm9tZFBrM-gA1VZJvRp-w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترکیب پنل BPB + متد پترنیها + Chain Proxy داره بهم سرعت آپلود خوبی روی آیپی ثابت میده</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/MatinSenPaii/4991" target="_blank">📅 23:24 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/MatinSenPaii/4991" target="_blank">📅 23:24 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4990">
@@ -332,7 +332,7 @@ https://x.com/MatinSenPai/status/2089928470801318139?s=20</div>
 dash.cloudflare.com
 لینک ویزارد تحت وب BPB جهت راه‌اندازی:
 https://wizard.bpb-panel.workers.dev/</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/MatinSenPaii/4990" target="_blank">📅 20:50 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/MatinSenPaii/4990" target="_blank">📅 20:50 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4989">
@@ -355,7 +355,7 @@ https://youtu.be/7G9Fjhe_NxM
 https://youtu.be/dQKfkXnThCE
 📹
 تماشا در یوتوب</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/MatinSenPaii/4989" target="_blank">📅 20:46 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/MatinSenPaii/4989" target="_blank">📅 20:46 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4988">
@@ -363,14 +363,14 @@ https://youtu.be/dQKfkXnThCE
 <div class="tg-text">ویدئوی BPB دیرتر میرسه و می‌تونید اداره برق رو سرزنش کنید
 😭
 😭</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/MatinSenPaii/4988" target="_blank">📅 19:38 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/MatinSenPaii/4988" target="_blank">📅 19:38 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4987">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cXG7mCS4LzTVA91aPiQ2ttWbi7I1KMMsleGvm6hrUf3_UYThnN7CuGUbyMmBthkCcjeYNZDcWZrewRzjvhG_ociaDGlqG0TQtiZIR1dNkPmPdlw6o5bm0Ms7pijENXZzn_we9yUwvDabveWEwigW2ocUHC30gyFI5chrVPoYDjs-aQmg9nFPiowhpWiM2gJ9gSxoQmqebgTWlITjy34ZJMaiPVND1S4vz18A49z6RnGNGbRi0nVQt5l5RqVN024Any0Ib7e5XNrlGHhuYYKzD2x4bLYo3oQwBtABdJepkKIrElhgS95pP69F2T8cyjnQgbxqBPkHriKuneV0cV-1Tg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">WhiteVPN دسکتاپ هم سرعتش عالیه. تازه با ساب خودش هم دارم یوتوب می‌بینم</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/MatinSenPaii/4987" target="_blank">📅 13:38 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/MatinSenPaii/4987" target="_blank">📅 13:38 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4982">
@@ -385,7 +385,7 @@ https://youtu.be/dQKfkXnThCE
 <a href="https://t.me/MatinSenPaii/4982" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">WhiteVPN V1.5.0</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/MatinSenPaii/4982" target="_blank">📅 13:31 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/MatinSenPaii/4982" target="_blank">📅 13:31 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4981">
@@ -413,13 +413,13 @@ https://youtu.be/dQKfkXnThCE
 صفحهٔ تنظیمات، تونل تفکیکی، اطلاعات اتصال و چیدمان فارسی مرتب‌تر و ساده‌تر شده.
 دانلود آخرین نسخه از گیت‌هاب
 https://github.com/WhiteDNS/WhiteVPN/releases/latest</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/MatinSenPaii/4981" target="_blank">📅 13:31 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/MatinSenPaii/4981" target="_blank">📅 13:31 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4980">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">امروز ویدئوی پنل BPB جدید رو داریم</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/MatinSenPaii/4980" target="_blank">📅 12:34 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/MatinSenPaii/4980" target="_blank">📅 12:34 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4979">
@@ -430,7 +430,7 @@ https://github.com/WhiteDNS/WhiteVPN/releases/latest</div>
 مرسی از همه‌ی کسایی که اومدید
 شبتون کانفیگی
 😂</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/MatinSenPaii/4979" target="_blank">📅 01:36 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/MatinSenPaii/4979" target="_blank">📅 01:36 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4978">
@@ -438,7 +438,7 @@ https://github.com/WhiteDNS/WhiteVPN/releases/latest</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMatin's Dungeon(᯽マティ️️ン先輩)</strong></div>
 <div class="tg-text">بفرمایید لایو
 https://kick.com/matinsenpai</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/MatinSenPaii/4978" target="_blank">📅 01:04 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/MatinSenPaii/4978" target="_blank">📅 01:04 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4977">
@@ -586,7 +586,7 @@ https://kick.com/matinsenpai</div>
 
 <div class="tg-post" id="msg-4968">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AkaUpXBbLD6r1XM6VieCurfvVbw1wZ_W8w_kdcUSPOmjLmHIg4paeExrDcdQp1zJM2enpjngjJGNn0c4hyi2Nvk5b03Ttt-p05jndGCXt2OWtx-Kj4ecGN9YmayRnTxwPc-WQzL8LbEPsp85nYil6F_lf5B8867zwXvjl_xn1rlIYuaG-q-Y8-bW4JX-22J8aHfJlj37j6YcZECEyw7o_WxNLn4r95zpwLgD9ZSemd0bxJgPZlo0AKuX8e0lUDCnxTVIYr2NQTuS1xTZwniQJBt6zW_rTWBYmk_Ml3blrqb9HEbT-0wtg__Rov0O77NBO7OAnjTBiKdIrXz2qPSi2g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WXVq3Ulybj1KSRD7ucjsD7ffpuILRT4aIy10y1WdxzHB94LcrgDqj5ZbD0DohGXREqIQdipgU1rnkoPPobx1lA-Gv6y_fydRIBBPII92OXrfcj_OZfaXpjCj19zLoL9xvHUJKinE4qyhrPqlm7JgpWsL4TjlgDOgGA1B4h4XQCoWE9hzFa6rsnLStm2vz3jk7posrGKw32LGnd8qcROdDc9C1kxPNZ6hSv8kXmVjlg5fAQYRPJxnyD2ghnspBbYKUI3jp6aaRsvGFZdZ8nqA4Ti2EJoAJqOzoiKBcTuWH-sPukpYsjW5dAxnlKGTAe66zpc2tRZfVDMpzDBwSuVzMA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آموزش fragment+fingerprint برای رفع فیلتر دامنه و رفع محدودیت آپلود بر روی کلودفلر (ورکر/cdn) حتی روی نت‌های محدود:  Android: https://t.me/patt_channel_x/91?single  Windows: https://t.me/patt_channel_x/101?single  Android/Windows/Mac/iOS/Linux: Use Xray-core…</div>
 <div class="tg-footer">👁️ 33.7K · <a href="https://t.me/MatinSenPaii/4968" target="_blank">📅 15:10 · 25 Mordad 1405</a></div>
 </div>
@@ -701,7 +701,7 @@ v2rayN   7.24.7
 پیست کنید و به راحتی کار می‌کنه
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 38.3K · <a href="https://t.me/MatinSenPaii/4960" target="_blank">📅 21:52 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.4K · <a href="https://t.me/MatinSenPaii/4960" target="_blank">📅 21:52 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4959">
@@ -751,7 +751,7 @@ t.me/MatinSenPaii</div>
 </div>
 <a href="https://t.me/MatinSenPaii/4952" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/MatinSenPaii/4952" target="_blank">📅 20:35 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/MatinSenPaii/4952" target="_blank">📅 20:35 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4951">
@@ -947,7 +947,7 @@ Workers.dev
 هر بات پروفایل، عکس، توضیح و کار مخصوص خودش رو داره و حتی می‌تونه با بقیه بات‌هات حرف بزنه و همکاری کنه.
 https://github.com/NousResearch/Hermes-Bot-Mode
 @RepoFA</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/MatinSenPaii/4929" target="_blank">📅 18:11 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/MatinSenPaii/4929" target="_blank">📅 18:11 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4928">
@@ -1067,7 +1067,7 @@ t.me/MatinSenPaii</div>
 پلی‌لیستِ "قصه‌های مدرن"
 قراره چیزای باحالی با همدیگه بخونیم و یاد بگیریم
 🤝</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/MatinSenPaii/4911" target="_blank">📅 18:52 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/MatinSenPaii/4911" target="_blank">📅 18:52 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4910">
@@ -1145,7 +1145,7 @@ https://youtu.be/PAHA55mHLWs</div>
 <div class="tg-text">یه مقاله از 404media نشون میده یه شرکت پزشکی که ادعا می‌کرد تحقیقات و peer review‌شون 100% توسط انسان نوشته شده و ابدا AI نیست، در واقع کلا از AI استفاده کرده. طنز تلخ روزگار ما
 😂
 https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</div>
-<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/MatinSenPaii/4902" target="_blank">📅 15:32 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/MatinSenPaii/4902" target="_blank">📅 15:32 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4901">
@@ -1197,7 +1197,7 @@ https://m4tinbeigi-official.github.io/Antigravity-RTL/</div>
 <div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">وضعیت اینترنت به شدت بده اینجا
 جالبه از 4 تا سرویس دهنده، 2 تاش افتضاح شده، 2 تای دیگه کلا فقط داخلیه</div>
-<div class="tg-footer">👁️ 44.5K · <a href="https://t.me/MatinSenPaii/4896" target="_blank">📅 01:20 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 44.6K · <a href="https://t.me/MatinSenPaii/4896" target="_blank">📅 01:20 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4895">
@@ -1292,7 +1292,7 @@ Diego JR</div>
 
 <div class="tg-post" id="msg-4884">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ORsbHocxqT7AbDQva-6XQu56-E7BV310UMPg7bQ9xthaYzTyvJcXlfUS-d0rgLz9SKAK8HATvtv5EVdr1eGMwmEv3m376ZUSDDwoS-tVX-D98jwltr0WXdNdmFGJQbntouilwZO6Jrza3TcSVLujO1wua0nxPz3mcdi-O6XgUE7thsF-wk5PoowdYhasWRiZPpiOFstAKw530usQ9HU_l1pYc3Zhw3fGZx4-4g5cVhWWKYCs2hO3ipKq6fSU9DXcDgVUPBosVy96hLT08PCLLdKnuzkuC0JEn9ZgJuT9mamGzKXU_WsMcUbH7hlRFt80aXHag0vb1H6EJMXqOKBgCw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ABcIVH-x09W9WEUqXyyNlFPfmNdAM5WWTfCMy1n_JxOb3W2aWMzcBymRdn03zGthB5s2uKrN1ICo67VJoGs1-kDR3PAUH4oSjAPLJZDdjxRrKUPbYVs8kQPu7_RHFjIUTTjNTljgflp19NhzU6K3CnwbFJ5xB9TuJpZDf6JfjxXHSiE1c29D8E1fa-CdWL20-ngonteMrjY4kVvWnaRUelgxWMEqkyRVklTzGqxd1cckMJ04KzEuXLRAP1518oDOnlrQ6STeLzO-_LSfYZJKp5RxXp99pSTPrxHfWO_LPqnk25P3iUl1D1FgXDZkZinOIuV_9VvYksEpeWCG0ZyHNA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این سایت Free Movie هم بامزست. دو نفر می‌تونن با همدیگه، رایگان فیلم و سریال ببینن
 https://freemovieir.github.io
 هر فیلم و سریالی بخواید، لینک مستقیم دانلودش رو می‌زنید اینجا  و Room میسازید و می‌بینید.
