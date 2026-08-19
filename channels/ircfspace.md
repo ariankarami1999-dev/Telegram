@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 09:03:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 09:57:51</div>
 <hr>
 
 <div class="tg-post" id="msg-2559">
@@ -307,7 +307,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -345,7 +345,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -549,7 +549,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 50.2K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.3K · <a href="https://t.me/ircfspace/2543" target="_blank">📅 10:56 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2542">
@@ -565,7 +565,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 56.9K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 57K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
@@ -1019,7 +1019,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 49.8K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2514">
@@ -1294,7 +1294,7 @@ github.com/ZethRise/Aethery/releases
 
 <div class="tg-post" id="msg-2496">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JN4F-YlyAmz0H6J1XGlc2TT1ZWwUWk2ZnU34iWIkx-iY3FrqcriN2y88wqHEfpSXiSz-3u-TLXYf_RIcOaTcj6qzry8y5ZzUu-zilm0u2RRQVQlTxS3KX29LNc-zATlmQZH3SjhlPvWCJSwV3GjRj8Ly6lwktoDx7GF1qw3vKNXqolhuqiiOAafH0jZ4EyuUz6lp29TZYmiQe53YrXTq0e0GBXyLAtA9A1zWTWUlS-uh25Z210CsmtIKjImkaoJ3u-o1gcWcAuP-0xEnJ2w5SyuiLfpu0Nda5XNxxglTJFN4U-24QBR6WR_eX-3izpbg2oDdxVkFetK14fTv5odaew.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ntQOwjHGxAf6RqrhDEGaVrp7rbPCHR_X8-I_SWWIoDlPF3Z5xwGqMxCTXYWjVhemmwbuKB7M2XdCjb55DtoslIp6JkTnOg5K9mztf4aEMjjjxT93oYShcTYtByQLtVi3IIRa4KWbQMQI61dbiBBuUFMB9lt4iLMmUGz1AnpOHZhXqrIrPXFHNzqQSQXFXtADwJczBUqML-vHVnWSDjdJmgJFjY6pO0dYC89MhrRXlVZdNkge_lDjgmDMpSBurtqN-k-0tC6UQTSE4oAGdonO1F7eAUjwXaeevuTMJnyJygnvscpM5HYQ6j_G3fVCvDnIyF3wW-adp4gvG17k9qWjnQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت رسمی Sing-box برای سیستم‌عامل ویندوز بصورت پیش‌ازانتشار عرضه شده و طبق اعلام توسعه‌دهنده‌ش، همون تجربه‌ای رو ارائه میده که پیش‌تر در نسخه macOS در دسترس بود.
 👉
 github.com/SagerNet/sing-box/releases
