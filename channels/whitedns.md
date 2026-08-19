@@ -292,7 +292,7 @@
 <a href="https://t.me/whitedns" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 گروه :t.me/whitedns_groupادمين :@WhiteDnsChatBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 03:13:15</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 04:12:46</div>
 <hr>
 
 <div class="tg-post" id="msg-1521">
@@ -303,7 +303,7 @@
 📍
 تماشا در یوتیوب
 https://youtu.be/cRfqxbDY1Dg</div>
-<div class="tg-footer">👁️ 9.34K · <a href="https://t.me/whitedns/1521" target="_blank">📅 18:15 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.48K · <a href="https://t.me/whitedns/1521" target="_blank">📅 18:15 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1518">
@@ -323,7 +323,7 @@ https://youtu.be/cRfqxbDY1Dg</div>
 https://youtu.be/sdiGXCDsDvQ
 سوالی داشتی بپرس
 👇</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/whitedns/1517" target="_blank">📅 11:57 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/whitedns/1517" target="_blank">📅 11:57 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1515">
@@ -334,7 +334,7 @@ https://youtu.be/sdiGXCDsDvQ
 تغییر های این ورژن کاملا روی فیدبک های شما بوده، و به نظرم از لحاظ تجربه کاربری تغییر خیلی خوبی داشتیم.
 😆
 ممنون از فیدبک هایی که به ما میدید.</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/whitedns/1515" target="_blank">📅 08:08 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/whitedns/1515" target="_blank">📅 08:08 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1510">
@@ -348,7 +348,7 @@ https://youtu.be/sdiGXCDsDvQ
 <a href="https://t.me/whitedns/1510" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">WhiteVPN V1.5.0</div>
-<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/whitedns/1510" target="_blank">📅 08:08 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/whitedns/1510" target="_blank">📅 08:08 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1509">
@@ -375,7 +375,7 @@ https://youtu.be/sdiGXCDsDvQ
 صفحهٔ تنظیمات، تونل تفکیکی، اطلاعات اتصال و چیدمان فارسی مرتب‌تر و ساده‌تر شده.
 دانلود آخرین نسخه از گیت‌هاب
 https://github.com/WhiteDNS/WhiteVPN/releases/latest</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/whitedns/1509" target="_blank">📅 08:01 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/whitedns/1509" target="_blank">📅 08:01 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1508">
@@ -401,7 +401,7 @@ https://github.com/WhiteDNS/WhiteVPN/releases/latest</div>
 صفحهٔ تنظیمات، تونل تفکیکی، اطلاعات اتصال و چیدمان فارسی مرتب‌تر و ساده‌تر شده.
 دانلود آخرین نسخه از گیت‌هاب
 https://github.com/WhiteDNS/WhiteVPN/releases/latest</div>
-<div class="tg-footer">👁️ 9.64K · <a href="https://t.me/whitedns/1508" target="_blank">📅 08:01 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/whitedns/1508" target="_blank">📅 08:01 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1507">
@@ -434,7 +434,7 @@ https://github.com/iampedii/whitedns-sub</div>
 ولی مطمئن باشید ما همه پیام های شما را می‌خونیم و تا جایی که بتونیم ترتیب اثر می‌دیم ،
 ارادتمند و کوچیک تک تک شما عزیزان دل
 ویسپر</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/whitedns/1504" target="_blank">📅 16:18 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/whitedns/1504" target="_blank">📅 16:18 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1502">
@@ -657,14 +657,14 @@ https://t.me/MatinSenPaii/4960
 <div class="tg-text">💬
 دوستانی که فقط با فشار دادن دکمه کانکت براتون وصل نمیشه یا سرعت کمی دارید، از این روش میتونید تست سرعت بگیرید و بهترین کانفیگ بسته به اینترنت خودتون وصل بشید.
 توجه کنید، هر تست سرعت ۱مگابایت از حجم شما استفاده خواهد کرد.</div>
-<div class="tg-footer">👁️ 37.5K · <a href="https://t.me/whitedns/1487" target="_blank">📅 19:44 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37.6K · <a href="https://t.me/whitedns/1487" target="_blank">📅 19:44 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1486">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">🌎
 انتشار نسخه WhiteVPN 1.4.0</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/whitedns/1486" target="_blank">📅 19:36 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/whitedns/1486" target="_blank">📅 19:36 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1481">
@@ -677,7 +677,7 @@ https://t.me/MatinSenPaii/4960
 </div>
 <a href="https://t.me/whitedns/1481" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 38.2K · <a href="https://t.me/whitedns/1481" target="_blank">📅 19:35 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.3K · <a href="https://t.me/whitedns/1481" target="_blank">📅 19:35 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1480">
@@ -827,7 +827,7 @@ Settings → Diagnostics & logs
 **نکته:** اون خط خاکستری کوچیک زیر متن بزرگ توی صفحه اصلی، پیغام خود موتوره. برای فهمیدن مشکل همیشه اول اونو بخون.
 https://github.com/WhiteDNS/WhiteAestherMobile/releases/tag/v1.0.3
 @whitedns</div>
-<div class="tg-footer">👁️ 6.81K · <a href="https://t.me/whitedns/1476" target="_blank">📅 13:30 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.82K · <a href="https://t.me/whitedns/1476" target="_blank">📅 13:30 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1474">
@@ -1399,7 +1399,7 @@ https://github.com/arvin341az-glitch/RVG
 🔗
 تماشا در یوتیوب
 https://youtu.be/8G7xioYZqPQ</div>
-<div class="tg-footer">👁️ 54.5K · <a href="https://t.me/whitedns/1432" target="_blank">📅 19:49 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 54.6K · <a href="https://t.me/whitedns/1432" target="_blank">📅 19:49 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-1431">
@@ -2025,10 +2025,10 @@ Encryption Key
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/dcc0b81933.mp4?token=drYJDEoBxsaBgnEbFYbm7i91vLRkqacu5k6HflwRa39PnZTpAO9WessLm-aYugYd5JgKQQPlHfvV8Q-8EtM4Fp0HgARrMIjmitSjRrPe7zgGzscpL7mBhkEbUxjmKmJgfJtlc2ux5bRDgtGc6TLHwMjRBxuzc0n1tgYe_HODB140qJnWd6rhm8oTEnT57Qgy7u1NuvRkCS71VtTtMfOIcHwxj33CymDEsiNmE4IyoA_nzONSjlgE2GwEVwUZ7Jp4UmJKBT9ZdSXPlu40g5aZzPxuXXnTSnJn81f07WHR11Ce7advwO6QbmvBLMsbXynDfoF-vJdUd0PtPBeaBkn_Oah2LumkhS5QYSa7RJp9uwErWm9L4oMP2fp6bx4KClBGEL-F-HfytwiUyG4oH-m12HwpF3eBCfr3CHGWLJAIQlbZ_ZtjddxFoKgL-MIBta-uC_RZvb8t7WPSC9miEoJ0abaWvDdxU0o1e29eCzxDmta8VpzR7WtpgdUoPdnHXLFY_UW5HBfAt5w0-Q-rVc9qCj25IiVX4YXCcbfA8qA-poS-wWVgEeJbzm_NVMCR6LrUhwmGMZy6dKBfqqcWx7IbRivIj2vxH3BWfrzn4VpmFWYqorVWvzm7ya2ei5cKvCoVUGDHPHz-OzXqJvbc55BnfHInK84iKkzMVcDPp8zo3PM" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/dcc0b81933.mp4?token=ZZ24j0LcLqtqEXcw1BFUnBbHB4XGfYJpNyerg0mHMzT4evr5xWt-mStAHHG-YN7EZBLhKjPoVdS4FbFlkPs6uZfKXe4DExozdtoTjsm0RkVuySUMQKkxJdnkUJWdbk8_WwL6lt_HvntdjHh3UUVTfwKl4HkPzs2epDdkILLuWQXn5z6gaAiv0LQv-3PVt3vObejzz4QNGzA5A1ScppqkhObKm_4W1iKYxqU_c26-T_xQAgznXSra-MOzYmjcnyu1hBuqf7bW9-IOv4M_xuGPMqwHdvYM7DhAh-49n5rcl4Ft4QSOZyTy5k-IiigDW-SZwT-z6DKdh_mXFQb2qvemeKMWd72rNpUk1EO1DsHYR26lxr6FeXzEfPh0H0dipqqGud3njjKMvNoRqNupQa2qu5CdXp9t3kS6rz0ScyL29BHkjXanEyTorkUjJTdi9uNXLCxuCHTI3JklHjEYhNzessn4SrohInkAe5Pvwvfdi3sFpbkZ3-2v78LuCdmgVgu9sozX7tJBHytByp3SUjy01I4SkHURHSNh8sDjZVqPh-2LnSBQSus2P-uSjoSCgwLqqKmk5mYsKscgAp_fPAH9_ND7a-PbKQB5bCtDhuM8G5xdMJHhjTBldf_FGglir8InYCF55c9ZiB88yEoS53Th0qqPJsgmDG9fhyrzlR_qaSw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/dcc0b81933.mp4?token=drYJDEoBxsaBgnEbFYbm7i91vLRkqacu5k6HflwRa39PnZTpAO9WessLm-aYugYd5JgKQQPlHfvV8Q-8EtM4Fp0HgARrMIjmitSjRrPe7zgGzscpL7mBhkEbUxjmKmJgfJtlc2ux5bRDgtGc6TLHwMjRBxuzc0n1tgYe_HODB140qJnWd6rhm8oTEnT57Qgy7u1NuvRkCS71VtTtMfOIcHwxj33CymDEsiNmE4IyoA_nzONSjlgE2GwEVwUZ7Jp4UmJKBT9ZdSXPlu40g5aZzPxuXXnTSnJn81f07WHR11Ce7advwO6QbmvBLMsbXynDfoF-vJdUd0PtPBeaBkn_Oah2LumkhS5QYSa7RJp9uwErWm9L4oMP2fp6bx4KClBGEL-F-HfytwiUyG4oH-m12HwpF3eBCfr3CHGWLJAIQlbZ_ZtjddxFoKgL-MIBta-uC_RZvb8t7WPSC9miEoJ0abaWvDdxU0o1e29eCzxDmta8VpzR7WtpgdUoPdnHXLFY_UW5HBfAt5w0-Q-rVc9qCj25IiVX4YXCcbfA8qA-poS-wWVgEeJbzm_NVMCR6LrUhwmGMZy6dKBfqqcWx7IbRivIj2vxH3BWfrzn4VpmFWYqorVWvzm7ya2ei5cKvCoVUGDHPHz-OzXqJvbc55BnfHInK84iKkzMVcDPp8zo3PM" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/dcc0b81933.mp4?token=ZZ24j0LcLqtqEXcw1BFUnBbHB4XGfYJpNyerg0mHMzT4evr5xWt-mStAHHG-YN7EZBLhKjPoVdS4FbFlkPs6uZfKXe4DExozdtoTjsm0RkVuySUMQKkxJdnkUJWdbk8_WwL6lt_HvntdjHh3UUVTfwKl4HkPzs2epDdkILLuWQXn5z6gaAiv0LQv-3PVt3vObejzz4QNGzA5A1ScppqkhObKm_4W1iKYxqU_c26-T_xQAgznXSra-MOzYmjcnyu1hBuqf7bW9-IOv4M_xuGPMqwHdvYM7DhAh-49n5rcl4Ft4QSOZyTy5k-IiigDW-SZwT-z6DKdh_mXFQb2qvemeKMWd72rNpUk1EO1DsHYR26lxr6FeXzEfPh0H0dipqqGud3njjKMvNoRqNupQa2qu5CdXp9t3kS6rz0ScyL29BHkjXanEyTorkUjJTdi9uNXLCxuCHTI3JklHjEYhNzessn4SrohInkAe5Pvwvfdi3sFpbkZ3-2v78LuCdmgVgu9sozX7tJBHytByp3SUjy01I4SkHURHSNh8sDjZVqPh-2LnSBQSus2P-uSjoSCgwLqqKmk5mYsKscgAp_fPAH9_ND7a-PbKQB5bCtDhuM8G5xdMJHhjTBldf_FGglir8InYCF55c9ZiB88yEoS53Th0qqPJsgmDG9fhyrzlR_qaSw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">⏯️
 آموزش دریافت دامنه رایگان و نامحدود
