@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 22:59:24</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 23:20:42</div>
 <hr>
 
 <div class="tg-post" id="msg-77957">
@@ -303,12 +303,13 @@
 هنوز نام و سمت فرد دوم که از فرانسه اخراج خواهد شد اعلام نشده است.
 پس از آن که وزارت خارجۀ ایران در بیانیه‌ای دو تن از کارکنان پیشین سفارت فرانسه در تهران را عنصر نامطلوب اعلام کرد، فرانسه نیز از اقدام متقابل درباره دو دیپلمات ایرانی خبر داد.
 در بیانیه وزارت خارجه ایران آمده بود که با توجه به «فعالیت‌های خلاف حقوق بین‌الملل، به‌ویژه کنوانسیون روابط دیپلماتیک ۱۹۶۱» از سوی دو مامور شاغل در سفارت فرانسه، این دو فرد عنصر نامطلوب شناخته شده و حق بازگشت به ایران را نخواهند داشت.
-طی روزهای اخیر مشخص شده که این دو فرد، از کارکنان بخش فرهنگی سفارت فرانسه بوده‌اند و ظاهراً در ارتباط با پروژه‌ای فرهنگی، با دو گرافیست ایرانی دیدار کرده بودند. این دو گرافیست هم از همان زمان در بازداشت هستند.
+طی روزهای اخیر مشخص شده که این دو فرد، از کارکنان بخش فرهنگی سفارت فرانسه بوده‌اند و ظاهراً در ارتباط با پروژه‌ای فرهنگی، با دو گرافیست ایرانی دیدار کرده بودند.
+این دو گرافیست هم از همان زمان در بازداشت هستند.
 @
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 1 · <a href="https://t.me/VahidOnline/77957" target="_blank">📅 23:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/VahidOnline/77957" target="_blank">📅 23:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77956">
@@ -336,7 +337,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/VahidOnline/77956" target="_blank">📅 20:07 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 150K · <a href="https://t.me/VahidOnline/77956" target="_blank">📅 20:07 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77954">
@@ -357,7 +358,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 184K · <a href="https://t.me/VahidOnline/77954" target="_blank">📅 16:51 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 193K · <a href="https://t.me/VahidOnline/77954" target="_blank">📅 16:51 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77952">
@@ -379,7 +380,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 170K · <a href="https://t.me/VahidOnline/77952" target="_blank">📅 16:43 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 177K · <a href="https://t.me/VahidOnline/77952" target="_blank">📅 16:43 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77951">
@@ -392,7 +393,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 157K · <a href="https://t.me/VahidOnline/77951" target="_blank">📅 16:41 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 162K · <a href="https://t.me/VahidOnline/77951" target="_blank">📅 16:41 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77950">
@@ -405,7 +406,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 144K · <a href="https://t.me/VahidOnline/77950" target="_blank">📅 16:40 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 149K · <a href="https://t.me/VahidOnline/77950" target="_blank">📅 16:40 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77949">
@@ -418,7 +419,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 141K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 146K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77948">
@@ -431,7 +432,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 138K · <a href="https://t.me/VahidOnline/77948" target="_blank">📅 16:37 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 141K · <a href="https://t.me/VahidOnline/77948" target="_blank">📅 16:37 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77947">
@@ -449,7 +450,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 141K · <a href="https://t.me/VahidOnline/77947" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 145K · <a href="https://t.me/VahidOnline/77947" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77946">
@@ -462,7 +463,7 @@ VahidHeadline
 hra_news
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 163K · <a href="https://t.me/VahidOnline/77946" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 169K · <a href="https://t.me/VahidOnline/77946" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77945">
@@ -477,7 +478,7 @@ hra_news
 mofauae
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 299K · <a href="https://t.me/VahidOnline/77945" target="_blank">📅 23:53 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/77945" target="_blank">📅 23:53 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77944">
@@ -491,7 +492,7 @@ mofauae
 jnbarrot
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 299K · <a href="https://t.me/VahidOnline/77944" target="_blank">📅 22:19 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/77944" target="_blank">📅 22:19 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77943">
@@ -524,7 +525,7 @@ NCEMAUAE
 -وزارت کشور [امارات]
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 289K · <a href="https://t.me/VahidOnline/77941" target="_blank">📅 18:30 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 290K · <a href="https://t.me/VahidOnline/77941" target="_blank">📅 18:30 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77940">
@@ -550,7 +551,7 @@ NCEMAUAE
 UK_MTO
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 262K · <a href="https://t.me/VahidOnline/77939" target="_blank">📅 18:05 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 263K · <a href="https://t.me/VahidOnline/77939" target="_blank">📅 18:05 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77937">
@@ -609,7 +610,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 218K · <a href="https://t.me/VahidOnline/77934" target="_blank">📅 16:24 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 219K · <a href="https://t.me/VahidOnline/77934" target="_blank">📅 16:24 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77933">
@@ -628,7 +629,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 224K · <a href="https://t.me/VahidOnline/77933" target="_blank">📅 16:19 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 225K · <a href="https://t.me/VahidOnline/77933" target="_blank">📅 16:19 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77932">
@@ -649,7 +650,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 215K · <a href="https://t.me/VahidOnline/77932" target="_blank">📅 16:17 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 216K · <a href="https://t.me/VahidOnline/77932" target="_blank">📅 16:17 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77931">
@@ -783,7 +784,7 @@ VahidHeadline
 Vahid
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 322K · <a href="https://t.me/VahidOnline/77922" target="_blank">📅 21:13 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 324K · <a href="https://t.me/VahidOnline/77922" target="_blank">📅 21:13 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77920">
@@ -1289,10 +1290,10 @@ VahidHeadline
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/3500bcce36.mp4?token=C2rRDQeHWtr9BcoOwWXwrzwsyLZ5jz8h0_qXP7E1j2WQNE5XExCt_2JTo3c54CfxybDaUiRz3d68aEnN4R7Q696z4atyk729tlUKbJ7nqWEMO7CLdHecZn2CnDcjNcRmeczqdRI-_Us9K8K89CJSf6xkVAUox-RgCIdQ_0BgR1n2CDBNf7JOW1fvlZerMKZ2ZWGgRALe2ASmBdhB5llNWx7LyJTQo9wH7DbyPhpmjIIwKVc1-FuFycITPGBDjqJ7DjO3RjPYrTVq0uQUuVJWmhxRTrDMx9fr8uSqQ2JaU5YJ2CSq-C9t8RAfyBTkceuZu6bFYlgdRaEDxJ9G1TiajA" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/3500bcce36.mp4?token=J7IhHm0N1EV3A1MJMfp9TTUzLRwrYvgAq2b27TgsKDUBE30eGl8PPN97prixNf5EH0rEJfGQu2--4NFprXM4dpZvHMopm4rjapHJpRMXkLRVus6_Z83Ul_XQQpQe6Y78y00pv0amQOdFwY_UKnLNlFgGlOOxn45dgX5Atc1aaQVHzDBe1c9DHeOhCOE4mcFQjes2ysJS5a_Boq3GiwTljopnCigHk25fOAVviMm59pGEL32kv1hGyY01g9_cf_ZDnep2oYqmdIkFS8H_ujRPVJFoYdR4DHkpTSUP1wTWXL7NcfxEQ5W7BAT3cpVGf_FP3o_BiJh_K7PqH_I85x9FoA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/3500bcce36.mp4?token=C2rRDQeHWtr9BcoOwWXwrzwsyLZ5jz8h0_qXP7E1j2WQNE5XExCt_2JTo3c54CfxybDaUiRz3d68aEnN4R7Q696z4atyk729tlUKbJ7nqWEMO7CLdHecZn2CnDcjNcRmeczqdRI-_Us9K8K89CJSf6xkVAUox-RgCIdQ_0BgR1n2CDBNf7JOW1fvlZerMKZ2ZWGgRALe2ASmBdhB5llNWx7LyJTQo9wH7DbyPhpmjIIwKVc1-FuFycITPGBDjqJ7DjO3RjPYrTVq0uQUuVJWmhxRTrDMx9fr8uSqQ2JaU5YJ2CSq-C9t8RAfyBTkceuZu6bFYlgdRaEDxJ9G1TiajA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/3500bcce36.mp4?token=J7IhHm0N1EV3A1MJMfp9TTUzLRwrYvgAq2b27TgsKDUBE30eGl8PPN97prixNf5EH0rEJfGQu2--4NFprXM4dpZvHMopm4rjapHJpRMXkLRVus6_Z83Ul_XQQpQe6Y78y00pv0amQOdFwY_UKnLNlFgGlOOxn45dgX5Atc1aaQVHzDBe1c9DHeOhCOE4mcFQjes2ysJS5a_Boq3GiwTljopnCigHk25fOAVviMm59pGEL32kv1hGyY01g9_cf_ZDnep2oYqmdIkFS8H_ujRPVJFoYdR4DHkpTSUP1wTWXL7NcfxEQ5W7BAT3cpVGf_FP3o_BiJh_K7PqH_I85x9FoA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ترامپ: تنگه هرمز را قلمروی آمریکا اعلام خواهم کرد
 دونالد ترامپ، رئیس‌جمهوری ایالات متحده، طی یک سخنرانی در جمع نیروهای مجری قانون در «لانگ‌آیلند» در ایالت نیویورک گفت: پس از آنکه شکست دادن ایران را تمام کنیم، که هم‌اکنون نیز به سختی در حال شکست خوردن است، خیلی زود تنگه هرمز را قلمرو ایالات متحده اعلام خواهم کرد.
@@ -1550,7 +1551,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 323K · <a href="https://t.me/VahidOnline/77856" target="_blank">📅 05:20 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 324K · <a href="https://t.me/VahidOnline/77856" target="_blank">📅 05:20 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77855">
@@ -2096,7 +2097,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77808">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CXISaCy3DPfX0qpo-lnW3qYHkxlgBlI97ZTVjqFrTtXGdyDMLUUWp3SBoAWupQ6YlktX8IXfRN8Fs1gQk7QOxnt3cufxACZfvBoAnixo9I_l9GgbdtxJGDzpbOaKuN6VwG584ksDUvl96Eso4JSK7VFmYS3rEtPLK3lnlQ_VZK0WyaKF-pqbHpDxUm9HkruXxbjjig6lZWdwHJVhOI4Pmwd229OoWbK2ynojaqm7_e2tKk8WG4vJU1P5ua7MZEFdGJH3dXinViviEJWxZlkTUCakt-ejun49A7JCnuf3s3qhObE-dCDcA0GfKnCq2GoTxigYWUUEsdz9uq_n1hBW6g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V_ngRcLY_S8k1A9gIoJxFBK6d-1FepufTH5tnyG9dWPidWfpsy-lyK8tebQvvYR1z2i7Yq3nVquGvNihPTGfuuXE2btJzLNxUuVgiKab70msFHN_dSEW7_6ICt0IAHY_kL9y45up3VBtMKkwOKt8CJgbr7VllnFXbbuNWM6WGh2mEROPsrLFeTUjmghta1RzM4z2_mq-YEYh23oA_hL7di3GLPqp9h7kjoWS_jZ_aUijDCZ-cK-9ydnY2B7TImmYrSm-_bukXmciMNH0aiye9zSZd5a3cPdDORPr9LFK1t5xJKcSc1oegIVRMxWFpUgLWSh6NFNzr3_jbdFawV7qXQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به گزارش «آکسیوس»، آژانس بین‌المللی انرژی اتمی به‌زودی مواد هسته‌ای باقی‌مانده در یک سایت مخفی در سوریه موسوم به «سایت ۹۹» را پس از توافق‌های محرمانه دولت ترامپ با اسرائیل و سوریه، از این کشور خارج خواهد کرد. این مرکز که در زمان رژیم بشار اسد برای نگهداری کیک زرد و بقایای رآکتور هسته‌ای «الکبر» استفاده می‌شد، پس از سقوط اسد به شدت تحت نظر اسرائیل قرار داشت و حتی ارتش اسرائیل برای جلوگیری از دسترسی به آن، ورودی‌های سایت را بمباران کرده بود. اگرچه این مواد برای ساخت سلاح هسته‌ای کافی نیستند، اما مقامات آمریکایی و اسرائیلی بیم آن را داشتند که در ساخت «بمب کثیف» و آلوده‌سازی منطقه‌ای مورد استفاده قرار گیرند.
 براساس این گزارش، در ماه‌های اخیر و پس از مشکوک شدن اسرائیل به تحرکات حکومت جدید سوریه و احتمال مداخله ترکیه، تل‌آویو تهدید به حمله مجدد کرد، اما دولت ترامپ با مداخله به موقع و وارد کردن آژانس بین‌المللی انرژی اتمی به ماجرا، مانع از تشدید تنش و بروز بحران نظامی جدید شد. در نهایت، سه هفته پیش توافقی میان دمشق و آژانس به امضا رسید تا این مواد خطرناک به صورت ایمن بارگیری و منتقل شوند. مقامات واشنگتن این موفقیت دیپلماتیک را نشان‌دهنده رویکرد موثر دولت ترامپ در تعامل با حکومت جدید سوریه و حل‌وفصل بحران‌های پیچیده مانده از دوران اسد می‌دانند.
 @
@@ -2110,10 +2111,10 @@ VahidOOnLine
 <div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/996dc0281d.mp4?token=cKZswgoHAE2nfNpjod8z-3GOUgEr_ah_FKyECcqPfP9WN8Klm59Ma3pSKdxzOfjcsMKguJm0A9PM_PXy8WE-4kbZduXz1ZGeep_iIiCJZYedPRmk0GSkOPC1GYj3EECIn3PJDsqATagcLciqthzI1vakUlemjGifZoX7FX9essRaRSuVJDUXzfIQ6Ht536TTKMZMgMNyXbKG_IsCUP7uoSOjcj-WAKe1grl5iwIakB03q1yul0wSVXZ1Lf50K46QA7IHX2d1pQ-TIdzEm1WgYWmm3rTveRkYj2NnskxkOcrnvGZNkW5vHOAAsIbDmoh1qqWsan7EJEKTyC87RoD_CA" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/996dc0281d.mp4?token=OyzZelVQCGYCD00TNL1piU0bBPSJzq4kHCFlsvAg3ILrXvmsjSTQjUlrqNA5FLyYTK54BZrKgtt7HnmNZAI1aMXxmSIB7-7Y_MvTWw4MlfbKcduVqCEHFOneDwIdsPBM0CuI7OgNZ4MJ5gRuiEUClJoNzO0SQ089BH_GtlH-38liBSRNtIuBbLwf1MOf6KSkW2i22c7B_sB-k6t8iR0hx9GQhFzgSuKFNUUkeO06fKEmsU0lglPRT5ANNnb1ZbnkB3bblqp51p1Q8xjyZfcJ2WLe__6IYdksLuyHXIirOlyQ1GBqciWk8GnVdX5PiTna3XK76UHJAFKQz9UhyyiPyw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/996dc0281d.mp4?token=cKZswgoHAE2nfNpjod8z-3GOUgEr_ah_FKyECcqPfP9WN8Klm59Ma3pSKdxzOfjcsMKguJm0A9PM_PXy8WE-4kbZduXz1ZGeep_iIiCJZYedPRmk0GSkOPC1GYj3EECIn3PJDsqATagcLciqthzI1vakUlemjGifZoX7FX9essRaRSuVJDUXzfIQ6Ht536TTKMZMgMNyXbKG_IsCUP7uoSOjcj-WAKe1grl5iwIakB03q1yul0wSVXZ1Lf50K46QA7IHX2d1pQ-TIdzEm1WgYWmm3rTveRkYj2NnskxkOcrnvGZNkW5vHOAAsIbDmoh1qqWsan7EJEKTyC87RoD_CA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/996dc0281d.mp4?token=OyzZelVQCGYCD00TNL1piU0bBPSJzq4kHCFlsvAg3ILrXvmsjSTQjUlrqNA5FLyYTK54BZrKgtt7HnmNZAI1aMXxmSIB7-7Y_MvTWw4MlfbKcduVqCEHFOneDwIdsPBM0CuI7OgNZ4MJ5gRuiEUClJoNzO0SQ089BH_GtlH-38liBSRNtIuBbLwf1MOf6KSkW2i22c7B_sB-k6t8iR0hx9GQhFzgSuKFNUUkeO06fKEmsU0lglPRT5ANNnb1ZbnkB3bblqp51p1Q8xjyZfcJ2WLe__6IYdksLuyHXIirOlyQ1GBqciWk8GnVdX5PiTna3XK76UHJAFKQz9UhyyiPyw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">دونالد ترامپ، روز دوشنبه در گفتگو با خبرنگاران در کاخ سفید با تاکید بر تسلط نیروی دریایی ایالات متحده بر تنگه هرمز گفت: «تنها نیرویی که در حال حاضر بر تنگه هرمز تسلط دارد، نیروی دریایی ایالات متحده است. ما محاصره‌ای برقرار کرده‌ایم که خطاناپذیر و مانند یک دیوار فولادی است.»
 رئیس‌جمهوری آمریکا با بیان اینکه اجازه رفت‌وآمد کشتی‌ها بر اساس تصمیم واشنگتن انجام می‌شود، افزود: «ما اجازه ورود کشتی‌ها به ایران را نمی‌دهیم و آن‌ها اجازه ورود به تنگه برای رفتن به سمت ایران را ندارند، اما مسیر برای دیگران باز است.»
