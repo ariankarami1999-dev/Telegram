@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 12:54:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 13:26:02</div>
 <hr>
 
 <div class="tg-post" id="msg-2559">
@@ -390,7 +390,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -413,7 +413,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.5K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -570,7 +570,7 @@ manageit
 
 <div class="tg-post" id="msg-2541">
 <div class="tg-post-header">📌 پیام #83</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MSvRcVR0Um3Ssatq13EKyeezfXHXbW6ALzFWVedkttqAhYdVINPFwaHPOh2__TvC-bADmrY88lu_2ft3vxK0z3gxKVy2gUPXIOLQkR6L837bVXlG7o3ONe2P0MHMNEJhHJKONQg1ayglpDYgUgK3BXnhPbv0pygJZE5iaWFJTVb9PNt-hUEOqw6UK7-xpbTKlPCK3KFYWVcvfbvlS3CFJjcY4LIZilIcU1W3tTY1q1GmF8s58Bt0xPKuWjZhvGEZarVdPOVLmUVsDn2IVH9nhf9pH2D6o3incH6AQbe3Z8VDYHrBctecAOmc9-RP-GKpAmTf5tQUI7VwBR3cnfXaSQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/I1YHUxdwUbJnyoEaLT47dVvlvTDPDgCapj4aCm0dWZYzwGQTJRmH5O-fQ74EOjIIaKkzoDh5WEyvs6si6rq6MwwtfJu8e_z2iJnpJF_2pb-mdq3thLjJAwam6CrFyDLVbALCJ8yEs6R_n8ZACXjCtMWuk-YBCoekp-vsfaw-d2PCvD2xLxL9paNg0LN7GT7liprAGQTEUv1y5Us6WWP11B48t4_lR456KYvJk3dqeMFVp2eA70z0ocrMMKmAbQgI_dAc9FYzB0dyKQeaLnsIx8vnB-FKsQJsTPrDUZlRqBrkKqnlWOrsa93usIhrJslFMjVc2MF9x27B__aznEf8IQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باورم نمیشد که بعد از ۸۸ روز قطع سراسری اینترنت به جای اینکه بیرون بندازنشون، به نمایندگان حکومت تریبون دادن که در اجلاس جهانی اینترنت سخنرانی کنن؛ بعد دیدم این اجلاس در چین برگزار شده!
 روابط عمومی وزارت قطع‌ارتباطات گفته نمایندگان جمهوری اسلامی در پنل‌های تخصصی اجلاس جهانی اینترنت که دیروز برگزار شد، مجموعه‌ای از پیشنهادهای راهبردی برای توسعه همکاری‌های جهانی در حوزه‌های اقتصاد دیجیتال، هوش مصنوعی، امنیت سایبری، خدمات ابری و تاب‌آوری زیرساخت‌های ارتباطی ارائه کردن.
 🔗
@@ -580,7 +580,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 52.8K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52.9K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2540">
@@ -600,7 +600,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2539">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ng0nsMTvfn4_XEvMayb5FB1mY_9hTPjL_XBqtu4MwwGH4DFoB5xTi3sFh7Bj8bR5WCwy8gD-1dfe4qw6lOrJYGo-AyVYTNHal-AyRwzpzp_IXhpm8hOIV3kO6GRjXT-fHii8iw9JPFRP9ejX9JBf8U_UCwbZpyOybkiTyLHiiUV3JjA4rgknTfLFxae6Dumi0Csd84mvo6G9b2bdn3xMJZ31z8TnTmbHYVhv2NtJlsTCJlxrVflzc8VO7j4O7iGCXu8Yx_vw7QOGC2Sexv3fAiGnyvlala0gQlfPWIK0BjZrfR4RPZ65mOLg7sTcfsnGuIYdE57bzEbvwIW-Loe3Jg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vPVK4t8O7KBBisH-ZKRjud2AbxlUJzS1CUO9ZVsm2zYY-jo5FXHDrKFREc5PCSCi3yEUQEgwTDR8dIJmV9jD5KTGuoFMABi7Zwzma4JFD2KOIMWPSqfhBRkMOmL020D2GmC5_U4HkA_sV8A4-wFLslQSdQlwJpkzASokuPAhjEvgHK4eZu2chri0n679A6m9T8FlKc2JEUbuhkxJ3WzBqRQWhmw5ev21DuhjtOEyF2SX2G3CXH_wtroUXPvWUUNk-TnTpDhSE_OtZ9lOAwH2dHLdZVibHrvWxAu6usabiIYiv3Nn2suyN4pdKis59gNw_v3ekpLiJrScIy6SdEHbcg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جدیدترین داده‌های مرکز آمار ایران نشون میده در بهار امسال ۶۳۰ هزار شغل صنعتی از بین رفته و سهم صنعت از اشتغال به ۳۱ درصد کاهش پیدا کرده.
 حالا این آمار رسمی مربوط به مشاغل صنعتیه، ولی فکر می‌کنین آمار خسارتی که بعد از قطع ۸۸ روزه اینترنت به درآمد و مشاغل اینترنتی وارد شد چقدر بوده؟
 🔗
@@ -610,12 +610,12 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2538">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Dxr9qt7C1Vf_QRKc8_mMWNC_0kH0PhQgYS00zBs9ItjI8wOoWIJPw7G3qqBF0V8Vg1D9JmIin46TWlVlBo4PCZQb5Q6ulC1l5cyxnVYqGywBzYCj-XGcgmi_mnRYfnvgcKDjTUxz_Hr9ZWiJxMsQD91lxFgQzvzLZOda_W32O-itzVl0NOGQkK7OKP49Gk7rARRrvvtWF5feWrEN3RgljcGdlMSaVTWNjDQyndhGcKSoYQ_StRFIIt32UNi-Eifg3ReX1HxGVZ8T0tj-HBPFBv-kr7mygnDIXBMVOtxgxwfWg8pYnxjuo1bnXsyN9buNB5pXPqG-VJackGVmSqAP2Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/m_DUxpNvvNJSxms-UZBUnNzLDAgSzy1IHg6B6qeu8Qwi9YfOAU8XSC8ZKBnRKbLmN-zbyA2y-O2rDoZ0H7ugpM8JxTQTRFiQc-tE37qnnc8a38S-in2AJkf4MfhPNHocRdU1-7VnKj28cb-YEcrIdwTNCCOhC5iFHEoRyW9N2BS1H_126sP3gMRzabBPP0VCmp5oMhxABVClPXEID55CZfCA1bnn3ZJfAKus2BVmpRRlhiCMgmM8qdKbXFUpW_ClntwW4JSz0dRJqj3JNW1jBj2KYO9f5nVrgiPHVtqsZ-fnOfXUuq40RGRKucK2JWP_gLZkuYHvlduxkjzwsrM5iA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چه کسی و با چه مجوزی تصمیم گرفت ضریب بسته‌های اینترنت بین‌الملل رو بدون اطلاع‌رسانی تغییر بده؟
 قبلاً ۵ گیگ اینترنت میخریدیم = ۱۰ گیگ داخلی بود! و فقط پول ۵ گیگ رو میدادیم. الان پول ۱۰ گیگ رو می‌گیرن!!! فقط نصف اینترنت بین‌الملل میتونی استفاده کنی! بی سر و صدا دزدی میکنن با عوض کردن مدل درامدی!
 غرامت قطعی‌های ماه‌ها اینترنت هم هنوز پرداخت نشده. این دزدی سازمان‌یافته‌ست که با حمایت وزارت پست و تلگراف اجرایی شده !
@@ -1241,7 +1241,7 @@ slcyber
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/ircfspace/2500" target="_blank">📅 07:57 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 36.4K · <a href="https://t.me/ircfspace/2500" target="_blank">📅 07:57 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2499">
