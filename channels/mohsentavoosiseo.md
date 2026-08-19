@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 13:26:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 13:51:17</div>
 <hr>
 
 <div class="tg-post" id="msg-903">
@@ -509,7 +509,7 @@ booking.com
 
 <div class="tg-post" id="msg-888">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VgSlLXsZKSSpPE2LamdSS3UzlAoSb5p1jsdV6n_9xBIOuceLbL2fiu2b1_5lRIxQVBQdVNBKnwqg8NPnD2ExOoGXqcN-C8tgcfR2pfRdKZjSYcxjIFlRwPjajzSeVLmG2lRDtJRw52VqIcu58Tgybd5d32cfDkSnWaQbeLZM-DOcbvJar4Q2qYQhFkGjJ8KQM0lY1GsxYjxkqAcSeavY0AsDb5bDKFdb9AhuHJlSS2mJHVezHem02PB0KGBGEvs7a0tlZg1WwPrOiNCMADJ-W3EbkWudYcgCNMpBrr995Qamq7WgiTg4jvAMyiWKeHOxj_AayMCwikGnc6JjQOr9Zw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SuwgI1iQ0B29jepeICtUOQSd3wx94C05Nkt8ARe1K-RutLVV2Oo6DhVD68SnbEGaymgoBqxylsF1Sd-gfDz91dtINd4VfvNM_yiuBh4EWRRajMYVOPV1n4bi23yMHOBYz9fUGBcpQvWJIyO0HC4oFE6q_i6D7O3QfP0GN7vDcyfwQ1IamrgL3QLLF7nR1WsfU3X9RqhQSM86d8Lg_X1zR9gMsbq_KXZZYv6EAWjRk2MATDS14saPs4nmxcVdcB4lWwVZflIxKnEhJtC5VvHrTTUOEQyEk0uDnFQc5aAh6DZkNyy3UtQzfTNmaLbbtohOi32X4H_W8HuW6RboYp2OQw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسانی که جدیدا دوره رو میخرند، دو تا دوره دریافت می کنند(قدیمی ها نگران نشید تا آخر بخونید).
 دوره جدید، برای راحتی ذهن شما جداگونه قرارداده شده و دوره صفر تا صد SEO و AEO برای همه زبان ها و همه کشور هاست! و کاملا آمیخته با AI که ابزار اصلیمون Claude هست. کلاد اختصاصی در محیط خود کلاد. نه این Opus که هوش مصنوعی های ایرانی و خارجی، میفروشند.
 البته بگم من مثال هندی پاکستانی نمیزنم. ولی از شرق آسیا یعنی ژاپن، تا قاره آمریکا رو پوشش میدم. آلمانی، ژاپنی، ترکی استانبولی، روسی، فرانسوی، اسپانیایی داریم. فارسی و انگلیسی هم که سرجاش.

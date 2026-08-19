@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 13:26:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 13:51:17</div>
 <hr>
 
 <div class="tg-post" id="msg-2898">
@@ -328,14 +328,14 @@
 ❤️
 کانال رضایت
 @AIPrime_Csat</div>
-<div class="tg-footer">👁️ 6.02K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.08K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2897">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Et7ILQjy7T0tOpnYRPu62rxGi8pYeqWkqmNmWepZ3MWWtBaDb6k1dvSHAGDtKbKW-hWvdN_Bcj-hyXUrOBgDFzHuULndSNRLZCOrUEEdWthFj60zj1EYzy_1-0Sh9IV04uJVOnvwfwBvsg44L4uZRA3DDdYpcWVxalA-y_PntbMGKJBu7iCYu5VTQRYMFNI4UH_XIX79KAK5ryvn6nf_EUXZaykTwe2f9R-PLXX2GX3Zm9vqJEgA2bIqr4r-AurHKnel_dKZKGVRR5q1plze0aRCPmlKMYZXkBAqmHHR_wZErMygB2MZ-_RK_mRDUndBJiViwQMeeckU-gOuRfAiSQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کدنویسی در سال ۲۰۲۶ :)</div>
-<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.51K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2895">
@@ -357,7 +357,7 @@
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 6.56K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.6K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
@@ -384,7 +384,7 @@ BFI
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.63K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.66K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2892">
@@ -413,7 +413,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.59K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2891">
@@ -441,7 +441,7 @@ Ad
 اگر تبلیغ‌دهنده محصول دیگری را به شما پیشنهاد کرد، این خرید ارتباطی به تبلیغ کانال ما ندارد و مسئولیتش با خودتان است.
 ممنون از همراهی شما
 🙏</div>
-<div class="tg-footer">👁️ 9.75K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.77K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2890">
@@ -454,7 +454,7 @@ Ad
 ارتباط با ما
 پیام بدید تا مشکلی پیش نیاد.
 🙏🏻</div>
-<div class="tg-footer">👁️ 9.95K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.96K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2888">
@@ -1340,7 +1340,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2842">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/wAK8vM8MYy1TaeYJqBf_XVPhJSH4f3YyePeisNrLK1xoK8iXwIKLERmK9VY_t0no5rY9ajdt9EejLT7vdqWVsT1PdetuJwxOVA9Sk9ACa3H4IophhuCEk3vNA97PiVJXfVnsgp2RF4ZemB99dcFJ7Aagtmj5ruD9_i_F9rrXn9uu5sywCs1WBGr7HJJzWS5_zgLz40fECad9SEqjlB_a69RnJNzozvUFuoowJCC8twAADtrA-CWemiNYiQyeU9CYDh2zAxywcJSAjcLItBIOacsLvmccxshRwg-ctnsLq_5qa5KdCFQuY7nSkpicCnzejr1SAGCkIiwK1PYkTRVYsw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fopwqY8dhxI8JTxnj-RXyJIitjSCazMs1cwOelLKHyRkc3qSJU6N9Jx8AyiSoY_4BAsS5vaH3Ryc0gk_YI5Zowzbbnxm8IEzpNLqEredYFx3bpXLkBjHwQewTghgFce1ARfewto_z-3vwuSv3L7TV9o_wCqYD1QD80H809b8uj_t0yEs5IJhrbZQX_VzI-3FWB_uP8B4kmiiyjjytDYIGGfVzGf-0Prmok32KnBml9_GpZ2qqedA411VjZCpAxiCyZVKN6j_9_PEtp7Xw3kq7jyG6UticGoC_IpreVKUdgR01rFypMIRdl-KK7U0XMlBHNaM24peyeXj-SKMvHR0zw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 دو ابزار برای مدیریت پروکسی‌های Psiphon و Tor روی سرور لینوکس
 این دو اسکریپت ترمینالی، راهکاری عالی برای کسانی هستند که می‌خواهند چندین لوکیشن مختلف را به‌طور هم‌زمان و یکپارچه روی یک سرور مدیریت کنند:
@@ -1399,7 +1399,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2838">
 <div class="tg-post-header">📌 پیام #58</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RaN4y_kMhSCeSpSEwuAVgypOHszrEbow5kbbXXpVvjlOjYmrrU8P8JdHG25mWhGBFpG4U_U7auAQcMWLaRZmuZ3DrrFrnMc93FlPNy4iIkkF31SfoeRz6n1fXrO9AMs4yod8LG4RUilN2Ood_2BHLRErIZR1qK3plei0FO6SunrkX9aqZbq_xw5j7Rhm5DFnlBqok38VGhbw1Sp6IPJAyq7d6sbif67ittC70nC5QtWne1vy5uk2amtTND3yuoMr_wU0deWKX8MMmI4cpMk6rOrEdluVJqBm727EjurUZv4E1PePwILV5x-vg9LBiO4-tTwMOBs_hnsuK-u2tfdnPg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/W61MLQOOqxC9DIr-fM2XuApHtWFVkQQxSEJBkplb8bpadybtbGeFZofW-Q6PZhOnA22Sp82UcrS67MHLrczCIH8-mnPm_9gPDTMoZIJA2SmPqR81Xtn7KICNh7LT4Xun4ByhlKH9vSPVPqR66VUziMEhKe2-PMJSMYGTVocYmi7wK3SZNVUNW1ZNvfvrEx74UfB5XKYL7DHrdrB7HJVvEdP_Rk0Qhi2jk_fTdCb1_Wx6KDt2vjyqdiQrEnx3BhAyjQbjfH-j5D-MaowjmuX-ht_YMp82T-4z8l1_jbmRLmySAt0i7aFdF0677VV0wfrH9oaYkYNZn1Lt5yfOa5-knA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی کلاینت جدید Disruptor Proxy بر پایه Xray
 یک کلاینت پروکسی جدید و بسیار سبک است که برای سیستم‌عامل‌های مختلف توسعه یافته، اما

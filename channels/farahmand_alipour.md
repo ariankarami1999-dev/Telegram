@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64.1K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 13:26:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 13:51:17</div>
 <hr>
 
 <div class="tg-post" id="msg-6615">
@@ -302,14 +302,14 @@
 وزیر امور خارجه امارات با صدور بیانیه‌ای اعلام کرد که تمام معاملات تجاری
 و مالی امارات با جمهوری اسلامی
 متوقف شده است.</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/farahmand_alipour/6615" target="_blank">📅 00:19 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/farahmand_alipour/6615" target="_blank">📅 00:19 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6614">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nrEWMmpPKG8KUf5AwHOo_70eZ8sfSdOzxjifoXzvGmmV4NwYFKUPG-AnGIjABx6PcjDhyJUVCp_a-WmAh12aIujzi3gpWeLQdR3kAH_ILwgIyoKfWf5dr2tJnONrZfs_C8y60BAK0oKTX3HPuQ6pw-iAXICGFgVzyImYaT1DqxInAXVBP70xfHltvg1KbH5k4QLJXXCxVAfysUZazMxpEvgJ-xP4jiI73jjSSVYfv8Fn_kBXTWeyHYJs92E3PgzRwcEdQk-XE_kiRrgAOS5Q9LlB8trxfUOG5iGzYQQITgobIikPxxl2943hR-vmYHw60M_VPjpcyRUnWO_BxlBoQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بخشی از درگیری‌های خرداد ۱۳۶۰  بین حامیان خمینی و ملی‌گراها، در واقع ادامه درگیری بین مصدق و نواب صفوی بود.  هر دو گروهی که ضد شاه بودند هم در سال ۳۲ به جان هم افتادند هم در سال ۱۳۶۰</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/farahmand_alipour/6614" target="_blank">📅 19:34 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/farahmand_alipour/6614" target="_blank">📅 19:34 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6612">
@@ -319,7 +319,7 @@
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/JHS-fyMoAv3AITT3WpY3hgOjnkHk_wmX20wPykt-S9PB874v5ZKqYYXLL4gmhfXZHbhMQxxtCQHulnU7gdnmoFjBVKLEGohsTnEiQ2MBborOhdQq_0vyOgSCWeoNayqCWxVlRS65wt3QSx-feoWbQIgkCXmeMeUIQQbH7GwMssczA1gAM9J8rxE-TTysnMFVNu-c6VYcOohWESnt7ydcC7oChcPXP9D5tUq7owlJSxO0IbEhnHuXud1OmoIPsyvrE_RCkL-AkeWbkiYEU-ovVzXTcqjxYc9S4bzfxhoz9hrbGmhC1eqdNCF2Pydu_rlnVMbResjipF4rLGxDb8zHzw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">این نفتی که اینها این مدلی  ملی کرده بودن رو گذاشته بودن توی کوزه  و آبش رو میخوردن ! حقیقتا!  مثل همین هزینه ۱۰۰۰ میلیاردی برای انرژی هسته‌ای  در ایرانه و خاموشی برقه!  هیچ درآمدی که نمی‌تونستن داشته باشن هیچ مردم هم چنان فقیر شدن که ظرف چند ماه از شعار «انرژی…</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farahmand_alipour/6612" target="_blank">📅 18:54 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/farahmand_alipour/6612" target="_blank">📅 18:54 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6611">
@@ -333,7 +333,7 @@
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EY3yW0v-Pgks9oDGstGbQPlsJ9eB-iPb1emBmNWvgedDtAo8MzkERO1lgP8UXm-kTEHCDQ4LscafKoxBAF31XA-Sgq45rOWYx-rEPOD4yVZvVq-R9Hwloyyrc2-Qo7y6nC6EpA7LtUq2dXSryYn26on-J59eETatBrJCJ9E9I-4kSabHhMVXJkKOg2lICzEd3K62AlxEB__YKTITq6eWhVPgzIVevJZNsBqqeqESUUF6T3a7-2e9ixcM63cVvHU4YOzfvvTlvoMqxaRRtxOEE7nPXXgJ3iqOrz5yxGehx4McgbIc6qtQAehmxpaVGgtKSVkSVPjBwjdvEGSlA4LF2Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایران در اون سالها، کارخونه و صنعتی نداشت!  وارد کننده «همه چیز» بود! دارو، لباس، آهن،  ماشین، سیمان و همه چیز!  ولی هیچ‌ پولی (هیچ ارزی) برای خرید کالا نداشت!  کار کشور به جایی رسید  که دولت مصدق اومد گفت اصلا فروش نفت رو بگذاریم کنار! (اقتصاد منهای نفت!)…</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farahmand_alipour/6610" target="_blank">📅 18:35 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farahmand_alipour/6610" target="_blank">📅 18:35 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6609">
@@ -347,21 +347,21 @@
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EQnuvEqO9_M6NSgPhNn2pGS1r4V7liV6zVWhmWBSBywZiGyPF_K1MD5Fv7W_0MmQHWhJqTssX3NFC_-rguKeEzdgxZn3DCMqC6_-o6G6aMemtWq2n1AiTyBqzmkq1tyvPoqzrrX0t8onXzWZJUqJspF9afz5NoPFPUgxAFzJ-8xqnGu4u62F5jR5DI-X1OV9XptvoK5kVYd9eOOXKGUsmlt3ejtjd62n0trHOBaspQ0w1fVpkqs1F0kVRfzFKRFJHGKVuUZDfjZsBKvYriOG4N4WlwyKNlM_kfEjFiBlrHQM2wiCP6CZOto3HYJg_ou23esVk5fk8I67IiefIjSBwA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رزم‌آرا، ملی کردن صنعت نفت رو رد نمی‌کرد ولی می‌گفت کشور آمادگی‌اش رو نداره!  و وقتی نخست وزیر شد، جلوی این طرح رو گرفت! تا اینکه یکی از اعضای «فدائیان اسلام» و شاگردان و نزدیکان نواب صفوی، او را به قتل رساند، زمانی که نخست وزیر بود.  مصدق که بر سر کار آمد…</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farahmand_alipour/6608" target="_blank">📅 18:16 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farahmand_alipour/6608" target="_blank">📅 18:16 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6607">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a4pBZ94kA2NkKwKlwNNxkHHuYvMqJasnpHUEhA4wqDTo7rRxPdRxEXh1pBOK8JGEAa4IwYgoSHAR4jD6gGZHNxe3GPsz8Flg8R8GDRAn658CL5gNZlYubV5NiV5-kPQrknfpwc43WC2D6Xn24vl6jsfIFkHmVCkWiEBq6JjdXlCLNRmS2Ly72BQ5cPZ7Nap7IVMGwtyEg9xN89R_WfrDQY5Uz7ImIYZIh4upag6hZXgXTg9g3CjG4vZmf1YqRZkulBON9FYphW0f21WaicS6FaofOs513nrVB0Zw-BLEjGUPdwGaDFTr2mQ29n5DJQqTtcAsIi9KdklCfZeFf9C-qQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حزب جمهوری اسلامی در یک کودتا و با طرح اتهامات کاملا مضحک و واهی  که بنی‌صدر در جنگ خائن است،  او را از ریاست جمهوری خلع کردند. سالها بعد شمخانی گفت نه!  او خائن نبود و اتفاقا دنبال پیروزی در جنگ بود و‌ گفت که سران‌ حزب جمهوری اسلامی  (بهشتی، رفسنجانی، خامنه‌ای)…</div>
-<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/farahmand_alipour/6607" target="_blank">📅 18:10 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/farahmand_alipour/6607" target="_blank">📅 18:10 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6606">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EY0SgegUIrXJ7wWYUr3oh3FZajoN0CKbNgjrsdU5sR9dwUmBUPQionOi_Ap0RoOksm3Gc_emf4DDplTPWLmXft66pFbytNuBaWM96VxvtjOJo_gdCDw984E8l8666qLQkTnn8d9KIbha3T9pPoPZ620VoUSB40dn_ZbZp1Fj7pxE9T-rSrqC98CiTjaR87CDR_hfPJAVv-tndvRRpjJorhA9srfRSVUm_SQBbO77RbnP3Ak0D1dH24K3uBByZ8CyaRGhN4AOPwqXfUv_62eWgYG0oW4HvUhvjCd3Q_-jScSa_j7R2EJdqHDKvihMj05GdK_XBKCm4MSQII0API0Mpg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آیت‌الله کاشانی، نواب صفوی و مصدق،  همگی علیه «رزم آرا» بودند. مذهبی ها از مصدق خواسته بودند تا پس از پیروزی و ملی کردن صنعت نفت «احکام اسلامی» در کشور اجرا شود.  فدائیان اسلام و رهبر آن نواب صفوی،  اولین جرقه‌های چیزی را زدند که بعدها «جمهوری اسلامی» شد.…</div>
-<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/farahmand_alipour/6606" target="_blank">📅 18:02 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/farahmand_alipour/6606" target="_blank">📅 18:02 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6605">
@@ -375,7 +375,7 @@
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FT2KKyX5jbpPPsP5kENhpEzY51O0tfYcEFKspWmYkdT7KJ3102jPxtpd2Rv5djVUvJr3jjBV66vMyHXNNHXsd5TMfKNC9ymHvBWrkWo79AQS4m_6ffMSvwi2HTC6nHWOyg0psHeQUM0ZUm49bkF0GCzfnfnUYFFeQlZcomoo5fei-Jw8MLm2fuGXYkW5omuaOZ5VeTYTLPllT27GNrdI7OJM9fzxUldTUDQnqRaemH3h_6oU4u7RJWz7PWgEki_Ih8tc6YaDngwqwMJ9N8s7_usR0Euj5GrqR6ApRk_2lhTfFlZQAtQ069kkIXjTHATxzfqOZFE8oB4ofAha01Rpgw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جنايت هايى كه جمهورى اسلامى عليه مردم ايران روا داشته، هرگز وهرگز اسرائيل عليه مردم فلسطين روا نداشته! قوه قضائيه جمهورى اسلامى عامل ٪٨٠ از مجموع اعدام‌هاى جهانه!! سيستم قضايى اسرائيل حتى يك فلسطينى رو اعدام نكرده! نه فلسطينى ونه يهودى و اسرائيلى! اسرائيل…</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farahmand_alipour/6604" target="_blank">📅 17:39 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farahmand_alipour/6604" target="_blank">📅 17:39 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6603">
@@ -396,7 +396,7 @@
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/We3EpHU4GAOe4ekHcgcljHky9aSHv18sK1CPngbaGdt_Wz9d4olec7nkrBERDHacQK5MpaLOF6sqArXFjpcAaHhSzmo4_1Ltq7vBl957COFwmBI0M_N_jecOIAYzmKrAE10hp2IPJh4KvXDAZKcXHL76tq6FpBa7ub9RsNBXq3haxVHsRiZNGbNix132YWZQrJcBSO2a8TesFOUqmFAEtywc7etyTKubF0xUb6vnK6yId6KsRuHA0a_EZ_b3XcbZJE4Aa7hQT7hZ6cqWttSRzC0SAVPqbtTgnfNoMfQzBswUUsI-TBnA_azJO_3PkPVOmajqrzK73gMU1cfI3e-Jmg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سپهبد «رزم‌آرا»، کسی بود که مهم‌ترین نقش  رو در سرکوب حکومت خودمختار کمونیستی  در آذربایجان و مهاباد انجام داد.  و چند سال بعد نخست وزیر ایران شد. مصدق از دشمنان جدی رزم‌آرا بود،  مخالف جدی برخورد نظامی با فرقه دمکرات در آذربایجان و مهاباد بود.  البته که مصدق…</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/farahmand_alipour/6601" target="_blank">📅 12:38 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/farahmand_alipour/6601" target="_blank">📅 12:38 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6600">
@@ -416,14 +416,14 @@
 <div class="tg-post" id="msg-6598">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">مصدق پیشرفت را در آبادانی شهرها نمی‌دید! ساخت عمارت و هتل و آسفالت و آزادی حجاب و…..!  خامنه‌ای وقتی از امارات عربی متحده، و پیشرفت‌هایش صحبت می‌کرد هم  دقیقا از همین زاویه انتقاد می‌کرد!  میگفت : این‌ها که پیشرفت نیست!  حاکمانشان «بی‌عرضه»‌ترین هستند!  و…</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/farahmand_alipour/6598" target="_blank">📅 12:04 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/farahmand_alipour/6598" target="_blank">📅 12:04 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6597">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gPj9Nrn1hGcCQ2BN-ua5BFjEEqsJ3rP0dFclLm-kLjhwJidpOu7tkBHkuH2O9Gow5NDTIkcnLxd7enw4cpfslgKgfTF4dV7tv5YggdTdhbQVO41g6moHBUSGXjUEg4HFSLf8llQ2pR4hSZFxIxzrb0hT7sdYwhLxBY4MOQ8Gmm66VzqfAMzcmasqgDe3QOWOMuA6DTFPO76njwGKsPKihkCUloRa91__oYSD4rnNPYFLq2v0O-QTq1G8Ii_BOwdLj2gwLPW2SKnKn6levx2ePkmfq3SCd8MOPb-8bC0U1MLPAc41-_hwfFnCdif7fKyVdxCSrxleTa8TviF5G12QUw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حداقل زمانى كه ما در مدرسه درس ميخونديم بهمون می‌گفتن که رضاشاه به خواست و دستور انگلیسی‌ها ، براى ايران راه آهن ساخت. ولى مى‌دونيد اين حرفها رو خيلى سال قبل از جمهورى اسلامى، چه كسى میگفت؟  این حرف‌ها را مصدق میزد. مصدق حتی اقدام رضاشاه در آسفالت خیابان‌های…</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farahmand_alipour/6597" target="_blank">📅 11:52 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/farahmand_alipour/6597" target="_blank">📅 11:52 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6596">
@@ -555,10 +555,10 @@
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=WzCulOzMAa3M__sFde1yW6jOkKbkcM_FQcQQ9CUmEBBG1JKqBz4TNuDPfp7ecVjFtCr-8Z7li0Rkq9Nu1ofd6OAJaYpqrQV3cSJd5KNRvVDW3byVbl2fMn8soPqVeSbaIKE4C7AZNmuLqe8nUzdeXQGjlqwBVaD62lzcMCuRyafwohN9qBcLFw0qHiHMvokrqcZrFC2fpxxMzL7tKsJqjC0n-yQWb-IhbYFMRVkjotGiN56O0U0J0nc9UqsnKGoarePHqHU09BxQ-oCj5ehzfz1HBYzphemMxJSQ0v953UGpmIEpQiegio2Nuu8Xr3YucTm9VxLSEv-rA03am-wzcA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=nUC72VVXKJepXnBHEQZoXRNlKrfvjqj-E9tcgp4WyYP_1a9y2g3W2qIOY2gaRNEhHAL0iqOCpUS9qY9mBl2agTlMlw_0nWF0w81MXfVqHYK1lICF2_1if40uFs4YfqZ2iDUKxLl9MaAO7NHMZqDBv9YnTXrt6u9wvkTCafRmWwIRpIW8Rdv2WWUTTeSMORvMXpERu5IT4HgsrqWEdjLihiYl_R8ffLh-UltDSMVGtCRiULkSidyG4LRA9xyeG71r119w2qhaP-zdBoh0pRGsebGym7CCX7orOtvVLe2Q_KVbvqKTjJxSHby5fgZt9oadPoKU4qx9d0U_p-00oroeUg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=WzCulOzMAa3M__sFde1yW6jOkKbkcM_FQcQQ9CUmEBBG1JKqBz4TNuDPfp7ecVjFtCr-8Z7li0Rkq9Nu1ofd6OAJaYpqrQV3cSJd5KNRvVDW3byVbl2fMn8soPqVeSbaIKE4C7AZNmuLqe8nUzdeXQGjlqwBVaD62lzcMCuRyafwohN9qBcLFw0qHiHMvokrqcZrFC2fpxxMzL7tKsJqjC0n-yQWb-IhbYFMRVkjotGiN56O0U0J0nc9UqsnKGoarePHqHU09BxQ-oCj5ehzfz1HBYzphemMxJSQ0v953UGpmIEpQiegio2Nuu8Xr3YucTm9VxLSEv-rA03am-wzcA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=nUC72VVXKJepXnBHEQZoXRNlKrfvjqj-E9tcgp4WyYP_1a9y2g3W2qIOY2gaRNEhHAL0iqOCpUS9qY9mBl2agTlMlw_0nWF0w81MXfVqHYK1lICF2_1if40uFs4YfqZ2iDUKxLl9MaAO7NHMZqDBv9YnTXrt6u9wvkTCafRmWwIRpIW8Rdv2WWUTTeSMORvMXpERu5IT4HgsrqWEdjLihiYl_R8ffLh-UltDSMVGtCRiULkSidyG4LRA9xyeG71r119w2qhaP-zdBoh0pRGsebGym7CCX7orOtvVLe2Q_KVbvqKTjJxSHby5fgZt9oadPoKU4qx9d0U_p-00oroeUg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">در روایات این دو کتاب، اومده که حدود  هزار زن و دختر و کودک یهودی از این جنگ موند!  که اینها رو به عنوان «غنیمت جنگی» برداشتند. یک پنجم کل این تعداد، تحت قانون «خمس»  سهم حکومت اسلامی و پیامبر شد.  چهار پنجم هم بین سربازان و فرماندهان ارتش اسلام تقسیم شد!…</div>
 <div class="tg-footer">👁️ 16.2K · <a href="https://t.me/farahmand_alipour/6583" target="_blank">📅 14:16 · 25 Mordad 1405</a></div>
@@ -566,7 +566,7 @@
 
 <div class="tg-post" id="msg-6582">
 <div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Jv0PF3LjKYuaABG23TKJF75LWshkpdssp6Gj--djNFovgT3DH-x9YtxBtehYE3ZfiCU2RB6oJ6tbij20OKMYvq8ikw7eAN6pkYlRk--gEvbPssnjhGvOLidhB42JvADpDzIiByyLMxM8JYIoJoJXFAeu929YnrsVZhMIZKuKqa-iFDK1duEE9B5-oANlWhh6i0DgwYaTfUwtHlvCs8g5MwSWO166iY36uAEphHrQirJsmQiGDWpExeSqgRqjLBA6kzzy7K47mJvNbZ-jE6aCifAsiHWV8zL0YpNH_TDPW5EJkJ7m2xrfMA_jj8eIaU1yo0m5Q9xAj3in8naz-XRakQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vlhhjaU-u7PfsW7-v8Q6P_NB4njaa1GM7ys2WiBYnnQpk7vvMCtd8q_2nX3qqgT3f1LOJhYLKsm_wz7ejWW_Hi7NCMmd1Jz3I8IdacW80qzjAmYiXRKxNubETldMNw2yqRhiNsoIQf6XhVJS7T9QJ8GEz6nOBlI9fnFpI_ab452rGIaKH12_i5x3B_lQNHuiqGl0cJvUC91Xs5IvqWZbH-qmBDg0fdqGqydkcKQy4r2sGlMbXv-_jLkxeEpL1zph9g03Bd2Y6MlQE6tNBXhZaxCLD03yc1ww8XH9GGMv77ZgCqMNU0GTdmI-RFCSvNcBfvSJpheJ0q1_WbT-mVBr4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نقاشی مینیاتور از جنگ بنی‌قریظه و صدور حکم کشتن تمام مردان و پسران یهودی.  مردان رو یک به یک کنترل کردند،  که آیا کودکه و به عنوان برده بردارند، یا به قتل برسانند.  مردان بالغ که از چهره‌‌شون مشخص بود که بالغن. نوجوان‌ها کمی دشوارتر بود.  لباس زیر اونها رو…</div>
 <div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/6582" target="_blank">📅 14:06 · 25 Mordad 1405</a></div>
 </div>
@@ -797,7 +797,7 @@
 </div>
 <div class="tg-text">و تاریخ ثابت کرد حق با آرش و آرش‌ها بود!
 فهم آرش از «شریعتی» و «آل احمد» و «هما ناطق» و «شاملو» و «غلامحسین ساعدی» و…. بسیار بالاتر بود.</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/farahmand_alipour/6560" target="_blank">📅 11:22 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/farahmand_alipour/6560" target="_blank">📅 11:22 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6558">
@@ -888,7 +888,7 @@
 سخنگوی وزارت خارجه ج‌ا (بقایی) هم تایید کرد
 که این لکه نفتی ناشی از یک کشتی‌فله‌بر است،
 گرچه نگفت هنر دست خودشونه که برای بستن تنگه هرکز به کشتی‌هایی که در سواحل عمان حرکت میکنن، حمله می‌کنن.</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/farahmand_alipour/6549" target="_blank">📅 10:15 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/farahmand_alipour/6549" target="_blank">📅 10:15 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6548">
@@ -904,7 +904,7 @@
 رو
 ۱۵۴۰٪
 افزایش بدن!!!</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/farahmand_alipour/6548" target="_blank">📅 21:54 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/farahmand_alipour/6548" target="_blank">📅 21:54 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6547">
