@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 13:51:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 14:22:27</div>
 <hr>
 
 <div class="tg-post" id="msg-903">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">سوال:   دوستان من یه دسته بندی رو آوردم بالا و رتبه ۴ صفحه ی یک هستش  اولین سایت که ترب هستش  ولی اگه ترب رو حساب نکنیم میشه سایت سوم طبق سرچ کنسول توی بازه ۲۸ روز ، ۱۲۹ سرچ داشته  ولی کلیک ۵ تا!! راه حل برای کلیک گرفتن چیه؟ عنوان  و متا هم از دو رقیب دیگه…</div>
-<div class="tg-footer">👁️ 1.1K · <a href="https://t.me/mohsentavoosiseo/903" target="_blank">📅 20:05 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.11K · <a href="https://t.me/mohsentavoosiseo/903" target="_blank">📅 20:05 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-902">
@@ -320,7 +320,7 @@
 <div class="tg-post" id="msg-901">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">سوال:   من از وقتی هاست سایتم رو برم روی Geo Dns میهن وب هاست یه مشکلی پیدا کردم. کلمات کلیدی تو سرچ کنسول رتبه دارن ولی وقتی خودم دستی سرچ میکنم نیستن. اکثر ساتیتام اینجوری شدن. این طبیعیه؟  پاسخ: https://t.me/mohsentavoosiseo/511 این ویس و ویس پایین  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.36K · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.37K · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-900">
@@ -369,7 +369,7 @@ Ban
 #بن
 #ban
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.03K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
@@ -389,10 +389,10 @@ Ban
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=DxRwDEE7nPtjR8H8QN4pf_iCeAYDlzLIPj_eEeYFPmUnOuwY1swR-6aT6s7QLtlw6OB3q3WEfngUsvGAsBQnztUPeOifOCkkuqdoUz9uPxNUdRX4UIGKiwlAzCpQdrg3EjkMMIZpDlFf4tY0bUyYkiAwj8lGt56scPkb9TJPO6l9xI8JUkcZQJ6YuXWnRTjL9CpGF82muUJCMs0BFMvIgH5Vehso5CiD3j4oCxC9PLA7AlfgyZRrioSCUk6fJyNvz1XJHg2Yh6Oq9jK86TZm3GMQHk1SU5jHzmVPvsu469t-oCSBGQwpgI3__cvdTihx2EG28f6yVf1JjBAByMZdfkuOeIOHHroA87ozXxwZ20-gb4cM5m1-oXfhQwafu2kTB2HxnQyHNlWoub0hxiVmBpYdTbqyT2DSVYVtk1PurFVBPwB48HiJGT5BGyiu07uCMR45TGrilfzENEMNsVZxEQ7CM4tXjyvcieIlUjfDVoQrXErCrOmlXwNGbc050jdAGqJOzI7StyiEtdHSeVeBJjQFO2pGiuR20qfHY36b4efuPdyYgj3cb_ibwaUevY3_cD00rDsmoEHdstTZ4YaOXzhyQDBnbcx3Obkekh6wDlrVy_OPd_C79ZmVttVySghIhsK2ExIWvtEF3f_VJ14jUdTdQxRHud_OQuXYnN27gas" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=GqGWdIIPM9CfqDIti-CZFfxvolhJ7v3Efd9zGXycvpbRLlIKryJwTNYkMkNVL2xiqG9NGJ7HsIujULlSXpJxtczTJS5PNJlDZFVbD9la-Z1LeQs0npNo2zbRDRJvFDd-nK2qpdxUY4oOIwr8s4KZNPAQSP05rk8nQUl1jMyKh23xJIf_psuD7jwNX5GE3b7iLIXWnzKQBKG9q_MidacVx0T7_uyAOv5_WJoW8duTftUlpXylKsbxkXVOCEeyi2fbKGIY_oDQ8B2hbTbVoPNyX2cYb_aZWaH7udcDTWPDrSpwF9D33Emvfe92LP5D99agYO_ror7UxYHG247YLtCXUiYPO3HbiVTxGLh0kynN4zZcJI7bQChDGmD5D8btb8JkB63J6fgtj40ZbNdy7NQ4mBbw_jTrIm57Tt5EI24P5ICy1_0qff0P7ejOZWwLPnycsSEiXA2rz2hMwvJwVi1gAg1lbeTJwxgCZuequ9g24VAoD8UyaFVzThVdOyw-EWTEJqLf-kR0biiOgmueOjQeI0OuS8SqpNLN9WrPlj8YRub3NIHXGn-bX62GXA33Z9NRx3ShSwWPgGbNIFWPHvyDP99u8ju9ob0BJOWiM1wJWZDXxxcOV5KHEKbTrymFbLJuer28dvhT-fjn1cs7mMPmMwCLJVYtZ_6Pf5AVn9KEPq0" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=DxRwDEE7nPtjR8H8QN4pf_iCeAYDlzLIPj_eEeYFPmUnOuwY1swR-6aT6s7QLtlw6OB3q3WEfngUsvGAsBQnztUPeOifOCkkuqdoUz9uPxNUdRX4UIGKiwlAzCpQdrg3EjkMMIZpDlFf4tY0bUyYkiAwj8lGt56scPkb9TJPO6l9xI8JUkcZQJ6YuXWnRTjL9CpGF82muUJCMs0BFMvIgH5Vehso5CiD3j4oCxC9PLA7AlfgyZRrioSCUk6fJyNvz1XJHg2Yh6Oq9jK86TZm3GMQHk1SU5jHzmVPvsu469t-oCSBGQwpgI3__cvdTihx2EG28f6yVf1JjBAByMZdfkuOeIOHHroA87ozXxwZ20-gb4cM5m1-oXfhQwafu2kTB2HxnQyHNlWoub0hxiVmBpYdTbqyT2DSVYVtk1PurFVBPwB48HiJGT5BGyiu07uCMR45TGrilfzENEMNsVZxEQ7CM4tXjyvcieIlUjfDVoQrXErCrOmlXwNGbc050jdAGqJOzI7StyiEtdHSeVeBJjQFO2pGiuR20qfHY36b4efuPdyYgj3cb_ibwaUevY3_cD00rDsmoEHdstTZ4YaOXzhyQDBnbcx3Obkekh6wDlrVy_OPd_C79ZmVttVySghIhsK2ExIWvtEF3f_VJ14jUdTdQxRHud_OQuXYnN27gas" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=GqGWdIIPM9CfqDIti-CZFfxvolhJ7v3Efd9zGXycvpbRLlIKryJwTNYkMkNVL2xiqG9NGJ7HsIujULlSXpJxtczTJS5PNJlDZFVbD9la-Z1LeQs0npNo2zbRDRJvFDd-nK2qpdxUY4oOIwr8s4KZNPAQSP05rk8nQUl1jMyKh23xJIf_psuD7jwNX5GE3b7iLIXWnzKQBKG9q_MidacVx0T7_uyAOv5_WJoW8duTftUlpXylKsbxkXVOCEeyi2fbKGIY_oDQ8B2hbTbVoPNyX2cYb_aZWaH7udcDTWPDrSpwF9D33Emvfe92LP5D99agYO_ror7UxYHG247YLtCXUiYPO3HbiVTxGLh0kynN4zZcJI7bQChDGmD5D8btb8JkB63J6fgtj40ZbNdy7NQ4mBbw_jTrIm57Tt5EI24P5ICy1_0qff0P7ejOZWwLPnycsSEiXA2rz2hMwvJwVi1gAg1lbeTJwxgCZuequ9g24VAoD8UyaFVzThVdOyw-EWTEJqLf-kR0biiOgmueOjQeI0OuS8SqpNLN9WrPlj8YRub3NIHXGn-bX62GXA33Z9NRx3ShSwWPgGbNIFWPHvyDP99u8ju9ob0BJOWiM1wJWZDXxxcOV5KHEKbTrymFbLJuer28dvhT-fjn1cs7mMPmMwCLJVYtZ_6Pf5AVn9KEPq0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)
 @mohsentavoosiseo</div>
@@ -411,7 +411,7 @@ Ban
 . پاسخ:
 https://www.instagram.com/reel/DcBLYe_MLHx/
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.68K · <a href="https://t.me/mohsentavoosiseo/891" target="_blank">📅 14:54 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.69K · <a href="https://t.me/mohsentavoosiseo/891" target="_blank">📅 14:54 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-890">
@@ -595,7 +595,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.75K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.76K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
