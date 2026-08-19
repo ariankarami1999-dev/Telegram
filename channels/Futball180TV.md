@@ -292,7 +292,7 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 23:46:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 00:21:15</div>
 <hr>
 
 <div class="tg-post" id="msg-104191">
@@ -308,7 +308,7 @@
 گل‌های بازی بارسلونا ۲-۱ الاهلی مصر
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/Futball180TV/104191" target="_blank">📅 23:38 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/Futball180TV/104191" target="_blank">📅 23:38 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104190">
@@ -325,7 +325,7 @@
 محسن خلیلی: اگر استقلال تصمیم بگیرد دربی رفت 90-10 باشد چرا که نه، ‌اتفاق بدی نیست که این قانون یکبار اجرا شود/ من الان «مهرزاد معدنچی» پرسپولیسم؛ ‌این هجمه‌ها کار دشمنان قدیمی است
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 7.31K · <a href="https://t.me/Futball180TV/104190" target="_blank">📅 23:04 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/Futball180TV/104190" target="_blank">📅 23:04 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104189">
@@ -346,7 +346,7 @@
 مدیر روابط عمومی پرسپولیس: شیر به حق به پرسپولیس می‌رسه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 9.63K · <a href="https://t.me/Futball180TV/104189" target="_blank">📅 22:52 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/Futball180TV/104189" target="_blank">📅 22:52 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104188">
@@ -363,7 +363,7 @@
 کنعانی‌زادگان: ناراحتی اورنوف طبیعی است ولی همگی تابع تارتار هستیم/ دوست دارم یک گل هم نزنم ولی قهرمان شویم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/Futball180TV/104188" target="_blank">📅 22:44 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/Futball180TV/104188" target="_blank">📅 22:44 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104187">
@@ -375,7 +375,7 @@
 جدول لیگ برتر پس از پایان هفته دوم با صدرنشینی پرسپولیس
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/Futball180TV/104187" target="_blank">📅 22:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/104187" target="_blank">📅 22:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104186">
@@ -392,7 +392,7 @@
 علی بازگشا، سخنگوی باشگاه پرسپولیس: اگر تضمین بدهند در بازی برگشت با تراکتور هواداران حضور داشته باشند، آنوقت می‌توانیم تصمیم بگیریم که بازی رفت با تماشاگر باشد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/104186" target="_blank">📅 22:24 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/104186" target="_blank">📅 22:24 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104185">
@@ -410,7 +410,7 @@
 شهرآبادی، بازیکن پرسپولیس: امسال هدفمان قهرمانی است/ سال قبل تر از حضورم در استقلال به پرسپولیس رفتم اما قسمتم نشد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/104185" target="_blank">📅 22:23 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/104185" target="_blank">📅 22:23 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104184">
@@ -428,7 +428,7 @@
 سوپرگل‌فولاد خوزستان مقابل شمس‌آذر
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/104184" target="_blank">📅 21:45 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/104184" target="_blank">📅 21:45 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104183">
@@ -441,7 +441,7 @@
 خلاصه بازی پرگل و جذاب و دیدنی پرسپولیس و استقلال خوزستان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/104183" target="_blank">📅 21:38 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/104183" target="_blank">📅 21:38 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104182">
@@ -460,7 +460,7 @@
 🇮🇷
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/104182" target="_blank">📅 21:31 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/104182" target="_blank">📅 21:31 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104181">
@@ -481,7 +481,7 @@
 گل چهارم پرسپولیس به استقلال خوزستان توسط شهرآبادی(90+3)
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/104181" target="_blank">📅 21:27 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/104181" target="_blank">📅 21:27 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104180">
@@ -498,7 +498,7 @@
 گل‌زیبای ملوان مقابل ذوب‌آهن دقیقه ۸۹
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/104180" target="_blank">📅 21:25 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/104180" target="_blank">📅 21:25 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104179">
@@ -508,7 +508,7 @@
 هفته‌اول لالیگا؛ ترکیب اتلتیکومادرید مقابل مالاگا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/104179" target="_blank">📅 21:21 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/104179" target="_blank">📅 21:21 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104178">
@@ -532,7 +532,7 @@
 سوپرگل پشم‌ریزون زبیر نیک‌نفس در بازی امشب مس‌شهربابک؛ یه لحظه روح مسی درون نیک‌نفس ظهور کرد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/104178" target="_blank">📅 21:15 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/104178" target="_blank">📅 21:15 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104177">
@@ -549,7 +549,7 @@
 گل اول استقلال خوزستان به پرسپولیس
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/104177" target="_blank">📅 20:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/104177" target="_blank">📅 20:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104176">
@@ -560,7 +560,7 @@
 🙏🏻
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/104176" target="_blank">📅 20:55 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/104176" target="_blank">📅 20:55 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104175">
@@ -574,7 +574,7 @@
 انفجار نیوکمپ پس از اعلام نام رودری و ورود این بازیکن به زمین چمن ورزشگاه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/104175" target="_blank">📅 20:53 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/104175" target="_blank">📅 20:53 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104174">
@@ -588,7 +588,7 @@
 تفاوت آلوارز تو عکس‌های رسمی فصل های قبلی و این فصل
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/104174" target="_blank">📅 20:51 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/104174" target="_blank">📅 20:51 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104173">
@@ -605,7 +605,7 @@
 سیاوش یزدانی، مدافع پیشین گل‌گهر سیرجان به الطلبه عراق پیوست و‌ شاگرد علیرضا منصوریان شد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/104173" target="_blank">📅 20:45 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/104173" target="_blank">📅 20:45 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104172">
@@ -626,7 +626,7 @@
 گل سوم پرسپولیس توسط ایگور سرگیف در دقیقه (48)
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/Futball180TV/104172" target="_blank">📅 20:42 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/104172" target="_blank">📅 20:42 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104171">
@@ -636,7 +636,7 @@
 💀
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/104171" target="_blank">📅 20:06 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/104171" target="_blank">📅 20:06 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104170">
@@ -666,7 +666,7 @@
 فرصت را از دست ندهید! همین حالا پیش‌بینی خود را ثبت کنید و از بونوس‌های ویژهٔ Betegram بهره‌مند شوید.
 🔵
 http://betegram.com/affiliates?btag=3_l7</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/Futball180TV/104170" target="_blank">📅 20:05 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/Futball180TV/104170" target="_blank">📅 20:05 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104169">
@@ -687,7 +687,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 ابوالفضل جلالی در دقیقه 26 مصدوم شد و از زمین بیرون رفت
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/104169" target="_blank">📅 19:59 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/104169" target="_blank">📅 19:59 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104168">
@@ -699,7 +699,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 ترکیب رسمی بارسا مقابل الاهلی؛ ساعت ۲۱:۳۰
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/104168" target="_blank">📅 19:57 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/Futball180TV/104168" target="_blank">📅 19:57 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104167">
@@ -720,7 +720,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 گل دوم پرسپولیس به استقلال خوزستان توسط علی علیپور 20
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/Futball180TV/104167" target="_blank">📅 19:52 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/104167" target="_blank">📅 19:52 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104166">
@@ -739,7 +739,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 ✅
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/104166" target="_blank">📅 19:41 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/104166" target="_blank">📅 19:41 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104165">
@@ -758,7 +758,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 گل اول پرسپولیس توسط خدابنده‌لو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/104165" target="_blank">📅 19:38 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/104165" target="_blank">📅 19:38 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104164">
@@ -767,7 +767,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 رومانو خبر جدیدی راجب آلوارز نذاشته و اخبار منتشر شده دقایق اخیر فیکه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/104164" target="_blank">📅 19:17 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/104164" target="_blank">📅 19:17 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104161">
@@ -784,7 +784,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 تیجانی ریندرز، هافبک 28 ساله منچستر سیتی با قراردادی به ارزش 61 میلیون یورو به القادسیه عربستان پیوست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/104161" target="_blank">📅 18:54 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/104161" target="_blank">📅 18:54 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104160">
@@ -797,7 +797,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 شماتیک ترکیب امروز پرسپولیس
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/104160" target="_blank">📅 18:30 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/104160" target="_blank">📅 18:30 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104159">
@@ -812,7 +812,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 لیست بازیکنان اصلی و ذخیره پرسپولیس و استقلال خوزستان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/104159" target="_blank">📅 18:27 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/104159" target="_blank">📅 18:27 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104158">
@@ -831,7 +831,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 بانوی هوادار پرسپولیس: یاغی خوبی گیرمون اومد، استقلالیا قدر جلالی رو ندونستن
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/104158" target="_blank">📅 18:26 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/104158" target="_blank">📅 18:26 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104157">
@@ -843,7 +843,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 روزنامه‌اسپورت: منچستریونایتد پیشنهاد ۴۰ میلیون یورویی برای جذب گاوی به بارسلونا ارسال کرده که هم باشگاه و هم بازیکن این پیشنهاد رو فورا رد کردند
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/104157" target="_blank">📅 18:25 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/104157" target="_blank">📅 18:25 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104156">
@@ -865,7 +865,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 هوادار پرسپولیس: تیمی که ۷ گل خورده و دسته سه رفته، به ما نمی‌خوره! فینال آسیا واقعی رو ما دیدیم. استقلال بره آسیا ۷ تا بخوره، خوشحال میشیم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/Futball180TV/104156" target="_blank">📅 18:16 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/104156" target="_blank">📅 18:16 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104155">
@@ -876,7 +876,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 بارسلونا بزودی با عقد قراردادی لیواکوویچ سنگربان تیم‌ملی کرواسی رو جذب میکنه و یک فصل قرضی به تیم دیگه‌ای میده تا از تابستان ۲۰۲۷ جانشین شزنی در کاتالان‌ها بشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/104155" target="_blank">📅 18:13 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/104155" target="_blank">📅 18:13 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104154">
@@ -889,7 +889,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/104154" target="_blank">📅 18:11 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/104154" target="_blank">📅 18:11 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104153">
@@ -899,7 +899,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 هری‌کین ستاره تیم‌فوتبال بایرن‌مونیخ جایزه کفش‌طلای فصل‌گذشته اروپا رو دریافت کرد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/104153" target="_blank">📅 18:08 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/Futball180TV/104153" target="_blank">📅 18:08 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104152">
@@ -921,7 +921,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 : همون تیمی که 10 سال اومده لیگ؟! به خدا کری با آنها نداریم. ما برابر بایرن مونیخ هم برای برد رفتیم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/104152" target="_blank">📅 18:06 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/104152" target="_blank">📅 18:06 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104151">
@@ -938,7 +938,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 جمال موسیالا: یک اختلال عصبی دارم و اتفاقی که در دوبازی اخیر برام رخ داده کاملا طبیعیه. امیدوارم هرچه سریعتر بهبود پیدا کنم و‌ نگرانی خاصی وجود نداره
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/104151" target="_blank">📅 18:04 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/104151" target="_blank">📅 18:04 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104150">
@@ -950,7 +950,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 🎁
 برای مبالغ بالا ۱۰۰۰۰ دلار بیمه شرطبندی ۳۵٪ داره‌
 و مبالغ ۱۰۰۰ دلار بیمه ۱۵٪ داره یعنی در صورت باخت مبالغ به حسابتون‌ دوباره واریز میشه.</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/Futball180TV/104150" target="_blank">📅 18:04 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/Futball180TV/104150" target="_blank">📅 18:04 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104149">
@@ -1006,7 +1006,7 @@ Gift
 g28
 ✔
 https://t.me/WePariFarsi</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/104149" target="_blank">📅 18:04 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/Futball180TV/104149" target="_blank">📅 18:04 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104148">
@@ -1024,7 +1024,7 @@ https://t.me/WePariFarsi</div>
 "مسی تو یه سیاره دیگه‌ست. مسی اصلاً به دنیا اومده که فوتبال بازی کنه. فکر کنم مسی اگه فوتبال بازی نکنه مریض میشه! اون یه نابغه‌ست."
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/104148" target="_blank">📅 17:45 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/104148" target="_blank">📅 17:45 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104147">
@@ -1036,7 +1036,7 @@ https://t.me/WePariFarsi</div>
 جرارد رومرو: بعد منتفی شدن خولیان آلوارز، بارسلونا به صورت جدی درحال بررسی گزینه خرید نیکولو تریسولدی مهاجم نوک کلوب بروژ بلژیک هست
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/Futball180TV/104147" target="_blank">📅 17:23 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/104147" target="_blank">📅 17:23 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104146">
@@ -1049,7 +1049,7 @@ https://t.me/WePariFarsi</div>
 #فوووووری از دیوید اورنشتین: دو باشگاه آرسنال و استون‌ویلا برای کونسا به توافق ۵۰ میلیون یورویی رسیدن و بزودی تست‌های‌پزشکی خرید جدید آرسنال انجام میشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/104146" target="_blank">📅 17:16 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/104146" target="_blank">📅 17:16 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104145">
@@ -1063,7 +1063,7 @@ https://t.me/WePariFarsi</div>
 از دیوید اورنشتین: دو باشگاه آرسنال و استون‌ویلا برای کونسا به توافق ۵۰ میلیون یورویی رسیدن و بزودی تست‌های‌پزشکی خرید جدید آرسنال انجام میشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/104145" target="_blank">📅 17:14 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/104145" target="_blank">📅 17:14 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104144">
@@ -1074,7 +1074,7 @@ https://t.me/WePariFarsi</div>
 «نمی‌دانم خولیان عذرخواهی خواهد کرد یا نه، اما فقط با دو بازی می‌تواند دوباره دل هواداران را به دست بیاورد. ما از همان ابتدا به بارسلونا گفتیم که می‌خواهیم خولیان را حفظ کنیم.»
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/Futball180TV/104144" target="_blank">📅 17:06 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/104144" target="_blank">📅 17:06 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104143">
@@ -1091,7 +1091,7 @@ https://t.me/WePariFarsi</div>
 مراسم معارفه رسمی ژوزه مورینیو به‌عنوان سرمربی جدید رئال مادرید برگزار شد؛ بازگشتی که خودش آن را «بازگشت به خانه» توصیف کرد.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/104143" target="_blank">📅 16:55 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/104143" target="_blank">📅 16:55 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104142">
@@ -1109,7 +1109,7 @@ https://t.me/WePariFarsi</div>
 علم روز پزشکی ورزشی ثابت کرده که خواب، مؤثرترین و در عین حال قانونی‌ترین دوپینگ جهان است. اگر خواب باکیفیت نداشته باشید، سخت‌ترین تمرینات و گران‌ترین مکمل‌ها هم نمی‌توانند جلوی افت عملکرد یا آسیب‌دیدگی شما را بگیرند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/104142" target="_blank">📅 16:32 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/104142" target="_blank">📅 16:32 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104141">
@@ -1127,7 +1127,7 @@ https://t.me/WePariFarsi</div>
 رحمتی: کیفیت بازی‌ها در کشور ما مهم نیست؛ مهم نیست کشته می‌دهد یا جانباز!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/104141" target="_blank">📅 16:05 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/104141" target="_blank">📅 16:05 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104140">
@@ -1146,7 +1146,7 @@ https://t.me/WePariFarsi</div>
 واکنش شجاع به خوشحالی جنجالی بعد از گل دوم تراکتور: طبیعیه؛ خیلی خوشحال می‌شم اینطوری می‌شه!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/104140" target="_blank">📅 15:40 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/104140" target="_blank">📅 15:40 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104139">
@@ -1162,7 +1162,7 @@ https://t.me/WePariFarsi</div>
 وضعیت فوق‌کیری نیکولاس‌زوله ستاره همین چند ماه پیش دورتمند و سابق بایرن‌مونیخ که از فوتبال خداحافظی کرده و اینجوری وزن اضافه کرده!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/104139" target="_blank">📅 15:15 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/104139" target="_blank">📅 15:15 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104138">
@@ -1181,7 +1181,7 @@ https://t.me/WePariFarsi</div>
 مهدی‌تارتار: بازی مالکانه را از پپ، بازی دفاعی را از سیمئونه یاد میگیرم. ضربات ایستگاهی را از آرتتا و پرس را از کلوپ یاد میگیرم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/104138" target="_blank">📅 14:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/104138" target="_blank">📅 14:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104137">
@@ -1198,7 +1198,7 @@ https://t.me/WePariFarsi</div>
 نمایی دیگر از حرکت جنجالی شجاع خلیل‌زاده
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/104137" target="_blank">📅 14:25 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/Futball180TV/104137" target="_blank">📅 14:25 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104136">
@@ -1215,7 +1215,7 @@ https://t.me/WePariFarsi</div>
 ممیزی متهم گریخت، ۲۱ سال پس از اولین پخش  که هم‌اکنون در شبکه آی‌فیلم پخش میشه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/Futball180TV/104136" target="_blank">📅 14:03 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/Futball180TV/104136" target="_blank">📅 14:03 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104135">
@@ -1233,7 +1233,7 @@ https://t.me/WePariFarsi</div>
 اخباری، سرمربی چادرملو: نه تنها از ما عذرخواهی نکردند، تهدید هم شدیم. از این‌که جای تیم ما به آسیا می‌روند از خودشان بدشان نمی‌آید؟ امیدوارم باعث‌و‌بانی شرایط روحی تیم من شب راحت بخوابد!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/Futball180TV/104135" target="_blank">📅 13:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/104135" target="_blank">📅 13:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104133">
@@ -1244,7 +1244,7 @@ https://t.me/WePariFarsi</div>
 استوری جدید رضا علیپور : جنوب لبنان که چیزی نیست تمام دنیا فدای یک وجب از خاک ایران.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/Futball180TV/104133" target="_blank">📅 13:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/Futball180TV/104133" target="_blank">📅 13:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104132">
@@ -1263,7 +1263,7 @@ https://t.me/WePariFarsi</div>
 پپ: احساس حماقت می‌کنم. می‌دونید قراره چی بشه؟ قراره یه مربی جدید داشته باشید. از این عملکردتون خسته‌ام و احساس تنهایی می‌کنم.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/Futball180TV/104132" target="_blank">📅 13:00 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/Futball180TV/104132" target="_blank">📅 13:00 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104131">
@@ -1274,7 +1274,7 @@ https://t.me/WePariFarsi</div>
 سرپرست باشگاه نساجی: تا این لحظه مدیریت باشگاه تصمیمی برای شکایت از استقلال بابت بازی دادن به یاسر‌آسانی نگرفته است!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/Futball180TV/104131" target="_blank">📅 12:36 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/Futball180TV/104131" target="_blank">📅 12:36 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104130">
@@ -1287,7 +1287,7 @@ https://t.me/WePariFarsi</div>
 دیوید اورنشتین: یونایتد برای جذب کارلوس بالبا از برایتون با رقم ۶۵ میلیون پوند به توافق نهایی رسید
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/Futball180TV/104130" target="_blank">📅 12:22 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/Futball180TV/104130" target="_blank">📅 12:22 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104129">
@@ -1299,7 +1299,7 @@ https://t.me/WePariFarsi</div>
 از رومانو: ژائو پدرو قرارداد خودشو تا سال 2032 با چلسی تمدید کرد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/Futball180TV/104129" target="_blank">📅 12:15 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/Futball180TV/104129" target="_blank">📅 12:15 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104128">
@@ -1310,7 +1310,7 @@ https://t.me/WePariFarsi</div>
 سرپرست باشگاه نساجی: تا این لحظه مدیریت باشگاه تصمیمی برای شکایت از استقلال بابت بازی دادن به یاسر‌آسانی نگرفته است!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/Futball180TV/104128" target="_blank">📅 12:06 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/Futball180TV/104128" target="_blank">📅 12:06 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104127">
@@ -1323,7 +1323,7 @@ https://t.me/WePariFarsi</div>
 ؛ باشگاه موناکو به صورت توافقی قرارداد با پل‌پوگبا رو فسخ کرد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/104127" target="_blank">📅 11:59 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/104127" target="_blank">📅 11:59 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104126">
@@ -1334,7 +1334,7 @@ https://t.me/WePariFarsi</div>
 روجری مدافع اتلتیکومادرید و سوزوکی سنگربان تیم‌ملی ژاپن به استون‌ویلا پیوستند
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/Futball180TV/104126" target="_blank">📅 11:57 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/Futball180TV/104126" target="_blank">📅 11:57 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104125">
@@ -1352,7 +1352,7 @@ https://t.me/WePariFarsi</div>
 خیانت در رفاقت؛ افشاگری محمود فکری علیه قلعه‌نویی؛ فکری مدعی شد در چند مقطع گزینه مربیگری بوده، اما بعد از مطرح شدن نامش، امیر قلعه‌نویی فرد دیگری را به‌عنوان گزینه معرفی کرده است.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/Futball180TV/104125" target="_blank">📅 11:55 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/Futball180TV/104125" target="_blank">📅 11:55 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104124">
@@ -1383,7 +1383,7 @@ https://t.me/WePariFarsi</div>
 ✌️
 ✔
 https://t.me/+x60dZGAgXTUxM2U0</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/104124" target="_blank">📅 11:55 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/104124" target="_blank">📅 11:55 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104123">
@@ -1425,7 +1425,7 @@ Promo Code: MELBET90
 r28
 ✔
 https://t.me/+x60dZGAgXTUxM2U0</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/104123" target="_blank">📅 11:55 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/104123" target="_blank">📅 11:55 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104121">
@@ -1443,7 +1443,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 حمله مجتبی‌پوربخش به صحبت‌های اخیر نوید محمدزاده درباره فلسطین
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/Futball180TV/104121" target="_blank">📅 11:32 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/104121" target="_blank">📅 11:32 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104120">
@@ -1460,7 +1460,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 نورپردازی جذاب اطراف استادیوم نیوکمپ
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/104120" target="_blank">📅 11:05 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/104120" target="_blank">📅 11:05 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104119">
@@ -1472,7 +1472,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 پوستر ذوب‌آهن برای بازی با ملوان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/Futball180TV/104119" target="_blank">📅 10:51 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/104119" target="_blank">📅 10:51 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104118">
@@ -1488,7 +1488,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 «رودری بازیکن فوق‌العاده‌ای است و در تعامل با ما کاملا محترمانه رفتار کرد. هیچ نکته منفی‌ای ندارم که درباره او بگویم. اما فکر می‌کنم باشگاهی در حد و اندازه رئال مادرید نمی‌تواند بازیکنانی را جذب کند که برای پیوستن تردید دارند و دو بار فکر می‌کنند. با این حال، او رفتار بسیار محترمانه‌ای با ما داشت و برایش آرزوی موفقیت می‌کنم البته نه موفقیت خیلی زیاد!»
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/104118" target="_blank">📅 10:43 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/104118" target="_blank">📅 10:43 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104117">
@@ -1505,7 +1505,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/104117" target="_blank">📅 10:40 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/104117" target="_blank">📅 10:40 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104116">
@@ -1527,7 +1527,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/Futball180TV/104116" target="_blank">📅 10:15 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/104116" target="_blank">📅 10:15 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104115">
@@ -1539,7 +1539,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 پوستر باشگاه پرسپولیس برای دیدار امروز با استقلال خوزستان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/104115" target="_blank">📅 09:56 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/Futball180TV/104115" target="_blank">📅 09:56 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104114">
@@ -1556,7 +1556,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 وضعیت روزهای اخیر بندگان خدا رئالیا:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/104114" target="_blank">📅 09:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/104114" target="_blank">📅 09:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104113">
@@ -1572,7 +1572,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 بارساییا چند روزه حسابی دارن ارضا میشن
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/Futball180TV/104113" target="_blank">📅 09:25 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/Futball180TV/104113" target="_blank">📅 09:25 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104112">
@@ -1587,7 +1587,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-text">تمرینات مشترک وریا غفوری و امیرحسین حسین‌زاده
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/Futball180TV/104112" target="_blank">📅 09:04 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/Futball180TV/104112" target="_blank">📅 09:04 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104111">
@@ -1607,7 +1607,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/Futball180TV/104111" target="_blank">📅 02:02 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/Futball180TV/104111" target="_blank">📅 02:02 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104110">
@@ -1626,7 +1626,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 ...
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/Futball180TV/104110" target="_blank">📅 01:53 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/Futball180TV/104110" target="_blank">📅 01:53 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104109">
@@ -1639,7 +1639,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/Futball180TV/104109" target="_blank">📅 01:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/Futball180TV/104109" target="_blank">📅 01:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104108">
@@ -1650,7 +1650,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 باشگاه بارسلونا در تاریخ خودش سه تا از بهترین هافبک‌دفاعی‌های تاریخ رو در ترکیب داشته
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/Futball180TV/104108" target="_blank">📅 01:32 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/Futball180TV/104108" target="_blank">📅 01:32 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104107">
@@ -1661,26 +1661,26 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 رومانو: الهلال اولین پیشنهاد خودش برای جذب واتکینز رو به مبلغ ۴۵ میلیون یورو به استون‌ویلا فرستاد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/Futball180TV/104107" target="_blank">📅 01:28 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/Futball180TV/104107" target="_blank">📅 01:28 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104102">
 <div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/b7I4yRjO5f_W3z5n_fgJmi3pIqpgPIkhKzuVx1SaiicFAJnHoY15EpQFmPk-vg-19MtxG16H9-syox1S6hMJF-Ccxk4FVC2cxb1WGD7VagQM2kMVFH1zurrMwmrF-XxDX3eaDO-KidRp_S1AbDz0TU_arkM6pzmZrOzWYYIwUd0-khuzSfZFP8oAw2zcg2L15miS9S0EfhMn1EjvQTWceOjnzblfPUAOk3BQEqd5bs58Sq1OTif7jHI_h_FYTIylHs_8eHTVBGBQGfdN9erIHwcwkZFMIIeV3laQuGj5B2Oc9qx_vvtB6qtwb0rKZnb4qB6nC3DWWmzO0KjqOVGFPQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/SLSTAL7WxYZ4WMRDxWfmFtButWNYruxyyqef1Rnp3mJDVyOmCKYG_xS3WK-O5wYoTTXuJg-crSpaTvQpYhFL9md1Z6odxr-XBaW6I-BI7AX8z0zY9E2c84wBsxg3CvqUZz80JJSzwunH0b7DxAYuJOBmvmcglgJtGVWKIW8hDfeJAEeFUNj5GAra2J1oizRtnYj9jY_hU2_qbmc3zGIaqstKH2oUKLG9DCmwHE5uR2NBd2uPVyGI60NGs-mQLOc32kosIg1XTrFYtsjLErkITKyQI3pnElXQZ0-f3iblM-1UJH0kHyMKCBoHa1EGuzHP9d4yEJrzWWdGAl4UMBmYSg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/qDpt2VRbIzbDz6vL9WtyKSWa_uYKt9a-mHi_tYMSweeoX6DzHN4xvKPMpmlDQTRdvZfvHimCr7qe0yD-hoPnTVASft1wXmFe_DNf-ILiIEncaOPR69V56tt5o4Qo3vvbOMklzepghWzs57z4OSzERhOypVrvJyKXLa74eoz_GqV_kxQ8Dw_0UaAq99K1OEFKN_x6l6oWk2EDSUfjRuVfyEK6DGPz3dtzlqkdWXlKCrHMlTxUu81AJtq5NHCWhC7nnZchqkzHt4Ge2L5I3GC-R4FuI39rRgIKpX2GMzJoYWDWShxgI9-y6HzK81rbnGhC7CPvXnPxK0QZOux8pRbvCg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/cGRCiybZfDHfUpQolTYc7twXi9V3jbgj0kNzo5X3PSNXulNqtML18W8gvgrOb5JdRVvl6T5pKSYM-BQAl1Id2pFconQoov5fKLL839lb8IHBEdkAxpK-kjIyRjgJs8AL0eK0j6Sx4C0JdUZlfBAoXu82siWrZs_QqLstIF8ctfdPkc4cVGJYt8l4oQSNsAnL8TbGidfDG70kUA3EKhaD-RZrWN1d3o0KbX0xu1yzcYLMEUB2tgrzQ5wftBtX_x9Tm7NhtUK_hpRnyk-0I3t3tGf_mSNeRebQmtP3GAdHUyOUFWcSiKJHR3F8H4WWABfQ60WjQYveqHimKTGlEFHDRg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TkgJKZRF5v17BB-psyBUpORDvth1XK4iVmp6E93uFukg9rrX6AEpIHQJ_9Hfcz4rPfl0gLt_4ZCgN76Q0YpVRMyWn5N9HYoGu0OBegEA2uKkjiAh_SdSnxW-uZNCTxiWRNCj_xJpR53_khtg49GyQ9YRjMJy9kCBM9aZqyF4Ks6rlDd0_K5BtuMivLnCkKNdUncALwTenPqe_IcZ3Cxxdc9Xj9NecZZtogmI99RRe5YHK6LQ9_aMIJabijTDfl9fw7KCP5TCxKa544u0Mfip_y7hKuxF56vvrTfap1SZ2nVJ94xy83EM5C8uMrypi5NeenUqDb_p4Enw-HoZeRA6bw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/rX2tnZdrp3Co40mQLo9ahCjlI5OZfDrO5w7lmPI9CCq32sfy1L-hmeFua9W_bIBPglLixlXDCx3XUXA7HSpTI5H9PFkvCoG0Kz64riTa_dSeyVe1s7A_hRArmu5n_35pUWT-ThcmSnRexHuE07CDMOJQcXYVEon3CymcEOzrc9H9x3k-Fl1BNL1dN8Ctz_mk96Wz7UmYegvUTsMk07FXTlK6fisw7q9dsU-6mHHe43faCy5H2yjSwPj2oxF1CL-paTar5HlkP-pG02tvZN4T3HF4pmkPP2RREOgEhIBmDvqMfWNsIXqc8Zy95NNuznzwvmpPxj1fLBtaT300tqlamg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">روبرتو کارلوس نه تنها مسلمان شد بلکه برای بار هشتم ازدواج کرد؛ بازیکن سابق رئال مادرید پس از هفت ازدواج ناموفق، این بار با زن مسلمانی به نام "سهیلا طاهری" که اهل لبنان هم هستش ازدواج کرد.
 این ازدواج طبق آداب اسلامی انجام شد و با خواندنِ شهادت مسلمان شد، عکس عروسی مربوط به ماه ژانویه 2026 است اما امروز لو رفت!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/Futball180TV/104102" target="_blank">📅 00:18 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/Futball180TV/104102" target="_blank">📅 00:18 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104099">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/p3OXQCmSy_2m_H6IE49b1W1UQziAQ8PpL_hswMTYSEo2BXnOLsVeX7m0bAiW3pvN2IxiuYWeRz8X0wBi4AidZ-TU-MPJyI-9etCUiAtWPu6CuPyqha-jT2Ggf87L4ocQ2Y2qXOC__-iNDIwNJN7VvFobqhWAtLpvQhW4KY46274SCG0X0gMk1-T8vN_dYeePusdbjTE7KLqJNiuK3ZG6D3EViZAXY_7IlelM9mpPX5XEkKCDA1rriFypPSjbWyy3aqQPhqRLBS7lpW_Tc1avvO50LYRy0WtZy_n-7tZnBmweeJpDsMc0-qGD0Ll7SQmdOCiU5k0tXHTN2dgzOFvixg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t9ueMZxTClqUPg5rLgMs8Q3YlhfM-Bq_nnOcRIrIV3bx9-93Tr5rGf_U39dLBqIfYvQ-qPrujzNSRxtzii9M8h9LVh65fP6W1sVnE2Q-do8gXlcJEwh6aOV85P7_cL9MG5QEF1OW49g4UV3qqH-W1dWyiiGw5nFFmP7ZW632NbCEZej8X46Ac6DiXtYeRVR4P_BwRQx7I_mksBDNrXL7la2ijqYmRX8TmjcOV9Sk8ftn9DQ-mobyJMG0txKyqjOtxDXp6b1TIBypncMz0rqdEIjeYOzrhr-ag-l9EMh7kGaSy_jNiE1T2Zfha--8bD3lLQDklV_Ot4ocdj3aqKVL_Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🚨
 🚨
@@ -1690,18 +1690,18 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 رومانو: توافق نهایی بین منچسترسیتی و لیل برای ایوب‌بوعدی بسیار نزدیکه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/Futball180TV/104099" target="_blank">📅 00:08 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/Futball180TV/104099" target="_blank">📅 00:08 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104098">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/loZQWpBQCRfa45VnyKyDxGTg930wyNwGdpL1wOKlnyyt0yETRkRBud8IPk05lz61RuTT2k8rXA029oigDxz9nmXY_QzMjGds6q4tJjC0wonAquDkBBM4OxsMDbZ-JaojXJcLcCmywZoy6RZz7Yx7jYKWcp0mvH04M2rhWGGjVzjLa4ugpE26DMeweEAMiD8kpkn3frNGiNs5DZ3jJF3bI_3yjTUa1l7F9OZ3uPWT528U8T7GBgRakkoQEMvVU4G5uVRo3TFkT_WhL0QsUCgk6oApyfgIc8mDbOzNX1o1dqQ4Peb1JrVLM_9OTYY9xGPZzc53NRXVf4EFHYeAuuAXmg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UW3GPKpvwhKkVUXpS4kQ1gTcJ4viqIyW0tg_LkeQfdk00Uzm_vrOkhmMAtHX0FVRHfxIBKaiJkmKNHKbeHbUNGZHN6hqkF3EEaNLUIxrbbUYr9z_mLpQA8rTuHKnOJ6CPYe_YeiRNORxxQWH5hIhugCDM5CtjIZnj3Yp6iSMMDb20RbVUn6RhSAz_xzOZutkle0B16gUAr14dXEE4nQxOBiyHfttDz7oZfdHyDpoPHdqPloaBTJwz3grSUwlhh6fDbxUZebgjNvRFKVtSmsp-ml4ekBoLZLsFMYYCISqrtynkNwdkqErKz2YZQODDQ18-M3S39YyahjB8c7ly0nMoA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 🔵
 رومانو: الهلال اولین پیشنهاد خودش برای جذب واتکینز رو به مبلغ ۴۵ میلیون یورو به استون‌ویلا فرستاد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/Futball180TV/104098" target="_blank">📅 00:03 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/Futball180TV/104098" target="_blank">📅 00:03 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104097">
@@ -1719,7 +1719,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 شجاع خلیل‌زاده و بازم حرکت جنجالی!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/Futball180TV/104097" target="_blank">📅 23:25 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/Futball180TV/104097" target="_blank">📅 23:25 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104096">
@@ -1731,7 +1731,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 بازی کاملا یکطرفه بود/ از کادر فنی و هواداران سپاهان عذرخواهی می‌کنم/ اشتباه من، تعیین‌کننده بود و امیدوارم جبران کنم/ توپ تغییر مسیر داد و باعث شد من اشتباه کنم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/Futball180TV/104096" target="_blank">📅 23:17 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/Futball180TV/104096" target="_blank">📅 23:17 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104095">
@@ -1765,7 +1765,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 جشن ۲نفره جواد و بیرو مقابل اشتباه حسینی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/Futball180TV/104094" target="_blank">📅 22:10 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/Futball180TV/104094" target="_blank">📅 22:10 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104093">
@@ -1778,7 +1778,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 روبرتو کارلوس پس از ازدواج با یک زن مراکشی رسما اعلام کرد که مسلمون شده
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/Futball180TV/104093" target="_blank">📅 22:06 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/Futball180TV/104093" target="_blank">📅 22:06 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104092">
@@ -1796,7 +1796,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 🇮🇷
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/Futball180TV/104092" target="_blank">📅 22:03 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/Futball180TV/104092" target="_blank">📅 22:03 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104091">
@@ -1814,7 +1814,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 🇮🇷
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/Futball180TV/104091" target="_blank">📅 22:02 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/Futball180TV/104091" target="_blank">📅 22:02 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104090">
@@ -1831,13 +1831,13 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 دبل اميرحسين حسین‌زاده مقابل سپاهان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/Futball180TV/104090" target="_blank">📅 21:59 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/Futball180TV/104090" target="_blank">📅 21:59 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104089">
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">گللگلگلگلگلگلگل دوم هم تراکتور زدددددد</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/Futball180TV/104089" target="_blank">📅 21:57 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/Futball180TV/104089" target="_blank">📅 21:57 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104088">
@@ -1855,7 +1855,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 حسین‌حسینی رسما و شرعا ریدددددددد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/Futball180TV/104088" target="_blank">📅 21:52 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/Futball180TV/104088" target="_blank">📅 21:52 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104087">
@@ -1875,7 +1875,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 گل‌اول تراکتور به سپاهان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/Futball180TV/104087" target="_blank">📅 21:49 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/Futball180TV/104087" target="_blank">📅 21:49 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104086">
@@ -1883,7 +1883,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-text">تراکتور یه گل به سپاهان زد روی ریدمان حسینی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/Futball180TV/104086" target="_blank">📅 21:48 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/Futball180TV/104086" target="_blank">📅 21:48 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104085">
@@ -1896,7 +1896,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/Futball180TV/104085" target="_blank">📅 21:47 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/Futball180TV/104085" target="_blank">📅 21:47 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104084">
@@ -1908,7 +1908,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 به دلیل عدم‌حضور بختیاری زاده در کنفرانس پیش از مسابقه، خبرنگاران مازندرانی کنفرانس مربی استقلال را تحریم کردند
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/Futball180TV/104084" target="_blank">📅 21:37 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/Futball180TV/104084" target="_blank">📅 21:37 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104083">
@@ -1928,7 +1928,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 گریه‌های محمدرضا آزادی پس از گلزنی امشب در بازی مقابل نساجی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/Futball180TV/104083" target="_blank">📅 21:35 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/Futball180TV/104083" target="_blank">📅 21:35 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104082">
@@ -1947,7 +1947,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 🇮🇷
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/Futball180TV/104082" target="_blank">📅 21:15 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/Futball180TV/104082" target="_blank">📅 21:15 · 27 Mordad 1405</a></div>
 </div>
 
 <hr>
