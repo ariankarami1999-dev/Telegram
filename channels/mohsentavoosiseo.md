@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 12:10:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 12:54:01</div>
 <hr>
 
 <div class="tg-post" id="msg-903">
@@ -382,7 +382,7 @@ Ban
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">تفاوت کلاد تو چیه دقیقا؟ نسبت به بقیه AI ها؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.78K · <a href="https://t.me/mohsentavoosiseo/893" target="_blank">📅 14:58 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.79K · <a href="https://t.me/mohsentavoosiseo/893" target="_blank">📅 14:58 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-892">
@@ -484,7 +484,7 @@ booking.com
 @mohsentavoosisupport
 پیام بدید. من نیستم پشت این اکانت. بچه ها هستند.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.03K · <a href="https://t.me/mohsentavoosiseo/890" target="_blank">📅 18:27 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-889">
@@ -519,7 +519,7 @@ booking.com
 خرید در:
 @mohsentavoosisupport
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.24K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.25K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-886">
@@ -600,7 +600,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 
 <div class="tg-post" id="msg-881">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C2iIDztIcgzTkUehDm00_KZR_M6vmbuOkcczfenMH3_-E62wnFVr1BcNwqQe7SavtKM2rXRCwFQvgdPoBkhJZEkKn4P2JU7GZqSQiCumsTKOu-jL62gw5jpHdgXnXXk-OavOGcRmRMZuFPQn5DBeB4dVIvAy2EfvcY3PMo6dmNyAy2k4xgxTJZBWxFStTT44ykeNeKzoucRWtrALjesQgsqr1diQFle0dHZQF0WQaGu07WcfWX7NX4GV7Lv_UHGAsSyGyr2YoSK6o_zSSMW2GGUmxI7QEkods1I-nwE-Aox-lUUAExnORmWA4WC8rnCoCkmaStisxHh8xsA0PuosaQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fgjDyz34yu7dibTj5niyGU8-KcENtJvAkiqIjZpxacFrXjNTSTd9sD8Ux1fCxbvsh5l7afyK6mZm4_3ZxZOgfpVNr-rSbzKiuSRabgXBRBXGpGX2a4-oBEdY3TSWtXf6G-1fWoz--Y-WWJxEuvEkXp3eOo6ZGd9zGpsuDgilVfLoymapkyUGluo2HW8G3Y5xNeT8ebeBMP-LAO46VuTp3KwRkJ3jjmRMR8582-yKa0aXT_pwla0j_jP1cVPDLE0g1mfF6KliLlDAu-R67YceH1Sgiw0yRkQoKcS8jybA85v-hfiOtpH14qe7ajfO39zgca7CU_OuVM8SwyzlF-ex1Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این یکی از ساده ترین هنرکاری های کلاد هست! از منوی رفلکت، بهتون عملکرد خودتونو میگه و واقعا بازخورد های جذابی میده! در اپدیت پیش روی دوره، تمام کسانی که دوره رو دارند، سئو بین المللی با کلاد رو به خشن ترین حالت ممکن یاد می گیرند
 😎
 .
@@ -1079,7 +1079,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 #تله
 #عیب
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.73K · <a href="https://t.me/mohsentavoosiseo/840" target="_blank">📅 15:11 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/mohsentavoosiseo/840" target="_blank">📅 15:11 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-839">

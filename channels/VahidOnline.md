@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 12:10:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 12:54:01</div>
 <hr>
 
 <div class="tg-post" id="msg-77945">
@@ -307,7 +307,7 @@
 mofauae
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 237K · <a href="https://t.me/VahidOnline/77945" target="_blank">📅 23:53 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 243K · <a href="https://t.me/VahidOnline/77945" target="_blank">📅 23:53 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77944">
@@ -321,7 +321,7 @@ mofauae
 jnbarrot
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 256K · <a href="https://t.me/VahidOnline/77944" target="_blank">📅 22:19 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 259K · <a href="https://t.me/VahidOnline/77944" target="_blank">📅 22:19 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77943">
@@ -332,13 +332,13 @@ jnbarrot
 mb_ghalibaf
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 262K · <a href="https://t.me/VahidOnline/77943" target="_blank">📅 21:03 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 265K · <a href="https://t.me/VahidOnline/77943" target="_blank">📅 21:03 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77942">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromVahid OnLive وحید آن‌لایو</strong></div>
-<div class="tg-footer">👁️ 260K · <a href="https://t.me/VahidOnline/77942" target="_blank">📅 20:50 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 262K · <a href="https://t.me/VahidOnline/77942" target="_blank">📅 20:50 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77941">
@@ -354,7 +354,7 @@ NCEMAUAE
 -وزارت کشور [امارات]
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 270K · <a href="https://t.me/VahidOnline/77941" target="_blank">📅 18:30 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 272K · <a href="https://t.me/VahidOnline/77941" target="_blank">📅 18:30 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77940">
@@ -365,7 +365,7 @@ NCEMAUAE
 آپدیت: پیام‌ها و تصویرهای مشابه دیگری هم دریافت کردم.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/77940" target="_blank">📅 18:25 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 256K · <a href="https://t.me/VahidOnline/77940" target="_blank">📅 18:25 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77939">
@@ -380,7 +380,7 @@ NCEMAUAE
 UK_MTO
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 245K · <a href="https://t.me/VahidOnline/77939" target="_blank">📅 18:05 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 246K · <a href="https://t.me/VahidOnline/77939" target="_blank">📅 18:05 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77937">
@@ -396,7 +396,7 @@ UK_MTO
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 250K · <a href="https://t.me/VahidOnline/77937" target="_blank">📅 17:03 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 251K · <a href="https://t.me/VahidOnline/77937" target="_blank">📅 17:03 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77936">
@@ -409,7 +409,7 @@ realDonaldTrump
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 239K · <a href="https://t.me/VahidOnline/77936" target="_blank">📅 16:28 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/77936" target="_blank">📅 16:28 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77935">
@@ -421,7 +421,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 220K · <a href="https://t.me/VahidOnline/77935" target="_blank">📅 16:26 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 221K · <a href="https://t.me/VahidOnline/77935" target="_blank">📅 16:26 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77934">
@@ -439,7 +439,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 208K · <a href="https://t.me/VahidOnline/77934" target="_blank">📅 16:24 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 209K · <a href="https://t.me/VahidOnline/77934" target="_blank">📅 16:24 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77933">
@@ -479,7 +479,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 203K · <a href="https://t.me/VahidOnline/77932" target="_blank">📅 16:17 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 204K · <a href="https://t.me/VahidOnline/77932" target="_blank">📅 16:17 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77931">
@@ -496,7 +496,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 232K · <a href="https://t.me/VahidOnline/77931" target="_blank">📅 16:06 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 233K · <a href="https://t.me/VahidOnline/77931" target="_blank">📅 16:06 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77930">
@@ -512,7 +512,7 @@ VahidOOnLine
 UK_MTO
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 269K · <a href="https://t.me/VahidOnline/77930" target="_blank">📅 07:31 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 270K · <a href="https://t.me/VahidOnline/77930" target="_blank">📅 07:31 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77929">
@@ -527,7 +527,7 @@ UK_MTO
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 261K · <a href="https://t.me/VahidOnline/77929" target="_blank">📅 07:29 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 262K · <a href="https://t.me/VahidOnline/77929" target="_blank">📅 07:29 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77928">
@@ -596,7 +596,7 @@ VahidHeadline
 خیلی ممنون از همه.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 297K · <a href="https://t.me/VahidOnline/77927" target="_blank">📅 23:24 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 298K · <a href="https://t.me/VahidOnline/77927" target="_blank">📅 23:24 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77922">
@@ -709,7 +709,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 241K · <a href="https://t.me/VahidOnline/77915" target="_blank">📅 17:23 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 242K · <a href="https://t.me/VahidOnline/77915" target="_blank">📅 17:23 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77914">
@@ -725,7 +725,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/77914" target="_blank">📅 17:22 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 241K · <a href="https://t.me/VahidOnline/77914" target="_blank">📅 17:22 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77912">
@@ -999,7 +999,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 355K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 356K · <a href="https://t.me/VahidOnline/77880" target="_blank">📅 08:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77879">
@@ -1468,7 +1468,7 @@ VahidOOnLine
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/fvY4B7XxiKLTWRG7gQpkRkbh_oUkJLaLAJ0kjwO8RriHb1phqBq2peQc_Lw0QiBFauccMXEa6LOOaLhI-qeecCo__51IwmT7aDlKWOzv2Ve-9s2Pc5hdOu5rlZ6LDpVGZIIf1kcWO-BLtbjaT1KJHo0bjsToqjT6J48j3_AxoJ45PrYldCNjxHIsDx6TiA0Pjr0JzuD_CU0TR4XK-7iIQAilMQ58S8r70B3jBCIgTL-Jj0NJn-E2mWbI8QmsqEaVc4SfFQj_sThU1Edm9KXeQkrUswJf8oHbFuFwBS5SUtXrVCTIqCLPUxj_ROaZdf6DpwJ3tXaMR2aGHObhXqWbMw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/orT-no52f1rbEbyeXFiZ0s_d5NT4Ajk51T_QBYIUPQYJUQ2FuDXVLWidzgymvub7tcuB5clLRJaGA9OB-GbD0VnRbnpuMs2tuRMxcWSOIVf5yIbeydnzddpGk4DUlYrE8tacz-WXulnIOY0YmirVTt9PvsFkqw-7ejOrWjxjZgCGqCbLNRtz6Qgk7mu-tAPO9qD9zb0iV5pZ7ReE_YsTpdhS_dKU0LcSweU6pFYZOxutCod2GQUMTpgq1NvwqLuKS2n7H1sZLvTs_CBLZyH_UrPu_0wcxBi_vI0MIDX_UTkX4Usr3SxqdVEryWC6TGrvwk3AFg_fxpwQKYxQaMjLBQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/YH_HUXmV0Npvh1TwpTjsK-aJV_Ib5lXiFr3fGsXXgwW8B7qHWB8ohzS_TQglHho2w3P1W-Jwz6ghAGdAK0HjuyAvvL4KU5qkjdAUamN3cRekRzl43pwhvZJb-YPJJX4UgZ9yTajsNu9Ig8cKxJ3OIRJ0ckBpx2d3MDmQ1aZDF2KxC957u3R7m0j1CFELUp4VFomQdP0Y-amiTjrD_5nGzZl_nKXxJzpnxA7WF26egae3yTSxn037Y3nYAokcu8BscQhvJrOzjoCNBxvy3Q1eFcftnZasQkX-9XCowt7JE-zclJ0S60DNmtXpb7JMkWubH3CYyVBvduPiw-f_CMqqUA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/PnTGYsZd14iIJSpnLNcHjCToe-JNtGnpEAembOeueFizb65gDGZI8qohudCvxLjJoseuai637tVADuyGL_24Ebn7Fk5B15Od0SaOOsR0c8cq5ZDhXg85uOiBT7K0mJYNlu4H-a3gxvDnCFYlGYBWXrYWXmG--jKl0LFbKxbDEAfsacAdvwnL8vOdm9VrAAMArfgYCuTD3uYK4XRsu1kZ6rhW98J5lNIceMdC_bslFk7WHJNyUUYlJdoNV7jh9omj9ATu_qGvCOjJL5UUlb566EIgIQg03O7JJyhJ5xYZfBNXTCQlE3gH8gCIzSN8j-GCwNQrFbTjFmDRLcP5NaMblA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/dOtL80iOVClI5643N1hhKqnK5eCp70X2t84Ua3NxX0Hj45bJB-_R3Cs_wMvRmgAs2-WDh21DYBcrIEtNRv1FAzW9NVeeg9oOvBwMndBwHxh00zCExwt1K9VXBEPB_xlX7jMnUmrNk_zBWeK0kaAmpqYRlpSiCP-kxOWBOXbFOHaId3U4TvpxtOENKkwjVaf-jwAbMpKSFcZU21uMQxoz7iCv1hpDVYLAz4A9FJGjpz96qTndYkYMK5eYfN5Hd2D_gFLPxcWNhO9rpSiGi84H_U-KDMtLcxZiA4LzChQFkbIZYm_AXzvag_bjxouYfRhokgwDwQRdY5OSSSe1BirpfQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/chIQOyBkonbSY-2979mNbnqDKzBDJ_gKq2H8xeL9iDT8TIc3LURRJ1S9mnxMf23YweLf1n7d5UzVsVo8zeWHMLDIx0SvGQEB2j6Kzf3-XZ1sNA9iC2hdDy03FwQWCwQWfsGAirU2Vb5ZI_WLquP1ywFdmQtjbw6bB9G2_mbU8qnUapau_uYcuFFTkSMi4_lueCZfWEK7-o992xple7rEV5Ph7H3xu0KLq2FU0iJFNSs1H13ybkacrd8Hlpi9Xo7rStHSdXk0bUCQhuO5MqhBTrnZXvrTBC1o4Vi7sDe8Ov6A9iwuLXOGevXoIASMtRtbZbFiYcGgA39sayBfygc7Qw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/T9UXfPC2mtJCsuPHHtJ-RDMqEgwDD4WpT7iFV5T-mjDsvwsoCnrqxmNM7qMXV1DsVFU1ekW2vowOI3aNSVLxCawxKUH0O6504B_EJXj1wu0kaBrwsfe8jOsNuO3J1WZLqVTZxev34UVhR8NF_cDScpn-uviLTZAaIrLCeO5u8SsE7uhJqWALXHLE_XQzQ-oOIn-X8x_bfJtteS8HIXordGtRhtoPfpw5q2Y06QZsBH-NFSfSMNXkK2ifxzbUPg99o5Wyr3qnxlCWSrJFFFN_JFVlQ6W3qGczFCF053L4hJyKX-w8qzqrRYUG0Y2d5f6HUS4dRsjI3Z4rkeVOaGtp5A.jpg" alt="photo" loading="lazy"/></div>
@@ -1691,7 +1691,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 377K · <a href="https://t.me/VahidOnline/77823" target="_blank">📅 21:15 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 378K · <a href="https://t.me/VahidOnline/77823" target="_blank">📅 21:15 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77822">
@@ -1839,7 +1839,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-77813">
 <div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZHI1iZkG6WGCED-OzCuNzSOGPvjZB4rqIx2oahHTdjbpI70IoebNP_CZR4t1NC8UdABNsgiI-nlVy8EnsKiXHIC2McO3MfYJ2P-Fi4wux6hChEUo5kYlrarm1ye3u_PE-GwHXoSv-ecPU3UOgyNSpnemTvjiggYOWDThVm0TC79UvESKDfuILBcR--CtJ3FUZDKvNxJ8rcwG5Nk-uQihNnBc_yVGTKArW1DkOlhYpBLX9VCzBRC53OX70WtHzy_ey1jnMySSbSaWsk2gM8PQwTxcVzqzitEvgxhlgN0gat9OgQhQ1moaj5s5fGpJdMgEEj_g11d7PAly3hcE6yr18A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AyQSTVY6roAM1F8imLdTeOrt4QWbUmt5s1BFdBJxa0TPPvpttw98upTV7oaYzGgqG9DaU4--4i5aQgMSdaRhuxkhFRADvBxsWPoY3o7nyN5RI2vKyMMBiFsJl1odk3snxNimKxEYglIokflEKwOWy8OoBvVDOEgsiLJ7xBd8nFYtQ6cpdw6GPWZXmhddWjsFAki7f3UQ3AE5prfm9ComNI4Yu09QqKcbIE3W_pQ4ECTzp8kpvbAufvmM_2OU3XmZc8nqaKNv2PmU6xMDS9kpaI58Ke_a3Sz29Eyy5p-_wfvpH9s1ZZQN5TGpnkqx9MXR6ZOwp8OGO0UhcpBYbwgnPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پارلمان لبنان روز سه‌شنبه مجازات اعدام را لغو کرد و این کشور نخستین کشور جهان عرب شد که این مجازات را با حبس ابد همراه با اعمال شاقه جایگزین می‌کند.
 اکثریت نمایندگان پارلمان ۱۲۸ نفره لبنان به لغو اعدام رأی دادند.
 فراکسیون حزب‌الله تنها گروهی بود که با آن همراهی نکرد.
