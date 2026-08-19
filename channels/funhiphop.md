@@ -292,7 +292,7 @@
 <a href="https://t.me/funhiphop" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 «قدیمی ترین اجتماع فانِ هیپ هاپی»🟡صاحب سبک🟡Tb :@FunHipHopAdsContact :@Chaman_Dar_KhakFollowing Copyright Laws©</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 08:29:33</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 09:03:02</div>
 <hr>
 
 <div class="tg-post" id="msg-82341">
@@ -301,7 +301,7 @@
 <div class="tg-text">دراکاریس
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 6.16K · <a href="https://t.me/funhiphop/82341" target="_blank">📅 01:59 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.64K · <a href="https://t.me/funhiphop/82341" target="_blank">📅 01:59 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82340">
@@ -310,7 +310,7 @@
 <div class="tg-text">والا بخدا همه پایینیو دوس داشتن تو لباس بالایی، آبرو ریزی نکن شیر
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/funhiphop/82340" target="_blank">📅 23:14 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/funhiphop/82340" target="_blank">📅 23:14 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82339">
@@ -326,13 +326,13 @@
 😂
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/funhiphop/82339" target="_blank">📅 22:59 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/82339" target="_blank">📅 22:59 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82338">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">چرا این بلاگرا که میرن تو خیابون به ملت میگن "میای بریم کافه؟" به پست ما نمیخورن تا پدر موجودی حسابشونو در بیاریم</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/funhiphop/82338" target="_blank">📅 22:43 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/82338" target="_blank">📅 22:43 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82337">
@@ -341,7 +341,7 @@
 کاخ سفید: مذاکرات با ایران تا اطلاع ثانوی لغو شد
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/82337" target="_blank">📅 22:32 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/82337" target="_blank">📅 22:32 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82336">
@@ -349,7 +349,7 @@
 <div class="tg-text">سپاه 2 تا موشک ول داده تو امارات ولی گردن نمیگیره
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/82336" target="_blank">📅 22:14 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/funhiphop/82336" target="_blank">📅 22:14 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82335">
@@ -358,7 +358,7 @@
 <div class="tg-text">نرخ های جدید کارمزد خدمات بانکی برای سال ۱۴۰۵
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/82335" target="_blank">📅 22:03 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/82335" target="_blank">📅 22:03 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82333">
@@ -370,7 +370,7 @@
 <div class="tg-text">بعد از ازدواج رونالدو و جورجینا عکس های عاشقانه جورجینا با اکسش که هنوز از پیجش پاک نکرده همه جا وایرال شده.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/82333" target="_blank">📅 21:29 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/82333" target="_blank">📅 21:29 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82332">
@@ -379,7 +379,7 @@
 <div class="tg-text">سلطان وکیل بند شده
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/82332" target="_blank">📅 20:44 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/82332" target="_blank">📅 20:44 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82331">
@@ -388,7 +388,7 @@
 <div class="tg-text">روبرتو کارلوس به طور رسمی اعلام کرد که به پیروان دین اسلام پیوسته و مسلمون شده.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/82331" target="_blank">📅 20:04 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/82331" target="_blank">📅 20:04 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82330">
@@ -406,7 +406,7 @@ https://t.me/+5t_pd5JM8E0yZDA0
 💬
 مشاوره و ثبت سفارش
 @Ad_Parsi</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/82330" target="_blank">📅 19:56 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/82330" target="_blank">📅 19:56 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82328">
@@ -421,7 +421,7 @@ https://t.me/+5t_pd5JM8E0yZDA0
 <div class="tg-text">آقا بابکو که یادتون نرفته؟
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/82328" target="_blank">📅 19:22 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/82328" target="_blank">📅 19:22 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82327">
@@ -430,7 +430,7 @@ https://t.me/+5t_pd5JM8E0yZDA0
 <div class="tg-text">ای خدا
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/82327" target="_blank">📅 18:49 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/82327" target="_blank">📅 18:49 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82326">
@@ -445,7 +445,7 @@ https://t.me/+5t_pd5JM8E0yZDA0
 <div class="tg-text">قشنگ معلومه سگه پشماااااش ریخته
 @FunHipHop
 | TemSah</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/82326" target="_blank">📅 17:57 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/82326" target="_blank">📅 17:57 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82324">
@@ -457,7 +457,7 @@ https://t.me/+5t_pd5JM8E0yZDA0
 <div class="tg-text">جام‌جهانی با ما چه کرد.
 @FunHipHop
 | TemSah</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/82324" target="_blank">📅 17:53 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/82324" target="_blank">📅 17:53 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82323">
@@ -483,7 +483,7 @@ BetForward.com
 r27
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/82323" target="_blank">📅 17:53 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/82323" target="_blank">📅 17:53 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82322">
@@ -491,7 +491,7 @@ r27
 <div class="tg-text">شورای شهر تهران: به زودی اسم فرودگاه «مهرآباد» تهران رو به فرودگاه «شهید خامنه‌ای» تغییر میدیم
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/82322" target="_blank">📅 15:06 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/82322" target="_blank">📅 15:06 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82321">
@@ -499,7 +499,7 @@ r27
 <div class="tg-text">طبق تحقیقات جدید محققین، افراد باهوش هرگز ادمین فان هیپ هاپ نمیشوند.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/82321" target="_blank">📅 14:33 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/82321" target="_blank">📅 14:33 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82320">
@@ -508,7 +508,7 @@ r27
 <div class="tg-text">امروز روز جهانی کاپل هاست.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/funhiphop/82320" target="_blank">📅 13:52 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/funhiphop/82320" target="_blank">📅 13:52 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82319">
@@ -533,7 +533,7 @@ r27
 <div class="tg-text">جهت خرید کلمه «مادرید» رو کامنت کنید
 @FunHipHop
 | TemSah</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/82317" target="_blank">📅 11:38 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/82317" target="_blank">📅 11:38 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82316">
@@ -672,7 +672,7 @@ Download
 🔥
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/funhiphop/82304" target="_blank">📅 17:37 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/funhiphop/82304" target="_blank">📅 17:37 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82303">
@@ -1021,7 +1021,7 @@ r26
 <div class="tg-post" id="msg-82262">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">توروخدا به ملتفت دیس بده یکم بخندیم  @FuunHipHop | FaRib</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/funhiphop/82262" target="_blank">📅 02:19 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/funhiphop/82262" target="_blank">📅 02:19 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82261">
@@ -1098,7 +1098,7 @@ r26
 <div class="tg-text">کصکش فقط یک دقیقه‌ کیر گوزیدی، چطوری تو راند اول ناک اوت شدی
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/funhiphop/82252" target="_blank">📅 22:28 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/funhiphop/82252" target="_blank">📅 22:28 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82251">
@@ -1175,7 +1175,7 @@ r26
 فلسطین
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/funhiphop/82235" target="_blank">📅 19:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/funhiphop/82235" target="_blank">📅 19:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82234">
