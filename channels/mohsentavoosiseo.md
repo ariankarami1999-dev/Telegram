@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 10:49:54</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 11:29:34</div>
 <hr>
 
 <div class="tg-post" id="msg-903">
@@ -611,7 +611,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد میگم کلاد خداست میگید نه! بازم میرید از فلان جی پی تی، ایرانیش رو میخرید؟ خیلی فرق داره! اختصاصی بگیرید. کانکتور و اسکیل و داکیومنت و کوورک و... تو اختصاصی هست فقط.
 mohsentavoosi.com/1
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.32K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.33K · <a href="https://t.me/mohsentavoosiseo/881" target="_blank">📅 15:17 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-880">
@@ -1138,7 +1138,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 
 <div class="tg-post" id="msg-830">
 <div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G23TX_KuAL_-i5YbrSa4xt-KijKoWfn1mMIAbjsge_S0Ch9nyX7hw-E1L8lIdLs230UeIXj1cOYeqeYW_re-5L5owQZ2EUDZw8jgnsGWDrML6750Th03yAEywljJ5o206wGO9NaKzIlvza4f7vR23KoAZpnp1UgpcsUuQfqvZCABdhNJKQbtTm1l89XYe2TKINacb3DRjGOZNOJA_dv5OGVojzAYN0ixh68DTfjhaZ_jQXa-sB1381QmjBXZsd9_0wk8OiVi5CopaDJiIAYd0QX75kIlIt8OhXyb7ilds6Lxr5-2iEfCums-EVwyjhKo0OV5-bd5UJ-gV5239yRaiQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LnimQIpmPOAj5rrzdJ_SZqh87EdAI-xiyquoKhB-znfM3o04v-KGZfVqqGzWZ9D0s6b7Rnn90mNoDRudvNAnWBi6eJznf9tSi9iRa9jqOhH1Al4f2fHG4ZJNcZIKCXdK9mtE8sxIAb1PyA8O33A_jKxsvnE-Ghe_srlYbzJurE0R16-Bs-qdcJj9o3hA5sacwyDipT3jcAEgOuP8v65ddgO_mVH5OSjYTJuAFJYYxNKmLWamdWg1-ouQDdATYysd8JU8-JvVvHzCyIW-OoGUFp_7GJOT_BnGRATPs7vh_KXB24s0nJVPEWF8_6VpK7EzIXHC3fTGY2VlHXmPwtaCtQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
 <div class="tg-footer">👁️ 2.24K · <a href="https://t.me/mohsentavoosiseo/830" target="_blank">📅 13:50 · 23 Tir 1405</a></div>
 </div>
@@ -1213,7 +1213,7 @@ https://t.me/mohsentavoosiseo/826
 
 <div class="tg-post" id="msg-822">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/viqUPdC0EvTWYZ12Di-F3vV-x0m1ViE0GLzRb3P4cMaXr1wu_3mQyQtQEgLt7fi8jKDGs9X0VKhR2ENJUs5hdXFGBiNH4xDHgbzzlys8cIeVwVPx0FuQ5hZ740aANn9viglWpCmUd1QlnRIX4BCjN5OPWJBYiRt6IpgAwfKI1_TzdPv4Kgiaf5-r68jeYLpHbNfk_srPixgO6hJWYzWFJUO9EaGzWBPgNhV8i4s37n5sVUF21NHnLKPev7V-J8-fyndtTvmVSz5omJhBzIIIJgn5Ob3CjPGjgsUikMXySTXvJDI423W6JuEkFq3QApbZs3OOd8TDfKnP70CKcmRoBQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/voJc1g7-kK5xrDfKP0Z_NjAHCAFHE29Khmdmq6nw6DpLZESbT4XpiWwCeEmez1Go6cOPNGre1OclKF2iVBhcmLRxM-KPLRbmmVxMmJbu2YX08lUm2pDxBsRD2jPm5vdWO7u5HvFFFj_RIIHZwHuOueUwHUjS0w3cHUoM1EEapZA4ScQyPg--wpNGDXtiaYdauXuPwyPZjjVGyU2uWewTNR-7MDELP853QijbrUrLQc3RoUqNGKeZPcr8ZnrUbawXlnKj8fpTwZx5gXGca9he8KXpRGpznewGT5jkr0WScscBaunq6C1bDrPHi9Dh69UY5Ra94w1PUhPjC0aDkgkR9g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بخاطر احترام به حقوق تولید کننده تصویر
 لینک پستش
 رو میذارم. ولی حرفم خود تصویر نیست.
