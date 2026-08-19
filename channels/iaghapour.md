@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 19:50:26</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 20:23:29</div>
 <hr>
 
 <div class="tg-post" id="msg-2901">
@@ -321,7 +321,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 2.81K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2900">
@@ -356,7 +356,7 @@ me.
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2899">
@@ -395,7 +395,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2898">
@@ -431,21 +431,21 @@ YouTube</div>
 ❤️
 کانال رضایت
 @AIPrime_Csat</div>
-<div class="tg-footer">👁️ 8.22K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.27K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2897">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Et7ILQjy7T0tOpnYRPu62rxGi8pYeqWkqmNmWepZ3MWWtBaDb6k1dvSHAGDtKbKW-hWvdN_Bcj-hyXUrOBgDFzHuULndSNRLZCOrUEEdWthFj60zj1EYzy_1-0Sh9IV04uJVOnvwfwBvsg44L4uZRA3DDdYpcWVxalA-y_PntbMGKJBu7iCYu5VTQRYMFNI4UH_XIX79KAK5ryvn6nf_EUXZaykTwe2f9R-PLXX2GX3Zm9vqJEgA2bIqr4r-AurHKnel_dKZKGVRR5q1plze0aRCPmlKMYZXkBAqmHHR_wZErMygB2MZ-_RK_mRDUndBJiViwQMeeckU-gOuRfAiSQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کدنویسی در سال ۲۰۲۶ :)</div>
-<div class="tg-footer">👁️ 8.37K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.42K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2895">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/arj0CvmVfNaiDYOgrX0aJ3t77d0rrq7QspyexpUX0T5IDYkNxuYj2MnshY3zAdEa5cUcipGd88F3CtPIadx_rMW7AnGVfz1HJuYh_3-b97ofKSTB96vI51tSSoE83djuijJc5OpY-IMuFvZ75u7gpLWLnYabsdDOCF9Xjsz5WTr7Z73sC90lucseBeX7NYSLKqjFmp8vTjmtA1ccoaDklhC_BttpmQPjdtxF-lss5ZCknEotaFYA1mxkND915dMi4W8MPNG-vk_mFjZy9O4LeARpKifsHxrhY19OF9E8wc6PssNrc7MiRlTBXCDTDFmsOWWNY5EX5bToD6irwKlBMA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/cZKJxA3bnFqDltgxf0MbFoh_I_TvGCp4DJEv9bWNcDPg1aTsPmKFx6_k7e1Q6S8_QIRLChmWMcPYSEGW6BUHX6TsRpjMuzVk_r3Q7xmyXt2mou_zaIU4h7Gc9lyPqPsjc_NZzZv4lUbBO6LE9Xg3ECkpYrcNHiRcOME3rengKe_xas8jQDYg7pSBj-v3TXHSeMMw2U-HHvfS2XbQUQ0bWkmyJ4dgB-cjxgjyJ6NS7xCN2DrKeXcnHKW6pjPLkq-JAzT4bQrV5lvw2jU_8PJSSpwiaL1JBK8Jl7xCH2txMqgz_2LyUH-aUac0ItYrWenIt63jmMCo4USSaT-fsPeIHg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/VGx86k65PJIHU1F7u4z0ECtZItFK-tbRyEo2ncZLNIqdIDF4nGax696VP5dClVC7lseZ94LgP-iHnGYr5ojp9Jja4EjdALyaOPgZjs1Wjp_rL6nwtWXEwPh0KrqMGPO2o0ZhyojGDiWnr3IYFFB24-zlGY6TeFnVgyBXEIXUN31G6fuHPjoIq-WsTp67mT7sR_avD5Wd_JJUs16iM_TDZPst55JWrlkuV91Za3t-5WlNa3DVfG8SkX3pR2blkVJQE0unpB3QC_OC3GyDJyMMnXecaLBj2TzJXd8ow9Dkjr51rWwAxmxehqmdfs-NV0N8Objkxx8O0A0riGgNRBUWsw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ug0Bh3D6ep8fCaMyCw0OS8nmOztq25yGI_7ZTScEe9a5LQ9YxTKcqeaq4nnVNb0qOdNsk8SlYT_SZrqRUjdp73tH79oH-QD-PtWWKMYOM9ufVmD4qCoG47BSS2Mrb0CzvakujwhQAmW5z-c1lNKc0uNQxpUe6WClMzMV57T66o5taZZJRmfUr_3xO-OetJNFSjfzC8hNSHhI0CFiigZ2I49JU8W8QLrA2pQlVwqCEmlQcGJiVaxSYPRMOExiLdxU77JzTlQH2ElvEN4F1qAJzXUL8qRUIfQTOWSRm2RpLtlDEPqE-3nZSc5ywBPMfnW25XsH4mJB8SwYE0UHdbZkVg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">🟢
 جایزه قرعه کشی تحویل 2 نفر از برنده ها شد.
@@ -460,7 +460,7 @@ YouTube</div>
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 8.11K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.14K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
@@ -487,7 +487,7 @@ BFI
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.64K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.67K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2892">
@@ -516,7 +516,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/iaghapour/2892" target="_blank">📅 18:01 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2891">
@@ -817,7 +817,7 @@ YouTube</div>
 ✅
 ویدیوی بعدی: ۲ اکانت
 🎁</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/iaghapour/2877" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/iaghapour/2877" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2876">
@@ -948,7 +948,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/iaghapour/2869" target="_blank">📅 18:05 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2868">
@@ -1812,7 +1812,7 @@ KelpDAO
 🔥
 🔹
 تو این ویدیو قراره با هم یاد بگیریم چطوری یه فیلترشکن شخصی فوق‌العاده با استفاده از پنل پاسارگارد بسازیم. این پنل از 2 هسته Xray و وایرگارد ساپورت میکنه و همینطور از قابلیت نود هم پشتیبانی میکنه.…</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/iaghapour/2819" target="_blank">📅 17:05 · 05 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/iaghapour/2819" target="_blank">📅 17:05 · 05 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2817">

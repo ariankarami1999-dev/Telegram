@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 19:50:26</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 20:23:29</div>
 <hr>
 
 <div class="tg-post" id="msg-7518">
@@ -316,7 +316,7 @@ https://api.anyapi.ai/v1
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 786 · <a href="https://t.me/ArchiveTell/7518" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 823 · <a href="https://t.me/ArchiveTell/7518" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7517">
@@ -340,7 +340,7 @@ experiments.hetzner.com/docs/inference
 🤝
 💎
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.11K · <a href="https://t.me/ArchiveTell/7517" target="_blank">📅 15:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.14K · <a href="https://t.me/ArchiveTell/7517" target="_blank">📅 15:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7514">
@@ -350,7 +350,7 @@ experiments.hetzner.com/docs/inference
 🛜
 ✅
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/ArchiveTell/7514" target="_blank">📅 13:12 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.59K · <a href="https://t.me/ArchiveTell/7514" target="_blank">📅 13:12 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7513">
@@ -379,7 +379,7 @@ My Domains
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.48K · <a href="https://t.me/ArchiveTell/7513" target="_blank">📅 12:36 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.49K · <a href="https://t.me/ArchiveTell/7513" target="_blank">📅 12:36 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7512">
@@ -416,7 +416,7 @@ My Domains
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.49K · <a href="https://t.me/ArchiveTell/7512" target="_blank">📅 11:02 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/ArchiveTell/7512" target="_blank">📅 11:02 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7511">
@@ -435,7 +435,7 @@ z-ai/glm-5.3-free
 Link
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/ArchiveTell/7511" target="_blank">📅 09:33 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/ArchiveTell/7511" target="_blank">📅 09:33 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7509">
@@ -719,7 +719,7 @@ PNG، JPEG، SVG، PDF، DOCX، ODT، HTML، Markdown
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.73K · <a href="https://t.me/ArchiveTell/7497" target="_blank">📅 19:34 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.74K · <a href="https://t.me/ArchiveTell/7497" target="_blank">📅 19:34 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7496">
@@ -1020,7 +1020,7 @@ Temperature = 0
 ✈️
 @ArchiveTell
 | S</div>
-<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/ArchiveTell/7490" target="_blank">📅 21:26 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.84K · <a href="https://t.me/ArchiveTell/7490" target="_blank">📅 21:26 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7488">
@@ -1089,7 +1089,7 @@ https://api.orcarouter.ai/v1
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.99K · <a href="https://t.me/ArchiveTell/7485" target="_blank">📅 15:18 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2K · <a href="https://t.me/ArchiveTell/7485" target="_blank">📅 15:18 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7484">
@@ -1109,7 +1109,7 @@ z.ai
 برنامه Zcode رو دانلود کنید
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/ArchiveTell/7484" target="_blank">📅 12:43 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/ArchiveTell/7484" target="_blank">📅 12:43 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7483">
@@ -1232,7 +1232,7 @@ jxp.com
 🎉
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/ArchiveTell/7478" target="_blank">📅 22:12 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/ArchiveTell/7478" target="_blank">📅 22:12 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7477">
@@ -1616,7 +1616,7 @@ Opus 5 | Opus 4.8
 
 <div class="tg-post" id="msg-7454">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aUD9rWPDpjnGJ2gszPrnk5t887ETCrJ1u12LOk7q2I0F5TCZFinAEYD5LUjWYSwH5nIDNkY9DPC-Zn1_nECyd0p9p0qLKaX95LGkgQU905gNMVV-dfbaFMKfJc1yRDpCZW8eQXA67Te7XUvO2JcpAkK4LGcAbPOiDj5NWMWaNGRv6mjHyRLm-_1O_cIAw15KPXrhZUiXRJ7sbMpyHs6V00BzD0CCVVTBOj6AIesd8SK0QZzCdruG-Xkzvww572t0hO1Wt6pbovpQyE9H6EjfMn7q5JhzJsDR_oANey-zFmp_m4m-eG53rQvLVHrzO5ybwtnd_CDv6QzRUN5AALMzAg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ITwoAoaQAct8_LCzZWOoKHPB_zsGXAWfRzSCtCIjZ7Ta0OvV8ArGOQEoQhmTZz5yS8QKdkdjlVz_MIiaN-lQ2bpN7c9r8idB8GtsHCWqMnlm8XlQmob1mh-tO9CaRpeoTE31ASeHDYysVObMIQkFauLXcGmawlw3ICfSW8QrCTgtXryoa4ryDIbZkbXT5aulX_b7hgUfEsbxJVu5wPGEJp6vIpd3J1mx1NNCh5hRPiigLs21GsUnexSwlYkSHjlPMWsq1I0JsfZPaCSf1uBAHJxtcJofrBRtcot_oc6BhPT1DxSFDSbxm87rMdW3DqpdW9PwdOnzbW6-iRkr875JVQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دسترسی رایگان به مدل های هوش منصوعی قدرتمند
 🚀
 🆓
@@ -2133,7 +2133,7 @@ app.clusy.io
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/ArchiveTell/7423" target="_blank">📅 15:00 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/ArchiveTell/7423" target="_blank">📅 15:00 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7422">
@@ -2208,7 +2208,7 @@ Work for me
 ✅
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/ArchiveTell/7421" target="_blank">📅 13:11 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/ArchiveTell/7421" target="_blank">📅 13:11 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7420">
@@ -2221,7 +2221,7 @@ Work for me
 @survpnbot
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/ArchiveTell/7420" target="_blank">📅 12:30 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/ArchiveTell/7420" target="_blank">📅 12:30 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7418">
@@ -2242,7 +2242,7 @@ Work for me
 
 <div class="tg-post" id="msg-7417">
 <div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vANuGbQa22aDbRR-8vooci3-IC2X5iAGepE5cWJMQFor5eZvzqSzPbdFjPJlG53Oi3nNxXfETEQw04Ps9ueMyb95p3nyjimy3HJaEDgz0YPhm7hKOZcyhYNV4gaKXRpDNV7cno7vr3wOdReb2jPGY5WJ_15nMChCYOCy4hneb6yvGmJbH_LfXGRvZGuQZyT6x6gLkBIkRkC3cPn2qQeC-WBXp2-WBJ5jdlBXqebn8FMdPtAWgE54BzBDj1kzU5KvEYeFfbTQ354U0qBH3HprcRZFzTwd68nU5oMDqmbR2eldipLhBB8sJrP4GRlOFVdr3RKy76V7-u5WJ98tnp6vtA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HpxbdeOja4LAA13kHthvzfYeuLg5HzQ3XE5dGqT6hENXc4HHIaJkNQrawxH9_OgU9S8uB1QK8s56IbMdYPO0ojFfl004zRTmqLe16mWYPhK83YBFwxR_qvJzYg3D3I3m9-9NCJLb51tRxDOgsmj5tn1N4uVQ_xnUye5c5CKAlUDMYrJPYUSqXbDmp19SD7NfMBT-9G0P9Yf09CkuiOPKSX8RKh7bhYnYCenZXqOZ9EeCQFOTkaTXsEgF5ZCq52l7x--rf388COnxUZAhz0N9ODk1Ld5JpZRcfXmpWaPth0JCleEEi8cKAOc_2_Uc7G84Jw6j11ij9-zHBwHSllob7g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حذف فوری واترمارک تصاویر و ویدیوهای Gemini
 🚀
 🔥
@@ -2266,7 +2266,7 @@ Work for me
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/ArchiveTell/7417" target="_blank">📅 21:16 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.89K · <a href="https://t.me/ArchiveTell/7417" target="_blank">📅 21:16 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7416">
@@ -2293,7 +2293,7 @@ Dola
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/ArchiveTell/7416" target="_blank">📅 20:00 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.57K · <a href="https://t.me/ArchiveTell/7416" target="_blank">📅 20:00 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7415">
@@ -2319,7 +2319,7 @@ freellm.sh
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/ArchiveTell/7415" target="_blank">📅 18:30 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/ArchiveTell/7415" target="_blank">📅 18:30 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7414">
@@ -2749,7 +2749,7 @@ https://www.creen.ai
 🔵
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/ArchiveTell/7391" target="_blank">📅 14:40 · 13 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/ArchiveTell/7391" target="_blank">📅 14:40 · 13 Mordad 1405</a></div>
 </div>
 
 <hr>
