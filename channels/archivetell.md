@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 21:50:23</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-28 22:30:02</div>
 <hr>
 
 <div class="tg-post" id="msg-7518">
@@ -316,7 +316,7 @@ https://api.anyapi.ai/v1
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 919 · <a href="https://t.me/ArchiveTell/7518" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 961 · <a href="https://t.me/ArchiveTell/7518" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7517">
@@ -340,7 +340,7 @@ experiments.hetzner.com/docs/inference
 🤝
 💎
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.21K · <a href="https://t.me/ArchiveTell/7517" target="_blank">📅 15:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/ArchiveTell/7517" target="_blank">📅 15:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7514">
@@ -350,7 +350,7 @@ experiments.hetzner.com/docs/inference
 🛜
 ✅
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.64K · <a href="https://t.me/ArchiveTell/7514" target="_blank">📅 13:12 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.68K · <a href="https://t.me/ArchiveTell/7514" target="_blank">📅 13:12 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7513">
@@ -379,7 +379,7 @@ My Domains
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/ArchiveTell/7513" target="_blank">📅 12:36 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.55K · <a href="https://t.me/ArchiveTell/7513" target="_blank">📅 12:36 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7512">
@@ -416,7 +416,7 @@ My Domains
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/ArchiveTell/7512" target="_blank">📅 11:02 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.55K · <a href="https://t.me/ArchiveTell/7512" target="_blank">📅 11:02 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7511">
@@ -435,7 +435,7 @@ z-ai/glm-5.3-free
 Link
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/ArchiveTell/7511" target="_blank">📅 09:33 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/ArchiveTell/7511" target="_blank">📅 09:33 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7509">
@@ -456,7 +456,7 @@ Link
 🤯
 🚀
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/ArchiveTell/7509" target="_blank">📅 22:17 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/ArchiveTell/7509" target="_blank">📅 22:17 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7508">
@@ -522,7 +522,7 @@ deepseek-v4-flash
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/ArchiveTell/7505" target="_blank">📅 16:51 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.83K · <a href="https://t.me/ArchiveTell/7505" target="_blank">📅 16:51 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7504">
@@ -596,7 +596,7 @@ qwen/qwen3.8-max-free
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.75K · <a href="https://t.me/ArchiveTell/7502" target="_blank">📅 10:38 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/ArchiveTell/7502" target="_blank">📅 10:38 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7500">
@@ -629,12 +629,12 @@ qwen/qwen3.8-max-free
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.79K · <a href="https://t.me/ArchiveTell/7500" target="_blank">📅 23:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.8K · <a href="https://t.me/ArchiveTell/7500" target="_blank">📅 23:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7499">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IzPJitWRQ-IoVgsZtoB3UdLZGRy93iP8GX6R3EW5ItIvHjavQso-zkvTIVaiUTPouCu9OBPEfi_387HektoKrISuUBFQPM2rtyOeqyMryAa7FKncphZ_XY5ChXPCYzcnQBAA6rL4IUmzDyl_iKal5L170iZmN86tyxmJ3tDmi9bgtQqhz3BxXEXb27C35A-K5BnTJfp7KZXSLMK08wHYeQ9_u8F1tRKLZAp-9q62EhRXnCWH3NfKE1Nr_rHhhPCi5BcU66wWNUaZbmL11jnYzy-wZ7lZgaP09WJCfpQM9hHmPxVqhjz-n2zwSB36cWk-q1LOPn1JzEELcoEH1L5I0w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GYnNEsRK-sJia-PnA9ciitftqUKjsNm8oUIM7Ek_AYMJSaQjSwaGria3PKl24yRyTwImscVXOtQ4lzNEsApfVo-eYnLZh0KIYvMVi7-y-Up1NMtJgVS6eNiXpmTTrnpzluIfo44mMkgUlRDd0O7-39civI2xiIEwj9Gb1LvnnpX2rXyhq9J4rqHjVVic52LYuE0YaqYHveNF_CFOvOG29Qv3nu39bSgbwX3OYydxNevbzUp3O13YEpD3pC48C7KVlFVwm1cIG1fPCol0OAeLuBcJMx8vH917pbKLo3IPCr1yO2BHgotVBWWmzkhmxcvh_SlDpX3xCCZbe21sPZjXMA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📺
 این ابزار خط‌فرمان، یوتیوب رو مستقیم توی ترمینال میاره
 ما ytsurf رو پیدا کردیم — یک CLI رایگان و متن‌باز که ویدیوهای یوتیوب رو تمیز و بدون حواس‌پرتی مستقیم توی Terminal پخش می‌کنه.
@@ -743,7 +743,7 @@ https://heyroute.ai/v1
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/ArchiveTell/7496" target="_blank">📅 17:04 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.77K · <a href="https://t.me/ArchiveTell/7496" target="_blank">📅 17:04 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7495">
@@ -1139,7 +1139,7 @@ glm-5.2
 
 <div class="tg-post" id="msg-7482">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UOpv69fK7xHK4jJrEUlR43T61jF4M2rLiUyR8kYPJECIDI0TqNxKVjSqY6W3qVEtv8K4r3GQ3Wf1J5wvEMaatU3E6EhtDSL1FdJbf_D0p7pxJng3ruJ2V051L1cobAIK3P1c4Ri9ZJ2PGQHe0ZvAPmHZ_N_J6G3lyD4WdKm9UIUO7McBEl7gKKDF_j67JG8y_GnCFMDpMmyma5ZMXv9-ZbbUeIk2tS9J0J0jJc_2HK1By3_48azUrLk_aTOYezXpCGQ6haGXVw0dWQZBuyHULybJD3AfRrATGhpJKmI1VHophHzwwjiF430shky3HkBci-QhmFtPsj271h_X9SbUrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fmrXIn6ti_4qYLdLJizK0XJMVFf4Hf3otbvJqzivjbxD8f2ZgAwcIzRmFV456RXVqk1T41LhmS3i-Y4Hq7OOwRK4OtSMyoXnLNXtKCgxgqm2iUKCVUp3QNDgOkMxQmvcx8jENg1zJ1cVZCS_mAroCaO_srug4XXi00ziprUlCnboUeqMdhwAPyQyug0m6wrqYSKj0fXQ4bnpAHXK6HpBzID7lAbVzOAld3oYJsGUGzARxZeZLrBlUlysGIcgSS2auE_n93MplnE1ctOUkD-yayOGYpo3pJgZ0j0cN5WGde1ToRJ70mOLLjx4n3vIuIB9mT5ajqsAa3WU-tHt7DWruA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مدل GLM 5.3 رونمایی شد
 🚀
 نسخه جدید GLM با نتایج بسیار قدرتمند در بنچمارک‌ها عرضه شده و در چندین بخش از رقبا جلو زده است.
@@ -1581,7 +1581,7 @@ Opus 5 | Opus 4.8
 |
 #API
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.71K · <a href="https://t.me/ArchiveTell/7457" target="_blank">📅 11:31 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.72K · <a href="https://t.me/ArchiveTell/7457" target="_blank">📅 11:31 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7455">
@@ -1915,7 +1915,7 @@ Vega Agent
 |
 #API
 | VeGaS</div>
-<div class="tg-footer">👁️ 3.1K · <a href="https://t.me/ArchiveTell/7441" target="_blank">📅 14:55 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.11K · <a href="https://t.me/ArchiveTell/7441" target="_blank">📅 14:55 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7440">
@@ -2226,7 +2226,7 @@ Work for me
 
 <div class="tg-post" id="msg-7418">
 <div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uF5_a1L6lAY9TwzZ01H85qGe4LGcILc0g9jCJ522sXf4gC3DwC4vix1us_wfqZPME49Qz4soyPU0da-pRz_d30GyvhnZO7meh1MHmVicGK-qax-cSl6HoIuMThf1FevnWWMizaJt_zCz2tkAJpnWT5HBUGfj9-6qrkXAkcE_4OWuND_g609tcZ4ubnDJymZTBDifxx9WNpsnmT2dzGoFS3TvYzl_IgPBJBx251lAVEUGzYv4KdxjT6sn4dMbi1-xVJiBE8tOZ4z55RSy2QJLA-t7gEM9qN-34SpCaxFW3xLEbtA-S06elocyb5KxR5788PSoyvkrpb1crnJTpKTfkg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cVQkDX7CuubPClwQErySLr8WGkk7t1EMDxZkxN2XVbj_Puv6CpXdzhZ0-jz37Ed0Z_HcB70zQkxwPg6MAOJSMNYKbjTkzARfz0cSXySKTW4DEc-ZcLPxbTOAZaQJ1w9dkotPYu_3W3iRdwaJQZ3ZRQ_k7en0WsyTGRpauTilSpKKghf16GrOJWSaevDy2v4Ey-ia1XvPNt9c60SxDaqQzTKxEKs0EvJJHQLITPES4I9sUzVCkXFSgWgJIz-CmwuKkDUwM2zCO38_d0uYmaC4s6FSMgolDw-elHJ0wSgcbrp9ra-s4493xOCZ5VVWu9Re564SkWxyxS0xrnydKXptYg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 کامنت یه کاربر زیر پست تلگرام در ایکس:
 من آدرس مخفیگاه پاول دروف رو می‌خوام
