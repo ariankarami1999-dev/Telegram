@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn1.telesco.pe/file/Zj75hZsM9qdSGlD6wNLAQm1wk-modvFBuDcYup59YSXya6X1ifyF_K4wng0CaSWkUwJTEgmKt5xcbHmSfykU8NQMnSmcSBU-fnmFQRKESJ7uX8UQ_NZsLW1yVq5D1smBJPD3LkvuBe8ST0SBk9YFzpUAE883ZTPOAkthE_AZ4yrvd0ntL6fFoBrH1Z1m1yBS8BOMcrzzXH0IcNBZc_bRiL5pIvfhMUVnaEwyk3CRNY0tN5gcPf2de0h0T7jzUaYOQNwI6zWsRDLCjMhVDNFCHqxLsqKMWiBXdmo5_L9cqUUeAPZ-Vm9GE0Z3SIUgAaYCTYgllcQlB3axVby5IEek-A.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 IRCF | اینترنت آزاد برای همه</h1>
-<p>@ircfspace • 👥 96.9K عضو</p>
+<p>@ircfspace • 👥 96.8K عضو</p>
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 09:23:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 09:59:11</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -321,7 +321,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -336,7 +336,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -389,7 +389,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -404,7 +404,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -535,7 +535,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.5K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.6K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
@@ -1323,7 +1323,7 @@ github.com/ZethRise/Aethery/releases
 
 <div class="tg-post" id="msg-2496">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ntQOwjHGxAf6RqrhDEGaVrp7rbPCHR_X8-I_SWWIoDlPF3Z5xwGqMxCTXYWjVhemmwbuKB7M2XdCjb55DtoslIp6JkTnOg5K9mztf4aEMjjjxT93oYShcTYtByQLtVi3IIRa4KWbQMQI61dbiBBuUFMB9lt4iLMmUGz1AnpOHZhXqrIrPXFHNzqQSQXFXtADwJczBUqML-vHVnWSDjdJmgJFjY6pO0dYC89MhrRXlVZdNkge_lDjgmDMpSBurtqN-k-0tC6UQTSE4oAGdonO1F7eAUjwXaeevuTMJnyJygnvscpM5HYQ6j_G3fVCvDnIyF3wW-adp4gvG17k9qWjnQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/L1hDhTzQgqP5qtp3qFLgA5KHJ0ZrnSlX4Jk5XDhab6DQQ1na5wBHPOHy4_RXJpyOULZQqwo1dQHqI-INeKLqtFFPcyTVoMOVp44esVEKPlqNEthVAwjfWIyFA_JBsJl5b8ntUPyNNfwHFdgKU4cgSLnKwlefFcQvI-8zW58ojnzd5WVKweO86wxU4UFTNfHmXwIuQL3x8WvNmnpOI_CHFrmz1SWwhDoAPKKFC4wQWRgHTdT6ZRAdl_u-r3POXjYquUVt6tH6CcO4CEhDwD9gWn4POujs1hviYvV6wcY0C-ZW5LOLoHjy2GG0cDU7WpJ1YiGrG_wnLfN4A_fpE2aoaQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت رسمی Sing-box برای سیستم‌عامل ویندوز بصورت پیش‌ازانتشار عرضه شده و طبق اعلام توسعه‌دهنده‌ش، همون تجربه‌ای رو ارائه میده که پیش‌تر در نسخه macOS در دسترس بود.
 👉
 github.com/SagerNet/sing-box/releases

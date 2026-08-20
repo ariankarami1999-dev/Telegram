@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 09:23:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 09:59:11</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -326,8 +326,8 @@ z.ai
 <div class="tg-post" id="msg-948">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/VHEjTapzZePaLmnm9Rx2KwbKIh1XIAdhYSItXaSaPmETtfCyrU3id23b2cKrB8QUuxviZvxoVgnYRFp0UWX5lHktyGtFW6oKeJtJRrXJBf4WyYPXd5uNO1_b_wUdnzLDY7ESaS1XF98HrfiSKiJ2DAGe7tlG0sww4re3yt1Gzn-9wwgdlgSexjxdIWG51OO3gk1xU-HnSzTkNm8WoNbyp9ttvDKZ4N8Ucw8Lm_JTJtOhcWIAh3vuYDVJ7Vovz4UkFXhzl_RFa0VSU4moAKG_Bw6Z7TPXjV65nLHWRLjzTy22P-Ykq_8SBpU2zcrgdwse1RQSGmZuZqK7klp0QVxyHg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/PzVxFob1Y01CiUmzeeeWMxlpq-hKsnDs5GjEryDh38RXUIW-CjeGgGRbOyUD8S4Weu1W-hcmN_qwrmifrKfLzkB4AyZY5X986Q0MFxVluC5xm4gkUuynGe2Yx1mSS6O7cjbTxoiXvztZQ0VnAAOPBrCEJtUigjx5QaOV83mIgIQXFzUHkbeEj1mZOxb93hGY6TtaSOU3NNbZ1nE2hf-E5ZMW1UPPlCoZ3EOd_JFnYRgEOJelwFTmIfGJY1RVu42UxH0kQsd2C0IMqK86L8je5mE_rarsV1ledbI7rNZ9bbB2n6Yq3UcLwEq4G86_6cH-6y5vKqg1JwLORcTNo-HKdg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/hB-QhiYIBqE1Mnjs7385ZG2jC85i17XaWr3aHb4Wu-agDf5Y9hoUwSmT9QElMOHaAFo9n-DmrVsWVMqgfTpj935dlEgVzNM79P9BwCBm5pRCicef_UOetlG3Vbx5NzfkgzWprBni3_ZClr7UAGX4KCUrvHctFw8J_eC42twBpkO79Lp_YKJa15MoHHsL7VwCNCcY7FnqmIYDpaswochttof48O8feSIGsXhx3TTdUtTT8tW5w6RYKM1Yp23wTAz1SN9zXRXBmYQPbLrpHenU23GtMWCbJKAsj0ZBsfEThxb7iQ4Uv1rb5rmBnkLqyaAlkvezonsh8mqhvR-ifdqruQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/HocI_bTS3bbAVJ3yBx3AuQHgZnMFIMdFLjKoUOxS0ncY3Lz0uJr50HTcz7MjKkIDDX5sY922U50aH7peLDhes8OdrtrWCwDa0jb8ymJip6AVK4S_NJstBYXRsD21ip-vI46Rig9xHc15bWsMZHss6SkhQve-LWhq-5R-koDRDJRzqUP-qiPm7HBt2ryGsymkkctfwj9NZTVGR5EZqyCUlXXECVVGGMVMqES-mAhP67eFs_Y7Dc83ByjZfmvGT5kAO_YfYjONo6Kt7A5BhCPgDaL43OYm0TzBAGN81uCdLJcWyHCP8i_kxlJ1FkF6ageWax270woSZeYkCM9IxiGCOw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">😒
 کلاد ایمیل میزنه به اون اکانتی که بن کرده که بیا fable5 استفاده کن.
