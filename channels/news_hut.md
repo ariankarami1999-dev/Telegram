@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 02:21:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 02:47:04</div>
 <hr>
 
 <div class="tg-post" id="msg-70346">
@@ -303,7 +303,7 @@
 انتخاب‌های پیشنهادی روی گل، BTTS و بازارهای مطمئن‌تر  عضو شو و قبل از شروع بازی‌ها، تحلیل رو ببین.
 ⚠️
 …</div>
-<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/news_hut/70346" target="_blank">📅 00:45 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.91K · <a href="https://t.me/news_hut/70346" target="_blank">📅 00:45 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70345">
@@ -324,7 +324,7 @@
 ⚠️
 شرط‌بندی باید با مدیریت سرمایه و مسئولیت‌پذیری باشد.
 https://t.me/+nbm7Tb2pz8VjMDlk</div>
-<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/news_hut/70345" target="_blank">📅 00:45 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.01K · <a href="https://t.me/news_hut/70345" target="_blank">📅 00:45 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70344">
@@ -348,7 +348,7 @@ https://t.me/+nbm7Tb2pz8VjMDlk</div>
 ما میخوایم یکاری انجام بدیم تاسیسات هسته‌ای اونا نابود بشه حتی شانس بازسازی نداشته باشه
 افزایش قیمت نفت گاز تو آمریکا طبیعیه ولی به زودی پایین میاد
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.51K · <a href="https://t.me/news_hut/70344" target="_blank">📅 00:19 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.9K · <a href="https://t.me/news_hut/70344" target="_blank">📅 00:19 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70343">
@@ -357,7 +357,7 @@ https://t.me/+nbm7Tb2pz8VjMDlk</div>
 لحظاتی پیش صدای دو انفجار در سیریک شنیده شد.
 احتمالا موشک شلیک کردن به سمت تنگه هرمز.
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/news_hut/70343" target="_blank">📅 23:12 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/news_hut/70343" target="_blank">📅 23:12 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70342">
@@ -366,7 +366,7 @@ https://t.me/+nbm7Tb2pz8VjMDlk</div>
 <div class="tg-text">〰️
 پلتفرم X زیر توییت رئیس پارلمان عراق با عنوانی جعلی برای خلیج فارس، یادآوری کرده که «خلیج فارس »درسته
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/news_hut/70342" target="_blank">📅 22:12 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/news_hut/70342" target="_blank">📅 22:12 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70341">
@@ -385,7 +385,7 @@ https://t.me/+nbm7Tb2pz8VjMDlk</div>
 همتی، رئیس کل بانک مرکزی، دیشب:
 هیچ‌کدوم از پول‌های بلوکه شده‌ی ایران هنوز آزاد نشده و همش شایعه‌ست.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70341" target="_blank">📅 21:35 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/70341" target="_blank">📅 21:35 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70340">
@@ -395,7 +395,7 @@ https://t.me/+nbm7Tb2pz8VjMDlk</div>
 بزرگسال‌ترین داوطلب کنکور ۱۴۰۵ با ۸۵ سال سن
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/70340" target="_blank">📅 21:01 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/70340" target="_blank">📅 21:01 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70339">
@@ -413,7 +413,7 @@ https://t.me/+nbm7Tb2pz8VjMDlk</div>
 فحش و ناسزا و تهدید و انفالو که چی ؟ حق نداری با این زامبی ها اختلاف نظر داشته باشی
 این وضعیت زامبی هاست
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/70339" target="_blank">📅 20:15 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/70339" target="_blank">📅 20:15 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70338">
@@ -447,7 +447,7 @@ https://t.me/+nbm7Tb2pz8VjMDlk</div>
 ما این رژیم را ساقط خواهیم کرد
 !
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/70338" target="_blank">📅 19:31 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/70338" target="_blank">📅 19:31 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70337">
@@ -459,7 +459,7 @@ https://t.me/+nbm7Tb2pz8VjMDlk</div>
 🎁
 برای مبالغ بالاتر از ده هزار دلار بیمه شرطبندی ۳۵٪ داره‌
 و مبالغ بالاتر از هزار دلار بیمه ۱۵٪ داره یعنی در صورت باخت مبالغ به حسابتون‌ دوباره واریز میشه.</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/70337" target="_blank">📅 19:31 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70337" target="_blank">📅 19:31 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70336">
@@ -514,7 +514,7 @@ Gift
 g29
 ✔
 https://t.me/WePariFarsi</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/70336" target="_blank">📅 19:31 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70336" target="_blank">📅 19:31 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70335">
@@ -529,7 +529,7 @@ https://t.me/WePariFarsi</div>
 <div class="tg-text">‼️
 یکی از یکی زیباتر و حرفه ای تر:)
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/news_hut/70335" target="_blank">📅 19:15 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/70335" target="_blank">📅 19:15 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70334">
@@ -546,7 +546,7 @@ https://t.me/WePariFarsi</div>
 یه پسر دانشجوی ۲۱ ساله آمریکایی به کمک هوش مصنوعی یه مدل اونلی فنز به اسم «مایا» درست کرده و تونسته تو یه ماه اخیر ازش ۴۳ هزار دلار(۸ میلیارد تومن) درآمد داشته باشه
 مایا اصلا وجود خارجی نداره این پسر از خودش فیلم و عکس میگیره و به کمک هوش مصنوعی به دخترِ لخت تبدیلش میکنه
 @News_Hut</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/70334" target="_blank">📅 18:33 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70334" target="_blank">📅 18:33 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70333">
@@ -561,7 +561,7 @@ https://t.me/WePariFarsi</div>
 <div class="tg-text">این پسر نقش ترامپو بهتر از خودش بازی میکنه
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/news_hut/70333" target="_blank">📅 18:03 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70333" target="_blank">📅 18:03 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70332">
@@ -577,7 +577,7 @@ https://t.me/WePariFarsi</div>
 صنعت خودرو یه جوری داره پیشرفت میکنه که چین عملا داره سفینه می سازه
 :
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/70332" target="_blank">📅 17:15 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/70332" target="_blank">📅 17:15 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70331">
@@ -616,7 +616,7 @@ https://t.me/WePariFarsi</div>
 حداد عادل:
 باید بگیم تنگه، تنگه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/70330" target="_blank">📅 16:05 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/news_hut/70330" target="_blank">📅 16:05 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70329">
@@ -645,7 +645,7 @@ https://t.me/WePariFarsi</div>
 یکی از مسئولین رده بالا که نمی توانم اسمش را ببرم، چون ممکن است ناراحت شود در سفر خارجی به من گفت که آمریکایی ها فکر کردند ایران هم مثل ونزوئلا یا کشورهای آمریکای لاتین یا جاهای دیگر است.
 ایشان به من گفت که شما در آینده نزدیک نقش جمهوری اسلامی را در منطقه خواهید دید، خواهیم دید که در واقع آن چیزی که آنها فکر می‌کردند نشد و یک چیز خلاف آن، عظمت ایران را خواهند دید.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/70328" target="_blank">📅 15:03 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/70328" target="_blank">📅 15:03 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70326">
@@ -662,7 +662,7 @@ https://t.me/WePariFarsi</div>
 در جریان «کنفرانس جهانی رباتیک» در پکن، بر اثر نقص فنی در کنترل‌کننده‌های از راه دور، عملکرد برخی ربات‌ها مختل شد و از کنترل خارج شدند
 😁
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/70326" target="_blank">📅 14:33 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/70326" target="_blank">📅 14:33 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70322">
@@ -691,7 +691,7 @@ https://t.me/WePariFarsi</div>
 ما تمام تحرکات شما را زیر نظر داریم. هرگونه اشتباه یا محاسبات غلطِ دیگر، پیامدهایی به‌مراتب سنگین‌تر از گذشته در پی خواهد داشت.
 پیش از آنکه دیر شود، فوراً به حضور خود در منطقه پایان دهید و نظم منطقه‌ای جدید ایران را بپذیرید.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/news_hut/70321" target="_blank">📅 13:14 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70321" target="_blank">📅 13:14 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70320">
@@ -722,7 +722,7 @@ https://t.me/WePariFarsi</div>
 ✌️
 ✔
 https://t.me/+x60dZGAgXTUxM2U0</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/news_hut/70320" target="_blank">📅 13:14 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/news_hut/70320" target="_blank">📅 13:14 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70319">
@@ -781,7 +781,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 این جنگ تموم بشه وضعیت آروم بشه خدا بخواد دلایل کاهش قدرت خرید مردم رو بررسی خواهیم کرد
 ریالی از پول های بلوکه شده آزاد نشده
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/70318" target="_blank">📅 12:35 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/70318" target="_blank">📅 12:35 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70317">
@@ -796,7 +796,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-text">‼️
 پیشبینی زنده‌یاد مانوک خدابخشیان درباره ترکیه و اردوغان:
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/70317" target="_blank">📅 12:00 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/70317" target="_blank">📅 12:00 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70316">
@@ -831,7 +831,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 شکل‌های جدیدتر و پنهانی‌تر این دارو میتونن بدون اینکه تغییری تو طعم و ظاهر نوشیدنی ایجاد کنن خورده بشن
 پس به هیچ وجه از افرادی که بهشون اعتماد کافی ندارید نوشیدنی نگیرید مخصوصا دخترا بیشتر باید مواظب باشن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/70315" target="_blank">📅 11:03 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/70315" target="_blank">📅 11:03 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70314">
@@ -846,7 +846,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-text">❌
 تمسخر صحبت های خاتمی در صداوسیما
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/70314" target="_blank">📅 10:34 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/70314" target="_blank">📅 10:34 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70313">
@@ -925,7 +925,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 یافت.
 از توجه شما به این موضوع سپاسگزارم. رئیس‌جمهور دونالد جی. ترامپ.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/70308" target="_blank">📅 08:32 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/70308" target="_blank">📅 08:32 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70307">
@@ -940,7 +940,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 برای دنبال‌کردن تحلیل‌های روزانه فوتبال عضو شو:
 🔗
 https://t.me/+nbm7Tb2pz8VjMDlk</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/70307" target="_blank">📅 02:12 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/70307" target="_blank">📅 02:12 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70306">
@@ -963,7 +963,7 @@ https://t.me/+nbm7Tb2pz8VjMDlk</div>
 برای دنبال‌کردن تحلیل‌های روزانه فوتبال عضو شو:
 🔗
 https://t.me/+nbm7Tb2pz8VjMDlk</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/70306" target="_blank">📅 02:12 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/70306" target="_blank">📅 02:12 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70302">
@@ -1220,7 +1220,7 @@ https://t.me/+nbm7Tb2pz8VjMDlk</div>
 🎁
 برای مبالغ بالا ۱۰۰۰۰ دلار بیمه شرطبندی ۳۵٪ داره‌
 و مبالغ ۱۰۰۰ دلار بیمه ۱۵٪ داره یعنی در صورت باخت مبالغ به حسابتون‌ دوباره واریز میشه.</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/news_hut/70285" target="_blank">📅 18:30 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/70285" target="_blank">📅 18:30 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70284">
@@ -1276,7 +1276,7 @@ Gift
 g28
 ✔
 https://t.me/WePariFarsi</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/news_hut/70284" target="_blank">📅 18:30 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/news_hut/70284" target="_blank">📅 18:30 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70283">
@@ -1387,7 +1387,7 @@ https://t.me/WePariFarsi</div>
 تو 32 سال گذشته کار من فقط مبارزه با ارازل و اوباش بوده و غیر ازاین نبوده.
 تو فضای مجازی اومدن با استفاده از هوش مصنوعی یه کلیپ از من ساختن که توش با مردم درگیر هستم؛ در حالی که اون کلیپ اصلاً مربوط به من نیست و سر من رو با سر یه شخص دیگه جابه‌جا کردن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/70275" target="_blank">📅 14:32 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/70275" target="_blank">📅 14:32 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70271">
@@ -1636,7 +1636,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 دیشب میدان شهرداری گرگان در آتش سوخت و صدها نفر کسب و کارشون آتیش گرفت و نابود شد!
 حالا دلیل اینکه آتش نشانی دیر رسید به محل چی بود؟ بخاطر موکب‌ها و تجمعات شبانه تو ترافیک گیر کردن!
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/70256" target="_blank">📅 09:02 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/70256" target="_blank">📅 09:02 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70255">
@@ -1655,10 +1655,10 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/316f36114d.mp4?token=sdIkKBuWmTWlG0QcUbDkRKPYssWiJ1BCFzmwI8DkG1uuQ31VabmwtKNfsQHGS-SeymcXVj4erM5lJjxWI0YOQVjyJoijmFinNCw9nnTHg-W12oWu71m57pucXW2uvN1Q_zpP9aNKpKkU7h0qQtpZdNeLo-s61Ig0ZYVfy9Qzl7LCoIUC-iACJPkLNQYw2JED7YqlLIscVlwDo8g0lzYHM-6y4u3lD66GQxUOrzN03qh9SiqoqWGqclz8quJfnPrlC2nd-eLSJ7RImZRf8Jn8MW1E3IDBlxrefHRjxo3wfhlfKTmFiP6SQxyxF6JtZgTwWk9_QNtKNhlBiCp9x1CDrg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/316f36114d.mp4?token=M4q7UJO1--PciM0zjOZNv6PMII8ZI62naMckYkoK6vQtQrqf4C94SvgTI3DA6cQIEWVvRlHG5qNz_NalbC-IdGkNukeXpxcRIrPXHQLBWlipUB4hGKUTtS3adGyPkIOILWoR9AOZ1Q1EQBqCHl3_Z0o4Apvr6Npt5BO2tUSSUIvH2HiXJnbbGNsXGC9ikUuhpHF2rNL0XniWG7HRknbAAm1MbnbV0Am08tp0NDlVHhYjPdXsWsefB_NQvShuYQR7vQLurwNZlFJbYAdih6fIZscQ3vOqwa3gjMHdzXviVkRLtf-V20Xgkhxwa6Ba5f0nWArWMTvXb3307RyYKpvWmg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/316f36114d.mp4?token=sdIkKBuWmTWlG0QcUbDkRKPYssWiJ1BCFzmwI8DkG1uuQ31VabmwtKNfsQHGS-SeymcXVj4erM5lJjxWI0YOQVjyJoijmFinNCw9nnTHg-W12oWu71m57pucXW2uvN1Q_zpP9aNKpKkU7h0qQtpZdNeLo-s61Ig0ZYVfy9Qzl7LCoIUC-iACJPkLNQYw2JED7YqlLIscVlwDo8g0lzYHM-6y4u3lD66GQxUOrzN03qh9SiqoqWGqclz8quJfnPrlC2nd-eLSJ7RImZRf8Jn8MW1E3IDBlxrefHRjxo3wfhlfKTmFiP6SQxyxF6JtZgTwWk9_QNtKNhlBiCp9x1CDrg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/316f36114d.mp4?token=M4q7UJO1--PciM0zjOZNv6PMII8ZI62naMckYkoK6vQtQrqf4C94SvgTI3DA6cQIEWVvRlHG5qNz_NalbC-IdGkNukeXpxcRIrPXHQLBWlipUB4hGKUTtS3adGyPkIOILWoR9AOZ1Q1EQBqCHl3_Z0o4Apvr6Npt5BO2tUSSUIvH2HiXJnbbGNsXGC9ikUuhpHF2rNL0XniWG7HRknbAAm1MbnbV0Am08tp0NDlVHhYjPdXsWsefB_NQvShuYQR7vQLurwNZlFJbYAdih6fIZscQ3vOqwa3gjMHdzXviVkRLtf-V20Xgkhxwa6Ba5f0nWArWMTvXb3307RyYKpvWmg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">⚽️
 فوتبال فقط ۹۰ دقیقه دویدن توی زمین نیست!
@@ -1987,7 +1987,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 معاون وزیرخارجه جمهوری اسلامی:
 همانطور که ترامپ نام خلیج همیشگی فارس را به صورت صحیح نوشت، به زودی توهمش درخصوص تنگه هرمز یا اصلاح می شود یا توهمات این متوهم را اصلاح خواهیم کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/news_hut/70232" target="_blank">📅 15:25 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/70232" target="_blank">📅 15:25 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70231">
