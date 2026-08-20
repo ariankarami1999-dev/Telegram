@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 14:48:29</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 15:19:37</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -305,7 +305,7 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مد�
 
 <div class="tg-post" id="msg-951">
 <div class="tg-post-header">📌 پیام #99</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RWvN_cvhZ7XuxIX9laIyewTOUNYI3xWiN5PhGQ5J_0HfZnCz1SYN12ABc1JYI_tByzAXy_1SKpD5AhkEkcWqXdiC5eZ2o5d0LUslhii0x75TUEGGUUVGfi8LTX4c_18IykfnNvna6ZqW-DEzxl-VXNzfPe3CQ_2swtod9AqIp7UtDBaz6RxMCOWPcFrG7vWYrC6HbTMrNe5ovu26HBuPgAHc4m043V1hdFWNB0ciws5pRECRAwaE3QQEsk7xyeGecwY-QsUmAaRA5m251l050RzTsq2d6I8DN1mLpoxFEOgGkzwltGroYXDSi1gYU8P7nsqRXqDpSCZajrTe_4XE8A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/I6wPzzxTNV2jSEZStkWsjTI6GlmdJt8bZpLzyxcGs-zWxoQ24pE5sdr-tw52cq0gnfNHpbROVKSetBEEHvnUEEhctuTknFZb3elYqqVr4wjz1kcfUMG6XGnOeKNvDThg_DO7cOieXntQSaefV1mmXOwIF65BBsCUBFtTbVjEaCSZAxp-HYoH4Q9Q_PZbre0PKPj-oxXdPFAs0Ne2rKiOm0s4r48tJ4khmQ4U_ivDy8pLZ3VXYbgwTv81IBcg8ENsrJXY2lr-7zlJu724S0CxHhNV7WWR96GiFQKl2IXCm_kJZG1cSSji78RPmJLfAKQuGf7RlX3BnDuaTwXcMgMf7g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
@@ -930,7 +930,7 @@ NotebookLM
 رسانه ها برای اینکه تاثیر منفی کمتری با فروش بک لینک های سایدبار یا سایت‌واید روی سایت خودشون داشته باشند از این روش استفاده میکنند.
 اسم رسانه خاصی رو نمیبرم، اما در خرید این مدل بک لینک ها حتما دقت کنید، بابت هزینه ای که می‌کنید ضرر نکنید.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 941 · <a href="https://t.me/danialtaherifar/895" target="_blank">📅 10:52 · 31 Tir 1404</a></div>
+<div class="tg-footer">👁️ 942 · <a href="https://t.me/danialtaherifar/895" target="_blank">📅 10:52 · 31 Tir 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
