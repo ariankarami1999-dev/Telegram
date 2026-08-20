@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 14:25:15</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 14:48:29</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -336,7 +336,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -419,7 +419,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -924,7 +924,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/ircfspace/2522" target="_blank">📅 18:13 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/ircfspace/2522" target="_blank">📅 18:13 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2521">
@@ -1004,7 +1004,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 
 <div class="tg-post" id="msg-2517">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ClVJV734VrcGlpHA4Kp0a70vNCfTz5nG107tS_jv9REVp5WfEELB379x-XzlWbpZSWBO3Kcmv6BxX1OeWs-nfg2hd_MRF79esAKJtmji0K702RxBn3ADRX5dxZrhTZUZVLDcWXleUvFF5ICQT7NgCzKrQYjuTk7AHgVRh-fIAQ5wgRF2Sl1a9DQQwPkkj8_238fdy1bxKZGujP9bev6wsFylgrN_8BeDZ0jbeP5Jy0pjrr2dKGe39ICNTXsNAf6q9gaGxjqLHAnWQJ4Ub7hRPyNV6w6vheB1_iSvHs0Zvol1kHqGPjfVGktsQznxNR-NtBLGA9sb9m45t4L8CDS45Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Yx7gkCuoLwrI-vq6AQ_-xUnc3Wy-O8NgtW5qlx7PDripnSXA6s_oQfx3tYdqCf0Fbgl_qVFi4tutXeX4VhBYt3dePMEacy2EHtGcgqrRP5I2JFOopBT4NZzsdbI8YLTkgiv-IRFI3u2w7Bw7AWu9qb4X7yt6pcBuyQJCSrWaqEE1b65GRf8PJkSVYS4Hh_YFTZ5qmMWY-GmvxSRVrVRIRC8IGdSR0OOYJdva-JNuLWrdQ72WmQtJTjYXlYSTnquW1v_7Hn3QVDgLQjgakRB4SfZlnAtpoJHXDHiqBtw5w3ZS4v2JzRwyf4gKtAf19h2Q6ulV-vb_5m96NGQZmtkgqw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر شیرین‌سخن قطع‌ارتباطات گفته "سایت‌های ارتباطی در خاموشی‌های بیشتر از ۲ ساعت قطع میشن و راهی برای تامین انرژیشون نداریم".
 یعنی از هر زاویه به این مرد و عملکرد درخشانش نگاه می‌کنیم، حل مشکلات و امیدواری به آینده فوران میزنه!
 🤡
