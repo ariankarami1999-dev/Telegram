@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 11:32:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 12:33:18</div>
 <hr>
 
 <div class="tg-post" id="msg-2902">
@@ -328,7 +328,7 @@ check-host.net
 📉
 کد تخفیف دائمی به مدت محدود:
 AKO58</div>
-<div class="tg-footer">👁️ 4.22K · <a href="https://t.me/iaghapour/2902" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/iaghapour/2902" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2901">
@@ -357,7 +357,7 @@ AKO58</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.07K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.16K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2900">
@@ -392,7 +392,7 @@ me.
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.2K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.26K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2899">
@@ -431,7 +431,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.3K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.35K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2898">
@@ -467,14 +467,14 @@ YouTube</div>
 ❤️
 کانال رضایت
 @AIPrime_Csat</div>
-<div class="tg-footer">👁️ 8.96K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.98K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2897">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vo01XtAG_wNlDunClmJho89nwDf8VNfPdROOU2ocxSbgiK8yUxgRHcAqref-m7KizlPPyUE4MWk0mtbvQG2V8AQDkuNTtrsSB1p7XmTuz1XJinESQ6qEbhe4n3uJDjE9F65PGiQ7_3ZcdRAZaCPqojojByyFEYLz_reSDvR1jnlguHzwCVQPRDHP2kL_QfXODd3fB_40lBVcSvlogutpFCs5r2Cz-UJwDKoKGCfHqMDIi7MgJwqmScH7mgEHpCxi4pPyeBmGAVaRKphsytXk5fbf6PwTPclHsy7N2AtradkCcW5W7hzrpxVMRC0tbxJDByMSsgxnktiHfzAiVDE7gQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کدنویسی در سال ۲۰۲۶ :)</div>
-<div class="tg-footer">👁️ 9.07K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.09K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2895">
@@ -496,7 +496,7 @@ YouTube</div>
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 8.71K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.73K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
@@ -648,7 +648,7 @@ Phia
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/iaghapour/2887" target="_blank">📅 17:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/iaghapour/2887" target="_blank">📅 17:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2885">
@@ -742,7 +742,7 @@ Smart Support Bot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2882">
@@ -1207,7 +1207,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2858">
 <div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uIu5yaaP0px9OHM2QwEPFdMENzhJM5rZqTq27SoLQM_l3OEBWX-4Syg1fENljiojA7o-Wc0gpUwlVJMCfZ5kdrPYIzUPOUpus5w6bZ4iG-IK4kjDuQ-J3jl9z31WpxQ0_cab2PpqTlAjPeqRPM5AVMoBUCQZwPgASp5CzDABdMPwlp3LxYX3JYFU-5TB7V0IOxGw-ioxfkaXd39tnvAbhKrGVcEKYeTsKXCaz2jp_xY3EYACUdOf9luw_86kOs__jRqQTwwaAKBTsvEE9ZYXMBxmopu0HQ4jzO8T4z4FdHKwHCT-Ds780pRhqiNv_Yo5EFWKSo08WPNuXJ8qFykCQw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/C71aQKz7_FEsV8s-bajQWddy_iwMDNuyfMVhyOs3XCNcayARYOoAJyuEe8SUUnoZTT3FzZ0KFdh9MLBMjdldYQ4qgxkMNRhp30Cpm7OFVDyBiRwqW2KyszwBR6bYSHFq_f9LPT3FuAzvX-145DLjm7JdEXsV9lZe3Hf81LmCFZvDMpqqSUReM0opr1CjdlNpSKMVhDmIvaNyDqgPrpivNfFbBPNmj4Qm1RbdyRTSR6w8LGpYG5ZVeG3a-aYK5qkJlxlseO9dhsdywVwGfhH1NAQt8eTG4ziPR3MPRWlXZQc0bYSRDG4yU2E8xoPsr3U8zckN_jSvpGdt72FpvHxXIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 کمپانی OpenAI ابزار ChatGPT Translate را راه اندازی کرد
 شرکت OpenAI سرویس ترجمه اختصاصی خود را در آدرس به‌صورت رایگان و بدون نیاز به ورود به حساب کاربری در دسترس قرار داده است.
@@ -1257,7 +1257,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2854">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/O-JB-dzmDjPGPLgYcLlElnJL1CWW4a6VOX18qimPP5RXwSqMAtsG0eLXAtNWoPKQIqF94SPbI_OTXzjOOoXG1fdN4dgfAZLxOUtEiYAnWEG4RZP7e9TTajBtpbUka7zSA7OvtZH1pPRqCHF1migBDGysN81eCRmEvvlnJQcNXEOleubSI9v3ZYOLZcRVOQAbogEkVVlX3x2nUL5WL95N63Aa50V2GltqBD1RbPOe-N7GUBnnyXPNeTMVFs_iZStnF38mOn35tvUlTlaDpZvk6boWxWrw2vsKT17u1VzKgBi4EEXLLD01ySMltYReSJvyCzCa8DxLLrBHhbToCpMU4w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cX189t1cQPit9V00IdYL22W5NEHfzywmWTpmiy4FNmqqBDq5mQav0mPv6SuTxWONKXHAnix26IYEPKOP_3ZI3YnUAbtvRGA8CLeFih4izkvGQ6On25VIT2IS3yz0mCd5WH3i0_FCwCwfPx2SHaXbTDZxkgy4SrvuhacXdUDMAM5avNBX4pEozta3mtCCDR4qOhofR3iKIxh9pUoPaGOgLkcfp2qc8M4gjBDPW0rC4D8fOM32krIEfMg8mECdjD6y2b37b4qYbQPu4jN2aIVzrxUa7mQpucU5d86Q66GHOVBSQpl2J4j7rhpUuLQW2s6jyfi3imwu-BSSgHKhJq4hQw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>
@@ -1362,7 +1362,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2848">
 <div class="tg-post-header">📌 پیام #61</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fEF3UNGPMv5AywKteGo8K6hurRmR_WQFlHIk0e6nUWWdT95daCSlLuM7D0kypzqRjhehNR_zmzqpGm7Zuf9QkpFpnsRMk7RMvqogUcIVlQXAV5eKzu-MojNFXnG-kgwuVIzYo-sBQPrOOMU5lxbcSgMToXfCloKIJ-qHjO7YVCl2aNiGrgGbWbY72uU08BetckybSn2C9iuaxjQvahAf4NuZ1Nk2cAWvSYiIUJgbEniOMD16_uD5cEFwZQM-MvW0YYQyJdV2kNYwsTjLWYK1tZLhFvv0aXlMHoVkel0dykregr7ifYi_blncyWld3I80pOBtx707Wn1rituUamYRrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KB7M8JAtUGGw3_eJnTo9SfF4kcwEWLoEFeMERMRz0DGZVsHZWB9dQOEQFL4xxwGcuyWcBGUXHrVdk3_Rnys0jCuHNaQffxSwD_6U9june-TPprR9LyUg8zb0yFjKIQJ6EXpbtjx8SYVJz5Xo8tM9wa0XYtkLjGRDnBLcqrb3Xy5fKMiTpzchD9Aq3MvLUALWjjabzNLooQjB89mRXAUr7TYS_4AnD5y51arO94B8gz8hChjbTUYleAMEl98kG85vDgoHyM4I97VNuAxaI3JMP2cV2BV_V1QSLEEpBSE6OyVEVyLgHJSD_TXS4m_LJmowHDclUmB9--H3DJyf4iWpyA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎮
 خرید تاریخی ۵۵ میلیارد دلاری؛ الکترونیک آرتز (EA) به دست عربستان افتاد!
 ناشر بزرگ بازی‌های ویدیویی،
@@ -2012,7 +2012,7 @@ Claude Opus 5
 
 <div class="tg-post" id="msg-2807">
 <div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/iaghapour/2807" target="_blank">📅 18:07 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/iaghapour/2807" target="_blank">📅 18:07 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2806">
