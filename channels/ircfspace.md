@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 12:33:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 13:27:21</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -321,7 +321,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -336,7 +336,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -355,7 +355,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -374,7 +374,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -404,7 +404,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -474,7 +474,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2549">
@@ -599,7 +599,7 @@ manageit
 
 <div class="tg-post" id="msg-2541">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/I1YHUxdwUbJnyoEaLT47dVvlvTDPDgCapj4aCm0dWZYzwGQTJRmH5O-fQ74EOjIIaKkzoDh5WEyvs6si6rq6MwwtfJu8e_z2iJnpJF_2pb-mdq3thLjJAwam6CrFyDLVbALCJ8yEs6R_n8ZACXjCtMWuk-YBCoekp-vsfaw-d2PCvD2xLxL9paNg0LN7GT7liprAGQTEUv1y5Us6WWP11B48t4_lR456KYvJk3dqeMFVp2eA70z0ocrMMKmAbQgI_dAc9FYzB0dyKQeaLnsIx8vnB-FKsQJsTPrDUZlRqBrkKqnlWOrsa93usIhrJslFMjVc2MF9x27B__aznEf8IQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JFVY46F2j6uzMqIjFulYFMUA0gZyNomiJfg8KqqkmmDmzY8oVjg7YJliS4q5Q1lCDttRKfTB9IL3XT9b84omm-A2Ge8WZBg_Y_HZlgKCGYRbep-PICrPaw5CqhGYBWoLzHmfWtlR_QrQ5Uky9QWRnP4xb0pJw6PMvwic5IfeLX8-lkI8tdWHDddPm5ObeQOVd2SACT-FKxaDO5P97-jSKOnWZK-PejtxBVrX01QQD5dF3KesqeSzRujRRGjQa6-UBZDQdkWoXwMflmEd61ePrTOl5Ohj3bO06QVqpZ2E-GcztIbNighw6zoXOfC7GJW2ebUfnCQT3HtMIwaW6lIyLg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باورم نمیشد که بعد از ۸۸ روز قطع سراسری اینترنت به جای اینکه بیرون بندازنشون، به نمایندگان حکومت تریبون دادن که در اجلاس جهانی اینترنت سخنرانی کنن؛ بعد دیدم این اجلاس در چین برگزار شده!
 روابط عمومی وزارت قطع‌ارتباطات گفته نمایندگان جمهوری اسلامی در پنل‌های تخصصی اجلاس جهانی اینترنت که دیروز برگزار شد، مجموعه‌ای از پیشنهادهای راهبردی برای توسعه همکاری‌های جهانی در حوزه‌های اقتصاد دیجیتال، هوش مصنوعی، امنیت سایبری، خدمات ابری و تاب‌آوری زیرساخت‌های ارتباطی ارائه کردن.
 🔗
@@ -629,7 +629,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2539">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vPVK4t8O7KBBisH-ZKRjud2AbxlUJzS1CUO9ZVsm2zYY-jo5FXHDrKFREc5PCSCi3yEUQEgwTDR8dIJmV9jD5KTGuoFMABi7Zwzma4JFD2KOIMWPSqfhBRkMOmL020D2GmC5_U4HkA_sV8A4-wFLslQSdQlwJpkzASokuPAhjEvgHK4eZu2chri0n679A6m9T8FlKc2JEUbuhkxJ3WzBqRQWhmw5ev21DuhjtOEyF2SX2G3CXH_wtroUXPvWUUNk-TnTpDhSE_OtZ9lOAwH2dHLdZVibHrvWxAu6usabiIYiv3Nn2suyN4pdKis59gNw_v3ekpLiJrScIy6SdEHbcg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qQZDBCi4MUWW19Fj9WadUp8iCwAcIsR1h3e8X9CuaeAuf1HHylhr6IaB_Y24C4b8J0RopxLYKkzCjtPEI4NVlFKRkDH6mjeS-kjtiGS_AeYUcYptmgMsGX2G-3ZGP9QSRLbYNWTLY7oMDP8bCjFQw6RbdgCDsWi9gVhzRDu9xcUTL7WfUFubsKfOoJ34vw3jYLSBkFTkNhwfmXSgkhEcGeWTnFtXbcP29I3GeTBD5je0ESiVAfhWOngvhit3vqMisJ0eFNjXgxtDV2J-8QMPPXNYnAo79GsXIoLFcuTHthMKGNnnQJXZapbNoSHGAe8KbfJUGvI1mI9XW3sATrArhQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جدیدترین داده‌های مرکز آمار ایران نشون میده در بهار امسال ۶۳۰ هزار شغل صنعتی از بین رفته و سهم صنعت از اشتغال به ۳۱ درصد کاهش پیدا کرده.
 حالا این آمار رسمی مربوط به مشاغل صنعتیه، ولی فکر می‌کنین آمار خسارتی که بعد از قطع ۸۸ روزه اینترنت به درآمد و مشاغل اینترنتی وارد شد چقدر بوده؟
 🔗
@@ -644,7 +644,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2538">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/m_DUxpNvvNJSxms-UZBUnNzLDAgSzy1IHg6B6qeu8Qwi9YfOAU8XSC8ZKBnRKbLmN-zbyA2y-O2rDoZ0H7ugpM8JxTQTRFiQc-tE37qnnc8a38S-in2AJkf4MfhPNHocRdU1-7VnKj28cb-YEcrIdwTNCCOhC5iFHEoRyW9N2BS1H_126sP3gMRzabBPP0VCmp5oMhxABVClPXEID55CZfCA1bnn3ZJfAKus2BVmpRRlhiCMgmM8qdKbXFUpW_ClntwW4JSz0dRJqj3JNW1jBj2KYO9f5nVrgiPHVtqsZ-fnOfXUuq40RGRKucK2JWP_gLZkuYHvlduxkjzwsrM5iA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/pH_Lgs7q-XR08Dfvw9bA3eu60p0YPFcbDC43e8ZmKKXnEz3vXk2GGL_pa89qyS0NJVyo6hv4h0-f2GZxsuKujN54tNfudRE0AqXcH0fPU105ekixwdyma2fyPHgDtYHqDgSO0bN6HShFGNcG-wy23PuPocF1pVxRPI2dmT2u6sOL8UeVXVhzUfy-47QfTsrcW4vJW-h5jY_QPQAdv1vlTahvmcDYemLi1efkcdrGaBGPdBo2_fLvpMFXUcHDk-ea3sOf8gNph8QBPpcvnDHaK-thKHO8Pp9tx6ZyXp9y2wp5GvZR5JglEiCrRgQkXG5ZLBrPiEoxKynwPYFGJCOpCA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چه کسی و با چه مجوزی تصمیم گرفت ضریب بسته‌های اینترنت بین‌الملل رو بدون اطلاع‌رسانی تغییر بده؟
 قبلاً ۵ گیگ اینترنت میخریدیم = ۱۰ گیگ داخلی بود! و فقط پول ۵ گیگ رو میدادیم. الان پول ۱۰ گیگ رو می‌گیرن!!! فقط نصف اینترنت بین‌الملل میتونی استفاده کنی! بی سر و صدا دزدی میکنن با عوض کردن مدل درامدی!
 غرامت قطعی‌های ماه‌ها اینترنت هم هنوز پرداخت نشده. این دزدی سازمان‌یافته‌ست که با حمایت وزارت پست و تلگراف اجرایی شده !
@@ -832,7 +832,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2527">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tGhKwrNfgXxepiu6prcK33sumDF0T__FoCSqlwIuYKaa0Kjc-tS_5Wmsyde0_iR49k0CBCSS_WQXcCcyOC-xuXyDJ2jySCprihqqQVNLoI8GdSTXgqZ9tI-40WdOz4NCngOOkoVtIWXRIT7ciEgT9_tLy0Xpfl6mnU2oXd8omXST_2dy_cZA0Yj0uK2E6_D30Vny-lqGbJur0IDY-QQuCsO075pnZJ3V-J89R2ACTIpmjmWU1EuVpitmjdZb5UiWX_Uoweq7qgJ9Z5nAt6MyYk-R6x1vLHk1twPh5zsp0mmvosiDgRlpvsULq_r_u-h92R0GBtwywb5_WSa48RhPhQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EKOW6lja1fUlDW-KqXoba5pgmvsTxfAH0oyx8FgZGiepk5eVRGetmbBq9eEGyWyPrJNvB3jI1-2wOm4tg0ZxsDdt6eCJCmwkp0z5UR-GXpo3KS2E85mS1oF2OJY0zcfFkqOFCMYz7_8P211DFQ61Cv5JhNab87sQtCkrG8iE7JexAnW0LMvTZ6NRgKXpfZLA9QtVHE6k_t6Sre3qEBWxOrk0DSajBVFUr3mVsVghRoESFf37-iyjNn4ugYaJxc82zBHObkzv_SW690ayEZ4oVgQEgjmjxiW_DXpu14AqO9F6Tb-5uc8uKWhfRZ3l5WXk92IrKnfNKrZXRy683OqzUA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه جدید از فیلترشکن بگذر برای اندروید در گوگل‌پلی قرار گرفت. همینطور می‌تونین نسخه ویندوز اون رو از صفحه گیت‌هاب و نسخه آیفون رو از تست‌فلایت دریافت کنین.
 در این‌آپدیت هسته ایکس‌ری به جدیدترین نسخه بروزرسانی شده و روی افزایش پایداری اتصال، بهبود عملکرد کلی و افزایش سرعت برنامه کار کردن.
 👉
@@ -1142,7 +1142,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 
 <div class="tg-post" id="msg-2508">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cb8vh2fcStNcNy2qQmTvo3KRGAW6uwyK_GmrZhbZT8P9L3DoNp3UzxrcVThjUploTw02IbpVNwSlpPSYI6hrwk8naVXSv3kfcip_xeXnA8QFk2Mv7WYKu1E2W8wGYTzPARahNzoRsrJDqNne_RczFftB7gxtpp69jKotkYJ0X7KMX4gbcqeSasohBuz7KjKNyzw4Mm2wcHFeoCrLqNGFVq03nHBpFpXvaIBNchuwC9v5WOwgJGJ7WLyW1TqvqciUjuPqdTvOcQNsJGTDJKFN7GDljJJ_0XtY_rvzBZiNfhCl2yroAQfMdnp3-CWVJIeiT2ug_DoDGpgVzj6bZHxrrg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/a64ntH_CA1m1LCzEDoDQoHKXAwgekibPASzZxoHejAaU3SzkxIa7PqnEhIwfJqag9pqDpl8X13cAyhIPIvmukIdqw1eeIN7bWbR2HRO0TIg2Pe7Q2INXDol9SXzhNOX0Ljp06ZfRa99LFEbkilNjZ7GAq7NdII6DYho6DMoxDWcbUxJtyTmyNkmaTsvhmWRMgK3f-BKtlBLLWxcRBYkgGLT0YSxpaXRjN323xaAJpZQCp8466GuZwa_EHVdgb5A4CwPBrjqR6yPqjfriGJsnk9oi4Wj45gWBvAqGzHOjiA9cFvRSjpJD99VNA5aMbcc5Kf11sLil7FdzQTGsEJq9eQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فیلترشکن Aethery برای اندروید یکساعت قبل به ورژن جدید از هسته Aether بروزرسانی کرده. اپ Aether-GUI برای ویندوز هم کمی عقب‌تره و ۳ روز قبل بروزرسانی کردنش؛ البته احتمالا بزودی براش آپدیت جدیدی ارائه میدن.
 👉
 github.com/ZethRise/Aethery/releases

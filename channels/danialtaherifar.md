@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 12:33:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 13:27:21</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -300,7 +300,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d0aH2xmHR5hzA3pPW1p_j1WqhfeUZsaluPaW-I_qixb-KfrbVEZrBB9D0azZJB1iZKxgwBRiE5TZwFiZV6D7rT1vy2uj6ZqmBDEEKmJNFfpAINjB8yLBXHPKqIWcQRPqd-EI1RRHzXVDmUQL44Dse6p7dhR0Yui_pHXMqE-b5OpyXV9XSXOm5e2UolXf6UHJGP0cftaQcL9GqpluzgW8j7AvMxG8zcY9enIuAQJaL0lcORkbrQfQ5oswwn8OlEIAr3tly_fjnnuYzGrI4OgNM9rEHtmii7uT8c_gPoss_edFaHDESGGwG_ZeRwCNoDrs2JgVD4Ha_nsUnpD6OtJmjA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده    @danialtaherifar</div>
-<div class="tg-footer">👁️ 263 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 264 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -311,7 +311,7 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 325 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 326 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
@@ -1511,7 +1511,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-867">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YzjWT9eCeMY8pwjIv1bcf-Yu1gCyU5829V_iX4Q6aZxekuVg8iJF8boE8VfJhWnE0xoN4w5wkNn-Y4wTMPw05cjATxxrQLOnchMBOlBf87GBFk4ljMGFuoXyp59p3WrHhphk8NXcIe71lemoSvU303U0CUG6FDx-0dob3EraDeVPU5WMFBJmPE3cyxS-w6t7l92xwFyC9IEFgjTe_5il7qsop6EBXAa7ORrqZhPqjR2eK5oO7z1vMRqfYLzaadDJ_iw7zi2KrWHZoyaQZXOij-bam5zzWPXhXGlz8bh9UIeGxEMYcFLSF95vQiprBugrWN1LeXKh2a9n1uP1jKrtYw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VhKQn2mmmWS_nD5xUu8HHSCo715T_BL5emL4gggmhcF5jAKg4yyXCfm8npEpEI9femAPNu35YEbMVZzc3J5wZlIr44BhL3tFElYQZWK2FxAPEb_nnJSzrabCGHcJvqIoQlkPLcXcakK7wW4yRDyxhIncYC_VkG69-B41YEgV_kF_zBidIC9B2x5t70h_aGuMBKybRA1XJe51MbaJB_QxTjsUr9kk5XOjbM6FS_p7SN_soOyrE1lqTEsrSXcBpsTKxkL2ScQPMOs8m5Op_w4HEIWQPKAhHtPIb6x4s7YC5EBZ-nND5ETRy7JpoxKFIwQNe_dUZxxR-VkedUSoyKHsaw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل مستندات Google-Extended را آپدیت کرد: کنترل بیشتر روی داده‌های آموزش AI!
 🌐
