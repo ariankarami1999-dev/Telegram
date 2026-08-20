@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 13:27:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 13:56:18</div>
 <hr>
 
 <div class="tg-post" id="msg-2902">
@@ -328,7 +328,7 @@ check-host.net
 📉
 کد تخفیف دائمی به مدت محدود:
 AKO58</div>
-<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/iaghapour/2902" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/iaghapour/2902" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2901">
@@ -357,7 +357,7 @@ AKO58</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.24K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.27K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2900">
@@ -392,7 +392,7 @@ me.
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.33K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.35K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2899">
@@ -431,7 +431,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.4K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.42K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2898">
@@ -496,7 +496,7 @@ YouTube</div>
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 8.75K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
@@ -1479,7 +1479,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2842">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fopwqY8dhxI8JTxnj-RXyJIitjSCazMs1cwOelLKHyRkc3qSJU6N9Jx8AyiSoY_4BAsS5vaH3Ryc0gk_YI5Zowzbbnxm8IEzpNLqEredYFx3bpXLkBjHwQewTghgFce1ARfewto_z-3vwuSv3L7TV9o_wCqYD1QD80H809b8uj_t0yEs5IJhrbZQX_VzI-3FWB_uP8B4kmiiyjjytDYIGGfVzGf-0Prmok32KnBml9_GpZ2qqedA411VjZCpAxiCyZVKN6j_9_PEtp7Xw3kq7jyG6UticGoC_IpreVKUdgR01rFypMIRdl-KK7U0XMlBHNaM24peyeXj-SKMvHR0zw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rWan6a3b61lvyGEoNt5EKbW7q3rdO_fFXU09fJZK8m2Ir2ooreb5aCslJxMzP2DUss4ViCtuiUtO3zeeMq0KoEEPONpmsEhF3S475d88vKCFuGSByRYoSy0nyvdVr80NU35F2C3PmhBr-T4IOMwLZ9WnVUmLxzMCWgoXi2b9clhCK9WGQKgsh4sFYTd5lo5rzLsr5yzerriT7lqyWVeCqoZR0k-dgqsnkfTVZxsNlKvQlo1gFcnarMSqEndjWSLYxxMVDFXcNzohXZn5zASUfuq4yWQLUHLg5IiYy9j_hZEMtIkyse6-__SmgrQPAru0ETJ3lE6sONrxJ1Pq5KCAkg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 دو ابزار برای مدیریت پروکسی‌های Psiphon و Tor روی سرور لینوکس
 این دو اسکریپت ترمینالی، راهکاری عالی برای کسانی هستند که می‌خواهند چندین لوکیشن مختلف را به‌طور هم‌زمان و یکپارچه روی یک سرور مدیریت کنند:
@@ -1538,7 +1538,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2838">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/W61MLQOOqxC9DIr-fM2XuApHtWFVkQQxSEJBkplb8bpadybtbGeFZofW-Q6PZhOnA22Sp82UcrS67MHLrczCIH8-mnPm_9gPDTMoZIJA2SmPqR81Xtn7KICNh7LT4Xun4ByhlKH9vSPVPqR66VUziMEhKe2-PMJSMYGTVocYmi7wK3SZNVUNW1ZNvfvrEx74UfB5XKYL7DHrdrB7HJVvEdP_Rk0Qhi2jk_fTdCb1_Wx6KDt2vjyqdiQrEnx3BhAyjQbjfH-j5D-MaowjmuX-ht_YMp82T-4z8l1_jbmRLmySAt0i7aFdF0677VV0wfrH9oaYkYNZn1Lt5yfOa5-knA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Em8szSsqM9lZbd4zokFa1d6HQ3dHaUXtwAUV6L8Pj1Amx-F2IahtOKMikfnbrXjC6UdDXTtczQvaDtJZztCx6fJP4Z98YAYUsxM7MIkcnfmGc9dJvpnZ5rdm0IFrOn18lwg-TF1ISsAX2eqV7zX5s_s1sOp7XKhyCJDQJ-nc-uABAEAPT1CR34Rnmk6FDqFBT32Gh698K38FIJRk16CZGBZE1617U5a0Ds365JNLqETcxTeulxBEAU04FXcuD5nknRQP0lm52c6HzIdMlZPCskXyto0umewqEWsDgj75nTT4lZ6rIFmJAq-HYXUwMJ7DkZws-qGhbXwT4I8d9KS_hQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی کلاینت جدید Disruptor Proxy بر پایه Xray
 یک کلاینت پروکسی جدید و بسیار سبک است که برای سیستم‌عامل‌های مختلف توسعه یافته، اما
@@ -1763,7 +1763,7 @@ KelpDAO
 
 <div class="tg-post" id="msg-2825">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pP87SPNz0LQjT-e9k662USnfVBmnDTg3gLXrnyS3oY_4_3qw1FHmJrZ0KF0G__fwzvj2kajaK-WlMMZw34PzfZ648fkwuiavusFfHM0yzf2oOFL2uaN3vP2giXKYL_QdAfyeDCsAvGr2xwjRz2XO5wyMteW72iqymiHoaaCgKhzACWiq5qsVO9nsyB1BRcKgYY2duXLKkWUBLIHZP38dau_KLHbTWVStztCrQ-C9_-Xb9t3o_blLdrs2lDye3kmqRrP9uVxOVeSJzM0m04Jqj5TUAxJWLUyw8Ga6X8KRA9PxPddajhUEIhLricYnduQq8uNF3dOITRDSjFF9bhil0w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jkvE_QwqIQ4_LHoT7X6uGnpV85oO7VaGUTuXCWg717embnhz1nvNIyQ_jJkHNWbZjiiXIdsORCHVje_rMIAEJVHyDLipFq2SUOZskKrz1oOecnFFJJNAFKRnJ9e3WXj1bFaQEy0mvV2dOx591sg-Adv9ZXwRpDVfBofbha4qNlZPbrsbQkePnJ1_CB_yA1xH2Xbto7uuuj_-gY9CkaMwweB28LqLyuKoxUKh0hMZ6Dw10oSxbUeezQPCKX2BmKawxzQShRQwE0l3PLcECBJtjKyXvqwZ4hTv4tdb8NwxVCnx6AtxicjgVZdlbm7ht2WrnO-hPDttKFhrQDNs5LGKPg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 سرویس امنیت روسیه: پاول دورف تحت تعقیب بین‌المللی قرار گرفت
 سرویس امنیت فدرال روسیه (FSB) «پاول دورف»، مدیرعامل تلگرام را به اتهام
