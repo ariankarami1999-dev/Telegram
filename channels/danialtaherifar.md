@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 18:32:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 19:26:16</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -300,7 +300,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T74uVTnujpbOAT-4nuQWMfCUuQr-J86Dmq3NUnj82tOtNcBxSaIA2IK2s3dpc2kM9WTBW2x7jV99PgkRzfGoLX7hnrRNoznpAFrapTY_fYJMw8XcsD5ulEasn6-tjXl_inzhr5Zm_wLF3R-KMCwLdqxl_jiarrioTbNF5Odl4lKbGufqzbVJLSQmTwtSVrsgo1XhjZ5H6hFzKYY8mEpZxvN1qWWuHRCPAwvfhyBlGRzXR5XnR4VkRlTwiK65gLevRSX1Zie8huNrTPufkhrbnLFdnc2OCNX0slyj1rRuzN5rhZVooCCT2oVtDjsLP-fMuoapdmdxYPSIwAwiUd5HEg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده    @danialtaherifar</div>
-<div class="tg-footer">👁️ 268 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 269 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -375,7 +375,7 @@ z.ai
 
 <div class="tg-post" id="msg-943">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X8laE2ozYEtfQ8IORdmy_QDKUVwWVAraVI7rwdw_Pv0yAEh1j62XJWt2hKJrXmqjLtS2MoOpOc3TDCf6MI57U1vt7gizegS3UTw9Haq1NhZalAlTJPzgFI5InlLmVjvAAyWEK0nYLQQPhMzGkf-TqieptP9lDzN33YddkQzy6LParFGNfLyRGBUu7B_H71BfkaxNx2PUTlR4UgJp2Ez7mwwBuXZvPgLs7SoGz3vfP0Jd9C265S0pIDi_zWPKVXGngSeSRe0f1L4KAEoFhNbLIEs4F_nvkM2xX0pwpmcq5KFvCxTv6bJcykzunhqVcSHKtvdyKlSs_v_ihZBm1xLdTw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tsynxr3DGXlNFMkEGhI9x2sJaB_oHXRAUtbT2NWQoWjRF2uaDxzbAa_xICrjLJpSm7-VahyE0ZndE5vVb9unE-jKEigS00x3xkaKPGRs9nN--JdwEnC_aKmfzEw9G65jhb9hHkP2wmQJa4HX2-RoUv6Q4FzxchFmcrMBC_Q9-cADuFQs5MSSU7TM--XjrDcIFtSQ0ZNRzvEuzN0E0QzjioLDvvGvjzEZJMsTgwzZJz2gXybAh8R1iVa08sCrLPbxvRJzQ_y1c51xvGGdL4xcgxnABbqnph8uHyVLTFBagzk7h7ZxQ-hbxKllfqctz3obXPBrTaWRxTLzpMba2poSpA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از ظهر امروز اوضاع نت اصلا خوب نیست و رو به بدتر رفتن هم رفته
 کارای مهمتون رو انجام بدین، احتمال هر شرایطی هست مجددا
 @danialtaherifar</div>
@@ -547,7 +547,7 @@ Google Discover
 ⚠️
 فعلاً این قابلیت فقط برای گروه محدودی از وب‌سایت‌ها فعال شده و گوگل قصد دارد پس از دریافت بازخورد و انجام تست‌های بیشتر، آن را به‌صورت گسترده منتشر کند.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 867 · <a href="https://t.me/danialtaherifar/933" target="_blank">📅 16:41 · 13 Khordad 1405</a></div>
+<div class="tg-footer">👁️ 868 · <a href="https://t.me/danialtaherifar/933" target="_blank">📅 16:41 · 13 Khordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-932">
@@ -1511,7 +1511,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-867">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PPkVzPHIU-Rm8R-8yxriMWgUPog969Fvk3J-fP0ZQYI3Kyecyk3M0vuDC8Tdw00MIkxHmR6qGHUrvhWbLOryHQLQTv9Yn-PX7kNnp2oZZKk24m0qoCmuI7w1sNKfU9xhmjSlkeAozZeypjgLectXJ5R2e-krc4kOCIHivbu6zK1r1SmuyW44ie-J5VlHj5K30OPGpZTJQ6sqlv8sE6ZCG13U4ff-Z3ZBye9xi2eabkAzZEihVp6jeZjDGNBmfzbcEAnns5pGYA_7MfUbX7fiBN9Tbkx8SNaExmPzc8MdtUm7eklxd4WVvJXvrGeGK4i-JcocqDNQLE6x7MIvb_WdMg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t0Oi4haJGF8gTHxLCY-xG1r0Xc8Hpcz1jOKcgfAu59weFeulIDqbl8qpHC8T9bd2aF6NoNVgsyISYCYwpJMlAakONx0GJ0cx2a2TOQKqDt4BRGe5uWtWYssNdR-fIaCJcd2EZYs4ePrgVtPWl5mjpuzkJclwTtyjRnKyfq9_T93lHaQFQBFLf7mEZtvqJj98Kzzp3_X0COhLZ-DRRfH_GDSxHVzup9Tfd-T0QnAFFxmIr6QqXD1tNhLQWpVrfrsCoeLMbtwZSFpY5luzahpactIy3wNqlSBhTbEBAun0j0kFy8PBpca80lwZWUJShua1591izKHbNcGCxSgLm1qp0Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل مستندات Google-Extended را آپدیت کرد: کنترل بیشتر روی داده‌های آموزش AI!
 🌐

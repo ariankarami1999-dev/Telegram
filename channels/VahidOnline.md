@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 18:32:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 19:26:16</div>
 <hr>
 
 <div class="tg-post" id="msg-77968">
@@ -317,7 +317,7 @@
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/VahidOnline/77968" target="_blank">📅 16:07 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/VahidOnline/77968" target="_blank">📅 16:07 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77966">
@@ -336,7 +336,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 134K · <a href="https://t.me/VahidOnline/77966" target="_blank">📅 15:32 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 150K · <a href="https://t.me/VahidOnline/77966" target="_blank">📅 15:32 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77963">
@@ -356,7 +356,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 131K · <a href="https://t.me/VahidOnline/77963" target="_blank">📅 15:28 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 145K · <a href="https://t.me/VahidOnline/77963" target="_blank">📅 15:28 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77962">
@@ -371,7 +371,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 137K · <a href="https://t.me/VahidOnline/77962" target="_blank">📅 15:19 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 150K · <a href="https://t.me/VahidOnline/77962" target="_blank">📅 15:19 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77961">
@@ -404,7 +404,7 @@ realDonaldTrump
 توضیح چت‌جی‌پی‌تی: D-Day در اصل اصطلاح نظامی برای «روز آغاز یک عملیات بزرگ» است، اما در کاربرد عمومی تقریباً بلافاصله عملیات نرماندی در ۶ ژوئن ۱۹۴۴ و آغاز تهاجم گسترده متفقین در اروپا را تداعی می‌کند. بنابراین ترامپ با گفتن ECONOMIC D-DAY می‌خواهد بگوید این اقدامات اقتصادی قرار است چیزی شبیه یک حمله بزرگ، تعیین‌کننده و همه‌جانبه در جنگ اقتصادی باشد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 284K · <a href="https://t.me/VahidOnline/77961" target="_blank">📅 02:33 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/77961" target="_blank">📅 02:33 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77960">
@@ -439,7 +439,7 @@ pinned «
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 265K · <a href="https://t.me/VahidOnline/77959" target="_blank">📅 01:12 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 267K · <a href="https://t.me/VahidOnline/77959" target="_blank">📅 01:12 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77958">
@@ -463,7 +463,7 @@ VahidHeadline
 اما اتفاق دیگری که افتاده این است که مردم گزینه‌های جایگزین دیگری پیدا کرده‌اند که هرگز به آنها فکر نمی‌کردند: تگزاس، آلاسکا، لوئیزیانا و جاهای دیگر. علاوه بر این، تعداد بی‌سابقه‌ای خط لوله در حال ساخت است. بنابراین فکر می‌کنم تنگه هرمز دیگر به آن اندازه که در گذشته اهمیت داشت، مهم نخواهد بود.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 236K · <a href="https://t.me/VahidOnline/77958" target="_blank">📅 01:10 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 238K · <a href="https://t.me/VahidOnline/77958" target="_blank">📅 01:10 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77957">
@@ -480,7 +480,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/77957" target="_blank">📅 23:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 257K · <a href="https://t.me/VahidOnline/77957" target="_blank">📅 23:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77956">
@@ -508,7 +508,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 265K · <a href="https://t.me/VahidOnline/77956" target="_blank">📅 20:07 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 267K · <a href="https://t.me/VahidOnline/77956" target="_blank">📅 20:07 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77954">
@@ -529,7 +529,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 264K · <a href="https://t.me/VahidOnline/77954" target="_blank">📅 16:51 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 265K · <a href="https://t.me/VahidOnline/77954" target="_blank">📅 16:51 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77952">
@@ -551,7 +551,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/77952" target="_blank">📅 16:43 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 241K · <a href="https://t.me/VahidOnline/77952" target="_blank">📅 16:43 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77951">
@@ -564,7 +564,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 222K · <a href="https://t.me/VahidOnline/77951" target="_blank">📅 16:41 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 223K · <a href="https://t.me/VahidOnline/77951" target="_blank">📅 16:41 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77950">
@@ -577,7 +577,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 218K · <a href="https://t.me/VahidOnline/77950" target="_blank">📅 16:40 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 219K · <a href="https://t.me/VahidOnline/77950" target="_blank">📅 16:40 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77949">
@@ -634,7 +634,7 @@ VahidHeadline
 hra_news
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 249K · <a href="https://t.me/VahidOnline/77946" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 250K · <a href="https://t.me/VahidOnline/77946" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77945">
@@ -680,7 +680,7 @@ mb_ghalibaf
 <div class="tg-post" id="msg-77942">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromVahid OnLive وحید آن‌لایو</strong></div>
-<div class="tg-footer">👁️ 307K · <a href="https://t.me/VahidOnline/77942" target="_blank">📅 20:50 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 308K · <a href="https://t.me/VahidOnline/77942" target="_blank">📅 20:50 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77941">
@@ -838,7 +838,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 262K · <a href="https://t.me/VahidOnline/77931" target="_blank">📅 16:06 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 263K · <a href="https://t.me/VahidOnline/77931" target="_blank">📅 16:06 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77930">
@@ -883,7 +883,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 274K · <a href="https://t.me/VahidOnline/77928" target="_blank">📅 07:28 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 275K · <a href="https://t.me/VahidOnline/77928" target="_blank">📅 07:28 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77927">
@@ -995,7 +995,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 314K · <a href="https://t.me/VahidOnline/77918" target="_blank">📅 17:44 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 315K · <a href="https://t.me/VahidOnline/77918" target="_blank">📅 17:44 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77917">
@@ -1015,7 +1015,7 @@ VahidHeadline
 @VahidOnline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 296K · <a href="https://t.me/VahidOnline/77917" target="_blank">📅 17:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 297K · <a href="https://t.me/VahidOnline/77917" target="_blank">📅 17:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77916">
@@ -1174,10 +1174,10 @@ https://www.iranrights.org/fa/memorial/story/-3134/atefeh-sahaleh-rajabi
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/5da532981c.mp4?token=nhXNRn63Oc_14HYI1sHTVRDu_KfBMvgZ5MC-3Zt4fS3IPttJEuhDnuuyoaUUGf7Pq4hHkYEVp_v_vXSA7_41c_eTr07YUn0ZqAPHdvHYi9y9dkz0-NCha2eYo2kHj4ol7Z8PTFV-23V4YOgRE69SAAvkWJi2pBqY8NKM3PmuyxqWMCzTuCm52DFMdXBjMaVWDYqub-v-39RdKVMy5g3BwDBrd3Xl-VXWmmROXYBx8HIAKl7k_IEgl_vBU8PURvDXyqqUpxZOQiqqPriM9JILHVnfjFb4yugMlFtZzjOasBeu8d-p5_DKa-Qav9Gxb_qJ4b2rT00NJUbavaz1NK28Cg" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/5da532981c.mp4?token=cLtkleH9ANCeo0Z0w90rBFrr2HhGcVYejI44YGgljImiqKLpaxLddbArF3O12NOxFQJYVpv_E7G8KZNc3iC04o4ziFjRA1ZyBCh81SUrer-36jHv2tGK2P7TFtsOadPfkXuPs3bcYMKkEEjFruUuzjWs9ugRtmAGPi_X_lmkokJCCg8CY4PmRDDsyta1j5QYmk5YPvJ_nX8_nPbxb9wjZWG0ZXu0rQxNg0oRMtkIZbiuldsFe3Isyb3I5BV_27AF3H522DPPtBCBmREzN8jolkGi09o2HZ9pO91Z3S4LumZMiUpVYnZNP0o4Rp-lolJyYgM5tz2HIB7QXw-QvhN5uw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/5da532981c.mp4?token=nhXNRn63Oc_14HYI1sHTVRDu_KfBMvgZ5MC-3Zt4fS3IPttJEuhDnuuyoaUUGf7Pq4hHkYEVp_v_vXSA7_41c_eTr07YUn0ZqAPHdvHYi9y9dkz0-NCha2eYo2kHj4ol7Z8PTFV-23V4YOgRE69SAAvkWJi2pBqY8NKM3PmuyxqWMCzTuCm52DFMdXBjMaVWDYqub-v-39RdKVMy5g3BwDBrd3Xl-VXWmmROXYBx8HIAKl7k_IEgl_vBU8PURvDXyqqUpxZOQiqqPriM9JILHVnfjFb4yugMlFtZzjOasBeu8d-p5_DKa-Qav9Gxb_qJ4b2rT00NJUbavaz1NK28Cg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/5da532981c.mp4?token=cLtkleH9ANCeo0Z0w90rBFrr2HhGcVYejI44YGgljImiqKLpaxLddbArF3O12NOxFQJYVpv_E7G8KZNc3iC04o4ziFjRA1ZyBCh81SUrer-36jHv2tGK2P7TFtsOadPfkXuPs3bcYMKkEEjFruUuzjWs9ugRtmAGPi_X_lmkokJCCg8CY4PmRDDsyta1j5QYmk5YPvJ_nX8_nPbxb9wjZWG0ZXu0rQxNg0oRMtkIZbiuldsFe3Isyb3I5BV_27AF3H522DPPtBCBmREzN8jolkGi09o2HZ9pO91Z3S4LumZMiUpVYnZNP0o4Rp-lolJyYgM5tz2HIB7QXw-QvhN5uw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">امیر حاتمی، فرمانده کل ارتش جمهوری اسلامی، روز یکشنبه ۲۵ مرداد در مراسم گرامیداشت روز خبرنگار [در تقویم جمهوری اسلامی] گفت: هر کسی، هر رزمنده‌ای، که یک  آمریکایی را بکشد یا دستگیر کند و تحویل یگان‌های ارتش دهد، هدیه‌ای معادل ۳۰ هزار دلار (حدود ۵ میلیارد تومان) دریافت خواهد کرد.
 بر اساس  گزارش صدا و سیما حاتمی همچنین اعلام کرد زنانی که موفق به این اقدام شوند، دو برابر این مبلغ جایزه دریافت خواهند کرد.
@@ -1859,8 +1859,8 @@ VahidHeadline
 <div class="tg-post" id="msg-77838">
 <div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Lmd8QCzGcoTItY7LXRHFNBvkmBEh95EwtdDzxTC01Lu7KuDgV647ORIRdKriQhNNVNIN3j7kSV08Hezjha7ObYNfAmjTFslYugaE4stpJdIXBMN2Mlu6-yVyJrOpGvPBphs4neVrtQRjwlRv9gtPo1WKEzCn-CN0BTZCyCGBLa-DAiN99LbximDkHvlKPU8tSzRqdIzuRUUCVz64ejM-5IJpdj__njS_TYPjKm1-4Hj7JtDiMy0PJxX_CQfe0ruGtQ_YxYe2x-B_RxsM8IeT91sEw4wfDSoPPkbF-mW8dklIRtNM_8JUZYrnE40RgUNtxvx_9CkLWBnz-u3XrCRXHA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/O_y1QnHtlan-374JHM-xoeEzB2frey3ZFZqkHx92CGmPFJuCTXu5RcV-zHhYAsprZSPuaHD3AwzVFyUPne05lUHnjvtGgjbPeMMOa_F4W947c1q6Ppd5R0Q9eO3rw341Wn6_yRg9f1eabjRM57V0ELKWKwUvGMaroBcB_OVY25kYBYdcf1pzIrO4YVXt__oBjXfSf9WY0ooo6MG3FTz4zAQX4eMPE8kWJKC6TwgIPPH7-DuPZCm58HHphADQvSYCfgBIi2v-H6N7PG83cgq72X4sPyEcIJ96jGM_B-hR0UT_9IRU_XiLMeCA88wQ2dAfbNwiMdK_NKu1_o8jfpMQmA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/sYZnx26VF7Uyry7XvXbXzwod1r92s8XlURskh5eSjQlKrfjF0P1DHXIIKqrEHjloURAqrJ1H6r8PcQyeOtKyrH0086LvdmtLLZnnopnvZVgeaQi4HEf12nFvJJtHpASrRk-iZA5huenHpf9oFr5UqjUgiwQX7GiyTLVIJeOeF1wowxMm4tt8QiX0CuxXcqPRHR_l2VAYskVWj9W8YhK0R3Cyv20Qf_mZiH6J5bNC4p8bI2G80O0gY13qChbUSFQHDvDuRMN7CM3usSBakQnWYMmZqq_IfX6nDLsKmzJUH8CF3UeEKJXKkBprU3cXsNBudzAmV3JZmiIZGAYe-CFtoQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/RMsL7c_85nokDIeiCPXH83CwxxjqDINoYP-aQ6UVLXUeOubfoA_1qLapMAXrnsNjfG8K6tUFVANf25TJ8AG92JW4HFy3ysldZsjKi20HPGis1Bvrdai7r5aAdTz-DKL1GSgghpN9WOkuDXeyJdYEDa45vNf8KLLhPIfmsLLYH9er7eWGrN6Wuq1sQFdIzuuzlUuVIuSGssro7CVs-JMxcZdQyv--aj1CoTJ5hrG8_nEpuGMBl7Xrf1nnDQhdczjny9VntaEnVCCB6Xm_hHXh3LbocO7Lcw0Ku6uJBTiQ8VP_tk1sfx3uQHBtQ9lfGUNzEOf26xHCr6t7oRllCV9NDQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">اتحادیه اروپا و شماری از کشورها، از جمله کانادا، بریتانیا و استرالیا در بیانیه‌ای مشترک، با شدیدترین لحن ادامه اعدام معترضان در ایران و سرکوب افرادی را که برای عدالت و کرامت انسانی اعتراض کرده‌اند، محکوم کرده و خواستار توقف فوری اعدام‌ها و آزادی تمامی بازداشت‌شدگان اعتراضات شدند.
 در این بیانیه که روز چهارشنبه ۲۱ مرداد منتشر شد، آمده است که استفاده از مجازات اعدام برای خاموش کردن مخالفان، ایجاد ترس در جوامع و مجازات افرادی که از حقوق بنیادین خود استفاده می‌کنند، به هیچ‌وجه قابل توجیه نیست.
@@ -2038,7 +2038,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77822">
 <div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kDS_0CUeRGuaDwfRNA824Hqq3RXO8zGbcJkWNaLJ8mrCmwknrSVQ5Px0RoEKWXoG-IHWRPbU1aXSpLM6EW6sldoaD-mIXhMucHUTnfachFCho9p_BBGz9aCJXjXSw1fUCOeXZoFDKhN_K2sCYnlfrUMY-wGLtTPo_CV9CsPkPX2_Z7M_UmKe37jI_K_zMpxyaoiojGjYAu3_zwHH0fLIorSXd7g2VLsTS5CCF6HHJNDALNqgH3plaM1j-ZYXtlhUZxgac3rP4rYCjsHFpvtIqdp0sJleu0AIOtFKT96lQShRj_qoycNKe8-vNG3iXRiKLsz6HXCul6d920AvzZgoIg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SoI7VN0u5BMoFhphdphVPZt9YtXXhwqhHTGIDYdLoweCYVN3IMiqeENef3DvuYsK5ZQojE0G_GcjQgHWE2dtQbGPqZWL3VnF6jODnlmzht8bHvaHQefrzY8WVk6CaI4yQnhZEs9eF2M5jbnbeRNi2iGY35_pULx7jR0tZEBFyoS5DZDpWGa7xRnICJda_G_FfbLCozx8iuPlDLFaTRN-Oq4J1xPaoCsQ8sMg8n1z1l1M9n0EtWqhXDGunOQJTyQBvYZLEkVL3OTA9o0HyXT9xbGmKraH7ePAGaSfR8opKyGEU_ax9TL1GSz4hFI2swQ-GKGFMNbY-883XagU1_SSMQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محسن رضایی، دبیر جدید شورای عالی امنیت ملی جمهوری اسلامی، در نخستین موضع‌گیری پس از انتصاب به این سمت اعلام کرد برای باز شدن تنگه هرمز، آمریکا باید جنگ را پایان دهد و پول‌های مسدود شده ایران را بپردازد.
 به گزارش رسانه‌های ایران، او در دیدار با سفیر چین در تهران گفت تا زمانی که آمریکا «رفتار خود را تغییر ندهد و شروط ایران را نپذیرد» ایران اقدام به باز کردن تنگه هرمز نخواهد کرد. او پایان جنگ و آزاد کردن پول‌های مسدود شده ایران را دو عنوان از شرط‌های ایران برشمرد.
 این در حالی است که دونالد ترامپ، رئیس‌جمهور آمریکا، روز دوشنبه در کاخ سفید به خبرنگاران گفت ایالات متحده کل تنگه هرمز را «مین‌روبی» کرده و کنترل کامل آن را در دست دارد.
@@ -2064,7 +2064,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77820">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iM2c7I_OcQbsavOZCueS5uWYfh-RnyGqI_UPR01ls7w0WI4CVc1iYGz8EcMC0cbCNwQvs3C9byE6aJsQoJy0CaW7FYhbJGmsiKAWQzbYYu8e1bvOsnLYKbuS7miT_fEFXkBttytboX3PqDCt5-Noj37iOo_tKiQb7doCHfGrGRUJpR3D_-aCxHhGEkqT-7gP9npmVh-NDgSjcXOKFNcgQpzI4Y17Kx_tJyewWXm-qwvZzOdXMVLEyNwtivl7aswjOb09VC2pn_OIyj2h0lH-CAXlXKEg-kxZ3STggLMlnpdK1lMYuCASbCd0nmjfv-zVivfmf-5jFC616hVDTIqogw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/poQxBHIbsF5vFYomAmgH9YIXj5gt5hSo8iausngzV6rjsXsaGossYn4vEUgsUFbPNy_sjjqEYA1sX3HX9-y0UF59apEN6pzq04AgFAAQ6NYlfR7SpVGCkmx4WZ3hEXaNKYtEfIZBBdz7gEj0LpwoliYRSS51_o1lQ671WHLxSXifoqin3V88Ls6h0kia2AU7Uw77HE5rwzUuYya96owgi7TIZefqwC2kTgj9qtyvJD_it9nkl8qL-wczdbcbhNlJQ3Z9QdCWxSFf_2YUENYPaKtE6LePpxyw-NLdBlUa91ptbZHFlLIzccRgwNu9D_mDFXi4rcrJBiRt_dkYiuniUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یوسی کوهن، مدیر پیشین موساد، گفت ماموران این سازمان در گذشته چندین بار از تاسیسات غنی‌سازی اورانیوم فردو بازدید کرده بودند تا اطلاعات بیشتری درباره این مرکز هسته‌ای به‌دست آورند.
 به گزارش تایمز اسراییل، کوهن، روز سه‌شنبه ۲۰مرداد ۱۴۰۵، در نشست «مجمع جلیل» در شهر صفد، گفت: «ما بارها از سایت هسته‌ای فردو بازدید کردیم تا این سایت را درک کنیم.» او درباره زمان این بازدیدها و این‌که چه افرادی از سوی موساد در این بازدیدها حضور داشتند، توضیح بیشتری نداد.
 او همچنین درباره حمله آمریکا به فردو گفت: «بمباران آن توسط آمریکایی‌ها تحقق همه رویاهای من بود.»
