@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 13:56:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 14:25:15</div>
 <hr>
 
 <div class="tg-post" id="msg-2902">
@@ -328,7 +328,7 @@ check-host.net
 📉
 کد تخفیف دائمی به مدت محدود:
 AKO58</div>
-<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/iaghapour/2902" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/iaghapour/2902" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2901">
@@ -357,7 +357,7 @@ AKO58</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.27K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.3K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2900">
@@ -392,7 +392,7 @@ me.
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.35K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.37K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2899">
@@ -431,7 +431,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.42K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.45K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2898">
@@ -467,14 +467,14 @@ YouTube</div>
 ❤️
 کانال رضایت
 @AIPrime_Csat</div>
-<div class="tg-footer">👁️ 9.01K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.03K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2897">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vo01XtAG_wNlDunClmJho89nwDf8VNfPdROOU2ocxSbgiK8yUxgRHcAqref-m7KizlPPyUE4MWk0mtbvQG2V8AQDkuNTtrsSB1p7XmTuz1XJinESQ6qEbhe4n3uJDjE9F65PGiQ7_3ZcdRAZaCPqojojByyFEYLz_reSDvR1jnlguHzwCVQPRDHP2kL_QfXODd3fB_40lBVcSvlogutpFCs5r2Cz-UJwDKoKGCfHqMDIi7MgJwqmScH7mgEHpCxi4pPyeBmGAVaRKphsytXk5fbf6PwTPclHsy7N2AtradkCcW5W7hzrpxVMRC0tbxJDByMSsgxnktiHfzAiVDE7gQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کدنویسی در سال ۲۰۲۶ :)</div>
-<div class="tg-footer">👁️ 9.12K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.14K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2895">
@@ -496,12 +496,12 @@ YouTube</div>
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.77K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X-2298wRqaRzWeVjzFKLBrfY8Y5u0nFnDnyu0IAQ-JHKoDvwC7BSalgNhJVbEq9EZBAGttmOWR-YV2sr7BJZUYCPxPbKf6kWQqDOFrf7eyl_WWppu71ccOniNYM-A9b-rrbP3V5f81_5vi_gWhMF6wVoHwWW9vo8H6YBgdWr9hkmbgK_IZb2f30t0Ec4krsc2jb-miyhYcHwG5wY29i57QhrGGLuZo4xuTQUWZvarvpuyIfC6wWJdrZ-TJucJr1J1jeN-4s8Q6dlqLFqyjJwFRSO_eDSkxzHv0tPDzx-nuuuokwC0bZZ-oPvFSuyHhChMsHLZaM5-aI3aP-xAi58QA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SDr0P9ePok0IA2118oP1ZnT4g7XbYuORSWd50acvBa6cGWxqP79gjDCvSt3uO4DuhilSeWP3T1sSQt2yVLjsssR6w4YDqhwsFuK6QY5Obvb-rRH3C_C5lXCU716OQpb9rGI5JEsyZL0HU2-P4DmAuYnyZoTmCmHD_EkDefpoSG8G0RiaXW_R09N__4PhJpMmQYqdY2ZxNAiK3djcvU13Dce3eLYUB56VBeejP66--gOVA29TOLBOOSMoDP-KMjsMKn1bliObaw8YuzBJkRtf-cipY0uBWnUUO0ZqGPFwjv_23ook7F-pBuSHdnNrlWUuWtBh8Jf5LwLb-2pPHF6BQw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 امکان شناسایی افراد با سیگنال‌های وای‌فای!
 پژوهشگران موسسه فناوری کارلسروهه (KIT) روشی نوین توسعه داده‌اند که با تحلیل امواج رادیویی روترهای استاندارد Wi-Fi، هویت افراد حاضر در محیط را با
@@ -989,7 +989,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2868">
 <div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dBxYtk1Qm3gMEwUAMbfGhDres7lu1q0OuWG6kcYyouFVlYZyuVlaO-eFv8y8Zm6KnqDNyaLfKWneCvWA1PwKDND_UdFGZj8DeQA-cU8l1Dt7k0wztFg_0NJrHeVNVwqXfH2OfJKgAqzOprGBE7tGdibcFPfwDJzReClyrjXfghc4vvD0_265_7BxTtvXjfRmU_oel0WlGW-ZNyNF9oBC3PfNLI4_p6VXmd0yJXZBj8p5ZHlZzZ8lEhDbnHiw860N-3fnHkfuao4NGfbUtms-XimWw6zLMHgZfTRN-vBr9hQ3FXFlrcYcaqGtpMSgiGcw6ghj7soPnNM0JpW5Ih3uPg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HZ4ETN-yC0A6WmuQr7YAiSzoX8hU2S3FEM1ub4zcDMqHWLFTL6b2SwGazNCRVQoHYFpX-etuU0npWwB2n9hfXAriegiSp2_AHzPLZF2fcEouj7eT0GdvyozXalyOoNZHL8hoga-MjssIQQ2jROsx1WKDd2m0egkvt9JGZGVA5UINb4LPw9Jtoe6fbbgvOVyH1Zh7PmEk7sToXXCDD6Hg6iiGq8mw6A7elkw-eFKMueauhFUO4bbhRMzxn7GnwhjTHwq0XVyH-Xf1CtyUp0jnMjdvkrO9klylz_MIi-c10_1uN62nliid6A6Ipya1wdpQMlW4m6cHlnrWhRageWUhPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🖥
 معرفی LuciNet؛ نرم‌افزار پیشرفته و گرافیكی مدیریت و تست کانفیگ‌های Xray
 پروژه
