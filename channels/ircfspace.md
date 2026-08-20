@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 19:26:16</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 19:56:52</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -321,7 +321,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -336,7 +336,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -355,7 +355,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -688,7 +688,7 @@ github.com/shapeshed/aerial/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/ircfspace/2536" target="_blank">📅 20:14 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/ircfspace/2536" target="_blank">📅 20:14 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2535">
@@ -1187,7 +1187,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.5K · <a href="https://t.me/ircfspace/2506" target="_blank">📅 16:47 · 29 Tir 1405</a></div>
+<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/ircfspace/2506" target="_blank">📅 16:47 · 29 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2505">
@@ -1633,7 +1633,7 @@ github.com/Jigsaw-Code/Intra
 
 <div class="tg-post" id="msg-2477">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vIQuHSaaKD0bd700Y8Ag0HgjIe6FYgXTT1_lDIDZ92_HIpsOmvyk_yvyBnLuyDOrcE-sGJefIhLJsyibZ1-agj3nXZMzgkeEhvdvj-HClCadjX6JarhyzQlwvYB8J54o8LA4XEUE17h0MhqAiGOCWKrUdV4XECeUHdDN2oAz-UTowhWznNREuPDW0WJyHOO4C_XD1siO3kQfyAf9iXzLA4a6zEpOiySZK8zh2yNANGgKDyLcrSsTzNMDPSonmBp22fFCD2K6Fz834H8zlqXIrdSDK3tMAJxcRBrDn80GvS_Yi265lyS1eWAGOSmWFDarMQ7QsR7nx8-i460tyTF7jA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/epUjgXpWHxatiyuRzeYFLm8vzLhDlw-8l4jsvP9yhwji7QB5tNlKCKylUb7Xt9VJfkif92PDMWo1tdyP7_Z344f3sqpk5E2r1YwqHH-tngqGzItRrqFNeNnblVgW_c4Cm_Spzov3o7tirMw2fTRZYouGYYxnjRzqgNXhjk-nZDJAy9zHMOh5_3d7AY6V8ouFwakkh1Als-cirb-1ast3wwn3PYRTcI5Gw4c8enFpWOCMcNp6Zhr9Pg0hnvY6US2Kij4dVdwPVqnF7RdX8sebUaIvWuPoH0gcHS2GDnxfcBDXDdnzNGSt-zPbgRBFAEH0iyZZVch-nDqZI0sP6Qkz7w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محققان Datadog میگن مهاجمان با استفاده از بیش از ۵۰ حساب قدیمی و غیرفعال گیت‌هاب و توکن‌های دسترسی (PAT) افشاشده، از طریق API گیت‌هاب در حال جمع‌آوری اطلاعات سازمان‌ها هستن تا برای حملات بعدی آماده بشن و ساختار داخلی، اعضا و ریپازیتوری‌های اونهارو شناسایی کنن.
 توی بعضی موارد هم تونستن ریپازیتوری‌های خصوصی رو کلون کنن. به گفته Datadog، چون این کارها با حساب‌های واقعی و API رسمی گیت‌هاب انجام میشه، تشخیصش از فعالیت عادی توسعه‌دهنده‌ها کار راحتی نیست.
 ©
@@ -1650,7 +1650,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2476">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/v4k3gK1ezNSJY5z66oItMIY8ar5tHIGlblyXzT_rDYw_xHdWhWrAL5d4kohZsUwKDnxNQAyzUl5sQ07zqiPRTC3RDdzxaljhkpYpHJFI64xJWap1AKXRdWY6OwjyPEt-cL6-30pNMjHs9yZYb6LjJ5mCWDP6ppp6gdJFBrU4zNfwGGEeDOfcNoAvhkEXKOxEWI_rej1kt3W89iHVJ1rBSpU-vc4YsVAM3V_g43qJL_FHuMCT3rMAuLqsePYWfUVDifrchpvlt9dmwT7jluNQsZ6xiLnQ71-Uf05kt5T0LFYaRljzjygSVIKZAKakQmzsEffU30X1nxziqjOEfNnEqw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Olh_BKxiDX_LkDGtHrG34OYQzEfzy1yCpcTFMbZPeewjLwFqwNjDmMB9h0SBleSpVl_zUc3QNTrp4oqc2lnwBfoyX4QW7X9DumizObt1WwlKIxF4v3DLTIHf3Cl9jhB-kgiljHGwmw7uiSCJhSc8u852CWEszwVvRgwbz2oj5vOoYpbOqMmflhA0u8PXsj78rpCdV83mSfCL-b2C2Xfj3Dukfzj1I79t_ycYJMIzX39MYI1FDLEKvAQk3Ktj68Nmxulbp9lYF5Y2Qio03NmSVkNTALvDAG_be2qQh0CrMmQ3QsriqXP3g0raizAvSO4coxpKSdG7miAKm_ljWcLcVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که "کدوم مدل هوش مصنوعی خطرناک‌تره"، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.
 به گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس
 🔗
@@ -1912,7 +1912,7 @@ shokhmatic
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.8K · <a href="https://t.me/ircfspace/2461" target="_blank">📅 18:29 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/ircfspace/2461" target="_blank">📅 18:29 · 04 Tir 1405</a></div>
 </div>
 
 <hr>

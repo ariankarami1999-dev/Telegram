@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 19:26:16</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 19:56:52</div>
 <hr>
 
 <div class="tg-post" id="msg-2904">
@@ -321,7 +321,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 2.99K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.35K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2903">
@@ -364,7 +364,7 @@ my.gov.ir
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2902">
@@ -400,7 +400,7 @@ check-host.net
 📉
 کد تخفیف دائمی به مدت محدود:
 AKO58</div>
-<div class="tg-footer">👁️ 6.99K · <a href="https://t.me/iaghapour/2902" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.09K · <a href="https://t.me/iaghapour/2902" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2901">
@@ -429,7 +429,7 @@ AKO58</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.66K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.72K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2900">
@@ -464,7 +464,7 @@ me.
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.34K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.39K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2899">
@@ -503,7 +503,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.17K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.21K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2898">
@@ -539,21 +539,21 @@ YouTube</div>
 ❤️
 کانال رضایت
 @AIPrime_Csat</div>
-<div class="tg-footer">👁️ 9.42K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.44K · <a href="https://t.me/iaghapour/2898" target="_blank">📅 21:10 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2897">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vo01XtAG_wNlDunClmJho89nwDf8VNfPdROOU2ocxSbgiK8yUxgRHcAqref-m7KizlPPyUE4MWk0mtbvQG2V8AQDkuNTtrsSB1p7XmTuz1XJinESQ6qEbhe4n3uJDjE9F65PGiQ7_3ZcdRAZaCPqojojByyFEYLz_reSDvR1jnlguHzwCVQPRDHP2kL_QfXODd3fB_40lBVcSvlogutpFCs5r2Cz-UJwDKoKGCfHqMDIi7MgJwqmScH7mgEHpCxi4pPyeBmGAVaRKphsytXk5fbf6PwTPclHsy7N2AtradkCcW5W7hzrpxVMRC0tbxJDByMSsgxnktiHfzAiVDE7gQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کدنویسی در سال ۲۰۲۶ :)</div>
-<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.55K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2895">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/VGx86k65PJIHU1F7u4z0ECtZItFK-tbRyEo2ncZLNIqdIDF4nGax696VP5dClVC7lseZ94LgP-iHnGYr5ojp9Jja4EjdALyaOPgZjs1Wjp_rL6nwtWXEwPh0KrqMGPO2o0ZhyojGDiWnr3IYFFB24-zlGY6TeFnVgyBXEIXUN31G6fuHPjoIq-WsTp67mT7sR_avD5Wd_JJUs16iM_TDZPst55JWrlkuV91Za3t-5WlNa3DVfG8SkX3pR2blkVJQE0unpB3QC_OC3GyDJyMMnXecaLBj2TzJXd8ow9Dkjr51rWwAxmxehqmdfs-NV0N8Objkxx8O0A0riGgNRBUWsw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ug0Bh3D6ep8fCaMyCw0OS8nmOztq25yGI_7ZTScEe9a5LQ9YxTKcqeaq4nnVNb0qOdNsk8SlYT_SZrqRUjdp73tH79oH-QD-PtWWKMYOM9ufVmD4qCoG47BSS2Mrb0CzvakujwhQAmW5z-c1lNKc0uNQxpUe6WClMzMV57T66o5taZZJRmfUr_3xO-OetJNFSjfzC8hNSHhI0CFiigZ2I49JU8W8QLrA2pQlVwqCEmlQcGJiVaxSYPRMOExiLdxU77JzTlQH2ElvEN4F1qAJzXUL8qRUIfQTOWSRm2RpLtlDEPqE-3nZSc5ywBPMfnW25XsH4mJB8SwYE0UHdbZkVg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/XC_Jnlb_MPxsIdyh4kHh3U0iIOgtaosZkJ8F6olT815T-YVsy8cOqm_kKSXF7S9-Z20-eHfkJ52O18koptu4nj8eLy0KTh34mb4gitBqo4tcNiC_UKX9WZ2xKlvcWn6GB-UhD5-y3rS3UVRWwgI35Z8HqbGr5_GoHTomUNJs6EDXHJmEvqXT8OQ2a9lN3r6ozZ2cUhGGuJaz5SJiZmYEe9XRoeT8yxel8PEv-fwnogvoZUT8U4_jpH6WY_SINaGWPmnZ8ookwH92K75o8Db8xsGu9Y8y75SsgFKb0kVhf_QcRp4Rrx7eKj56VscGemM2LawnLq68dcASkukBx2XRDQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/j4iY8qJF2tQT1PBNo3ANVE6nzYQlqws4-IUy13jhufvI2AP7WLsjXdZHCfV54NvdfUbgNuPwnzc5EQfRPPzYYyM4iDp8J4ly-4WvCA_x6X_33c5f5XeSsuKvYfgVgynO9qgFkBIBqL7SUR8q3QkvsMljEPrMEjY4CoZIY89PNzBzrDsXxmI9RoxjFwR1YGChhKd_seCztwKrveXhXE4Hhm3hCSe8K8ZhFhn5jI0OtL1UsWM4wMh3TJDwBgnsgN47_1pDWF4vG2y_-OS7-3G8PTLT716h3O7HnL3k4UiujDNYQskASXrTjlGp7dB-0HFHKdbn7iadRoRK0VLU8vpCCg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">🟢
 جایزه قرعه کشی تحویل 2 نفر از برنده ها شد.
@@ -568,7 +568,7 @@ YouTube</div>
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 9.2K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
@@ -652,7 +652,7 @@ Ad
 اگر تبلیغ‌دهنده محصول دیگری را به شما پیشنهاد کرد، این خرید ارتباطی به تبلیغ کانال ما ندارد و مسئولیتش با خودتان است.
 ممنون از همراهی شما
 🙏</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2890">
@@ -665,12 +665,12 @@ Ad
 ارتباط با ما
 پیام بدید تا مشکلی پیش نیاد.
 🙏🏻</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2890" target="_blank">📅 14:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2888">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Xo9lRzUSFJVf0w26zHxN6XIs1W_PuYG0aEpj0lTQcDnKsM-0ZIAWtyi_xV9B_sO5OMw27YvaqwWdTGmqAJm5IPpGAog8t9EVUsVLb6UjEHgaIvrY7vgW65Qi8x2d31cZFg2iK-XyEjGchFMM5MkDlB5LoDu6wv1DduA8KWTszlzBrzyJHyPVpf0hndUDZhOJ8_YEieRVWKOeI_P8G0U_c2R3cOJkQlyE9LODe07DFPkeUixWLzKCaIK7B3tn_4acnmQdL-Vzy7LbtqxHDd_jGvGK7uwycIgo6TG7GoWHFka69C9S42NmEAcoia-EfNWU_X97O1NDe1K9hiRFWELk5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QeuaxDV5Q-bMq6z6x87KNGe9Wf3tGbu7keI22LzkWqp98luKNLjmDPK3cUPT6fEh_0yRPpINAtktoN6nHxBcRia_RR5GRriDmYTTL9OwAuFpLZmUfYpZjzwHGvVA8_jhKP_TuWXQxIPR2K6xLHF1iqUAS5PyoKeMQ6x5oU670AscB4aQgwzSWVg2D74_nGksjKMUkzueNLkceJDu2yUjswFwotZbGZLro6IW7n4pmcUvLV8NmmsW5Q2-kHnvpqqwkQBVrfzON1j9zLSRRB1jsf7LYiGrTcq8PVM4hM5vdOuACDOcuCMA9z8xrb6UEWdljAMGSllIpCslCvmcrnvnng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📉
 خسارت ۶۷ همتی محدودیت‌های اینترنت به اقتصاد دیجیتال
 ستار هاشمی، وزیر ارتباطات، در گفت‌وگو با روزنامه ایران اعلام کرد محدودیت‌های اینترنتی تا اواسط اردیبهشت، بیش از
@@ -689,7 +689,7 @@ Ad
 توسعه هوش مصنوعی تنها متکی به مراکز داده داخلی نیست و نیازمند ارتباط پایدار با جهان، مدل‌های متن‌باز و خدمات ابری است./زومیت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2887">
@@ -785,7 +785,7 @@ Gemini 3.7 Flash
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2884" target="_blank">📅 17:31 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2883">
@@ -1324,7 +1324,7 @@ YouTube</div>
 👇
 🆔
 @techno_clan</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/iaghapour/2855" target="_blank">📅 19:03 · 16 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2854">
