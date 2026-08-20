@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 21:54:56</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-29 22:38:45</div>
 <hr>
 
 <div class="tg-post" id="msg-77973">
@@ -317,7 +317,7 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 86.4K · <a href="https://t.me/VahidOnline/77973" target="_blank">📅 20:18 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/VahidOnline/77973" target="_blank">📅 20:18 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77968">
@@ -342,7 +342,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 178K · <a href="https://t.me/VahidOnline/77968" target="_blank">📅 16:07 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 187K · <a href="https://t.me/VahidOnline/77968" target="_blank">📅 16:07 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77966">
@@ -361,7 +361,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 183K · <a href="https://t.me/VahidOnline/77966" target="_blank">📅 15:32 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 190K · <a href="https://t.me/VahidOnline/77966" target="_blank">📅 15:32 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77963">
@@ -381,7 +381,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 176K · <a href="https://t.me/VahidOnline/77963" target="_blank">📅 15:28 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 183K · <a href="https://t.me/VahidOnline/77963" target="_blank">📅 15:28 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77962">
@@ -396,7 +396,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 180K · <a href="https://t.me/VahidOnline/77962" target="_blank">📅 15:19 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 186K · <a href="https://t.me/VahidOnline/77962" target="_blank">📅 15:19 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77961">
@@ -429,7 +429,7 @@ realDonaldTrump
 توضیح چت‌جی‌پی‌تی: D-Day در اصل اصطلاح نظامی برای «روز آغاز یک عملیات بزرگ» است، اما در کاربرد عمومی تقریباً بلافاصله عملیات نرماندی در ۶ ژوئن ۱۹۴۴ و آغاز تهاجم گسترده متفقین در اروپا را تداعی می‌کند. بنابراین ترامپ با گفتن ECONOMIC D-DAY می‌خواهد بگوید این اقدامات اقتصادی قرار است چیزی شبیه یک حمله بزرگ، تعیین‌کننده و همه‌جانبه در جنگ اقتصادی باشد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 299K · <a href="https://t.me/VahidOnline/77961" target="_blank">📅 02:33 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/77961" target="_blank">📅 02:33 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77960">
@@ -464,7 +464,7 @@ pinned «
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 274K · <a href="https://t.me/VahidOnline/77959" target="_blank">📅 01:12 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 276K · <a href="https://t.me/VahidOnline/77959" target="_blank">📅 01:12 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77958">
@@ -488,7 +488,7 @@ VahidHeadline
 اما اتفاق دیگری که افتاده این است که مردم گزینه‌های جایگزین دیگری پیدا کرده‌اند که هرگز به آنها فکر نمی‌کردند: تگزاس، آلاسکا، لوئیزیانا و جاهای دیگر. علاوه بر این، تعداد بی‌سابقه‌ای خط لوله در حال ساخت است. بنابراین فکر می‌کنم تنگه هرمز دیگر به آن اندازه که در گذشته اهمیت داشت، مهم نخواهد بود.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 245K · <a href="https://t.me/VahidOnline/77958" target="_blank">📅 01:10 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 247K · <a href="https://t.me/VahidOnline/77958" target="_blank">📅 01:10 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77957">
@@ -505,7 +505,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 262K · <a href="https://t.me/VahidOnline/77957" target="_blank">📅 23:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 264K · <a href="https://t.me/VahidOnline/77957" target="_blank">📅 23:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77956">
@@ -533,7 +533,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 271K · <a href="https://t.me/VahidOnline/77956" target="_blank">📅 20:07 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 272K · <a href="https://t.me/VahidOnline/77956" target="_blank">📅 20:07 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77954">
@@ -554,7 +554,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 267K · <a href="https://t.me/VahidOnline/77954" target="_blank">📅 16:51 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 268K · <a href="https://t.me/VahidOnline/77954" target="_blank">📅 16:51 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77952">
@@ -589,7 +589,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 226K · <a href="https://t.me/VahidOnline/77951" target="_blank">📅 16:41 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 227K · <a href="https://t.me/VahidOnline/77951" target="_blank">📅 16:41 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77950">
@@ -602,7 +602,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 223K · <a href="https://t.me/VahidOnline/77950" target="_blank">📅 16:40 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 224K · <a href="https://t.me/VahidOnline/77950" target="_blank">📅 16:40 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77949">
@@ -615,7 +615,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 210K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 211K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77948">
@@ -646,7 +646,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 205K · <a href="https://t.me/VahidOnline/77947" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 206K · <a href="https://t.me/VahidOnline/77947" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77946">
@@ -659,7 +659,7 @@ VahidHeadline
 hra_news
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 254K · <a href="https://t.me/VahidOnline/77946" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/77946" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77945">
@@ -674,7 +674,7 @@ hra_news
 mofauae
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 330K · <a href="https://t.me/VahidOnline/77945" target="_blank">📅 23:53 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 331K · <a href="https://t.me/VahidOnline/77945" target="_blank">📅 23:53 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77944">
@@ -699,7 +699,7 @@ jnbarrot
 mb_ghalibaf
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 312K · <a href="https://t.me/VahidOnline/77943" target="_blank">📅 21:03 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 313K · <a href="https://t.me/VahidOnline/77943" target="_blank">📅 21:03 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77942">
@@ -747,7 +747,7 @@ NCEMAUAE
 UK_MTO
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 274K · <a href="https://t.me/VahidOnline/77939" target="_blank">📅 18:05 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 275K · <a href="https://t.me/VahidOnline/77939" target="_blank">📅 18:05 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77937">
@@ -846,7 +846,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 229K · <a href="https://t.me/VahidOnline/77932" target="_blank">📅 16:17 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 230K · <a href="https://t.me/VahidOnline/77932" target="_blank">📅 16:17 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77931">
@@ -1371,7 +1371,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-77879">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ae-lxaw4JcZRp4_1IxnfggMAmX1HVe4axfcBBhNVdfXoCkmcdP_LqKA2rUfr-aNhTirFTLlNYaRVok-olUz-mwMb4UafACgCzTamZ6WGF0xQtJtGuOBvuxaTNkJQS6EKgmb2ZJo-a8ha4u5HDBYe1pnfd25VZ5_WUuFX7AKQHBA33SsLqIhfvPAfsxfuwNJM6BKGLfPVb4u5OgSyHFHUd6MAjnOYrssMr7m8MYSIIkk0_41UB_iTw8jP-zxmblvvP1unavp-nP5JE-pScgatvpVaGtSrsPiGpghTh2HT9hQ0UKo9AzIGRBgl4QpfCEqlFfZ2UHG8ees8TZImc49drA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZMLIBN-tj_gDmiug6tUqkABDYHyAwjss-yZtxVik9F0BN8EDqqVD5wpGfgJfwRsC88wHgB41y1zsX8inos4IZxW5h7k3MeV21FVn3Zn5d9IOhuvLTdzoOtNcoGERsM02bfpZOnJUDeQ7qB7csfZtubfralFabcyRG09WRQ_iuztlckyZlxYwDijjXhjI3mf21qU1nekvoEm92vr7aypvJWCzVJ0iwxl3ado83IYCrC5gLsKwtVAxa8kdccR0YcWRTgjPAUYnl2GBVQvfWRllX4X0YlxXI6pWwnpHrfin86OuQpzzDnxvVy2U1pzig8qUXX3yUumI--yJIsCvX1eerA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ماجد محمد الانصاری، سخنگوی وزارت خارجه قطر، ادعای جمهوری اسلامی درباره بازداشت سه خلبان ایرانی را رد کرد و گفت نیروهای قطری پس از جست‌وجوی محل سقوط جنگنده‌ها، پیکر یکی از خلبانان را پیدا کرده‌اند.
 الانصاری روز شنبه ۲۴ مرداد در شبکه ایکس نوشت ادعاهای مطرح‌شده درباره بازداشت خلبانان ایرانی «به‌طور قاطع» نادرست است و از انتشار این اظهارات، به‌ویژه در شرایطی که تلاش‌های دیپلماتیک برای کاهش تنش در منطقه ادامه دارد، ابراز تعجب کرد.
 سخنگوی وزارت خارجه قطر گفت پس از ورود خلبانان مورد اشاره به حریم هوایی قطر، با آنها تماس گرفته شد و مسیر هدف‌گیری نیز بررسی و تایید شد. او افزود پس از رعایت قواعد درگیری و برقراری تماس با خلبانان بدون دریافت پاسخ، قطر اقدامات لازم را برای دفاع از خاک خود و مطابق با الزامات قوانین بین‌المللی انجام داد.
@@ -1767,7 +1767,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77854">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/BuQPv6cHPNh5EhHKNEjhQy-jlo5iC0TtlAgaWBL9gG87zxkMxSEs-aG02qAwNRJ1Df-HFoAVveCLR_ZmxlXWgoiHezkN01tLQXngKPj-jLCDqrfCRJCbYcH8xIiI5ZtrIaJ26Mad6e98Xs1DvM3nhWTa0eGwrWKrTivkwOGSps6AyfvmXiIRFt74CsJupdc5M9ukxEukh8cmEhjkyjw5IbYkp8JkPnH0-exiMXjUEUrkRudan0DkCx0AvWVu_YLWB3mF9ej2uw2L6FprAEINYdTreCEehlqnjHgZiT5Xj_JLDEvaCVfePxd4jQWcJuPbsV6wZRYToeRj9y4moLRFaw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/R4H5bcsGSJ3NNNZgVxwT2asV2j-S-d0hY6M-BEmf-o-VhAUcTwujk5zL1PpI5OhRbf8dEAtgUlOfXFwy_EMurCGIDpgvuY_gMEs6jA9l94uapSfZcVdaTlaNxua4L9Sv9Cnk4m37Y5ZeO_ysCPXZtiP0c77yTYyGTO9ld2hFH3hvpjRaSwH8Zwk6cyt2Wwkoeh5B-7WUcV7r-_Ctu5xmYX2kd-Qu6p3Nb17P8wPz5_3ANQfpQ8Hm1nq1LMbyA5-CSPFQmHp8t_3LzazZ4OPbcDCiZKomBwD_UEoHhP0Ibw49sR3ueQToGole81X0JZJTFeqLjEJb92Mnl23iuoqjKQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فرماندهی مرکزی ایالات متحده، سنتکام، روز پنج‌شنبه ۲۲ مرداد از آغاز روند تشکیل نخستین یگان چندملیتی و چندحوزه‌ای پهپادهای تهاجمی خبر داد.
 این یگان با نام «نیروی ویژه فالکون استرایک» از پهپادهای یک‌طرفه تهاجمی و سامانه‌های بدون سرنشین هوایی، سطحی و زیرسطحی دریایی استفاده خواهد کرد و نیروهایی از آمریکا و شرکای منطقه‌ای در آن مشارکت خواهند داشت.
 سنتکام اعلام کرد رایزنی و دعوت رسمی از کشورهای شریک در منطقه برای پیوستن به این یگان آغاز شده است و با پیوستن آن‌ها، «فالکون استرایک» توانایی‌های پهپادی تهاجمی در خاورمیانه را در قالب یک ساختار چندملیتی و چندحوزه‌ای ادغام خواهد کرد.
@@ -1867,7 +1867,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-77840">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qGig4NE1NFGUv2jsz5HlZ9kDHTj9HZTG_sGzvPyin0WwxR5xAgUqr3eehlYAmPlSWQKsJGRqZkTSJLiZRvrgN3jqbsLIEOyfJjY1n-7OSi4854HaUQszAzD-Y6c30J0fGmDpeGVh31TvWJrwZZkgX2K0gKNQdQKUkcUcp6wEs0iqMrvkCnKGv8jqNzEADzZEfSx5KHDkM7xcnMMip8vgq6whqPBbK3okSeEnGzpJW7DdeRGpYx_weQXcvNofUrZFT6gJU1z9cokivcYLCGxrbSYKla0XKs30ouQcYsvGJUNdGkRWqIrmo7i68LrpTZFeLvV3zU96iNvC2P5_dUhSpA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ax9g22K2mV5Uuoq-AWN0DBqFeuKhy3lc7e8MRuZQ032PN8KrV3N4x4d10NORA14-a_XcQYGBshcajeiMzD9qiDpEel0t1ivvPKbmDAjcFsHRr8YCdjaHKpLsJZPUrPdB4f359NCEhYYkvnGXOv80k0x6BP7MbFv7SLiO7NPk7EX2Pz2jQC1nylcRKTQwPTUmv3ZJvAsI097bnyL10TREPFcb9u2t7zMeUMy9d1MMmZKgbcjBZLLboUKNA5mu2-W-akAnpEby7IzO9Wo-KMM00ivaMX5m-yfx83Cof3ERGMTLCmoFqnlSRVJulgrlkPgkeac3a742Mqti84Aze8T-zw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معاون هماهنگی امور عمرانی استاندار کرمان از آغاز عرضه بنزین با نرخ تمام‌شده پالایشگاهی، هر لیتر ۸۷ هزار و ۲۰۰ تومان، در ۲۰۴ جایگاه سوخت این استان خبر داد.
 به گزارش ایسنا، علی‌اصغر ذاکری‌هرندی اعلام کرد که عرضه بنزین بدون یارانه از ساعت ۲۴ چهارشنبه ۲۱ مرداد، بامداد پنجشنبه، در جایگاه‌های سوخت استان کرمان آغاز می‌شود.
 @
@@ -2125,7 +2125,7 @@ VahidOnLive
 
 <div class="tg-post" id="msg-77818">
 <div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XRGO8ZZnxw49it-2UWS9BCTZ0xM-Ww8JqUsU2pYm6fK39ySRX8MbLci8YQwHyMDjnjA_0DBqJPmgOsNI9wEAz3G4z_JHzQy9rFsvWt1Oq2UUox9254Qc4IV2miA-fhVHeZ2Trn3B4W2jaSxEtzLldJP3JLzAooKkOAgL2X0wSYX0_hsRWstmPRLi9QZi8OczMriNN4jtT5XxpDmoeWKwRaTNxPsdFmAQ0GrWsA0eTNYp2ue69zjkv8K5vQKHSMZJGFl4T5q4AauUxyG62rCDfSNH_yYQExFOC28LYjusIq95iJl4Oz1D_V4yasEFqu4huwl6AndCrdTS6XsCAMn-gQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/U6geAXRymy4s9IhrupnfFts4EdCksxZ8OTDk7H4eiLwlt5C_lcnLtLUlvNFn1KT6CxTwJKQIJSUbdWa9KJdzYVcPibDoAEspM6qNatjCK5Aff0mvvjNy9rTW2N06rCtYjK7D0WX2CSKGZCk8oBUbyawn5tVjTXBPDuvp8fS37Md5jF4Rp6j7ZMXxk1g4DJf4Ky1ml7fNoxv-hGn-ZwHlk-3PAub-SuXSbS0S-ZGc7XP8gm5WNj-a9_5VQubl9UctC3BaRnuu-aTF1cFIstg5oj2Qddi1JmYEifB0jRoM4CoJa52m6pv-ElpC48-O5_dWEUtJ8dH2Y709RWLbuVsyyQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک مقام آمریکایی و منابع امنیت دریایی از هدف قرار گرفتن یک کشتی کانتینربر با پرچم پاناما در دریای عمان خبر داده‌اند؛ یک مقام آمریکایی می‌گوید این کشتی به هشدارها برای توقف توجه نکرده و در تلاش برای شکستن محاصره دریایی بنادر ایران بوده است.
 همزمان، روزنامه وال‌استریت جورنال به نقل از یک مقام آمریکایی گزارش داد که یک بالگرد نظامی ایالات متحده پس از آن‌که خدمه کشتی هشدار نیروهای مأمور اجرای محاصره بنادر ایران را نادیده گرفتند، به سکان این کشتی شلیک کرد.
 @
