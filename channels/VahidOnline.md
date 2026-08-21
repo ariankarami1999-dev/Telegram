@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 11:58:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 12:37:05</div>
 <hr>
 
 <div class="tg-post" id="msg-77976">
@@ -305,7 +305,7 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 207K · <a href="https://t.me/VahidOnline/77976" target="_blank">📅 01:47 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 214K · <a href="https://t.me/VahidOnline/77976" target="_blank">📅 01:47 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77974">
@@ -319,7 +319,7 @@ VahidHeadline
 VahidOnLive
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 197K · <a href="https://t.me/VahidOnline/77974" target="_blank">📅 01:46 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 204K · <a href="https://t.me/VahidOnline/77974" target="_blank">📅 01:46 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77973">
@@ -344,7 +344,7 @@ VahidOnLive
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 258K · <a href="https://t.me/VahidOnline/77973" target="_blank">📅 20:18 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 262K · <a href="https://t.me/VahidOnline/77973" target="_blank">📅 20:18 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77968">
@@ -369,7 +369,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 267K · <a href="https://t.me/VahidOnline/77968" target="_blank">📅 16:07 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 269K · <a href="https://t.me/VahidOnline/77968" target="_blank">📅 16:07 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77966">
@@ -388,7 +388,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 254K · <a href="https://t.me/VahidOnline/77966" target="_blank">📅 15:32 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/77966" target="_blank">📅 15:32 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77963">
@@ -408,7 +408,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 239K · <a href="https://t.me/VahidOnline/77963" target="_blank">📅 15:28 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/77963" target="_blank">📅 15:28 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77962">
@@ -423,7 +423,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 252K · <a href="https://t.me/VahidOnline/77962" target="_blank">📅 15:19 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 254K · <a href="https://t.me/VahidOnline/77962" target="_blank">📅 15:19 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77961">
@@ -456,7 +456,7 @@ realDonaldTrump
 توضیح چت‌جی‌پی‌تی: D-Day در اصل اصطلاح نظامی برای «روز آغاز یک عملیات بزرگ» است، اما در کاربرد عمومی تقریباً بلافاصله عملیات نرماندی در ۶ ژوئن ۱۹۴۴ و آغاز تهاجم گسترده متفقین در اروپا را تداعی می‌کند. بنابراین ترامپ با گفتن ECONOMIC D-DAY می‌خواهد بگوید این اقدامات اقتصادی قرار است چیزی شبیه یک حمله بزرگ، تعیین‌کننده و همه‌جانبه در جنگ اقتصادی باشد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 327K · <a href="https://t.me/VahidOnline/77961" target="_blank">📅 02:33 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 328K · <a href="https://t.me/VahidOnline/77961" target="_blank">📅 02:33 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77960">
@@ -491,7 +491,7 @@ pinned «
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 294K · <a href="https://t.me/VahidOnline/77959" target="_blank">📅 01:12 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 295K · <a href="https://t.me/VahidOnline/77959" target="_blank">📅 01:12 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77958">
@@ -532,7 +532,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 277K · <a href="https://t.me/VahidOnline/77957" target="_blank">📅 23:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 278K · <a href="https://t.me/VahidOnline/77957" target="_blank">📅 23:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77956">
@@ -642,7 +642,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 218K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 219K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77948">
@@ -686,7 +686,7 @@ VahidHeadline
 hra_news
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 283K · <a href="https://t.me/VahidOnline/77946" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 284K · <a href="https://t.me/VahidOnline/77946" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77945">
@@ -726,7 +726,7 @@ jnbarrot
 mb_ghalibaf
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 319K · <a href="https://t.me/VahidOnline/77943" target="_blank">📅 21:03 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 320K · <a href="https://t.me/VahidOnline/77943" target="_blank">📅 21:03 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77942">
@@ -1862,7 +1862,7 @@ VahidOOnLine
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/k_j43FIlmk6McD7GPdWhg4Q5fIeQEqdfePtjsta0dUwztje-3TfAuo7nluJlC48VXqivg3-xoNVSiTkd53mTbN_oLOimbcdb7XjY_W5356GBDoR3YjI1Y0T7fxCZSP_zBIbi8pyw-LTbjpfufMkOL_o93pxbpKA3xDaKDkc_fNWL6kslt93Kq3JG4eIddr7ObXEZEE6CJAkfyPwAH02k3xPjlBCw6-guJG05veibPl8TBU4-EiNuNM43ByN5FkQE9-0iFiPFjOBZyMrYzC7zQXxhuw8K_SJjiZdRSJ_xRDGAQogTOw-m4TH_dW4omrYlUp0HbgpXrL5tpg9FSYWZEQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/uhb09o4s3RWY4ecjQyYHed9WrUdE-mKDroBVVx78XJJGHNhDnw7Z29g2ePAmZ3GvUDyFQvJo4IPDtz7vuUTJoovowjto39y_dYWbHV7nLnjAY7fbYu-YJDfRhpmgWsEqRTkE_TguHZr23XYhGVmFtHxuh5KBrybf2kJxc1jGcgOLeve3nWHjMxWQKIWrk5m079bI-1H7_wK0GR8nHNyYR2hg8uGJHSuGpPB71Qg4LeIGPpFKfYsdJCBEjiGUn6yVFWKUq3HpJFw4foWLS2kz8k3MYqAKOTmvmKXJA-DRXTG04i5rE8aRX1tYyNTnKVRtMB1ptRNHxl4nDB2VocsjKg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/YKQD0AgYX9G-YxbPfruggaUihHytaW9wZJX5VNzH7wT47DtqUrJp5cvZMk0Uj0NeEwriIx6c8QtDhRsENo9Y9G_GZYlJ9eSKSgnB1Xphzu1gKJLhSvgog9RmiEa28io3QjPA-apsp0CVYUrJpeOAFwOn6fyNMRDAPMa8XWuuY5WmV6pV9Qt__57ETqgGgqpDrdhf2mm0gyxPSFqmxszAeMqoJoT6hWhso6d8CpXhmMiLSHxWflc3EmmX8FwnBNp03XG1FaBEgHnfh79pKQATxAMhIo4e-Cz7CJ9MRz5vFPM-fEQFGHWr6_ftvqgQBHO_fFzx133TgHgvPvUUwg1kKA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/NsD0lgnTtVV8j8PP_Pdex12kAUPmFV7c2TyoNvNrumLVQiJFqTI02Hkuttm1J08VeYO61vUWb0olk6feE61efZYjsv19t0Q7J0wfPBIDMPVPzr4vbSofqbjP20FrsCGnEWpE9c_z3zRY2wBQNp5DoxsU3BK3TIC0q4hvTeNF2Ha7p4pEibCO0nDb037fhJpSC_JeYQTKVCxzmDHmGfAxNqeO4_KhUF3jPpnZ4Ld0je_hza8-esSwab1A5hhtT99XiOGphU3lJaLMvGo7QYnWVTXJaqR2sMgTfjq3nrVbb3STBREBNEg_btgaoxlG2brrEEzlOrVi8r8N7V-G86U5Og.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BcmtHOLqd7-cRo30RvQ-GL-QjjEqu09HJ5RLiPs_VEq-NmthDzPTFA-CesB9Gm4KVNxi2GnrkOCBoK9n5wYGiKcZ2t-zQlvjVpscgRKIk6HJU6C4fXDFQ9Xdeh9STKcLSC_wZDpQh3tod5_B2gXUBYTwjHuMr6hAqFfSSX73tRZ_ooaNPKaLNu8IOd_jOwe0wAbCms6FbEyUjtrIgO6AQJhsJgC12s1oepstynCMljd-zwVtJ5e9eDdO8PZZHhmTfd84910WsQtvB4YEjjlPPa7U4L5PKxxtJHRxmKbHPC0LthkUyleJzzXppGatXg1YQzkyWpRO_NK-tFqsMSldSA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Mco9Q7AdWAYMKyAdDPjxA-L10OmWdnS-9kGJj4iP-gR3r-wwK3FrpZw1_Idedvayxeu7C3mug-KC9zjaJwweyrE9G3DnTbF0Cd0UCOo7EsIIJbVBqJVfcD353TlLPL2KSS9yOfcxnvPKGUD-zHthhwcoetoUl2q7Ggbne90L7BMbmeU4vSCsxBtrKwcmMWYk_OaYj5diVU5bkrp2A8ShQBos-rQYBIteFacAew0-226TreL_7G9Nkdjq_qa9hUUr_KkCEY5vpNrzWX4TfJNuNCRji017e3HD3eqNy5eN5VDaluqy6IWLvMyWKsP3Q2O2Uo_CupUymdI9mJsxz93TIg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/V72EqF89PMwdPBUUXy6fzfokry3_HJ21DISoLk_igCSGyOGnF6oDCqGCxVuu9RrqUbMr7RxytYVtiLqQCAFpwlty1fMYWkHEpUViyU-bW9KDQXm9PaG-vcLzDpfsY_6BLUKvG_5b5Q_q9G_CZXZCSC6YUj5srwGnGgf6bS58BkgQxLKUawI1JvnsJGQlrdT8stfF-fo8N8e1VmzlqFXltVh4yeFCsCj7KaS_D6Gy1Vd1jtL1QDYShe5QEovAWoTR5awZSJWuMenhmDkS4LiMFctkYqAVFjGFBNau7GlKwonvBNZ4z-6kipifQbO3G4eMTAbz9ra6tbsJv-kDhH_Ovg.jpg" alt="photo" loading="lazy"/></div>

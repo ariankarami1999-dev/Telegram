@@ -292,14 +292,14 @@
 <a href="https://t.me/naya_foriraq" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اخبار ؛ امن ؛ دراسات ، خرائط ، OSINT ، تسريباتلا تظن الإدارة الأمريكية انها قادرة على إسكات شعوب المنطقة والله لن نسكت .. يوما ما سوف نعيد أيام عماد مغنية وسوف تبث العملية على هذة القناة ..🪪للمراسلة وارسال الاخبار@Nayaforiraq_bot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 11:58:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 12:37:05</div>
 <hr>
 
 <div class="tg-post" id="msg-88253">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">🇮🇶
 رئيس الوزراء العراقي:  إغلاق مضيق هرمز يمثل تحدياً كبيراً.  العراق يمر بفترة عصيبة ولدينا أكثر من حل للمشكلات الاقتصادية.  جميع القوى السياسية متفقة تماما على المضي في حصر السلاح بيد الدولة وجار العمل على آليات تسليم السلاح وإنهاء هذه الحالة تماماً.</div>
-<div class="tg-footer">👁️ 1.12K · <a href="https://t.me/naya_foriraq/88253" target="_blank">📅 11:50 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.63K · <a href="https://t.me/naya_foriraq/88253" target="_blank">📅 11:50 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88252">
@@ -309,7 +309,7 @@
 إغلاق مضيق هرمز يمثل تحدياً كبيراً.
 العراق يمر بفترة عصيبة ولدينا أكثر من حل للمشكلات الاقتصادية.
 جميع القوى السياسية متفقة تماما على المضي في حصر السلاح بيد الدولة وجار العمل على آليات تسليم السلاح وإنهاء هذه الحالة تماماً.</div>
-<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/naya_foriraq/88252" target="_blank">📅 11:43 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/naya_foriraq/88252" target="_blank">📅 11:43 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88251">
@@ -318,7 +318,7 @@
 مؤسسة "سي آي إس":
 أن الولايات المتحدة قد استهلكت حوالي نصف مخزونها من أنظمة الدفاع الصاروخي قبل الحرب، وأنها تمتلك الآن ما يقرب من 800 نظام "باتريوت"، بينما تنتج روسيا وحدها أكثر من 100 صاروخ باليستي في الشهر.
 يتزايد تساؤل الحلفاء في أوروبا وآسيا والخليج عما إذا كانت واشنطن تمتلك القدرة والإرادة السياسية للدفاع عنهم في وقت واحد، وخاصة تايوان وحلف شمال الأطلسي.</div>
-<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/naya_foriraq/88251" target="_blank">📅 10:57 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.28K · <a href="https://t.me/naya_foriraq/88251" target="_blank">📅 10:57 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88250">
@@ -326,7 +326,7 @@
 <div class="tg-text">🇮🇷
 قائد هيئة الأركان العامة للقوات المسلحة الإيرانية "اللواء عبداللهي":
 القوات المسلحة في الجمهورية الإسلامية الإيرانية، بفضل استعدادها الشامل والحديث في جميع المجالات البرية والبحرية والجوية والدفاع الجوي والفضاء والسيبرانية، ستواجه أي أخطاء حسابية وتهديدات تقليدية وجديدة من الأعداء بردود ثورية ومؤلمة ومدمرة.</div>
-<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/naya_foriraq/88250" target="_blank">📅 10:54 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.5K · <a href="https://t.me/naya_foriraq/88250" target="_blank">📅 10:54 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88249">
@@ -341,7 +341,7 @@
 <div class="tg-text">🇮🇶
 🇮🇷
 رئيس البرلمان الإيراني خلال زيارته لمرقد الشهيد القائد أبومهدي المهندس، يكرّم عوائل الشهداء الذين ارتقوا نتيجة العدوان السعودي الأميركي الغاشم على مقرات الحشدالشعبي.  #أخوتنا_قوتنا</div>
-<div class="tg-footer">👁️ 5.72K · <a href="https://t.me/naya_foriraq/88249" target="_blank">📅 10:31 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.19K · <a href="https://t.me/naya_foriraq/88249" target="_blank">📅 10:31 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88248">
@@ -349,7 +349,7 @@
 <div class="tg-text">🇮🇶
 🇮🇷
 حضور رئيس البرلمان الإيراني محمد باقر قالیباف عند مرقد الشهيد أبو مهدي المهندس في النجف الأشرف.  #أخوتنا_قوتنا</div>
-<div class="tg-footer">👁️ 6.21K · <a href="https://t.me/naya_foriraq/88248" target="_blank">📅 10:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.56K · <a href="https://t.me/naya_foriraq/88248" target="_blank">📅 10:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88247">
@@ -358,7 +358,7 @@
 🇮🇷
 حضور رئيس البرلمان الإيراني محمد باقر قالیباف عند مرقد الشهيد أبو مهدي المهندس في النجف الأشرف.
 #أخوتنا_قوتنا</div>
-<div class="tg-footer">👁️ 6.46K · <a href="https://t.me/naya_foriraq/88247" target="_blank">📅 10:07 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.65K · <a href="https://t.me/naya_foriraq/88247" target="_blank">📅 10:07 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88246">
@@ -374,7 +374,7 @@
 🔻
 جرف النصر للموت ما ننطيها
 لقطات قليلة التداول تنشر لاول مرة تظهر جانب من استبسال كتائب حزب الله وسرايا الدفاع الشعبي في العراق بعمليات تحرير الناحية ومنطقة عزيز ويس والفاضلية بعد فتح ساتر ياحسين باتجاه قلب المنطقة .. اللقطات تظهر استخدام الصواريخ الارتجالية الأشتر وصواريخ ال 107 ما تعرف بالكاتيوشا و ضربات ايضا بصواريخ ال SPG 9 و ال 106 إلى جانب اشتباكات من مسافة صفر بالبنادق الخفيفة والمتوسطة .</div>
-<div class="tg-footer">👁️ 7.92K · <a href="https://t.me/naya_foriraq/88246" target="_blank">📅 09:10 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.91K · <a href="https://t.me/naya_foriraq/88246" target="_blank">📅 09:10 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88244">
@@ -382,7 +382,7 @@
 <div class="tg-text">🇺🇸
 ترمب
 : لو كانت إيران قد امتلكت سلاحا نوويا لكانت استعملته ولقضت على إسرائيل وكل الشرق الأوسط ، لدى إيران بعض الصواريخ والمسيرات لكن قدرتهم على تصنيعها منخفضة للغاية مقارنة بما كانت عليه قبل 5 أشهر، إيران تحولت إلى قوة متسلطة في الشرق الأوسط تتنمر على الجميع.</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/naya_foriraq/88244" target="_blank">📅 02:04 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/naya_foriraq/88244" target="_blank">📅 02:04 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88243">
@@ -398,7 +398,7 @@
 سفير بريطانيا  لدى العراق عرفان صديق
 ▫️
 ‏نوجه رسالة الى الفصائل سلموا سلاحكم وستكونون أصدقائنا مثل احمد الشرع.</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/naya_foriraq/88243" target="_blank">📅 00:52 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/naya_foriraq/88243" target="_blank">📅 00:52 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88242">
@@ -407,7 +407,7 @@
 🇮🇶
 🇸🇾
 🇸🇾</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/88242" target="_blank">📅 00:22 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/naya_foriraq/88242" target="_blank">📅 00:22 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88241">
@@ -416,7 +416,7 @@
 <div class="tg-text">🇮🇷
 🇦🇪
 صور اقمار صناعية تظهر تضرر بشكل كبير في مصنع مواد بترو كيميائية في دبي بفعل احد ضربات الصاروخية الايرانية.</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/naya_foriraq/88241" target="_blank">📅 23:52 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/naya_foriraq/88241" target="_blank">📅 23:52 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88240">
@@ -427,7 +427,7 @@
 مشکل، به‌طور خلاصه، تفاوت در سطح فرهنگی و علمی بود
 پس از آن‌که آمریکا دموکراسی را برای عراق به ارمغان آورد، عراق بر مبنای قومیت و مذهب تقسیم شد؛ نتیجه‌ای طبیعی از سیاست استعماریِ «تفرقه بینداز و حکومت کن» و نوعی الگوبرداری از وضعیت لبنان. با این تفاوت که در عراق، رئیس‌جمهور کُرد است، نخست‌وزیر شیعه و رئیس پارلمان عربِ سنی.
 مصیبت بزرگ‌تر این است که طبق آنچه گفته و نقل می‌شود، رئیس پارلمان رانندهٔ کامیون تریلی در مسیر الانبار–اردن بوده است. یعنی در همان زمانی که قالیباف هواپیماهای مسافربری را هدایت می‌کرد، این شخص مشغول رانندگی، تعویض روغن خودرو و تخلیهٔ بار بوده است.</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/naya_foriraq/88240" target="_blank">📅 23:47 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/naya_foriraq/88240" target="_blank">📅 23:47 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88239">
@@ -437,7 +437,7 @@
 🇮🇶
 🇸🇾
 🇸🇾</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/naya_foriraq/88239" target="_blank">📅 23:40 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/naya_foriraq/88239" target="_blank">📅 23:40 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88238">
@@ -452,7 +452,7 @@
 <div class="tg-text">🇺🇸
 ملانيا زوجة ترامب تظهر:
 سمعت أنكم اشتقتم إليّ. ها أنا ذا.</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/naya_foriraq/88238" target="_blank">📅 23:29 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/naya_foriraq/88238" target="_blank">📅 23:29 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88237">
@@ -466,7 +466,7 @@
 </div>
 <div class="tg-text">🇺🇸
 حدث امني خطير في امريكا   اعتقال امرأة للاشتباه في تخطيطها لتفجير قنبلة في مبنى الكابيتول بولاية نيويورك .</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/naya_foriraq/88237" target="_blank">📅 23:11 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/naya_foriraq/88237" target="_blank">📅 23:11 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88236">
@@ -474,13 +474,13 @@
 <div class="tg-text">🫡
 أنا تحت راية أبا الفضل العباس
 We will never forget Ya Abu Fathel</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/naya_foriraq/88236" target="_blank">📅 22:47 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/naya_foriraq/88236" target="_blank">📅 22:47 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88235">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">رويترز : قال مسؤولون كبار إن القوى الإقليمية لكرة القدم في العالم تناقش إمكانية طرح اقتراح بحجب الثقة عن رئيس الفيفا جياني إنفانتينو بعد أن أغضبهم بخططه لبيع حصة في كأس العالم لمستثمرين من القطاع الخاص</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/naya_foriraq/88235" target="_blank">📅 22:20 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/naya_foriraq/88235" target="_blank">📅 22:20 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88234">
@@ -488,13 +488,13 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-text">🇮🇶
 مصدر امني لنايا
 اشتباكات عنيفة شرق العاصمة بغداد في محاولة اعتقال احد قيادات جيش المهدي " ابو درع اللامي " .</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/naya_foriraq/88234" target="_blank">📅 22:07 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/88234" target="_blank">📅 22:07 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88233">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">زلزال قوي يضرب بيرو بدرجة ٦٫٨.</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/naya_foriraq/88233" target="_blank">📅 21:37 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/naya_foriraq/88233" target="_blank">📅 21:37 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88232">
@@ -502,7 +502,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-text">🇺🇸
 حدث امني خطير في امريكا
 اعتقال امرأة للاشتباه في تخطيطها لتفجير قنبلة في مبنى الكابيتول بولاية نيويورك .</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/naya_foriraq/88232" target="_blank">📅 21:28 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/naya_foriraq/88232" target="_blank">📅 21:28 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88231">
@@ -511,7 +511,7 @@ We will never forget Ya Abu Fathel</div>
 🇹🇷
 الاعلام العبري:
 المستوى الأمني أوصى بالتهدئة مع تركيا وعدم فتح جبهة إضافية.</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/naya_foriraq/88231" target="_blank">📅 21:10 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/naya_foriraq/88231" target="_blank">📅 21:10 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88229">
@@ -525,7 +525,7 @@ We will never forget Ya Abu Fathel</div>
 </div>
 <div class="tg-text">🇮🇶
 انتشار كثيف للقوات العسكرية على سريع القناة بالعاصمة العراقية بغداد.</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/naya_foriraq/88229" target="_blank">📅 21:06 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/naya_foriraq/88229" target="_blank">📅 21:06 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88228">
@@ -539,14 +539,14 @@ We will never forget Ya Abu Fathel</div>
 </div>
 <div class="tg-text">🔻
 نتائج الحرب على إيران.. النفط يصل إلى 94 دولار للبرميل الواحد.</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/naya_foriraq/88228" target="_blank">📅 20:57 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/naya_foriraq/88228" target="_blank">📅 20:57 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88227">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/A-_Kq70Aov4GhXOOfdRY5Q6Ju2cLe-PCWpyZkY0bO32YFoWWVrft3Y81yZS76GVnm-3PWnaWVnfIGJDECq5mAf86vvruRVcqwAEm1kjaXQpHCo3J6eIGjrLguSvscdkBzdYuJTFHO_Q4-NQg0e13AOvBwVPsfQpHFHZRvLiLu6quNQlnOFKy35wsTHUqMjWRLgdxabAOeihlE3sB62iJKwh4AEnGUfffYJX6wl0EOnMPmvbGFCc1R6N8zCsPcxRhKxTimOa_afAVupYEQ_1S_JCcNeki2kv_a34YfsemrEynhqXin3AXkzBLFsURH-E3FtGDdkbocvVPrulFt1eh0g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">المحور الإماراتي في العراق يرد على زيارة قاليباف بصورة فوتوشوب  من تجيب قاليباف من كبيسة</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/naya_foriraq/88227" target="_blank">📅 20:01 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/naya_foriraq/88227" target="_blank">📅 20:01 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88226">
@@ -555,7 +555,7 @@ We will never forget Ya Abu Fathel</div>
 🇮🇷
 وزير الخزانة الأمريكي بيسنت بشأن إيران
 : سنفرض أشد العقوبات في التاريخ، وسنسقط هذا النظام.</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/naya_foriraq/88226" target="_blank">📅 18:43 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/naya_foriraq/88226" target="_blank">📅 18:43 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88225">
@@ -596,7 +596,7 @@ We will never forget Ya Abu Fathel</div>
 </div>
 <div class="tg-text">🔻
 مناشدة عبر بوت نايا:  نحن مجموعة من صناع المحتوى نناشد الهنود والباكستانيين بالانتقال من الرياض الى نجران. نحن من بعد الله نعتمد عليكم في توثيق الانفجارات والدك اليمني على رؤوس ال سعود ومصالحهم الاقتصادية. نرجو منكم النزوح الى نجران والجنوب خلال الفترة المقبلة…</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/naya_foriraq/88222" target="_blank">📅 18:06 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/naya_foriraq/88222" target="_blank">📅 18:06 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88221">
@@ -604,13 +604,13 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-text">🇮🇱
 اعلام العدو:
 يراقب المسؤولون الأمنيون الإسرائيليون الأتراك ليس فقط على البر، بل في المجال البحري أيضاً. ووفقاً للمصادر، تُرسل تركيا سفناً حربية إلى مناطق في الشرق الأوسط لم تتواجد فيها من قبل، وذلك لإظهار وجودها، وفي بعض الحالات على مقربة من السفن الحربية الإسرائيلية.</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/naya_foriraq/88221" target="_blank">📅 18:02 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/naya_foriraq/88221" target="_blank">📅 18:02 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88220">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">القوات المسلحة اليمنية تنفذ عمليتين عسكريتين بطائرتين مسيرتين الأولى استهدفت هدفاً حساساً للعدو السعودي في مطار نجران والأخرى استهدفت أرامكو نجران وقد حققت العمليتان هدفيهما بنجاح ردا على انتهاك العدو السعودي لأجواء محافظة صعدة بطيرانه المسير</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/naya_foriraq/88220" target="_blank">📅 17:42 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/naya_foriraq/88220" target="_blank">📅 17:42 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88219">
@@ -622,7 +622,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-post" id="msg-88218">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">الله اكبر</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/naya_foriraq/88218" target="_blank">📅 17:32 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/88218" target="_blank">📅 17:32 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88217">
@@ -630,7 +630,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZocURKqrsswnjKbYXMj9_PsKAUAFSSRuOk4IMRl205d6ABkpoP-ZrPvL_Ks0hVdmjcqM0y-_6QmknR6r5Sz1rla9s12lua3iuZWN67q5-lK6SxUSQHJiBCxQQvQLACLVE23yxmCcBYZLBOGPAudWNKgJHtx27tBSkhc0P0Ofbht7ox9yf9YVAmzTQkGeHxfmVvsW16Zi7muslVzsmaOKA14qXIp848tCwARsXZlMFKqkz-P-99jIXTy_ITMmz58uHL4PB3uA0lP4L_rXvole2xXLsOt49NQvu9VpHSQOq7YYOqiJSwMXRvqwLS-HA4VA77nvnL9UloGw1EKe9pDfww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇶
 هيئة الإعلام والاتصالات العراقية تغلق الموقع الرئيس لشركة كورك في العاصمة بغداد وثلاثة مراكز مبيعات أخرى.</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/naya_foriraq/88217" target="_blank">📅 17:06 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/naya_foriraq/88217" target="_blank">📅 17:06 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88216">
@@ -639,7 +639,7 @@ We will never forget Ya Abu Fathel</div>
 🇮🇶
 اخوتنا قدوتنا
 🇮🇷</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/naya_foriraq/88216" target="_blank">📅 16:50 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/naya_foriraq/88216" target="_blank">📅 16:50 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88215">
@@ -660,7 +660,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-post" id="msg-88213">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">السلام على أبا الفضل العباس</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/naya_foriraq/88213" target="_blank">📅 13:54 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/naya_foriraq/88213" target="_blank">📅 13:54 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88212">
@@ -676,7 +676,7 @@ We will never forget Ya Abu Fathel</div>
 </div>
 <div class="tg-text">سليت سيفي
 #شاركها</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/naya_foriraq/88212" target="_blank">📅 13:53 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/naya_foriraq/88212" target="_blank">📅 13:53 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88211">
@@ -696,7 +696,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KhUmasfSGscu_iruUCyib9-UV67iMUHAgLdOwqwgXssY5M2Jm23GF7SVQY0B42io2O69PePwmvb1ClC8N8N7ZmROWp_08ThG02Ck7mOJ3vhPQxdUAUarVHXxZVGOz8kdqmTTGDOV8A4ki0bof0NA_i9LfLc9XG4Ua7U-9vjOj4nbGGjMO6pntpSG0YMwOasUAuqw4aozmWHTTzIptj9qN3OLmrrSfB_aoqmb5_CiT6-MA8ViMOsJDHLGxuQXkqRuLUaHugHS09s-15JvxYZ0Vc970e1nvAlcBBZ-SkRbieG9v9qmtcWxtFQdXkRgyzuwfPvb7LFFzlJFN_Ss9OvP8A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇶
 فالح الفياض: تغريدة المتحدث الامني باسم الكتـائب هي "رسائل خشنة"</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/naya_foriraq/88210" target="_blank">📅 13:50 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/naya_foriraq/88210" target="_blank">📅 13:50 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88209">
@@ -705,7 +705,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-text">🔻
 حدث امني قبالة السواحل اليمنية..
 سفن صغيرة تقترب من حاملة نفط شرق المكلا في اليمن والأخيرة تطلق نداء إستغاثة.</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/naya_foriraq/88209" target="_blank">📅 13:19 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/naya_foriraq/88209" target="_blank">📅 13:19 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88208">
@@ -723,7 +723,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">🔻
 وزير الخارجية العماني: المرور الآمن عبر مضيق هرمز لا يمكن فصله عن استقرار أمن المنطقة.</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/naya_foriraq/88207" target="_blank">📅 12:57 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/naya_foriraq/88207" target="_blank">📅 12:57 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88206">
@@ -756,7 +756,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-text">🇮🇷
 العلاقات العامة لمصفاة النفط في طهران:
 اعمدة الدخان في سماء طهران ناتجة عن حريق طال صهريجين لتعبئة ونقل المنتجات النفطية داخل محيط مصفاة النفط بالعاصمة طهران، ولايوجد أي حريق داخل المصفاة.</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/naya_foriraq/88204" target="_blank">📅 11:47 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/naya_foriraq/88204" target="_blank">📅 11:47 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88203">
@@ -784,7 +784,7 @@ We will never forget Ya Abu Fathel</div>
 🇮🇷
 رئيس مجلس القضاء الأعلى القاضي فائق زيدان يستقبل رئيس مجلس الشورى الإسلامي الإيراني محمد باقر قاليباف.
 #أخوتنا_قوتنا</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/naya_foriraq/88201" target="_blank">📅 09:43 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/naya_foriraq/88201" target="_blank">📅 09:43 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88200">
@@ -834,7 +834,7 @@ We will never forget Ya Abu Fathel</div>
 اتفاقية منتصف المدة قادمة إلى دالاس، تكساس، في 9 و10 سبتمبر. سيكون تجمعا لم يسبق له مثيل - لا يصدق!
 لأول مرة على الإطلاق، سيجتمع الجمهوريون من جميع أنحاء بلدنا العظيم في مؤتمر منتصف المدة للاحتفال بانتصاراتنا الهائلة ونجاحنا، وعرض مرشحينا المذهلين، والاستعداد لأهم انتخابات منتصف المدة في التاريخ. حركتنا أكبر وأفضل وأقوى من أي وقت مضى. لقد جعلنا أمريكا عظيمة مرة أخرى، وسنحتفل بهذا النجاح الهائل وغير المسبوق تماما! يحاول المجنون اليساري الراديكالي تدمير بلدنا، لكنهم فشلوا، ولن ينجحوا أبدا، ما لم نسمح بحدوث ذلك - ولن نفعل ذلك!
 سنفوز بجوائز منتصف المدة، ونحمي بلدنا ونعتز به، ونجعله أعظم من أي وقت مضى. كن هناك، 9 و10 سبتمبر - لن يكون مثل أي شيء آخر. ستكون الموسيقى والإثارة وأهمية هذه الأمسية في مستويات لم يسبق لها مثيل في مؤتمر أو حدث سياسي. سأكون معك في كلتا الليلتين، وسأذهب. أراك في دالاس!</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/naya_foriraq/88195" target="_blank">📅 01:24 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/naya_foriraq/88195" target="_blank">📅 01:24 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88193">
@@ -857,7 +857,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">🇮🇶
 رئيس هيئة الحشد الشعبي السيد فالح الفياض:  المنطقة تواجه حالة من عدم الاستقرار واقتصاد سيء جراء الحرب الأمريكية الصهيونية، والجمهورية الإسلامية تعرضت لحرب شبه عالمية واستطاعت التماسك في مواجهة التحديات،تم استهداف الحشد الشعبي كوسيلة ضغط على فصائل المقاومة،…</div>
-<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/naya_foriraq/88191" target="_blank">📅 00:42 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/naya_foriraq/88191" target="_blank">📅 00:42 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88190">
@@ -874,7 +874,7 @@ We will never forget Ya Abu Fathel</div>
 🇷🇺
 عمدة كييف:
 "انفجارات في العاصمة. كييف تتعرض لهجوم باليستي.</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/naya_foriraq/88189" target="_blank">📅 00:28 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/naya_foriraq/88189" target="_blank">📅 00:28 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88188">
@@ -897,7 +897,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pTGbNJF81pLNqHZtmOvXsZS5r5R3pic4NPFE9OvwUTTPEvTwBfu5xAqLWPPG9hC7c-cEewnP9lzWFBbqYS-Cl4djvdAxpxAthSK6G4IDXcaOGGDX-mS68VIVCG5s_ae3QUWo51n-jlOjZFQ65PeJ5MFinvOhgZJrAzHJpnlIh8PtqMyyocXgfS5Ue2-UPgDSy4RwoiHIDqKXBKe3eFpYhZel3n_7sO9ZofyF8VreBF6GgY3a2CS22reXuxMnj0r-EZL_jRTizS_SMOFFo2NVkWbed2eTBPsrGNssJo1f-9GpuGoDyvicGf-Ida5RCSTy6WYRsHKpur4nZtmhUV8gnA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇾🇪
 حصيلة عمليات القوات المسلحة اليمنية منذ إعلان قرار حظر الملاحة البحرية على العدو السعودي في ٢٠ يوليو حتى ١٩ أغسطس.</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/naya_foriraq/88186" target="_blank">📅 23:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/naya_foriraq/88186" target="_blank">📅 23:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88185">
@@ -926,7 +926,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">🇺🇸
 ‏ترمب: التفاوض مع الإيرانيين حاليا مضيعة للوقت.</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/naya_foriraq/88184" target="_blank">📅 23:18 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/naya_foriraq/88184" target="_blank">📅 23:18 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88183">
@@ -970,7 +970,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-text">🇺🇸
 الاعلام الاميركي:
 الولايات المتحدة تجري عملية سرية لنقل النفط عبر مضيق هرمز.</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/naya_foriraq/88180" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/naya_foriraq/88180" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88178">
@@ -982,7 +982,7 @@ We will never forget Ya Abu Fathel</div>
 <li>✓ توفير بانزين وكاز في المحطات</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/naya_foriraq/88178" target="_blank">📅 22:13 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/88178" target="_blank">📅 22:13 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88177">
@@ -990,7 +990,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dB4K-w_McDV--mCQLNigLOS5Zc6lzXqu508I1skUhBYIp-3trsm-OlLT1P9HAS0ArTTcxzEBOsygwaxO7z1B1K2H8hmvl7g0-crNscZDSi2lf8hVvXnQoY7dsHXy_T_QFWW4RU0gG0unbwfqxBbURg_rIm-EZqYN5fpJuFnyFKofKXLe8lQ2MthH08zXyU1xw3A8unwUQ-1CYPbCOavuyzl_pYbOU_Q8KzvCgXMK0lvm7uEuuF00tVIKIxuEheWMNYtjGQdLuw2wzvaiLc6DaDh1TMd7_k9PR2CYGze2AxgR-bfhOcIubJ9cemqL9jl42RgT19DYY_x91-Ibxuc1ug.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇶
 هيئة الاعلام والاتصالات العراقية تقرر منع سجاد سالم من الظهور لمدة 90 يوم</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/88177" target="_blank">📅 21:59 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/naya_foriraq/88177" target="_blank">📅 21:59 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88176">
@@ -1014,7 +1014,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">🇮🇶
 جهاز الأمن الوطني العراقي في قضاء الشرقاط ضمن محافظة صلاح الدين شمالي البلاد يلقي القبض على شخص قام بوضع مادة سامة في خزان ماء الطبخ في احدى المطاعم الامر الذي تسبب بـ(250) حالة تسمم.</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/naya_foriraq/88174" target="_blank">📅 20:49 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/naya_foriraq/88174" target="_blank">📅 20:49 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88173">
@@ -1117,7 +1117,7 @@ We will never forget Ya Abu Fathel</div>
 ‏
 ترامب
 : بناء مهبط طائرات الهليكوبتر في البيت الأبيض تبرعت به شركة سيكورسكي.</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/naya_foriraq/88164" target="_blank">📅 18:28 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/naya_foriraq/88164" target="_blank">📅 18:28 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88163">
@@ -1186,7 +1186,7 @@ We will never forget Ya Abu Fathel</div>
 <div class="tg-text">🇮🇱
 نفتالي بينيت:
 سنحقق تطبيع العلاقات مع السعودية، وإندونيسيا، ومع دول أخرى وسنبني تحالفًا للقوى "المعتدلة" في المنطقة ضد القوى "الإسلامية" - ضد إيران، وضد قطر، وتركيا، وجميع القوى "الراديكالية".</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/naya_foriraq/88158" target="_blank">📅 15:34 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/88158" target="_blank">📅 15:34 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88157">
@@ -1230,7 +1230,7 @@ We will never forget Ya Abu Fathel</div>
 
 <div class="tg-post" id="msg-88153">
 <div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oKsZafQ8HNhKq8oac-yUN-vLik5Q39gWXDdDSkA8qtGyHBmI1vMgNDvj2HI257KjuKPW2Ng2x9MdrWEik_Uc8ROefCnxEzFWvqUJqlPOZVt4_bDgLug_hRrbt6AIMdC-sl2J5vmrRkgj6R5eqzsgKb3Kjs_1A9gZfPP5grsMLmDdxA8uAHEdh2Yd1VPcZwaP15Q8pSiCex6-N6XEX6vjSVlvKU78VC6eg63MljRRF9ae_XCyugcpkmTig2fcQMVHKAiNdAhgkpFmwsdBL8f_tiM3cql7Guv2DDFu-33MOLoz7x4cz44JcdH4x-EMdzyUGzH9e_OepOWTd9yMUD4g8g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/un984W13-i5bUEqcM_pIFomct_FzVy0aAofI0DWOZcIXytYHXI5OAzL7dYEkpyvaLP_ZEHWbMbNkRD_754Y7u3PBlUrpgPi09FzjMvUaU73XJ4U3o9Zs65pkbcfrWzX3PzfsMygAScAhzE_KmaMwipxgBBn0GQ2XcrNhv6jJjcP0nIxN-4inlKWB3AHydlGtw3TPrwdi9eV5WqWf8Ei5Z0sXv76YUv1TJ9ofnO_3wz1do_YV2InoODVyjjiST1EEmhK2kbYT1JojKw9wCSnT0PZp3IdZ33Hw5PGglA5MsPFNCsa6NP7rmEad1OVx5uqmHcVlYtb_FAcCivUQQFVOIw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇶
 القضاء هو طوق النجاة الأخير للدولة العراقية
 استنكار سياسي وجماهيري بعد تسريب خبر محاولة استهداف قاضي قضاة العراق وحصن العراق الأخير .</div>
