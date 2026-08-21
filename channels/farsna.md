@@ -292,7 +292,7 @@
 <a href="https://t.me/farsna" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 حقیقت روشن می‌شود‌‌تبلیغات@Farsnews_adsارتباط@FarsNewsفارس‌پلاس@Fars_Plus‌ورزش@SportFarsجهان@FarsNewsIntعکس@FarsImagesپیام‌رسان‌ها@Farsnaاینستاگرامinstagram.com/fars_newsتوییترtwitter.com/FarsNews_Agency</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 06:57:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 07:38:34</div>
 <hr>
 
 <div class="tg-post" id="msg-457311">
@@ -302,7 +302,7 @@
 رئیس‌جمهور آمریکا ادعا کرد واشنگتن «خردکننده‌ترین عملیات اقتصادی تاریخ» را علیه ایران آغاز کرده است.
 🔹
 ترامپ با تکرار ادعاهای همیشگی خود، مدعی شد نیروی دریایی و هوایی ایران…</div>
-<div class="tg-footer">👁️ 472 · <a href="https://t.me/farsna/457311" target="_blank">📅 06:53 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/farsna/457311" target="_blank">📅 06:53 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457309">
@@ -317,7 +317,7 @@
 <div class="tg-text">🎥
 لحظاتی منتشر نشده از دیدارهای صمیمانۀ خانواده‌های معظم شهدا با رهبر شهید انقلاب
 @Farsna</div>
-<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/farsna/457309" target="_blank">📅 06:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.42K · <a href="https://t.me/farsna/457309" target="_blank">📅 06:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457307">
@@ -331,7 +331,7 @@
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/farsna/457307" target="_blank">📅 04:41 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.7K · <a href="https://t.me/farsna/457307" target="_blank">📅 04:41 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457306">
@@ -350,7 +350,7 @@ Link</div>
 استاد عالی
 @FarsMaaref
 💠</div>
-<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/farsna/457306" target="_blank">📅 04:07 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.58K · <a href="https://t.me/farsna/457306" target="_blank">📅 04:07 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457304">
@@ -365,7 +365,7 @@ Link</div>
 <div class="tg-text">‌ ورود جنگنده‌های رژیم صهیونیستی به حریم هوایی لبنان
 🔹
 رسانه‌های بین‌المللی گزارش داده‌اند جنگنده‌های اسرائیل بار دیگر وارد حریم هوایی جنوب لبنان شدند.   @Farsna</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/farsna/457304" target="_blank">📅 03:38 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/farsna/457304" target="_blank">📅 03:38 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457303">
@@ -382,7 +382,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/farsna/457303" target="_blank">📅 03:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.8K · <a href="https://t.me/farsna/457303" target="_blank">📅 03:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457302">
@@ -399,7 +399,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 5.55K · <a href="https://t.me/farsna/457302" target="_blank">📅 02:46 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.16K · <a href="https://t.me/farsna/457302" target="_blank">📅 02:46 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457301">
@@ -408,7 +408,7 @@ Link</div>
 <div class="tg-text">📷
 هم‌اکنون؛ حال‌وهوای مزار رهبر شهید انقلاب در رواق دارالذکر حرم مطهر رضوی
 @Farsna</div>
-<div class="tg-footer">👁️ 5.56K · <a href="https://t.me/farsna/457301" target="_blank">📅 02:39 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.14K · <a href="https://t.me/farsna/457301" target="_blank">📅 02:39 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457300">
@@ -428,7 +428,7 @@ Link</div>
 🔹
 ایران به کشورهایی مانند عربستان سعودی، قطر، امارات، کویت و بحرین که تا حدی بی‌طرف بودند حمله کرد.
 @FarsNewsInt</div>
-<div class="tg-footer">👁️ 6.76K · <a href="https://t.me/farsna/457300" target="_blank">📅 02:12 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.28K · <a href="https://t.me/farsna/457300" target="_blank">📅 02:12 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457299">
@@ -447,7 +447,7 @@ Link</div>
 @Farsnart
 -
 Link</div>
-<div class="tg-footer">👁️ 7.61K · <a href="https://t.me/farsna/457299" target="_blank">📅 01:52 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.12K · <a href="https://t.me/farsna/457299" target="_blank">📅 01:52 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457298">
@@ -462,7 +462,7 @@ Link</div>
 <div class="tg-text">🎥
 آرزوی حاج قاسم برای حرم امامین عسکرین(ع)
 @Farsna</div>
-<div class="tg-footer">👁️ 8.11K · <a href="https://t.me/farsna/457298" target="_blank">📅 01:20 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.59K · <a href="https://t.me/farsna/457298" target="_blank">📅 01:20 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457297">
@@ -479,7 +479,7 @@ Link</div>
 @Sportfars
 -
 Link</div>
-<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/farsna/457297" target="_blank">📅 00:56 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.83K · <a href="https://t.me/farsna/457297" target="_blank">📅 00:56 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457296">
@@ -499,20 +499,20 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.55K · <a href="https://t.me/farsna/457296" target="_blank">📅 00:43 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/farsna/457296" target="_blank">📅 00:43 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457295">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">گزارش‌ها از حملۀ هوایی اسرائیل به ارتفاعات علی‌الطاهر در جنوب لبنان حکایت دارند.   @Farsna</div>
-<div class="tg-footer">👁️ 9.06K · <a href="https://t.me/farsna/457295" target="_blank">📅 00:35 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.44K · <a href="https://t.me/farsna/457295" target="_blank">📅 00:35 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457294">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">گزارش‌ها از حملۀ هوایی اسرائیل به ارتفاعات علی‌الطاهر در جنوب لبنان حکایت دارند.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.25K · <a href="https://t.me/farsna/457294" target="_blank">📅 00:31 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/farsna/457294" target="_blank">📅 00:31 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457293">
@@ -529,7 +529,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/farsna/457293" target="_blank">📅 00:21 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/457293" target="_blank">📅 00:21 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457292">
@@ -537,7 +537,7 @@ Link</div>
 <div class="tg-text">بازی تراکتور و پرسپولیس بدون تماشاگر است
 🔹
 سخنگوی سازمان لیگ فوتبال ایران: با توجه به آخرین استعلام از ارکان قضایی فدراسیون دیدار تراکتور و پرسپولیس در هفتهٔ سوم لیگ برتر بدون تماشاگر برگزار می‌شود. @Farsna</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/457292" target="_blank">📅 23:58 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/457292" target="_blank">📅 23:58 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457291">
@@ -554,7 +554,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/farsna/457291" target="_blank">📅 23:58 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/457291" target="_blank">📅 23:58 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457290">
@@ -570,7 +570,7 @@ Link</div>
 🔹
 سخنگوی سازمان لیگ فوتبال ایران: با توجه به آخرین استعلام از ارکان قضایی فدراسیون دیدار تراکتور و پرسپولیس در هفتهٔ سوم لیگ برتر بدون تماشاگر برگزار می‌شود.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/farsna/457290" target="_blank">📅 23:48 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/457290" target="_blank">📅 23:48 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457289">
@@ -587,7 +587,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.85K · <a href="https://t.me/farsna/457289" target="_blank">📅 23:48 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/farsna/457289" target="_blank">📅 23:48 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457282">
@@ -603,7 +603,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 حضور مردم عزادار در جوار مزار رهبر شهید پس‌از مراسم چهلم تدفین ایشان در حرم رضوی  @Farsna</div>
-<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/farsna/457282" target="_blank">📅 23:39 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.43K · <a href="https://t.me/farsna/457282" target="_blank">📅 23:39 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457281">
@@ -620,7 +620,7 @@ Link</div>
 ۱. حمله یک مرکز حساس در فرودگاه نجران
 🔸
 ۲. حمله به تأسیسات آرامکو در نجران @Farsna</div>
-<div class="tg-footer">👁️ 7.83K · <a href="https://t.me/farsna/457281" target="_blank">📅 23:35 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.04K · <a href="https://t.me/farsna/457281" target="_blank">📅 23:35 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457280">
@@ -637,7 +637,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 7.79K · <a href="https://t.me/farsna/457280" target="_blank">📅 23:24 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.3K · <a href="https://t.me/farsna/457280" target="_blank">📅 23:24 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457279">
@@ -653,7 +653,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.4K · <a href="https://t.me/farsna/457279" target="_blank">📅 23:17 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.08K · <a href="https://t.me/farsna/457279" target="_blank">📅 23:17 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457278">
@@ -663,7 +663,7 @@ Link</div>
 هشدار دربارۀ خلأهای امنیتی کنوانسیون دریای خزر
 🔹
 بهمن، کارشناس مسائل بین‌الملل: سکوت این کنوانسیون دربارۀ نحوۀ عبور و انتقال نیروهای نظامی و امکان حضور نیروهای بیگانه تحت پرچم کشورهای ساحلی می‌تواند زمینه‌ساز حضور نیروهای نظامی و اطلاعاتی بیگانه در فاصلۀ…</div>
-<div class="tg-footer">👁️ 8.75K · <a href="https://t.me/farsna/457278" target="_blank">📅 23:10 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/farsna/457278" target="_blank">📅 23:10 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457277">
@@ -680,7 +680,7 @@ Link</div>
 🔹
 برخورد بالگرد پلیس با یک هواپیمای کوچک در فرودگاهی در ایالت پنسیلوانیای آمریکا، یک کشته و ۲ زخمی برجای گذاشت.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.2K · <a href="https://t.me/farsna/457277" target="_blank">📅 23:04 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.35K · <a href="https://t.me/farsna/457277" target="_blank">📅 23:04 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457276">
@@ -697,7 +697,7 @@ Link</div>
 به‌گزارش الجزیره به نقل از رسانه‌های محلی، اسرائیل منطقه الطیری در شهرستان بنت جبیل لبنان را بمباران کرده است.
 🔸
 ساعاتی پیش روستای المنصوری در شهرستان صور نیز هدف حملات توپخانه‌ای رژیم صهیونیستی قرار گرفته بود.…</div>
-<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/farsna/457276" target="_blank">📅 22:55 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/farsna/457276" target="_blank">📅 22:55 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457275">
@@ -713,7 +713,7 @@ Link</div>
 🔹
 ناو لینکلن اکنون در حال طی کردن مسیری حدوداً ۱۳,۰۰۰ مایلی به سمت خانه است که انتظار می‌رود بین چهار تا پنج هفته به طول بینجامد.
 @FarsNewsInt</div>
-<div class="tg-footer">👁️ 7.93K · <a href="https://t.me/farsna/457275" target="_blank">📅 22:50 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.08K · <a href="https://t.me/farsna/457275" target="_blank">📅 22:50 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457274">
@@ -728,7 +728,7 @@ Link</div>
 🔹
 الجزیره با اشاره به تهدیدات آمریکا علیه تردد در هرمز نوشت این آمار نشان می‌دهد کشتی‌ها در عمل تمایل بیشتری به نادیده گرفتن دستورات آمریکا دارند و تعداد بسیار بیشتری از شناورها از مسیر تعیین‌شده توسط ایران عبور می‌کنند.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.38K · <a href="https://t.me/farsna/457274" target="_blank">📅 22:45 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.53K · <a href="https://t.me/farsna/457274" target="_blank">📅 22:45 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457273">
@@ -745,7 +745,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.24K · <a href="https://t.me/farsna/457273" target="_blank">📅 22:38 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.39K · <a href="https://t.me/farsna/457273" target="_blank">📅 22:38 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457272">
@@ -762,7 +762,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.67K · <a href="https://t.me/farsna/457272" target="_blank">📅 22:32 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.81K · <a href="https://t.me/farsna/457272" target="_blank">📅 22:32 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457271">
@@ -777,7 +777,7 @@ Link</div>
 <div class="tg-text">🎥
 خاطره رئیس بانک مرکزی از توصیه رهبر شهید انقلاب
 @Farsna</div>
-<div class="tg-footer">👁️ 8.38K · <a href="https://t.me/farsna/457271" target="_blank">📅 22:23 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.49K · <a href="https://t.me/farsna/457271" target="_blank">📅 22:23 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457270">
@@ -792,7 +792,7 @@ Link</div>
 <div class="tg-text">🎥
 این رفاقت‌ها در تجمعات شبانه شکل گرفته است
 @Farsna</div>
-<div class="tg-footer">👁️ 8.82K · <a href="https://t.me/farsna/457270" target="_blank">📅 22:15 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.93K · <a href="https://t.me/farsna/457270" target="_blank">📅 22:15 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457269">
@@ -808,7 +808,7 @@ Link</div>
 هیچ چیز نقش و جایگاه ولایت را ندارد
 🔹
 سخنرانی حجت‌الاسلام علی علیزاده در مراسم شهب شهادت امام حسن عسکری(ع) و بزرگداشت رهبر شهید @Farsna</div>
-<div class="tg-footer">👁️ 9.51K · <a href="https://t.me/farsna/457269" target="_blank">📅 22:10 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/farsna/457269" target="_blank">📅 22:10 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457268">
@@ -825,7 +825,7 @@ Link</div>
 قیمت نفت خام برنت در معاملات امروز با عبور از مرز ۹۳ دلار در هر بشکه، به بالاترین سطح خود از ماه جولای (تیرماه) سال جاری دست یافت.
 🔹
 این افزایش قیمت درحالی رخ داده که نگرانی‌ها دربارۀ اختلال در عرضۀ انرژی با بسته ماندن تنگه هرمز…</div>
-<div class="tg-footer">👁️ 9.87K · <a href="https://t.me/farsna/457268" target="_blank">📅 22:00 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.98K · <a href="https://t.me/farsna/457268" target="_blank">📅 22:00 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457267">
@@ -837,7 +837,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/farsna/457267" target="_blank">📅 21:45 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farsna/457267" target="_blank">📅 21:45 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457260">
@@ -856,7 +856,7 @@ Link</div>
 عکس:
 نگار ده‌دهی
 @Farsna</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farsna/457260" target="_blank">📅 21:31 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/457260" target="_blank">📅 21:31 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457259">
@@ -871,7 +871,7 @@ Link</div>
 <div class="tg-text">🎥
 ۴۰ روز است که رهبر شهید مهمان امام‌رضاست
 @Farsna</div>
-<div class="tg-footer">👁️ 8.3K · <a href="https://t.me/farsna/457259" target="_blank">📅 21:24 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.41K · <a href="https://t.me/farsna/457259" target="_blank">📅 21:24 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457258">
@@ -892,7 +892,7 @@ saipa.iranecar.com
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9K · <a href="https://t.me/farsna/457258" target="_blank">📅 21:15 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.11K · <a href="https://t.me/farsna/457258" target="_blank">📅 21:15 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457257">
@@ -903,7 +903,7 @@ Link</div>
 🔸
 طبق این بیانیه ۳ فرد به فهرست تحریم‌ها علیه ایران و ۷ تن دیگر به فهرست تحریم‌های حزب‌الله افزوده شدند.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.29K · <a href="https://t.me/farsna/457257" target="_blank">📅 21:07 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.4K · <a href="https://t.me/farsna/457257" target="_blank">📅 21:07 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457256">
@@ -914,7 +914,7 @@ Link</div>
 خروش ما حی علی القیام است
 🔹
 رجزخوانی میثم مطیعی در مراسم بزرگداشت رهبر شهید انقلاب @Farsna</div>
-<div class="tg-footer">👁️ 8.32K · <a href="https://t.me/farsna/457256" target="_blank">📅 21:07 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.4K · <a href="https://t.me/farsna/457256" target="_blank">📅 21:07 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457254">
@@ -932,7 +932,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.6K · <a href="https://t.me/farsna/457254" target="_blank">📅 20:55 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.68K · <a href="https://t.me/farsna/457254" target="_blank">📅 20:55 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457253">
@@ -951,7 +951,7 @@ Link</div>
 اینجا
 بخوانید
 @FarsNewsInt</div>
-<div class="tg-footer">👁️ 8.11K · <a href="https://t.me/farsna/457253" target="_blank">📅 20:47 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.16K · <a href="https://t.me/farsna/457253" target="_blank">📅 20:47 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457252">
@@ -967,7 +967,7 @@ Link</div>
 آقای شهید ایران، ای خادم شاه خراسان
 🔹
 مراسم بزرگداشت قائد شهید امت @Farsna</div>
-<div class="tg-footer">👁️ 8.01K · <a href="https://t.me/farsna/457252" target="_blank">📅 20:32 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.09K · <a href="https://t.me/farsna/457252" target="_blank">📅 20:32 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457251">
@@ -982,7 +982,7 @@ Link</div>
 <div class="tg-text">🎥
 خاطره‌ احساسی دختربچه معروف عکس جشن فرشته‌های بیت رهبری از رهبر شهید در برنامه محفل ستاره‌ها
 @Farsna</div>
-<div class="tg-footer">👁️ 8.35K · <a href="https://t.me/farsna/457251" target="_blank">📅 20:22 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.43K · <a href="https://t.me/farsna/457251" target="_blank">📅 20:22 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457250">
@@ -994,7 +994,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.44K · <a href="https://t.me/farsna/457250" target="_blank">📅 20:15 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.52K · <a href="https://t.me/farsna/457250" target="_blank">📅 20:15 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457249">
@@ -1008,7 +1008,7 @@ Link</div>
 </div>
 <div class="tg-text">📷
 حضور فرزندان رهبر شهید انقلاب در مراسم بزرگداشت چهلم ایشان  @Farsna</div>
-<div class="tg-footer">👁️ 8.18K · <a href="https://t.me/farsna/457249" target="_blank">📅 20:14 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.25K · <a href="https://t.me/farsna/457249" target="_blank">📅 20:14 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457248">
@@ -1016,7 +1016,7 @@ Link</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mzpx7xZXnIA5mcLhx4kXCNpnm0W6AuIaSdJYGG01aIWiS3aCNXzuS4lZ44AsyAicXR44oVuORBpOAxWry2XR9UgmguaE-_-4sln-asxDeR8Sn4IbIYRAJbILhcPTdTXaI3x_LJv1ciNwVyLjDkIxkqccbF4hIRfu3MG1M7hSUHtuc7OZaoUnB4EUg73txQgcNPYemGCVESjOtYI70t4AXmFxITUbCUbq9dqn23OFOa-dHUEH_gqh3KdP3FjiYd4z0rcDMQbBs79riB4CHUX7O10DLN7ktC_Lp1Cl3Hq04VvEOycyBVClRyDVyXknIX-WvzMplCZJB7oRkKxdfN-OLg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎥
 حضور سیدمصطفی خامنه‌ای در مراسم بزرگداشت رهبر شهید   @Farsna</div>
-<div class="tg-footer">👁️ 8.89K · <a href="https://t.me/farsna/457248" target="_blank">📅 20:03 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.97K · <a href="https://t.me/farsna/457248" target="_blank">📅 20:03 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457247">
@@ -1031,7 +1031,7 @@ Link</div>
 <div class="tg-text">🎥
 تصاویری منتشرنشده از سخنرانی رهبر شهید انقلاب در حرم مطهر امام رضا(ع)
 @Farsna</div>
-<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/farsna/457247" target="_blank">📅 20:01 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.77K · <a href="https://t.me/farsna/457247" target="_blank">📅 20:01 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457246">
@@ -1045,7 +1045,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 حضور سیدمصطفی خامنه‌ای در مراسم بزرگداشت رهبر شهید   @Farsna</div>
-<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/farsna/457246" target="_blank">📅 19:53 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/farsna/457246" target="_blank">📅 19:53 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457245">
@@ -1059,7 +1059,7 @@ Link</div>
 </div>
 <div class="tg-text">📷
 تصویری از مزار نورانی «آقای شهید ایران» در چهلم تدفین ایشان  @Farsna</div>
-<div class="tg-footer">👁️ 9.13K · <a href="https://t.me/farsna/457245" target="_blank">📅 19:49 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.2K · <a href="https://t.me/farsna/457245" target="_blank">📅 19:49 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457244">
@@ -1071,7 +1071,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/farsna/457244" target="_blank">📅 19:40 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.72K · <a href="https://t.me/farsna/457244" target="_blank">📅 19:40 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457243">
@@ -1079,7 +1079,7 @@ Link</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TD9QDWshNz2DMnA3cJPI_749zPUIAnVybNz6mevOpL6wSDiq3ugHS-Pfl8mDlrDGdXL0Jfi1yx9_8rKane98MLavjtHPX2kDD5HAXFkFliIgLnVb6PlOUVeLM63YZ4vbD2bne9_aSP9P4T9JF8-zfj5fNOPJt35uxfKgqb5N-btoyCzfH_mWW5NeZFsBS3Bp7BA3Yzr91SJlJ7Xz7zFbancLUPDHb_Ex50LgM7lw5ruktq_dqlLOhkyc9W-a2PFeg_ZAH54LB2qm4NA41pnJBVV22WaFQ5V6qN9Arqh6zTNs6f8cQrsN9AcwagklZ7PN0fyKU0214rMcUtcJ1nhdkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎥
 حال‌وهوای حرم رضوی پیش‌از آغاز مراسم بزرگداشت چهلم تدفین رهبر شهید  @Farsna</div>
-<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/farsna/457243" target="_blank">📅 19:33 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/farsna/457243" target="_blank">📅 19:33 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457242">
@@ -1093,7 +1093,7 @@ Link</div>
 <a href="https://t.me/farsna/457242" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">بسته خط ۱۲۲.pdf</div>
-<div class="tg-footer">👁️ 9K · <a href="https://t.me/farsna/457242" target="_blank">📅 19:31 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.08K · <a href="https://t.me/farsna/457242" target="_blank">📅 19:31 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457241">
@@ -1107,7 +1107,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 حال‌وهوای حرم رضوی پیش‌از آغاز مراسم بزرگداشت چهلم تدفین رهبر شهید  @Farsna</div>
-<div class="tg-footer">👁️ 9K · <a href="https://t.me/farsna/457241" target="_blank">📅 19:21 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.07K · <a href="https://t.me/farsna/457241" target="_blank">📅 19:21 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457240">
@@ -1118,7 +1118,7 @@ Link</div>
 🔸
 ساعاتی پیش روستای المنصوری در شهرستان صور نیز هدف حملات توپخانه‌ای رژیم صهیونیستی قرار گرفته بود.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/farsna/457240" target="_blank">📅 19:18 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.91K · <a href="https://t.me/farsna/457240" target="_blank">📅 19:18 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457239">
@@ -1132,7 +1132,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 حضور داماد رهبر شهید و پدر زهرای شهید ۱۴ ماهه در رواق دارالذکر  @Farsna</div>
-<div class="tg-footer">👁️ 8.72K · <a href="https://t.me/farsna/457239" target="_blank">📅 19:16 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.8K · <a href="https://t.me/farsna/457239" target="_blank">📅 19:16 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457238">
@@ -1147,7 +1147,7 @@ Link</div>
 <div class="tg-text">پنجشنبه ۲۹ مرداد، بعد از نماز مغرب و عشا
 🔹
 مشهد - حرم مطهر امام رضا(ع)</div>
-<div class="tg-footer">👁️ 8.4K · <a href="https://t.me/farsna/457238" target="_blank">📅 19:01 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.47K · <a href="https://t.me/farsna/457238" target="_blank">📅 19:01 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457234">
@@ -1164,7 +1164,7 @@ Link</div>
 رئیس‌مجلس در جمع مردم کربلا در مراسم چهلمین روز تدفین رهبر شهید انقلاب در واکنش به اقدام مشکوک رئیس‌مجلس عراق در انتشار نقشۀ خلیج فارس با نام جعلی گفت:
 🔹
 اینجانب در این جلسه حاضر شدم تا سلام گرم…</div>
-<div class="tg-footer">👁️ 8.83K · <a href="https://t.me/farsna/457234" target="_blank">📅 18:56 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.87K · <a href="https://t.me/farsna/457234" target="_blank">📅 18:56 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457233">
@@ -1178,7 +1178,7 @@ Link</div>
 </div>
 <div class="tg-text">📷
 قالیباف در جریان سفر به عراق با مشاور امنیت ملی این کشور دیدار و گفت‌وگو کرد.  @Farsna - Link</div>
-<div class="tg-footer">👁️ 8.78K · <a href="https://t.me/farsna/457233" target="_blank">📅 18:45 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.85K · <a href="https://t.me/farsna/457233" target="_blank">📅 18:45 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457232">
@@ -1193,7 +1193,7 @@ Link</div>
 <div class="tg-text">🎥
 مراسم اربعین تدفین رهبر شهید در کربلا با حضور قالیباف و مقامات عراق
 @Farsna</div>
-<div class="tg-footer">👁️ 8.66K · <a href="https://t.me/farsna/457232" target="_blank">📅 18:44 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.73K · <a href="https://t.me/farsna/457232" target="_blank">📅 18:44 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457231">
@@ -1204,7 +1204,7 @@ Link</div>
 رئیس‌جمهور آمریکا شب گذشته فاز جدیدی از تهدید علیه ایران را با کلیدواژۀ «کوبنده‌ترین عملیات اقتصادی جهان» آغاز کرد.
 🔹
 ترامپ البته نمی‌داند اولین تحریم بانکی ایران، آبان ۱۳۵۸ کلید خورده، شروع تحریم‌های سنگین…</div>
-<div class="tg-footer">👁️ 9.16K · <a href="https://t.me/farsna/457231" target="_blank">📅 18:21 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/farsna/457231" target="_blank">📅 18:21 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457230">
@@ -1224,7 +1224,7 @@ Link</div>
 @Farseconomy
 -
 Link</div>
-<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/farsna/457230" target="_blank">📅 17:58 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/farsna/457230" target="_blank">📅 17:58 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457229">
@@ -1235,7 +1235,7 @@ Link</div>
 🔹
 شبکه سه با «کاپیتان» و «محفل» در صدر پربازدیدترین برنامه‌های تلویزیونی در تلوبیون/ کاپیتان با ۶.۷۶ میلیون بازدید رتبه اول و محفل با ۶.۰۶ میلیون بازدید رتبه دوم را به خود اختصاص داده‌اند
 @Farsna</div>
-<div class="tg-footer">👁️ 9.32K · <a href="https://t.me/farsna/457229" target="_blank">📅 17:52 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.36K · <a href="https://t.me/farsna/457229" target="_blank">📅 17:52 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457228">
@@ -1248,12 +1248,12 @@ Link</div>
 #بانک_رفاه_کارگران
 @refahkhabar
 | بانک رفاه کارگران</div>
-<div class="tg-footer">👁️ 7.48K · <a href="https://t.me/farsna/457228" target="_blank">📅 17:51 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.52K · <a href="https://t.me/farsna/457228" target="_blank">📅 17:51 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457227">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-footer">👁️ 8.87K · <a href="https://t.me/farsna/457227" target="_blank">📅 17:50 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.91K · <a href="https://t.me/farsna/457227" target="_blank">📅 17:50 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457226">
@@ -1265,7 +1265,7 @@ Link</div>
 🔸
 ۲. حمله به تأسیسات آرامکو در نجران
 @Farsna</div>
-<div class="tg-footer">👁️ 9.76K · <a href="https://t.me/farsna/457226" target="_blank">📅 17:35 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/farsna/457226" target="_blank">📅 17:35 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457225">
@@ -1299,7 +1299,7 @@ Link</div>
 عکس:
 هادی ه‍یربدوش
 @Farsna</div>
-<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/farsna/457218" target="_blank">📅 17:15 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.92K · <a href="https://t.me/farsna/457218" target="_blank">📅 17:15 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457217">
@@ -1322,7 +1322,7 @@ Link</div>
 همتی: ۷۵ همت از اموال بانک ایران‌زمین به نفع بانک مرکزی مصادره شد
 🔹
 این بانک ۱۱۴ همت اضافه‌برداشت داشت که با کمک قوه‌قضائیه با آن برخورد شد. @Farsna</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farsna/457216" target="_blank">📅 16:22 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farsna/457216" target="_blank">📅 16:22 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457215">
@@ -1366,7 +1366,7 @@ Link</div>
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/q5RqprwS6DZOj-MoXhIhgquO0QSINk3XJ09XkrJl_xnO13FeoURkSOgnDkMJCWBxvRkm4PjcD6R1SZDBNh_dxh-QwZ9TuxzV1eKn-Vl8nyeiS3cFvAXSzA3OMrZCTrDZoT42OPlHN8SJ_YE6p6RwfyOvZEMmK62UEKqH-Nnx3I2PnOhGTmx3Vn07P4oDEwEF9D70qujYb6hAoCOSsTLs1pnOzXNWPTshaWL4-qfIiuCihJ0BN8vgkPHAq6hjZoByVE5xGP5oE0nEKpQ1zsem5KMv_lAW4yfvmgAm5ULKn8CqjWsfWSZRmJ9e41tXUwxIziaPgLGeMHbUTw7mNtydLQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یارانۀ ۴۰۰ هزار تومانی دهک‌های ۱ تا ۳ به حساب سرپرستان خانوار واریز شد.   @Farsna</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/farsna/457213" target="_blank">📅 15:41 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farsna/457213" target="_blank">📅 15:41 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457212">
@@ -1497,7 +1497,7 @@ Link</div>
 آپارات
 📲
 سروش</div>
-<div class="tg-footer">👁️ 8.15K · <a href="https://t.me/farsna/457199" target="_blank">📅 14:09 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.18K · <a href="https://t.me/farsna/457199" target="_blank">📅 14:09 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457198">
@@ -1520,7 +1520,7 @@ Link</div>
 🔹
 در هرجایی به آقا توهین میکردم، اما ایشان به خوابم آمدند و...
 @Fars_plus</div>
-<div class="tg-footer">👁️ 9.04K · <a href="https://t.me/farsna/457197" target="_blank">📅 13:58 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.08K · <a href="https://t.me/farsna/457197" target="_blank">📅 13:58 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457196">
@@ -1552,7 +1552,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.46K · <a href="https://t.me/farsna/457195" target="_blank">📅 13:49 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.49K · <a href="https://t.me/farsna/457195" target="_blank">📅 13:49 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457191">
@@ -1595,7 +1595,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.43K · <a href="https://t.me/farsna/457190" target="_blank">📅 13:38 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.46K · <a href="https://t.me/farsna/457190" target="_blank">📅 13:38 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457188">
@@ -1612,7 +1612,7 @@ Link</div>
 ◾️
 سیاه‌پوشی حرم رضوی در سوگ شهادت امام حسن عسکری (ع)
 @Farsna</div>
-<div class="tg-footer">👁️ 8.97K · <a href="https://t.me/farsna/457188" target="_blank">📅 13:29 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9K · <a href="https://t.me/farsna/457188" target="_blank">📅 13:29 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457187">
@@ -1654,7 +1654,7 @@ Link</div>
 <div class="tg-text">🎥
 سردبیر پیشین نشریۀ خلیج‌تایمز: کشورهای منطقۀ خلیج فارس از ترس موشک‌ها و پهپادها، به تعامل با ایران روی آورده‌اند!
 @Farsna</div>
-<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/farsna/457182" target="_blank">📅 12:26 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/farsna/457182" target="_blank">📅 12:26 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457181">
@@ -1665,7 +1665,7 @@ Link</div>
 پنجمین محموله متانول فن‌آوران در رینگ بین‌الملل بورس انرژی فروخته شد
 🔶
 در راستای اجرای سیاست‌های کلان شستا و تاپیکو، پنجمین محموله متانول شرکت پتروشیمی فن‌آوران در رینگ بین‌الملل بورس انرژی با رقابت به فروش رسید.</div>
-<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/farsna/457181" target="_blank">📅 12:24 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.44K · <a href="https://t.me/farsna/457181" target="_blank">📅 12:24 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457180">
@@ -1690,12 +1690,12 @@ Link</div>
 هر ماه با هر ۱۰ میلیون ریال تراکنش، یک امتیاز دریافت کنید و شانس خود را برای برنده شدن در قرعه‌کشی جوایز ارزشمند افزایش دهید.
 💫
 شهرآسا؛ فرصتی برای رشد کسب‌وکار، دریافت تسهیلات و کسب امتیاز، با هر تراکنش.</div>
-<div class="tg-footer">👁️ 8.97K · <a href="https://t.me/farsna/457180" target="_blank">📅 12:23 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.98K · <a href="https://t.me/farsna/457180" target="_blank">📅 12:23 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457179">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-footer">👁️ 8.03K · <a href="https://t.me/farsna/457179" target="_blank">📅 12:22 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.06K · <a href="https://t.me/farsna/457179" target="_blank">📅 12:22 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457178">
@@ -1708,7 +1708,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/farsna/457178" target="_blank">📅 11:58 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.24K · <a href="https://t.me/farsna/457178" target="_blank">📅 11:58 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457171">
@@ -1724,7 +1724,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 وزیر علوم: بزرگ‌سال‌ترین داوطلب کنکور ۸۵ سال و جوان‌ترین‌ ۱۲ سال سن دارند.  @Farsna</div>
-<div class="tg-footer">👁️ 9.31K · <a href="https://t.me/farsna/457171" target="_blank">📅 11:44 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.32K · <a href="https://t.me/farsna/457171" target="_blank">📅 11:44 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457170">
@@ -1775,7 +1775,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.05K · <a href="https://t.me/farsna/457168" target="_blank">📅 11:32 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.08K · <a href="https://t.me/farsna/457168" target="_blank">📅 11:32 · 29 Mordad 1405</a></div>
 </div>
 
 <hr>
