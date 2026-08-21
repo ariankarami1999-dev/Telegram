@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 20:59:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 21:26:44</div>
 <hr>
 
 <div class="tg-post" id="msg-7532">
@@ -324,7 +324,7 @@
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 680 · <a href="https://t.me/ArchiveTell/7532" target="_blank">📅 19:14 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 750 · <a href="https://t.me/ArchiveTell/7532" target="_blank">📅 19:14 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7530">
@@ -361,7 +361,7 @@ Ox Alpha
 @ArchiveTell
 |
 #NEWS</div>
-<div class="tg-footer">👁️ 1.09K · <a href="https://t.me/ArchiveTell/7530" target="_blank">📅 15:36 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.12K · <a href="https://t.me/ArchiveTell/7530" target="_blank">📅 15:36 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7529">
@@ -389,7 +389,7 @@ Opus 5 | Opus 4.8
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/ArchiveTell/7529" target="_blank">📅 10:54 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.41K · <a href="https://t.me/ArchiveTell/7529" target="_blank">📅 10:54 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7528">
@@ -400,7 +400,7 @@ Opus 5 | Opus 4.8
 
 <div class="tg-post" id="msg-7527">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fHdxCjyryPGsn7aoYwNHAnjhCx8XMNn6eH9_8Sl6IT4OucwJbLoI5G8WfHmFsC-liwmGOSPhcWpAByJ70p08-N2gRZED9cB_859lOW9D6x4uF5gYFY9ssRcP3hQVjG5QUVeP-a5BDxmhVkwexPVk4pbApG-BNkbWDY91EBB7DBXWzCf709fiUvCxUVn4lVFJ0nyUEgZwGKpNy2TVG-1sdj_SKGq-fpZxOFzlfV9rDxlCToOt-MyKVPNofOrx4cH1PS4gfhRoJNrzZHUv7GObltDFNGUVE5971MksbEPBNBEBdKGPJDkEfF0clMvpKSOqkr0wVj2gB6hNcD_R880fYA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AjjfFEDnpgwAKBNzXtMB9BIvBkeoPqywWAfzWjTFZ4rjJAVqOn0JogOLYYcAJfS-wzQGtqmSjjk-4kjMZIxo4k1mawIg6px2VufqGKqXgJZQCSA23VgBO2OJREjadHOfKtVsrrCw2F41jZ7Nh2ydVCaTa3cZkHdnkAzGRTIi_pVL6vU6zsWEMDR7oUUN1xJwCG_eKpmTlIgJhXMCPBazs7MxS9xljGZM_bztTgWp21LQxyiyCnZKsafiLLP6GHsEiwFgWaQvYWs5aLhHBXN5vRURunwtxp29wzsRwjZzoy9zHHPNUXbyEhVgVRD-5ZJIalTtBQIhOKCFTiCXZNCFPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دوستان ظاهرا ی روش عجیب سامورایی پیدا شده
 اکانت فریز میکنه
 زیر سی ثانیه فریز میشه
@@ -692,7 +692,7 @@ experiments.hetzner.com/docs/inference
 🛜
 ✅
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.38K · <a href="https://t.me/ArchiveTell/7514" target="_blank">📅 13:12 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/ArchiveTell/7514" target="_blank">📅 13:12 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7513">
@@ -1012,10 +1012,10 @@ qwen/qwen3.8-max-free
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/fa9e219aac.mp4?token=B8kXWGdwk0fgm8KmYxsV12bmEFM2t-XTUz3q_7rpdOAQ7QUTfms5svrw-D0OPGvhte6ucqKexpqquZhmh-XJCgCEettOOmdyk_GYwj2uT6gCQtkWTumYWG9ErWCSNotMltA8qpKJj1Op2DIJYVFtrNPY684lxFWKxsD5KCWbZ6xRnOKmW0EEUiS2bsnqIY7BAvgOy7cCZWkLzYus8mGTlMXPV_Bri7Wfkp1OuihrR_TvLKMCVsXZfOU2GyRvNgq0lfID-bmE4bMttyWAVLC6igdnFVsUJ_J_LFI_GVEXHuSYPeku67O0YR-heWugNe6sjV_zWGRpdqLvzq2l0_4GDQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/fa9e219aac.mp4?token=IQFxmmOtfyP45g7Thlnxk0OK5QAKWFYsYR8df6kfe5UwyQYEY_VFuTm7YXP_zXEnBdSMCovzeoF5jMb2LLLy0POtFGaV5iMVEd9rzPL3nHc8MbDT60TYQmXBA1wj1Rry4CEOYPZOltyb2r6bZAtN3_33BMVMJQ2SZzb5As0g4mmdZyaYSJhm4bKs_O-CEMQf6V3Fjsi_aD-gVFSClMRcBPUiEGAUL-Yrb7x2bp_uLZysKv3lt1EDHeMQcR5Ns3J_rtETtbSbrzWBRcL340bYCU3aFYM9RxCWzDiGu9tBbUdYxToD_-b7n9a_RBIdZMPUwG75B3U2xYit6zgrR3qCzg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/fa9e219aac.mp4?token=B8kXWGdwk0fgm8KmYxsV12bmEFM2t-XTUz3q_7rpdOAQ7QUTfms5svrw-D0OPGvhte6ucqKexpqquZhmh-XJCgCEettOOmdyk_GYwj2uT6gCQtkWTumYWG9ErWCSNotMltA8qpKJj1Op2DIJYVFtrNPY684lxFWKxsD5KCWbZ6xRnOKmW0EEUiS2bsnqIY7BAvgOy7cCZWkLzYus8mGTlMXPV_Bri7Wfkp1OuihrR_TvLKMCVsXZfOU2GyRvNgq0lfID-bmE4bMttyWAVLC6igdnFVsUJ_J_LFI_GVEXHuSYPeku67O0YR-heWugNe6sjV_zWGRpdqLvzq2l0_4GDQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/fa9e219aac.mp4?token=IQFxmmOtfyP45g7Thlnxk0OK5QAKWFYsYR8df6kfe5UwyQYEY_VFuTm7YXP_zXEnBdSMCovzeoF5jMb2LLLy0POtFGaV5iMVEd9rzPL3nHc8MbDT60TYQmXBA1wj1Rry4CEOYPZOltyb2r6bZAtN3_33BMVMJQ2SZzb5As0g4mmdZyaYSJhm4bKs_O-CEMQf6V3Fjsi_aD-gVFSClMRcBPUiEGAUL-Yrb7x2bp_uLZysKv3lt1EDHeMQcR5Ns3J_rtETtbSbrzWBRcL340bYCU3aFYM9RxCWzDiGu9tBbUdYxToD_-b7n9a_RBIdZMPUwG75B3U2xYit6zgrR3qCzg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این پرامپت هر ریپازیتوری رو به یک نقشه سه‌بعدی تعاملی تبدیل می‌کنه
 🚀
