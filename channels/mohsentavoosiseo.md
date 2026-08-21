@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/ef-EajuEsphZ1uIynYEZ-Ol0gRkprvfih_pStU4hhXOhCg32fHm8nEmhX-MEYJ0NTj6HHAX5wda8qC2W_PIOEZpTNOZvFwAhJ_AvUy5GHmLkXV43xLC8x8rZljsraGQ2c2Mb2KIZKPHE8HZcouHhAmKbLGq0wzrGYo92lDuEz-ri9ufpDvNVcvzWPeAcsMeLk3iUgkJ4Qp34FDiLRSkoOKCi1OklaAMA8oEfw53jTLwFM9-007rdPKwjqjZnjc2IWJUwDnHyYx2kI5PlpQQarI9lihgCMCvOLFlemqXOWljTDiyhy4zFjBzlCtUat2D2wXC1kbNwrUBXILViBi3pUw.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/Bp0k9O9dnT1QK2k6NsPqS5MIEj0H_XFibw2-JFtqppuBTuVtV3Wyx4wbPUQXcQPd6YOsdw9IuoG0iF87HiVqp1BBZIvt1m_H6edsjgd0ka3pgoTvJ2nPcYM1UExz5ZGPh9cPHtdGx2HMgSV385B6wz0dod-Ew8iuIa4sYYiDtc-4WxkWUEKT_xo1GU109s8HJsuJpk6zJyCZZpTI_5FYttkwb1m6u_jI6-WQLVqqPF2KE0bahT4HvNXpyOgYtJrbysc-xoqC1YEu0BoZndCA3Ft3VI8-hL_ceVTv2RszgXDlWOEJ17IXZBbpgYNQ_chZDCAT3u7_SxG3UmOrsyZQIQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو با محسن طاوسی</h1>
 <p>@mohsentavoosiseo • 👥 7.95K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 01:15:28</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 01:44:01</div>
 <hr>
 
 <div class="tg-post" id="msg-911">
@@ -304,7 +304,7 @@
 <div class="tg-post" id="msg-910">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.1K · <a href="https://t.me/mohsentavoosiseo/910" target="_blank">📅 14:53 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.11K · <a href="https://t.me/mohsentavoosiseo/910" target="_blank">📅 14:53 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-909">
@@ -378,7 +378,7 @@
 چون روی کلمه ی اصلی اومده بالا
 پاسخ در ویس:
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.89K · <a href="https://t.me/mohsentavoosiseo/902" target="_blank">📅 19:56 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.9K · <a href="https://t.me/mohsentavoosiseo/902" target="_blank">📅 19:56 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-901">
@@ -615,13 +615,13 @@ booking.com
 اگه اعداد مختلط نون شد اومد سر سفره، یا ماشینتو عوض کردی یا خونتو یا دارایی هات رو یا زندگیت با کیفیت تر شد، قطعا مسیرت درسته.
 حالا به جای این ریاضیات، هرچیزی بذار. از الگوریتم های گوگل تا مستندات و نحوه کارکرد مدل Fable کلاد تا... .
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.35K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.36K · <a href="https://t.me/mohsentavoosiseo/884" target="_blank">📅 20:12 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-883">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">بازگشت قیمت(افزایش) دوره از 1 آبان یا زودتر. اگر قسطی دادید قسط رو تا پایان مهر کامل کنید یا اگر دوستی دارید که میخواسته تهیه کنید بهش اطلاع بدید.  با اومدن اپدیت بزرگ دوره(SEO و GEO بین المللی با AI) قیمت، تغییر خواهد کرد. چه اول آبان 1405 چه زودتر.  طبق…</div>
-<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/mohsentavoosiseo/883" target="_blank">📅 20:01 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-882">
@@ -659,7 +659,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.88K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -688,7 +688,7 @@ mohsentavoosi.com/1
 پیام به:
 @mohsentavoosisupport
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.88K · <a href="https://t.me/mohsentavoosiseo/880" target="_blank">📅 11:55 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/mohsentavoosiseo/880" target="_blank">📅 11:55 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-879">
@@ -838,7 +838,7 @@ Claude Cowork
 با توجه به اینکه اپدیت پیش روی دوره، بسیار تمرکزش سئو بین المللی و چند زبانه و مبتنی بر هوش مصنوعی هست،
 و اسپات پلیر هم دوباره از وایت لیست خارج شده و از خارج دوباره در دسترس نیست و دیتا سنتر ها دوباره محدودیت هایی برای دسترسی از خارج به داخل اعمال کردند،
 اگر نیاز به وی پی ان ایران دارید به دایرکت همین کانال(آیکون پیام یا کلید message) پیام بدید تا وی پی ان ایران براتون بفرستم. وی پی انی که خودم استفاده می کنم (میخرم).</div>
-<div class="tg-footer">👁️ 3.32K · <a href="https://t.me/mohsentavoosiseo/867" target="_blank">📅 12:52 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.33K · <a href="https://t.me/mohsentavoosiseo/867" target="_blank">📅 12:52 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-866">
@@ -1312,7 +1312,7 @@ https://whatismyipaddress.com/
 <div class="tg-post" id="msg-817">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">تفاوت کلاد در چت بات(پایین ترین سطح استفاده از کلاد):  متأسفانه لینکی که دادی به خاطر AJAX فیلتر می‌شن و محتوای واقعی سوال‌ها رو نمی‌تونم ببینم سیستم فیلتر کردن با JavaScript کار می‌کنه که من بهش دسترسی ندارم.  اشاره به همون بحث همیشگی SSR در سئو(https://…</div>
-<div class="tg-footer">👁️ 2.26K · <a href="https://t.me/mohsentavoosiseo/817" target="_blank">📅 14:28 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.27K · <a href="https://t.me/mohsentavoosiseo/817" target="_blank">📅 14:28 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-816">

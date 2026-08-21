@@ -291,14 +291,14 @@
 <p>@farahmand_alipour • 👥 64.1K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 01:15:28</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 01:44:01</div>
 <hr>
 
 <div class="tg-post" id="msg-6633">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X5JGef6Z48XdeANFbKQMsFecOBGzh6j7ZG9l8a5opHGuoxdamAIhdozJ46Bqx33gueobO8IT1rgZ8IZdQNDfwuiz0ySNibW1PaellmLCubp1DJ12jdpOlt6yNZsDHwi1qcINM9g_hCFx-_yWVGdLLxXNY6majTXXmsy7q28hBgjZgxG3UBn34f-5Nq4kIXq4ZytAhGyAQYdIs2JRi5FS_gUtKK0vHUBBlmM9K3Votiw46Lkf_6qG4EC4L8hbQ3FEuymu5WdhAyGxpLxqt76fX743cjdE_X3fpDrl1zqf8wg3VGAQ4GwwNy2_g75D6rqvP7t-NhetExcVm3gJuxK3Fw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">الحبوسی - رئیس پارلمان عراق!</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/farahmand_alipour/6633" target="_blank">📅 19:03 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/farahmand_alipour/6633" target="_blank">📅 19:03 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6632">
@@ -324,7 +324,7 @@
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IGqjGEaKqvdTFhoUceIolmvyLfRbwSGWioPVwEnhMJdcEZXLD7BotRWHuPGUxozSpoZVthqj4276WcGPB_4MWQnbtTV0nPkCFOWvLsly_JkjoSLManwlIphuy6wVudxFry5iOF6B_8-oFA494myhtYnpl7fy9DGbVbpXPZiYj_oaOHbZbJ-EVFGwp6ZJL3aPz8LoDVNwbVD2xZUhDAjyaT24zx1gHtjE9DMrMhf8d4VuX2JIwUIi2Jd3llV7S44iVkr72hQ0ASO9QEOOZNeM4SLEGfueFyBeu1iW45_j44uFPlcHhsVhCM85Yh0eNE3Erb7J-4hNuPKyWwo1ysrEhA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد هم یک انتخابات نصفه و نیمه برگزار کرد و طوری انتخابات رو جمع کرد که تعداد حامیان شاه در مجلس زیاد نشن!  و مجلس رو با ۸۰ نماینده بست!  شاه در عمل مانع این کارش شد؟  نه!  رفت رفراندوم غیر قانونی و مضحکی در کشور راه انداخت و مجلس رو  به طور کاملا غیرقانونی…</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/farahmand_alipour/6629" target="_blank">📅 16:42 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/farahmand_alipour/6629" target="_blank">📅 16:42 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6628">
@@ -343,21 +343,21 @@
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P0ohILSPW2O_SOe1NkBErJEIPThX09VhvtcXHmXbCIBFRzoYpIjdImQ1uTAjvO9VGOg88kDcNbPLnbBPqh-SQ7riC_M4ARMNoK0fuv5gJQx5aQvZV_l1XkN2PdLiO4zpHitRdGMAfGr8LREZK3DwBWODCcSQyyQ2a89QYJ4eubPDvX0XbAyxgGM0A8DNWB135UGxS006tUwSCkH_OtWNiaNxWS4W1tDykwgZPVd-FteeFIE3KfNfo0eXn3hhU5wRq7iVxl6PdsJf3X4C_bJoH4bQr9DAtMB0hGtSZq4nGZq4f2E4TTkVQOwGS7KQiLm-8rIoM2LkEx5D9asQsI8YXw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینکه مصدق با بیان یک جمله پوپولیستی که «مجلس همان جایی است که ملت است»!  در یک جمع چند هزار نفره،  رفت به سمت بستن مجلس!  اقدامی که اساسا نخست وزیر حق این  کار رو نداشت! و فقط شاه در مواقع اضطراری حق چنین کاری رو داشت!  ولی مصدق چی کار کرد؟  مثلا قانون رو…</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/farahmand_alipour/6626" target="_blank">📅 16:26 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/farahmand_alipour/6626" target="_blank">📅 16:26 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6625">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VJHtpWwHZyVHW2lU_mwtMNMYpcAet42p9zbh5LNkNfcjgWxC4vuS_54RU8irkW9Oa5Gk9FZ4h5VG3F25VZlzKjD3sp_l1rWoXJ9ky3blOz4bCoA7L8NM6Y-nM5NKU-2Fbo3eRWedEPylIlLj_lgLFewsArzbHKA0vO24smst1YYsFpB5mCjBXS9ClE4lKV3hw_mi79NMAkATsZBPs0UsPYOveq2P7s1d8iM97tuA2anMEW-cuLT63IMWZEBNWes76gnL1xGhlaPzTlsjGHIJYPX0CzZD5tfCqkfXZlT_x8lE00bvHJrwJRMK_14CGx3xmMAAfB2YTpAj-ealFvQoEg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چون پولی در بساط کشور نمونده بود،  مصدق از مجلس خواست که مالیات سنگینی   بر ثروتمندان ببندن و زمین‌های خوانین  و فئودال‌ها رو ازشون بگیرن!  نماینده‌ها مخالف کردن! گفتن کشور خودش در بدبختی و بی پولیه ما این مالیات رو هم ببندیم و با خوانین در هر گوشه کشور هم…</div>
-<div class="tg-footer">👁️ 9.39K · <a href="https://t.me/farahmand_alipour/6625" target="_blank">📅 16:23 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/farahmand_alipour/6625" target="_blank">📅 16:23 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6624">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hVwOmj27ZXolV-KHP8L2D4Pahm8zRA8AB_-G7fikzdtlJ7jhbtBuL0WDe8xxF9RswR2T8tnFWJtpwq4V9gw0yGV5nVDoZyXWDE20mX8jiFYr__iFZTTmctUqMzSajNX6q-Is9lJBXHyUz2Ias9_0N8TAFw4pevRzXDELdoz8xuFJJrS77hH-zV8fz5P_UHwOMBGHMAbrFj3qIiUKL4ZSPQ64mLEVPhA0s5dlfjp5bsSH-_3dmo0OK2faekZvbmUsmxy2vmGRUfY6HJG4rP3CbgnCCVj_47CYxM69BBGiUqCJcr4OvzlWcxy2VYmq-PUiTVV2DjqYUk05tcQLaP-t0g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینها رفتند نفت رو ملی اعلام کردند  ولی فهمیدن نمی‌تونن نفت بفروشن!  چون نفت نمی‌تونستن بفروشن، پولی براشون نمونده بود! وارداتی انجام نمیشد!  کشور دچار قحطی شده  و گرانی و تورم شدید!  حالا مصدق رفته بود و از مجلس درخواست‌هایی میداد از جمله اینکه  وزارت جنگ…</div>
-<div class="tg-footer">👁️ 9.13K · <a href="https://t.me/farahmand_alipour/6624" target="_blank">📅 16:18 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.14K · <a href="https://t.me/farahmand_alipour/6624" target="_blank">📅 16:18 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6623">
@@ -1072,7 +1072,7 @@
 
 <div class="tg-post" id="msg-6545">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BVEL7rAGEuRjpqfqxhJY1-xwsbq-aPfxUbZ_Z0iHMzuF0NgIs6hJUs40rkH_EsOv41CH7HAlltOuZ2hrK28K723Ey3SrQZ9hzgJgtrjWZoFMJY6WrstkjBOyxC4VGSryVhgx_3pc9xaKgghdQELoAlNhFV_O7kTUNB2CoOuuAayaQz3vTKVfUYdcAwK55Ywy64HHWOTWCWStdKK-rJk3WkD1o8q6lQ7wl540VlpoNcP2rY2xIKXqS8RhhbUnkhnOQtYTAH4xgv9ULWXwjQczUY1egqgFuNkvSJi2-Axmv_Yg1wjZA1mJoVnE0VPxm67TjPW_780qNJNOFY1PMx7JCw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pLvhq8rnYGXGF1bjpVGm9SAqSqxQjmr_i6F86cJMylMr7poIaqZa-DMTBgg0XKAhxJyqAFE5kg8SOP7ihLVC8vHX6iLC0kmwfSlLzLFXSyo2rzoqaIu_XPJcIW3FoEfnoAoZ1AgYoTBjDR6FK20SyxfLsKjB3NP4dolFs1bX6PIFD7CTgu2ehLKjP7u2jvu2kQ-PjNPZrVd3p8A4n-vLg57_0ObPpxAxavvMNIg0tKeJ4KRmxHsTVpRHKpz8ZdQKDU90a9d9WP-v522rHyekTqLi2TqUU-oPZwkqBfE4LRn_LogjDUbN8gvPiFg_r-g7tjTAlwCbR40gE3zHWRo7zw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">شارلی ابدو
 ایران - اینجا تمام سال
 خورشید گرفتگی است.
