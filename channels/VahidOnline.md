@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 05:48:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 06:57:27</div>
 <hr>
 
 <div class="tg-post" id="msg-77976">
@@ -305,7 +305,7 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 99.2K · <a href="https://t.me/VahidOnline/77976" target="_blank">📅 01:47 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/VahidOnline/77976" target="_blank">📅 01:47 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77974">
@@ -319,7 +319,7 @@ VahidHeadline
 VahidOnLive
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 94.2K · <a href="https://t.me/VahidOnline/77974" target="_blank">📅 01:46 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/VahidOnline/77974" target="_blank">📅 01:46 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77973">
@@ -344,7 +344,7 @@ VahidOnLive
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 209K · <a href="https://t.me/VahidOnline/77973" target="_blank">📅 20:18 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 216K · <a href="https://t.me/VahidOnline/77973" target="_blank">📅 20:18 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77968">
@@ -369,7 +369,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 241K · <a href="https://t.me/VahidOnline/77968" target="_blank">📅 16:07 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 245K · <a href="https://t.me/VahidOnline/77968" target="_blank">📅 16:07 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77966">
@@ -388,7 +388,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 233K · <a href="https://t.me/VahidOnline/77966" target="_blank">📅 15:32 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 236K · <a href="https://t.me/VahidOnline/77966" target="_blank">📅 15:32 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77963">
@@ -408,7 +408,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 221K · <a href="https://t.me/VahidOnline/77963" target="_blank">📅 15:28 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 223K · <a href="https://t.me/VahidOnline/77963" target="_blank">📅 15:28 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77962">
@@ -423,7 +423,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 229K · <a href="https://t.me/VahidOnline/77962" target="_blank">📅 15:19 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 232K · <a href="https://t.me/VahidOnline/77962" target="_blank">📅 15:19 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77961">
@@ -456,7 +456,7 @@ realDonaldTrump
 توضیح چت‌جی‌پی‌تی: D-Day در اصل اصطلاح نظامی برای «روز آغاز یک عملیات بزرگ» است، اما در کاربرد عمومی تقریباً بلافاصله عملیات نرماندی در ۶ ژوئن ۱۹۴۴ و آغاز تهاجم گسترده متفقین در اروپا را تداعی می‌کند. بنابراین ترامپ با گفتن ECONOMIC D-DAY می‌خواهد بگوید این اقدامات اقتصادی قرار است چیزی شبیه یک حمله بزرگ، تعیین‌کننده و همه‌جانبه در جنگ اقتصادی باشد.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 318K · <a href="https://t.me/VahidOnline/77961" target="_blank">📅 02:33 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 319K · <a href="https://t.me/VahidOnline/77961" target="_blank">📅 02:33 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77960">
@@ -491,7 +491,7 @@ pinned «
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 287K · <a href="https://t.me/VahidOnline/77959" target="_blank">📅 01:12 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/77959" target="_blank">📅 01:12 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77958">
@@ -515,7 +515,7 @@ VahidHeadline
 اما اتفاق دیگری که افتاده این است که مردم گزینه‌های جایگزین دیگری پیدا کرده‌اند که هرگز به آنها فکر نمی‌کردند: تگزاس، آلاسکا، لوئیزیانا و جاهای دیگر. علاوه بر این، تعداد بی‌سابقه‌ای خط لوله در حال ساخت است. بنابراین فکر می‌کنم تنگه هرمز دیگر به آن اندازه که در گذشته اهمیت داشت، مهم نخواهد بود.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 258K · <a href="https://t.me/VahidOnline/77958" target="_blank">📅 01:10 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 259K · <a href="https://t.me/VahidOnline/77958" target="_blank">📅 01:10 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77957">
@@ -532,7 +532,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 272K · <a href="https://t.me/VahidOnline/77957" target="_blank">📅 23:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 273K · <a href="https://t.me/VahidOnline/77957" target="_blank">📅 23:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77956">
@@ -560,7 +560,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 278K · <a href="https://t.me/VahidOnline/77956" target="_blank">📅 20:07 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 279K · <a href="https://t.me/VahidOnline/77956" target="_blank">📅 20:07 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77954">
@@ -603,7 +603,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 248K · <a href="https://t.me/VahidOnline/77952" target="_blank">📅 16:43 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 249K · <a href="https://t.me/VahidOnline/77952" target="_blank">📅 16:43 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77951">
@@ -642,7 +642,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 215K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 216K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77948">
@@ -686,7 +686,7 @@ VahidHeadline
 hra_news
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 271K · <a href="https://t.me/VahidOnline/77946" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 272K · <a href="https://t.me/VahidOnline/77946" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77945">
@@ -701,7 +701,7 @@ hra_news
 mofauae
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 334K · <a href="https://t.me/VahidOnline/77945" target="_blank">📅 23:53 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 335K · <a href="https://t.me/VahidOnline/77945" target="_blank">📅 23:53 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77944">
@@ -895,7 +895,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-77930">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vNEZb1MpMk_fW02Xtkyjm8lOT11bdAZ5IWmtl2fMxVzSQduQcgFCJOLTBEsAD8S6Vui9vze7GIccw15IdMUqYTOQuVfUINStLvoj_riDw85zVaIEtvMWB2jpLGhZEA8jtn1YtKLFE9_LMqeLdG8gdw_FhucraqcZDV6_xlMsr9agew75LA930PNYslf4_ET3MpxKE2lLnwthx35NZq8jSGnO_QAc7VPKVnChT4B1bFcGG5ZmZBGgowYaKR-f8ZPsHqrLxRjDRLmoueoRT3XKcPGWzFxSQoghI2R2kytxbYIVczEBOCqruafR8zz-5xFDuyt_FH-hVOrnpXd8rSivNA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/STEPlx4qadXpZz_kT6mlqimVY2q670zjwVdLkMn5b2L_YwRIGay_X7UR2K-YWSUuIlgqNrk1lAjyzScaYOAfQzZbRt77kKR6Fs6s71vsVgLygTU1kDQJWg_HTiC5OW58BJFrdeDnko4wbLcKTfJOa3L43fz4qYWMyEDTWfkiGY8YrOMqBOO4VraRtfZkEZXzQiVOrr6jNv0NItwlxM12UpLby40JJymIKThFRJVaMvgtsr1oP76iWZEV0beDNoEHBzyozXvrUDgKOjRSsEbLWjK0K7qttOIGjOQ6H2liCwUL3k6cyOVhbQFbUeAr0Pgw-CGPlZSDLCuvXBTl8xeSWw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">UKMTO:
 مرکز عملیات تجارت دریایی بریتانیا گزارشی از وقوع یک حادثه در تنگه هرمز دریافت کرده است.
 افسر امنیتی شرکت گزارش داده که یک شناور هنگام عبور به سمت خارج از تنگه هرمز، با پرتابه‌ای ناشناس مورد اصابت قرار گرفته است.
@@ -926,7 +926,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-77928">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GRwyF8M9TixxGrK4sQffqQSUwVOLRI6F8-aCVu9T3efyTzXdnvgz8kyl6cuyepJsgQCe50KwRkKhcEdKpzPcTOr9FXGZwpmcF6p-RjJbW7iTRWv5iDNyv2fZohQs5HmS-0YvmXazdMXgLjWMGeFCjcTc0Ot3HQJNOd-QESGIkag63QekRT3oJwebgIIDE8AIYjrEFh24J4umNSrhj1ViqTiw_ao-bP_pSV0IwtcxFFJ6MNSSLXHTSLURyRA5mgM-9TySeqAmg7693TgKSVnEGW8R8QDu_pvEX5WcWgStc43vNzuKLi1DvP2FSVBygG0UA0DAmeJUCruqd0tZ97F0CQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mVxxBiLigoSAPytvkwG3-O2udB7CP7JmxayfzYQPwIYAV-RjRYjrC_eTlTDM8EVc4MO7jko_C-8LOk1GvOLOfHa3SlVIGsr-aJdjjMvfVWY4ci0PuBmuQcjV65L0b13zLRqZvdw-Nh3nGCc7phFg7M9XMwWXfFlIeH1FMncrkUqGSfByDqU3Z-NfS87yY4LMDLGFII2Dj1xWesywnzILZG-gxy_GXa-_j_caAqbMhZDqmqAhdzawOwyLY6E_d1w2jlYLGO95Rqpfoe183aa9-oyZ1eO7H1Q5bvlSZfvwHSF0uyclvBDt239FkK_BemzBbu5mrRpNQ69pgsJ2LmzP9g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رجب طیب اردوغان، رئیس‌جمهور ترکیه، در گفتگو با دونالد ترامپ، رئیس‌جمهوری آمریکا گفت که ادامه گفتگوها با ایران برای بهره‌گیری از دیپلماسی حائز اهمیت است و ترکیه آماده مشارکت در این زمینه است.
 دفتر ریاست‌جمهوری ترکیه اعلام کرد که در این گفتگوی تلفنی رجب طیب اردوغان، آمادگی آنکارا را برای حمایت از تلاش‌های صلح ابراز کرد.
 پیش از این جرد کوشنر، فرستاده دونالد ترامپ، رئیس جمهور آمریکا، گفته بود که گفت‌وگوهای ایران و آمریکا جدی و فشرده است، اما دو طرف هنوز به تفاهم نرسیده‌اند.
@@ -1047,7 +1047,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 316K · <a href="https://t.me/VahidOnline/77918" target="_blank">📅 17:44 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 317K · <a href="https://t.me/VahidOnline/77918" target="_blank">📅 17:44 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77917">
@@ -1067,7 +1067,7 @@ VahidHeadline
 @VahidOnline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 298K · <a href="https://t.me/VahidOnline/77917" target="_blank">📅 17:41 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 299K · <a href="https://t.me/VahidOnline/77917" target="_blank">📅 17:41 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77916">
@@ -1103,7 +1103,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 250K · <a href="https://t.me/VahidOnline/77915" target="_blank">📅 17:23 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 251K · <a href="https://t.me/VahidOnline/77915" target="_blank">📅 17:23 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77914">
@@ -2045,8 +2045,8 @@ VahidHeadline
 <div class="tg-post" id="msg-77825">
 <div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/MP0TGmDCTTpQlx5MmIh93ZTT99AAj83Q_uv8DmKwzq-E1fX8AtiBQmEmvTwhyYwCB3Tzix3JNpjsN7DFFNcepmDMMeYbsTj_7jSHzLjhE_Di9xHgzMjYGwJrl7Z4ry2H2b9ieaq0biPVrBf6ejfc3vcEA--BigMjUuG-_GncMcq0MAf4MpTlq4v9Y9Y9DlQ3kCWzC27GQRht5angoXVm22BcIvnyoWs5Gnm87Nbc2J9UhmhyLmcfONldfBXAX9JaI_3w07j_xgYEztvJyYVXWTxZK1w06YsuCxgwRGuaX77uekBrtlbWxrnuoNkRpKWfPMdRSPUVuNyex1KBeX19og.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/BS0tRTKCBKgbAcMFW8kyhDa9MxyYXeYPorC4BxlizQ5WI3n5UO3kFcfi5XZx8C_1zlZE2FhNrYdEZ8bhZcoDiI_2LVsaxfv-OXmEqJn07yabaEy9Uwe02ZEaMxMCBBfwx4umjNbFpcSAu3q_XIcNaGH4hFU4D6CO11D93uUEaYtXzDmVtoUzjkpukpVeeWj25AAQCQg02s1Kpu3gqWOnMc6ffRSI8Fo2-fFazH79eEdj9ulbPmzzo2sQ-EtkmO7QT146T9qojzKse-obCEpOBuUIRw7gLMiBXVK2wCxyTYXQ25zaBGjV_TAkrUQXFFrzgu4q8vAJBfxbEKB3jxvNwg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/jssImyU6LwG_USpzopmlgGmNYCl4H5b1N_JoeElgIQFGQ-GN_OeyMVP8mGx5TJ1_koZDIEh_V_XKS-4Uq8tO7RBjHTVeV8MpdkVUn8snITjGWJXBBamV3LjL6InsWk4tOH89Gcy_v-EngmG380-NRA9gNz9L6jQTSyWuPmg-X1cL0K5GrovleSTWl-JWkLu7Ns5wfQjf3jTnD1mtXyAWGI9Bc2p2w9Ejq8CtptT_jJORrqqlDMRAjkoX-y5UziJxo4jmhJOZ0vp0Rl-jMYSghbeYEdJLNd_-4ATfdZtIRHaQ_703JYfXNWubmiuQSFuQIfbCka0LaIeB4fqvUe1kQQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/HZFWeQmU07Mo4d0_LE1VqFZHKYIykp9-NxrPmo5Hijlnvvtfhe4xW5Ze--3xaWyBcBLR3iuieqBbeWSqEC6LJcVnsQVuftSY95S8rrBh20plzhNnFATdK8dw0-ZbWRlnuHEJF4fRao0K4GZhgLlRD7VrZdw227bIUODsnfM7opZbrCiLknG0qQ840x-ZjqmdXq0hizluEKcgh7kvQ-126mWEIjiCRlW5Z-VF24Tdi4RGo6TnUwp8EY3uViY8KXGrBWWKz5QLVBn5ji6nCyvMgd8Pb1YVIABoGnIih4yJ-9eOVpsu8_r1svLWr7retbgngiZpC3upSwp2j-knnisTWg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">اظهارات علنی متناقض؛ ترامپ در پی تهدید ایران، مخفیانه با پروازی دیگر از ترکیه خارج شد  ترجمه ماشین: واشنگتن‌پست دریافته است که تهدید ایران به ترور دونالد ترامپ، رئیس‌جمهور آمریکا، ماه گذشته باعث اجرای عملیاتی فوق‌العاده شد که طی آن ترامپ به‌طور مخفیانه با…</div>
 <div class="tg-footer">👁️ 360K · <a href="https://t.me/VahidOnline/77825" target="_blank">📅 08:02 · 21 Mordad 1405</a></div>
@@ -2056,10 +2056,10 @@ VahidHeadline
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/49def3f074.mp4?token=CgZIuRVV-b0kyW0hm09M7FOYhvK0boRx4_VYW6zQmKqX39doTBmYLd-j2RWUzUXh-tsgYBJvKay-_6uIR15-hEOhCb6ZafFLonDrdJW4Vc9ykjc18bKgAUpIF0BDJUdedfEzp2E25aeYYdnPJI81YJ7qRA-P7DpiewdNMivmCzcH8RlgQB-VRXCenVR6YPTBooFj90khzwPTKjIlmgyPLcKGlp3-Lc87ku2Fh8BaV8PYt2YWiXdcL_wAUS-qJ0mTsH1VpWRMnnxqKyqUqgYzrEVxVWBfPoch4HDAQ1eWeMBcHsjhgVNFGEzVnxljLaaZ17RglPqrwh7grodV3krwRg" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/49def3f074.mp4?token=rGAEPGdmQSJjjyt-04vP_YeTZgO5NLtWDo7L0zeJhdkfsUWnV-BeenbgSq8feEI6aj3O7yZKBeYquayKSvuqcZVTVV44vDxulsSdpkbj2YZvhEhgkF09ImGbu_C5hYW3HWd3on3vRD_cz3OODx4WtETM_bq4IGpbiixdzqEafoSa04W4Lu18uodlu2BejkV02cqS6rbBdX9KN36oyUcsA-ub2pvXQAJ07MQLaQ798Akaa6F3Zkc6VO7zXVjGrQyw6hJcUCV--JsYqwzJPY3rNIGF9_WoKnWMVgF8_zMhlBFcGm9jkVT1H-DhQpcAGYlVZ64STF0-unydzoegQko0zg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/49def3f074.mp4?token=CgZIuRVV-b0kyW0hm09M7FOYhvK0boRx4_VYW6zQmKqX39doTBmYLd-j2RWUzUXh-tsgYBJvKay-_6uIR15-hEOhCb6ZafFLonDrdJW4Vc9ykjc18bKgAUpIF0BDJUdedfEzp2E25aeYYdnPJI81YJ7qRA-P7DpiewdNMivmCzcH8RlgQB-VRXCenVR6YPTBooFj90khzwPTKjIlmgyPLcKGlp3-Lc87ku2Fh8BaV8PYt2YWiXdcL_wAUS-qJ0mTsH1VpWRMnnxqKyqUqgYzrEVxVWBfPoch4HDAQ1eWeMBcHsjhgVNFGEzVnxljLaaZ17RglPqrwh7grodV3krwRg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/49def3f074.mp4?token=rGAEPGdmQSJjjyt-04vP_YeTZgO5NLtWDo7L0zeJhdkfsUWnV-BeenbgSq8feEI6aj3O7yZKBeYquayKSvuqcZVTVV44vDxulsSdpkbj2YZvhEhgkF09ImGbu_C5hYW3HWd3on3vRD_cz3OODx4WtETM_bq4IGpbiixdzqEafoSa04W4Lu18uodlu2BejkV02cqS6rbBdX9KN36oyUcsA-ub2pvXQAJ07MQLaQ798Akaa6F3Zkc6VO7zXVjGrQyw6hJcUCV--JsYqwzJPY3rNIGF9_WoKnWMVgF8_zMhlBFcGm9jkVT1H-DhQpcAGYlVZ64STF0-unydzoegQko0zg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">دونالد ترامپ، رئیس‌جمهوری ایالات متحده، در گفتگو با خبرنگاران گفت به ایران اعتماد ندارد و افزود: «من آخرین کسی هستم که به ایران اعتماد می‌کند. آنها پیوسته به من دروغ گفته‌اند.»
 ترامپ همچنین گفت ایالات متحده در حال حاضر «کنترل کامل» تنگه هرمز را در اختیار دارد و افزود: «آنها کنترلی ندارند. ما کنترل کامل داریم. اختیار آن دست ماست.» رئیس‌جمهوری آمریکا در ادامه گفت ایران دیگر «قلدر خاورمیانه» نیست
