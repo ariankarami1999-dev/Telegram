@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 03:17:35</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 04:16:20</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -1261,7 +1261,7 @@ slcyber
 
 <div class="tg-post" id="msg-2500">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XaTHxiKGrIohcmOJI2EamWqIhGP5vX6xPUJZ40HkIBQJ-Xu08Pz_dSsZitAC5y-P_4xQJB63AgaOGcJNb_k5CxVO7kGScYiu4PZNa0aSNlzRcrvpJTwL-fk5y61JF6HtaNUWdXNciLSxKaBjg2UnySCPy4Sr0j6vpdz5OU-Y7-n3g5k7kL-oPIOPOOr88eLopmty7RPZjsDJGdsIpLlA-pJgv25rpX-u1haERRq05Qa1osR1Qsgfog5m8qwc9BPNRw8S-NrbXQPjISeVp5rP1kPBMDJk9hiEBbEk2qUFUhX383qhSbZdLbqWp6a_l7azTs0yFiML7yiUyOxkdAYCGg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qGXzuGu_AA4VzEZLIBH837ArlsTO0Lfh062Fuz5LdGCMDZ9VJn5UlvVjM6LZkL2VdSS5RlP_dL_gxEZUjJPsFd_RLw5TbtVX2v4EQHicu4qJjR1RlTqodwlZRnP9QBVshJU_VwDI3syOyikoDN3SIC62OWn1jAtAfsk4HI1uJOS0DVYTv25VN1XLkLJPJNAF9NsnVfzT3sM-tIqKfGKz7YJg9sddkQ2ebWwsLv3miuO6zCCC7Q9Wtk_M7vnvGew-yDkR2391TTSNfgnI-hZ4KTjdhYDp-lcDPiviKC2iFOqHvF0tG6q12X1uusSbim8f6Xn1Kn3DxrUPnVy-EM7vfw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگرچه قضیه ترند شدن "لغو عضویت جانفدا" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه "وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1694,7 +1694,7 @@ github.com/SamNet-dev/MTProxyMax
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.7K · <a href="https://t.me/ircfspace/2474" target="_blank">📅 08:03 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/ircfspace/2474" target="_blank">📅 08:03 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2473">
@@ -1778,7 +1778,7 @@ alirezashirazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 48.2K · <a href="https://t.me/ircfspace/2469" target="_blank">📅 07:36 · 09 Tir 1405</a></div>
+<div class="tg-footer">👁️ 48.3K · <a href="https://t.me/ircfspace/2469" target="_blank">📅 07:36 · 09 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2468">
