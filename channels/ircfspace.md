@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 19:54:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 20:28:46</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -1819,7 +1819,7 @@ arashzd
 
 <div class="tg-post" id="msg-2466">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sO-wS2QKrQq2mzsPeyG6pITUI0MRSLxq5v0butdFgaNBiGC0OsxBXF1ERS2m03HdkpPM4uhCf_P3udL6KQolT9FNcUH-A4SLpjKh6AFwalTC-LK49QabMgZylrBqEoQ8MXSKppAFcg02ml6k1oco-q2Qrw0CBzc-1dysisG_Iq5g_cuAEf4KkPy60i22HICx2uxwnPp8KDAmtyzQ4SQvlccztbmJIdV2dcVHeZ5_ssHZJGRZ0772ZzNNvtEpfe2-6Br9ER9kc-WCPYk8LL0vDBAqgYMPgYOAEA46yMgKztR7HAp7jTLFilPlHiWqXc5P5LQwaCagfoTFk94N_coz-g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RPXG9AQ2Y1Ki0ez1e19HNoTfmbHTPRqr_fay-xCm4SKdozDzNuAIvA8nZW4kBWNlRRzezsToz-yYzJI0nlaK341_YX29No9IR-CfChYNgt-DOR5wN2e4iBEOBnnAVDw7FBHjkPciR9Z9B2wHkapEI124ZWRwlPBWI-y4vdDEkCIp3P3nWSFIwz62PmsjmcnBzswxORSUkhJNzAdnoq1eEbcUg4x5N6a3950FGBOcEEYReVPAVgfHrHXW4edVqJkcCbzqXo2hUNjetO4s2cK873ksP3vz8gnU1JRHQcNYHk5z-vamWh7ACVqyb8UGd0Gs1PDAB4K2lzy6C59rL_UK3w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایران از رتبه‌بندی جهانی اسپیدتست حذف شده. شاید فکر کنید چون دیگه حتی ته جدوله، رتبه بدترین اینترنت هم توصیف مناسبی نیست، یا دیگه زیر ۰ و منفی جوابگو نیست.
 نه، چون چیزی که داره ارائه میشه اسمش اینترنت نیست!
 👉
