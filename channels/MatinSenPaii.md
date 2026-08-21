@@ -292,7 +292,7 @@
 <a href="https://t.me/MatinSenPaii" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)•YouTube:http://www.youtube.com/@Matin_SenPai•Github:https://github.com/MatinSenPai</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 21:59:47</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 22:36:41</div>
 <hr>
 
 <div class="tg-post" id="msg-5010">
@@ -336,7 +336,7 @@ Settings ← Diagnostics
 ⬇️
 دانلود
 https://github.com/WhiteDNS/WhiteAestherMobile/releases/latest</div>
-<div class="tg-footer">👁️ 2.92K · <a href="https://t.me/MatinSenPaii/5010" target="_blank">📅 21:38 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/MatinSenPaii/5010" target="_blank">📅 21:38 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5008">
@@ -346,7 +346,7 @@ https://github.com/WhiteDNS/WhiteAestherMobile/releases/latest</div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/jp-8IItaaeiWBDrJlqfC66jHqRMOnyHxtyphS-LsRTU8nGKCB68fXcH8qItJ5zWO7xIZDinKRq-ZzQYMxrnunUsDhfhY05lp0_-U977Gl3kERmNU33O6T8lsMtZOUq19P8WI_mW_QVyllNbJfrbHNEj0W5y7BjSpT0F0SjmG1CH9BNKobHGCgtEQrr2GdVUHYUwV4uPPufqHuCBU5TqidMyGBYFbiC5YahrytwV3VmIhUpJXYPvP9DuUrVyyl94GT8zRQLoW4rH_XQBRlllR13k1RpyIfLlVqNhk8to6f34n9LbTvxOY7oZmDyKYoIP4Qm0hBXp_4ztbiWqBmhI8Ig.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">اگه حوصله خوندن توضیحات رو ندارید، فقط ساب زیر را وارد PattNG کرده و لذت ببرید !  https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt  ساب هر ۲۴ ساعت آپدیت میشود. /// توضیحات:  چند تا از پروژه های عالی که کانفیگهای رایگان را جمع‌آوری…</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/MatinSenPaii/5008" target="_blank">📅 15:11 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/MatinSenPaii/5008" target="_blank">📅 15:11 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5007">
@@ -372,20 +372,20 @@ https://github.com/Delta-Kronecker/V2ray-Config
 PattNG
 استفاده کنید، بزودی در سایر کلاینتها نیز این مورد پشتیبانی میشود.
 https://github.com/patterniha/Free-Configs</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/MatinSenPaii/5007" target="_blank">📅 15:09 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/MatinSenPaii/5007" target="_blank">📅 15:09 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5006">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lBZfo6dltEpCUvwMa3lYQU0phKNvOIlxB9IlxHV-CZqQw2yrSvzlXJuQUq3DGPYVjb6OQw7rAjGPJBLEldxYj53ELwNFKPKH2bBs030VznipHDiQfSit2GfQDnp8JSogic7MK-dOQOyjfkbutpF6x5a3XZnafD1aUsYqlWlQD3zfGpxJ8n85vb19vxQIOfQqRcgTIK9br3e3PF7No8AKJO6yWUenV-fPEA4dxQNBlCeYW1WKQwuk_RYtAUjyfzXVCAtPBE99vkjC6QKv1kCR5lDi-DUM8c4vPRz4tMzR_dWK9_bA_hPse23O9jBg6oOyJzT1AsM-EflIgfsDYqC-nA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه مقایسه‌ای دارم انجام میدم</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/MatinSenPaii/5006" target="_blank">📅 03:19 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/MatinSenPaii/5006" target="_blank">📅 03:19 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5005">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">آقا این Muse Spark هم عجب چیزیه:) روی هارنس درست به نظرم شاهکار میکنه. فعلا روی OpenCode به شدت سریع و اوکیه</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/MatinSenPaii/5005" target="_blank">📅 03:17 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/MatinSenPaii/5005" target="_blank">📅 03:17 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5004">
@@ -393,13 +393,13 @@ https://github.com/patterniha/Free-Configs</div>
 <div class="tg-text">بیاید بریم Rust یاد بگیریم لایو هستیم روی
 🟩
 : https://kick.com/matinsenpai</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/MatinSenPaii/5004" target="_blank">📅 21:00 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/MatinSenPaii/5004" target="_blank">📅 21:00 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5003">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">بچه ها بازی Rust نه. زبان Rust:))</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/MatinSenPaii/5003" target="_blank">📅 19:11 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/MatinSenPaii/5003" target="_blank">📅 19:11 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5002">
@@ -410,14 +410,14 @@ https://github.com/patterniha/Free-Configs</div>
 🟩
 :
 https://kick.com/matinsenpai</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/MatinSenPaii/5002" target="_blank">📅 19:05 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/MatinSenPaii/5002" target="_blank">📅 19:05 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5001">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">آپدیت جدید Aether:
 توی این آپدیت روی مسیریابی (روتینگ) و اتصال از پشت پروکسی کار شده</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/MatinSenPaii/5001" target="_blank">📅 03:22 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/MatinSenPaii/5001" target="_blank">📅 03:22 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4999">
@@ -427,21 +427,21 @@ https://kick.com/matinsenpai</div>
 لایو هستیم روی کیک:
 🟩
 https://kick.com/matinsenpai</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/MatinSenPaii/4999" target="_blank">📅 21:45 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/MatinSenPaii/4999" target="_blank">📅 21:45 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4998">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">حس می‌کنم شدم هوش طبیعی متین سنپای که پول توکنش رو نمیده
 😂</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/MatinSenPaii/4998" target="_blank">📅 20:45 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/MatinSenPaii/4998" target="_blank">📅 20:45 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4997">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">بچه‌ها شرمنده می‌کنید با استار هایی که میزنید. ممنونم
 ❤️</div>
-<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/MatinSenPaii/4997" target="_blank">📅 20:44 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/MatinSenPaii/4997" target="_blank">📅 20:44 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4996">
@@ -462,7 +462,7 @@ https://github.com/nesquena/hermes-webui
 خیلی ساده همون پروژه اصلی رو میاد براتون نصب میکنه
 حس می‌کنم شدم هوش طبیعی متین سنپای که پول توکنش رو نمیده
 😂</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/MatinSenPaii/4996" target="_blank">📅 20:42 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/MatinSenPaii/4996" target="_blank">📅 20:42 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4994">
@@ -472,7 +472,7 @@ https://github.com/nesquena/hermes-webui
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/irNRcde0SKFjiEt1BxAwgdTh3UcoLN1hsmON2AetVPYhKnCGBJRpTP6907QPwQljQrAsqZ7eaAvf7UqAsnQY3wCmJV--pq-qz0Kz3tizXJEQeHtIgKKVtIeMkT6soioutUkrNliwIVEg-_XJrbdgeFY6OebRD0LlyPXyVemRhuem8bZlO4CA-FFZ_Xy8D9Tjv3VL_cquoDgbgGRG9O0dVgigAWOMwepSYGJ-Ub9qD_9fmwJmbiA6teM2RoyyUmcyJU0Zf40t9Tf-hfN_4L0fBH43gIY7N0WMtrDkZWKrnGMUIKmPkc4L9Ae19ugzIaPGTzT4RBBBA6VLG3yeYnBgvA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">روش پرداخت بین‌المللی و گرفتن Visa Card مجازی  خب دوستان، امروز می‌خوام بهتون یاد بدم چطوری می‌تونید با این وبسایت، برای خودتون ویزا کارت بگیرید: https://app.mpay.cards?startapp=ref_PzwXZ8 (لینک رفرال هست. می‌تونید آخرش رو پاک کنید اگر دوست نداشتید) 1- بعد…</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/MatinSenPaii/4994" target="_blank">📅 15:42 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/MatinSenPaii/4994" target="_blank">📅 15:42 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4993">
@@ -488,7 +488,7 @@ https://github.com/nesquena/hermes-webui
 🔥
 🔥
 🔥</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/MatinSenPaii/4993" target="_blank">📅 08:02 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/MatinSenPaii/4993" target="_blank">📅 08:02 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4992">
@@ -496,7 +496,7 @@ https://github.com/nesquena/hermes-webui
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JeaSERK9AiYBkbFtd_ir1NoVkp2YAmbQNOAORRvkvFF4y61hSRLFcBq6QQWk55do18RhOqAQ3wOVfZOJIl1AwXPSnFqxiQws8NMIE5t1GqaHRQjUi_CaRiZoxXJ8v0vJ1Nz7Yso_1Hc8cg_cJ0SoIQpilxUV6G-DL07EnvLDH9M7VJkVusD3RkeH87mW6vLnL2z-znIp7fjIrI0uJvzL177NXnX8yCA2Ja0_KLl2c-9hWwNPcG9R3yCHqd-YerZIn10uXWtUAz6RmTjL0_gZYpSRowsTqeP22SNPCEx-wIefFtjAYlMeXBjyBPzcDtGItWQufkZiy2HNOsU3ldSRng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تجربه من از 5 روز کار با OpenCode Go
 https://x.com/MatinSenPai/status/2089928470801318139?s=20</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/MatinSenPaii/4992" target="_blank">📅 07:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/MatinSenPaii/4992" target="_blank">📅 07:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4991">
@@ -535,7 +535,7 @@ https://youtu.be/7G9Fjhe_NxM
 https://youtu.be/dQKfkXnThCE
 📹
 تماشا در یوتوب</div>
-<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/MatinSenPaii/4989" target="_blank">📅 20:46 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/MatinSenPaii/4989" target="_blank">📅 20:46 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4988">
@@ -543,7 +543,7 @@ https://youtu.be/dQKfkXnThCE
 <div class="tg-text">ویدئوی BPB دیرتر میرسه و می‌تونید اداره برق رو سرزنش کنید
 😭
 😭</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/MatinSenPaii/4988" target="_blank">📅 19:38 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/MatinSenPaii/4988" target="_blank">📅 19:38 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4987">
@@ -565,7 +565,7 @@ https://youtu.be/dQKfkXnThCE
 <a href="https://t.me/MatinSenPaii/4982" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
 <div class="tg-text">WhiteVPN V1.5.0</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/MatinSenPaii/4982" target="_blank">📅 13:31 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/MatinSenPaii/4982" target="_blank">📅 13:31 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4981">
@@ -599,7 +599,7 @@ https://github.com/WhiteDNS/WhiteVPN/releases/latest</div>
 <div class="tg-post" id="msg-4980">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">امروز ویدئوی پنل BPB جدید رو داریم</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/MatinSenPaii/4980" target="_blank">📅 12:34 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/MatinSenPaii/4980" target="_blank">📅 12:34 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4979">
@@ -610,7 +610,7 @@ https://github.com/WhiteDNS/WhiteVPN/releases/latest</div>
 مرسی از همه‌ی کسایی که اومدید
 شبتون کانفیگی
 😂</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/MatinSenPaii/4979" target="_blank">📅 01:36 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/MatinSenPaii/4979" target="_blank">📅 01:36 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4978">
@@ -618,7 +618,7 @@ https://github.com/WhiteDNS/WhiteVPN/releases/latest</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMatin's Dungeon(᯽マティ️️ン先輩)</strong></div>
 <div class="tg-text">بفرمایید لایو
 https://kick.com/matinsenpai</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/MatinSenPaii/4978" target="_blank">📅 01:04 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/MatinSenPaii/4978" target="_blank">📅 01:04 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4977">
@@ -631,7 +631,7 @@ https://t.me/matinsdungeon
 
 <div class="tg-post" id="msg-4976">
 <div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Kld3Oy6QWYdmWeZst2sTAicjK5sRiBhuloLIZAPqkKXqg5EDhO61Nt9tgToWeQ4yB4sYibhesVFP1TnALLAsDV4u-Jbx36gpQEw2ZPQ_h1aNaExwpJ1mHwGDDyubEkRZQVv3dWkHkQS94fQvw5sJ8tafbF-vX5DfjFXghvn-6cSUJYs7kTbxMWD8NVxuc8VzOxAmTDOWjetgTi_rQHh3PkTVoMqXuXZXfQNc7xNy_8H8asYtxDtacboV23dIg2zWajovalz44RmY4nVv69WrMteANqxRueM2rWjo2nhwuMr0PrH28glB9qJFNEM3Td550NO13KYiZUGjKA4QEWGFpw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/H562RjQMbMtB8MUCGp0dFNzMxJMKTUCAZidKwE_5SzCFqGKKahbQ2OJmJZ1zVmGVs7PgXDmSr-ZlDh7-4-GMYw6PCG6auejHrWnyiWL3l-MEuLj1Qyk7-l6Vv362wHpZ_wq3uDyzPi3QmjEooQc2qp-azFIjk0oqkGPtQ11VJzcaz39WHZYZgOjP_YF-P08qjoesL8ioMXXHiOhqEnI80EmkdZnzcLsDoiCIzfiDSaNoVvGJ1uNxr3HETJqlqKX1QNIGXT6kX70Tg-WGdDC_zRwCq5FUa9yRBQZWQEmm5kdKN2ieI-_9uygnhuzUVgmFumA6DHxKa6qkArnMKSKr4Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این ریپو رو یکی از بچه‌ها واسم فرستاد که دوستش نوشتتش و جالب و کاربردیه، برای گرفتن کانفیگ رایگان
 فرقش با بقیه ریپوهای «کانفیگ رایگان» اینه که فقط کانفیگ جمع نمی‌کنه. کانفیگ‌ها وارد یه
 pipeline چندمرحله‌ای
@@ -681,7 +681,7 @@ secure
 https://github.com/0xRadikal/Free-v2ray-Configs
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/MatinSenPaii/4976" target="_blank">📅 23:06 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35K · <a href="https://t.me/MatinSenPaii/4976" target="_blank">📅 23:06 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4975">
@@ -700,7 +700,7 @@ t.me/MatinSenPaii</div>
 🥰
 که وقتی ویس می‌دید دو ساعت صبر نکنید آپلود شه
 و متاسفانه ممکنه بعدا دوباره بزنن ورکر رو فیلتر کنن</div>
-<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/MatinSenPaii/4974" target="_blank">📅 11:39 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/MatinSenPaii/4974" target="_blank">📅 11:39 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4973">
@@ -755,7 +755,7 @@ Workers.dev
 🟩
 می‌تونید فالو کنید اگه دوست داشتید:
 https://kick.com/matinsenpai</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/MatinSenPaii/4970" target="_blank">📅 19:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.9K · <a href="https://t.me/MatinSenPaii/4970" target="_blank">📅 19:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4969">
@@ -855,7 +855,7 @@ Android/Windows/Mac/iOS/Linux
 <div class="tg-post" id="msg-4961">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">حل مشکل اتصال به کانفیگ‌های BPB و تمام پنل‌های Worker کلودفلر:  1- آخرین نسخه‌ی Pre-Release نرم‌افزار V2rayNG رو نصب کنید(۲.۳.۴): https://github.com/2dust/v2rayNG/releases/tag/2.3.4 یا V2rayN نسخه‌ی 7.24.7 رو از گیتهاب بگیرید برای آیفون هم Sterisand آخرین…</div>
-<div class="tg-footer">👁️ 38K · <a href="https://t.me/MatinSenPaii/4961" target="_blank">📅 22:08 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.1K · <a href="https://t.me/MatinSenPaii/4961" target="_blank">📅 22:08 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4960">
@@ -890,7 +890,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">دست پترن عیان شد
 پنل ما جوان شد
 مشکل رو حل کردم با کمک Hidden-Node عزیز. الان آموزششو می‌ذارم</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/MatinSenPaii/4959" target="_blank">📅 21:39 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/MatinSenPaii/4959" target="_blank">📅 21:39 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4958">
@@ -917,7 +917,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">💬
 دوستانی که فقط با فشار دادن دکمه کانکت براتون وصل نمیشه یا سرعت کمی دارید، از این روش میتونید تست سرعت بگیرید و بهترین کانفیگ بسته به اینترنت خودتون وصل بشید.
 توجه کنید، هر تست سرعت ۱مگابایت از حجم شما استفاده خواهد کرد.</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/MatinSenPaii/4957" target="_blank">📅 20:35 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/MatinSenPaii/4957" target="_blank">📅 20:35 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4952">
@@ -947,7 +947,7 @@ t.me/MatinSenPaii</div>
 🌎
 دانلود آخرین نسخه از گیتهاب
 https://github.com/WhiteDNS/WhiteVPN/releases/latest</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/MatinSenPaii/4951" target="_blank">📅 20:35 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/MatinSenPaii/4951" target="_blank">📅 20:35 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4950">
@@ -964,7 +964,7 @@ https://github.com/WhiteDNS/WhiteVPN/releases/latest</div>
 <div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ge25e3HLpDMOsxkv0mEfKWRnc5UQd1nPLS6s-AuS29LFnJV99-ENAP76XLHs3tYylLbBkvljzUYKY1Frv1b1jfkh04jowwtAmJPICSeOK8Ii3UAzKAnAz8eeBollU-gOR7unM4J83tsN7NujvLRAdMgFR5Y0Xzh6BkWt8SD3MmQSrRcRvM4e2hV7znkMkZIcK6LsraSdUTMGkrQ3edKYpuADCFV-xjXCi1iDGf-h3B48IC_P601NZ6WU1rxDy0ndAej7t26hWvvwHnf5_0QGXTJPYPJIShim3iXxfjjYoUdCYvHQz8oAaPEtWFRnLZXq6jzMW3LnSC52B37SLSCdHQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">https://www.youtube.com/watch?v=EZ4q5V6fZh4</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/MatinSenPaii/4949" target="_blank">📅 17:55 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/MatinSenPaii/4949" target="_blank">📅 17:55 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4948">
@@ -983,7 +983,7 @@ https://youtu.be/2h6qlA1pJFw</div>
 <div class="tg-post" id="msg-4946">
 <div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">https://www.youtube.com/watch?v=EZ4q5V6fZh4</div>
-<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/MatinSenPaii/4946" target="_blank">📅 17:30 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/MatinSenPaii/4946" target="_blank">📅 17:30 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4945">
@@ -1039,7 +1039,7 @@ Workers.dev
 
 <div class="tg-post" id="msg-4937">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/f-Mqz5hhYyak3UFH1wyWWqeqACYXNFGaqRK8-7N8sI0PQrKPrsnqBqQDBWSyP20n2HZAvSGnMeNPd6m_pDjYPrMee1yVU2JYw4wK8PfR0UUpiuxsQB6od6gfud7xg_iR9EeRiF_dR1bw8zB5Wupa8NhJoP6K0KqTMJw_VKZlm2McT5nL0NyvDu3HT9Ug12DVOdVPIzrx5CSDu83UuVHk4qJHB9V-dUbSMdLqMrQz217EyOCuJ5nsqWCWVv7ERHS1e7tTilw_xnX1mHm9lRSx-nYUCvSIQNbvB8_724iuAKkT_QH_K6NYg513ucj2dZQ12Hb-T-E_TYnaJ36RFLFIkQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WfghWI0Mc8M4IKnSDK7rEJxRrRwxzTyrAsIgioutW3xnNJZKln0VYm_OT0QZQokE3Q5nCBmYxM2g91XQ5mqbF1fQjaN5SyCTubKYdgvXEOuLoJVR6pJW1A-9YD2oGzG8SRthcxPfZtQN82r0ZXKoxLlZbZfD1loO32HO6YKZxH7rzwN_PQtyYvW7akcq5pG7Jyh-8mcmy8ZgHMih6nRxVZYwxOmS9HnuLiGjaegtIv0D20wcUNBhLEQt8fjQFoSOCKORfINmHR9NjI0n2zu_won3EEzDq9Q25uTqa0Bsvonubfon5SV7inUVEdKRAQmJwldLdOgzFYJXLW6E0v5hxQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پرامپت ویدئو آخریم رو که با KIMI3 رفته بودم، الان دادم بهش و واقعا نزدیک بهش در آورد
 🔥
 به نظر باید منتظر یه مدل خفن باشیم. فعلا توی Preview هست مدل  تازه Kimi نتونست One Shot کنه، و این One Shot کرد اونم فعلا رایگان! کیمی نزدیک 3-4 میلیون پولمو خورد
@@ -1084,7 +1084,7 @@ Workers.dev
 <div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/U0es0OvD29Mf4_JYYKUhnd68wF7I0pC10ae1Sqa0yE_G5royh9Qg925qziSvPXYLrvKLkjstNujznWVoygjROHFCg4hzlJC9f4kVUzrB-A7749rfn4cY6YIBWGYfv_uUOaRkR7zH9Sx7SYDxOFMKzHEmVu6rgik512-D0PE965cMiKgL3k8aoOpDFofQep1cTa3GQ4r140FvLdmWGvy-XQ29rv9fVKBDtF5zHjB70Yb-nBIwzKZVFeF80GgXfyRgNsNYqp4CYwSp6cZGR6OOfBk553PU_wzaM4dqpWUYcSWcwtS9A5PJVuHqB0CQsGxFNYIDUrtmYkwlsqnwNsuu0A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دیپ سیک هارنس رو دارم تست می‌کنم، خیلی باحاله محیط UI اش سبکه، و کاربرا هم توی ردیت خیلی گفتن که Caching اش عالیه. یه بنده خدایی قسم میخورد 4 ساعت باهاش کار کردم با deepseek pro فقط 60 سنت مصرف شده بود. باحالترین قابلیتش اینه که میشه Mode شخصی ساخت. و از معایبش…</div>
-<div class="tg-footer">👁️ 33K · <a href="https://t.me/MatinSenPaii/4933" target="_blank">📅 20:50 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/MatinSenPaii/4933" target="_blank">📅 20:50 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4932">
@@ -1148,7 +1148,7 @@ https://github.com/NousResearch/Hermes-Bot-Mode
 <div class="tg-post" id="msg-4924">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">الان OpenCode Go خریدم باهاش، پلن 5 دلاریش رو تجربه‌ام رو ازش باهاتون در میون می‌ذارم حتما</div>
-<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/MatinSenPaii/4924" target="_blank">📅 12:06 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/MatinSenPaii/4924" target="_blank">📅 12:06 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4923">

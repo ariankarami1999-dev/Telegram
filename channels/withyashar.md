@@ -292,7 +292,7 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 21:59:47</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 22:36:41</div>
 <hr>
 
 <div class="tg-post" id="msg-21295">
@@ -301,7 +301,7 @@
 ونس به اسکای نیوز : حضور ارتش آمریکا در خاورمیانه ادامه دارد!
 واشنگتن ابزارهای فشار لازم برای مقابله با ایران را دارد
 @WarRoom</div>
-<div class="tg-footer">👁️ 9.53K · <a href="https://t.me/withyashar/21295" target="_blank">📅 21:53 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/withyashar/21295" target="_blank">📅 21:53 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21294">
@@ -316,7 +316,7 @@
 <div class="tg-text">پشت صحنه فوتوشوت از ترامپ
 @WarRoom
 😁</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/withyashar/21294" target="_blank">📅 21:39 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/withyashar/21294" target="_blank">📅 21:39 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21293">
@@ -340,7 +340,7 @@
 «الحمدلله!»
 به پایان رساند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 47.2K · <a href="https://t.me/withyashar/21293" target="_blank">📅 20:44 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/withyashar/21293" target="_blank">📅 20:44 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21292">
@@ -351,7 +351,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/withyashar/21292" target="_blank">📅 19:53 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 68.9K · <a href="https://t.me/withyashar/21292" target="_blank">📅 19:53 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21291">
@@ -361,7 +361,7 @@
 واقعیت میدانی تنگه هرمز، میزان واقعی اختلال در صادرات و عبور نفتکش‌ها اکنون تعیین‌کننده‌تر شده‌اند.
 این موضوع همچنین برای ترامپ از نظر سیاسی اهمیت دارد، چون کاهش واکنش بازار به اظهاراتش می‌تواند توان او برای تأثیرگذاری فوری بر انتظارات انرژی را کاهش دهد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 62.7K · <a href="https://t.me/withyashar/21291" target="_blank">📅 19:40 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 70.6K · <a href="https://t.me/withyashar/21291" target="_blank">📅 19:40 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21290">
@@ -375,7 +375,7 @@
 </div>
 <div class="tg-text">آخوندی در تجمعات شبانه: هنوز که از بغل بیت رهبری رد میشیم بوی گوشت سوخته آقا میاد!
 @WarRoom</div>
-<div class="tg-footer">👁️ 75.1K · <a href="https://t.me/withyashar/21290" target="_blank">📅 18:43 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 81.7K · <a href="https://t.me/withyashar/21290" target="_blank">📅 18:43 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21289">
@@ -384,7 +384,7 @@
 اردوغان یک دیکتاتور یهودی ستیز است که کردها را قتل عام کرده، تروریست های حماس را در خود جای داده است، نیمی از قبرس را اشغال کرده است، و تعداد روزنامه نگاران و سیاستمداران مخالف خود را به زندان انداخته است.
 او اکنون به دنبال گسترش تجاوزات خود به اسرائیل به سوریه است. اسرائیل آن را تحمل نخواهد کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 75.3K · <a href="https://t.me/withyashar/21289" target="_blank">📅 18:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 80.3K · <a href="https://t.me/withyashar/21289" target="_blank">📅 18:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21288">
@@ -395,14 +395,14 @@
 این نخستین بار از ۱۲ ژوئیه است که حضور این هواپیماها در پایگاه مشاهده می‌شود.
 بازگشت همزمان هواپیماهای ترابری قطری و تداوم حضور سوخت‌رسان‌های آمریکایی، از ادامه فعالیت‌های هوایی در العدید حکایت دارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 80.8K · <a href="https://t.me/withyashar/21288" target="_blank">📅 17:35 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 85.1K · <a href="https://t.me/withyashar/21288" target="_blank">📅 17:35 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21287">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">امام جمعه رشت : برای افزایش جمعیت از مردم میخوام دست به دست هم بدن و به همدیگه کمک کنیم
 @WarRoom</div>
-<div class="tg-footer">👁️ 86K · <a href="https://t.me/withyashar/21287" target="_blank">📅 16:59 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 89.6K · <a href="https://t.me/withyashar/21287" target="_blank">📅 16:59 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21286">
@@ -416,14 +416,14 @@
 </div>
 <div class="tg-text">کارشناس صداوسیما: نتانیاهو خیلی مرده؛ نه خسته شده از جنگ با ما، نه پشیمونه و هرآن ممکنه بهمون حمله کنه و بنظرم خیلی مرده.
 @WarRoom</div>
-<div class="tg-footer">👁️ 95K · <a href="https://t.me/withyashar/21286" target="_blank">📅 15:43 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 98.1K · <a href="https://t.me/withyashar/21286" target="_blank">📅 15:43 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21285">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">ترکیه، حکم بازداشت اینترپل قرمز برای  نتانیاهو صادر کرد و او را به عنوان متهم در ارتباط با حادثه "ناوگان مقاومت" عنوان کرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 91.8K · <a href="https://t.me/withyashar/21285" target="_blank">📅 15:40 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 94.6K · <a href="https://t.me/withyashar/21285" target="_blank">📅 15:40 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21284">
@@ -442,14 +442,14 @@
 چیزی از ایران باقی نخواهد ماند.
 ملاها این را خواستند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/21284" target="_blank">📅 14:06 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/21284" target="_blank">📅 14:06 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21283">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">ای‌بی‌سی‌نیوز: FBI از احتمال حمله پهپادی ایران به کالیفرنیا خبر داد
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/21283" target="_blank">📅 13:00 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/21283" target="_blank">📅 13:00 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21282">
@@ -458,13 +458,13 @@
 علی خامنه‌ای یک پله از امام علی پایین‌تر بود و معجزه هم میکرد.
 @WarRoom
 😁</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/21282" target="_blank">📅 12:40 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/21282" target="_blank">📅 12:40 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21281">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">بیتکوین 77,000$ را شکست و در چند روز 15000$ گران شد @WarRoom</div>
-<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/21281" target="_blank">📅 12:32 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/21281" target="_blank">📅 12:32 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21279">
@@ -475,14 +475,14 @@
 </div>
 <div class="tg-text">دیشب یک هواپیمای بویینگ E-3B سنتری  AWACS آلارم 7700 وضعیت اضطراری روشن کرد. ولی اکنون یک هواپیمای دیگر با همان مدل و مشخصات به پرواز در آمده که نشان می‌دهد که آمریکا تجهیزات کافی پشتیبانی در منطقه بسیار دارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/21279" target="_blank">📅 12:20 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/21279" target="_blank">📅 12:20 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21278">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">بیتکوین 77,000$ را شکست و در چند روز 15000$ گران شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.5K · <a href="https://t.me/withyashar/21278" target="_blank">📅 11:56 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 99.9K · <a href="https://t.me/withyashar/21278" target="_blank">📅 11:56 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21277">
@@ -490,7 +490,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ce_U_sMlafUnrSkE7QUL413vONFtYOqyXYNQJvliB5WaplaEy4_QkKoagt1BGHKUwRtNJOLe6sKz95-1SGqqRE2oLaWZqCdf_ZNhoKsdbrS3DvVCReMSMXFwRj4TTYZVgbcIeU0Sr0kL-llFoY0q0TsPDS7sMLyzlh_zg6eVn5K_m4ieS6o3EPeFxAKauT2VWQpj8dcj5W7PAENaYVnUM16ggFa4m215GRJ95GjI75zoOFUQQe6W2FzVhpS_wPsaZQ75JZpDkGuUXWg2rd1416v3WoEtM71Fh6eMv1IJScXGUn8M-fihKY_OUmwFg2zGknfPkkR49XXYPP1iHLi3mw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایالات متحده، دومین هواپیمای تانکر سوخت‌رسان را از مجموع شش فروند هواپیمای جدید، به نیروی هوایی اسرائیل تحویل داد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 100K · <a href="https://t.me/withyashar/21277" target="_blank">📅 11:36 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 102K · <a href="https://t.me/withyashar/21277" target="_blank">📅 11:36 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21276">
@@ -499,7 +499,7 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 98.3K · <a href="https://t.me/withyashar/21276" target="_blank">📅 11:23 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 99.5K · <a href="https://t.me/withyashar/21276" target="_blank">📅 11:23 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21275">
@@ -507,7 +507,7 @@
 <div class="tg-text">‏سقوط چشمگیر تردد در تنگه هرمز؛ تنها ۷ کشتی باری در روز پنجشنبه عبور کردند.
 ‏داده‌های شرکت ردیابی دریایی کپلر نشان می‌دهد تردد کشتی‌ها در تنگه هرمز روز پنجشنبه به نصف روز چهارشنبه کاهش یافت و تنها ۷ کشتی باری، شامل ۴ کشتی ورودی و ۳ کشتی خروجی، از این گذرگاه راهبردی عبور کردند. هیچ‌یک از این شناورها نفتکش یا حامل گاز طبیعی مایع نبودند، هرچند یک کشتی بسیار بزرگ حامل پروپان و بوتان از مسیر ایران از تنگه خارج شد. پرزیدنت ترامپ نیز طی روزهای اخیر بارها تأکید کرده است که ایالات متحده کنترل تنگه هرمز را در اختیار دارد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 99.7K · <a href="https://t.me/withyashar/21275" target="_blank">📅 10:57 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/21275" target="_blank">📅 10:57 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21274">
@@ -515,26 +515,26 @@
 <div class="tg-text">‏کانال ۱۴ اسرائیل: ترکیه با وجود هشدارهای نتانیاهو، محموله نظامی دیگری به سوریه فرستاد.
 ‏بر اساس این گزارش، ترکیه محموله تازه‌ای شامل حدود ۲۰۰ خودروی نظامی، از جمله ۲۰ تانک، به سوریه اعزام کرده است؛ اقدامی که با وجود هشدارهای نتانیاهو درباره تحرکات نظامی ترکیه در سوریه انجام شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.5K · <a href="https://t.me/withyashar/21274" target="_blank">📅 10:34 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 99.6K · <a href="https://t.me/withyashar/21274" target="_blank">📅 10:34 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21273">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">رویترز: در تهدید ترامپ علیه کسانی که به ایران کمک می‌کنند، حتی متحدان واشنگتن که در میانجیگری مذاکرات صلح نقش داشته‌اند هم ممکن است در این دایره قرار بگیرند و آن را شامل هر کشور یا نهادی کرده است که به تهران آنچه را او «شریان حیاتی» توصیف کرده، ارائه دهد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.2K · <a href="https://t.me/withyashar/21273" target="_blank">📅 10:15 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 99.2K · <a href="https://t.me/withyashar/21273" target="_blank">📅 10:15 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21272">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-footer">👁️ 98.1K · <a href="https://t.me/withyashar/21272" target="_blank">📅 09:52 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 99K · <a href="https://t.me/withyashar/21272" target="_blank">📅 09:52 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21271">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromDr.t</strong></div>
 <div class="tg-text">کجایی ؟ داشتم نگران میشدم</div>
-<div class="tg-footer">👁️ 97.1K · <a href="https://t.me/withyashar/21271" target="_blank">📅 09:51 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 98K · <a href="https://t.me/withyashar/21271" target="_blank">📅 09:51 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21270">
@@ -544,14 +544,14 @@
 اگه برجام رو پاره نمیکردم، الان سلاح هسته‌ای داشتند و ازش علیه همه کشورها استفاده میکرد!
 رسیدن به توافق با آنها اصلا آسون نیست چون درحال حاضر هیچکس نمیدونه دقیقا چه کسی داره رهبری میکنه!
 @WarRoom</div>
-<div class="tg-footer">👁️ 98.8K · <a href="https://t.me/withyashar/21270" target="_blank">📅 09:40 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 99.4K · <a href="https://t.me/withyashar/21270" target="_blank">📅 09:40 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21269">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">سخنگوی پنتاگون به وال استریت ژورنال: ما تمام امکانات لازم را برای شروع حملات به ایران  را در زمان و مکانی که رئیس جمهور تعیین می‌کند، در اختیار داریم و هیچ کمبودی نداریم
 @WarRoom</div>
-<div class="tg-footer">👁️ 99.6K · <a href="https://t.me/withyashar/21269" target="_blank">📅 09:37 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 101K · <a href="https://t.me/withyashar/21269" target="_blank">📅 09:37 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21268">
@@ -568,7 +568,7 @@ ICE
 GoFundMe
 از مردم آمریکا کمک مالی می‌خواهد تا بتواند در این کشور بماند و به زندگی خود در لس‌آنجلس ادامه دهد
 @WarRoom</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/21268" target="_blank">📅 09:30 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/21268" target="_blank">📅 09:30 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21267">
@@ -590,7 +590,7 @@ GoFundMe
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">حملۀ هوایی اسرائیل به ارتفاعات علی‌الطاهر در جنوب لبنان
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/21265" target="_blank">📅 00:46 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/21265" target="_blank">📅 00:46 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21264">
@@ -599,14 +599,14 @@ GoFundMe
 ایزوله
 » شده و سپاه کشور را اداره می‌کند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/21264" target="_blank">📅 00:15 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/21264" target="_blank">📅 00:15 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21263">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">ارسالی تایید نشده : یاشار همین الان اهواز صدای شلیک موشک میومد قشنگ ی دودی توی هوا معلوم بود ولی دوربین گوشی اینقدر قوی نیست که بتونه دود رو بگیره
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/21263" target="_blank">📅 23:42 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/21263" target="_blank">📅 23:42 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21261">
@@ -628,7 +628,7 @@ GoFundMe
 <div class="tg-text">‏تانکر ترکرز:‏ دلیل اینکه دیگر در خارک شاهد بارگیری‌های زیادی نیستیم، این است که تولید نفت خام ایران در ماه‌های اخیر به سطحی کاهش یافته که فقط اندکی بالاتر از میزان مصرف پالایش داخلی این کشور است. این یعنی ایران در حال حاضر فشار چندانی برای صادرات نفت ندارد.
 ‎
 @WarRoom</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/21260" target="_blank">📅 23:24 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/21260" target="_blank">📅 23:24 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21259">
@@ -660,7 +660,7 @@ GoFundMe
 </div>
 <div class="tg-text">ارتش اسرائیل و شاباک فاش می کنند: سازمان تروریستی حماس در بیمارستان «ناصر» در خان‌یونس بازجویی‌های امنیتی و شکنجه انجام می‌دهد
 @WarRoom</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/21258" target="_blank">📅 23:08 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/21258" target="_blank">📅 23:08 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21257">
@@ -678,7 +678,7 @@ GoFundMe
 ناو هواپیمابر جورج واشینگتن
 که از ژاپن به سمت غرب حرکت کرده بود، اکنون وارد منطقه سنتکام شده و قرار است جایگزین لینکلن شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/21257" target="_blank">📅 23:00 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/21257" target="_blank">📅 23:00 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21256">
@@ -712,7 +712,7 @@ E1 در کرانه باختری
 ایتامار بن‌گویر امروز،
 در شبکه اجتماعی ایکس خطاب به او نوشت: «کسی باید اد را به‌روز کند که قیمومیت بریتانیا بر سرزمین اسرائیل در سال ۱۹۴۸ پایان یافت و اسرائیل کشوری مستقل است» و سپس با کنایه به میلیبند گفت به جای «بازی با دوران قیمومیت»، به لندن نگاه کند که به گفته او «به‌سرعت در حال تبدیل شدن به یک خلافت اسلامی است».
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/21254" target="_blank">📅 22:29 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/21254" target="_blank">📅 22:29 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21253">
@@ -735,7 +735,7 @@ E1 در کرانه باختری
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">کانال 15 عبری : نتانیاهو در حال حاضر جلسه‌ای خصوصی با حضور روسای سازمان‌های امنیتی، از جمله سازمان‌های اطلاعاتی، برگزار می‌کند تا در مورد تمام تحولات آتی، به ویژه در سوریه و در روابط با ترکیه، بحث و تبادل نظر کنند. این اقدام در پی اعلام ترک‌ها مبنی بر ادامه فعالیت‌هایشان در سوریه صورت می‌گیرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/21251" target="_blank">📅 20:55 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/21251" target="_blank">📅 20:55 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21250">
@@ -758,7 +758,7 @@ E1 در کرانه باختری
 <div class="tg-post" id="msg-21249">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">بسنت ، وزیر خزانه‌داری آمریکا:  ما نظام ایران را سرنگون خواهیم کرد @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/21249" target="_blank">📅 20:22 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/21249" target="_blank">📅 20:22 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21248">
@@ -871,7 +871,7 @@ E1 در کرانه باختری
 <div class="tg-text">روابط عمومی پالایشگاه نفت تهران:
 ستون‌های دود در آسمان تهران، ناشی از آتش‌سوزی در دو مخزن مربوط به بسته‌بندی و انتقال محصولات نفتی، در محوطه پالایشگاه نفت در پایتخت تهران است. هیچ آتش‌سوزی در داخل خود پالایشگاه رخ نداده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/21237" target="_blank">📅 12:37 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/21237" target="_blank">📅 12:37 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21236">
@@ -901,7 +901,7 @@ E1 در کرانه باختری
 </div>
 <div class="tg-text">اتاق جنگ با یاشار : فلورا جون ۲
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/21234" target="_blank">📅 10:56 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/21234" target="_blank">📅 10:56 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21233">
@@ -1014,7 +1014,7 @@ instagram.com/yasharmotors</div>
 
 <div class="tg-post" id="msg-21223">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dNnIYgZgxgCRpgLkxZ7XL7swn_yKOG_63mLAOLbVnluuWHXc8rBZ5N1tH8JGqxDKGnMOmk2P4ubvR01ne2St3i8wXmVnd63O-Rq7L_y1ayhDPLDhRXe-tdscza4XUGkZE51ZEym1mSzwDYV0O4bAWu-xSYZjK5iBwmvbuOYaxmiOgZUmB0UeHO1PWA8ti-4suynrzdrNSq9-1od3TDrDyH92B4UA0-cPPR7IuiwyH4syIMqo9AvlFMh-p-bgJYmVbQG4CX__R3qk7IIlbwwRtg8uxdqfRmRiIzivghjVg_zRMYVgFk_opa41tUj2JAUTdTIwkIZ-py1Tk0wKAD9iVQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WrXj0NyTlz8jeBSaCXE13pjUtzX1KunUULKuFiLpcBzABNzCw-DsKeW_zglRK793RhfQwdwcQAldcBfJfqvX4sDyfKTAD0WUPxjHqwuzdO3lsvaQ1pbNnvAgIfBGmhoJ-_bcsXk5Y_Qhx_W8cStmBO6ci_dvxNpmTxQEneQGS4Jva0SoRMWRXADs4oY1VGJUKu6is0rgAyCwDuRV603rs6vzyXZb8NXA8xN95LUtUl2MBtuHH_xo9WAAQxDuBTIBy1m4vhQKbT7xJlOGPpAWftbhvS6Sh7WCiPGJe4w3QX5dss0wPVrGxFsL6tXoJXgLoC5BGIiWJ8exQbz_0M__eg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فرانسه نیلوفر شادمهری، رایزن فرهنگی جمهوری اسلامی را از این کشور اخراج کرد.
 @WarRoom</div>
 <div class="tg-footer">👁️ 129K · <a href="https://t.me/withyashar/21223" target="_blank">📅 22:34 · 28 Mordad 1405</a></div>
