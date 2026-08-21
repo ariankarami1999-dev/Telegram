@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 17:34:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 18:30:53</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -321,7 +321,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -336,7 +336,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -355,7 +355,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -389,7 +389,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -489,7 +489,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2548">
@@ -518,7 +518,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2546">
@@ -892,7 +892,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2523">
@@ -1243,7 +1243,7 @@ slcyber
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/ircfspace/2502" target="_blank">📅 18:52 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 37K · <a href="https://t.me/ircfspace/2502" target="_blank">📅 18:52 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2501">
@@ -1286,7 +1286,7 @@ github.com/mcodersir/dicodePing/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/ircfspace/2499" target="_blank">📅 07:43 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/ircfspace/2499" target="_blank">📅 07:43 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2498">
@@ -1372,7 +1372,7 @@ PingChannel
 
 <div class="tg-post" id="msg-2493">
 <div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/d2kfX_CteMLojOhY0TBeLwBoxAvYu3F6IK4-sG9Mue3WFyUCPMGccJ7RmCQ3BOlz663X_65QAHLI3GSMOG0fV3edWkrdi7zz2r_RcqSwVITbiG9z0PflN8jWpWWuHH3ZoPCxjbbadM816izxE2gX7JPKB7nnAuyi8YobSli6NooaHw26h05ADLqmblmXcLmGxeoah5727FLNbdwUlfyHag5a4gWzmiNdhbxRA-4IFKkBlf3__gJnc-SEaxTO-l8bm9NuE8t_SpIdRUrmA3uLb62Jk-O8l3Es_9TEc0SzV7T0szgRIt5QDa4cGO_KLTE2pVjl3Lhze_qZMwoDdFiYaQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PTZqkSQGwjOMG6BsHnGbrkbrFK9H8t9KF3dcEbwfM4RpvzVUF5d0OLLMQI2UBglFNA4oEX9WM1z7Fsqrz_hVk6mpF1DeEb7oIvtBPETDfwmZdVobCPPfde5DrfThJjHpFS4_51BCjior-27MCwVO_eJkuDfa8yjoDATl8VIsrcUVPX_LhLiFLFFMKtnXd0aj-B94WahNdADb8N0IAFm54BqUQC2Nc_snnvfFhxHDb2Akz6cbYnEHXPZwmFR_tLMNmzH5vTcoRDZk_IMTUP7sdBHENHYkb172plOsUTm_IuVDV0OBQ9rwSitp0GVSW3jR1J2_fuUuAF_35M6zrXQUJw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پروژه Aether یک ابزار متن‌باز و رایگان برای دسترسی به اینترنت آزاد و عبور از محدودیت‌های شبکه هست، که با تمرکز روی سرعت، پایداری و مقاومت در برابر فیلترینگ توسعه داده شده. این پروژه با ترکیب وایرگارد، MASQUE و WARP-in-WARP، ترافیک رو تا حد زیادی شبیه ارتباطات عادی نشون میده و به همین دلیل روی شبکه‌هایی که از DPI و روش‌های پیشرفته فیلترینگ استفاده می‌کنن میتونه عملکرد خوبی داشته باشه.
 یکی از قابلیت‌های کاربردی Aether اینه که خودش بصورت خودکار اندپوینت‌های تمیز رو اسکن و بهترین گزینه رو انتخاب می‌کنه؛ بنابراین نیازی نیست که تنظیمات رو بصورت دستی انجام بدین. بطور پیشفرض هم از HTTP/3 استفاده می‌کنه، اما اگر شبکه‌ای QUIC یا HTTP/3 رو محدود کرده باشن، میتونه اون رو روی HTTP/2 قرار بده تا سازگاری بیشتری داشته باشه.
 این پروژه روی ویندوز، لینوکس، مک و اندروید (از طریق Termux) قابل استفاده هست و توسعه‌دهنده‌ش اعلام کرده که بزودی قصد داره هسته Aether رو با زدن Pull Request در فیلترشکن‌های ابلیویون و دیفیکس ادغام کنه.
@@ -1435,7 +1435,7 @@ Linuxmaster14
 
 <div class="tg-post" id="msg-2489">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/d8Fy_b3O5_MCwcADOoO2FgZRPlzr6U7K7qS_obKeRB6u9EBgdtAQbxekn-BlKpQ3SJAvck_kBqAx6v7WKGtMucsMpNNftKEdt05S8h1exBV4xcp24ou3XqvB9QIIWGEeE1F4BS6ot9aUU7fbI74mbPKzIL9cmPPoDSroJimzC49MueW0LJZCpmVUKp6O6f8D626O0esd_EYSr5dVLgvrQyMKmZYjs_g-jMbw6Wq_i0dPsAUMOAjpdaEvzTfA_NwU8oUYCn2S2NnzNNYuUBvdSaKMjjOQN4J_cmdS_DP56snaCnwrdMqLBWRTY7h-ni1p81z95RVXSxLtijQvuDvTYg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fSrpzPkMlZpA6UNmZxOK-NAi4SjGykINDMojN_RNH1KfbNUl2ab1jAJzjTzie29YCvZS56iAKM1HX0Q9NjJjZ2JQdUKQDx7fKlmMgpSJ3je35e09KSHhIYspjURJXLcuq_bEMx6CJ7yr8ve7pgWxPVfWKFMHN7n6R4H-8YYQWPXwfBvaY8OBFnR0HmQMzuXA2l7uCwq0rVk3fxa-weJFDhGx57rc1R326mjJtI02Gg1ksgEN95vS9PRp7SG4Qoc8XkqI9Ma413L9JSIvRI1_YgtR8l6g-1GAC-CE9vhuHBGN-Iem1ZvI_GYlyg-h9vXfVB1Zu_sd1o9h7XIZNirA4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به یکی از شرکت‌هایی که API می‌دهند مشاوره مارکتینگ می‌دادم. چند راهکار برای کاهش هزینه جذب مشتری یا CAC گفتم، ولی تاکید داشتند که باید API‌ رایگان هم بدهند. پرسیدم چرا؟‌ خیلی راحت گفت: چون رایگان است، طبق شرایط Privacy & Policy تمام پرامپت‌ها و داده‌ها و خروجی را می‌خوانیم و ذخیره می‌کنیم. فکر کردم شوخی می‌کنند. بعدا دیدم نه. جدی است.
 (...)
 مواظب باشید، لااقل اطلاعات حسابداری و مالی و مارکتینگ و اکسل فروش و لیست مشتریانتان را به این API رایگان‌ها یا این سرویس‌های هوش مصنوعی حتی پولی که در ایران هست، نمی‌گویم ندهید، می‌گویم دقت کنید.
@@ -1465,7 +1465,7 @@ AdelTalebi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/ircfspace/2488" target="_blank">📅 07:49 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/ircfspace/2488" target="_blank">📅 07:49 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2487">
@@ -1513,7 +1513,7 @@ IRRadar
 
 <div class="tg-post" id="msg-2484">
 <div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fdZa_B-9nBMRCMlnn2VxodoBZZLuoJyzZrNWCwmx15qzAkon2JvJUxvpv7w9gtNP4NbGhkPy2weEtM8pm_eJy7qtGQZfhzWZ3opCHXMR8xVHHkwyk2qndBNn77I6_L4bqH0amFDS5rfnR1TsNOmsmZAtnWw2z-V1gZQyj2Ri0JzYPQn5AA6n-vQakWnYMwOw1zNDb9z_CDaFFx_yk94XIaold6eriVPcN2bdKhx-TX9FzZsW6ZFh-9bXJ4Xjp60_5E9PxfjIvcK_cYnMSLBp_E0gkznWlUjr3eS5iKc48hI_2A1phNllkgIQk-Wv3kSu7gwy0mGCVBLBC5IG7rYQhg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DITpXJpvlaSGh_74kmjK_6rNZBGh-jEZbJGB1v42mX392cHWePCNgSHX7RH6N_7qK27soNcZEf0Y3tt6IWeI1eNKaubZ2U_i346T8tslB6rRunI4dX4ZMuxXMfXDqjQwh5DC6kKOO54SHUxwdUsOcBRARa3ok_i897Dxcc48Inm-Dzs1nPuW62-bcxjfOHzSfky82zGd9T9pz5WbKa8dLNqtxkTA-DYl8MZV0FWsv1rZoDpq5QUv9IwmPSrNQqj84HrR_5d6Gqej4F8lHfUZeq-FTKHd3CA-jR6kJtefwyh_wkQNhjJp7DYZz4jdn5xiJ67X35-UTsqQmsUGyo6uvQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پنل زئوس یه ابزار متن‌باز برای ساخت فیلترشکن رایگان روی بستر ورکر کلودفلر هست، که امکاناتی مثل آیپی و لوکیشن ثابت، دریافت خودکار آی‌پی تمیز، لینک ساب و QR Code اختصاصی، فرگمنت، شبیه‌سازی فینگرپرینت، بکاپ‌گیری و ... رو بصورت یکجا در اختیارتون میذاره.
 👉
 github.com/IR-NETLIFY/zeus
@@ -1545,7 +1545,7 @@ bleepingcomputer
 
 <div class="tg-post" id="msg-2482">
 <div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SIpPmDAsAXxzemtQ9H06oBUH5ESvXI6klW4pkIzDlZdxOKFHk3mpgPXrIZ0UGyflTlrNsAm9VIsXYSvMFB1fAFjFpW03DSSpPnH0c5hYxaM7gPL34-uF91E2t3bKYa3Fc99zL0f6dqCve5gv4sNBRu25y8mRLKoDr4wkgGUhC19ZxlYE6qm3SQveigpSnF5LAA3ixJ0blVUydbaaJFvpsT7cX9Lu_Ax7AW4eTfE9ki5gOWKY4a13r16HFzjHYcuuttFY3y9vyq2uWgIeUF28bZTAAuDCvGt1OUr1lzowIW04lEwsQBbm-etcxiEgTGFFsSUZuXblXii6xUB8VYNy_A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/emNGQvw69IGQ5uvE6DEi_JVYy9UbcpFKCnckwseOizeb5-OJKPRxLyCpS-e3qfANfZ18qkxEu_aAQdOg4dL91xPgXz9kibWYZqOLpzz1jr2GcHQTmZ0-4nvWhQKC44r3uSBDaeO40VLDB8HSvOFHxyBCC46ZGLbJsAWOLJAPAN2aVoOZ0Ws1uULjrR4rpGPV9GjTb3tz7zx27AtFFE6bPlRMmkZrRDhX7eqrO5Ko2KJIVOk6f15NOAHxGLMCs8jJTVWmG0YKIkMYY7ztI8VJSCdL78FcnQqy35_ryRxjxMFKcRFA1d60Z9bc1zh8N6EJJZVusmnySycwoYDsSxklZQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت اندروید NipoVPN که برای اتصال به هسته این پروژه و مخفی کردن درخواست‌های HTTP داخل ترافیک عادی وب طراحی شده، حالا روی گوگل‌پلی در دسترس قرار گرفته.
 👉
 play.google.com/store/apps/details?id=net.sudoer.nipo
@@ -1580,7 +1580,7 @@ github.com/MohsenBg/bgscan/releases
 
 <div class="tg-post" id="msg-2480">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Ha4IS7af54tPspXFBNftzh21JqZBNhyhBTGstuRRLMPWc0F9P7zFaHT2TZW1BW-4Qq4Ta6mhkeWD87PWTwJdui_KDHlkIDAIV7zMBBwgF3l_QuO8Ic3sPSPwf5lSqh-eFN5j5yZDBnTHlLpz5nEkEf5Mj26ILQR3WpnkR0XsH3bvnP1899yrm_9XlRYy1LXrEbv0-DWun78Xe2x80yUbVKLOZgKs1OJOfHGrVzhqLevx_I3PYvGZjlI01KdlY2yNb0tkUGNXdDtyXA9_shBmPHdVtRP04tFWsFs3KIotZMzzst1iMtMKQmPtchnzp1sNuOm-cVAwXUpU8P_UDXyqYw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/L-xgP_e0twNgbnDWqSFrb-S9OK24Tuo0GoTnNUwkcajmAeeZtCcxPea4WdcBbboe7ZaF67ry-Nisod8Pv3Ys-YQfD6phlnyyPnxHakH4WrR_XXOSCa6mUSj2GhKWrp54oa0nQ_xhikDrdfBWapMj5SKHvcvkmEa8i8Yskl_BW0s3G3z05GHRKj0Re2-aAdJpFaAfD5__sfaZiFdBrtUE4toGrWhoZ5jLXM0n5b-t0K_LYUgTFfXCGQuVzffy-1BlRT0fuNglzcxS7K0QhcqFlGpcY7PMhS7i6vk0bHMA4u7iyN1KPfLtvu81Cj56kou3IxJEf_Ip_QQXlRJ71F2eKw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاوه یه ابزار برای اسکن، استخراج و اشتراک‌گذاری کانفیگ‌های فیلترشکن هست، که کار پیدا کردن کانفیگ‌های سالم و به‌روز رو راحت‌تر می‌کنه. این وب‌اپ میتونه چندین کانال تلگرام رو همزمان اسکن کنه، کانفیگ‌هارو بصورت خودکار استخراج کنه و در نهایت یه لینک سابسکریپشن بهتون بده تا مستقیم داخل کلاینت‌هایی مثل v2rayNG، v2rayN، Hiddify, Streisand, v2box و ... وارد کنین.
 توی کاوه می‌تونین کانفیگ‌های خودتون رو با بقیه به اشتراک بذارین. علاوه بر این، حذف خودکار کانفیگ‌های منقضی و امکان رأی دادن به کانفیگ‌ها و منابع از جمله قابلیت‌های این ابزار رایگان هستن.
 👉
@@ -1613,7 +1613,7 @@ github.com/SamNet-dev/MTProxyMax/releases
 
 <div class="tg-post" id="msg-2478">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Oiq1yOPSXxw2uCxn4FoIH11H8-2jyxSwxBxvxI-1MzL-b2X1Q2zX8Lm52PHW59gSVtSEi9F0zfDcH5BdBt0-WlOIlvDUrv4s1Vhe7Pjtd7LpdsVXnPrRBlgJzsRQwgExGOsfO1VYI6z1e9RQewck3qDrRsdh2nLW86AdF8Ztc2tJrfwFIycePm-RZv6JTnR1Uuv6FsWMI4VWVzVfvQ7iC_yaI7iCzv96PME4ljPybu4lsUcJA9-BqiE23tgttLHl3WeW-tgL61Q6uaFXScZgZ6n5C1KpCvwzynpQoHqwOQvGV5Ee7VNg5sAgpysx942fEe6yYlZAymSBCJMBkImcZQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NXTmh4z3DEnZ50-U8LybfdbGWTP0sZ8SgX0OBRPADk7pr1fVWbVDm7TBzHKCfQzXkFQB-4x_WKeJfjQSXatF3HUJmtD7talI9d8VeOm4jrfW8EDOhEfek9e8qTefe9PqQOMOmtffxL7VpkKdf4A_89SjprQCXx0hanAOyQsiJvmmNWGsl1pUK1dOAtWGflpKe0plhBiyzC3C5y2L5TzrsJJ0U2VDLbdPv5LP5gjpsXE1rf4FQWlOSQSDiSXaPlBpNnQK59ILvnBJWBF0FPkzUwrmUI1cBFqagw0UeVb6RtLoJPyOvhAcs4ExoRYNpce04wVBERSunLtL0J-sy89SkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Intra با استفاده از فناوری DNS-over-HTTPS (DoH) درخواست‌های DNS رو رمزنگاری می‌کنه تا اپراتور اینترنت یا هر واسطه‌ای نتونه آدرس سایت‌هایی که باز می‌کنید رو دستکاری، مسدود یا به مسیر اشتباه هدایت کنه.
 این برنامه فیلترشکن نیست و آیپی شما رو تغییر نمیده، اما چون جلوی سانسور و دستکاری DNS رو می‌گیره، در شبکه‌هایی که فیلترینگ از این روش استفاده می‌کنن می‌تونه باعث دسترسی به سایت‌های مسدودشده بشه. علاوه بر این، رمزنگاری درخواست‌های DNS تا حدی از کاربران در برابر حملات فیشینگ و برخی بدافزارها هم محافظت می‌کنه.
 اینترا توسط Jigsaw (تیم نوآوری گوگل) توسعه داده میشه و سورس اون بصورت متن‌باز روی گیت‌هاب منتشر شده. این اپ از طریق گوگل‌پلی در دسترسه و برای استفاده ازش فقط کافیه یکبار فعالش کنین، تا در پس‌زمینه کار خودش رو انجام بده.
@@ -1699,7 +1699,7 @@ github.com/SamNet-dev/MTProxyMax
 
 <div class="tg-post" id="msg-2473">
 <div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/dklbv4WcuKSi4KwmDXUECNWp6V-pz_uJEoQ24hd8DYxaFFSZHfXu0k-9rS-gFfv6cO2w-sBOzbeIEN2QMqQwtC8t9ojdOYViTf01r8aghB9ZJr2g-duR29RuG16i7JQ6Y82JCu0zYbgWbfTUW0MUpkBvgYD7EVaj1bzvzn4Ru5Th0FB9Auomyi_PQwJv-3wFZZh8H88B_qG4uOP-PSRqUhdrqmc1k_5yCnBKPGyEeQe66lkpdNivXyExaJGvnuSRtLIgSALE3vWR0WomRYbs44Iu7kHqSvWZB_7xlWSbwfWFGb9nG9N_EPkPPv2V7XGNzjRwChQ3fC2MJCrIQWP9cA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/dYaAEXN16jULN3QhuMwfC9h5B9VoFjIy7nwwm7I-z6VuKoB5k9jvd9A47eXRHGio3xLFw4xo1g9rWP9V75zzzHRfoV_p_ovNpTzT70BAym-kB-_8rX7X-F42bpONNayyVmDkPxuL2bUOWib4sJ8VlzXr7r6yuY2-_qS_oDRehW-WHlnZka0ahGnw7xaF1NtNWc1PYvFYekmr2jpQFHbmnWkdCnJ3SdwmaYQMqcKlu-U9pakIkSKvSAnEuM61_pIETD5YaqU4zN5QP9KDrADfpoGfHesO5YwlcEYBDMLGI7azZQP2vrNQqYO4k9omTYSphFFGWwmHs8VPsfqryXURoQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر سیمرغ یک ابزار متن‌باز و رایگانه که برای پیدا کردن آیپی‌های تمیز کلودفلر در اندروید و ویندوز ساخته شده. این برنامه میتونه آیپی تکی، رنج‌های CIDR، رنج‌های دستی و لیست‌های آماده ISP رو اسکن کنه و بهترین‌هارو بر اساس سرعت و تأخیر بصورت رتبه‌بندی‌شده برگردونه.
 👉
 https://github.com/rezakhosh78/SIMORGH-Scanner/releases
@@ -1715,7 +1715,7 @@ https://github.com/rezakhosh78/SIMORGH-Scanner/releases
 
 <div class="tg-post" id="msg-2472">
 <div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jIKXJrzjZen7jhqU_4uLyOU6PlAYJZwdUmwRhoSF3veOiXc3jvDkyz5Y4nS1BbpOzYZq_t7Vg0MuBMV_xgcvWLuxoDDPJR3Pm4rrEYAhzcPwYrAeo1soWIkcO75FpPrEVHF-QHPUROKqGF4_prYarHVsEuDmjE1xiNDkkM5EnGo4Cp3ul780PBP-iGimMBAXAHjZjpWvNmUkny7xWcVCQ8zKiM4M7cmGS6rf_omTXiaWmdY0gBE8IpI3g_0WvrZyG8GiT4gpMsGGFTFEmOPJcNV2BVzlf299H6InJuVCwOqIeBLfcva28VuYSu-kFdbOMOrvptCyurHOIfHbCWV8-A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kfOsG7fmU3snqUTS3Z4cOkkAQ8xAWhPNi_0Pxr3aFOkxokzSIm1VX9isuyvNzj8VrMMDxIYpC8e6p5GBBea00-GJM9QNhok0odeU3HXvOTrpRop1atEwIupKqxM2-4YW8Bmg8j39DGvxWoHrPkcTcNXutJMSQnNQovyJVPJqTyciblNcBvqkq2krPSGr-QqTL3au0rCv7yJAXAt7ssD20j7KpWCTt1q7qLxNv23S_pCYIxGEzQD_oc7ZK9BTTqiSwARYflNglqlHsOj4hPn5LMsXgY-Su6T9FuvHStWFEVxOOE8V1jNawFPIchOLbsfNvJNk23agcM2ugM3QErz8vw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکنر Asha یک اپ متن‌باز و رایگان برای اندرویده، که با تمرکز روی پیدا کردن آیپی‌های تمیز و پایدار کلودفلر ساخته شده و کمک می‌کنه سریعترین و مناسب‌ترین آیپی‌هارو متناسب با شرایط شبکه پیدا کنین.
 حالت‌های مختلف اسکن، بررسی لیست دلخواه آیپی، شناسایی دیتاسنترهای قابل دسترس کلودفلر، امکان تست سرعت واقعی از طریق پروکسی و استخراج هوشمند آیپی از وبسایت‌های پشت کلودفلر، از جمله امکانات این اسکنر هستن.
 👉
@@ -1783,7 +1783,7 @@ alirezashirazi
 
 <div class="tg-post" id="msg-2468">
 <div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OSpsxK7z601q8XS9VA6Q_PKU0u88HKPrtq-4dyEq8WPvB3i-Bb2dNjIO7qiX1AibBuV14KPsmGSCmZ0-2uiPmxDM7tkZLAxPfUNu4SfhJ9PtGQDodfS2VbK8XlhioLEK9QVpPzwEpKnLU70FQICICgB6hCZueBCzo6_UPGcqYAG6BLQnQg13rdfE3vIV1_V3Dg8pBsqHX0hSy0Gui_y73ILMprSwqDDbJIRoajnQpCEsxnvFWUhUEnaYNw2Tz_eX6G_fXdrggkiDTEsBYZy3TU48RwoPMsy5wXH_aQG29pE0N9uwwgJArdFRjEY3kUFhuvyDt49nKKJL3Wpzv_ZlTQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NKurcTOGKxsBoBKFFqPTTR3qYsNtYsyy-Ei9P0nup_Znft8tdtJYKynaoRQvpL5JB-JFy_nSv7KN5MKSTO9bXB3wDu-KvoWLyN3FFKuw3VEvD720JKDE1PTf_0G4RISFhrRcmPu-W85xdgzvC4mhRqxj-djeGSFjU_iooe91IaU-4tMczOwWCIFaGr6hOcPuUh16DAFnTubriMcgQC011y4Ohibm4Q4Ocy10Qzb4w_VYqGtusHJEeX10h7DNKYFMH2lWTNvjh_js-c9h0VBP2cyn17lqPASVx6WPX8Z4Ik3IC_MbixFefqxx1JaE7FA7SO40gb1LidS51IqmX77nNQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر قطع‌ارتباطات (که به تازگی بابت عملکرد درخشان وزارتخونه در دوران جنگ ازش تقدیر کردن) گفته "لازم است با وزارت نیرو برای خارج شدن سایت‌های ارتباطی از اولویت قطع برق تفاهم شود".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1838,7 +1838,7 @@ Mehrdadlinux
 
 <div class="tg-post" id="msg-2465">
 <div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qgLqvySSkALPLxvG9DFrM5BnhRuR8WBKKHVH7o0GrxvWRYpC9ejNAZ49UvWAtb3-Cj1jGk5S6U-II03FmlEb72lVoqHZJ4a71qfZRWrgnc9-rHhA-qDOBYftA0P_pLqthgyTetiQEqu2ZkZ55QykQWQ9vo1fJmH_pxXJAxi2fbMiRxJEBZoF13D-owJ5iWlofoJ_ohL2b0X9Gkyt_BjcxsbJpB4wXHGhqZnoAxvGr8-ds_gdw54QTT5Cav3RJfa527IiE7ra3VVBV02urUz4O2kswwVbq3FBrRxN4F4jUriuxGvJIQ5M7uKuoNhvD4brmUd8cIIQl8HEDehxVlE6iQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GcGXgDR7mpzVoLkTNj46fjyzX1M7mWxwpy27eAWpVMDK7DmsS2TP-jS-xrrLWaBQHbvFUWulqP-yc0njre2N19xUzrgnaYGFSJAAbeH_2cTUc5b66wGRRRhx5vHQhXbUK-PuzoD1XkZ-HKkGc4PrPyzQD7xTawRdTwuoPeYfH6eGj87czzNOlkuVhJzvh1fdPktLuVUCMkO-Gjq4buPplYuE-Z4wmg7JS8rJKHVxe-t-dN9c4ixbnkgCXJO_rt0K-TfDpxQTOXy2NKBWCSqzNfI_KATrvuwAGeQCqoNXkIJOD4o6LYSL9uRLXngdROeJEmTP2a4GoCmdqxaYwhi8vA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در این چندروز احتمالا در مورد اکانت ویکی‌تجربه و سرنوشت نامشخصی که برای مالک ناشناسش رقم خورده چیزهایی شنیده باشین. متاسفانه دامینشون رو در ایام جنگ و قطع سراسری اینترنت نتونستن تمدید کنن. بعدش این دامین توسط ابرناک ثبت شده و با یک پیام مسخره و کینه‌توزانه، صفحات سایت تغییر پیدا کرده!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1852,7 +1852,7 @@ Mehrdadlinux
 
 <div class="tg-post" id="msg-2464">
 <div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XAInwF92uI6isE9c6D1a7jjBvCX-l8oHDjh0Jb2iN-mqr_CNx01C95tDqCLon5_hN47HQ9CNyvrT1oBfK_9bzbFs6QQRWa45vzfxn-Tb2HfxnVGz-QvHIpr716jLYkz6A63xVeLjHr_clYs0EkbNc63DrL8LAFjBYmpXqlPQIcXLQVfSOEdS2qgn8KgFL1-eTVOEJG4HwqkwZ7fNsnxGIjJFTHV7QiGp0LtWF3bB4PL4rfMAl64E4YPAuJCxd5CHPwqpvCcn1Y08_gfQPkI0X5GdP2kG6-tyX7lajdWCuoAHh2i-TLzr-kC8QdzhIqbaSxiSTeP2Ivr79oQw3qddfA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/C_6GcWibUpwOA20Fcu-sTYJQoHuOI0cv6ZWJCrxEScEo-I3mPAEu6knLSKZn3mLSyz9Bi5EuqWpVrUUyuTH6GvxNApiTxyQO8rX0rtZkruC7PaDtitm2je3h_g4XJivDX_2pQqgJ2yOxs18JM7qLVdqWcuexQuhybU1WJHrrYXJtL0kwh-Slr93dFJNsT6j4VgiO_1GXjOgJhCRSbm3Z25e5w5gGTPoI7AuwfLMYpfSqiU0_vxVl2s8FbnI-XMmQDCtFRhQtCZ77hr2sn1WyCVLQZEeKJwK-iq09IIK0TkslamARx_Gb4IBLIkH9LhsYd1hQuYN1Vutn-Tr2jleBJQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگر از
 #لینوکس
 استفاده می‌کنین، فیلترشکن دیفیکس در جدیدترین بروزرسانی خودش پشتیبانی از این سیستم‌عامل رو اضافه کرده.
@@ -1870,7 +1870,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 
 <div class="tg-post" id="msg-2463">
 <div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/o_GRRMZ81gVB1-QWIgINqByYLkd3Kv4sbjsJauQw_Wf6IYk7wK7WjJuiiq5YRrfPcAvDsilcm-27WYYgzDw-wEYJC_8zmcTiIagLANbPX2jWwRgFM005w2CO6DdiY0_4Ang1joVn3p_gTvhJ1qKbYd-XnytcFxsp0vTLDo00aSMpGZN1f7PwR9PX66xazzK_-5pQCSyeQkyLj31yMCywbIhkTwUPzN1vORcU9I--X5qVIIY6ajlYNAp7Hxnv7RVmUK_b_eL5ZVdEl4LHqM_t9USrDW8WmTTR83MnghlnoB2dEE-ywZr0-6t8WfVev4syrK7Alr0gcLXpjDcBeciOAw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uFqn5KOlbmvEPcBmaZo6YDnMIdArUyRnjrPvOq06-R7MSlSzZv0AokdxkI5vqwicQPaPaaDhi5nXYmWDOOGOepdeLNt1zy0L7rRce0DT5Xxk-ljwduw-IRd_Bj6ULp3uVz3xHyNSEpOsl9UcqtkMw0RYve4cSIcuPc3pT7SIzZDPkXtdMpQSeB0q6oY06HTm0zcylOx0s7bLu3YlHj6omfoi2CuTwlLJqxXTg0PyxobRbImn0N9tqpk2ICz9hPe6psm_Xb-AcrjkXeRnORHE3tSe4hSYcNPmppTtc35Y_m6p0U0xgKtBKJxqgqkeEZ-3XOcZc4fBNnqwcm513TVVGQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ RedCloud VPN یک کلاینت متن‌باز و رایگان برای ویندوز و اندروید هست، که با استفاده از هسته Xray توسعه داده شده و امکان اتصال از طریق کانفیگ‌های VLESS، VMess، Trojan و Shadowsocks رو فراهم می‌کنه.
 این برنامه تمام ترافیک دستگاه رو از طریق تانل‌های رمزنگاری‌شده هدایت می‌کنه، از قابلیت اسکن و سنجش همزمان IPهای کلودفلر هنگام اتصال بهره می‌بره و همچنین با استفاده از قابلیت Sniffing، ترافیک HTTP، TLS و QUIC رو شناسایی می‌کنه تا عملکرد اتصال بهبود پیدا کنه.
 👉
