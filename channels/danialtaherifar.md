@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 09:25:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 10:00:41</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -300,7 +300,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/T74uVTnujpbOAT-4nuQWMfCUuQr-J86Dmq3NUnj82tOtNcBxSaIA2IK2s3dpc2kM9WTBW2x7jV99PgkRzfGoLX7hnrRNoznpAFrapTY_fYJMw8XcsD5ulEasn6-tjXl_inzhr5Zm_wLF3R-KMCwLdqxl_jiarrioTbNF5Odl4lKbGufqzbVJLSQmTwtSVrsgo1XhjZ5H6hFzKYY8mEpZxvN1qWWuHRCPAwvfhyBlGRzXR5XnR4VkRlTwiK65gLevRSX1Zie8huNrTPufkhrbnLFdnc2OCNX0slyj1rRuzN5rhZVooCCT2oVtDjsLP-fMuoapdmdxYPSIwAwiUd5HEg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده    @danialtaherifar</div>
-<div class="tg-footer">👁️ 277 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 278 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -311,7 +311,7 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 339 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 340 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
@@ -326,8 +326,8 @@ z.ai
 <div class="tg-post" id="msg-948">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/hB-QhiYIBqE1Mnjs7385ZG2jC85i17XaWr3aHb4Wu-agDf5Y9hoUwSmT9QElMOHaAFo9n-DmrVsWVMqgfTpj935dlEgVzNM79P9BwCBm5pRCicef_UOetlG3Vbx5NzfkgzWprBni3_ZClr7UAGX4KCUrvHctFw8J_eC42twBpkO79Lp_YKJa15MoHHsL7VwCNCcY7FnqmIYDpaswochttof48O8feSIGsXhx3TTdUtTT8tW5w6RYKM1Yp23wTAz1SN9zXRXBmYQPbLrpHenU23GtMWCbJKAsj0ZBsfEThxb7iQ4Uv1rb5rmBnkLqyaAlkvezonsh8mqhvR-ifdqruQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/HocI_bTS3bbAVJ3yBx3AuQHgZnMFIMdFLjKoUOxS0ncY3Lz0uJr50HTcz7MjKkIDDX5sY922U50aH7peLDhes8OdrtrWCwDa0jb8ymJip6AVK4S_NJstBYXRsD21ip-vI46Rig9xHc15bWsMZHss6SkhQve-LWhq-5R-koDRDJRzqUP-qiPm7HBt2ryGsymkkctfwj9NZTVGR5EZqyCUlXXECVVGGMVMqES-mAhP67eFs_Y7Dc83ByjZfmvGT5kAO_YfYjONo6Kt7A5BhCPgDaL43OYm0TzBAGN81uCdLJcWyHCP8i_kxlJ1FkF6ageWax270woSZeYkCM9IxiGCOw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/NMwFB571f1PUvtWzt-tiMern18M0vJMmVj_UG9x7gEx1v5mKlR7bQKhqAdeKMR-Q5bgMrAIQkOojEO87bj4HINdWoGk6M4GS5R8zNpa3fWpq4WbwREGMLelLY1wU-pcqA6tjAYRYPY_-57I_P59hmon-xt6PY9aH5SuMix1m7oMPsWcLQPdSmC_UFEC2vm6gpHFKSTHoSPiqPbbwkoP8V_VBABgvWDSnxdxes5yvhsO4DkbaIFif35Xkr58rho6fiRYsiRRrzGgztPhrEKPBine3EaTF6ANXGOhORZN7z-QXqRDLwC3nOzwU-2KOCqo0H3WqD23quEC7wb3X1zft8g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/iO3dCwlBef8AOhXNGBYTN4ZcV8qo0Mf3_LL3CN0G0OtryG0nIHGNKTuJyOhvJS-YfOgmKU9GAwJ4nqx0Gd9-tYmNypUp5ZmjxRry9Ee3UjEkGgeq7hdNyO36er9dbaHfzy1gXu_m2Ai9oYBwFUutAw3QKiZh3oVC1UD5Ypny_bgJ_4KpokmfxN-F37ZfpM89Q43crqd0t4aiEFfm0VQVA-YF83PNmy8rxaNaBrxarFcdHXGd72ooyL7wvTWyNYoLAETC6p_64BtLECtnnidw39DdKj3UzdF4EoMnkDipABrOcrFwIvA1THM86rZ8bSmoQXI43UeOrVEGDrefbomnBA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">😒
 کلاد ایمیل میزنه به اون اکانتی که بن کرده که بیا fable5 استفاده کن.

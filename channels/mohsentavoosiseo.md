@@ -292,25 +292,25 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 09:25:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 10:00:41</div>
 <hr>
 
 <div class="tg-post" id="msg-911">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 865 · <a href="https://t.me/mohsentavoosiseo/911" target="_blank">📅 15:08 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 874 · <a href="https://t.me/mohsentavoosiseo/911" target="_blank">📅 15:08 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-910">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 921 · <a href="https://t.me/mohsentavoosiseo/910" target="_blank">📅 14:53 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 927 · <a href="https://t.me/mohsentavoosiseo/910" target="_blank">📅 14:53 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-909">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 918 · <a href="https://t.me/mohsentavoosiseo/909" target="_blank">📅 14:43 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 923 · <a href="https://t.me/mohsentavoosiseo/909" target="_blank">📅 14:43 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-908">
@@ -384,7 +384,7 @@
 <div class="tg-post" id="msg-901">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">سوال:   من از وقتی هاست سایتم رو برم روی Geo Dns میهن وب هاست یه مشکلی پیدا کردم. کلمات کلیدی تو سرچ کنسول رتبه دارن ولی وقتی خودم دستی سرچ میکنم نیستن. اکثر ساتیتام اینجوری شدن. این طبیعیه؟  پاسخ: https://t.me/mohsentavoosiseo/511 این ویس و ویس پایین  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.93K · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-900">
@@ -395,7 +395,7 @@
 https://t.me/mohsentavoosiseo/511
 این ویس و ویس پایین
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.93K · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-899">
@@ -433,13 +433,13 @@ Ban
 #بن
 #ban
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.39K · <a href="https://t.me/mohsentavoosiseo/894" target="_blank">📅 15:01 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/mohsentavoosiseo/894" target="_blank">📅 15:01 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-893">
@@ -755,8 +755,8 @@ Claude Cowork
 <div class="tg-post" id="msg-873">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/v232vkdN3Lz__dr9TR3uH-IwKe2TMcv2Sz4ChoOsMcs5jKr4YEtY0M2DBUpXGlFw706Tjskg2gJlcU3C9oRJ4TlIWGJjazPOmADYK9I27BquL08YeKYWfqnZc4ZomPDOEg4yx1x7LSdv7HzhwwVjdEYbVjpnxpDG4f6JxjSgVk9z7gvLwiE7_EuAtQE5D79Njuhzt0A4Ty6wzxXGCKzQATtac0l9UGVil6quzbHaINt4QIU4jvCtfExFa7JRENowpPoHfABrUb7aKcegUMBwN8Q5EhxhW1PGLvXf_EmYKMhQHeXGdxu_TuWm0hfp_04MaqzvLvwYpDDZcOCmDg7Fcg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/vz1_j61GGMp78Gz1QDMs26hXmwy2LVsJqJ3KuqOov1TsCcd-1TmMLTxGi_9hyvtG1FAduKbYeKOxfAB-Zr9rD3R8P9ADm9NDTnwUZwE1U7Jaj9DjRrygqT6nrWukxxWUdeEfXb8wNfCV3l-4PGvreX2riGRRuDQJQihbv2X-ZD3oJreoX66UBckBAVe8k39SoifGihKMVX5g5_Na8DUgfjirzmw6iwgl8StjSZfYbh95L7BafsxNpJZEmnNmccD8f2f_eORyq0akE9cXeNWDDjeNEfD8HGgVe6s74mD5J5s7L99ZUs7tXJLQLyUeQJ_zSn2uzyM-I022pU2zhe29Nw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/eqTE1EZr4-tIZFufdIexQY7kPYmqLwGfoXrZHpepHy3ssj4ouvHVAWK3Gq7Ah_FE-j8IpSePemFvNDorP82UqqEFVwUVKjg7Z4tgR9X5OBUfB8oONBZhojzzlcGQygOsyLVI5BOZgc8xNoNHf1UpB-a2ytNbTR3zpOR1h64cNAqIhvo_UrJ_UHAc1jdg7msWjvbGQABch3bRMJdVBZ_9G0Vpcg4rrWYHKDq6TYSTiTXSkSFBaRmqrJMfHXLNti9Nk1IreC1RP4cE6TOjK5OOgiC3Qsf2Hc0ZBYBVKWYvVGkOcE2dClSAijyQkTsXHl0X6l34KafJUhGhg-ZAvCrRcg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/WyhOm8NSw03QazvwSV5lkX1C1p3m8CvvPQDljrnNpAMQZpUctcZ4S9slR46lmngYFXQ2xyqeEuspOzYDsihAG7gBdVBJkAc_oBCA3SzBNd44bjXzDtldBZkQZ-20oXSsYsjHFOUc7dyjHmWdmITaYXL39WbbSkdLuhJ1saUZCffaai1HHW0_P6fLtBnxGMm8RGHSWEhzGyKyWFy5mt0s6nzbrpe71uF5rkd6LclA9s3PiGe2EbOs0SCvp-a7XFGXsf2IM8Uj5CKOQr_VvUCulmm-FD0WKLWsGUp6LMOq3esnYwMU4nVKPe42j8bWj54I_sPXFehf7XdtTl-txI2ZJQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">تصویر چهارستونه(گرونتر) برای ابزار keyword tool هست و تصویر سه ستونه(ارزون تر) برای ابزار Mangools که ایرانی ها به KWFinder میشناسنش.
 شما خودتون رو بذارید جای سایتی که ابزار اشتراکی میفروشه.
