@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 12:37:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 13:28:15</div>
 <hr>
 
 <div class="tg-post" id="msg-2905">
@@ -325,7 +325,7 @@ arnovps.com
 @ARNO_VPS
 💬
 @ARNO_SPORT</div>
-<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/iaghapour/2905" target="_blank">📅 22:32 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.98K · <a href="https://t.me/iaghapour/2905" target="_blank">📅 22:32 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2904">
@@ -354,7 +354,7 @@ arnovps.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.5K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.61K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2903">
@@ -397,7 +397,7 @@ my.gov.ir
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.07K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.15K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2902">
@@ -433,7 +433,7 @@ check-host.net
 📉
 کد تخفیف دائمی به مدت محدود:
 AKO58</div>
-<div class="tg-footer">👁️ 8.66K · <a href="https://t.me/iaghapour/2902" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.72K · <a href="https://t.me/iaghapour/2902" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2901">
@@ -462,7 +462,7 @@ AKO58</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.71K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.75K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2900">
@@ -497,7 +497,7 @@ me.
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.15K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2899">
@@ -536,7 +536,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.92K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.96K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2897">
@@ -565,7 +565,7 @@ YouTube</div>
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 9.68K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
@@ -1120,7 +1120,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2865">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mXz3ttVYYhFe2EzOokt6ElExT4jNM0lRHNYro0YaZLdGhxXKBc-m7mK0w7kiQBunUqh8mxrXQLZmtSl9DHzQ9rPfnF82D0U0JN4JrvnHi7KYAddlNm70k_guqC-kwuen-v2VoyJl1FWYB0Dei4SYc2dMCO94m6rV0aWtyNa97BNDRIJ8srphKwSBIZJwKEVMl6l-TIDmHS2MlBdKC9FKxnI30veQSZoPwBLU67eGa1Evl8J_m6a20pw8nwQhixYGlhPd-92srcTvCsUqtqOI9LuZXWwQgIxiVTakvsn40RCJRmZ0JKTAkwXxeWiem6h2sSNkOzbMATXPpZwoSCVANg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B5Z-PCRMQmPlStOC2EuRTQFntP04YBJOXY0hgs7269r6oSTcq-59P-8Pqz57tVrcyoj1vRouLRG-vZ-9644REEgmldX6ldbp6wivopVaQMk2OO5kImWLVs9aCOvbO6Dme3hM91XA8AHpfw8RdJaSf5-QA9733jWqrzkdsbIJMCcXzWuAqWnug3hqr4Lpoy90_Aorq5MNFrCqXD-gN9tcNdvw9l7YPCa7c_D44RxKiJ_AiiMfNE-4O4Dv7FQYyKKvNuk1fslZmbF4g8Gg8BoUkPOkXf0RyZaOIeixUA_g6-3ZtGYn5sma4KRfjRtkFW5Uzhkv6RqQsFKIw0JJctVZmQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Amnezia Web Panel؛ پنل وب برای مدیریت پروتکل‌های فیلترشکن
 پروژه
@@ -1296,7 +1296,7 @@ YouTube</div>
 آدرس سایت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/iaghapour/2858" target="_blank">📅 14:04 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2856">
@@ -1426,7 +1426,7 @@ YouTube</div>
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/iaghapour/2849" target="_blank">📅 18:37 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/iaghapour/2849" target="_blank">📅 18:37 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2848">
@@ -1492,7 +1492,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2845">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Qshge78JZZQd3n0OTuqQtZtEfJA-R-WdFrDn1JGsrFoFU1F9YkWc48ZxzaVA3ms1EF80aLDEkPENdXAQt8lgwK0kmpOWPVzD8PNZE_ciZVoxUU6Mg0jiwRcWdZO6WqBtHQBsVl_Lox9LI06X04HLNoLlXYzZYysenn1EaubGrXv4JMC8ZPYvaKynJ5hHO2L5wlDAoMBAsWfpQzRNRWdLwMBplsbx_qaXFnvrA4VLkcIjb6BWE2dgZeXq2Pp4P8vXUuhLa98XwW4XuXZETf0sCz_KK6DJbxn4oJLXS9WS3Pot4qUfP7Qu1StuSWX8rNPJCBslbsR1-ILJ4iBMy2Bq9Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JvX81evb8cBPH905dnCb6banp_aOfbgRiuDJM3v4xKOfYYAQAPpuLbkImYhKhGYft_x2OmyriNR2kuR12bg2DzWJwj7fNjcQZegM3dtpQxiLnjmTaQlxRz8aN-w427hbIRNvrfCr6Q6rDxQTMYqKUqd8MNQJfry_Wm_qMY7zFi0IQQcknc8hTKMUxI19Tz-yvGeEndGDuhXx1c-C0q823Jq86MTU0K9ywCr4eus0qziPjxjS5gCa82mgphtuO30nt4I5hqefwrrEM9nrKTCCZdEp-4lISKchj35qB3IlM_b1W9wVE2GqKr2Vma14zwypnxy_Yo_Z9rSSHqOFlo-S7Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 توضیحات ایرانسل درباره نحوه کسر حجم بسته‌ها و ضرایب مصرفی
 ایرانسل با انتشار اطلاعیه‌ای، در پاسخ به ابهامات مطرح‌شده در شبکه‌های اجتماعی اعلام کرد که کسر حجم از بسته‌ها دقیقاً طبق مصوبه‌های سازمان تنظیم مقررات (رگولاتوری) انجام می‌شود.
@@ -1635,7 +1635,7 @@ Xray-core
 
 <div class="tg-post" id="msg-2837">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y90bd_rq8F4irLdo9ATR9AEo4lNHS6vKV9CgsrzPRRUjxX3R0v5A06xwGRrnXhldyKCt7MO-Xau34yCyaI-UhMSiz2amzZj1qOhBMNvFg16M13BCOJ-JV1AWxsNu-4wCrUey7FzHjdwXQlNP0pAvB_DVY_s_a96cXEhbBIhO-AL8Y6f3hKNiCc0X0ljqO0WyW9cMwYneFWjcQPCvxn5ZouG2O3c5nEI_LZfPYKmQ1Cv9DFTJR-I7gEfsX5V0r4aA8rXb7kMaQ4qo3CzI3DG67WR_9sFUPLkMHEOkr3bMME3tgrsp7N6rBBR1eZ3wcFthpkZ7pvBz-FAWujLDoBzUew.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ImEHYAH5Ov_GLHtKJpLw9P-H6CpKCL_0wd0RrVx0SEiaXvLZhf_clXCLB8-mjqaumJhZYYypphJ-4eLrTr2kM4IZVYzlW35Y3Sv06vYtyK5fLZz9h4blWwde-mc5GSfRHsRw46sHMznYZPzZ8W9jmKQ00--Qc4sj2Lqs6SO0aZPhh-9gq2_WMfLIbYwkJgFcDo0wT3cUkKUGChZsfKrBcZmjycAoXQgIOhv_PK9IyYOdE8KJtY9PhZscD2sBfQ5iOI6tav3ULrH9vRvGXgADAE3HKSi3IEcxQizsIbZBWDmveur4tJQWPG59e_5rOmNZMUfNzougQ4twJ6sTC45LiA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 معیشت بیش از ۵۰ درصد کاربران ایرانی به اینترنت وابسته است
 یافته‌های جدیدترین نظرسنجی ملی مرکز افکارسنجی دانشجویان ایران (ایسپا) آمارهای قابل‌توجهی از ضریب نفوذ اینترنت و اهمیت اقتصادی آن در کشور ارائه می‌دهد:
@@ -1712,7 +1712,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 
 <div class="tg-post" id="msg-2831">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gTFhBnMD6vgM5lirZpsFJecAOuHqfqDJoCwC4airhyER2sQ4HK_onyE-EphWoEeJTkHgEBk36UCf6kZbpC5u3pO9HfnrXZTmvmUnPsHIFveA_0DdQ20gwpUm0lqHJSDluKw9XhhqS0vU3AbhucCF3_nXf3-zYUwIHNfFy7lGpdG-LmJahXCNzgB_nGtGI_f69J2SygrfUUOE8HYrVAGCnqeCA8gXu6NlF9_72S2w67EQ2x3db2rKmJ9lssansEqTl3nwdjK19czImpoUZYkFoD1nsfRLlecncDBURqH2ZmoM7eZBesB-KOL3lyH9m_-9Xyop90jWLwxsoY14LQVreA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XKIFysa8MjZLp8qzc5Dav9_BcgkVmU_2gNVwbVmITvD4HmWS7aPmVgdbXRDgJyOlRHtGkp-186euFYYOqYRtEElTCMBiFzOxEUS5gAuKNsoec-lmzP_ekn-RxOByV_LHQxXOfd45GF6cDrzNfvLSKuxEoVVEinHZcWaG_8-jlvMUG_6jDqI3ImfISOJ-J4beyjhfgsP9ZzK0euOjxgKzQPS9MTXsnIobAap8pQGrnbEUknn2GNceMOq-opIbn6O-5jAwVznJXKIZqTzG2D7p_aRm-16dmWBUy-kjxOlgu1SuHqhmKEIq6HqMoHe_17nSPZLOwbSUUtHhhEOdMxC3iA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 امنیت حساب اینستاگرام در صورت استفاده از VPN
 تغییر مداوم موقعیت جغرافیایی (IP) هنگام اتصال به VPN، سیستم‌های امنیتی اینستاگرام را حساس می‌کند. اگر ورودها غیرعادی تشخیص داده شوند، احتمال قفل شدن یا محدودسازی موقت حساب وجود دارد.
@@ -2482,7 +2482,7 @@ LangOver
 در حد توان آمادگی داشته باشید.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/iaghapour/2782" target="_blank">📅 13:20 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2780">

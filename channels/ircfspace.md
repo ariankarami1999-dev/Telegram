@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 12:37:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-30 13:28:15</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -336,7 +336,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -374,7 +374,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -404,7 +404,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -419,7 +419,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -442,7 +442,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -550,7 +550,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.2K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -599,7 +599,7 @@ manageit
 
 <div class="tg-post" id="msg-2541">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JFVY46F2j6uzMqIjFulYFMUA0gZyNomiJfg8KqqkmmDmzY8oVjg7YJliS4q5Q1lCDttRKfTB9IL3XT9b84omm-A2Ge8WZBg_Y_HZlgKCGYRbep-PICrPaw5CqhGYBWoLzHmfWtlR_QrQ5Uky9QWRnP4xb0pJw6PMvwic5IfeLX8-lkI8tdWHDddPm5ObeQOVd2SACT-FKxaDO5P97-jSKOnWZK-PejtxBVrX01QQD5dF3KesqeSzRujRRGjQa6-UBZDQdkWoXwMflmEd61ePrTOl5Ohj3bO06QVqpZ2E-GcztIbNighw6zoXOfC7GJW2ebUfnCQT3HtMIwaW6lIyLg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OpoZK3EgJ2muKW6ge-bIZX41nub_HxqlmIUYn19m8bnzVbDAVjB00M9UVPwfyhQKggn5SVvX1Ve36uinTOEqPNLnereuwTBXJVFX30hOk3fO8OG_tlNJOTBYLmDnAXv9DOWYc2Yp1haKC72JUWKXjLIdr9Fnt93QnZx_WeApn7ZWS1kmbt4WhmzaWTreuFGyICJ-bJgnbKQGhEr6EbTV2PFovzOtCAFM0rvpAYAwvlsqxS1BCMT5sB1yan4WfYNdhO-bVKbPwwpSSDUjbUvvW6zvqbkO6HEYsK8EQxq7DQ68z8p0tMqiV1kbUhoaA8QVkLCvMTMoM6MOz8414nWD2Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باورم نمیشد که بعد از ۸۸ روز قطع سراسری اینترنت به جای اینکه بیرون بندازنشون، به نمایندگان حکومت تریبون دادن که در اجلاس جهانی اینترنت سخنرانی کنن؛ بعد دیدم این اجلاس در چین برگزار شده!
 روابط عمومی وزارت قطع‌ارتباطات گفته نمایندگان جمهوری اسلامی در پنل‌های تخصصی اجلاس جهانی اینترنت که دیروز برگزار شد، مجموعه‌ای از پیشنهادهای راهبردی برای توسعه همکاری‌های جهانی در حوزه‌های اقتصاد دیجیتال، هوش مصنوعی، امنیت سایبری، خدمات ابری و تاب‌آوری زیرساخت‌های ارتباطی ارائه کردن.
 🔗
@@ -629,7 +629,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2539">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qQZDBCi4MUWW19Fj9WadUp8iCwAcIsR1h3e8X9CuaeAuf1HHylhr6IaB_Y24C4b8J0RopxLYKkzCjtPEI4NVlFKRkDH6mjeS-kjtiGS_AeYUcYptmgMsGX2G-3ZGP9QSRLbYNWTLY7oMDP8bCjFQw6RbdgCDsWi9gVhzRDu9xcUTL7WfUFubsKfOoJ34vw3jYLSBkFTkNhwfmXSgkhEcGeWTnFtXbcP29I3GeTBD5je0ESiVAfhWOngvhit3vqMisJ0eFNjXgxtDV2J-8QMPPXNYnAo79GsXIoLFcuTHthMKGNnnQJXZapbNoSHGAe8KbfJUGvI1mI9XW3sATrArhQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MqQHgsRUmSediPkLrEzKPvcix8Ygw1BzU6XtKZd-GOy9JaAqUHfVTmgAmOj__0nbN2Bt-szJ5BvmJBcaZj73JFeUtzbszoEZFZ2NRancP9SCOGAjRZTOX7NQar8PdyUDRjWF6p8r2FmwFO7-DftnL-30Z7O592a5CiCe5bFDaJfH1uBJwA-Ld5TskDPXBbIElcixCbyyWBm8FEkDfgWV8MjU2_3gbXLB-BUpHG_7N9h8esdNgwQMe5Iz3eT7idpTZoqzKCyU6KdLydYJdLfmK-mMypaEXODLQuiu9duwQBtvIECtPSX6DqKoKkpHT8XGPf8AXt8H_rRaYvNZLyI6tw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جدیدترین داده‌های مرکز آمار ایران نشون میده در بهار امسال ۶۳۰ هزار شغل صنعتی از بین رفته و سهم صنعت از اشتغال به ۳۱ درصد کاهش پیدا کرده.
 حالا این آمار رسمی مربوط به مشاغل صنعتیه، ولی فکر می‌کنین آمار خسارتی که بعد از قطع ۸۸ روزه اینترنت به درآمد و مشاغل اینترنتی وارد شد چقدر بوده؟
 🔗
@@ -644,7 +644,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2538">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/pH_Lgs7q-XR08Dfvw9bA3eu60p0YPFcbDC43e8ZmKKXnEz3vXk2GGL_pa89qyS0NJVyo6hv4h0-f2GZxsuKujN54tNfudRE0AqXcH0fPU105ekixwdyma2fyPHgDtYHqDgSO0bN6HShFGNcG-wy23PuPocF1pVxRPI2dmT2u6sOL8UeVXVhzUfy-47QfTsrcW4vJW-h5jY_QPQAdv1vlTahvmcDYemLi1efkcdrGaBGPdBo2_fLvpMFXUcHDk-ea3sOf8gNph8QBPpcvnDHaK-thKHO8Pp9tx6ZyXp9y2wp5GvZR5JglEiCrRgQkXG5ZLBrPiEoxKynwPYFGJCOpCA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Pv3z1PQ_VaYI3ZfTrwHSLuHL-GKjDSKfQduFllCVOsnWM0rUbZKrolZDnInlDiDo9ukbasJ2MQ2kOjSx0BnGrV4aixvO_qJsPx0PuU1sd_Ar-50Tjt0knMAN71Lgi8Z1K4-0fBIitISr_y1888gcwYk_hxb8vsuTOkCj-resTAiCNRI9CV7uFzcNpwCGEewOA_dgnrj-acymvdRxLG2qQgUujRoM7PpBe01K7ga-ERCYBOZPGeGf66UAulKpJZpX7DIIk3vLdf2WHdmk22Yv_3qQpGQL7C-jug1HwQvQ9BzztmtWeNnw1TvOBiKfEAcgWgmB2S3Yy4co9kYXqSCsSw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چه کسی و با چه مجوزی تصمیم گرفت ضریب بسته‌های اینترنت بین‌الملل رو بدون اطلاع‌رسانی تغییر بده؟
 قبلاً ۵ گیگ اینترنت میخریدیم = ۱۰ گیگ داخلی بود! و فقط پول ۵ گیگ رو میدادیم. الان پول ۱۰ گیگ رو می‌گیرن!!! فقط نصف اینترنت بین‌الملل میتونی استفاده کنی! بی سر و صدا دزدی میکنن با عوض کردن مدل درامدی!
 غرامت قطعی‌های ماه‌ها اینترنت هم هنوز پرداخت نشده. این دزدی سازمان‌یافته‌ست که با حمایت وزارت پست و تلگراف اجرایی شده !
@@ -832,7 +832,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2527">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EKOW6lja1fUlDW-KqXoba5pgmvsTxfAH0oyx8FgZGiepk5eVRGetmbBq9eEGyWyPrJNvB3jI1-2wOm4tg0ZxsDdt6eCJCmwkp0z5UR-GXpo3KS2E85mS1oF2OJY0zcfFkqOFCMYz7_8P211DFQ61Cv5JhNab87sQtCkrG8iE7JexAnW0LMvTZ6NRgKXpfZLA9QtVHE6k_t6Sre3qEBWxOrk0DSajBVFUr3mVsVghRoESFf37-iyjNn4ugYaJxc82zBHObkzv_SW690ayEZ4oVgQEgjmjxiW_DXpu14AqO9F6Tb-5uc8uKWhfRZ3l5WXk92IrKnfNKrZXRy683OqzUA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XWMzO5pLYM0xnyR_SWHVHoxwvFCSN4kklPxpvzeNOX8J-Wj9I7DzJx-NZ22FUtL9PsVVnu2etKsLnFCMtomjWz__lZGy4n0O3bTedbfOgD9zEdKV7R-PvA4YtltKoBw9IHkQO0zWpkZq6_pF-dMlPqfKmjNhuS2cJhbqu0kYdyHonsWYU17KnPuXiwrBooeA5f1MUQ8SPkGbNvl3YAFcu1lpl25gbVrlXwJcuB8ZmWyQCFC63UI8slpfYKzvH8Yqw3T6r5cB1w3jY2Q6LMS2g1plYA1ioi2tC65NF_pviRUWqb-PNkfGpum9WeqzvZ7Yr9tHYYiBdB4Yq233I4m4mg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه جدید از فیلترشکن بگذر برای اندروید در گوگل‌پلی قرار گرفت. همینطور می‌تونین نسخه ویندوز اون رو از صفحه گیت‌هاب و نسخه آیفون رو از تست‌فلایت دریافت کنین.
 در این‌آپدیت هسته ایکس‌ری به جدیدترین نسخه بروزرسانی شده و روی افزایش پایداری اتصال، بهبود عملکرد کلی و افزایش سرعت برنامه کار کردن.
 👉
