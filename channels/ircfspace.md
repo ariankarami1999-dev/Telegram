@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 19:42:58</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 20:16:39</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -1819,7 +1819,7 @@ arashzd
 
 <div class="tg-post" id="msg-2466">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RPXG9AQ2Y1Ki0ez1e19HNoTfmbHTPRqr_fay-xCm4SKdozDzNuAIvA8nZW4kBWNlRRzezsToz-yYzJI0nlaK341_YX29No9IR-CfChYNgt-DOR5wN2e4iBEOBnnAVDw7FBHjkPciR9Z9B2wHkapEI124ZWRwlPBWI-y4vdDEkCIp3P3nWSFIwz62PmsjmcnBzswxORSUkhJNzAdnoq1eEbcUg4x5N6a3950FGBOcEEYReVPAVgfHrHXW4edVqJkcCbzqXo2hUNjetO4s2cK873ksP3vz8gnU1JRHQcNYHk5z-vamWh7ACVqyb8UGd0Gs1PDAB4K2lzy6C59rL_UK3w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/unveTQwKIzjA72pVIvBFH0s9jH4NlrTHRA_2OIKPDbszFAm6bVc6OExRYsfLSxbhqjUI0ug6tEHwdRO_UnOl0yhXxFzRENYTwJITh55UUAox0t-Zw7GWVkiLFDDOiu1O3Qhl3vWxz5Z4xRam6HBZ_zP5r-tUalXv-epssyYcQairV9abBYzHz_2fn3S8GzJJI5zI1HEh9_QFF5HP50i0z9qbVCLbnDxYEnCEXyLaXcoUcqdvQPdbXLjcZiTMzLHp7txBtWbboSj5a8OXe64wCIOHvGqGJZNQu9PwSB7oEURU5A90W-6t5rey2p6-lhCZp9DJ1Hpc05RdplI5D-tFIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایران از رتبه‌بندی جهانی اسپیدتست حذف شده. شاید فکر کنید چون دیگه حتی ته جدوله، رتبه بدترین اینترنت هم توصیف مناسبی نیست، یا دیگه زیر ۰ و منفی جوابگو نیست.
 نه، چون چیزی که داره ارائه میشه اسمش اینترنت نیست!
 👉
