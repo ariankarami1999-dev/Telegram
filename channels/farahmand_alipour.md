@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 02:15:04</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 02:42:03</div>
 <hr>
 
 <div class="tg-post" id="msg-6633">
