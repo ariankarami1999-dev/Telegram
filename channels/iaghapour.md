@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 11:48:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 12:24:01</div>
 <hr>
 
 <div class="tg-post" id="msg-2909">
@@ -377,7 +377,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 🤩
 🤩
 🤩</div>
-<div class="tg-footer">👁️ 5.57K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
@@ -408,7 +408,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 5.87K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.93K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2907">
@@ -434,7 +434,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.73K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.79K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2906">
@@ -467,7 +467,7 @@ Xray
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.64K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.68K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2904">
@@ -496,7 +496,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2903">
@@ -539,7 +539,7 @@ my.gov.ir
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.7K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.71K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2901">
@@ -603,7 +603,7 @@ me.
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.83K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2899">
@@ -642,7 +642,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.66K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2897">
@@ -671,7 +671,7 @@ YouTube</div>
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
@@ -1537,7 +1537,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2848">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gH4NZrqXs_q8sTlHQiBDHGVwao5qkdPZDvpgbIgCJiaJJ9ED0kfcKzjT1CbYBaxcB0FTq8-nNWdwTrAqHK7dQmzAgPFOn2BIOfN_Eivlyg87Hp5z8BjspDmf028WO3D6Au-w16lBAgxy6qaCTWniDdjVMmdb5hLpSwgWadCRHHKatol8WFg92n6yHzVIXVSBMthonjiI2pGjGL06e3OxKOjhFoz9OWxNF7bb3pMDqcbaDmm6r-52_NG1cNlJIekeo-i6tJIOSF4XeVugH3LdR4Nyqjbc2NhwfkoXpWMQLtTWSVMNJ7XWypXU2uWsL9CtocC2oYoFZWF_k9NIm4F72A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Q0-KPLxRLoRzqOWdTK94RG6in9EAtJ5yZo3VuAcQdLxolP2LUKT2yQ5voLGfM_y12ouhyLmayNj3gcQJK56Hj1v_Knr5gqR7p2y1znnREHbQGWkVHJLEKB61LWF_FdAoNSbFv8wBMcCL2MynWR2ytYG2DpG3Jyse61CPvs4OeSul8SaVRYGi7b8O1DpjGrTAggtezNQDzgHDxNLQMn93XBl3Cc4vHtjWsu049hL1sUK1cn-j33CWne12upPH4Nwv9ETL_9u49yPaIWkeMIw4BKrjoExrrrmCYdV6xO-ArtaWnQf8vZ4i4womt2jr4I4HKxvzL56JWWcJJ7-NW4BlUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎮
 خرید تاریخی ۵۵ میلیارد دلاری؛ الکترونیک آرتز (EA) به دست عربستان افتاد!
 ناشر بزرگ بازی‌های ویدیویی،

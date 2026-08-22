@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 11:48:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 12:24:01</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -321,7 +321,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -389,7 +389,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -442,7 +442,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -1142,7 +1142,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 
 <div class="tg-post" id="msg-2508">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EEicLvi2x4DkOKlv5VkcY4VpX3MijswMsUurl0SmdfxqFWM09UF2z2n7KxxE03gckLDFl1h1hlKrTfwcBJ1eZ6Lk_Aocogw6ZyqR44CnkIL6mEhNQ0gIbpTihS_a5_8p7SZUXjurf6PJHQcQyMCdzSO-r3GmahtfSYBjv8mKSMTuXtxNqgS8HSsFS6VFrKLtLVkALatWONG21cAs-4WvGgHaCyYkRDVMKT4bm2nl50YCH9OSVx4GI40VAT1srVP_gXZ-O-AkXP0zdp5gj4Wdcpzcm9g2RAJdBuZKgZNy52qqZSbYDgxyWJhZP3s7QhFsWLZjiNBoxwibcQnkpFouPA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sgjSaiUAkldYsAdMpN-K7NPgo7Yf6xjdt4vw9R1JRhPCERoBMyT2BGThRLhAZ0njhkMtR_MC6rkL3XJKHU5wZzlrUM_MXByEvgJUduxDKd0S9kPF-wZZ9wRHC95LBQfX1OdTkIu82qbGTQ8Ob1vU1qEhXdWyALvTB3c1jBW4JRkmojqGM-YgYGsq7HGbGkdc8W99ZUXv7vQZga6uAmy9EjgK65e71jASUjNK-Zq5NE6oC5Xx8dr4I9S7pru7U9jevZg0D-NNq5Uo09d9bbQqm6HR6iqamjiHJ-2UzAbAAw4ANA25z5HVLky1QlI1vWrEdycn7spXuqOMgtGcSHz6gA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فیلترشکن Aethery برای اندروید یکساعت قبل به ورژن جدید از هسته Aether بروزرسانی کرده. اپ Aether-GUI برای ویندوز هم کمی عقب‌تره و ۳ روز قبل بروزرسانی کردنش؛ البته احتمالا بزودی براش آپدیت جدیدی ارائه میدن.
 👉
 github.com/ZethRise/Aethery/releases
