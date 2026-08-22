@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 16:37:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 17:19:32</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -355,7 +355,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -374,7 +374,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -404,7 +404,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -442,7 +442,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -523,7 +523,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2546">
 <div class="tg-post-header">📌 پیام #86</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AXukAF047kPM0u3oL1O8vECUSfBa-FwG9a-i47F4o8jbnLgrMgtH6ytV8C4F-6DGWxumUMhI8GQaOs71dKgdQu1uR547oqqapD-3ePrr5LFBumdoHgnTH0HiSBPPQ0SkwtLEwQPIa6Qh5J3suLGRmiNFuo_6cPIR3GBzppC-f4Qo2fsuLZEyoNSSu2E2wxxTHqWDK5cdw-qX_zR_KD2n4Aft7ItGCbuJsSS3ESKDwIicEx8y1qfQrKZlQckE9G9EZDRN__iKwLFx01U5ZpCG3_3sDW7XSoX_u9VnkcOkfXq0h6lzj0GV8xuTsxRcQXZPkwo9hAVGX6_VIIgQ8XP_og.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cJk0NFR1CacW7k41b7y4aBxBnKUW6RkSek5mKAnbukiC6jH-KLCHJ4U67lgoU6rb9U6n_JSRgIlgYS1UHTsHPZv0V0GWyK5ZUI39zNFsz1pTcSeT6HFDZdkXgv6xMkOKK76nCx9cbsSQ-5_zzvFu9kPYuPbZwZKr8nGkHBJFjfZVE7Nfjx73h7Qy2Qk5TtNzFyhaCGdu2-rU-f9UT_QxwBTQLO8JfNeg9_er06eyICHlvg-BMhs--sPmoWthtdiCw7Kr68qLF_PRGyQ0pgkwbd4ZdpRPoQC3tH57GPNADs7RtEZLI3FBSxcT2dsdX_zvQt13OHN-zt051DtHLhzURA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">متاسفانه عده‌ای از عناصر فرصت‌طلب سودجو عنوان می‌کنن اینترنت قوی و زیبای ما گران شده است. برای شفاف سازی میگم بسته‌ای که شش ماه پیش خریدم 1,348,000 تومان، الان شده 3,870,000 تومان. قیمت فقط ۳ برابر شده، گران نشده.
 بنده هم با ارائه سند میگم اینترنت گران نشده، فقط ۳ برابر شده!
 ©
@@ -565,7 +565,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 51.9K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 52K · <a href="https://t.me/ircfspace/2544" target="_blank">📅 11:18 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2543">
@@ -1339,7 +1339,7 @@ github.com/SagerNet/sing-box/releases
 
 <div class="tg-post" id="msg-2495">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/srIbcvQrHN8isy3ZVUcFsEOM9D9GA3IqjUW_d96WONJWVYy56A9kS5N-IP7kFwZyQ9kyyo5hO8Q53w7SQzmytjbYrTgA-jawds31xrDUa1hH4ECPMEBUeztz641zcnU-mv76Ijrqc46Xc34AQcAm0woUEEbDGgKPWG14egBJUw3yAKHUdmxBKqFxDepamL1ubrH1sKvrC_Bnd1RnN1NXEwAksvePHWyz4pPJIYsiwOQHYeBFbMkPnCbkvF83_7oI2LU40UK12mqLWpPg50KGLuatl58rBCSwkyLwYAulZFqgIoSOyWaO2tZqJorEpAvnP31S2HNe9Vkcx_mYYWaL0w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SY9pZeA3rAekNUIDJt5uvM-07Rv0bEpo4ZxDrOyEogYcoM_iu3Kb2q-v4iaZk2cXnJglEMLMKY05syY1Voduc1DWh0kdolYeYpz7mPJOJ7lKAneiqZ1XDebIbT6qupMllRjIC_fhXFsxJ_lVWlBiwcQsv00HICMKSWKFowEFYv4HlWh5BcUc6pwGIU7hLo4NK73QecgbmXg1E0KJ5neWqh7dSLbzi_GWAvseBEkybtNgPsEZyubjZ2wAJ_r-LowZE3Vt4qEuvGZbW-KC5iQCDkLjO3GZkjv0DTY0ig0ovA0oSHmFv_XzvJyeFTgcNeUAKWxbMYZ4hGT52C5bMu3BRA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aether-GUI یه واسط گرافیکی برای هسته Aether جهت دسترسی به اینترنت آزاد و دور زدن فیلترینگ هست، که دردسر سر و کله زدن با محیط ترمینال رو برای کاربران سیستم‌عامل ویندوز حذف میکنه.
 👉
 github.com/MatinSenPai/Aether-GUI/releases
@@ -1390,7 +1390,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2492">
 <div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sMyard-7He4CghGt9S9LfZhyAXfW0xfRkH72pw6B9KGl8_gL3ARJv_deVwCubPLHxW5_oY1_wY-PY7DmTseE9vyTlx_If2sYEv9Ljy1GnTe5iTKK0yzSH79EPSkrVE5G8B7AMhD7gI0O2BvRl6LX9vRFbdcEySKG2Dn61EP-tug3Ex4rK1ixD1Zpa2HkrRIpLO9E54usheXrrnYfN9Kp4szQvydS12K4aZOs0XBqtNRYqqvVCswX_mDuO8FBq6vgBPvQA9IaixLynr72y9ukusxoFomSdbtvC-XaXCmCfVjLpfTz7iZvqsmHZJMZc2HSnoueB5EyFmesww3uEZWAzw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/bgo2pxtlotirmWwsW3fv0Kuxh-sio2Evv4ek4ALvkAocrihXRTCkqNnyyHNXzL9O9a_l1dF6s7N9wAKjEaOz9KKRq-57e8uuxm2gJ-aA-fWr_9zWdW1sFVlNxy0Rfy3KEFr4UADkzBFIhdQLWUpLbGJZrqafPHOEPOROwmeV_o_EdhohaVnTGDtsUFQ-wEC2I8n6OPub6hjppZFdCUJ7B4PmzoZhIAMEyJrk4ZUm5IUJpKzCrjERqpSv3d4hrAt5OyTFeNdcn4Z-2RsNRA7vdlqkEcfnAdbNnggtn5Fo2qMRG-ZLjeselQA9Vo3ThSnseV83ZAAz3V-Zs1iuF_ZZhg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دامین
 t.me
 که بدلیل تحریم‌های وزارت خزانه‌داری امریکا مسدود شده بود، مجدد فعال شد.
@@ -1529,7 +1529,7 @@ github.com/IR-NETLIFY/zeus
 
 <div class="tg-post" id="msg-2483">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kKmMYTyOdjOdUs-8T0rggLJjBrS5KGZQHuKUNYE8iogm0eha55Uii87ybKHZgcrCdAL9sir2D55X5x3zjAuDwYgCqVyWfgW8kf0zDQC79wxS7OPaK3tpNREuM_IGSv-hEUYNUGpdRIWjkiGeu-p_21RBrySRcPYAz0b45Gz2BkwgExgN1WKVuOKY1Wl2oBtxEdjEY3I2xisqtV_woajv1w1AHUywUSXv3G7Vk6bXJI0d0UI6jRZQPST5rq2I7WwdRHfSBL1Wjfr9MU1klsVmnNSJK0cy_rgS2ThbJN_x-YuLj5HiGt4zekvwrqqXPVl9G9LhwUGNglVm-DBT4bTifA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KB4-4DBJjT49nrtHE4DLgLPIbqoU26lNJMNKDonTW3pv8ZgLS-akIuFIchcFQLZnGq7hKJEOdMtM9aC0d-I-l2Zbp9CfiYdb2gKiOp4hK9Y3Wr6FG-uSKcuX_bplBzOlRuBwQg7j8LVwPVTP7gY8_ZXJjIuFxXLNNKGuF3zpjT090t5mtsps7JFO3Elwu0xgA1cEi0gjbeAqTes9oOtPNmJHeHzSNmz2M0Bep_gAgNJHZnUBcKIhPbcjGB4a7YL94cMV9WtQzlTUXDFqeQVnf_ScdAGybP1xWpeasoDkw_nxJMWUL6aBnrRlx0O2BAMFx7TCfjieTEsRcvWEc8CPeQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایکروسافت یک آسیب‌پذیری روز صفر در Microsoft Defender با نام RoguePlanet رو برطرف کرده که می‌تونست به مهاجم اجازه بده تا با سوءاستفاده از یک نقص Race Condition، سطح دسترسی خودش رو تا SYSTEM بالا ببره. این مشکل با شناسه CVE-2026-50656 ثبت شده بود و حتی روی ویندوز ۱۰ و ۱۱ کاملاً آپدیت‌شده هم قابل سوءاستفاده بود.
 ©
 bleepingcomputer
@@ -1912,7 +1912,7 @@ shokhmatic
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/ircfspace/2461" target="_blank">📅 18:29 · 04 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47K · <a href="https://t.me/ircfspace/2461" target="_blank">📅 18:29 · 04 Tir 1405</a></div>
 </div>
 
 <hr>
