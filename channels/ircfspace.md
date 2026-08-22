@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 12:24:01</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 12:48:11</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -404,7 +404,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -599,7 +599,7 @@ manageit
 
 <div class="tg-post" id="msg-2541">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OpoZK3EgJ2muKW6ge-bIZX41nub_HxqlmIUYn19m8bnzVbDAVjB00M9UVPwfyhQKggn5SVvX1Ve36uinTOEqPNLnereuwTBXJVFX30hOk3fO8OG_tlNJOTBYLmDnAXv9DOWYc2Yp1haKC72JUWKXjLIdr9Fnt93QnZx_WeApn7ZWS1kmbt4WhmzaWTreuFGyICJ-bJgnbKQGhEr6EbTV2PFovzOtCAFM0rvpAYAwvlsqxS1BCMT5sB1yan4WfYNdhO-bVKbPwwpSSDUjbUvvW6zvqbkO6HEYsK8EQxq7DQ68z8p0tMqiV1kbUhoaA8QVkLCvMTMoM6MOz8414nWD2Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Xe4xsyIBfxHGGl46cTYpduOWlq0DMKzJuMnPCnSElaHMPXnhWII_TFjRfeMEpUsUiFWv8AslaBPerjh_TjcIohnk1mKDP9aTAEH5hQL8vsMqMFPApYOUAt_L-dRsC4UZBtse05mVXQJnL6Cy0tpcKuzR7yuNKOx6-cCo2tnInPH_XmJYV2U4ir4LXZ-JOU-baKfzr_gi4WdN-PtK8MWUPRrTgEYLkmzE0CtL7csQMutaNQE7rwB8JS84Hsp72zOWlykCz1cwDwisOMxStRgjhPozq_J_a6zXAJS6LBgMORXt6O28pzywlZ6kwcquvNooZvkWH-6yr_MZcWnFKJ3Vjg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باورم نمیشد که بعد از ۸۸ روز قطع سراسری اینترنت به جای اینکه بیرون بندازنشون، به نمایندگان حکومت تریبون دادن که در اجلاس جهانی اینترنت سخنرانی کنن؛ بعد دیدم این اجلاس در چین برگزار شده!
 روابط عمومی وزارت قطع‌ارتباطات گفته نمایندگان جمهوری اسلامی در پنل‌های تخصصی اجلاس جهانی اینترنت که دیروز برگزار شد، مجموعه‌ای از پیشنهادهای راهبردی برای توسعه همکاری‌های جهانی در حوزه‌های اقتصاد دیجیتال، هوش مصنوعی، امنیت سایبری، خدمات ابری و تاب‌آوری زیرساخت‌های ارتباطی ارائه کردن.
 🔗
@@ -629,7 +629,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2539">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MqQHgsRUmSediPkLrEzKPvcix8Ygw1BzU6XtKZd-GOy9JaAqUHfVTmgAmOj__0nbN2Bt-szJ5BvmJBcaZj73JFeUtzbszoEZFZ2NRancP9SCOGAjRZTOX7NQar8PdyUDRjWF6p8r2FmwFO7-DftnL-30Z7O592a5CiCe5bFDaJfH1uBJwA-Ld5TskDPXBbIElcixCbyyWBm8FEkDfgWV8MjU2_3gbXLB-BUpHG_7N9h8esdNgwQMe5Iz3eT7idpTZoqzKCyU6KdLydYJdLfmK-mMypaEXODLQuiu9duwQBtvIECtPSX6DqKoKkpHT8XGPf8AXt8H_rRaYvNZLyI6tw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AM09p2nx92O9b5MWqerLMNMSTnQCT9PTySjg8ZjR4QgnVVfmju6ZaBytXzc9bAfp7W0JV5N_lxeNEWi-KkiiKkOhR6PIwu5x3qPPxw1vT3uwrk5Fk6_VRgTG5cSN9CxjSFYg1NLOFThda7Vaw4t72OWcXWKvMQ-hy866NmN5AkCx7xnkyvk6XPaAg2FmUIkXtjYbqgh7HQX0uM_bV6nXNrGa5Y_4zdy8M7EXVXfoLXkWKTHWQhkIL5oJDkX2MJKacO56VajczQhIAOBQgs7W1YxswZTFtdMnA2kh1Z_kCBEuXiSzL3KMm2JwX6lkLUvutrGs-uTvD-drI-P6ogGfUw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جدیدترین داده‌های مرکز آمار ایران نشون میده در بهار امسال ۶۳۰ هزار شغل صنعتی از بین رفته و سهم صنعت از اشتغال به ۳۱ درصد کاهش پیدا کرده.
 حالا این آمار رسمی مربوط به مشاغل صنعتیه، ولی فکر می‌کنین آمار خسارتی که بعد از قطع ۸۸ روزه اینترنت به درآمد و مشاغل اینترنتی وارد شد چقدر بوده؟
 🔗
@@ -644,7 +644,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2538">
 <div class="tg-post-header">📌 پیام #78</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Pv3z1PQ_VaYI3ZfTrwHSLuHL-GKjDSKfQduFllCVOsnWM0rUbZKrolZDnInlDiDo9ukbasJ2MQ2kOjSx0BnGrV4aixvO_qJsPx0PuU1sd_Ar-50Tjt0knMAN71Lgi8Z1K4-0fBIitISr_y1888gcwYk_hxb8vsuTOkCj-resTAiCNRI9CV7uFzcNpwCGEewOA_dgnrj-acymvdRxLG2qQgUujRoM7PpBe01K7ga-ERCYBOZPGeGf66UAulKpJZpX7DIIk3vLdf2WHdmk22Yv_3qQpGQL7C-jug1HwQvQ9BzztmtWeNnw1TvOBiKfEAcgWgmB2S3Yy4co9kYXqSCsSw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/j6ndFoTGiNjW5eKfT7Vazjhc3ZvA_xNaEJW7c7B-v9W6BkkNG25UZst0o0H6oEx8IroxXQ6RPGICDdohCZ4ua4PdLzIHrQvjgC6DgbdMQCTieVMiBYZ-WnuWtkV8o31RN1kz2ilyMe_lceeYUPJPCgXYGFGXtcXzmQI-Nwi76JlwBaC_O9iKpyNZBdhEcAN8v-5t9KNlyv-668-ghDm2FUKtv_E4N4AayZFgBsG4AUpz2_dEEs42Q4rWDbYcKRoSqeueHCTyHD3i18RRCMhtBa-d1-Z7pKiedfJg87dq3i_ZuuOPKOAInBWGdkG-HNR3ht9wAYYwbMg4V4fHNfHebg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چه کسی و با چه مجوزی تصمیم گرفت ضریب بسته‌های اینترنت بین‌الملل رو بدون اطلاع‌رسانی تغییر بده؟
 قبلاً ۵ گیگ اینترنت میخریدیم = ۱۰ گیگ داخلی بود! و فقط پول ۵ گیگ رو میدادیم. الان پول ۱۰ گیگ رو می‌گیرن!!! فقط نصف اینترنت بین‌الملل میتونی استفاده کنی! بی سر و صدا دزدی میکنن با عوض کردن مدل درامدی!
 غرامت قطعی‌های ماه‌ها اینترنت هم هنوز پرداخت نشده. این دزدی سازمان‌یافته‌ست که با حمایت وزارت پست و تلگراف اجرایی شده !
@@ -657,7 +657,7 @@ iSegar0
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/ircfspace/2538" target="_blank">📅 17:12 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2537">
@@ -734,7 +734,7 @@ Farshad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 62.4K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2532">
