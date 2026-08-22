@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 00:42:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 01:12:59</div>
 <hr>
 
 <div class="tg-post" id="msg-6633">
@@ -305,7 +305,7 @@
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Iva_RPC2gl6_FOb85jOrHGoCqrzfMfI3GCqfmflfT8rUkZaJbaC2PW3CuFr9gZ-3p6Gjq4lGcB6KZrZwueKYxYhiZKF71NmShoS6q7eCxhKXNqpCsuiBUxDTZSPA56WFnf8oK6Yrg4NvwopCXJuHK3frVHlE0K9PzRytcGkvIFAOhXnmjRwmf3NMPvpuXobux-hJwaHmc2MCWpWuVR-QfBtx49F79gIz64uW8cJqvUzjluKvLC36QIR8CFg8vR94EdXucQt9m0SNUU8uD9teLJvzGnhh9XwcJDKBPEwfsFytE34soUYJ3LKDdd3EOb7wA_l7pdZC-_dqbExQx44DUQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد از انقلاب ۵۷ و از آنجایی که مبارزات ملی شدن صنعت نفت، اساس و پایه «ضد استکباری» داشت، روز ۲۹ اسفند رو به عنوان روز ملی شدن صنعت نفت ایران  وارد تقویم کردند!  ( از قضا ۱۳ آبان و تسخیر سفارت آمریکا  هم رسما روز مبارزه با استکبار جهانی است!)   ولی آیا صنعت…</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/farahmand_alipour/6632" target="_blank">📅 20:04 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/6632" target="_blank">📅 20:04 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6631">
@@ -350,28 +350,28 @@
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sSISjKurILtq3tzGcduL-OZ6Jp6sjlWfqEjf1bPgo-UI1L6PDJAEUY0Z8IbixJr5Mh7aFKiBzr63ef4qDu0--Fve5i7-WsVcrwGa-tsseHy1fg0Nt5OXvIJzkXNtv3HAB9pZYr1QivpEkjHiRa7A5uADhrc_qBzAM_BSCtThRMoR01jZ_MlmnYzB2Rv9eotWt7CnnTM8aJudEcTrXcqaqae2_6n1G64LYvvmzzXxUqVw0HkHAaRobBQY-s5C6SZ7FiBK-wpAyoB4Yc5w2Ndf7pkfwt-RXsBzy5Wul9qUS_ofMtdzNwCx72-4QkgR4WBiznucNyn7hGJvFSCe2VpaeQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چون پولی در بساط کشور نمونده بود،  مصدق از مجلس خواست که مالیات سنگینی   بر ثروتمندان ببندن و زمین‌های خوانین  و فئودال‌ها رو ازشون بگیرن!  نماینده‌ها مخالف کردن! گفتن کشور خودش در بدبختی و بی پولیه ما این مالیات رو هم ببندیم و با خوانین در هر گوشه کشور هم…</div>
-<div class="tg-footer">👁️ 9.76K · <a href="https://t.me/farahmand_alipour/6625" target="_blank">📅 16:23 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.77K · <a href="https://t.me/farahmand_alipour/6625" target="_blank">📅 16:23 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6624">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UwLqtbj4B1xYGhdTkDGk29kLJFJVNv9a9HI4QzDdMAKeslrhj1uoELWTBai2r51mam4JpcFYNxTWGxVjSvuWugpyELdxAK3m_TAjcIiOWX2Bo0vyCUbcjGLG0QQZ89HFOIstnD-eXf3ZF83Q4xCGINupyWWw8euB3E1C51WZKdNp08u-Y2YukfPN5qDfRxb_pFSh7PmN5UJW4u9189yBCMnFFMoNCpqBi6jumTy28KQNpgTHeshnDdxB3i_4RCv-DPbaXPqJTtwigBlG-5UuHfGhPprSXg3hJx1nD_atAFUmCp3YlxAM4_Z2YbesD7oqKUB0ZMG1USRzw-BHkPXgsA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینها رفتند نفت رو ملی اعلام کردند  ولی فهمیدن نمی‌تونن نفت بفروشن!  چون نفت نمی‌تونستن بفروشن، پولی براشون نمونده بود! وارداتی انجام نمیشد!  کشور دچار قحطی شده  و گرانی و تورم شدید!  حالا مصدق رفته بود و از مجلس درخواست‌هایی میداد از جمله اینکه  وزارت جنگ…</div>
-<div class="tg-footer">👁️ 9.44K · <a href="https://t.me/farahmand_alipour/6624" target="_blank">📅 16:18 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.45K · <a href="https://t.me/farahmand_alipour/6624" target="_blank">📅 16:18 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6623">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d4X9kgu0GMN5xTmPUjlID3bNCqv6rfvf9ygjnc9nAR6wDGSniKmYt0aLRs00ZES3GrNhmpL9KPczz6oghdcZbLMBJhr_46XojSwqR7TKiklUAtqwYlUfSWPUgPX-NxgNZUyttidEz_LALfvCXXCldXy4j2uTL2Bgpl-RRU07dAWf09JhwnqX-UvGVp1EMz3vJY2km068y4SVA0EpYYFeZ5aUOpYej_UlNDSKA7FNphTny-Q-2YH62ttTc3x1bZqFv4zezSkRfZ_xVQsBWJJdRmXtEzpbcZ1JLzwurrB1Hb8fYlqtptghLOQFuDJ7oP2FbQX2GlaFwC_6YALEoDM1Qg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مصدق به عنوان نخست وزیر اساسا  حق نداشت مجلس رو منحل اعلام کنه!  بر اساس قانون مشروطه،  این حق فقط و فقط برای مواقع اضطراری بر عهده شاه بود!  اما مصدق چون درخواست‌هایی از مجلس داشت و همین یاران خودش علیه این درخواست‌ها ایستادگی کردند،  در یک اقدام کاملا غیرقانونی…</div>
-<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/farahmand_alipour/6623" target="_blank">📅 16:15 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/farahmand_alipour/6623" target="_blank">📅 16:15 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6622">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vcfn69DWDRB3OV4pLRSaVR_swYqIAAElli1kzKzmTHsPDJvy1CexK0TPPk1lzhQG5crzhOb59IzuA5EUPdi0ZNrHMv8u-DKEuU9BfQ4ok5KWIG8hGyO7DgkKqhcap1E6Eeve7zadaT3eQa9CHjC2Hp6irNjE1VCEaPNfOCakqdNTU2wyvUzhiSmJ92fj8KMfGJqddLQ83a2wlQ6bYwbpRL6fz63B5YyWxMSunqlbn2vFSvB0OCgcJbkjDWI3DRZNoXl2i0PVaIXpnUHK8Nh5qJvzW2juiQSn3gqu4GfTz2KHA8lUqs7m-7je5TeMS1hQRNr_Q4j_CiPy3hoGuZQzQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این سه فرد که نام بردم  و چهره‌های اصلی حامی مصدق بودند  و نمایندگان بسیار شاخص مجالس مختلف،  نسبت به این نحو از برگزاری انتخابات اعتراض چندانی نکردند!  مثلا مصلحت بود برای حمایت از دولت مصدق!  مصدق به روشنی برای اینکه نمایندگان  حامی شاه وارد مجلس نشن،  انتخابات…</div>
-<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/farahmand_alipour/6622" target="_blank">📅 16:09 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.63K · <a href="https://t.me/farahmand_alipour/6622" target="_blank">📅 16:09 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6621">
@@ -425,7 +425,7 @@
 به او «سردار ملی» می‌گفتند!
 او دست راست مصدق بود! او مسئول اجرایی  ملی کردن صنعت نفت بود!
 اما علیه مصدق شد! چرا؟؟ چه شد؟؟</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/farahmand_alipour/6616" target="_blank">📅 15:37 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/farahmand_alipour/6616" target="_blank">📅 15:37 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6615">
@@ -722,7 +722,7 @@
 <a href="https://cdn4.telesco.pe/file/201818ce22.mp4?token=kA3i1E55VDjgRpmUWCuMI-17NMG69KhFJkaozDJiAxcRSpYvK3hGEivskVJfUXKU_Dn-PHKM7TQnY_yEGTrcSWI7aAD5PWnB_S5_pbvMpnckjqRy04wP8ShmsEb_vL7qs9Kl2fn3Fqv9L02mVxWtBUtnanFtY-Qm-xrVPcG44Y4-VYH3S8rm9GjMG2_AepZB-cHFiFsqclap1IhyHDa14IQ8hBU82j4sbp_xRO0Y0ejHvTb2jrFwgPjchBnLUn944YF24NwDfbbc3wwx9BUmKxf64pl5uu5DtvCBdzSH99d7HvE9W0ncjUgX4CtTBLD11ZldSN8YN26bBBuy284q3A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">در تاريخ ٢٩ بهمن ۱۴۰۲ در متروى تهران نمايشى اجرا شدكه اگه گروه تروريستى داعش بياد ايران، زنان رو به اسارت و بردگی میگیره و اينكه قدردان جمهورى اسلامى باشيد. اما اين الگوی به بردگی  گرفتن زنان وفروختن اونها در بازارها، از كجا الگو گرفته شده؟ آيا گروه تروريستى…</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/6580" target="_blank">📅 13:41 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/farahmand_alipour/6580" target="_blank">📅 13:41 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6579">
