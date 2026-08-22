@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 01:42:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 02:15:04</div>
 <hr>
 
 <div class="tg-post" id="msg-7545">
@@ -303,7 +303,7 @@
 🆓
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 722 · <a href="https://t.me/ArchiveTell/7545" target="_blank">📅 23:01 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 747 · <a href="https://t.me/ArchiveTell/7545" target="_blank">📅 23:01 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7544">
@@ -336,7 +336,7 @@ https://anymodel.org
 Free
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 896 · <a href="https://t.me/ArchiveTell/7544" target="_blank">📅 21:58 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 918 · <a href="https://t.me/ArchiveTell/7544" target="_blank">📅 21:58 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7543">
@@ -347,7 +347,7 @@ Free
 🆓
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.08K · <a href="https://t.me/ArchiveTell/7543" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.1K · <a href="https://t.me/ArchiveTell/7543" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7542">
@@ -360,7 +360,7 @@ Free
 🆓
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.09K · <a href="https://t.me/ArchiveTell/7542" target="_blank">📅 20:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.11K · <a href="https://t.me/ArchiveTell/7542" target="_blank">📅 20:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7541">
@@ -375,7 +375,7 @@ Free
 وارد سایت z.ai بشید و با اکانت جدید ثبت نام کنید
 2️⃣
 برنامه Zcode رو دانلود کنید…</div>
-<div class="tg-footer">👁️ 1.13K · <a href="https://t.me/ArchiveTell/7541" target="_blank">📅 19:49 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.14K · <a href="https://t.me/ArchiveTell/7541" target="_blank">📅 19:49 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7540">
@@ -409,7 +409,7 @@ Free
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.17K · <a href="https://t.me/ArchiveTell/7540" target="_blank">📅 19:30 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/ArchiveTell/7540" target="_blank">📅 19:30 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7539">
@@ -441,7 +441,7 @@ Free
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.23K · <a href="https://t.me/ArchiveTell/7539" target="_blank">📅 18:04 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.24K · <a href="https://t.me/ArchiveTell/7539" target="_blank">📅 18:04 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7538">
@@ -468,7 +468,7 @@ Free
 @ArchiveTell
 |
 #NEWS</div>
-<div class="tg-footer">👁️ 1.38K · <a href="https://t.me/ArchiveTell/7538" target="_blank">📅 16:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/ArchiveTell/7538" target="_blank">📅 16:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7537">
@@ -499,7 +499,7 @@ Free
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.3K · <a href="https://t.me/ArchiveTell/7537" target="_blank">📅 15:02 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.31K · <a href="https://t.me/ArchiveTell/7537" target="_blank">📅 15:02 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7536">
@@ -527,7 +527,7 @@ Free
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.38K · <a href="https://t.me/ArchiveTell/7536" target="_blank">📅 13:33 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/ArchiveTell/7536" target="_blank">📅 13:33 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7535">
@@ -1042,7 +1042,7 @@ experiments.hetzner.com/docs/inference
 🛜
 ✅
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/ArchiveTell/7514" target="_blank">📅 13:12 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/ArchiveTell/7514" target="_blank">📅 13:12 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7513">
@@ -1734,7 +1734,7 @@ https://ai.furry.vg/v1
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/ArchiveTell/7488" target="_blank">📅 19:33 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/ArchiveTell/7488" target="_blank">📅 19:33 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7487">
@@ -1801,7 +1801,7 @@ z.ai
 برنامه Zcode رو دانلود کنید
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.9K · <a href="https://t.me/ArchiveTell/7484" target="_blank">📅 12:43 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.91K · <a href="https://t.me/ArchiveTell/7484" target="_blank">📅 12:43 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7483">
@@ -1935,7 +1935,7 @@ jxp.com
 Aistudio.google.com
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.77K · <a href="https://t.me/ArchiveTell/7477" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.78K · <a href="https://t.me/ArchiveTell/7477" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7476">

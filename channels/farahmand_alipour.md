@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 01:42:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 02:15:04</div>
 <hr>
 
 <div class="tg-post" id="msg-6633">
@@ -330,7 +330,7 @@
 <div class="tg-post" id="msg-6628">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">مصدق با عنوان ملی کردن صنعت نفت  (که در عمل هم رخ نداد! و سال ۵۲ رخ داد)  کشور رو وارد یک بحران عظیم مالی کرد!  شب و روز هم سخنرانی می‌کرد که رضاشاه راه‌آهن ساخت به خواست انگلیسی‌ها،  مدارس زیادی رو در کشور راه انداخت!  (باور می‌کنید این یکی از انتقادهاش همین…</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farahmand_alipour/6628" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/farahmand_alipour/6628" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6627">
@@ -364,14 +364,14 @@
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d4X9kgu0GMN5xTmPUjlID3bNCqv6rfvf9ygjnc9nAR6wDGSniKmYt0aLRs00ZES3GrNhmpL9KPczz6oghdcZbLMBJhr_46XojSwqR7TKiklUAtqwYlUfSWPUgPX-NxgNZUyttidEz_LALfvCXXCldXy4j2uTL2Bgpl-RRU07dAWf09JhwnqX-UvGVp1EMz3vJY2km068y4SVA0EpYYFeZ5aUOpYej_UlNDSKA7FNphTny-Q-2YH62ttTc3x1bZqFv4zezSkRfZ_xVQsBWJJdRmXtEzpbcZ1JLzwurrB1Hb8fYlqtptghLOQFuDJ7oP2FbQX2GlaFwC_6YALEoDM1Qg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مصدق به عنوان نخست وزیر اساسا  حق نداشت مجلس رو منحل اعلام کنه!  بر اساس قانون مشروطه،  این حق فقط و فقط برای مواقع اضطراری بر عهده شاه بود!  اما مصدق چون درخواست‌هایی از مجلس داشت و همین یاران خودش علیه این درخواست‌ها ایستادگی کردند،  در یک اقدام کاملا غیرقانونی…</div>
-<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/farahmand_alipour/6623" target="_blank">📅 16:15 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.63K · <a href="https://t.me/farahmand_alipour/6623" target="_blank">📅 16:15 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6622">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vcfn69DWDRB3OV4pLRSaVR_swYqIAAElli1kzKzmTHsPDJvy1CexK0TPPk1lzhQG5crzhOb59IzuA5EUPdi0ZNrHMv8u-DKEuU9BfQ4ok5KWIG8hGyO7DgkKqhcap1E6Eeve7zadaT3eQa9CHjC2Hp6irNjE1VCEaPNfOCakqdNTU2wyvUzhiSmJ92fj8KMfGJqddLQ83a2wlQ6bYwbpRL6fz63B5YyWxMSunqlbn2vFSvB0OCgcJbkjDWI3DRZNoXl2i0PVaIXpnUHK8Nh5qJvzW2juiQSn3gqu4GfTz2KHA8lUqs7m-7je5TeMS1hQRNr_Q4j_CiPy3hoGuZQzQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این سه فرد که نام بردم  و چهره‌های اصلی حامی مصدق بودند  و نمایندگان بسیار شاخص مجالس مختلف،  نسبت به این نحو از برگزاری انتخابات اعتراض چندانی نکردند!  مثلا مصلحت بود برای حمایت از دولت مصدق!  مصدق به روشنی برای اینکه نمایندگان  حامی شاه وارد مجلس نشن،  انتخابات…</div>
-<div class="tg-footer">👁️ 9.64K · <a href="https://t.me/farahmand_alipour/6622" target="_blank">📅 16:09 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/farahmand_alipour/6622" target="_blank">📅 16:09 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6621">
@@ -436,14 +436,14 @@
 وزیر امور خارجه امارات با صدور بیانیه‌ای اعلام کرد که تمام معاملات تجاری
 و مالی امارات با جمهوری اسلامی
 متوقف شده است.</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/6615" target="_blank">📅 00:19 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/6615" target="_blank">📅 00:19 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6614">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lbR6h7_bW1_Q8eyR6CnjcPqxNeU_hRG25kydVtB8nlETrI5vd_kUWvH-3SMcNJuu7qKI9AaC7y569bOhuRowcmdG_ChYLvEapZq9pJYl9DqRlWzuCnai0VC591DD2V8MFqQVcpjP4YTm1pUqm7YbZYjMjs5qB5zK3hZ9v8in-VeX01nc8emnM1BnCHITAg2OPWuNWAFzoBapBtEEk77d_aYUIVyElpfCClhQooAjewVZ6USofDgoRJcI3xE6J2VVnLeRswehqbQ67XL3WbCxZSvYFrXZT5yBMZgSM8lTr6GiwCVGhL3zhTqBb9MCjcB3WCDf875z2r9DqqKniDS9Pg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بخشی از درگیری‌های خرداد ۱۳۶۰  بین حامیان خمینی و ملی‌گراها، در واقع ادامه درگیری بین مصدق و نواب صفوی بود.  هر دو گروهی که ضد شاه بودند هم در سال ۳۲ به جان هم افتادند هم در سال ۱۳۶۰</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/6614" target="_blank">📅 19:34 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/6614" target="_blank">📅 19:34 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6612">
@@ -488,7 +488,7 @@
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QRkZ9CKafz2lVRyixFP-Sp4MUtIVi1S25j3bFxMpp8aDEzRRQHsD_dq3X8qH6FFX4bMOoCT0gziFu2_5MaeDQAB-Lee2ZKIpTVzFazvphl9Fl-sVtuICJ9bDly7xtOovpeaDcmLDaQMcXQUeOtQ6i5TSql9NUsx3E-tKmLut-kdNnAfQ4umeTaTAa_j-x5dYuQHBW3A7dbXIh8D2YUcKAnw5mhEsL6YaO3UG-TASJA5UmA120ztfLqNgEBjXrXyf82_RWdOxQ-CqbINGRy-EOoKbFHY_75Z_uwHgCYOr4uE0oG3t5-0JAxS38vDNEjbo3OMU4cMY6ZBVFk4xkaniXg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حزب جمهوری اسلامی در یک کودتا و با طرح اتهامات کاملا مضحک و واهی  که بنی‌صدر در جنگ خائن است،  او را از ریاست جمهوری خلع کردند. سالها بعد شمخانی گفت نه!  او خائن نبود و اتفاقا دنبال پیروزی در جنگ بود و‌ گفت که سران‌ حزب جمهوری اسلامی  (بهشتی، رفسنجانی، خامنه‌ای)…</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/farahmand_alipour/6607" target="_blank">📅 18:10 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farahmand_alipour/6607" target="_blank">📅 18:10 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6606">
@@ -516,7 +516,7 @@
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RU9MJUOaDddNyAlH8cupo-Ymavd_Rv9bjFXYNgOGCHDh2edAAolSvb9GrvznkCxZGf9SYYpn96q25lrBNO3NNmBfKkA_f-fpmzVWlEjgC18xc4_npfnUdY7W3c3ch0fn2ZW0rEef6uw4A3ZBav_vCyHj02N9IOrV1JWmkPiJAm5hicQTjWMFS-R_e7eWPV3kDj_PrP2WDTLZHuXJMTGuaQEBohf8H_dM8ckwDBF3Vuub2skoiqgpADnJZlvwjHSx22vRtOlWl8UX3SzyVmnkxmiJCwMU3R5CwMG36QmQLad4sv2fpFPOi3cSUfx3A6RRRyRNPPQRNLDcL1n5ULjmxQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">انتفاضه «قیام» اول فلسطینیان ۶ سال و انتفاضه دوم ۵ سال و ۹ ماه طول کشید هر روز جوانان فلسطینی به سمت اسرائیلی‌ها و نیروهای نظامی اسرائیلی سنگ پرتاب می‌کردند.   حتی «یک فلسطینی» دستگیر شده توسط  قوه قضائیه اسرائیل اعدام نشد!  حتی یک نفر!  اسرايیل ۱۰ سال در…</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/farahmand_alipour/6603" target="_blank">📅 12:53 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/6603" target="_blank">📅 12:53 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6602">
@@ -634,7 +634,7 @@
 <div class="tg-text">هزینه بقای شما نابودی ایرانه!
 اگر اینگونه است که تسلیت به ایران
 و چند نسل آینده ایرانی!</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/6592" target="_blank">📅 17:11 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/6592" target="_blank">📅 17:11 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6591">
@@ -664,7 +664,7 @@
 <div class="tg-post" id="msg-6587">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">آیا علی هم سهمی برد؟  قطعا!  از اونجایی که ارتش اسلام حدود ۳ هزار نفر بود، و سهم سواره‌ها ۳ برابر پیاده‌ها بود،  همه املاک، زمین‌ها، پول و برده‌ها، ارزش گذاری شد، ابتدا «خمس» (یک پنجم) که سهم پیامبر بود جدا شد و سپس ۸۰٪ بقیه بین افراد تقسیم شد. از اونجا که…</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/farahmand_alipour/6587" target="_blank">📅 14:50 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/farahmand_alipour/6587" target="_blank">📅 14:50 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6586">
