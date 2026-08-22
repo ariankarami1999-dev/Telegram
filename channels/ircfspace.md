@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 03:15:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 04:12:49</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -1261,7 +1261,7 @@ slcyber
 
 <div class="tg-post" id="msg-2500">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qGXzuGu_AA4VzEZLIBH837ArlsTO0Lfh062Fuz5LdGCMDZ9VJn5UlvVjM6LZkL2VdSS5RlP_dL_gxEZUjJPsFd_RLw5TbtVX2v4EQHicu4qJjR1RlTqodwlZRnP9QBVshJU_VwDI3syOyikoDN3SIC62OWn1jAtAfsk4HI1uJOS0DVYTv25VN1XLkLJPJNAF9NsnVfzT3sM-tIqKfGKz7YJg9sddkQ2ebWwsLv3miuO6zCCC7Q9Wtk_M7vnvGew-yDkR2391TTSNfgnI-hZ4KTjdhYDp-lcDPiviKC2iFOqHvF0tG6q12X1uusSbim8f6Xn1Kn3DxrUPnVy-EM7vfw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/s7BG4cjSivRRVZauHsOb5GpnWC-acP0Sns4cMygYiv-UdJC4-9x3janK7bYu_-IWBFiKZsygbCJgoSnaYWzJjEJGwti23enE-sqpp5zDjZI89r6eHtp2wdnYYXilIgvZtjzmW_d39Yb13kQ2KX8iI7TmM_XNUKLgJfc8QUkEBnJ9oQIPe-KhdaAfv3zm-zNKFqkuUYUAYv9sEjiUeKmndDtw6C4ftRizLr_7rcvq-471DBcB4NC2zqicvfvjeAAA6uzaOTwz74Mvy2GEbbRdO17gRa0_ldefEuRHpUEBpFXGJE4IButS3ENXb7SUC3iBQFSSxqZjOO4ci4V9G9yrrg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگرچه قضیه ترند شدن "لغو عضویت جانفدا" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه "وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
