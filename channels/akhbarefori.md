@@ -292,11 +292,166 @@
 <a href="https://t.me/akhbarefori" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽تبلیغ درکانال خبرفوری@ads_foriارتباط مستقیم با ادمین تبلیغ@newsadminجهت رزرو تبلیغ تماس بگیرید. 09018373801؛ارتباط با ما@Ertebat_baforiiتبلیغ در ۳۰۰کانال تلگرام@Maino_marketer</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 22:46:28</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 23:13:08</div>
 <hr>
 
-<div class="tg-post" id="msg-683493">
+<div class="tg-post" id="msg-683504">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/35b1e3ebd8.mp4?token=ZUFd0GxPGXOMZYT-7LS0LNPXiqN6neJ-CTjLV451_waHjnQZGcoTqWKrUJkwaCU4QuIm-WpHPPnPvr0ARaqaGaOr25kAo8p9cjmP-ClAV5MV7Ynvf2jr5huQGv0JL6u0iYBFfmMPU8UYkamGFBnImvMtEfoLOtJNtVsc3d3LXR4WumljO8xN-8vXRIOe7xCLViGEfzzMlw1ivYL5-EcW5NBZg5EaYfFDkopq6uhFgkpkxrh8uisn5LDThzboo8l276Vfvm5YJIIrb906Xr4V-JZCbN7UHrIsO_LbCGe1NFWUBgRydCZ6J44_zd8pkvLuVfTCkc4OXAkKyV5uGob8sA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/35b1e3ebd8.mp4?token=ZUFd0GxPGXOMZYT-7LS0LNPXiqN6neJ-CTjLV451_waHjnQZGcoTqWKrUJkwaCU4QuIm-WpHPPnPvr0ARaqaGaOr25kAo8p9cjmP-ClAV5MV7Ynvf2jr5huQGv0JL6u0iYBFfmMPU8UYkamGFBnImvMtEfoLOtJNtVsc3d3LXR4WumljO8xN-8vXRIOe7xCLViGEfzzMlw1ivYL5-EcW5NBZg5EaYfFDkopq6uhFgkpkxrh8uisn5LDThzboo8l276Vfvm5YJIIrb906Xr4V-JZCbN7UHrIsO_LbCGe1NFWUBgRydCZ6J44_zd8pkvLuVfTCkc4OXAkKyV5uGob8sA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+مبارزه ابرهواپیمای روسی با آتش‌سوزی‌ها در صربستان
+🔹
+رئیس‌جمهور روسیه هواپیمای غول‌پیکر و معروف EMERCOM Il-76 را برای کمک به صربستان در مبارزه با آتش‌سوزی‌ها فرستاد.
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 1.02K · <a href="https://t.me/akhbarefori/683504" target="_blank">📅 23:11 · 31 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-683503">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c69RIpa9Ziwgp6A5Fyzcecq6Tl2Dv3fAkme8LYMhffq9kLu0UpW3zQCQodKRsai_Z-Ly_OgENlS1F0t0_qDQm7NcQBah-_Jce1-Pen9RDtTj4CKbLkzRrzvT1ADo_1Z0EJ_wvUs2KLIQLjwY9fznbzUMgxQYlSa-fEH_SrQJ6vRMCbSIVW1SjTU88PCvpr_igOR1JiSY6ZB2OiV7Or7t19CI3_daOPSnrqH4yEV6UcXq7DvG6tVVcPN1G57NdNvq-KVyD0xnKzq3VFNZ2S-NryTmUEbN_4PMvyyUDvM1xvNvAthoznLxEvkbUKwVlo06woHNn1thp0hkaSqMZ2hXSA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♦️
+اندیشه و دانش؛ چراغ‌های راهِ جان
+🔹
+امام علی(ع) در حکمت ۵ نهج‌البلاغه، یادآوری می‌کند که «دانش»، میراثی ماندگار است، «آداب» نیکو، زیور همیشگی شخصیت انسان است و «تفکر»، آیینه‌ای شفاف که واقعیت‌ها را آن‌گونه که هستند به ما نشان می‌دهد.  #نهج_البلاغه_بخوانیم…</div>
+<div class="tg-footer">👁️ 4.06K · <a href="https://t.me/akhbarefori/683503" target="_blank">📅 23:03 · 31 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-683502">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromتیتر تجارت</strong></div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/7bf0c45907.mp4?token=HLAeKrmJKFR9Sd6hqKLcNXwdd_5tzYPHpIxLng-dxpFfmw5PR5Y7P3h-97VaykzVhY5zcjMg7inEkOqfsz6XGkmldR7foLNtlmEtbcq6psAvtZq003Qx6wTYn_NWmCyVKqjsJnqwV8q6gwXYMaFSwyG2t3YuiF48ZqOAm6cYIBSoLxlJ8HClk5VyNHjaNkr6O8UiRI-qcGXKdkLKlBJwwGTQasVVvHNXk2HK3sRV__9atWvZI8FLojVHk1Kn43wPtCG242KQoXbCvU7N1QSCW9cozhpwSfrYRTRFW4FA7rsSJsyGSP9QwOOcFjj6oPZJEP3GQZB3Eo9qvasAiIpbZw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/7bf0c45907.mp4?token=HLAeKrmJKFR9Sd6hqKLcNXwdd_5tzYPHpIxLng-dxpFfmw5PR5Y7P3h-97VaykzVhY5zcjMg7inEkOqfsz6XGkmldR7foLNtlmEtbcq6psAvtZq003Qx6wTYn_NWmCyVKqjsJnqwV8q6gwXYMaFSwyG2t3YuiF48ZqOAm6cYIBSoLxlJ8HClk5VyNHjaNkr6O8UiRI-qcGXKdkLKlBJwwGTQasVVvHNXk2HK3sRV__9atWvZI8FLojVHk1Kn43wPtCG242KQoXbCvU7N1QSCW9cozhpwSfrYRTRFW4FA7rsSJsyGSP9QwOOcFjj6oPZJEP3GQZB3Eo9qvasAiIpbZw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">مدیرعامل بزرگترین مجتمع پالایش بنزین کشور اعلام کرد:
+در بنزین تولیدی این پالایشگاه از ترکیب ۳ درصد متانول و بنزین استفاده می شود!
+@Titretejarat</div>
+<div class="tg-footer">👁️ 4.07K · <a href="https://t.me/akhbarefori/683502" target="_blank">📅 23:01 · 31 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-683501">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/5a780ac014.mp4?token=tbJQZZG10mGT-dmn8OlKbV7ATXL-Ow6jWhzaLPynAzPepW_mvbjXd506s19ArjjdVE-aXHTBFW4vfy7eR-R0Nm8y03RGoPjfRhCBjmCyupi_YR1ZKzrhjlxEdxIiQdnXOuBUPGOzs4cpxnUKvdaTUufStCXVgr5PIg8Dhx_5WaAAl8BobOIWw3v55brbPAokFbL4UUlzx8JIT_KP7ksLItjig6GoR-uM1qkrpyU7RWZG9hz0lPW-0VekrbVrC_AZjrLWhJh3KjxpsVKoa9lkJfZCnwxpWWCXGI4qt8aVFO_WoTaZ72LuJjcO8mOvQBttJvlI8CUcZZNNKobrwHFj2A" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/5a780ac014.mp4?token=tbJQZZG10mGT-dmn8OlKbV7ATXL-Ow6jWhzaLPynAzPepW_mvbjXd506s19ArjjdVE-aXHTBFW4vfy7eR-R0Nm8y03RGoPjfRhCBjmCyupi_YR1ZKzrhjlxEdxIiQdnXOuBUPGOzs4cpxnUKvdaTUufStCXVgr5PIg8Dhx_5WaAAl8BobOIWw3v55brbPAokFbL4UUlzx8JIT_KP7ksLItjig6GoR-uM1qkrpyU7RWZG9hz0lPW-0VekrbVrC_AZjrLWhJh3KjxpsVKoa9lkJfZCnwxpWWCXGI4qt8aVFO_WoTaZ72LuJjcO8mOvQBttJvlI8CUcZZNNKobrwHFj2A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+دبیر شورای‌عالی امنیت ملی: ما تاکنون به هیچکدام از منافع اقتصادی آمریکا حمله نکرده‌ایم
+🔹
+تاکنون ما فقط پایگاه‌های نظامی را هدف قرار داده‌ایم اما اگر قرار باشد جنگ اقتصادی را جلو ببرند آمادۀ هدف‌قراردادن همۀ شرکت‌های نفتی و اقتصادی آمریکا در منطقه هستیم.…</div>
+<div class="tg-footer">👁️ 6.39K · <a href="https://t.me/akhbarefori/683501" target="_blank">📅 22:58 · 31 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-683500">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
+<div class="tg-text">✨
+اشک های الهام چرخنده وقتی که از مردم مبعوث شده می‌گفت
+@Heyate_gharar</div>
+<div class="tg-footer">👁️ 7.41K · <a href="https://t.me/akhbarefori/683500" target="_blank">📅 22:55 · 31 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-683499">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-text">♦️
+دبیر شورای عالی امنیت ملی: در صورت ادامه محاصره اقتصادی شرکت های اقتصادی آمریکا را در منطقه خواهیم زد
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 7.41K · <a href="https://t.me/akhbarefori/683499" target="_blank">📅 22:54 · 31 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-683498">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-text">♦️
+محسن رضایی: هر خانه میتواند یک لانچر جنگ اقتصادی باشد  دبیر شورای عالی امنیت ملی:
+🔹
+جوانان ایرانی وارد اقتصاد شوند. هر محله میتواند پایگاه موشکی جنگ اقتصادی باشد.
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 7.71K · <a href="https://t.me/akhbarefori/683498" target="_blank">📅 22:52 · 31 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-683497">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-text">♦️
+دبیر شورای‌عالی امنیت ملی: ما با عمان روی مسیر تنگۀ هرمز توافق کردیم که یک مسیر میانی است اما این موضوع روی کاغذ است و تنگۀ هرمز زمانی باز می‌شود که آمریکایی‌ها به تعهداتشان عمل کنند
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 8.72K · <a href="https://t.me/akhbarefori/683497" target="_blank">📅 22:51 · 31 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-683496">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/38655f3126.mp4?token=cw8fSVo-HpVbc3NhZ3r50jhZ76IACFcnHwpogUJ7J-6RKoDR_x3OFb-Agxl56fksWf9iSA9HtVQMCKXtFhNEijrzdsF5VBYMq8sJbk4KBriiF3J0Kqk7wdLvEoyqBvzcs6InMHj6-obe42_0brQvX12a6FXTvPGHOH9iOPoRPxDOHhlrhwxbIR1kgICKiRrHg0LbO_tev5SuU7bGbR4KES_nMaudKfWWuC8rirGlsZK3IhRVEFab5dJzStBawRByx2fFlHsEiEL0DFblVkJH1zFNoWFewTHcXoR9LI5gxAnLfhMMfolLHU8UAONOvDSelP6_8vQY6LnZ7uchHzgL0w" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/38655f3126.mp4?token=cw8fSVo-HpVbc3NhZ3r50jhZ76IACFcnHwpogUJ7J-6RKoDR_x3OFb-Agxl56fksWf9iSA9HtVQMCKXtFhNEijrzdsF5VBYMq8sJbk4KBriiF3J0Kqk7wdLvEoyqBvzcs6InMHj6-obe42_0brQvX12a6FXTvPGHOH9iOPoRPxDOHhlrhwxbIR1kgICKiRrHg0LbO_tev5SuU7bGbR4KES_nMaudKfWWuC8rirGlsZK3IhRVEFab5dJzStBawRByx2fFlHsEiEL0DFblVkJH1zFNoWFewTHcXoR9LI5gxAnLfhMMfolLHU8UAONOvDSelP6_8vQY6LnZ7uchHzgL0w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+دبیر شورای‌عالی امنیت ملی: ما فعلا فقط جریان نفت در تنگه هرمز را محدود کرده‌ایم اما درصورت جنگ اقتصادی اجازه نمی‌دهیم نفتی از خلیج‌فارس حتی به روش‌های دیگر خارج شود
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 8.72K · <a href="https://t.me/akhbarefori/683496" target="_blank">📅 22:50 · 31 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-683495">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/a80537027b.mp4?token=gZTZGv3giYIEMJKr2_tBeatFirSKuDaSfyobSJ2oPa2-HizmFU88Ls46-7Ogal5quq4AgXUlcYutlX9babzwjfhCudSgNGcsbQMl9FRStWK2Ch8WyMVhhcLwQTTaj8GmU4GMdEj_6AUQIk5LK66m8zFfDmcgtfNBU_F8qgMplXxLnc9UYSds6heFOoS-Z3L-_3R3HCWBjEsy0OReCNNsCI-k0WmTjMw08fJ9urRb9kh3ArxxZN-u3lvqxjbPYsgbgODZJ-cZ7TSA3ljn2UtnLxPAcT1zJJxUq7fQs4aGb4tT4OP7yG9MTr9n4yyt-jUOVIBpCMzPy8n_iVkvCxoJFQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/a80537027b.mp4?token=gZTZGv3giYIEMJKr2_tBeatFirSKuDaSfyobSJ2oPa2-HizmFU88Ls46-7Ogal5quq4AgXUlcYutlX9babzwjfhCudSgNGcsbQMl9FRStWK2Ch8WyMVhhcLwQTTaj8GmU4GMdEj_6AUQIk5LK66m8zFfDmcgtfNBU_F8qgMplXxLnc9UYSds6heFOoS-Z3L-_3R3HCWBjEsy0OReCNNsCI-k0WmTjMw08fJ9urRb9kh3ArxxZN-u3lvqxjbPYsgbgODZJ-cZ7TSA3ljn2UtnLxPAcT1zJJxUq7fQs4aGb4tT4OP7yG9MTr9n4yyt-jUOVIBpCMzPy8n_iVkvCxoJFQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+محسن رضایی: جانانه از ایران دفاع می‌کنیم و نمی‌گذاریم پای آمریکایی‌ها به ایران باز شود
+🔹
+به آمریکایی‌ها توصیه می‌کنم هیچ نیرویی اضافه نکنند چرا که آن‌ها را خواهیم زد.
+🇮🇷
+✊
+@AkhbareFori</div>
+<div class="tg-footer">👁️ 8.71K · <a href="https://t.me/akhbarefori/683495" target="_blank">📅 22:49 · 31 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-683494">
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromKMC</strong></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EmW73KrlCoVy7HQft4kY0RfALHCQpxVUOx0qcx5ZTGS2iDrdT7muee1uL03wd7DKb1o4lb3R7bwU-9i8o3UQxorV6BHW7pUq7-uadv-lyj_4O3CEqwelO_7pAc3OxjFEo-UEFcIUSTcezcKEWfL1cEdmaoNo9i8ITDVGhM2499_jMtmyxEpD7uQiudTFBblAyqd13IfHpxqaGqPGGzdIhLDFKSjTSL2iX9e8Ni2hxJwGtw99UZAt9lM1Fin3l9IbjxfmUi4BQxxR1SihdK8PpvigLkvW7tsSLGyB08RL7Lr3bJAymYYZK4FNwU0PcIwleLduhyHP__i_igNUAVxAjg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">⭕️
+شرایط فروش کی ام سی  ایگل(KMC EAGLE )
+▫️
+قیمت: ۲،۴۸۲،۵۰۰،۰۰۰ تومان
+▫️
+پیش پرداخت: ۱،۵۰۰،۰۰۰،۰۰۰ تومان
+مشاهده شرایط فروش
+#کرمان_موتور</div>
+<div class="tg-footer">👁️ 8.7K · <a href="https://t.me/akhbarefori/683494" target="_blank">📅 22:48 · 31 Mordad 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-683493">
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">♦️
 الهام چرخنده در اجتماع بزرگ بیعت مردم مشهد با امام زمان (عج): رهبر شهید ما، یک ایرانی به تمام معنا بود/ دشمن تصور می‌کرد با شهادت رهبری، چراغ خیمه‌گاه حسینی خاموش می‌شود
 🇮🇷
@@ -304,11 +459,11 @@
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 1 · <a href="https://t.me/akhbarefori/683493" target="_blank">📅 22:46 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.69K · <a href="https://t.me/akhbarefori/683493" target="_blank">📅 22:46 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683492">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -320,20 +475,20 @@ Link</div>
 <div class="tg-text">✨
 مشهد، ستاره‌بارانِ حضور مردم در مراسم تجدید بیعت با امام زمان(عج)
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 1K · <a href="https://t.me/akhbarefori/683492" target="_blank">📅 22:44 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9K · <a href="https://t.me/akhbarefori/683492" target="_blank">📅 22:44 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683491">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">♦️
 روایت دبیر شورای‌عالی امنیت ملی از پیشنهاد جدید نتانیاهو به ترامپ
 🔹
 نتانیاهو در واشنگتن به ترامپ گفته ایران را ۶ ماه محاصرۀ اقتصادی کن من به تو قول می‌دهم ایران تسلیم می‌شود. ترامپ گفته در این مورد اشتباه می‌کنی. نتانیاهو گفته ۲-۳ ماه این موضوع را امتحان…</div>
-<div class="tg-footer">👁️ 2.01K · <a href="https://t.me/akhbarefori/683491" target="_blank">📅 22:43 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/akhbarefori/683491" target="_blank">📅 22:43 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683490">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b5300c5e24.mp4?token=t_52v_X3ujBdF8Pjx0bjij065iwd17ACjF8AlLhvP_dUIZn2Tp4az6UoiiIkjIjSBnYDtpfuuTBA7g-btK6HjonZmuvpsVFsfs6BI2K-SlhndS5eh3CWlFcZ7hjDIcdb4p_s8MLumUtbCxfibUnkXH92hUffM-vRjrsc7kbLTnSlKFQBdCpRKi1h26jV0m_avieq1Za867poQXP4l0V60DQcUvcU3G45r6INR-vLlVcAazsRWbqAAZZUfg_xJdS6c3xCKM5OMkP8aym1fx4s_kbptuJtmVLX5KoGHw6p_sWiuZ5fhnHJTqMeIxh5_UdBOP3Dp4svt51m5wR9v4CAloi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" type="video/mp4">
@@ -345,11 +500,11 @@ Link</div>
 روایت دبیر شورای‌عالی امنیت ملی از پیشنهاد جدید نتانیاهو به ترامپ
 🔹
 نتانیاهو در واشنگتن به ترامپ گفته ایران را ۶ ماه محاصرۀ اقتصادی کن من به تو قول می‌دهم ایران تسلیم می‌شود. ترامپ گفته در این مورد اشتباه می‌کنی. نتانیاهو گفته ۲-۳ ماه این موضوع را امتحان…</div>
-<div class="tg-footer">👁️ 2.31K · <a href="https://t.me/akhbarefori/683490" target="_blank">📅 22:42 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/683490" target="_blank">📅 22:42 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683489">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/e563bffa09.mp4?token=TuU37SgvHcCMz8NacEH3IYCFXl4r-1D5KARTeiTS6qdmJcdvT9uSPipglyDYHPtFiSFeKQ7N-_2aV9qeZ-TOv2qNRRoaeXuYw54XWwEMVKVxzHDadRPZdNTJu5UU-lEcoYl1wuA-MpEOfCvHbT4iuHC4bhzCAcrylDZpSHcwzA5ysgqehWd7O5Z_kXXdEUnMailnnylIBlncxMtGyi3-nfJ0T7I9wgh-TeS6MLknBM16IiHv6XZ0JgKYojIlNM-RLGHl2_R7ZeHRZtwj6zqV_87Pdv73nuwvQxIXvXy9VuUWPuFRLURZdZIgLibnNclImLroe3mAjnScDVqM866IZA" type="video/mp4">
@@ -362,22 +517,22 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 3.04K · <a href="https://t.me/akhbarefori/683489" target="_blank">📅 22:39 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.92K · <a href="https://t.me/akhbarefori/683489" target="_blank">📅 22:39 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683488">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">♦️
 محسن رضایی: اگر ترامپ بخواهد کارهایی بکند زلزله‌وار مقابله به مثل می‌کنیم  دبیر شورای عالی امنیت ملی:
 🔹
 به همه کشورهای اطراف می‌گوییم در جنگ اقتصادی با آمریکا شریک نشود وگرنه او را دشمن تلقی می‌کنیم.
 🔹
 دنبال توسعه جنگ نیستیم اما اگر کشورهای اطراف ایران در…</div>
-<div class="tg-footer">👁️ 4.04K · <a href="https://t.me/akhbarefori/683488" target="_blank">📅 22:38 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/akhbarefori/683488" target="_blank">📅 22:38 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683487">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">♦️
 محسن رضایی: اگر ترامپ بخواهد کارهایی بکند زلزله‌وار مقابله به مثل می‌کنیم
 دبیر شورای عالی امنیت ملی:
@@ -388,11 +543,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 4.04K · <a href="https://t.me/akhbarefori/683487" target="_blank">📅 22:38 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/683487" target="_blank">📅 22:38 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683486">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/e563bffa09.mp4?token=W4FrdItWR9pYxZnfoivH2JE-ehjYwFmH4bM3RjWbISWVpZx82pIBcV2yTJ8XkOKuMaIRQiN_QvnC9lNs9kS_7gL8zIu80IMf7Hve286zw7qqj0VbKapumet5kRwCVcSMeMBgUIyx5VTkB4eqZhpXsB22mvWBybGHKdU4OsBNxaCL3JhV9QBEXnvXeUS412kgxeOPRwgvs_aNTIkOlmDocerzP6mWzz4_EJN5CfkTnTYWfI68V9BEbxs9IX8lDuBGV77u8YOMoAvO9bDnX0TO-C4nH5kZ0WSR4KaYZ0b21Ifih9XWTUjxlzjlqvYK4m--PVrnQqG93NRuTyYxhs2sGw" type="video/mp4">
@@ -406,21 +561,21 @@ Link</div>
 حماقت ترامپ با حمله به ایران اشتیاق مردم جهان به بمب اتم را بیشتر کرد زیرا همۀ دنیا دیدند عضویت در سازمان انرژی اتمی و NPT برای جلوگیری از حمله آمریکا اثری ندارد.
 🔹
 ترامپ…</div>
-<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/akhbarefori/683486" target="_blank">📅 22:33 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/akhbarefori/683486" target="_blank">📅 22:33 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683485">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">♦️
 دبیر شورای‌عالی امنیت ملی: امروز ملت ۵ هزار سالۀ ایران با دولت ۲۵۰ سالۀ آمریکا در تقابل است
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 7.08K · <a href="https://t.me/akhbarefori/683485" target="_blank">📅 22:29 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/akhbarefori/683485" target="_blank">📅 22:29 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683483">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/04bbe9cc53.mp4?token=s-094HXsxI3viB2cGPEMnw5BthzHtRhBPO9p_Ey4cP7FFsMgltGmZLc9wxCVsd7LX_4kP7a5TqxN_FOS9sEFuKStBxtmsCFntb5parnBTmZaVggzA07KDhIMl__YwsWB9JyFshu3s4Yeij3XVdMdITTnQWgQnU9QMSfLycqSo78VN7PzhGRKaeAFIH1H9wArRpWiz-eL36KRJxaCQ7kiYOZbtMTLKVQObZeLh0IT6RDFzN1Y6zUaq7QA4ezSuPRjBRzZ-reCqYpeo_SzswsM6mc7LpAd_WjRlyWfQmqfY0DIfVixgIkbUcKie5V3uO1NYgQvyVHbiDPb07jTEkquLmrV3jaA4HHIOxddQaMjTdxfxm7Cuw_YPYHtJV_fmZvfRbwcI72IpONJ0DvSI3QH5wFTDPwMmNqRTQS_S30g84Pth6tQ5x8OfhF6X27iYIwuBoUBrtZk6if3I7MXcypLHDli3_lcq0DB3prAbqXf8nGwWg6Bu4NC4CpoNTJpReTgG06tIsVLmWdXQw6d5FnZ6iu5LOyZJxtkSnZnYqOQHCwWeRXRUlomWlRJ85Mwi1EOm2rsnkHhtA7dKreFXGZz6KV0oowVrj5Zy1zLZoTxkHeE35nNnSyKKfEM1rD2DLtqYGORYhvOD8AdcNDjFk5bUlcjtFAYfYNWvCD-S4YKXwM" type="video/mp4">
@@ -433,11 +588,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 9.12K · <a href="https://t.me/akhbarefori/683483" target="_blank">📅 22:23 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/akhbarefori/683483" target="_blank">📅 22:23 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683482">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/d73a84331a.mp4?token=CdZZuHJ1B1H0l0e-1DCQPWbmTR3jpbZYuAuhjwGTQVKR_FXlCNjZmyEC6z4cXwVRSzxcEvAiXZ_RoUjHED_lhTrEb3KTyzqQNQsblIQj3hEn9efcaqVVYkdhWZsT6bW7ZxIu5ryishczg-j_WkXlNnS0cbv1rGwfISwridfeaDluLzyRnWZIkDaQmu1UpjpMmaj8wrdEhEfAED7ZbqtZ9cngudUDFj94_Ly6a-LI0bMPSnWTpCsQ6HIv7DQaf2bXIcd3im-feoohPcDxqe6UKc4VrmmqKEW01OerpvhzcL7df0B8HeMW4wHEBogt1fqJUFfniOze7_OGE3rXrgZjsA" type="video/mp4">
@@ -450,11 +605,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/akhbarefori/683482" target="_blank">📅 22:22 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/akhbarefori/683482" target="_blank">📅 22:22 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683481">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">♦️
 نیوزویک: تهران در کوتاه مدت تسلیم فشار نمی‌شود
 نیوزویک:
@@ -467,11 +622,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 9.94K · <a href="https://t.me/akhbarefori/683481" target="_blank">📅 22:22 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/akhbarefori/683481" target="_blank">📅 22:22 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683480">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/46a51b803f.mp4?token=RknuDvCDACTZ4PiLhOqi_S0rJqo4dJxT76dr2eHLL1QPivSr7qTtpMp8g1tjl2w4azKPKtxpcPxTF_qdnjE2NJlaGTXNZfyxmh1fzALSuG0EgN4xOpva7EoS5j1wJfxRlx_tcAybeGsRPAKa5i9jgGMKUqyfm3nYALiZMW_SRBdPSMUbBytP9d07osJfPd2Ej7DcaGAjjE62KsQj5gAh2ywO3tBhtL_ocbNGhVt0WXJtm-bBUkA94kH-Jn82jxzn0HkF7LrMJfoUDUScZO9pwFhSewxa-e7InbdrxueCRxaaP4y7-O_Ey6Cft_oko9Wb8tmzkbtDJJ8jPrY-7iaGwQ" type="video/mp4">
@@ -485,11 +640,11 @@ Link</div>
 از ملت عزیز ایران می‌خواهیم در این رویارویی بزرگ، وحدت و انسجام خود را حفظ کنند و اجازه ایجاد تفرقه داده نشود.
 🔹
 امام خمینی(ره) و امام شهید ما، همواره…</div>
-<div class="tg-footer">👁️ 9.11K · <a href="https://t.me/akhbarefori/683480" target="_blank">📅 22:19 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/akhbarefori/683480" target="_blank">📅 22:19 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683479">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/49a7026789.mp4?token=Wlo3eC9azqhXYAtOQKdJo8NpZflfQD8DkxN46bsVDsT5ptw061-_v23r5Rghf3sHtuCe-X_ivV3QAsXjJwmu05YXA0nZjlJJJUmz60e9jtQKKWFH_xpnvBI-lsozvVspVZ_soljZYOvvDT3RlH_3mMtXFeOyS2_qahi0mdMkaX0gGm2qmg0xFi_xttrG_6THO_Usgc50TV2SPTQyc3E84i6luKj-Ifc8YfypBt-rGkjo-PFn71bFN6ZKamY1DNfoLFkpFW8hYEh5cf_an_E8U7kgR-5k5AlUqrMUx_FvHE1m8iIKzP1tdWGHJ3oFAKQ-7_cgaWYLPaOfkv8lILJFm2qKjW-6En8lj4ofs4VfzvjYH-ihaLeqbphO7dlGnxUNJ-KbWHegZijIibo7rYg49TPGFGETzlZQ1C1zYb8FEUMNE4hweYIZEdPFNP_QaqavSFETuVWREyGh62tLhJLmvFQhMI-4nwBEzUpuxQhg7VagGAWledJtu7cy-KaHQGlEVKn2M8IMXpa9LzPZfE3Oy66EgDkCU-v56S739jlEZfXx37uaKK5YKSZbRuk4iC2xHzt0zeADGvCYDYT2EAVXmeX_82j0yWZseXOcFGJbN6dYihhQYReh7D6GVaMwD-IM1uEGtnidMiO76CXLYG7co-0NPyrxNKiTAx9b7NiWvjo" type="video/mp4">
@@ -502,11 +657,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 8.11K · <a href="https://t.me/akhbarefori/683479" target="_blank">📅 22:18 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/akhbarefori/683479" target="_blank">📅 22:18 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683478">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JnxL1y-KR7r17mnqYVcpVcsKQT-YANg8lEbU4kMSIdwQpRf3dy7k75VeTgbMtWXqViZIzQbarGJyI-5qU9ck2IcoLqbxEcQkA6PH1ApTFtQuRZJQpsGL4mfUK3k6mliG9vOLK2JYR0K2rbrinTfLBcSFjsFUIaDbUq7Vs5e-WIdI4tUtE8nbGSsGoYH87GArogczfOiqTrxPuftYEWMUQvtfSURysLX266MBqfd5mDA3Q_hrsfeylgXMg2mAa79WLuHmhXREkaLgYHBs7u6XHAapWji_RPvaXbrlOlewnCx9nShc5l7xMos6kIQkkux1-31Ysrb4rPGQ26pZkk8urA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 در قعر خلیج فارس
@@ -520,22 +675,22 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 8.1K · <a href="https://t.me/akhbarefori/683478" target="_blank">📅 22:18 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/akhbarefori/683478" target="_blank">📅 22:18 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683477">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">♦️
 محسن رضایی: در شیوه جنگ و مسائل اجتماعی حتما تحول خواهیم داشت  دبیر شورای عالی امنیت ملی:
 🔹
 همه تجارب یکسال گذشته را حتما در نبرد آینده به کار خواهیم گرفت و حتما جنگ آینده متفاوت از جنگ تحمیلی سوم خواهد شد.
 🔹
 حتما در مسئله اداره شیوه جنگ تغییراتی خواهیم داد.…</div>
-<div class="tg-footer">👁️ 8.12K · <a href="https://t.me/akhbarefori/683477" target="_blank">📅 22:16 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/akhbarefori/683477" target="_blank">📅 22:16 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683476">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -550,11 +705,11 @@ Link</div>
 ▫️
 حال‌وهوای بی‌نظیر مراسم «تجدید بیعت با امام زمان (عج)»
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/683476" target="_blank">📅 22:13 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/akhbarefori/683476" target="_blank">📅 22:13 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683475">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/f2085dd4e0.mp4?token=XSF6PcEZ8d764vbwrn5GbU3sSDT4KqXMEhv6vwlTU5fqoM76fl4z1IuAoNr2mRMtZdhOemvarb5hFDSEOHV2t8IDR0SFgUXxufv79qK2vsbGxCsSO-QuYYucLeP0qwaKRGGoM0LRyPzu6_nWZ62-k0xdBMJb0EkLIIuJsSEW48MXPyd0XM8woC7hiLI8qHMW6Arhe5jhEHb9mwSIIi4AFIFThrSthDpMlXzHsWH9qW7-S5XPpiZlkTkGvPnttIiaTBB8XjRYjhvBJkDrb2by1Lo2XKNtxciRo3NI_8rz03tzxOIBsPNLX_lHBuNGC37l0KmDV8CG5hCy4YUSm5xx4A" type="video/mp4">
@@ -577,11 +732,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/683475" target="_blank">📅 22:13 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/akhbarefori/683475" target="_blank">📅 22:13 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683474">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4d89fa5dda.mp4?token=vOV8s0Z3vYrdp-EYGvMsEETnG4MTrXUR_xJ8elX49vd1bbblKP4AFGJtchrih7Bm-sDPj1xzbQOCLa1mBNPbaVCuJzVzpggv39jcfuU9zG9KRhOw5KV5iBYw0YMBvogVoaJEH9Cl0ROEYEJGtdOG_YuL2zzFQltSlLtdiyCAdCQCM9NYvL68Vg6eOhv8Cag6kxC8h9Ub2UmJAqcugYAhp2-fH_99jvFem4xTca77fiYegF3LzJhdilYQwKNaDZRHkaJjmsIycesIxHYtE3pfo_0tjnhyiNAMRIXdwayp_ucKmBZdrfktJ4ADvi1PpLLcqHz_U6LWHMD7d8NHMwyPTQ" type="video/mp4">
@@ -601,11 +756,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/683474" target="_blank">📅 22:10 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/akhbarefori/683474" target="_blank">📅 22:10 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683473">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/567f74a1d9.mp4?token=h8hAwwRmF6NtK4lQ3h9rGXIcskA5ir7zYfpohoNFqf0ObtM43RRPJNBmKCMGSqEK0Tr0Pl_AiW8Pan12_7OHJMnTbAS2zoYVoBRzceiMKiAAjs6j_Q6mP-UCj_n14eTGTsiwEz5Xznf8AJKmb-m0m40wLyt3it7IO84fkN42K90ZyhdoBVyRdDlEXk3musXjgXufKHKi_1LrsFe-SmuMFtPpiMLGRrF-5p0cjSbZYEyyYwMrEcCKHFgd15yvOORydPcwNHBBGZcEeEXM9qaNpf_1xS4yZb03FsZsaNLs7abhs-VpCopjgBnTR0dr_uXiZKxM4S_odNJWP5zrpg2uVUEhbTpASBKDxi6MHujQ9Wj5WPgTexKsWbV2aBYdfN-_5uv2upPaqhKmu-ZEZ_xTq9YjmHamTJJWms0b1yQppDHkJpSavqNycN9h20fMNy3hOiJzhiqGk65zeYV0bi1L1DrgUW8evc2LezcKx7XP_QoU3z41eCQCUhVai9vySab2V27yPXFB2EDvqrdfqK4pOVYo2h5r4YkDclLHU2ZnlIa0_0qwk_o9rO-XD5N7fAc6NI4nK-AWFWwkyV6McEPX-QID_7ITi5c70Hagz4cUwLvEj-37aBAkoyEIjaEhM-5-EG4OdO4xV7qC9QD5IwpoG-VJ5EJI-s1FkeJSJra0YBo" type="video/mp4">
@@ -618,11 +773,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/akhbarefori/683473" target="_blank">📅 22:08 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/akhbarefori/683473" target="_blank">📅 22:08 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683472">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">♦️
 دبیر شورای عالی امنیت ملی ایران: شکرگذاریم که خدا رهبری شبیه رهبر شهیدمان به ما دادند
 محسن رضایی:
@@ -631,11 +786,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/683472" target="_blank">📅 22:07 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/akhbarefori/683472" target="_blank">📅 22:07 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683471">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bgr_PTdFudVDyOVx9X5ecnQVUa1r6elIZDwkGXtgHN8RZfbagq0c0WMKqxaNXBGoEjlef9jYFgjqOgvd6QmGbBfGnhLFeI-A-zu7y29SJFAy0oowyIEEDTktQb6yemeUb99xlysXVuGN6JylPJ6G8PjVkmzuHOeolDUeoDyDPrPx97XSZuwrArV8Wa1tV1jPCEgTWJPDZP3b_MXfim3EOTF2lgaQmPAYqYhxikRyvwfyVGbyr-KqsSV3Ry7htKPSnwZWhLORqRC1i7Gzm1Pq8KmXvmmVKLEiE8KuKvpppf5nNanpD3oey1lDHtjaKZK0gWPTvBEKAXVnlyKVN1bGzw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 شما خنگ نیستید، شما فقط به اندازه کافی پول ندارید! | رتبه کنکور را حساب بانکی والدین تعیین می‌کند | پشت رتبه‌های برتر کنکور چه می‌گذرد؟
@@ -644,11 +799,11 @@ Link</div>
 گزارش میثم اسماعیلی را در وبسایت خبرفوری بخوانید و نظر بدهید
 👇
 khabarfoori.com/fa/tiny/news-3239632</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/akhbarefori/683471" target="_blank">📅 22:07 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/akhbarefori/683471" target="_blank">📅 22:07 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683470">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">♦️
 یک اشتباه رایج در بازار طلا؛ حباب منفی همیشه فرصت نیست
 🔹
@@ -660,11 +815,11 @@ khabarfoori.com/fa/tiny/news-3239632</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/akhbarefori/683470" target="_blank">📅 22:04 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/akhbarefori/683470" target="_blank">📅 22:04 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683468">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -681,11 +836,11 @@ Link</div>
 ▫️
 شعرخوانی حسین حقیقی در جشن «تجدید بیعت با امام زمان(عج)»
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/akhbarefori/683468" target="_blank">📅 22:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/akhbarefori/683468" target="_blank">📅 22:00 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683467">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">♦️
 پزشکیان: آن هایی که دستی بر آتش داشتند، در شورای عالی امنیت ملی معتقد بودند این تفاهم‌نامه، بهترین تفاهم‌نامه است  رئیس جمهور:
 🔹
@@ -693,11 +848,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/akhbarefori/683467" target="_blank">📅 21:59 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/akhbarefori/683467" target="_blank">📅 21:59 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683466">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromآمارفکت</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nEg17CHWCnWQ63r4W8R5pz9u0L0wV1ATCf8HZsR7RmAiNz1EPtwOk2vz39wSjoQ9mgxiVVKTi1qhf3jOlaFs6LoV8v2PC7B5zvTaAYugnyiUTdbSvf-ZV27gMsfl1tN-bMllEye3tuPjGBCByNwnJr0uZIcc1pXIodk3Lt6KNHxsHh1dE2vK9ptkRezVs0AHp4VZW5L-4Bp0EzJkZWWv9vWHc6TT43rqa4I4ZAe8kp_sFSPhfFev4EtcSXwPgIMvG_CgYvh6Kg2mb-iCcMzwMKB4QzlyiIb_5pLV_wJ7laMARJHkqHuSAIXTFtIvoWqeDNOO0DHZ_gKuJCCs3d7O0A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نیمی از بزرگسالان ایرانی تحرک کافی ندارند!
@@ -708,11 +863,11 @@ Link</div>
 🔹
 گسترش سبک زندگی کم‌تحرک، افزایش شهرنشینی و کاهش فعالیت‌های روزمره باعث شده کمبود تحرک به یکی از چالش‌های مهم سلامت عمومی در جهان تبدیل شود.
 @amarfact</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/akhbarefori/683466" target="_blank">📅 21:57 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/akhbarefori/683466" target="_blank">📅 21:57 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683465">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">♦️
 ۲ سوخت‌رسان نیروی هوایی آمریکا، بلغارستان را ترک کردند
 🔹
@@ -721,11 +876,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/akhbarefori/683465" target="_blank">📅 21:54 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/akhbarefori/683465" target="_blank">📅 21:54 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683464">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">♦️
 پزشکیان: مصمم هستیم بستر را برای آموزش همه آماده کنیم  رئیس جمهور:
 🔹
@@ -733,11 +888,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/akhbarefori/683464" target="_blank">📅 21:52 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/akhbarefori/683464" target="_blank">📅 21:52 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683463">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -751,11 +906,11 @@ Link</div>
 ▫️
 بخشی از سخنان حجت‌الاسلام‌والمسلمین حیدری کاشانی
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/akhbarefori/683463" target="_blank">📅 21:49 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/akhbarefori/683463" target="_blank">📅 21:49 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683458">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/s495bPe4mRMB6-C-sh8cN7lSuJUDDEamJsJrLhpFhqywJ6CBbxkq6ycOTfQkfE5suDyKNEHl_8XeDcs471SFT7ALiK2mbwjrt8vsHgWC1633P_gYqQRPkjnj-pdJxIa1Vfv-6PgWiA1UnvT3cdDn1Gx8hskXeWu641d9uub1i5qSLKUFES8QHCktUm7kJna5EH6w1nYTaTqgVePNSvCwiAQZADeE8t0NVZWQbRQT8l38Weqf-lOH70Y4msdQxtDS3cAWTv2bDNGkTIWdYrqWTEl4ctqiI7AOenXmlMoZS4yW-kttaYiXa1vcHdgjyqQVrCvfsPxAvHr3o8JU4yN0Vw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/HRA3Gq3JcFTHU6uDet01vKj8d2-Wzya1yEODAlOWNHBpab2fsoL3JO7Z2nAEvHXmturNU7YyN30l3PdxXy1Fmho9NS-t-qlgO7tUW-YbE127tFlEYmBccxBe03wrBsleZzWF4tFAngFpOg5ddS2IjQeP_NsmOVSi5SgcgPw5_-c2v2xCY7DNMBhhrr6Ljhh8w6vbf6nOwRiNTSfB4IMs5mgWQfZKhV7Ki1NWEH3aE7z2YZlBveyilEWQ0TEdKXzP46aapHnJvIdZU2mnG6BV0klE5pboY-QSbmVeIqTDCP5m5TM_p8u5X_bbqbmYnfWrpw68__GKaUd7mQgehikwCA.jpg" alt="photo" loading="lazy"/></div>
@@ -771,11 +926,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/akhbarefori/683458" target="_blank">📅 21:46 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/akhbarefori/683458" target="_blank">📅 21:46 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683457">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">♦️
 ۸۸ درصد درخواست پول بانک‌ها رد شد
 🔹
@@ -789,11 +944,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/akhbarefori/683457" target="_blank">📅 21:45 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/akhbarefori/683457" target="_blank">📅 21:45 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683451">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/P8dgmjpYj0WADlr47goQ12cb5W9_iVsOLw0-i-FLkCk-_c4KSWnWoUB5yOUvKYbQVRzfB1t9hkkUkCpzgnKGpcnVvkkbGHuw_HLKkAsvLzZ2Sq3Y4yjZrRafcIttxvYDu9n7DiSC2dmF8LlzpVScCxFbCc3SHg-kUne5-jHq6hjrOSgcKbhuQlDpLKcTZNq736aLZZnCdDPg3yHw1Eo0QXvDHnJ0GhrrGXGtL0mLxYWnCak2iqkmveqspFtguILqBz0mpFIfMAjOVlQfxyh3j0-C06OyOr5zR51A9xrrZalNXtbCn9yOU9V04pt79MGmjdbGzQSRUAoFcMA1XNf8-Q.jpg" alt="photo" loading="lazy"/></div>
@@ -808,11 +963,11 @@ Link</div>
 ▫️
 مراسم جشن تجدید بیعت با امام زمان(عج) با حضور عاشقان ولایت
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/akhbarefori/683451" target="_blank">📅 21:43 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/akhbarefori/683451" target="_blank">📅 21:43 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683450">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">♦️
 یمن: تحریم‌های آمریکا علیه حزب‌الله مشارکت در جنایات اسرائیل است
 🔹
@@ -820,22 +975,22 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/akhbarefori/683450" target="_blank">📅 21:37 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/akhbarefori/683450" target="_blank">📅 21:37 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683449">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">♦️
 پزشکیان: اختلاف‌نظرها هست، اما پای وطن که می‌رسد همه کنار هم هستیم  رئیس جمهور در  مراسم گرامیداشت روز پزشک:
 🔹
 دشمنان تصور می‌کردند اگر حمله کنند و در یکی دو روز بزرگان ما را به شهادت برسانند، می‌توانند کشور را قطعه‌قطعه کرده و از هم بپاشند.
 🔹
 اما هرچه زمان…</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/akhbarefori/683449" target="_blank">📅 21:36 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/akhbarefori/683449" target="_blank">📅 21:36 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683448">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -847,11 +1002,11 @@ Link</div>
 <div class="tg-text">✨
 شعرخوانیِ احمد بابایی؛ در جشن تجدید بیعت با امام زمان (عج) از «قرار» برای صاحبِ قرار…
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/akhbarefori/683448" target="_blank">📅 21:35 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/akhbarefori/683448" target="_blank">📅 21:35 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683447">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">تمدید مهلت ثبت‌نام دانشگاه امام صادق (ع) تا ۶ شهریور
 برای نخستین‌بار، کدرشته‌های دانشگاه امام صادق (ع) در فرم انتخاب رشته آزمون سراسری قرار گرفته است؛ اما درج کدرشته به‌تنهایی کافی نیست و داوطلبان باید ثبت‌نام اختصاصی خود را نیز در سامانه جذب دانشگاه تکمیل کنند.
 🔹
@@ -872,11 +1027,11 @@ https://gzn1.isu.ac.ir/landing/info
 #دانشگاه_امام_صادق
 #ثبت_نام
 #ارشد_پیوسته</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/akhbarefori/683447" target="_blank">📅 21:34 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/akhbarefori/683447" target="_blank">📅 21:34 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683446">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9e705d04a6.mp4?token=ghMyLn8VaWFYCIk9QhM0kOFDIXHs_AZ-wxTpBGgtRo6KCg-FK0v3XrsGCQoCuQG_bVZz6W9VUaAq90CucBZGnUlMCG8UV2u7yS6KMi1O4a8z81Ureg4zJ4kpek7BVTI75aKOX8w7amU-mdXuC1KKsX6e37Q97u_0mqjBuo031nTT0q4C2zvQo1ca0s3_u0z1p-MbCoA48BZXZL4Lu4qKFSknKpi8M2936jX67NO7ULCJU1a2QJ5jSt_DT04u-dr8fQkomU4SIm5aDdONANgPu2j0keMSZ3-AVa4aFFwvUIZMsJzRsWRokShFyC9RHCmpGvASbR-HjyDfO4443VYEoA" type="video/mp4">
@@ -894,11 +1049,11 @@ https://gzn1.isu.ac.ir/landing/info
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/akhbarefori/683446" target="_blank">📅 21:33 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/akhbarefori/683446" target="_blank">📅 21:33 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683445">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Stak_Ju4503Yb7c5Q3AQ1e0MeMBkmWzdo6TNf7ym-kLaD4oGIwS2UBG5Os35MC7vRQmnRAeOYMfs4NSwAN1WpcLVTGR5YuHtXBjMUaQUabqDY4EMer5lyuOiQEW0VJlMvnCY-93xX4QLjKLUn0zf_r4dsnRsh2V6yJYSpskPCbVSQF0MMi4P2UakLVuC5Ee5lfaNE1qWI6Wb9ZzfyCq_Z22qf2qQ6LH728Wz8lScahvyyPgowv9Ye1BdrhvTvVJuavZn2NtEFpBUrx2ojnyDsetCIP1J1wpGaUPnM9hbP9oEC7Z72Uy54Gu5NWzc_hAQsJhB5ywC2hKyUNf6cgtZfA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 نشست سران قوا با محوریت معیشت و تحولات منطقه برگزار شد
@@ -907,11 +1062,11 @@ https://gzn1.isu.ac.ir/landing/info
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/akhbarefori/683445" target="_blank">📅 21:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/akhbarefori/683445" target="_blank">📅 21:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683444">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">♦️
 سیدعلی خامنه‌ای، پس از تو هر خبری جز قصاص بی معناست
 به خصم، زندگی خوش حرام می‌خواهیم
@@ -921,11 +1076,11 @@ https://gzn1.isu.ac.ir/landing/info
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/akhbarefori/683444" target="_blank">📅 21:29 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/akhbarefori/683444" target="_blank">📅 21:29 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683443">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">♦️
 الجزیره: در ایران بیش از ۹۰۰۰ شرکت در تولید سلاح نقش دارند
 ادعای الجزیره:
@@ -936,11 +1091,11 @@ https://gzn1.isu.ac.ir/landing/info
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/akhbarefori/683443" target="_blank">📅 21:26 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/akhbarefori/683443" target="_blank">📅 21:26 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683442">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">♦️
 ابهام در پرونده کشف جمجمه ۴۱ آهو در چاهی در شاهین‌شهر
 فرمانده یگان حفاظت محیط‌زیست استان اصفهان:
@@ -950,11 +1105,11 @@ https://gzn1.isu.ac.ir/landing/info
 در فضای مجازی
 👇
 @akhbareisfahan</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/akhbarefori/683442" target="_blank">📅 21:24 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/akhbarefori/683442" target="_blank">📅 21:24 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683441">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTV فوری</strong></div>
 <div class="tg-text">♦️
 ناشران و کتابفروشان، وام کم‌بهره می‌گیرند
@@ -970,11 +1125,11 @@ https://gzn1.isu.ac.ir/landing/info
 🔹
 همچنین کتابفروشان سراسر کشور در صورت داشتن سه سال سابقه فعالیت مستمر فروش کتاب در واحد دارای مجوز، فعال بودن کد بیمه و پرونده مالیاتی و همچنین تایید صنفی و اجرایی از سوی کارگروه ارزیابی می‌توانند برای دریافت وام اقدام کنند.
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/akhbarefori/683441" target="_blank">📅 21:20 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/akhbarefori/683441" target="_blank">📅 21:20 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683439">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">♦️
 حرمتش واجب است در دو جهان
 هر که در فکر احترام علیست
@@ -987,11 +1142,11 @@ https://gzn1.isu.ac.ir/landing/info
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/akhbarefori/683439" target="_blank">📅 21:19 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/akhbarefori/683439" target="_blank">📅 21:19 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683429">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/d9p-LFTdFnVsPDhIZt2KugjurSbOlOCsgTitvWm5ebx7bwewwIEWMxYY-9KIBtMZt-Kk43A_HUAO6JzmgRPoQsEjEz7e_4sDyDNbPm_vMPaf19Sb-anlLBQrrAwO94snOdatXwRsz8VAkQkAB52u8dYDhA2z0fUCwUrMVgra-JYhwT9-PnFykk158fv213fbufR8LN3OwhT1y_qbpcY_SoZDr5h9nrPF8y_bSg83ANk6_-XLGn8s-PMZ0r6VTX1D8lniG0duPSbN2bSay5YmnVWc_yWljQ-plng29fwl1XNzmGfj-FK0mEdz5mVrUYPXyPfs3aJqKdqKMcaHJzRc4A.jpg" alt="photo" loading="lazy"/></div>
@@ -1003,11 +1158,11 @@ Link</div>
 <div class="tg-text">✨
 گزارش تصویری از برگزاری باشکوه تجدید بیعت با امام زمان(هم) به میزبانی هیات قرار
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/akhbarefori/683429" target="_blank">📅 21:16 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/akhbarefori/683429" target="_blank">📅 21:16 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683428">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">♦️
 مرداد، بازارها را بالا کشید
 🔹
@@ -1019,11 +1174,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/akhbarefori/683428" target="_blank">📅 21:15 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/akhbarefori/683428" target="_blank">📅 21:15 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683426">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">♦️
 نتانیاهو: تا زمانی که من نخست‌وزیر هستم اجازه نمی‌دهم هیچ کشور فلسطینی تحت کنترل ایران تشکیل شود
 #Demon
@@ -1031,11 +1186,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/akhbarefori/683426" target="_blank">📅 21:11 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/akhbarefori/683426" target="_blank">📅 21:11 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683425">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/94ec87207f.mp4?token=kz2CUmZVO2WXqOHbfb-BPH35naKvWcJOBosqxmpRObUvHuwqwwQPrHRN-d6xN58swkpW41Jw2-eGpDtoDtdUQZioInO2KvsOPSCYN5_7-cih8-PPJ1tLNdR2_KoYZMR9yolfUma4yghl_ezG2otwG3X7Rq89gNu-6wyiGqb6qfscZ75_o8-FOY4kXG5CTGyVM5SzcX2AIK8EU0shREEwAU8CVLW76S-ibVS0OSebjp5br15Vrn-PRJ9AsIN9FepwJ6KKrjiBtdNvhJ1aMfQkCJskRsIz80jDgAuRRUhDrubDpboKtqZOrHi3shfNsc-fCy5kofnzMm2LdqxxSzu6Jw" type="video/mp4">
@@ -1050,11 +1205,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/akhbarefori/683425" target="_blank">📅 21:09 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/akhbarefori/683425" target="_blank">📅 21:09 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683423">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -1068,11 +1223,11 @@ Link</div>
 ◽️
 اجرای ویژه موسیقی توسط گروه سرود دختران در مراسم تجدید بیعت با امام زمان(ع)
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/akhbarefori/683423" target="_blank">📅 21:08 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/akhbarefori/683423" target="_blank">📅 21:08 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683421">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTV فوری</strong></div>
 <div class="tg-text">♦️
 رییس مرکز امور زنان و خانواده وزارت کشور: قانون مهریه باعث شد زنان مهریه خود را به اجرا بگذارند
@@ -1087,11 +1242,11 @@ Link</div>
 در بسیاری از موارد این قوانین از محتوای واقعی شرعی خود که به نفع زنان بوده، خارج شده است.
 #فوکوس
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/akhbarefori/683421" target="_blank">📅 21:01 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/akhbarefori/683421" target="_blank">📅 21:01 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683420">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -1103,11 +1258,11 @@ Link</div>
 <div class="tg-text">✨
 شروع رسمی «مراسم تجدید بیعت با امام زمان (عج) و رهبر معظم انقلاب اسلامی» با اجرای امیرمهدی باقری
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/akhbarefori/683420" target="_blank">📅 21:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/akhbarefori/683420" target="_blank">📅 21:00 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683419">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">♦️
 ادامه جنایات اسرائیل در منفجر کردن و تخریب زیرساخت‌های جنوب لبنان
 🔹
@@ -1118,11 +1273,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/akhbarefori/683419" target="_blank">📅 20:59 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/akhbarefori/683419" target="_blank">📅 20:59 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683413">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/qExBhYiNqHoXTipgCzDorf63pMELK3YGhOiWGjzy3cYS2KzaPS-5ZqDAZMc5X3Euaianmp8rVy74D2rPt8Ogy6wzjle9ktjnj3iU3kAG_dQmifPHzjtQQz7omdhL3g2-B5kYSpczeiGyTg6FNLy_68QVkNYEQM6qvVz_XabZTzZox-2JpDIgtnzx1vw0sH7WO4Q5sGLNjMQNMKCVlHFfyggeXBBhQdP_k618yLH6iJeuQsiDdtH6sGyGaq8cvn-3r788XY0fdguXd5vHLHSR71HWyGp6xvNOsvNCKud9GLzWwigR_HnPulnwqnWEHDK-wh5MkdZU86uB1NlGTShTsA.jpg" alt="photo" loading="lazy"/></div>
@@ -1134,11 +1289,11 @@ Link</div>
 </div>
 <div class="tg-text">هم‌اکنون اجتماع بیعت با امام زمان(عج) در میدان شهدای مشهد
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/akhbarefori/683413" target="_blank">📅 20:57 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/akhbarefori/683413" target="_blank">📅 20:57 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683412">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/0f75df1eb4.mp4?token=rIcpJO_WvDvhVKvD6tiSychm0W8QtdY9P09CToR31_NGtiXikNHuBJNcbnU5eCpNul_KX1JONPheFBRgcMR_Diz_XAWQCpVlaaTUyqUbAEUeGkcBCgv5gj8xTmgkDrIaasDossSsRhQoi4Njrql8l7DLyszM1ASHgcdxFWA0EkrsuiRmEgwpgGQGyFzIl2XZH2qkkViaHVDuWayy0G5rGiJmoTmsx_UWs2jc8VDxZKfg4o6go3o9jpBXzSOP9MHHTl-D0H4zJ1eN3YIDtgY8oXQ_rqyMrKn4pECMwm1inr9AHe_M-oB18BkPEvhx8Zxc-S3_sfPC3KdN3b-3rE1G8w" type="video/mp4">
@@ -1156,21 +1311,21 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/akhbarefori/683412" target="_blank">📅 20:52 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/akhbarefori/683412" target="_blank">📅 20:52 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683411">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vKz00XXOUINoSBdKXypAIhXgM_zRViGzg8qexLkP5AlqKyrqQZxAN1PbJME9OG8oLAWhCqf_cnWbTye7k_RuUFAUkoVQOHg3jcoRYBpwJmajzAsCeLPSbWaxHTx-q-MdOPRYEnE_nIwMWeOdC1Rw4HYXMm0VDKHlzdXA2Jivm84rwiOkKNMfOcwkGBHV5hfGfYZ2xA9hn-NBuTiBsqtO4JgN0by-njK5LWiZRHJ5f-nzg_TQUGRVxzROWrtcESFXkhEREDBbg-sKgmiEHyKrNMgMApr7bMiBL612BDIeMwGpS02zk0FSQdqVOEWEzsbqgGz91r6FdSBZOYzrZ7Dhbg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 معشوقه افشا شده ترامپ، خبر اول شبکه‌های اجتماعی آمریکا/ چرا ناتالی هارپ برای ما ایرانی‌ها باید بسیار مهم باشد؟
 🔹
 ناتالی هارپ، دستیار اجرایی ۳۴ ساله دونالد ترامپ، این روزها به یکی از داغ‌ترین سوژه‌های شبکه‌های اجتماعی تبدیل شده است.   در خبرفوری بخوانید و…</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/akhbarefori/683411" target="_blank">📅 20:49 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/akhbarefori/683411" target="_blank">📅 20:49 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683410">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">♦️
 آسوشیتدپرس: مصر در تلاش برای احیای مذاکرات ایران و آمریکا است
 ادعای آسوشیتدپرس:
@@ -1184,11 +1339,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/akhbarefori/683410" target="_blank">📅 20:46 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/akhbarefori/683410" target="_blank">📅 20:46 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683409">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromآمارفکت</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bi1ne7Dur_v6FXTih1ufcgjaIIeiPEprslacV10kqzLceY3L3sPOCYZTv11MUHBxS73_zjR4ZGnUJcKVzK2Bgq_mLIFoEboWQZ6rK0DBG1894P283wS-10fzKkVAmLnpcizCPQ7idLkNin__WDuqaeNikzvq4nI76JVmfc441idjDrVJlV9Ktk6a6dm_TdxThc44IaoPAIfh2Et8LDNNXa5SwDp2DE3rVLIuzsTblYDJnRmYwV_HRDAkBMO7I8l53yqxIN0LOVAG-osJVTCUAspyqtvfex6nWb9JgVnHiuFoDFO9QYh0dIx9NHK2Zq2tbPQlb4xXFj9OLJKrc6DQvg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">روند کاهش ذخایر راهبردی نفت آمریکا
@@ -1199,11 +1354,11 @@ Link</div>
 🔹
 این افت ذخایر راهبردی، نگرانی‌ها درباره امنیت انرژی و آمادگی بازار جهانی نفت را افزایش داده است.
 @amarfact</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/akhbarefori/683409" target="_blank">📅 20:42 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/akhbarefori/683409" target="_blank">📅 20:42 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683404">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/tmezccDhJX3BBWnUVWRFFjXungteixPs1cYKnEyLBupNj3NUyngOtuaV5gPztLUGhCAT3wONLmWl_f9_oSL1e9a_SSX5EXq1q8Jk0uc5X5-UTY2QVIjP55x34r3ONxAiqTDyCdJh-1tEvLI5BbzZFvd1no7QFrHlTKPtFyM1OxDTE94-f3bY3XRHXpLNerp6gyTOaZ9nJAL7va55hP5_iwnrlib7KUQayxo7PYCvbEqnJZ_rSnvyN0nqxOxKA6H1J1eNA-QxZ5QzkebQUz6xoKoAc38vxi7VI53AvegHbYsa1e1Ym3eN3olphYDwzQnOzwvMrGeKiAxd83bTJLQ5lg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ixR87TQ-V69QlYruLOCerTD0x7SVV7F6n2FRI1B0yyxUgSaLoCl5fTcBm0KPgCU6AuAR5X57fZOhU_Gy4PRI9bkIVTHtNBlouxhPifRbX8Vu_anGC2qtmfmM4f8YLH8_0Bigg1cEVqCK1AKRTswe66EQXi5Jgts6ZpGYUY3Dw1q15vmL2sI6g7iyvU1w4azJMRlHV_Rnhmh_DWDatjRDzh4fw_13AX_PvA4GWIek5heipIywH9KqNLyMq7LNaVyuH_EmnWGnbb4Sh2aLPn2q2j7PIs9dbTJ6jBi2uAPEfIAhHA1yURY7QIzupOhNTy9GGAZjEHekKA4BK21TDFgVAQ.jpg" alt="photo" loading="lazy"/></div>
@@ -1220,11 +1375,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/akhbarefori/683404" target="_blank">📅 20:41 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/akhbarefori/683404" target="_blank">📅 20:41 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683402">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BsxC1qHy3tSR1d-Ht7HfJ2dZNz4_kLpxMwxl0OtcphLj6tsQMCSJR11r8GopIgRbkivmfQ4ZvYF2ExNKamlHGuDGOJkBUl65cPucaJKcAbdhsBsQgaqJJ25Z3cDHyxmn0rmbHBaH6Zms-LUOvtZr4TusGk2Kw2N9dSZFt3Hol8ZjMKGiV4722pJsd1YV41c9d5x25JeRmeLZgKCvJeFg9NqS4RHk6aiQi9oKqI1xzREqp6kTxWC1Kq-MKWEclmcIf-Lt6cO0G9IVfFb7HXCY8-I1Yq51YM9W9RKfgRhN2JkWR1nDp-xO76W9LJYYAUZucgvQGAuEiIEVZ1Vlb1lZbg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 ویرانی اقتصاد قطر درپی جنگ علیه ایران
@@ -1238,11 +1393,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/akhbarefori/683402" target="_blank">📅 20:34 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/akhbarefori/683402" target="_blank">📅 20:34 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683398">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9139b50d1b.mp4?token=qH2lwqlWFNMoQSe_ypF7MamWpAyzKve_nYVkAmQUlOLLxyWLyX8lYD6NCYPKQvA4ba5zw4_OL1Z1ETw_3cPv2SlBVYFy-kALb5c3h7SJjgztxAOJo5Obb7S4_l9hGaSKHROMuOKJXOpojR1KRZPiNTRexK6ogStoMvMvUqBJ7I_V34cQPrc-IDNBEAaiFAWDqiWyCNmzS9W4_YvImO6LVglBqETctdhCysJ-OxOyRuRCsPMiOb9S0oXh7379pkYA5xh_alXuQbuIxPO5B6Z7SU0I0gffy8I9h9RCYMyMzB4VCgSlvMAV9EiFViVyuUPeG7tBOQUejuDNB0LmlBj7EpLwUIjBbAz8bJR1BVRyfrxtLsyy1tMB6q2ZcXN3haQC71OVRuccIcB-nH91qBRiBN4Xu5tNKE7wUybGYa8Y9dpW_jz4eoFSZRhZN1jCcZFLERNSax9XNiTGJwqBNC19kmiZyNArfKA8atvE9eG_6rtgae3B_fXPutIFN-whEzhDytVVOPDvG27FcHcR7JyDvCayrAKVHRQgHoptX8vYvcaauQvZNzIMx2ml4Fhu3arXw2mBXLZD5uTOx_6ZfRYI1a0SPvt4f7gZTM_PtucFmRb-bNokJu1niE1jfSp9u_AGHnOpQiCVoZmlvLqnt9tJQow22_pA8Qw-XEqtvAT5PGo" type="video/mp4">
@@ -1255,11 +1410,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/akhbarefori/683398" target="_blank">📅 20:23 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/akhbarefori/683398" target="_blank">📅 20:23 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683388">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/PvIXIqzbyTC9lrfW3KrLvEyS7aY9W6tvAgZCzshWVK8-Sstma_hwL5n_UqiSnPDtWVpQ70xRIqsF2IpsraLckqA3MGMUFf5T73buXJZH9oT-M7cllqdGl2J-epPAcs3U4KEQXI_Wbg1tGlDniemUTCZyMI0Wn_To3779uCUy6R7myEaaZcXoaihBGSvWs0HDYOdLsPilsrDaGJPE30gbnS-cVQzTp4v0Co6cMQG9fWmRucQH-PXjDywPN6B6rTFFsJRrM3PAycPRBTZA0KQFr6ajYvE1sp2_-7QGEAw0nR4sDvDHBe1abe-9ngrABF3G8w2WadgQIMsPPNledOkrGw.jpg" alt="photo" loading="lazy"/></div>
@@ -1281,22 +1436,22 @@ Link</div>
 ▫️
 حال و هوای میدان شهدای مشهد در فاصله نیم ساعت مانده تا آغاز جشن بزرگ بیعت با امام زمان (عج)
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/akhbarefori/683388" target="_blank">📅 20:18 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/akhbarefori/683388" target="_blank">📅 20:18 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683387">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZeoxmO-PV-ojMOkQOOB8i09sXXZm0C1qLigRC3EUdmjecN8MmrzD4t2QazaIbPspV63PW5q58Vl2Mp5nd7TTLA1JwIoel0bQ47K6smVF-YM1ea4ugCEusGR7m5jco5GXUBI-lhzOaJUDVSbVDNPS0WxXtpPo8vRnVJUmFYRT4vQlBcphlG-qWrbx1yCkk0N1LH43GyIGfNDrTzNr2IWfI6TWQ3XtFQUV5xAcgpBcZBVxpOLoiCWKdd4OYBBMUala6HUABu4eh8pYBoQfrxJoO_4X1xhUPABdaCCOEtzexCLOAanHqg69RjvA_J73ht2kH0iP90YDsqTA6nt_gV8LMw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 یک سری ترفند که کاش زودتر می‌فهمیدیم #ترفند_فوری
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/akhbarefori/683387" target="_blank">📅 20:16 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/akhbarefori/683387" target="_blank">📅 20:16 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683386">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4370e0903f.mp4?token=gpwZg5fc49-ucLWMZyYiC-KlxMnQoO1Z_Pkups6NkHYoTPvRYYva349-6hGSliYjaqAhoiejIW06V932ahXGEX8EasqQQTxk_Kk2INhpXlmM08a4NiFE8BjxSbW-vm1BBdMFXlD5g6yZScIu2vYLgLmSrNUv1SHvAVVZMYRDW7pPwwwyRsKBCwoZkiE4rNto_un5BvNsC0JijIGrkO-nXqfSnbwLbA_zAyaD61ouhVfXwYC6o3szxeR53UTuwj2DOiJWti4fvZlBW91q0eLSd2Wgy0NotaSpBe_FTH70NgBXGh2AwP-_8oJArAAgjGqSTmZRUz5fcZQmqkjFtqcTaw" type="video/mp4">
@@ -1311,11 +1466,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/akhbarefori/683386" target="_blank">📅 20:15 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/akhbarefori/683386" target="_blank">📅 20:15 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683385">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-doc">
 <span class="tg-doc-icon">📎</span>
 <div class="tg-doc-info">
@@ -1365,11 +1520,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/akhbarefori/683385" target="_blank">📅 20:08 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/akhbarefori/683385" target="_blank">📅 20:08 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683384">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">♦️
 اعتصاب و کمبود شدید نیروی انسانی در فرودگاه بن گویورن
 روزنامه یدیعوت آحارانوت:
@@ -1378,11 +1533,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/akhbarefori/683384" target="_blank">📅 20:06 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/akhbarefori/683384" target="_blank">📅 20:06 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683383">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">♦️
 کانادا تعرفه‌های تلافی‌جویانه بر آمریکا اعمال می‌کند
 مارک کارنی، نخست‌وزیر کانادا، پس از آنکه مذاکرات تجاری برای جلوگیری از تعرفه‌های جدید آمریکا شکست خورد:
@@ -1393,11 +1548,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/akhbarefori/683383" target="_blank">📅 20:01 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/akhbarefori/683383" target="_blank">📅 20:01 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683382">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vGpPLGCUMmWX0K6bbpiDGMTslMmev0QLhQwYAafmSl5sWjhzdB3i-PW7wuZZLnNQqLyI-3i_8zGWzMt3Z8DHcJ0Gd18diUjSLjbjypEpumZdRsKL6meiHzTnOxJz_TwkN2kYIWL_qBLrryLOH1IgzY8nIumQ9qvqNiLstL56eiu4lSXj48zGl7vWx6YWA04ErKBBT_WeFghm53PpnaL0mkkLKIrxm2soJ3_KyPTibDv_p2WU_vTmIF0pFJ4ZeDgZiEhFlNYtp1vR3eMBRQsmKyIlaWmuw3HaTJJMWIMoOeW_yXs8CzFKFm5j9sr6SQcjwHaRYz5CZICMHZLfd-Rvng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 عضو کمیسیون امنیت ملی ابراهیم رضایی: گزارش‌هایی منتشر شده است که نشان می‌دهد هواپیماهای جنگی و تانکرهای سوخت آمریکا در فرودگاه‌های قطر، کویت، امارات  حضور دارند
@@ -1409,11 +1564,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/akhbarefori/683382" target="_blank">📅 19:58 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/akhbarefori/683382" target="_blank">📅 19:58 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683381">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">♦️
 اسرائیل به آمریکا: از اقدامات ترکیه در سوریه نگران هستیم
 رسانه های رژیم صهیونیستی:
@@ -1423,11 +1578,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/akhbarefori/683381" target="_blank">📅 19:53 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/akhbarefori/683381" target="_blank">📅 19:53 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683378">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4b6c72dc61.mp4?token=kkDmE5yZdsJC1jozPRaIOzEYIAy6Rn1iY00mmjAoz1_POmEyQZuoKx2ILaKaFOJnAAKXf5NqEyy6MGcKrjeISoqLaH3m-Ib7xDrJR5LC6wuRYXSEkzz0bXaPQiSisrn4w4bU249Grq5CWrCGqO1w-xkkogDkn5fii6Z9U-nsOtMzxEa3RRpBJttzFKR41CS-A_pg7PIvaN_t8mJvx_z_nBjjTmQjxDHMYEksUTg0AUc_JISqWCV4HeM5aTvXJy3nf9zOqCBYoEwpu3GZ5KqG1GOzIIv-BIKsg3uYijhxo6kCw6mUSQNMzlOJddwbFguZxmLARTI4oeDQEAxN9Lchqx_VftbhYqxsmC6tsac86MF4cKnPfUvCj00zZ2XXwbkhY5IBO4B307gq5qYgHNQKLL8yAPbBvAkRewT59ijpWBU2YgosQZseC5V4QNou_3wBjNHzQhu2log1txAW54vbvhVzwafZC6uIGqSGXcTtLT_e4tugegKqZ3XjRZfy4CvazSVb-0LYvdu4VG2UystkdbFWIerWuS4kNh0UqB5cuZqDDkl_BNUaNp7SHgcc30Sh0mbELw7TGsalJFEz0H_v37XGM35eBNS_PNa2E_EqKErpZiQSx57qwH-OiRFuWcbe5ZRWUMqNxi_YCsFTzd4Py8BLUGwz_BUMjdxXeMw6xco" type="video/mp4">
@@ -1442,11 +1597,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/akhbarefori/683378" target="_blank">📅 19:39 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/akhbarefori/683378" target="_blank">📅 19:39 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683377">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">♦️
 وقوع انفجار در خودروی حامل عناصر «الجولانی» در حومه دمشق
 🔹
@@ -1458,11 +1613,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/akhbarefori/683377" target="_blank">📅 19:38 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/akhbarefori/683377" target="_blank">📅 19:38 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683376">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/d63d9af8fe.mp4?token=BYGpJLuT_F7ZXIBipZiOcrS0BSa5bAfk29paItlgPafjPBIUKQjaZn5RhcBUJrnFoqro4HK-fYpjOWKE7qtYIFYC-XGJpIGwqIOVqIX3LaR2x_cFseWyo0xI_gA7YHzSCd9YlYVTJcI1NG64udFu489-PIWoBXlcrmdWbNnEZwkjczLOdCYXhJsn43c78glgsAbEy4p4eB8sd9DvwWD8wA6M4fk3YHnyFANdA5RlhaS5FuXA2WhMDHU7owYk13nB5rkA6xmjv7soXsW4lrNdqaTmKX_Gys_279BJ_AaFCRgvihAre9m3ZBRG1BMgGok9O2zp40zEG59hYuuAFcmIig" type="video/mp4">
@@ -1477,11 +1632,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/akhbarefori/683376" target="_blank">📅 19:37 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/akhbarefori/683376" target="_blank">📅 19:37 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683375">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kpa5ejujFOIvZPsWgyPH322JF5qPvJMyzwtR8M1Sm8czbBKGPGiuLmYR0RWujE5BfZktv0Eq94Q5YuyzyBAILqAm4prSqBsld8yyoic4ZSzDsM0EM2Uav4iO5MH0iSIwc9i_OnbXcW5ZMqJCGGZuPCoy-j_KK-vEIEuDpPnXxZsnQKWQOrlylQRPID3aqRz8XtUVHWWB0O4_xlvNiDXk5XKViYZrHizYTPZQCjJrnQoO3Aa5JCCNetnU7ISswcGCxr8KgT3XR8SSbGwJGIRVMYzrTy9gfwHb027wk22FY47sZJEhWBvDctdIpvJ4kIiovCvlLtWyrC-aqKv2soE1uw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✨
@@ -1504,11 +1659,11 @@ Link</div>
 🤍
 بیایید در این شب عهد و انتظار، دست در دست هم، بیعتی دوباره با امام زمان (عج) کنیم...
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/akhbarefori/683375" target="_blank">📅 19:32 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/akhbarefori/683375" target="_blank">📅 19:32 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683374">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QOem-FgVZIU_7SOnEGOjLmJeI8kz9IA1kSZlPmpsaWo9u-TzQ-UPITw9HnUqH6UCF38frSKAP552BV7DPWCM7rtka5rQrol5z_6GJM0BYfiZMob8j3kG6e9Z5QZoXfNd7xg8ZNwI-MKFPvi7-c19CZ-YyPJDKaEFzm-pPk6NTfGkDc5rZZPUFtjP9ZAGnZhw8qxjM4s2X_T14EgkjLBYHKNGd7RxgGXSD7K-MziSs4HAHS3Ur2x4ptNmqqYzqryAeDOIqzmhbdjW6-_6A6ZyvOxADZCHHk9OT5NoAWAp6f6nobk5MaOfLw2DBpIM3OBqFr4q_7xXl2cWd-2FicQhWw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 عارف: دولت اجازه نخواهد داد تروریسم اقتصادی آمریکا، ثبات اقتصادی و معیشت مردم را هدف قرار دهد
@@ -1517,32 +1672,32 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/akhbarefori/683374" target="_blank">📅 19:16 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/akhbarefori/683374" target="_blank">📅 19:16 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683373">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/p8as7cU8fgVa3qWBng3ODqDAlcPNRM6hIfk5ImUb5j5lb08rFXlU3lnZpJ5eTw3LMQC9W4HXJuNr9MNacTmaRNXPx-_WNpTDUR6uHXr5612qb2vq9G7pkWr2PmpjYcbm-fVJdj8d1vSrQcZEYNRB0e1XLZjy4v1zi2gc2YQ-zG02rRVDwJbLIAcBXaWzfCti78I-iIDdzBF-8M2saEw63TafYodXTnrVhLpxARw-GALu2XCowiuSOARTXAwIdlQ9qGlEL_SncTKl7r9Pts1TSFqmeggK-rEbl9Lu0UB6347ZIHE70cdV9YT7P1rLCDtdp0pP8-y6Nz8EgG7QTnb_VQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 کدهای دستوری برای استعلام امور اقتصادی خانوار
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/akhbarefori/683373" target="_blank">📅 19:08 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/akhbarefori/683373" target="_blank">📅 19:08 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683372">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ag4YVmZYZzXoDHMbzs3kpGcXosVRryINXZPpX904J-GrAeXVQHsJrDqjcP3nPCF_XO6TuOrrY_6cfx2aD225i8ssk2h4c7mGpvCz66X4MUKI_LPtRmCE7F_ovu5DoEwAq6YjEUuYzpEeADQUEv80pOWz_eI4IyRxrornDDsMn5EJKyXz6UEpChL55Qkjxw2fbNCb_5WF0QSwS94c1STOlZxMtkdiZcAJ4xuB5fM9mif4NbNrT2GxMWc7-Ypwr6dnKOHj1iWrUxMDgTCsTv5_zSkXsi4bPFXsfPO80aVAVMXIDrK8FXShcSi9UfGKwvsc6HPpAmb_Y80wDwqVuAVA2Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 منابع غربی مدعی عبور ده‌ها نفتکش‌ و میلیون‌ها بشکه نفت از تنگه هرمز شدند  ادعای باراک راوید خبرنگار اکسیوس:
 🔹
 جمعه شب حدود ۴۰ نفتکش از طریق کانال عمیق جنوبی تنگه هرمز به آن وارد و از آن خارج شدند. سه مقام آمریکایی به من گفتند که جمعه شب حدود ۱۶ میلیون بشکه…</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/akhbarefori/683372" target="_blank">📅 19:01 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/akhbarefori/683372" target="_blank">📅 19:01 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683371">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gbHp2jTK3OcJ5ywi1XJ5tOIWnC9rYLIJPr9Vm4Ur4tQeZNojlgwcDivZr6PhWLVvQdiri-2G71sW4G_OcPF2YZJ4dM-lFYvVV_rfWdKe-tN2eQUiXIQ85H01bVqnRcjdjZkeecUYI8xqBRs0LlXWbtumemEP-_TndEHgeURAu36UC-NGaH0U25qniu_X57Afxhk-2n4gO12k7ycakZguK9K4h6nKO48lSKxr6PL3VS4pvcRcA9fAomx-IbFqVhZlN3nrxzEeYARdX0VP4f6IyKOau2VGXS_RcLFfJa6yOdoOmjKcTZ956KBwUEtZGUvF8GxZHKAUgn81dDo1u6HN2A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 سرپرست وزارت دفاع: میدان جای خوبی برای آزمون سامانه‌های جدید خواهد بود
@@ -1551,21 +1706,21 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/akhbarefori/683371" target="_blank">📅 18:54 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/akhbarefori/683371" target="_blank">📅 18:54 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683370">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">♦️
 نایب‌رئیس شورای سیاسی حزب‌الله: انصارالله آماده است در صورت محاصره حزب‌الله و لبنان، باب‌المندب را ببندد و «کلید» این تنگه را در اختیار مقاومت قرار دهد
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/akhbarefori/683370" target="_blank">📅 18:41 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30K · <a href="https://t.me/akhbarefori/683370" target="_blank">📅 18:41 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683369">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9de26de11a.mp4?token=CTwtaf6tUayBxHJl5pjQx3gCE8zTMtvFX7CrDH1i395t4dPrVFzdQwyFpuLgoFefvH4DIMguATno8XPvNEsPQPZXHROhCI7cRfCGu0LdMI6ZGZpWHnvE7gn1wuvZBZDPfztFq8CgMYHebSESgS5JRx3yRKNuxcUs4lXAQeGLoGOV95oEAq0xu-lJqFqIhMJxbgmSe5Ne90W-59XNNGr-onxji4H4OqeC7kcjxtrNLPnkER8Du9CULH8LpyXIuHIWaK1MPVWkKPUkpfGMLWmIbf-p_qjhX1y629XhHwwQq44LLxYFuWpA72RHpe7fBsfUyoKel05oP1jrYYvCm1T7DQ" type="video/mp4">
@@ -1579,11 +1734,11 @@ Link</div>
 در فضای مجازی
 👇
 @akhbare_hormozgan</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/akhbarefori/683369" target="_blank">📅 18:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/akhbarefori/683369" target="_blank">📅 18:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683368">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">♦️
 نخستین تصاویر از پشت صحنه تمرین «سیاوش»
 🔹
@@ -1597,20 +1752,20 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/akhbarefori/683368" target="_blank">📅 18:35 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/akhbarefori/683368" target="_blank">📅 18:35 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683367">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">♦️
 ادعای سی‌ان‌ان: عبورهای شبانه و «چراغ‌ خاموش» از تنگه هرمز با اسکورت
 🔹
 شرکت‌های نفتی عربستان، کویت، قطر و امارات، فرستنده‌های نفتکش‌ها را خاموش و نفت را از تنگه به دریای عمان منتقل می‌کنند؛ آنجا نفت خام خود را به نفتکش‌های مشتریان تحویل می‌دهند./ انتخاب…</div>
-<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/akhbarefori/683367" target="_blank">📅 18:28 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/akhbarefori/683367" target="_blank">📅 18:28 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683366">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t7ADejpwpCjK6ys_UJjmUXtoWRYOoK5POdvN4-x4XZ0SJqzMWsLIyGPeVq1EnVm_CVQrJE7fleu5Jt1V6ISH5G_iDJWucE72I_fJJkMAMV7nlHsw4CdBCGoPFuQPuAsZ7YxqscTplv9sOghteRoI7y8mR6ujPKd-pFafUrYNwsXBz7vD8AF6X9sRsiub9kHEv5COo2xkq3erIcS0_4pct8pA6bQowYXf3OH0pkCxoTpIQqMC67rP9OLLBuS6eaMrFNV5vU5C3Zu_XHXZGB0JS10hycoSvWP4eaCgIyDHEGet7h1PnjI4qHcNA1MMrc10EaV2yIF3jiN_JxLfPfnANg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 عملیات ناکام در قلب نیویورک؛ زنی که می‌خواست کنگره آمریکا را منفجر کند | جسیکا بویی کیست؟
@@ -1619,11 +1774,11 @@ Link</div>
 در خبرفوری بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3239506</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/akhbarefori/683366" target="_blank">📅 18:25 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/akhbarefori/683366" target="_blank">📅 18:25 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683365">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/15d39b2e72.mp4?token=VYBkvEnDh7UecO6ozAFhzEE0cxB8fdocmzW3E_-c5xBLMHjw8ZkHXhnjdMxscfL2yVkuALgOf41sIvThHWaOz37bL_Idq6lKhivJk-Y2MBfNGpYPGR-8i_yzkizeCtURGB2L_UuFP2Xodsj4TwVZUZ1ojSb9jG0ClGY2QVihGsR2FuKznrx3QdEi-aBXV8ddB7yPQvQ8KSQrCoTlpgTSgXvATRSz4AO6PW8bC1vvWSmA9vTagMhpXGyteI1Mnav30JsWS9d0-OIrh6S9-s47ieaJIroyS_BvKp3HCBCTh3LirMQ7kRt7Iu5QlWRO2n3mFWvLdCOQOurd72iZvO2YGg" type="video/mp4">
@@ -1642,11 +1797,11 @@ khabarfoori.com/fa/tiny/news-3239506</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/akhbarefori/683365" target="_blank">📅 18:18 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/akhbarefori/683365" target="_blank">📅 18:18 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683364">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-text">♦️
 ادعای سی‌ان‌ان: عبورهای شبانه و «چراغ‌ خاموش» از تنگه هرمز با اسکورت
 🔹
@@ -1654,11 +1809,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/akhbarefori/683364" target="_blank">📅 18:16 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/akhbarefori/683364" target="_blank">📅 18:16 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683363">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTV فوری</strong></div>
 <div class="tg-text">♦️
 رییس مرکز امور زنان و خانواده وزارت کشور: بعضی‌ها تصور می‌کنند زنان واجب نیست سرکار بروند ولی امروز اگر زنان در کنار مردان کار نکنند، نمی‌توانند هزینه زندگی را تامین کنند
@@ -1671,11 +1826,11 @@ Link</div>
 اوایل انقلاب همه وزارتخانه‌ها و کارخانه‌ها موظف شدند مهدکودک داشته باشند، اما دولت آقای احمدی‌نژاد مهدکودک‌ها را جمع کرد.
 #فوکوس
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/akhbarefori/683363" target="_blank">📅 18:12 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/akhbarefori/683363" target="_blank">📅 18:12 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683358">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/NLUSK6Ol7MJOlc90JBR1w1PfxUKO8h2-OUEMVKyGbuca3Ip3KsCBYvsR2iSGtmNOVyrp9vG2DDZ08uUoxprWY7bMDdYDs_m-GFAIyAyMNIS1ooNl0lShQR-2eud_Fl-DRCKE7J6fDjghJ8i2XUYjaKA-0YZjP4FNFz5kCaEx5nNZIu7uAUC3l5ZOOjSyeGKl-osQSqR3GIymsD3nbLfQWOk04T_59_J3fwu0Tx9tSa-AqyFN950UpBeVTgzWGeOJ-BHQQh6F4MoGSSZWHdUTneuJG_iHy_ZRu1X2a6E314jce6mrzklQzx0IXqZWHSGZFzD6x3ERjbZr0e5lqD8LZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/LsVDxJLlUUoqr7J2OcQPLmGwkDd6Ogjt5vqSKQnWFPm1HIBqlSR3Q0oBDJcFrrnBsLZJv_c9FKPRctomIpl4WC74OJpPOPbHFUD_IpkQyMwTvHEWaPtaobhIl8W3vMpfL0Z57PX0NcvrVYSO8lcYXfIYneUM2BuwMLau3zcOMy6FjMEzCB50k0y4gxV1dym6odZgNh6Dql4zxjN-m30N17hRALnCx2VVpnO0lxFlSdMNLg1valaOjLwVWkqN8f3-O55hK0tkLWT3iSiSidshhsyZ4PFu82KLEi-Af_ZDU06xEfQyYaz2Ie-yS4GJrCj4IpJc1LNIHlTS2Ss_tI_AaA.jpg" alt="photo" loading="lazy"/></div>
@@ -1690,11 +1845,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/akhbarefori/683358" target="_blank">📅 18:06 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/akhbarefori/683358" target="_blank">📅 18:06 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683356">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BPbh6lGCk0YKWLQ-0fd8IJGU1fN1cnhb2h9l0lnXlNk-ourudqA4izdP04eXNBarMac6V33voh3Zyv3OaUXRN2UizaIjieMIlt3S1WT5wYQzNaCsqp4UTPkrC3z3Ni-aySY6BG6xpf2GG8-98_5zuhwWCrSYbnePnvjV5QJ5hTW7zmAuZbsgYogS2fEJrjOQzjTdb7Gw_XI-HDE-BXRTfCMvxNjgk98eMmb5Fa-r1TCPhCG__zGgo0gNsl87ZXW-9VOKcHjKRGl8FxOZGtianxlkRWUC5C12WH9Y789tD__KjpoXjWMiKAmIKLLccKG-FC4lIjyZqZqp9zEmkp1w5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 قرارداد بازسازی نیروگاه‌های فجر انرژی خلیج فارس با مشارکت مپنا به امضا رسید؛ تأکید بر تسریع بازسازی با رعایت الزامات فنی و نظارتی
@@ -1710,11 +1865,11 @@ https://fepg.ir/fa/news/1135/
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 27K · <a href="https://t.me/akhbarefori/683356" target="_blank">📅 18:04 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/akhbarefori/683356" target="_blank">📅 18:04 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683355">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/6d10c8f321.mp4?token=ekDUhh4RKRFyosAGAfs4Gf5jPR1ia-2TOlKOAgPVwSyfQx9oSjoFFuPyUKQ1Mgb2cXfS3Fjf7_puuMv23LGLyNR6xSqk9hja5A1ESrV-NtesdJAoaN69Xg8CQ193LYZYulwZRic_xaDV1Csl8opkilwmG3_MjNaVRZw_8MW-VvOofby4E-ODceUaRJ3FLLrVwbCqWFH8PIrEEUVKCCEeWQwkhzXCM1QBjBdFVouGhBY4Iim571PAXl2wbvUtcxTR_ope9CIClhd3AB8-YMbjFxrMLCidQ8GoOqu_RnoXzENLykIPIhu-LQ43V4b9D88lHQKrqUTqahCNjBGZk67EJQ" type="video/mp4">
@@ -1729,11 +1884,11 @@ https://fepg.ir/fa/news/1135/
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/akhbarefori/683355" target="_blank">📅 17:57 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/akhbarefori/683355" target="_blank">📅 17:57 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683353">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b04a66453f.mp4?token=Um3vmq2xpwFTprgw-7gvu9Xt-W87W0kHgvzEDJkfYlFqCstzekRuWbubK5mOUvyZtTFt37thMpnVtndqYMfbcZFHHiRZM7FBvImfpylonIodXLdH9Le2QRAWhpw3m81YTYbSaJ4FYNk1J3TnIqzXda6FqiVZ66bc0jdhA2GDNJot_wWcjRzy6Rqah2Y11odxGF6iCfOKMjs_I6MnP7xe6tQqc1PcAM5CqjTUYd4p4thLyHyaPwM8AkmVYS_RyLoXEPj1_Egce-RcKaHCGTFTIeFsh4Kkb8q0-G7DiwDrNyGR6zyzNjPPZ1PQOBij9TVwhYw6ygRW_JpALZuj5Fik1Q" type="video/mp4">
@@ -1749,11 +1904,11 @@ Link</div>
 در فضای مجازی
 👇
 @akhbartehran</div>
-<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/akhbarefori/683353" target="_blank">📅 17:35 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/akhbarefori/683353" target="_blank">📅 17:35 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683352">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">♦️
 عجیب اما واقعی؛ سونامی تعرض جنسی در ارتش آمریکا؛ ۲۰۴۹۲ قربانی در یک سال
 🔹
@@ -1763,11 +1918,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/akhbarefori/683352" target="_blank">📅 17:32 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/akhbarefori/683352" target="_blank">📅 17:32 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683351">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KKbcoSpa8QB3-dHB1AEnmHz336FBIVUDSbKCpgnwuTGNHoVQPyDsBblmKep6bzlEHFjIZ0goMJRkgiE_qKoWjrI95Z7uPQnN7SiLMUWZOPUhxPUz1b79A1Me1vxz9GGzOkYEn55FR_pTTXAyOX3hExA1rm1dJyxGWIkncZPEoN-6CglC9G_CoM7iXvYY1N9xcTK0qLDYU5tLSerqasHQe-pAitNMft7_y8w3fW3WkmNtQqsPp1sMwVDhfOZ536IzsCmRvGLKKtQKXLFXaUjHuYlfRBjHyBWcqtI0hzeWaVH4nlntS779YW2y8kHNoSUc4pZYV3m_mMkfPPqQeW2rMA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 قیمت خودروی محمدرضا گلزار چقدر است؟ | رژه میلیاردی از میان صفِ گوشت
@@ -1776,202 +1931,7 @@ Link</div>
 گزارش خبرفوری را اینجا بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3239571</div>
-<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/akhbarefori/683351" target="_blank">📅 17:30 · 31 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-683350">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/4c60d36b56.mp4?token=OASRF0C1C3ChufIWsVFFPiEZM4PL5C2QsLw7inYd0MRyYOHPF-BGNLC2b_D32QpACuLr87IBT862KRyZn2eDUcDNXAaFOtu1h4OOGPhVuPGqgtAx-Q-bm5NVXN_uUtdesmhHYQp2_W3JoJK8kzJBaIpEQjukzuZLj2bPBUxaBHXNAT8PdKEBjjoY15vT1GL5WCZ7uuUJ94bE-Gg3qw1PPobaaVA091LKHPS3_tyGuZexVQLWHvgehMBzw0fHMtaCkOFZkMvq9mV97lV6dg3tDNhlKF32luk0eyYK1g9PR4uRic_K8v3szt-pYwLWhgI25CEJKXEXRLVLy04mBAk_hw" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/4c60d36b56.mp4?token=OASRF0C1C3ChufIWsVFFPiEZM4PL5C2QsLw7inYd0MRyYOHPF-BGNLC2b_D32QpACuLr87IBT862KRyZn2eDUcDNXAaFOtu1h4OOGPhVuPGqgtAx-Q-bm5NVXN_uUtdesmhHYQp2_W3JoJK8kzJBaIpEQjukzuZLj2bPBUxaBHXNAT8PdKEBjjoY15vT1GL5WCZ7uuUJ94bE-Gg3qw1PPobaaVA091LKHPS3_tyGuZexVQLWHvgehMBzw0fHMtaCkOFZkMvq9mV97lV6dg3tDNhlKF32luk0eyYK1g9PR4uRic_K8v3szt-pYwLWhgI25CEJKXEXRLVLy04mBAk_hw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-وقوع یک انفجار در پالایشگاه دارمان کردستان عراق
-🔹
-جزئیات بیشتری از علت حادثه و میزان خسارات یا تلفات احتمالی منتشر نشده است.
-🇮🇷
-✊
-@AkhbareFori
-|
-Link</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/akhbarefori/683350" target="_blank">📅 17:28 · 31 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-683349">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Tb9Epj8HgReRzV8gv3FGPAP467o43-BPXT3HkaFDLODIHnV8SKzHrTBOgiGWQSaG1BUxpXhRU6UtZ1JcmryIebCSIf1o9ITv--L9AgB4hDypk0AxgEUJZyd4Ar4lMgpS5vhMIYfjez4CxvogtXc24stP9hHU_LmVSs_ltpDySFPXvBTvPH8qP6YaCKylqpIk41oj4lD2pDflU0MNOWhkGZSvHs0_9I0J6FZe_1LYnt0mXUY_h2gFPxy4Qsm2zsTZbxVK_pFkMMu5vseHSElY4BtyllglwlM0wotK1hB9FC5jzc1QLiM4GT5yUqclZukrzZRNL_kWCzmQh0oZplO8CA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">ست مردانه نیم زیپ و شلوار مدل EA7
-👕
-🔥
-یک ست اسپرت و خوش‌استایل برای استفاده روزمره که با جنس پلی‌استر، سبک و راحت بوده و برای فعالیت‌های مختلف انتخاب مناسبیه.
-✅
-جنس: پلی‌استر
-✅
-مدل: نیم زیپ + شلوار
-✅
-سایز: فری‌سایز، مناسب L و XL
-✅
-قد لباس: ۷۲ | عرض سینه: ۵۰ | قد آستین: ۶۰ سانتی‌متر
-✅
-قد شلوار: ۱۰۰ | فاق: ۳۲ سانتی‌متر
-👌
-انتخابی راحت و شیک برای استایل اسپرت روزمره
-🔴
-قیمت 1,198,000 تومان
-✅
-پرداخت درب منزل
-ضمانت تعویض سه روزه کالا
-خرید از سایت
-👇
-https://memarket24.ir/product/brief/59419/180124/</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/akhbarefori/683349" target="_blank">📅 17:27 · 31 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-683348">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cvq1Bwail79mW6_yFwZr7J7CjkjYAMWVrvkKRozr3Hqj7QqrIiiUqEOJejkNSJu6jy-RmyQ5LjQ2L7EzMlLOcjbhfnjiU2J5RlLMlAjvVZNUtGYI4dfcNSH2B-m0F-bdOLPsC6UInv0eiwc9CI26zOZi6rlnULSm-VEDX_H_n1lRJcY9RB9SFAaRpgS55g2NhohcmXcvS2chgrxFNTX386FuGVEvNOAjfdK7o7az73rfzTiJlUaspfhGqKaGBNzGkugnUhqheAcRPFZ5xH8B5BKwrNaT6pp_fdHU2PKjlBnubE_ZA6ppn5GD9iD-36glvDlFl_4gwKqkhVPAQjMdsw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">♦️
-تصویری کمتر دیده شده از رهبر معظم انقلاب
-🇮🇷
-✊
-@AkhbareFori
-|
-Link</div>
-<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/akhbarefori/683348" target="_blank">📅 17:26 · 31 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-683346">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromآمارفکت</strong></div>
-<div class="tg-poll">
-<h4>📊 در انتخاب پزشک، کدام عامل برای شما مهم‌تر است؟</h4>
-<ul>
-<li>✓ تخصص پزشک</li>
-<li>✓ توصیه دوستان و خانواده</li>
-<li>✓ نظرات کاربران در اینترنت</li>
-<li>✓ هزینه ویزیت</li>
-<li>✓ نزدیکی محل مطب</li>
-</ul>
-</div>
-<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/akhbarefori/683346" target="_blank">📅 17:10 · 31 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-683345">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-text">♦️
-#چند_خبر_کوتاه
-🔹
-وزارت کشاورزی: برای برخی صنایع لبنی به‌ دلیل افزایش چندباره قیمت‌ها پرونده تشکیل شده است.
-🔹
-مدیرعامل شرکت توانیر: پیش‌بینی‌های هواشناسی مبنی بر استمرار شرایط پایداری دمایی تا نیمه شهریورماه است
-🔹
-منابع خبری از حملات هوایی و توپخانه‌ای رژیم صهیونیستی به جنوب لبنان خبر دادند.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/akhbarefori/683345" target="_blank">📅 17:03 · 31 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-683343">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TqRYmGl94sQiIFvsfo8XQVg1AeQX8mK-HQAlDrEW-FNPlJutTg2ZhQo5ekcpIug_PoAAU__N3ERqdOb0T-qvp1AZDLe0hV1DPudo6b1kKgrXcgwbl90CVOP9xrxanMHwsAckilqsFxAyyYLWPJD0tCVpodiMX2ep7LaFy1adW8pcLPC49ToPqfyvS9i9pMeCKyzc1EoCbslOnl8CsttzzxEUuopn41e1dkRgrU5NIEfxFRbnVySpEGIxs4NDAVo-gAo1aNbebJPadaiD7A0JG9iBUyFY6mhpw-w8kMoYQfglJf8k4_uEM7mF1ndOngN1zZmO1AEjczkUbdDCoRfsjQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">♦️
-۳ دسر خوشمزه با بیسکوییت پتی‌بور
-🍰
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/akhbarefori/683343" target="_blank">📅 16:43 · 31 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-683342">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-text">♦️
-دور جدید ثبت‌نام خودروهای وارداتی از فردا
-سامانه جامع عرضه خودروهای وارداتی:
-🔹
-دور جدید ثبت‌نام برای خرید چهار خودرو از فردا (اول شهریور) آغاز خواهد شد. متقاضیان تا روز چهارشنبه (چهارم شهریور) فرصت دارند یکی از حساب‌های خود نزد شعب بانک‌های واجد شرایط اعلامی را به مبلغ ۵۰۰ میلیون تومان مسدود کنند.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/akhbarefori/683342" target="_blank">📅 16:36 · 31 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-683341">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/egFNYLxmM7reSijOFukqvNRNo_4V6znV0ar5EywgFrVQUXHRzeeXlXedCqNkutWjqTXOzInUuUS_sY0LOw2mZkT_pvsErlzNKw8w77nV2M3QquQnLwPv5zZDD_MB3dSMtf5pzQFm3Klp9w_ik4WglmiE5Hker_mx5ayUWjYDiRzYPGejHjuELjI1rrrz6yz7ghVrj8wyeiS8SYcgpz055z8jUgTu6v-IwFzvdOkvQ_VzO_MxlMc4EcW8wwMgagrje81y6rX-zI7FsSSDxEHD4uM8wK-hzjix0U8tr3agxp8G2gA_w1bw6HZPn0qF3b5EnvUhRnpRlZuc5yWoLqh5LA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">♦️
-فرمانده کل سپاه پاسداران با ارسال تقدیرنامه‌ای به رئیس سازمان صداوسیما، با اشاره به اهمیت روایت صادقانه و هوشمندانه از واقعیت‌های میدان در کنار حماسه‌آفرینی‌های رزمندگان، از تلاش‌های مدیران و کارکنان رسانه ملی در پاسداری از حقیقت و تقویت جبهه انقلاب اسلامی قدردانی کرد.
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/akhbarefori/683341" target="_blank">📅 16:30 · 31 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-683340">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/c7c8514529.mp4?token=qlh17eGXUMr1qDFfEWoE2TTHdRywAXZ6jy6g9hQCFrj_3E8S6EDJeHP0YZomWjaEnWi4z8nXRplZdBZbdC2lbPjGwq_kGZA8j90u-PI_ciD3YyK1QHKndcH-Robd-unFHUNjiFusSZ0d0jBJJaSlhUyGEFhf2EyFcgi-dckIP-nmm-Afe5O2fTGJ7ABLzRSvSLH_CmfZmfnCJOn6Pz3Kai27F82WZRAVgYs3t_gGzvZN2p8YTlb--YYpREZxnp9o4uZF3v49FZEPB_BN7EUKvUSTeycxsDKcIoWK-rqzWASpke4PD_Q539BteSOKw-SXurdcN9RMESGNfFQvGMHh7g" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/c7c8514529.mp4?token=qlh17eGXUMr1qDFfEWoE2TTHdRywAXZ6jy6g9hQCFrj_3E8S6EDJeHP0YZomWjaEnWi4z8nXRplZdBZbdC2lbPjGwq_kGZA8j90u-PI_ciD3YyK1QHKndcH-Robd-unFHUNjiFusSZ0d0jBJJaSlhUyGEFhf2EyFcgi-dckIP-nmm-Afe5O2fTGJ7ABLzRSvSLH_CmfZmfnCJOn6Pz3Kai27F82WZRAVgYs3t_gGzvZN2p8YTlb--YYpREZxnp9o4uZF3v49FZEPB_BN7EUKvUSTeycxsDKcIoWK-rqzWASpke4PD_Q539BteSOKw-SXurdcN9RMESGNfFQvGMHh7g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-تصاویری از مخازن سوخت ابوظبی؛ امارات برای حفاظت از مخازن سوخت در برابر پهپادهای ایرانی به حصارهای فلزی بزرگ متوسل شده است
-🇮🇷
-✊
-@AkhbareFori
-|
-Link</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/akhbarefori/683340" target="_blank">📅 16:20 · 31 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-683339">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromهیئت قرار</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/deXwgvHxXbqg7-bplJlWL9IT2K-dOvLyj5LqdLLidmAKZvW-oxoHXZ-H9SkfmWPxNIGbh0_HPMR3lGV0I3VhGYBLULAYcqlBK0fNTb7Y-nta5nayUG5bo7oQc3fOa1wHYWsdbzH4zaRJ2AT1xFCTbn6HLjtH1gajWMBQPzR7SUBR38jiDGriARKKgDjJ4AegsZYmgf0rDjyjZznr6WMQg_sBAFP74m9FQElDeoCb8RfNz0cxstaSOnh6wokyINtycrJZAvcHuv9WPMgX1_JZNw7VU6zFqYi_GtpybAYccChdvcMhglGzHvGnkxXGzeIoJpItkmRWf8OOxezr6ZLjNQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">✨
-مراسم تجدید بیعت با امام زمان (عج)
-✨
-🤍
-به مناسبت سالروز آغاز امامت حضرت ولی‌عصر (عج)، در اجتماع بزرگ «مراسم تجدید بیعت با امام زمان (عج) و رهبر معظم انقلاب اسلامی»
-▫️
-با کلام: حجت‌الاسلام و المسلمین حیدری کاشانی و علی‌اکبر رائفی‌پور
-▫️
-با شعر خوانی : احمد بابایی
-▫️
-با حضور:  سرکار خانم الهام چرخنده
-و حسین حقیقی
-▫️
-با اجرای : امیر مهدی باقری
-📍
-وعده ما: شنبه ۳۱ مردادماه، ساعت ۲۰
-میدان شهدا، مشهد مقدس
-🤍
-بیایید در این شب عهد و انتظار، دست در دست هم، بیعتی دوباره با امام زمان (عج) کنیم...
-@Heyate_gharar</div>
-<div class="tg-footer">👁️ 33K · <a href="https://t.me/akhbarefori/683339" target="_blank">📅 16:17 · 31 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-683336">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTV فوری</strong></div>
-<div class="tg-text">♦️
-رییس مرکز امور زنان و خانواده وزارت کشور: دختران جوان می‌گفتند شما کار و اشتغال ما را درست کنید، حجاب اصلا مسئله ما نیست
-پروین داد اندیش، مشاور وزیر و رییس مرکز امور زنان و خانواده وزارت کشور در
-#گفتگو
-با خبرفوری:
-🔹
-در بحث حجاب ما با برخوردهای نادرستی که کردیم، زنان را به این مرحله رساندیم.
-🔹
-برنامه ریزی اشتغال ما مسائل و مطالبات زنان  را اصولی نگاه نکرده است و همیشه در حاشیه به اشتغال کلان پیوست زده است.
-#فوکوس
-@Tv_Fori</div>
-<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/akhbarefori/683336" target="_blank">📅 16:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/akhbarefori/683351" target="_blank">📅 17:30 · 31 Mordad 1405</a></div>
 </div>
 
 <hr>
