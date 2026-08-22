@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 12:48:11</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 13:18:42</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -535,7 +535,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
@@ -550,7 +550,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -832,7 +832,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2527">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XWMzO5pLYM0xnyR_SWHVHoxwvFCSN4kklPxpvzeNOX8J-Wj9I7DzJx-NZ22FUtL9PsVVnu2etKsLnFCMtomjWz__lZGy4n0O3bTedbfOgD9zEdKV7R-PvA4YtltKoBw9IHkQO0zWpkZq6_pF-dMlPqfKmjNhuS2cJhbqu0kYdyHonsWYU17KnPuXiwrBooeA5f1MUQ8SPkGbNvl3YAFcu1lpl25gbVrlXwJcuB8ZmWyQCFC63UI8slpfYKzvH8Yqw3T6r5cB1w3jY2Q6LMS2g1plYA1ioi2tC65NF_pviRUWqb-PNkfGpum9WeqzvZ7Yr9tHYYiBdB4Yq233I4m4mg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iAH7ipyZfTwNfNKKV_Src4cBAydnBW8xp9L6rd4zBe3vUb4zyxE_lUZGyZX9UmVSwImjnQ7zn0yQi7YL_AbEuwy7qOnkESkW6umlJ2UVY1xhF0o0qLp80CqF9BkSy0b4rHDlTbd7bk8u0NFWhsa-2Cv7r1sggnti_GvTppKnWUohNN4nGs4pZTh3hZvFLCwHSGPtpP74pVDLEJNU0cZe1tu0srSqLFwNftr1oUou1RJVk4bGBgnc6oyIpPxeK-oGxSpqFL5_34ef1-ZcKy29vKzcSa-1oQ75uwyX8_AE9KwEH7jTOt0MkMepycn3Mv0d8q24aMuhlc9HbxjACHI9hw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نسخه جدید از فیلترشکن بگذر برای اندروید در گوگل‌پلی قرار گرفت. همینطور می‌تونین نسخه ویندوز اون رو از صفحه گیت‌هاب و نسخه آیفون رو از تست‌فلایت دریافت کنین.
 در این‌آپدیت هسته ایکس‌ری به جدیدترین نسخه بروزرسانی شده و روی افزایش پایداری اتصال، بهبود عملکرد کلی و افزایش سرعت برنامه کار کردن.
 👉
