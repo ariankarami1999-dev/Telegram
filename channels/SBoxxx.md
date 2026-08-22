@@ -292,13 +292,13 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 07:32:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 08:26:47</div>
 <hr>
 
 <div class="tg-post" id="msg-20093">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">ترامپ:  آیا تا به حال کمونیست شاد دیده‌اید؟  آیا تا به حال دیده‌اید که یک کمونیست بخندد؟ من هرگز چنین چیزی ندیده‌ام. من با کمونیست‌ها آشنا بوده‌ام. آن‌ها افراد بسیار ناراحتی هستند.  ما می‌خواهیم شاد باشیم!</div>
-<div class="tg-footer">👁️ 1.47K · <a href="https://t.me/SBoxxx/20093" target="_blank">📅 03:34 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.01K · <a href="https://t.me/SBoxxx/20093" target="_blank">📅 03:34 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20092">
@@ -307,25 +307,25 @@
 آیا تا به حال کمونیست شاد دیده‌اید؟
 آیا تا به حال دیده‌اید که یک کمونیست بخندد؟ من هرگز چنین چیزی ندیده‌ام. من با کمونیست‌ها آشنا بوده‌ام. آن‌ها افراد بسیار ناراحتی هستند.
 ما می‌خواهیم شاد باشیم!</div>
-<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/SBoxxx/20092" target="_blank">📅 03:24 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/SBoxxx/20092" target="_blank">📅 03:24 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20091">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">سفیر ایالات متحده در ترکیه، تام باراک:  اسرائیل هنوز جولان را در اشغال خود دارد، برخلاف قطعنامه‌های سازمان ملل، برخلاف کل نظم بین‌المللی که جولان را متعلق به سوریه می‌داند.</div>
-<div class="tg-footer">👁️ 1.54K · <a href="https://t.me/SBoxxx/20091" target="_blank">📅 03:09 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/SBoxxx/20091" target="_blank">📅 03:09 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20090">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">سفرای ترامپ مثل خودش متناقض حرف می زنند.  سفیر ترامپ در ترکیه یعنی تام باراک از اسرائیل شدیداً انتقاد کرده بود اما سفیر او در اسرائیل اینطوری قضیه را ماست مالی می کند.</div>
-<div class="tg-footer">👁️ 1.55K · <a href="https://t.me/SBoxxx/20090" target="_blank">📅 03:08 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.04K · <a href="https://t.me/SBoxxx/20090" target="_blank">📅 03:08 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20089">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">سفرای ترامپ مثل خودش متناقض حرف می زنند.  سفیر ترامپ در ترکیه یعنی تام باراک از اسرائیل شدیداً انتقاد کرده بود اما سفیر او در اسرائیل اینطوری قضیه را ماست مالی می کند.</div>
-<div class="tg-footer">👁️ 1.59K · <a href="https://t.me/SBoxxx/20089" target="_blank">📅 03:04 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.11K · <a href="https://t.me/SBoxxx/20089" target="_blank">📅 03:04 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20088">
@@ -333,21 +333,21 @@
 <div class="tg-text">ترامپ درباره ایران:
 نمی‌دانم با چه کسی در ایران مذاکره کنم. این واقعاً یکی از بزرگ‌ترین مشکلات من است.
 هیچ‌کس نمی‌خواهد رئیس‌جمهور ایران باشد. می‌گویند: «چه کسی می‌خواهد رئیس‌جمهور باشد؟» «نه، نه، من نمی‌خواهم رئیس‌جمهور باشم.»</div>
-<div class="tg-footer">👁️ 1.57K · <a href="https://t.me/SBoxxx/20088" target="_blank">📅 03:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/SBoxxx/20088" target="_blank">📅 03:00 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20087">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">گزارشگر: با توجه به اینکه ایران به سمت جنگ اقتصادی پیش می‌رود، آیا این بدان معناست که گزینه‌های نظامی برای ایالات متحده محدود شده است؟
 ترامپ: خیر، اصلاً.</div>
-<div class="tg-footer">👁️ 2.77K · <a href="https://t.me/SBoxxx/20087" target="_blank">📅 00:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.11K · <a href="https://t.me/SBoxxx/20087" target="_blank">📅 00:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20086">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">روسیه برای اولین بار در بیش از یک دهه، هیچ کشتی جنگی در مدیترانه ندارد، زیرا مسکو کشتی‌ها را برای محافظت از تانکرهای نفتی تحریم‌شده از دستگیری توسط ناتو منحرف کرده است.
 منبع: تلگراف</div>
-<div class="tg-footer">👁️ 3.96K · <a href="https://t.me/SBoxxx/20086" target="_blank">📅 21:10 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/SBoxxx/20086" target="_blank">📅 21:10 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20085">
@@ -355,19 +355,19 @@
 <div class="tg-text">نماینده مجلس  ابراهیم عزیزی:
 آمریکایی‌ها ثابت کرده‌اند که زبان دیپلماسی را درک نمی‌کنند، بنابراین نه تحریم‌ها را برمی‌دارند، نه منابع را آزاد می‌کنند و نه به دزدی دریایی در دریاها پایان می‌دهند.
 اما تاریخ نشان خواهد داد که با زبان قدرت، نه تنها به این اقدامات مجبور خواهند شد، بلکه منطقه را با عذرخواهی از ملت بزرگ ایران ترک خواهند کرد.</div>
-<div class="tg-footer">👁️ 4.18K · <a href="https://t.me/SBoxxx/20085" target="_blank">📅 19:42 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SBoxxx/20085" target="_blank">📅 19:42 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20084">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">افزایش تنش ها میان اسرائیل  و ترکیه    دولت ترکیه حکم بازداشت نتانیاهو را صادر کرد.  دولت ترکیه درخواست صدور اعلان قرمز اینترپل را برای بنیامین نتانیاهو  به دلیل جرایم علیه فعالان ناوگان جهانی "صمود"، از جمله جنایات علیه بشریت و نسل‌کشی، صادر کرده است.</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/20084" target="_blank">📅 18:10 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/20084" target="_blank">📅 18:10 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20083">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">اظهارات  هاکابی، سفیر آمریکا در اسرائیل، درباره حملات اسرائیل به سوریه:  به نظر من این کار عمدی نبود. اگر به آنچه واقعاً اتفاق افتاد نگاه کنید، تعدادی از مهمات در یک فرودگاه قرار داده شدند. هیچ تلفاتی نداشت.  به نظر من، این بیشتر یک هشدار بود تا تلاشی برای…</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/20083" target="_blank">📅 16:30 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/20083" target="_blank">📅 16:30 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20082">
@@ -375,25 +375,25 @@
 <div class="tg-text">اظهارات  هاکابی، سفیر آمریکا در اسرائیل، درباره حملات اسرائیل به سوریه:
 به نظر من این کار عمدی نبود. اگر به آنچه واقعاً اتفاق افتاد نگاه کنید، تعدادی از مهمات در یک فرودگاه قرار داده شدند. هیچ تلفاتی نداشت.
 به نظر من، این بیشتر یک هشدار بود تا تلاشی برای ایجاد تنش.</div>
-<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SBoxxx/20082" target="_blank">📅 16:29 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/20082" target="_blank">📅 16:29 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20081">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">اخبار تاییدنشده از حرکت انبوه نیروهای زرهی و توپخانه ترکیه به سمت سوریه</div>
-<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/20081" target="_blank">📅 16:26 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/20081" target="_blank">📅 16:26 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20080">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">ترکها در ظاهر می گویند اردوغان موفق شده ترامپ را متقاعد کند تا از این طرح جلوگیری کند اما به نظرم این پلن A شان بوده و پلن B شان شامل ورود مستقیم نظامی به ایران همراه باکو برای اشغال شمال غربی ایران بوده که پیشتر اشاره کرده بودم.  در هر صورت، در راند بعدی…</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SBoxxx/20080" target="_blank">📅 16:00 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/SBoxxx/20080" target="_blank">📅 16:00 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20079">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">دولت باغچلی، سیاستمدار ملی‌گرای ترکیه، نسبت به حمله هوایی اسرائیل به پایگاه هوایی در سوریه، هشدار شدیدی صادر کرد:  وقتی ملت ترکیه قیام می‌کند، هیچ نیرویی نمی‌تواند در برابر آن مقاومت کند.  ترکیه، کشوری نیست که در برابر حملات به حقوق حاکمیتی خود، منفعلانه عمل…</div>
-<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/SBoxxx/20079" target="_blank">📅 15:58 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/20079" target="_blank">📅 15:58 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20078">
@@ -410,14 +410,14 @@
 🔹
 همچنین ذخایر نفت ایران روی آب از ۱۰۵ به حدود ۸۰ میلیون بشکه کاهش یافته و پالایشگاه‌های مستقل چین برای تأمین خوراک به دنبال نفت جایگزین از کشورهایی مانند عراق و برزیل هستند.
 @khate_energy</div>
-<div class="tg-footer">👁️ 4.27K · <a href="https://t.me/SBoxxx/20078" target="_blank">📅 14:49 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/20078" target="_blank">📅 14:49 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20077">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QH25n8OHJLWI9nBCUtLHRdl1TZfIvfi02zYr4JWX0ar2x8QXEfHkVNt1LxIiABOcmI7rNP7N3RbZYb_-gZJP8C8J8TYjMuK4tVyQDZEdwwNqxA4TkA_Zx5teT9hjs_uiMEpoTo4NhcqS4f1bfN-Sb77kjDJWm71UJ8YKryWde-fjhf2uKI5WunPbgB46sco6fIKEOLyPd9bejvZtkNfYuAY3fHu3X4M__WjvlLkwPDsQS3ftZ_FXkEV16vRagDavguLpUs8O2uwevnDbjElbiaeQZzuH4pJcVuAz-d0d1BDS-GCtskxFoSJI9Ql5_U7HD8Z81z4GCaDwQarZey0mKA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اطلاعات استخباراتی اسرائیل حاکی از آن است که ترکیه در حال آماده‌سازی برای ارسال سلاح‌های تهاجمی و دفاعی به سوریه، از جمله سامانه‌های پیشرفته دفاع هوایی، است</div>
-<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/20077" target="_blank">📅 13:41 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SBoxxx/20077" target="_blank">📅 13:41 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20076">
@@ -425,7 +425,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/McmSxAxLIOV4iU3tdTh2OYqO7AaLBBvrgTw1248I_xHBJ1ZhhHcv8Dh6xv4iy6lEH1bQVnJ5r5FwidF93j-WEm2NN16g1HXgjCwp9-1Sp-j5Qc3y3EufroaZknsNbZBH5Cao8aWNEsrI4dzFJP1bFEQwnBRsBDA1CYsSwgfqfgB3tRQo-_o_mCd7lp161XC_Y3FE2-wx3jWMd81GjeBYCdhy725r9XFTfd_YuguqnBueWvjcFwLBKpeqS9p3HFYS4nQPccaRJlW-diaUT8qw7mrr6W2AJeH413N4jnkDDoD43MNmKQAA2wCSe8qzgTzGoInUcM2vWcBZ2fP2h3nyPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک برای امروز در سطح بالایی قرار دارد و پیش بینی می شود طلا یک اصلاح نزولی دستکم در حد 300 الی 500 پیپ داشته باشد.</div>
-<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SBoxxx/20076" target="_blank">📅 13:25 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/20076" target="_blank">📅 13:25 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20075">
@@ -434,26 +434,26 @@
 فقط ۷ کشتی در روز پنجشنبه از تنگه عبور کردند که ۴ کشتی وارد و ۳ کشتی خارج شدند. برخی از این کشتی‌ها از مسیر ایران استفاده کردند، از جمله یک کشتی بزرگ حمل گاز. هیچ کشتی بسیار بزرگ حمل نفت خام (VLCC) در هیچ‌جا دیده نشد.
 ترافیک در تنگه بابرالمندب نیز کند شده است؛ به طوری که تنها ۲۳ کشتی در روز پنجشنبه عبور کردند، در حالی که این عدد در روزهای سه‌شنبه و چهارشنبه ۳۴ کشتی بود.
 این در حالی است که ترامپ و اکسیوس ادعا کرده‌اند که روزانه ده‌ها میلیون بشکه نفت با هدایت ایالات متحده از تنگه عبور کرده و به بازارهای جهانی رسیده است.</div>
-<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/20075" target="_blank">📅 09:12 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/20075" target="_blank">📅 09:12 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20074">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">- یک مقام ارشد ایرانی اظهار داشت که ایران در حال آماده شدن برای آسیب رساندن به ریاست جمهوری ترامپ از طریق جنگ اقتصادی است، با هدف اینکه او در انتخابات میان‌دوره‌ای نوامبر شکست بخورد.</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/SBoxxx/20074" target="_blank">📅 08:56 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/20074" target="_blank">📅 08:56 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20073">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">اطلاعات استخباراتی اسرائیل حاکی از آن است که ترکیه در حال آماده‌سازی برای ارسال سلاح‌های تهاجمی و دفاعی به سوریه، از جمله سامانه‌های پیشرفته دفاع هوایی، است</div>
-<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SBoxxx/20073" target="_blank">📅 01:49 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SBoxxx/20073" target="_blank">📅 01:49 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20072">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t1CQtyg0UJnq7GQajqlQSMtOOjzJoe2BPliGW-eE07bW86urmqOZJaQFBSVs0CUf0_25xrwllDxe4CXsp6b9_wMYuE1Q15DOsPuloE6LKtJr9iXT3s9rTjzkHDOSTKnP5dckukDRtk4OODezUrvkrdcoep62SNjNpgTY5-QDEzyPpe4cGH7I8p_kkY_1CvWdz0bOQwXmLtM9MzSDSkT6IgJNygbnKGM4-E7iLJTs8bZQnoqqltPeyP2QW1e2I3fQIEATWjyaoAmeV--dZ-mBEB5Li-8CNDqxTi-qqcJ7si54CYCfc9tC7OIu57fxyKanqmcDXen55uetvXglF2IuyA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آلن ایر دیپلمات سابق ارشد آمریکایی خطاب به ترامپ</div>
-<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SBoxxx/20072" target="_blank">📅 01:27 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.95K · <a href="https://t.me/SBoxxx/20072" target="_blank">📅 01:27 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20071">
@@ -463,39 +463,39 @@
 این یک تعادل ظریف است، زیرا ما فشار اقتصادی بر آنها وارد می‌کنیم. آنها نیز تلاش خواهند کرد که فشار اقتصادی بر ما وارد کنند.
 اما آنچه در چند هفته گذشته صادق بوده این است که آنها احساس فشار بسیار بیشتری نسبت به آنچه ما تجربه کرده‌ایم، داشته‌اند.
 ما این روند را ادامه خواهیم داد، زیرا معتقدیم که این بهترین راه برای دستیابی نهایی به هدف مورد نظر است.</div>
-<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SBoxxx/20071" target="_blank">📅 00:01 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/20071" target="_blank">📅 00:01 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20070">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">اسکات بسنت وزیر خزانه داری آمریکا درباره ایران: «ما این رژیم را سرنگون خواهیم کرد»</div>
-<div class="tg-footer">👁️ 4.83K · <a href="https://t.me/SBoxxx/20070" target="_blank">📅 23:49 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/20070" target="_blank">📅 23:49 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20069">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GBMt7SR9AnX97Q7SF0SkXqe3imPZGMNHtbn1LYEnLAMdw7MpKhntmy8VwkmVFYOaxEhdh-S5k9kBilLOoGBmkfo1E7xaRSY2MLOigxc4kU37vMPcW-yZDzpYLYQOkRMmU9pdHZ3FY053sKRLtahfcy_Xrv_M5na1zryIqT4PbZQVC5yImMhud3DlqMPfR7V0VpZshxBc3Ft28n6kpZ-3XmubfsHYknnx2pQeGGkEzwiPSULRaglsPm0W6k83Waer5PtMQDQUh0EmNvDijlQSYFQ4iiO9KDEdYIK0bXZ80qgpns60kUvmlaDiugh7nhx6Tk93BZTD0M3JB49xzW_cug.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رئیس مجلس عراق در واکنش به این عکس قالیباف، از خود عکسی منتشر کرد که در پشت سر او، بجای خلیج فارس، نام نجس خلیج عربی نوشته شده!</div>
-<div class="tg-footer">👁️ 5.29K · <a href="https://t.me/SBoxxx/20069" target="_blank">📅 21:26 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SBoxxx/20069" target="_blank">📅 21:26 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20068">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">ایالات متحده آمریکا تحریم‌های جدیدی علیه حزب‌الله اعمال کرد و آن را مجدداً تحت یک قانون مربوط به تروریسم طبقه‌بندی کرد تا بر پیوندهای آن با نیروی قدس سپاه پاسداران انقلاب اسلامی ایران تأکید کند.
 واشنگتن همچنین ۱۰ نفری را که متهم به قاچاق پول نقد برای حزب‌الله هستند، تحریم کرد.</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/20068" target="_blank">📅 21:24 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/20068" target="_blank">📅 21:24 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20067">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">چین می‌گوید تهدید رئیس‌جمهور ترامپ برای آغاز «جنگ اقتصادی» علیه ایران و شرکای تجاری آن کارساز نخواهد بود.</div>
-<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/20067" target="_blank">📅 21:10 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/20067" target="_blank">📅 21:10 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20066">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">اسکات بسنت وزیر خزانه داری آمریکا درباره ایران: «ما این رژیم را سرنگون خواهیم کرد»</div>
-<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/SBoxxx/20066" target="_blank">📅 20:28 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/20066" target="_blank">📅 20:28 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20065">
@@ -508,31 +508,31 @@
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">ضرغامی:
 از اول انقلاب تحریم بودیم ولی کشور رشد کرده، پیرزن رو از تاکسی خالی نترسونین!</div>
-<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/SBoxxx/20063" target="_blank">📅 19:51 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/20063" target="_blank">📅 19:51 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20062">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">اسکات بسنت وزیر خزانه داری آمریکا درباره ایران: «ما این رژیم را سرنگون خواهیم کرد»</div>
-<div class="tg-footer">👁️ 5.28K · <a href="https://t.me/SBoxxx/20062" target="_blank">📅 18:43 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/SBoxxx/20062" target="_blank">📅 18:43 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20061">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">حوثی‌های یمن اعلام کردند که دو حمله پهپادی را علیه فرودگاه ابها و تأسیسات آرامکو در عربستان سعودی انجام داده‌اند.</div>
-<div class="tg-footer">👁️ 4.96K · <a href="https://t.me/SBoxxx/20061" target="_blank">📅 17:48 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SBoxxx/20061" target="_blank">📅 17:48 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20060">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">— مرکز فرماندهی مرکزی آمریکا (CENTCOM) اعلام کرد که گروه ضربتی ناو هواپیمابر یواس‌اس جورج واشینگتن به خاورمیانه رسیده و اکنون در منطقه مسئولیت خود عملیات می‌کند.</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/20060" target="_blank">📅 17:05 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/20060" target="_blank">📅 17:05 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20059">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">رئیس مجلس عراق در واکنش به این عکس قالیباف، از خود عکسی منتشر کرد که در پشت سر او، بجای خلیج فارس، نام نجس خلیج عربی نوشته شده!</div>
-<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/20059" target="_blank">📅 16:42 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SBoxxx/20059" target="_blank">📅 16:42 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20058">
@@ -545,13 +545,13 @@
 <div class="tg-post" id="msg-20057">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">اردوغان: «ترکیه در دامی که نتانیاهو برای سوریه چیده است، نمی‌افتد»</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/20057" target="_blank">📅 15:56 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.63K · <a href="https://t.me/SBoxxx/20057" target="_blank">📅 15:56 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20056">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">اردوغان:  «توافق مکه» علیه هیچ کشوری نیست و تمام دولت‌ها می‌توانند به آن بپیوندند  نباید این توافق را به بعد نظامی محدود کرد، زیرا هدف اصلی آن تقویت بعد بازدارندگی و امنیتی است</div>
-<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/20056" target="_blank">📅 15:55 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/20056" target="_blank">📅 15:55 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20055">
@@ -565,13 +565,13 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Nv92sAWe1U3m049Eha6I7qAjx-spEO_TBlCTYFIpZdGSeClt-BuwEZP3IGCUFjAxOelVyXjxDfkXFZ2kCgYHx6I3Pr7ypPob5Sy2vTkST72f1-0cm3VNO-y87SZBXqFcBcsiXCMZ-voEAukLSxXADPfUlz6lSf9NUNGc7KzYj53T9Nu4fIrgqYXYx31A1IYBGXf9D4RBAzJL43DzNbg6-uDr_4Xn6e3hXJE9dqDbY5_r8B2j1alkw6ndBkhpPoBejuGnPccGC8Q2ZPDUQrefScsTNtkjjZ4ne1fKM-sgWhfdIL1GoGM4defOwjcjuN3fhOVOT80byDBG0sjVMgpUAA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سبحان الله این چه فیگوری است دیگر!
 انسان گمان می کند که نعوذبالله دارند با کله نورانی شان روده بزرگ کشورمان را کلنوسکوپی می کنند!</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/20054" target="_blank">📅 15:25 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.9K · <a href="https://t.me/SBoxxx/20054" target="_blank">📅 15:25 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20053">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">بفرمایید:  ‏ فواد ایزدی: اگر ۲۰درصد نفت دنیا را حذف کنیم؛ اقتصاد آمریکا فرومی‌پاشد!  با این کار نفت ۲۰۰ دلار خواهد شد؛ باید تصمیم بگیریم که تاسیسات نفتی منطقه را طوری موشک باران کنیم که دو سه سال برای بازسازی زمان بگیرد. ‎</div>
-<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/20053" target="_blank">📅 14:15 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/20053" target="_blank">📅 14:15 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20052">
@@ -583,13 +583,13 @@
 <div class="tg-post" id="msg-20051">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">نفت را دریابید پیش از آنکه نفت شما را دریابد!</div>
-<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/20051" target="_blank">📅 14:04 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SBoxxx/20051" target="_blank">📅 14:04 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20050">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">به نظر من جمهوری اسلامی بزودی گزینه آخرالزمانی حمله به چاههای نفت و تاسیسات انرژی منطقه را فعال خواهدکرد که در پی آن نفت به بالای ۱۳۰ دلار و طلا به زیر ۴۰۰۰ دلار خواهندرفت.</div>
-<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/20050" target="_blank">📅 14:04 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.81K · <a href="https://t.me/SBoxxx/20050" target="_blank">📅 14:04 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20049">
@@ -597,19 +597,19 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dHbHG6_c5bOF1UMO0GBai7VVz3vbwoOepqS7WkY6WgDe-bME3XP0ajGelGCEwX3HVhM828m62n3LYK3WiROCdof16LEuEp-cFsZoO3LWJj-JSo9Js3q8jHje6BjbdjecKeFLrL80DAjX8j5LxwyFCrFZUjm2crgI6RmWbnRWIF-9hrKRfn8ynyrtovMHe8W0HyFTE7GMGy4-ACAripxP88dR80OvaizDjK4lJhLKYy465Ll6nAMwnul17Z-sAM1WwQtf2X7WpAxhli3Ud1Nq9qeEuAuZmeZ8aktfaJufUTUhClzCWyM9ozFywUChlf9T2qCZFoKWJX73xqYmwFmXSA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حادثه برای یک نفت کش در خلیج عدن!
 به نظر می رسد حوثی ها تصمیم دارند کشتی را بدزدند.</div>
-<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/20049" target="_blank">📅 13:22 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/20049" target="_blank">📅 13:22 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20048">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">اگر آلمانی ها به جای ما در این میهن اهورایی می زیستند تا الان نسلشان افتاده بود.</div>
-<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SBoxxx/20048" target="_blank">📅 13:10 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SBoxxx/20048" target="_blank">📅 13:10 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20047">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">طبق داده‌های دولتی، آلمان در این تابستان ۱۴۰۰۰ مورد مرگ ناشی از گرما را ثبت کرده است</div>
-<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/20047" target="_blank">📅 13:08 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/SBoxxx/20047" target="_blank">📅 13:08 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20046">
@@ -622,7 +622,7 @@
 <div class="tg-post" id="msg-20045">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">— نتانیاهو، نخست وزیر اسرائیل:  «ما حضور نیروهای نظامی ترکیه در سوریه را که اسرائیل را تهدید می‌کنند، تحمل نخواهیم کرد.  ما به روشنی گفته‌ایم که حضور نظامی ترکیه در سوریه را تحمل نخواهیم کرد و به نظر می‌رسد که آنها حرف ما را خوب نشنیده‌اند. بنابراین، ما اقداماتی…</div>
-<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/20045" target="_blank">📅 12:48 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/SBoxxx/20045" target="_blank">📅 12:48 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20044">
@@ -637,7 +637,7 @@
 <div class="tg-text">سخنگوی سپاه پاسداران انقلاب اسلامی:
 قدرت تخریبی سر جنگی موشکهای مورد استفاده در موشک‌های جدید سپاه، بسیار بیشتر از سر جنگی هایی است که در جنگ‌های قبلی استفاده می‌شد.
 اگر جنگی آغاز شود، سلاح‌های ما در تمام جنبه‌ها کاملاً با گذشته متفاوت خواهند بود.</div>
-<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/20043" target="_blank">📅 11:35 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/20043" target="_blank">📅 11:35 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20042">
@@ -646,7 +646,7 @@
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک برای امروز در بالاترین سطح خود قرار دارد و تقریباً در چنین شرایطی محال است که امروز شاهد سقف جدیدی در طلا باشیم.
 انتظار افت دستکم 400 پیپی دیگر در طلا دارم.</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SBoxxx/20042" target="_blank">📅 11:27 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.93K · <a href="https://t.me/SBoxxx/20042" target="_blank">📅 11:27 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20041">
@@ -658,7 +658,7 @@
 <div class="tg-post" id="msg-20040">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">به نظر من جمهوری اسلامی بزودی گزینه آخرالزمانی حمله به چاههای نفت و تاسیسات انرژی منطقه را فعال خواهدکرد که در پی آن نفت به بالای ۱۳۰ دلار و طلا به زیر ۴۰۰۰ دلار خواهندرفت.</div>
-<div class="tg-footer">👁️ 5.01K · <a href="https://t.me/SBoxxx/20040" target="_blank">📅 02:42 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SBoxxx/20040" target="_blank">📅 02:42 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20039">
@@ -683,13 +683,13 @@
 قاچاق نفت، خطوط مبادله، انتقال پول نقد، صرافی‌ها، ثبت کشتی‌ها و شرکت‌های پوششی - همه اینها باید اکنون متوقف شوند. خودتان می‌دانید. این یک روز اقتصادی محوری خواهد بود و ما به همه متحدان خود نیاز داریم تا در کنار ایالات متحده بایستند تا تهدید ایران را منزوی و شکست دهند.
 این دیوانه‌ها در آستانه فروپاشی هستند و این اقدامات تاریخی آنها را فلج می‌کند و توانایی آنها را برای گسترش ترور در سراسر جهان از بین می‌برد. ایران هرگز سلاح هسته‌ای نخواهد داشت.
 از توجه شما به این موضوع متشکرم.</div>
-<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SBoxxx/20037" target="_blank">📅 02:34 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.06K · <a href="https://t.me/SBoxxx/20037" target="_blank">📅 02:34 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20036">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">ترامپ: من خردکننده‌ترین عملیات اقتصادی علیه ایران را اعلام می‌کنم</div>
-<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/20036" target="_blank">📅 02:30 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/20036" target="_blank">📅 02:30 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20034">
@@ -705,13 +705,13 @@
 <div class="tg-text">در حمله امشب به کیف این احتمالا موشک اسکندر نیست. این احتمالا موشک بالستیک سری KN کره شمالی است که با سرعت بیشتری روی هدف فرود می آید. مانور pull-up شاید کمتر باشد. اما باز هم زاویه نزدیک به عمودی و تیز را مشاهده میکنیم. سرجنگی هم مشخصا بسی سنگین است.
 @Exciton_missile_program
 🚀</div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/20034" target="_blank">📅 01:52 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SBoxxx/20034" target="_blank">📅 01:52 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20033">
 <div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">نیروهای ایالات متحده به‌صورت پنهانی یک کریدور حمل‌ونقلی محافظت‌شده از طریق بخش جنوبی تنگه هرمز را گشوده‌اند که به ۱۵ تا ۲۰ کشتی تانکر اجازه می‌دهد هر شب از آن عبور کنند.  مسئولان می‌گویند این عملیات اکنون تقریباً ۱۰ میلیون بشکه نفت در روز را جابه‌جا می‌کند—که…</div>
-<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/20033" target="_blank">📅 00:57 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/20033" target="_blank">📅 00:57 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20032">
@@ -725,7 +725,7 @@
 <div class="tg-text">— نتانیاهو، نخست وزیر اسرائیل:
 «ما حضور نیروهای نظامی ترکیه در سوریه را که اسرائیل را تهدید می‌کنند، تحمل نخواهیم کرد.
 ما به روشنی گفته‌ایم که حضور نظامی ترکیه در سوریه را تحمل نخواهیم کرد و به نظر می‌رسد که آنها حرف ما را خوب نشنیده‌اند. بنابراین، ما اقداماتی انجام داده‌ایم تا مطمئن شویم که آنها این موضوع را بهتر درک می‌کنند.»</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/20031" target="_blank">📅 22:43 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/20031" target="_blank">📅 22:43 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20030">
@@ -742,7 +742,7 @@
 نه دیپلماسی و نه جنگ، به خودی خود ارزشی ذاتی ندارند؛ هر دو ابزار و روش هستند. ما باید بازدارندگی خود را بازیابی کنیم.
 چگونه بازدارندگی ما بازیابی می‌شود؟ با این کار که مشخص کنیم حمله به ایران هزینه‌ای دارد.
 اگر آمریکا این هزینه را از طریق دیپلماسی بپردازد – اگر بیاید و به این درخواست‌هایی که سردار رضایی به تازگی به آنها اشاره کرد، عمل کند، از طریق دیپلماسی عمل کند، غرامت پرداخت کند و بپذیرد که در هر صورت، باید هزینه‌ای را بپردازد – آنگاه به سادگی باز نخواهد گشت و دوباره تلاش نخواهد کرد. این می‌تواند بازدارندگی ما را بازیابی کند.</div>
-<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/20029" target="_blank">📅 20:19 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SBoxxx/20029" target="_blank">📅 20:19 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20028">
@@ -780,13 +780,13 @@
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/A1C5BUmsHRwRwthQG5hfkhfNvkP4KRNKKvqHISXonn3DXm3w7Rcqp9z36EeiOlsOiWi6JadDhmG5ZiuZc_lzH2wmY518-vz-5PJFsUXD2xt1wRX0IRBxCfo9D_NY0bDievLbkO0EG6f1UzTp5K7BoArUabTiQuXo1TAUHvLH5hEILQyU151JHeQRRTq6K7-TISyw-LvM39SKoUsXwrZydtUTBozRyVAdYSf3v7peAbtmw3LksNok4kicJDbNetjc77FRZNwpGNOqRcXQojxreLZNo0ibRtmkpKSmjxI0rWGoGjYlyF17StFTDPKx3KNvqKRJgI95rapeVw5BFgR_ew.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">درین بازار اگر سودیست با درویش خرسند است</div>
-<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/20023" target="_blank">📅 18:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/20023" target="_blank">📅 18:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20022">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">#GRI  شاخص ریسک ژئوپولیتیک برای امروز در سطح میانه پایینی است و برای طلا این موضوع به صورت نسبی مثبت است.</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/20022" target="_blank">📅 16:27 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.59K · <a href="https://t.me/SBoxxx/20022" target="_blank">📅 16:27 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20021">
@@ -798,13 +798,13 @@
 <div class="tg-post" id="msg-20020">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-text">اظهارات نفتالی بنِت، نخست‌وزیر سابق اسرائیل، درباره ایران:  ما باید اطمینان حاصل کنیم که رژیم ایران قبل از دستیابی به سلاح‌های هسته‌ای، سقوط خواهد کرد.  بنابراین، از یک طرف، ما مانع از دستیابی ایران به سلاح هسته‌ای خواهیم شد.  و از طرف دیگر، ما برای تسریع…</div>
-<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/20020" target="_blank">📅 15:37 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/20020" target="_blank">📅 15:37 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20019">
 <div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-text">اظهارات نفتالی بنِت، نخست‌وزیر سابق اسرائیل، درباره ایران:  ما باید اطمینان حاصل کنیم که رژیم ایران قبل از دستیابی به سلاح‌های هسته‌ای، سقوط خواهد کرد.  بنابراین، از یک طرف، ما مانع از دستیابی ایران به سلاح هسته‌ای خواهیم شد.  و از طرف دیگر، ما برای تسریع…</div>
-<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/20019" target="_blank">📅 15:34 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/20019" target="_blank">📅 15:34 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20018">
@@ -825,7 +825,7 @@
 اگر حزب‌الله به ما آسیب برساند، ما به ایران آسیب خواهیم رساند—به روش‌های مختلف.
 هرگونه حمله از سوی بازوهای "اختاپوس" ایران در داخل مرزهای اسرائیل، منجر به مجازات‌هایی خواهد شد که در داخل ایران اعمال خواهند شد.
 در دولت بعدی، ما این سیاست "مجازات" را به طور کامل اجرا خواهیم کرد.</div>
-<div class="tg-footer">👁️ 4.53K · <a href="https://t.me/SBoxxx/20016" target="_blank">📅 15:22 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/SBoxxx/20016" target="_blank">📅 15:22 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20015">
@@ -859,7 +859,7 @@
 
 <div class="tg-post" id="msg-20011">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IOby2o8Bd2h61yN55ehevuOjm-U1i2IH5wqqAXWlLRtM6eYDYFtAY3456KXj6DRxYkzYgqjYp599oqqwbi0LCFpbLIY21b75aVJvHS-ETVu6lYfVXifV6n6HC0QVPo7V34WdstPz-bTeK5hdWo4krg72CZyXmYI_B1g3zmRoqnmZiPW9_d1-6Q1hU-HZld6CsWwz00U0Z5RWj2Ln3QM9shhWUhGv0C0AIhdm35Zqhb55Je5FsflcksiriS9_3s0KmYy3N0MgcB1vH_qf3xpeCF4FbBzkwnsKVYQ4vrRzUjRn-SNKYBlxWFvtK6PVVZoVNbhHw-jdoPMVyrH1WMKajA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Tkg-Zj9WTTgcAowDlgcQMG-bANCLTAPlCJomOCWo6-j0afOFQCsBbRN6tyDbypDq_jFUqwtj37sqWqQOCPnTfLzoPqFnddA_mYmQXvoaj3I_k4T4OcZV3Ywvp6H8djxuZgLt6oD3H-8Crba7QClkSOX7TdsfEtieGMUgloickVU15pfFb5WSkq8UFXfgBkGjFrz5dN3N9IvbF5y9Ee65adEt80YqF8HafrDhp0s5CGPCqySrDZX8WS0nO9ya7dhPdds6e5JVhF8nZnM3DBMQWUQs68Cq2iC8j-xWSJC2K-byVowIvOfs_0F8ETUtIYc0ukI7YEsDEV5Rc1ZiO0FgUQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نتایج انتخابات داخلی حزب لیکود و چالش‌های پیش رو
 در انتخابات داخلی حزب لیکود که روز دوشنبه برگزار شد،
 الی کوهن
@@ -910,7 +910,7 @@
 ۸ کاندید
 را در بین ۳۰ نفر اول لیست به صورت دستی انتخاب کند، باعث شده است که رقابت برای کرسی‌ها شدیدتر شود.
 انتخابات داخلی لیکود نه تنها لیست کاندیداهای حزب را برای انتخابات سراسری تعیین می‌کند، بلکه نشان‌دهنده چالش‌های داخلی و رقابت‌های سیاسی در داخل حزب است. با نزدیک شدن به انتخابات، این لیست می‌تواند تأثیر زیادی بر سرنوشت سیاسی نتانیاهو و حزب لیکود داشته باشد.</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/SBoxxx/20011" target="_blank">📅 08:09 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/20011" target="_blank">📅 08:09 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20010">
@@ -955,7 +955,7 @@
 اسرائیل و سوریه بر سر حفظ وضعیت موجود در مسائل امنیتی به توافق رسیدند، توافقی که سوریه در آستانه نقض آن بود، با اجازه دادن به نیروهای ترکیه ای برای استقرار در یک پایگاه هوایی نزدیک به حلب.
 اسرائیل بارها به سوریه هشدار داد که چنین استقراری تهدیدی برای امنیت اسرائیل خواهد بود. سوریه این هشدارها را نادیده گرفت.
 اسرائیل تهدیدهایی را که امنیت خود را به خطر می‌اندازند، نمی‌پذیرد و از بازگشت به وضعیت موجود استقبال خواهد کرد.</div>
-<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SBoxxx/20004" target="_blank">📅 23:57 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SBoxxx/20004" target="_blank">📅 23:57 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20003">
@@ -1009,7 +1009,7 @@
 <div class="tg-post" id="msg-19997">
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">یکی رهگیری شده و دیگری در آب افتاده!</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/19997" target="_blank">📅 20:15 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/19997" target="_blank">📅 20:15 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-19996">
