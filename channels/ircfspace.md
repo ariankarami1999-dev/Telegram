@@ -292,12 +292,12 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 15:50:14</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 16:37:02</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/A1pY0ZN0wPpvSPALCbqPh26eOyZ0JLTWisSeekKzoLR78nmvvrd2JLFVt0mfSD1p6hfVmaUh6rvilGp05DLgpf2Ah_PS1tYqoyy7822TnUepuw0Z55yhSzjlfgnTcgt2y48CocfPmztFNV024CdcJ5oTr4Bz8jfqoLvzKR8DDZ1S-I5HbZnF2viOSm5mGRx1-SVpRxM7Dplt6eNbQFRS_22c6ubuYskn2esQP7qstVJxxmkJriXCqeEcprC8Jz-__oRAiyZggJscoNY1tLbyj1cNK1fQcYYCsDFAfWPmLMF0v0VPuHicXtRKGPKOxvubBPIfmkcz_bvVuiMGneRN5Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Drpj5AaUPxBuOKfqgZkrZHd0pP3-Inw-A-C8jqWGVqmRUWt19J7JoMPW4z5hiXOjMFhch9ffcNIbAYOXInlAKubC6oRGGNmjOntNAsqRjOo5K3cULqHO77Eiejf1-W9eJ_WyaqiyADsoztNGloStJZBY8eJQrjBoXHswrw26MuCMzRil78vnwYz7x-AepHjI2NoOv1IJxsiklm2ZOzWM6fOHLXvEgOeduXqg6WSDJOJrnFhhaflvz4_CfoQAjarPP3RQKcDbErLJS5ebUYTAeuzZdXGQxUJ4o9v6EJho0YsuKdT6-_M50BVUIeA2R3vLh_ZZyxlpGsrv24xiuJNUBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پژوهشگران مؤسسه فناوری کارلسروهه روشی توسعه داده‌اند که با تحلیل سیگنال‌های رادیویی وایفای و استفاده از هوش مصنوعی، می‌تواند افراد حاضر در یک محیط را حتی بدون داشتن گوشی یا دستگاه متصل، شناسایی کند. این روش در آزمایش روی ۱۹۷ نفر به دقتی نزدیک به ۱۰۰ درصد رسید. این پژوهشگران هشدار داده‌اند که فناوری مذکور می‌تواند در آینده برای نظارت و ردیابی افراد، به‌ویژه در حکومت‌های اقتدارگرا، مورد سوءاستفاده قرار گیرد.
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -321,7 +321,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -336,7 +336,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -389,7 +389,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -458,7 +458,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2550">
@@ -518,7 +518,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2546">
@@ -594,7 +594,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 58K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
@@ -662,7 +662,7 @@ iSegar0
 
 <div class="tg-post" id="msg-2537">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hNu6Ltw1eJ80Eewd4AoehboqDCni1FlTC3Lgyy1-qRY8xZxc6oITRIQ4-H1OcFHFABCeI3JJEVEL3V4Gsblf2OgvIOoS_1IDodaN5HKpc5wWuLf5bSlVjreAHhR5gi6hQmmnc3TdzZS8RfDlcIiskXq1juXsi_sAzHSKAVALafA7Qbuf9zaVvR935s4-0WyZP9cDXfbKZ0Num_jMKYFX3a7sftfUfbG8DWsoHjSrboKCNlGiU5mjywmGePODcKcKjWpOWtIOVYME4OtPl0bYfvqhpaNe1bPPrQlkAlr78fc1BInR54yJ81yU6vlqgWm6qJa8RBujNxoDukXeIa2M1w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/T337RqC7QJdVjXl42I1-kb7pZA7iUOiJHjGoCiNugKkCqa8ZfC1cm2fW0Ln8VlmiHy9yz7heycoCjtxkVODip816Ec3Z0xRkL6tp-5-YUI3UaiSSKBWBum89uCuGHMBuTQAZVBZQ_Brr_NGFF5X5EiXvRw_5MIGpeGss83xB3qj50R5HfJS7o3gdhwBYlmJ6th2QLfaKG9FoaJAmAQdqwEiZWGcwIk2J-7Izx7UK4AgwVnpZvuqPoslbrxoIB0IdgoP9IR8sGKP3d1YI1RlcwECW5b5N5gCccNn4Cfldizpacu2U45mknC_PqpnAIQJGZ59pJV5Laj4jx3mmscNmsg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aerial یه رادیوی متن‌باز و رایگان برای اندروید هست، که باهاش می‌تونین بدون نیاز به ثبت‌نام یا استفاده از فیلترشکن، به ایستگاه‌های رادیویی مختلف گوش کنین.
 👉
 github.com/shapeshed/aerial/releases
@@ -678,7 +678,7 @@ github.com/shapeshed/aerial/releases
 
 <div class="tg-post" id="msg-2536">
 <div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XN9lEihyqAmmLcpm8p9Tga9VDXiHxn15w4XwyoIUxTbyXUYinPOPeXgNLGBstREc7pT5neoLZ91qmBB8wpQB7-Mesyc085Y0OyGBoMw6xBhWMgohca5lRkweX_cpCLuxOHw5D4BKIAaFORCVQgcfn4hOsXW5meeW2T_X801HPE4DT1EnEoGpxu5FEFKoLmirYoJaG0hNsHwd6OJeqjzWft1pMuRyZWZRRhIpMSQ3fB7kyIbTEeS0wLw5XA3omgHweSCOl1q5xQ08_f9E33yRqrWynrwjPUC07zPxmvm7_DseeRjCIssS1PrsPyJPtTYR-5fDLF8vNcBekAGe_704Ag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tFt700NAHxzdOrulOh-HnLFJJsQTAYcrs1iXW1r_xykORpyOqBxKW-yUxo1slSHcx3Rah0nolIq-OEmLTMznxuZZB3c-UPCnl3HRLnzgFhW-qg89ltd17Y-BnaUIpxI56dlZTo5B7_xSnVEOVWPLiYfTMT9g46qTvBauV8Yhf7o02Wx0fRFtj_TksHAfqKskdA_gGt4ie5Uzr9rBTrZ5SzIx-prNXvIpKAjNrF2dpo9dY3cl9rYVZKkmZTAz-sy_pGGlnwRttc69XiJqMmDr25N57oiiasHb2yB0raJa9Zov8sXQmYQGCtQj7phB2XBkLSK1qCEPdaUC3lJ8z8FyVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه سری برنامه مثل GlassWire، NetWorx، TrafficMonitor، DU Meter، DataMan و ... برای اندروید، آیفون، ویندوز، لینوکس و مک هست که باهاشون می‌تونین مصرف اینترنت خودتون رو بصورت روزانه، هفتگی و ماهانه مانیتور کنین.
 چرا میگم؟ چون صرفاً مصرف اینترنت شما اون چیزی نیست که خودتون دانلود می‌کنین و ممکنه خیلی از برنامه‌ها در پس‌زمینه مشغول رد و بدل کردن دیتا باشن.
 🔗
@@ -693,7 +693,7 @@ github.com/shapeshed/aerial/releases
 
 <div class="tg-post" id="msg-2535">
 <div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/UgJYoOyYkmWhepaZdR-IwmAPKtor82BERe3OA6YD2UBq_K8rxJhRBPOXY1KyPobL7Wf0bDexl_qaNH87BETYhF9-0YC7oC_BSQFlBNbzaylIKOxx-6tqYkxfkn7czcMqc9aPo7fnhI7R-B5do8RddKNzcV_SZCJscAOylQ1G8L8Ml87Br7tqZTCGpzQPaDCw9DLuU_-IBLEbOopEiecehMxjpBr5wsunDygWk6sdvHzZSmkxAxNO8V3Ui6h4eMoNP9MxQ8unY-6Za_wnT0ncyjv2O0idb47bk8xGWgb11bo_8nCtUDDnyBsf0xCH02OzV3jM8tn6LK8daDJPdQo56Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KpVEOl2_5gAyDxHmE99z_F3o7-6Qmsdz-fEOoRV9wO7oTxLVC8IyDq4ECRtNjpMYyYphY6TCGuNMtZu3r2ZolT2XjBDfuie_3mxwiivP-x8n6LxPQuLGpx5Gh_7YeIofHX-VRtPdbKk7Sy97q--YLMp6nvzQtfAjzgQ2ajb8yDWrIsXzNv1pnf7PonNnDWTbtGT1Aq-RgxMZb1n99WllyrnKxEdiWyBhkEdcS0o2AUlwXmClpH-_Sf_0ACvik70AiirqA5yXe-odXYgrYeZnj_yDKFvnRSrld2sA8y4ioAaVNwTCg_lkN4jUZ3BYomWRj4FhPYISqaTwgOQRcCpYbQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی از راه‌ها مخفی‌کردن صورت مسئله، اینه که چندهفته پیام خطا نمایش بدی!
 ©
 AmirMahdi
@@ -709,7 +709,7 @@ AmirMahdi
 
 <div class="tg-post" id="msg-2534">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nVysLBERhDs2dqA_NkAu4KuFz6NQCnx5Om3WDMJ3ascS1X6Psq4VblndM_ozNw5o2RYI8eAeIa5ptUFA7IslcbFoDk7tYxeaf7Cjl0WViI3Y7aKyKwJYNbuTqIlYj_TXl6o_gfg8HsI_RHkhN4KJ7WXDH8yG1H2cthwb-XCPkOz-H-U97FMi7-4QTXZxrNidNHV6xkwifGvdGDQDpTMjntKfgdlIFKsCU601_Axy1NXTjQl6ALUUod5t-ZbtCaC8XqvXfDrKg7O4U5mt79V6MHq9Rk1sLEzCP5322lM7pBqvMSVjpAyMCvCHsSO0-DmroN4V6fJ3UuWE94_QheO3ww.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZVQRw8gRJ0kUeRfvSpC1ZXQA-75y4d3j2VvHEMg9YEImDkHiH4EWLJbGOKOPRrmjtu4g-WN694icfyhbxXVVMZ0WJGsdab1auCF-mo0KmMB_8brme45nkYpdb_tYn5Cmy0zw7eVlgD-EyucfvfG6Ulgdx7Q8vYlrd698YfEHkxYormeBN4nkfYZdjF-GJE3mlyWGn1m9qMQPB0CGJEqtyByzS-loE7FlMm1AyRrwwnYvmxgVx2Nz0sM2PgZPmGQOc7_qQSorKLq_JNN7NGPo_FCf35IAawpeAhi1cvwYluNb5pbWMtDnofebCGrSERUwRgGcoajs93VLwtzNfFldyw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به نظر میرسه این تصویر وضعیت رو برای بسته ۹۶۰۰ گیگابایت شفاف‌تر میکنه. در توضیحش نوشتن برای این بسته ضریب ۲ واسه اینترنت بین‌الملل لحاظ شده!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -723,7 +723,7 @@ AmirMahdi
 
 <div class="tg-post" id="msg-2533">
 <div class="tg-post-header">📌 پیام #73</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GYujG12Pf7UCHScnTZr3uVF6oKoz_E84O4ssFHpRSsKeNNKHUfRhh9fXEidt3WXSHwEe8pSBBFKdZQTy8FKQ84pS2xaGjQu4DiA_uUSSKOB-GUFTGJ9RtTkWKYgMZc4aPVYCZJgGpCIAKp5oK6FbP6ri4APF5VkjVqucN3us8mFeBsYChzbYIb6H_g6hG1ZFfl2t3DpEXWNSH8B1X1a2d5Jt6SL_17Y4UFpwy3pYrH05vYclFbk6NeVYREItC28OIB-aLBWni2bUCKxC09HxzlONCiIh3Uv9ot7vqqTW8hluGoTzAdkh9hzqv4b_EQ2HCAk8DibB9QSzvy1VnyIFLA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oHadAF_LNVKj16yXLwgypUuv7kObS8nlY2PSRL7hGhpV1Jm8d8Uw0B_74D9z_5VWUrPtp4IJ3IAYKOmkHS7y_0zb4idgC5u96swisBcyj5SUQXwCAu0Hb04s6EqHla5rN18Yqj91cFMBcXj8qgrnN9p6PLsY7Az60Bmd1AqEaNgwVD-REbQT_rZqHnFOkJ6sbYeYKkKGeLpcM9Ha7KSly-n894dCLZV9c-yG2laeBwKAq2PJlEQ_aLv7s58xZEzmRYzySJQ8ou1CKCEIToDPReuxm0qn5HE97I9pl0wO0vetY9yaoEF6mPCpQH4CuIIRk_rXPhulgT4cL-nKTxtmuA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جهت کنجکاوی در مورد موضوع ضریب جدید روی اینترنت بین‌الملل، ۱ گیگ دانلود کردم و توی پنل دیدم ۲ گیگ محاسبه شده!
 ©
 Farshad
@@ -897,7 +897,7 @@ testflight.apple.com/join/cRSCr51a
 
 <div class="tg-post" id="msg-2523">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Pm8xpo69hfZo78DKIbdI_FhOQZXwDcTaY4-7naFcMsCFNqaVXQBQd4L4dmxg1FysPAFGZSz8akNrSQobGOdTnqXeOV7y00Ps_tg55hMottPb9o5o8CIBRgM9fouBc6uiXaEBSm6cXhbMwZpOp3WjE6mu3XU5zPxMnt-x0lJFUzCPEwTzGPZtNQj7xAaHgPx6pmKZFjiRdt_aqDNLBzaYYcBcb4DpNL341hqrdEj3ajhLldCK3sWl1u-3O7fgODBNpDwzFfEuWgMkHBKKeYB9-GPoUXRnLhZt2RoG8E-N7OaRwyD7c7o7hMihe_y_9C5-fHgTyt5pH1Wq6hllpQjJLw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/oPoAdoYI1bqaOzsYHctYOFffRPRrqJRQxH6KMklbCVYG65li9pXaYSf4zIumqPyqhaVf_8BG6mxbZi3SMjnxVxsFpzWmQJQsBeLUkjiDj6uIojBO5AF8eFyKK-BrVks0FawnLkWgoT1E37xEhsO3rUzfIrquWOEV49adSvzs5_LnIQvrQ5IrglZSrWi9633ArTJ5G7Tz5LOdTOms5GHTzN2ZnddBEAal-tYGW_KXVSlz3l8-dG-MQmcdZxdBq7mYsLH1ixH1po6wg46s4rgAz9ahN1bdHGCcPuwFah54H7ENOHfSMzYDaUWpyJCTzqjL3xJ5u0dP_lmY4ByemOaPPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ AetherST Tunnel یک فیلترشکن متن‌باز و رایگان برای اندروید هست، که با ترکیب هسته Aether و SOCKS5 مبتنی بر HEV، امکان اتصال از طریق پروتکل‌های MASQUE، WireGuard و Gool رو فراهم میکنه.
 👉
 github.com/immaghzbad/AetherST/releases
@@ -1493,7 +1493,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 96.5K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 96.6K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">
