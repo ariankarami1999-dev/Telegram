@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 23:13:08</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 23:42:46</div>
 <hr>
 
 <div class="tg-post" id="msg-6633">
@@ -311,7 +311,7 @@
 <div class="tg-post" id="msg-6631">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">مصدق برکنار شد،  چون مجلس رو منحل کرده بود!  اقدامی که باعث شد یاران خودش علیه او بشن!  مجلس علیه او بشه!   مصدق برکنار نشد به خاطر اینکه نفت  رو ملی کرده بود! ۲۹ ماه قبل از عزل  او‌ نفت ملی شده بود!  این دعواهای ماه‌های آخرش تماما  با مجلس بود! مجلسی که خودش…</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/farahmand_alipour/6631" target="_blank">📅 17:19 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/farahmand_alipour/6631" target="_blank">📅 17:19 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6630">
@@ -343,14 +343,14 @@
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/YnP1BISiyckWHKYlVOV1ezMHw0IMGmbiXpS3XO4UhYXLLrUijXXcCohZItYqgxaXloUkDkj-kSJq8Zl-I-tDkXd5FiZe6zDjDE144fo7oc9jBvWAjFmE8RYIZ40o_TNxNGgiyDnVArfEgSio_Ay-o27g0OMA-k5U0x6rdlNsg_0raKLH2PXbcM3prl9CwQOM5Pm8vfSOnHSAQpAO0FwntZPtjdnonF9qBI_NVx8Led9nAXwBluMoZ0epCS2cfy8To-9maMOATEliKXzwx3PI43gnM3e8oHxWhbGxxSUOlqvnasRlyjuS1XglsYmGGGkcohFhCEYhh8E-NtWJrvsXzw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینکه مصدق با بیان یک جمله پوپولیستی که «مجلس همان جایی است که ملت است»!  در یک جمع چند هزار نفره،  رفت به سمت بستن مجلس!  اقدامی که اساسا نخست وزیر حق این  کار رو نداشت! و فقط شاه در مواقع اضطراری حق چنین کاری رو داشت!  ولی مصدق چی کار کرد؟  مثلا قانون رو…</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/farahmand_alipour/6626" target="_blank">📅 16:26 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/farahmand_alipour/6626" target="_blank">📅 16:26 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6625">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sSISjKurILtq3tzGcduL-OZ6Jp6sjlWfqEjf1bPgo-UI1L6PDJAEUY0Z8IbixJr5Mh7aFKiBzr63ef4qDu0--Fve5i7-WsVcrwGa-tsseHy1fg0Nt5OXvIJzkXNtv3HAB9pZYr1QivpEkjHiRa7A5uADhrc_qBzAM_BSCtThRMoR01jZ_MlmnYzB2Rv9eotWt7CnnTM8aJudEcTrXcqaqae2_6n1G64LYvvmzzXxUqVw0HkHAaRobBQY-s5C6SZ7FiBK-wpAyoB4Yc5w2Ndf7pkfwt-RXsBzy5Wul9qUS_ofMtdzNwCx72-4QkgR4WBiznucNyn7hGJvFSCe2VpaeQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چون پولی در بساط کشور نمونده بود،  مصدق از مجلس خواست که مالیات سنگینی   بر ثروتمندان ببندن و زمین‌های خوانین  و فئودال‌ها رو ازشون بگیرن!  نماینده‌ها مخالف کردن! گفتن کشور خودش در بدبختی و بی پولیه ما این مالیات رو هم ببندیم و با خوانین در هر گوشه کشور هم…</div>
-<div class="tg-footer">👁️ 9.71K · <a href="https://t.me/farahmand_alipour/6625" target="_blank">📅 16:23 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/farahmand_alipour/6625" target="_blank">📅 16:23 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6624">
@@ -371,7 +371,7 @@
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vcfn69DWDRB3OV4pLRSaVR_swYqIAAElli1kzKzmTHsPDJvy1CexK0TPPk1lzhQG5crzhOb59IzuA5EUPdi0ZNrHMv8u-DKEuU9BfQ4ok5KWIG8hGyO7DgkKqhcap1E6Eeve7zadaT3eQa9CHjC2Hp6irNjE1VCEaPNfOCakqdNTU2wyvUzhiSmJ92fj8KMfGJqddLQ83a2wlQ6bYwbpRL6fz63B5YyWxMSunqlbn2vFSvB0OCgcJbkjDWI3DRZNoXl2i0PVaIXpnUHK8Nh5qJvzW2juiQSn3gqu4GfTz2KHA8lUqs7m-7je5TeMS1hQRNr_Q4j_CiPy3hoGuZQzQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این سه فرد که نام بردم  و چهره‌های اصلی حامی مصدق بودند  و نمایندگان بسیار شاخص مجالس مختلف،  نسبت به این نحو از برگزاری انتخابات اعتراض چندانی نکردند!  مثلا مصلحت بود برای حمایت از دولت مصدق!  مصدق به روشنی برای اینکه نمایندگان  حامی شاه وارد مجلس نشن،  انتخابات…</div>
-<div class="tg-footer">👁️ 9.58K · <a href="https://t.me/farahmand_alipour/6622" target="_blank">📅 16:09 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/farahmand_alipour/6622" target="_blank">📅 16:09 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6621">
@@ -385,14 +385,14 @@
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HYVkh2R5Ouj92ry9ZNEac2JXvQeArRI77S0x481sF50P7YRQUTkLNC9OwYaqhE26EwioZvU624N9pgrIeZp3_hIBC_6PijH4PfU3leRX3sZjU2yHJigx4VMnUTOmg1863Y-jLOw5npt36KIzyEiqENCJi9kEM5JSPHsRxeKnaiLWWXVGfo3JRIVgmVTsoaFXN_G00twCa9Y5klArz3Ce3aVjep5C8OZu3h5OG2L6gxdeXoz73sjep_BHUiUTHtFJHgzFiVBjWXl3M5CWTjkXLVL_EecbZA6fSkrCwC4oZdMq6OWDlvZ51kY8lS4ukzxG2N7yaY8zW6P9NdTYvc-7AQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چرا ملی‌گراها، چرا نزدیکترین حامیان مصدق و شاخص‌ترین چهره‌ها در ملی شدن  صنعت نقد، علیه او شدند و از «استبداد»  و «دیکتاتوری» گفتند؟  خیلی کوتاه خدمتتون توضیح میدم!  با این یادآوری که این‌ نوشته کوتاه  در مورد بقیه حامیان مصدق که تبدیل  به مخالفین مصدق شدند…</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farahmand_alipour/6620" target="_blank">📅 16:04 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farahmand_alipour/6620" target="_blank">📅 16:04 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6619">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RI2hR_zJUJJsWAGRMY83WCtlRWXJTc-iK8HeRBFcWaR7iRa0ZpeytYSIaf5GGqd2LQtg7Bd7fjo78ruhHwI6HaivHBpcHtJiZakNAku0UpsyQ55MnGB6sSRlu5_dNxKwZBFlAVNJ9P6ukOBMDHru90NWfoGlkCovwGaNMzwij8BInLOODF60S3Ke1pPxG8pFOxiUB-WMSDlqzE1aqqwy4lvtXPiNvE0lJbX2xIuMsM8GaVMfJ5S5Y1GrLPwTKUkP4gFyV_cGYiFYaHywDT3RoOx3-ynZoDodc37v8zmkq2dj_1HbqsbL7kFA4aRbKs3PRzbU01cP57Wamh43ejFmsA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حائری زاده در سمت چپ مصدق  حسین مکی، مظفر بقایی دو چهره ملی و شاخص در ملی کردن [ناکام] صنعت نفت، تنها افراد شاخصی نبودند که علیه مصدق شدند بسیاری‌ها بودند! از جمله «حائری زاده»  نماینده شاخص مجلس،  از حامیان معروف مصدق که علیه او‌ شد و مصدق را رسما متهم کرد…</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farahmand_alipour/6619" target="_blank">📅 15:51 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farahmand_alipour/6619" target="_blank">📅 15:51 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6618">
@@ -430,7 +430,7 @@
 
 <div class="tg-post" id="msg-6615">
 <div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Pe3nAzlAbKtp4hOwA7vTubgFOpUM1EgjNfrEhlFcCdKKthTxa75kCoCmw_--BX4_jwTAoasT-DOm26Y6PCbdVhOW8-5iFrJcivVAltrxNeqFTSIJ9HaJdTTLjA5jTQNcvt-XreU7uYOFJHQ6NeRMR-6lfOsWRk61H2ufyUtp7-bSpmsVCR1iDyzX8YYbJv0tsBqzCga79OcWUS5AoawKpZZ3bZ27tMfgh4Hic8AV9lE7GEdkHa4UiSIZL_ZajxjNzD-CFcnqJcEukvUTBmtz80KM0WwtIV8bgBgaFypxksUnfLNMj1irp4fhcoyM9qjgUk9QUwQejmKVu0w8voFxpw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JHzzg8JCjeRahuN3X5tLXtu0hbqjfjDABqsInM1BQQLMvcA0T3g8bHNL_iJ09t_QDQmJI_C46zbERam9JdaLYeqknFIE-O38k1KRecFDozuVMyv29DKZIja5Q27h-9v2-Auost9B_zpR1__FAin3t08GZv2kOedAlCNvm3qSloEiiXjR8Tcq-SIAszJYgaaUEvBPhcy2ULVBCnDkvLGbmvu6VQsR6rgVKK6hJl_rN4lq1rvT85stX8RU_jlFOxUcm-riwMs0Qx6vmLOn7hPfpXVBHoxjNlvY-dKLdfoNhX2eUJrrbDf2qVh-sH6z96Ty6edMG3KK12cteEF_4AEksQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پس از حمله موشکی ساعتی پیش
 جمهوری اسلامی به امارات :
 وزیر امور خارجه امارات با صدور بیانیه‌ای اعلام کرد که تمام معاملات تجاری
@@ -481,7 +481,7 @@
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DE68KL9c1xHs459ZTDkAoc1jj7d8bKG-yhn8sQz_RbS5U7Ls6fDtppn4tHs-mYFOPC6o0W98kWEFaqE6tRq-KnddjOcpxIBXrd9pjE7wgQJv1YLBDWDt-w1dnzTFDg6goJ--FQ85yjRUHR637YJ1gJXCbE-XLFEXk01lgSw2_-ILilwFddhqR0e1rSblWcISze85oMjMKtuLseSHt3SoC0umXMoE8paU5MSGcgvF3DrNaeIswx8TLfcs-WBOvSNy8v1juviTxI0M4EGxvfAgIIBv5zCLnTJv7ZTlguYMftp52jpGEkpWVKz93ob6LRptREHVsQuiBjwiyaVl8WG8Vg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رزم‌آرا، ملی کردن صنعت نفت رو رد نمی‌کرد ولی می‌گفت کشور آمادگی‌اش رو نداره!  و وقتی نخست وزیر شد، جلوی این طرح رو گرفت! تا اینکه یکی از اعضای «فدائیان اسلام» و شاگردان و نزدیکان نواب صفوی، او را به قتل رساند، زمانی که نخست وزیر بود.  مصدق که بر سر کار آمد…</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/farahmand_alipour/6608" target="_blank">📅 18:16 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/farahmand_alipour/6608" target="_blank">📅 18:16 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6607">
@@ -735,7 +735,7 @@
 ضد اسلامى انجام داده؟ پاسخ صريح : نه!
 آيا مذهب شيعه، مخالف اين كارهاست؟
 پاسخ صريح : نه! به هيج وجه!</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/farahmand_alipour/6579" target="_blank">📅 13:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/farahmand_alipour/6579" target="_blank">📅 13:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6578">
@@ -752,7 +752,7 @@
 
 <div class="tg-post" id="msg-6576">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vVUwHRbr7x1BLHqdUD1L3BJ6eDSPm5TaeXSpEuNhZRCC4G6w6-2hMxh6U7nBeW3JbhsAB_nz7x08OGcE9PMlmzFlooYsyHO0MW8gWgjuyRML57Jx70mJtsJ2v0N2hK_auiJX9PbFjIY9_tS-gLFiUfJsbXMUgDiLMVsxzUyIXrrjvF5baXnycxDQEXoVGCUjPN412kksCjK92hSq9fUZKZMvrG80CBKBDF62QMjdnUDMLhn8nk0p73uRBwVmjnYCTstCXFVPHma477KXdewrvBzERMjfxvCBaYG57fBbea4UAc9H64gr6OvNgdMH0iePAnv1_eJQ_tYhDvzqa8uYJg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vG-z2wdYqYCjYy8vd0gXUuy0YFBlmElIFm7Io-HKojZVHTF6ltBM_FinNizMpbQ0BB69CuclfPrEDOoHHpBnuYT_lQ4oJ-GNHFuTu8raae4L3ZGg6oqpnv8ZvbOoS9qL2aggu2XWORdjlN9mMlCZNslnFPG7kYXgsx2_6DG-DWFO1HkYsBD39EubUCpCYXqW9EVltGteqwX5U_XnRA_7ovjxnYpNmCfH17gKNbPhQsHu4dqODaBtdmtx78Ei-sNQRt6_CNUVh4aThEjx0ihq5XsK8GSVawB2EF67t2lXPGoi4hEMBZeEpQtgOGs-Qv26TfhMpHQW333_v_XEYuPl_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/eb4f8f85b8.mp4?token=Sa5P58iLbkHBDfS2xCHXIbuV_BfjByq0ShCZLSawd_m5XLnh9RvrSAjW9NhrmiC75gQWEyVB94DG0ZaOptug8USFBikgNfexmXZDWr7BIgQamAnHvWwL0al37HJ2FG0ILj6xAPkWudyftb4MQgkHdp20T5SNPCx3glIGr5TjdnXHyhwa1C0wD9_sehogS-9Sh44JW0mdT5Y9047js_nqaFQF7dX4Bk3T-ysj5GClSJCrPwuQ6dSSqNosUy27GQxp3BI2Qb12QmuxLQ9CBO2Nxt69PJLq-MBVCEjWhR74pEPKqOJZuYtXn65fdE9BOod5pix-KiL3NpMtT0Gv0r1XbQ" type="video/mp4">
