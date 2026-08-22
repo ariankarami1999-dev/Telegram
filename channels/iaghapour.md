@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 17:42:28</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 18:14:28</div>
 <hr>
 
 <div class="tg-post" id="msg-2909">
@@ -377,7 +377,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 🤩
 🤩
 🤩</div>
-<div class="tg-footer">👁️ 6.2K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.26K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
@@ -408,7 +408,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 6.38K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2907">
@@ -434,7 +434,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.21K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.25K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2906">
@@ -467,7 +467,7 @@ Xray
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.99K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.01K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2904">
@@ -496,7 +496,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.75K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.76K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2903">
@@ -539,7 +539,7 @@ my.gov.ir
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.85K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2901">
@@ -568,7 +568,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.64K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2900">
@@ -603,7 +603,7 @@ me.
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.91K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2899">
@@ -642,7 +642,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.73K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2897">
@@ -792,7 +792,7 @@ Ad
 توسعه هوش مصنوعی تنها متکی به مراکز داده داخلی نیست و نیازمند ارتباط پایدار با جهان، مدل‌های متن‌باز و خدمات ابری است./زومیت
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/iaghapour/2888" target="_blank">📅 20:34 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2887">
@@ -1407,7 +1407,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2856">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bE7oGckl4TyGRrN7wFIbKTvqSTEUijSBkj43U2i6mAbsUPZHP9o6GZm3rAZOzc3RNUPBhZCrXnkVQoJBDxg3JJXQ2MsaVGf7tGcc_3o-4yTmZXx_icfcmLpIBo8qVvv5chNqp3Ca3wMtfvQRjimwskeSzOGDpDPNGNUsZ0A4MGU_pwXRprsSf1fuHSF5LFqFXfVjqN7Ns-4EaaQnCg4YFrscV2qkK9JgsqY8bEfeUj2vanA4poq1MHYRxI7nnCTxVak-nM2bLxfRjQV8xZFunGfg1eTur-4Mnx10SKAwb-W_omIYVpR3dNTQnd4MrU7zNfystns99bNcH9s_NzEUcw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EPFtokIBJllXwgvkCmp29JdhbNjh1WRH3zCfpOqt5YBPCf0n0XZlmuOt3i3M2zbD0IU7YjylIt67kuTRrfi-2A1mwDvwLsQii3Mp-yT6qzOOvsRMTJERzos2Mwm2PaCiSxHsiZLfBSsVag8-04_ibKTtgvtI-OCdFZzSjvhYy95or-5Eb2Ki4V7AxwPODvaBoOQdxeucIj3HXcvTuE27Ibdb_AnYZVvdWgrhe908YIQsCVK6QH5yBP435cbxFP0geLypa6BGMvNsA4h6_1mgcJ42Akl7CtOWn-2rCJLWWM8Pbsr_X586_fulacz9S8LJeCplxanIqN04QwL_aM3a8A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">.
 🟢
 جایزه قرعه کشی تحویل حمید عزیز شد.
@@ -1873,7 +1873,7 @@ Aliasghar Honarmand
 
 <div class="tg-post" id="msg-2828">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AFfVEXTkbjbJHwwcskibRGfAKW6OkVP8XRHfFMvkMJu8j0q7Vf_MYe6QsH0xmY4vS-ayONrX0U3Y16XD_qbSj5X7FGw3HRSDTQSTzAKuImHAefbqaEySA-xdzgcmbu88auh9xpF7VYfLVYGrcCoIvldac8DMNHVd-hsM6C9V6Iag6ejf0zBE6SiV0JCB9y-mZ-ejcl3rRLPax80VW_e-ERjSN64xmO5X25b1rfbwKuj8cYb0LWYUUvDiKW03iSFiPlYAVxsWXdOMhz3Vn4NAYeHpasee-x4bs2tal3C9NehbdDXHJ9L49cQ1x2XJDpGcqkoJ5Lg03bxbagEPIYsVVA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n38YZKaAd96ihGvo1iKAnA1Ya3Fk8Tfvrou5uOw-87lOmZ9AsAYnU4m7KLcSti-MXviFV9FYqgeDIKA1PxBlgg_YpINKYY4yQuKMlU5cS5Qw6OrXfBURX-TxBiu7Spb_tbmtTy3JKSIAexAy7myJ49Zig_6XhOaax1jZ0XVk5hRiN2qetuLAaQVSX6p4IhngjtWldo9gcEWAFpWnX5gE1JWTONnsyWJxe_roQArxXx0m5ZIAnNrYzbzNEjUp7DV6kVpzZ7HP8wLpSKQYo0ZkdY1fJOqUzkRCLUmNzSC6tJJaxoOA02U7TZthdZPybG-Ovd0b_b0Zc8f7RCZyhcgggA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 رکوردشکنی هک‌های کریپتویی در نیمه اول ۲۰۲۶؛ سرقت بیش از ۱ میلیارد دلار
 پروژه‌های رمزارز در ۶ ماه نخست سال ۲۰۲۶ با موج بی‌سابقه‌ای از حملات سایبری مواجه شدند و تعداد حملات تأییدشده در این دوره، از کل آمار سال گذشته (۲۰۲۵) فراتر رفت.
@@ -2132,7 +2132,7 @@ Claude Opus 5
 بیشترین مقاومت در برابر فریب‌های سایبری و کمترین میزان رفتار ناهماهنگ.
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/iaghapour/2812" target="_blank">📅 18:31 · 03 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2811">
@@ -2711,7 +2711,7 @@ UAC SNI Spoofer
 
 <div class="tg-post" id="msg-2771">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IEe0x87l3VikVlyQ6fFkJcXx9zjvDNUGjq501Mvr1ak117LeG-3_LTVplxuciEhstoawg7zKtij1z6i-z0JxgAeSHaHWUuhSCROEfgUmr22t4jsw0eeGs6FrxVKM92xu-Xt9VV_gJj1T1cMtbWZVuwNZagk_kSNn7r4FwloEATJJzPSb14r21mnUKvz-PHC0w19L5p3s7IkxOW8Nsub8tMtY94uT3cwrM-M8g043vVoPVgZ8pLlIJdqj6g-t79HN_AxXl3jxS7EiA9puMlz1eA7Z1Cl0-mJrk2cWd-OzZzPQiMFJniY0jjHe0nD7RPijRqZ4Aap1uXd2sNmZZLPhGw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/O06L8DivIN5D8sfhRoggdRbEvmbepOM-hP6eNa5hRSeBiCyV_c0V_S90qVBNK1ki2kFibTd_NgtMLbczJUfWHWgcWd8T1mA65JDLbMU9e8ST5uLtoXD2Q-vwDIwTunAf5gpTx-iE5i28N6dsb-qD2jLliAZAwUansz6EtZVHG_j_fag2pI19ORgoiCkyg7C1epbYinXYzCzf1ldRmpAJnUTu2kNpgilY_e9faUgecMi9S8-6-lTYBRPLioWyNCgYn4QasjTEIDlH0aA10LGCMk7ZHzTbNqAYF3WCf6J6erFFsRFkQ0aMt-rw5TrvAGJ6u9R01dmO_AQxxKZBDCjTtA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚠️
 توجه! مراقب کلاهبرداریِ فروش پنل‌های رایگان باشید
 دوستان عزیز، با توجه به پیام‌ها و درخواست‌های متعددی که از سمت شما دریافت کردم وظیفه خودم دونستم که یک اطلاع‌رسانی مهم در مورد سوءاستفاده‌های اخیر داشته باشم.
