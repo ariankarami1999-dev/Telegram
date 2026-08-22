@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 01:12:59</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 01:42:18</div>
 <hr>
 
 <div class="tg-post" id="msg-78003">
@@ -304,7 +304,7 @@
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 197K · <a href="https://t.me/VahidOnline/78003" target="_blank">📅 18:17 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 200K · <a href="https://t.me/VahidOnline/78003" target="_blank">📅 18:17 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78002">
@@ -319,7 +319,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 226K · <a href="https://t.me/VahidOnline/78002" target="_blank">📅 17:11 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 229K · <a href="https://t.me/VahidOnline/78002" target="_blank">📅 17:11 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78001">
@@ -333,7 +333,7 @@ isna.ir
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 204K · <a href="https://t.me/VahidOnline/78001" target="_blank">📅 17:07 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 207K · <a href="https://t.me/VahidOnline/78001" target="_blank">📅 17:07 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78000">
@@ -354,7 +354,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 189K · <a href="https://t.me/VahidOnline/78000" target="_blank">📅 17:04 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 192K · <a href="https://t.me/VahidOnline/78000" target="_blank">📅 17:04 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77999">
@@ -372,7 +372,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 188K · <a href="https://t.me/VahidOnline/77999" target="_blank">📅 17:01 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 191K · <a href="https://t.me/VahidOnline/77999" target="_blank">📅 17:01 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77998">
@@ -385,7 +385,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 185K · <a href="https://t.me/VahidOnline/77998" target="_blank">📅 17:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 188K · <a href="https://t.me/VahidOnline/77998" target="_blank">📅 17:00 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77993">
@@ -421,7 +421,7 @@ VahidHeadline
 ببینید، جمعه‌شب است. وقت زیاد داریم، درست است؟ اصلاً چه کار دیگری دارم بکنم؟ برگردم، ایران را یک کم بیشتر بمباران کنم؟ دیگه چه؟
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 276K · <a href="https://t.me/VahidOnline/77993" target="_blank">📅 05:19 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 277K · <a href="https://t.me/VahidOnline/77993" target="_blank">📅 05:19 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77992">
@@ -441,7 +441,7 @@ VahidHeadline
 پس آن‌ها خیلی دوست دارند توافق کنند، اما از نظر من هنوز آماده نیستند که توافق درست را انجام دهند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 293K · <a href="https://t.me/VahidOnline/77992" target="_blank">📅 01:02 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 294K · <a href="https://t.me/VahidOnline/77992" target="_blank">📅 01:02 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77991">
@@ -551,7 +551,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 229K · <a href="https://t.me/VahidOnline/77983" target="_blank">📅 18:04 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 230K · <a href="https://t.me/VahidOnline/77983" target="_blank">📅 18:04 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77982">
@@ -586,7 +586,7 @@ VahidOnLive
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 197K · <a href="https://t.me/VahidOnline/77981" target="_blank">📅 17:57 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 198K · <a href="https://t.me/VahidOnline/77981" target="_blank">📅 17:57 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77980">
@@ -614,7 +614,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 212K · <a href="https://t.me/VahidOnline/77979" target="_blank">📅 17:53 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 213K · <a href="https://t.me/VahidOnline/77979" target="_blank">📅 17:53 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77978">
@@ -650,7 +650,7 @@ VahidHeadline
 
 <div class="tg-post" id="msg-77976">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/UTw_dzg0Kd9llg04OLL6ACutIsdsg9Eay51eGzcz9a-n7mEKx5awqmbIplog_XtvM6hbiRUhEnTsKQTmvN16x-Vxov2btPHZA_x4gjiC-Dz_eS7a6Eiuw9G91Dz3W8VcolCoOQOd3taqzxcTOlhYqSSUaO1FL2IbXH9E992wVzTzX_wA3cGws5aynUrE_fJOF6K2rvFFHRruhaJRWOV3zOX2YNYN8UyvT_SQ1ufhBfWvIpNpKSDETH0IUh2RvVcbUqNtM5vTfVqn_nlw9Sty9wr2OdNIStveFLtqgh4-GJWloXM-DtCdQwuuv0DPPquY2iBUHke4Xn_Y_Sr4ML8JFQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RfsKOJ7-BgAexhMCtZDYDrjkx74o0reahYlkXKkLT5OocpMIrhjqyDWH4206yuqEW-aQlmyesbJ4gKtibx8NRmCygyCsiV9byblQYih25oXNa1-TYOXF_T6zowY8GlI7A_fyH_zczDbk5AWrFc3-DBIXjPf1HQFNF68-WERdPsQGk9GATielI1yeSCPpzKbv1alx4kcrkY_V5AdXKz0eRtxK_BbZrud6jSJb2s3ZFqvXJABY5-h_eQ19vFX24ZR7enXXc_DIGAr64gA40CiSbKcjJJ-DELTjjIZtcV8vkbQq_Da3eg7m6D6Iq66DrWEWqGyQWgoaldISC_YA-8qY-w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پس از «دونالد ترامپ» رییس‌جمهور ایالات متحده و «اسکات بسنت» وزیر خرانه‌داری آمریکا، «جی‌دی ونس» معاون اول ریس‌جمهور آمریکا از آغاز «مرحله جدیدی» از جنگ ایالات متحده و ایران خبر داد و گفت: «موثرترین ابزاری که برای اعمال بر حکومت ایران داریم، فشار اقتصادی است.»
 جی‌دی ونس که در پادکست  «کلی تراویس اند باک سکستون» صحبت می‌کرد به «تعامل ظریف» بین دو کشور اشاره کرد و گفت: «ما به آنها فشار اقتصادی وارد می‌کنیم، آنها نیز سعی می‌کنند به ما فشار اقتصادی وارد کنند. اما آنچه در چند هفته گذشته واقعیت داشته این است که آنها فشار بسیار بیشتری نسبت به ما متحمل شده‌اند.»
 به گفته معاون دونالد ترامپ آمریکا این روند را ادامه خواهد داد چرا که بر این باور است «این بهترین راه برای دستیابی نهایی به هدف نهایی» این کشور است.
@@ -664,8 +664,8 @@ VahidHeadline
 <div class="tg-post" id="msg-77974">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/T-0k0ksGqfmAdLK5Y5PW85CBjqopB3iNz7xmO_7rBNL_HFU_cTsk8d4MQe_lELOBBSS35x1agUS7tNmubg3O6U1XrMaWgPIID_mvkV_1_QiHNZPm5F4096uzH89ZwNYk262L44fOBkWDgAFGncHBEajjbprHhgbW38Rq7800MTrlBKprgDLQ21GaYj4yoWh3MmhLsvlpubPG7No3gOEJ2DJSAYGj8Vn4p4A65uac-Na19O-keBwJzY7mxjB014w8bIt1eXtQ2Y6CCHn8Y5ugAR-jZbIOpksxBfjqIZzt3Pr-JowNx6gbdcfE4sw5Vw_ci50UhU-l94CnhTNKx7k68A.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/jIzJmaOragJzVEjMF8LFiNE24_AcFYeDPC1LUovVH5C_kZFPFb_hT9uqK-LwNRThu4i73qfcIcWuyINXKtimJMvsC_Nt5gg3QyzsV7KXwMow2Lb4hVTs4Em0xBAWG578eAoZHCuxnO1xwS4qLOQD8hELaXdOL72sM848kf9X3Byy8loVy_dEvi2lMm54lTA_lyl2K05A9EnO71nDTCMgrLjlBlPCCj_MPxJxSEJgj6Migksj_JXHl4k1c59us6m55Qcbcm98S6l-cJ5lcxCDsnMH9oi3dJ2TqBY0DBpiWTgJay_F0OHSZCoCTIW9hbZjZgnmmv9sU-vVqcokIIXWeA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/imjAe_kWOB4JS9ZeCjNXai6C5cAkwSUHWbLqcRqSOiRjuDPu1_6kaWzN65svAKFQm2ETlIC1bluMbBVQIDiPYb0uoJVvxXWhxyIj6Ypa-lOQ3jlqcfqhNR_U0YBxDKifNiToan4fxkmt3DSbbe3T0Wx0kqW8UoOsVYTsgUVdHQy2pImxds4Vl4ACbnTjbqN4Ni9GRpYUwP3CdrpjfdbADm38i5Z__SqkhoYXppve1Sdx4V8MRPZNpUlvuozV2VfAH0pqwY3gs_g9mO80rbh48XimvBSSEt-ip6Wt2O4qom2hqpRemSRi97VLW57S4E2BKmk6arUCunyNIuxPknUcFw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/eJLIUaxPBYAALRVdYOinWNw6HmY0ff5xWe3zifb-SkZjlFPYclFyF1FO8sgQnIIbRIqzPh8kUihuv9X-u9Wm1-kFeXG3XTk2vSzliXPm7gUL5iinbw2cyjMNryNzwbEm4qnznZZvt-v3WUXAOwa-MGYDsOlsieMqvkAoFsubtwp1udmVMi4KY-ZmLg7Jpq1iiOBqY7MXBew71M29NrNp4_DkgS5DIYm-ZEbLNEifEpqCyIv70G3CHxqeDz74FpIAnWOJ0xtjzPTeuAsezvwboOUIpYtseuy4sSbTYs__JJsF5MViv-GGz4R9xD238l3rglSXY2ypZxwjZBG35KFedQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">انتشار تصویری از محمدباقر قالیباف، رئیس مجلس ایران، در جریان سفرش به عراق که در پس‌زمینه آن عبارت «خلیج فارس» دیده می‌شد، واکنش همتای عراقی او را در پی داشته است. هیبت حلبوسی چند ساعت بعد تصویری مشابه از خود منتشر کرد که در پس‌زمینه آن عبارت دیگری دیده می‌شد.
 @
