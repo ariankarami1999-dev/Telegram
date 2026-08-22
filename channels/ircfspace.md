@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 19:12:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 19:42:58</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -321,7 +321,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -336,7 +336,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -374,7 +374,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -389,7 +389,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -535,7 +535,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
@@ -609,7 +609,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 53.6K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 53.7K · <a href="https://t.me/ircfspace/2541" target="_blank">📅 17:25 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2540">
@@ -848,7 +848,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35K · <a href="https://t.me/ircfspace/2527" target="_blank">📅 18:11 · 08 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/ircfspace/2527" target="_blank">📅 18:11 · 08 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2526">
@@ -1633,7 +1633,7 @@ github.com/Jigsaw-Code/Intra
 
 <div class="tg-post" id="msg-2477">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Tozg4rp0FxLHCocn2M-EbcPtS7SW7dgUw2uYib3FuxTGwnvDcTHlM28na6-thHEN9np8Ph-V70ZpPIcrUX_ixyM5F42pdPWiCDWMGjo09fRIb1ymPkduUzSeQr3Ev5ESYDVtbh4YzN-ktqroYKDz4UwJSUYa13cYas7WO-thhAM0zxPkzvCGjLAR1_4-tUJBiTABt-mK0b5pArVIL05NVeZwHxUg5vNk3KmLXYIbWXfWtzQQ16v2gO8ViFylXAq80LTeNBoT__D8VN-CNdC011PpsMCXqYckQre-h1FFayaqOy0f1mOn-Op9_CNe1CNPaKUrF5g1jlsXLkibv90w5w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/BM6MLp2mRH_iykORlz_zZ66kBIQ4Oi-wGSQNtYphiv3ymwS4BlNVx22Idj5bvAkSPyrnSL24yFSnBJkKj22ANt01ShF2eq9335bxnXqXT5Qf4nn9wBUOCcv7y4uvpH3G-wm5rNTG0Gh2IywvXCheqUC-0mqma80mf3hMxG1ioehUczDEDYtUrjj-nMNKpt3s4L7_DDqR3PF6Y7sfHTXhkLgT6fitlckjBipy_gD80Lxd1y8TnO8ysSfpSS28BOimsLK0NIK30oawGH8KMFV0mnGFku26wzhLRSJVVhKBMLTH024xY2Nhsh3FCPn6idi5d-wzXmxfN7wcGdeD1s7OkA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محققان Datadog میگن مهاجمان با استفاده از بیش از ۵۰ حساب قدیمی و غیرفعال گیت‌هاب و توکن‌های دسترسی (PAT) افشاشده، از طریق API گیت‌هاب در حال جمع‌آوری اطلاعات سازمان‌ها هستن تا برای حملات بعدی آماده بشن و ساختار داخلی، اعضا و ریپازیتوری‌های اونهارو شناسایی کنن.
 توی بعضی موارد هم تونستن ریپازیتوری‌های خصوصی رو کلون کنن. به گفته Datadog، چون این کارها با حساب‌های واقعی و API رسمی گیت‌هاب انجام میشه، تشخیصش از فعالیت عادی توسعه‌دهنده‌ها کار راحتی نیست.
 ©
@@ -1650,7 +1650,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2476">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/YCN_KvnZtB0OIAkr0MQjIkjvDTnwyQZE2Wg61X-WEDZDYG2YK-gOT3CvPpwUoeFQA-tJp10h7gLq8Ee4EkFoRzTPriUZDqS6FtlKrAaaQskwFEvOg9NhwlVoXOgpJhbubYqe_SvpNwZ_vJfMPEiqdCh06wNGh5i1egQlR9mu3VaUYNYV1esI5qdi_Bx5onGdcqXaxkCm326XXSDe80Q6nRn8EBXhYetwZXN4ciaoRERJK5FtDzX4kXq3VeadNQBGnDbbSQaUQ4h6p7Q3ID5zx8QJWSBxU7X0a1WGqyEGjrLDRgrvOlX3tedCVRshv2370pUEfcjNx6KdxAcGB61q1g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ovXHz1-onBAjx3m9KTWaeonja-3bV7M8BfxPlk_rwsfSwf7jm0BM9kxuDH4_CdPDateszx_oUje4wJgEStCkNwud6bwYI_P_eUmURJv_wrtBfdVfygItOy1l4-2ExWfRmJHDfAgBoK6lLail5k4qpoNKcS2tb49LDDYUCSe3DSkXmxnRaTZS9Bx7wwy5btu6WM1jaoV51z4WdauoNQw54YgYRQAGjRlB8u4PcLxoWV7bBS0gewcqlQvIA_-PPkB4dhOATuh9WI7g6aXLUgwnqJLmHZD5MR-bUP4zNzQhz0-sOl4XpbyWamLUYggZ5-Vuw9bSYVNMmyM30y6ZeydIeQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که "کدوم مدل هوش مصنوعی خطرناک‌تره"، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.
 به گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس
 🔗

@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 19:12:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 19:42:58</div>
 <hr>
 
 <div class="tg-post" id="msg-913">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">از اونجایی که طبق روال هر سال، قبل از افزایش قیمت، چند بار یاداوری میکنم،  از ۱ شهریور ۱۴۰۵، کلا تمام متن های مرتبط با شرایط جنگی و اطلاعیه مرتبط با افزایش قیمت مثل همین متن و... حذف خواهد شد.  ویدیوی دو فصل اول اپدیت دوره سئو بین المللی با AI هم در دست تدوین…</div>
-<div class="tg-footer">👁️ 944 · <a href="https://t.me/mohsentavoosiseo/913" target="_blank">📅 08:17 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 952 · <a href="https://t.me/mohsentavoosiseo/913" target="_blank">📅 08:17 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-912">
@@ -416,13 +416,13 @@ https://t.me/mohsentavoosiseo/511
 <div class="tg-post" id="msg-899">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">کسانی که جدیدا دوره رو میخرند، دو تا دوره دریافت می کنند(قدیمی ها نگران نشید تا آخر بخونید).  دوره جدید، برای راحتی ذهن شما جداگونه قرارداده شده و دوره صفر تا صد SEO و AEO برای همه زبان ها و همه کشور هاست! و کاملا آمیخته با AI که ابزار اصلیمون Claude هست.…</div>
-<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.62K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.55K · <a href="https://t.me/mohsentavoosiseo/898" target="_blank">📅 11:01 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/mohsentavoosiseo/898" target="_blank">📅 11:01 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-897">
@@ -1178,7 +1178,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 <div class="tg-text">پاسخ سوال بالا، قسمت ششم
 در تجارت، تواضع اشتباه هست.منت گذاشتن بسیار مهم و جایز هست. ترکیب تضادها در کار.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/mohsentavoosiseo/837" target="_blank">📅 14:55 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/mohsentavoosiseo/837" target="_blank">📅 14:55 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-836">
@@ -1273,7 +1273,7 @@ https://t.me/mohsentavoosiseo/826
 <div class="tg-post" id="msg-824">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">بخاطر احترام به حقوق تولید کننده تصویر لینک پستش رو میذارم. ولی حرفم خود تصویر نیست.  بعد از نظر سنجی پایین، چیز دیگه ای میخوام بگم.</div>
-<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/mohsentavoosiseo/824" target="_blank">📅 22:49 · 15 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/mohsentavoosiseo/824" target="_blank">📅 22:49 · 15 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-823">

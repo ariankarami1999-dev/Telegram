@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 19:12:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 19:42:58</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -311,7 +311,7 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 351 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 352 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
@@ -2024,7 +2024,7 @@ https://schema.org/FreeReturn
 
 <div class="tg-post" id="msg-842">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dY07VtSAp6P91p0Pu8szkDjRnxVP84uR1VE_8e6ZWWRGnsSfCrKyQ7_V93kswtrHZh4LcX_WnT9YqFjLQBuJO-79dAGitlAVRzJC7wYcgYymZKJunGfgLCIAGMOTHgH9UV6zN73kK2i9q1k2ea33JraHejGizmPPartP7miNZE6X9TgZcWWbRBSw8wNhMvAGNk-LG_ZaLECDy46RMIarQWPXZ8cKDUYLXokh4rDlVStPb2QDCuM4LlHERM03HgwJGT1W9qdp3kRkr9IhLtNknWjJm4lZAxvQFQBEBiOI0omJJ1PWeuq-VAC-4rwxmBjBiBX79327XfIZiFZ7iKoBOQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UevosBO5frKyZxfUUNflIlRylg_RHNapW37mC2zfbnfDDaqtt3KM66IM4gyQspebPs0v3UKfUXSqsfBsQ8ELg3nJRhl3e47fsXADQ1hMwkKLqmSUJVgV_juFsHJY1Sbgb75gAvQHaIwdDzd9RmH-AWB4XiO26xoW3tIPIBp_tE7g7bgGUaYOnQl6vTML6wtWRtsKduzwxwIoXllb79Xab6u9j61Vq9SAxpBihRIEKCTmGCjPw0hRVJpfqrIse9BxkW9zT9XiRL_vMe2SoU6Syq9lSwuKf8dR8iztWG9P3gDhamiLQNe7z9DXhhxJ5DoynNKYuJsqF9YXtnXHsd4iZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📉
 هوش مصنوعی AI Overviews گوگل، دشمن جدید سئوکاران؟!
 🔍
@@ -2387,7 +2387,7 @@ neural networks
 
 <div class="tg-post" id="msg-832">
 <div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gea3ZKNsrmruPeKZrTfWqqFBsrQkUiwtHreq5UzsBqZOSGmlNWZ6pnMs7lwMZUPwvZP3NrCi8snTK1MfEzMpHsqaZ7cyZOepbZkbDFLT-pTUtRFL9LPrjtqlqFOUzu_OVkPx9fLjTshNYHM7jEubJUVZD3wz7uYav4MipvR-H1VuXs65nFe_CuU1FXgDs99SkWrp7effwe6vP6wpt7D7-PJ_p8ZczX-pubrXP5adB2cJKezpgAr42-wEgJX895tsLQretcWLD1KWdIPdlxCjp3CffRSKSY9W7ctR9cunrnSuLZ3baGTAQ5Z1jZp_ExOknO0FOHdrm7wg0f5xy-JAYQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ptStTUvvgtHGfg6_666t_cd_ONs2MchoM7WT9XNvceRgYHGyuBMgZEOq5QXX776yrTgWEWwfQAp9hEG9DcNMM84KsYiPPNlOMDOmPpFi4prU_O8a54hNSV0GlqwlYJ-UG6TOwAPxhf1pQTsndmKpaHfdE6jUKZ2Am_y8b_6_XXtrEaL9Gu5HpnFx6DJ9dVsNmiCd0_nNlU14hgAAX5n6XE9vWLhp6_ifHtzDttN_LiByrHMYLTNgFgpDOLb_ha_bAT9Hnd_abc8ai6sj7KHhsZ-LzAK4mTNqyqbysaRHZBYvVajbB1Hpg9rhL286wctWXEK0Gkvgd0RiEnlleqcpPA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📢
 گوگل نسخه جدید Google Ads API v19 را منتشر کرد!
 🚀
