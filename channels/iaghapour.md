@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 17:19:32</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 17:42:28</div>
 <hr>
 
 <div class="tg-post" id="msg-2909">
@@ -377,7 +377,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 🤩
 🤩
 🤩</div>
-<div class="tg-footer">👁️ 6.18K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.2K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
@@ -408,7 +408,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 6.36K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.38K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2907">
@@ -434,7 +434,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.19K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.21K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2906">
@@ -467,12 +467,12 @@ Xray
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.97K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.99K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2904">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BU9rrmp8J8mNMB1mB-WSIVkghbKQAvEsrFORO2nBqoM6qu9XvUB-uEWo2XrwxZY1XEWiPcwT8tPmFMD3brby-y0bXV1we8zMqJqU7wng57R88iFLYCf2Jm9tiRN0c41vYHuEtt1d7iR26cj1RAgGviY8EE2wnYrN5ajTdBYQgT4oBbgM0cyqlElxR8GOXSTaO1GOG9Ybw2RutOnPH8sJokQC9cSi8g4IP7EtLK6aSJPp_Qo4rEBbOzrhjOFCtdXoLJ55I0pZbAvgErm-S6r3Xsv6_QDcEhT_kskGoUyfwxJHsoasnMSfaX-lKUvuSFnsLrk_qg_L6068oZjjJM6RAg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DZoHoz6xvdgFQMrNLM9RxhT6BFC2pCdwKmZksuuhYqxs22BmfemZ5CiLuS0bGYIHzhp-Sq8V1FcGu1LIhs0JJfghYcNSPpyTC3REArWYwvBPnga1g7pbIPgdaczKlH2l8o7QRGN-T95FLpHJdElwIp_fHhhM8iXHtUYqRjoF1NQs00qEjufJnDqC7e5Dl6zXCqoFerlaTqLSwukCgyDAVQHOT9-KHZXX9_IE_5-lyHfmf11T9LupB_GrNLCS8XiQunj4s9cM2ACuA8iMYw0GGMLT6rnCvgLlqUv4Kpo7OzJC0rWpOuZjUR0d5tlUCLhm-792YnIUaVsDmmbuZZ77UA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش ساخت فیلترشکن شخصی بدون سرور و دامنه (کاملاً رایگان!)
 🔹
@@ -496,7 +496,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.74K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.75K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2903">
@@ -539,7 +539,7 @@ my.gov.ir
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.83K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2901">
@@ -671,7 +671,7 @@ YouTube</div>
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
@@ -2157,7 +2157,7 @@ Claude Opus 5
 
 <div class="tg-post" id="msg-2808">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eKc5v01H3NJU3mL6gFNlsaZPc7JgxHAmZnYyNEkrvB7S2Ori549HJVwrnAnnF32ZNNqlX96_t-nwzfb4b9-L-H-RtJQiKP52MHY3F7nGVQuX8EHSo_suzRSTlhkAsMrRRti68N0t583hmJBYuNFKXsTd4Th6slHEU-ZTuSCz4hGlud9aPdB_ghVn_xSPXFLgCLgWJIRRwiY9P6Z4HLCanbRsu6GCzz3W463i-AZDxwBA5WuzMZMuT-6RKMREPL-ibLTlCFTp2RTDvWK6sxi6eD-vSLZ7CWV2zyQGPBYNCggdESmBoXzkcGhTKhoxA_yxENXt-PCjnrdHmEWs4vD42g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/b0L6_9jTbklYsK4uVEl383EopeEIG72hL_se0ehbCwuEGvMPAprjNmGUEhfOEoFJlgHe7C_FNwkRVC0O-jqTYqtZ64xgEj22ekWEkEMc0tUmuURdE_aOEJ0kAnqaPmc8EpHlg9ExcwXhWfYovefwKVK_ddJ87b_yYtA40CxCFxDOvHox2HBs99zv9FZTXKBPoZu89-pcA8Iw9PRwsguK0Hj6pW3188VFNxASzBT5jjNRA4OHbSDF1Mlsubzccd5v2G9xkTRqblFpOUkB6WjjUMp_yx_xoU9FNEfpWHSg01qt33RMK0ynMogHbSPGMLkoMz0Qe3c3Nw0XlXPShkJZ2w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 کامل‌ترین پنل ساخت پروکسی اینجاست! از هیستریا تا وایرگاد (Nova Server)
 🔹
@@ -2182,7 +2182,7 @@ Claude Opus 5
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/iaghapour/2808" target="_blank">📅 19:10 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2807">
