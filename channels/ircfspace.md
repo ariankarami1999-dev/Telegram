@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 14:42:35</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 15:12:14</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -419,7 +419,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -799,7 +799,7 @@ Taha
 
 <div class="tg-post" id="msg-2529">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VPJlcZlQ72PbtUKg6fNK_hrxwbCwnthyAH9g7zZncAatMUdiBANNarex34ggnUWKrwjZeB0ojTZjerDkeKrXPDm0q65MG2TSVV15N4SbApxSj5LRJbpZo5tfhhhHnlCiehbnwhSAckC14h8_nHU97fQDUB4fIAMpIa5yMMlh5POGRDPhhuBUfssbtGxW3DouVu6UXMjIJhTRZxuvJxk0zcuwIFDgr3QPj6GHvklRiIZFPkvT0o8mx4feD7PvXyryJJTSDnkeibLOCVA1a41Ae4X0HcmqX9801Hb7t4oBLDBny1Lmm5ZTdpsMmx1As3GTMbGHD88dnRnRmnuguiQL-w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DgVggCKbCrzs_nwS-2turhW9Rrkw1S2ogIADS7CxV_OKtaoKNDuOzuS9eumMsKuQHDBbWy4QpR491XNsfS0o3CeenjhujNXa6zgutfdUiFU_b6WRJrr3Snql_DWVm_pQNgCyl2aOXILvmWPrkfd9VGZYpfENbQKgApx2_tZ1nAIWgFXdLLtvmemfi3CZI-oCuLCHwnfAam75DmFIbQpC9hEn_2Cw6zrhxIgwAAElAe6TWfNckWttfLeO1e-Ow6bhVLgom_1Mztll_yt47LkqWpetFB75ipeL4AsrcDGp7ruXEmFw77WpaSaroeixKJo5o5gbPSID5pPLqyPbgf1vIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هیچ‌کس این چنین به ستیز با مردم برنخاسته بود ...
 ©
 sadroddinfallah
@@ -1385,7 +1385,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/ircfspace/2493" target="_blank">📅 19:32 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/ircfspace/2493" target="_blank">📅 19:32 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2492">
@@ -1508,7 +1508,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 90.3K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 90.4K · <a href="https://t.me/ircfspace/2485" target="_blank">📅 08:50 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2484">
@@ -1524,7 +1524,7 @@ github.com/IR-NETLIFY/zeus
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39.6K · <a href="https://t.me/ircfspace/2484" target="_blank">📅 08:35 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/ircfspace/2484" target="_blank">📅 08:35 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2483">
