@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 18:41:53</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 19:12:41</div>
 <hr>
 
 <div class="tg-post" id="msg-6633">
@@ -330,7 +330,7 @@
 <div class="tg-post" id="msg-6628">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">مصدق با عنوان ملی کردن صنعت نفت  (که در عمل هم رخ نداد! و سال ۵۲ رخ داد)  کشور رو وارد یک بحران عظیم مالی کرد!  شب و روز هم سخنرانی می‌کرد که رضاشاه راه‌آهن ساخت به خواست انگلیسی‌ها،  مدارس زیادی رو در کشور راه انداخت!  (باور می‌کنید این یکی از انتقادهاش همین…</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/farahmand_alipour/6628" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/farahmand_alipour/6628" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6627">
@@ -357,28 +357,28 @@
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UwLqtbj4B1xYGhdTkDGk29kLJFJVNv9a9HI4QzDdMAKeslrhj1uoELWTBai2r51mam4JpcFYNxTWGxVjSvuWugpyELdxAK3m_TAjcIiOWX2Bo0vyCUbcjGLG0QQZ89HFOIstnD-eXf3ZF83Q4xCGINupyWWw8euB3E1C51WZKdNp08u-Y2YukfPN5qDfRxb_pFSh7PmN5UJW4u9189yBCMnFFMoNCpqBi6jumTy28KQNpgTHeshnDdxB3i_4RCv-DPbaXPqJTtwigBlG-5UuHfGhPprSXg3hJx1nD_atAFUmCp3YlxAM4_Z2YbesD7oqKUB0ZMG1USRzw-BHkPXgsA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینها رفتند نفت رو ملی اعلام کردند  ولی فهمیدن نمی‌تونن نفت بفروشن!  چون نفت نمی‌تونستن بفروشن، پولی براشون نمونده بود! وارداتی انجام نمیشد!  کشور دچار قحطی شده  و گرانی و تورم شدید!  حالا مصدق رفته بود و از مجلس درخواست‌هایی میداد از جمله اینکه  وزارت جنگ…</div>
-<div class="tg-footer">👁️ 9.35K · <a href="https://t.me/farahmand_alipour/6624" target="_blank">📅 16:18 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.36K · <a href="https://t.me/farahmand_alipour/6624" target="_blank">📅 16:18 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6623">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d4X9kgu0GMN5xTmPUjlID3bNCqv6rfvf9ygjnc9nAR6wDGSniKmYt0aLRs00ZES3GrNhmpL9KPczz6oghdcZbLMBJhr_46XojSwqR7TKiklUAtqwYlUfSWPUgPX-NxgNZUyttidEz_LALfvCXXCldXy4j2uTL2Bgpl-RRU07dAWf09JhwnqX-UvGVp1EMz3vJY2km068y4SVA0EpYYFeZ5aUOpYej_UlNDSKA7FNphTny-Q-2YH62ttTc3x1bZqFv4zezSkRfZ_xVQsBWJJdRmXtEzpbcZ1JLzwurrB1Hb8fYlqtptghLOQFuDJ7oP2FbQX2GlaFwC_6YALEoDM1Qg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مصدق به عنوان نخست وزیر اساسا  حق نداشت مجلس رو منحل اعلام کنه!  بر اساس قانون مشروطه،  این حق فقط و فقط برای مواقع اضطراری بر عهده شاه بود!  اما مصدق چون درخواست‌هایی از مجلس داشت و همین یاران خودش علیه این درخواست‌ها ایستادگی کردند،  در یک اقدام کاملا غیرقانونی…</div>
-<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/farahmand_alipour/6623" target="_blank">📅 16:15 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.53K · <a href="https://t.me/farahmand_alipour/6623" target="_blank">📅 16:15 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6622">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vcfn69DWDRB3OV4pLRSaVR_swYqIAAElli1kzKzmTHsPDJvy1CexK0TPPk1lzhQG5crzhOb59IzuA5EUPdi0ZNrHMv8u-DKEuU9BfQ4ok5KWIG8hGyO7DgkKqhcap1E6Eeve7zadaT3eQa9CHjC2Hp6irNjE1VCEaPNfOCakqdNTU2wyvUzhiSmJ92fj8KMfGJqddLQ83a2wlQ6bYwbpRL6fz63B5YyWxMSunqlbn2vFSvB0OCgcJbkjDWI3DRZNoXl2i0PVaIXpnUHK8Nh5qJvzW2juiQSn3gqu4GfTz2KHA8lUqs7m-7je5TeMS1hQRNr_Q4j_CiPy3hoGuZQzQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این سه فرد که نام بردم  و چهره‌های اصلی حامی مصدق بودند  و نمایندگان بسیار شاخص مجالس مختلف،  نسبت به این نحو از برگزاری انتخابات اعتراض چندانی نکردند!  مثلا مصلحت بود برای حمایت از دولت مصدق!  مصدق به روشنی برای اینکه نمایندگان  حامی شاه وارد مجلس نشن،  انتخابات…</div>
-<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/farahmand_alipour/6622" target="_blank">📅 16:09 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.53K · <a href="https://t.me/farahmand_alipour/6622" target="_blank">📅 16:09 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6621">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EWjQKQtEBg64VTqKYxNshaOICEeHmR_Rih_xX5BeTDBWpPbiexND5_aE4drcgTPRqNPMjQimZrwqEINz0ej9OZXOCceqtO7TxpT-9bI0CjavAsSU2OC2_dfIlLHfwlo1iH0G84871kzbf3nRJwZY1NscOVwZuIz_LyxRKnx3yyDbOXanCNghas4rr1apmZbuJynfS8BSJAn96sWPFRM0gRYt8qow-7JyNKuifDRt0I0pyuoNJpdFAa_kF7764qS5a5-xTisPcmrSVpxVxASmzQWIuN1FnUFLM8hs2iP1BzdtZUgly2_ZmKOPoVqOdQmc47e0E5n017mER3iury5GTA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">انتخابات مجلس ١٧ ام رو چه دولتى برگزار كرد؟ دولت مصدق! ولى همينكه اسم ٨٠ نماينده مشخص شد، مصدق دستور داد انتخابات متوقف بشه!  گفت براى حد نصاب جلسات وراى گیری ٨٠ نماينده كافى است! قاعدتا بايد ١٣٨ نماينده به مجلس میرفتند! خيلى از شهرهاى ايران، در اين مجلس نماينده…</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/farahmand_alipour/6621" target="_blank">📅 16:04 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farahmand_alipour/6621" target="_blank">📅 16:04 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6620">
@@ -443,7 +443,7 @@
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lbR6h7_bW1_Q8eyR6CnjcPqxNeU_hRG25kydVtB8nlETrI5vd_kUWvH-3SMcNJuu7qKI9AaC7y569bOhuRowcmdG_ChYLvEapZq9pJYl9DqRlWzuCnai0VC591DD2V8MFqQVcpjP4YTm1pUqm7YbZYjMjs5qB5zK3hZ9v8in-VeX01nc8emnM1BnCHITAg2OPWuNWAFzoBapBtEEk77d_aYUIVyElpfCClhQooAjewVZ6USofDgoRJcI3xE6J2VVnLeRswehqbQ67XL3WbCxZSvYFrXZT5yBMZgSM8lTr6GiwCVGhL3zhTqBb9MCjcB3WCDf875z2r9DqqKniDS9Pg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بخشی از درگیری‌های خرداد ۱۳۶۰  بین حامیان خمینی و ملی‌گراها، در واقع ادامه درگیری بین مصدق و نواب صفوی بود.  هر دو گروهی که ضد شاه بودند هم در سال ۳۲ به جان هم افتادند هم در سال ۱۳۶۰</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/farahmand_alipour/6614" target="_blank">📅 19:34 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/6614" target="_blank">📅 19:34 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6612">
@@ -509,7 +509,7 @@
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Eu1kvv70FLgk3kkWGXop4INWUzWXdfheWb3jsU4849bO9LFz4EUDhN0wgIS7WbJVRf3bJQYoG_GhqMy0ZAuiUd1d5QnRHYQCxUTbcXLltdsPJVkDw54w-18JNUbHX1K4tfmqYavCW95fOJMY6GaOp6XsVlO3mED0q6ebZoZM-S2_Bztceztf0E7hSH-TuMrcxAeYU5EZH6oCeiAQ7rRxim5fJZYdxKm9T9MWHNn79jBSIn8jRsaWsOb-yzp_83n-d2OJa4jKErV1tNbPT2AxvlgRAXHNiP5I1Po_KnpxHddcOqsNeZ2qP36JWgS-FDbbJh8MP7pZyLzPB__Yo52Zmw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جنايت هايى كه جمهورى اسلامى عليه مردم ايران روا داشته، هرگز وهرگز اسرائيل عليه مردم فلسطين روا نداشته! قوه قضائيه جمهورى اسلامى عامل ٪٨٠ از مجموع اعدام‌هاى جهانه!! سيستم قضايى اسرائيل حتى يك فلسطينى رو اعدام نكرده! نه فلسطينى ونه يهودى و اسرائيلى! اسرائيل…</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/farahmand_alipour/6604" target="_blank">📅 17:39 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/farahmand_alipour/6604" target="_blank">📅 17:39 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6603">
@@ -589,7 +589,7 @@
 قطر رو ولی حتی بیشتر!
 که اون شبکه الجزیره‌اش
 کپی صدا و سیمای خودتونه!</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/farahmand_alipour/6595" target="_blank">📅 17:29 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/farahmand_alipour/6595" target="_blank">📅 17:29 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6594">
@@ -652,7 +652,7 @@
 <div class="tg-post" id="msg-6589">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">در جنگ با هوازن (جنگ حنین)  [که خامنه‌ای قیام حاشیه نشینان فقیر مشهد- کوی طلاب در سال ۱۳۷۱ رو به بازماندگان جنگ حنین نسبت داد!!!]  تعداد زیادی زن و کودک نصیب مسلمان شد!  مسلمانان مکه رو فتح کرده بودند  میخواستن برن طائف رو هم بگیرن که وسط راه جنگ با قبیله…</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/farahmand_alipour/6589" target="_blank">📅 15:00 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/farahmand_alipour/6589" target="_blank">📅 15:00 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6588">
@@ -670,7 +670,7 @@
 <div class="tg-post" id="msg-6586">
 <div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">وقتی ثابت بن قیس (مسلمان) نزد زبیر بن باطا (یهودی - اسیر) رفت و به او مژده داد که از پیامبر برای او، همسرش، فرزندانش و اموالش امان گرفته است، مکالمه‌ای بین آن‌ها شکل گرفت: زبیر پس از شنیدن این خبر، از ثابت درباره سرنوشت رهبران و بزرگان قبیله‌اش پرسید و تک‌تک…</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/farahmand_alipour/6586" target="_blank">📅 14:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/farahmand_alipour/6586" target="_blank">📅 14:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6585">
@@ -924,10 +924,10 @@
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/2226555990.mp4?token=FR5CUyy18wygiMW-PYcgSaN_2LhPseOCDf6dBXUQbQUvaWT7TOtOtkRDZtcEq40BagUGrdEAXn_r1pv5DZMyTNzLmsaIKD960aaGbT2iKupW_mJsMmPS2oF66xqJEXqOenSsr5BI37qC4_s1DhDt9DlefZRLCcCBUpNZSS3r4NQczePKnrSOxnOY4v02xp3zpANarYIUjZi7jWc-SMtSQ2tyYp7_6ih8oIbYXtgm6j4fgLvcL76FB5RwOmB-RavyCqxX2Jyf5FJdtt45Nu0AMX8pBd4Jf8PvaxE0Eay3fA93nCzrk37utHM8CpXKn09zPqBE1UcWp2UbNQHaNgNuAQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/2226555990.mp4?token=ERi8VTNK801Nlh03kNm4CA4Q83yGYOYjTKBkUitV-6PBAQJ90A2Gcn0n2601-__PVoQQpJtJ4IHM0wnZ7Q0MVUsJbLH5JKwuvKMaJdY2k1911TzUB7uKZZKNC6F9QH-z0Qps_50O5kf7rPlQaPkjfrJAusTnP6uJKEFuFYkNbdfGdxRCPOn2Vv0CiTUmA6VGFRf0sNBYXR8P39MuCV4XgzyrV236WB9DOXGVBv2IXfDUNldDawQ6JMx2B8hFur9Wif33iNJ26udbHG_T-t65FGJNORUcT3B-JK85pF6OJwuk75trmRWEX3RV6kKKanPmM4N844w3SIOnY5gxtMwIVQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/2226555990.mp4?token=FR5CUyy18wygiMW-PYcgSaN_2LhPseOCDf6dBXUQbQUvaWT7TOtOtkRDZtcEq40BagUGrdEAXn_r1pv5DZMyTNzLmsaIKD960aaGbT2iKupW_mJsMmPS2oF66xqJEXqOenSsr5BI37qC4_s1DhDt9DlefZRLCcCBUpNZSS3r4NQczePKnrSOxnOY4v02xp3zpANarYIUjZi7jWc-SMtSQ2tyYp7_6ih8oIbYXtgm6j4fgLvcL76FB5RwOmB-RavyCqxX2Jyf5FJdtt45Nu0AMX8pBd4Jf8PvaxE0Eay3fA93nCzrk37utHM8CpXKn09zPqBE1UcWp2UbNQHaNgNuAQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/2226555990.mp4?token=ERi8VTNK801Nlh03kNm4CA4Q83yGYOYjTKBkUitV-6PBAQJ90A2Gcn0n2601-__PVoQQpJtJ4IHM0wnZ7Q0MVUsJbLH5JKwuvKMaJdY2k1911TzUB7uKZZKNC6F9QH-z0Qps_50O5kf7rPlQaPkjfrJAusTnP6uJKEFuFYkNbdfGdxRCPOn2Vv0CiTUmA6VGFRf0sNBYXR8P39MuCV4XgzyrV236WB9DOXGVBv2IXfDUNldDawQ6JMx2B8hFur9Wif33iNJ26udbHG_T-t65FGJNORUcT3B-JK85pF6OJwuk75trmRWEX3RV6kKKanPmM4N844w3SIOnY5gxtMwIVQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">و تاریخ ثابت کرد حق با آرش و آرش‌ها بود!
 فهم آرش از «شریعتی» و «آل احمد» و «هما ناطق» و «شاملو» و «غلامحسین ساعدی» و…. بسیار بالاتر بود.</div>
