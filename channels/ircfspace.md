@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 09:20:26</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 09:53:29</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -1323,7 +1323,7 @@ github.com/ZethRise/Aethery/releases
 
 <div class="tg-post" id="msg-2496">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SuD58ITLBRr9u1aVUAtIeyKkhW0gIkFkxhnBqc5Xpmu6KL7axJ5omiFOd5cDoB7kUkb25i5Z6LOnAsLEM7KQCszDts3-A8D7b6jAE1KCIEOkhP4OrdI-NXCQm-DqszcB79FCsXh1zUr6WCVi9J7zSWyN1qr-yQKey4fQq8FDV-1aKAfPfpA0jTzcDmN_KsOinFLEmU5_c_y0U4_umFrs1M-OIFZZzVZ5k88gQtRu9_fOWUWcSph1_TjQlp-RCRVX1SIO2vrw1LKVIek4XkufeS6EDLEMh7GOerNDARkvp-c-vo53vQ6mT3zq5HHCB-q1x26lYrRF6LaVDIm3T0dnMg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JMOIhby5bNhuYIcV-fkAW8BR21uxG5M9mcRf4M0OcVEv9ieB0reFgBmR264Qbs0QrFgZR_cDrYJ-khtMZOrxiQg6SLLRT1e5ESYWnaHTAK0pHI-s-G4FIE3y5954etHY7jcq0xbMHos568jxOkjOznRKkDE53KL7mecZAOA9QDLiF7G7X7xcPmZHCQdRyHCS2J1-c_IDgdX0jfRsCw9CRkRwLLSwddbccfNkbIeg-OrZ36fBd-X1NfFB6g5xkCnYwFeMeBf_MFB9mBWmWuv4sr7eg0zwHZQEh_Tk7vHQWZFooRGAZuZvyexok8FmNnADavVbf4lNWXFWMJX22EQfUw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت رسمی Sing-box برای سیستم‌عامل ویندوز بصورت پیش‌ازانتشار عرضه شده و طبق اعلام توسعه‌دهنده‌ش، همون تجربه‌ای رو ارائه میده که پیش‌تر در نسخه macOS در دسترس بود.
 👉
 github.com/SagerNet/sing-box/releases
