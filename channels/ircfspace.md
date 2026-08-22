@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 05:39:25</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 06:42:39</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -442,7 +442,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.7K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -1127,7 +1127,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 
 <div class="tg-post" id="msg-2509">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/BXsPrWc_VSsOQo9XpzMZVWuPuH9x1HefaAaZQgPeO67VHaiqg9xa8W3QAJGnGHsUJlwAa1H5U_Lg1fhtzhbX-7t2_3Yiq6yCQwJ-HEzb2ay3w8DZYfja5F9vl_sA3_8NUQcnzdj7fHfpIxYbIJbhK-7WZcUjqSLz9eJslMbJCmtHQY0i4O8ouuMZAKyVUQLFgJ4nUXm6TOLQz2wZ1uBpPTJbazFcqg5KKvPflrlS7yoEj8Oso2_muv294hshLwcm9R2hVkfbaxNfS_IktN-9UCEbX9TvSqR-duFLC5lLXnMNVBfLHikzo4WBb1PfchVprzgNbVP9FStRf_Ztz5-7Ng.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fKinPGcd535EiUfShnvkyfoCHBJjRTDok1LmazcctAbo32lIyudVpmZrdHaa2Ce7qev9v2F_W4AZkoN2gJoDJy6kYqr-p2KF7u4KSwSjlW-tI4EXxcLISfQTB8MgQQ9vygb_qCI1Z9hjVmJT07fiFVMlOffPJTaihoTGK6jB-BEbwf_klx6csdu1xjInHTDi2Nrv1oflEhXT8Byo6oABHesoO-HnPGS9dkMY_E0hYDXNaBAIoB_MWAhrSqhQBoL7RGvIQ4WIdkHk5SGqV8-4hcGfRIBgjcZxWx_5oUX459CMf4DEQLHTBkv0DpCo-qF_iuTo2Eput1vOZBJXs5WNLg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سایت فوتبال ۳۶۰ عادل فردوسی‌پور توسط قوه عاقله فیلتر و دیشب چند دقیقه قبل از شروع برنامه زنده از دسترس خارج شد.
 هنوز علتش بطور رسمی اعلام نشده، اما این اتفاق پس از درخواست سرمربی پرافتخار(!) تیم فوتبال جمهوری اسلامی برای برخورد با این برنامه و یک روز پس از جوابیه به امیر قلعه‌نویی صورت گرفته!
 🔗

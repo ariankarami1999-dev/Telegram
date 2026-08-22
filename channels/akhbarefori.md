@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/ifTA3EiV27UZq8zQLvkvwN_B6JfnNmcpm9BqRhbCQk263Kg817kKbsaVE_zuGZxLTxPz5W9e9xQVG9xNn3_bYYk_kItSCjYsuYcMdEc0g2Q5n6jS78zjsLW0Fv7IXaaXCEXcrYre5qyWPrGcWxQkYJQ5Qjoi8xAJs_Ony4DE_CPiNtmq0pb6RR9j1ceQxG-5m5-CS1KHcUt-MDWIHQ7pOsfWgHyM7nEWl3UwmYV290nQuREmorGJTUxMT2sIGbDHIPzZKooqRvVw-s6XCOBnhUm5brmVZtc7ZoOXr7QSd3Wk8W4BOEJ8wQH6ZKPTjDj33hvEih3Q_DvRagMA_ll5fw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 خبرفوری</h1>
-<p>@akhbarefori • 👥 4.17M عضو</p>
+<p>@akhbarefori • 👥 4.18M عضو</p>
 <a href="https://t.me/akhbarefori" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽تبلیغ درکانال خبرفوری@ads_foriارتباط مستقیم با ادمین تبلیغ@newsadminجهت رزرو تبلیغ تماس بگیرید. 09018373801؛ارتباط با ما@Ertebat_baforiiتبلیغ در ۳۰۰کانال تلگرام@Maino_marketer</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 05:39:25</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 06:42:39</div>
 <hr>
 
 <div class="tg-post" id="msg-683218">
@@ -311,7 +311,7 @@
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 6.19K · <a href="https://t.me/akhbarefori/683218" target="_blank">📅 04:46 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/akhbarefori/683218" target="_blank">📅 04:46 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683217">
@@ -334,7 +334,7 @@
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 9.56K · <a href="https://t.me/akhbarefori/683217" target="_blank">📅 03:53 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/akhbarefori/683217" target="_blank">📅 03:53 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683216">
@@ -354,7 +354,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/akhbarefori/683216" target="_blank">📅 03:32 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/akhbarefori/683216" target="_blank">📅 03:32 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683215">
@@ -367,7 +367,7 @@ Link</div>
 این تنها کشور در جهان است که هیچ کس نمی‌خواهد رئیس جمهور شود.
 🔹
 آنها…</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/akhbarefori/683215" target="_blank">📅 03:10 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/akhbarefori/683215" target="_blank">📅 03:10 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683214">
@@ -378,7 +378,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/akhbarefori/683214" target="_blank">📅 03:06 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/akhbarefori/683214" target="_blank">📅 03:06 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683213">
@@ -389,7 +389,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/akhbarefori/683213" target="_blank">📅 02:55 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/akhbarefori/683213" target="_blank">📅 02:55 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683212">
@@ -403,7 +403,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/akhbarefori/683212" target="_blank">📅 02:54 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/akhbarefori/683212" target="_blank">📅 02:54 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683211">
@@ -421,7 +421,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/akhbarefori/683211" target="_blank">📅 01:44 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.3K · <a href="https://t.me/akhbarefori/683211" target="_blank">📅 01:44 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683210">
@@ -442,7 +442,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/akhbarefori/683210" target="_blank">📅 00:51 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/akhbarefori/683210" target="_blank">📅 00:51 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683209">
@@ -455,7 +455,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbartehran</div>
-<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/akhbarefori/683209" target="_blank">📅 00:42 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37.1K · <a href="https://t.me/akhbarefori/683209" target="_blank">📅 00:42 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683208">
@@ -467,7 +467,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 32.4K · <a href="https://t.me/akhbarefori/683208" target="_blank">📅 00:38 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37K · <a href="https://t.me/akhbarefori/683208" target="_blank">📅 00:38 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683207">
@@ -486,7 +486,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/akhbarefori/683207" target="_blank">📅 00:38 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/akhbarefori/683207" target="_blank">📅 00:38 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683206">
@@ -500,7 +500,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/akhbarefori/683206" target="_blank">📅 00:35 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/akhbarefori/683206" target="_blank">📅 00:35 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683205">
@@ -513,7 +513,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/akhbarefori/683205" target="_blank">📅 00:34 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/akhbarefori/683205" target="_blank">📅 00:34 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683204">
@@ -530,7 +530,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/akhbarefori/683204" target="_blank">📅 00:26 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/akhbarefori/683204" target="_blank">📅 00:26 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683203">
@@ -542,7 +542,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 30K · <a href="https://t.me/akhbarefori/683203" target="_blank">📅 00:21 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/akhbarefori/683203" target="_blank">📅 00:21 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683202">
@@ -554,7 +554,7 @@ Link</div>
 🔹
 با قرائت دعای فرج به این جمع میلیونی بپیوندیم
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/akhbarefori/683202" target="_blank">📅 00:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/akhbarefori/683202" target="_blank">📅 00:00 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683201">
@@ -586,7 +586,7 @@ khabarfoori.com/fa/tiny/news-3239216
 همه خبرهای جنگ و مذاکره را اینجا مرور کنید
 🔹
 https://share.google/8EImhrm9fBFYjsyZr</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/akhbarefori/683201" target="_blank">📅 23:55 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/akhbarefori/683201" target="_blank">📅 23:55 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683200">
@@ -605,7 +605,7 @@ https://share.google/8EImhrm9fBFYjsyZr</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/akhbarefori/683200" target="_blank">📅 23:48 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/akhbarefori/683200" target="_blank">📅 23:48 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683199">
@@ -618,7 +618,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/akhbarefori/683199" target="_blank">📅 23:42 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/akhbarefori/683199" target="_blank">📅 23:42 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683198">
@@ -633,7 +633,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/akhbarefori/683198" target="_blank">📅 23:38 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/akhbarefori/683198" target="_blank">📅 23:38 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683197">
@@ -650,7 +650,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/akhbarefori/683197" target="_blank">📅 23:36 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/akhbarefori/683197" target="_blank">📅 23:36 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683191">
@@ -671,7 +671,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/akhbarefori/683191" target="_blank">📅 23:30 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/akhbarefori/683191" target="_blank">📅 23:30 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683190">
@@ -682,7 +682,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/akhbarefori/683190" target="_blank">📅 23:20 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/akhbarefori/683190" target="_blank">📅 23:20 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683189">
@@ -700,7 +700,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/akhbarefori/683189" target="_blank">📅 23:17 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/akhbarefori/683189" target="_blank">📅 23:17 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683188">
@@ -719,7 +719,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/akhbarefori/683188" target="_blank">📅 23:14 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.2K · <a href="https://t.me/akhbarefori/683188" target="_blank">📅 23:14 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683187">
@@ -732,7 +732,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 34K · <a href="https://t.me/akhbarefori/683187" target="_blank">📅 23:10 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37.9K · <a href="https://t.me/akhbarefori/683187" target="_blank">📅 23:10 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683186">
@@ -751,7 +751,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/akhbarefori/683186" target="_blank">📅 23:06 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36K · <a href="https://t.me/akhbarefori/683186" target="_blank">📅 23:06 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683185">
@@ -762,7 +762,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 34.2K · <a href="https://t.me/akhbarefori/683185" target="_blank">📅 22:59 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/akhbarefori/683185" target="_blank">📅 22:59 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683184">
@@ -772,7 +772,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/akhbarefori/683184" target="_blank">📅 22:58 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.9K · <a href="https://t.me/akhbarefori/683184" target="_blank">📅 22:58 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683183">
@@ -785,7 +785,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/akhbarefori/683183" target="_blank">📅 22:56 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/akhbarefori/683183" target="_blank">📅 22:56 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683182">
@@ -809,7 +809,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 34.2K · <a href="https://t.me/akhbarefori/683182" target="_blank">📅 22:51 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/akhbarefori/683182" target="_blank">📅 22:51 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683181">
@@ -830,7 +830,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/akhbarefori/683181" target="_blank">📅 22:47 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37K · <a href="https://t.me/akhbarefori/683181" target="_blank">📅 22:47 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683180">
@@ -849,7 +849,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/akhbarefori/683180" target="_blank">📅 22:46 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/akhbarefori/683180" target="_blank">📅 22:46 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683179">
@@ -861,7 +861,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 38.5K · <a href="https://t.me/akhbarefori/683179" target="_blank">📅 22:40 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/akhbarefori/683179" target="_blank">📅 22:40 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683178">
@@ -883,7 +883,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/akhbarefori/683178" target="_blank">📅 22:38 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/akhbarefori/683178" target="_blank">📅 22:38 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683177">
@@ -902,7 +902,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 33.6K · <a href="https://t.me/akhbarefori/683177" target="_blank">📅 22:38 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36K · <a href="https://t.me/akhbarefori/683177" target="_blank">📅 22:38 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683176">
@@ -925,7 +925,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/akhbarefori/683176" target="_blank">📅 22:33 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/akhbarefori/683176" target="_blank">📅 22:33 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683175">
@@ -946,7 +946,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 35K · <a href="https://t.me/akhbarefori/683175" target="_blank">📅 22:29 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37.1K · <a href="https://t.me/akhbarefori/683175" target="_blank">📅 22:29 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683174">
@@ -962,7 +962,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 35.9K · <a href="https://t.me/akhbarefori/683174" target="_blank">📅 22:26 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38K · <a href="https://t.me/akhbarefori/683174" target="_blank">📅 22:26 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683173">
@@ -979,7 +979,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/akhbarefori/683173" target="_blank">📅 22:23 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.4K · <a href="https://t.me/akhbarefori/683173" target="_blank">📅 22:23 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683172">
@@ -997,7 +997,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/akhbarefori/683172" target="_blank">📅 22:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.6K · <a href="https://t.me/akhbarefori/683172" target="_blank">📅 22:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683171">
@@ -1013,7 +1013,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/akhbarefori/683171" target="_blank">📅 22:07 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.7K · <a href="https://t.me/akhbarefori/683171" target="_blank">📅 22:07 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683170">
@@ -1022,7 +1022,7 @@ Link</div>
 نتانیاهو کودک‌کش: اجازه نمی‌دهیم اردوغانِ دیکتاتور سوریه را اشغال کند
 🔹
 نتانیاهو با متهم کردن اردوغان به دیکتاتوری، یهودستیزی، کشتار کردها، پناه دادن به حماس، اشغال نیمی از قبرس و زندانی کردن مخالفان، تأکید کرد که اجازه نمی‌دهد او دامنهٔ تجاوزاتش را به سوریه…</div>
-<div class="tg-footer">👁️ 36K · <a href="https://t.me/akhbarefori/683170" target="_blank">📅 22:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/akhbarefori/683170" target="_blank">📅 22:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683169">
@@ -1039,7 +1039,7 @@ Link</div>
 🔗
 لینک نظرسنجی:
 https://harvard.az1.qualtrics.com/jfe/form/SV_6MsiAUIGfXgJZQy</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/akhbarefori/683169" target="_blank">📅 22:00 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/akhbarefori/683169" target="_blank">📅 22:00 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683163">
@@ -1064,7 +1064,7 @@ https://harvard.az1.qualtrics.com/jfe/form/SV_6MsiAUIGfXgJZQy</div>
 #امام_زمان
 (عج)
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 34.2K · <a href="https://t.me/akhbarefori/683163" target="_blank">📅 22:00 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/akhbarefori/683163" target="_blank">📅 22:00 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683156">
@@ -1083,7 +1083,7 @@ https://harvard.az1.qualtrics.com/jfe/form/SV_6MsiAUIGfXgJZQy</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/akhbarefori/683156" target="_blank">📅 21:54 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/akhbarefori/683156" target="_blank">📅 21:54 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683155">
@@ -1105,7 +1105,7 @@ https://youtu.be/PkNQz2D9nTY?si=MZvjgT4CBM9FkUZQ
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/akhbarefori/683155" target="_blank">📅 21:47 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/akhbarefori/683155" target="_blank">📅 21:47 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683154">
@@ -1118,7 +1118,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/akhbarefori/683154" target="_blank">📅 21:46 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.5K · <a href="https://t.me/akhbarefori/683154" target="_blank">📅 21:46 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683153">
@@ -1134,7 +1134,7 @@ Link</div>
 <li>✓ ۱۴ هزار صلوات</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/akhbarefori/683153" target="_blank">📅 21:43 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.5K · <a href="https://t.me/akhbarefori/683153" target="_blank">📅 21:43 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683152">
@@ -1152,7 +1152,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/akhbarefori/683152" target="_blank">📅 21:35 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/akhbarefori/683152" target="_blank">📅 21:35 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683151">
@@ -1170,7 +1170,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/akhbarefori/683151" target="_blank">📅 21:34 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.5K · <a href="https://t.me/akhbarefori/683151" target="_blank">📅 21:34 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683150">
@@ -1184,7 +1184,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 38.7K · <a href="https://t.me/akhbarefori/683150" target="_blank">📅 21:25 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/akhbarefori/683150" target="_blank">📅 21:25 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683149">
@@ -1206,7 +1206,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/akhbarefori/683149" target="_blank">📅 21:24 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/akhbarefori/683149" target="_blank">📅 21:24 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683148">
@@ -1220,7 +1220,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 38.6K · <a href="https://t.me/akhbarefori/683148" target="_blank">📅 21:21 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/akhbarefori/683148" target="_blank">📅 21:21 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683147">
@@ -1233,7 +1233,7 @@ Link</div>
 گزارش خبرفوری را اینجا بخوانید
 👇
 khabarfoori.com/fa/tiny/news-3239391</div>
-<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/akhbarefori/683147" target="_blank">📅 21:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/akhbarefori/683147" target="_blank">📅 21:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683146">
@@ -1259,7 +1259,7 @@ khabarfoori.com/fa/tiny/news-3239391</div>
 🤍
 بیایید در این شب عهد و انتظار، دست در دست هم، بیعتی دوباره با امام زمان (عج) کنیم...
 @Heyate_gharar</div>
-<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/akhbarefori/683146" target="_blank">📅 21:15 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.4K · <a href="https://t.me/akhbarefori/683146" target="_blank">📅 21:15 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683145">
@@ -1272,7 +1272,7 @@ khabarfoori.com/fa/tiny/news-3239391</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/akhbarefori/683145" target="_blank">📅 21:08 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/akhbarefori/683145" target="_blank">📅 21:08 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683144">
@@ -1291,7 +1291,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/akhbarefori/683144" target="_blank">📅 20:57 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/akhbarefori/683144" target="_blank">📅 20:57 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683143">
@@ -1308,7 +1308,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 37.9K · <a href="https://t.me/akhbarefori/683143" target="_blank">📅 20:56 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/akhbarefori/683143" target="_blank">📅 20:56 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683142">
@@ -1327,7 +1327,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 39K · <a href="https://t.me/akhbarefori/683142" target="_blank">📅 20:50 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.5K · <a href="https://t.me/akhbarefori/683142" target="_blank">📅 20:50 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683141">
@@ -1352,7 +1352,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 38.2K · <a href="https://t.me/akhbarefori/683141" target="_blank">📅 20:48 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40K · <a href="https://t.me/akhbarefori/683141" target="_blank">📅 20:48 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683140">
@@ -1366,7 +1366,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/akhbarefori/683140" target="_blank">📅 20:40 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/akhbarefori/683140" target="_blank">📅 20:40 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683139">
@@ -1392,7 +1392,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/akhbarefori/683139" target="_blank">📅 20:35 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/akhbarefori/683139" target="_blank">📅 20:35 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683138">
@@ -1410,7 +1410,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbareisfahan</div>
-<div class="tg-footer">👁️ 39.5K · <a href="https://t.me/akhbarefori/683138" target="_blank">📅 20:32 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41K · <a href="https://t.me/akhbarefori/683138" target="_blank">📅 20:32 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683137">
@@ -1424,7 +1424,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/akhbarefori/683137" target="_blank">📅 20:29 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/akhbarefori/683137" target="_blank">📅 20:29 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683136">
@@ -1437,7 +1437,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 42K · <a href="https://t.me/akhbarefori/683136" target="_blank">📅 20:20 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.5K · <a href="https://t.me/akhbarefori/683136" target="_blank">📅 20:20 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683135">
@@ -1450,7 +1450,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 40.5K · <a href="https://t.me/akhbarefori/683135" target="_blank">📅 20:11 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42K · <a href="https://t.me/akhbarefori/683135" target="_blank">📅 20:11 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683134">
@@ -1467,7 +1467,7 @@ ZCorpa) و داروی سماگلوتاید (Semaglutide) کوبل دارو با 
 Velorita) ، مسیر درمان چاقی در ایران هموار و آسان شده است.
 برای مطالعه متن کامل این مطلب روی لینک زیر کلیک کنید:
 https://abidipharma.com/health-items/obesity-assessment/?utm_source=telegram&utm_medium=post&utm_campaign=pr</div>
-<div class="tg-footer">👁️ 41.3K · <a href="https://t.me/akhbarefori/683134" target="_blank">📅 20:06 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.8K · <a href="https://t.me/akhbarefori/683134" target="_blank">📅 20:06 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683133">
@@ -1484,7 +1484,7 @@ https://abidipharma.com/health-items/obesity-assessment/?utm_source=telegram&utm
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 38K · <a href="https://t.me/akhbarefori/683133" target="_blank">📅 20:05 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.5K · <a href="https://t.me/akhbarefori/683133" target="_blank">📅 20:05 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683132">
@@ -1498,7 +1498,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/akhbarefori/683132" target="_blank">📅 20:01 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41K · <a href="https://t.me/akhbarefori/683132" target="_blank">📅 20:01 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683131">
@@ -1519,7 +1519,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/akhbarefori/683131" target="_blank">📅 19:58 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/akhbarefori/683131" target="_blank">📅 19:58 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683130">
@@ -1533,7 +1533,7 @@ Link</div>
 <a href="https://cdn4.telesco.pe/file/1f1a148fb2.mp4?token=BQS9Qd9bStbZ5JULO5dilvwkck7uOEzgV3SIP5JCwuAiyTGqxdHpKsoH3ylkdW8trT4DaIX36lz-JSoGIhE6o1kzBqgkaA-0PQIbJZ62xSyyiG6v1nQyXNA0U764jkLsaz__WWWxZ8B_ICuXl3qevew-xrIJ0GjuC9nV9yDxxsSz7MEax10VOD0Jjm3Mue84z2rlp4hD1qYD0jvUIe17rbOa0ZmG6F440XnU4FDXo_pwojrMpzNbvWuwt3c5UWyGYZi6Az7WDiNQJZDHs3Ki-Ltn70v-SgvQ-qKtiNh1AHAB6vsDfT4huY6NYcZfkf7jho8XwMyv4g3fxoGn_hQC3RkG_ZUutw4WdHUOK9YHT1MCn9Fzg0pN-mXgaEEau6yeucXcqC5mtlq9pr4kkZP_grn3CsSvCmn3OC39bAc_mGfeuQ2t01lVfgybBhhGDxB_aKsormj_8wM2K36oonjmZSfHm3Cx022w-0WaJKcPAJ5rvYgHG5b_hK_Rk72imug6Q5zhf8x4ZAu3qyXb-iHwZ6x6U9R03ATJJZt6fJHgWEl6MrNYmMw_Jhp_3Ieqx9lrHD4PS10AvG7tarUaDejmBnKhziTli6Km5-iIM7znEnTwSFbJc9R5Fhzw9SCD7GxSL8F1dDCjDFl2U06MeFUJZLMn2Mr6W90Q6m6xiUOS5m4" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‌ اگه توی رابطه‌ات با امام زمانت شکست بخوری، کل زندگی‌ات رو باختی!</div>
-<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/akhbarefori/683130" target="_blank">📅 19:54 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/akhbarefori/683130" target="_blank">📅 19:54 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683129">
@@ -1551,7 +1551,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbartehran</div>
-<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/akhbarefori/683129" target="_blank">📅 19:37 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.1K · <a href="https://t.me/akhbarefori/683129" target="_blank">📅 19:37 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683128">
@@ -1568,7 +1568,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/akhbarefori/683128" target="_blank">📅 19:29 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/akhbarefori/683128" target="_blank">📅 19:29 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683127">
@@ -1605,7 +1605,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 41.2K · <a href="https://t.me/akhbarefori/683127" target="_blank">📅 19:25 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/akhbarefori/683127" target="_blank">📅 19:25 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683124">
@@ -1625,7 +1625,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/akhbarefori/683124" target="_blank">📅 19:18 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43K · <a href="https://t.me/akhbarefori/683124" target="_blank">📅 19:18 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683122">
@@ -1638,7 +1638,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 40.6K · <a href="https://t.me/akhbarefori/683122" target="_blank">📅 19:15 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/akhbarefori/683122" target="_blank">📅 19:15 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683121">
@@ -1652,7 +1652,7 @@ Link</div>
 تازه‌ترین خبرهای ایران و جهان را به زبان انگلیسی دنبال کنید
 👇
 @AkhbareFori_En</div>
-<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/akhbarefori/683121" target="_blank">📅 19:10 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/akhbarefori/683121" target="_blank">📅 19:10 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683120">
@@ -1670,7 +1670,7 @@ Link</div>
 در فضای مجازی
 👇
 @akhbarkhorasanshomali</div>
-<div class="tg-footer">👁️ 41.1K · <a href="https://t.me/akhbarefori/683120" target="_blank">📅 19:05 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/akhbarefori/683120" target="_blank">📅 19:05 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683118">
@@ -1685,7 +1685,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/akhbarefori/683118" target="_blank">📅 19:01 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/akhbarefori/683118" target="_blank">📅 19:01 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683117">
@@ -1707,7 +1707,7 @@ Link</div>
 👇
 @Ertebat_baforii
 @Alo_fori</div>
-<div class="tg-footer">👁️ 40.5K · <a href="https://t.me/akhbarefori/683117" target="_blank">📅 18:55 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/akhbarefori/683117" target="_blank">📅 18:55 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683116">
@@ -1734,7 +1734,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/akhbarefori/683116" target="_blank">📅 18:52 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/akhbarefori/683116" target="_blank">📅 18:52 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683115">
@@ -1746,7 +1746,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 39.9K · <a href="https://t.me/akhbarefori/683115" target="_blank">📅 18:49 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/akhbarefori/683115" target="_blank">📅 18:49 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683114">
@@ -1768,7 +1768,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/akhbarefori/683114" target="_blank">📅 18:45 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/akhbarefori/683114" target="_blank">📅 18:45 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683113">
@@ -1784,7 +1784,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 40.1K · <a href="https://t.me/akhbarefori/683113" target="_blank">📅 18:43 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/akhbarefori/683113" target="_blank">📅 18:43 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683112">
@@ -1799,7 +1799,7 @@ Link</div>
 📊
 آمارفکت | مرجع تخصصی آمار کشور
 @amarfact</div>
-<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/akhbarefori/683112" target="_blank">📅 18:42 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.9K · <a href="https://t.me/akhbarefori/683112" target="_blank">📅 18:42 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683111">
@@ -1820,7 +1820,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 41.7K · <a href="https://t.me/akhbarefori/683111" target="_blank">📅 18:35 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/akhbarefori/683111" target="_blank">📅 18:35 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683110">
@@ -1838,7 +1838,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/akhbarefori/683110" target="_blank">📅 18:25 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.8K · <a href="https://t.me/akhbarefori/683110" target="_blank">📅 18:25 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683109">
@@ -1854,7 +1854,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 41.4K · <a href="https://t.me/akhbarefori/683109" target="_blank">📅 18:12 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.6K · <a href="https://t.me/akhbarefori/683109" target="_blank">📅 18:12 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683106">
@@ -1874,7 +1874,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 44.3K · <a href="https://t.me/akhbarefori/683106" target="_blank">📅 18:00 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 45.5K · <a href="https://t.me/akhbarefori/683106" target="_blank">📅 18:00 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683105">
@@ -1895,7 +1895,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 42.6K · <a href="https://t.me/akhbarefori/683105" target="_blank">📅 17:55 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/akhbarefori/683105" target="_blank">📅 17:55 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683104">
@@ -1909,7 +1909,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 40.7K · <a href="https://t.me/akhbarefori/683104" target="_blank">📅 17:51 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/akhbarefori/683104" target="_blank">📅 17:51 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683103">
@@ -1920,7 +1920,7 @@ Link</div>
 هرگونه فعالیت یا ارتباط اشخاص ایرانی یا خارجی که منجر به نقض وحدت ملی و موازین اسلامی شود، ممنوع است.
 🔹
 هر تبعه ایرانی که اقدام به اخذ هر…</div>
-<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/akhbarefori/683103" target="_blank">📅 17:47 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/akhbarefori/683103" target="_blank">📅 17:47 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683102">
@@ -1941,7 +1941,7 @@ Link</div>
 🔸
 🔸
 @bank_keshavarzi</div>
-<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/akhbarefori/683102" target="_blank">📅 17:47 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/akhbarefori/683102" target="_blank">📅 17:47 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683101">
@@ -1960,7 +1960,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 40.8K · <a href="https://t.me/akhbarefori/683101" target="_blank">📅 17:44 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42K · <a href="https://t.me/akhbarefori/683101" target="_blank">📅 17:44 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683099">
@@ -1977,7 +1977,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/akhbarefori/683099" target="_blank">📅 17:43 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/akhbarefori/683099" target="_blank">📅 17:43 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683097">
@@ -1994,7 +1994,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 42.1K · <a href="https://t.me/akhbarefori/683097" target="_blank">📅 17:37 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.3K · <a href="https://t.me/akhbarefori/683097" target="_blank">📅 17:37 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683096">
@@ -2012,7 +2012,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 41.3K · <a href="https://t.me/akhbarefori/683096" target="_blank">📅 17:34 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.8K · <a href="https://t.me/akhbarefori/683096" target="_blank">📅 17:34 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-683095">
@@ -2033,7 +2033,7 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 42K · <a href="https://t.me/akhbarefori/683095" target="_blank">📅 17:27 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 43.2K · <a href="https://t.me/akhbarefori/683095" target="_blank">📅 17:27 · 30 Mordad 1405</a></div>
 </div>
 
 <hr>
