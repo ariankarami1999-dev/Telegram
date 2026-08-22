@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 13:18:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-05-31 13:43:44</div>
 <hr>
 
 <div class="tg-post" id="msg-913">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">از اونجایی که طبق روال هر سال، قبل از افزایش قیمت، چند بار یاداوری میکنم،  از ۱ شهریور ۱۴۰۵، کلا تمام متن های مرتبط با شرایط جنگی و اطلاعیه مرتبط با افزایش قیمت مثل همین متن و... حذف خواهد شد.  ویدیوی دو فصل اول اپدیت دوره سئو بین المللی با AI هم در دست تدوین…</div>
-<div class="tg-footer">👁️ 728 · <a href="https://t.me/mohsentavoosiseo/913" target="_blank">📅 08:17 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 750 · <a href="https://t.me/mohsentavoosiseo/913" target="_blank">📅 08:17 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-912">
@@ -313,13 +313,13 @@ pinned «
 <div class="tg-post" id="msg-911">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.4K · <a href="https://t.me/mohsentavoosiseo/911" target="_blank">📅 15:08 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.41K · <a href="https://t.me/mohsentavoosiseo/911" target="_blank">📅 15:08 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-910">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.41K · <a href="https://t.me/mohsentavoosiseo/910" target="_blank">📅 14:53 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.42K · <a href="https://t.me/mohsentavoosiseo/910" target="_blank">📅 14:53 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-909">
@@ -365,13 +365,13 @@ pinned «
 ✅️
 همه اینا هست. فقط شرکت با شرکت، فرق داره. سایت با سایت فرق داره‌. هرچقدر بزرگ تر باشن شرکت ها، مدلاشون به مدل آخر نزدیک تر میشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/mohsentavoosiseo/906" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.72K · <a href="https://t.me/mohsentavoosiseo/906" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-905">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">کسانی که جدیدا دوره رو میخرند، دو تا دوره دریافت می کنند(قدیمی ها نگران نشید تا آخر بخونید).  دوره جدید، برای راحتی ذهن شما جداگونه قرارداده شده و دوره صفر تا صد SEO و AEO برای همه زبان ها و همه کشور هاست! و کاملا آمیخته با AI که ابزار اصلیمون Claude هست.…</div>
-<div class="tg-footer">👁️ 1.75K · <a href="https://t.me/mohsentavoosiseo/905" target="_blank">📅 20:56 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.76K · <a href="https://t.me/mohsentavoosiseo/905" target="_blank">📅 20:56 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-903">
@@ -399,7 +399,7 @@ pinned «
 <div class="tg-post" id="msg-901">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">سوال:   من از وقتی هاست سایتم رو برم روی Geo Dns میهن وب هاست یه مشکلی پیدا کردم. کلمات کلیدی تو سرچ کنسول رتبه دارن ولی وقتی خودم دستی سرچ میکنم نیستن. اکثر ساتیتام اینجوری شدن. این طبیعیه؟  پاسخ: https://t.me/mohsentavoosiseo/511 این ویس و ویس پایین  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.12K · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.13K · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-900">
@@ -416,7 +416,7 @@ https://t.me/mohsentavoosiseo/511
 <div class="tg-post" id="msg-899">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">کسانی که جدیدا دوره رو میخرند، دو تا دوره دریافت می کنند(قدیمی ها نگران نشید تا آخر بخونید).  دوره جدید، برای راحتی ذهن شما جداگونه قرارداده شده و دوره صفر تا صد SEO و AEO برای همه زبان ها و همه کشور هاست! و کاملا آمیخته با AI که ابزار اصلیمون Claude هست.…</div>
-<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.57K · <a href="https://t.me/mohsentavoosiseo/899" target="_blank">📅 10:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
@@ -468,10 +468,10 @@ Ban
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=Ae3ycsBMRLZgXTnD2x7pjKmNFLZT86X9_o4FK588TUEgNRuTOnBCpSRKmNzzISHX0rAr_PfVWQ_uGxcr7f5lnKpNfZTn-5BgUh7W463eD5IFbeGKxpyKBu-J9Jz-o3ZfC5mSFcgUgc9epEKHZx4odiMuog-gwxW3Ums6HOXjiIpBszMPq1FR9-A4-eVUZKiywgXghP4k6qYHFjZr27q6WlbYKvilnKhEBiuYjExI1EArkPmj9D_IhVE5u7flHkxIqW9DxdxZXdkI-d_1p9Aa9VFsbJirXiHWbz3I3yxLzsOHni4N1joTyzXlSLf8DFIo6gNH_bv8w4Pwr3ch7L7FVHLfTI7TYsJkDCfrGDwAkV5vskE7bwoq5c5oMYCyRpsBk4SjWYPr2yrdmdu1K8MFYpE_5Fj_zqbxRSJtSJB_OELnU56J644I1K2nZFV2FfhKod9AQ3VBx-noJO5NLaJnu7ENnjf6L8X1EwbVUpUsMfsHe0N7DKMrPFzwfmR-PlOBnXuBj-jNXHRPYAG8gnbhjzD1CNv4wiC4DhtDuTNc-HhEGW1As707Jk1pzW_m0Xcf7Dg7rA9qaOVdgsFVL8SaG7x2GioxVAcED-oWdmcxRhuM13Hy45VomziqlD09VrrN5-Dw4X8G-4Zcoym9nI9F6S4XDnKt3EEP9d1dlCgGQJs" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=ig3TSVoY48LkavEYpSlJscT_uW9HMQ9XgXPE1ohMOJhhGTkmgFVb_398RmExOQi80-q5xNb72kfrqp16FjcHC4BV0xHk86eEQX5fA3WT4ZB6GHb8DrgpctxNOh0a21RzTU3uR-s4ccSmMaEcHYS4U6LEtUo1SkffxSX4YnIn7M2Z_d3J-FjytLxTJMRw8sWsTzfOWh3vdr55J-rJ7Md0_ir-OE81REa4cHHf7RfkGZ-X8jl-RsTXpE4XphKaprbH6kOl69VkgAowqF6XO_oFAndnngsFIYCUV8fbGUSbtKc8LO8Ub7Yt8c_6qvCXWOkY0rBdUgSisaaT9kycZyVJ95ARf0v9-c4O7t_A3MY4QrTyfecn4uYQueHAzkvwO0I05fNrtjl4TRkBINkNFTiYR8ITDQrZJcUFq0ZzrjVuIj-9cGomlr96N0b2UjjUohNt5cVseeCCywDmxEOjGC9ABcHLZ73pOlEbF887qI_IQVVCJsuadSKJ0fNddYGxo7QiPZUsksgecAN65lshnLeLpDuwMXRfS727T23cwK2fGvaeG1QNA5aZvuptpSZRXCs2cgPzT8rLA2c4cuBUWNHflKlKD4UCSLZhcf9lFgot27Pq92DGac7AWN2WJQ2RzpVuO7HE4WjKFiICm1SGTc5Mes3wflEZ-_pT0YXis_2pSPE" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=Ae3ycsBMRLZgXTnD2x7pjKmNFLZT86X9_o4FK588TUEgNRuTOnBCpSRKmNzzISHX0rAr_PfVWQ_uGxcr7f5lnKpNfZTn-5BgUh7W463eD5IFbeGKxpyKBu-J9Jz-o3ZfC5mSFcgUgc9epEKHZx4odiMuog-gwxW3Ums6HOXjiIpBszMPq1FR9-A4-eVUZKiywgXghP4k6qYHFjZr27q6WlbYKvilnKhEBiuYjExI1EArkPmj9D_IhVE5u7flHkxIqW9DxdxZXdkI-d_1p9Aa9VFsbJirXiHWbz3I3yxLzsOHni4N1joTyzXlSLf8DFIo6gNH_bv8w4Pwr3ch7L7FVHLfTI7TYsJkDCfrGDwAkV5vskE7bwoq5c5oMYCyRpsBk4SjWYPr2yrdmdu1K8MFYpE_5Fj_zqbxRSJtSJB_OELnU56J644I1K2nZFV2FfhKod9AQ3VBx-noJO5NLaJnu7ENnjf6L8X1EwbVUpUsMfsHe0N7DKMrPFzwfmR-PlOBnXuBj-jNXHRPYAG8gnbhjzD1CNv4wiC4DhtDuTNc-HhEGW1As707Jk1pzW_m0Xcf7Dg7rA9qaOVdgsFVL8SaG7x2GioxVAcED-oWdmcxRhuM13Hy45VomziqlD09VrrN5-Dw4X8G-4Zcoym9nI9F6S4XDnKt3EEP9d1dlCgGQJs" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/67db1cde60.mp4?token=ig3TSVoY48LkavEYpSlJscT_uW9HMQ9XgXPE1ohMOJhhGTkmgFVb_398RmExOQi80-q5xNb72kfrqp16FjcHC4BV0xHk86eEQX5fA3WT4ZB6GHb8DrgpctxNOh0a21RzTU3uR-s4ccSmMaEcHYS4U6LEtUo1SkffxSX4YnIn7M2Z_d3J-FjytLxTJMRw8sWsTzfOWh3vdr55J-rJ7Md0_ir-OE81REa4cHHf7RfkGZ-X8jl-RsTXpE4XphKaprbH6kOl69VkgAowqF6XO_oFAndnngsFIYCUV8fbGUSbtKc8LO8Ub7Yt8c_6qvCXWOkY0rBdUgSisaaT9kycZyVJ95ARf0v9-c4O7t_A3MY4QrTyfecn4uYQueHAzkvwO0I05fNrtjl4TRkBINkNFTiYR8ITDQrZJcUFq0ZzrjVuIj-9cGomlr96N0b2UjjUohNt5cVseeCCywDmxEOjGC9ABcHLZ73pOlEbF887qI_IQVVCJsuadSKJ0fNddYGxo7QiPZUsksgecAN65lshnLeLpDuwMXRfS727T23cwK2fGvaeG1QNA5aZvuptpSZRXCs2cgPzT8rLA2c4cuBUWNHflKlKD4UCSLZhcf9lFgot27Pq92DGac7AWN2WJQ2RzpVuO7HE4WjKFiICm1SGTc5Mes3wflEZ-_pT0YXis_2pSPE" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)
 @mohsentavoosiseo</div>
@@ -598,7 +598,7 @@ booking.com
 خرید در:
 @mohsentavoosisupport
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.54K · <a href="https://t.me/mohsentavoosiseo/888" target="_blank">📅 14:47 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-886">
@@ -610,7 +610,7 @@ booking.com
 😎
 پی نوشت:
 (کلاد تلفظ انگلیسیش کلاد هست)، ریشه اسمش فرانسوی هست که میشه کلود. شرکت آنتروپیک هم آمریکایی هست.</div>
-<div class="tg-footer">👁️ 2.66K · <a href="https://t.me/mohsentavoosiseo/886" target="_blank">📅 20:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.67K · <a href="https://t.me/mohsentavoosiseo/886" target="_blank">📅 20:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-885">
@@ -764,7 +764,7 @@ Claude Cowork
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SEBxEk56-If8eSdDUKiKuXW2fW6CfaL5mFi1J7nlmhj09S8ueHhcW_Y14FQi-kVFeC8W2GLO3FeyH2tFFV-vTcqXARtzZ9kdRJ9YTW99yc0hLcc7mdApjaPxmlv6gn2qJoD1g_mIDGwwcYGVNQ8S6D1zAF5AfC_0RhQdHvo-JFe8hDKxn2lnCbRj9uxtLQZuEJV1hJOIZiPNuVN5BWxU67TL3GKVa381oeros6xaplib3TIfU0cCmNK4AAfWw_6-9rfIQJrSfM6IYHhk6eOQ--xG0_ylWZswPrW_dHH1EUGcNpAo4MjUCTs9CxlTiDcIcrpZQLs0NiUCVI7Q3bUeLw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.99K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
@@ -1103,7 +1103,7 @@ Are you kidding? Realy?
 اگر دوره من رو دارید، ببینیدش! استفاده کنید ازش. دریاییه که تو محتواش غرق میشید. ولی موج سوار تو دریای طوفانی بیرون میاید.
 THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.78K · <a href="https://t.me/mohsentavoosiseo/848" target="_blank">📅 00:43 · 31 Tir 1405</a></div>
+<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/mohsentavoosiseo/848" target="_blank">📅 00:43 · 31 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-847">
