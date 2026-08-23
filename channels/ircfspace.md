@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 05:49:05</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 06:57:22</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -509,7 +509,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2547">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/l6T8AkPBvOCn-LAt4ZWpSCN5L1jW8FGFSa9mlwlPkgpWv1pNh-p_9E3fidqyTomsxy1029ZvB4wQe2HwaGhbfvyxiHe1AENAw_dq4UTj7QhFgySq4Wn2dK1xIuKDmBsb7V-tNyHG-zBvKLVWW1HsG1SdUoFS1985bbrQ5P6UVKYpfsevZqpNf7N3VtXvyQTO7PhfeODK03uIBEeuqGqJ3Lmw2ABj_yFm7QgWNK4pKZjhyL29QqVUwi__nt-Kf_IqLHpQuA28PgYiASOhff6MrN3AB43bB2SsAfGzS7Iqz5f7u25NRUiN3KyDcLIP0ywTbTJiuB_sSLoXLUOVCrFTdw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/f44FcAAduUO8PWSC5C2ZYKTU2YVo2bPJ5pweJ24dKAw8yGPNSQcNCy-RngJY67uykg_immrBLK2J1SemwES8wYFnj7ChLDgfygCEe59P5nUsc-JTGNJGAVLlKlhwvUcHBHyJoUDAdQtIlbbVod9GI79dHQqkZQG-kwNxP9GthukYdH1EkXOtoypQ974wW4FxWmmGJPUpSTatSygxT0dd_A1LUVyRGGnGAT0kbl0t-CjCfjnes2nF-sWFPTwU83bAzb5t1bEHwPv1mtY1SVq9LAm1WlKAH66PAImh6Lxo0IbIzXa4GpeRHMkSjf6DdOCDl4v6iAmXMYv6s11gb9HHQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">همزمان با قطع سراسری اینترنت و نابودی هزاران شغل، هزار میلیارد تومان به پیامرسان‌های رانتی کمک کرده بودن! همون پیامرسان‌ها در عین دریافت پول بیت‌المال، اختلال داشتن، ثبت‌نام جدید نمی‌گرفتن، محدودیت‌های تازه گذاشته بودن و چشم‌وچار مارو با تبلیغات کور میکردن!
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -535,7 +535,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
@@ -555,7 +555,7 @@ mrweb24
 
 <div class="tg-post" id="msg-2544">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/lT4ZMDLWGPsm8yH-e0DBWW8vB0mFxltoJj6EPF165JISanVjLDLpJEayhgJTcVHwjdydwX8ZpBSL96XGcTCv1Tdyqo490dpp34v-ymSLwqY5BsWOEK-YMrbx7ahoIfE2EiVWop55-ZB5dvedLzwAUOmlFq2uL_bFLtPhmC3vsqQ_5ey7LyPN75JFNx7glQ7s61YHFiFV-9VXhweSIzno2Znrg0304gMpuh24IXU8za0QvhAyjVfwJuJqi9wVliMASld3mcwOLuZqwtmkQ2WFVJSOTboOdTu37ygf2_EDb-dMua9HDujECkVAVbgiGGinymFtb07mCHazJ9ydFMAD3Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HNOZhoob9PFF0aPv-j-uPakCvE0sKV66bw5OwjoFEIZk0-O_WB9zWct-Xa_xX4di_n8M3lHQEDp50qGhM5R0nTRXIbSy-vDbzchBCOJR6WbFA9zKYEgrBn2BCCqUrrHk532Bo_SUDBfj2UBh1Ut7aqGElUmeNBN8w3fBZFQdAPGK5rvKpgFAfOwLt74N_0lFlgvwHV_qXBwFy9JUPKt7THjht4ggzK9AkRcb86xOWyga5ZmWCAZCi7xtPSs3GffBZTiZUJDNtSVer5KHJ8-hbHhd-8gyaNMY2BfT3-VBq9QITpryBoeGugtxToyY0STJ_B5q9WtgH5JCiEO5i5PHOQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تصویر لو رفته از وزیر قطع‌ارتباطات هنگام رونمایی از طرح تشویقی "نسبت حجم ترافیک بین‌الملل به حجم ترافیک داخلی"
 😄
 🔗
@@ -1127,7 +1127,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 
 <div class="tg-post" id="msg-2509">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fKinPGcd535EiUfShnvkyfoCHBJjRTDok1LmazcctAbo32lIyudVpmZrdHaa2Ce7qev9v2F_W4AZkoN2gJoDJy6kYqr-p2KF7u4KSwSjlW-tI4EXxcLISfQTB8MgQQ9vygb_qCI1Z9hjVmJT07fiFVMlOffPJTaihoTGK6jB-BEbwf_klx6csdu1xjInHTDi2Nrv1oflEhXT8Byo6oABHesoO-HnPGS9dkMY_E0hYDXNaBAIoB_MWAhrSqhQBoL7RGvIQ4WIdkHk5SGqV8-4hcGfRIBgjcZxWx_5oUX459CMf4DEQLHTBkv0DpCo-qF_iuTo2Eput1vOZBJXs5WNLg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vmvf0d9iP3XJYStxgS09jBIEzxTNcsUtghqY5AC5UDbWnIT9GiGhqWizWuu-RtadBpE5ymCYVGj_ZZRPERh0v50lkQ7r51Qktb3YAjpSb2RrSaNC3tL91PcJBuK74pF9Tx8W9nnvXOVrq_458WxI6iOnM6M_O0HA2UFu75lfm-mHi0z0EKvkLlvcCogZCh1suoUGJMdxppMnox5Rof7R6U0_k1vdmP0gtB4u7PX7FJWsRQEWObgVMMNbYtA_J0LpVB5QhyKywP_g8HnMoA_2k5HuMG4P_dnIms_kAcLfTpMuQWATH01NxaZcADlvBmnYJV6PGbZFfpTCOxDrDPD_hg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سایت فوتبال ۳۶۰ عادل فردوسی‌پور توسط قوه عاقله فیلتر و دیشب چند دقیقه قبل از شروع برنامه زنده از دسترس خارج شد.
 هنوز علتش بطور رسمی اعلام نشده، اما این اتفاق پس از درخواست سرمربی پرافتخار(!) تیم فوتبال جمهوری اسلامی برای برخورد با این برنامه و یک روز پس از جوابیه به امیر قلعه‌نویی صورت گرفته!
 🔗
