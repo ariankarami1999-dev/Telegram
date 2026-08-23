@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 06:57:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 07:37:58</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -336,7 +336,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -426,10 +426,10 @@ thepanue
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/7887a97904.mp4?token=Y-aCy6pc01nqcK38iiNkNMYkTcW5LUUmeABpzM39-NmUPq7161c1v9Kw99K7aIHpU4oxg12HA74BZ9NhTIuVq_UisOiV6sbN8sNPiMgoPVi20FofeRKyyyyWbhhO7uu958MGYFiJwpVHAiYMqPiE9m9eQRpybnl2trABjrnacveKqIXREdNd5pMVLwC2LtDmJq_M07-W9UyJZxWfLVl8UmB6zB5CoQbm1OpI-GV_A679LFpbcAVYCEx9XwjMQHLnb_FTV-g6AJLex1QSAliJsbdKxIfDnLGMTjheHaGQ721av_S1KL0FDCIyUigXrdpSQ-MwaMB_uD6LAKl2dA2Lrw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/7887a97904.mp4?token=JzwaNavNBKlA0K4OsTFqBLKC2B444DOW2cvFY3znSMqUQt-9H9OsjBedSS9XjZFh6OHq3n8ZWxM5Z3DN3i57uw3yBlXRfHeCg3LPbYSeBd2Q5LbV6T1tDN3DASRNzd7jJAlbNiIgiuAYULJNyp0Kt5pfT75ip3iAQ7Rly9sN1Rk54PB8Q9TkjXcJevhHVUTIR9pcNbU00WYd97ujgNmYAHBlngj7svju6fiv8BJEO6pdSF8Bv5ixz2KkNfA3XAJ1VkgLDDQYbPS0gdCzIC3_4kzaPoxxTpIUhVZARLSTqRjiWXdeGQsVVF-8nf_cwnzjpfnIgn9VpF6iPgHcUw--kg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/7887a97904.mp4?token=Y-aCy6pc01nqcK38iiNkNMYkTcW5LUUmeABpzM39-NmUPq7161c1v9Kw99K7aIHpU4oxg12HA74BZ9NhTIuVq_UisOiV6sbN8sNPiMgoPVi20FofeRKyyyyWbhhO7uu958MGYFiJwpVHAiYMqPiE9m9eQRpybnl2trABjrnacveKqIXREdNd5pMVLwC2LtDmJq_M07-W9UyJZxWfLVl8UmB6zB5CoQbm1OpI-GV_A679LFpbcAVYCEx9XwjMQHLnb_FTV-g6AJLex1QSAliJsbdKxIfDnLGMTjheHaGQ721av_S1KL0FDCIyUigXrdpSQ-MwaMB_uD6LAKl2dA2Lrw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/7887a97904.mp4?token=JzwaNavNBKlA0K4OsTFqBLKC2B444DOW2cvFY3znSMqUQt-9H9OsjBedSS9XjZFh6OHq3n8ZWxM5Z3DN3i57uw3yBlXRfHeCg3LPbYSeBd2Q5LbV6T1tDN3DASRNzd7jJAlbNiIgiuAYULJNyp0Kt5pfT75ip3iAQ7Rly9sN1Rk54PB8Q9TkjXcJevhHVUTIR9pcNbU00WYd97ujgNmYAHBlngj7svju6fiv8BJEO6pdSF8Bv5ixz2KkNfA3XAJ1VkgLDDQYbPS0gdCzIC3_4kzaPoxxTpIUhVZARLSTqRjiWXdeGQsVVF-8nf_cwnzjpfnIgn9VpF6iPgHcUw--kg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اینو ممد ساخته. یکی از محمدها، که نمیشناسمش و قرار نیست بدونیم کدوم یکیشونه؛ ولی باهاش کلی خندیدم
 😂
@@ -447,7 +447,7 @@ Mohammad
 
 <div class="tg-post" id="msg-2551">
 <div class="tg-post-header">📌 پیام #91</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Q7ZalExVoR7cgTPo1ZbnRoer6l1ohPFezKWjEiwKkY-Du52Dy9Dhs40AZaNaZv5nFGjXwO7I_oPtlYl_Kl3N6WwtWB9QcwIRHkhmilCdQNcgky6taWCXDF_n04iHkW0pDyEcRSTgM5oxEsItchg5uLh4Bu0vVlLx2n4VcCwYwhGEs-z5jBUg3-G3XHbAxnR9E9vuAqHaTMdoB1ePy8uWbI18tmGkh4loGY1ilyoZZHaP0R91BpCt-2WYue1LIAcDYlOG8kvsmUpW_Chfw9dqulfATLTgxuSuHfayWdINOsyIGoDI-DOElwlHjWBrUgsdP-CigoaaW_bbaih8jXoewg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/n2dT9XiPAlAeS2SRI8WaDA4sRCNvhwMDnK2PPnCbnHyT9rHPkl4Yp3WL-wWgZc1adId2Hvsv3hX_GFeVXSgV88PMIF9oEoa2l2ln-ZbfdA_FgqvekT0xmdUx9y0KYDxfqnR38jkj6hYfw_wRUJpXG_ZQerrOuMINrRRYrTRakPpMzgQgEZoIUME5IRwLi3yFuyRmHOLso7vFb7JftPchT2y2pKIiFKk93eBkVH2fA4KurJxc1hMciCxlIYytxnbpFgpv0Ei9LD_3MNmHQkJ5TGMHn5LAviCsiwvqr3EYtLHKuXJ09wcVFdwODcI2F42mQDbNqtNJIoXdvbQ_VTGxAA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اکثر آنتی‌ویروس‌ها (از درپیت تا لاکچری) سایت بانک ملی رو فلگ کردن، چون سرتیفیکیتش منقضی شده!
 ©
 Teeegra
@@ -463,7 +463,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2550">
 <div class="tg-post-header">📌 پیام #90</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cz6pcFwcKxxUt2S1OBNUxy5nORCl2TnxqcpRz5le1673htYXOjogk4qgO9LKFBvxAfzZSUQCDnQR0noSBSnRBdvhq7scmyv3ZFZPy8j24VZCSfH_fqZgxwL1e8X2jF7dRGezUiM0X9wzgoRD5raK0W33Qdb4jKWBzEz1AWVlwx1kDs5hdwTd_u3MVuSWnxD21KKboW2Zza3KhKOGAD3uFvLKwKzCIoRkuznnVuL6segdW879hnucoWgha__oZ6g2dbOLR6hBvsq2_Ko6Y1g_weEJLU4vsZ3ghVMBWl9wNdd7gggS0eblogot4qGA88jmk7aeBlmP-BJKA_fpoOBmKw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/U51m7m4MdkMe-juM02O6-D8fy-PvL4eKLtrK3dmGh6HR-8YIdYZGPhnsneRSYBAO8cZ6LQN-hTGeuPGBH0uhZ4hHWljUGwi880Z4s6dV7Z8IO2QVbgCvf8N--OKQrXHfBsjjqj9iU-YZPKSC6mM1Z0LgnKtO-qgdeKhAwmQbB7UdKISeyPVfjly5FDq4jNZuSvJxdlyheijIbBn018Pe1fQ0tyicyuBdqsqsaw5bhHF2IHM7OU6MdhhbQ0KGyhQL1XKR2Gt8cIRo6qgx4qQsFGzz_Z3nSFiO9Uj9JoWB2fNRKVMOK6ZtTAb2S0fJnq_eaakMz9eSjXNe1guTyeO7kw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معاون ارتباطات مخابرات گفته دستورالعمل جدیدی برای محدودیت VPN روی اینترنت ثابت ابلاغ نشده و ممکنه از مشکلات فنی شبکه یا نحوه عملکرد خود فیلترشکن‌ها باشه!
 🤡
 در رابطه با اینکه اختلال‌های اینترنت وضعیتی فاجعه‌بار دارن که جای صحبت نیست؛ فقط اگر بدون دستورالعمل دارن گند میزنن، یعنی دیگه خیلی کاسه داغ‌تر از آشن!
@@ -479,7 +479,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2549">
 <div class="tg-post-header">📌 پیام #89</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SMlk0phKSQyqZM5XTl0KxAJvmuEQvY6sN-Rzt2kZCCX6wPF_MRN-SR1PvEC9y9rcazZkdinkhNwrHxUAuit3Srn2YsWsfRJOrKx3TYMDZju3UpUcLsogHpppuum3ZpV3dmwzw6WIKc1EN_XgvT8S86YW7-9IgEO-UriXW2qqfTRnUaSksyjNHYtdGT009l-dqrkhasbJpIlICY5HMXjxGy33tqH1VzfekHTuvj0oBRkJcnyWXicvelpCd8BOhpA4BfV_JwVNnn6cDhQfaAcDu3AT3Ncdtr5u-LuP00wNwtwuUbv79gEUDnhJHX11vwphYNyyTLMgNG4tYqzhHJ25aw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/L6k28ZIqMmtdGh0KoWU8AGORejhiVK9vQzy5T65b_CbGmCkd6R5kDTAYfFRvKJRrzU8N0nIGAZMcH4Fi-lTvPvGwbBZ3sFKA8nmJf7QYOGBvRXw9mpA9S2efsdNTf3Qk2h-rgIW29c0UzpeUobpI201ygS_0qeE0cmbfSX4d9lcon_rQeO3xS-MKOLgUQNE67UeupAxE2rj8Z33cxrPN2RwX9EF6Q7GsX0Mt0sKFCFJD_0a3j8r8Z6QWQO87sa94EeC3fezBNH5IQpWSDFzupJD0kea21mfRXGru16lgIoSf1wMCsI4auG9yHathA8EAajCeTCQPHfEfIJfnafU9CA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از فیلتر شدن فوتبال ۳۶۰ و دستور رئیس‌جمهور برای پیگیری مشکل چقدر گذشته؟
 هنوز نه رفع فیلتر شده، نه کسی فیلترشدنش رو گردن گرفته!
 🔗
@@ -494,7 +494,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2548">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/i9rSZi7bpVKu3_2Vxbo1C2_y_nbEDNO0VessI_KvSilLj2Ts3y47atLZnx3C3kxJto6JnAb655JaBTLSQdz8yzrXsG4QlmgVJ7zv4jEbXsAQjOl1v3OEu4C6lyQXjzAI9yf0_rNx7l9GVaAvmuwqmApNOPTce-jm4VJu0KzthOlvaUBKdYUGeAhh12Tu122Dx_Fu7vbyIylydKcHUQzQqefNIUU1ywpeNZLexFTI52YeMIlBVEHJOy6a3WmIkeKap4mK54Gi7xCf7UJPAes20gALVpmRedgSN_GByWhH5twA_P8fNWtSVc4NOMpJ-AealzcoNqy4RYC8ShxkH29RGQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/R8CfG3rHRe2EMC9fCEjTuuaeqjVh-E7eb16EGM25Tx1uA8yn0jdnDvvpltzyNF3sc22XmJTAqAvImnlw3ZBRitRAOND0nSlmKso-0T1Hp5aykUUY1mTc2vGOngijd5mh88jw_f4dVTSlAWs-0HfToypTzEjSfTATLQ-CMLPrhRV_WyMRj1m5cdcSXMGTrlawEffXTH19NngdnAFE49n_p9kvf_9PvSJKRjoUSe3ZEo1jDVBjOfNwz3PI1oRmTmJJmVxZE2y2XgH7TEEMODH5PAC1ZbZvfR0Atp4vy6Zqkwj3nkkhC3615c8zBxm9PUnuoCRPmUL96ISeIe3OLO5FWA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پلتفرم لندین که برای ساخت لندینگ‌پیج بود، بدون اخطار قبلی فیلتر شد. بعد از یک‌روز که با تعهد در دادستانی رفع فیلترش کردن، اعلام شده دلیلش فروش آمپول لاغری در صفحه یک کلینیک زیبایی بوده!
 یعنی هنوز که هنوزه نفهمیدن فیلتر کردن یه کسب و کار چه آسیب‌هایی داره. هنوز که هنوزه نفهمیدن وقتی یک صفحه محتوای خلاف قوانین داره، کل کسب و کار نباید فیلتر بشه.
 🔗
@@ -540,7 +540,7 @@ mrweb24
 
 <div class="tg-post" id="msg-2545">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/p3DCgY8yijSEJ3FszVF3EQvKh2KtjEAQs2y2SQI0qeR1Fqk59VVtuevJyy8Q4_vI8yj3raXNjsKoG8vm1yiBPmh11PZaiGHYsn5Np8LkqsyF0OI5fDFivbFHnjP7UHJ7bcqcWKSciXGyDDlou8xVda_YGrRpmHECGSYLrI0KAfbp6IFsWeSjfflt8vy2p5yqvDgJrHGXROJ0IZt2Z9aoIoEW7Q3yVgHPTeTrbIS4c4CoOh7wl64Jlcb51tWt53PKE8H4L1uz4xAtaor-AAzPFQ42OHPF5YpZydrWZDGnblUB6CogJ83flwwqxPSZ-pLhBAQ4rii9X-0JkcPgae6mew.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GmIREmF1jgP1ZQBiPCR47zYJbfIcAO7LNXePXp7qWNE26kZnikG41RLwdMexRaNpCNIGcKM0g3MI9CNYzPowUPYp7MFOQIBlAKv9KAHcLGicw5cXBY7HHNYe5IunjAQSvkSgTB88KzWDyMu_mAhbwkt6V32QTeriNndh8_c0DHSUEmKDMiaSo2KfAxqmCtJv4NoP0KHqG2O2Bp5qPTxEfLNNXnoZMu-qis0BCRjMgj5oBCkvFiZbKjErakubAZWuOsS6roxXv5Quzn0tHzTw-JqD7SUyZn7RXf1718fDY_1L_esKgfn2V7daaKqOfmujSWjMATtNd0L0ydsJ33NnmA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">میگین چرا با وجود اینکه چند روزه اختلال‌ها و کندی اینترنت شدیدتر از همیشه هست، چیزی نگفتی. خب الان گفتم؛ کدوم احمقی قراره حلش کنه؟ همونو بهم نشون بده!
 ده‌ها پیام داشتم که نگران بودن چرا چند روزه نیستم. غرق در گرفتاریام و گاهی حتی آب از سرم رد میشه، ولی دوباره برمیگردم سطح. نگران نباشین.
 🔗
