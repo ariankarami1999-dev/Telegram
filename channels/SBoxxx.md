@@ -292,7 +292,7 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 09:26:04</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 09:59:47</div>
 <hr>
 
 <div class="tg-post" id="msg-20132">
@@ -312,45 +312,45 @@
 300
 است؛ جایی که سربازان اسپارتی در برابر سپاه عظیم ایران هخامنشی، زیر باران تیرهای پرشمار، سپرهای خود را بالا می‌برند. این ارجاع تاریخی، پیام کاریکاتور را تقویت می‌کند: مدافعان امروزی نیز با وجود فناوری پیشرفته، در برابر «اشباع» شدن سامانه‌های دفاعی با همان مسئله‌ای روبه‌رو هستند که سربازان اسپارتی به‌صورت نمادین با آن مواجه بودند.
 طنز پایانی تصویر نیز تلخ است: سرباز سمت راست می‌گوید «امیدوارم دیگر چنین اشتباهی نکنیم»؛ اشاره‌ای به این واقعیت که مصرف سریع رهگیرها می‌تواند در جنگی طولانی، خود به یک بحران راهبردی تبدیل شود.</div>
-<div class="tg-footer">👁️ 1.27K · <a href="https://t.me/SBoxxx/20132" target="_blank">📅 08:20 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.59K · <a href="https://t.me/SBoxxx/20132" target="_blank">📅 08:20 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20131">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">خب دیگر بس است بخوابیم.</div>
-<div class="tg-footer">👁️ 3.01K · <a href="https://t.me/SBoxxx/20131" target="_blank">📅 01:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.15K · <a href="https://t.me/SBoxxx/20131" target="_blank">📅 01:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20130">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">هر ایرانی در سال یک بار معتاد بشود و 2 بار ترک کند تا اینطوری تعداد معتادان کشور کاهش یابد و وابستگی کشور به تریاک وارداتی کاهش یافته و صرفه جویی ارزی کنیم.</div>
-<div class="tg-footer">👁️ 3.03K · <a href="https://t.me/SBoxxx/20130" target="_blank">📅 01:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.18K · <a href="https://t.me/SBoxxx/20130" target="_blank">📅 01:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20129">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">هر خانواده ایرانی در خانه اش یک نفر را به عنوان سرباز آمریکایی اعلام کند تا ما دستگیرش کنیم و به آن خانواده 30 هزار دلار بدهیم.</div>
-<div class="tg-footer">👁️ 3.05K · <a href="https://t.me/SBoxxx/20129" target="_blank">📅 01:27 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.19K · <a href="https://t.me/SBoxxx/20129" target="_blank">📅 01:27 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20128">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">مردم در خانه شان تنگه های هرمز پرورش بدهند تا ببندیم و از کشتی های عبوری عوارض بگیریم!</div>
-<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/SBoxxx/20128" target="_blank">📅 01:25 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.19K · <a href="https://t.me/SBoxxx/20128" target="_blank">📅 01:25 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20127">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JfRobaa7wwT3JR9Wh_-kxGWM0BhtEroeK2yGm7EvYipQsc7qp0oIcVMgBW6UinZGDEB9pMTzhgDVIq0Npd8vbOXjeFnH4RXiwkJ5aaGEUFFIz9tYXO_3FBmssCqWEhEUweHRVd56kqENiuYzLESA4R8gEEslxzEktPOIYkUQdp311pKbIrOKtMlU92MGbrsn0ZfaiNNQyZc03CAplpJtYPmdTh3sN81IVo1TXQ8-u95c0B3MPBZMVTtnG3b7xmWoYeUCLyjWbHBAhUc2FZpJNpY_UMNObNN8WelQgrLcK0pHpGS_pO0RVyThqiULFgySPUG6eusQqG0KInOv9Tz-kA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عجب گیری کردیم به حضرت عباس!</div>
-<div class="tg-footer">👁️ 3.05K · <a href="https://t.me/SBoxxx/20127" target="_blank">📅 01:24 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.18K · <a href="https://t.me/SBoxxx/20127" target="_blank">📅 01:24 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20126">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CBo4moLvoxzQsePoKBttft4h3TwSCNbFJhihF76QgqkTXt9SRh3NkPZ0sAyacZWabjSwztNG2ydyIX_blSWKhiyZNsAyi0wvLFGTOQ5EQsyet1VSWJp3QR4FkQFYoqCPT6hprszzhFjzYPBVrvgo-8vqHwdQCnWWEMQV9Jif4n7gI6QJ5yDBXpDG4WfFGSy4GcZseDFLRgiX305RxBepmXIKOR4Qjsl4YkMkBwkNrlz44rlq2EPYxLsT63vvoi2PiHYIlzT6f-YZHruwUKh4lTBXFJDwjCYI9cVyF6G5DBNDSkTbj61CxCFH0Z51FcxUpDL4nXAXG3Obd-SaMazymQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاربران اسرائیلی با انتشار این تصویر، به تهدید اردوغان پرداختند.  جالب است که این تصویر شباهت بسیاری به صحنه دستگیر کردن عبدالله اوجالان رهبر PKK دارد که اتفاقاً با کمک مستقیم موساد صورت گرفت.</div>
-<div class="tg-footer">👁️ 3.22K · <a href="https://t.me/SBoxxx/20126" target="_blank">📅 00:54 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.33K · <a href="https://t.me/SBoxxx/20126" target="_blank">📅 00:54 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20125">
@@ -358,25 +358,25 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KImCeOjgxrZV5AdeamarcV7P0826QpNJRKdAjFEQS9uK12K8VhAM94eOGG73JLtFPtw2-Ug5uYqfvc2RyLv4ZLEwASf1ZObCpj-A-l_B5DaO53k6a9baNOuj5aL8WXIJkIFKKnLEtcLXukuPRyFVA4x3W_KwDiyLJ1yzycVLvaV_H1rDwD63arlEAN6ERDzr8uxXJBOMJaTBlGDa9SzKefah-WDH9G1hGZ0P-c6bgg051ft0Q0YJ1bKM_a8vehuJxxdQdqfSdCYpBPEQj6baw-Gl_FNONhU7MrvgqySIkBqoICWgKuUC8PCmoGNdBrldMzhA6t1QbAgROmZxGfliJQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاربران اسرائیلی با انتشار این تصویر، به تهدید اردوغان پرداختند.
 جالب است که این تصویر شباهت بسیاری به صحنه دستگیر کردن عبدالله اوجالان رهبر PKK دارد که اتفاقاً با کمک مستقیم موساد صورت گرفت.</div>
-<div class="tg-footer">👁️ 3.23K · <a href="https://t.me/SBoxxx/20125" target="_blank">📅 00:52 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.33K · <a href="https://t.me/SBoxxx/20125" target="_blank">📅 00:52 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20124">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">به‌نظر می‌رسد در درون ساختار قدرت جمهوری اسلامی، شکاف میان جناح میانه رو و جریان تندرو و ضد امتیاز، در حال برجسته‌تر شدن است.   اگرچه این شکاف هنوز به تغییر رسمی سیاست حکومت منجر نشده، اما اظهارات اخیر دکتر پزشکیان، محمدباقر قالیباف و عبدالناصر همتی نشان می‌دهد…</div>
-<div class="tg-footer">👁️ 3.13K · <a href="https://t.me/SBoxxx/20124" target="_blank">📅 00:50 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.22K · <a href="https://t.me/SBoxxx/20124" target="_blank">📅 00:50 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20123">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">به نظر من جمهوری اسلامی بزودی گزینه آخرالزمانی حمله به چاههای نفت و تاسیسات انرژی منطقه را فعال خواهدکرد که در پی آن نفت به بالای ۱۳۰ دلار و طلا به زیر ۴۰۰۰ دلار خواهندرفت.</div>
-<div class="tg-footer">👁️ 3.2K · <a href="https://t.me/SBoxxx/20123" target="_blank">📅 00:48 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.3K · <a href="https://t.me/SBoxxx/20123" target="_blank">📅 00:48 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20122">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">مردم فلافل بخورند و در خانه شان نیروگاه بادی راه بیاندازند</div>
-<div class="tg-footer">👁️ 3.14K · <a href="https://t.me/SBoxxx/20122" target="_blank">📅 00:47 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.23K · <a href="https://t.me/SBoxxx/20122" target="_blank">📅 00:47 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20121">
@@ -384,7 +384,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ayb6eoRMwAocxv482dL5vnjhHuyVrT0JxK6xEqSAhMQ6LpaPrFxkbZDg5mwEuOgsGqy_T4EsvfyTxjp2nq9ip-ZLpQkynkZYGgVy8-D91ln809HrsOvt22Yi2AvcJoagNvOVRQYQxXVNVzqRlVrt4MW4KQmLFL2ur8mYlqxd332IceOb6h7yRgtDVOk2akopF1tSsiX4ZeSddTwKaG-2ETw8965DtVFPz-H-LC5TTPM-TQm7pAYvAIHhoxiAhkyHJis6HA5eCGsRiXrFr2CY6fvBAsx6GNfP0vBj1uqrSUr0g9RUIiSMpAtoo8msud5tUxZbA5AGQxtEpUR6h2V1oQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عن این مفنگی را درآوردید!
 ولش کنید دیگر بگذارید بمیرد.</div>
-<div class="tg-footer">👁️ 3.16K · <a href="https://t.me/SBoxxx/20121" target="_blank">📅 00:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.24K · <a href="https://t.me/SBoxxx/20121" target="_blank">📅 00:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20120">
@@ -393,26 +393,26 @@
 <div class="tg-text">شاید یادتان نباشد ولی این نخبه نابغه کشورمان — دکتر حجت عبدالملکی — که حتی رییسی او را از کابینه اش اخراج کرد یک بار گفته بود با 1 میلیون تومان میشود کار ایجاد کرد!
 یک نفر خوش ذوق هم زیر پستش کامنت کرده بود بله 700 هزار تومان دستگاه تقطیر با 300 هزار تومان کشمش!
 البته الان با 1 میلیون تومان نهایتاً یک پیتزا با یک دوغ به شما می دهند و آبش را هم میدهند Meساکی بخورد.</div>
-<div class="tg-footer">👁️ 3.28K · <a href="https://t.me/SBoxxx/20120" target="_blank">📅 00:38 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.37K · <a href="https://t.me/SBoxxx/20120" target="_blank">📅 00:38 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20119">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">باید در هر کوچه یک شیره کش خانه باشد و بعد کنارش یک کمپ ترک اعتیاد بزنیم تا مردم هر کوچه از هم پول بگیرند و گردش مالی ایجاد بشود و مالیاتش را هم بدهند به ما.</div>
-<div class="tg-footer">👁️ 3.31K · <a href="https://t.me/SBoxxx/20119" target="_blank">📅 00:28 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.39K · <a href="https://t.me/SBoxxx/20119" target="_blank">📅 00:28 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20118">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">محسن رضایی:   مردم در خانه‌ها و محلات شروع به تولید محصولات مورد نیاز جامعه کنند</div>
-<div class="tg-footer">👁️ 3.97K · <a href="https://t.me/SBoxxx/20118" target="_blank">📅 23:21 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/SBoxxx/20118" target="_blank">📅 23:21 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20117">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">محسن رضایی:
 مردم در خانه‌ها و محلات شروع به تولید محصولات مورد نیاز جامعه کنند</div>
-<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/20117" target="_blank">📅 23:18 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SBoxxx/20117" target="_blank">📅 23:18 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20116">
@@ -429,13 +429,13 @@
 جنگنده یاک در کنار دو فروند جنگنده میگ ۲۹، در عملیات رهگیری و منهدم کردن پهپاد هدف مشارکت داشت و خلبانان جنگنده‌های میگ ۲۹ با مهارت بالا موفق به شناسایی و رهگیری پهپاد هدف شدند.
 👍
 در ادامه، جنگنده…</div>
-<div class="tg-footer">👁️ 3.98K · <a href="https://t.me/SBoxxx/20116" target="_blank">📅 22:59 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.03K · <a href="https://t.me/SBoxxx/20116" target="_blank">📅 22:59 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20115">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">اسراییل در حال بمباران جنوب لبنان است.</div>
-<div class="tg-footer">👁️ 4.14K · <a href="https://t.me/SBoxxx/20115" target="_blank">📅 21:54 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/SBoxxx/20115" target="_blank">📅 21:54 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20114">
@@ -443,25 +443,25 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TMlnn4u32gRQckoCz1ZL80qv5aV2rmFnw7NU_1CPuO8qjaBhQu54ybIPRzxk_WYFKQn6s4gHE5zjFYbI5e7W7oEGfrA_GiwfnTZpPo8opGG3fzW0LhNKmolc9_ydQ9gXPF0_Q91idEuSTk2-ABO1UXBguxI4lT5vXt0Pi9rMZU5nR-viAw1mIs8gJgKnjueNEt-w2iTqV14qN5HBxCmJVW6FWo8_Ktsc7E8g8O_RqUtv7xIhULVW_74jrvq_OG1GH0Ydzr5CNzdKqT5RwzRSS2y6IPzDjKrQQz-DOy4hFUclN6-AkJPBrLMY8Po4nkq0xBMIefZ1FmcaQKDtSkZlvw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک مقاله در روزنامه اورشلیم پست اسرائیل خواستار آن شده است که اسرائیل، ترکیه را به عنوان یک تهدید نظامی در سطح ایران در نظر بگیرد، و این جمله تحریک‌آمیز را مطرح کرده است:
 از ادلب تا استانبول، اسرائیل در صورت لزوم، حمله خواهد کرد، نه اینکه دفاع کند.</div>
-<div class="tg-footer">👁️ 4.39K · <a href="https://t.me/SBoxxx/20114" target="_blank">📅 20:55 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/SBoxxx/20114" target="_blank">📅 20:55 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20113">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">یک صوتی مفصل در این خصوص خواهم داد.</div>
-<div class="tg-footer">👁️ 4.31K · <a href="https://t.me/SBoxxx/20113" target="_blank">📅 18:55 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/20113" target="_blank">📅 18:55 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20112">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">اوه اوه!    بنگلادش در حال بررسی امکان پیوستن به پیمان مکه است!</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SBoxxx/20112" target="_blank">📅 18:38 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/20112" target="_blank">📅 18:38 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20111">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">باز سعودی ها دستکم کتک خوردن ترک‌ها در سوریه از اسراییل برای بار پنجم را محکوم کردند!  شهناز جوراب که کلا خودش را زده به کوچه علی چپ!   نه حملات یمنی ها به سعودی را محکوم کرد نه حملات اسراییلی ها به ترک‌ها را !  سبحان الله عجب پیمانی شد این پیمان ناتوی اسلامی…</div>
-<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/20111" target="_blank">📅 18:37 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/20111" target="_blank">📅 18:37 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20110">
@@ -469,19 +469,19 @@
 <div class="tg-text">دلار فردایی تهران
 ⏳
 192,300 تومان!  کاملاً مشخص است به صورت دستوری دلار را دارند بالا می برند تا جناح تندرو را به تسلیم وادارند یا دستکم گرانی ها را به گردن آنها بیاندازند.</div>
-<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/SBoxxx/20110" target="_blank">📅 18:36 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/20110" target="_blank">📅 18:36 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20109">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">به‌نظر می‌رسد در درون ساختار قدرت جمهوری اسلامی، شکاف میان جناح میانه رو و جریان تندرو و ضد امتیاز، در حال برجسته‌تر شدن است.   اگرچه این شکاف هنوز به تغییر رسمی سیاست حکومت منجر نشده، اما اظهارات اخیر دکتر پزشکیان، محمدباقر قالیباف و عبدالناصر همتی نشان می‌دهد…</div>
-<div class="tg-footer">👁️ 4.38K · <a href="https://t.me/SBoxxx/20109" target="_blank">📅 18:30 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.4K · <a href="https://t.me/SBoxxx/20109" target="_blank">📅 18:30 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20108">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">خیلی عجیب است.   خود ترامپ در مارس ۲۰۱۹ منطقه جولان را به عنوان بخشی از خاک اسراییل به رسمیت شناخته آن وقت سفیرش در ترکیه صحبت از «اشغال» جولان می‌کند!  حدس میزنم عمر سیاسی  — و شاید زیستی — تام باراک (که عرب تبار است) بزودی به پایان برسد.</div>
-<div class="tg-footer">👁️ 4.2K · <a href="https://t.me/SBoxxx/20108" target="_blank">📅 18:26 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SBoxxx/20108" target="_blank">📅 18:26 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20107">
@@ -495,48 +495,48 @@
 <li>✓ ۱۳ شهریور ۵۹ — گلوله باران مندلی و خانقین توسط ایران</li>
 </ul>
 </div>
-<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/20107" target="_blank">📅 14:45 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/20107" target="_blank">📅 14:45 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20106">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">این هم جواب آمریکا:  ایالات متحده در حال پیشبرد قانونی است که هلند را مجبور می‌کند تمام فروش و خدمات باقی‌مانده دستگاه‌های لیتوگرافی ASML به چین را ممنوع کند.  قانون MATCH به دستگاه‌های DUV قدیمی‌تر که هنوز تحت قوانین هلند مجاز هستند، هدف می‌گیرد.  چین ۳۳…</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SBoxxx/20106" target="_blank">📅 14:09 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/20106" target="_blank">📅 14:09 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20105">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">چین می‌گوید تهدید رئیس‌جمهور ترامپ برای آغاز «جنگ اقتصادی» علیه ایران و شرکای تجاری آن کارساز نخواهد بود.</div>
-<div class="tg-footer">👁️ 4.42K · <a href="https://t.me/SBoxxx/20105" target="_blank">📅 14:04 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/20105" target="_blank">📅 14:04 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20104">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">دنیس اشتایلرمن، رئیس شرکت فایر پوینت، تولیدکننده موشک‌های «فلامینگو»، پیامی با تهدید علیه ایران منتشر کرد.  این تصویر، فلامینگوهای صورتی را نشان می‌دهد که در امتداد مسیری که اوکراین و ایران را به هم متصل می‌کند، پرواز می‌کنند و لوگوی شرکت و عنوان زیر آن آمده…</div>
-<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/SBoxxx/20104" target="_blank">📅 13:48 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/SBoxxx/20104" target="_blank">📅 13:48 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20103">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-footer">👁️ 4.21K · <a href="https://t.me/SBoxxx/20103" target="_blank">📅 13:22 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.23K · <a href="https://t.me/SBoxxx/20103" target="_blank">📅 13:22 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20102">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">ایران اجازه عبور چندین تانکر نفتی عراقی از تنگه هرمز را پس از درخواست عراق صادر کرد: ایرنا  چنین اقدامی در اوج فشارهایی که روی اوراق قرضه خزانه داری آمریکا آمده به صورتی که باعث شده اسکات بسنت دست به طرح عجیب و غریب بازخرید اوراق قرضه بلندمدت بدون تقاضا بزند،…</div>
-<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/20102" target="_blank">📅 12:15 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.37K · <a href="https://t.me/SBoxxx/20102" target="_blank">📅 12:15 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20101">
 <div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">به‌نظر می‌رسد در درون ساختار قدرت جمهوری اسلامی، شکاف میان جناح میانه رو و جریان تندرو و ضد امتیاز، در حال برجسته‌تر شدن است.   اگرچه این شکاف هنوز به تغییر رسمی سیاست حکومت منجر نشده، اما اظهارات اخیر دکتر پزشکیان، محمدباقر قالیباف و عبدالناصر همتی نشان می‌دهد…</div>
-<div class="tg-footer">👁️ 4.51K · <a href="https://t.me/SBoxxx/20101" target="_blank">📅 12:13 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/SBoxxx/20101" target="_blank">📅 12:13 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20100">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">به‌نظر می‌رسد در درون ساختار قدرت جمهوری اسلامی، شکاف میان جناح میانه رو و جریان تندرو و ضد امتیاز، در حال برجسته‌تر شدن است.   اگرچه این شکاف هنوز به تغییر رسمی سیاست حکومت منجر نشده، اما اظهارات اخیر دکتر پزشکیان، محمدباقر قالیباف و عبدالناصر همتی نشان می‌دهد…</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/SBoxxx/20100" target="_blank">📅 12:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/20100" target="_blank">📅 12:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20099">
@@ -546,13 +546,13 @@
 اگرچه این شکاف هنوز به تغییر رسمی سیاست حکومت منجر نشده، اما اظهارات اخیر دکتر پزشکیان، محمدباقر قالیباف و عبدالناصر همتی نشان می‌دهد بخشی از حاکمیت بیش از گذشته به این جمع‌بندی رسیده که ادامه جنگ و فشار اقتصادی می‌تواند هزینه‌ای سنگین تر از جنگ برای نظام ایجاد کند.
 پزشکیان دیروز صراحتاً گفت بهتر است جنگ در مقطعی پایان یابد و «اکنون» پایان دادن به آن ترجیح دارد. قالیباف نیز هشدار داد که حتی قدرت نظامی بالا، بدون گردش مالی، رشد اقتصادی و تولید داخلی، نمی‌تواند کشوری را که مردمش تحت فشار معیشتی قرار دارند، پایدار نگه دارد. مهم‌تر از همه، همتی اذعان کرد که صادرات نفت ایران تقریباً متوقف شده و کشور با کمبود ارز، هزینه‌های بازسازی و افزایش بیکاری جوانان مواجه است.
 این اظهارات را می‌توان نشانه‌ای از شکل‌گیری یک کارزار هماهنگ در بخش میانه رو جمهوری اسلامی برای مهندسی افکار عمومی جامعه ایرانی در جهت باز کردن دوباره باب دیپلماسی و فاصله گرفتن از فضای پرتنش کنونی ارزیابی کرد.</div>
-<div class="tg-footer">👁️ 4.15K · <a href="https://t.me/SBoxxx/20099" target="_blank">📅 12:01 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.17K · <a href="https://t.me/SBoxxx/20099" target="_blank">📅 12:01 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20098">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">#GRI  شاخص ریسک ژئوپولیتیک برای امروز در سطح بالایی قرار دارد و پیش بینی می شود طلا یک اصلاح نزولی دستکم در حد 300 الی 500 پیپ داشته باشد.</div>
-<div class="tg-footer">👁️ 3.88K · <a href="https://t.me/SBoxxx/20098" target="_blank">📅 11:55 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.89K · <a href="https://t.me/SBoxxx/20098" target="_blank">📅 11:55 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20097">
@@ -565,13 +565,13 @@
 <a href="https://cdn4.telesco.pe/file/a4df224890.mp4?token=gLu7y_tDfSS89Kb5ZYup2bZbX1GsLyyAuXRQMBhUcfvUmUHV8VR-YV-Ufp0U0ryxECkQBMOE-7psdr8HrQeAWj2Wlwm1zaMkDpnceMdQ1xK5a9yFIMFukv1vxs2m0OMmlKfvSFeVNiBRL75Yj5B2vJQDwk0f9U6n_fStKoStkcD8GTx3g2Z3KlNGG8ZSBUu2NIbFURWh9FPUM-kO6p0ztqI6pPOg4XR8y54Ly8vnt0TwxgezogfBMLIqZ-j4QzHae1gVPLV1rm-AuuPvX0cSD0uyggR3LEuanrl4Eh5V6ghAx22fPj2Z-RfCfp5EhcSSMkwvqVrqI8oq_oq_9xDkAw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اعلام وضعیت</div>
-<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/SBoxxx/20097" target="_blank">📅 11:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.13K · <a href="https://t.me/SBoxxx/20097" target="_blank">📅 11:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20096">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">مدیرعامل شرکت نفت ستاره خلیج فارس از عملیاتی‌شدن استفاده از متانول به‌عنوان جزء اکسیژنه در ترکیب بنزین تولیدی این پالایشگاه خبر داد.   این تغییر می‌تواند برای بخشی از خودروهای موجود در بازار، به‌ویژه قطعات لاستیکی و پلاستیکی مسیر سوخت، ریسک فرسودگی زودرس ایجاد…</div>
-<div class="tg-footer">👁️ 4.24K · <a href="https://t.me/SBoxxx/20096" target="_blank">📅 11:35 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.25K · <a href="https://t.me/SBoxxx/20096" target="_blank">📅 11:35 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20095">
@@ -593,7 +593,7 @@
 ستاره خلیج فارس
 تأکید کرده است که درصد متانول در ترکیب بنزین در چارچوب استانداردهای مصوب کنترل می‌شود. با این حال، جزئیات دقیق درباره سهم متانول در هر لیتر بنزین و نظارت مستمر بر کیفیت آن، اطلاعاتی است که مصرف‌کننده هنوز به‌طور شفاف در اختیار ندارد.
 استفاده از افزودنی‌های داخلی به‌جای واردات ترکیبات اکسیژنه، برای پالایشگاه‌ها از نظر اقتصادی مقرون‌به‌صرفه‌تر تمام می‌شود. این رویکرد در سال‌های اخیر در چند کشور دیگر نیز با هدف کاهش وابستگی به واردات آزمایش شده، اما همواره با هشدارهای فنی درباره سازگاری آن با ناوگان خودرویی موجود همراه بوده است.</div>
-<div class="tg-footer">👁️ 4.32K · <a href="https://t.me/SBoxxx/20095" target="_blank">📅 11:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SBoxxx/20095" target="_blank">📅 11:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20094">
@@ -605,7 +605,7 @@
 <div class="tg-post" id="msg-20093">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">ترامپ:  آیا تا به حال کمونیست شاد دیده‌اید؟  آیا تا به حال دیده‌اید که یک کمونیست بخندد؟ من هرگز چنین چیزی ندیده‌ام. من با کمونیست‌ها آشنا بوده‌ام. آن‌ها افراد بسیار ناراحتی هستند.  ما می‌خواهیم شاد باشیم!</div>
-<div class="tg-footer">👁️ 4.49K · <a href="https://t.me/SBoxxx/20093" target="_blank">📅 03:34 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/20093" target="_blank">📅 03:34 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20092">
@@ -620,19 +620,19 @@
 <div class="tg-post" id="msg-20091">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">سفیر ایالات متحده در ترکیه، تام باراک:  اسرائیل هنوز جولان را در اشغال خود دارد، برخلاف قطعنامه‌های سازمان ملل، برخلاف کل نظم بین‌المللی که جولان را متعلق به سوریه می‌داند.</div>
-<div class="tg-footer">👁️ 4.43K · <a href="https://t.me/SBoxxx/20091" target="_blank">📅 03:09 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.44K · <a href="https://t.me/SBoxxx/20091" target="_blank">📅 03:09 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20090">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">سفرای ترامپ مثل خودش متناقض حرف می زنند.  سفیر ترامپ در ترکیه یعنی تام باراک از اسرائیل شدیداً انتقاد کرده بود اما سفیر او در اسرائیل اینطوری قضیه را ماست مالی می کند.</div>
-<div class="tg-footer">👁️ 4.46K · <a href="https://t.me/SBoxxx/20090" target="_blank">📅 03:08 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.47K · <a href="https://t.me/SBoxxx/20090" target="_blank">📅 03:08 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20089">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">سفرای ترامپ مثل خودش متناقض حرف می زنند.  سفیر ترامپ در ترکیه یعنی تام باراک از اسرائیل شدیداً انتقاد کرده بود اما سفیر او در اسرائیل اینطوری قضیه را ماست مالی می کند.</div>
-<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SBoxxx/20089" target="_blank">📅 03:04 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/20089" target="_blank">📅 03:04 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20088">
@@ -640,14 +640,14 @@
 <div class="tg-text">ترامپ درباره ایران:
 نمی‌دانم با چه کسی در ایران مذاکره کنم. این واقعاً یکی از بزرگ‌ترین مشکلات من است.
 هیچ‌کس نمی‌خواهد رئیس‌جمهور ایران باشد. می‌گویند: «چه کسی می‌خواهد رئیس‌جمهور باشد؟» «نه، نه، من نمی‌خواهم رئیس‌جمهور باشم.»</div>
-<div class="tg-footer">👁️ 4.6K · <a href="https://t.me/SBoxxx/20088" target="_blank">📅 03:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/20088" target="_blank">📅 03:00 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20087">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">گزارشگر: با توجه به اینکه ایران به سمت جنگ اقتصادی پیش می‌رود، آیا این بدان معناست که گزینه‌های نظامی برای ایالات متحده محدود شده است؟
 ترامپ: خیر، اصلاً.</div>
-<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/20087" target="_blank">📅 00:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.78K · <a href="https://t.me/SBoxxx/20087" target="_blank">📅 00:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20086">
@@ -694,7 +694,7 @@
 <div class="tg-post" id="msg-20080">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">ترکها در ظاهر می گویند اردوغان موفق شده ترامپ را متقاعد کند تا از این طرح جلوگیری کند اما به نظرم این پلن A شان بوده و پلن B شان شامل ورود مستقیم نظامی به ایران همراه باکو برای اشغال شمال غربی ایران بوده که پیشتر اشاره کرده بودم.  در هر صورت، در راند بعدی…</div>
-<div class="tg-footer">👁️ 4.76K · <a href="https://t.me/SBoxxx/20080" target="_blank">📅 16:00 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.77K · <a href="https://t.me/SBoxxx/20080" target="_blank">📅 16:00 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20079">
@@ -732,7 +732,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gWcJyjGBlJ8Im5_Gap5IzTpR9UgneQ0GO7aQ6qvhLI29BNM6CljEgraH14EuRZA08rSkaMkweJ7ODo3ZvGefAHOL3-aIkgOKRpFZhccF3P8KdRqsbmxSC9XY_hkY-1jEhcTo1qjuokQ2XtBTRFtHrwIJOG6TKy9-5k-EMEspsN-1EiGXUm9OkprAo-TkNFRUtkxpUH9Fwoysud0QSD6VB87LJkzhxRN5j_IJ2JYAgmoU57D_UWIurC5Br0YBBR660CdnigHaBjKvadodWuwzv2E9lremsL6H964vLqKrD6oq82ASRks7YWwJ7O0U7cHbVPMm5QeTri9FZVgiWmtQVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک برای امروز در سطح بالایی قرار دارد و پیش بینی می شود طلا یک اصلاح نزولی دستکم در حد 300 الی 500 پیپ داشته باشد.</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/20076" target="_blank">📅 13:25 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/20076" target="_blank">📅 13:25 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20075">
@@ -753,7 +753,7 @@
 <div class="tg-post" id="msg-20073">
 <div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">اطلاعات استخباراتی اسرائیل حاکی از آن است که ترکیه در حال آماده‌سازی برای ارسال سلاح‌های تهاجمی و دفاعی به سوریه، از جمله سامانه‌های پیشرفته دفاع هوایی، است</div>
-<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SBoxxx/20073" target="_blank">📅 01:49 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SBoxxx/20073" target="_blank">📅 01:49 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20072">
@@ -846,7 +846,7 @@
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QF_QNUIYCKGFS-7em5XnB-6_s7aNzTWCp6FPsa4kMP5n02-Rm85nx5kisPtRPAtW0aMdVvC-vtw_VtTHBva1e-7OJczkFhWUY3B1LS-4LmhTh0yR61uJvQEl6QXnAp-EZTTehUADqxJNcAiBp5FGELI2WIgID2IPZ7q6wLcSNop7-9PI5EQTdueozUCuNVg6BqnaQB64MV4J6GpMoVbWcmQmq7hBUqB2mkjTsR3NyrAS9-K3cstCfZcBJRU1Br3N4SBoIPT8l_qsfQkCMBn1Lu20R-3g-czqXCc35etQmjqmwEmP_Kouh3I38gU2RH7MYr8RtXuUTUqJP1khheeSxA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سبحان الله این چه فیگوری است دیگر!  انسان گمان می کند که نعوذبالله دارند با کله نورانی شان روده بزرگ کشورمان را کلنوسکوپی می کنند!</div>
-<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/SBoxxx/20058" target="_blank">📅 16:39 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/SBoxxx/20058" target="_blank">📅 16:39 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20057">
@@ -878,13 +878,13 @@
 <div class="tg-post" id="msg-20053">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">بفرمایید:  ‏ فواد ایزدی: اگر ۲۰درصد نفت دنیا را حذف کنیم؛ اقتصاد آمریکا فرومی‌پاشد!  با این کار نفت ۲۰۰ دلار خواهد شد؛ باید تصمیم بگیریم که تاسیسات نفتی منطقه را طوری موشک باران کنیم که دو سه سال برای بازسازی زمان بگیرد. ‎</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/20053" target="_blank">📅 14:15 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/20053" target="_blank">📅 14:15 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20052">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">نه دارو داریم نه بنزین نه برق نه نت نه گاز با تورم 300 درصد و رشد اقتصادی منفی و ریاست جمهوری دکتر پزشکیان و 2 جنگ بزرگ در 1 سال اخیر با گرمای 50 درجه تابستان و سرمای 20 درجه زیر صفر زمستان اما دغدغه جوان ما این است که رامین رضاییان به آن دختره چی دایرکت داده!…</div>
-<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/20052" target="_blank">📅 14:10 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/20052" target="_blank">📅 14:10 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20051">
@@ -965,7 +965,7 @@
 <div class="tg-post" id="msg-20040">
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">به نظر من جمهوری اسلامی بزودی گزینه آخرالزمانی حمله به چاههای نفت و تاسیسات انرژی منطقه را فعال خواهدکرد که در پی آن نفت به بالای ۱۳۰ دلار و طلا به زیر ۴۰۰۰ دلار خواهندرفت.</div>
-<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SBoxxx/20040" target="_blank">📅 02:42 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SBoxxx/20040" target="_blank">📅 02:42 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20039">
@@ -1012,7 +1012,7 @@
 <div class="tg-text">در حمله امشب به کیف این احتمالا موشک اسکندر نیست. این احتمالا موشک بالستیک سری KN کره شمالی است که با سرعت بیشتری روی هدف فرود می آید. مانور pull-up شاید کمتر باشد. اما باز هم زاویه نزدیک به عمودی و تیز را مشاهده میکنیم. سرجنگی هم مشخصا بسی سنگین است.
 @Exciton_missile_program
 🚀</div>
-<div class="tg-footer">👁️ 4.33K · <a href="https://t.me/SBoxxx/20034" target="_blank">📅 01:52 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/SBoxxx/20034" target="_blank">📅 01:52 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20033">

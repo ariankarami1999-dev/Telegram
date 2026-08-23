@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 09:26:04</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 09:59:47</div>
 <hr>
 
 <div class="tg-post" id="msg-913">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">از اونجایی که طبق روال هر سال، قبل از افزایش قیمت، چند بار یاداوری میکنم،  از ۱ شهریور ۱۴۰۵، کلا تمام متن های مرتبط با شرایط جنگی و اطلاعیه مرتبط با افزایش قیمت مثل همین متن و... حذف خواهد شد.  ویدیوی دو فصل اول اپدیت دوره سئو بین المللی با AI هم در دست تدوین…</div>
-<div class="tg-footer">👁️ 1.07K · <a href="https://t.me/mohsentavoosiseo/913" target="_blank">📅 08:17 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.08K · <a href="https://t.me/mohsentavoosiseo/913" target="_blank">📅 08:17 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-912">
@@ -365,7 +365,7 @@ pinned «
 ✅️
 همه اینا هست. فقط شرکت با شرکت، فرق داره. سایت با سایت فرق داره‌. هرچقدر بزرگ تر باشن شرکت ها، مدلاشون به مدل آخر نزدیک تر میشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.81K · <a href="https://t.me/mohsentavoosiseo/906" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.82K · <a href="https://t.me/mohsentavoosiseo/906" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-905">
@@ -377,7 +377,7 @@ pinned «
 <div class="tg-post" id="msg-903">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">سوال:   دوستان من یه دسته بندی رو آوردم بالا و رتبه ۴ صفحه ی یک هستش  اولین سایت که ترب هستش  ولی اگه ترب رو حساب نکنیم میشه سایت سوم طبق سرچ کنسول توی بازه ۲۸ روز ، ۱۲۹ سرچ داشته  ولی کلیک ۵ تا!! راه حل برای کلیک گرفتن چیه؟ عنوان  و متا هم از دو رقیب دیگه…</div>
-<div class="tg-footer">👁️ 2.28K · <a href="https://t.me/mohsentavoosiseo/903" target="_blank">📅 20:05 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/mohsentavoosiseo/903" target="_blank">📅 20:05 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-902">
@@ -616,7 +616,7 @@ booking.com
 <div class="tg-post" id="msg-885">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">ابزار های سئو خارجی رو به صورت اشتراکی از کجا تهیه کنیم؟ از سایت لیمیت پس! Limitpass.com ایرانی چطور؟ ابزار جت  سئو و کیورد چی و چند ابزار خوب دیگه...  http://limitpass.com/ https://www.jetseo.ir/ https://keywordchi.com/    کد تخفیف سه سایت بالا:  mohsentavoosi…</div>
-<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/mohsentavoosiseo/885" target="_blank">📅 20:09 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.57K · <a href="https://t.me/mohsentavoosiseo/885" target="_blank">📅 20:09 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-884">
@@ -674,7 +674,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.95K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.96K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -756,7 +756,7 @@ Claude Cowork
 <div class="tg-post" id="msg-877">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.23K · <a href="https://t.me/mohsentavoosiseo/877" target="_blank">📅 13:35 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-875">
@@ -826,7 +826,7 @@ Claude Cowork
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">درباره کمپین تبلیغات محیطی ا.......پ
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.84K · <a href="https://t.me/mohsentavoosiseo/870" target="_blank">📅 23:03 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.85K · <a href="https://t.me/mohsentavoosiseo/870" target="_blank">📅 23:03 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-869">
@@ -898,7 +898,7 @@ Claude Cowork
 <div class="tg-text">فیچر و امکانات و قابلیت: ۱۰ درصد
 فروش و به سود رسیدن: ۹۰ درصد
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.48K · <a href="https://t.me/mohsentavoosiseo/863" target="_blank">📅 12:27 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.49K · <a href="https://t.me/mohsentavoosiseo/863" target="_blank">📅 12:27 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-861">
@@ -949,13 +949,13 @@ Claude Cowork
 نون کردن
 پرداخت بهای غیر زمانی و غیر مالی
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.95K · <a href="https://t.me/mohsentavoosiseo/858" target="_blank">📅 14:36 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.96K · <a href="https://t.me/mohsentavoosiseo/858" target="_blank">📅 14:36 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-857">
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">ادامه پست قبلی:  مغزتون رو درگیر واژه ها نکنید. تو بحث پیچیده و علمی و خاص و واژه سازی حرف زدن، من پروردگار پیچیده سازی هستم! میتونم یه کاری کنم از این به بعد پست های من رو ببینید بگید ااااااااا وای چقدر این آدم خفن و با سواده. ولی کاربرد نداره و بیشتر کسانی…</div>
-<div class="tg-footer">👁️ 2.14K · <a href="https://t.me/mohsentavoosiseo/857" target="_blank">📅 14:34 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.15K · <a href="https://t.me/mohsentavoosiseo/857" target="_blank">📅 14:34 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-855">

@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 09:26:04</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 09:59:47</div>
 <hr>
 
 <div class="tg-post" id="msg-2564">
@@ -308,7 +308,7 @@ telelakel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.94K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2563">
@@ -327,7 +327,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.25K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2562">
@@ -343,7 +343,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.49K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2561">
@@ -357,7 +357,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -372,7 +372,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -387,7 +387,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -406,7 +406,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -425,7 +425,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -440,7 +440,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -455,7 +455,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -470,7 +470,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -493,7 +493,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -525,7 +525,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2549">
@@ -540,7 +540,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2548">
@@ -555,7 +555,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2547">
@@ -569,7 +569,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.9K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2546">
@@ -586,7 +586,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39.6K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/ircfspace/2546" target="_blank">📅 19:51 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2545">
@@ -943,7 +943,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2523">
@@ -1099,7 +1099,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 50.3K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 50.4K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2514">
@@ -1374,7 +1374,7 @@ github.com/ZethRise/Aethery/releases
 
 <div class="tg-post" id="msg-2496">
 <div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JMOIhby5bNhuYIcV-fkAW8BR21uxG5M9mcRf4M0OcVEv9ieB0reFgBmR264Qbs0QrFgZR_cDrYJ-khtMZOrxiQg6SLLRT1e5ESYWnaHTAK0pHI-s-G4FIE3y5954etHY7jcq0xbMHos568jxOkjOznRKkDE53KL7mecZAOA9QDLiF7G7X7xcPmZHCQdRyHCS2J1-c_IDgdX0jfRsCw9CRkRwLLSwddbccfNkbIeg-OrZ36fBd-X1NfFB6g5xkCnYwFeMeBf_MFB9mBWmWuv4sr7eg0zwHZQEh_Tk7vHQWZFooRGAZuZvyexok8FmNnADavVbf4lNWXFWMJX22EQfUw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cMpg9tnwKWaUZnw7m_g1tP99JEWpy8JkMRKmbyisOHwmZyVNIpNgzx3Mbhbdy7EbJxQ14H1rC3yOcsSJ3DUipWvYUVRPKi4QxmIAGZqSO2i6Y1ojJsvHcaxA98KYTCooVUDVpGC2ldPkxT1CnGkMag1RMSIwepjedn4QYcdEJyh24-YFJYGHb_0w3yaCBs-L5B0cuk9ipD1Y2426i8QlahW8cXbEORBXYq8Jb1m9plWABNv79cjP7071gzjc6C0AsGsZOThUAdbf3GOhKDchGqJn1TmAHe9QhGeUaQNXNN30xLCR-dNYNVt0cTivz9vQ7f_SEYrOvrhs9v33f2328g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت رسمی Sing-box برای سیستم‌عامل ویندوز بصورت پیش‌ازانتشار عرضه شده و طبق اعلام توسعه‌دهنده‌ش، همون تجربه‌ای رو ارائه میده که پیش‌تر در نسخه macOS در دسترس بود.
 👉
 github.com/SagerNet/sing-box/releases
@@ -1728,7 +1728,7 @@ github.com/SuOracle/GRoute/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 45.7K · <a href="https://t.me/ircfspace/2475" target="_blank">📅 08:14 · 14 Tir 1405</a></div>
+<div class="tg-footer">👁️ 45.8K · <a href="https://t.me/ircfspace/2475" target="_blank">📅 08:14 · 14 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2474">
