@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 13:44:23</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 14:17:16</div>
 <hr>
 
 <div class="tg-post" id="msg-2913">
@@ -320,7 +320,7 @@
 |
 💬
 ارتباط با پشتیبانی</div>
-<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2912">
@@ -368,7 +368,7 @@ aleskxyz
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.91K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.97K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2911">
@@ -508,7 +508,7 @@ Port:
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.7K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2910">
@@ -539,7 +539,7 @@ cpuid.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.01K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.05K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2909">
@@ -624,7 +624,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 🤩
 🤩
 🤩</div>
-<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
@@ -655,7 +655,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 8.49K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2907">
@@ -681,12 +681,12 @@ https://t.me/avazhnet_bot?start=ref_531615606
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.16K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.17K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2906">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ikgujh8x0DFqokLLV9TAGFi5KUced4LXhOkrCVsGaDqY4vTqqd91GWyN8x5qkgVPrvfvA1q0t3T6xPjwLRb9ePXTRa2whMMJruPYG0_tV-xrM7ntSo6E15kG6jh7dpLMpYZRxEHh02_zKwD9gv280Ww8Cyzfe1BRt7qrJFQoR2ccbOCNsyHI2qte60wDPZTW05Q-3BM5wwMfJLYgcEowC86iqJ6Lp9PnfE-peScZocATEY2v0ikncO0BJRTbOf4q_7wXcN2V3TvZWgZ5iDrKtwYxDlG3yL7ykpwNQDtcH0qkP681Jd2f4zj5hZr5R_pC0o1xGzdwJnsY4KZzCqvnrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TRHkSqkUBM3sH2xE3dm8Ozj4E_dQw7cWzMiaROJdAJVyt-kRtSpxtRZX-AF0xmH-mAK1loetAqQOIHD3W1NjxmWSrKwHHDI_Aqdv0lETknZ7r526q0NjwT_MwHt8cof16f3yJ6oWNy9fXX8A50QUUW5QnEg1iiaKpg4TpLOEB1jJ4i-r5GzblRUXCYVV_aDTqibvpf9CHRMB40fDdn40PbgtyK5nNdHDUlMIyruOpDYPI2vD7TJqH8nqK3QAUMtmbkLhmELLmnbGxcepUmNerJ7ZU80g6KZbqw0GQBNbtu3ny-o_uFnAGJd6M779iEYmftgnUhBKA7uIkUFCMD1BZg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Tor Node Manager؛ اسکریپت ساخت و مدیریت خروجی‌های تور تفکیک‌شده بر اساس کشور
 این پروژه یک ابزار تعاملی است که به شما امکان می‌دهد روی سرور خود نودهای مجزا و اختصاصی Tor را بر پایه کشورهای مختلف (مثل ترکیه، آلمان، هلند، فرانسه و...) به‌صورت پروکسی‌های لوکال SOCKS5 بسازید. این پورت‌های لوکال به‌راحتی می‌توانند به‌عنوان Outbound در پنل‌های
@@ -714,7 +714,7 @@ Xray
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.38K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2904">
@@ -896,7 +896,7 @@ YouTube</div>
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nhvPfiTgNd_XEVdlGTPB4lsOxRmJsnT0YG1z5ViXXGN0_K1qeoEYPfpt7PZgZnFMGUcYKHEqXLczun68aEcvDj7qRB4oURl4qKbi_Q1w-mKATdg3BpWTQC-rZIoc0fS3iDlZjlxM8bJiVaJe8Db5TpTRIDmZ1mv_eJkgpMP3bAKAZISRNYta4rGczQIlchL60-d_Cjs8usr4BcSwW6A3at7EZBsdomqs0Toi8s7GKKSX8nbSModFtpbLDV1uw2-nKUPH3tGLXPBUZdjUYQbe0xdkcSd5WlF9Jr3P2Nes4vObOc6iYN7IeotbFXYL9-ocBE4NaBcrhPGDgOj6RnmGgQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کدنویسی در سال ۲۰۲۶ :)</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2895">
@@ -1104,7 +1104,7 @@ YouTube</div>
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/iaghapour/2885" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2885" target="_blank">📅 18:55 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2884">
@@ -1308,7 +1308,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2875">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LsQLj2cpvyxIxPdZHNMjcb8IXwmIcrP5MZZpo0h32_vzw-tZqaNFVUJ7T7wwAnCeahZKBPLlzfraLOWiurwpCZxg6-kNMQvdt14oa3rLQb8fkdLuBIeCTUHY4bIA_ktOoXrynO1fU5hi4vfE6nV9s69Kfq0IuMG8-SVdbdgB0U1UvzwZpnAjqN3zOMgM03rl5j6rSceJVwSevwdD6zAKPoXoJ7-TVSt1_lrHvo6N-pTDErKzeWYIGD2_rh6YGLmazYYZ_e9Mg4JY3Z3lFO15zkUOBh5LRuyGPsp3MnY1LxnD8JS73MhLZdfJy23xONg_xVTXhAIKIvAv1Ce3-LfeKQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dJX86s7HaqfCy0q5zmmbE5DDaqh4tZ3MSj5UVCPixoZPx7FNAd-31u4toGmrOes4ZSxHRICK5cYkaB_4uI2OjxgJ028mFIVEiEUZEBw-E2XXRrgYp6ANn0S5f6lYHrkyYJgnc9QdcnHcBnhebhYIj7ToioihJ-rew_LXYM8vIiTiANerpW7icpr6zHsZKKLf1vYR77xxCzGLXACs-BgA2OVH4XC6LGRR2yz2vBu8cUSS2XKWNFjC428JqPXQWAYF5wbRfIblX6ybDRUhKtKst6S3Apbr6wkixoGdaS5TYxF8KO1TxaZWNU1wbGzHNO2TutG4jmENDRmwXpN9uwWtTw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎉
 قرعه‌کشی ویژه اعضای کانال
 (سری سوم)
@@ -1327,7 +1327,7 @@ YouTube</div>
 تا امشب ساعت 24! پس تا فرصت هست کامنتتون رو ثبت کنید.
 🔻
 توجه داشته باشید برای اینکه یوتیوب کامنتتون رو به عنوان اسپم تشخیص نده و پاکش نکنه، حتماً بذارید ویدیو چند دقیقه پخش بشه و بعد زیرش کامنت بذارید.</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/iaghapour/2875" target="_blank">📅 16:09 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2872">
@@ -1411,7 +1411,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2868">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PmfAK7_5WvIh5KiON6OpNxgW-swcaDbbZ7GEOQ1VtI_sPARXqoGUYBAyjsl0Khi-25kiFWJ33-OGKL1xIZDAwZd827Is146QM9klVh0R5hJdwFQFyER02ZmbX9auEAn0gkEY30cTHet5ji56mG-bVQ-O071nCEECyKngaREDIiW2dN7qlOnXw6wzcV0-4nYlrcFDRug0swi49QmJ0g0FKM0lpkA3DoxBqpsKGzv9wKwQ3R_tKKLRy4l9QRNQjRdD6G8wV6k9h8h7EP8RzQQ9KKkAka5LBnQ8l-qa4Ln_pSBJ4SZKxTbZ1MjzZhtncqFDJhFXqJiXS6WsOJmbpUIFsw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J5hq8ot1aP4JLTB-ogGsa-d6tFO8NyVkzxYsBT9f2pc4yaSrnkdvqUtxIQNIq8g4mWqLEp1jVpaJyKoTcl3d35RZssGGsu7xk-I_f2YvRqoKgZDyn-7kqaikOPfYCAM4J6YjRlSCyl_Ow1UHyYH4W5WSWR16xjmjWtIq6tff6v5R9GTUsYuZCsnKNU-d4-khYNgMtTE1Y8jPAEDG8T3Snh8927Oz0qjVKV8gWZeJR1kstdveJZVzL3Uzk6y8cLw9HaptrqfCI5tSGijTat8L5ookPywOJsyIJr_RjCRyo1iyuePzW0M9xHwlb1BDPYpyIBtnjLzTnRa9j0F3-EEwgA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🖥
 معرفی LuciNet؛ نرم‌افزار پیشرفته و گرافیكی مدیریت و تست کانفیگ‌های Xray
 پروژه
@@ -2029,7 +2029,7 @@ Xray-core
 با وجود این موضوع، توسعه‌دهندگان ساکن این مناطق به‌دلیل عدم امکان احراز هویت، نمی‌توانند اپ‌های خود را در بازار بین‌المللی منتشر کنند. با اجرای این طرح، اپ‌های توسعه‌دهندگان ایرانی فقط روی گوشی‌های مستقر در مناطق تحریم‌شده به راحتی قابل نصب خواهند بود. اگر کاربری در اروپا یا آمریکا بخواهد برنامه‌ای از یک توسعه‌دهنده ایرانی تأییدنشده را نصب کند، با سد محکم سیستم‌عامل مواجه می‌شود./دیجیاتو
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2832">
