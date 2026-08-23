@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 18:43:11</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 19:13:37</div>
 <hr>
 
 <div class="tg-post" id="msg-2914">
@@ -305,7 +305,7 @@
 ✨
 👤
 حامد عزیز با آیدی…</div>
-<div class="tg-footer">👁️ 3.3K · <a href="https://t.me/iaghapour/2914" target="_blank">📅 16:01 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.51K · <a href="https://t.me/iaghapour/2914" target="_blank">📅 16:01 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2913">
@@ -333,7 +333,7 @@
 |
 💬
 ارتباط با پشتیبانی</div>
-<div class="tg-footer">👁️ 6.86K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.93K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2912">
@@ -381,7 +381,7 @@ aleskxyz
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.03K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.08K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2911">
@@ -521,7 +521,7 @@ Port:
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.51K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.54K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2910">
@@ -552,7 +552,7 @@ cpuid.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.55K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.58K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2909">
@@ -637,7 +637,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 🤩
 🤩
 🤩</div>
-<div class="tg-footer">👁️ 9.26K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.27K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
@@ -668,7 +668,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 8.87K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2907">
@@ -694,7 +694,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.5K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2906">
@@ -727,7 +727,7 @@ Xray
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.64K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.65K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2904">
@@ -915,8 +915,8 @@ YouTube</div>
 <div class="tg-post" id="msg-2895">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FR1ryP2huPdz1UP_0M6FhXTS-Cw04Bur98QqisQiGaJWzYcFO1DDYZNWYjD3rdYWtBvmcWIYC3q2vGb3iP7vPm-zzzKdPVo9U4uM3tLQgkrd1uOE-7L0Z4d_MkEExaL7ZByazl0SSH2edNqRL7-JTMGA_kRXdLEVxhyqnzNFyuJBRzG4H2O53TJCisPmEaP92KupXAytIZvebqNYt5B123po193wTQhdEx6hV06Z3HWLGjeblSBUkkDzHN6fAmTZ-PPoJKuc_4jPDEUFMIeEPwPw65GlOVM08xsdAR8u9g7MlQt2cl2pNsVWzrMK4MT5aC9ZFK6I1PT4Qp381kB5ZA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/EMDEki0zAkR6WdOSdQYWBd_fVzg8jSba9VLVBhFXTXy0wVZwMrp2k1PyZKS2yCWnFcd0loEoGnHHEbU-i87MvOTL3EP_F_agdPkU5SH-_AQi6ZtVI1tAq-C9ntMjFpIYb9zNKN2cxosdOnwRz8-RXU0Bbzwl6bMcNqhHb2x_T2_A88UwAaMWD0FqRO8eU41OYMVc7JtjK-VCmJJk7j-iHpUOL0M-ABdZtWngQpNM_k4vnb9mKXNEd64Z-3Jak2_IumGF-fK4ZpBezl4D-CLyau1FM0NCsqk0zA-YOeNllqcBQW93RuhwbC2r4AsByMhkhrTNsrf6a2BId4iHSU6RZg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/btRrg4EdTAcIgK4mC32jAiMg54JBR1wx8ykRltn0j3h2Xem0mjjLoWSCHKoQuX5iqyX4LpavUlYHxVNJLMO_JsVixZL_tZkyYNnXs9Il-cqELWNRgBElf-TWPE6qiG615eRVqRXH0YtEENunjSd9GvUvAxRyfla9MJ7D7S6KIbK0rBVvhvolOKpwEyxt2yA920B5oN9eNL1V5WQCrsfMleHdC_uiT4zat7xqQtr-x3BALi-qsluw2uAabSLeRpRD-r9ogh7rBkWzPrYJAXLiMVMbvu8qf7kdrOmC_pWqcB1rOOHhzsaM_V-P7PccAAzbLSsvyNregkcEQp7KjBd4EA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/SSV1q4AzlJq9gEWAZ4OgZeVZ6B16Cz1R0Kw6WMoMvllh8RTq5fiLIZatCtB15WRl1gIy2qXJiQ8bxWjxxGOXhQf0ENBg6ew-yqjNcB9OyuXm75c7JIRIeoOQI7Es4NQuN0Z5Qko3yw5w8gFaeJLbH0iJx0SDwNZLblqiAr1XgN-28h-gJxOCv5iCWHtQtqAaZ9YCCBatrYFOlJ7B1fYm6JVJbrGtQv0j2FKncTXnGlPSZfpWFgFRj6lkhGT_870xJfBkmDaUs9G6hfVN59SiA8FWqCji4FiS_1nIwrt6PQKBK2yRz2cI_mqDbd3Rj5w4xH_8DbzPqXzEs8vwxd2s5g.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">🟢
 جایزه قرعه کشی تحویل 2 نفر از برنده ها شد.
@@ -1033,7 +1033,7 @@ Ad
 
 <div class="tg-post" id="msg-2888">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CK75qoVLE56Js7jedSHvAfhJmSQ1sFWlxXfp0e71scsJcruVExE7SVvTPN4iU4e_g1IUJ_XSjc4IufzrG-nileaTLt5xQw0N_IsPFyz077VXXcP683IxBJgK4CmIG_C3sG-YVHijnwz8IaTZkUz6Rdpv6b1yPDIwdNgF2TTa0rWpomAj1CeMorQwmKbNOSZ-7rcwh0K1UzlnB4Ad3IHBrIMmfya74T6kjsjUcS6uahNnGhLlo9DNU1BFqdY2CAK9wCd_M91irMWz6Ntu-4mmJEXa_nA7yDb_VzOwlL-eOnMM-1OqZBqSuYoUHMyBda8zQgNZ29OaoLw8ZD9e2kqX7g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/abEi7UDDW8dSJKa0H_8LSPMLC5MM0rgAEXA3ocWNF-L3kXV8m5A5J1Q9wvVLhq-NFkeguMDLzmJDCWqXMBVRjMvX6ai0RdK116k2RJSOuyyvCXBQOLUePueZs-A9jHh55pol_S3c2QKBABondHGdbhZKtZ_4ygBkBDf5tyQ4zXwcpJAaEB1AxyUngk0MBefIYrFYSJIve2ANWG0RnY25ouyBVOL1B9NCRgpnmHYER_3ThXnwGpnb6HEJV5VFCH7rCTFl-6Emq5KNO0XqYjgYZAmayym5jzOBeqZplxCLkmCci2tl6VrtNNOLlF4m0fYtkHjESjMcgcD7MDzhGcjonw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📉
 خسارت ۶۷ همتی محدودیت‌های اینترنت به اقتصاد دیجیتال
 ستار هاشمی، وزیر ارتباطات، در گفت‌وگو با روزنامه ایران اعلام کرد محدودیت‌های اینترنتی تا اواسط اردیبهشت، بیش از
@@ -2105,7 +2105,7 @@ filterbaan
 
 <div class="tg-post" id="msg-2829">
 <div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hBO8_FDsLacimeQwt7uB6TyM1AC8WuqgWUhoUChBB-4Ld7yQW1T4XOCeygmbb19as7K4NtymCRqTSrixu4RZvku94fWE6FUmRrFG4cGleulU2vHvNL0V5mNvFaCxTW5NCl9CUbIdqMBmDfl5xub3Bg5DzMa32L5slC6LHD7x7yjMEIcV5IWeJ0a8U2iQt2SMqibq3-oemK5MQsda7pqfdUH9SR0nKA0ogMgJ4NFDxdUbEfxHGquKqs3Pio0ZoY5NXXh65rsRWy08mOqYcca1sXZ9FiHmpPFpyGab27jw7DF7lJp5vzzPnnr6meCXkKIU54-tzJabHTPYVBKuBthG0w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lMrSOfmEOoJpfBaTAsV3-UFezXt7RpZYD9lvoYNN2A05gvUcXHj1i9GB5eMB9muRcM75OdDr3c--ki7Cwvum2IIPp3xjZ1f3iSwWcdwTqP-Sn3yCoBc0TmExs1df22h69xI_YxbyjCFG8FW4rE2WhVTDPO6o8oDXs9CVHMIED19LKlCznZWGbZ-4lqSjhrLJRgEoofNCpp2xd974bVNT5ARVUxxG57C-xUKR_kHs8MSkQOi1Ey8VfaY7AP0EAt2u2ja_z1smFQUKEL539kKM1hs2-QvyrznxfjY7KKcZ2fVeKCqhXm1vou-DbhQxBLBbAQlHShuJ-yG_Zg1DDIRSqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 فعال‌سازی رسمی اینترنت استارلینک در عراق
 شرکت اسپیس‌ایکس از روز گذشته (۲۹ ژوئیه ۲۰۲۶)، ارائه خدمات اینترنت ماهواره‌ای استارلینک را به‌طور رسمی در کشور عراق آغاز کرد.
@@ -2256,7 +2256,7 @@ KelpDAO
 
 <div class="tg-post" id="msg-2820">
 <div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MNo5YF_m0yxvXZN2t7g0krXzsF7YmuTTCzk96-WnMSbez4k15JPCjALhEZ9JO-OTInuDwbSJ0Q4G6Z0KM64ndpLnVj-Is2bgFUjCRoeQjI6vBmPPdHaRgkPmyDncHdcadKeUM-9riXGStH_BALKPy60-4XkygDpETepDC1vSqOiU-VbxC7bg9nRgwxQq6Q37ChBpFWy3Z8McgRaj9iaOpUvEDSh3kZeuOvax74tzeaAlgRIqPbo6MdliZhCB78yLiVFdJFBlCngtkyDslrCSWcYCZSuPg16AoRxkUSKBvekuMaio0gYDWaYKo8F7DyVGyYZPHth94CT1gG5rGKvrfw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RLTBpb68N7GVsNDH6_TAgnMuZZOLVp5Wfpu7GetZqva2BmBJxTM1OjOol6-9KGKGgtRjcIrATpAUasLMKy9X0cck_ggcyDz17ouvuU8vdmEqtky7qLR5_N90rI1tPv3Iib8EpOWeS815VzwcgJq0z64oAtuuF8u2gcbcSt_h_7p3jkPaaKk6C1aiMk0hbtzd06IzKiO3pZ0ukVkA6aWdMzj5NkL2Mhs28z3brQZYTIo7t-dxXMjEYM7c1tEOsUfEBQBZFxx2gTjCjHmlbfu9Bt3ZglD5Dj6w6zwohzkPkvxlLh40BAZybyygjDBWZASBCEn9jIcT2VVVogQhMKyMjw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📌
 کاهش محدودیت‌های اینترنتی به «شرایط پایدارتر» موکول شد
 مصطفی پوردهقان، عضو کمیسیون صنایع و معادن مجلس، از تداوم پیگیری‌ها برای رفع محدودیت‌های اینترنتی خبر داد اما اعلام کرد در شرایط کنونی، اولویت اصلی کشور حفظ امنیت است و تصمیم‌گیری‌ها با رویکرد امنیتی انجام می‌شود.
@@ -2319,14 +2319,14 @@ Trojan
 
 <div class="tg-post" id="msg-2816">
 <div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i3rGBv4ltaGbhLWnSllFGSYkfSCM2C55s080zPlyWJRw8K4SKqmKVTLCYE035oPvjk2MLSV7wTR5O48mB9RmK5e7OsZvkoBTF3Y1PuhB4xz3wKevhwa3D9amV3h5f6PdnGIC91B_qjyM_abxUm9002bWk47lQFCtTKcPM8ZohNDpTyGck1v7xGoPVV_xthoI5gqlk_R4NkJEiaskK2qTedFidTEL5koy9G6urYmW5Q4HSkNkAw1sPfbk-hhorphA3xjOrzMD8voRMVeCMrempAltfALUzvJOFGW1joTHYAosxG8IvoViGf6ybeG3q7XSQ2XOq4m1aBAgZNDFXZRxNQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lkcp_jtMbOnJoRiteX4ow5yLR2zG6KsJgdlE92NqKPd0TXKCsxmwGNs9SyxSAYcaRvMTSd74ZAGI_7H8t4OhcogRLLmK7clv63vE0v6pn9AV2jvLV5_68815sJPxHDTwplUSvNBiEdbkpvkvPIVZO8-1kDir9wzo_gDu9r5KHQzNXaFoMbIlMrg0lPApZW63SqgOqDluuILdPq8FI3ZSDTV3bdDbf3VEM6-JupjEONWwp4NtdnSWENHZmuQbP-2W4xH57Ze295BxDXvobqLnbgwx5GgpT6c3hIKoU_o6zTJR5zoW8opjJdcVAwEhbI36YsbawkLhgA0Juy8oWhv2dg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مردم ما در هر شرایطی نمک خاص خودشونو دارن :)</div>
 <div class="tg-footer">👁️ 18.6K · <a href="https://t.me/iaghapour/2816" target="_blank">📅 20:40 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2815">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M9GKgofIw340B5mO8vhDhURzMmElzhMnq6Ahu7cHI9toega7ycFnqRFg9cxGso8UWMID7VXwX1UhAnoikmAGRXuQoCO_KVE1knB_yHIwo8-4mJiUZ8jbucJGGx4_LA_nIjLb1-ok2xgzbjbbWNhfrfcsSkMoKmEmu_1O-5cqmS_K5bhZrmWtaW-7WYnNJWfbe1Fu_7Ow-sY0f_x-MHULPny1xBY3fzfMlq8O5F-vLZUm9GN5hsmUTWwW0yuem2kisYCUfzD6zV-ZKpTWO0_BlG2S6ZEWBnJUidY7FvXIiLLs_KxfW_JslykKKrKXwEyJpRIAWujj3ERxpvMhp64qBg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RS3w0Lhsw9YcOY3Tyy1zJRzziqfPNU_tbaJF8ZmlH514B03aZINf8cClpVK6lYZvXMWBX5x9w_EmCcbGK4zkaaJ-Q2-HZhhkNJ-cLc01sCZXJIDEyPnI5wmSepEM8YkUsPC_lIthQqyQf-IuTH9OVGgqlt2f9VfU3FnTPKzAZxPOOloF5azo4U5PBrDgzkADMCRwksG-5shdTsB5baV-mLki3k9tuNYqCiB5ImpJtAFBnIiCGuTV6lEBfnbExMooO2ikqwkAXqPcpd2Fiet6UkgZSQVg_zqHW8Gko8QjQN5BAJ0Mxx4-nIFD3D1ZvbHA4wgIBIALWm2tKGSwFDIbkA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚠️
 آپدیت امنیتی کلاینت دسکتاپ v2rayN
 کلاینت دسکتاپ v2rayN یه آپدیت امنیتی اضطراری داده و از همه کاربرا خواسته هرچه سریع‌تر برنامه‌شون رو بروزرسانی کنن. این هشدار توی چند تا ریلیز اخیر هم مدام تکرار شده و توسعه‌دهنده‌ها خیلی تأکید کردن که نسخه‌های قدیمی حتماً باید به آخرین نسخه ارتقا پیدا کنن.
@@ -2367,7 +2367,7 @@ Trojan
 
 <div class="tg-post" id="msg-2812">
 <div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gevcljBRmzt-IWZsz3CE7H-q9XJHl-8V4AGvYZ1_9bPx1MBLDQWqs956rXUiMH-GB6WRtjD9lWjnCQRriKr-rwy_JmxCmJ0zoQv5KAZXUHYLg1rC2NQwf2OSVbnVbmRYOkPJatHGOeca6GaCriAE3ELSdNnMVJVKJrn5KVpdr8zeKBRPytU1eKxVCups-tfROmkUVzi5fZhaIkw6UyJeW59pUIpMwpUyMHEr3RfO5x6L0trQfbZwqeK6uSErc9adcWv_onig7Yji3tBgHR9G0X9LsNR5-sEQ8-Cw3Gg7bnXEfWUVh7FS4yCxB75SaFvIfKGm20essAaOBafcFDey8g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VssiB8qWG4PxmzCOPdWSCrvbBnNAwgVWwPZqlFPzd02PEwjJhhjO64bGFcG0xIB0fp_orxD2j78rWpBLsGOtwy_DjsW29IB2Y1G4ZuEeiNztpHVUDI5FAGLnYrDIzirETrWi9fotElUCYYeYYfrARXzGF_65vRe5smXUZzQPVBlRydZuO1EMaVlp9xw84shpACyE2-PpdF-UwWF2VspdtkPHLGGKqpQUbCbChXkW5jA3oDLaPHy_LYZh-vnZUmxeb45YnOgu9Lz3ZzEAoZirHcHa_EjbSELhaoFqCWp1-QMYx-cmNIWCmVwEuhSNsV9pXidhYp4PdEfjAIqn99I5Eg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🤖
 آنتروپیک از Claude Opus 5 رونمایی کرد؛ غول کدنویسی با نصف قیمت Fable 5
 آنتروپیک مدل جدید
