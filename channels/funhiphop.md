@@ -292,7 +292,7 @@
 <a href="https://t.me/funhiphop" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 «قدیمی ترین اجتماع فانِ هیپ هاپی»🟡صاحب سبک🟡Tb :@FunHipHopAdsContact :@Chaman_Dar_KhakFollowing Copyright Laws©</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 18:16:28</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 18:43:11</div>
 <hr>
 
 <div class="tg-post" id="msg-82492">
@@ -306,13 +306,13 @@
 </div>
 <div class="tg-text">@FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 980 · <a href="https://t.me/funhiphop/82492" target="_blank">📅 18:09 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.03K · <a href="https://t.me/funhiphop/82492" target="_blank">📅 18:09 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82491">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">خداروشکر جلیلی نیومد که دلار بشه ۲۰۰ تومن</div>
-<div class="tg-footer">👁️ 6.45K · <a href="https://t.me/funhiphop/82491" target="_blank">📅 15:16 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.97K · <a href="https://t.me/funhiphop/82491" target="_blank">📅 15:16 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82490">
@@ -320,7 +320,7 @@
 <div class="tg-text">دوستان به نظرتون اسکرین شات دلار ۲۰۰ هزار تومنی و ایموجی قلب سیاه شکسته رو با آهنگای محسن چاووشی ادیت بزنم استوری کنم بهتره یا آهنگای استاد محسن نامجو بهتر می‌تونه ناراحت و نگران بودنمو نشون بده؟
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 7.67K · <a href="https://t.me/funhiphop/82490" target="_blank">📅 14:55 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.1K · <a href="https://t.me/funhiphop/82490" target="_blank">📅 14:55 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82489">
@@ -328,20 +328,20 @@
 <div class="tg-text">خب بگم دلتون برا همین 200 تومن هم تنگ میشه یا زوده؟
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 8.77K · <a href="https://t.me/funhiphop/82489" target="_blank">📅 14:33 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.1K · <a href="https://t.me/funhiphop/82489" target="_blank">📅 14:33 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82488">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">ویلسون ناموسا چرا به همه چیز هایی که تو مملکت اتفاق میوفته با ۶ ماه تاخیر واکنش نشون میدی</div>
-<div class="tg-footer">👁️ 9.3K · <a href="https://t.me/funhiphop/82488" target="_blank">📅 14:23 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.6K · <a href="https://t.me/funhiphop/82488" target="_blank">📅 14:23 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82487">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aW_VBG4eapG1X8u_zg_pxOa_qMAGD9Xd9TtCY4J90otEjpC7mFNh1xvBimXZZ2JvQIZOnolsMPsoS6f9j9uaUobiKKw8f7kv4rcTVamduGep_HGZXdAsHaiHUAgCI2eKdsaKSpeEIhueJ5D7rQtj_ahwMYCyNHIC0aW_fLGs39G6M8NDTXpXaoOMKABcN4-5y5FcuYGuOkziCHEXnaqkPZRp7dt3C3wrJfwhP8wrXOJKu_LJmjr319elqtFEzRLtJoVfQ93lSRbVms9ICYLdVkPMvH4ndVSFigU2OTifwwmdnwhPIA-y9MjqAC_8Rt7Dbmo-PpK3XD9C56VH_woPpg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دلار 200k شد.  @FunHipHop | Arash</div>
-<div class="tg-footer">👁️ 9.93K · <a href="https://t.me/funhiphop/82487" target="_blank">📅 14:16 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/funhiphop/82487" target="_blank">📅 14:16 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82486">
@@ -349,7 +349,7 @@
 <div class="tg-text">دلار 200k شد.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/funhiphop/82486" target="_blank">📅 14:01 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.9K · <a href="https://t.me/funhiphop/82486" target="_blank">📅 14:01 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82484">
@@ -361,7 +361,7 @@
 <div class="tg-text">هالند کصخل موهاشو کوتاه کرد.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/funhiphop/82484" target="_blank">📅 13:25 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/82484" target="_blank">📅 13:25 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82483">
@@ -370,7 +370,7 @@
 <div class="tg-text">حالا ارومیه رو چطوری ربط بدیم به عربستان
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/82483" target="_blank">📅 12:45 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/funhiphop/82483" target="_blank">📅 12:45 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82482">
@@ -385,7 +385,7 @@
 <div class="tg-text">ویدیو تظاهرات با چادر تو ساحل دریای مازندران برای اعتراض به بی‌حجابی هایی که در سواحل رخ میده.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/funhiphop/82482" target="_blank">📅 11:15 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/82482" target="_blank">📅 11:15 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82481">
@@ -401,7 +401,7 @@
 یه پولی‌هم جلوی اندی انداختن پاشده از لس آنجلس اومده استانبول براشون بخونه.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/82481" target="_blank">📅 10:29 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/82481" target="_blank">📅 10:29 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82480">
@@ -452,7 +452,7 @@ BetForward.com
 r1
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/82480" target="_blank">📅 10:29 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/82480" target="_blank">📅 10:29 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82479">
@@ -461,7 +461,7 @@ r1
 ترامپ: تنگه هرمز دیگه جزعی از کشور امریکاست
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/82479" target="_blank">📅 09:58 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/82479" target="_blank">📅 09:58 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82478">
@@ -504,13 +504,13 @@ r1
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from𝓔𝓻𝓯𝓪𝓷.</strong></div>
 <div class="tg-text">میخواد یه ورژن ۲ بسازه باگای اولیو رفع کنه</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/82474" target="_blank">📅 00:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/funhiphop/82474" target="_blank">📅 00:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82473">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">پدر آرات داره بچه جدید میسازه.  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/82473" target="_blank">📅 00:00 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/funhiphop/82473" target="_blank">📅 00:00 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82472">
@@ -519,7 +519,7 @@ r1
 <div class="tg-text">پدر آرات داره بچه جدید میسازه.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/funhiphop/82472" target="_blank">📅 23:58 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/funhiphop/82472" target="_blank">📅 23:58 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82471">
@@ -534,7 +534,7 @@ r1
 <div class="tg-text">اگه برا خودت ارزش قائلی از تلگرام دور بمون دادا.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/82470" target="_blank">📅 22:10 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/82470" target="_blank">📅 22:10 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82469">
@@ -565,13 +565,13 @@ bakei
 <div class="tg-post" id="msg-82467">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">ترک جدید حسین تی‌ام و TM Bax به اسم Shh! منتشر شد.   Youtube  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/82467" target="_blank">📅 20:49 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/82467" target="_blank">📅 20:49 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82466">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-text">ترک جدید حسین تی‌ام و TM Bax به اسم Shh! منتشر شد.   Youtube  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/82466" target="_blank">📅 20:46 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/82466" target="_blank">📅 20:46 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82465">
@@ -610,11 +610,11 @@ Youtube
 
 <div class="tg-post" id="msg-82462">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cB9rHhKUomj3gTygM2HgSSPRx9YAWTQv0VXbhcRUJiIx12-KLwITThcXHmSe60e_TCyFts9OgGiL5q7fbyM6RVZfwasFXAGImGLdnKQsBpdVdW-zen_K8VyUyvbMAEwr55200BxLcqwHaJYeNgsGUj3dU0ZP6teu_dutnGa-D3sk63l4Z7LhNlfknTkRQygu-gbUIZHZyYY43gtNC7NTuZ_F_f2Cfimox4r3QxoN6OgCh0yCSrQKyFxhXy_THuUF4ySDA3Ao2K7GV8nG0c5bINRrjnlPBeSo303j6hk6eSenqcwrPfQVh1XriibOo04QE2yRKLbaD5J8LAB8IJxvpg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FtClhI6GMj_t4r9066zWEDcJrFprwPzmLPIZLa8iB-6ytXao1ErW2xTl9H_5FixGruVKOhsujKalzqUe8FbTXxYC9dhHFY_jjFUmDkiksUJGmbPKUgMpyK4C_-BIpwouUTk-a1Xe3HEeJoaHXGPGSdumdVW1rA149eaTYViG98oUAj9ovYgjzXRHvJF70xQD3u9zi4WvPSgSX8UZHPvfmnhV5hlE2TZqxNz7HqcXOwhdm-c5Wk_fYDa0m2mOez6XCtlnHAshWMKt-VfT2H1429jEt-jrSc7I2kkwDZWTbOPRb4sUlVjzuRCWTFmnrpJ6MDHtitWQJRLkFBzPuBkQCA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">علی کریمی خطاب به رضا پهلوی.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/82462" target="_blank">📅 18:36 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/82462" target="_blank">📅 18:36 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82460">
@@ -641,7 +641,7 @@ Youtube
 پس فقط یه قدرت مستقل و مقتدر مثل ما می‌تونه از صلح و کشورهای منطقه به صورت واقعی محافظت کنه.
 @Funhiphop
 | Nima</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/funhiphop/82459" target="_blank">📅 15:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/82459" target="_blank">📅 15:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82458">
@@ -716,7 +716,7 @@ Youtube
 تو یه قسمتشم داره میگه پوتک بهم پول داد که آلبومشو هایپ کنم، اینم واکنش پوتک به این حرفاشه.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/funhiphop/82451" target="_blank">📅 11:42 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/funhiphop/82451" target="_blank">📅 11:42 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82450">
@@ -868,7 +868,7 @@ Youtube
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/PkToVCmWKgLoVtWlfKKgjZRaj0njhraC7p2JDNOSmsUwbn7OIvMpIdhBLIxPj0IKPrhXEedRh3sd75ZQeXP-bSmBjB03V9AesnBdrqY6bx3pqrsuBfufXQUoavpcyMUj4UcWLG8qpTUwjfu8g2-nurVOtKkyOo60ry3gCyf7tRn7PaBLe-gpPOkd8jEF3Fq2vGMpl1OW9-VaGkdjdIQ01Wo5tshDkbSZgLSRYryRhsc5LYQIDqpv964u-N4g8Ss7Kbz4e8SnK713bws767etN3NQq2-7_tnJYBo1U3p-cDRveADB2ItS0H4pgz390PtyoUknEdum-OJVeUArksgkIw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">@Funhiphop
 | TemSah</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/funhiphop/82434" target="_blank">📅 18:10 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/funhiphop/82434" target="_blank">📅 18:10 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82433">
@@ -1086,7 +1086,7 @@ Spotify
 👇
 ☑️
 @F00TiBot</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/funhiphop/82411" target="_blank">📅 00:50 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/funhiphop/82411" target="_blank">📅 00:50 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82410">
@@ -1150,7 +1150,7 @@ Spotify
 <div class="tg-text">محتوا با تایتل "عاقبت اعتباد" میخواید برید اجرای جدید علی گرامیو ببینید
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/funhiphop/82405" target="_blank">📅 21:12 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/funhiphop/82405" target="_blank">📅 21:12 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82404">
@@ -1234,7 +1234,7 @@ YouTube
 <a href="https://cdn4.telesco.pe/file/8b61995a79.mp4?token=ER5gTA1C4bumzzd1qgVdSAX17w788DfWUS6ZXLdS3Enh-KNGr1FB4lHP8S79pz7tLXrnb_dNJ8zXZvGQ0XYJPUuDTmTsdE3t2oAyc4NRJ5J8OA_6Dvp8LjFQLPYWiCDQOEfdk5f0Pa9hFX78NNzacJPM-TI_wcEge4HKwzmXywchXWm-q2T30d1xsNjIdIXOUGy_JNWFWPP2GearLcS4vpwyGzUxfDP5rtnXt8cIr17lRDBZshAw_kzaT7A5LGTqHHAf7acYujVg9xoJ82j1usNinuSW_jW4INE4mZ5ePLreE6_4nfEjzpP1M8duYyx2zBoSJ1KCbYDpTU7p_CCsOw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">چند روزیه یه بچه گربه تو اینستا به نام عبدلله یبوست گرفته، تا عبدلله خوب نشه منم نمیرینم.  @FunHipHop | چمن در خاک</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/funhiphop/82395" target="_blank">📅 16:53 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/funhiphop/82395" target="_blank">📅 16:53 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82393">
