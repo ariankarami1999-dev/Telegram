@@ -291,21 +291,21 @@
 <p>@farahmand_alipour • 👥 64K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 02:42:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 03:12:00</div>
 <hr>
 
 <div class="tg-post" id="msg-6635">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">🔴
 دلار : ۲۰۰ هزار و ۸۰۰ تومن!</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/farahmand_alipour/6635" target="_blank">📅 18:06 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/farahmand_alipour/6635" target="_blank">📅 18:06 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6634">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">🔴
 دلار : ۲۰۰ هزار و ۸۰۰ تومن!</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/farahmand_alipour/6634" target="_blank">📅 17:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farahmand_alipour/6634" target="_blank">📅 17:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6633">
@@ -319,7 +319,7 @@
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kcUA336X2H3nvcg4jeycD8RyVBfc4vTHfnnD7kXWYl_3xsWq7ghcF-kAuFjbSjDVGKR_zhLawt2VeXxNgWa9uu98lQ6Nz1va8q6ujBpBcKyj0HbYsv4tvf_iPGVE0hcccFLL_zfqI3jOVk9yDAngB7NLHs_63mP8vgk2uf38UnW0Jcpx1Cr28PYsTu_Upr-Ozw6ZUE73t07fTRO1Hw_9BOTGTQzyBF1d5C5j9_WSvzXgZNIPQuEzxlx6iWWoB7jwMp3NCmbXEUqxCSBmKkoYFcD0xg6TpY38koeYQSE_VMn1g6nzyRF3eYOD4UK-r5SJQjiea4zh-sc_cYaIoNw69g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد از انقلاب ۵۷ و از آنجایی که مبارزات ملی شدن صنعت نفت، اساس و پایه «ضد استکباری» داشت، روز ۲۹ اسفند رو به عنوان روز ملی شدن صنعت نفت ایران  وارد تقویم کردند!  ( از قضا ۱۳ آبان و تسخیر سفارت آمریکا  هم رسما روز مبارزه با استکبار جهانی است!)   ولی آیا صنعت…</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/farahmand_alipour/6632" target="_blank">📅 20:04 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/farahmand_alipour/6632" target="_blank">📅 20:04 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6631">
