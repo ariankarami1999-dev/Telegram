@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 15:50:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 16:38:18</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -316,7 +316,7 @@ z.ai
 
 <div class="tg-post" id="msg-950">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UogUKNWiE498fqwxQzZzQnUoqfb6cj9K0ICC7D6B32OI_931Kh3-dniMogruAW-LCostxy0zOyXrwl9tmhEbl_4pcRWJOtO8T7gad2-o-cbDjeyJA5vuPUtgiMtHdXSpbsCZI1MI2fREMlFJ7N3onJ68fqnd7w5bcxRrRG2k6MBISd3ObgF7m2XADUDVvOkxIwZ-oTvs-qQJjcPE4rMOICXclgJq-xAMJNNRnyE7GQXN2j7f4uy-cUf6dWOxvfA9PZgtI3O4KjvSQtWB1H03AgeDEx15u8vhGJkVtBBVJteI0Y3T1D60oA8fGIZSZek3o9XZE7AbMX2n9MTgUdLrmw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZwnaiNGEKARLA4v1-F6L53-wGmB_Vzm_4MFCh-nmTFTjoS0rq3KyF7uDzSIisFYFCewU285ZHb3wxExRXe2KpqRqzLYbH4Yn17ysikGKZ8q7OTKj0-dE0bVOKyDePN6aFkVJ0FdhsGQXvw0KNjTnUeUruEy9X2sKaSHRXzw3UVfLektP2RxErp6JrgljlW4dcfHwVF0nlnW1lIf7UJjd4ovVKiktI2b4xTprqXoPmhKPHcyHd1oJ9qg8_cWN-xSh5r-x_F6pEaFGjuJRkiDcL1vakxoU7xpqQpQV-oslX8C84LHpAtj6HDUF4hCDGYi6faj5hN0D-dJp2Pg_IV7WnA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
