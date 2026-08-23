@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 64K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 13:19:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 13:44:23</div>
 <hr>
 
 <div class="tg-post" id="msg-6633">
@@ -336,7 +336,7 @@
 <div class="tg-post" id="msg-6627">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">اینجا بود که نمایندگان شاخص مجلس،  افراد ملی‌گرا،  چهره‌های اصلی در ملی کردن صنعت نفت کسانی که تریبون میدادن به مصدق و  مردم رو جمع می‌کردند  در خیابان‌ها در حمایت از مصدق،  فردی که خودش مسئول خلع ید انگلیس از صنعت نفت بود،  شروع کردند به انتقادهای تند که…</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farahmand_alipour/6627" target="_blank">📅 16:32 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farahmand_alipour/6627" target="_blank">📅 16:32 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6626">
@@ -399,7 +399,7 @@
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gGZ4q9T0G-kIQT7PTrlhM-0UTj5NJWfp4XBYTj4zSuYrb1KEHDgSp67KbHO-II6sLjV_e4HsjzY-20KNZXHTijBsnThw_LpqGnpGqEVbQInZ3VhPOQRr2OFyHasq5PUf6PWyvwmsJ6xvYXsCqppDXr1_4aExG-QmVszbkJWqRfhoZYo5kzhixAOQ8BMjHYhyVKrAD_lq1aQAnG-VSmcTqk7J2Pw_PBCA4YlZpB0G021KkYjZlDkkXDx_tHURpch5YV6KBLf6LFhwV7fs4lb6ae5F7mUPz4pmi0i1DUvnTltb0YcVBcjBalAzn3tLifQHY-egQcEoeLMmYsSJj5PdpA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نه فقط «حسین مکی» که «مظفر بقایی» دیگر چهره ملی شاخص آن زمان،  همان فردی که تظاهرات‌های مردمی به سود  مصدق را در خیابان‌ها صورت میداد،  همان کسی که روزنامه‌اش (شاهد) مهم‌ترین  تریبون  مصدق و مصدقی‌ها بود،  همان نفردی که نیروی فشار و چانه‌ زنی در خیابان‌های…</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farahmand_alipour/6618" target="_blank">📅 15:48 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/farahmand_alipour/6618" target="_blank">📅 15:48 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6617">
@@ -481,7 +481,7 @@
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DE68KL9c1xHs459ZTDkAoc1jj7d8bKG-yhn8sQz_RbS5U7Ls6fDtppn4tHs-mYFOPC6o0W98kWEFaqE6tRq-KnddjOcpxIBXrd9pjE7wgQJv1YLBDWDt-w1dnzTFDg6goJ--FQ85yjRUHR637YJ1gJXCbE-XLFEXk01lgSw2_-ILilwFddhqR0e1rSblWcISze85oMjMKtuLseSHt3SoC0umXMoE8paU5MSGcgvF3DrNaeIswx8TLfcs-WBOvSNy8v1juviTxI0M4EGxvfAgIIBv5zCLnTJv7ZTlguYMftp52jpGEkpWVKz93ob6LRptREHVsQuiBjwiyaVl8WG8Vg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رزم‌آرا، ملی کردن صنعت نفت رو رد نمی‌کرد ولی می‌گفت کشور آمادگی‌اش رو نداره!  و وقتی نخست وزیر شد، جلوی این طرح رو گرفت! تا اینکه یکی از اعضای «فدائیان اسلام» و شاگردان و نزدیکان نواب صفوی، او را به قتل رساند، زمانی که نخست وزیر بود.  مصدق که بر سر کار آمد…</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/farahmand_alipour/6608" target="_blank">📅 18:16 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/farahmand_alipour/6608" target="_blank">📅 18:16 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6607">
@@ -658,7 +658,7 @@
 <div class="tg-post" id="msg-6588">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">آیا این تنها جنگ و مورد بود که در زمان پیامبر اسلام رخ داد، و زنان و کودکان به عنوان غنیمت جنگی برداشته شدند؟  پاسخ قطعی : خیر!  در جریان حمله به گروه دیگری از یهودیان،  در جنگ خیبر، زنان و کودکان آنها هم به عنوان غنیمت برداشته شدند،  از جمله زنی به نام «صفیه…</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/farahmand_alipour/6588" target="_blank">📅 14:56 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/farahmand_alipour/6588" target="_blank">📅 14:56 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6587">
@@ -689,10 +689,10 @@
 <div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=CG8boF1If5ojts5leSf2xXXobtWVdX99Yf16S0W5yLnf7qlMsUrC8CUaVdS9ZnvOQ6QN15tQEk23HcVAT3ecIUCnm6jjTlNRV4P1D3Kz9U4R4LBnPBJWDq1lJvm7J9sJFVbzYftFS98tMfs6WzGnpvN3Z4jOfjklT69eHGQ3nMCQBAEu_zqvTHxp3bHYMdaxAo1RA1ShmN6xI5t72hfPuIMhAvTvX1MbXTCcICEIhT89-Igxc5cZE0MCKxFpaMGdtRi6bPy2CwzfKl7wN75VDRVphmWlPSd3FwaV3fMeAFwqSBrrxyjfT7QSiFGme_9kIL642HOcyNvqmY2HOEgazQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=VTxZC5yaBSA67pFnvy1Jx3p63KYyxb8nbBMdiQd1gWvQOevCAeGphDb1-dPfzvRhtc7njX1NxyfjeauBiPTaXtGyihdIYEPAFEsxIjMJ9q-2MEt-JTa8Qkd-FKppu1_blUb84gCvm1XoecSsFgnAn_HnuR-6MaBOSGriR58HV25frgJNge5yPiHmaOaV0PbwAqZE_KEA-6QMASuq-TMCvJSOGDs7ewkmeTnuOJ_TkpYcBrxhjIQWvhjNcDPIBV9vuhNmpcn6J0QcbxM0L-zoqu6ARJwHRMzV_yW2EPhAKJEdxAWuwQcTbgCEimE43kiiM9yuDPQX1sjrYuD32rAGFA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=CG8boF1If5ojts5leSf2xXXobtWVdX99Yf16S0W5yLnf7qlMsUrC8CUaVdS9ZnvOQ6QN15tQEk23HcVAT3ecIUCnm6jjTlNRV4P1D3Kz9U4R4LBnPBJWDq1lJvm7J9sJFVbzYftFS98tMfs6WzGnpvN3Z4jOfjklT69eHGQ3nMCQBAEu_zqvTHxp3bHYMdaxAo1RA1ShmN6xI5t72hfPuIMhAvTvX1MbXTCcICEIhT89-Igxc5cZE0MCKxFpaMGdtRi6bPy2CwzfKl7wN75VDRVphmWlPSd3FwaV3fMeAFwqSBrrxyjfT7QSiFGme_9kIL642HOcyNvqmY2HOEgazQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=VTxZC5yaBSA67pFnvy1Jx3p63KYyxb8nbBMdiQd1gWvQOevCAeGphDb1-dPfzvRhtc7njX1NxyfjeauBiPTaXtGyihdIYEPAFEsxIjMJ9q-2MEt-JTa8Qkd-FKppu1_blUb84gCvm1XoecSsFgnAn_HnuR-6MaBOSGriR58HV25frgJNge5yPiHmaOaV0PbwAqZE_KEA-6QMASuq-TMCvJSOGDs7ewkmeTnuOJ_TkpYcBrxhjIQWvhjNcDPIBV9vuhNmpcn6J0QcbxM0L-zoqu6ARJwHRMzV_yW2EPhAKJEdxAWuwQcTbgCEimE43kiiM9yuDPQX1sjrYuD32rAGFA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">در روایات این دو کتاب، اومده که حدود  هزار زن و دختر و کودک یهودی از این جنگ موند!  که اینها رو به عنوان «غنیمت جنگی» برداشتند. یک پنجم کل این تعداد، تحت قانون «خمس»  سهم حکومت اسلامی و پیامبر شد.  چهار پنجم هم بین سربازان و فرماندهان ارتش اسلام تقسیم شد!…</div>
 <div class="tg-footer">👁️ 17K · <a href="https://t.me/farahmand_alipour/6583" target="_blank">📅 14:16 · 25 Mordad 1405</a></div>
