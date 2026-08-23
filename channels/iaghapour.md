@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 14:42:52</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 15:12:32</div>
 <hr>
 
 <div class="tg-post" id="msg-2913">
@@ -320,7 +320,7 @@
 |
 💬
 ارتباط با پشتیبانی</div>
-<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2912">
@@ -368,7 +368,7 @@ aleskxyz
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.05K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2911">
@@ -508,7 +508,7 @@ Port:
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.76K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.8K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2910">
@@ -539,7 +539,7 @@ cpuid.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.07K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.09K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2909">
@@ -655,7 +655,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.51K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2907">
@@ -681,7 +681,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2906">
@@ -714,7 +714,7 @@ Xray
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.41K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2904">
@@ -855,7 +855,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2899">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n9yvJmJgqFEXAfzAYBM_YprKJbsSbwFkk1QqmU5QaolinHkP3FPSi-EIATmhsZCYG_JiYwydya3qpI4DJMA-zCP7bGLSvZJBAxiAlRQBQ7LMmrakt0ajPnLJLNbRAM6EqoboOoKlCv9ciy38wsx3BdFjL3mW1kUcBUzeSrU3izPaTOT2LzovL0hqKNVCGqPpb1MdbAKQRwTzODKreslwi3EjKvA_em4owjIpcGPPgplMaGcUOErdIh6Yj-S3HfCReZAUePz-SOXnXtnfL4OIAw6GuAW9HhI8dI0CC3t7Vz5greem-vfXu7r_Js8pUBSiES2dN3lJlxd_v_KgUtVOZQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a8jwvD2RfOZiOVKExiadKAdnrSUgJJdIJGWm5c62247tnaCKcI0Lmv0FH_O_u9xLZne4EIURf13usjjruX4z7BpjmkqIjiH7xRIiB6y6E5qr6__QAwzSVZwI9_7SlRN_EwWoChU2b5_wy5qPvfM5tQ_5UHE7QUTHtWifWTaLo9gjS0pM77YEbc69SYZswXEHgd5wEG2PrpDy2czXujn12LRMgd6AcPK9gk6nIrEf_HkjwL-_00GU23S0QcEnUx6YUvxL3mvQo2nCtT_p-6qx9_ejTGPdPUQIkAB7ZwYe8jEM95n2E1UhG2E_VN6OuOAZiw3DuXvbQr4elZ56tcHMhw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 نظرسنجی ایسپا: بیش از ۲۰ میلیون ایرانی خواهان استفاده از اینترنت استارلینک هستند
 بر اساس نظرسنجی جدید مرکز افکارسنجی دانشجویان ایران (ایسپا) به سفارش وزارت ارتباطات، در صورت فراهم بودن شرایط، بالغ بر
@@ -1140,7 +1140,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2883">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/E2BtOK_eh8TDKG7rwUvtLdo5UBiw8ZERi1kX91YBcoB-rRqQ7Y8lwnKwqzmquSbm4X6MvF-3rNSTJ8yaUtV98D1eOKAMSkeHQELJjSycNBhUVsfBaLYD7RQL7HC0LQ0B3X35KHZ6vsnVgg3EHuznxeQYBGSRmdfLMTncz3MUwe0VK8BLG9vwdCbnObsATHYT3EmhxqPORtbLZE83LcqhB1JSE4Ee9iXuyHbr92a5d9rUwO1ICxPe5pec6jfIqOduMjdfH-CW_ViyU6LhCh-Zw1N63jsOrSdUdfKCY-8-PMdrciTXCUxPBagOg93G_RT39lv-nV9ViiakB6RSC-ZVJA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nMSW-9gQrWVDmiqiMmBSNNjs43ELTdu-FMr9iOs9UqMk4wptBGvp4fQSBx_I5DKIxzOQTV-pcgAvneJCQDj1Z9M_j-dem_97JxhTbYWYu1jJTQBqwPsj8nn4TB69Enf96zq2NynfP-99ZRBMtxizXyurz9XE7lZtIPdze3TwFZey8F6EFVmuejJCg2tDfW9loJedQNs0MJY1AZ-B2A-VyGCK3mT1irP8mg-fpR4let-06lCVqst8mIslxywV9m-YOI1y1X10FTD5Rh_ZBveAJ3bWz0DP-8POCfsWO5xIv4gDJj2YDmXnU1TfNo5Jj4q6afMSSgzjydXNZsrDMtTFTg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Smart Support Bot؛ دستیار هوشمند و ربات پشتیبانی همه‌فن‌حریف تلگرام
 پروژه
@@ -2323,7 +2323,7 @@ Trojan
 @ircfspace
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/iaghapour/2815" target="_blank">📅 20:02 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/iaghapour/2815" target="_blank">📅 20:02 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2813">
@@ -2470,7 +2470,7 @@ Claude Opus 5
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/iaghapour/2804" target="_blank">📅 15:10 · 01 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/iaghapour/2804" target="_blank">📅 15:10 · 01 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2803">
@@ -2898,7 +2898,7 @@ LangOver
 خدایی دیگه چه انرژی و انگیزه‌ای واسه آدم می‌مونه؟ اصلاً نمی‌خوام نق بزنم یا فاز ناامیدی بدم، ولی واقعاً یه جاهایی آدم کم میاره و رسماً می‌بره... کشته شدن این سربازهای بی‌گناه هم که دیگه مثل یه تیر وسط قلب همه‌مون بود. آخه چرا باید پژو پارس بشه آرزو؟ چرا باید یه ۲۰۷ مشکی بشه سقف رویای یه جوون ایرانی؟
 😔
 خدایا... فقط بزرگیتو شکر.</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/iaghapour/2775" target="_blank">📅 19:41 · 25 Tir 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/iaghapour/2775" target="_blank">📅 19:41 · 25 Tir 1405</a></div>
 </div>
 
 <hr>

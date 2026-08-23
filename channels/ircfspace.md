@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 14:42:52</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 15:12:32</div>
 <hr>
 
 <div class="tg-post" id="msg-2564">
@@ -308,7 +308,7 @@ telelakel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2563">
@@ -327,7 +327,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2562">
@@ -343,7 +343,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2561">
@@ -357,7 +357,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -372,7 +372,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -387,12 +387,12 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.9K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
 <div class="tg-post-header">📌 پیام #94</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JWcrcXmQjTWLyJ8Kc9n9ahsk--MIOezaGVGpuviW3pgHJIoSFZPoolRTC1iLW88hfGxCO-xBLAvKGi2uYlq8OWPhCrZwcXSpD4sjJ9uh6XEaysvHR_o-wA1NSGHVzRk9iWakt8DFMqbTyKO0WJHm5vL_X54OqUhOhq6zE7IWWeCwCGdd3h9GbwYVxIRLL1wHJVm5QeX5PqiqNHAR6ZwK-pKaKz9Ae7HRA42ACsO3DfDVbD2IclhCuOpVsTfEWb5pXcJ8QUgLXDSAVP-39YX9dLBc4P0L_dwiW1lfoAZflIGE7Jc2_yaV2XZHqIjJ01-meQPblTSFcea62xOueWAXVg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CYuNQ5d3AkpL2Uv8VFp3xLypDiDdnU0NrYwrG2m0SxbL8aUiKsXNK7TO3ABRkuul_DQbOBGz5U8usGI2gzypL7a3R6VUWdLQTC1KX3AaY4mte9h-UMXPsPxMg9wM7QgO204NG_ZAKvjVrujwEA9Ux_TSHNNya-CE3r2hka2VMfDgEXjoV9rBvAiKd96NGjfSbX0O1n6LA0gFDWgSSgiFNy6DekiiQz5bQw3Q3CX5ylW9hYWwpgw1JyPexjTChRWmERmJs_t6Q6ySrvLRH_RpbRIhDcFoQpp-GE-entrRZS2NJQMVX7P-kPnj_10kE7UrJFB5vA_PjCzvKEihKcOxTQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پژوهشگران شرکت امنیتی Socket شبکه‌ای متشکل از ۷۳۷ افزونه رایگان VPN رو در فروشگاه Chrome شناسایی کردن که عمدتاً کاربران روسی‌زبان رو هدف قرار می‌دادن. این افزونه‌ها در مجموع ۷۵٬۴۸۶ بار نصب شده بودن و ۲۷۴ مورد از اونها با جعل نام و هویت ۶۶ سرویس معتبر از جمله Proton VPN، NordVPN، Surfshark، ExpressVPN، CyberGhost، Windscribe، TunnelBear و Cloudflare
 1.1.1.1
 منتشر شده بودن.
@@ -406,12 +406,12 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tF5uTid-Fy8wduwgszhrBZsKhoqizEH2OkJPRWiMl35KE_eiJ4tGmHR3dGDWYqLHcdEAw1LRHO7591n74G4YVpb2AgmDZv4KCQXCUkyeXjXxJT6Gtnr5OjQbeeEIVrPCtQlbRFOpUhEDpbnmnkCWYAAvLSmN-4AVXHa7IkSn4IkH2L7frSrvjeWuR2usvr53Nib_jI2jAW8dreS6ymTzu_kkgfinQu4arfegh8TncdL_YaZ1X5Z7I89NNGa2Nvhylv9XgYnGLmr6li2zLfEAVMI4bPSGAh8XOIof8cLVfUxNVXt1p0-MZtfy8ID-6x5MW0xu_JmeaE1GC4ChfTqM2Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/q__onP8nAev_F6RL4VYJotiS_uzhGiFWUoGdipCrW1BRKDr4gv9kaxygROSlADSC3PMVpG9obP0wUfWQcMkX3MzMxQNnK8SCwOCoefP86t394yzvgjTbSMD0nWWxTrcjzbJk-1t9iukcTGlvO8UQn0PJo_QR3hSvdgeaFVgsqskwdTpcGQ-um4TrJjT1UPfzHpB9f1ECLPnOKfKgIaKM0eL4rkIUQlglR9m2lb1Q_BoD3ymUIjf2w7Eaw6dypudmdQa6CnQL8DKMGXUope6-37ysCe24BwJiVJWvTyxACkI6PCG9zA_2QcDD-0QIdFGXbvGXJ4arkklsVhgjv3i3Ng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ WhiteVPN یک VPN متن‌باز و رایگان برای اندروید، ویندوز، لینوکس و مک هست، که بر پایه‌ی هسته‌ی Mihomo ساخته شده.
 این برنامه با پشتیبانی از پروتکل‌هایی مثل VLESS، VMess، Trojan، Shadowsocks، Hysteria2 و WireGuard، امکان اتصال از طریق سابسکریپشن یا اضافه‌کردن دستی سرورها رو فراهم می‌کنه.
 👉
@@ -785,7 +785,7 @@ Farshad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 63K · <a href="https://t.me/ircfspace/2533" target="_blank">📅 19:53 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2532">
@@ -850,7 +850,7 @@ Taha
 
 <div class="tg-post" id="msg-2529">
 <div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DgVggCKbCrzs_nwS-2turhW9Rrkw1S2ogIADS7CxV_OKtaoKNDuOzuS9eumMsKuQHDBbWy4QpR491XNsfS0o3CeenjhujNXa6zgutfdUiFU_b6WRJrr3Snql_DWVm_pQNgCyl2aOXILvmWPrkfd9VGZYpfENbQKgApx2_tZ1nAIWgFXdLLtvmemfi3CZI-oCuLCHwnfAam75DmFIbQpC9hEn_2Cw6zrhxIgwAAElAe6TWfNckWttfLeO1e-Ow6bhVLgom_1Mztll_yt47LkqWpetFB75ipeL4AsrcDGp7ruXEmFw77WpaSaroeixKJo5o5gbPSID5pPLqyPbgf1vIQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/q1QFrUz0c-p5VV3ugH0cok-h2_dvKBRyvUATVxUKq2nzQXLy7uOqJQY7Oja9G4MfESR8BYMA9nyIlEG1rYOgaDFJny8OLW20Yn2MMBVHVJnxW33GDzhrVmMokf2_ASf5kWmbVw9JuLr6I7rXMoiPw7lYcfUKVc3W_WavisGOFj9RJcTTSl7wMUo1SnhgsOyVprejMNDtFtV7q5d7rFslRFL7Yv6FSgtnF3xwl2EcS2dXfsCXlPL3CBCrPY9rV4_GL0NLIcAcyuhwRXnsp12QjkbPy7m5kKmwpUPAKuRGSveseb3Mm8irzRM9DVs8HzKc5afa1YVDDz_AJDoGuUIX9g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هیچ‌کس این چنین به ستیز با مردم برنخاسته بود ...
 ©
 sadroddinfallah
