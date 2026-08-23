@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 16:38:18</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 17:20:57</div>
 <hr>
 
 <div class="tg-post" id="msg-2564">
@@ -308,7 +308,7 @@ telelakel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2563">
@@ -327,7 +327,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2562">
@@ -343,7 +343,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2561">
@@ -357,7 +357,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -372,7 +372,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -387,7 +387,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -406,7 +406,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.1K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37.2K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -425,7 +425,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -455,7 +455,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -540,7 +540,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2548">
@@ -555,7 +555,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/ircfspace/2548" target="_blank">📅 09:45 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2547">
@@ -862,7 +862,7 @@ sadroddinfallah
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2528">
@@ -1133,7 +1133,7 @@ github.com/2dust/v2rayN/releases
 
 <div class="tg-post" id="msg-2512">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/p0lAaTsCqA52aJJqfJPc9rhs6WOBfe917kj9Q9RY7_jxfOefntxpyxfu69O4j7Ybzi5eJGkoUPvh6ZU-gjCzRlHnNuVkZ6bqzg1C_7biGsE8q3z_2_rG0BYetiC9BX-C6diiZdaflBzLoQSwhVk0ZDQR8246YFnZpeT68H1OCpp1ek0lpBrcdnTzvQdylJgFZO6YxNXvt1h9cSSTDpE-9vZRF5QQnUs88kPtmQItoxE-Xro0yfTuObzQsrn7rfvVlQse0cXZ-0-rhisp9E2b-nltC-rmcOawII_amT8wBEtR4N6dpzY76jn6RfYxwuhS8JAPElBh933HKBOda7_Ndw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Ojvj9su39kcwm57dJecbsy71XXhxp0UYxW6TbZcjZwMrTYlMpCKP_x1ESc76i9XGQApYc4haqX180N_rdnpKVRnQ4deiLMq8kAm0WlLDmdZzDz5lqBoDRctNsL4FEsp7UivSLb_mrz0KMfWT3Vvqb_esYmeTBEH0WoMq4QcRgycpkSiUrjmKCDo_S0Q4IdNf625LBTAdq7-qaDa8jCpK5hCCe5-JN6ZvsJEbVo3bmkMrBXTZKUq1VQOVS7g4yZ4OA44D7tX4ufHjUPoCAhIJlRfWeofUJy9vI9fLJMiFhZhtQ5s4BsbfOb9zBCGcS-QeEiIYJNO1lJ8kiXI7mcHfOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">انجمن تجارت الکترونیک ایران یه بیانیه داده و نسبت به تعلیق دامنه فوتبال ۳۶۰ در رجیستری ‎.ir اعتراض کرده.
 اصل بیانیه قابل دفاعه، اما امیدوارم برای کسب‌وکارهای کوچکتر، استارتاپ‌های کمتر شناخته‌شده یا پروژه‌هایی که بدون پشتوانه رسانه‌ای قوی دچار مسدودی دامنه یا محدودیت میشن هم کوپن بسوزونن.
 🔗
@@ -1188,7 +1188,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 47.3K · <a href="https://t.me/ircfspace/2509" target="_blank">📅 11:13 · 30 Tir 1405</a></div>
+<div class="tg-footer">👁️ 47.4K · <a href="https://t.me/ircfspace/2509" target="_blank">📅 11:13 · 30 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2508">
@@ -1390,7 +1390,7 @@ github.com/SagerNet/sing-box/releases
 
 <div class="tg-post" id="msg-2495">
 <div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SY9pZeA3rAekNUIDJt5uvM-07Rv0bEpo4ZxDrOyEogYcoM_iu3Kb2q-v4iaZk2cXnJglEMLMKY05syY1Voduc1DWh0kdolYeYpz7mPJOJ7lKAneiqZ1XDebIbT6qupMllRjIC_fhXFsxJ_lVWlBiwcQsv00HICMKSWKFowEFYv4HlWh5BcUc6pwGIU7hLo4NK73QecgbmXg1E0KJ5neWqh7dSLbzi_GWAvseBEkybtNgPsEZyubjZ2wAJ_r-LowZE3Vt4qEuvGZbW-KC5iQCDkLjO3GZkjv0DTY0ig0ovA0oSHmFv_XzvJyeFTgcNeUAKWxbMYZ4hGT52C5bMu3BRA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cwUyELeHRHYVhRn3QBHaK-reHUXVIAYCFZRVLLmQRKFVO1EY5cwJhO2l5Ii2adN3y_Lv-jrmi3rQ6dIvDT_0XhSxFblkR_h74UlMwB_JTzrUEFFmdtHoxjsFQ5y8T7YyYVfTK0uvFwk2IBW4DFs8gFZbu8_xK8VEVFE22uuYf9qjubODSKbpoPMf5tTKxp_QsCURarEAefHWGLjJPwp0SOdQnXXINd_FR-mk6IdsoOAzaGCnSJYNSRByXVbiYp0WiX7XA_gqo-AEwmR4iXVHWsIrmHFUzpmAXn9Kf4uhkZ_JOeJCjoquiirxy4oRd8LkqEIbmIT5zXO3ebcfhxAkHw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aether-GUI یه واسط گرافیکی برای هسته Aether جهت دسترسی به اینترنت آزاد و دور زدن فیلترینگ هست، که دردسر سر و کله زدن با محیط ترمینال رو برای کاربران سیستم‌عامل ویندوز حذف میکنه.
 👉
 github.com/MatinSenPai/Aether-GUI/releases
@@ -1441,7 +1441,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2492">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/bgo2pxtlotirmWwsW3fv0Kuxh-sio2Evv4ek4ALvkAocrihXRTCkqNnyyHNXzL9O9a_l1dF6s7N9wAKjEaOz9KKRq-57e8uuxm2gJ-aA-fWr_9zWdW1sFVlNxy0Rfy3KEFr4UADkzBFIhdQLWUpLbGJZrqafPHOEPOROwmeV_o_EdhohaVnTGDtsUFQ-wEC2I8n6OPub6hjppZFdCUJ7B4PmzoZhIAMEyJrk4ZUm5IUJpKzCrjERqpSv3d4hrAt5OyTFeNdcn4Z-2RsNRA7vdlqkEcfnAdbNnggtn5Fo2qMRG-ZLjeselQA9Vo3ThSnseV83ZAAz3V-Zs1iuF_ZZhg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gkCGVLjxJ5BKjhTdK5hO5GrjebM3iUVwphnIwa6OiXX77lHIjRMj-B995S_0yqNhNRm-xut8etubixlPW-8Pr9oGJs-82IuEmI633N_NMYf3QMrkdOKIUFwhRIhO7zguL5NiAsi4zwYMsIS4DC0q9lleGoqyV6G-LqNFqPgAVycf17hsGl03mN9_DpwUeahmyTpcQB02gH94RREj0Zktu1eTicwzWDJQAmGW1sBhv64pRI5_ZNJJcGG3Hrl6lI6CItSW7-kvPjXpBt2fvnUUGJu2iFW58Vb9dVnFNbgbncUDX5x9T-wBf99eNTeU2hfVEpBnLIVuevyNioUno5avjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دامین
 t.me
 که بدلیل تحریم‌های وزارت خزانه‌داری امریکا مسدود شده بود، مجدد فعال شد.
@@ -1580,7 +1580,7 @@ github.com/IR-NETLIFY/zeus
 
 <div class="tg-post" id="msg-2483">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KB4-4DBJjT49nrtHE4DLgLPIbqoU26lNJMNKDonTW3pv8ZgLS-akIuFIchcFQLZnGq7hKJEOdMtM9aC0d-I-l2Zbp9CfiYdb2gKiOp4hK9Y3Wr6FG-uSKcuX_bplBzOlRuBwQg7j8LVwPVTP7gY8_ZXJjIuFxXLNNKGuF3zpjT090t5mtsps7JFO3Elwu0xgA1cEi0gjbeAqTes9oOtPNmJHeHzSNmz2M0Bep_gAgNJHZnUBcKIhPbcjGB4a7YL94cMV9WtQzlTUXDFqeQVnf_ScdAGybP1xWpeasoDkw_nxJMWUL6aBnrRlx0O2BAMFx7TCfjieTEsRcvWEc8CPeQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/T7J3tQtYBc6cAT1-ihAHQprBolD0Qs4Cz4kD4jUECSX8WIj2YfUTMLD2yDvnv7o3Pw6mtkONPiMLxNvXRssM5x_MnQjUFOo8PDRsuMyipdDDLm4lTiS7tgPHo9D7u610W3oSNU1H3mHPHsmNPP2ToS_-guLdAQ35i7YBLGec64mGId8Fsx_UL9_NN4XBHY20OAOct6qVY_9g6NHiwzgSIBvZAj2GQa_sSWk9P0bzS8m8yVnc9ZeV8gna5M1mMQCjXzbnxBD8ZEcXI8zfmLd97FCbINiF64d2OSJSvkQjVqz0M8d1vO-LMOfNgewGg81e4xSFifrbisAvA4fS1w12wg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایکروسافت یک آسیب‌پذیری روز صفر در Microsoft Defender با نام RoguePlanet رو برطرف کرده که می‌تونست به مهاجم اجازه بده تا با سوءاستفاده از یک نقص Race Condition، سطح دسترسی خودش رو تا SYSTEM بالا ببره. این مشکل با شناسه CVE-2026-50656 ثبت شده بود و حتی روی ویندوز ۱۰ و ۱۱ کاملاً آپدیت‌شده هم قابل سوءاستفاده بود.
 ©
 bleepingcomputer
