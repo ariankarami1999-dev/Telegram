@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 11:24:09</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 11:48:52</div>
 <hr>
 
 <div class="tg-post" id="msg-2913">
@@ -320,7 +320,7 @@
 |
 💬
 ارتباط با پشتیبانی</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2912">
@@ -368,7 +368,7 @@ aleskxyz
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.66K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.7K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2911">
@@ -508,7 +508,7 @@ Port:
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.52K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.55K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2910">
@@ -539,7 +539,7 @@ cpuid.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.87K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.9K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2909">
@@ -624,7 +624,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 🤩
 🤩
 🤩</div>
-<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.89K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
@@ -681,7 +681,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.11K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.12K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2906">
@@ -714,7 +714,7 @@ Xray
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.33K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.34K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2904">
@@ -945,7 +945,7 @@ BFI
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2892">
@@ -1002,7 +1002,7 @@ Ad
 اگر تبلیغ‌دهنده محصول دیگری را به شما پیشنهاد کرد، این خرید ارتباطی به تبلیغ کانال ما ندارد و مسئولیتش با خودتان است.
 ممنون از همراهی شما
 🙏</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2890">
@@ -1629,7 +1629,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2858">
 <div class="tg-post-header">📌 پیام #60</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a0bhDhaUlBzOL5jtO7ou5aSFbux5EcZjkqJuQPv-MHs-flgvjnm6XTFaOKMvXD4j57z80XM9raOf2WwEmvaXxAgkxlyiQ5QYOsTVddR3WvCv2c7Uv4y1uMXAqrehWEGDBBCPU_CiAtCSIvg1spfTO-SmC4DEj-P95mA58b3RYnzst7zUxXDxOE835fQ4baX6232SNyRuscuPh70OIOo_ybK-gafBUhf_m0J856pa2oSucjyvy_WpY9hvDFaECfR0FZ6ZgnEtIzrwdfVwKXo0lbRlMh1hslNGnbPH6s_FwiZL5Ldage6y0JXmiDzvlQhW41QCvXn18DaT2US1JZX2lw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i-YP5avvslXtKkXQD-abnavViJ3tqN2dm-kSm3C7Eb4eQGeI3in608HAdimXqhMCxe1Y74dDX5Iob4GfI5xCrbndyYElUujI1J0-E0OFwkSBY1k1KMVZLneqTZXWwlULU0bMXbKkr_sxeu6tRwGAH54yvamD0vJa1sQzpL_hneAOEYSeRnBDYOBpdy1Bt0UlqJMIapkcP5IxIREyfFZBToYsxc_3lTiIcsnH8y4B4o_MC9AuZ8fm4V5eLByr4ZNI680gfUuXBPQINv8Hm-1cNe-ICclT3mpYiqrRVYhHApXP7DDRF_8kyuQpP3036JPWly26Ho2iTTsHp0GgTFgNgw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 کمپانی OpenAI ابزار ChatGPT Translate را راه اندازی کرد
 شرکت OpenAI سرویس ترجمه اختصاصی خود را در آدرس به‌صورت رایگان و بدون نیاز به ورود به حساب کاربری در دسترس قرار داده است.
@@ -1679,7 +1679,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2854">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B-7reQsHp-HBOk94iMswhRcq-xvcN50pse3PEim4ADYuNVsOnRIgkW5l4KO2H4tG0ojDK6Awi4XO5qpJ7bkmkIVau45WKucRVrX-vZxmb5-oU1TYr4USKCkn6-fcurc9iFfwVC4EMiLRJLvqtVOTB__wU_cnqwRINCQHDa19JFGo0A83vKuqNkD6rhK_G_49J41IguxJqfUO614TYAVKUMfyv-fyJJbD_djN5ZZgXAfa1iy_A4BKjejJJaMxmWHyktoiGRFlawsUka6y_IKCLU7AR0BHw894KErbzOYxgEreNFUNPwhLc57DbKW0TFkQb_cn59ODa8T6XMG09FeOIg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DQWCVyPTzk_LFJw8XcM0vWZrh4Wd6cS1JZIHsyuCRNj2SQFlImycgjVfE_R6qY67g4caraNmV4ALJZJirGL4Kar7JLITBTBv98vRhqg-1v9ooT028p-VycR1n-sFgWvopq_JifEJ_ZEAxeM12l6ClXS4quoK1OE-P93zJaPsoZ9Q7L3peoHn2cTbU71XwclgRag_QRAyuPe-Ig3OveTZr3r-fuIsQmAuvzqfu6ge72EN8QSKFZqswl6no5Pi733MYLViE2n52EcXz9sMrYdsx4z3vtIPHEChPePmBnB4_qPWbAjwCAfAFGpB-H9fsRPa5lwO7F6ZZcBqW1FegLJdBg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>
