@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 17:44:34</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 18:16:28</div>
 <hr>
 
 <div class="tg-post" id="msg-2914">
@@ -305,7 +305,7 @@
 ✨
 👤
 حامد عزیز با آیدی…</div>
-<div class="tg-footer">👁️ 2.77K · <a href="https://t.me/iaghapour/2914" target="_blank">📅 16:01 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.07K · <a href="https://t.me/iaghapour/2914" target="_blank">📅 16:01 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2913">
@@ -333,7 +333,7 @@
 |
 💬
 ارتباط با پشتیبانی</div>
-<div class="tg-footer">👁️ 6.66K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.76K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2912">
@@ -381,7 +381,7 @@ aleskxyz
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.89K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.96K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2911">
@@ -521,7 +521,7 @@ Port:
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.4K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6.46K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2910">
@@ -552,7 +552,7 @@ cpuid.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.48K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.52K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2909">
@@ -637,7 +637,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 🤩
 🤩
 🤩</div>
-<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.24K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
@@ -668,7 +668,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 8.82K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.85K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2907">
@@ -694,7 +694,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.45K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.48K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2906">
@@ -727,7 +727,7 @@ Xray
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.62K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2904">
@@ -863,7 +863,7 @@ me.
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2900" target="_blank">📅 17:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2899">
@@ -1316,7 +1316,7 @@ C2PA
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/iaghapour/2876" target="_blank">📅 20:17 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2875">
@@ -1457,7 +1457,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2866">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H97coq8CC5GZWbdYpg63Vn3BJ6usrDwKQAy_KXAdbhWVzVQjXZWGRT3E716Ju5o_hnCB8LOiNKhR-mT6KfYEp4_kF_RFu4VfDAJ1O3KoiAX8nyr1YFgYVblFMVF5Xq4_fhqN8yyF-CHhdqILJqvcS5VJBu6zBtVw4sTqfqRevxkI95XgWIgqH6otIhCGpYkaEXnDdEdAjr1jX_KSrv272qEInsBFUQKRb3Egz-zBfZa-iAJdvn8gJgSIG2j1G8KP9CSqqwiRQvLhAd45MdCmUfPmLsPSwpOaxd2E1rHAakmgUX68OK8MPX6oNKcO20hG6HsPSp0um9AqlQnGjSFWhw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f1B5zicVIBFKNJSHnnDLY6tZa0EChfeNeSIs4_bj9OP9cO3O-br5f4yww2UP0z4oP4E2LJN6vrWR2acDErhBJEj9KVEQGTs2AtK8lrDmZ28e6rXagaNH-puIJcDlg_jeE83kJ1havlK8ND8oKemMnPzfqY-hx8ZUjOrfPUxekMZgTJJtoToboV2kSt_gI7Pi0Jxq1FYgOXiltOFAnrZGj7Kf9aV9TJiZqndw0EvDd2ps5vYHbnvRFAjZ_UkpjcnBEMFXWi33l9VtFty6V6-7AZEhiaNsoNv-R5HExS1RVom4gADaYaN46kXM7Yg3CaC-JjrZRnZuDeDW42syo-7gHQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 ضرب‌الاجل ۱ هفته‌ای وزیر ارتباطات به اپراتورها؛ اتمام سریع بسته‌ها خط قرمز ماست
 در پی افزایش اعتراضات کاربران در شبکه‌های اجتماعی درباره «حجم‌خوری» و اتمام غیرعادی بسته‌های اینترنت، ستار هاشمی، وزیر ارتباطات، موضعی صریح گرفت و ضرب‌الاجل یک‌هفته‌ای برای بررسی و ارائه گزارش تعیین کرد.
@@ -1522,7 +1522,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2863">
 <div class="tg-post-header">📌 پیام #63</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XHgzJN8Ashu_9VlRobY_vLtV0ypwT-B4f319JsA8SOZEqWJp1iyrQGy7S5NYspJp9mOctvwA_jzwV5cvYH8yWv47WlwrvZLtHRbza4wAyw_sZRLkSlMVoBV6JyDooCzmnKb08OyWlNXwnOLW3UAoTruV_UeovLDngIFC_PE-GMc_zSNi_KJkcqQfXcl-swT4tvq_0ux7qwc93pmt9W9OOiC4fjSFkFoA1AHR3j38t6UQE6zBnOIBPKlkBFIKOGpYTkOd6VhhrdjYbdCzXEs2vw85-34F1ufNCvg98MLMtR38OoqtTwvthASmszzii0Xrq-FZd2yDeoBuMUsJlG8NkQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nl42SGW93U8MV8qinJwq1S3c2oYAxhTVI-dzTBqf48X939cIlhOZwn5QNJOL_h9gqKO1PtXwYsespKlcTOkBoLRTuuycjE3ZZdiByN2Vabo80kgCKoZLq_KVcaOibfk9thrGHApCv48-3wWWezsfeNt6L-gd8KMw4ETXJXyPGMZS9RSEHs06PkeYJ4fS99KgzmRk6q4bt2iXguDl8rXJOWsZv1SWfSep5sK1gv-rnJrDi-ITHHkE90X0amlUB19RbbY-2lBypHP05gO5Ih8lu8rk3_zgEPeSRG3AmldP3i4rJGqW5fELrHakxgyjBKl-dkr4Fki-f389XzHw9FmWOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🤖
 چرا Kimi K3 آمریکا را ترسانده است؟
 📌

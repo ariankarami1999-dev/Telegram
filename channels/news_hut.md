@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 17:44:34</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 18:16:28</div>
 <hr>
 
 <div class="tg-post" id="msg-70465">
@@ -307,7 +307,7 @@
 <div class="tg-text">‼️
 قرار آخرشب خوانندگان پروین ملکوتی و حمید قنبری محصول سال ۱۳۴۹:
 @News_Hut</div>
-<div class="tg-footer">👁️ 1 · <a href="https://t.me/news_hut/70465" target="_blank">📅 17:45 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.45K · <a href="https://t.me/news_hut/70465" target="_blank">📅 17:45 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70464">
@@ -322,7 +322,7 @@
 <div class="tg-text">‼️
 فارس این ویدیو رو با عنوان «تغییر مهمی که در پدافند ایران رخ داد» منتشر کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 3.91K · <a href="https://t.me/news_hut/70464" target="_blank">📅 17:15 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.35K · <a href="https://t.me/news_hut/70464" target="_blank">📅 17:15 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70463">
@@ -337,7 +337,7 @@
 <div class="tg-text">توی برزیل یه مرد همجنسگرا رو مجبورش کردن برای اولین بار یه زن رو در آغوش بگیره! اونم از شدت ناراحتی بیهوش شد و از حال رفت
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 6.81K · <a href="https://t.me/news_hut/70463" target="_blank">📅 16:45 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.75K · <a href="https://t.me/news_hut/70463" target="_blank">📅 16:45 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70462">
@@ -345,7 +345,7 @@
 <div class="tg-text">‼️
 این زن و ‌شوهر بعد ۶۰ سال زندگی مشترک اینجوری باهم رفتن برای خانومش کارای زیبایی انجام بدن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.81K · <a href="https://t.me/news_hut/70462" target="_blank">📅 16:15 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/news_hut/70462" target="_blank">📅 16:15 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70461">
@@ -360,7 +360,7 @@
 <div class="tg-text">‼️
 وضعیت گمرک شهید رجایی بندرعباس، ۲۹ مرداد ۱۴۰۵:
 @News_Hut</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/news_hut/70461" target="_blank">📅 15:45 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/news_hut/70461" target="_blank">📅 15:45 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70460">
@@ -372,7 +372,7 @@
 🔼
 یک دلار آمریکا=دویست هزارتومان
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/news_hut/70460" target="_blank">📅 15:25 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/news_hut/70460" target="_blank">📅 15:25 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70459">
@@ -383,7 +383,7 @@
 آمریکا از مسیر جنوب تنگه هرمز تا روزی ۹ میلیون بشکه نفت عبور می‌دهد
 مسیر جنوب تنگه هرمز همین الان دارد کار می کند
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/news_hut/70459" target="_blank">📅 15:15 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/news_hut/70459" target="_blank">📅 15:15 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70458">
@@ -405,7 +405,7 @@
 خبرگزاری تسنیم، نزدیک به سپاه پاسداران، در ماه ژوئیه نیز ویدئویی مشابه درباره ملانیا ترامپ منتشر کرده بود که در پایان آن بارون ترامپ تهدید می‌شد.
 سرویس مخفی آمریکا در آن زمان اعلام کرد از محتوای منتشرشده آگاه است و هر مطلبی را که تهدیدی علیه افراد تحت حفاظت تلقی شود، بررسی می‌کند. سرویس مخفی آمریکا تاکنون واکنش جداگانه‌ای به ویدئوی تازه نشان نداده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/news_hut/70458" target="_blank">📅 14:45 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/news_hut/70458" target="_blank">📅 14:45 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70457">
@@ -419,7 +419,7 @@
 </div>
 <div class="tg-text">🇮🇶
 هیبت الهلبوسی مادرجنده، رئیس پارلمان عراق:  ما به قالیباف گفتیم اسم خلیج ، خلیج عربیه ، اونم گفت شما برای خودتون یه اسم دارید و ماهم یه اسم من بهش گفتم پدرانمون بهمون خلیج عربی رو آموختن ، اونم گفت هرکی یه اسم صداش میکنه! آخرشم به دیدار رئیس جمهور که رفت…</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/news_hut/70457" target="_blank">📅 14:10 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/70457" target="_blank">📅 14:10 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70456">
@@ -437,7 +437,7 @@
 من بهش گفتم پدرانمون بهمون خلیج عربی رو آموختن ، اونم گفت هرکی یه اسم صداش میکنه!
 آخرشم به دیدار رئیس جمهور که رفت ، رئیس جمهور بهش گفت که بهتره اسمشو بزاریم خلیج اسلامی که کسی ناراحت نشه!
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/news_hut/70456" target="_blank">📅 14:01 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/news_hut/70456" target="_blank">📅 14:01 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70455">
@@ -447,7 +447,7 @@
 🔼
 هرگرم طلای ۱۸ عیار: 21,907,000 تومان
 @News_Hut</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/70455" target="_blank">📅 13:27 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/news_hut/70455" target="_blank">📅 13:27 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70454">
@@ -463,7 +463,7 @@
 طرف رفته ماشین "شاهین" صفر کیلومتر خریده، بعد بهش گفتن با مانیتور؟ اونم گفته آره؛
 حالا که ماشینو تحویل گرفته دیده مانیتورش روشن نمیشه، دست انداخته پشتش بازش کرده دیده توش مقوا گذاشتن..
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70454" target="_blank">📅 12:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/70454" target="_blank">📅 12:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70453">
@@ -472,7 +472,7 @@
 <div class="tg-text">بعد کنکور و امتحانات نهایی قیمت چادر های تک نفره حدود ۵۰۰ هزار افزایش یافته
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/news_hut/70453" target="_blank">📅 12:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/70453" target="_blank">📅 12:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70452">
@@ -502,7 +502,7 @@
 ✌️
 ✔
 https://t.me/+x60dZGAgXTUxM2U0</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/news_hut/70452" target="_blank">📅 12:29 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/news_hut/70452" target="_blank">📅 12:29 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70451">
@@ -544,7 +544,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 r1
 ✔
 https://t.me/+x60dZGAgXTUxM2U0</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/news_hut/70451" target="_blank">📅 12:29 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/news_hut/70451" target="_blank">📅 12:29 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70450">
@@ -561,7 +561,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 یه دختر ایرانی رفته یکی از روستاهای روسیه فیلم گرفته و نتیجه‌اش قراره شوکه‌تون کنه!
 فرض کن یه دختر ۱۰/۱۰ داره لاستیک تراکتور عوض میکنه یا سیب زمینی جمع می‌کنه!
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/news_hut/70450" target="_blank">📅 12:00 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/70450" target="_blank">📅 12:00 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70449">
@@ -576,7 +576,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-text">‼️
 توی ساحل میانکاله مازندران، حامیان حکومت با چادر دست به اعتراضات زدن و اعلام کردن مردم رسما دارن لخت میشن، ما دیگه تحمل نداریم، یا دولت برخورد میکنه یا خودمون دست به کار میشیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/news_hut/70449" target="_blank">📅 11:35 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/news_hut/70449" target="_blank">📅 11:35 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70448">
@@ -586,7 +586,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 اسماعیل بقایی سخنگوی وزارت خارجه:عاصم منیر فردا به تهران سفر می‌کند
 این سفر در راستای تقویت همکاری‌های دوجانبه ایران-پاکستان و ادامه کمک‌های پاکستان برای کمک به تقویت صلح و امنیت در منطقه صورت می‌گیرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/news_hut/70448" target="_blank">📅 10:58 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/news_hut/70448" target="_blank">📅 10:58 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70445">
@@ -601,7 +601,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-text">❌
 درحالی که تمام شعبه‌های ساعدی‌نیا پلمپ شدن، کافه قنادی "بابک زنجانی" تو شهرک غرب تهران دیروز افتتاح شد و قراره پاتوق جدید بچه پولدارهای تهران باشه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/news_hut/70445" target="_blank">📅 10:32 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/70445" target="_blank">📅 10:32 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70444">
@@ -616,7 +616,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-text">❌
 یادی کنیم از سخنرانی طوفانی «معمر قذافی» ؛ میشه گفت این سخنرانی یکی از دلایل آغاز پروژه سرنگونی قذافی بود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/70444" target="_blank">📅 10:03 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70444" target="_blank">📅 10:03 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70443">
@@ -624,7 +624,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oyIwXT9NvK_z7j6-BQpfPvHEL8x225BUgyrIke_diN7mhwmwGOuByZ8AJRGome_WBQqtEennNsJrTGEtYFge0d9le3mxE9MO8UrBGrkBgE6AHHqG9HaNDxmo9jI2xwjoDNl7_6q7rUIBYgNH_xl33vhFXYtH1EExoqM3ewvBQ_Kt41USbX8xNgavaCbad3LVGle1ZTg_5t94hByxbsajSUF4R8BaL2XzzOEBLVk1hgu9HAZteLGStaZTbC9aYgjXpw4lvdcWUMx1fHkI3_HGfs8XSX91ESNX2EO3EX0O3T4tYOSiuuEFnXiGCV63WIGZLewaQc3MVO4bPNerP-Me3A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وضعیت کنکوری که گذشت:
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70443" target="_blank">📅 09:32 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/70443" target="_blank">📅 09:32 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70442">
@@ -649,7 +649,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 احمد وحیدی، محسن رضایی و حسین طائب خواهان ادامه تقابل‌اند...
 پزشکیان و قالیباف با اشاره به محاصره بنادر، قطع صادرات نفت و کمبود بنزین، توافق با آمریکا را ضروری می‌دانند.»
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/70442" target="_blank">📅 09:00 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/70442" target="_blank">📅 09:00 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70441">
@@ -662,7 +662,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 🎁
 برای مبالغ بالاتر از ده هزار دلار بیمه شرطبندی ۳۵٪ داره‌
 و مبالغ بالاتر از هزار دلار بیمه ۱۵٪ داره یعنی در صورت باخت مبالغ به حسابتون‌ دوباره واریز میشه.</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/70441" target="_blank">📅 01:59 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/70441" target="_blank">📅 01:59 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70440">
@@ -715,7 +715,7 @@ Gift
 a31
 ✔
 @DerbyBetOfficial</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/70440" target="_blank">📅 01:59 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/70440" target="_blank">📅 01:59 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70439">
@@ -725,7 +725,7 @@ a31
 🇺🇸
 ترامپ با انتشار این پست ادعای مارک تیسن مبنی بر اینکه بیش از ۱۰۰۰ کشتی با اسکورت از تنگه هرمز عبور داده شدند را تقویت می‌کند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/70439" target="_blank">📅 01:48 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/70439" target="_blank">📅 01:48 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70438">
@@ -734,7 +734,7 @@ a31
 <div class="tg-text">🇺🇸
 املاکی مجدد این تصویرو با عنوان تنگه هرمز قلمرو جدید ایالات متحده منتشر کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/70438" target="_blank">📅 00:53 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/70438" target="_blank">📅 00:53 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70437">
@@ -751,7 +751,7 @@ a31
 توصیه‌ام به مردم اینه که کم کم از تو همون خونه و محلات، شروع به تولید چیزهایی کنن که نیاز دارن
 😐
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/70437" target="_blank">📅 00:13 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/70437" target="_blank">📅 00:13 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70436">
@@ -775,7 +775,7 @@ a31
 محاصره و تحریم‌ اقتصادی آمریکا ادامه پیدا کنه، شرکت‌های آمریکایی منطقه رو می‌زنیم!
 تا الان هیچ کاری با شرکت‌های آمریکایی نداشتیم و فقط پایگاه زدیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/70436" target="_blank">📅 23:51 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/70436" target="_blank">📅 23:51 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70435">
@@ -801,7 +801,7 @@ a31
 ترامپ خالی بند است چندماهی هست اصلا حرفاشو گوش نمیدیم
 وحدت بدون اطاعت از رهبر انقلاب ممکن نیست
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/70435" target="_blank">📅 23:46 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/70435" target="_blank">📅 23:46 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70432">
@@ -827,7 +827,7 @@ a31
 گروهی موسیقی در جنوب ایران همراه با جمعیت، آهنگی سنتی به سبک بندری می‌خوانند و با افتخار نام رضا شاه را فریاد می‌زنند
 🙂
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/70431" target="_blank">📅 22:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/70431" target="_blank">📅 22:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70430">
@@ -836,7 +836,7 @@ a31
 <div class="tg-text">عربستان اینترنت یکی از استان‌های یمن رو قطع کرده
 حالا خبرگزاری تسنیم اومده نوشته اقدام ضد انسانی :))))
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/70430" target="_blank">📅 22:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/70430" target="_blank">📅 22:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70429">
@@ -852,7 +852,7 @@ a31
 یه عده از مخالفای بی‌حجابی تو محمودآبادِ مازندران رفتن فرمانداری و علیه آدمای بی‌حجاب شکایت کردن؛
 حالا فرمانده نیروی انتظامی محمودآباد هم با این سیس و خنده‌های ریز اومده بهشون قول داده که با بی‌حجابی تو محمودآباد برخورد می‌کنن تا یکم آرومشون کنه:
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/70429" target="_blank">📅 21:15 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/70429" target="_blank">📅 21:15 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70428">
@@ -896,7 +896,7 @@ a31
 ⚽
 @Tipster_Mafiaa
 @Tipster_Mafiaa</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/70426" target="_blank">📅 20:29 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/70426" target="_blank">📅 20:29 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70425">
@@ -959,7 +959,7 @@ a31
 <div class="tg-text">🇮🇷
 علی عبداللهی، از یک کارخانه تولید موشک‌های بالستیک زیرزمینی بازدید کرد تا از آخرین پیشرفت‌های مربوط به تسلیحات بومی مطلع شود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/70422" target="_blank">📅 18:32 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/70422" target="_blank">📅 18:32 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70421">
@@ -979,7 +979,7 @@ a31
 این اظهارات در حالی بیان می‌شود که ایران سیگنال‌های متناقضی ارسال می‌کند: رئیس‌جمهور مسعود پزشکیان می‌گوید شاید زمان آن رسیده باشد که «همین امروز به جنگ پایان دهیم»، در حالی که رئیس مجلس ایران لحنی بسیار سرسختانه‌تر و تقابلی در قبال ایالات متحده در پیش گرفته است.
 اکنون فشارها شدت می‌گیرد: انتظار می‌رود اسکات بسنت، وزیر خزانه‌داری، روز دوشنبه تحریم‌های جدیدی را با هدف انزوای بیشتر ایران اعلام کند؛ تحریم‌هایی که روابط ایران با روسیه و چین، چالش عمده‌ای در مسیر آن‌ها محسوب می‌شود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/70421" target="_blank">📅 17:56 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/70421" target="_blank">📅 17:56 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70420">
@@ -1124,7 +1124,7 @@ a31
 🇦🇪
 یک تانکر نفتی متعلق به شرکت "ادنوک" امارات، با موفقیت از تنگه هرمز عبور کرد. این تانکر، شب گذشته، از مسیر تعیین‌شده توسط آمریکا عبور کرد و توسط جنگنده‌های آمریکایی اسکورت می‌شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/70411" target="_blank">📅 12:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/70411" target="_blank">📅 12:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70402">
@@ -1323,7 +1323,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 IR
 ✔️
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/70393" target="_blank">📅 09:34 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/70393" target="_blank">📅 09:34 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70392">
@@ -1343,7 +1343,7 @@ IR
 شما برو چندتا مین پیشرفته کار بزار اونجا تا یکی دوماه مصیبت بکشن.
 بحث من الان تنگه هرمز نیستا من کاملا جدیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/70392" target="_blank">📅 09:03 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/70392" target="_blank">📅 09:03 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70391">
@@ -1383,7 +1383,7 @@ https://t.me/+UfR2NG4GjAMwNTQ0</div>
 <div class="tg-text">⏺
 فعالیت پنج سوخت‌رسان و یک هواپیمای هشدار اولیه در اطراف تنگه هرمز
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/70389" target="_blank">📅 02:10 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/70389" target="_blank">📅 02:10 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70388">
@@ -1400,7 +1400,7 @@ https://t.me/+UfR2NG4GjAMwNTQ0</div>
 سنتکام:
 ملوانان نیروی دریایی ایالات متحده در حالی که ناو هواپیمابر «یو‌اس‌اس جورج واشنگتن» (CVN 73) در دریای عرب در حال حرکت است، عملیات پروازی شبانه را بر عرشه آن انجام می‌دهند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23K · <a href="https://t.me/news_hut/70388" target="_blank">📅 00:57 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/news_hut/70388" target="_blank">📅 00:57 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70387">
@@ -1415,7 +1415,7 @@ https://t.me/+UfR2NG4GjAMwNTQ0</div>
 <div class="tg-text">‼️
 ویدیویی پشم‌ریزون از زلزله شدید چند روز قبل در کلمبیا که باعث شد ساختمونا برن رو ویبره:
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/news_hut/70387" target="_blank">📅 00:32 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/news_hut/70387" target="_blank">📅 00:32 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70386">
@@ -1442,7 +1442,7 @@ https://t.me/+UfR2NG4GjAMwNTQ0</div>
 افزایش قیمت بنزین مثل چیپس و پفک نیست که راحت بتوان قیمت آن را تغییر داد
 هیچ‌کدام از ۳ طرح مطرح شده، برای بنزین مناسب نیست.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/news_hut/70385" target="_blank">📅 23:15 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/news_hut/70385" target="_blank">📅 23:15 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70384">
@@ -1554,10 +1554,10 @@ https://t.me/+UfR2NG4GjAMwNTQ0</div>
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/bb50540ec1.mp4?token=UuyZoT_ZJ6vmzFHhgh9pjEvNDOiQ1bOK5JvEtti8XJcurnembMxl6eJ21duYxbQgsoIq-hRp7l6WbtNL-JUprvGVV_hdSKgl2Jx24DaTZnSnVK2NsgA5UjLhAvoLTLc1NIgn9qoCN0jtc9ILhKnZYpA1P1RGD01E4Ycl5GViZzfiW24VZjWWrBsUteLnqyEZrM_9AJHTvfuQGXNCse3Dvf5L4K4GmpaZtE6Xlx-KdJLehSLutMbM1MCk94xsrCFK-z7aQEhf8L-UAF6Nbd9TRhYt5dyvr-q_qs3P-MNC7s9IrJZqzZKys-bqISBFXc4p9xPL7-xgutHaPbVisXGvZF3bM2oLIFnZemFZJl-YzDAGsPvFjJxRxr-hG245e3V7_6EFziWPf-1vdeOyzYic97r5oj8gXXFzqZdhoME6Q7Zw4fGDUT1IfH0MrJeF4lEwpV9867B2j-vegPVrlgBcdSO_mkQjp3mQI4UTSXjGdscerp5NUftnkCGESSpNvXCwZd8dnjiX729EkNSMpahNnZ3Rmv1h9B421y-h8GUdZE1BBSxgIMyVawKft1o5LnQlGFNY3q9iQ6UsRc5ElPryY7skC6wkkfAJEv9fgo4kC0-lZDlUeHWERBc5WYhrDzE8kNGvYFLYvoVqSWpPeT4P7V05kOYW6R2B5wDvoAcbc9E" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/bb50540ec1.mp4?token=nWsErtZb9K0uYflJy2QEfsLL2zozZnK9Rvr26DE8rs4ftMFAPrcgRCAsiIx3KncmCf3-l-Q0HJdH5gMkvQIQ7rMuEG77LBaINoc6gdOPQcbBgsikAcnD4GVyz2o9rUmdbGjCkkLyRywLVIyXjRGPI4xA-ylKa15N1vOnYuwdqUjCZZT72zUxmLf-3tLaGBd_yWNJPPfrUgT3HbHMHuewBJl6xje9kt8btW6n3lETFix4NAerQezQyFaMbWqBLSFpuvFeIAhC2_lAskwMWu8zK3mVWOHxNE6bUKLrfY0ZGTvZGjIBKvvDv2R40bg4rbRPCelNi130a0lGL0hJNQYZC4a46xmTwZNtoh5yW8U5DUnB9QylCVmxPT-ihZ1k2z7_G7FwtPvDamcHAP_30PcdT1TrzaBxN0Hc0HPMEMY99N194Dl5w1tNF93vNRSisEXxhBnuci6XIpAzjv3I6ROGkF55EGhRIgFeehsxjfjB0Tt1fjhiZMts1yIkOgEeYPdQ6wlv7gVfl74UVN6WVDQ9HxkejpDNE57-CEjtbYaMY0sug5lNjx5VSsffuMCzTmlYJP0c_sEJYWxHslcKxy6eKQQsAjXowSfWMC8GlsxWf1jMslGc1pYM9DgCzwqObKBgtg10g1kE6z2fFnEk4oWaT9QMKk6D7KEhXneUOvxvU78" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/bb50540ec1.mp4?token=UuyZoT_ZJ6vmzFHhgh9pjEvNDOiQ1bOK5JvEtti8XJcurnembMxl6eJ21duYxbQgsoIq-hRp7l6WbtNL-JUprvGVV_hdSKgl2Jx24DaTZnSnVK2NsgA5UjLhAvoLTLc1NIgn9qoCN0jtc9ILhKnZYpA1P1RGD01E4Ycl5GViZzfiW24VZjWWrBsUteLnqyEZrM_9AJHTvfuQGXNCse3Dvf5L4K4GmpaZtE6Xlx-KdJLehSLutMbM1MCk94xsrCFK-z7aQEhf8L-UAF6Nbd9TRhYt5dyvr-q_qs3P-MNC7s9IrJZqzZKys-bqISBFXc4p9xPL7-xgutHaPbVisXGvZF3bM2oLIFnZemFZJl-YzDAGsPvFjJxRxr-hG245e3V7_6EFziWPf-1vdeOyzYic97r5oj8gXXFzqZdhoME6Q7Zw4fGDUT1IfH0MrJeF4lEwpV9867B2j-vegPVrlgBcdSO_mkQjp3mQI4UTSXjGdscerp5NUftnkCGESSpNvXCwZd8dnjiX729EkNSMpahNnZ3Rmv1h9B421y-h8GUdZE1BBSxgIMyVawKft1o5LnQlGFNY3q9iQ6UsRc5ElPryY7skC6wkkfAJEv9fgo4kC0-lZDlUeHWERBc5WYhrDzE8kNGvYFLYvoVqSWpPeT4P7V05kOYW6R2B5wDvoAcbc9E" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/bb50540ec1.mp4?token=nWsErtZb9K0uYflJy2QEfsLL2zozZnK9Rvr26DE8rs4ftMFAPrcgRCAsiIx3KncmCf3-l-Q0HJdH5gMkvQIQ7rMuEG77LBaINoc6gdOPQcbBgsikAcnD4GVyz2o9rUmdbGjCkkLyRywLVIyXjRGPI4xA-ylKa15N1vOnYuwdqUjCZZT72zUxmLf-3tLaGBd_yWNJPPfrUgT3HbHMHuewBJl6xje9kt8btW6n3lETFix4NAerQezQyFaMbWqBLSFpuvFeIAhC2_lAskwMWu8zK3mVWOHxNE6bUKLrfY0ZGTvZGjIBKvvDv2R40bg4rbRPCelNi130a0lGL0hJNQYZC4a46xmTwZNtoh5yW8U5DUnB9QylCVmxPT-ihZ1k2z7_G7FwtPvDamcHAP_30PcdT1TrzaBxN0Hc0HPMEMY99N194Dl5w1tNF93vNRSisEXxhBnuci6XIpAzjv3I6ROGkF55EGhRIgFeehsxjfjB0Tt1fjhiZMts1yIkOgEeYPdQ6wlv7gVfl74UVN6WVDQ9HxkejpDNE57-CEjtbYaMY0sug5lNjx5VSsffuMCzTmlYJP0c_sEJYWxHslcKxy6eKQQsAjXowSfWMC8GlsxWf1jMslGc1pYM9DgCzwqObKBgtg10g1kE6z2fFnEk4oWaT9QMKk6D7KEhXneUOvxvU78" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 این هواپیما پس از گرفتار شدن در تلاطم (توربولانس) شدید، ناگهان وارد یک وضعیت کاهش ارتفاع تند می‌شود؛ وضعیتی که با پر شدن فضای کابین از صدای جیغ مسافران، موجب وحشت آن‌ها می‌گردد.
@@ -1570,15 +1570,15 @@ https://t.me/+UfR2NG4GjAMwNTQ0</div>
 <div class="tg-post" id="msg-70374">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/s3QLlfQwKKzb_zdP5oI4YNBWE_59CSXWP_5_HbZfhiG8Tpot1QXhnCWe4r2y4djfUAB7aGh4RHgx3fV65YqnGQG1iHh55Yz1xlwGrT8FVZMYPne_U4z2nnzK3-BWCtQEwK7qt78YdP94IjIAEJvF5L3FIjeLfbfEyOPDmWvAzNAjfjV4YJhP5nbHiSZ2-peCNrQGWd8570T94XDCrqztg60vAUFcyK5lFCFazs91BK8dQ9F2S3L1gCQ50F_QQD34XcSPW8R-WvnYaWieRzBsB5RpFszk4sSbq2NJyAUr0pIQGc8HKmI-6tJQnPp60cnZFwgCaVhOIOF2ew-dp4hRNw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/bjZ5Ftn5-O72vsBgeie0rfQSboJB5Cm3stliGY1mgx7YbRHLhSQ0IQ2J0K2S8kKlS8eDeyV5Onq3b5PILmCRR83v1mKOU_KUaiK5IJDLdDhdRpdOecBvl8msVcq1gMYSMvOxvX4KhOq5sl4SwV6ziTV4PLtxfmuSB1ad0E3w_r9xKqQBuepeX4wsM1QhgAaHvGdiV272Nu_LEl7vfCtz9m46cLJCSPH-lTLKo07yOWVvpsmGOkPkqCE0kAVd7ta_MCYuG1sFvLlOhnIf4HcdeRfuJHWkTbm4vWQIlotvv6ARHkcvntK9BVQrDPQMQ7qHP67pZ1RG69Yw5wdsoc_Z0Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/MOJkf_JWohMrrHCkKgU7M7jo48LRSuES6EKyyDr9xm7UzZsuhzXLyaZhwkBZCRPRCnbBrrEHy_yYCUW0Idpemm6C5MjGTC1SwzrzcMcy0U07rsxmbVXGsDIMzVZBwU_6j2vnlHgbk9El8xzZQ8FzfUcgy6qzxTnfPw-OQWBRRLyUP2CqGQxRJJ16EVb6S8wt8pAPF6-s2sqPBjUt-lIk-ebebDOSitjAVJ9M03764NWcinLgBEtH4A4hufS-EQko__VCEpj3YPYBr4iN8Q4Vy6YyNYIWD0Tm272Hv02Banb27H-65EsS_iuDIBsdw6ifMSFMMPcqPoJzPtAVnQycGQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/OmPukjlVd-vCm9Yqz2X3YXutoX87LFUpDdITm5AezrB4IhygKGO5SsbEi__h14Dh5Ca_qceoyWVNBMDWADmCA5LqGknj1zw-0HvU-LqwSiocIRlqNVs-Wu_XcfeW1yzc2K2pyl8w-LU8M9Wh_ZyMFHzz0vu9Nu3P1WSGcdpCoLMU3ZzJWF1Y-ZadYt-OTn06P2yI8_8aNaMBij0Y0HILKWVGNsM8-BOPczrm9gL5ESFuKhgRykHp6LHWy7-yf5SEMq3spXvjwYbguQeUy0KJddj0f91uLyp3bjNuASZYS7RUjcx760qcpf09bETeHABGC90vuwAKXS_lAIwC83ZryQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/ee703d2eeb.mp4?token=i4YKNNgTFJJ-h80-7ramYxyJmtS1Z-P77FTzqMp7THMJumVNjzirohr7C00nmxLnyJz3WpCdOYaizTYqIiWBXI8H8mDNT-63HkzIPNRia3db4bPQM-3g2mk-d4Nvxd37-w_qmMjWaQwH483_8Wr9Texw99swQRZ7ZBL6rP0Sh01RX1tMC_Usm--xHaTQOORQZPl1uvqZVUsMOjz1XUQM8D4UOa1UAlsHXff8T0fakbx4sHtwNw5IAiBEt1zd8YvU--vDKQb-58CF7MSPGzyc35rBL-k1NaT194ZP49o3gop62CTOXBi65GSewYJNrrdPsAMBYb6fJs9zNNcfEMwUkw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/ee703d2eeb.mp4?token=p8vcF41RLKpSqymXPqCZrtld3Co6U06vFxyz4d0dnnpkXlftq2Dx0OhP0rz9kKOVFdDL4-fg7bwj5Xh4vWee19faRF6GPcLu9bz3wfDS5Em0VUjRZ-k3EDLfRxNcdhonaPp2dKmESW1F2GvA5-IdCBKUfwNEznYDqcOUqy4AqHXzXE5H5JHd3eQQSQENILKXvx9o2cJmJymuwJiBWSl9lBr04HukrHAT9EL8kW3Go32kVdiGSpYMHVVo7fCoyamPo_S9zyIMPGiFKEikbkw4v89jUr07VMt76R-_uppw5aiiC6vhyl8k4jFvSgsFlzw_eavY2PQ6HlirsqLc1BzDoQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/ee703d2eeb.mp4?token=i4YKNNgTFJJ-h80-7ramYxyJmtS1Z-P77FTzqMp7THMJumVNjzirohr7C00nmxLnyJz3WpCdOYaizTYqIiWBXI8H8mDNT-63HkzIPNRia3db4bPQM-3g2mk-d4Nvxd37-w_qmMjWaQwH483_8Wr9Texw99swQRZ7ZBL6rP0Sh01RX1tMC_Usm--xHaTQOORQZPl1uvqZVUsMOjz1XUQM8D4UOa1UAlsHXff8T0fakbx4sHtwNw5IAiBEt1zd8YvU--vDKQb-58CF7MSPGzyc35rBL-k1NaT194ZP49o3gop62CTOXBi65GSewYJNrrdPsAMBYb6fJs9zNNcfEMwUkw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/ee703d2eeb.mp4?token=p8vcF41RLKpSqymXPqCZrtld3Co6U06vFxyz4d0dnnpkXlftq2Dx0OhP0rz9kKOVFdDL4-fg7bwj5Xh4vWee19faRF6GPcLu9bz3wfDS5Em0VUjRZ-k3EDLfRxNcdhonaPp2dKmESW1F2GvA5-IdCBKUfwNEznYDqcOUqy4AqHXzXE5H5JHd3eQQSQENILKXvx9o2cJmJymuwJiBWSl9lBr04HukrHAT9EL8kW3Go32kVdiGSpYMHVVo7fCoyamPo_S9zyIMPGiFKEikbkw4v89jUr07VMt76R-_uppw5aiiC6vhyl8k4jFvSgsFlzw_eavY2PQ6HlirsqLc1BzDoQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 یه دختر لب ساحل ، با این پوشش ساعت ۷ صبح رفته و از اون ور یه مرد با شرت هفتی اومده بهش گیر داده که تو چرا اینجایی پاشو برو تو قسمت زنونه...
@@ -1660,10 +1660,10 @@ https://t.me/WePariFarsi</div>
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6ea7209957.mp4?token=CocG6vxFx-k1ZjM1KfasxZMwCV-y7Owz4SCIN1GNNXsEFvQZIfx21rd_KohpP6zMtzOYHkh5DZDAW9FftNkmHk2oQmb7PmYq78BcGcwCzUuDyQfJkal6VjPHvz60WZfLB_il9Bb2vGmUfbp0S3N5tCwrCJNzgfLY0FT2jWVby2rO9CaDbuVLGWXU1T-x7twAwNZdnaAfhZ3a2LaL-yzjX4ES5Sf0rNxX-Sck_0zZw1wpbn4tVT_kcMenf-VMW7e4_vWJHz4jvNa2ZkGRNSC56oD9rSVGfEaUIVkE9UQfr3sDzcMzL9Ts9EDoxBizVqx8n85Tseu1d9LDd_gc3HFcvg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6ea7209957.mp4?token=vT_zAR-2PlSZu79eP_GZ_q7hfRersicyjVf5JaVqGHa-14fTD79DYSy99gaj7dPCrMh9PLm5goMTMPad62mZArBHrJXmp5EPuoeQZAWnIPpuE5aFQXJWY2M39ZYA3jsM8m69lDxYHbBhksG40AKoC4MS1XmBGsb8zzYOb0s8-B_I53NgdJ7pmrgsHdopHY0LM9X6Fdxp3OxpUzf7IYahpm8qPrG6YRoSgp2_vTgwxSnzZ3uAxUS2X5Vjo6y_iFa7uQHHAGPl69tyAqx8HfzlkjkezknoE0Mds3ZOA8xXTdb1ecLAM7gduZ-6IfKQLHu3i92ItF3dlscUp7whNAZXiA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6ea7209957.mp4?token=CocG6vxFx-k1ZjM1KfasxZMwCV-y7Owz4SCIN1GNNXsEFvQZIfx21rd_KohpP6zMtzOYHkh5DZDAW9FftNkmHk2oQmb7PmYq78BcGcwCzUuDyQfJkal6VjPHvz60WZfLB_il9Bb2vGmUfbp0S3N5tCwrCJNzgfLY0FT2jWVby2rO9CaDbuVLGWXU1T-x7twAwNZdnaAfhZ3a2LaL-yzjX4ES5Sf0rNxX-Sck_0zZw1wpbn4tVT_kcMenf-VMW7e4_vWJHz4jvNa2ZkGRNSC56oD9rSVGfEaUIVkE9UQfr3sDzcMzL9Ts9EDoxBizVqx8n85Tseu1d9LDd_gc3HFcvg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6ea7209957.mp4?token=vT_zAR-2PlSZu79eP_GZ_q7hfRersicyjVf5JaVqGHa-14fTD79DYSy99gaj7dPCrMh9PLm5goMTMPad62mZArBHrJXmp5EPuoeQZAWnIPpuE5aFQXJWY2M39ZYA3jsM8m69lDxYHbBhksG40AKoC4MS1XmBGsb8zzYOb0s8-B_I53NgdJ7pmrgsHdopHY0LM9X6Fdxp3OxpUzf7IYahpm8qPrG6YRoSgp2_vTgwxSnzZ3uAxUS2X5Vjo6y_iFa7uQHHAGPl69tyAqx8HfzlkjkezknoE0Mds3ZOA8xXTdb1ecLAM7gduZ-6IfKQLHu3i92ItF3dlscUp7whNAZXiA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">❌
 یه سری دخترا بخاطر اینکه امروز کنکور دادن، این شکلی از پدر، پارتنر و... کادو گرفتن:
@@ -1701,7 +1701,7 @@ https://t.me/WePariFarsi</div>
 ورود دخترای مجرد هیچ مانعی نداره و میتونن وارد بشن، بزودی قراره در سیتی سنتر و مراکز خرید سراسر کشور طرحی اجرا بشه که؛
 ورود پسرای مجرد ممنوع بشه که جلوی بساط دختر بازی گرفته بشه!
 @News_Hut</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/70368" target="_blank">📅 17:01 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/70368" target="_blank">📅 17:01 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70367">
@@ -1741,7 +1741,7 @@ https://t.me/WePariFarsi</div>
 ادامه این روند، منابع دولت برای افزایش اعتبار کالابرگ و پرداخت تعهدات مربوط به گندم‌کاران، بیمه‌ها و معیشت کارگران، بازنشستگان و کارمندان را محدود می‌کند
 .
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/70365" target="_blank">📅 15:21 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/70365" target="_blank">📅 15:21 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70364">

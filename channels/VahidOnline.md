@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 17:44:34</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 18:16:28</div>
 <hr>
 
 <div class="tg-post" id="msg-78008">
@@ -306,7 +306,7 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 67.9K · <a href="https://t.me/VahidOnline/78008" target="_blank">📅 16:52 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 88.9K · <a href="https://t.me/VahidOnline/78008" target="_blank">📅 16:52 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78007">
@@ -320,7 +320,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 64.9K · <a href="https://t.me/VahidOnline/78007" target="_blank">📅 16:52 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 84.2K · <a href="https://t.me/VahidOnline/78007" target="_blank">📅 16:52 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78006">
@@ -339,7 +339,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 68.5K · <a href="https://t.me/VahidOnline/78006" target="_blank">📅 16:49 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 87.1K · <a href="https://t.me/VahidOnline/78006" target="_blank">📅 16:49 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78005">
@@ -358,7 +358,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 250K · <a href="https://t.me/VahidOnline/78005" target="_blank">📅 04:56 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 255K · <a href="https://t.me/VahidOnline/78005" target="_blank">📅 04:56 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78004">
@@ -372,7 +372,7 @@ VahidHeadline
 VahidOnLive
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 259K · <a href="https://t.me/VahidOnline/78004" target="_blank">📅 02:23 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 262K · <a href="https://t.me/VahidOnline/78004" target="_blank">📅 02:23 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78003">
@@ -384,7 +384,7 @@ VahidOnLive
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 312K · <a href="https://t.me/VahidOnline/78003" target="_blank">📅 18:17 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 314K · <a href="https://t.me/VahidOnline/78003" target="_blank">📅 18:17 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78002">
@@ -399,7 +399,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 309K · <a href="https://t.me/VahidOnline/78002" target="_blank">📅 17:11 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 311K · <a href="https://t.me/VahidOnline/78002" target="_blank">📅 17:11 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78001">
@@ -413,7 +413,7 @@ isna.ir
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 270K · <a href="https://t.me/VahidOnline/78001" target="_blank">📅 17:07 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 271K · <a href="https://t.me/VahidOnline/78001" target="_blank">📅 17:07 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78000">
@@ -434,7 +434,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 249K · <a href="https://t.me/VahidOnline/78000" target="_blank">📅 17:04 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 250K · <a href="https://t.me/VahidOnline/78000" target="_blank">📅 17:04 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77999">
@@ -452,7 +452,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 251K · <a href="https://t.me/VahidOnline/77999" target="_blank">📅 17:01 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 252K · <a href="https://t.me/VahidOnline/77999" target="_blank">📅 17:01 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77998">
@@ -465,7 +465,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 248K · <a href="https://t.me/VahidOnline/77998" target="_blank">📅 17:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 249K · <a href="https://t.me/VahidOnline/77998" target="_blank">📅 17:00 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77993">
@@ -501,7 +501,7 @@ VahidHeadline
 ببینید، جمعه‌شب است. وقت زیاد داریم، درست است؟ اصلاً چه کار دیگری دارم بکنم؟ برگردم، ایران را یک کم بیشتر بمباران کنم؟ دیگه چه؟
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 309K · <a href="https://t.me/VahidOnline/77993" target="_blank">📅 05:19 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 310K · <a href="https://t.me/VahidOnline/77993" target="_blank">📅 05:19 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77992">
@@ -521,7 +521,7 @@ VahidHeadline
 پس آن‌ها خیلی دوست دارند توافق کنند، اما از نظر من هنوز آماده نیستند که توافق درست را انجام دهند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 323K · <a href="https://t.me/VahidOnline/77992" target="_blank">📅 01:02 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 324K · <a href="https://t.me/VahidOnline/77992" target="_blank">📅 01:02 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77991">
@@ -551,7 +551,7 @@ isna
 یک مشکل بزرگ الان حجم پیام‌هاییه که درباره این موضوع دریافت می‌کنم.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 347K · <a href="https://t.me/VahidOnline/77989" target="_blank">📅 20:06 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 348K · <a href="https://t.me/VahidOnline/77989" target="_blank">📅 20:06 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77988">
@@ -713,7 +713,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 241K · <a href="https://t.me/VahidOnline/77978" target="_blank">📅 17:52 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 242K · <a href="https://t.me/VahidOnline/77978" target="_blank">📅 17:52 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77977">
@@ -725,7 +725,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 267K · <a href="https://t.me/VahidOnline/77977" target="_blank">📅 17:50 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 268K · <a href="https://t.me/VahidOnline/77977" target="_blank">📅 17:50 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77976">
@@ -1075,7 +1075,7 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 230K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 231K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77948">
@@ -1148,7 +1148,7 @@ mofauae
 jnbarrot
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 341K · <a href="https://t.me/VahidOnline/77944" target="_blank">📅 22:19 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 342K · <a href="https://t.me/VahidOnline/77944" target="_blank">📅 22:19 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77943">
@@ -1181,7 +1181,7 @@ NCEMAUAE
 -وزارت کشور [امارات]
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 316K · <a href="https://t.me/VahidOnline/77941" target="_blank">📅 18:30 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 317K · <a href="https://t.me/VahidOnline/77941" target="_blank">📅 18:30 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77940">
@@ -1679,8 +1679,8 @@ VahidHeadline
 <div class="tg-post" id="msg-77896">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/gO8D_0qhUlsSBLK7TvtlYNQ5yVImVdL1HKHlM6go_X1wwIZs5eq_sdaVmD-9Stn86hTl9IhgJjbkjs2Wt2wQhaULxSAhAy14OQrEivEx37_ObSNC2n8rdEKoi_PsDfXtN3quT5Bv5Lhyv9AHA6oYb4ABZCm3dD0OYjnEqxH98IfTe1eu_QJ6WBxLHOOCmApHZA0YZ_Eg4iq32swsfqpcasNxC0pLfqIqMp89XueM639cNpgsVdpGnfD1cRo5u2Mb2su4eEtLml7W3HsdxIqfhCbeXNLMmR8N4iP9kIaNG0aB7ROZOzKL-KGSPocvMik8_qbnGtnedgZ4pCz3wnbXzw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/X6fwx2whTxtU7TK3MK8b82e-hPDnMvEgYEJIVac0xdxMee-FBna8K1obG9Q5wQtZsz_6Uhk24kzKfdLLUF-9-CcsW8SEE69umWidWMePnr4EUNZ4ZSEuIRwpH_0kN8ROaREouDwvVvXforYPikP-8Ii7C4NfGqUNW6g3h4wc1aVli5VQP-WwMBHKauK_IFOhbtn0ZGLRzUbVCY765w2D35uGPCHZtPDWawO5Amc3ERUMX5JKxlJpC8s8Zkno3yLMcfAbZnQxIWyRTG0uBw_DyYNNhdwuRmNl9tJuFHhuanEVAjuqRVECo93nWe1ni495sBMVgXHX9HDgBhqKlhTQIQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/vyL-UIjES4oEXUu4CJsS6WUQ94q2KdgxwiAIQcfc3xk6USSlsdFf2qRwV0r1Yj5LP2UR3VwZr4DK_YFO8fEXDQXvi8JYl1LEP5vEGuty1nkX3sTqaGJPKvsj6aD3PuQ_zXpT8VT91DbdeaFyHS9mwyual6n0uYuxSU3iVgvREVkSjDu2FLTNhLABlkgzwiUxc2Uk8AiFXxmLktm2zJkTOFSP0NaQ2LxLah4FKJr2c5W87flv4gY_M-ChqP3hXpsJCU6WowVNKGQk6CgpDii5CqRlRrVcSXFFe4-eR3tTOu_vM3Z9el_z42RWHz9bupaVQ6_75-LQh3XwRIc3T0To8w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/YD9syjNjxIVoUWNitay45eB3CvNMM-j0eZhfHJPfPJ1k-yU1rDGBtNP0QWQcPBe66jyn3LbzCFMZDTs8tLvuaM9OnLLq9gmClXJUEjq58jcfwScZcnz0QbMy9acGJdSmyrVOcefRZ3iDQooiY_0BpUNzC8JBceUYEjxPsIq-nQiIv4OGMnP98hW1hGfAo32q9NpsM1VocBmw4CFaSNBOjSsA8oFoAq3f3VCaQ1yWU6BiCm8gIlByhzClTCOM0qgaYuAGmSYp2VFBpKRWkD50UdN1anVCkZYWD9rq7IsJ9nRBYqSkQxr4ja86j8a27TV4WvkpLucs_uiNct4uqKIUzw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">وبسایت اکسیوس در گزارشی نوشت، دولت دونالد ترامپ در جریان مذاکرات محرمانه با ایران برای پایان جنگ، به‌دلیل تردید درباره اختیار مذاکره‌کنندگان ایرانی، از نیچروان بارزانی، رییس اقلیم کردستان عراق، برای برقراری یک کانال مستقیم با فرماندهی سپاه پاسداران استفاده کرده است.
 بر اساس این گزارش، مقام‌های آمریکایی در میانه ماه مه نگران بودند که محمدباقر قالیباف، رییس مجلس، و عباس عراقچی، وزیر امور خارجه ایران، اختیار لازم برای رسیدن به توافق را نداشته باشند و مواضع آنها از سوی سپاه پاسداران تغییر کند یا وتو شود. به همین دلیل، دولت ترامپ تلاش کرد مستقیما از موضع فرماندهی سپاه درباره مذاکرات مطلع شود.
@@ -1700,15 +1700,15 @@ VahidHeadline
 <div class="tg-post" id="msg-77893">
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/aJglGPs1L3wMZ8OMKAAYUt9FiSU6BVq48Z4YMcHBEx0mkQYPAID5a7_3kAsZpzIt_3_i4OQJfOvk4f5bPnJCp3iOaDvwbjqVWzXv_1bzUS_9lpxqRVBA6eZcA6BVlNydBIxbAYbIs0wB4o4Ya0ZAGoa7acfOm9bvmH6Dl-vA6mRs7Y6n8N2RqvOBvBt6rY3yjHnoFsPgM-bSvnf-UTolQCwY4aUQxTBFZJcxxXKVMh_PKNkYkcpXLPk-w6hKJULWprcb81JtbRjzioekfpHTRLnS34_ay8so9SlyzC5OYvrw-6sRs2A_HT3yNA7EWztaiQpjlFGRresWoWZnwcFyiA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/VGj43iOhCCGxci8jfCSNDhrQS46Ox9zQ1L2EAZRSkHddaqu08FXxoTZOq6pPXtflFULZSQr6iM6nZXl_4mLIx6_vR2p2QMLal16ZlJ5WuWAuTJa3mppOPUrs5vmKUEYDg6N-F5u0UK9h95lGSbX9hG3wHYv2IXjtEynfnZ71booOGvv5SXPuc-qeZ7kanHcGw_clIg7PJDiZMl1ADhmnxyiaf--_7hTGKRePTtdmOmAs050MFvLPl_vZNq10Et2MEPMuzg8GPX-lZU4hXXELGHHSnjGwM11maNVQJsspbGQnBv4dp1MpofU-Qm2yIYK9txatEBFd6W_zpH0KcUt4Fg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Syz4wUkVnnX4ujr4EzKFuxCrMn-wDGOrLksUnzqlC-0TzhzA4JlMb0ftCCW7qFn0PiximGwYQzo2O2m-ytNqTRJ2tVmDxASTnC1zJTJfTtLg2MljEn9SULYuX3a5E1SqtMpLTeMKASw5-24jv6g4E8BmgwiRLBhZlp9L0MUln9OY-bcaZL3PFi2znBK3Lm7LrVbf-qytHHAwqF8Myi5WgP34lNMsYaX8MsQa9xmu3Ug_xO0qWnE_aAmLLo2PKLO64Oxp6fP75_F0Q_XFR8K8gX1ADYiBSgzpSDPeRDzAD1TNAwS8nLI_HmCKslrHerviWMLEKluVH-vkaBpsEg27iQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/MagNNtQ_gFSm4TZ6hHNoUXeL3YqIwEdU7_Bsk3Qb1x4DYrzTAAPy2JhUaUTtSkPfwfgipqye6Zjj_vMQ4DwOj3CY7zrnPdWYZH8-_bJOlos102ZaXVzhyUsqlFDStrHGlu0GQwvob0zyR8StWf0-3iwMIhPwF4cX52Y7loBCFh7WOS5O9qpkjDQueAAmgUa1wcRdDW-hn2FWOpyNAwlM2wBKVWDmxZs8NM13E8KBepIeHpw6nM5BeLMJUgpDzYo0tjqRBSPJxJYqF2wmhiJme7en3OlzI7Z6v7bsJvmbaW2BgReJbzdfnA5RmHYPBKhANP6DddDLfvByozamx-PlRw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/1630a6bff7.mp4?token=r8SZcgmM0eF1c8GxYPxhdijRIVcPsLgNUh8tDqt_if7QmFlsA6Ryi9FmC3xiI_HoiHV4jhFj4V3HUWwxdHudY0Yf6CzhqYu_E05DbLAa2CCVCm35fyFQMQgX7MSYk3GhOdt0heycIw6f263WbrI5wETvMrgsmcTzzV4R7KOJYuglA5xx0nuxGqlx_RELY5Emfq-XCB7ExCwC2DU02oTzQAAYgSgtnBeY4BV4xPiIkWjxh7SeZ2EgEfYpzdGN1bLj4KY7jWNbyffAx4fq5-bIC3ap0YeEI2LqMrOyLmdqRHfdiwe_qnuY5niPZT48Y9ph343qO2ZnD2dUSBjo64ncZw" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/1630a6bff7.mp4?token=WQ4eJuYMrNlRxW25qUvwpqcRrjjMn-ioD_SFe11GFHsXeEKyE4Gj-hdaPMq-o7A2hVbQD4idHAwxaxDntoYVmsuXdqSLusirrOVN06PuP0esMyC626_tm1bZYkefV3ByUDWJuYTmA5pV0Q-zFzzu_nJFQ_moVi0rMzr1cQyLLwyW4UmEStGG_w3JqToG9U-MmAZoi75pgiiKhKbun2iyEGh1eOSQBl53dauA8GbzcFVye9N2HUiDt4Rlm_eLSxQp1EbBjsTQa-vlA9-N9vGtS7P0Sd60M87xvKUo9JJDDtl6bTElM5dP-Kyw6g0HrhTVXVive-IAD0n-55LvOeuI7g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/1630a6bff7.mp4?token=r8SZcgmM0eF1c8GxYPxhdijRIVcPsLgNUh8tDqt_if7QmFlsA6Ryi9FmC3xiI_HoiHV4jhFj4V3HUWwxdHudY0Yf6CzhqYu_E05DbLAa2CCVCm35fyFQMQgX7MSYk3GhOdt0heycIw6f263WbrI5wETvMrgsmcTzzV4R7KOJYuglA5xx0nuxGqlx_RELY5Emfq-XCB7ExCwC2DU02oTzQAAYgSgtnBeY4BV4xPiIkWjxh7SeZ2EgEfYpzdGN1bLj4KY7jWNbyffAx4fq5-bIC3ap0YeEI2LqMrOyLmdqRHfdiwe_qnuY5niPZT48Y9ph343qO2ZnD2dUSBjo64ncZw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/1630a6bff7.mp4?token=WQ4eJuYMrNlRxW25qUvwpqcRrjjMn-ioD_SFe11GFHsXeEKyE4Gj-hdaPMq-o7A2hVbQD4idHAwxaxDntoYVmsuXdqSLusirrOVN06PuP0esMyC626_tm1bZYkefV3ByUDWJuYTmA5pV0Q-zFzzu_nJFQ_moVi0rMzr1cQyLLwyW4UmEStGG_w3JqToG9U-MmAZoi75pgiiKhKbun2iyEGh1eOSQBl53dauA8GbzcFVye9N2HUiDt4Rlm_eLSxQp1EbBjsTQa-vlA9-N9vGtS7P0Sd60M87xvKUo9JJDDtl6bTElM5dP-Kyw6g0HrhTVXVive-IAD0n-55LvOeuI7g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">پس از آن که قالیباف اعلام کرد درباره مسائل مرتبط با سرنوشت مردم ایران از روی حزب‌الله لبنان تصمیم گرفته میشه و اطمینان داد که مذاکرات به خاطر حمله اسرائیل به اون‌ها متوقف شده بود و مدعی شد که تهدید کرده بودیم اگر ادامه پیدا کنه "
 این‌طوری، این‌طوری، این‌طوری، شما را خواهیم زد
@@ -1734,13 +1734,13 @@ VahidHeadline
 <div class="tg-post" id="msg-77886">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/LPY8grOa2EXDSK96Z0-jy82Ic2f99XpFArjoPOZOs4vDWvT0z-xSP5KOOi-1XrJgcYicZdXs8w4JrD0mrm5otAb-iR-5ppqLBmLap-0Ygz41ZQssbfCh5EezhoWqA7lSYXjUouGbyt4JRfA-EZXl209xNY_58UBK5HGQM0cW9sKvR3pGJO7PohoJlfWce95SOXzEFA6m16ARApYdmPMVJ77zcrF1B02lm9sWXXbNeT7E6Pv8Im_Hv9HBxYQIpxSaagZhyDeS_TnocvwZjvBHWkaoTkoMiYAXQlQjg0V5Lfb4wJ1FMdjpvxepkU5XQyjb-MSw6FrmmFSNkmz_fSuNDA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/aj9Tx-zrtNXtOa7PzrkguL3tdONgA6z4po-_z8PJhQ5st2RBpkhVzSFzBUNOs18CVoj3Q_oczPF5aE_Qb9EH6OGykQSxW6X5vTbUylSl1uzOrBy40gEg-uPxXmS5ToOe9zCbaEITAerxOlvfvo5rXPsEvG6gOPIrjcedG6y9b8IG3Ds5b9F4pBVYGwXIeA_NkINsSfcnXU1KT3FKrQE51AtAiGDHkyvTogs2-zm_AOVJwTjBr9y6ekpRki-YfR-IXrKP1fZ25avwfdTip8hQROZz-9cjyx-JxAgL3w_1PuylOe1rWjhBge-FEVScoAb-eelfnD3yDkFpnF5NWGWwhQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/XKt8cv1_VhRlbKzPpguIgHsgka8vRSpX2U56LOFAwzy-zJ_4-Qr9Wi_wG7GbXvl3DUOBApLKDbDVmnlv5JdN6scABnRuM5i-SSVoxBzREAtLVlY1fCwVu-pjXjiHwzPUFd7onnYOSOXITnTreXtwyWDWvnlG3aY8tJR6PH6uJhGUOw9f88TozV5kofteJceHN2n-U_VVCRejCqYPjO1NCBHJo6OQj4E8XEte9gFC2hyj0mLbkEE8rNKbdI3W-ePaVVeePwdC44EjhVPwTzGK3xkSKFsmnrgtKQof-ug464zxfKM7qs_vkxm7Svl_5SEFcfY-6Uu8GZ4DQP-qQ3GhcQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/NhPwcHPmjwgFhP697Cu_Nwv_aRrmXVrR5nwdY_9UsRSTxvuZmOBSJiOssGVEoFTDWK_3xDswwoy3x4fQiUFkScorMfY7WiPDOfJuofosueIOkpS8d9VCUDMQXKmcDeci85ZD6cnSL7InSmi47grpYf0CM4T8BWcuqErEVUj9z65DZVgiPdndeyljHYmqxUWEB4g6OGNNKoibBCYx9XTEF3KdF6NjpCA1mdi6owWvmxzZJEelsCJo0IX5ZfkmG-Mz_SEq9azOF_OBSDW-vvT1DuQY4QKLSk6EnODbuuXCkEQgCaPvwCNsuJf0m6KAB7DlXV0hxL3X-IQQgT5iHE-dsw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/LvFuM_HAhdp-rv7XHBQx75lbph2taqi2m5JPwqcXIaKWiw3Pgs76F_hi_1lyIoKaeEtk82VB8dcMbA0sYw3-1UeMdwP6jyGjlxTjzaNyTV_dbthSuzXflQMBWP7Xzkl3U5hdhVqsWC12bPHwkz8qd5p9hmo8UY3FBI5q2qEsCrVb42hqy3n0roL7Wf5vdEPERPRoEiCDhZkg-MFyc_QybnO_zw1iFRQDhp7ZHeuUGy8Pkam_GLe5MfZRvWs5GZj8hQDUyvygERrktofSvKPvNlnLVMRcJ5u0CePTlSG30cYhJ1EDR8npk5hbOhL4CN4Vvd8ovNK8QPxbcRRqOef2IQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/TtdF08tnMHJr-1OoUowTfIgBj0woeS2zrk8IRn0O1bR1yFNVcWdbP8pyeljQHHL9-xDYMruU2-0HpbPfKoNDkjPEvU0hVgxP-_uGZrQqrx4lKYpnch0E1nDPEJk603SmOSzgID1hylcFISYAsabkKLUJkMHiMdC_1auS7QSgtbfZv2e60TW8kemZALkNU39zTjmW8vkJSGbafkHvHS785ntLKWY3uLNVijARSU-lAopjfPEH4lW04xDzBcndH4qtdbtqTaJF_7r2rno-uXsEWm9puugmtjmF5bYbNcCe4Y1V5f_dKYz1y-DfIzXsk-1sNEVv3sxraBpYlXErfYlong.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/KDrk0FMt48blxeaYlEhzOmulNwF9s-Semck68eQqS4bAsHwG8wvScAfoCFFOGxY4gZVyzTk4nxImNyMtHcqxz_Jl7u3KYx_l3egPHCHn8W7_sZ-3s1ZNj-Y2pw9pxUU7PtDxrP6J8K1lZnc3-BEZVXbfQiloRZ_TmBOEVtgWRSHF8q0CzDGg1WLjEI3CBhD4-oQWq5pfUT5sHWY5Te3xZDjQE_zv6x4K5UoQnwehVtSTcQlm7QauWMQzF6EIdT0IKtF6imJVtBTAQZC4Fiu7v4RV7-bmquVtX-gzFJAe9-5RheCQaqdo4J-bXeTOxTxfHT563y1hKxrWwgrcnNk2DQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/XBsgrvJJs02wRbKSKU4N4drEJeujExwqO5reC21wIinAkfpgIkoZlPag-1uIWy47bCqczKHH4l4REyM2I7waER2Sxucs5WtUPiGKyAi50feoAKsR_O7hqagPXdfPkYDrn_iUDq_3rxgTdu_3AMUm8ovPpEXWGbqbcri_xpe2KOKLQEUKzxtQDozYrx7W2KjH6MFLm0FpfWDf_zk1Awk5BkBksPw2c5DmfaAE73_KVSC2XOFF1k-bFGN_6TodIreFhQUWDnJaZV94yBheU7KXhOIY3mll2igLZLzw4pmT9J1FtYh-aiWwg8brQr-eketw3O3otTjrHSCbyxiNn6D8gw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/V0ymVpaFygjvY18nvRCMtRzOWyjuglqxiAhjmZvgEcL65x_Q5oTFNrHAGV0P1oCo5HMHXbJ0Rduaa4WdgTjN5Wn-N-RLUVo6sbBuI3trXzl_Tunmi5LChALp_DXDZCLbsgBoSnrRf0jLKEW6ZDgr1yURDcfybS6PxDFm1dgXd5Sx8MwW-EuJ6GVgcZOrMl371O4wtO84EqrrgLWlVBjNKfJ2QqCHjvtg1q-rVF230q7Cd7ieoLaF468LP8TKNh24Jek5U8cXdRZdhBAnnxux0KnQ4z9MZIEiDEOonn52kR-cS1Xc5jhW7Vp5jdJrv0eRQu9qDMRSqWEgEEWOm1yR5w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/vVDizCCxz7H0UDRZ28M6dwYDidcgoSaHa5j5euhUdxlW8YSNVmVaL7cw4lfPnT0hp1KThN87kOWYLNFlQycyUXD4x0UNUMNYunkH1tD-qCp1xxfscuhKAcs8TRt8wIiRf621qPBFLvTkp9NTylpJ5N3tTqhXsIZmFjky2D6V3dQYnq_Fy0m9Dc70tNDTww9-Uf2sYgBeQYL2Qg0o3uXbbD2bFB99bMlKryYS9UltR2Evo7sW5P_RzKaROIGy6FK-2l8BOLwxJ23cCVrkuTVydmfduGtOkKkF1pRYWGmBR8RYzLWJSE9NnjNsYbNP8_8VA237JrPttDvLFUACza0TGQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/pO3a-0Vk9mvzNFS9MTG8osEjgN1eB_6Om6tV9HgR9M_jsUV0glYD2uyKcEk_d3BbWHttzxCJa4JZZLTFIlM8P-lLCRK15m9dHIbvvxhk3rFp7QY_PJEaPbMVj8lJFEdPkWSc7wEXue02hq5P5D4iNhiG1xme6x-vZeuCTYLCKa-P2tBdxG4DHgmHJ3wWTmwW0UR7RcgIFZboocZqpby7x3q8DQh8aDq7Fk3XZAVl758RJVyZfo_-YSzq779d5kV4XyimTSmXeffhe5LqVDguTsvS6qdZnE6q8PkTy_Q_GS4IWCSFE0Ury-DukF6xhlSVeQ-36Pns-FELthRS2o2DCg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/YoBrjS5U4IbLZenolXqYrmUfN_5Y2k-YCxEgNFlslQy4CDH452iCp5eGZHeoC2uSlDH5qRMYMiW__6-gsY5WDlEPaMeVu3TvBYU_c7Riifd4LoV9ynqBTdKlwfjzpWHH-sxKP8zOGHMRBAnD5HOmYZwtKliVConvAGHTmxUVDnQhouuDhx1w8gEL6WU7FKEahCLk7QXfuz0z7ZUmVOxYOM178kzcZfrb7rXDb0wDAaUfNJfJbAJ6pvBsgoWDuPnY6mHlADpiTloyw62hossXagGpXiawM_15gTdJ2X3D-5BHG25g3OoDkPO9XE2sdZF-I3-JqQrUx0ibO1Xbgn1pnQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/jFlw08HTzA7s40sJn1PDAcnVTcg68MP-ZdoZWj4brmpjtM9h4SOPzzRhUuv6VQXMt78B6GgNzSXjNacjuo22LbicIMgWLTzxgZae6C-knSbw0Pd62UeS8Aht3U7DN4bmbOaM8q69IqwPZ7VvrVfGhNxbX_uLvEZXPjBYcsLrAMm1XVMFAfC73FRYXP5vmJ2qxQfjtFBIiRPUqkv2Kz9pqp-eU0pT-VBKYWLwEox1lA1S8vk8HdqwUT7x4-gdHcLVfYLb_tMYFsgfV-nK46Fr7zQU7VqHJGahWxOi1Ik9dxnCOsBmJmh8tq0otY_GjRk0SShUYzwNMGx4pfUoX0qdsA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/VDPIMyGZu1V-0K17A4idx_2Jt34eRuyT07rje0RXX6CEvs36p7DLQ-P0khT70RBRwpvJZ7MMyBLR6RRTdIbK59XMxqEJmlHmwTsGw3y2CSwNgxFWBFPhfBPdzrwT--JZZVzldgZQT1rVP4Lyoec2pldKjLWuEJPqL9azm7vE1RqJswAEnS6SRpoKgqKyQJb3cy7r0eHykj32rNMPw8qhU7zWqP7-vgRk3zL_uHyDd8WqSu0rOU7gJyCAU2z6256B4ZarhWwTjNGL4PDcLit3vjXZGaMoQIt0op_DJeAhe-G0MTZ3VVOViT3EoOs88ipwIXuKQqd_JPaC45pl6Cz_iw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">اعلام کردند که کلیات این طرح تصویب شده و جزئیات منتشرشده [
 به نقل از "پایگاه اطلاع‌رسانی وزارت کشور"
