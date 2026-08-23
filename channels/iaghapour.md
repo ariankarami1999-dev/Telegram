@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 14:17:16</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 14:42:52</div>
 <hr>
 
 <div class="tg-post" id="msg-2913">
@@ -320,7 +320,7 @@
 |
 💬
 ارتباط با پشتیبانی</div>
-<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2912">
@@ -368,7 +368,7 @@ aleskxyz
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.97K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 6K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2911">
@@ -508,7 +508,7 @@ Port:
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.74K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.76K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2910">
@@ -539,7 +539,7 @@ cpuid.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.05K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.07K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2909">
@@ -624,7 +624,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 🤩
 🤩
 🤩</div>
-<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.96K · <a href="https://t.me/iaghapour/2909" target="_blank">📅 21:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
@@ -681,7 +681,7 @@ https://t.me/avazhnet_bot?start=ref_531615606
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.17K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/iaghapour/2907" target="_blank">📅 19:03 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2906">
@@ -2020,7 +2020,7 @@ Xray-core
 
 <div class="tg-post" id="msg-2834">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B0_C3NfWDPs22upV4MhoC0rjhb8CWwDNyLVPMrdglacHwVaMr0upLQ0zB3gMRRZAqkelInGbYCd6bKz6LAgnXz8yLUgdcFXGCGtzhmHXXlLV35gm9vElbdfV_R4LGxS0LFk9Xxa9fAZZ9_XLe5scpKmk7rvAHUa5HdFVgoHjV35xt3jt7F1-n1kWzdOfjsGnkOn3Po5HGlwRxv5zZBI8bHDlIAy_kzm9MUvwie1PJX21hsF7MLLIrvCDqhFbahGJ4iNujioeMUEfBfpWMyExcSuprQ29wrMxDnfjR4x5xQbwXu5dXamcKoXyJ2_Wk0_Txpvzf5F8ieciA_P2iE57hg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/btnGZJ8xEAJ8Yb-manC3AzUcgdsN2jjF7JHcrWokG214BHeVOIPcpA0ULRyuJPRbVRPLXENTKGyOrYcocWADaJUHprK7Hi5CQ6AHrZpLCrhXJePHhwo0av0EgMOMK6PJCrdE4xs8nx9zi4NWSdvvgRduuE96fStcE_H9LjnhzoFWC0naAsv1L5PY6Oi6WH3WV51ttYLjfHfo-U7wbwBjYQlR4KiUEgdjxOPcgmg1ZPfygaVWjeSF-81iDElJ2X-rcuMqdb4IvHk1TQuai2BHaU5hPGoVK9QaKW5g7pvDP00DC8JdaHMIqK4F8O9EbhVwTwhegnXCj0K9zxsXVFJuQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 گوگل محدودیت جدید نصب فایل‌های APK را برای کاربران ایرانی اعمال نمی‌کند
 🔹
@@ -2060,7 +2060,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 💚
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/iaghapour/2832" target="_blank">📅 18:33 · 09 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/iaghapour/2832" target="_blank">📅 18:33 · 09 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2831">
@@ -2589,7 +2589,7 @@ nipovpn://
 
 <div class="tg-post" id="msg-2796">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rY0fLKFb3xgwdxrcZ-0fFMkpM6OSnoXPZeCKWrOZh5qtAQ-rOA8bMM3rdr6QiwRpXdMijk1p6uezG_wGxdOKbZA6gq1sbtyynbo3-84E6BgQCjWfGvAvk9zeqR24F43uOokZW-ELI4U6LlDQfjjFnMAyJGXeT0UI8SZIZVicv8rTHa0XXIDCj9wuHPlGk33egDaYeNIOXX7mKp8pG8_B30FbpfDM0OwmTvv_tPi-PTThyp0zqtxxw92hOEu0nfk7A0vsC-aCEmWHn6wUFYI1tGVByKGanARm5eBEtMqzCmA0hJTAlCMjcCY5JQjQ3qp1DkYWGVgJk8B_XXMLAhQ9VA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bFZ6G8fwhi5oqHA5qpwuD1FSiZ0P5YNuLoghIEQHXUl2n8pUk9bZ-URs577ZIk85WC4ZsRvvM-F8M9hMSITLfz2NKjvnduvBadgcTCv-75Uz9WBF0CQz8GEYgHF7LIt6UxxsLlKoN8HbEd9uW2FJRNyfVn6BbGCXtN5MZlSDzLcE7sNIy-YYorPDf9i5vI0hdby6MEPnoxKhJ_8pge6u5y4pswxVhzefllu-OOQXH3Kp4szJEyArJe1zO-Y-rZJOYkG2dDDgeLk6xiNIflYpqn2VzhwaOmXNgITAnejUBOSOa5UNkKNv3gGOJEHi7y6nu_f0S42-ZeRaB6W00C9bcA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 رخداد امنیتی در Hugging Face: سرقت دیتابیس و کلیدهای دسترسی
 پلتفرم
@@ -2646,7 +2646,7 @@ Flutter
 
 <div class="tg-post" id="msg-2793">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/miIstyyAmCyzfgOgIq4Q_6qfx6AgS9rlH9fRWzCfW7lUXE8NQIDL5ZEP-So0H1wXQTL_kvklf6ezfy9JihSR5LCp00CllFyjNVJshuKqGRHXBo8znsbnRinLYUk7nigLGCbEw_3Cm40KCWE-MFvKvAlrRzk2_9sSxYojKmB0z25hwgr5WbdoQq0pYLp2Xwoggg6_7cJvFNiBUv1Hi0vJfmejpxUUnnLdOqueaoD1o70wXqL78UszMUpDlVP0md69RwbN-7GGZkN1Oj4s8hlwq_TMpi42rM9tbqooXuR8PWVRFD1a0f5iXmU-du19cMgDGCeufJRF4V5IJhPdEP9iaw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ddfdPMVQR5BWF-7EqSc9yj4yi206sTIW3jAzqQCQcsuccpHSv63x-15LTUMmlXrN_DrzvOJzfXuV0o7KXQYZcmeBE_49Gnv6_-RAvBFt0WCY8H1NR7SssaTiPUCs-9-TH0G90yU1fRzlksvLgb6ygI-sMRa95-F8oj4LqHbE0hcSnGhuTWmQtqG5U27udGfqWcxZ5TICgztYyQ-l74npdstdPScv-aMb5YCEeojOKoqP_DqxyI4uyOTQE75x_dLrlbs3Unax48CygRGtxAbqIP6i3CKen88e0xI3wvcX0ddnzA94cfGMb4ptvg6qTyWvSYRrsgdoJFHQ-gSNDhff_w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش استفاده از TOR در سرور ایران یا خارج (دسترسی به لوکیشن های مختلف در X-UI)
 ما حدودا 2 سال پیش همچین ویدیویی رو ساختیم و پروژه ای که توش آموزش دادیم حذف شده به اسم torsina و البته پروژه های مختلفی بعدش ساخته شدن مشابه این پروژه که یکی از اونها رو زیر معرفی کردم.
