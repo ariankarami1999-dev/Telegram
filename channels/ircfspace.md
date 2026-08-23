@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 03:11:58</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 04:17:01</div>
 <hr>
 
 <div class="tg-post" id="msg-2561">
@@ -321,7 +321,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -1261,7 +1261,7 @@ slcyber
 
 <div class="tg-post" id="msg-2500">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/s7BG4cjSivRRVZauHsOb5GpnWC-acP0Sns4cMygYiv-UdJC4-9x3janK7bYu_-IWBFiKZsygbCJgoSnaYWzJjEJGwti23enE-sqpp5zDjZI89r6eHtp2wdnYYXilIgvZtjzmW_d39Yb13kQ2KX8iI7TmM_XNUKLgJfc8QUkEBnJ9oQIPe-KhdaAfv3zm-zNKFqkuUYUAYv9sEjiUeKmndDtw6C4ftRizLr_7rcvq-471DBcB4NC2zqicvfvjeAAA6uzaOTwz74Mvy2GEbbRdO17gRa0_ldefEuRHpUEBpFXGJE4IButS3ENXb7SUC3iBQFSSxqZjOO4ci4V9G9yrrg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HWMhrg85jCxo6Epzc6_5hjM4iGBtUbJYQAEyHDnw1zLXfs5Q17DE7bfMGKZRqUivKHT-WAQ62b5ly-yl8zRNEXYSJYngvvjkE19NX48mCag4k7qN3Wy3CDkbgaje9trLCUFVxvub9rWTIhV87wz8aX-2gBOJdmxQh-Dj72dvVtevQuDuTyWeJFDAEUnP7NxNA6C-9pKXWJnuovsKEePhzBuuRGptNbZVSvozHsH_1Kc2pZvD35Bnw9BuSwL1nI4X9h9kU0FBQdPphhnULMuWnq42JqLPpb2VVCakhmFkUGBprH66jbF99j9dgYFDVRRXsURZ_-dkZ2bySIvTjb4KlQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگرچه قضیه ترند شدن "لغو عضویت جانفدا" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه "وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها".
 🔗
 ᴡᴇʙꜱɪᴛᴇ

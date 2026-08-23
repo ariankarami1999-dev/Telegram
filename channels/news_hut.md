@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 03:11:58</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 04:17:01</div>
 <hr>
 
 <div class="tg-post" id="msg-70441">
@@ -305,7 +305,7 @@
 🎁
 برای مبالغ بالاتر از ده هزار دلار بیمه شرطبندی ۳۵٪ داره‌
 و مبالغ بالاتر از هزار دلار بیمه ۱۵٪ داره یعنی در صورت باخت مبالغ به حسابتون‌ دوباره واریز میشه.</div>
-<div class="tg-footer">👁️ 2.56K · <a href="https://t.me/news_hut/70441" target="_blank">📅 01:59 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.14K · <a href="https://t.me/news_hut/70441" target="_blank">📅 01:59 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70440">
@@ -358,7 +358,7 @@ Gift
 a31
 ✔
 @DerbyBetOfficial</div>
-<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/news_hut/70440" target="_blank">📅 01:59 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.18K · <a href="https://t.me/news_hut/70440" target="_blank">📅 01:59 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70439">
@@ -368,7 +368,7 @@ a31
 🇺🇸
 ترامپ با انتشار این پست ادعای مارک تیسن مبنی بر اینکه بیش از ۱۰۰۰ کشتی با اسکورت از تنگه هرمز عبور داده شدند را تقویت می‌کند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 3.62K · <a href="https://t.me/news_hut/70439" target="_blank">📅 01:48 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/news_hut/70439" target="_blank">📅 01:48 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70438">
@@ -377,7 +377,7 @@ a31
 <div class="tg-text">🇺🇸
 املاکی مجدد این تصویرو با عنوان تنگه هرمز قلمرو جدید ایالات متحده منتشر کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/news_hut/70438" target="_blank">📅 00:53 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.33K · <a href="https://t.me/news_hut/70438" target="_blank">📅 00:53 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70437">
@@ -394,7 +394,7 @@ a31
 توصیه‌ام به مردم اینه که کم کم از تو همون خونه و محلات، شروع به تولید چیزهایی کنن که نیاز دارن
 😐
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/news_hut/70437" target="_blank">📅 00:13 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/news_hut/70437" target="_blank">📅 00:13 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70436">
@@ -418,7 +418,7 @@ a31
 محاصره و تحریم‌ اقتصادی آمریکا ادامه پیدا کنه، شرکت‌های آمریکایی منطقه رو می‌زنیم!
 تا الان هیچ کاری با شرکت‌های آمریکایی نداشتیم و فقط پایگاه زدیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/news_hut/70436" target="_blank">📅 23:51 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/news_hut/70436" target="_blank">📅 23:51 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70435">
@@ -444,7 +444,7 @@ a31
 ترامپ خالی بند است چندماهی هست اصلا حرفاشو گوش نمیدیم
 وحدت بدون اطاعت از رهبر انقلاب ممکن نیست
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/news_hut/70435" target="_blank">📅 23:46 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/news_hut/70435" target="_blank">📅 23:46 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70432">
@@ -461,7 +461,7 @@ a31
 من پنج بار تریسام زدم اما تو وظیفته منو دوست داشته باشی!
 فرداش رفیق دختره پیام داده که نگین مسته و با یه پسر به اسم امیر سکس کرده، اما خدا شاهده قلبش پیش توعه!
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/news_hut/70432" target="_blank">📅 23:15 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/news_hut/70432" target="_blank">📅 23:15 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70431">
@@ -470,7 +470,7 @@ a31
 گروهی موسیقی در جنوب ایران همراه با جمعیت، آهنگی سنتی به سبک بندری می‌خوانند و با افتخار نام رضا شاه را فریاد می‌زنند
 🙂
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/news_hut/70431" target="_blank">📅 22:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/news_hut/70431" target="_blank">📅 22:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70430">
@@ -479,7 +479,7 @@ a31
 <div class="tg-text">عربستان اینترنت یکی از استان‌های یمن رو قطع کرده
 حالا خبرگزاری تسنیم اومده نوشته اقدام ضد انسانی :))))
 @News_Hut</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/70430" target="_blank">📅 22:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/news_hut/70430" target="_blank">📅 22:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70429">
@@ -495,7 +495,7 @@ a31
 یه عده از مخالفای بی‌حجابی تو محمودآبادِ مازندران رفتن فرمانداری و علیه آدمای بی‌حجاب شکایت کردن؛
 حالا فرمانده نیروی انتظامی محمودآباد هم با این سیس و خنده‌های ریز اومده بهشون قول داده که با بی‌حجابی تو محمودآباد برخورد می‌کنن تا یکم آرومشون کنه:
 @News_Hut</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/70429" target="_blank">📅 21:15 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70429" target="_blank">📅 21:15 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70428">
@@ -514,7 +514,7 @@ a31
 میگه هفته‌ای ۵ نفرو ماساژ میدم و از هر نفر ۵ میلیون میگیرم!
 یعنی با روزی ۱ ساعت کار در هفته به غیر از پنجشنبه و جمعه، ایشون ماهی ۱۰۰ میلیون درآمد داره!
 @News_Hut</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/70428" target="_blank">📅 20:32 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/70428" target="_blank">📅 20:32 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70427">
@@ -523,7 +523,7 @@ a31
 اخوندی که بی دلیل و بی اجازه از یک زن ایرانی عکس گرفت!
 زن ایرانی شجاع بهش حمله کرد و چند تا مرد دیگه هم رفتن بزننش.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/news_hut/70427" target="_blank">📅 20:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/70427" target="_blank">📅 20:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70426">
@@ -539,7 +539,7 @@ a31
 ⚽
 @Tipster_Mafiaa
 @Tipster_Mafiaa</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/news_hut/70426" target="_blank">📅 20:29 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/news_hut/70426" target="_blank">📅 20:29 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70425">
@@ -550,7 +550,7 @@ a31
 ☑️
 ✔️
 @Tipster_Mafiaa</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/news_hut/70425" target="_blank">📅 20:29 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/news_hut/70425" target="_blank">📅 20:29 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70424">
@@ -575,7 +575,7 @@ a31
 محمدرضاشاه:
 ۲ ماه پیش رسید به ۲۲۰۰ دلار
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/70424" target="_blank">📅 19:51 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/70424" target="_blank">📅 19:51 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70423">
@@ -587,7 +587,7 @@ a31
 شامگاه جمعه حدود ۴۰ نفتکش در هر دو جهت از طریق کانال آب‌عمیق جنوبی از تنگه هرمز عبور کردند.
 در طول شب، حدود ۱۶ میلیون بشکه نفت از طریق این مسیر جنوبی از تنگه خارج شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/news_hut/70423" target="_blank">📅 19:15 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70423" target="_blank">📅 19:15 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70422">
@@ -602,7 +602,7 @@ a31
 <div class="tg-text">🇮🇷
 علی عبداللهی، از یک کارخانه تولید موشک‌های بالستیک زیرزمینی بازدید کرد تا از آخرین پیشرفت‌های مربوط به تسلیحات بومی مطلع شود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/news_hut/70422" target="_blank">📅 18:32 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/news_hut/70422" target="_blank">📅 18:32 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70421">
@@ -622,7 +622,7 @@ a31
 این اظهارات در حالی بیان می‌شود که ایران سیگنال‌های متناقضی ارسال می‌کند: رئیس‌جمهور مسعود پزشکیان می‌گوید شاید زمان آن رسیده باشد که «همین امروز به جنگ پایان دهیم»، در حالی که رئیس مجلس ایران لحنی بسیار سرسختانه‌تر و تقابلی در قبال ایالات متحده در پیش گرفته است.
 اکنون فشارها شدت می‌گیرد: انتظار می‌رود اسکات بسنت، وزیر خزانه‌داری، روز دوشنبه تحریم‌های جدیدی را با هدف انزوای بیشتر ایران اعلام کند؛ تحریم‌هایی که روابط ایران با روسیه و چین، چالش عمده‌ای در مسیر آن‌ها محسوب می‌شود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/70421" target="_blank">📅 17:56 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/70421" target="_blank">📅 17:56 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70420">
@@ -642,7 +642,7 @@ a31
 درضمن یکی از اون بچه ها هم حامله بوده
 در نهایت این شخص به دلیل سواستفاده جنسی از کودکان ۳۶ سال حبس میگیره.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/70420" target="_blank">📅 17:34 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/70420" target="_blank">📅 17:34 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70419">
@@ -659,7 +659,7 @@ a31
 پسرا به روایت تصویر :
 خیلی استرس داشتم که چجوری کیکم رو بخورم که تا آخر امتحان کیکه تموم نشه ، که نفر جلوییم بهم کیکشو داد و کل استرسم رفع شد ، دمش گرم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/70419" target="_blank">📅 17:03 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/70419" target="_blank">📅 17:03 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70418">
@@ -677,7 +677,7 @@ a31
 حضورت اینجا خلاف پروتکل هاست
 ولی بخاطر عمامه ات ایرادی نداره.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/70418" target="_blank">📅 16:32 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/70418" target="_blank">📅 16:32 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70417">
@@ -695,7 +695,7 @@ a31
 کراسوس که برای کسب ثروت و شهرت به ایران حمله کرده بود، با ۴۰ هزار سرباز رومی در برابر ۸ هزار سوارکار و ۱۰۰۰ سواره‌نظام ایرانی قرار گرفت.
 ایرانیان با استفاده از تاکتیک تیراندازی از روی اسب به سمت عقب، پشتیبانی بی‌نظیر ۱۰۰۰ شتر حامل تیر برای تامین مهمات و ورود سواره‌نظام که ۱۴۰۰ سال از تکنولوژی نظامی اروپا جلوتر بودند، توانستند ارتش روم را به‌طور کامل در هم بکوبند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/70417" target="_blank">📅 16:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/70417" target="_blank">📅 16:00 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70416">
@@ -704,7 +704,7 @@ a31
 <div class="tg-text">❌
 یه خانم رفته لیزر و خجالت می‌کشیده که اپراتور زن باشه، گفته یه اپراتور مرد بیارید صیغه بخونیم‌بعدش منو لیزر کنه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/70416" target="_blank">📅 15:35 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/70416" target="_blank">📅 15:35 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70415">
@@ -718,7 +718,7 @@ a31
 یک نظم بومی و مستقل که واقعاً صلح و امنیت را در منطقه به ارمغان خواهد آورد.
 ﻿
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/70415" target="_blank">📅 14:59 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/70415" target="_blank">📅 14:59 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70414">
@@ -727,7 +727,7 @@ a31
 <div class="tg-text">🇮🇷
 تصویری وایرال شده از پزشکیان:
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/70414" target="_blank">📅 14:33 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/70414" target="_blank">📅 14:33 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70413">
@@ -767,7 +767,7 @@ a31
 🇦🇪
 یک تانکر نفتی متعلق به شرکت "ادنوک" امارات، با موفقیت از تنگه هرمز عبور کرد. این تانکر، شب گذشته، از مسیر تعیین‌شده توسط آمریکا عبور کرد و توسط جنگنده‌های آمریکایی اسکورت می‌شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/70411" target="_blank">📅 12:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/70411" target="_blank">📅 12:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70402">
@@ -788,7 +788,7 @@ a31
 🇷🇺
 حملات سنگین اوکراین به پالایشگاه‌های نفت چاپایفسک و نووکویبیشفسک روسیه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/70402" target="_blank">📅 12:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/70402" target="_blank">📅 12:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70401">
@@ -900,7 +900,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 یه بار با یه بازیگره بوده که دوست‌دخترِ ده ساله طرف فهمیده.
 یه بار با یه بازیگر که دوتا بچه هم داشت بود که همین باعث شد هم اون بازیگره طلاق بگیره، هم شوهرِ ترانه طلاقش رو بده.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/70397" target="_blank">📅 11:33 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/70397" target="_blank">📅 11:33 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70396">
@@ -918,7 +918,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 پاینده ایران،
 رضا پهلوی
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/70396" target="_blank">📅 11:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/70396" target="_blank">📅 11:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70395">
@@ -986,7 +986,7 @@ IR
 شما برو چندتا مین پیشرفته کار بزار اونجا تا یکی دوماه مصیبت بکشن.
 بحث من الان تنگه هرمز نیستا من کاملا جدیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/70392" target="_blank">📅 09:03 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/70392" target="_blank">📅 09:03 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70391">
@@ -1068,7 +1068,7 @@ https://t.me/+UfR2NG4GjAMwNTQ0</div>
 دقایقی پیش حوالی یوسف‌آباد و امیرآباد و فاطمی و... در تهران صدای فعالیت پدافند شنیده شده.
 عده هم میگن صدای تیراندازی بوده و همه چی آرومه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/news_hut/70386" target="_blank">📅 23:56 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/news_hut/70386" target="_blank">📅 23:56 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70385">
@@ -1114,7 +1114,7 @@ https://t.me/+UfR2NG4GjAMwNTQ0</div>
 ترامپ بازنشر کرد:
 رئیس‌جمهور ما به ایران هر فرصت ممکنی را داد تا سرانجام رفتار خود را اصلاح کند، از نقش خود به‌عنوان بزرگ‌ترین حامی تروریسم در جهان دست بکشد و به کشورهای تولیدکننده بپیوندد. او درباره پیامدهای ادامه مسیر غیرقانونی و وحشیانه‌شان به آنها هشدار داد. اما «رهبران» آنها چیزی جز رفتار تروریستی و قانون‌شکنانه نمی‌دانند و اکنون رئیس‌جمهور ما به وعده‌های هشدارآمیز خود عمل می‌کند. این‌گونه است که رهبری واقعی عمل می‌کند!!!
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/news_hut/70383" target="_blank">📅 21:50 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/news_hut/70383" target="_blank">📅 21:50 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70382">
@@ -1311,7 +1311,7 @@ https://t.me/WePariFarsi</div>
 <div class="tg-text">❌
 یه سری دخترا بخاطر اینکه امروز کنکور دادن، این شکلی از پدر، پارتنر و... کادو گرفتن:
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/70371" target="_blank">📅 18:01 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/70371" target="_blank">📅 18:01 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70370">
@@ -1601,7 +1601,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 خدا خیلی حواسش به ما هستش اگه ما بهش حواسمون باشه
 موقع جنگ رفتیم نماز با حضرت آقا یه آرامشی داشت یه جلالی داشت یه شکوهی داشت بی نظیر
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/70349" target="_blank">📅 10:15 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/news_hut/70349" target="_blank">📅 10:15 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70348">
@@ -1728,7 +1728,7 @@ https://t.me/+nbm7Tb2pz8VjMDlk</div>
 همتی، رئیس کل بانک مرکزی، دیشب:
 هیچ‌کدوم از پول‌های بلوکه شده‌ی ایران هنوز آزاد نشده و همش شایعه‌ست.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/news_hut/70341" target="_blank">📅 21:35 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/news_hut/70341" target="_blank">📅 21:35 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70340">
@@ -2023,7 +2023,7 @@ https://t.me/WePariFarsi</div>
 🇺🇦
 حمله موشکی شب گذشته روسیه به کی‌یف منجر به کشته شدن شش نفر و زخمی شدن ۳۳ نفر دیگر شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/70322" target="_blank">📅 13:48 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/70322" target="_blank">📅 13:48 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70321">
