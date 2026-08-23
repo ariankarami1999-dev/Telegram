@@ -292,7 +292,7 @@
 <a href="https://t.me/funhiphop" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 «قدیمی ترین اجتماع فانِ هیپ هاپی»🟡صاحب سبک🟡Tb :@FunHipHopAdsContact :@Chaman_Dar_KhakFollowing Copyright Laws©</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 02:14:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 02:42:00</div>
 <hr>
 
 <div class="tg-post" id="msg-82506">
@@ -301,7 +301,7 @@
 <div class="tg-text">استوری هیچکس
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/funhiphop/82506" target="_blank">📅 01:07 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.48K · <a href="https://t.me/funhiphop/82506" target="_blank">📅 01:07 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82505">
@@ -310,7 +310,7 @@
 <div class="tg-text">بریم واس سی ال
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 5.83K · <a href="https://t.me/funhiphop/82505" target="_blank">📅 00:38 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.17K · <a href="https://t.me/funhiphop/82505" target="_blank">📅 00:38 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82504">
@@ -319,7 +319,7 @@
 <div class="tg-text">مدیر حوزه علمیه شیراز گفته زنان شوهر دار هم میتونن عقد موقت کنن و نیازی به اجازه شوهرشون ندارن.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 9.89K · <a href="https://t.me/funhiphop/82504" target="_blank">📅 22:41 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/funhiphop/82504" target="_blank">📅 22:41 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82503">
@@ -335,7 +335,7 @@
 @LomesNetBot
 ✅
 بازگشت وجه تضمین میشود.</div>
-<div class="tg-footer">👁️ 9.36K · <a href="https://t.me/funhiphop/82503" target="_blank">📅 22:36 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.58K · <a href="https://t.me/funhiphop/82503" target="_blank">📅 22:36 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82501">
@@ -353,7 +353,7 @@
 @LomesNetBot
 ✅
 بازگشت وجه تضمین میشود.</div>
-<div class="tg-footer">👁️ 9.47K · <a href="https://t.me/funhiphop/82501" target="_blank">📅 22:31 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/funhiphop/82501" target="_blank">📅 22:31 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82500">
@@ -362,14 +362,14 @@
 <div class="tg-text">الوارز بخاطر خستگی بازی واس اتلتیکو رو نیمکته امشب
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 9.79K · <a href="https://t.me/funhiphop/82500" target="_blank">📅 22:14 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.97K · <a href="https://t.me/funhiphop/82500" target="_blank">📅 22:14 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82499">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">زن ستیزی تا کی چرا مجوز ندادید دختر بیرانوند کنسرت بزاره؟
 شیما کاتوزیان لطفا ۱۰۰ تا استوری بزار رسیدگی بشه</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/funhiphop/82499" target="_blank">📅 22:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/funhiphop/82499" target="_blank">📅 22:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82498">
@@ -378,7 +378,7 @@
 <div class="tg-text">مجوز یعنی مخدر
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/funhiphop/82498" target="_blank">📅 21:58 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/funhiphop/82498" target="_blank">📅 21:58 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82497">
@@ -387,7 +387,7 @@
 <div class="tg-text">شیر پسر یه چندتا گل به خودی بزن تا بزارن بری
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/82497" target="_blank">📅 20:08 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/funhiphop/82497" target="_blank">📅 20:08 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82496">
@@ -395,7 +395,7 @@
 <div class="tg-text">عجب تجاوزی داره میکنه استقلال کبیر به سپاهان
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/funhiphop/82496" target="_blank">📅 19:40 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/82496" target="_blank">📅 19:40 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82495">
@@ -404,7 +404,7 @@
 <div class="tg-text">هیپ‌هاپولوژیست چی می‌کشید بنده خدا.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/82495" target="_blank">📅 19:28 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/82495" target="_blank">📅 19:28 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82494">
@@ -419,7 +419,7 @@
 <div class="tg-text">آفرین ایرانی باز افتخار آفریدی.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/funhiphop/82494" target="_blank">📅 19:01 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/82494" target="_blank">📅 19:01 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82493">
@@ -470,7 +470,7 @@ BetForward.com
 g1
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/82493" target="_blank">📅 19:01 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/funhiphop/82493" target="_blank">📅 19:01 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82492">
@@ -484,7 +484,7 @@ g1
 </div>
 <div class="tg-text">@FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/82492" target="_blank">📅 18:09 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/82492" target="_blank">📅 18:09 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82491">
@@ -498,7 +498,7 @@ g1
 <div class="tg-text">دوستان به نظرتون اسکرین شات دلار ۲۰۰ هزار تومنی و ایموجی قلب سیاه شکسته رو با آهنگای محسن چاووشی ادیت بزنم استوری کنم بهتره یا آهنگای استاد محسن نامجو بهتر می‌تونه ناراحت و نگران بودنمو نشون بده؟
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/82490" target="_blank">📅 14:55 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/82490" target="_blank">📅 14:55 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82489">
@@ -506,7 +506,7 @@ g1
 <div class="tg-text">خب بگم دلتون برا همین 200 تومن هم تنگ میشه یا زوده؟
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/funhiphop/82489" target="_blank">📅 14:33 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/82489" target="_blank">📅 14:33 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82488">
@@ -527,7 +527,7 @@ g1
 <div class="tg-text">دلار 200k شد.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/82486" target="_blank">📅 14:01 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/82486" target="_blank">📅 14:01 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82484">
@@ -630,7 +630,7 @@ BetForward.com
 r1
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/funhiphop/82480" target="_blank">📅 10:29 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/funhiphop/82480" target="_blank">📅 10:29 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82479">
@@ -639,7 +639,7 @@ r1
 ترامپ: تنگه هرمز دیگه جزعی از کشور امریکاست
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/funhiphop/82479" target="_blank">📅 09:58 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/82479" target="_blank">📅 09:58 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82478">
@@ -675,14 +675,14 @@ r1
 گیگی 2200 تومان که با کد تخفیف ( bakei ) میتونید تا 20 درصد تخفیف بگیرید
 🔖
 جهت خرید و مشاهده محصولات: @HyperPing_VPNBOT</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/funhiphop/82475" target="_blank">📅 00:32 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/funhiphop/82475" target="_blank">📅 00:32 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82474">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from𝓔𝓻𝓯𝓪𝓷.</strong></div>
 <div class="tg-text">میخواد یه ورژن ۲ بسازه باگای اولیو رفع کنه</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/funhiphop/82474" target="_blank">📅 00:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/funhiphop/82474" target="_blank">📅 00:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82473">
@@ -807,7 +807,7 @@ Youtube
 <div class="tg-text">وطندار عربستانی اولین موزیک رسمی خودشو منتشر کرد.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/funhiphop/82460" target="_blank">📅 16:45 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/funhiphop/82460" target="_blank">📅 16:45 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82459">
