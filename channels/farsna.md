@@ -292,7 +292,7 @@
 <a href="https://t.me/farsna" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 حقیقت روشن می‌شود‌‌تبلیغات@Farsnews_adsارتباط@FarsNewsفارس‌پلاس@Fars_Plus‌ورزش@SportFarsجهان@FarsNewsIntعکس@FarsImagesپیام‌رسان‌ها@Farsnaاینستاگرامinstagram.com/fars_newsتوییترtwitter.com/FarsNews_Agency</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 09:00:03</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 09:26:04</div>
 <hr>
 
 <div class="tg-post" id="msg-457681">
@@ -310,7 +310,7 @@
 با تمام وجود به‌دنبال این هستیم که تورم، مسائل و مشکلات معیشت، شغل و آینده مردم را به‌سوی عزت و سربلندی ببریم.
 🔹
 من می‌فهمم اکنون در جامعه مشکلات زیادی داریم. ما تلاش می‌کنیم تا جایی که می‌توانیم از وقوع…</div>
-<div class="tg-footer">👁️ 1.41K · <a href="https://t.me/farsna/457681" target="_blank">📅 08:51 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.86K · <a href="https://t.me/farsna/457681" target="_blank">📅 08:51 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457680">
@@ -326,7 +326,7 @@
 پزشکیان: آنچه در روند تفاهم‌نامه به آن رسیدیم، بدون استثنا اجماع کارشناسی همۀ کسانی بود که دستی بر آتش داشتند
 🔹
 تکذیب می‌کنند چون بیان قضیه را نمی‌دانند و یا دستی بر آتش ندارند.  @Farsna</div>
-<div class="tg-footer">👁️ 1.88K · <a href="https://t.me/farsna/457680" target="_blank">📅 08:47 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.29K · <a href="https://t.me/farsna/457680" target="_blank">📅 08:47 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457679">
@@ -344,7 +344,7 @@
 شرمنده‌ایم که مشکلاتی وجود دارد. ما در جنگ تمام‌عیار اقتصادی، نظامی و امنیتی قرار گرفتیم.
 🔹
 ترامپ خیلی راحت می‌گوید ما کوبنده‌ترین و یا وحشتناک‌ترین تحریم را بر ایران اعمال می‌کنیم.…</div>
-<div class="tg-footer">👁️ 2.1K · <a href="https://t.me/farsna/457679" target="_blank">📅 08:43 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.18K · <a href="https://t.me/farsna/457679" target="_blank">📅 08:43 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457678">
@@ -358,7 +358,7 @@
 </div>
 <div class="tg-text">🎥
 تجدید میثاق رئیس‌جمهور و اعضای دولت با آرمان‌های حضرت امام خمینی (ره)  @Farsna</div>
-<div class="tg-footer">👁️ 3.04K · <a href="https://t.me/farsna/457678" target="_blank">📅 08:31 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.05K · <a href="https://t.me/farsna/457678" target="_blank">📅 08:31 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457677">
@@ -372,7 +372,7 @@
 </div>
 <div class="tg-text">🎥
 تجدید میثاق رئیس‌جمهور و اعضای دولت با آرمان‌های حضرت امام خمینی (ره)  @Farsna</div>
-<div class="tg-footer">👁️ 3.81K · <a href="https://t.me/farsna/457677" target="_blank">📅 08:20 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.41K · <a href="https://t.me/farsna/457677" target="_blank">📅 08:20 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457676">
@@ -381,7 +381,7 @@
 <div class="tg-text">اعدام تروریستی که در کودتای دی با اره‌برقی آدم‌کشی می‌کرد
 🔹
 یکی از پرونده‌هایی که بلافاصله پس از کودتای آمریکایی صهیونیستی در دی سال گذشته در دادگستری استان البرز تشکیل شد، مربوط به شخصی به‌نام «مجید آدینه»، در محدودۀ محمدشهر کرج بود که نوزدهم دی با سلاح گرم…</div>
-<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/farsna/457676" target="_blank">📅 08:02 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.48K · <a href="https://t.me/farsna/457676" target="_blank">📅 08:02 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457675">
@@ -398,7 +398,7 @@
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 4.86K · <a href="https://t.me/farsna/457675" target="_blank">📅 08:01 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.39K · <a href="https://t.me/farsna/457675" target="_blank">📅 08:01 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457673">
@@ -413,7 +413,7 @@ Link</div>
 <div class="tg-text">🎥
 تجدید میثاق رئیس‌جمهور و اعضای دولت با آرمان‌های حضرت امام خمینی (ره)
 @Farsna</div>
-<div class="tg-footer">👁️ 4.57K · <a href="https://t.me/farsna/457673" target="_blank">📅 07:57 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/farsna/457673" target="_blank">📅 07:57 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457672">
@@ -421,7 +421,7 @@ Link</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/A7oJdGWgSlVDGTiEm8LT-BkZVdkVd5QWBOTd49l-c2FEHnUnOOL5YKFh7lTbcX8tQ8bC7YXM5cdzBeeeZdHk_L0s6kvPRobkgdF6tNXilDB2eYFuFxu5MzSrJTGn97nCUtee8JeOxFn3PADzjg1NRgw1iYrJREVGeBEqarfUQibWSQmv47MHlvWWv_TpDaV8Z0taGhKaiYZXz7eGaIAXGKokXkv6HOmY5EH1WaMEhbscIMdZI4NH6AgZCMJQ0MJvxID2V-PKuaxflqTkz0VfBJDlJqE46bD5GDathvmCmvShRJ3mr0GEX__iTMLaqvXyTJWx2qVXdxes_3IqsevUEg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✔️
 مهدی طارمی با عقد قراردادی به الوصل امارات پیوست.  @Sportfars</div>
-<div class="tg-footer">👁️ 5.49K · <a href="https://t.me/farsna/457672" target="_blank">📅 07:45 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.01K · <a href="https://t.me/farsna/457672" target="_blank">📅 07:45 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457671">
@@ -434,7 +434,7 @@ Link</div>
 اینجا
 بخوانید.
 @Farsna</div>
-<div class="tg-footer">👁️ 6.44K · <a href="https://t.me/farsna/457671" target="_blank">📅 07:22 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.96K · <a href="https://t.me/farsna/457671" target="_blank">📅 07:22 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457670">
@@ -443,7 +443,7 @@ Link</div>
 🔸
 شاخص امروز کیفیت هوای پایتخت روی عدد ۸۱، و در وضعیت قابل‌قبول قرار گرفت.
 @Farsna</div>
-<div class="tg-footer">👁️ 6.67K · <a href="https://t.me/farsna/457670" target="_blank">📅 07:05 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/farsna/457670" target="_blank">📅 07:05 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457669">
@@ -458,7 +458,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 7.99K · <a href="https://t.me/farsna/457669" target="_blank">📅 06:34 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.47K · <a href="https://t.me/farsna/457669" target="_blank">📅 06:34 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457668">
@@ -475,7 +475,7 @@ Link</div>
 @Sportfars
 -
 Link</div>
-<div class="tg-footer">👁️ 9.26K · <a href="https://t.me/farsna/457668" target="_blank">📅 05:38 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.39K · <a href="https://t.me/farsna/457668" target="_blank">📅 05:38 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457667">
@@ -500,7 +500,7 @@ Link</div>
 اینجا
 بخوانید.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.14K · <a href="https://t.me/farsna/457667" target="_blank">📅 04:50 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.27K · <a href="https://t.me/farsna/457667" target="_blank">📅 04:50 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457666">
@@ -519,7 +519,7 @@ Link</div>
 آیت‌الله بنابی
 @FarsMaaref
 💠</div>
-<div class="tg-footer">👁️ 8.6K · <a href="https://t.me/farsna/457666" target="_blank">📅 04:10 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.72K · <a href="https://t.me/farsna/457666" target="_blank">📅 04:10 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457665">
@@ -538,7 +538,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.32K · <a href="https://t.me/farsna/457665" target="_blank">📅 03:39 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.41K · <a href="https://t.me/farsna/457665" target="_blank">📅 03:39 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457664">
@@ -557,7 +557,7 @@ Link</div>
 @FarsNewsInt
 -
 Link</div>
-<div class="tg-footer">👁️ 7.89K · <a href="https://t.me/farsna/457664" target="_blank">📅 03:06 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.98K · <a href="https://t.me/farsna/457664" target="_blank">📅 03:06 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457656">
@@ -577,7 +577,7 @@ Link</div>
 عکس:
 زینب حمزه‌لویی
 @Farsna</div>
-<div class="tg-footer">👁️ 7.82K · <a href="https://t.me/farsna/457656" target="_blank">📅 02:36 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.9K · <a href="https://t.me/farsna/457656" target="_blank">📅 02:36 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457655">
@@ -592,7 +592,7 @@ Link</div>
 <div class="tg-text">🎥
 ۱۷۵ شب ایستادگی و مقاومت آملی‌ها در میدان خیابان
 @Farsna</div>
-<div class="tg-footer">👁️ 7.45K · <a href="https://t.me/farsna/457655" target="_blank">📅 02:08 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.54K · <a href="https://t.me/farsna/457655" target="_blank">📅 02:08 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457654">
@@ -601,7 +601,7 @@ Link</div>
 🔹
 منابع لبنانی از حملات رژیم اشغالگر صهیونیستی به ارتفاعات علی الطاهر، دوحه کفررمان و شهرک المنصوری خبر دادند.
 @Farsna</div>
-<div class="tg-footer">👁️ 7.95K · <a href="https://t.me/farsna/457654" target="_blank">📅 01:38 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.03K · <a href="https://t.me/farsna/457654" target="_blank">📅 01:38 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457653">
@@ -621,7 +621,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.28K · <a href="https://t.me/farsna/457653" target="_blank">📅 01:13 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.36K · <a href="https://t.me/farsna/457653" target="_blank">📅 01:13 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457652">
@@ -636,7 +636,7 @@ Link</div>
 <div class="tg-text">🎥
 حال‌وهوای امشب زائران مزار نورانی رهبر شهید انقلاب
 @Farsna</div>
-<div class="tg-footer">👁️ 9.11K · <a href="https://t.me/farsna/457652" target="_blank">📅 00:52 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.19K · <a href="https://t.me/farsna/457652" target="_blank">📅 00:52 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457651">
@@ -645,7 +645,7 @@ Link</div>
 <div class="tg-text">‌ امکان سربازی مشمولان فوتبالیست در تیم‌های غیرنظامی تکذیب شد
 🔹
 سازمان وظيفهٔ عمومی فراجا در اطلاعیه‌ای ضمن تکذیب خبر شایعهٔ امکان انجام سربازی مشمولان فوتبالیست در تیم‌های غیرنظامی اعلام کرد: مشمولان فوتبالیست برای ادامهٔ فعالیت ورزشی می‌توانند در تیم‌های…</div>
-<div class="tg-footer">👁️ 9.61K · <a href="https://t.me/farsna/457651" target="_blank">📅 00:39 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/farsna/457651" target="_blank">📅 00:39 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457646">
@@ -660,7 +660,7 @@ Link</div>
 <div class="tg-text">📰
 دکۀ روزنامه | یکشنبه ۱ شهریور ۱۴۰۵
 @Farsna</div>
-<div class="tg-footer">👁️ 9.09K · <a href="https://t.me/farsna/457646" target="_blank">📅 00:31 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.21K · <a href="https://t.me/farsna/457646" target="_blank">📅 00:31 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457636">
@@ -677,7 +677,7 @@ Link</div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/nUlMF3CTyY5p5Pp6bQ6KQa73o5BbpK7v9JB0QcU4CLzOyLQNJreY0YQ_OmkRM0rOQqJs58PWUelPtB56raZWWe2FL7I0sftyTBlizZmoVZv5DhoTut4yUcjVKAvJH8Nnv-p6XNR3OK486iSPIxJQE3y9Q4-0Ov7l9-RGomWb66bkJGQX-drdxftAtxgKt9DK8YDZZ2wmJQkyYZGc8h5G5ifxFLHum-oq_wAfSEY0SrPfSmRPoYEJNu33hyNjwg62GNbH_hI6IC2AGLnfldwhJ2utp-566hjl89AzEg80_62mB-w8-PeYGFFgN7oOSM39YjS0FzS6GtCwNM1NQPTu3Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FAWAOO-pVTqLpNXKONpQjFHva5kFBAHil7M7QYmEXp8hc7ub18mOl6aPHf2Q5xJxbvowNPf3HBi3PV65dTVeh8IVQt7WJdetfqvWsgO4ZWB-CxCpNU5zFDebBkGH14qv0LbmaRe69T03pXtBfQ5Hlxhm2B8IJtj81K-x8FGqrMPgQvTavE3sWmaZ3Ua4G-gyCk3SGFxtfLAt1mM51a4awEQ6feHd1cYRYSAxkY8Nf_McXkvkfF0X38BcyhoveYixwnDvMiH0ApF343KGBE2v5TiD2bovK_J0AxijxCJCEZVBa5_4wPKCGGeG2LRXsT_JYO6cN9wvbHZS9RyPPdUmeA.jpg" alt="photo" loading="lazy"/></div>
 </div>
-<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/farsna/457636" target="_blank">📅 00:31 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.55K · <a href="https://t.me/farsna/457636" target="_blank">📅 00:31 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457635">
@@ -693,7 +693,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/farsna/457635" target="_blank">📅 00:14 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.92K · <a href="https://t.me/farsna/457635" target="_blank">📅 00:14 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457634">
@@ -710,7 +710,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 9.18K · <a href="https://t.me/farsna/457634" target="_blank">📅 23:58 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.23K · <a href="https://t.me/farsna/457634" target="_blank">📅 23:58 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457632">
@@ -723,7 +723,7 @@ Link</div>
 🔹
 در هفتۀ دوم لیگ عراق، امشب تیم‌های دهوک و الطلبه با هدایت یحیی گل‌محمدی و علیرضا منصوریان مقابل هم قرار گرفتند که این بازی با تساوی ۳-۳ به پایان رسید.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.95K · <a href="https://t.me/farsna/457632" target="_blank">📅 23:42 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10K · <a href="https://t.me/farsna/457632" target="_blank">📅 23:42 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457631">
@@ -756,7 +756,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/farsna/457631" target="_blank">📅 23:30 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/farsna/457631" target="_blank">📅 23:30 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457630">
@@ -774,7 +774,7 @@ Link</div>
 دولت باید از اقتصاد دولتی بیرون بیاید و مردم را کمک کند که وارد جهاد اقتصادی شوند. هر محله‌ای می‌تواند تبدیل به پایگاه موشکی جنگ اقتصادی شود.
 🔹
 از یک طرف باید دست دزدها را قطع کرد و از طرف دیگر…</div>
-<div class="tg-footer">👁️ 9.01K · <a href="https://t.me/farsna/457630" target="_blank">📅 23:27 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.05K · <a href="https://t.me/farsna/457630" target="_blank">📅 23:27 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457629">
@@ -785,7 +785,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.61K · <a href="https://t.me/farsna/457629" target="_blank">📅 23:25 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.65K · <a href="https://t.me/farsna/457629" target="_blank">📅 23:25 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457628">
@@ -799,7 +799,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 دبیر شورای‌عالی امنیت ملی: حملات ما الان هدفمند است و جنگ اقتصادی را هم خنثی می‌کنیم.  @Farsna</div>
-<div class="tg-footer">👁️ 8.81K · <a href="https://t.me/farsna/457628" target="_blank">📅 23:22 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.82K · <a href="https://t.me/farsna/457628" target="_blank">📅 23:22 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457627">
@@ -815,7 +815,7 @@ Link</div>
 دبیر شورای‌عالی امنیت ملی: به‌هیچ‌وجه تسلیم نخواهیم شد و جانانه تا آخرین قطرۀ خون از ایران دفاع می‌کنیم؛ اجازه نمی‌دهیم پای دشمن به خاک ایران باز شود
 🔹
 ما نیروهای مسلح تا آخرین قطرۀ خون‌مان را به ملت ایران هدیه می‌کنیم. @Farsna</div>
-<div class="tg-footer">👁️ 8.06K · <a href="https://t.me/farsna/457627" target="_blank">📅 23:18 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.1K · <a href="https://t.me/farsna/457627" target="_blank">📅 23:18 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457620">
@@ -836,7 +836,7 @@ Link</div>
 عکس :
 رضا کمالی دهکردی
 @Farsna</div>
-<div class="tg-footer">👁️ 8.49K · <a href="https://t.me/farsna/457620" target="_blank">📅 23:16 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/farsna/457620" target="_blank">📅 23:16 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457619">
@@ -853,7 +853,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 7.64K · <a href="https://t.me/farsna/457619" target="_blank">📅 23:14 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.67K · <a href="https://t.me/farsna/457619" target="_blank">📅 23:14 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457618">
@@ -869,7 +869,7 @@ Link</div>
 دبیر شورای‌عالی امنیت ملی: جولانی هرچقدر توانست در مقابل آمریکا کوتاه آمد اما همین ۲-۳ روز پیش اسرائیل به سوریه حمله کرد؛ کسانی‌که فکر می‌کردند اگر پهلوی می‌آمد ایران گل‌وبلبل می‌شد این موضوع را ببینند
 🔹
 اگر پهلوی را می‌توانستند روی کار بیاورند ایران را…</div>
-<div class="tg-footer">👁️ 8.12K · <a href="https://t.me/farsna/457618" target="_blank">📅 23:12 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.16K · <a href="https://t.me/farsna/457618" target="_blank">📅 23:12 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457617">
@@ -885,7 +885,7 @@ Link</div>
 دبیر شورای‌عالی امنیت ملی: بازشدن تنگۀ هرمز هیچ ربطی به توافق ایران و عمان در مورد مسیر میانی تنگه ندارد
 🔹
 در زمان بازشدن تنگه ما آن را مدیریت می‌کنیم و این مدیریت با دریافت هزینه همراه خواهد بود. @Farsna</div>
-<div class="tg-footer">👁️ 8.24K · <a href="https://t.me/farsna/457617" target="_blank">📅 23:07 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.28K · <a href="https://t.me/farsna/457617" target="_blank">📅 23:07 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457616">
@@ -899,7 +899,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 دبیر شورای‌عالی امنیت ملی: کاملا آمادۀ عملیات هستیم اما با یک شیب منطقی و عاقلانه حرکت خواهیم کرد.  @Farsna</div>
-<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/farsna/457616" target="_blank">📅 23:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.51K · <a href="https://t.me/farsna/457616" target="_blank">📅 23:00 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457615">
@@ -915,7 +915,7 @@ Link</div>
 دبیر شورای‌عالی امنیت ملی: ما تاکنون به هیچکدام از منافع اقتصادی آمریکا حمله نکرده‌ایم
 🔹
 تاکنون ما فقط پایگاه‌های نظامی را هدف قرار داده‌ایم اما اگر قرار باشد جنگ اقتصادی را جلو ببرند آمادۀ هدف‌قراردادن همۀ شرکت‌های نفتی و اقتصادی آمریکا در منطقه هستیم.…</div>
-<div class="tg-footer">👁️ 8.42K · <a href="https://t.me/farsna/457615" target="_blank">📅 22:56 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.46K · <a href="https://t.me/farsna/457615" target="_blank">📅 22:56 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457614">
@@ -929,7 +929,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 دبیر شورای‌عالی امنیت ملی: ما با عمان روی مسیر تنگۀ هرمز توافق کردیم که یک مسیر میانی است اما این موضوع روی کاغذ است و تنگۀ هرمز زمانی باز می‌شود که آمریکایی‌ها به تعهداتشان عمل کنند.  @Farsna</div>
-<div class="tg-footer">👁️ 8.7K · <a href="https://t.me/farsna/457614" target="_blank">📅 22:51 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.73K · <a href="https://t.me/farsna/457614" target="_blank">📅 22:51 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457613">
@@ -943,7 +943,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 دبیر شورای‌عالی امنیت ملی: ما فعلا فقط جریان نفت در تنگه هرمز را محدود کرده‌ایم اما درصورت جنگ اقتصادی اجازه نمی‌دهیم نفتی از خلیج‌فارس حتی به روش‌های دیگر خارج شود.  @Farsna</div>
-<div class="tg-footer">👁️ 8.42K · <a href="https://t.me/farsna/457613" target="_blank">📅 22:48 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.45K · <a href="https://t.me/farsna/457613" target="_blank">📅 22:48 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457612">
@@ -961,7 +961,7 @@ Link</div>
 آمریکایی‌ها هر حرکتی در مسیر جنوبی تنگۀ هرمز انجام دهند هدف قرار می‌گیرند.
 🔹
 آن‌ها هر جلسه‌‌ای با گروه‌های ضدانقلاب در منطقه برگزار کنند ما آن‌جا را…</div>
-<div class="tg-footer">👁️ 8.23K · <a href="https://t.me/farsna/457612" target="_blank">📅 22:46 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.27K · <a href="https://t.me/farsna/457612" target="_blank">📅 22:46 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457611">
@@ -977,7 +977,7 @@ Link</div>
 دبیر شورای‌عالی امنیت ملی: پاسخ ما به ترامپ مقابله‌به‌مثل زلزله‌وار خواهد بود
 🔹
 به هر کشوری که با جنگ اقتصادی آمریکا علیه ایران همکاری کند ابتدا تذکر می‌دهیم و اگر ادامه دهند منافع آن‌ها را هدف قرار می‌دهیم. @Farsna</div>
-<div class="tg-footer">👁️ 7.98K · <a href="https://t.me/farsna/457611" target="_blank">📅 22:45 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.99K · <a href="https://t.me/farsna/457611" target="_blank">📅 22:45 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457610">
@@ -991,7 +991,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 دبیر شورای‌عالی امنیت ملی: ترامپ به اسم عملیات آزادی ۳ ناوچه به‌سوی تنگۀ هرمز روانه کرد و وقتی هر ۳ ناوچه را زدیم، او ۴۸ ساعت بعد گفت عملیات را متوقف کرده‌ام.  @Farsna</div>
-<div class="tg-footer">👁️ 7.78K · <a href="https://t.me/farsna/457610" target="_blank">📅 22:42 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.79K · <a href="https://t.me/farsna/457610" target="_blank">📅 22:42 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457609">
@@ -1005,7 +1005,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 دبیر شورای‌عالی امنیت ملی: ما هر روز به اندازۀ تولیدمان آن‌طرف ناوهای آمریکا نفت می‌فروشیم  @Farsna</div>
-<div class="tg-footer">👁️ 7.81K · <a href="https://t.me/farsna/457609" target="_blank">📅 22:41 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.85K · <a href="https://t.me/farsna/457609" target="_blank">📅 22:41 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457608">
@@ -1021,7 +1021,7 @@ Link</div>
 دبیر شورای عالی امنیت ملی: اگر کشورهای اطراف ایران در جنگ اقتصادی با آمریکایی‌ها همراهی کنند منافعشان را می‌زنیم.
 🔹
 اگر کشورهای اطراف ایران در جنگ اقتصادی با آمریکایی‌ها همراهی کنند یک قطره نفت از خلیج فارس و تنگۀ هرمز بیرون نخواهد رفت و مسیرهای دیگر صادرات…</div>
-<div class="tg-footer">👁️ 8.32K · <a href="https://t.me/farsna/457608" target="_blank">📅 22:39 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.36K · <a href="https://t.me/farsna/457608" target="_blank">📅 22:39 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457607">
@@ -1037,7 +1037,7 @@ Link</div>
 دبیر شورای عالی امنیت ملی: اگر کشورهای اطراف ایران در جنگ اقتصادی با آمریکایی‌ها همراهی کنند منافعشان را می‌زنیم.
 🔹
 اگر کشورهای اطراف ایران در جنگ اقتصادی با آمریکایی‌ها همراهی کنند یک قطره نفت از خلیج فارس و تنگۀ هرمز بیرون نخواهد رفت و مسیرهای دیگر صادرات…</div>
-<div class="tg-footer">👁️ 7.72K · <a href="https://t.me/farsna/457607" target="_blank">📅 22:38 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.76K · <a href="https://t.me/farsna/457607" target="_blank">📅 22:38 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457606">
@@ -1065,7 +1065,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 سرلشکر رضایی: همۀ جهان فهمیده‌اند ترامپ خالی‌بند است  @Farsna</div>
-<div class="tg-footer">👁️ 8.15K · <a href="https://t.me/farsna/457605" target="_blank">📅 22:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.19K · <a href="https://t.me/farsna/457605" target="_blank">📅 22:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457604">
@@ -1079,7 +1079,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 دبیر شورای‌عالی امنیت ملی: ترامپ می‌خواهد بازی جدیدی به‌نام جنگ اقتصادی راه بیندازد که حسابش را خواهیم رسید.  @Farsna</div>
-<div class="tg-footer">👁️ 8.7K · <a href="https://t.me/farsna/457604" target="_blank">📅 22:29 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.74K · <a href="https://t.me/farsna/457604" target="_blank">📅 22:29 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457603">
@@ -1096,7 +1096,7 @@ Link</div>
 حماقت ترامپ با حمله به ایران اشتیاق مردم جهان به بمب اتم را بیشتر کرد زیرا همۀ دنیا دیدند عضویت در سازمان انرژی اتمی و NPT برای جلوگیری از حمله آمریکا اثری ندارد.
 🔹
 ترامپ به…</div>
-<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/farsna/457603" target="_blank">📅 22:28 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.87K · <a href="https://t.me/farsna/457603" target="_blank">📅 22:28 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457602">
@@ -1110,7 +1110,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 دبیر شورای‌عالی امنیت ملی: حتما در مسئلۀ ادارۀ شیوۀ جنگ تغییراتی خواهیم داد و در رفتار دیپلماتیک ایران تحولاتی صورت خواهد گرفت.  @Farsna</div>
-<div class="tg-footer">👁️ 8.85K · <a href="https://t.me/farsna/457602" target="_blank">📅 22:26 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/farsna/457602" target="_blank">📅 22:26 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457601">
@@ -1124,7 +1124,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 دبیر شورای‌عالی امنیت ملی: حتما در مسئلۀ ادارۀ شیوۀ جنگ تغییراتی خواهیم داد و در رفتار دیپلماتیک ایران تحولاتی صورت خواهد گرفت.  @Farsna</div>
-<div class="tg-footer">👁️ 8.33K · <a href="https://t.me/farsna/457601" target="_blank">📅 22:24 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.37K · <a href="https://t.me/farsna/457601" target="_blank">📅 22:24 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457600">
@@ -1138,7 +1138,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 دبیر شورای‌عالی امنیت ملی: تصمیم رهبر انقلاب برای آمدن فرماندهان باتجربه معنایش این است که تجارب یک‌سال گذشته حتما در نبرد آینده استفاده می‌شود و جنگ آینده متفاوت‌تر از جنگ ۴۰ روزه خواهد بود.   @Farsna</div>
-<div class="tg-footer">👁️ 8.82K · <a href="https://t.me/farsna/457600" target="_blank">📅 22:20 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.83K · <a href="https://t.me/farsna/457600" target="_blank">📅 22:20 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457599">
@@ -1152,7 +1152,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 دبیر شورای‌عالی امنیت ملی: امروز ملت ۵ هزار سالۀ ایران با دولت ۲۵۰ سالۀ آمریکا در تقابل است.  @Farsna</div>
-<div class="tg-footer">👁️ 8.7K · <a href="https://t.me/farsna/457599" target="_blank">📅 22:18 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.73K · <a href="https://t.me/farsna/457599" target="_blank">📅 22:18 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457598">
@@ -1187,7 +1187,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.54K · <a href="https://t.me/farsna/457597" target="_blank">📅 22:14 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.58K · <a href="https://t.me/farsna/457597" target="_blank">📅 22:14 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457596">
@@ -1208,7 +1208,7 @@ Link</div>
 🔹
 همۀ دنیا با یک دید جدید به ایران نگاه می‌کنند.
 @Farsna</div>
-<div class="tg-footer">👁️ 9.29K · <a href="https://t.me/farsna/457596" target="_blank">📅 22:09 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.32K · <a href="https://t.me/farsna/457596" target="_blank">📅 22:09 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457595">
@@ -1240,7 +1240,7 @@ Link</div>
 شناسۀ ارتباطی ما:
 @Fars_ma
 @Farsna</div>
-<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/farsna/457595" target="_blank">📅 21:59 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.53K · <a href="https://t.me/farsna/457595" target="_blank">📅 21:59 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457594">
@@ -1254,7 +1254,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 تودهنی رضا پهلوی به اینترنشنال و خودش  @Farsna - Link</div>
-<div class="tg-footer">👁️ 8.33K · <a href="https://t.me/farsna/457594" target="_blank">📅 21:57 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.37K · <a href="https://t.me/farsna/457594" target="_blank">📅 21:57 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457593">
@@ -1263,7 +1263,7 @@ Link</div>
 ادامۀ جنایات صهونیست‌ها در جنوب لبنان
 🔹
 تخریب منازل لبنانی‌ها توسط ارتش اسرائیل در شهرک یحمر الشقیف‌. @Farsna</div>
-<div class="tg-footer">👁️ 8.24K · <a href="https://t.me/farsna/457593" target="_blank">📅 21:50 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.27K · <a href="https://t.me/farsna/457593" target="_blank">📅 21:50 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457592">
@@ -1316,7 +1316,7 @@ Link</div>
 <div class="tg-text">🎥
 ایران چگونه توپ را در زمین آمریکا انداخت؟
 @Farsna</div>
-<div class="tg-footer">👁️ 8.17K · <a href="https://t.me/farsna/457589" target="_blank">📅 21:15 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.2K · <a href="https://t.me/farsna/457589" target="_blank">📅 21:15 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457588">
@@ -1324,7 +1324,7 @@ Link</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kb7OG6qw5ahBEf3MyMpqyW1_O81Dl-butlFVlI8ZH6LhT46Lfguebyci3WPeMoh25YlvnToVvo1Gn5pQXMbuL-slw3Hu5M0-62CeOCRRn0k91wDp_yozBzNDH8Txvrqbsgb1Y3jPYX-LFcIDRc4f2nMH3iQmzamMwG724GFFYKyAXiInz6IYxJ-6Dpg8510I6zFPNJCDQneHyzdKZG_GQPRm8vWnIdzoXECLtWZx8j2T0fATGQmWvWEyWMk-TUtsfN2JwmQuqSEbqq9ma2SBjxYY3uCOlKrrkmChdfBIgt5RPGfs8tVLBJyKYSzr7uJ1Qc6G96zO-hTamoo3qGKseQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نتانیاهو: تا زمانی که من نخست‌وزیر هستم اجازه نمی‌دهم هیچ کشور فلسطینی تحت کنترل ایران تشکیل شود.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.85K · <a href="https://t.me/farsna/457588" target="_blank">📅 21:10 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/farsna/457588" target="_blank">📅 21:10 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457587">
@@ -1341,7 +1341,7 @@ Link</div>
 🔹
 آموزش استفاده از هوش‌مصنوعی برای معلمان هم آغاز شده که تاکنون بیش از ۲۵۳ هزار معلم در آن شرکت کرده‌اند.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.36K · <a href="https://t.me/farsna/457587" target="_blank">📅 21:01 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.37K · <a href="https://t.me/farsna/457587" target="_blank">📅 21:01 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457586">
@@ -1374,7 +1374,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.91K · <a href="https://t.me/farsna/457586" target="_blank">📅 20:51 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/farsna/457586" target="_blank">📅 20:51 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457585">
@@ -1393,12 +1393,12 @@ Link</div>
 📝
 ثبت‌نام دوره آنلاین
 مرکز آموزش‌های آزاد خبرگزاری فارس</div>
-<div class="tg-footer">👁️ 7.97K · <a href="https://t.me/farsna/457585" target="_blank">📅 20:50 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.01K · <a href="https://t.me/farsna/457585" target="_blank">📅 20:50 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457584">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-footer">👁️ 7.67K · <a href="https://t.me/farsna/457584" target="_blank">📅 20:49 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.68K · <a href="https://t.me/farsna/457584" target="_blank">📅 20:49 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457583">
@@ -1443,7 +1443,7 @@ Link</div>
 <div class="tg-text">🖼
 پیام آیت‌الله نوری همدانی به دبیر شورای‌عالی امنیت ملی: تبعیت از رهنمودهای رهبر انقلاب، استقامت در برابر دشمن، پاسخ قاطع به هرگونه تجاوز و حفظ وحدت از ضروری‌ترین امور است.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.37K · <a href="https://t.me/farsna/457580" target="_blank">📅 20:13 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.4K · <a href="https://t.me/farsna/457580" target="_blank">📅 20:13 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457579">
@@ -1451,7 +1451,7 @@ Link</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rychQnTBNmLgEWA8xQIlLoYv5_TdxlF3HMpOZ21IVqkVK1V25MSa_jLHWXSsj_i36BYEdDvFerNci2Xbcewso-rbm8JLgF4xl98O9zPe90roEDik0SERhvUVL3NxeLRYKBR7KCAq2ntcelgbk8FtHfvGvm3NYOkgoIdDUNhOdkrY9GEgjcya5TO9B6MEbLitXLGprfQ0XeN5ljWDLgI_lJZrxeJQcx_DIMcFXOdoKxf0IuDzm5mCoBzMRp2BdfN8R9PyW6qCGMfQwqkiKHjTYdUj-eh5Eu6700iIo4xdR45sedSp0200YtsETS8S5xLatKOSlAVqHjIGZxCBqW1h6Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎥
 دریاچهٔ ارومیه از قاب آسمان  @Farsna - Link</div>
-<div class="tg-footer">👁️ 8.44K · <a href="https://t.me/farsna/457579" target="_blank">📅 20:06 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.45K · <a href="https://t.me/farsna/457579" target="_blank">📅 20:06 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457578">
@@ -1465,7 +1465,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 روایت وزیر اقتصاد از انحلال بانک آینده  @Farsna</div>
-<div class="tg-footer">👁️ 8.25K · <a href="https://t.me/farsna/457578" target="_blank">📅 19:51 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.26K · <a href="https://t.me/farsna/457578" target="_blank">📅 19:51 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457577">
@@ -1479,7 +1479,7 @@ Link</div>
 🔹
 ما آن چیزهایی که آمریکایی‌ها از ما درخواست کرده‌اند را نخواهیم داد.
 @Farsna</div>
-<div class="tg-footer">👁️ 8.94K · <a href="https://t.me/farsna/457577" target="_blank">📅 19:47 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/farsna/457577" target="_blank">📅 19:47 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457576">
@@ -1494,7 +1494,7 @@ Link</div>
 <div class="tg-text">🎥
 کارشناس مسائل بین‌الملل: با قبول کنوانسیون «رژیم حقوقی خزر» توسط ایران، تکلیف قسمت بزرگی از آب‌های سرزمینی کشور به کسب رضایت کشورهایی مانند جمهوری آذربایجان گره می‌خورد.
 @Farsna</div>
-<div class="tg-footer">👁️ 7.75K · <a href="https://t.me/farsna/457576" target="_blank">📅 19:44 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.79K · <a href="https://t.me/farsna/457576" target="_blank">📅 19:44 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457575">
@@ -1554,7 +1554,7 @@ Link</div>
 </div>
 <div class="tg-text">🎥
 وزیر اقتصاد: رئیس‌جمهور شخصاً اجماع‌سازی ارکان حاکمیت برای اصلاحات اقتصادی را پیگیری می‌کند.  @Farsna</div>
-<div class="tg-footer">👁️ 7.84K · <a href="https://t.me/farsna/457572" target="_blank">📅 19:26 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/farsna/457572" target="_blank">📅 19:26 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457571">
@@ -1569,7 +1569,7 @@ Link</div>
 <div class="tg-text">🎥
 وزیر اقتصاد: رئیس‌جمهور شخصاً اجماع‌سازی ارکان حاکمیت برای اصلاحات اقتصادی را پیگیری می‌کند.
 @Farsna</div>
-<div class="tg-footer">👁️ 7.86K · <a href="https://t.me/farsna/457571" target="_blank">📅 19:23 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 7.89K · <a href="https://t.me/farsna/457571" target="_blank">📅 19:23 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457569">
@@ -1586,7 +1586,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.39K · <a href="https://t.me/farsna/457569" target="_blank">📅 19:19 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.4K · <a href="https://t.me/farsna/457569" target="_blank">📅 19:19 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457568">
@@ -1637,7 +1637,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.03K · <a href="https://t.me/farsna/457565" target="_blank">📅 18:58 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.04K · <a href="https://t.me/farsna/457565" target="_blank">📅 18:58 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457564">
@@ -1717,7 +1717,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.85K · <a href="https://t.me/farsna/457557" target="_blank">📅 18:15 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.88K · <a href="https://t.me/farsna/457557" target="_blank">📅 18:15 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457556">
@@ -1753,7 +1753,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.2K · <a href="https://t.me/farsna/457554" target="_blank">📅 17:48 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.21K · <a href="https://t.me/farsna/457554" target="_blank">📅 17:48 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457553">
@@ -1808,7 +1808,7 @@ Link</div>
 @Farsna
 -
 Link</div>
-<div class="tg-footer">👁️ 8.59K · <a href="https://t.me/farsna/457551" target="_blank">📅 17:21 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.6K · <a href="https://t.me/farsna/457551" target="_blank">📅 17:21 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-457550">

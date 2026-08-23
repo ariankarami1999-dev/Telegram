@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 09:00:03</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 09:26:04</div>
 <hr>
 
 <div class="tg-post" id="msg-913">
@@ -331,7 +331,7 @@ pinned «
 <div class="tg-post" id="msg-908">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.5K · <a href="https://t.me/mohsentavoosiseo/908" target="_blank">📅 13:34 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.51K · <a href="https://t.me/mohsentavoosiseo/908" target="_blank">📅 13:34 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-907">
@@ -770,8 +770,8 @@ Claude Cowork
 <div class="tg-post" id="msg-873">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/gFl9HdOYiPcyemwH9e54-ex3xu6NN5A_PJZtbGPsFJyjaqR8WOR49Vb4HUnTb0pNHMeQPSHw6wt2CoGojPBAzLhAYqCQMSIP12-eTAu6QLPRSVXpZ4F3ey-w98rkyXt632Wj_EehRfKow-H3JER3f9fgu6flYycFktkMYa2vlOR0KYe5ciFahmtN43ar8zxnLlBBKzfxSqNxVMqQ2mvfe8Jf1WxG9Pfz8t9gSb5WFOFFBnYAvx010Y5V37mjXf8m-uss37jvTc2mwGltx6WodxqghuVXdhAtgEVO0EchjPk_a6NgllVLupiN5MBv8H7Xf3T9pjRoLtQys7JPGxBEbA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/vCfrMFAsZgc3t_zdsxqaqaGLnsB7Bqtky3VnuMRyxAGrB4RthRYKkD_O1BUJs3uuzuGdJ_VPF46qj_dVFmhgBb92UmqNCPNtITZO1lAu5vEav7xducTQM94Whg0UQnDwOFIh8TF32HCTudeq5g_WcqOfNO-rn1PQLMnRV7K48J3A_0NodSo8uNkAWJ3CDEl-u22dOBPddUu74wQQrVWsH2YyhMzRowfXxXwF_uGPIdhwoZsX0yknK9rppO9oHuZRdPQNjlxNxCgVA_WJe41v2gEOkr5Xza3SsS3ESl9l60u5eZKf9yNESZcEW34L75B4BMFW6FQ3XWrkrmuXL0s4Ag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/RTDo37tKrAiVblXYmO8-t6Zh3YnIuBIBLWYjPEOSKYuGwY70sWPQaAjRAfv5KI2DgeLhy05OFO7YTSWdC6KymaZ5V2itDnN-KESzjtrw6hld-CFxVPp3oJ_J_9kxYkFfKI9B0YbLHYwPz16EwOg9Ae_LaV4OR_dd9_FvdaoVIR_Z1lOcP-l1rdkm6F6s3ooHtrjNhFDQ8g9XvO-KGzHYpotOm_OKO-5Gr6KmUcrbhwX6mIjDUE3q7P7U4FJtm705Ui0kgsZsfEkRI66OOYjIfC-jfbqUJa6Rye_no8WS9xIDJlFoGduFVY5VkPFelwxMzBTplZXj8mux6KP2385E7g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Bb8Ge9_Is-b6IVlLMnTuYCWQqtrcffSMyYg9jh8kf-xWhJjS3Br7jCLfZHENRHRoiKvRKOOCrcIDWYo-k2zVB9g3h1_W_F8kX8_VULPgoIJAM7JmSdC0cwC2mL5Qp7Zhovk3fEiC3dyKiT_fM9JCbC62tl3J5L4sFulrGt_UtnHy_FolicQ9rLlGnqwCeXN6hajSnJ_lyV3pqK0HeOe9zfg637CkrO1pHP1czMW7shk4WuNQiOpbDLd_j_ArRb_YTzjjWmuYX7hclzypsJRRuIDmOxtPk7rEX2-TsufsBFvpXK4OiKbd8YmZz5_DNWKCa5jHyNN5XXp6oXrLH7jJ2A.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">تصویر چهارستونه(گرونتر) برای ابزار keyword tool هست و تصویر سه ستونه(ارزون تر) برای ابزار Mangools که ایرانی ها به KWFinder میشناسنش.
 شما خودتون رو بذارید جای سایتی که ابزار اشتراکی میفروشه.
@@ -884,7 +884,7 @@ Claude Cowork
 قطعا مرتبط و موثرند روی هم. قطعا اخلاق و انسانیت مهمه. کسب پول از راه سالم و بدون دروغ و فریب و دزدی و... مهمه. آسیب نزدن به کره زمین، طبیعت، آدم ها، همدیگه و حیوون ها مهمه و ضروریه. قطعا مهربونی با حیوانات نشانه ای از تمدن و انسانیت هست و بدرفتاری باهاشون نشانه عقب ماندگی و بربریت.
 ولی خیلی گوگولی و کودکانست اون دو جمله بولشیت اول این پست درباره تواضع و ادعا.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.73K · <a href="https://t.me/mohsentavoosiseo/866" target="_blank">📅 13:13 · 02 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.74K · <a href="https://t.me/mohsentavoosiseo/866" target="_blank">📅 13:13 · 02 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-864">
