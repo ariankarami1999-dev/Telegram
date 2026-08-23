@@ -288,23 +288,23 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/Bl3X2naRm8ezQZn6phlJtHWZMNJ6_bTEWkdahmxXU9-vU87aQsjBtvPhAE_ErPRuKvg6EeW_U_cJ6y2zxWK4UymRqu4sSXXvmKMO6VVoAKL65jxmrsfzfhpxHs8IjZ5-Px2vCoTo4Cn-jR61gkrnuuQB5Ez9zecoiBWg1GTvYIxoLC2AHhuAMhf5DYquIUHjv1qcciDmUzjuBoMriX7AxoKsNzsoCZqr7g0m0SJJhLZIkTLPGhmPOsSamQIQG8V4rjZa19qCvKl6iXCcn7K7SltvFF0plDhL9-fuaFVXTR0B0GpPajlQxzlh8nWhnXY3qAyn109LS9EkTAy3GrzKzw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 آموزش سئو با محسن طاوسی</h1>
-<p>@mohsentavoosiseo • 👥 7.95K عضو</p>
+<p>@mohsentavoosiseo • 👥 7.96K عضو</p>
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 11:48:52</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-01 12:24:52</div>
 <hr>
 
 <div class="tg-post" id="msg-911">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.59K · <a href="https://t.me/mohsentavoosiseo/911" target="_blank">📅 15:08 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.6K · <a href="https://t.me/mohsentavoosiseo/911" target="_blank">📅 15:08 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-910">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 1.59K · <a href="https://t.me/mohsentavoosiseo/910" target="_blank">📅 14:53 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.6K · <a href="https://t.me/mohsentavoosiseo/910" target="_blank">📅 14:53 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-909">
@@ -659,7 +659,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 
 <div class="tg-post" id="msg-881">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MYI8gUGULxcWHPoaXmhDGcNWhJWijtL5y_xQEj1OE3wMn9HrdC5ms7ICG_UsNSd4HkTV6Rb2KsLJaB7fvx6EGcWGoXS8r-I04D8Gt8J4kxK_CGDGLQt2IUxHoMF-M6LiXpzscqBGxKC4zfPyTLyTDlL9ZU3kqEQJfmMoDuaMfhLadIGTf5rkitJDqB8GwcXeNibj2NO2fL9ZBkygy5TxJ8reAT_9JsO-kUZA8LJmumSHzyK8UiCBNCPMsxKspklZlP2xA98Wwa8L_epxzKxYcoaZLniufrKVfYitJw15mRvJQVMSWR1brfEemGJEmjeiFV5vbB07ivsrI_Srpk0Nzw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f97440rtZpFYqXLy0p0asOMecm9fWo5NZAvLn_eMamRDa7NZy8Sw1oWDFA-oPHbiZtRmBvvquT3yAslsAiBceN0SdS4Ig-lhqun_0qks0Pstsql7PFdC4IpB7qlCtwub7-pMVka4OsIdvAN4docvEq4oKmuNq5owRDpMieKJvuv8ElT_UKsef1qSqHq6CSC8q-7otZZx0LmmOxN9zC-_r6jxkZhMQJlUaVTGhkr7sQE-v69O69C414tIA6PCLDJj6FgVRadSQlq5mb3dtZjSwf-J9bi9fEEyA1w23M4z_L0maA9GvDpiclFh8cFo4e9ZMsvNWc95JmeUzBj8ynzN2Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این یکی از ساده ترین هنرکاری های کلاد هست! از منوی رفلکت، بهتون عملکرد خودتونو میگه و واقعا بازخورد های جذابی میده! در اپدیت پیش روی دوره، تمام کسانی که دوره رو دارند، سئو بین المللی با کلاد رو به خشن ترین حالت ممکن یاد می گیرند
 😎
 .
