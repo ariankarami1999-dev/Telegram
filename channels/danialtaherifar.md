@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 18:59:39</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 19:34:25</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -2024,7 +2024,7 @@ https://schema.org/FreeReturn
 
 <div class="tg-post" id="msg-842">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Q5yPbcaNWNo1E8Z2bnuKSS6bsOFnXZjVbbVejN2iQUQIdNg6UteYhHUlO_g8xKIvDo9b9HXUvFiLDH81McIgXBILVtei-9Z2voLmzwd1l8kTphSPiq0M4NE2tUBtM05GuBrPZoso_CCOCb9QrSG1TjhsnTBkp0cHen7ffk9cJduCkUYYXLC86rqIQsY68DqJMnuxsxbgkMw675acUVkV4FguFgLr9lG-LsjogOMADLlO-_mP5XraKVAJ3dAA7VIQT6xXWrO2rNVvXd91RXakrsp9Ug4bksJ9jfZk447beOkMc5ZV7TuZ32UToIWhX7Pvq-WHjU5fZbMhfS2k1HWa6w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QsC9ODgNyYKcWvARFcl77mJBrNCPDQpulL4jIWHJWM1fg_3FFUVH2Pu2oSnvHJtWtDCT3_mVLesHk4NkFOvDxU7UL_O8uHPSOj4Bd6SUkYdULyqdYDmIgu69mReDfoC2Qm3Tzfd14cKKn55aSFBOWUlt7m5TyBrFm6rcB-h9mBFNzyma6MaBUJOSkvBah25vy7mmQd-HAmd8liTcCfSkscwrSpcMRPs9h9KFzSJrL2aoNVg2_8ppd_K4oOqsc_aCFG6GNFsm5uGze_l6guNiqSBSWyygoTCKVIRefA3hnnzCV3zXzQr6Dw9sKv-gjd7w5p2nisqLC5BU5zw0lTQzAQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📉
 هوش مصنوعی AI Overviews گوگل، دشمن جدید سئوکاران؟!
 🔍
@@ -2387,7 +2387,7 @@ neural networks
 
 <div class="tg-post" id="msg-832">
 <div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EnFObFmlsre9o6BwMLlh_xl9FoYvxz1oN1Se5DjYSkjh8grJACM9hMrg7jfatuPzyxDdg2xhQBu7MxqyWZMiXXg4m0r4MIW9GFMjM7twF7RgDFuyVbpfUHW_ufSpgMnkUtKQvOy5KlOvIUlaYJmrSz4WtjyydDD6UBcRuoZQx7TvV8IAN0oTGmxI-_02i2ClmwhzujRUNVxmIqYmZJ5yS0WtEO-_ounepA1TjQjUqUZfByhCS2rovgmy0EE_0oJ0zgxRLa-wQv9ZJQATViOVilpD9rDS2-G7rPkEMMVGOazT8OUq351KIcR6T7dEAh4NNrSU292JT4oaT-A7LYqk_A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X74tQT1r_tVsnCPDNmqDcjs9datH324hoilDgPkP_LWsCjkIKOFbnlHko0npemQGYhWOWp37bC1peh4Kv2PK7bsIf9bwz9nNREa9qlYk0znFAyRg7_hcVbXt8ZDTEun29ewYLwJolB5WcXCh-CuJfuN3D37bh6IOb3gt0M63beGQAnhHrlvCwJtkQ7c1Uu2YSiTi23xNjS-yz05bzy23n4jXwwAtREz0y8FY67trHWjkUW7PsyZWQRyMERs92J0nLOU4fClBNnyMAiRuUVSvYrHTtvof6mDg2Je-fQioflYS8fkU7-H7MxeFYv5TtDSUfKXSsLfGk3uHMoqmqWoeJg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📢
 گوگل نسخه جدید Google Ads API v19 را منتشر کرد!
 🚀

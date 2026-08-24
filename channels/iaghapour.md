@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 18:59:39</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 19:34:25</div>
 <hr>
 
 <div class="tg-post" id="msg-2920">
@@ -321,7 +321,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 1.73K · <a href="https://t.me/iaghapour/2920" target="_blank">📅 18:25 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.43K · <a href="https://t.me/iaghapour/2920" target="_blank">📅 18:25 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2919">
@@ -360,7 +360,7 @@ Wan 3.0
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 3.64K · <a href="https://t.me/iaghapour/2919" target="_blank">📅 16:59 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.08K · <a href="https://t.me/iaghapour/2919" target="_blank">📅 16:59 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2918">
@@ -408,7 +408,7 @@ railway-pg-node.railway.internal
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.19K · <a href="https://t.me/iaghapour/2918" target="_blank">📅 14:28 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.45K · <a href="https://t.me/iaghapour/2918" target="_blank">📅 14:28 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2917">
@@ -444,7 +444,7 @@ YouTube</div>
 🌐
 parsuptime.com
 | پشتیبانی ۲۴ ساعته</div>
-<div class="tg-footer">👁️ 6.02K · <a href="https://t.me/iaghapour/2917" target="_blank">📅 21:10 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.11K · <a href="https://t.me/iaghapour/2917" target="_blank">📅 21:10 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2916">
@@ -473,12 +473,12 @@ WebView
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.1K · <a href="https://t.me/iaghapour/2916" target="_blank">📅 20:40 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.19K · <a href="https://t.me/iaghapour/2916" target="_blank">📅 20:40 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2915">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WHCglu3gWRkNVsG9K5KmHnWpDNINkt7lWSfvxPhm34xTj2AK9SXDKUzcCzgLhFMfcJgn9NHJfAsKOwKoUPGhCG-R-MDzMnZJ5ZKqUCTa68YuMsqjh9WfgMQ1lDiQlSPeAsAP9VC1vyJx36yju7c2sJHsivF3kc3cVY_w1Wr4FetetO7fReupo8S4hXoTYZPibtRJ_aBk004ilz7lRt8vZ6NlfyUJB4DwxW8Hdj59B3wTjNLlETazbUI_7Zcju5sN1XioRwMdjjWqYLq8sxmje0iI3f_meiPpmgwgnaDl-_JFi76ScFio_C0hhGAj1gUg93DLU1GHpkLGBvq36MYvWQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KxdIb1r3YHlFj-qZbM8XADgfGbUdSdyGhhWC7uzXEs2RvNNIx0A0KZ8uVB72KrO5t4lHEhUF-637802KcMUrvQ-425GUcvu8VzQEjdlDC28dsEH11GN3bTHnpCEDxX0vDpARJRaea-2ZI9_yEmuSAKAa0k7xwgDPjAL_syRW1ldQy1Q5-B0fqtCCNZ95lA7B4vlwJ91XcXe5VKmZdWLsCSTX0LybOxXutajmuOwVe3lmTWQPV_qLhQIdPYoS3w0EG636uJrEjfCPv9KToUyJwVigBN4U9nyAVRGKIdDfBm1RtOBzLGlTABHQ4XXnXO1NZKZMO1dpq_h-xPMvEwAllg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 حدود ۴۰ درصد از آهنگ‌های جدید ماه ژوئیه با هوش مصنوعی ساخته شده‌اند
 بر اساس گزارش تحلیلی پلتفرم
@@ -511,7 +511,7 @@ Spotify
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.18K · <a href="https://t.me/iaghapour/2915" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.26K · <a href="https://t.me/iaghapour/2915" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2914">
@@ -524,7 +524,7 @@ YouTube</div>
 ✨
 👤
 حامد عزیز با آیدی…</div>
-<div class="tg-footer">👁️ 7.74K · <a href="https://t.me/iaghapour/2914" target="_blank">📅 16:01 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.8K · <a href="https://t.me/iaghapour/2914" target="_blank">📅 16:01 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2913">
@@ -552,7 +552,7 @@ YouTube</div>
 |
 💬
 ارتباط با پشتیبانی</div>
-<div class="tg-footer">👁️ 9.05K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.08K · <a href="https://t.me/iaghapour/2913" target="_blank">📅 21:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2912">
@@ -600,7 +600,7 @@ aleskxyz
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.92K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.95K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2911">
@@ -740,7 +740,7 @@ Port:
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.18K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.21K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2910">
@@ -771,17 +771,17 @@ cpuid.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.73K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.76K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/5de89d4765.mp4?token=j0XwZyPjdAOWMOUkbXrhcZ-VOMfuPYvc4wLql40nXz7KW7j6b_QwGqoQmF7CRB0KreJ4gaXoLFzBK31i4jsXnqNJphxhBu7X8TncI9NRht1olVp5n3icfkENjRZezHrHef6_bb5p94hD-fA8J5g8i3d1z5hwBXE0r6sFeDEHRwINR45qsCb4uaMNTOfvZAjaSSaE-YXuwUpe2BUQ5xsHJxEHA5VsKH0Vy7IHE2XvgeDws_SV2jEmjQMrAiTD1XButqZD8lG5IxSQX8ZzlZmAo2ZqXcaBo93FNOk1eohJpXGdDhiTQVxeXbukRkEhxh6sTbjlApLtojtw6KmgZ279EA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/5de89d4765.mp4?token=PjVqQhpCnHwdmqPmxdDlB733pJfqgdyRT9dYGPf-yLYe2p1MDQ7j4NcaucuIaLXSXDwP6NvgY2TK9ZFSJq4PIxcPvfKvED4A4HZ3n2awkFytlYeM4dlQurrB03ywtoET8pMf7O5KeK0Yh2xH-m6M3TGDr50857PwOxDz8bVj3LRLlEstAs7Bb5Q1CpMaFuF6xozMydMiq0pYMgRn_guntbWkYSCDTzaYrZONIXqqvFEWhO1ixuISkB-SBXiqRcLJjDHmNeD8OKlmABqtIOSNXBDCjAOVrUn2oXwEwYQzVd5y4INN8iJRvbVUwpPP6-HVaF1wIZB6gvSahcKh2u-n2w" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/5de89d4765.mp4?token=j0XwZyPjdAOWMOUkbXrhcZ-VOMfuPYvc4wLql40nXz7KW7j6b_QwGqoQmF7CRB0KreJ4gaXoLFzBK31i4jsXnqNJphxhBu7X8TncI9NRht1olVp5n3icfkENjRZezHrHef6_bb5p94hD-fA8J5g8i3d1z5hwBXE0r6sFeDEHRwINR45qsCb4uaMNTOfvZAjaSSaE-YXuwUpe2BUQ5xsHJxEHA5VsKH0Vy7IHE2XvgeDws_SV2jEmjQMrAiTD1XButqZD8lG5IxSQX8ZzlZmAo2ZqXcaBo93FNOk1eohJpXGdDhiTQVxeXbukRkEhxh6sTbjlApLtojtw6KmgZ279EA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/5de89d4765.mp4?token=PjVqQhpCnHwdmqPmxdDlB733pJfqgdyRT9dYGPf-yLYe2p1MDQ7j4NcaucuIaLXSXDwP6NvgY2TK9ZFSJq4PIxcPvfKvED4A4HZ3n2awkFytlYeM4dlQurrB03ywtoET8pMf7O5KeK0Yh2xH-m6M3TGDr50857PwOxDz8bVj3LRLlEstAs7Bb5Q1CpMaFuF6xozMydMiq0pYMgRn_guntbWkYSCDTzaYrZONIXqqvFEWhO1ixuISkB-SBXiqRcLJjDHmNeD8OKlmABqtIOSNXBDCjAOVrUn2oXwEwYQzVd5y4INN8iJRvbVUwpPP6-HVaF1wIZB6gvSahcKh2u-n2w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">تبریک به برندگان عزیز قرعه‌کشی
 (دوره پنجم و ششم)
@@ -861,7 +861,7 @@ Xray
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2904">
@@ -890,7 +890,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/iaghapour/2904" target="_blank">📅 17:55 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2903">
@@ -933,7 +933,7 @@ my.gov.ir
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/iaghapour/2903" target="_blank">📅 16:01 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2901">
@@ -1036,12 +1036,12 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2897">
 <div class="tg-post-header">📌 پیام #81</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OpMmnVA_PLH16JXZh3uhP7yMNq3HA9_JZzKV_A2fPNy-Z0cEQZ8cXX8Ag_thRjOyo-AQ6550hsh2i1b8wPIZeXSerc6Gs9gEA3Yx14KzyMtdS5eXwKtRS7Kyd1tk4-DBmLH1p-Tx5BbJBbMfxl3oiBlOEa6rZgBT9mPill0QmydoPwA65LivGLPPMEXHa4ixQGxSu2mEtUjzMRrnP5Cl4Dm5nQVaEUvhwaG3s38N0u8j-SWNXjmCv0JeW0DKDOizFcf2ybWCw7cLhxSYDqEQEc15UYb9bWReiMUAR72OGoxLItmxgnwuEa0AOAkIsYBRYFW9cKDXiVsrAcnTnxXlSQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cB7hfgIWp2LSL-hJa9AkfXZVWBS5G42sPrXF_bed1imO_V7DcfAfYpg7mR4-UMz9jpaA01OXNjyBfDWDFhWVRU-hBYUPZ4Shie0hKdcij5luiBr83qPR4X78AUqOaWd3FwSq-qxw5jyWuWUpe6ZRej1ctuF6mxpzNVyqs-sMgtLUkkkEKV00_2QqbADNDq9abeVkLy0hw-DhXOcUa0MB5v4xKfHqdtNOHLs81T8CGJPFvtmEg0JxSaF107MtbEEoH09oiom9wm8nlPCmxw6_EbCQODcxrs8WkQ6hVpEGj9kmYwGVf4VcbSa3dIEtD7GMllu3dSvI5H8sKtX_0DLFig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کدنویسی در سال ۲۰۲۶ :)</div>
 <div class="tg-footer">👁️ 12.4K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
 </div>
@@ -1092,7 +1092,7 @@ BFI
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/iaghapour/2894" target="_blank">📅 14:41 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2892">
@@ -2176,7 +2176,7 @@ Xray-core
 با وجود این موضوع، توسعه‌دهندگان ساکن این مناطق به‌دلیل عدم امکان احراز هویت، نمی‌توانند اپ‌های خود را در بازار بین‌المللی منتشر کنند. با اجرای این طرح، اپ‌های توسعه‌دهندگان ایرانی فقط روی گوشی‌های مستقر در مناطق تحریم‌شده به راحتی قابل نصب خواهند بود. اگر کاربری در اروپا یا آمریکا بخواهد برنامه‌ای از یک توسعه‌دهنده ایرانی تأییدنشده را نصب کند، با سد محکم سیستم‌عامل مواجه می‌شود./دیجیاتو
 🆔
 @iAghapour</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/iaghapour/2834" target="_blank">📅 16:26 · 10 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2832">
