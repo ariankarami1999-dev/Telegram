@@ -292,7 +292,7 @@
 <a href="https://t.me/Futball180TV" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 In the name of God; The only popular sports channel on Telegram: All for Iran...🖤We respect the copyright laws and follow the laws, Mr.@Durov...🙏🌹Contact ads:@TivaAds</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 23:21:26</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 23:49:18</div>
 <hr>
 
 <div class="tg-post" id="msg-104608">
@@ -308,7 +308,7 @@
 گل‌دوم چلسی به فولام توسط مورگان راجرز
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 1.22K · <a href="https://t.me/Futball180TV/104608" target="_blank">📅 23:17 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.68K · <a href="https://t.me/Futball180TV/104608" target="_blank">📅 23:17 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104607">
@@ -330,7 +330,7 @@
 درگیری شدید هواداران در دربی خوزستان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/Futball180TV/104607" target="_blank">📅 23:10 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.81K · <a href="https://t.me/Futball180TV/104607" target="_blank">📅 23:10 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104606">
@@ -346,7 +346,7 @@
 گل‌اول فولام به چلسی توسط جاشوآ کینگ
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 4.04K · <a href="https://t.me/Futball180TV/104606" target="_blank">📅 23:04 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.22K · <a href="https://t.me/Futball180TV/104606" target="_blank">📅 23:04 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104605">
@@ -362,7 +362,7 @@
 گل‌اول چلسی به فولام توسط ژائو پدرو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.39K · <a href="https://t.me/Futball180TV/104605" target="_blank">📅 22:36 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.1K · <a href="https://t.me/Futball180TV/104605" target="_blank">📅 22:36 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104604">
@@ -373,7 +373,7 @@
 نتایج‌‌بازی‌های این‌هفته لیگ‌برتر فوتبال ایران
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 6.42K · <a href="https://t.me/Futball180TV/104604" target="_blank">📅 22:35 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.11K · <a href="https://t.me/Futball180TV/104604" target="_blank">📅 22:35 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104603">
@@ -392,7 +392,7 @@
 هستیم؛ حق تراکتور کسب سه امتیاز بود.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/Futball180TV/104603" target="_blank">📅 22:05 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/Futball180TV/104603" target="_blank">📅 22:05 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104602">
@@ -403,7 +403,7 @@
 کری‌خوانی صفحه تراکتور برای پرسپولیس
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/Futball180TV/104602" target="_blank">📅 21:50 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/Futball180TV/104602" target="_blank">📅 21:50 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104601">
@@ -420,7 +420,7 @@
 پاس گل رامین‌رضاییان در بازی امشب فولاد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/104601" target="_blank">📅 21:22 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/104601" target="_blank">📅 21:22 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104600">
@@ -438,7 +438,7 @@
 خداداد عزیزی: بیرانوند از مهرماه سرباز است؟ قسم می خورم خبر ندارم/ ما علی بیرو را خواهیم داشت به امید خدا!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/104600" target="_blank">📅 21:19 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/104600" target="_blank">📅 21:19 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104599">
@@ -449,7 +449,7 @@
 هفته‌اول پریمیرلیگ؛ ترکیب چلسی مقابل فولام؛ ساعت ۲۲:۳۰ شبکه‌ورزش
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/Futball180TV/104599" target="_blank">📅 21:18 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/104599" target="_blank">📅 21:18 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104598">
@@ -470,7 +470,7 @@
 دلیل بازی نکردن ارونوف و سرگیف؟ این به کادر فنی مربوط است و دلایل فنی داشت
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/104598" target="_blank">📅 21:09 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/104598" target="_blank">📅 21:09 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104597">
@@ -490,7 +490,7 @@
 تارتار: به خاطر شکست امروز از هواداران عذرخواهی می کنم
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/104597" target="_blank">📅 21:08 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/104597" target="_blank">📅 21:08 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104596">
@@ -511,7 +511,7 @@
 اگر کسی معاملات ایران را تسهیل کند و بخشی از شبکه‌ای باشد که نفت ایران را به پول و سپس ابزاری برای سرکوب تبدیل می‌کند، هدف تحریم‌ها قرار خواهد گرفت.»
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/104596" target="_blank">📅 20:55 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/104596" target="_blank">📅 20:55 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104595">
@@ -536,7 +536,7 @@
 و خطاب به کسانی که به تهران کمک کرده‌اند: هزینه آزمودن عزم واشنگتن را دست‌کم نگیرید.»
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/104595" target="_blank">📅 20:55 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/104595" target="_blank">📅 20:55 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104594">
@@ -554,7 +554,7 @@
 گل‌تماشایی گل‌گهر در بازی با چادرملو
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/104594" target="_blank">📅 20:52 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/Futball180TV/104594" target="_blank">📅 20:52 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104593">
@@ -568,7 +568,7 @@
 توییت کنایه‌آمیز استقلال بعد از باخت امشب تیم‌فوتبال پرسپولیس در تبریز
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/Futball180TV/104593" target="_blank">📅 20:48 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/Futball180TV/104593" target="_blank">📅 20:48 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104592">
@@ -588,7 +588,7 @@
 سوپرگل‌بخودی پشم‌ریزون ذوب‌آهن در بازی امشب مقابل ذوب‌آهن اصفهان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/104592" target="_blank">📅 20:46 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/104592" target="_blank">📅 20:46 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104591">
@@ -609,7 +609,7 @@
 🇮🇷
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/104591" target="_blank">📅 20:36 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/104591" target="_blank">📅 20:36 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104590">
@@ -630,7 +630,7 @@
 🇮🇷
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/104590" target="_blank">📅 20:31 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/104590" target="_blank">📅 20:31 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104589">
@@ -643,7 +643,7 @@
 گل اول تراکتور به پرسپولیس توسط اشترکالی روی اشتباه دانیال ایری(89)
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/104589" target="_blank">📅 20:29 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/104589" target="_blank">📅 20:29 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104588">
@@ -663,19 +663,19 @@
 گل اول تراکتور به پرسپولیس توسط اشترکالی روی اشتباه دانیال ایری(89)
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/104588" target="_blank">📅 20:27 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/104588" target="_blank">📅 20:27 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104587">
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">تراکتور زدددد</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/104587" target="_blank">📅 20:26 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/104587" target="_blank">📅 20:26 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104586">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-text">گلگلگلگلگلگگلگلگلگگلگل</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/104586" target="_blank">📅 20:26 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/104586" target="_blank">📅 20:26 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104585">
@@ -690,7 +690,7 @@
 از رومانو: کودی‌گاکپو ستاره هلندی لیورپول در تیررس منچسترسیتی قرار گرفته و مذاکرات جدی در حال انجامه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/104585" target="_blank">📅 20:21 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/104585" target="_blank">📅 20:21 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104584">
@@ -700,7 +700,7 @@
 ۷۰ دقیقه کسشر خالص از صداوسیما پخش شده
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/104584" target="_blank">📅 20:04 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/104584" target="_blank">📅 20:04 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104583">
@@ -713,7 +713,7 @@
 بنیامین‌نتانیاهو: در روزهای اخیر ایران تلاش کرد که یکی از اعضای خانواده‌ام را ترور کند که در نهایت ناموفق بود
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/104583" target="_blank">📅 19:59 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/104583" target="_blank">📅 19:59 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104582">
@@ -730,7 +730,7 @@
 فرصت‌سوزی پشم‌ریزون امیرحسین حسین‌زاده
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/104582" target="_blank">📅 19:49 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/104582" target="_blank">📅 19:49 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104581">
@@ -750,7 +750,7 @@
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/104581" target="_blank">📅 19:49 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/104581" target="_blank">📅 19:49 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104580">
@@ -762,7 +762,7 @@
 رامین‌رضاییان در ترکیب فولاد خوزستان مقابل نفت‌آبادان با شماره پیراهن 69
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/104580" target="_blank">📅 19:41 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/104580" target="_blank">📅 19:41 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104579">
@@ -781,7 +781,7 @@
 خلاصه نیمه اول مسابقه
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/Futball180TV/104579" target="_blank">📅 19:37 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/Futball180TV/104579" target="_blank">📅 19:37 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104578">
@@ -800,7 +800,7 @@
 مهدی تارتار، سرمربی پرسپولیس پیش از بازی با تراکتور در استادیوم خالی از تماشاگر سهند تبریز، مشغول مترکردن زمین و بررسی چمن استادیوم بود.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/104578" target="_blank">📅 19:00 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/104578" target="_blank">📅 19:00 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104577">
@@ -815,7 +815,7 @@
 منچستریونایتد فقط به دنبال جذب بالده به صورت قرضی با بند خرید است اما بارسلونا می‌خواهد بالده را با مبلغی حدود ۳۰ تا ۴۰ میلیون یورو به فروش برساند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/104577" target="_blank">📅 18:44 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/104577" target="_blank">📅 18:44 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104576">
@@ -832,7 +832,7 @@
 خوش و بش گرم بازیکنان پرسپولیس و تراکتور در تونل ورزشگاه یادگار امام
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/104576" target="_blank">📅 18:26 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/104576" target="_blank">📅 18:26 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104575">
@@ -849,7 +849,7 @@
 »
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/104575" target="_blank">📅 18:13 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/104575" target="_blank">📅 18:13 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104574">
@@ -871,7 +871,7 @@
 کمال کامیابی نیا: تراکتور، پرسپولیس ب است
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/Futball180TV/104574" target="_blank">📅 17:58 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/104574" target="_blank">📅 17:58 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104573">
@@ -881,7 +881,7 @@
 ویدیو باشگاه استقلال از تقابل دیشب با سپاهان و برتری قاطع آبی‌پوشان
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/Futball180TV/104573" target="_blank">📅 17:56 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/Futball180TV/104573" target="_blank">📅 17:56 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104572">
@@ -900,7 +900,7 @@
 حرکت فوق‌العاده خشن و جنجالی در لیگ‌فوتبال اندونزی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/104572" target="_blank">📅 17:36 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/104572" target="_blank">📅 17:36 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104571">
@@ -930,7 +930,7 @@
 فرصت را از دست ندهید! همین حالا پیش‌بینی خود را ثبت کنید و از بونوس‌های ویژهٔ Betegram بهره‌مند شوید.
 🔵
 http://betegram.com/affiliates?btag=3_l7</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/104571" target="_blank">📅 17:36 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/104571" target="_blank">📅 17:36 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104570">
@@ -940,7 +940,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 شماتیک ترکیب پرسپولیس مقابل تراکتور
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/104570" target="_blank">📅 17:35 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/104570" target="_blank">📅 17:35 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104569">
@@ -953,7 +953,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 ترکیب پرسپولیس مقابل تراکتور
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/Futball180TV/104569" target="_blank">📅 17:31 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/104569" target="_blank">📅 17:31 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104568">
@@ -966,7 +966,7 @@ http://betegram.com/affiliates?btag=3_l7</div>
 ترکیب پرسپولیس مقابل تراکتور
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/104568" target="_blank">📅 17:30 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/104568" target="_blank">📅 17:30 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104567">
@@ -982,7 +982,7 @@ g2
 ⚽
 @Tabanii_Mafia
 @Tabanii_Mafia</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/Futball180TV/104567" target="_blank">📅 17:30 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/Futball180TV/104567" target="_blank">📅 17:30 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104566">
@@ -994,7 +994,7 @@ g2
 ✅
 ✈️
 @Tabanii_Mafia</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/Futball180TV/104566" target="_blank">📅 17:30 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/Futball180TV/104566" target="_blank">📅 17:30 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104565">
@@ -1009,7 +1009,7 @@ g2
 علیرضا بیرانوند، شجاع خلیل‌زاده، محمد دانشگر، مهدی شیری، دانیال اسماعیلی‌فر، محمد نادری، سید مهدی حسینی، اودیل‌جان خامروبکوف، امیرحسین حسین‌زاده، مسعود زائر کاظمینی و شهریار مغانلو.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/104565" target="_blank">📅 17:13 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/104565" target="_blank">📅 17:13 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104564">
@@ -1022,7 +1022,7 @@ g2
 براساس گزارش‌های غیررسمی منابع اسپانیایی، گاوی بدلیل مصدومیت در بازی امشب بارسلونا بین ۴ تا ۶ هفته غایبه!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/Futball180TV/104564" target="_blank">📅 17:03 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/104564" target="_blank">📅 17:03 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104563">
@@ -1038,7 +1038,7 @@ g2
 😂
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/104563" target="_blank">📅 16:55 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/Futball180TV/104563" target="_blank">📅 16:55 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104562">
@@ -1055,7 +1055,7 @@ g2
 فصل جدید اروپا، سیس جدید بازیکنان.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/Futball180TV/104562" target="_blank">📅 16:31 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/104562" target="_blank">📅 16:31 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104561">
@@ -1073,7 +1073,7 @@ g2
 افشاگری پشم‌ریزون از پیشنهادهای سایت شرط‌‌بندی به حنیف قبل از دربی؛ ۲میلیون دلار در ازای اخراج در دربی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/Futball180TV/104561" target="_blank">📅 16:31 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/Futball180TV/104561" target="_blank">📅 16:31 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104560">
@@ -1090,7 +1090,7 @@ g2
 صحبت‌های مارسکا پس از بازی دیروز که نشون میده به دنبال جذب یه رودری جدید میگرده!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/Futball180TV/104560" target="_blank">📅 16:05 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/Futball180TV/104560" target="_blank">📅 16:05 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104559">
@@ -1101,7 +1101,7 @@ g2
 ریدمان‌های اخیر اینترمیامی با لیونل‌مسی
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/Futball180TV/104559" target="_blank">📅 15:40 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/104559" target="_blank">📅 15:40 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104558">
@@ -1118,7 +1118,7 @@ g2
 👀
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/Futball180TV/104558" target="_blank">📅 15:15 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/Futball180TV/104558" target="_blank">📅 15:15 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104557">
@@ -1135,7 +1135,7 @@ g2
 عملکرد فوق ریدمان لامین‌یامال مقابل الچه!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/Futball180TV/104557" target="_blank">📅 14:50 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/104557" target="_blank">📅 14:50 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104556">
@@ -1153,7 +1153,7 @@ g2
 تفاوت اعتراض رئال مادرید و بارسلونا از نگاه خاویر تباس رئیس لالیگا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/104556" target="_blank">📅 14:25 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/Futball180TV/104556" target="_blank">📅 14:25 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104555">
@@ -1166,7 +1166,7 @@ g2
 سانسور ستاره لوگو باشگاه پرسپولیس در پوستر اعلامی باشگاه استقلال برای سه‌بازی آینده آبی‌پوشان پایتخت در لیگ‌برتر
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/Futball180TV/104555" target="_blank">📅 14:14 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/Futball180TV/104555" target="_blank">📅 14:14 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104554">
@@ -1183,7 +1183,7 @@ g2
 هوادار ایرانی رئال‌مادرید بعد اولین بردشون:
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/104554" target="_blank">📅 14:01 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/104554" target="_blank">📅 14:01 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104553">
@@ -1195,7 +1195,7 @@ g2
 بیلدآلمان: باشگاه بارسلونا پرونده جذب احتمالی سرهو گیراسی مهاجم دورتمند را بدلیل دستمزد بالای این بازیکن منتفی می‌داند
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/104553" target="_blank">📅 13:58 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/Futball180TV/104553" target="_blank">📅 13:58 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104552">
@@ -1214,7 +1214,7 @@ g2
 پرچم تکان دادن عجیب و غریب ترامپ برای استارت یک مسابقه در واشنگتن!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/104552" target="_blank">📅 13:43 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/104552" target="_blank">📅 13:43 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104551">
@@ -1232,7 +1232,7 @@ g2
 زمانی که رائفی‌پور (آذرماه ۱۳۹۸) این صحبت‌های مضحک را بیان کرد، قیمت دلار حدود ۱۳ هزار تومان بود و حالا ۲ شهریور ۱۴۰۵ قیمت دلار از ۲۰۰ هزار تومان نیز عبور کرده است! یعنی بیش از ۱۵ برابر شده ..
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/104551" target="_blank">📅 13:35 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/Futball180TV/104551" target="_blank">📅 13:35 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104550">
@@ -1251,7 +1251,7 @@ g2
 سوپرگل پشم‌ریزون نامزد پوشکاش در بازی بامداد امروز در لیگ MLS
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/104550" target="_blank">📅 13:21 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/Futball180TV/104550" target="_blank">📅 13:21 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104549">
@@ -1270,7 +1270,7 @@ g2
 وقتی ۵۰ هزار نفر هوادار حریف علیه تو سوت میزنند، حتی صدای خودت را هم نمی‌شنوی! اما دقیقاً به خاطر همین چیزهاست که ما عاشق فوتبال هستیم؛ به خاطر همین است که من عاشق فوتبالم.»
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/104549" target="_blank">📅 13:10 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/Futball180TV/104549" target="_blank">📅 13:10 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104548">
@@ -1281,7 +1281,7 @@ g2
 رستم‌آشورماتوف که در پایان بازی با لنگیدن از ورزشگاه خارج شد، مشکلی برای بازی بعدی استقلال مقابل فولاد خوزستان ندارد
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/Futball180TV/104548" target="_blank">📅 13:04 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/Futball180TV/104548" target="_blank">📅 13:04 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104547">
@@ -1290,7 +1290,7 @@ g2
 صحبت‌های جالب و شنیدنی نوید استاد‌رحیمی درباره فوتبال این‌روزهای پرسپولیس تارتار
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/Futball180TV/104547" target="_blank">📅 12:45 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/Futball180TV/104547" target="_blank">📅 12:45 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104546">
@@ -1308,7 +1308,7 @@ g2
 😳
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/104546" target="_blank">📅 12:18 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/Futball180TV/104546" target="_blank">📅 12:18 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104545">
@@ -1327,7 +1327,7 @@ g2
 نگاه خشمگین امیر عرب براقی، داور بازی حساس امروز به شعار یک هوادار در فرودگاه تبریز که او را داور پرسپولیسی خطاب میکند!⁩
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/Futball180TV/104545" target="_blank">📅 11:51 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/Futball180TV/104545" target="_blank">📅 11:51 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104544">
@@ -1338,7 +1338,7 @@ g2
 آخرین قیمت طلا و دلار و سکه در بازار
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/Futball180TV/104544" target="_blank">📅 11:41 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/Futball180TV/104544" target="_blank">📅 11:41 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104543">
@@ -1354,7 +1354,7 @@ g2
 در اتلتیکو اتفاقات دیروز در واندا متروپولیتانو را «یک مسخره‌بازی» توصیف می‌کنند و امیدوارند بازار نقل‌وانتقالات هرچه زودتر تمام شود. منابع بارسلونا می‌گویند همچنان شرایط خولیان را زیر نظر دارند و آماده‌اند تا آخرین لحظه پنجره نقل‌وانتقالات منتظر بمانند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/Futball180TV/104543" target="_blank">📅 11:24 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/Futball180TV/104543" target="_blank">📅 11:24 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104542">
@@ -1367,7 +1367,7 @@ g2
 سانسور ستاره لوگو باشگاه پرسپولیس در پوستر اعلامی باشگاه استقلال برای سه‌بازی آینده آبی‌پوشان پایتخت در لیگ‌برتر
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/Futball180TV/104542" target="_blank">📅 11:19 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/Futball180TV/104542" target="_blank">📅 11:19 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104541">
@@ -1382,7 +1382,7 @@ g2
 حرکت منشوری و عجیب عارف حاجی‌عیدی هافبک سپاهان پس از بازی دیشب خطاب به هواداران استقلال
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/Futball180TV/104541" target="_blank">📅 11:15 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/104541" target="_blank">📅 11:15 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104540">
@@ -1394,7 +1394,7 @@ g2
 پوستر باشگاه پرسپولیس برای بازی امروز
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/Futball180TV/104540" target="_blank">📅 11:12 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/Futball180TV/104540" target="_blank">📅 11:12 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104539">
@@ -1425,7 +1425,7 @@ g2
 ✌️
 ✔
 https://t.me/+x60dZGAgXTUxM2U0</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/Futball180TV/104539" target="_blank">📅 11:12 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/Futball180TV/104539" target="_blank">📅 11:12 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104538">
@@ -1468,7 +1468,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 r2
 ✔
 https://t.me/+x60dZGAgXTUxM2U0</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/Futball180TV/104538" target="_blank">📅 11:12 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/Futball180TV/104538" target="_blank">📅 11:12 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104537">
@@ -1486,7 +1486,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 دوباره بیرانوند - پرسپولیس به هم رسیدند
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/Futball180TV/104537" target="_blank">📅 11:05 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/Futball180TV/104537" target="_blank">📅 11:05 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104536">
@@ -1503,7 +1503,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 ویدیو وایرال‌شده از تفاوت صحبت‌های تارتار و وحید هاشمیان در مطالبه‌گری از مدیریت!
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/Futball180TV/104536" target="_blank">📅 10:40 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/Futball180TV/104536" target="_blank">📅 10:40 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104535">
@@ -1520,7 +1520,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 عملکرد درخشان یاسر‌آسانی در بازی‌دیشب
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/Futball180TV/104535" target="_blank">📅 10:15 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/Futball180TV/104535" target="_blank">📅 10:15 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104534">
@@ -1536,7 +1536,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 ❗️
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/Futball180TV/104534" target="_blank">📅 09:50 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/Futball180TV/104534" target="_blank">📅 09:50 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104533">
@@ -1554,7 +1554,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 🔥
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/Futball180TV/104533" target="_blank">📅 09:25 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/Futball180TV/104533" target="_blank">📅 09:25 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104532">
@@ -1575,7 +1575,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 حرکت منشوری و عجیب عارف حاجی‌عیدی هافبک سپاهان پس از بازی دیشب خطاب به هواداران استقلال
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/Futball180TV/104532" target="_blank">📅 09:02 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/Futball180TV/104532" target="_blank">📅 09:02 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104531">
@@ -1600,7 +1600,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 😐
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/Futball180TV/104531" target="_blank">📅 02:13 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/Futball180TV/104531" target="_blank">📅 02:13 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104530">
@@ -1625,7 +1625,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 #فوووووری از نیکولا‌شیرا: بارسلونا در ۷ روز پایانی نقل‌وانتقالات تلاش فراوانی برای جذب خولیان آلوارز انجام خواهد داد. این بازیکن با بارسلونا تا سال ۲۰۳۱ به توافق نهایی دست یافته
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/Futball180TV/104529" target="_blank">📅 01:29 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/Futball180TV/104529" target="_blank">📅 01:29 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104528">
@@ -1640,7 +1640,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 از نیکولا‌شیرا: بارسلونا در ۷ روز پایانی نقل‌وانتقالات تلاش فراوانی برای جذب خولیان آلوارز انجام خواهد داد. این بازیکن با بارسلونا تا سال ۲۰۳۱ به توافق نهایی دست یافته
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/Futball180TV/104528" target="_blank">📅 01:21 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/Futball180TV/104528" target="_blank">📅 01:21 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104527">
@@ -1688,7 +1688,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 الچه صفر - بارسلونا پنج
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/Futball180TV/104524" target="_blank">📅 01:00 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/Futball180TV/104524" target="_blank">📅 01:00 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104523">
@@ -1712,7 +1712,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-text">این الچه بنظر خیلییییییییییی بیش از حد تصور کیری میاد. دفاع کردن بلد نیستن اصن
 😐
 😐</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/Futball180TV/104522" target="_blank">📅 00:44 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/Futball180TV/104522" target="_blank">📅 00:44 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104521">
@@ -1734,19 +1734,19 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 🔥
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/Futball180TV/104520" target="_blank">📅 00:37 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/Futball180TV/104520" target="_blank">📅 00:37 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104519">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">گلگلگلگلگلگل چهارممممم بارسلونااااا</div>
-<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/Futball180TV/104519" target="_blank">📅 00:36 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/Futball180TV/104519" target="_blank">📅 00:36 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104518">
 <div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">گلگلگلگلگلگل چهارممممم بارسلونااااا</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/Futball180TV/104518" target="_blank">📅 00:35 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/Futball180TV/104518" target="_blank">📅 00:35 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104517">
@@ -1762,7 +1762,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 🔥
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/Futball180TV/104517" target="_blank">📅 00:35 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/Futball180TV/104517" target="_blank">📅 00:35 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104516">
@@ -1782,7 +1782,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 تمسخر گویش کنعانی‌زادگان توسط هوادار تراکتور: تونستید بایسا و یئال رو ببرید؟
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/Futball180TV/104516" target="_blank">📅 00:30 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/Futball180TV/104516" target="_blank">📅 00:30 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104515">
@@ -1805,26 +1805,26 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/bb0b5f685e.mp4?token=UG0v5dHDHA1uoaLjMwZQmsDROYgrDR7_k_lpOxUn2HAL63RJyO-4u4Wh7RCyo9KwE0J9j7AVu4Z4pmJfudO0pR71vGIJaPGmRxXV7X_qN_Q79iqtAar2DX6wsHCx90ICit2nNEhfspm975zmaNVN95Mc4qEUdUd8iFBGZ_KBIPICcaZDfLGTGsmG3hXmjy64DUO2MCn4eUpGMK7xwIzoZlvDITpUSstGrJBxTFNW7x3HE1wBKNzEvga1XxRT34sGn4XzTNT-MCwRbspsvMx1LG5I7EjWijdejxPUQBYeFebNzhkXE4t5Ysrd2sv3a6Hysp0fLKUdzKNHpKwgpkyhU4i-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/bb0b5f685e.mp4?token=AJZSm-tzsax8VhHItSmPkbNKYbdZXLSCiHgnvZvBBhyJM9Q2ympw3UAGpZOZE3kCxXJ2cVB7E4U7hllQT7KYEPQf6Wy4MfW0E0ulQTnGijveO9oZQitTUOpnvf8kuF5jeC3enD_00LNRwL-BJRWlRKuYSQthdrqzrRYFwaug8WniymQ1goTdiNVVTBynh5YHJiAnfo1G7EouUKLclw693DY_9iItkIR56IikJ1CQZ__vLYUOYCR0_Shvpz1ODSARgXX4nMBGJtmeiAKk3kgMaGbID_DbLx5taXF0bEViSJAoD6cJhF_MMoWobO0OOu8UvtpQ0pPGskmYCOFmvqChhoi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/bb0b5f685e.mp4?token=UG0v5dHDHA1uoaLjMwZQmsDROYgrDR7_k_lpOxUn2HAL63RJyO-4u4Wh7RCyo9KwE0J9j7AVu4Z4pmJfudO0pR71vGIJaPGmRxXV7X_qN_Q79iqtAar2DX6wsHCx90ICit2nNEhfspm975zmaNVN95Mc4qEUdUd8iFBGZ_KBIPICcaZDfLGTGsmG3hXmjy64DUO2MCn4eUpGMK7xwIzoZlvDITpUSstGrJBxTFNW7x3HE1wBKNzEvga1XxRT34sGn4XzTNT-MCwRbspsvMx1LG5I7EjWijdejxPUQBYeFebNzhkXE4t5Ysrd2sv3a6Hysp0fLKUdzKNHpKwgpkyhU4i-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/bb0b5f685e.mp4?token=AJZSm-tzsax8VhHItSmPkbNKYbdZXLSCiHgnvZvBBhyJM9Q2ympw3UAGpZOZE3kCxXJ2cVB7E4U7hllQT7KYEPQf6Wy4MfW0E0ulQTnGijveO9oZQitTUOpnvf8kuF5jeC3enD_00LNRwL-BJRWlRKuYSQthdrqzrRYFwaug8WniymQ1goTdiNVVTBynh5YHJiAnfo1G7EouUKLclw693DY_9iItkIR56IikJ1CQZ__vLYUOYCR0_Shvpz1ODSARgXX4nMBGJtmeiAKk3kgMaGbID_DbLx5taXF0bEViSJAoD6cJhF_MMoWobO0OOu8UvtpQ0pPGskmYCOFmvqChhoi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🇫🇷
 گلزنی فران‌تورس در بازی امشب پاری‌سن‌ژرمن
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/Futball180TV/104514" target="_blank">📅 23:50 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/Futball180TV/104514" target="_blank">📅 23:50 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104513">
 <div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/50615b177d.mp4?token=SHRZQ9l_wTx9irEOQAnXhREeAKRSmEEn2eR1BLzGdrrdSPEZZYAua9SKLkcDLTdZBcE0gTkBAKJL_hmYVloXG6FpB7S0O3erQhZaUgmRlIWtl2scatyLoy8FhZpCPk8Ud4SjGfo6X6c1SBoNPA4k34GAiXrVFqOmSl_o_o2Yp_iJiXP9C5Kvbk94KxpSN-hFGXxqcYkoSPtRd4ilCw19qSPW4x9R5gc2qEJbwg79rzCdcTC9KdVJLvISKDYgHyVABgkxgCEfAmJMd6LhqVFshrLC8-a2BIY1UxjROsbub-MCqixryHr5cyn78TlTt7oyIRvBg6GJqs9g6EbmAwKp51EBQVNHA2b7xoAt6zYMM54nJenAiKtBDT3AZBTLgIL43npDPTzNWWrNx1yv2JgJoyi9vRradqi8ZZbLruc3GUeggFuEstXbTan2vmHa_t42lAqaYXEFOqRgnnwHeTV39m1nWsdQxUBwG9fR0KgT4yWYG0KR8ymXuMKzWu5BNq1hapKG36nJ_PLggXbYHPNkhNZXpENN6DsGUVF-60hUTWyy1iiG7G7rNQxVVupOvpNNIDYLCZ5bZlee6IEQOyZjBdVWmH0Q0O8qyvFz3OqTMQHaDGXvwrYlq8x7XT4FPwgV1Usr6KN2xV4g38aAMboud45qRLbv70YHTTwk7ig6ZZo" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/50615b177d.mp4?token=h8qvuD5_URq8QqStk2vRY9hlP3ccmEcuiKHAILZP5lHU7pT_JFwoREIgFD28LyTk-aZzWt49O4UtCpjKlgMneAyK6sNfeTJ3ZiTol3qKo7MhsoMQiRR0h2byzMFRz0u79ySIMZKxKHNCBmXwc1tFzxH2vMYU4hC3zwK4fpoa_emxujP5ITRQYlq_rBeH_Hnwf1Kz3aGDQc2lkK4nxSSHTIF2G57jrVLIku2dpkAHs-WSGDzmDxqarsmWtYfEogTKWMz98eVMFHKWO-99FPwsOgPXmugFxe5Ad-ZGV6_0Ib9b-kSm3iJTTRlQSKK3voB1d0ffn3XxCPF3Kty1MrE1T7tukBmVBTPgVqKmz3leJ3FVpplMmOs2rkKLzwPWod75c3Z9-qg3EapUgY5ZXnB_KtZvKrAicD6NGjBejvULs1JmQTUTTaazIjrTSKyKLHnUGgRouHvFbpnEGSaK6HDII0Cnp5hd7P3RcdRvwhY9wl2nLmTIRDsLUmWZoH7SR0qysZ_h7_oZJ6cYF0G8ZgbrnFHaEvihVo5LFzeuYCBHF6uBFN_liLH2blVyFnrhZOGyJgoK-ykA_rb1afbJm4YIulliuLLZr4UH1Y7KPt0qcNz-F_YVJ_eVEQQ8lQZNJj6yFsRyWFcqLBFMFSusMVEBlAkG_hhA1aRA_uC447hC2Jo" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/50615b177d.mp4?token=SHRZQ9l_wTx9irEOQAnXhREeAKRSmEEn2eR1BLzGdrrdSPEZZYAua9SKLkcDLTdZBcE0gTkBAKJL_hmYVloXG6FpB7S0O3erQhZaUgmRlIWtl2scatyLoy8FhZpCPk8Ud4SjGfo6X6c1SBoNPA4k34GAiXrVFqOmSl_o_o2Yp_iJiXP9C5Kvbk94KxpSN-hFGXxqcYkoSPtRd4ilCw19qSPW4x9R5gc2qEJbwg79rzCdcTC9KdVJLvISKDYgHyVABgkxgCEfAmJMd6LhqVFshrLC8-a2BIY1UxjROsbub-MCqixryHr5cyn78TlTt7oyIRvBg6GJqs9g6EbmAwKp51EBQVNHA2b7xoAt6zYMM54nJenAiKtBDT3AZBTLgIL43npDPTzNWWrNx1yv2JgJoyi9vRradqi8ZZbLruc3GUeggFuEstXbTan2vmHa_t42lAqaYXEFOqRgnnwHeTV39m1nWsdQxUBwG9fR0KgT4yWYG0KR8ymXuMKzWu5BNq1hapKG36nJ_PLggXbYHPNkhNZXpENN6DsGUVF-60hUTWyy1iiG7G7rNQxVVupOvpNNIDYLCZ5bZlee6IEQOyZjBdVWmH0Q0O8qyvFz3OqTMQHaDGXvwrYlq8x7XT4FPwgV1Usr6KN2xV4g38aAMboud45qRLbv70YHTTwk7ig6ZZo" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/50615b177d.mp4?token=h8qvuD5_URq8QqStk2vRY9hlP3ccmEcuiKHAILZP5lHU7pT_JFwoREIgFD28LyTk-aZzWt49O4UtCpjKlgMneAyK6sNfeTJ3ZiTol3qKo7MhsoMQiRR0h2byzMFRz0u79ySIMZKxKHNCBmXwc1tFzxH2vMYU4hC3zwK4fpoa_emxujP5ITRQYlq_rBeH_Hnwf1Kz3aGDQc2lkK4nxSSHTIF2G57jrVLIku2dpkAHs-WSGDzmDxqarsmWtYfEogTKWMz98eVMFHKWO-99FPwsOgPXmugFxe5Ad-ZGV6_0Ib9b-kSm3iJTTRlQSKK3voB1d0ffn3XxCPF3Kty1MrE1T7tukBmVBTPgVqKmz3leJ3FVpplMmOs2rkKLzwPWod75c3Z9-qg3EapUgY5ZXnB_KtZvKrAicD6NGjBejvULs1JmQTUTTaazIjrTSKyKLHnUGgRouHvFbpnEGSaK6HDII0Cnp5hd7P3RcdRvwhY9wl2nLmTIRDsLUmWZoH7SR0qysZ_h7_oZJ6cYF0G8ZgbrnFHaEvihVo5LFzeuYCBHF6uBFN_liLH2blVyFnrhZOGyJgoK-ykA_rb1afbJm4YIulliuLLZr4UH1Y7KPt0qcNz-F_YVJ_eVEQQ8lQZNJj6yFsRyWFcqLBFMFSusMVEBlAkG_hhA1aRA_uC447hC2Jo" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🚨
 ‼️
@@ -1833,7 +1833,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 تعدادی از هواداران تیم تراکتور مقابل هتل محل اقامت پرسپولیس تجمع کرده و شعارهایی سر دادند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/Futball180TV/104513" target="_blank">📅 23:49 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/Futball180TV/104513" target="_blank">📅 23:49 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104512">
@@ -1849,7 +1849,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 گل‌اول بارسلونا به الچه توسط رافینیا
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/Futball180TV/104512" target="_blank">📅 23:26 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/Futball180TV/104512" target="_blank">📅 23:26 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104511">
@@ -1897,7 +1897,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 من هرگز صحبتی از پنجره بسته نکرده‌ام چون اول فصل گفتم که بازیکنانم را باور دارم و تجربه نشان داده تیم‌هایی بوده‌اند که با نفرات کم، نتایج بزرگی گرفته‌اند.
 ⚽️
 @Futball180TV</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/Futball180TV/104509" target="_blank">📅 22:37 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/Futball180TV/104509" target="_blank">📅 22:37 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-104508">
