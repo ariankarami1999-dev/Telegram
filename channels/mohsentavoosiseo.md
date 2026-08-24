@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 18:02:38</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 18:59:39</div>
 <hr>
 
 <div class="tg-post" id="msg-916">
@@ -305,7 +305,7 @@ March 2015!
 114 فاکتور رتبه بندی در گوگل
 https://www.linkedin.com/pulse/114-%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%B1%D8%AA%D8%A8%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D8%AF%D8%B1-%DA%AF%D9%88%DA%AF%D9%84-mohsen-tavoosi
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.17K · <a href="https://t.me/mohsentavoosiseo/916" target="_blank">📅 16:11 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/mohsentavoosiseo/916" target="_blank">📅 16:11 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-914">
@@ -362,13 +362,13 @@ booking.com
 🟢
 اطلاعات بیشتر در info کانال(bio)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.38K · <a href="https://t.me/mohsentavoosiseo/914" target="_blank">📅 12:46 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/mohsentavoosiseo/914" target="_blank">📅 12:46 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-911">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.17K · <a href="https://t.me/mohsentavoosiseo/911" target="_blank">📅 15:08 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/mohsentavoosiseo/911" target="_blank">📅 15:08 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-910">
@@ -395,7 +395,7 @@ booking.com
 خطاب به کسانی که از اینکه یک سری بی سواد یا کم سواد حرف اشتباه میزنن، ناراحتن.
 خطاب به همه با سواد ها!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/mohsentavoosiseo/907" target="_blank">📅 13:12 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/mohsentavoosiseo/907" target="_blank">📅 13:12 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-906">
@@ -420,13 +420,13 @@ booking.com
 ✅️
 همه اینا هست. فقط شرکت با شرکت، فرق داره. سایت با سایت فرق داره‌. هرچقدر بزرگ تر باشن شرکت ها، مدلاشون به مدل آخر نزدیک تر میشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.4K · <a href="https://t.me/mohsentavoosiseo/906" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.41K · <a href="https://t.me/mohsentavoosiseo/906" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-903">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">سوال:   دوستان من یه دسته بندی رو آوردم بالا و رتبه ۴ صفحه ی یک هستش  اولین سایت که ترب هستش  ولی اگه ترب رو حساب نکنیم میشه سایت سوم طبق سرچ کنسول توی بازه ۲۸ روز ، ۱۲۹ سرچ داشته  ولی کلیک ۵ تا!! راه حل برای کلیک گرفتن چیه؟ عنوان  و متا هم از دو رقیب دیگه…</div>
-<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/mohsentavoosiseo/903" target="_blank">📅 20:05 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/mohsentavoosiseo/903" target="_blank">📅 20:05 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-902">
@@ -491,7 +491,7 @@ Ban
 #بن
 #ban
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.69K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.7K · <a href="https://t.me/mohsentavoosiseo/895" target="_blank">📅 15:16 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-894">
@@ -798,10 +798,10 @@ Claude Cowork
 
 <div class="tg-post" id="msg-875">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FyI71qzMC9ucAZRfFoAPdnQKn8HdfP7zQ0cuu8A-vHW3WN6Rull9njoptrpmnBa6rLne_0pWY2R3QcuUQ87QKsIrWqP7FIJbwNuHKgX5OErXnDz2qhIrf2j3HYTtYuzUoRTQKPlXm0xokUnvrb9YKwSGpy0RrDvHDO46blhr0mz0_1wt0XJIn6G18ev1YAJcqhoqSWIND3w_CFoH0h6-m1jTnp7zQwghIN-Kpy0aOMeXln2Rb1pIKeP1gzfICQ37DlARiPhHk_muBQj57mRRLJ3OtariHuVPc5gHz4vUI2mBxvIHB7mG7558Cx2YjminsJkNlE00L7GGXRL-qtW-rw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TpRkDcqzGVx4DfOo5ZFbYURN5R-9ThXUsVGYsl_h1MGKxP_E9WcCddiNJDFQNF704bLiDiK2HOxzkc58qzzVt5BnNqTrYH6aVUZJu0I08YrslNrfuGiq2hO_9usrOBPAI8mOkg8078rQKBXzNieqseeKh-eUHc9suX0wOnojAhsx8dWv-GfcMOeVrHXEeMskJw4OuZfMc4bEcx0iULj6gV2d7hdV0CupbD0GwoPoC7CqLA8sBlCyXMB6Bf8WqUNiwC7eh_RIeDlblBC0V1-sxEv7-G9CupkLNA7HhkngEPBRUI_P3gWERfmmBnk6A3WC9d-RltbSNEajfR3r6Mwo0w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 5.11K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.12K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
@@ -962,7 +962,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-859">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/A0jmveNzv0ZPTAiDU7rj9XgC2-ii2gNNgfhJ3L61yE_Vmi_1j9aLAoALm1HSYvT3f9JN2A0E6OstXkpi0fyy4C40fX0aNhS6LAlKmcy2gINHTLjnm18QKAmstlW1WI55WBb4RZ4Az-ZU1kOvWQb3LrU2P6pNzOH6kDbcTSMfDGX1zsxW0Wcpl9Xp08CdXdoyDoCNsgJTqe75gs2OalPBX-OOUSvc_jPiFy5ZygLbyTYzc82712cK9JVYbzH3swhdft_dU9IqaI9oPRB5j6Xxlzt8Q6QTcT06vB2kxdYJBSpgVCP8Rtre6GYfrcIV-nAs3PurSCtgXDbupt4pmCK8pg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/D2zCeK4IC65W3L5374x3Kx3qi8g1K4b0MtjxAskrO4V0CSgwh4IDgarL0BVCIPoET-bSIcA1RZ-zhZ1ktPBj6VLawsV7ZC-6WYarWyYYPu5zqocTG4mL03lESpYmOfBN5BTkR525CLKCfzEuZmhWL4HKNuQ80YNNbIBum7VkBaz0SFxiEAIEx5KBy681e02hUNbnoEnNXI1bT-IEYKQ54J6Rh-YXdJZYJaDgx1Smnk92lE66KvPXPrv6Fk13NgZCaKBwfov1QBEthP5mdNMdl5ph3axt1TdTSvoEcH_N1cwS7HrSCU9nqM-oUASF5zlgQw8LbCZMh17yJeRbJPEQcQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این عکس، نمودار حدود 8 ماه گذشته یکی از پروژه های انگلیسی هست. هیچ فیلتری جز زمان هم ست نشده.
 تاریخ 5 فوریه زمان شروع همکاری بوده.
 به نظرتون بد شده اوضاعش یا خوب شده؟
