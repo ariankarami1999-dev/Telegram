@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 15:20:27</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 15:59:17</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -300,7 +300,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZoQ_a9iSAHBf3VrlhlaiYF9JsmygDeTfCtsHIWbkfdu67Ms2MJMxnoY1aQseM7OphmpBhHYmBxJ2r89r6cdonuru3Y4O_iusNPFp2zHe-ZJlLNkvwjBFMYvsoPa-k6AG6gY61YMA2ihJG3iR7b03mAvOfKSMnn_g7oDULtzDQcSLqoLQ2vRMmOGD_zbtlN_A1IAz7mfSq9mvR_PQcwneDuYnqnLPz8kSW85lREZCQofU7U3McCKIye89Zjh_AnydNyqf_PO5-3VbymdhrTACNBUVZjyBdDKqrKUFRX97ST1MIRYIvr6lLtNfkcG6GbpR7Jx0I8hlF5vtGqlAbxGDgw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده    @danialtaherifar</div>
-<div class="tg-footer">👁️ 299 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 300 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -311,16 +311,16 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 357 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 358 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZwnaiNGEKARLA4v1-F6L53-wGmB_Vzm_4MFCh-nmTFTjoS0rq3KyF7uDzSIisFYFCewU285ZHb3wxExRXe2KpqRqzLYbH4Yn17ysikGKZ8q7OTKj0-dE0bVOKyDePN6aFkVJ0FdhsGQXvw0KNjTnUeUruEy9X2sKaSHRXzw3UVfLektP2RxErp6JrgljlW4dcfHwVF0nlnW1lIf7UJjd4ovVKiktI2b4xTprqXoPmhKPHcyHd1oJ9qg8_cWN-xSh5r-x_F6pEaFGjuJRkiDcL1vakxoU7xpqQpQV-oslX8C84LHpAtj6HDUF4hCDGYi6faj5hN0D-dJp2Pg_IV7WnA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XHUtNnUzkW7Felg-hg2i6Iz2lg5aU_1g9PnDuYV6c0ByIwBsg0ni96a7oiWRCg2U0REKynXag6RUAgS8SmT25v3rfIXZSfxfMjl39v29EEL-ERAW56y2y4cfCWSCVUrEivU9rYnsQIVe0Nd8qUHgbt1uK15fa4vVRFW7mVfQFw10zhjHo5KteeAfiH5SCufyPdvEA50S0fXbuPL1ArrPBJjYupX5Wrle56YIo2OklVO30IcrsFLXtA7wEe8pFegQihzWIJNc-1R6VGRXCBz49K8C89qNamXAdjGa3YffVwCNfixv2N1pNXzfzlZRS7--eYPpsAzSbKNa53lekKmHTw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 562 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 563 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-948">
@@ -436,7 +436,7 @@ https://x.com/philhchen/status/2072793818945167475
 بن شدن اکانت ها شروع شده.
 پ.ن: اکانت اصلی خودم پرپر شد.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 805 · <a href="https://t.me/danialtaherifar/939" target="_blank">📅 12:38 · 10 Tir 1405</a></div>
+<div class="tg-footer">👁️ 806 · <a href="https://t.me/danialtaherifar/939" target="_blank">📅 12:38 · 10 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-938">
