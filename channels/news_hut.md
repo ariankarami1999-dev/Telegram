@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/XhC8IC0QxWLVZdd0YMtNThT_mvixZKKB8OUuzvL-FeJo5fHoPDklLNFNfIwaxsbeGGo8S1rlrMLPz7U6ZGiPbjaOjXVF2CQrWHU25mm_400HaX7ttkoZbXw37aQwBIa-RtTBLPAThUO6Pqffni9APzorgRtJ0BROeYBMN5Izoek8OWdv_56tIwbWNdU4fvdc1xdyjR359uusUpecCDKIzXPId9LHLNsb3jZoaDU-opDXtxz5d16B5pS8KEGcYtIA4QSCbasVYKxbwoskt3BskyLhMX5nW2sn0BRf4FLLhVAxv0r79dEAmTpNVruFuSachrFQJvN7FVwd2YvtU8bPkg.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/oOacAhha7vINREydCT6bMq_lg_glAXWVujcodFfab_407WhmUqUZQSoiYqndGFXWLE_2ZrzuhMuhk2uWa7OdXRKof1Dt1-ZJQIVInZPRtPEiDCXqd40OzrqD2_cjOZs4dRHDqj3dwFM7YxnEjeDRf73U0iK3kVrHHeafNLFgERBvJupZyLNTnYNERGLlvA0eCBPV7o5RAU4QbMvpAhKEzcUwEIu94QbM2Sc0yrlQguKfmAlrXiV4myxuOg7upAeoX8L4hio8GZn0lylq7zkT5FdvuQc37407o7K8_iG0NwuJ5iSzL4OaYP8z8AAxfwVIWAIkwbgbvsWh8kOmjnPbxg.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 هات نیوز | HotNews</h1>
 <p>@news_hut • 👥 118K عضو</p>
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 13:58:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 14:31:48</div>
 <hr>
 
 <div class="tg-post" id="msg-70506">
@@ -310,7 +310,7 @@
 اگر فکر می‌کنید در آمریکا صف بنزین تشکیل می‌شود، باید بگویم که نمی‌شود
 چه خواسته‌ای داریم غیر از موارد موجود در یادداشت تفاهم؟ کاخ سفید را حسینیه کنیم؟
 @News_Hut</div>
-<div class="tg-footer">👁️ 335 · <a href="https://t.me/news_hut/70506" target="_blank">📅 13:57 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.65K · <a href="https://t.me/news_hut/70506" target="_blank">📅 13:57 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70505">
@@ -326,7 +326,7 @@
 این ویدئو از کنترل خارق‌العاده با سر و گیتار زدن تو ارتفاع دو جوان ایرانی، حسابی تو فضای مجازیِ وطنی و خارجی وایرال‌ شده
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/news_hut/70505" target="_blank">📅 13:09 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.06K · <a href="https://t.me/news_hut/70505" target="_blank">📅 13:09 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70504">
@@ -338,7 +338,7 @@
 عاصم منیر فرمانده ارتش پاکستان دقایقی پیش برای دیدار و گفتگو با مقامات کشور وارد تهران شد.
 عاصم منیر پیش از سفر به تهران با ترامپ رئیس جمهور آمریکا گفتگو کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.26K · <a href="https://t.me/news_hut/70504" target="_blank">📅 12:15 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.76K · <a href="https://t.me/news_hut/70504" target="_blank">📅 12:15 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70503">
@@ -355,7 +355,7 @@
 موشک THAAD: طول ۶.۲ متر | قطر ۴۰ سانتی‌متر | وزن ۶۶۲ کیلوگرم | سرعت بیش از ۸.۲۴ ماخ | ارتفاع درگیری: ۱۵۰ کیلومتر| ارتفاع درگیری داخل و خارج جو | پیشران سوخت جامد | روش انهدام Hit-to-Kill | هدف: موشک‌های بالستیک.
 موشک Patriot PAC-3 MSE: طول حدود ۵.۲ متر | قطر حدود ۲۵ سانتی‌متر | وزن حدود ۳۱۲ کیلوگرم | سرعت: ۵ ماخ | ارتفاع درگیری ۴۰ کیلومتر | پیشران سوخت جامد دوپالسه | روش انهدام Hit-to-Kill | هدف: موشک‌های بالستیک، کروز و هواگردها.
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.98K · <a href="https://t.me/news_hut/70503" target="_blank">📅 11:59 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/news_hut/70503" target="_blank">📅 11:59 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70502">
@@ -371,7 +371,7 @@
 محیایی، معاون هماهنگی امور عمرانی استانداری گلستان:
 تو استان‌های خراسان شمالی، مازندران و گلستان توی فصل سرما، قطعا بین 60 تا 90 روز قطعی گاز داریم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.31K · <a href="https://t.me/news_hut/70502" target="_blank">📅 11:59 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.51K · <a href="https://t.me/news_hut/70502" target="_blank">📅 11:59 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70501">
@@ -401,7 +401,7 @@
 ✌️
 ✔
 https://t.me/+x60dZGAgXTUxM2U0</div>
-<div class="tg-footer">👁️ 7.92K · <a href="https://t.me/news_hut/70501" target="_blank">📅 11:58 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.06K · <a href="https://t.me/news_hut/70501" target="_blank">📅 11:58 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70500">
@@ -443,7 +443,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 r2
 ✔
 https://t.me/+x60dZGAgXTUxM2U0</div>
-<div class="tg-footer">👁️ 7.88K · <a href="https://t.me/news_hut/70500" target="_blank">📅 11:58 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.07K · <a href="https://t.me/news_hut/70500" target="_blank">📅 11:58 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70499">
@@ -454,7 +454,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 🇮🇷
 ترامپ در تروث؛از قول رئیس مجلس ایران: «گرسنه‌ایم، نمی‌توانیم دوام بیاوریم»
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.89K · <a href="https://t.me/news_hut/70499" target="_blank">📅 11:19 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/news_hut/70499" target="_blank">📅 11:19 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70496">
@@ -474,7 +474,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 سوالات کنکور زبان امسال رو بردن گذاشتن جلوی یه آمریکاییِ باسواد؛
 طرف پشماش ریخته که اگه اینا به زبون ماست، چرا من نشنیدمشون تاحالا؟
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/news_hut/70496" target="_blank">📅 11:03 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/news_hut/70496" target="_blank">📅 11:03 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70495">
@@ -484,7 +484,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 ایران اینترنشنال:
 قیمت دلار در حالی از ۲۰۰ هزار تومان گذشت که پزشکیان گفت کشور در وضعیت جنگی تمام‌عیار قرار گرفته. همزمان، محسن رضایی به نمایندگی از مجتبی خامنه‌ای کشورهای منطقه را تهدید کرد در صورت همراهی با آمریکا در جنگ اقتصادی علیه تهران، هدف حمله قرار خواهند گرفت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/news_hut/70495" target="_blank">📅 10:34 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/news_hut/70495" target="_blank">📅 10:34 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70494">
@@ -501,7 +501,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 یه مرده به بهونه‌ی دفاع از زنش، دو خانم دیگه رو کتک میزنه
 !
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/news_hut/70494" target="_blank">📅 10:03 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/news_hut/70494" target="_blank">📅 10:03 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70492">
@@ -516,7 +516,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-text">🇺🇸
 هلیکوپترهای CH-47 شینوک، UH-60 بلک هاوک و AH-64 آپاچی ارتش آمریکا، در کنار AH-1Z وایپر تفنگداران دریایی آمریکا، در یک نمایش هوایی ویژه مسابقات Freedom 250 Grand Prix در واشنگتن دی‌سی به پرواز درآمدند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/news_hut/70492" target="_blank">📅 09:33 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/news_hut/70492" target="_blank">📅 09:33 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70491">
@@ -532,7 +532,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 متکی، نماینده مجلس:
 ۹۰ روز آینده روز‌های بسیار مهمی هستن، ترامپ ایران رو مشغول تفاهم اسلام آباد کرد تا انتخابات میان دوره رو پیروز بشه و بعدش قراره تازه بیاد سراغ ما.
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/news_hut/70491" target="_blank">📅 09:04 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/news_hut/70491" target="_blank">📅 09:04 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70490">
@@ -544,7 +544,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 از دستش نده
 ✅
 https://t.me/+x83BW_KQnT01ZGE0</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/news_hut/70490" target="_blank">📅 02:25 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/news_hut/70490" target="_blank">📅 02:25 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70489">
@@ -587,7 +587,7 @@ a1
 👇
 💠
 https://t.me/+x83BW_KQnT01ZGE0</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/news_hut/70489" target="_blank">📅 02:25 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/70489" target="_blank">📅 02:25 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70488">
@@ -607,7 +607,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 او همچنین هشدار داده اگر ایران به نیروهای آمریکایی یا کشورهای خلیج فارس حمله کند، پاسخ آمریکا سریع و قاطع خواهد بود.
 هدف این تهاجم اقتصادی وادار کردن رژیم به فروپاشی یا تسلیم در برابر فشار است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/news_hut/70488" target="_blank">📅 02:06 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/70488" target="_blank">📅 02:06 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70485">
@@ -624,7 +624,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 رئیس جمهور مطرح کرد
 گران کردیم که مردم نتوانند بخرند و اینگونه مانع قحطی می‌شویم!
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/70485" target="_blank">📅 00:49 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/70485" target="_blank">📅 00:49 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70482">
@@ -639,7 +639,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 پهپادهای اوکراینی امروز صبح منطقه آرخانگلسک در روسیه را مورد حمله قرار دادند. این منطقه در فاصله ۱۸۰۰ تا ۱۹۰۰ کیلومتری مرز اوکراین واقع شده است و این اولین باری است که پهپادها به این منطقه دسترسی پیدا می‌کنند.
 بر اساس گزارش‌های اولیه، پایگاه فضایی پلستسک هدف این حمله قرار گرفته است. پلستسک یکی از مهم‌ترین پایگاه‌های فضایی نظامی روسیه است که از پرتاب ماهواره‌های نظامی، آزمایش موشک‌های بالستیک بین قاره‌ای و سایر عملیات‌های فضایی استراتژیک پشتیبانی می‌کند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/70482" target="_blank">📅 23:55 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/70482" target="_blank">📅 23:55 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70481">
@@ -657,7 +657,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 قرار است جانفداها به سراغ ۵ میلیون مشترک پرمصرف برق بروند و بگویند صرفه‌جویی کنن
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/70481" target="_blank">📅 23:18 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/70481" target="_blank">📅 23:18 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70480">
@@ -669,7 +669,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 اگر جنگ اقتصادی ادامه یابد، حتی یک قطره نفت صادر نخواهد شد؛ نه از طریق تنگه هرمز و نه از هیچ نقطه دیگری در خلیج فارس.
 ایران مشارکت یا حمایت هر کشوری از جنگ اقتصادی آمریکا علیه ملت ایران را به منزله اقدام جنگی تلقی خواهد کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/70480" target="_blank">📅 23:15 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/70480" target="_blank">📅 23:15 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70479">
@@ -684,7 +684,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 با این امکان جدید، سرمایه‌گذاران می‌توانند با ترکیب طلا و نقره، یک سبد مطمئن‌تر، کلاسیک و پربازده بسازند.
 ورود به بازار جذاب نقره
 ورود به بازار جذاب نقره</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/70479" target="_blank">📅 23:14 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/news_hut/70479" target="_blank">📅 23:14 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70478">
@@ -703,7 +703,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 https://l.snpy.ir/zj65d
 https://l.snpy.ir/zj65d
 https://l.snpy.ir/zj65d</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/70478" target="_blank">📅 23:14 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/news_hut/70478" target="_blank">📅 23:14 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70477">
@@ -714,7 +714,7 @@ https://l.snpy.ir/zj65d</div>
 🔴
 نهاد مدیریت آبراه خلیج فارس اعلام کرد شناورهایی که از ترتیبات اعلام‌شدهٔ ایران برای تردد از تنگهٔ هرمز تخلف کنند، در ترددهای بعدی با محدودیت‌هایی از جمله جریمه، توقیف یا مصادره مواجه خواهند شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/70477" target="_blank">📅 22:58 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/70477" target="_blank">📅 22:58 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70476">
@@ -722,7 +722,7 @@ https://l.snpy.ir/zj65d</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QH_g-U3PgFS_1d-SSKHr4kDoY3F4OA1HMsCK_YHfjJ_Kj7rNlmEQ-6f7wTpkRfrKa5NpyDKtTwzT88CMQUd3mNMJM4Fw3_jMg2Lhk8doGGMR-4UhZreuw59egwV0jjoyXP_5lhOsSyguTFEyY_ftrmH4YAakMoBS7ZavqUsK97-OLV_5FxemMdpk-HUn9fHCTy3XrbhcmWH_IFLilMaZXCrG27ftRg40gD9F2COkz9IijC6_trawORfZJZGV5O9hO2y-DbYCCndcdFqHYYVgGUSsj0FlG5K7DfE_ydokri0JEM3gd9k61B-syIERvHWT2qv4R5nergp4sIsGwBFv9g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مجری عراقی با انتشار این تصویر نوشت به این جنجال پایان دهید.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/70476" target="_blank">📅 22:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/70476" target="_blank">📅 22:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70475">
@@ -737,7 +737,7 @@ https://l.snpy.ir/zj65d</div>
 <div class="tg-text">تو سعادت آباد تهران دو تا گروه تیم‌کشی کرده بودن برای دعوا و این شکلی با بیل، چوب، سنگ و هر چی دم دستشون بود، افتاده به جون همدیگه
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/70475" target="_blank">📅 21:51 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/news_hut/70475" target="_blank">📅 21:51 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70473">
@@ -753,7 +753,7 @@ https://l.snpy.ir/zj65d</div>
 🇺🇸
 هواپیماهای B-1 Lancer، B-2 Spirit و B-52 Stratofortress و چهار فروند جنگنده F-35 نیروی هوایی ایالات متحده، پیش از آغاز مسابقات «گرند پری Freedom 250» در واشنگتن دی‌سی، بر فراز محل مسابقه پرواز کردند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/70473" target="_blank">📅 21:14 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/70473" target="_blank">📅 21:14 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70472">
@@ -772,7 +772,7 @@ https://l.snpy.ir/zj65d</div>
 این گاز خوشبختانه از یک ویژگی خاصی برخوردار هست و آن اینکه اصطلاحاً شیرین است؛ این شیرین بودن گاز باعث می‌شود که هم هزینه‌های عملیات توسعه‌ای کاهش پیدا بکند و هم هزینه‌های عملیات بهره‌برداری.
 در کنار این حجم گاز، حجم عظیمی میعانات گازی را ما داریم که مجموعاً ده‌ها میلیارد دلار به‌علاوه ارزش ذاتی آن گاز برای کشور ثروت جدید به بار آورده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/70472" target="_blank">📅 20:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/70472" target="_blank">📅 20:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70471">
@@ -785,7 +785,7 @@ https://l.snpy.ir/zj65d</div>
 سیاست خارجیِ منجمد، اقتصادی منجمد به بار می‌آورد.
 تنها چیزی که همچنان در حرکت است؟ بومرنگِ ایران.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/70471" target="_blank">📅 19:46 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/70471" target="_blank">📅 19:46 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70470">
@@ -802,7 +802,7 @@ https://l.snpy.ir/zj65d</div>
 🇮🇱
 نتانیاهو و ترامپ در میدان انقلاب تهران اعدام شدند
 @News_Hut</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/70470" target="_blank">📅 19:45 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/70470" target="_blank">📅 19:45 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70469">
@@ -814,13 +814,13 @@ https://l.snpy.ir/zj65d</div>
 🔥
 Join Join Join
 Join Join Join</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/70469" target="_blank">📅 19:44 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/70469" target="_blank">📅 19:44 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70468">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mg8HgP0PIb0Xr4Utn-UqTzB4dZp7_9T5NrcAj_EBKK4p9qzrhbltj94eVQWs_sMEVfdz5YGvlaKvZvktt8Rg_CUe0x5sAj-Qhxd_x_BFBiF1sSI_AlYIzI2zDSbu-L9omT2eV8NM3ZGRkN_BtEX0oOD6BRWRhu302HScEOtDjUYvTkFssWajN2_N-jRadFJcr_YMsgwvW-762XrB8YlG3SWZDlWjb_1eLpzwQUu2X6d7y6mEohZx0rwBPU3bVFMxG1QrtlHewfbkLUxw49gheJWv_or4p1aGEZRJT49uFXd__45EdtUFpyYY4mEBZzZYVIwuYjP5wGm7cFQ_7TaRtQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/70468" target="_blank">📅 19:44 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/70468" target="_blank">📅 19:44 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70467">
@@ -835,7 +835,7 @@ Join Join Join</div>
 <div class="tg-text">❌
 توی مشهد طرفداران حکومت که علیه قالیباف شعار می‌دادن و خواهان انتقام خامنه‌ای بودن برخورد شد و متفرق کردن
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/70467" target="_blank">📅 19:15 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/70467" target="_blank">📅 19:15 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70466">
@@ -899,7 +899,7 @@ Join Join Join</div>
 <div class="tg-text">توی برزیل یه مرد همجنسگرا رو مجبورش کردن برای اولین بار یه زن رو در آغوش بگیره! اونم از شدت ناراحتی بیهوش شد و از حال رفت
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/70463" target="_blank">📅 16:45 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/70463" target="_blank">📅 16:45 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70462">
@@ -922,7 +922,7 @@ Join Join Join</div>
 <div class="tg-text">‼️
 وضعیت گمرک شهید رجایی بندرعباس، ۲۹ مرداد ۱۴۰۵:
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/70461" target="_blank">📅 15:45 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/70461" target="_blank">📅 15:45 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70460">
@@ -952,10 +952,10 @@ Join Join Join</div>
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/155fedd97c.mp4?token=en_6znRl9e8zRirGmmCo-_dv8JJIFEmFIWJCp2JXMAkCREzUpgR5jpe9fO_mvL4XCqQ0qfd5KzDYdicSG4-b9xRxw5vtr7k2_0HoAHcQaSLVc2cLves9zeu5Eku4II4fHxf8dLY14_0Ht0C6hh4nhoKCkcJLPV4cXD5C9EftMMnT4wTbbdu2aFlEQPFG3kDHlR11L8CZFJifoF9pJR1uvWhiF-4I5EtOUyWkuoI3EabxM_mQ0b6_qwQnfnM-pLBr_Ls2O-5x-V9PFa5m_n-WaQctefNzrQtpdGBlzANtWuMs4OAznBE_vhlPe8g6RixOPeqH5eh_WMjaFzdclo3MiA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/155fedd97c.mp4?token=AxVnUxILA_rG95mBTAOk6Rp1LtGzf2B2RuWRuYzBzkce9t9r5QKP865J1wjme06mQSS2TahlcZueufAjpnGPVlxeJNVrYiKA1oKuFAe9MpI5qjmqPYRfpF2OU3oYAZsWEx40VGk6pAch7TGu-SDFJD9as-mi9tNqM9PKs5nOgXb9xm3C2xodGRsYiDfnoj7b6PXL4kGqyjLprPJsPY4oc58gGlkKpj-UQpY8LbFGY4X9SpNUFvo9McGZcO4OwdBFECEx3bkMbA28MsmsyVT94SkxoVfFbolyTTfLxuitE1yRCTJCeGwLJZ4lWg0fRlels4yQSZVIgDR3Tua_ApIzuQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/155fedd97c.mp4?token=en_6znRl9e8zRirGmmCo-_dv8JJIFEmFIWJCp2JXMAkCREzUpgR5jpe9fO_mvL4XCqQ0qfd5KzDYdicSG4-b9xRxw5vtr7k2_0HoAHcQaSLVc2cLves9zeu5Eku4II4fHxf8dLY14_0Ht0C6hh4nhoKCkcJLPV4cXD5C9EftMMnT4wTbbdu2aFlEQPFG3kDHlR11L8CZFJifoF9pJR1uvWhiF-4I5EtOUyWkuoI3EabxM_mQ0b6_qwQnfnM-pLBr_Ls2O-5x-V9PFa5m_n-WaQctefNzrQtpdGBlzANtWuMs4OAznBE_vhlPe8g6RixOPeqH5eh_WMjaFzdclo3MiA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/155fedd97c.mp4?token=AxVnUxILA_rG95mBTAOk6Rp1LtGzf2B2RuWRuYzBzkce9t9r5QKP865J1wjme06mQSS2TahlcZueufAjpnGPVlxeJNVrYiKA1oKuFAe9MpI5qjmqPYRfpF2OU3oYAZsWEx40VGk6pAch7TGu-SDFJD9as-mi9tNqM9PKs5nOgXb9xm3C2xodGRsYiDfnoj7b6PXL4kGqyjLprPJsPY4oc58gGlkKpj-UQpY8LbFGY4X9SpNUFvo9McGZcO4OwdBFECEx3bkMbA28MsmsyVT94SkxoVfFbolyTTfLxuitE1yRCTJCeGwLJZ4lWg0fRlels4yQSZVIgDR3Tua_ApIzuQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 🇮🇷
@@ -1025,7 +1025,7 @@ Join Join Join</div>
 طرف رفته ماشین "شاهین" صفر کیلومتر خریده، بعد بهش گفتن با مانیتور؟ اونم گفته آره؛
 حالا که ماشینو تحویل گرفته دیده مانیتورش روشن نمیشه، دست انداخته پشتش بازش کرده دیده توش مقوا گذاشتن..
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/news_hut/70454" target="_blank">📅 12:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/news_hut/70454" target="_blank">📅 12:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70453">
@@ -1138,7 +1138,7 @@ https://t.me/+x60dZGAgXTUxM2U0</div>
 <div class="tg-text">‼️
 توی ساحل میانکاله مازندران، حامیان حکومت با چادر دست به اعتراضات زدن و اعلام کردن مردم رسما دارن لخت میشن، ما دیگه تحمل نداریم، یا دولت برخورد میکنه یا خودمون دست به کار میشیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/70449" target="_blank">📅 11:35 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/70449" target="_blank">📅 11:35 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70448">
@@ -1277,7 +1277,7 @@ Gift
 a31
 ✔
 @DerbyBetOfficial</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/70440" target="_blank">📅 01:59 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/70440" target="_blank">📅 01:59 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70439">
@@ -1433,7 +1433,7 @@ a31
 میگه هفته‌ای ۵ نفرو ماساژ میدم و از هر نفر ۵ میلیون میگیرم!
 یعنی با روزی ۱ ساعت کار در هفته به غیر از پنجشنبه و جمعه، ایشون ماهی ۱۰۰ میلیون درآمد داره!
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/70428" target="_blank">📅 20:32 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/70428" target="_blank">📅 20:32 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70427">
@@ -1637,16 +1637,16 @@ a31
 یک نظم بومی و مستقل که واقعاً صلح و امنیت را در منطقه به ارمغان خواهد آورد.
 ﻿
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/70415" target="_blank">📅 14:59 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/70415" target="_blank">📅 14:59 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70414">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dVxDIkunDeN62Vt8Iq6XYO_tW4oWDO-VXxMWOs9XzFdKOFgTe0HhOKwemToK8H8N6NSrtSERw9zupu7tFtDtbALMfKwGH-hlWisPkLy5u8gzezMYYZ7lfxlgke9T4XrqYXloMHlFf5g3XIUh-Ho_Tt4yddYC6-sWyXHPUZVccumVoy0cGFh34TGRP-zMT7g_aJX9Nmzi3UBWwfh3VWxgrUxVG6XNWH3BhECFzPTaIZnl6aiVfuqCnAtA7VKFbCom745iPqiktizhaMXiNhr9sX11mdhHpwDJVo0UGjOKZ61jxjx8fDHLjlAggDYYgZwsOpw40HCf-zXeT-DAUYKf0A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AybCUqaAg8lIT6dANeInxTqFLnk6kDxGCLPO4Rse3pJvQ9Dwp8_7Vc0GCh_Lb9H4eoBC5lnfj_hOiVWKkg10d4eYYVr1xoUj3FrUwyKm9B01FyPOZfZFaxrkgFHaNV2eoCCokQhHl5uBt-dQajM_37h0YSj1RoOYByl7zScUB_P7_EWfmbTD57QT0Lb84FjCVpI_dEa5vVx8IUd9stcyPM7mEPLVepZfGo8kTcPeBANXXPsVtQFM5N3I9f__rTWv74PhMg5lmM6w5AO_ZSKaeeSV5wuPqccxQ2eiV8UteZrq_SnnrxJgphulgnlyIcQqUIFHT09p_hw5GH6QxFysJQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇷
 تصویری وایرال شده از پزشکیان:
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/70414" target="_blank">📅 14:33 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/70414" target="_blank">📅 14:33 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70413">
@@ -1945,7 +1945,7 @@ https://t.me/+UfR2NG4GjAMwNTQ0</div>
 <div class="tg-text">⏺
 فعالیت پنج سوخت‌رسان و یک هواپیمای هشدار اولیه در اطراف تنگه هرمز
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/70389" target="_blank">📅 02:10 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/news_hut/70389" target="_blank">📅 02:10 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70388">

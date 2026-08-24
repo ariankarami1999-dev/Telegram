@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 13:58:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 14:31:48</div>
 <hr>
 
 <div class="tg-post" id="msg-2567">
@@ -308,7 +308,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2566">
@@ -322,7 +322,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2565">
@@ -339,7 +339,7 @@ github.com/telegramdesktop/tproxy-server
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2564">
@@ -374,7 +374,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2562">
@@ -390,7 +390,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2561">
@@ -404,7 +404,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -419,7 +419,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.8K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -472,7 +472,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -1102,7 +1102,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 
 <div class="tg-post" id="msg-2517">
 <div class="tg-post-header">📌 پیام #51</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/obFC0Qi_ZxffXi17yVem4wNicSckXiZhL3uq2T_J9NfPAJfaR7K0GBA2rjNN2JKGp1xMPX9TEoaL6bAzmkbXh_6NquTjcTQXdP62BmIYiYb-zWfIxhUU577Hv2d0DrN8RdmE3GeP9KfrioMyf2b_DGtLlbbfHBIfSIknLNpo8rq1OH4mHISgyH-8uRggJRSg94zNRgxpqtFYpcHGIioZmM5Mmw9AdCDNtARk6rM-b7PrurxM7eH54aIpHb3umCFCKUibQC6h0KZcMP_lBBnVyXCi1sJZd3jlZKP7ziih-kAS0oBpBm_HDUWG2o5nN5atnGkYUk0_AAzhvs-Zd79-yA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JnkH6Xs3CZtgPGAR3SWzQkikJUJFAdx7AaKRTwcnjf2jdt4I_Vw6eJIT9K1GaBamduiFWvJt-Sv-bjw8B2aENKfJKxbz9SECV3zIRXqxZ5Fu2FrcQuzrgMcWQxI-ks-ziBRrtGvUW0z1C63QKkxty4YOVlw1LuQ4rDUYY_hMxBsl_tGr4Bd2GD5bua-zg30a4lfZR_kc8wVXhEXz-lANfcxgHhT7vTIxbbewE7rPFWpSF2aOGMx_Vml8mYxXyVZhmyJgqQlDNz3aur9lgXg3WmmMHpC4-0LVzybvGGSz6E0PsAydQsF5JsTOiP280lFsaK9Em01eAgMP1FComWIhcg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر شیرین‌سخن قطع‌ارتباطات گفته "سایت‌های ارتباطی در خاموشی‌های بیشتر از ۲ ساعت قطع میشن و راهی برای تامین انرژیشون نداریم".
 یعنی از هر زاویه به این مرد و عملکرد درخشانش نگاه می‌کنیم، حل مشکلات و امیدواری به آینده فوران میزنه!
 🤡
@@ -1165,7 +1165,7 @@ github.com/2dust/v2rayN/releases
 
 <div class="tg-post" id="msg-2513">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hpfWKTBmf92WszzrsPlZNYQWzaymEpHhkbTRPW6eZ5KJL7KL7py1qQKqJbehBWRAz5i9mKads4c53MeXpk29wE9x0qZHAeyliud0tUj4sI6Y9GBbG_y08hSgd3T4PkhMoPr3lRIvbE57vHMk-LdmPS_JrzDtJTyfi158Nc364eiZk7re-m_DfQRNUG4epxdGX8dEDP3ok0CTHIIZMuX1vS6IdhVL0erXwqLqf_lJISqrFYa4Gg_XVD3pxNLa18GpxFSTdwJIcntEWwzsq5vA08p6ir-qtZHgrAqeStOMXTx2LomGDJ-GQcSDo2jGmbd2CVgUPjQMFOWgnu38RiVJkA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kmvJ9CtW6yBWo-C2tTzQIIiTwJRlNTl1OC9h01U0Y1Tlpw5RqUYxs3I4jkoljLazHx15tpR6xU99CUl4vnZjpdBL1LEbJcsXJFrUrEMk_7uE2c35oxKKHuuP-CUVa16sshnn1wZ-ctSJEShDntBoTgyWcHHaFdrEa2x_0NdWABjVOJO4RZTGTQOYMM6EvcVIkR-xhY3mbT9czdHbOnXM-pnt93_7vwPICz8mqXIimpro7gsAw8CeV4s8ETEyfpImb8JtgYuwXJRJ5bNgPldMeuu0jc5CzcvsUXe5PXVfS7Ailmh41iqYOPr8cQJyoG9-0IFREgYdKXFJMue98lXcaQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تبلیغات تلگرام ابزاری شده تا بعضیا مرزهای بی‌شعوری رو جابجا کنن.
 هیچکدوم از تبلیغاتی که توی کانال نمایش داده میشن توسط من ارسال نمیشن، به هیچ‌وجه مورد تایید نیستن و اگر سرتون کلاه رفت یا امنیت و حریم خصوصیتون به خطر افتاد، مسئولیتش پای خودتونه.
 🔗
