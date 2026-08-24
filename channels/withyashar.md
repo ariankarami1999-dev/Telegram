@@ -292,7 +292,7 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 13:07:10</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 13:58:37</div>
 <hr>
 
 <div class="tg-post" id="msg-21429">
@@ -300,7 +300,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pUo6GJK6bDi8MyXmESylIXLZ3bkkXqeg7w0WBPjLWe5QPLEAv9GPJ4zsuspm9DHmtCyuY8JsgBhtgR-LIJ1tk1GsD3_UVv1NJWYulyU5km_7PhOVEjDkTYooiW0MRoOPGx4rHbd84WMN5odHuRdbsXbY4pw-8Y28V8Px56hbWbAXiuOqswfgqNvSTxEOBfjE7p9MJ5w1HF32lcV8yy5A_c8uiwiu-m9nHNsaqd04fpDqMfyDPYdL2_AuwNQvw42l5QbAN7gzxDIi5U2uS7SY5L-ddi3pIPNi5CtLLKyEl1Afkk0wnHUSI6jTR0LwGTPpu7203uye3e0Z40oU1ck_yQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بمب افکن مخوف B1-B از پایگاه فیرفورد انگلستان بلند شده و در حال تمرین است
 @WarRoom</div>
-<div class="tg-footer">👁️ 5.13K · <a href="https://t.me/withyashar/21429" target="_blank">📅 13:04 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/withyashar/21429" target="_blank">📅 13:04 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21428">
@@ -312,20 +312,20 @@ E-11A BACN
 گره ارتباطی پرنده
 است که شبکه‌ها و سامانه‌های ارتباطی مختلف نیروهای هوایی و زمینی را به هم متصل کرده و امکان تبادل صوت، تصویر و داده را حتی فراتر از خط دید فراهم می‌کند؛ در نتیجه جنگنده‌ها، پهپادها، نیروهای زمینی و مراکز فرماندهی می‌توانند اطلاعات میدان نبرد را سریع‌تر و هماهنگ‌تر به اشتراک بگذارند. بازگشت E-11A به آسمان عراق از نظر نظامی قابل توجه است، زیرا حضور آن می‌تواند به حفظ ارتباطات و شبکه فرماندهی در عملیات‌های گسترده کمک کند
 @WarRoom</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/withyashar/21428" target="_blank">📅 12:44 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 46.3K · <a href="https://t.me/withyashar/21428" target="_blank">📅 12:44 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21427">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">یک حمله مسلحانه توسط عناصر در شهر زاهدان، واقع در جنوب شرقی ایران؛ بر اساس گزارش‌های اولیه، یک مأمور کشته شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/withyashar/21427" target="_blank">📅 12:40 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 46.2K · <a href="https://t.me/withyashar/21427" target="_blank">📅 12:40 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21426">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">نرخ دلار ۲۰۱،۶۰۰ تومان (رکورد تاریخی)  دلار کف بازار  ۲۰۵-۲۱۰ هزار تومان تتر  ۱۹۹،۹۹۰ تومان(رکورد تاریخی)  بیتکوین ۷۷،۳۷۹ $ انس جهانی طلا ۴.۶۳۶ $ نفت برنت ۹۱.۰۲$ @WarRoom</div>
-<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/withyashar/21426" target="_blank">📅 12:38 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 48.2K · <a href="https://t.me/withyashar/21426" target="_blank">📅 12:38 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21424">
@@ -336,7 +336,7 @@ E-11A BACN
 </div>
 <div class="tg-text">گزارش انفجار شدید در ارومیه ، شدت انفجار در خانه را پرتاب کرده
 @WarRoom</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/withyashar/21424" target="_blank">📅 12:34 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 49.2K · <a href="https://t.me/withyashar/21424" target="_blank">📅 12:34 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21423">
@@ -346,7 +346,7 @@ E-11A BACN
 خبر رویترز که سفر کنسل
 شده
 فیک نیوزه ، خودتون اینترنت دارین چک کنید قبلش نفرستید برام</div>
-<div class="tg-footer">👁️ 39K · <a href="https://t.me/withyashar/21423" target="_blank">📅 12:11 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/withyashar/21423" target="_blank">📅 12:11 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21421">
@@ -359,7 +359,7 @@ E-11A BACN
 نفت برنت ۹۱.۴۲$
 @WarRoom
 ۱۲ ظهر تهران</div>
-<div class="tg-footer">👁️ 44.1K · <a href="https://t.me/withyashar/21421" target="_blank">📅 12:00 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/withyashar/21421" target="_blank">📅 12:00 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21420">
@@ -367,7 +367,7 @@ E-11A BACN
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EC0S-HnVL-EpkK7WFZcMZxtC1jSY7YfspQmlx4e3zADFFLGtLy95XA1UD5kM9vDf_AvFCdIgKFaKQQF32QJ-95YAzwpYFkda351_zDp1bCCvrN4OPv8KOeDLoAi0w--7UErf0Es5z3QCS7Qf2rwibMa-fqnhphLU3kTneSefW4cCcBZD2S767Mnb_JzytFt9JOeK7pC8UjGUirlBuNot8c65l_OWWEA55G_2GJ7dyCllCXBY7fcQ6kRC1ZZyLxzwQXdgls-nbtIu0XDgRzns_lcuW1L1Dp9F_Ioxh32lcgd9AM-gN4VWhVO73bDzneHm6d5aL4wfNj5Wq1h_vdETcA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عاصم منیر به تهران رسید
 @WarRoom</div>
-<div class="tg-footer">👁️ 44.9K · <a href="https://t.me/withyashar/21420" target="_blank">📅 11:58 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 58.9K · <a href="https://t.me/withyashar/21420" target="_blank">📅 11:58 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21419">
@@ -375,7 +375,7 @@ E-11A BACN
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bExDlV4E9Hpihg57udsjYBmd7RVQr3xJvk6GPXbiS98XiLVewOqrZBHdi8_VlO2M5QtvdcxL0B2NradYwMRsdq1VEpMu0_iyaNWzkwkFpUWsArLk9oRzJUIzisbTz0SYi3pqnAVZDNTQIZUsyJNUpsOoaKNCaVEncDtnJXStfsVv8WXzgMsVkbnufnpAvtwtrpOcxPmMikhDX9ZL0kZsnMudVus1qMnGmguOY7IoKz3_8NwLrx4zaSLYuS17JmLQCn5ez0zi3jZ8zxYJuAA3Qp3TW68s17kgH0R36OHla25_eDk-8Ea90eH4C_b_lVBH6a8wTOhvOhJlb6dMLnxfdQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بقایی : ما از قدیم شطرنج باز بودیم، در سالای اخیر پوکر باز هم شدیم، الان هم مدتیه که ترکیبی بازی می‌ کنیم
 @WarRoom</div>
-<div class="tg-footer">👁️ 47K · <a href="https://t.me/withyashar/21419" target="_blank">📅 11:46 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 58.9K · <a href="https://t.me/withyashar/21419" target="_blank">📅 11:46 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21418">
@@ -384,7 +384,7 @@ E-11A BACN
 <div class="tg-text">سازمان تجارت دریای بریتانیا: گزارشی از حادثه‌ای در ۶۳ مایل دریایی غرب ینبع، عربستان سعودی دریافت کرده است.
 مسئول امنیتی شرکت گزارش داد که یک تانکر توسط یک پرتابه ناشناخته مورد اصابت قرار گرفته و باعث آتش‌سوزی در عرشه اصلی کشتی شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 54.4K · <a href="https://t.me/withyashar/21418" target="_blank">📅 11:20 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.1K · <a href="https://t.me/withyashar/21418" target="_blank">📅 11:20 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21417">
@@ -396,14 +396,14 @@ E-11A BACN
 انس جهانی طلا ۴.۶۳۶ $
 نفت برنت ۹۱.۰۲$
 @WarRoom</div>
-<div class="tg-footer">👁️ 54K · <a href="https://t.me/withyashar/21417" target="_blank">📅 11:15 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.8K · <a href="https://t.me/withyashar/21417" target="_blank">📅 11:15 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21416">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a9bbfIz319v4uAGUvAF6hH3bB6-GWHofQtTp1SrqElyr4b7XKbcGYopAPPHOKo3JySFrklEh94Heg-2F68NaSdFMmSI8yU9W3Eaz9XvS8wzsfm4WwOy1qnAWH2V81d6lefv-CZbkWLGfa3prjWbfqdssAXLVbqlphtHv87wuTt73Icjilje83m5tK90_336mshuMTrctvUwwpsx7c0d0a4PgNongaHCWV4C0F9E3Qk_ISPsdTPuHIebzKkkjOMchDTj8DjqtNpjppmuvT_C1cRPeyD-xGvLe9twULFHiCsWpKRdkK4a12Yi4vq4yIjR68dm0wtuIl7wuOrrMcFI_WQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 72.2K · <a href="https://t.me/withyashar/21416" target="_blank">📅 09:46 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 78.8K · <a href="https://t.me/withyashar/21416" target="_blank">📅 09:46 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21415">
@@ -411,7 +411,7 @@ E-11A BACN
 <div class="tg-text">فایننشال تایمز: اسکات بسنت، وزیر خزانه‌داری آمریکا، اعلام کرد واشنگتن وارد «مرحله پایانی» علیه ایران شده
 و در حال آماده‌سازی گسترده‌ترین تحریم‌ها برای قطع باقی‌مانده ارتباطات مالی و تجاری تهران است. او هشدار داد کشورها و شرکت‌هایی که به حمایت اقتصادی از ایران ادامه دهند نیز ممکن است هدف تحریم‌های آمریکا قرار گیرند؛ اقدامی که هدف آن انزوای کامل اقتصادی و تشدید فشار بر جمهوری اسلامی است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 71.1K · <a href="https://t.me/withyashar/21415" target="_blank">📅 09:41 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 77.6K · <a href="https://t.me/withyashar/21415" target="_blank">📅 09:41 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21414">
@@ -426,7 +426,7 @@ E-11A BACN
 <div class="tg-text">محسن کج بند رضایی : مردم خودشون در خانه‌ها و محلات شروع به تولید محصولات مورد نیاز جامعه باید بکنند. @WarRoom یاشار : یعنی‌کوکتل مولوتوف درست کنند ؟
 😂
 😂</div>
-<div class="tg-footer">👁️ 74.2K · <a href="https://t.me/withyashar/21414" target="_blank">📅 09:32 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 80.7K · <a href="https://t.me/withyashar/21414" target="_blank">📅 09:32 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21413">
@@ -434,7 +434,7 @@ E-11A BACN
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nNskO09tF02Gx-6sHW_0kQfU6TiKlqTM37yGEgiTiEG-IqYem2v2b_HKqfGLXa7I1wr-SvrSvAmTaoODuYBvggpclh1eGv6NQf747uyDpS5P3fTqFJzdJas2IA9D9mlt5SEpHBGrvQJDZG6HZBzwLmbH2quGz01GOxX5t-kFbrLqSgKr1AYGeRD9VftcRAFQqPjzKPL6iGbPw3GOnPeVqnVMQxqR4RTcnQAd8TJ42femRX9bsts9MKm-zLiXBYORZ76y5tL_LC28FqyRdFeqZ7tb0BaToWDlcEhzS7eTwzRAYsIaDRGDQRTW337b3gmUO7OX6ZGnk9KQ8HgA04bZFg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ در تروث :از قول ممباقر ،رئیس مجلس ایران: «ما گرسنه‌ایم، نمی‌توانیم زنده بمانیم»نیوزمکس
 @WarRoom</div>
-<div class="tg-footer">👁️ 79.8K · <a href="https://t.me/withyashar/21413" target="_blank">📅 09:00 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 86.3K · <a href="https://t.me/withyashar/21413" target="_blank">📅 09:00 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21412">
@@ -448,14 +448,14 @@ E-11A BACN
 </div>
 <div class="tg-text">ترامپ: اگر ایران به سلاح هسته‌ای دست پیدا می‌کرد، فکر می‌کنم تمام خاورمیانه از بین می‌رفت و قطعاً اسرائیل نابود می‌شد. آنها به من می‌گویند اگر دونالد ترامپ رئیس‌جمهور نبود، دیگر اسرائیلی وجود نداشت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 79.9K · <a href="https://t.me/withyashar/21412" target="_blank">📅 08:37 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 85.3K · <a href="https://t.me/withyashar/21412" target="_blank">📅 08:37 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21411">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">روزنامه یونانی کاتیمرینی گزارش داده که آتن پس از تهدیدهای تهران علیه پایگاه‌های آمریکا در اروپا یک سامانه پدافند هوایی Patriot را از کارپاتوس به جزیره کرت منتقل کرده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 84.2K · <a href="https://t.me/withyashar/21411" target="_blank">📅 08:10 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 90.6K · <a href="https://t.me/withyashar/21411" target="_blank">📅 08:10 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21410">
@@ -463,14 +463,14 @@ E-11A BACN
 <div class="tg-text">‏نیویورک پست با استناد به تصاویر ماهواره‌ای نوشت: فعالیت در قطب صادرات نفت ایران در جزیره خارک تقریبا صفر است.
 ‏داده‌های کشتیرانی نشان داد که روزهای شنبه و یکشنبه ۱۷ کشتی از تنگه هرمز عبور کرده‌اند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 85.6K · <a href="https://t.me/withyashar/21410" target="_blank">📅 08:08 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 91K · <a href="https://t.me/withyashar/21410" target="_blank">📅 08:08 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21409">
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">‏خبرگزاری مهر: آتش‌سوزی گسترده در چندین سوله یک کارخانه تولید چسب و عایق در فرون‌آباد پاکدشت، بامداد دوشنبه به وقوع پیوست و به‌دلیل وجود مواد قابل اشتعال، عملیات مهار حریق با دشواری همراه شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 85.5K · <a href="https://t.me/withyashar/21409" target="_blank">📅 08:01 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 92K · <a href="https://t.me/withyashar/21409" target="_blank">📅 08:01 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21408">
@@ -480,7 +480,7 @@ E-11A BACN
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/21408" target="_blank">📅 23:57 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/21408" target="_blank">📅 23:57 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21407">
@@ -490,7 +490,7 @@ E-11A BACN
 «بسیار زود و پیش از آنکه دیر شود زمانش فرا می‌رسد که رئیس‌جمهور و متحد ما اسرائیل مجبور شوند وارد شوند و کار را تمام کنند.»
 آمریکا باید نیروها و تجهیزات نظامی خود را در منطقه حفظ کند تا برای اقدام احتمالی آینده آماده باشد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/21407" target="_blank">📅 23:52 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 130K · <a href="https://t.me/withyashar/21407" target="_blank">📅 23:52 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21406">
@@ -498,7 +498,7 @@ E-11A BACN
 <div class="tg-text">اناق جنگ با یاشار : این خلاصه از بهترین ویدیوها از ساعتی پیش که مسابقه شروع شد تا همین دقایقی پیش درست کردم که هیچ جا پیدا نمیکنید.
 گرندپری «Freedom 250» در قلب واشنگتن و در مسیر اطراف نشنال مال برگزار می‌شود؛ مسابقه‌ای ۲۵۰ مایلی که نماد ۲۵۰ سالگی استقلال آمریکاست. ترامپ که با فرمان اجرایی زمینه برگزاری آن را فراهم کرد، پیش از آغاز مسابقه با خودرو ریاست‌جمهوری یک دور نمادین زد و پرچم سبز شروع را به اهتزاز درآورد. هم‌زمان، نمایش هوایی گسترده‌ای با حضور بمب‌افکن‌های راهبردی B-2، B-1B و B-52 برگزار شد تا قدرت نظامی آمریکا نیز بخشی از این نمایش ملی و میهن‌پرستانه باشد. هم اکنون ترامپ از جایگاه ویژه در حال مشاهده مسابقه می باشد. البته بیشتر در حال صحبت کردن با اطرافیان است تا این لحظه…
 @WarRoom</div>
-<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/21406" target="_blank">📅 22:53 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/21406" target="_blank">📅 22:53 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21405">
@@ -506,14 +506,14 @@ E-11A BACN
 <div class="tg-text">جمهوری اسلامی اعلام کرد از امشب هر نفتکشی از مسیر جنوبی تنگه ی هرمز(متعلق به عمان و آمریکا) عبور کنه جریمه میشه و یا خود کشتی توقیف میشه و یا اموال کشتی مصادره میشه.
 @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/21405" target="_blank">📅 22:50 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/21405" target="_blank">📅 22:50 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21404">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">شاهزاده رضا پهلوی: قیمت دلار امروز از مرز ۲۰۰ هزار تومان گذشت. امروز قیمت دلار ۲۸٬۵۷۱ برابر زمانی است که جمهوری اسلامی به قدرت رسید. حاصل نزدیک به پنج دهه حاکمیت فساد و ناکارآمدی در جمهوری اسلامی، فقر، فساد و انزوا برای ملت ایران بوده است. تجربه این پنج دهه یک مسئله را برای همه روشن کرده است: در جمهوری اسلامی اصلاح ممکن نیست. قطار ایران در بهمن ۵۷ از ریل تمدن و پیشرفت خارج شد و امروز جمهوری اسلامی آن را با سرعت هرچه بیشتر به ته دره هدایت می‌کند. امروز وظیفه تک‌تک ایرانیان، از جمله کارمندان دولت و بدنه اداری کشور، این است که به هر شکل ممکن با اخلال در فعالیت‌های مخرب جمهوری اسلامی و تضعیف آن، زمینه برکنار کردن رژیم و نجات ایران را فراهم کنند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/21404" target="_blank">📅 22:34 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/21404" target="_blank">📅 22:34 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21403">
@@ -525,7 +525,7 @@ E-11A BACN
 «سخت‌ترین تحریم‌های تاریخ» علیه ایران
 مطرح شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/21403" target="_blank">📅 21:39 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/21403" target="_blank">📅 21:39 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21402">
@@ -539,46 +539,46 @@ E-11A BACN
 </div>
 <div class="tg-text">سنتکام : از زمان ازسرگیری محاصره دریایی علیه ایران، مسیر ۷۰ کشتی تغییر داده شده و فعالیت ۳ کشتی دیگر نیز متوقف شده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/21402" target="_blank">📅 21:20 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/21402" target="_blank">📅 21:20 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21401">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">واشنگتن پست : تعداد مجروحان آمریکایی در جنگ با ایران به 774 نفر افزایش یافته است. این آمار شامل 18 کشته و 756 مجروح است. طبق داده‌های وزارت دفاع آمریکا، حدود 60 مورد جدید از جراحات در روزهای اخیر ثبت شده است، که شامل آسیب‌های جدی مغزی ناشی از انفجارها در حملاتی است که پایگاه‌های آمریکایی در منطقه را هدف قرار داده‌اند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/21401" target="_blank">📅 20:53 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/21401" target="_blank">📅 20:53 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21400">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">نتانیاهو: ما به شرایط قبل از ۷ اکتبر باز نخواهیم گشت و اجازه نخواهیم داد هیچ گروهی در غزه به شهرها و مناطق اسرائیلی تهدید کند یا امنیت را تضعیف نماید.اگر حماس فوراً از پرتاب بالن‌ها و برگزاری تظاهرات‌ها خودداری نکند، هدف قرار دادن مسئولان این اقدامات را تشدید خواهیم کرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/21400" target="_blank">📅 20:21 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/21400" target="_blank">📅 20:21 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21399">
 <div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">سخنگوی دولت : خبر خوش برای مردم، سود سهام عدالت (۲-۳ دلار) از 2 تا 8 شهریور واریز میشه
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/21399" target="_blank">📅 20:14 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/21399" target="_blank">📅 20:14 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21398">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">اورشلیم پست گزارش داده است که اسکات بسنت، وزیر خزانه‌داری آمریکا، قرار است روز دوشنبه ۲۴ اوت در یک نشست خبری جزئیات برنامه جدید دولت ترامپ برای تشدید فشار اقتصادی بر ایران را اعلام کند. این نشست ساعت ۲ بعدازظهر به وقت شرق آمریکا برگزار می‌شود که با توجه به…</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/21398" target="_blank">📅 19:34 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/21398" target="_blank">📅 19:34 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21395">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">اکسیوس: وزیر خارجه سوریه، اسعد شیبانی، امروز یکشنبه با رئیس سازمان اطلاعاتی اسرائیل (موساد)، یوآو گالفمن، دیدار کرد تا تلاش‌هایی برای کاهش تنش بین دو کشور صورت گیرد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/21395" target="_blank">📅 19:25 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/21395" target="_blank">📅 19:25 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21394">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/21394" target="_blank">📅 19:21 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/21394" target="_blank">📅 19:21 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21393">
@@ -591,7 +591,7 @@ E-11A BACN
 <div class="tg-text">بی بی نتانیاهو الان این شماره رو گذاشته  مردم زنگ بزنند اگه عبری بلدید صدای مردم ایران باشید
 +972544700047
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/21392" target="_blank">📅 18:58 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/21392" target="_blank">📅 18:58 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21390">
@@ -605,7 +605,7 @@ E-11A BACN
 </div>
 <div class="tg-text">در جنگ اخیر کی بیشترین پول رو در آورد ؟!
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/21390" target="_blank">📅 18:48 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/21390" target="_blank">📅 18:48 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21389">
@@ -613,7 +613,7 @@ E-11A BACN
 <div class="tg-text">کمیسیون امنیت ملی جمهوری اسلامی:
 دریافت هزینه خدمات از کشتی‌های عبوری از تنگه هرمز تصویب شد‌.
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/21389" target="_blank">📅 18:26 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/21389" target="_blank">📅 18:26 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21388">
@@ -627,7 +627,7 @@ E-11A BACN
 </div>
 <div class="tg-text">زامبی ؟ بدترشه ، نسل ۵۷
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/21388" target="_blank">📅 17:58 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/21388" target="_blank">📅 17:58 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21387">
@@ -651,7 +651,7 @@ E-11A BACN
 <div class="tg-text">نیویورک پست
 : در هفته گذشته حدود 200 کشتی چراغ خاموش از تنگه هرمز عبور کردند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/21385" target="_blank">📅 15:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/21385" target="_blank">📅 15:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21384">
@@ -665,7 +665,7 @@ E-11A BACN
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromAmir</strong></div>
 <div class="tg-text">یاشار داش دلار تو بازار من الان 210 چنج کردم</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/21383" target="_blank">📅 15:11 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/21383" target="_blank">📅 15:11 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21382">
@@ -673,7 +673,7 @@ E-11A BACN
 <div class="tg-text">‏دونالد ترامپ در‌تروث با انتشار ویدیویی جنجالی از سخنرانی خود، به انتقاد شدید از تلاش‌های حزب دمکرات برای محدود کردن اختیارات نظامی رئیس‌جمهور آمریکا پرداخت.
 ‏او در این اظهارات طعنه‌آمیز گفت : اگر علی خامنه‌ای در حملات کشته نمی‌شد، دمکرات‌ها احتمالاً او را برای ریاست‌جمهوری سال ۲۰۲۸، سنای میشیگان یا حتی مدیریت کمیته ملی دمکرات‌ها (DNC) نامزد می‌کردند!
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/21382" target="_blank">📅 14:35 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/21382" target="_blank">📅 14:35 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21381">
@@ -687,13 +687,13 @@ E-11A BACN
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">دلار کف فردوسی ۲۰۱،۰۰۰ تومان
 @WarRoom</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/21380" target="_blank">📅 14:24 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/21380" target="_blank">📅 14:24 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21379">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">دلار ۱۹۹.۰۰۰ تومان (رکورد تاریخی)  تتر  ۱۹۷.۰۰۰ تومان (رکورد تاریخی)  بیتکوین ۷۶.۶۱۶ $ انس جهانی طلا ۴.۶۰۲ $ (آخرین قیمت) نفت برنت ۹۳.۹۹$ (آخرین قیمت) @WarRoom ساعت ۱:۳۰ دقیقه تهران</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/21379" target="_blank">📅 14:23 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/21379" target="_blank">📅 14:23 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-21378">
