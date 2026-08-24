@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 17:00:34</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 18:02:38</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -375,7 +375,7 @@ z.ai
 
 <div class="tg-post" id="msg-943">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hgnjTY_B4Vy5Zt10SMuZ95pEeC47ovn7_ayZ7vj4Gt5IumCbBWJHbFnivaliJCTW11goXKCm0Gu-BtguKSmqO8AZm-hh_HNQvPE60x9_OcrVekQq6Rn5RAvsqszqL8HDMzgL6-_hK8pbIHCP1ySvkGI4CWxZp06k5zitx4uSerZbJeTpjStkVROpde_GkLnrpZSdUULVJNOg5eJ4NK5mDD5ytB09Q2RWN42krc-GAv5TRX5s0sMwbYRGG8dyYKkc8PlxciLgBW9px1-AdB5eks9Z2BJFKOIQtZSj0XPX10NJsHpReGHD7dp8FMEZw0eYH9iMCjzWdoAuQwI1bv_zZQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/j7oQnGsggQa0A1i8nSle5UWms3eLMPHi5QJlAoEfI41vOH_rZ687QLfLZY52wtnHdIz6mA6GIxICi7CjtjMtnue5bd-h0jelM6AeEKSfQ69NBYWjAspBI93Zlyf6HVb3pdxLjioOtYDCQbGUXGjKHgoLy5F2nUnAyCGqaNnEw2GpotSzbIABkAp9ha5QwPX-2xMtj94sbBU8XHXlJI2Qx3Msthj2cgISL0OW1yYcHl0MYIRDTLGrue8lLsFQeFUoZ9gadfv4XFUFZmtARmASAhaql9aFC2lGJW0YONwbeN08IVNvSLq6XwMxAt8ZuKI96qwmv3n49YiZj8SqG8YAhA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از ظهر امروز اوضاع نت اصلا خوب نیست و رو به بدتر رفتن هم رفته
 کارای مهمتون رو انجام بدین، احتمال هر شرایطی هست مجددا
 @danialtaherifar</div>
@@ -1100,7 +1100,7 @@ GFM (مدل گراف-محور برای ارزیابی اعتبار محتوا)
 
 <div class="tg-post" id="msg-886">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/us06imP8zcH4lF1rqZ53sfuoQSSqUpMTkVqpPRC8hWpKr4O5MmDyWIyMgnGwFeJVLMqCky1YE2Tkxyf6-kwgL449mJcGlj5zixtMheBMIyJHE7xFCD9l1mu36NzLAvuek7En6xuTh0zzOd2COB7oqJeI6mVJeBnwsKLWPzgSo85XAzwz3Y4Ou-ifwKw5EZwPfSWBvm9RTr3jk2WUEqJIyecPLqyqS23R082NTIuRcmYmUZ6huLlSiQDkBVWswOCia8x0WXYESDeBY12lXtVNWUr5xBeA6zSb619c5MGzAYC9fgJMWFXrKWP9jsotPsPScOVpSGAdGx5ztMT0-Q0Cfw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nr7qh1Ue3zXXkP3rSRk6p3VABuFQ7T8wnQBZJanuCB0v4l4_NbPkE0JBrYvKyksV_xdfpKC04IjUrVjASCdCxtNYyZLtuZpACE-b3mxcnKPARcA4Y7NiIQKKegxKigvtIlqEIdbW5Skb4U0aQjmd5ZJ1XSbZhgMvag4l4L6kiA2NhRiB4i4EGnJQ4pzVbUkmOc-oQ7E4iIOs_NpulTcsn8HH7mXKNAC9qkdwY0vXdrwvV7XXidDsLobjdPGo8kx9Kh-nqcbyCFEtoFSc5m2rw0zL-bFRqOkowPAP1Mcq5Ju01E-mCI-xvEMo0YizDPIyhho1u3NH16yx8wAaertiuQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل سیگنال‌ های زمینه‌ای رو به نتایج جستجو اضافه می‌کنه
 📌
@@ -1683,7 +1683,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 <div class="tg-post" id="msg-857">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/rLznbTKzjFeQF-G_lfLv2SX9siIqvUUiKjg4O-8ZH5WPQcjdM5Z_U1Prme5vl1OcO6hXgdpfesipVAi3rfwTL1WDp1rr7ujU8lqQrgltWnKetHLQZ6rE9HKHUQX1MNtUM7YwIRRK1YXvUvY-10gDjWR5sOHv68zL2NcPpiIBkmgPEZ9psPz-MuTit9F6x4W1tJhfwV8xEwZgetW6J-GUogC-UTp3YxTMDzYUOG7Fj9xxAzzMnXooNGoKUnfqldMwAfEx2IsR9-FF_qbwRNcgfyOMtxDE5lEmrXzCJrhaFtzXESxuMLcJo9pVozYDPoS5ZBmPkMP6EgXMC-uNQEhPIw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/olhiWauFd71SrzmJYfAmxBM-ExDQ9BlK-xx7TZ7zJCZvop_KmyVxJ-OPQmBdL2KcIul22Vlf1cRhEl-aySq_bzhNrjoVqvabw91XPIWupdjcGl_PbEk_SSpSB0eVszQeWmGYZ58QSLjel6gRh9HMmzW6GGuJTnjQncUxBobCwqwxjsGIUkL-MrId5iTzaHxJWB7LizXR7_aFZCyfg9U78qNTPXLPktelcUzi-TYT4ivW88PLBGagcHVL4Y23idn_G0tgHgxK7QAuJmPrToxAszAl8V44An818d35tJ7B1ithZKwFluPH_AJFeSHyd6EVtuyWB6AMrpK0ISdDmMvImg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/AMG_jxcbhcr8G4H2sGJQZesuPNuDeybs3kFne_AHlm6u4lylCZoOuVrw6y4D4PrnrQ3AiAxX7OicFTDYq_8GR1l21yf07hHx1S26HpkFtgbakPoN72_Ma0DtTo1CStNb5gMxY11CVwC8rbnER3Mou8UWe_d9Du1IFHuG40eIqWxZ3IbOG3WdXg4ZbSSaGBBGt26iAXDJlU-S95j0uXXpH-9P8TJ6IEwc3cQx86611lHwavVArPob3--7UVbp8mamuRb5Q-fvEdInG5vRtPOQPh0EFwJpbN_EADfn6LNBzHozrWZoCwPlZYQ_5IwJPRCJom9XgKMpNJsoY7AFuCei2w.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">📊
