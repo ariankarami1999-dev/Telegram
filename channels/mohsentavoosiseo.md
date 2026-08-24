@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 15:59:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 17:00:34</div>
 <hr>
 
 <div class="tg-post" id="msg-916">
@@ -305,7 +305,7 @@ March 2015!
 114 فاکتور رتبه بندی در گوگل
 https://www.linkedin.com/pulse/114-%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%B1%D8%AA%D8%A8%D9%87-%D8%A8%D9%86%D8%AF%DB%8C-%D8%AF%D8%B1-%DA%AF%D9%88%DA%AF%D9%84-mohsen-tavoosi
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.15K · <a href="https://t.me/mohsentavoosiseo/916" target="_blank">📅 16:11 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.17K · <a href="https://t.me/mohsentavoosiseo/916" target="_blank">📅 16:11 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-914">
@@ -362,7 +362,7 @@ booking.com
 🟢
 اطلاعات بیشتر در info کانال(bio)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.37K · <a href="https://t.me/mohsentavoosiseo/914" target="_blank">📅 12:46 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.38K · <a href="https://t.me/mohsentavoosiseo/914" target="_blank">📅 12:46 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-911">
@@ -380,7 +380,7 @@ booking.com
 <div class="tg-post" id="msg-909">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2K · <a href="https://t.me/mohsentavoosiseo/909" target="_blank">📅 14:43 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.01K · <a href="https://t.me/mohsentavoosiseo/909" target="_blank">📅 14:43 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-908">
@@ -518,7 +518,7 @@ Ban
 </div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.52K · <a href="https://t.me/mohsentavoosiseo/892" target="_blank">📅 14:56 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.53K · <a href="https://t.me/mohsentavoosiseo/892" target="_blank">📅 14:56 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-891">
@@ -745,7 +745,7 @@ mohsentavoosi.com/1
 
 <div class="tg-post" id="msg-879">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oEeIdZ7pc1w9ipOZy497_DomK_CykyR89wsWvFeR-oumYCxjHlAaxIJ_qMjRiHA8_XpRuFp0kd3i3CFTp-vWlpuLjkeh0Qo87ImsPTTrbEIjTxObk9okDSmCam0H5i9-VXuNi95v9xbf9ajs0jqsmoxw5ER8xQhQ-L0QWYykzXNMSdtSH19Iwm97jdLlK3GX-149Fy7PmmBJpQSloJ5e1sogq_QHP8znQQ0HwuTzumWYyIPR1XxEXpFZy_65trF1GgHHjm3gVxXvFhFlDaVlhpExyDtilZy1OtIniUltytP0gwp-muBuGbBvJSHyW4AoR9dsOhrOW-ZSEl8Bj46xoQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lnNlgEXdtM2ANQCk-fiM7uLe_n9uBDkUQK1Q4rTIy2M06fABWH7BhjMXAibaRhBrfwSXPJKQ4DD8CvMG5USAvBm1k670756iIAH4fPxfDL3ZDAfteN0-6JpO4pzyR52CuE3UtLKdaX_AXjbrROM1-f_r6m-doznSRk0qU0DVR0pyjW5E6cd8ytf2fKyXH3wnuOhOSLU7sZ2K-24cSmhVdvPRIicyISYCeEboV_VJ0vwUyam2v2FKV1OMmTUnnIDGs20R80uQdhvLHAo1bRS2yAqSGR70hitIvuGnH1I93i7EAqsPJ5zvSofNY2O5lVqkv2ZU_EQlrAL9MxYu1A7Yow.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">❓️
 از کدوم هوش مصنوعی استفاده کنیم؟
 کلاد
@@ -798,7 +798,7 @@ Claude Cowork
 
 <div class="tg-post" id="msg-875">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FumvQGaABwQlG8dXMAtjimuTXlCiRiYGJUfuCIHNmwmrK7u2zaMMWBEjYXQnttwF9YuiBftS_R7vOyRKwCDuJTAOXjpJUlLbsgpPB61OUcNIePIUTAmKVy5TtUVqafVBSmwtDt_5mvGkkLQrqbx8WH3vJQrW1eImc0YvQwZuFz_V84F6Oxw4b0yI8sc9mgN0zBJ1gBplPHYCRi6A7PYdu6e-PLopLLQI2b7IO7l1VGBLNpC73z3B4JxHU74qsZQLaI9D7C5-53nEUZryqVRGlwAJsVjqQsopT9FLuNGrTjlBEbSqcj1Mb1y-Vry2oco20WW0KcvUWgUi6zm66a9q7Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FyI71qzMC9ucAZRfFoAPdnQKn8HdfP7zQ0cuu8A-vHW3WN6Rull9njoptrpmnBa6rLne_0pWY2R3QcuUQ87QKsIrWqP7FIJbwNuHKgX5OErXnDz2qhIrf2j3HYTtYuzUoRTQKPlXm0xokUnvrb9YKwSGpy0RrDvHDO46blhr0mz0_1wt0XJIn6G18ev1YAJcqhoqSWIND3w_CFoH0h6-m1jTnp7zQwghIN-Kpy0aOMeXln2Rb1pIKeP1gzfICQ37DlARiPhHk_muBQj57mRRLJ3OtariHuVPc5gHz4vUI2mBxvIHB7mG7558Cx2YjminsJkNlE00L7GGXRL-qtW-rw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
 <div class="tg-footer">👁️ 5.11K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>

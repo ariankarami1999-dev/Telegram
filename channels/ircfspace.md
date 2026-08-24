@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 15:59:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 17:00:34</div>
 <hr>
 
 <div class="tg-post" id="msg-2567">
@@ -308,7 +308,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2566">
@@ -322,7 +322,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2565">
@@ -339,7 +339,7 @@ github.com/telegramdesktop/tproxy-server
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2564">
@@ -390,7 +390,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2561">
@@ -404,7 +404,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -453,7 +453,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.2K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.3K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -472,7 +472,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -502,7 +502,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.1K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -616,12 +616,12 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/ircfspace/2547" target="_blank">📅 09:36 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2546">
 <div class="tg-post-header">📌 پیام #80</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/S2cYjBzDzB6PMPFneFz0oyYKyMMeCUGCGHP_TmEPT8UQRKQvIPshwoI5LNrtIswCtXFrUwAaigdVsFhLewCAiJW8lDBx0edhZ1MHhttYFCE_jWw1uX90X2N42hHXmF3ZletOPNQBIbacIf5QFqaZ4DP4KI2Q7hIgroH08EMizz0iJh5bShQulkaVtr__YBnAWH7vraUUvdYrSFvPLgq2IWUPgidt4-cQWhhhi7Tt0ZJpz2yIAWPChUZWIk6T08arV4GVXop0bI0WflY2scA_mkgzk9vVe7YoA3WYD9YZjRJeHKRjc1O8Hsw-b9P8c56_6jdIGAjSAj-wVG2kfOpiyw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/X3zeE0phvP54OS7kpGBuw6HziQznf53nSkXwQ6s9YBrBCWPTW7nmcVDxykJjt-FNFwM6-xIJo_SoJnUe2RvP-P_NddObi_Uc7rxIcwXSL04skKSDVedvVZb4sIqzxJkInNW0MjPD_dyZgVsRqL2vkVuO-PSAI_kJVgXnXVzqR4kFYFpAK8iH-Fv3rRnm_1UWbhOCsxH6TZZCselIgbEEda7-BG5qyopb1aqDJV6HDcPCXDCUetuh8wCPuMOYHku-7QqOZRrsbUOPyEyZr253DTYFfBNiRI9NzARXZxHw3d0X8NSVpMf3urEFfXpii5MXrcbnXWCPwEKTcH0hkohO0Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">متاسفانه عده‌ای از عناصر فرصت‌طلب سودجو عنوان می‌کنن اینترنت قوی و زیبای ما گران شده است. برای شفاف سازی میگم بسته‌ای که شش ماه پیش خریدم 1,348,000 تومان، الان شده 3,870,000 تومان. قیمت فقط ۳ برابر شده، گران نشده.
 بنده هم با ارائه سند میگم اینترنت گران نشده، فقط ۳ برابر شده!
 ©
@@ -995,7 +995,7 @@ testflight.apple.com/join/cRSCr51a
 
 <div class="tg-post" id="msg-2523">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tm5JdPkHMKxQ_XAR_5e3g_5p2s9bM_t04rf6D8da_Q3UifCSEHQuYXZy8dVNwGVuX2sIf8gmL7pLRNHKBhMdVPReXBw3llhrzk_AOpZayWzWGHPcxfbnqhgy_pB7p0n0pQAdVFkWNrkUn-uhbEb56drOrndgYPmq7E3-R0JvckB3_O38lw-8qJuVfoKabPzFMWIWJY94fdQfsgHLlQaBVHq-T9o0sYaecnlUxPiKe91Pvy_GfdgrmmuPnOxuJAvpZRCwOIgZmoOuk1ctchM7ivtq-WJQfLGf2ISbVZVDUjRLbZtWoyJ5zI22u6YeUatupTNI-VXElM3N_vlwhzz37A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RNSCNLRgd0vJAon3yrQFNaYpYRmxOGSEsIcKKapqF118CKHJ4IxxfmkzAypX2FOn2MkC7fuMFu9tHVoMOHnd-aMq72pAmYLx4OlciPLotR9fXhy8xtju-9hFOQHibbfyk5olDzwgiv0gPi66FcC1owXSBPbnTSDPgjbgePFOOSmbHeAcdM2eByPbD9ShQjj9zL7dqkTDGZpi5RIFmdatvy8MT2oM1rIiHeBuB1vi1CeOkq0M6-RQm4AH71kp5fP0Jz8iG19trKGyv6eY50Ewy4rlXKbeiIRwNSgEDrXQsrj80aiA3_x0TjyElJOWQXWYVtcW-Etre389sjZOJTMoAA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ AetherST Tunnel یک فیلترشکن متن‌باز و رایگان برای اندروید هست، که با ترکیب هسته Aether و SOCKS5 مبتنی بر HEV، امکان اتصال از طریق پروتکل‌های MASQUE، WireGuard و Gool رو فراهم میکنه.
 👉
 github.com/immaghzbad/AetherST/releases
@@ -1437,7 +1437,7 @@ github.com/SagerNet/sing-box/releases
 
 <div class="tg-post" id="msg-2495">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cwUyELeHRHYVhRn3QBHaK-reHUXVIAYCFZRVLLmQRKFVO1EY5cwJhO2l5Ii2adN3y_Lv-jrmi3rQ6dIvDT_0XhSxFblkR_h74UlMwB_JTzrUEFFmdtHoxjsFQ5y8T7YyYVfTK0uvFwk2IBW4DFs8gFZbu8_xK8VEVFE22uuYf9qjubODSKbpoPMf5tTKxp_QsCURarEAefHWGLjJPwp0SOdQnXXINd_FR-mk6IdsoOAzaGCnSJYNSRByXVbiYp0WiX7XA_gqo-AEwmR4iXVHWsIrmHFUzpmAXn9Kf4uhkZ_JOeJCjoquiirxy4oRd8LkqEIbmIT5zXO3ebcfhxAkHw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CM2_cnY4DemSCfMqXWIbyPUz4sqwHI98E1q0f42_6ozO4F43_pdp0rQiXnThzcsewoRS3GKAGZSEaN7_ncLnX6yspbb2Y_D1KoOUe64KrUULAia-nU_vXypZLWCyk0tiALniv67BXfcACXE-c6mN958txwdPelCgd8y6vMTOHZb24XBcO1cUyWAFfHHyv1ZhaThP-ULqicMcis6sT3Pd_VRW_7n_MtmsPa7vKekVnkvrhv5X60ysDZ8DX1W1eGkHZL7ut2gQVuGvMQ35oVUK2EUufKUazFcm9gHnAohZtPgm1VO522r1fvTp_9DBF1DsfUxfMTfqnMw72Sr7NhIVQw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aether-GUI یه واسط گرافیکی برای هسته Aether جهت دسترسی به اینترنت آزاد و دور زدن فیلترینگ هست، که دردسر سر و کله زدن با محیط ترمینال رو برای کاربران سیستم‌عامل ویندوز حذف میکنه.
 👉
 github.com/MatinSenPai/Aether-GUI/releases
@@ -1448,7 +1448,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/ircfspace/2495" target="_blank">📅 08:14 · 24 Tir 1405</a></div>
+<div class="tg-footer">👁️ 37.9K · <a href="https://t.me/ircfspace/2495" target="_blank">📅 08:14 · 24 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2494">
@@ -1488,7 +1488,7 @@ github.com/CluvexStudio/Aether/releases
 
 <div class="tg-post" id="msg-2492">
 <div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gkCGVLjxJ5BKjhTdK5hO5GrjebM3iUVwphnIwa6OiXX77lHIjRMj-B995S_0yqNhNRm-xut8etubixlPW-8Pr9oGJs-82IuEmI633N_NMYf3QMrkdOKIUFwhRIhO7zguL5NiAsi4zwYMsIS4DC0q9lleGoqyV6G-LqNFqPgAVycf17hsGl03mN9_DpwUeahmyTpcQB02gH94RREj0Zktu1eTicwzWDJQAmGW1sBhv64pRI5_ZNJJcGG3Hrl6lI6CItSW7-kvPjXpBt2fvnUUGJu2iFW58Vb9dVnFNbgbncUDX5x9T-wBf99eNTeU2hfVEpBnLIVuevyNioUno5avjQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Nm8jBDwZDvi9LLu_05fVsJbPEauB5t-bIv67g0FivyA1feK13PHzU7eYpWcjiDW_RArlBDWgyhxn0rFX9bU_WWeCgqazRJY1NLJShRSqGIwGaSKdT8zu6af1tdyLgvP0qSfK05jGADfktRdFJzsVG-TeL3twUtQ5NZjXJScU9VgYWhXVL0hXhwiEYCGn8FufHDLvDB7NRPtC-TYo7wyGZhR7iSUUPyO4mJJ6EFWwCc8QNt_UceNcJE6uvywxFKuDxQ8nrLhcXolch4oTRSFS1w8WjRy_qiIahm_CWGq6zI3yr6ujdVgv2_0TVoB2iQS6WMFlxRSVOY0l9YUB2-VbMA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دامین
 t.me
 که بدلیل تحریم‌های وزارت خزانه‌داری امریکا مسدود شده بود، مجدد فعال شد.
@@ -1627,7 +1627,7 @@ github.com/IR-NETLIFY/zeus
 
 <div class="tg-post" id="msg-2483">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/T7J3tQtYBc6cAT1-ihAHQprBolD0Qs4Cz4kD4jUECSX8WIj2YfUTMLD2yDvnv7o3Pw6mtkONPiMLxNvXRssM5x_MnQjUFOo8PDRsuMyipdDDLm4lTiS7tgPHo9D7u610W3oSNU1H3mHPHsmNPP2ToS_-guLdAQ35i7YBLGec64mGId8Fsx_UL9_NN4XBHY20OAOct6qVY_9g6NHiwzgSIBvZAj2GQa_sSWk9P0bzS8m8yVnc9ZeV8gna5M1mMQCjXzbnxBD8ZEcXI8zfmLd97FCbINiF64d2OSJSvkQjVqz0M8d1vO-LMOfNgewGg81e4xSFifrbisAvA4fS1w12wg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/R229elGpM6jYI2OKMvJWrFhj2-qsMQulj7XATgwpq-YNe3ckRT62u3-G_WyA5HEv0QbPMEGufYMSKjEsLuDXGslR8_3IOgvOeE8x-OQ80pkiOpbogZfiXZ3lHbWVBTwcaimHMMNa_mlqLYnglQKIXBjtDlFE0_7jd2UanC-4ZI4sbE20jt81c0wLAk17r9KSMLa47c6EBXHHHso6hrIlDOAZZfAd6VBK3N2bsWFGoy6uCzi063eUnjmTzESUT0fABqF1wPyuc2OiHm6dfpmeC48IaQPa0hVQSVhEJ0MQB8rcdeorTQM936bGABxCluOzYIGH-B8C2cyM-1lKTQDJ5w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایکروسافت یک آسیب‌پذیری روز صفر در Microsoft Defender با نام RoguePlanet رو برطرف کرده که می‌تونست به مهاجم اجازه بده تا با سوءاستفاده از یک نقص Race Condition، سطح دسترسی خودش رو تا SYSTEM بالا ببره. این مشکل با شناسه CVE-2026-50656 ثبت شده بود و حتی روی ویندوز ۱۰ و ۱۱ کاملاً آپدیت‌شده هم قابل سوءاستفاده بود.
 ©
 bleepingcomputer
@@ -1656,7 +1656,7 @@ github.com/MortezaBashsiz/nipovpn/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/ircfspace/2482" target="_blank">📅 08:14 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/ircfspace/2482" target="_blank">📅 08:14 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2481">
@@ -1763,7 +1763,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2475">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tlbw0lak9uML5Og9gnQknXgpuhbKUjZ0dW-Bf_-Wy0cf9yxsykdR9Cu0iqWOUmVItFDmjpdZ8QPfSIjVGn3hjnGY9ANLnUmpga7YeKR4VVzYIOZwI0u9kmeCH8XPkKo0_FMeCSUdsQ9UilAuQlNNk-x8f4HnZLEp80QUAdo5h_iEDySC0HCYjv-d2oRB1OTOGNnuXiWYZBiv_VygNqBYbPZ-vC2EaHEmhiN4IwnV1sIvTT2kTgPE6Hl9IVF6kZ3GQHbKOrgmEyZ6oSytzaUgfo-13yJfNA70_tx-I1m_IiPXAp-JxV4PSrWNpzxVKiP0smWAfeDWrhPTrmurvDPwbA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/imzpKze-y5F0mHtOsYzK38Uuo9ijUs0m4xk1TI9SF730zvulbv8OSKx3UdY3W0EHvNxYf-kgARHBOSiq4dap53p67hJo7d9DTMV9wqIRN_bmN4dGaP5tZbAut2g6dfdo5VD_DtbVXXS7U7wud_MbplNBy48WHXXlGvfCyro3QkO8FPSSIk_LlBNqHpZpvPIvcg7zdRyvlWB5C4xRTid-yQabYayn38cK--L1uumBKe9Js5OaHsknM4dZ36BCFZSuf-gTNY2T54gRGTlgQtoJF-71dnsNJNCL1VgFtXjqXapmMVKLMKZFfh1_1nlNSWjqHsxqfGJyVhrk94DJ1v3tdQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ GRoute یک کلاینت متن‌باز و رایگان بر پایه هسته ایکس‌ری هست، که امکان استفاده از پروتکل‌هایی مثل VLESS، VMess، Trojan و Shadowsocks رو در کنار ترنسپورت‌های مختلفی مانند REALITY، TLS، WebSocket، gRPC و XHTTP برای دیوایس‌های اندرویدی فراهم می‌کنه.
 این برنامه از قابلیت‌هایی مثل اضافه‌کردن کانفیگ وارپ، مدیریت لینک‌های ساب با بروزرسانی خودکار، مسیریابی تفکیکی، پروکسی برای برنامه‌های انتخابی، فرگمنت، Sniffing، نمایش لاگ‌های Xray، اسکنر آیپی تمیز کلودفلر، امکان تست کیفیت اینترنت، بررسی پینگ واقعی، تاریخچه مصرف دیتا و ... برخورداره.
 👉
