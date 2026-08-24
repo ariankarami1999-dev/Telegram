@@ -292,11 +292,63 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 03:12:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 04:14:22</div>
 <hr>
 
-<div class="tg-post" id="msg-78008">
+<div class="tg-post" id="msg-78010">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZCvDCQpWKtxzr40oSHbOZyrclsDSOSxxygoNXppn59VBtCdAFRgTszlReQOTFe4STRdPq2__BNNnZ830tMDTeibnDDa_DSUqgvL1kEF2WlP-pkoYWf06ETzCK_icMjatd6lJioy2UnX80ZOpwqYSk769j4hn-glb1fDXrOyzypSoJQk0oDqZ2uC3vj6SzKbC1v9H1kvxwe3wnPSyRilYKgws0oUWb531j5mTjuvXoNy9WVpI2w2Dub8BvQ4yL7NDPbNtNgmZCWR9Cq871OqyfwdGQ_VyL1e5eG6a1e83TKZ7GciE8K0TJbGBtUgbo5zRIm84abmbJOyrRcMLUndG5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">پست اسکات بسنت، ترجمه ماشین:
+رئیس‌جمهور ترامپ توانمندی‌های نظامی ایران را در هم شکسته، نزدیک به ۱۰۰ درصد کارخانه‌های نظامی آن را نابود کرده و برنامه هسته‌ای‌اش را مدفون کرده است. اکنون وارد مرحله نهایی می‌شویم. با سپیده‌دم، یک «D-Day اقتصادی» آغاز می‌شود — بزرگ‌ترین تهاجم مالی واحدی که تاکنون علیه یک دشمن بسیج شده است.
+جمهوری اسلامی با جا زدن اخاذی به‌عنوان تضمین‌های امنیتی، به حیات خود ادامه داده است. این رژیم از محاسبه‌ای قدرت گرفته که در آن، تلافی ایران قطعی و اجرای اقدامات از سوی آمریکا قابل مذاکره تلقی می‌شود. تحت ریاست‌جمهوری ترامپ، آن دوران به پایان رسیده است. و کسانی که از خطر سرپیچی از تهران می‌ترسند، نباید هزینه آزمودن واشنگتن را دست‌کم بگیرند.
+رئیس‌جمهور شرایطی را فراهم کرده است تا از هر نهاد، هر اختیار و هر اقدامی که بسیاری تصور می‌کردند هرگز به آن متوسل نخواهیم شد، استفاده شود. هدف ما قطع کردن هر شریان اقتصادی‌ای است که این رژیم استبدادی را سرپا نگه می‌دارد، تا زمانی که تهران تنها بماند.
+SecScottBessent
+📡
+@VahidOnline</div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/VahidOnline/78010" target="_blank">📅 03:44 · 02 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-78009">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-text">اسکات بسنت، وزیر خزانه‌داری آمریکا، به کشورهایی که به روابط مالی و تجاری خود با جمهوری اسلامی ادامه می‌دهند هشدار داد که باید میان همکاری با تهران و حفظ دسترسی به ایالات متحده و نظام مالی جهانی یکی را انتخاب کنند.
+اسکات بسنت، وزیر خزانه‌داری آمریکا با انتشار مقاله‌ای در روزنامه فایننشال تایمز تاکید کرد دولت ترامپ قصد دارد با قطع همه شریان‌های مالی و تجاری جمهوری اسلامی، تهران و کشورها و نهادهای همکار با آن را در انزوای کامل اقتصادی قرار دهد.
+او که قرار است دوشنبه دوم شهریور در کنفرانسی مطبوعاتی جزییات اقدامات تازه دولت آمریکا علیه جمهوری اسلامی را اعلام کند، هشدار داده است که ادامه همکاری با حکومت ایران، دسترسی این کشورها به سرمایه و بازارهای جهانی را به خطر خواهد انداخت.
+وزیر خزانه‌داری ایالات متحده از آغاز مرحله‌ای تازه و گسترده در فشار اقتصادی علیه جمهوری اسلامی خبر داده و آن را «روز سرنوشت‌ساز اقتصادی» و بزرگ‌ترین تهاجم مالی سازمان‌یافته علیه یک دشمن توصیف کرده است.
+بسنت در این یادداشت با اشاره به کنفرانس تهران در سال ۱۹۴۳ نوشت رهبران متفقین در آن زمان در پی یافتن راهی برای وارد‌کردن «بیشترین فشار ممکن بر دشمن» بودند. به گفته او، تاریخ اکنون همان پرسش را بار دیگر پیش روی تهران قرار داده و زمان آن رسیده است که ایالات متحده با تمام توان به آن پاسخ دهد.
+او تاکید کرد دونالد ترامپ، رییس‌جمهوری آمریکا، با استفاده از قدرت نظامی ایالات متحده بخش قابل‌توجهی از توانایی‌های نظامی حکومت ایران را از میان برده و برنامه هسته‌ای این کشور را تضعیف کرده است. بسنت افزود واشینگتن اکنون وارد «مرحله نهایی» شده و می‌خواهد فشار نظامی را با حمله‌ای گسترده به منابع مالی و تجاری جمهوری اسلامی تکمیل کند.
+وزیر خزانه‌داری آمریکا در ادامه، جمهوری اسلامی را حکومتی خواند که طی ۴۷ سال گذشته هم در داخل ایران و هم در خارج از مرزهای آن نقشی مخرب داشته است. او گفت فساد و سیاست‌های حکومت، اقتصادی را که می‌توانست یکی از قدرتمندترین اقتصادهای جهان باشد به ویرانی کشانده و مردم مبتکر و کارآفرین ایران را با سرکوب روبه‌رو کرده است.
+بسنت همچنین جمهوری اسلامی را متهم کرد که در خارج از ایران، شبکه‌ای از گروه‌های نیابتی را برای ادامه فعالیت‌های خشونت‌آمیز و تروریستی حفظ کرده است. او گفت ایالات متحده بهای سنگینی در رویارویی با این شبکه پرداخته، هرچند تنها کشوری نیست که با پیامدهای فعالیت‌های آن مواجه شده است.
+به گفته وزیر خزانه‌داری آمریکا، با وجود گستردگی تهدیدهای ناشی از سیاست‌های تهران، واشینگتن در بسیاری از موارد در عزم خود برای مقابله با جمهوری اسلامی تنها مانده است.
+بسنت کاهش شدید ارزش ریال و نرخ بالای تورم در ایران را نتیجه سیاست‌های دولت ترامپ دانست. او گفت اقتصاد ایران چنان تضعیف شده که ارزش پول ملی این کشور به پایین‌ترین سطح خود رسیده و تورم نیز به یکی از بالاترین سطوح تاریخی نزدیک شده است.
+او یادآور شد آخرین امید جمهوری اسلامی، ادامه همکاری کشورهایی است که از روی ترس یا ملاحظات اقتصادی تصور می‌کنند سازش با تهران می‌تواند امنیت یا صلحی پایدار برای آنها به همراه آورد.
+وزیر خزانه‌داری آمریکا بدون نام‌بردن از کشور مشخصی گفت برخی دولت‌ها و نهادهای خارجی همچنان نفت ایران را خریداری و حمل می‌کنند و انتقال منابع مالی این کشور را از طریق صرافی‌ها و مناطق آزاد تجاری تسهیل می‌کنند.
+به گفته او، برخی کشورها همچنین به پروازهای ایران اجازه فعالیت می‌دهند، کشتی‌ها را به نمایندگی از تهران در دفاتر خود ثبت می‌کنند و بر انتقال سوخت میان کشتی‌ها در دریا و استفاده غیرقانونی از نظام بانکی‌شان چشم می‌بندند. بسنت این کشورها را متهم کرد که هم‌زمان می‌کوشند میزان همکاری خود با جمهوری اسلامی را پنهان کنند.
+او گفت این کشورها بر اساس این محاسبه عمل می‌کنند که مماشات با تهران، در مقایسه با ایستادگی در برابر آن، گزینه‌ای امن‌تر است؛ اما باید پیامدهای کمک به بقای جمهوری اسلامی را نیز در نظر بگیرند.
+بسنت برای توضیح این دوراهی به دیدگاه بلز پاسکال، فیلسوف فرانسوی قرن هفدهم، اشاره کرد. به گفته او، پاسکال معتقد بود عدم قطعیت، انسان‌ها یا ملت‌ها را از داوری معاف نمی‌کند، بلکه آنها را ملزم می‌کند خطرها را دقیق‌تر ارزیابی کنند؛ زیرا در چنین شرایطی بهای یک محاسبه اشتباه می‌تواند سنگین‌تر باشد.
+وزیر خزانه‌داری آمریکا گفت «شرط‌بندی پاسکال» اکنون درباره شریان‌های حیاتی اقتصاد ایران مصداق پیدا کرده است. به گفته او، کشورهایی که برای در امان ماندن از واکنش تهران همچنان منابع مالی حکومت ایران را تامین می‌کنند، در عمل همان حکومتی را تقویت می‌کنند که از آن هراس دارند.
+بسنت هشدار داد که این کشورها از مرز تحمل آمریکا عبور کرده‌اند و باید میان ادامه همکاری با جمهوری اسلامی و حفظ روابط اقتصادی خود با ایالات متحده و نظام مالی جهانی یکی را انتخاب کنند.
+او گفت ترامپ در حال انجام کاری است که روسای‌جمهوری پیشین آمریکا از آن خودداری کردند: پایان‌دادن به تهدیدی که دولت‌های قبلی به مدیریت و مهار آن رضایت داده بودند.
+به گفته بسنت، طبقه سیاسی آمریکا برای چند دهه چرخه‌ای بی‌پایان از اقدامات تحریک‌آمیز جمهوری اسلامی را پذیرفت، در حالی که باید منافع ایالات متحده را با قاطعیت بیشتری پیش می‌برد. او گفت نسل دیگری نباید زیر سایه تهدید نیروهایی زندگی کند که شعار «مرگ بر آمریکا» سر می‌دهند و در پی تحقق اهداف هسته‌ای جمهوری اسلامی هستند.
+وزیر خزانه‌داری آمریکا استدلال کرد که انزوای کامل مالی تهران می‌تواند نیاز به استفاده مستقیم از نیروی نظامی ایالات متحده را کاهش دهد و هم‌زمان امنیت و آزادی عمل متحدان واشینگتن را افزایش دهد.
+او همچنین برای کشورهایی که روابط مالی و تجاری خود را با ایران قطع کنند، مشوق‌هایی در نظر گرفت. بسنت گفت قطع همکاری با تهران می‌تواند دسترسی این کشورها به سرمایه جهانی را افزایش دهد، اعتماد به بازارهایشان را تقویت کند و جایگاه مورد نظر آنها را در اقتصاد بین‌المللی بهبود بخشد.
+در مقابل، او هشدار داد کشورهایی که روابط خود را با تهران حفظ کنند، ممکن است مسیر دستیابی به رفاه پایدار را از دست بدهند. به گفته او، در کشورهایی که اعتماد سرمایه‌گذاران و بازارهای جهانی به آنها کاهش می‌یابد، فعالیت‌های مالی غیرقانونی معمولا گسترش پیدا می‌کند.
+بسنت گفت هر کشوری که به‌عنوان شریان مالی یک حکومت رو به زوال عمل کند، باید انتظار داشته باشد در انزوای آن نیز سهیم شود. او افزود کشوری که به پناهگاهی برای فعالیت‌های تروریستی تبدیل شود، از دید ایالات متحده به بازیگری مطرود در جهان بدل خواهد شد.
+وزیر خزانه‌داری آمریکا جمهوری اسلامی را متهم کرد که طی سال‌های گذشته، اخاذی را در قالب تضمین‌های امنیتی عرضه کرده و از ترس کشورهای دیگر نسبت به اقدامات تلافی‌جویانه تهران بهره برده است.
+به گفته او، قدرت جمهوری اسلامی بر محاسبه‌ای استوار بوده که واکنش [حکومت] ایران را قطعی، اما اجرای تهدیدهای آمریکا را قابل‌مذاکره می‌دانسته است. بسنت گفت با بازگشت ترامپ به قدرت، این دوره به پایان رسیده و کشورهایی که از ایستادگی در برابر تهران هراس دارند، نباید هزینه آزمودن اراده واشینگتن را دست‌کم بگیرند.
+او افزود ترامپ شرایطی فراهم کرده است که دولت آمریکا بتواند از همه نهادها، اختیارات قانونی و ابزارهایی استفاده کند که بسیاری تصور می‌کردند واشینگتن هرگز به آنها متوسل نخواهد شد.
+بسنت هشدار داد هرگونه ارتباط باقی‌مانده با تهران می‌تواند انزوای اقتصادی کشورها و نهادهای مرتبط را تسریع کند؛ خواه این ارتباط آگاهانه ایجاد شده باشد و خواه دولت‌ها و شرکت‌ها عمدا آن را نادیده گرفته باشند.
+وزیر خزانه‌داری آمریکا همچنین درباره احتمال واکنش نظامی جمهوری اسلامی هشدار داد. او گفت اگر هم‌زمان با تضعیف اقتصاد ایران و کاهش تسلط حکومت بر قدرت، تهران علیه نیروهای آمریکایی یا کشورهای همسایه در خلیج فارس اقدام نظامی انجام دهد، ترامپ «به‌سرعت و قاطعانه» پاسخ خواهد داد.
+بسنت در پایان هدف دولت آمریکا را قطع همه شریان‌های اقتصادی توصیف کرد که به بقای جمهوری اسلامی کمک می‌کنند. او گفت فشارها تا زمانی ادامه خواهد یافت که تهران در انزوای کامل قرار گیرد.
+او بار دیگر با اشاره به پاسکال، تصمیم کشورهای همکار با حکومت ایران را نوعی انتخاب درباره آینده آنها دانست و پرسید آیا این کشورها حاضرند در برابر موج تازه فشارهای آمریکا، آینده خود را به خطر بیندازند.
+@
+VahidOOnLine
+📡
+@VahidOnline</div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/VahidOnline/78009" target="_blank">📅 03:43 · 02 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-78008">
+<div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IviqXHOF-XDhY-tUjKK7Epfsl6zxgYHZjevEoS4sOappq-RZxIb72BDezNkgVjrQ49Rq_eHadFHhVVhRHc5XI5VGPMEf7j5QTnpfMzXL7coXwB3g83gvxrPFoJGjWm-PfQlNgyZqLG48SVgbojhV67EsR_Dj5--iqW7kn3-oqZ71CI-t1nMPP65oxAzsbzi9KpiaonW_2RmX78Km8xKDEPlUUpm1JUMn4_QM60VOpU2Ediun5LA4u6wP3C4mqOn8FxIaS4bTntSJ-aa0brKqzLyz1054PbjBHCFtTue_33hD-zARuT9ejn_2Eu3iOqYftP11tACKAhaA_47w4FbafA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بهای دلار آمریکا در بازار آزاد ایران روز یک‌شنبه اول شهریور از مرز ۲۰۰ هزار تومان عبور کرد و رکورد تازه‌ای به جا گذاشت؛
 همزمان پوند بریتانیا از ۲۷۲ هزار تومان گذشت و یورو نیز به محدوده ۲۳۴ هزار تومان نزدیک شد.
@@ -306,11 +358,11 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 228K · <a href="https://t.me/VahidOnline/78008" target="_blank">📅 16:52 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 235K · <a href="https://t.me/VahidOnline/78008" target="_blank">📅 16:52 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78007">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vLNRz1egtgSd8_VPwQhbDz_zqjnPDDGuA0yc-ppr6wOvAieZjseWt7iWD2TakCbqPmAa5vCmUdicM_vzOcx1Ncl7qjw2mjashc4L71qOd4o4lBXE5kZfhOrNzvwQ8Js3TVUJuiHtO2rnMzyrogdDnie-okHFIf0ocS2qw0G4CHkLQ5SwXKz1KpfYhIk11xIxV_Mvz5Hn_pvevO0BqM_sTN0hdjQAJEP4JjiuNSB6qBY4XxCTEeblOaskYBpVbiEOEWs_vgOAwQvBLuBFUDxJnnBShh9sUeD04-NazzJYpjBugqV4wLqnS0HDmlnEdE5x6pf_yvg8i0BUf8KMB9qVhw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">امیر رئیسیان، وکیل حسین شنبه‌زاده، از صدور حکم بدوی موکلش در پرونده‌ای جدید خبر داده است.
 بر اساس این حکم، شنبه‌زاده به اتهام «نشر اکاذیب به قصد تشویش اذهان عمومی» به یک سال حبس تعزیری محکوم شده است.
@@ -320,11 +372,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 214K · <a href="https://t.me/VahidOnline/78007" target="_blank">📅 16:52 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 219K · <a href="https://t.me/VahidOnline/78007" target="_blank">📅 16:52 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78006">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jXN-8E8u7eTHD9B0FE3acU2JKVUBBxfJHkMhcBUq2oNvY1AA9tLkgo-Aq0N-KN__0J247Ydt2GCToifr9m0tyiKj89R2f72lJ0KYcnjBTtRwUwysPw2s0XZxO1aXcfJ7pkuKcdMVm3gV4Yw4u73FDnOuKtDN5eQ-wSjOpceKW3lDg6YonUX4xLe-_U59GetNlCaukkE9Y1MDn1TIUKZdeRcXZpyKlK7goUhemiSvuNsAVkAYcyfXuKSIGifKcfy2l6VTCEtew9yCZb2WMqB4KrVUCU-3gJ07fSP8gNyzQY04nF6BD7NHU4zrJyqXymF9pdIawRbTaekEgi-0ZsITRA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قوه قضائیه جمهوری اسلامی از اجرای حکم اعدام «مجید آدینه»، یکی دیگر از بازداشت‌شدگان اعتراضات دی‌ماه ۱۴۰۴ در کرج، خبر داده است.
 براساس گزارش تسنیم به نقل از قوه قضاییه، این حکم صبح یکشنبه اول شهریور ۱۴۰۵ اجرا شد.
@@ -339,11 +391,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 212K · <a href="https://t.me/VahidOnline/78006" target="_blank">📅 16:49 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 218K · <a href="https://t.me/VahidOnline/78006" target="_blank">📅 16:49 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78005">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/4d23144315.mp4?token=I28CyVRpUgn-mYtxy3tLZYop1NL-zAwj4wR-xVryOr7EtvjPy7UYX571KBWmzDhFsu_TXZpTi-OUZw_B9uFG4NlzMLMsyTmqsmhuCBo4kJcQbUqnm5bz8Tn8_3Y6YjW7Jgby5RiFfRqjtenfVW8_7gKhsjPtLmoU9X7ga_A2S6cp_35_YWx0S8GwCEqnzef61hox3m-pBvZaLpEQ7TJcoRX51HphAiflevMeSYAFkCQVia5yN_KklnFbGE_vaLvkTv3pqe3_urjTy_U1EmTMrYIzEoIq5gweeOyePenF69kBrHZfmM9GCM5qGdhJY4jOPqMfu73KwoqhTOuMmhLj8w" type="video/mp4">
@@ -358,11 +410,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 305K · <a href="https://t.me/VahidOnline/78005" target="_blank">📅 04:56 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 307K · <a href="https://t.me/VahidOnline/78005" target="_blank">📅 04:56 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78004">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/k4xItALeEBDs2ZR_hUxIKUaypD3HJCgD00NeJ5TO5yBYlyKbih_b3_ZuvuwoxmKha8itCyvsgLfdTkcOj0mGy9KAPh6SM3OPPgq-RkY9USPRmxts60QOzymfLqn5VD3IXLMaDiPBT4gfWArgRdXElC999_E0jCZQ9Ajrf2HZJ8o0liU5I_BMHotqaxyuHZ1-sf6ESLZGMi2IN8xYpV1ityNhuq30P0_MpbHUUawlhadrWiQgVUn62dB5LVePZFLiK4suA6rJdc1CuM1Xc-mV7w9z4sHscglocpJ4W0lGoXyVu1o-39UMaXgXzg8PkLWSZNxMnFdC7bLvM4YpY4ZcZA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دونالد ترامپ، با انتشار پستی در شبکه اجتماعی تروت‌سوشال بر عبور کشتی‌ها از تنگه هرمز با اسکورت نیروهای‌ آمریکایی تاکید کرد. ترامپ مطلبی از مارک تیسین، مفسر آمریکایی را بازنشر کرد که در آن، تیسین به آمار خروج بیش از ۱۰۰۰ کشتی از تنگه هرمز با اسکورت نیروهای آمریکایی اشاره دارد.
 @
@@ -372,11 +424,11 @@ VahidHeadline
 VahidOnLive
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 299K · <a href="https://t.me/VahidOnline/78004" target="_blank">📅 02:23 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/78004" target="_blank">📅 02:23 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78003">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WZ5eWr0aAj7Aat1RTW2foHOiFMVWggiOOqe2diLI87GJvJGlLyNJFkPaGeLRa0DZwF2NaYynakAx6vQowVMEtrbcPVmGNIhx5GJUYU3JoslYz_ylzZXHjIWkcltlSg5ny1-jYZdD-JZEKWLUTcWcVoj6MSP8c-CQUNQPJwP_4MqUJanF50tZLcTJ1rYoykufhYuxtJdQ1wU_9wulnkiwSHZKaHK6Q-SOJ_MipExwDGmqN1m33kOKKYxtzcuWKMR69IDZ5XZDU3TH_Z9aU3oZOPWquz4wrBqmVirSUcY0qxxhggrLTrQIU2Q6t4n9T0qO5n_HDGsfcBYOW0PmPWgAUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باراک راوید، خبرنگار وبسایت اکسیوس، روز شنبه ۳۱ مرداد ۱۴۰۵ در شبکه ایکس به نقل از سه مقام آمریکایی گزارش داد که حدود ۴۰ نفتکش شامگاه جمعه از مسیر عمیق جنوبی تنگه هرمز وارد یا خارج شده‌اند و حدود ۱۶ میلیون بشکه نفت از این مسیر به خارج از تنگه منتقل شده است.
 همزمان، رسانه‌های دولتی ایران مدعی شدند، تهران پس از درخواست‌های مکرر بغداد، به شماری از نفتکش‌های عراقی اجازه عبور از تنگه هرمز را داده است.
@@ -384,11 +436,11 @@ VahidOnLive
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 333K · <a href="https://t.me/VahidOnline/78003" target="_blank">📅 18:17 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 334K · <a href="https://t.me/VahidOnline/78003" target="_blank">📅 18:17 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78002">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/isuuwJfSAdKGMzS1PUoCCcTtPAyqS9M47tGCyPcZKHjViEpB7yzpigLn8ngxEETJl0iB5CZBFMSwTnZrXAZxX5W-XphHwGzHCWDQFelyHovRZsThvBd7LHkDu4P-vHvE2YGFcl9mkcHWjt7LFapLvsT4z4Tjyc0wFpUWj7U50VlTEXK31IxaN4cD_BvachzXWeoYLoY5IpNun-JPmkU7vLD5ZMD7wjx7wnOe10pmKgYQdPNQlTe79SfnDkV77Drh1jmnloUP5LMOipnwJZ2zk6mS6p_f5gqZq29psvrI_PZJS_-ubtz5MnPbksFaWTiVFbZTjhb94FqGncXgJB_Thw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">احمد وحیدی، فرمانده کل سپاه پاسداران، در پیامی به پیمان جبلی، رییس سازمان صدا و سیما، ضمن حمایت از رویکرد این سازمان، نوشت که صدا و سیما در دوره جنگ اخیر، «در ثبت و ماندگار ساختن این حماسه، سهمی ارزشمند در تقویت جبهه رسانه‌ای انقلاب اسلامی بر عهده گرفت.»
 وحیدی همچنین عملکرد صدا و سیما را «مجاهدت ارزشمند و نقش‌آفرینی موثر» توصیف کرد.
@@ -399,11 +451,11 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 326K · <a href="https://t.me/VahidOnline/78002" target="_blank">📅 17:11 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 327K · <a href="https://t.me/VahidOnline/78002" target="_blank">📅 17:11 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78001">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/YnXom66ld4Tyg3liZTSns62E4ufeEwC_MFNFCY_GkjRB251Bao4eDKmNRlaXAUL0aMqeNqcMX3kJPSy-E9xWGVgT0AHopvtcwaTFIzHDDvXX4JELJHYy1lp90OjxSEv1ExZ0LX7HA1PSiLZH8oZFzwKEcqFMLiv15JLeCSfpWf6oFCp26rAahhuys75jZ1Re0xr_c9T-c9SFVR4n1DJJNTaPCfjyGxq_dA2Tp-lgne2QhXGK4Sfgy8BUcYrgp5DBsdPOTGb_REpYgnE8msJ2mkYNREcbTrMyEnTsdIQpi7f3jwaPmGUU0XLP57E7qJsd9U6-KfiAzcr87PsYK-41EA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محمدرضا عارف، معاون اول رییس دولت در ایران، با تاکید بر ضرورت آنچه «اصلاح الگوی مصرف انرژی» خواند، گفت: «باید مردم را توجیه کنیم تا بدانند که اکنون بخشی از درآمدهای کشور صرف تامین بنزین می‌شود و این موضوع هزینه و فشارهایی را به بخش‌های دیگر تحمیل می‌کند.»
 isna.ir
@@ -413,11 +465,11 @@ isna.ir
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 284K · <a href="https://t.me/VahidOnline/78001" target="_blank">📅 17:07 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/78001" target="_blank">📅 17:07 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78000">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/osuFKFqNOcuD7GfZfpjHKfZY6dEoUVwFjKDFQeEBoRJHrCtx1CpWFOVAQBYnRtqud8T0vvmaHE0YQmVJ_umVTV85pwKdrIizW3uHkrl99ygunH84VScytjnu6sOyKs4nIscHE0-tgUkGkyJSmdoZ4HRPRmmz7xQ4UH4_6k_N-MrijrD52ZSnHcpBVulwb1LAsf3OBW79Hs9lvU601ZLnTXhtrrbs6ti90ovn77us8gYy9X5OfP77hBEPdFR3hQet8PLZRCPoe-SX2vUjWiE7qVi9G_F3YPdvEdeNmJ5yJsTTkVbEXFOCHTNdlnTj9f_dHCKz9b-FpQPNYTb7nn2gOA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">«فرزانه فصیحی»، دونده المپیکی ایران، گفته است پس از اعتراض به کشتار معترضان در دی‌ماه ۱۴۰۴ تهدید شده و مسئولان مانع حضور او در مسابقات قهرمانی جهان شده‌اند.
 فصیحی در
@@ -438,7 +490,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77999">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jJNxkTr_rF0IUYAW1H-tl_KHbU1uYV8IFM2s7sBXTmFs_dBGc3YBCzVn7bS6RnQKOxTzVY_jaIAAh0O9TrpAfZ1A_NuTNOq5wmerSiZCcQVsyZdc2rKSefgsDS4_L5_Sh1G21F5F80EljNWxjcd-sU6qS3tPIwBgJE1vvEFNYuaOQNVyryvRQypCrj4yS2edcP6wi7lLvO15FaVJStnkESjo1FiOiL5PjOIOxTYqEBEWsQcFoMcDdEXAyPnl5uxgmFI4q7xUjWmHb9TlmR_8Qtjtx97spZuLgqXyhtzvaR7fHaOo34czb7ad60ImEcicEu-wDFXoZIMJTyOCZLd0SQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محمدباقر قالیباف در شبکه اجتماعی «ایکس»، بدون نام بردن از کشوری نوشت: «پیام‌های متعددی از کشورهای همسایه درباره شکل‌دهی به ترتیبات امنیتی جدید و همکاری‌های اقتصادی در منطقه دریافت کرده‌ایم.»
 او مدعی شد آمریکا با «قلدری» و نادیده گرفتن منافع متحدان خود به سود اسرائیل، امنیت آنها را به خطر انداخته است و افزود یک «نظم بومی و مستقل» می‌تواند صلح و امنیت واقعی را برای منطقه به همراه بیاورد. رسانه‌های حکومتی ایران این اظهارات را واکنشی به تهدیدهای دولت دونالد ترامپ علیه کشورهایی دانسته‌اند که به همکاری اقتصادی با تهران ادامه می‌دهند.
@@ -452,11 +504,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 268K · <a href="https://t.me/VahidOnline/77999" target="_blank">📅 17:01 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 269K · <a href="https://t.me/VahidOnline/77999" target="_blank">📅 17:01 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77998">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QThxeHws1fCQyt7ez0z3rlTAyEV97SRToc68D6ReorTRLqPvknIhXI0-x5OhdW5joN_2VgeEiPF_k5vCeaPKhpa8xHynt_1h8Oy0nZVr8AuTC-2exXgVyx2xzDjgrhU8egFFeUcb86iRGFMgC-CnnUY4T-RPj9mhykdX1d4WwH4Eu2dQieBhwJCpIJgrW-8juJcnv7_15-JwjshD5Dv_stSvU923D_U6qLaSHJVawVaTysk8iNkiw_u3mZNY-o0oBgyJIgUFVn0XL7PUAfCVU3JsEyJALYHrgAMfDuH2RkUKbCoUI4N-JQyuZAQ_U8UeRYdX01kZ951ZttarKS1kPA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">«آرزو کشور» مالک و مدیر یک سالن زیبایی در اصفهان به اتهام «ارتباط با دول متخاصم» به ۱۲سال حبس محکوم شده است.
 آرزو کشور از بهمن‌ماه سال گذشته، در زندان «دولت‌آباد» اصفهان نگهداری می‌شود.
@@ -465,11 +517,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 263K · <a href="https://t.me/VahidOnline/77998" target="_blank">📅 17:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 264K · <a href="https://t.me/VahidOnline/77998" target="_blank">📅 17:00 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77993">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/kpXTXwqQ-P1j6Cx9_0BEvNiowrlP1cCoqMdm6u7TTt0YsAd7oNMKSvP8TlrjinNAxuT95zYqk-aXZ2NMmdbhN-lruwIals8aHWCAxHoYqFQuaAZfFElqnE6hEwttNJ_tpDxvAHeAV_q2P49ta66ABJkkbw2mtOoPrIplHGN6DFJFWKnVYaK-bemdn52J83cyxK7rpTPb84Hv2Z9ty_cvaQhBNvtrQ9eUrbi_zpLqv9B2KuWLYEH64phvWpM9Z7t5GMeXlYSzIoAlIPFjNQrRyg6McJe8bpkmcSAEhPq13AlXnjZUNCvd7lUlRlnoags9p21S2kvaNyVYI3rcotIfTg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/cmrQybTpSDaiqogEhOy_6Ryj1sGxCp7qh5MIO8j15T2fmMZ4MUbIJJSs5S4QmTNw_ZymOqYUffIMlkc5O9BaFDJT6xsz3v953QWxQ5ctu8KJHKvCwCOQsFIAyr71ou8WgOIMX58-NuCxhxxBvjCdW1Su7qYLPpCbVA4qc7B5Wp9w0eQt9z90yViqXSGpadbzo0GWg-jOXIlvQh45EB7TY-D2HEcHL07bHGZeSVw_VVHRzCuScRgypNQnl-ZDYnAZFNbJDLQhVJ_ryKF3Ylp0mvC8J7wrhnaBZ7OJAKcpCv61WOsQB1nWQclFAHGd4pR5_VHhRxJd5CB_SFBYDz4Kpg.jpg" alt="photo" loading="lazy"/></div>
@@ -501,11 +553,11 @@ VahidHeadline
 ببینید، جمعه‌شب است. وقت زیاد داریم، درست است؟ اصلاً چه کار دیگری دارم بکنم؟ برگردم، ایران را یک کم بیشتر بمباران کنم؟ دیگه چه؟
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 319K · <a href="https://t.me/VahidOnline/77993" target="_blank">📅 05:19 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 320K · <a href="https://t.me/VahidOnline/77993" target="_blank">📅 05:19 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77992">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/edb3c61b37.mp4?token=L6tDNYbhz5uAdR1cZ8rrbjBEOf99-6223NSbVqW4oyNZ2rT_ZV6Ljes1YtcZn_VA4EktUiKUIg5y1OE2h9WbDzkWj2GVeRkJ9M7vjf9PnoVh0ygotK6JWjogzTue89HDAN2L6jvlE_kOi4yRYHFgO-S_BFc0zO8cgNf5hp4lHCuabD6vMffbamW08JnKC-JqaD5pmuTOUHy8X5i27ZbE36U4gZxVXdbzg_Do1gu3FHey21Qo4eD2nqPF1Fz2Xm_scpv12I0nkXYXUY4BrG79zwWxAnebLks5Tfu_OKh5f-ImXaglsSGOoNaDaO8OXdo0lBf01mps3HtixAUR7UyIwg" type="video/mp4">
@@ -521,11 +573,11 @@ VahidHeadline
 پس آن‌ها خیلی دوست دارند توافق کنند، اما از نظر من هنوز آماده نیستند که توافق درست را انجام دهند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 333K · <a href="https://t.me/VahidOnline/77992" target="_blank">📅 01:02 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 334K · <a href="https://t.me/VahidOnline/77992" target="_blank">📅 01:02 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77991">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">بنا بر پیام‌های دریافتی حوالی یوسف‌آباد و امیرآباد و فاطمی و... صدای شلیک پدافند شنیده شده.
 ساعت ۲۳:۰۸
 🔄
@@ -542,7 +594,7 @@ isna
 </div>
 
 <div class="tg-post" id="msg-77989">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jPTGanoCIsW-lMKY0h9H3Os5-yBTC_SCFmNBkI9LIg_L3VffA7COpkJaNGz84ou3sMWCBbkNTD5qNgQLL-TD9KLj6siKwooPMtk-usOy4wTBn--9qg2oXT_L16aVRlNFlRuX5YZLzeqqCKvfokl77MhrEB4t0S8cV5mfzyuZvjxzNafiEzsaBk9FnlVZhTe1AMwFLMVeTdBh0_lLIKvmzw3LS7RsnGn0GCIu4HzHBEqdxCzOKx94P-mDy53W1C3xEpV_VrdLX4_Uccgn5OMCspBaq2bVzL1GDxFNwI2BRivmRqhSwMth3KnpWYdLM-1v916EN4jtdFktAedIzcNlbw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگر عکس من در آوتار اینجا جزو تبلیغ بود کلاهبرداری خطرناک‌تریه.
 این تبلیغات به خود تلگرام سفارش داده میشن و کانال‌ها امکان جلوگیری از نمایش اون‌ها رو ندارند.
@@ -555,7 +607,7 @@ isna
 </div>
 
 <div class="tg-post" id="msg-77988">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/InpXgGEDPeiy2WN2sYxt3sKvvTslthuocEboZcjhAHz0Y2QIqf91oyLmnYcMA9Vn7ktuJL0rOKWzKIl4oYlquFr-JoVyjeNwHYYg8TLX8cZdXU4CNmxDiub6PY_NMcU8A7H1X0Q7WgBBzcwiKYq9rcRrG4C0VAa4t5aZmXF2rMSO0GOPOhMDPtznubzuePrtcTNDX2Ohb0NN1N8XdEiB8oxtnBchj4p7IIpKoijlYQTku8BQK6C6vrbJ7JK2zoyfcLPfzjs99ZX7nftehscYpGBy0PGKSE3C4idRy_a5WW4WkPtLyR3Vx3UJedDodMa_pCs15ujtt2RP7PbkAmvUDw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">«هرانا» روز جمعه ۳۰مرداد۱۴۰۵ خبر داد که دیوان عالی کشور، حکم اعدام «ارغوان فلاحی»، زندانی سیاسی ۲۴ساله محبوس در زندان اوین، را تایید کرده است.
 حکم اعدام برای این زن جوان در شعبه ۱۵دادگاه انقلاب تهران به ریاست «ابوالقاسم صلواتی» در تیرماه ال جاری صادر شد.
@@ -570,7 +622,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77987">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FddQ80NT6N00J_qcuJF5R6O4VNBYNMm_JtgixG3r4A_tQJnA6YMgsmm25xEvqoG14-CexaNXfJV8FY8Dzd13PaqyayfA_rHkTB2zgahZBQHkZk9z7gI6Oz-SxMXQNi0ss0vGfmUAlRZrPWjERVo6ZyaiC_KWlNDBgt71lgX6DA3wz2040oDvv1mza7UHuSAeOQQSvcy07X1P6uw_X_3NCzEMVhpeHv7XmtZmW1fafxtruSA3pSP6Az34yKPJuRK-TSCp_EuNK_zEnIQdMBNnqdZDbXaDARAODqQRS8ulbYk0oyT2fkKmw6qCez2nVILhci6dLy4d7CxAnGsMaWG0QQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست عراقچی، ترجمه ماشین:
 ۱۴ سال پیش: «فلج‌کننده‌ترین تحریم‌های تاریخ.» شکست خورد.
@@ -585,7 +637,7 @@ araghchi
 </div>
 
 <div class="tg-post" id="msg-77985">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/dd72c517e9.mp4?token=Qzj9G7brIqDGK2i2ZVi2ZWlfwkmFJWSjNsjnJeM5HpHIpiPuBiaCSeztQhmDx799fExE63fWpjj8oDqTuzo93NwIOE1Hr9bOd0xy0uU-ZmQlep0PYZDQSaPU2SLp6cXN7fGRlz-8r4CwVp345DGhEFv8MGacFjiVBGRLrE0vaWg0eE2z91RuEPzU1VphoHlUM-ANN_81bDcseGEtV8jV6_efvIiBet6kGBWVj0Gu2wHFuG4TZ-_5XC9A-vovLuZtEeUBS_6egIHNYycORyu8XjhZpyR0S2faigxovMudP23UT42FnXeotUWciCuppOm0ony-4T7S2m2bOghcZmwNnA" type="video/mp4">
@@ -610,7 +662,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77983">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/hJs0x-s_X7aIG_njwDHv5LiDz5rh_b-JyVJz1ru52cqq_FDYPaE-ANRs1EVW12dflnSzsdAVxOvuYX3XfM3qdJY24zMUqQBg47E98oCo5TtvgZcN6nuspKFopLHSrDRWduu0lVa9J-cURsjwFUoDlEBBZ0_peEejGRN7Wo-Yi-GNczrFHXg-7vV_IEen-lfA_JJ7PGy4Wa-WOsCwAJnVJaHuk48DKlbQ1p1WizcKOkCmg-aENPdGxeh1ncGxRehmJpJszpoXUOzBNFZWZSapOy55C_HOF6bVX2JWPnJqa8EYMYdZsE7XlEeFVLUlCgdmCVwKdZXowfkqSP2V2egm5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/cU2LCcTYPcunBqIbHeMtJ90PwKob6P30QHaQSHZInoxQDp5aTDLCbHLcT0BADj0_ExQpuy8pv8cpNZu2oQ2RULpkN2SLtMopW7iA7AdREi4Wf2Z0irFlhCPwttirBR706KMydp_N47cRb1eVvgE67jg6Ty_AILln2bp8xnpVa1P0pGPSDi0dE9B1kcAk0dwRy-G5nDvsEvUlfmRnBhGa-JtkqHJUe8Jzyf0_qRuZqKvjmW4iNdanABoZVSm-CLLE-J9yXvei1-MACHkPB5ODPLdmHfPpPfWumk6yYzv1nNNgwjzwo2yD9hv0SYST2ND60mYOnaOtArFiojNlhhd9TA.jpg" alt="photo" loading="lazy"/></div>
@@ -631,11 +683,11 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 240K · <a href="https://t.me/VahidOnline/77983" target="_blank">📅 18:04 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 241K · <a href="https://t.me/VahidOnline/77983" target="_blank">📅 18:04 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77982">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GAAQ3Ey6ECCraqCPBZFred5MGrciTH25leUqBJf0ipWGkle9fTar6fnkcGGQcR3aWQfWfUrG7vJQWUVH5U9KrGYY01TOh85CF9BqBF9uC3XdKNVwY3DCM2yDqsq5U_0EZrPumreVdMYeVrAw_RoK_SFeS2ENrdpcKeQ_Gz0HxLkTQ-8g06kPGcru_N3K3Wy0T-LthUFRvoPIOppkRdLXuMD2A1fKYbjQ_2XRgzeZbAnqjLXoIWqypbOc6XZLw-N7vTDV7LOe8spbhRG2OLqD0bEZN8rhN_mZ8a-j46O1-v5YM86otr571n1lrSJDrinNI08-LAwezFF3BAJAUW0Mug.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مسعود پزشکیان، رئیس دولت در ایران، می‌گوید اکنون زمان آن است که به جنگ با آمریکا پایان داده شود چرا که تهران در مقابل واشنگتن در موضع «قدرت» قرار دارد.
 آقای پزشکیان گفت: «بهتر است امروز که در قدرت و عزت هستیم و تمام دنیا به پیروزی ما اذعان دارند و تأکید می‌کنند که آمریکا برخلاف تمام مقررات، به مدارس، بیمارستان‌ها و زیرساخت‌های ما حمله کرده و در دنیا منفور است، جنگ را پایان دهیم.»
@@ -650,7 +702,7 @@ VahidOnLive
 </div>
 
 <div class="tg-post" id="msg-77981">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/c9359b0410.mp4?token=Zn2Gt-QqHP0J7RfyiofZDKxwHoUx1Gj7fNvB4G9BXaaaezSQ-veH3CzvXwV7P4Lif-C7rzhuboNQigOYtQRdLXcAzQbBqTFV6BEuUwvGJPMXpYp6LUcTF2eVqcSGwWTide5FefX8qjtB9wgGal3zcdNEQBw1iWL8XtGV1Pso-MncRcIma9qrKyuwvqXZc2FV41_kuz_tm8sfEtVjUsx9FP1F5mo-Mr3NzejVwK4BxOfBiUnhsDUd2Jxpdsbgtpos7ZhPVNTOxAFuVOT16AnaGxwAF3jHLayXiYAm82ktOeJUQquDG9aNMC8JSs79lXXkAZHPAeXIcGY268SVTxe_dg" type="video/mp4">
@@ -670,7 +722,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77980">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/a_rO7su7jFqvkIz3pnspG2U5xXyHJHO1fwa-S7Uvu-QLiToXuRDu265VdtYRptOMS6ScJ5NB_oIlDt9oGzSQkZzzs38lGqxqYlBF495uBRHidXECUkJbN3wtxFt3Iv8rdcTtza8PQo4p8B4cH5_S5MroXrOrKG0RxY_m0wZX2QVDElp369nW-VK0LbVfT7TpO2s2YFE877bvff-NfDNSkx4P6V1XL-DhWTBR2avbAiTRMbtXWek_5OM6-iKnfSI4zDHu5TMYxSJt9h6oM7eV08c_XzaC6G1zGWSMCZAagiMv1J7u7oQYza-Gv7Kg_ReoGz2V1w-rLMXPxTQ30HXIqg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رئیس مجلس شورای اسلامی با هشدار تلویحی نسبت به شرایط اقتصادی جامعه ایران گفت: «ما هر چقدر قدرت نظامی داشته باشیم ولی اگر مردم گرسنه باشند و گردش مالی، رشد اقتصادی و تولید ملی نداشته باشیم، دوام نمی‌آوریم».
 محمدباقر قالیباف روز جمعه ۳۰ مرداد در اظهاراتی در عراق برای افرادی که «فعالان اقتصادی ایران و عراق» معرفی شده‌اند، با «ظالمانه» خواندن تصمیمات جدید دولت آمریکا برای اعمال تحریم‌های اقتصادی شدید علیه ایران گفت: «باید برای غلبه بر آن‌ها برنامه‌ریزی کنیم تا بتوانیم بر آن‌ها فائق آییم».
@@ -683,7 +735,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77979">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Zv13hiK_2kOhPJVTaBcA9roY_BsIa0WV6fy_1W1RvNsi1_Oo5FiIjFo8WBZQoMGz7aVNhDa3RyWsyuyUuV1kcRBv2dFHhooEa5-SwQwFvUiGZLj7VI2321co-P7YG41YcTytp9pF9siaaPvpqlq0QqD-VtVOUnw4wm0LXUbbEonv6SKskYCYdlaVqC5HM5qgMnBQ5V_aR2IIVbnveFjS1Jshm4Y7OGBJxFC4QoNqi7F-Rw7jGPkxm0PSk2BHnkDMVb62s00raeUqwudo-VMPAhw43TuuVlTwh5N6Mq8ZviDOQwTkRW0szN1YQk0R4v5fl8o3MU02LPn1TDxQ6HpM4A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر خارجه لبنان می‌گوید روابط عادی با نمایندگی ایران در لبنان تنها زمانی می‌تواند از سر گرفته شود که تهران مطابق با رویه‌های دیپلماتیک تعیین‌شده، از تصمیم دولت این کشور پیروی کند.
 یوسف رجی در گفت‌وگو با روزنامه «النهار» با پافشاری بر تصمیم قبلی‌اش در «عنصر نامطلوب» خواندن سفیر جمهوری اسلامی در لبنان و اخراج او گفت: «ادامه حضور سفیر ایران نقض یک تصمیم حاکمیتی است. این تصمیم باید رعایت شود و هیچ تفسیر، استثنا یا مصالحه‌ای را نمی‌پذیرد».
@@ -694,11 +746,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 227K · <a href="https://t.me/VahidOnline/77979" target="_blank">📅 17:53 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 228K · <a href="https://t.me/VahidOnline/77979" target="_blank">📅 17:53 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77978">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/282709f91d.mp4?token=XZrf_i5hgQnMLO6CgT28LyKA3eCRYPwvmatF3gv7SFdE7zYjkTK2PUDkWn8Zt8BHH0Ti0PByMlZNnXNxVlyt8lgzGBvgPkI5ZPIQfmiJqM1uhih7iBhcNiCsk-APrCX56tMSnI050d4MobkUhUO5TBn2O6Co-ICX7DUPGMy7z0R49r-krUFSZX3U15Ma9y1JJ7FLVi24VcrvYFpg_cu9k350zO8ISFpaO1LaNkOt8woMLmw7GsGrRyS3OXoyZOhkx5rTQ5vdGkiEpClVSm1snIITimFVQxB_-Ibt4gPDMWfVezl95ZqqQnNRpdEtakYFnnT-wqh6rJe10v3crAPCuA" type="video/mp4">
@@ -717,7 +769,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77977">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MYwwITbN2Ps46Xnaq24Kn1kSMVC7f9rzkM6Y2HTBcS7LWDTJNWhTKNCrERygVP5BiGg1Z4Lo5dxI0aBM3_x37hTANBztavKxhESKe_3ZFDWEWJRfRK4tyuRrwFf_6SJ01GZ6pgPH7W-mMCIC_RsckDXGladtpyejvZ2nTC8LhpMmfHfhuODqQo5tm8AAEMlGDeZZUqtN0WT4c_C4_DaFclUyBhdOklELX7PgDfm1kTSKZ_8r13N9O97GzFBsYWTO83Li-fzEsdRFimxRP913idNaP69jF6qEYoNfPlzRYwTPaJSjYppcByiodczRESO-4VdwgwRTSz_WbVqEDZTH_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سازمان حقوق بشر کارون از افزایش شمار زندانیان سیاسی و عقیدتی در زندان شیبان اهواز خبر داده و گفته است بیش از ۶۰۰ نفر در بندهای مختلف این زندان نگهداری می‌شوند. بسیاری از این زندانیان، هستند که در موج بازداشت‌های پس از جنگ ۴۰ روزه ایران و آمریکا و اسرائیل بازداشت شده‌اند.
 تعداد قابل‌توجهی از بازداشت‌شدگان جدید را جوانان تشکیل می‌دهند و سن بیشتر آنها بین ۱۸ تا ۲۵ سال است و اکثرا از اهالی اهواز، فلاحیه (شادگان)، ایذه، بهبهان و مسجدسلیمان هستند. در این زندان بیش از ۳۱۰ نفر در قرنطینه محبوس هستند.
@@ -725,11 +777,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 280K · <a href="https://t.me/VahidOnline/77977" target="_blank">📅 17:50 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 281K · <a href="https://t.me/VahidOnline/77977" target="_blank">📅 17:50 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77976">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Gp-Ns7Z-8XuUKC3pq4zJYfbBi1ZSFgDBLJhGhvnL5cnT9i1sYkGlYoAJ3OJhY13BJgyda5iAVBZzw8ZIygILQ82zzjCaT7m8TVPpMu7NxFt_qBB5lh1a1KLENd7y9abiYI6RUslEGaS_PaV7JraqH61H1oWlnK-VBYusZkg-vh0L8QlzFlAPUCnfdw94UCyphdYLDFq92rg9MXDLGvOAUpUsKkQ_bVbmamhQkAyijEgtnKRbs0TJVnrzZLmfKm1ns24iEi_fCfwIC4DiQml4soj0_HMFZplesaU4GBRvpOWIEM7jXZzNydrh574t6ItW-P-GjMe0D0wqzudjOuFumg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پس از «دونالد ترامپ» رییس‌جمهور ایالات متحده و «اسکات بسنت» وزیر خرانه‌داری آمریکا، «جی‌دی ونس» معاون اول ریس‌جمهور آمریکا از آغاز «مرحله جدیدی» از جنگ ایالات متحده و ایران خبر داد و گفت: «موثرترین ابزاری که برای اعمال بر حکومت ایران داریم، فشار اقتصادی است.»
 جی‌دی ونس که در پادکست  «کلی تراویس اند باک سکستون» صحبت می‌کرد به «تعامل ظریف» بین دو کشور اشاره کرد و گفت: «ما به آنها فشار اقتصادی وارد می‌کنیم، آنها نیز سعی می‌کنند به ما فشار اقتصادی وارد کنند. اما آنچه در چند هفته گذشته واقعیت داشته این است که آنها فشار بسیار بیشتری نسبت به ما متحمل شده‌اند.»
@@ -742,7 +794,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77974">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/h0RZwOXIvI2QkUt8j_T30ZFmQ238_27oNo7v5HXw0LTOesZPwxFnMTueOLgIjzZQrDxUOOfUl6Kzcxeqcja1M8UXT2e3rCHrMn18wRgH2yAOzxkVcYDokLIuAAXQrPkwalvIBsiG6f68e3oEknAeGbyaFNCtv18pzBcZr8jovAly7XB8RCEUiqMEmR169aBSE165i_2SCDzvjcdLaXJL2gnLLNNye5_qVtFjT4tY4JRQQI0MXT-x7QjCCfPlMUtx6K5xt0GqA0oUJcSXwL9ZqrPU00-7pM_C70WahVVb1sd5GTvwq-0_IA587LW608TGCeR5BQI8aNmcwbhPi0n7WA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/r3xLMtAtz7N8OxMxOpv3j6DjdpahWZXlVUUogdQ6WMkiSkeh3ZAuWE3IIVgTfH9BeePa7llLPGWtzAZsebNPmwbUqTl1_VpHBHuFLwJ95BznRtfQUovT3aZWuJl5Tf8WvN-bQzH3lXu0rCo5niou-uQ7_gbmRwTtkELDB_aWG1mw0nzOqzYtCbLIJENSxsUQhaC2yw-3MAufQn1DAfy2WxQxQRyu7KcLHqM4p-V75frEYnAEL3m0w6zViSU7Y_M53KwjbD9HkPP_Ic0CMlCULRdssmQv2ixi6v8qNB7gf4aUe_0YqndGZuPKwVHomRJAfTKq3G9cRbRkMRYJEuJ9GQ.jpg" alt="photo" loading="lazy"/></div>
@@ -756,7 +808,7 @@ VahidOnLive
 </div>
 
 <div class="tg-post" id="msg-77973">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vwN2vJqehCFnoCmWJGNO6ofF5OjsPRKfS7ModQ3MoIyK4LS_ndjWRIH6Bs7TkiLAEMLeUCxOJnXqa1hDTWJ6_Qa4BLdAVSxmxp8Xg4t9csF-4S94cjTLu9mfKs2V6e3bZDsckpWLwOhq1S01uHCx8H3vJSeuFfLbJC1kegOlPOA_KT6IkUQpnpN47Rx6DCFk4XBcLHRTYnjfYJudMrxraDtqbtahelBmtmuG9W4RWHytFx2OyKjYyfPYQ12ub1pRtwbUH8KuzgIGBaQ-Nqx0ndi_r4DNBG5UVE-LiNgzEXBQFWBKrxyqcaR9DCWbFyaYCxT8BtklcNEMSlTzvNIcpw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسکات بسنت، وزیر خزانه‌داری آمریکا، روز پنجشنبه ۲۹ مرداد گفت طرح واشینگتن برای افزایش شدید تحریم‌های اقتصادی علیه ایران با هدف «سرنگونی» حکومت جمهوری اسلامی دنبال می‌شود.
 بسنت در گفت‌وگو با شبکه سی‌ان‌بی‌سی گفت: «این طرح در ایران جواب خواهد داد و ما این رژیم را سرنگون خواهیم کرد.»
@@ -777,11 +829,11 @@ VahidOnLive
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 337K · <a href="https://t.me/VahidOnline/77973" target="_blank">📅 20:18 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 338K · <a href="https://t.me/VahidOnline/77973" target="_blank">📅 20:18 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77968">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/duebvPO0gwxUwhWkZ32Em0JlUiOu8Celbuu3M68YeaHW9AeNVHhQ2R5eslkr1P8nzgilBCrYDnyDeCaFGIG7Jplql_o0ndyQl3CjYts-85pRru-wlFHfvQmzzSCJy9xjAxi8C7XvM-05z-bRVDZ7FDL0qGjjPfaHtqhKq3LCuSLR15giULvsDV8zwYsrk0l929qjWVWOyS7UBRrB-WMOFZRv9s-Oc4lX6iZE-IwtJ4k6cRcjLtvfD2yBgox1PYVzlYtO1Qi2mNeDB78MIXvctzqHQtwRP8_ZlC0eP5hBn7CU2aZMAjqeoqBBpRASfDEuK3FrzzOLHoRRZ6zxZYVRmw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/E9lXEtNCyzF-lYqKCYgr3jqec6s8Ryq3DvOq64_M_7WQoglJnWeKwcRufevkP2zH8eeHVRSDMe4WVGshDN9zEQfa8ASnOwL5mhva9esoZFsdZSTukguGKbA0wU8WhTVm_xcQ5aJQrdlTLvnfjB0opnCD06I362Modj9d2V0smKkrBh6Fb6l1R2qA3Ic-7YKMRP51Oc7S3ouQRnnUIIUG3NM15amaJuDHKKJzQqz4NUXR2Uy001jMmM1_bt2yOH-TuHJuOyHKbR1wTx0Qcax4miWuOOw4TFy7sLg_peZfRj_Q2hy7D6wDWswVt3TV7M1wx3LWy7Cgv9LGCtHYKpyZww.jpg" alt="photo" loading="lazy"/></div>
@@ -806,7 +858,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77966">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/M_wOpUEGeKa3ujSDQdjxYGOHRAC5qECVsS-6VYuVTjRAFn11i-OmNDGFzISTX8r4Tadh7CH_V8EbK82wL1-g1WkxGwxxr2SmTqsAx-v1h2H9RlyZXRVM_hot7ZzIsYeGxLJMb4zYPIwSBUC80oeBTJNTdjHAx75x_P_FWllLtzVkdyofiOUZvwmUHHnNqSOQGVl-GRm5lC_pedIgHOcbuw-_M2yAYCzsF45IZyUpdru7_Kqy5nih4Xr6a7jpASDYzLXRLa4EePUKE3f2VqghTX-nnFNZAGjM74Xv1oYnQJ7i2OsqTqw-87wRpn_RluiGY9B1glPIvIMuB6XB3SIsJQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/YesjX590h_aKIfKjp0bmw4jA6OhBdy_fysGW7S69f13jYt437-0w0_bHQQP1uozwPXMEnvMV9TRHk3JI-Xb9yvNtS92ArcG-4Jg4djXt5a-mopygtBN7HgikILongozeDg5B6LlI9lmxTfB0mvUYCn2v2KwKfhHU4GVZ7jHo90LCIpZIkfFhKoSy3f7gUf37Y2kfCYENe7qqStaQX7DLvmhKQv3FnlUMTuTyR83N2zw0EcHXKxWvdLH70DkKqvjUrkCHPjlsiM5gxaZUQ2B9DLIR1ePV6GcXOw0uRUGD2E05WbCUgfZie5_r000Ky6eW6fmcr6YwhGRczd4fyZeufQ.jpg" alt="photo" loading="lazy"/></div>
@@ -821,11 +873,11 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 291K · <a href="https://t.me/VahidOnline/77966" target="_blank">📅 15:32 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 292K · <a href="https://t.me/VahidOnline/77966" target="_blank">📅 15:32 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77963">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/2ab9ff1cf5.mp4?token=raLfXW2KJJ6fAvwRV0n4fKZiwCb8U3Nk9nJXcXo1HvqvtNgYyRemMbhZOrcmEbHaZPh2034jXjudrl4MkXwbQ6WuY7NYMt4rideBm-ZZ9TFI2bPWO3dZWYodyVHpuiawns2uMYExfhaQcHaGaq7GOB8MHeCllUfaOzRlIPw9wuiYw0TwtxHCK0vYKB56JP0yViwKDvFP_-5FGuVPrQ97ZTKFSKQluMI9EtH7EKrSqfIC5WWwSHISQkDZStu2ki8RjShCisb1fSkGzJM5gdnB2Zdf03sIMs_nUYLkCu6_a96kKqcDHqThVA79MWLAxiQndtzktALNn5ayhrUYRWnf4A" type="video/mp4">
@@ -845,7 +897,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77962">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WLW3TBdteFlqo_VRIkxDduIf0RQ6W9IWPjXKK2miP8rm7OzGCfKQb5D6b1uBsTTVv65k1EEmvpuhbV6FAjSSI4zLbgbZgAqt3KYf4KGn4VkLegvP7maFCh4Bpl8Vzc2Evh8ABwicfsBfNy7szFk4buPZRoI_RICQIRxKZ5BCNJUNgBMyVGx0FGBwiA8aGJal_Ag_lb76FefmdltkHF06CdgFr7NCf3s3Xwq2N8s_TTmfFTEe0egUiikEqChZ1DsU7RWS2XjGekbFh9_BlBqInWvdbW-zOf-ptyDWGhLzj_L0814yORfIhSaBuwxn5GjKmCZK_PDi-EjDZ8y_fRyVsQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قوه قضاییه جمهوری اسلامی صبح پنج‌شنبه ۲۹ مرداد ۱۴۰۵ «قائم حسینی»، معروف به «آرین»، را در ارتباط با اعتراضات دی‌ماه اصفهان اعدام کرد. او پنجمین فردی است که در پرونده موسوم به «میدان علیخانی» اعدام می‌شود.
 خبرگزاری میزان، ارگان رسانه‌ای قوه قضاییه، حسینی را «تبعه خارجی» معرفی کرده، اما تابعیت او را اعلام نکرده است. در این گزارش همچنین اطلاعاتی درباره زمان بازداشت و محل نگهداری منتشر نشده است.
@@ -860,7 +912,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77961">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Ig1OftJu_ov5WBuvAOXRCBHpOPIsPYHm2h9wGE6smxMHrHle2Ad7K8aPgByx-Z6Oa25c4xDVuHmwIowhulI6x2BFiKvTgdEwZNSQaUj_9ybzTuOtK4aAN__gdmbVTKSEoc6_Kp3D_zlVmCJNgzSbgMlXAvdG6Vbo4FHtiDmjj9hsOoePGODWUheXqGbr958b9IObU4AizE8q6D1V0hepQeCDkbGgQwKqAie0y8RZq29LQEQTa7AqPhxaRFFPQRyFHj47gQOR_6vZj-8E3QRMHvhAdla7E0DWF41DroPyMwIi_uy0MN7LRtOq2cNj2IiMp9QhyHc7V92yecgy1jRbjw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">☄️
 ترامپ:
@@ -893,7 +945,7 @@ realDonaldTrump
 </div>
 
 <div class="tg-post" id="msg-77960">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">Vahid Online وحید آنلاین
 pinned «
 ⚠️
@@ -905,7 +957,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-77959">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WhPnytNiPi_ha1V3a6uwSj2wXsQgH1cCIhP8z6A07LVJfflUzV_IBDl94vf4qsGlioVr6Lceq-k712usVQBuyV4BmlHedBAr7TmiLN0WO7Pm1umJ0USrqsUaafFmOUpAGVpTaFIDDvGji9f8gmtR0LQOe4DIfMgrdjMiUSy7tbTCAyz_S2o7XzE04pARYwXjBLeikneAephkCBS3SsK9PUfntA3eZRdtF6z2tNamuJYyZekF7TxFOLIM05GZjEJsm7Zl_lEyC_xauCgOm43eav1tzHmg2x8UyCuYuv8lxjOyhXdhk2iag3pCDZKAZ71vZYm-6PWs9sPXuToDQX1iyw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وبسایت اکسیوس، روز چهارشنبه ۲۸مرداد ۱۴۰۵، گزارش داد، ارتش آمریکا طی هفته‌های گذشته یک مسیر کشتیرانی تحت کنترل خود در بخش جنوبی تنگه هرمز ایجاد کرده که امکان انتقال روزانه میلیون‌ها بشکه نفت به بازار جهانی را فراهم کرده است؛ اقدامی که به گفته دو مقام آمریکایی، بخشی از اختلال ایجاد شده در صادرات نفت در جریان جنگ را کاهش داده است.
 این دو مقام آمریکایی به اکسیوس گفتند در چارچوب این عملیات، هر شب حدود ۱۵ تا ۲۰ نفتکش از مسیر جنوبی تنگه هرمز و در امتداد ساحل عمان وارد یا خارج می‌شوند. به گفته آنها، اکنون حدود ۱۰ میلیون بشکه نفت در روز از طریق این مسیر از تنگه خارج و وارد بازار جهانی می‌شود؛ رقمی که تقریبا نیمی از حجم انتقال نفت پیش از جنگ است.
@@ -928,7 +980,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77958">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/1a65b09283.mp4?token=AfKm2DYQgsRVSO6JzTZKTlJ6qCrthdx316o7aSt2p1ut7ONtf-MT57dKQXv3Zg_FU9k0zjDQW-EsnDWQLMRm6HvlTARGnd6fjqieVY8SXYp5VumSrW6bB_n53GuiVzgOmJ75zbaNny3n_toMS0SUSbZKZe-jo3UY28pD3JsCDS3wLQlOGibPP6u4PeAyPy2KVLWCh1W0HzSn7CiZcj02xmhl43OsuMPjdLn3zNlpBDg4qSWbZMoNs1sKjQqTFpTEa5HlWnZtfojL-UcuYv3SGJOCsfEINc58IQYcFXFyuc1Tad0nfmZtNPWdbWlZfg7jlgclvNlXE5uef8J6xvj77A" type="video/mp4">
@@ -952,7 +1004,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77957">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/GeTNOa_1_5IhJ_PuvWeIuwFoCkJl_f8zfTRQi8LyLPxq8GeKiZruWxOk8L0jrGF9uxCEFxIkDfj84X9F325NBCQGx9LppJpSXekurFmbQvXuanGoZHS6Il3BmEavwsgbGpwDbaj9EHK0iIOFYLJKtcqi6UxMAAhe-avzbCpr5zkcUA_joLEO0v_6tACxNEkB-kT_UVwpn9RTDVAwD_H6_LgWkYvhcynwW9ioZwyqZVeTVgPiKO87MV8WrGfke39t1kRDcaBNYhx4fH6e3qqgWbPKUU8qD4XL9gPnjG3-0seI9NltRYd6rbvS7GaTk-r1cz9tUBD-AIqB5nR7YC-iOA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دولت فرانسه روز چهارشنبه نیلوفر شادمهری، رایزن فرهنگی سفارت ایران، در این کشور را اخراج کرد.
 ساعاتی پیشتر وزیر امور خارجه فرانسه رسما خبر داده بود که به عنوان اقدام متقابل دو وابسته سفارت ایران را از فرانسه اخراج خواهد کرد.
@@ -969,7 +1021,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77956">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/168f12d8a1.mp4?token=s4o060hsAz5vPy-tZCWR_JAtK7sWI7N_33KC67pU2AogK6F2kaAvMv6sTOLFFbycN6r7Eo2MRQfiNH3PaOo4gEa7SpjkbkzBHBUAWbsTIT65CXvj0pAJu6jYUVt3hodom8NCPKjPtNzK8KYCslcC6lHlwSKc_IuM5qy-ROpymk6nW5ekO8eW2lGJVs41sQRNMveapi4FbHatJwZDmHlVT_-iR1V3JvaIPVDnreEHEgEYIULvKDPiPWWTOPBX_i44gOLZzadAA4pQYhpeujYDzZoIxw4TPRBEF3JBz-ZoHwe3busy7oxhRrErNeQMCYzw3TgZrzxQcyiN2tubWc7Mjg" type="video/mp4">
@@ -997,7 +1049,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77954">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/LZ-fFJbpnv4n398jDEULUT36uiQDWxy14I6DArQ_vvUE3voIVQTG3Eaf0bKfp21lMLz3cPo7yLCsDrPF2IDtnxYeOXg9r1qGMGxYLj8cXKOrW9_LCA9Oamc5Z2U2ALmK0wf60Uyh5zekCrrMYfB5AaZDZluyoLxhcJFRYoxD6AX6Ff9UQJg8n3oZhfutTohxXbER8g0Taitu0zrjDqXTqgKeaIdJD8ADj9c442BHz6thb42G0kqpO9iPsSlEqMInVc6u7ODABVaDYKIQ29lThZ8-zffClHAPgGaidi-3Mx8bFz9-KgBHJFGPXOj2HVwUvt36G0szhLl7guc--EVQkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/OQVej8A0M3MSZPdNiEE9QVfJKYfF5riuBBqNI5WF6JH1uTkGfjtpnoUK-x2r0ooS1En__NGDPvzc_9nNZ4kjqesz1WL39vqbQx_aK42VcYjTUKXlzftsxVc1wv0QF5nhs1iiDp7rcjCpq1A5lyiUoLSxEdu6P0tZhB8dbcIri-M3VXMHDJHcgj9L4tCj2BcMuFT-lW5y-XWBvIW2fz8oHk-RZ3Y0rA8wgDWm0u7h_9OM3OVS-jddCaGfHqEftuuqKJVQZ7YKUXX4IG6pulMLEUKtUJovgjp9UjN7OWat80f3zDVqObmwCPsIiwEiUtRD7S6zQx4GstRxY5NYlEY-Fg.jpg" alt="photo" loading="lazy"/></div>
@@ -1018,7 +1070,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77952">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/P9kdHEwaBiqtvuePfcPl0e3cB3zBaA8MmBQXkvTCcoCRz238wulw5-ZQoNZJVEvoVIWTC7apgUAT-d2F01VNwahDFBNdq6DOrkBqnMwz5Sm60M4TcUfBmK9LVlyZexgJbCWUFfWrBKMjRSsov7QbBtsLQWR_V-tjOhl2WPJKqxsZnv8j4kS_W6SDPIKbfRexm4PvUqOeKZ8itYRf6wSH-XBePNm4wlmbYqNnc7jtkMxiVbBjb9e7anojEbG2wZn6-1GKOn_RKy58ACZH-Hk4nCvaKNfol78wrQdzHYmYPD98gM5EHhUB8PhfTfi23Cuk17BcH5RBJhBWoWrkrXwh_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/PDT6r0vcpQE7QsQDRFHR4F_fuBGVU6uJV_bTXdh6LunIfpcV8XwwX3ieu9pHAVW1rJQ9vgy1W8xEql3pfhmjcEqykxVxF5jGjxTsUESeb4yCH24gTeG89ciQS1H3AQR3fQPPGezMdvvHuZVZD1mtTF6ZYL3QalZ75n2aleyZr5-Nh3ExrMbDv6agvTm1Kpid4zfclfFtTGKnS4OkjQeLKJYjeRrcKd5Xsm0hkWoWyaYRyQDdQ9Pc4KuJ_e3s2pr5cf9MrRa9MQyoBFCMvRfEgQXYaT-syqyoMLm3XH4f1nLXgbalniePqGIHBjNfErD3os91ESd2IhCvKWRAWW_B5Q.jpg" alt="photo" loading="lazy"/></div>
@@ -1036,11 +1088,11 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 261K · <a href="https://t.me/VahidOnline/77952" target="_blank">📅 16:43 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 262K · <a href="https://t.me/VahidOnline/77952" target="_blank">📅 16:43 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77951">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZWXa7fkGSrDsMh-SkvBiICaont8WCx3TK_Hi7sRdMZ8QyfnY4mOsXPReuA24tDfaOEW-eZoXrnDAeAkKPcUZKa2iOQlJQ0ZkfH6jtF-_kmMalTLanPEf4I6X3yK7vAlm-J57yROiTh8jK-dtjQ_byvkdEyHjgPskj4ZqBPEQXcEDck1nlbz8ecRI_cZZ-h0Z4dIK6FY4FV7Qd4bMUGAqn2XA9mu6JO8sfBV3fo3nDP6DESJT6UT0qQ-YE_UV1Mg24CT3BY_Bm4yZZHddYUT4TOt0UTTfCjPBVH2GlxOZedWLBsTmfaRqqy658mR5IcfaHSNPl94TWXM71J018UW1SQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به گزارش وای‌نت، نفتالی بنت، نخست‌وزیر پیشین اسرائیل، گفت که در صورت بازگشت به قدرت، معادله بازدارندگی را تغییر خواهد داد و هر حمله حزب‌الله باعث خواهد شد ما ایران را هدف قرار دهیم.
 نفتالی بنت همچنین وعده داد قطر را «کشور دشمن» اعلام کند.
@@ -1053,7 +1105,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77950">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QQot24FpEJYFlR7-7wuFb5SkVr8JqGHYfJxWkO-ZOrtPbCdBb-KfO6cg6mBEECF_w9D3-QylovGe02bhm8dFTjGb_2IQSJpHnK8qrtRwl1cFpLaxOYjUrVkAkxmwWP5YG6h3jADoX8dlmxeqjUcTvjivvtFdmoJ7N4UWaT9YSHxXND2rWmGOIrAl6vMxfMSyYaWT4mLXvOkKy0vbvdGQsI2aWo7hGMb01jeVwr2Ksp8q7JQ0fLfr4L0B3ylWzIar0KfdmvFZxxqrS1OGiF7Qy3Tg4Zjlcak2V9759HBcu0RWmj5qZzcqQQOQHxzxp5neclT6HR1DZD9kDm3JH1ttug.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رئیس ستاد کل نیروهای مسلح جمهوری اسلامی ایران بار دیگر به کشورهای حاشیه جنوبی خلیج فارس نسبت به «هرگونه کمک» به ارتش آمریکا هشدار داد.
 در پیامی که روز چهارشنبه ۲۸ مرداد به‌نقل از علی عبداللهی در رسانه‌های ایران منتشر شد، رئیس ستاد کل نیروهای مسلح ایران به کشورهای حاشیه جنوبی خلیج فارس گفته است که «چیزی از چشم ما پنهان نمی‌ماند» و افزوده «این میزان هواپیمای نظامی، به‌ویژه هواپیمای سوخت‌رسان، در پایگاه‌های منطقه‌ای بدون اطلاع کشورهای میزبان بعید به نظر می‌رسد.»
@@ -1066,7 +1118,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77949">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AH08ZlQSf_rcAt5YTag-Hdy_YQNhV-LGoOlwEowwRdEq2Hq6iNqypfHhP6ui27ZB9rcf0p2vsvvbK0iBHpvKPyJPKtXduqW4RVNoRTA-aefpyk-KCrt2FDgHJJII-NHsJLVdDIhnzxLkRnfL2jBPt9fknA99QU9SeOLWYcorER6zbbtTXezJnqxkFpI37gfHOAj1To57T5QnIBDMCBMhA6lpkYtAxgxlv8TbPEhri4g8bw3-L-h6O6wuo1VVJyymMBDYSHbriLCh2-9zqyCDqDh_JRac-YouGKOIIY1BIDgK9XPhPvGH8vYjQ85stWLP68jj8S3PYz8X41nXpLkaRw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خبرگزاری فارس، وابسته به سپاه پاسداران، صبح چهارشنبه گزارش داد نفتکش اماراتی که در کریدور شمالی تنگه هرمز توقیف شده بود، مسیر خود را تغییر داده و به‌سمت بندرعباس در حرکت است. بر اساس این گزارش، مقصد اولیه این نفتکش بندر جبل‌علی در امارات بود، اما پس از توقیف، مسیر آن به‌سمت آب‌های ایران تغییر کرده است.
 فارس نام این نفتکش، شرکت مالک، پرچم کشتی، محموله و دلیل رسمی توقیف را اعلام نکرده است؛ موضوعی که ابهام‌ها درباره ماهیت این اقدام را افزایش می‌دهد. گزارش‌های بازنشرشده از خبرگزاری فارس نیز می‌گویند این نفتکش هنگام عبور از تنگه هرمز و در محدوده کریدور تعیین‌شده از سوی ایران متوقف شده بود.
@@ -1075,11 +1127,11 @@ VahidHeadline
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 231K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 232K · <a href="https://t.me/VahidOnline/77949" target="_blank">📅 16:39 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77948">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NcWXQ9MGL0QUxQpcRY219Er9EbTZ77Kt-aVnWZJqR1cYeTOhzFlp0hL1PSYSgHA6Yr6CRoBGX1SFYcU9CRG3BzejXw8lJ1gO7mvnnvLKGxWTtsKE2v9QCNZ1rF6SD492SBJ-o6NCHgLsNIUU9kjJo6ut472skcabhvOruz6Vj8EDoJz6iwCsCfcT8S3QM-YQvrhz7ZbzQI-jZC_7McFd3rtT-ZLBTIQc1vR5aDLj_8ZHVa1np8R-HR_XCG25JqyoLvFj1bH7Fg8MG1BnFq4ktsABKoP7LScgitKRryc2ED9lcLkZ4uRBXnYCHo6NMEQrYANB4jZAjR8jm7bAmTHBOw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حزب مشروطه ایران (لیبرال دموکرات) اعلام کرد فؤاد پاشایی، دبیرکل این حزب، هدف «سوءقصد» قرار گرفته و در بخش مراقبت‌های ویژه بستری شده است.
 بر اساس بیانیه این حزب، این حادثه ساعت ۷:۴۵ عصر ۱۷ اوت (۲۶ مرداد) به وقت لس‌آنجلس رخ داده است.
@@ -1092,7 +1144,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77947">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/edef31ced2.mp4?token=CISAY1H-XnoKr32blbKTT9aKXO-H8qVD61HBwSORQOlsmD0s-DHZ3JnpH0trNbStF_13aXUTJiTcRCK6xgqi68PQNZWZFx3gxufCw19JVF-oGEC5kNuJX8JYqLKoOMbHQBvQ4WQR1r5Fqyi-oYCKxSRo91iWevJ_wwZrbytp9O0HrY25zvYJntxyzRgHViEcnTaCBLSUYeamMpMArnSSvD0KwpOuZmz90Wt_zvyxU8uyv_9UddeFzsHWwkJ-4EGgLUnPAyhPrR3gtyQRfoa8_IIXgdMEJ8phbAEZ-nz4laP8OjBKmclHOw7hxakoaGm-Sx4qE0IwwGmD9xKAQBNQRw" type="video/mp4">
@@ -1110,7 +1162,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77946">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/J1LQW_qMydJAMbckxEfqz9OJf7rlCVrLDRz4LrbOCKdnHmUq-W9oDorliIE1Qtc74cV5tUyRMjPuRwMdfdtuHxonvzINlZ67pBl4G3G4jkJfefo6H_tvRIRQfkJdzoLI44ZQWV8ea8laV46sAfASXH-zNomzyg2VSPQmUspm5cgXGPtfuGQAWUHIcIfRbvMIl4PBadeoda-MAf9c4IXXZYp0b3M3x6OKZqFDZJcgyJEhTJ3z0FJsCC5ItNbCCX0sljaBTGYKQjV-1Jm-2R7lrEUk80-njgPAnrSKO6QfDytTQV7TLTjJ4ZeU_Q75HM9ze_cMkcURHKSGRiSY1JTIZg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هرانا: آرمین نورانی، خواننده موسیقی سبک رپ که با نام «خجسته» شناخته می‌شود، بازداشت و پس از مدتی با اخذ تعهد آزاد شد.
 در پی بازداشت این خواننده، ویدئویی از اعترافات اجباری وی منتشر شده است.
@@ -1123,7 +1175,7 @@ hra_news
 </div>
 
 <div class="tg-post" id="msg-77945">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/g7D4Uv8PP94C1iSuNeAPUpPgskhDthe9NLiSpzLSECS3cK_Tjf3BvKHaSftcpPK9IN1C27XZJhaxhhMtywCfpA4y-WULGZPl_b-_-afNfZw4q8T7kfZseTyHW0jie90oCRSgSUavSkmfh5TsuzNenwMqxZqmZxheIThplbNApEEV3XrfwwAhbbYsMZLwbHh6TTQEJK51vOuwzJ31wTXzqJ8KmD3y8n9jvYlyN8NfHlvxx2uSrzOeutJ76XSbK9AkXB0DUF1hpmLyqkgJUCHEMShLOSqszOIRzyBv4P1mF7VEinwT4NE5p-XtiADv9jZiIvt2_lLhdaQ-avKDW39f-w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">امارات:  تمام مبادلات تجاری و تراکنش‌های مالی با ایران تا اطلاع ثانوی متوقف شد
 مدیر اداره ارتباطات راهبردی وزارت امور خارجه:
@@ -1138,7 +1190,7 @@ mofauae
 </div>
 
 <div class="tg-post" id="msg-77944">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Ktk-uh0l7eHp0tnkKzi-znYkW2GG8yvMweH3GR6RoHorXWNjW3J7rOEEmcezJi7_W5y_XzLqZzZbzlHu0YE0ynLg-Pv4E-S_iwsWkW19xG8OGY2Enhfgx5-iBx2ltWVwwQlKqdOC-L1WiaqM9t_G-cB6KvDn_Qh46iEiduIh-FU3zCvon51tOXQWCBpQYY8iuyQ7XIet7aHQCq_iDoOWYsImXKVrqj45gS1UhBbRhnCvnhB8OO-d09444qoCzWKlpve3h-vGPifC4s90TR-rG5CRoCLI6nMEqg7DSQlkTMi9zdwYiiXuEdhnTMTADXj2W23hM1n26iqHEydvxLMo_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزیر خارجه فرانسه: دو دپیلمات ایرانی اخراج می‌شوند
 ژان نوئل بارو:
@@ -1152,7 +1204,7 @@ jnbarrot
 </div>
 
 <div class="tg-post" id="msg-77943">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fSWKG4wnayOtf5Iqf9Plq-UiZ6CIzQONxhH6PAcJjnnoZuOn5qnGV1acHqqQKw_STrEyulIWHwkj--FV_FQF_kjpLjho11z3TrdzMLId0bZeQAXpXUYXVxwnhMHDObrVTIHVQu7ko3zsvwO7tq45lLMJYJVX3Pa12bQ1k2xE3NaOjyxx4Yy7Q1MNmKBEecq6WgIgO-y1UY6RQWhrjORzO4Dyi_tJ0FsffJlp1x83OAmaf3KqMi0Bedjd0ak_J7ceOOiNwFHoswZX8bzZlI75x9KBqXE_RCUdphTD3eZ57gZ4nw5GUFmdj2iz_3JJ9Xtp80o5wboRl6OiBIlgFsQqiw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قالیباف:
 آمریکایی‌ها فکر می‌کنند اگر فشار بیشتری بر ایران وارد کنند، می‌توانند امتیازهایی بگیرند که اصلاً جزو توافق نبود. بسنت و هگست واقعاً در حد و اندازه این کار نیستند. دیگر منتظر نباشید این دارودسته دلقک‌ها از کلاهشان خرگوش بیرون بیاورند؛ خودتان افتضاحی را که به بار آورده‌اید جمع کنید.
@@ -1163,13 +1215,13 @@ mb_ghalibaf
 </div>
 
 <div class="tg-post" id="msg-77942">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromVahid OnLive وحید آن‌لایو</strong></div>
 <div class="tg-footer">👁️ 324K · <a href="https://t.me/VahidOnline/77942" target="_blank">📅 20:50 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77941">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vpaYoWkho6eKZ4fPpNiOLhHhAvMV-_QfgYQCKT1ghqGsS_nYSnZLoWItP0HzdEYe6kYjxGV6lwjBemFSH1fqf2I9fKSX9T3zRRvP9GQmmHCgcbZBszi9H20jV37THuS4YH8WB7yoXE_WFoy6J_B7Cla2DvWsVdnWdwRfQyJ0YsKlBjk_MYK4MaTijBUzx_GkiDkf_Tm618Gs3Ma9iyoixE3qKtUqgy7PrAdML-Up-Ne18I0yk1wt-orts-Zk182sznpvLIk11thVnsUDRDBWzDxUa4J3aM_ozBwXJvT26Ks6261AvKijxLdSpxi7Pnx2tTIleTxLgZX42o3RUU4nWQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سازمان ملی مدیریت شرایط اضطراری، بحران‌ها و بلایای امارات:
 سامانه‌های پدافند هوایی امارات متحده عربی یک تهدید موشکی را که این کشور را هدف قرار داده بود، شناسایی کردند. لطفاً در مکانی امن بمانید و هشدارها و به‌روزرسانی‌های منتشرشده از طریق کانال‌های رسمی را دنبال کنید.
@@ -1181,11 +1233,11 @@ NCEMAUAE
 -وزارت کشور [امارات]
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 317K · <a href="https://t.me/VahidOnline/77941" target="_blank">📅 18:30 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 318K · <a href="https://t.me/VahidOnline/77941" target="_blank">📅 18:30 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77940">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fDVsfWNKDnHrskGOEcwTz6V-o0vv8YTWCBiN52Xe7TEDuF8OcrP3pge6VWpwpqzqTDpCMqfPsLOuZDol4VF8IxsTjoMrriISdYMZ12OCUi5kr_qX4Qx8MiGhV1EOKLAn2MdXpT5KWPAJhXwTMHQpzIanvkE_VYSm82FImKmg0xUPhdXkvAEda_fv06xTwKDenOnOi4vTO9tRgm3-b83b-f1lsrLGxGfiCTz_R0aY6LwxtEKpnprarJw7LB7w7PRDK3dtNornJocS6zSFA-Q89prnuc0I4uT_4TsZ5j9rVW9oc-eo5bex_Gth8dGwS34OlWgwRWDItRN6-2moi-aDqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وحید همین الان دبی آلرت موشک ۱۸:۵۲ وقت محلی
 پیام و تصویر از دو شهروند مختلف
@@ -1196,7 +1248,7 @@ NCEMAUAE
 </div>
 
 <div class="tg-post" id="msg-77939">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/s_SVaGddRXapAiN_OQd0lZdKc0WyPh7s_Fl6wS4beVfJHD7Lwuz6_Tnn-nCB72eVn2bItNduI7BayGVSRdo5mGJKdDyneAXzPLKT-wTGoxhTzENFQ_Az5NKp_MDu_DjPU6fhvVxAHyWheZflL_dQx7UXjvZcpu_ecmP-jDN0UsaMiMpk8MjifBgBfHkETd1uyvfH4BtSS8doAGMb6x0i_Irr_TXCr2hU22rseEH3Bl_kttDOTKEwUDul548TGVnyeCri0zPGc0VZmEwwU8pesDgmx-9Rq8H8LKN9YJpFvh_GnXCPdBTvf0X0O4CccFfhlICpIiFTnosPOxglog50-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">UKMTO:
 مرکز عملیات تجارت دریایی بریتانیا با تأخیر گزارشی از وقوع یک حادثه در تنگه هرمز دریافت کرده است.
@@ -1211,7 +1263,7 @@ UK_MTO
 </div>
 
 <div class="tg-post" id="msg-77937">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qKHM9PFSzfkZXpy0ihnu_Lwe2XCVM5HQc3AwfBaEClaWmK8jXPKZlyqFXXnNlbQlFQ23eDmWNvGdwI1rlVXtIDpzphUgYEHCkSRmvhSkkXnb2niAt9G_OBRxpIdYzQLtREC1C69bTTp2NrCiKf6r3IDtjmBbbjvAmSlewKr97PCSQpkgQH1-8Ac1pp2g1G8AlfCxMEz8wLK3S0nLrfoEutBRT8JbpWot5JqLKN6Yd-btBfCALNs19t04snHHId05KjFcHWdThVIbwckxRD-DVeFbBG9KJ24JSXIvQrfPNJBRb1DUKzwqOcEej4prVkNnJjeKMjsYecslQQp7RRarbw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ:
 هیچ مذاکره یا گفت‌وگویی با جمهوری اسلامی ایران در جریان نیست و هیچ مذاکره یا گفت‌وگویی نیز برنامه‌ریزی نشده است.
@@ -1227,7 +1279,7 @@ realDonaldTrump
 </div>
 
 <div class="tg-post" id="msg-77936">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RUmcz8-3stxlcQPf3k_SPwSjV2vFoL-Oip4meu29PJsClRaoS-KHjFEncrpwHaxwwBsVf6-pTTVygNOKZ7wkwlnlunrABq9x5I9azXRTNkcSYKGZrKARj2xwFEQW9eRdqcnNZhF3WzF0kIMnTz2R9SLl1x674GqoAvuRWHIyyljb-1vr4IsIRqfov4tfIs1HvIfFmRS4DTjzjrn0_Y62z6_L5pMPraF51pGtQ-g5M_is9qMHkx1vhmkVdj0g-tkuT1P5ae5eeXigsznI8kraPAfe0pg4AOfWGvZvWVure-xXmxT_ehaTo38NBEN3vuDFKIbVNyMUD24B9thMnTPAOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رئیس‌جمهور ایالات متحده روز سه‌شنبه ۲۷ مرداد در پستی در شبکه اجتماعی خود، تروث سوشال، بار دیگر تنگۀ هرمز را «قلمرو ایالات متحده» خواند.
 دونالد ترامپ با انتشار پست تازه‌ای در «تروث سوشال»، یک تصویر گرافیکی را به نمایش گذاشته که در آن، تنگۀ هرمز، به‌عنوان «قلمروی تازۀ» ایالات متحده نشانه‌گذاری شده‌است.
@@ -1240,7 +1292,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77935">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RDldBQlK1fAhlP1NxtySXii5F3rQYVq7PLc1w-dXIZF2A6Oo_vreRzwsA8FjDh3HpDmViNS35F3_ce0DrfGSJscWg9lPz5gLybA9QJ2SVrxtE4iKW_ZGNf3ZdWaFTJJRDa5kECfN0f2_b5faGWKyf4nv_QvwgcL9_wVrak5UHJnhwCGR3TQjng9DwgEcwSdEUPsUvcttYwCMopl3jD30A_Gx7Mz20NcCS3XmOkba93Pn-ivKO1S70kpRywvchQObjtfo7qrR4NqbDJfSakKUKFzF-vcaEuw-OHzPdSZShgUhNjtlkwKQwwPOXtxf8aRCHDE1PyshAtYPPMT89BOlrA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سخنگوی وزارت خارجه قطر درخواست جمهوری اسلامی ایران برای ورود کمیته بین‌المللی صلیب سرخ به موضوع خلبانان ایرانی را «ترفند رسانه‌ای» خواند و گفت ایران هنوز به دعوت این کشور برای بررسی موضوع پاسخ نداده است.
 ماجد الانصاری روز سه‌شنبه ۲۷ مرداد گفت «دعوت دوحه از هیئت ایرانی برای سفر به قطر و بررسی این پرونده همچنان پابرجاست، اما تهران هنوز به دعوت دوحه برای اعزام هیئتی به قطر پاسخ نداده است».
@@ -1252,7 +1304,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77934">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/7722d713c1.mp4?token=kfblHR3hp2-93MgmNjDX4cnPFKSe1Urzv_CqsxDNqPuR0Lee943ub-ZB5fMfTnsKug9qSsQ5VEb6b3RBuZk-hMkxVJWwdIGZV7kRksAL8iT1O4HByUIDKCcAuN1y2HpVRKm3czcvbvpUPqUnucNu28W_H34OopCjLq62KSGeDfSI1TxSGY3BP2G2UtgG1CZyXAMhkTzqAAuFVjoZR8BnjEbwT9zOHiNnMP3Cv8rzoWeWzrXTnrobZypCNvvNbpb4yBhk9FweTSLLNyqUCFa5Tn81309yzUHBal7GWTNYL-rGTQcDIzWQBgeMUahhAhN7UrB4EHOodJsR0mJdr3im0A" type="video/mp4">
@@ -1270,7 +1322,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77933">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/N4VSXaIKGJ7Akwc0KGZeHkhUhyyX2AR1lKpd6wRzuCbv8PKq2exvywNu4PecNqgvgrzHI5gx12TIiew5b6TkCXxG7xSX_iAIhIHXcFBfhbpoxtowjJfjBkihQrqNIZ2wpK3xGOTto8CetHIanR43C9Ai6C_F1-aOXTSUZRFvJu4uN_f7WH05-HusnCx5lIxNrSNxWW-gszABGfd7oJL5PqL4lIkf-KnybxtvG1eovSjFctlN9paLziLhFiadC7gfIskP_giBnz7I7vxhvUgJPfh__lLzIPRrlW3e3AKC-rolCfyH1mpEjLEbPPAPvpCD-rAUcWkh98_WwW8QUjb-6w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پس از آنکه دونالد ترامپ کانال ارتباط پشت پرده آمریکا و سپاه پاسداران را تایید و دولت ایران و سپاه آن را تکذیب کردند، شبکه العربیه به نقل از منابع آگاه جزئیات جدیدی را از تلاش‌های نچیروان بارزانی، رئیس‌ اقلیم کردستان عراق، برای برقراری تماس بین آمریکا و سپاه گزارش کرده است.
 العربیه به نقل از منابع نزدیک به ریاست اقلیم کردستان عراق گزارش کرده است که آقای بارزانی در تلاش برای کاهش تنش میان تهران و واشنگتن، دیدارهایی با مقام‌های باندپایه ایران و آمریکا داشته است، از جمله دو دیدار در بغداد با اسماعیل قاآنی، فرمانده نیروی قدس سپاه پاسداران.
@@ -1289,7 +1341,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77932">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/ff868c2485.mp4?token=cYR4YmF--VaowYNNS-qEfs5DFVjD6SDC-v1Ilxsrv3Xexc7jFOCb97qv7td50zav4_O7fwSR8dbM6Ppc2n1oenwMHI709n2KAjegMhi5sgapV3GNw5a27GHDRBFSmczgo5rv4_HljDUjCIZ-UhxE_hn_2OQQJ9jUBhhr5H8JDxpCPSR1O7ZYylfOj0FPSF37ZbLQ2p95WuozhqgufUOFN3jQB2iIC0yapxeWbZKk1uKmvLX74fb-MLFSV2aJ9_06eCowfD9Fgl4h9LUSKY_STVlRTIZTfL2iIF-EUyUN058rXi_-wK0t-jo9R-XnORUAjoivOr9GyKVOnHleUZ4v6g" type="video/mp4">
@@ -1310,7 +1362,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77931">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Ltqsy5Mj80MKOsh8RNRsoEIwLnZsICYKj9O4gjq-Xdyh_XGQCYAk5wwFLvACD4-9u4HWXdbG-U1jBmbX8qUYVYRUd0WERMxyE5d-C0M19xVVxdZ16ZPzZhs5JW_4HMPErMfaIE8x5r6wx47coNlwR1v_qVH7t4tsahu1Ky1DNygNn6G14KbMGT8wrFjOwoebhHfNU61SLHunaQUQJ1qV7lZ1yUuEbSA9wDb_LNRAwCGqVYpIPKQ2hKeelBJn_EhJ4w4kUpXy8p194eD5MDCO--LiJTfRPvVr5DGv0b06jnMDqrNQzKqDnjRe7unBlmwonjxjHzKGqQeW2ntiqjokYQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک منبع مطلع به ایران اینترنشنال گفت که محسن (مهرداد) تکش، شهروند ۳۳ ساله در اصفهان در رابطه با اعتراض‌های دی‌ماه سال گذشته با اتهام محاربه به دو بار اعدام محکوم شده است.
 تکش، ساکن دیزیچه اصفهان، در جریان سرکوب اعتراض‌ها در هفته آخر دی‌ماه بازداشت شد.
@@ -1327,7 +1379,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77930">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Pgz9xyhpEm_-4IEak_GeU35-h2Vy816CnF7A_H-JIYu-vGQIHmEfP-tovOqcQfPWDnefte4JTTni3Zi8exwYYYYql18WngXLDEqHAME3jVu8yCCkUOCwiiEZHU8lcpOfrMeS--yGQ6uXThB8gUFgRiC50QDG9cYg1iFvIhrX4U8J2DGfXcsa2xXWZKv-pnnXUS0FQSiT7cuJuuHwT6myI66RZO4udD0lQ4oFD5pRILJELlZpfo5eKSEvAOwumJY6iqgRJDI3FftlEtKTinr7zNvm5M7-3tbPRSOuxoSZhu3FuMwYKd_O_lxSOKXm2PAxppdIl0Nj7EjFa_mzXhbepA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">UKMTO:
 مرکز عملیات تجارت دریایی بریتانیا گزارشی از وقوع یک حادثه در تنگه هرمز دریافت کرده است.
@@ -1343,7 +1395,7 @@ UK_MTO
 </div>
 
 <div class="tg-post" id="msg-77929">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/okgBhGHF3Rdmoix8-biEAknIwpgGc4QSGNTEIQ9_rVQt-XVCenh9-AZNRfc7TkpjKtSV_dOBnamQHqdqQCrX2WzlWDY6Z-mmtyWMLiFe8HRD7t1mYjomyHewCPjfyLEDvByIavPoZTGQbb7FaoKo9k0J0I9HWoybEfMht7_nXbp39pe-P6F2M5sUHe2a8i0erRuipFCXItezQuKcMi21_ek9SAD8RxvHbcd_BoItMOmbqRSjKcrHlSu2EkP-zgnoDzbArLgk9-PChea8VFb-3mbBQOyNWW1LjWa3tHnPvydPsAVl6gF_alQUKS9Ozdrk9w6rZIkkuf_QspezHhv4qw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دادگاه فدرال کانادا در حکم نهایی خود درخواست سلمان سامانی، معاون و سخنگوی پیشین وزارت کشور جمهوری اسلامی در زمان سرکوب اعتراضات سراسری آبان ۱۳۹۸، برای توقف روند اخراجش از این کشور را رد کرد. بر این اساس، اداره مرزبانی کانادا موظف است حکم اخراج او را اجرا کند.
 سامانی پس از استعفا از سمت خود با ویزای توریستی وارد کانادا شده بود. این در حالی است که بر اساس قوانین کانادا، مقام‌های ارشد حکومت‌های ناقض حقوق بشر حق حضور در این کشور را ندارند.
@@ -1358,7 +1410,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77928">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/T-XR8ytqzIPYijD8OJxXHz74G9gkL6ZC4PBHDHdTMGLFcrgrIjdQjXy0HRh-SfbMA21QJPe3bxWuhQ1EDjrSt_2C5y9NNZJ3K87Svkh2xev72hOsiUPVr00j05WAc59queK_a_JNwbo0guWk5DhhY_Awb65ocrePSr2MssMq64-nl89K1EbHWnxaLQoHYauttpdxXWNb4Tr8lEIuqlt7EhkVWjAfxoPc90Odt_T6WJsoSH_Qwkly2eJ7hf7HLsyPbMFrdvxg2kdK_cvZNX-8sOPO3R5kq_SwAPGWw9T929438XxS5c5fgaIaXUURl76frOEMo82atON1H1ztIMgIqw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رجب طیب اردوغان، رئیس‌جمهور ترکیه، در گفتگو با دونالد ترامپ، رئیس‌جمهوری آمریکا گفت که ادامه گفتگوها با ایران برای بهره‌گیری از دیپلماسی حائز اهمیت است و ترکیه آماده مشارکت در این زمینه است.
 دفتر ریاست‌جمهوری ترکیه اعلام کرد که در این گفتگوی تلفنی رجب طیب اردوغان، آمادگی آنکارا را برای حمایت از تلاش‌های صلح ابراز کرد.
@@ -1372,7 +1424,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77927">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/e635bc1048.mp4?token=X_JggB3Mrv1ZgDxRfLpCOEI0sx1cNVihjOQkso2IUGteGK4yqKeNZvSJL_2TRUhS-Ey6SgnsbSk3hK-n0XYZmC4C_7Zr2YSq82JyvHm1QUXLptzfvp76nLDsNCUI7t2gWUXUVn2LW1NBhQsJiUnrarOkdbrf2r2Ka9zCXsJGoTXSfPFm0J7K8TonN6wzBr8e63Yj_yyDV_Dcio8ZD2kda3_accP-MUvLtqCL0CRp8p75c9TQJLcWRdD2m0O_YnhmvVh9yr9zLHPlfOTJxlNBiVfxOl0w6iTBf1hrL9MWD9d1UsjH5PrMZATsQV13TZDZ0e9WWGiYKPQX__KMLefikYi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" type="video/mp4">
@@ -1427,7 +1479,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77922">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qh6azyiG9T8XvpKptts9ak1UgzALEqZ1zKiRfutn9V72AKhlEyQuuaDZrpRFOMvj4iJjKM_yqzwyRbDIarB4FCaACmy8ZBJG7Jwd-R_m2Y3KuwyY4EPSsMh-kDUeHKdtR6YSnQApiKfJNonUV8ZyI5oucgLp3Lobhyc_uA_0TldwAoThuZgeYxLwwU1BoywcmYzUrEValyaKbU46vb0Jc_cjXPocRONct_4qsFJQ1PPCyiHP3v4Q0snFXvCDLPNSHLUMpDPfd7Pi5SqrWyzSbQhCB2wtvL5eQK0fHWoq1TY5LYKz8xvjtcZw9Fg6P4kI_H0YDFykfOAOV6VohfuWiQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -1444,7 +1496,7 @@ Vahid
 </div>
 
 <div class="tg-post" id="msg-77920">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Ys67Xn6ricTllbpQEtLMAT5pVuaPlRbSSy4NtKIrGUSuxfYMajxJegSWnWtdheOu1YlXsP2PQP6VbyDH9C08U6C8mC0tW_WMaFhHPTAllM4xaXKsCw-rats7KA2rgVvjJtKtQuWGooywmARMJuNCAK1vjNH5AlIXaW8Za_leGvCdEcIDwyVYc5kMyrJfrcbIQVYtpzQ6tpepisMUK0kGWF_U2HqAYQqpBSjZZzHXAA0xblvAIlfEHNnOiaMIN-QHxby91XPCykOrILj_Lvs5zYAxEMW9AoMFPUx8zzyNywKSN6J2U9MsgFn1aaC-GkBvS2AdrW0xbcN1cBFBcPKiDA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -1462,7 +1514,7 @@ Vahid
 </div>
 
 <div class="tg-post" id="msg-77918">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Gj4Aa_ZKHQSV_ffkvVH6cymKqkGoiizvWIKaejyu7a5lt_wIH_AnrT7eIQSS2pyqIqFqfeIdtnPNduBTy0iHtB1WYKdj_7HLZLPOz9rHxN82w4v6iQIqLfDrfgGjfiC8yb3AZi83pH3fnG89X6fjS5yidhrdkbCmOAuhfcTxzrKgq91WzCyBNWecfCyKxIOOasQxeEclOZTtApP-FmGiy5OgZ2-LTRvVE8uKsIVPxFwJ2_-V4czKtv-N4d9cinvfDdKpIJqkogRA6bOAEAVldOLWwtybIYUPMWpvEfKZtC2bhv-Kzi7rXXd-kOhg9yccbv8jCTPnEauSfir0oqb7kQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/UWfc-Y8r2oa3sDuE7o218USKSxo8S1o5sptArqlUnxo6Zx-7U_WhUcEHSRfiExzuxKm2_HOfm35Z8Y8ISvV-_YquJukIXY7YRwwInVWyf8Bja1wG9kyRIqtWdCJqR5_YJeyR0laFFNnMhS5aB0V55mtTRBe7AsTNH-VpY62T1_elvN9z1iOwjlIgQDAMg3suqrYWLcWobOCNEuYX1aMLWPBSnVwzfv4rsW_K22hMTuLZ_fFdF69YSoe6uChmAbV2jrPgWYzM7nyxtz99H-f5gtiEqJdCbIt1zppxmYZe3pH848wMGtgQ6ejNR-fxuN_wW9gNW6SHdho2rqHlf_YwTw.jpg" alt="photo" loading="lazy"/></div>
@@ -1484,7 +1536,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77917">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IHLzsyCM9LLCZgf1aSu_pFQI8SLXmkBp6vwksDAJiUwJ5ACxBi-usJgwl8GgM9xaZwMHjPbZ3S8A7E8eEQoKXvhYnDK0WMRp95kFxMKeq_WHfAa_XBciPqRNgN33_7aF22SDKsqQ5l7v2VA0vE0dPV7yi2JRNeU7xgNRZ3zcEO_-eaarxCPhkBFEjlFMyzTci-Jcv0X7AK4lFmCdtgyxn-9PKtHijOmHLVrElbpcg10WCATBcYu1HvigDPNN8xHnW2dl5uhF7pl9aYBcEvoERa2LDrfD_nLwXDVUt6qnlO1An1D5ST1vBUZjs4BQLwODFDbSHtyJx1CdKsFB4ZA-_A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اداره مبارزه با تروریسم اقلیم کردستان عراق اعلام کرد دو پهپاد که شامگاه یکشنبه ۲۵ مرداد از داخل خاک ایران پرتاب شده بودند، دفتر مسرور بارزانی، نخست‌وزیر کردستان عراق، و همچنین منزل رئیس اطلاعات این منطقه خودمختار را هدف قرار دادند.
 بر اساس اطلاعیه روز دوشنبه این اداره، «دو پهپادِ حامل مواد منفجره از نوع حدید-۱۱۰، از آن‌سوی مرزهای ایران به سمت دفتر خصوصی نخست‌وزیر اقلیم کردستان و اقامتگاه مدیر آژانس پاراستین (سازمان اطلاعات اقلیم) شلیک شدند. خوشبختانه، هیچ‌گونه تلفاتی گزارش نشده است».
@@ -1504,7 +1556,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77916">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/0d5ca5b6b3.mp4?token=mvlw3-m01MWngNac9N24TBCyotU-Z198gKTXcte3BMKrIAKk1c3dZKLAYEGHtEaItWM43VjolV5C9wXscfbsQFnyT2TDceFXHq6HHOa4gTqxz2aR_yhx4-WylrUtdBSpb_XDWdgvaGFW_lvV3_gpD2BQVDqpFxPWixrMwfyvFEoaXP2fI7zfqh6oMe-Rfe4i4muwVcaeRV120m-N3R-G3BVa_QJz0vz8RgcC33dwtcYbgoCBrmfonHgubaXhoET_UTW2U1igTMHisH3Wc9l-SM1rwfraqaUbilEIM_-qPYT4Oq1JizAP-K3FvTPpqG3Cslf7-TWQUf0keiL02CMKow" type="video/mp4">
@@ -1523,11 +1575,11 @@ VahidHeadline
 اگرنه وقیح‌ترین‌هاشون هم درباره مسائل ملی مردم‌فریبی می‌کنند و این طور صریح نظراتشون درباره «ملت فدای امت» رو جار نمی‌زنند.
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 276K · <a href="https://t.me/VahidOnline/77916" target="_blank">📅 17:28 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 277K · <a href="https://t.me/VahidOnline/77916" target="_blank">📅 17:28 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77915">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/suw5QNvhqnIffS869Irt9xjyN5gb1oTnR1u4C3MIWTiNOSUKjlQsDT_PdNeyWypXS-jBv_T2sZBUAme3j_6BTiZ1UFC-LeAShmKPS0Oe3eYwN3Cthg9imrx9nuJj7XGVlW8cRYbXVX0xwcICX5Km7IdVofctmiJCyaQ51ZkIuHjpV-5EZXCFtSzELlTPLNs_OwdoHsOnoz4NfConsM04m5PhAwk4MoWyu7ggrQRytMRxfs5rTbcJYgPyw5OIwb6A3WLA8OhMYB0BtzOmJ3LybeePAe2RNl3iWOozvDaS2uw4LKLwNRDkmsjNASYH1xUH0f0_kElDyn2czrjP_QKkqQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بنیامین نتانیاهو، نخست‌وزیر اسرائیل، با انتشار تصویری از تبلیغات حزب لیکود در شبکه ایکس نوشت: «نگذارید آنها برنده شوند.»
 در بنر منتشرشده، تصاویر زهران ممدانی، شهردار نیویورک، نعیم قاسم، دبیرکل حزب‌الله لبنان، مجتبی خامنه‌ای، رهبر جمهوری اسلامی، و رجب طیب اردوغان، رییس‌جمهوری ترکیه، دیده می‌شود.
@@ -1540,7 +1592,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77914">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/aCEQpYumHM14sOkSsjRYimXvstypOiTR5Bk63xWKZx56UaCx_Y6mZv7yLRdMSWLVe0Aib8E5_LIATGeedD_7fRO2HWKBIT5paevhszX9_OaxSmHv4Tj7SIFjCFCcvrPGhmbm3xIq1N_GaSvht3a7c46Ma-HcPPDASLquDFyVoZzO_hIILjYzMYVL4JwRDswdQCjbzJnuMfxyfNsbho3myoj47LP57OApfdxLqiGB-iTZy2l9KESGRCFffQuQ-MBu8-4T4hcl_G14zfKOZIBl2otGdrr8m9rJGLo0mdpzKkN5ZKUoCqwglTgcm3k3VaQobgo7_HzUkWOu-Bl1GfmCuw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">«ملیکا همت‌زاده»، دختر ۱۳ ساله اهل روستای دسک شهرستان نیکشهر، پس از عقرب‌گزیدگی و در شرایطی که به گفته پدرش امکانات و داروی مورد نیاز برای درمان او در دسترس نبود، در بیمارستان نیکشهر  استان سیستان و بلوچستان جان باخت.
 پدر ملیکا روایت کرده است: «فقط یک خانم دکتر آمد و گفت سرم می‌زنم و پس از تمام شدن سرم، او را به بیمارستان نیکشهر که مجهزتر است ببرید.»
@@ -1556,7 +1608,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77912">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/37ca2442dd.mp4?token=sfIgCVQHr8P877fp-9pEV4h0tDrgMiCSmfMv5Rmtxm0yTSldw6pZDuYp1-ndPyUr9PiwiQPsPkgSuaW2TbyHM6oDW2OweLMMb8d6X7aTfmqy46ML1G0ecBIjq9Spu4GA63KitASAdce_Jyo6TX95ajtpplpW12KYDapsNBsGeyPPkNUE6eHxNzO6qoZVxMuKVVM_m0wec8erBrXLRhN_isD67PdKiiyE42yhyUReh37keHR5bgQfzUqRBgZoixmhsHwLSrFWEkU5BK1ma4T5PxZsFWXbVRoib_Q2yTrPe_8VZORtU3OR42kXO53whC4rsJcMFXfT0n54UdMuFqPjyQ" type="video/mp4">
@@ -1575,7 +1627,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77911">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/c9e563043f.mp4?token=iBqrFD7WJE0oVE8_UXK72-k0KRolZgST45gDJ_cx465FpuXWNK4L7z8FAFIMDApXQzYFmHqtMl_yhGrBUnWC-R5PwEKKtQPElb7eSR3CuQubUzp3xWgf9U_lh_c8jo8oVefB3XTaCMSTM4BiQRI0OyVSlt8TaKUgSiVxs75b76ggAZx-vQr9RjVKatpeutuU7Xc4FPsyp4ndexeEJaRe6koG4l6dPwMdJr4iXrxO4gDfEhmyFgAnK9QjjnT9YZ6zr0QVPNZnDou18_ZfmWfBYh8I3qJjdpuKwyp3aFr20f0wfCpX1K4Q_v-mD9GbybGVYGKQEbnadC_yHY4adwV6VQ" type="video/mp4">
@@ -1598,7 +1650,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77910">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/557e36e83b.mp4?token=ImNJpG7fzHrOvo1IL7pfShDSWNsd-fPJVpvaTrwU3_kHizVVukhO8R6f5g1Yk9KQR_PPcVH__Wih9Mn9naDfMRWq9I44URDeJkeVPqtooMp_lRHydgpKQG9DaZp0uZ4ZQxeyRDjdaZj5gozBjUGaJKtWnTwgt4rqSyi4huSImfrGqAnBNiPAgfZHfMwrjGCVYEAs00NPyq-6TxAH3umzH8CRMzuoezIbSrlnnqi3xr5qJlcSeqQhafx3M0GOLbIo6P8_L2K2dHf2LUqsPGoZ5oOkMT9yrTWIHJxFysG95w4UWE5yW0VbFfurdC4kF7Qstw48n40fyfExq684iwIxqg" type="video/mp4">
@@ -1611,7 +1663,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77902">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromVahidOOnline وحید اون‌لاین</strong></div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/f5zaQl5owP7yA3sR9feUYjt2br58JH8gW-PKkTXiqkt9QU01JcM37116QDUaJbKByI0Ru2NHl-U7Cpj3-0H8pMVaFjRSgQBL_Tsxv36j2nHddLLZvOdEODKv_rkhAmNKXe9GnyTnIye-KyOC5SFE2vPncfU3eyLJ0lLwzyjAncWZV_VWQUbeMCY9Wur9lvo5_zEmu_Cy1rVEbi01N-3hHtZEYC3OZC4eS04vPwUIenRFlK3WZwUrAI15-hft3RRF2E0uieVw6tf6hYSS4fXlBjpQF7WFh6pmnShoaw3AkLIuycPzKv9y67VrR3W1SS49c02JntEKAAJ-6ZkmIvMT3A.jpg" alt="photo" loading="lazy"/></div>
@@ -1637,7 +1689,7 @@ ManotoTV
 </div>
 
 <div class="tg-post" id="msg-77899">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromبنیاد عبدالرحمن برومند برای حقوق بشر در ایران</strong></div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/XiA5HORaInG8_Fb47SdxC9yOwA8iBvckTwY-TLrowpBJKQbRdB3FiZYysU6BoCn1KrMJXITvry0A_zyAIXtd2wdUtSkgL7JpJb_Y8moPpeN9fNwb7KTgqUes2ODXTiH32fjV9ZE9VeIM3Qp44OYPG-DczvXhU9LVETOlHkc6mmTIxoYfo_f_TvxQC4lafqSIegxhdef2iTYaa1m3AoCDOt9AcurLUP3PP7_ZxN8BQojJ6cysK6lbgrAzG-y9wv-tFFFCO8n-DNzc8vXg3VDItBIfPZ60pHE0xxEv5rDakOZJe11DVfGwUqZfkNhd0HREk657blU78fPfRZBkTDnb9w.jpg" alt="photo" loading="lazy"/></div>
@@ -1656,7 +1708,7 @@ https://www.iranrights.org/fa/memorial/story/-3134/atefeh-sahaleh-rajabi
 </div>
 
 <div class="tg-post" id="msg-77898">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/5da532981c.mp4?token=ObsmG3TXtkfEyz6QeT8DQWe9zEWMx1-QKyUbSe84sOROf4fj-2Xy1EEFkhrj9iILZZfbFzLYikKdprhrHap3OJSlI0qP94bUEwp4cG356-O_VK1SB3IQvzk92oeRRJUH9hnq6OHGNNJWc__n_SGdtAFkfYOPYR5sE5E7MzA-lWSWbyR14wgf7CgT3LLjxbLA5NaT28uW9U1l5Z8iatZ6Tmc9yUgAsyl5bLLZmM18tWmqj_JTmxmCRaIHvP47kfwJoK16tE7udytpU5xB0SikkDjaMIAlKtmWFtIaS4NrCOyvNPs7C66BIDnAI7uCbwmKuZ8JM_O5MOzzV6l9Bh62mw" type="video/mp4">
@@ -1673,11 +1725,11 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 389K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 390K · <a href="https://t.me/VahidOnline/77898" target="_blank">📅 20:13 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77896">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/vyL-UIjES4oEXUu4CJsS6WUQ94q2KdgxwiAIQcfc3xk6USSlsdFf2qRwV0r1Yj5LP2UR3VwZr4DK_YFO8fEXDQXvi8JYl1LEP5vEGuty1nkX3sTqaGJPKvsj6aD3PuQ_zXpT8VT91DbdeaFyHS9mwyual6n0uYuxSU3iVgvREVkSjDu2FLTNhLABlkgzwiUxc2Uk8AiFXxmLktm2zJkTOFSP0NaQ2LxLah4FKJr2c5W87flv4gY_M-ChqP3hXpsJCU6WowVNKGQk6CgpDii5CqRlRrVcSXFFe4-eR3tTOu_vM3Z9el_z42RWHz9bupaVQ6_75-LQh3XwRIc3T0To8w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/YD9syjNjxIVoUWNitay45eB3CvNMM-j0eZhfHJPfPJ1k-yU1rDGBtNP0QWQcPBe66jyn3LbzCFMZDTs8tLvuaM9OnLLq9gmClXJUEjq58jcfwScZcnz0QbMy9acGJdSmyrVOcefRZ3iDQooiY_0BpUNzC8JBceUYEjxPsIq-nQiIv4OGMnP98hW1hGfAo32q9NpsM1VocBmw4CFaSNBOjSsA8oFoAq3f3VCaQ1yWU6BiCm8gIlByhzClTCOM0qgaYuAGmSYp2VFBpKRWkD50UdN1anVCkZYWD9rq7IsJ9nRBYqSkQxr4ja86j8a27TV4WvkpLucs_uiNct4uqKIUzw.jpg" alt="photo" loading="lazy"/></div>
@@ -1698,7 +1750,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77893">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Syz4wUkVnnX4ujr4EzKFuxCrMn-wDGOrLksUnzqlC-0TzhzA4JlMb0ftCCW7qFn0PiximGwYQzo2O2m-ytNqTRJ2tVmDxASTnC1zJTJfTtLg2MljEn9SULYuX3a5E1SqtMpLTeMKASw5-24jv6g4E8BmgwiRLBhZlp9L0MUln9OY-bcaZL3PFi2znBK3Lm7LrVbf-qytHHAwqF8Myi5WgP34lNMsYaX8MsQa9xmu3Ug_xO0qWnE_aAmLLo2PKLO64Oxp6fP75_F0Q_XFR8K8gX1ADYiBSgzpSDPeRDzAD1TNAwS8nLI_HmCKslrHerviWMLEKluVH-vkaBpsEg27iQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/MagNNtQ_gFSm4TZ6hHNoUXeL3YqIwEdU7_Bsk3Qb1x4DYrzTAAPy2JhUaUTtSkPfwfgipqye6Zjj_vMQ4DwOj3CY7zrnPdWYZH8-_bJOlos102ZaXVzhyUsqlFDStrHGlu0GQwvob0zyR8StWf0-3iwMIhPwF4cX52Y7loBCFh7WOS5O9qpkjDQueAAmgUa1wcRdDW-hn2FWOpyNAwlM2wBKVWDmxZs8NM13E8KBepIeHpw6nM5BeLMJUgpDzYo0tjqRBSPJxJYqF2wmhiJme7en3OlzI7Z6v7bsJvmbaW2BgReJbzdfnA5RmHYPBKhANP6DddDLfvByozamx-PlRw.jpg" alt="photo" loading="lazy"/></div>
@@ -1732,7 +1784,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77886">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/XBsgrvJJs02wRbKSKU4N4drEJeujExwqO5reC21wIinAkfpgIkoZlPag-1uIWy47bCqczKHH4l4REyM2I7waER2Sxucs5WtUPiGKyAi50feoAKsR_O7hqagPXdfPkYDrn_iUDq_3rxgTdu_3AMUm8ovPpEXWGbqbcri_xpe2KOKLQEUKzxtQDozYrx7W2KjH6MFLm0FpfWDf_zk1Awk5BkBksPw2c5DmfaAE73_KVSC2XOFF1k-bFGN_6TodIreFhQUWDnJaZV94yBheU7KXhOIY3mll2igLZLzw4pmT9J1FtYh-aiWwg8brQr-eketw3O3otTjrHSCbyxiNn6D8gw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/V0ymVpaFygjvY18nvRCMtRzOWyjuglqxiAhjmZvgEcL65x_Q5oTFNrHAGV0P1oCo5HMHXbJ0Rduaa4WdgTjN5Wn-N-RLUVo6sbBuI3trXzl_Tunmi5LChALp_DXDZCLbsgBoSnrRf0jLKEW6ZDgr1yURDcfybS6PxDFm1dgXd5Sx8MwW-EuJ6GVgcZOrMl371O4wtO84EqrrgLWlVBjNKfJ2QqCHjvtg1q-rVF230q7Cd7ieoLaF468LP8TKNh24Jek5U8cXdRZdhBAnnxux0KnQ4z9MZIEiDEOonn52kR-cS1Xc5jhW7Vp5jdJrv0eRQu9qDMRSqWEgEEWOm1yR5w.jpg" alt="photo" loading="lazy"/></div>
@@ -1778,7 +1830,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77881">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/mclMWMZBjuG9QODE9qQaovaum2P2Gp1m7mi06sBC1BdbcrMCb1yvSTPkL5VQiP6yrsRoD43Bp5nbmgV6gf7wFGVUO_Pif5cne3kNHWgJUknnQlWTFCFHiJ5WLruwpmCEwbg9EmvVd3SlTfrFh9U7JlQl2BJDxqXDfSpr4UhoCHSMd4FiiPZhvynp0OdqogbF0QRxEGJGr_iT5vPHEWzf_YPejQ9u_X5fdF22L3dKtqp8urgcHf73UcY2kq82jQAulItTpnWiyrv-RioTR9L1PyM1VFlOcTt_AYMmkL9tVba2GaPKlETvBaPur3hZMwdH6aunmis1gWego8cn1_Hxeg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/S7tdccl6cahkKPuO5HypiW2V2DirKcN7HQnBI35Pzn7M6tGQpMnqatFRsorw_iDUZwN7XBf09tIzA6oJZptDKU9CWhRWJtnYq-Qrhk8exI9gmOuUWqQWhztZBbWZDiRJ3BPjeLLlVNkjnz3WXuhKKglJtEyH6vTuWNbJeUoWHs2nrRtSuOINwAgwYHknkBRY5bWsHjkZWhKjFt6Y2UlBvEtdIsYbZ0eeTKig7UjvlgGS1Ku6oIz2t0pl6SuIWVenYaX5i6SjxZ3DEaYY35N5L6dNH4xdzAh0Nle_eJhkUwkZ1ag8v-PQGP4BR5doojE09ocP-4fSlbNa54cYtBtYzA.jpg" alt="photo" loading="lazy"/></div>
@@ -1809,7 +1861,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77880">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AwIZe4TCUybgLxlOKHmw8acaV_TJx1B3mXqHczzXueD0Xv0Ye7Z5CYBKZvn0aZ8NRAfRKtPVWahLc2jq-oR1I_s6XQDlN7iwKYVnwrzboL3fzXEFP4mKmrQf4Jx49-FTBxdnTK5EMf5A75rkj9W7qBOfz4oOMeD0FXDzNGD_ejWDq1fSmTlvrMApt7VEwA2VSO6VV9cizaOPmPAxzRFdeP27REA1HfD1kuqWQ88z6Qhcfn5YUViHG6VhuKjzIRjDIxFTZNzoBFhW9a-un1hg4PrI_7Ol9S2tRqaY9gSnlgBs3prCk2moNwKa2OIUmb9EQdtocvFT9vuGsF7axUS0-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خبرگزاری میزان، وابسته به قوه قضاییه جمهوری اسلامی، گزارش داد حکم اعدام شهرام صادقی، از معترضان خیزش دی‌ماه، بامداد یک‌شنبه ۲۵ مرداد به اجرا درآمد.
 به گزارش این رسانه حکومتی، دادگاه انقلاب کرج صادقی را به اتهام «اقدام عملیاتی به نفع اسرائیل، آمریکا و گروه‌های متخاصم» به اعدام محکوم کرده بود.
@@ -1830,7 +1882,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77879">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gwz-50FUcSmG01GRLkw0zjcb2G7SqZA7YOImtssr4RyhjPfQtCyXMXSsxXGptTwKXG6lmhaHf7OOD0RnEt90zy1qzfjiRiYK2-GF4rvrxGriMMFwRx915cx0A_2r3CwlPvOQCCPqIpW3-MtfdMbG1UpUhZPqgojMUaoPj0Va7pqzcxYk4iLaAZnZPnR8PoI9UdS0bEAdBAb7ZT-fxemkhb_TeulQQZ8_qBb6v2PV3PS01_X2MYI01wAgRc_uIFdXccn1qVyiEp6wdfdub8XodgJ48wB9NihUXk6kOUprNMNPdRwrcjjJ-LS1N_Viyqay8iiBtHneEJKS3FOJFud0NA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ماجد محمد الانصاری، سخنگوی وزارت خارجه قطر، ادعای جمهوری اسلامی درباره بازداشت سه خلبان ایرانی را رد کرد و گفت نیروهای قطری پس از جست‌وجوی محل سقوط جنگنده‌ها، پیکر یکی از خلبانان را پیدا کرده‌اند.
 الانصاری روز شنبه ۲۴ مرداد در شبکه ایکس نوشت ادعاهای مطرح‌شده درباره بازداشت خلبانان ایرانی «به‌طور قاطع» نادرست است و از انتشار این اظهارات، به‌ویژه در شرایطی که تلاش‌های دیپلماتیک برای کاهش تنش در منطقه ادامه دارد، ابراز تعجب کرد.
@@ -1847,7 +1899,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77878">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uZkLyrDrjCF4krPz_vpHKiTlgCdmefDVIH3zxoqJfUnb6wRsaARrjXdxVYEFCaZRFbF99kB684pMcOVFjBGbkxGstW7mwHYLSNVvTc_ALTbrpZ2wP7ZiVKiPoBUJOom0CI2wMsUfxmfXh61fdqPX_EIN6DmftjaBlD83OSCgfSYbqzLAo87QYef2TmEr3O2F8qUHu-QNobz1AsT5mci9bWn6AtmMW7iMBIVY4quuuf9TS5HoXP4w2D7ILtyTRNokj4NboCWHn9IU22oy2TgrKRfzhGSOAzWEK_o-NQ2FQjqxwhX5Xt_92FZKbHMcsbganDX1ncBHtUcYCBK49tpAgg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محمد باقرزاده، فرمانده کمیته جست‌وجوی مفقودین ستاد کل نیروهای مسلح جمهوری اسلامی، در نامه‌ای اعلام کرد سه خلبان ارتش جمهوری اسلامی که جنگنده‌های سوخو-۲۴ آنها در جریان حملات اسفندماه سقوط کرده بود، زنده به اسارت نیروهای قطری درآمده‌اند.
 خبرگزاری فارس، وابسته به سپاه پاسداران، این نامه را که خطاب به رییس کمیته بین‌المللی صلیب سرخ نوشته شده، منتشر کرده است.
@@ -1861,7 +1913,7 @@ VahidOnLive
 </div>
 
 <div class="tg-post" id="msg-77877">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/5168e558df.mp4?token=IxwNbHLcci9pgnIBc-mhLDPS3VAvyeskw3mV5suN0IOg3btr3URCh815WqWsxWfs4gUMSNcZ5eIgW7EE_sOFPQilLWiCIArCbvj6tqathbZIw2q5PV1J4Hm2C7R1J-Kt2Kyz7YSHQ0_SVN0gH8KxbkK46kXXUq_XMdvAABwzpaO4YrKpdtyBsLVbMFHwDHOf64tZvKfImHp-dEGQuLuXuNTwVwQwyE7NCPXPjt1sBhdthLmugKPMfvTKoOIXd4erPd3hEr0MwUbE6N4IfY_A78i4i5xYT2gSWRoVcO8Q-RheGWCYaIQ3IcZrGExjEp6F2_hYo8nJleWXYhz_pPzWdg" type="video/mp4">
@@ -1882,7 +1934,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77876">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/4a1eed77d1.mp4?token=PmtyNqu32Wv918hHVGK5o_cuzFyU3dEDz655OlZcs28NDSFV76o2MyNvJJDIj-oW1yo9IHtOW1TNYJ5k0Sa-7bprJVL1h0gkBAMNETHdRsG6tzK0J4RaD28NEPCvlwBni5E7xLyW5qbPwcIQu2HJEHrZTjQCsbBS1-C2luZSiRl_uS_whDO90yuk5YsDeaFhzFpW0IF5WA09RjnaaivY6m2e4I-M9x8brfWPl04sur045tlGW0HVkpNkYmrE8c2I9M5bSWLaPIRz5cKDHmAbCQdG3w6Uvxo6AGaBIUIJGJIPBg2R9JVCxOECMQZLZ6Wn2Bhc8AHIM0c_QkKYrowPFg" type="video/mp4">
@@ -1903,7 +1955,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77875">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromبنیاد عبدالرحمن برومند برای حقوق بشر در ایران</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/geHf1vQOyqqHKW_Hm4VVpuxcmtB_VeuzldkbUB2hb5tbyXqTL4X3uFtmlj4pXMt_7skXL-r_nnQfRSG2dIOHOoEJyvHGMGEmEr1d6O7GB5KO8ZeLGyWqzuqdidR4jJz8deCe8z6LYEO0lTKwlF5g13F1gTzGBTxgiC2zAzkfZroDC9wOhJIUS8nq2inbVCrRGhVKkLapodgitcchtnvpOk8lFSxkq8Xouoj3vIpg5Na--agcmwR-j3Fbwzxu2wpP0N160vEP0Iwa0YcDNiwBpm4Xw2ql0tFkwYP1jBOQCqOnpIRc65cDu2IastDuMJGFAG1gTSwvNKfIj9ql8vO9vA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔴
@@ -1918,7 +1970,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77874">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/cOrxNc1yHbqJLuoSzZa-hw6kwufHGLgyNM0MaFi41lpHKm-AnQHcsLGQRAnhag_20MayMvV_tZ1HRTIxHTjL2v842arLuGl88e1pSiYrPHtZPh_DNpprqSjuBDTuMLIpF3exb8YwOeniGcE3kz8CUR1eTO7G-y9fY6vFtrhppPdVR6bmVVRqnT4F83kGtVdmD-5uZ3DyF4zB3InInusFav-oVUywFUlWDEYG0bjgMIvdWTXsxZEOL7lWfE41TshYPv8e3lPe-ScYWAPJlaGDsn3R5N_B9NGXUeeOfmK5wbEDICXyW6AS2XZQM-oWTY1d_0nTXpRH5BlGkrRfji-f8A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ روز جمعه در نیویورک با اشاره به حملات آمریکا و اسرائیل به ایران گفت: «آن‌ها دیگر رهبری ندارند. رده اول آن‌ها از بین رفته، رده دوم از بین رفته و نیمی از رده سوم هم از بین رفته است.»
 او افزود که این وضعیت، مذاکره با جمهوری اسلامی را نیز دشوار کرده است: «یکی از مشکلات من این است که کسی برای مذاکره وجود ندارد.»
@@ -1943,7 +1995,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77873">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/3500bcce36.mp4?token=boHS85txT1Jf1TquilQiYneDfVFS3s6hXO-4bDOZY0jQACjBTY450yiXZWyoWSNPL3gSAblZsX729Vd2uEOIhesGaJoBSYgiXBizCnWWBE_Q-daZAFzMvABe23k7Z0l9G_F7tVnpICgcx7tT5YbLjWHRHOiAP3SnaDGZl2VDRB-qSaK9XBfW68Cj36GVws0K-m376spQUmrBBxwwOdLBbt5rU4tA4xpUulc6CL8GFYdBCuj6s0o8wF1fW3jZrSxssRLv77f7wHYZMUyAI9IHU4C6U7319oKLvekcCbPLk4cCFU3CFod2oZVhn-5S8OI51f0ixvpdzK4x0bTI3xRErA" type="video/mp4">
@@ -1963,11 +2015,11 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 406K · <a href="https://t.me/VahidOnline/77873" target="_blank">📅 00:18 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 407K · <a href="https://t.me/VahidOnline/77873" target="_blank">📅 00:18 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77871">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/d41b4db679.mp4?token=GW2gcfuHARKIyCSCZOe3Kl0uIR5Eir6Rb8wAVdLFGTw5e6vSoftfM7ueYKgwYdIZVRuLkNzXBF1XSudW9RIK-0E6Z0i07YUQ7wwX2adcXpo0f7RKWr-Iql85D_XFHOCmCZxFpstYTeDbKL77NWBwl8iW8jhMELa3QBLbMVEOprXhHQZ5GeL77IUhhskarIP2Qn9vanEhKz5vwVc75lRyDiXnO5Ki3VGebFqpePF4_TXqNWqqCI2ISr0gbRJhMoevdYAvptEi0SrX02XFE8L6qnZGvn8H_9vZMYf87sim8rtIXdRpJBDcLimRGusEqauR2aQL823U6LwtR6274uy2Qw" type="video/mp4">
@@ -1987,7 +2039,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77870">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn1.telesco.pe/file/c594f01e2b.mp4?token=ESAuYIZCJMh2BZz7v5epvnxM3ts-kryBkCAlgchxPvBhq0nLJifgON-02svKQepXbDxSCaa5rJebJjo6a70auYSwRktW1rd10ho5XGxPUfSqnT09eKRyNklGMLl5q8budoJhG06Dvnf8Tx0c-8zpJJvHT5l3MQDhoPLfE7SXTpAaLk0JETQmJw9R7pagbnLRSNN6VXtLHVNJcoHzzOmwl4DGr0T4HJ9aaEkdKjmhsQAThRPQG9Pw24U_ANdab9Fbv4i-yIjbMVQOjuEV5C8L5sTnrsDTLOtqFWHBXUzoDMmlQmRwukllLI65A3gghWCoKWtjeHBL__16Lj7K29MY0oi-rc8JTn60jg3WQw8tSra5FJxajnlRbgTcvWPed9A7hoA88mFEYCu96vjiXAEZIAWkQueE-1qfgrnZIiKZoOLSGAUdxqESUh_wv6CWr27chfsCsgVoKSxYSAmHOwd9qM7iqlPdgl1WkxUyV4FV1b61Q8iTvryYmw13wykAZmAL84M8Ol7JirvcyAAKeOKp5D_ZEhqwoY_cuXrmIQkPFgzhCGz6UMwuTUnj_s4PDZe4dZ6NOvNp-dJRftmQqnzb8PDbBsTnn49KDphInnbCV3xZTrl6vLoFMz2QYxq3AZWfks8FtguR1kxPhFOt7Z_JSDXnBAlnUdZaDVx7DBCB7MQ" type="video/mp4">
@@ -2005,7 +2057,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77869">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Et49nILsOdsizceVetVQ8f6BUc7BYE-vjA7typCw9-KrCgB3aPdMwOO3Upg85Wysj0hwe6kuHKkE61KKlWGJuQta_PWbY8TCaSQ0Vf4QBpaxI_3uhX4wyP4OH08lMRLpAAeiILCpf6gcX4WP0WN2SZIkCfjXgusiVBbHjM9uQ9VZ1HvI9hRXXiv8biAFSv0zlnrV5l-N4cTdUTuoNYto-cocLP5HeEvKAnRSuvei-BrwlIk-UAyfnLweoY7EQ7v4Tga-TaMO9HGgL-qWVOkyZ13VA6RIew01kDDj4fsB027KgsA57gDc-eWotxSyOK0F3L2WK3BvtH9NizLRWvAtIQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مریم طهماسبی، عروس معصومه ابتکار، از گروگانگیران سفارت آمریکا در تهران، که به همراه همسر و فرزندش بازداشت و هم اکنون در مرکز پردازش اداره مهاجرت آمریکا در تگزاس نگهداری و منتظر اخراج از آمریکا هستند، نامه‌ای خطاب به مردم آمریکا در نشریه «نیشن» به همراه عکس بی حجاب خود منتشر کرده و از عمق علاقه خود به آمریکا صحبت کرده است.
 وی در این نامه گفته است که او و همسرش عیسی هاشمی، «معلم و استاد دانشگاه از طبقه کارگر هستند» و پسرشان، فقط انگلیسی صحبت می‌کند و از دوران پیش‌دبستانی در نظام آموزشی کالیفرنیا پرورش یافته است.
@@ -2022,7 +2074,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77867">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AMjEoIPlqUCVhz98Pkxkif-InaKJflkuQL5-_bL9sLTjCLBS_0RzMSjy5wnSEhD8VSGBx3QLEqawM_kO-f0XzauI2FN8DMpNd2ktactRDMEn2YHpSCcs3wZO7XOKT2MOzDTvpdh3CMglvdK_5wARvs2elks68waxQd1OwMrzysodItqLLYIIZdlAIG1l5ab0NCWEr_mOYRE_giNVlCW7PVXlPfoCaoAzM2AFGDWu4R5ZOHCJei8aKPgCQo1SqoBoONyeT0MTTt09fXniMkh_zB1p-KHJYP1KvPF2aI4TV7A_A897qgo5FuvTzvgspJ9zhDFzMxvkYjY_ZrkXkMF0DA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -2046,7 +2098,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77865">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/TwAaEgLOWrvIXDzskM7IqBhkY3Viq_Ph13imnfpGHqMq5KH1DI_dbO7mAnJQg3FzeRUVGzmuE9lHEV3hL1Szi5k2YvQL4KbhbcXunEoz6ahymcMFaI55eFujLrsZFtSiKpIUxYAstwHiF3El7smKfD1ukqLkHKsfneZcdDYrcNHF0RoQuio8NlFGnAsWxg65zwvQeGcoic58ZKNSutQFgQa2_0j8mWN16WPWT5ddaC0Rq3fVAfdyxZQJmI87qQd0Kdgz-Ol0LrKg86VrFDdFJAyWyn3A7IUr3Jnt8AiHhwXYffC3yjyIcgwpyAX7lA7zvBBU73rxD8erfXIM6Ldi6A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/QbAgbLA2Kim2OfgU0-2swNNQOS6j6kYOGmIoohlvS7zjWuhZrjZR8MC6vGdqryZpozFC9_s7RVcQhraaEunJJs_XdR2h2henx2Dx719oKZokCgPhmWXY-FoDJ7OgAEhYlpPoq1R0nFy_odF1ikiO4C0TG9cfDYoAcpKJ-TpxsmVWKo9KZVVRwJQ0PzcM4vizOj1EDenzM2kyTdOcNk6ZiHyNpbIRy2B3aLKGq8pR5Ed52uEQOkLmEbUtpEKiu5i8xY6kHNgcpqE1aK1k0nBdBemxcD3pgYfIk99JmRwUZAuaz-_15eDqTVUroFrZJ87IDAPjOtb_bAXZg2j81rscJw.jpg" alt="photo" loading="lazy"/></div>
@@ -2070,7 +2122,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77864">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HLY62LuUsQnwAqeEL6CaUYtJ6_wPHA3LNiDybZVTG8GoXPgFwRjfewfIr2MTSdjozQgUzDJFBVKbti9K2a2uTNRJ58RuUSLoUBgdGnxx9PLHajg5lNEx3tj86S8xJFryJQwiH_SPkkeLB9PjitCvNx33i2GqkVQTdo_zBF2qlpUQM3Cqipb_P--LWU9VCRZ8WZLO1T9aW8ZXzGAjcZ5X-8HrpqTzue9qftDptS0ZHPUIkXAJdfxLz3OmSxMnVsM9h2rWaaxWD-DNSVvBJCbm1ebWGA-Dd9swKnMzH8N5sAgE5qF1gpdmKPFG6RFzzV-X3q94n8wuDk2t1iTDMy56-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در یک پادکست رادیو ارتش اسرائیل، با انتقاد از مواضع اخیر بریتانیا در قبال اسرائیل، با لحنی کنایه‌آمیز گفت اولین «جمهوری اسلامی» مجهز به سلاح هسته‌ای، «جمهوری اسلامی بریتانیا» خواهد بود.
 نتانیاهو روز پنجشنبه ۲۲ مرداد، در این گفت‌وگو با اشاره به تغییر رویکرد دولت بریتانیا در قبال اسرائیل گفت: چیزی شبیه به جمهوری اسلامی را امروز می‌توان در بریتانیا دید. چیزی که من به آن می گویم جمهوری اسلامی بریتانیا.
@@ -2092,7 +2144,7 @@ VahidHeadline
 </div>
 
 <div class="tg-post" id="msg-77863">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DLxd-6ae2m1RsO_f-ip4NP7A1aPNh2OetsWrYBzZYtI8K-MU5F2o5d6KHJhv52NeXsd_9rSx6SLk1dLm3ekhitiiblKoBAO_j95pHZqisO8JYyT259XDX-AEy_lJLyYUpg8jjgg04DQSRPi8Os3UJfESz_ACi4KqQSJbdEJjMcEU2YwU7-UlT9rOosGEXbSiAQAjJw0fFRXTxywHmyrDRXhQ_4p9K0SbZlXT7YuXL_kAOZqt2zYcv8ielcNRaA_sa9SgEyFwK8S-EVm5Vh1KZdC1w153iQkvahyBLAdGfAmkFC6JFrBfxNzIL2c28fDjNx4oJEmXhmn3GSG6evbVkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">وزارت امور خارجه امارات متحده عربی بامداد جمعه ۲۳ مردادماه با انتشار بیانیه‌ای، حمله به دو نفتکش وابسته به شرکت ملی نفت ابوظبی (ADNOC) هنگام عبور از تنگه هرمز را به‌شدت محکوم کرد.
 در این بیانیه آمده است که این حمله بدون بر جای گذاشتن تلفات یا مصدوم، دو نفتکش وابسته به «ادنوک» را هدف قرار داده است.
@@ -2119,7 +2171,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77862">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Z3_VDGEjjN-9PY0zicoZN0iNRGoD-e-aAYTHkRFIroVkNs9hON4ZbK9IkIYizGhFkXjQdlkyIfyJV9ak0SekYGz_mv3m6UsJTSxDYslVq0-osmYdwaWPWIO0cMxkSx3uYBQsTzWQ-YsqTE6isJah-yABbQDFqiUoHwSmgE7_yM6dRuTghMEZiotA9Nv8h6pxHDvsUxY3Zg9-DoIdLA8XV54dzZELxIqtjvxA2Yyc9qDon7AYUF3mCw64TxfTRK0G4v_523kgibT4Urko9cTKbpmeq-19hmBswkFsyM9cg0hhkfs98FW2_YpqFaMpmfFxBVZvRrT8KyZRv7qEZyJ5XQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">صداوسیمای جمهوری اسلامی به نقل از شبکه العربیه گزارش داد که مواضع نیروهای آمریکایی در نزدیکی فرودگاه اربیل، مرکز اقلیم کردستان عراق، هدف حمله پهپادی قرار گرفته است.
 بر اساس این گزارش، چندین پهپاد به سمت مواضع نیروهای آمریکایی شلیک شده‌اند و به گفته منابع محلی، یکی از آن‌ها به‌طور مستقیم به یکی از این مواضع اصابت کرده است.
@@ -2133,7 +2185,7 @@ VahidOOnLine
 </div>
 
 <div class="tg-post" id="msg-77861">
-<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Q-XF3A-UbsgyU2HTHkSazXnGRCN3s9jroZbY_EMiQxCFu5zkHdrobwQH9AvMOcFsZvX8H1AHNRpG2gENXqx5moCYUyZUzpGggRxHqAayumelPa_zTa3bSrIJJoRvbAx3JcBSZeorD6PyZ-9gWm_rYxNuHZJ14KiiLfw2BtQLfCsCvzdCqA1crbpwdpDwINblbdHGtK_sFSX_QLY2a1aRExQtKdpBI9fsDMk1C_UK8HVFyA9HfeiZcZqHCMhLCORw8GBRHuQJGzxZI6MYKGItysCc8nUoqXbB5h3ryWqj5J2CFEfflDfbU53UXSwv8znlbZz2AduSkpScgsBhiU-AsA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مرکز عملیات تجارت دریایی بریتانیا (UKMTO) اعلام کرد یک نفتکش هنگام خروج از تنگه هرمز هدف حمله پهپادی قرار گرفته و در این حادثه خسارات جزئی به کشتی وارد شده است.
 بر اساس اطلاعیه این مرکز که روز جمعه ۲۳ مرداد منتشر شد، در این حمله همه اعضای خدمه نفتکش در سلامت هستند و گزارشی از آلودگی یا خسارت زیست‌محیطی در پی این حادثه منتشر نشده است.
@@ -2142,39 +2194,6 @@ VahidHeadline
 📡
 @VahidOnline</div>
 <div class="tg-footer">👁️ 283K · <a href="https://t.me/VahidOnline/77861" target="_blank">📅 16:46 · 23 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-77860">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Z1EA3j5LmiirhdxJ1qa6Tth8djiJjpcnF2jE2xBkmZYNk2rNfJaGrOiLmNpx00MBJVQcfJRANU_drX0Kwc5_isTw3L5OrCVzLNzHlDDqlrQgLAlJtc-BV1wE77GFC_jMQ6XsSKpAuFtqg8dHIjjRcjykbnsor_g83bDh5zshOurxOsa8uXHf4BRTAfhvt7X59SRBNnJf6V4MZbyn61kzro1lLTqJg3zMzWp8Bsst8hJPvEkLlS9TuJmz0gqvLcnQ8JoK7ThUkTAN2PhYJnBy511XE_OQ0gnkK5iq7AXeIo0mkqlzMFur0MZ95chDWNWrb33Emmx06-5UvOnKM08ngQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">سایت هرانا گزارش داد تکتم رمضانی، زندانی ۳۷ ساله که بابت اتهامات مرتبط با مواد مخدر بازداشت شده بود و دوران محکومیت خود را در بند دو زندان وکیل‌آباد مشهد سپری می‌کرد، سه‌شنبه ۲۰ مرداد در پی پارگی کیسه صفرا و تعلل در رسیدگی پزشکی و اعزام به بیمارستان جان باخت.
-بر اساس این گزارش، رمضانی در چهار روز پیش از مرگ از درد شدید در ناحیه کیسه صفرا رنج می‌برد و با وجود پیگیری‌های مکرر برای دریافت خدمات درمانی، به بیمارستان اعزام نشد و از رسیدگی پزشکی مناسب محروم ماند. او در زندان به‌عنوان کارگر در بخش جمع‌آوری زباله فعالیت داشت.
-@
-VahidOOnLine
-📡
-@VahidOnline</div>
-<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/77860" target="_blank">📅 16:41 · 23 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-77858">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Ewlhg1szcXpEX8l-t89Q4O_xXkRttwXz9QqpKBKXibS1kD1Z-VQLQHZhEAO2YDyXh4Uo3Uc_azol8RFgNrP2GTZfD3-vwsJiZYpvzH5QqSRnABhPwQg-lDujPctQ_mkov0-W5cBN2DQxq2rOpfNBQdSvood84dopiGw2HvHFesMzatbUlDFhgaAjg2CuWLv3sqoxbNUpMRzqsSoPY6H7b2LAhKnfER8L9xfBIG1gex3sEJ297bk0BYcFi_TmgtSw9zPYeqUNj2JLeTijCg0LfQQ1zPLJBMAuLGmtSOZ8uXk7p_FR7L7WedwHyr2HGlIGpg-g-dwVyDyJgoEAnLDQKA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/SHyZyNZ9FEqnTw7S8eTpUoLq5wczipVFzCbK8tNLLPeUmcmqMDcDvPOLPUi9M-xJuRNCizcZd00B3gMX7hCtgq-6XEFcedmtWUe5s4B7QEUwrU2lpVdBGD78tsdGVXYR7Yg2OfrHLDnY2wdlHenG0Tpg074E7QiXWjZFINRLJLTyr64kM_LV8ERKexRJ6aqbaV8NG0mumOXODeWmVG6ZRkcwqBbtpB_qX0s0UjPjWF-nsMxobeU28MBgQjnSEztJIRwNmUa9aEKDuioOlzfTVgFd8rxOaCi2o_pWcWS88KMALGehdDsWaFfMwNNhsP_6Iq-_2TnhuzL73b-IQ1XQZQ.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">واشینگتن‌پست در سرمقاله‌ای نوشت توافق با جمهوری اسلامی و تزریق منابع مالی بیشتر به تهران، به رفتارهای «مخرب» این حکومت پاداش می‌دهد و زمینه‌ساز دور تازه‌ای از بی‌ثباتی خواهد شد. این روزنامه از دونالد ترامپ خواست مذاکرات را متوقف کرده و سیاست مهار جمهوری اسلامی را ادامه دهد.
-هیات تحریریه واشینگتن‌پست جنگ آمریکا علیه جمهوری اسلامی را از نظر راهبردی ناموفق توصیف کرد و نوشت این درگیری نه به تغییر حکومت انجامید و نه توان موشکی و فعالیت نیروهای نیابتی تهران را متوقف کرد. به نوشته این روزنامه، هرچند حملات برنامه هسته‌ای ایران را به عقب انداخت، اما انگیزه تهران برای دستیابی به سلاح هسته‌ای را نیز افزایش داد.
-واشینگتن‌پست همچنین نوشت تفاهم پیشین میان واشینگتن و تهران نتوانست اختلاف بر سر کنترل تنگه هرمز را حل کند و ازسرگیری حملات نیز تغییری در واقعیت‌های میدانی ایجاد نکرد. این روزنامه با تاکید بر تاثیر تحریم‌ها و محاصره دریایی بر اقتصاد ایران، پیشنهاد کرد آمریکا به‌جای توافق، فشار اقتصادی، محدودیت صادرات نفت، مقابله با نیروهای نیابتی و سیاست مهار جمهوری اسلامی را ادامه دهد.
-@
-VahidOOnLine
-شورای سردبیری واشنگتن‌پست در مقاله‌ای با اشاره به موثر بودن سیاست مهار حکومت ایران و اعمال فشار اقتصادی و محاصره دریایی و در مقابل کاهش کارایی کارت تنگه هرمز در دست ایران، استفاده تهران از این اهرم را به گروگانی تشبیه کرد که از پیش گلوله خورده است.
-در این یادداشت آمده است: «تصرف تنگه هرمز از سوی ایران را می‌توان نوعی گروگان‌گیری دانست، اما گروگان از پیش هدف گلوله قرار گرفته است. بازارها عملا بسته شدن تنگه را در قیمت‌ها لحاظ کرده‌اند. قیمت نفت، هرچند بالاست، اما فاجعه‌بار نیست.
-علاوه بر این، تأمین‌کنندگان نفت در حال دور زدن این مشکل هستند. دولت ترامپ مدعی است که اکنون روزانه ۵ تا ۷ میلیون بشکه نفت از طریق خطوط لوله ارتقایافته و پایانه‌های جدید صادراتی از منطقه خارج می‌شود. عربستان سعودی نیز در حال تشکیل ائتلافی چندملیتی برای حفاظت از کشتیرانی در دریای سرخ در برابر نیروهای نیابتی ایران است؛ اقدامی که واشینگتن باید با ارائه پشتیبانی اطلاعاتی و فرماندهی از آن حمایت کند.
-@
-VahidOOnLine
-📡
-@VahidOnline</div>
-<div class="tg-footer">👁️ 347K · <a href="https://t.me/VahidOnline/77858" target="_blank">📅 05:24 · 23 Mordad 1405</a></div>
 </div>
 
 <hr>

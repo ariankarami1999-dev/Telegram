@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 03:12:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 04:14:22</div>
 <hr>
 
 <div class="tg-post" id="msg-7550">
@@ -334,7 +334,7 @@
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.09K · <a href="https://t.me/ArchiveTell/7550" target="_blank">📅 19:00 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.1K · <a href="https://t.me/ArchiveTell/7550" target="_blank">📅 19:00 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7549">
@@ -352,7 +352,7 @@
 🔥
 ➡️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.1K · <a href="https://t.me/ArchiveTell/7549" target="_blank">📅 18:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.12K · <a href="https://t.me/ArchiveTell/7549" target="_blank">📅 18:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7548">
@@ -384,7 +384,7 @@
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.2K · <a href="https://t.me/ArchiveTell/7548" target="_blank">📅 17:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.21K · <a href="https://t.me/ArchiveTell/7548" target="_blank">📅 17:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7547">
@@ -414,7 +414,7 @@
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.27K · <a href="https://t.me/ArchiveTell/7547" target="_blank">📅 15:01 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.28K · <a href="https://t.me/ArchiveTell/7547" target="_blank">📅 15:01 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7546">
@@ -443,7 +443,7 @@ gpt-5.6-sol
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.37K · <a href="https://t.me/ArchiveTell/7546" target="_blank">📅 13:19 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.39K · <a href="https://t.me/ArchiveTell/7546" target="_blank">📅 13:19 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7545">
@@ -454,7 +454,7 @@ gpt-5.6-sol
 🆓
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.57K · <a href="https://t.me/ArchiveTell/7545" target="_blank">📅 23:01 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.58K · <a href="https://t.me/ArchiveTell/7545" target="_blank">📅 23:01 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7544">
@@ -526,7 +526,7 @@ Free
 وارد سایت z.ai بشید و با اکانت جدید ثبت نام کنید
 2️⃣
 برنامه Zcode رو دانلود کنید…</div>
-<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/ArchiveTell/7541" target="_blank">📅 19:49 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/ArchiveTell/7541" target="_blank">📅 19:49 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7540">
@@ -1135,7 +1135,7 @@ API
 🎁
 💎
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.25K · <a href="https://t.me/ArchiveTell/7519" target="_blank">📅 09:36 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.26K · <a href="https://t.me/ArchiveTell/7519" target="_blank">📅 09:36 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7518">
@@ -2086,7 +2086,7 @@ jxp.com
 Aistudio.google.com
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.8K · <a href="https://t.me/ArchiveTell/7477" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.81K · <a href="https://t.me/ArchiveTell/7477" target="_blank">📅 21:28 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7476">
@@ -2110,7 +2110,7 @@ CiteSeerX گنج رایگان مقاله‌ها
 ورود به CiteSeerX
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 3.47K · <a href="https://t.me/ArchiveTell/7476" target="_blank">📅 21:00 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.48K · <a href="https://t.me/ArchiveTell/7476" target="_blank">📅 21:00 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7475">
@@ -2174,7 +2174,7 @@ Base url: https://tabitoken.com/v1  قابل استفاده در Vega Agent
 تستش کنید
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 2.79K · <a href="https://t.me/ArchiveTell/7473" target="_blank">📅 17:26 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.8K · <a href="https://t.me/ArchiveTell/7473" target="_blank">📅 17:26 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7472">
@@ -2758,7 +2758,7 @@ Vega Agent
 |
 #API
 | VeGaS</div>
-<div class="tg-footer">👁️ 3.24K · <a href="https://t.me/ArchiveTell/7441" target="_blank">📅 14:55 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.25K · <a href="https://t.me/ArchiveTell/7441" target="_blank">📅 14:55 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7440">

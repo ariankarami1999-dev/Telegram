@@ -291,28 +291,28 @@
 <p>@farahmand_alipour • 👥 64K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 03:12:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 04:14:22</div>
 <hr>
 
 <div class="tg-post" id="msg-6635">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">🔴
 دلار : ۲۰۰ هزار و ۸۰۰ تومن!</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/farahmand_alipour/6635" target="_blank">📅 18:06 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/farahmand_alipour/6635" target="_blank">📅 18:06 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6634">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">🔴
 دلار : ۲۰۰ هزار و ۸۰۰ تومن!</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farahmand_alipour/6634" target="_blank">📅 17:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/farahmand_alipour/6634" target="_blank">📅 17:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6633">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GBnJvKTQYjos_QEl-tZ_loJ74Ckq6GP0Ak3GXjaNC-GSDBt3rszv143ap01ssLstfdsNYffoJ_0A8N0WRUqCIqhV6pzmaXJ5RlZ3MPeTxeX0roN_q84ovedqsyixuOrWvC5xic_DC1l1Wu-LQkR2lZNEEFqacXApawr4GE6sOOBksIhbel3rdD98oFN6JeupAz1aX4nkknOIKY1Mf1pSewn13L0xzcBXevGZnMPbTYfDWFYpenfd7GExZRoL9dnesNUwo9JCv5WiVqkN1ptXD6B27bEVrQzFOpEwbzy16sBEmXdcEbpvaMEoPsz2dHjq1R80s5R6xbugiGI0k-jDtw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">الحبوسی - رئیس پارلمان عراق!</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/farahmand_alipour/6633" target="_blank">📅 19:03 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/farahmand_alipour/6633" target="_blank">📅 19:03 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6632">
@@ -325,7 +325,7 @@
 <div class="tg-post" id="msg-6631">
 <div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">مصدق برکنار شد،  چون مجلس رو منحل کرده بود!  اقدامی که باعث شد یاران خودش علیه او بشن!  مجلس علیه او بشه!   مصدق برکنار نشد به خاطر اینکه نفت  رو ملی کرده بود! ۲۹ ماه قبل از عزل  او‌ نفت ملی شده بود!  این دعواهای ماه‌های آخرش تماما  با مجلس بود! مجلسی که خودش…</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/farahmand_alipour/6631" target="_blank">📅 17:19 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/farahmand_alipour/6631" target="_blank">📅 17:19 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6630">
@@ -516,7 +516,7 @@
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZmGLS4U4Q67X-sv-F9PRn3hXXBwhaFz0r9URQL2SaMzczQzNYMMG2MU2s5BXVZ72sWfYX3BnO9TkpcRtDvUXZqdRMpyca9bFoOqlwuR3ypC6Qq3tFT8USZDIZda4sXNP-gR1wKyTktaa5BtQcOBoNKXAEXzxARNudlJiKVm7y4P4s9GTbz93N3p98GgpbYh3zGKsg-fuONMHW9mPoEsYNa5kX7hpbaH0iH4arQXS6dakQtltP2Lm8qf6zJd-L97gMkMzo_5JMf9sMw_rjO440Ul9ga8JFep-9GF3-TTdfAp1xecB9cRZFizfD03TeClAcn8faBCd0hsLYMDJ064Npg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در حالی که به خاطر آشفتگی وضع کشور  پس از اشغال ایران توسط شوروی در شمال کشور دو کشور خودمختار ایجاد شده بود،  و کشور تحت فشار شوروی  توان بازپسگیری این سرزمین‌ها را نداشت،  مصدق ایده «فدرال شدن سراسر کشور»  را می‌داد! و به شدت با «رزم‌آرا» مخالف بود که می‌گفت…</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/farahmand_alipour/6605" target="_blank">📅 17:53 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/farahmand_alipour/6605" target="_blank">📅 17:53 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6604">
@@ -945,7 +945,7 @@
 </div>
 <div class="tg-text">و تاریخ ثابت کرد حق با آرش و آرش‌ها بود!
 فهم آرش از «شریعتی» و «آل احمد» و «هما ناطق» و «شاملو» و «غلامحسین ساعدی» و…. بسیار بالاتر بود.</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/farahmand_alipour/6560" target="_blank">📅 11:22 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/farahmand_alipour/6560" target="_blank">📅 11:22 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6558">
@@ -1159,7 +1159,7 @@
 همچنین احمد وحیدی با ارتقا به درجه سرلشکری به‌عنوان فرمانده کل سپاه پاسداران و سرلشکر مصطفی ایزدی به سمت جانشین فرمانده کل سپاه منصوب شدند. در بخش دیگری از این احکام، دریادار علی عظمایی به فرماندهی نیروی دریایی سپاه رسید.
 در نهایت، حسین طائب نیز پس از کشته شدن غلامرضا سلیمانی، به ریاست سازمان بسیج مستضعفین منصوب شد. «گسترش فرهنگ بسیج، تقویت شبکه اطلاعات مردمی و مقابله با تهدیدات نوین» از مهم‌ترین ماموریت‌های محوله به طائب اعلام شده است.
 @indypersian</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/farahmand_alipour/6539" target="_blank">📅 20:05 · 19 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/farahmand_alipour/6539" target="_blank">📅 20:05 · 19 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6538">

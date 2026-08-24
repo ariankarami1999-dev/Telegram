@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 03:12:00</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-02 04:14:22</div>
 <hr>
 
 <div class="tg-post" id="msg-2567">
@@ -308,7 +308,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2566">
@@ -322,7 +322,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2565">
@@ -339,7 +339,7 @@ github.com/telegramdesktop/tproxy-server
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2564">
@@ -453,7 +453,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39.7K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -502,7 +502,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -517,7 +517,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.2K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -1359,7 +1359,7 @@ slcyber
 
 <div class="tg-post" id="msg-2500">
 <div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HWMhrg85jCxo6Epzc6_5hjM4iGBtUbJYQAEyHDnw1zLXfs5Q17DE7bfMGKZRqUivKHT-WAQ62b5ly-yl8zRNEXYSJYngvvjkE19NX48mCag4k7qN3Wy3CDkbgaje9trLCUFVxvub9rWTIhV87wz8aX-2gBOJdmxQh-Dj72dvVtevQuDuTyWeJFDAEUnP7NxNA6C-9pKXWJnuovsKEePhzBuuRGptNbZVSvozHsH_1Kc2pZvD35Bnw9BuSwL1nI4X9h9kU0FBQdPphhnULMuWnq42JqLPpb2VVCakhmFkUGBprH66jbF99j9dgYFDVRRXsURZ_-dkZ2bySIvTjb4KlQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/giS2Sniv5JWMJBO2X4aIZJpY6kvtUsuveqdEqTfPFx0ZwCpExWNzdaDMlIEH-gssHPRT3oFZUHf66uS-F_4UMEPeCErv8w0ewSwNsFtPq9lWMRV9-dYnYZ-FITTyykPLgjfwXtzbW1AEuEW5c2N8cCtqu_L0r0LjRhf-2ABmweeUb7wSwJNTWwioC0xwVuFGl1NTOKvZXsLsXB2UxCW8Jbnemf1QRyh3omxvBf4Q1z7qWyp9rDMhq2PoeCCH3Qymguc633DX1zhIx09BtoxU8UoTq9LMeMJR_7ilBK27Lh9dhjp2E2ZR9Gj22hKo1MAlwRbGTDlCsDxpY4RTkNiN5w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگرچه قضیه ترند شدن "لغو عضویت جانفدا" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه "وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
