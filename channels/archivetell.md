@@ -292,7 +292,7 @@
 <a href="https://t.me/archivetell" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ‌‌‏🚀‏ آرشیوتل‌‏مرجع تخصصی معرفی، آرشیو و آموزش ابزارهای متن‌باز و پروکسی‌های مدرن.🛠بررسی روش‌های پایدار برای دور زدن فیلترینگ و اینترنت ملیآموزش‌های فنی به زبان ساده!🌐تبلیغات دایرکت کانالwww.youtube.com/@ArchiveTell</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 01:46:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 02:20:12</div>
 <hr>
 
 <div class="tg-post" id="msg-7560">
@@ -315,7 +315,7 @@ http://aihubmix.com/v1
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 646 · <a href="https://t.me/ArchiveTell/7560" target="_blank">📅 23:28 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 676 · <a href="https://t.me/ArchiveTell/7560" target="_blank">📅 23:28 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7559">
@@ -342,7 +342,7 @@ Seedance 2.5 | Kling V3 | Minimax H3 | Seedance 2 | Seedance 2 fast | Happy Hors
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 909 · <a href="https://t.me/ArchiveTell/7559" target="_blank">📅 22:20 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 930 · <a href="https://t.me/ArchiveTell/7559" target="_blank">📅 22:20 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7558">
@@ -360,7 +360,7 @@ Model ID : deepseek-v4-flash
 لینک ثبت نام
 🔗
 لینک بخش گرفتن کلید …</div>
-<div class="tg-footer">👁️ 1.08K · <a href="https://t.me/ArchiveTell/7558" target="_blank">📅 21:22 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.1K · <a href="https://t.me/ArchiveTell/7558" target="_blank">📅 21:22 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7557">
@@ -392,7 +392,7 @@ autoclaw.z.ai
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 1.17K · <a href="https://t.me/ArchiveTell/7557" target="_blank">📅 20:42 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.18K · <a href="https://t.me/ArchiveTell/7557" target="_blank">📅 20:42 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7556">
@@ -431,7 +431,7 @@ PersistentKeepalive = 15
 پروژه GhostGram (روح‌گرام)   همزاد هوش مصنوعی تلگرام شما که هیچ‌کس متوجه حضورش نمی‌شه!
 🤖
 تا حالا شده دلت بخواد اکانت تلگرامت اتوپایلوت بشه و درست مثل خودت (با لحن، شوخی‌ها و تیکه‌کلام‌های خودت) به پیوی‌ها و گروه‌ها جواب بده؟  پروژه «روح‌گرام» یک یوزربات…</div>
-<div class="tg-footer">👁️ 1.52K · <a href="https://t.me/ArchiveTell/7555" target="_blank">📅 12:01 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.53K · <a href="https://t.me/ArchiveTell/7555" target="_blank">📅 12:01 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7554">
@@ -612,7 +612,7 @@ gpt-5.6-sol
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 1.68K · <a href="https://t.me/ArchiveTell/7546" target="_blank">📅 13:19 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.69K · <a href="https://t.me/ArchiveTell/7546" target="_blank">📅 13:19 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7545">
@@ -680,7 +680,7 @@ Free
 🆓
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 1.7K · <a href="https://t.me/ArchiveTell/7542" target="_blank">📅 20:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 1.71K · <a href="https://t.me/ArchiveTell/7542" target="_blank">📅 20:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7541">
@@ -1675,7 +1675,7 @@ qwen/qwen3.8-max-free
 @ArchiveTell
 |
 #TOOLS</div>
-<div class="tg-footer">👁️ 2.01K · <a href="https://t.me/ArchiveTell/7499" target="_blank">📅 22:31 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.02K · <a href="https://t.me/ArchiveTell/7499" target="_blank">📅 22:31 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7498">
@@ -1755,7 +1755,7 @@ https://heyroute.ai/v1
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/ArchiveTell/7496" target="_blank">📅 17:04 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.09K · <a href="https://t.me/ArchiveTell/7496" target="_blank">📅 17:04 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7495">
@@ -2101,7 +2101,7 @@ https://api.orcarouter.ai/v1
 @ArchiveTell
 |
 #API</div>
-<div class="tg-footer">👁️ 2.44K · <a href="https://t.me/ArchiveTell/7485" target="_blank">📅 15:18 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.45K · <a href="https://t.me/ArchiveTell/7485" target="_blank">📅 15:18 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7484">
@@ -2279,7 +2279,7 @@ CiteSeerX گنج رایگان مقاله‌ها
 ورود به CiteSeerX
 ✈️
 @ArchiveTell</div>
-<div class="tg-footer">👁️ 3.5K · <a href="https://t.me/ArchiveTell/7476" target="_blank">📅 21:00 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.51K · <a href="https://t.me/ArchiveTell/7476" target="_blank">📅 21:00 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7475">
@@ -2795,7 +2795,7 @@ https://www.getunikey.ai/v1
 |
 #API
 | VeGaS</div>
-<div class="tg-footer">👁️ 3.06K · <a href="https://t.me/ArchiveTell/7447" target="_blank">📅 15:03 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.07K · <a href="https://t.me/ArchiveTell/7447" target="_blank">📅 15:03 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7446">
@@ -2891,7 +2891,7 @@ gitreverse
 ✈️
 @ArchiveTell
 | VeGaS</div>
-<div class="tg-footer">👁️ 2.87K · <a href="https://t.me/ArchiveTell/7443" target="_blank">📅 17:10 · 17 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/ArchiveTell/7443" target="_blank">📅 17:10 · 17 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-7442">

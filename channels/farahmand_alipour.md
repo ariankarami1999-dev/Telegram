@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 63.9K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 01:46:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 02:20:12</div>
 <hr>
 
 <div class="tg-post" id="msg-6640">
@@ -311,7 +311,7 @@
 ‏
 🔺
 به عنوان مثال تمام شعب بانک «ملی» باید تعطیل شوند.</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/farahmand_alipour/6640" target="_blank">📅 21:11 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/farahmand_alipour/6640" target="_blank">📅 21:11 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6639">
@@ -320,7 +320,7 @@
 اسماعیل سقاب اصفهانی، رئیس سازمان بهینه‌سازی مصرف سوخت و مدیریت انرژی، در یک گزارش تصویری به فساد ساختاری در قاچاق سوخت اشاره کرد
 🔸
 او در یک گزارش تصویری که به مناسبت «هفته دولت» در روز دوشنبه دوم شهریور منتشر شد گفت: «هر دو جناح سیاسی کشور در قاچاق سوخت…</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6638">
@@ -340,7 +340,7 @@
 🔸
 در سال‌های گذشته آمارهای متفاوتی از قاچاق روزانه میلیون‌ها لیتر سوخت از ایران در رسانه‌ها منتشر شده است و برخی کارشناسان بیشتر قاچاق سوخت در کشور را سازمان‌یافته می‌دانند و برخی منابع رسمی انگشت اتهام را به سوی بخش‌ها و نهادهای دولتی و «خصولتی» گرفته‌اند.
 @RadioFarda</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/farahmand_alipour/6638" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/farahmand_alipour/6638" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6637">
@@ -355,7 +355,7 @@
 این ویدئو تحت عنوان «بارون ترامپ را کجا و چطور بکشیم؟» در رسانه‌های وابسته به سپاه و همچنین شبکه ۳ تلویزیون دولتی ایران منتشر شد.
 جزئیات بیشتر:
 https://l.euronews.com/UtiQ</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/farahmand_alipour/6637" target="_blank">📅 09:56 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/6637" target="_blank">📅 09:56 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6636">
@@ -368,7 +368,7 @@ https://l.euronews.com/UtiQ</div>
 <a href="https://cdn4.telesco.pe/file/8930b829ed.mp4?token=EvkDcLr_R4ax3UFLfys1yVJA25uJUSo7fSz77Y6Mytl09FdKF0RxYg2BIY_QYh1KXuV6WyDq_RqbdBuhVUCzh9KGYDiOexuTJlNxEw2Sld9tJphn3zrK4qNu2P8zr-qO37UY9zL8vdnrzEVOl9RaKceZq-rTkyf_oBsk0lHiijXvdwlvYrf46DN6Yfplmm9EcQmymT9wGJApSiyRDWJuPwjTbZ9kFWJfSXPyfi8gH4MCcLNUUbk-HUfdlWHJFV-pMrQ3zzY_OPHlKqHaZIoLTvo2Lgb6mAnH4dkGDwf6yrjXhhLqqiY6Fh4wlIVBzuzTmlzA8cwQLwCL4iD9BAhKeG8qfraXtIKcTTW43ukz4ITtm3EH-opd3MozAOL952h_0xGdvE6GqQ7vu_AbbtAB7simKpPx8heb0HMJ6BYGFX_KWf_SEKvkZO5duzE5Z-M_lVv1YjlyaoNVCNmvczFkaLnzjEZBs4ZR3lQjBr7nLstN65wCAlmt9cOM2gLJ4pZWkBnDzscRlhK7ogiK9MrSMXQQpnYrEf-MRJfeV89Yfju9oLlAC87X0jWNFaqtclouapTaTwyBntC1Nnb4N52EbRt4ruyv9tgoMD-6sBRMCgwDbLXBS7EMDlgVEFhT2jZYPBLagpqaNaqkiYg7B9cIgCWeGzxfgepzCG8eV4i6r40" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اعتراف به جنایت در سوریه</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/farahmand_alipour/6636" target="_blank">📅 09:20 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/farahmand_alipour/6636" target="_blank">📅 09:20 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6635">
@@ -389,7 +389,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AxSWozM_lvuMkJckYPu8r77r709n2aU8cI5Yh8Uar8vpqpL2A7msYErCE38MjNI1SxxzPOU2v3vmpQqzq2Qa7M0f8IF96H4WU_555oxQ2YinVo_mFdlT15BlNfqwWpvW4Gv7oa9FcxRP5xv16VoSlNVClgwujQ-W-S9l0g0B4OfpPgfRTlCws2Gzmg-h2nu3wXxgui6ErG2G-WCTSOSquKpIuoBB26XLW5V4Lm70LQclP4HqCf4ErLAXydZ9kqlpkkl2ARMF6iaNly2lFV8_6PD-Zu09ja3hsC-7V3FuMmrGcofTA_1_GjFqjty_vLY_fSa8FnqHVutt7P4ALVXI8w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">الحبوسی - رئیس پارلمان عراق!</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/farahmand_alipour/6633" target="_blank">📅 19:03 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/farahmand_alipour/6633" target="_blank">📅 19:03 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6632">
@@ -421,7 +421,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post" id="msg-6628">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">مصدق با عنوان ملی کردن صنعت نفت  (که در عمل هم رخ نداد! و سال ۵۲ رخ داد)  کشور رو وارد یک بحران عظیم مالی کرد!  شب و روز هم سخنرانی می‌کرد که رضاشاه راه‌آهن ساخت به خواست انگلیسی‌ها،  مدارس زیادی رو در کشور راه انداخت!  (باور می‌کنید این یکی از انتقادهاش همین…</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/farahmand_alipour/6628" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/farahmand_alipour/6628" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6627">
@@ -434,7 +434,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SQYEyJpvkhVQGCK4KkWmcHJ0Sin3XkvJCl_rH3L3JfVrAE_T1GowMMuPMvtkjg41ryptTOhCAy-Nmuq5vXFTBb8Hr5DtItQfXWmbX7_ncYV_Gjr4jVe3_Ao8AadGB-oFhRs2VIdPk596sNejkXlORvXhU3u6CAEYev20mCuItuYqztHGeo4DdSLr1RVd4UMDEglSmj1IA41niND_N-fD0ZvRCyeDtFu4i9J5nkGunM6gxqk-Ih5KEvGmiH-0sxtVVzAfeADv-qy1lRrcgBtJKp1uYz8hn1PhbQzxEssZxtgCkCKthr_DeluY-qgPOoOxhUMze1QQPThIa-V0d-zNCA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینکه مصدق با بیان یک جمله پوپولیستی که «مجلس همان جایی است که ملت است»!  در یک جمع چند هزار نفره،  رفت به سمت بستن مجلس!  اقدامی که اساسا نخست وزیر حق این  کار رو نداشت! و فقط شاه در مواقع اضطراری حق چنین کاری رو داشت!  ولی مصدق چی کار کرد؟  مثلا قانون رو…</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/farahmand_alipour/6626" target="_blank">📅 16:26 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/farahmand_alipour/6626" target="_blank">📅 16:26 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6625">
@@ -497,7 +497,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NksrDtyV403_Q-dPAOqOJEUUt5JvR6N6lDMwJ9AbcG15q8GONYuUkOfI3kZh_DGRkuFbuidUTLqNcXEJlFblNk4p2C1JecXhq3_Pii9qK_USySJOqH-i0Y4BAEZ9tOKrCG0bO8oLIvChWZbK6IP626pk53JUHhdrSPH6ISkh1BK8K2qOhKqZwXfcDjpICK1vgzqub5usyht3fSKgsdhJYJ2zEoJO--yV9sNZRDhgik4iedP6FxxGeiDsVcH10znCO078VIw-GFEhj0aFAEl7gUdDjUNHvekbfuiK1UaizZF1Fnz_6cngk8QaDESUPJH8YXxtUT8Z1ngXBIZEcLSDEg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برای ده‌ها سال به ما گفتند  «مصدق علیه دیکتاتوری شاه بود و شاه علیه او کودتا کرد.»  ولی یه سوال! قبل از اینکه شاه حکم عزل مصدق رو صادر کنه،  چه کسانی نسبت به «خطر بازگشت دیکتاتوری در ایران » هشدار می‌دادند و می‌گفتند «مصدق به دنبال دیکتاتوری است»؟  بله! یکی…</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/farahmand_alipour/6617" target="_blank">📅 15:42 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/farahmand_alipour/6617" target="_blank">📅 15:42 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6616">
@@ -648,7 +648,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GC2c31DGb-niBqMsv00lN456nIjcOOCDSMx7yPFp7t2IZQ1MsgObN_uaSDYHYjlLnu5YfMlx0x-oXxIl0JjpW71sBrdH9Du7yYFbpScMejgo3WchaK0pI6ENZnFOYjW-aTtz_BMuLch2QERibMwtqvlOxhLZOmAMwBUx2k8CWkhSfTIeQWQBYyw8WWNhEJRTq5tICHO_Tiqp8qCDk9aVZaRPrtl0qiwUIxcnAY1-SaBZMBL-Eh0Y5M0RbXCcYWmehDMAbzg5zxWjmEt_e4_b3UxH4VbIFyog336lLmOC3rYXXEfzLXyqZ-n080sDh9PdGSdrc8izXvQDZPJuA8_WZg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حداقل زمانى كه ما در مدرسه درس ميخونديم بهمون می‌گفتن که رضاشاه به خواست و دستور انگلیسی‌ها ، براى ايران راه آهن ساخت. ولى مى‌دونيد اين حرفها رو خيلى سال قبل از جمهورى اسلامى، چه كسى میگفت؟  این حرف‌ها را مصدق میزد. مصدق حتی اقدام رضاشاه در آسفالت خیابان‌های…</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/farahmand_alipour/6597" target="_blank">📅 11:52 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/6597" target="_blank">📅 11:52 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6596">
