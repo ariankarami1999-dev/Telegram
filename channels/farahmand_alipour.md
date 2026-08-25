@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 63.9K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 12:55:30</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 13:28:37</div>
 <hr>
 
 <div class="tg-post" id="msg-6640">
@@ -311,7 +311,7 @@
 ‏
 🔺
 به عنوان مثال تمام شعب بانک «ملی» باید تعطیل شوند.</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/farahmand_alipour/6640" target="_blank">📅 21:11 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/farahmand_alipour/6640" target="_blank">📅 21:11 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6639">
@@ -320,7 +320,7 @@
 اسماعیل سقاب اصفهانی، رئیس سازمان بهینه‌سازی مصرف سوخت و مدیریت انرژی، در یک گزارش تصویری به فساد ساختاری در قاچاق سوخت اشاره کرد
 🔸
 او در یک گزارش تصویری که به مناسبت «هفته دولت» در روز دوشنبه دوم شهریور منتشر شد گفت: «هر دو جناح سیاسی کشور در قاچاق سوخت…</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6638">
@@ -328,10 +328,10 @@
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromRadioFarda</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d0e9949129.mp4?token=RSjxp_QkCWfrBxfRxSZ67ZM_VnQBSd_s9dm4kj2K-oj3SQE0Y9P_Pb_aJTKJAhm3xZDzkCukKlITGBuCgzGQu6qUgLuCR9OgBe_5Pf7qQJCB5YpK1OauU1NSaFLc0ZkXQPxFu98bC6haP2H-tqzBv-72Tjks-aft_hFIB4WGjIfX6EClEFLZsost7VAFngvTgEyw1EOiUhzKcwy-ZCkp5XuVuZk-ZYruAKw7rw2ZvdiTEfw6KdjYC-kdGZFizcgetnxAKzs11saxhckAjtMA4xa_jpP6cCmWaCE1Hp5AghiGuL77IOQkP6tN6YfmEaEe2TBnwogpzSs5YG5FRpYpKKkekdBFEj9XkHDzjWJ6nUkHYvvh84TGU1QFQ9a6j1AnaELBYeMcyxLXp4OwSDCTslvQ2ALagU2xxjwOryIRT29kj_Qf3YYeLj7nwjPWfbMyyUQ6SNi_JR_5KkHmYjnvKbSiJvMqa2HbL-ygOl0mvNNawohYWGekKeFHs-5w7IBXP-kWjLpjiVRJZ_UVgAby0A5rwpGG_ETiRdv8A5rpNb6zYjIDS7iDOmQRbG1-lmH8C0FmjuqhAsfXO3LZj_2fipS43djHRl4hY44hgubCg4eo6Y4s-4thNVK3uxn2_kLxsoXWp9RLzNNR98cHGl807QjUIqGg2Of2h8mTibq8dbs" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d0e9949129.mp4?token=vwKHOsMvVY-naIey9ttnobViQfZ07lM1G24_42GRkeUKm-mLSqqlWYEZhCpvvyUCbgsDhBeR7iNZqaFg4g02wKAQvDImdBkAJNGu7twoOwXS8TmlU83nGxyQOe4VFhIKXSp460pNTqU362FWKyE0qMVJrS8HvG-jgCl3e4JGvV7NdgDsgj0e2XF5OeJP71qTnGavaMw_-SkdzD8Qn_RJzvmZO7HI6BeUx1yBVTWyP9le-PI191GQWNzN3kQx0t-PUcXE2fq27mJhAIRW43TTK5U93Tx-k__Rj1SmBQXi_EK6YLNPhnH2a2CIohpf99V1J3jr67h0kN9zINNZDiynmomMdstUMxaxbD-3nyYDHMNJDh2i_BulPI1sgG8DZu5cSyHaHXojFEpJNHamwrm8ThKNxWG8-ASRRrlJKskYBNmo02zn6ILxLpFXLQNGycgXRcgLRXBaf2WBgDRkYhCNFyB5BM5Adr1KANHK-pTUQsmyrcx9GCYZ5s02qB7F6XxCO_2KVpdhwZ9X6UtWk8ENlTymy6uZPwsLqgMorDYEIWbYwLok1onYomY-7CXf998bpNZV_WbX2szqi3B0Sg41M5qfPXbfEE2a8MDGcOlXKku8dCUPEfEryKdoepPq3MR9VkDUBH0L6FqsewMIJrF-y87-z_xWRY9VAEyr_k8vPCY" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d0e9949129.mp4?token=RSjxp_QkCWfrBxfRxSZ67ZM_VnQBSd_s9dm4kj2K-oj3SQE0Y9P_Pb_aJTKJAhm3xZDzkCukKlITGBuCgzGQu6qUgLuCR9OgBe_5Pf7qQJCB5YpK1OauU1NSaFLc0ZkXQPxFu98bC6haP2H-tqzBv-72Tjks-aft_hFIB4WGjIfX6EClEFLZsost7VAFngvTgEyw1EOiUhzKcwy-ZCkp5XuVuZk-ZYruAKw7rw2ZvdiTEfw6KdjYC-kdGZFizcgetnxAKzs11saxhckAjtMA4xa_jpP6cCmWaCE1Hp5AghiGuL77IOQkP6tN6YfmEaEe2TBnwogpzSs5YG5FRpYpKKkekdBFEj9XkHDzjWJ6nUkHYvvh84TGU1QFQ9a6j1AnaELBYeMcyxLXp4OwSDCTslvQ2ALagU2xxjwOryIRT29kj_Qf3YYeLj7nwjPWfbMyyUQ6SNi_JR_5KkHmYjnvKbSiJvMqa2HbL-ygOl0mvNNawohYWGekKeFHs-5w7IBXP-kWjLpjiVRJZ_UVgAby0A5rwpGG_ETiRdv8A5rpNb6zYjIDS7iDOmQRbG1-lmH8C0FmjuqhAsfXO3LZj_2fipS43djHRl4hY44hgubCg4eo6Y4s-4thNVK3uxn2_kLxsoXWp9RLzNNR98cHGl807QjUIqGg2Of2h8mTibq8dbs" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d0e9949129.mp4?token=vwKHOsMvVY-naIey9ttnobViQfZ07lM1G24_42GRkeUKm-mLSqqlWYEZhCpvvyUCbgsDhBeR7iNZqaFg4g02wKAQvDImdBkAJNGu7twoOwXS8TmlU83nGxyQOe4VFhIKXSp460pNTqU362FWKyE0qMVJrS8HvG-jgCl3e4JGvV7NdgDsgj0e2XF5OeJP71qTnGavaMw_-SkdzD8Qn_RJzvmZO7HI6BeUx1yBVTWyP9le-PI191GQWNzN3kQx0t-PUcXE2fq27mJhAIRW43TTK5U93Tx-k__Rj1SmBQXi_EK6YLNPhnH2a2CIohpf99V1J3jr67h0kN9zINNZDiynmomMdstUMxaxbD-3nyYDHMNJDh2i_BulPI1sgG8DZu5cSyHaHXojFEpJNHamwrm8ThKNxWG8-ASRRrlJKskYBNmo02zn6ILxLpFXLQNGycgXRcgLRXBaf2WBgDRkYhCNFyB5BM5Adr1KANHK-pTUQsmyrcx9GCYZ5s02qB7F6XxCO_2KVpdhwZ9X6UtWk8ENlTymy6uZPwsLqgMorDYEIWbYwLok1onYomY-7CXf998bpNZV_WbX2szqi3B0Sg41M5qfPXbfEE2a8MDGcOlXKku8dCUPEfEryKdoepPq3MR9VkDUBH0L6FqsewMIJrF-y87-z_xWRY9VAEyr_k8vPCY" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔸
 اسماعیل سقاب اصفهانی، رئیس سازمان بهینه‌سازی مصرف سوخت و مدیریت انرژی، در یک گزارش تصویری به فساد ساختاری در قاچاق سوخت اشاره کرد
@@ -340,7 +340,7 @@
 🔸
 در سال‌های گذشته آمارهای متفاوتی از قاچاق روزانه میلیون‌ها لیتر سوخت از ایران در رسانه‌ها منتشر شده است و برخی کارشناسان بیشتر قاچاق سوخت در کشور را سازمان‌یافته می‌دانند و برخی منابع رسمی انگشت اتهام را به سوی بخش‌ها و نهادهای دولتی و «خصولتی» گرفته‌اند.
 @RadioFarda</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/farahmand_alipour/6638" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/farahmand_alipour/6638" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6637">
@@ -368,7 +368,7 @@ https://l.euronews.com/UtiQ</div>
 <a href="https://cdn4.telesco.pe/file/8930b829ed.mp4?token=buTYCjKvH5q8ubsoFkyczlXNKGqZWPoOEY63HQnVj4okQ0OpIzAglVAlEL2PZctoPvymVNDeDrBVVEonkkRYjEtlS_qy9WA2pvSq3DxGYsEil0cPaFEouzDs9KpV06GJp_8vnnrF120-fV0feq-YFefwJBXJgA9dqz1LZXLcXWLWB4JR_pGyg_lZk9_idVB_qlqTcjzv00aE8mEjpRxzgSlRBzQq_SXqFs4GpjjN6bJnPSIVlTUsev9RE2Ppq82KG6xJaX-Kzy1VjDMRXItLjCGv7XeQajVlcEbSoFJY0HB8YNMRYbPmbyIVLb28pwOuFbasKMIrWzWV-lXeoEV_WzKBR1iexkIeZENmt1cfbc4rqfHpPl4VbIVEyhfmZh9MP0vFvpA1HKCVzJlJed7BmV6idt6qWOW10Rgiq7HITw_IibpVbNN9RuTshx9MmSJ1ZnLLXJJ8Yq_8UC6UFjO-6J-Vr3w6Kb90QRH2Alvv5bxiuqCZ-SV2jHbvrUQ0XocNbvjRZFabf7pnkpqVQB2ZgzMEjV17HTuwotPh6jDup87Caa9beq1-lulV330IzJkYM8CaIQrZQ9DP4hCW_VArJ1PcD1z-ugit42z3oSrYKrhkfDd__YeD1nvqPOazPjdJQqLS8vG0Gs-FFDpGgFfo8_XgytxPZGYxE0YiEG6SFvo" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اعتراف به جنایت در سوریه</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/farahmand_alipour/6636" target="_blank">📅 09:20 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/farahmand_alipour/6636" target="_blank">📅 09:20 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6635">
@@ -415,7 +415,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N5rJ6k7w087meD8CB_MkqP4L2j4XMn_8f1UCE1WGh8hm-QmqoXIpc0WOE9RR9i-y5vb42xzsKcak4VAHppy9nMwkNi7c4VFchxhb0UkTrs-NlToWK4nZ133Oxq_xKyv6YOXmHwMqOUFMND4t4KEHj99TSQ6GiH1L_R-CL1oGJSP4ChoKRTJxm2632BeCB_tUv1_t5Ymtus52ulVZwL-8dP-cT0tvPGAAIiAZbMgTBLIms6RtVK7Gtcd8cozdkKDKYvlNz5-WJ6_SxsmPCZ1F-LHX7S__uGjGDErFQHWxYLNbvlPBA6Q3WZfVCoW0o3b0pTH0nA8-eN1Y_85D1kbYvQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد هم یک انتخابات نصفه و نیمه برگزار کرد و طوری انتخابات رو جمع کرد که تعداد حامیان شاه در مجلس زیاد نشن!  و مجلس رو با ۸۰ نماینده بست!  شاه در عمل مانع این کارش شد؟  نه!  رفت رفراندوم غیر قانونی و مضحکی در کشور راه انداخت و مجلس رو  به طور کاملا غیرقانونی…</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/farahmand_alipour/6629" target="_blank">📅 16:42 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/farahmand_alipour/6629" target="_blank">📅 16:42 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6628">
@@ -427,7 +427,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post" id="msg-6627">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">اینجا بود که نمایندگان شاخص مجلس،  افراد ملی‌گرا،  چهره‌های اصلی در ملی کردن صنعت نفت کسانی که تریبون میدادن به مصدق و  مردم رو جمع می‌کردند  در خیابان‌ها در حمایت از مصدق،  فردی که خودش مسئول خلع ید انگلیس از صنعت نفت بود،  شروع کردند به انتقادهای تند که…</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/farahmand_alipour/6627" target="_blank">📅 16:32 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/farahmand_alipour/6627" target="_blank">📅 16:32 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6626">
@@ -448,7 +448,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WkA2qH4heAOaCTAzJyEqZfwkEnTUkmggaa3ZAPU1iIZUykVOiXFGkT9KcXK8Vmk18QHdjsqDcxgM9vJp4J3NAxwCvGguLAnq5hlRfS-Xtji3S1_PQK9U_SI405JpcR3-TqEqUNUAJ5v3TVrOQLG0LX8opRhN4db5AydBQP0rOb1Og4PdYn-pAst1Rm3qM8gVvTbBDAXpW7wTenmzkT9do3i5UjiwpNUuNVtensDTIokrFS7rKiJZr-tnHZy96xPnlEQ2jh0PjN87b-qild5re1BOc7dhbK-Y6xxjdKajIp4bHKOHpGdlTThZswm94ll7WsVv8MLsOFOgjSnkQiasjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اینها رفتند نفت رو ملی اعلام کردند  ولی فهمیدن نمی‌تونن نفت بفروشن!  چون نفت نمی‌تونستن بفروشن، پولی براشون نمونده بود! وارداتی انجام نمیشد!  کشور دچار قحطی شده  و گرانی و تورم شدید!  حالا مصدق رفته بود و از مجلس درخواست‌هایی میداد از جمله اینکه  وزارت جنگ…</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/farahmand_alipour/6624" target="_blank">📅 16:18 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/farahmand_alipour/6624" target="_blank">📅 16:18 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6623">
@@ -483,7 +483,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rAs-qVEseRyoUj5002XjhEC9aVnpKYqf249ZiftnBqxk1HP0_T0EMNwi0y5afCyIMpJT5v2w0wyZ6Cx06qa7Ff99xqBJIVYBH8OCA10OJ2aX3uU7yud-HSsWoz1vrDVBFsjnMcCmYKdvMXogIRuVlMfWg_64QKLopuSMsU3IXjenHT-wqjV_2y2lFokA1xsMrIH_upPsUXPgHJ14Eq-t-mcOC6pfMkmZwdo9U32coTNh5hoh3c89PwlL3SmHRHW2PIJgK3h8Jk04VfciC5IM_0RteCOSJVSLeB23KIWa6PIGEet37FuEHSIgyt-Osmgzy_V1j6hC3O-zdx9rkx6iqQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حائری زاده در سمت چپ مصدق  حسین مکی، مظفر بقایی دو چهره ملی و شاخص در ملی کردن [ناکام] صنعت نفت، تنها افراد شاخصی نبودند که علیه مصدق شدند بسیاری‌ها بودند! از جمله «حائری زاده»  نماینده شاخص مجلس،  از حامیان معروف مصدق که علیه او‌ شد و مصدق را رسما متهم کرد…</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/farahmand_alipour/6619" target="_blank">📅 15:51 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farahmand_alipour/6619" target="_blank">📅 15:51 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6618">
@@ -826,7 +826,7 @@ https://l.euronews.com/UtiQ</div>
 ضد اسلامى انجام داده؟ پاسخ صريح : نه!
 آيا مذهب شيعه، مخالف اين كارهاست؟
 پاسخ صريح : نه! به هيج وجه!</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/farahmand_alipour/6579" target="_blank">📅 13:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/6579" target="_blank">📅 13:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6578">

@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 12:55:30</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 13:28:37</div>
 <hr>
 
 <div class="tg-post" id="msg-78025">
@@ -312,7 +312,7 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 135K · <a href="https://t.me/VahidOnline/78025" target="_blank">📅 09:12 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 144K · <a href="https://t.me/VahidOnline/78025" target="_blank">📅 09:12 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78024">
@@ -326,7 +326,7 @@ VahidHeadline
 UK_MTO
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 223K · <a href="https://t.me/VahidOnline/78024" target="_blank">📅 01:53 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 228K · <a href="https://t.me/VahidOnline/78024" target="_blank">📅 01:53 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78023">
@@ -353,7 +353,7 @@ telegra.ph/bessent-08-24
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 275K · <a href="https://t.me/VahidOnline/78023" target="_blank">📅 22:04 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 277K · <a href="https://t.me/VahidOnline/78023" target="_blank">📅 22:04 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78022">
@@ -367,7 +367,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 291K · <a href="https://t.me/VahidOnline/78022" target="_blank">📅 18:41 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 292K · <a href="https://t.me/VahidOnline/78022" target="_blank">📅 18:41 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78021">
@@ -385,7 +385,7 @@ realDonaldTrump
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 297K · <a href="https://t.me/VahidOnline/78021" target="_blank">📅 16:26 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 298K · <a href="https://t.me/VahidOnline/78021" target="_blank">📅 16:26 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78019">
@@ -405,7 +405,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 276K · <a href="https://t.me/VahidOnline/78019" target="_blank">📅 16:05 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 277K · <a href="https://t.me/VahidOnline/78019" target="_blank">📅 16:05 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78017">
@@ -457,7 +457,7 @@ VahidHeadline
 این عدد ۲ از کجا پیش‌فرض گرفته میشه برای تعداد جناح؟
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 216K · <a href="https://t.me/VahidOnline/78016" target="_blank">📅 15:57 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 217K · <a href="https://t.me/VahidOnline/78016" target="_blank">📅 15:57 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78015">
@@ -471,7 +471,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 205K · <a href="https://t.me/VahidOnline/78015" target="_blank">📅 15:53 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 206K · <a href="https://t.me/VahidOnline/78015" target="_blank">📅 15:53 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78014">
@@ -503,7 +503,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 230K · <a href="https://t.me/VahidOnline/78013" target="_blank">📅 15:50 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 231K · <a href="https://t.me/VahidOnline/78013" target="_blank">📅 15:50 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78012">
@@ -521,7 +521,7 @@ VahidHeadline
 hra_news
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 241K · <a href="https://t.me/VahidOnline/78012" target="_blank">📅 15:47 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 242K · <a href="https://t.me/VahidOnline/78012" target="_blank">📅 15:47 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78011">
@@ -540,7 +540,7 @@ VahidOOnLine
 
 <div class="tg-post" id="msg-78010">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XfkzW2P_5JaQzaICN5MBAV8t0kfu0R5PulF8PYCK_cX7C8G5Z20LHBM4mN82TumO5FYSGsbblvgL_8iW8xf9XKMNc77hAaC2qtXkElBsDcPzn8tufY7aZeguIS2kXRvX6zhQtadBBKJ_EIF05vj-Hm7f6SDw57qePfduB2JIqYxS6qalVSyYsSUK7afz1LVNiZCnpKYhNcxsV1ZJUGYvYq8_GzXcKh9gr3eFTiBmBm9sbXUNOWz6mQh5CVbr_-_-NdWYCgMI8E8JFuR7QJMgUWIQQyK5c3iebxaCThgQ_w93QzCq5ozoj-WaYQTITXBi50MAFiDCqFWtPG4b7N67zg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JB79SdZWtxn6QCDtgSwmygkSvRG-BtUXekVGHKf8boqQAIRRQEE7s5aPYbtM6v7qgdWhSmCZpJ8CJgIuFdz-nSUAigbIogmMAqUHWwbLkjz9jOUL9WE0wyEH3ffLP2cBbIG9eGEs6R8gVVJKZQKThbSLsAUvbT-DkeSycD6eYeZu8r3CtKSVD8-GERTKUI7l-Pc81rMOxU_5r-yU_875eKNXL0vpUPGKQy6D8ouBAfxsklonI5O86dzdYUJ0wPSBdN0HAyfhHK3y-4QV9nj__ZemvifBUqGpVOvo8_3WTiq5FtSdlU8qBm3eLft-JsZCINi0XBBjISCf6plymcQSAg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پست اسکات بسنت، ترجمه ماشین:
 رئیس‌جمهور ترامپ توانمندی‌های نظامی ایران را در هم شکسته، نزدیک به ۱۰۰ درصد کارخانه‌های نظامی آن را نابود کرده و برنامه هسته‌ای‌اش را مدفون کرده است. اکنون وارد مرحله نهایی می‌شویم. با سپیده‌دم، یک «D-Day اقتصادی» آغاز می‌شود — بزرگ‌ترین تهاجم مالی واحدی که تاکنون علیه یک دشمن بسیج شده است.
 جمهوری اسلامی با جا زدن اخاذی به‌عنوان تضمین‌های امنیتی، به حیات خود ادامه داده است. این رژیم از محاسبه‌ای قدرت گرفته که در آن، تلافی ایران قطعی و اجرای اقدامات از سوی آمریکا قابل مذاکره تلقی می‌شود. تحت ریاست‌جمهوری ترامپ، آن دوران به پایان رسیده است. و کسانی که از خطر سرپیچی از تهران می‌ترسند، نباید هزینه آزمودن واشنگتن را دست‌کم بگیرند.
@@ -548,7 +548,7 @@ VahidOOnLine
 SecScottBessent
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 287K · <a href="https://t.me/VahidOnline/78010" target="_blank">📅 03:44 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/78010" target="_blank">📅 03:44 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78009">
@@ -760,7 +760,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/77998" target="_blank">📅 17:00 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 289K · <a href="https://t.me/VahidOnline/77998" target="_blank">📅 17:00 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77993">
@@ -1080,7 +1080,7 @@ VahidHeadline
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/kFF_oP44g9f-vqJK3tzeOusXyWwlCi_tkgZ7MFqjiobZ4jcsS65cMG_zRxuuSONMJtVnjxZUxT1B12cRvo9LOVb87fKWq6xBmrLIpEUZgjrIc65FgQXefmV9ROKx7a5rLjO0LJ9E6JH3dC_Ipz50UUlZPaTomM59PYUtGZYsLAzQevZ9zdoSwArx_6MQCUe52nn5uO42jXYXX1EZj2FbfU1xZqhUw3CCq7yws2Q_MiW5uExlNAmwoz6_6AjBPqWDst49JyckN3AwWkmNkfwtO2VlzNFLA_YFCDTzer5q_s2iDld43icEboNjCudl41K9IJcuTt7XbAMOsZYGp6yR4w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/QbOEPNrucu_L5gPxd44tly7quYVN9Vo0LPaIQizxbVd_BuqPomlRb_wuYkzU0DTKBTlE5ULFr032HYxvZj0WuzDHmQ9GASq8GNsz9GGiaTSxr72i96tqQsh8fLkK6AUuDHmsOzRdit7RH2vZaHScvszZR1j2mX1lgZGYHPfi-Cp_-vUM3D82dLAiDrTLQGnCElDRGqn7-zxewr2tPmpFAcHHPYxIgJXeFtRXqKGH41u3Yer7Zhh0S0f_ILbgjshowmsFtZp64XFr7Qj3g-MkZKGb5t3UjLQysIH9c14zH4p9ksneAatJK8nOA3yUC6NUOIV6PpTKjVrayKPmpf-jjw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/vtrNYcTi4w4gYR9VU-_XVT3XzvdU2xr8F8VAKf9JMf2J4prP2MF4Tc4j_il8R8t3mmQqCsb0y7eGw7AxJTn78tmfI37PsxECCwPtWLivbTHg_-s4u50p_mM6fMao8OKc4IB_eWHOxnt7MD28h_Pskm4qnvAuuFzqhDrZVrbk0bKVKq0RXb_onuoI3abbqENXUO5SzHiwQMhDNBdwZ4MgPOBsMeaJsbnWKGyeW1LjRm8SulBdvBOuGr_aRkQ3EAQVdUawCOApHRHZQ3EtET_yb8nCHcfLiFKjiDkbrZKPYtUsQdmtpxa7OHPCyr1HUCgO3Mu2gbdE8dh7RUkI9YWVHw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/JQYqR0WWEuMNJwz27oNBlelmXT47j96ID_vWEJb2orNMuLiplPNR0Q-6bv2KHHBt9uWqzkkrjMts7JBY7TGoJnwIeC_a6IT1izvXU6qfnsNRiWiQUhWxIRk8hyp2oQRjcPTVGUiQY9KxKRlzl82suUBQH7ZnWcHsW_XKfOB7iy9qkYoKp36rpzBZ5Kl3u4NpQWHSbFU4OX4WRdkGQYNVC89pMGfUHP7HS7nMiBaGnLdLxrrIC9UTu7E4WByISue4b0MFLpLdvnqDC5Y56qKBPW35UlENufEr82g3LkRaKFJ6oZvPd2PKeFP-uccctos0ykPVenS8O0TLGL3tDnwlZw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-video">
 <video controls preload="metadata">
