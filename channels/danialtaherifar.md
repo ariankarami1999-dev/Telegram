@@ -292,12 +292,12 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 15:59:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 16:59:02</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kSzJMNgUEEpP9W7fB5qfY_jxO_s3JGKuA_E_u0stqcMJ_wrul_4KI86kzTo3HwI8MUidjRm_NbX0QdnEY2JuG5xxpJLNkWnQBACgzatvqUSnCbbPdCOzKfto35xT0axFx09K71pTlF78s63MgqeEM3kSkX68rfSLtFP-q8Xn-GH5PEtlsMHDcQJCMruWdcIxC1KlEa2Bj8rXxvhVpzN6ZF6_rBhsbLHYnRpv2VLRV6ZOeNLDBxmCt8LIlm-Upb-D7-VKhNzvmgbLctXd_KZWZ0_l6-gdoGFL-tCR9xNAWePKn69CmB5z5krTTG5sqcXjbzGOvKs9TXZpNTR6McKjLA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/I5N81YekZpr0O3ek6Y_YoLTzA82jd114HSyz0JEkuF3kF2e9g3H5Qe7nD2KzR1khtGTBtDnK2GzzB3O1x4lDPtZKMcYIdkujXHQWD4quXF_OfDAzXWkC-Oh7rQAtwnCV8IjW7N9V2wNGEmFLFfIMbhGq-Kt9kUhuYyEZxOOOzUMJNgzVjhtAeu_7hKaIjAS-BVmd_ESsislDkPuCYVDdHUw8DWM4m632KlOJM_52vA92fL3vEHxvae6pwJZc3w69EzqwMFgQPICDEf1i8MCeZXKGBtX61MFNlfcH7UlRNNUzz6rZwOmCfY19zwh1oSD91hYXyza9bo7gXUQFsxwMmw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده    @danialtaherifar</div>
 <div class="tg-footer">👁️ 307 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
@@ -750,7 +750,7 @@ Google Discover
 
 <div class="tg-post" id="msg-910">
 <div class="tg-post-header">📌 پیام #62</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DUzyPzQyJp9C1nRmf16JGldxfgHB9uCcJ7o5sW2b9d3LvgtuTlknKzV3ONdPuyiqWnaU7-aEsAEIb5rUuU74njm1Yyu-o0CPYTC0taTsVszsglBbD0aV0gAig9_LDBQ4dS86TU5WWXn0wPWc70TrlF2u-CEjONhYMPggRYJDqyrZFuoeLLaFpthWCVxcJ4KZ-d5ezaDCOHkwX1c8AsdGQA5kRLcwizIDThh7mPXN5IPLT-4lf2w8pUAWouhPIq35fxeExe0bPFWRt6VRWpPIMcF070Vgt-7-_yWOQdmQAXs8T7h0OJNUuFv3ne9Q4NQx0-_9lo8hU1Dl0bDdm6nhAA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uGp1ZOEU19awyXByVbWfD-8JlKWImFR7hy1bOLNhqdu8b2Jz8zpzGwnA7lbV3gUDqSpGF6XnXJF6o0b-B6_unr-R49CBVw7_IeDlxoC42JZgtX0DbT-dNdDueagXANKgPVVViKVDAu70oU2TSVVRCnHC4NuuUHDfiEpPT02rciC4LyNtgwQlJmRHiY3I4SJvvX6I2haVikT6azVj9lZKb895KgSqQ9_yraYQs7lCyCbH3hNPnuJamxXuMcx4cklcq4jx2IIFXjdgTH6keruvGnzQQ37cjZm3i9CyGSiT5ybx-8MPTKZ-PPNP6DlpzlycPHZ1K_UASQ0Za-QKF_64gQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مقایسه سرچ کنسول سایت های میزبانی شده در ایران و خارج از ایران:  نکته جالبی که تو این تغییرات به چشمم اومد این بود که سایت هایی که رتبه‌های عالی داشتن بیشتر آسیب دیدن و سایت های رده سوم در سرور ایران هم موقتا رشد گرفتن و بالا اومدن، که البته با توجه به قطعی…</div>
 <div class="tg-footer">👁️ 906 · <a href="https://t.me/danialtaherifar/910" target="_blank">📅 00:38 · 07 Bahman 1404</a></div>
 </div>
@@ -777,7 +777,7 @@ Google Discover
 نکته مهم:
 در حال حاضر برخی سرویس‌دهنده‌ها در حال بازگشت به دسترس هستند؛ بنابراین پیشنهاد می‌شود از انجام تصمیم‌های عجولانه خودداری کنید.
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 847 · <a href="https://t.me/danialtaherifar/909" target="_blank">📅 17:04 · 06 Bahman 1404</a></div>
+<div class="tg-footer">👁️ 848 · <a href="https://t.me/danialtaherifar/909" target="_blank">📅 17:04 · 06 Bahman 1404</a></div>
 </div>
 
 <div class="tg-post" id="msg-908">
@@ -876,10 +876,10 @@ NotebookLM
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/3745059056.mp4?token=T0frNayqBGwtp1h78Fx10IfFJbOwaLCC1YRDi0K2EuJ4XWT49K_ePzE0hsE5MCU8owBgZI5PgWwJz0Tr3ydS8-tiXTlgeRlz_5iEfP3mGXRAoqQPn7T_XD5rj4zP8Dy5NVjzyJx8N6xbak9RyJL-U2w9dCFwLc9abcrmOhoQ7RrXiTemBtY82LtboYI-AseCzN1Ot07uG6F8VzV5gkAMdpZSwZEeDlKROAuBuWt_0OLO_9kz0XV0oI8FscXDNPD7htNtMIEQB2ApJtTV4L9D0YIecXwsWWb62OYP1HS_wgvLxGEsTYEiYqjHSPDJufcHYpGAHCNpIwCbnuZ8_IyebQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/3745059056.mp4?token=Trxy0MTBAunyAMowjZj5cnAC84j91wh2WULRaFqgc8TY0kjU7r_R8xhJ6nCQYeAyk0GPLlaSugTtKl12yxnjOv_MQuXuQdUxlAs1QfBzh6zGObwmlSTyeDwYNOQ0AbLq6rJAhtFXAlmvpJwdGbAP6iKmzmegAlo4RMOJA6uDd-ijwEG1WlH7GaDDZ2OhhLhlowX_HN_Yq8fxWSzey7T1xibcl6zwsjdE79GYn0bGnMb7fEhiPBgRSrq4kqBhI2IZzTBFWkOOTeAoFo5Nsvk3MqwQzkEpO2P6BJ8THkqA2Glm0_PQ0A5eO22hyhwyzes9TSFXtxZXJJRT6TvlGhZxSQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/3745059056.mp4?token=T0frNayqBGwtp1h78Fx10IfFJbOwaLCC1YRDi0K2EuJ4XWT49K_ePzE0hsE5MCU8owBgZI5PgWwJz0Tr3ydS8-tiXTlgeRlz_5iEfP3mGXRAoqQPn7T_XD5rj4zP8Dy5NVjzyJx8N6xbak9RyJL-U2w9dCFwLc9abcrmOhoQ7RrXiTemBtY82LtboYI-AseCzN1Ot07uG6F8VzV5gkAMdpZSwZEeDlKROAuBuWt_0OLO_9kz0XV0oI8FscXDNPD7htNtMIEQB2ApJtTV4L9D0YIecXwsWWb62OYP1HS_wgvLxGEsTYEiYqjHSPDJufcHYpGAHCNpIwCbnuZ8_IyebQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/3745059056.mp4?token=Trxy0MTBAunyAMowjZj5cnAC84j91wh2WULRaFqgc8TY0kjU7r_R8xhJ6nCQYeAyk0GPLlaSugTtKl12yxnjOv_MQuXuQdUxlAs1QfBzh6zGObwmlSTyeDwYNOQ0AbLq6rJAhtFXAlmvpJwdGbAP6iKmzmegAlo4RMOJA6uDd-ijwEG1WlH7GaDDZ2OhhLhlowX_HN_Yq8fxWSzey7T1xibcl6zwsjdE79GYn0bGnMb7fEhiPBgRSrq4kqBhI2IZzTBFWkOOTeAoFo5Nsvk3MqwQzkEpO2P6BJ8THkqA2Glm0_PQ0A5eO22hyhwyzes9TSFXtxZXJJRT6TvlGhZxSQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">✅
 اضافه کردن Note به چارت سرچ کنسول گوگل
