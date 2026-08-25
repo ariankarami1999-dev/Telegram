@@ -292,46 +292,56 @@
 <a href="https://t.me/naya_foriraq" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اخبار ؛ امن ؛ دراسات ، خرائط ، OSINT ، تسريباتلا تظن الإدارة الأمريكية انها قادرة على إسكات شعوب المنطقة والله لن نسكت .. يوما ما سوف نعيد أيام عماد مغنية وسوف تبث العملية على هذة القناة ..🪪للمراسلة وارسال الاخبار@Nayaforiraq_bot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 13:28:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 14:03:11</div>
 <hr>
 
-<div class="tg-post" id="msg-88487">
+<div class="tg-post" id="msg-88488">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TEBz2l7b7XT-cgkdeLMG390Q7VMUVrT-AlfLEAZbYe96zqo0Nol-zc_9IR71Zseyi43aeetSPhJ4UtWPvO6E_8gqrcM_Jd85op6neqdK3P2apcsbAGcMk-6qtjhfAdUYnTwAEAFQSpb2G3kPP5UXR441yfXF8wmzoGOGDXhEfVqdidbz_84bBAyKN0Ihga1ngiqKn1SaZygDvYiccbRgP1GCRQCiePq8EycmAd0ev4OgcqZnvrX945fVufgwhteXdCJW-agjbX381rpn6991gAGEdbutgAd28PDl2Iz1KSF9wm1QRRNlrkRANbFDC29YQ5xhRQfeRyNID2gEwOqWJA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">🇮🇶
+تحالف العزم:
+مثنى السامرائي ليس أول زعيم يُعتقل قبله نيلسون مانديلا اعتُقل 20 عاماً.
+غدروك يا شبل الاسد</div>
+<div class="tg-footer">👁️ 1 · <a href="https://t.me/naya_foriraq/88488" target="_blank">📅 14:03 · 03 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-88487">
+<div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">🇨🇳
 🇺🇸
 فايننشال تايمز:
 ‏حذرت الصين من أنها سترد على أي توسع كبير للعقوبات الثانوية الأمريكية التي تستهدف الشركات الصينية، وذلك بعد أن أعلنت واشنطن عن إجراءات جديدة ضد الشركات التي تتخذ من هونغ كونغ مقراً لها .</div>
-<div class="tg-footer">👁️ 1.44K · <a href="https://t.me/naya_foriraq/88487" target="_blank">📅 13:20 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.28K · <a href="https://t.me/naya_foriraq/88487" target="_blank">📅 13:20 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88486">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">🇺🇸
 ‏
 نيويورك تايمز:
 واشنطن تعيد دبلوماسييها إلى سفاراتها بالشرق الأوسط.</div>
-<div class="tg-footer">👁️ 2.5K · <a href="https://t.me/naya_foriraq/88486" target="_blank">📅 13:12 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/naya_foriraq/88486" target="_blank">📅 13:12 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88485">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">🇮🇱
 🇸🇾
 إعلام العدو:
 وزير الحرب كاتس زار سوريا هذا الصباح.</div>
-<div class="tg-footer">👁️ 2.89K · <a href="https://t.me/naya_foriraq/88485" target="_blank">📅 13:09 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.3K · <a href="https://t.me/naya_foriraq/88485" target="_blank">📅 13:09 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88484">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">🇮🇷
 🇵🇰
 وصل قائد الجيش الباكستاني "عاصم منير" إلى العاصمة الإيرانية طهران، للقاء المسؤولين الإيرانيين.</div>
-<div class="tg-footer">👁️ 7.23K · <a href="https://t.me/naya_foriraq/88484" target="_blank">📅 11:54 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/naya_foriraq/88484" target="_blank">📅 11:54 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88483">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8ee375b397.mp4?token=GOHRD5khrvmH5Y65-0cJlfVbPicfWKscpcLaoMNyZLD6qVNWdgka2RZ-0bNd_zTIvM50cgCZeK4eP4zrJ6seunRrPDtUk8zzJ3IovBLuKsbWRkCo86i_QsJoQm3NQF34PMYp9dUCV8bDJb0-ZBm7aYW1EjvotVqJODV2t2DAZ1kW-1qpLBihbJEM2rpecyLs8Hhl2Lrq9wwSt4XqR3OjyYy1ieN_BDx8GMYqfLSGw56mRnyCCVK3MieR3dQtcpLXkd12kd9GhzhRebWVGwUVMm2oFm-FZYnXXNvSg-CmJRoigQs_OBhC79LjG4xjqJJOk1r-GuhPeA3-cuHBE2mLwKQ5tlsHGT5Qhw9ZGbOH4_YpTscgbI3jnPsYhjkz0TScTfMLR9OCEqDzry--TT8RFaqk08YAL_6vyIaR1nmSNJPwghB9flvcLaRJPQ6jZMNfa6vjNsJyLpqbq7ELUgkOMKtDvQWyuTgFpiecCpJsRiogux8--w8O1pkHDMI-sZfoLx2QWFJojIoDpi7f7oRePB5e09b3ijPtslxsjYhun1PmpvQ5-xeYbo6uogfS5aFhU_tzvlSs3YCJShVb72It8th-7xqK1dnSJLqCRgN1fBMTAPcAnrwU4sII47df3thVuYDq7codYDoHbK4dF8SU0nE5oVZrLYY_8uDPfyp0fmA" type="video/mp4">
@@ -344,50 +354,50 @@
 لقد أهدرنا الكثير من ذخائرنا في إيران، وبالطبع، أرسلنا الكثير إلى حلفائنا في الخليج. وقد استخدموها للدفاع عن أنفسهم.
 لذلك، نحن في وضع صعب لأننا لسنا قادرين بشكل كافٍ على مواجهة المخاطر غير المتوقعة.
 إذا قررت الصين التحرك ضد تايوان، حتى لو كنا نرغب في ذلك - ولم يكن من الواضح ما الذي سيفعله ترامب - فسوف نكون في وضع صعب لمحاولة مساعدة تايوان في الدفاع عن نفسها.</div>
-<div class="tg-footer">👁️ 7.85K · <a href="https://t.me/naya_foriraq/88483" target="_blank">📅 11:40 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.4K · <a href="https://t.me/naya_foriraq/88483" target="_blank">📅 11:40 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88482">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">‏
 🇷🇺
 🏴‍☠️
 تضررت مصفاة نوفوشاختينسك النفطية نتيجة لهجوم شنته القوات الأوكرانية المدعومة من حلف الناتو على منطقة روستوف، وقد أوقف المصنع عملياته .</div>
-<div class="tg-footer">👁️ 9.12K · <a href="https://t.me/naya_foriraq/88482" target="_blank">📅 10:55 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/naya_foriraq/88482" target="_blank">📅 10:55 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88481">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DwXGrLngC31IIOln2sJsmfIpPoZkazpLeLkB8Tv3K7v9iaiuRbhcddgjahYEzIxunDwzJy0O-PwxIsOVIJFOI0S2LZzLJfcPvpOWnLNthugJ3WgPu6I-JwMfqGS9VVsYTe2DgA8wtivGyH7CjjgLnFVXuDTj49lYg_aTNwm2TM1MU-RcLpnrQ5memmtsLeFkTWNosxZcu9AYymQlddCn9qs3wuHLt4ZaOlwfqzFVlQ57U_3mE9iiLUPsVKHqyV11bYclMqwPG2R-6EX3k4wonCsc24benj7sdnUW20isDrcEVlhPHwbjfMd9SKRcb69u8Y_c2JjtZ2hZNGqKeEXhjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‏
 🇮🇷
 🇺🇸
 نييورك تايمز :
 تستعين الحكومة الإيرانية بمجرمين - من بينهم رجال عصابات روس، وأعضاء من عصابة "ملائكة الجحيم" للدراجات النارية، وحتى مراهقون سويديون - لمهاجمة معارضيها وترهيب الإيرانيين في المنفى ؛ إن استخدام مجرمين محليين، لا تربطهم أي صلة بإيران، يُجبر الحكومات الأوروبية على "زيادة استثماراتها في الأمن الداخلي"، ويُظهر أن "أي مجرم قادر على إحداث فوضى عارمة" في مجتمعات الشتات. كما تُصعّب هذه التكتيكات على المحققين ربط المؤامرات بالنظام الإيراني</div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/naya_foriraq/88481" target="_blank">📅 08:57 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/naya_foriraq/88481" target="_blank">📅 08:57 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88480">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">🇮🇷
 🇺🇸
 "
 وول ستريت جورنال"
 : قبل أيام قليلة من إصدار أوامر بشن هجوم على إيران، تلقى ترامب تحذيرات صريحة من أجهزة الاستخبارات حذّرته من أن اغتيال خامنئي لن يؤدي إلى إسقاط النظام، بل سيؤدي إلى صعود قيادة أكثر تطرفًا وصلابة، والتي ستعمل على تسريع تطوير الأسلحة النووية.</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/naya_foriraq/88480" target="_blank">📅 08:39 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/naya_foriraq/88480" target="_blank">📅 08:39 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88479">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eZ_og4XyOkn2jqZAvflEzb16pou24SCg4yO3WcuNMYaQJ_VDNWgeaulTKY8Z2hoaqbuQ_z-DyyGxjsktzzf27rmGgucGNfHbi-NM63N8QTlUG5fBCpbdIWEH6I5jRlNvVU6w0t4Ey9jwYIx-XWAkN1Y3xuPlM9D1T5C8gfoO38R6hdSFUf1nzQ676pFoMiES193pPo-pMFU3RoNwCrKHtzhtXx2yAEC4Sb1eA4xqpGxV2yw2qD8dr0loxwOUFB50pkdtnZkpfQJSlWy3rpCsKltAPsKkUugszp1VTZkxLM-RLFtWCDaYpWOKJzM_rc1-B_NC7D-ADFGbWwqb6X5Wcg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">الله أكبر
 🔻
 ‏إستهداف ناقلة نفط بمقذوف حربي على بعد 9 أميال بحرية شمال شرق سلطنة عمان.</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/naya_foriraq/88479" target="_blank">📅 01:41 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/naya_foriraq/88479" target="_blank">📅 01:41 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88478">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/a3dbea05a2.mp4?token=C3EKGXMNxmBXrEXHLFoDjqZBtRKX3q-PV6JO87k6xq39ed9NNq0CIG0f9BLthGsMr-YfVE9pc4lVREVLUwD8yuYjCnoBH9kAIFpNwwifOM7cEVeil2Ch9auF9AY1IYUfHg5CtODQWDb_KfXuEM57aWqRuHUu2b5Ov4TiVLP-bGKrtVu2HY2JS5zm1_h6l-hycV5n2NYhKHdqTXpS2e2UkwRuYFRDJLoROJuU10G5GYavcYLZ-xM4MESyTfqHUQ6D5fQ9eI8lDJoGXbdYjw6VmGCJFs9Vmf91KgcFbSHuEkBvCFofFKIS4QyLkNs6yuGWlcLquysb6NRVbnwtwaaq924WviweKsgpk5VU4AUllGjQFX7oLBZuAP_0YTbkUlyi1nBRNq65bt0jz-w2XgyRkKnCNLzOsb6SU7SFJxI3jVkLrtOIHGfLx5W4wmfbmOuWaRQrPV2Na2v_ygnBru1UKzLGnwCgINZQ0js4bfFEQbWt5FhXFcuG1gb40NDEfGqCcOKmcWLMFGnxko6ZNlIFrlrvIGubwNcEP55areBKdgPM9lYTiCqUltge9GnW8_f_yqcG95r8Y3hsG4eF1-XQ6m8SDhB4VmsFtgv0OpmRBW_BLzQTIKwIISnUbJvn-ugSS1DWqb8S8UnSPg1LI5vqz-QLaILzeQ5t45yVJJZ2rQc" type="video/mp4">
@@ -398,20 +408,20 @@
 <div class="tg-text">🇮🇶
 🔻
 تنفرد نايا بنشر اللقطات الاولية لاعتقال الحاج ابو جعفر التميمي القيادي بالحشد الشعبي من العاصمة بغداد على يد عجلات تحتوي عبارة INSS في اشارة لجهاز الأمن الوطني العراقي</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/naya_foriraq/88478" target="_blank">📅 01:29 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/naya_foriraq/88478" target="_blank">📅 01:29 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88477">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">‏
 🇺🇸
 رويترز :
 أعلنت قوات مشاة البحرية الأمريكية في سيول، يوم الاثنين، إلغاء مناورة إنزال برمائي مشتركة مع كوريا الجنوبية كانت مقررة الشهر المقبل، وذلك بسبب القيود المفروضة على القوات الأمريكية جراء الحرب مع إيران. وأضاف متحدث باسم كوريا الجنوبية أن الحليفين ما زالا يجريان مشاورات بشأن استئناف مناورة "سانغ يونغ</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/naya_foriraq/88477" target="_blank">📅 01:24 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/naya_foriraq/88477" target="_blank">📅 01:24 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88476">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8050a036ac.mp4?token=sQsSPmbuZVv8aOVpbS0xZkfKPkRS5sInt7MJcFJ-iormKEpIJ1BRKHG2jHqxktBSuFEknWa_d6lKCNAebdb4Sfdh1-zKvxviXaf6rF15MKJZnwm5o2gJnXzDLjW5EiET5CRsEjwTaTmXskRF3x0E672Idbxc_XWKk4iVSzEGddsMVnBu7j18kRVzTLCyTn3Ubl-C-sIbbYuKvHXjhA5WP_9LP-ZxXM36m7bzC5yMxsTi3c2SJQ0VAyvMadA74EFEIhG5zqVQcQXEm-7bHvMGOaLXqF6zl2w0fishXWZeUsU4xs35NXtp4CPK7xC-m1oV3sj3-ioTa5yxcDrXKScT4A" type="video/mp4">
@@ -420,29 +430,29 @@
 <a href="https://cdn4.telesco.pe/file/8050a036ac.mp4?token=sQsSPmbuZVv8aOVpbS0xZkfKPkRS5sInt7MJcFJ-iormKEpIJ1BRKHG2jHqxktBSuFEknWa_d6lKCNAebdb4Sfdh1-zKvxviXaf6rF15MKJZnwm5o2gJnXzDLjW5EiET5CRsEjwTaTmXskRF3x0E672Idbxc_XWKk4iVSzEGddsMVnBu7j18kRVzTLCyTn3Ubl-C-sIbbYuKvHXjhA5WP_9LP-ZxXM36m7bzC5yMxsTi3c2SJQ0VAyvMadA74EFEIhG5zqVQcQXEm-7bHvMGOaLXqF6zl2w0fishXWZeUsU4xs35NXtp4CPK7xC-m1oV3sj3-ioTa5yxcDrXKScT4A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">لولا دماء بلال الوحيلي و شيخ ياسر عاتي الكعبي   لكانت الجرف الان ولاية ارهابية داعشية سلفية ..  شكرا حميد</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/88476" target="_blank">📅 00:57 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/naya_foriraq/88476" target="_blank">📅 00:57 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88475">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M5i3yjaM4twDEHAW62fB4ZFJ53ebOutzRXariC4DT9Z3URYHYOlkLymMW5i9hGJPLmpfwOePqJCoYoYRcLRgZ7Mh-mn5E9hfnsXCA9mUcH8_7hw1bnit8l2idOhtsDO2Vp0D4wS2TQnVtk3FA_tsjd84lyRuCLisa4IuiJeFuujvrfsHMGmwbNKdEoLeCiGH26K7Pfve4ReO_8uSQ42yPKRiiFXcOcHdnWA_9wvqc8DS75vETwBlK-ARNNw5NShXo5faBIOF1ClmCLzsxRuHquNnpXOb9mOAauhPU9rsE68EPhOyaPavShci1T6cLldOMd0Z5YNjVQS1S8obHMvdQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇺🇸
 ‏
 الخارجية الاميركية تعيد نشر:
 مكافأة 10 ملايين دولار لمن يدلي بمعلومات عن قائد الحرس الثوري و4 قيادات أخرى.</div>
-<div class="tg-footer">👁️ 24.7K · <a href="https://t.me/naya_foriraq/88475" target="_blank">📅 23:11 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25K · <a href="https://t.me/naya_foriraq/88475" target="_blank">📅 23:11 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88474">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">🇺🇸
 وزير الحرب الاميركي ‏هيغسيث:
 لا يستبعد استخدام القوة العسكرية في مضيق هرمز أو أي مكان آخر، لا تزال إيران تمتلك بعض القدرات.</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/naya_foriraq/88474" target="_blank">📅 23:03 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/naya_foriraq/88474" target="_blank">📅 23:03 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88473">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/845b8cd8b7.mp4?token=AovbA0rA1BONpYX2Q4uZkSN1NPRa2NJJ9BaY4MIN20KXTaox9AgeC2VVbFSFFxEXz1lmYtOaB2hMUeQu3qjlvM4aZwqTbve-fwCDRlcFk5gGdMSO2FiRkYnHvoYMxvImLs2nWa7MC4rpxKHcL3tEk4rTkHMkdkEtNuz-y3H0qmxPzOfbkQMAnUcp_DYuCKX0r-il3v-uFNsAwUwya3FnkROSqvSzhiehnRmr6EQ4d22tsFVN1slrTFJSuaQg61CYvzz1P_zoDvb8CeFuy2_Q9G81IIfZ9ZcKS_tqvNIWIegOMAOjaIJK5B35Xe8-VY1HfSqFu_vFyhZ9bGkje5QpQg" type="video/mp4">
@@ -451,11 +461,11 @@
 <a href="https://cdn4.telesco.pe/file/845b8cd8b7.mp4?token=AovbA0rA1BONpYX2Q4uZkSN1NPRa2NJJ9BaY4MIN20KXTaox9AgeC2VVbFSFFxEXz1lmYtOaB2hMUeQu3qjlvM4aZwqTbve-fwCDRlcFk5gGdMSO2FiRkYnHvoYMxvImLs2nWa7MC4rpxKHcL3tEk4rTkHMkdkEtNuz-y3H0qmxPzOfbkQMAnUcp_DYuCKX0r-il3v-uFNsAwUwya3FnkROSqvSzhiehnRmr6EQ4d22tsFVN1slrTFJSuaQg61CYvzz1P_zoDvb8CeFuy2_Q9G81IIfZ9ZcKS_tqvNIWIegOMAOjaIJK5B35Xe8-VY1HfSqFu_vFyhZ9bGkje5QpQg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ترامب الترجمة بتصرف " كندا ٥٦ لسنوات طويلة وجانت ناصبة علينا "</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/naya_foriraq/88473" target="_blank">📅 21:55 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/naya_foriraq/88473" target="_blank">📅 21:55 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88472">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8d9654cfd2.mp4?token=CX_QEnnfBfQ-zEaaPY4j-p5uiT9C3f0-jeeGcJK2_AXZdXOQdk1EAT70g6Q9A0l-AAGZVtFNvdNnFxqAHQjGmCZN4Vhjo4TtO-PxPhU6Ix-IIg5dEpn4vUgNsWOzDJd3Hy9r9tYz60ZgV_9l-YYil3vAQsdRtfmHGzaF1J5Pbb9MQrehW71IYcHv4l1z5LPfKwJf8oID7AGGVL7fNbTMCzNkKdWpXvY_Qw0-a4DV4GuVbJoyk63-JAFp_1MVTkgRU6U5efRMvhS4FwO0doltcSaq5HlXkcua46BEiuf4R1CuPeJdd4mEO-1jF-wKJMsw3FY7oGegY_Eb1R3mIWAFGg" type="video/mp4">
@@ -465,28 +475,28 @@
 </div>
 <div class="tg-text">🇾🇪
 العاصمة اليمنية صنعاء تحتفل بمناسبة مولد النبوي (صلى الله عليه وعلى آله وسلم).</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/naya_foriraq/88472" target="_blank">📅 21:22 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/naya_foriraq/88472" target="_blank">📅 21:22 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88471">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">🇸🇦
 🇮🇷
 بيان سعودي فرنسي:
 باريس والرياض تدعوان إيران إلى استئناف تعاونها الكامل مع الوكالة الدولية للطاقة الذرية.</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/naya_foriraq/88471" target="_blank">📅 21:17 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/naya_foriraq/88471" target="_blank">📅 21:17 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88470">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">🇺🇸
 🇸🇾
 الولايات المتحدة تستعد لرفع تصنيف سوريا كدولة راعية للإرهاب بعد 47 عاماً، سوف تقوم إدارة ترامب بإلغاء التصنيف يوم الاثنين.</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/naya_foriraq/88470" target="_blank">📅 20:53 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/naya_foriraq/88470" target="_blank">📅 20:53 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88469">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c955d03b1b.mp4?token=jvJMBYpxOnzxT_RQziDytpJJQA3Vy5BTFH03jVthjek4ZwR4Ney1_iV93mdLwvFvvsYT3hfsZXU7hVSOuhQCMFlRozV0K3jEMafIHQl0rQK4yhCYJrZGmFM37NCextKXHzp_pGNkKs0bsBP9Mb0tbqfXL-gYD_ua7J18PK5RsaudAqoitQL7baFrMhk0-jADN3AKsH-f7Ezg029rzdAjoe-wDJ4xFhDhc7X5VlAKHmhU44uUZU-uHgL3cJ5kI04ySfLulLqQtNanUQzcISqiMb5htKnAc7zDmCofClM-0-55dOsD0FQ3FyzzSSt4WyicF0PGyAzFHQh-EcwK5-ptQw" type="video/mp4">
@@ -498,11 +508,11 @@
 ‏
 وزير الخزانة الأميركي:
 نطلق الهجوم الاقتصادي على إيران، توقف التراخيص العامة التي كانت تسمح ببعض التحويلات المالية إلى إيران - بيان وزارة الخزانة،أي عدو يسهل غسيل الأموال نيابة عن إيران، سيتم استبعاده من نظام الدولار الأمريكي،حان الوقت لقادة العالم للاختيار بين الرخاء والعزلة وبين السلام والإرهاب وبين أمريكا وإيران.</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/naya_foriraq/88469" target="_blank">📅 20:34 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/naya_foriraq/88469" target="_blank">📅 20:34 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88467">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/XdErM9rTfioLGu9No09KRqLhbWoBrcqzHVzon4YikQfVrOqIKaJF5QD6V1uzdLe4vhzderBGrGD9ebqjAj0lZrL6Bf_jRHcbk_Xkm5fkxp2_d97UUBmyAEAnBeWSEABV0uAkMbDZ6ILzH2B_oiybveKkWTW7jvd0gJ3SUwBkRB84doLc4w3bwvtmOQF5kzGRYWljHIsxmj-AM2x1kz9x-PDCzfmKA-deaXiOq7vIyAFk4fSNxJOAL4ZByhjbTuAjwAnlFe4x6ddfA2QRq1QuOPD3SPExD9V2G7yEBc95j8jQzTcji5hqkO8QsimEF_hFoLlnnGSajt5DOSzmZ4Aeeg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/JXe_SGF2Rsje9LGg5EQguK6Kc23UcYfRRW6sP1oHk9iukby4PhxshteAQZSAzqtdhtTlVBWqscd08Rboj24ZpusYhf1QOrRfE4HAPjDt6YG-r9TGdfmkfMFzOAjoKLD4X_Gsh5kFTzan3yevb7Zi4d59cy42SpevNuRXn-oa9FgpspFtG_yscISJf7blAOSZwjDM3SnXSV5tc2PgwkYL9B7zVAbEtpYjxha1g5HrssVyT2w8Jo6v8fLAonOXjJH8ddQRnUPDtELIc2mYJsCxSUdvimllOaGkPFjkankQ96l1OxLNg7nt2e_keNUej_-k_AUJ1gksk-WDx_TFZodWGw.jpg" alt="photo" loading="lazy"/></div>
@@ -510,11 +520,11 @@
 <div class="tg-text">🇺🇸
 🇰🇵
 ترامب يعيد نشر صور قديمة تتعلق بلقائه مع رئيس جمهورية كوريا الديمقراطية.</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/naya_foriraq/88467" target="_blank">📅 20:33 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/naya_foriraq/88467" target="_blank">📅 20:33 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88466">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/G-DuOmvJEbv8vejJb-t2di2jj4IxrAWSPJAopu7Ih2Pu0hjWo_tqOCljww5utnGo9hQU6myUT9o16FEUG7XB-gBlN-CqQnW2wjDHZNZM9vluHLzE4jcUtv2Yo3dRV8K7xHaQPPWV5kQM2IIlHSJYVFVELAR09k7B24z-51pbPbgmnopzTO3r4DR409rfZrCYwO0jix1x3b6gojxnug7pO9t5qc664RD4tkDtFml28OskRrleuAuj-AtljctcPUFcEJ5can2-82XPA7T5Pp0TGgP8Tdxl_BFZ42Zq3cnRzG40q4thDMPrItfX9CE_Vh-uhkqGJonU-rG8CFuFH_amyg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇷
 قالبياف:
@@ -524,33 +534,33 @@
 </div>
 
 <div class="tg-post" id="msg-88465">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UPEYw9aBJ6iCI8zdHJPmF1k6-yQ9W5ftjvLEjn2X4EZX9jz6HxzIyWNC5DI7palxvLSjz190CoUipXTteqOEy-0gJLNyXbYMwXTa1rBRGrNT0GZDFayybUS30zfvrSGiFmcKxv0WNpEE0cB_89gcoZZxcPPAtTmfk_Ad8wS4HRg-NJn4DmUvZHp2H6fy4Pc-c_6fJCOYtlliWNKECyMuSMmDOldzDHREZPHQckGu7h3NfXEVxqPJFvL8y0yJgRidoVSiIdhNqj6sOTH3Ndjo9yNBa4yceg4YzcHzu-Yq03EcnwpG4GhBUwV1oQxyO98gKnXO2mdJ4OXCdqbEpABWwA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇺🇸
 🇸🇾
 الولايات المتحدة تستعد لرفع تصنيف سوريا كدولة راعية للإرهاب بعد 47 عاماً، سوف تقوم إدارة ترامب بإلغاء التصنيف يوم الاثنين.</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/88465" target="_blank">📅 20:10 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/naya_foriraq/88465" target="_blank">📅 20:10 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88464">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">🇮🇱
 🇮🇷
 نتنياهو
 : حاولت إيران اغتيال أحد أفراد عائلتي.</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/naya_foriraq/88464" target="_blank">📅 19:56 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/naya_foriraq/88464" target="_blank">📅 19:56 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88463">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">🇺🇸
 🇸🇾
 الولايات المتحدة تستعد لرفع تصنيف سوريا كدولة راعية للإرهاب بعد 47 عاماً، سوف تقوم إدارة ترامب بإلغاء التصنيف يوم الاثنين.</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/naya_foriraq/88463" target="_blank">📅 19:52 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/88463" target="_blank">📅 19:52 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88462">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/88b5c9408c.mp4?token=LsQ23OJ2My72v7KNp7X8JuRrMp--5Gim9SXaeEvkeblTcoD63HxXYwdvDF3WULU07EPhHgoLUvKQTOyd6UF_N2qdxqYpuyv1Z_dfBwQ6xf_vjYfqOKKZU6m04QrxiOIvrYSwnd6NbS9On626RdQKOJSa9X9v1krkD3S7XxkmIVleYCEsDTqbedYa58fhDKuXjh0xUWTT_XPmdhSyF9i_Rxv53Jdeh6FNcu8uMk3bYCZucNWuRtV92__bv6tvnSvL4LefuQxUuVifftVB-_4SXxY3IWr2ofBdsQBAd19RPQWDywPdyyNO3k9C90-Tq5l2fOceealQ0-bpYlhGT8_lGw" type="video/mp4">
@@ -559,72 +569,72 @@
 <a href="https://cdn4.telesco.pe/file/88b5c9408c.mp4?token=LsQ23OJ2My72v7KNp7X8JuRrMp--5Gim9SXaeEvkeblTcoD63HxXYwdvDF3WULU07EPhHgoLUvKQTOyd6UF_N2qdxqYpuyv1Z_dfBwQ6xf_vjYfqOKKZU6m04QrxiOIvrYSwnd6NbS9On626RdQKOJSa9X9v1krkD3S7XxkmIVleYCEsDTqbedYa58fhDKuXjh0xUWTT_XPmdhSyF9i_Rxv53Jdeh6FNcu8uMk3bYCZucNWuRtV92__bv6tvnSvL4LefuQxUuVifftVB-_4SXxY3IWr2ofBdsQBAd19RPQWDywPdyyNO3k9C90-Tq5l2fOceealQ0-bpYlhGT8_lGw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‏صور الاقمار الصناعية تظهر قيام القوات الأمريكية بزيادة عدد طائرات التزود بالوقود المتمركزة في الإمارات تدريجيا</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/88462" target="_blank">📅 19:25 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/naya_foriraq/88462" target="_blank">📅 19:25 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88461">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">🇮🇶
 مجلس الوزراء العراقي يوافق على منح فرصة امتحانية واحدة لطلبة الثالث المتوسط والسادس الإعدادي (بفروعه كافة) الراسبين بما لا يزيد عن (4) مواد للعام الدراسي (2025- 2026)، على ان يؤدوا الامتحان ضمن دور خاص تحدد اللجنة الدائمة للامتحانات العامة موعده لاحقاً.</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/88461" target="_blank">📅 19:21 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/88461" target="_blank">📅 19:21 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88460">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jZ6fiulRTPcdDwvtIH-GRIVwXD2F08ekBqHCcu0_YukeXeraxIHzTVITB-IAtcBfH_m5dPaPFUCoTcMJzJpStrVVC779YZbiY1yQQeaQTof9PzsrDwoQ6kdTGxNsJIolEn4pgfWWQ7uBbLZN11RMiq92XLlVBnfSLAg4QruhTT3NOxkpvp7m_M6k7MBkOI10uK41fZenX7NYCUbF29f6YevBShah-GYduzyNsD6UamfQ3pQDpP4skN_iDWJmIiv6eirmr0svJcdN4VhNmcv9AL3mRqwr6nQ6Xl0rbl4dzgsK7Wqr7JAkxdgO1lUm5R_gdl53aVB4lyeTVNwnZixrog.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇶
 وزير الاتصالات العراقي مصطفى سند:
 بعملية نوعية وبالتعاون مع جهاز الأمن الوطني، فككنا الآن واحدةً من أكبر الشبكات التي تُهرّب الإنترنت (المدمج) والفضائي غير الرسمي، وتعيد بيعه للمواطنين والشركات، وتمت مصادرة الأجهزة واعتقال مدير الشبكة الواقع مقرها في العاصمة بغداد (الأعظمية)، كما تم رصد شبكات أخرى سيتم تفكيكها واعتقال افرادها تباعاً.
 وتتجاوز المبالغ المهدورة للانترنت المدموج والفضائي غير الرسمي، اكثر من 100 مليار دينار بالسنة.</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/88460" target="_blank">📅 18:54 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/naya_foriraq/88460" target="_blank">📅 18:54 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88459">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">🇫🇷
 الرئيس التنفيذي لشركة توتال إنيرجيز عن ارتفاع تكلفة الشحن:
 نشتري براميل النفط من الخليج بسعر يتراوح بين 50 و60 دولارًا، بينما تضيف تكلفة شحن البرميل عبر ناقلات النفط العملاقة عبر مضيق هرمز حوالي 10 دولارات. وهذا يعني أن تكلفة الشحنة الواحدة تصل إلى حوالي 20 مليون دولار.</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/88459" target="_blank">📅 18:40 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/naya_foriraq/88459" target="_blank">📅 18:40 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88458">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">الله اكبر</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/88458" target="_blank">📅 18:12 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/naya_foriraq/88458" target="_blank">📅 18:12 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88457">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">الله اكبر</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/naya_foriraq/88457" target="_blank">📅 18:11 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/88457" target="_blank">📅 18:11 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88456">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">الامين العام للامم المتحدة ‏غوتيريش: توقفت حركة النقل تقريبًا في مضيق هرمز.</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/naya_foriraq/88456" target="_blank">📅 18:04 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/88456" target="_blank">📅 18:04 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88454">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">🇾🇪
 🇾🇪
 بيان مرتقب للقوات المسلحة اليمنية للإعلان عن عدد من العمليات العسكرية.</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/88454" target="_blank">📅 17:21 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/naya_foriraq/88454" target="_blank">📅 17:21 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88452">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Cgo_Q5yh0kL3NKO9QUvOAc-uoI-HOfoU8AFNqXewV12Mu5-bzemWOkWZfZkzOHMdyB7vAE2oBQGWVZLi1XeEC-nTRRzKZgUNhBigyE4C4duQFQScvh3X9Gwekm8ALVRl5KFBkyTQvTn3EGb-CbVVIO7ZtHojzCbM4HpR_VEdTgNHpA-4dG4NhX4ogoIccosksgJcmGl8Ro1gcdFUkfRKzQGKF8XSC3SHxQkP6doIyJdFpYE598BjhtsN8oh6IrcUWX8PLeDzZlIsO7s-SyqxrU1O_6vPx-Ebj10176nyjV6D6HeKB1lW4uXy6Pik0x97kik5GXadzZTzVjgTKt42tw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/lvnPE9DjlhzZKLDSgQGQ012f2QSDDhGyiwX8ZR3ZDczBlApIk8e0O1bONSFJlNhaACCyva_BsHhX8gDH2t_4oeI-oz3IhKelfnYo9RAwJVNDb_ZJOp4LRTaEfmhi_FnFwHGUyRGnQZdyt_ms_mnQ9KW86Vq5vkyLh0SvBUy9d2weGTsPZ3j8THFATADEJhWJDu6aaCLpX5TXcA_lVBYfbrchgKSOr89as7kbIVN5AIHeq4ipXcoNj6pwOfbIPdgTkt_HmAihcsL7sOwjWORG0IEmTBpvc_PlXRds-RC938DaAb02w_Z2C4bp3ZFD_Cuymz011RDQGb_pyclvoHLwbw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">بعد ضربات من أنصار الله في اليمن   مستودعات أسلحة العدو السعودي ومرتزقته تحترق في منفذ الوديعة.</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/naya_foriraq/88452" target="_blank">📅 17:19 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/88452" target="_blank">📅 17:19 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88451">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3ef5880eec.mp4?token=IydddNDInRLvjOfFtKWg7HmtYht1FgSq7fhwd9NFHDz5uxldceI4MUhIERpHYoeQ7zJSpOHbIcma5sc_otYiwY7VXlx_t3NqE_y30eBEdhGKXpogvjhYrkAjNbFqB9mXUR9jSD3Uw3y4v3YrbyyBFPcv4pzfdgQ2USVCh5OHCzouBh9DM_6shXaCPnGuNDMOOiucgQ2GZ2wfGD-7vrF0R0rBj8USopb3plPdKiA6lOyywyAvyYrh8AbuTnfbWZQbPQ5lPRD4kCGPLU2djzmMLT50yW-2zT6Bvz_DJUC0rBdkLdaHK0rPWo_Ej3wsvvzKskh0kmq12UStgqyggokNxQ" type="video/mp4">
@@ -638,14 +648,14 @@
 </div>
 
 <div class="tg-post" id="msg-88450">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Y15Us6pvSGOOiSPrw08sCDQVaqUTMckkuSsxTWNTdSR7_fmoqDQtAPPI4lDKOSYVze8kz90XRIQ41i8mkhOe3crnpYmFJwOLD8rAmOasoKtKWrmPZR4qqv4HjMoeKksuvDO9i3BPQbXWNeYtTixKtuopvFARL6BjOPlHKYBtpT1ecqBJE4qhdYMKj00KY5JxnW6F8FIB_Yt6pJCFbC7E_qT0z77ojPRkkmvE52_6xVsD-YtzGV861EfBg4LDkGXvRsqoMZihYPIW-QF0JDUvhwZrGNpNtkGZ7hhnD4rEH52fOPWY6xPceG8VZBki8KdYn-lbTXNQQc4jF9SWs1gb9w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامب الترجمة بتصرف " كندا ٥٦ لسنوات طويلة وجانت ناصبة علينا "</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/naya_foriraq/88450" target="_blank">📅 17:09 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/naya_foriraq/88450" target="_blank">📅 17:09 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88449">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/76c68e0f99.mp4?token=MtiN_wgRDsy2BcN69jbeW4lDQkA3jvMyvJgMtKyqntuIQypItXEwpl45BuBtg155TfUJnaqUbGKY5FWMUnXrgL19fns6SwTHDJfopVwTIFK10fKLCifSWgcN_mCPV3yrdnPDZEmuyqfFb5O9L5JoQwCCURTr-VYxVadjqQR02v-9FeSV0FhOksOX_y5aG4p1jsbpNII459K2Ir6USzrm6hUyfP6q84zoPSNCNF3hW2_LJcUv_W8bSHHsBOqHqOUuYJ_NBIR5nfoS-OFqMLlyHQ8uqiDAxyx3jIsKWL5-uI7I9tfAVUl1DqNJRWCu1-B28ey_94mB--E71wGFQponNg" type="video/mp4">
@@ -654,11 +664,11 @@
 <a href="https://cdn4.telesco.pe/file/76c68e0f99.mp4?token=MtiN_wgRDsy2BcN69jbeW4lDQkA3jvMyvJgMtKyqntuIQypItXEwpl45BuBtg155TfUJnaqUbGKY5FWMUnXrgL19fns6SwTHDJfopVwTIFK10fKLCifSWgcN_mCPV3yrdnPDZEmuyqfFb5O9L5JoQwCCURTr-VYxVadjqQR02v-9FeSV0FhOksOX_y5aG4p1jsbpNII459K2Ir6USzrm6hUyfP6q84zoPSNCNF3hW2_LJcUv_W8bSHHsBOqHqOUuYJ_NBIR5nfoS-OFqMLlyHQ8uqiDAxyx3jIsKWL5-uI7I9tfAVUl1DqNJRWCu1-B28ey_94mB--E71wGFQponNg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">قوة من فوج مغاوير الرابع تتجه نحو الجسر المعلق</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/naya_foriraq/88449" target="_blank">📅 16:58 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/naya_foriraq/88449" target="_blank">📅 16:58 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88448">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/cfc052bc00.mp4?token=FHtLaIOFQYBM772mQqnO59y6JPQQA7jHIffqrPd0sJCAEEYdmCib5_NkV5JGK0HYljCUECQf2DPgspD83xaMylWupcCheAILAA7U1NRCnSsw_qDfrTfyZ4CKd7KSgmHplV5blEh4FIsDUL3IGrMnilBfieNH88v7JHS3ES-5OzXv1HS1_TH9TJw4pHbEyPHo7ZGTUomKF1X8PwKptGu3Byan1b_m6nLUfiMzGgIikoytPXTOB7WKDBoQ3sEGSua2l6uEYHXJwls5ZIavdp4-SGoGyCBg2dm7XY4Pk2BMJbKGxzw7ufwZF4Y1qY9-AY7skcc5fXJTVbzVfjnnQcHMrQ" type="video/mp4">
@@ -672,28 +682,28 @@
 </div>
 
 <div class="tg-post" id="msg-88447">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">🇮🇶
 مصدر امني   انتشار قوات سوات الداخلية لاول مرة بالقرب من مداخل المنطقة الخضراء بالجادرية وطلب إسناد من الشرطة الاتحادية من جهة المسبح إلى فلكة الحسنين .</div>
-<div class="tg-footer">👁️ 14.3K · <a href="https://t.me/naya_foriraq/88447" target="_blank">📅 16:48 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/88447" target="_blank">📅 16:48 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88446">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">مصدر امني يوضح لنايا   قطّع طريق مطار بغداد الدولي على خلفية زيارة قائد الجيش الألماني للعراق</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/naya_foriraq/88446" target="_blank">📅 16:38 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/88446" target="_blank">📅 16:38 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88445">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jbCvMKlcp7qgOuh_K4F3vAmq_nnetjhDxTplOSz78B8_njRZO_aaybR5-UlTqXqoGtmOc59tE0KXfDUvxsu6yoW4t2pnhrdUY6am3Zt3At2APCHMq-FhUeCe-lzPiOecxi_KMJk0kHvjnOf_mB778DWfn_J9dkSA_AvPvVRJUqwI-40IeVqOJEV5GM7W2uYC_8LwDOwkhX3R2SwNuV4NNrahDHBvwbF6UErmrySjBnNd1-wJUmFgWefFdYgQOoEtZWTHVFhH_UvQxfKyAhsmn0vuL4G-lBvItTH7ztLKhunzKW1WvaxnehHN3auhhg89mz8KeBDjTcXefY4JnY3l3w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇮🇶
 القوات الامنية العراقية تضبط (428,794) قطعة من الأدوية البشرية المهربة وغير المفحوصة في العاصمة العراقية بغداد</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/88445" target="_blank">📅 16:29 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/naya_foriraq/88445" target="_blank">📅 16:29 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88444">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">🔻
 مناشدات عبر بوت نايا:
 نناشد وزير التربية التفضل بالنظر بعين الأبوة والمسؤولية إلى ظروف طلبة السادس الإعدادي، والتوجيه نحو تأجيل امتحانات الدور الثاني، وأن يكون الامتحان موحدًا لطلبة الدور الثاني وطلبة الدخول الشامل.</div>
@@ -701,7 +711,7 @@
 </div>
 
 <div class="tg-post" id="msg-88443">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c8a39d0b36.mp4?token=M25n6sVSvlQCjQQwxjsrfvuvDdwuXqasJZ8cbCW19AJpcUSt8hN8DczxQu5frVstEIQgTf79_72medFjlJjHBNTcoN3pq_3Q3pVTwTHp_kC-HsWovRDHuBYkWK3FzaL8Ewil6wMc1Zuo0D7wGfKT7TgEOv8C-wBHcwWTaGUzU0Qbs32Xb_YduWaAIqkvzkzUkgndHWX2ydUwNFgGGFE621bVrhLVnn7YaLNDzx2jw6n6yjjbHRhKDIrx5RP_Ki--Cj5LgGgAwiTXRKOpzJlizfMpcyuakjDDnzmgAkXMeYfZTMbt6xwq7Xmb7S4s9CRvAUIdVqG7WN4xBBqmQ7JYGw" type="video/mp4">
@@ -716,26 +726,26 @@
 </div>
 
 <div class="tg-post" id="msg-88442">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qWnAHyEqaBKP-d95AR1CxxY0-iy5A9-P4QsUBq-kKI7-XpGdQ3g9O7uZ5t-Buk9J9MAP2noqdGVPwkQqd8b-rf9qzJovUkzJk5zufpjzEkfaQANQYrhaws7niVap9cFn0z3yWdXxQl4ykxqRnaeSbtDsoiQRQWZN3uSv-K3oQH2mjGUZYS5lw0S_cEUqHG2I6zIFVHaTLvpVHC6N7a1-aFb-JM4qA3xdIwm-ClP-neWuHIPiutCxJCBwa93OFh2Ggw2uflhT8f9_nsggCbump5MRkNZqMyOByYFPeT4RHFn6TPN19i9eLhtmkUczfiFP49m1dr9qo-bjE3cTOJd7Gw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامب ايران تنهار</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/naya_foriraq/88442" target="_blank">📅 16:13 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/naya_foriraq/88442" target="_blank">📅 16:13 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88441">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">قطع طريق مطار بغداد الدولي لأسباب مجهولة</div>
 <div class="tg-footer">👁️ 17K · <a href="https://t.me/naya_foriraq/88441" target="_blank">📅 15:47 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88440">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">إغلاق ساحة الحسنين بمنطقة الجادرية وسط العاصمة بغداد</div>
 <div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/88440" target="_blank">📅 15:46 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88439">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">🇾🇪
 🇾🇪
 بيان مرتقب للقوات المسلحة اليمنية للإعلان عن عدد من العمليات العسكرية.</div>
@@ -743,20 +753,20 @@
 </div>
 
 <div class="tg-post" id="msg-88438">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">غلق المنطقة الخضراء وسط بغداد من جهة المعلق وانتشار قوات مكافحة الشغب</div>
 <div class="tg-footer">👁️ 17K · <a href="https://t.me/naya_foriraq/88438" target="_blank">📅 15:25 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88437">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/n7PvVmlNbL3WJDViUVCB3JuSizxhswM2IB6qWdCg39zqjWHc19odkjfiyfoIslI2xRI2Y6vmYUJ81PQbJdP77t2rsfVtkiAe1c8wAjTIu7UuDTfq2AoKfGD3jcMIiCWXs8jT0MDQegslhORdRWw9PIwyDXFkFwhrkdF6n1AbnT3eor3pTEtpACM3NBp6KNXaMpHX-lQCKn54spukKVECrt7QXCaWTlyhCGTI-dmu9V3BFKjK689gKt8qciMIFY93WpP1zuo7p7eaDfCIFa1rFKkokmIGMgqAgaNtKcLXPfHK9edltBbWRPsMVtirtJi775lH4tVJJyakyW6ReYKA7A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">غلق المنطقة الخضراء وسط بغداد من جهة المعلق وانتشار قوات مكافحة الشغب</div>
 <div class="tg-footer">👁️ 17K · <a href="https://t.me/naya_foriraq/88437" target="_blank">📅 15:11 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88436">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">‏
 رئيس وكالة الطاقة الدولية:
 قلق بشأن وضع الغاز في أوروبا هذا الشتاء بسبب انخفاض المخزونات، وانقطاع الإمدادات من الشرق الأوسط، ونهاية إمدادات الغاز الطبيعي المسال الروسي.</div>
@@ -764,20 +774,20 @@
 </div>
 
 <div class="tg-post" id="msg-88435">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-text">انقطاع الكهرباء ‏عن منطقة مزارع العبدلي في الكويت بالكامل لاسباب غير معروفة</div>
 <div class="tg-footer">👁️ 16.1K · <a href="https://t.me/naya_foriraq/88435" target="_blank">📅 14:56 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88434">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/q31us22E1uSacff3LOVLFsQ1DUZYiCLSYj79EDuD1E6DGu_EBqKmnfpR4C-vGkhmrbv51mPc7NvwIf1yWI6HkPXS1o4R5PHr6efzofINnO3N_RueV5YsSaPq6WanusvA8LM3FFGGnluvA2sApUJI4f4C6oQjrvrPeVrzzhudxlwB6keZ-6aCyXk-k9i0RGg3JjR3JxtL0FFAnDysVwnfBpg78djRtsvGoLL48m_mvfP1Mg08zrUSVeZHyJA6K_q6kmu4R8SqCEkRrjLXqUYFjWa5ARXhlRjVpX9XTLV5dBE4eSiOHcxRZv47UlMo7F4fM5SkB_kr1GRVREoozk-Hkg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">الكويت ليست بخير</div>
 <div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/88434" target="_blank">📅 14:51 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88433">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K8v7XMOh84i3lXVkhCCR8b8IW1Y0pCm34hsJwOtJCxCXOQfLw4SGrTkeu1kA2DPQP53HRcsdo4DwR8I08R5bW0wz6IeIMbXlGxEBbS-6ybPr4HwE0fsncBYFRChsIr13QITL9d-22-uKq3j5s3Wpx-bEcqVLQLg--45qy1wsWTIoCkkprl3ffhq7OeYPnEPZOpmiR2AfdKFdWRv3KpMylGGjYyrohKoM_gFGdRpL8WM7yL5A6T9_DRUdPvRL6F7wKQZxDVjeC_ulXcHjmhSWYK2Z-EGInYhp9EUGR8J6G3tj00yAl7XY5ei4BfaovW8P5w5ZR4AFYr-NFOHaqChEeQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قاليباف:
 ‏لنجعل أمريكا جائعة مرة أخرى! ‏لا يمكنك التستر على الهزائم بادعاءات كاذبة.</div>
@@ -785,7 +795,7 @@
 </div>
 
 <div class="tg-post" id="msg-88432">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dQbcG4wUScfDVXQcI6gI4O3sQr3ysdpocddM2_Md5VIXhgT1Cw-MpnBoH2FWLzLBwNdnR7AUaGaCsbLjEYfZLVYqv1at8vZr3qCirC9bKHFHVQ4UTTBpza_mCmVDdSeTaHLSyp5lnVGrqAhaZSpeB92FhZKK09P3JmUdlKawACaC4gj-RP22sSWpjsqr86QK_bEP75bLzbvGFqomyr999sNz61SKfPbXDFtra1KrdpfLnx-OTTME2uLrHey9RwNIJWBn0o-C5jhAPMeqPj5_qBN-ynj2Aoz5a_7q1d5oVrxUnfCmk5atui2m2cdMVWnykD6Kf5a1c50nznOm-GYdNQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مدير مديرية الإعلام في هيئة الحشد الشعبي مهند العقابي:
 جماهير الحشد الأحبة، تمت تسوية الالتباس الحاصل بشأن اعتقال الإخوة في الحشد، وتسليم الموقوفين إلى أبطال أمن الحشد الشعبي، لمتابعة ملفهم مع قضائنا العادل.</div>
@@ -793,20 +803,20 @@
 </div>
 
 <div class="tg-post" id="msg-88431">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d8b09c0dce.mp4?token=BzJd8nrO54ajW5_h1VoN3KdncwzBb6dxLXZqdEt1QIJ9S699IYl72fCR2ujnuBITsNCZ1GNb9ySmZv1X4tZqPNGmdrPDEf0VWtafEr3nFBIqp8RdaS8BLrggIQ5tYMCYSk-hKl1BEPCZGWWzO1VLRfKOHKSUrMBgXW674HS--J2YWvz5qcGnDIxEUGo4IpMr3TwUBDoA7YUeHuwzij2GL9-e5LgdzCM_Jyc2ygQMzGvXfwGr5GoZVdMP0QgByEHLbZVzsQwLsfglJXAAMfrTNtZ-ldHk9p-EWjiA9LjoVM0v6X4D42AYuavCPEFNovEv7HjEng9ppLuYJhWU9fMmbw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d8b09c0dce.mp4?token=ekmKRY1mU77pjxCD5YwCdHsXH9v8khj0uQX70mGDXt7HuBp7UFmBjhdTFK2TsCldZIdByh7a-zsY6g477d8DMgCBFmTjaT0Kyp3UYUpoWGW4M_gmew3eHh5KdHzAqGVV3T4oQ8VR4zcrNfp8cWW4VFGgVDkNwhmJWNf4brAkSypF8K_O3cKaNA6cZYjag8fkTFij_q0UpSX2QNSX2m_qdpUy-RVrIQQN5eLpcMflrV-Bbrnz3HtXic0fxz4H0Lj9LWpsnmXkbw6WoC80cU_7EU8N6CQe8C_ZNjPd1VrDMJqkae5BCBa8rUBeAPhC3Itw8NvDTRTntPebV4WT2hPkDg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d8b09c0dce.mp4?token=BzJd8nrO54ajW5_h1VoN3KdncwzBb6dxLXZqdEt1QIJ9S699IYl72fCR2ujnuBITsNCZ1GNb9ySmZv1X4tZqPNGmdrPDEf0VWtafEr3nFBIqp8RdaS8BLrggIQ5tYMCYSk-hKl1BEPCZGWWzO1VLRfKOHKSUrMBgXW674HS--J2YWvz5qcGnDIxEUGo4IpMr3TwUBDoA7YUeHuwzij2GL9-e5LgdzCM_Jyc2ygQMzGvXfwGr5GoZVdMP0QgByEHLbZVzsQwLsfglJXAAMfrTNtZ-ldHk9p-EWjiA9LjoVM0v6X4D42AYuavCPEFNovEv7HjEng9ppLuYJhWU9fMmbw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d8b09c0dce.mp4?token=ekmKRY1mU77pjxCD5YwCdHsXH9v8khj0uQX70mGDXt7HuBp7UFmBjhdTFK2TsCldZIdByh7a-zsY6g477d8DMgCBFmTjaT0Kyp3UYUpoWGW4M_gmew3eHh5KdHzAqGVV3T4oQ8VR4zcrNfp8cWW4VFGgVDkNwhmJWNf4brAkSypF8K_O3cKaNA6cZYjag8fkTFij_q0UpSX2QNSX2m_qdpUy-RVrIQQN5eLpcMflrV-Bbrnz3HtXic0fxz4H0Lj9LWpsnmXkbw6WoC80cU_7EU8N6CQe8C_ZNjPd1VrDMJqkae5BCBa8rUBeAPhC3Itw8NvDTRTntPebV4WT2hPkDg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">قطع طريق مطار بغداد الدولي لأسباب مجهولة</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/88431" target="_blank">📅 14:17 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/naya_foriraq/88431" target="_blank">📅 14:17 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88430">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b122a3fb40.mp4?token=XB_fE__RSOdCeizpXmzFvtJOCjLMIElDAF0ddFiUp1T407kH_O4soLAvL-pA8RGIsUy7DNOS-Y7xlHFqLoAD60NucbxJ0FEQXWNWZNeU_djMIgEES4ZDowJ0oONKGHRfX-o0dpoykmd3OEF4MqgAvQOv5xrrm8xYZSeBKR8kB4UcE8EV9sWzMHDHGZhH8-0FsYlPuJsUbY-Ewi2lY5SN16u3GEI365JOvKVCS1wXma4XDL6dv2mcZRa4G9czo5vwzliA6qdR5WzE7hfUesSl7RkweZnvLA8Rwx0MGbxRMvUF5Q6XGqSWNgdbjJvV5rV_xMau6fZv7k-_oo5S1Ez48g" type="video/mp4">
@@ -815,17 +825,17 @@
 <a href="https://cdn4.telesco.pe/file/b122a3fb40.mp4?token=XB_fE__RSOdCeizpXmzFvtJOCjLMIElDAF0ddFiUp1T407kH_O4soLAvL-pA8RGIsUy7DNOS-Y7xlHFqLoAD60NucbxJ0FEQXWNWZNeU_djMIgEES4ZDowJ0oONKGHRfX-o0dpoykmd3OEF4MqgAvQOv5xrrm8xYZSeBKR8kB4UcE8EV9sWzMHDHGZhH8-0FsYlPuJsUbY-Ewi2lY5SN16u3GEI365JOvKVCS1wXma4XDL6dv2mcZRa4G9czo5vwzliA6qdR5WzE7hfUesSl7RkweZnvLA8Rwx0MGbxRMvUF5Q6XGqSWNgdbjJvV5rV_xMau6fZv7k-_oo5S1Ez48g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">سماع دوي انفجار في مدينة تدمر السورية</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/naya_foriraq/88430" target="_blank">📅 13:58 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/naya_foriraq/88430" target="_blank">📅 13:58 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88429">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">سماع دوي انفجار في مدينة تدمر السورية</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/naya_foriraq/88429" target="_blank">📅 13:52 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/naya_foriraq/88429" target="_blank">📅 13:52 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88428">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/dec4022a6a.mp4?token=SbHpBlBtfOsjnYqjYrEBKZeLBdanevawbdBbbQzoPkXLLbt1IcyWHQnsOpcEr0JS40fvSr46Tc2wQw29pANAtixJuM-BLaADD8Pz4H9AP8mOhp4A_TGAudAJ3f2fTBhBJzusAEEDEK4XW8vXHZaTIKdysdwKEcsqYGcUZlyISx_qlZ3NsAAvRCvqLj9pwBd0Ar2VCrfQyzP-HK33BGqeTfYdWbAhvs3pGt5E4PShH26_7-kkVT5M-dNPZedeSSUsex4mB23ACg29HwLP4rDw_BTq_lFkSDi4_vG_5OCo8mLs9wOscxfCaTtH1m5tXrFMe2i46--hN4m6jGXBrCiGoA" type="video/mp4">
@@ -838,21 +848,21 @@
 </div>
 
 <div class="tg-post" id="msg-88427">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">🔻
 إنفجار مجهول في قضاء كويا بمحافظة أربيل شمالي العراق ؛ إصابة 4 أشخاص كحصيلة أولية.</div>
 <div class="tg-footer">👁️ 17.6K · <a href="https://t.me/naya_foriraq/88427" target="_blank">📅 12:47 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88426">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">🇮🇷
 هجوم مسلح من قبل عناصر إرهابية في مدينة زاهدان جنوب شرق إيران؛ إستشهاد منتسب كحصيلة أولية.</div>
 <div class="tg-footer">👁️ 18.1K · <a href="https://t.me/naya_foriraq/88426" target="_blank">📅 12:35 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88425">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">🇮🇷
 🇵🇰
 وصل قائد الجيش الباكستاني "عاصم منير" إلى العاصمة الإيرانية طهران، للقاء المسؤولين الإيرانيين.</div>
@@ -860,7 +870,7 @@
 </div>
 
 <div class="tg-post" id="msg-88424">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/ab1fc56eb9.mp4?token=iKUniJtCYfCoI7V2fUsloJ9BvBRGZPThfbadwDl11WL2iLuG_6M6Ci9uPbDpv_Td9FKKJv7okxpWcQazdz0mon41ZuTPBVtL87JeN4CE--B1D3RwjrKw-aGP7vB3KiGCEHF7AGKq9_BLjs8v1FOXzLduCSdo5SwsK5LeAzjliT33vvwB4xxDBLwy7bBApv8-wUsgmd_njsRw-m33LAABN4STR6pVhFnJT-KSu1vKfPaDHrEFAmnVBALc3p-0FNllxMZYANTo6nV8-0MlPruaDqN4GDvC2SGbQhtmU54yv1UNxsNDvcYoGz2sTBqTC_pyAxVreIo-yQQZiS5EZGAxvA" type="video/mp4">
@@ -869,11 +879,11 @@
 <a href="https://cdn4.telesco.pe/file/ab1fc56eb9.mp4?token=iKUniJtCYfCoI7V2fUsloJ9BvBRGZPThfbadwDl11WL2iLuG_6M6Ci9uPbDpv_Td9FKKJv7okxpWcQazdz0mon41ZuTPBVtL87JeN4CE--B1D3RwjrKw-aGP7vB3KiGCEHF7AGKq9_BLjs8v1FOXzLduCSdo5SwsK5LeAzjliT33vvwB4xxDBLwy7bBApv8-wUsgmd_njsRw-m33LAABN4STR6pVhFnJT-KSu1vKfPaDHrEFAmnVBALc3p-0FNllxMZYANTo6nV8-0MlPruaDqN4GDvC2SGbQhtmU54yv1UNxsNDvcYoGz2sTBqTC_pyAxVreIo-yQQZiS5EZGAxvA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">على الرغم من اتفاق الإطار التنسيقي   بأن مذكرات القبض تنفذها مديرية الامن والانضباط بالحشد الشعبي في حال كون المعتقل منتسب ؛ قوة مجهولة تداهم مناطق شرق القناة وتعتقل الحاج ابو جعفر  و قوة اخرى تعتقل ثلاثة أشخاص من منطقة البلديات</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/naya_foriraq/88424" target="_blank">📅 11:42 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/naya_foriraq/88424" target="_blank">📅 11:42 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88423">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4a5ed1dfe3.mp4?token=nhrB4Sv_TxcVZQl_oIRDkP3Udeq6QUX7Aah0dNnxc0PhZTNrMcYHREo33BL6GqQszv0voRnJCOpUs0V4-yEuIxmMGlXAUDZr73-_mBN1pRpFEt2EzGXg6Y6BrnAR7MuS_CD1qIEC6KmysqrasbESh01Mb64ISUflVwL15u2OSTCtZEICd1qToZE3NGJPZbHruv9elSoPuY91fwEfJ8iCkdHNmuA31dKUGfumCcCUD6UvHWJMRy7YIDynZ0GRDTRjLtRTLybdS2yJASk4ELkeVO0IXxX6qYzjgnGc5gVgOWf_cg8md_xOfXTXUGW5qpQyHXBAkqsBUNe5ogRxFjAQ5pyiIByCNL6OmEcD_Aqgqj8KGa1DelUztR9J_iw0XDHkRkrI211TwazlnRR_kaYByqq2_yqC3gzSN-NQBRd0wQXDMjM7O2V4PcvM7vLb60z0NNTxcNl94iVB09Eo_KkkVbxbKEymCOqQEvPEDcNiFHLrs1Vi0cuMM-vy22cbtu6ESggEVgJjGYjNHKHY7TVcyn0SxL_Ny-cSi-cvyrS8uo9mrmn93H3zvz1vr637cnyrt3lhTCiFK8KKvfiZRIbaSpEAq5e2GLrTgLEHG4C5_66kwRxdY8l8pwO5WmV4rD3tBqzXg2sRb9FvgwFEiTET4IjS3V4Q8-cv3ucXEnIGgl0" type="video/mp4">
@@ -887,13 +897,13 @@
 </div>
 
 <div class="tg-post" id="msg-88422">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">على الرغم من اتفاق الإطار التنسيقي   بأن مذكرات القبض تنفذها مديرية الامن والانضباط بالحشد الشعبي في حال كون المعتقل منتسب ؛ قوة مجهولة تداهم مناطق شرق القناة وتعتقل الحاج ابو جعفر  و قوة اخرى تعتقل ثلاثة أشخاص من منطقة البلديات</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/naya_foriraq/88422" target="_blank">📅 11:39 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/naya_foriraq/88422" target="_blank">📅 11:39 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88421">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9f67556e45.mp4?token=g3NgnqhgjTRrPoes7mphqU8ICNu2ndpXoaogVYmn82xXDnMB_RamMzeDikXizo3fgHe8yqFt47kaRoGpT21TxAIXXpVAuoF6eXCuO54P5cy5OBrlzIMBlOYIdo0ActjpUy-Gvbo6gyedicatGrA_n5ZRUBnff9i_C4AoDJSy-lcOAn59as5Pu77vYsEKnorXVpdiQucKtdKXB9aPmA15fRo_ljH2XpWcd5DCxoOdCb9tAj425pB0K_49zpGLr44MYThHn7nipF8gz7ZczEttcmbt9eVSw9OntDlm5TLrNE_giwSb2CyNXZzQPoftNtR63NEeApqi2eZX8zaevG3pyQ" type="video/mp4">
@@ -909,20 +919,20 @@
 </div>
 
 <div class="tg-post" id="msg-88420">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H0OiOuZo6fIHBBrrzBR564T4d_mY18kVCY-JRM6SMbuWkZQfFQNZ4hy68rtUXuT0Ex2bz_u9QnljzDMVz_5g5rPcxVeu08rgYicY52PGgYFzNrado0d6RaLjPBlI_vZ2t7aK4qtFdp_S4FKLs8pciuYwvLDsiuqzOmeTqyWeqkdOYImsjDIpdt1mlhfJhnoygbnqvl61-ZhGsBpfAoc0LN-sHGgCET8R-2XBk0EVXCBkIipnzWH9BlCHd4LTSPpKpCOqa0J5G80HHMmmotw0QXi0Hq2n67OmDHznEXqx-tPoHb1LrM8_zN3CKpeyc98O9_Fm3SuRl7bU5DpymxFu2w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">الله أكبر</div>
 <div class="tg-footer">👁️ 16.8K · <a href="https://t.me/naya_foriraq/88420" target="_blank">📅 11:14 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88419">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">الله أكبر</div>
 <div class="tg-footer">👁️ 15.7K · <a href="https://t.me/naya_foriraq/88419" target="_blank">📅 11:14 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88418">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/253e1af33a.mp4?token=a34HuGR9X40Jvwz2_02uqaIEt81tS7hjqAnPdy0WlCGEPqqJFf6YyFnGOFmJdxoPbzknX7qmAghRq76HN-MLVfMUXV7p-WonAs3kK6M3N5LhicPgXeMAG0oj7Kc7xEoNO65VIHACBJFv1ysvbUVfXTSlhnNsTHGTVfuyyNaCfB3ZMFRv4SCvuKFaMpClh7UIk5J8hRCdgVgT19KgW0dECUS_fjP49EkidL8KoG-HG6PA_PXRwBvV79NSLtEAuhb5CYOjRF8F06dHFiS2nAZ0zxFK0_zVk8YtuaPGRMtEq6nfFRrcW90xXn9wW7th253iuSV5KOxz9frNEhtLN-2VNg" type="video/mp4">
@@ -935,14 +945,14 @@
 </div>
 
 <div class="tg-post" id="msg-88417">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f1M1lvPCYgw_angM6hD-D0fwigM24m2B9hA9aceE6RtsqmpedwDDuMcBaFYbdNJKpRmlbJcBhZeghb_dNdsK5ka--aQUsLCa24kc2EHnornu5SSrFqSrDcCnR40dQDS8KBfaICwYmF2lhpTXJBrGhGtBT5mmgV-DcFYnzwBi2fG_j6Ei_nWbXzMr9xFgfWHlySn3uCQ1IkET96XkhTSPVlacXRAEYok2Fn8Z5Xfj4Lsoka1fn0FWIpEazj92HuaFYv2E4Rvi82oILFBzxg8qdO-84xS4KRnilFx3ZH3lJOzQZL5YFUx5L4qoMHEi5WwGn4896syIZjbntomz4FXmpQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تسقط وصاية توم باراك على العراق والشام</div>
 <div class="tg-footer">👁️ 15.4K · <a href="https://t.me/naya_foriraq/88417" target="_blank">📅 11:11 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88416">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/e9ba72a77c.mp4?token=eRRK1KNe0Z3qftG8zIN-88dvW-sgsQGexX-_GwmEzOFhGLZ7fvUyP4ZF-9I00PXFy5TIqmCGyKxCfBA3kk0li-BYaHg9AvC_sxDkh1m9KJaO1Ms5oL0t-6_QwyFvTO0aw0GQCzUGC_6mwZJKn-3-sOG4F5baM6P5Rx3YSVuJ8aAJTn7nBcjYqKF41CTWzcjuZZl7PuQkeo_EOy2YVh-TAmtM9czShx4RgLRBXtnA174HXo-hteEt5842HoCuTf_znJuioG_r6t_fA_Lfm8P5Og7JI2soJ4rS25tVFXNdBpkWn_sB_XSduV3CeweWwxOGSE87ggZu2MYFT-4NoZgIEQ" type="video/mp4">
@@ -956,7 +966,7 @@
 </div>
 
 <div class="tg-post" id="msg-88415">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">🇮🇷
 القضاء الإيراني:
 شحنة نفط أمريكية تم مصادرتها وبيعها لصالح مرضى "الفراشة الجلدي" بأمر من المحكمة الإيرانية.</div>
@@ -964,40 +974,40 @@
 </div>
 
 <div class="tg-post" id="msg-88414">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qPfeGrb8LQsCDBztgK3C9Baj_j-A8Z8cwzjxSfA2pc01jz8qwKi9k0-nE7TXTmFx0lZrXJJKXqIcHk51ZivYFhyncQIqtWsl_w_v1nG2_GwFmUoO2IL-1OFiwZegoEqCk-Aw3UnPDpo9vKGvkCwwEWrryVzRXpAh5QJKSqnpshghV0a6Gr9HpzaQnWNFmBOMXCmBf1efuazo6EIgTrQ6r5IVmtqddg8OOzMsRH_N0iVc6owL_IoV1onXm_gnIYLF-1FpP5uWTZJ8YPFt0HZe9_sHxMNPSm2tvgXIR33oG01nIMaBEIIn_45SPKAVB7qLgqiJHLQNZhxw7MX6LWqj9g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">على الرغم من اتفاق الإطار التنسيقي   بأن مذكرات القبض تنفذها مديرية الامن والانضباط بالحشد الشعبي في حال كون المعتقل منتسب ؛ قوة مجهولة تداهم مناطق شرق القناة وتعتقل الحاج ابو جعفر  و قوة اخرى تعتقل ثلاثة أشخاص من منطقة البلديات</div>
 <div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/88414" target="_blank">📅 09:30 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88413">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/u01HaZiZhlfdKQ0Pw7F4Q_cUlCkm5KMn7E5fQOT4R0Ce-EpRE4R4-ACcGaFUEl64aURr4OWI4WeEijK1iMwHf6z4y5j0JqXtJmSpJlGQEeMp3vtCWcGp3L0J8BvFAy8uP_0T7uLqyy1Rx4XhNKwjFCsj7FcxiinRiGXk6QdOPcvALSqnPJPHtOD8kb9hSOgz9XcsFZkHTmCFvSeybw-X2fD_mVgPKPs39b4G3tso1srgspveKL-WKLNA4JhefyffH4aUD4_4jZPtwP47EZ1AHxCCvp-EJaupw7DLTvKrzdBZONrDRPRWE2EBg1JL1r-iDRRK9xAtqBkAwe10B1WbbA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">على الرغم من اتفاق الإطار التنسيقي   بأن مذكرات القبض تنفذها مديرية الامن والانضباط بالحشد الشعبي في حال كون المعتقل منتسب ؛ قوة مجهولة تداهم مناطق شرق القناة وتعتقل الحاج ابو جعفر  و قوة اخرى تعتقل ثلاثة أشخاص من منطقة البلديات</div>
 <div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/88413" target="_blank">📅 09:00 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88412">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">رشقة صاروخية باتجاه السعودية الان من أنصار الله في اليمن</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/naya_foriraq/88412" target="_blank">📅 08:59 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/naya_foriraq/88412" target="_blank">📅 08:59 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88411">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">الله اكبر</div>
 <div class="tg-footer">👁️ 18.1K · <a href="https://t.me/naya_foriraq/88411" target="_blank">📅 08:59 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88410">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">على الرغم من اتفاق الإطار التنسيقي
 بأن مذكرات القبض تنفذها مديرية الامن والانضباط بالحشد الشعبي في حال كون المعتقل منتسب ؛ قوة مجهولة تداهم مناطق شرق القناة وتعتقل الحاج ابو جعفر  و قوة اخرى تعتقل ثلاثة أشخاص من منطقة البلديات</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/naya_foriraq/88410" target="_blank">📅 08:56 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/naya_foriraq/88410" target="_blank">📅 08:56 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88409">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">نايا - NAYA
 pinned «
 كُلَّمَا أَوْقَدُوا نَارًا لِّلْحَرْبِ أَطْفَأَهَا اللَّهُ ۚ وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا ۚ وَاللَّهُ لَا يُحِبُّ الْمُفْسِدِينَ
@@ -1006,13 +1016,13 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88408">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-text">كُلَّمَا أَوْقَدُوا نَارًا لِّلْحَرْبِ أَطْفَأَهَا اللَّهُ ۚ وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا ۚ وَاللَّهُ لَا يُحِبُّ الْمُفْسِدِينَ</div>
 <div class="tg-footer">👁️ 20K · <a href="https://t.me/naya_foriraq/88408" target="_blank">📅 08:47 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88407">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/ac7120c31b.mp4?token=PnebzMbyksJD7Zs9mj9Q88ojtGDyaSSN5i-Yfp0_NZxBk6NRNoCKHRoL2zcGYluOSLBBYHOvE-arMUYyzJRHb4giL_uXB4HCPDOIFtM9Yywi8FhKaxc7E_COxe1D0ZNfOcrFYHKpacNrQZzX6YOGCKiaxiSm2qvP_xrB0Jqnx-4b3X2xE28SJBvTvAi6ZizPGfu-sLpyfgVY-zY8vbF2jCV9tUBMaqnxV3L1ieOuy1-nxV359RLM6ez_9f1renoo7cZrmnt9J8-OAlcDAuNuXPhOgTWrqqjtUss5Kv6TbNIYgPQZd9xMFjX0ucqsrrY2YhaTg61P909gR45JEfCVdQ" type="video/mp4">
@@ -1024,27 +1034,27 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88406">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-text">🔻
 دوي إنفجار عنيف داخل أحد مقرات مرتزقة السعودية في مدينة عدن اليمنية.</div>
 <div class="tg-footer">👁️ 21.6K · <a href="https://t.me/naya_foriraq/88406" target="_blank">📅 03:06 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88405">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-text">إطلاق نيران كثيفة صوب مصفاة لاناز في قضاء خبات بمحافظة أربيل.</div>
 <div class="tg-footer">👁️ 21.8K · <a href="https://t.me/naya_foriraq/88405" target="_blank">📅 02:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88404">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nqk9ruOFJttnpWXZz8xznky4JHmHZuHNGEWZCL5_jZuEoH3JRcryMClJbcEL2Q0F_sH1ikn_7ZA-Ow5NIH6FzCqd8_yBrQeNINkJpTuU5o08iCa1tQDHJjwPJ_LzFkIN8jtLNuikhAlDo_VyhHbo4GjcxZwDnyMAyClVWrFm6iszkaPGHe6PBg0hyEU7nDsuKADTxPnY8_ujgJwaPPmMS5MMUXDoYKiENDz-QTrQTyYvcavoRinsO2IOsw16_58Rzv21Wv2gAu3onQuM7FS7EC5kLA4uXMVEjIRrk7s2a6ngxlGREgRnlwCJQnZnWFfUaBhO0H23YKYoKfSfNtDfmg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اربيل امن وامان</div>
 <div class="tg-footer">👁️ 22.1K · <a href="https://t.me/naya_foriraq/88404" target="_blank">📅 01:49 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88403">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b4aa2b6b21.mp4?token=FlfDf05BP1ygnjmGW2CYxVSoHJ-fLNpXNRigGP72OyIiGb8QWa0HEmvoRrIm8tzsCJZFZb4dvIK8OzV6uh6z2GTOpjYpGDUXx_hLfPwsNQgd5WHp_EECZv2glfwIY9gZjFFxp7MD0H59HqDUMI1r2sDxlojteEjzMNFJ40YVpFvprMKHGXg8Rn4svy-052kg3wVQaAZdrYuNDx2bMpPMmdTmKeTVpc77rUV6vFofPxcfND9GrHoVcmZo9Xq-Iyfb8nUoPW75NOzQUC0k4PD-eT2ChLORB3udmcTO_PGTcmdb2VHbhHiwz0zqb-xHQJX7BcdXG2YAuNVnjBJUUReFxg" type="video/mp4">
@@ -1057,7 +1067,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88402">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/2921b037ec.mp4?token=hl3Lv8Tqy-62NouxMnS6W3TwwV9xjUPUqJubzxTiLGe306X1j9R0YQKOl535tAFuiC8mwkIX_SWI8cbfSh3DpKawY1g2rIZjz61KaE9Pwrk2d0YFeWCYvln_7Ek4RGMVGbO9dxdUgte7nRqztud1zPh9fkEmK5tVXQIbQEjd_YLI_117dY5AOGXa5LvFDjwBmN_mg4DvKdRQ8QFcASltmeaQT1dqjNGROHtrkt5NqD2EgDiujuJ_W_ISud-fEEPvmvVzqlOQrYlnqLeomDSBFZtsLUpecJYFXI18WPGIuQLa-oaVwTBJqnA1TAIRr2KZtRQYbwuDUlL5rqr9S4HkeQ" type="video/mp4">
@@ -1071,7 +1081,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88400">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b4ca1f3d6d.mp4?token=UNoNZx9RcWqanQygImei2xi7dlDf998RbzcSPnnxWPwt9JpCrD-zL3WfSDyN9Aimap4hTUBLgPhoVg5W3gonGICmPcJNY3AVPqdeYlc0JHryuieDg3DiY9bg9Z0zRqKx6B1Uu3FmawSn6239Y_tYkIlHfX5i4Qt9KheOI98oVrI-IJah7OXFrlIHyDPy9o9TIhhZO18JQ-Cah2IRTycHhIUnwcMpA_QjEs7QL6CeFn77Wx9v4bPfeI9i6d3O0JupDbCHqiBegCUclDn2x862RNAzFlBOmm6ZYUZlL3tbkAG3DnR1TuL_B7uQKsM8vuEOhOKrYVR2QwK8NytKHfNlyw" type="video/mp4">
@@ -1084,7 +1094,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88399">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/df8833d650.mp4?token=Y-8lxp7Tat4Yt5J_5jiH-Fh0RLfFBXfTVZPghjjqaX16jW-ZRD94FDllxU9W37WcbalUa2Mo8oHnSSM3PBf7_XS9u3DrZ7nm5w1Xywb_R0C6fGs9BwQeXJPpcXX5n5LqGqtunaLb3IxItSO0YgFCJG_YPAL3vfJ-MVzys9QiBX_EmIMSx6LqPh9bqI6RMsTHbRDNMI_7hm0kZG9AFftCXwQq73V-jULY_bMXY1f2yDL_mY-7TWJRpw8xil-85AO32GgPQT3W0xF9Ahk5bgEHe1oW2x0tgV4mdNbTIThbCM5osQ0aiYzajWv7db-sDm0a4oG5N9kss2Y5G2yZ-ZZmqA" type="video/mp4">
@@ -1097,7 +1107,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88398">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4890b6251a.mp4?token=KZEacqlI0iaIy6-kvEw-qi_zO8iio2SvEmPQYuB7Qtf4vwFS_H5t30J_k-XAX0ZOUM4NEXLAcaW78FZppG9NFREJOx37M-z6reI0vHJDNgqvwpm5YY-djPVesa4-vDDqKshaeNmi-TLpqON9j0LNgbIDJlUzAnroXVyf-6ut4wuWSlBzKr3nphz6ArOmRn5z7y69sd4CNQmPpGpcQv57T-xk5R_WW1OVRB31qPOLIaC6lTkm6DJTBxnEu4ZmyR9EL0PXlsEpBxXJmWR-W88z-Y2T1HkeQtEfPXaFIgPGodnd9D_Kt93Tn23ksW-KEL2TRKX8z6CKUjZohWr9k0RPXw" type="video/mp4">
@@ -1111,7 +1121,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88397">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">🇺🇸
 وزير الخزانة الأمريكي:
 أي عمل عسكري ضد قواتنا أو ضد دول الخليج سيرد عليه الرئيس ترمب بسرعة وحزم.</div>
@@ -1119,13 +1129,13 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88396">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">ارتال إضافية للبيشمركة تتحرك تجاه قضاء خبات بمحافظة أربيل</div>
 <div class="tg-footer">👁️ 14.4K · <a href="https://t.me/naya_foriraq/88396" target="_blank">📅 01:32 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88395">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/962b98f198.mp4?token=gC89kb8xrylr3uW2PF8DCphJOFfzvcWjc-h_mP1iApvOb2qQFkvMQvgVVL7XFpj2ezkrec2FgSweNNLCSgR4Ui6fDQMIFWJoCoLCdNH1yhXRr8TVNXFiMkAKSp1XPYMYJbwDBFVhKOLsbi4gd9jVQ9MphKyV6N60IE1GYJUBeQaq1DorjTwPze9PNe2nexzEaonOKHYb3raFb56nguKrGzZZiju4lTz04Bfvo-U4fCnlxvLkVFqeIFyCB0l2DxXT7nUwuAIKVdtNylnv3Ula2jtx_ZUNahPIfZVaj2rRJQIZbKCs-cCJbEGiZRNaoTTy5uJox9QaN0t3jtXaRCqFOw" type="video/mp4">
@@ -1138,7 +1148,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88394">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/d46a0d3bee.mp4?token=Za0oKbK3nu_MEj2Vt9I4dum4ZOdnSxcUlqiYqNN4kLjQvtwrHEH8FKVQlN7N_REZF3PKbvjXHhgVo0dkjaM-nDpeMevnkG2q8-pT0UTC9BzdjkUbDbnnWHtgABjtRdEeXC2jK_VFMLTePa6R1ydwgZuFdVh_EiBE2t4vb4T2hPuzLoerX4WcF77GCICXEs7IfcJZCrsvOz_e-rAAgQJ9P_ymGFh3lQMJqyN2drmF-bgAwdIY13G-gn1kbvzsGJBQ5dkBjq5D7xITW0AQIkx4LimgLfuMbYlj5FRcOYLlEBNZSOHlIt02e5M0NnM0tHLpiohi3zDqbq5WLp_wTPvLJQ" type="video/mp4">
@@ -1152,7 +1162,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88393">
-<div class="tg-post-header">📌 پیام #10</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/5d3d19f9e5.mp4?token=AG-ZMnMH4I7ysuqnxxTLqaMrmbQf89U-Z1gVkZJPc8w1tjC7FNHWcouVjRE5imEPL2_Mx1Zuz-ozEDhclUYBXq0ln3vP2PmplZ3cSY83GrbOW9FgcPzsOMKBL94cfMAKVcKEGTsA-jrmecg4JFtzQYe5ilwh6Vfe5Cb-ut4ko3ul9ZPMkipsHb_OaWR0rJkWcQHhS90zgq1aY6ZeJogJ4dSLXiKi_cxzM8N-ncZZPnV3lycw7S1e_HZP47YZwAZYClR8z18AKWNHBeb7csXnm9FHvrtq7wUBA7_pLI8-uFI3WuXgmya2SssBHagLPY-NP7HHC5baGpNxjbFx6emasA" type="video/mp4">
@@ -1165,7 +1175,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88392">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/45f58106d3.mp4?token=f2YkwHxyPDMHjiyCskdnrbepIXdEfOAt68iUlRTYpDlig6ecfmd4HIYC-ayBzdeyJaIK4NAhtUuCwWXzLulUQY4a575-hXLRJs137PjdMUWBvFrVAb_5fkZNLjzD3-PPMudzWoQvqDV1G0tX6ujsy4QnQ1vdbehaG8N_UaQ1RZaaP_76rPCe8pOlxN42LeTfxwkcCRoJaHcujFdWq55qyOM-CqJkhTl-_s_iwq3EjLJZg8rJhl6dbZjbmiFu-hARPoLhUa0xVAm_5DA9ehApoHIQ6ys0fp3BspEG3t2ypU3DTBEquvMluQ1ZeiidzSLoMLDFJO0O6_Sy2KBlkJTtcA" type="video/mp4">
@@ -1179,7 +1189,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88391">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">🇮🇶
 عبر نايا
 مراقبون أمنيون يتسألون عن دور مدير مكتب القائد العام للقوات المسلحة العراقية الفريق الركن الأول عبد الأمير الشمري والمشروع المكلف به
@@ -1189,7 +1199,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88390">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/60bdb6ffa4.mp4?token=t9kwDLfiiyOcfQigKOEoHs4fVct8eU5YgMpVXwKqq4lfjCwly4nGe2IJYDWSdgZZKbI0YoRrfkyqHHxcVelvN1EqpEQH2-NqZUgIUXzy0LdXWtVaytGK3iXCz2DOMhLAeRTGRCyWy9voEN4WCD1P6ndwH29YUwBU3B2feKpbrRED1TepZPXK0c6eBzxAsMOVqZY0dHmJO-HApDcfGkOTG-PdqfQ2t67ZFV9kJsn9uyzX92869q8DTxh9HXYEJU90Rmpur5Ia0unn95IglMfuhsrL7HutZqGIUKeeVzMc2ZVe4QkaBO01gf1kARSuYrZT4eHwUEp-dvGC7XLDSyFaOg" type="video/mp4">
@@ -1203,7 +1213,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88389">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/20747c723a.mp4?token=YKjMp1lMglIikocIJcOfqEHLBtHxTtnvBBs_OBGbu2vrp5HYoQJH45C8ConQKhIboIjRFJwk0lEutUQaNRwm8fn_JylPyFFPFcU5UlsZb4aoXIivM_9Mxv6OOUIVwJf6PnCG8rBGO1PQMH640lhbtQqp1wWrSTHv7IRFVdqFBOW0fXYJf-citB6UaTInjMkQUTH6TdOkTWtWxeq0Le_BQzbF8D5hZCQ1zvkrcyqexuprLWhCnvTxSckfXhIM8fVceQQAgE0gZCflbo2AherE74YKm3gNSztzz-ALRXFzdaidaKpcmyHOHFq_uyo3TE-yCV4Wm7ozgaeSN77e-uyWDg" type="video/mp4">
@@ -1217,13 +1227,13 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88388">
-<div class="tg-post-header">📌 پیام #5</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">انفلات امني في محافظة اربيل شمالي العراق بسبب اعتقال خورشيد هركي وعدم الافراج عنه.</div>
 <div class="tg-footer">👁️ 13.7K · <a href="https://t.me/naya_foriraq/88388" target="_blank">📅 00:52 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-88387">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/11d4806f03.mp4?token=lrHqkzoyPxEkd-Fgig6jndG-5f3Q5oJe04XnoZlS88GWvbq2ssoORqsQdmx4RPC-RjxU1EiXB0tuRL76VO3XbYjz_PLyQnM0QW5w1FSWnjy8aNVqqQyJqb_Njx8m6bQMWMerh-hW0Cm9jOIjs1TqmhhHPjCJ8X_u1mq-ul7bdy345t53TG1tg5nR05mjAwujudSdls6q1fRcv5q3orppjHCWaOY43L6mymZEYWyJgOzPlqEmyunXlIj3-OcivYhtNQeJiAL5NEK7FLd52BQj2lnlfeOgB1NgWc6S3juNO2SlGpLGpr3MUNNWk5AI1aZp7dxyu-XYyXmzLA37dgF-bQ" type="video/mp4">
@@ -1237,7 +1247,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88386">
-<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3162c91ec2.mp4?token=d0RsFglXocGExtq-NSnXBUscvDgsEpIWVGG6_MkFQGqZpNZOk6KwLoIO0t41RSzeUp9Vd58HoorOpjDFh4QET1f59-YbFqdE1iKLu1Lu6bRoIdeaUcdyerWSKQLPb2gJ5kuFW_U9y8Yyk_mv_43Jbm4PKZvK7AEhWoFq3fNA1oKo_6PRQbO7bvs_KJN_-57r9tg7ZESjlZnAtu5YB8KJCKfU_u7P1iK7N6_nqbw_Q3TeoHTlw3EVts-z2Ie2gIdQOuVGX0Kcm4yyqippkCZlBRWNIbZxPBRVPTVbLEbf_LiHqoxMqLZQ1w8VnJG9d_q7PuLxyAhpNBXou5qctOPjiA" type="video/mp4">
@@ -1251,7 +1261,7 @@ pinned «
 </div>
 
 <div class="tg-post" id="msg-88385">
-<div class="tg-post-header">📌 پیام #2</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/21ef949d38.mp4?token=XRJKRKmdr4CrJylqDKkfPwVwPiQXkpygabeIFsMxFGWI6Hvtge4rbXFzTcviZfw1D7eg299REmVD_hT37SYpTR7poB-d-XOn1s6nMTaaUilNcal0_z1lZq5hKr_xRj-nhxrH16SLZobgEP622dooD9INyssafz_0CwjLIWp10ZLCjtj33UsTKV9dJEt4vH0u0JgcuDIe_IwNsqFtHU7hMR1hcewdGUA6DzzIAM5Adz-IX9PuN8Tg_tixzqvRrWDUyn-sjV6aU324h3IEO-OHAOs1g-cYYcwJqf4QxY3yZJcWKMl4HWegIaL1pBje0lqT7FoZxhN512ZjikuGX9vefA" type="video/mp4">
@@ -1261,13 +1271,6 @@ pinned «
 </div>
 <div class="tg-text">اشتباكات عنيفة تدور بين الهركية والبيشمركة</div>
 <div class="tg-footer">👁️ 12.7K · <a href="https://t.me/naya_foriraq/88385" target="_blank">📅 00:45 · 02 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-88384">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">🇮🇶
-تحشيدات عسكرية ضخمه تابعة للبيشمركة تتجه لقضاء خبات لمواجهة الهركية.</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/naya_foriraq/88384" target="_blank">📅 00:44 · 02 Shahrivar 1405</a></div>
 </div>
 
 <hr>

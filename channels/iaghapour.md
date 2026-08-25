@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 13:28:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 14:03:11</div>
 <hr>
 
 <div class="tg-post" id="msg-2920">
@@ -321,7 +321,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.91K · <a href="https://t.me/iaghapour/2920" target="_blank">📅 18:25 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.98K · <a href="https://t.me/iaghapour/2920" target="_blank">📅 18:25 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2919">
@@ -360,7 +360,7 @@ Wan 3.0
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.75K · <a href="https://t.me/iaghapour/2919" target="_blank">📅 16:59 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.81K · <a href="https://t.me/iaghapour/2919" target="_blank">📅 16:59 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2918">
@@ -408,7 +408,7 @@ railway-pg-node.railway.internal
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.25K · <a href="https://t.me/iaghapour/2918" target="_blank">📅 14:28 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.3K · <a href="https://t.me/iaghapour/2918" target="_blank">📅 14:28 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2916">
@@ -437,7 +437,7 @@ WebView
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.01K · <a href="https://t.me/iaghapour/2916" target="_blank">📅 20:40 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.49K · <a href="https://t.me/iaghapour/2916" target="_blank">📅 20:40 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2915">
@@ -475,7 +475,7 @@ Spotify
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.95K · <a href="https://t.me/iaghapour/2915" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.98K · <a href="https://t.me/iaghapour/2915" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2912">
@@ -523,7 +523,7 @@ aleskxyz
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.3K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.32K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2911">
@@ -663,7 +663,7 @@ Port:
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.5K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.51K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2910">
@@ -694,7 +694,7 @@ cpuid.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.02K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.03K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
@@ -725,7 +725,7 @@ YouTube</div>
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 9.79K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.81K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2907">
@@ -784,7 +784,7 @@ Xray
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2906" target="_blank">📅 14:16 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2904">
@@ -1072,7 +1072,7 @@ Ad
 اگر تبلیغ‌دهنده محصول دیگری را به شما پیشنهاد کرد، این خرید ارتباطی به تبلیغ کانال ما ندارد و مسئولیتش با خودتان است.
 ممنون از همراهی شما
 🙏</div>
-<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/iaghapour/2891" target="_blank">📅 16:50 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2890">
@@ -1234,7 +1234,7 @@ Smart Support Bot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/iaghapour/2883" target="_blank">📅 16:45 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2882">
@@ -1378,7 +1378,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2875">
 <div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LTZmF8HSOQGVHX7l6YTy3drO5icgkJf741Fu4-DVTJP3Cu25Hzq93uhWmPfZ34BqVEq5ksFeXF3gVwxVUgnICzTIwgPx0H8XsRz3Ikb4pPYR64Er0C-1tMgHzKs6ot4irLovfv_xK3aR-DjncWeIgOaCCgeManDODwOUMkM57jiSTyy67FiHaybYP8a50BIKe31mHvGp12R-_c8SmnFPD0NqaytkTxRR5X7BuwmM5S8sI8JlOegH5mGIo9RHkoLT1Rg5h2L2Aba2NWJrFE1dNEbHToSFtdoGYsYxzYSW0p7EL_7MhV4HSqEn9LlG3pKHK4eOK_alFE2yFgvl4zBeNQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pAUcIwv6roXsqRe9h8_l_WmB-swD9VbOpoApXOpYwHcLXNBfcQ4PpuEp6D4N6_57-BHOlQQV7mVvhGJkYBl4ZOjglfBCrvQmdncNPUbz871exGUfdsAdxMv3u943Bq-H6wAsPNJV-dx4Nf7ilN0DiQW7R3Bvu__jxC3zSknC4sFjypKrnUt8GtRMHkzIFLbT9rfXrLEsWydFauf6LwhmNGHS3aC-QPYySexAYEAxZBlEFioq3q-VElwLvyigwLr6maLY-R0zbhC1Z9wYj_xzSJt0ZkdiWakoczEMS8mn-PY49S-Nxs-cSWDNq37RM-whrRenAHXHHi7TbqXMk0isVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎉
 قرعه‌کشی ویژه اعضای کانال
 (سری سوم)
@@ -1481,7 +1481,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2868">
 <div class="tg-post-header">📌 پیام #64</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UTv_ylymubRpNwgig92Js4WhUFVnnvYxe9qqo9eD43ZjtMS1cg52uXIeiT7_gG8gJL0huXAgNk3KOjdj1tvi2Sclqb2EO5ZTTRqozMXVaES8tgC1IcuIJXQ8646chT2TGp-1v6TCPJ6jf-AXYSYev4LPY10zbF7SZoAtxoaHf8w0a8Ue2NcS4Qo34yudRHVJ9H7JPaIo97uaIkKbZKEBnLexzGxmTkE1C96Q-w0JJ0RsaxtbHIJDYHPakjAXXOt_P2-WClmaX4q3Rg5ESxeHCYdv1JKrs1-7OdeegSWTP9boMXMa6qOe5ZsYv2pvU_WPh3sWcor7F9ZXZUY-pu4drQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J0Q7jN9wgSR7grV3tVPw9U21fV7E5UXyeqTRZ5pOrV6Sk2WMU04JCLhtxbc43dlFSrI7pZdZZz-MZswZDD5j3SffzpMdXCBuJRT_eY_DHk2X7FkUXnar7gwI4ldwrd_LdIicacpJ_8ygj52LZ7zIjiUGqRY6bWXARK8FRgUX5Ipi80ZAo7JPNalD6Il9m27BiOdXlCskHomJGQ9Sa5z3wCqHqsJf2AsiULGQYNjzBWr7oaIPrynIiTZ009pQQocLY4mBiQT5jo3lFnbABfkU_E33_Btj_AUGi0K5sHk8Rv8Mw8e9s05ZGX65cSKndRp4n4ukWr1O6-FCx7iw1J5vHA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🖥
 معرفی LuciNet؛ نرم‌افزار پیشرفته و گرافیكی مدیریت و تست کانفیگ‌های Xray
 پروژه
@@ -1509,7 +1509,7 @@ Xray-core
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/iaghapour/2868" target="_blank">📅 16:16 · 20 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2866">
@@ -1971,7 +1971,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2842">
 <div class="tg-post-header">📌 پیام #46</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hX301oAHjbjzrNK32zCbH6ODyT4jor-_4_3QWc19-6f-FcETLL4t9lxp6rpS_5tToKOHIrhALx0khgw1gnxV4NUQJ1b165NGk5pYwgWkacraP3T4H9MvSOROZEEtIDJ_rFZCWdX8hFcvDA7hy2nDLjzacvpY83m3j11Xv3P_JGCMHBWjCcqPXxa-qaat3hfSH0o_gDOP1aFieyW9uP1g7CPy2ECkxj8o46eock9qQQt4y8zecNvFaSd-FhEM5k73AIbV57kyyjpE7EANu0fP5zYWBSB-jrZ-vlU6XLt1C6K8IbzKdkqC3a9b1Rhge_zo9uZvMiY0rcsZgNFa4ra7RQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RnZDyXpgyrX9QH2I3ojo5kXm9w8x6HlNtCScew6mF-OL2nReAREAitOF3RcuLNxs4pew5yLFWVK16rqlsMwPxAfM67O5cGhRwxaCSF7J7CgWs7c2CkJY2piJgjp5Cp5azWjaU3pCAwjIwAKUKtUwX05TvPTggQhU5hXEPArgUWIZMgtUzkmCQnSAeOiOW94PUPwfg3qG1D5D8rQRErL4EJiszyioE6XZpxXxC7-cq6eAk3Krs5pXQj1IOYn-rmYWrhHa8ClNWBH4ltogq92j0BsqAPKUnfoRRIRXBE92tuzL8npmmtelPwhJGYcpRsShDomK7nOtijYQcLUCvX3cag.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 دو ابزار برای مدیریت پروکسی‌های Psiphon و Tor روی سرور لینوکس
 این دو اسکریپت ترمینالی، راهکاری عالی برای کسانی هستند که می‌خواهند چندین لوکیشن مختلف را به‌طور هم‌زمان و یکپارچه روی یک سرور مدیریت کنند:
@@ -2030,7 +2030,7 @@ ToRouter
 
 <div class="tg-post" id="msg-2838">
 <div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/J6ZUxhaTaHYUfq28ygpoLeoI6etC_R_FjlkqtKIO5DA5FQtOYYE5GPcEhhUljJu9YoYNwmyuHJw6DfGmsUwiMxACGW7SbiE-7GxpU3573zbIPOSOpt8d_lO3ICFyuc2HqSq2T8hrijEE7IZZvXXr2_J8VcyttW-i2C4MFVT2pPdhwjUiPjFcORa27pMg47Nycysf6O_hXjV4y1IZaPufsdXA7GJTq8WJC1dQzvA60oy9MptIGUKPerQBc8ZqIBMl7LTFzfsyyeI_tL79n3hDmpZihtbnzzPUfxndK47SY4J1CBBEcL1umd5BkQsgfBbvr8KTerjlkQWUDT1LNpWTwA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Cf9XiOSRcxNzmnYiKAlfC1zA8DSTkPtc3pHeL9ZKobgFK7CDi94K8O4oANbmUWzV4AbP5qxmFgdQ5cxkmBNUZiYYNo4hrZoO6KIUJvnJqLNpxWK8fCUpnNnxRYyBqdk-EkFI5kPS_nqWp23OTKS3VlimDtEH1v5GayEJpgUKYfffZu77s5Cx8cZThI3B4I-NNSEnds0uZuiNKY2UA_-HEcHvh6tPYzE3KHTQ4Krtaoa05gwnMNEc8-w4i51IwIgkpV2K5oVnIW30JclTFkVYNhjrQ8E_7c1ldlb7GpUC42DS1PIV9vL8XJIsr8logmNQG_LsvkDi_npeD3EOjHFgfw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی کلاینت جدید Disruptor Proxy بر پایه Xray
 یک کلاینت پروکسی جدید و بسیار سبک است که برای سیستم‌عامل‌های مختلف توسعه یافته، اما
@@ -2255,7 +2255,7 @@ KelpDAO
 
 <div class="tg-post" id="msg-2825">
 <div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dlk5PhKI_hxqt4g8VrqP87Z2AT8chGFQF3RsNZj4L1j47pVMBbwGhsT9rnG_6EVwqc-2rVhrp3Lb22DGQQsNQNzU_-MGla4Sv1iUIPLn8CSPD9RlEIZ6gayuAseJRRPlksSX5vTgd6m6wq-o9pmE-9PaX7XK6fAivkglKqeoi0bHNfzzSRzTA45Ddev9Yz865OSl_iFfLpc8fBAeIX3Tes_IPOq-7nWJ3yJOfYXtqLU7-Tu9cx66KoQdi1glkvKMf4IhEH4AD7NJMHj3_cR1wbMnuP8WpPpigfM33MowAgtOQyLYDYgm2qtTc09FmD09i9e3dm1publ02tiUHQ_x1g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hqduZm9lqZISaOLfS3s4bNMlUbz9iq4T7rnsEQr0QYl0oJR2F6YtstZJHTZDaH64eQ_NenWEnUfcSQOnveUADjsw3ELVmHWKSisUcWyw8Zz_sKnlxwKzN97EyAaWuQE0jm1CZ9n6gMNVUFcrMa5HC1NhBgyTv2ARUcvjJEdQGe10h78RQJnsJKW43fLKxTdWFt216FgYzRvVR9oPW1YmRCT2a1LWlMkPz18Lz-NxZQx31ouwsA6ikavaLqccJjXaRUmd_BnNRFQMEBE47iZszd9TOQ2EYHilyeHJN9taaLVybJSXZlYqj9pQ-6VNPSduSlM53OS6lnqW57ItbYTEyw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 سرویس امنیت روسیه: پاول دورف تحت تعقیب بین‌المللی قرار گرفت
 سرویس امنیت فدرال روسیه (FSB) «پاول دورف»، مدیرعامل تلگرام را به اتهام

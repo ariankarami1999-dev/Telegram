@@ -291,7 +291,7 @@
 <p>@farahmand_alipour • 👥 63.9K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 13:28:37</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 14:03:11</div>
 <hr>
 
 <div class="tg-post" id="msg-6640">
@@ -311,7 +311,7 @@
 ‏
 🔺
 به عنوان مثال تمام شعب بانک «ملی» باید تعطیل شوند.</div>
-<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/farahmand_alipour/6640" target="_blank">📅 21:11 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/farahmand_alipour/6640" target="_blank">📅 21:11 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6639">
@@ -320,7 +320,7 @@
 اسماعیل سقاب اصفهانی، رئیس سازمان بهینه‌سازی مصرف سوخت و مدیریت انرژی، در یک گزارش تصویری به فساد ساختاری در قاچاق سوخت اشاره کرد
 🔸
 او در یک گزارش تصویری که به مناسبت «هفته دولت» در روز دوشنبه دوم شهریور منتشر شد گفت: «هر دو جناح سیاسی کشور در قاچاق سوخت…</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6638">
@@ -780,10 +780,10 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=TxPhFl89a5MqRiucm-Xxy8lXl46WCkyzy4jUExz5AnAtcWEgRObSDCkZ8DSr9Q7fgF9ExUoIEP-zcgnxsQuYXbLgfI2B9WRAig-mQM45_nXE97wJzZgW_csvoNd0_yAxRxOfT4K6MYy9wKT0RjzRe6-OD5lq5dI_QOwMHiJPPaTFm9YCXCOEyJxe_Pi0ZrhDDYR5MWRfgHobcJgdfRqETjjfQFEa5cX8frYNyihFci-fLxeQ9uJ8gVzp2wi97in2HB37vdvETAyA7EKNsRKoqhGHsX46YLeKtaduz9OUwiSSVVZMW0m6Zv1GcmuQO5yS8hZorX7REXa7hQ0-q-4zFQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=ODYafw1DT79utv-safjnjYlbXJPmaK2jxs0ZoAc-OU_pjic28XRVNYbZsy00NtxBdAD8E9_Xo_WjZwVAToI2CQkBFJ52t2OiS5Wt-gcvGOq8TV38Rnvo465cVFN-fVALHSX6ydDhoY0xwa6bHns1bsSBdmSe7qapBdAHKgxQz0E0d2zj6pGmuW4EoNlWKUSa8WC4NWlaqmIDykjihE2jaSeYbVr4kUqTqB0d9VNDzhQOuejJ31djod0k-30EH92aYTsJ4f8WVSxhoFM03pq70h6l-DWtll69P3SsqRJRI9Nqi2iJD0tGlTSpUS87uHa3TYnJJwSTj6aACQboQES-7w" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=TxPhFl89a5MqRiucm-Xxy8lXl46WCkyzy4jUExz5AnAtcWEgRObSDCkZ8DSr9Q7fgF9ExUoIEP-zcgnxsQuYXbLgfI2B9WRAig-mQM45_nXE97wJzZgW_csvoNd0_yAxRxOfT4K6MYy9wKT0RjzRe6-OD5lq5dI_QOwMHiJPPaTFm9YCXCOEyJxe_Pi0ZrhDDYR5MWRfgHobcJgdfRqETjjfQFEa5cX8frYNyihFci-fLxeQ9uJ8gVzp2wi97in2HB37vdvETAyA7EKNsRKoqhGHsX46YLeKtaduz9OUwiSSVVZMW0m6Zv1GcmuQO5yS8hZorX7REXa7hQ0-q-4zFQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/a982a9f63b.mp4?token=ODYafw1DT79utv-safjnjYlbXJPmaK2jxs0ZoAc-OU_pjic28XRVNYbZsy00NtxBdAD8E9_Xo_WjZwVAToI2CQkBFJ52t2OiS5Wt-gcvGOq8TV38Rnvo465cVFN-fVALHSX6ydDhoY0xwa6bHns1bsSBdmSe7qapBdAHKgxQz0E0d2zj6pGmuW4EoNlWKUSa8WC4NWlaqmIDykjihE2jaSeYbVr4kUqTqB0d9VNDzhQOuejJ31djod0k-30EH92aYTsJ4f8WVSxhoFM03pq70h6l-DWtll69P3SsqRJRI9Nqi2iJD0tGlTSpUS87uHa3TYnJJwSTj6aACQboQES-7w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">در روایات این دو کتاب، اومده که حدود  هزار زن و دختر و کودک یهودی از این جنگ موند!  که اینها رو به عنوان «غنیمت جنگی» برداشتند. یک پنجم کل این تعداد، تحت قانون «خمس»  سهم حکومت اسلامی و پیامبر شد.  چهار پنجم هم بین سربازان و فرماندهان ارتش اسلام تقسیم شد!…</div>
 <div class="tg-footer">👁️ 17.3K · <a href="https://t.me/farahmand_alipour/6583" target="_blank">📅 14:16 · 25 Mordad 1405</a></div>
