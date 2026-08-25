@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/j4Gqgvwzg3e3Rj0yVO1S0x7n8htxUzRmDnALTmj_9eOy1_KhU7Oyc-kUDPYJSMoti57emzwccWuRNDATzHXRULgbenook25DfkSt3Tc2aO__sSR-JuWV3eBESpVAC-0c5KsNi_EcKb2EQnwW9_CpkYYuCIosJ-eZGwlubj8Nd03tV2zZtXI4DnWC5bcbEUdVPTZ6WaE_FOMzc8EQWBGhDXvXMhyMfe2F2feyD8TyRIvXQ50-CCUvSayv6179E5br6_gnYMQOQ3P6GvACDCzp9fIHtYJ4iBAogax7ysIgCZuFgDsGCLbKpj6HqF0Vtr35Hy4XIYf_TetGzrBO7NvZ-w.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/D4IG8ntldjvhP51GZMgkxDgNo2UljrkUL1FqdB4vGkeyaRgwiFSZ5mVrMEnAuMO8PpioEDhwEBWQD8nAov-kFy-0-3vNsU814f7LHJ3r_ZFiUqHAuU2lvRtGIannWOGakGo49DV5tXEEVBD7o1TbfXiqZb_4WNV2v9trQSH4FxTMCnHHYB8H2AF1maSSKGU62uHGC_eOtrZ9eRlHMaYfxW3CYWES9DS_Ex_QxFPA-4iqJR6XzyFf0a8qcocNw82DTUISKRo4sGg8ihVvGJ3fQMkehjyYGZ3jSmzp7HJuclbDSmsNGWXT7PmyG_dE_STU0oMcNFAml_ut8k9Q5Re4Lw.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 دانیال طاهری فر | آموزش سئو و دیجیتال مارکتینگ</h1>
 <p>@danialtaherifar • 👥 1.53K عضو</p>
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 00:22:43</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 00:48:49</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -320,7 +320,7 @@ z.ai
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 568 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 569 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-948">
@@ -441,7 +441,7 @@ https://x.com/philhchen/status/2072793818945167475
 
 <div class="tg-post" id="msg-938">
 <div class="tg-post-header">📌 پیام #89</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KjHDd_CozBAXL57yAuZo1N2RMk5ZsFGnW5LmMdP7Ai-RMvn38A6Ir9Ui6bCp-3sMslOHJo9iwxAijVOV0hXW5wxJHNfkb9ITWASDGfwpl5iuPf2qNc5-NWl4gqwhDKSrpjESbsZ1S2UhJ6fDlMhla3BVveUidFSKTZMax_S-W7UlT6HaBT_RCb0pGFXN-6D8lK9NJSlWAkxrtz9Lq3eKTAit3nbsmrrjoBdPTdL0RGwlTC1kJD8jBIvLaL0zlnIi4zOUEUqIsA3wR1UFTqgX44BqWcwYwUv9aO39DNNxtMpP9_aM2z_S9hHmMws5RUpJItCunllnC8MSzgQp6KyifA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UIIeMawUjpwaM4-C5FtFW-ObWAAoSKaPj70kFzO2m_Vj__V2jfRXXrsDZNilFUCPudxgKD7jkafi_VcUd0nELTTqG16mu2ZqgOUbNfduPN0Lp4sJlUuAZbZEu9c36V_lr-teWVxF6I4r_5J0qOB5uZWUGO83eK-IVyBSPHyE8Bx0qOwDh000tr63g82h_cTX70-H6oSVPt_PG8QAHxWAKc6IlvJ7MfKEayYRi0FlQPUsRFk5ExaAqid3RHp9YqkTrje04NFAsJgT2FxSYrVtYoZm9bbDJBtPgpIkL-b-RgrFppcgvPdjnsdZE3CEqwUyNiAARYvp59cZjUqivPLVvA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 آنتروپیک دو مدل قدرتمندش رو روی غیرآمریکایی‌ها بست  دولت آمریکا با استناد به «امنیت ملی» دستور export control صادر کرد: دسترسی هر شهروند غیرآمریکایی — چه داخل، چه خارج آمریکا، حتی کارمندان خارجی خود آنتروپیک — به دو مدل Fable 5 و Mythos 5 قطع شود. نتیجه:…</div>
 <div class="tg-footer">👁️ 1.03K · <a href="https://t.me/danialtaherifar/938" target="_blank">📅 20:19 · 03 Tir 1405</a></div>
@@ -496,10 +496,10 @@ Claude Opus 4.8
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/27ed35fe78.mp4?token=Iphr0G70D0uI0lmZ5GVGLVdVuh5ZFH4_nFz0ST17ZYYpxHC0kBiUWgxefqJXafZYJYwOkKfDIumkfW-Ta7EOzz-9Fd3gH8FN7RGmbIsRu1ULSqECcI18mpnEeI4lh_NdQGJ-r6D7OSLuQ-L5v51A4fYgTH1VT-hmKxLQiZemVBkGg1UPaaJlbMPUV7pxdrMxmh1UwGpAy8b0Sj37XENHqVhvUlInZxqm1m3iJxmNIjtky6rArFxxJ5zLrVjP4KmWhfs7VHv0Ir_sS4YGA8tLlF302ocqvnVlIHZ5p0JUfQ3avOHeS2jpHXBVvra9QtyPzK07JLNyB7doDwtZk_FL1A" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/27ed35fe78.mp4?token=Dat6PttmZopj45m4yl1yyYYsexXauu-HadNqtrvRVaQ1CbSJpiANGqR5Mc7BUNe2mJiiRdwuQGNrjbXUCZnlYorND2lFgYQrv70d4c4Wx4Q6HF2Sjpj6aXkzAsk7crE3OIKtnL-EE-E-KOfOgjZOLeMLTQhQcoP00H9sXdrcuAa-8ye3QpChr2dswATt4Bh2M_bZevAd3nnAiZjdryoHVPFnHLY9S4ZC3O5sbnmuYkAJpUcygfixHElkXQJ7eW6hPPV25MrOJGVOxOKQVRL9RhiUOEmOgHdk6VrMKRRgb8aBs0BkXiaPCwx7p8hjLaUnFd4nxCxE9t5zR2dtLAbCWA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/27ed35fe78.mp4?token=Iphr0G70D0uI0lmZ5GVGLVdVuh5ZFH4_nFz0ST17ZYYpxHC0kBiUWgxefqJXafZYJYwOkKfDIumkfW-Ta7EOzz-9Fd3gH8FN7RGmbIsRu1ULSqECcI18mpnEeI4lh_NdQGJ-r6D7OSLuQ-L5v51A4fYgTH1VT-hmKxLQiZemVBkGg1UPaaJlbMPUV7pxdrMxmh1UwGpAy8b0Sj37XENHqVhvUlInZxqm1m3iJxmNIjtky6rArFxxJ5zLrVjP4KmWhfs7VHv0Ir_sS4YGA8tLlF302ocqvnVlIHZ5p0JUfQ3avOHeS2jpHXBVvra9QtyPzK07JLNyB7doDwtZk_FL1A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/27ed35fe78.mp4?token=Dat6PttmZopj45m4yl1yyYYsexXauu-HadNqtrvRVaQ1CbSJpiANGqR5Mc7BUNe2mJiiRdwuQGNrjbXUCZnlYorND2lFgYQrv70d4c4Wx4Q6HF2Sjpj6aXkzAsk7crE3OIKtnL-EE-E-KOfOgjZOLeMLTQhQcoP00H9sXdrcuAa-8ye3QpChr2dswATt4Bh2M_bZevAd3nnAiZjdryoHVPFnHLY9S4ZC3O5sbnmuYkAJpUcygfixHElkXQJ7eW6hPPV25MrOJGVOxOKQVRL9RhiUOEmOgHdk6VrMKRRgb8aBs0BkXiaPCwx7p8hjLaUnFd4nxCxE9t5zR2dtLAbCWA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">✅
 گوگل از قابلیت جدید «Search Profiles» برای ناشران و تولیدکنندگان محتوا رونمایی کرد
@@ -521,7 +521,7 @@ Google Discover
 
 <div class="tg-post" id="msg-933">
 <div class="tg-post-header">📌 پیام #84</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bB2frk3JFXfgze5_dOP4LL_e_6941D1xIytkfTIrVX3_xonYfXxtJrG5tW7i6L5xYA20cBx-oAEYTx93K543FJJqSykLvu-ka_dPMeVVkdNluP8dm66IDPJQwduqVI6nlGpyLQlr-Sdi9WIdRZXSOlnb-53dzN_Ny75zQD3HM0boGEDihhnRhRthgeh09eVSZW6YpGycgeJmxgvpOp2xGnYJrGJZLr7NmcAzd-9W_j4y954Vn4lg36EbbkzZHZSCY8RTIXlk3WQ_RexTdM-3t7TJu-8XJbgLJopwuau0zbcONiiGRx00e9j0bH8Tb0EL-F6j9KLrxHRFqPW_-OKCgw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sx8zelQzbT_wqPsC3NpQb7O1_MHjaRZjjHFoSv5OsJ5HLUjL7y6Q5slWLw2sE-zC4HaQQPh_ria27NuwJl7fLrraSVzwuzvmFcK5mr25_4jf5m6YxJy5mBU8dhR3tLI-YwBS9ff_yycnqICmP7aBai027pN_EPpwq9zGCMHzxIeMoBP2a7ONYngvLkIIPwSuLAxIn0GMtlt80JRwLpdIVwm_vPW11hjhgcofOOybPOXDytzZ_Yp61NTfe28FLhfWXBHzHCajNzdvofAbbtRUMXhhekX2uv70LPLbq71nnjFLBM48FZ45WUgs5yU4I530DOG_Uobv4d2QTzNGzjvqSg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 گوگل گزارش عملکرد AI را به سرچ کنسول اضافه کرد!
 گوگل رسماً از قابلیت جدیدی در Google Search Console رونمایی کرده که به مدیران سایت‌ها و متخصصان سئو اجازه می‌دهد عملکرد محتوای خود را در نتایج مبتنی بر هوش مصنوعی گوگل بررسی کنند.
