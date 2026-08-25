@@ -291,13 +291,13 @@
 <p>@farahmand_alipour • 👥 63.9K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 23:48:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 00:22:43</div>
 <hr>
 
 <div class="tg-post" id="msg-6642">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">رئیس سازمان اطلاعات آمریکا (سیا) برای یک سفر عازم مسکو شد.</div>
-<div class="tg-footer">👁️ 9.46K · <a href="https://t.me/farahmand_alipour/6642" target="_blank">📅 19:32 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.96K · <a href="https://t.me/farahmand_alipour/6642" target="_blank">📅 19:32 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6641">
@@ -315,7 +315,7 @@
 به غیبت کبری فرستاد هیچ!
 حالا بادبادک هم نمی‌تونن دستشون بگیرن!
 اینها همه پیروزی‌‌ان!</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/farahmand_alipour/6641" target="_blank">📅 14:22 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/farahmand_alipour/6641" target="_blank">📅 14:22 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6640">
@@ -335,7 +335,7 @@
 ‏
 🔺
 به عنوان مثال تمام شعب بانک «ملی» باید تعطیل شوند.</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/farahmand_alipour/6640" target="_blank">📅 21:11 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/farahmand_alipour/6640" target="_blank">📅 21:11 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6639">
@@ -344,7 +344,7 @@
 اسماعیل سقاب اصفهانی، رئیس سازمان بهینه‌سازی مصرف سوخت و مدیریت انرژی، در یک گزارش تصویری به فساد ساختاری در قاچاق سوخت اشاره کرد
 🔸
 او در یک گزارش تصویری که به مناسبت «هفته دولت» در روز دوشنبه دوم شهریور منتشر شد گفت: «هر دو جناح سیاسی کشور در قاچاق سوخت…</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6638">
@@ -432,14 +432,14 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post" id="msg-6630">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">سرهنگ نصیری  وقتی مصدق به طور کاملا غیرقانونی  مجلس رو منحل اعلام کرد،  که فقط در اختیارات شاه بود،  شاه نامه عزل مصدق را داد دست  سرهنگ نصیری فرمانده گاردشاهنشاهی که ببره و تحویل مصدق بده.  آیا شاه حق عزل نخست وزیر رو داشت؟  بله! طبق ماده ۴۴ و ۵۸ متمم قانون…</div>
-<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/farahmand_alipour/6630" target="_blank">📅 17:06 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/farahmand_alipour/6630" target="_blank">📅 17:06 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6629">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e8DN9iWdtXBdbE_bG2eHrpNOOhPojTyFnuQsG6JnjoUvhu_eljsqsuN-T2wy3--a9YTYTJ4gKgfpHNsBkWmUfuT7wHQek4Yhv3LYvRO9DhWE0AUVOCjONUovjCPhAYitEZo14N3ob_aP8Ti4GKiqraVFw6oTzDbwgViZugcRHRfF14wT-JVzN9H_t2167O0UvuDQRMdq_YmiV49A7xb13kgUiXVsNiw7TLFYSgDZuIuM_AMWrnhe2IiUwmQoB4gHrxXTUnvB6lWNwbIjc9mo4LORCgxBX241CY4c40P40U_s-JTiqAVqP5NmyCb_-DAqzMr48RjDpMUH05F9854-vw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد هم یک انتخابات نصفه و نیمه برگزار کرد و طوری انتخابات رو جمع کرد که تعداد حامیان شاه در مجلس زیاد نشن!  و مجلس رو با ۸۰ نماینده بست!  شاه در عمل مانع این کارش شد؟  نه!  رفت رفراندوم غیر قانونی و مضحکی در کشور راه انداخت و مجلس رو  به طور کاملا غیرقانونی…</div>
-<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/farahmand_alipour/6629" target="_blank">📅 16:42 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.4K · <a href="https://t.me/farahmand_alipour/6629" target="_blank">📅 16:42 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6628">
@@ -451,7 +451,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post" id="msg-6627">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">اینجا بود که نمایندگان شاخص مجلس،  افراد ملی‌گرا،  چهره‌های اصلی در ملی کردن صنعت نفت کسانی که تریبون میدادن به مصدق و  مردم رو جمع می‌کردند  در خیابان‌ها در حمایت از مصدق،  فردی که خودش مسئول خلع ید انگلیس از صنعت نفت بود،  شروع کردند به انتقادهای تند که…</div>
-<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/farahmand_alipour/6627" target="_blank">📅 16:32 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/farahmand_alipour/6627" target="_blank">📅 16:32 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6626">
@@ -850,7 +850,7 @@ https://l.euronews.com/UtiQ</div>
 ضد اسلامى انجام داده؟ پاسخ صريح : نه!
 آيا مذهب شيعه، مخالف اين كارهاست؟
 پاسخ صريح : نه! به هيج وجه!</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/farahmand_alipour/6579" target="_blank">📅 13:40 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/farahmand_alipour/6579" target="_blank">📅 13:40 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6578">
@@ -1000,7 +1000,7 @@ https://l.euronews.com/UtiQ</div>
 <a href="https://cdn4.telesco.pe/file/c3f7a1d6d2.mp4?token=eaUHtEgJg5kgQ44a93uc9nhpKQRp66XbdMKZpCcvPG35w2c7grFO1SSdmEvPeT-5cDGiJ2KibGse_m3cuXsvJBCirYjONjBiS_9Y6nhrFTtqWyyWjrZ98eX-F8_RYgTTLhuosdPJdQm-l-JxsVS5jbxprNpF5q85tPQvzR7CirgHSTABjNk80piQU4p4PzRqKhJc3MN5uuSHjW5QabUFN2LPBZpmp-KLxhCtZCfpuyZB07OuiBjyhWIK_pkxB4Sb3h5DafuLuHs9fA0DaENQH-6FYz-_ec6edWLEPFmTkWwYIu1amPuwHN78Qhxhdokqx7ml5WPQ9KeyWnm_xQ22yg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">این صدای عروس «معصومه ابتکار» است! و این خونه عروس معصومه ابتکار است.  که با لحن تمسخر میگه اون پرچم آمریکا زده به خونه‌اش، من پرچم امام حسین،  حالا نامه نوشته به مقامات آمریکایی که من عاشق آمریکا هستم و بچه‌هام حتی فارسی نمی‌دونن</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/farahmand_alipour/6564" target="_blank">📅 09:06 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/6564" target="_blank">📅 09:06 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6563">
