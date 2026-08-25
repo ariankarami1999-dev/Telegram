@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 19:36:14</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 20:33:12</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -300,7 +300,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/I5N81YekZpr0O3ek6Y_YoLTzA82jd114HSyz0JEkuF3kF2e9g3H5Qe7nD2KzR1khtGTBtDnK2GzzB3O1x4lDPtZKMcYIdkujXHQWD4quXF_OfDAzXWkC-Oh7rQAtwnCV8IjW7N9V2wNGEmFLFfIMbhGq-Kt9kUhuYyEZxOOOzUMJNgzVjhtAeu_7hKaIjAS-BVmd_ESsislDkPuCYVDdHUw8DWM4m632KlOJM_52vA92fL3vEHxvae6pwJZc3w69EzqwMFgQPICDEf1i8MCeZXKGBtX61MFNlfcH7UlRNNUzz6rZwOmCfY19zwh1oSD91hYXyza9bo7gXUQFsxwMmw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده    @danialtaherifar</div>
-<div class="tg-footer">👁️ 307 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 308 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -831,7 +831,7 @@ define('WP_ACCESSIBLE_HOSTS', 'torob.com,*.danialtaherifar.ir');
 
 <div class="tg-post" id="msg-903">
 <div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/V9hZYwqrol7MvuUAXxCmbKzC7sShiLsW2_sgDNffI7s5OVFSqo4tv97zMc04UmusEklvjWXLgTuzzXDPBmp67vTMtlA-JkcrhhGXPh_x8X3-qafUXRKrQxX6N8U-WeJZ70GBCh42Hf2vMFrIPIJ6hDPb91pmsHOSroqriyYwiPFlxGa06AtgmNiXGs-eNrzw0iIbDCP51lf1N6uhM1oXEPm6hPmPea6fQnypoF5iklmTL0T9lPH7SHeV_8MMeCjAIesBBzMHw0irPLGOk8YWv5XDT-Eyxwm1tf5ik6RNhhG3sc1FNTCZGjcqi3fT6Phlo6d_wixzDOBBLOPNSj4zuQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qFIygm7LlQsCVGyIYPiRL5U6UPLxLmEIXW2HREnmWhnZOUX3YDr_cXoRFOR5NW1WLkkRvgGeLwIyNgmFduOemmGvCznQsJokZAYtjMX2qH32bG1SaB-WrvY5wxaj3ivebjgoyudpJL8NCu6WFz5ioMp1kW4q8yAmY5I63wXOQ718eqmyyAGzEDJGte6AZzLLXM0bmksfiVACjiOfrgPtrHllhWcSF2hhtTJw4pqEsS_dwroDwaBw2TkobuOzFNB73xuhvzV6s3tM-dmQmrXM2zvK1f4I5ZXrdqCDxDFd1vWMeGR1FavZn9l1oSQ1q6RBYrCPvfalHzf4jM8VRy00rQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 تایم‌فریم‌های هفتگی و ماهانه به سرچ کنسول اضافه شد.
 از این به بعد می‌تونید روندهای بلندمدت رو راحت‌تر ببینید و تحلیل تکنیکال بلندمدت روی نمودارهای سرچ کنسول انجام بدید.
@@ -1068,7 +1068,7 @@ GFM (مدل گراف-محور برای ارزیابی اعتبار محتوا)
 <div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/T2HpV9dtevpCsbBti11GiaSNdMegpAyfIyfoiy7iCGEMlTzL9b0VcfcJo15tCmo8XhmIbyQqLiMJecD4TDssrpeolrV_Pv-4CVyvXaVtI9hPVuHie501q_8-OFyzfzs2TqZgrTmrWXmgoY7_ikhl8-sYiY_53GKPo_aeH4Gaoxvtnvp8wnBYBwZjnyXNe7N2tLgx1DLXf4GFEXyosXkJs3FaTWQlSOTPcpPT_--dl7rpGF7csL7HyVtflslqs9rMZWafkFq6QRoPHujQr5svCvspOm6FthXCGbCYMfz79Jsx3OkEwjHV5uekQU1jLTtwt7eYTyWbHZr4W36reptVVQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Yxh-IJF9PnMAt4tml9LwhsSaikGxCH567DXjQZG6gEPwUkU3vk9_aHorj6la20yQTfNO_SXUZBsyuQqQZ6I8k__y_sG-PZ4NAp5O3_mS8Nql-hAUCnVNvXRqS1HauXfXX_1SdTTKKYRS7emIlAcXGFPn9vudj0s_vZOLtGazF-y7PC1VWz41DgEPQ21qHjMGjQ9v7aNkGDSB2d1ISdlbhiyZxR0XAIO-CABoMsQ0f4Jsw_d00P1KEvPlEGNo2AuK8Rxvf-25yRDTXhYAqhF7CXt-HJlESFXx4vmS-XUcUxP97bF22uwGuqxW_UNWfMyQ2sZPU-svsecmQyWNh7r-pQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/P961ggTWoYPt6pQBONJ7uBzksKx0ydVJsQ4EYA1MlUI_6VkQtA2eq2Z4mxvwcZ_TfLxJmbNxK3uB3JjAA9ZaPgR_S5kmiHEevyzkjFUDpG4ofs7fnBBBKnGf--rfmXMr3-EJpyltbSNbNQvbNVZN0kffAwMOIyLd3erNrVTsV-60UcLQPeRakD6SwP64WKFh-_nOcdTMzuH5DjZcbvDGftCqZ5Nuq1nDEQuwi-l7yFWpEKkOvkYARBwb15sS0pZRF5y6F3d8BG9ZhIWjGq0F29iDSrwwo1-o-znEca3shLIZpu6JR8K2glMxnSOEQ1L-XjGWCjDkG2ESUsunWhAsHg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">📢
 آپدیت جدید گوگل برای داده‌های ساختاریافته Event و Recipe
@@ -1450,7 +1450,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-870">
 <div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WvFYjFQCuV05kszDluYdZVZIH3AyurHXWLuiB0AoVqSFLS2JC0UWDE8zHEzggSyUwH1HEQ8GRaDg8ITgjX09H1i3ZWq297Bbxb88H-4_sTiJYPK2ythtm9Et0QtCqjGTYcmVenmBJSc8Tj6rTaFDwGJOB5psniqoLRowjtu4stAnBGlIK6vSTc0bvRGA7AMU8x3vU_vSnBbbE9Yt4T2v9DlILcSObCzAGOR7z4ohT_mToT0aAuZoEtewHXbhq2ODfNtCtBg4ptoCE-bptqc4PyUiCi82o5lMivKZUgNqx4hzZ_LSYeSW2P3OGVi-pGiKDFgAnQtmfrmaL-DeQEM4QQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ItLEKuJvf3oQbUy6vk4fK9XDuQZZrG7jVDhMiB-wP5hd0qt_ASZqojw-yyiaQBBTxAL7KnEpE52iotICOhb-KpEZqElOXBkaUTZK_OZ-r4CvZid8ZOtgmWbOqouRc5f4EwfOXGGEjh3henZBmvYYDmnJJ2iwqrTf3dp2TM2aUp9fNOVVkeCFSMEmAa09rcqO3E2hLrMQJ6f8-5wq3k8z8-Rh3t5zpUB1iyBGrxhO8vDBp7q9qhKPSzqJOdVdymzDltgRs_-j2AmbI_s7qgesZohsa55J2ZVOy5vDTjQTw_f5AbLxEn9bXAnfPCdN8phRhStA-N679JlcJRlZr3kgRw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔍
 رندرینگ سمت سرور در مقابل سمت کلاینت: توصیه‌ های گوگل
 👨‍💻
@@ -2438,10 +2438,10 @@ neural networks
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6689285f08.mp4?token=HG13TTumYbtKqOyMqwuBB0GGZi3AqH3Nzgh34HC6zj4zoO1alfDJCeupWFfOcJnjyVoqlwINYXYjl7HfbC6mHs6a-mRa2nA2GcBB5KzturrUCsaEoV0UkZ-QuNcY_cgzFrqP5ag6P8jssdMgEHb4MP68HEFq3_c8D-M10Hrm2d_rxV91DZUi8IDYi_4QYRHiC-mNT2txGg8S9rFZQvrfcUpj9dSBKrMtg8FARI_7d7HEpFGnEaOyROUrSctnMD8s4zbifra-MjyuiW8kvNjB6LbYpTL29_LRmWn6qczAxZVIcLUubUdz-9mEOODFSaF1Q-bQSF39paLIqKYAjq62hg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6689285f08.mp4?token=s1huTPjdtpVN8MoN4K1gOi7T-Y2jyT5H-iyAAArAglsbRxLluCIPd1gNy3Yfn6JdFHgoXtoyJcH7qIHLRhlZ6B_apPewB9TTUtlUn8tWtTSkPrnaa14Z96ktah1YOEyW7OLQrZRW0bkqxaDLtNsnA43xKS-VGO_BGqebbl3eEZzLKDc1-BVfZLcEq3fluPDK25OqYpcddum1e9wNpFe8nztIw-FfvTirCzSn99I7SKKwfu0GGO0iS8LbY-BW3Dq6kSYHqRE92VLmOOn5-fiKZW3nAjljvwnupqTWh--uJLzg568GQ3kiaadzfZTlAHbGYXrHHg94PkBgDJzghQoRPQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6689285f08.mp4?token=HG13TTumYbtKqOyMqwuBB0GGZi3AqH3Nzgh34HC6zj4zoO1alfDJCeupWFfOcJnjyVoqlwINYXYjl7HfbC6mHs6a-mRa2nA2GcBB5KzturrUCsaEoV0UkZ-QuNcY_cgzFrqP5ag6P8jssdMgEHb4MP68HEFq3_c8D-M10Hrm2d_rxV91DZUi8IDYi_4QYRHiC-mNT2txGg8S9rFZQvrfcUpj9dSBKrMtg8FARI_7d7HEpFGnEaOyROUrSctnMD8s4zbifra-MjyuiW8kvNjB6LbYpTL29_LRmWn6qczAxZVIcLUubUdz-9mEOODFSaF1Q-bQSF39paLIqKYAjq62hg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6689285f08.mp4?token=s1huTPjdtpVN8MoN4K1gOi7T-Y2jyT5H-iyAAArAglsbRxLluCIPd1gNy3Yfn6JdFHgoXtoyJcH7qIHLRhlZ6B_apPewB9TTUtlUn8tWtTSkPrnaa14Z96ktah1YOEyW7OLQrZRW0bkqxaDLtNsnA43xKS-VGO_BGqebbl3eEZzLKDc1-BVfZLcEq3fluPDK25OqYpcddum1e9wNpFe8nztIw-FfvTirCzSn99I7SKKwfu0GGO0iS8LbY-BW3Dq6kSYHqRE92VLmOOn5-fiKZW3nAjljvwnupqTWh--uJLzg568GQ3kiaadzfZTlAHbGYXrHHg94PkBgDJzghQoRPQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔍
 گوگل با ۶۰ لینک در AI Overview!  آیا کسی روی لینک های پیشنهادی کلیک می‌کند؟
