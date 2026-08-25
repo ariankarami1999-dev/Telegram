@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 07:36:06</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 08:31:36</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -300,7 +300,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kSzJMNgUEEpP9W7fB5qfY_jxO_s3JGKuA_E_u0stqcMJ_wrul_4KI86kzTo3HwI8MUidjRm_NbX0QdnEY2JuG5xxpJLNkWnQBACgzatvqUSnCbbPdCOzKfto35xT0axFx09K71pTlF78s63MgqeEM3kSkX68rfSLtFP-q8Xn-GH5PEtlsMHDcQJCMruWdcIxC1KlEa2Bj8rXxvhVpzN6ZF6_rBhsbLHYnRpv2VLRV6ZOeNLDBxmCt8LIlm-Upb-D7-VKhNzvmgbLctXd_KZWZ0_l6-gdoGFL-tCR9xNAWePKn69CmB5z5krTTG5sqcXjbzGOvKs9TXZpNTR6McKjLA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 GLM5.3 با رشد خیره کننده ای معرفی شد.   z.ai این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده    @danialtaherifar</div>
-<div class="tg-footer">👁️ 304 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 305 · <a href="https://t.me/danialtaherifar/952" target="_blank">📅 17:49 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-951">
@@ -311,7 +311,7 @@ GLM5.3 با رشد خیره کننده ای معرفی شد.
 z.ai
 این مدل رو به zcode اضافه کرده و بنچمارک‌های جالبی هم به دست آورده با اینکه بر مبنای مدل قبلی کار شده و post-training شده
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 359 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 360 · <a href="https://t.me/danialtaherifar/951" target="_blank">📅 15:55 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-950">
@@ -320,7 +320,7 @@ z.ai
 <div class="tg-text">✅
 اضافه کردن پراپرتی های سوشال به سرچ کنسول اضافه شد به صورت سراسری
 @danialtaherifar</div>
-<div class="tg-footer">👁️ 564 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 565 · <a href="https://t.me/danialtaherifar/950" target="_blank">📅 23:51 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-948">
@@ -339,7 +339,7 @@ z.ai
 
 <div class="tg-post" id="msg-947">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QeOpNwBkKy5PA_3jCJscoHyrleuyPpPuK4jmbwNwaTNUmov3Vt17-yahTKUEkqbsboOalAuFbJHk7I4M9n-fe_dge8j9gpfauXktANGwWHo9etWtOBt_M7LxpZ740hjzeSJM0c5wuS86bsYr0kkcq9NNU_pEtg7uDyv4NeOsGQvnZ5g6IFWDfzG7Mx9vlDzPM28-JQ5UEeZOg51u1QHMz8zcaXRHguyb0XlkhSG3kxnDL2oiYBHAK21fPWaQxegHQa1mYVCpYaLLSCMmqKDw-mgeYGt-rBLaPdyGorHhCN8QAeh8PkIDPjCMw8gLFm8A9nHnLNSGEr2sEHhsP3xrJg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QGGDdhwZXuvIFpsghb_6-oR4h_ucO8YL4O9MHDp8Ov4ysYLZAuP46_L6acXxXa1V8NyLNfqJEkoXbQEoU79TJ-mpb8lBw5_peY4yr9yYQXVg6UMfK3Ah1N8ZlmVDeuC997aaHn7CdT7tbbg7gLm__tSqeAIpQlDcaGJ5CUyUWI3ZZ_mZe1bKZQDg1pW6IHyMKrrIEaYl4-D7WAIBFS1062briQB0v6zcDHOh4PvTi6yxzSfvjwQnObV5ljPEQqPpkYy6FCoT6sStB5xHTPFJVqV3DTZFRtZpLg81sN4Qwgbrf5IvnZuL4hqILUxn93jgwtrqJ9s4HCp72rY36QqiAQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 علی‌بابا هم اعلام کرد که مدل Qwen 3.8 با 2.4 تریلیون پارامتر و به صورت open weight به زودی منتشر میشه و در حد و اندازه های مدل های سطح بالا بعد از fable5 هست.
 خواهیم دید
