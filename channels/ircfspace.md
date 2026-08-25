@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 11:06:14</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 12:01:20</div>
 <hr>
 
 <div class="tg-post" id="msg-2568">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 8.84K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.99K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2567">
@@ -322,7 +322,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2566">
@@ -336,7 +336,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2565">
@@ -353,7 +353,7 @@ github.com/telegramdesktop/tproxy-server
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2564">
@@ -369,7 +369,7 @@ telelakel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2563">
@@ -388,7 +388,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2562">
@@ -404,7 +404,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2561">
@@ -418,7 +418,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -433,7 +433,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -448,7 +448,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39.5K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.6K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -467,7 +467,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 41.5K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.6K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -486,7 +486,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -501,7 +501,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.5K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -516,7 +516,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -531,7 +531,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.5K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -554,7 +554,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 48.5K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 48.6K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -586,7 +586,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2549">
@@ -706,7 +706,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 59.4K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 59.5K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
@@ -741,7 +741,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2539">
 <div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/UQEF85Pae3kutvzaPgQGqS0KJ4h4ZhjdK5GxaaOUy4KCiD0XcvGo-JE72KAap58JAbBnVj334YCk6w7QUUdaESAYIj0m7G7B2h9uAAWMudLZGqz8KL6gz0cGQrwl-l132ksoQ4CP9_bxYjvRTBo2pg1tM25iTF2-Zow_6EYqkxcJRqnLW-cOJ15wxiZ4UvN3VWFHm-gNSavvnVLMY_DNLtnTNZ40Ff5pJIFd5fDPeatc643_kE-28OwR8WwTPjPk_7J7c4PlK6FLMPHJTY3Rd_tN9Rhz_WOgjQj6XYueBAQuWuqU6YQrbwt4L-Z4318mmNj4wiuGC2ZRqYjpaz6PPg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/pLowD0CxZb7kDTmCDFRX4Awtn-4ZtfcsEQSR1yB350HHQ1TjNv5AHbqDa_2aLdH5xPRzyCTaG2S7_-NOPDChlhBkG0UjjrHkDiI0SYv44mJ1mcbtL-nNUoSdV-KwjrrSU7bgbe8nqRXOfCbw8vR_nft8srf6VlSHFgyPwlmMyFEFE4hg90k6SD7v8cygt5IW5ySoBRAzbm9D53BbFk22fmeECS23tbm0GBV7zSKEeZGPeqPjIvdvznxeG8JOOVkVam6rMUMoNBRbchLlIKpowlRpVAEJbxo9BC-WH7r1dAE0ybkPmTVX-Hmrx0jH3QJVBxXkIqKZqaG6Vgc2IdkPvg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جدیدترین داده‌های مرکز آمار ایران نشون میده در بهار امسال ۶۳۰ هزار شغل صنعتی از بین رفته و سهم صنعت از اشتغال به ۳۱ درصد کاهش پیدا کرده.
 حالا این آمار رسمی مربوط به مشاغل صنعتیه، ولی فکر می‌کنین آمار خسارتی که بعد از قطع ۸۸ روزه اینترنت به درآمد و مشاغل اینترنتی وارد شد چقدر بوده؟
 🔗
@@ -751,12 +751,12 @@ shara77miaa
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/ircfspace/2539" target="_blank">📅 17:16 · 12 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2538">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WbaMfvrJVqA7Vo7mi_Ci7C5n-lnhSz7N3xKl62QuRfqgGDEwuBAD3F_jlDtzGlOWFjh3kuVX9c28yysnkYfj5Lu6Ze4Mx5_jgZRG5P3K1PH2xWfiG7EfmLUdHku0swBCmXDv1hEC0UWlN-T9uZ8DZsjdGb74N2cZTRhxcoADeYuqgvooNeg_UoaGNAbHJuHatBdP-8-UREryeTYBEQxzYFnvF4EcCcrhw27cxLdI0XcnfBaKls_PFFj_N0HI5dnhhU0D8QbDirCmEV1EYSF7adY25UAkviYL5xHLQfAOrU7xV3ihFUEtLy3D-qINEvgcO89VnxE1Fg3xdR2SBfIX4Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MHg1OGU2pJ6BOweLQ39uuiwNp91NjtPERcek-mtve2tmHxfAF2grNrkEIAZF7coCmGFdu11gcH_F5LiXFVFHarIeg4-nwvs7FNZKQfzpe2JYV2NMehDTwnmP8bIrgxXxA9FJVtnMPmE9FPm5yeunEfsPc-8Uh2WqnfJlgR9ZWlDpcmz6T2IDNBF-DfvtvhTKnFYloTHXDL5qq_qZadhd5dPnS6_HyfQj2O2fZjQPgD6ms1RbhHL8HbO9o5XI-5tctAfyibgTU4d11vehMmUaH0DpoT9TcD2dx4d0fuSaNkgMTph7RKqT5QU6gh7GjTCWB7wYujXULU6BVdaSmUNn1g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چه کسی و با چه مجوزی تصمیم گرفت ضریب بسته‌های اینترنت بین‌الملل رو بدون اطلاع‌رسانی تغییر بده؟
 قبلاً ۵ گیگ اینترنت میخریدیم = ۱۰ گیگ داخلی بود! و فقط پول ۵ گیگ رو میدادیم. الان پول ۱۰ گیگ رو می‌گیرن!!! فقط نصف اینترنت بین‌الملل میتونی استفاده کنی! بی سر و صدا دزدی میکنن با عوض کردن مدل درامدی!
 غرامت قطعی‌های ماه‌ها اینترنت هم هنوز پرداخت نشده. این دزدی سازمان‌یافته‌ست که با حمایت وزارت پست و تلگراف اجرایی شده !
@@ -785,7 +785,7 @@ github.com/shapeshed/aerial/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/ircfspace/2537" target="_blank">📅 20:26 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/ircfspace/2537" target="_blank">📅 20:26 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2536">
@@ -1020,7 +1020,7 @@ github.com/immaghzbad/AetherST/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/ircfspace/2523" target="_blank">📅 18:28 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2522">
@@ -1111,7 +1111,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/ircfspace/2518" target="_blank">📅 18:33 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/ircfspace/2518" target="_blank">📅 18:33 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2517">
@@ -1772,7 +1772,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 44.7K · <a href="https://t.me/ircfspace/2476" target="_blank">📅 07:48 · 16 Tir 1405</a></div>
+<div class="tg-footer">👁️ 44.8K · <a href="https://t.me/ircfspace/2476" target="_blank">📅 07:48 · 16 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2475">

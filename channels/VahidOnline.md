@@ -292,7 +292,7 @@
 <a href="https://t.me/VahidOnline" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 پیام مهم:@Vahid_Onlineinstagram.com/vahidonlineتلاش می‌کنم بدونم چه خبره و چی میگن.اینجا بعضی از چیزهایی که می‌خواستم ببینم رو همون‌جورکه می‌خواستم به خودم نشون داده بشن می‌گذارم.به لطف حمایت‌های ماهانهvhdo.nl/patreonو گاهانهvhdo.nl/paypalممنونم</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 11:06:14</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 12:01:20</div>
 <hr>
 
 <div class="tg-post" id="msg-78025">
@@ -312,7 +312,7 @@
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 96.8K · <a href="https://t.me/VahidOnline/78025" target="_blank">📅 09:12 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/VahidOnline/78025" target="_blank">📅 09:12 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78024">
@@ -326,7 +326,7 @@ VahidHeadline
 UK_MTO
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 203K · <a href="https://t.me/VahidOnline/78024" target="_blank">📅 01:53 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 214K · <a href="https://t.me/VahidOnline/78024" target="_blank">📅 01:53 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78023">
@@ -353,7 +353,7 @@ telegra.ph/bessent-08-24
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 264K · <a href="https://t.me/VahidOnline/78023" target="_blank">📅 22:04 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 270K · <a href="https://t.me/VahidOnline/78023" target="_blank">📅 22:04 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78022">
@@ -367,7 +367,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/78022" target="_blank">📅 18:41 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 288K · <a href="https://t.me/VahidOnline/78022" target="_blank">📅 18:41 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78021">
@@ -385,7 +385,7 @@ realDonaldTrump
 realDonaldTrump
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 293K · <a href="https://t.me/VahidOnline/78021" target="_blank">📅 16:26 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 295K · <a href="https://t.me/VahidOnline/78021" target="_blank">📅 16:26 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78019">
@@ -405,7 +405,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 273K · <a href="https://t.me/VahidOnline/78019" target="_blank">📅 16:05 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 275K · <a href="https://t.me/VahidOnline/78019" target="_blank">📅 16:05 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78017">
@@ -437,7 +437,7 @@ VahidOOnLine
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 247K · <a href="https://t.me/VahidOnline/78017" target="_blank">📅 16:01 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 249K · <a href="https://t.me/VahidOnline/78017" target="_blank">📅 16:01 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78016">
@@ -457,7 +457,7 @@ VahidHeadline
 این عدد ۲ از کجا پیش‌فرض گرفته میشه برای تعداد جناح؟
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 213K · <a href="https://t.me/VahidOnline/78016" target="_blank">📅 15:57 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 215K · <a href="https://t.me/VahidOnline/78016" target="_blank">📅 15:57 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78015">
@@ -471,7 +471,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 202K · <a href="https://t.me/VahidOnline/78015" target="_blank">📅 15:53 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 204K · <a href="https://t.me/VahidOnline/78015" target="_blank">📅 15:53 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78014">
@@ -486,7 +486,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 192K · <a href="https://t.me/VahidOnline/78014" target="_blank">📅 15:52 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 193K · <a href="https://t.me/VahidOnline/78014" target="_blank">📅 15:52 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78013">
@@ -503,7 +503,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 225K · <a href="https://t.me/VahidOnline/78013" target="_blank">📅 15:50 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 228K · <a href="https://t.me/VahidOnline/78013" target="_blank">📅 15:50 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78012">
@@ -521,7 +521,7 @@ VahidHeadline
 hra_news
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 237K · <a href="https://t.me/VahidOnline/78012" target="_blank">📅 15:47 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 239K · <a href="https://t.me/VahidOnline/78012" target="_blank">📅 15:47 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78011">
@@ -535,7 +535,7 @@ hra_news
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 301K · <a href="https://t.me/VahidOnline/78011" target="_blank">📅 04:44 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 302K · <a href="https://t.me/VahidOnline/78011" target="_blank">📅 04:44 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78010">
@@ -548,7 +548,7 @@ VahidOOnLine
 SecScottBessent
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 286K · <a href="https://t.me/VahidOnline/78010" target="_blank">📅 03:44 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 287K · <a href="https://t.me/VahidOnline/78010" target="_blank">📅 03:44 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78009">
@@ -587,7 +587,7 @@ SecScottBessent
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 285K · <a href="https://t.me/VahidOnline/78009" target="_blank">📅 03:43 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 286K · <a href="https://t.me/VahidOnline/78009" target="_blank">📅 03:43 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78008">
@@ -615,7 +615,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 308K · <a href="https://t.me/VahidOnline/78007" target="_blank">📅 16:52 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 309K · <a href="https://t.me/VahidOnline/78007" target="_blank">📅 16:52 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78006">
@@ -634,7 +634,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 305K · <a href="https://t.me/VahidOnline/78006" target="_blank">📅 16:49 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 306K · <a href="https://t.me/VahidOnline/78006" target="_blank">📅 16:49 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78005">
@@ -653,7 +653,7 @@ VahidHeadline
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 350K · <a href="https://t.me/VahidOnline/78005" target="_blank">📅 04:56 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 351K · <a href="https://t.me/VahidOnline/78005" target="_blank">📅 04:56 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78004">
@@ -679,7 +679,7 @@ VahidOnLive
 VahidOOnLine
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 356K · <a href="https://t.me/VahidOnline/78003" target="_blank">📅 18:17 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 357K · <a href="https://t.me/VahidOnline/78003" target="_blank">📅 18:17 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-78002">
@@ -729,7 +729,7 @@ VahidOOnLine
 VahidHeadline
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 294K · <a href="https://t.me/VahidOnline/78000" target="_blank">📅 17:04 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 295K · <a href="https://t.me/VahidOnline/78000" target="_blank">📅 17:04 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77999">
@@ -833,7 +833,7 @@ VahidHeadline
 isna
 📡
 @VahidOnline</div>
-<div class="tg-footer">👁️ 371K · <a href="https://t.me/VahidOnline/77991" target="_blank">📅 23:13 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 372K · <a href="https://t.me/VahidOnline/77991" target="_blank">📅 23:13 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-77989">

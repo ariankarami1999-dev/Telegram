@@ -292,11 +292,193 @@
 <a href="https://t.me/akhbarefori" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ﷽تبلیغ درکانال خبرفوری@ads_foriارتباط مستقیم با ادمین تبلیغ@newsadminجهت رزرو تبلیغ تماس بگیرید. 09018373801؛ارتباط با ما@Ertebat_baforiiتبلیغ در ۳۰۰کانال تلگرام@Maino_marketer</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 11:06:14</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 12:01:20</div>
 <hr>
 
-<div class="tg-post" id="msg-684161">
+<div class="tg-post" id="msg-684172">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/845a0dd0f0.mp4?token=AwReGE5FO_5e-Q0c_cI8WX6dPzT7d-KeqcJlzxFT8TDu1rZ_sNhNkTycDk1pnI-mQKUUX78cEJpL7krNiN1U6uptjcbrroCURcZVA5gHrIelvPPriDePnp5FYnuRi-4Zzq3_-Mo3ds1WiHtnOtqtiTL74MXxNmMzxOFWtBjF_kobn8PwW5dZ_JW3nAbtmerhr-RX2_P9HFp-ifmB5mgrP5DPhYq_-NVryF42sb3JgLgroxF24xA-LS14O-EXPeKvjvucsCO1t6DZtsklJNm6r-ThJUFVsOatez9-VeclkGhDscq1dY5hd-SOEswQqd_iIvIwGlbM8bwwqNy7gw8tLQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/845a0dd0f0.mp4?token=AwReGE5FO_5e-Q0c_cI8WX6dPzT7d-KeqcJlzxFT8TDu1rZ_sNhNkTycDk1pnI-mQKUUX78cEJpL7krNiN1U6uptjcbrroCURcZVA5gHrIelvPPriDePnp5FYnuRi-4Zzq3_-Mo3ds1WiHtnOtqtiTL74MXxNmMzxOFWtBjF_kobn8PwW5dZ_JW3nAbtmerhr-RX2_P9HFp-ifmB5mgrP5DPhYq_-NVryF42sb3JgLgroxF24xA-LS14O-EXPeKvjvucsCO1t6DZtsklJNm6r-ThJUFVsOatez9-VeclkGhDscq1dY5hd-SOEswQqd_iIvIwGlbM8bwwqNy7gw8tLQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+ونس، معاون ترامپ: باید به یاد داشته باشیم که کانادا یک ایالت... ببخشید، یک لغزش فرویدی بود؛ واقعاً اشتباه لفظی بود؛ کانادا یک کشور است!
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 1.03K · <a href="https://t.me/akhbarefori/684172" target="_blank">📅 11:59 · 03 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-684171">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/b3271fe998.mp4?token=F50JQeBcqfItygwsV1xagBoviATlSOJWpLQcEwJGvMKAoLrO3zxntXIE1RFTAzqV2vtQK3IuCDDLlZikovCxW17N_u8MivGvTOoATPZzjmXLj-cyaRN6IixkvayNZg2K7B7TJKxV_QhHle48Ly9OWwSlLk2tFP3QVn2IHXOJVxRQOYXArUxB5vbGU1XdCKlIvbXuVKy6KsrKlD5C2zyn5YBhD3iBue18c4QMQsey3lx6ND2l7_8ULqsM0-KCvTij9ViwYYSRfgr9xjMi7h2N83UU8_NSVN-LNbczzBAQG78ZZCY9kcwJFLSzb5Eg5TdtPluto5A3iU8UoJY_d5dFv4smPQMFBIbeACcZXBXZ-UF7ArwnSCPDi1ByQtEVmA4e4D1N-QkR9op7nTlprNmqHgq6-fhXPNPJKc78ltskkr9OyuREKebkIZfRLNOzh4T_U21EkXMY0XDajpeT2X5oKM2R3wgN28niQHmA4cV2owAtEbrky1SEKJQx0RQadVE4iyZIdjZ45v9dmOdtN1RXdK6b-QJgSTBx6uJPpO6ldu9jhWaUOb5TysM7a5R9fzo5dcRwpobq5Ns1Xq9shG_BfkKTN481mJWCFpR-tlQaMfhq3EuMayOlmGoiE2ctOsSaAGmF58jxC4Iu4t902vgUib4R9uqAM6ZM2k2U85vANFA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/b3271fe998.mp4?token=F50JQeBcqfItygwsV1xagBoviATlSOJWpLQcEwJGvMKAoLrO3zxntXIE1RFTAzqV2vtQK3IuCDDLlZikovCxW17N_u8MivGvTOoATPZzjmXLj-cyaRN6IixkvayNZg2K7B7TJKxV_QhHle48Ly9OWwSlLk2tFP3QVn2IHXOJVxRQOYXArUxB5vbGU1XdCKlIvbXuVKy6KsrKlD5C2zyn5YBhD3iBue18c4QMQsey3lx6ND2l7_8ULqsM0-KCvTij9ViwYYSRfgr9xjMi7h2N83UU8_NSVN-LNbczzBAQG78ZZCY9kcwJFLSzb5Eg5TdtPluto5A3iU8UoJY_d5dFv4smPQMFBIbeACcZXBXZ-UF7ArwnSCPDi1ByQtEVmA4e4D1N-QkR9op7nTlprNmqHgq6-fhXPNPJKc78ltskkr9OyuREKebkIZfRLNOzh4T_U21EkXMY0XDajpeT2X5oKM2R3wgN28niQHmA4cV2owAtEbrky1SEKJQx0RQadVE4iyZIdjZ45v9dmOdtN1RXdK6b-QJgSTBx6uJPpO6ldu9jhWaUOb5TysM7a5R9fzo5dcRwpobq5Ns1Xq9shG_BfkKTN481mJWCFpR-tlQaMfhq3EuMayOlmGoiE2ctOsSaAGmF58jxC4Iu4t902vgUib4R9uqAM6ZM2k2U85vANFA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+اعتراف کلینتون: مصرف گسترده مهمات آمریکا در ایران، توان واشنگتن برای دفاع از تایوان را محدود کرده است
+/
+تمرکز بر ایران و خاورمیانه، ذخایر تسلیحاتی آمریکا را خالی کرده است
+🔹
+هیلاری کلینتون با اشاره به مصرف بخش قابل‌توجهی از مهمات آمریکا در ایران و ارسال تسلیحات به متحدان واشنگتن در خلیج فارس، نسبت به کاهش توان این کشور برای مواجهه با بحران‌های احتمالی هشدار داد، در صورت اقدام چین علیه تایوان، آمریکا ممکن است برای کمک به دفاع از تایوان با وضعیتی دشوار روبه‌رو شود؛ چرا که ذخایر تسلیحاتی‌اش پیش‌تر تحت فشار قرار گرفته‌اند.
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 2.05K · <a href="https://t.me/akhbarefori/684171" target="_blank">📅 11:56 · 03 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-684170">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/8d754d5d97.mp4?token=Rm4poEJBCOCCO8zAQxC21LnHwSW77kvBghMUUQlUWU-tm8MpF219rSYE5SMGrhsbTef-eKvs30wtl_UvCD1-rR5JrKK-WxmASaWsIocqvGHDPVnQXLFQzqwHR202mOFGH9sZkhg-fBzKvr8PLJhSPmXT58cp03kvkEa9oFE-mud7zX0pmFRPrdytOLK2ZtaqNRk0wh6eqUYwO1TN9kmNSOQ78OaINHcWS9N8F8ahNG4FzNlHYGWuH5r0J4WC1LOEsjEtKQYHNKBG02gURifJCZ7JAQoRAVzv44eo7oZXmKKkaSybLPCzcCG0hI0UDlXpsO_4--JgGr0hq46gCuV2fA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/8d754d5d97.mp4?token=Rm4poEJBCOCCO8zAQxC21LnHwSW77kvBghMUUQlUWU-tm8MpF219rSYE5SMGrhsbTef-eKvs30wtl_UvCD1-rR5JrKK-WxmASaWsIocqvGHDPVnQXLFQzqwHR202mOFGH9sZkhg-fBzKvr8PLJhSPmXT58cp03kvkEa9oFE-mud7zX0pmFRPrdytOLK2ZtaqNRk0wh6eqUYwO1TN9kmNSOQ78OaINHcWS9N8F8ahNG4FzNlHYGWuH5r0J4WC1LOEsjEtKQYHNKBG02gURifJCZ7JAQoRAVzv44eo7oZXmKKkaSybLPCzcCG0hI0UDlXpsO_4--JgGr0hq46gCuV2fA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+تابلو نقاشی نیست؛ لرستان همیشه زیباست
+🇮🇷
+#ایران_زیبا
+#اخبار_لرستان
+در فضای مجازی
+👇
+@akhbarlorestan</div>
+<div class="tg-footer">👁️ 3.08K · <a href="https://t.me/akhbarefori/684170" target="_blank">📅 11:51 · 03 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-684169">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-text">♦️
+ادعای کپلر: شمار عبور کشتی‌ها از تنگه هرمز طی هفته گذشته ۲.۵ درصد افزایش یافت و به ۱۲۱ مورد رسید
+🔹
+۴۶.۳ درصد از کشتی‌ها از مسیر تعیین‌ شده از سوی ایران استفاده کردند.
+🔹
+تعداد کشتی‌های تحریم‌ شده که از تنگه عبور کردند، از ۹ مورد به ۱۶ مورد رسید.
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 4.11K · <a href="https://t.me/akhbarefori/684169" target="_blank">📅 11:48 · 03 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-684168">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromالو فوری</strong></div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/1a3a673c1e.mp4?token=XldwbjvfstYH4qge2_S5_rOYQZje-dVEFxMbvRnmqMU8cjEDXe7vuQywQhuC18I55NHrBbChnp2obkQp-3BaVQmYmReKGprWLm6S4RKs-3587i7LLKO7Js3EY__nHzLU0MBLMf2oYErboAG4HcDTY_HnoSaGS-dwAsfN9pF200l4L1Fm4YFGrIcKRI7KfM4JdtxGPw6aJJ_NIM3sIRctEtJ0mUOOPf5ljQprS7KGBnXYHRrFmKxDFbRmvEjlsSgeJbnuaRFg19qNmeLzG4JKYPRwUjK8nFsf2f4AKfn2RQ2AM1czBAocJYbBnn0sKAolFSvkKK25RJGNTSn_nuZInA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/1a3a673c1e.mp4?token=XldwbjvfstYH4qge2_S5_rOYQZje-dVEFxMbvRnmqMU8cjEDXe7vuQywQhuC18I55NHrBbChnp2obkQp-3BaVQmYmReKGprWLm6S4RKs-3587i7LLKO7Js3EY__nHzLU0MBLMf2oYErboAG4HcDTY_HnoSaGS-dwAsfN9pF200l4L1Fm4YFGrIcKRI7KfM4JdtxGPw6aJJ_NIM3sIRctEtJ0mUOOPf5ljQprS7KGBnXYHRrFmKxDFbRmvEjlsSgeJbnuaRFg19qNmeLzG4JKYPRwUjK8nFsf2f4AKfn2RQ2AM1czBAocJYbBnn0sKAolFSvkKK25RJGNTSn_nuZInA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+فراخوان خبرفوری؛ چرخ زندگی
+🔹
+بازتاب تلاش و خلاقیت همراهان خبرفوری در کسب‌وکارهای خانگی؛ گام‌هایی استوار برای چرخش چرخ اقتصاد خانواده.
+🔸
+مسیر راه‌اندازی کسب‌وکارتان را با ما به اشتراک بگذارید؛ در یک پیام صوتی ۳۰ ثانیه‌ای نام، شهر، نحوه شروع و نتیجه کارتان را بگویید و عکس کسب‌وکار را هم ارسال کنید. روایت‌های منتخب در خبرفوری منتشر می‌شوند
+👇
+#چرخ_زندگی
+@Ertebat_baforii
+@Alo_fori</div>
+<div class="tg-footer">👁️ 4.1K · <a href="https://t.me/akhbarefori/684168" target="_blank">📅 11:48 · 03 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-684167">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mf7h0cbb4fa1ZTFbpUbaG8bd-evutROdlIc-Hl71o35jymfUSoSCUvmMPJk3e9pSLYnQ1ka-nLZGA5VhuyJJJsFKV3-JG7dEWcVD3cf8iXSgCfdwHn15nxc5fkVJMg5mchFIOZGoxCapZ_ZEqo6qB4miUbdx3rZtB-6ltkt0xSzeFyIgZHOkvMF8v-pduVCpZDtShY8-UxpP9L7MPZu8tjl79IPzCl9zhsF9ynwEsgmalGWtG3ySMbfdhZawbGBqWZRTakS__JwKC5-guOOh1GYa7bmbScxqkfBl4uyYU55LRL2R1rTlan7b6upehfv1_nos8WMEyluiYGMhiHnSqg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♦️
+بیانیه ارتش پاکستان در پایان سفر عاصم منیر به تهران: گفت‌وگوها بسیار سازنده بود
+🔹
+ارتش پاکستان در پایان سفر فرمانده ارتش این کشور به تهران اعلام کرد که عاصم منیر رایزنی‌های سازنده‌ای را با مسئولان بلندپایه جمهوری اسلامی ایران پیرامون صلح منطقه‌ای، جلوگیری…</div>
+<div class="tg-footer">👁️ 4.12K · <a href="https://t.me/akhbarefori/684167" target="_blank">📅 11:44 · 03 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-684166">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/b8a9dbd2ef.mp4?token=rXCqNPRnW-8AEkYsTNcuPOTpfz5LC47bwEcQUPY1LSCBqGRKIaZenLYv1j8oMql9xmwtCj0f3Ffc_I3As57or4DaVIFJJKvv3dkx8FDCqU5mI1DR_nQirovEd81v3veTyiVHgg0YNuM3PckOXknSTpfZClxGlEUKNme7t5GyMkAHpuCejTO7Emjv01nD8c4N9IEh35ETcTS6Y-AFU0noWTnmiUqnxv_g7A1EBUAWbSmzLC1vm9vnwSPor1QyTobCxWx8KXs4fs3iTkNED72-CMUXEm9gNp-5KNjHqhSP4MgznOLn70OpvN3jyNbQsVqWAddjqTAI2-7VgW2ylJfRsw" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/b8a9dbd2ef.mp4?token=rXCqNPRnW-8AEkYsTNcuPOTpfz5LC47bwEcQUPY1LSCBqGRKIaZenLYv1j8oMql9xmwtCj0f3Ffc_I3As57or4DaVIFJJKvv3dkx8FDCqU5mI1DR_nQirovEd81v3veTyiVHgg0YNuM3PckOXknSTpfZClxGlEUKNme7t5GyMkAHpuCejTO7Emjv01nD8c4N9IEh35ETcTS6Y-AFU0noWTnmiUqnxv_g7A1EBUAWbSmzLC1vm9vnwSPor1QyTobCxWx8KXs4fs3iTkNED72-CMUXEm9gNp-5KNjHqhSP4MgznOLn70OpvN3jyNbQsVqWAddjqTAI2-7VgW2ylJfRsw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+فریاد نامزد مسلمان سنای آمریکا علیه رسانهٔ نزدیک به ترامپ
+السید خطاب به ترامپ:
+🔹
+تو نمی‌خواهی دربارهٔ قیمت بنزین صحبت کنی؛ نمی‌خواهی دربارهٔ قیمت مواد غذایی صحبت کنی؛ نمی‌خواهی دربارهٔ‌ خدمات درمانی صحبت کنی؛ نمی‌خواهی دربارهٔ این جنگ تجاری احمقانه که اقتصاد را نابود می‌کند صحبت کنی؛ جنگی که در حال نابودکردن ارتش خودمان هم هست.
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 6.15K · <a href="https://t.me/akhbarefori/684166" target="_blank">📅 11:38 · 03 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-684164">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/vyYaIGsGPANFQ6OhPTZUvCXFKDF8LIxIjEBGvCDQamIcQ5fAguofRE1BB8NtHz2Hb5Hv6HFvPN-k6_PsmVT1vJye1f3_jcI4o8ob4hg8e9CAoNkmezAeCYlDZ13GtZ_CjF1V4if1uJN0BcTYk_6YPIOeWxV8g-hVGxKpYDWTS7keDpCYj4JNgAqkkHEgEEkyZaaKd44ddQa6OnqkoYpu3EAuql8NWIAzCRUCB817twaSiezqTF7Y-FZmBsLRMNKLcgEu83meEOMCN3yfUUIU2VMwQJMSlheKnGRKWdiR1DaVcjNLvP1bTlG5VDVM7kJMTtis8kj0m6FbY3HBSIdfWQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/AhxoASpHy3I4FoLw9v8cCuVj9xogo0NiIhz7Q4Z6sPawQK15Sw5ry8HIip1Dvxt2pYp-cANrD5DmdVLZ-r_pzfG_3TRxvHse8ovIgqIVpMCIG41a-YS9tq_1nsG3kNHfGyBeMNXJUhJIagiCJXTuDdAhfn7TNNVeZRYa9ljPHfOBCeKU3JX-4v4_l_12xFzwzbBlzBSbnmGD_efyNjqP7svKiG7nfT0PoOAOF0_uOBN7phYsnUH8FWTtxycDtwZNaAGZ0Dlwm-v2xdvwIiMjm6V6Pv5ugENTbNZRFFy3gOEtKt-tcOWgxZzvd3iFIlDPTpoVFXBfgbAMMH5eM96ZAw.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">♦️
+نویسنده سابق گاردین: مصاحبه درباره حکم سنگسار سکینه آشتیانی ساختگی بود
+🔹
+سعید کمالی دهقان، نویسنده گزارش جنجالی گاردین در سال ۲۰۱۰ درباره سکینه محمدی آشتیانی و ادعای حکم سنگسار او، اعتراف کرد مصاحبه با آشتیانی هرگز انجام نشده و متن آن را خودش ساخته است.
+🔹
+او بابت انتشار این مطلب عذرخواهی و مسئولیت آن را پذیرفت.
+📲
+🇮🇷
+✊
+@AkhbareFori
+|
+Link</div>
+<div class="tg-footer">👁️ 8.42K · <a href="https://t.me/akhbarefori/684164" target="_blank">📅 11:26 · 03 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-684163">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rmfJCal5lF4VUqSB_mrYn9dqSnzHZQNnOtsuGtTQiinWdgs77JOFMJtA12eshgfX5k657KEBcGuL6dOK008gAVX568JPaKH6Sf_B4uukYWxL1EwhRC5zlRJdRHRoov74ikcaQ8yR35AYPtT2v4eF-uf4iQ3yuXfkZcawZdRSjlXnISpl77CoMlM78JXTE8k6j1j27pmhi74fvOZrmn1DefbX_T-WQZ9JBHaePTM1ngOvvRMxqvV9-SXISlwCgJWyitfQhSb9UnSKKGMt0njd6V3KZxGzF-eSuT94sIQ7Kv0EjLgIJD5Wx693nx5Gcg05v8vgtrMHS-0f9n3qsdndGQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">♦️
+بسنت: هیچ‌کس از تحریم‌های آمریکا علیه ایران در امان نیست  وزیر خزانه‌داری آمریکا، درباره چین و ایران:
+🔹
+می‌خواهیم امروز به‌صراحت اعلام کنیم که هیچ‌کس خارج از دسترس تحریم‌های آمریکا نیست. هر فرد یا نهادی که معاملات را تسهیل کند و بخشی از شبکه‌ای باشد که نفت…</div>
+<div class="tg-footer">👁️ 9.53K · <a href="https://t.me/akhbarefori/684163" target="_blank">📅 11:21 · 03 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-684162">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTV فوری</strong></div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/097af909b6.mp4?token=KwdtMT4hAMfvWU1zlqTKzVy8a-1bep8k1R7qwKuwdUllVUs74oQflWYz26yJq0Isv5kBh6x6P1_RDSOl8oqTpIhK9bJ0gTGh29cLEm4KeOphQsftp96i5EXD78uVXDu1UEteCAZABLlFcU88DUGIU327VBFqvpw_DnQLvh1t4woTiLqd1whNDRL_8GFdvCYJDx8-K4xXmdv7Bk4Bc4gf7aCuhbXY4bXeKomzApqeIGBjPoeT56Ni3O7VLrvToCmPL5Z8jeymE7X_3ClTzGQ2dlLdQJPVojcKiaKCYaWfsiOrL43d1webLUoS_KmZ_LYNJMWc8PvINxpFEEldkX0fwa40Yq5r-BIpZVk-Byq2WdbJY41BfBENAp2ShFJeaXWm8XdF7jSpx-kx6tCyaBSIDOiybah2c4Oozl1fF4VmcFQiePsNwTRa36ZgKqmgCP14CAU_E_kOvTbiqiw1sbykoZMCtDdCdQT5f9LS2Ttv9RaGy1zwJXvMFY5QhprxYKXZvdwfSb8R6HSwhXCf9YGh3q8Qi01Pxo103L7xILgjh8_qTjE8lUQNT2uMexwNGIp9yY-R9odBA5wW_UAS9DbBR60r-L-XyvUFJUuvrgdR3JxW8anbKDyJXVJYg5k8KJRZVQQU0JrpAJ7ML3WcrS2xjSbP_oGSW0FV-hC1HNOdW3M" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/097af909b6.mp4?token=KwdtMT4hAMfvWU1zlqTKzVy8a-1bep8k1R7qwKuwdUllVUs74oQflWYz26yJq0Isv5kBh6x6P1_RDSOl8oqTpIhK9bJ0gTGh29cLEm4KeOphQsftp96i5EXD78uVXDu1UEteCAZABLlFcU88DUGIU327VBFqvpw_DnQLvh1t4woTiLqd1whNDRL_8GFdvCYJDx8-K4xXmdv7Bk4Bc4gf7aCuhbXY4bXeKomzApqeIGBjPoeT56Ni3O7VLrvToCmPL5Z8jeymE7X_3ClTzGQ2dlLdQJPVojcKiaKCYaWfsiOrL43d1webLUoS_KmZ_LYNJMWc8PvINxpFEEldkX0fwa40Yq5r-BIpZVk-Byq2WdbJY41BfBENAp2ShFJeaXWm8XdF7jSpx-kx6tCyaBSIDOiybah2c4Oozl1fF4VmcFQiePsNwTRa36ZgKqmgCP14CAU_E_kOvTbiqiw1sbykoZMCtDdCdQT5f9LS2Ttv9RaGy1zwJXvMFY5QhprxYKXZvdwfSb8R6HSwhXCf9YGh3q8Qi01Pxo103L7xILgjh8_qTjE8lUQNT2uMexwNGIp9yY-R9odBA5wW_UAS9DbBR60r-L-XyvUFJUuvrgdR3JxW8anbKDyJXVJYg5k8KJRZVQQU0JrpAJ7ML3WcrS2xjSbP_oGSW0FV-hC1HNOdW3M" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">♦️
+اون چیه که مثل یه شربت خنک وسط تابستون به دل میشینه؟!
+🍹
+@Tv_Fori</div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/akhbarefori/684162" target="_blank">📅 11:10 · 03 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-684161">
+<div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/8b84d78758.mp4?token=q-Ywizx8rBGt8WEebBLRssDhNjN7sZX0Oth1VnVU2GESZdLue30is_ITzXYPLAnxQoK3kewupRPthFkota8joMHFuAK_JDS3xe9XYcbwzEu9n6Ht3UcPaaxea0aX3a-uOSAMRq9nviFsUh1fXVRnQWQx4vremv9hZ0TwdIJ_CU1KUWx_Srk8X4SGjn4CYZMBvbMGwtU759R8MnF071GozBBf1PdTbbmSM9Co4rX6x3DzPSQvgR2yydt7GTmjWwgS10kPZnnFAOZ2PiRQuYgy8cDdYF-bjKB6buNxT5cqgRBtQPseqghKm_cKnBf9bDx-eIG_pg1Ecjs5Ga7LWrjAgQ" type="video/mp4">
@@ -313,11 +495,11 @@
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19 · <a href="https://t.me/akhbarefori/684161" target="_blank">📅 11:05 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/akhbarefori/684161" target="_blank">📅 11:05 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684160">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gEb8UmQuZImhxdpHseMkK92OvleHXHNDG0QeCAsdQiHScr9wBgIz8ST6wHtbk_aP3JDc_5C9KpX3XZK_V7pcTODxkgs-SiBm8deDHM8FOFBpPZIc2mCaMu6a-Lg7WE6G490BtuFcKL8FHt4o1caAKIOYyBmeTy6TlskNmepvJU77RNxLxFoNB6-nUpnCid5r4nMfeCs1EYLgXm_bUMsRThm4lEfE1ObtibqBzZ9xwqfANqbxZwS8zNXckzxZwUM-Vr0w31mRclsR1akbftCgqLUQZl2OTs9ratMWrQGs28MqctMMxQ2kNFG1Ud5HKu86JyRpmGfKguVVfPWTbMEicw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 هشدار مدیریت بحران نسبت به ناایمنی «بازار پروانه» در اراضی عباس‌آباد
@@ -331,11 +513,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 1.04K · <a href="https://t.me/akhbarefori/684160" target="_blank">📅 11:03 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/akhbarefori/684160" target="_blank">📅 11:03 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684159">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Wr_jw2xvKo_RsmdIRx5CsT358YWmQZv42-JxbzRwNG-gzxnsbKGx-2NNFPDiHv-Y1VPmhIKg1rjjy6xeUuxKn0YMcC6uGAG50-9IOI-JiPhctld17BAwilwDD1llYnYS7-w0qs4tycoi2ph7pNa_PWd2lVBKjKvsHfdGXZVhjOR37J2tH2YS4brGPu6oFseynXNhaGnNAJ8A1J8Rd8FbP8x6ShdVCPr78hSsZ6W-UXIbdrLEdQCGnRH4ZorWSf3vIzVDOyBtEID0CHucb1_5fJrRCSwDymSIqB6wg5t0p5yUyJ70FKT2-kNuPmOh4uSYxKipjJnDx40LG80JRVKKpA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 قهوه رو اشتباه نخورید!
@@ -344,11 +526,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 2.08K · <a href="https://t.me/akhbarefori/684159" target="_blank">📅 10:59 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12K · <a href="https://t.me/akhbarefori/684159" target="_blank">📅 10:59 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684158">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">♦️
 #چند_خبر_کوتاه
 🔹
@@ -362,20 +544,20 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/akhbarefori/684158" target="_blank">📅 10:59 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/akhbarefori/684158" target="_blank">📅 10:59 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684157">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">♦️
 بسنت: هیچ‌کس از تحریم‌های آمریکا علیه ایران در امان نیست  وزیر خزانه‌داری آمریکا، درباره چین و ایران:
 🔹
 می‌خواهیم امروز به‌صراحت اعلام کنیم که هیچ‌کس خارج از دسترس تحریم‌های آمریکا نیست. هر فرد یا نهادی که معاملات را تسهیل کند و بخشی از شبکه‌ای باشد که نفت…</div>
-<div class="tg-footer">👁️ 8.22K · <a href="https://t.me/akhbarefori/684157" target="_blank">📅 10:36 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/akhbarefori/684157" target="_blank">📅 10:36 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684156">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">♦️
 آمریکا مبادلات ورزشی و دانشگاهی با ایران را تعلیق کرد
 🔹
@@ -386,11 +568,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/akhbarefori/684156" target="_blank">📅 10:25 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/akhbarefori/684156" target="_blank">📅 10:25 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684155">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/e288783b01.mp4?token=oorkRMs5rdi_S8tRRo2mV0P7y5zIdeQowjgZJYFnsvbKARk4CXbVH6_pko_iLwNCa8MrzkWCf15KrZ7GaGRvpRyWjEPtn6Gs2EM1SdJBupXuEdcjbKkfT3BzeMaz_DG4n51prLBCVY5ytiaWNzz1U4p745aI62yYJyC25iC6SngLAXgFZdV1szOSqhiot-QESWRYup_VWzAWz8IUT66yrRlSEt8q1S7KV8ISjo-2bahrk2K8JwEDlwKSdyswxqF_Lnzlp-EqPXn1EMfUH1QRNm2xFZNt-w9NuY2vd3uDL32VqLyIHcWMHYA4GL2qWuLj5Y9dF0tDyq2f7RJQvZYOLQ" type="video/mp4">
@@ -410,11 +592,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/akhbarefori/684155" target="_blank">📅 10:23 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/akhbarefori/684155" target="_blank">📅 10:23 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684154">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/6f637191d0.mp4?token=q7KHcfElprjWZBr3dvj74I44gP4SZV43OaxKknzfNuBf5358HsVXfDcU3lFhGf7EXsToS0N-teyblsIg9AvTaTRWYsgwehJA4ZpuMxXBnGevzO3yfsn0s4aR2NiUQY8KGOPe6WnP3ufR0gzfljvPvgHepJtAz7NBSKsG9kkKB8pVLe8oAxk65Tj6EZj51AbrPv4AlPDyp9Fnr-M5NIWdXFBGOvQ0sg297f8W7OKMlLpb1sUKmEgaF1cP6oEHKAmqeOFDzNmYbE_qQsmaX0KPtQt3czxrsnPnGMDHQthk9wMyN5tJ7zKJelmq64ITCyZvi6uI4xlN4zntMVc4TGus3Q" type="video/mp4">
@@ -432,11 +614,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/akhbarefori/684154" target="_blank">📅 10:16 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/akhbarefori/684154" target="_blank">📅 10:16 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684153">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hobZJHoEj1VhZaW-BLEwJ6En7DfYg3xWcZTb39vuHSrzcr9bqrNzF5BRXxRzgy-vTs56ukEX2Mubh0Bo-8fWCPJY7phtViLww2Qlmkg6aoPMFDosCWHLuvBQUjV1uCOb006jzojGtLo2NYw7qjODzVAupOF5xMkwLQxy9X7_xeKZkNBOgoGJzgi-yVLsiirp_Hg_WQcVaNOAxZL3-Frp3GnOzCi5dgv2yslRSzboxTpTkV4s9V1QOq7Px3MnP0C0ilpaVZjR4W3u9FdzMznY4Yez1Vglb5SsNp6ILSfNFoYI1NUWFztO2yWy__scpe1iswxdkLQXhFSRw-mylV81jw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📷
 عکس روز ناسا
@@ -450,11 +632,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/akhbarefori/684153" target="_blank">📅 10:12 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17K · <a href="https://t.me/akhbarefori/684153" target="_blank">📅 10:12 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684152">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/640bf74b28.mp4?token=C3y2XB0Pvl-AMfP6ze0SC0XQbb5HAx-x3Tg2k-QxpaT-lFPA8jOne3UkYFOgjmOL7XJWjcoA7HwZbHT2KP2FHyfp3Fsi6cyPrsM0F9mAGbbuLX79b8RvItY0P9ajGYgNxZ3hWF3UmI8IkyNsDJ6ehmFsjUUZvxA7iPh9V3M23i27LlMPXfRK5gI9tUD9m6GD4k8FnrDXN2DqYMJZFWwxN_Om1LulXMzU-S7GjVQy1m2NZmcKzcLRlCB55WQjhYcgeP8pf8Q966hK6wjpurMn2-f_cT60GVN-ZuU5Cpo1khfpJKsPti2I-NQGpXt-bOrDPlL7ngf7x6S_v51XZTybYQ" type="video/mp4">
@@ -472,11 +654,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/akhbarefori/684152" target="_blank">📅 10:10 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/akhbarefori/684152" target="_blank">📅 10:10 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684150">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b8ffe97176.mp4?token=EW4w57ja5HP4354bk5cA4-tedpMdbQSzJA-GggnrpC3FTxBxaWWAoiBb7ANwW7GzbWmjvL1k93croJodP618u2vks5ta-atxKOk5dJgcJ9Hdf6xQSr7msbIisEwhc5SnAysQIijowBE_ryBKpLqim3iCsh0-0FvPw-rB8wq61hgVD-S7p9-pLel2hTtI1AM_7JAKokAnEOiZxhTEvEEXIAGfFdomWnTTSQL13Fw91vtr8eQTBU9SOpoQhZt6-PddjoM6TD6u-ZZw8Cu_xDXvceHoJCZEKM_hjGdKR_tI2y8x6oMVx-mMdqTAUkb7l6Gk1EVjqdL0IvaFFzFbj42nHw" type="video/mp4">
@@ -503,11 +685,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/akhbarefori/684150" target="_blank">📅 10:03 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/akhbarefori/684150" target="_blank">📅 10:03 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684149">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-text">♦️
 #چند_خبر_کوتاه
 🔹
@@ -522,11 +704,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/akhbarefori/684149" target="_blank">📅 09:57 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/akhbarefori/684149" target="_blank">📅 09:57 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684148">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/0d8eabf04f.mp4?token=h20cu588hpMbynAmi04v8Tl8CU_Uz8Ddseaxma7lxc5crpaIg3P1UHDGGIgPldtKA-xc96tf-W0vh64hyzydqo4XWKiy6ZGAyBMZSHblDoEWkSoE6XSB4doXKUMNr3_qPg579JJhyBL0i1TQjNNViWON77FGSgi-_7OElW1QnRujyJEJhUValANLABECWuF9CM5_b80c3EYhf3ub_9nKW7wpl5iDyP0u_1S-GNCVMQrtAofLfJjT-xbhnmxfLt3ZlIH-Jns3ldRmC_jtYd-ObyG3PWCKxy3KiV1XyfWxSSlfDlez15xKGgRlFV10os3zeGW1vPJICdEnZRt2COJSTg" type="video/mp4">
@@ -544,11 +726,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/akhbarefori/684148" target="_blank">📅 09:51 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/akhbarefori/684148" target="_blank">📅 09:51 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684147">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EBzYb2Mwpp0cvTxBnrmET3klUtdmo6u9TRdU5LldN6LC465vaB9LrhF-UPC27QSG5PkFAkEuy6AFD8yIrEmVVV1AeqOtvE9RaLyUw4QncKZEZ5CVV4jLbPWP9aflFLdM8eqk_Y5klqFdQIHoOIyjdSmHUSH6MzvADxxzeNaBku5ud1oTcADAxCwbB5A-DBwd5l7sDD6hXLHannnlA4tiP0J81jBbOy_BMLUocIazECKPcl9P5BGEnZsMDDzNfaAnREKhxN1HypiYcCg7UIIXy49d-ns30s2X43JwMcrPoGaNSKlQ12Xr0Od_bODrp84zOQhDXk1Qry23gwcCJPZsEQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 فرشچیان: ممنوعیت واردات لوازم خانگی؛ شوک به بازار و هزینه جدید برای مردم
@@ -570,11 +752,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/akhbarefori/684147" target="_blank">📅 09:49 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/akhbarefori/684147" target="_blank">📅 09:49 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684146">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BnZD3-ULcOJRANCoL1142EpgWx2eragM5cZ0L5FsrtePAGp-bwl-Y5wqOjN9YI63wtkeCAHAKoOGT5SWgqn9wcUGM9cWEORYTKlcODQ5DNIAq4Q9UiMcu-a_00I9pWrB_VNCtS27aWj0bSauiabBL6Mx0v9XR-qxj18LI_ID4uI81kUlFqcet_d2qSgoA-uQc60V-1lMbj_U01m10MdU5pVV3wBoXe83ErwzZrG0MtANp0DObA-wmSLKJVyF1IDDP8zSX0fEDgowAZpjzE_EpNNT52Ynkt8eOz-nADpkIeYpOa0hMb9SzNkgLbK4bQ5umLYSJFi2octe4HmfgxPG5w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 واشنگتن پست: تهدید‌های اسکات بسنت در صورت ادامه تجارت چین با ایران توخالی خواهد بود
@@ -584,11 +766,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/akhbarefori/684146" target="_blank">📅 09:45 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/akhbarefori/684146" target="_blank">📅 09:45 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684145">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/edf914bc14.mp4?token=GUopI-CC3dL8zWiIW5v6qz-DVn7M_OkDUyuT8PDZfpYMF-atQjiA_rH6ljZ8h_XsGspCxs--NVpjXJohGc6FOgCba5OWPaatDCxr0JnFGwsRudQla3Ht4NRa4If9oINDt5OoTq9dYmb6UxC6Zk5Wvb46sDkZ7YgkL0xaOVOuDGyEdGvLCcG-pz_PEVDWOmFIMIqCVgckG6onqOlpgqSnX6YqsQdvKldB4jl3XPd3m70vImHwlVZZeE3m_aVslPq6FOCGedqqZYPYGpeKgMJ3BvV2TizsmErPIcbtxagJLt9RN9zJH5HOvsOFztNCCsnzCEyd0NByGqvmQVztuAltRw" type="video/mp4">
@@ -604,11 +786,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/akhbarefori/684145" target="_blank">📅 09:40 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/akhbarefori/684145" target="_blank">📅 09:40 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684144">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">♦️
 رشد ۶۱ هزار واحدی شاخص بورس
 🔹
@@ -618,22 +800,22 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/akhbarefori/684144" target="_blank">📅 09:35 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.3K · <a href="https://t.me/akhbarefori/684144" target="_blank">📅 09:35 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684143">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">♦️
 آغاز ثبت‌نام مسکن استیجاری تهران و مشهد از فردا   وزارت راه و شهرسازی:
 🔹
 ثبت‌نام مسکن استیجاری زوج‌های جوان در تهران و مشهد از فردا آغاز می‌شود.
 🔹
 از ساعت ۱۲ روز سه‌شنبه ۳ شهریور تا پایان روز چهارشنبه ۴ شهریور متقاضیان مسکن استیجاری زوج‌های جوان در استان‌های…</div>
-<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/akhbarefori/684143" target="_blank">📅 09:32 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/akhbarefori/684143" target="_blank">📅 09:32 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684142">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9b68eab9e4.mp4?token=kvyT4T3x0osNA7i_cpilOtGLx18seqhtgWOp3Qx502wZL6iqUROygfaEONSTZ6CFY21G2iZzdMDn5HWXtFZzkM5Up82MRdIhofLsrpKJ6CLZ4FkzwmEqbGAv2tN6LiXfHc4hp1L7uHObAYn1UyJkutkKIWqoyC3rvcjC2B4WVEJzOjtG4hLudkw-eMxKdXz-FmZTECQ9XV_7e6E11lDmGi3SHd1BAAonFKJh2_oeGZKb-CCpQsC3qndnGmKBCeFK_GKBe_UnQlGQAxA0CwOWOv8hrqMw0r-o-bIGLI9N_pn4yZ3vL-rrBa6-ysx6OIOlZKuFHHFI3-iplQqc6W8CPg" type="video/mp4">
@@ -651,11 +833,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/akhbarefori/684142" target="_blank">📅 09:28 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/akhbarefori/684142" target="_blank">📅 09:28 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684141">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">♦️
 معاون سرمایه انسانی سازمان اداری و استخدامی: تا پانزدهم شهریور ساعات کاری اداره‌ها ۷ تا ۱۳ و دوساعت بصورت دورکاری صورت می‌گیرد
 🇮🇷
@@ -663,11 +845,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/akhbarefori/684141" target="_blank">📅 09:07 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/akhbarefori/684141" target="_blank">📅 09:07 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684140">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">♦️
 #چند_خبر_کوتاه
 🔹
@@ -683,11 +865,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/akhbarefori/684140" target="_blank">📅 09:01 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/akhbarefori/684140" target="_blank">📅 09:01 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684139">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #69</div>
 <div class="tg-text">♦️
 صدور آرای متهمین یکی از عجیب‌ترین پرونده‌های قضایی سال‌های اخیر کشور در استان هرمزگان
 رئیس دادگستری هرمزگان:
@@ -701,11 +883,11 @@ Link</div>
 در فضای مجازی
 👇
 @akhbare_hormozgan</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/akhbarefori/684139" target="_blank">📅 08:56 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/akhbarefori/684139" target="_blank">📅 08:56 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684138">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/3472337bdf.mp4?token=uV8xHfE6RodWP1Q1gh9MEM9V8bO34OMyzMKYWUd5CB0YAsiEUgPpI59huWY9rL9h-2aX-ap_v7jAJc2Uy0mczQh1V8NSJ5zotU-1w8am94ckM7ZfWn8ZIszVn1Gc1R7QFG8LEWE9Vf47PaqOokfvI49AEAC9hiK-6UeGEDiVdFsfBBa6C9YoQ_Tfyui_zR245v03TdKrojOhKV4rsjr31HoGSrAh3MUDVkU_5HXyl52oIjiR9achT70R8H019kgPH5oaMGUwYl14YkZXQkRjnkqZI8LNJSjL2xZASNyEKjTiBA5FQA5fxUUSnFywmHAHSNikA_iu6Fu-CmzAakIF2w" type="video/mp4">
@@ -723,11 +905,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/akhbarefori/684138" target="_blank">📅 08:45 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/akhbarefori/684138" target="_blank">📅 08:45 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684137">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">♦️
 کشتی‌های مرتبط با عربستان در لیست «پرخطر»
 روزنامه انگلیسی فایننشال تایمز:
@@ -741,11 +923,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/akhbarefori/684137" target="_blank">📅 08:41 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/akhbarefori/684137" target="_blank">📅 08:41 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684136">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JNTSUIUk54b2plxFOTGbR0HMMYji2BwZ7cw9KyJuhetdmeG1j2bgJnGFFnDpq4xIW93v-jQiZE-wkvZWNoJmJbp6xFKnKDNvtPZmuznNiCGi3ljxy55oDAbu12QSauvlSNK-KyVi8DpMrFj148C5Q5Zn4Bc66Tf4rxmGTBHPGMSymBLlfFx_TBaX9BztX9wXUcmRh9fQQo6ZjeQ1Aohq_tIUOs9iVe1j9W21SaFKY4H0-_luvDwfg76Skgh1NWBeHDLhXtHGTk83wzSW8s8IKeINYhKRKQ6MFxXAOYpqb_fBvxa7erkUTJIYMG3BtY83FnCNiNUWj4jyrSZiRqx6kQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 رابرت مالی: ایران از مواضع اساسی خود عقب نشینی نمی‌کند
@@ -754,11 +936,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/akhbarefori/684136" target="_blank">📅 08:39 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/akhbarefori/684136" target="_blank">📅 08:39 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684135">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Wym1hmDtyT14FLHOhh2s8I2oCbfzQM3U6Lrjf5aLEa_NDqHb3CAv58C-NYgr7Gb8xHZHrngffa54LpaTSdv9S7QpqrFEBnKZIiLNNYzRhdhH3gQU9j5QxAFyzubtFYo7nU3XwvIBMR7JTOU8nNHU3ckpf45gPElrkoRVfdDq6DUSeWC46K7TKF86zgJG3L7t-KtydWvnTQCMxMfp-TTp-ZhglraXVitdiBBZidxZiXDfRqYKNznDmIVY7wlEno2CHInqXShK3RRghjt5dc-p6IrAljyNMgz8kVXAPPliAkJ3L71hJqH3tC6686BnA6Fkl-8M9C4p8uDnVRd-K4QyxQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 میلر مذاکره‌کننده ارشد سابق آمریکا: طنز ماجرا این است که اگر آمریکا وارد جنگ نمی‌شد، تنگه هرمز باز می‌ماند
@@ -770,11 +952,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/akhbarefori/684135" target="_blank">📅 08:31 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/akhbarefori/684135" target="_blank">📅 08:31 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684134">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/79b76fcf2a.mp4?token=iBSXfXRjL2SHx-HyfyJQNXsKbPvjD4-UA0LqXlwg4to4w2frh-_XAmYrXXZZ-pODTuZS6QIrujsjISolhZpShi20nDZAVBlp7j8T-4XmaP8zbLfDcoqWmSod6OlZ44X2YkEfARHcQfCu_LUitfsQ9qidmm1y3ZIFrzXXVmK1FnWIs-kWcvHXgZPjtn3CvyNF1_isI69XyxLuOYRktMpH07qNjX9L3OgYt4E_LlyM4KBPuaXRVOxMr8mYmfJuNP1tT37cse4pqbi-tP0wCwMCL5oJAmok8vrA48a0gqKRAW96JMSBMkd8xlknIq81j_RxZXfY2XJs4wcyOSUayYpS8YUvpxeZSOjstq44bFSwXYCpnZ2_N_k8-FBDlSX-w8-JBwgt2TKrBS98aF3A5DsVl2KlKjMexeTXEiG4v_yGw9q-CSidT-dR0ZEqIHfiEuFzOf3J2jp90DFr8kCeUuDH-PsBcp9Pp6okOMWgn5PUZvTfGX3frf6eajOooZs1iK_r3PEtZbS-96-UxDtrMGZmA6DySQwQJgqlhrFF9p9dZdVloGnMEH19o5C42P1RGrkf0R7RpDIYNf3loY7M22I_XOWMhjKwOMb4gkEzCtuODyZpEl2zF3pB1vuH5QMt_zuBJDDKPMvA6AJKR2QFE87_JV9Da-LoY7UD6My8WwkebOE" type="video/mp4">
@@ -793,11 +975,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/akhbarefori/684134" target="_blank">📅 08:26 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/akhbarefori/684134" target="_blank">📅 08:26 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684133">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">♦️
 عضو هیات رئیسه مجلس: مجلس با هر نوع افزایش قیمت بنزین مخالف است
 رفیعی:
@@ -814,11 +996,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/akhbarefori/684133" target="_blank">📅 08:24 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/akhbarefori/684133" target="_blank">📅 08:24 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684132">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/b3623ddd23.mp4?token=AcDGMcwus_P9DPRotzwDnuD2SIUiyowfua9wc5SKyi_0hMo_Bbe3MxCCp4J4ur5dqA_1ECx6XDs4J-jvox5RWvNdFMynj-jvnjAogsrM_NdCH_Q9MaApEG7nvJGEKcMtgdgoqK72HGCsAvzKDlB8TYKgB9A3Yz3NTKpAOHY9eJJNN2scc9Nt9WuYmCE8CPMA_AYt0ZC2iC3XHYlghaaOdjZBr6eHUYJOZ807pArzP6YMSjXBKgrrhSDb2OOJlQHcsEOwvJGm90GkBFhHe34dExGaDP60FPjEIeCyiQC8UhrrjXUYL-E3ZgRBfwCWuya2RcMXxYc0OeRg-B_LbBJXkA" type="video/mp4">
@@ -833,11 +1015,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/akhbarefori/684132" target="_blank">📅 08:23 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.3K · <a href="https://t.me/akhbarefori/684132" target="_blank">📅 08:23 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684131">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/d858531b62.mp4?token=Z455jxGxH-1tPR7GC4u6VVYVSVN7hcmZAyLdGUy2RrzXu3bMkPc7NFkfFEuSk1IW6felSKGfBhXs17BQEeKQ8G11z5xtzVQ03iYjzLM-EG0qXEwhEd6gdShdfeywKqRPa2ApBvRFbiGGWsXDzAaAYuAC8FwCP6BW6FD-PqUursqk_IR4ohd9uM0TPexwwvS3vmC0enpKvVs3YGXswWsKF-iyT6apPs9M-FKU7oQA9Zb6VNLH1OIfj_Ye3n1_tkP4Pjr0VwhOQMEkd4kaGnjVQDz0TI8QPE2AZF5cmpq3bWhdp9pxtOZjnhRDwni8L2Elw3fftHrK17BrPbFZo7qLbw" type="video/mp4">
@@ -855,11 +1037,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/akhbarefori/684131" target="_blank">📅 08:19 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/akhbarefori/684131" target="_blank">📅 08:19 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684130">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N0Y_3yRWq4eJRWntO19uas1vOFJH2e4ubNpOjsL3GW7tYjsBHtdl-zmbsmMgyqqX6lfel6J4r0oEw22FTgyxxwPmuN6VlOiRhlSKsRzYMS0an3TLycCepqb1vWjkVMdN6GqeohfjTX-LxKqg8R1-cU4Li99vUUZdxs0QErsmig4j01m0GlaEEdSXQy-MKO7dRjp_LKze4AjCXH0u-vokFWKIixASZZITUp6emGWju-2cW6_BPJLXOC4Zg9MKMIWaHr0kf_yszNtS3xyizGJgTI_NtfU45DowZaes9VApCUiGNSBcS4mjzwwtd4uGlNqr-VBFcS7c2ZEzCqPMVTuM8g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 فرماندهان نظامی یمن خطاب به عربستان: موازنه قدرت تغییر کرده و معادلات جدیدی حاکم است
@@ -871,11 +1053,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/akhbarefori/684130" target="_blank">📅 08:11 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/akhbarefori/684130" target="_blank">📅 08:11 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684129">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/e70ccf903d.mp4?token=Kq8brE9vkslIhjPE2r46HX4sqVgUjPAc3DHaYK4DJHMFKbDBRAf8pQtvdwzwC2VtoPHtWJKWg1uWUE6l394nxXDlbTi5nbBJyuaEbfZF9OGKmEIrBmgfV3k3FfQs5_q4f-dwHl2nGQCwiGvQB0Iesc7IcX9fMDr5yrd_1D1TYi_QNq0fBm4-aGAHHyDp8YIWmk4Pqi_klX6qe7BEgwGQatlDRt9Zdo64fY554ZG4kcKf67d5hFdNoSFufqXUSSPJREzMIycrhpE_nW6gWvyayqe5Byn9EDgzB8wS0Q-__AiqhBrgKCDWMtZZ0l8MO8VyVG4m1Amygnz7N87878zJNw" type="video/mp4">
@@ -888,20 +1070,20 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/akhbarefori/684129" target="_blank">📅 08:00 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/akhbarefori/684129" target="_blank">📅 08:00 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684128">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">♦️
 بیانیه ارتش پاکستان در پایان سفر عاصم منیر به تهران: گفت‌وگوها بسیار سازنده بود
 🔹
 ارتش پاکستان در پایان سفر فرمانده ارتش این کشور به تهران اعلام کرد که عاصم منیر رایزنی‌های سازنده‌ای را با مسئولان بلندپایه جمهوری اسلامی ایران پیرامون صلح منطقه‌ای، جلوگیری…</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/akhbarefori/684128" target="_blank">📅 07:55 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/akhbarefori/684128" target="_blank">📅 07:55 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684127">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">♦️
 اعلام وضعیت اضطراری جنگنده F-۳۵ آمریکایی در حریم هوایی عربستان
 🔹
@@ -912,11 +1094,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/akhbarefori/684127" target="_blank">📅 07:48 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/akhbarefori/684127" target="_blank">📅 07:48 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684126">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/F8enAKtTQtCTyITOA7O5JaO2q2RQxKoVxpibBdAXaD_EOrr2UQnAWgPG4631Htw8n2Gxqa7pbIAkYj2Ts5cFBwdsw-ZR6nj6x8hn5W74Wkr-2zquk6lUtwPTMOYq0k7QPo8oQcGyOzSMMuNc2EK5Y96_TLBAFFsznwAqTsEO0MpfayTUe5FzLbqvp2zjfH3N5K02xrYPELYMFUDP6Ra9DqXE9gg5Gfv8gt-h_hhBV-8JZ2XEzc8mJ37lsdz6xbDzc0N00uyS0ptlnFe1Hhr0uwEAWrrhSW_Q72yA_xPJebdk6pKUTfG_AOK8Ynnw1Turrcuf9JnoJeZrXqktTwegYQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 بامداد امروز؛ هدف قرارگرفتن یک نفتکش در تنگه هرمز
@@ -928,11 +1110,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/akhbarefori/684126" target="_blank">📅 07:46 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/akhbarefori/684126" target="_blank">📅 07:46 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684125">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lHImDcCWXOpnSkIT-upZ43BbTVN5uRmyJs1jmVDU_f5Ue2xKfQXEF4lPN2SVTjqeZJmOoZEGaMXbiWXB3C2wz9OxKE5zkdRZX-Yb2fv8m924gSzThEC7P1Qvu9sG6ijlYDt8PYnCNM-BPpQ8THcFa-FORIIYSPSEdMueCwx6diLXeLLUcgX2ytZ_MSv6DWjuq8wtxmnhJJTo8YcA31w0I3q6rSG7GKf48YAtIX-lk-EtuLW9nXhUQGjBgQ3FqolDbS-jGREMWxl4WtldCOaNEJxkEezuEtcpJRQi2CBwlMgcczRahmGGCmyrm1FbLQd79uyYaigYgEyz2L_DaD4IGg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 این کلوچه‌ از بطری پلاستیکی ساخته می‌شود
@@ -948,11 +1130,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/akhbarefori/684125" target="_blank">📅 07:44 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/akhbarefori/684125" target="_blank">📅 07:44 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684124">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JRwVkZljwF46JH6wZ1cD9BETDGraCiytKV1iX0y6ByCDc_dGetIr8Xn5pwne5Su3MLkGsGQQv2-R9ex_pzzwZ0zn0T3kvPeWFnMcDo6ix_8JYNgLmlPZ5z6lH0htWqdWu26lU4HGjjVTHYH6uMAqUdGOCtufqWPfsPUYQi89WQlW1LMB28puk6juOd_sQ-KADEAOx98ibsAQKKRFZocIqlFeYP-cy3C64YJ6Ld5a5zsCOpmAhyt7LmBERRBkMpCqudJWJdnoI-VDcrXK3ky-h_Gw-yraTxhr3hwYAApm8Zv_zE9mBJ9e7tNbE7B4ICgeDW5oHTQjWq7gn0Hwm_wipg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 حمایت آمریکایی‌ها از جنگ علیه ایران به پایین‌ترین سطح رسید/محبوبیت ترامپ در کف ماند
@@ -964,11 +1146,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/akhbarefori/684124" target="_blank">📅 07:40 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/akhbarefori/684124" target="_blank">📅 07:40 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684123">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">#چند_خبر_کوتاه
 🔹
 طرح مقابله با نفوذ بیگانگان، در دستور کار صحن علنی امروز مجلس
@@ -981,20 +1163,20 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/akhbarefori/684123" target="_blank">📅 07:36 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/akhbarefori/684123" target="_blank">📅 07:36 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684122">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">♦️
 پزشکیان: زور و قلدری آمریکا راهگشا نیست؛ عاصم منیر: فرآیندها را با دقت دیپلماتیک پیش می‌بریم  رئیس‌جمهور در دیدار با فرمانده ارتش پاکستان:
 🔹
 آمریکا باید لحن و رویکرد خود در تعامل با ایران را اصلاح کند، چراکه تکیه بر زورگویی و قلدری، تنها فرآیندهای اجرایی…</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/akhbarefori/684122" target="_blank">📅 07:34 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/akhbarefori/684122" target="_blank">📅 07:34 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684121">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d8gB0mHTVAEpi1ev7JoAiMbZwZaLOcFDMGT4HygDOSNYvjRr0uSxH67X99oQfyYv86CnVnMGRi2y3aVzabasZ6dcvIQqwcR7FlwFh73CgEv6eleHm96UHbDM6PcfQ4rYCHUypG2JqmkTnIFesIsFNvHjd5kNEhm9f8snokEVGpJzJv0BzXBPQAy5ogo4sRSuOrfiRL13KmYpwJpeytUsv0oLuj1v52pQuJ9wqMH4d459E5-2CCYIe9fErCLs8pY23OfBQVn_1XJksXwg5kV8cb2M9vzFhMpl16zYiKHRrHO6AOjf8lUbUiobEVlC9tE0uPvUdXhkuK-oUYc6_8jfYw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">هر روز خود را آغاز کنید با:
 بِسْمِ اللَّـهِ الرَّحْمَـٰنِ الرَّحِيمِ
@@ -1011,11 +1193,11 @@ Link</div>
 ⬅️
 متن و صوت دعای توسل
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/akhbarefori/684121" target="_blank">📅 07:31 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/akhbarefori/684121" target="_blank">📅 07:31 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684119">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Cwv7Q6k_13QhPJExip6CoQLztGYjEsI-iGb18WKw7YVC_gt68_PiKV8c0yVpoXpHs7YUkZyjvbbMcfISM2oyfOKlkq-SlEq3LDoEPKsR3ko9Dunn0_Uby-DpmwO6e1whjIIjOnmK_hX6N_mPrdP9sdhT35GeA5cHIv0appaGC55B9CRcgLDG2Rh8w23V8hSkgGIwJ26KZ6GMzCOX8tGx86CksY9yneZg6MH8joZGo0RqX1ZxGdtLnDVLOSk4bJSMwcJbiD0neDCjIKVnBTkxZtG9ZDby04k7_kXHx3IRl6f43ziR1WwlPM_dTCWbJDcWdbn4XiKmoSSrLJsWlPoI1Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🩺
 سلامتی رو به شانس نسپارید!
@@ -1039,11 +1221,11 @@ Link</div>
 همین حالا سفارش دهید و با خیال راحت سلامت خود و
 عزیزانتان را زیر نظر داشته باشید.
 https://memarket24.ir/product/brief/41275/180124/</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/akhbarefori/684119" target="_blank">📅 01:31 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30K · <a href="https://t.me/akhbarefori/684119" target="_blank">📅 01:31 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684118">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">♦️
 تأکید اندیشکده آمریکایی به نمایشی‌بودن تحریم‌های جدید علیه ایران
 🔹
@@ -1051,11 +1233,11 @@ https://memarket24.ir/product/brief/41275/180124/</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/akhbarefori/684118" target="_blank">📅 01:27 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/akhbarefori/684118" target="_blank">📅 01:27 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684116">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/v6_LdznMtw4UQxNHrpdwaBrABHNHSXFXxikgXxx2j-DVApsCensHcFPeT35O8AhMIA5x47-Ar7R4iG8XGa5Z8JYAIxo_uGVJ_CyrDk2YdSz4L2OLOLbS5mMbFv2sPZpwGc7ir3YTVZIAeNeHVuy3hlDrpoWmDkRMBTnptDOuFQbyesQFOcGCt86GFR002cynB4FXtKdWcXi1P9Csq4wY5KTTz0XfQowhbPsj_MaddSX0oHSG1FiIPFBjRW3gVmvBRhHhh6ctFTh18s5Bk1houDtS9sxok3UqBHvlf9Jfr6pOqt2CCmbEbcPZRVZFiWV0mfUDtwB-4KBQmRWQTjdItQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -1072,11 +1254,11 @@ https://memarket24.ir/product/brief/41275/180124/</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/akhbarefori/684116" target="_blank">📅 01:17 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/akhbarefori/684116" target="_blank">📅 01:17 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684115">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTV فوری</strong></div>
 <div class="tg-text">♦️
 قشقاوی:
@@ -1091,11 +1273,11 @@ Link</div>
 🔹
 اگر کسی ۱۰ کارخانه دارد باید تشویق کنیم تا ۲۰ کارخانه داشته باشد و اگر ۲۰ کارخانه دارد بتواند ۱۰۰ کارخانه ایجاد کند. نباید در تولید محدودیتی ایجاد کنیم.
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/akhbarefori/684115" target="_blank">📅 01:10 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/akhbarefori/684115" target="_blank">📅 01:10 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684114">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/9872e711e2.mp4?token=paBRwtuB69F503kpVPuQ93OXGbcPUk1Qhfvn_Wk414vlpAMlxuj61td6P4qk7PSFQjWKqxn9hykF_CH-3mtbQX2smamxABOUu3-Np2Q5q-E64qhRgnLrJZAniUCTX0PGH4XjNcGTzj8BkiD24y9TxOZXSHYvwkNiEgXVD5qwvfgxi5LRUmwoQ_i-N8MfOtY4ID6UXEFbqmkBYAReF17jSR8e_qQ2TAzLa_tjz8SzttkVtMkcyTljGUxQZTJK5a_Jo7n_0MFbDahi0lG5IgYNUyBinG3wbuwfuetKW9RZUqClyPvxQ4lEyujBica3rUI7ef6errdfsf7RRZXobwwxyw" type="video/mp4">
@@ -1113,11 +1295,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/akhbarefori/684114" target="_blank">📅 01:06 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/akhbarefori/684114" target="_blank">📅 01:06 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684113">
-<div class="tg-post-header">📌 پیام #55</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QrUxArsxXAh0oMR9GFgMTBkLcJSdnhG-ugjTgg2AHokSPOIxnejqpr0q4WdhvCw827lBbhlK6_Cq8W2amt7by3yJrbTehOC5Co-6FkGHmlKif4ptDPnnNiHCqeMAUvxJQsihvuvXi-iG3InIlGbvMCnQyxoROMVoarkwwf52YT6Jh_vdQOMmbzC1JE3e1gpA_4d6losGpquSDMnnpmFnDkOtTTss3mj7YXG9Gc_k49pzFnGaDkeaB-0uQ64721giYWgqGvAE4PrRQ_he27GLX5-v2TT-d1v16kL7Nb32YDP2uDasQz8rcQyPfsbgSQiJVuLq-2ZHpq1Oeg-s-Rln1w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 محمد مرندی، تحلیلگر سیاسی: در جریان دیدار آقای عاصم منیر و دکتر قالیباف، پیش‌شرط‌های ایران برای بازگشایی تنگه مورد بحث قرار گرفت
@@ -1129,11 +1311,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/akhbarefori/684113" target="_blank">📅 00:54 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/akhbarefori/684113" target="_blank">📅 00:54 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684112">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hEwAJ_etfMM8nR2dX8qOSSzd_kQtp3dT8g6NUeqir7P8sqr_jWrIwn5qx3Oku6MGX2B9YdRbTwyBsYsKrCT0kL07K-QpBpTaGfsRjTgYdJZFp0tzN4BdZ1KaE30WNSFTUKofPDEC5-f7P70QRqHL8XUprwWtfNThun5yi5l0U3w3nRR6UACOre1WUn-RnB7Sq9WK5I0fJoiYkDNMYTnt4kHpOK_7mOo0him4FNgDPQEFVk36hJ78dWrt2Mf8QAY546_vAkiJHtsppDtl9YrDsVdMY3FDG9CodUsPkGTJzdPtOjg9oedk9g3vRXGNm00AORdhRfL7nrU0MsMqXabSTg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 رسانه GBC:دونالد ترامپ در مسیر تبدیل شدن به احمق‌ترین رئیس‌جمهور در تاریخ ایالات متحده قرار دارد
@@ -1144,7 +1326,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-684111">
-<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LALPFwJcS-Blpaz8mizV7SDurVc4u0XHfyaEGylED0BnnnoGwqXZWKT5F0RrmZzfVkdLEvQAGxtJnhzy6XLjqJXTEavGThONcYHkendu66l6XEr6o0rksozeD-90Qto3BMu6BoXNdVwQZFsTjFczpH781uIhRiVRVzfQPhgfLDlBv8spzMQ5wh3gkSGZ6WsnPi9FcuxqFFSgg13N_1L60Z1pCsTFsEA8tkavuCCCgQksGE2hCvffOGJUZ3CWgI4IZXKMjKL6VhR9p9oqkeN32SIMbPhZmjHRHEBHcgUiZgVsGuq13B262lg-37QLrsM50ugSCIdyyIrIt28jxDMRoA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 آنسا: جنگ در ایران به ایتالیا ۱۲ میلیارد یورو هزینه ایجاد کرد
@@ -1159,11 +1341,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/akhbarefori/684111" target="_blank">📅 00:45 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/akhbarefori/684111" target="_blank">📅 00:45 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684110">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-text">♦️
 ادعای وزیر جنگ آمریکا: گزینه نظامی در تنگه هرمز محتمل است
 🔹
@@ -1171,43 +1353,43 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/akhbarefori/684110" target="_blank">📅 00:43 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/akhbarefori/684110" target="_blank">📅 00:43 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684109">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-text">♦️
 اعتراف وزیر جنگ دولت تروریستی آمریکا: تردد در تنگه هرمز خطر پذیری بالا دارد  رویترز:
 🔹
 پیت هگست وزیر جنگ آمریکا، در جلسه توجیهی درباره جنگ علیه ایران گفت: تردد در تنگه هرمز بسیار محدودتر از آنچه همه می‌خواهند در حال انجام است.
 🔹
 او در ادامه گفت: این تردد…</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/akhbarefori/684109" target="_blank">📅 00:40 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/akhbarefori/684109" target="_blank">📅 00:40 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684108">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromفوری گرافی</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kmpbAsjfrCCN1dR7G8QBvPwVPWO8S270M6xV9E-hvs_QiiiB2tdXNe53YusnwB2WVveZ5upgayRTk6AUvcYfb1lCbHNnnnafZvvZsy5wds6h1lrC2NM9j8rrY14raj46W-Gr58GENI7lu_JbBBfNO2IztcvYOBYEPg2MTaDpa-Q_mOWZQiLofP7-0vIrofypesc-Kx4_xrYABMIgb7pXC9C8dSOtW4n3LtPI1BZHbFL5DV9hwLxXEqdoebYdw8knEa_rWZMOvYQG_i_D_4-U1RqlSYXo50Cr_4HzEXMYx7Ax1qYg72Khwga1txYmx_ZNyaRYdTU-fDV5RbWcuSbCEQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 بعد از ترک سیگار چه اتفاقی در بدن می‌افتد؟
 #اینفوگرافی
 @Fori_Graphi</div>
-<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/akhbarefori/684108" target="_blank">📅 00:35 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30K · <a href="https://t.me/akhbarefori/684108" target="_blank">📅 00:35 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684107">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CZo0wFzpbKnOptJuRc8KzS2Ohbot3_dzlp8HxMbs8qWyTPBKe0gcODkn1v5M56xeZLA6e_AHq1-Ej0K7SXLeMKCaEBIRVqMZ9BFpQF6xrDUhx0appm3ob5CgSetKTnSan5RD05BqE1kTtqB1AC5InkLYK7D52f3EPJScQhUuFBf0q1nC5fEQ7e0TNgpSfS8cueadMxczD5iKTNHUaQeluSGQBE_MuoSptUSXmBSSHvqQRTw1LhwlDXHehL7M0sSaYm5gzDRlepogaitlREyCknuiaHP1acvQfAsUiE3OlUjxzx3K6gvfZTmeCOh5GAK1p4HMer5Qkwc9CrbpcREz1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 بسنت: هیچ‌کس از تحریم‌های آمریکا علیه ایران در امان نیست  وزیر خزانه‌داری آمریکا، درباره چین و ایران:
 🔹
 می‌خواهیم امروز به‌صراحت اعلام کنیم که هیچ‌کس خارج از دسترس تحریم‌های آمریکا نیست. هر فرد یا نهادی که معاملات را تسهیل کند و بخشی از شبکه‌ای باشد که نفت…</div>
-<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/akhbarefori/684107" target="_blank">📅 00:33 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/akhbarefori/684107" target="_blank">📅 00:33 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684105">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">♦️
 وزیر اقتصاد: تفاهم‌نامۀ اسلام‌آباد روی کاغذ نکات مثبتی برای ما داشت اما اسرائیل و تندروهای آمریکا نتوانستند آن را تحمل کنند
 🔹
@@ -1215,11 +1397,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/akhbarefori/684105" target="_blank">📅 00:28 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/akhbarefori/684105" target="_blank">📅 00:28 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684104">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTV فوری</strong></div>
 <div class="tg-text">♦️
 چین از جنگ ایران و آمریکا سود می‌برد؟
@@ -1235,11 +1417,11 @@ Link</div>
 🔹
 اشتباه اصلی ایران در پنج دهه اخیر عدم تعریف روایت مشخص از مناسبات با چین بوده است، در حالی که کشورهای حوزه خلیج‌فارس امروز روابط قوی‌تری با چین دارند.
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/akhbarefori/684104" target="_blank">📅 00:20 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/akhbarefori/684104" target="_blank">📅 00:20 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684103">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-text">♦️
 تکرار
 حملات توپخانه‌ای جدید رژيم صهیونیستی به جنوب لبنان
@@ -1253,11 +1435,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/akhbarefori/684103" target="_blank">📅 00:13 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/akhbarefori/684103" target="_blank">📅 00:13 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684102">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">♦️
 تغییر استراتژی سهامداران در بازار امروز بورس
 🔹
@@ -1270,11 +1452,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/akhbarefori/684102" target="_blank">📅 00:10 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/akhbarefori/684102" target="_blank">📅 00:10 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684101">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">♦️
 اعتراف وزیر جنگ دولت تروریستی آمریکا: تردد در تنگه هرمز خطر پذیری بالا دارد
 رویترز:
@@ -1290,11 +1472,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/akhbarefori/684101" target="_blank">📅 00:05 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/akhbarefori/684101" target="_blank">📅 00:05 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684100">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromخبرفوری</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K1F9KHhQ7xVBF5Yv31RvKkrRRH57hZ0LdrrOdT-mQ7WfvXiIjNS78LM2eZcSNkdzlufvcA-T89gqI5YoejyEUIJ5074owUXtlbldV8coJwrLKB-tvDrsmN0FnzVJA5eTj1eP4JEEn24uTqbtPpFpC1FVmAYgFCJJQR3LQwPtlN3-_GE7TJmp6N-_fUblN0ArZPUjTW7XFm9EIlihDx_kwt1Ebk7uRzmLqmIr2HIS4gr_g5i2KE7Vd-Z3dxx7r16-Xym_5AFyJx9tUX_y03O6eV2Dy-0h5pZIORqrS1zZ6fgwYer75Py6LN_Fyp_zgVy6_kXVpc1OMCleMEkytixolQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
@@ -1302,21 +1484,21 @@ Link</div>
 🔹
 با قرائت دعای فرج به این جمع میلیونی بپیوندیم
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/akhbarefori/684100" target="_blank">📅 00:00 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/akhbarefori/684100" target="_blank">📅 00:00 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684099">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/crklh0DdEPn0giZeFLkFkY4x6IUIxOOGHXjq2fJzrmXH_0BLBdxx-KoJlyIRjjLUd4_LIesN9EDclcEp-Y455wIoy3H-5f3DltWgbO1dU_ojU4TBe9sXIolSZ4vR4UdgVIEGM0shU5JM5egyhPnFPBEo4b6CmltnJc6gFw-vpu641Lk1qr6CIImJmEm1bepGGf3ICt6RnSuXWNfGycVSTJrMUm0vcOZXnm8C0muhjDLiCsGs22rWw92AN_zItLebBcuJpOI4tlRopzA9mspwd7IWKhBnk53P4uNGtCrKBaYG186lTxrDv1jJJ0BwSvAeSd87R8wpOlr5IrXhM9qBkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 وزیر صمت: فولاد خوزستان یکی از قطب های اقتصادی کشور است/ سرعت بازسازی در این شرکت قابل تحسین بود
 🔹
 سیدمحمد اتابک روز دوشنبه در حاشیه بازدید از خطوط تولید و روند بازسازی خط تولید فولاد خوزستان پس از حمله دشمن آمریکایی-صهیونی، با گرامیداشت یاد و خاطره شهدای…</div>
-<div class="tg-footer">👁️ 27K · <a href="https://t.me/akhbarefori/684099" target="_blank">📅 00:00 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/akhbarefori/684099" target="_blank">📅 00:00 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684097">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/472a78c05a.mp4?token=BfBX2YEK_tSsX6Eb6KCFp8RbZMFTWH2Q7pVxzVeVV77Q4sLDWaEVboa071fKCT9ao1EF7FuSKskzOtziUUpWLfcd4mL7u-iP3yVI4QmUK6aXZJd40t8W7SAcacrcVZNOaj3cBxXXTXFvoBnfCT47D4k40NDVPvTQxRXaMivvij5O_pAz7T1Z-x-uqcYUP6_ypE95g-J8H-eDiizAMLPqFypixGpZKgE3R1sOmsV5p22oSgy9w183r8ThSI9FQL0ePWk8qRGhLjhUdC1CumxzPLBWOZu6RcuFtEE-3ohPJkQJ0YggnhQKRIjn6Vj9zD9jODhxsa4BI53FYitEJ1qjKA" type="video/mp4">
@@ -1329,11 +1511,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/akhbarefori/684097" target="_blank">📅 23:54 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/akhbarefori/684097" target="_blank">📅 23:54 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684096">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">♦️
 جنگ ایران روزانه ۶۰۰ میلیون دلار به گردشگری خلیج فارس ضرر زد
 🔹
@@ -1345,11 +1527,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/akhbarefori/684096" target="_blank">📅 23:47 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/akhbarefori/684096" target="_blank">📅 23:47 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684095">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4245e3c81f.mp4?token=M7fQXCU_ddZLXlfJ5dtjdsy5ND3Q0NFgUHaGb5uC-zfafNqubk8q11NS1bYR7lIn7Ldc-HlxIoTb4rJi62duAxRO_wsCx8q1hRgfkh82pzu6Wnh1NkkHeA-zgsRjkWNcdz-045kI6vbgQZb7v88_LN9oU22mJ7ZFri5WwlVakjesDhPUyS_eu4joFiukvdBqTrrtozyurpn9Lj3RexozK-iHyGlIbrqf_oAhQeqWaIgBSyeibW3zxfnUmrVVE-H59CciibVROClRNOPicrzSUdxnj0PB7BPb0xCYOqpLY_Yw5MzOcBuqgCXSGfjYNN5C4zX1vfN0wJy81wN0crjlng" type="video/mp4">
@@ -1364,11 +1546,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/akhbarefori/684095" target="_blank">📅 23:44 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.5K · <a href="https://t.me/akhbarefori/684095" target="_blank">📅 23:44 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684094">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromالو فوری</strong></div>
 <div class="tg-video">
 <video controls preload="metadata">
@@ -1386,22 +1568,22 @@ Link</div>
 👇
 @Ertebat_baforii
 @Alo_fori</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/akhbarefori/684094" target="_blank">📅 23:42 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/akhbarefori/684094" target="_blank">📅 23:42 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684093">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-text">♦️
 ترامپ قمارباز: کانادا باید خود را با مقررات آمریکا وفق دهد
 🔹
 ترامپ در اظهاراتی درباره روابط اقتصادی آمریکا و کانادا گفت بخش قابل‌توجهی از برق، نفت و گاز مورد نیاز کانادا از طریق ایالات متحده منتقل می‌شود.
 🔹
 او با لحنی تند خطاب به مقام‌های کانادایی: یادتان…</div>
-<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/akhbarefori/684093" target="_blank">📅 23:39 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.2K · <a href="https://t.me/akhbarefori/684093" target="_blank">📅 23:39 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684092">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">♦️
 ارتش اسرائیل: به دنبال رصد تحرکات افراد مشکوک، عملیات پاکسازی را در مرز با اردن همراه با مسدود کردن جاده‌ها و محورهای مواصلاتی آغاز کرده‌ایم
 📲
@@ -1410,11 +1592,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/akhbarefori/684092" target="_blank">📅 23:39 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/akhbarefori/684092" target="_blank">📅 23:39 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684091">
-<div class="tg-post-header">📌 پیام #35</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTV فوری</strong></div>
 <div class="tg-text">♦️
 احتمال گرانی قهوه؛ واردات به مشکل خورد
@@ -1432,7 +1614,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-684090">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/c028896191.mp4?token=sC7mfXloN-vBYKHDnV52HNTevEm4wAKH-kXo_WJiJePkhWLAyAwv_HXawtz9iB8CvvesFUKoseisSwOtFE7kfbx-QVD1jqsHuvqeZR6kH3CrPmLVEPcAzTmiY3RTEJkSD39UY8hcmzcy6L7aximcVsHV35pzWWbnrkfAv7vq9Y5BsUf71O4kcCs7X1E2skLQeUt9WdiLt1UvF8t-ihTyV9GWG2fa_jLBRj81R_EQAIIofNrZ5hojLMoKtrpcill3O45wGsbXivhV23PipLooVReSPM47TaGq19F7kpQttLk-YLNj8SKovxhqnIZJOiYFZp9B4J0trJ4L2mj05zVPz3ynlRlM-9VIn68Ygi1NLTq0LW0VLRqK7qs6Tx4DPLZj7BZyDTpOTRcnA9tqcwlSbnicJKvRoajA7Ib82-9zEXaxFYHwehtXJ4oYrftrreKeEZHE2St_yIcizcOs9WPq50nd5gzGQLn0SxXmJK4juldfZfX960PGmtFJMgrEmqX83wh6ygyUpcT4CwQRPBuJ6aPMtqqulrGgP2mfvKg_15gJO_eUxgE0QZu5pz2id5u_by_7kOxXaAZcveTx-aG1E8AKb-Ti4mtbx-ZIZGhhmToEV1l_vZWG1efsmI-mWGxE1jfHKDKBr0L88VbBhoVYy1lJ88r5aLHi9uFtUZdrcIA" type="video/mp4">
@@ -1447,11 +1629,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/akhbarefori/684090" target="_blank">📅 23:33 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/akhbarefori/684090" target="_blank">📅 23:33 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684087">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/SHHptb2w2WQ4HPyVOWMxd4-HJuGH13ftr-7m0bH9h1JU9Aml5hNUnRlJUmFtV53ZHf2wtP2zvwn2e5uYLhBjAjTNS4evSrJkcXVyvaD631WTayga3y_22zflXncOzM-Uld9x1QIJqyh_RgkjJpCyWWw8rA421t14iRJd3XiIXTnIoApN50vmFsvPoI-THpgfDwv73BJFSkalqcmzRn6YBK_K25yxCOSVvVa2RLT-ay3GkNgNHXztNdJB7Y25Nr8r_-G6bbjN-oaZcxVZUfUc7e1Ew9nilEYED1Uj0B6QkqSNpF-oXAMHFhZqnWdd2ptcc4wZc-yXZpNEKkmgeagOnQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/jxPSqHEPCEk3a9XJAbj6Bd7GSPSQKCmKexH5SOdLxZ9rwqh24XbZVgVXxMvenWJ5uYKNJDQ1Oermrd1WaKjyL2VBWdlrjmL6gk5JBEx9hzA6plrtn-b09-wmDPv1BWv65SW5a83x-AIq3XdFpBL_Oikypxbt6Hw2zqp-37DTwliaJX0UFyF3lf-FZnBglOgDUC_qN3sD714TPmybO1U3W4QSaZ9whibsHtc450f10YO4yI-drPKldoQno2bUfp0pH7N5xYL0no6hs0WX9XwiR5AeeZVjGoO10ChydRE_5o8PSFW0sRMUV-frrAitrVLgVKdT1mlVecrzbXyADGUi_w.jpg" alt="photo" loading="lazy"/></div>
@@ -1465,11 +1647,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 31K · <a href="https://t.me/akhbarefori/684087" target="_blank">📅 23:30 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/akhbarefori/684087" target="_blank">📅 23:30 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684086">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ollw1nCBWW2QF12SuitM5gr7ImEAJ0FrYcoqTjzZ0rWpJurS398MfD447k08JpsyyTyb_h6O5zqfgIhPDTRdSOOgXwbad2e6CNeqoFnIeAvgOBmer8OgcCvfDJ6fsKiuTaOk9G_AIItAQlfiBXYRo3XW5IinqiZtJWdys9I-vRlTplJIm0cjI4Hzp7z3cdQDlkKcjBfQG9T2FNaWPzq0PAxTm3t9ILnJt-te9qiB7ARHy0c8fWc6e-v4inVC22nD2WIxJi6YttRJCkXJZoiA3Rxr_mIyDvdyqsbXh4hFQlbur2Ct3KZyOQK__mqyCNddylXBEsZKrGQIOAwoPNq9XA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 «راه تاز» برنامه‌ای متفاوت در شبکه سه با روایت دستاوردهای جمهوری اسلامی
@@ -1484,7 +1666,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-684085">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/7f814ea9e5.mp4?token=pyJqvzmO8QlU2X_38sFd_XQWBC45qGD2y8cvUmIkkMPy_eWLM_CHk9ij0rI6gRZLm9y9Eb8BO7TU6uQMUcKgS6mph0IolsThLqahFu4C9ZfMQ6pCdUXNYblUhIEzA3jsJXvfYDwB_D2opFrrW6h56_0v0c_VtmSA-wYoHVaoOtryb0wLo_Gok4TAf49WN0gb9F8TQ8s_YiFTs_BqFvgBZJDBFg17GTt36DBNb4OYoaKMdzxZ3puay1oWoEuIKq3sqMYtNzathPezNezuhuaWILFhC4vfzdjgUhuySr856EFH8TuOmProBz3U_tnCXgAmZAVHyCejRV0vEWCOmutE1Q" type="video/mp4">
@@ -1497,11 +1679,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/akhbarefori/684085" target="_blank">📅 23:23 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.1K · <a href="https://t.me/akhbarefori/684085" target="_blank">📅 23:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684084">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/b83F10C0HIQsxLYia8OgQMR8vd7UWz6mwiqCVGAMfWucVh0Y0fIYQT57mn-wdED6LVdq1e4cfePrnIzJdOkE4RkyC4Dk47gVqz9xTQI8sNe5-oUBdcRByMmEqtEI9SWvZ96YjQeZzAf20Bc4AhW1q6_KLDrEZM4cQ67acMO9gz2TSk71kDpog0clRPQpy-LJVTNDypXlTC6ZxzJqhtQWiMhVy0ghhPYQLOuemVDKXerrqaDj_2B-ENu3ysLemJ3qL51o-ugFLTxLjXRsYmmzTY0MspP3IKtHr9j6A_WKQP_-owKo2fso0jkbgAQ4m3iFdGMtcR6xL2NFf8lwC652VA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 واشنگتن چگونه می‌خواهد همه شریان‌های اقتصادی تهران را قطع کند؟ | دلار، نفت، کشتی و طلا؛ چهار جبهه جنگ اقتصادی آمریکا علیه ایران
@@ -1510,11 +1692,11 @@ Link</div>
 گزارش خبرفوری را اینجا بخوانید و نظر بدهید
 👇
 khabarfoori.com/fa/tiny/news-3240198</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/akhbarefori/684084" target="_blank">📅 23:22 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26K · <a href="https://t.me/akhbarefori/684084" target="_blank">📅 23:22 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684083">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/62a63edf13.mp4?token=U3XihBM1WJpBVG8EtnG-xBGB22_k06ftOvwzXLWjnGA-nrPMg8G0ezMQqaLyl6pGfZmsGwf6xwgCp49LQBa85Bq04kGIKBItGuoucqpFpR1SXL55sCUhN81sP7uto2_lQPh-N4oZr5PTqxYL0khzWw1QkJeG8yuJqFZMgiHCPDLDLAOUg5K9kfWYapzCOqD7x21kyPb9jknzY-6W4_3th6aGXmwwWTQEJaBz_ojZ3HtEFVJwozSAaSGWk5ekIxVS7c7rZT1EQ42prftML5UNgC1yD3-Dq1IOVCXX3xkipmwrLg2GEpUr8SykDPWQrYv50TV3qyj11V2BNN93Zzmlxw" type="video/mp4">
@@ -1530,11 +1712,11 @@ khabarfoori.com/fa/tiny/news-3240198</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/akhbarefori/684083" target="_blank">📅 23:14 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/akhbarefori/684083" target="_blank">📅 23:14 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684082">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">♦️
 ادعای مضحک وزیر جنگ آمریکا: می‌دانیم که ایران نمی‌تواند فشارها را تحمل کند و اقتصادش در مارپیچ نزولی قرار دارد
 🔹
@@ -1547,11 +1729,11 @@ khabarfoori.com/fa/tiny/news-3240198</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/akhbarefori/684082" target="_blank">📅 23:11 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.7K · <a href="https://t.me/akhbarefori/684082" target="_blank">📅 23:11 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684081">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">♦️
 نتانیاهو با استقبال از تحریم‌های جدید علیه ایران: به ترامپ و بسنت بابت تازه‌ترین تحریم‌ها علیه حکومت ایران تبریک می‌گویم
 🔹
@@ -1567,17 +1749,17 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-684080">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">♦️
 وزیر اقتصاد: مردم می‌توانند با استفاده از اوراق گواهی نفت سود ارزی از نفت آتی کسب کنند
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/akhbarefori/684080" target="_blank">📅 23:05 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/akhbarefori/684080" target="_blank">📅 23:05 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684079">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/4c1a7200f9.mp4?token=B8eMQY7pP3NgUMaj7ZTHpkmAVzwnLX3VGUOoJnqICvHRJiHkFQrz1QslwET0dZQOWmyUmCFqpfw_9ijQP8DuCxpSOLJcNwR9AGj6lR3WhPTfkDtdU2pFKZWtT33qrNkFB-KVlEOIHdahv27UPqxmzACJYoZYjvAg-vgXH8PLkjCM_C6bf9S9DJzs-BRraQqMewYwMjFQL-wcbS9-BKGJ6cxCuGdncL3a3NO7-0h6LS25rQqh2k8RgKN-ycqH27oYQX1KTH4wp7c2GM_-cM64t-iQKWNk0JyQpw7hh__pO1E7I5tup7uclAYuquXyix-pd3-0U9PH1wq-xN5CykNbdK8-3x0WI5Yk2hKRWOSvFa4SHGyWV1CUEh859zBY4_XYGPxXQNN6swTcEnhuKr_dp7PD6LKB2zNWhyafCQxdktJHEOWebY0i5pW1G2MtNwzHnfF0HUCvMgSnV-OOyy3MQoif-FGDHvhWN13RPmJDqD4bm0j_qcIJ8u1wZcGr_nFU5-vovQUec84jOOOEc8Ous0ZhvOMFmCEFZw8hy9Y9qXx4GfH_yXvyk2yjv_toc2VTBQkBBOQbjYePwt3mRq_orHF29VYJVHwVJGBPYYVQty288psgTm8p5xy2hsif4F57be5VcbV2i9ofV_uxCqdw67g9UW3civz2WgVARnv2KvE" type="video/mp4">
@@ -1592,11 +1774,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/akhbarefori/684079" target="_blank">📅 23:02 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/akhbarefori/684079" target="_blank">📅 23:02 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684078">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">🟢
 داستان لگویی جدید منتشر شد...
 ولی پایانش چیزی نیست که اولش فکر می‌کنی
@@ -1606,7 +1788,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-684076">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromTV فوری</strong></div>
 <div class="tg-text">♦️
 یک پیشنهاد ساده برای صاحبخانه‌ها
@@ -1615,11 +1797,11 @@ Link</div>
 اما اینجا قرار نیست درباره بخشیدن پول حرف بزنیم؛ درباره چیزی مهم‌تر از پول است...
 #چرخ_زندگی
 @Tv_Fori</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/akhbarefori/684076" target="_blank">📅 22:55 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/akhbarefori/684076" target="_blank">📅 22:55 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684075">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/32a6edfdc9.mp4?token=p7QGHxFDhxaAwODFOE_a0TzfIJZLvf8obpjdEu8qWIip7ZwOD3WvEgzcHbxe1EtB-Nt21-504iHFs8WcbAYIXHgqaruvMgVlYheM2CS3ip2AYSIoIPSHsmd4vgo_ZW4DUQEZ6wiau4fxWvqj-nyQh_2D7cmML9Ke_dAPg_Uzy6p3TyLGeS97Edn9qWAbBDFlUL0qVI7XMHjMxGfqKl4PqVuiW8FiC5HVhRvubakIQJohyqgaFv27k4rfhC60pJgHcR4qh0TRldjVO7-oCfHGGgJJp-jI-qPCS8H2zoi2mFUvCvqlVUVaH4StuL_oPbTBXO1vu2ECbwZkXVSX150_DA" type="video/mp4">
@@ -1633,11 +1815,11 @@ Link</div>
 آنها این صحبت‌ها را قبلا هم گفته‌اند، ما کاملا برای هر سناریویی آمادگی داریم.
 🔹
 شریان‌های مالی و اقتصادی دنیا به این سادگی نیست که بتوانند ادعا کنند ارتباطات مالی و تجاری ایران را به‌طور کامل قطع…</div>
-<div class="tg-footer">👁️ 24.9K · <a href="https://t.me/akhbarefori/684075" target="_blank">📅 22:54 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/akhbarefori/684075" target="_blank">📅 22:54 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684074">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HZimj8pqMThedJF9ysQsPat4a3jDg0-n03-ePpx5Ts_dp-BNfGuRxBAIyt1R_cO5zR5mKdNFKjdyIiM8FOUvETiR6tjt9mX8n5iN6FEP2XKUvn2HALWB0GgBqGSQCyDmhB7sDaB_myu8Zib7MqAz7ra9u9vgdKRbLGdAhBFlutNK4djpIVoYj4t7EaDRv7ACTrIeQUBIYtrckrXPzsc_mGz02lqyPW9sQp1Kk3HGLubmrVPyUv5YGkwoK1SEjWtjweVN1y8yh88jOOZ3fAxz_FGFFgt617gxINXSNFADf_dZrrnfWcwywz4zGC9KK2eMqE4ic38Cg-4j180JIvp-AA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 جدول لیگ برتر در پایان هفته سوم با صدرنشینی استقلال
@@ -1650,7 +1832,7 @@ Link</div>
 </div>
 
 <div class="tg-post" id="msg-684073">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d1kMnogj1eMeeGyQlvwUwLH59pRncoW76KR4DyvkzgOwi5vzmEEHIPA1o-mRBRSaq8aZVCPbeb_XCxhNx-DvOyS5cqVa_89rB_GYL4DTX9UT6dt_YOazCZIA0_Q1TirHUWaQ11Yo74iLo4acNOl8C1g6oSPJa1SlU3riIRZuPjUWeo55aADkabuoZwinUd5MO0A3qvvRsIet9EZQBnhtwhZCxXGdh5N2U5xTNbjuoSdzirNDqXodVK6LInp9aWpEfVYHzvRmYwgQF_3u6lOZD6gNshGFhuNyZM0slBkuXAZZlB-Hf5cWxl0etv9alYxPboDcB05EnB2_R1neKHBNDA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 الجزیره: از زمان شروع جنگ ایران بنزین در ۴۵ کشور گران شده است
@@ -1664,21 +1846,21 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/akhbarefori/684073" target="_blank">📅 22:47 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/akhbarefori/684073" target="_blank">📅 22:47 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684072">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">♦️
 پاسخ وزیر اقتصاد به اسکات بسنت: این‌بار هم شکست می‌خوری
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 26.6K · <a href="https://t.me/akhbarefori/684072" target="_blank">📅 22:44 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.5K · <a href="https://t.me/akhbarefori/684072" target="_blank">📅 22:44 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684070">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/nKqOC8UoynCUHd-52fbznI7g6Ow97ojrhdAt_M_jH7Ib81wn3xiC_N7O5_K9HyKdVAJCGcHIPQJBZD2z_1g0eA3DRfoh0CUsPOgBkNDLF_XfzdAg5CcVxk5iCU6rEEjESSh3oAWKa877xPw1WCyXzhqvLY2Ow7uQhI0wF3NUq8RH6PB2o0soQUhNvWhvcqBiqFn7Xw5BdpVOIQlud2U5PfG8vrXdMx4cFod0RQgudNd4ONXdxV5iZfJlgq-orU-XwUYkXBKTPcDOXyyam6QLAg-ONzcELSREM1nWpjkIA7k-mNI_15159kIYaEiSCfhE1blDqiD0yS_x-DsLraBoXg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/JAikv2BAEEMwXuPQtTvvjIp0Cty_6JjBgSw1r0YoBxO1w3AuC5sqoS-rO0SV0Bqz230Xfm4ickxJbaMquePmTMD3yaX1HEw2LzglnFRIkfit3cxbtAfd49U9-w16DUgb-vTmZU_ibLERfKzle9VGzFdQRx_97U6LW-k-I4KU8my1kWfndYK2BjexN8rUIpW-93TIpUhLB3xfbYerLHEIvFo3wtbGxa5bIFUEIajwjeY1_Ce9LO6fqXnk2Xdxk65w3LcqAzF-fdQNXFcab_XDDawI21TTUZ1RJMDTMRYH0ZLMntWWmY5vPEzxBlob2yfq0CvvHlyhQ6froZBWl3bcCg.jpg" alt="photo" loading="lazy"/></div>
@@ -1689,32 +1871,32 @@ Link</div>
 یک رسانۀ اماراتی مبلغ انتقال مهدی طارمی از المپیاکوس به الوصل را تنها ۴۰۰ هزار یورو اعلام کرد، تا او ارزان‌ترین لژیونر الوصل لقب بگیرد.
 🔹
 مبلغی که باشگاه الوصل برای خرید طارمی پرداخت کرده، حدود یک‌ششم پولی است که المپیاکوس برای…</div>
-<div class="tg-footer">👁️ 27.9K · <a href="https://t.me/akhbarefori/684070" target="_blank">📅 22:41 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/akhbarefori/684070" target="_blank">📅 22:41 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684069">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">♦️
 مدنی‌زاده: افزایش قیمت کالابرگ برای برخی اقشار از نیمه دوم سال اجرا می‌شود  وزیر امور اقتصادی و دارایی:
 🔹
 در ماه‌های ابتدایی سال، به دلیل کاهش درآمدهای نفتی و آسیب به زیرساخت‌های گازی، تأمین منابع کالابرگ با محدودیت‌هایی مواجه شد.
 🔹
 با استفاده از منابع دیگر،…</div>
-<div class="tg-footer">👁️ 28K · <a href="https://t.me/akhbarefori/684069" target="_blank">📅 22:38 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/akhbarefori/684069" target="_blank">📅 22:38 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684068">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-text">♦️
 پاسخ وزیر اقتصاد به اسکات بسنت: این‌بار هم شکست می‌خوری
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/akhbarefori/684068" target="_blank">📅 22:36 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/akhbarefori/684068" target="_blank">📅 22:36 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684067">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">♦️
 پزشکیان: زور و قلدری آمریکا راهگشا نیست؛ عاصم منیر: فرآیندها را با دقت دیپلماتیک پیش می‌بریم
 رئیس‌جمهور در دیدار با فرمانده ارتش پاکستان:
@@ -1723,11 +1905,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/akhbarefori/684067" target="_blank">📅 22:33 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/akhbarefori/684067" target="_blank">📅 22:33 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684066">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SRJjz2akQ9zuebxzQcTepr04JRLflyonEGZ_xP1lw4zsQq0l2b--aFiTWK1aDA1odTGufqjY9DCQIgHD6o9uAIqh1L3s0LTZo854ar7Fbj0FPRlLJn9zrD2vke8R0CYM617-EsQGK0xO3YDsHOvZih8IynCSLPR7RAb4R_M-fURE8SYQmQUz7aEle7Sd7OWYCPgz8FDKnCxHzBBhPwivENwWFtyqbbk5SxSBkvyVOg0MS9mAdDUGDo9DTT5tLgn0KPf0bN48_ca0eSrvlwT3h3ywvQ-G9DGEulc4qJ1Gy9K3t23eFDILQID4ZZMdKvPDhmwgehyqibeTxfUTFd3ZWg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 ما زنده‌ایم به امید
@@ -1738,11 +1920,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/akhbarefori/684066" target="_blank">📅 22:31 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/akhbarefori/684066" target="_blank">📅 22:31 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684065">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N512-4vSAzoT9l7P0FYVRyNGcynKkZj2JONlOSw_fqZ6D_Qjw61xnIFIZXAGY049mQI72alhYaYiYcxWmJN_arnw8NsR86MCXjx-5tuCmny89302hP12nRAGFEwlbuKABGNLqV7LefjTuTnXGck6YBgJ6X_havBO_eUGIFm0wR0kGkVmONu_CpDBOYZ_7SKNApnad9WRbs0Caa0wBgsR5rPOuHowJLgqiLTld3pTd7Etrs-1qdi6ypWXaTcTXshfes6G7LO5EEt1g-rdUJ1FlZr0QuJjwV-QGh2dep3uLEgH7XErEhRli_n0_LTawhRSYvPjwShDsMJ-UkXQ2OVcjg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">♦️
 هشدارهای غلط درباره رومینگ
@@ -1756,11 +1938,11 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/akhbarefori/684065" target="_blank">📅 22:29 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/akhbarefori/684065" target="_blank">📅 22:29 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684064">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">♦️
 وزیر دفاع و رئیس ستاد کل نیروهای مسلح یمن: دوران نبردهای صرفاً تدافعی به پایان رسیده است
 🔹
@@ -1771,11 +1953,11 @@ Link</div>
 @AkhbareFori
 |
 Link</div>
-<div class="tg-footer">👁️ 28.1K · <a href="https://t.me/akhbarefori/684064" target="_blank">📅 22:27 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/akhbarefori/684064" target="_blank">📅 22:27 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-684063">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/86e560e021.mp4?token=PFgxzkBGeflpAMO3yDPJu6DdYwIIiEpcwoGrIEp3L_ryU13OdFt7NDVCy5JC-0gb-hgIjRaakdXfozeH9ckTv4nSzqiefWvKfV1ddiYRRvQ3qr9SgmZamxPRkrC9N2cDivfIZcMLWAwzhPml1U1vh56UB-fJu31vRDRcKVTxeC8UBA9gMBt26UKJsf8euB23Sa5fvacmuPz4NNQD81j5liE_MVWXBdCWFGKJh_pQyfygfWATsncgNbpcCcjwcL5kXs5TaygPoipcGDuREiaNVKsppKhMe0QsddPEuW6Wj0i6vKvCOj9RIZwGd8bsgAq6ptOoKnjTnrLYYO6t_0csBg" type="video/mp4">
@@ -1790,181 +1972,7 @@ Link</div>
 🇮🇷
 ✊
 @AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/akhbarefori/684063" target="_blank">📅 22:21 · 02 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-684062">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/69aa0f9eb1.mp4?token=aTa8PhTGBj0XFewTurPVOJBhBOVXiUEXbAp5j08CPrVBPwwV5DSohinnsR2HLJgWDkoGViEnOnMUFX88PAiGTrzZWInTqvKjUSYQ1BAwt0xHW1tK-pSJXbvBe7BBZi3rXJQLvBp7N6grKCoUOt7_YeMebQaOHB9EeQdcve34Ii7N4vmPjYCRyQFi1_RYP_I-5ryMb45ki5HYY2D7i3ymez37iXJhqCrIRirgRO98L-1g4bpZaOuEybSn3m4G6ZYaOrMQJkCuAb-jqaDhnVAO_BuR2QcWuknRx7Bb5cmyN3AC9wVzBlV4qf6k4hxSSqj0iuX7DHF2xDAbiunkqsf73Q" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/69aa0f9eb1.mp4?token=aTa8PhTGBj0XFewTurPVOJBhBOVXiUEXbAp5j08CPrVBPwwV5DSohinnsR2HLJgWDkoGViEnOnMUFX88PAiGTrzZWInTqvKjUSYQ1BAwt0xHW1tK-pSJXbvBe7BBZi3rXJQLvBp7N6grKCoUOt7_YeMebQaOHB9EeQdcve34Ii7N4vmPjYCRyQFi1_RYP_I-5ryMb45ki5HYY2D7i3ymez37iXJhqCrIRirgRO98L-1g4bpZaOuEybSn3m4G6ZYaOrMQJkCuAb-jqaDhnVAO_BuR2QcWuknRx7Bb5cmyN3AC9wVzBlV4qf6k4hxSSqj0iuX7DHF2xDAbiunkqsf73Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-مدنی زاده: زمان توقف کالا در گمرک از ۱۰ ماه به ۸ روز کاهش یافت
-وزیر امور اقتصادی و دارایی:
-🔹
-طی ماه های آینده  زمان ترخیص کالا را به سه روز می رسانیم.
-🇮🇷
-✊
-@AkhbareFori
-|
-Link</div>
-<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/akhbarefori/684062" target="_blank">📅 22:17 · 02 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-684061">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jSphtilliaeaEJI33GvNPkrnJqLvjM70zNpR6w9MgM5zFFzSuGRi8W-42Fhv4sBf4FIQ6sW9zIGuX51qkWbKZlZ8cOKaUhJNS9z02dcUXsrkG8Jkjj0YfmAJlNrZxwjfe8RdqjaLdVbsWvKrNqSpJnroLQFsZBaYEPvTNCJcY2j8u3stOJhy9cZ3uNvyADfG0utvQBFaOATLbyF0i77V-LAXGzJ5T-sB0x6Yli4ZV_vSoeN7k06oBIXAqRzXvSgU5k1BLeRwI5kneoUktnWfr9USS5aZyMBNuZhm8SF-9JtnpPyJo5qbfS_XtOv5geub99LebmSJLlEgsWzsWGec8g.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">♦️
-ترامپ قمارباز: کانادا باید خود را با مقررات آمریکا وفق دهد
-🔹
-ترامپ در اظهاراتی درباره روابط اقتصادی آمریکا و کانادا گفت بخش قابل‌توجهی از برق، نفت و گاز مورد نیاز کانادا از طریق ایالات متحده منتقل می‌شود.
-🔹
-او با لحنی تند خطاب به مقام‌های کانادایی: یادتان باشد، بخش زیادی از برق، نفت و گازی که کانادا دریافت می‌کند از طریق ایالات متحده آمریکا منتقل می‌شود
-🔹
-یکی باید این دلقک‌ها را وادار کند که خودشان را با مقررات وفق دهند؛ وگرنه عواقب آن برای کانادا بسیار بدتر خواهد بود.
-#Devil
-📲
-🇮🇷
-✊
-@AkhbareFori
-|
-Link</div>
-<div class="tg-footer">👁️ 30.8K · <a href="https://t.me/akhbarefori/684061" target="_blank">📅 22:15 · 02 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-684060">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-text">♦️
-آمریکا نام سوریه و «جبهه النصره» را از لیست‌ سیاه حذف کرد
-🔹
-وزارت خزانه‌داری و وزارت امور خارجه آمریکا رسماً اعلام کردند که نام سوریه و گروه تروریستی «جبهه النصره» را از فهرست‌های تروریستی خود خارج کرده‌اند.
-📲
-🇮🇷
-✊
-@AkhbareFori
-|
-Link</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/akhbarefori/684060" target="_blank">📅 22:12 · 02 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-684059">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/bf2c709522.mp4?token=cc-7fRhlz4l58IpsRPnZf_nPXg1THFdG-VAxZLhA1aqi78io1uMHdiK-UHnMeCE7lLdJI6sKYidmUkH4bbZZte8FsDbPuysMXLe-bV8CPQ5tCtoJFREiFvzME5boFi0hFIWhuldEPnFGVUQ_7iyc3ImId-R7R2g69KD6SQCWWjCnZwPmYCf-uaeTc1BrYswT9GERI-q32GPSfITY_vYnyvX5tTO1o1G6J5PvXlLdFrtibx789sH6pZ0pvBK2eFIx-rE5NzxOLjhfFvv__v0_KLRn19m2lBAsDW_O1pJyUxw7B4TNfURc6PNVBMT1juWwtE6Eo-EIcxOsg62SxGaOoQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/bf2c709522.mp4?token=cc-7fRhlz4l58IpsRPnZf_nPXg1THFdG-VAxZLhA1aqi78io1uMHdiK-UHnMeCE7lLdJI6sKYidmUkH4bbZZte8FsDbPuysMXLe-bV8CPQ5tCtoJFREiFvzME5boFi0hFIWhuldEPnFGVUQ_7iyc3ImId-R7R2g69KD6SQCWWjCnZwPmYCf-uaeTc1BrYswT9GERI-q32GPSfITY_vYnyvX5tTO1o1G6J5PvXlLdFrtibx789sH6pZ0pvBK2eFIx-rE5NzxOLjhfFvv__v0_KLRn19m2lBAsDW_O1pJyUxw7B4TNfURc6PNVBMT1juWwtE6Eo-EIcxOsg62SxGaOoQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-کابوس مرگ ترامپ سر میز غذا
-🔹
-یک وعده غذای معمولی به صحنه‌ای مرگبار تبدیل می‌شود؛ اتفاقی شوکه‌کننده که همه‌چیز را در چند لحظه تغییر می‌دهد.... #کابوس_ترامپ
-🇮🇷
-✊
-@AkhbareFori | Link</div>
-<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/akhbarefori/684059" target="_blank">📅 22:08 · 02 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-684058">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VPvpuTpsmC8xIw5P_PPnzPpLgEyWC-iunlBCq1wU4-9xbbDsO6TNaR-1JyU941DKDC1qFhSmS164ZF8ypA0uRP_Kt9UguKTFp6MRtdvgSH6wM81wXDKMvpJFFR54x8-6dAMwERegdMBLWEyuYdxdv5Oi9NbfW0F7pjGZaL4t5nf8_FSlY6LsM9i6k7yKNAea5zgp7JvopXFCToWly9Q3-gV1PxxJsEndZsm9O2IEybv1yHlhJ-hhifv3UagmzTDk-cbo8yeJnMvYmcl0oAD0UKtV7adf9_LodxoCEpASedejbMWy-5nFHCo2DjKVw5IqspR9l4iYoXO8ZiKz12Ze1w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">♦️
-رازدار بودن، فقط پنهان کردن یک راز نیست؛ راهی برای حفظ اختیار و آرامش انسان است
-🔹
-امام علی(ع) در نهج‌البلاغه می‌فرماید: «هر کس راز خود را پنهان دارد، اختیار کار در دست اوست.» گاهی نگفتن، قدرتی‌ست که به انسان اجازه می‌دهد سرنوشت تصمیم‌هایش را خودش در دست…</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/akhbarefori/684058" target="_blank">📅 22:04 · 02 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-684057">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/c16caf9a31.mp4?token=YCZDTrdXnoM0OuRkdteb0MHZSzyNZetPANCWb3-jpTpKBmt1mljGbm1z04ehdvrtn42KlPBgmOoO0vLuv6Ln7knZMpflQlvm95rcOLH9APkLdUXKxLswb_8H04KcBFYgO6wbeh4P7wkWf-73hBTcxhbCTgDRWmt7TreS5FkAiTsumLLd8gamC-kchF-QSkrEeMJKZAc_4oHn-auMufP80jvzjNR-INqc2upiA3H-awRkgmq2rSaObLoQqrYzyLxNiKlf6IxkoJ7IhogKejkmwyekAUZvRz63ZtyJKKmu7VHQiKt5C6qT0R7LWvkTwwCkzQ3bA3KC6YAumVLjhVwb1A" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/c16caf9a31.mp4?token=YCZDTrdXnoM0OuRkdteb0MHZSzyNZetPANCWb3-jpTpKBmt1mljGbm1z04ehdvrtn42KlPBgmOoO0vLuv6Ln7knZMpflQlvm95rcOLH9APkLdUXKxLswb_8H04KcBFYgO6wbeh4P7wkWf-73hBTcxhbCTgDRWmt7TreS5FkAiTsumLLd8gamC-kchF-QSkrEeMJKZAc_4oHn-auMufP80jvzjNR-INqc2upiA3H-awRkgmq2rSaObLoQqrYzyLxNiKlf6IxkoJ7IhogKejkmwyekAUZvRz63ZtyJKKmu7VHQiKt5C6qT0R7LWvkTwwCkzQ3bA3KC6YAumVLjhVwb1A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-سوال جالب خبرنگار از وزیر خزانه داری آمریکا درباره عملیات تحریمی ایران  خبرنگار:
-🔹
-شما این عملیات تحریمی علیه ایران را یک «روز D» اقتصادی توصیف می‌کنید، اما روز D یک تهدید به حمله نبود و آمریکا به آلمان یک بازهٔ زمانی نداد. چرا تحریم‌ها را امروز اعمال نمی‌کنید؟…</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/akhbarefori/684057" target="_blank">📅 22:03 · 02 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-684056">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-text">♦️
-منبع ارشد اطلاعاتی ایران: طرح فشار اقتصادی ترامپ، عملیات روانی است
-🔹
-یک منبع ارشد اطلاعاتی ایران، طرح فشار اقتصادی ترامپ را بخشی از جنگ روانی علیه مردم دانست و تأکید کرد آمریکا پیش‌تر همه ابزارهای فشار، از تحریم تا محاصره، را به کار گرفته است.
-🔹
-وی ادعاهای ترامپ درباره حمله به زیرساخت‌ها و تنگه هرمز را نیز عمدتاً عملیات رسانه‌ای برای کنترل قیمت انرژی و اثرگذاری بر بازارها توصیف کرد.
-🔹
-این منبع، طرح جدید فشار اقتصادی و حضور میانجی پاکستانی را تکرار همین الگو دانست و گفت اقدام میدانی جدیدی رخ نخواهد داد؛ ترامپ می‌کوشد مشکلات خود در میدان را با عملیات روانی جبران کند./ خبرفوری
-🇮🇷
-✊
-@AkhbareFori
-|
-Link</div>
-<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/akhbarefori/684056" target="_blank">📅 21:56 · 02 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-684055">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/0a62c30e2b.mp4?token=Z1D9F46B3WMElmh7GoD6G13gnJcD_lpfPWyLf-w9-wRe0DFmEv5ejLUL9Hnn0HAkKaRMGB_odHNkLzh33zR-P19ixEc7pDlDgklCgC8vB9VmsKiUXuGU1OUhj95-1P8sWXe6mlAvL-Jq-B3-n9gilH4Ci-yLCsDX3y4vC-bD1CkNX6iZwNFOcl2iRluzZJ1qqRMVu6yN4O27l8ew07EF068VPygfZQasnE-wfJ2BXkKFZobXmL-vlm3qT3HFQTGYOf32TDyEu31HaiGRfmZwQEI49UBiGOb2HW4zfIcHUBOnQpmA16MwEIkdqLLKdQE-cjT7_dP9UAtvzCdvU6CzSg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/0a62c30e2b.mp4?token=Z1D9F46B3WMElmh7GoD6G13gnJcD_lpfPWyLf-w9-wRe0DFmEv5ejLUL9Hnn0HAkKaRMGB_odHNkLzh33zR-P19ixEc7pDlDgklCgC8vB9VmsKiUXuGU1OUhj95-1P8sWXe6mlAvL-Jq-B3-n9gilH4Ci-yLCsDX3y4vC-bD1CkNX6iZwNFOcl2iRluzZJ1qqRMVu6yN4O27l8ew07EF068VPygfZQasnE-wfJ2BXkKFZobXmL-vlm3qT3HFQTGYOf32TDyEu31HaiGRfmZwQEI49UBiGOb2HW4zfIcHUBOnQpmA16MwEIkdqLLKdQE-cjT7_dP9UAtvzCdvU6CzSg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-لحظاتی از دیدار صمیمانه سرلشکر محسن رضایی و فیلد مارشال عاصم منیر در تهران
-🇮🇷
-✊
-@AkhbareFori</div>
-<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/akhbarefori/684055" target="_blank">📅 21:48 · 02 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-684054">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/df291ff75c.mp4?token=a1YF8vejgEdGha-bVs6qhVay6nak8mGBPzy9-tdXJnPR15CG5AFE-lMu-nkFa5kkqyiOqG_7a4kjmTkFm6r0HDzjtBhaqo1OWic2ltTacGf6CtbrV-eZ12fEx-JmRTd0DKgwMbLcaS_-bcc-9BbAuGCxSCkVzO6-cxDhP9CHtw4cc0-bDMqEkYLPdEvM6gb39JXbF6Whg1fALfJOiE66cnANRKfqC0Tgr7oFDUypM3d4bs-4mNrU0nBnJn2WHuQ5nz50BG6h_Pn3Z-skJXp0z0w78ZF0-kTrHucTSG8f1KOb3HM92uS8yaLcqTsbnYwbPbZ2BAraQNtiTQY2P05m1g" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/df291ff75c.mp4?token=a1YF8vejgEdGha-bVs6qhVay6nak8mGBPzy9-tdXJnPR15CG5AFE-lMu-nkFa5kkqyiOqG_7a4kjmTkFm6r0HDzjtBhaqo1OWic2ltTacGf6CtbrV-eZ12fEx-JmRTd0DKgwMbLcaS_-bcc-9BbAuGCxSCkVzO6-cxDhP9CHtw4cc0-bDMqEkYLPdEvM6gb39JXbF6Whg1fALfJOiE66cnANRKfqC0Tgr7oFDUypM3d4bs-4mNrU0nBnJn2WHuQ5nz50BG6h_Pn3Z-skJXp0z0w78ZF0-kTrHucTSG8f1KOb3HM92uS8yaLcqTsbnYwbPbZ2BAraQNtiTQY2P05m1g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">♦️
-بسنت: هیچ‌کس از تحریم‌های آمریکا علیه ایران در امان نیست  وزیر خزانه‌داری آمریکا، درباره چین و ایران:
-🔹
-می‌خواهیم امروز به‌صراحت اعلام کنیم که هیچ‌کس خارج از دسترس تحریم‌های آمریکا نیست. هر فرد یا نهادی که معاملات را تسهیل کند و بخشی از شبکه‌ای باشد که نفت…</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/akhbarefori/684054" target="_blank">📅 21:45 · 02 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-684052">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromآمارفکت</strong></div>
-<div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/smAqgrbPAr3bBBeT7GYNT3UjxU-RB5zmLkD7CFg4zOXuPXQ9y72MR6FsO-NxW-rp216cuU_qW6hRJIzCSal2OS4obKVLzv8XeS1eS9cpq6eSnXFky7h4XS8qwhLmmVUbqOkE9HYz3ORZNuay5uLkKngvDUOdUrR8aOJdi3Co8SfX5QOI6wMNRUClGJckdL_uIEgTUoX4mFq_bWdSHqwSpRdcs9d22cPz0m2dC2jraQLK4wQmG3fBVnIT_HPBhWyC0FGU0dFpzYxvh6f_MMVByQgIvzIi1fkWDd7aQL8KvqHiEUzWykpvxeVt89dUBEiNjZVBHVUB55zMs4z2J-Ovsw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/BiOTdWMNySo2VhfNfThI-ywIXi7I-JOuXXEYZCNi37QyfKTMrOo2YD_l50MRnCnrK_hSdIa2coGKoRt6q6Yo5u8EDe7JFyce0-b_pAL9zbI3f9IXEkUP02jMf1XU4InE7vKe5nwSw9Z0u3FhoZm3-ZP3diPtKprhrITVBbYaRVedbMDwjKR2Kytt2aN7zSyafqYtusk8IlXDUGOvguK3OzPQvXS2sFU8ilO5m0LwwHvQdV9o-TAl7BTXyNS0A_llw3i-iDw19YkY0GZ4tPl4RdqTlB1Rp8qdmPrsdTrp1sOcO1t_0jVE1LsvctAY209Vp9_Y1WY9mbVRoUZFGlgOGw.jpg" alt="photo" loading="lazy"/></div>
-</div>
-<div class="tg-text">پیامدهای بسته شدن تنگه هرمز
-🔹
-بر اساس گزارش آژانس بین‌المللی انرژی (IEA)، تنگه هرمز شاهراه حیاتی انرژی و تجارت در جهان است؛ به‌طوری‌که ۵۰ درصد گوگرد، ۳۰ درصد کود اوره و ۲۵ درصد تجارت دریایی نفت عالم از این گذرگاه عبور می‌کند.
-🔹
-پس از آغاز جنگ و بسته شدن تنگه هرمز، آژانس بین‌المللی انرژی گزارش می‌دهد که اختلال شدید در بازار انرژی ایجاد شده است که آزادسازی روزانه ۴۰۰ میلیون بشکه نفت استراتژیک یکی از مهم‌ترین پیامدهای آن است.
-🔹
-بر اساس گزارش این آژانس، افت ۳٫۳ میلیون بشکه‌ای صادرات محصولات پالایشی و کاهش بیش از ۲ میلیارد متر مکعبی عرضه هفتگی LNG از دیگر پیامدهای بسته بودن تنگه هرمز است.
-📊
-آمارفکت | مرجع تخصصی آمار کشور
-@amarfact</div>
-<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/akhbarefori/684052" target="_blank">📅 21:42 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/akhbarefori/684063" target="_blank">📅 22:21 · 02 Shahrivar 1405</a></div>
 </div>
 
 <hr>

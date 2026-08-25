@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 11:06:14</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 12:01:20</div>
 <hr>
 
 <div class="tg-post" id="msg-2920">
@@ -321,7 +321,7 @@
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.64K · <a href="https://t.me/iaghapour/2920" target="_blank">📅 18:25 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.75K · <a href="https://t.me/iaghapour/2920" target="_blank">📅 18:25 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2919">
@@ -360,7 +360,7 @@ Wan 3.0
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.52K · <a href="https://t.me/iaghapour/2919" target="_blank">📅 16:59 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.61K · <a href="https://t.me/iaghapour/2919" target="_blank">📅 16:59 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2918">
@@ -408,7 +408,7 @@ railway-pg-node.railway.internal
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.08K · <a href="https://t.me/iaghapour/2918" target="_blank">📅 14:28 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.14K · <a href="https://t.me/iaghapour/2918" target="_blank">📅 14:28 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2916">
@@ -437,7 +437,7 @@ WebView
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.91K · <a href="https://t.me/iaghapour/2916" target="_blank">📅 20:40 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.93K · <a href="https://t.me/iaghapour/2916" target="_blank">📅 20:40 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2915">
@@ -475,7 +475,7 @@ Spotify
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.87K · <a href="https://t.me/iaghapour/2915" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.9K · <a href="https://t.me/iaghapour/2915" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2912">
@@ -523,7 +523,7 @@ aleskxyz
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.26K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.27K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2911">
@@ -663,7 +663,7 @@ Port:
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.46K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 8.48K · <a href="https://t.me/iaghapour/2911" target="_blank">📅 20:05 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2910">
@@ -694,7 +694,7 @@ cpuid.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.99K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
@@ -725,7 +725,7 @@ YouTube</div>
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 9.76K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 9.77K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2907">
@@ -988,7 +988,7 @@ YouTube</div>
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
@@ -1699,7 +1699,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2858">
 <div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kJsuDN1Q34Y-JcoHxdqzGQRLK2Sy4nsB8NJUt2tnTPLH_SCmaZpc5BmW9pjpnDFBEoWjJlFkmYVNHr2R3jvMBwYENltLvYu5SSXWd1DGjlgJX_5I4Tu9OjNp8_0xysxpmPxfVhE49gewr5HhdqgrShib0901D_9wsayNzdKH4WyMsHkDLmlbv9xlQZPtVEb4fqtjvV97Y8mrYwO6w_a58HNM-bVaRqKl1nGQuW-gp2siWlcNA8xvofIwTe5lys1RU3Q0XltT7AivW3wKi7ixeABLhVLEpcKDbLvtosyabHdAudc2tO8jL4dUuVmhrNrzoo9dRT0J9aMGh8XOQU7Jjg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IKXaqvGegWI_u2MvBMaeqA1IhjgZlL8aUas8knL8A-K4Cy9pI7NZVwc2cEX4MHa7_pU7aMCEyIeLE0FF9lZsFuRhydKwvMEZ53jYEeQeufYpJKZs0LauQq5wVjRIS7QfD-XpXhWeuCjYHtfon06ZvR_5GsJ1nTkM7cXynEct7moRrmD3IcbA-AX95eIr55tP1q9tJYjfeAkUqsqZv0_27uXBTE-nYSXeunOEa3QivuZ1mP6e6vNivK91REtPfQ3xggUVuCHKTFfYj1X3X9qDC8IyMuz4b4su7xjwFhRiapzpFu3GDLKNweMqf8iirBtgRrL8B_Qp82nJVEHFGbxHmg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 کمپانی OpenAI ابزار ChatGPT Translate را راه اندازی کرد
 شرکت OpenAI سرویس ترجمه اختصاصی خود را در آدرس به‌صورت رایگان و بدون نیاز به ورود به حساب کاربری در دسترس قرار داده است.
@@ -1749,7 +1749,7 @@ YouTube</div>
 
 <div class="tg-post" id="msg-2854">
 <div class="tg-post-header">📌 پیام #54</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fbKfBaODW8uyVCQUwJBtqGl799Sek2SS5oeR2ZKlOaK7RQ8wuyw_Zxj7T4tjLFPBQxe9NPMjcNL-yKVFETKAdGcE7iz0rrCHNXNzGrwcK138KiU7lgoH7GUQ4MvUHOr91g0rMACpaoXYFpU0WPaDS55bwkmG45TIqbh0dDMEA-z5XXKBkiNn62uCycweRroKYWXc2OoWc1kBYh6diBYAVl67ps1OSoH0fefx2-4LIBil9NDF5SybQCHhGcUY0B8zz5VkpVubU8bTalhdCOm3LiChNLB6dyiO3jYgQCMqjJfsWKCava3UjIUAe6nEc1uLHoGjjNQTLDBDggusOwxQjQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/l9pzwKG0FlGb6SxEYy7VAaUPFyoPEhzu3How6XA4SdcygWRbyttEpMzigDYudJx266xFoC7MiqyBH7gmATduwcbYR9EKoFeGwbnmH8niw9se7J6uGLWZv3z_thM6Nlt8bfI5FeLew9OQ6yE9I4eUV5v2qEbph9HUF2qjPZAK60BAKPG2nQFTYqML8MnvnlZgitVU4LrC-LQrXmcd3Am72x9tH0tBsdbV4CrVtpYUwF4SkdzBUawJJZF4hbOGbrlviD2cKKOfn-FEzAmpj_qzt3UEBnV0sWUC4wbJJmyFD-eChgc1LM9xaG50hTcwssGEEYgnBcrck-BpM6SdQ7rJ2A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
 پ.ن این چی بود من دیدم :)</div>
