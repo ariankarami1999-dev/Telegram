@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 06:54:04</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 07:36:06</div>
 <hr>
 
 <div class="tg-post" id="msg-2567">
@@ -344,7 +344,7 @@ github.com/telegramdesktop/tproxy-server
 
 <div class="tg-post" id="msg-2564">
 <div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jRdV8fXLI5erUwfN3ehELMNN-Rg6tOuwqWUZPX-_ijVTOWZQlHWSBKtExpqiWbcZ7XeRdhSQPDCemy1wDETJPExzkdcy_zaP7sudyiDYD95htMSHlwJulfQHgbNOHoO8d8dFYfgN9_ks6wsMyr-oIBEVxgONpE0X-kE4Y_UDnAvLCwG82q_I-1x8Z8fEml0IuY9z-xG7PWMOvoNzYZEcg_8nmcgQXGjer0NdxoUzMm8ThFKJxPVlKMyeusy8Z1ZPKVYWw_bBVUe65frYHvjkp5gao8bde_NgkYr4Bbc-kQ9kGj87B-EHFs22IwwYBWjUoz5iYF3K894zg9SGRNuG7g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gnKaW2W_w-nbDjwCRfjVgq1kfoTPKWuCJP37sL5dsZ48tO9mckoXl_tUp278bBvcqPGTRlwklDgcdzZb1cXRdHCimpAyLSrkoA0l_4riOX0PkphVB67fIMfeeDEB8pRprHW-v7XJQqGKEKYCRup3XnxCtDUCKrXeLg6EmM0DKB1C8WiGlrwPCqvO5ZcrQOUcAqpJBn1WpMIRxEYNbigogJfNP2vqD0Yp9W_z9SgJArAEMmG6DfnyZg9DUYsd980ddPcafiiFzXF4izMrPzS2szFQe_TV4433wZqyeAo1s_YHBPy1xUU5KHMbCllAWgnZbDf3SFdx_85mNqD1_PAwQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در کدهای نسخه دسکتاپ از تلگرام نشانه‌هایی از یک پروکسی آزمایشی جدید با نام WEB مشاهده کردن، که از WebView و ارتباطات مبتنی بر HTTPS/WebSocket استفاده می‌کنه. این قابلیت هنوز در حال توسعه هست و مشخص نیست نسخه نهایی اون دقیقاً با چه معماری و مشخصاتی منتشر بشه.
 ©
 telelakel
@@ -360,7 +360,7 @@ telelakel
 
 <div class="tg-post" id="msg-2563">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WDz3fXI3Hycoz46c5I1_qoEdXTx-RbcttJCg2XdNpD4WgyZH21cBv29AvmytK2v_Gd5mG5I7ABQBnt_t7dl_1ekdeUvCV22ztG-J_rkll1okKmQD8GSnwr6pf7KgLeuKjR-b4WSacAsLdznPC3iTv3ARslNqXpsDCS_uAtRp7bPI3Rw4MEKbzAodH59PfFlOPz2jIEXbd4wyoKoNy_xPcbe7FDEpACaNU_NxrEjK8FsuiFvzssoOUT2bJJE1_9Vfx8Pj7YumnhBJ5vsBm2w-QsR6rFZaLqq4pLzLxRxhyFC0O1TdV5_Eq9YwU6L2T9cMsuy7Ci3St61GPEejLmfg0A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/B_dZB37_PSwiidpEgGxFnPqr8MgQv_el7_rhUcS6SmHG_ZYtS8QK3X6evcLSPowmbLIH7pAy-jTpOh0woW0KNB2wc_RdhoSxbtlJYO68r-5cdR7l_Eh7K73FZ_L81cfkiTvmn2DqyruXPBdxwiBPechkrHRmqFbZIenJyB90_NTUBUuoFwMWAI9B2ykGpm6anPquPyWzjN8OjBZPiYjRU7CAPzrv5PWaL3n_uB9Lriz8xdAWbSjoIScSXEEsexWjng-I5ADHIYe3K5RRU78gDPQQQMishloyqsSKKQ0V6XBYtb66WihfSEIxbZVNCgRF0nzzQ-XpaKu5n302Z1sM_w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اتحادیه اروپا با همکاری سازمان ETSI یک استاندارد امنیتی جدید برای VPNها با نام EN 304 620 معرفی کرده که در چارچوب قانون Cyber Resilience Act قرار می‌گیره. بر اساس این استاندارد، VPNهایی که در بازار اروپا عرضه میشن باید حداقل استانداردهای مشخصی در زمینه رمزنگاری، احراز هویت، مدیریت کلیدها و مقابله با آسیب‌پذیری‌های امنیتی داشته باشن و این موارد هم قابل بررسی و ممیزی باشه.
 البته این مقررات به معنی ممنوعیت VPN یا محدود کردن دسترسی به اونها نیست؛ هدفشون اینه که VPNهای ناامن و بی‌کیفیت از بازار کنار گذاشته بشن و سطح امنیت سرویس‌های موجود بالاتر بره.
 شرکت‌هایی مثل NordVPN، Surfshark، Cisco، Google، Palo Alto Networks و Airbus هم در تدوین این الزامات مشارکت داشتن. از طرف دیگه، ارائه‌دهندگان VPN باید آسیب‌پذیری‌های جدی و فعال رو سریع‌تر گزارش و برطرف کنن.
@@ -379,7 +379,7 @@ techradar
 
 <div class="tg-post" id="msg-2562">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OhI-JV6R8RU_mwe4o9SPHoCLqRpDRSrtMQVqnLcXzr3fTBgImq5GsHYxAkXG8_0Y9Z71LF81lzLYOz0pVhbcNGWOnufLYrPuDxj48T9Y6jpjX2Yiw5kfhKgC37Bu6g4WFu9xMVeRMOqmaSKCPKRspULkxzpKcenFGgvvlRXZtpxQKEeTmG7CSxfE0Du4BNLJK_lm70iMe-nzoMV-o8onKWFdt1ObJZnNMXJ_lZGi9rvc3CFBVHrBenwmPReBsSCcBqxFWHnKoY3Z3z60thVIoa1mg857DlRG7V0_q8VUx7Fz5VNa53d8R8BYwlytoE54W0q9ryoGeLKiX16ZfKp17A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CM9lZ1aaSN8a1asSTWECLATxnL4jr1LvZHID-qje-Li9AxPmEjQlG1_XV0yLWPEhc2cwp95DqEe6K-9qelR1Eaimha07PrgFBjOb9C4LQIZ0lOHjhT5B9b8af0gkeOuKhe1ayV8j1hf5XNs-5mAHzM9fYnWDOsJzl57pU0LVVUZ4gDD0CrNj3oOWvs8Y9jN8iWFgg_ABvl_lhZBohULdlqbASLzYlvZYXv0-AiREGPHx_xogJmcZ9KPCXPhP4MU79DSZ9O1Uudb_Lv730LKQukxjGFhLgKW2wp0ZM9aN4cw-iOnYFpf-HfAD3_rL7RC4kdkqzZK_ONHNHwj9USnhYg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تیم پس‌کوچه با بررسی نسخه اندروید فیلترشکن Line VPN که تا الان بیش از یک میلیون بار از گوگل‌پلی دانلود شده، ۶ ایراد امنیتی مهم در بخش‌های مختلف اون پیدا کرده، که در سطح بالا ارزیابی میشن.
 مشکل اصلی و مشترک در تمام این موارد یک چیزه، که اپلیکیشن در چند نقطه حساس نمی‌تونه با اطمینان تشخیص بده آیا اطلاعاتی که دریافت می‌کنه واقعاً از سرور مورد اعتماد اومدن یا نه، و آیا هویتی که برای اتصال استفاده می‌کنه فقط در اختیار یک کاربر مجاز قرار داره یا خیر.
 پس‌کوچه این وی‌پی‌ان رو بیش از اینکه سپر باشه، به ریسک امنیتی تشبیه کرده.
@@ -472,7 +472,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -524,10 +524,10 @@ thepanue
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/7887a97904.mp4?token=Az6gT-GFqbYvmP-NhrEJ6T3j9KXG7Fi2iA4juM688_7u_rfcwG-7TliFP5O2FIcixHiASARXK6LdESEiPbbkjcfcxpcqRBjr9kT7ozOQjzlFflm4b8UFUfl49jz-9VbGF2Wm82PAI1ox174S2vjs-zSICHz8lNVh0nq5bzVqIeTVN0rbsTtbIVaYIgbzQ97nyFF99sgwjuw30xpW7lBijhURKAYKpPXpt9cIv2cssXflLVDaQg7IC_2dSyFV2u8HoyTOHlKlaHypRnMnTx18Gaq4uUhTuN54P-7NZbKcbPbWbjJSLw5U0Y60ukFhxjulJjyEzDfa1pUG6VW2oEkxWg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/7887a97904.mp4?token=KIzDcDHKouWmAFA1-jVgc8yUpVtk6rXGaGQmIDnUGQIuIxl4LR5-CBZa4_3RUdtMTmrOX_P8ZmQy2_ge0mm4778JIuHkVDl94eGjRRSa4iSTMD2wJpL574AIPqBidxl1T-UaeRr2_RgLWkuHf2AofGeFyYUyMLigp-uxVql8JMdN3aYX8VEL1kU34tQA6dStsUinx-Okm4WbhTHM0TVGJl1-hAZd282XMvYNal4jJCWa3heKrTv2XBwIb-vj4tStW-ROl07tTUHY8x1jIoEXbD8Oj3MagIpurKxL6ONJpqad9_3F_NSFK6f84XqiDdidpxdG6WGbBl4k3PYPl4D6ZQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/7887a97904.mp4?token=Az6gT-GFqbYvmP-NhrEJ6T3j9KXG7Fi2iA4juM688_7u_rfcwG-7TliFP5O2FIcixHiASARXK6LdESEiPbbkjcfcxpcqRBjr9kT7ozOQjzlFflm4b8UFUfl49jz-9VbGF2Wm82PAI1ox174S2vjs-zSICHz8lNVh0nq5bzVqIeTVN0rbsTtbIVaYIgbzQ97nyFF99sgwjuw30xpW7lBijhURKAYKpPXpt9cIv2cssXflLVDaQg7IC_2dSyFV2u8HoyTOHlKlaHypRnMnTx18Gaq4uUhTuN54P-7NZbKcbPbWbjJSLw5U0Y60ukFhxjulJjyEzDfa1pUG6VW2oEkxWg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/7887a97904.mp4?token=KIzDcDHKouWmAFA1-jVgc8yUpVtk6rXGaGQmIDnUGQIuIxl4LR5-CBZa4_3RUdtMTmrOX_P8ZmQy2_ge0mm4778JIuHkVDl94eGjRRSa4iSTMD2wJpL574AIPqBidxl1T-UaeRr2_RgLWkuHf2AofGeFyYUyMLigp-uxVql8JMdN3aYX8VEL1kU34tQA6dStsUinx-Okm4WbhTHM0TVGJl1-hAZd282XMvYNal4jJCWa3heKrTv2XBwIb-vj4tStW-ROl07tTUHY8x1jIoEXbD8Oj3MagIpurKxL6ONJpqad9_3F_NSFK6f84XqiDdidpxdG6WGbBl4k3PYPl4D6ZQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اینو ممد ساخته. یکی از محمدها، که نمیشناسمش و قرار نیست بدونیم کدوم یکیشونه؛ ولی باهاش کلی خندیدم
 😂
@@ -545,7 +545,7 @@ Mohammad
 
 <div class="tg-post" id="msg-2551">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/sldZLhqGBhST9WymU_4Wqgju6Mj40ms-C1q67Dyt93hIisGaq8O-VAGz4IFL5CHCDNLA3jYg7Y2bdUTjrPd1PeBUcrzzU76HLk0jQd2KgrPNBAYHZgRVCgP5x87lUchZQW5PoNtum2TxAcGWrWvYD3BzYRKXaCE1d50jy1NxFG2mJuyZ7ZuZlvt0JJUEFysmyAML9HmalFHb-JOO9BFVr21gALZZ3lfN9NyVRiFePBCMtd1pPA4e1SwjVxkFLLVMZ2Ja_mXqG_G51ya1DP5tx8x_D2u7HgV-CYxzLQ4IIuZ-Eugy5TS5DgeahfBNO3DRAHUQ6M6UjOfCmRv6SQIYzw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Neljmhfn6kkgu23V-NL-Az1aNuwC86k8TmU3H4GbqKplnSAe_CrJ3wYDQwzhWztvcKMbDNye9eyDIoRiNjFeRVAYqjFDelB5T4MnJSZ1OaxTFIo1ZieX8bD3yEWeqAN3C_qjL_LL1_zw5jiUX54h_yF4bk7amK5g5qAC-85ZIC7IdVgHq2Iu2XTGw9gGb1xIOGkCFpR4HF0OX0tYC5BSm5J6EE--J2EEESAsBzNa_O8xUpcb2NGMh6JjGdU0hpeL7HWN5xl6O2ga1LxgSPGkj87g9An9iwz1MB69XiXb-96LuGTZZBIHjOPiyp4xwmRG2mgsZSQK-VLehFI_GFkp0g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اکثر آنتی‌ویروس‌ها (از درپیت تا لاکچری) سایت بانک ملی رو فلگ کردن، چون سرتیفیکیتش منقضی شده!
 ©
 Teeegra
@@ -572,7 +572,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2549">
@@ -638,7 +638,7 @@ mrweb24
 
 <div class="tg-post" id="msg-2545">
 <div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/njdzU7XXAS6zTPbSRjvp0Mx2fky_7n9iXFaNHSJy787j_iHXkD9045D90IfCs0k9Vx7UsOcNgbw8iO-rVnfVmcXPB9aS5AYXxe_8GG2g-wtK4FpF80QBchOg2GP_1j4jQUpSePx-gLCAq4xi74B_OPC54iKLeBYZMLM3oAH610oZEY_F5INPMUxMCUC2WxTQzQ8s8qmnFjdqSt3UDL4c5DAW1WnDzZDxQTBFBWHMoEQk0fNgaD9jAsr4jEXTXEVLHpHTBt5A2SkdfXwmbAPo_mhCDPQBeXDeA-KKyH7x-kz3BS6fZsGHzLb56TuhDKIgoXrsAjckGMNec-IkyT6i_g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/UE39nMAvvzJjEXhYILrPCmpop2dKozHCbFobP_-3oC8mdieYBn88wxdaoW10JtrYaxty0Kg16AaMCzbyNwfhjyKnkGYdvvnJCKKg4aIsMhV1_uf5gRz5XdMnNP7ieyKYm02dli2hZoN_VUgFSmz9t3rFIfXhM17jI4w2qFM0z7wHCwuL1amoujDGAxEQyrM8O0yyKcC_RaeIiDwd5MJAicQbfSrKeypROQnm2Jh53VWEPw9tco7fms2JH6NqSFVJxiQnJPMJr-KJ0QWckTFRqHdtTH4aK7OWRTelD_a9YdiszBokEQsUN5YOMK5wpn8_jfc60oaZxLw6P6WJRjWPZQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">میگین چرا با وجود اینکه چند روزه اختلال‌ها و کندی اینترنت شدیدتر از همیشه هست، چیزی نگفتی. خب الان گفتم؛ کدوم احمقی قراره حلش کنه؟ همونو بهم نشون بده!
 ده‌ها پیام داشتم که نگران بودن چرا چند روزه نیستم. غرق در گرفتاریام و گاهی حتی آب از سرم رد میشه، ولی دوباره برمیگردم سطح. نگران نباشین.
 🔗
