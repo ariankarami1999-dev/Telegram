@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 03:13:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 04:13:59</div>
 <hr>
 
 <div class="tg-post" id="msg-2567">
@@ -308,7 +308,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2566">
@@ -339,7 +339,7 @@ github.com/telegramdesktop/tproxy-server
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2564">
@@ -1359,7 +1359,7 @@ slcyber
 
 <div class="tg-post" id="msg-2500">
 <div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/giS2Sniv5JWMJBO2X4aIZJpY6kvtUsuveqdEqTfPFx0ZwCpExWNzdaDMlIEH-gssHPRT3oFZUHf66uS-F_4UMEPeCErv8w0ewSwNsFtPq9lWMRV9-dYnYZ-FITTyykPLgjfwXtzbW1AEuEW5c2N8cCtqu_L0r0LjRhf-2ABmweeUb7wSwJNTWwioC0xwVuFGl1NTOKvZXsLsXB2UxCW8Jbnemf1QRyh3omxvBf4Q1z7qWyp9rDMhq2PoeCCH3Qymguc633DX1zhIx09BtoxU8UoTq9LMeMJR_7ilBK27Lh9dhjp2E2ZR9Gj22hKo1MAlwRbGTDlCsDxpY4RTkNiN5w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/C4HFV-q7EbSswcgOQfxPKYNm8UMmPWqCiE5xmz0mvzQooDrL_RcX2qaahi9qBdCOeYiilJN-Nd-JDpPnZPgb3c5cCDNdknNB9JXvq9XwLf4Cd_ZdztVubDzbgWcpwlyANj4q8YWRB7OdOUzIlkvSaG8TCWvjM2xLTWbM4xQA-zhfoTkaq2LcLtvrA6dxNVW8CPX6ivQQy-uv9sMqL4Suu4DSQCu2YK4Ihhi3ytNgH5mLS4E4hCBRHvK5C49cfrbzcDRxPJ_ye8PDEjXizYgRrqO_zIhNu1zrTtP2YKiYiNAqlrfuSky-LKXEBaZ7s5Aby4Xx-umnEbRksJUvKhz-4w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگرچه قضیه ترند شدن "لغو عضویت جانفدا" در نتایج گوگل بزرگنمایی شده، اما یه نقل‌قولی هست که میگه "وقتی دیکتاتورها در حال سقوط هستند، فقط دو گروه کنارشان می‌مانند: هم‌پیمانانشان و احمق‌ها".
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1591,7 +1591,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 96.9K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 97K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">
