@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 16:59:02</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-03 17:44:26</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -1100,7 +1100,7 @@ GFM (مدل گراف-محور برای ارزیابی اعتبار محتوا)
 
 <div class="tg-post" id="msg-886">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/nr7qh1Ue3zXXkP3rSRk6p3VABuFQ7T8wnQBZJanuCB0v4l4_NbPkE0JBrYvKyksV_xdfpKC04IjUrVjASCdCxtNYyZLtuZpACE-b3mxcnKPARcA4Y7NiIQKKegxKigvtIlqEIdbW5Skb4U0aQjmd5ZJ1XSbZhgMvag4l4L6kiA2NhRiB4i4EGnJQ4pzVbUkmOc-oQ7E4iIOs_NpulTcsn8HH7mXKNAC9qkdwY0vXdrwvV7XXidDsLobjdPGo8kx9Kh-nqcbyCFEtoFSc5m2rw0zL-bFRqOkowPAP1Mcq5Ju01E-mCI-xvEMo0YizDPIyhho1u3NH16yx8wAaertiuQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H-WhelPoH8j8nG8e_yw8vbiFFEzxgHYRL0JnFgtooNoCEB9MS-mXYDZ9EKtI1aZU2OqoD4zI7Sv4mJBV0hXYXjHfg8sm8kfJsajqy-3Jqbz6xLOy7sgNSFQaOBocjKvScH7O-4RTT34wxaRCujYcLpqBeXe_GVgaWuEdyM1qFBgCYuIHKNHHUVnbBOHl6PxHgcjlN9IwjYl_7yk8Fqi7xkIPoih__eEGrPa3Dx8pK0D7tXdJE9qkHUa_sRfWdQLsLZkGvpQzuanpzj3U0Fop56tFDXooll-I5QTWzcJrKOBpP11TPjfBJLPZhbkcxGFQvTMNYZ3nCUT_w_BtaIXYDw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل سیگنال‌ های زمینه‌ای رو به نتایج جستجو اضافه می‌کنه
 📌
@@ -1683,7 +1683,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 <div class="tg-post" id="msg-857">
 <div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/olhiWauFd71SrzmJYfAmxBM-ExDQ9BlK-xx7TZ7zJCZvop_KmyVxJ-OPQmBdL2KcIul22Vlf1cRhEl-aySq_bzhNrjoVqvabw91XPIWupdjcGl_PbEk_SSpSB0eVszQeWmGYZ58QSLjel6gRh9HMmzW6GGuJTnjQncUxBobCwqwxjsGIUkL-MrId5iTzaHxJWB7LizXR7_aFZCyfg9U78qNTPXLPktelcUzi-TYT4ivW88PLBGagcHVL4Y23idn_G0tgHgxK7QAuJmPrToxAszAl8V44An818d35tJ7B1ithZKwFluPH_AJFeSHyd6EVtuyWB6AMrpK0ISdDmMvImg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/i-_q1IvnV7aoVFnwJ7cjHc_oxD9amQmMl2qUm2N71WshffzTWiGjXcBeJKbIZW_6XjL1JGiz_15yAsAQBgQI2v-HLGCGOTFt4Hk3030OiqfMP1Kv5G0B6JhdSeB3D3WmfoKIpcwqHiT2aj-VrOr8H3NMNAlywXZkVcbWH2ZOP1pBX9cluZx-AtH1T6L7TEWXIq5dbX7hdvjpaU4Ir8fGV4jQ2aQajKFju7i_rb7jYbTO5QP_JYGH-YBjSZgr6svMyI3XtMNO1GQl3vdCH297Lp59DmZP6V1qo-WQH4QFEXGKZPPSGqmVJ8vuHoe1Hw33LU5HQazUGyu0Pt1RCUGxzw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/XADAPT1AfxE16346zjfECjZ_VFtfq43Y6Vv6ht6cOcvCfZkSHRnfF2ROxPft9mgas1QcLWMZC-2iipkBPDbD8nMcTJt5nCIBP3kkfZr-hMhzNlO44i8d24OdC5cuLypgvtjxPNFXYw4m4p-pFv7vw72kfhAG2ZnOxHfStyBFn1RiElKXvV3_GNJswHxdueLlDOzL0aHnmIdd491YXc3iRyR1iCND5u8uJ9D4OT0Dsd_Ucyh1wkUr9oKZGQBRK7o9_BHAZsr8MxsmNxzMHWbsj0bUCVxEKk3vJsfnK9-oUQXiLTyqT0tDCZ1tgr6rctkViwRf-Sh5KfEhy_5wOri8fw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">📊
