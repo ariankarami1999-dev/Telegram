@@ -291,13 +291,13 @@
 <p>@farahmand_alipour • 👥 63.9K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 07:00:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 08:00:33</div>
 <hr>
 
 <div class="tg-post" id="msg-6642">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">رئیس سازمان اطلاعات آمریکا (سیا) برای یک سفر عازم مسکو شد.</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/farahmand_alipour/6642" target="_blank">📅 19:32 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/farahmand_alipour/6642" target="_blank">📅 19:32 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6641">
@@ -315,7 +315,7 @@
 به غیبت کبری فرستاد هیچ!
 حالا بادبادک هم نمی‌تونن دستشون بگیرن!
 اینها همه پیروزی‌‌ان!</div>
-<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/6641" target="_blank">📅 14:22 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/farahmand_alipour/6641" target="_blank">📅 14:22 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6640">
@@ -344,7 +344,7 @@
 اسماعیل سقاب اصفهانی، رئیس سازمان بهینه‌سازی مصرف سوخت و مدیریت انرژی، در یک گزارش تصویری به فساد ساختاری در قاچاق سوخت اشاره کرد
 🔸
 او در یک گزارش تصویری که به مناسبت «هفته دولت» در روز دوشنبه دوم شهریور منتشر شد گفت: «هر دو جناح سیاسی کشور در قاچاق سوخت…</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6638">
@@ -364,7 +364,7 @@
 🔸
 در سال‌های گذشته آمارهای متفاوتی از قاچاق روزانه میلیون‌ها لیتر سوخت از ایران در رسانه‌ها منتشر شده است و برخی کارشناسان بیشتر قاچاق سوخت در کشور را سازمان‌یافته می‌دانند و برخی منابع رسمی انگشت اتهام را به سوی بخش‌ها و نهادهای دولتی و «خصولتی» گرفته‌اند.
 @RadioFarda</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/6638" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/6638" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6637">
@@ -379,7 +379,7 @@
 این ویدئو تحت عنوان «بارون ترامپ را کجا و چطور بکشیم؟» در رسانه‌های وابسته به سپاه و همچنین شبکه ۳ تلویزیون دولتی ایران منتشر شد.
 جزئیات بیشتر:
 https://l.euronews.com/UtiQ</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/farahmand_alipour/6637" target="_blank">📅 09:56 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/farahmand_alipour/6637" target="_blank">📅 09:56 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6636">
@@ -392,7 +392,7 @@ https://l.euronews.com/UtiQ</div>
 <a href="https://cdn4.telesco.pe/file/8930b829ed.mp4?token=buTYCjKvH5q8ubsoFkyczlXNKGqZWPoOEY63HQnVj4okQ0OpIzAglVAlEL2PZctoPvymVNDeDrBVVEonkkRYjEtlS_qy9WA2pvSq3DxGYsEil0cPaFEouzDs9KpV06GJp_8vnnrF120-fV0feq-YFefwJBXJgA9dqz1LZXLcXWLWB4JR_pGyg_lZk9_idVB_qlqTcjzv00aE8mEjpRxzgSlRBzQq_SXqFs4GpjjN6bJnPSIVlTUsev9RE2Ppq82KG6xJaX-Kzy1VjDMRXItLjCGv7XeQajVlcEbSoFJY0HB8YNMRYbPmbyIVLb28pwOuFbasKMIrWzWV-lXeoEV_WzKBR1iexkIeZENmt1cfbc4rqfHpPl4VbIVEyhfmZh9MP0vFvpA1HKCVzJlJed7BmV6idt6qWOW10Rgiq7HITw_IibpVbNN9RuTshx9MmSJ1ZnLLXJJ8Yq_8UC6UFjO-6J-Vr3w6Kb90QRH2Alvv5bxiuqCZ-SV2jHbvrUQ0XocNbvjRZFabf7pnkpqVQB2ZgzMEjV17HTuwotPh6jDup87Caa9beq1-lulV330IzJkYM8CaIQrZQ9DP4hCW_VArJ1PcD1z-ugit42z3oSrYKrhkfDd__YeD1nvqPOazPjdJQqLS8vG0Gs-FFDpGgFfo8_XgytxPZGYxE0YiEG6SFvo" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">اعتراف به جنایت در سوریه</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/farahmand_alipour/6636" target="_blank">📅 09:20 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/6636" target="_blank">📅 09:20 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6635">
@@ -596,7 +596,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/II7l2wJxedLCA1f43pxujgXSXKs8VYOOz3NhhQODLW0Gkk8Rci7xqh4KnEPoQvo85m5PCfW5Kxms2FxYcAGyjJYTCy-A6FHFQVPb07fR0xVIafHoNoLkreshs0T4UhUCsVM2mOQFGxq3_5B7qU8IKWo20HLdOfKgSQ0aLT7dnkOXhCrf96v6B7xvs0M6T4S6GvU6dCludTLkUGIZpPhbFUDXFmLnX_wIf81josYrdcOoZ9KpClhmNvqvgIQJBlEICbbw_R-qDo9_r30mf9syqeWVZ77LD2FE9VAZAxbULsM1iDjdTHQTcnho4exH2EWJhpgEmSjOaXksaawAXbJbsA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رزم‌آرا، ملی کردن صنعت نفت رو رد نمی‌کرد ولی می‌گفت کشور آمادگی‌اش رو نداره!  و وقتی نخست وزیر شد، جلوی این طرح رو گرفت! تا اینکه یکی از اعضای «فدائیان اسلام» و شاگردان و نزدیکان نواب صفوی، او را به قتل رساند، زمانی که نخست وزیر بود.  مصدق که بر سر کار آمد…</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/farahmand_alipour/6608" target="_blank">📅 18:16 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/farahmand_alipour/6608" target="_blank">📅 18:16 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6607">
@@ -610,7 +610,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TKg0J9ueVvvWxeIXoCgRJFPi-9Vh3MpT1JBqMLXSyNZd3tZYMimZPIeo9HTNtEtAZ_gb5odHxcV8YwJWuJuIG7jWNlSZ97Nd1pxwksSc3f-vrsSCEDHx7So5M0I3seXojJISuWdI8xYLvf2Jy75K3T-qUVrYNNnYaJTPPTZQMACCUWlkYFsPAXkr0RSlgGhi3jQPOZCI_mg5jzl6U6s_RjpNFiiYSbtigW5dUUZSscROdlDh-GIAqt5q-sL9BqJM8LVTJdIJUAPuQg3gIOYaJz4PWX1PPAnLzTujcCp0F0LPxfDquTH7Z3nHha4ZT5xRzCDTCKIO147fn_geeRxrVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آیت‌الله کاشانی، نواب صفوی و مصدق،  همگی علیه «رزم آرا» بودند. مذهبی ها از مصدق خواسته بودند تا پس از پیروزی و ملی کردن صنعت نفت «احکام اسلامی» در کشور اجرا شود.  فدائیان اسلام و رهبر آن نواب صفوی،  اولین جرقه‌های چیزی را زدند که بعدها «جمهوری اسلامی» شد.…</div>
-<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/farahmand_alipour/6606" target="_blank">📅 18:02 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/farahmand_alipour/6606" target="_blank">📅 18:02 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6605">
@@ -672,7 +672,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a-WatpXff2LwPPucgWpFyRDMgKSVZRWXcSOh9t7XVFw1ZRire97_KzinKioLDHq4RGau90X5ZuQICSk0zsudiE7qbqYZ0wSUJOXHUCI4wXBtRTOvR3k7Rzv6x4IgHqCnICm027w4PFb7rJTe175c8pE_hqJ0sjdQbn-rAt8zNr0xicRazCgdH2gm6688dpCPZpaT_LaJfBJ_Oe_Qz8ySLJlW-ompgouEpw9WIALwt4ym7jjPTuQZmhzF6GNLwysdwIIX_0pRXSzHgmUBowp9vOGPXtEm5jUDIsvTK59INWb9cuDWY2MFqmSRkksk6rG84M4R3jlYPnyNXQ8-MOEqbw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حداقل زمانى كه ما در مدرسه درس ميخونديم بهمون می‌گفتن که رضاشاه به خواست و دستور انگلیسی‌ها ، براى ايران راه آهن ساخت. ولى مى‌دونيد اين حرفها رو خيلى سال قبل از جمهورى اسلامى، چه كسى میگفت؟  این حرف‌ها را مصدق میزد. مصدق حتی اقدام رضاشاه در آسفالت خیابان‌های…</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/farahmand_alipour/6597" target="_blank">📅 11:52 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/farahmand_alipour/6597" target="_blank">📅 11:52 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6596">
@@ -688,7 +688,7 @@ https://l.euronews.com/UtiQ</div>
 او ۱۰ سال پیش از آنکه با محمدرضاشاه در بیفتد، یعنی در سال ۱۳۲۲ ، نطقی در مجلس داشت از آزادی حجاب در زمان رضاشاه و تغییر چهره شهرهای ایران و آبادی آنها انتقاد کرد  و از جمله گفت :« رفع حجاب از زنان پیر
 و بی‌تدبیر چه نفعی برای ما داشت؟
 اگر خیابان‌ها آسفالت نمی‌بود چه می‌شد؟  و اگر عمارت‌ها و مهمان‌خانه‌ها [هتل] ساخته نشده بود به کجا ضرر می‌رسید؟»</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/farahmand_alipour/6596" target="_blank">📅 11:49 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/farahmand_alipour/6596" target="_blank">📅 11:49 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6595">
@@ -879,7 +879,7 @@ https://l.euronews.com/UtiQ</div>
 اما يك آمريكايى رفت و اين خانواده رو بعد از چند نسل از بردگی نجات داد.
 در اين کپشن نوشته نشده، اما ايشون حدود ١٠ خانواده رو نجات داد!!
 اين مورد از برده دارى تا همين چند سال پيش در پاكستان «قانونى» بود. الان غير قانونيه اما هنوز رايجه.</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/farahmand_alipour/6576" target="_blank">📅 00:07 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/farahmand_alipour/6576" target="_blank">📅 00:07 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6575">

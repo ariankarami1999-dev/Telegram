@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 07:00:22</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 08:00:33</div>
 <hr>
 
 <div class="tg-post" id="msg-2568">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2567">
@@ -322,7 +322,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2566">
@@ -358,7 +358,7 @@ github.com/telegramdesktop/tproxy-server
 
 <div class="tg-post" id="msg-2564">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gnKaW2W_w-nbDjwCRfjVgq1kfoTPKWuCJP37sL5dsZ48tO9mckoXl_tUp278bBvcqPGTRlwklDgcdzZb1cXRdHCimpAyLSrkoA0l_4riOX0PkphVB67fIMfeeDEB8pRprHW-v7XJQqGKEKYCRup3XnxCtDUCKrXeLg6EmM0DKB1C8WiGlrwPCqvO5ZcrQOUcAqpJBn1WpMIRxEYNbigogJfNP2vqD0Yp9W_z9SgJArAEMmG6DfnyZg9DUYsd980ddPcafiiFzXF4izMrPzS2szFQe_TV4433wZqyeAo1s_YHBPy1xUU5KHMbCllAWgnZbDf3SFdx_85mNqD1_PAwQA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Y0TtWnTrjOEekHjtnDFKsh4vilWDFtIOenEYQVAl3cE3LN_GE_vJE-6pLztEr_zpBH2wVzgqRDE1Nx9IWuSofqqIiiOs288sCCTQz3xT5zUMtnAppWneXLAzVzTTz8SrxSuslbs3zDCrH0S9iFEaB2TnX0sCvLyelA1NoTd3WGQgbsxVA19ycoABsXJZM4TXyrjVLELnjRjOqF4akuJOYiOwM6ckfAgCC9a-tfovsKKfHrZvR1NcOLsEgZ7N1SIIh9Xau4ndpMzINyu97YtiNx4IJaavpUZnTtlNBDN9FaWudchO8Ncml50bwYqJpr2PwAdhjGkvTa-SEG0KarAQGw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در کدهای نسخه دسکتاپ از تلگرام نشانه‌هایی از یک پروکسی آزمایشی جدید با نام WEB مشاهده کردن، که از WebView و ارتباطات مبتنی بر HTTPS/WebSocket استفاده می‌کنه. این قابلیت هنوز در حال توسعه هست و مشخص نیست نسخه نهایی اون دقیقاً با چه معماری و مشخصاتی منتشر بشه.
 ©
 telelakel
@@ -374,7 +374,7 @@ telelakel
 
 <div class="tg-post" id="msg-2563">
 <div class="tg-post-header">📌 پیام #95</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/B_dZB37_PSwiidpEgGxFnPqr8MgQv_el7_rhUcS6SmHG_ZYtS8QK3X6evcLSPowmbLIH7pAy-jTpOh0woW0KNB2wc_RdhoSxbtlJYO68r-5cdR7l_Eh7K73FZ_L81cfkiTvmn2DqyruXPBdxwiBPechkrHRmqFbZIenJyB90_NTUBUuoFwMWAI9B2ykGpm6anPquPyWzjN8OjBZPiYjRU7CAPzrv5PWaL3n_uB9Lriz8xdAWbSjoIScSXEEsexWjng-I5ADHIYe3K5RRU78gDPQQQMishloyqsSKKQ0V6XBYtb66WihfSEIxbZVNCgRF0nzzQ-XpaKu5n302Z1sM_w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/vrsWzyagJVE1H-5M8D5Y6Kmj0HI_mOvObCx2g6WKMhi5RAJt_oPUWDxBHgrbfWHzhLeXlpuXl0GJ40_E2BQwkQgCKcKCn7eNJdF35th-z4qJdV5W1ownlyT7CJF47F9pKkfC-xE5erz16Ohd1pGMC0r6CNiwpou4oAePOpO0rN4DyO42SZ8cG-_jZbCobxbEeCKLuTBEhVtEHoYj5SKsHcd7QrOOl1F2gLUJtBv4K8b4JqPCh_xEMGRjRD3IdhS5mj-trt_MlvqARjq9CgjoJ1pdKLllQMPr4YtcQIvvyr-6u1v4y1WY-Z_4yuc-FGC6YdtGqF0PQuAvCo9mGdqjqw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اتحادیه اروپا با همکاری سازمان ETSI یک استاندارد امنیتی جدید برای VPNها با نام EN 304 620 معرفی کرده که در چارچوب قانون Cyber Resilience Act قرار می‌گیره. بر اساس این استاندارد، VPNهایی که در بازار اروپا عرضه میشن باید حداقل استانداردهای مشخصی در زمینه رمزنگاری، احراز هویت، مدیریت کلیدها و مقابله با آسیب‌پذیری‌های امنیتی داشته باشن و این موارد هم قابل بررسی و ممیزی باشه.
 البته این مقررات به معنی ممنوعیت VPN یا محدود کردن دسترسی به اونها نیست؛ هدفشون اینه که VPNهای ناامن و بی‌کیفیت از بازار کنار گذاشته بشن و سطح امنیت سرویس‌های موجود بالاتر بره.
 شرکت‌هایی مثل NordVPN، Surfshark، Cisco، Google، Palo Alto Networks و Airbus هم در تدوین این الزامات مشارکت داشتن. از طرف دیگه، ارائه‌دهندگان VPN باید آسیب‌پذیری‌های جدی و فعال رو سریع‌تر گزارش و برطرف کنن.
@@ -501,7 +501,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -1004,7 +1004,7 @@ testflight.apple.com/join/cRSCr51a
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/ircfspace/2524" target="_blank">📅 18:38 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2523">
