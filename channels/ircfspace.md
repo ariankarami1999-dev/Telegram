@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 11:08:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 12:02:23</div>
 <hr>
 
 <div class="tg-post" id="msg-2568">
@@ -306,7 +306,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2567">
@@ -322,7 +322,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2566">
@@ -369,7 +369,7 @@ telelakel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2563">
@@ -448,7 +448,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 40.4K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 40.5K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -467,7 +467,7 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 42.5K · <a href="https://t.me/ircfspace/2558" target="_blank">📅 17:00 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2557">
@@ -486,7 +486,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.9K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -501,7 +501,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -516,7 +516,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.6K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.7K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -586,7 +586,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2549">
@@ -711,7 +711,7 @@ manageit
 
 <div class="tg-post" id="msg-2541">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SDrmTTCNvSTW-aq_MRP7s33ouy-rx4yvSHt-njLu8_XWyub_gKsfKbrjvm3NNtoS1hrnEqk0u6n7IflItdcfjRvQRjJ0jEgEzFSR_lSp8UBMj2IL7zmU-H09Cij94j6KKh0b30_Cbx0cio36T6uEw-AaWfZrY8Dvz9ze_Ezi2i6bJ4gAt8No4bDuBPpdQ-4Hwes8-N4nn8W8AsZ7SHPrEeKIpNHo2-00lZR61SloOqzMkOd4nz5AP2emCtz6990Ddgi0aEg3dCFZtarK1w6n8vo70CwXMt4P7wqnL8SQmgZEINLUVmyEZqvmYt2RmZ-NFhmV9ysqjkR4JZ5QC4Wd2A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ffSjVW2ubL7ci1MFQ1nwozryAFJnxUv2wCKQhbABiqfCq75gvXY-F50iM8xwkETPwI-RUzN7Oac3psTuiBPl7A5pKyqIWkVZFDBksHPKCXP-5k89ufn6GAE0dbEffroZfkcFQyNx6aIv4wakW_zMcVdeUghBv2Eza6mSfRHnmgxld9BW8v4xSqJg7l72bL5ryw_clWr7vCjO_5YNAFP5bY6PGuAwV9W1iB5F_cC5vr3X7ac8Ky0SmVj-7ikSQWFhonmioTr5pDzSvKcvDeU-GdH3MNTCrCiMkDmJrovOqBaW1FS6icK_WPOupFj2pnkr1SsaYRGOckA6T8G8pFxWiw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">باورم نمیشد که بعد از ۸۸ روز قطع سراسری اینترنت به جای اینکه بیرون بندازنشون، به نمایندگان حکومت تریبون دادن که در اجلاس جهانی اینترنت سخنرانی کنن؛ بعد دیدم این اجلاس در چین برگزار شده!
 روابط عمومی وزارت قطع‌ارتباطات گفته نمایندگان جمهوری اسلامی در پنل‌های تخصصی اجلاس جهانی اینترنت که دیروز برگزار شد، مجموعه‌ای از پیشنهادهای راهبردی برای توسعه همکاری‌های جهانی در حوزه‌های اقتصاد دیجیتال، هوش مصنوعی، امنیت سایبری، خدمات ابری و تاب‌آوری زیرساخت‌های ارتباطی ارائه کردن.
 🔗
@@ -741,7 +741,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2539">
 <div class="tg-post-header">📌 پیام #72</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/pLowD0CxZb7kDTmCDFRX4Awtn-4ZtfcsEQSR1yB350HHQ1TjNv5AHbqDa_2aLdH5xPRzyCTaG2S7_-NOPDChlhBkG0UjjrHkDiI0SYv44mJ1mcbtL-nNUoSdV-KwjrrSU7bgbe8nqRXOfCbw8vR_nft8srf6VlSHFgyPwlmMyFEFE4hg90k6SD7v8cygt5IW5ySoBRAzbm9D53BbFk22fmeECS23tbm0GBV7zSKEeZGPeqPjIvdvznxeG8JOOVkVam6rMUMoNBRbchLlIKpowlRpVAEJbxo9BC-WH7r1dAE0ybkPmTVX-Hmrx0jH3QJVBxXkIqKZqaG6Vgc2IdkPvg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MPXHbdWHHdwk07XBAPL_P4aamDAWmUyI3z2OqAKo1ffxobSbQ9OkVJbX37Es4gZx1wq0aFmeZL9tp-uw9nLfISzTnxtQPmMLFGImLJQVVs4KEQQXSF5v8PGy0WB_055KM4rzkgAsQ0H82qOE7a8zIJlJ0a5Rtr53-_Kc5IfJYkPyscAP696SbbpyazVWVX1ci1OW9G32X_Dd59MGajiVYAn3iuZR5KODUn_FpJ4sCXI6PK2s_f48bIg-egx_HvBnT_PrPA6ggMLt5y66O3yt_YWvTjk1qavKRowWo4hTWEKPcHeq05P4HUGlTiXO6kKNT657Z6mv5yWPW1iYYgHUmA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جدیدترین داده‌های مرکز آمار ایران نشون میده در بهار امسال ۶۳۰ هزار شغل صنعتی از بین رفته و سهم صنعت از اشتغال به ۳۱ درصد کاهش پیدا کرده.
 حالا این آمار رسمی مربوط به مشاغل صنعتیه، ولی فکر می‌کنین آمار خسارتی که بعد از قطع ۸۸ روزه اینترنت به درآمد و مشاغل اینترنتی وارد شد چقدر بوده؟
 🔗
@@ -756,7 +756,7 @@ shara77miaa
 
 <div class="tg-post" id="msg-2538">
 <div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/MHg1OGU2pJ6BOweLQ39uuiwNp91NjtPERcek-mtve2tmHxfAF2grNrkEIAZF7coCmGFdu11gcH_F5LiXFVFHarIeg4-nwvs7FNZKQfzpe2JYV2NMehDTwnmP8bIrgxXxA9FJVtnMPmE9FPm5yeunEfsPc-8Uh2WqnfJlgR9ZWlDpcmz6T2IDNBF-DfvtvhTKnFYloTHXDL5qq_qZadhd5dPnS6_HyfQj2O2fZjQPgD6ms1RbhHL8HbO9o5XI-5tctAfyibgTU4d11vehMmUaH0DpoT9TcD2dx4d0fuSaNkgMTph7RKqT5QU6gh7GjTCWB7wYujXULU6BVdaSmUNn1g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qKBKDdCL6x3LRpXFgSGmq3wKf1ypREMDcAk9j0ZDDr_LC3ZiPNFzVcJ5cVojvb8sdjJi3koEZ9ek4CAPu6s8ld25T3lUzPyhR1gPt1szIq_FYe7yshM-ZEVHnVRuQb-9FEDynHThP7fcPs9uxi4f3ZvnGhwnCju0SlLALX_yco0DIN0fgdRSdICMRFwlHG5JvGU63GNqkJUstfPCcb94-y5u_fhVyylx08Pyi7oaQ5r-TJk2-nWaU81aZ5LjYH-BbM_GicBMb9o4G-ATMABbxYfdI7S0awDS7mOdBBn0W-bcYIKNFxho5zJJuTxG0GEjqoAN9zr1_GW8X9qDIT3JiA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">چه کسی و با چه مجوزی تصمیم گرفت ضریب بسته‌های اینترنت بین‌الملل رو بدون اطلاع‌رسانی تغییر بده؟
 قبلاً ۵ گیگ اینترنت میخریدیم = ۱۰ گیگ داخلی بود! و فقط پول ۵ گیگ رو میدادیم. الان پول ۱۰ گیگ رو می‌گیرن!!! فقط نصف اینترنت بین‌الملل میتونی استفاده کنی! بی سر و صدا دزدی میکنن با عوض کردن مدل درامدی!
 غرامت قطعی‌های ماه‌ها اینترنت هم هنوز پرداخت نشده. این دزدی سازمان‌یافته‌ست که با حمایت وزارت پست و تلگراف اجرایی شده !
@@ -1605,7 +1605,7 @@ IRRadar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 97.1K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
+<div class="tg-footer">👁️ 97.2K · <a href="https://t.me/ircfspace/2486" target="_blank">📅 20:06 · 21 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2485">

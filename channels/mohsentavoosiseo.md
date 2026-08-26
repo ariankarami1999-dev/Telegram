@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 11:08:17</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 12:02:23</div>
 <hr>
 
 <div class="tg-post" id="msg-919">
@@ -340,7 +340,7 @@
 🟢
 اطلاعات بیشتر در info کانال(bio)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 860 · <a href="https://t.me/mohsentavoosiseo/919" target="_blank">📅 12:57 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 866 · <a href="https://t.me/mohsentavoosiseo/919" target="_blank">📅 12:57 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-917">
@@ -466,7 +466,7 @@ booking.com
 خطاب به کسانی که از اینکه یک سری بی سواد یا کم سواد حرف اشتباه میزنن، ناراحتن.
 خطاب به همه با سواد ها!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.18K · <a href="https://t.me/mohsentavoosiseo/907" target="_blank">📅 13:12 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.19K · <a href="https://t.me/mohsentavoosiseo/907" target="_blank">📅 13:12 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-906">
@@ -519,7 +519,7 @@ booking.com
 <div class="tg-post" id="msg-901">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">سوال:   من از وقتی هاست سایتم رو برم روی Geo Dns میهن وب هاست یه مشکلی پیدا کردم. کلمات کلیدی تو سرچ کنسول رتبه دارن ولی وقتی خودم دستی سرچ میکنم نیستن. اکثر ساتیتام اینجوری شدن. این طبیعیه؟  پاسخ: https://t.me/mohsentavoosiseo/511 این ویس و ویس پایین  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.74K · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.75K · <a href="https://t.me/mohsentavoosiseo/901" target="_blank">📅 13:26 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-900">
@@ -530,13 +530,13 @@ booking.com
 https://t.me/mohsentavoosiseo/511
 این ویس و ویس پایین
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.87K · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.88K · <a href="https://t.me/mohsentavoosiseo/900" target="_blank">📅 13:23 · 26 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-898">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3K · <a href="https://t.me/mohsentavoosiseo/898" target="_blank">📅 11:01 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.01K · <a href="https://t.me/mohsentavoosiseo/898" target="_blank">📅 11:01 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-897">
@@ -575,7 +575,7 @@ Ban
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">تفاوت کلاد تو چیه دقیقا؟ نسبت به بقیه AI ها؟
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.32K · <a href="https://t.me/mohsentavoosiseo/893" target="_blank">📅 14:58 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.33K · <a href="https://t.me/mohsentavoosiseo/893" target="_blank">📅 14:58 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-892">
@@ -800,7 +800,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 
 <div class="tg-post" id="msg-881">
 <div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eV-bmYfkxqA4GxUeYR6zuPp0FDtZBoAzbXH5AYlOIb4yeu1tGj-Ezy0uAxIZ1APtE5bEApYCZMtfXTABZgshwmL2Qm2q6MkP4Y3hWup1S_6bG_80GzXpYIi5x9VIYvFtpamoIxL55FnJ0KeY9OnSqjpYmkkwLICAE968hUfhZNga2KeLhgqEXA_i-xJen7VgCa5IyklIHZyx8CBqE4ZaGJGu-QaZwYESrwZao2PkpH3Hq4j4Do1Q1aBIWgeb-CVDbyO9USzXqk-e0p4mXl4WeelBSkIFm9KkRtwBLMcc0RUXooLqC126ZjacUel2Dy_jQJ9Y-Cl2LGJ0ddZsjJB_4g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Yk08Be38gpxLW2CZkYIDghwq29SHqyy9TfMv5VgOmr0ByHjQqpchHjZsXMVAnesqJbc4fylMsWvFfb3OmYc14mMOK7x2GrM5VuSOgz2c58X2eMxpLxNYpDxewwcjHqpTUUTI5B3t3WnNn2Y0L9lXSTjQcuYj3GE7Df5iDlX_sDE8dZ5poq_HoFdpCSDCImTv2oIoq_EAbwZnGa4UW82wkq2dDL0v6UZ62nN488KL6JLPHjNMJhPUl0FW-_YXaV7C5uKndYXBTf0ePVi8hrk_EGZ3QIMRoDiA1w091k4CGh9BJ1bJcl_FiczSy4lWsGQhCYQeH07LsJD0O_P_5fr9wA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این یکی از ساده ترین هنرکاری های کلاد هست! از منوی رفلکت، بهتون عملکرد خودتونو میگه و واقعا بازخورد های جذابی میده! در اپدیت پیش روی دوره، تمام کسانی که دوره رو دارند، سئو بین المللی با کلاد رو به خشن ترین حالت ممکن یاد می گیرند
 😎
 .
@@ -1325,7 +1325,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 
 <div class="tg-post" id="msg-830">
 <div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d4utBEyR3l8_jVBbzhy-Oxi7bA6dVwSh5sTRGONWbqlyAZsTHNxOzHTMj8I6GoN0If1XxLvyYcho00aFzCGMUFxJ8eGlZ58ClPRBOR7EFNfDRmHmkaWAY6pCR0Mawie5m5ztRocNTS29pTURqQoqgEIwLvUOrZvxxCwp9hYKSi1Gt6vBAxJxGRmNfVMQVXQmyTVj-usZx85qwt8mKU4NdC3xfGlFQpoz-52-O92Cd-2Z3GdOqGGU20wd0rNBFKfl-P48L1e2c7S0gZQ5FUXGWU87eA_XXHhGbBzVZVcr70SavqvBNdtf-BJ_AOIfEH0iETiFqi6_ES-WDOer4vwzdA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pxN1NmfmAZCnSedjNj7cM34qxQgUlZukUqlMWYN5gwJKF8KsY06PMBYkBdZslXMYtODWAiSu4VMQAY77g08gdLtEIlZWAn6Jt5tUbsN1BKm7tbJ-5dMoUyX-LgiR-pib1dZQzCa-nSz3LjXJFP2uomQgO6IcllqvRvHungeQuRHp3O0UA4HBYIWSlNPOGGBplO-RyiPiwUbm52eMx8sg7pe3lTtqq2iPw3GAgm9eiF-zz1IDyDlgt8FafYlEce6BWJZpmvkXmTJdyvmmb7IO7vfL5ItAmm60nKidk4J0tC1072VYRoN8JIY4BHQAmYx1fmNC0B6GRnbYC23OcBFZOA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
 <div class="tg-footer">👁️ 2.28K · <a href="https://t.me/mohsentavoosiseo/830" target="_blank">📅 13:50 · 23 Tir 1405</a></div>
 </div>
@@ -1400,7 +1400,7 @@ https://t.me/mohsentavoosiseo/826
 
 <div class="tg-post" id="msg-822">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N9eV_u_Vv17LWZDPAbs53AHoObFB6sWWqBkd0BOikfmTKsghcmyOlGwE05IcTrc3BqRMQEdjbiZ3yfpoAJ79ClMNJumlLh18CGRi9rKpEBCpG8B4h5HhF8zlV_vK-CBNy5ALk1ZBm_fTDF4gKqqjtpiRIQ9cMaZf1GKiAEGtj0ZpfeSL-W7HUWOxDVzI9PnGndZP5KJfA2aKpPd5Sqcr0FLXvanmI8aaI6bJxA9CLgIh4-xCwwMNVUezO4o4tyV35U_Mdgy2y4Ron3466zu-YxEzaqWN5xpPAJ_BYcmyev3Ctjh1WJpaCcRWySuzYOe2mAieUj7yBgWHh_BoaUeQDg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pX0MBVsFtFm-3lfaFmuWwhiKWXRZ7233t1ppWtE3NWEv_BraBrIHmVLqWWnh7gN1scDki2Xzm6lI7naSIJoEtKgGniH2ztfa4OGtgLI6kUM_iaQKb4iZtqosW3dCedNpDNDcsGLLdJBOFZF_M-6GsbAXlRGBdeyk8E6P6R9WLLaO3S5KV0V5rOxOw0dT_Q35FNveDymVuhXqBP2Z1QQhb4mPMh8sPv3ifhqb7O7ELZbzCo2Wg5ra_nVrPINQx0N5PuGlJMeFAKSfq106HoOzTwxWBKlSek_uqtlwtW5uWJN4mchIhxSIk9nd_Li_z8_BgNxlmgzO1aFbcJ498YFvJg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بخاطر احترام به حقوق تولید کننده تصویر
 لینک پستش
 رو میذارم. ولی حرفم خود تصویر نیست.
@@ -1453,7 +1453,7 @@ https://t.me/mohsentavoosiseo/267
 <div class="tg-post" id="msg-813">
 <div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">مباحث امنیتی(امنیت ایالات متحده)</div>
-<div class="tg-footer">👁️ 3.38K · <a href="https://t.me/mohsentavoosiseo/813" target="_blank">📅 14:33 · 11 Tir 1405</a></div>
+<div class="tg-footer">👁️ 3.39K · <a href="https://t.me/mohsentavoosiseo/813" target="_blank">📅 14:33 · 11 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-812">
