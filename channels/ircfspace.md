@@ -288,11 +288,11 @@
 <div class="tg-channel-header">
 <img src="https://cdn1.telesco.pe/file/jUTczieqhCNdavlGBfTyRdsFztomuBM7DGzaNQcPxdTWnKbHGNGu7v2gEctpfdh8pfutfGdxC5HwabMq_KmD3iFVADGt1rtjg1j8B7mb-DAdz1EMbwb9iYhGOphXrxvaBWFBu3d0xtIKxPGSYErErJcoYuBxBW-5oE-5wn6x6as9a_2c_q6slCoWMnq0ptaDjEgo43nte3fLnw2YnJVgOOtaZiIIJkOwpyWgoiNT26bmM1uDlj0bNlH6ib4KoGXqWBTtFaOBXuR3QEKnQMGfJz6LxMf6EjbJeDl9hvgB-QYYqDADvaTDluOw-KTvNEJUrYNJA6vT9hSNPe53BtmD9w.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 IRCF | اینترنت آزاد برای همه</h1>
-<p>@ircfspace • 👥 96.7K عضو</p>
+<p>@ircfspace • 👥 96.6K عضو</p>
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 18:05:15</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 19:40:24</div>
 <hr>
 
 <div class="tg-post" id="msg-2568">
@@ -306,12 +306,12 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2567">
 <div class="tg-post-header">📌 پیام #99</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JVrZJbaW6MBfSrjhNsKIYyvGtORkJglAsnitiR-_lG24BV2hdg1y3ddQphsUmXLPqiItCALENPu4RBwl5vmZvapnz9njxAP72Zhq5NAU2UcTZ4z2OxJ2DzacqCHf8MkPf5GJrRyS0-qri1SoFN3fozclsZ9h55YkkwWG8qr1-ALQdJmUIdeA8-msw5X7Uv_8RjQxjYwexHKYpwUp9oH43QPABooTH3A-8Fsal8C8B8Wuh13tuKEOPnmSEJDYwvSylt0EffO2HR-dUeXZUgTrT_DdZ6ZzU92CsjGH73p0bl_pgquElXHKamFGK5Klj0iSQmPVQ_PL4PJs0VHrVbC4fA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FIT3ZuHbCUgTLqZxuR0z8DxkS2Etn9d38AH3i8s0fqIGgXtIk7QSb88eagKdhoprr4gfuiDBboM8OqQC4wvN24so5ApWIhCNzhyzxMmrjIMfFNQVHu-GjKh1PkY2XWEd8iI9Xn5jM0v0NSXVqIsARpy9hjGjtn_eJUBePVHTLz5i-VC9LsOYWEOTe_FARvv5ktqCJco7g5LHFWE2kOEVOjg5ekkROCTXfkOyZC14pg9ZwjefXi69Va4wsmxa1UFv9xWHtOIuPEe7CM_WqpqT_XYxOcewhhAgkQj2Z0rd2AdY7XAlShGad5RfXuVdrO4Ijc3Di7HBYNkSALtJtfZPwA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اسپیس‌ایکس می‌خواد Starlink Mobile رو به یک رقیب جدی برای اپراتورهای موبایل تبدیل کنه. این شرکت در گزارش مالی جدیدش اعلام کرده قصد داره سرویس اتصال مستقیم گوشی به ماهواره رو گسترش بده و در کنار شبکه ماهواره‌ای، از زیرساخت‌های زمینی هم برای ارائه خدمات موبایل استفاده کنه.
 ©
 satellitetoday
@@ -322,12 +322,12 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2566">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gU1Y7WjZ9wP_q9JZZHEBwayoWfd8_Fpj5zbn97OBXRmMDdBUhasFCe-3agOk_ktJWxyQBxR1KP-XVB7zKjIQbadcOBbyAFfw-y709K1G7jCYHYwn7OIzrBgclIz4h8AU3Y9JcX3zzDUfe43IEfQyEnYa4jF5FGomqWOVQbwzi_I-ieHwsHkwYj97_PYcBP2Y_319-h2Rdn5JQEzvywFo7jvVAvxvt2nQf5ztW1ZwvU4FHxwaDkJz6ZCbJZGEz1pRyjJtn8eACtYnglnuTcl9YOLvlTn8rhTELqwqCa6h1jT73Ljh0u2PxgpbfJUMmbZCz48AZfi7GX7D4MM2GHItgQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WDTsQZS6JQnKf3SJVyrfoR1TlKzIPr8J7A7xP_DFdy0lZPsRhLTvpNNWTarZRutc-ibB2tZmcfuDSzzvPnL9qtUTWL9oWEkTQONwyNESZDeILnToF5VzbLosBD7X8-q_dpWnkskngqeeKHs04deGrm29AuHCZblJ8VHoIb5PWCWcZw6pZhYIfva1KRm3QzIfEaq_xe-XyXieUnVfJ7JbInAY-c5XEKxtwcu6qEHJoLyl_42uPN12xih0vo2XajivKcaQ0cfgFGxS3U9FBo5k9OSx7Ks9JTN8Pgki6iPlRjTzlBCW1ZJiGmX09-nTlxKS4RC5GEt8EMXIYNhFFMSqjQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رئیس پلیس امنیت اقتصادی فراجا از کشف ۹۹۷ دستگاه ماهواره استارلینگ در ۴ ماه نخست امسال خبر داد و گفت: در این رابطه ۱۶۳ نفر دستگیر و ۱۵ دستگاه خودروی حامل تجهیزات استارلینک توقیف شده است. /ایرنا
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -336,12 +336,12 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2565">
 <div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eLA3qAw5ObypnH4gbOArDRgBbdg4AIOYOkjJxSkB5UQ37Ee_r2FHaiK98nMUdds2FU7daqjjASBEbTGISg2m-OQBmD5ByQrex014wqUiuQdx6miUljml4vl3-5AvVc3ZPHeMctPM_2_7KmEoz1Qm-cf6cXZJnHUTHw2ZhdsQ_OAmTbcaCqh5seCY_RA9dHP7n-qZyTz5zbNl3qHjscmVspu3hEqYdK6qVLodJZaFUokpPYxELn6MvmCM4k2Q7eBroeM_WmzyKAcCA0YSMJg9lXejxoPOI4YMI26IjG1z0xFaRlktbm-BKUgvtMXGOCE70IWfnEdvu5IHlAstS-IdwA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IvFLUbzCpnSD2TuIga3Z9lWWbhQogRwM6uhVfiZaH0iayTggIsT5JyA-3w1K-cLoRR3OkfefXpHhjlxrquxnnxWWv911BDcn0Q0c_FGZulnVnki3hNma7imEwFxpYS3bYHp7O_x1zkdXnB7sXLK4O1jihmJjGTYDxOPRCG7nR-skWTBE4Fjiy9uj_XvvpytxrjScb41aXKhMGm6iKzDWP6s9XzRXLeepw0HszOh1k3jMrBzRl-U1zMiz8sTJla2OTxRx1tRyO0HtXMk-kuGdeL635r9883vaejmKgV8s07NGWip-BSWjREG76EK9NPUG1V7itgbqKNQv6w9w_B4tFg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تلگرام داره روی یک نوع WEB Proxy جدید کار می‌کنه که ترافیک معمول MTProxy رو از طریق یک WebView داخلی و روی HTTPS یا WebSocket منتقل می‌کنه. در سمت سرور هم این ارتباط‌ها دوباره از هم جدا میشن و هرکدوم به یک MTProxy معمولی وصل میشن.
 این روش به سیستم‌عامل خاصی وابسته نیست و نکته جالب اینه که دامنه این WEB Proxy مثل یه سایت HTTPS معمولی دیده میشه و فقط درخواست‌هایی که اطلاعات مخصوص پروکسی رو داشته باشن، صفحه واسط (Bridge Page) مربوط به پروکسی رو دریافت می‌کنن.
 👉
@@ -353,7 +353,7 @@ github.com/telegramdesktop/tproxy-server
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2564">
@@ -369,7 +369,7 @@ telelakel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2563">
@@ -388,7 +388,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2562">
@@ -404,7 +404,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/ircfspace/2562" target="_blank">📅 07:39 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2561">
@@ -418,7 +418,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.5K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -501,7 +501,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -516,7 +516,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.8K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -531,7 +531,7 @@ thepanue
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37.3K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 37.4K · <a href="https://t.me/ircfspace/2554" target="_blank">📅 16:57 · 22 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2553">
@@ -554,7 +554,7 @@ Mohammad
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 49.5K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 49.6K · <a href="https://t.me/ircfspace/2553" target="_blank">📅 10:15 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2551">
@@ -601,7 +601,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 31.1K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/ircfspace/2549" target="_blank">📅 09:47 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2548">
@@ -706,7 +706,7 @@ manageit
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 59.8K · <a href="https://t.me/ircfspace/2542" target="_blank">📅 10:28 · 14 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2541">
@@ -1074,7 +1074,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/ircfspace/2520" target="_blank">📅 07:46 · 06 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.4K · <a href="https://t.me/ircfspace/2520" target="_blank">📅 07:46 · 06 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2519">
@@ -1577,7 +1577,7 @@ AdelTalebi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.8K · <a href="https://t.me/ircfspace/2488" target="_blank">📅 07:49 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/ircfspace/2488" target="_blank">📅 07:49 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2487">
@@ -1745,7 +1745,7 @@ github.com/Jigsaw-Code/Intra
 
 <div class="tg-post" id="msg-2477">
 <div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Xxukn9XbCU8W-O3pxVaCThNMkinztxFxRUbC4BB0nnymDxsu1cov5gQUKKzHHGf-DkNQKapUvRotsiwhi_Qs-fw2LKezhD31JKOPqOsqmCeUTt0u-ceUlm2oeaJQRkZ6k2AzioadVVbvkq-TPKbMjZ8m63-aw1vICYvvL92x0W4o9fJiNx05LUJxR37GsSnoiHN-UvKl-rWsbxFV4aPp5OmK4fxxhf87YwWtEC83R7T-6dK3QzzoLZ8_7HDF5ZVwqcFT764AbqW3cgpOk-_0hYHm9a3GnzJ2TTI6LhQU2WW6r1lhSEg7geH7Q6in5pu3xPRaIsRgzYvRW6JZa3S5bw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/O24BGzv8FWKEpkJm7B1cg1Hi0ViXN99jTIWSDtPzKqdXO59hFeBc69JGmRD7E0021qHSQeNkM68JdH9hX4C6lCcRX7bMR-NWYodIMFt3Ofk7wLrtnU7lu92EY8iuO-T2eLTzVUkh6ulhyJi60pD1MU-pnKbNKEvBTGJYLbciVv4mjrfQc7XiSYz_xjR2IaLI0d-4hOi-C2h4cszjctCTiVJNB6SfLVppIi5X2dB-Oy5Ijsk4DzPskAkaP7zTcWfhU_IaxKilGHnxapVzhb9WVRyJ8cLqvI_9FyZVWz0c9OdWa82XIoMUNJQNzM8WIAAJy0gpA5NpS1mEMfpS66z5Ng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محققان Datadog میگن مهاجمان با استفاده از بیش از ۵۰ حساب قدیمی و غیرفعال گیت‌هاب و توکن‌های دسترسی (PAT) افشاشده، از طریق API گیت‌هاب در حال جمع‌آوری اطلاعات سازمان‌ها هستن تا برای حملات بعدی آماده بشن و ساختار داخلی، اعضا و ریپازیتوری‌های اونهارو شناسایی کنن.
 توی بعضی موارد هم تونستن ریپازیتوری‌های خصوصی رو کلون کنن. به گفته Datadog، چون این کارها با حساب‌های واقعی و API رسمی گیت‌هاب انجام میشه، تشخیصش از فعالیت عادی توسعه‌دهنده‌ها کار راحتی نیست.
 ©
@@ -1757,12 +1757,12 @@ thehackernews
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/ircfspace/2477" target="_blank">📅 07:29 · 20 Tir 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/ircfspace/2477" target="_blank">📅 07:29 · 20 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2476">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/e8Hsi2viOQNkIPUr0IuT387dl2obN_MJ9YmhKoK3xED3aRTyCjTXRkwQ9Na5CaJ4rVnAAzqhB7N2eQ1F6cJiZcL9DvHRd8oW9HJ5RdUsAApC9_KQnlueOYchXTpr0dYPpWiJVRFEDMXywX4qMiq87qSOKyZjgfO_Fe1xtlWO-2SuPkNzu2en8lxybLZwXLeo1vRD4khlQjwgnw7AuhdsbzUAxslCQYwg4rPC8d_-ReYFhsV4Kz9gNRpng5bTOmVKq49iY0Y1MjwH77vEMmLN14cOYGYRscK7Vrdn_meSCs2CbeZ1hblcrLyLKcvpXzsdBNHIwjqJntN8s8zs9PKfqA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/fOEOZtksYD5u4RtSpZyHNhQqVwLnFKudQ4K_W-PXdRb2xBf9BlJp--KBMgyKZ1oJSiQt3g1q1Pzele8JNzDDjEGoHq-4O0BTNCDs8FaZ0J5cYiQewV6vC3gVlMe7xzEdGYzLoxVO7j7L8LB_dgYiZq_e6FSNPOYofItvL-lgPjv7kZbwkzewyw2-eJrihlQhkFz2KlN5CD7-NgkoUTO0vmEjMWdsOuWfedc6EzxUQpw6y9df-QMNRW7t5DVbJmCj_UHcirs-cfGpF-us0lgjcCvUA4LxN7zEs9i4_VW-gTHGV9FN6KZRxG-LcFENRsz1Q67a-D6PDKsjN0pzrY-Cuw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایک سنتوناس، مدیر ارشد فناوری شرکت CrowdStrike میگه خیلی‌ها دارن روی این تمرکز می‌کنن که "کدوم مدل هوش مصنوعی خطرناک‌تره"، در حالی که تهدید اصلی جای دیگه‌ هست. مشکل واقعی اینه که هکرها حالا با کمک هوش مصنوعی می‌تونن آسیب‌پذیری‌های قدیمی و جدید رو ظرف چند ساعت، و بزودی شاید در چند دقیقه، پیدا و سوء استفاده کنن.
 به گفته او، هوش مصنوعی بیشتر از اینکه باگ‌های کاملاً جدید کشف کنه، باعث شده هکرها بتونن تعداد زیادی ضعف امنیتی شناخته‌شده رو خیلی سریع به همدیگه وصل کنن و ازشون برای نفوذ استفاده کنن. یعنی اگر سازمانی هنوز وصله‌های امنیتی رو نصب نکرده باشه، حالا خیلی راحت‌تر از قبل هدف حمله قرار می‌گیره. هوش مصنوعی لزوماً حمله‌های جدید خلق نکرده، ولی سرعت و مقیاس سوء استفاده از ضعف‌های امنیتی موجود رو چند برابر کرده و همین بزرگترین تهدید امروز امنیت سایبریه. /اکسیوس
 🔗
