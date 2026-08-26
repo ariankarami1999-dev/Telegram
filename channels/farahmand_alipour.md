@@ -291,13 +291,13 @@
 <p>@farahmand_alipour • 👥 63.9K عضو</p>
 <a href="https://t.me/farahmand_alipour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 04:14:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 05:49:35</div>
 <hr>
 
 <div class="tg-post" id="msg-6642">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">رئیس سازمان اطلاعات آمریکا (سیا) برای یک سفر عازم مسکو شد.</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/farahmand_alipour/6642" target="_blank">📅 19:32 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/farahmand_alipour/6642" target="_blank">📅 19:32 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6641">
@@ -315,7 +315,7 @@
 به غیبت کبری فرستاد هیچ!
 حالا بادبادک هم نمی‌تونن دستشون بگیرن!
 اینها همه پیروزی‌‌ان!</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/farahmand_alipour/6641" target="_blank">📅 14:22 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/farahmand_alipour/6641" target="_blank">📅 14:22 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6640">
@@ -335,7 +335,7 @@
 ‏
 🔺
 به عنوان مثال تمام شعب بانک «ملی» باید تعطیل شوند.</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/farahmand_alipour/6640" target="_blank">📅 21:11 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/farahmand_alipour/6640" target="_blank">📅 21:11 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6639">
@@ -344,7 +344,7 @@
 اسماعیل سقاب اصفهانی، رئیس سازمان بهینه‌سازی مصرف سوخت و مدیریت انرژی، در یک گزارش تصویری به فساد ساختاری در قاچاق سوخت اشاره کرد
 🔸
 او در یک گزارش تصویری که به مناسبت «هفته دولت» در روز دوشنبه دوم شهریور منتشر شد گفت: «هر دو جناح سیاسی کشور در قاچاق سوخت…</div>
-<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/farahmand_alipour/6639" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6638">
@@ -364,7 +364,7 @@
 🔸
 در سال‌های گذشته آمارهای متفاوتی از قاچاق روزانه میلیون‌ها لیتر سوخت از ایران در رسانه‌ها منتشر شده است و برخی کارشناسان بیشتر قاچاق سوخت در کشور را سازمان‌یافته می‌دانند و برخی منابع رسمی انگشت اتهام را به سوی بخش‌ها و نهادهای دولتی و «خصولتی» گرفته‌اند.
 @RadioFarda</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/farahmand_alipour/6638" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/farahmand_alipour/6638" target="_blank">📅 13:23 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6637">
@@ -413,7 +413,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qCt7WIrLk9WsA3xTCbmCtVYMf4at1GEaIJWUrO6AW9EehlpTuUZ_OS-ZgIvNLH7pcDiCE5noJ6AxaXaPhMGulo7Rx21QXZfJBTS89omPt0JbTzw6IAB2REBdntuvlvL6p2gzZh8MZfVidoBp59YM2ivec11yKBp30L_Z07kgfuMseKomYfzPnJzMbBKp8Yjg8PEG9KwvZFiq6BkUcOX_PNrEUXTTJT6N_heB89fe0NrrASVHG8e7DifOZqgKdEIxmi5DMJCG3s6TqaADRjFAhfeNBebE4t3CB7xf8ZOnUuP6HQkV70fGMc9EvPmHFSZcs-S-Yt3VIiE1VC8D0vn2Uw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">الحبوسی - رئیس پارلمان عراق!</div>
-<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/farahmand_alipour/6633" target="_blank">📅 19:03 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 31.4K · <a href="https://t.me/farahmand_alipour/6633" target="_blank">📅 19:03 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6632">
@@ -432,20 +432,20 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post" id="msg-6630">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">سرهنگ نصیری  وقتی مصدق به طور کاملا غیرقانونی  مجلس رو منحل اعلام کرد،  که فقط در اختیارات شاه بود،  شاه نامه عزل مصدق را داد دست  سرهنگ نصیری فرمانده گاردشاهنشاهی که ببره و تحویل مصدق بده.  آیا شاه حق عزل نخست وزیر رو داشت؟  بله! طبق ماده ۴۴ و ۵۸ متمم قانون…</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/farahmand_alipour/6630" target="_blank">📅 17:06 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/farahmand_alipour/6630" target="_blank">📅 17:06 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6629">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e8DN9iWdtXBdbE_bG2eHrpNOOhPojTyFnuQsG6JnjoUvhu_eljsqsuN-T2wy3--a9YTYTJ4gKgfpHNsBkWmUfuT7wHQek4Yhv3LYvRO9DhWE0AUVOCjONUovjCPhAYitEZo14N3ob_aP8Ti4GKiqraVFw6oTzDbwgViZugcRHRfF14wT-JVzN9H_t2167O0UvuDQRMdq_YmiV49A7xb13kgUiXVsNiw7TLFYSgDZuIuM_AMWrnhe2IiUwmQoB4gHrxXTUnvB6lWNwbIjc9mo4LORCgxBX241CY4c40P40U_s-JTiqAVqP5NmyCb_-DAqzMr48RjDpMUH05F9854-vw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بعد هم یک انتخابات نصفه و نیمه برگزار کرد و طوری انتخابات رو جمع کرد که تعداد حامیان شاه در مجلس زیاد نشن!  و مجلس رو با ۸۰ نماینده بست!  شاه در عمل مانع این کارش شد؟  نه!  رفت رفراندوم غیر قانونی و مضحکی در کشور راه انداخت و مجلس رو  به طور کاملا غیرقانونی…</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/farahmand_alipour/6629" target="_blank">📅 16:42 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/farahmand_alipour/6629" target="_blank">📅 16:42 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6628">
 <div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-text">مصدق با عنوان ملی کردن صنعت نفت  (که در عمل هم رخ نداد! و سال ۵۲ رخ داد)  کشور رو وارد یک بحران عظیم مالی کرد!  شب و روز هم سخنرانی می‌کرد که رضاشاه راه‌آهن ساخت به خواست انگلیسی‌ها،  مدارس زیادی رو در کشور راه انداخت!  (باور می‌کنید این یکی از انتقادهاش همین…</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/farahmand_alipour/6628" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/farahmand_alipour/6628" target="_blank">📅 16:35 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6627">
@@ -486,7 +486,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TG0DAt9Ltb_yhBRYoztspTT_S-EoSHr-CG_Gsx7icmMDA3t6mHRyQ7s0XCMSqjbkn9NMTp_XmT0tJjY1hwiVIvCUEzKDhpWEca8xsSRCIJ2E6j57H1bhO-j_WWvBand0eSm6yo-GlH42fzsuztXDxpWvYyhjkzvwpCXi1SHr7qEGVBVAmYmhT_1jnNA5EkG69gk0nD9pu8GBPMQvSEeP54WRWBXtPf17dBMYoN-pvRLSQthqghNOMZPoWFvGksJUEMmvC0L4_hC57wn4-dJzlSf78DHMMAcgjGP1l8SLxNjv09Rhbo-mIo7dbxGeW05E31x06g6jA71960IdBJCPEg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این سه فرد که نام بردم  و چهره‌های اصلی حامی مصدق بودند  و نمایندگان بسیار شاخص مجالس مختلف،  نسبت به این نحو از برگزاری انتخابات اعتراض چندانی نکردند!  مثلا مصلحت بود برای حمایت از دولت مصدق!  مصدق به روشنی برای اینکه نمایندگان  حامی شاه وارد مجلس نشن،  انتخابات…</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/farahmand_alipour/6622" target="_blank">📅 16:09 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16K · <a href="https://t.me/farahmand_alipour/6622" target="_blank">📅 16:09 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6621">
@@ -665,7 +665,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post" id="msg-6598">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">مصدق پیشرفت را در آبادانی شهرها نمی‌دید! ساخت عمارت و هتل و آسفالت و آزادی حجاب و…..!  خامنه‌ای وقتی از امارات عربی متحده، و پیشرفت‌هایش صحبت می‌کرد هم  دقیقا از همین زاویه انتقاد می‌کرد!  میگفت : این‌ها که پیشرفت نیست!  حاکمانشان «بی‌عرضه»‌ترین هستند!  و…</div>
-<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/farahmand_alipour/6598" target="_blank">📅 12:04 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/farahmand_alipour/6598" target="_blank">📅 12:04 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6597">
@@ -740,7 +740,7 @@ https://l.euronews.com/UtiQ</div>
 هر روز پلمب کافه‌ها و... رو داریم.
 هر صبح اعدام داریم، هنوز چند ماه از یک قتل عام نگذشته. اینها اما برای موشک‌های جمهوری اسلامی قر میدن و میرقصن.
 البته که مردم ایران آگاه‌ترین مردم جهان نسبت به تاریخ و هویتشون هستن! خیلی!</div>
-<div class="tg-footer">👁️ 21K · <a href="https://t.me/farahmand_alipour/6593" target="_blank">📅 18:44 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/farahmand_alipour/6593" target="_blank">📅 18:44 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6592">
@@ -791,7 +791,7 @@ https://l.euronews.com/UtiQ</div>
 <div class="tg-post" id="msg-6585">
 <div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">پیامبر اسلام سهم خودش رو  (حدود ۲۵۰ زن و کودک) رو ،  که خب سهم «خمس» بودند، رو فرستاد که  در «نجد» بفروشند، و با پولش اسب  و اسلحه خریداری بشه برای ارتش اسلام.  البته این وسط یکی دو اتفاق هم افتاد،  مثلا یک مرد مسلمان به نام «ثابت بن قیس»  از پیامبر خواهش…</div>
-<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/farahmand_alipour/6585" target="_blank">📅 14:30 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/farahmand_alipour/6585" target="_blank">📅 14:30 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-6584">
