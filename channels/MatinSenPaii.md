@@ -292,7 +292,7 @@
 <a href="https://t.me/MatinSenPaii" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)•YouTube:http://www.youtube.com/@Matin_SenPai•Github:https://github.com/MatinSenPai</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 14:28:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 15:00:30</div>
 <hr>
 
 <div class="tg-post" id="msg-5052">
@@ -302,7 +302,7 @@
 👀
 📹
 آموزش استفاده رایگان از Ox Alpha: https://youtu.be/FIhoccZtpZQ  برای شرکت در چالش: 1-…</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/MatinSenPaii/5052" target="_blank">📅 10:20 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/MatinSenPaii/5052" target="_blank">📅 10:20 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5051">
@@ -334,14 +334,14 @@ https://t.me/liracandles
 🍓
 معیار انتخابم بیشتر روی خلاقیت ایده، کاربردی بودن و کیفیت چیزی که با Ox Alpha ساختید خواهد بود.
 تا فردا همین ساعت می‌تونید توی چالش شرکت کنید! چون احتمالا آخرین مهلت استفاده‌ی رایگان از مدل Ox Alpha خواهد بود طبق گفته‌ی OpenCode</div>
-<div class="tg-footer">👁️ 16.2K · <a href="https://t.me/MatinSenPaii/5051" target="_blank">📅 05:59 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/MatinSenPaii/5051" target="_blank">📅 05:59 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5050">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">به زودی آموزش ویدئویی این ویزا کارت مجازی و روش گرفتن آفرهای رایگان و اینکه چطوری وصلش کنید به Google Pay و... رو می‌ذارم
 🎨</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/MatinSenPaii/5050" target="_blank">📅 01:29 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/MatinSenPaii/5050" target="_blank">📅 01:29 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5049">
@@ -351,7 +351,7 @@ https://t.me/liracandles
 توی این ویدئو رفتیم سراغ مدل مرموز Ox Alpha و اون پروژه‌ای که توی ویدئوی قبلی زدیم رو ارتقا میدیم باهاش! این مدل، به تازگی اومده و یه مدل مرموزه که هنوز اعلام نشده مال کدوم شرکته، اما بررسی و تحلیل می‌کنیم که مال کجا می‌تونه باشه. و همینطور بهتون میگم که چطور می‌تونید رایگان ازش استفاده کنید و کد بزنید
 📹
 تماشا در یوتوب</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/MatinSenPaii/5049" target="_blank">📅 00:02 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/MatinSenPaii/5049" target="_blank">📅 00:02 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5048">
@@ -359,14 +359,14 @@ https://t.me/liracandles
 <div class="tg-text">دوستان من کمی از لحاظ جسمی مشکل برام به وجود اومده بود. الان رو به راهم
 سعی می‌کنم ویدئوی x alpha رو زودتر بذارم
 ❤️</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/MatinSenPaii/5048" target="_blank">📅 22:21 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/MatinSenPaii/5048" target="_blank">📅 22:21 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5047">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">و خب من نظرم اینه که، Train بشه که بشه:)) مدل‌های قوی‌تر، ارزونتری که الان هستن و داریم ازشون استفاده می‌کنیم، بخشیش از همین طریق قدرتمندتر شدن
 ولی خب شما باز اگر نگران «حریم خصوصی» هستید، دور چین و مدل رایگان و contributer رو خط بکشید</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/MatinSenPaii/5047" target="_blank">📅 11:25 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/MatinSenPaii/5047" target="_blank">📅 11:25 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5046">
@@ -396,14 +396,14 @@ https://t.me/liracandles
 و این، از خودِ افزایش کیفیت جالب‌تر و البته نگران‌کننده‌تر است.
 ✍️
 callitVer1</div>
-<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/MatinSenPaii/5045" target="_blank">📅 11:21 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/MatinSenPaii/5045" target="_blank">📅 11:21 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5044">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">راجب یه پادکست جالب شنیدم در مورد یه تیم نرم‌افزار نروژی که 4 ماه کامل از کلاد استفاده کردن و بعدش کلا بیخیال شدن برگشتن روی روش سنتی خودشون
 فردا خلاصه‌اش رو واستون می‌ذارم</div>
-<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/MatinSenPaii/5044" target="_blank">📅 00:22 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/MatinSenPaii/5044" target="_blank">📅 00:22 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5043">
@@ -492,7 +492,7 @@ callitVer1</div>
 <div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">تموم نشو x alpha
 💔</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/MatinSenPaii/5034" target="_blank">📅 17:09 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/MatinSenPaii/5034" target="_blank">📅 17:09 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5033">
@@ -628,7 +628,7 @@ https://x.com/MatinSenPai/status/2091522197537919325</div>
 <div class="tg-text">به نظرم یا مدل جدید شیائومی Mimo هست یا به قول یکی از بچه‌های توییتر مدل جدید خود Google(جمنای ۳.۵ پرو). گوگل هم ماشالا ید طولایی داره توی این ناشناس مدل ریلیز کردنه
 😂
 خواهیم دید چه خواهد شد اما تا الان خیلی خفن بوده</div>
-<div class="tg-footer">👁️ 36.1K · <a href="https://t.me/MatinSenPaii/5019" target="_blank">📅 17:25 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.2K · <a href="https://t.me/MatinSenPaii/5019" target="_blank">📅 17:25 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5018">
@@ -737,7 +737,7 @@ Settings ← Diagnostics
 ⬇️
 دانلود
 https://github.com/WhiteDNS/WhiteAestherMobile/releases/latest</div>
-<div class="tg-footer">👁️ 25K · <a href="https://t.me/MatinSenPaii/5010" target="_blank">📅 21:38 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/MatinSenPaii/5010" target="_blank">📅 21:38 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5008">
@@ -773,14 +773,14 @@ https://github.com/Delta-Kronecker/V2ray-Config
 PattNG
 استفاده کنید، بزودی در سایر کلاینتها نیز این مورد پشتیبانی میشود.
 https://github.com/patterniha/Free-Configs</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/MatinSenPaii/5007" target="_blank">📅 15:09 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/MatinSenPaii/5007" target="_blank">📅 15:09 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5006">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ozqYuHqsimWj_aOlhEl3VH3MYl1tpsTUcF4xlnr3D9YtzlWcBVZ7QYXFc6VWf-3Au2sVqlpOm1dBwZhkr2JPF81snNckSbR5Ew8QQRgduHgoopc5QIsC3YgJ7kpO3GDo9APdQgB806Jky20FEVEP0IDkwxd28ecQ22VlTWTkD5iLis3QzxZibDiu-CTvhpI_xbv2T91BgnXtSCAXBGBCxYneLJW4U_sgmrIpMDHMZPtCf4-Q1_9foar0lqgahI7w78I2GSPjXnDCjZWuCF0J6mRjhzTM_psmaw5L0Hz0O10JXuJLUjPBle6rs2jVISVRb_WK4DMY4FEi5RqYUuI7dg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه مقایسه‌ای دارم انجام میدم</div>
-<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/MatinSenPaii/5006" target="_blank">📅 03:19 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/MatinSenPaii/5006" target="_blank">📅 03:19 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5005">
@@ -811,7 +811,7 @@ https://github.com/patterniha/Free-Configs</div>
 🟩
 :
 https://kick.com/matinsenpai</div>
-<div class="tg-footer">👁️ 39.1K · <a href="https://t.me/MatinSenPaii/5002" target="_blank">📅 19:05 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/MatinSenPaii/5002" target="_blank">📅 19:05 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5001">
@@ -869,8 +869,8 @@ https://github.com/nesquena/hermes-webui
 <div class="tg-post" id="msg-4994">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Zh4rK8RxqisLylIg6gAKBg6KBaiuFDLeVemdlluhM1Bpd8RXKay0CHzhFfj3yNGHyQZIO50iGYJ9B_QWqMBi4SlhkXn11J_RzbXOMMRYUvW03xzLeCV8OxZai6PQ1JNHmkg-MaWE8GyYE674F0ZsTlvSjpT51DS1xVhxPdiwPlkGw88lZcDFpzBQC4xNH-BOVPHSoD3RHzo6GAEjZAnzWQF5zQ0CF07tRc3HKmiZFHxMPzPiR9c0rTDBZpDEGheATndPTP82HUgqDs6jGf13VzDru3RQNpGvXA_NUC3dMahXV_ZE6lX9N74wBXt2kqnCgU_u8dBOolvJfo2vqxuznQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/AK6X0HM3lDvy3X_PY50wDZDWnHtciRT47XLYh5OAIQR3b1pAEfQn1hYn73eMHeFWYdFYrV_qdgbcJonE8tAcDBUUFM5qwzvsJciFt_Uayn2qDHFaHSRgJMIQH1Cj0_amWmLPV4244MA8VvLP0V5D7FA4JT78c0hv8EmeU01tWpSTmFuCe2rpTFLbAccmsduCkJrFTPIk_yW-vMbXpadPCULX-GKmdTetKMjU3fseH0E7GxZovcDfhwX11GcEwMVZ5qZgjZESIlq5E5-WjUTnUcFXL-m5u135evFpaTES5ZOtQRyHx_-J27B86-7_-KWnbqlpYTaK0n2lUNiFYnaPmg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/oS0oCO9BzQ0t57YexJHhgqzWeO5hTzbSAyrj1xSPhSY2Lu8yujZR3IwIzBmKhLgKkwBhSV6mOmG3Ro10XjDv3dwkll8McDHjgrfkECVpDNDkPZihK9oakWonytPWtNZP_DfrWobk_mEZNUJFgTLcD9dAl6dGb55S9Ljlmq0E0xPYM4WzMEdLOcHqiWtj9B6IPFI91yUnSOYGOynmvGfn3rAo39T_lJeUu9e4c9T5Q7AJDmZXCyxeLqQRE0W_MFXKGV-AEpkTf4L02fHLc7MUj6RM6DQTieTopdobFshf-cPIi_j4VeH7nosF0Js9aVfwJVpqaBIKSK8-nOKICj0Diw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/UvaaZTJ5LkgR954cxlwKbCBBze6Frf0y8U7hXmtRON0SZrN6yidvYtCxaC_Z4eqACjilKl0LghTV-I1H55OKx5l9AeasJdm86YwcXIan637iHnmGtoAVt3PAtUt1YsdN332uY77d3mhf_pOf6h486QJKgRy-HE6XXQVCUsR7FwGnIyFFfTvdjUoAVRpRyX0kRhkp7EbI9Ad1KYcRezHLhBgfO1cWPt1wA6OVuDQOLbeZ49G2SyWk6-_VEqiip1kvTCWYi-8mf5H46DeabJxW6XqyaQ9Cor4pXYf0ZLMQo2_aBCj0oTPRO8_6qAqUH54mmETQ4ljCWLPjzQbrEDTOmg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">روش پرداخت بین‌المللی و گرفتن Visa Card مجازی  خب دوستان، امروز می‌خوام بهتون یاد بدم چطوری می‌تونید با این وبسایت، برای خودتون ویزا کارت بگیرید: https://app.mpay.cards?startapp=ref_PzwXZ8 (لینک رفرال هست. می‌تونید آخرش رو پاک کنید اگر دوست نداشتید) 1- بعد…</div>
 <div class="tg-footer">👁️ 34.9K · <a href="https://t.me/MatinSenPaii/4994" target="_blank">📅 15:42 · 28 Mordad 1405</a></div>
@@ -1156,7 +1156,7 @@ Workers.dev
 🟩
 می‌تونید فالو کنید اگه دوست داشتید:
 https://kick.com/matinsenpai</div>
-<div class="tg-footer">👁️ 38.9K · <a href="https://t.me/MatinSenPaii/4970" target="_blank">📅 19:57 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39K · <a href="https://t.me/MatinSenPaii/4970" target="_blank">📅 19:57 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-4969">
