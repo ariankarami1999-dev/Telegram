@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 17:15:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-04 18:05:15</div>
 <hr>
 
 <div class="tg-post" id="msg-70621">
@@ -302,7 +302,7 @@
 ترامپ:
 فکر می‌کنم ۳۰۰ [درصد] باشد. شنیده بودم ۹۰ درصد؛ اما به نظرم تورم ۳۰۰ درصد است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 96 · <a href="https://t.me/news_hut/70621" target="_blank">📅 17:16 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.54K · <a href="https://t.me/news_hut/70621" target="_blank">📅 17:16 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70620">
@@ -320,7 +320,7 @@
 وقتی کسانی هستند که حاضرند شما را بکشند، اعتراض کردن در ایران بسیار دشوار است؛ به همین دلیل است که آن‌ها اعتراض نمی‌کنند.
 و البته احتمالی هم وجود دارد، چرا که آن‌ها بسیار تضعیف شده‌اند... به بسیاری از سربازانشان حقوق پرداخت نمی‌شود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 738 · <a href="https://t.me/news_hut/70620" target="_blank">📅 17:14 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.84K · <a href="https://t.me/news_hut/70620" target="_blank">📅 17:14 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70619">
@@ -340,7 +340,7 @@
 مقدار زیادی نفت از آنجا جریان دارد.
 دیروز ۱۰ میلیون بشکه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 1.66K · <a href="https://t.me/news_hut/70619" target="_blank">📅 17:09 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.37K · <a href="https://t.me/news_hut/70619" target="_blank">📅 17:09 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70618">
@@ -360,7 +360,7 @@
 آن‌ها سعی دارند محاصره را بشکنند و وارد شوند.
 نیروی دریایی و ارتش ما عملکردی فوق‌العاده داشته‌اند.»
 @News_Hut</div>
-<div class="tg-footer">👁️ 1.87K · <a href="https://t.me/news_hut/70618" target="_blank">📅 17:07 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/news_hut/70618" target="_blank">📅 17:07 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70617">
@@ -380,7 +380,7 @@
 اما گمان نمی‌کنم که مرده باشد.
 اگر هم مرده باشد، دارند نمایش خیلی خوبی اجرا می‌کنند؛ چون مدام صحبت از این است که باید برای گرفتن تأیید نهایی‌اش با او گفتگو کنند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/news_hut/70617" target="_blank">📅 17:02 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.72K · <a href="https://t.me/news_hut/70617" target="_blank">📅 17:02 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70616">
@@ -397,7 +397,7 @@
 امروز 4 شهریور ماه، زادروز شاهِ شاهان؛ کوروش بزرگه
 .
 @News_Hut</div>
-<div class="tg-footer">👁️ 3.05K · <a href="https://t.me/news_hut/70616" target="_blank">📅 16:57 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.73K · <a href="https://t.me/news_hut/70616" target="_blank">📅 16:57 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70615">
@@ -412,7 +412,7 @@
 <div class="tg-text">‼️
 این کوهنوردای ایرانی موقع صعود تو کوه های آرارات، آیفون17 این دختر آرژانتینی رو پیدا کردن و بهش تحویل دادن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/news_hut/70615" target="_blank">📅 16:30 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.2K · <a href="https://t.me/news_hut/70615" target="_blank">📅 16:30 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70614">
@@ -432,7 +432,7 @@
 به خودم اومدم دیدم از خیلی از هم‌سن‌هام جلوترم واقعا
 تویی که از این روتین خوشت میاد و سالم زندگی میکنی، به خودت افتخار کن، چون مثل تو خیلی کم شده..
 @News_Hut</div>
-<div class="tg-footer">👁️ 6.8K · <a href="https://t.me/news_hut/70614" target="_blank">📅 16:00 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.52K · <a href="https://t.me/news_hut/70614" target="_blank">📅 16:00 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70613">
@@ -447,7 +447,7 @@
 <div class="tg-text">‼️
 این کلیپ هر ثانیه بیشتر سورپرایزت میکنه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.1K · <a href="https://t.me/news_hut/70613" target="_blank">📅 15:31 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.56K · <a href="https://t.me/news_hut/70613" target="_blank">📅 15:31 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70612">
@@ -463,7 +463,7 @@
 لحظه شلیک RPG توسط سرباز روسی که جلوی پاش میزنه
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.52K · <a href="https://t.me/news_hut/70612" target="_blank">📅 15:01 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/news_hut/70612" target="_blank">📅 15:01 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70610">
@@ -478,7 +478,7 @@
 <div class="tg-text">‼️
 این زوج به اسم مینا و رضا بعد از پنجاه سال هنوزم عاشقانه همدیگرو دوست دارن و پنجاهمین سالگرد ازدواجشون رو به زیباترین شکل جشن گرفتن و رقصیدن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/news_hut/70610" target="_blank">📅 14:32 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/news_hut/70610" target="_blank">📅 14:32 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70609">
@@ -487,7 +487,7 @@
 <div class="tg-text">‼️
 زمان شاه هر اسکناس هزار تومنی، معادل ۱۴۲ دلار بود!
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/news_hut/70609" target="_blank">📅 13:52 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/news_hut/70609" target="_blank">📅 13:52 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70608">
@@ -504,7 +504,7 @@
 تا آخر شهریور هیچگونه تغییری در بنزین 1500 و 3000 تومانی نخواهیم داشت
 ‏مهاجرانی: تولید داخل و ذخائر استراتژیک بنزین مناسبی داریم و جای نگرانی نیست
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/news_hut/70608" target="_blank">📅 13:10 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/news_hut/70608" target="_blank">📅 13:10 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70607">
@@ -523,7 +523,7 @@
 چالش ایران پایان نیافته است.
 ما همچنین باید کار را در غزه، لبنان و سایر عرصه‌ها به سرانجام برسانیم و برای انجام آن مصمم هستیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/news_hut/70607" target="_blank">📅 12:20 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/news_hut/70607" target="_blank">📅 12:20 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70606">
@@ -543,7 +543,7 @@
 او دیروز آن تصمیم را به شیوه‌ای بسیار بسیار قاطع تأیید کرد.
 اقدام دیروز رئیس‌جمهور ترامپ، تشدید محاصره ایران بود؛ نه از طریق تنگ‌تر کردن حلقه محاصره خودِ ایران، بلکه با تشدید فشار و محاصره بر کسانی که به این رژیم — این دیکتاتوری هولناک — کمک می‌کنند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/news_hut/70606" target="_blank">📅 12:18 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/news_hut/70606" target="_blank">📅 12:18 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70605">
@@ -565,7 +565,7 @@
 🔴
 به شما می‌گویم: نمی‌توانید با آن‌ها توافق کنید.
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/news_hut/70605" target="_blank">📅 12:15 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.8K · <a href="https://t.me/news_hut/70605" target="_blank">📅 12:15 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70604">
@@ -582,7 +582,7 @@
 پهلوی همه همت و دغدغه ش این بود که مردم خونه و ماشین خوب داشته باشن؛ زندگی خوبی داشته باشن و ارتباط ایران با کشورهای جهان خوب باشه ولی الان دیگه اینا ارزش نیست و برای کسی مهم نیست .
 الان دیگه مردم دنبال معنویاتن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/news_hut/70604" target="_blank">📅 11:35 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15K · <a href="https://t.me/news_hut/70604" target="_blank">📅 11:35 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70602">
@@ -597,7 +597,7 @@
 <div class="tg-text">❌
 مدیر شرکت «فردا موتور» داشت واسه ثبت نام کنندگان خودرو توضیح میداد که ماشین نداریم. دو سال و نیم صبر کردید؛ باید چند ماه دیگه‌ هم صبر کنید که مردم گفتن «سیشتیر بابا همتون همینو میگید» و ریختن سرش.
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/news_hut/70602" target="_blank">📅 11:35 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/news_hut/70602" target="_blank">📅 11:35 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70601">
@@ -623,7 +623,7 @@
 Telegram Channel
 👇
 https://t.me/+c5jwC3lt9z45NTE0</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/news_hut/70601" target="_blank">📅 11:35 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/news_hut/70601" target="_blank">📅 11:35 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70600">
@@ -664,7 +664,7 @@ r4
 👇
 ✅
 https://t.me/+c5jwC3lt9z45NTE0</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/news_hut/70600" target="_blank">📅 11:35 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/news_hut/70600" target="_blank">📅 11:35 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70599">
@@ -686,7 +686,7 @@ https://t.me/+c5jwC3lt9z45NTE0</div>
 چطور تو آزاد باشی اون آزاد نباشه
 هرکی لخت بیاد بیرون حقش اینه که سرش بیاد
 @News_Hut</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/news_hut/70599" target="_blank">📅 11:01 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/news_hut/70599" target="_blank">📅 11:01 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70598">
@@ -702,7 +702,7 @@ https://t.me/+c5jwC3lt9z45NTE0</div>
 این خانمه داره مشاوره میده یک فرد چطوری با رابطه تریسام کنار بیاد
 😐
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/news_hut/70598" target="_blank">📅 10:34 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/news_hut/70598" target="_blank">📅 10:34 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70597">
@@ -722,7 +722,7 @@ https://t.me/+c5jwC3lt9z45NTE0</div>
 اگه این مسیر ما طوری باشه که میان مدت دیدیم درست نشد اصلاحش میکنیم
 ولی من معتقدم که این شوک هایی که ایجاد شده جوسازی امریکا هست و شرایط مطمئنن درست میشه و رفع میشه
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.4K · <a href="https://t.me/news_hut/70597" target="_blank">📅 10:04 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/news_hut/70597" target="_blank">📅 10:04 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70596">
@@ -731,7 +731,7 @@ https://t.me/+c5jwC3lt9z45NTE0</div>
 ویدیو وایرال شده از یه جوون ایرانی خطاب به مسئولین جمهوری اسلامی
 تراپی خالص :
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/news_hut/70596" target="_blank">📅 09:31 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/news_hut/70596" target="_blank">📅 09:31 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70595">
@@ -753,7 +753,7 @@ https://t.me/+c5jwC3lt9z45NTE0</div>
 اگه آمریکا به اقداماتش ادامه بده، ممکنه قابلیت‌های نظامی جدیدمون رو هم رو کنیم.
 تنگه هرمز تنها ابزاری نیست که ما در برابر آمریکا داریم. آمریکا نباید فکر کنه فقط خودش می‌تونه به اقتصاد طرف مقابل ضربه بزنه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/news_hut/70595" target="_blank">📅 09:00 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/news_hut/70595" target="_blank">📅 09:00 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70594">
@@ -762,7 +762,7 @@ https://t.me/+c5jwC3lt9z45NTE0</div>
 فقط کافیه مرغ از خیابون رد کنی و‌ پولت چند برابر کنی راحت
 💵
 👌</div>
-<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/70594" target="_blank">📅 02:06 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/70594" target="_blank">📅 02:06 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70593">
@@ -794,7 +794,7 @@ a3
 👇
 https://t.me/+FaoDjhEVG34wMWFk
 https://t.me/+FaoDjhEVG34wMWFk</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/70593" target="_blank">📅 02:06 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/70593" target="_blank">📅 02:06 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70592">
@@ -805,7 +805,7 @@ https://t.me/+FaoDjhEVG34wMWFk</div>
 ⏺
 یخچال ساید ۵۰۰میلیون
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/70592" target="_blank">📅 01:34 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/70592" target="_blank">📅 01:34 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70591">
@@ -820,7 +820,7 @@ https://t.me/+FaoDjhEVG34wMWFk</div>
 روبیو اظهار داشت که اگرچه واشنگتن برای بازگشت به عملیات‌های رزمی گسترده آماده نمی‌شود، اما در صورت حمله نخستِ ایران، همچنان امکان انجام حملات متقابل وجود دارد.
 انتظار می‌رود این سیاست دست‌کم تا پس از انتخابات میان‌دوره‌ای حفظ شود؛ زمانی که ممکن است انجام یک عملیات نظامی دیگر مورد بررسی قرار گیرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/70591" target="_blank">📅 01:17 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/70591" target="_blank">📅 01:17 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70590">
@@ -830,7 +830,7 @@ https://t.me/+FaoDjhEVG34wMWFk</div>
 خروج یک هواپیما از باند فرودگاه مشهد
 روابط عمومی فرودگاه مشهد: پرواز تهران به مشهد هواپیمایی سپهران هنگام فرود از باند خارج شد اما مسافران و خدمه در سلامت کامل هستند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/70590" target="_blank">📅 00:35 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/70590" target="_blank">📅 00:35 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70589">
@@ -840,7 +840,7 @@ https://t.me/+FaoDjhEVG34wMWFk</div>
 وزیر نیرو :
 تا دو هفته دیگه شرایط آب هوایی به حالت عادی برمیگرده و خاموشی ها تموم میشه
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/70589" target="_blank">📅 23:51 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/news_hut/70589" target="_blank">📅 23:51 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70588">
@@ -855,7 +855,7 @@ https://t.me/+FaoDjhEVG34wMWFk</div>
 ایجاد یک کریدور مشترک از طریق تنگۀ هرمز
 اجرای پروژۀ مشترک برای مین‌زدایی از تنگه
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/70588" target="_blank">📅 23:15 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/70588" target="_blank">📅 23:15 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70585">
@@ -873,7 +873,7 @@ https://t.me/+FaoDjhEVG34wMWFk</div>
 پهپادهای اوکراینی به پالایشگاه نفت آفپسکی در منطقه کراسنودار روسیه حمله کردند.
 در پی این حمله، آتش‌سوزی در پالایشگاه مشاهده شده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/70585" target="_blank">📅 22:30 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/70585" target="_blank">📅 22:30 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70584">
@@ -891,7 +891,7 @@ https://t.me/+FaoDjhEVG34wMWFk</div>
 خود جیمی (مستر بیست) و دوستاش به مدت چندماه تو یه شهرک نظامی، آموزش‌های نظامی و امدادی دیدن و جالبی این موضوع اینه که مستر بیست برای خودش 50 تا بدل درست کرده بود تا پلیس‌هارو کصخل کنه.
 این ویدیو یکی از پرهزینه‌ترین و پرچالش‌ترین ویدئوهای یوتیوب مستر بیست بود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/70584" target="_blank">📅 21:53 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/70584" target="_blank">📅 21:53 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70583">
@@ -908,7 +908,7 @@ https://t.me/+FaoDjhEVG34wMWFk</div>
 سوال خبرنگار از شاهنشاه آریامهر:
 فکر می‌کنید در کشور شما کدام‌یک تاثیر بیشتری روی زندگی مردم داره؟مذهب یا پادشاهی؟
 @News_Hut</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/70583" target="_blank">📅 21:14 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/70583" target="_blank">📅 21:14 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70580">
@@ -958,7 +958,7 @@ https://t.me/+FaoDjhEVG34wMWFk</div>
 <div class="tg-text">‼️
 پسر ۱۶ ساله رونالدو و دوست دختر خوشگلش:
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/70577" target="_blank">📅 19:34 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/70577" target="_blank">📅 19:34 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70576">
@@ -991,7 +991,7 @@ https://t.me/+FaoDjhEVG34wMWFk</div>
 <div class="tg-text">👑
 نگاه هویدا به یکی از بی‌شعورترین و بی‌سوادترین مخلوقات زمین
 @News_Hut</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/70575" target="_blank">📅 18:58 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/70575" target="_blank">📅 18:58 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70574">
@@ -1003,7 +1003,7 @@ https://t.me/+FaoDjhEVG34wMWFk</div>
 از دستش نده
 ✅
 https://t.me/+x83BW_KQnT01ZGE0</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/70574" target="_blank">📅 18:58 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.7K · <a href="https://t.me/news_hut/70574" target="_blank">📅 18:58 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70573">
@@ -1051,7 +1051,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 
 <div class="tg-post" id="msg-70572">
 <div class="tg-post-header">📌 پیام #58</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/t8T40UbdSe71WEuw_8tPwVCcApZUnS1I_FVcplmcqlhpjGVYZebMEYI_z_WFxKdTMHuWrgMW6G6J_DqyN1VfBl-tT32QG-3Cj9YhPort7q3fO17-38W-mQCi6EMAaCWdX2bSql_VEqzHJqbugeNyRWwesVKxOYj2hSeKebXlNyRkEWXb6yNURNUo9beqGaPARONVqGWcnQ_cKfePW9X7DCDas-dVo_geG2eNdVBUwYgyaK55m8XYnbHt5D3Hp84DxmT87o3ij9kUva1Eni8xCgAMG3M-G8l8XroueLpfcmlBlSqDnZL4CdyAjxryubpETK_ADP2MzetofHWUhpaFaA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mITXxcPTCJTocsywO1554IVonGeBipJc8cIa7ZrNJ_Ore2ZLTPgJ8fIdXUBCeKG4GxkrBhyqSA-N379u8san7OwX0Suqw7FRcWDXOpzRB9PTTGMg1J8qwGSiGpFDBgHdufVJ_wrHuFcEwk_O9pm4SwpplQHaLAGCcthLuJU3yOUvY48nFXOGqdECXXczOBqZaAcbUKr8m6JE2N91EB-L5fmi-rw4Hl-RpUS-1rAnM2zEEA3ecuhAnLHKIRfLs3bIg9_tYG3Tu6C882T_5De37uTm5Y6r27A5oy5b4N2hvm7MZk76dqN5tJNUM_X6oI5Udb8QDkGPRrLdKj1xz1nEYg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 ⭕️
 🇺🇸
@@ -1061,17 +1061,17 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 ما از طریق نیروی فضایی، هر اینچ مربع از تنگه را زیر نظر داریم، همانطور که در مورد کوه پیکاکس و سه سایت هسته‌ای دیگر که قبلاً نابود شده‌اند نیز همین کار را می‌کنیم.
 سیاست عدم تحمل در مورد مین‌گذاری با تمام قوا و به طور مؤثر وجود دارد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/70572" target="_blank">📅 18:08 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/70572" target="_blank">📅 18:08 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70571">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/8133b3536e.mp4?token=WlKMzwwKqIPTB2YivH4GdeUpHl7k4SbjujewE1nej_SiGNXqyP6VhYsgmtS63-cVLpD1KQalr2y0TaZztPi-GJspqnjiI-zGC4Dj3XOfg0rMvyulPjzJErcNWXNr4jmQsXkf9ERtgsH0AdWBFB7YLvpxF6hVoQVBgALdd9muZ-nBG6JyeRZkuVqEsQpRWuTES8l_X8206aBBS5QciTs_upuWwwJL210c4MRqKrD6jVqcP2cxA5dhgkirzTTm1yvpFSHvG97Pzet7TWzN3_y6-AYMDgVu8ng4t9kDVx3amxQRdfygInVo5kOfc4VlKBTLICbNQ_N-61IHkRl6_O6ZiA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/8133b3536e.mp4?token=Gf0sXCozMaos05o_wTrhdgrE1DHLlS7AD_ST9rOQ3o30zWWEYSKVstVdrGFqlzcwBFFaCCdFQpc3z58SR6zKNd2kyBJroQSyFwhenz_O5Fm6rBm8r3Wdy3ycp1FMIAQdUS9SajLaEFvIZdY88NiBPQTvUuutQNos-M6-IaP4wcL8v8cYdydZvo2caxxqwk-_a-rjha7VOph4X1EKjgtWs3M-FANqxhb9L0c7fn6o13IsgMQ6U1vCQhMNJO5fULwy-HcTdWIPsAQi2IizrbT7y9K2dV6uxZe-E3Pe3TcXAIh34ncAi7BWNkrNKKF5cwDXf6cD9LUb9W0bn5g54Ziadg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/8133b3536e.mp4?token=WlKMzwwKqIPTB2YivH4GdeUpHl7k4SbjujewE1nej_SiGNXqyP6VhYsgmtS63-cVLpD1KQalr2y0TaZztPi-GJspqnjiI-zGC4Dj3XOfg0rMvyulPjzJErcNWXNr4jmQsXkf9ERtgsH0AdWBFB7YLvpxF6hVoQVBgALdd9muZ-nBG6JyeRZkuVqEsQpRWuTES8l_X8206aBBS5QciTs_upuWwwJL210c4MRqKrD6jVqcP2cxA5dhgkirzTTm1yvpFSHvG97Pzet7TWzN3_y6-AYMDgVu8ng4t9kDVx3amxQRdfygInVo5kOfc4VlKBTLICbNQ_N-61IHkRl6_O6ZiA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/8133b3536e.mp4?token=Gf0sXCozMaos05o_wTrhdgrE1DHLlS7AD_ST9rOQ3o30zWWEYSKVstVdrGFqlzcwBFFaCCdFQpc3z58SR6zKNd2kyBJroQSyFwhenz_O5Fm6rBm8r3Wdy3ycp1FMIAQdUS9SajLaEFvIZdY88NiBPQTvUuutQNos-M6-IaP4wcL8v8cYdydZvo2caxxqwk-_a-rjha7VOph4X1EKjgtWs3M-FANqxhb9L0c7fn6o13IsgMQ6U1vCQhMNJO5fULwy-HcTdWIPsAQi2IizrbT7y9K2dV6uxZe-E3Pe3TcXAIh34ncAi7BWNkrNKKF5cwDXf6cD9LUb9W0bn5g54Ziadg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">‼️
 شاید باورتون نشه ولی ایشون بخاطر اینکه آلت تناسلی بزرگی که داره، گریه میکنه! میگه تا میخوام با دخترا رابطه برقرار کنم، جیغ میزنن وای هیولا، چه مار بزرگی و فرار میکنن
@@ -1259,7 +1259,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 بعد از یه مدت رابطه، این صحنه خلق شده
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/70558" target="_blank">📅 11:31 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/news_hut/70558" target="_blank">📅 11:31 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70557">
@@ -1312,7 +1312,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 Telegram Channel
 👇
 https://t.me/+c5jwC3lt9z45NTE0</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/70553" target="_blank">📅 10:57 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/70553" target="_blank">📅 10:57 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70552">
@@ -1383,7 +1383,7 @@ https://t.me/+c5jwC3lt9z45NTE0</div>
 <div class="tg-text">‼️
 این ویدیو به تازگی وایرال شده از یک گروهی که رفتن کرمان و در مکانی بنام قلعه دختر مثلا جن احضار کردن
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/70550" target="_blank">📅 10:00 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/70550" target="_blank">📅 10:00 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70549">
@@ -1413,7 +1413,7 @@ https://t.me/+c5jwC3lt9z45NTE0</div>
 <div class="tg-text">⏺
 زنده یاد مانوک خدابخشیان تحلیل‌گر ارشد سیاسی در مورد فشار اقتصادی آمریکا؛
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/70548" target="_blank">📅 09:00 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/70548" target="_blank">📅 09:00 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70547">
@@ -1517,7 +1517,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 یک نفتکش مورد اصابت پرتابه ای ناشناس قرار گرفته، بخش موتور آسیب دیده و کشتی از کار افتاده.
 خدمه سالم هستند و تاکنون میزان تاثیرات زیست محیطی این اتفاق مشخص نیست.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/news_hut/70540" target="_blank">📅 02:36 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/news_hut/70540" target="_blank">📅 02:36 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70538">
@@ -1693,7 +1693,7 @@ https://t.me/+x83BW_KQnT01ZGE0</div>
 و خطاب به کسانی که راه را برای تهران هموار کردند:
 بهای آزمودن عزم و اراده واشنگتن را دست‌کم نگیرید.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/70526" target="_blank">📅 20:55 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/70526" target="_blank">📅 20:55 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70525">
@@ -1943,7 +1943,7 @@ g2
 ما از قدیم شطرنج باز بوده‌ایم، در سال‌های اخیر پوکر باز هم شده‌ایم.
 الان هم مدتی‌ است که ترکیبی بازی می‌کنیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/70510" target="_blank">📅 15:33 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/70510" target="_blank">📅 15:33 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-70509">
@@ -2038,7 +2038,7 @@ g2
 موشک THAAD: طول ۶.۲ متر | قطر ۴۰ سانتی‌متر | وزن ۶۶۲ کیلوگرم | سرعت بیش از ۸.۲۴ ماخ | ارتفاع درگیری: ۱۵۰ کیلومتر| ارتفاع درگیری داخل و خارج جو | پیشران سوخت جامد | روش انهدام Hit-to-Kill | هدف: موشک‌های بالستیک.
 موشک Patriot PAC-3 MSE: طول حدود ۵.۲ متر | قطر حدود ۲۵ سانتی‌متر | وزن حدود ۳۱۲ کیلوگرم | سرعت: ۵ ماخ | ارتفاع درگیری ۴۰ کیلومتر | پیشران سوخت جامد دوپالسه | روش انهدام Hit-to-Kill | هدف: موشک‌های بالستیک، کروز و هواگردها.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/70503" target="_blank">📅 11:59 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/70503" target="_blank">📅 11:59 · 02 Shahrivar 1405</a></div>
 </div>
 
 <hr>
