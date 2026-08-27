@@ -292,7 +292,7 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-05 03:22:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-05 09:25:37</div>
 <hr>
 
 <div class="tg-post" id="msg-919">
@@ -340,7 +340,7 @@
 🟢
 اطلاعات بیشتر در info کانال(bio)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 971 · <a href="https://t.me/mohsentavoosiseo/919" target="_blank">📅 12:57 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 980 · <a href="https://t.me/mohsentavoosiseo/919" target="_blank">📅 12:57 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-917">
@@ -433,7 +433,7 @@ booking.com
 🟢
 اطلاعات بیشتر در info کانال(bio)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.85K · <a href="https://t.me/mohsentavoosiseo/914" target="_blank">📅 12:46 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.86K · <a href="https://t.me/mohsentavoosiseo/914" target="_blank">📅 12:46 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-911">
@@ -445,13 +445,13 @@ booking.com
 <div class="tg-post" id="msg-910">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.46K · <a href="https://t.me/mohsentavoosiseo/910" target="_blank">📅 14:53 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.47K · <a href="https://t.me/mohsentavoosiseo/910" target="_blank">📅 14:53 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-909">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.34K · <a href="https://t.me/mohsentavoosiseo/909" target="_blank">📅 14:43 · 29 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.35K · <a href="https://t.me/mohsentavoosiseo/909" target="_blank">📅 14:43 · 29 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-908">
@@ -491,7 +491,7 @@ booking.com
 ✅️
 همه اینا هست. فقط شرکت با شرکت، فرق داره. سایت با سایت فرق داره‌. هرچقدر بزرگ تر باشن شرکت ها، مدلاشون به مدل آخر نزدیک تر میشه.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.67K · <a href="https://t.me/mohsentavoosiseo/906" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 2.68K · <a href="https://t.me/mohsentavoosiseo/906" target="_blank">📅 22:50 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-903">
@@ -542,7 +542,7 @@ https://t.me/mohsentavoosiseo/511
 <div class="tg-post" id="msg-897">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">این همون ویدیو بالاست برای کسانی که اینستا ندارند(کار خوبی می کنند برای تمرکزشون)  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 3.44K · <a href="https://t.me/mohsentavoosiseo/897" target="_blank">📅 15:40 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 3.45K · <a href="https://t.me/mohsentavoosiseo/897" target="_blank">📅 15:40 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-896">
@@ -872,13 +872,13 @@ Claude Cowork
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hD7FeFbyL5Sm7zmZoQQAxvJNpRC4YfA9Jlf3Zbj9i07dh75ICpSijCUPLAtuuQo2hQVwh9oKdIePAqu2ABIapPYiXcxf_Wky7RFTE3goERW25eRRqg_ImsYc85XQJ8FZ7xVnJlICdE_5fZCFQe4xdWipE7FQRMGhpkfH_1E6WlCyFV-PvHmWS_1kDTtOvXFlpjZTXouFdhzwJwKVen-do5691iSYOy3sk8OBxQwCnH2pqRROnXivs7doPhYsb8FyuI4X7ZZh44nCrz-fl6SjwQJ0ZRwNcBJmr8kT2J-rj5ujzIppH874L6YqS4loNUIjZ-UWTwES9I-xq2fNrVQw-A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خیلی مهم و جالب درباره گزارش نویسی و عملکرد و نقد کار خود، در ویس پایین.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/mohsentavoosiseo/875" target="_blank">📅 13:30 · 07 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-873">
 <div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/qO4A8-YP2OsMEXm3Or2-6nAGBpMXuBcHVdwOsSZ3ZvXmcVdgz4RgR0ltr3ssW7tFy8BYkvnDZRhJC9RK4io28YNx0_2H6QMfqMQ9dPHLYvQzvfqnkkpdO9AR16iY-5DHsaXj4tEJN7UmS74ZELkK4mHoXo39rKxUgt8VUibJzUsGkSAAE4pDxTRJ-VqVe82YhgkbuyeLQB4Oz1U9pgtjb8wkPxSsbn28pp_RNdISXQAvD94hQXjdT7Ryl-A8u5aqdZQDo6ADhpQ2c9AiXE34PVvTtn4yIP5qJX-EKqUoiwJG8qMXsTiBqxMFqKbJPneknuI7czl1im_mhwY7D2ANmg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/TFXyjn6jQ1nfekhhX9s1zBxwvI5CYEiOwyCB-ZLuKhKybq1wJzd_V1-1psg8oDlUAMFdYkgB6hHn-XiAJV9xrHybeTS9MdpsPOjqCuPiDA_Y5E3fetn5FgdMxEs_d5h127GWR4zh1mj7z1jsSmn93TRDmtpvNFwEH1u29C1PZJeDPum_0nXL42V4xy3ByfdaqLYnxWn44mI5-0G4G2Em6tKaOYGsDJxlJm7ePwUe0Sv84XcCoDPQg-2wv0aItYYUhEhqJq2tRirLlFl_1Coorbjsomg_JDl2vfit42UnnP4dXpdjOfoO0hXZ8GUkXQ5j4LAdfF10k3nxDZMZTisLpg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/b0RWbdVr4y6TFm3NylrOwipodGbD8PhzaZf_y1QkBJHWWV3p3XWSsOCwNmZIJ0ZetsBtDYNZp67hKWwmH5uCLVF41rD4fy-2b31gqQnZ9Vf0sfnrkX4CST8xrc5KjE-eJP_cfWv-dN1DhmQuQ6_glFJav2Yk83QQx8-xvxSEj0uBRkAviYmIFebfTh3fg3R7_CkEO9nFADgEx9B9PQfTrsBBxK_n19yu8DyEJyUZlBEDeXyGbsT65jmKfp-lCNdN_98Uz-2u9lDPFjVWjKcUCrlmujcf29NFo7tqma9FQNK4QcHNlncz8oxp8zrT7x9ab1Tioqz3vyp5IEODHPWa7w.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">تصویر چهارستونه(گرونتر) برای ابزار keyword tool هست و تصویر سه ستونه(ارزون تر) برای ابزار Mangools که ایرانی ها به KWFinder میشناسنش.

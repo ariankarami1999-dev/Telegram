@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-05 03:22:42</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-05 09:25:37</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -326,8 +326,8 @@ z.ai
 <div class="tg-post" id="msg-948">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/gk0QpIXb2Ww7zpQ9r_FK2zMNF78ZadYpYLuRF0SO0Z0_oqo6gp05jAau0dW3LLYzl-xeiFkcGABLnXzGtK6GIHnUF6810h7Bl8EBQJkMLDwbfS_1v8AxQ0L7aAVMmCbLon4TX-HlLgT7Ux0f55-oeFuZPsOEfrOd_McKXPFT2Vn4HzZU-SIWfM1JmWsu_0vbDnHz7lv2-VS6d5H-eMBmVjeZkBd0VTLiaRv8VBAnuOHDPcIrsayP_xZZvsJKesTkCYjUXPAklVIjnLs7OBSofEVwj9QuPZawIV13CwOncZRzDYK86PbFkuUTmmWoQlqAkfQb-bAoVRjp2LEKIR_1ZQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/G7m7YT2NKtIa0o39l1TOwFGU33ds6nM_4uZae1e0KQGgWPawgxNLWWLFuGtyYcMNZfUy6lZtdL4bBPctYTzli6LBFXGiq-kRQi8t2eUQ-wig-KZuAfZP-FSa-sfUttCivAscZn3tUnRyWsMNDjADRlwB-9er7UZ6BiJpdAyCOgCdEnCF0LBL6g_W0YAEYIvVsWGhTQM6RMR7eSetE145IrxfrS27KYGK2kpLU4R7bD_0hLyltZ7NMOVGR_LVuTyoBRPmUqIzGCQf0_LskMJc7Igl9ofZWs2WiwplQbLlevjQfc4Ee66S4bMPVYkq10FpcF7AEs0TD1oNrhtib5FHLA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/t7iWt3pA3uygxwh-LpIJ0QWwWonIyL7Umw-9uRbOObm4NWA_OWWF2uKqz_nhJR4sIb6sW8NCby-P0FAt0oYamLrNyUqFpIylVoMQosHhq3hqu-O5UhrW08Mc2rAsH2NynofigQLLNvkInwcwecnjtSU4g0dhuinXdY3WC6mT0CBqQaFTyL61F7oy8V9FNzVLglEewjmEB30JPAeZEUPvULCwzliFzw254dzPXsOh4PvrWZmD1DMXcmDaT8g1pILJsT3xukhwvguzuSXYoHjzrf8PWhdxlpzzepMWjW_3dCGsL7QeCa_PJqcc9i_IEyVOJrOdvIl5oJKdAiOtDK-C_Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/vrvd8Wt-C0lJ3uSDyMQq4wLFW1ggjkkuUorbnCn8DPbIeka4_-7n34xuSgDk7DFWriqKL9AMYUvtFqmtxP-MIJoJrnk1Rtn0WoZ-zqo8ZhbKmS3Cxupb2x8U8ZY8Y5TYftAX-XgLPaqkptMedFZ_jIF4w3qHG1ioPkdibEfmy94vUwunirZczjnPXCG3j4jvLqbQ08DKx6qh8JA9K_ePEcxSuHYgKVnAKMMds_dwaYXqYJg3JDsaCvlD5FC_efpLYmGlidb4OymGa8gK5Sga6sTu1UqgeNo7H0QX9KNjz8yHNMHYqUnRdcwgBEqETWcN2IeB5kh-MDNzGz4fAX-urA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">😒
 کلاد ایمیل میزنه به اون اکانتی که بن کرده که بیا fable5 استفاده کن.
@@ -339,7 +339,7 @@ z.ai
 
 <div class="tg-post" id="msg-947">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K0W4rw4UIr7AgW60-x365krvpW-vudbrkqU5gO-nSIjOs0TFtyuS6ksem6bsj0WGVbfhZv2HYhj92vas5LpUFuBqgso0jqVixTiZ7uxrDaZ4dLDzKrp8--1diyWHlXuu3zrQxkh8fWLJdo7YlcS3dmUJ3W1AAuxpWGwRGBt8PHyqYLeUJ87OVXliePUqkNT2dhKpZtPry0NjzF2ZXB_oyEoCp1UO_OqrNML2WNfyrpOe-ZKaL072Rd-E-Cru140I-aPCAdw9WXhfKGz8uezmVx2uI2VyQRF6uPKteABPD2Did2Vo05TPnpoEsaU36FbPsx-f6g3bbUfd1MM5j_heyA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qFuvd7YkXcm3W3fvSxwbeRc5-bWXLY51DPjXJL-hRDu1A1EdF5_sy1WYsijqyz9_ysVtBS3dpxNyMiujr4nALGHlb_TmnMKexyrD3rKS6MJ9L1IxCqIct6_uwMLANgxMft2h7fIo6YfR5HTLOreFQip1TQPnE94PKaYzZE3-LbfigqxYgVHij3vQkh8u0yAqc1Eloy4yOy88M_0AHC_kwOELZAuZqMQHRCbxpkYPrRJZr4dQGgiMs_69B7B2smyxzx5gXzbpGgckdT-E4_0s7hqbjn1Dtp80W4xffNND0hPmOYJvN8AWjCdRlNGJi0rkWv_NgYWCZOZPZw7UUryqDA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 علی‌بابا هم اعلام کرد که مدل Qwen 3.8 با 2.4 تریلیون پارامتر و به صورت open weight به زودی منتشر میشه و در حد و اندازه های مدل های سطح بالا بعد از fable5 هست.
 خواهیم دید
@@ -1511,7 +1511,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-867">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/i4CmUptcnvdKPL5hzVGDsBKjfuFWAP9uSOQ3zQPCVpvr7E5xlBeMVWMnRD-EHA0bY5o7larJD4I2lBBCxrV2y4DeTmMWxSQCp3xcmIvloRHuaDZ6jApzcd3wctsSGEQ0cmkMhqu5Kay5p0Iuh0nN6B6DeflssU062t1bOrHeVJuHptIbj_6VuZTe5NKLIxUugEu1HIrESaqlmNWq4Wt-ykx3AQ_YEN-sBhSl9KeyevqKUZybl5tTQTLB5I4FuR2-WPaUyM-8DS5AFv1hHaITdn5Yrlhruz3doCujn5gLUUaFaj8XtcaYWEZfz0MM2kqptFQdRZ3rc17cE8CCs7kRDQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LU-eQay0_a_OAqatW_Qv9lIkKFFTlR0FFtpURVD7sFEXYV9Q6hlylbDMvB-LG6UIbuVnSuGjZv9D_Qf1uSGzvmpyXj3a6Ck7OAQyQ86fObb2GTQwx-qrtSdfRjd9JonXjTISgPyKpFpOgGmPq0rffWKwWZ7OmSNESgwMZ21pLAwKsIybEwleK8SAgTYC05zsblUAuwXgp40b68AIwBoYMSUg723VnUIj4vxpY4CyBrTjFcrKLriTZ2SsAAV2tT5kGWTtGyHVy1fVD5CmO7qVQmrG1SfG-3djb1XuFd4bQArd1odewqQHG3qhdc-NvnZtLSdCIUDqlFptBI3NupX5Ng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل مستندات Google-Extended را آپدیت کرد: کنترل بیشتر روی داده‌های آموزش AI!
 🌐
