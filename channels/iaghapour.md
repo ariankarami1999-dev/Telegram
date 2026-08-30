@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-09 00:47:45</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-09 03:08:39</div>
 <hr>
 
 <div class="tg-post" id="msg-2946">
@@ -324,7 +324,7 @@ ChatGPT Plus از 799.000 تومان
 خرید از تلگرام ژیمون پلاس
 🔎
 خرید از سایت ژیمون پلاس</div>
-<div class="tg-footer">👁️ 3.88K · <a href="https://t.me/iaghapour/2946" target="_blank">📅 21:01 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.34K · <a href="https://t.me/iaghapour/2946" target="_blank">📅 21:01 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2945">
@@ -352,7 +352,7 @@ ChatGPT Plus از 799.000 تومان
 به دلیل حمایت بسیار زیاد شما حتماً در ویدیو بعدی باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 4.3K · <a href="https://t.me/iaghapour/2945" target="_blank">📅 20:01 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/iaghapour/2945" target="_blank">📅 20:01 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2944">
@@ -379,7 +379,7 @@ GTA 6
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/iaghapour/2944" target="_blank">📅 19:29 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/iaghapour/2944" target="_blank">📅 19:29 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2943">
@@ -414,7 +414,7 @@ Wintun
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/iaghapour/2943" target="_blank">📅 18:54 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.15K · <a href="https://t.me/iaghapour/2943" target="_blank">📅 18:54 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2942">
@@ -449,7 +449,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.41K · <a href="https://t.me/iaghapour/2942" target="_blank">📅 18:09 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.63K · <a href="https://t.me/iaghapour/2942" target="_blank">📅 18:09 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2941">
@@ -480,7 +480,7 @@ Arena AI
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.44K · <a href="https://t.me/iaghapour/2941" target="_blank">📅 16:09 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.62K · <a href="https://t.me/iaghapour/2941" target="_blank">📅 16:09 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2940">
@@ -504,7 +504,7 @@ YouTube</div>
 برای سفارش وارد ربات بشید:
 ⏺
 @yoozseenfabot</div>
-<div class="tg-footer">👁️ 7.68K · <a href="https://t.me/iaghapour/2940" target="_blank">📅 21:16 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.76K · <a href="https://t.me/iaghapour/2940" target="_blank">📅 21:16 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2938">
@@ -537,7 +537,7 @@ RTX 5070 Ti
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.86K · <a href="https://t.me/iaghapour/2938" target="_blank">📅 20:50 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.93K · <a href="https://t.me/iaghapour/2938" target="_blank">📅 20:50 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2937">
@@ -565,7 +565,7 @@ Duolingo English Test
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.52K · <a href="https://t.me/iaghapour/2937" target="_blank">📅 18:10 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.57K · <a href="https://t.me/iaghapour/2937" target="_blank">📅 18:10 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2936">
@@ -607,7 +607,7 @@ x-ui-reseller-panel
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.82K · <a href="https://t.me/iaghapour/2936" target="_blank">📅 14:14 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.86K · <a href="https://t.me/iaghapour/2936" target="_blank">📅 14:14 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2934">
@@ -637,7 +637,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.88K · <a href="https://t.me/iaghapour/2934" target="_blank">📅 18:50 · 06 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.9K · <a href="https://t.me/iaghapour/2934" target="_blank">📅 18:50 · 06 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2933">
@@ -692,7 +692,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.63K · <a href="https://t.me/iaghapour/2931" target="_blank">📅 20:56 · 05 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.68K · <a href="https://t.me/iaghapour/2931" target="_blank">📅 20:56 · 05 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2930">
@@ -722,7 +722,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.42K · <a href="https://t.me/iaghapour/2930" target="_blank">📅 20:35 · 05 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.46K · <a href="https://t.me/iaghapour/2930" target="_blank">📅 20:35 · 05 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2929">
@@ -784,7 +784,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2927" target="_blank">📅 20:34 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/iaghapour/2927" target="_blank">📅 20:34 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2926">
@@ -797,7 +797,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/2926" target="_blank">📅 18:01 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/iaghapour/2926" target="_blank">📅 18:01 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2925">
@@ -824,7 +824,7 @@ Bot API 10.3
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/iaghapour/2925" target="_blank">📅 16:01 · 04 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/iaghapour/2925" target="_blank">📅 16:01 · 04 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2923">
@@ -863,7 +863,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/iaghapour/2923" target="_blank">📅 20:31 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/iaghapour/2923" target="_blank">📅 20:31 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2922">
@@ -871,7 +871,7 @@ YouTube</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fvai0LL96pG7dQtyKl7_EneVJUgoW6L1sUxd_cTLMJi0M1VRK5GsajJfJpsjr_D9kNYjFaYuabDbMg0bgCWPO5ckk1hglXlHUwNbiLNxVpITUecdXEdd7BlXa8WGhqyWkw6iFG7qdRx9ZERVwa1K1GY2mOZgndE9AAci2PslZhbaZAfQo6lU7CddVMTNWMnNLs-5tUKuvE0fGnvMmwniv-TUX2_bjIJ3Xc48S7d_ZqEvLPjROzx6ru6KPQdNgd6BDpb6rQ1fbYHcxYtbMM_nqYORdOZAdftLdRX3KJG1G7PKsG3JrmMXWPKRX79LUZsBtIrGw0QxRn-N3c4iHz3gxA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔹
 اگه سوال مالی داشتید میتونید از آرش بپرسید بچه ها :)</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/iaghapour/2922" target="_blank">📅 19:20 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.4K · <a href="https://t.me/iaghapour/2922" target="_blank">📅 19:20 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2921">
@@ -917,7 +917,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2920" target="_blank">📅 18:25 · 02 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/iaghapour/2920" target="_blank">📅 18:25 · 02 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2919">
@@ -1119,7 +1119,7 @@ aleskxyz
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/iaghapour/2912" target="_blank">📅 20:40 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2911">
@@ -1290,7 +1290,7 @@ cpuid.com
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13K · <a href="https://t.me/iaghapour/2910" target="_blank">📅 18:31 · 31 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2908">
@@ -1321,7 +1321,7 @@ YouTube</div>
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2907">
