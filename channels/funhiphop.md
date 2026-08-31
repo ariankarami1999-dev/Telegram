@@ -286,13 +286,13 @@
 <div class="tg-channel-box">
 
 <div class="tg-channel-header">
-<img src="https://cdn4.telesco.pe/file/sR-SzQqCtzYcj71W3SzNITm0nLbuOq-mShKevBrRCzdvWqqd9lBeMjGp2gSZTpmD8oEdFduwm4XOH7rWZScC-5bagJFBQcJmda7QtlDuIgPBSrU6BKMQS94IqJiy1duOfR4gk-2E6ps4X7RYJ8B6awimcAY3l1w5HpK2sEZFXf6hImzuxmv2-y2ElbAvHSBu5I1J4gOfdcxGlu8QCE_NVP5iAG6O9drlUA0aytDLFh-Ys6HwYhLciK-KKraWqBVx_JxucONUFIjGwwWhr6tkZ23bdvzzWLqM4fh7rgz_IHCpDv93WYAiVWNb8aOdhCqNYf66h2t5jcXuOBOfobf87A.jpg" class="tg-avatar" alt="avatar"/>
+<img src="https://cdn4.telesco.pe/file/hNLGEfkYAIft0sprftCY36QWMue18M7-zFhrDbOfv7InDcbFrLkjWKQoH554HxGBJRloB4aLEAstKShUah6aC7V4nXIWgvJMFbDiKrYfsivh-3Rr1rUScMZml5lXIlfpHTW_6JIG6sNNabnWQcm0FJ7WmtQOYmbBCzO0LTJwoHfLD4Hpr5TazZ8xRwsTzJioLhICC7JJwizzJ37x6tNKUBpkL6N8_R_Ka78RZZDO380UHnJw1tLV96Nt53gXF7AM8orzt6MXpSjL60whzQGpQLbQjMm_8R3mleRyV13Rg_uzrvHFGmSvWt6koT-kZ6onZGN3ohJhthp5gzPau2aSDQ.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 [ Fun HipHop ]</h1>
 <p>@funhiphop • 👥 224K عضو</p>
 <a href="https://t.me/funhiphop" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 «قدیمی ترین اجتماع فانِ هیپ هاپی»🟡صاحب سبک🟡Tb :@FunHipHopAdsContact :@Chaman_Dar_KhakFollowing Copyright Laws©</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-09 03:08:39</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-09 06:01:38</div>
 <hr>
 
 <div class="tg-post" id="msg-82807">
@@ -300,13 +300,13 @@
 <div class="tg-text">دلار ۲۱۱
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 4.94K · <a href="https://t.me/funhiphop/82807" target="_blank">📅 01:22 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.93K · <a href="https://t.me/funhiphop/82807" target="_blank">📅 01:22 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82806">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">مجید بیدار شد داره از خرم آباد موشک میزنه  @FuunHipHop | FaRib</div>
-<div class="tg-footer">👁️ 6.28K · <a href="https://t.me/funhiphop/82806" target="_blank">📅 00:58 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.12K · <a href="https://t.me/funhiphop/82806" target="_blank">📅 00:58 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82804">
@@ -314,7 +314,7 @@
 <div class="tg-text">مجید بیدار شد داره از خرم آباد موشک میزنه
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 7.22K · <a href="https://t.me/funhiphop/82804" target="_blank">📅 00:55 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.04K · <a href="https://t.me/funhiphop/82804" target="_blank">📅 00:55 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82803">
@@ -323,7 +323,7 @@
 ترامپ توئیت میزنه میگه قرار بود با اسرائیل یه حمله بی سابقه کنیم ولی دقیقه ۹۰ جلوی حمله رو گرفتم و ترجیح دادم مذاکره کنیم
 @FuunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 8.9K · <a href="https://t.me/funhiphop/82803" target="_blank">📅 00:48 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.69K · <a href="https://t.me/funhiphop/82803" target="_blank">📅 00:48 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82802">
@@ -331,7 +331,7 @@
 <div class="tg-text">مجددا صدای تحویل ذرت و جو آمریکایی در لارک
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 9.43K · <a href="https://t.me/funhiphop/82802" target="_blank">📅 00:35 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/funhiphop/82802" target="_blank">📅 00:35 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82801">
@@ -341,7 +341,7 @@
 این آخرین هشدار ما به تمامی کشورهای درگیر است. اگر دوباره دست به اقدام خصمانه علیه همدیگر بزنید به صورت شدید ترین حالت ممکن نگران خواهیم شد.
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/funhiphop/82801" target="_blank">📅 00:22 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/82801" target="_blank">📅 00:22 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82800">
@@ -349,7 +349,7 @@
 <div class="tg-text">اونایی که میدونن امشبم جنگ نمیشه ولی الکی وانمود میکنن جنگ میشه.
 @FunHipHop
 | Arash</div>
-<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/82800" target="_blank">📅 23:58 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/82800" target="_blank">📅 23:58 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82799">
@@ -357,7 +357,7 @@
 <div class="tg-text">تسنیم: حمله آمریکا به لارک ۲ کشته و ۲ زخمی داشته
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/funhiphop/82799" target="_blank">📅 23:31 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/82799" target="_blank">📅 23:31 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82798">
@@ -365,7 +365,7 @@
 <div class="tg-text">پرتابگرهای موشک کروز ضدکشتی سپاه پاسداران انقلاب اسلامی در لارک هدف قرار گرفتند.
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/82798" target="_blank">📅 22:59 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/82798" target="_blank">📅 22:59 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82797">
@@ -373,7 +373,7 @@
 <div class="tg-text">آمریکا پایگاه سپاه جزیره لارکو زده
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.9K · <a href="https://t.me/funhiphop/82797" target="_blank">📅 22:51 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.2K · <a href="https://t.me/funhiphop/82797" target="_blank">📅 22:51 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82796">
@@ -383,7 +383,7 @@
 بعد پاشده زنگ زده به زندان و صداشو ریکورد کرده گذاشته چنل.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/82796" target="_blank">📅 22:41 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/82796" target="_blank">📅 22:41 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82794">
@@ -392,14 +392,14 @@
 آخرش به دلار ۲۰۶ تومنی رسیدیم
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/82794" target="_blank">📅 21:32 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/funhiphop/82794" target="_blank">📅 21:32 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82793">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/D_2hjOrP_jxlcRLl_2tuP1i_pdlBR6w9e53_GWWiKwx4DOR81bv9i5Src8sc66XC70d34zYvL5upLKLyy14TzfWxlfN5UXGNsD_XfY7xd7r2zyXube66uy5p848YScqpc2BSBCdK5zj4RtJt1AYqziicqzRlnOwn-kI4ha2YzAkZRbK1SSU46v1D81hbGyIHgm9GARmokAci63snBYJnrPMjhkwZWCqTjpdJiyPatpkx59d7ceFaVE21tHMAwa1eakkgrhn_SU00SEq9SrSF5lxPB0TufUZxJMOsUTlS7PVSqHFE9htVzt3bDrx9uMQSh3jj1jBlglHx0AfAXsI-vQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">حافظه تاریخی چرا نمیرسه به قسمت تجاوزا محسن نامجو، بابا خیلی عقبیم بدو.  @Funhiphop | Menot</div>
-<div class="tg-footer">👁️ 13K · <a href="https://t.me/funhiphop/82793" target="_blank">📅 21:21 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/funhiphop/82793" target="_blank">📅 21:21 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82792">
@@ -412,7 +412,7 @@
 </div>
 <a href="https://t.me/funhiphop/82792" class="tg-doc-link" target="_blank">دانلود</a>
 </div>
-<div class="tg-footer">👁️ 11.9K · <a href="https://t.me/funhiphop/82792" target="_blank">📅 21:12 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/funhiphop/82792" target="_blank">📅 21:12 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82791">
@@ -421,13 +421,13 @@
 <div class="tg-text">آهنگ جدید دانیال مقدم به نام غریبم باهات
 از آلبوم خط مقدم منتشر شد
 https://t.me/danialmoghadam3</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/funhiphop/82791" target="_blank">📅 21:12 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/funhiphop/82791" target="_blank">📅 21:12 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82790">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">الان می‌تونم به جفری اپستین برا خودکشیش حق بدم.   @FunHipHop | Nima</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/82790" target="_blank">📅 20:48 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/funhiphop/82790" target="_blank">📅 20:48 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82789">
@@ -442,7 +442,7 @@ https://t.me/danialmoghadam3</div>
 <div class="tg-text">الان می‌تونم به جفری اپستین برا خودکشیش حق بدم.
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/82789" target="_blank">📅 20:40 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/82789" target="_blank">📅 20:40 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82788">
@@ -458,7 +458,7 @@ https://t.me/danialmoghadam3</div>
 من بارها از ترامپ و دولت او خواسته ام که به معترضان سلاح بدهند، تا مردم ایران بتوانند با کمک سلاح، کردها را مسلح کنند و اجازه دهند معترضان این رژیم را از قدرت برکنار کنند.
 هدف این نیست که سربازان آمریکایی وارد عمل شوند، بلکه هدف این است که مردم ایران این کار را انجام دهند.
 تصمیم‌گیری درباره اینکه چه کسی در دولت ایران باشد، از وظایف ما نیست، اما وظیفه ما این است که بگوییم دولت ایران نباید توسط یک حاکم مذهبی افراطی اداره شود که از آمریکا متنفر است و تلاش می‌کند آمریکایی‌ها را به قتل برساند.</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/funhiphop/82788" target="_blank">📅 20:36 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/funhiphop/82788" target="_blank">📅 20:36 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82787">
@@ -466,14 +466,14 @@ https://t.me/danialmoghadam3</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/wBaGpYgNYbzloYa2rEzmIuosj7HMVatB_ezy16LapJUiO3kpVQPK-7rTXC3gM5_0nZuzJoGi3aQORvZRbkMwPwL679JCCuq6LBKCv46kBHSIOIIACcn8O84Ghoa7AfnlNMLcYbzIWSTHdcDLqoGTAp1B1a7DgRDVj7yoj88LS4udC6DeN3HygmunAo3hMhigUnr7LYSrRCvW5RWmZW2wup07mmevFYxukjfffG0gn8-TQ-NKCGA3c1Tnw9geW3akYgT6r3RV2iP6QXOGkn27MIvQDvRBrIjJQAllEVC7HNKpjVndTEgszYwlgFX1WKqxs186GTObsBa-3nW8i8HHJg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">@Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/funhiphop/82787" target="_blank">📅 20:14 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/funhiphop/82787" target="_blank">📅 20:14 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82786">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iKavJN3fDuKr5jG13Rf62VCs6edx4HKvyvDhj61mUVpioCFy7jSJDij9UWUjJ0jYj5Zn6UyGzhC5sUVWvPzEJQhgQh4I09pZKlEdk8Aa13Zt0KfsiHk8ZW4-Jm1WfvU-YjA9kbEARFUUl12t_w5abh0UYNx7US1MW6bTjouxudCGXFdjR-n7Ic00UZTJCmPt6v7NKSSu1bWhUapNk797n2sSkz6UZY2Ktfhjg2FCi4MIfZ5-aUECJ82yiti7eoMmrKuQH8oCcPJNGp6ZQS2CGBqL3g31cJI4Y4SnwKkyP_18e6cH21V2N27pSkIpPYflbUyTGFpamsgH8lYGaMEBTA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">زن‌نامجو: به بهانه بقالی رفت بیرون ۶ روز گم شد بعد دیدم با چمدون من ایرانه  مشتی حداقل الکی میگفتی میخوام برم مسافرت  @FunHipHop | چمن در خاک</div>
-<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/funhiphop/82786" target="_blank">📅 20:02 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/funhiphop/82786" target="_blank">📅 20:02 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82784">
@@ -485,7 +485,7 @@ https://t.me/danialmoghadam3</div>
 <div class="tg-text">انتظارشون اینه مردم فتوسنتز بکنن
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/funhiphop/82784" target="_blank">📅 19:46 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/funhiphop/82784" target="_blank">📅 19:46 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82783">
@@ -494,7 +494,7 @@ https://t.me/danialmoghadam3</div>
 <div class="tg-text">فرگوسن فک کنم تهش تو همون الترافورد بیفته بمیره.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/82783" target="_blank">📅 19:29 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/funhiphop/82783" target="_blank">📅 19:29 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82781">
@@ -506,13 +506,13 @@ https://t.me/danialmoghadam3</div>
 <div class="tg-text">حاجی انگار نه انگار که یه مملکتو بگا داده و الانم تو یکی از امنیتی ترین زندانای آمریکاس
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/funhiphop/82781" target="_blank">📅 19:19 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/funhiphop/82781" target="_blank">📅 19:19 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82778">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">کی میخواد این فصل جلوی رئالو بگیره</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/funhiphop/82778" target="_blank">📅 19:05 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/82778" target="_blank">📅 19:05 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82775">
@@ -521,7 +521,7 @@ https://t.me/danialmoghadam3</div>
 اولین تاثیرو روی رپرا گذاشت، همشون دارن بلاگر میشن
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/funhiphop/82775" target="_blank">📅 18:25 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/funhiphop/82775" target="_blank">📅 18:25 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82774">
@@ -530,7 +530,7 @@ https://t.me/danialmoghadam3</div>
 <div class="tg-text">ژابی بال و این حرفا
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/funhiphop/82774" target="_blank">📅 18:11 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.8K · <a href="https://t.me/funhiphop/82774" target="_blank">📅 18:11 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82773">
@@ -539,7 +539,7 @@ https://t.me/danialmoghadam3</div>
 <div class="tg-text">احتمال داره انجام آزمون تافل برای ایرانی ها متوقف بشه
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 10.8K · <a href="https://t.me/funhiphop/82773" target="_blank">📅 18:06 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/funhiphop/82773" target="_blank">📅 18:06 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82772">
@@ -565,7 +565,7 @@ BetForward.com
 g8
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/funhiphop/82772" target="_blank">📅 18:06 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/funhiphop/82772" target="_blank">📅 18:06 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82771">
@@ -573,19 +573,19 @@ g8
 <div class="tg-text">بیگ شگی بود خودش ویدیو میگرفت میگفت بیا پستش میکرد، کپشن میزد پول رپ پارت ۷۲۷۱۸
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/funhiphop/82771" target="_blank">📅 17:46 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/funhiphop/82771" target="_blank">📅 17:46 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82770">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">شاهی به این دختره شماره داده بعد بهش همون روز گفته بیا خونمون  @FuunHipHop | FaRib</div>
-<div class="tg-footer">👁️ 12K · <a href="https://t.me/funhiphop/82770" target="_blank">📅 17:42 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.2K · <a href="https://t.me/funhiphop/82770" target="_blank">📅 17:42 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82769">
 <div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-text">حاجی چرا خودش ۵۰ دوستاش ۱۵</div>
-<div class="tg-footer">👁️ 12.6K · <a href="https://t.me/funhiphop/82769" target="_blank">📅 17:38 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/82769" target="_blank">📅 17:38 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82768">
@@ -593,13 +593,13 @@ g8
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromAri</strong></div>
 <div class="tg-text">منو ب چشم بیزینسی های کنار خیابون میبینی؟
 ۵۰ بزن بیام</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/82768" target="_blank">📅 17:37 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/82768" target="_blank">📅 17:37 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82767">
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">شاهی به این دختره شماره داده بعد بهش همون روز گفته بیا خونمون  @FuunHipHop | FaRib</div>
-<div class="tg-footer">👁️ 13.1K · <a href="https://t.me/funhiphop/82767" target="_blank">📅 17:32 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/funhiphop/82767" target="_blank">📅 17:32 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82766">
@@ -614,7 +614,7 @@ g8
 <div class="tg-text">شاهی به این دختره شماره داده بعد بهش همون روز گفته بیا خونمون
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/funhiphop/82766" target="_blank">📅 17:31 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/funhiphop/82766" target="_blank">📅 17:31 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82764">
@@ -629,7 +629,7 @@ g8
 <div class="tg-text">آقا محمود زد به ناموست
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/82764" target="_blank">📅 17:01 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/82764" target="_blank">📅 17:01 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82763">
@@ -638,19 +638,19 @@ g8
 بماند به یادگار
 @FunHipHop
 | Farid</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/funhiphop/82763" target="_blank">📅 16:35 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/funhiphop/82763" target="_blank">📅 16:35 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82762">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">بارسا نگو بگو سطل اشغالی سیتی</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/82762" target="_blank">📅 16:32 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/funhiphop/82762" target="_blank">📅 16:32 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82761">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">الوارز میخواستی بارسایی؟  @FunHipHop | Taymaz</div>
-<div class="tg-footer">👁️ 14K · <a href="https://t.me/funhiphop/82761" target="_blank">📅 16:31 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.1K · <a href="https://t.me/funhiphop/82761" target="_blank">📅 16:31 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82760">
@@ -659,7 +659,7 @@ g8
 <div class="tg-text">الوارز میخواستی بارسایی؟
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/funhiphop/82760" target="_blank">📅 16:21 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.7K · <a href="https://t.me/funhiphop/82760" target="_blank">📅 16:21 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82759">
@@ -668,7 +668,7 @@ g8
 <div class="tg-text">ته خنده ای مادرکسه
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/funhiphop/82759" target="_blank">📅 16:11 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/funhiphop/82759" target="_blank">📅 16:11 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82758">
@@ -684,7 +684,7 @@ g8
 حالا عادی ترین محتوایی که خلسه تو یوتوب میزاره:
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/funhiphop/82758" target="_blank">📅 15:36 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/funhiphop/82758" target="_blank">📅 15:36 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82757">
@@ -701,7 +701,7 @@ g8
 <div class="tg-text">نوریا ادرویت.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/82756" target="_blank">📅 14:05 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/82756" target="_blank">📅 14:05 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82755">
@@ -710,7 +710,7 @@ g8
 کاملا خودجوش مهران مدیری و نویسنده هاش تصمیم گرفتن اینو بنویسن.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/82755" target="_blank">📅 13:53 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.2K · <a href="https://t.me/funhiphop/82755" target="_blank">📅 13:53 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82754">
@@ -720,7 +720,7 @@ g8
 بر اساس این گزارش، ترانه رحیمی، نوید الیاسی، ابوالفضل دادگستر، مهدی منصوری، احمدرضا سعیدی، مهرداد بوئری، محمدمهدی اسدی، آرمین غلامی، پارسا جعفری و مهدی جعفری معروف به مهدی خسروی، به اعدام محکوم شدند.
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/funhiphop/82754" target="_blank">📅 13:18 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/82754" target="_blank">📅 13:18 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82751">
@@ -736,7 +736,7 @@ g8
 حتی اینجا هم داره کتک میخوره
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 15.5K · <a href="https://t.me/funhiphop/82751" target="_blank">📅 12:31 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/funhiphop/82751" target="_blank">📅 12:31 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82750">
@@ -746,7 +746,7 @@ g8
 حالا سوال اصلی که دارم اینه چرا شلوار پوری جیبای عقبش جلوشه
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/funhiphop/82750" target="_blank">📅 11:50 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/82750" target="_blank">📅 11:50 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82749">
@@ -780,7 +780,7 @@ g8
 از اون موقع هنوز ریشات در نیومده
 @FunHipHop
 | چمن در خاک</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/82747" target="_blank">📅 10:39 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/82747" target="_blank">📅 10:39 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82746">
@@ -806,12 +806,12 @@ BetForward.com
 r8
 💻
 @BetForward</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/funhiphop/82746" target="_blank">📅 10:39 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/funhiphop/82746" target="_blank">📅 10:39 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82745">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/DSHMeHJOpk4M01QA6y03nxX_fLhpoS1r4wpr1C6Tzck9L8YM61uspYreq1q0VnOZ0KXvxgnUxN5ZMewvfWyskL4MYFfJc6ffA9F6zhtzPHMjXtF8YmSUcLq5aVLnq06QTvRxpDwbioX_Y7DFD8RnjvD0o4VgVBtBptkda8OTp0yMC0l4T5_GUVlefw3izf5hcrEDgSZv_amYx07MiXF1vw9tWEbxuy5Pd-UAEVKni3ayzUW6crcrYkBwiTCPE7Lc6D19BvgEQ7MX60BQcQ5j-lwMhpIxTi-GdDGY7m1QzlCTr9fg1aH2sOYimMoDBC_SYPEZ6cyA41kQyuye9d2-eQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WGOCOy0vCP7iVw97b9LLh5S8h7OakkbThCMPV8Ai6ahEhKT9v_BBAwvzDz-NiYPQmGGEf6VasTCZ_zOO66ZrtDnPbmQHT5sfezIPSBeryv10Ts_v74FwY-QnzwfMJsdYCpMp1zs9FfP3kCKDO6kXqeuI2en3zn5YkSHiTqYnPonWhoMnZgheD1Ar0bDt4U9r08pJPpYtSuTIKu-mwWMlLa4g7Zl7Kli1XosjwAN-oCJwpLSJzczJ5fqy45oBIpQl2a0JXP6nzEBuQpJm35NMpeKMiSf96EYmbpm3DavBJVkZJpWL2U0ppPiWU6qo9L3nfOO55rQub3Y6vkb8aYh8BA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">@FunHipHop
 | Nima</div>
 <div class="tg-footer">👁️ 16.1K · <a href="https://t.me/funhiphop/82745" target="_blank">📅 05:05 · 08 Shahrivar 1405</a></div>
@@ -822,7 +822,7 @@ r8
 <div class="tg-text">جدیدا شات های کصلیسی بیگ شگی هم بیرون نمیاد دیگه، فک کنم دیگه دخترایی که میره دایرکتشون عشق میکنن باهاش پخش نمیکنن.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 17K · <a href="https://t.me/funhiphop/82744" target="_blank">📅 01:56 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/funhiphop/82744" target="_blank">📅 01:56 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82743">
@@ -832,7 +832,7 @@ r8
 یه یوتیوبر(aj king) میاد پیج دختر فیک میزنه با هوش مصنوعی و به نصف یوتیوبرا پیام میده همشون هم روش کراش میزنن و برای اینکه ابروشون نره کل چتا رو نشون نمیده
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/funhiphop/82743" target="_blank">📅 23:40 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/funhiphop/82743" target="_blank">📅 23:40 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82742">
@@ -862,7 +862,7 @@ r8
 <div class="tg-text">کارتون عالی بود پیشنهاد میکنم پیج تیک تاک بزنید.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/funhiphop/82741" target="_blank">📅 23:25 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/funhiphop/82741" target="_blank">📅 23:25 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82740">
@@ -871,7 +871,7 @@ r8
 <div class="tg-text">دقیقا
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/82740" target="_blank">📅 23:16 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/funhiphop/82740" target="_blank">📅 23:16 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82738">
@@ -904,7 +904,7 @@ r8
 <div class="tg-text">اکسپلور قراره قوروق بشه
 @FunHipHop
 | Taymaz</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/funhiphop/82736" target="_blank">📅 20:52 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/82736" target="_blank">📅 20:52 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82735">
@@ -922,7 +922,7 @@ r8
 <div class="tg-text">تروخدا وضعیت سلامت عقل شاه مملکتو
 @FunHipHop
 | Nima</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/funhiphop/82734" target="_blank">📅 20:02 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/funhiphop/82734" target="_blank">📅 20:02 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82732">
@@ -991,7 +991,7 @@ r8
 <div class="tg-text">میگم پویا رحمانی پتو رو پرت کنه تو کون مادرتا
 @FuunHipHop
 | FaRib</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/funhiphop/82725" target="_blank">📅 17:00 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/funhiphop/82725" target="_blank">📅 17:00 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82724">
@@ -1038,7 +1038,7 @@ r8
 <div class="tg-post" id="msg-82717">
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">@FunHipHop | Taymaz</div>
-<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/82717" target="_blank">📅 13:25 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/funhiphop/82717" target="_blank">📅 13:25 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82716">
@@ -1075,7 +1075,7 @@ r8
 چه آهنگی روش گذاشته باشه خوبه؟ پلی کنید بزارید رو ثانیه ۳۰ میفهمید.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/funhiphop/82711" target="_blank">📅 11:43 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/funhiphop/82711" target="_blank">📅 11:43 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82709">
@@ -1129,7 +1129,7 @@ r8
 <div class="tg-text">لیلی بازرگان: شاهین نجفی برای پدرم با صوت قران میخوند.
 @Funhiphop
 | Menot</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/funhiphop/82705" target="_blank">📅 00:10 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/funhiphop/82705" target="_blank">📅 00:10 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-82703">
