@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-10 22:31:47</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-11 01:22:27</div>
 <hr>
 
 <div class="tg-post" id="msg-2575">
@@ -308,7 +308,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/ircfspace/2575" target="_blank">📅 18:47 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/ircfspace/2575" target="_blank">📅 18:47 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2574">
@@ -324,7 +324,7 @@ github.com/SinaXhpm/Echoes/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/ircfspace/2574" target="_blank">📅 11:52 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/ircfspace/2574" target="_blank">📅 11:52 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2573">
@@ -340,7 +340,7 @@ PingChannel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/ircfspace/2573" target="_blank">📅 11:44 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/ircfspace/2573" target="_blank">📅 11:44 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2572">
@@ -357,7 +357,7 @@ alirazzazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/ircfspace/2572" target="_blank">📅 11:41 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/ircfspace/2572" target="_blank">📅 11:41 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2571">
@@ -372,7 +372,7 @@ alirazzazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/ircfspace/2571" target="_blank">📅 11:34 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/ircfspace/2571" target="_blank">📅 11:34 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2570">
@@ -388,7 +388,7 @@ alirazzazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15K · <a href="https://t.me/ircfspace/2570" target="_blank">📅 11:30 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.1K · <a href="https://t.me/ircfspace/2570" target="_blank">📅 11:30 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2569">
@@ -407,7 +407,7 @@ frontiertm.github.io/Pantegnos
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/ircfspace/2569" target="_blank">📅 11:20 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/ircfspace/2569" target="_blank">📅 11:20 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2568">
@@ -421,7 +421,7 @@ frontiertm.github.io/Pantegnos
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.8K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 35K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2567">
@@ -437,7 +437,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 35.9K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2566">
@@ -451,7 +451,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2565">
@@ -468,7 +468,7 @@ github.com/telegramdesktop/tproxy-server
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2564">
@@ -484,7 +484,7 @@ telelakel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 26.4K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/ircfspace/2564" target="_blank">📅 08:04 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2563">
@@ -503,7 +503,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/ircfspace/2563" target="_blank">📅 07:49 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2562">
@@ -548,7 +548,7 @@ ali__m___i
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.3K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/ircfspace/2560" target="_blank">📅 16:47 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2559">
@@ -601,7 +601,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 45.1K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 45.2K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -616,7 +616,7 @@ workers.dev
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.2K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.3K · <a href="https://t.me/ircfspace/2556" target="_blank">📅 16:41 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2555">
@@ -685,7 +685,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 39.2K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 39.3K · <a href="https://t.me/ircfspace/2551" target="_blank">📅 10:08 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2550">
@@ -777,7 +777,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.6K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -950,7 +950,7 @@ AmirMahdi
 
 <div class="tg-post" id="msg-2533">
 <div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ioIabJ4RUQULa1DxeWjRMQTU_U30Y4g0pyOv75GvrG8f2d9IZ95fbBrm5XaiWeGWMH1EEFt953hxImbtiPkEejlh6eCy-swdLcZ4junBrRllEcHUl9qV4-ZbP7GQXkgA26KByoe41fi0Ek3F8Fxzcqp6FVqqghg-oN_2f2NIyXflfpe1swG1fH0zree5iVroofIWYnUKOEzrAuDdFyh2YDkf2kz3Wl3WrEReW0zVB0ADlujAzUzivlUUFfsb7wdmUcQ7U_oeFYGL5h70Ug7z7Y1hSlnQQtR2S-qobGfLsXCI1i9xU_jxuFkiUPk1oRISF94zqhwOiJVgV9UvBmZ2Qg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/EMf6Oz8_9xkMyHjYpMNe74iTYUlKskSOcaI47IGgkmHu4LIh2OWEG4uzMVayhQ_EzLM6LDDRtmyYej8LCOUTjQX9lGpdBzHRSBczUjlfs-vjMjPY3-GGHZ9jZGuf9djzzo2vMA_T-ij8PRf2ldo_Bdf9s6Bs5yKzty2_uD9zl25sO_qAsexyYnwqHQqvlUiq9A1OTLgDZ02cLxhttQx5f2fR8Dn6y693_HcyoOE2h4ZyBmS9JcFZkw6P7VjCoAzd05CH0-50AVXfKIKdDWzomMDhcGnU3kSj73csFDA2PtNHtvjKlj_2banxtrAcujx24laXeqvmtxcBSuB-jlbUpA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جهت کنجکاوی در مورد موضوع ضریب جدید روی اینترنت بین‌الملل، ۱ گیگ دانلود کردم و توی پنل دیدم ۲ گیگ محاسبه شده!
 ©
 Farshad
@@ -1038,7 +1038,7 @@ sadroddinfallah
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 35.9K · <a href="https://t.me/ircfspace/2529" target="_blank">📅 19:11 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2528">
@@ -1156,7 +1156,7 @@ github.com/immaghzbad/AetherST/releases
 
 <div class="tg-post" id="msg-2521">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Ua3PbVIgGGyYFg6JdtiR16iu4Z5t-Ln7IP0H2BkMrpUkekpSEUHLQJAgM_JuLuGtJGEvi_AP0iOaH3OG_RY3We4wLOGOw5Gy1jYyAE93bEV51tXWEZ45m0SLE7-OoAiQhX-FvihsAAqBiJD1EYNkg-8n2HihPCnRQ1AScgGBKo0J8XLxpGI6h7VtFRvjYmT0qxvWe3H7RS53v8T5EWofgzeRZ6cYOYx2KBXOks-ixLHf9PrmoHrYx2P230YSPrYaaBe86JkYyPzkV2nsRcArjnN0yz047mBkfewRjBioAfLks_bfmXl4QirBp3Ftlznws3LUYN97qc3QG3gEZZnTGw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/uIxF8wZcGJydok7fxaDESgI2auRG5F8WWvYOPhILKZm-RqYN3OA7b6RTWtNRCyz2JE_DVNk1BnJ76FtLtMJ7-8HVB1txP7y7573GeriIsX8QrUH0305eDuW-OPct2KzTioFnsmrKNPAOFWr1onHxt5Ea9rhDL8fOfZuGNvtJnRArf4HX8qlShHJbPSYDo-3pm0bqt_l6LiGqReaJVIAbCzkfOpr-vydWCrIl8mZZ5AdcGWchJ1V_74TkfBTKq-PaDQxL-0k2JOjsIq9S-myqss4uWQRvkbZt_Z6EFHz4HpcjOVoF0gwS3Jur5vyle-KFSen9lWwXtv2yCOvZk6mb5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کسپرسکی از فعالیت تازه گروه هکری تحت حمایت حکومت ایران به نام Nimbus Manticore خبر داده، که با نام‌های Mirage Kitten، Smoke Sandstorm و UNC1549 نیز شناخته می‌شود.
 این گروه در حملات جدید خود از یک Backdoor ناشناخته ویندوزی به نام NightLedger و دو ابزار Tunnel با نام‌های BridgeHead و ArcBridge استفاده کرده، که قادر است اطلاعات‌ سیستم و شبکه را جمع‌آوری کند، فرمان اجرا کند، فایل‌ها را سرقت یا حذف کند، Processها را شناسایی کرده و از صفحه‌نمایش Screenshot بگیرد.
 بخش نگران‌کننده‌تر، ابزارهای BridgeHead و ArcBridge هستند؛ این بدافزارها سیستم آلوده را به یک Relay مخفی تبدیل می‌کنند تا مهاجم بتواند ترافیک خود را از داخل شبکه قربانی عبور دهد و به سایر سامانه‌های داخلی دسترسی پیدا کند.
@@ -1194,7 +1194,7 @@ github.com/UnboundTechCo/defyxVPN/releases
 
 <div class="tg-post" id="msg-2519">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qas_StfTNoJyoorrj0F_TMVRLSez4KOyav-fi4aRw7bvn0Y9c-3iqBTWu4ihYrvwRVJiwDgulSfubbQ-0ZN6ASTeXce1fnA6FnWx5yN2cp26dhC5SnfXlP8So0z_xmZ2Z-35uF9b1BGW-ZrpqJP8MZMgJtFSLzLtIBR7T7-AIuqe6H8VGbRKaJ8iYPji0MdnVvhmOLv3pxQ0RGODCLNP-0nan3qPxZHUd0detqSEfjQ64iVH8RK8EFoflO64PSTPyPPIPDpd72Glqtmna0HUm5zGfXjjb_n8ytX4EuwpDl-c6-LdA6J9m1niF-oc8fxYVKFMbIfi6XJOhzhqy9gWvw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/f0jC0bBNWyMx9HvmWFiuCdJUBXSLHOGKWjiA4vynK1LgvUlX70fJvoqIFovUH2l_47M_D677qEVHx5ruwutzi6gMexE_NbvWqbW4NSg2gjj87IY0b8Keok3R9M-OzztPeTFFObCcw-espgX7e5YjRc1qQVnpzUXMn8J1WnlPYL2CTaVbhm5knxnJeqfZNCG-lh9dYXzeU4PqxX5YJw7mkcTLARMqMjVWOnsbNkHR1-cUd6AR0UDevJDP3TjGvaT0E0LkJ6Hn7UosZX_cmKIcaAHVzB9YuqEs6_JSs8uMkRJkrJ_UFMFYpL-KGpvPrwf3rlBswKPSNoCEbW39oNcIGw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ
 #Aether
 یک فیلترشکن متن‌باز و رایگان بر پایه هسته Aether هست، که برای اندروید (AetherMobile) و ویندوز (AetherDesktop) ارائه شده و از پروتکل‌های مسک، وایرگارد و گول و حالت‌های اسکن مختلف پشتیبانی می‌کنه.
@@ -1263,7 +1263,7 @@ github.com/QW-AI-Code/Aether_Desktop/releases
 
 <div class="tg-post" id="msg-2515">
 <div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/mluFYl1V2hYspldoQer3d871P7dGHdA6tVuuaI7mrAZdcLqUqZ46AVek9EoO18ej3SVUUKzJxoVOKt5MIMYYhwiN9fbXxbUcyC2Q4fP2ms6nZIbFIgnGwvZEcuPO_0bIaw3nRDgf2dq4OiczBAijdF_JhUSofwqbtzWClYlBZjtzwapqCAWX0D4GMavyODTMGg3_nqFGZAd9sHqnowVoptKgtjVUyesu-ed-Xolvo3JZaxR13nLwATdWB_FVqTHNtZRfqUx3c1ATF8_UZkaY-BgScQDJiZtQicVP8QGxarWV1pskaEfAd95VWNrEkzoJnQeFfm0acRNbE-YDvIWKWg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/q7djs7Q5siDRl0RPLd9J0T0OqB7mliW2jOien2GVVguZ1NZm_QC3P85zSahNlil41Anw1TuNdg0AApmOIMId3gyRvBqkYnPY2CtwGMp1HTHWsqSj70AwbcIcJwuo9vK4dkfuQf0QWqOzRltKhuh2M3F_-FHGsZZx9iInjnIRAlXQ3MkebNY5F7LboMR2xtske6NhuLx677fZkLrDVqPpsTuQcmXjm-bB7883r2X24RHZm9bsKP-J2Ez1gLtvi8okAsCCdX6dOeuuQ_PIaOmLuiulmt57ATUDpJeZ9Kfz6YCC6ssCzRpp8LLO2AN_JpwmIruBFtN0m1IQ3b3Z9QfWHA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کلاینت دسکتاپ v2rayN یک بروزرسانی امنیتی اضطراری منتشر کرده و از همه کاربرا خواسته هرچه سریع‌تر برنامه رو بروزرسانی کنن. این هشدار در چند ریلیز اخیر هم تکرار شده و توسعه‌دهندگان تأکید کردن که نسخه‌های قدیمی حتماً به آخرین نسخه ارتقا پیدا کنن.
 در توضیحات این بروزرسانی اومده که "یک آسیب‌پذیری امنیتی بحرانی در دانلودر داخلی نسخه‌های قدیمی برطرف شده، که می‌تونست به مهاجم اجازه بده فایل دانلودی رو در مسیر انتقال دستکاری کرده و به جای فایل اصلی، فایل مخرب رو بهشون تحویل بده".
 👉
@@ -1280,7 +1280,7 @@ github.com/2dust/v2rayN/releases
 
 <div class="tg-post" id="msg-2514">
 <div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VjLcajTDw29BYgsNnJv1VWTG0JqFriZ2ijm71Us6uyekMzLOjz9uIdKOz67LIeOtl9W9QomJIHotXI9rSaSoqATE7Rrtu_mDcl1bX8N4Zr5wAfalSefQQJRkTTqgkJLCwz4eCVHUASISdnDnB1q8yvRQFqPr3URDYwaTh5PhQ7eFzmZJxmlMqgixKMkiPK92nNCD4lr8ABlOAO0X9dewfzyI9SZxHiqrOakA0gob-IZBtLs2kzQISJKqC1d0VtFx_yWttl8IP5CP-mKPb1t7xKjEGEOKdRH5I5x9GcTJhq11UmPvDWRAwFhMZiR-uyqCBs8YX8Oe1GIE6K3KMVh3lQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Z9j3upRPemNu8EuAzNdpjC1MPr9njRlI17VlbohX-90nwQ2icxGFny0vwYa_jD8uTe0oy7fp0N0-FfhkUkccBBxA2gulARg0w-dowWY9so0EyXuZAU33gTgvbPmeFz43xvlyE-kRoBRIti9gP9SWpsQwa9ayDCA3C7ai8fxi69MWIyDwgps8RNknKKpwbu9NOx2_OrfZwbh-ZW3S1mvNwlJkMNUp9zKaIU8RkdFhApAYuF6SE30cWmNilOjczXzcx9eSSjJ-GTnJiUCrRM-kuJqF-Zv0gMV8jKdhobxozzEyXfe8TUEFxQr4Rd4CpnVmrgIzMYvhsZEBqKsV-0iE9Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قطع اینترنت در راهه؟
 🔗
 ᴡᴇʙꜱɪᴛᴇ
@@ -1309,7 +1309,7 @@ github.com/2dust/v2rayN/releases
 
 <div class="tg-post" id="msg-2512">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IzapNi5YqqEw7bX1okuJ2EOdnfXAshI0h66rlFK0-uQv45jt0JCMLMCsGF7kIRuH0IfJvgGsUQUBALynvy_qCCefxBOoLVh5JwwEEqYd8tPOyqYXRJBRDzPAl9B9XDc7qZWZD3dopjD422auohmO-zn2YRi8o9aYz6hQm39nOcIN3hDD0TsgIsg_2z7REnk3rcejHKxdOAuKgI_DY0kJdWjMkT0_SiXsHblagV7WtHB3tQ4q1c9Mm5VvO_gwh5-d-02KI8TfctTjRoNpATA3RBSWHIHBV8D4MNRUpn4-2_nbCSsVeXkss4sqsdIXy6HZAR5uGafgJW3pYlbvV3FGHw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Y1O_UUhuZPCJVAxLP9m_4CmBkS3sqOR-iDNXQ3WnNw0JdNVG9hmxzPRGq4tYbQFkdv3IkoHFZGpAVxK5_QDZ7I58kOblVbY0U1sps5WITY_zTS2E6paFZJN6d5t9VPvFG6uz016xnKnVxmr6JaCyWHyeSGwn6YZhirBME3vf0_t1UkR-Nr25Cf_bwB1HbB3UecWZVvIKK0ktrrhmBbU02hktkTZNqe-zyI0YPMEZwb4icQvshJXcUk7qzzxMnrJZXhxQDNfSgbrsx7N7e16P8u-PXccWC8uWK3Gpt3PYO_7hehwnoW9fIpY-Xo3Gb9_AzC3xevsphEu7xt5kFo5I0A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">انجمن تجارت الکترونیک ایران یه بیانیه داده و نسبت به تعلیق دامنه فوتبال ۳۶۰ در رجیستری ‎.ir اعتراض کرده.
 اصل بیانیه قابل دفاعه، اما امیدوارم برای کسب‌وکارهای کوچکتر، استارتاپ‌های کمتر شناخته‌شده یا پروژه‌هایی که بدون پشتوانه رسانه‌ای قوی دچار مسدودی دامنه یا محدودیت میشن هم کوپن بسوزونن.
 🔗
@@ -1502,7 +1502,7 @@ slcyber
 
 <div class="tg-post" id="msg-2499">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Xcqtz1wKdVakyLjJEXIYqwAgvJwTgrAkKzQji58YNWledf7aNNx7GCSZOSRXlh_99nZkWaPW9dH9NN0a1Pd6yUpnAgKtqyG2suavTRzrx9iF3oR661KQHcyUzpl5yBOWz2OsX9oEwNwtU8L0YmhbYgI9iDJOIPvQozAtSofEpzPPQaBRg3i0fjtS9j5HHjLjd9q3UDFhfW8ScO2gQv19R8J92bJ_IwDFRowAgQnfhM7w5Qg8n9X5byahPYcqMdR_tTh-8Ypa0etzHiuYxeC0RcIsJufODEyTeEQ4QiVBxps0MFRtIERO0qaiuT9xjAAW9YfRdvi2CtbMpxZSWpB7SQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FAXZXfkQulybvLX2-bU0jzfZ8Hyu7vg_WoDh7XAWvMN5gt3a8iD_1m3XspTsGXLToQzUF704mDX4lpwnE5qU-pwMTHooTBzxTf-N7Tqewf-iUFEMFrEK2ZWijIWvNSd2vmrmEIgdjGUb8YTJp1chfOmbN53L9IqHxv3pWBd5hOwDKOzxsZ4KYVLvhIyK8xAYad7KvWPvRuc5piQUVu4oTW_zvlDZQtasuQYYfIm9sK0kx1KfMvzIboaT6I37eAJVs6vThw3-rG5uHk9O8DB0NSlYjQEqtysWjvT0XSLst5WksFoUmFLFZCQ-bdXT5cWrsaJynNXXcuBx10XOPfWxKw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ dicodePing یه کلاینت متن‌باز و رایگان برای اندروید و ویندوزه، که مدیریت و اتصال به کانفیگ‌های مبتنی بر ایکس‌ری رو راحت‌تر می‌کنه. این برنامه از مدیریت سابسکریپشن‌ها پشتیبانی می‌کنه، می‌تونه بصورت خودکار بهترین سرور رو بر اساس latency، jitter و سلامت اتصال انتخاب کنه، از حالت TUN/VPN پشتیبانی می‌کنه، آمار لحظه‌ای اتصال رو نمایش میده و امکان تعریف دامنه‌ها و برنامه‌های خارج از تانل رو هم در اختیارتون قرار میده.
 👉
 github.com/mcodersir/dicodePing/releases
@@ -1566,7 +1566,7 @@ github.com/SagerNet/sing-box/releases
 
 <div class="tg-post" id="msg-2495">
 <div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ubioJSCYI69khAEw1rIJFiU8lKWTOP_YFMWaDm9A9bt6cgDSug5aUdtCQkXEiX7lroKP4fsF75ALnx4H04nGgt2cbE6tGF-aqIXSpyUHTrMqejPt_P9yD6SDfpVPEbivBl5R3sLptgmUHIQVzOQwbTOpt_To0_x2iOAVre5-cCa4aTULLckJGDw0XFG_7OigcecJe35f7a0-rmYxWK_mim6rEx0A8HQbT2Cfhls82h6JSlBKY-R7oLouMm1UW2erHHhGFyVZI2IKAEsDq2CaTMQHAQebuEwz_PBCZN1vaIW5Y6eOyRTdbUWLuKnotTmo_x9FX007ao_jw90bakPZag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/YFvPeyyuCQIsCKgbuhAro8xEJW_l18n-zWdigwzAJ-4_1BNL3gJFxMmh7uK4DjKw0vDJNA4ELE0IkN8ZMrFivFnuvkjW9bh8s6a18Ql_6YIdZ-ILl_bM9rdUd4DQAa9wvZoniHudacQfFdbEll4Y26OAINHSLlY79nkTO8wj9vl3RiV4GEKVvYOdPw7d1716G0Jk89lnxQxS1R-MMsRJ92v-uJHZbFCqYC1G_gFNr4rQm8L1F46jpi0fKmcARV6Ia_BrKvqYinRtoDELz-Fw7TKVL2Tvin1hc93-Mnvw3sHJI_vHOBzqKfRScDSzDi57b6BgrhgxO-OOKDSYWMuS5A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ Aether-GUI یه واسط گرافیکی برای هسته Aether جهت دسترسی به اینترنت آزاد و دور زدن فیلترینگ هست، که دردسر سر و کله زدن با محیط ترمینال رو برای کاربران سیستم‌عامل ویندوز حذف میکنه.
 👉
 github.com/MatinSenPai/Aether-GUI/releases
@@ -1582,7 +1582,7 @@ github.com/MatinSenPai/Aether-GUI/releases
 
 <div class="tg-post" id="msg-2494">
 <div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tsA6z5ItnF8BP53djnPRDDGxXxXnNNiMMI9q88IoilayAAZAJ6ULBN2VHB_1In5M-mLXBuvmgRU9heWWWc7UavjKKkeoCsymMNn_KspmQc-N2hvqnVezsIkMa_Pdru6nE9wyL-DiN50CyM93Q-02XUeS6W7ztxi-OxVTyPY6dk26TLrsE8cYmDl5Cg_mJHp6CMunhZMDYuLRt4JoEsJ9jL9NuDnV9kQVi0JnDsqmvN0okHTEA-Lk_6ijdYfSOWDEDy_oIC-6eYTJYGVh0G1Ojzomk2spPROSTPMzMpvEcbQkqA3EHELJJcSrJRiHU6hx-5Jff64krfbr2XFk-MUuBQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/TWJbscTjp6XISpVo86pwl9De3Xf4SMGParCh7mJjlCpXXmCJyliGueRpwc5fLbVWknUi_57LLhC4n7m7EN2Olna6sJDT5fszwCmhaOWVY6J5-B-HiDvVOdbpn44eNAe3k0xPvXGzT1HwS5nARTi6UQWOtDsoKorUZ3wgykSnvWtXKeSJPmhTr3uLKQyy9J43m-1FzhZqSqcUe6FFTm7ZLlNqKjSyzmr1Y3bjlmgAyL5FKVVY1bh6FudHuKjXWcUmh3CJ4dWkf4MCf-15-pBK_RUXq5kIxwu2nOPlpy2SVoYR7miVQiWMTNGRYcY585ShhMoaxvONdb3bpQykOAfO_g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مایکروسافت در بروزرسانی امنیتی جولای، بزرگترین بسته اصلاحات امنیتی تاریخ خودش رو منتشر کرد؛ بسته‌ای که ۶۲۲ آسیب‌پذیری منحصربه‌فرد رو در Windows، Office، SharePoint، SQL Server، Exchange، Defender و سایر محصولات این شرکت برطرف می‌کنه.
 اهمیت این بروزرسانی صرفاً در تعداد خیره‌کننده آسیب‌پذیری‌ها نیست؛ دست‌کم دو Zero-Day Vulnerability پیش از انتشار Patchها، عملاً در حملات سایبری مورد Exploit قرار گرفته بودن.
 ©
@@ -1599,7 +1599,7 @@ PingChannel
 
 <div class="tg-post" id="msg-2493">
 <div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PrgPNFetKIaNJavoPqXluf0mukMVes7Ep1_Dq35vd9l2jh7zv2_8jwYPxuIy1bJLatZNI_GN1ZyvaWGaDey8Vq6Iml1zairES1cB5xYgD8DB_VrM6MzFOj5s67Bqyl9R6-bwDYD5IzydtNWMa5QO3O0Q2CMQNx8eTNiCjMZXzcH8bWmr0GRsfDIK-P3f5Q0FA1ak5ot0Z1qP1VZyPld3BXmxXVYk03GHAhV56U8vtiUR3T8SJQF_Pp0xdjREkYki5YTkb3QaKsTrPrsy6v5c-CfN6XmLQjcocR866jf6Yz-sc6lVkVDTCYUPsuIkOpMwImcT4ZpwKLvqwU6PEZ3itg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jCcaxZyiOYLWlce-6ieOtmv_x5XXW8O0iupjWm8yJuToBpZds6qsu_A7ZF7MC6cpji6ZUvENBoPlUpoT2Y1rUYB0ed4kKCAY4MihD2of8uMIumoeoS5-c-2mqYz_sLHli_53xdJM3hx25P1agOF6-gKvsoptfuWSrPhk_BZyd1j5QpyYt2TYBrplAMjQXMsNHvgMtRcDwa9sddpfH7Uu7Mruly8eJVup9zIzLGfBfX225EXeVXoODyBR-ZHtz5cdeWUxVbKvRcewKrVX6tAKNsrtNlWWRGdREbvLGHkAKJW8ljteBpGBKoJYDhpOKCrJiSk6uNGBFS9YqabJ_UTdgw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پروژه Aether یک ابزار متن‌باز و رایگان برای دسترسی به اینترنت آزاد و عبور از محدودیت‌های شبکه هست، که با تمرکز روی سرعت، پایداری و مقاومت در برابر فیلترینگ توسعه داده شده. این پروژه با ترکیب وایرگارد، MASQUE و WARP-in-WARP، ترافیک رو تا حد زیادی شبیه ارتباطات عادی نشون میده و به همین دلیل روی شبکه‌هایی که از DPI و روش‌های پیشرفته فیلترینگ استفاده می‌کنن میتونه عملکرد خوبی داشته باشه.
 یکی از قابلیت‌های کاربردی Aether اینه که خودش بصورت خودکار اندپوینت‌های تمیز رو اسکن و بهترین گزینه رو انتخاب می‌کنه؛ بنابراین نیازی نیست که تنظیمات رو بصورت دستی انجام بدین. بطور پیشفرض هم از HTTP/3 استفاده می‌کنه، اما اگر شبکه‌ای QUIC یا HTTP/3 رو محدود کرده باشن، میتونه اون رو روی HTTP/2 قرار بده تا سازگاری بیشتری داشته باشه.
 این پروژه روی ویندوز، لینوکس، مک و اندروید (از طریق Termux) قابل استفاده هست و توسعه‌دهنده‌ش اعلام کرده که بزودی قصد داره هسته Aether رو با زدن Pull Request در فیلترشکن‌های ابلیویون و دیفیکس ادغام کنه.
@@ -1662,7 +1662,7 @@ Linuxmaster14
 
 <div class="tg-post" id="msg-2489">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hqzhtvozGEW7bBYM3__DCulCcwHTAKOYjyTve1QJvc3ol1ZEaXqaEV1HyI64w3nagMoX4ecl06bd_zrWsNLb72kOwIjMQoaNvjFqGAgu4d8qLBvZRYDbd5lnnT9mndMZQoTKJxNrc8eVn1UFrs-se8fQnMNV3a2Ec-0uYGuScpktIuZy3zS6dxMJ-kfN_NK40KCit6GpNalVMnj3WxlOkAHEh-DB0pbW2d31eFjSN5_8cdntTWV6m9o3atsfiOv4MbZj617EHP5P4HV993sqqDULWmEtRx8lcpky_IpOlmSq1Lvfkn4x9qkPf1foXU2DqtiYR-1aI-sgy2Yf6v4V6g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KLgu61R9G3LQGFgGM4oV-o4HXPeRwTYxkuC6TGjJFqWsId1kro5wTIU8CwihlFr91naRug-C4ESsY_O_n8N90YAmrD8_az0VS338o9d6B5ooBjM9UojE86fnl0093PerGk3ie8h4ctpx6ZmkP8dq2mSHHF7DhXoNqw-XyUrxQC0LSmB5_-Gc-nBAgSDEp_7x9kQfBEI6h25cWH_6p7iT9j76AW4_ldq8te9SlCgz9yrIn2PMf5mTKRVzt7tN-De2PghOUZPQs1xFLN6TYK7AKVkYlcd6UsMvMlTspG5Lc9V8rcsXdjPFXkAWY-wpT-R6Jes3OOEP1107jRvgFYAVAA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به یکی از شرکت‌هایی که API می‌دهند مشاوره مارکتینگ می‌دادم. چند راهکار برای کاهش هزینه جذب مشتری یا CAC گفتم، ولی تاکید داشتند که باید API‌ رایگان هم بدهند. پرسیدم چرا؟‌ خیلی راحت گفت: چون رایگان است، طبق شرایط Privacy & Policy تمام پرامپت‌ها و داده‌ها و خروجی را می‌خوانیم و ذخیره می‌کنیم. فکر کردم شوخی می‌کنند. بعدا دیدم نه. جدی است.
 (...)
 مواظب باشید، لااقل اطلاعات حسابداری و مالی و مارکتینگ و اکسل فروش و لیست مشتریانتان را به این API رایگان‌ها یا این سرویس‌های هوش مصنوعی حتی پولی که در ایران هست، نمی‌گویم ندهید، می‌گویم دقت کنید.
@@ -1675,7 +1675,7 @@ AdelTalebi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 37K · <a href="https://t.me/ircfspace/2489" target="_blank">📅 07:58 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 37.1K · <a href="https://t.me/ircfspace/2489" target="_blank">📅 07:58 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2488">
@@ -1725,7 +1725,7 @@ IRRadar
 
 <div class="tg-post" id="msg-2485">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Byt90Ia1345M4UONSQtDGfUBS0lFkqFRkP8brVKWAp4CCsAZLj46CVg5B4c7hn_sbOAre-Ni3SpFPoUO2Ngw1VpGG80h8BKf-5eCoYfnatM8mIlMHD23yqAdg36HefUuUe6SlGl8a2brKqOfO1e-fpKx0CX0Iut2WfG-vTIx72GFChk7-kWLRE5STBGK8v9tJ4pAv3gVJ4JFeMVQ3IWFx4gj0G4p_sReVSQY3g_jm2JDhPXndvUgUSammn_Q2dmtaRp5AvxwvcyYvLV55b0OaGmiLo-rNEgpOSLMTR_iyVnfftRWb90MIzgDTskXeS7Mzhz0lJq8xY1gCwsRornsIg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/WGS_-LGnqarvW25SMrG0ipMA0ZOc-5LQ83oItEkXAAWu1AAkLso33egDitB1Gpeu6BnT-K2RMWhW84Z4saSHdBiOnisxD976j1M8fDMrnTtLRs5dxAU_GxlSPmLH3bq_Rxpw-CeFY8poWzjjUlpGVjO_U_KoVeJJ6YckKOkBLxHbyiWBrFoLMO-0VjJ57bvXElN4e0nd1xJill57rAAgml1H2kk08iQIHVpC8CaUgKqYr8tnQMHldNHJYgdhUPZGwfmu43bOypy2SPfcBHjC195sgDhH3wkYxK5PmOo_u0eodPIXekn4KsISOR8tw-V4a0leAAZ8oxRjN5_AzwwkgA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">فیلترشکن JumpJump که بارها نام اون در گزارش‌ها بعنوان یک اپ ناامن مطرح شده بود، حالا یک محصول پرریسک دیگه با نام SpeedTop VPN منتشر کرده!
 این برنامه با وجود چند میلیون دانلود در گوگل‌پلی، طبق بررسی‌های فنی پس‌کوچه دارای موارد نگران‌کننده‌ای مثل وجود تعداد زیادی ردیاب، درخواست دسترسی‌های غیرعادی و کدهای مرتبط با شبکه P2P هست، که می‌تونه دستگاه کاربران رو به بخشی از یک شبکه انتقال ترافیک تبدیل کنه.
 🔗
@@ -1740,7 +1740,7 @@ IRRadar
 
 <div class="tg-post" id="msg-2484">
 <div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/svNm9mT-FGSaZnzZEUXf0exgoLKchR3JdHWdv-_IGUOhxpRYEXfSLWHNfJVivTx5h2NVUghzSasZLYJkP5xmLXksANmBVZfLtB5ZpZs_-Gnvg6ag4DJ4maiW7EWH-KsjYaAV4jPmaF0jAwAWdcXbXotPMAwjeq3ObgPad57LN8LGnXcvt7JIs639UYw7QDdByYbsy7Y7X0nuTlWXsQRN20J46AsD3NZREbhRfl2jEtx8LnboUIO8LZyb-obfncF8yMe1LfuKsUXzUbT1w9w-DP8AJ-QCW-wd4eCOZGtKLvQ5pfGmfURKDK75a7UdYF199_RkU2KSGSKscggm5fr86A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/V27pZES-_6PRepUVhPevEmsguEHdJDUF9_IfCoSwCMpMKgOgthGMWYYRoOtY4BgaQ8DMQPyqVP45Wgj8wlQaKT5hTjcdWl7OeNpnynbxXUFSJ5Ujf3HLES5X_Yrg721ynIjBrYSu4ZHkvpPfte8m6m0KhQBN4hpqvoOnAQIGUU-SnQOEpyb-2lGP1Gkgt0VEVwyPIAUnKVtvy3lsFx9_nQDKEMYVKjUqPgQ6fM0xM9bRIt9uUJEA5PzrhjDk0FYCG58IAQpEqBtbN0pEx-jAXRyyQ2RykU3Uhv7LQ1jDTVmRNyZmO4HBWXySdbpTNTGGhr7Hj_TnDHJPN8vKXf67LQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پنل زئوس یه ابزار متن‌باز برای ساخت فیلترشکن رایگان روی بستر ورکر کلودفلر هست، که امکاناتی مثل آیپی و لوکیشن ثابت، دریافت خودکار آی‌پی تمیز، لینک ساب و QR Code اختصاصی، فرگمنت، شبیه‌سازی فینگرپرینت، بکاپ‌گیری و ... رو بصورت یکجا در اختیارتون میذاره.
 👉
 github.com/IR-NETLIFY/zeus
@@ -1790,7 +1790,7 @@ github.com/MortezaBashsiz/nipovpn/releases
 
 <div class="tg-post" id="msg-2481">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NaItbzp8thiPa20m62OhXKJa4sLw96UAnZNf8fvmqkjuxfKE5Tss4A4CPyg2Bfd5Y39SJoBbF6IusmaEu3RKna4M4cdQtwGTtozc45sZhZdFmdLOrtk39lXJxRwKLF8WcRfyVQcQaY_-9wog8UThOKyiuakDM_NVAaviU-tcs1UzLmw8jQC5qpV3ta7uT3vsvPfyjeqemAdCM_2wHfaO5lg1oB7HDiWp5kbzsvjv3hQGAcBNhVl-KV5lGeG6Fb-F5DWeKUZk3eTwUC7uGH1dJBCDEPao5ErB91BY8Qx4u0utFjf2VnFmOEGC-SMCkrIOrxJPLwjH9W_pup2JsOQ4Wg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ojqammxSTYARs-dkXZJpTJ4vfoliX64TLDcUWqEHfLSEiWMuHDnU4QsQvNel5yUblgnmADisD0rjqu_pNbgKLvTocfMXboAJMVuDvlsY51XL8izYMqlj6zo6VrXBawxGuvi8lHOIyQJHzHkI3r7t-RTy2V0-vrD-U0bhmGPUi-sJXapiuy_uHARo-ouWmYL9p8XIwEMvJvFf1ATsaWnfL4hqMXr0o1eRwa5O97zK_4xjXamZCujl8RQlfcLdJDuVPcbJmXA813VQSjmfQrLMzFLApRIPhmGgRWSJ_EY0bLHI7lF8AHUHdR2p9oR3LYJXVNz3iBER_fA_n3ftp17GOg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ابزار BG Scan یک اسکنر متن‌باز و رایگان برای پیدا کردن و اعتبارسنجی سرویس‌های شبکه هست، که اجازه میده چند مرحله اسکن رو به هم وصل کنین و عملاً خروجی یک مرحله رو بطور مستقیم وارد مرحله بعد کنین تا فرآیندهای پیچیده راحت‌تر انجام بشن.
 این ابزار از پروتکل‌های مختلفی مثل ICMP، TCP، HTTP، TLS، DNS، DNSTT، Slipstream و Xray پشتیبانی می‌کنه و علاوه بر اسکن، امکان اعتبارسنجی و مدیریت نتایج رو در اختیارتون میذاره.
 👉
@@ -1807,7 +1807,7 @@ github.com/MohsenBg/bgscan/releases
 
 <div class="tg-post" id="msg-2480">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OwNrWo_GWoZoiqfJfd9I9PCxat_Dcvfd1NRmtVB6Mog9RRlufPxqmlgd59DNeZugwPPQd7Xpewgc4cgvTlzAjQKrXwQncaD41k6PaDvfwbIMgryOt3hG7XSMr-QN7EGNRSc7KiypiTStumXwZzMMybwOXf2VVdHOXa8BWdT7twatrH8Pk6kp3SHbuKFGsgUn4plFVRbaKpedsHaFiLZRSUDvaf6WQOQwHeiKDu-aHNR0Z9xGeFcgB7ObB2oeiFCTbOB216MZRAxH4MJLin1DN513ZtyyI65RxfDL_salojGn328twx_020NjVj3lmBlfni7-DTTIada9OeD-2Sj1ZA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/U8vwO1qrbra-Rxk-w_yyxwZ3_s7fzpifdvLtDNx7Pzz9TbKJUJ7-KQio_Ll4oeAJZDS3rjHkRUcdA0OnFGssOLtfXBrxB5jf07AHIZhk_WWaUhrtk51cVTaBqAS-P1ctEp2s-o2hcuzqRfYjgtlAyquVFKIHcT8ZELYq8G2B7mA2A9LBrsNvjBHgjvcnTbbYVCSbKlPykqteez6dHWwTNSYL0lOnC6-2dSw3LKnjUHOqXQAORF02IZaeJgFVTywTRVvkafODaIA4eTnXjP-b0asA-MKhDcbNBUxD6_P_h7gsnnE93O2_kXWFN41rPOcMgbbNvNR80pKmQ45Mr1BPoQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاوه یه ابزار برای اسکن، استخراج و اشتراک‌گذاری کانفیگ‌های فیلترشکن هست، که کار پیدا کردن کانفیگ‌های سالم و به‌روز رو راحت‌تر می‌کنه. این وب‌اپ میتونه چندین کانال تلگرام رو همزمان اسکن کنه، کانفیگ‌هارو بصورت خودکار استخراج کنه و در نهایت یه لینک سابسکریپشن بهتون بده تا مستقیم داخل کلاینت‌هایی مثل v2rayNG، v2rayN، Hiddify, Streisand, v2box و ... وارد کنین.
 توی کاوه می‌تونین کانفیگ‌های خودتون رو با بقیه به اشتراک بذارین. علاوه بر این، حذف خودکار کانفیگ‌های منقضی و امکان رأی دادن به کانفیگ‌ها و منابع از جمله قابلیت‌های این ابزار رایگان هستن.
 👉
@@ -1892,7 +1892,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2475">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/B1LcIoxsxgXD5_L46Nx9fC2P0xr3k5q9HouOvE2iTyWYgieyBnj7de768oq4s0Vv0RrnagSN0XCiudEPtw1TJMd7a4NEdxix7UO8yfL5F7Z07AoEXvrSd7S-eBAXomCCOXG4oKs5ZIw8O0NQpuU-7RRTP_diOncuIDh0vNan26tVz-BjY3Egp9SDlZaB-JOPZbqk7FqjE_aPgWdD98QDutbU8uke_H_H7iDt-SXGbKfeZ51AM2AOI1xBZee7tzEpqyPB1RYXL2ofX0ZS_b9z3rUL6j2MkTp79BJ7DmjaSbyZiQXSeiJgdiUzI0fIxqa_RlZd8ty2o-uxnEhx5VaEGg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/n_qLsFmZnC8jjXrdbMvj8d78mOgmepnMAsdLrtHmsGwaaORrcNAv3fDESuZ6SdowZJzzPLOqrN-rmuX2FbiGk0eq3G7c5M15i9lW7Ch5Af8SEBrV3sUq4GiAMnJn5mE94Br6LDd57tbrUAi1oE8iGMIj2xKlnenFCTwvO8oLoi69v1bNf0Uxi9It3i6kllZ4nitBCm7Wxm0dD8oJ9i7qmXIOJEoxnIW2_ICo5Jduz01u8RxsnzvNw3FWq8p_nH-ttar7jwMtahEJOr52W_uDNeQk7I7sGOYyPrcKkaxVQxUjmfbrky-LcvKPZcE-JokH-dCX9fTVJX3iLC93xJ80-A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ GRoute یک کلاینت متن‌باز و رایگان بر پایه هسته ایکس‌ری هست، که امکان استفاده از پروتکل‌هایی مثل VLESS، VMess، Trojan و Shadowsocks رو در کنار ترنسپورت‌های مختلفی مانند REALITY، TLS، WebSocket، gRPC و XHTTP برای دیوایس‌های اندرویدی فراهم می‌کنه.
 این برنامه از قابلیت‌هایی مثل اضافه‌کردن کانفیگ وارپ، مدیریت لینک‌های ساب با بروزرسانی خودکار، مسیریابی تفکیکی، پروکسی برای برنامه‌های انتخابی، فرگمنت، Sniffing، نمایش لاگ‌های Xray، اسکنر آیپی تمیز کلودفلر، امکان تست کیفیت اینترنت، بررسی پینگ واقعی، تاریخچه مصرف دیتا و ... برخورداره.
 👉
