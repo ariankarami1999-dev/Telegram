@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-11 23:03:40</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-12 01:41:10</div>
 <hr>
 
 <div class="tg-post" id="msg-2575">
@@ -308,7 +308,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/ircfspace/2575" target="_blank">📅 18:47 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/ircfspace/2575" target="_blank">📅 18:47 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2574">
@@ -324,7 +324,7 @@ github.com/SinaXhpm/Echoes/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/ircfspace/2574" target="_blank">📅 11:52 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/ircfspace/2574" target="_blank">📅 11:52 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2573">
@@ -340,7 +340,7 @@ PingChannel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/ircfspace/2573" target="_blank">📅 11:44 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/ircfspace/2573" target="_blank">📅 11:44 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2572">
@@ -357,7 +357,7 @@ alirazzazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/ircfspace/2572" target="_blank">📅 11:41 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/ircfspace/2572" target="_blank">📅 11:41 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2571">
@@ -372,7 +372,7 @@ alirazzazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/ircfspace/2571" target="_blank">📅 11:34 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/ircfspace/2571" target="_blank">📅 11:34 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2570">
@@ -388,7 +388,7 @@ alirazzazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/ircfspace/2570" target="_blank">📅 11:30 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/ircfspace/2570" target="_blank">📅 11:30 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2569">
@@ -407,7 +407,7 @@ frontiertm.github.io/Pantegnos
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/ircfspace/2569" target="_blank">📅 11:20 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/ircfspace/2569" target="_blank">📅 11:20 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2568">
@@ -421,7 +421,7 @@ frontiertm.github.io/Pantegnos
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.5K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2567">
@@ -451,7 +451,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/ircfspace/2566" target="_blank">📅 19:30 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2565">
@@ -533,7 +533,7 @@ techradar
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 38.1K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 38.2K · <a href="https://t.me/ircfspace/2561" target="_blank">📅 16:58 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2560">
@@ -563,7 +563,7 @@ hamedbd
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 45K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 45.1K · <a href="https://t.me/ircfspace/2559" target="_blank">📅 16:16 · 25 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2558">
@@ -601,7 +601,7 @@ github.com/WhiteDNS/WhiteVPN-Desktop/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 45.4K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 45.5K · <a href="https://t.me/ircfspace/2557" target="_blank">📅 16:57 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2556">
@@ -631,7 +631,7 @@ Kiyas
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/ircfspace/2555" target="_blank">📅 08:47 · 24 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2554">
@@ -701,7 +701,7 @@ Teeegra
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 34.3K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/ircfspace/2550" target="_blank">📅 09:59 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2549">
@@ -777,7 +777,7 @@ mrweb24
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 36.8K · <a href="https://t.me/ircfspace/2545" target="_blank">📅 10:58 · 18 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2544">
@@ -931,7 +931,7 @@ AmirMahdi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/ircfspace/2535" target="_blank">📅 20:03 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 32.7K · <a href="https://t.me/ircfspace/2535" target="_blank">📅 20:03 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2534">
@@ -1483,7 +1483,7 @@ slcyber
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 42.3K · <a href="https://t.me/ircfspace/2501" target="_blank">📅 08:07 · 27 Tir 1405</a></div>
+<div class="tg-footer">👁️ 42.4K · <a href="https://t.me/ircfspace/2501" target="_blank">📅 08:07 · 27 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2500">
@@ -1502,7 +1502,7 @@ slcyber
 
 <div class="tg-post" id="msg-2499">
 <div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/LyR2qJfgr7NEkyNrFmZh0QQ2QNFOrZ3JtUT-0P8Jc_Hz-7yzj-CRFr8zKX6rmVbOX78-K-dtJglIwj3ZYKL4SbGaupzej04heiESMsA142ujuxapNxt52s42E4L009NGhOaCwuiYRL2t4XBNxTCboVvqXfKUijnEcWHfE0en69jS_MzVPDcziR_EP5nkRLAF4dUiTUSg8MOl1AWxd0jVvLF23Yu9H2xm1Om-tc_6vX4_BB6NkMe2SNttO2YONRkZr3inZ8WrOM4-8PrCDcqCyuk1kiXA6t93Qm8NZUie5uRRDVv731JM56SOv4T2G4FQp40YJ4zrouyqpysXp121yg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZaBpIWqD9XEIsA7tL85I5wLIgBo4EKoosb2lMlHzWRPTg7UqUh3WB8FZn3lScFguqCq-uFjQ6LTmAepBDqAqwANskoJB0Fb-TX0upyYVLvqqsCPlquZcm67LKFLgHcn4zcbV9wF4a-yAjYluMn6VqsTrLBIgu1CZvHIoLTA4JKFBeggLj-ZjhB5pnrIxjy2dIrLv3F7ELB3R2OfFov8EyuC_F69a3wN-1w7MBLYnL3o-2co09-tV_A3BkJeNGH4sjSmufffCusbIz8YJT1-bEBnb1JFir8H1Fukp2FQD291kekJuf2n1GQo7KI9txKieA7lmFx-ZmxJ1ycuPQ5fCDQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ dicodePing یه کلاینت متن‌باز و رایگان برای اندروید و ویندوزه، که مدیریت و اتصال به کانفیگ‌های مبتنی بر ایکس‌ری رو راحت‌تر می‌کنه. این برنامه از مدیریت سابسکریپشن‌ها پشتیبانی می‌کنه، می‌تونه بصورت خودکار بهترین سرور رو بر اساس latency، jitter و سلامت اتصال انتخاب کنه، از حالت TUN/VPN پشتیبانی می‌کنه، آمار لحظه‌ای اتصال رو نمایش میده و امکان تعریف دامنه‌ها و برنامه‌های خارج از تانل رو هم در اختیارتون قرار میده.
 👉
 github.com/mcodersir/dicodePing/releases
@@ -1612,7 +1612,7 @@ github.com/CluvexStudio/Aether/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/ircfspace/2493" target="_blank">📅 19:32 · 23 Tir 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/ircfspace/2493" target="_blank">📅 19:32 · 23 Tir 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2492">
@@ -1662,7 +1662,7 @@ Linuxmaster14
 
 <div class="tg-post" id="msg-2489">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HO8RraKA8REE1JJlNzss6Jv39wlUefrZwl9ZWVTr1dYi9_CCcTW409ONclLE2rn5zAe2YhQiKQBh3inp_fMyK7oH5W-2tfjFap3byNTjBPguvpFd6B44ySdkgRCuwfZlFGC6ZqHOgXRoHa9vkZ7NeadwutIVjxMKvEW5dYG9D1GRkEuUfZRaHhFGy3bywSWoINgx4tWqXCYEKOybjRiVRXfSdoAEAKsWnTHldZpbGcoCio5oIx-vaGVA4AKBkHrFze6xpUrGlYrTaok73IctbjfU7hb2tOJGTlnvD8Q4Qq7EcM_CpnR6A6A5V3w3J3YoXGDGVfP-1QQrkT6sKaJbfg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Wuz9M9ck3Wm3rqYAXM1pVDNCKkXqIHRsfxTEH0vj93ixKzxcAf8uKvLp-UcJFDqZBXjVNYjPbDHBIqjNIr-hk8HY9uMuGb5Eb_GzzqXkUvf05g1hCoPYW_M_L9jjosd-lgleKI03dXHM5e69e4fWAuuvWXoU9cqVGbiuCYtKclwE7fDebneeNYE8kuY7OLXFL5Gkyhv6fJ8KCrr_9olZc9jKLBHLCMGEwwd7FWhZ37Jsz21m5FXDHiXQSrEeEnVXm3ApAWyhcT350gDU6ZfDkOPBTG5Xh14w5RzfxI7B1ALiShzdHs4M_4wX6MWo9ir3TkzdnDBzc0wZr1YZdUEipg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">به یکی از شرکت‌هایی که API می‌دهند مشاوره مارکتینگ می‌دادم. چند راهکار برای کاهش هزینه جذب مشتری یا CAC گفتم، ولی تاکید داشتند که باید API‌ رایگان هم بدهند. پرسیدم چرا؟‌ خیلی راحت گفت: چون رایگان است، طبق شرایط Privacy & Policy تمام پرامپت‌ها و داده‌ها و خروجی را می‌خوانیم و ذخیره می‌کنیم. فکر کردم شوخی می‌کنند. بعدا دیدم نه. جدی است.
 (...)
 مواظب باشید، لااقل اطلاعات حسابداری و مالی و مارکتینگ و اکسل فروش و لیست مشتریانتان را به این API رایگان‌ها یا این سرویس‌های هوش مصنوعی حتی پولی که در ایران هست، نمی‌گویم ندهید، می‌گویم دقت کنید.
@@ -1740,7 +1740,7 @@ IRRadar
 
 <div class="tg-post" id="msg-2484">
 <div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VUvcBDO8GTegg6MVd5nrej9tVKcHe9TPg4Dw-9v1CNOfv2gIuwK6v991j-fseVLKBjjJntZfXTzhgVFXtcgA8tPvxJ1zlDyopBzkNQF9-9YN7vzdT4dKWOvTUZFZ9PeFKj1BsL9nmQsIHJHaMDtNriWIhy3Fur-mkF-Q1fE2WqH0jLts9v_M3zq9E9GyYRFgwfz97TMSD3MgOHrrh1KYVidtwF-KhaZZMCrKv3G10Rp-OLda_I1HOlrn77-Xi_PPekqLzWbelODxD30bAsQeo80J9DhkJkfztVZLmZEY-Kt9cjoPsEf8WKCA8PznvZ1a7FfDp3m4AVAN1_DdEAtI8g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XiLHkcMG9chNTk0FVK8RCYgHMwcsZB45jrx-uzQjsAXvik7KhrSsNBl3ZgKf0AIgpw6apo8VtBh88nvwTnOUqL8LTB_IC633rBlZZ6Rxv9K5bubwhwIyLDPoCfAbjh24HQQBycHaHat7xSMH7GM9FNxNgaIpDiJ1e0IE1T9zCP3dYGnwiTnWcpNBjFjZF45KqvUVJ_ecHjs2fJMFgPrCxsUwUtiq2igf9Z0EsAM_ceEJzm7iwPos3kyXMYYD1d1Jgg11eAyigHH9G1fYNewiVsoO1dJG3HAgyOvkbNHF5japcLcfLNYxnLwM4tEZkimYeK6f02jo4hGpS3CbHQjBSw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پنل زئوس یه ابزار متن‌باز برای ساخت فیلترشکن رایگان روی بستر ورکر کلودفلر هست، که امکاناتی مثل آیپی و لوکیشن ثابت، دریافت خودکار آی‌پی تمیز، لینک ساب و QR Code اختصاصی، فرگمنت، شبیه‌سازی فینگرپرینت، بکاپ‌گیری و ... رو بصورت یکجا در اختیارتون میذاره.
 👉
 github.com/IR-NETLIFY/zeus
@@ -1807,7 +1807,7 @@ github.com/MohsenBg/bgscan/releases
 
 <div class="tg-post" id="msg-2480">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/U8vwO1qrbra-Rxk-w_yyxwZ3_s7fzpifdvLtDNx7Pzz9TbKJUJ7-KQio_Ll4oeAJZDS3rjHkRUcdA0OnFGssOLtfXBrxB5jf07AHIZhk_WWaUhrtk51cVTaBqAS-P1ctEp2s-o2hcuzqRfYjgtlAyquVFKIHcT8ZELYq8G2B7mA2A9LBrsNvjBHgjvcnTbbYVCSbKlPykqteez6dHWwTNSYL0lOnC6-2dSw3LKnjUHOqXQAORF02IZaeJgFVTywTRVvkafODaIA4eTnXjP-b0asA-MKhDcbNBUxD6_P_h7gsnnE93O2_kXWFN41rPOcMgbbNvNR80pKmQ45Mr1BPoQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/I6fgahJUdqedkk3x5oeGycNdL-YKH39n4owjxuhBdAOQzDxyGxHY3LOlGLjRtHWlrKJanUZD0IndHmIltPJnQFCfl5fXqecmlinnLE_MtsJ950iPU3daUxl8Y2OOjgMKsWVPs4hySxQLwo5iOWwEk1hZwmLUCr-Wt1ea1VjmaYhGkUq9_ImA6elGXqSlcXeXhrWx9u7hIa91tqfFOAYIsQF7ZIjM6cTDe3YuDDVf-DJzUdaGTEM5buEywG8FBZo7hwv5CENDa1MTTsL-Bk7lq7MFfYh6pGQwpG4z8bjJOrPnZy2EdRHXCv1H-IrFxDEtRerp4iyEYymV4I_3cA1uBg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کاوه یه ابزار برای اسکن، استخراج و اشتراک‌گذاری کانفیگ‌های فیلترشکن هست، که کار پیدا کردن کانفیگ‌های سالم و به‌روز رو راحت‌تر می‌کنه. این وب‌اپ میتونه چندین کانال تلگرام رو همزمان اسکن کنه، کانفیگ‌هارو بصورت خودکار استخراج کنه و در نهایت یه لینک سابسکریپشن بهتون بده تا مستقیم داخل کلاینت‌هایی مثل v2rayNG، v2rayN، Hiddify, Streisand, v2box و ... وارد کنین.
 توی کاوه می‌تونین کانفیگ‌های خودتون رو با بقیه به اشتراک بذارین. علاوه بر این، حذف خودکار کانفیگ‌های منقضی و امکان رأی دادن به کانفیگ‌ها و منابع از جمله قابلیت‌های این ابزار رایگان هستن.
 👉
@@ -1892,7 +1892,7 @@ thehackernews
 
 <div class="tg-post" id="msg-2475">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/c8K4A33ZQzmuNCiWKXAdHJvp0h1PgtLY1WXf4j-aZzgqekAX-NkBxOiJLx_XQ6jzOUEgjELw0hBsisDH9vfy_X-p9TQpANMRzkQ6h6g7rJF_D4G8GLTflQXfDOu1EiaMNQC9CI_Sar2LpYV2UhuBYSs0TbpgfIBVCePv6hlvu1In5Xo5nomeNa-4ZuPsS14JfB6sTM4yaEZTV8VT5Cef7z6IVFGl-KJJcNxywnfkeLz__AUsVADv0xlpngfRUqJcYQWW60Yi9hlgMKRRXhfsQUWxnbPEb9kzFdPc3Ught7ScaykC5JiFEN1je-ydDeb5-lGFH82KVGZSY-oAdpmJew.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VL0LpMg1XlA1gcmEqFuG_1XYIosZvN-VoZUBk2d_K2BiVDZYN7Y2DrFh3x1NFeGbii_HTgIdsZ0k7uVcTJb4cJio35jA8VSigcFRuZpPQyKnJAPAKTxJzpCdRvn-_iuJOYaMTIf4kT1Tt5Rr7U2BeB139ztIOwRK-tKzwZFtnIJWtiKoRLNbW6B_48vW8FrpPKzX2e2dlrlymdhVE6cdhuleL0_Y9iCfAEtYM0UtwNK4x02QtS5bLPqn_I6zSxkIJkBsbGm5EpMSNpXbTFrLlXaYCS95mTMr0N9edWFZ-Y4EArNZ_XlrCKixJjGFwEZVuhcUC1K_ZUKsR6Xg_BdWpw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اپ GRoute یک کلاینت متن‌باز و رایگان بر پایه هسته ایکس‌ری هست، که امکان استفاده از پروتکل‌هایی مثل VLESS، VMess، Trojan و Shadowsocks رو در کنار ترنسپورت‌های مختلفی مانند REALITY، TLS، WebSocket، gRPC و XHTTP برای دیوایس‌های اندرویدی فراهم می‌کنه.
 این برنامه از قابلیت‌هایی مثل اضافه‌کردن کانفیگ وارپ، مدیریت لینک‌های ساب با بروزرسانی خودکار، مسیریابی تفکیکی، پروکسی برای برنامه‌های انتخابی، فرگمنت، Sniffing، نمایش لاگ‌های Xray، اسکنر آیپی تمیز کلودفلر، امکان تست کیفیت اینترنت، بررسی پینگ واقعی، تاریخچه مصرف دیتا و ... برخورداره.
 👉
