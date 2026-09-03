@@ -292,7 +292,7 @@
 <a href="https://t.me/ircfspace" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 این‌کانال با هدف دسترسی آزاد به اینترنت «به‌عنوان یک حق شهروندی»، به‌دور از هرگونه وابستگی حزبی، سیاسی، تشکیلاتی و ... فعالیت میکنه!https://ircf.space/contactshttps://x.com/ircfspace</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-12 03:54:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-12 08:17:51</div>
 <hr>
 
 <div class="tg-post" id="msg-2575">
@@ -308,7 +308,7 @@
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/ircfspace/2575" target="_blank">📅 18:47 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/ircfspace/2575" target="_blank">📅 18:47 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2574">
@@ -324,7 +324,7 @@ github.com/SinaXhpm/Echoes/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/ircfspace/2574" target="_blank">📅 11:52 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/ircfspace/2574" target="_blank">📅 11:52 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2573">
@@ -340,7 +340,7 @@ PingChannel
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/ircfspace/2573" target="_blank">📅 11:44 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/ircfspace/2573" target="_blank">📅 11:44 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2572">
@@ -357,7 +357,7 @@ alirazzazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 19.4K · <a href="https://t.me/ircfspace/2572" target="_blank">📅 11:41 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/ircfspace/2572" target="_blank">📅 11:41 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2571">
@@ -372,7 +372,7 @@ alirazzazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/ircfspace/2571" target="_blank">📅 11:34 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/ircfspace/2571" target="_blank">📅 11:34 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2570">
@@ -388,7 +388,7 @@ alirazzazi
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 15.7K · <a href="https://t.me/ircfspace/2570" target="_blank">📅 11:30 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.8K · <a href="https://t.me/ircfspace/2570" target="_blank">📅 11:30 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2569">
@@ -421,7 +421,7 @@ frontiertm.github.io/Pantegnos
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 35.6K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/ircfspace/2568" target="_blank">📅 07:54 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2567">
@@ -437,7 +437,7 @@ satellitetoday
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 36.4K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 36.5K · <a href="https://t.me/ircfspace/2567" target="_blank">📅 19:42 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2566">
@@ -468,12 +468,12 @@ github.com/telegramdesktop/tproxy-server
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/ircfspace/2565" target="_blank">📅 19:24 · 01 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2564">
 <div class="tg-post-header">📌 پیام #89</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JAlaoC8S_qGt3jEmM54DIoNM5ZNdvrNM6huaXAgO88pBhKrDIQsgLgVMtLS99TYyW-81cY-o-jlIS8s2VCxO4p8OW63quv08UIFW6LP_0HLEmcfLWsd2h6aLX1V90LWU0uR6KUMWsyqBElaDzHIFMawiaE8i_GqhyPRVTQq6qpKzp76xhZx9192JrUWmYckGY1b3DP79X4ssb5MiMuJ0aW6wV9GITzuPiJfI8ChPOdd3PMGqQ8m4yoAMgUUdl2PgqlZdIP3GHRSQPS9RhOzVuX_p2UrFo9XdoqB6DMO_y-y4FEcKu9MVSG1xhCQEcRcFYZRr7NHPV2cfNDaPtmG8Rg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OlkOQKVcU0wJrjGy5wmCu2X_0imH5LaTxiWNLuA7YaIKMT5eynYtYtprw603KvyjRTcrPtJ-M-n5eE3TSq0vmBHosXSqXnbqaqzep3maVc1kpGNEt5PeLIHXuPs0I5e3CZQ1l4KQLI_zVaYPBvBTItqm5yvYbqnYDBfqtY3UUjX3Ci8rEMNAGO1H_4fAsTGxuQNryq5b8gAUF3EnL-Ea43YXRtJco2Nh3rHBa_TtGqlvQTS5FK1WUJD40r3wb061okTpJfEtvzRPM9SXaJgrWjaYCXNMQGt7EnwFFS3FgUawEJ3llgneWU8_ImqLGyKnT1Pld8lYauiuJ1msr67f7g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در کدهای نسخه دسکتاپ از تلگرام نشانه‌هایی از یک پروکسی آزمایشی جدید با نام WEB مشاهده کردن، که از WebView و ارتباطات مبتنی بر HTTPS/WebSocket استفاده می‌کنه. این قابلیت هنوز در حال توسعه هست و مشخص نیست نسخه نهایی اون دقیقاً با چه معماری و مشخصاتی منتشر بشه.
 ©
 telelakel
@@ -489,7 +489,7 @@ telelakel
 
 <div class="tg-post" id="msg-2563">
 <div class="tg-post-header">📌 پیام #88</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/X513UFCPt59Y_eEL_Y5XyKns0wFA6cl9nq2YTXotkJPDxE2QuEYR_0FeixH3nQokfLguGCHJ8gibGnOaAbSqyVaOGJKH8goTc9oCI1_PpyD1ZHrVhca3HaO5rl7WpYdJMuSmBWQorMxfW7VPxHph5_jmnhKJEtZiEzd4jsKlHGQ1GdGXTHPw8CyvKk93Ll1bUrf_najcl7r8eiAlZ8r3oBNwWHzoXAFnj5jisbMcIb0nEmzC_hIsFWldBwYA4wAm5ICgQB3FNaaHzRqaLKVBT1g2Z9o5IH5lOHRtugHx18aDIMpM36L9KTjoCDEEiWgCtmHSXd1FtqrZAuMpMGc0eg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OQyXYYlzVLEL0PfE1q2LIYb12pjh19G0q8AcM5AhvjHFu_neAsWCYhKENim-bJYIYeUGpuGALY4YEl_34uqSahtFaARYil7HObKjs6LXwbqH_eGidh17EYxXQkcoyMOtoGxKn1C_ErvyRLLHeXfL5eBl9--ub8eOHCj_17eKZ3BiFZKwB-rjGZ0aZMayM9tRfLbg-el-1JWnX504pIr4WcZJBvc-VcZBsAzBWx-1vfEr-Q6GaMsPsN_TsB3UcexqZ65bjDoE_h-C-K1nSDrLo_rggw_WngVDjeT7Sp0goO_7n9b9JrJq7kT8EWQZ3hT8eImSF7BfOHjAn5txE7Lb1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اتحادیه اروپا با همکاری سازمان ETSI یک استاندارد امنیتی جدید برای VPNها با نام EN 304 620 معرفی کرده که در چارچوب قانون Cyber Resilience Act قرار می‌گیره. بر اساس این استاندارد، VPNهایی که در بازار اروپا عرضه میشن باید حداقل استانداردهای مشخصی در زمینه رمزنگاری، احراز هویت، مدیریت کلیدها و مقابله با آسیب‌پذیری‌های امنیتی داشته باشن و این موارد هم قابل بررسی و ممیزی باشه.
 البته این مقررات به معنی ممنوعیت VPN یا محدود کردن دسترسی به اونها نیست؛ هدفشون اینه که VPNهای ناامن و بی‌کیفیت از بازار کنار گذاشته بشن و سطح امنیت سرویس‌های موجود بالاتر بره.
 شرکت‌هایی مثل NordVPN، Surfshark، Cisco، Google، Palo Alto Networks و Airbus هم در تدوین این الزامات مشارکت داشتن. از طرف دیگه، ارائه‌دهندگان VPN باید آسیب‌پذیری‌های جدی و فعال رو سریع‌تر گزارش و برطرف کنن.
@@ -508,7 +508,7 @@ techradar
 
 <div class="tg-post" id="msg-2562">
 <div class="tg-post-header">📌 پیام #87</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OnqPT2CgXgz8c4GUh6nVVsUDpaCN6UsLC0FI5riTLevFwoylMA9kTc8vqlFauu8319Dswz3OEiJYHSM4SLOq_HUvXQPbAEKFKztb7dKG6aeS1i7QxLEPG4Wg4hihdE4qcIKc7N6TOxg7tppx8UGkXqHq3wA45WTyU8LwNWFofHSIq796hW86f4_RLfkgAXfTQ4CQgL88niGq6A-NcKs-XNwISniq3zZeMhLdOhSqOYMpuJ92cf4fTs6ilex0ATx9RVWolc1ybSL6F5DJkJNvQSn8c24tiPU1kSYmL4r7a8Hc1g6K38n5uXWfxSf7He9eJrx4-7NULL1Xc9iSNWoGqw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/u8KpcywDN5MMclUZxmDldE5pra2Vg8M5JglQxDCHbRknm9LwdE6VzAJNHQOKF4_Ho8VWBxFimzjSysP0ZP21Q5DT6SopLiPVC1r4eukLkJoEYKLXpuFQj_BPUZJfVObbjKx4Nnk9mWYBZzomtpo7Y5yLMBchwDzCFFjzR01anSBJCfi8Pv3uTFeO4J-EcxHROmuv3H_xxzUSChJZvv88NmHz4ge-ioCMY4ELOLhzuaFs1P4xdMFtmai9FDVZUDOElKkrzkGb329PWm2viCzlx-mSatBV7YLtLTNb6Bwc15Ns35rDmU6IBB9tAQ0oZlNrw54Bi5_poNSeATNHyDe4bQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تیم پس‌کوچه با بررسی نسخه اندروید فیلترشکن Line VPN که تا الان بیش از یک میلیون بار از گوگل‌پلی دانلود شده، ۶ ایراد امنیتی مهم در بخش‌های مختلف اون پیدا کرده، که در سطح بالا ارزیابی میشن.
 مشکل اصلی و مشترک در تمام این موارد یک چیزه، که اپلیکیشن در چند نقطه حساس نمی‌تونه با اطمینان تشخیص بده آیا اطلاعاتی که دریافت می‌کنه واقعاً از سرور مورد اعتماد اومدن یا نه، و آیا هویتی که برای اتصال استفاده می‌کنه فقط در اختیار یک کاربر مجاز قرار داره یا خیر.
 پس‌کوچه این وی‌پی‌ان رو بیش از اینکه سپر باشه، به ریسک امنیتی تشبیه کرده.
@@ -690,7 +690,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2550">
 <div class="tg-post-header">📌 پیام #76</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Kd4w1JqtDM0UDmKyP393gl-7jVCqBGGY2Gl9XsdE3dbrdsQ60OuUJIFao9MliajSrtpthGMumrZ8B0sWG4ERT_dhDE_DlKBVl7vwStBQDkOMFJZoSWCx71svq5Ebv9Tx9fY-gCRJD4TvScFTIcMffu3HpDXrOJGb2w3P63J5EX9VyppG6y571U__lWUy_2aEbj9zOooHkn08FprS0SEmUG20VUAXBHWbpOxf58AO5O67g_RvW9Zf_OdvSaxfZRaJxeCvhUkvb6La6EQ8TJ-S3ofGk5umXwA6KrItIHqxkaXjFGdG5E8UuK8x9Xi3rLmnqCBi-dRmtxTsSHLk7PSqXw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VEFQ-AHURFlBEJeAk3Mlpca-8oB0nYNmP6cUY5I8zdimCLcTS5FsfJgeJJYW-PHsCvhyBnj03vd6AuTuB9r7qK_EKInC5jE876HYqMTyoV_s2FLZTt6qQUxMpOT3UTd9KyTGwZtwj2zusk6XtlbDfwP-NEVa0l_PpWicZNJe3ZKFHevieeBbsh-zNhHyBDJHzPI4gtDtsaJH1VJWb1Tym-9P6YwW4DKoq_6b_E4fGLhWIsh1tYUHCM6bK9yjRgnOILxiSDMBOWrc7wIJXNqvYGhw9JjwGvW9tJCeB7zty0FGXgeq1Hec2S8A4Dd16n6lr3WkMegz16xGGbCMIK-f5w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">معاون ارتباطات مخابرات گفته دستورالعمل جدیدی برای محدودیت VPN روی اینترنت ثابت ابلاغ نشده و ممکنه از مشکلات فنی شبکه یا نحوه عملکرد خود فیلترشکن‌ها باشه!
 🤡
 در رابطه با اینکه اختلال‌های اینترنت وضعیتی فاجعه‌بار دارن که جای صحبت نیست؛ فقط اگر بدون دستورالعمل دارن گند میزنن، یعنی دیگه خیلی کاسه داغ‌تر از آشن!
@@ -706,7 +706,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2549">
 <div class="tg-post-header">📌 پیام #75</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PpOkQIWxqUAmSMO_4LUmE0z1sSh_imwnxtUfqqzsyyTx_4kkFiblMPd9Gp4C868IoVzJ3nU-H8NfvPCs8PTq5TBNvFMeSHhGPNvic-zWy4261bmvNQENCcKbE_T0XDaEBGlNIIwX4E_NuPTkfxsny9dXgaqcU5nbh6yWYxuv2A9a6qGgEFNWxBgsaCklBrO-_pkXeDuNyOGtXf7YcsdMjdl4UxC0pOBEtK1bFuXXfdQJNuIGL8q7UHl5VQi9l9wgs_CeUIgwabkRW7ulOOWEYc83X5VEU8dwPuzctIz_62Qs6sx9LZDmvDtOtW2Uyy7Vg1BBVWzKsD71hLKBEjuxwQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RSl10tmLGWGQoqZrR11E7ASEg2Su-TIYAPYjh7cES4OMiqQQ4y3jSd_QMKHcf4szVajdgwZ1lGcNVtVlESnGeyAeRmZoz5uwrZKxgidDHQ-lBdY3aSBHAsuyMVzTFcGNWhS2baRsoz97us8axvDEvki-NHG2ZTgHNBFzi4TOZJ8MtGro5lYZ8E944nyyrlPfjuOko4PHHKdHX_Q97j5XER1rfvYWMbhYXJ1NNPzN4GUbqZ9I_FSpVZjS3xPCbRr07I7Es84DqYxyTWqO7wEmuTW8UhWasDGavXPimucWK52UFh0X1WgL5OlAs93qe1yQfRRnwYt21CFhqaRRUxFrkg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از فیلتر شدن فوتبال ۳۶۰ و دستور رئیس‌جمهور برای پیگیری مشکل چقدر گذشته؟
 هنوز نه رفع فیلتر شده، نه کسی فیلترشدنش رو گردن گرفته!
 🔗
@@ -721,7 +721,7 @@ Teeegra
 
 <div class="tg-post" id="msg-2548">
 <div class="tg-post-header">📌 پیام #74</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/SDNQn1WvPacf6axsWAMTQL90jVfrvcPIFpHJ9p0jj88oJ2eaux0DQDP-_gFuYNOGjS6USIzCZP3YFJZVQJLvIbGQ-0iVwQ6j5lmgaN9OValH4P1qi7bEBNkVGxLowLcTYGS6inO7WgPDJ7zWcvGmiGj0xQ_uodonN0eNlJ-u9M1ZhYawFsTl69PulXl5fAOu9DLtkE-Gx4ePxIphJXmdH48CQl-QsfwWbTw43mhIsutz150ru5y2CG6fwADos1huJDX3B0cEsL99flG7OHM74wdHhqDeyvnye0Jev9pc_1ytQ-C6nycddcIqG4jodop1exVwfQFCd0oCzHlU5s9bIQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KT0rHAOw5e8aQkff0b8b5CEOumS0HQUzKPEgedci3jx6iphhoCfQfrScQ7TyzEYIQtjbZytUZvopcjTLBfQdZki5dUfexG86iYt84uEVFogFwguYz32x62y1ZMiqsNlplDTvog_15FTAKltGaC9qBlZnhYmwgDuMI0g0zp-frqPPm-GbM0-nWboBoSGdStpc6ZrVs-Ac6ajad8HdHXXPV6yHBCMgQPSl3NqE57DdR-aaGJD2h2_fbwC8ORQycCALV-CXZLo8LOmXC5bUMvlyuVSU3q1JV0_9WVnZkdPRWOjjLiMCTyK6Dn1DDCbqDFLWKa_E2WryF77fGBHWJEm2Mg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">پلتفرم لندین که برای ساخت لندینگ‌پیج بود، بدون اخطار قبلی فیلتر شد. بعد از یک‌روز که با تعهد در دادستانی رفع فیلترش کردن، اعلام شده دلیلش فروش آمپول لاغری در صفحه یک کلینیک زیبایی بوده!
 یعنی هنوز که هنوزه نفهمیدن فیلتر کردن یه کسب و کار چه آسیب‌هایی داره. هنوز که هنوزه نفهمیدن وقتی یک صفحه محتوای خلاف قوانین داره، کل کسب و کار نباید فیلتر بشه.
 🔗
@@ -915,7 +915,7 @@ github.com/shapeshed/aerial/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 27.7K · <a href="https://t.me/ircfspace/2536" target="_blank">📅 20:14 · 11 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/ircfspace/2536" target="_blank">📅 20:14 · 11 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2535">
@@ -1275,7 +1275,7 @@ github.com/2dust/v2rayN/releases
 •
 ɢɪᴛʜᴜʙᴍɪʀʀᴏʀ
 @ircfspace</div>
-<div class="tg-footer">👁️ 51.4K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 51.5K · <a href="https://t.me/ircfspace/2515" target="_blank">📅 17:54 · 04 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2514">
@@ -1354,7 +1354,7 @@ github.com/shayanheidari01/ShineNETVPN/releases
 
 <div class="tg-post" id="msg-2509">
 <div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OrnosgApRZtygifZ3gOsaxIkmTePQA_BnDpAH3H4fdU0y8osSGga-j2FrH7uAwayciYNVGrrwZ3oXBnSpu2NQvwwygDj5eMJWP06DzLmn9nzPo4JZvdQvMr7sspdwLLYkuX0eKSajLn_I2IzVIWvlUQqVc_7n-MhZSeKbpyXUAj5A-8-FTGmB4kgY-pPqtEKw9toHRD6lCvIzDfpsIuUKBpbAfzMepTkPVhch3__RHmJUqewnnysOMpGVP-KBxWMGznmRdgSUfx_JO49CIO1XaIuQCCu4IdhbywQIVKfuRmy9iA98h7RCJrF4z-BFhyLBLOid9Ih__hmH5S_azWrIA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NzTNi5noEQ7EQJq_Lrp13WHee5avDp7zJd-k2BhuiLvZWY8eEUIdVphs3-sgMnomRS4qk63sSj_az72VvvZGN0JOvMDguJxHwU03xucPyx3pOPDUXn5_HOxHMPBCuJ4FJGIbyHC8VfhJmL6Jci4X09OUt_qxooHT6DWZ1TZhH-3SMtMqQ87aQnNhI1vg_M5MnrP_qpOXYD0hOMvO_4l8d8Y9ia4THu1ORPOWmHFWNUmM5_PyMNPoe6sI6XuURyBmbtme01A2kGmJQDfMFww62pJA03cqNjr1x1s_nrA0Z5gtFVFfq6jhvtS4U0I3x4UXrZ6fc2tuGNxQe5a5DicBQg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سایت فوتبال ۳۶۰ عادل فردوسی‌پور توسط قوه عاقله فیلتر و دیشب چند دقیقه قبل از شروع برنامه زنده از دسترس خارج شد.
 هنوز علتش بطور رسمی اعلام نشده، اما این اتفاق پس از درخواست سرمربی پرافتخار(!) تیم فوتبال جمهوری اسلامی برای برخورد با این برنامه و یک روز پس از جوابیه به امیر قلعه‌نویی صورت گرفته!
 🔗

@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-12 03:54:12</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-12 08:17:51</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -326,8 +326,8 @@ z.ai
 <div class="tg-post" id="msg-948">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/pZi1sryuos89-M1h2ZpAqv5graC3XbErP6-GCOewCZ6OU-1GKMELqGjjVVTv9Wp9_ZX1oDO6MKIhVfI3_ihK3CWJimvZg7cOQXTEjlVTIV4J2d3CCEpixyHxijWXyHQ1YNLLxJN2HFhEK2aQHjci7T6Vh6qG04PEBxGP-UtREQ3iFSU7xmsHH8m5Fo2SkXpWNcHq2ZF9JbbT750uFN4641KjBfCaT82Ufek6MlyHFsT1CRbuF2PdndPQqqZFPq4FLMXzziKHOGU2iofVdXkXc9Ve_y94ovh-LK0Vf1h3HrFDZSj9Vt7IC-qc9xZKIZkL59UltKS-9NO9UnXD-lQ5tQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/vhv5FeukqQptsgsTAtGFBh0fbcf2l-P7sE08yWCTxlZZklvhMCdaJB1T38ZmjC9f5OAWxplBwbUjTzdezn6IwFZn_MiNvuXv3_aCnFBUHAy8ll-HkC9LkD8QH4Q21d6JJ6Kp-sNBzbh7BwYAZdvIkA_4ebYaGfw5y_dxcidPjFaiYTjYmUOfe6E91z1tZKYfYfJJZcrWi-RmyN1gRcVCA6HI8D6Wv-NyK-J-6hANBfhOVnjHn0_FGId0GiroE8MrlwOuJRu2GBzq_BOpBfkXwEjwJeo_kzExTTSlKWjPJghqSMMk3-f5iaQmXZ3lP2ooqVUkN7ZntRPLIe04Z_JXYA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/mwvRDhvEYbAb478m1fsFtH2q-x86-krDJr5Azh9dxUPtUtB0-yPoUBsYrRNpmkS-rhoYfYpoP8YuOqM-nYjoqmQFzl4_-wOaQh-r9dB9LINrujlW3FWVybJMgzSNYtAQn6Kpd96-1Q-mH1LFEj4caDw_CcuXbrVrTrtaQ7fqG3g54oXWoTAtFVlVC7OHCg-A0yEIfoOYmLj1bPeL0GP-6d0oeSrdkMos-hZEN04QX_Z8M53BkmssD62pYzGOTXsIHfUVqcPOu5jA4_MbTW2uIvqDdrlNO4mriNCrgKzUk7zl7bLHYndqcQd27wqHOe5Z2dSxCIZbfiDcUwHSSWjDEQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/lz1YCKglpirRLGgmqPAREeWq9s5Ed_w-H6WxZdNGoEJl1ui7PCD-WlxaqkB5L-8GsVKTla3DqBhu0EPe073iP7rFdt-b924q0UZ1H3KlyVuy1TMIYNaB7koryfBbf7KfjKXMokgkefXElyWJfXktCU6j-e1cCeWvWIx7vUEeSw6W7-415ADsaJ61lbsUXhCTV_ZWrQAKtzrUv16WWaG__PsGaj1GHapWiGaMEmrGkoTWeKrAXzx0_JGxBJFRVpU2YXrXoLdt-JM55vcn2hQXkE8sFCrVjMa0HiHcQHBrGUuoMPbz5ATmkJa7aSAsrixNnpXV7kqXBctYNj8xEYE8DQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">😒
 کلاد ایمیل میزنه به اون اکانتی که بن کرده که بیا fable5 استفاده کن.
@@ -339,7 +339,7 @@ z.ai
 
 <div class="tg-post" id="msg-947">
 <div class="tg-post-header">📌 پیام #96</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HEbNbnT4y0SLQdTwaAIQqUIsnP0_uzOE3H70XMAJQY5oE_hLuE1Cwzr3XlPonsjLcdoYCXTKDVQ2aevdV8CAzjaU-tZRoXD45cGCSIxegJqLh6yVX6-TQLXGov-gjMpzGjAHM0EQmzeK3f1Wk0zq-eLXeoNazJgI1mzSYw79NU1rErg2mFt1jUiUHUm_Qoow9CyBeFCnpuNRuSXIWNNFMj4bdcjL4U7lepyKtMGaHD5ura_B4vFPyBtPPYFDoA_rL4GgKcTlN8FsmWk5WUj--MAhoPGIG-28WHZYQtGfHo14ufnN6lLjRglCq4wzPu3szjDQH-ci5yodmQd9mkrXkw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Bu1HBJTUofLj4dp3FnlQiuQgeXf6JBMvkDby9a5PF3Bpsuuz8_DiHsOuhH8o2jYLuPbzyuE-AaZUQckiAJyHsiMp2MYdPfMDY4-uLvdZg5tGj83UeMiFCBhu5MFDABvItAwaIXm7KYX90sUcR1cLgjxl6HVUND0qghgXdpJ4Yl5OZ_fdNqyhIkMp9YwWZk4-DZHTadaJjP2Je-rFuH8PmA7FwlGtIVxVrWPy2jeKIlV8JoQpVuRVGfNHq8Xr_pGQnEQtzd9Gwwgq9vVPBrrI-Cirxpw4UdksOqJi3s3bVjDT3FVVR0b8_t8_SgUwkeqLLCZqBMqlqkuQtFYaFVl1Lg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✅
 علی‌بابا هم اعلام کرد که مدل Qwen 3.8 با 2.4 تریلیون پارامتر و به صورت open weight به زودی منتشر میشه و در حد و اندازه های مدل های سطح بالا بعد از fable5 هست.
 خواهیم دید
