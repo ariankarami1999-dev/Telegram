@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-13 03:42:57</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-13 08:19:33</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -1450,7 +1450,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-870">
 <div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c_qnODrXK_Ac1bzvxH_BWAN7qm8Sk4vzjqKXVayGYuQQWCp9rq9XktlZ_0rBtIyHFnEDMk4zpnpXMTyeVdx4qo8lwqIL_gN8-Zm32cSnP5pYyqxf-6p0Vrl6y_Gx6u8gifUJB8ltHHmjj27V7ocPbpQ-KoSSE9I_TAGijos13ED0jhinooosyt2pE-x_JoSTG24ff48rQmbsuHfU68Afncz9MhU4uLEV6RCIRvD-r0BefJ77TvPDh1oFW7CDGi7d078mzTZ0hvrtZKkcEj-dVQsrtyiw-KWfi3rilrNfS3FUIJGq9YcLDjn1gsQipCPHbWX0UPmhdrl-b2fYKUDfXw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Tl_tqu4qOufx2_J8MyuPUdgTl4tMQQXIupynL63bDAScYTyDdT1yXskpxWFglc0rMMqPIigH6Lso-5_yZKtpGX_S4vO5voepdY38MhYhg_Hnugb9mbp2iFAx_Dhtd7I5Ty1JdN04jo6WdRCRKwfHlKEq8YTfOpT1MVfTu7VppOoX6aKKe3ljgGDSeBq5elTNSq-Wh6337m_SlIyfxBqR68uB6ir2GdiJ_4IH8rOnJG4uXz9qo1HWgyV2r5aygihE5aJjZIbosluJBlCyQSLij1iFelkA-IsYG36-xwcmeJ-A2McCHCM6G9iOcTarM5KHtNc8-epfZWyV9xshR6ZUVw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔍
 رندرینگ سمت سرور در مقابل سمت کلاینت: توصیه‌ های گوگل
 👨‍💻
@@ -1511,7 +1511,7 @@ https://www.google.com/search?q=دانلود+فیلم&hl=fa&gl=IR
 
 <div class="tg-post" id="msg-867">
 <div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kZDb2vZTnizbcnvIbavW--P33jqRASxuL8-iAPS25OkCSIOZzuQyj0k7GqUA9urWJFQomceQKNnRRgehZUxgPQIZVuBeHbX7QL0MlhaI9SHaWnjxOMF02CGtshzrN_d7nABHiIrJ2xhd6UoN8vHfQB3mznJtnQwFAlzVJW5ZnCrIQJ4gP9m39JQDsjztGQJ5L3OG36yagX7dINao93jerWxSVpOnZqjMQ-AcBN0tP8EQoyHp46BaJHZxIuPe__-AtVc3jOs717yEu2vD6-jyt6j1U839JXHA3GY86h1ioAGUcNrqu6RPpM8xQc1UWk8e33vuSZn-Qfazlu2u_auFhg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/e9C0yzHkDqKiqEh8vIgw1src03_0r4k0fXFSyPQqgSBgMKLmlSfyouWVs9LqNeHPIPgPq_0VoK16YSQMA509-AdH1dYyg9nV5asKLvE-RZ4AtRREHBz08jyabR6eHGU3H0n2yScveE89jt4zdE6fPvgvMTgwQkK7uskTwNnOG0C69IGkGUZLQQKTKgVZX1rnlp4e8iiceXXEnmOmi3g0av09Dq2Pz8eVn2elKbkgou2jDYPu5CTK8UBcKgU_cDmNBcgcjjJx3jlBktO-fivET8kSfmPgcQExh2pTa9iQNv5-uvExdkwDcnDS5FiL4ukZNzLr3qbeuyMG-ASiH4g82A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎯
 گوگل مستندات Google-Extended را آپدیت کرد: کنترل بیشتر روی داده‌های آموزش AI!
 🌐
@@ -2438,10 +2438,10 @@ neural networks
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6689285f08.mp4?token=oxKGy1ntz6rXEj_KeG1Fujvl7vLJ54oV6eE1_KOcXTpsNh_uKcrziYg3tRR6JnZ_XWYuJJLptw8KhfsH3msqUE_oLzUo0NbdkBJNJD5eLgP0TuWegx4eNZi-BSqvpe-ADc8xVf2mZQF28pkXVP_UxqlVL7Uh9apkJKmDAvhs6JpTG5ALkUafmyXFN8k4Z1C_Pc1SA_KRs7IDze55Wmq2tC2QkkIn-35x9z6nBfGNKQB0Ky7bM05RBhAFAbFuThdEVU8auDc0fJZ1xoh48Bkn9qr4UP4EIz175_KRZzqC8ZED9yw6J7eVz9wI_gSXYzUEUfnq8raaylBkueo1T0S1XQ" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6689285f08.mp4?token=IEMg_UZGzgu8ZcVMcyDD-iQQrD6iCLOtfpuCaybfR-rQ_gT_whB8iXE-ixanrPpNDYug8gDm7ScllQf1GogE7D0W_N-Tz9MsgsPwwERdA-OcRI5U1Vx_m9CGGeFBu6uxk1vz5chZO5jvIH7ZNFLLo2ucVYPCnE8T9IORJU1c65_7l5uaRVSR0uKiZQzKgs5nOsXp1tjJ_pE8OD-bj3O9bczHnyTf--11g4DBK2dk2I17S4DRQA05J-FHdJVYeZHJ4pbTwBXmF4Z3IoN6eIsu5dVw1YzMukse9-mKik4EDZoYqBdfTTP_3L1vzKQOG2FDKanfNZe2sxllazjTvpZN5Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6689285f08.mp4?token=oxKGy1ntz6rXEj_KeG1Fujvl7vLJ54oV6eE1_KOcXTpsNh_uKcrziYg3tRR6JnZ_XWYuJJLptw8KhfsH3msqUE_oLzUo0NbdkBJNJD5eLgP0TuWegx4eNZi-BSqvpe-ADc8xVf2mZQF28pkXVP_UxqlVL7Uh9apkJKmDAvhs6JpTG5ALkUafmyXFN8k4Z1C_Pc1SA_KRs7IDze55Wmq2tC2QkkIn-35x9z6nBfGNKQB0Ky7bM05RBhAFAbFuThdEVU8auDc0fJZ1xoh48Bkn9qr4UP4EIz175_KRZzqC8ZED9yw6J7eVz9wI_gSXYzUEUfnq8raaylBkueo1T0S1XQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6689285f08.mp4?token=IEMg_UZGzgu8ZcVMcyDD-iQQrD6iCLOtfpuCaybfR-rQ_gT_whB8iXE-ixanrPpNDYug8gDm7ScllQf1GogE7D0W_N-Tz9MsgsPwwERdA-OcRI5U1Vx_m9CGGeFBu6uxk1vz5chZO5jvIH7ZNFLLo2ucVYPCnE8T9IORJU1c65_7l5uaRVSR0uKiZQzKgs5nOsXp1tjJ_pE8OD-bj3O9bczHnyTf--11g4DBK2dk2I17S4DRQA05J-FHdJVYeZHJ4pbTwBXmF4Z3IoN6eIsu5dVw1YzMukse9-mKik4EDZoYqBdfTTP_3L1vzKQOG2FDKanfNZe2sxllazjTvpZN5Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔍
 گوگل با ۶۰ لینک در AI Overview!  آیا کسی روی لینک های پیشنهادی کلیک می‌کند؟
