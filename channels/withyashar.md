@@ -292,14 +292,14 @@
 <a href="https://t.me/withyashar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 چنل رسمی«اتاق جنگ با یاشار»اخبار لحظه ای و فوری از‌ جنگ با تحلیل📸instagram.com/yashar🐦x.com/yasharrapfa📺youtube.com/yasharrapfa⛑️paypal.com/paypalme/yasharrapfa</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-14 01:27:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-14 03:13:40</div>
 <hr>
 
 <div class="tg-post" id="msg-22315">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">نتانیاهو: جمهوری اسلامی ضعیف‌تر از همیشه است و سقوط آن در دسترس قرار دارد؛ این حکومت برای بقای خود می‌جنگد
 @WaRoom</div>
-<div class="tg-footer">👁️ 32.9K · <a href="https://t.me/withyashar/22315" target="_blank">📅 01:00 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/withyashar/22315" target="_blank">📅 01:00 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22314">
@@ -307,7 +307,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/vrnvjG0F8mQbTS4Yn3staU43HvYcHsUm-wYwdWJoU68BIdmgy0uyHB206v7A7Q-JirJHClrG50RkqKTtIghxO40BCKjsTSgah2lwu5TEDryuJXYIoJ2I_IXk1TzkY7lXdIKD5DjNz5sKC7kLnxFdf0OdQOJ4gRy0fCJpetuWgSHIuSkreC8yBSGdhK_ooBapPSyRbclgnSDv6YaBCHEnYevkWMtxL5C9TGKLsCVHPAkGrkIk7ipbZVVFk5PUn_146w9pX7QqLCQrCLVV1j99V_Cctg7sYRA9RqDlQCi96PjqkEF56vg0NIk6bPYLg1joiWcd01Ou5QvHA6kAiZhUQQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کشتی حامل گاز مایع "ال غشامیه" متعلق به قطر، مسیر خود را از "راس لفان" در قطر به "الفجیره" در امارات متحده عربی تغییر داد، پس از آنکه این کشتی یک مانور چرخش ناگهانی و غیرقابل توضیحی را در مسیر جنوبی انجام داد، مسیری که توسط ایالات متحده پشتیبانی می‌شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 75.9K · <a href="https://t.me/withyashar/22314" target="_blank">📅 23:51 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 94.8K · <a href="https://t.me/withyashar/22314" target="_blank">📅 23:51 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22313">
@@ -319,12 +319,12 @@
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 92.3K · <a href="https://t.me/withyashar/22313" target="_blank">📅 23:25 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/22313" target="_blank">📅 23:25 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22312">
 <div class="tg-post-header">📌 پیام #97</div>
-<div class="tg-footer">👁️ 98.4K · <a href="https://t.me/withyashar/22312" target="_blank">📅 23:09 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22312" target="_blank">📅 23:09 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22311">
@@ -346,28 +346,28 @@ Revolution
 Resolution
 به معنی «راه‌حل» یا «حل‌وفصل» از نظر تلفظ و شکل نوشتاری بسیار شبیه هستند و ترامپ با همین شباهت، به عمد سیگنالی گفت انقلاب.
 @WarRoom</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/22311" target="_blank">📅 22:54 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22311" target="_blank">📅 22:54 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22310">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">دونالد ترامپ درباره ایران : به شی جین‌پینگ گفتم لطفاً در موضوع ایران دخالت نکنید. چین واقعاً درگیر این موضوع نیست و دخالت بسیار کمی دارد؛ در حالی که می‌توانست نقش و دخالت بسیار بیشتری داشته باشد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/22310" target="_blank">📅 22:37 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22310" target="_blank">📅 22:37 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22309">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-text">ترامپ درباره تنگه هرمز: همین حالا خطوط لوله در حال ساخت هستند. مسیر زمینی از طریق سوریه هم در حال ساخت است؛ در واقع، این مسیر باز است. مردم با کامیون‌های بزرگ، کامیون‌های عظیم حامل نفت، از طریق سوریه عبور می‌کنند. مسیرهای جایگزین زیادی برای تنگه هرمز در حال ایجاد است. تنگه هرمز دیگر مانند گذشته نیست
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/22309" target="_blank">📅 22:33 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/22309" target="_blank">📅 22:33 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22308">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">ترامپ درباره ایران: آنها رادار نصب کردند، زیرا ما قبلاً آن را از کار انداخته بودیم. حالا ما آن را برای بار دوم از کار انداخته‌ایم. اکنون ما هیچ فعالیتی را مشاهده نمی‌کنیم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/22308" target="_blank">📅 22:33 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22308" target="_blank">📅 22:33 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22307">
@@ -382,7 +382,7 @@ Resolution
 <div class="tg-text">خبرنگار: ۱۸ نفر در جنگ با ایران جان خود را از دست داده‌اند. ما شاهد حضور نیروهای نظامی برای مدت زمان بی‌سابقه‌ای بوده‌ایم.
 ترامپ: بی سابقه؟ مگه نمیدونی ما چه مدت در ویتنام حضور داشتیم؟
 @WarRoom</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/22307" target="_blank">📅 22:25 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/22307" target="_blank">📅 22:25 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22306">
@@ -398,7 +398,7 @@ Resolution
 ممکن است خیلی زود به کوه کلنگ ضربه بزنیم اگر
 اتفاقی در حال رخ دادن باشد
 @WarRoom</div>
-<div class="tg-footer">👁️ 105K · <a href="https://t.me/withyashar/22306" target="_blank">📅 22:18 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/22306" target="_blank">📅 22:18 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22305">
@@ -412,7 +412,7 @@ Resolution
 </div>
 <div class="tg-text">ترامپ: اگر یک کشور با ما رفتاری نامناسب داشته باشد، ما هیچ تعهدی برای انجام هیچ‌گونه معامله تجاری با آن کشور نداریم.
 @WarRoom</div>
-<div class="tg-footer">👁️ 103K · <a href="https://t.me/withyashar/22305" target="_blank">📅 22:11 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22305" target="_blank">📅 22:11 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22304">
@@ -430,21 +430,21 @@ Resolution
 چند هفته دیگر
 زمان می‌برد و هنوز جزئیات آن نهایی نشده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/22304" target="_blank">📅 21:50 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/22304" target="_blank">📅 21:50 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22303">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">شبکه NBC:سربازان آمریکایی پس از درگیری با ایران، دوره استراحت خود را در یک تفرجگاه گردشگری در تایلند سپری می‌کنند؛ در حالی که فضای متشنج ناشی از جنگ با ایران همچنان حاکم است. این صحنه، تضاد میان فضای تفریحی تفرجگاه‌ها و وضعیت آماده‌باشی را که ارتش آمریکا به دلیل جنگ در آن قرار دارد، به تصویر می‌کشد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/22303" target="_blank">📅 21:47 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22303" target="_blank">📅 21:47 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22302">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">قرارگاه خاتم الانبیا : حملات پیش دستانه علیه پایگاه آمریکا در اردن که در حال آماده سازی برای حملاتی علیه کشور بودند را انجام دادیم!
 @WarRoom</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/22302" target="_blank">📅 21:27 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22302" target="_blank">📅 21:27 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22301">
@@ -452,14 +452,14 @@ Resolution
 <div class="tg-text">مقام امریکایی به نیویورک‌تایمز: ارزیابی‌های اطلاعاتی آمریکا نشان می‌دهد ایران ممکن است به‌جای مذاکره به دنبال طولانی‌کردن جنگ تا انتخابات میان‌دوره‌ای آمریکا باشد
 تهران درک روشن‌تری از توانمندی‌های نظامی خود پیدا کرده و ممکن است در حال بررسی یک تشدید قابل‌توجه تنش باشد ، ممکن است بار دیگر به سطح تنش‌ها در ماه ژوئیه بازگردیم
 @WarRoom</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/22301" target="_blank">📅 21:20 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22301" target="_blank">📅 21:20 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22300">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">کانال ۱۲ اسراییل : امشب جمهوری اسلامی شروع کننده جنگ بود و به پایگاه امریکا در اردن موشک شلیک کرد
 @WarRoom</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/22300" target="_blank">📅 21:07 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22300" target="_blank">📅 21:07 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22299">
@@ -467,14 +467,14 @@ Resolution
 <div class="tg-text">کانال ۱۲ اسرائیل و باراک راوید : مقام آمریکایی می‌گوید:
 «تا این لحظه، ما از هیچ حمله‌ای به پایگاه‌های آمریکا در اردن اطلاع نداریم.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22299" target="_blank">📅 20:39 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22299" target="_blank">📅 20:39 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22298">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">گزارش‌ شنیده شدن صدای‌ انفجار در اردن
 @WarRoom</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22298" target="_blank">📅 20:14 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/22298" target="_blank">📅 20:14 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22297">
@@ -482,7 +482,7 @@ Resolution
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SV8yBV1l-8WkZSkO-IdkTSmMVEuweF8bTupPu_sLE68n_Wy0L28gKZmi_CS-03yhxIFomyxGfqTvwboQOlTuWk8LiyGar-2_yTtFklHmaaItWKaV5dDhYtyiZHwqg07k11R95eeV0GZzrP3jgVlE24OX8GimwBnGz22W3P6WkxE8orJ_ijzYtqeG3xFDUVK07O2ZPMe-hPaoh8L4KFbyyfXVQqKsHtRkhnvey4Z8oOobNLh-z-IdhnA9SR__H_kaPjOpF88ngyhBP1Sh_D_IBxOXe622IqnCTMTl688MNLsUCbBcGDfKMp6CFATmpzQr0d3NMLR2E4MwKC8Wei1ARA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ در‌ تروث: دیوانگان چپ افراطی، دموکرات‌ها و کمونیست‌ها ترجیح می‌دهند ما در جنگ ایران شکست بخوریم تا اینکه رئیس‌جمهور دونالد جی. ترامپ این جنگ را برای آمریکا پیروز شود. به عبارت دیگر، آنها ترجیح می‌دهند ما ببازیم تا اینکه پیروز شویم! این افراد بسیار بیمارند و از نوعی اختلال شدید به نام «سندروم جنون ترامپ» یا TDS رنج می‌برند؛ اصطلاحی که گاهی برای «سندروم جنون ترامپ» به کار می‌رود
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22297" target="_blank">📅 20:05 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22297" target="_blank">📅 20:05 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22296">
@@ -497,7 +497,7 @@ Resolution
 برد زیاد، هزینه پایین، طراحی ماژولار و جایگزینی سریع نابودی در جنگی
 تمرکز خواهد داشت.
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22296" target="_blank">📅 19:54 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22296" target="_blank">📅 19:54 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22295">
@@ -507,7 +507,7 @@ Resolution
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22295" target="_blank">📅 19:21 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/22295" target="_blank">📅 19:21 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22294">
@@ -522,7 +522,7 @@ Resolution
 <div class="tg-text">وزیر خرانه داری ، بسنت : نفت به ۴۰ دلار سقوط میکند!
 در واقع فکر می‌کنم بعد از این، در بازار نفت با مازاد عرضه زیادی روبرو خواهیم شد. احتمالاً قیمت نفت خام را در محدوده ۴۰ تا ۵۰ دلار خواهیم دید.
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22294" target="_blank">📅 19:02 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22294" target="_blank">📅 19:02 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22293">
@@ -539,7 +539,7 @@ Resolution
 ما امروز یک بانک دیگر را تحریم خواهیم کرد و احتمالاً هفته آینده نیز یک بانک دیگر را تحریم خواهیم کرد.
 ما به سیستم مالی می‌گوییم: بازیگران بد، ما می‌دانیم شما کیستید. شما می‌دانید که کیستید. تمام شد.
 @WarRoom</div>
-<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/22293" target="_blank">📅 19:01 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22293" target="_blank">📅 19:01 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22292">
@@ -558,7 +558,7 @@ Resolution
 ما آن‌ها را از نظر اقتصادی به زانو درخواهیم آورد. آن‌ها در چیزی که من "چنگال مرگ اقتصادی" می‌نامم، گرفتار شده‌اند.
 ارز آن‌ها در حال سقوط است و صادرات نفت آن‌ها به صفر رسیده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/22292" target="_blank">📅 19:01 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22292" target="_blank">📅 19:01 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22291">
@@ -568,7 +568,7 @@ Resolution
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 106K · <a href="https://t.me/withyashar/22291" target="_blank">📅 18:48 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/22291" target="_blank">📅 18:48 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22290">
@@ -576,7 +576,7 @@ Resolution
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m565DHuq9fBN16m50IOnuTE9Zuuz_Bs4K3OlqTDbepfj_587SXN0lFzVDoP5q5RIPZp4R45kvDR59EqLtYNArqbL6gZRenlAprCwPCOjbEPFAYjjUBCJh7h7efGLtnmIeQTHfe_d8iX8hqtAG7v0sBh0hY0w8UqD8TE3yqWWuNDAoGP-1HjRjcPTHo3WaBTUJfH4ctEgJccTwRVXBJbUW5zFscmrZRHep3i9fhvSWxCOixXEZV_jJFMcROS_150g_wVJ436mdIpEXp0kV2l5t5U6Uot23ZI_LjT8tbeg5cF2RyI1nP8qPeVe8s-QvK9nCbHLEbnDlj4tk_0ilHVuNw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سنتکام : چتربازان ارتش ایالات متحده تجهیزات ارتباطی را در مکانی دورافتاده در خاورمیانه مخفیانه مستقر می‌کنند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/22290" target="_blank">📅 18:34 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 109K · <a href="https://t.me/withyashar/22290" target="_blank">📅 18:34 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22289">
@@ -591,14 +591,14 @@ Resolution
 <div class="tg-text">دیدبان اتاق جنگ : سلام یاشار جان امروز توی تونل خرم اباد بروجرد پر از لانچر بود
 ولی هفته قبل که اومده بودم نبودن
 @WarRoom</div>
-<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/22289" target="_blank">📅 18:30 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 110K · <a href="https://t.me/withyashar/22289" target="_blank">📅 18:30 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22288">
 <div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-text">رویترز گزارش می‌دهد پنتاگون دستورالعمل جدید غربالگری کمبود تستوسترون در نیروهای نظامی ۳۰ ساله و بالاتر را موقتاً پس گرفته تا آن را به‌روزرسانی کند. این دستورالعمل قرار بود غربالگری سالانه جداگانه‌ای برای مردان و زنان ایجاد کند و در صورت نیاز، آزمایش خون و درمان هورمونی را دنبال کند. پنتاگون می‌گوید هدف از این طرح، شناسایی مشکلات هورمونی و مرتبط با سطح انرژی و در نتیجه افزایش آمادگی و توان عملیاتی نیروهای نظامی است. دستورالعمل موقت فعلی همچنان اجرا می‌شود.
 @WarRoom</div>
-<div class="tg-footer">👁️ 104K · <a href="https://t.me/withyashar/22288" target="_blank">📅 18:20 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 107K · <a href="https://t.me/withyashar/22288" target="_blank">📅 18:20 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22287">
@@ -606,7 +606,7 @@ Resolution
 <div class="tg-text">آمریکا تحریم‌های جدیدی مرتبط با ایران اعمال کرد و سه نهاد را هدف قرار داد. در میان این تحریم‌ها، نام «گلدن گلوب دمیر چلیک» (Golden Globe Demir Çelik)، یک شرکت مستقر در ترکیه، دیده می‌شود که وزارت خزانه‌داری آمریکا آن را به سپاه پاسداران مرتبط دانسته است. بر اساس اعلام آمریکا، این شرکت در شبکه فروش نفت مرتبط با سپاه فعالیت داشته و در معاملات نفتی ایران نقش داشته است
 @WarRoom
 🚨</div>
-<div class="tg-footer">👁️ 108K · <a href="https://t.me/withyashar/22287" target="_blank">📅 17:45 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22287" target="_blank">📅 17:45 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22286">
@@ -620,7 +620,7 @@ Resolution
 </div>
 <div class="tg-text">پرتاب موشک از کرمان
 @WarRoom</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22286" target="_blank">📅 17:35 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/22286" target="_blank">📅 17:35 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22285">
@@ -631,7 +631,7 @@ Resolution
 شنبه با ولادیمیر پوتین در مسکو و یکشنبه با ولودیمیر زلنسکی در کی‌یف
 دیدار کنند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22285" target="_blank">📅 17:17 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/22285" target="_blank">📅 17:17 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22284">
@@ -642,7 +642,7 @@ Resolution
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22284" target="_blank">📅 17:12 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/22284" target="_blank">📅 17:12 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22283">
@@ -651,7 +651,7 @@ Resolution
 ۱۲ نظامی آمریکایی زخمی شده‌اند
 .
 @WarRoom</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22283" target="_blank">📅 16:21 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22283" target="_blank">📅 16:21 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22282">
@@ -664,7 +664,7 @@ Resolution
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22282" target="_blank">📅 14:56 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22282" target="_blank">📅 14:56 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22281">
@@ -679,7 +679,7 @@ Resolution
 <div class="tg-text">من از ۶ سال پیش استوری کردم، به دوستای نزدیک و بچه‌های پیجم گفتم! از اتاق جنگم ۴-۵ بار گفتم، بازم میگم ما تا آخر ۲۰۲۸ تو جنگیم و درگیریم! حالا بقیشو من روحیه میدم تا بکشین تا تهش
 🙌🏾
 پس دیگه تکرار نمی‌کنم، هر کاری می‌کنید توشه راه رو داشته باشید. حتی فردا صبح…</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22281" target="_blank">📅 14:44 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/22281" target="_blank">📅 14:44 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22280">
@@ -693,13 +693,13 @@ Resolution
 </div>
 <div class="tg-text">اسکله بوشهر ، کشتی هدف قرار گرفته شده توسط آمریکا
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22280" target="_blank">📅 14:39 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22280" target="_blank">📅 14:39 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22279">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">رویترز: برخی تأمین‌کنندگان چینی مواد معدنی کمیاب، از فروش و ارسال این مواد به شرکت‌های آمریکایی خودداری می‌کنند. این شرکت‌ها نگران‌اند که به‌دلیل همکاری با برنامه‌های آمریکایی برای بررسی و شفاف‌سازی زنجیره تأمین، با مجازات دولت چین روبه‌رو شوند. چین اوایل…</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22279" target="_blank">📅 14:20 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22279" target="_blank">📅 14:20 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22278">
@@ -709,60 +709,60 @@ Resolution
 تولید تراشه، هوافضا و تجهیزات دفاعی و نظامی
 کاربرد دارند
 @WarRoom</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22278" target="_blank">📅 14:14 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/22278" target="_blank">📅 14:14 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22277">
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">صحبتهای زیبای یک کاربر : ‏آقای ایرج مصداقی، نمی‌خواهید این حاشیه‌ها را تمام کنید؟ صبح تا شب مقابل دوربین نشسته‌اید و به این و آن حمله می‌کنید؛ نتیجه‌اش هم چیزی جز خوراک دادن به پهلوی‌ستیزها و فراهم کردن بهانه برای حمله به رضاشاه دوم نیست. ‏شما عضو جریان عدالت…</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22277" target="_blank">📅 14:03 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22277" target="_blank">📅 14:03 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22276">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">ایرج مصداقی متولد۱۳۳۹ ، نویسنده و زندانی سیاسی دهه ۶۰ و از بازماندگان اعدام‌های سال ۱۳۶۷ است که حدود ۱۰ سال در زندان‌های اوین، قزل‌حصار و گوهردشت زندانی بود و بعدها خاطراتش را در مجموعه چهارجلدی «نه زیستن، نه مرگ» منتشر کرد.  مصداقی در سال‌های ابتدایی دهه…</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22276" target="_blank">📅 13:37 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/22276" target="_blank">📅 13:37 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22275">
 <div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">من کدومم ؟
 😁</div>
-<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22275" target="_blank">📅 13:10 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/22275" target="_blank">📅 13:10 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22274">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromNokte_sanj</strong></div>
 <div class="tg-text">من فیلمبردارو زنده میخوام</div>
-<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22274" target="_blank">📅 13:08 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 115K · <a href="https://t.me/withyashar/22274" target="_blank">📅 13:08 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22273">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">جی دی ونس: ما تا زمانی که ایران از شلیک به کشتی‌ها دست نکشد، با آن مذاکره نخواهیم کرد @WarRoom</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/22273" target="_blank">📅 12:53 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22273" target="_blank">📅 12:53 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22272">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">الجزیره: ایران لیست سیاه ( متخلفین ) خود را برای کشتی‌ها به بیش از ۵۰ مورد کشتی به‌روزرسانی کرده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22272" target="_blank">📅 12:51 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22272" target="_blank">📅 12:51 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22271">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-text">فایننشال‌تایمز تایمز از تلاش میانجیگران عمانی و قطری برای تدوین چارچوبی جدید برای مذاکرات میان ایران و امریکا با هدف مدیریت بحران میان دو کشور خبر داد
 @WarRoom</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22271" target="_blank">📅 12:50 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22271" target="_blank">📅 12:50 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22270">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">من کدومم ؟
 😁</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22270" target="_blank">📅 12:23 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22270" target="_blank">📅 12:23 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22269">
@@ -776,7 +776,7 @@ Resolution
 </div>
 <div class="tg-text">کامتم زیر پست جدید و جنجالی نتانیاهو
 https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22269" target="_blank">📅 11:49 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22269" target="_blank">📅 11:49 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22268">
@@ -784,7 +784,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromMohammadreza</strong></div>
 <div class="tg-text">سلام یاشار جان
 امروز بانک ملت شعبه مرکزی شیراز رو داشتن دور تا دورش آهن جوش میدادن ساختمونه شیشه‌ایه داشتن آهن دورش جوش میدادن خودشونم میدونن قراره چی بشه</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22268" target="_blank">📅 11:40 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22268" target="_blank">📅 11:40 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22267">
@@ -793,7 +793,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 به‌زودی دشمن رو در میدان غافلگیر میکنیم
 رفتارهایی با دشمن خواهیم داشت که کاملا گیج، مبهوت و شگفت‌زده خواهد شد
 @WarRoom</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22267" target="_blank">📅 10:46 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/22267" target="_blank">📅 10:46 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22266">
@@ -808,7 +808,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 <div class="tg-text">بیش از ۵۰ هزار نفر شامگاه پنجشنبه در مراسم مذهبی «سلخوت» در محوطه دیوار غربی (دیوار ندبه؛ بخشی از دیوار حائل محوطه کوه معبد در اورشلیم) گردهم آمدند و به دعا پرداختند. بنیاد میراث دیوار غربی اعلام کرد که از آغاز ماه «اِلول»، بیش از ۵۰۰ هزار نفر در مراسم سلخوت در این محل شرکت کرده‌اند. این مراسم که از ۱۴ اوت آغاز شده، تا شب یوم‌کیپور در ۲۰ سپتامبر ادامه دارد. پس از آن، روش‌هشانا (سال نوی یهودی) از شامگاه ۱۱ تا ۱۳ سپتامبر و یوم‌کیپور از شامگاه ۲۰ و ۲۱ سپتامبر برگزار می‌شود
 «این مراسم در آستانه اعیاد بزرگ یهودی برگزار شد؛ دوره‌ای که از شامگاه ۱۱ سپتامبر با روش‌هشانا آغاز می‌شود و تا ۴ اکتبر ادامه دارد و مقام‌های اسرائیلی نسبت به احتمال حمله ایران در این دوره هشدار داده‌اند.»
 @WarRoom</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/22266" target="_blank">📅 10:24 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/22266" target="_blank">📅 10:24 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22265">
@@ -829,12 +829,12 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 و اگه
 ما امروز از جنگ علیه ایران خارج بشیم هم بازسازی این کشور ۲۵ سال طول میکشد
 @WarRoom</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22265" target="_blank">📅 10:08 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/22265" target="_blank">📅 10:08 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22264">
 <div class="tg-post-header">📌 پیام #49</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/22264" target="_blank">📅 09:56 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/22264" target="_blank">📅 09:56 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22263">
@@ -854,7 +854,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/22263" target="_blank">📅 04:09 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 134K · <a href="https://t.me/withyashar/22263" target="_blank">📅 04:09 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22262">
@@ -862,7 +862,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 <div class="tg-text">اعلیحضرت همایون شاهنشاه آریامهر محمدرضا پهلوی
 : هیچوقت به زندگی فعلی خود قانع نباشید و همیشه دنبال بهتر کردن زندگی خود باشید.
 @WarRoom</div>
-<div class="tg-footer">👁️ 132K · <a href="https://t.me/withyashar/22262" target="_blank">📅 03:44 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 133K · <a href="https://t.me/withyashar/22262" target="_blank">📅 03:44 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22261">
@@ -871,7 +871,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22261" target="_blank">📅 03:22 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/22261" target="_blank">📅 03:22 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22260">
@@ -887,7 +887,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 بیش از ۵۶۰ هزار دلار رمزارز متعلق به حماس (گروه اسلام‌گرای فلسطینی)
 را که برای تأمین مالی این گروه در نظر گرفته شده بود، توقیف کرده است.
 @WarRoom</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/22260" target="_blank">📅 03:20 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/22260" target="_blank">📅 03:20 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22259">
@@ -898,7 +898,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/22259" target="_blank">📅 03:08 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22259" target="_blank">📅 03:08 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22258">
@@ -908,7 +908,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 126K · <a href="https://t.me/withyashar/22258" target="_blank">📅 03:04 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/22258" target="_blank">📅 03:04 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22257">
@@ -922,7 +922,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 شده‌اند.
 این زیرساخت زیرزمینی که به گفته اسرائیل طی حدود دو دهه با تأمین مالی و برنامه‌ریزی ایران ساخته شده، همچنان در حال منهدم شدن است
 @WarRoom</div>
-<div class="tg-footer">👁️ 127K · <a href="https://t.me/withyashar/22257" target="_blank">📅 02:47 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 128K · <a href="https://t.me/withyashar/22257" target="_blank">📅 02:47 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22256">
@@ -934,40 +934,40 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22256" target="_blank">📅 02:41 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22256" target="_blank">📅 02:41 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22255">
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/25f2f2934c.mp4?token=kh2zQmkIKIYvgUj_cOJK5S9D6fgnEKhE9h1R1aZZV5s4IFWDf30zHcdXCZvJyqUo3FFSkmMKy5R636JIfGoIE3tFaqtS3FKDlQ6ucHvNppYZfqNnSvPp60oLhteR0-z9978VVoR1hYS-eEG__PitkeJdelkJqxrjEbQJOxW3jImVL5RY_lsSYR16S6RFEmh4hSwjwcLedu1QnAEzT5Mgks64DdxASvnGslx3oNQf1xhR5O74nZjnATIbnFLj-p-AtZH4ezcEiQvSHx6vgGsUs4bMxgRahgoO_FKPGGFvcveZLvDEXcVvXq7Xl62wyWCW167WvL5OtdRZhSh7Mr6tDw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/25f2f2934c.mp4?token=NhPk3vHTHtyJjbgS3sQXhxTVIvhUxfAUo7t6nb7URPwkY8Tg-Un1vkBVT4kcJc2974GdN6YIixS_qDEvk9oZUm9yJocceGbHQ6vRmmbjBWA8htj_XBcjaCFem0WM6MfwuPyXa1BjEE6rv9RXiBmiJKXI50fhoRzTcO5DlovkckKTqtcES9zWDgsGtGilwuuD62N10iIecKvTZjlfQdny4sz_yLLfsWggSHEvkOy8TehHJQ40uiIp9OAQzs4rOSgdIXfqVPBBdxQhFdFSwPqUZJ2bOiWC-x_3C9-PWMVtqeI_d9qSvWjQxPH0cx1qUBV1jEEhJFooE1FhBSCJnGeg1Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/25f2f2934c.mp4?token=kh2zQmkIKIYvgUj_cOJK5S9D6fgnEKhE9h1R1aZZV5s4IFWDf30zHcdXCZvJyqUo3FFSkmMKy5R636JIfGoIE3tFaqtS3FKDlQ6ucHvNppYZfqNnSvPp60oLhteR0-z9978VVoR1hYS-eEG__PitkeJdelkJqxrjEbQJOxW3jImVL5RY_lsSYR16S6RFEmh4hSwjwcLedu1QnAEzT5Mgks64DdxASvnGslx3oNQf1xhR5O74nZjnATIbnFLj-p-AtZH4ezcEiQvSHx6vgGsUs4bMxgRahgoO_FKPGGFvcveZLvDEXcVvXq7Xl62wyWCW167WvL5OtdRZhSh7Mr6tDw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/25f2f2934c.mp4?token=NhPk3vHTHtyJjbgS3sQXhxTVIvhUxfAUo7t6nb7URPwkY8Tg-Un1vkBVT4kcJc2974GdN6YIixS_qDEvk9oZUm9yJocceGbHQ6vRmmbjBWA8htj_XBcjaCFem0WM6MfwuPyXa1BjEE6rv9RXiBmiJKXI50fhoRzTcO5DlovkckKTqtcES9zWDgsGtGilwuuD62N10iIecKvTZjlfQdny4sz_yLLfsWggSHEvkOy8TehHJQ40uiIp9OAQzs4rOSgdIXfqVPBBdxQhFdFSwPqUZJ2bOiWC-x_3C9-PWMVtqeI_d9qSvWjQxPH0cx1qUBV1jEEhJFooE1FhBSCJnGeg1Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">پهپاد شناسایی غرب تهران چیتگر
 @WarRoom</div>
-<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/22255" target="_blank">📅 02:20 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 125K · <a href="https://t.me/withyashar/22255" target="_blank">📅 02:20 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22254">
 <div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/fb363544dd.mp4?token=P8GwI6XERhkdJmqG-0jukvxXKE6OrFKmvEpWtMoJBSCVq520rVvZLv9YdYxlu8SionWdpx0YwH8K-mJs-NgWYbupUXeVoEsbe3bWiPdwWXAZ0j1-FSVqjLx_VC-zOJlMOsUElAA-jnRtEKswsAM42jUQ1sWUw5zmV_NidMVXoy2Nj8_Bo59kcr8koNKv6KZ3mKXZ4Ti1igOkNj8iVVo_zUZ9eVJiO-y7sIyxGpZzVtSWO3XWf-_8fqnZXbnu3zIFZqwCcjICkCfI4vyrmCiynYMiSISHOVFrRw6uSx39wCDPvxOj_TMCCRZx7edRS3SuZmAX1mpLr8nylPKr7AQEriRoSc0NC_OZXzNYGVXCnVVIE9YPP7DUzbDzW0vnNo0ITHB6xdTFLq7C0bszVw_hyIJdE_zhR1ASEDqWi6OfLvTtghdTvLNmgpB91NPywNKnHSLfTWD-4Z240UADRdIPaXkmo0QGkiatGwXEqW8lz3asPdx8Ke4WYa6Fu8vtraTB-z9sOuiLmFKW9W7Jp7I-UcGjRTYD_IOLJaaeONUgJs8UjbESD4DDH4avCSmIPrItsZ-7Nx7MYsh5YXhiuoQTbrCFATr_mZTsTX4nw6TGsitigJ2BP-ScDStey39bMMZa7vTff7MZMMtLIvPN9YMUibBrBGEFMVsF3QSLRULtRmg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/fb363544dd.mp4?token=ATxQsLgwwcL3Qo_N0Ir8wOkfHqfl2mTIn9uLQKI6K-9cFQDVQ_IaFr_QIOEQeKYEPDfQwagN0oN0A_Y8MOoikuo6-_AHJNNQzTuhfh0T-gF_TolICri8TtIcvc9ZzMBxJlPBtwy5lpEZetXxcmzfPW9eG4dwdRdx82xPz099PZyJMybkkym9kCVfrwjZSmvmDfqGfgy6loi8aTTrNnd9wYP3byaZdIjU5GJWAP8T4QrSTxdvtGz7LBx-8_Xi-iNhaxmX4aragGFGZIkgHAhiaAghUihnEuglEFu79VEcogaNgdey0W7zvVbrpqlJIQ3gd9HqO1oCXgkM-u7Bp0Hg-YLRdZp17USKCYVofD4BYL5WtlVEZYAlSL0A-jlCHew-nsMMlqWFm-2Zc8En7XeizXUXndyX65F1Ikg-35PPUm6fneS3kNUf4otts6iHOd_63jxBQcKfTHBSSmbKMx6TsbamCi_7bAyFhcNtXsG1BppZxczroA_Z_6Xg-_ynof0c62xyAqBFgFkiBlJSGk_nneSuHimcJqdNVFS_P5_D2cqeqz3SMXempKonaZK4XOuQ7_ifUO-t2iT6vw98f12zGMF24n3n7cnbPHq0PJs9O-LOWjWQYq8wPe2JUzVh8h3JhFNYDUbk-OA07jPIXTd1oxn_aM0brkU8kfyGsPVLI2A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/fb363544dd.mp4?token=P8GwI6XERhkdJmqG-0jukvxXKE6OrFKmvEpWtMoJBSCVq520rVvZLv9YdYxlu8SionWdpx0YwH8K-mJs-NgWYbupUXeVoEsbe3bWiPdwWXAZ0j1-FSVqjLx_VC-zOJlMOsUElAA-jnRtEKswsAM42jUQ1sWUw5zmV_NidMVXoy2Nj8_Bo59kcr8koNKv6KZ3mKXZ4Ti1igOkNj8iVVo_zUZ9eVJiO-y7sIyxGpZzVtSWO3XWf-_8fqnZXbnu3zIFZqwCcjICkCfI4vyrmCiynYMiSISHOVFrRw6uSx39wCDPvxOj_TMCCRZx7edRS3SuZmAX1mpLr8nylPKr7AQEriRoSc0NC_OZXzNYGVXCnVVIE9YPP7DUzbDzW0vnNo0ITHB6xdTFLq7C0bszVw_hyIJdE_zhR1ASEDqWi6OfLvTtghdTvLNmgpB91NPywNKnHSLfTWD-4Z240UADRdIPaXkmo0QGkiatGwXEqW8lz3asPdx8Ke4WYa6Fu8vtraTB-z9sOuiLmFKW9W7Jp7I-UcGjRTYD_IOLJaaeONUgJs8UjbESD4DDH4avCSmIPrItsZ-7Nx7MYsh5YXhiuoQTbrCFATr_mZTsTX4nw6TGsitigJ2BP-ScDStey39bMMZa7vTff7MZMMtLIvPN9YMUibBrBGEFMVsF3QSLRULtRmg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/fb363544dd.mp4?token=ATxQsLgwwcL3Qo_N0Ir8wOkfHqfl2mTIn9uLQKI6K-9cFQDVQ_IaFr_QIOEQeKYEPDfQwagN0oN0A_Y8MOoikuo6-_AHJNNQzTuhfh0T-gF_TolICri8TtIcvc9ZzMBxJlPBtwy5lpEZetXxcmzfPW9eG4dwdRdx82xPz099PZyJMybkkym9kCVfrwjZSmvmDfqGfgy6loi8aTTrNnd9wYP3byaZdIjU5GJWAP8T4QrSTxdvtGz7LBx-8_Xi-iNhaxmX4aragGFGZIkgHAhiaAghUihnEuglEFu79VEcogaNgdey0W7zvVbrpqlJIQ3gd9HqO1oCXgkM-u7Bp0Hg-YLRdZp17USKCYVofD4BYL5WtlVEZYAlSL0A-jlCHew-nsMMlqWFm-2Zc8En7XeizXUXndyX65F1Ikg-35PPUm6fneS3kNUf4otts6iHOd_63jxBQcKfTHBSSmbKMx6TsbamCi_7bAyFhcNtXsG1BppZxczroA_Z_6Xg-_ynof0c62xyAqBFgFkiBlJSGk_nneSuHimcJqdNVFS_P5_D2cqeqz3SMXempKonaZK4XOuQ7_ifUO-t2iT6vw98f12zGMF24n3n7cnbPHq0PJs9O-LOWjWQYq8wPe2JUzVh8h3JhFNYDUbk-OA07jPIXTd1oxn_aM0brkU8kfyGsPVLI2A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">پهپاد شناسایی در آسمان شهریار
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22254" target="_blank">📅 02:18 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22254" target="_blank">📅 02:18 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22253">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22253" target="_blank">📅 01:55 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22253" target="_blank">📅 01:55 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22252">
@@ -1006,28 +1006,28 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 @WarRoom
 خوب کسی اون منطقه زنده نمونده که بگه
 😆</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22250" target="_blank">📅 01:34 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22250" target="_blank">📅 01:34 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22249">
 <div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded from𝓜𝓪𝓱𝓭𝓲</strong></div>
 <div class="tg-text">دوباره فعال شد پدافند غرب</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22249" target="_blank">📅 01:27 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22249" target="_blank">📅 01:27 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22248">
 <div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromnasrin</strong></div>
 <div class="tg-text">ما اكباتانيم همينجور صداي پدافند و شليك مياد</div>
-<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22248" target="_blank">📅 01:27 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/22248" target="_blank">📅 01:27 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22247">
 <div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromEhsan</strong></div>
 <div class="tg-text">سلام داداش سمت شهر قدس ساعت های ۱۲ و  خورده ای شروع شد به شلیک پدافند چند دقیقه قطع میشد باز فعال میشد تا چند دقیقه پیش هم بود ، ۴ دقیقه پیش هم یه صدایی مثل پهباد شاهد بود اما نمیدونم واقعا پهباد بود یا هواپیما با ارتفاع پایین داشت پرواز میکرد چون فرودگاه مهرآباد هم هست اینجا اما خیلی صداش شبیه پهباد بود و بعد ۵ ثانیه قطع شد انگار که قطع بشه شاید سقوط کرد اگر هواپیما بود انقدر سریع صداش قطع نمیشد فکر کنم یه پهباد بود</div>
-<div class="tg-footer">👁️ 123K · <a href="https://t.me/withyashar/22247" target="_blank">📅 01:20 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 124K · <a href="https://t.me/withyashar/22247" target="_blank">📅 01:20 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22246">
@@ -1041,13 +1041,13 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromAmirhossein</strong></div>
 <div class="tg-text">داداش سمت غرب (شهرقدس ) یه چی اومد انگار سقوط میکرد
 نمی‌دونم چی بود عین هواپیما یا پهپادی ک داره سقوط می‌کنه</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22245" target="_blank">📅 01:15 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22245" target="_blank">📅 01:15 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22244">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromامیرشون🪐</strong></div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22244" target="_blank">📅 01:15 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22244" target="_blank">📅 01:15 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22243">
@@ -1057,27 +1057,27 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 🚨
 🚨
 🚨</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22243" target="_blank">📅 01:13 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22243" target="_blank">📅 01:13 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22242">
 <div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromامیرشون🪐</strong></div>
-<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22242" target="_blank">📅 01:12 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22242" target="_blank">📅 01:12 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22241">
 <div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">BTC = 82000$
 @WarRoom</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/22241" target="_blank">📅 01:04 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22241" target="_blank">📅 01:04 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22240">
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">ترامپ: اگه ایالات متحده همین امروز از جنگ علیه ایران خارج بشه بازسازی این کشور ۴۵ سال طول میکشه
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22240" target="_blank">📅 01:03 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22240" target="_blank">📅 01:03 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22239">
@@ -1092,7 +1092,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 
 <div class="tg-post" id="msg-22237">
 <div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22237" target="_blank">📅 00:51 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22237" target="_blank">📅 00:51 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22236">
@@ -1138,21 +1138,21 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 <div class="tg-text">نتانیاهو: ارتفاعات علی‌الطاهر لبنان دیگر تهدیدی برای ما نیست!
 وی همچنین گفت که نظامیان اسرائیل، شمار زیادی از «شبه‌نظامیان» را در این منطقه از بین برده‌اند. ارتش اسرائیل ساعتی قبل اعلام کرد که به‌صورت عملیاتی بر زیرساخت‌های وابسته به حزب‌الله در ارتفاعات «علی الطاهر» در جنوب لبنان مسلط شده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22231" target="_blank">📅 23:51 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22231" target="_blank">📅 23:51 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22230">
 <div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-text">وای نت عبری : حملات نیروهای دفاعی اسرائیل در المنصوری در منطقه صور، در وادی السلوقی و در زوطر الشرقیه در جنوب لبنان در حال انجام است
 @WarRoom</div>
-<div class="tg-footer">👁️ 118K · <a href="https://t.me/withyashar/22230" target="_blank">📅 23:40 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22230" target="_blank">📅 23:40 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22229">
 <div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">گاردین : رئیس سیا در سفر به روسیه از مسکو خواسته حمایت خود از تهران را کاهش دهد
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22229" target="_blank">📅 23:23 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22229" target="_blank">📅 23:23 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22228">
@@ -1169,14 +1169,14 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 مسیر ۸۷ فروند کشتی تجاری را تغییر داده‌اند
 ، ۳ فروند را غیرفعال کرده‌اند و ۲ فروند را بازرسی کرده‌اند تا از رعایت مقررات پس از تشدید محاصره بنادر ایران اطمینان حاصل کنند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22227" target="_blank">📅 23:21 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 122K · <a href="https://t.me/withyashar/22227" target="_blank">📅 23:21 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22226">
 <div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">اتاق جنگ با یاشار : گزارشهای زیادی دارم از شلیک کوتاه پدافند شرق و همچنین بعد از مدتی پدافند غرب تهران . فکر کنم بی‌بی پهپادهای شناسایی را برای رصد تحرکات تهران اعزام کرده است. مسأله ای که خود رژیم نیز بارها به حضور پهپادهای شناسایی آمریکایی/اسرائیلی در آسمان پایتخت اعتراف کرده است
 @WarRoom</div>
-<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22226" target="_blank">📅 23:16 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 121K · <a href="https://t.me/withyashar/22226" target="_blank">📅 23:16 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22225">
@@ -1190,7 +1190,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 <div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">جی دی ونس : اگر به ترکیه، آذربایجان، قطر، امارات متحده عربی و عربستان سعودی نگاه کنید و به طور کلی به سراسر جهان بنگرید، در واقع شاهد تعداد زیادی از کشورها هستیم که گاهی اوقات حاضر به بیان علنی این موضوع نیستند، اما در پشت پرده کارهای بسیار خوبی انجام می‌دهند تا به ما کمک کنند تا اطمینان حاصل کنیم که ایرانیان به دلیل شلیک به کشتی‌های تجاری، مجازات شوند.
 @WarRoom</div>
-<div class="tg-footer">👁️ 119K · <a href="https://t.me/withyashar/22224" target="_blank">📅 22:30 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 120K · <a href="https://t.me/withyashar/22224" target="_blank">📅 22:30 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22223">
@@ -1213,7 +1213,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 😂
 😂
 🙌🏾</div>
-<div class="tg-footer">👁️ 116K · <a href="https://t.me/withyashar/22221" target="_blank">📅 22:19 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 117K · <a href="https://t.me/withyashar/22221" target="_blank">📅 22:19 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22220">
@@ -1222,7 +1222,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 عراق، سوریه، لبنان، فدای ایران.
 شلیک به قلب دشمنان
 @WarRoom</div>
-<div class="tg-footer">👁️ 113K · <a href="https://t.me/withyashar/22220" target="_blank">📅 22:17 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 114K · <a href="https://t.me/withyashar/22220" target="_blank">📅 22:17 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22219">
@@ -1240,7 +1240,7 @@ https://www.instagram.com/reel/Dc25xWUsghi/?comment_id=18135318097727381</div>
 
 <div class="tg-post" id="msg-22217">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-footer">👁️ 111K · <a href="https://t.me/withyashar/22217" target="_blank">📅 22:06 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 112K · <a href="https://t.me/withyashar/22217" target="_blank">📅 22:06 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-22216">
