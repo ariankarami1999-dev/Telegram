@@ -292,11 +292,79 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-14 14:49:11</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-14 17:26:02</div>
 <hr>
 
-<div class="tg-post" id="msg-2965">
+<div class="tg-post" id="msg-2967">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/L-19dcv_Vm4VgYo3vsJA9Ke9_Zyw0u0d_56GGV9lY6WZb8GchVXAKX8C-qWdzOhAKbyazP-LZgtSu9WKHIEasm9Lh5IIvI1jHuoJW1s61KPg1K3d8vMqNt5lD98ayRsTtgO_hxoSkzLyHDqXxq2TpOyCkGr_HjvNHHNoheD415DeiAp72Dxg4qilzWSOAUs5QRtb9ickvoMMrFLsGBodkPpoUjOZ_yMvtEp5L153sTGtg1f448ufBwP5UfTglemYIfKy5hsPkyq7HGZXPZBtxPkrC3z8IqvOJcG7fmq7vb_f9PUvouS7KuGB-HNjEORYu5G_3__LnY2Lnqsl-FC8Qw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">⭕️
+مایکروسافت از Project Zenith رونمایی کرد؛ نسخه‌ای اختصاصی برای توسعه‌دهندگان
+مایکروسافت پروژه جدیدی با نام
+Project Zenith
+معرفی کرد؛ نسخه‌ای بهینه‌سازی‌شده، مینیمال و «آماده کدنویسی» از ویندوز ۱۱ که بخش‌های اضافی و نرم‌افزارهای غیرضروری را حذف کرده و تجربه‌ای نزدیک به لینوکس برای برنامه‌نویسان فراهم می‌سازد.
+🔹
+تمرکز ویژه بر هوش مصنوعی محلی
+:
+امکان اجرای مدل‌های زبانی محلی با بیش از ۳۰ میلیارد پارامتر (+30B) بدون محدودیت و افت کارایی.
+🔹
+پیش‌نیاز سخت‌افزاری سنگین:
+طراحی‌شده برای سیستم‌های قدرتمند توسعه با حداقل
+۶۴ گیگابایت حافظه رم
+و پهنای‌باند بسیار بالای حافظه؛ نخستین بار روی مینی‌دسکتاپ Ryzen AI Halo شرکت AMD عرضه می‌شود.
+🔹
+بهینه‌سازی محیط برای کدنویسی:
+نصب پیش‌فرض محیط‌های اجرایی (Runtimes)، ابزارهای ضروری برنامه‌نویسی و اعمال تنظیمات پیش‌فرض مناسب توسعه‌دهندگان.
+⚠️
+با وجود استقبال برنامه‌نویسان از یک ویندوز خلوت و بهینه، محدود شدن این نسخه به سخت‌افزارهای گران‌قیمت ۶۴ گیگابایت رم در بحران فعلی بازار حافظه، دسترسی بخش زیادی از توسعه‌دهندگان مستقل را با چالش مواجه کرده است.
+🆔
+@iAghapour
+|
+YouTube</div>
+<div class="tg-footer">👁️ 1.97K · <a href="https://t.me/iaghapour/2967" target="_blank">📅 16:32 · 14 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-2966">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/9c8648566d.mp4?token=WiUakGyqRpmth00qIvlIsGeJueb9r7Pxr5HVNm9dd4KgjcPyk8IThVqvtYYlqIRxFrUCtXcPrVaLDphcOzJIC-e2Aek1c1A0EA_iNGq3N7dToHW6LvEu8zDVAAekpXKAGmhd38DxHL5Qjh-Mgc8KSmXA2OKEfXjyqH-nuxqnw5bZSi36l040iXPAwxxUs8aorRuwHnI8M5HjHFjgMFMY6MZNKrF5_NEFB-z8fURwlTsSJVzT4DAuu2gYo39gLPBDLBH1lWHI5_Suit6Erh2NCX2xlq3JIhT5iH6TD3FTqW76GN5Z92eGxBKMxAzqDH_F_FZJlFdGLsvF4yiLz5s8pQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/9c8648566d.mp4?token=WiUakGyqRpmth00qIvlIsGeJueb9r7Pxr5HVNm9dd4KgjcPyk8IThVqvtYYlqIRxFrUCtXcPrVaLDphcOzJIC-e2Aek1c1A0EA_iNGq3N7dToHW6LvEu8zDVAAekpXKAGmhd38DxHL5Qjh-Mgc8KSmXA2OKEfXjyqH-nuxqnw5bZSi36l040iXPAwxxUs8aorRuwHnI8M5HjHFjgMFMY6MZNKrF5_NEFB-z8fURwlTsSJVzT4DAuu2gYo39gLPBDLBH1lWHI5_Suit6Erh2NCX2xlq3JIhT5iH6TD3FTqW76GN5Z92eGxBKMxAzqDH_F_FZJlFdGLsvF4yiLz5s8pQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">🎨
+رونمایی مایکروسافت از MAI-Image-2.6-Flash؛ تولید ارزان و سریع تصویر
+مایکروسافت نسخه سبک و کم‌هزینه مدل تولید تصویر خود را با نام
+MAI-Image-2.6-Flash
+از طریق پلتفرم Microsoft Foundry در دسترس توسعه‌دهندگان قرار داد.
+⚙️
+ویژگی‌های کلیدی:
+🔹
+سرعت بالا و صرفه اقتصادی:
+۲.۸ برابر سریع‌تر از GPT-Image-2-Medium و با ۷۲ درصد کارایی بالاتر؛ ایده‌آل برای اتوماسیون و ابزارهای تعاملی پرمصرف.
+🔹
+ویرایش نقطه‌ای:
+اصلاح دقیق اشیا، نوشته‌ها و چیدمان بدون تغییر در سایر بخش‌های تصویر.
+🔹
+ثبات کاراکتر و محصول:
+امکان بارگذاری حداکثر ۵ تصویر مرجع برای حفظ یکپارچگی چهره و کالا در خروجی‌های مختلف.
+🔹
+اتصال به وب:
+ارتباط مستقیم با موتور جستجوی بینگ برای رندر دقیق سوژه‌های واقعی.
+💰
+هزینه خروجی تصویری:
+۱۹ دلار به‌ازای هر میلیون توکن (در برابر ۳۸ دلار برای نسخه پایه 2.6).
+هر دو مدل هم‌اکنون در مرحله پیش‌نمایش عمومی در دسترس هستند./دیجیاتو
+🆔
+@iAghapour
+|
+YouTube</div>
+<div class="tg-footer">👁️ 3.35K · <a href="https://t.me/iaghapour/2966" target="_blank">📅 15:09 · 14 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-2965">
+<div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromCube SUPPORT</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Pvg1lBI5N5gBcyvDWNT-WP4myRMcvVSgISq-xtX1KbeTFZhLNjdZ3UH9kkszniTAPwZ2iex0H8dlGRsaTQiMMBnwMCMrVhLYTInzxdJPwcsmnywSetIOK2d_sIEWyYsEC6X9kdAiVtoZZjEndCJLDVnHjCeyhG1bgWVFpWxaXTY0C8ZHBo5pqlpxtEGFRcm_WSgfhJ394hIkff-00RQcRFwSEH0nt55VKAURirjXZLmmD9fsH-lMAot2BXLPpODpBE844UTSM6LkHMcyA7sRM7DE7Cg0WXnW-9sOsJqv_qBZBj_1_IVlmnfnqyTjOx-DHE1cn_qjl7lkEnyhLlEZLw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">〰️
@@ -326,11 +394,11 @@ http://cubely.ir
 هر کدام مستقل کار می‌کند. همه زیر یک سقف.
 🌐
 cubesystem.top</div>
-<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/iaghapour/2965" target="_blank">📅 21:01 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.4K · <a href="https://t.me/iaghapour/2965" target="_blank">📅 21:01 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2964">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Pau0YirgBnXZ1Lo1RKz4X9m3KBn_bsc-QIrjNw9_KGc4zR-EMURno7xl-dOkyndVQnafaE_K_uen0WD2bSQXdFTHaicbtEL-66otjq3uN_Kfz151rb8qyY7tO-HFRyFaIy0cVD_0r9nQFWxCoX_a5Lhy_x1DBSq5BdA31y6GqHruWxwK-fSRm7MNsHKAiE1B4lMGlS27FfPScgnX2nIK46iX-dWQftdVNP0Lf-QdpHSfUrEnAIfdUXlxmw9xvGQzvB9qJwhZdkZ5c2giH88MVsguz3HNlc-VLVXj5w0Oxzm5tuDIKY6djijXH4Q9OgCJjT19avbMg3VNPGUEK19cEA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی پنل «زاگرس» (Zagros)؛ فورک چندهسته‌ای مرزبان
@@ -364,11 +432,11 @@ WireGuard، OpenVPN، SoftEther، SSH Tunnel و PPTP
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.36K · <a href="https://t.me/iaghapour/2964" target="_blank">📅 20:45 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.28K · <a href="https://t.me/iaghapour/2964" target="_blank">📅 20:45 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2963">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #96</div>
 <div class="tg-text">🧠
 رونمایی اوپن‌ای‌آی از پرچمدار GPT-6 Astra؛ ادعای ورود رسمی به «عصر AGI» و انقلاب در کار با کامپیوتر
 اوپن‌ای‌آی با رونمایی رسمی از مدل پرچمدار
@@ -411,11 +479,11 @@ GPT-6 Astra
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.62K · <a href="https://t.me/iaghapour/2963" target="_blank">📅 18:42 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.31K · <a href="https://t.me/iaghapour/2963" target="_blank">📅 18:42 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2962">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MCgDD4aNA430akgzKEuH4kt0QJTf1cflOrRD_vYU7wNcGH6Ooxexa_InubGlqqo7GDu3_jAqpv70aeXHxgk0UCeFlgeVYAtI1nEYa9S3rX0OmAt6_LivvsqYknxUPbuVVOyg1hFKR58oua0Ne5dULIu1W1LyFN8kQlYRE6G-Tbg8QKHFqfrc9uEJFAsXypAdZbZrM3mXPfW3j0UXwz7wI6zTaq7UAllCFqvkhLN5PhX74dLA6gYMmqPFeAA7WszlKIaozZ9UDjmJrvE5Ou5zYd4yiW76XgWFqVlIN-w2DrYNZnekEfYMYrzTg5HQ99UUlKkq94w88-an8Zh10HplUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🏛
 مخالفت زاکربرگ با طرح نظارت بر هوش مصنوعی در گفتگوی محرمانه با ترامپ
@@ -437,11 +505,11 @@ Politico
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.1K · <a href="https://t.me/iaghapour/2962" target="_blank">📅 10:15 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.47K · <a href="https://t.me/iaghapour/2962" target="_blank">📅 10:15 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2960">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KJDReiTCkSKoNdmJUOiOW9kERHcooPU-tNRiN0_6JxYjgdwx2bMjv5K2QryzyslbU78H2tzx4H_v6CQuws1_-KE90THAXaR5tteVYdfjK3rbCCOBBp4XF7PYFLGezy4seSJT_Gcjf8tZ03VFnhh3WFG8tcPhW9SlTso2225WNS_YlGkePKwbd6kVgROw9QFBeIojtG4ANJqmMob1-iq8SY5taBDgdaIyTfeKSOFeKC1kZO-4-dBbcKVrwhiRQGUYPl9-YTR7TIxb5EOfDAu5B1GDSiziKncSAAOCm88Rg7ztg42EIirbWnFqPeJ45IMGihFz4XN3xijkNI0-7W0f3w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚠️
 توصیه بابک زنجانی در الکامپ: گیر کلاهبرداری نیفتید
@@ -466,11 +534,11 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.25K · <a href="https://t.me/iaghapour/2960" target="_blank">📅 20:50 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.5K · <a href="https://t.me/iaghapour/2960" target="_blank">📅 20:50 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2959">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pHZlHviOgfqxQ71PvkS9JRKYwSoE3000mBYOwfbnypEeguQoFsM200rNdxia_SfEcGz3ZAlrMibK3pEEI0LHp5W5zw3RvnOQBNzTIlYYDspuTa_4cMhJGM9uHrEZwWUAQ_nX6pya93vGLVlIlxD93LeMU2R_8oL_DqH3Ss_RxoWraSCHwiJsftnADlq-678cVwO-8mWhm-2hqbX2edT4hZ9AR3SOqaTF-yqauF1TWDgGhijqNuEinfC6aGBaOBQvaKWPbT46Mmikbw28Z3wlUYJirlpJ7toV2hUHgVI9zuuCtS9s9Ka8GdGJIB65A04MEjAsFgFZ8vntte_2mpawGw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 خاموشی هم‌زمان چت‌جی‌پی‌تی، گراک و کلاد
@@ -501,11 +569,11 @@ Astra
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.25K · <a href="https://t.me/iaghapour/2959" target="_blank">📅 20:20 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.46K · <a href="https://t.me/iaghapour/2959" target="_blank">📅 20:20 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2958">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">⭕️
 قیمت آیفون ۱۸ پرو و ۱۸ پرو مکس لو رفت؛ افزایش ۱۰ تا ۲۰ درصدی به‌دلیل بحران حافظه
 ✍🏻
@@ -547,18 +615,18 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.54K · <a href="https://t.me/iaghapour/2958" target="_blank">📅 18:35 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.8K · <a href="https://t.me/iaghapour/2958" target="_blank">📅 18:35 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2957">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-text">تو گوشیم فقط چراغ قوه بدون فیلترشکن باز میشه :)</div>
-<div class="tg-footer">👁️ 9.58K · <a href="https://t.me/iaghapour/2957" target="_blank">📅 16:01 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.75K · <a href="https://t.me/iaghapour/2957" target="_blank">📅 16:01 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2955">
-<div class="tg-post-header">📌 پیام #92</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FZ2Mp8HLKDnQvD4ZtVrKiHIasTufO0opB42xI9IgeYMoMHo7tsdgo7V-pGJK5LMVc-lYBBT9EVu35bcvKjCp2kiVbhDn9MFHjHR_hbE9tg0L-zq1Gknr7Hj2EEvntXqscrsPiw2x9AFUr3uxPuUbErM9yvFt4kDUjSSnP3UoQIRa4RJGno3-4MxMBWV8BSjppyKJE0iA7S07RrwvnDKnoytMISVu19n7GI8bKfq6Y5WQ1kvsIbxeMkf8phXl08WS8NT0qntzJpUXs8oOXFBy37Zaxwqz05-V5QM6GhAFKGGiyuyeqeHl8uFUD-xf-GuwP8Sc6zGQrtzdwHdr1n7QKg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/dwmLU3qf534Rkdjknh5TS7K_79JEUvUF1GLlr4VMzt1Ab_8LkLiDpCn9YHhCzRoTIg_CgqYdN90ojvpVPcCisUapRBsIyyZYJ9XGKHXgZgn9TzY2_tfSpqJpjhkVj_zXN_kiIvdeBVE1j9iM7WIunw_PPgY_adM9X0jYOEFFczxm773MtGBsI1gZFCgUdIjgJ1jWidw73gDpv0CCw5xaxjZFZy-7ho-xc53qat04mj5OuLbYvJt7haCrCvj2OpYP8U3Q19M9PunPafBWsGkvYrKSuGK5tAqAEu37hEEohU5mTfBkKwxlAthepjVCXvrN1y8LBy0umW3mJHWmuoP5Fg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 پنل همه‌کاره فیلترشکن (انواع هسته + تانل داخلی و مدیریت با هوش مصنوعی)
 🚀
@@ -585,11 +653,11 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/iaghapour/2955" target="_blank">📅 18:01 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/iaghapour/2955" target="_blank">📅 18:01 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2954">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">🛡
 چک‌لیست طلایی امنیت اینستاگرام؛ ۷ قدم تا ضدگلوله کردن حساب کاربری
 با صرف چند دقیقه وقت و اعمال این ۷ تنظیم کلیدی، احتمال هک و نفوذ به اکانت اینستاگرام خود را به حداقل برسانید:
@@ -645,11 +713,11 @@ Show account suggestions on profiles
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/iaghapour/2954" target="_blank">📅 17:28 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/iaghapour/2954" target="_blank">📅 17:28 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2952">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jauYgMWbNsS5A40j4MRddIfw7EtMtf3DimHflPuIAlhQIAIt2kKKTIYnzFe2nri6YYd_ej5oqh9yl8zHIW471mUIafn_reeKX-_bo1Lcmi7Bf08fNace3KqOuPKNrbmMafvFiwlgGYtDeXNoA1gagFyMNtudqP5E8PKxoLMtB4Bpc2eI11zWE5zYk7CsY3L4PVSXhxOvq9qju6q1OHZVqOFdzWDs6zaHfI0HPpF50JqADqJy5OgueZoTu59V1gEQodW7vxy2Kl6jDnVLWhKDWf7regM-4Et23o0NWeztx2RmWQymWFTHvIWKaIM3eLcJ7C06-mbmyEiGohLjY57BqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🟢
 جایزه قرعه کشی تحویل برنده عزیز شد.
@@ -660,23 +728,23 @@ YouTube</div>
 راستی فردا هم یه ویدیوی عالی داریم که تو اونم براتون هدیه در نظر گرفتیم!
 🎁
 💚</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/iaghapour/2952" target="_blank">📅 20:39 · 10 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/iaghapour/2952" target="_blank">📅 20:39 · 10 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2951">
-<div class="tg-post-header">📌 پیام #89</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jUnwbTibr7U4bSeNh0Ix3JM-GkZSrHv6RDB3UTtRiV7O2uTqesgoUgOybNjCKMpw00bV1ToLd1rhxnvT-8H4kv-5ftcKpzS5RocTSDsUXaRYjgPebHUiibeaTD1UZcKzOdRNEXLlCGvCpYn7dVAGa9n9JDD3ohJjMR7fEIQd1ZqnjPe6-bKqUuR9DNwZMr09JpLkBs5q_lUy40Fr3TJToArescBnH7bk5harm-7CvRL61ANRPO3uq3E6bXPSce91b9lJq_-yhmQ0p0uNozy2HK1K7_rpNaLqzrHogH6bTjuJfhuSjU1GvG0FiA7ZGrTAWeAF_eCs8EUTs7HkYzMELQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ULnNdX1X0Aovvj_4QCmchN7bWqvgZ0Uo7ab7WSFtuv5Ie585lJXHKE2jKvIt5mqSLWgjxkHQJnPKaE2f50W-zYiBziDCzRgBb5Ed-NjOIk5_rsL5_Z-uGmquCxARisnGKUCYzwgP0qshTwO94VoNr3vlzEV4198kzdKXgbOHZZ3mLfoCJANtLQ1QDw-LuB0xqrmqT7i4nWwbfTJ2wk3WZ7lyOVqp25WvdfAGiFckzWjaIGrsPh3RrYVieYik26RPYSsgoAfyISb_jyMDExZGlfUMv2eWi9Nl_lywS_WhIyRwCvy-86xsJo1aJMSC45jVnfNLyxUhQr9O6ybJZ3bkrg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔻
 حکومت در حال تهیه لیست IP کاربران و در قدم اول مشتریان دیتاسنتر ها است.
 در این طرح شماره موبایل + شماره ملی + آی پی به هم وصل می‌شوند و بدون ثبت آی پی در سامانه شاهکار دسترسی به اینترنت ممکن نیست!
 نقض حریم خصوصی کاربران و حق ناشناس ماندن در اینترنت با قدرت در حال اجراست.
 ©️
 Saeed Souzangar</div>
-<div class="tg-footer">👁️ 14.6K · <a href="https://t.me/iaghapour/2951" target="_blank">📅 17:29 · 10 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/iaghapour/2951" target="_blank">📅 17:29 · 10 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2949">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #86</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lMoyKvbbhxDnvgN6yHCyLNkiKwUJGqD-4h7M1F3woMncLIP-4SJF8oCgonlqLNF84h-YE6nM2ItA9drcqsvo2UGeq5vridG2vEgA1DMQ_Q9ubmv2AndJtTM9bC5RB44y-4IeKfb4zdBts-8RYxLhxyfordx66G8pPGHYITwd3cyxmPtrXdyLJ6X9wUdnJYJ78Q2juMFrVtNjBOhhR3M8-Npky6J7vCtV9ADJgDMEUjWtuvnqNapWtfcn35Bm8iL5vorSJvfU8A-1k9NPLGqDiY4xjIkUss7EByAVUpiBOaNpGMitQce7l2JNbPWnHHRYWPcObAjdGREaI6mwLqqY2w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معاون وزیر ارتباطات: گران‌فروشی اینترنت احراز نشده است / فیلترشکن‌ها منشأ اصلی حملات سایبری هستند
@@ -697,11 +765,11 @@ Saeed Souzangar</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.3K · <a href="https://t.me/iaghapour/2949" target="_blank">📅 21:10 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/iaghapour/2949" target="_blank">📅 21:10 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2948">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SMrUsHkSrH2vO8UrC4aWUyV4ajDraoVyGH-evq75AVJi_fcg6GcxYOAwbRHU0U-b9Fgdx_3B5ZnkKCQxhRSbbmuaBqTbndee9aVeWV-biTG-CIo_YsmiCA0kUBFMSy6IOalJ4AE9oJ7Pn1aXnjsN7H8KInypdYxEDDVJ-F7_oXBiHOpZh772yja4uGZD3q6PsFEmAmyhgt9xz5C-S3K6BHRHfq0T1jpd0jX4iA0p7lnwmPoxwvcxxEoH0fxaUT1PF7jQV4X6Rc7s24dxUMSj0guZhJcI-nE4qEZHMS-AQVM3JHz9MoC7cn0YocLb7VbghbDe_IFdALI7-3ZQ5MpjuA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌸
 تقدیر و تشکر از یک همراه همیشگی کامیونیتی | مارک عزیز
@@ -716,11 +784,11 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.7K · <a href="https://t.me/iaghapour/2948" target="_blank">📅 19:46 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/iaghapour/2948" target="_blank">📅 19:46 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2947">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">⭕️
 موضع دفتر رئیس‌جمهور درباره فیلترینگ: دوره محدودیت و اینترنت طبقاتی گذشته است
 سید عباس موسوی، سرپرست معاونت سیاسی دفتر رئیس‌جمهور، در گفت‌وگویی مواضع دولت پیرامون رفع فیلترینگ، اینترنت طبقاتی و فناوری‌های نوین ارتباطی را تشریح کرد.
@@ -740,11 +808,11 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 12.8K · <a href="https://t.me/iaghapour/2947" target="_blank">📅 16:01 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.9K · <a href="https://t.me/iaghapour/2947" target="_blank">📅 16:01 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2945">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1b35d2aaf3.mp4?token=PGlNymw1IsrpVjkNzajXvpChGz9T-cpFkpjLpt9CKpAEpWV5x6VTwKY6-Oe9-c3sA9mZ5xte5Ypp7mha3yYtUOoi7aw9VgAd4FuhCYKOIa7q0iDhVuEsNOIVCVENp19DSckd0kZ_lcBoKAjO0PHjMYfpaDUhUloRFMzFZPr0eoRkhguTsJ7KsbPVIWzlnNUGaNcdgOZKnWQ_QRJUzNLeAUGfHsfQln9y_y5P4w9Utli4DmJ7fKzV1rocq_w-RFW-H7KcbfXtPCKsbTUJrJW7mBj_bVSgu-Yq9DiRCtXvtk8bHXnItn7Jngf8byknox-H-xeUfnsRBeU1bMUWF9F8cA" type="video/mp4">
@@ -768,11 +836,11 @@ YouTube</div>
 به دلیل حمایت بسیار زیاد شما حتماً در ویدیو بعدی باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2945" target="_blank">📅 20:01 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2945" target="_blank">📅 20:01 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2944">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #82</div>
 <div class="tg-text">🎮
 ویدیو مقایسه جذاب GTA 6 با GTA 5؛ جهش خیره‌کننده گرافیک و گیم‌پلی بعد از ۱۳ سال
 با نمایش گیم‌پلی بازی موردانتظار
@@ -795,11 +863,11 @@ GTA 6
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2944" target="_blank">📅 19:29 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/iaghapour/2944" target="_blank">📅 19:29 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2943">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ShjU73CD3Tv9kRb-Ny0fAXD-gMNSBu9CWcc1V6kb_WeE3Z8YkzMAwIKrepXPnRa1weaWgk5IWvUI0L1-9xYzWRNJC8_YjaDpmMdDTTV882k8YKovjzOuXZ_0KD3JvFkewbaH700XlkpBaTHddttBxjMCyBnUs_bZkIxn8-11JpBklkEipDJHW9RP2fxmGjTyrYPy2Xr8sSvjeTGS3pHo-3XfOygQrD0ACgcduaJuwHHOUcajiF-g8YJRBdH96O9obTjcJER4RmkIzWZeZro8Hl2aoYBC1uYyiNEmEhZTBP_TKXLu5v73IS-1WdF_UNqEYcUCpTdqgVXpahKq5EaSmw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی PingTunnel VPN Client؛ کلاینت ویندوز برای پروتکل ICMP
@@ -830,12 +898,12 @@ Wintun
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.2K · <a href="https://t.me/iaghapour/2943" target="_blank">📅 18:54 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.3K · <a href="https://t.me/iaghapour/2943" target="_blank">📅 18:54 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2942">
-<div class="tg-post-header">📌 پیام #82</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/a15KNuk-h9Ms12V9CsYClojbhIHHjmOK6pdi-cx3zlM4XfZsT3dc-dGs2kgJYyLL7zXnhDzilUmP3v4hg-uoSjmB4Lf6xCYVqhtDAP3HzKS1LU25qKuoDBwRgBRDbSdXAOvKsBqdywf7Sx6CDgwt4oHiP0b5QYos8a9NYoujPk9UpxGkYzwBUMK9Y9k8V1MRdDg67KkaD0uzoxZGXQzUWvTbVqDMzSzfbPWqkpeDGRzP9VWn45ryvwTV_O3sy9Ybxpf-iRXoWMEZZYd1B2F7dHb6gRLOk8-xdyQEMcr2Hgp_-l9ld23jaEr5osHkTuBYVfwl4tRCOnbWZ-AetsrdzQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ao8GghXGy6jg5pULmX7TVfrMZymG3jWTsqLQLzm4bT4739KYTQSQkIlNCqI3lufrotUYhQzFTuEIwv8Z13qHIcrVcPthWC1fSGk4oTowzTyp_tLp6_PoyGwhjFSi-MAZkDiiiiP56QKX5j-WjObynSvodePNKPN2jrDf0w0ln3SfO2LSxlXZH7FxPBQMbLMpLlVTfQUUSrupX-u7boQlFuQj-bCmBE974WQn9NvUr2ZYVCeyLDCmjLdu-JDdENcoBtRQLsZgoZbN6dBHzEF6_Ykklay3WSIdBGUJADfr363ly-CEeH0c_sYanppaJw-XU468u3UVtrHYepZ0KWvuJA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 مقایسه WiFi 6 در برابر WiFi 7؛ کدام نسل در سال ۲۰۲۶ ارزش خرید دارد؟
 با گسترش روترهای
@@ -865,11 +933,11 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.6K · <a href="https://t.me/iaghapour/2942" target="_blank">📅 18:09 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.7K · <a href="https://t.me/iaghapour/2942" target="_blank">📅 18:09 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2941">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #79</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jQI0NF8dxxKmvdX8CCIE8XQ7BvVeWSa41P8qRqsOht_N70zwX01D9pHG2RD4YZO5hllZs5Nnp1kGHvpqhs4N9Gka0wDG-sGdlUaqcejg4YkzPp4gwTJEpxQJQyPj5W34wXNUgJo4w14VD-kbAyM-Is3nd52hOYb_X_GrxYzxq-78DvxL_4zgt1Gp2hiQKTCGdbQapJpoBqunubNAVkbyYsOiOaMJHBAbu444tc5TbhzXLypNXDa6q5C48CBIvFmiuIIjq4E4n09v5pmHoTw6HouGgN0gPDJlc75IOE1DO7ULOWHo0MhyEgdeeAushTqH1G94aUYA_-PMGyI-3Frhig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 گوگل در حال آزمایش هوش مصنوعی Gemini 3.8 Flash
@@ -896,11 +964,11 @@ Arena AI
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2941" target="_blank">📅 16:09 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/2941" target="_blank">📅 16:09 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2938">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/sGhxtSgPEkuPc50d___Ox4SkjCRZmmJA6DUDXz38R2HPlRn2hKemyI28yejrkTpOS8w2Kltjbp5J9BNv6MQ_Fws4303Of-xfZ0d6rkmn5VnBGt7vmDy3czj1uCQGl1KBvYRsvN7DqNSZ72EfTRnJU49URH-HuLd-ocGoKSx7lRqcBZPMD5VMB3ieEVSLq_NDFEiqpd2gsBnk3FdX1Ysi9549J5fMiDQX6nYiiGFB85YTtTDlO8TBZz0PEdBYoILXoOIph9ZUbtMKHSAE1Bkg5ZOiQ0x7I3VfRY8foBt7MDhLEuWRHssvMnsWMRMjvIVDRNIFXArCeh8yuhJou_p5RA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/FgPN2gXje8r-fIIUvrya3m4RBFcFx7SUZzJdTqfjFX0FBvkM5FDz2wRGHpnmAtaZLeNTrdLgNzsdKPumCEIinx-NtTJYuklm5J6bvI9Prz6jgyaIaOLH0jRKoYl73SwgUBWxxvPR0GEK05VaC-G_649brs2g447e8J-5qGCTRLle4FmuRTqu_crvr3TPhB2x6Bik9WtxLu8IwTwd6FsMXJ91N4i1GTZf8ebEHVA4wsqiDAOPeOGRTeMXAZw0vSCkSDk3VxNoykvXpebih2n1jv43c-fCKVkIBT5T3OHmWvrQEE6lfuIKs36IbFkNZ6e2ynH5rmlZLn_4XSbP8UcjUw.jpg" alt="photo" loading="lazy"/></div>
@@ -929,12 +997,12 @@ RTX 5070 Ti
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 10.9K · <a href="https://t.me/iaghapour/2938" target="_blank">📅 20:50 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2938" target="_blank">📅 20:50 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2937">
-<div class="tg-post-header">📌 پیام #79</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NPP-UhnWGIMKQfiHZXql-s_PX51Ji4qjATS7ae5PX6Xsw0ZIFvKl_2v-adr-FzH9XZuv1ARzzdKvJGlzhKZBy2EMFR6aqqQQraB2p1wPQwydAisl4fcaogvK59OTjZwOc1gPAqm7XKnMuecafPR47SE_QHEMTQ_9biXnEM5XlIOEB-avzvVAWfZV4cbNHc44RLd4B7KxQgfZyOOJt6gYmVP50TQVYUX2tSvVtcMtcW6h2fhWkPtJ8obd87aoNERJG1J3Ry53jI8qFBSMF5LGPAmDWEtlGJ1lu3tdXgRwx7UhDsI_NfjeDenTvzj5Z-c9iIjrJVVnx0BcMmQBU_PFZA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QpsoROCdTqmH8DUSRht6JoEW79thsIIkMk8ToBB3I52v_tS8Oe9U7tXSd5NVzXC316lJh65OCgZGNwcljArRc-8Mbs3sgd-ipnnU6OqOddpWLbkRYYoCFMdt705mGMJDok0Df2sPZ-wMuqtFNpnCU-JAUsOjC7FlRXYrMX_CWPN1KCjDvCOdWS82w7HWP01-F2aWMSj37gIgHFH5Hx_OabD_n7atzl4R-MayfBhm93ukUtna4q5yfkuDsx1LAebW0h6TKresffGCF9qdBULZGzWTdxhKIqKcUgU242kUev-UJXkfh97AjRPG8ulJaCjCiR2zWiqpxaXF6e4VpxSwQA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚫
 توقف کامل آزمون زبان دولینگو (DET) برای تمام دارندگان مدارک ایرانی از اول سپتامبر
 بر اساس اعلام رسمی پلتفرم
@@ -961,7 +1029,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2936">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/A9z813fLu5MVu98si06cR1xbCETikp0xq0QXO712btoB5FUPVi8ng_OGjl3Rv_00FjSNfNILeQzkIfhvzVLSR8tJP_gw2xSIn7cDbsdM98I93Ykap_duMJnfY7EfjC93QuCtOUwDd3JWTwObq2k2Y3NKVaooeHWs62UzqlGxujbDE99RVQOUc7cYrUYbA_V1cV1rvWdQOwF1Wfps_qJEwIgVPtxOP9nIqu3cdGtDVWu_QZpUjAm0YzSpjnyiPYtc0tIa7SUyMXIiPfYig_PJCNSOfU1X1s2b1RpWFOITe4vXbfnHda_U22JoMvsOfXjjHrO3VSDxKsq_Sicz0nJp-A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی پنل مدیریت نمایندگی و ادمین برای 3X-UI
@@ -999,12 +1067,12 @@ x-ui-reseller-panel
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/2936" target="_blank">📅 14:14 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/2936" target="_blank">📅 14:14 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2934">
-<div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MI5B7qLd7tpDuJ9kG5GZUQNLtLXKRpUz-fDvOEA7K5zNc-mPZ7gBFzt8jqmmcKfQ3lM7t3M4aPrZJ08iL6ZV4fxFIDFdiBY9yAaNMh0vjb3bT67FBe1xHB4gwfwvvnUCIDKHL6MwiS3NnYgtN-1HUsjOKQDCHepOFi5Qfs7QFqSsLPB1ZcKoHM12I5d1TKa14f7rbwfdqUWeqTCxQa5-dqNdIAJAyhL7KRJRZnoP5brBO-WrQ4l9IIixxfthayjyJ5X8T6yqYQsM7P2W0cdGaDHyRSbIv9JYu0OIsOW6mWCCoXp3IpJ152y9zxORwwMY30q3XTiZkvvif2EyKibOvA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ivYcI5nepSLDHDME12oBTM4QdJaE_Tqpsi1HOi-THVA6ihZfOjkOmzRH2LJ3QzCg4e4xaysRZFFFHM-YKeSq0hkMv8wzNI4YUPK2MUb0ztYFQQjnlA8dLOpH8KydW5nlMBjqA95-6Qsv5F2hNFrwOSV4Sj4c31Dc6EPNltMPb8y0NhNDlmn60zXLl2oxEXL0hiMD1hofRvHQTnHnftreNOXuYm6-0ycmoSKk88IC7cJn1bwjN_2ZukdgvEEw8s_X8sW8S51dS0CUAyXxIMODN-wmEEQnDAniwKFZMfLHFp83UyJowMYaAltYWkrDFBSaXC5D7Ogy2bSZws5VZezGpA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ربات فروش خودکار کانفیگ تلگرام (جایگزین ربات میرزا) + آموزش راه‌اندازی
 🔹
@@ -1033,7 +1101,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2933">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/X7OccIxMyQFnew36gkEefhjUpDcic9LxjKBNukE2CcPqx8qCljykcmkU4IuLR7qeEeMsAFs_yPQwTllODmiD0C_e15Y0NCaN56Fz3rWO9XCbkdaVWNl0BVkfqxZ7iqfBOk82l2R8vStddNfIS_EsJEyVdF4u7LYooieSdTf2xnC8mj9VUTgdNEUu-x1DMgShuXgLfbZ9Zdi7UCEbLSSmAic_L-_TENCkIPFFFSh_rzvTBGQ_SIDAsehxGzCleVMi6RoJ0E8v3OAxatEj5vQ22qxQDc1A9GCWDtu2p-IsVOSPkeVoNDOdStzKo8fkTmn-VDHUeFbOtFx4JcSLbFOPkQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 شناسایی شبکه گسترده افزونه‌های جعلی فایرفاکس برای سرقت رمزارزها
@@ -1065,7 +1133,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2931">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #73</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/L10nWINhr_43yXUEJHbTjC31dKhGUBVcniVSlXnRx_65cts_8DGNh3o1iY0IEADh6PsjnpTZtcWrPPg8_HWwDiTiWpVKicwjBT7IBq28QHGVfAAonn4E82taFOOf6RJ3mRgexBKHdySygLjE4YdJhOPfBGwH0a0b-TuwBmvowFh9SrEH6tm2KGVDjMYt4YeR-f_rL_Lfle9r2dzGBoxe_3q8HxyXozxT1k6nodp_z7JxkSN1UkCWVkH4tzDFZ8KC7gvROWKeRxOa7SHehw-xBcqUR5QxfZIBNVlGk_wKJC_z9Sj2pKGmEShx64KZ4VoMz1H6MmK1QCU62GApZhbbGg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 لطفاً برای هر ایده ساده، اسکریپت جدید نزنید!
@@ -1084,11 +1152,11 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.4K · <a href="https://t.me/iaghapour/2931" target="_blank">📅 20:56 · 05 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.5K · <a href="https://t.me/iaghapour/2931" target="_blank">📅 20:56 · 05 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2930">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #72</div>
 <div class="tg-text">⭕️
 طرح جدید «نظام‌بخشی فضای مجازی»؛ از جریمه ۱۰ درصدی درآمد تا لغو مجوز پلتفرم‌ها
 پیش‌نویس سند «طرح نظام‌بخشی فضای مجازی» با هدف تفکیک وظایف تنظیم‌گری، تعیین مجازات برای پلتفرم‌ها و تعریف حقوق کاربران نهایی شده است.
@@ -1118,7 +1186,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2929">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pbYTEhMSmW6o7tykQg7Z4fziCsNFhcNnRToyaOLlNr4V3aSYWTomaxDuamiO7qK_R1RhpqWTXDHQ9KopLNqTZf1KLD6NdAqg34Ftxtme75ABzo4QLSMAvnJ8uV1W2kbFvOvia9TF5s2wIq-_JJNR0kxg3PgIrfb3wLUfdiBqwWcbdeZroxuP3L1x2EQ7aAHbj_fG56GHSCxmV7pJG1-j1XPwnQELjuNpCsmtyhh9dwlj4TPNRE8B-KVBcJTc0ygfe9YXh2eOXiY60vBHvNUMlgV1uYR2h0stIX3J-sSL66hcupIfFwsiWPZSN83uhGxbeSGa7INlw1wIcidO1WG-pg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی تانل سبک و بهینه Netlink Tunnel
@@ -1150,7 +1218,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2927">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #70</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/O1YlYrkxsKqYG1s_x3lKGBrAU7x7lMsBpk1CbsXAtIpJQVK7MfXsGYGW8-iY66kSlFHDCy6M-aBChyyw_6Mwg6rHeMNPaHwDOThFch5m5fPdgProBnVb6kvXCXx7VCNFjRiqqSmUB2evQtzE2xMMXV61_cBqJRVTWLN81hHe2m3X_zlXVeAZodrO1W8UGCQgiT4qWJJCycVxh7fqHEApK0CqyT--yGJjNx2nynuR-_i3uZMxxE1LhEGxkzZ-15OEugSSyKU3mi2cepNx2tLAccqjixL4XO5yfwwe1S8_S3ezz8H5aFhtB3z93QCALwmBIE_kgFo-QrdqIXn70VhlNQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔐
 معرفی DayLock؛ گاوصندوق دیجیتال و ‌امن
@@ -1180,8 +1248,8 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2926">
-<div class="tg-post-header">📌 پیام #71</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tzyrjcG9CGW8o5utY6hMRs8TgQjBUtqoeT1SoOACOovHfhUREqkBiWn1DWNofViAVwWfY5alXqtMuenurrEZQSwRMIjPDcFeJQFjWNmrCdrBv5l99A5JkojfQqcwZk5-mOHsA7rOV8xDyK0hxRmENUdNNSodj0vCMD7AYdZ4hjJP3WocQo4gT-yBvRA6FrIR4oTBA8XbmkmxbUEMJDdeDVawWYjlb1P9CtiRllq6ZQuhL47up1U6lQSL_WMLliIP42RrTcO0_iSsBHyal1V-t-goW5VQ3WU8Uwb4nwdEW-1mtIBgGfUU9j6EWyC6_o6Lzo-qd96KsOYKtLpjGR85aQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CrPPpAQFvI13sa212qEMXL4X-dlD2FQ6UnbzaVaJp5HKtpfQA87F3m7DRglxP4PURJZnu4WzUfLONydCRnyE8IprscUas2-s9idqoNWJW3VYPzITiRZIL5KXy9qcVI2Z91la6XfKg7w3guiwVV8CjooQTWnmYz6njbhX5LB3zJWFq1OeWWqY9Vg7bIuC9_FHdMXWG4kzq4tPJafmn31pMD-Zv5TlGQB4BgzuP9bElkeEdZCO_tqIYkilld_MctJ0EQv9H7ynD4ke61kwotbRr4h9Pbte1aHofco-lzGAONO-oWP9ETPSP5o2EpCcG5mwDxs9S8v0JOl4B9oeIy7GLQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">رفتار آدم های معمولی با هوش مصنوعی
 در مقابل
 رفتار برنامه نویس ها با هوش مصنوعی :)
@@ -1193,7 +1261,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2925">
-<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tAGmKy01_8P_coRqkBDchMtQ77O44kLhnuNVEopEYcrG9Aj1yyOllPI2M7ki7556EDVzWPA8nY7ovz9W-zL3eUgAf_7veRYJZ7g94wYWvx7AZszJZROkGlRC25a_1aWrr47A0_CJ9vVq6szO1TDUKQ0Y0rL8goim-DtY4CJ6RYBYW8y6gF5squJGKwdCBwj7z0FkKvEwr9UefXd5omM7_sePY3F96QNdOhM0UUUhnzS-gTq4z93DqubvVYI1w5m5hNQi4E2n0TChYJZdT_tlkZipUdvGXbyPg_ileww82xzlfPS6gQ09oKVhagpA3pulVRNmUVeaL1CN7Q9PYvAVrg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎉
 آپدیت بزرگ ۱۳ سالگی تلگرام منتشر شد؛ از فایل‌های درون‌متنی تا پیام‌های خوشامدگویی اختصاصی
@@ -1220,7 +1288,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2923">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-text">🛑
 یه اشتباه خیلی رایج و خطرناک: «هر اسکریپتی که اوپن‌سورسه امنه!»
 سلام دوستان عزیز
@@ -1259,15 +1327,15 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2922">
-<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sOdXlSCafeKeE0-QkItO5NTFxzyRK-tUNti0p9VWYF_t5aF8pcdqMLlxOVGBpdqseEx6ZgnrULdedIWiw-QmWsic6AVsVaznFdWMiIYsSo2361VeNdvRa8oABnDlGHsRdmO4tbwb0VrP9D3DyDlJ5YWHL6owQHFxVdtYdIGGfLa4Jdllc9TDv73o8-u3QkVu7PCJSRTJlVXckM8ltHMo7C7s9_OI6tcc4iydWlK1SvTkbiu1ZzB4FD0eaMVOFWAfEFCABarQPOJvXWsmdkWTOWda4-s4LZrBB8RGV_-XHc_NMwulj6HRg_ofInW6YQPmpjjqXK4MCwUQcfQk5o33pw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🔹
 اگه سوال مالی داشتید میتونید از آرش بپرسید بچه ها :)</div>
-<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/iaghapour/2922" target="_blank">📅 19:20 · 03 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/iaghapour/2922" target="_blank">📅 19:20 · 03 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2921">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B9yjvSBAlWLw4OOFe4g0BN6f-fXxhRg88bZuY5UL_OTol0dNMX09cu53OFNZVhvN_9_ZtTmifDCJkns_JSPmvr5LGLNHqTBX30ombXyUhkfsgxcjm1N5FkhIy_6BSjCQ7SydqOwW0vZnJtHTYePURIiszKbyQ1oqv1EX43K1kdQY5mi29Gww8KAQyUQp3dopKqP-BwfyHPhlg8R2-GeBXsHHOCRVSosy66xmHGyaB07t7jyK03GmGPtTLsMeLnwhG-_G0M4qz7HxiRIuGx_itFfQUCBpIVpdlhXpud9gA0tpNrq70ZeO57rBKwsU4iugyRmorPGLjsR_g7_Ec-odug.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 وضعیت اینترنت این هفته
@@ -1284,7 +1352,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2920">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Cka00aB1OehLLF-tnSStqPhPKe9W4kQQ-6i2qbSVSgBS1pTmq1bbXPEdL_AJbbw_BO_pdUKCi2rK7BaTHGPtOguQzIHyBDOyZ8m2idqk4NsIyNOcRxwBW29ag5T2DWXgg8_Z-JipAXEZCyb_hsjhU9ku6RpPtQWBShnRhIJeJ9xR0uBIN-wKBzFUSia4GSzBPJP5eHtcgJBbOyvFQp51vmz9msnKvOHMSghtTXziuIHRrnyYpKW1lNhzHM2ma6m1W3CmUWokNep-Pm4htIXEoCsTA-3z5gaKZL5akTBDrRJNMp0sUgHyg6Xb8RIH02Ulh_eqwjgE6c532z9yaeg28Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ساخت پنل و شروع فروش در ۱۰ ثانیه! (معرفی ربات پنل‌ساز)
@@ -1313,13 +1381,13 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2919">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e25ab5fc23.mp4?token=Yc_WVjipXJnaNbIf-qNKpP_vCze2zKrLUqlrh-grSNy55gHBt_abWPhsoo6F-1nal2byd67AaOqlfL4b-OK8l4f3VfrxAP4goKyCiy3K2JL3Kb1-I3NH9iy5kpE55iDnM2-68K8hIlA8yVcNhxCeaRfsaZAp-2W0q8UDz4i5goHB5-PyqsE6Yot0JXrk4Qgnxm2EMtRLHGZWz1d-C3hQC_XApILy2chMX5Twu4973wGZaMflto85p-qx4PYg3g1-EduxYIt_nL-z1cJ4PUfpoj9fM0nOr8Q3F3yicEoMWfF-NeyMOcYFfK77jKzH_Qjhk0GFlfPJ2Tj5vDkUKPuDZg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/e25ab5fc23.mp4?token=SpBQPc4cZLWb0X9VpNeleYsLvD2k47qIHd8c75LuLCnK6gdF2VYtEMIfxy45XzYM3Ff8Gng5QqnR3f3tf2uarLaNbOZ7s_GOekAO2faQTpJlizaj_cHJsCMg-1qcQFJ6TpOgWtEQa6IAa1dKh3PNuEMD0jCq4ORs49wfyOY9-o3Tq9UWG8QZfFXi4rzjzzfYIfH82Zfzf764_Cw97Tz8S-oNU9kyIaMHxY51Z0Kd7kstGJ9_sflOYtosOnY3Q_CI1qcO_xcmg-lzqoxIgRdvbzfReqmhp2Z8DhzjP7Xu4WQNP8NvN_hVBNmBPVugYHJeKCAax3e2PYCy0A36YqHMeg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/e25ab5fc23.mp4?token=Yc_WVjipXJnaNbIf-qNKpP_vCze2zKrLUqlrh-grSNy55gHBt_abWPhsoo6F-1nal2byd67AaOqlfL4b-OK8l4f3VfrxAP4goKyCiy3K2JL3Kb1-I3NH9iy5kpE55iDnM2-68K8hIlA8yVcNhxCeaRfsaZAp-2W0q8UDz4i5goHB5-PyqsE6Yot0JXrk4Qgnxm2EMtRLHGZWz1d-C3hQC_XApILy2chMX5Twu4973wGZaMflto85p-qx4PYg3g1-EduxYIt_nL-z1cJ4PUfpoj9fM0nOr8Q3F3yicEoMWfF-NeyMOcYFfK77jKzH_Qjhk0GFlfPJ2Tj5vDkUKPuDZg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/e25ab5fc23.mp4?token=SpBQPc4cZLWb0X9VpNeleYsLvD2k47qIHd8c75LuLCnK6gdF2VYtEMIfxy45XzYM3Ff8Gng5QqnR3f3tf2uarLaNbOZ7s_GOekAO2faQTpJlizaj_cHJsCMg-1qcQFJ6TpOgWtEQa6IAa1dKh3PNuEMD0jCq4ORs49wfyOY9-o3Tq9UWG8QZfFXi4rzjzzfYIfH82Zfzf764_Cw97Tz8S-oNU9kyIaMHxY51Z0Kd7kstGJ9_sflOYtosOnY3Q_CI1qcO_xcmg-lzqoxIgRdvbzfReqmhp2Z8DhzjP7Xu4WQNP8NvN_hVBNmBPVugYHJeKCAax3e2PYCy0A36YqHMeg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">⭕️
 علی‌بابا از مدل قدرتمند تولید ویدیوی هوش مصنوعی Wan 3.0 رونمایی کرد
@@ -1352,7 +1420,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2918">
-<div class="tg-post-header">📌 پیام #64</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fymW-9U6G4KVag5cIpLWCMk8dkJGMS-jn4kZac9KbNt-m77kOZGC_onTAKQHPiFHUPkkGlwNy8aWlD8ZBxokQgwORj7byhChlzFrjiWhxK08U3XKZaFdyrdZnAQV3ezSHHXKwwqUW1lgV1f28MJb8II94jyOicnISvLJKb8R_SMjzJwQEwa-bzROmlNF0XHz3hDaIoGHao1RDuaIrQKohq5pDOzC0WYiZ9C48Sf7bmTNVB8JhQ49oYLOj_AvU8ypsTx7-eIuGD-bJ9V5ntbF0hPcvBbgZ96ziz91EbNd8klPxh95GVKmfjai_M-1j7jbZCWAegRE5RGmFVXOu9q-5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 پروژه استقرار PasarGuard Node روی بستر ابری Railway
@@ -1400,7 +1468,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2916">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/iVotU00rxqHQG7DjFja6SuZO9HeLX3By7bZ3jjPNQ10CfCw22YSIcHdz6JSh0VqNlnGUIvYALLRrxOzIw2hL71aFqN77ESzTiEtGF7DVsLKyLrOACQ7tcsWDAb59yn_WmnBXLXuDNAvw32YbGMUuT-G17oPnlvkANOky_gvBdS8eyQHnKAMS5ZlFNEMKTJ67KEcdzxFR7DrwLu3wc8rHnJcgCnE1rQ5pKZcDvUoS2kzkfjvPLhB_n78hbB5RIpMEEdRwvhd07O2aNjRjDI9glfmpz7Z58SuCYpqJGswUklw3bJ9_KGq0NaEU7VbmZPCu_VGymteqY6HOkXudmZ0tEw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی tproxy-server؛ نسل جدید پروکسی‌های وب برای تلگرام
@@ -1429,7 +1497,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2915">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/c58tEXkL3VcxtHinMd8MoJaLG510wUNuFMIoqRejLnjaELn2IsZZDhdPR93iUTvmM0tlEw6wshQn7kNgxr3039lYsOF32TIZxqFOCa3MyHfnoqSSJn8mtr3nRmp6Wyra-58CWJjzmS9i3sMoKFpFhatNdyYj_bAYJAM1LK1FwOIYZ14fkuExDDTL5dUmsswkFITQWS5IyViYshYwQS_LunywMVlCLfGhnlhZzhqb4jAEnSwS6qCe7Q-3UmmQphGCOZkbG6sCwGEkIZHdPt4amERsUOwb4aACqbPXUZry4ehSNWKmF5IOSGhUapO2E8BOVsY5BbgnCKrCoYFm3YrTKw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 حدود ۴۰ درصد از آهنگ‌های جدید ماه ژوئیه با هوش مصنوعی ساخته شده‌اند
@@ -1467,7 +1535,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2912">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d3foVTC6ZHSa01zMirx6OPodSVz5tjrNTTLE355NRrc4xnQETorZSiwcyLOCLQ296r9jYBdBtYA_ft4vHk426Re5_niGD2XPfzX08FDC_PBM6qezsUSoS6PuxzFop49ed158BsnmaBxkOr9xcyaKAlNV49zL7d64cTSY33tQsJ97kMErlsFwvJpvpdMrW7VQETvRMvAfhrhuChFNJPAi1lsrO2HJ1asqR3Zt59KdKh6DYQZ3B-BjLWO2g6bRbz00rZwT8Uaf57z3lERbK6kLlTST-vMekBnnEYS-uSHujGXraqmqPDItlZEdRJuZqLTU3O7em3uCt8Q04YzIeyZPCg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 دسترسی رایگان و آزمایشی به مدل‌های هوش مصنوعی Qwen در سرورهای Hetzner
@@ -1515,7 +1583,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2911">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">💡
 راهنمای ساخت اینباند در پنل 3X-UI روی سرویس ابری Railway
 نکات تگمیلی درباره
@@ -1655,7 +1723,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2910">
-<div class="tg-post-header">📌 پیام #59</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/o_C6f_i0o4drEpIlBMefBXvvTFkuUsNqwpODa5N9_jMcxQuAzNjWeudRDLXL1juXyJZh_WgydgF0P1XoczRbpLuW0ivt2atY-siVVPktVFetKbbbm27nhr3hFHgryVk94lm0y3gRAYREdpLveBYMMdCyLWx_KSGyzNmf5MUvafbl8zKgmhKwkklvpnuhqdJQS2h8t80AeovSP-kb03zRtFV3cc9M5nRMxEjzVvucQqGEVRDzxeYsSlZ_8fuDxFY-a88Zx_-UFl3HchCtFun3ZcFI3wNNohF-zl4VCdAR2794jLT5b_LsvDL_mxhu3jO6Xwgm1zLAVyWOi00DIBnm8Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 بزرگ‌ترین آپدیت تاریخ CPU-Z منتشر شد؛ نسخه V3 با ۱۰۰ تست سلامت و سیستم اعتبارسنجی جدید
@@ -1686,7 +1754,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2908">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/5de89d4765.mp4?token=USVQlAo99TiVqNQo_pZxaiQh5cuEGubUvupBuRH3gYOhCxzSf-PtwQUaM1Pkvaz3NYYnE0Qwdc9ZKsVty08V-dqDz6A1V2_cjkHgQ2ZfcO6Y60aJfJts9S3T1a48Mls41yaOFp-CwnOUh2l-Ckr4cmvqjo8b91rId2fF-w43whGzJMXtkuRWcuVfy1v6ts54GxnpbIrgUeTFdftONQzYwoanWMiNVjD48Tbua_aybdZI0EiEQiGqucTvgHq9gKJ6nJgPsZ5Uh1eetP3H6f_IFbcXFZ4891aQL7fqu3LvspO_49wfJkRbY49-8RI_f7waNl0eDGm8LkZ4naHzVn9Yfg" type="video/mp4">
@@ -1713,11 +1781,11 @@ YouTube</div>
 به دلیل حمایت بسیار زیاد شما حتماً در آینده باز هم قرعه‌کشی‌های بیشتری خواهیم داشت!
 از همه عزیزانی که در این قرعه‌کشی شرکت کردند صمیمانه تشکر می‌کنیم.
 💚</div>
-<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.5K · <a href="https://t.me/iaghapour/2908" target="_blank">📅 20:02 · 30 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2907">
-<div class="tg-post-header">📌 پیام #57</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HgY65G3ulvWyzVgr3vRxI3mXXUYAuPfl3bZOe49P_JNEaKw1U05fIyhhW-gAU7Jn_cDy2ZQyzklsN-RzAuq_ztRcZnGe40sAFd7Gnm7AVkW8DqZMFUoyaidgkupO3Lo7sdQwsqihTh0gxg41WK9G0jNIhrIFRLw0EG42H6zbk_19dy3zYSDN8KeAPg_b2e3f3rs7c_WGl1xiSi-NbK2IN1O9M7OE-gOEjFaagrZG-_TBJJUUCATMrdxGbV6UCQhZ5bzpNJl21yOnhgFUca1XMAIVC4nM0ktmHTf6zXLD2aSt-k3t90JMOHAJF5CjC0eGI3tiwqAftKUCz18qQ_sqsA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📉
 تداوم ناپایداری‌ها؛ دیتاسنترها گرفتار فیلترینگ سخت‌گیرانه و سامانه «شاهکار»
@@ -1743,7 +1811,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2906">
-<div class="tg-post-header">📌 پیام #56</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EqnSkmO_3k9bpVgK7PXJD-wpMzdyLC9QFtD2ggPwDlbKEIGKxZPJOQtCK2nE2KxfJKLC4qH3TlPH-nPsRO0T6DkHebBZqv8Y0ihuP3crIo3E_6gnBIkoAhcIK0kV6_mJJlucj3QTR3U1XqxrKWw_VzRBjXEAXE6y0fHCZAmLh3qdKWLAqSh4ywwilmrGSf5RRp5USdAfBNW_2JpYPpUOUJhjmgv_hGtx9Ciwd3hIreIdNkfLgzFjylkIjsdMVWnDavlL5WuXJhoM_E-mNjOklUnNisQfWz6Xe8Str2zH37mdbcPzLzAiBaDPtZthaapr3L33nNbfsIdP8op1twUE-w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Tor Node Manager؛ اسکریپت ساخت و مدیریت خروجی‌های تور تفکیک‌شده بر اساس کشور
@@ -1776,8 +1844,8 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2904">
-<div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WgBPWbP4woG_Bvj-vpAKE0vU1OvtOM5pOi3m6Zl7EFtIk-8LbiOBR83ezW0Q1A4UwjLib1uTqyBR1tqd_dZa9RjfE4XHjpZ2z_uSaO0iH4GbA0vEGG4VG0J5iXnoI24DHv3JUq9eOZuWcvl1jRUGphb26YJQfJEetUrcnA_822rMlroKwxroUBLgyA7ps45em30y3EarNYkWl7Vol3Uroftg6H20Fc5lZA1amicb6ftf6jHnVXa-aWZNYSr6ZFmtmavhUXjci_2L3gzDqFcg5TTo71rJcLNVxnd00TxDZACsKAOpW-4guV8RTpLIsTQtkUVAPHogZ2TiLY6F6Nur6g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #53</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KFIEjcod64B4jzj-K_WsxgLkpqguQSSG4pSmBUt0BVInrW5qSZ7m_TxtvKNdv9LmsqSd8uUe-c15-NZAgDOyNvf4Tg-HtmHui1poGXkKs1wy7RlxyG1R1HaEv0a1OEd2Hi0NDag-8GFJgXqJCq_W51D2-MxBkunsvB3tFBP90wo_rLH5d7Zv_0UvJqOLTF6XuTNY0f0dJ0ZVlx0dX0obKyDn6oIAASJxjQNwHoGf17WyOLyN2yIIUJAGBxwmetezMmtOMTnPHE-3UMZ_wsJ9UjK1EJeLhOJ9HDAsBu8wgrCLqly1hDHUYiT8VqBbBl3fCMsuZrnojZI1r96t8QMWTQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش ساخت فیلترشکن شخصی بدون سرور و دامنه (کاملاً رایگان!)
 🔹
@@ -1805,7 +1873,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2903">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rLBLX5b003cV_1rRr6Mzuai3dzaHTPJLjFwsHHJ2EzPrfg4iFQuLjXrY9CQpwfbYRNiL1MtZdWDzgZCFFowgybNK-jVUSW7M529TtWUhRUwXUtpjHoFMpmuDe9FdStTN1OCXU-CQkCCHjNi115FxDqL_61_Wls4tfCdztvsDgaxVt_QH7Ph_OYLhMJ2AUqfDvcGbEOYz8GTgA4GUQVc1rTBgIYNLHBFAD_s3ycyPkicv9SQLbCEGfn1yUfu6aai4INe2hZKrsdToUoHYDcdEUIB_merSR6W5ow72BptiBC2HIM7Jsa2x4YK8ZZwF2u_RTxPEI7W6w-CQiybzz7ivog.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش استعلام سیم‌کارت‌های فعال به نام شما با کد ملی
@@ -1848,8 +1916,8 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2901">
-<div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/mBDnv-pijox81pX7vsdmrrinuIsIVv-XA-gjUfywikSj4-zIJinvSLxQe4zo0psTlYlK3CN8n2SyFkTtZkA47BWBpER-pcnLhLyRO-NZEwZISRdJV5woEhCiPgd2babJk2DGfGPlsA5KR-4WqQJtHu-j_l-wT_PtxWRoyynRqJutoVPK2nOzi5xIVMEcX6K2-LK5THW8UfpHX0eeawcjgegzuainK8naaK1t4GXTGVfZJK5hiOGHAJFtFxPfpC6zpnLSjdegdkauR0ahFnTkHFsdMenzbRmyqPdI5F2M06Q7wsTD0Ky5sgkeKqAjLcSqh00fsFJzCaNiI7TXEzj8vg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/StYegj815YG53lcon21etkIZx7I2eOYiJVK2NNHjeo8xkmxf-_JSVpqQdmE-sQH8xUDfpZj1PMERfXsbUW-EennkvSWmBqycTTho5lFte5pvDZJS50F3kXeDM98_HWcSNvmHdvYs6sjscu_bOj1XPS4wHmUOuMPMLYTKbGP0MQeCFrgjix2HMDT-2FsSyBfWKlhIQE0XOF8GHJDTyKND1xTnChn1oc4envzNq11iXZGEv-fly1vorQSCnopDPi7mJsLwi1-5m5Ev_81idrRyonLge3iDIEqJpPOClRkgyFjJmKpLm9JRIbuHUIRiCEAjd9bYWrDX3WV5wQgDxxyI8w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 فقط با یک سرور، 3 لوکیشن مختلف داشته باش! (با پنل 3X-UI)
 🔹
@@ -1873,11 +1941,11 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 14.8K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 14.9K · <a href="https://t.me/iaghapour/2901" target="_blank">📅 18:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2900">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P5at9UXds1Qxx7gYtX46gUKrk0yMYewzKBnftgoY6_60vpiFXruXs6_pi6Uzv5lNehu52H18KTT8ate0DMjtkh3xCC5wwSW-NNPU5LrI6j4Xu01gwnJJ4iL1xd2CMGE3qFlBldTZ_rsPltz8zs8TPFt4lpXOaZ5CxLAjcR1ZnChrhL1a3CPRxZ4aVVtNz7WqB60FrJa9wvNuFRQJClZBJ-ap_E411EFc3YkaqaTL94KPtRozj8ELVXHQN6ZWy5JCKNVnDsiN5HTwHWHCXAGkqS02GXl68RDD_VqD-E6E7VgDEL7_l2Un1o0fMJR6E9svDkCO6X9TaADcgNYqQ0dBdQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 تلگرام به هر کاربر دامنه اختصاصی با پسوند gram. می‌دهد!
@@ -1912,7 +1980,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2899">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gLHQEPN7IlWeNHewSZUAq6L3NJOQH1h32GHHVCEkZBLUsHBPiIdKdvUKsdQXlNanQmNyjvNiZF6JGyKCc1hYvE04mF499nirAaxL-wMNfKDmcErZBPVYpyevkED_bZR27VyQq-Vj8My9lWDsEyw7NBqP-wMvp-uj9Va86fqNGNQ5qSLh_D53VqwhgQKIWRUNf0nW9z-pcN369gO6yn6JBDijBeQGEe93WPx5Sz1bmMRReBZCz89xivQ4FOJmtQdCevgpLMszTcYCzZl-0t9cfQ9QzTpgn9q-p4iYsb3m-_CiL0-pUlbNEdP5DwRUczAza-WgBvvanHxFMyntbtIIvA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 نظرسنجی ایسپا: بیش از ۲۰ میلیون ایرانی خواهان استفاده از اینترنت استارلینک هستند
@@ -1947,18 +2015,18 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 13.2K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/iaghapour/2899" target="_blank">📅 16:01 · 28 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2897">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/FnFoXTL8oCMrk13hTe80hoycH7hCmf_nvmxKfZECGzRp64y34b-V4iWVOtq0c0kG_gk15CKPKJ1euyKGb7jWpaK6QEDfr2jIbvOsBxbIBtieg_j4WirVjO0FHPw3gEau1sOYxnHRUqKJi0fgaiYBhzFbbFtUWh8sn9Dtfk_Sfl27Vc6K6iLiBR5wc19z_bv87tFj0m9hHSLZIRfAi8NixayYBUFqm-bVsj-o4aZvsAYjFePM2mbvCRIqUSVjaadWIhvdMm3jRgl9spFTew4cAMhKUe-d_GZKZVxX_YMbFg4VbQaFE9ZnSqIRPiBlJLKnQbLmgZgzqxloB1m3MFjSvg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">کدنویسی در سال ۲۰۲۶ :)</div>
 <div class="tg-footer">👁️ 14.4K · <a href="https://t.me/iaghapour/2897" target="_blank">📅 20:59 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2895">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-album">
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/QPv3E7SbIGd_-oKwD7qbjbTFjtcUri2rmuUmmEtECmc4BXbP9sLS0AcccXUXc3Uu2HT7r6v-7aSpBGbTLQZpfhVO1DHU4yt-QFDZsmLvN-ULzptcwbTP-I4Eho6f-z56u85SB0Q3Bx6mWRulpKwAR30kO-XeVVhL0sCNju-2yrQV50f5qIYYxdZeyhs-cM7DKk68CX_2UxGkoxehSZHvlVoC9IpVoaiJ9CJfBnyq-i4OSOpCu1GtqRkg9T22FSDNWANmZISIZhovlnC8nPPkW-QI_luIbbUdpwEL8zwIVzcTmUJR8QbSHSqn8LJNjV_o1zQPSIht9EMyaJVAtEN6kA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/cFAPhQryxDWkEz05SEwdjfDZiPBPQwNEgNUbYEtV85x69C74JD6l-mjuwWs7If0gOhMMNbp1RO6eRH57W13T3-ZHl9cCbhJPQhAXkZk8yFcwcv10xN3fPLLuo3cH-Sc8zc96yT8F6lkoaAilbpTfCNRTgfanLuAmqpD7Vv_1GFJHshNwXR-VFhn5TjSV8XpXAL3lHeR7wvvWYEb8cF9ZiAS9hfT7s-aKgw5Uv32FhaE7Eno1QTnPVZUZSkA9PY10sh58kCpwE4xLeKNtAV1IYexssGW0MKTZZS0l0q6Q9OxMaQJg4_noqsBhfnwk0aDRreNvRoPFbTWx3iRjvNZzKg.jpg" alt="photo" loading="lazy"/></div>
@@ -1976,11 +2044,11 @@ YouTube</div>
 متاسفانه یکی از دوستان دیگه با نام کاربردی پایین پاسخ ندادن:
 👤
 M4hdiGaming</div>
-<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 15.4K · <a href="https://t.me/iaghapour/2895" target="_blank">📅 20:18 · 27 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2894">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lRJrGKhVTaLYdIX8wZw9Q1Iq6I7zpCuCC8E9kMj9vf4dynkC42ICi_RS7xRsHY7H9c3ZXSLsStV29GlSwDARB4flS1PIzFIv59F65EsHSZvotFBi9KZDHGUHFWTPHegYUnOh8VdKLo7h5QTKoNBjbLpS9LqDPobfdbWm3a2xjbAJXYnA1-jJRi6Y5rvq0UUuKmlAwhwoMJCGf4tlER-kqxXkmT6z7tDmlrBRiyVV5MeKtqiiNzeQpiz-b-Qv8F2EShV92OvI_w3NZXswKl0R5SJXDo8MfpwxsScfUqspFfDnOucgMHNpu52wVuu35WqwYBTYN7FNBg0EX5_mBwODyg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 امکان شناسایی افراد با سیگنال‌های وای‌فای!
@@ -2007,8 +2075,8 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2892">
-<div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/K8FzNXAH1S9yFkfV0lEmaB5PD4jIfieJ1Uv1pNN7xe4TUal1Ctmo-ZT0MNI5U6wJSBtu4LmDTZdi0vtaJvLnyBBCWXhwTaloX6nii8WMEpQxRQM1QLUYZO4Jq1brDPveR5IpnyaizwECKY28_tfg3ApvOp_ni3TbySQ3HAmz1kVE4eyTuiKlOZfg65A9jlfUiRY5ccbGAt_sGd-bSC6q7KtUG46tJi0BvzWx-HliZdZR9gBvbQKt7xKuZHO3xiUnv62nTmZ682HApGWs5HEB4rtxjD4qh2ITgXPlBSUJ9W_CfLXnEti5JsDjKrB6rQi8QPtpGIJJjvkn6huidm5ZBQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rzJh5BCppcloNPwHLC81nJUDPDNqwvTtt5IfN8DU0exWF4S_DOU3Ies_Vzc9xht2v9_ZyiY89rqA7kKx75yPlamW-HclsVGl6dSpNDRLY-ljhWwFPsuHg3UXCjrEOhgOh1oM3lsax1QMYj87kihJQYiXG5MZnXff48z-09UawToVey1JaCMUdG1xn1aVc5ojD-JpC5f4FasKSEPn2iCer5CZRmfX8ehZYlO1bR15cel967Chg4zbFYbjQvl1bgSAvbavIMeEoKxP9r0x4DvQIVrcQoAnJikl0ut0dGWT0L6uoVEYuprdOW7gnywRIxSn_VAn3sE18GbKZBcfs_lXAA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش بهترین تانلینگ شخصی با Dragon Fruit Relay
 🔹
@@ -2036,7 +2104,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2891">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WIDDcLLcofto1fpLk9WOevZ47BxN_Ev042Py5nvwQ-q4eUB5QUt3j6HmMedNYDA7E71J0ZXFiwefptKUU7InqakgnYmfckGsyNcJ7taqm_b3BvkFjwpyjHUINQvj6o0KDA8rnGdvT06wSmDuuiot2qXfvLfUxl29zioPGEO693ZA0GZ1jgxme3gc1VQgmMpKEgOHG8wWxq4aTEpksVDkoRNNH4VXTGj4cHo2JnbH3c61HzK9fTgOHmtAG6wAfiX4FsZxlmUmBxFjAOS-ATXgSK30glEdquufKqoQccmkyd8OdgK84Yrfrc5JkqG061CGuGu2AfZOpENmx8HX293q5Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">✍🏻
 یکسری نکات درباره تبلیغات تلگرام و تبلیغات خودمون رو قبلا هم گفته بودم و خالی از لطف نیست دوباره هم بگم.
@@ -2064,7 +2132,7 @@ Ad
 </div>
 
 <div class="tg-post" id="msg-2890">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">دوستان عزیز، حتماً برای ارتباط با ما فقط از طریق ربات اقدام کنید.
 به نظر می‌رسه یه سری از افراد دارن سعی می‌کنن با کپی کردن آیدی و عکس بچه‌های تیم ما، خودشون رو به عنوان پشتیبان کانال جا بزنن و سوءاستفاده کنن.
 پس لطفاً برای ارتباط با پشتیبانی،
@@ -2077,7 +2145,7 @@ Ad
 </div>
 
 <div class="tg-post" id="msg-2888">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/W8wBZs5kmFKu4em6uM4hZMbuCAtvA27ZUAunMX-qFK2LuO6-hw0C24-nI4FtXHuiZf4JuX-wadju-4_mFoIOCImP4y0GSsjvCf3Q9QJ_G5f8zk71d-VxWpztnRpU_du5QUg3X3FiXaFfDGpGEqf6LVS8gnmhCuZHNrDgi-XwetBNIYKZchaX7BLSe0eeBG3_FLMlI3hWGzoZmd7fHCroBRExaPi3EM2BMCuUjYM-h4Tm6tPBvu3ekyO1Cgrz6P8WJHrMSgj_9ExwctDlvu-RIrbekYPQ115ZICoTXftBEEa2wfD5Wl7kipJj-Ag4GRN4tx8zuS7WrZWJMVQiZBQVDg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📉
 خسارت ۶۷ همتی محدودیت‌های اینترنت به اقتصاد دیجیتال
@@ -2101,8 +2169,8 @@ Ad
 </div>
 
 <div class="tg-post" id="msg-2887">
-<div class="tg-post-header">📌 پیام #43</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/viNISPGnSc8TBsvceouPUm16BTEDtag83U0EoADlVvglZsLsShwEyvxf6K3KTqNPpYgGlQtEkzVPBDloOOBZuqJCuzXWcS7_zbSxZVepKW-SQATg8eGoIHj8sNtvMj8QeZJqiAZTjsnJs_W3g1sTnYy0oilBgjq9Pr9qWRqmCKoGsm0q7w8v67RWMnEePwWi0vaW8eARqYiAxVD__dqqRukP0O4BHwE3IG-ok-RYDgp9iVQPY-GI-gM012lnxMJN5_l7-zBgGA_WgTCCQ7iUptYjzuy0YAjvbMkNxIqn3Y8ZSuChviU7Gz8fWzKcN5zi1Y9nFvKClH7sNa5Guyc4RA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gqdNd87f3Fb1z4ue6orgNAiYbdjvkYtDic0BQG3hVT8LxYvhQ4Avw8MtlkOa6GhS92b5G8ImOriAQsDUvCcnODkm2Zu8GX_8bp3GiA4m1wQxkfVHxdF2TASUxyAvgfIZixaiBvKSjmV-XfcoWR1QXqRtQDkFKzCJUJUIAxTUlQXmkVOk6bEsGtYJN-NnigxPcUNrZKLuGDFT-UeV-fzjlp39sQ_VDdYYUqsxCefJC6a1tA4s0B-RKDUlf0_9wYT3SvwK8NdQjrrZeImIJdUkm69BnCQyLRErpbeko5h6APuRFRgfSMKhsrNPYOBZJaZ6uNRRhgC4kzqkyvg3sSnZpA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 احتمال ۲۰ سال زندان برای دختر بیل گیتس؛ رسوایی تقلب مالی استارتاپ Phia
 اسناد داخلی و بررسی کدهای نرم‌افزاری پلتفرم خرید آنلاین
@@ -2132,13 +2200,13 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2885">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/def52ea06b.mp4?token=F__RHPb1Qe91cEEVyUB7S3h2aH0O0USbobOzvIHMcfkXnFIE9CNjtOegKqIzj8l2WHGI9lnpTS_VDqFpRdI1eUOJm0nZUeSFULTUwRjQ5TKZrgSDq7UXqnoD504vaIYFgIdhevru9wtgC3C9F4vf5bJatphv3OHtCduzf-zDyYezzjzS8Eoh8l9kRhrAFzgy6jket4kt_RfgaJ_Wf8mYp-vaNctofFvJPiWdbbCGBu5bGDu4UUPTcXLK207o0lh-uAqU-l__vIDTlRL8IdYy2zMtTCdU4WguwUt2XA7J_2l6c4uGISyGsr8PA9WQPhebU78gphfSK1k9izaHSdEURw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/def52ea06b.mp4?token=YuMjrjMVDgYlF3ABl5MV9_0qAVfhs3LzHfh8ChVvGO2mn1kKZYj5qsebczYqPG9B1EriPW302vRwfFIL8zmFW1TXgL0gtkHF8ZRMfl4o5wM38VI89FTIhVQoccTHqud_Kj8La8H1fW35CLU6oVYbJFy4hqtBKoNp7AFcKkumIdbhxl0tLF2fsVX3fKYgdYD9nZ3iZutxDQKK59zK0lzOttek4BbTaqWYN3FbwUtRopiyzaxtV6Fyq9pphW1jQA_aJXoR2yTDk5YMMdTyzTK-baXs9AYW0490G6rW4bqC3ZhRam34o11eoRcbbCR73ZrtJedUsI8ZqQx_tQiMiSIz9A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/def52ea06b.mp4?token=F__RHPb1Qe91cEEVyUB7S3h2aH0O0USbobOzvIHMcfkXnFIE9CNjtOegKqIzj8l2WHGI9lnpTS_VDqFpRdI1eUOJm0nZUeSFULTUwRjQ5TKZrgSDq7UXqnoD504vaIYFgIdhevru9wtgC3C9F4vf5bJatphv3OHtCduzf-zDyYezzjzS8Eoh8l9kRhrAFzgy6jket4kt_RfgaJ_Wf8mYp-vaNctofFvJPiWdbbCGBu5bGDu4UUPTcXLK207o0lh-uAqU-l__vIDTlRL8IdYy2zMtTCdU4WguwUt2XA7J_2l6c4uGISyGsr8PA9WQPhebU78gphfSK1k9izaHSdEURw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/def52ea06b.mp4?token=YuMjrjMVDgYlF3ABl5MV9_0qAVfhs3LzHfh8ChVvGO2mn1kKZYj5qsebczYqPG9B1EriPW302vRwfFIL8zmFW1TXgL0gtkHF8ZRMfl4o5wM38VI89FTIhVQoccTHqud_Kj8La8H1fW35CLU6oVYbJFy4hqtBKoNp7AFcKkumIdbhxl0tLF2fsVX3fKYgdYD9nZ3iZutxDQKK59zK0lzOttek4BbTaqWYN3FbwUtRopiyzaxtV6Fyq9pphW1jQA_aJXoR2yTDk5YMMdTyzTK-baXs9AYW0490G6rW4bqC3ZhRam34o11eoRcbbCR73ZrtJedUsI8ZqQx_tQiMiSIz9A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">تبریک به برندگان عزیز قرعه‌کشی
 (دوره سوم و چهارم)
@@ -2166,7 +2234,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2884">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UlYFZkx1tE-6mj8cuXD0fL0kkVCy_TD98mwlAKgnxHwChf9eWpf2ZeN8Jd1pSFWpiA8XxMjVv8vbjvPrBc8l36dXDPdUAPRtHv8hzSRMPSxYlLvX9WN1Hn_c5Oqb0QieIotxQFRXE8vV2DCBi24Mljbve6DFkSZvYg90yVyMi7YyOtOVBrojGZoH8fJTS89nOybd0iNqUCE7sSPFJ7gVnM6e5oKGm3vF6I-qEDE_DXdejPEyZLlYWYTUie5PU5gqGsWJsGV3N-XodUiMsW89GgAQgDyoBnWIcnGWMiwBrHl6F5ztXtdumrJrGgyM0eENN67fCSnhRUekoqee21aVMg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⚡️
 رونمایی گوگل از هوش مصنوعی Gemini 3.7 Flash؛ جهش چشمگیر در کدنویسی
@@ -2197,7 +2265,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2883">
-<div class="tg-post-header">📌 پیام #40</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/M1Gv0p5wWufx88ZSeIMObff3tUdKSK7HfOHSOmx6V4sXZjrWsMTlRIAG2kgKEMY6GJbqSHhZlVbK1nxn9iK1CXqVmySoA8A8csqVjZUk7GyNsf9dT7D0CYqlVqut7Cwz8GkA-CtTsKn0TmeBk2rjdxTzMVZDIr3upiZavD8KqXxXuc6wlBYWy3lrNe98dPb9l_lUbmnmrMtWYY2hT2OGffUTm8aTW-X1RQiogsvpunOVZQhcsDhOOz0Gb1LQp3-OEcbsTwyr4Qx1_SE74lIxYHp_WxsTdpa315pakDwUigkLKTIZmfUuCNy_YaRk9OI9gAy5g3lCSSQv9ynfFZrSzw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Smart Support Bot؛ دستیار هوشمند و ربات پشتیبانی همه‌فن‌حریف تلگرام
@@ -2226,7 +2294,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2882">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">⭕️
 آپدیت بزرگ تانل Hedioum Pool Tunnel
 اسکریپت محبوب
@@ -2261,7 +2329,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2880">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #36</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m48kBxPk-P2FkfHeSqmGI2ObZgR54ofNTsm7Zd51_rJhNGsXas-D9r6b9KVoQxLQDfU5rXMUHhdy-FNGLhu_Vmp8j0i9UsBWbl9spf7OgRsK8LuFU19JcPkx1Ia2VPji7VR4nSC-PVPmQpw0DusoLTEr7NIZj2UWEQ3fIMK25rPlmEImZMva1HltVCyqDksiPFIbtg-6g9sDDHGQCIdgGHl664DD5jgYhES7LpzZgwMMcHAGvK9f_QO77pLGIF6zYMRl2kQlzX0qxazKc4ClX30bPAIV4T9TKoV5pFN8KqNUgDyDzXSAlv2dpQ7OPArAzG1Nxw6pSj-soKFes3ZqBA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 همه هوش مصنوعی‌ها در یک پلتفرم! (کدنویسی / تصویر / ویدیو)
@@ -2290,7 +2358,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2879">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-text">🤖
 معرفی دو ربات تلگرام رایگان و کاربردی برای مدیریت و فروش کانفیگ‌های پنل سنایی (3X-UI)
 پروژه‌های متن‌باز
@@ -2321,11 +2389,11 @@ https://github.com/roseshayan/SpeedyBot
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 16.4K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/iaghapour/2879" target="_blank">📅 18:08 · 23 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2877">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #34</div>
 <div class="tg-text">🔸
 چندتا از دوستان عزیز که قبلا تبلیغ داده بودن قبول زحمت کردن و قراره تو ویدیو بعدی به جای 1 نفر به 2 نفر اکانت هوش مصنوعی هدیه داده بشه.
 تو ویدیو آخر که طبق قولی که دادیم یک اکانت داده میشه ولی برای ویدیو بعدی 2 تا اکانت هدیه داده میشه.
@@ -2337,8 +2405,8 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2876">
-<div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/EdhOgk4AGHSN68OV8AL3e5qb1OgyidllH_fPnKERUGQw9IpffIUZzADWIMGbuBOrhfnqnjrDjcJX2Gig0_eaaAZLVtiv7VOzFu3CLUxSvBuXS7hm1YuIHSu1tuRG9QwAcwSOitDZmyAtMDAQpOb6L0QFnmP1VhFYZsjCkm01FO7mlHKbCkQkxlGUxi0ww8fUJOlZhEtP9uDn_gP4KDIzBYGcZC4NpssNQCN0E6Lq3mev_JSiw4-n0vvFstDYC-ou98xzR9E1e8qRb8wupvFS9MdxUUMnMJXWibtALbKCuo9hWH0L1Zwk7pgpPvw4L1POr1rjuoKneQaZp07DtF_L5Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/D5H0Mp_4p9ucbrnu_u6XZpvrvBWy_XVc9PSJLBenoPwRfnvjUe4y0huxSJ_qBDLo-uKf0XQczkmILRL3zGpfGGgyRU-nPeXfBRAJ9g1Lmy9YmbBKu8Y33t0R-CdRqfnwl7Me5Oos73bNjcOZOAXZ-apUOfjAVJRbMAM9rXtm6vgY-6RiT0UbaOBfnIuF5hblQQwVZ4JRFikr4o_PRV4NEu6mU3CTw-XpVTz6qBkU2wULndLU6DXtaYNW_SrKlYnrhoZyzkfm8oSGbmoT6N7jS7OJrDwK9zFjqr_mxXZhQixL_zzeRf00fOaGQx-0fPmXkkuR7t1oM7qQwxI7dsPUBg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 واترمارک مخفی در خروجی‌های هوش مصنوعی کلاد
 آنتروپیک، سازنده
@@ -2365,7 +2433,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2875">
-<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/oErHX9v1YXDVjmiRgoHs2ZrjgODR7D2DciPeFni_VUQkuWl13RPIc_N9T6vsdWv12Y7rRIOwrnzo_3Vi8C7Lre9jFrvSTOM8FaHip6W8Lw1XEHBaeAfmwc35AYoRPjn3KJaNwTknSjARxSor66x6DrD28HDa6xkp1CY-agkkiDM4a_u9trLczpDRH0iPyutl1SvqZupKZQP6Erc5wv_3RG6FkHfBruVKgcyGxxMm9rJNiJso0Uoki3W8TtUk5AcTyPQcbI58M-Un26QebFBnhH1QdKeTuuiA70qflCkXve8-dDt6vnRytuk6aft6vPf4BceBAxlKmg-qxB-NCljriQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎉
 قرعه‌کشی ویژه اعضای کانال
@@ -2389,7 +2457,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2872">
-<div class="tg-post-header">📌 پیام #33</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/U9k4IK7RRx8ztxrGqwE9EKvh2-E5R1FUa7mOfdpohBmkf15lXNXRPsptCTfv8mS97fZII1n_1HnPG5ZZTIb6i9f0SG9cuLKdGpam-9XGqU7oIOsfldZJfF2yrgWxBeI40oct6bbNMXL-At_PUSHwiApzwye-ZaRohVvxkrBoqJN5dcMwhmRoILoHfLKzctg9WI3ULEnwoBBOiBoVipP4jESkInCmuu0Z8nErOpLwJsNyGbRiT6ikCDf4PoddabJD4Nd8PZfDgK3HN9iA3vewLdrl7W1folSRkLuwjZp1E8zq5ymHbPkB0EGe3Lt7qQrVztwvv97LcJ4-Otoma4aeXQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ایجنت OpenClaw برای ثبت‌نام کاربر سیستم یک باشگاه را هک کرد!
@@ -2412,7 +2480,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2871">
-<div class="tg-post-header">📌 پیام #32</div>
+<div class="tg-post-header">📌 پیام #30</div>
 <div class="tg-text">⭕️
 وزیر ارتباطات: اقلیت پرهیاهویی می‌گوید اینترنت فقط برای ۱۲ درصد مردم کافی است!
 سید ستار هاشمی، وزیر ارتباطات، در مراسم روز خبرنگار با انتقاد شدید از دیدگاه‌های محدودکننده اینترنت، بر لزوم دسترسی برابر و یکسان تمامی آحاد مردم به فضای مجازی تأکید کرد.
@@ -2438,7 +2506,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2869">
-<div class="tg-post-header">📌 پیام #31</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/aJKuKioudTz41Gvnt0iUHKqr7fwKEFbsK7NbsqCf1ljj30H3nExq6Yw6YyjHP76lEQ7n19VxPMWsQoPUTaUfBrAgFypaaA_qtPBafTqqaGzNBNlakFx5MXy1zcuyrGeo0OIs8Je6QL62RPetl2b5Lie7XnOFFE-zhNSspWyslUayQBY96XDCnPsCZ2YMla746Xx24AanNBPHrIb7sGvguf1P7M-Fy4boOjMT9p75JdUnnfkmhUKH-kOSH0K6BhkjiAouf8ev0-Qc4mJV8RVNnWYHn787PMY0ziz1ckI-dd7SnL_1eO_iUGrrA4dhG0wgP0_5A3obQPqQve1IV_MTNw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 مادر تمام فیلترشکن‌ها اینجاست! (۱۶ پروتکل در یک سرور)
@@ -2468,7 +2536,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2868">
-<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/tJpB6S1SCtYdL_09p-7b758YzMC35ZdJXz8cTyIadp2aWH2_t9bE0gKWwIp-jZ0EPsqKjzbPxDe8YrpqMmcC8EZY3jNVE6md02ldb8a7EvrEZN9pajFQZ6_hjO1qfIBJaNvib3kZ3efV-JHvqdIY2FR8yhJNSWg5UoLmwNfpvSrwGtq_5vmoJSmkgQwP8e6Um4IjNNZmNK-f8bIBGDsVNIuyMIKePNxn9XpTdh8m7d_Q30M6QjXNlzBO7w-DDg4ARQJW3h9_HsEUSpfTtXlRtBxUHt_tPeLFQ0PZ9xvZDvWPoCPd_x8B9-SaPrgiqT4E0mT2Tfr_6o502wbC5_GRog.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🖥
 معرفی LuciNet؛ نرم‌افزار پیشرفته و گرافیكی مدیریت و تست کانفیگ‌های Xray
@@ -2501,7 +2569,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2866">
-<div class="tg-post-header">📌 پیام #29</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OAyZlutOZjkPbJpm7kYkgFmIY9lJPzmCMA43nHEFz0F4fu-u2JkdGIvgqSb2mTsJ7speXbRXyXxf3eRa7Kq4RCVv0FBXQ3pthwpGw7YE_zWe18E4F6VZ1UBG61kWvHxZ3M_lwZbqC0nd279v15e8asSSpHkSpVE1bnBM_UWycKMQwtiKRMZX7YClOheiMXMcuuCSX-5L1g7bkibAIsif8oiNGJxAZv0m7VW0bHDswRX1SYsC-OJ_avKrV8VcnEo3ZwlcqlSOaFCTIWaikUC9DxmEUNjJwvmQdgA3eW1X8sfeFFw_l7kNb1EgFZcrgSuR02GEicnbFQMw0BHo8EQZcQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚨
 ضرب‌الاجل ۱ هفته‌ای وزیر ارتباطات به اپراتورها؛ اتمام سریع بسته‌ها خط قرمز ماست
@@ -2530,7 +2598,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2865">
-<div class="tg-post-header">📌 پیام #28</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/rwX_30fopVEfdtjnV7djEcKJhUUsnnIbu41l7wa_WP3GfaKagDAjJMnBtlgiNGyy983APEnf2Pg_MagGRK0ovDmkhoD0b56SbOE7qqd4wVwEuqy4_maqWDQjWLTq7wbuSx9XOeNHaNPUKDMAEvlGyRqaAWyZy1I9p2jo5SPktBLt9ysA-5BmlV55xChdaFysucmXFSr5_AJgfod6Ja_Bb4YE6X130WC3CVWwLmvb3QYew7fZ5XT1W39qFo1A2YuN-hckBIQyt7QzMIoFEyhl_d3edLrxCbBusxHiKONX20MQuQfvFf6kmCbNbe7Pg9jI7rrT_rR6jrchM3-N2JrhgA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 معرفی Amnezia Web Panel؛ پنل وب برای مدیریت پروتکل‌های فیلترشکن
@@ -2566,7 +2634,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2863">
-<div class="tg-post-header">📌 پیام #27</div>
+<div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/P42kuQvu2hiCTSUIKkFM4GZ_6ogWjqfce1f_jOikQOh1FrUPOfxcrUd4twp31KBgTPwl7rSwT5LdCXWiS6LkWyPd0jNEKw2--91j7Gx3sItJWJaU4yDqRs9iPr0qn6f44flhLkFIHOlgoRH9kc25WphEEqi8_Za38jCESVfgcEHITAxsq6PdYweE5CnHXrDg22VCGbRz5UJbP0aYo1FCEYxqpuKbTNy7P3sRZ6Ia-E1luyYmxwXluLtOvUh8kReYTOXdrH1VnA4xQIdMB5vJeYygiyL5jVskYIAwDeAQNEKWZ_Xu7d7VDPuYQ4uDp-cHMA-Raj32OAm-zFI07c9pEw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🤖
 چرا Kimi K3 آمریکا را ترسانده است؟
@@ -2596,7 +2664,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2862">
-<div class="tg-post-header">📌 پیام #26</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">⭕️
 حالت ناشناس (Incognito) مرورگر دقیقاً از چه کسی پنهان‌تان می‌کند؟
 خیلی از کاربران فکر می‌کنند با باز کردن تب Incognito کاملاً نامرئی می‌شوند، اما این قابلیت صرفاً یک ابزار
@@ -2634,7 +2702,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2860">
-<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/pDGwbHhSG8CDggLIuHBl9_L1LlXvVPgXX-l9UMlqEWRrSh-Hrc9-ekSGiWU82WMBses1NNl2KjrZMyO7GnoTRliCHS3io1Ikfz3JNhf54TKy_jz1OWsp98RVGvGTl92MkOuWvm8-UCN5ia8-dFxDxIdJnH1D-HO_VA3hXHgAqJM5N77qIVCfKFpkXHviVqYCyv5BREAUycdHxasJ5O9Jq5z6sfktALyIkAbEmB_yy4oB1nnxLX6YFvrBgkWDdiSZQb9EGqJXfkLYapnrjkhBBC4r4O-fXlpNddfaF6lJga_seVDL4NnWokb5zsN3Gy9LI85gbKj6Jpd8o39ATUTPJg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 ابزار Relay؛ اشتراک‌گذاری سریع و امن اینترنت گوشی با ویندوز
@@ -2663,7 +2731,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2859">
-<div class="tg-post-header">📌 پیام #24</div>
+<div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LreYFYcP3zB1FLNoNgrHGLN9GWw2hu6f2kHbABG3tCcyeDDHCv1Q2l44cuNo9pT72MC69yc_lsxINPhSAbVIlY6jyFpNibgVVZokkqjMKLjI482rEATd1yByQmbPYJv5dzNfA432VqxPBwEuGB1Xbrof9I5plPbws_vQbeOIgR78cft2YRwIOQ4DKIrsW7VZUH0WdCz-uW5sI7Bon3M7EcMoUgyN0qBPpTt7Irte_lrHpOLqACsO1dPNISrPWq7HY2GIhGfwTKqUqxAa-2HEDBfLiWpM3ufkdm6yXZPJl0r1jurzFmAM2Ye7k4XxcFmYKHxRDtqTF3O9g8xZ8R-6CA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سلام به همه عزیزان
 🌹
@@ -2686,7 +2754,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2858">
-<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-post-header">📌 پیام #21</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Pc1XKEWi6AkargDpyyuu-aDNGxnTuKK-l6Xpblqak3EPivMIH9mHwzeiX64Tn0zTXtPUP5XwMO8qfYRXi87vURdWEZRa85s0OEh2MaCbIzGAHcCCblFaaiQ7FU8xJWWHVNRQVCruRpeYikdLNfudxrKEG27VP66uYRtTgq0DS8VZ4g5ezJYtKmWjYXNIktvIJh72rmD5ImuTkip-JK-I0NiolgNL9Xp74-5PhphkDAJ-7p95QSQRXX-CI3zjvCtHL7d5g_EE7Erae4kmoO-jutOnQuzZceEu6I6aXrgcRCg4HXySpHy46Na79EYSUUP7nyxKmc-WZV-dfNhZhl0Ceg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🌐
 کمپانی OpenAI ابزار ChatGPT Translate را راه اندازی کرد
@@ -2711,7 +2779,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2856">
-<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jSkbP2eZYyYNNEY5zHa8higl4oVE7XbZtk8txhm1j4ve1VPk1UySv3tCCDByGzK5CEXXzYWp9cxYo-nl9uJ1qID_NPfU899qf-T5Gr6_2rpUWeFORQqGCAGnaXGhLcc1TvoUR8HE-WcC2SOStnQv_hpfiGN2p7r_hks8kEBw9y_rl0Ak1ljM6M2fh6DTxPMJkr8deODEVMhbkPcEJiWzGRMauZOP9XpnD_tCasv7vC3MA7gZZZD0ALGz1ouTSRZvfHTOWy9TaEQzZXdomHIZ6enng7mcalQq8d_qa0ehOE7jss9HL69YAM4-V8Xh31_JEqkqibxHl0xBWMYA5w4UvA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">.
 🟢
@@ -2721,7 +2789,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2855">
-<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-post-header">📌 پیام #19</div>
 <div class="tg-text">سلام دوستان عزیز
 🌹
 ✍🏻
@@ -2736,7 +2804,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2854">
-<div class="tg-post-header">📌 پیام #20</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Wt4TS4TFQcboAW9QFNOPXRz1N4bXTTeRIEdu_KIJFBMuflLlb_l5EZosvWuhXnSAdXAtgWlGN7NkAt-zuThyyW1BncrHA8_14qd79kiSat6zh9dtN1z71K0wTox-6n7K5OEJsUMXVD7Rj-hGhwYZotbu7DPYgp4ao7GcKPmnN-iSLIDwoeLfS0aSLUijc75Hm1paII09UhmjgNYtNdLN83c2VrfcZ8yuSf6h3CokCbMWI3QYByStjBkAuyNoH5UdZ7z6h1K753rcLu7k_mld1LbLAR17L366Gq4u0MZF6R5zN9HzSflYcoInegngFiLy4EdsBYXiHT6OQzyN6IcVvA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">‼️
 مرد ۲۶ ساله‌ای که در ولز با پوشیدن لباسی شبیه به عزرائیل و در دست داشتن یک تیغه بلند، به بیماران و مراجعه کنندگان به بیمارستان خیره میشد، دستگیر شد.
@@ -2745,7 +2813,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2852">
-<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromNovin AI✨</strong></div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/H4DUYRJe90rzg2RxQvkDb8YAK_19rh_ASrsdvctKuzXR4BmOn4SJit2Jj6jG86c6ai3Hp8SeJy6IiIs9PRPtg2uUh_zIZiR-T1oe_ihqdIC6sIoZDEEbo_ujduCSnzc7rWFcXaK_fNL2XJyXBSV7shsifWxCQQOnxRkJMRINnEQt3lV9-FdRh0VE3SFzBhpj5zqo-64dKyLbg0PFbX1cw_vS_J6zcTlf8CCsUxzCYqz2k-g82mp_HureNIUV3vaQtyMzfeySQPX2rvX8x44hSLozGV-kHvtVN2ajv9hD3MEUceTnEF5rrB4xooEMQuN6ydv6mPTOm7mCr3ZPkeqZpQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
@@ -2779,7 +2847,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2851">
-<div class="tg-post-header">📌 پیام #18</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RdBNIFYX0qMiJEkt5dqG_nw7Qr6Ayhlt0juxGWP9FsT1EXK6zuahYYD7-E8rOmkFQFdod5NC2-lEwn3ygeatCgkSxSJLR0EHpMo3447N49VbvoMcmFjQ4P432U9frAP8l1po1qrQEGfC962s_ahMOWZPxVbw-wDD498-thRt5XsR5n0m9TudcSmkXXrKFv5wholheCVblWDSx-5SQfPqjTO1UJvV1h_s1c4yYEK_Gp7eUo7tKK_sUMO72ha8qfT8rZtvJY-zgHDBC-VK8UW0VqbEIwuY6dS-p4mn4Dg-PTu8Gi3KkKqJMTVBEzM1qWCPwvlIXJVNlGCnG-2fISuHpw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎨
 افزونه جدید ادوبی با ۷۰ ابزار تخصصی به ChatGPT اضافه شد
@@ -2814,7 +2882,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2849">
-<div class="tg-post-header">📌 پیام #17</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IprUYot9sXwDDM8zZQ5bsRTqlmwoi0mGhXnqT9xndC3UZcTPI_fky8TBqIEPMsinq0BDGvVL7fLgebucJGAHiv_0Gs5q35N-weBs1kDlF6K9-r28UCjWQl3D1EQEdxE6vLV8phCXbXFEh2Ya2a5rkR5fTRH-R9FQ5MNzMX5COGRc3RSMQyko40-HIfsNiL2MxSrug-v9xINtNeaszcdskctmktanlIJTo5EJEUHzOB3rj4gxvONV1oxfym3NFBsiYHAiHT3S3dW6HRqI0e8vPG7epvZNw7QRarMpPo9LxxjOz3RzlXmv1SQ6GWTVhzO9bA0s_rYTjpdIUI5M2NHY7Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 آموزش تانل معکوس با آی‌پی فیلتر شده با سرعت بالا
@@ -2841,7 +2909,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2848">
-<div class="tg-post-header">📌 پیام #16</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/TyFboq-X8dMfpixHz5hB8iqaz4KlzwDA0t4otolq0fihYZmS2JF0fIKslUEriYqAGNKmFfkgfQJvEPBTwbhDBZv4K2pC0TjbN-84H34Izc7ekaxalAKDdUmKHZgxGkLgtCSZgfFnvnykmaBv1sFyynYIcQAOZ_R7QuhgVbb0_plebfsav0P-NdExJY7mIjHoQ2-ug7ErC7yJjXkCSdWy8ae8h6aM_FMwpVHevd-pUMcAs9Zj6VzfUCq14lZL4KpWuWx3nPvMOfbEx-CgePJAGAJ363idmOkyBb8ECG8xtO1y8nrEpIvK9BMaB53e_YT2Ienp-L-x9fxj-JS6EEUt2Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎮
 خرید تاریخی ۵۵ میلیارد دلاری؛ الکترونیک آرتز (EA) به دست عربستان افتاد!
@@ -2870,7 +2938,7 @@ YouTube</div>
 </div>
 
 <div class="tg-post" id="msg-2846">
-<div class="tg-post-header">📌 پیام #15</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qnGnnPhHrZz-7osL3dx7QGhVDctBZ3prysvYoLzUDOTV5IV9cpXqa8O2mPJzVVmbk-nxeVRpRY44fOlDnK92a670tAeo5_pUCM_qVmbtONUa3Y162-cfcDpVHVS_JaroVPshu4vzJUiOhuph7y_Yqo45_vR31PDtIgDnsoKI9hNtWlA6s6OD4wfsBeJzTcRSLd-0402-9PNwsGZgdIB3vsQ5_wcdjvj_WVgSaaRmyEmx93BfJnI7mJ0pLh8ws9sdqXbPyhvyWX45YGX9OQQZLpeaGFUde_rUj1iOIFNiWR20Sdmd_7_pNMYV5NzHDJkWGjhGtb1hErgDiUGcnLD23A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🧅
 معرفی ابزار ToRouter؛ مدیریت حرفه‌ای پروکسی‌های متعدد Tor
@@ -2902,7 +2970,7 @@ ToRouter
 </div>
 
 <div class="tg-post" id="msg-2845">
-<div class="tg-post-header">📌 پیام #14</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/BsqxDuSqiUTUV4VSY_Ko45b7TOmvw0SiIZePsDvwuKdEBuOfTbQFwCJdMzuBzmJTqsESxkxskCvlTsiKtHYzT-bd_W3mGCw6UuCaFx141-9h9S-7zuyap4tJEY0LpQ9s8q7HX6W1SJpfOVGPmOPnE3HwSs5YvUbjUWavzyI5g6jc3tWUTqtxmhp_SyqISF1dd-tukt2Tgsqypy9kTHRH4vWxhAJ6o1M09Znl1ytNLRC_Jq90NbxKu1j3jXKMITkoomqLjLuYMW0CMXFif3qqMBgtccHIfZPOCNTdtAXXz8I6uPjOg35pqZLEG1-N47h8ZF7s3YDB_gqPd9uDv4dvHA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 توضیحات ایرانسل درباره نحوه کسر حجم بسته‌ها و ضرایب مصرفی
@@ -2933,7 +3001,7 @@ ToRouter
 </div>
 
 <div class="tg-post" id="msg-2843">
-<div class="tg-post-header">📌 پیام #13</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/7fe5b23295.mp4?token=S-QzJJU8Ijcg656SmoyH_m7KvUMiOzjJgfs7P8ba9_DL3rVRM6bjujyzfsSgnPR38Zc4q-NQ8Uf5FtICo3vwwMQNyjiN111jThnuoBW8XzKtdIIsA7iXbyMCKRo6X7f2F7mI9OFl5EeGUXmFaQGR_UiBUEP8frbfN82thalRBJNeQGghDxCk1oz34SDLb3REPqI6AyyYUj_XH2IxX3PPWoNmjlXyATSegn0SkzGuFrv3p0teZXKakBBrepj6mx-KB4fhDwvVxSQSLHS50ue8jPhMuZiqABFmaSl7cf9FbTFUHmterChOc32rwrv6XgILk6zM5kie3DKtQrB35YXQ1A" type="video/mp4">
@@ -2958,7 +3026,7 @@ ToRouter
 </div>
 
 <div class="tg-post" id="msg-2842">
-<div class="tg-post-header">📌 پیام #12</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WRMQQDM5gM3w4XJ6jJi7LzYnfymjD-n3HNB9Je2o1Pq_aat6QWVLyFi9jMYwT5SdrjUyoEoneVuZQ8oa-ehjc7SsVbwcPpuJVxHYoKPZPsi7zYcXgaxZfmWwQmlNa1LMc06GHSYngAVACAlARIqVlZqy2Bogf5ZuSJmXMunNY1R0NuuH7lwQ0XogsmGcrBi5vrnlJzw284vsbFK0MKACUkopcmzKchyb_5dkUlU19YkEnFNUXvtKzaWqAhdqbeC-CZsCCfYDhG-ifjb4yD_qgcGSucMINjX1xNSpUmjfptU8sMZXHkAaycPO6A06VaClI2ZWDsb2-GBbIfHqG9dXUg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 دو ابزار برای مدیریت پروکسی‌های Psiphon و Tor روی سرور لینوکس
@@ -2987,7 +3055,7 @@ ToRouter
 </div>
 
 <div class="tg-post" id="msg-2840">
-<div class="tg-post-header">📌 پیام #11</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-text">⚠️
 دزدیِ آشکار و علنی یعنی همین! اپراتورها رسماً رو اینترنت بین‌الملل ضریب ۲.۷ می‌زنند؛ یعنی تا ۱۰۰ مگابایت دیتا مصرف می‌کنی، ۲۷۰ مگابایت از بسته‌ت می‌پره!
 با کدوم متر و معیاری این ضریب‌های عجیب‌وغریب رو روی حجم مردم حساب می‌کنید؟ این پولایی که بابت جابه‌جاییِ چند برابرِ حجم از جیب ملت می‌کشید، از گوشت سگ هم حروم‌تره. بسته‌ها رو که نجومی گرون کردید، جاده‌یک‌طرفهٔ کیفیت رو هم بستید، حالا رسماً دارید با ضریب زدن، حجم باقی‌مونده رو هم غارت می‌کنید.</div>
@@ -2995,8 +3063,8 @@ ToRouter
 </div>
 
 <div class="tg-post" id="msg-2839">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/kBgXBgIb5IPrbIbfULyLnM91CvJn0RbtXUXrG1TPqV-YVWw5Jc5b2TKYsnnl-Qki8cesXK975IoIxsOvKk0NRAUnA-r1jsYgSX0qQK2Tu89aCdRc87nDq9mJAn2GiUjsWfdibvuwUifBch2_v-6QCEw2YJ0LkYaXZG2Vn7jFUK6E-ZaNRuXkoEeebdFBYt893CQ_H_NZ_NdQyTEvqZHmyxajPXXdQY95B31DFe7z9Z0nQv0W2BqXo_JsW_bZe26J9N3v2XB9H5a1UZwtyGbDagaz5H0F26dQSDuUXA1pGOjLp6J-1CpS07gWyoJro2qbtZuaBBDM4LesYp-SfXfb7A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UwcKku5SIUt0QxO6UVABiREXrmFkd-qiVkVcbXedoNqz6ARHSMm1JwgepqAd3rHW_uyI-N7wkfM6LsAIJ6oGMO25r5DHTc8ag5CC57dg0QpJhQO7PALbcrhuqDxQPdmsBO5DSI51GbmiXNZO7l9A84F1Jw8A69obyWG05a_GrSpxzwOJHTjtSG0VwNDikW46NorVOwmaUDlPNxpg0kLrualIJsKFHFlYZbPnvBQhVuDPj4tbk5lhLDRm1WWWA-IUiWol5Uq0EqDDYfIqTA7Cnc6JLGWanOrub9D_WTG9GTZrvHRY74sfR56hMhibVUE0Q51zu9nwD1qDMWGYtGol0g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🎉
 قرعه‌کشی ویژه اعضای کانال
 (سری دوم)
@@ -3017,7 +3085,7 @@ ToRouter
 </div>
 
 <div class="tg-post" id="msg-2838">
-<div class="tg-post-header">📌 پیام #9</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AxQcMKuv9Mg3yyW4MG78lhUu1vIrBon2tEvCBB74Zct4uvMzW7d0k-x5NQ47jXQENojX633agnkA6G-_k1PCF_Se5i0pcPUGU1W8lrnoSOoFQ-5Yjhou24jjigYxY6xa-JBXVjOApWbAUEBrNWDTOK-FXPAzBsMVd7G8zo6nyBiJRQIxMgh1y7MtqKnmx_bMNlqjPx0aofvRzXXpYqokEXP1ky6-8QXet9H6dUOV8cWQLn3uB583GdvQyzrM0XqiT2XcKPzuXr00bvHVoGgLj-PP4xYuLz1FXLBv8laTmSuABLJd0PcntyZgbeiYYohzyU8HfMaEP546gpugqNFKfg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🚀
 معرفی کلاینت جدید Disruptor Proxy بر پایه Xray
@@ -3045,7 +3113,7 @@ Xray-core
 </div>
 
 <div class="tg-post" id="msg-2837">
-<div class="tg-post-header">📌 پیام #8</div>
+<div class="tg-post-header">📌 پیام #6</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ee7_Sae4LJP1b8XwR1qljlAwvmaKVxstU2HzBTIZ5jm0Qc4nsXTdpI5ARdz-4qvFH14mdDQJO4ygprbnQVpv9P5Egdaj7ZBOSWh7e3yB9NNxlBo41ZbkCdSHAvrGFwZRBi8h9jm5NY1OK05pQMzTdOwvyvIajgtrZe-xLlGZexLgqhbO5PUw-OwLHOpPoBK2pIPrjH74c6HviCZRZZKCV_PXmsqIl1Qr8d3MeO4e4DsaNn-rntVCMBU2IlC6VoorTjCSo5fZyz6QRtpg4ShkxOlnQq24E8VqCu_TxTyt64uWMnFggpSmN3ysjaPkIFSK47QGdRU7nyzeZcsOK4Wxww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">📊
 معیشت بیش از ۵۰ درصد کاربران ایرانی به اینترنت وابسته است
@@ -3068,7 +3136,7 @@ Xray-core
 </div>
 
 <div class="tg-post" id="msg-2835">
-<div class="tg-post-header">📌 پیام #7</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-text">⚠️
 باز یه سری از بچه‌ها دارن می‌گن احتمال داره دوباره درگیری‌ها و جنگ شروع بشه. از اون طرفم خیلیا نگرانن که با بالا گرفتن اوضاع، دوباره با قطعی اینترنت یا حداقل اختلال‌های شدید و از کار افتادن خیلی از روش‌ها و تانل‌ها روبه‌رو بشیم.
 واقعیت اینه که کار خاصی نمیشه کرد و کنترلش دست ما نیست، ولی تا اینترنت هست، فایل‌ها یا ابزارهای ضروری که روزمره لازم دارید رو دانلود کنید که اگه باز شرایط سخت شد، کمتر به مشکل بخورید.
@@ -3077,7 +3145,7 @@ Xray-core
 </div>
 
 <div class="tg-post" id="msg-2834">
-<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ORtnwS6DEoqAjGGlwxiYKGasn90aBYXf2OUA3H8mP3UHvy90Xq305Wtr0FOE3FJ8GhKup3gKpJqC8fmeSts9zPnKbmCjSfJiQjLabniwvEzNZ8C5dwjxw8rh57YA5gv_F4mBQy1xyDP7r8ryq46QqeKPriIsTB4YeiQiFqm0RNIbceTuIbQ25zyIm_Q_3yVGkd0Eq2DdjBs6Nf0zsPr7vNGTyz3R7KCR9AdkkGBcpZv8lNxal3nxr5jn0hKLEHnMQYWknzhw03QO974Yq21yiRm3w0RV3JlEFfahXzhpkWzxDd42SG-ykJBrN5mn-ptvPG8fC7MDTkUz4-0qJWJXPg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 گوگل محدودیت جدید نصب فایل‌های APK را برای کاربران ایرانی اعمال نمی‌کند
@@ -3091,8 +3159,8 @@ Xray-core
 </div>
 
 <div class="tg-post" id="msg-2832">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ba0qmCx0KUs8NhKxYsV7jW0-JB1W7Lq2Peqcin1JlqvniFMGdljr-M-bMWEI8qfwYHYR6jNCk7n6alClf4lfJNgH1J-94-TdG8h7oN5-tL_Fjz6qBbgUaf3Qn9QC3w_zVJjjrzQD5vvwk59OShdz4yRAfuHAO4ew4UjmjHXPuFRTtrpm3YMUB-kcKUdguTGJyUY8XV6EIhzfNYk8Fv4yjAjSFSAMv4OGnofuHdBitc3nvUkITxKaDjeGy7DMnp7kn6cydbEndD1PRw0JLq6bvuvZsfZYvDiErcV6s5BHJdEHMqw7KdLPJWJH-owfAcuDcX046g2JpbHpanh77BE2Pg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LRHNc3M_keHVPLw5kVbPuR7HsCxvGHVXBjyPSe-hhpbV5ZdfEiS9QKfc857DkIeD6eEnFwxJ_0PuGC1WRljQbaFtPIrNFbOPNaSDbqdWgKunG1h6MUaJ69V95NqUhjOV8B8-pUqIzkY7xqFPB-sWKGcQRHcCnXUZ0wNzePMWQ3H0sYVMz4UYGHHc-Y1nOnOhRsR1ZCwiZRWvZfRf8SahlIwVT0uIdLsXLY1dvHorDRavrDe_Qg6psZ2KxOoXbrkddkgbXGVQQfDPB1Ztl9a1zm1a7INAk_cqKIK0c5AJE2zJAnsNQz8lULZAIiXFE-bpFiTznVRzNPwmJmLo80XBHw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 صفر تا صد تانل زدن و افزودن نود در پنل نوا سرور (Nova Server)
 🔹
@@ -3122,7 +3190,7 @@ sudo certbot certonly --standalone -d YOURDOMAIN>COM --agree-tos --register-unsa
 </div>
 
 <div class="tg-post" id="msg-2831">
-<div class="tg-post-header">📌 پیام #4</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/OMvp2RCDXhoUbxSgm9Ielza3mhI2q8DdyH_PsUv0AM7IcESK7dhc0xwm4A2_rk35BPa_AZjZcTUM5srzHblKAoPixyRfS8MBtGXO0hD3fs9ujXpp7CZBpOJ8gNs43SxvCrE2hOzV7QyWcrBb2uZHQVBH5hrWSTJJmh_M9l6T6EYqeoZkp4V4RK-LOovCCo6lLt04Av2eSnbA1s3DckQtIhBFk6D-X-sbCXM8RCBWEpGZBwnGOp1xMDOs98s5h8Lyfy8ZlGONva5ZisgUO_z5lq8JGTPaKMLExEIoXIPIuuE9C5BptmCs_tH-lzahLj8NEGVALqeLXLEMxKOoxkgcmQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 امنیت حساب اینستاگرام در صورت استفاده از VPN
@@ -3149,7 +3217,7 @@ filterbaan
 </div>
 
 <div class="tg-post" id="msg-2829">
-<div class="tg-post-header">📌 پیام #3</div>
+<div class="tg-post-header">📌 پیام #1</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gIrGQASUKQ3fpvAzlM_tx40Tq0-SUsfn3P4nBHaXWwTXbepY5j8mtyQHMx_TUO-WbdiaSJd3zcluoxc2LFzzZgUwTmtgqUonsoYo0uM4FA2vBMYVocRL7QKHlS74Qq821cop1FlSmS7kLVJNJM-I8M62C7eobDcBhq-5JRyVe4QhUFFn9Ps2DG5vBArjiroqhOc32TMtnpglHE8BCfK_3975VtBptqk2s7Tm-JMicV6QmPuw91bSSAndw2egibktuRzPt8gZt49YF2Ab4XXMh2a6Q6BBkF1nbTcN8gMRu9FcHb1wnNyD4Ek3T5oKzIARcx55piKFiC3U-_Gy9_DtvA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⭕️
 فعال‌سازی رسمی اینترنت استارلینک در عراق
@@ -3174,71 +3242,6 @@ Aliasghar Honarmand
 🆔
 @iAghapour</div>
 <div class="tg-footer">👁️ 19.2K · <a href="https://t.me/iaghapour/2829" target="_blank">📅 21:50 · 08 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-2828">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fUAoepMdH2Tf5Q7S1Xi0aE_4Skc_cV6G5U6bLf06nPUV3CIr9yTLXDH2zKqmm8NZS7anWz8RvrGI2cDNRBxjBjFNhgiZCCd_4zYY58DGsLLuNukUSO3_9YKUXTjo22A2_A_ZSZfZOpwr9KOFSIwK8UCCqzAIiI4wwsDYyhO-iTJmHO0JkBNOikZieAywckzuDYtxnFJoB0_0PU1_Yv1C52eqDzf14CDtxHs6qinsElaP4Fl6a3MF6tdpdMEUz0RI66WuIhA9emofbYkoh0hmUjA7iIMMNt0D2KNMhpTwIRFy6_bMBLhpQsSBC0OY9CpEUWUNKUBSbfibmcEUmzCODg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🚨
-رکوردشکنی هک‌های کریپتویی در نیمه اول ۲۰۲۶؛ سرقت بیش از ۱ میلیارد دلار
-پروژه‌های رمزارز در ۶ ماه نخست سال ۲۰۲۶ با موج بی‌سابقه‌ای از حملات سایبری مواجه شدند و تعداد حملات تأییدشده در این دوره، از کل آمار سال گذشته (۲۰۲۵) فراتر رفت.
-⚙️
-آمار و نکات کلیدی گزارش:
-💰
-حجم خسارات:
-مجموع دارایی‌های ربوده‌شده از مرز
-۱ میلیارد دلار
-گذشت (البته خسارات مالی نسبت به اوج سال ۲۰۲۲ کاهش ۷۴ درصدی داشته است).
-🔻
-نقش هکرهای کره شمالی:
-بزرگ‌ترین سرقت‌ها از جمله حمله به
-KelpDAO
-(با خسارت ۲۹۲ میلیون دلار) و
-دریفت
-(با خسارت ۲۸۵ میلیون دلار) توسط گروه‌های وابسته به کره شمالی و با روش
-مهندسی اجتماعی در لینکدین
-و نفوذ به کیف‌پول‌های چندامضایی انجام شد.
-🌐
-آسیب‌پذیرترین شبکه‌ها:
-•
-اتریوم:
-۳۳۲ میلیون دلار خسارت (تمرکز روی پروتکل‌های استیکینگ مجدد و استیبل‌کوین‌ها).
-•
-سولانا:
-۳۲۶ میلیون دلار خسارت (هدف قرار دادن زیرساخت‌های امضا).
-🤖
-تهدید جدید؛ عامل‌های هوش مصنوعی:
-کارشناسان از احتمال رشد حملات تزریق دستور (Prompt Injection) به ایجنت‌های هوش مصنوعی خبر می‌دهند که نمونه اولیه آن هک ۲۱۶ هزار دلاری پروژه بنکر بود.
-🆔
-@iAghapour</div>
-<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/iaghapour/2828" target="_blank">📅 19:51 · 08 Mordad 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-2826">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/R4TWoP0cp6FF-AMYbT3ETW1XqPUQyKqNff11UE7gx859-vaHYbey-jbD9rP67B7OQ--zesLVaFDcfZ3nptmcJfOtudLGUcWs9ewaxKLuWwLPnVi7NKiQ2V1h239JxVS4ApGAUCJnwegyrdwjSVl6ooCEkqFCthprGx1H8ToWjY4tncNcmHj0hgD12Z9i_opngNuQJnJtpYz7QOw-20mKVhnEwx7n7O8A3AZNGiLnRWTRwNt-JMxv6RkVotpiD7txuCSfPB7cJIUp-PTRwV53bKV2ucuxMO9ENi_7toLTEHhjnUzAd6TCi-N362m-4xiwzRzmD5DDSHz6E6sAZrWzuA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">⭕️
-تمام پروتکل‌ها در یک پنل (L2TP/PPTP, OpenVpn, WireGuard) در کنار Xray
-🔹
-پنلی که امروز بررسی می‌کنیم علاوه بر پشتیبانی کامل از Xray، یک پکیج کامل از تمام پروتکل‌های کلاسیک رو تو خودش جا داده. اگه نیاز به پروتکل‌هایی مثل سیسکو، OpenVPN، IKEv2، L2TP و PPTP یا حتی وایرگارد با AmneziaWG دارید، این پنل همه‌چیز رو خیلی راحت و تو یک محیط یکپارچه در اختیارتون می‌ذاره و دیگه نیازی به نصب جداگانه هیچکدوم نیست!
-🔗
-تماشا ویدیو در یوتیوب
-#آموزش
-#فیلترشکن
-#سیسکو
-#l2tp
-#openvpn
-برای دور زدن
-فیلترینگ
-و آموزش
-تکنولوژی
-و
-هوش مصنوعی
-ما رو دنبال کنید
-💚
-🆔
-@iAghapour</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/iaghapour/2826" target="_blank">📅 18:17 · 07 Mordad 1405</a></div>
 </div>
 
 <hr>
