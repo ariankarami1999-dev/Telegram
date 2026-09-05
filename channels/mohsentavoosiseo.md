@@ -292,13 +292,13 @@
 <a href="https://t.me/mohsentavoosiseo" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 من تالیف و تولید می کنم✅. نه ترجمه.نه اخبار. نه گرداوریدوره:mohsentavoosi.com/course/seo/خرید دوره:@mohsentavoosisupportyoutube.com/c/MohsenTavoosiInstagram.com/mohsentavoosi.seolinkedin.com/in/mohsentavoosi</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-15 00:05:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-15 01:59:55</div>
 <hr>
 
 <div class="tg-post" id="msg-946">
 <div class="tg-post-header">📌 پیام #100</div>
 <div class="tg-text">این ویدیو درباره این ویس (سراب پروژه گرفتن) هم هست.  تله شهرت! تله geek بودن.  تله دانش بالا. تله محصول نداشتن در ازای برند عدم توجه به فرسایش ذهنی    https://youtu.be/njtLVwnzyIY  @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 960 · <a href="https://t.me/mohsentavoosiseo/946" target="_blank">📅 12:33 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 978 · <a href="https://t.me/mohsentavoosiseo/946" target="_blank">📅 12:33 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-943">
@@ -338,7 +338,7 @@
 🟢
 اطلاعات بیشتر در info کانال(bio)
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 1.33K · <a href="https://t.me/mohsentavoosiseo/943" target="_blank">📅 00:07 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.34K · <a href="https://t.me/mohsentavoosiseo/943" target="_blank">📅 00:07 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-939">
@@ -384,7 +384,7 @@ Unlearning
 پس فردا میاد کل اکانت هم لابد بن میکنه! پس فردام میاد به ما دستور میده!
 من برای اولین بار ترسیدم. این خوب نیست اصلا!
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 2.6K · <a href="https://t.me/mohsentavoosiseo/932" target="_blank">📅 14:12 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.61K · <a href="https://t.me/mohsentavoosiseo/932" target="_blank">📅 14:12 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-931">
@@ -404,7 +404,7 @@ Unlearning
 <div class="tg-post" id="msg-929">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">Voice message</div>
-<div class="tg-footer">👁️ 2.28K · <a href="https://t.me/mohsentavoosiseo/929" target="_blank">📅 13:55 · 06 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.29K · <a href="https://t.me/mohsentavoosiseo/929" target="_blank">📅 13:55 · 06 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-928">
@@ -1011,7 +1011,7 @@ https://www.epinline.com/gemini-google-pro-12-ay-mail-adresinize-davet--p-27078-
 بعد هم پول بده تبلیغ کن جا بنداز پشتیبانی خوب هم بده. این بخش از خود تامین، سخت تر هست. اول فروش. دوم فروش. سوم فروش. بعدا محصول. قطعا باید بها بپرداخت برای اینکه بشناسن محصول شما رو و اعتماد کنن. خیلی بیشتر از بهای خرید و تهیه و تامین خود محصول.
 رفع مسئولیت: من فقط تجربه خرید خودم از این سایت ها و دانسته های خودم رو گفتم. هر قدمی برمیدارید خودتون مسئولید.
 @mohsentavoosiseo</div>
-<div class="tg-footer">👁️ 4.35K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/mohsentavoosiseo/882" target="_blank">📅 14:04 · 15 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-881">
@@ -1541,7 +1541,7 @@ THANKS FOR YOUR ATTENTION TO THIS MATTER. PRESIDENT MT.
 
 <div class="tg-post" id="msg-830">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/uRyV6t5wicZNX9sevu0JePWiX8QhaLhQm01pjEhST48GVnzT4Ma9p92pymeuVBqygEk41huKgDdauLbaS8VrZCpR_RXXFZ5gAOk1utD5zClCWT7qtWro_1OZJQnwfNlM-Ab0S5mi_4YAaft3IcBgyCGSneQOApKkG6J89f6tDNP0QGPERVvWpEiODFKv9lizZCcCVRfimU2URjSWJbI9UX6Ex4-Ya6JDJhV2qUO8k5nYsQ6Nil0spDupB_tTARNbMbPzW5sdZdfDyxe-0pe8KXIdzFEWnr9u_Gc6Uph3P2JQOtbcDod8IwtvtzDF2DpSNrvDLNNcZ5xym5tkGVR9aA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hNdxevv64yhsWqyiKoMIhojgtWqsgP7DFkKXy_xWyF2oQRo8A9sPhdO39anAVZlznCaEntQFH3fv6x4ZhfBayC9z6hIe1djYzVYmL3mmUXRdef9FP920ZTKuord5N-eT1vVzBsccNtF9rnJ28NXf02fT3yLY7Hll-1Xd1PSH36GXJnwtf7x_9GnDleBl1v2J9N5G5XbXdVeX-mnARu-Cji9Y6YbMiNGWzG1O-bXzTmjJ3MJIUAQBXoYOa-E2Xl4Aegc_gubsN1lC8RVXj1Ld4cywEBz7gtVjDUPjA4uonKTjVptUDHsVQ49Kqzd-Dx3sbJP_a_ncd5zWHEnx16WlPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دوستان اموزشی پادکستی سراغ دارید برای این مهارتی که وقتی سر پول گرفتن فضا سنگین میشه بتونی هندل کنی ! کلا تعارف نکنی یا با ادب بتونی پولتو بگیری بدون اینکه وارد تعارف های بیش از حد بشی یا وارد فضای سنگین بشی و طرف با قدرت کلامش بواسطه تجریش ازت امتیاز نگیره…</div>
 <div class="tg-footer">👁️ 2.32K · <a href="https://t.me/mohsentavoosiseo/830" target="_blank">📅 13:50 · 23 Tir 1405</a></div>
 </div>
@@ -1616,7 +1616,7 @@ https://t.me/mohsentavoosiseo/826
 
 <div class="tg-post" id="msg-822">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Oil-2qfAuctfghjulgL7qvHRTpWac4ROpkEkmXjYrNMhHnjt0QE26svHbzbAoHloj6vgINkYyTZ4XsGZOihLhTqqY3l3o_tm8YUmAWflfsHLaLCUADBHN8PbSPVuLwATCK78Feeba5XfybvDh9JRF0ea07ZG-t2t5z0XeE0JqcX4gTmaY_bMgwtAoqoxh_WTLrH2o5ENafHlrocJyELKQHzA4g55V_blt40wj9LLx7Zye_VVnnkv_JQ_7IKEO6U5e_uJmc9jWNO8Rp1Qbsi3P5ypovnLXx7AOz3pMTp_m8PyTOmHa_ghoeeRtjxLNLkMEQtNPEMJkKacDKd79OptNw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hpp1y5aoVtjpwDohyATWcXaQmyiHfQoo226r6qxIQe6xtCP7_D38ZArn6oCwX63t0yoTDlv-Jds0NF26rQ8S2Ymv_1flH8SD8a9EyzasxTnVumSb9JPkZzYC7EMRSO__BgEriLuQPZsKIftcpdYZubbtuMBvSZAR-W0miNw_6bvheiRRhUVAuY4oDCleOoW0LcZkkskxXNEKmp7681M_LDxG5dS1fpB8Yd5ylYm1uUYMh3mqXD_qRZw3fsJNrh74dZ8lb5h7-KMI9O9y_RfUBYagawm_14_uXfqAH_aFHSmqgAJw6xmX5xtA37b89PE89GLVw8slXWN7bp35Vq_D-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بخاطر احترام به حقوق تولید کننده تصویر
 لینک پستش
 رو میذارم. ولی حرفم خود تصویر نیست.
