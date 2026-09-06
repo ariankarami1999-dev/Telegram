@@ -292,7 +292,7 @@
 <a href="https://t.me/iaghapour" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 اینجا علاوه بر ویدیوهای یوتیوب، لینک‌های تکمیلی، فایل‌های مورد نیاز و اخبار مهمی که در یوتیوب گفته نمیشه رو به اشتراک میذاریم.💚⭐️فراموش نکنید کانال یوتیوب ما را هم دنبال کنید:http://youtube.com/@iaghapour📞تماس با ما | Contact US@iaghapourbot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-15 01:59:55</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-15 03:38:41</div>
 <hr>
 
 <div class="tg-post" id="msg-2970">
@@ -336,14 +336,14 @@ SimbaServer.ir
 +
 مشاوره:
 @SimbaServerAdmin</div>
-<div class="tg-footer">👁️ 3.26K · <a href="https://t.me/iaghapour/2970" target="_blank">📅 22:50 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/iaghapour/2970" target="_blank">📅 22:50 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2969">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">🔻
 فردا یه پست مهم داریم درباره خرید سرور! قراره به مواردی مثل نحوه برگشت سرور به هاستینگ، شرایط اعتماد به ارائه‌دهنده‌های خدماتی که تبلیغ می‌شن و قوانین جدیدی که هاستینگ‌ها باید بپذیرن بپردازیم.</div>
-<div class="tg-footer">👁️ 3.84K · <a href="https://t.me/iaghapour/2969" target="_blank">📅 22:34 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.04K · <a href="https://t.me/iaghapour/2969" target="_blank">📅 22:34 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2968">
@@ -377,7 +377,7 @@ SimbaServer.ir
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 5.92K · <a href="https://t.me/iaghapour/2968" target="_blank">📅 18:02 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.04K · <a href="https://t.me/iaghapour/2968" target="_blank">📅 18:02 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2967">
@@ -406,7 +406,7 @@ Project Zenith
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.34K · <a href="https://t.me/iaghapour/2967" target="_blank">📅 16:32 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.43K · <a href="https://t.me/iaghapour/2967" target="_blank">📅 16:32 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2966">
@@ -445,7 +445,7 @@ MAI-Image-2.6-Flash
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 6.46K · <a href="https://t.me/iaghapour/2966" target="_blank">📅 15:09 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.55K · <a href="https://t.me/iaghapour/2966" target="_blank">📅 15:09 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2965">
@@ -479,7 +479,7 @@ http://cubely.ir
 هر کدام مستقل کار می‌کند. همه زیر یک سقف.
 🌐
 cubesystem.top</div>
-<div class="tg-footer">👁️ 7.74K · <a href="https://t.me/iaghapour/2965" target="_blank">📅 21:01 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.78K · <a href="https://t.me/iaghapour/2965" target="_blank">📅 21:01 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2964">
@@ -517,7 +517,7 @@ WireGuard، OpenVPN، SoftEther، SSH Tunnel و PPTP
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 7.37K · <a href="https://t.me/iaghapour/2964" target="_blank">📅 20:45 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 7.4K · <a href="https://t.me/iaghapour/2964" target="_blank">📅 20:45 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2963">
@@ -564,7 +564,7 @@ GPT-6 Astra
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 8.27K · <a href="https://t.me/iaghapour/2963" target="_blank">📅 18:42 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 8.3K · <a href="https://t.me/iaghapour/2963" target="_blank">📅 18:42 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2962">
@@ -590,7 +590,7 @@ Politico
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.04K · <a href="https://t.me/iaghapour/2962" target="_blank">📅 10:15 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.06K · <a href="https://t.me/iaghapour/2962" target="_blank">📅 10:15 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2960">
@@ -619,7 +619,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.89K · <a href="https://t.me/iaghapour/2960" target="_blank">📅 20:50 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.91K · <a href="https://t.me/iaghapour/2960" target="_blank">📅 20:50 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2959">
@@ -654,7 +654,7 @@ Astra
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 9.82K · <a href="https://t.me/iaghapour/2959" target="_blank">📅 20:20 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.84K · <a href="https://t.me/iaghapour/2959" target="_blank">📅 20:20 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2958">
@@ -798,7 +798,7 @@ Show account suggestions on profiles
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11K · <a href="https://t.me/iaghapour/2954" target="_blank">📅 17:28 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.1K · <a href="https://t.me/iaghapour/2954" target="_blank">📅 17:28 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2952">
@@ -948,7 +948,7 @@ GTA 6
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/iaghapour/2944" target="_blank">📅 19:29 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.3K · <a href="https://t.me/iaghapour/2944" target="_blank">📅 19:29 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2943">
@@ -1152,7 +1152,7 @@ x-ui-reseller-panel
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 11.6K · <a href="https://t.me/iaghapour/2936" target="_blank">📅 14:14 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 11.7K · <a href="https://t.me/iaghapour/2936" target="_blank">📅 14:14 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2934">
@@ -2587,7 +2587,7 @@ YouTube</div>
 @iAghapour
 |
 YouTube</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/iaghapour/2871" target="_blank">📅 17:41 · 21 Mordad 1405</a></div>
+<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/iaghapour/2871" target="_blank">📅 17:41 · 21 Mordad 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-2869">
