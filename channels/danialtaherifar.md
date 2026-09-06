@@ -292,7 +292,7 @@
 <a href="https://t.me/danialtaherifar" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 آموزش سئو + دیجیتال مارکتینگارتباط با من :@danial_taherifarسایتdanialtaherifar.irکانال یوتیوب :www.youtube.com/c/DanialTVخرید اکانت و بک لینک :https://danialtaherifar.ir/shop/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-15 03:38:41</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-15 08:24:13</div>
 <hr>
 
 <div class="tg-post" id="msg-952">
@@ -2438,10 +2438,10 @@ neural networks
 <div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6689285f08.mp4?token=S_YKszrw13WRtLS7nsqTXvdo9RJbZxDwGGHY6_kD1U4Wr66UgBpcQogM8Yo5iWSzllTO331iqA8Vm4Z-B4BIKaBFznCZF0EGmrZGAnLQ5P7nH6f1T_3gseIsuwxgUZPgL3ZDBO4O8-vkdDoshsDa-cjBdJiJ4i4h37KGnRSEU2OR4aVVHbGlS5b68HTw9XxcvVrZlg1VlyrKmj41tCSnqDYhw82yNBXFKAu8KwAr68yZcM9uNVhiP43EzZju9Yn_hY7xSY_cPXie3RY6hG3FNGDoWwE6x8-ajXn_QrVQMgEkLT7L8f0FOClByCwn1W_q8J5yfiyM-tfPugqOQvvD1A" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6689285f08.mp4?token=bk_yJvm1PKUBs07fu3xEnzj8gY2woeXUN4FmygWCwq0LYMbxRW4xRNieRtc-7Jy-IcxsoNWHPNP071M2zUPhHwDQpMJ8sE4VMJguwfJ1LP-qKb9PAFHqwjgPed2qJqv8Th10I4rRs9IFAIyGbzB69H01uR9qkJIvAySo2rpRH7JcYu5IYi9P4l_TAaRpAP3aiTdfjWp4Ip1Utd5H6wHvii6kJgckcBV0vd2AqBgFMH5DMosWIIykDFSD94XVqMzfkXv7DAk2ZXyMPu2iXgXLauC16TcYeA7-9Pvm8Fu10pn2VAjflaqp1BIvZTAbBSsC0XaZWzc-WlOHYR1WwJWeyg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6689285f08.mp4?token=S_YKszrw13WRtLS7nsqTXvdo9RJbZxDwGGHY6_kD1U4Wr66UgBpcQogM8Yo5iWSzllTO331iqA8Vm4Z-B4BIKaBFznCZF0EGmrZGAnLQ5P7nH6f1T_3gseIsuwxgUZPgL3ZDBO4O8-vkdDoshsDa-cjBdJiJ4i4h37KGnRSEU2OR4aVVHbGlS5b68HTw9XxcvVrZlg1VlyrKmj41tCSnqDYhw82yNBXFKAu8KwAr68yZcM9uNVhiP43EzZju9Yn_hY7xSY_cPXie3RY6hG3FNGDoWwE6x8-ajXn_QrVQMgEkLT7L8f0FOClByCwn1W_q8J5yfiyM-tfPugqOQvvD1A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6689285f08.mp4?token=bk_yJvm1PKUBs07fu3xEnzj8gY2woeXUN4FmygWCwq0LYMbxRW4xRNieRtc-7Jy-IcxsoNWHPNP071M2zUPhHwDQpMJ8sE4VMJguwfJ1LP-qKb9PAFHqwjgPed2qJqv8Th10I4rRs9IFAIyGbzB69H01uR9qkJIvAySo2rpRH7JcYu5IYi9P4l_TAaRpAP3aiTdfjWp4Ip1Utd5H6wHvii6kJgckcBV0vd2AqBgFMH5DMosWIIykDFSD94XVqMzfkXv7DAk2ZXyMPu2iXgXLauC16TcYeA7-9Pvm8Fu10pn2VAjflaqp1BIvZTAbBSsC0XaZWzc-WlOHYR1WwJWeyg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🔍
 گوگل با ۶۰ لینک در AI Overview!  آیا کسی روی لینک های پیشنهادی کلیک می‌کند؟
