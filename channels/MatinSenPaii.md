@@ -292,12 +292,12 @@
 <a href="https://t.me/MatinSenPaii" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 متین هستم و کامپیوتر رو دوست دارم! در حال یادگیری هستم و چیزهایی که یاد میگیرم رو سعی میکنم به شما هم یاد بدم اگر به دردتون بخوره=)•YouTube:http://www.youtube.com/@Matin_SenPai•Github:https://github.com/MatinSenPai</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-16 19:42:49</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-16 23:33:12</div>
 <hr>
 
 <div class="tg-post" id="msg-5210">
 <div class="tg-post-header">📌 پیام #100</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/MatinSenPaii/5210" target="_blank">📅 00:12 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/MatinSenPaii/5210" target="_blank">📅 00:12 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5209">
@@ -313,12 +313,12 @@
 🙂‍↕️
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/MatinSenPaii/5209" target="_blank">📅 23:40 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/MatinSenPaii/5209" target="_blank">📅 23:40 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5208">
 <div class="tg-post-header">📌 پیام #98</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Gd_m-KAzdFQL4jYzu2KoQvKNBS4ACvKVIURFmdn3pZte0-jwQNTNWcQfE5Qnn3t0nZSTrnDZ8Fn1Wkq4OdCiiNx4fwJ9tzMKgnhDJOqkylPPws5_QnYPxTHZgHqG1RG0QwhpLpiZYmfitS_qyQ6xXsmK73xaNXq4AyXt530DQaOFWuBgq0WAUONOAP0RKmPpzbCZqy5psK0EiEowlRG9bpcZgvqt_V0nU8wlkPhWLRV2DOTblMuYagcR8Z7mPXpJnx0ug57vyLC97GZdGhUrq641C4mBqdYK_mbNVLnJP5DMUYfZKykwf2PXUpDqYT1lV-pchELifvEv7dPNuJRXUQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/nfJXSxA9dZfjeTEZJmOQgwqTQawlm_Nng6qcj9mj12HIOEdQlO62EQaCE1mayLw4y4F4nZZ6tB5Kuf_F_-oGQ6mV79L7XHXXAlXmpfS7nKKfngddAzJZuwC5jVh6k0lra65bMLuH9ePfjvWvXcaBnjvRj-DwhdXhp-lf77HqS0Mq97BUZMVDs3aXcTFvoo6lkb0L8vfTKhJ0DE3MJw23KCk1UDgNNNmwtwPuNVfE7DujQteu5TZqmRKx0ygh6tLqP2UlsQgi9HL1QBtkzuU0ERW1tpb5qhHAsmsutApxA5jKWO8p5jyfysHlQA9LafcrdIQQnUl7VHjVv0h79djc5g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جواب من به هرکسی که فنی نیست و سختشه که پنل بسازه توی کلودفلر و... :
 Defyx
 👍
@@ -326,7 +326,7 @@ https://play.google.com/store/apps/details?id=de.unboundtech.defyxvpn
 البته WhiteVPN هم از لحاظ راحتی و امکانات برابری می‌کنه و می‌تونید ساب خودتونو هم وارد کنید اما برای کسایی که یه کوچولو فنی‌تر باشن مثل جمعی که اینجا هستیم خوبه.
 دیفیکس در حد سایفون راحته، با این فرق که واقعا وصل میشه
 😂</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/MatinSenPaii/5208" target="_blank">📅 22:56 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/MatinSenPaii/5208" target="_blank">📅 22:56 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5207">
@@ -336,7 +336,7 @@ https://play.google.com/store/apps/details?id=de.unboundtech.defyxvpn
 https://cloud.google.com/blog/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 24.8K · <a href="https://t.me/MatinSenPaii/5207" target="_blank">📅 21:31 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.6K · <a href="https://t.me/MatinSenPaii/5207" target="_blank">📅 21:31 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5206">
@@ -346,7 +346,7 @@ t.me/MatinSenPaii</div>
 منبع
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/MatinSenPaii/5206" target="_blank">📅 10:05 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/MatinSenPaii/5206" target="_blank">📅 10:05 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5205">
@@ -356,33 +356,33 @@ t.me/MatinSenPaii</div>
 Pelican comparison
 روی مدل‌های GPT به علاوه‌ی هزینه‌شون.
 هزینه‌ی Astra تقریبا پنجاه برابر Lunaست</div>
-<div class="tg-footer">👁️ 31.8K · <a href="https://t.me/MatinSenPaii/5205" target="_blank">📅 00:41 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/MatinSenPaii/5205" target="_blank">📅 00:41 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5204">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/48fb2366c8.mp4?token=ufqB8AjSs5HYCs5I2YK7zVcuUEBsIDxQ3qckBK_Pwu77oYzlzE76KuZNJGk9xZTALE0zuhE_ziJCrffnRSKpqK-cg4pChlnbQVeMpyEYhVU4Yn8KXm_bYHbi0wZDKlRq1KI-5AN_J9Uwd86DO8HmNpiREAI5F0T2C2Um26Bl1u0FKbTV8toioOl8KgIX6P6cM3XIII4OTb1WcjgI65X0MqHyoedPPjlsD3rOsyoaud0PDPpTJc19IlUVSNX3vhBFeqcrDFrhVhp7tQUARv0FRUTmMEfWz_v_JkS7WdKV6sPOcKu3X5tq_icQA4-33Bw-WTtDv2eqLtgPGrWK293qiQ" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/48fb2366c8.mp4?token=tP61uUYB7sXLUq1vEpli1wiaJGiadZ1p0ECt908r0gB1Gt8tndPj4x-oPnxwDBphYnG1kx8ZJ-Z9FkBP3xDucB_nFv54Jy4S-NhdgugUZ3QcESpQiCTshcwUlDie3S2F0oNxFjH38rsbFiv6OOtpAq_793R4X4CfM4tJkShGgTnHrbXqFYM332LgkdGp5RGnfjfK1e8jPTMlds4EB-nlF8O4unuNfQX3loWpEvvLnTTCC_7t1pzFV4lxAVIW44q7ez_4FqQA5JKVxZW_KLsb7GR9gvxiRgMY-F3HIH99MKtBuD6WGxMJyeBMF71lZ5hEUzKmas_Y4CRV5j-_AjTo0g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/48fb2366c8.mp4?token=ufqB8AjSs5HYCs5I2YK7zVcuUEBsIDxQ3qckBK_Pwu77oYzlzE76KuZNJGk9xZTALE0zuhE_ziJCrffnRSKpqK-cg4pChlnbQVeMpyEYhVU4Yn8KXm_bYHbi0wZDKlRq1KI-5AN_J9Uwd86DO8HmNpiREAI5F0T2C2Um26Bl1u0FKbTV8toioOl8KgIX6P6cM3XIII4OTb1WcjgI65X0MqHyoedPPjlsD3rOsyoaud0PDPpTJc19IlUVSNX3vhBFeqcrDFrhVhp7tQUARv0FRUTmMEfWz_v_JkS7WdKV6sPOcKu3X5tq_icQA4-33Bw-WTtDv2eqLtgPGrWK293qiQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/48fb2366c8.mp4?token=tP61uUYB7sXLUq1vEpli1wiaJGiadZ1p0ECt908r0gB1Gt8tndPj4x-oPnxwDBphYnG1kx8ZJ-Z9FkBP3xDucB_nFv54Jy4S-NhdgugUZ3QcESpQiCTshcwUlDie3S2F0oNxFjH38rsbFiv6OOtpAq_793R4X4CfM4tJkShGgTnHrbXqFYM332LgkdGp5RGnfjfK1e8jPTMlds4EB-nlF8O4unuNfQX3loWpEvvLnTTCC_7t1pzFV4lxAVIW44q7ez_4FqQA5JKVxZW_KLsb7GR9gvxiRgMY-F3HIH99MKtBuD6WGxMJyeBMF71lZ5hEUzKmas_Y4CRV5j-_AjTo0g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">وزیر نیرو : خبر خوش برای ملت شریف ایران، قطعی های برق برنامه ریزی شده برق تموم شد.</div>
-<div class="tg-footer">👁️ 30.7K · <a href="https://t.me/MatinSenPaii/5204" target="_blank">📅 21:09 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31K · <a href="https://t.me/MatinSenPaii/5204" target="_blank">📅 21:09 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5203">
 <div class="tg-post-header">📌 پیام #93</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eAALLGBKhmHHX3yB9OYwKcqQyEhH7X-d6uwf3vthJqVqBS1cVxaOppEpShFLnji5jsGU2vRkAL2BNns7dX-_JOEqMkO5wmiVATepFSfr7aY8kO07M_3Zdw2z6xHJeV8fsWqIjztP7AHOrW0arZojvNgVg0hs8COdGRkqlESTjdB61TUYK80uiZAjOGqIwVGwXKEzvxvnSyGtg1lqqpWJ0aPcm3V0X4H5vRVziaSxyLxY9WhBWMLwO36pzLpaLrHM-S7_ZKYEEqMnVMSkkLn3LO6VMW9e5yKz__QtDfGqSuLwy-nBhZhMJfrAfNBTmL9ZzJ9GezZwpN05xo2BRtq2dQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/qJXyBYywcCBoMshdRyAd5_nUZLJ0XkWDhFiGfvA-9WIO-9drKlUg0DoLUF_7nEfBqozCdBLJogKv53o8JgPeJoCkJixtnNZjMce7yCygnkWXGq-vZ8GzXahi52uXrDaRzJgS5xp6b8UbXdptKEEfBzk0Tq9YiaMMB2dPjK6foFNqrdZKa891PsLdhRmDJraD9_GU3cEO9j5I5pNMCqkxn8zYFAyBpEuJereVzlFJdJPFO4S5T0KrlOsyGuyomqMLBf6wjdiGzmw_NrPu7bD0yz41KX8lyjWrZrqBPonbIUSlUx_P1KYc7yHZdet9ZyiBmyj9EqtqBZn4Q-ljTmlb-w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">از اونجایی که کلاد و جی‌پی‌تی مدل جدید دادن... به زودی باید شاهد دستاوردهای برادران چینی باشیم</div>
-<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/MatinSenPaii/5203" target="_blank">📅 20:49 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/MatinSenPaii/5203" target="_blank">📅 20:49 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5202">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">آموزش خرید اشتراک Claude Pro با ویزاکارت شخصی و ایمیل خودتون  من امروز تجربه‌ام رو از خرید اشتراک کلاد پرو می‌خوام باهاتون در میون بذارم، که چطوری خیلی راحت و بدون نگرانی بتونید با پرداخت کریپتو روی ایمیل خودتون فعالش کنید. یکی از دوستانم دو ماهه و خودم هم…</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/MatinSenPaii/5202" target="_blank">📅 19:28 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/MatinSenPaii/5202" target="_blank">📅 19:28 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5201">
@@ -406,7 +406,7 @@ https://t.me/MatinSenPaii/5092
 و به راحتی پلن واسه‌تون فعال می‌شه
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 28.4K · <a href="https://t.me/MatinSenPaii/5201" target="_blank">📅 19:22 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/MatinSenPaii/5201" target="_blank">📅 19:22 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5200">
@@ -437,7 +437,7 @@ https://deusdata.github.io/codebase-memory-mcp/
 مخصوصاً روی پروژه‌های بزرگ، تفاوتش خیلی محسوس‌تر می‌شه.
 و بالاخره کمتر شاهد Agentی هستیم که برای پیدا کردن یک function شروع می‌کنه با grep و find و jq کل repository رو شخم زدن
 🤢</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/MatinSenPaii/5200" target="_blank">📅 18:52 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/MatinSenPaii/5200" target="_blank">📅 18:52 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5199">
@@ -445,19 +445,19 @@ https://deusdata.github.io/codebase-memory-mcp/
 <div class="tg-text">تهران
 💵
 228,‌000</div>
-<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/MatinSenPaii/5199" target="_blank">📅 16:18 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.9K · <a href="https://t.me/MatinSenPaii/5199" target="_blank">📅 16:18 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5198">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">البته اگر می‌خواید برنامه‌نویس بشید توی ایران اول از همه بهتون تبریک میگم که با دلار ۲۲۵ هزار تومنی و بدبختی اینترنت و نامعلوم بودن آیندمون و جنگ و اقتصاد و فلاکت و بدبختی تصمیم گرفتید توی این حوزه قدم بذارید و شجاعت به خرج بدید</div>
-<div class="tg-footer">👁️ 26.9K · <a href="https://t.me/MatinSenPaii/5198" target="_blank">📅 16:16 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/MatinSenPaii/5198" target="_blank">📅 16:16 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5197">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">سلام، من پدی (پدرام) هستم!  همون‌طور که احتمالاً حدس زدید، برنامه‌نویسم و این اولین ویدیوی این کاناله.  اینجا قراره درباره‌ی دنیای نرم‌افزار، برنامه‌نویسی و ابزارهای مختلف، مخصوصاً هوش مصنوعی، حرف بزنیم؛ اما با یه تفاوت مهم:  قرار نیست با اومدن AI، هنر برنامه‌نویسی،…</div>
-<div class="tg-footer">👁️ 27.8K · <a href="https://t.me/MatinSenPaii/5197" target="_blank">📅 15:58 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28K · <a href="https://t.me/MatinSenPaii/5197" target="_blank">📅 15:58 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5196">
@@ -471,7 +471,7 @@ https://deusdata.github.io/codebase-memory-mcp/
 توی این ویدیوی کوتاه، خیلی کلی درباره‌ی دیدگاهم، دلیل ساختن این کانال و مسیری که قراره با هم جلو بریم صحبت می‌کنم.
 📹
 تماشا ویدیو از یوتیوب</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/MatinSenPaii/5196" target="_blank">📅 15:54 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/MatinSenPaii/5196" target="_blank">📅 15:54 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5194">
@@ -479,7 +479,7 @@ https://deusdata.github.io/codebase-memory-mcp/
 <div class="tg-text">این 25 دلار توی حسابتون می‌مونه دوستان. یه سریا فکر کردن 25 دلار از سر راه آوردیم بدیم دست هتزنر
 شما اگر که استفاده‌ت میشه طبیعتا پولش رو میدی. مثلا من عموما قدیم از هتزنر برای استقرار ربات‌های تلگرامم استفاده می‌کردم
 هزینه‌اش نسبت به سایت‌های دیگه خیلی اوکی تره طبیعتا نسبت به منابعی که میده.</div>
-<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/MatinSenPaii/5194" target="_blank">📅 03:05 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/MatinSenPaii/5194" target="_blank">📅 03:05 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5193">
@@ -488,7 +488,7 @@ https://deusdata.github.io/codebase-memory-mcp/
 <div class="tg-text">لیمیتم رو پنج روز پیش تموم کردم. از کجا می‌فهمیدم می‌خوای مدل جدید بدی خب
 🫪
 (مدل Astra الان برای کاربرای پلاس بیست دلاری هم در دسترسه)</div>
-<div class="tg-footer">👁️ 31.9K · <a href="https://t.me/MatinSenPaii/5193" target="_blank">📅 03:01 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.1K · <a href="https://t.me/MatinSenPaii/5193" target="_blank">📅 03:01 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5192">
@@ -500,7 +500,7 @@ https://deusdata.github.io/codebase-memory-mcp/
 😂
 😂
 عاقبت وایب کد کردن سایت Api هوش مصنوعی</div>
-<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/MatinSenPaii/5192" target="_blank">📅 01:30 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/MatinSenPaii/5192" target="_blank">📅 01:30 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5191">
@@ -512,19 +512,19 @@ https://deusdata.github.io/codebase-memory-mcp/
 😂
 😂
 عاقبت وایب کد کردن سایت Api هوش مصنوعی</div>
-<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/MatinSenPaii/5191" target="_blank">📅 01:22 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/MatinSenPaii/5191" target="_blank">📅 01:22 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5190">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">چقدر غمناک..</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/MatinSenPaii/5190" target="_blank">📅 00:43 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/MatinSenPaii/5190" target="_blank">📅 00:43 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5189">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">Kavinsky – Nightcall</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/MatinSenPaii/5189" target="_blank">📅 23:34 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/MatinSenPaii/5189" target="_blank">📅 23:34 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5188">
@@ -551,15 +551,15 @@ https://deusdata.github.io/codebase-memory-mcp/
 اون می‌مونه توی تاریکی، زیر نور کم‌جون چراغ خیابون، با این حقیقت که تصادف فقط بدنش رو نگرفته — بلکه اون زندگی، اون عشق، اون آدمی که بود رو هم برای همیشه ازش گرفته. برمی‌گرده سمت فراری، سوار می‌شه، و توی جاده‌ای که هیچ‌وقت به مقصدی نمی‌رسه گم می‌شه؛ بین چراغ‌های نئون و صدای سینت‌ویو، بین یادِ ۱۹۸۶ و واقعیتِ الآن.
 Take care of yourselves
 ❤️</div>
-<div class="tg-footer">👁️ 29.7K · <a href="https://t.me/MatinSenPaii/5188" target="_blank">📅 23:13 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/MatinSenPaii/5188" target="_blank">📅 23:13 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5185">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/COHrRBWB8y-HDROicDStXL4_dhVWXuv_aw1P8_NVslm719wfWBz73s4DTe9ogq_0PiHtPMKwvknwLI3E5F4pi8E7IOl4L7Shr65JCPcJO4KBlObZWD7_oPJ5JZsxQz6BNJN8FzGVFLjvY157F-GE6qs0l8ufsiq2TwEEIzN034tW2KwGFgd_DhKSaS0U8eSn37PF69MgJ-fuKWspQgdfr1eKdYqrO6ZHdLPKNu9J3-IT7DqP8nRP4o27gtfSKiiE6yiYCDn3eqL5_Tn_Ob7f82mGmPjRCzB4JzJUoQPN5NNIVBaDuaJ4ZVqDSbWflaiZPUdjfK2eaXkzvDnrFjBNHg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/lA4G3MUbJGMBKCz-Iw_Ah4JiHWojY6A_tjH1ZBjPBcKvprIfh_vGEOVBbunOeE2LjbksXzcZ01g0XvQTo_TyQD6Wr1QSPlIwSNtrG6bWaEJq2br35J0y_ucDEXZlZyueznxExt23JGPDGWXHQJq14Do-NR0Tn5Xjm_4_teXON8hNJHVmCfAKymRvVl8pRF1c8mt0poU5-HvBzA0nRH00k3GwEivVUoENpswcCnsdv-vZXyy_VlTZR4dMl4rd2zmEZ-Kl0A-4ZDc8jQxpV1vKjXwr6PJ0_2fMUDMbV1bobGLlDpTAM1YwdbrFDasf84ABqbPen5u7CkiB0Qa1zKhBmw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/c1-OfNeNyfuZddPvahYrlMCOZmWXA-UMWz6gc9ZOlgwU7yrk21Ey2BdigQgk8aU9HdahMM3uxoW1nDILDlJjm5p7BOcpKS1pfJ2YljKNBi2qYPVB5ws0tijp__Fd5wy2HvTo7CFjIzMdyiRkP9mjMWprVlmsqmBqOJFyuVPP4oMb3veeGPcs7OtXC-MHDV5-zzI8nYe2VExCwaDZXDXxzcfUTaBwEiBhJjMJ5_j_CMZgDdnXLZ7-SJXLQqc-AGgJkBNgqh0wYDVJjjU-TacD3BjcJV7rh_z6mjpOy8KwuIjVJ2d-gO3hd9jOcVqlL5MOmTNYGyytEno3RZUNQ9yAHQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/NC1eqACPYL2PVgcrVVKyWTLZVpNbLxM_BLqgM6cj8sTUxaFBRlXfWetQi_bir21r_N7zwPW0nL1YAAHpkTd9gL7h3gAX_861OUXTHuMDM6cCyBOw3DSCIBkmRUg28Xwpmj0B440KKeDI_wUeAFA3lIWm8PSNxuWvct68VkwrJWeRvoS7zOYfolenSERE8HuGgyGnCpY4rQULKvYqaSupYu3siS42ZL2GbXfd6hCScDdmSjdqfXshz1IDLsplct6eeW1xkibD2MRpiN7xE32Iw_bOxYVL-WAwomQEpb6RDbWUcqBA8RnQir8_NE-gPorLhdI21Z93SPLXn_TbDD146A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/gmp-i2r0I50tAOy9FFigjtWybH2oyp6m7dDrjb1-TiWT8uLuH9MC77d4SXO1JFNBi6RcDBDUVCbEt7HyroozdxeIJUyPzeYXA44V88mAWCUJkslRq1hQAhNUPKcxci386AsFAop2tJpEBZkBciRUm5jvjCno5ABqKVH1kt84YYjIsXEHFeQKK8ygl21BPgqQFFwjLJf-P0GsfzSO7hlWWRYqY2dIWverziYPJ-EsuklPi1BILkgpiOZ1aiY88SC4x4_YO-EZr3IY1VV3rrro5B96Od_tyoHr5GhQF3wcQyxavClCk_9_BtuxXxnwG_fBJ1U1i6_ZYRXkJLFj68hncg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/atgCqAOt-9K5H1N6rRPd-lPfSyXL90hIDGtQ6qD-jizTcc-6g-ABFL268_9FdTYP2PCHQdk8HCQiezltUgf6h37fW8GIz03CjYYhDw_uOAwuoOOVG2mlkyy9lBSSHAJLWnPHLeOb8Q-NdzNkego4zDKEQ1QONdDcx-vRa-bmOvPVhNgbhdnQx-GxDD0plnAmSj9gZcexRm3N2pLPF1WClCECrPkmaBuFOSNd5EADWAHl6S9ahQY2V79tiPIibbe7dYcrbeFQ_Siv0BB_kMPKyBuFpc-naWwusiwi4U7cWwLTwbwtqL8Piv34VilQVYc5c_Zm-ZP2TTUgrBxtaxqTaQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">آموزش احراز هویت در دیتاسنتر هتزنر و خرید VPS ارزان‌قیمت
 وبسایت هتزنر رو احتمالا اکثرا کسایی که توی کار فروش VPN هستن میشناسن، یه سایت هست که به خاطر سرورهای ارزون قیمت(2 هسته CPU و 4 گیگ رم، 6 دلار) و قدرتمندش معروفه. که توی لوکیشن‌های آمریکا، آلمان، سنگاپور و فنلاند سرور میفروشه. اما علاوه بر سرور، شما می‌تونید از Object Storage و خدمات دیگه‌اش هم استفاده کنید.
@@ -578,30 +578,30 @@ https://console.hetzner.com
 دقت کنید که این متد همیشه ریسک خودش رو داره، اما دیشب که توی ردیت چرخیدم دیدم که 99 درصد مشکلی براشون پیش نیومده اما در هر حال، ریسک احتمالی اینکه ازتون مدارک هویتی بخواد بعدا رو توی ذهنتون داشته باشید. قوانین سایت‌ها هم ممکنه تغییر کنه اما فعلا مشکلی نداشتم سر این قضیه خودم
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/MatinSenPaii/5185" target="_blank">📅 22:19 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/MatinSenPaii/5185" target="_blank">📅 22:19 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5184">
 <div class="tg-post-header">📌 پیام #77</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/m2T18PRGHgvMrzq9HI04daHLDQ1UxgswDCt7ZCsNwpW_1TyaB8p3ZjQ3scq_EFNEAx9A8nGzl4-u_6iIFfXBu8lrAN4VX72_d95w128mVhw9aaHDTLcl0BmqRw5SIUcbAxiJCA9RbE3JYovjluFJpzelUVa00eRGFWkFshkT9QdS5iR2GVSyG3_RISsS_gFqiiaqS77QVGno-57Xk2OS9-GMtWlOunZYm0uJG27jzaRKVpN2PCMLm7ULrkG6CR9dJjhikTNOEQZcfOJkU4C9aD9uVIzelNdIOC5y1jwCNNkX_kT7CQUJVqrsjsnPJSI7bO4rILtvDlDTTQaCjjSYrA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/U0puHkuTOhx4RpCPolXzXwtRW-H9AyzIVmS_JgUUeCYeAmZ-7y0u0jhljWyAkROBoxnqlKvtnT98uV0-iDbU1IBOOJ5PTxBSOJTEDW6cSFMtCYoBkeSo2iCNoSSncE1Ild0oHZFc-5nh7w68EgaiG7a1YaTol_GCykeLCyJppdcmxyeS0SJN7wgFDgZhwKRTbVApWu0q51HypFwdRUmfxD-6nR_m4E9y7hzQtvJbi14SvBz-kbgPLMX3DBtCvtbm688hqjVax3z8g8Y7X5cvKsXxt7aNbwDUFdz3n20yEoWqNnEkXbyLQ8QCIptTkVkUfDCD8suRwep84Imdcz-Tkg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">قیمت و مشخصات؟</div>
-<div class="tg-footer">👁️ 25.7K · <a href="https://t.me/MatinSenPaii/5184" target="_blank">📅 21:28 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.8K · <a href="https://t.me/MatinSenPaii/5184" target="_blank">📅 21:28 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5183">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">یه چیز بهتر از OVH پیدا کردم:) بذارید تست کنم ببینم اگه بن نکرد من رو، فردا معرفیش میکنم</div>
-<div class="tg-footer">👁️ 27.1K · <a href="https://t.me/MatinSenPaii/5183" target="_blank">📅 20:58 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/MatinSenPaii/5183" target="_blank">📅 20:58 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5179">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/c84957dbe3.mp4?token=EcW70PaL4r4nVzR-U8rRqMgiszBDZTKhC1ZMGO0JeEtF5sy4noQpgcbzI5H80vRJw_uFdExy0ar-wYhDLNTu99r0dQ48BSEVp6BE4KpbXJCC5r23ATEDylg89PbB05sRn1l0WpX4t2SYunQ8ADzxjqYZo9dvJ2GxBw1E8xVWSbq-g1KKuIESr1pEJhAb2uxYzpz6ZuniV24wOuWxXQNoRNUj_SUJmtegj5yHCinDh-7sPBx-aOqywHu3n6-zeZNhpIaA_XWm4qrCVRdamUkVouWUCM0F5PVYvP4xVM23_S-YmrMoxjEWkEKyymE-dmFe1M2tigliOTbks77H0FJUcw" type="video/mp4">
+  <source src="https://cdn1.telesco.pe/file/c84957dbe3.mp4?token=L3x0Zu4yTy0SbQfaLMNnnNJZMAxXwJXtlk7KbgRdzSaHhBCU2mhAjtscYnBZis4jaBO9OmXXZnHdalGbynW0oTyIfflKhFeUBOWei6ye7AQYL79FbhaGQJnM93KeN0FGJeArl_8WQGsGjbVJ3i32r7aNtugOY-TiAi_n2yuKuSEqtBlaeUM8MKe9JJ2uUD6wfgDlZRzqAfHBa5pPEdn-M-BQryYVEYEad8gTlX6EA59N85nmsA2t3HJ1itphcmYVQTkR6TUGdVmzT-Epul4txRnWPm5jnhp8Bk_J7drPjGEdK7-Sb6xxsMVcUiuYJCMBJUorlQnnlUUA6a2s_dnW6A" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn1.telesco.pe/file/c84957dbe3.mp4?token=EcW70PaL4r4nVzR-U8rRqMgiszBDZTKhC1ZMGO0JeEtF5sy4noQpgcbzI5H80vRJw_uFdExy0ar-wYhDLNTu99r0dQ48BSEVp6BE4KpbXJCC5r23ATEDylg89PbB05sRn1l0WpX4t2SYunQ8ADzxjqYZo9dvJ2GxBw1E8xVWSbq-g1KKuIESr1pEJhAb2uxYzpz6ZuniV24wOuWxXQNoRNUj_SUJmtegj5yHCinDh-7sPBx-aOqywHu3n6-zeZNhpIaA_XWm4qrCVRdamUkVouWUCM0F5PVYvP4xVM23_S-YmrMoxjEWkEKyymE-dmFe1M2tigliOTbks77H0FJUcw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn1.telesco.pe/file/c84957dbe3.mp4?token=L3x0Zu4yTy0SbQfaLMNnnNJZMAxXwJXtlk7KbgRdzSaHhBCU2mhAjtscYnBZis4jaBO9OmXXZnHdalGbynW0oTyIfflKhFeUBOWei6ye7AQYL79FbhaGQJnM93KeN0FGJeArl_8WQGsGjbVJ3i32r7aNtugOY-TiAi_n2yuKuSEqtBlaeUM8MKe9JJ2uUD6wfgDlZRzqAfHBa5pPEdn-M-BQryYVEYEad8gTlX6EA59N85nmsA2t3HJ1itphcmYVQTkR6TUGdVmzT-Epul4txRnWPm5jnhp8Bk_J7drPjGEdK7-Sb6xxsMVcUiuYJCMBJUorlQnnlUUA6a2s_dnW6A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">مدل
 GPT
@@ -623,7 +623,7 @@ GPT
 منم هیتر GPT نیستم؛ صرفا واقع‌بینانه مقایسه میکنم. وگرنه همین الان اشتراک GPT رو دارم خودم و میدونم اگر روی هارنس درستی باشه، توانا هست اما خب، چه فایده وقتی Ox Alpha انقدر قوی‌تر بود ازش:) متأسفانه
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 29.5K · <a href="https://t.me/MatinSenPaii/5179" target="_blank">📅 20:43 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/MatinSenPaii/5179" target="_blank">📅 20:43 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5178">
@@ -639,7 +639,7 @@ t.me/MatinSenPaii</div>
 شاید دانشگاه نرفتن هم یه گزینه باشه
 این وسط برای پسرا سربازی هست
 و خیلی مسائل دیگه مثل خود کار پیدا کردن و ...</div>
-<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/MatinSenPaii/5178" target="_blank">📅 16:09 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.3K · <a href="https://t.me/MatinSenPaii/5178" target="_blank">📅 16:09 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5176">
@@ -650,7 +650,7 @@ t.me/MatinSenPaii</div>
 الان حتی روی این کانال کوچولوی من
 @MatinsDungeon
 هم داره نشون میده</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/MatinSenPaii/5176" target="_blank">📅 14:04 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/MatinSenPaii/5176" target="_blank">📅 14:04 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5175">
@@ -658,7 +658,7 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">دوستم دیشب بهم پیام داد و گفت متین، gpt 6 اومده
 گفتم بذار بخوابیم فردا بنچمارکاش در بیاد
 و الان باید بگم Wow!!</div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/MatinSenPaii/5175" target="_blank">📅 12:45 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.4K · <a href="https://t.me/MatinSenPaii/5175" target="_blank">📅 12:45 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5174">
@@ -666,54 +666,54 @@ t.me/MatinSenPaii</div>
 <div class="tg-text">متاسفانه نشد
 😫
 فعلا بریم کردیت رایگان گوگل و آمازون رو استفاده کنیم ببینم چه میشه هرچند هنوز می‌تونید از سایت‌هایی مثل Aeza و Yottasrc و... خرید کنیدا صرفا OVH رو دوست داشتم بگیرم که نشد باز، اگر موفق شدم بهتون خبر میدم</div>
-<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/MatinSenPaii/5174" target="_blank">📅 01:44 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/MatinSenPaii/5174" target="_blank">📅 01:44 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5173">
 <div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Iis4pXps3D_CIS-crOl2b4RsqJGmsNQhwJe27C_kLIVrq42v_pvvC0K4b6vVmRZ54oSUUO_a06Y3fjM6nQg5P4ifbj3j87Gs9duN1-TyOAE2JLsxjTWi3VqTfton1npRWFBdCdOe8dT0e0J6htnMxWg_wtmno4iKeIxtxxl_eUx_aozADmB4UcXxVFDuBQoMirKPUg3Jgl24n-mkk9wyZgleIamry6zeAXdIGctI4Te9EqmGq7CizRhS_pENiHdeyJlY2DTZw9Fi3gB8szBTB4Zq55CZ4Dvt5l-42YE2nZ47UjYyBQbJsRBOBWJA4_yDLfQR1MPsLcVWx5aoliZuhA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FUDRHrlvL4l16v7BcC1MwbbOFL39AT_1yR3P6tVUlrgSvsYICYn_jZI-PohXZ7ALZuUpA7bv0yHcI2AS1la4ruBcXUVSkfCd-Nsz11Hx74lWNXaadoejEVWxtdDV5jFkDuqcPJzCQXmtDQr5gyuO0GJMfpJWjG65m_sgAcOufwtvE9YfnPZyjGzgKC86eYANulSiGHealYSzkxI_LGpJh0R-LEQNHafx2R8ng2YU2hvm3dJTXECaESAKuv9iNLMmc6SI5mp1wCdcoE4asImv-Xvyp9yonfF9qpwkwNvyfsZD6ON5yprIVYfIFkQyWZcjuUaOasprxIfqomPhGReLMA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سرورهای OVH واقعا به صرفه‌ان از لحاظ قیمتی و اینکه ترافیکش نامحدوده. 2 هسته CPU و 4 گیگ رم، 4.5 دلار. با دلار 220 تومنی میشه 990 هزار تومن اونوقت سایت‌های هم‌ وطنم پاره تنم دارن سرور 1 هسته و 1 گیگ رم میدن +1 میلیون تومن://  سایتش گویا یه مقداری روی آیپی حساسه…</div>
-<div class="tg-footer">👁️ 35K · <a href="https://t.me/MatinSenPaii/5173" target="_blank">📅 00:02 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 35.1K · <a href="https://t.me/MatinSenPaii/5173" target="_blank">📅 00:02 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5172">
 <div class="tg-post-header">📌 پیام #69</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OzeIvwx9wFBX5sP5AMNT_STPMaIPiW3baofT8ID8Di6rhnmHWeGct0ZMfojo3HObXejp76PrLKXvIbRFhYyVbbzJUY2p5q_Dj-28pYkA-_hEHrnf1j-1PurYePY0ycsoMBMTH7ETn779Hpm5K5t20SNdUAhD_ZQPr37hJNFvLah7iiR-KhWNxeax9Jx-Iu-CE4C5cx4MbelaEQnzcuBP1BGRg4omJdS-SpRTwtDALFZUF1WfEj41FJwUsY3rOU2Prra2pVXnuboB0fkjgfuFmzdy0Jw3beWpl32wwdKqBzyAo95-7yhZZIsEAoRWrKH1gOsHVo7yNZAxK_pTy1FTTw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/tSd0mAbovJ5u96RF0yzV7lahqxUECTTEopVZtDuiKYa7Kw0Apv_YVH2rONERVndvDCxRGTo8_Nf_eJMaVJjicnnAo1VXNgaIiJ5QrJEOEsz6cl8vh5NMFyNMK8t6Blh5ApvI5o28RYvLxQU5uUlAI7TkTyzy7NduY3Pepf5-d18_Q2vXjLdn8kjsVPcjTFsn4LK8X9UknqjpaoNbna-s2sr-beJp6MxkPS2TXb24CxKv8YAIL4M1ihnzHBnHMj_fvUgB61spNyZ1pUCTHinXoZC9QF1ovmJ4uKKQf6S8dohJNIFdd-tRjCOsw8nUAcHlcbmp2lvb5QUgVdMk3wOZ5Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سرورهای OVH واقعا به صرفه‌ان از لحاظ قیمتی و اینکه ترافیکش نامحدوده. 2 هسته CPU و 4 گیگ رم، 4.5 دلار. با دلار 220 تومنی میشه 990 هزار تومن اونوقت سایت‌های هم‌ وطنم پاره تنم دارن سرور 1 هسته و 1 گیگ رم میدن +1 میلیون تومن://  سایتش گویا یه مقداری روی آیپی حساسه…</div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/MatinSenPaii/5172" target="_blank">📅 23:48 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/MatinSenPaii/5172" target="_blank">📅 23:48 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5171">
 <div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/aNKx3eK99_vGq-akPq0aG494cZTKkjkVPeRPtvonmkpwlzDbT67RRuUeKkVCeNazKOUD3QYhQdfekBAINJuzKG_Ow9mcGTuLPu8ebgqIG5u6WqAvqk8-Z5zMWcQPc_MI6ai8FNDCJDOAkMAKaYXgiyxuceexe_rvV9KWyG8MJA_qxc_ZZZidbsxblXoJ8_wtt_KvuJ3Eyt_3yymeE0Ttj-lsxbN1cHd9WYJQY7mVhYVn58qG4RVn5H_TMTllpgg6aC4t7QgPkEjXX_8QWXgPRJ1A__3Bb9SMDnC2IOkMDVMIDobHltl3eWfwVZUXMDiKPQBh2aUXF_7cAGOU-LnsOA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/bUVHgztmjJSmbeAL6n07tnrDlH2qKSRxD_XAWkYrFvnxBPp7OJXQRhc-j1rMdzbRW0dLgf8Vdo1oahrMVNZVCsnCTbBv2TFJZzyee5YFqUv9TtVMpiJLY0z36i0mdgAODD9bMtSnauBr163vswbZ3YJhYR8p3-APEWT1k-QNocloWJQLmPYhbUl7ii4-ptUBxkK6WlOUky_9Wx61vVr4buTJjocK7hZGSVp0Xj2Au196o4TWC8RHm69NNdsT_tK8YngF1x6dUn0PlNoP_Hb_b3cQNIFrhKWUJBOo8SaeYaul7gdSEDCMAi2nG94sprskK7rNgADZ46HuCAy1YvTMVg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سرورهای OVH واقعا به صرفه‌ان از لحاظ قیمتی و اینکه ترافیکش نامحدوده.
 2 هسته CPU و 4 گیگ رم، 4.5 دلار. با دلار 220 تومنی میشه 990 هزار تومن
 اونوقت سایت‌های هم‌ وطنم پاره تنم دارن سرور 1 هسته و 1 گیگ رم میدن +1 میلیون تومن://
 سایتش گویا یه مقداری روی آیپی حساسه
 من میرم تلاش کنم ببینم میتونم ازش خرید کنم با Mpay یا نه</div>
-<div class="tg-footer">👁️ 31.6K · <a href="https://t.me/MatinSenPaii/5171" target="_blank">📅 23:45 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/MatinSenPaii/5171" target="_blank">📅 23:45 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5170">
 <div class="tg-post-header">📌 پیام #67</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/jbQQeLN0xdpzGreyNgrXqJPkc437cMmxX4AfUKDIXZZ4imUZIXCnaCwg3zXYDEBFlsjEf_GKmcKlByM0yiMhvNuZJdtV5QsOSvvAtesUPhbaituvBtnFoyuJPzBG4yT8M65RpL7wNvZ-9p6BUy_NsChTtpJPeA_WULX9ddk3fv3_aSR-WFc-AnMn3ih6RaPZoo64JSq7txoWkGHbyoGYDduOf7BiJvO7w3SCyppx_ZS2q_-wrDRzImswvQPchj6q9Hk2NNSJMqwVOyQKwTQh1n3Pe3MiWoQiZmOYQwArmDzScN5hIeRydobilu6mpSIYXuXUdYvulfoRvI5WvB5skQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Nves8kfRY0p2Y-vy8Km__Apki9caHpYD-pTYyq6FehlfW9xqKLoBLruJYvo350KMvi6cgYsBK200FuS4koUCAbzRjX2-S3z2fQWQnMi5Vkt7X-mdmSadikqjt4WbfYxZ4D-o5f-IgtBrGx7wCMuUvtzI2D-R1v6r0UMXKY2QqpG6Uv0N9JwLwybhx1EYdzCpITxvef_vn2VIlH7JeCWP_864avsKLFrXVTHqBbpXApMiuyL-DFl-n4hlBYbk3TQgjSAlfUECULOJhnV1NGXxsOBnSCMHtTgIWequNe2NgV_X6wXratoQGlLo-65WkrPcZ76FvaAPxk6VfrJbm4BCCQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دارم با همین Nara و مدل Muse Spark 1.3 یه سری تسک سرچ متوسط انجام میدم(سه تا ساب‌ایجنت ران کرده که قیمت اجاره و... رو توی سه تا شهر مختلف برام در بیاره و اونایی که ارزش بیشتری دارن رو از دیوار و شیپور و اینها لیست کنه) با هرمس، چیزی که چشممو گرفته سرعتشه که…</div>
-<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/MatinSenPaii/5170" target="_blank">📅 23:07 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30K · <a href="https://t.me/MatinSenPaii/5170" target="_blank">📅 23:07 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5169">
 <div class="tg-post-header">📌 پیام #66</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/I-pFykxe9s8HOYqH6gXsb9RDhWTHaWehruTUElYGsSZzE2skklmCmG5LYvdmNkcjskk0QhfunT-Alvf-8A4s7VhRpL1nFPE6--OEM4pL9GpAdMBYMoOFfsWdccCKLPJScirgQ6bdvdkbZCF__7gy6iLTg6bfLcUVApL7vB64ber2GbtNgBilrBGfrNOSbo4vaQFFAZpxslJ7x5lEe-a5cETCHPftRlDuqQzQqB4b8e-S6XHJmoXGY993LCj5bu_dCmVOxz1jamdvpM2G92FbocO1Ee0--BjzzeC0ZYEUueSCvaw-_QnhDWCIKCdMt5-FHjn8WXkaQOAuuYtbGH3lRg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QChVfxIeusJRzfcsHDWsMUAYHyRKdG1v6Q_91egbrC8XF1q_6eZqoyJ2rUXn_mIYmLtyynqqsyXwRf2os05ZcBtXm7ZCDPfWEMV_j392aaPsqyWCrrM3F4eyVBHG47DjHr9NDvnIpuHg6gYPsS38so5q5COqOH7oFUZWfvfErditaEmmyvAXDgq0V5sykZtrsnogfeHlnxe3bgQ2ADdXd7ijWWh5QnEqYUqtc9XSrOWaSq9c3nRTjfRflF9ExQEMhPpZ8fOtLHjX47rdYnjXXEaskbX1cayRCdGgSWfV-991xHucjo7fXY44bLVUnun5r2FXgLwufDOjAvDq0GZlRw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">جمنای هم تخفیف زده روی پلن‌هاش
 می‌تونید خریداری کنید ولی حتما از اندروید + این متد که اینجا توضیح دادم:
 https://t.me/MatinSenPaii/5092
 استفاده کنید سر Google Pay</div>
-<div class="tg-footer">👁️ 28.7K · <a href="https://t.me/MatinSenPaii/5169" target="_blank">📅 22:41 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.8K · <a href="https://t.me/MatinSenPaii/5169" target="_blank">📅 22:41 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5168">
 <div class="tg-post-header">📌 پیام #65</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/d_tWQ5ZF5LQxBvtSzi2UMHHdVObj_xAr0VKle23A8GoyzaGr-thy4tb-bhQCzeaJBm1_ScN5N0fZ4C7Vnl1PlcZUqYaz7nldGlcIIR6PnFqHkBloIyY7KA-t-zwjaLNnzzJmBWgZB09AQgCxLrX6odlNOIV3UddU8VvuEzfCi7QIj6pAfR-nCG3yeupepUHyd5QYpmbOijft4eC7di78uSuVdi5aY5yZD4qBaXVjjwKt3A12kCuBmOoM121iBu-2_Y2sVcex2_r-hz5VDcNgzNsVxD5Sw5dOTqyEjUAW7paz9zxqDCpmUQ6wqBmx-mA8MqxA-av61vJDLqB6pg5WEw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/TfQBqYMDymORuCjQZxUSZjuLsmjeMgue0fXiHyll55q7Y2kgXkMzz6fwaJIeEtcsRYgPD8_Kf5tUb8WfQ9jegtYCUd1QTeWJFWNklPH97IAXrXSUvAbhWYIZ8DDB0Cj4ntvJPFi-2slTj6_x0fUeEB_0jbBtNwVEzrje0f_a9iChk4hp2e-dFCfTPzSa6cOL4hNqVIc0vM1nfoN0qv691Hw_uaex6CgMBWxLy533lPb3R-O3DF4rujusCoBOaKnH8ZJWeWyNPCtkKpt9jlz3hYPPTDQPJao-Qpy44BUYtNtZPrEn4YmUUoPu7Ht4t931wlYH8Buabymk7F3mMSHIbg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">دوستان با این سایت Nara که قبلا معرفی کرده بودم(https://t.me/MatinSenPaii/4061)، اگر که داخلش اکانت تلگرامتون رو وصل کنید به رباتش و توی کانالشون جوین بشید، می‌تونید نامحدود از مدل muse-spark-1.2-contributor-free متا استفاده کنید؛ بدون محدودیت ریجن و...  مینویسه…</div>
 <div class="tg-footer">👁️ 27.1K · <a href="https://t.me/MatinSenPaii/5168" target="_blank">📅 22:01 · 12 Shahrivar 1405</a></div>
 </div>
@@ -721,13 +721,13 @@ https://t.me/MatinSenPaii/5092
 <div class="tg-post" id="msg-5164">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/FqwNrm2ZjX1jUE2LInzMAnIq1s52rbvjz5kMfm7z1t6_VNSQ0svEiOjGbGdjVJvA90u3rLya4RyMtqmBw46Aw5DoHOc7M8PR1Ga4soJVCMbvYpT_gJv6YLUpt-BCJ3rV65gHIyvohDforaOmvYBa2Vim7sOeRB0OJ2u94t06ES-VXSs34QH3fXFOC79S3i9u7OLcP6N5GpYzSTCoW-VSWiOPdQrHUQoWUYR8SXT3lLKdzfAi_6CNZB2XL5zpcD0AJLKIiX2z6TKMlINzZpVAswbLatdyx-a7ghvuB0ccDNEqK4rRJ3aAasLRvgY5CuhyB5_uwnW2fhqWlaWD6-te6w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/f0fL-CmXPK2peP60HtIphg97_o_Svhm29oIAq1w4Rf2MVDzpZcUlAyhRUL_vMdSllTOdPTqsbEMQsjYXaau1tLNdjQwdbaFFydtw3wYhZpKJqv8wIMRJ9UVM0OeBEhl-9_6A5BhxtApwsKxFyNt902MFHDjOs96KU5RzxzNs01u-WSS6oYCelgVqVfkpWDorSBKYlqRzGbNUc58NoIb_zHUpQhBkefEyvgwIUTyam6GCWHg9u5xTzsZ5ocgza45TPmIQ57usTxJSXyK1ZxOGIHsRJd9FsJmfIJGV6zFnDVzqGVZFtZ6yZ035IfQHiaKcPTkRTk843ru0G4W_1OfEXA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/D-7GmLeVz_UIwXXhH_XD5N1BcgSWWg7_jUsm3UJybEUoYJTMbbpjLT-r7vqJ5rCHmI9VCK6n-oS5JjsZc1ubbgzf-fjGL9BiyWHxbMmcIrLuYadHNJP08boYXARIPrPoW4rF4scKXjHmYTunom0ksVkG9FQ8rSd22uxWoDlihpnnh6MhEJabil-pvju5dbY442j2X3nI5MJzPevVOY263whcRRKDSIF-DBbw_plvmXwOtZuTBhPydwBeKMf0X9W2jN8XPEBOZVTqNuiJFyhsSBxXFy1pP8-MDiTwzo03NGfFWDqKn34Z9sI-SkhhzQsdI1MAgZIo96q65ItyltNm6A.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/jWZLY9KqH7PmT9M7HGzXvBaBx1D5yxot9Bg-aQrMM1ZHxkUuF07Kg3eQouvXigvbFjtec-qjhntn4XNcggt9l2RiXVQmPVcf7LJ6jOVIOyZsERjkAUHjPjstUHGPcbqL6hJ9pfR9wtirsWHSgdzwWBZe8eZEGKl2ifv5CkrfCB8WUEeOLrzLCHq5X-nMt7IoQYnBpvqWvSyEW6UQN74SczuViNU0_oJ2eBRjrFqzH4IdRtiwQO5uvYCb71oHTkFCJX8XiBcqTsO4FjlBl4PgGqQLzqM0hrtpe2LfRuKQhU-j43wrRC4Z4LYcvXkkIJc65u6YAVIAxFBa8DuVJRsP-g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Le7hWGr1g859RtrZzXrLQ_hSxxMS4jPYH_l9JvRBhkQvli3hmlVKvjhs1oGSh0I-ZC2UgkxREQt0EVLEwq7QkTCR8VsJEb8yWsFR9PF-YYQpEN62ARaxpGyJM1eaTcKd7xKhwfEkh90Aqv-RHQrYQ5k20a3cCNkdGOB_cMo2WnjqsVi-YL2fi8j3nESvp43CU4jxfqb2s3jtQ1G2iE8mjRtWkzt4lzlmJxIVfJJokAWHMgKBRcha_n348fxt8QvdxvlmTYf2B1OjQ7iERR2bNSgzrW_vbDbyTHt_huTju1E-cpoE8-YmjS9-wuA4XuodVoM-shxpvTt2-_10uUzLWQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/exE7WS1qqV0OFibS0v9IFeRnw6shWtsc-zuVLGZ7ovjdHHySK3O7J4fvPe8VuHYqOZWtlIJ9ZlBKRag8PnWhJfXIjBuWLEXaEi2k_Q93ODSQfbYCdnac5s-igHnQ8KyWlhZNDqdIna-GC2PQBo2mmJEebD7dOg8jLb7AMSMONr6PQnl2Lw_zbX9YF7KdiE_6sxcfRiHeV2SigPGnUAhs89Hi0G_t0YueApElf0g8mu7EQfsNJXfielyzbSWgLAnCu2zo9Z5JX84WgNyKBWyhdek_VWi5MyMynF0jqXtjDAZORTGSKZYztsDK3xFkD26FbN9G70a1zrEyzJmBHXgb6g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/uk-_Kn795ia_1bAlJDl9FH0QKRn7evE0ED2AvlEeJxzv4gj0tf1Im6rzpV3sqvi4MtY__wX0zlsHnRjGcM1jrGhsTX_XrsfVgii1x8ILvQ0VrUWlMcfs5RBHv6x826Q7eP7vyX7VR8T6pAWjfAFlMtWOiFtYWlzRidolAOETxVmHdgvIRu0srlKQsA3GLElbpUyavzjUkW3MvDnh7qzW_MET61oDMxdCI4o0pUFKbCKEz-jpaDacVXCTcffNS5MsIQ415or8M53qbJPVKtX6AradJ9T1dUi8pKQMnugPOW44jT7LfoyBm55HISPAnNid8QJm0trH5UetnabFypP5lg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/AyLoCvTJgFRZcxXooIYqcrFuW4l9tswbQ5KxUEh2hJR48DACJSk3XCoA09C1lNJlqjuu_17KXKjNKUX7kke65trpLg4_S0hjXRgDclhBJm89e66wMH0ydc0piLVgCsm2kSdiEh3TswdFSltoPNETi8b8wXLHl-7DTOP8wLMSwTq-9AqK9OAT7Xkgh2smInnSvQLvASY5Nd2T50ipXRqK44qgSbbd2EvUsNGHk033UNnd4TYfLH9s2WRLIjR8ovygy7wRXZLni_mLPdAxOvYWPviXarOXKGsoPSMxM2ScW6QKKu20kiZQGivH9cJ9JldnlQ7EakvDrlMdiagzGFdumw.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">از سایت Nara Router که ریک معرفی کرد دارم استفاده می‌کنم برای ‌Hermes و چیز خیلی خوبیه! یه ربات خیلی کوچولو هم دارم می‌نویسم. دارم تمرکز می‌کنم روی این قضیه ببینم چطوری می‌تونم کارهای روزمره رو Automate کنم و چطوری میشه حداکثر بهره‌وری رو داشت از Hermes  خوبی…</div>
-<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/MatinSenPaii/5164" target="_blank">📅 21:43 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.4K · <a href="https://t.me/MatinSenPaii/5164" target="_blank">📅 21:43 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5163">
@@ -742,7 +742,7 @@ https://t.me/MatinSenPaii/5092
 <div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-photo"><img src="https://cdn1.telesco.pe/file/A3lasXy6K2j4NnEP8PdhMiTRRTPrpFHtKZXxzxtTvSjfMXJfzyr-v3TyxUh7hhu1NGxcO0ovw9hrEmizndukdnDaZEe6On5c6NjAksJ3k21m4n0WfpjlCoaZjML96_wpMviuk9_Y_gjSbFGBeLKAeAGUOpYYYoUAjzcfagoEmxGJHcsLD_7FJXB99tchZwOD56KfxPTxXfqzC9OkVwcY2HsrWMU3ps2Z3mlf2k_qMqXPaforCJKcUV2Vzwt3JXr3fCBVINLG7nxcnJ9UpzgPzwj1FvbdSTogoYQpSGrvilVKDHzZtzY8rxXjIOlBYuhTKk9SLgEKK3J1zy2-F6oOpw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مدل Muse Spark 1.3 توی OpenCode رایگان شده اینم آموزش استفاده‌اش</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/MatinSenPaii/5162" target="_blank">📅 19:21 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/MatinSenPaii/5162" target="_blank">📅 19:21 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5161">
@@ -753,7 +753,7 @@ https://t.me/MatinSenPaii/5092
 10/50/0.25
 In/Out/Cache
 که خب با Fable 5 یکسانه، اما با پرامپت یکسان توکن بیشترس میخوره(و هزینه‌ی بیشتر طبیعتا)</div>
-<div class="tg-footer">👁️ 28.9K · <a href="https://t.me/MatinSenPaii/5161" target="_blank">📅 17:32 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29K · <a href="https://t.me/MatinSenPaii/5161" target="_blank">📅 17:32 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5160">
@@ -766,24 +766,24 @@ In/Out/Cache
 <div class="tg-post" id="msg-5159">
 <div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">کار کردن با مدل Fable 5.1 به قدری گرونه که می‌ترسم بهش سلام کنم لیمیت هفتگیم تموم بشه</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/MatinSenPaii/5159" target="_blank">📅 15:21 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/MatinSenPaii/5159" target="_blank">📅 15:21 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5158">
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">امروز هم Muse spark 1.3 رو داشتیم هم Gemini flash 3.8  فکر کنم گوگل از جمنای pro 3.5 کلا بپره بره روی 4 مستقیم با این وضعیت</div>
-<div class="tg-footer">👁️ 32.2K · <a href="https://t.me/MatinSenPaii/5158" target="_blank">📅 12:51 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.3K · <a href="https://t.me/MatinSenPaii/5158" target="_blank">📅 12:51 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5155">
 <div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/HoFM2IFd3QuCuwuDwC2mX5wrFNx_i-0Yz4-LPHFFj7NEP_h_5y1keO8OCzncTvCpa0-Z7PIJGfWN_Cs6dEhQZa8WHgHIOd0Uhfve9IP4A5UnnTS1h2FobjY5q26pWclG0tK4bOPfEuJsRKnu2u-Ce8n2Xb4nCGJGgNbDmskrigH37cRbsNg5D-orqzj_8jRvsTDaZ_92IBiLN3iwBpO72pih3x3-lv0bXtPm4ehlyi47GwWBQLEcVtNoAfWqMRCL1hV44W76jzVWZektikHbxUjDTWYKUU2VHQtm5Zoyryxa7pxF1YRH7dG3yqoW19cT5B88F2Htb3w3CSDFxwAotg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/BkS8euWoxmZaD5R9uFkrDoEU4TSEd2Ov_I_kLSi7N5V7PdxADEpiOtxHSM3Nwsvwx7Dxt8ez8OOa-417eZTJh47tpz2T2PpYc53TmoAajeuXchKatgc5AWW4SdSJLnPWtFiDJ0-gM2OjkLwcyF2MIjIh6J4_5y2Z4qFmSvGUnKVAcTnBMS__ZgwmK3sq4aUXPrJ276833XnzufkIxgeyBQqmVMMIByYSmOhb_znCOQefb_NB5K09hau12kjOHDLDsMwz9DDe9tGuRZ1yGTCiWHrH5SJRrW4rmeXN-f6XGdBbBQgnq-I3tb_nb_XH5OkdZ9jMdljmi7NJQTVJ9DLezg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/IJyg4A4TIk8hF93sVllJvzw01Sn_nTcFQCSZmzuaamANAvSzMWI-MXg-YZwW8Ra0W6EKqginK6dvN8aJEQXYCxLibqcz4GL1Xm1whydcrTOlmhBPgxph3l8PfSOI22_vgy-TpwjufIXSeyQmuR1OsWa263jJBP93iFxBsDgQ-0MpJtr29HrEXkwWCZX1W2X0wU1gBp3vYmCu60fK9NewM1YupLyHUEzOh5yV6KooQo80RrchX78-oGwfclYNvMq7f_3un0KzHlO0kvGr9WQvtPlEReWY-vjtEvWDAMKPyAjNlLSvYyTST24eohojF9wRpQuPRGh3Qmk2PP_U6kGOyw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/tNQQH7XZOuZrCQXZ-QQBUKZtkHFrJnRNkZxrycNCFpg10QmfDZTBcl-UwleDlRz8g7RFu1rrHILQ20wJxbgM88QPhmYJiOP5zTfOggrI766Z0WbCgD-5D3z0D7cQ9inrLDYQcIWjlW768FKnXw8uyyLfjg3dnIeBm2UJpgx5oSkkuUHfkEhOe-WY1nC8kOIfnWVdHp58oRupWAxBS4D6zyJoCgQHJDoQovDS7tNYTqft8BF2me5ioNdOm_JA0X91z0GLGja41Ol69M3SJj1xx1TKNOvjbMNOMmiZ756S3BJtdv-1zc3mwYtU1rJYTP2kYoanGdTtSeJj5OPHBbqNZQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">امروز هم Muse spark 1.3 رو داشتیم هم Gemini flash 3.8  فکر کنم گوگل از جمنای pro 3.5 کلا بپره بره روی 4 مستقیم با این وضعیت</div>
-<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/MatinSenPaii/5155" target="_blank">📅 06:22 · 12 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/MatinSenPaii/5155" target="_blank">📅 06:22 · 12 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5154">
@@ -801,7 +801,7 @@ In/Out/Cache
 اگر نمی‌دونید Connection Chain چیه و چطور باید در WhiteVPN ازش استفاده کنید، توی این ویدیوی کوتاه قدم‌به‌قدم با هم یک زنجیره اتصال می‌سازیم.
 📱
 دانلود آخرین نسخه از گیتهاب</div>
-<div class="tg-footer">👁️ 29.8K · <a href="https://t.me/MatinSenPaii/5153" target="_blank">📅 22:02 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.9K · <a href="https://t.me/MatinSenPaii/5153" target="_blank">📅 22:02 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5152">
@@ -813,7 +813,7 @@ In/Out/Cache
 <div class="tg-post" id="msg-5151">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">آموزش گرفتن 300 دلار کردیت رایگان Google Cloud  این سرویس Free Tier دائمی داره. یعنی حتی بعد از تموم شدن کردیت، یه سری سرویس‌ها همیشه رایگان می‌مونن (مثلاً هر ماه یه سرور مجازی کوچیک e2-micro به‌صورت دائمی و رایگان)  و همینطور با این کردیت می‌تونید دسترسی…</div>
-<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/MatinSenPaii/5151" target="_blank">📅 17:31 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/MatinSenPaii/5151" target="_blank">📅 17:31 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5150">
@@ -823,7 +823,7 @@ In/Out/Cache
 💵
 220,300 خـرید
 💸</div>
-<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/MatinSenPaii/5150" target="_blank">📅 14:06 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/MatinSenPaii/5150" target="_blank">📅 14:06 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5149">
@@ -852,16 +852,16 @@ fakexy.com
 6- من تونستم بگیرم و تا الان هم مشکلی نداشته. دقت کنید من تمام مراحل رو با یه آیپی ثابت امریکا رفتم و لوکیشنم رو هم امریکا زدم با ادرس و همه چیز، تهشم با گوگل پی پرداخت کردم
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 36.3K · <a href="https://t.me/MatinSenPaii/5149" target="_blank">📅 13:57 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 36.4K · <a href="https://t.me/MatinSenPaii/5149" target="_blank">📅 13:57 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5148">
 <div class="tg-post-header">📌 پیام #50</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AMBJqegZmZPZMu7YPLOk_wbn0j190GXUh4sYLuhJU4CWVyeabGNz4tqsiaUS-5Z80TYBmthtgz968Xqb1IJ1cDurHlXjY-lzp6tvuc2jdTIndgzDqDWepGWtAjrJEG9N6MovWXk8DgtQmaV_NGLihX5oAkFXKZWJP2SDNLVbHoB3PFordSONpyfbtSbxezQioQDXWZbDRtcMFeDoLkiDA67cjwWV6exPxLe7q9Da_RgGanqzUETDQ4uTMbcvZsMwa14R27EbWqXUpjxMaJBe_1pLMKeKmmVD87f7kSFXDbY9GezFeHNcxrruKG0WWTwR7MjI1ziM4eJXAVLyeerbMw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/OoNKBwz0iROg7BNDSCuQSNcBCMOCZhZmzHYBwijQsSDj_NEZMWCRM0RwR3ekVoY753jmM5qy_muMmBEuH7PSL4_068B67QkVYvtrbgj31ZJj2z_E-3lpo0yFRlf0zKhyN4UbQA9Wwz-JQFOTi2K5lua_J16MpQfnmxKjUCmtoYR5uAmLXJO5_Q6gyHo-sp3nf3EOQI8_9zb1v-qMgIMWr7bR5XyyTE6Q9zv5aGb11vSHrV_RXhGoNPAd5RXnbVUOaWVhiBVVVzw4VEqoNBb0m_D7O_LQOpOBx5BNXBAzMmhLGtGySlPj5JeIRay803YOkeVc30WzxashBMrzqxbIaA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خب بچه‌ها من وظیفه‌ی خودم دونستم که همه‌ی 210 تا کامنت رو جواب بدم. مخصوصا چون سر و کارش با جیب شما بود توی این شرایط داغون.
 و الان تموم شد دیگه
 لطفا قبل از پرسیدن سؤال جدید کامنت های دوستانمون رو بخونید</div>
-<div class="tg-footer">👁️ 31.2K · <a href="https://t.me/MatinSenPaii/5148" target="_blank">📅 13:30 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 31.3K · <a href="https://t.me/MatinSenPaii/5148" target="_blank">📅 13:30 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5147">
@@ -872,16 +872,16 @@ t.me/MatinSenPaii</div>
 
 <div class="tg-post" id="msg-5146">
 <div class="tg-post-header">📌 پیام #48</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Hno2WJcK9-td6KAu1aKvEKZI4VW7W5K7f6lp6Y2Te9ER_nNW3wuqHYH-78OBWZbDzVlyzYAwc0VBMbft29_LDcJPbvNDce7_EIFd-Xg1Dkom33f9XugcqN8Wm6O8JvHWzaOQ4k4m_9vBNw2uqaFMSxx2ZuvIKLHPgNKiZKz4DaIIKGgGCSYFABWNQ3o6j_WiObR3pYC9YY0SdbbMk4Ojz4nBmKUUjDo60EaZyJIcNtt9ntRRYyXIU0AG-5GZQHYejKdbTI2DO8Z8sFYaJUuotrx9sSgApSY-4k7yCo8deA98hZsMFtsRQ0H4ugWt5ioujZdcDZvw2-vsUUXXX6zrlg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DXNSGpaLeGhCYw6oB7FrAaUMBWkSGBbVO96TEknB2seNhoBGZwm3Hvc_Xjy8CJtoTk6AOU_qkdtf01od3oqxMJvBWYq80BTUUUf324zPGtkTX3cnWDYiOaXfucV08aNFowqbro_LyyoP4G3fweu2Qm_0fgXgT2Q_na4e6chythqXw1DzMBtvOlmAM1vHRC0qNg9eMhzAkHWAPAYxyLoBD6m0UIvz_cLWKq9jjArrWUcecFIcTUAhNVrpCMuwsDSuP_oULrI3hTqSGj8X2I0sn7cseFeDDRY1xV27rNfnTc3W03WW5qoFtXWtCJynXu_4KipbVTFeNINrQ38hcrwWXw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یکی از بچه‌ها هم تونسته بود با گوگل پی+اندروید
 اشتراک Claudeاش رو تمدید کنه با
 Mpay</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/MatinSenPaii/5146" target="_blank">📅 13:21 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/MatinSenPaii/5146" target="_blank">📅 13:21 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5145">
 <div class="tg-post-header">📌 پیام #47</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ILXU2-k-XiW3BBYil_oOWdLrnY7LsXYPatLXMAftGBnSCekZ7jGhZfbhW03hMVLJ96RTWDk_ubsRdrwnFRykr3ZnJJMOGHUXSHFKXO_RZWbWAP1EGvGCvyUYAPuDqrbZWLCQGoCLKd2qRC7KR5iih4p3OudW0xziEhIlxqiY0Fg8uLMoRE1PBgcemtC3FPu1cwU2TvRzsh-Ywx3_XWTZ5csnKxp9fURfogpuBxT54SMy_dvczbAa4WuBR4zY-Mifmbnd3zCv7IJKr3hbJ0B00eXXwFhMEVfqeYjamD2bhAOOoeGe4uMeRku_S5WTCH8s94GoX6iLtOq66lWr_9lHfg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/hyeBY6L4P_QyGZVMJBnj7CIsN7U-aRq_tBgduxNTH5I1bnaGmGnPRwiyJ7jdvWxlu8GkPhN_X3WBjH448XlgzFvy_iHuVhKaMqqSybmp4vW7MtcER82mMTPVGKsZwZW7fkDnNhJsyoLoQSAw9MYltcHFmjwtcVWdvT2EpXi7ClmkP8Z9uPhr7D-8mBHJlPPsNZ_D2-2cnymoVxqabbN0nS2njYco1f0RphL_cSfcD2yWmDZk1lTSlxid_KMxhYNv-3HN2TeFRSz4gEtkGw9GxQVFtpNTNrqU1bEwDwz_dDFeflvb8Rh7hvDayrSzzGhmQ9TnzpCpgnRy1UDMWIrkDQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بازم مشکلی که خیلی از دوستان داشتن</div>
 <div class="tg-footer">👁️ 33.2K · <a href="https://t.me/MatinSenPaii/5145" target="_blank">📅 12:54 · 11 Shahrivar 1405</a></div>
 </div>
@@ -890,24 +890,24 @@ Mpay</div>
 <div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-text">و دوستان، با این کارت نمی‌تونید کریپتو بخرید. هرجایی بخواید کریپتو بگیرید نیاز به احراز هویت سفت و سخت داره
 راه درست و خوبی برای نقد کردن پول توی کارت ندیدم من</div>
-<div class="tg-footer">👁️ 30.1K · <a href="https://t.me/MatinSenPaii/5144" target="_blank">📅 12:42 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.2K · <a href="https://t.me/MatinSenPaii/5144" target="_blank">📅 12:42 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5143">
 <div class="tg-post-header">📌 پیام #45</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iICuNJxTVeHqLLg9ynuFK3ZfjWQMy95wcWoJ11-JLfyAxl5h1Tv7E8eN38YsGVRTGzZMi_CokGLQClUBjZbIpQktmMQWMS-oKzMr6mi0atvOEXhyOdyfeYv3kf6fPzMlKaFWqk0pxjditNPpZCIBnMxahkJ_Vz7QK1SWfoRLIHZGiqD7ovi9by2dkM00jNldVlrxCbR1Kt1wojgZqjiRJe3G05k5IjsP3vmuM8wucgLZLuQpSrnQUsCO8zlTcwUZM6grtRMJ5_l1yqc61MRxUxCZ21e4iAwb8y-NAz2-4iv6GIaBKaUoDmpODiSm6rGWu7OvLOXXLYcAFq8v-CT7RA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NnMrGisWMvXjVoFWTcnytWDx25Zy0TEZAlHJfR4L1QE3eLPMNt2OzBoM-Kt0mOr9Ck2b5y6-THW0AMjAAAMeId1-0ACoabx4oa018tvQ17J16PjYf2ivZY0yJcd6AFIDJGAK7WJ6U1zUqmRQdy4KTwAWBxmGbTmLo5BKb6ioSGWnWSdzxT8UJke7feg63Yj9H6DB-yv49XT2GlHL7Ww4FbEWiJgXNCsgld5f4UIStIBtdBDkOUlp0yF7hC1GqfUMvGcAjMO2y9ZHRMNAH4YmlesAEbUz1JfhyczmEkwgVrMSsnZbKG_KuhM9EY639ypzQU2scLCIK7rKaW1QFixyBQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">نشستم دارم به کامنت‌های این ویدئو جواب میدم و دیدم ای داد بیداد:)
 هیچکس نه دیسکریپشن رو خونده نه کامنت پین رو نه تلگرام
 متاسفانه تغییری که سایت Mpay داشت این بودش که دیگه با پنج دلار و ساخت کارت، اطلاعات رو نشون نمیده. و من هر طور تونستم این قضیه رو اطلاع‌رسانی کردم
 برای دیدن اطلاعات کارته باید ۲۵ دلار رو واریز داشته باشید و گویا این قانون رو برای جلوگیری از سواستفاده و سیاست‌هاشون گذاشتن
 من سعی می‌کنم به تمام ۲۰۰-۳۰۰ کامنت جواب بدم که هیچ ابهامی نمونه.
 این Ai جالب یوتوب هم که دورش خط کشیدم خیلی به درد بخوره</div>
-<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/MatinSenPaii/5143" target="_blank">📅 12:41 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/MatinSenPaii/5143" target="_blank">📅 12:41 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5142">
 <div class="tg-post-header">📌 پیام #44</div>
-<div class="tg-footer">👁️ 33.1K · <a href="https://t.me/MatinSenPaii/5142" target="_blank">📅 09:57 · 11 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.2K · <a href="https://t.me/MatinSenPaii/5142" target="_blank">📅 09:57 · 11 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5141">
@@ -921,36 +921,36 @@ Mpay</div>
 <div class="tg-text">بچه‌ها من می‌خواستم آموزش کردیت ۳۰۰ دلاری Google Cloud و پلن Always free اش رو هم بذارم اما واقعا خسته‌ام. فردا می‌نویسمش واسه‌تون.
 اوراکل متأسفانه خودم موفق نشدم؛ به شدت گیره روی آدرس و آیپی و...
 اگر موفق شدم روی لوکیشن خاصی، بهتون میگم</div>
-<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/MatinSenPaii/5140" target="_blank">📅 23:53 · 10 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 35.8K · <a href="https://t.me/MatinSenPaii/5140" target="_blank">📅 23:53 · 10 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5139">
 <div class="tg-post-header">📌 پیام #41</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/FiMKqPKIz_Jq6L1vA_qGwGI9vyLWaU-AkvrUS_cklKcW-A8649Hf1SPz0qZYy8cLL1so4Elqa2g9QgC47Aq4xyCHeH1x2KTjdls6zixoSpTM51JOFBYQxt2mLG9SDKYYeeN6HKnYU-iV9-gQ5fKQQt9kqfSjMoYArimD9I4w1XBcj35q85_icyV7IPbLQuMzE-_97Q4eKpnwJYTMKG39cWD3A0UdixzUrTUX8WC7WgQEAInfsHJZ81xxSi30BehunvL-V9v36qavYEZkac-dZAy9-6TvU5e1MP0mdST7CSK_H0EHHPcM8k7dZ17m0rOSQWPxOh7hilhAifJ2AIlO6w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/AipGrSsfsZ5ckmMOs64WRwBAZMOX0yDJB-1761uwGt4StEJ2k2LHQtssvzQXKfPREi3tG8fWkBCxzZqIrTmNnU2eUtrthHrVL_fkU-F1NJax99Gy-R1445g_KUMBK70D-mDsxvBi7-ys3RxDXeVlqvW2pRfo8U2XHImQxBo5hvz5lL7k_W0VTIw_K1F_77ukVvqXolSPBnIdQvh8sxOqSR5x3FGTEjvLqzxafHOb34hn98GkzUsSqNTmwIbvUGPlvD-bctOdVgajq-Efh0vsFyl2Ev5niGctYG3iH55duosyXG4By0ey77iW1M325x56scW9aeztSUtNitLrd879-A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تجربیات خوب یکی از دوستان واسه‌ی استفاده از آمازون</div>
-<div class="tg-footer">👁️ 37.7K · <a href="https://t.me/MatinSenPaii/5139" target="_blank">📅 11:33 · 10 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/MatinSenPaii/5139" target="_blank">📅 11:33 · 10 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5138">
 <div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">وی پی ان رو ساختم. باید از بخش Networking، پورت ها رو اجازه بدید استفاده کنه. بعدشم پنل سنایی نصب کردم و یه اینباند TCP+Reality ساختم به راحتی هم مستقیم کانکت میشه بدون تانل، لوکیشن آمریکا</div>
-<div class="tg-footer">👁️ 35.3K · <a href="https://t.me/MatinSenPaii/5138" target="_blank">📅 11:24 · 10 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 35.4K · <a href="https://t.me/MatinSenPaii/5138" target="_blank">📅 11:24 · 10 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5137">
 <div class="tg-post-header">📌 پیام #39</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/XpFB4MSqQYzfcZnnoONUjZ2Qe0qlUeNxxwRe6jTuzrL2umUL0-jzhxVkDO5kirlfdyVH2ugupNLziQk9189DQDaDYNBAflfxsLj7tq768WHc5c8_edII-uhviw_TkiBV4OmvxxavWA2YoxJILKZaYETpwkZyHh4dL4kvAVByljVLV8F96vn8tLu2wmkRR-pU_U1WXftnjG0EDe6ogvWYZtHhuAZfXPe6f5ngoRSw7k9vfgkvCQSczevil70nOAHqy62tJakndip5x2KyeqLW-WQtkHAvGWjfmBETGB6OUTR0gzRTdrUr-HBRB8qRC5zBWadVeabgzwZUdEOsKK_ykQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/PyEtkV7T6LHndzOt87cBkXXFV_3bQFdLHpyihJaifkFSnKT2iqQuSV4RepSvhL7d7lrUPSAErrK3ZRd6DW_sIZV0q7oOpA3fRnEWMk5qqisPT2IZBh1dLuW5TtQSNIR4txQw7ovWGGdlOiwxjOrK9Mi274Qwu-20IzMkcscrFal2xYbDvWfwKtptaJtishNUHLh7VJf3z_TiGfT4u6RPhD20cX9UwuulR6EFZjM_cukFxVTRXWgHl6gHt7LKlBPmvhCQ3KYadpCSOXIyKK78Y4gkgXdDe85BsQ7LBA-yMzHqH9o-bSXrD-621EyRPZSYzBhMfgKWDWLs3r0meyTjIA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آیپی‌های باکلاس آمازون
 🥰
 بریم یه VPN بسازیم باهاش و یه هرمس هم بالا بیاریم ببینم دنیا دست کیه</div>
-<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/MatinSenPaii/5137" target="_blank">📅 11:20 · 10 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/MatinSenPaii/5137" target="_blank">📅 11:20 · 10 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5136">
 <div class="tg-post-header">📌 پیام #38</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/R_CXThXzsQYtpo7AKklwTszwEN8Rtf9lkyp95kmqReLthqPmT_txXBwbj4ayXiylbMjHgrPe0lannKAqq6bDb6P-P50uZwnRwUbVD1BXNcqtfo617Hi3f8mKqVV7EsLj08moIxBYz4ys5UiHnEAxeTjW7T5c3wqQbzZplqK6TOSvw37__i8v_1yVsl9dyPRiBm0rDZqv1exsfYAxNuC7jRqjgZWQ7o1-UQ3uYxF-8wKq9bC8K0jknBjwgSIwXp9xJTmIgN6G0bBrobKTNvvcpX98DbyZGAPm8_AA1Bvxhyc7cbqQ1dUZ42C6jAvc38CaeIvmxUbaJPe_Dn7fohCwRQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/peSneGmZPil2m2V1HxxMUa9wtvjs0bK15vEGZElAhi014srwt7OsCDku98IUofA4JlUEgcryBNsu_f-sH3tCZVK-V9KB9nD-Y4aYUraN2KoitgAMP748rVA7Yt2JqhoXgGl3kaFlLjJjnfGMJEeSpS2LCb-8sJykD-77Pp5OgdX4ZlwdT6G88JdJA3ozpOn57zlmTQIQYOZlB7UifeKTByy-fo-iAw1RvISddQASLCsULa_dxfjnAkTWKXURjv8we9a1re7aa1EipiqZeOtm1074tQun4r6J9gs2JlN444-4meP8pEG19HcKQMYZs_aAA7j3_N3MW19f6Lhfw6-jXg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یه سری از دوستان میگن که اکانت ممکنه ساسپند بشه اما خب.. خودم هنوز ساسپند نشدم این ریسک رو در نظر بگیرید رفقا</div>
-<div class="tg-footer">👁️ 33.4K · <a href="https://t.me/MatinSenPaii/5136" target="_blank">📅 11:06 · 10 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.5K · <a href="https://t.me/MatinSenPaii/5136" target="_blank">📅 11:06 · 10 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5135">
@@ -961,7 +961,7 @@ Mpay</div>
 
 <div class="tg-post" id="msg-5134">
 <div class="tg-post-header">📌 پیام #36</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/NaYQbMatdYVR-U8xYdjB5H_rKg_NhDSu_rCkObg3DN9zhOytZbXLFie8giqoS0SWmYLE_6-v5sn2dTwkZjhQFWBkYBrp-9fy7FSftLzfE-kLt028EQIoy7NhGnG_vv6kvi2Dpf1DDxk-4cKNxcQq-NKN5P5QOy0UCApGGY5NrSjsuXSDjCrk8BHUQgxyteqOsyYNlpJ1rtJQ5_JFiYUAJ_t1oszmBkH_xjOtsnvfDbz8dsKVFZ3UiTSiXQqMG50qnePZIjncY6iP9AU5GL2ontEklexOc8TOdVyrb1I8FkNer-WXKq46c5pDYnQMEt3zYAFunyXy-1NvSFs_7yFMWQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/QJ_TvWe2qNgLKWvk82zBStDGIiU5lsqa2_T3U-eF-UYlQgLlmLKQFp0PFoWUyvpv6lXGdYlfm36zErNHzQ1qJqH1kso9fNv35p3ivs23XEReMJfn2mOsX4dYBfno-wCsu3lgpxQ_GalApcVo1VJMJcsWqVFtIfNGpGw9_tmAjpaQYhL-XcXitQz_1BFST7slebphg4RBU9ErC84rufuKgCJJMV5Ti3WbajwS29mpCAAwDpU19TUNp-3j4IEZeecZtuoeNzfXehdHoA4XJwGPbLBzzXcly0b7VgOmq_G2vXxZ7YTOGMSYuLjhiS-up3ZEkEhF4W10w-2OzX5_IJ0glA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آیپی‌های باکلاس آمازون
 🥰
 بریم یه VPN بسازیم باهاش و یه هرمس هم بالا بیاریم ببینم دنیا دست کیه</div>
@@ -971,10 +971,10 @@ Mpay</div>
 <div class="tg-post" id="msg-5130">
 <div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/fsLSQ5T43lx7C376KO_2YrxjrmYAZxUj7Ik4xoKcXc-wkY1shjeA1L87KdI-ABOz4Cpdfly_iNWRAL6FOlmMdKXPqm_D_G1dUwURzfuMsXWtUmd-U-2Q-87hmf6Snill8PY6_HVg-OaFYgjwuG-eLEeNp3o_JHvQ3MPMPCFZWNnS24Yfpio48y82bCYZSln6_bJIa7aPelY-FvzZacAsqYOf3Z0rKAs4pg4fvS7zb0Z6rplPkqV826PqrYxcZ14NLO_GmOLx0v2CTQ4v--rFdTRQiHeGtTKWPt9IJGPdyn0Mk9yyWgYCuElSLzYg9EMIjVq7Rok_zcs4SSEXH632_w.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Bqs3y98r0E2b9Aw6pu26jWmT-hDgzrhqC2jzTpiS77AehXbampaCizdxK_viyQX5bfCoXhxcZepdjBeR9_j_T-FMJ9wWsx6QPEYx1tX0VcdT14-ZDKyA_P0ynxYi1ZVDSmqM4MabAcwH_-oy4cXa9Xwf4KXK5_1kTakI4Jw5bI12yMMgT_ffZkOpjwjz3adqQbG6Jsbetruu3DUhyPgTJtPlR2KGj97xh_SpGXIwIFYn-zZlnR44Jfz-KJ6_6LuM8cvJE6oUCDybg2Ufn1lrX_qzYtcij8fYr8anvanXuTls9yhjVeYzAZ0nb9GX63Ih6LabxMgcCHtleiMJcfTEZQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/MJXcFwuS1xJbTHnZfHGL17YuM-v7Bcsk5BEyD1uDTrVY2R02aQTdTHOFPzfOl2icDaqFXET5N91YJlGkuQM_VpWRC5ufcPu15FPPBe2oXpJKiqoUzG-QpgT166KboyiqoC-LeXbSz5_htQ9zTXlPjc4zElt71dwFK6-yJmOKzKwGITTwGpWG0Kit7ay4ayx3e7uiiQumoJO-ln6COC9MV0eS8liIQrXEueJZNa9kQ5stxBSiT5KvFry_r5L6ldVmtepDyuVuC3PWA0yRqOZWeYkd84bS6BCYq3qU4hmepWl1eDTPRV_54294o-ryX-yBOElZ6XKUVVQzuoOK48klQg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/nDbmauuXcm_W0QwockZcyUuWgBwR4evM-aKcknw8wOaJKQ-4ueC39Wou6EbXfKeJPIhcwuOQSw3AZLrGEXoTSO2NpoOkSHLBZPFTDyr5EWkYQMI5CvZnv5a3WLEq_o132OkrlkfJ9VUC8gAYatRSgeShCGVp7A8B5b7Ba-6qllvYZYC3ePKjaIAMe_v4sa4Y7SYrDGOGDzKC9u77Ou6RV76V4CqxrxeaWIap5ZCq2bKQ_LehRqCaa5Dj9lzzjy3qa7io9EC1plep_R9cL2iZ4dEnxZPrssLTmZA9VQEroBZMqA-oFuDU5lvRj0iKtTtIpO-6OUcsIySg4yD-XvjV-w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/QbcGqY5ECwQfU657qDljRD98NlE6X19CI1TP9gHjqiXg_uIYGflT4JfXUzpVtZeX9q3641EH1_SWNUo3_TfFwWuRLDatiCu58hdxQR-0jeTWaZ10yro1DPIaFsO78LJ4gwfuRsf_Ay7nIrYlz3aCtgRLn8hwC8cURciZnA3owtnSbmHACgQc5O0wqMKifJdhVTxTiytLOngCWe33OP91a1KjA3QumAF684IY4oFRnI0Qlxm2H3xlOFkfO9ix1KfPltqjAiBBEG8XzfJgEFA-t1cEsBmWLYu9vSgqNH2Mow3ZCbgjUZ41N5ZciUHINjRCAFkquQ64PWhVVA8Zegy-Dw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Uypqqg361dhyN2HWzBODwzdQBs1M0ozFCJBsrM2vOT2pf9GWXcO3TQZI8dUyXhMcGpy_-1xOKngG3pTIGppnk1Mcwy5ITUIXOOPM6YWbZCLfLyQdpkZI3bof9lCAzx9N78iOaHd88fg9GyBczPmDlN5yRpNA6c0Kf95y2_xxbwDx7qo-R_K3w62g8Qturk2H11eRnRie0MI155AaQiPMLh-byWlwFbedg2gknNcVyK729Uae1tL6lY7ExQbvNQ_vxpvNguWYbuegLSE8dpIdbu16duiJ8XvBh7L9yuHzhaacGptAofPBhOxHYZiE-mNkOHn1v8PBwRDA5trUlg7O8w.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Rxw9XhYo8A9y0ebrgMqxemXCcdXQ-_Wn6pA9gZLdUj-0vEN1VAmLzbKgCmhHq4FgbhTXSqCPPItKuvSyaqJvF2qOOQNVJBpkSopWEqueFj2Q4gL3ajVLIjmS_YzcRejSoUMXB01Eo_HgxWdfAPDy3faNzBRHnoAXExkZWiKtqAK8gpi_4zniuFaypM2Y-tXMAQBQmy_Usbgb2rDcgkTL3Bw1URO83RVD3LqD-GFzL90djsYlOHHRaYSxnQAIPK6_fEM9SBxqplb9e-6McSSi-6Y2QZLNN5tqvF08wsWbzIJe7Q4ARZFHH2-hLzClTjsv7SH2G8Npg1lj37qjrmV-HA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/W89zXrTfLP_9hWhsEnrgoYe8RrNfcnYz5VA7HaYIutWV08pFNrjojTAeMqCuD6erEZFaVl3WR9rFCHE5_2l76BGIO8_ja11N5OOU7KD45GG8Q3pOhOYQAyqhIC1bi5iINCxXlHtpfTIyqnmi2NsMmPUGQP5etWyls487u5_dod0VcUFzWf0DxLMyhZou2LRwv4YgH6B0Dh53tn4zxrCJxDop38SLs4XC925pKzZjdzie2LEAd64ldqUH2U4KSi8vQHCUKNrLIwwL5gtfDTjhgGhnRWHNP3V3jbt3j_wIhVBID_CgI6oGCWWH6s0pALUO4cv21tCJV9hpZecB3FZhzA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">آموزش گرفتن 200 دلار کردیت رایگان AWS آمازون
 با این کردیت، شما می‌تونید روی آمازون سرور یا Storage و کلی چیز دیگه بسازید. اعتبارش 180 روز هست و اگر تموم شد هم، اکانت جدید:)
@@ -993,12 +993,12 @@ https://www.fakexy.com
 5- ممکنه محیط آمازون واستون گیج کننده باشه. نزدیک‌ترین بخش به یه VPS معمولی و راحت، توی محصولات قسمت Compute، بخش Lightsail هستش. چندتا نمونه قیمتی هم واستون گذاشتم
 ✉️
 t.me/MatinSenPaii</div>
-<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/MatinSenPaii/5130" target="_blank">📅 10:12 · 10 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.6K · <a href="https://t.me/MatinSenPaii/5130" target="_blank">📅 10:12 · 10 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5129">
 <div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/W7m8odwG9zokrFdGewf3Ho17rkFl1iFUmvH4-wjhp2a9xXAX7JiAyqXf00u9yx9AhqoCvmIVcCYWlfBpb8n8K_rieD3jM5rwatvKQRJqZSmySNs9jtwDmMFCuRWO7zh-KiJCElIW2isi-jdSVfDfB7V-VvSzMZLhShVni1tYt5-RWoAVVd4ki0GvOVy7D5k4fpgqynaAUSaSuhFnKhPti4E3sesAWLyvHJK6DwXDzsRznmaJrzdBB3_sXX9X6-5QeVjHIn9gxI_YzZnqn9b9GkW_urlX_UGvfsfK7gzsA10qQonTZHdc4P3EH4ZHcaSx94bVO8xsZKvzYLJOEkYDsA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DHBpBl9WnpXDFKthFC6FryjAtegEXn4lxd1QHceJrfXmDNa-eCxucz5iR9YAcwdTK6SqgxCWcXQvz0yIViYf77ZXisunnZCTZs65QpmFBzrj9GvON0_KXltirH-Z5jUEJf4nIv_q9l5rXk9Fwx2dLzBTXFZvDbFjKbA43fgdiqtQaYQ_DufBPcp_USXdVWbSuXsjmzHFKJb_ap8YJLaUcw3cYR2g4XpsnVGjDNOnhdSF4r0RCdghi3xVUI7y-T0l0YLpaneu3wYQDUn1oFNCNo5E_bund6aWrXijfKzIRNWVaYfH9ZzMztnYxsxS9Y7IUqvcwKfU1WLuUa0iaVT_ng.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">با ثبت نام ۱۰۰ دلار میده بعدش یه سری تسک کوچیک انجام بدید ۵ تا ۲۰ دلار دیگه هم میده
 و می‌تونید ۱۸۳ روز استفاده کنید
 به نظرم می‌ارزه</div>
@@ -1029,7 +1029,7 @@ Claude Sonnet 5
 <div class="tg-post" id="msg-5126">
 <div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromLinuxor ?</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eNxrHykzJPIVO0aRJHXXmfgT3uR4sEx2lE4Rl8AONIy3Pfb5twa3aMRVnx-u07kVyANdBqybdTU04XZQKy28crUnm7EXf1YLeAGVjjuDl0Q69btRCKhXtetKoDQeOpMy4omS-nv7CDwAQMBxnqWrAOjMI0fk5CbUc7_60Ly1gz8YH9KsbL213OuM8UsavQpj1WloLgq6Qmeee4v_X71hSl8TKnuH2c6Geny6z4kdKCiKfBuXDzedKRMYBegVUVfMAKfiqXvABJGkkksKhz71aySRKLRPWxSVBiaFL9ArvBTHa1RJ6IMHfLDEAbRbCEfQHxWDaDTAJzDv7oJoqaSFhQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/md71iFWpQLHxnUpZ3e1O3lJ9PUkwJ3o281bxHtjsyh3Dv9xF2gpYOW0-j9_2-38jXDQ4UiaALb6T7xs6gWWDx2zmQnPBdkV_lgl7zBTdK8OgTKtjDIyLOmK600lJ-D1cxz5uECGy4OeKl73Fxh9xDZx0FlpBm19dt63AU0eR__Wg61MLkp1v4kSwT6Ndob5eakrRO8S1tPP8AAIcN-Xqv7hoy8RGnY_ADPJ1BLBcbfSO9jNlR1SRpxLJcGKTBtFdcuuivKk_9XnsdKfsdCrFUlqOczb_KvgYU7ZwRR8gmDbkAUpIm1jw5xCx2Tdlu7LmBruje6F6vg3L_vlT07lqkA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">اگه دنبال ساختن یه AI Agent برای کارهای علمی و تحقیقاتی هستید، این پروژه رو حتماً ببینید: یه مجموعه از 163+ مهارت تخصصی که به Agentها کمک می‌کنه کارهای علمی رو فقط با تولید چند خط کد انجام ندن، بلکه بر اساس workflowهای تخصصی جلو برن.
 از Bioinformatics، Genomics و Single-cell گرفته تا Drug Discovery، Protein Engineering، Molecular Dynamics، Medical Imaging، Machine Learning، تحلیل داده و Scientific Writing. حتی برای کار با دیتابیس‌های علمی مثل PubChem، UniProt، ChEMBL و ClinicalTrials.go‌v هم Skillهای آماده داره.
 نکته جذابش اینه که این‌ها خودشون مدل AI نیستن؛ در واقع یه لایه تخصصی روی Agentهایی مثل Claude Code، Codex، Cursor و ابزارهای مشابه قرار میدن. یعنی Agent می‌تونه بسته به کاری که ازش می‌خواید، Skill مرتبط رو پیدا کنه و از دستورالعمل‌ها و workflowهای تخصصی اون استفاده کنه:
@@ -1055,7 +1055,7 @@ github.com/K-Dense-AI/scientific-agent-skills
 <div class="tg-post" id="msg-5120">
 <div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromWhite DNS</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/lOzbPzzXI1HIptJFig11t-qFkv8K4Iy4QIfWcnNOROknPSu-TDg0II1uhC7wbGJpz7YjM1MTAmMHgfQCXI12S9QAZfy8LhBpBvHnCV7iG4IFOHQU8uvB5uRkexeDAGZIKqWmFdjZj9tlM1cS6ftBT-BQwqZmYEWg4FMqCj4vCTeGZT_bJARY8RFU0u1xZu0wkmcpeWcGTSViidAfXTpvjaEjAtZYNPLzeDMsgmqXoLu8aAsS8JSkTH2EX0ysNAvj8lynL9N7KlbphRIePlrbKVHSe8vimvC9SbmiJsKZ01VIdA_0TfgpHkHdridj92Fcr0WvK3-XF0Nh-C8aWMfpdg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/QM8qAeeoVr1KE3F-y1fRYqQLgic5E_lJPnwYZqGeaH4E3EAcNH9vDyPyU_MfZR7IcY_X3ESnZrfPiNlLc1SXjp9EfzMkqZsGjd4JG3LPLhzsRZ0mpkXlRz1aVtWh6ADq0whQ13VD4uhn_mTiHiRpDkD2_Abs9m6umNy4r6p_6KHfn8DuzsIuILh63Koq7giBY9ji3DbyFVuZyRfSs9K4awX3M9OyHp1NbWsUMG4m1uNTj6DCA_6eOiLs1VXMYwBTFl68X1wpZfganofLUS3RZreTnjs1A2f0AexW-uCzXAvNp3TvSWO2NZIs20xEJ-4lTuLR-TJ_TYITyG32XZmSRw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">💬
 ورژن جدید WhiteVPN  1.6.4 برای گوشی های اندرویدی
 تغییرات در این نسخه:
@@ -1072,7 +1072,7 @@ github.com/K-Dense-AI/scientific-agent-skills
 نکته:
 ⚠️
 در صورت دانلود نشدن از گیت هاب مرورگر خود را به فایرفاکس تغییر دهید</div>
-<div class="tg-footer">👁️ 29.2K · <a href="https://t.me/MatinSenPaii/5120" target="_blank">📅 11:15 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.3K · <a href="https://t.me/MatinSenPaii/5120" target="_blank">📅 11:15 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5119">
@@ -1099,18 +1099,18 @@ https://www.instagram.com/reel/DZ7NWUOMeHy
 <div class="tg-post-header">📌 پیام #25</div>
 <div class="tg-text">زلزله به بزرگی ۳٫۸ در پردیس در شرق استان تهران
 در عمق ۸ کیلومتری زمین</div>
-<div class="tg-footer">👁️ 34.4K · <a href="https://t.me/MatinSenPaii/5116" target="_blank">📅 08:09 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34.5K · <a href="https://t.me/MatinSenPaii/5116" target="_blank">📅 08:09 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5115">
 <div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">بازار کار جدید دنیا و هوش مصنوعی! توی 2026 چطور می‌تونیم برنامه‌نویس بشیم و رقابت کنیم؟  توی این ویدئو، با یزدان عزیز در مورد این مسائل صحبت می‌کنیم:  1- مرگ پکیج‌های آموزشی و یادگیری پروژه‌محور 2- دیده شدن و شبکه‌سازی به جای رزومه فرستادن 3- تجربه شخصی خودم…</div>
-<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/MatinSenPaii/5115" target="_blank">📅 07:27 · 09 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/MatinSenPaii/5115" target="_blank">📅 07:27 · 09 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5114">
 <div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/TtjIJqEkwqc_QbAyIfg5F6Zbtks5TD1jpnALWlLGnPR_OJUD32X1RiwCvhqJZ8tYNupk3pzvfHJf1zmSP6mprCSjz5HTvN-R5MT8bVV7QnluWvI8N2F82PCy_gUs1uPCmkYmJV5f5F9DuypUfKwwWseFX65edn4ZnY_fiIfD-vq7ftNRPO_YE5cRO_fzcbpK51Ypy-7xksJdA7h2HBIh_2s8K3vqI_TKj_sYiMDcf-9iqxtvsIfuZo80LfU6WSpGM6dStRPymecdphZLRDamvV9oH-Fxm468i0r3m8dNj6ZKv5by0j2Bv-zi_MHyzSHoPZ31da4Bqzdlu8tEU7zzIg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CArmsod6cQR4vLCtemZVDOKsu_BkbC8CNAApos3hKAYqfpqbTXB44aWn7rRfpJwrMLroTW-gHliwBrXShYefkgbevEV2hLVU56BQDZM1pyvThCeZr6NpBtaUGOeFuWzPByuDeaAgY24GOaZ5cEmLRw-aOLxcdq1h-QB4JRt2l1v_Tlujllv2YJrnGsCTaU_g0X3vSqPmzbM7nxwo8pSK1H_6h7ZQeXd__Msh0sMRo76qCQBHdLvzPBWUkoHau4DxDlcGwMeCnO_kT0VjMIwfcYFgoMU9YUCR5pXuaFMILu_HPJPgHZexySw_TWAeyWmBlHzcb_rEpTr2WcxTzn7y1A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">خدا کنه هیچی راجب
 mpay
 نفهمن
@@ -1122,12 +1122,12 @@ mpay
 <div class="tg-post-header">📌 پیام #22</div>
 <div class="tg-text">مجددا:
 این api های رایگان ممکنه امن نباشن پس توی پروژه‌های حساس استفاده ازشون توصیه نمیشه</div>
-<div class="tg-footer">👁️ 33.9K · <a href="https://t.me/MatinSenPaii/5113" target="_blank">📅 17:43 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 34K · <a href="https://t.me/MatinSenPaii/5113" target="_blank">📅 17:43 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5112">
 <div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/s8u9SgLJs3ka3q6fCO0pf3EUNi3Sf3RR9iYAQbLjj0jn5Hs7FlXvPok71pTbrzk9kNTNfYJtNxmY2QCF6OiDHJDhXll2V5WY8kliWiBqR-H5RmrfKlOb1Rs1logkASST6gPSsewHogAZsbOA9wcxmv2OtLvDrLvsaefem0xEZP4slFS83FvYmMesS1VT_WWJg0QcmRfN95GJS9wdoRLP1wjj1HbtTe-w1jHkOnedBnlVXo3yF-grSLfV5tKOP-FsWnAC2D8HXY_IUqwGASS1r2IgKKSTLuwXZFqC25Xle-_OA7bqKwFZ3xFIO2xasbMoktfHOo1f15hcdkUkfwnSrg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HLIivMbdHs16LpF87b2blyPUYCTBRFrCvAIvfe-mrCZzhfBcOfOluNDL1JWenkOCw9ddmpwPTqYJR9qrYjwSPyzlNcsk_GLxqgU0nfttXNPuQ7f2AzzkVvFSvoLo06DMmD07-GOA37pAGHEgen9TW0lrA-vS9lDGO8DjtE2WrCxPtPQ9vc2Ot_a7T42A9eZcjwULefxu-6OrTAwZP-Iq6-r7iQiZZdfRJ6v2EkGIwPa4Udd-T8svaJitqqDs3jIolR_4X2ZECx-4TRs73EHPi6cVzzxadoEsncYF8PxpVT3uhUJYYQgbLnebj0ViIGqPt91JoVThcBKbUHVLroF6Pg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گویا دو سه تا اکانت بذارید و Round Robin رو فعال کنید، خیلی خیلی کمتر احتمال داره که به لیمیت بخورید
 تا تموم نشده استفاده کنید</div>
 <div class="tg-footer">👁️ 33.4K · <a href="https://t.me/MatinSenPaii/5112" target="_blank">📅 17:43 · 08 Shahrivar 1405</a></div>
@@ -1136,8 +1136,8 @@ mpay
 <div class="tg-post" id="msg-5110">
 <div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/DcpZYsBFyhibY2Fx-FNpAu34deMtSUaxtjjL3885evQgS9KN9uSC95qJ6BMmMTYOIxR9jmYuFumpXKLR6dsOv3xLxZfpAYNIczvVkYGT-pJ8ZbkLz3y_VfeewsOY1JWAoRd0VV-dugVgIRegYuoO720v9ZoDdwpJeOQoWqOQ2U-FzNZtllFLIn2JVlWEdH-Dt9TyVxlmiuuLQUO-MnOw3-Xlp0jbRApWECdwW856AQwG0vstjVZwvkyEPWHsFqIrg1v-HAyOt4jbkMt0X8zsgQdJsm6Ngai-18qLVAUmrWIeyI_HX2Q76FFWrDQkpkQxhoydTI4gY09YkrrQq1Rahw.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Gp9dum0UUptkv0KVyV9RSqPUUMLUB9jNOjTQkl2chohH9TP6Zbw-rFChf1vLg0-w5XJgUMLUKy-s0kI5u00Fh3Y74VH4N--fIzcIB18e_D-S14aQO2YLL3VFWhceMRNX5xNXbuitPxXoBb9HGBKDhle5rTmsVu05wTPTz6807oOLaiwAaLTuNdv1C5N8WkKHAEI5uSuheJSBxE5FzupFxj2f-rS3Ee7mgCPLWDzB1IYSLBGvFPi7aWorf_Jf5LD4xvIOb0mdmwCRKYbjyGeVMj759nVzvlwEXnrVlNtO8lWrtAsXrLU_9J6hXZD_arsNxCkeR7sEH9DcBc5Uv3N8rw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/Awc0oRG5bi4XMoFp7xTb4syA1n8i6p_r3HmtSr804VDD9XVkPHCQQNiXTi7oFDq_qd2B5qEFqxZy1vDMXKyQSJ7LRb2_wbQNdLub5nUtId4sOyCZAdt_WMg84uSGUVFy4GOofcn2ADGiIadxDyTh179mIZEeMh7gowCZNMm_bqEiLVku5i0wUU3v-z5UFk5ZVSCTnqfibcKF3tPMV3RnV7qxlGwImYVSGVC0Fle0gyQiFaK8dz354unS-MJAQ87ksa2xBzVTA_JwgAvTfhJ-Qu351CxuFibpFzoALZL3TV1JUwy9Hy4CHupDHo1qSsno0hOwgfSZdr6HrsA5mdb-tg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/uZhburBT0-oWuJ5o49L7is3Lc3bR9gyCFNTKEsDYkpn5SHFnrMgegm2yGwrgRu-XaRWzNhH6KKHPSa_4eXuveYM2JWjxPoyluJsV8iwZnEH4CQsJlbqgFyo9surQ4YrO37ohCPq1gZ-93Nh160BTsXJ_-JhbEltArEl9ccsxIHA4m7JbIiIB3veosEcWONeGdDuzcaDPIes59FtHz8fDmwm-yWGb6zs3gShQZi1pSem7FB_xet_7p5cl_pLI2nWMrYNqhbaBJentuXUeXD4HZP8slKzHi9OANQbiWasR8-ogInu5Pq2EP61KlCp3X5QNaaNN7Qwoj8Je-p2fvo2ieg.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">خب بچه‌ها انگار هر api key اش حدود 30 میلیون توکن روی 9router میده
 بریم اکانت‌های جدید بسازیم
@@ -1150,41 +1150,41 @@ mpay
 <div class="tg-text">شاید براتون سؤال باشه که من چه کارِ بسیار مهمی دارم انجام میدم؟
 باید بگم که 18 تا پرامپت الکی بازی سه بعدی دادم به هارنس کلاد و وصلش کردم به 9Router و همزمان با 18 تا ساب ایجنت داره واسم میسازه
 😂</div>
-<div class="tg-footer">👁️ 32.5K · <a href="https://t.me/MatinSenPaii/5109" target="_blank">📅 16:42 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 32.6K · <a href="https://t.me/MatinSenPaii/5109" target="_blank">📅 16:42 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5108">
 <div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/JpBxEecXwStU62-PNdVjajsJXgrSH6MxjACcr_xHUYNv-VMVNPVQRk91Cf2AvQ0jien6kFn5PP5nS6puuMMGJjG9jmlM_i7BCGQCGQsmYk4QX25GzgRPr2hOe5HclIMU5qxOmS3uOJ1rTvOy8L7vpmj3sXE0585QYmKlyGIsulnl35ZKXivIjiCiUghd15JeTusHI4WtkT1FqMOhCxfZqnxuT8z7QU16PowWVT8M9nW4eNfKa2MrmOJB0-BQCIcR556A4oA-LzLoZKPoP1OuvQbtCxwevjVyM6vEErmEup7Xaaw3Wy7BQXheP-ORTDlGCy2ICQy64xvL6K4OBGgrSA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/r85jFx_cSCy4eRcRZ8USPLhVsxMAEEByflrcGI3P72gphUJL-9OLzJpTLspatbv4Ocm_-Aev21dTxQ41LVFSOlGLMUOm1Pb4p8jUM51owcLp2-h6FZcs27-3AbrrT5RCwkpjqTDWTI168xAyS2boD5j7l0ZPAQbx7TVHCQHZT6nOsBtqCSijJgRXne31TPFQI_2ddTfFUt1h-HkTbeUtPgj3iRuEoEuyacpYza-Rd4jq7M7mz_ewWN5gr1PXO5aULhqExtJ9ZB-HlLojth3pH72bUW7qXWMI0j5O2QHHCT8Sv8uuE0jsNY9rRm2fwWQH1T0rumDzUKYmSpqtRxM4Tg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ایشالا که خیره</div>
-<div class="tg-footer">👁️ 30.4K · <a href="https://t.me/MatinSenPaii/5108" target="_blank">📅 16:39 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 30.5K · <a href="https://t.me/MatinSenPaii/5108" target="_blank">📅 16:39 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5107">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iTpFlMJDr5xzbsSdG_pUJSEOFkfxKsjFehSmraHglCrdpc4t7yHf75QujsnVQPyMx_ZwI34yfxj6FPmJnC7w3yn59kWgIQsEmo9XBhr2AaVwYig2Zmw-8tmoeqG77TP10x9iWgZci-sI-tAjS9rhPAmUBrsx7bTMEW-6Y-2xJlsdoEV0ath5Vwz6P5vuFAkFrOiltKLD4SuKaacpTAFd2X9bfnDosWf_ex6gioeTFrRnw-WwuTSpaEcK_vTfKTzp2QOw_IaTGo95JUnmK9V_LgUwb5qVnPz2i808DjwBCi4d5NEZp7gkhf5TEZO_Fk1EOHx3qM-CHGUNoD1fFt23GQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ZU9XrI2PVthvHz2tGfxeqfhO0Ufzn_MjhqpVyYQCBtvwY8DbsTAoUXbMbqup4SXASpqQv2JfZ02EwI61dTXKqbxnf3JLea0FWTUDmKDJeRd_faP6-Y1SK55CbF7gpriIxOxhH2edBtI83iZDURoJi_30_0uTCOs48_rRiS_RMTz2yEcm9hJRSPi5wCKuKFdPU4-CxytYs7juym_ltXwPcByZZuMtGBSeJ_KzGVV4CJ_MbG1WO9ZCFEHH3Ntm2n5-9uyRR4US_jt897G-zhxvns93ftJe3owKu3Y9pgcEAXXXE0rSyazkYFibs5DSVO1i01YC8Gjvk-mNi6ZI0WNyaA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گویا از B.ai هم میتونید api رایگان بگیرید واسه‌ی GLM 5.3 Flash یه ورک‌فلو سنگین دارم میندازم پشتش ببینم تا چقدر توکن جوابگو هستش</div>
 <div class="tg-footer">👁️ 28K · <a href="https://t.me/MatinSenPaii/5107" target="_blank">📅 16:30 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5106">
 <div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/eWnkgan75N3U3PRpX1hYsCUah2vYCCaD1BU7sd63ZXbwhR0KeKZCWfVAAMPs-fuTbLeYfzOtJx_x6GYsjc97CMNLB3BKsJJwXMhxg5BdGhgtRqC8NOc-ZWYlBHhB9f0XlLv9pcDmpd9JkhKYOucvSzy5Nqbs7mMWKfecOrTX-luBWvtN0VVCngmvJPwG__27m-dFHOe61S0VQYmTfy1X37wrJmTj-eeOS7ebm5FRJcl5tZKR2JQVGbBDYj8tobLtLbYFCgWxKkusU3SHUy7s0IcwOvGfEN49MmBcjmTzuIFdtqdwmIAj4HN2HjFY7Oab-3CoESGap3RRs4QGccBFXQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/v45OOzQ2SSCv7MA4f8gEMn2bfd0OeUcUrYus8yuFVqMCiLfq_7pjeMwH6qO7KpI8_QPeeQBQQEc_vsQl6hD-1nN5KUePu8Fhn8f_ijGLoLwQYgWzOJ6J_oV_uI-HHzHhznfNJ-oqAxYKmCdzRetBCVhezNnA8GwLq4YR2gTdWqec1A1jIFH-_2aU7LnkFAmJxqb2mRVUzsVRljcYB7AcjTxboWSjnT_27w9CNl9STL_6sZ2kiqRzkFqOpqpBUSpfIZ_L8H3koSuI_wPivQONQko-CXs-JgseDnDXnXJMTH2hQT0J4uxsWpHQ3-u_XQVuAWvu2QtxYAzoiNw3J9CmqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آموزش استفاده‌ی رایگان از GLM-5.3 Flash توی 9Router:  با این روش، با هر جیمیل روزانه می‌تونید حدود 15 میلیون توکن مصرف کنید.  1- خود 9Router رو که اینجا آموزشش رو دادم باز می‌کنید 2- وارد پروایدر Cline میشید. دقت کنید، Cline Pass نه. خود Cline 3- این مدل رو…</div>
 <div class="tg-footer">👁️ 28K · <a href="https://t.me/MatinSenPaii/5106" target="_blank">📅 16:26 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5105">
 <div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/CsFZx1LdiL-is8AJLAzySgvs85j1QQuGVCpER1dDwJP1HTstRajC2Ba8U6hHgzZLaw5r2ucxZMrT9mSVD3fXj2ILDu050Iwg-mWnHxv1EnhuSdb5GP0FhE9-TRgEooEsF2Lub-lADWTnmo9-dbcD6Bbc5Ly4ozEn7ASFLNe7MEhonvvTNoisExGNsmWcxG5ndIAA1iOelLWnzU8p4FYPkdEGKVHU7zntkSExZ15CGA7xrwqU8kX73KVYjOLAgvpYw9mmkwzhpuur9jzts_PJviH_fqpywDJ-iM8iJ7uj8TcCoEnCM-TWd5ssGsqucshr5kar__1H8Myz1yJvVynLaw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/Ah_xYKmim03lfObnkIPDF8WguEldIYC1zVM-9pU7PYKyOu4OJi3Esob81qu8QMzf82lpSqw4y8C7YlznEvBYM7Ba9qWAc-8lk_AkD8cgkeOEr2KAI6vtvO3pC1vgM-1xB5wYaaqgjPtEwUPCcWQjrispyIbxZuXYz9_hsl205YzN6iVn0ZhIKQZZlR2iWTeRXLYbafHyTPwp7xz4KmapNykUWIi3h2YgXW-XzYcMiMJeAj9Aan4cUArjGrZmDSgu1Iz2kY-sXQhqeDX4YVQ2TJfl3F2fw-5REo8TpwEJfuzqn_k2RdP_hQlji_Y3qrJQN9qDWGbLlvq8LQlo0reE0A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🙏
 🥰</div>
-<div class="tg-footer">👁️ 27.2K · <a href="https://t.me/MatinSenPaii/5105" target="_blank">📅 16:25 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 27.3K · <a href="https://t.me/MatinSenPaii/5105" target="_blank">📅 16:25 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5104">
 <div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/VSqM0YzogBJLu5Gf5t4avds1ROpTC4MJEZmu_4653YhsjSuzbceNsVnz4CQ334cB6YqfnipfQ2DB45R8uObGF90iBGwtRf16Pvhheyr2gCdvscf2kY9VGH-cfuHHcuyDuSVNkMZBEgFUzIGJUFIOf7yOv7yDg_6GVXmk5A7sUY_7AjT4k_umvHGCmsIFvIJo8wyaCyyLm03ZQcuuEjRfGORleWQHWjMRpErCC7rEwW3SaH_TGz9NbbXRwkaHKxm9Df9Jtkk0F6vfcmOFgbye0e-ML7VNY2-hdrid0OMmSelMpjtD1fHbyn_EZd777GHjyO2o8geimLjqtkaN9RCYdg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/iJrGYDwxyY6qEP3kLzlQjY5PDNPYguNng-FUpQ_3LgxtWx6Aqb5AInQSnPVt1b4_LnY-XdyHrt1yU0xAzjvK_TrwTwY1pPwuh7Zw0zNq0hFes5NKI8QRR5NHdEEduFoFq-c-IxC22PHvHl7d6kQs2vTudz7EJN01NTdNQO8Dm9QqewqtP9unZ31tVVjy6KDdBDiFUSNjtr8nOOgJIY7hz_LZ8uLO0eV6wqxe2gikojpkKUCjs-7IWORKXoNbfpS_enxfZSy5Cpm0_zrUn3ZXhwgr6BuDbhKRIFMgC63WA9-BZFMtN_arb3cbaga5nrbejVR0gl38PZE0WyX6Tb4ggg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">بازار کار جدید دنیا و هوش مصنوعی! توی 2026 چطور می‌تونیم برنامه‌نویس بشیم و رقابت کنیم؟
 توی این ویدئو، با
 یزدان عزیز
@@ -1208,18 +1208,18 @@ mpay
 ثبت نام توی Mpay برای ویزا کارت: https://app.mpay.cards?startapp=ref_S4FPMh ثبت نام توی سواپ ولت با 5 درصد کارمزد دائمی کمتر: https://t.me/swapwalletbot/app?startapp=invite-515916
 🔴
 نکات مهم در مورد پرداخت…</div>
-<div class="tg-footer">👁️ 29K · <a href="https://t.me/MatinSenPaii/5103" target="_blank">📅 15:09 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 29.1K · <a href="https://t.me/MatinSenPaii/5103" target="_blank">📅 15:09 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5102">
 <div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">و آره، منم حس میکنم یه کم ضعیف‌تر شده نسبت به پرومو Ox Alpha</div>
-<div class="tg-footer">👁️ 28.2K · <a href="https://t.me/MatinSenPaii/5102" target="_blank">📅 14:41 · 08 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 28.3K · <a href="https://t.me/MatinSenPaii/5102" target="_blank">📅 14:41 · 08 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5101">
 <div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/RBmJ_DQ3VKU6G_Xg5n1M_tGqbV21VgZXwoEd8aJoitj_dqH_6nhgwJJC325edgos0DD9xptXMpff7M4-fXJw2-UHlAMGT4V9vKkOotPiMs5yAAphgfIeyX6_YmoyWWwOpdSUKX4p5h8MprBl6aT30c9Zz6e2VXPNeY2Fnbc-mCVOlzOPV92Y7z6i4oQdHrzG96XXO3u_NZDTPYhpoz6RdPol00Bk7nXpebFt1y_3MF_TQWKBd7AzQbeDCBdfMosFtv1SaNCC9cVCt4VvJ3qKYkswOyVMPHlT3_mX4wXHIPstidms8LamWnOuK0pag8gJlrh9p5_2J1mJ-0stc0DgnA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/HbhobY59HU7BPi9aCM7Vhb5wzkXObXXm4g-0EMR4anImZYiNA9glQmxd_XEm7lVhuHX6bw1RT73tp27CpTljSOjnyNYG-iXoe_R-5xzzweKLlT-YaGPMyY3Waud8z5Zjha2OKWkdvAeJNgU-vDdp2ZnMMBzK6IIQo6VAdQD8-Q_IZBWTUewS2EpIaeIzK4n3RgRB9h2c-NoPjrIlqaFH9xOxn_7FeLHEd4NiBSrNAk2wXKP0wlWBCkH-VT3-MQksbM-r6wdmjbyk4NZYD8Tn__M1T_CRqJpEFjfIaIlp4CEVOsLPnHyqCo6DnoBU4Xgf4oauPLDr1UuzSVazh4TnZQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">آموزش استفاده‌ی رایگان از GLM-5.3 Flash توی 9Router:  با این روش، با هر جیمیل روزانه می‌تونید حدود 15 میلیون توکن مصرف کنید.  1- خود 9Router رو که اینجا آموزشش رو دادم باز می‌کنید 2- وارد پروایدر Cline میشید. دقت کنید، Cline Pass نه. خود Cline 3- این مدل رو…</div>
 <div class="tg-footer">👁️ 29.6K · <a href="https://t.me/MatinSenPaii/5101" target="_blank">📅 14:37 · 08 Shahrivar 1405</a></div>
 </div>
@@ -1227,8 +1227,8 @@ mpay
 <div class="tg-post" id="msg-5099">
 <div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/fUVM28n5r6LVITC354EMEfgdTzcXJu060nhwv-jtx0Rh1SsU13STRY5SxPZk5ZNuDuXfgpGq19jZA7mbefJ3p-470Qn9OnlD3_JqNKbco0kH8I4R-MwhhXkRI-xJiN0_WNTrHKbZUsngiDHeJj4C_In5N5AexbsZSvfohQNbRUQwz3sYBNs-zH2ySnAnZ-icMegANs-TMZP6xm4Gh_MgLtbDPXWsdwl5f1RnryXN0SMj8fd_znEO_sGDtYSfIUlP53Qn9OFGIo5ZwZM_nnuauczVprX_ddc8DWJyBTo1Bs6FpF9aaB63xUnD2lwhq4Y6wcSQlVXM1WHchwjv_wt7ag.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/s1me79oU2bNVM1Ll6P8oT5kQQbXnN9wyh-3olZ5_RUUfLJVHyY5QigUWlno8Fyo3oISg3L6pSBl4gTScq9xPvH6UeJX5ly3qg7eeuoQvWh4OJkfpFpuj5CXJpXpE2LHE4U829dqKj4ilc1U59v6SWetzQnmz3ZIrbgs4vQXWSdB5kQxPgAhhSHTkIYqKtHI5Qe68sYQINAZ90LvSDdha_FKjoGpBAYh_Q60__0Ejp6ZrWKPQjUek1JFYUkkK426ejzs9s0XLiflNZnEVLWrDH3kDYkVpU9YuQFhPn7baaHr2PXZcY7vfyLaw1QTbR7Kz0Tx3Jd6vaB8xKMP95K2tNA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/boAWtUZexjv_dKJuHsYHae4eBqfZW1yo-vAhfLgzCVfqt79JRp83ZziVUTAd-th_27swvZYutlCakqTZUVlEX9pF99j14GHVCYURMlf5eGgLe-Q9JGLLIm0ysFHeSHPg6md_YR-BX7R4aB_eL1cK9X6Irc2ToDqSNXDYvWyn-phqVDiZcLVj7-gWTZ_cmFmYpmVfRyOWXTIDsTfjWVvbqDOIAsYrzB7wjHAUisT5f_mN-ykLSzJ2pNwgUuoQdR1IwhI7V02Qh6wFVfse1DWhaal2znRgueR9a9flEipIVW7tt0G3X0bHBIDp2y3YKXBsK8y8OkTiHSoGLeoYTFOpTA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn1.telesco.pe/file/vry2y2xlEablo4KFrvM7lpz_tX-F2G-M4SgkYdQArhh6UPq7J9AC8RuN_la1c4mUQ7h9aufJyMHp1jXknjgdxjRs9593Q7M3aysYdFN3mgJuS4-02XjTAlLJabXjUTZBJeeyQ40OKz0OKXOv7_xKJrFF43pV6KhKvivZKJk17ugciWLZHIWeSSlXpK1KijtNThDEhbbjNzxwD6YyrchrBXilkLA0HC-cPP0wvD2sb11i1wg5kwv7FiKI6p95DPq_9Mn_9eagzRpORjn5JqF9B1PRW0m9pQgdEq0mV0M4a-DXFRbu4tYrwGmM_J4mL5XsU4G4RjOmtyxyh1NbmhpzSQ.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">آموزش استفاده‌ی رایگان از GLM-5.3 Flash توی 9Router:
 با این روش، با هر جیمیل روزانه می‌تونید حدود 15 میلیون توکن مصرف کنید.
@@ -1245,7 +1245,7 @@ t.me/MatinSenPaii</div>
 
 <div class="tg-post" id="msg-5098">
 <div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/kHMf87gVfuqcjgSDxbiid4Rquf2yzsht3eyoJWCEd-01YXSdI3eoyg5Av3G07VtnAekzFdZfdrAOP5HEmjHhcbKyvlyWaKRPc6OnnE9fKYwpUDAbB6wUczlv-3QPf3rMNrgiU2nB2D3Ytf9ZjLJxTGm5a9OOLzA90TreEqrGroo_KIYBqXxXzsZLcB9adnKLHuXxjXCuYHsZS7hKbfr3yBN_BuGrdP5rpGXeWdINq6IgGQgiwCpuj5fARzjeAnn4RT7WYYalHDyor8FROQCqRAO_NrYlYE6mB7HSgCWc3k4YfMLr39J2K8d97Z8RhcoztVwl-2grhDWT83XwJF4QjA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/DIV-S1KjmnJLTDvuXlFZdnemb-8sOOQMhI67II3GG5jf5mJivFK9ugUYEk7i3HntojbeYxb4daylp_uzE4Ln46AJWRaxGw-7GRNdlGBEFvCq02QeV_MyMRHqGOiIKwx0SqRHxnSgfQAMfyLK2BWVsMkOEzSucNDtazu6OUPnrb5rdhYgSTbWBfHd0fhza6NUDHYYxn-kbMyEXVRn9B35UgcxzjUgFSbHFxgFXEQ4QeImCzTkvspmMifRK5i3wuZ8evnpi6QI8BS7mRg1OaRgWQ7FJNGg0t7rObyHyoY1f2XbATUMPjQp6VSQaBRln6xsMUeu0u54nGskAP4mRechpQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گویا  OpenAI تصمیم گرفته قرارداد تأمین مدل‌هاش با Cursor رو تموم کنه بعد از اینکه SpaceX کرسر رو خرید
 😂
 کامیونیتی خارجی هم به شدت از دستش عصبانی شدن و همه‌اش دارن هشتگ میزنن #ClosedAI</div>
@@ -1261,14 +1261,14 @@ t.me/MatinSenPaii</div>
 
 <div class="tg-post" id="msg-5096">
 <div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/H5r05pTOehD7TRqY5N7Xplj3sXVgeVLPw6BY2zLYmVGuY6LRnNKBFfd0q_AHJ3AQ3bc6WFKwnIe8vRYfWGW4ONP-Gs98st9Od-fXD5h_RUxdrZMrY6zopOnu4X7BDslnCzt7phUOdIGgij29LvX5fOwpa6resz1pZohxcgIeCoPuo_DFgo5nrpZSD5a_CgqUOgwYDzHjaT37L8Fww1JuIdLyFyno_hHhq9SV3goCX8Ya7ZX6xRhcL4F5QwRv39GU31WMr3La9EHSLrDKF8lDI0WU0xIbuCIm1jXzRvoeQ0wqgR17iDiCXD21L08VEFZprpjyp8QTrYtWAMUY7Vlnfw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/O0QgZUPqPNIpQUd6S1U-NvcFvoRhAxGYx3_uogCnO9uDynTnYtGvn91jWQYmUgPDQDw7XD0pw28aI9ZfMxeY7LETLT55eqBQHx3f1k757KzY5Xq0HkTf1BnvOrT6Agw1AL6JW-q2BpyEhPqAV0mjNllbO7YiHjTCtIQl3tOAJzuzS2wFNz_GnDbucfYS6my8rivJQR_u7CCz85WygqBZsVMfWh36f7hkZFhNjlCWgiTPZAT71cJHgC4KzrovKklQ4jvtUzmUWDysi8FptdRsjwQBBZlWOW_M0D8UL0uFmAUiVP73yG3QXOiCniI0ri-51MgO6azBNhwoQR7dxQr4og.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">در مورد پرداخت توی بازی‌ها</div>
 <div class="tg-footer">👁️ 35.5K · <a href="https://t.me/MatinSenPaii/5096" target="_blank">📅 23:16 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5095">
 <div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/ekHCtAPbOFzK5748bMsra0YtPYjo_QEaftNPUwWxLWKVgiYN1Yu5pmOc15lwWrGXRil35yaNsN2kZPcxBAhDWKHx6ESXOTUkeuJnqFQP7NnLFyvynJimMl4_orA9ZERebY_2hYaeyC5UM_3bx95niIk-R_GTsYt0y2A-l7e-WMAVHtfZZaEI3JUs_U-vLHTXtVV7dDAxpq9SRUh1SD-e73dFxRmP4Sajsa5GaF7A7nBqnAuCtIzdJTR5Yd0yITL2jJ0ePlQTdeRC1q8JkZPl8Rw_IXRKBX8RBLq6ssjqFdsonbffKE_wfH8VbQvDgh_FlBG3JR3Uo1LtU3LnfZwUyA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/UfCMRKwQHEQUaNEbX7-Zl48Um5IH29POY2Gb_L25k607f3n05WB_jOKV2316oWPl2SlmhPE1zi0OAeIME2e1rRksbaxdu-mtxmxBCec1l6hDX3Er9ZPfkpLejES0XghM-YQSYBnErRmxG5iGELDNdQAcmyzVfNbst6uZnGjQ4G-uubvlnkaIUYQPkfJgc9Z-Rpq1RpQG5tGkPY2p4BxM77119DjI5yDjt38xJRydghUYSe3mifxmTbNVy3MwoidHpLeGxlvcGidqZCcHk3KmHOc6lEOgPfH3bF8VtxmydNA31eB3mvoQ8BeUP7ofwSbuO3tqrOigd1-ndAS6iGnnfA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">تنها بدی‌ای که صرافی سواپ ولت داشت این بود که اسمشو هی با این تپ سواپ که دوره‌ی همستر و اینا بود اشتباه میگرفتم ده بار مجبور شدم کات بزنم
 😂</div>
 <div class="tg-footer">👁️ 35.2K · <a href="https://t.me/MatinSenPaii/5095" target="_blank">📅 23:15 · 07 Shahrivar 1405</a></div>
@@ -1300,12 +1300,12 @@ https://pay.google.com
 جواب2: خیلی راحت سرچ کنید Fake America Address و اطلاعات فیک وارد کنید اما سعی کنید همه جا همون رو وارد کنید. حتی یه جا از من کد مالیاتی و اینا خواست من الکی یه کد 8-9 رقمی زدم و گیر نداد دیگه.
 سؤال3: کجاها نمیتونم پرداخت کنم؟
 جواب3: ببینید یه سری سایت‌ها احراز هویت با Passport و... میخوان. مثل اکثر سایت‌هایی که کریپتو میفروشن با Debit card و اینها. فقط توی اونها من نتونستم پرداخت کنم. تا الان هرچیزی که خواستم رو گرفتم. که اکثرش هم توی همون گوگل پلی بوده</div>
-<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/MatinSenPaii/5092" target="_blank">📅 22:54 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 33.8K · <a href="https://t.me/MatinSenPaii/5092" target="_blank">📅 22:54 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5091">
 <div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/LyVpJm2dP1qQ94Nl7qaGZBZDDkLHryMIbYUaig6IN7N_s8wFj33Ujh404rz97LXFRpXBf9i6mF9JfwOsdutuKpnqbxPAO_ZV2d8yGP-EuThODkB6TUeko500PY33n1ogllFwtC2S-byMqWovO3_hg8EsoCIyFbcLS8N8Q0kvrjHsRj8u8uccIwoxgBVhI0vqHnquH4Peet6ZhRYGgocoVnv5ZFon-2gPsvORMJTiKR6ysjYKa7VFzVNn6SFjHdRiluLlUbQ-ENrQ-EFHi4nmwCFPOycM7xeiI0ZhxY00RSBOJr2oh5rnf7mqmCHZo0EdV5Lhjr-BTp4uTb66Eg3QGw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/pYhjpsvi_Cok4_DhriyoKDUggHVyMI9rlPHPMBdZ9JNuOSRbT8yaLjxuQXcqj-qt43jFFmka-ib9RlzEbo0t9KVB-UAU8jyHqpzwKUF4tjREg--HM74bLvbbMlWU7shBSYFgzbW5-Pb31bcKzDWdBuIpQjktKrVZWa6XyGdod01XxAPjEedyG3neFe7mzWOtiVAPdyeOBVABuRDCrTVsHLLQ_rpZ7wFDRHp8BwqFtMVHFuPRD66RnLW_k5ljbN7kJMskhhpDRCMFFJTf1e79s8lqYugj5krwFXonvSc0RwAvQmp_y8Sm0GTCQey29b6J9SA7jI3dE2ViFNqupF5uPQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">☠️
 خرید اشتراک‌های دلاری با Visa کارت شخصی و کریپتو
 ⚡️
@@ -1326,12 +1326,12 @@ https://t.me/MatinSenPaii/5092
 6- اشتراک Command Code رو هم با همدیگه با همین کارت میخریم توی ویدئو
 📹
 تماشا در یوتوب</div>
-<div class="tg-footer">👁️ 39.4K · <a href="https://t.me/MatinSenPaii/5091" target="_blank">📅 22:54 · 07 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 39.5K · <a href="https://t.me/MatinSenPaii/5091" target="_blank">📅 22:54 · 07 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-5090">
 <div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/gWhxqvl7NzWoG28HFXVwb6g0rtlg0hQ-2Sv_zFU8I25kuWMGIrGkK-ypTg_C0Hl85zAh8a5vPEnfSLldKeOdApQKhj0osWcWERy9gOleIhbFoiIi39MZPlCxM5bD5aNCsrZUE6lOUdIsPQX5ea5lBGJJwmfCZKa8lGFnGoBRH54gxkUuK4iLol61-P97SiowHmv9VLzu5Po0QI5XucwA99iuStsa7HUVZVxM3eTvETEfrxQQRgnBR17ngOyWizenoQ759cG9fhTtNzQfj8B0clHShGBU3UDjj-322-X4xODjko7UxorZI6hpSkJiwlVPA8DvTX3gIfvcd2yLQV5A7Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/KtclV6UUcFU3ZNlYnm9QyPvjZD3OK6sYEjihrFoMYliSRpfgGXBWOsYyHGtxCkeBIK_w1B1NMYDaeN60k-ZLk9sa364XiTNIVuvWdbFjFwfrcklwmqwCigL92-GAn3n9Y5oQXP65ecqdIYP11O6wFbaZ-eGA8o7omrpd8tSYXo5toVh-cG8ffj0yh2NY5oQVUFzuXU-m-MpqyXxrnCgaeuh8GOuzjyPgcyDbD6axVuZk6Fu2wj6iDFeRNorkkgqYLPimYvaqWrAof_iNikU9wrryyVOU_WwDOScxePW3nGtV0e-GiTNBhFkuN9CJgo3EKVnnu3doZmQ07ekMRSg-yg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">گویا کلاد هم داره محدودیت مصرف رو افزایش میده به صورت کلی که خبر خوبیه یه میم الان میسازم بهتون نشون میدم منظورم چیه</div>
 <div class="tg-footer">👁️ 33.9K · <a href="https://t.me/MatinSenPaii/5090" target="_blank">📅 22:26 · 07 Shahrivar 1405</a></div>
 </div>
