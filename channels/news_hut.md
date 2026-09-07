@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-16 04:01:21</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-16 08:58:46</div>
 <hr>
 
 <div class="tg-post" id="msg-71220">
@@ -312,7 +312,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 6.27K · <a href="https://t.me/news_hut/71220" target="_blank">📅 00:40 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.4K · <a href="https://t.me/news_hut/71220" target="_blank">📅 00:40 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71219">
@@ -341,7 +341,7 @@ TrexBet
 سرعت بالا، طراحی حرفه ای و تجربه ای متفاوت
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 6.39K · <a href="https://t.me/news_hut/71219" target="_blank">📅 00:40 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 10.5K · <a href="https://t.me/news_hut/71219" target="_blank">📅 00:40 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71214">
@@ -361,7 +361,7 @@ T.me/TrexBet_Ir</div>
 ۴_صادرات نفت ایران به شدت در حال سقوط است.
 ۵_ حجم‌های نفت هرمز به سطح قبلی بازگشته‌اند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 8.31K · <a href="https://t.me/news_hut/71214" target="_blank">📅 00:28 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 12.1K · <a href="https://t.me/news_hut/71214" target="_blank">📅 00:28 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71210">
@@ -373,7 +373,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">تصاویری که ترامپ در تروث سوشال منتشر کرده
 😟
 @News_Hut</div>
-<div class="tg-footer">👁️ 10.1K · <a href="https://t.me/news_hut/71210" target="_blank">📅 00:09 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.4K · <a href="https://t.me/news_hut/71210" target="_blank">📅 00:09 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71209">
@@ -388,7 +388,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">❌
 دو عدد سیب زمینی 100 هزار تومان؛ اینکه قیمت یه دونه سیب زمینی بزرگ‌ به ۵۰ هزار تومن رسیده‌؛ یعنی فاجعه اقتصادی.
 @News_Hut</div>
-<div class="tg-footer">👁️ 12.5K · <a href="https://t.me/news_hut/71209" target="_blank">📅 23:33 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 15.3K · <a href="https://t.me/news_hut/71209" target="_blank">📅 23:33 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71208">
@@ -404,7 +404,7 @@ T.me/TrexBet_Ir</div>
 سعید لیلاز، اقتصاددان و کارشناس اقتصادی:
 «کشور با تذبذب و دودلی، مس‌مس کردن و فس‌فس کردن  اداره نمی‌شود و حکومت باید تصمیم‌های قاطع بگیرد.»
 @News_Hut</div>
-<div class="tg-footer">👁️ 14.5K · <a href="https://t.me/news_hut/71208" target="_blank">📅 22:51 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.5K · <a href="https://t.me/news_hut/71208" target="_blank">📅 22:51 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71207">
@@ -414,7 +414,7 @@ T.me/TrexBet_Ir</div>
 😟
 😟
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.9K · <a href="https://t.me/news_hut/71207" target="_blank">📅 22:10 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/71207" target="_blank">📅 22:10 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71206">
@@ -432,7 +432,7 @@ T.me/TrexBet_Ir</div>
 بگذارید این را به روشنی دریابد: اینجا بیروت است، نه تهران؛
 اینجا پایتختی عربی و آزاد است و هرگز به پایتختی فارسی بدل نخواهد شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/71206" target="_blank">📅 21:34 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/71206" target="_blank">📅 21:34 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71205">
@@ -443,7 +443,7 @@ T.me/TrexBet_Ir</div>
 ؛ نرخ سوم بنزین تغییر کرد
 سخنگوی دولت: نرخ کارت جایگاه سوخت از بامداد سه‌شنبه به ۱۰ هزار تومان افزایش خواهد یافت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/71205" target="_blank">📅 21:13 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/71205" target="_blank">📅 21:13 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71201">
@@ -464,7 +464,7 @@ T.me/TrexBet_Ir</div>
 🇱🇧
 حملات شبانه جنگنده های اسرائیلی به ارتفاعات علی الطاهر و نبطیه الفوقا در جنوب لبنان
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/71201" target="_blank">📅 20:54 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/71201" target="_blank">📅 20:54 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71200">
@@ -479,7 +479,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🇮🇷
 زاکانی:از وصیت‌نامه علی خامنه‌ای خبری نیست، احتمالا در بمباران از بین رفته.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/71200" target="_blank">📅 20:15 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/71200" target="_blank">📅 20:15 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71199">
@@ -496,14 +496,14 @@ T.me/TrexBet_Ir</div>
 بلاتکلیفی بیش از یک‌هفته‌ای صدها راننده ترانزیت ایرانی در نقطه صفر مرزی پاکستان
 این سنگین‌سواران ١۴ شهریور در ویدیویی گفتند که بی آب، غذا و امکانات بهداشتی به حال خود رها شده‌اند. با اتمام سوخت یخچال‌ها، بارهای فاسدشدنی در آستانه نابودی است و گمرک هیچ‌یک از دو کشور پاسخگو نیست
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/71199" target="_blank">📅 19:32 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/71199" target="_blank">📅 19:32 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71198">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">بیناموسا مگه نگفتین از امروز برق نمی‌ره؟ رفت که
 #hjAly‌</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/71198" target="_blank">📅 19:06 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/71198" target="_blank">📅 19:06 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71197">
@@ -523,7 +523,7 @@ T.me/TrexBet_Ir</div>
 این رژیم ضعیف است، برای بقای خود می‌جنگد، متزلزل شده است و هنوز مأموریتی ناتمام باقی مانده که ما مصمم به انجام آن هستیم.
 این امر در نهایت چهره خاورمیانه و مسیر تاریخ را تغییر خواهد داد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/71197" target="_blank">📅 19:00 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/71197" target="_blank">📅 19:00 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71196">
@@ -539,16 +539,16 @@ T.me/TrexBet_Ir</div>
 اوه. طرح نقطه‌ای فدرال رزرو قرمز چشمک می‌زند
 😁
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/71196" target="_blank">📅 18:55 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/71196" target="_blank">📅 18:55 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71195">
 <div class="tg-post-header">📌 پیام #85</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/CeAiQ91AkS-kG5UIlzucjcy-xadSCd4Bt97hods_8JivyUdsWx7t_okrKn_PFOiUMtxvU3OMBOr0xeoWE7KrkzT4ylH-paSvUwKiC9oeYblW-gSFyZgR1a8WFQoL6bT6jmkkshb4nis3tewriuLP3iFDPFs4PW4YMTZSc4LkOkcPuu5GTUoUupDMDkRlOo6_ISqolGTqUJBqTgZ2z2A2m-H7NJN1Wk6WA-h-dXIuBJj1ELqbDWKpnu35pvmpPPt7h7QgEwhiNUqkwjnV31NFzoh8G7KeOaSgp8hbLGMXLce4_iMcaEIN7In0KcScEw2wuvQkbgbMBqaLRr55WpAgNQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hensaTYEqShBYACGNK9bo5CVRgCUIwQBY5dOcwoMvh3WIQat91XJh9xH_-POnkM95R-CyuJMs8sdQDFQLRt54dHvSbkxmgQb9K9Rzwl8kvOlMc3UR3o0SBc1reGTSHd9Hh4v0uitpwm0fk6KDrhZe-weS86vV24zhusbU23OJq-Ab8CbqXwq-Jf7LIcQf80Y2MY06gZ4pP3E_VEcczcry40QH8nohVYigQ-1hCOyZiBeDT3WpN2VKaXZ23BFLcZ2gSLxpdAbt1S6ChRv_2wAvNfYj0EzMYeuWCyrYp0_FG_QGnesy7uiWTuwjFuyiPkCr4DdGJSkqcu5OJkLgXRCJA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🇺🇸
 گویا املاکی موهاشو رنگ کرده
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.7K · <a href="https://t.me/news_hut/71195" target="_blank">📅 18:41 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/71195" target="_blank">📅 18:41 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71193">
@@ -556,15 +556,15 @@ T.me/TrexBet_Ir</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/NbDx5bgKnUZ3ub3MqzE7Py9q2pRAKpkJu5usPjHdqz8jrcsylTfB_zMvuOnZ6pxeuExtz9ZyZ9CdNluW8Z4YeCZ_MlUXYXKET7vs_M-JJ_MGV8YHQXZ2TN2XjUKSpxdjbi_dVkPLbu7bB-LMlv5yHsGVZSCsNAzdHHlXnbrNRVIwH5tzCtdwwUs9pxcBIQKZvWGvuTGa0jtOp4oQJsM118cOlPI_UtKYwuf_6r81GCwzzi5L_1qSM7xgvSISERiOdoMwPgva4VnoD2zHutw-1f1THtNuc4Q7kuklh8Hn8bfih2sF_QNc9FgpQX6HbaAiCYvtrR_uWxlPRmK_PguG3A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/385d0bbd1a.mp4?token=v-IyJHVCQD-XDOBcYutAPCC6m5R1CNeaQowWz8HnfbzDnJCFSU8ptHpaX9yAMhqf3VHJTSmITdH_sgCfybWI5m5B-WD0z6GITvHntXqwGO8dQ2VCen-7OkzAmxZD87zyt127p7NT56ygouEo2uCJbktrnsByu2AZKnNR2i4aoeR1KPZKqE9fvG2YH3Q_FobJejE4IsNBiDW0eQhgTeKXxbYnklKUBAbeGhSA9U31yYVihu3GI7TlQ9_d7wfuAdky5j6SYI8l0DuBGzu8_HSdVX87M8EpXa2p_0rLxB7cQL776cwxC5823sSv5KMW4_F0m7t18PRGPDjgQD9KfGJaKg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/385d0bbd1a.mp4?token=KJSkWwcJX-dLigCvCeCSsnKMtOrjPlNp-aN_jJrh8hFffBtF5D4mHYugxcoPmS8k6q2HAzLKrX28rYNPGum4u2swq9C2nhSKW1UqEzDyyBGFpV1I5HyxCStevlqaedaCUwuYEyRQK8Uh1aUQGj3OQ1pKldNDdlHQLA_xn-Ws5DWQ5bFnhK42fn_za2_h45VVz95V9Pzf1m37xbDNo3oI6zfR-hyx9nFj5y6Uth6_7DTRg2vaUjN2_HDHND89xoyUlUtjajDJKrABRZGd1SC1Wt0sEHJdssXqLaPzpSdhiHl-oRmAkURNUIoOEEEAemEApuZKbOHnRkddyUUFQ9kqHQ" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/385d0bbd1a.mp4?token=v-IyJHVCQD-XDOBcYutAPCC6m5R1CNeaQowWz8HnfbzDnJCFSU8ptHpaX9yAMhqf3VHJTSmITdH_sgCfybWI5m5B-WD0z6GITvHntXqwGO8dQ2VCen-7OkzAmxZD87zyt127p7NT56ygouEo2uCJbktrnsByu2AZKnNR2i4aoeR1KPZKqE9fvG2YH3Q_FobJejE4IsNBiDW0eQhgTeKXxbYnklKUBAbeGhSA9U31yYVihu3GI7TlQ9_d7wfuAdky5j6SYI8l0DuBGzu8_HSdVX87M8EpXa2p_0rLxB7cQL776cwxC5823sSv5KMW4_F0m7t18PRGPDjgQD9KfGJaKg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/385d0bbd1a.mp4?token=KJSkWwcJX-dLigCvCeCSsnKMtOrjPlNp-aN_jJrh8hFffBtF5D4mHYugxcoPmS8k6q2HAzLKrX28rYNPGum4u2swq9C2nhSKW1UqEzDyyBGFpV1I5HyxCStevlqaedaCUwuYEyRQK8Uh1aUQGj3OQ1pKldNDdlHQLA_xn-Ws5DWQ5bFnhK42fn_za2_h45VVz95V9Pzf1m37xbDNo3oI6zfR-hyx9nFj5y6Uth6_7DTRg2vaUjN2_HDHND89xoyUlUtjajDJKrABRZGd1SC1Wt0sEHJdssXqLaPzpSdhiHl-oRmAkURNUIoOEEEAemEApuZKbOHnRkddyUUFQ9kqHQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">📱
 تو همه جای جهان هوش مصنوعی داره جای آدما رو میگیره ولی تو ایران برعکسه
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/71193" target="_blank">📅 18:13 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/71193" target="_blank">📅 18:13 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71192">
@@ -581,7 +581,7 @@ T.me/TrexBet_Ir</div>
 😐
 😐
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/71192" target="_blank">📅 17:34 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/71192" target="_blank">📅 17:34 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71191">
@@ -597,7 +597,7 @@ T.me/TrexBet_Ir</div>
 🇺🇸
 وضعیت دخترای حشری تایلندی بعد دیدن پرسنل ناو هواپیمابر آبراهام لینکلن در پاتایا برای تعطیلات!
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/71191" target="_blank">📅 17:02 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/71191" target="_blank">📅 17:02 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71190">
@@ -613,7 +613,7 @@ T.me/TrexBet_Ir</div>
 راننده ای که چند شب پیش در مشهد طرفداران حکومت رو زیر گرفت:
 عمدی نبود تعادل نداشتم به یکی برخورد کردم تشنج کردم جای ترمز گاز دادم و یهویی زیر گرفتم
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/71190" target="_blank">📅 16:51 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/71190" target="_blank">📅 16:51 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71189">
@@ -633,7 +633,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/71189" target="_blank">📅 16:51 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.5K · <a href="https://t.me/news_hut/71189" target="_blank">📅 16:51 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71188">
@@ -666,7 +666,7 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/71188" target="_blank">📅 16:51 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/71188" target="_blank">📅 16:51 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71187">
@@ -679,7 +679,7 @@ T.me/TrexBet_Ir</div>
 دوره پنج‌ساله مسئولیت او دست‌کم تا سال ۲۰۳۰ ادامه خواهد داشت.
 او با دریافت درجه «فیلد مارشال»، این درجه و مصونیت قانونی را مادام‌العمر حفظ خواهد کرد و برکناری‌اش مستلزم کسب رأی دو‌سوم نمایندگان پارلمان است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/71187" target="_blank">📅 16:30 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/71187" target="_blank">📅 16:30 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71186">
@@ -694,7 +694,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">‼️
 فیلم وایرال شده از ی دختر ایرانی که با یه پسر مکزیکی با هم وارد رابطه میشن و بعد از ۴ سال بالاخره به هم میرسن و باهم ازدواج میکنن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/71186" target="_blank">📅 16:01 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/71186" target="_blank">📅 16:01 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71185">
@@ -707,7 +707,7 @@ T.me/TrexBet_Ir</div>
 علی الاصول یادت رفت
 علی الطاهر هوا رفت
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/71185" target="_blank">📅 15:30 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/71185" target="_blank">📅 15:30 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71184">
@@ -722,7 +722,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">‼️
 این ویدیو درباره یکی از جنبه‌های سختی مرد بودن در حال وایرال شدنه:
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/71184" target="_blank">📅 15:05 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/71184" target="_blank">📅 15:05 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71183">
@@ -743,7 +743,7 @@ T.me/TrexBet_Ir</div>
 گفته یه میلیون خودرو هرکدوم روزی بیست لیتر مصرف می‌کنن یه میلیون ضربدر بیست لیتر می‌شه بیست میلیون لیتر مسئله بنزین حل می‌شه
 🧠
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/71183" target="_blank">📅 14:32 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/71183" target="_blank">📅 14:32 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71181">
@@ -760,7 +760,7 @@ T.me/TrexBet_Ir</div>
 ناو هواپیمابر «یو‌اس‌اس آبراهام لینکلن» (CVN-72) اسکله C-0 در بندر «لائم چابانگ» واقع در استان چونبوری تایلند را ترک کرد و مسیر خود را در عرض اقیانوس آرام به سوی پایگاه اصلی‌اش در سن‌دیگو در پیش گرفت.
 خروج این ناو در صبح روز ۶ سپتامبر، به توقفِ حدوداً چهارروزه‌ای که از ۲ سپتامبر آغاز شده بود پایان داد و مرحله بعدیِ مسیر بازگشت آن به ایالات متحده را رقم زد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/71181" target="_blank">📅 13:54 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/71181" target="_blank">📅 13:54 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71180">
@@ -775,7 +775,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">❌
 توی ایتا و روبیکا، ناو جرالد فورد رو بمبارون و غرق کردن
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.3K · <a href="https://t.me/news_hut/71180" target="_blank">📅 13:53 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/71180" target="_blank">📅 13:53 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71179">
@@ -795,12 +795,12 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/71179" target="_blank">📅 13:52 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/71179" target="_blank">📅 13:52 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71178">
 <div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ekpZnXO9BBpWJ-spqLoixB2JhPrs2I7Zxh-YD5egen6BPr2ssXo4EOUSLL_2nGbUSi9Ex9psSukD8uxlXHT_AUl5yAaTycZm1zMAFTAI7gwzist9JmPA5KqDYAB-2NiWQYk2_FeUwkjLyL3pvbvq9mC028qymnXIrwW3q853fSeCisj6zF3JYzyOIc5G4hs_OlN9QvKK6UXv2C5lgINw00MiiTC_8QytBbJPrTxmxuNOxjppaVPw4GRz84QsLcs_xpAQkxGtpivkTlj7ksHtbIbv6vMY3PEw_TFZAt2nLref7dXK4JlD-pZpqoJZag9BoMrQbKmyIyUzbD1uZl8T5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/LAqV7O73hxiwA6uETAiAHSEdTZ74FNtKjaJIWVYNbh-H-fWc7yAKbT1m2WnTS4IRw83F4h-GVbYnnkzSm_u7z_qzrpuOwQlKqGFsbtCnuokSVWA2c4IysNyRPE91VXKMxZvdIywd4gpfgofQYp7dnWlRgmxb15NJ_croS2TwpOabKgr6ouXLWtbWiu66cLsfYVAvqmq6Mxdte-Me3IyDwpqryGXWQ4KaWYSFK8aGIYbSxch4KxHQ8CETrxeKfAjKnOgde6Mn5pS0Nif4i4TRb8pJ03Ou2HhlSUGxxOAjmaUR0ZXzGjKGGjdSN6GxFkvmpRK3p_bwJix4XIbGpun86g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🦖
 مچ‌های مهم امروز در سایت بین‌المللی
 TrexBet
@@ -835,7 +835,7 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/71178" target="_blank">📅 13:52 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/71178" target="_blank">📅 13:52 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71177">
@@ -850,7 +850,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">〰️
 سنتکام ویدئو غرق شدن نفتکش ایرانی در دریای عمان را منتشر کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/71177" target="_blank">📅 13:12 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/71177" target="_blank">📅 13:12 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71176">
@@ -863,7 +863,7 @@ T.me/TrexBet_Ir</div>
 قواعد بازی تغییر کرده است.
 از این پس، هرگونه تجاوز به منافع ایران، پاسخی سریع‌تر، سنگین‌تر و دردناک‌تر در پی خواهد داشت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/71176" target="_blank">📅 12:44 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/71176" target="_blank">📅 12:44 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71175">
@@ -878,7 +878,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🇮🇷
 قالیباف:بستن تنگه هرمز به ضرر ایران شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/71175" target="_blank">📅 12:01 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/71175" target="_blank">📅 12:01 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71174">
@@ -894,7 +894,7 @@ T.me/TrexBet_Ir</div>
 ویدیویی که در توییتر فارسی به شدت در حال وایرال شدنه
 😃
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/71174" target="_blank">📅 11:31 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/71174" target="_blank">📅 11:31 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71173">
@@ -909,7 +909,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">‼️
 به گفته آقای دکتر اگه می‌خوای سرطان پروستات نگیری، باید ماهی ۲۱ بار سکس کنی...!
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/71173" target="_blank">📅 11:02 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/71173" target="_blank">📅 11:02 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71172">
@@ -928,7 +928,7 @@ T.me/TrexBet_Ir</div>
 فعلا این قرارداد واسه اجرای کنسرت های مختلف تو ترکیه‌ست
 رئیس کمپانی میگه که این تازه اول راهه و قراره بزودی تو سراسر جهان کنسرت برگزار کنیم...
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/71172" target="_blank">📅 10:31 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/71172" target="_blank">📅 10:31 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71171">
@@ -945,7 +945,7 @@ T.me/TrexBet_Ir</div>
 خبرنگار جمهوری اسلامی در لبنان:
 اعضای سپاه پاسداران در تپه‌های علی‌الطاهر، به دلیل محاصره اسرائیل، در شرایط عاشورایی قرار دارن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.2K · <a href="https://t.me/news_hut/71171" target="_blank">📅 10:04 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/71171" target="_blank">📅 10:04 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71170">
@@ -962,7 +962,7 @@ T.me/TrexBet_Ir</div>
 هرکسی رضا پهلوی رو مورد انتقادهای عجیب غریب قرار میده و میزنتش یه سرش وصل میشه به جمهوری اسلامی
 اینا جوگیر شدن چهارتا شعار دادن و حرف زدن بعد دیدن اینجا خبری از سهم دهی به کسی نیست مسیرشون رو عوض کردن
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/71170" target="_blank">📅 09:33 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/71170" target="_blank">📅 09:33 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71169">
@@ -982,7 +982,7 @@ T.me/TrexBet_Ir</div>
 ۱۹۸ نفر افسر نیروی هوایی
 ۴۶۲ سرباز و ۴۲۳ نیروی ذخیره ارتش اسرائیل کشته شدند
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/news_hut/71169" target="_blank">📅 09:01 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/news_hut/71169" target="_blank">📅 09:01 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71168">
@@ -992,7 +992,7 @@ T.me/TrexBet_Ir</div>
 🇮🇷
 سپاه پاسداران انقلاب اسلامی ساعاتی قبل در بیانیه ای مدعی حمله به یک ناو هواپیمابر و یک ناوشکن آمریکایی شد و اعلام کرد که پس از این حمله اونا خسارت دیدن، ترسیدن و از منطقه فرار کردن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/71168" target="_blank">📅 08:02 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/news_hut/71168" target="_blank">📅 08:02 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71167">
@@ -1012,7 +1012,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/news_hut/71167" target="_blank">📅 01:34 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23K · <a href="https://t.me/news_hut/71167" target="_blank">📅 01:34 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71166">
@@ -1039,7 +1039,7 @@ US Open
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/71166" target="_blank">📅 01:34 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/news_hut/71166" target="_blank">📅 01:34 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71165">
@@ -1061,7 +1061,7 @@ T.me/TrexBet_Ir</div>
 😳
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 24K · <a href="https://t.me/news_hut/71165" target="_blank">📅 01:04 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/news_hut/71165" target="_blank">📅 01:04 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71163">
@@ -1076,7 +1076,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🇮🇷
 سپاه پاسداران تصاویری از «رصد و رهگیری شناورهای متخلف» در تنگه هرمز منتشر کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.3K · <a href="https://t.me/news_hut/71163" target="_blank">📅 00:38 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/news_hut/71163" target="_blank">📅 00:38 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71162">
@@ -1091,7 +1091,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🇬🇷
 یک فروند جنگنده F-4 فانتوم نیروی هوایی یونان در جریان رویداد «هفته پرواز آتن» در پایگاه هوایی تاناگرا سقوط کرد و دو خلبان این جنگنده کشته شدند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/news_hut/71162" target="_blank">📅 00:14 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.2K · <a href="https://t.me/news_hut/71162" target="_blank">📅 00:14 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71161">
@@ -1111,32 +1111,32 @@ T.me/TrexBet_Ir</div>
 سود شما چند برابر شده.
 مردم از گرونیا دارن سود میکنن، مردم باید دیدگاهشون از آدمای متوسط جامعه تغییر بدن و بگن هر چی گرون میشه خب ما هم سودمونو داریم میبریم
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/news_hut/71161" target="_blank">📅 23:32 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/71161" target="_blank">📅 23:32 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71160">
 <div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/d2d7d2ec60.mp4?token=bD3ZsTh2uhMrprD1H7Udgbl7Qk81eJgHlX6fw0CGIUt2JvqDPXeqWnXh6_OUuLMQ-4UtQtvwymJ0ma6epzryhswr3_nrFu811oaXvxVl4zJa0aCrMEfM5AMB2DT7tmlxnH0fpR9DyQ9HUVZn10yPOcf6vJTihUczU5uZQ5e4_TN0tc0OmKniKme6Sj4VnMANGwcd9t9U2Ff1YNcqf7j84Hrq2UkC3zgORlasqg6TZ-bx5uRk6Ahqqx79BmxvE26q5IlMRDkKoA6fI58oXTBNAbUwCxlN1cBBQqwRUo2inp2mFPNVLmqe5zC2WwpcVpo1S746ABSm58JkheEVkGVnHw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/d2d7d2ec60.mp4?token=NbvBgr-RfoDm_sGBxYTCCmzkJ-AY9YDP936lxTopI-6UuRJmW6Pn48qRogrpys_wDtkS2YKuVt-cWkKwKBEvKJAr-wrrxCmNepU5Lm_4WwM28z_NgCb5Nn-p8HcNf8Rb3KXH_MQZKeFawu9XUIfEISV-x-4odKvmu2bx0oEs0Dzddp4sfvKzC2VihehlNeBdKoIUb7AAXbPqXIqs3hQApjJvJwWxSdstlBzf8vJ-8HFraaInK5QBpX7oStAJW2hsCVxgMmQwzvvJ-ta_gDZOEykhieQvsfrEPt_u_tv585ffp9l-JP0bavklKGJH0T4jmb6qdkkPlOADe2hGcVer0g" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/d2d7d2ec60.mp4?token=bD3ZsTh2uhMrprD1H7Udgbl7Qk81eJgHlX6fw0CGIUt2JvqDPXeqWnXh6_OUuLMQ-4UtQtvwymJ0ma6epzryhswr3_nrFu811oaXvxVl4zJa0aCrMEfM5AMB2DT7tmlxnH0fpR9DyQ9HUVZn10yPOcf6vJTihUczU5uZQ5e4_TN0tc0OmKniKme6Sj4VnMANGwcd9t9U2Ff1YNcqf7j84Hrq2UkC3zgORlasqg6TZ-bx5uRk6Ahqqx79BmxvE26q5IlMRDkKoA6fI58oXTBNAbUwCxlN1cBBQqwRUo2inp2mFPNVLmqe5zC2WwpcVpo1S746ABSm58JkheEVkGVnHw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/d2d7d2ec60.mp4?token=NbvBgr-RfoDm_sGBxYTCCmzkJ-AY9YDP936lxTopI-6UuRJmW6Pn48qRogrpys_wDtkS2YKuVt-cWkKwKBEvKJAr-wrrxCmNepU5Lm_4WwM28z_NgCb5Nn-p8HcNf8Rb3KXH_MQZKeFawu9XUIfEISV-x-4odKvmu2bx0oEs0Dzddp4sfvKzC2VihehlNeBdKoIUb7AAXbPqXIqs3hQApjJvJwWxSdstlBzf8vJ-8HFraaInK5QBpX7oStAJW2hsCVxgMmQwzvvJ-ta_gDZOEykhieQvsfrEPt_u_tv585ffp9l-JP0bavklKGJH0T4jmb6qdkkPlOADe2hGcVer0g" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">یه جانفدای رندوم و حرکات جالبش
 😃
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.4K · <a href="https://t.me/news_hut/71160" target="_blank">📅 22:54 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/71160" target="_blank">📅 22:54 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71159">
 <div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/66b1ca1096.mp4?token=FeH3wbkGWwW9Cj-7Dzj5WO6A8iL-vgZSJTk6NnaNhNwUNaozOGIe6oQYqOkbRBLX7xgLiqHI6JM6Jh3QO7gX7bj3DmA6jarbgkqf-yfMGCzj5LLdb33MRIcB5hIhBKecBkpzpmCCjdNzwJOFJxUapDTZyAM03dMbyM4oxcqP8FoiBeNX4OzEY5-GG1KAOdjh1ieHi3Mygsi26vDBBY604fogF-i8wt4yRzOthgu_r8YjXcn4ixxC5NrXdECL8fxUWhagNm4KOgvZy9JWudNePYP8c2LMvN1CEmMZY1UFKg9vwLu9L0GHFQJ9B7IUPwSAFYWMpwQ9zqTONYTEad5M4A" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/66b1ca1096.mp4?token=sAManY8abpIidBQyMDTtaV7fOxdFKXn3lYFhKTQgrIwEbdIMUWdeKAXix0XpN6T7vMGXKxIcbYKIB8y1_rrY5p7P5sLcQsVZNc4M00pNtoMQmSlg6gTE4inr9OJvQbq8GVo8OitY-S_Adjo0iBERWMoiHqngZrCAW_qxKPsJqJU3Tp9UicDNL85jjKGXkEyGn5xWBxDOvqznrJYsxqLK_QHddrD0N0CNiEKeAGG-YfziRt0cuiqkaWdpXWf79T-SomSQMGNAubTVvqhrouQa5WWK5aczhDqRUCT14PRNZqIjsqD1YIoUvoS26i6cbSGLbIRfeTIoFUCkEfVd7_WBoA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/66b1ca1096.mp4?token=FeH3wbkGWwW9Cj-7Dzj5WO6A8iL-vgZSJTk6NnaNhNwUNaozOGIe6oQYqOkbRBLX7xgLiqHI6JM6Jh3QO7gX7bj3DmA6jarbgkqf-yfMGCzj5LLdb33MRIcB5hIhBKecBkpzpmCCjdNzwJOFJxUapDTZyAM03dMbyM4oxcqP8FoiBeNX4OzEY5-GG1KAOdjh1ieHi3Mygsi26vDBBY604fogF-i8wt4yRzOthgu_r8YjXcn4ixxC5NrXdECL8fxUWhagNm4KOgvZy9JWudNePYP8c2LMvN1CEmMZY1UFKg9vwLu9L0GHFQJ9B7IUPwSAFYWMpwQ9zqTONYTEad5M4A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/66b1ca1096.mp4?token=sAManY8abpIidBQyMDTtaV7fOxdFKXn3lYFhKTQgrIwEbdIMUWdeKAXix0XpN6T7vMGXKxIcbYKIB8y1_rrY5p7P5sLcQsVZNc4M00pNtoMQmSlg6gTE4inr9OJvQbq8GVo8OitY-S_Adjo0iBERWMoiHqngZrCAW_qxKPsJqJU3Tp9UicDNL85jjKGXkEyGn5xWBxDOvqznrJYsxqLK_QHddrD0N0CNiEKeAGG-YfziRt0cuiqkaWdpXWf79T-SomSQMGNAubTVvqhrouQa5WWK5aczhDqRUCT14PRNZqIjsqD1YIoUvoS26i6cbSGLbIRfeTIoFUCkEfVd7_WBoA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">ساعاتی پیش تو مسیر پلیس‌راه همدان ـ سنندج، یه ماشین سنگین گویا ترمز می‌بره و مستقیم با یه دستگاه تانکر حامل سوخت برخورد می‌کنه و یه انفجار وحشتناک رخ میده!
 متاسفانه تا الان 7  جونشون رو از دست دادن...
@@ -1158,7 +1158,7 @@ T.me/TrexBet_Ir</div>
 دیگر قطعی برق برنامه‌ریزی‌شده نداریم
 اگر مردم جایی دیدند به سامانهٔ ۱۲۱ اطلاع دهند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/71158" target="_blank">📅 21:42 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24K · <a href="https://t.me/news_hut/71158" target="_blank">📅 21:42 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71157">
@@ -1178,7 +1178,7 @@ T.me/TrexBet_Ir</div>
 بی‌شک ما اشتباهات زیادی مرتکب شدیم.
 اما اگر اراده کنیم که درباره چگونگی انجام آن به‌درستی بیندیشیم، این هدف همچنان قابل‌تحقق است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/news_hut/71157" target="_blank">📅 21:19 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.6K · <a href="https://t.me/news_hut/71157" target="_blank">📅 21:19 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71156">
@@ -1187,22 +1187,22 @@ T.me/TrexBet_Ir</div>
 صداوسیما:
 صدای انفجار هایی که در جزیره قشم شنیده شده مربوط به شلیک موشک ها به سمت شناور های متخلف در تنگه هرمز است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/news_hut/71156" target="_blank">📅 21:04 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.3K · <a href="https://t.me/news_hut/71156" target="_blank">📅 21:04 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71155">
 <div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/bed43299c5.mp4?token=MrqwRl_xAtHKzEFA80l_XoNU87MA0TDA2m-u1WCZzc4yRrsRo-QhYXA_4iVSom8siviiVHNiz9BVCy1p11N22PV-RCAvikyqmB1t4OIkIKKrNklxFqAmJ8NQeSPOQX0NB0rJmrCd8XxTJ47z14UOOk99RysUIuSY-kyn0Q5T7GB2xyHTZsklgzRtObSzpMmaDNhn2trTsEslHumQ4oT0eQ1Z8X1fBAiBOZDRrrr5ekEaQMdLwFazjVbqnVIWlCTyiqvAMsGkg-K4iEI2YTsVJu_rKwzKQ-sKh6Zy5wyRoxUWMctl7ybnghpUkXvXj90jjb0f_m4y6BBNglv1cdVtRg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/bed43299c5.mp4?token=kPQLxqOzzuiM4tCVeC4eiiWuiegvj8yNAjlOb_7Ro2pPf7NzJyCh__z8EZPU1fuk9oW-Yf2iWa45NBqtH4DG8lbNdgDOczRk1iZmLhI_aOEwokOVxISkWvlvpXfMvczPNyGHj5MVAUAHBikOe2u09O-R22tTTAaYhImiEH70GgTBCbkxc4n2OZW3V1h7X4Qfhrkjs5TdE2fhTgdKa9t1eKHFSfYuX9VSPjSHHIrMDi_BRP1qW3eS1bn5DZKs63P4R5WWM6qd4soLxbOHt24G9ADXYghDOeg-UPtNCpfAvHEydNwbFXoc7VOiHkdf0WG0slrh4boCRL4pnEB-DaTCAw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/bed43299c5.mp4?token=MrqwRl_xAtHKzEFA80l_XoNU87MA0TDA2m-u1WCZzc4yRrsRo-QhYXA_4iVSom8siviiVHNiz9BVCy1p11N22PV-RCAvikyqmB1t4OIkIKKrNklxFqAmJ8NQeSPOQX0NB0rJmrCd8XxTJ47z14UOOk99RysUIuSY-kyn0Q5T7GB2xyHTZsklgzRtObSzpMmaDNhn2trTsEslHumQ4oT0eQ1Z8X1fBAiBOZDRrrr5ekEaQMdLwFazjVbqnVIWlCTyiqvAMsGkg-K4iEI2YTsVJu_rKwzKQ-sKh6Zy5wyRoxUWMctl7ybnghpUkXvXj90jjb0f_m4y6BBNglv1cdVtRg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/bed43299c5.mp4?token=kPQLxqOzzuiM4tCVeC4eiiWuiegvj8yNAjlOb_7Ro2pPf7NzJyCh__z8EZPU1fuk9oW-Yf2iWa45NBqtH4DG8lbNdgDOczRk1iZmLhI_aOEwokOVxISkWvlvpXfMvczPNyGHj5MVAUAHBikOe2u09O-R22tTTAaYhImiEH70GgTBCbkxc4n2OZW3V1h7X4Qfhrkjs5TdE2fhTgdKa9t1eKHFSfYuX9VSPjSHHIrMDi_BRP1qW3eS1bn5DZKs63P4R5WWM6qd4soLxbOHt24G9ADXYghDOeg-UPtNCpfAvHEydNwbFXoc7VOiHkdf0WG0slrh4boCRL4pnEB-DaTCAw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🇮🇷
 تصاویر منتشرشده نشان می‌دهد یک کشتی کانتینربر در اسکله بوشهر تقریبا به‌طور کامل نابود شده است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 24.5K · <a href="https://t.me/news_hut/71155" target="_blank">📅 20:33 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 24.6K · <a href="https://t.me/news_hut/71155" target="_blank">📅 20:33 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71154">
@@ -1228,7 +1228,7 @@ T.me/TrexBet_Ir</div>
 ✈️
 ویدیویی تایید نشده از پرواز تانکر سوخت‌رسان آمریکایی به همراه دو جنگنده در آسمان جزیره کیش استان هرمزگان
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.1K · <a href="https://t.me/news_hut/71153" target="_blank">📅 19:39 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.2K · <a href="https://t.me/news_hut/71153" target="_blank">📅 19:39 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71152">
@@ -1294,7 +1294,7 @@ T.me/TrexBet_Ir</div>
 🇮🇷
 لحظه تهدید تخلیه خدمه نفتکش های جمهوری اسلامی توسط خلبان جنگنده ارتش آمریکا
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/news_hut/71150" target="_blank">📅 18:59 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/news_hut/71150" target="_blank">📅 18:59 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71149">
@@ -1303,7 +1303,7 @@ T.me/TrexBet_Ir</div>
 〰️
 ⭕️
 سنتکام مسئولیت حمله به نفتکش های ایرانی را گردن گرفت؛  پس از شلیک موشک‌های بالستیک سپاه به سمت دو ناو جنگی آمریکا، نیروهای آمریکایی ۳ نفتکش حامل نفت خام ایران را هدف قرار داده و از کار انداختند. دو نفتکش نزدیک خارک و جاسک هدف قرار گرفتند و یک نفتکش دیگر…</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/71149" target="_blank">📅 18:39 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/71149" target="_blank">📅 18:39 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71148">
@@ -1372,7 +1372,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🇮🇷
 بابک زنجانی: سایپا را ۱ میلیارد دلار می‌فروختند، ۲ میلیارد پیشنهاد دادم، نفروختند
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/71145" target="_blank">📅 17:00 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/71145" target="_blank">📅 17:00 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71144">
@@ -1402,7 +1402,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🇨🇳
 تو چین یه نفر بعد ورود به مغازه‌ش که به علت نشتی پر از گاز بوده، کلید برق رو میزنه و کل مغازه میترکه ولی خوشبختانه زنده میمونه و بعد از اینکه به بیرون پرت میشه کون لختی فرار میکنه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/71143" target="_blank">📅 16:03 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/71143" target="_blank">📅 16:03 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71142">
@@ -1439,7 +1439,7 @@ T.me/TrexBet_Ir</div>
 به ترامپ و نتانیاهو و منافقین داخلی میگم این حرفمو
 تا آخوند شماهارو کفن نکنه ول نخواهیم کرد
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.8K · <a href="https://t.me/news_hut/71141" target="_blank">📅 15:01 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/news_hut/71141" target="_blank">📅 15:01 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71140">
@@ -1568,7 +1568,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/71126" target="_blank">📅 11:39 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/71126" target="_blank">📅 11:39 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71125">
@@ -1616,23 +1616,23 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/71125" target="_blank">📅 11:39 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/71125" target="_blank">📅 11:39 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71124">
 <div class="tg-post-header">📌 پیام #23</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/0380bdceab.mp4?token=UoUrqIg41Kc2ESOVQYW7ZQaQ_dBfx6q-G1RI1yNaXhM_aaUw2_DSzaYpPs6jB-Am1-GV8ce08LghCKRi-C6ZtO8KORqr_XDrIwN-XJuF3L_qdAfvmzlHvzPCs1pewKQyCD6oTf8_2YlyUeMd_x6BT3yMizRan2BSW0wXrHmtlGb0VShz-fB4xb692ZfWjHbtFVNV_xtWWQAPKdwZQRQC3zf6A3iWDwXRuo2nNquQmIbx0OqnxQ_TXs7ARXm6L0gPnJG1g1a7bf7kgHSarm0Fl_NAUC0xkDvpOrKjEW2WMeCOjxq-kA20yM_6o8uAtLURhhDUV7AKFn8YrFmKy36Piw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/0380bdceab.mp4?token=uLiWHRuOrWjCN4PJev2OLbUObJeV9WTMGN7CciDduGCIHc-nGnTIzeQuZv3dfg57PV4ZtCpcqj6Ld0xgThr4gCCgmNei4uZ8tRfWk5MqKXgMMJZRgzv_sGX4LmzIJIM_pN0kzBCFhIiDkRFb86m4zJcrsRUQDfwN4id2N_DcMrJJa21b0_YjUL7LtRtO9q5Tvd4xELJVG1MlkHOAT1wQqXiaohxTky5CE1hbfx4fhl_xx5prIpwWvW1UPYX5GPzEUuEMoLW4524YtSKF3CKD9e-oqQwVh6JEVLh6b3S3bCoWC96_womG9FdGubMDB5kka-b7ysJsYbB0AcYfQRs7fw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/0380bdceab.mp4?token=UoUrqIg41Kc2ESOVQYW7ZQaQ_dBfx6q-G1RI1yNaXhM_aaUw2_DSzaYpPs6jB-Am1-GV8ce08LghCKRi-C6ZtO8KORqr_XDrIwN-XJuF3L_qdAfvmzlHvzPCs1pewKQyCD6oTf8_2YlyUeMd_x6BT3yMizRan2BSW0wXrHmtlGb0VShz-fB4xb692ZfWjHbtFVNV_xtWWQAPKdwZQRQC3zf6A3iWDwXRuo2nNquQmIbx0OqnxQ_TXs7ARXm6L0gPnJG1g1a7bf7kgHSarm0Fl_NAUC0xkDvpOrKjEW2WMeCOjxq-kA20yM_6o8uAtLURhhDUV7AKFn8YrFmKy36Piw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/0380bdceab.mp4?token=uLiWHRuOrWjCN4PJev2OLbUObJeV9WTMGN7CciDduGCIHc-nGnTIzeQuZv3dfg57PV4ZtCpcqj6Ld0xgThr4gCCgmNei4uZ8tRfWk5MqKXgMMJZRgzv_sGX4LmzIJIM_pN0kzBCFhIiDkRFb86m4zJcrsRUQDfwN4id2N_DcMrJJa21b0_YjUL7LtRtO9q5Tvd4xELJVG1MlkHOAT1wQqXiaohxTky5CE1hbfx4fhl_xx5prIpwWvW1UPYX5GPzEUuEMoLW4524YtSKF3CKD9e-oqQwVh6JEVLh6b3S3bCoWC96_womG9FdGubMDB5kka-b7ysJsYbB0AcYfQRs7fw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">📚
 معرفی لاکچری‌ترین مدارس ایران !
 برای اینکه به علم برسی هم باید اول ثروت داشته باشی!
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/71124" target="_blank">📅 11:03 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/71124" target="_blank">📅 11:03 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71123">
@@ -1684,12 +1684,12 @@ T.me/TrexBet_Ir</div>
 می‌خواهم فیلم و مستند درباره این موضوع تهیه کنم... آن شخص هم فکر می‌کند که با ۱۰، ۲۰ سکه زندگی‌اش را گذرانده
 بیکار کردن ۸۰ نفر در منِ بابک زنجانی چه اثری دارد؟! اصلاً فردا بیایید آتشَش بزنید.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/71121" target="_blank">📅 09:30 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/71121" target="_blank">📅 09:30 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71120">
 <div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hUabjgI9AdI5xDraFcQgpg-i3fqodRXm5JTEQwA509c6cZql_aWw8iIeY5ZF0IL32XSUXvuZIMpvSul78yJ4TtpVSXojx0jBpbzzDEzeG8ZLPYz-lPseIFiWbVzizPWM1YuICGwWt4mI7tal0uf2FjNNc9m1Arvlb4CvAW26Xo4W7aGnDzzRq7szCRI7RbruY-oDQIou1Ab49k2VY2ptWWN45eszEoWWk78DdZuWarw8jrr2RVZFbqbt05xjnjIg_c6zihWNehdOysZzEf1TuuvlmWsQkd1_ICJsQfvF18Pd_h5ft6lZznr7dIwjUPKGPGaZUK79M3gJuh455JyDew.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/f4goW3lUp_B6eNx-Mg0ovrae2Oh4IAFCY2Jfx3xXUn77wJrB_b-QC82C8y6e3rt63EdHZO0WSQSPd6ssdrIW_61IK6brzhQe3Eg1lbr1SIlBB1tltm0KK-z9ncmlYDTHRDv5D9rlPSt-0OGjUuQ-DPPUJEKwvTx4iROiZq1F-4GzsCFVKtlmMnWT6T404hnrI1RaU-bjBAHAMXCjr1DmsYxiGidFsA52kCCVua02KwdhlvmVhDwepiy8g6o_8OaHcfq-Q3B5iNxDsXXKIOmq_noh8apAeq-ZLblzL92uDYIANarWmlx9SuAFwYQfqdQAfDXXvt-JeXJUJv_3IW3mxQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">⏺
 🇮🇷
 🇴🇲
@@ -1699,7 +1699,7 @@ T.me/TrexBet_Ir</div>
 ترامپ دو بار تهدید کرده است که در صورت موافقت عمان با دریافت عوارض، این کشور را بمباران خواهد کرد.
 ایران در دوران جنگ، نهادی برای مدیریت تنگه ایجاد کرده بود و از هر نفتکش مبلغی بین ۱ تا ۲ میلیون دلار عوارض می‌گرفت؛ اما بدون همکاری عمان، هرگونه سازوکار دریافت عوارض در دوران پس از جنگ، فاقد وجاهت قانونی خواهد بود.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/71120" target="_blank">📅 09:02 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/71120" target="_blank">📅 09:02 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71119">
@@ -1724,7 +1724,7 @@ TrexBet
 
 <div class="tg-post" id="msg-71118">
 <div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IzFrKM5YzPLSRawwsVRCYe2noY188BvtP5cBHBkFom6uVpbGTdfI5cmiSRhPIsqkO4XQEZHlt3vkTsNulbtrvTdFRZzm7aY-31m5NpZrkgFPwNPT-eyrvm8EKilNSOG2L9O5ziBuIG3b6td6ORvGp5rY19dxKL-MvyKGnOGjkYlMH9YeL18CNbcpTmkfOF_PxKP-ALzyQRI9q9x9fILHC2Gc8XAZiDpc89yK9shXCrpwEbmrfrTe7B6rAa91sQ_3rwcGESXcS90arw3AMxPydraMoE8VqNBP4he_xZ6HFurvdFi8ut_ZzdAZ0qYr_eVmayZcbw8dqrWJHNMTSa4B8A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/N0DHPj6X8pjqony1KWeUVTdMsUBb7AXgb6NkA3RV1EB1EhyHQ30HioX3g5F0sU8Xs25gA2iY3KRD_Y20cc9A4zXzquFjpIfpag2ZzOh2DWGmM-ab6nu_nDOxsWjeX2kmIxG3MBr3ovX430dL5h6Mj2gbFPruZhUBBetqWJ9Zf3wdLh1Z21EYolKl5GK30uT1uqj5xhUUqkNNX3c60tavaZqeDZjRppye7vAziZTRGmSPaDMHoUriIyhBwns1BNsWM4YWIMtP4LOLrezDEGE3ndEL6J8GWfD_ehh902ro1pGLZUfNb8JAEGWLsY6JSbqEENnRN2tFXaUcwG63c19hVQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">🦖
 فقط یک بازی از میکس‌ت لوز شده؟
 پولت برمی‌گرده!
@@ -1798,10 +1798,10 @@ T.me/TrexBet_Ir</div>
 <div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/6c1e4d7b78.mp4?token=UqOTvRmQ84oQtgs7shCU3ZkU-eBZe_DwpOqGjH4qD2jKqSPEw8atYkwhTpK9bQDiXni-R_5UAJQJ2RRK3QGyShk6rStW-6QgeM_OBMwkhepdZohsHo0eVEmeP8-BdONnkyJoCI1qfYG1oc2cKRpTj8YFPOFocAyBS20W43xxeeg0nwBUzjNe-H0K2xCkb2zc48MZJXdc0no12x99ZpCx71JUy5NZuwG-5ckuw7Ql-2oboDiKB4Kr5hLWChFtzVAxLZTwzKWmQWkDA6CbB_EtaYZ07tGF0MlaI0xSjoAI3Eey3CfDrIPVtpxvZu94NJjW__qcYqM8-oSYr6Vt9iPS4A" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/6c1e4d7b78.mp4?token=uzw6FU4-yjL9m9y-gWSDL-3GBRnos4IWLGwAw9j6KsP7R9g7MllyQXxaUcQGWZCvdGUTu0bhcKsXKS44EVnIiAwpMfrc5p6bCf_41oKl0s9nPspuHM2pmqmqZeKFtk1oNSa82hu11e8TY3M5LK_pRWF0ZPU0jjHGroZemhVVk2pxIIkkOkkvOvY9caYnYPLYFNtXU_QMELbjeMN9aeK49QuijiKSJY7OporXkQhEr_caHQFj05aXOFGeXTZVlF57eNteM8lIrsK1cNhggV_CvAo88vq0syt-q0-oeLGbpxbVgkbYgkIS7lBxsNIXU-qSA0PIc-SL9M4_uYFsl0bEEw" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/6c1e4d7b78.mp4?token=UqOTvRmQ84oQtgs7shCU3ZkU-eBZe_DwpOqGjH4qD2jKqSPEw8atYkwhTpK9bQDiXni-R_5UAJQJ2RRK3QGyShk6rStW-6QgeM_OBMwkhepdZohsHo0eVEmeP8-BdONnkyJoCI1qfYG1oc2cKRpTj8YFPOFocAyBS20W43xxeeg0nwBUzjNe-H0K2xCkb2zc48MZJXdc0no12x99ZpCx71JUy5NZuwG-5ckuw7Ql-2oboDiKB4Kr5hLWChFtzVAxLZTwzKWmQWkDA6CbB_EtaYZ07tGF0MlaI0xSjoAI3Eey3CfDrIPVtpxvZu94NJjW__qcYqM8-oSYr6Vt9iPS4A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/6c1e4d7b78.mp4?token=uzw6FU4-yjL9m9y-gWSDL-3GBRnos4IWLGwAw9j6KsP7R9g7MllyQXxaUcQGWZCvdGUTu0bhcKsXKS44EVnIiAwpMfrc5p6bCf_41oKl0s9nPspuHM2pmqmqZeKFtk1oNSa82hu11e8TY3M5LK_pRWF0ZPU0jjHGroZemhVVk2pxIIkkOkkvOvY9caYnYPLYFNtXU_QMELbjeMN9aeK49QuijiKSJY7OporXkQhEr_caHQFj05aXOFGeXTZVlF57eNteM8lIrsK1cNhggV_CvAo88vq0syt-q0-oeLGbpxbVgkbYgkIS7lBxsNIXU-qSA0PIc-SL9M4_uYFsl0bEEw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">❌
 طرف اندازه یه گاری پول جمع کرده و الان آورده تبدیل به دلارش کنه، کل این همه پول نقد شد فقط ۳۰۰ دلار
@@ -1838,7 +1838,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">‼️
 اخیرا بعضی دخترا طی یه حرکت فوق‌العاده و زیبا، دارن هرچی ژل و بوتاکس تو صورتشون بوده رو خارج میکنن تا نچرال به نظر بیان
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/71113" target="_blank">📅 21:29 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/71113" target="_blank">📅 21:29 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71112">
@@ -1888,10 +1888,10 @@ T.me/TrexBet_Ir</div>
 <div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/cbf8f1e1a9.mp4?token=HC6-5mxXFf6klI3bdDm0f3tv8BD57j-qrIjwS8WZ_-x4t36MX6yu-rwXN6e5q4pdNfPiIrVlOIjbjG-BwYRQatcN1dKx98W_pMeXyeTrf-HjuhrHvLqyWWeKadZSmTqDOR2NkUcD5ZovCsf5JDeKLHej8WX3x04I9jYxMMeZuwby8N1LJ-dQv09dxCLNv5lUdDQixHqvjG-A_i9cYfzCFpWPioosCOvIYgxPBiEHVsRP_vgKbEH0X7Pqkp3G2okjYmgp7f2Jy7MevowWHRBWmPREGXDRGaOPk1NE7g_yP7kP_zJBig9-b2r5pgbRo8ZWc0xlDQ-HAzJV0vjN0MfWJg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/cbf8f1e1a9.mp4?token=TX8Dl6KODCWe7C898z7Wou5TUznRc6iM_BKCQUXSRuLWivWdoYu3A71ssglF1Dvj21DE-gzVKiiVIIjwH7EOgxyffDu9wVqLdPh4Xnsam-FJZG-AVcpNMrBBKh7xgl2VFLXjFnWFt58-wHcWvoiflTqNntYoNs121zNVFhAA2EXYUZakWfpNHhbRqJQrEshTQ-klhcGW3AC3HA3MeP2jOYGrv22q4GDCUnI8drbWvixPXsE5Tyi4s5b0jsHEjRe993FS5a5OWBFWs1UWLI46IaHVYcWqY78Tsxh01UR4XSxMtQoU7M3KNA0K6-oHWWu-I9Kmst2g3URKdsaFOnuY2w" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/cbf8f1e1a9.mp4?token=HC6-5mxXFf6klI3bdDm0f3tv8BD57j-qrIjwS8WZ_-x4t36MX6yu-rwXN6e5q4pdNfPiIrVlOIjbjG-BwYRQatcN1dKx98W_pMeXyeTrf-HjuhrHvLqyWWeKadZSmTqDOR2NkUcD5ZovCsf5JDeKLHej8WX3x04I9jYxMMeZuwby8N1LJ-dQv09dxCLNv5lUdDQixHqvjG-A_i9cYfzCFpWPioosCOvIYgxPBiEHVsRP_vgKbEH0X7Pqkp3G2okjYmgp7f2Jy7MevowWHRBWmPREGXDRGaOPk1NE7g_yP7kP_zJBig9-b2r5pgbRo8ZWc0xlDQ-HAzJV0vjN0MfWJg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/cbf8f1e1a9.mp4?token=TX8Dl6KODCWe7C898z7Wou5TUznRc6iM_BKCQUXSRuLWivWdoYu3A71ssglF1Dvj21DE-gzVKiiVIIjwH7EOgxyffDu9wVqLdPh4Xnsam-FJZG-AVcpNMrBBKh7xgl2VFLXjFnWFt58-wHcWvoiflTqNntYoNs121zNVFhAA2EXYUZakWfpNHhbRqJQrEshTQ-klhcGW3AC3HA3MeP2jOYGrv22q4GDCUnI8drbWvixPXsE5Tyi4s5b0jsHEjRe993FS5a5OWBFWs1UWLI46IaHVYcWqY78Tsxh01UR4XSxMtQoU7M3KNA0K6-oHWWu-I9Kmst2g3URKdsaFOnuY2w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">🚨
 ⭕️
@@ -1920,7 +1920,7 @@ T.me/TrexBet_Ir</div>
 من توی خارج کشور بانک داشتم پولای وزارت نفت تو اون حساب بود. اونا تحریم شدن پولاشون اونجا گیر کرد گفتن تقصیر توعه و حکم اعـدام بهم دادن
 تمام بانکای ایران بیان جلوی من بشینن ببینیم من بیشتر میتونم سرمایه جذب کنم یا اونا. فقط با چندتا تلفن. تا معلوم بشه کی اعتبار داره
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/news_hut/71105" target="_blank">📅 19:28 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.2K · <a href="https://t.me/news_hut/71105" target="_blank">📅 19:28 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71104">
@@ -1969,10 +1969,10 @@ T.me/TrexBet_Ir</div>
 <div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/13cf8fb01d.mp4?token=bFDS7FAI8dXyGCGdG-C5nYN2LrGJiKbT3Vgr9G1LZY_8CvFKrvqU6O0AUQzk0Hmk0ULbygnBbWsP4TKfqnY5mqi1G0jGkcKSYjW_8b2vwZDZPLA84IYFqWffJwC46DfQBjG37VIjMaEw5DfwOovoa3h1Yu65gsNtidPvt1v6Or4lEd884ptnk3k4ovt9uFGEgR1KR7nnIxw1OTf1EWqHTu7w9fE6SclhdHKRAvPB9aBZgm8ERElfZbbzMwW4OOGVgD8u1hz9EozAb9JmsfusbPcQC4UEszbvyQMnrMgZxVOuvyODALQkTyGBSVvfIc1So7qIf9er9ZlmaVgRAFX08zzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/13cf8fb01d.mp4?token=vhsRO-P8qkfou7J80DbfX5sjJ-dTLkvYEwLE_rYSTkH3M8tiheIrbfZav0uCy1AB3qAGXDSusARIERZlFu5Dvo_GQPiRf4FymGoLRTMdqdL2MhlaMD_M-4WK9RuTMMOUSWm1x2sDJiKuztz0frAmzb_IrT0Ym_7EZ6GgjMaMbYFjhHdm1SHuzdKc5eTZrJNoFtDOHoCymXOrH963uvn-3BJp5L5SMnOZw63uShQHAuytnyBD4fCB1jfVZA86CO9y-guviocc76cfje2HZb4evxbDuwuSMU1ryEvRXivomYuemrTX5eTGPYTjvFroUz5O9H41Ts7wZSAihTDM7qM_OoWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/13cf8fb01d.mp4?token=bFDS7FAI8dXyGCGdG-C5nYN2LrGJiKbT3Vgr9G1LZY_8CvFKrvqU6O0AUQzk0Hmk0ULbygnBbWsP4TKfqnY5mqi1G0jGkcKSYjW_8b2vwZDZPLA84IYFqWffJwC46DfQBjG37VIjMaEw5DfwOovoa3h1Yu65gsNtidPvt1v6Or4lEd884ptnk3k4ovt9uFGEgR1KR7nnIxw1OTf1EWqHTu7w9fE6SclhdHKRAvPB9aBZgm8ERElfZbbzMwW4OOGVgD8u1hz9EozAb9JmsfusbPcQC4UEszbvyQMnrMgZxVOuvyODALQkTyGBSVvfIc1So7qIf9er9ZlmaVgRAFX08zzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/13cf8fb01d.mp4?token=vhsRO-P8qkfou7J80DbfX5sjJ-dTLkvYEwLE_rYSTkH3M8tiheIrbfZav0uCy1AB3qAGXDSusARIERZlFu5Dvo_GQPiRf4FymGoLRTMdqdL2MhlaMD_M-4WK9RuTMMOUSWm1x2sDJiKuztz0frAmzb_IrT0Ym_7EZ6GgjMaMbYFjhHdm1SHuzdKc5eTZrJNoFtDOHoCymXOrH963uvn-3BJp5L5SMnOZw63uShQHAuytnyBD4fCB1jfVZA86CO9y-guviocc76cfje2HZb4evxbDuwuSMU1ryEvRXivomYuemrTX5eTGPYTjvFroUz5O9H41Ts7wZSAihTDM7qM_OoWOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">⏺
 🇺🇸
@@ -1994,7 +1994,7 @@ T.me/TrexBet_Ir</div>
 وزارت خزانه‌داری آمریکا سه نهاد مستقر در ترکیه را به‌دلیل ارتباطات مالی و فعالیت‌های مرتبط با ایران تحریم کرده است:  Golden Global Portföy Yönetimi Golden Global Varlık Kiralama Golden Global Yatırım Bankası
 ⏺
 هم‌زمان یک مجوز عمومی برای دوره جمع‌کردن…</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/71101" target="_blank">📅 18:23 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/71101" target="_blank">📅 18:23 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71100">
