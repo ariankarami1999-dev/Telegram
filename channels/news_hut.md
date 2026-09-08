@@ -292,7 +292,7 @@
 <a href="https://t.me/news_hut" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 بدون هیچگونه گرایش و تمایلات سیاسی، همیشه سمت حقیقت و مردم.</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-17 04:19:23</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-17 08:58:33</div>
 <hr>
 
 <div class="tg-post" id="msg-71259">
@@ -312,7 +312,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 4.45K · <a href="https://t.me/news_hut/71259" target="_blank">📅 01:29 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.2K · <a href="https://t.me/news_hut/71259" target="_blank">📅 01:29 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71258">
@@ -331,7 +331,7 @@ US Open!
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 4.52K · <a href="https://t.me/news_hut/71258" target="_blank">📅 01:29 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 9.32K · <a href="https://t.me/news_hut/71258" target="_blank">📅 01:29 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71257">
@@ -340,7 +340,7 @@ T.me/TrexBet_Ir</div>
 ⭕️
 از دقایقی قبل نرخ سوم بنزین به 10هزار تومان افزایش یافت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 9.85K · <a href="https://t.me/news_hut/71257" target="_blank">📅 00:19 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 13.6K · <a href="https://t.me/news_hut/71257" target="_blank">📅 00:19 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71256">
@@ -357,7 +357,7 @@ T.me/TrexBet_Ir</div>
 عادی‌سازی سقوط تپه علی‌الطاهر توسط طرفداران قالیباف
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 13.7K · <a href="https://t.me/news_hut/71256" target="_blank">📅 23:30 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/71256" target="_blank">📅 23:30 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71255">
@@ -372,7 +372,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🇮🇷
 یادی کنیم از اوستاااااد خانعلی‌زاده که در دوره جنگ 12 روزه معتقد بود جنگنده های اسرائیلی هرگز وارد آسمان تهران نمیشن چون باید چندصد کیلومتر داخل ایران بیان و برن و این کار ممکن نیست  و اینا همه شایعات مجازی هست!
 @News_Hut</div>
-<div class="tg-footer">👁️ 15.6K · <a href="https://t.me/news_hut/71255" target="_blank">📅 22:53 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/71255" target="_blank">📅 22:53 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71254">
@@ -386,7 +386,7 @@ T.me/TrexBet_Ir</div>
 😳
 😳
 @News_Hut – ویس فحاشی خداداد</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/71254" target="_blank">📅 22:14 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/71254" target="_blank">📅 22:14 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71253">
@@ -395,7 +395,7 @@ T.me/TrexBet_Ir</div>
 ⭕️
 دقایقی پیش صدای چندین انفجار از سمت تنگه هرمز شنیده شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/71253" target="_blank">📅 21:28 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.6K · <a href="https://t.me/news_hut/71253" target="_blank">📅 21:28 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71252">
@@ -410,7 +410,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🇱🇧
 دیشب خبرنگار لبنانی داشت توی نبطیه گزارش تهیه میکرد که همون لحظه به شکل پشم‌ریزونی اسرائیل حمله کرد به اونجا و همچی قطع شد
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/71252" target="_blank">📅 21:01 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.3K · <a href="https://t.me/news_hut/71252" target="_blank">📅 21:01 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71251">
@@ -426,7 +426,7 @@ T.me/TrexBet_Ir</div>
 سردار محمودی بعد مصرف یک بَست:
 موشک رستاخیز ایران می‌تواند در لحظه اصابت ۸۰ کیلومتر مربع را نابود کند
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/71251" target="_blank">📅 20:15 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/71251" target="_blank">📅 20:15 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71250">
@@ -437,7 +437,7 @@ T.me/TrexBet_Ir</div>
 ترامپ بازنشر کرد:
 سیاستمداران ارشد ایران خواستار پایان دادن به جنگ هستند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.8K · <a href="https://t.me/news_hut/71250" target="_blank">📅 19:31 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.7K · <a href="https://t.me/news_hut/71250" target="_blank">📅 19:31 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71249">
@@ -452,7 +452,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🎙
 به تازگی یه چیزی مُد شده به اسم «جوجه پارتی» ، تو این پارتی، پسرا رفیقای دوس دخترشون رو به همراه رفیق سینگلشون به این پارتی میارن، تا برای همدیگه جوجه بکشن و از سینگلی در بیان.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/71249" target="_blank">📅 19:30 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/71249" target="_blank">📅 19:30 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71248">
@@ -465,7 +465,7 @@ T.me/TrexBet_Ir</div>
 اگر دوست داشتید، لینک کارزار رو برای چند نفر دیگه هم بفرستید. شاید همین کار ساده باعث بشه افراد بیشتری از وجودش باخبر بشن.
 🔗
 https://www.karzar.net/346254</div>
-<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/71248" target="_blank">📅 19:30 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/71248" target="_blank">📅 19:30 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71247">
@@ -485,7 +485,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/news_hut/71247" target="_blank">📅 19:29 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.9K · <a href="https://t.me/news_hut/71247" target="_blank">📅 19:29 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71246">
@@ -514,7 +514,7 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/news_hut/71246" target="_blank">📅 19:29 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.2K · <a href="https://t.me/news_hut/71246" target="_blank">📅 19:29 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71245">
@@ -528,7 +528,7 @@ T.me/TrexBet_Ir</div>
 از برنامه ثریا تا اخبار سراسری صداوسیما تماماً افتتاح شهر موشکی عماد با ۴۸ کیلومتر تونل بود که مدعی بودند ساختش چندین سال طول کشیده و اکنون تسخیرناپذیر و نفوذناپذیرترین دژ عالم است.
 این شهر پس از سه ماه محاصره توسط ارتش اسرائیل سه شب پیش در سکوت خبری تمام رسانه‌های جمهوری اسلامی سقوط کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.1K · <a href="https://t.me/news_hut/71245" target="_blank">📅 19:01 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/71245" target="_blank">📅 19:01 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71244">
@@ -542,7 +542,7 @@ T.me/TrexBet_Ir</div>
 </div>
 <div class="tg-text">ویدیویی از لحظه فاجعه انفجار تانکر حمل سوخت در سنندج که باعث مرگ 11 نفر شد
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/news_hut/71244" target="_blank">📅 18:15 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/71244" target="_blank">📅 18:15 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71243">
@@ -559,7 +559,7 @@ T.me/TrexBet_Ir</div>
 و میتونه ازتون شکایت کنه و تا 1 سال حبس و 5 تا 33 میلیون جریمه نقدی داره.
 اینکه شوخی بوده هم هیچ تاثیری تو مجازاتش نداره
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/71243" target="_blank">📅 17:31 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.1K · <a href="https://t.me/news_hut/71243" target="_blank">📅 17:31 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71242">
@@ -576,7 +576,7 @@ T.me/TrexBet_Ir</div>
 🇰🇵
 روسیه و کره شمالی یک پل جدید را در امتداد رودخانه تومن افتتاح کردند. این پل دو کشور را به هم متصل می‌کند و با گسترش همکاری‌های نظامی و اقتصادی این دو کشور، اهمیت این اتصال نیز افزایش یافته است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/71242" target="_blank">📅 17:05 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/71242" target="_blank">📅 17:05 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71241">
@@ -593,7 +593,7 @@ T.me/TrexBet_Ir</div>
 حتی تو شرایط جنگی هم اینترنت قراره برقرار بمونه و همین که الان اینترنت وصله، نشون میده حاکمیت تصمیم جدی داره دسترسی مردم به شبکه ارتباطی کشور حفظ بشه؛
 اینترنت پایدار و باکیفیت جزو حقوق اولیه مردمه و خدمات ارتباطی باید ادامه داشته باشه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/71241" target="_blank">📅 16:31 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.5K · <a href="https://t.me/news_hut/71241" target="_blank">📅 16:31 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71240">
@@ -609,7 +609,7 @@ T.me/TrexBet_Ir</div>
 آخوند قاسمیان:
 برادران یوسف 11/11 وحدت کردن یوسف رو انداختن تو چاه، این که وحدت نیست، وحدت باید حول محور رهبری باشه..
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.2K · <a href="https://t.me/news_hut/71240" target="_blank">📅 16:03 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/71240" target="_blank">📅 16:03 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71239">
@@ -624,7 +624,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">‼️
 ایشون رو آورده بودن موقع زایمان پیش زنش باشه و بهش روحیه بده، آخرش دکترا مجبور شدن خودشو درمان کنن
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/71239" target="_blank">📅 15:30 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/71239" target="_blank">📅 15:30 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71238">
@@ -645,7 +645,7 @@ T.me/TrexBet_Ir</div>
 اگه این گوشی من خراب بشه، دیگه نمی‌تونم گوشی بخرم.
 آموزش و پرورش باید به فکر تهیه وسایل آموزشی (گوشی و لپ‌تاب) واسه معلم‌ها باشه.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/71238" target="_blank">📅 15:01 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.8K · <a href="https://t.me/news_hut/71238" target="_blank">📅 15:01 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71237">
@@ -656,7 +656,7 @@ T.me/TrexBet_Ir</div>
 ادعا کرده که به کل جزیره تجاوز کردن و شرایط بدی بوده.
 بعد میگه خداروشکر فقط خودم مصون موندم و بهم تجاوز نشد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/71237" target="_blank">📅 14:32 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/71237" target="_blank">📅 14:32 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71236">
@@ -683,7 +683,7 @@ T.me/TrexBet_Ir</div>
 ناوها فرار کردن.
 حادثه آنقدر بزرگی هست که سنتکام هم نتونسته نفی بکنه. اعتراف کرده به این
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.9K · <a href="https://t.me/news_hut/71236" target="_blank">📅 13:49 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/71236" target="_blank">📅 13:49 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71235">
@@ -704,7 +704,7 @@ T.me/TrexBet_Ir</div>
 در نسخه فعلی، تعداد KC-135 نسبت به آپدیت قبلی(3 اوت۲۰۲۶ منتشر شده) ۷ فروند و تعداد KC-46 ۲ فروند افزایش نشان داده شده است؛ بنابراین مجموع ثبت‌شده ۹ فروند افزایش داشته است.
 منابع مستقل نیز در سال ۲۰۲۶ از به‌کارگیری گسترده تانکرهای KC-135 و KC-46 برای عملیات مرتبط با ایران گزارش داده‌اند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/71235" target="_blank">📅 13:15 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/71235" target="_blank">📅 13:15 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71234">
@@ -716,7 +716,7 @@ T.me/TrexBet_Ir</div>
 شرکت‌های نفت و گاز آمریکایی که در این آب‌ها و تأسیسات حضور دارند نیز در معرض همین آسیب‌پذیری قرار دارند.
 به دارایی‌های ما حمله کنید، ضربه خواهید خورد. ما پیش‌تر این را ثابت کرده‌ایم؛ از پایگاه‌هایی بپرسید که دیگر کارایی ندارند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/71234" target="_blank">📅 12:46 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.1K · <a href="https://t.me/news_hut/71234" target="_blank">📅 12:46 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71233">
@@ -731,7 +731,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">❌
 بمباران آخرالزمانی پادگان فتح خوش‌نام کرج توسط جنگنده های اسرائیلی در جنگ ۴۰روزه
 @News_Hut</div>
-<div class="tg-footer">👁️ 17.8K · <a href="https://t.me/news_hut/71233" target="_blank">📅 12:45 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18K · <a href="https://t.me/news_hut/71233" target="_blank">📅 12:45 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71232">
@@ -751,7 +751,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 16.6K · <a href="https://t.me/news_hut/71232" target="_blank">📅 12:44 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.8K · <a href="https://t.me/news_hut/71232" target="_blank">📅 12:44 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71231">
@@ -785,7 +785,7 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 17.6K · <a href="https://t.me/news_hut/71231" target="_blank">📅 12:44 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 17.9K · <a href="https://t.me/news_hut/71231" target="_blank">📅 12:44 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71228">
@@ -808,7 +808,7 @@ T.me/TrexBet_Ir</div>
 گزارش ادعا می‌کند پلیس پس از اطلاع از حادثه به دانشگاه رسیده، اما هیچ‌یک از مهاجمان را بازداشت نکرده و صرفاً تلاش کرده درگیری را متوقف کند.
 طبق این گزارش، مهاجمان وارد محوطه محل اقامت دانشجویان شده و تعدادی از دانشجویان را به‌شدت مورد ضرب‌وشتم قرار داده‌اند و در نتیجه، شماری از آنها زخمی شده‌اند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 18.4K · <a href="https://t.me/news_hut/71228" target="_blank">📅 11:40 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/71228" target="_blank">📅 11:40 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71227">
@@ -823,7 +823,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">ویدیو وایرال شده از روز انتخابات دانش‌آموزان پایه هفتم آمریکا که این پسره ادای ترامپ درمیاره و مثل ترامپ وعده میده
 😳
 @News_Hut</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/71227" target="_blank">📅 11:30 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/71227" target="_blank">📅 11:30 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71226">
@@ -839,7 +839,7 @@ T.me/TrexBet_Ir</div>
 در این دور از بازیا ترامپ برنده میشه
 😂
 @News_Hut</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/71226" target="_blank">📅 11:01 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/71226" target="_blank">📅 11:01 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71225">
@@ -856,7 +856,7 @@ T.me/TrexBet_Ir</div>
 خیلی از کاکولدها به پیجم دایرکت میدن و اصرار میکنن که بیا وارد رابطه‌مون بشو و با زنم بخواب!
 حتی یکی‌شون می‌گفت هرچقدر پول بخوای بهت میدیم تو فقط بیا..
 @News_Hut</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/71225" target="_blank">📅 10:33 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/71225" target="_blank">📅 10:33 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71224">
@@ -872,7 +872,7 @@ T.me/TrexBet_Ir</div>
 پاینده ایران،
 رضا پهلوی
 @News_Hut</div>
-<div class="tg-footer">👁️ 19K · <a href="https://t.me/news_hut/71224" target="_blank">📅 09:56 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/71224" target="_blank">📅 09:56 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71223">
@@ -885,7 +885,7 @@ T.me/TrexBet_Ir</div>
 نکات مهم برای ایمن نگه داشتن دارای های شما تو کانال قرار دادیم حتما رعایت کنید
 آموزش رفع مشکل
 https://t.me/arrad_group/2450</div>
-<div class="tg-footer">👁️ 16.1K · <a href="https://t.me/news_hut/71223" target="_blank">📅 09:56 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/news_hut/71223" target="_blank">📅 09:56 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71222">
@@ -901,7 +901,7 @@ https://t.me/arrad_group/2450</div>
 یک سرهنگ ارتش :
 از فرمانده‌ی کل ارتش ایران تقاضا دارم، یه قایق پر از بمب با جلیقه انتحاری در اختیار من قرار دهد تا خودم را به ناو آمریکایی بزنم و منفجرشان کنم
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/71222" target="_blank">📅 09:32 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/71222" target="_blank">📅 09:32 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71221">
@@ -917,7 +917,7 @@ https://t.me/arrad_group/2450</div>
 پزشکیان زمان انتخابات:
 خیلی‌ها میگن من اگه رئیس‌جمهور بشم میخوام بنزین رو گرون کنم، ولی من بارها گفتم بنزین رو گرون نخواهم کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.7K · <a href="https://t.me/news_hut/71221" target="_blank">📅 09:03 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.9K · <a href="https://t.me/news_hut/71221" target="_blank">📅 09:03 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71220">
@@ -937,7 +937,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 20.3K · <a href="https://t.me/news_hut/71220" target="_blank">📅 00:40 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/71220" target="_blank">📅 00:40 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71219">
@@ -966,7 +966,7 @@ TrexBet
 سرعت بالا، طراحی حرفه ای و تجربه ای متفاوت
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/71219" target="_blank">📅 00:40 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/71219" target="_blank">📅 00:40 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71214">
@@ -998,7 +998,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">تصاویری که ترامپ در تروث سوشال منتشر کرده
 😟
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.4K · <a href="https://t.me/news_hut/71210" target="_blank">📅 00:09 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/news_hut/71210" target="_blank">📅 00:09 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71209">
@@ -1013,7 +1013,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">❌
 دو عدد سیب زمینی 100 هزار تومان؛ اینکه قیمت یه دونه سیب زمینی بزرگ‌ به ۵۰ هزار تومن رسیده‌؛ یعنی فاجعه اقتصادی.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22K · <a href="https://t.me/news_hut/71209" target="_blank">📅 23:33 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.1K · <a href="https://t.me/news_hut/71209" target="_blank">📅 23:33 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71208">
@@ -1029,7 +1029,7 @@ T.me/TrexBet_Ir</div>
 سعید لیلاز، اقتصاددان و کارشناس اقتصادی:
 «کشور با تذبذب و دودلی، مس‌مس کردن و فس‌فس کردن  اداره نمی‌شود و حکومت باید تصمیم‌های قاطع بگیرد.»
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.4K · <a href="https://t.me/news_hut/71208" target="_blank">📅 22:51 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/news_hut/71208" target="_blank">📅 22:51 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71207">
@@ -1068,7 +1068,7 @@ T.me/TrexBet_Ir</div>
 ؛ نرخ سوم بنزین تغییر کرد
 سخنگوی دولت: نرخ کارت جایگاه سوخت از بامداد سه‌شنبه به ۱۰ هزار تومان افزایش خواهد یافت.
 @News_Hut</div>
-<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/71205" target="_blank">📅 21:13 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.9K · <a href="https://t.me/news_hut/71205" target="_blank">📅 21:13 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71201">
@@ -1104,7 +1104,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🇮🇷
 زاکانی:از وصیت‌نامه علی خامنه‌ای خبری نیست، احتمالا در بمباران از بین رفته.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/news_hut/71200" target="_blank">📅 20:15 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/news_hut/71200" target="_blank">📅 20:15 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71199">
@@ -1121,7 +1121,7 @@ T.me/TrexBet_Ir</div>
 بلاتکلیفی بیش از یک‌هفته‌ای صدها راننده ترانزیت ایرانی در نقطه صفر مرزی پاکستان
 این سنگین‌سواران ١۴ شهریور در ویدیویی گفتند که بی آب، غذا و امکانات بهداشتی به حال خود رها شده‌اند. با اتمام سوخت یخچال‌ها، بارهای فاسدشدنی در آستانه نابودی است و گمرک هیچ‌یک از دو کشور پاسخگو نیست
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/71199" target="_blank">📅 19:32 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/news_hut/71199" target="_blank">📅 19:32 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71198">
@@ -1164,7 +1164,7 @@ T.me/TrexBet_Ir</div>
 اوه. طرح نقطه‌ای فدرال رزرو قرمز چشمک می‌زند
 😁
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.9K · <a href="https://t.me/news_hut/71196" target="_blank">📅 18:55 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21K · <a href="https://t.me/news_hut/71196" target="_blank">📅 18:55 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71195">
@@ -1189,7 +1189,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">📱
 تو همه جای جهان هوش مصنوعی داره جای آدما رو میگیره ولی تو ایران برعکسه
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.5K · <a href="https://t.me/news_hut/71193" target="_blank">📅 18:13 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.6K · <a href="https://t.me/news_hut/71193" target="_blank">📅 18:13 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71192">
@@ -1206,7 +1206,7 @@ T.me/TrexBet_Ir</div>
 😐
 😐
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.1K · <a href="https://t.me/news_hut/71192" target="_blank">📅 17:34 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.2K · <a href="https://t.me/news_hut/71192" target="_blank">📅 17:34 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71191">
@@ -1238,7 +1238,7 @@ T.me/TrexBet_Ir</div>
 راننده ای که چند شب پیش در مشهد طرفداران حکومت رو زیر گرفت:
 عمدی نبود تعادل نداشتم به یکی برخورد کردم تشنج کردم جای ترمز گاز دادم و یهویی زیر گرفتم
 @News_Hut</div>
-<div class="tg-footer">👁️ 20K · <a href="https://t.me/news_hut/71190" target="_blank">📅 16:51 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.1K · <a href="https://t.me/news_hut/71190" target="_blank">📅 16:51 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71189">
@@ -1291,7 +1291,7 @@ TrexBet
 TREXBET — PLAY. PREDICT. WIN.
 https://TrexBet.com
 T.me/TrexBet_Ir</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/71188" target="_blank">📅 16:51 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/71188" target="_blank">📅 16:51 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71187">
@@ -1304,7 +1304,7 @@ T.me/TrexBet_Ir</div>
 دوره پنج‌ساله مسئولیت او دست‌کم تا سال ۲۰۳۰ ادامه خواهد داشت.
 او با دریافت درجه «فیلد مارشال»، این درجه و مصونیت قانونی را مادام‌العمر حفظ خواهد کرد و برکناری‌اش مستلزم کسب رأی دو‌سوم نمایندگان پارلمان است.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.2K · <a href="https://t.me/news_hut/71187" target="_blank">📅 16:30 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.3K · <a href="https://t.me/news_hut/71187" target="_blank">📅 16:30 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71186">
@@ -1332,7 +1332,7 @@ T.me/TrexBet_Ir</div>
 علی الاصول یادت رفت
 علی الطاهر هوا رفت
 @News_Hut</div>
-<div class="tg-footer">👁️ 20.4K · <a href="https://t.me/news_hut/71185" target="_blank">📅 15:30 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 20.5K · <a href="https://t.me/news_hut/71185" target="_blank">📅 15:30 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71184">
@@ -1385,7 +1385,7 @@ T.me/TrexBet_Ir</div>
 ناو هواپیمابر «یو‌اس‌اس آبراهام لینکلن» (CVN-72) اسکله C-0 در بندر «لائم چابانگ» واقع در استان چونبوری تایلند را ترک کرد و مسیر خود را در عرض اقیانوس آرام به سوی پایگاه اصلی‌اش در سن‌دیگو در پیش گرفت.
 خروج این ناو در صبح روز ۶ سپتامبر، به توقفِ حدوداً چهارروزه‌ای که از ۲ سپتامبر آغاز شده بود پایان داد و مرحله بعدیِ مسیر بازگشت آن به ایالات متحده را رقم زد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 19.5K · <a href="https://t.me/news_hut/71181" target="_blank">📅 13:54 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 19.6K · <a href="https://t.me/news_hut/71181" target="_blank">📅 13:54 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71180">
@@ -1420,7 +1420,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 18.6K · <a href="https://t.me/news_hut/71179" target="_blank">📅 13:52 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 18.7K · <a href="https://t.me/news_hut/71179" target="_blank">📅 13:52 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71178">
@@ -1503,7 +1503,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🇮🇷
 قالیباف:بستن تنگه هرمز به ضرر ایران شد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.6K · <a href="https://t.me/news_hut/71175" target="_blank">📅 12:01 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/71175" target="_blank">📅 12:01 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71174">
@@ -1553,7 +1553,7 @@ T.me/TrexBet_Ir</div>
 فعلا این قرارداد واسه اجرای کنسرت های مختلف تو ترکیه‌ست
 رئیس کمپانی میگه که این تازه اول راهه و قراره بزودی تو سراسر جهان کنسرت برگزار کنیم...
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.7K · <a href="https://t.me/news_hut/71172" target="_blank">📅 10:31 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 21.8K · <a href="https://t.me/news_hut/71172" target="_blank">📅 10:31 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71171">
@@ -1617,7 +1617,7 @@ T.me/TrexBet_Ir</div>
 🇮🇷
 سپاه پاسداران انقلاب اسلامی ساعاتی قبل در بیانیه ای مدعی حمله به یک ناو هواپیمابر و یک ناوشکن آمریکایی شد و اعلام کرد که پس از این حمله اونا خسارت دیدن، ترسیدن و از منطقه فرار کردن.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.7K · <a href="https://t.me/news_hut/71168" target="_blank">📅 08:02 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/71168" target="_blank">📅 08:02 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71167">
@@ -1637,7 +1637,7 @@ TrexBet
 ورود و ثبت‌نام سریع
 ⚡
 سریع، حرفه‌ای و همیشه در دسترس!</div>
-<div class="tg-footer">👁️ 23.7K · <a href="https://t.me/news_hut/71167" target="_blank">📅 01:34 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 23.8K · <a href="https://t.me/news_hut/71167" target="_blank">📅 01:34 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71166">
@@ -1701,7 +1701,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">🇮🇷
 سپاه پاسداران تصاویری از «رصد و رهگیری شناورهای متخلف» در تنگه هرمز منتشر کرد.
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.3K · <a href="https://t.me/news_hut/71163" target="_blank">📅 00:38 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.4K · <a href="https://t.me/news_hut/71163" target="_blank">📅 00:38 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71162">
@@ -1751,7 +1751,7 @@ T.me/TrexBet_Ir</div>
 <div class="tg-text">یه جانفدای رندوم و حرکات جالبش
 😃
 @News_Hut</div>
-<div class="tg-footer">👁️ 25.1K · <a href="https://t.me/news_hut/71160" target="_blank">📅 22:54 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 25.2K · <a href="https://t.me/news_hut/71160" target="_blank">📅 22:54 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71159">
@@ -1836,7 +1836,7 @@ T.me/TrexBet_Ir</div>
 سازمان تجارت دریایی بریتانیا UKMTO:
 گزارش‌ هایی مبنی بر وقوع حوادث برای چندین کشتی تجاری در شمال خلیج فارس و دریای عمان دریافت کردیم.
 @News_Hut</div>
-<div class="tg-footer">👁️ 22.8K · <a href="https://t.me/news_hut/71154" target="_blank">📅 19:48 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22.9K · <a href="https://t.me/news_hut/71154" target="_blank">📅 19:48 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71153">
@@ -1962,7 +1962,7 @@ T.me/TrexBet_Ir</div>
 دو نفتکش نزدیک خارک و جاسک هدف قرار گرفتند و یک نفتکش دیگر در دریای عمان منهدم شد.
 سنتکام اعلام کرد این نفتکش‌ها بخشی از شبکه تأمین مالی سپاه و نیروهای نیابتی آن بوده‌اند.
 @News_Hut</div>
-<div class="tg-footer">👁️ 21.9K · <a href="https://t.me/news_hut/71147" target="_blank">📅 17:55 · 14 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 22K · <a href="https://t.me/news_hut/71147" target="_blank">📅 17:55 · 14 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-71146">
