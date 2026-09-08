@@ -292,7 +292,7 @@
 <a href="https://t.me/SBoxxx" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 ■  تاریخ | ژئوپلتیک | بازارهای مالی ■https://secretboxxx.com/</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-17 02:24:48</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-17 04:19:23</div>
 <hr>
 
 <div class="tg-post" id="msg-20641">
@@ -303,26 +303,26 @@
 تهران خواستار این شد که امنیت این پروژه توسط نیروهای مسلح ارمنستان به طور انحصاری، یا توسط نیروهای نظامی یک کشور ثالث که از قبل در ارمنستان حضور دارند، تامین شود - به وضوح، منظور نیروهای روسی است.
 به گفته منابع، به این ترتیب، تهران تلاش می‌کند از حضور نیروهای آمریکایی در مرزهای خود جلوگیری کند. در غیر این صورت، در شرایط تشدید تنش، طرف ایرانی، حضور آنها را به عنوان یک هدف مشروع تلقی خواهد کرد.
 این موضوع، اجرای پروژه‌ای کلیدی که از قبل عملاً فلج شده است، را به شدت دشوارتر می‌کند.</div>
-<div class="tg-footer">👁️ 1.67K · <a href="https://t.me/SBoxxx/20641" target="_blank">📅 00:42 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 1.94K · <a href="https://t.me/SBoxxx/20641" target="_blank">📅 00:42 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20640">
 <div class="tg-post-header">📌 پیام #99</div>
 <div class="tg-text">سارا خلیفه مجری مشهور مصری به دلیل قاچاق مواد مخدر به اعدام محکوم شد!</div>
-<div class="tg-footer">👁️ 1.92K · <a href="https://t.me/SBoxxx/20640" target="_blank">📅 00:26 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.16K · <a href="https://t.me/SBoxxx/20640" target="_blank">📅 00:26 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20639">
 <div class="tg-post-header">📌 پیام #98</div>
 <div class="tg-text">ای لعنت به پدر مارک بوسنیچ که گذاشت آن گل را بزنی و بعد ۳۰ سال مجبور بشویم چهره و رفتار انیرانی ات را تحمل کنیم!</div>
-<div class="tg-footer">👁️ 2.07K · <a href="https://t.me/SBoxxx/20639" target="_blank">📅 00:21 · 17 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 2.3K · <a href="https://t.me/SBoxxx/20639" target="_blank">📅 00:21 · 17 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20638">
 <div class="tg-post-header">📌 پیام #97</div>
 <div class="tg-text">سمیر الصبری، معاون وزیر دفاع دولت رسمی یمن:
 «تصمیم برای آزادسازی صنعا و حل مسئله گرفته شده است».</div>
-<div class="tg-footer">👁️ 3.12K · <a href="https://t.me/SBoxxx/20638" target="_blank">📅 23:20 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.3K · <a href="https://t.me/SBoxxx/20638" target="_blank">📅 23:20 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20637">
@@ -331,64 +331,64 @@
 این
 گزارش نتیجه آزمون
 برای من است</div>
-<div class="tg-footer">👁️ 3.34K · <a href="https://t.me/SBoxxx/20637" target="_blank">📅 22:53 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 3.49K · <a href="https://t.me/SBoxxx/20637" target="_blank">📅 22:53 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20636">
 <div class="tg-post-header">📌 پیام #95</div>
 <div class="tg-text">ارتش ایالات متحده در حال حرکت برای استقرار راکتورهای هسته‌ای کوچک است، در حالی که برای مقابله با تهدیدات فزاینده علیه شبکه برق و افزایش تقاضای انرژی در پایگاه‌های نظامی آماده می‌شود.</div>
-<div class="tg-footer">👁️ 4.15K · <a href="https://t.me/SBoxxx/20636" target="_blank">📅 20:54 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.25K · <a href="https://t.me/SBoxxx/20636" target="_blank">📅 20:54 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20635">
 <div class="tg-post-header">📌 پیام #94</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/bPRZVEvqO1i2GnQlqDcNO1dhe-mmwfErDOnXfXwgvM4gYd3iC3ieNl5LDOpn0EAoZFvhC1WX4zbR7OFgj3_EhgVUwwSt6cieyLTdR5FVfDv181rzkIa4mRa7OsdrJkNsoMOq4hIS-X8OEj9uRjwc6u6ZZgkpqhIhCUfWNaFI-R7-4TrHnr5aWBijzLRYETf2bnWR-Fulk0IoySjGNE_efr3GTngicUXuv4F5C0osTVutDJWfm3pC5CPeEK1B0PVnsX_qBZip9psE8ZS7otPFGscIhbBHL2-iKGFnGncuOC8YtPVHI5yb7vARpygZKMOfFAvexcv6ihT3g3hfQGLH9g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">سارا خلیفه مجری مشهور مصری به دلیل قاچاق مواد مخدر به اعدام محکوم شد!</div>
-<div class="tg-footer">👁️ 4.26K · <a href="https://t.me/SBoxxx/20635" target="_blank">📅 20:50 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.36K · <a href="https://t.me/SBoxxx/20635" target="_blank">📅 20:50 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20634">
 <div class="tg-post-header">📌 پیام #93</div>
 <div class="tg-text">علی‌آبادی، وزیر نیرو :   تمام نیروگاه های کشور برای تامین برق در آماده باش کامل هستند</div>
-<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/20634" target="_blank">📅 16:56 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/20634" target="_blank">📅 16:56 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20633">
 <div class="tg-post-header">📌 پیام #92</div>
 <div class="tg-text">علی‌آبادی، وزیر نیرو :
 تمام نیروگاه های کشور برای تامین برق در آماده باش کامل هستند</div>
-<div class="tg-footer">👁️ 4.61K · <a href="https://t.me/SBoxxx/20633" target="_blank">📅 16:55 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.67K · <a href="https://t.me/SBoxxx/20633" target="_blank">📅 16:55 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20632">
 <div class="tg-post-header">📌 پیام #91</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ki5ir91n0WZ_Wf_L19dDF4hnCOiuAyJFz7rWkWpDz9Hic6dSEcPJoJ9KKZ508Uc2sevM4WCojVeTARMAE8tRuY9ZVGYly1H9d-iNl34v5fPr4c8GIUK9JkszzCcz6MYFmCWmIpMb-7jHyqwGk1Nvxg-zNxScnG3E-SNBXO18TOL7PwwzeiyCv7CoiM3bt-4iUl8uC_nwVM94Yy2G62ea9uEtEAP_hkRJc1dTLmhTuJqnsq56-Aj2_V_zLJJF8_-DGDZCq0-0kQib5BZWyiNgbV6fi_pp3yeY6C5cutOAJje0HM_zkdhZGeQMuETtO29y1P3QEcC09S2bO9AfEQFmMg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">این مسیر محتمل وقایع آتی از دید من است:  — شکست عملیات طرد اقتصادی در تسلیم یا فروپاشی جمهوری اسلامی — حملات جمهوری اسلامی به تاسیسات نفتی و گازی منطقه — آغاز دوباره جنگ — عملیات زمینی آمریکا برای تسخیر بخش هایی از جنوب کشور با این نتیجه: موفقیت کوتاه مدت…</div>
-<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SBoxxx/20632" target="_blank">📅 16:48 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.8K · <a href="https://t.me/SBoxxx/20632" target="_blank">📅 16:48 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20631">
 <div class="tg-post-header">📌 پیام #90</div>
 <div class="tg-text">این ژاپن بزودی بدجور موی دماغ چین خواهدشد.</div>
-<div class="tg-footer">👁️ 4.5K · <a href="https://t.me/SBoxxx/20631" target="_blank">📅 16:44 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.55K · <a href="https://t.me/SBoxxx/20631" target="_blank">📅 16:44 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20630">
 <div class="tg-post-header">📌 پیام #89</div>
 <div class="tg-text">بوی یک حمله همه جانبه به نیروهای موسوم به محور مقاومت می آید:  — حمله پلیس عراق به منازل عناصر سیاسی نزدیک به ایران — ضرب الاجل دولت عراق برای خلع سلاح حشدالشعبی — توافق دولت لبنان و اسرائیل برای پایان حیات نظامی حزب الله — آماده شدن نیروهای مخالف حوثی ها…</div>
-<div class="tg-footer">👁️ 4.58K · <a href="https://t.me/SBoxxx/20630" target="_blank">📅 16:24 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/20630" target="_blank">📅 16:24 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20629">
 <div class="tg-post-header">📌 پیام #88</div>
 <div class="tg-text">همزمان بیت روحانی فعال شده اند....</div>
-<div class="tg-footer">👁️ 4.69K · <a href="https://t.me/SBoxxx/20629" target="_blank">📅 14:34 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/20629" target="_blank">📅 14:34 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20628">
 <div class="tg-post-header">📌 پیام #87</div>
 <div class="tg-text">حملات به تاسیسات شرکت سعودی آرامکو</div>
-<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/20628" target="_blank">📅 14:32 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.74K · <a href="https://t.me/SBoxxx/20628" target="_blank">📅 14:32 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20627">
@@ -404,26 +404,26 @@
 <div class="tg-text">#پادکست_GeoMarkets
 شماره — 24
 دو شنبه 7سپتامبر  2026</div>
-<div class="tg-footer">👁️ 4.79K · <a href="https://t.me/SBoxxx/20627" target="_blank">📅 14:13 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.82K · <a href="https://t.me/SBoxxx/20627" target="_blank">📅 14:13 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20626">
 <div class="tg-post-header">📌 پیام #85</div>
 <div class="tg-text">بقایی:   مذاکرات خوبی با هیئت قطری داشتیم</div>
-<div class="tg-footer">👁️ 4.71K · <a href="https://t.me/SBoxxx/20626" target="_blank">📅 13:12 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/20626" target="_blank">📅 13:12 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20625">
 <div class="tg-post-header">📌 پیام #84</div>
 <div class="tg-text">بقایی:
 مذاکرات خوبی با هیئت قطری داشتیم</div>
-<div class="tg-footer">👁️ 4.68K · <a href="https://t.me/SBoxxx/20625" target="_blank">📅 13:10 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/20625" target="_blank">📅 13:10 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20624">
 <div class="tg-post-header">📌 پیام #83</div>
 <div class="tg-text">بعد از کتک خوردن عراقی ها در رشت، این بار مردم غیرتمند سمنان هم این وحوش را به دلیل دست درازی به نوامیس خود گوشمالی دادند.</div>
-<div class="tg-footer">👁️ 4.83K · <a href="https://t.me/SBoxxx/20624" target="_blank">📅 12:57 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.85K · <a href="https://t.me/SBoxxx/20624" target="_blank">📅 12:57 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20623">
@@ -436,19 +436,19 @@
 <a href="https://cdn4.telesco.pe/file/e33e75cd83.mp4?token=Avnq3B2CfWWiDjpNv4_lQv-9CSouO2RNeHLMWHHzHhmi2rXkZTd8CEWVrSno6lS6hjyQ-EYyE_hJf5ahZaDIgIOHaOb2A478K1uxkxA30U26TA79x7eAn-NOmMYLbCCwBCFPSB7EZEym_B70z3_RJNRafXX-U7ZWF6SRr3KcozPKBLsiQFiGooB1clh78HO5TXEfac_jGZ4Zowr-KSsnSBKgLanMTX51BUPgwORUA44wYeTHLkRwYgMa27PqN0U4yRN7Nx5qPMAdvyZVD2Mu1bXu7WgaASmYfKFFwvC64zjh_EhDFwPLlTsYEKzDmLEthbN3gfkjFgx-QvntWfB5dA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">بعد از کتک خوردن عراقی ها در رشت، این بار مردم غیرتمند سمنان هم این وحوش را به دلیل دست درازی به نوامیس خود گوشمالی دادند.</div>
-<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SBoxxx/20623" target="_blank">📅 12:57 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.08K · <a href="https://t.me/SBoxxx/20623" target="_blank">📅 12:57 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20622">
 <div class="tg-post-header">📌 پیام #81</div>
 <div class="tg-text">در استرالیا استفاده از مواد روانگردان برای مصارف خاص درمانی قانونی اعلام شد.  پس از قانونی شدن ماریجوانا در بسیاری ایالت های آمریکا، قانونی شدن استفاده از مواد روانگردان طبیعی در موارد خاص در استرالیا پیشرفت مهم دیگری محسوب می شود.  شخصا باور دارم که بزودی…</div>
-<div class="tg-footer">👁️ 4.62K · <a href="https://t.me/SBoxxx/20622" target="_blank">📅 12:09 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.65K · <a href="https://t.me/SBoxxx/20622" target="_blank">📅 12:09 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20621">
 <div class="tg-post-header">📌 پیام #80</div>
 <div class="tg-text">#GRI  شاخص ریسک ژئوپولیتیک برای امروز در سطوح میانه بالا قرار دارد و با توجه به ریزش بامدادی طلا، پایین هایش خرید موقت دارد با تارگت های 4418 و 4441</div>
-<div class="tg-footer">👁️ 4.64K · <a href="https://t.me/SBoxxx/20621" target="_blank">📅 11:32 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.66K · <a href="https://t.me/SBoxxx/20621" target="_blank">📅 11:32 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20620">
@@ -456,39 +456,39 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/MFv2Ciz28CyHCzt84EHWxFz4HGEac5iG1Vz_tJDAmUlUwa-xCR28yyEXod_eMIYvvnfsDk8B9LwQokpuCuWdRaaY_9wG1q15W-kFadskFVU1K7iXuPVu91XXHcjGIEXAWkfRQDfzYmHCNuLWAlgdn8W83R1039phMIRY8Cu1UGF2piO_eb0fhDBmCiPg4vINeaV1JDApEthJQ63Q-8PZ9jW-B7ALmTjTswmG_4qqFHkhFk9zy04owhqqyiumvab9ZtvFrLyvStg4fNbyI3oWHwuUrbYSBnRdmDwrjBiEJ6uxPWiyNgiG1RLvVRikgCpGFe9T4umBcJSHCzZb_HnRzg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">#GRI
 شاخص ریسک ژئوپولیتیک برای امروز در سطوح میانه بالا قرار دارد و با توجه به ریزش بامدادی طلا، پایین هایش خرید موقت دارد با تارگت های 4418 و 4441</div>
-<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/20620" target="_blank">📅 11:31 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/20620" target="_blank">📅 11:31 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20619">
 <div class="tg-post-header">📌 پیام #78</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Ze2_2AbHS2eg_zzTeAScPbU3la3gDtW9ppzHRubOsI9ytJkRZOA-YvJxv0s88Mx9Lnzwn6FNd9Gtm2TEWrL4IoZiZmpZqwDeGpiD1LUUBKrCfhTmP5Z1rncrOupb3dS9RqJAl_YVf7gknLWJ_qZUoV6xlJtshvwnIVvUPpae__cC9-qRTQmlb469ioP8wU-haU0ZK5WFN6Xpcfjqp37SWTrydYh-ZODbOkwg3LunrFT6cyrvFukVI3t0fjcwqt5PzDBN-fV3dPx4QoyCOeab5Zki1dnlbQrZJG5G4Q5AtDB9sPMz9SUBSzu6ze2gDefYRj92v46DLi47VsVgcZ7QNA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ای لعنت به پدر مارک بوسنیچ که گذاشت آن گل را بزنی و بعد ۳۰ سال مجبور بشویم چهره و رفتار انیرانی ات را تحمل کنیم!</div>
-<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/20619" target="_blank">📅 11:08 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/20619" target="_blank">📅 11:08 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20618">
 <div class="tg-post-header">📌 پیام #77</div>
 <div class="tg-text">حزب‌‌ راست‌گرای افراطی AfD آلمان برای اولین بار در تاریخ خود در یک انتخابات ایالتی پیروز شده است.</div>
-<div class="tg-footer">👁️ 4.73K · <a href="https://t.me/SBoxxx/20618" target="_blank">📅 09:22 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.75K · <a href="https://t.me/SBoxxx/20618" target="_blank">📅 09:22 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20617">
 <div class="tg-post-header">📌 پیام #76</div>
 <div class="tg-text">— به گزارش رويترز، پس از حملات اخیر ایالات متحده و ایران به تانکرها، حجم حمل‌ونقل از تنگه هرمز به‌شدت کاهش یافته است.  داده‌های شرکت کپلر نشان می‌دهد که میانگین روزانه کشتی‌های کالایی در ۱۰ روز گذشته ۱۰ کشتی بوده است که کمترین سطح از ماه مه به این طرف است.…</div>
-<div class="tg-footer">👁️ 4.7K · <a href="https://t.me/SBoxxx/20617" target="_blank">📅 08:36 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.72K · <a href="https://t.me/SBoxxx/20617" target="_blank">📅 08:36 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20616">
 <div class="tg-post-header">📌 پیام #75</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/KjIhHfOVlNpuOHrb2CRgQmc7kowTt6VfjYCeP4EDzOrYu-XcDcfZLyF7Arg9aOPmmopOW0p7oyPcoF-H9GCVwVuFnCdm4CuWwKrGbc2XE7cy7Fbmta8Ryhl9Xf0w3xXgswWTendR2Vl5Uqg8IA345TY4ixI_XWLYczkKLf---SdUoDVVue4wdvO65X-3f0-9WnKY1tSn6eNGjm1iejPQgqliQ7KvsdCo-i5NFaEGenG5SBK4gy-LbEh22aSlnlhcQN3gNg0HurNOIsYbpohJzEZqV3B_2WKb8yYmhMyzz7tzBx31Hstk41B53Y7TqY6JfOCPtdqoHiq_r5GyGAsEsw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ با انتشار این پست مدعی شده که بخش عمده نفت عبوری از هرمز به سطوح پیش از جنگ برگشته است!  به نظرم دروغ می‌گوید چون قیمت نفت خیلی بالاتر است</div>
-<div class="tg-footer">👁️ 5K · <a href="https://t.me/SBoxxx/20616" target="_blank">📅 08:35 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SBoxxx/20616" target="_blank">📅 08:35 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20615">
 <div class="tg-post-header">📌 پیام #74</div>
 <div class="tg-text">حزب‌‌ راست‌گرای افراطی AfD آلمان برای اولین بار در تاریخ خود در یک انتخابات ایالتی پیروز شده است.</div>
-<div class="tg-footer">👁️ 4.87K · <a href="https://t.me/SBoxxx/20615" target="_blank">📅 02:41 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/20615" target="_blank">📅 02:41 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20614">
@@ -496,7 +496,7 @@
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/eR5pyQraXEOhzDYeAjNtRZBAUF98AVXHz95Q0yIbHSshHGLZOQqrkKGG2VUJiIak9w-RZZ9j7VMQaKgZZq7kxiysSE_OefgrSl2W2bGUuYwIi9rJ6RNwpLigGpmbeLa-7vxphBsrKNA_0nSE_nNPC5FevdESEYriDZIsq0bxfipUzNOFBbGUlFRHjlp1a3Z1vn8WJtNSewCEkGcHDG9l0rRPs60nD_TPEW_uoxxubvkQ6c0o-OrNHMROQGE8eW1hPX8k0rIEIRZdH5_5SRydlym1RV6qbZr80agmEGO39VSpRGn_DG9lpJhbE4RHOo7gUoes46LIRXHp6rxbDSS8mA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">برنامه میان‌مدت ترکیه برای سال‌های 2027 تا 2029، افزایش 229 درصدی در هزینه‌های دفاعی را پیش‌بینی می‌کند، که از بین تمام دسته‌های سرمایه‌گذاری استراتژیک، بیشترین میزان افزایش را داراست.
 این رقم، هدف کلی برای سه سال است، نه افزایش در یک سال معین.</div>
-<div class="tg-footer">👁️ 4.88K · <a href="https://t.me/SBoxxx/20614" target="_blank">📅 01:30 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.89K · <a href="https://t.me/SBoxxx/20614" target="_blank">📅 01:30 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20613">
@@ -534,13 +534,13 @@ Wall Street Journal
 اگر برنامه Firebird طبق نقشه راه پیش برود، ارمنستان می‌تواند در چند سال آینده به یکی از مهم‌ترین مراکز GPU Compute در اوراسیا تبدیل شود. نکته ژئوپلیتیکی مهم این است که این ظرفیت بر ستون‌های فناوری آمریکایی بنا شده است: NVIDIA برای تراشه، Dell برای زیرساخت، Firebird برای پلتفرم و سرمایه‌گذاری آمریکایی و مجوزهای صادراتی واشنگتن برای دسترسی به سخت‌افزار پیشرفته.
 از این منظر، شاید عبارت دقیق‌تر این نباشد که «ارمنستان در حال تبدیل‌شدن به هاب هوش مصنوعی آمریکا است»، بلکه این است که ارمنستان در حال تبدیل‌شدن به یکی از شرکای زیرساختی آمریکا در جغرافیای جدید هوش مصنوعی است. و این تحول می‌تواند پیامدهایی فراتر از اقتصاد دیجیتال داشته باشد. همان‌طور که خطوط لوله نفت و گاز، بنادر، راه‌آهن و کریدورهای تجاری در قرن بیستم ابزارهای قدرت ژئوپلیتیکی بودند، در قرن بیست‌ویکم GPU، برق، دیتاسنتر و Compute نیز می‌توانند به بخشی از معماری قدرت جهانی تبدیل شوند.
 اگر پروژه هرازدان به ظرفیت‌های اعلام‌شده برسد، ارمنستان دیگر صرفاً در حاشیه اقتصاد دیجیتال قفقاز نخواهد بود؛ بلکه می‌تواند به یکی از گره‌های محاسباتی شبکه AI تحت رهبری آمریکا در منطقه تبدیل شود—درست در نقطه‌ای میان روسیه، ایران، ترکیه و آسیای مرکزی.</div>
-<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SBoxxx/20613" target="_blank">📅 00:55 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5K · <a href="https://t.me/SBoxxx/20613" target="_blank">📅 00:55 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20612">
 <div class="tg-post-header">📌 پیام #71</div>
 <div class="tg-text">ترور یک مامور فراجا در ایرانشهر  به گزارش مرکز اطلاع‌ر‌سانی پلیس سیستان و بلوچستان، ساعتی قبل افرادی مسلح به سمت مأمور انتظامی در ایرانشهر با سلاح گرم تیراندازی کردند که در پی این اقدام، استوار یکم «مهران سالارزاده» به درجه رفیع شهادت نائل شد.</div>
-<div class="tg-footer">👁️ 4.97K · <a href="https://t.me/SBoxxx/20612" target="_blank">📅 00:15 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.98K · <a href="https://t.me/SBoxxx/20612" target="_blank">📅 00:15 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20611">
@@ -548,7 +548,7 @@ Wall Street Journal
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GJ2SWQIzHlBda8hnW97mh-ePXihE8Pw1a4xWHGG9nbNU8JBwH-_1s6GmWNqCn6-wFHIlSGCA1L-du1j7DpduTuSDgAfau4tddqxBqZZCsIqxxsdUtBBK_8Lv-ffxAsznm6l_HOpUCAUVKcnQ9qBJRkmnQG47sr4ThYamDXt28_UGlu2Mwlzqm3AHvDZ3FvXi-5j-ngxIhZ1LCi27I1d_32_x6lFvL22tM2Ig1YhZTbBKoFkJDeQ2JBS6WbsHrMpMhhkZ7ck-vJz5NQoThxFEaIrAmNXc6Mdl3zMwuXOF9Ea3Yr8R7xzm7_bmG2l5bMzor4Aiog24yzU9Mc1-w2VTww.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">عجب گیری کردیم به حضرت عباس!
 ولی همین که نام Persian Gulf را می نویسد باز خوب است</div>
-<div class="tg-footer">👁️ 5.2K · <a href="https://t.me/SBoxxx/20611" target="_blank">📅 00:12 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SBoxxx/20611" target="_blank">📅 00:12 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20610">
@@ -562,14 +562,14 @@ Wall Street Journal
 <div class="tg-post-header">📌 پیام #68</div>
 <div class="tg-text">سرلشکر رضایی:
 برای داشتن وحدت باید به رهبری نگاه کرد</div>
-<div class="tg-footer">👁️ 5.09K · <a href="https://t.me/SBoxxx/20608" target="_blank">📅 00:04 · 16 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.1K · <a href="https://t.me/SBoxxx/20608" target="_blank">📅 00:04 · 16 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20607">
 <div class="tg-post-header">📌 پیام #67</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/d9kkAjQNUftJCdr91m4LZpVBLih4hYBHxSGpckxB0JfquU_YG5j_ldVslF4wWq0pFvYRUR59t8zO24vDf_ralWBO-e71OLQOXYYxQNoHadllodieTgsvIUmw6-DpZp9NNk1ryeBvw63m68c7sFweL6oTUflw4F2CXIrId14GSML2iSBTY6q6CU6ay3iE1jAp64jjEFsEOeX17mfGhBXQcGPrY4Phxz7gHn5bWcAlbahgtSlMsNvFUwniAr1g_q8XNV0mzw2U-gt6kQOnRHU2Due3UdlMbHMaidPQtRMbb6XS0XVEezhsDNJep0Wg-ZOSvl4Fyp6jCG6Hz22yDmlg5w.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محسن رضایی:  در روزهای آینده منطقه‌ی ممنوعه خارج از تنگه‌ی هرمز را اعلام خواهیم کرد.  این منطقه‌ی ممنوعه از خط محاصره‌ی دریایی آمریکا شروع شده و تا مناطقی در خلیج فارس امتداد خواهد یافت.  هر کشتی که وارد این منطقه‌ی ممنوعه‌ی جدید شود، به فهرست هدف‌ها اضافه…</div>
-<div class="tg-footer">👁️ 5.21K · <a href="https://t.me/SBoxxx/20607" target="_blank">📅 23:08 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.22K · <a href="https://t.me/SBoxxx/20607" target="_blank">📅 23:08 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20606">
@@ -582,21 +582,21 @@ Wall Street Journal
 <div class="tg-post" id="msg-20605">
 <div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">سردار رضایی:   ایران عمدا تصمیم به غرق کردن کشتی‌های آمریکایی عبوری از تنگه هرمز نگرفته است، زیرا آنها حامل نفت هستند که می‌تواند به محیط زیست آسیب برساند.</div>
-<div class="tg-footer">👁️ 5.02K · <a href="https://t.me/SBoxxx/20605" target="_blank">📅 23:05 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.03K · <a href="https://t.me/SBoxxx/20605" target="_blank">📅 23:05 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20604">
 <div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">سردار رضایی:
 ایران عمدا تصمیم به غرق کردن کشتی‌های آمریکایی عبوری از تنگه هرمز نگرفته است، زیرا آنها حامل نفت هستند که می‌تواند به محیط زیست آسیب برساند.</div>
-<div class="tg-footer">👁️ 5.04K · <a href="https://t.me/SBoxxx/20604" target="_blank">📅 23:00 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.05K · <a href="https://t.me/SBoxxx/20604" target="_blank">📅 23:00 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20603">
 <div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/jncONQvLCAY0zy5fTzYgvdRkoSdNdJuy4KpXamYp9fSdLiY16zHnAaqaB1k8yVergdzC8jxOxojlwC_DL3-0mambrsPFOupbosaIGzIgbisNRsuDcmIrkU-4yDvKG5DC7NYtgONCxa-VPgwgV_f1Ak9orLzzM88ojgC-UvQqsMNyHKN6_qNBmYJ7Pf7ParO0aOZxKoSohqlRtxu1Vzp8Z7GkTkGzk0o8XHiFDpZmehA8rcMnccJRkXsl820xBjLFGbgZMba-pj68-oN8Txf2wQq_LH8aAYHtspC3liRO6xOBX0PTCLViAX35oK3LW5HwkV6kmtUr04k0kcL0gyvcrw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">محسن رضایی:   برای اولین بار موشک خاص و ضدناوشکن ایرانی آزمایش شد  ۴۸ ساعت پیش برای اولین بار موشک ضدناوشکن ایرانی را بالای سر یک ناو آمریکایی آزمایش کردیم.  این موشک خاص، جهنمی برای آمریکایی‌ها به وجود آورد و فرار کردند.</div>
-<div class="tg-footer">👁️ 5.33K · <a href="https://t.me/SBoxxx/20603" target="_blank">📅 22:49 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.34K · <a href="https://t.me/SBoxxx/20603" target="_blank">📅 22:49 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20602">
@@ -604,13 +604,13 @@ Wall Street Journal
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qONR-Z2r8JpsHaWd-0Og6oOM5cWowykWKbgBePlHvN0JJ87mfVvnk0eaq3hAkZuNPW8ZFQGID3JQqh2kZFN_Y9RBaJiX3Ra_1e5Mu2DWebh94fh7Z0bP0AThesDvnhm_pGYBa3Xwc9iPztTIZTCTKUOYCybZlLIdT7SFf5gI-tQ0AEtmXPhmvGh-1aghUkAdI0nd8wwQ9xlgxzGN0zyq4RmN0uSwJOK_eBzYRaJ-whxKH-jaQ-Hct7_ZwamEDVzIpiFrdZD7aiFyLV1xCYIllCwuAJpZKJgb0RO97s6Nhb9-qpPH9AsNso3Bu3zOwfFJLa2Us9o-9Bs2WJZ03NHJtA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">ترامپ با انتشار این پست مدعی شده که بخش عمده نفت عبوری از هرمز به سطوح پیش از جنگ برگشته است!
 به نظرم دروغ می‌گوید چون قیمت نفت خیلی بالاتر است</div>
-<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/20602" target="_blank">📅 22:40 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SBoxxx/20602" target="_blank">📅 22:40 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20601">
 <div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">محسن رضایی:  در روزهای آینده منطقه‌ی ممنوعه خارج از تنگه‌ی هرمز را اعلام خواهیم کرد.  این منطقه‌ی ممنوعه از خط محاصره‌ی دریایی آمریکا شروع شده و تا مناطقی در خلیج فارس امتداد خواهد یافت.  هر کشتی که وارد این منطقه‌ی ممنوعه‌ی جدید شود، به فهرست هدف‌ها اضافه…</div>
-<div class="tg-footer">👁️ 4.91K · <a href="https://t.me/SBoxxx/20601" target="_blank">📅 22:38 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 4.92K · <a href="https://t.me/SBoxxx/20601" target="_blank">📅 22:38 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20600">
@@ -623,7 +623,7 @@ Wall Street Journal
 <a href="https://cdn4.telesco.pe/file/26516f3c08.mp4?token=R16jJ5hrgQ-J6-dfTJVEbk6WF4hZ8H2to_WQL1WsTOIglEL_fZeFzFgPkSNKjYRGeXa8FbwYQKnUc-48QVTz5Yd7VQp8YXc3375Ey-jLVSn4Kjt5YbGT48i84089gR9FMW6bX9Wo18dC1bV8GGXdHW-SpreCKe00bRS3ojtrEGeLk13iIKFL4vbBrG33GJAX549xczSLGbgtbET8j41KUyMfaFiYk_9qM8mOihSvJqnajopTm90PhUX6TmIDoQynPlwD2en-jxgE7W80gQ5Vc6ooAnyTKbNWV32OkIuh-FwPYyt5OHAe-OafuC3wAyUoOackEP7Z2jXiVowI-QOGLQsmCWV2xmMZIxV9HR98RnrkVF__4YD1auOczH1cP7jBkQ0x48V1Lce7BWYisJBZ8b6tzapGVJ6L6l8XSJwCsPWFebYLdn5-Be_0clR2_ER6Kaidz5yrsVZDbxfj_ONnUf9AP0FDMM1DMC6amsBx3677MrXhNmLj2iSgX0RfH25pv8WwUuFrIRhjz-g40ygSa3BBSop2ikA0USaPqW88Z1iHNNmY6Twtfja3AcHjwnWj0yj4WoFvMv1kK1pIHjH_5q-zrFsXPjnWqx__lGPVbPKWg5L1sPCKRbzTvydbt1QWqEU4kZ8bUQVuGOpFHMGFno8b2JbTDgEqPmeVwbKokL8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">محسن رضایی:  در روزهای آینده منطقه‌ی ممنوعه خارج از تنگه‌ی هرمز را اعلام خواهیم کرد.  این منطقه‌ی ممنوعه از خط محاصره‌ی دریایی آمریکا شروع شده و تا مناطقی در خلیج فارس امتداد خواهد یافت.  هر کشتی که وارد این منطقه‌ی ممنوعه‌ی جدید شود، به فهرست هدف‌ها اضافه…</div>
-<div class="tg-footer">👁️ 5.31K · <a href="https://t.me/SBoxxx/20600" target="_blank">📅 22:36 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.32K · <a href="https://t.me/SBoxxx/20600" target="_blank">📅 22:36 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20599">
@@ -636,7 +636,7 @@ Wall Street Journal
 <div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">محسن رضایی:
 ما موشک ناوشکن‌مان را بالای سر یک ناو تست کردیم و آمریکایی‌ها وحشت‌زده فرار کردند.</div>
-<div class="tg-footer">👁️ 5.25K · <a href="https://t.me/SBoxxx/20598" target="_blank">📅 22:28 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.26K · <a href="https://t.me/SBoxxx/20598" target="_blank">📅 22:28 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20597">
@@ -646,20 +646,20 @@ Wall Street Journal
 اوضاع درست می‌شود!
 در همین حال، ما واقعاً به آنها ضربه خواهیم زد؛
 اکنون نوبت ماست که حمله کنیم.</div>
-<div class="tg-footer">👁️ 5.8K · <a href="https://t.me/SBoxxx/20597" target="_blank">📅 21:05 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.81K · <a href="https://t.me/SBoxxx/20597" target="_blank">📅 21:05 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20596">
 <div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/b3vFO8a2wsqQ6iUBtZpt-goS2Bc-sr6wBbXzQKc9hZPhozTPoDz0GFM_Avyr6b1tPzmJ1rWjcmj_nhnzcBA-9KFYqcdHKBCFvZS4Rn6xOk8n-yN_Hjbf7fv9BnffrRlU3Wts2j5mqpxdm6I3GGk-mI8FbBfh72zyvNXPDtg0ObeQAIuagkAdwIJq2euKVwp3CF02ydrIm_ASDZQ4UBTQT5bSG4K6cQzG0FnjQyulkV0mZ21t_NsQ_Zp9fP4Rep6fhZmdUbePqM4cWScEg7EJxI1AoqAjcO-occRnJcOtM4BP7kCiUmM3GJFybeiyFagmBjyBZDQXGhs3k4CFKqKzJg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">یک هیئت قطری به سمت تهران حرکت کرد</div>
-<div class="tg-footer">👁️ 5.67K · <a href="https://t.me/SBoxxx/20596" target="_blank">📅 18:44 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.68K · <a href="https://t.me/SBoxxx/20596" target="_blank">📅 18:44 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20595">
 <div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">یک هیئت قطری به سمت تهران حرکت کرد</div>
-<div class="tg-footer">👁️ 6.21K · <a href="https://t.me/SBoxxx/20595" target="_blank">📅 18:37 · 15 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 6.22K · <a href="https://t.me/SBoxxx/20595" target="_blank">📅 18:37 · 15 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20594">
@@ -989,7 +989,7 @@ pinned an audio file</div>
 <div class="tg-post" id="msg-20551">
 <div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-text">مثل این است که یک مرد مدتها با یک زن غرغروی منفی باف گوشت تلخ زندگی کند و با کلی بدبختی و پس از سالها صبر از او جدا بشود و بعد در ازدواج دومش هم با دختری با دقیقا همین مشخصات ازدواج کند و همان فحشهایی را که به اولی میداد به دومی هم بدهد!</div>
-<div class="tg-footer">👁️ 5.16K · <a href="https://t.me/SBoxxx/20551" target="_blank">📅 18:39 · 13 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 5.17K · <a href="https://t.me/SBoxxx/20551" target="_blank">📅 18:39 · 13 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-20550">
