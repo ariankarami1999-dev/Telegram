@@ -288,15 +288,425 @@
 <div class="tg-channel-header">
 <img src="https://cdn4.telesco.pe/file/QMG8LJBZNzAHxu-odr1Wh9vtowLgAVmEdLF5Std5b6KpTAqDYx0f3W4FvEK-XR6tpI4eXgkk0GeShH3JKmVwCVzeejE1r4IOzh4q9GHAHvXd3TgR8_RGU7gwyM4CBhjQmqDt614TMgEcHU_g9XW_2661nI1VHIPX55RUwDgegMhZ585-JRI-G2uqogmTD4VkQRx7SfonqBWPeZ2GYGhjolBEh4o3FHteHjyMPOp3yM_UINNYjbW1HiT6RXgzaB5prhVpY9NcDl3WH8f0CcCyeN1OgfZIamWriv2K5-8LYSDR166NozTmEuLBCEZz5mQFej_jxlQk--kDIj_FBv7PLA.jpg" class="tg-avatar" alt="avatar"/>
 <h1>📡 اخبار جنگ الونیوز AloNews</h1>
-<p>@alonews • 👥 924K عضو</p>
+<p>@alonews • 👥 923K عضو</p>
 <a href="https://t.me/alonews" class="tg-telegram-btn" target="_blank">✈️ باز کردن در تلگرام</a>
 </div>
 <div class="tg-channel-desc">📝 با الونیوز از اخبار جنگ و وقایع در چند ثانیه مطلع باش!اخبار جنگ بدون سانسور در الونیوز👌جهت رزرو تبلیغات👇https://t.me/ads_alonewsپشتیبانی کانال🕵️https://t.me/AloNews?directمالک کانال🎩@AloNewsBotX:https://x.com/AloNewsBot</div>
-<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-18 15:07:03</div>
+<div class="tg-last-update">🕐 آخرین بروزرسانی: 1405-06-18 19:06:53</div>
 <hr>
 
-<div class="tg-post" id="msg-146480">
+<div class="tg-post" id="msg-146516">
 <div class="tg-post-header">📌 پیام #100</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/UmAleP4XGJtkgAWwLEgDzkWQjPHPYYtxMG2UqPINYfNP7Bg1FmwGauZ1S_4tWUBrp-mLqzBiogZEHGfCDQ0kG9oL2IjG0_z2MjHLKlEACzTOJ75fVJyN4AHCpIW_NBuByzJAStLDlTMLbmsy5owutcEZatDFrfGwe05bUZ8rYQdozbMsm7ZnQ3kR2CoMKDaqmSrYetMvHYbGj0Q525IkTaunWplN63J_5QAT54GNz9wmyeQIIW0bg2eRuq9K8a_fuS_ZsuY_E6D1Flmzec0SipOCYVPmY2B-S4Fte72PYPHjeYvatsoEJKx7PbFsy6lntLCriT-Wxt283tCpuODwDQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+نفت 101 دلاری شد.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 3.08K · <a href="https://t.me/alonews/146516" target="_blank">📅 19:03 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146515">
+<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-text">👈
+تعدادی از ژنرال‌های پاکستانی در حال حاضر در ترکیه حضور دارند و احتمالاً جلسه‌ای در مورد تحولات یمن برگزار خواهد شد.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 13.3K · <a href="https://t.me/alonews/146515" target="_blank">📅 18:50 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146514">
+<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/m5n7wGoXRbtXQmqq-UDTSVOyQJHpTSxfRSlMj7KQ0jUm-7R3HMgva6L8LZkCCf6nz120MBb6v44z3rqcysGAqm4CyOrt-imDErP_dyxsJCNFZtwfLEtiKlIYTTN_tECYGbc4RiHeT6UoObNVgrBhCpHUYw2ageWzKCYznhLKFaAa6Xf5iYUiW5bm1M9Bz01d7PjiPZbNNS8FWscybadnME-0Watp5ViSqPqk-rhDhH8cxd2OguuQzZHJtUSzK9WLrH14M2CHwBMqQgXLUYUHjVB_zjW0ywuBzE2bh5HmUEyITIsruWkfTzH92cRtobzCXHC5G7c8DtuNQpTOouQkog.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+آکسیوس گزارش می‌دهد که بسیاری از جمهوری‌خواهان و دستیاران کاخ سفید تا حد زیادی از تلاش برای مهار پرزیدنت ترامپ دست کشیده‌اند، حتی در حالی که به‌طور فزاینده‌ای از شهود سیاسی او تردید دارند.
+«
+چرا زحمت بکشیم
+؟» یک مشاور بلندمدت گفت. «
+رئیس اونه
+.»
+با نگرانی جمهوری‌خواهان درباره انتخابات میانه‌ها، دستیاران به‌طور فزاینده‌ای «
+از خواسته‌های او پیروی می‌کنند».
+یک اهداکننده این پویایی را این‌گونه خلاصه کرد: «
+هرچه بخواهد، به دست می‌آورد
+.»
+با این حال، افراد درون‌کاره ایده‌ی کمرنگ شدن ترامپ را رد می‌کنند. یک مشاور با استدلال اینکه ترامپ حتی پس از پایان دوره ریاست‌جمهوری‌اش «شخصیت سیاسی غالب» باقی خواهد ماند، گفت: «کاهش ارزش ترامپ را به خطر بیفتید.»
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 17.4K · <a href="https://t.me/alonews/146514" target="_blank">📅 18:42 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146513">
+<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/4c6836a952.mp4?token=p2W41eDEwydQ8hqqFs6MPN9a2M_4mT_GQnZwfsxEe4TkaiampfNjtAv6dIR2TOlO8fLxw-1LR92erz6ge_-L4XIjpx3ArXb2HSKLL7KGzaq06N8JikZZqn28_ZsZwZ83Z_amyeEY5GvBPDKXZlkY9DdOVU3JIbTlhqaHLbMN6qNpBeljQsUBDwXT2wWvj8vvCF2AdGeeUc8VJFGlQhjGNiGZBX14q5r_a8BzIwK9G5hoN7WgSoLLDSytJ6geIzFtzJNarjXSdDHvrJ-KuLQR67f-b9LKB-jPeK4E0V4iwDTVF_BNwTQQHK-ztgKZhLYgtl17FKWb0D4IRxTXKSV0ew" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/4c6836a952.mp4?token=p2W41eDEwydQ8hqqFs6MPN9a2M_4mT_GQnZwfsxEe4TkaiampfNjtAv6dIR2TOlO8fLxw-1LR92erz6ge_-L4XIjpx3ArXb2HSKLL7KGzaq06N8JikZZqn28_ZsZwZ83Z_amyeEY5GvBPDKXZlkY9DdOVU3JIbTlhqaHLbMN6qNpBeljQsUBDwXT2wWvj8vvCF2AdGeeUc8VJFGlQhjGNiGZBX14q5r_a8BzIwK9G5hoN7WgSoLLDSytJ6geIzFtzJNarjXSdDHvrJ-KuLQR67f-b9LKB-jPeK4E0V4iwDTVF_BNwTQQHK-ztgKZhLYgtl17FKWb0D4IRxTXKSV0ew" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+شعاری که دیشب گروهی از حامیان حکومت‌ تو شب نشینی شبانه می‌دادن :
+🔴
+تو تاریکی می‌شینیم، ذلت نمی‌پذیریم.
+🔴
+بنزین رو کم میگیریم، ذلت نمی‌پذیریم.
+🔴
+دلاری گوشت میگیریم، ذلت نمی‌پذیریم.
+🔴
+مهریه کم میگیریم، ذلت نمی پذیریم.
+🔴
+پ.ن: این جماعت ۱درصدی رو باید صاف فرستاد یمن تا برای میلیون‌ها ایرانی نسخه نپیچن
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 24.1K · <a href="https://t.me/alonews/146513" target="_blank">📅 18:30 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146512">
+<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JOlv4L2GpttlrVuajrdCdtd5s0S_dD85CzRI1nDrGIS6zdiBa6VJgUg9k4vegns7jVroEoXC1PhDnPJlm3G9bs_pjBvgA87fUEN6QMU4G5O_mqlrRT8zp_DpwAiHSX6bU0cxVrvhfmPlIcpa1cWXqqwIyO9BH7cGbJyWDwbPZvCkJZDdj37JIEs_82sCiRtBFxDDvJAO4itOoYhpNWl-7Hj0t-ZYP6nXvWKxjEaMS1_SpRjRXwzGzWE6MJWakEYplOLkavdVbzbPzAWm8FDymv8EyvEekJ8JYwggVhkyC-guntjZH3P68OidxyPozgVEslA0wNv7du_NimHNWsxvqw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+تانکر ترکرز :
+آمریکا در این دور حملات شش نفتکش ملی ایران و ده نفتکش دیگر مرتبط را هدف قرار داد
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 27.6K · <a href="https://t.me/alonews/146512" target="_blank">📅 18:17 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146511">
+<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/IuxgwAq2loJ8nkC49wJNnpX8HO7aacRrjVviOB64jRfsX0mh8WXvTYWmc2qekz2VpBCwdi0eIAlWO8HhZRyjl3Kc-jE1mRD7VvSUCnB3ocqBhnq6LoAquTMRf0q4PjeE3x27j-651lmijdhsiszHnnGQyRfSuo1HwRDVUV75yR-YPay4d_JTpDFRRTUqYHEVDinmSAgLW-nazaY6e2ITaYhmj5tgWhaQ95RWrmlaESMwK06_Y1quonXk_d88S5mJ_TJWPDiuYNsVHbaYkGw5ZwMrmc-sPZOilOKMPfyJvM55Y0oNAJTQ45jGAA2-UV9XU8JqcMZlZT6CeG2WbCwimA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+اسرائیل در حرکتی ناگهانی اعلام کرد تونل های کوه علی الطاهر از کار افتاده‌اند و نیاز به انفجار آنها نیست و به پشت خط زرد عقب نشینی کرد
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 33.7K · <a href="https://t.me/alonews/146511" target="_blank">📅 18:03 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146510">
+<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-text">جالبه دیروزم ترامپ میگفت دیگه ایران اصلا نمیتونه با این وضع سلاح هسته ای داشته باشه  یعنی حالا توافق هسته ای هم نکردیم، نکردیم!
+🆔
+@AlirezaMehrabi_ir</div>
+<div class="tg-footer">👁️ 36.7K · <a href="https://t.me/alonews/146510" target="_blank">📅 17:55 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146509">
+<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qNQFD5XYw81kdJHM14lUwKo7DFZRxCKjeSqBkQgvFRePQbz8GDWzhANZPMVLFXhkBHErIaB15CUt8ynM9KVjmBfb6M-pNHvEa55deaTzvS5ioWgJ2V_MFdtD4Gj25h8ihwo6vu3xDWdx6vjHrLGSsubB1j3MeXEKZ3NYkqTF5q9f5Nf3eSXOzRCBA2iNBajnxgaw95pqupx1BqVcKJmdtAVwxyJ511UhvDA-bBMyrwqHYmfFE3kUVekILtddTYAZECJ2z1_WY6kdf2fbWqnMUVTr6ZzXIw_pHzmxvbQl-sI1VX8iPYokj3FC96fGZmT9D110_ovVmwAaPEFkO6quDA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+تعدادی از ژنرال‌های پاکستانی در حال حاضر در ترکیه حضور دارند و احتمالاً جلسه‌ای در مورد تحولات یمن برگزار خواهد شد.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 37.8K · <a href="https://t.me/alonews/146509" target="_blank">📅 17:52 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146508">
+<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-text">👈
+رویترز: در پی حمله به نفتکش «هرکولس استار» در نزدیکی دبی، یک نفر کشته و یک نفر دیگر مفقود شد
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 38.8K · <a href="https://t.me/alonews/146508" target="_blank">📅 17:43 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146507">
+<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-text">👈
+اعزام سوخت رسان های آمریکایی به عربستان!
+🔴
+طبق گزارش ها چندین هواپیمای سوخت رسان آمریکایی در حال ورود به پایگاه های آمریکا در عربستان سعودی می‌باشند.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 39.8K · <a href="https://t.me/alonews/146507" target="_blank">📅 17:37 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146506">
+<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-text">👈
+روزنامه جروزالم پست:
+اسرائیل در حال حاضر خودش رو برای یک حمله چندجانبه از سوی ایران در روزهای آینده، همزمان با سال نو یهودی که برگزار می‌شود، آماده می‌کند
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 41.9K · <a href="https://t.me/alonews/146506" target="_blank">📅 17:26 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146503">
+<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-album">
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/mJEvji_jHPO4UT2Ik0cjc1XJMNuyQBXQDGKW9YynY0z_bJomsUnm9x21mnO2wzN4a1Ee6VdoMplBumVnUPaZt-Pu2D_3oIxKUwkwFsiJycrp-3f4d65z8WPsTOKSq12DYrrhm1_EQ0TCUSSsZe1NX3-FpMZn0ZLtmCwz4IAEAnUGD65kD0Tz6nkbCfIzVcsQ6LWN7fUupoa-MeEZeLGSz-a79iycpgHdHgwzcPsffaQFEiL5253rcYSS-780vI-JfhD20v3bybVgV_uA5-EZ5L4oZCQQhJSq66u7tyeM0ImlgljTJdYBe-ROxIWwzvGwwgrKTLigjzSnOZ-zdF7vag.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/mBSvzj7czB-c7Lm03Mp7yaJTxqKbjYLY9G1M-eBpXTawykELZjt09C9t_KxpovuJoKkE4bSO3_aa6HjZ8zc2OHNmNmYNXj3IgJM0qo-foSr4yEuulgAweBvUeqOkC-8f7QBtL8QXkgWNZ71mRf1HStuSycrEKeHYtESZ8udMl2nev3fywy_wW3wFwUZ_8SWFGlyRnexwOBKB1HCLfB_ej9cOsp-WizWt0JJzoialaQ9hQ6Nz-u3MYfb3VKpaM85VP1BuqdNig8Vq9CXepNqOTf7i4_kPzqUCPJkxWm0tySTQ8mGPIE-NAMYKennNFeNxFY7_ur6d3ev2Kkm-MhDBFw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/qLTeNoMLgxQdTVQ-RH9E2BQ7C5KaBZg-I2aDancUcgMfARkHcIDYqELpA_RPMzcQfgWarvi_o0psT8RiA-_UHAlZ8oC58zV6qop-Cdt9UgvScRyfuUqvbzZlUWk7SOyGOEnbA1hE4nEvUNJh9MSk_aBV6h00BOSHETJ1cCrALRKyxkjcgx0nxrvLhXxWTMAQLOqRhXVWlzBfnyZb2zE7gp6bZleRT6E1spbBrmtr7MG4aBb6EeDsHrYL4RbMvhoNSMxS0Udg8Ie3XTSneiIu-isGkr9T7Xpj_Q25P6CkoFnoSPrLfL9jUGzI_tmZVno29AOLYWfMD8YR3M_S3-kYkA.jpg" alt="photo" loading="lazy"/></div>
+</div>
+<div class="tg-text">👈
+نتانیاهو و کاتز، وزیر دفاع، از قله کوه هرمون در سوریه بازدید کردند.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/alonews/146503" target="_blank">📅 17:21 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146502">
+<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-photo"><img src="https://cdn1.telesco.pe/file/guQAvN8Nxy-p9wfUJTkYaLfPPaLPJfrdre84NCwc9dNcELGhRhkSiTqflcEXKujvQo7pRLg_nsoiGGjjxsc9VDSLSOk9bWhdqw9LKBvnHb_EOPFwkExOnWIehjwDwOabI8WfuwISLB2ZpzjHjJMq7ieZ_CeeB6GK_9Se5Upl3LFDCpCvR_tqkLBQ1uN6EeK5NJb1zR4KF9d4-v6zi9niRlHk8KYXlKDiAap_CP2KQ0SvsmSXuJ6U7SDAN0ON0jAH1jrhHF5zHO4rVXAfF7p6NGqfcH7RHnGQ7A4mapM9ZwViGAXATq49E6IzqW8BDH6rJ22N6cL8_5mevjfTdc4-iw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+قبل از رونمایی رسمی، مشخصات آیفون ۱۸ لو رفت!
+نکته قابل توجه اینه که رسما از آیفون فولد(تاشو) رونمایی شد.
+آیفون ۱۸ پرو توی چهار رنگ گیلاسی، خاکستری، سفید و مشکی معرفی میشه.
+قیمت پایه آیفون ۱۸ پرو: ۱۱۹۹ دلار(۲۸۰ میلیون)
+قیمت پایه آیفون ۱۸ پرومکس: ۱۲۹۹ دلار
+(۳۰۵ میلیون)
+این قیمتا بدون گمرک و... هست، وقتی وارد ایران باشه حداقل ۳ـ۴ برابر این قیمتا خواهد بود.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/146502" target="_blank">📅 17:06 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146501">
+<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-text">👈
+مجتبی یوسفی، نماینده مجلس: خودروی چینی بی‌کیفیت رو دو برابر قیمت به مردم فروختیم
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/alonews/146501" target="_blank">📅 17:00 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146500">
+<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-text">🔴
+دلار بزودی 300هزار میشه
+⁉️
+🔴
+تحلیل ترسناک نوستراداموس ایرانی
+👇
+🔴
+https://t.me/AlirezaMehrabi_ir
+🔴
+https://t.me/AlirezaMehrabi_ir</div>
+<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/alonews/146500" target="_blank">📅 16:58 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146499">
+<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-text">👈
+ارم نیوز: آمریکا در حال بررسی حضور تفنگداران دریایی خود در برخی جزایر خالی از سکنه ایران در اطراف تنگه هرمز است
+🔴
+در صورت اجرای این طرح، جنگنده‌های اف‌ـ۳۵بی مستقر در ناو تریپولی وظیفه پشتیبانی هوایی از تفنگداران را بر عهده خواهند داشت.
+🔴
+هدف این طرح، ایجاد نقاط دیده‌بانی و پایگاه‌های لجستیکی برای نظارت بر تنگه و حفاظت از کشتی‌های تجاری عنوان شده است
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 43.9K · <a href="https://t.me/alonews/146499" target="_blank">📅 16:55 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146498">
+<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-text">👈
+شرکت نفت کویت، این امکان را به خریداران ارائه می‌دهد که انتقال بار از یک کشتی به کشتی دیگر در خارج از تنگه هرمز انجام شود تا حمل و نقل ایمن‌تری به مقاصد نهایی تضمین گردد.
+🔴
+این شرکت اعلام کرده است که برخی از کشتی‌ها همچنان در شرایطی که ایمن است، از طریق این تنگه عبور می‌کنند، در حالی که انتقال بار از یک کشتی به کشتی دیگر به عنوان یک گزینه جایگزین ارائه می‌شود
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 42.9K · <a href="https://t.me/alonews/146498" target="_blank">📅 16:54 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146497">
+<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-text">👈
+اوکراین در حال عقد قرارداد برای دریافت حدود هزار موشک رهگیر پاتریوت با تأمین مالی اتحادیه اروپا است.
+🔴
+با این حال، تحویل این موشک‌ها در کوتاه‌مدت انجام نخواهد شد و کی‌یف به همین دلیل از کشورهای غربی خواسته بخشی از ذخایر فعلی خود را فوراً در اختیار اوکراین قرار دهند.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/alonews/146497" target="_blank">📅 16:40 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146496">
+<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-text">👈
+روزنامه جروزالم پست: اسرائیل در حال حاضر خود را برای یک حمله چندجانبه از سوی ایران در روزهای آینده، همزمان با سال نو یهودی که برگزار می‌شود، آماده می‌کند.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/alonews/146496" target="_blank">📅 16:35 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146495">
+<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-text">👈
+وزیر امور خارجه اسرائیل، گیدئون ساعار: اسرائیل تنها کشور دموکراتیک در خاورمیانه است
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 47K · <a href="https://t.me/alonews/146495" target="_blank">📅 16:27 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146494">
+<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/b6573f5e81.mp4?token=iUbLPRi_i7QaiNlZFhZLN_hY8gArBpx9U_u5GIJm6tALPHHZhndXSSt63dgXrPHOScMiPBS_9iq_5sXrlC6bwCmZspgNBgq7MxKYoNIbXvP7CT2n-hFPRU-xGPLV7XJxP86pPcNZKPQAfJIIl6q9eeCY5BkpPa3Lz1t6TnWDzAu-4JxaG6LLptruuKVf5zY-DaIt3PuwWcWbvqXti17AfSWPzyykd2L9KaQcjct7w6TCzAJD4e1DCThPMmqBxJXsE_uSP1A7YdoaKmf_5uiHhZTarPIXk3jHizW79N4VPTEWY1phkDOvlMM-vtdQrU8vx4qNj8urFwm8Cc3dCYMwfA" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/b6573f5e81.mp4?token=iUbLPRi_i7QaiNlZFhZLN_hY8gArBpx9U_u5GIJm6tALPHHZhndXSSt63dgXrPHOScMiPBS_9iq_5sXrlC6bwCmZspgNBgq7MxKYoNIbXvP7CT2n-hFPRU-xGPLV7XJxP86pPcNZKPQAfJIIl6q9eeCY5BkpPa3Lz1t6TnWDzAu-4JxaG6LLptruuKVf5zY-DaIt3PuwWcWbvqXti17AfSWPzyykd2L9KaQcjct7w6TCzAJD4e1DCThPMmqBxJXsE_uSP1A7YdoaKmf_5uiHhZTarPIXk3jHizW79N4VPTEWY1phkDOvlMM-vtdQrU8vx4qNj8urFwm8Cc3dCYMwfA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+نیروهای ائتلاف جنوب، نزدیک به امارات، سعی کردند طاهر العقیلی وزیر دفاع یمن را که مورد حمایت عربستان است، گروگان بگیرند
+🔴
+این دو نیرو علیه انصارالله یمن با همدیگر متحد شده بودند
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/alonews/146494" target="_blank">📅 16:19 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146493">
+<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Zt6FRjLKujET_MT5KsYq8M9e6Nz-QMA929WHtD7tZRw-y9XLNxMZIH9MwUH7uj-G2Z-sfqtUv0sIjHRodyK3eVdnIuFDbl1gaaOvx6GQx05UBP4Hh8Mx2EYgCbraQq0VytNGecTRYW5mIqjptWk_kslrARbv5h3sVxUlGdH_llBWQITZodlQeVHyaGjVR-waaGlDLF1KdBt9LxbwpwCrjdDZhx9m6jB4M3jiqidTNrgWL_nCS5KRWfVywR92OoVSdrhSuqGp9IrV6_lZhNuue6DW_TriH9h7IUVYYUs9Ypy_JYFyE6x2IzXBpGvIkeBrYRIpQ10Q6BBNru8DrZQq9Q.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-text">👈
+روزنامه ایران، چاپ شهریور ۱۳۸۲
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/alonews/146493" target="_blank">📅 16:18 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146492">
+<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-text">👈
+شعار در شب نشینی‌های شبانه
+دلار بشه یه میلیون
+تسلیم نمیشه ایرون
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/alonews/146492" target="_blank">📅 16:13 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146491">
+<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-text">👈
+رویترز: در پی حمله به یک تانکر حامل محصولات نفتی به نام "هرکولِس استار" در نزدیکی دبی، یک نفر کشته و یک نفر مفقود شده است
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 46.9K · <a href="https://t.me/alonews/146491" target="_blank">📅 16:12 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146490">
+<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/4fc965eb9f.mp4?token=Lf1mz2OjvZcrOcqNWjxTtL2RAedj5i9v7z2cQYmZbFlw_auHW3XC6xP05GQZhm20LC2kqn7oDqIyHfJV_6DOs5NWcY_3P0y-lNarZnLLUUAp-_fjvBGwn33fra4Da0LWUnSVzenO6LJeRw1R-lnZBFG3WYThe5K8P44Y74P3O_HN8PB-F4I4eU42esIOQD8uFpvXiHnR7VtiQJolqzR8MmMO1HsKNJxAzvpoWaXH7rsjSJNMKF9tieqtkZxeolo8U51jodgdcZAJAUOYlr-BnKrbBPzwLGDqH1Uub3wxp-ieeYXrgt-BQDF4VW22eUDpmP3DdYqXeuFDJT9p9GYi_Q" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/4fc965eb9f.mp4?token=Lf1mz2OjvZcrOcqNWjxTtL2RAedj5i9v7z2cQYmZbFlw_auHW3XC6xP05GQZhm20LC2kqn7oDqIyHfJV_6DOs5NWcY_3P0y-lNarZnLLUUAp-_fjvBGwn33fra4Da0LWUnSVzenO6LJeRw1R-lnZBFG3WYThe5K8P44Y74P3O_HN8PB-F4I4eU42esIOQD8uFpvXiHnR7VtiQJolqzR8MmMO1HsKNJxAzvpoWaXH7rsjSJNMKF9tieqtkZxeolo8U51jodgdcZAJAUOYlr-BnKrbBPzwLGDqH1Uub3wxp-ieeYXrgt-BQDF4VW22eUDpmP3DdYqXeuFDJT9p9GYi_Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+امروز، چندین حمله هوایی عربستان سعودی، مواضع حوثی‌ها (انصارالله) را در جبهه مریب در یمن هدف قرار داد، این اقدام به منظور حمایت از عملیات شورای انتقالی جنوب (PLC) انجام شد
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 49K · <a href="https://t.me/alonews/146490" target="_blank">📅 16:06 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146489">
+<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-text">تتر توی برخی صرافی های ایرانی تا ۲۴۰ هزار تومن هم معامله شد
+🆔
+@AlirezaMehrabi_ir</div>
+<div class="tg-footer">👁️ 48K · <a href="https://t.me/alonews/146489" target="_blank">📅 16:01 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146488">
+<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-text">👈
+الجزیره به نقل از یک منبع عراقی: هدف قرار دادن نفتکش در آب‌های سرزمینی عراق، در نزدیکی بندر العمیه در بصره، رخ داده است.
+🔴
+نفتکش هدف قرارگرفته حامل ۲ میلیون بشکه نفت عراق بوده و در منطقه بارگیری قرار داشته است.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/146488" target="_blank">📅 15:50 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146487">
+<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-text">👈
+حوثی‌ها (انصارالله) اعلام کردند که یک جنگنده سعودی از نوع F-15SA در تاریخ 7 سپتامبر، دو بار به زندان مرکزی در شهر ال‌حزم، واقع در استان الجوف، حمله کرد و در نتیجه، تعداد زیادی از زندانیان و بازدیدکنندگان، از جمله زنان و کودکان، کشته شدند.
+🔴
+آنها گفتند که این هواپیما ساعت 16:30 از پایگاه هوایی خالد در خمیس مشیت برخاست، حملات را انجام داد و ساعت 16:45 به پایگاه بازگشت.
+🔴
+این گروه هشدار داد که عربستان سعودی به دلیل این حمله مرگبار، با عواقب روبرو خواهد شد
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 53.1K · <a href="https://t.me/alonews/146487" target="_blank">📅 15:44 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146486">
+<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-text">‏
+👈
+سی‌ان‌ان به نقل از منابع آگاه: تلاش‌های آمریکا برای تدوین برنامه‌هایی برای حملات قاطع علیه تأسیسات هسته‌ای زیرزمینی ایران ادامه دارد.
+🔴
+‏این تأسیسات زیرزمینی احتمالاً به عنوان پناهگاهی امن برای برنامه هسته‌ای ایران طراحی شده بود.
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 52.1K · <a href="https://t.me/alonews/146486" target="_blank">📅 15:40 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146485">
+<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-text">🔴
+نمیخوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چ‌خبره
+آیدیش:
+@khabar</div>
+<div class="tg-footer">👁️ 54.1K · <a href="https://t.me/alonews/146485" target="_blank">📅 15:34 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146484">
+<div class="tg-post-header">📌 پیام #70</div>
+<div class="tg-video">
+<video controls preload="metadata">
+  <source src="https://cdn4.telesco.pe/file/9810b14509.mp4?token=so6uyqdrsaNwFaJIGvZVL2fBYPgf53UtF5M85yu229M69zunkTFdd8BtrcKlsQ6jlWoiocO_ZKnp6AUzhPDKqAAiU_YHeRC-Xdnpfz_KNAxzXhUefdnXNCbHsPg1UWHWDrusjMH8KriMDltlrNIVrYN1gQXkEbzjgzjXd6eku1ZnLtSwZ7m1IMk6SLRso-f0FJVc8gMbk25G9PW9b6KXKn9S177qyI_IlEaUcoj9MJBg_1vb9FKeoH242SOfKEKA6HA8FC7sfSaoTbHDNxPzi_BFa6-DKvCrCVinAtZKCpTIg7Z2CAYZd7g_okpicTPwQkxoVaXHVUDmaz1dFSugAQ" type="video/mp4">
+</video>
+<br>
+<a href="https://cdn4.telesco.pe/file/9810b14509.mp4?token=so6uyqdrsaNwFaJIGvZVL2fBYPgf53UtF5M85yu229M69zunkTFdd8BtrcKlsQ6jlWoiocO_ZKnp6AUzhPDKqAAiU_YHeRC-Xdnpfz_KNAxzXhUefdnXNCbHsPg1UWHWDrusjMH8KriMDltlrNIVrYN1gQXkEbzjgzjXd6eku1ZnLtSwZ7m1IMk6SLRso-f0FJVc8gMbk25G9PW9b6KXKn9S177qyI_IlEaUcoj9MJBg_1vb9FKeoH242SOfKEKA6HA8FC7sfSaoTbHDNxPzi_BFa6-DKvCrCVinAtZKCpTIg7Z2CAYZd7g_okpicTPwQkxoVaXHVUDmaz1dFSugAQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+</div>
+<div class="tg-text">👈
+پیشروی ارتش ملی یمن علیه مواضع حوثی‌ها با پشتیبانی هوایی عربستان
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/alonews/146484" target="_blank">📅 15:28 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146483">
+<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-text">👈
+نیکزاد، نایب رئیس مجلس: با عمان درباره تنگه هرمز به توافق رسیده‌ایم
+🔴
+نماینده مجلس:  بخش قابل توجهی از تنگه در مسیر ورودی و خروجی در اختیار ایران است؛ حتی پادشاه عمان این را پذیرفته
+🔴
+زلف تفاهم‌نامه اسلام‌آباد به تنگه هرمز بسته شده است
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/146483" target="_blank">📅 15:24 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146482">
+<div class="tg-post-header">📌 پیام #68</div>
+<div class="tg-text">👈
+سی‌ان‌ان به نقل از منابع آگاه: تلاش‌های آمریکا برای تدوین برنامه‌هایی برای حملات قاطع علیه تأسیسات هسته‌ای زیرزمینی ایران ادامه دارد.
+🔴
+این تأسیسات زیرزمینی احتمالاً به عنوان پناهگاهی امن برای برنامه هسته‌ای ایران طراحی شده بود
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/146482" target="_blank">📅 15:20 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146481">
+<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-text">👈
+گزارش بلومبرگ، تشدید تنش‌ها بر سر کنترل تنگه هرمز باعث شد قیمت نفت برنت به بیش از ۱۰۰ دلار در هر بشکه برسد.
+🔴
+نگرانی‌ها درباره امنیت عبور نفتکش‌ها و اختلال احتمالی در جریان صادرات انرژی از خلیج فارس، فشار صعودی بر بازار نفت را افزایش داده است
+✅
+@AloNews</div>
+<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/146481" target="_blank">📅 15:09 · 18 Shahrivar 1405</a></div>
+</div>
+
+<div class="tg-post" id="msg-146480">
+<div class="tg-post-header">📌 پیام #66</div>
 <div class="tg-text">👈
 شروط جدید ایران برای توقف جنگ اعلام شد
 🔴
@@ -309,86 +719,86 @@
 ۶- و از هرگونه مداخله در توان هسته‌ای و موشکی کشور دست بردارد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 11.2K · <a href="https://t.me/alonews/146480" target="_blank">📅 14:57 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.9K · <a href="https://t.me/alonews/146480" target="_blank">📅 14:57 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146479">
-<div class="tg-post-header">📌 پیام #99</div>
+<div class="tg-post-header">📌 پیام #65</div>
 <div class="tg-text">👈
 سخنگوی سپاه: دشمن ۲ هدف از ما بزند، به ۲۰ هدف حمله می‌کنیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 16.3K · <a href="https://t.me/alonews/146479" target="_blank">📅 14:51 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.7K · <a href="https://t.me/alonews/146479" target="_blank">📅 14:51 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146478">
-<div class="tg-post-header">📌 پیام #98</div>
+<div class="tg-post-header">📌 پیام #64</div>
 <div class="tg-text">یعنی هر لحظه ممکنه پای پاکستان و‌ ترکیه هم به جنگ باز بشه
 🆔
 @AlirezaMehrabi_ir</div>
-<div class="tg-footer">👁️ 22.5K · <a href="https://t.me/alonews/146478" target="_blank">📅 14:46 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.3K · <a href="https://t.me/alonews/146478" target="_blank">📅 14:46 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146477">
-<div class="tg-post-header">📌 پیام #97</div>
+<div class="tg-post-header">📌 پیام #63</div>
 <div class="tg-text">👈
 پزشکیان: قدردانی از همراهی مردم در اجرای طرح بنزین
 🔴
 طرح «یک روز در هفته بدون خودرو» از سوی دستگاه‌های دولتی اجرایی شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 23.5K · <a href="https://t.me/alonews/146477" target="_blank">📅 14:45 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.9K · <a href="https://t.me/alonews/146477" target="_blank">📅 14:45 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146476">
-<div class="tg-post-header">📌 پیام #96</div>
+<div class="tg-post-header">📌 پیام #62</div>
 <div class="tg-text">👈
 گزارش ها از صدای چند انفجار در تنگه هرمز
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/alonews/146476" target="_blank">📅 14:41 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/146476" target="_blank">📅 14:41 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146475">
-<div class="tg-post-header">📌 پیام #95</div>
+<div class="tg-post-header">📌 پیام #61</div>
 <div class="tg-text">👈
 سی‌ان‌ان: تحلیل تصاویر ماهواره‌ای شبکه CNN نشان می‌دهد که ساخت‌وساز در سایت هسته‌ای «کوه کلنگ» (Pickaxe Mountain) در نزدیکی نطنز، که در عمق زمین قرار دارد، افزایش چشمگیری داشته.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 26.5K · <a href="https://t.me/alonews/146475" target="_blank">📅 14:38 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/146475" target="_blank">📅 14:38 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146474">
-<div class="tg-post-header">📌 پیام #94</div>
+<div class="tg-post-header">📌 پیام #60</div>
 <div class="tg-text">👈
 رئیس‌جمهور لبنان: ما مذاکره با اسرائیل را به خاطر منافع لبنان و نه برای خشنود کردن هیچ کس در خارج از کشور انتخاب کردیم
 🔴
 درخواست من برای پایان دادن به خصومت‌ها با اسرائیل به معنای پایان دادن به جنگ‌هایی است که قابل تحمل نیستند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 25.5K · <a href="https://t.me/alonews/146474" target="_blank">📅 14:38 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/146474" target="_blank">📅 14:38 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146473">
-<div class="tg-post-header">📌 پیام #93</div>
+<div class="tg-post-header">📌 پیام #59</div>
 <div class="tg-text">👈
 مدیرعامل فرودگاه بین المللی تهران: هیچ یک از پروازهای خارجی لغو نشده است/ هیچ کشوری مکاتبه‌ای برای اعمال محدودیت‌ها نداشت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 28.6K · <a href="https://t.me/alonews/146473" target="_blank">📅 14:32 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/146473" target="_blank">📅 14:32 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146472">
-<div class="tg-post-header">📌 پیام #92</div>
+<div class="tg-post-header">📌 پیام #58</div>
 <div class="tg-text">👈
 سخنگوی سپاه: هر کشتی که از منطقهٔ ممنوعهٔ تنگهٔ هرمز عبور کند تحریم می‌شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 29.6K · <a href="https://t.me/alonews/146472" target="_blank">📅 14:27 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/146472" target="_blank">📅 14:27 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146471">
-<div class="tg-post-header">📌 پیام #91</div>
+<div class="tg-post-header">📌 پیام #57</div>
 <div class="tg-text">👈
 سنتکام: هیچ ناو آمریکایی هدف قرار نگرفت؛ ۱۰ تانکر ایرانی را نابود کردیم
 🔴
@@ -399,21 +809,21 @@
 به گفته این فرماندهی، این تانکرها بخشی از یک «شبکه پنهان» چندمیلیارددلاری بوده‌اند که برای تأمین مالی سپاه پاسداران فعالیت می‌کرده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 31.7K · <a href="https://t.me/alonews/146471" target="_blank">📅 14:22 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/146471" target="_blank">📅 14:22 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146470">
-<div class="tg-post-header">📌 پیام #90</div>
+<div class="tg-post-header">📌 پیام #56</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/XVQmIs4HRm92dcs2N7HEgNrIPVQaXbC6Q6iN9ir73gIuGx4wyK4mH-XClZNOhXxmR6y1F8xKE2E_OS6nF1XYA_SSTZTQ4GevC5qbtwP2i9toxgUbFqYS-bpyU_9tyy-mbiZuLmHjMrqd2MTCYDsylhG1ClyOa6DYbd8foLpn6Feq9I6r8hCcBAabnKgcpm-QMlk4fAYHLN0F0LKIq6PwQ_2Qr2rvx3AiW4YU3Ah0W6e4Nh0RNFuhYdLjfSNg2cuvuBoDBBcsy9ZeQEJgCaK0ZCF7kUHctuWfGJrMBJUAH2AOxCIKVp03ZSBR08TaNEDTjwVaT_rbAhzCIJ5bvLhaSA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 رویترز: یک کشتی با پرچم پاناما در آب‌های سرزمینی عراق توسط یک پهپاد هدف قرار گرفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 30.6K · <a href="https://t.me/alonews/146470" target="_blank">📅 14:19 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 57.2K · <a href="https://t.me/alonews/146470" target="_blank">📅 14:19 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146469">
-<div class="tg-post-header">📌 پیام #89</div>
+<div class="tg-post-header">📌 پیام #55</div>
 <div class="tg-text">👈
 الجزیره از متن پیش‌نویس قطعنامه آمریکا و اروپا
 :
@@ -426,47 +836,47 @@
 این پیش‌نویس از ایران می‌خواهد به‌صورت جدی و بدون پیش‌شرط وارد مذاکراتی شود که هدف آن ایجاد اعتماد در جامعه بین‌المللی است و بر حمایت از دستیابی به یک راه‌حل دیپلماتیک برای چالش‌های ناشی از برنامه هسته‌ای ایران تأکید می‌کند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/alonews/146469" target="_blank">📅 14:10 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/146469" target="_blank">📅 14:10 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146467">
-<div class="tg-post-header">📌 پیام #88</div>
+<div class="tg-post-header">📌 پیام #54</div>
 <div class="tg-text">👈
 وزیر دفاع پاکستان: حملات حوثی‌ها علیه عربستان سعودی ممکن است منجر به فعال شدن پیمان دفاع مشترک شود
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 34.7K · <a href="https://t.me/alonews/146467" target="_blank">📅 14:08 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/146467" target="_blank">📅 14:08 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146466">
-<div class="tg-post-header">📌 پیام #87</div>
+<div class="tg-post-header">📌 پیام #53</div>
 <div class="tg-text">👈
 وزیر دفاع پاکستان: تلاش‌های میانجی‌گری میان ایران و آمریکا ادامه دارد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 35.7K · <a href="https://t.me/alonews/146466" target="_blank">📅 14:04 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/146466" target="_blank">📅 14:04 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146465">
-<div class="tg-post-header">📌 پیام #86</div>
+<div class="tg-post-header">📌 پیام #52</div>
 <div class="tg-text">👈
 آکسیوس: تصمیم کاخ سفید برای مخالفت نکردن با تلاش بریتانیا در مورد تحریم شهرک‌نشینان اسرائیلی، نشانه‌ای از نارضایتی واشنگتن از سیاست‌های دولت نتانیاهو در کرانه باختری است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 41.8K · <a href="https://t.me/alonews/146465" target="_blank">📅 13:43 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/146465" target="_blank">📅 13:43 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146464">
-<div class="tg-post-header">📌 پیام #85</div>
+<div class="tg-post-header">📌 پیام #51</div>
 <div class="tg-text">👈
 دلار به 232,000 تومان رسید
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 44.8K · <a href="https://t.me/alonews/146464" target="_blank">📅 13:34 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/146464" target="_blank">📅 13:34 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146463">
-<div class="tg-post-header">📌 پیام #84</div>
+<div class="tg-post-header">📌 پیام #50</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/f28a9989cd.mp4?token=ObRyfDMe0BprhD6EbLLgPBrDvvuRFO_FjABeqLkAilinlaW6ZmYJapbbA49D-XwzP1yg_VX3VgFFJJtRc6q2V552oDbtr4Il-tb-2MSW0zVi1bxb3XtRjSvt9fLh9Pttdfc3mOiud-BJy1gvLsC8u_Gx329ZNsw4lhMxRr7AhpESpU3ao_L7i9EVhxe0h9LlAqZ13DjijgzbIvKbdP1mLpPcTsUr1mU3H1mmOx6NQnPy0e69MxBltJnQXar14RaU8FoovM_f-AZmWCa4X4vAiYo4_a7odPm5F_o_R-Nc4yjul1tA0X8NxfIKKd7zKnWmqOm25qcJz-_6v2qsumEFtQ" type="video/mp4">
@@ -480,11 +890,11 @@
 موفق شدیم رقم ۱۰ هزارتومان را در پمپ بنزین‌ها نشان دهیم و برچسب‌های صفر ثابت را برداریم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.9K · <a href="https://t.me/alonews/146463" target="_blank">📅 13:28 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/146463" target="_blank">📅 13:28 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146462">
-<div class="tg-post-header">📌 پیام #83</div>
+<div class="tg-post-header">📌 پیام #49</div>
 <div class="tg-text">👈
 وزارت امور خارجه قطر: ما حملات مجدد ایران به اردن را محکوم می‌کنیم و آن را نقض حاکمیت ملی و نقض قوانین بین‌المللی می‌دانیم.
 🔴
@@ -493,49 +903,49 @@
 ما بر لزوم پرهیز از هرگونه اقدامی که تنش‌ها را تشدید می‌کند، تأکید داریم و خواستار بازگشت جدی به روند مذاکرات و پایبندی به دستاوردهای حاصل شده هستیم.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.8K · <a href="https://t.me/alonews/146462" target="_blank">📅 13:23 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/146462" target="_blank">📅 13:23 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146461">
-<div class="tg-post-header">📌 پیام #82</div>
+<div class="tg-post-header">📌 پیام #48</div>
 <div class="tg-text">👈
 رئیس اتاق اصناف: گرانی کالاها صرفا به دلیل قیمت تمام شده تولید خود آن‌ها است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 45.8K · <a href="https://t.me/alonews/146461" target="_blank">📅 13:15 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.1K · <a href="https://t.me/alonews/146461" target="_blank">📅 13:15 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146460">
-<div class="tg-post-header">📌 پیام #81</div>
+<div class="tg-post-header">📌 پیام #47</div>
 <div class="tg-text">👈
 عوستاد خوش‌چشم تحلیلگر صداسیما:
 تو پاییز یه جنگ شدید، اما کوتاه داریم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/alonews/146460" target="_blank">📅 13:11 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/146460" target="_blank">📅 13:11 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146459">
-<div class="tg-post-header">📌 پیام #80</div>
+<div class="tg-post-header">📌 پیام #46</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/L13zpol1xRj67vcbjyYMyjfhgiwZLNzKCyeuCs_wLxKb0bExcWdfxxEaiezkyh6ZROk8Nf1KVPYGEMGUeaiqaBcOT-SXEK2qH0zlTVrI4uZWt5NH6uvy9oWaWz6uwAGs9tF0lMkm-T41UY6cCAjC6Un6NYZ7TavnoEHESyaFvuE3kRM2wdzZ631kGxaknEonCHmVJe_7qaE-Y08EXhivfHlL5eMdgZ2-BMPiQ2O-HrfSn4Y2DPNPum5KjubR_lctXeYhA8xWbwXpNrgpKvWrxs_fOd33dP-HYJoibl2FI3EfJ2tvh0BOYjDoaoXw5xijtMN3UWwA82ew-hsX3GISfA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 یک کشتی در شمال غربی بندر رشید در امارات متحده عربی مورد هدف قرار گرفت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/alonews/146459" target="_blank">📅 13:01 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.2K · <a href="https://t.me/alonews/146459" target="_blank">📅 13:01 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146458">
-<div class="tg-post-header">📌 پیام #79</div>
+<div class="tg-post-header">📌 پیام #45</div>
 <div class="tg-text">👈
 یک مقام آمریکایی در گفت و گو با الجزیره : موشک‌هایی که ایران به سمت اردن شلیک کرد، هیچ تلفاتی در میان نیروهای آمریکایی برجای نگذاشت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 47.9K · <a href="https://t.me/alonews/146458" target="_blank">📅 12:57 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/146458" target="_blank">📅 12:57 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146457">
-<div class="tg-post-header">📌 پیام #78</div>
+<div class="tg-post-header">📌 پیام #44</div>
 <div class="tg-text">دلار و طلا منفجر شد
 ‼️
 این پسره یه تحلیل عجیب گفته
@@ -543,20 +953,20 @@
 👇
 https://t.me/AlirezaMehrabi_ir
 https://t.me/AlirezaMehrabi_ir</div>
-<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/alonews/146457" target="_blank">📅 12:52 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/146457" target="_blank">📅 12:52 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146456">
-<div class="tg-post-header">📌 پیام #77</div>
+<div class="tg-post-header">📌 پیام #43</div>
 <div class="tg-text">👈
 شعار دیشب در تجمعات : اصلا دلار بشه ۱ میلیون، نمیریم از خیابون
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52K · <a href="https://t.me/alonews/146456" target="_blank">📅 12:42 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/146456" target="_blank">📅 12:42 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146455">
-<div class="tg-post-header">📌 پیام #76</div>
+<div class="tg-post-header">📌 پیام #42</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/e5eec3b402.mp4?token=Nyi4zQ9dM8-wXJarM5VtPvyZJdkyo9cuYuaGNig6RS1uWDA4ZevM1_--6E9Mrds-_f1AeMmeHsIfZMOGbwahmluxK9vjrv41xRLJGD1vsLd9tCG7_Yqzt_Oxcp0tIxET5xRdHWtxwNV3NxOHkHzzwHyZR07DLg_zPuyeq7nNPlPkzULwygysJcb4O9PQf6Jj0H6UkqTM3b19N0ZsKwWdY3AezgcKI7_z0Il5EL_0AriNVf0NzAPsLVgB6zhXjl_MxvsyDEBZwE_O1ggay9xgCidHuWWsxWLFDFAi-hoz-Rz10msD4jyGTwWDydwPvzf30GxUv9cuvmLumw6It0HxEg" type="video/mp4">
@@ -570,11 +980,11 @@ https://t.me/AlirezaMehrabi_ir</div>
 امروز دلار به 3 برابر 78 هزار تومان رسید!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51.9K · <a href="https://t.me/alonews/146455" target="_blank">📅 12:42 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/146455" target="_blank">📅 12:42 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146454">
-<div class="tg-post-header">📌 پیام #75</div>
+<div class="tg-post-header">📌 پیام #41</div>
 <div class="tg-video">
 <video controls preload="metadata">
   <source src="https://cdn4.telesco.pe/file/1602dc700b.mp4?token=hoyS9cKV_EdhhC0il0EH9CbsFqZMDw7uP3jEc2CnNlMIn11tz4r52I7s46O1uuAML3xlozZSEWIDoLxLDdOlgL4DP3MvvveR8cEZUARqltdaCLJP4NlP9iQLLc6W94NDvaqT-rMN_6XtCC7RkaaM-GwyOrsxa3_XX_bonjkstGfkNSIh70ump5xkco5yX2Jjp7Un9ZA8K8nhHvqb0ggUUwIWLMg0lAimzCOiyibBERXXEuRiU4F2m6r1omOXvlO31iPxDc-u0UiHqw2hZpzE0AjF3D2U22msfSxM9-r41PZ2qW33qPot-xuHaKbM_AirWqAj04UzrdzKS6tYnJr4vA" type="video/mp4">
@@ -586,137 +996,137 @@ https://t.me/AlirezaMehrabi_ir</div>
 تصاویری از انفجار در شمال ادلب سوریه
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/alonews/146454" target="_blank">📅 12:38 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/146454" target="_blank">📅 12:38 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146453">
-<div class="tg-post-header">📌 پیام #74</div>
+<div class="tg-post-header">📌 پیام #40</div>
 <div class="tg-text">👈
 رسانه های سوری گزارش دادند انفجاری با منبع نامشخص در شهر سرمدا واقع در شمال ادلب به وقوع پیوست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/alonews/146453" target="_blank">📅 12:32 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/146453" target="_blank">📅 12:32 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146452">
-<div class="tg-post-header">📌 پیام #73</div>
+<div class="tg-post-header">📌 پیام #39</div>
 <div class="tg-text">🔴
 فوری / سازمان دریایی بریتانیا: چندین کشتی در شمال خلیج فارس و دریای عمان، در پی هدف قرار گرفتن با آتش، دچار اختلال و توقف فعالیت شده‌اند
 🔴
 هیچ تأییدی درباره وقوع تلفات جانی یا خسارت زیست‌محیطی در پی هدف قرار گرفتن کشتی‌ها در خلیج فارس وجود ندارد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/146452" target="_blank">📅 12:26 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/146452" target="_blank">📅 12:26 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146451">
-<div class="tg-post-header">📌 پیام #72</div>
+<div class="tg-post-header">📌 پیام #38</div>
 <div class="tg-text">🔴
 فوری/گزارش ها از حمله پهپادی ایران به یک نفتکش در سواحل دبی، امارات.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54.4K · <a href="https://t.me/alonews/146451" target="_blank">📅 12:20 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.6K · <a href="https://t.me/alonews/146451" target="_blank">📅 12:20 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146450">
-<div class="tg-post-header">📌 پیام #71</div>
+<div class="tg-post-header">📌 پیام #37</div>
 <div class="tg-text">👈
 کامران غضنفری، نماینده مجلس:
 در آستانه جنگ جهانی سوم هستیم
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54K · <a href="https://t.me/alonews/146450" target="_blank">📅 12:14 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/146450" target="_blank">📅 12:14 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146449">
-<div class="tg-post-header">📌 پیام #70</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ijsWlpqsKBw3kr06yBE_Q2VjfGScisdscbgbOnYK1fgh1ZZ6Md4huLKlp-ww3Im8scrVmFO24MaEMJVs5yxAJ_xR8Bz-2COI36CGnthmG5W19ZaTw91sPRsbztBm376WJqxVqFqdhnL5Yjn0bkKmNEpujNrbk14TACEnB1bHGgmQ1lIaHjbveovUhwTavcP9yERYG1El179xxPhJs1BjGhmJmlcboXMpgfxJeDCUz8o74Zt3QkmHC_hbWEkJYmeSUzaQaHRHT-UbTZLzkZErvaWizM7LPtmsFguEHfO_ZfwniQf1514oNR_nqJihn-DFIN8hu8W-GrJKq45auNiZDw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/IR5MGrsEBSncB1W8-ExV_mfJx5hHWIG9l7rfOdZ7x9Cpn5kdRy-4GgdSuL28gy3wJJi8H6IHQ4RTDO84Sln06ognmUOZ5OhrV1c0NkIHLR9L720hcoO2Ivdg6-PeWRZ6CaUyhKP709Po61yTLUaJ_IbBiFwRyAa3Qdr228JotrMg87I0swY_8vu9nSKmCdUUKrKQguOnpQz8hckOH7QZb8boFM0spvfrnZ9nY7XvQIdDbBZT48WTZQozvd71Mdah1iIMsyO2_kcD-_ceatQ8L2Yp05HWq9S4lMORaQDbpLcLZTGOgOfOQ6cX9MEZTjkWqczqeGHNN_Mvbe-uWKFBqA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 ایوان هوبینگر، مسئول بخش همسویی در شرکت آنتروپیک، می‌گوید که "احتمال بیش از ۱۰ درصد" وجود دارد که هوش مصنوعی در ده سال آینده "تمام انسان‌ها را نابود کند"
 🔴
 هوبینگر گفت که شرکت آنتروپیک "تمام تلاش خود را می‌کند"، اما اذعان کرد که این شرکت هنوز برنامه‌ای برای حل مشکل همسویی هوش مصنوعی فوق‌العاده ندارد و "هنوز به وضوح در مسیر" دستیابی به این هدف نیست
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/alonews/146449" target="_blank">📅 12:07 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/146449" target="_blank">📅 12:07 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146448">
-<div class="tg-post-header">📌 پیام #69</div>
+<div class="tg-post-header">📌 پیام #35</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/26f3ab76f2.mp4?token=to5-MWeZfe1xMBTPACcnfnk29ZupgXnS6ZlQQS-KwIX2o4AftIcQOfArn87tbh7bHoxDIPqegIcWUGg64uAH_GsZ7k8oJ3d-SA4ybGr1DMlmLKzCtBHK-Mh3gjt_ldb964RTFz_NHLM7NaV-L8pHbtDemMEgG4scbkJjE9v5mzOnwWMEqcbJss9RzkheD0TK4puZClk3pR0ACy7E4wvjT-4g2vM30hNxHHACqECDbtOHrx4C-gxXP6Z24vvp2MxpeUpx-5-doQPAv1ICjJP-BANb_oppdAX8hxAQk7rjGFggPr-8YRXg4ilLRqRm-Cyoa0haJyxgLuqMjFkMdVTm-w" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/26f3ab76f2.mp4?token=BU0BQbOD_53CL6sS0mbN0gRjMHdqNrqyLIa-dQ3KsZHrm9Mju1lOo9CYu8k3ED-2au2MOagjme9PGocvp6rzvSThstxCp2BfX4V95Y96spWFQpw6bBe5TpKHv-b9l_bfdsFSmEHH-BSQ0JahKmgDDIizLpTCpDM9HF9UwtYHnQfK8CEFqdgFlt_bbGRcbpMJLhlbcROr41Emi71mMWsfVp31gE6DoBMfzCsubABjMQ-YUSmh0SqMcRBlXZK-WGzxk4qWjR2lcenqNgnNZ82bbNhSzHsGDOqVIbGO63Wx28h-J-AvDKM4BLzfmZah2sSzjR72iam4zARv66xxBEqLng" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/26f3ab76f2.mp4?token=to5-MWeZfe1xMBTPACcnfnk29ZupgXnS6ZlQQS-KwIX2o4AftIcQOfArn87tbh7bHoxDIPqegIcWUGg64uAH_GsZ7k8oJ3d-SA4ybGr1DMlmLKzCtBHK-Mh3gjt_ldb964RTFz_NHLM7NaV-L8pHbtDemMEgG4scbkJjE9v5mzOnwWMEqcbJss9RzkheD0TK4puZClk3pR0ACy7E4wvjT-4g2vM30hNxHHACqECDbtOHrx4C-gxXP6Z24vvp2MxpeUpx-5-doQPAv1ICjJP-BANb_oppdAX8hxAQk7rjGFggPr-8YRXg4ilLRqRm-Cyoa0haJyxgLuqMjFkMdVTm-w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/26f3ab76f2.mp4?token=BU0BQbOD_53CL6sS0mbN0gRjMHdqNrqyLIa-dQ3KsZHrm9Mju1lOo9CYu8k3ED-2au2MOagjme9PGocvp6rzvSThstxCp2BfX4V95Y96spWFQpw6bBe5TpKHv-b9l_bfdsFSmEHH-BSQ0JahKmgDDIizLpTCpDM9HF9UwtYHnQfK8CEFqdgFlt_bbGRcbpMJLhlbcROr41Emi71mMWsfVp31gE6DoBMfzCsubABjMQ-YUSmh0SqMcRBlXZK-WGzxk4qWjR2lcenqNgnNZ82bbNhSzHsGDOqVIbGO63Wx28h-J-AvDKM4BLzfmZah2sSzjR72iam4zARv66xxBEqLng" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👈
 دلار 230هزار تومان
 ‼️
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/146448" target="_blank">📅 12:01 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/146448" target="_blank">📅 12:01 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146447">
-<div class="tg-post-header">📌 پیام #68</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/GQAdESPQqO2lVLETHYtt8Vvq89fPg66Faf312xe6FWgu-7YOBxwSL4BZ1mEeIeRkaSzDw137ZhketGu2lCBPXiJiE-jxMA97UYwdzcmY4_OKqHCNM9IvKp6eWnNSRLrpKnmT-aqdcylqNKYJVUroWJ7ngTfJ08qWDbLNTPLgLwBvjGFUUPvALUD6kae6iVkTFKYAiDCJPF9q2T64ON7krD5tnyJSMPgIAT0-AWkU4BxV35gv_NRWQW5zLjU8eoSws5CWmV7wJaaddiqNxCOGm5IhtP3i8TV8nTNRQcjQJH9vfy3lOJbBwuHLcalnpwwktxOeil_zF0jKCXsPsj9cRg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #34</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/SrrAsXCA5ivW3U7Xp6-A936CEWTn3t1XGPUoY_HYs8yBSebwO75E9eJkcfgn07ObBOD15xVFTpaDsuweLBfVuVQZ7jK2XBgSDV0vL83arisqQhEyrgO9ab8lLG7z9BJHgGvKjXBGeZ7iodUZhYj91odmbii7SX5F3VEH7dLITM-UfbK_6f2enM6b8ipAvKsWtSBuxwjEyuPqLR1lh1O0uwZ0EGRAIdb5jVR8QCmw_88qNpp_n9ONeuRX7CA9RT5nx6BGC7riCYzhpWAgBDadIJ3kjkjRhbbs22Dw9XSY1W4pkafxV4XDMqZym1n4HOpIQsHihS8vVcicNaS5Ccy7gQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 هواپیماهای تانکر سعودی از پایگاه هوایی فهد در طائف به سمت یمن پرواز می‌کنند تا به جنگنده‌هایی که یمن را بمباران می‌کنند، سوخت‌رسانی کنند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.3K · <a href="https://t.me/alonews/146447" target="_blank">📅 11:58 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.5K · <a href="https://t.me/alonews/146447" target="_blank">📅 11:58 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146446">
-<div class="tg-post-header">📌 پیام #67</div>
+<div class="tg-post-header">📌 پیام #33</div>
 <div class="tg-text">👈
 طبق اعلام خبرگزاری ریانووستی، بر اساس داده‌های وزارت جنگ آمریکا، شمار مجروحان این کشور از ابتدای جنگ با ایران به ۸۲۰ نفر افزایش یافته و شمار کشته‌شدگان نیز بدون تغییر، ۱۸ نفر اعلام شده است.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 50.9K · <a href="https://t.me/alonews/146446" target="_blank">📅 11:50 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/146446" target="_blank">📅 11:50 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146445">
-<div class="tg-post-header">📌 پیام #66</div>
+<div class="tg-post-header">📌 پیام #32</div>
 <div class="tg-text">دیروز بهتون گفتم ارزش ذاتی طلا 24 میلیونه
 ‼️
 الان با این قیمت‌ها هنوز تقریبا 300 تومن زیر ارزش ذاتیشه
 🆔
 @AlirezaMehrabi_ir</div>
-<div class="tg-footer">👁️ 52.9K · <a href="https://t.me/alonews/146445" target="_blank">📅 11:43 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/146445" target="_blank">📅 11:43 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146444">
-<div class="tg-post-header">📌 پیام #65</div>
+<div class="tg-post-header">📌 پیام #31</div>
 <div class="tg-text">👈
 قیمت هرگرم طلا 18 عیار به 24,000,000 تومان رسید ...!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 54K · <a href="https://t.me/alonews/146444" target="_blank">📅 11:41 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/146444" target="_blank">📅 11:41 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146441">
-<div class="tg-post-header">📌 پیام #64</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/WrE_zQ3f7-iopSZznNBhQjx3ne_W2gslbye7HIQOh7SOiqZ8VyZrmzSiKeaLNvrR7V8lfeJAKFmiMMEJ5EHI6c5c-I6ntCaGkWX5Rsoa_UMWYyL8MDsZ7HMOJLRfH7glrQeud6WV43MmMdCTx15OGJrgoClfMHIUBRmLZ-YLPESe0qS2yRhLnwqvyQouqpHiVnoKlwDS2v7BRtkszcw6Eud2siVmT7LThNGsl8WtzWSiRYJ8u-fqdnlPTe1voV_uhE7ux4ypwULHPGKyeNu9W9SCsJu_KZhPpYDy29ZZsYdCiUa3r0Thaz36HPsqZuD4U1phCPx-uCwm1t4LsAbRgw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #30</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/qfA0w-zjae0HcAsnvp3PKDMmJ7bU3uvzqol6AerO2-5mVqsx9eZvLDtLQNue83rrAo2z5oICrRvVIlflvM5Hntgnpgv4rsUa1n1bOvGI_T42tq-B4lwWY7yEVB_hVdEF-DLIVkDseU3nzQNWGTKSxOM934aHrh4BQXbFHLQM6gyha7o0lMmugPI-h9hijcmb1hoSF0lGhLGfcBxh5Xnwr8KgCSsqYzIWNA_ZgKvfBDzwGeaGAYOJblDY33Zd_BOIl9cSkWnauRfiaj_gUvwSFms75GsLyihRh7OT1ddNt0XlQpaV3F5Em_yMLV94Yd9b2IvBKmMjXjGgJGtOzXYYBw.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e8c690ff7b.mp4?token=GifWJ6gi6w5MZ34V6VRCNB2cjP64YeEj72PfDoFYJhziiv5YMhxfTghbJr2N2DZ-zRiL4XeiAduVTHGxjD5iEM845C_-KE1kFZ9cGOH_k_Sl7EDPBoKdnmWBmPlypwk5W47utofISA3eGJOUYZvQpDqidhxxpuSNFrAVQ31DaWllPXjz4zvV88pZPueFQpN0XOvtJVsRzJ7gIDoGojLvkMeYE3JFlB06piKQqivx1x7kEGK079pCujbbukWWt_f3198rBCUXdv-b5_8gmDX72DwQpkebAGASOHD0SZ3P1ADdbHgqvJh1gZZzP3D4VtpJv4WXrSovkYkie8uHbFgWwA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/e8c690ff7b.mp4?token=fmamnhF496tGlgsnsEzx8xNHtb6jGMF_pyd1rO-K775ZhWbo8Pv1ll8iHner8wTcwXM08aOw3kWQ_x1We2eSWegQVdEWpMZl-C9UTgP_kX2V6fgVARX0SeKt0iMKtbQFCFUJ5hkTnxghRv0h8gzr7gVUgou_YAd8Q4tR0AJjk7R7aagst-Wd0aNhlXJWgwgzlHuzMwMYSe2zQn0RRPgm5TkK4S-mJH7N4SKQ_kSe612Kt0rL9NLl8KwWXZ1qv-Zl77PHKc2o3PkXtW3b-6szTJ4jV2sEOr7bjuCohVFGYZUjCW6v8KAXssTGHlExHHP0d7nNmsvvl6YwkAoLa_a_eg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/e8c690ff7b.mp4?token=GifWJ6gi6w5MZ34V6VRCNB2cjP64YeEj72PfDoFYJhziiv5YMhxfTghbJr2N2DZ-zRiL4XeiAduVTHGxjD5iEM845C_-KE1kFZ9cGOH_k_Sl7EDPBoKdnmWBmPlypwk5W47utofISA3eGJOUYZvQpDqidhxxpuSNFrAVQ31DaWllPXjz4zvV88pZPueFQpN0XOvtJVsRzJ7gIDoGojLvkMeYE3JFlB06piKQqivx1x7kEGK079pCujbbukWWt_f3198rBCUXdv-b5_8gmDX72DwQpkebAGASOHD0SZ3P1ADdbHgqvJh1gZZzP3D4VtpJv4WXrSovkYkie8uHbFgWwA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/e8c690ff7b.mp4?token=fmamnhF496tGlgsnsEzx8xNHtb6jGMF_pyd1rO-K775ZhWbo8Pv1ll8iHner8wTcwXM08aOw3kWQ_x1We2eSWegQVdEWpMZl-C9UTgP_kX2V6fgVARX0SeKt0iMKtbQFCFUJ5hkTnxghRv0h8gzr7gVUgou_YAd8Q4tR0AJjk7R7aagst-Wd0aNhlXJWgwgzlHuzMwMYSe2zQn0RRPgm5TkK4S-mJH7N4SKQ_kSe612Kt0rL9NLl8KwWXZ1qv-Zl77PHKc2o3PkXtW3b-6szTJ4jV2sEOr7bjuCohVFGYZUjCW6v8KAXssTGHlExHHP0d7nNmsvvl6YwkAoLa_a_eg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👈
 پهپادهای اوکراینی شب گذشته به یک پایانه نفتی در نووروسییسک، واقع در منطقه کراسنودار روسیه، حمله کردند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/146441" target="_blank">📅 11:40 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/146441" target="_blank">📅 11:40 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146439">
-<div class="tg-post-header">📌 پیام #63</div>
+<div class="tg-post-header">📌 پیام #29</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Ye7C-lPqm-tptRy_xAYW8zG2Y1-SvB_mE0bYfhw85AO-136JQ_ka1LONYw_oX9vD7fQT-6RIgBx6jAe8as94FGrSCBYKxFxQVUFRYbVgJmcTKRFW0sjTQBUTXGfyaVuA9cUl2ov51O3IdRzgNrS2c98gH8Wqi603Xm4IGnRqlNkSRucohA2iNuVoV56jJdt92aW1aTmEEeJ-AWqQ9NAACEbWDTK0BaUzh0Mio5Caotm35jOrDEOT-2UueQdnHQf_OaQU_4A_efcXc07A75Kbd6tEA8zkG6WGSidmg8166HnR96uFT_ItB-mSi24dlRU-rZAatGgH7Yzmqwm8aGFRkA.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/dEy7IcxkjHYwROgEb6ddCDkEUfWuLphKxgAVW5djnhoCJZp_oIlRHOO_v1BLG1DMTwIn_D-cP9xYhbQsFSAsTx88hROgQQFWR4Cl5U0Wr9P9Bbq4T4JjglYnoEyEvtQOvhzU6Gvs8Nh4G4mkqzwgpAtAt5AlR1IqY6LHrwdCvFrCaY-B0CF_NQDvd_L-scvMgW_zX0g5zGs_yJY1fcDA5ZKU-lFvkGabTRwES2LsYA2zeuzoq5Ymsqp-r1zOAYhlvYB4DgKY0-wjAubg5aD9X3tYGDyq-wQTQte1cr-1iyubXUkg1_BSF2_cEcogK_VaktT19mp-rCYZUttMFHtzyg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/jKXfXMtjMohAUJ12GXX0sgObEn455J1tnmiFJHpxYUCoMktfwsdab7c2XjobYpE0ZLMRIRt5hmtQfY2DFBmnLtEUjNbiDPm6omSANRwiY0a8IY8J1NkOBqPnKUvdVorLViz2HRt0Agsl0vByzLJlX6Is2BIBWdG4k1nBViCOQ3BISH1hBddA0j3SUPvoc4OQkEWD069w7KtIo8I582zVJiH7WHf54oUtc84_3aGhlf8KgJYU_wIHwS9WqKoR9QZefeGwqNAjtM2PekCuuIChw7to7xJrWFKl3SnS7c6U-eenAxW9ai14q9i34VJg_QKthDUNsEQxi5ogvpWTidbITQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/sxcXCSQpVcqoG7N-s15WwqRoHpjIvnxZ1SFUa1dwCVyX0ZPSb5J52viWa3I5SrvXmodsNxUv68T2odkXw6QSxJ2td4gUlSMJjvpIxvCReiJh80y3jrnH5c1RHu4-U3YqYiXx3GwahwmhYy9CUgxwT4MgQWa1JzAlFdhSvi4MpAusH_1bLPCCsu01Ze4Ux1VrAVO_CReogx_h2XV4AcISxtW5oY6wLj_p2MgXM9vNK3OM3G8BIIuRHriZ3kezSTO8YTbZ_BZG5f9qaNLnamy7tNvRNzHU-LS9uqFSAEL7u7q7q8GEQnO-G66q9dlD0wOQPd6nzOuDtqzAnvhrEnCP6A.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">👈
 اولین گوشی تاشو اپل با نام آیفون Duo و قیمت ۲ هزار دلار معرفی می‌شود
@@ -726,40 +1136,40 @@ https://t.me/AlirezaMehrabi_ir</div>
 همچنین برخلاف شایعه‌ای که پیش‌تر از عدم پشتیبانی از قلم اپل در آیفون دوئو خبر داده بود، گفته شده این قابلیت در گوشی تاشوی اپل وجود خواهد داشت. شرکت تولیدکننده قاب گوشی Dbrand نیز تصاویری از طراحی این گوشی تاشو را منتشر کرده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/146439" target="_blank">📅 11:28 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/146439" target="_blank">📅 11:28 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146438">
-<div class="tg-post-header">📌 پیام #62</div>
+<div class="tg-post-header">📌 پیام #28</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/7d1aa66745.mp4?token=ktwlewQGSRgsDQLdUt6IfpcQWnpwsymjd6mOpK4CQaiEcJdDuT8n4PYMaQ4IsaZ_1XxC4NpCG1I-UWSu5LN6CCs-O-IY-edcl1HD-0QLkV9-vtpK7echkqxXGOt47X9CUIjl1ql1Tuy1c4XODgXSA5f7BuQzDmzg2W3j8HxpZxnreJwqeFN4c27tfMZUKIlz-zwo_7LNEjtdJSU7Z_lGxS9ORfDjCsQGTHt6MaGBBG0-Un3V0lFmHyXDPdTq3ofAAGMdLA48KAMSIAEuNKJB89FDlKFochyXzYL-Sn_KmwdghJlyz7poYCeLP4gvrA5acrt2cqlYHreRYX1g5XFUj4WOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/7d1aa66745.mp4?token=WGUAFC1gIl-31LsYl6KKkqmwgz8GiH6QKZLpn3pGrhJpRL9jZwX3sAWpHhEmEmoSPk02K3hUW3_sw8An37B5KkBzTSUgrtEfzvL7KMErLOSnVDLxHFTwKr9hmxF7L-LRVdpgtBeI5RXbKaY5YkFPi-RCkf-p3q-Q3f4nTClZcOsBsvotXSzpQ57BNS9aQkXDQsMd6D4pxG64u-BwHfTZ3ypf6jbrn8apbUIk9IaWCmIfhetYJspX6pIV2UJZJ5ak7InW3soMmKOYiUvf-_oRHZMLjdx-vfxT3QnSaJslL03n0fApTzGys_5daoJfa685pSHaC5H1o4f_V4m0Fc2yrAivB0W60gy8TW4wxsJt4QFMX0qQGpCL2vDvqJT5-fCPqCVT7qKBiblU7L465vH957DOR5QUYMVOzUYYWX2r-aczAH0N5lJKOd_GD7fnF3yEEwJ0tVSBQHNeHk7mjqWaqMm160IRVjKoHQXJeKdXgpd4WqURjoifhZDrjB-gy_ZHUKD3TN2Ov6rG9hTTC4LW5RSCsBwyRgeQcF63uIroIfltJeM3iTrHPk5kV8qYz17TH_HzFVIRHS2n5JuexwfOVBwrdDTUgv4Z33i_JD8OwbHaAeKqKB3vNYKRgLCWVEb5bkQ5u8tDpKPP_pzl94bzvxKi5isNF9R3QCoalfOGrQ4" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/7d1aa66745.mp4?token=ktwlewQGSRgsDQLdUt6IfpcQWnpwsymjd6mOpK4CQaiEcJdDuT8n4PYMaQ4IsaZ_1XxC4NpCG1I-UWSu5LN6CCs-O-IY-edcl1HD-0QLkV9-vtpK7echkqxXGOt47X9CUIjl1ql1Tuy1c4XODgXSA5f7BuQzDmzg2W3j8HxpZxnreJwqeFN4c27tfMZUKIlz-zwo_7LNEjtdJSU7Z_lGxS9ORfDjCsQGTHt6MaGBBG0-Un3V0lFmHyXDPdTq3ofAAGMdLA48KAMSIAEuNKJB89FDlKFochyXzYL-Sn_KmwdghJlyz7poYCeLP4gvrA5acrt2cqlYHreRYX1g5XFUj4WOpGPPJgrUDPjvR3m_yJOfwRxPGsEpzEljmzYPM_ib305LxFaLPd8quvZ40nG9StDJNw4Nax8aoRuL-b8n-6oBPvwGr8dv3EhiyaKqNfG_gV9yGSa5ZYGah72x-eD3NdPOT5KFLz0rHzzCgVpF21iBWL2Mh-pu7emhKtuQ6RrzYc-exPxNBiFoTJJ4PSz4BcA7I0RbPUvvLPVvJS478EhQjqh_St8RHpk-3Wpaz8lMgpmY2V0l6NDEKTgkiX0IrwOxzwQ6jsb7EQRO3f6H6YGX2g2aDZYSErWvG97giqxzjDm64dEXG5M0_9VmmbDUMpm4EEasNpxSft6FvnJPxA8" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/7d1aa66745.mp4?token=WGUAFC1gIl-31LsYl6KKkqmwgz8GiH6QKZLpn3pGrhJpRL9jZwX3sAWpHhEmEmoSPk02K3hUW3_sw8An37B5KkBzTSUgrtEfzvL7KMErLOSnVDLxHFTwKr9hmxF7L-LRVdpgtBeI5RXbKaY5YkFPi-RCkf-p3q-Q3f4nTClZcOsBsvotXSzpQ57BNS9aQkXDQsMd6D4pxG64u-BwHfTZ3ypf6jbrn8apbUIk9IaWCmIfhetYJspX6pIV2UJZJ5ak7InW3soMmKOYiUvf-_oRHZMLjdx-vfxT3QnSaJslL03n0fApTzGys_5daoJfa685pSHaC5H1o4f_V4m0Fc2yrAivB0W60gy8TW4wxsJt4QFMX0qQGpCL2vDvqJT5-fCPqCVT7qKBiblU7L465vH957DOR5QUYMVOzUYYWX2r-aczAH0N5lJKOd_GD7fnF3yEEwJ0tVSBQHNeHk7mjqWaqMm160IRVjKoHQXJeKdXgpd4WqURjoifhZDrjB-gy_ZHUKD3TN2Ov6rG9hTTC4LW5RSCsBwyRgeQcF63uIroIfltJeM3iTrHPk5kV8qYz17TH_HzFVIRHS2n5JuexwfOVBwrdDTUgv4Z33i_JD8OwbHaAeKqKB3vNYKRgLCWVEb5bkQ5u8tDpKPP_pzl94bzvxKi5isNF9R3QCoalfOGrQ4" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👈
 بارش شدید باران در مناطق مختلف ژاپن در روز‌های سه‌شنبه ۱۷ و چهارشنبه ۱۸ شهریورماه باعث جاری شدن سیل و آب‌گرفتگی خیابان‌ها شده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/146438" target="_blank">📅 11:25 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/146438" target="_blank">📅 11:25 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146436">
-<div class="tg-post-header">📌 پیام #61</div>
+<div class="tg-post-header">📌 پیام #27</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/neDoKLsFF2i08q9ArGuoz3Usj-6H6ztpHZ4KxpMCtb85jjRMdndrvWw0usxWreoNvGsluNL5wtCJNQAYoVdhZa1W1MBVHvzwHfcZstGoZilPvGUaVNbm0fiCfqdKX00lr1g4_Et15PvtykAWDwdqB7NBiGKVdBkl3ZaZ6xwCvOxseBv0LlXDGxcT-xmrghKNPAwBx5As33IA-Ec_mlSP0fTi-R58DuDvj2-pPLUXWKT4VVgGswSOaNlcoGRhq8HDnAkTPiNpin9dGGAsSNcyzSvC3XtzNdUhRzTWPeLgRssvnJKQH9ahyyV2yPToGZwVuS2KLar8I-b3sjnunoGG3A.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Kq7eZLs0Q74ba36lmcTt6fSGOWRig4RSwB-uLzvldnPCEzX-2XhmesRd2Ho7Ni9VF8W6HQX5iR5fg7E2Em58O0L32JTqXHrr4Tw2WwUsIZpJTse5jqIMAGoaRBK7j0wyP7qmz06ZBPXlE7MpCoJk_Q4jgkwTqj5muNRrDSN7qM70NGE9jjldRMwIE5Q_T9vii69Yf0D7ZKeM06Lfk-bVZH4oZq0mKlngyH_09oKFiZVCUCN3ssNOaf-48_KGAgF6qQ4Sp6hDxJzsFuyUPieDm66CYZ_TPMRY4nc4FdEmbGmXbWUNB_mZBkJYj5lGl4P4DvPNhwt2Dlk_33gJELTVew.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/ehRJcqsP2tHcHhXyNKbndFH59DNOJZhuibL6u5AoYxZGecwLjftoCIpTNtXUtnWvpBl6zqvdNk1xInOsxZWcpUxGz4ulQOFcrCy-LwYP9f_5D5dQAAMlgOmvxaCBJUS0OvCy2QkJdr3Pw-ms7RVHClBAu23vg-67GkJyQtjepVimdHlp9nRf64tg0xVbTGOlJr9E6DJQZWThM6x7sLoLQvdv63Efpi6Qnzyt7hfTi2jdJhH4MSmrkYHJC6CWC6W6meOGNNwkogNWr-5wxlgIeFWUy9vY0IKO2kxTyjDhvzvU665VFhm_3LBQP9JOKXZzuajX7Ougu3oyO_RZPw5GsQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/vgpF8n58OA-jFUm-VnPpXqxWluXMEriXtILUz1qDDVHyTHf_1hdhwHEOHXan_bVpyOlUNZljXlib0k1zz-YYwl5G3ThGUB_sHlw2rcEEsL-sOe0SGuS2V7b2f1PgYi-dc8QDmvCgbdqVo8ex_CkPclwacCUHFfN7dR-wRmmj_SFW2hvQ8oVAwY_zDpwomgE6__P-2x4QLNNjr6rNJEl7jW5X3l5Cm1qesPIthREOc56RqVA4mtPxM2q9cAFhFP5ed2Q_jx9ncEKQC8sYvovdPxsBAYoFBVzAeboP0jXy3_Z0F2ZtrItcylaa1ynvgHV7idrIEX_C6BlHG5z3-Yz07A.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">👈
 شلیک موشک از یمن
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/alonews/146436" target="_blank">📅 11:23 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 55K · <a href="https://t.me/alonews/146436" target="_blank">📅 11:23 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146435">
-<div class="tg-post-header">📌 پیام #60</div>
+<div class="tg-post-header">📌 پیام #26</div>
 <div class="tg-text">🔴
 طلا به زودی گرمی 30 میلیون
 ‼️
@@ -774,12 +1184,12 @@ https://t.me/AlirezaMehrabi_ir</div>
 کی وقت فروشش، تو این کانال بهت میگن
 @Tala v dolar
 👈</div>
-<div class="tg-footer">👁️ 49.9K · <a href="https://t.me/alonews/146435" target="_blank">📅 11:21 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/146435" target="_blank">📅 11:21 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146434">
-<div class="tg-post-header">📌 پیام #59</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Sc7szHqAU0oNkyv1OiPeGpsNToOOQKiFqgXI4A_vVknlfRqZhg221A8-QIRpA4Rw9a911WQMM9PDycEQEDIE0ZNY8xthOegXqxdjHJiL85Popt06eGWsu9T85wos8dk0JYbcaVvrTrTeYeF4EzjEsYNU3OYE13Ts8vNmUtCFHb-w5ucIg1t9KESty2rjEJXS1q_IT1IHMcNQyOg-M9zZpeBaKZutyA9-E8zQu95rlShQ8bI45h60tZBEqy7c6UL2qxaND51BTX2jV5GT4LJ7X_9KZEtiw1ZhUBtVaak1q1UJ5DQePOgn9iKOpGG07Lim3wCIbMXBxGLZyI-MZwRNMA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #25</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/hjMyP0YhhDtmp8yi9aNCDnBmsUvE3iHFptoYZkIw4cZAQz0cwH8cBVXz8gFATB0od1-n-xvkk9MAsdAA5RzTjD9sIl9miqvFsjrRVQYFHLuFzK5sdzgVTm85Fwy4Z3O8LNzSDuLMlu1LB9bDNdo3x_It141Uv3BBV1xkj-jt9W4NQBUpv2AKatujBTsFcUj_BUoBZj6mLvWmZnBi0MBjnRPWFnXXJ49hY_YkvfSXl6pl78ugJW3FsbHEXoRVRkqpy3WjKqPRHjQnUwHAjuloOrHmqNbJZCZJVBNZMWTqxKGi9hCBYbmFiBtQE1IueMxWxhUF2xlxirUnKpAH8PgBhQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 یاشار سلطانی فعال رسانه نوشت:
 ‏در پرونده فساد فوتبال⁩، برای تعدادی از مدیران ارشد و چهره‌های فدراسیون فوتبال به اتهام اختلاس⁩ کیفرخواست صادر شده است
@@ -799,190 +1209,190 @@ https://t.me/AlirezaMehrabi_ir</div>
 خداداد افشاریان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/146434" target="_blank">📅 11:19 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/146434" target="_blank">📅 11:19 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146433">
-<div class="tg-post-header">📌 پیام #58</div>
+<div class="tg-post-header">📌 پیام #24</div>
 <div class="tg-text">👈
 احتمال شنیده شدن انفجار کنترل شده در جنوب اصفهان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 48.9K · <a href="https://t.me/alonews/146433" target="_blank">📅 11:16 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 56K · <a href="https://t.me/alonews/146433" target="_blank">📅 11:16 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146432">
-<div class="tg-post-header">📌 پیام #57</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/B7GZku5eRErGFfyOqzm8Nt77KucoEuahKdsiVRCZ-zVTCtVXDbpQMWUqoEe1Yxsl_ecIOoP2OiwCN4k-vQSkRhap8PA_krbn8Fj3wWwm_YoKXU-8deN0aZTRMU-RP_dBSpZNWHrHcEMv41eMLKXSu4BUrqe4vzIM8f7T8Eg4etj5cesZAujmQWgNwau1c7N5l3n3Ifhqahd31CYTZnEvQFGq_9Ra9PBbse2RiZU3jPJi92jw8ltZ-MtxVaN-FQjidabj3Yb7HH1uU5gOVLB270fCbZADqROYq6GD7qkRwBcfrpBri8Vk-835ZHWkkyPL2swn2oWG-1MU7MjMfJ63hg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #23</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/cBwQVTDVnFzHF8Y6HRnUNM5yCZlEzS10U9cV_vjI50l3UkqjKVk2-Azkc1CViC_pos91jIo2raJl1ja9x5dqd0DUUqMLJBkQysZBFTlD1t838zIUVuDjdSdjyCdDHDWyzGoKjy4IiudnabLhtShrkqy6WpL57btbfEvuSUpHXmamaTSTzxrfwoEFP8fm5nTW9Zh_t66rWYpVBu4rRGl07jIPzAy5mc09GXXT3nUODo_sfbP7k-ZcQyh01ZRpbg99Nkz3wboZpZUVHeF321NEKsz8gdTiC8QZHnR7CsH0vxwSOy_lyrmlMNg16zcgBRJQspRg3QcthRcHsP91NDuREA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 تصویر جالب و ترسناک از رعد و برق در رشت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/146432" target="_blank">📅 11:12 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.1K · <a href="https://t.me/alonews/146432" target="_blank">📅 11:12 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146430">
-<div class="tg-post-header">📌 پیام #56</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/JyOhcO5tSGJFceZzymErORpM1x38wcIK28ExE-6XF4F5XIywrsr0QSn3qR1J_pLETTltkeOzy-iYVc7qthW9r1sIM56dMFd9K3ahPOE5oOl5N9kdo2ZviD13JvKFlqGShtNnJldOI9WQ8fJ2UF-vve5aQ-4AkYyKGxT2NzZ6yL6D1A1GPQLqNAswuzQ0ovWVSD9_kma7IQsrpNHQvboSGeMWGmdqAnZmMS8SnCjE_3gwwefuj4KHUaYkkFvQ_fycctg-bdsfrLFTZZAsAiZTqdxfBN43uNjlXmbDy1OJzLq8KXRh7FIxmeOy9CipO9oPqCsBb6KJUjHAd1UjilKqPA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #22</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/sJE2vKdhHYAbPVf_qjJoed15w2t693lbC2ytIgBGlawXVAtQrYKLh4iOGbd4rQVltfX56baDMPWECM6QkEHiDnwwnTjJebDGNzNErAKppmpIyc-yjGZUi3LkHIVH3hqOghuPoGge57G8OZJl1UeWqr1Mw9Yg6IOXrQ-WsW19IHToF-h-3-3FrC_1RT2_hhvsXHLk_HIVdpDx5XxYJDO5mFPgvFCwwtE0gwYIUkkhLxg4O62NPsRi4-znsjw7Ka3C-k7_hNDL2KRrVc3mHSquWrTfJEAEdhE_dbOvlAkYtSKpk5x3UoPO419hNwholkndAS8IpC26Vp-sKsyGgWhOxg.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/759ddd2cc9.mp4?token=i2R36NqztuttylvOydTq075weoLsEeaYVUsF2E-KcPRDto4ULNHKd9IklBs8ECLXQYWDCxuPOt-Dlzz5S_lK4ccOpU4WSYTngtdkWHARfQpbUlIw87OjN8NqmIY-_c9ZcXIgo0r4avfuz94SzLFLdQyQe88sY_l52ShyxAjSndmwEmUZOUIGzDhTZWh40CXm0rrNyU-CoFSGLYbV2Td_HuMMeSFYZQivEt0FxZvK3sWT0-wXUGx4zENeE_P2xOXN6e3dNQybz0UhpfDILNmM7YBy_3pyY4fjYIRNQ_ASn6W5JpNV0Sh7BxhdqGzOsfHerhjbeISjar64IxkTvQE5Iw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/759ddd2cc9.mp4?token=WjpMj2puOBfb87365UMCUDUeeruV_HDr70ZYa6iXvIFl9gXmfAqx_EPc_A3d-aPZSSg3GRgPjZUaSm4xOMteWg0kJvG-1fpkQA8_JPkqsRMI9OLum1GBAy8n4yJ5LlWSuFH7u17FtlM_INFydQUv0ywC944Qria_ocX5vP88ymZjA0t4HEyZKLDhvSEKVxyxTjO10khoSYpgRXev5Elt9l_iN-WgAdHwcwIg1uNVQCr6d26ayzABzdeHn0pJ6KIK577IlhsKnftIp0YWAo7HruflJKiPtvJ88xqHhXmXGApIx4EBNFarRzYz186EOPEIgk5s-Db4xuoS28tgCxKg9w" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/759ddd2cc9.mp4?token=i2R36NqztuttylvOydTq075weoLsEeaYVUsF2E-KcPRDto4ULNHKd9IklBs8ECLXQYWDCxuPOt-Dlzz5S_lK4ccOpU4WSYTngtdkWHARfQpbUlIw87OjN8NqmIY-_c9ZcXIgo0r4avfuz94SzLFLdQyQe88sY_l52ShyxAjSndmwEmUZOUIGzDhTZWh40CXm0rrNyU-CoFSGLYbV2Td_HuMMeSFYZQivEt0FxZvK3sWT0-wXUGx4zENeE_P2xOXN6e3dNQybz0UhpfDILNmM7YBy_3pyY4fjYIRNQ_ASn6W5JpNV0Sh7BxhdqGzOsfHerhjbeISjar64IxkTvQE5Iw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/759ddd2cc9.mp4?token=WjpMj2puOBfb87365UMCUDUeeruV_HDr70ZYa6iXvIFl9gXmfAqx_EPc_A3d-aPZSSg3GRgPjZUaSm4xOMteWg0kJvG-1fpkQA8_JPkqsRMI9OLum1GBAy8n4yJ5LlWSuFH7u17FtlM_INFydQUv0ywC944Qria_ocX5vP88ymZjA0t4HEyZKLDhvSEKVxyxTjO10khoSYpgRXev5Elt9l_iN-WgAdHwcwIg1uNVQCr6d26ayzABzdeHn0pJ6KIK577IlhsKnftIp0YWAo7HruflJKiPtvJ88xqHhXmXGApIx4EBNFarRzYz186EOPEIgk5s-Db4xuoS28tgCxKg9w" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👈
 رنگ‌های آیفون ۱۸
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52K · <a href="https://t.me/alonews/146430" target="_blank">📅 11:07 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/146430" target="_blank">📅 11:07 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146427">
-<div class="tg-post-header">📌 پیام #55</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HX-0v1IrGGFacKx5BrZaQUStUVONfIP0BpFrsFXXyVhaQLVwS2_O8L98cg91vjWa2qX_drdibxDm8t9MKpgb-DT4fEbijBVCsUmRRyOCh3-CbIfNIBLFji9XoFKYpHb65dSTbSVHH-Jf8c1MWVrs3etkTL8-_zh9lG0QQCgOjriCff0fLKQm6bi7NqPuxfZ6yxSD-xJ9T2OnCSjTL0DsPdxmKf9KUQtV3uWzPnYMPvSzuH48HsMboBT1K52ykvUwNsztCMub3pwZYPqACy8KQVaqPUYJxFtGGsh_eVAfkR73LvQV18F-vfh2xh-sKhnkQWGvA3p6CuW7IlmKlYrn6A.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #21</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/ZRzNUQ8PDe4dM76qpnv-J4ndiSEyWtBzKOozPMJCHS7zZ-cLywL3q8cT95roKDYn2cqGGcdHj-AInbuDPKvg66exU72eTnfFMc2KOMZN0OduNgyDUN_hQd-aBwq0MfmFv0RY_pISP75a6VdTnqmjen38T8OpYwrQoBQV84VKMEcb0hc0r7UIUQ4MFA4Pqs8EpeyUHuocdqXLB3HmaCJh59Gd783p_s11snib7XNzVc2TOMvnsTrdPChPT3zgKlR_9-QyxRTk5fqRrzQjBio0LCTSco_JGZYa7irKQtzLTJY0V2qoHEH7-t1_euxM0hIkUtSlgZ9SF6XurcI3qUObUA.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 قیمت نفت خام برنت برای اولین بار از ماه ژوئیه به 100 دلار به ازای هر بشکه رسیده است، این افزایش قیمت در پی تنش‌های اخیر بین ایالات متحده و ایران رخ داده است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 51K · <a href="https://t.me/alonews/146427" target="_blank">📅 11:03 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/146427" target="_blank">📅 11:03 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146426">
-<div class="tg-post-header">📌 پیام #54</div>
+<div class="tg-post-header">📌 پیام #20</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/e37c9e54d8.mp4?token=Ycq-rNf-yyVi5vqO_IRRANCPNJ-Bl3tf7AirDcCrKYCumOHZLvGEz0bpTA2ma_i2v3lRZ_wFjU-0GKFhFf9BrqAKDHetI18fNvyNRIaVaXTmHoklzTX4SKh6p8vSPsd95mtcma2RoOnIuD8P8a_u9G0ZVZJvpyXRl2oyjJWeQD3pxZ0VJ1F6xQoJ_vzRlF5PmanfSuy_RBiGNxmdfm2h4DTRnFA5o45CeKmUEpQ-sP9wkcuDuTxyyOZMiWZGpslDFr-wd0coxo_t4gCOszwQJPdM3Nr3IfdCvzIoavPJoKZ4-KqE0r4iZv8srZiG_VWSkGs_Y5tky3vnuS0eYBYjgA" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/e37c9e54d8.mp4?token=LhnGOmiHk97vsWPp4Z6EXB1dGA75a1PcSwnYfIxuXNc7q71TahbEZEbDTSHCNlYo97cKd8fFqXD59rL4dnZZ2SCwGUW9ySe72XG4rxgHWCR9udsqQNrMRjFxT_7hJDGn4w8d7Du6U6u37UXCFAua5_ajhetqHKjnANZVCjyXDj55wCEO7Y30trKfVpcm7fWtNdWZZbrkHyCj4c8Fh5bSt5_2EtBIvLFVp2Je0meO8S-_-ntsXYyV4H45kCQw6q8FZzt3XIcCxbIYzIli5r_IP1A7pya1NroPSyEsxOwiYt9cO9ABZqS6c4fSijMndKS7y4jNVgFUVLmpsEjKZFbrew" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/e37c9e54d8.mp4?token=Ycq-rNf-yyVi5vqO_IRRANCPNJ-Bl3tf7AirDcCrKYCumOHZLvGEz0bpTA2ma_i2v3lRZ_wFjU-0GKFhFf9BrqAKDHetI18fNvyNRIaVaXTmHoklzTX4SKh6p8vSPsd95mtcma2RoOnIuD8P8a_u9G0ZVZJvpyXRl2oyjJWeQD3pxZ0VJ1F6xQoJ_vzRlF5PmanfSuy_RBiGNxmdfm2h4DTRnFA5o45CeKmUEpQ-sP9wkcuDuTxyyOZMiWZGpslDFr-wd0coxo_t4gCOszwQJPdM3Nr3IfdCvzIoavPJoKZ4-KqE0r4iZv8srZiG_VWSkGs_Y5tky3vnuS0eYBYjgA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/e37c9e54d8.mp4?token=LhnGOmiHk97vsWPp4Z6EXB1dGA75a1PcSwnYfIxuXNc7q71TahbEZEbDTSHCNlYo97cKd8fFqXD59rL4dnZZ2SCwGUW9ySe72XG4rxgHWCR9udsqQNrMRjFxT_7hJDGn4w8d7Du6U6u37UXCFAua5_ajhetqHKjnANZVCjyXDj55wCEO7Y30trKfVpcm7fWtNdWZZbrkHyCj4c8Fh5bSt5_2EtBIvLFVp2Je0meO8S-_-ntsXYyV4H45kCQw6q8FZzt3XIcCxbIYzIli5r_IP1A7pya1NroPSyEsxOwiYt9cO9ABZqS6c4fSijMndKS7y4jNVgFUVLmpsEjKZFbrew" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👈
 تذکر صریح معاون دفتر پزشکیان به مجریان صدا سیما: شما همه چیز می‌دانید! تجویز نکنید!
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52K · <a href="https://t.me/alonews/146426" target="_blank">📅 10:58 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 57.1K · <a href="https://t.me/alonews/146426" target="_blank">📅 10:58 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146425">
-<div class="tg-post-header">📌 پیام #53</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/Lva0I60uYP72IDh866QvK2jtT43d5lES71Fiiu1gOEA3IJjH9Ed_cBV16rUoU7zdRgJsumQ3_XQYMKXxRFIB0Vh6yOe8njU8f4PyuhEJE82it4NUj6dn8ztEfuEsqMHKaynIQB-D_lxsmvQ3aWWHc-8geZcPEwKHxUba5gMIuiKX7__7HYt1wxSyWtMNLdV33_C1c0xntw-VBCThTbmXfPALszm9IcjmqGnlvLMK4-ItV54-x2hYBE4B8ssebGqpMhGhQbagj8kWSopoKkgnfz4b0PP0rpyyrb_XFx5Dn54V4Mkr4aYZOZgGtM2kBBMmEBwHTiFllaMLoBAuQgVOrw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #19</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/RsCsO3SRH1ul07CK7o-c9rrNaIvNwtnZBNNQeZJSNlWecCxv1yptwTbpxLfGCQ6r3x4nhll1-CW5F7xhF4vLkVF7kuKIpsyo4mFv5wPfkltbthzkAje2tx82lpyUMAElZovLqI7XgbZzOneS50_T3deXoPW_JyS6wgCsF015dPg2jkc2MwBxDV7Z4ISuokTqkS2sQMXYc0ejf-cduCMYHcMQqYG3SvARmOQzIkdoBBo5km0EJqq2IekvJlh--TdTcI62_t--qJ1ezpeJDfZYbRGHFdfViTiT4Qogmm0ajTbG3fqWUuJAoWCxH1-0l6C7_1hDD-oBwspfRj86Rrg37Q.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 واکنش رئیس سازمان فناوری اطلاعات به کارت زرد مجلس به وزیر: دفاع از حقوق مردم اگر هزینه داشته باشد، افتخار است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 52K · <a href="https://t.me/alonews/146425" target="_blank">📅 10:54 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/146425" target="_blank">📅 10:54 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146424">
-<div class="tg-post-header">📌 پیام #52</div>
+<div class="tg-post-header">📌 پیام #18</div>
 <div class="tg-text">👈
 اسرائیل در اعتراض به تحریمهای جدید بریتانیا علیه شهرک نشینان به کنسولگری بریتانیا در شرق اورشلیم اطلاع داده است که باید ظرف ۳۰ روز تعطیل و تخلیه شود.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 53K · <a href="https://t.me/alonews/146424" target="_blank">📅 10:52 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/146424" target="_blank">📅 10:52 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146423">
-<div class="tg-post-header">📌 پیام #51</div>
+<div class="tg-post-header">📌 پیام #17</div>
 <div class="tg-text">🔴
 فوری / گزارش‌ها حاکی از آن است که یک نفتکش در نزدیکی سواحل دبی، امارات متحده عربی، در حمله پهپادی ایران هدف قرار گرفته است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/146423" target="_blank">📅 10:48 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.3K · <a href="https://t.me/alonews/146423" target="_blank">📅 10:48 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146422">
-<div class="tg-post-header">📌 پیام #50</div>
+<div class="tg-post-header">📌 پیام #16</div>
 <div class="tg-text">👈
 مقام آمریکایی به نیویورک پست:
 در صورت ادامه شلیک‌های جمهوری اسلامی تمام ناوگان نفتکش جمهوری اسلامی  را هدف قرار خواهیم داد.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/alonews/146422" target="_blank">📅 10:47 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/146422" target="_blank">📅 10:47 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146421">
-<div class="tg-post-header">📌 پیام #49</div>
+<div class="tg-post-header">📌 پیام #15</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/0b2dd7afa6.mp4?token=WAfUVVcfLwu0TxQ_lYMx1t3WcpGXcU2UMYg3aAboJQlcCYzVRwOmeZNXYL7OO_3Nnt0OiLcqB2LKfcWGPUz0-WCG1sUZCHXgvaanW4xAu5ckM5fQv93pH3-fZ1Urn5Cb7yGl_6emuA4P5COSvWOWIR8ganguofh2m9u2DldV8_jqIBxF6EWLXqcyi3mVG-LWaSDNBeEcLX6q-8hb8SS9wExdnrtB-stmWvPVCPpOKkcHo5GimIk-5wQ5Qo30N40BRAD0pSYd2hlbDeekA_DM8HezVABF2TkikKAFLzi_xfD8Cw5UfRtmpn1p3TETe5uOGet9UCsEOEB_NCrSKX4zcg" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/0b2dd7afa6.mp4?token=chu7hYMPgI-BSmEaA7k3XPSSvApcfWv3f2DJwnxD-N_csSfxanbVrPnb-eaBzVgJVz6rEl6_dN9M33IK6pkmWQdHK4HIDdKUiRbJfU1e4jx_HwARChyPHXYt0claSV5kM20ev9PhKovbCGajDON1i8lygZohkPuxAuawNbKwRYFWWmyR5MUfUMyd6p3o-DfnGcFtUPkmPjSyWTpV5-t9Chn4Hkwnqaj5HWc7IeAgHTk1t5cUdNu0Fqxwtq669TqIhIO3VECzT3Fidsh5EYeTs-0rgFTeYjMxUxz29734NqlVJGB0jsHtRv3A2hiwzzzJpv2yq1lkoNZ4iNDZwJLd9Q" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/0b2dd7afa6.mp4?token=WAfUVVcfLwu0TxQ_lYMx1t3WcpGXcU2UMYg3aAboJQlcCYzVRwOmeZNXYL7OO_3Nnt0OiLcqB2LKfcWGPUz0-WCG1sUZCHXgvaanW4xAu5ckM5fQv93pH3-fZ1Urn5Cb7yGl_6emuA4P5COSvWOWIR8ganguofh2m9u2DldV8_jqIBxF6EWLXqcyi3mVG-LWaSDNBeEcLX6q-8hb8SS9wExdnrtB-stmWvPVCPpOKkcHo5GimIk-5wQ5Qo30N40BRAD0pSYd2hlbDeekA_DM8HezVABF2TkikKAFLzi_xfD8Cw5UfRtmpn1p3TETe5uOGet9UCsEOEB_NCrSKX4zcg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/0b2dd7afa6.mp4?token=chu7hYMPgI-BSmEaA7k3XPSSvApcfWv3f2DJwnxD-N_csSfxanbVrPnb-eaBzVgJVz6rEl6_dN9M33IK6pkmWQdHK4HIDdKUiRbJfU1e4jx_HwARChyPHXYt0claSV5kM20ev9PhKovbCGajDON1i8lygZohkPuxAuawNbKwRYFWWmyR5MUfUMyd6p3o-DfnGcFtUPkmPjSyWTpV5-t9Chn4Hkwnqaj5HWc7IeAgHTk1t5cUdNu0Fqxwtq669TqIhIO3VECzT3Fidsh5EYeTs-0rgFTeYjMxUxz29734NqlVJGB0jsHtRv3A2hiwzzzJpv2yq1lkoNZ4iNDZwJLd9Q" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👈
 تصاویری از انفجار ایجادشده توسط اسرائیل در شهرک المنصوری در جنوب لبنان
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/146421" target="_blank">📅 10:36 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/146421" target="_blank">📅 10:36 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146420">
-<div class="tg-post-header">📌 پیام #48</div>
+<div class="tg-post-header">📌 پیام #14</div>
 <div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromالو توئیت | AloTweet</strong></div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/VCOewTifWpSL5Yw5ECsQ5TOKf-A8SUy4RscO-AVVWBgLTl61GZZhsdPiTvG9dfW-I4ovgWGkj_BKHknCM7XffIStqnFSFPW0BrJIBj0D-cNFp0q4dqfT9q2OIJE8rwjUw8H_cTka2ldEx4P3opYJI8KtzFJHSpS6Zc8XvFTY58p6PopgnhDht2uIdG-G1gBc24Og1EatNGIXE804x_LaIUGhUqW7CFdL8xCwdWpKNRx5ZJ_23R75Oc_rTCd8uGBkV0S8Wd67BoAfuJ0ZsS_v9m4rUFTffwM4VjsWvDVP9qVpRs_tvunxUKbdF_Ih-oqeV0zchYFBUB8F9aufPgfJ5g.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/fVwt01G0tW47zWlOKufdn7rjB4y5f7nntaJurIji2GWumhcI3JOoFyuLTKrfAxVmc-B4Z2Pi7TzGkpowopSb_VPooajHXJoK6430fBiej3XyWwUbpdxYgHvT2ItOlfsngefdquEv8SHfyEwK-kB_a1ITb8drd5AiBD9f4JLX94QOWVebIDr6-xOxb2PdFSsDEUNixHTjEGk26rQ0-3RsuzOxljfjwLUALxc21w0rYIX35xnSVJb9WTr4tm-0PbtFTAjJdJtCmS-5rLsoYN8Wyf8NE-RfG8pQCKVSa_XYhsZ3umpRIfwXfOeFVwtCME2CX_GMoE4wqx1EjzgtFg-_-g.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">مردم ایران با دلار ۲۳۰تومنی تو مترو
 [
 @AloTweet
 ]</div>
-<div class="tg-footer">👁️ 55.1K · <a href="https://t.me/alonews/146420" target="_blank">📅 10:32 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 60.2K · <a href="https://t.me/alonews/146420" target="_blank">📅 10:32 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146419">
-<div class="tg-post-header">📌 پیام #47</div>
+<div class="tg-post-header">📌 پیام #13</div>
 <div class="tg-text">پادشاه آفرود ایران شده 1/300 میلیارد تومن
 ‼️
 🆔
 @AlirezaMehrabi_ir</div>
-<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/146419" target="_blank">📅 10:32 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/146419" target="_blank">📅 10:32 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146418">
-<div class="tg-post-header">📌 پیام #46</div>
+<div class="tg-post-header">📌 پیام #12</div>
 <div class="tg-text">👈
 آخوند ، طائب: آقای ترامپ اگه میگی مارو شکست دادی، پس با کی داری میجنگی؟
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/146418" target="_blank">📅 10:22 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.3K · <a href="https://t.me/alonews/146418" target="_blank">📅 10:22 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146417">
-<div class="tg-post-header">📌 پیام #45</div>
+<div class="tg-post-header">📌 پیام #11</div>
 <div class="tg-text">👈
 هشدارها در خمیس مشیط، جنوب‌غرب عربستان سعودی، فعال شده‌اند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/146417" target="_blank">📅 10:19 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/146417" target="_blank">📅 10:19 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146416">
-<div class="tg-post-header">📌 پیام #44</div>
+<div class="tg-post-header">📌 پیام #10</div>
 <div class="tg-text">🔴
 نمیخوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چ‌خبره
 آیدیش:
 @khabar</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/146416" target="_blank">📅 10:17 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.3K · <a href="https://t.me/alonews/146416" target="_blank">📅 10:17 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146415">
-<div class="tg-post-header">📌 پیام #43</div>
+<div class="tg-post-header">📌 پیام #9</div>
 <div class="tg-photo"><img src="https://cdn4.telesco.pe/file/s5KNhbaNWq0LGTfyhmBLYN0_yAnaiwZvetuDX1bzx_T9vk47Bf0oaA1EdAW-VgiaGNjy3aIrA0lniyVVL3-Dsgz6XXBuO3nbqBqOoQMDpb26hx0qMx-JDsFVMQiU9n_4urCTEKMtRlqSHMiLaAQA-5STqsjAdG3QmG3Ud1IYC-DB4NxAOfEHcDLUeQ-CwVpASpJn5OSMvDaiJ4EqjghGUKLoEgNn8pSFJ3UncxGsmJ9T3bmu_yfya9KYBG-Vqvh9hUf0eIdAwIV087mc4HGCwjdp9oc1qKug241skhyRyUv7qUKvmGYo8wEwLhU_JW72i3QP3-RMM-W--Idfvdg-Ig.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 انتقاد حشمت الله فلاحت پیشه از هدف قرار گرفتن نفتکش‌ها: ثروت‌ های ملی به آتش کشیده میشود، باید به ایران سوزی پایان داد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/146415" target="_blank">📅 10:09 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/146415" target="_blank">📅 10:09 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146414">
-<div class="tg-post-header">📌 پیام #42</div>
+<div class="tg-post-header">📌 پیام #8</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/c43f6f01e8.mp4?token=fcKWLMZ32LYsPFobZi3-wP8i4t4mpowwupwoAgBh0BWGHARw1_z-XKNw8HEvbulE3oxZPaET-wrt8CJayjyVRylCehOHWzdoJON1Rx_yfYGgr2G4doHvWtoS0fWTGHz-aDDz8QY_T9EBNOMXi_Oa4LQB9efx4KEcKtG6-47of_zvl-HtqUM1djmWaeefASXzc1mcgCIRCMW53cus-fVzT93OOb-1ctwap_mrVhz1ZmiBOD5qYE9hf_yy0UJV0aj-QJUEzS9TxSspE45XIL2CVf6X4i-hnwtatXe4bd_-ujbOQl-veKF9PPS1VpTSi3C47PuG9WsjcCUMe4joznxNqw" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/c43f6f01e8.mp4?token=g_Z31IviVSjczsPj_j9ac4yYJ6m1uXxV6iv4UDXwXJWOTUg6YyJF-vo1zrQ2qdllN0Y382XGxwtNRlZ4m8t-AkLtKKSF4E8xSLdBkzn5RX5U0G2113wARPSoju6sswcoSI9EF5QmgzdbuC__rK6x0mdNX6v84pvStcQXb_EUssWfS-JQ-fdOaPoPCeLT_KfCQfb17EDcmpw5aJ5JR1n7m86paaq10RhC_nbz4wgQ_1FSYDo1mTdJz7YBdQNbBqla48rvAslbGlycZUVtohX-z7U1FJhL0bAXRmb0e1gpJRN9bwEBNndAd0bqR8DfJi3ShPOL6WVoqDTtuJcMdqmoeg" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/c43f6f01e8.mp4?token=fcKWLMZ32LYsPFobZi3-wP8i4t4mpowwupwoAgBh0BWGHARw1_z-XKNw8HEvbulE3oxZPaET-wrt8CJayjyVRylCehOHWzdoJON1Rx_yfYGgr2G4doHvWtoS0fWTGHz-aDDz8QY_T9EBNOMXi_Oa4LQB9efx4KEcKtG6-47of_zvl-HtqUM1djmWaeefASXzc1mcgCIRCMW53cus-fVzT93OOb-1ctwap_mrVhz1ZmiBOD5qYE9hf_yy0UJV0aj-QJUEzS9TxSspE45XIL2CVf6X4i-hnwtatXe4bd_-ujbOQl-veKF9PPS1VpTSi3C47PuG9WsjcCUMe4joznxNqw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/c43f6f01e8.mp4?token=g_Z31IviVSjczsPj_j9ac4yYJ6m1uXxV6iv4UDXwXJWOTUg6YyJF-vo1zrQ2qdllN0Y382XGxwtNRlZ4m8t-AkLtKKSF4E8xSLdBkzn5RX5U0G2113wARPSoju6sswcoSI9EF5QmgzdbuC__rK6x0mdNX6v84pvStcQXb_EUssWfS-JQ-fdOaPoPCeLT_KfCQfb17EDcmpw5aJ5JR1n7m86paaq10RhC_nbz4wgQ_1FSYDo1mTdJz7YBdQNbBqla48rvAslbGlycZUVtohX-z7U1FJhL0bAXRmb0e1gpJRN9bwEBNndAd0bqR8DfJi3ShPOL6WVoqDTtuJcMdqmoeg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👈
 ترمینال نفتی روسیه در دریای سیاه هدف قرار گرفت
@@ -990,34 +1400,34 @@ https://t.me/AlirezaMehrabi_ir</div>
 پهپادهای اوکراینی دیشب به یک ترمینال نفتی در شهر «نووروسیسک» که یکی از بزرگ‌ترین بنادر روسیه در دریای سیاه است، حمله کردند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 58.1K · <a href="https://t.me/alonews/146414" target="_blank">📅 10:08 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 63.3K · <a href="https://t.me/alonews/146414" target="_blank">📅 10:08 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146413">
-<div class="tg-post-header">📌 پیام #41</div>
+<div class="tg-post-header">📌 پیام #7</div>
 <div class="tg-text">👈
 اسرائیل در اعتراض به تحریمهای جدید بریتانیا علیه شهرک نشینان به کنسولگری بریتانیا در شرق اورشلیم اطلاع داده است که باید ظرف ۳۰ روز تعطیل و تخلیه شود.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 56.1K · <a href="https://t.me/alonews/146413" target="_blank">📅 10:05 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/146413" target="_blank">📅 10:05 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146412">
-<div class="tg-post-header">📌 پیام #40</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/HDyDX8SX6aI1FiJiMK4cKxU7gNKYubhVmkFXInnRMc8ykEZ3LLQ0umhHbUOfr7JL71FGUpeUvsTy5rFwQFqFUoq5smraoZFyyd4hHJYoPdxgyVTCjwF83rPSZh2zqjvyn3luFS8CE3JSQHpcNuDVefK_FuwUdqoRdrLdaXBdo_aV_yytx2syVH9FFmCr2Vo0OFtO4CrtkRBEr8z39J0nKDRCzuaydnrKSzba8on-s-VDPZgaq8DHAV8SW1olAoMpaFnNI35TwEP1-UWWqZD15sHDc2ftfjT5W-pB8ZvfGQG7bvJL1UUGiGLmGQT04TMxC8hZpa3UXQLXNXVIgGZOZg.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #6</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/co_kKBK4cvNU_k5Rva3GMl0g-Klyhlwg84L1iOKFeKUOzyXTS2qV8LXlAleKjs-MN6U4czVwdPfBbO0UERaiO8bFk5TRvtcmq1RAtI3-1dp-RvDtEYUH4idoool83lEepvzeaK0sYhURopBmaKJQ8QxyEGwMDR1rgbUed95x3p-p6bWdGt0ZMhA9UpWn5tBNThpyd9XvlBhhSx3__mNZ_Vr7kwcYbODh961F6upwVeJ9zpN7rlRiTtGkRpZkhlfuv7keMdiaPJaYN6XB7BeSEV1yUWl_B_RXHztN3spODbzEsd0nroQAYTM5v6a6GNZ51Ckj7P_AfEHAFwB9yH491A.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 مدیرعامل شرکت ارتباطات زیرساخت ایران: قطعی فیبر ساعت ۰:۵۵ برطرف شد و شبکه پایدار است
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/146412" target="_blank">📅 09:55 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 65.3K · <a href="https://t.me/alonews/146412" target="_blank">📅 09:55 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146409">
-<div class="tg-post-header">📌 پیام #39</div>
+<div class="tg-post-header">📌 پیام #5</div>
 <div class="tg-album">
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/jZkyT5TFuGHbXYou1j8IUc1lU79GxMX2PRk_Bv-YkQRWx79oeGDOKN_fXeYGoMKFvDUnJy32H6t7qRNugDAODEZIb-RPpbhkjpjk2W6vjgBwp6yOOZ7wHfKatJvDiIGXyogjdfovec1L_hLl1eZUH4edfyOh1iIYQ7Mw0kjyG8YwIIH4Thsjx71Mn2Xihdb7Ce4FgVppt1GUYileT6pOtzSesQocMqr_WYxHaHBB8J2jrqHiUKLolIaFDjZHEL8SXOKePQZkgA_aI2cX_OUjSBjLlPkABmm0N3TNqm7OLM8XZ-kM5_U9epITWVLWKKFySJ7a9Ls1dmtOEIisH086Mg.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/AMadHFWF_pYGqVxyEpL2RBh_mB8il1R15CUgZVj1mz77sRrg5BWyZ86kCu6XY9JDc_fr3R0BD1nCR00vncB0SJG9z4ykdW1h8azh71CBXchNzE7X80bgZl7RPy4gQrtdsyAGbfm3vbVXqHFA7mzp0_szf-o_2XxwCI5FQK2JHsxOmtzblExNN57SIR0YhfX4iORRedZeN9g4ARNZc24-5VBLWxAes1WKAptnpLXuffDCHyNj8TS4fKdHi7ofAFtaMFLbUsz8aJ6eF1XUGRcEo_0jITXRF2KsLcF8Q6WEkXpTZ7eHeddZCilGA1MJkWHdoxzvYDkfJf1kK4dkNCEohQ.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/Txtj9xmzXB6vR3UpoIKEdgspSnCgv8DJxTFZypKolNJeMPXDLG69sZg-7GnuJsmZN7Bzv87YP0b2lD20WBOuTFuFil1_7oClK_UEdplvrcsc8wSnPSmvrJycVsH1YiocvAB4WChQOt-kbfy5rfZEvE3Y7dHzZNFV-L1ngTFZJSjrdAEMUaJnnWF2W1jYqdpPMLc1TaxACTcQhBTiT8_SKBnzXUQlx1Xkc82HmKR2oOjvbf5NjnDEfkejj8dngi5deYNWCtvbA0YZ4bH8cp0erCp1jsaFawqlOTN0wRvgMPGlVjQVo7yqQSF7XRccxbRGFgBYxuRT6KpuQ57XOtMiRA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/inIuEH8QAhIfHrT_2Skj2KXK9wlO2eyiyvEpXGx4DGz9khO4Mnan8lpWgsaCz6HGP37wVxVzbBmvu8MGkb_BLo7d35zzEVQMZVHVvK1A79ZPSVky0V5C18K_OW_9gHxFxDUghRE-S_1XwCczOPs6MWydR8WVLxIKjhLad2E0IOp_6vG9tstAzJrUf-upStdDnBq3m5E2kmT6zzgba4OqZKUHth-DNMJI79QS83PofzHU0QUL5lvoXy-tTdkImRJpZPt3kp7Ub2Ue5y6Pt-cxpVWo4cU_CBFianeqGbcMFfz4EYxyVvVtkXFOhAXy8znPXSF5B-xjonh8MXyMY9tlhw.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/PjmB8-XZw0GePfMtS-2g-iIPCEP3IxCartSfwtbsC_jhRZ4Xi0YOf_4hNoIQva0Xn89V3ek2rLP8Izkdg9cc_-7stG5EiyKQ-nWDfFZssg3H1jHKslGbXWd6khnBvkbY-d4xonapiZ_Rnk12MmW2xRoyPz8UJEWRnzudhb9d8iXmWx23OtKoYqk8p9yTlBU-D4dlkOSFI3uzzv4sdXYRP0X4pNfeXvfEtBKzwY7Hd9u22UANIWNvAUNDOEaisEcy93C10Z8AEKMuTgKmpXITS3NPa44l9BU_WUSDJ8_UfEYHZMtrCf6eGSVlhBb-Cupxihq6kCvR93Vd0I7QqdNJkA.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-album-item"><img src="https://cdn4.telesco.pe/file/eoXSU0_X1_EUuDUkgxQr4MSV1sWQMIrSV8kxueX48eodPusVmWwXMsnroWW8h3YEFvcRdWa8TvIq11Xant4dcYCLE4s9pGqIhWk9qsYJa5k5c2Jl7g2ZSGqtTZEmNDAMGCGOhNritU7RIhNUtQ5GbeEL4g_isW6NHLBl3-JSe_DCA8vcy8GNCyxD9NyVMOxvkk4yIy6WhyzlrCGh4JyAm2hIPddO0OGEeJbfsqKYM4mG78U7sRDAAsb8OWop3SLIxBwjtMxzg0xRb-mXnbeshpabiof5e96_HrA8Jk6J6TrITz012HZlSe0ICLxQ_pB3VEyH0at6nWUzc_gE7TTfEA.jpg" alt="photo" loading="lazy"/></div>
 </div>
 <div class="tg-text">👈
 آسانسور غول‌پیکر چین؛ کشتی ۳ هزار تنی را ۱۱۳ متر بالا می‌برد
@@ -1027,48 +1437,48 @@ https://t.me/AlirezaMehrabi_ir</div>
 این سیستم عظیم با وزن ۱۵٬۵۰۰ تن، زمان عبور شناورها را به ۴۰ دقیقه کاهش می‌دهد. استفاده از ۲۵۶ کابل فولادی دقت این مهندسی را به دو سانتیمتر می‌رساند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/146409" target="_blank">📅 09:46 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/146409" target="_blank">📅 09:46 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146408">
-<div class="tg-post-header">📌 پیام #38</div>
+<div class="tg-post-header">📌 پیام #4</div>
 <div class="tg-text">👈
 وزیر خارجه آمریکا: در واکنش به حمله به ناوهای جنگی ایالات متحده، به حملات علیه نفتکش‌های ایرانی ادامه خواهیم داد
 🔴
 هر بار ایران به کشتی‌های جنگی ما حمله کند، یک نفتکش را از دست خواهد داد
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 59.2K · <a href="https://t.me/alonews/146408" target="_blank">📅 09:41 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/146408" target="_blank">📅 09:41 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146407">
-<div class="tg-post-header">📌 پیام #37</div>
+<div class="tg-post-header">📌 پیام #3</div>
 <div class="tg-video">
 <video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/b64f3accac.mp4?token=DLRgoJsRnaX5Oq48K7fwQMceCGQv9M2dmPAYOIaGndI6ZYZbA1jldy4XPzOal8RRcRqwwVaFAm9uXWEhtYAhPXrl3uHetfUL2mJFC_kB7qVSIo1VB4d4jMYLs55cLcMcKuyF2nLoL8z6yFPsXhw6BCKCpG18lM3yhD9L97_dOYnH-3xqbpxGFB3LhM7PKG3HbF2oUnO3p5ypf0NVMd4PYNQ2A2LPYnlwd-AuqlZ1L6IslbMJIDM8b2vHoCjnGYf548AKnIDnx99aSDtvh2Ji_s8i9kaz27k622zakFjem-GmeqVe0sO9OvwYueJEJcpy-saPUKeNxpfVWq5pDu7J1A" type="video/mp4">
+  <source src="https://cdn4.telesco.pe/file/b64f3accac.mp4?token=GLfgkCbNXh6K3fxOQuoURdtF5hZ8-Zfvvw3dxiNAc9-Df4MMll4ys3TDawMhCHGBOgKCrkul9eWVQ2-VYKkSuOvIcy5CUJW50Str5VubNUzjqzjBPlLrk6MT0MMpodTVY1n9YRcwyZKnGUCy1oC1_UE8hnJIlz6MrWsa-jPAdBX-POjLqYH3eAsnvUpSFOrTW0okDW2ga-giszdtxMnKItzPyVXVCFOxTXjm7IJHM3IJoTYEugqYPRFxXx0rHg4KQlk92a4O2mAxCdvAUZg5MokWsodN7PFbN1POjD1s9nKrd1_kukdOcVN9ET428T0rOBTk8ODOLa4XEOs0xkTaKA" type="video/mp4">
 </video>
 <br>
-<a href="https://cdn4.telesco.pe/file/b64f3accac.mp4?token=DLRgoJsRnaX5Oq48K7fwQMceCGQv9M2dmPAYOIaGndI6ZYZbA1jldy4XPzOal8RRcRqwwVaFAm9uXWEhtYAhPXrl3uHetfUL2mJFC_kB7qVSIo1VB4d4jMYLs55cLcMcKuyF2nLoL8z6yFPsXhw6BCKCpG18lM3yhD9L97_dOYnH-3xqbpxGFB3LhM7PKG3HbF2oUnO3p5ypf0NVMd4PYNQ2A2LPYnlwd-AuqlZ1L6IslbMJIDM8b2vHoCjnGYf548AKnIDnx99aSDtvh2Ji_s8i9kaz27k622zakFjem-GmeqVe0sO9OvwYueJEJcpy-saPUKeNxpfVWq5pDu7J1A" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
+<a href="https://cdn4.telesco.pe/file/b64f3accac.mp4?token=GLfgkCbNXh6K3fxOQuoURdtF5hZ8-Zfvvw3dxiNAc9-Df4MMll4ys3TDawMhCHGBOgKCrkul9eWVQ2-VYKkSuOvIcy5CUJW50Str5VubNUzjqzjBPlLrk6MT0MMpodTVY1n9YRcwyZKnGUCy1oC1_UE8hnJIlz6MrWsa-jPAdBX-POjLqYH3eAsnvUpSFOrTW0okDW2ga-giszdtxMnKItzPyVXVCFOxTXjm7IJHM3IJoTYEugqYPRFxXx0rHg4KQlk92a4O2mAxCdvAUZg5MokWsodN7PFbN1POjD1s9nKrd1_kukdOcVN9ET428T0rOBTk8ODOLa4XEOs0xkTaKA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
 </div>
 <div class="tg-text">👈
 34 میلیون تومان وجه رایج مملکت
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/146407" target="_blank">📅 09:36 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 67.4K · <a href="https://t.me/alonews/146407" target="_blank">📅 09:36 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146406">
-<div class="tg-post-header">📌 پیام #36</div>
+<div class="tg-post-header">📌 پیام #2</div>
 <div class="tg-text">👈
 سپاه: ناوشکن‌های رزمی DDG-119 و DDG-53 آمریکا مورد حمله قرار گرفتند
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 60.4K · <a href="https://t.me/alonews/146406" target="_blank">📅 09:27 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 64.5K · <a href="https://t.me/alonews/146406" target="_blank">📅 09:27 · 18 Shahrivar 1405</a></div>
 </div>
 
 <div class="tg-post" id="msg-146405">
-<div class="tg-post-header">📌 پیام #35</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/gU9l4KgDOFqLaoYaG0chxZ2TtTwx2TAi_LV8iFp316HonfGrZktffzjjB4QxKT3wYdX06Dnq6S8NLdED9cRMZIunRAEMrhSlg6miV1N8yigsz5R4ypsepyRs8kDxLW137pkHBAPgJpcaLzww0Mb24kOlW0zAzBex44N0c-SF8kVghHPgEuJ61GrYdiG4rQYAq8tkSh7IiABG6t7x_XKrJzzVN6uSwekaISZiAHxVGI7NPBKLlazE5m2nkXE9oH0yTOXVQumAS1cDQsqIR12bUJ15I1S7JUySDiUDU7CSMQjs9lQXOVCXGX3aja8NsqcxvPgZ_46EjPw9tLjx4u2neQ.jpg" alt="photo" loading="lazy"/></div>
+<div class="tg-post-header">📌 پیام #1</div>
+<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/r8hpwdcJJe8JrUhvSDx4BKuGFjwqb2hIsrUSPT6APJKzjO7eVAL0k27-vMA8TGZthfpuzWNFSnC6oYRS115VjuF7GPI3pxky6u5zJb6z9FRe9coS30khR7Mx-KE85y-CsOJiSqqXPRhSO3nOpH8SB8ARpXJx5Qvd22uFl1m7fUX0gka4OFrjhgNVe-vI-MVJG01GnWofatl28v9yjxdWYgpMEKPiOXa_X3mbGv2lipF7Bi5Gb-EOAhgx1oHn4DvBBa3AFSn8ATdcGSWzjsbxH0FkVty10v0Ltx7Qv_JF6HmMtNWe6dcNWzPHqlXMr2d9XGuTK-M_w3lPwkG7AHWlUQ.jpg" alt="photo" loading="lazy"/></div>
 <div class="tg-text">👈
 آکسیوس: دولت ترامپ با اقدام تحت رهبری بریتانیا برای تحریم شهرک‌نشینان اسرائیلی و نهادهای دخیل در گسترش شهرک‌سازی در کرانه باختری مخالفت نکرده است.
 🔴
@@ -1077,353 +1487,7 @@ https://t.me/AlirezaMehrabi_ir</div>
 مقام‌های آمریکایی همچنین به بریتانیا گفته‌اند که درباره سیاست اسرائیل در کرانه باختری نگرانی‌های مشترکی دارند، هرچند با خود تحریم‌ها موافق نیستند.
 ✅
 @AloNews</div>
-<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/146405" target="_blank">📅 09:21 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146404">
-<div class="tg-post-header">📌 پیام #34</div>
-<div class="tg-text">👈
-عبور ۶ کشتی حامل کالا از تنگه هرمز در روز سه‌شنبه
-🔴
-داده‌های شرکت کپلر نشان می‌دهد که روز سه‌شنبه ۶ کشتی حامل کالا از تنگه هرمز عبور کرده‌اند؛ موضوعی که نشان‌دهنده کاهش این میزان نسبت به میانگین روزهای گذشته است.
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 61.2K · <a href="https://t.me/alonews/146404" target="_blank">📅 09:17 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146403">
-<div class="tg-post-header">📌 پیام #33</div>
-<div class="tg-text">👈
-آتش‌گرفتن یک کشتی در قطر
-🔴
-قطر از وقوع آتش‌سوزی در یک کشتی در بندر «الوکره» و مهار آن خبر داد.
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 63.2K · <a href="https://t.me/alonews/146403" target="_blank">📅 09:14 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146402">
-<div class="tg-post-header">📌 پیام #32</div>
-<div class="tg-text">👈
-منابع یمنی: جنگنده‌های سعودی ۳۲ حمله هوایی به استان‌های مأرب، الجوف، تعز و الحدیده انجام داده‌اند
-.
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 62.2K · <a href="https://t.me/alonews/146402" target="_blank">📅 09:11 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146401">
-<div class="tg-post-header">📌 پیام #31</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/7dee846013.mp4?token=pTkTrRXe2m27G1wsJNceVXk6ErN6bVSZKhES4TlpnEVGyzLjRIYnlKrwrq3eqUMAxYdGJsbdY18S7AkT0OzHGU8Dw4kgcxN-tubyVd92A0EUYu0jaCsBc2PjtXwJ0SK6ZEyBIT5A1VTPfUxyEBneOePYj8vwfN4-b8doBPjggaFaJNt0qP4wtF7AxP1FoK3hnPcMoXj9eLvQvY_uEksZ5UjGoXMccNz2UPMlU567kggoOJplSYFYLNT_J-mg5zGSznNr-fBQwOQaD07njen1efbOaBcQBrbAu51hEWIVz2e_WyYFC4waLB1aNl3xmPHX9u6EfVCrNW88c_tUrfCgNA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/7dee846013.mp4?token=pTkTrRXe2m27G1wsJNceVXk6ErN6bVSZKhES4TlpnEVGyzLjRIYnlKrwrq3eqUMAxYdGJsbdY18S7AkT0OzHGU8Dw4kgcxN-tubyVd92A0EUYu0jaCsBc2PjtXwJ0SK6ZEyBIT5A1VTPfUxyEBneOePYj8vwfN4-b8doBPjggaFaJNt0qP4wtF7AxP1FoK3hnPcMoXj9eLvQvY_uEksZ5UjGoXMccNz2UPMlU567kggoOJplSYFYLNT_J-mg5zGSznNr-fBQwOQaD07njen1efbOaBcQBrbAu51hEWIVz2e_WyYFC4waLB1aNl3xmPHX9u6EfVCrNW88c_tUrfCgNA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-اسماعیل کوثری: ستاد کل نیروهای مسلح، سپاه و ارتش از سال‌ها قبل برای ایجاد آمادگی لازم، برنامه‌ریزی‌های دقیق و بلندمدتی انجام داده بودند تا در شرایط حساس بتوانند پاسخ مناسبی به تهدیدات بدهند
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 65.8K · <a href="https://t.me/alonews/146401" target="_blank">📅 08:57 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146400">
-<div class="tg-post-header">📌 پیام #30</div>
-<div class="tg-text">👈
-سی‌ان‌ان: عربستان در تلاش است تا کشورهای دیگر را علیه یمن وارد جنگ کند
-🔴
-پادشاهی سعودی پس از حمله بزرگ ارتش یمن به خاک این کشور در حال برنامه‌ریزی برای پاسخ به آنها در یمن است و متحدان خود را از برنامه‌های خود مطلع کرده است
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 64.3K · <a href="https://t.me/alonews/146400" target="_blank">📅 08:52 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146399">
-<div class="tg-post-header">📌 پیام #29</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/bede8db302.mp4?token=b8cAMvW54lg5V3YD0YqBaXg5_P4tB9GUqwJh2QQhO1WgH6OuEiExNchqnuQN9_jgoB7yd1BqIlKYk7ztl1LDt6grghsYGd1wo_BhftFtjVW7XoLH8TJq2MUHvfT8oDhvzyaX5tHeDszbkycSuXNoeTgE06GQ7JAa9kiogsTXAZmIl41DUg-EcDE3ndjrcsGjiHjNXUqIOR73mz4Rg5sLX5babF4uvvsRU-SEnGBMvL5Syvt0wN0FphTbkR_Z49oKAI8Byv73n_0pIuPd-nzu8EaZAYlkE79adHezQrQxTjxTBP7qV5p3z0gxu3BSkBg3efoSYM2LJxwC1vM9KuBaSA" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/bede8db302.mp4?token=b8cAMvW54lg5V3YD0YqBaXg5_P4tB9GUqwJh2QQhO1WgH6OuEiExNchqnuQN9_jgoB7yd1BqIlKYk7ztl1LDt6grghsYGd1wo_BhftFtjVW7XoLH8TJq2MUHvfT8oDhvzyaX5tHeDszbkycSuXNoeTgE06GQ7JAa9kiogsTXAZmIl41DUg-EcDE3ndjrcsGjiHjNXUqIOR73mz4Rg5sLX5babF4uvvsRU-SEnGBMvL5Syvt0wN0FphTbkR_Z49oKAI8Byv73n_0pIuPd-nzu8EaZAYlkE79adHezQrQxTjxTBP7qV5p3z0gxu3BSkBg3efoSYM2LJxwC1vM9KuBaSA" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-تصاویری از لحظه شلیک بیش از 100 موشک پاتریوت، سیستم دفاع هوایی آمریکایی، در اردن.
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 68.4K · <a href="https://t.me/alonews/146399" target="_blank">📅 08:47 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146398">
-<div class="tg-post-header">📌 پیام #28</div>
-<div class="tg-text">👈
-وال استریت ژورنال: حملات اخیر ایران علیه تجهیزات نیروی دریایی آمریکا نگران‌کننده است
-🔴
-تلاش‌های اخیر ایران برای هدف قرار دادن تجهیزات نیروی دریایی آمریکا این نگرانی را ایجاد می‌کند که ارتش این کشور از سلاح‌های پیشرفته‌تری استفاده می‌کند و ممکن است از چین یا روسیه کمک دریافت کند.
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 69.4K · <a href="https://t.me/alonews/146398" target="_blank">📅 08:42 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146397">
-<div class="tg-post-header">📌 پیام #27</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/a6c355c1f2.mp4?token=u8Cd_8rKrdXw1xifDDdPj-oUj-GrLmrjV6FSMbTouR2QIq1XFMDl2Ekeza0ePkZzvvpOclscOQiZafGKyu0vQ1xXox-89nSCdzHMTCAia16ozv-fUlWQijv98KV3xK_a0cYCTPL9b-yiFbusunOapHhwaYhHJeMGhspD2h66Odd4lseanGfJKueOVv8WBdMowF3mon6ZXNFyQV5I9lWvseYjothxoizAXb3odmaVJwfvhNHOOdsWXUuOdQy8EprtGqdL6hIq4RlZJ13jUij9fclgJTl8Sxs3AEvJN_xDnInSNSDieoMxlAnLkaGpHk09brFPfJkdCw9sb_EcwR0S3p971SYmgz08YvwKDXEF3JL8HrDN96A23DvEC0uebeoI6Jt_r6_GxVn78c6zyZhmAAc5MUlOC-DXEdbLL8sy7q9XyrNJhpO9aF2jjZLm1tXcVGPtDg9A4-EfJm2WOPjIECfda2Q3CCcCw6D6KN7MbiAgJakvUZx5W1wfI8BLijUuCixZxK7rbnF0nfwhiRNQ2E9SAcsFLkFJs396fnAnfQKsWQ3vFOmVr9cSj4EN99sJPQSoQPiIaA4K3r0sDgy0jJ28Zs-nJRsWMQwzFg6-M0HvejTL2zgTHSWwJy-RWW20mK2T6AUz6QoUl81uPkXOGU-BiJ20j8sPrRe0VtF2bLw" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn1.telesco.pe/file/a6c355c1f2.mp4?token=u8Cd_8rKrdXw1xifDDdPj-oUj-GrLmrjV6FSMbTouR2QIq1XFMDl2Ekeza0ePkZzvvpOclscOQiZafGKyu0vQ1xXox-89nSCdzHMTCAia16ozv-fUlWQijv98KV3xK_a0cYCTPL9b-yiFbusunOapHhwaYhHJeMGhspD2h66Odd4lseanGfJKueOVv8WBdMowF3mon6ZXNFyQV5I9lWvseYjothxoizAXb3odmaVJwfvhNHOOdsWXUuOdQy8EprtGqdL6hIq4RlZJ13jUij9fclgJTl8Sxs3AEvJN_xDnInSNSDieoMxlAnLkaGpHk09brFPfJkdCw9sb_EcwR0S3p971SYmgz08YvwKDXEF3JL8HrDN96A23DvEC0uebeoI6Jt_r6_GxVn78c6zyZhmAAc5MUlOC-DXEdbLL8sy7q9XyrNJhpO9aF2jjZLm1tXcVGPtDg9A4-EfJm2WOPjIECfda2Q3CCcCw6D6KN7MbiAgJakvUZx5W1wfI8BLijUuCixZxK7rbnF0nfwhiRNQ2E9SAcsFLkFJs396fnAnfQKsWQ3vFOmVr9cSj4EN99sJPQSoQPiIaA4K3r0sDgy0jJ28Zs-nJRsWMQwzFg6-M0HvejTL2zgTHSWwJy-RWW20mK2T6AUz6QoUl81uPkXOGU-BiJ20j8sPrRe0VtF2bLw" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-خوشحالی اردنی‌ها از دیدن موشک‌های
-سپاه
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 73.9K · <a href="https://t.me/alonews/146397" target="_blank">📅 08:37 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146396">
-<div class="tg-post-header">📌 پیام #26</div>
-<div class="tg-text">‏
-👈
-سپاه: بامداد امروز آشیانه تعمیر و آماده‌سازی و محل استقرار جنگنده‌های f-15، f-35 و f-16 آمریکایی هدف قرار گرفت
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 82.2K · <a href="https://t.me/alonews/146396" target="_blank">📅 07:33 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146395">
-<div class="tg-post-header">📌 پیام #25</div>
-<div class="tg-text">👈
-هم اکنون وضعیت آسمان اردن
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 85.7K · <a href="https://t.me/alonews/146395" target="_blank">📅 07:04 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146394">
-<div class="tg-post-header">📌 پیام #24</div>
-<div class="tg-forward">↪️ فوروارد از: <strong>Forwarded fromاکوپینگ | EcoPing</strong></div>
-<div class="tg-footer">👁️ 93.8K · <a href="https://t.me/alonews/146394" target="_blank">📅 02:26 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146393">
-<div class="tg-post-header">📌 پیام #23</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn4.telesco.pe/file/4468d01fd4.mp4?token=KSuSqW9aMXi0HgbJJzecm-5oxsMC92Yb4NWvqsmPiDyP3lpPE6Fbg0e2XhWNqbWoK__ylmxVPfzpsX68Mn1UJKOMRxc1lR1FtEAvhwRsPc_fDEVIcjmxNf43IIBxo2KU0kNYsSnx-y-RzWPHNGJNX9z5t9RMHEG_gGyn3wDN4gOI76Iitg0cdvHH6FtIUViv9eDzo8jMiKO4-9AW1XEPiFSGIkYsNmL6Pxt9w1MwWWwTlKutS_lkdogFPc-EWjlBvc9o_NMe37tWj3mIlJAZAjgbBIqIJK_Icw4pw8VtgmtFRC3T7tiCCtus5zHkW6LZSfky5rGKHH47zkeq6xrLPg" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn4.telesco.pe/file/4468d01fd4.mp4?token=KSuSqW9aMXi0HgbJJzecm-5oxsMC92Yb4NWvqsmPiDyP3lpPE6Fbg0e2XhWNqbWoK__ylmxVPfzpsX68Mn1UJKOMRxc1lR1FtEAvhwRsPc_fDEVIcjmxNf43IIBxo2KU0kNYsSnx-y-RzWPHNGJNX9z5t9RMHEG_gGyn3wDN4gOI76Iitg0cdvHH6FtIUViv9eDzo8jMiKO4-9AW1XEPiFSGIkYsNmL6Pxt9w1MwWWwTlKutS_lkdogFPc-EWjlBvc9o_NMe37tWj3mIlJAZAjgbBIqIJK_Icw4pw8VtgmtFRC3T7tiCCtus5zHkW6LZSfky5rGKHH47zkeq6xrLPg" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-سپاه ویدیو حملات به اردن رو منتشر کرده.
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 92.5K · <a href="https://t.me/alonews/146393" target="_blank">📅 02:23 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146392">
-<div class="tg-post-header">📌 پیام #22</div>
-<div class="tg-text">👈
-‌سازمان دریایی بریتانیا: ما گزارشی درباره یک حادثه از یک کشتی تجاری در تنگه هرمز دریافت کرده‌ایم
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 92K · <a href="https://t.me/alonews/146392" target="_blank">📅 02:21 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146391">
-<div class="tg-post-header">📌 پیام #21</div>
-<div class="tg-text">🔴
-نمیخوام جو بدم یا ته دل کسی رو خالی کنم ولی این چنلو داشته باشید بدونید چ‌خبره
-آیدیش:
-@khabar</div>
-<div class="tg-footer">👁️ 93K · <a href="https://t.me/alonews/146391" target="_blank">📅 02:16 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146390">
-<div class="tg-post-header">📌 پیام #20</div>
-<div class="tg-text">👈
-فرماندهی مرکزی آمریکا: ایران از این نفتکش ها به عنوان بخشی از یک شبکه مخفی چند میلیارد دلاری برای تامین مالی سپاه پاسداران و عوامل ایرانی در منطقه استفاده می کند.‌‌
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 95.1K · <a href="https://t.me/alonews/146390" target="_blank">📅 01:59 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146389">
-<div class="tg-post-header">📌 پیام #19</div>
-<div class="tg-text">👈
-ویدیویی که سنتکام از حمله به نفتکش ها منتشر کرده
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 94.7K · <a href="https://t.me/alonews/146389" target="_blank">📅 01:55 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146388">
-<div class="tg-post-header">📌 پیام #18</div>
-<div class="tg-text">👈
-فرماندهی مرکزی آمریکا: پس از اینکه سپاه پاسداران انقلاب اسلامی ظرف دو روز دو بار یک کشتی جنگی آمریکایی را با موشک‌های بالستیک هدف قرار داد، 5 نفتکش ایرانی را منهدم کردیم.‌‌
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 92.1K · <a href="https://t.me/alonews/146388" target="_blank">📅 01:51 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146386">
-<div class="tg-post-header">📌 پیام #17</div>
-<div class="tg-video">
-<video controls preload="metadata">
-  <source src="https://cdn1.telesco.pe/file/c99f81fed2.mp4?token=N6x7bjg7nBvfNp3QdloHSVqRT_IXbFZh5kiG4mUAHls5sv_jlL2ud7HV27Ty7bBArdUKHj6u72cxxNCFAVP4mi7u5wU17qE2fD0WhFg-nBaULn4N78_5NU5OOf1pak_St3C17naDZ9P4om9oE483uikU9SsyDs-cyjM6ubUyFVVBx1ITyNn9bx260RlUkZL4Wji_Pv0virUi5H4Couel0OirpeD9VvbOHEk4oSdsZDA_CJY9rWW1-13_6is_06W06Gz7I0cmFtRBB7K10x3jI8ikH-r0DryDkj-qwT639QV7c64tEUNn6iafwcOC_P1e_tT412t59cEmNZo7P1xgbQ" type="video/mp4">
-</video>
-<br>
-<a href="https://cdn1.telesco.pe/file/c99f81fed2.mp4?token=N6x7bjg7nBvfNp3QdloHSVqRT_IXbFZh5kiG4mUAHls5sv_jlL2ud7HV27Ty7bBArdUKHj6u72cxxNCFAVP4mi7u5wU17qE2fD0WhFg-nBaULn4N78_5NU5OOf1pak_St3C17naDZ9P4om9oE483uikU9SsyDs-cyjM6ubUyFVVBx1ITyNn9bx260RlUkZL4Wji_Pv0virUi5H4Couel0OirpeD9VvbOHEk4oSdsZDA_CJY9rWW1-13_6is_06W06Gz7I0cmFtRBB7K10x3jI8ikH-r0DryDkj-qwT639QV7c64tEUNn6iafwcOC_P1e_tT412t59cEmNZo7P1xgbQ" class="tg-dl-btn" target="_blank">📥 دانلود ویدیو</a>
-</div>
-<div class="tg-text">👈
-تصاویری از شلیک موشک‌ها
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 92.7K · <a href="https://t.me/alonews/146386" target="_blank">📅 01:43 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146385">
-<div class="tg-post-header">📌 پیام #16</div>
-<div class="tg-text">👈
-منابع ایتایی: در پی حملات ایران به اردن حدود ۵۰۰سرباز آمریکایی کشته و زخمی شدن
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 94.6K · <a href="https://t.me/alonews/146385" target="_blank">📅 01:39 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146384">
-<div class="tg-post-header">📌 پیام #15</div>
-<div class="tg-text">👈
-یه موشک هم رفته تو سوریه که رهگیری شد
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 90.4K · <a href="https://t.me/alonews/146384" target="_blank">📅 01:37 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146383">
-<div class="tg-post-header">📌 پیام #14</div>
-<div class="tg-text">👈
-گویا یه موشک هم رفته خورده بحرین
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 91.8K · <a href="https://t.me/alonews/146383" target="_blank">📅 01:36 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146382">
-<div class="tg-post-header">📌 پیام #13</div>
-<div class="tg-text">👈
-گزارش‌های اولیه حاکی از آن است که یک نفتکش ایرانی دیگر با نام «DERYA» هدف حمله نیروهای آمریکایی قرار گرفته است.
-🔴
-این گزارش‌ها به‌تازگی منتشر شده‌اند و هنوز مشخص نیست این حمله پیش از آغاز حمله تلافی‌جویانه ایران انجام شده یا پس از آن.
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 93.6K · <a href="https://t.me/alonews/146382" target="_blank">📅 01:30 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146381">
-<div class="tg-post-header">📌 پیام #12</div>
-<div class="tg-text">هرکی موافقه به اسرائیل حمله بشه و انتقام‌گرفته بشه لایک کنه
-😂</div>
-<div class="tg-footer">👁️ 92.8K · <a href="https://t.me/alonews/146381" target="_blank">📅 01:23 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146380">
-<div class="tg-post-header">📌 پیام #11</div>
-<div class="tg-text">🔴
-فووووووووری</div>
-<div class="tg-footer">👁️ 93.3K · <a href="https://t.me/alonews/146380" target="_blank">📅 01:22 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146379">
-<div class="tg-post-header">📌 پیام #10</div>
-<div class="tg-text">🔴
-فووووووووری</div>
-<div class="tg-footer">👁️ 92.8K · <a href="https://t.me/alonews/146379" target="_blank">📅 01:21 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146378">
-<div class="tg-post-header">📌 پیام #9</div>
-<div class="tg-text">👈
-هم اکنون وضعیت آسمان اردن
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 95.2K · <a href="https://t.me/alonews/146378" target="_blank">📅 01:16 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146377">
-<div class="tg-post-header">📌 پیام #8</div>
-<div class="tg-text">🔴
-فوری/پایگاه‌های هوایی «موفق السلطی» در منطقه الازرق و «شاهزاده حسن» اهداف حملات موشکی ایران است.
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 92.5K · <a href="https://t.me/alonews/146377" target="_blank">📅 01:11 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146376">
-<div class="tg-post-header">📌 پیام #7</div>
-<div class="tg-text">🔴
-فوری/سپاه با موشک خوشه‌ای حمله کرده
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 95.6K · <a href="https://t.me/alonews/146376" target="_blank">📅 01:09 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146375">
-<div class="tg-post-header">📌 پیام #6</div>
-<div class="tg-photo"><img src="https://cdn4.telesco.pe/file/AFin4SLNJG-LxQVL43nv-AZYLSuy4P-TdXWwI0hOE_GkE5fksyQIpXzOuoOTYxnX4CPv7qzQVuEn_laVgH7EWVR6LLx1NQ10S1d45ak2y1xNTKLMnP9aA6N5qlw8l1JXyzs1MLRguvEzCbKaKc9yapRnb5D9vgcGKak_9OOBww8mA-sG0HK-iU-KuRIddDlWO-ljChES6Y8YlwgQaScNWKcW6BkcGGJoauI-VmAjEIfswYSrWtrR3GngH_09xNXfNM0O6VV-SOjB6o4yD53cn4kjxa_DZQnS4Y8h_zncyQ2b_gEZ1Kihvh2bM0PF5NoC0ggR8he3LxHB7JSRBAi5Ug.jpg" alt="photo" loading="lazy"/></div>
-<div class="tg-text">🔴
-فوری/هم اکنون آسمان اردن
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 94.4K · <a href="https://t.me/alonews/146375" target="_blank">📅 01:08 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146374">
-<div class="tg-post-header">📌 پیام #5</div>
-<div class="tg-text">سپاه گفته خدمه‌های نفت‌کش‌هایی که تو اسکله های بحرین و کویت هستن تخلیه کنن؛ چون ما میزنیم
-‼️
-🆔
-@AlirezaMehrabi_ir</div>
-<div class="tg-footer">👁️ 91.5K · <a href="https://t.me/alonews/146374" target="_blank">📅 01:06 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146372">
-<div class="tg-post-header">📌 پیام #4</div>
-<div class="tg-text">🔴
-فوری/حدود 15موشک شلیک شده
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 93.1K · <a href="https://t.me/alonews/146372" target="_blank">📅 01:02 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146371">
-<div class="tg-post-header">📌 پیام #3</div>
-<div class="tg-text">🔴
-فوری/حملات به اردن هست
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 94.9K · <a href="https://t.me/alonews/146371" target="_blank">📅 00:59 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146370">
-<div class="tg-post-header">📌 پیام #2</div>
-<div class="tg-text">🔴
-فوری/از ۱۲شهر ایران موشک شلیک شده
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 97.2K · <a href="https://t.me/alonews/146370" target="_blank">📅 00:58 · 18 Shahrivar 1405</a></div>
-</div>
-
-<div class="tg-post" id="msg-146369">
-<div class="tg-post-header">📌 پیام #1</div>
-<div class="tg-text">🔴
-فوری/شلیک موشک از خرم آباد
-✅
-@AloNews</div>
-<div class="tg-footer">👁️ 96.1K · <a href="https://t.me/alonews/146369" target="_blank">📅 00:56 · 18 Shahrivar 1405</a></div>
+<div class="tg-footer">👁️ 67.3K · <a href="https://t.me/alonews/146405" target="_blank">📅 09:21 · 18 Shahrivar 1405</a></div>
 </div>
 
 <hr>
